@@ -4,6 +4,7 @@
 - [Article 18-1](article-18-1.md)
 - [Article 18-2](article-18-2.md)
 - [Article 18-3](article-18-3.md)
+- [Article 19](article-19.md)
 - [Article 19-1](article-19-1.md)
 - [Article 19-4](article-19-4.md)
 - [Article 19-5](article-19-5.md)
