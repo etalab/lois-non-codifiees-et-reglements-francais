@@ -1,6 +1,6 @@
 # Article 6
 
-Le conseil comprend cinquante membres titulaires et un nombre égal de suppléants. Les membres suppléants n'assistent qu'aux séances où ils remplacent les membres titulaires.
+Le conseil comprend cinquante et un membres titulaires et un nombre égal de suppléants. Les membres suppléants n'assistent qu'aux séances où ils remplacent les membres titulaires.
 
 Ces membres sont répartis comme suit :
 
@@ -16,6 +16,8 @@ b) Représentant des ouvriers conchylicoles 1.
 
 c) Représentant des professionnels du secteur coopératif 1.
 
+d) Représentant des écloseurs (toutes régions) 1.
+
 II. - Secteur II (moules et autres coquillages) :
 
 Représentants des sections régionales définies à l'article 17 du présent décret :
@@ -24,7 +26,7 @@ a) 1. Tous coquillages (sauf vénériculture) :
 
 Normandie-mer du Nord 2, Bretagne-Nord 2, Bretagne-Sud 1, Ré-Centre-Ouest 2, Marennes-Oléron 1, Arcachon-Aquitaine, Méditerranée 2.
 
-a) 2. Vénériculture (toutes régions) 2.
+a) 2. Vénériculture (toutes régions) 1.
 
 Groupe Commerce et industrie :
 
@@ -43,3 +45,5 @@ Zone V : régions Rhône-Alpes, Languedoc-Roussillon, Provence-Alpes-Côte d'Azu
 Zone VI : régions Alsace, Bourgogne, Lorraine, Champagne-Ardenne et Franche-Comté 3.
 
 b) Représentant de l'industrie 1.
+
+c) Representant des épurateurs 1.
