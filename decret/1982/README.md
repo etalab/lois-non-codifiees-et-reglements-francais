@@ -18,6 +18,7 @@
 - [Décret n°82-578 du 2 juillet 1982](decret-n82-578-du-2-juillet-1982)
 - [Décret n°82-586 du 2 juillet 1982](decret-n82-586-du-2-juillet-1982)
 - [Décret n°81-1068 du 3 décembre 1981](decret-n81-1068-du-3-decembre-1981)
+- [Décret n°82-1031 du 3 décembre 1982](decret-n82-1031-du-3-decembre-1982)
 - [Décret n°82-671 du 3 août 1982](decret-n82-671-du-3-aout-1982)
 - [Décret n°82-685 du 3 août 1982](decret-n82-685-du-3-aout-1982)
 - [Décret n°82-688 du 3 août 1982](decret-n82-688-du-3-aout-1982)
