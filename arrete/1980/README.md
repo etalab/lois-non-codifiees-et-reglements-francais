@@ -29,7 +29,6 @@
 - [Arrêté du 11 juillet 1980](arrete-du-11-juillet-1980)
 - [Arrêté du 12 novembre 1980](arrete-du-12-novembre-1980)
 - [Arrêté du 12 septembre 1980](arrete-du-12-septembre-1980)
-- [Arrêté du 12 mai 1980](arrete-du-12-mai-1980)
 - [Arrêté du 13 mars 1980](arrete-du-13-mars-1980)
 - [Arrêté du 13 mai 1980](arrete-du-13-mai-1980)
 - [Arrêté du 14 avril 1980](arrete-du-14-avril-1980)
