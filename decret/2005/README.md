@@ -41,6 +41,7 @@
 - [Décret n°2004-1094 du 15 octobre 2004 (SOCF0411899D)](decret-n2004-1094-du-15-octobre-2004-socf0411899d)
 - [Décret n°2004-1103 du 15 octobre 2004 (SANS0423102D)](decret-n2004-1103-du-15-octobre-2004-sans0423102d)
 - [Décret n°2005-135 du 15 février 2005 (PRMG0470859D)](decret-n2005-135-du-15-fevrier-2005-prmg0470859d)
+- [Décret n°2005-31 du 15 janvier 2005 (FPPX0500001D)](decret-n2005-31-du-15-janvier-2005-fppx0500001d)
 - [Décret n°2005-142 du 16 février 2005 (DEFP0401210D)](decret-n2005-142-du-16-fevrier-2005-defp0401210d)
 - [Décret n°2005-480 du 16 mai 2005 (SANG0520868D)](decret-n2005-480-du-16-mai-2005-sang0520868d)
 - [Décret n°2004-242 du 17 mars 2004 (AGRE0400169D)](decret-n2004-242-du-17-mars-2004-agre0400169d)
