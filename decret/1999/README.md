@@ -345,6 +345,7 @@
 - [Décret n°99-46 du 22 janvier 1999 (INTM9800032D)](decret-n99-46-du-22-janvier-1999-intm9800032d)
 - [Décret n°99-47 du 22 janvier 1999 (ECOT9951773D)](decret-n99-47-du-22-janvier-1999-ecot9951773d)
 - [Décret n°99-48 du 22 janvier 1999 (DEFP9852030D)](decret-n99-48-du-22-janvier-1999-defp9852030d)
+- [Décret du 23 juin 1999 (HRUX9903527D)](decret-du-23-juin-1999-hrux9903527d)
 - [Décret n°70-1285 du 23 décembre 1970](decret-n70-1285-du-23-decembre-1970)
 - [Décret n°98-649 du 23 juillet 1998 (MESG9821968D)](decret-n98-649-du-23-juillet-1998-mesg9821968d)
 - [Décret n°99-129 du 23 février 1999 (INTM9900005D)](decret-n99-129-du-23-fevrier-1999-intm9900005d)
