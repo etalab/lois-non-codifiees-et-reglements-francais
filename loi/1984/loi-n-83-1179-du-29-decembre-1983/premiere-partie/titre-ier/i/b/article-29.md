@@ -1,5 +1,3 @@
 # Article 29
 
-Au titre des frais d'assiette, de recouvrement, de dégrèvement et de non-valeurs afférents aux droits et taxes transférés aux départements et à la région de Corse en application du II de l'article 99 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat et du 1° du II de l'article 23 de la loi n° 82-659 du 30 juillet 1982 portant statut particulier de la région de Corse :
-
-compétences, l'Etat est autorisé à percevoir, en 1984, une somme égale à 2,5 p. cent du montant de ces droits et taxes. Cette somme est calculée en sus du montant des droits et taxes.
+L'Etat perçoit au titre de frais d'assiette, de recouvrement, de dégrèvements et de non-valeurs 2,50 % du montant des taxes et droits départementaux ou des taxes régionales visée aux articles 24, 26 et 28 de la présente loi de finances et à l'article 23 de la loi de finances pour 1985 (n° 84-1208 du 29 décembre 1984). Cette somme est calculée en sus du montant de ces droits et taxes et selon les modalités définies aux articles 4 et 5 de la loi n° 84-600 du 13 juillet 1984.
