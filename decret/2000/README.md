@@ -265,6 +265,7 @@
 - [Décret n° 2000-69 du 27 janvier 2000 (EQUX0000013D)](decret-n-2000-69-du-27-janvier-2000-equx0000013d)
 - [Décret n°2000-363 du 27 avril 2000 (DEFP0001293D)](decret-n2000-363-du-27-avril-2000-defp0001293d)
 - [Décret n°2000-375 du 27 avril 2000 (INTM0000011D)](decret-n2000-375-du-27-avril-2000-intm0000011d)
+- [Décret n°2000-384 du 27 avril 2000 (ECOT9926258D)](decret-n2000-384-du-27-avril-2000-ecot9926258d)
 - [Décret n°2000-75 du 27 janvier 2000 (MENX9900141D)](decret-n2000-75-du-27-janvier-2000-menx9900141d)
 - [Décret n°2000-76 du 27 janvier 2000 (ECOX9900130D)](decret-n2000-76-du-27-janvier-2000-ecox9900130d)
 - [Décret n°2000-78 du 27 janvier 2000 (DEFX9900153D)](decret-n2000-78-du-27-janvier-2000-defx9900153d)

@@ -144,6 +144,7 @@
 - [Arrêté du 27 décembre 1999 (MENP9902848A)](arrete-du-27-decembre-1999-menp9902848a)
 - [Arrêté du 27 janvier 2000 (FPPA0010008A)](arrete-du-27-janvier-2000-fppa0010008a)
 - [Arrêté du 27 janvier 2000 (MESH0020301A)](arrete-du-27-janvier-2000-mesh0020301a)
+- [Arrêté du 28 avril 2000 (INTD0000237A)](arrete-du-28-avril-2000-intd0000237a)
 - [Arrêté du 28 avril 2000 (JUSF0050012A)](arrete-du-28-avril-2000-jusf0050012a)
 - [Arrêté du 28 avril 2000 (MENS0001037A)](arrete-du-28-avril-2000-mens0001037a)
 - [Arrêté du 28 décembre 1999 (DEFP0001021A)](arrete-du-28-decembre-1999-defp0001021a)

@@ -24,6 +24,8 @@ Société centrale du Groupe des assurances nationales.
 
 Société marseillaise de crédit.
 
+CNP Assurances SA.
+
 2. Ministère de la défense :
 
 Aérospatiale.
