@@ -2,3 +2,4 @@
 
 - [Chapitre Ier : La Commission nationale de l'informatique et des libertés](chapitre-ier)
 - [Chapitre II : Formalités préalables à la mise en oeuvre des traitements automatisés d'informations nominatives](chapitre-ii)
+- [Chapitre IV : Formalités préalables à la mise en oeuvre de traitements de données personnelles de santé à des fins d'évaluation ou d'analyse statistique des pratiques et des activités de soins et de prévention.](chapitre-iv)
