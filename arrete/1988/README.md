@@ -12,7 +12,6 @@
 - [Arrêté du 2 août 1988 (SPSS8801171A)](arrete-du-2-aout-1988-spss8801171a)
 - [Arrêté du 2 décembre 1988 (AGRE8801931A)](arrete-du-2-decembre-1988-agre8801931a)
 - [Arrêté du 2 décembre 1988 (BUDR8805007A)](arrete-du-2-decembre-1988-budr8805007a)
-- [Arrêté du 2 décembre 1988 (SPSH8801775A)](arrete-du-2-decembre-1988-spsh8801775a)
 - [Arrêté du 2 décembre 1988 (TEFT8804150A)](arrete-du-2-decembre-1988-teft8804150a)
 - [Arrêté du 2 février 1988 (ASES8800212A)](arrete-du-2-fevrier-1988-ases8800212a)
 - [Arrêté du 2 février 1988 (BUDF8700009A)](arrete-du-2-fevrier-1988-budf8700009a)
