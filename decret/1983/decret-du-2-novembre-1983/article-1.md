@@ -1,5 +1,5 @@
 # Article 1
 
-Par décret en date du 2 novembre 1983, les statuts de la société chargée de la commercialisation des oeuvres et documents audiovisuels créée par le décret n° 83-341 du 23 avril 1983, annexés audit décret, sont approuvés (1).
+Les personnels employés précédemment par les établissements et services gérés par l'association Les Papillons Blancs de Dole et recrutés à compter du 1er février 1983 par l'établissement public communal chargé de l'accueil du handicap à Dole et dans sa région pourront sur leur demande et nonobstant toute condition d'âge être inscrits dans les cadres des agents permanents des établissements régis par le livre IX du code de la santé publique.
 
-(1) Ces statuts peuvent être consultés au siège social de la société, 78, avenue Raymond-Poincaré, Paris (16è).
+Les agents ont une année à dater de la notification de proposition de reclassement pour demander leur intégration.
