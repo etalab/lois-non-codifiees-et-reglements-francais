@@ -367,6 +367,7 @@
 - [Décret n°2000-572 du 26 juin 2000 (EQUP0000216D)](decret-n2000-572-du-26-juin-2000-equp0000216d)
 - [Décret n°2000-573 du 26 juin 2000 (EQUP0000215D)](decret-n2000-573-du-26-juin-2000-equp0000215d)
 - [Décret n°2000-700 du 26 juillet 2000 (ECOT0051898D)](decret-n2000-700-du-26-juillet-2000-ecot0051898d)
+- [Décret n°2000-1060 du 27 octobre 2000 (MENK0002671D)](decret-n2000-1060-du-27-octobre-2000-menk0002671d)
 - [Décret n°2000-577 du 27 juin 2000 (MESP0021636D)](decret-n2000-577-du-27-juin-2000-mesp0021636d)
 - [Décret n°2000-707 du 27 juillet 2000 (JUSA0000199D)](decret-n2000-707-du-27-juillet-2000-jusa0000199d)
 - [Décret n°2000-709 du 27 juillet 2000 (EQUU0001002D)](decret-n2000-709-du-27-juillet-2000-equu0001002d)
