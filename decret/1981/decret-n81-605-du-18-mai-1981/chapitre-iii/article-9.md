@@ -10,6 +10,6 @@ Les qualificatifs mentionnés à l'article 10 ci-après ;
 
 Les modalités de production de ces semences ou plants ;
 
-Les contrôles qu'ils doivent subir en vue de leur commercialisation ;
+Les contrôles qu'ils doivent subir en vue de leur mise sur le marché ;
 
-Les modalités de leur conditionnement lors de leur commercialisation.
+Les modalités de leur conditionnement lors de leur mise sur le marché.

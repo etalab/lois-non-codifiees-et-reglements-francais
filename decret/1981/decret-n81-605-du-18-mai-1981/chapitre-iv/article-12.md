@@ -1,6 +1,6 @@
 # Article 12
 
-Les produits mentionnés au présent décret, qu'ils soient importés, transportés en vue de la vente, mis en vente ou vendus en emballages ou par lots, doivent être munis dans les conditions précisées, s'il y a lieu, par des arrêtés du ministre de l'agriculture, d'un étiquetage portant notamment les mentions suivantes :
+Les produits mentionnés au présent décret, qu'ils soient importés, transportés en vue de la mise sur le marché en emballages ou par lots, doivent être munis dans les conditions précisées, s'il y a lieu, par des arrêtés du ministre de l'agriculture, d'un étiquetage portant notamment les mentions suivantes :
 
 1° Nom (ou raison sociale) et adresse du vendeur ou, s'il y a lieu, du conditionneur et de l'importateur. Ces indications pourront être remplacées par une identification conventionnelle arrêtée par le service de la répression des fraudes ;
 
