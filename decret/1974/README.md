@@ -23,6 +23,7 @@
 - [Décret n°75-888 du 23 septembre 1975](decret-n75-888-du-23-septembre-1975)
 - [Décret n°73-1225 du 24 décembre 1973](decret-n73-1225-du-24-decembre-1973)
 - [Décret n°74-171 du 26 février 1974](decret-n74-171-du-26-fevrier-1974)
+- [Décret n°74-191 du 26 février 1974](decret-n74-191-du-26-fevrier-1974)
 - [Décret n°74-63 du 28 janvier 1974](decret-n74-63-du-28-janvier-1974)
 - [Décret n°73-1216 du 29 décembre 1973](decret-n73-1216-du-29-decembre-1973)
 - [Décret n°76-119 du 29 janvier 1976](decret-n76-119-du-29-janvier-1976)
