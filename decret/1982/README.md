@@ -127,6 +127,7 @@
 - [Décret n°82-624 du 20 juillet 1982](decret-n82-624-du-20-juillet-1982)
 - [Décret n°82-67 du 20 janvier 1982](decret-n82-67-du-20-janvier-1982)
 - [Décret n°82-73 du 20 janvier 1982](decret-n82-73-du-20-janvier-1982)
+- [Décret n°82-801 du 20 septembre 1982](decret-n82-801-du-20-septembre-1982)
 - [Décret n°82-901 du 20 octobre 1982](decret-n82-901-du-20-octobre-1982)
 - [Décret n°82-902 du 20 octobre 1982](decret-n82-902-du-20-octobre-1982)
 - [Décret n°82-903 du 20 octobre 1982](decret-n82-903-du-20-octobre-1982)

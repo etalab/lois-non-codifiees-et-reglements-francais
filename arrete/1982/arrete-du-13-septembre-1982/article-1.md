@@ -1,27 +1,17 @@
 # Article 1
 
-Les plafonds prévus par l'article 12 du décret du 25 juin 1976 susvisé sont fixés à :
+Il sera frappé par l'administration des monnaies et médailles pour le compte de l'Etat, indépendamment de la pièce de 10 F visée par l'arrêté du 8 novembre 1974, une série de pièces commémoratives de 10 F au millésime 1982 dont la composition et les caractéristiques ainsi qu'il suit :
 
-a) Pour les allocataires occupant en location des locaux construits avant le 1er janvier 1976 :
+Diamètre (en millimètres) : 26.
 
-745 F s'il s'agit d'un ménage sans enfant ou d'une              personne ou d'un ménage ayant un ou deux enfants              ou personnes à charge ;
+Composition :
 
-838 F s'il s'agit d'une personne ou d'un ménage ayant              trois enfants ou personnes à charge ;
+- titre droit : cuivre 920, nickel 60, aluminium 20.
 
-923 F s'il s'agit d'une personne ou d'un ménage ayant              quatre enfants ou personnes à charge ;
+- tolérance (en millièmes) : plus ou moins 10.
 
-1026 F s'il s'agit d'une personne ou d'un ménage ayant cinq              enfants ou personnes à charge ;
+Poids :
 
-1120 F s'il s'agit d'une personne ou d'un ménage ayant six              enfants ou personnes à charge et plus ;
+- poids droit : 10 grammes.
 
-b) Pour les allocataires occupant en location des locaux construits après le 1er janvier 1976 et pour les accédants à la propriété, quelle que soit la date de construction ou d'achèvement du logement, dès lors que les emprunts auxquels se rapporte le certificat de prêt prévu à l'article 11 du décret du 25 juin 1976 susvisé ont été contractés après le 30 juin 1982 :
-
-938 F s'il s'agit d'un ménage sans enfant ou d'une personne              ou d'un ménage ayant un ou deux enfants ou personnes              à charge ;
-
-1048 F s'il s'agit d'une personne ou d'un ménage ayant trois              enfants ou personnes à charge ;
-
-1158 F s'il s'agit d'une personne ou d'un ménage ayant quatre              enfants ou personnes à charge ;
-
-1268 F s'il s'agit d'une personne ou d'un ménage ayant cinq              enfants ou personnes à charge ;
-
-1378 F s'il s'agit d'une personne ou d'un ménage ayant six              enfants ou personnes à charge et plus.
+- tolérance (en millièmes) : plus ou moins 50.
