@@ -104,6 +104,8 @@
 - [Décret n°91-768 du 7 août 1991 (TEFE9103854D)](decret-n91-768-du-7-aout-1991-tefe9103854d)
 - [Décret n°91-770 du 7 août 1991 (AGRS9100554D)](decret-n91-770-du-7-aout-1991-agrs9100554d)
 - [Décret n°91-773 du 7 août 1991 (MENX9100127D)](decret-n91-773-du-7-aout-1991-menx9100127d)
+- [Décret n°91-774 du 7 août 1991 (MAEJ9130049D)](decret-n91-774-du-7-aout-1991-maej9130049d)
+- [Décret n°91-775 du 7 août 1991 (MAEJ9130051D)](decret-n91-775-du-7-aout-1991-maej9130051d)
 - [Décret n°91-421 du 7 mai 1991 (TEFE9103217D)](decret-n91-421-du-7-mai-1991-tefe9103217d)
 - [Décret n°91-422 du 7 mai 1991 (TEFE9103218D)](decret-n91-422-du-7-mai-1991-tefe9103218d)
 - [Décret n°91-434 du 7 mai 1991 (MCCK9100006D)](decret-n91-434-du-7-mai-1991-mcck9100006d)
