@@ -1,4 +1,4 @@
-# Arrêté du 12 juillet 1985 modifiant l'arrêté du 13 avril 1981 fixant le taux de la contribution instituée à l'article L. 613-4 III du code de la sécurité sociale.
+# Arrêté du 12 juillet 1985 fixant le seuil en deçà duquel les caisses de mutualité sociale agricole et les autres organismes participant à l'application de la législation de protection sociale sont autorisés à différer la mise en recouvrement de leurs créances en matière de cotisations et de majorations de retard.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
