@@ -2,5 +2,6 @@
 
 - [TITRE Ier : Tarifs de base fixés dans le cadre de la convention postale universelle.](titre-ier)
 - [TITRE II : Surtaxes aériennes.](titre-ii)
+- [TITRE III : Services financiers.](titre-iii)
 - [TITRE IV : Dispositions diverses.](titre-iv)
 - [Article 31](article-31.md)

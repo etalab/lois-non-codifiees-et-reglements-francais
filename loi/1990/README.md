@@ -9,6 +9,7 @@
 - [Loi n° 90-15 du 2 janvier 1990 (MAEX8900085L)](loi-n-90-15-du-2-janvier-1990-maex8900085l)
 - [Loi n° 90-16 du 2 janvier 1990 (MAEX8900086L)](loi-n-90-16-du-2-janvier-1990-maex8900086l)
 - [Loi n° 90-33 du 10 janvier 1990 (JUSX8900131L)](loi-n-90-33-du-10-janvier-1990-jusx8900131l)
+- [Loi n° 90-34 du 10 janvier 1990 (INTX8900119L)](loi-n-90-34-du-10-janvier-1990-intx8900119l)
 - [Loi n° 90-55 du 15 janvier 1990 (INTX8900076L)](loi-n-90-55-du-15-janvier-1990-intx8900076l)
 - [Loi n° 90-8 du 2 janvier 1990 (FPPX8910391L)](loi-n-90-8-du-2-janvier-1990-fppx8910391l)
 - [Loi n° 90-85 du 23 janvier 1990 (AGRX8900045L)](loi-n-90-85-du-23-janvier-1990-agrx8900045l)
