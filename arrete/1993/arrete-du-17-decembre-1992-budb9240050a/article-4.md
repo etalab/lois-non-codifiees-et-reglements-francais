@@ -1,3 +1,0 @@
-# Article 4
-
-Les redevances fixées par les articles ci-dessus sont versées par les réseaux de contrôle agréés au titre de l'article 7 du décret n° 91-370 du 15 avril 1991, à la régie de recettes de la direction régionale de l'industrie, de la recherche et de l'environnement d'Ile-de-France et par les centres de contrôle non rattachés à un réseau, agréés au titre de l'article 4 du décret n° 91-370 du 15 avril 1991, aux régies de recettes instituées auprès des directions régionales de l'industrie, de la recherche et de l'environnement par arrêté du 5 juillet 1984 modifié, pour être affectées au fonds de concours n° 21.2.2.060 du ministère de l'industrie et du commerce extérieur.

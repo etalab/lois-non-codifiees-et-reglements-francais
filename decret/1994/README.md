@@ -80,7 +80,6 @@
 - [Décret n°94-682 du 3 août 1994 (AGRA9400997D)](decret-n94-682-du-3-aout-1994-agra9400997d)
 - [Décret n°94-683 du 3 août 1994 (AGRA9400998D)](decret-n94-683-du-3-aout-1994-agra9400998d)
 - [Décret n°94-684 du 3 août 1994 (RESK9400990D)](decret-n94-684-du-3-aout-1994-resk9400990d)
-- [Décret n°94-685 du 3 août 1994 (COPC9400003D)](decret-n94-685-du-3-aout-1994-copc9400003d)
 - [Décret n°94-866 du 3 octobre 1994 (MCCB9400108D)](decret-n94-866-du-3-octobre-1994-mccb9400108d)
 - [Décret n°94-867 du 3 octobre 1994 (MCCB9400109D)](decret-n94-867-du-3-octobre-1994-mccb9400109d)
 - [Décret n°94-956 du 3 novembre 1994 (AGRA9401651D)](decret-n94-956-du-3-novembre-1994-agra9401651d)

@@ -506,7 +506,6 @@
 - [Arrêté du 16 septembre 1993 (ECOT9316185A)](arrete-du-16-septembre-1993-ecot9316185a)
 - [Arrêté du 16 septembre 1993 (SANP9302789A)](arrete-du-16-septembre-1993-sanp9302789a)
 - [Arrêté du 17 août 1993 (ECOX9300576A)](arrete-du-17-aout-1993-ecox9300576a)
-- [Arrêté du 17 décembre 1992 (BUDB9240050A)](arrete-du-17-decembre-1992-budb9240050a)
 - [Arrêté du 17 décembre 1992 (DEFD9202045A)](arrete-du-17-decembre-1992-defd9202045a)
 - [Arrêté du 17 décembre 1992 (ENVE9250444A)](arrete-du-17-decembre-1992-enve9250444a)
 - [Arrêté du 17 décembre 1993 (ECOM9200304A)](arrete-du-17-decembre-1993-ecom9200304a)

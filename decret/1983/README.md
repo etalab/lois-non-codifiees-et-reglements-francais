@@ -153,7 +153,6 @@
 - [Décret n°83-326 du 21 avril 1983](decret-n83-326-du-21-avril-1983)
 - [Décret n°83-328 du 21 avril 1983](decret-n83-328-du-21-avril-1983)
 - [Décret n°83-664 du 21 juillet 1983](decret-n83-664-du-21-juillet-1983)
-- [Décret n°83-703 du 21 juillet 1983](decret-n83-703-du-21-juillet-1983)
 - [Décret n°83-925 du 21 octobre 1983](decret-n83-925-du-21-octobre-1983)
 - [Décret n°83-927 du 21 octobre 1983](decret-n83-927-du-21-octobre-1983)
 - [Décret n°83-1121 du 22 décembre 1983](decret-n83-1121-du-22-decembre-1983)

@@ -457,7 +457,6 @@
 - [Arrêté du 9 mai 1995 (SPSP9501490A)](arrete-du-9-mai-1995-spsp9501490a)
 - [Arrêté du 9 mai 1995 (SPSS9501234A)](arrete-du-9-mai-1995-spss9501234a)
 - [Arrêté du 9 mai 1995 (SPSS9501500A)](arrete-du-9-mai-1995-spss9501500a)
-- [Arrêté du 9 mai 1995 (SPSS9501510A)](arrete-du-9-mai-1995-spss9501510a)
 - [Arrêté du 9 mai 1995 (SPSS9501561A)](arrete-du-9-mai-1995-spss9501561a)
 - [Arrêté du 10 août 1994 (EQUA9401424A)](arrete-du-10-aout-1994-equa9401424a)
 - [Arrêté du 10 avril 1995 (BUDB9530024A)](arrete-du-10-avril-1995-budb9530024a)

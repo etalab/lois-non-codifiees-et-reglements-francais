@@ -15,7 +15,6 @@
 - [Arrêté du 23 juin 1967](arrete-du-23-juin-1967)
 - [Arrêté du 24 mars 1967](arrete-du-24-mars-1967)
 - [Arrêté du 27 janvier 1967](arrete-du-27-janvier-1967)
-- [Arrêté du 28 décembre 1966](arrete-du-28-decembre-1966)
 - [Arrêté du 28 juillet 1967](arrete-du-28-juillet-1967)
 - [Arrêté du 29 août 1967](arrete-du-29-aout-1967)
 - [Arrêté du 30 juin 1967](arrete-du-30-juin-1967)
