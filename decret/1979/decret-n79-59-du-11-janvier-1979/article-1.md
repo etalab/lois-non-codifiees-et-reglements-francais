@@ -1,0 +1,3 @@
+# Article 1
+
+Les personnels affiliés au régime des pensions des ouvriers des établissements industriels de l'Etat, anciens déportés ou internés, titulaires de la carte des déportés ou internés de la Résistance ou de la carte de déporté ou interné politique et bénéficiaires d'une pension militaire d'invalidité accordée à un taux au moins égal à 60 p. 100 ont droit, sur leur demande, après l'âge de cinquante-cinq ans, en application de la loi du 12 juillet 1977 susvisée, quelle que soit la durée de leurs services, à la pension à jouissance immédiate prévue par l'article 3 (2°) du décret du 24 septembre 1965 susvisé.
