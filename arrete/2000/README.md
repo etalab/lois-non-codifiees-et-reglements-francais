@@ -35,6 +35,7 @@
 - [Arrêté du 13 novembre 2000 (EQUA0001792A)](arrete-du-13-novembre-2000-equa0001792a)
 - [Arrêté du 13 novembre 2000 (MENR0002680A)](arrete-du-13-novembre-2000-menr0002680a)
 - [Arrêté du 14 novembre 2000 (AGRG0002286A)](arrete-du-14-novembre-2000-agrg0002286a)
+- [Arrêté du 15 décembre 2000 (PRMX0004542A)](arrete-du-15-decembre-2000-prmx0004542a)
 - [Arrêté du 15 juin 1990 (PRMX9010128A)](arrete-du-15-juin-1990-prmx9010128a)
 - [Arrêté du 15 mars 2000 (ECOI0000147A)](arrete-du-15-mars-2000-ecoi0000147a)
 - [Arrêté du 15 novembre 2000 (DEFC0002242A)](arrete-du-15-novembre-2000-defc0002242a)

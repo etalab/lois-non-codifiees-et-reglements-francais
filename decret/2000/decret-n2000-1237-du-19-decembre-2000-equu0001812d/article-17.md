@@ -1,0 +1,3 @@
+# Article 17
+
+La mise en place du conseil d'administration et l'élection du président doivent intervenir dans un délai maximal de trois mois à compter de la date de publication du présent décret. Jusqu'à cette mise en place et à cette élection, les pouvoirs du conseil d'administration et de son président sont exercés par le directeur général de l'établissement public. Par dérogation aux dispositions de l'article 11, la première nomination du directeur général sera prononcée par arrêté du ministre chargé de l'urbanisme après les seules consultations du préfet des Hauts-de-Seine et du maire de Nanterre.
