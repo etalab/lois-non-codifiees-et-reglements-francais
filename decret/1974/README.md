@@ -1,6 +1,7 @@
 # 1974
 
 - [Décret n°74-78 du 1 février 1974](decret-n74-78-du-1-fevrier-1974)
+- [Décret n°74-362 du 2 mai 1974](decret-n74-362-du-2-mai-1974)
 - [Décret n°74-1 du 3 janvier 1974](decret-n74-1-du-3-janvier-1974)
 - [Décret n°74-13 du 4 janvier 1974](decret-n74-13-du-4-janvier-1974)
 - [Décret n°74-14 du 4 janvier 1974](decret-n74-14-du-4-janvier-1974)
@@ -16,6 +17,7 @@
 - [Décret n°74-862 du 17 octobre 1974](decret-n74-862-du-17-octobre-1974)
 - [Décret n°76-553 du 17 juin 1976](decret-n76-553-du-17-juin-1976)
 - [Décret n°76-554 du 17 juin 1976](decret-n76-554-du-17-juin-1976)
+- [Décret n°74-535 du 17 mai 1974](decret-n74-535-du-17-mai-1974)
 - [Décret n°74-37 du 18 janvier 1974](decret-n74-37-du-18-janvier-1974)
 - [Décret n°73-1219 du 20 décembre 1973](decret-n73-1219-du-20-decembre-1973)
 - [Décret n°74-133 du 20 février 1974](decret-n74-133-du-20-fevrier-1974)
@@ -32,6 +34,7 @@
 - [Décret n°74-171 du 26 février 1974](decret-n74-171-du-26-fevrier-1974)
 - [Décret n°74-191 du 26 février 1974](decret-n74-191-du-26-fevrier-1974)
 - [Décret n°74-200 du 26 février 1974](decret-n74-200-du-26-fevrier-1974)
+- [Décret n°74-355 du 26 avril 1974](decret-n74-355-du-26-avril-1974)
 - [Décret n°74-63 du 28 janvier 1974](decret-n74-63-du-28-janvier-1974)
 - [Décret n°73-1216 du 29 décembre 1973](decret-n73-1216-du-29-decembre-1973)
 - [Décret n°74-314 du 29 mars 1974](decret-n74-314-du-29-mars-1974)
