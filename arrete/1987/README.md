@@ -1,5 +1,6 @@
 # 1987
 
+- [Arrêté du 1 avril 1987 (BUDF8730031A)](arrete-du-1-avril-1987-budf8730031a)
 - [Arrêté du 1 avril 1987 (MEND8700217A)](arrete-du-1-avril-1987-mend8700217a)
 - [Arrêté du 2 décembre 1986](arrete-du-2-decembre-1986)
 - [Arrêté du 2 février 1987](arrete-du-2-fevrier-1987)
@@ -135,6 +136,7 @@
 - [Arrêté du 19 février 1987 (MENU8700119A)](arrete-du-19-fevrier-1987-menu8700119a)
 - [Arrêté du 19 février 1987 (MENU8700120A)](arrete-du-19-fevrier-1987-menu8700120a)
 - [Arrêté du 19 février 1987 (MENU8700121A)](arrete-du-19-fevrier-1987-menu8700121a)
+- [Arrêté du 19 février 1987 (TRSA8700085A)](arrete-du-19-fevrier-1987-trsa8700085a)
 - [Arrêté du 19 janvier 1987](arrete-du-19-janvier-1987)
 - [Arrêté du 19 janvier 1987 (ASES8700102A)](arrete-du-19-janvier-1987-ases8700102a)
 - [Arrêté du 19 janvier 1987 (BUDB8760001A)](arrete-du-19-janvier-1987-budb8760001a)
@@ -226,6 +228,8 @@
 - [Arrêté du 31 décembre 1986 (INDD8600121A)](arrete-du-31-decembre-1986-indd8600121a)
 - [Arrêté du 31 décembre 1986 (INTB8700044A)](arrete-du-31-decembre-1986-intb8700044a)
 - [Arrêté du 31 décembre 1986 (TRSA8600005A)](arrete-du-31-decembre-1986-trsa8600005a)
+- [Arrêté du 31 mars 1987 (BUDR8703048A)](arrete-du-31-mars-1987-budr8703048a)
+- [Arrêté du 31 mars 1987 (DEFD8701239A)](arrete-du-31-mars-1987-defd8701239a)
 - [Arrêté du 31 mars 1987 (ECOT8733016A)](arrete-du-31-mars-1987-ecot8733016a)
 - [Arrêté du 31 mars 1987 (EQUC8700109A)](arrete-du-31-mars-1987-equc8700109a)
 - [Arrêté du 31 mars 1987 (PTTT8700248A)](arrete-du-31-mars-1987-pttt8700248a)
