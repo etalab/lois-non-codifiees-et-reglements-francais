@@ -273,6 +273,7 @@
 - [Décret n°2003-1088 du 18 novembre 2003 (PRMX0300181D)](decret-n2003-1088-du-18-novembre-2003-prmx0300181d)
 - [Décret n°2003-1097 du 18 novembre 2003 (MCCB0300738D)](decret-n2003-1097-du-18-novembre-2003-mccb0300738d)
 - [Décret n°2003-1098 du 18 novembre 2003 (MCCT0300788D)](decret-n2003-1098-du-18-novembre-2003-mcct0300788d)
+- [Décret n°2003-1111 du 18 novembre 2003 (MCCB0300776D)](decret-n2003-1111-du-18-novembre-2003-mccb0300776d)
 - [Décret n°2003-391 du 18 avril 2003 (MENF0300539D)](decret-n2003-391-du-18-avril-2003-menf0300539d)
 - [Décret n°2003-392 du 18 avril 2003 (INDI0320337D)](decret-n2003-392-du-18-avril-2003-indi0320337d)
 - [Décret n°2003-519 du 18 juin 2003 (ECOT0395086D)](decret-n2003-519-du-18-juin-2003-ecot0395086d)
