@@ -527,8 +527,6 @@
 - [Décret n°95-52 du 12 janvier 1995 (SPSS9403491D)](decret-n95-52-du-12-janvier-1995-spss9403491d)
 - [Décret n°95-56 du 12 janvier 1995 (SPSH9403986D)](decret-n95-56-du-12-janvier-1995-spsh9403986d)
 - [Décret n°95-59 du 12 janvier 1995 (INDA9401442D)](decret-n95-59-du-12-janvier-1995-inda9401442d)
-- [Décret n°95-60 du 12 janvier 1995 (INDA9401443D)](decret-n95-60-du-12-janvier-1995-inda9401443d)
-- [Décret n°95-61 du 12 janvier 1995 (INDA9401444D)](decret-n95-61-du-12-janvier-1995-inda9401444d)
 - [Décret n°95-781 du 12 juin 1995 (PRMX9500855D)](decret-n95-781-du-12-juin-1995-prmx9500855d)
 - [Décret n°95-782 du 12 juin 1995 (ILEX9500854D)](decret-n95-782-du-12-juin-1995-ilex9500854d)
 - [Décret n°95-783 du 12 juin 1995 (ILEG9501776D)](decret-n95-783-du-12-juin-1995-ileg9501776d)

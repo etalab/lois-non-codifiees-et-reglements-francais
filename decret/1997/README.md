@@ -906,8 +906,6 @@
 - [Décret n°97-649 du 29 mai 1997 (ECOP9700272D)](decret-n97-649-du-29-mai-1997-ecop9700272d)
 - [Décret n°97-650 du 29 mai 1997 (ECOP9700273D)](decret-n97-650-du-29-mai-1997-ecop9700273d)
 - [Décret n°97-651 du 29 mai 1997 (ECOP9700274D)](decret-n97-651-du-29-mai-1997-ecop9700274d)
-- [Décret n°97-652 du 29 mai 1997 (ECOP9700275D)](decret-n97-652-du-29-mai-1997-ecop9700275d)
-- [Décret n°97-653 du 29 mai 1997 (ECOP9700276D)](decret-n97-653-du-29-mai-1997-ecop9700276d)
 - [Décret n°97-663 du 29 mai 1997 (BUDR9606068D)](decret-n97-663-du-29-mai-1997-budr9606068d)
 - [Décret n°97-692 du 29 mai 1997 (FPPA9710010D)](decret-n97-692-du-29-mai-1997-fppa9710010d)
 - [Décret n°97-703 du 29 mai 1997 (TASH9720488D)](decret-n97-703-du-29-mai-1997-tash9720488d)

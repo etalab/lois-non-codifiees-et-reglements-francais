@@ -434,7 +434,6 @@
 - [Arrêté du 13 juillet 1998 (EQUT9800984A)](arrete-du-13-juillet-1998-equt9800984a)
 - [Arrêté du 13 juillet 1998 (PRMG9870380A)](arrete-du-13-juillet-1998-prmg9870380a)
 - [Arrêté du 13 mars 1998 (AGRE9800450A)](arrete-du-13-mars-1998-agre9800450a)
-- [Arrêté du 13 mars 1998 (AGRP9800500A)](arrete-du-13-mars-1998-agrp9800500a)
 - [Arrêté du 13 mars 1998 (ATEN9870137A)](arrete-du-13-mars-1998-aten9870137a)
 - [Arrêté du 13 mars 1998 (ECOC9800032A)](arrete-du-13-mars-1998-ecoc9800032a)
 - [Arrêté du 13 mars 1998 (ECOT9820049A)](arrete-du-13-mars-1998-ecot9820049a)
