@@ -55,6 +55,7 @@
 - [Décret n°65-614 du 23 juillet 1965](decret-n65-614-du-23-juillet-1965)
 - [Décret n°65-1166 du 24 décembre 1965](decret-n65-1166-du-24-decembre-1965)
 - [Décret n°65-836 du 24 septembre 1965](decret-n65-836-du-24-septembre-1965)
+- [Décret n°65-240 du 25 mars 1965](decret-n65-240-du-25-mars-1965)
 - [Décret n°65-907 du 25 octobre 1965](decret-n65-907-du-25-octobre-1965)
 - [Décret n°65-726 du 26 août 1965](decret-n65-726-du-26-aout-1965)
 - [Décret n°65-621 du 27 juillet 1965](decret-n65-621-du-27-juillet-1965)
