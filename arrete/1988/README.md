@@ -106,7 +106,6 @@
 - [Arrêté du 5 octobre 1988 (COPC8800107A)](arrete-du-5-octobre-1988-copc8800107a)
 - [Arrêté du 5 mai 1988 (ASEH8800735A)](arrete-du-5-mai-1988-aseh8800735a)
 - [Arrêté du 5 mai 1988 (ASEH8800736A)](arrete-du-5-mai-1988-aseh8800736a)
-- [Arrêté du 5 mai 1988 (ASEP8800336A)](arrete-du-5-mai-1988-asep8800336a)
 - [Arrêté du 5 mai 1988 (INTF8800186A)](arrete-du-5-mai-1988-intf8800186a)
 - [Arrêté du 5 mai 1988 (MAEA8820094A)](arrete-du-5-mai-1988-maea8820094a)
 - [Arrêté du 5 mai 1988 (MCLB8800178A)](arrete-du-5-mai-1988-mclb8800178a)
