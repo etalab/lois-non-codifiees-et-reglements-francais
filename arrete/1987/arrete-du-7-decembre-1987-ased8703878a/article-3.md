@@ -1,9 +1,5 @@
 # Article 3
 
-Le montant de l'allocation mentionnée au 2° de l'article 4 du décret du 16 octobre 1987 susvisé ne peut excéder 20 000 FF par bénéficiaire.
+Hormis le cas mentionné à l'alinéa ci-après, le montant de l'allocation prévue au 2° de l'article 4 du décret du 16 octobre 1987 susvisé est de 20 000 F par bénéficiaire.
 
-Cette aide publique au projet individuel peut concourir au financement des frais occasionnés par :
-
-- l'achat des biens d'équipement nécessaires au projet de réinsertion ;
-
-- une formation professionnelle justifiée par le projet de réinsertion.
+Lorsque la convention mentionnée à l'article 6 du décret précité concerne des étrangers âgés d'au moins quarante-cinq ans, elle peut stipuler que l'allocation du 2° de l'article 4 dudit décret et l'aide accordée par le dernier employeur soient affectées, en totalité ou en partie, à la constitution d'une rente servie jusqu'à la fin du mois du soixantième anniversaire des bénéficiaires par un organisme désigné par la convention. Dans ce cas, le montant de l'allocation du 2° de l'article 4 du décret du 16 octobre 1987 peut, exceptionnellement, dépasser le montant prévu au premier alinéa du présent article sans pouvoir excéder 60 000 F en moyenne pour l'ensemble des bénéficiaires d'une convention, ni 80 000 F par bénéficiaire.
