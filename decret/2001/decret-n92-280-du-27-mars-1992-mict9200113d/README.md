@@ -4,4 +4,5 @@
 - [TITRE Ier : Publicité](titre-ier)
 - [TITRE II : Parrainage.](titre-ii)
 - [TITRE III: Télé-achat](titre-iii)
+- [TITRE IV : Dispositions transitoires et finales.](titre-iv)
 - [Article 36](article-36.md)
