@@ -10,7 +10,6 @@
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 9-1](article-9-1.md)
-- [Article 9 bis](article-9-bis.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
@@ -22,5 +21,4 @@
 - [Article 18](article-18.md)
 - [Article 18-1](article-18-1.md)
 - [Article 18-2](article-18-2.md)
-- [Article 18 bis](article-18-bis.md)
 - [Article 19](article-19.md)

@@ -750,7 +750,6 @@
 - [Arrêté du 21 octobre 1993 (SPSS9303078A)](arrete-du-21-octobre-1993-spss9303078a)
 - [Arrêté du 21 octobre 1993 (SPSS9303095A)](arrete-du-21-octobre-1993-spss9303095a)
 - [Arrêté du 21 octobre 1993 (SPSS9303162A)](arrete-du-21-octobre-1993-spss9303162a)
-- [Arrêté du 21 septembre 1993 (BUDD9370022A)](arrete-du-21-septembre-1993-budd9370022a)
 - [Arrêté du 21 septembre 1993 (EQUA9301082A)](arrete-du-21-septembre-1993-equa9301082a)
 - [Arrêté du 21 septembre 1993 (EQUP9301440A)](arrete-du-21-septembre-1993-equp9301440a)
 - [Arrêté du 21 mai 1992 (INTE9200236A)](arrete-du-21-mai-1992-inte9200236a)
