@@ -24,73 +24,49 @@ D'appels exceptionnels. Les disciplines dans lesquelles, les appels sont excepti
 
 2° Indemnisation des participations au service de garde
 
-A. - Ces participations sont indemnisées sur la base de taux forfaitaires communs à tous les praticiens concernés quelle que soit la catégorie à laquelle ils appartiennent.
+A. - Ces participations sont indemnisées sur la base de taux forfaitaires communs à tous les praticiens concernés quelle que soit la catégorie à laquelle ils appartiennent et selon les textes réglementaires qui leur sont applicables.
 
 Ces taux, ainsi que les limites des plafonds qui évoluent en fonction de l'évolution des traitements de la fonction publique, sont fixés ainsi qu'il suit :
 
+Taux à compter du 01-03-1997 (en francs)
+
 1. Service de garde sur place :
 
-Garde
+Garde :  1 468
 
-Taux à compter du 01-11-1995 (en francs) : 1 460
+Demi-garde : 734
 
-Demi-garde
+De 18 h 30 à 1 heure du matin : 682
 
-Taux à compter du 01-11-1995 (en francs) : 730
-
-De 18 h 30 à 1 heure du matin
-
-Taux à compter du 01-11-1995 (en francs) : 678
-
-De 1 heure à 8 h 30
-
-Taux à compter du 01-11-1995 (en francs) : 782
+De 1 heure du matin à 8 h 30 : 786
 
 2. Service de garde par astreinte :
 
 Astreinte opérationnelle :
 
-a) Indemnité forfaitaire de base
+a) Indemnité forfaitaire de base : 226
 
-Taux à compter du 01-11-1995 (en francs) : 225
+Par demi-astreinte : 113
 
-Par demi-astreinte
-
-Taux à compter du 01-11-1995 (en francs) : 113
-
-b) Indemnité due pour chaque déplacement
-
-Taux à compter du 01-11-1995 (en francs) : 313
+b) Indemnité due pour chaque déplacement : 315
 
 Le montant cumulé des indemnités perçues ne peut excéder :
 
-Au titre d'une demi-astreinte opérationnelle
+Au titre d'une demi-astreinte opérationnelle : 734
 
-Taux à compter du 01-11-1995 (en francs) : 730
-
-Au titre d'une astreinte opérationnelle
-
-Taux à compter du 01-11-1995 (en francs) : 1 460
+Au titre d'une astreinte opérationnelle : 1 468
 
 Astreinte de sécurité :
 
-a) Indemnité forfaitaire de base
-
-Taux à compter du 01-11-1995 (en francs) : 146
+a) Indemnité forfaitaire de base : 147
 
 Le montant cumulé des indemnités forfaitaires de base ne peut excéder :
 
-Pour quatre semaines
+Pour quatre semaines : 1 176
 
-Taux à compter du 01-11-1995 (en francs) : 1 168
+Pour cinq semaines : 1 470
 
-Pour cinq semaines
-
-Taux à compter du 01-11-1995 (en francs) : 1 460
-
-b) Indemnité due pour chaque déplacement
-
-Taux à compter du 01-11-1995 (en francs) : 313
+b) Indemnité due pour chaque déplacement : 315
 
 Les indemnités versées au titre d'une astreinte de sécurité ne peuvent excéder le taux fixé pour une garde.
 
@@ -98,19 +74,13 @@ Les indemnités versées au titre d'une astreinte de sécurité ne peuvent excé
 
 a) Ils ne donnent lieu à aucune indemnité forfaitaire.
 
-b) Indemnité due pour chaque déplacement
-
-Taux à compter du 01-11-1995 (en francs) : 313
+b) Indemnité due pour chaque déplacement : 315
 
 4. Pour un même praticien, le montant cumulé des indemnités perçues pour ses participations au service de garde sous forme de permanence à l'hôpital ou d'astreinte à domicile ne peut excéder :
 
-Pour quatre semaines
+Pour quatre semaines : 14 680
 
-Taux à compter du 01-11-1995 (en francs) : 14 600
-
-Pour cinq semaines
-
-Taux à compter du 01-11-1995 (en francs) : 18 250
+Pour cinq semaines : 18 350
 
 Les indemnités perçues dans le cadre des interventions hors service normal prévues au deuxième alinéa de l'article 3 de l'arrêté du 15 février 1973 modifié ne sont pas comptées dans ce plafond.
 
