@@ -207,7 +207,6 @@
 - [Décret n°89-307 du 12 mai 1989 (INTA8900144D)](decret-n89-307-du-12-mai-1989-inta8900144d)
 - [Décret n°89-308 du 12 mai 1989 (INTA8900145D)](decret-n89-308-du-12-mai-1989-inta8900145d)
 - [Décret n°89-169 du 13 mars 1989 (TRST8900132D)](decret-n89-169-du-13-mars-1989-trst8900132d)
-- [Décret n°89-245 du 13 avril 1989 (ACVP8920006D)](decret-n89-245-du-13-avril-1989-acvp8920006d)
 - [Décret n°89-501 du 13 juillet 1989 (PTTA8900486D)](decret-n89-501-du-13-juillet-1989-ptta8900486d)
 - [Décret n°89-655 du 13 septembre 1989 (PRMX8900039D)](decret-n89-655-du-13-septembre-1989-prmx8900039d)
 - [Décret n°89-666 du 13 septembre 1989 (INTX8900112D)](decret-n89-666-du-13-septembre-1989-intx8900112d)
