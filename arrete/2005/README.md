@@ -28,6 +28,7 @@
 - [Arrêté du 18 mai 2005 (MAEA0520101A)](arrete-du-18-mai-2005-maea0520101a)
 - [Arrêté du 19 juillet 2005 (JUSK0540034A)](arrete-du-19-juillet-2005-jusk0540034a)
 - [Arrêté du 20 avril 2005 (DEFP0500312A)](arrete-du-20-avril-2005-defp0500312a)
+- [Arrêté du 20 décembre 2004 (EQUA0401760A)](arrete-du-20-decembre-2004-equa0401760a)
 - [Arrêté du 20 décembre 2004 (EQUI0401742A)](arrete-du-20-decembre-2004-equi0401742a)
 - [Arrêté du 20 juillet 2005 (MENF0501217A)](arrete-du-20-juillet-2005-menf0501217a)
 - [Arrêté du 20 juin 2005 (ECOP0500485A)](arrete-du-20-juin-2005-ecop0500485a)

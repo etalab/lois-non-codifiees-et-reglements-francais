@@ -1,4 +1,4 @@
-# Décret n°2001-185 du 26 février 2001 relatif aux conditions de délivrance et de renouvellement des passeports
+# Arrêté du 20 décembre 2004 portant octroi d'autorisation et d'agrément de transport aérien
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -10,5 +10,3 @@
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
-- [Article 11](article-11.md)
-- [Article 12](article-12.md)

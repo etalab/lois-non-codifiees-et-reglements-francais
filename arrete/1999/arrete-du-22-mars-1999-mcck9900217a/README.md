@@ -3,4 +3,5 @@
 - [Article 1](article-1.md)
 - [Section 1 : Production d'oeuvres réalisées en langue française](section-1)
 - [Section 2 : Production d'oeuvres réalisées en langue étrangère](section-2)
+- [Section 3 :  Aides à la création de musiques originales](section-3)
 - [Dispositions diverses](dispositions-diverses)
