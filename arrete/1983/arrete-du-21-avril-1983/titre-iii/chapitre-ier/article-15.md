@@ -10,7 +10,7 @@ Le degré de résistance au feu des éléments de construction est déterminé p
 
 4. Par extension à un procès-verbal antérieur ;
 
-5. Par le calcul, selon des méthodes agréées après avis du C.E.C.M.I., telles que les D.T.U. ; ces méthodes peuvent se référer à des essais spécifiques prévus dans ces D.T.U. ;
+5. Par le calcul, selon des méthodes agréées après avis du CECMI, telles que les DTU ou les normes expérimentales AFNOR résultant de la transposition des prénormes européennes (Eurocodes) ; ces méthodes peuvent se référer à des essais spécifiques prévus dans ces textes.
 
 6. Par application de D.T.U. agréés après avis du C.E.C.M.I. entérinant des procédés de fabrication ;
 

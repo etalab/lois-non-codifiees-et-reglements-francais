@@ -1,6 +1,6 @@
 # Article 14
 
-§ 1. Des essais particuliers peuvent être prévus pour l'application des D.T.U. et sont définis dans ceux-ci.
+§ 1. Des essais particuliers peuvent être prévus pour l'application des DTU ou des normes expérimentales AFNOR résultant de la transposition des prénormes européennes (Eurocodes) et sont définis dans ceux-ci.
 
 § 2. D'autres éléments de construction ou dispositifs sont essayés selon des méthodes différentes de celle définie au titre II. Ces méthodes d'essai font l'objet, après avis du C.E.C.M.I., soit d'annexes techniques complétant le présent arrêté, soit de textes particuliers pris en application des règlements de sécurité contre l'incendie.
 

@@ -1,0 +1,3 @@
+# Article Annexe, art. 34 bis
+
+Avant tout licenciement pour inaptitude physique, il sera recherché une adaptation possible du poste ou un reclassement éventuel. Lorsque le licenciement est prononcé pour inaptitude physique, il est accordé aux agents titulaires et dans le cas où ils ne se trouveraient pas dans les conditions requises pour percevoir une pension de retraite à taux plein auprès du régime général de la Sécurité Sociale, une indemnité de licenciement proportionnelle à l'ancienneté dans la Compagnie Consulaire calculée sur la base d'un mois de rémunération mensuelle indiciaire brute par année de services avec un maximum de quinze mois.
