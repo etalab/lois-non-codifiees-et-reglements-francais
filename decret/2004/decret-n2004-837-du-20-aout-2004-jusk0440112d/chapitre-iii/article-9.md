@@ -1,0 +1,3 @@
+# Article 9
+
+Dès qu'elle est rendue, l'ordonnance du juge de l'application des peines visée aux articles 723-22 et 723-23 du code de procédure pénale est notifiée au ministère public ainsi qu'au condamné par le chef de l'établissement pénitentiaire qui lui en remet une copie contre émargement. Une copie en est adressée au directeur du service pénitentiaire d'insertion et de probation ainsi que, le cas échéant, à l'avocat du condamné dans les formes de l'article D. 116-9 du code de procédure pénale. Lorsqu'il s'agit d'un condamné mineur, l'ordonnance est notifiée aux titulaires de l'autorité parentale.

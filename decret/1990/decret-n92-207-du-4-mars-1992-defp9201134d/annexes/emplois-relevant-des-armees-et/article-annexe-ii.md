@@ -14,7 +14,7 @@ II-14 Chef de section et assimilé ;
 
 II-14 bis Adjoint à un chef de section et assimilé ;
 
-II-14 ter Responsable d'une sous-unité au sein d'une section et assimilé ;
+Il-14 ter Responsable d'une sous-unité au sein d'une section et assimilé ;
 
 II-15 Secrétaire de direction auprès d'un officier général commandant de région, de circonscription militaire de défense, d'arrondissement maritime et du général commandant les Forces françaises en Allemagne.
 
@@ -30,7 +30,9 @@ II-22 Adjoint à un chef de bureau ;
 
 II-23 Chef de section et assimilé ;
 
-II-24 Assistant social régional, de circonscription territoriale et d'arrondissement dans les directions régionales de l'action sociale des armées.
+II-24 Conseiller technique régional dans les directions locales d'action sociale ;
+
+Conseiller technique régional dans les directions locales d'action sociale de l'arrondissement maritime de Cherbourg, du commandement de la marine à Paris, et de la région de gendarmerie de Lille.
 
 II-25 Chef de groupe "Coresta" au commandement et direction des transmissions de l'armée de terre :
 

@@ -1,0 +1,5 @@
+# TITRE III BIS : DÉCLARATION D'UTILITÉ PUBLIQUE ET INSTITUTION DES SERVITUDES PRÉVUES PAR L'ARTICLE 12 BIS DE LA LOI DU 15 JUIN 1906
+
+- [Article 20-1](article-20-1.md)
+- [Article 20-2](article-20-2.md)
+- [Article 20-3](article-20-3.md)

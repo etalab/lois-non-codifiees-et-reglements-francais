@@ -1,6 +1,6 @@
 # Article 1
 
-Délégation permanente de pouvoirs du ministre chargé de l'éducation est donnée, pour prononcer à l'égard des personnels enseignants, d'éducation, d'information et d'orientation de l'enseignement du second degré et aux personnels stagiaires de ces mêmes corps, hormis ceux en position de détachement :
+Délégation permanente de pouvoirs du ministre chargé de l'éducation est donnée, pour prononcer à l'égard des personnels enseignants, d'éducation, d'information et d'orientation de l'enseignement du second degré et des personnels stagiaires de ces mêmes corps, hormis ceux en position de détachement :
 
 I.-Aux vice-recteurs de Nouvelle-Calédonie, des îles Wallis et Futuna, de Mayotte et, sous réserve des dispositions de l'article 2 du présent arrêté, au vice-recteur de Polynésie française, les décisions relatives :
 
@@ -18,7 +18,7 @@ I.-Aux vice-recteurs de Nouvelle-Calédonie, des îles Wallis et Futuna, de Mayo
 
 7. Au congé pour siéger comme représentant d'une association, d'une mutuelle, d'une instance, consultative ou non, instituée par une disposition législative ou réglementaire, prévu au 10° de l'article 34 de la loi du 11 janvier 1984 susvisée ;
 
-8.A la mise en position « accomplissement du service national » et au congé pour accomplir une période d'instruction militaire ou d'activité dans la réserve opérationelle prévu par l'article 53 de la loi du 11 janvier 1984 susvisée ;
+8.A la mise en position accomplissement du service national et au congé pour accomplir une période d'instruction militaire ou d'activité dans la réserve opérationelle prévu par l'article 53 de la loi du 11 janvier 1984 susvisée ;
 
 9. Au congé administratif prévu par les décrets n° 96-1026 et n° 96-1027 du 26 novembre 1996 ;
 
@@ -30,9 +30,9 @@ I.-Aux vice-recteurs de Nouvelle-Calédonie, des îles Wallis et Futuna, de Mayo
 
 13.A la reconnaissance de l'état d'invalidité temporaire, au versement de l'allocation d'invalidité temporaire et au versement de la majoration pour tierce personne ;
 
-14.A la délivrance des ordres de mission ou de déplacement et aux autorisations et accords prévus par les décrets n° 86-816 du 12 mars 1986 et n° 98-844 du 22 septembre 1998 ;
+14.A la délivrance des ordres de mission ou de déplacement et aux autorisations et accords prévus par les décrets n° 86-416 du 12 mars 1986, n° 89-271 du 12 avril 1989 et n° 98-844 du 22 septembre 1998 ;
 
-15.A l'ouverture du droit à la prise en charge des frais et au versement des indemnités relatifs aux déplacements et, le cas échéant, au versement des avances auxquelles ils peuvent donner lieu, prévus par les décrets n° 86-816 du 12 mars 1986 et n° 98-844 du 22 septembre 1998 ;
+15.A l'ouverture du droit à la prise en charge des frais et au versement des indemnités relatifs aux déplacements et, le cas échéant, au versement des avances auxquelles ils peuvent donner lieu, prévus par les décrets n° 86-416 du 12 mars 1986, n° 89-271 du 12 avril 1989 et n° 98-844 du 22 septembre 1998 ;
 
 16.A l'attribution de l'échelonnement indiciaire prévu pour les professeurs bi-admissibles à l'agrégation ;
 

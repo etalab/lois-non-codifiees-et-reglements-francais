@@ -4,5 +4,6 @@
 - [TITRE IER : Déclaration d'utilité publique des ouvrages d'électricité et de gaz en vue de l'exercice de servitudes.](titre-ier)
 - [TITRE II : Etablissement des servitudes](titre-ii)
 - [TITRE III : Indemnités dues en raison des servitudes](titre-iii)
+- [TITRE III BIS : DÉCLARATION D'UTILITÉ PUBLIQUE ET INSTITUTION DES SERVITUDES PRÉVUES PAR L'ARTICLE 12 BIS DE LA LOI DU 15 JUIN 1906](titre-iii-bis)
 - [TITRE IV : Dispositions diverses](titre-iv)
 - [Article 23](article-23.md)
