@@ -1,3 +1,3 @@
 # Article 8
 
-Le secrétaire général à l'aviation civile et le directeur général de l'Aéroport de Paris sont chargés, chacun en ce qui le concerne, de l'application du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les lieutenants de louveterie doivent adresser chaque année au directeur départemental de l'agriculture par l'intermédiaire du préfet ou du sous-préfet de leur circonscription avant le 15 mai un rapport sur le nombre des animaux nuisibles détruits au cours de la campagne allant du 1er mai au 30 avril.

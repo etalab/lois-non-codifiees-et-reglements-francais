@@ -1,19 +1,7 @@
 # Article 4
 
-Le comité comprend :
+Les lieutenants de louveterie ne peuvent entrer en fonctions qu'après avoir prêté serment devant l'un des tribunaux de leur circonscription et avoir fait enregistrer leur commission et l'acte de prestation de serment au greffe du tribunal de grande instance compétent.
 
-a. Le directeur général de la santé ;
+Dans le cas de changement de circonscription, il n'y a pas lieu à nouvelle prestation de serment.
 
-Le délégué à l'informatique ;
-
-Le délégué général à la recherche scientifique et technique ;
-
-Le directeur de l'I.R.I.A ;
-
-Le directeur général de l'I.N.S.E.R.M ;
-
-Le chef de la division O et M - Informatique,
-
-ou leurs représentants.
-
-b. Onze personnalités qualifiées en raison de leur compétence dans le domaine de l'informatique médicale, désignées pour une durée de trois ans.
+En cas de cessation de fonctions pour quelque motif que ce soit, les commissions délivrées sont remises au préfet.

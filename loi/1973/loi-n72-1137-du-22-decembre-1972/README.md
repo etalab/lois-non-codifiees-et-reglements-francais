@@ -1,4 +1,4 @@
-# Arrêté du 27 mars 1973 relatif aux lieutenants de louveterie
+# Loi n°72-1137 du 22 décembre 1972 relative à la protection des consommateurs en matière de démarchage et de vente à domicile
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -10,5 +10,3 @@
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
-- [Article 11](article-11.md)
-- [Article 12](article-12.md)
