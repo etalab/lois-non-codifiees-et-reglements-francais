@@ -43,5 +43,3 @@ Wintershall Aktiengelsellschaft ;
 4. Pour le compte des industriels du pétrole liés par un contrat de fourniture à l'une des sociétés énumérées aux numéros 2 et 3 ci-dessus.
 
 Le bénéficiaire communiquera au préalable au ministre de l'industrie et du commerce (direction des carburants) le nom des personnes remplissant les conditions fixées aux numéros 3 et 4 du présent article et susceptibles d'utiliser la conduite.
-
-Le bénéficiaire est tenu d'exécuter tous les transports qui lui sont demandés par les personnes remplissant les conditions fixées au présent article, dans les limites et sous les réserves précisées aux articles 5 et 6.
