@@ -31,6 +31,7 @@
 - [Arrêté du 22 décembre 1989 (SPSS9000018A)](arrete-du-22-decembre-1989-spss9000018a)
 - [Arrêté du 22 février 1990 (SPSH9000431A)](arrete-du-22-fevrier-1990-spsh9000431a)
 - [Arrêté du 23 février 1990 (EQUT9000170A)](arrete-du-23-fevrier-1990-equt9000170a)
+- [Arrêté du 23 novembre 1989 (SPSA8902504A)](arrete-du-23-novembre-1989-spsa8902504a)
 - [Arrêté du 26 décembre 1989 (PTTT8901162A)](arrete-du-26-decembre-1989-pttt8901162a)
 - [Arrêté du 26 décembre 1989 (PTTT8901163A)](arrete-du-26-decembre-1989-pttt8901163a)
 - [Arrêté du 26 décembre 1989 (PTTT8901166A)](arrete-du-26-decembre-1989-pttt8901166a)
