@@ -10,4 +10,4 @@ La direction des statuts, des pensions et de la réinsertion sociale comprend :
 
 - le centre d'études et de recherche sur l'appareillage des handicapés.
 
-En outre, la commission supérieure des soins gratuits et la commission spéciale nationale de la réforme des déportés et internés résistants et politiques sont rattachées au directeur.
+En outre, l'observatoire de la santé des vétérans, la commission supérieure des soins gratuits et la commission spéciale nationale de la réforme des déportés et internés résistants et politiques sont rattachés au directeur.
