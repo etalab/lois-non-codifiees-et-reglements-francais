@@ -1,8 +1,8 @@
-# Article 5
+# Article 10
 
-La commission des orthophonistes du Conseil supérieur des professions paramédicales comprend [*composition*] :
+La commission des psychomotriciens du Conseil supérieur des professions paramédicales comprend [*composition*] :
 
-- huit membres appartenant à la profession désignés par le ministre chargé de la santé sur propositions respectives des organisations suivantes :
+Huit membres appartenant à la profession désignés par le ministre chargé de la santé sur propositions respectives des organisations suivantes :
 
 - fédération de la santé et de l'action sociale CGT ;
 
@@ -14,21 +14,19 @@ La commission des orthophonistes du Conseil supérieur des professions paramédi
 
 - confédération générale des cadres [*CGC*] ;
 
-- fédération nationale des orthophonistes (deux membres) ;
+- fédération française des psychomotriciens (deux membres) ;
 
-- fédération des orthophonistes de France.
+- syndicat national d'union des psychomotriciens.
 
-Trois membres appartenant à la profession désignés par le ministre chargé de la santé en raison de leur compétence, dont un orthophoniste responsable de la formation professionnelle continue.
+Trois membres appartenant à la profession désignés par le ministre chargé de la santé en raison de leur compétence.
 
-- dix membres appartenant à l'administration, aux organismes intéressés et au corps médical :
+Neuf membres appartenant à l'administration, aux organismes intéressés et au corps médical :
 
 - le directeur général de la santé ou son représentant, président ;
 
 - le directeur des hôpitaux ou son représentant ;
 
 - le directeur de l'action sociale ou son représentant ;
-
-- le directeur de la sécurité sociale ou son représentant ;
 
 - le ministre de l'éducation nationale ou son représentant ;
 

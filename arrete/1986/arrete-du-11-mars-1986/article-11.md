@@ -1,8 +1,8 @@
-# Article 5
+# Article 11
 
-La commission des orthophonistes du Conseil supérieur des professions paramédicales comprend [*composition*] :
+La commission des manipulateurs d'électroradiologie du Conseil supérieur des professions paramédicales comprend [*composition*] :
 
-- huit membres appartenant à la profession désignés par le ministre chargé de la santé sur propositions respectives des organisations suivantes :
+Six membres appartenant à la profession désignés par le ministre chargé de la santé sur propositions respectives des organisations suivantes :
 
 - fédération de la santé et de l'action sociale CGT ;
 
@@ -14,23 +14,19 @@ La commission des orthophonistes du Conseil supérieur des professions paramédi
 
 - confédération générale des cadres [*CGC*] ;
 
-- fédération nationale des orthophonistes (deux membres) ;
+- association française du personnel paramédical d'électroradiologie.
 
-- fédération des orthophonistes de France.
+Quatre membres appartenant à la profession désignés par le ministre chargé de la santé en raison de leur compétence.
 
-Trois membres appartenant à la profession désignés par le ministre chargé de la santé en raison de leur compétence, dont un orthophoniste responsable de la formation professionnelle continue.
-
-- dix membres appartenant à l'administration, aux organismes intéressés et au corps médical :
+Neuf membres appartenant à l'administration, aux organismes intéressés et au corps médical :
 
 - le directeur général de la santé ou son représentant, président ;
 
 - le directeur des hôpitaux ou son représentant ;
 
-- le directeur de l'action sociale ou son représentant ;
-
-- le directeur de la sécurité sociale ou son représentant ;
-
 - le ministre de l'éducation nationale ou son représentant ;
+
+- un représentant de la fédération hospitalière de France ;
 
 - un médecin inspecteur régional de la santé ;
 

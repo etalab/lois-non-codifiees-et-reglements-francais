@@ -1,6 +1,6 @@
-# Article 9
+# Article 13
 
-La commission des ergothérapeutes du Conseil supérieur des professions paramédicales comprend [*composition*] :
+La commission permanente interprofessionnelle du Conseil supérieur des professions paramédicales comprend [*composition*] :
 
 Sept membres appartenant à la profession désignés par le ministre chargé de la santé sur propositions respectives des organisations suivantes :
 
@@ -14,22 +14,30 @@ Sept membres appartenant à la profession désignés par le ministre chargé de 
 
 - confédération générale des cadres [*CGC*] ;
 
-- association nationale française des ergothérapeutes (deux membres) ;
+- fédération de l'éducation nationale (FEN) ;
 
-Trois membres appartenant à la profession désignés par le ministre chargé de la santé en raison de leur compétence.
+- syndicat national des cadres hospitaliers (SNCH).
 
-Neuf membres appartenant à l'administration, aux organismes intéressés et au corps médical :
+Douze membres représentant chacune des commissions spécialisées, élus respectivement par les membres professionnels de chacune d'elles.
+
+Treize membres appartenant à l'administration, aux organismes intéressés et au corps médical :
 
 - le directeur général de la santé ou son représentant, président ;
 
 - le directeur des hôpitaux ou son représentant ;
 
+- le directeur de la sécurité sociale ou son représentant ;
+
 - le directeur de l'action sociale ou son représentant ;
 
 - le ministre de l'éducation nationale ou son représentant ;
 
+- le ministre chargé de la formation professionnelle ou son représentant ;
+
 - un médecin inspecteur régional de la santé ;
+
+- un représentant de la fédération hospitalière de France ;
 
 - deux médecins désignés par le ministre chargé de la santé sur propositions respectives de la confédération des syndicats médicaux français et de la fédération des médecins de France ;
 
-- deux médecins désignés par le ministre chargé de la santé en raison de leur compétence.
+- trois médecins désignés par le ministre chargé de la santé en raison de leur compétence.
