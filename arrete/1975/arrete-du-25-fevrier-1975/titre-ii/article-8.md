@@ -1,13 +1,9 @@
 # Article 8
 
-Sont présumés dangereux pour les abeilles tous les insecticides, à l'exception de ceux qui portent sur leurs emballages la mention "non dangereux pour les abeilles" dont a été assortie leur autorisation de vente.
+En vue de protéger les abeilles et autres insectes pollinisateurs, les traitements réalisés au moyen d'insecticides et d'acaricides sont interdits, quels que soient les produits et l'appareil applicateur utilisés, sur toutes les cultures et peuplement forestiers visités par ces insectes durant la période de floraison et pendant la période de production du miellat consécutif aux attaques de pucerons.
 
-Les traitements réalisés au moyen de produits présumés dangereux pour les abeilles sont interdits, quel que soit l'appareil applicateur utilisé :
+Par dérogation à cette disposition, seuls peuvent être utilisés durant ces périodes les insecticides et les acaricides dont l'autorisation de vente porte les mentions suivantes : "Emploi autorisé durant la floraison ou au cours des périodes d'exsudation du miellat consécutif aux attaques de pucerons, à condition de respecter les doses, modes d'emploi et précautions fixés dans l'autorisation de vente". Ces mentions particulières doivent figurer sur les emballages.
 
-- Sur les arbres fruitiers ainsi que sur toutes cultures visitées par les abeilles pendant la floraison.
+En outre, tous les insecticides et acaricides reconnus dangereux pour les abeilles et autres insectes pollinisateurs doivent porter la mention : "Produit dangereux pour les abeilles et autres insectes pollinisateurs".
 
-- Sur les arbres forestiers ou d'alignement pendant la période de production du miellat consécutif aux attaques de pucerons.
-
-- Sur les cultures de céréales, pendant la période de production du miellat consécutif aux attaques de pucerons, entre l'épiaison et la récolte.
-
-Lorsque des plantes mellifères en fleurs se trouvent sous les arbres ou au milieu de cultures destinées à être traitées au moyen de ces produits, elles doivent être fauchées ou arrachées avant le traitement.
+Lorsque des plantes mellifères en fleurs se trouvent sous les arbres ou au milieu de cultures destinées à être traitées, elles doivent être fauchées ou arrachées avant le traitement.

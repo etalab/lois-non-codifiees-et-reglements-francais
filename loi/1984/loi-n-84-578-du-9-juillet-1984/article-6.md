@@ -6,9 +6,11 @@ L'exonération est subordonnée aux conditions suivantes :
 
 1° Ces fonds doivent être soumis aux dispositions du titre II bis de la loi n° 79-594 du 13 juillet 1979 relative aux fonds communs de placement et leurs actifs doivent être constitués de façon constante et pour 40 p. 100 au moins de titres émis aux fins d'augmentations de capital en numéraire réalisées après le 1er janvier 1984 par des sociétés dont les actions ne sont pas admises à la cote officielle ou à la cote du second marché qui sont soumises à l'impôt sur les sociétés et exercent une activité visée à l'article 34 du code général des impôts ou aux fins de constitution du capital par apport en numéraire de telles sociétés réalisée après le 1er janvier 1984 ;
 
+Les titres mentionnés ci-dessus comprennent les obligations convertibles.
+
 2° Les sommes ou valeurs réparties doivent être immédiatement réinvesties dans le fonds et demeurer indisponibles pendant la période visée au premier alinéa ;
 
-3° Le porteur de parts, son conjoint et leurs ascendants et descendants ne doivent pas détenir ensemble directement ou indirectement plus de 25 p. 100 des droits dans les bénéfices de sociétés dont les titres figurent à l'actif du fonds ou avoir détenu ce montant à un moment quelconque au cours des cinq années précédant la souscription des parts du fonds ou l'apport des titres.
+3° Le porteur de parts, son conjoint et leurs ascendants et descendants ne doivent pas détenir ensemble directement ou indirectement plus de 25 % des droits dans les bénéfices de sociétés dont les titres figurent à l'actif du fonds ou avoir détenu ce montant à un moment quelconque au cours des cinq années précédant la souscription des parts du fonds ou l'apport des titres.
 
 II - Les plus-values réalisées par les porteurs de parts remplissant les conditions définies au paragraphe I, à l'occasion de la cession ou du rachat de ces parts après l'expiration de la période mentionnée au même paragraphe, ne sont pas soumises, pour leur fraction représentative de titres cotés, aux dispositions des articles 92 B et 92 F du code général des impôts.
 

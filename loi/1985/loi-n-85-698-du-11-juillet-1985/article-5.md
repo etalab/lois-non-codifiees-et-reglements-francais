@@ -1,0 +1,3 @@
+# Article 5
+
+L'émission d'obligations par les associations visées à l'article 1er peut être effectuée avec appel public à l'épargne ; elle est alors soumise au régime d'autorisation prévu par l'article 82 de la loi n° 46-2914 du 23 décembre 1946 portant ouverture de crédits provisoires applicables aux dépenses du budget ordinaire (services civils), pour le premier trimestre de l'exercice 1947, et au contrôle de la commission des opérations de bourse dans les conditions prévues par l'ordonnance n° 67-833 du 8 septembre 1967 instituant une commission des opérations de bourse et relative à l'information des porteurs de valeurs mobilières et à la publicité de certaines opérations de bourse.
