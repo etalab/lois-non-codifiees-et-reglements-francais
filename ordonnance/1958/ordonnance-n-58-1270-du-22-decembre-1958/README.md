@@ -4,7 +4,6 @@
 - [Chapitre I bis : Du collège des magistrats.](chapitre-i-bis)
 - [Chapitre III : Des magistrats des premier et second grades](chapitre-iii)
 - [Chapitre IV : De la commission d'avancement.](chapitre-iv)
-- [Chapitre IV bis : De la commission consultative du parquet.](chapitre-iv-bis)
 - [Chapitre V : Des magistrats hors hiérarchie.](chapitre-v)
 - [Chapitre V bis : Des conseillers et des avocats généraux à la Cour de cassation en service extraordinaire.](chapitre-v-bis)
 - [Chapitre V ter : Du détachement judiciaire.](chapitre-v-ter)
