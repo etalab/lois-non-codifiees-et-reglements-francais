@@ -1,0 +1,3 @@
+# Article 4
+
+Si, au cours des travaux de recherche ou d'exploitation, il apparaît que ceux-ci sont de nature à compromettre la sécurité et la salubrité publiques ou la conservation d'une mine, la sûreté et l'hygiène des ouvriers mineurs, la conservation des voies de communication, la solidité des édifices publics ou privés, l'usage, le débit ou la qualité des eaux de toute nature, l'effet des mesures générales arrêtées par décret à l'intérieur d'une zone spéciale d'aménagement des eaux et, dans le cas de travaux exécutés en mer, les caractéristiques du milieu marin environnant, le préfet prend toutes décisions qui s'imposent [*autorité compétente*].

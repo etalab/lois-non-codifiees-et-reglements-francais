@@ -8,9 +8,9 @@ Au cours de leur transport, les viandes fraîches provenant d'un établissement 
 
 - mentionne clairement, pour les viandes congelées, le mois et l'année de congélation ;
 
-- comporte, pour les viandes issues d'animaux de l'espèce bovine âgés de moins de 12 mois et contenant de l'os vertébral, la mention suivante : "viandes issues de bovins âgés de moins de 12 mois non soumis à l'obligation de retrait de la colonne vertébrale" ;
+- comporte, pour les viandes issues d'animaux de l'espèce bovine âgés de moins de 12 mois et contenant de l'os vertébral, la mention suivante : "Viandes issues de bovins âgés de moins de 12 mois non soumis à l'obligation de retrait de la colonne vertébrale" ;
 
-- comporte, à compter du 1er janvier 2002, pour les viandes issues d'animaux des espèces ovine et caprine âgés de moins de 6 mois et renfermant de la moelle épinière, la mention suivante : "viandes issues d'animaux âgés de moins de 6 mois non soumis à l'obligation de retrait de la moelle épinière" ;
+- comporte, à compter de la date mentionnée au dernier alinéa du i, point p, de l'article 31 de l'arrêté du 17 mars 1992 modifié relatif aux conditions auxquelles doivent satisfaire les abattoirs d'animaux de boucherie pour la production et la mise sur le marché de viandes fraîches et déterminant les conditions de l'inspection sanitaire de ces établissements, pour les viandes issues d'animaux des espèces ovine et caprine âgés de moins de 6 mois et renfermant de la moelle épinière, la mention suivante : "Viandes issues d'animaux âgés de moins de 6 mois non soumis à l'obligation de retrait de la moelle épinière" ;
 
 - pour les viandes destinées à la Finlande et à la Suède, comporte une des mentions suivantes :
 
@@ -26,9 +26,9 @@ ou
 
 Dans le cadre du commerce national, ce document est conservé par le destinataire pendant une période minimale d'un an pour pouvoir être présenté, à leur demande, aux agents des services vétérinaires.
 
-En outre, les viandes destinées à l'exportation vers les pays tiers peuvent être accompagnées d'un certificat de salubrité délivré par le vétérinaire inspecteur de l'établissement, correspondant, dans sa présentation et son contenu, au modèle figurant à l'annexe I. Il ne comporte qu'un seul feuillet, et l'exemplaire original accompagne les viandes.
+En outre, les viandes destinées à l'exportation vers les pays tiers peuvent être accompagnées d'un certificat de salubrité délivré par le vétérinaire inspecteur de l'établissement, correspondant, dans sa présentation et son contenu, au modèle figurant à l'annexe III. Il ne comporte qu'un seul feuillet, et l'exemplaire original accompagne les viandes.
 
-Lorsqu'elles sont destinées à un autre Etat membre après transit par un pays tiers, en camion ou en conteneur plombés, ou lorsqu'elles ont été obtenues dans un abattoir situé dans une région ou une zone à restriction, les viandes fraîches sont accompagnées du certificat de salubrité délivré par le vétérinaire inspecteur de l'établissement, correspondant dans sa présentation et son contenu au modèle figurant à l'annexe II du présent arrêté. Il est établi en français et dans la ou les langues officielles du lieu de destination et comporte un seul feuillet. L'exemplaire original accompagne les viandes.
+Lorsqu'elles sont destinées à un autre Etat membre après transit par un pays tiers, en camion ou en conteneur plombés, ou lorsqu'elles ont été obtenues dans un abattoir situé dans une région ou une zone à restriction, les viandes fraîches sont accompagnées du certificat de salubrité délivré par le vétérinaire inspecteur de l'établissement, correspondant dans sa présentation et son contenu au modèle figurant à l'annexe IV du présent arrêté. Il est établi en français et dans la ou les langues officielles du lieu de destination et comporte un seul feuillet. L'exemplaire original accompagne les viandes.
 
 A la demande de l'autorité compétente de l'Etat membre de destination, une attestation sanitaire est fournie lorsque les viandes sont destinées à être exportées vers un pays tiers après transformation. Les frais encourus par cette attestation sont à la charge des opérateurs.
 

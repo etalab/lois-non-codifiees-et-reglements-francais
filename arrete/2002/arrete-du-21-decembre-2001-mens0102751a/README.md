@@ -1,4 +1,4 @@
-# Ordonnance n°58-1332 du 23 décembre 1958 relative au stockage souterrain d'hydrocarbures liquides ou liquéfiés.
+# Arrêté du 21 décembre 2001 relatif à l'admission en première année dans les écoles nationales d'ingénieurs de Brest, Metz, Saint-Etienne et Tarbes
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,8 +8,7 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Article 8 bis](article-8-bis.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
-- [Article 13](article-13.md)
+- [Article 12](article-12.md)
