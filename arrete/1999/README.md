@@ -152,6 +152,7 @@
 - [Arrêté du 7 juin 1999 (JUSE9940147A)](arrete-du-7-juin-1999-juse9940147a)
 - [Arrêté du 7 juin 1999 (JUSE9940148A)](arrete-du-7-juin-1999-juse9940148a)
 - [Arrêté du 7 juin 1999 (JUSE9940171A)](arrete-du-7-juin-1999-juse9940171a)
+- [Arrêté du 7 septembre 1999 (ECOT9910381A)](arrete-du-7-septembre-1999-ecot9910381a)
 - [Arrêté du 7 mai 1999 (AGRP9900815A)](arrete-du-7-mai-1999-agrp9900815a)
 - [Arrêté du 8 avril 1999 (ECOB9960010A)](arrete-du-8-avril-1999-ecob9960010a)
 - [Arrêté du 8 avril 1999 (ECOB9960011A)](arrete-du-8-avril-1999-ecob9960011a)
