@@ -1,0 +1,3 @@
+# Article 23
+
+Aussitôt que l'information lui paraît terminée, la commission d'instruction communique le dossier au procureur général pour que ce magistrat prenne ses réquisitions. Les membres du Gouvernement mis en examen et leurs avocats en sont avisés. Ils disposent d'un délai de vingt jours à compter de cet avis pour demander à la commission de statuer sur d'éventuelles nullités. La commission d'instruction peut dire qu'il n'y a pas lieu à suivre ou, si elle estime que les faits reprochés aux membres du Gouvernement constituent un crime ou un délit, ordonner le renvoi de l'affaire devant la Cour de justice de la République.
