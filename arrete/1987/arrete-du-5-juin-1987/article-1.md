@@ -1,0 +1,3 @@
+# Article 1
+
+Est autorisée, en vue de l'émission des titres d'amendes forfaitaires majorées et de leur recouvrement par les comptables directs du Trésor, la mise en oeuvre d'un traitement automatisé des contraventions des quatre premières classes au code de la route, à la réglementation des transports par route, au code des assurances en ce qui concerne l'assurance obligatoire des véhicules terrestres à moteur et de leurs remorques et semi-remorques, à la réglementation sur les parcs nationaux, à la réglementation intéressant les bois, forêts et terrains à boiser et à la police des services publics de transports ferroviaires et des services de transports publics de personnes, réguliers et à la demande, lorsque ces contraventions sont punies seulement d'une amende.

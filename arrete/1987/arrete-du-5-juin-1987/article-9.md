@@ -1,0 +1,3 @@
+# Article 9
+
+Le directeur de la comptabilité publique au ministère de l'économie, des finances et de la privatisation, le directeur des affaires criminelles et des grâces au ministère de la justice, le directeur général de la gendarmerie nationale au ministère de la défense, le directeur des libertés publiques et des affaires juridiques au ministère de l'intérieur, le directeur des forêts au ministère de l'agriculture, le directeur des transports terrestres et le directeur de la protection de la nature au ministère de l'équipement, du logement, de l'aménagement du territoire et des transports sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
