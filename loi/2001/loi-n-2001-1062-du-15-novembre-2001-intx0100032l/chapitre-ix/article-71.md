@@ -12,11 +12,7 @@ III. - Les dispositions des articles 4 à 12, 13 (I à III), 16, 17 (I), 22 à 2
 
 Les dispositions des articles 324-7, 450-1 et 450-2-1 du code pénal sont applicables en Polynésie française.
 
-IV 1 -  Paragraphe modificateur.
-
-IV 2 - L'article 3 de la loi du 19 juin 1871 qui abroge le décret du 4 septembre 1870 sur la fabrication des armes de guerre est applicable en Guyane, à la Réunion et à Saint-Pierre-et-Miquelon.
-
-V, VI et VIII - Paragraphes modificateurs.
+IV à VI et VIII - Paragraphes modificateurs.
 
 VII. - En Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et à Mayotte, afin d'assurer préventivement la sûreté des transports maritimes et des opérations portuaires qui s'y rattachent, les officiers de police judiciaire et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire et les agents de police judiciaire adjoints mentionnés aux 1°, 1° bis et 1° ter de l'article 21 du code de procédure pénale peuvent procéder à la viste des personnes, des bagages, des colis, des marchandises, des véhicules et des navires, à l'exception des parties à usage exclusif d'habitation et des locaux syndicaux, pénétrant ou se trouvant dans les zones portuaires non librement accessibles au public, délimitées par arrêté du représentant de l'Etat.
 
