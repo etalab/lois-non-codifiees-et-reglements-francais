@@ -1,7 +1,9 @@
 # Article 1
 
-La participation des employeurs à l'effort de construction ne peut être utilisée pour le financement des opérations visées à l'article R. 313-19 du code de la construction et de l'habitation qu'à titre complémentaire, sans pouvoir financer plus de 50 p. 100 du coût de l'opération.
+Le taux de la redevance forfaitaire à verser à l'Office des migrations internationales par les étrangers visés aux articles 7 et 11 du décret du 30 juin 1946 susvisé pour l'examen médical complet prévu par l'arrêté du 30 juillet 1986 susvisé en vue de la première délivrance d'une carte de séjour temporaire ou d'une carte de résident est fixé à :
 
-Cette limite est portée à 60 p. 100 pour les propriétaires occupants dont les ressources ne dépassent pas les plafonds prévus par l'article R. 331-42 dudit code.
+Etudiants : 250 F ;
 
-Le montant des sommes utilisées ne peut excéder la différence entre le coût de l'opération et la somme des autres concours financiers obtenus.
+Autres étrangers : 800 F.
+
+Les dispositions du présent article ne s'appliquent pas aux étrangers auxquels est délivrée une carte de séjour temporaire portant la mention Salarié ou Membre de famille ni aux étrangers visés aux 1°, 2° et 5° de l'article 15 de l'ordonnance du 2 novembre 1945 [*éxonération*].

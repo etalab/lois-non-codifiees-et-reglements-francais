@@ -1,4 +1,4 @@
-# Arrêté du 30 juillet 1986 portant approbation du cahier des clauses comptables applicables à la détermination des coûts de revient des prestations des sociétés aéronautiques et spatiales
+# Arrêté du 30 juillet 1986 relatif au contrôle sanitaire des étrangers autorisés à séjourner en France
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -7,3 +7,4 @@
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
+- [Annexes](annexes)

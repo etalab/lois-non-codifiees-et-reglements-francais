@@ -4,4 +4,4 @@ Les bénéficiaires d'une aide publique à la réinsertion restituent leurs titr
 
 Le commissaire de la République leur délivre une autorisation de séjour provisoire.
 
-Il peut confier à l'Office national d'immigration le soin de recevoir les titres restitués par les intéressés et de remettre à ces derniers l'autorisation de séjour provisoire.
+Il peut confier à l'Office des migrations internationales le soin de recevoir les titres restitués par les intéressés et de remettre à ces derniers l'autorisation de séjour provisoire.

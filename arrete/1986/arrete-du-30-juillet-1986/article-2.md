@@ -1,3 +1,7 @@
 # Article 2
 
-Dans les cas prévus par ses paragraphes 0.010 et 0.020, le cahier visé à l'article 1er ci-dessus est obligatoirement appliqué par les administrations et les établissements publics ainsi que par les entreprises nationales et les sociétés d'économie mixte visées par l'article 164 (I, a) de l'ordonnance n° 58-1374 du 30 décembre 1958. Lorsque ledit cahier est applicable à un marché ou à une commande, il doit y être fait référence dans les pièces contractuelles du marché ou de la commande.
+Les examens médicaux visés à l'article 1er sont effectués avant le départ du pays d'origine avec le concours éventuel des services de la santé publique de ce pays [*date, autorités compétentes*] :
+
+a) Par les médecins de l'Office des migrations internationales, ou à défaut ;
+
+b) Par des médecins agréés auprès des représentants diplomatiques français.
