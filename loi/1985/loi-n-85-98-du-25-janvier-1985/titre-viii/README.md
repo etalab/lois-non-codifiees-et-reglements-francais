@@ -1,6 +1,7 @@
 # Titre VIII : Dispositions diverses.
 
 - [Article 215](article-215.md)
+- [Article 215 A](article-215-a.md)
 - [Article 216](article-216.md)
 - [Article 226](article-226.md)
 - [Article 228](article-228.md)

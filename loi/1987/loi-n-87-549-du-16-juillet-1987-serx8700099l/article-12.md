@@ -1,0 +1,3 @@
+# Article 12
+
+Les sommes restant dues au titre des prêts visés au premier alinéa du paragraphe I de l'article 44 de la loi de finances rectificative pour 1986 précitée, accordés aux rapatriés visés au deuxième alinéa du même article, entre le 31 mai 1981 et le 31 décembre 1985, par des établissements de crédit ayant passé convention de l'Etat, sont remises en capital, intérêts et frais sous réserve, pour les prêts complémentaires, qu'ils aient été accordés dans un délai maximum de dix ans à compter de la date d'octroi du prêt principal. L'Etat est subrogé aux emprunteurs vis-à-vis des établissements conventionnés concernés.

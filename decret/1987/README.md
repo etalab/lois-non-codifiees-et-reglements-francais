@@ -134,6 +134,7 @@
 - [Décret n°87-418 du 17 juin 1987 (DEFP8701383D)](decret-n87-418-du-17-juin-1987-defp8701383d)
 - [Décret n°87-437 du 17 juin 1987 (INDG8700297D)](decret-n87-437-du-17-juin-1987-indg8700297d)
 - [Décret n°87-544 du 17 juillet 1987 (ECOT8720024D)](decret-n87-544-du-17-juillet-1987-ecot8720024d)
+- [Décret n°87-551 du 17 juillet 1987 (PRMX8700049D)](decret-n87-551-du-17-juillet-1987-prmx8700049d)
 - [Décret n°86-226 du 18 février 1986](decret-n86-226-du-18-fevrier-1986)
 - [Décret n°87-108 du 18 février 1987 (FPPA8700010D)](decret-n87-108-du-18-fevrier-1987-fppa8700010d)
 - [Décret n°87-112 du 18 février 1987 (ASET8703110D)](decret-n87-112-du-18-fevrier-1987-aset8703110d)
