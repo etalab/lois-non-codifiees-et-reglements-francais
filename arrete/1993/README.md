@@ -883,7 +883,6 @@
 - [Arrêté du 23 mars 1993 (SPSG9300990A)](arrete-du-23-mars-1993-spsg9300990a)
 - [Arrêté du 23 mars 1993 (SPSS9300220A)](arrete-du-23-mars-1993-spss9300220a)
 - [Arrêté du 23 mars 1993 (TEFF9300384A)](arrete-du-23-mars-1993-teff9300384a)
-- [Arrêté du 23 novembre 1993 (ECOM9360402A)](arrete-du-23-novembre-1993-ecom9360402a)
 - [Arrêté du 23 novembre 1993 (EQUT9301715A)](arrete-du-23-novembre-1993-equt9301715a)
 - [Arrêté du 23 septembre 1993 (TEFE9301001A)](arrete-du-23-septembre-1993-tefe9301001a)
 - [Arrêté du 24 août 1993 (ECOC9300129A)](arrete-du-24-aout-1993-ecoc9300129a)

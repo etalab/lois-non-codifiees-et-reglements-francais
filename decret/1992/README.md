@@ -849,7 +849,6 @@
 - [Décret n°77-1288 du 24 novembre 1977](decret-n77-1288-du-24-novembre-1977)
 - [Décret n°91-1302 du 24 décembre 1991 (TEFE9104210D)](decret-n91-1302-du-24-decembre-1991-tefe9104210d)
 - [Décret n°91-99 du 24 janvier 1991 (PTTA9000999D)](decret-n91-99-du-24-janvier-1991-ptta9000999d)
-- [Décret n°92-1033 du 24 septembre 1992 (MENB9200241D)](decret-n92-1033-du-24-septembre-1992-menb9200241d)
 - [Décret n°92-1035 du 24 septembre 1992 (MENB9200243D)](decret-n92-1035-du-24-septembre-1992-menb9200243d)
 - [Décret n°92-1036 du 24 septembre 1992 (MENB9200244D)](decret-n92-1036-du-24-septembre-1992-menb9200244d)
 - [Décret n°92-1037 du 24 septembre 1992 (MENB9200245D)](decret-n92-1037-du-24-septembre-1992-menb9200245d)
