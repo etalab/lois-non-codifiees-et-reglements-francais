@@ -2,15 +2,15 @@
 
 Le tarif de cession des produits sanguins est le suivant :
 
-Sang humain total : unité adulte : 396,60 F
+Sang humain total : unité adulte : 421,80 F
 
-Unité enfant : 200,70 F
+Unité enfant : 213,45 F
 
-Unité nourrisson : 130,60 F
+Unité nourrisson : 138,90 F
 
-Concentré de globules rouges humains, UA : 396,60 F
+Concentré de globules rouges humains, UA : 421,80 F
 
-Concentré de globules rouges humains, UE : 200,70 F
+Concentré de globules rouges humains, UE : 213,45 F
 
 Majoration forfaitaire pour transfusion autologue programmée :
 
@@ -42,11 +42,11 @@ Majoration pour plaquettes humaines issues de plasmaphérèse :
 
 Concentré unitaire de plaquettes humaines (400 milliards de plaquettes viables pour un volume maximal de 500 ml) : 3 765,85 F
 
-Plasma humain frais congelé, UA (200 ml au minimum) : 82,65 F
+Plasma humain frais congelé, UA (200 ml au minimum) : 86,80 F
 
 Plasma humain dépourvu de cryoprotéines, UA (200 ml au minimum) :
 
-82,65 F
+86,80 F
 
 Cryoprécipité humain congelé : par unité tarifaire pour une concentration de facteur VIII de 5 UI/ml avec une tolérance de variations inférieures maximales de 20 p. 100 de cette valeur :
 
