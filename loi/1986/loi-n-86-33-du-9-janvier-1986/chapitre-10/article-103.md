@@ -1,0 +1,7 @@
+# Article 103
+
+Par dérogation à l'article 13 du titre Ier du statut général, les corps et emplois de fonctionnaires de l'administration générale de l'assistance publique à Paris peuvent être régis par des statuts particuliers à cette administration. Ces statuts sont fixés par décret en Conseil d'Etat sur avis du directeur général de l'administration générale de l'assistance publique à Paris, après consultation du conseil administratif supérieur. Le directeur général de l'administration générale de l'assistance publique à Paris peut formuler des propositions. Ces statuts ne peuvent apporter de dérogations au présent titre que pour maintenir les dispositions statutaires et de rémunération qui existaient à la date de publication de la présente loi ou pour les adapter aux conditions d'organisation spécifiques à cette administration.
+
+Jusqu'à l'adoption des statuts particuliers relatifs aux personnels relevant de l'administration générale de l'assistance publique à Paris, occupant les emplois mentionnés au deuxième alinéa de l'article 4, les règles concernant ces personnels sont fixées par le directeur général après avis du conseil administratif supérieur.
+
+Le régime indemnitaire propre aux fonctionnaires mentionnés à l'alinéa ci-dessus est fixé par décret pris sur avis du directeur général de l'administration générale de l'assistance publique à Paris, après consultation du conseil administratif supérieur ; le directeur général de l'administration générale de l'assistance publique à Paris peut formuler des propositions.

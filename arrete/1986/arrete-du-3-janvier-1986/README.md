@@ -1,4 +1,4 @@
-# Arrêté du 3 janvier 1986 accordant la garantie de l'Etat à deux emprunts de la Caisse française de développement industriel
+# Arrêté du 3 janvier 1986 portant création de la commission du développement des nouvelles technologies de communication dans le secteur sanitaire et social.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

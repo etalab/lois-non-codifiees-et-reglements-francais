@@ -1,0 +1,3 @@
+# Article Annexe art. 37
+
+Les premiers administrateurs, nommés pour une durée de trois ans, sont MM....

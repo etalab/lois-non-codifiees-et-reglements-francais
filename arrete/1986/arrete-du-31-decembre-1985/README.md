@@ -1,4 +1,4 @@
-# Arrêté du 31 décembre 1985 portant application des dispositions du décret n° 82-1009 du 26 novembre 1982 relatif aux indemnités susceptibles d'être allouées au président, au vice-président, aux membres et aux rapporteurs de la commission des clauses abusives
+# Arrêté du 31 décembre 1985 portant majoration des salaires forfaitaires servant de base au calcul des contributions des armateurs, des cotisations et des pensions des marins du commerce, de la pêche et de la plaisance *assiette*.
 
 - [Article 1](article-1.md)
 - [Titre Ier : Généralités.](titre-ier)
@@ -8,8 +8,5 @@
 - [Titre III : Vérification primitive et périodique.](titre-iii)
 - [Article 4](article-4.md)
 - [Titre IV : Agrément des laboratoires.](titre-iv)
-- [Article 5](article-5.md)
 - [Titre V : Dispositions diverses.](titre-v)
-- [Article 6](article-6.md)
 - [Article 17](article-17.md)
-- [Annexes](annexes)

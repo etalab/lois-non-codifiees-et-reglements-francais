@@ -1,0 +1,3 @@
+# Article 16
+
+La liste des corps qui, dans la fonction publique hospitalière, sont comparables soit à ceux de la fonction publique de l'Etat, soit à ceux de la fonction publique territoriale, soit aux uns et aux autres, est fixée par décret en conseil d'Etat pris après avis du Conseil supérieur de la fonction publique hospitalière. Si le Gouvernement n'entend pas suivre l'avis du Conseil supérieur de la fonction publique hospitalière, il saisit pour avis la commission mixte paritaire prévue à l'article précédent et la liste est fixée par décret en Conseil d'Etat à l'issue de cette consultation.

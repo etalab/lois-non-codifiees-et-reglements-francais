@@ -1,0 +1,9 @@
+# Article 93
+
+Lorsque l'établissement ne peut offrir au fonctionnaire dont l'emploi est supprimé un autre emploi correspondant à son grade et si l'intéressé ne peut pas prétendre à une pension de retraite à jouissance immédiate et à taux plein, le fonctionnaire bénéficie, nonobstant les dispositions des articles 36 et 38, d'une priorité de recrutement sur tout emploi correspondant à son grade et vacant dans l'un des établissements mentionnés à l'article 2, sous réserve des dispositions du premier alinéa de l'article 55.
+
+L'autorité administrative compétente de l'Etat propose au fonctionnaire, dans un délai et selon un ordre de priorité géographique fixés par décret en Conseil d'Etat, trois emplois vacants correspondant à son grade. Lorsque l'intéressé a accepté l'un des emplois qui lui ont été proposés, l'autorité investie du pouvoir de nomination de l'établissement concerné est tenue de procéder à son recrutement à la demande de l'autorité administrative compétente de l'Etat.
+
+Pendant cette période, le fonctionnaire reçoit de son établissement d'origine sa rémunération principale. Cette prise en charge cesse lorsque le fonctionnaire a reçu une nouvelle affectation ou a refusé le troisième poste proposé et, en tout état de cause, six mois après la suppression d'emploi. Le fonctionnaire est alors licencié. Toutefois, s'il le souhaite, il peut, à sa demande, être mis en disponibilité. Dans ce cas, et sauf lorsqu'il y a lieu d'appliquer les dispositions du premier alinéa de l'article 55 ou du premier alinéa du présent article, il bénéficie d'une priorité de recrutement sur le premier emploi correspondant à son grade et devenu vacant dans son établissement d'origine.
+
+Le décret en Conseil d'Etat visé au deuxième alinéa fixe également les conditions d'application de cet article et notamment le délai de réflexion laissé au fonctionnaire dont l'emploi a été supprimé pour accepter ou refuser un poste ou pour demander sa mise en disponibilité.
