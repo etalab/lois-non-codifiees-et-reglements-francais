@@ -6,7 +6,7 @@ La commission d'hygiène et de sécurité prévue à l'article L. 231-2-2 du cod
 
 - le gestionnaire de l'établissement public ;
 
-- le conseiller principal d'éducation ou le conseiller d'éducation ;
+- le conseiller principal d'éducation ;
 
 - le responsable de l'exploitation agricole ou le responsable de l'atelier technologique ;
 

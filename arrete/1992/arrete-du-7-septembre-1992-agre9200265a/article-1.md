@@ -10,7 +10,7 @@ La composition de la commission d'appel prévue à l'article D. 341-13 du code d
 
 -trois professeurs exerçant au niveau scolaire concerné ;
 
--un conseiller principal d'éducation ou un conseiller d'éducation ;
+-un conseiller principal d'éducation ;
 
 -trois représentants des parents d'élèves ;
 
