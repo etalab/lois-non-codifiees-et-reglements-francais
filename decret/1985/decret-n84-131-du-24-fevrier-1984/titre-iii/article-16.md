@@ -8,6 +8,6 @@ Les candidatures à la fonction de praticien associé sont soumises à l'examen 
 
 La nomination en qualité de praticien associé est prononcée par arrêté du ministre chargé de la santé pour une période de deux ans, après avis de la commission statutaire nationale. Celle-ci dispose des avis motivés de la commission médicale d'établissement et du conseil d'administration, transmis par le directeur au préfet du département, sauf en ce qui concerne les postes à pourvoir en psychiatrie, pour lesquels ces avis ne sont pas requis.
 
-La nomination est renouvelable deux fois, dans les mêmes formes.
+Leur nomination est renouvelable deux fois, dans les mêmes formes. Ces praticiens peuvent bénéficier du renouvellement dans un établissement différent de celui de la nomination initiale, sur poste vacant.
 
 S'ils remplissent les conditions prévues à l'article 8 et s'ils comptent quatre années de services effectifs, les praticiens hospitaliers associés peuvent être intégrés dans le corps des praticiens hospitaliers, par arrêté du ministre chargé de la santé, pris après avis de la commission statutaire nationale. Celle-ci dispose des avis des instances mentionnées au quatrième alinéa du présent article.
