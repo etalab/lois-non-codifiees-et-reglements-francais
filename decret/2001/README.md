@@ -136,7 +136,6 @@
 - [Décret n°2001-617 du 10 juillet 2001 (JUSF0150006D)](decret-n2001-617-du-10-juillet-2001-jusf0150006d)
 - [Décret n°2001-620 du 10 juillet 2001 (MESN0101216D)](decret-n2001-620-du-10-juillet-2001-mesn0101216d)
 - [Décret n°96-887 du 10 octobre 1996 (JUSC9620137D)](decret-n96-887-du-10-octobre-1996-jusc9620137d)
-- [Décret n°2001-413 du 10 mai 2001 (JUSB0010510D)](decret-n2001-413-du-10-mai-2001-jusb0010510d)
 - [Décret n°2001-1169 du 11 décembre 2001 (ECOC0100073D)](decret-n2001-1169-du-11-decembre-2001-ecoc0100073d)
 - [Décret n°2001-1173 du 11 décembre 2001 (INTB0100343D)](decret-n2001-1173-du-11-decembre-2001-intb0100343d)
 - [Décret n°2001-1174 du 11 décembre 2001 (MENF0102414D)](decret-n2001-1174-du-11-decembre-2001-menf0102414d)
