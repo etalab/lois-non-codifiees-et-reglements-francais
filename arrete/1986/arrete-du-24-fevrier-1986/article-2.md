@@ -58,12 +58,12 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </td>
 <td rowspan="3" width="49">
 <pre> </pre>
-<p align="center">6</p>
+<p align="center">7</p>
 <pre> </pre>
 </td>
 <td rowspan="3">
 <pre> </pre>
-<p align="center">6</p>
+<p align="center">7</p>
 <pre> </pre>
 </td>
 </tr>
@@ -83,10 +83,10 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 <p>Directeurs de recherche de 2<sup>e</sup> classe </p>
 </td>
 <td width="49">
-<p align="center">2</p>
+<p align="center">3</p>
 </td>
 <td width="58">
-<p align="center">2</p>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
@@ -98,17 +98,17 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 <p>Chargés de recherche de 1<sup>re</sup> classe</p>
 </td>
 <td width="49">
-<p align="center">2</p>
+<p align="center">4</p>
 </td>
 <td width="58">
-<p align="center">2</p>
+<p align="center">4</p>
 </td>
 <td rowspan="2" width="49">
-<p align="center">4</p>
+<p align="center">7</p>
 <pre> </pre>
 </td>
 <td rowspan="2">
-<p align="center">4</p>
+<p align="center">7</p>
 <pre> </pre>
 </td>
 </tr>
@@ -117,10 +117,10 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 <p>Chargés de recherche de 2<sup>e</sup> classe</p>
 </td>
 <td width="49">
-<p align="center">2</p>
+<p align="center">3</p>
 </td>
 <td width="58">
-<p align="center">2</p>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
@@ -384,7 +384,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </div>
 </td>
 <td>
-<p>Secrétaires d'administration de la recherche de classe exceptionnelle </p>
+<p>Secrétaires d'administration de la recherche de la classe exceptionnelle </p>
 </td>
 <td width="49">
 <p align="center">2</p>
@@ -456,7 +456,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td>
-<p>Adjoints administratifs de la recherche </p>
+<p>Adjoints administratifs principaux de la recherche </p>
 </td>
 <td width="49">
 <p align="center">2</p>
