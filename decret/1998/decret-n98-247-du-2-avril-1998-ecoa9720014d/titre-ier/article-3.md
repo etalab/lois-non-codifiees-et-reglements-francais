@@ -1,0 +1,9 @@
+# Article 3
+
+Le titre de maître artisan est attribué par le président de la chambre de métiers compétente du département aux personnes physiques, y compris les dirigeants sociaux des personnes morales, immatriculées au répertoire des métiers, titulaires du brevet de maîtrise dans le métier exercé ou un métier connexe, après deux ans de pratique professionnelle.
+
+Les personnes physiques, y compris les dirigeants sociaux des personnes morales, immatriculées au répertoire des métiers, titulaires d'un diplôme de niveau de formation au moins équivalent au brevet de maîtrise dans le métier exercé ou un métier connexe peuvent, après deux ans de pratique professionnelle, se faire attribuer le titre de maître artisan par la commission régionale des qualifications prévue à l'article 4 s'ils justifient de connaissances en gestion et en psychopédagogie équivalentes à celles des unités de valeur correspondantes du brevet de maîtrise.
+
+Un arrêté du ministre chargé de l'artisanat fixe pour chaque métier la liste des diplômes et titres homologués dans le métier et les métiers connexes.
+
+Le titre de maître artisan peut également être attribué par la commission régionale des qualifications prévue à l'article 4 aux personnes qui sont immatriculées au répertoire des métiers depuis au moins dix ans justifiant, à défaut de diplômes, d'un savoir-faire reconnu au titre de la promotion de l'artisanat ou de leur participation aux actions de formation. Les demandes sont accompagnées des titres, prix, certificats et tous documents susceptibles d'informer la commission ; elles sont adressées au président de la chambre de métiers compétente du département dont relève le candidat. Ce dernier les transmet, accompagnées de son avis, dans le délai d'un mois à la commission régionale des qualifications. La commission doit statuer dans un délai de trois mois à compter de la réception du dossier.

@@ -1,4 +1,4 @@
-# Arrêté du 13 février 1992 portant création de comités consultatifs interrégionaux de règlement amiable des litiges
+# Décret n°98-242 du 2 avril 1998 relatif aux attributions déléguées au ministre délégué à la ville
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
