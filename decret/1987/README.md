@@ -102,6 +102,7 @@
 - [Décret n°87-112 du 18 février 1987 (ASET8703110D)](decret-n87-112-du-18-fevrier-1987-aset8703110d)
 - [Décret n°87-189 du 18 mars 1987 (MERE8700008D)](decret-n87-189-du-18-mars-1987-mere8700008d)
 - [Décret n°88-262 du 18 mars 1988 (ECOP8800067D)](decret-n88-262-du-18-mars-1988-ecop8800067d)
+- [Décret n°87-333 du 18 mai 1987 (MCCB8700212D)](decret-n87-333-du-18-mai-1987-mccb8700212d)
 - [Décret n°87-123 du 19 février 1987 (MAEJ8730009D)](decret-n87-123-du-19-fevrier-1987-maej8730009d)
 - [Décret n°87-124 du 19 février 1987 (MAEJ8730005D)](decret-n87-124-du-19-fevrier-1987-maej8730005d)
 - [Décret n°87-178 du 19 mars 1987 (INTD8700076D)](decret-n87-178-du-19-mars-1987-intd8700076d)
