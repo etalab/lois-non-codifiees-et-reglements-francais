@@ -159,6 +159,7 @@
 - [Décret n°2004-529 du 11 juin 2004 (INTC0400123D)](decret-n2004-529-du-11-juin-2004-intc0400123d)
 - [Décret n°2004-533 du 11 juin 2004 (SOCA0421308D)](decret-n2004-533-du-11-juin-2004-soca0421308d)
 - [Décret n°2004-539 du 11 juin 2004 (EQUI0400738D)](decret-n2004-539-du-11-juin-2004-equi0400738d)
+- [Décret n°90-918 du 11 octobre 1990 (PRME8961532D)](decret-n90-918-du-11-octobre-1990-prme8961532d)
 - [Décret n°2004-419 du 11 mai 2004 (DOMA0400012D)](decret-n2004-419-du-11-mai-2004-doma0400012d)
 - [Décret n°2003-1203 du 12 décembre 2003 (JUSE0340102D)](decret-n2003-1203-du-12-decembre-2003-juse0340102d)
 - [Décret n°2004-1195 du 12 novembre 2004 (JUSK0440114D)](decret-n2004-1195-du-12-novembre-2004-jusk0440114d)
