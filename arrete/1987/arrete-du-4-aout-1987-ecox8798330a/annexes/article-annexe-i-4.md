@@ -1,13 +1,35 @@
 # Article Annexe I-4
 
-FORMULE D'OBTENTION DU PRIX FABRICANT HORS TAXE INTERMÉDIAIRE DE CALCUL DE LA SPÉCIALITÉ DE RÉFÉ­RENCE POUR UNE CONTENANCE DE CONDITIONNEMENT IDENTIQUE À CELLE DE LA SPÉCIALITÉ GÉNÉRIQUE
+SPÉCIALITÉS PHARMACEUTIQUES BÉNÉFICIANT D'UN FORFAIT SUPPLÉMENTAIRE
 
-(PR/UTR)* UTG
+Médicaments antirétroviraux :
 
-Dans laquelle :
+Zerit, Epivir, Crixivan, Retrovir, Invirase, Norvir, Videx, Hivid, Combivir, Viracept, Sustiva, Fortovase, Viramune, Agenerase.
 
-PR représente le prix fabricant hors taxe intermédiaire de calcul de la spécialité de référence ;
+Médicaments indiqués dans le traitement de l'hépatite C :
 
-UTR représente le nombre d'unités thérapeutiques (ou le cas échéant le nombre d'unités en millilitre ou en gramme pour les formes pharmaceutiques ne répondant pas à une présentation unitaire) contenu dans le conditionnement de la spécialité de référence ;
+Laroféron, Viraféron, Rebetol, Roféron, Infergen, Introna, ViraferonPeg, Pegasys.
 
-UTG représente le nombre d'unités thérapeutiques (ou le cas échéant le nombre d'unités en millilitre ou en gramme pour les formes pharmaceutiques ne répondant pas à une présentation unitaire) contenu dans le conditionnement de la spécialité générique.
+Médicaments indiqués dans la contraception d'urgence :
+
+Tétragynon, Norlevo.
+
+Médicaments à prescription restreinte nécessitant une surveillance particulière pendant le traitement :
+
+Roaccutane, Cognex, Aricept, Exelon, Immucyst, Gonal F, Puregon,  Auricularum, Rilutek, Cetrotide, Réminyl, Orgalutran, Luvéris, Fostimon,  Menopur, Ovitrelle, Selozok, Ebixa.
+
+Médicaments indiqués dans les traitements de substitution et de soutien après le sevrage :
+
+Méthadone AP Paris, Subutex, Nalorex.
+
+Médicaments indiqués dans le sevrage de l'alcoolisme :
+
+Revia, Aotal, Esperal, TTD-B3-B4.
+
+Médicaments d'exception :
+
+Imiject, Modiodal, Bétaféron, Zophren, Kytril, Navoban, Génotonorm,  Maxomat, Zomacton, Norditropine, Saizen, Umatrope, Avonex, Anzemet,  Rebif, Norditropine Simplexx, Edex, Visudyne, Regranex, Genotonorm  Miniquick, Avandia, Actos, Caverject, Kineret, Protopic.
+
+Médicaments stupéfiants :
+
+Skenan, Durogesic, Moscontin, Morphine Lavoisier, Dolosal, Morphine  Meram, Palfium, Kapanol, Morphine Aguettant, Eubine, Fortal, Ritaline,  Sévredol, Sophidone, Actiskenan, Morphine Cooper, Oxycontin.

@@ -1,21 +1,11 @@
 # Article 3
 
-Pour les spécialités pharmaceutiques inscrites sur la  liste prévue à l'article L. 162-17 du code de la sécurité sociale, le  montant limite de marge brute hors taxe, calculé par rapport au prix  fabricant hors taxe, est fixé hors ristournes comme suit :
+I.-Lorsque le prix ou le tarif forfaitaire de responsabilité d'une spécialité phamaceutique est modifié, les grossistes-répartiteurs et les pharmaciens d'officine peuvent continuer à commercialiser, à titre transitoire, pendant une période respectivement de quinze jours et d'un mois à compter de la date d'application de cette modification de prix ou de tarif, les unités de cette spécialité comportant une vignette à leur prix ou tarif antérieur qu'ils détiennent en stock à cette date.
 
-1o Pour l'établissement pharmaceutique qui vend  en gros, ce montant correspond à l'application du barème figurant en  annexe I.1 du présent arrêté.
+Les unités délivrées pendant cette période, comportant des prix ou tarifs antérieurs, peuvent continuer à faire l'objet d'une prise en charge ou d'un remboursement.
 
-2o Pour le pharmacien d'officine, ce montant comprend les trois éléments suivants :
+II.-Les dispositions du I s'appliquent également lorsqu'une spécialité pharmaceutique est soumise pour la première fois au tarif forfaitaire de responsabilité.
 
-a) Un taux calculé conformément au barème figurant en annexe I.2 du présent arrêté ;
+III.-Lorsque le prix de la spécialité de référence figurant dans un groupe générique non soumis au tarif forfaitaire de responsabilité est modifié, les spécialités génériques appartenant au groupe générique de la spécialité de référence, tel que défini au 5° de l'article L. 5121-1 du code de la santé publique, livrées par les établissements de fabrication peuvent être revêtues d'une vignette comportant le prix de vente au public antérieur pendant un délai de quinze jours à compter de la date d'application de la modification du prix de la spécialité de référence susvisée. A titre transitoire, les grossistes-répartiteurs et les pharmaciens d'officine peuvent continuer à commercialiser les spécialités génériques qu'ils détiennent en stock à leur prix antérieur à la date d'application de la modification du prix, pendant une période d'un mois pour les premiers et de deux mois pour les seconds à compter de cette date.
 
-b) Un forfait par conditionnement dont le montant est de 3,50 F ;
-
-c) Pour les spécialités pharmaceutiques  mentionnées en annexe I.5, un forfait supplémentaire par conditionnement  dont le montant est de 2 F.
-
-La marge qui s'applique, pour le pharmacien d'officine  et pour l'établissement pharmaceutique qui vend en gros, à une  spécialité générique définie à l'article L. 601-6 du code de la santé  publique est égale à la marge résultant des dispositions du premier  alinéa applicable à la spécialité de référence appartenant au même  groupe générique lorsque celle-ci figure sur la liste prévue à l'article  L. 162-17 du code de la sécurité sociale. La marge de la spécialité de  référence est obtenue à partir du prix fabricant hors taxe intermédiaire  de calcul obtenu par application du barème mentionné en annexe I.3.
-
-Toutefois, lorsque les contenances des  conditionnements de ces deux spécialités sont différentes, la marge qui  s'applique à la spécialité générique est alignée sur la marge qui serait  obtenue par la spécialité de référence pour une contenance de  conditionnement identique à celle de la spécialité générique. La marge  de la spécialité de référence est calculée sur la base d'un prix  fabricant hors taxe intermédiaire de calcul obtenu par l'application  successive du barème mentionné en annexe I.3 et de la formule figurant  en annexe I.4.
-
-Lorsque la spécialité de référence a plusieurs  contenances de conditionnement, celle qui sert de base au calcul du prix  fabricant hors taxe est la contenance la plus proche de celle de la  spécialité générique.
-
-Le prix public taxes comprises résultant de l'application de la marge  calculée conformément aux dispositions du présent article est arrondi  aux 10 centimes les plus proches.
+Les unités délivrées pendant cette période comportant des prix antérieurs peuvent continuer à faire l'objet d'une prise en charge ou d'un remboursement.
