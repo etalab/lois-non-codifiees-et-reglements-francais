@@ -1,0 +1,5 @@
+# Article 9
+
+Les centres de formation en soins infirmiers qui sollicitent pour la première fois leur agrément, ainsi que les centres de formation existants doivent, conformément aux dispositions de l'article 4 du décret n° 81-306 du 2 avril 1981 modifié susvisé, déposer auprès du directeur départemental des affaires sanitaires et sociales un dossier conforme à l'annexe II du présent arrêté. Ce dossier est transmis au ministre chargé de la santé, accompagné d'un avis motivé du directeur départemental des affaires sanitaires et sociales sur la valeur du projet et d'un avis du directeur régional des affaires sanitaires et sociales sur la demande au regard des besoins régionaux. La demande de réagrément formulée par les centres de formation en soins infirmiers existants doit être déposée auprès de l'autorité compétente dans un délai maximal de deux ans après la publication du présent arrêté.
+
+L'agrément est accordé après avis de la commission des infirmiers du Conseil supérieur des professions paramédicales. Le retrait d'agrément est prononcé dans les mêmes formes.

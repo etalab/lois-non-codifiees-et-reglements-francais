@@ -1,0 +1,3 @@
+# Article 4
+
+Lorsqu'un particulier entrepose un feu d'artifice en vue de le tirer pour son propre usage, il doit respecter les conditions générales de sécurité. L'entreposage des artifices doit être effectué dans un local dont le revêtement intérieur ne doit pas être susceptible de s'enflammer ni de propager un feu jusqu'aux artifices. Les pièces ou éléments d'artifices doivent être entreposés dans leurs emballages d'origine, hors de la portée d'une source de feu ou d'inflammation. Il doit prendre toutes dispositions pour que des mineurs ne puissent avoir accès à ce local et ne puissent faire usage de ces artifices à son insu. Cet entreposage est réalisé sous sa propre responsabilité.

@@ -1,6 +1,6 @@
 # Article 32
 
-Le conseil technique est présidé par le préfet de région ou son représentant. Il comprend [*composition*] :
+Le conseil technique est présidé par le préfet de région ou son représentant. Il comprend :
 
 a) Des membres de droit :
 
@@ -22,7 +22,7 @@ c) Des représentants des enseignants :
 
 d) Des représentants des élèves : deux élèves élus par leurs pairs ;
 
-e) Siège à titre consultatif le (la) conseiller (ère) pédagogique, dans les régions où il (elle) existe.
+e) Siège à titre consultatif le conseiller technique régional en soins infirmiers ou le conseiller pédagogique dans les régions où il existe.
 
 Les représentants des élèves et les autres membres élus siègent pour une durée égale à celle de la formation. Les membres du conseil technique élus ont un suppléant nommé dans les mêmes conditions.
 

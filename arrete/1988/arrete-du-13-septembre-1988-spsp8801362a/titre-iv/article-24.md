@@ -12,6 +12,8 @@ Une épreuve de mise en situation professionnelle, notée sur 40 points.
 
 Cette épreuve consiste en une épreuve pratique et théorique réalisée dans le bloc opératoire où l'élève est en stage, en présence de deux membres du jury : un praticien hospitalier qualifié en chirurgie et un infirmier ou un moniteur de l'école, titulaires du certificat d'aptitude aux fonctions d'infirmier de salle d'opération. L'intervention qui fera l'objet de cette mise en situation professionnelle sera choisie le matin de l'épreuve par les deux membres du jury.
 
-Aux notes résultant des deux épreuves écrites et de l'épreuve de mise en situation professionnelle est ajoutée la moyenne sur 20 des notes des évaluations théoriques, des notes des mises en situation professionnelle et des notes de stages prévues à l'annexe III (1) du présent arrêté.
+La durée de l'épreuve de mise en situation professionnelle est comprise entre une et quatre heures.
+
+Aux notes des deux épreuves écrites et de l'épreuve de mise en situation professionnelle est ajoutée la note sur 40 de l'évaluation continue résultant des notes des évaluations théoriques, des notes des trois mises en situation professionnelle accomplies au cours de la scolarité et des notes de stages, calculée conformément à l'annexe III du présent arrêté.
 
 (1) Les annexes seront publiées au Bulletin officiel du ministère de la solidarité, de la santé et de la protection sociale.

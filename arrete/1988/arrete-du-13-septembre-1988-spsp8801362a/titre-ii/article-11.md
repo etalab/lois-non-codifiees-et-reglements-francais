@@ -27,3 +27,5 @@ Sont déclarés admis les candidats les mieux classés dans la limite des places
 En cas d'égalité de points, le classement est établi en fonction de la note obtenue à l'épreuve d'admissibilité. En cas de nouvelle égalité, le candidat le plus âgé sera classé le premier.
 
 Une liste complémentaire peut être établie. Les candidats inscrits sur cette liste doivent justifier d'un total de points obtenus aux trois épreuves égal ou supérieur à 25.
+
+Lorsque, dans une école, la liste complémentaire établie à l'issue des épreuves d'admission n'a pas permis de pourvoir l'ensemble des places offertes, le directeur de l'école concernée peut faire appel à des candidats inscrits sur la liste complémentaire d'autres écoles restés sans affectation à l'issue de la procédure d'admission dans celles-ci. Ces candidats sont admis dans les écoles dans l'ordre d'arrivée de leur demande d'inscription et dans la limite des places disponibles. Cette procédure d'affectation des candidats dans les écoles ne peut être utilisée que pendant l'année scolaire au titre de laquelle les épreuves d'admission ont été organisées dans celles-ci.

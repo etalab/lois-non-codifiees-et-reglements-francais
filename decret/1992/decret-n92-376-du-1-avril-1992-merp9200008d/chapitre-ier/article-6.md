@@ -1,0 +1,23 @@
+# Article 6
+
+Nul ne peut être électeur s'il tombe sous le coup des dispositions des articles L. 199 et L. 200 du code électoral.
+
+Les conditions pour être électeur et figurer sur une liste électorale s'apprécient à la date de clôture de la procédure d'établissement des listes.
+
+Toute personne, qui demande son inscription sur une des listes électorales, doit souscrire une déclaration auprès de la commission électorale.
+
+Le demandeur précise :
+
+a) Ses nom et prénoms ;
+
+b) Ses date et lieu de naissance ;
+
+c) Son adresse ;
+
+d) Le collège d'électeurs, et éventuellement la catégorie, au titre duquel il demande son inscription.
+
+Cette demande est accompagnée des pièces justificatives nécessaires à son examen. Elle précise que l'électeur ne s'est pas fait inscrire dans un autre comité et qu'il s'abstiendra de demander son inscription dans un autre comité avant d'avoir obtenu sa radiation de celui-ci.
+
+La liste sur laquelle s'effectue l'inscription est celle qui correspond au collège et éventuellement à la catégorie dont relève le demandeur, dans la circonscription électorale où il a le centre de ses activités ou de ses intérêts professionnels.
+
+Les chefs d'entreprises armant des navires dans la circonscription de plusieurs comités peuvent choisir le comité où ils exercent leur droit de vote.

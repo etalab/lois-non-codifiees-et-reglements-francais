@@ -1,0 +1,5 @@
+# Article 12
+
+L'entreposage d'un feu d'artifice à proximité du lieu de tir doit être placé sous le contrôle et la responsabilité d'une personne relevant soit de l'organisateur de spectacle, soit de la collectivité ou de l'organisme qui a commandé le feu d'artifice (désignation à convenir au cas par cas). Le rôle de cette personne est d'assurer pour le compte de son organisme ou collectivité la bonne application de toutes les mesures de sécurité définies dans le présent arrêté, pour le temps de l'entreposage. Dans le cas où le stockage ne relève pas de la responsabilité directe de la collectivité, l'identité de cette personne sera portée à la connaissance du maire, ainsi que la manière de la joindre en cas d'incident. Cette personne sera désignée par le maire si le stockage relève de la responsabilité de la collectivité.
+
+Le fournisseur du feu entreposé devra lui remettre éventuellement une consigne écrite avec toutes les indications complémentaires de stockage et de sécurité jugées nécessaires.
