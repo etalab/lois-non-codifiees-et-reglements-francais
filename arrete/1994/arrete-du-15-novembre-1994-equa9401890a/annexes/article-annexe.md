@@ -1,15 +1,15 @@
 # Article ANNEXE
 
-Année 1995 :
+Année 1996
 
-Trafics annuels de passagers entre l'aéroport d'Orly et les aéroports communautaires:
+Trafics annuels de passagers entre l'aéroport d'Orly et les aéroports communautaires
 
 Supérieurs à 250 000 passagers :
 
-Nice, Marseille, Toulouse, Bordeaux, Strasbourg, Montpellier, Pointe-à-Pitre, Fort-de-France, Londres Heathrow, Hyères (Toulon), Biarritz, Lyon Satolas, Porto, Mulhouse/Bâle, Pau, Lisbonne, Perpignan, Brest, Madrid, Ajaccio, Nîmes, Saint-Denis, Nantes;
+Nice, Marseille, Toulouse, Bordeaux, Strasbourg, Montpellier, Fort-de-France, Pointe-à-Pitre, Hyères (Toulon), Londres Heathrow, Saint-Denis, Mulhouse/Bâle, Biarritz, Porto, Lisbonne, Lyon-Satolas, Perpignan, Pau, Brest, Madrid, Ajaccio, Nîmes.
 
 Compris entre 100 001 et 250 000 passagers :
 
-Grenoble, Bastia, Athènes, Clermont-Ferrand, Barcelone, Lorient, Malaga, Palma de Majorque, Tenerife, Avignon, Francfort, Londres, Stansted, Quimper, Figari, Vienne ;
+Grenoble, Bastia, Clermont-Ferrand, Barcelone, Nantes, Lorient, Athènes, Malaga, Avignon, Palma de Majorque, Quimper, Tenerife, Séville.
 
 Inférieurs ou égaux à 100 000 passagers : autres trafics.
