@@ -1,23 +1,11 @@
 # Article 1
 
-Pour l'élection des députés, des conseillers généraux et des conseillers municipaux, les électeurs des communes de plus de 5000 habitants doivent présenter au président du bureau, au moment du vote, outre leur carte électorale ou l'attestation d'inscription en tenant lieu, l'un des titres d'identité désignés ci-après :
+La durée des périodes prévues au quatrième alinéa de l'article 1er du décret modifié du 21 avril 1967, pendant lesquelles la taxe additionnelle cesse d'être prise en compte pour le calcul du soutien financier de l'Etat au bénéfice des salles de spectacles cinématographiques autres que les salles spécialisées définies par l'article 1er bis dudit décret est fixée ainsi qu'il suit :
 
-Carte nationale d'identité ;
+Une semaine en cas de constatation, pour une période trimestrielle, de la projection de films pornographiques à l'occasion d'une ou de deux séances ;
 
-Carte du combattant de couleur chamois ;
+Trois mois en cas de constatation, pour une période trimestrielle, de la projection de films pornographiques à l'occasion de trois à trente séances réparties sur une à trois semaines ;
 
-Passeport, même périmé, délivré ou renouvelé postérieurement au 1er octobre 1944 ;
+Dix-huit mois en cas de constatation, pour une période trimestrielle, de la projection de films pornographiques à l'occasion de trois à trente séances réparties sur plus de trois semaines ou à l'occasion de plus de trente séances.
 
-Livret de famille ;
-
-Carte d'immatriculation et d'affiliation à la sécurité sociale ; Permis de conduire ;
-
-Titre de réduction de la Société nationale des chemins de fer français non périmé ;
-
-Carte d'identité de fonctionnaire avec photographie délivrée postérieurement au 1er octobre 1944 par le directeur du personnel d'une administration centrale, par les préfets ou par les maires au nom d'une administration de l'Etat, des départements ou des communes ;
-
-Carte d'identité ou carte de circulation délivrée par les autorités militaires des armées de terre, de mer ou de l'air ;
-
-Titres de pension (carnets à coupons ou brevet d'inscription avec photographie justifiant de l'identité du titulaire) ;
-
-Permis de chasser avec photographie.
+Les projections susceptibles d'entraîner l'application des mesures d'exclusion du bénéfice du soutien énoncées par le présent article sont constatées par procès-verbaux établis conformément aux dispositions de l'arrêté du 19 mars 1947 relatif à la recherche et à la constatation des infractions à la réglementation professionnelle de l'industrie cinématographique ; elles donnent lieu aux procédures définies par l'article 10 du décret modifié du 16 juin 1959.
