@@ -20,6 +20,8 @@ IV - La responsabilité pécuniaire prévue ci-dessus se trouve engagée dès lo
 
 V - La responsabilité pécuniaire d'un comptable public ne peut être mise en jeu que par le ministre dont il relève, le ministre de l'économie et des finances ou le juge des comptes.
 
+Le premier acte de la mise en jeu de la responsabilité ne peut plus intervenir au-delà du 31 décembre de la dixième année suivant celle au cours de laquelle le comptable a produit ses comptes au juge des comptes ou, lorsqu'il n'est pas tenu à cette obligation, celle au cours de laquelle il a produit les justifications de ses opérations.
+
 VI - Le comptable public dont la responsabilité pécuniaire est engagée ou mise en jeu a l'obligation de verser immédiatement de ses deniers personnels une somme égale, soit au montant de la perte de recette subie, de la dépense payée à tort ou de l'indemnité mise, de son fait, à la charge de l'organisme public intéressé, soit, dans le cas où il en tient la comptabilité matière, à la valeur du bien manquant.
 
 Toutefois, le comptable public peut obtenir le sursis de versement de la somme fixée à l'alinéa précédent.
@@ -42,7 +44,7 @@ XI - Toute personne qui, sans avoir la qualité de comptable public ou sans agir
 
 Il en est de même pour toute personne qui reçoit ou manie directement ou indirectement des fonds ou valeurs extraits irrégulièrement de la caisse d'un organisme public et pour toute personne qui, sans avoir la qualité de comptable public, procède à des opérations portant sur des fonds ou valeurs n'appartenant pas aux organismes publics, mais que les comptables publics sont exclusivement chargés d'exécuter en vertu de la réglementation en vigueur.
 
-Les gestions irrégulières entraînent, pour leurs auteurs, déclarés comptables de fait par la Cour des comptes, les mêmes obligations et responsabilités que les gestions patentes pour les comptables publics. Néanmoins, le juge des comptes peut, hors le cas de mauvaise foi ou d'infidélité du comptable de fait, suppléer par des considérations d'équité à l'insuffisance des justifications produites.
+Les gestions de fait sont soumises aux mêmes juridictions et entraînent les mêmes obligations et responsabilités que les gestions régulières. Néanmoins, le juge des comptes peut, hors le cas de mauvaise foi ou d'infidélité du comptable de fait, suppléer par des considérations d'équité à l'insuffisance des justifications produites.
 
 Les comptables de fait pourront, dans le cas où ils n'ont pas fait l'objet des poursuites au titre du délit prévu et réprimé par l'article 433-12 du Code pénal, être condamnés aux amendes prévues par la loi.
 

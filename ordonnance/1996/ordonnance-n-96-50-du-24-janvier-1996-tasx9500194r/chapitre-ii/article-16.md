@@ -1,6 +1,6 @@
 # Article 16
 
-I. - Il est institué, à compter du 1er février 1996 et jusqu'au 31 janvier 2014, une contribution prélevée sur les produits de placement désignés au I de l'article L. 136-7 du code de la sécurité sociale à l'exception de ceux ayant déjà supporté la contribution au titre des 3° et 4° du II ci-après. Cette contribution est assise, recouvrée et contrôlée selon les modalités prévues au II du même article [*point de départ, date limite*].
+I. - Il est institué, à compter du 1er février 1996 et jusqu'au 31 janvier 2014, une contribution prélevée sur les produits de placement désignés au I de l'article L. 136-7 du code de la sécurité sociale à l'exception de ceux ayant déjà supporté la contribution au titre des 3° et 4° du II ci-après. Cette contribution est assise, recouvrée et contrôlée selon les modalités prévues au II du même article.
 
 II. - Sont également assujettis à la contribution selon les modalités prévues au I, pour la partie acquise à compter du 1er février 1996 et, le cas échéant, constatée à compter du 1er février 1996 en ce qui concerne les placements visés du 3° au 9° :
 
@@ -17,6 +17,8 @@ II. - Sont également assujettis à la contribution selon les modalités prévue
 - avant l'expiration de la huitième année, le gain net est déterminé par différence entre, d'une part, la valeur liquidative du plan ou la valeur de rachat pour les contrats de capitalisation à la date du retrait ou du rachat et, d'autre part, la valeur liquidative ou de rachat au 1er février 1996 majorée des versements effectués depuis cette date ;
 
 - après l'expiration de la huitième année, le gain net afférent à chaque retrait ou rachat est déterminé par différence entre, d'une part, le montant du retrait ou rachat et, d'autre part, une fraction de la valeur liquidative ou de rachat au 1er février 1996 augmentée des versements effectués sur le plan depuis cette date et diminuée du montant des sommes déjà retenues à ce titre lors des précédents retraits ou rachats. Cette fraction est égale au rapport du montant du retrait ou rachat effectué à la valeur liquidative totale du plan à la date du retrait ou du rachat ;
+
+La valeur liquidative ou de rachat ne tient pas compte des gains nets et produits de placement mentionnés au 8° afférents aux parts des fonds communs de placement à risques et aux actions des sociétés de capital-risque détenues dans le plan.
 
 6° Lorsque les intéressés demandent la délivrance des droits constitués à leur profit au titre de la participation aux résultats de l'entreprise en application du chapitre II du titre IV du livre IV du code du travail, le revenu constitué par la différence entre le montant de ces droits et le montant des sommes résultant de la répartition de la réserve spéciale de participation dans les conditions prévues à l'article L. 442-4 du même code ;
 

@@ -16,7 +16,7 @@ IV  - Il est institué une dotation compensant la perte de recettes résultant, 
 
 Les sommes destinées à compenser en 1987 la perte de recettes résultant, pour chaque collectivité locale ou groupement doté d'une fiscalité propre, du paragraphe I de l'article 13, du paragraphe I de l'article 14 et du paragraphe I de l'article 18 de la loi de finances rectificative pour 1982 précitée sont celles définies respectivement au paragraphe II de l'article 13, au paragraphe II de l'article 14 et au paragraphe II de l'article 18 de la même loi.
 
-La somme destinée à compenser en 1987 la perte de recettes résultant, pour chaque collectivité locale ou groupement doté d'une fiscalité propre ou fonds départemental de la taxe professionnelle, de l'article 1472 A bis du code général des impôts est égale au montant de la diminution de 16 p. 100 de la base imposable, prévue à cet article, multipliée par le taux de la taxe professionnelle de la collectivité, du groupement ou du fonds pour 1986.
+La somme destinée à compenser en 1987 la perte de recettes résultant, pour chaque collectivité locale ou groupement doté d'une fiscalité propre ou fonds départemental de la taxe professionnelle, de l'article 1472 A bis du code général des impôts est égale au montant de la diminution de 16 p. 100 de la base imposable figurant dans les rôles généraux établis au titre de 1987, prévue à cet article, multipliée par le taux de la taxe professionnelle de la collectivité, du groupement ou du fonds pour 1986.
 
 A compter de 1992, la dotation instituée au premier alinéa du présent paragraphe, est actualisée en fonction de l'indice de variation des recettes fiscales de l'Etat, nettes des remboursements et dégrèvements et des prélèvements sur recettes, tel que cet indice résulte des évaluations de la loi de finances initiale de l'année de versement, corrigé le cas échéant de l'incidence d'éventuels transferts de recettes liés à des transferts de compétences aux collectivités locales et territoriales, à d'autres personnes morales publiques ainsi qu'aux communautés européennes.
 
@@ -32,7 +32,7 @@ En 1995, la compensation versée aux communes progresse comme l'indice prévisio
 
 Pour chacune des années 1996, 1997 et 1998, le montant de la dotation instituée par le premier alinéa du présent IV est celui qui permet, compte tenu du montant total des autres dotations à structure constante, de respecter la norme d'évolution fixée au I de l'article 32 de la loi de finances pour 1996 (n° 95-1346 du 30 décembre 1995), majoré de 300 millions de francs.
 
-Pour chacune des années 1999, 2000 et 2001, le taux d'évolution de la dotation instituée au premier alinéa du présent paragraphe est celui qui permet de respecter la norme d'évolution fixée au I de l'article 57 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), compte tenu du montant total des autres dotations énumérées au même I.
+Pour chacune des années 1999, 2000, 2001 et 2002 le taux d'évolution de la dotation instituée au premier alinéa du présent paragraphe est celui qui permet de respecter la norme d'évolution fixée au I de l'article 57 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), compte tenu du montant total des autres dotations énumérées au même I.
 
 Pour les mêmes années, toute diminution de cette dotation par rapport au montant de l'année précédente est modulée de telle sorte que supportent une diminution égale à la moitié de la diminution moyenne de la dotation de compensation telle qu'elle résulte de l'application de l'alinéa précédent :
 
@@ -48,6 +48,8 @@ Cette modulation s'applique au sein de chaque catégorie de collectivité territ
 
 Alinéa modificateur
 
+Pour le calcul en 2003 du montant de la dotation instituée au premier alinéa du présent IV, le montant de cette même dotation au titre de 2002, tel qu'il résulte de l'application des alinéas précédents, est minoré de 126,075 millions d'euros.
+
 IV bis - A compter de 1992, la dotation prévue au premier alinéa du IV est majorée afin de compenser, dans les conditions ci-après, la perte de recettes qui résulte, chaque année, pour les collectivités locales et leurs groupements dotés d'une fiscalité propre créés avant le 1er janvier 1987, des dispositions de l'article 1469 A bis et du dernier alinéa du II de l'article 1478 du code général des impôts.
 
 La compensation prévue à l'alinéa précédent est égale au produit obtenu en multipliant la perte de bases résultant, chaque année et pour chaque collectivité bénéficiaire, des dispositions de l'article 1469 A bis et du dernier alinéa du II de l'article 1478 du code général des impôts, par le taux de taxe professionnelle de la collectivité ou du groupement pour 1986 multiplié par 0,960.
@@ -55,6 +57,8 @@ La compensation prévue à l'alinéa précédent est égale au produit obtenu en
 Cette compensation est diminuée d'un montant égal à 2 p. 100 des recettes fiscales de la collectivité ou du groupement bénéficiaire, sauf pour :
 
 a) Les collectivités locales et leurs groupements dont les bases de taxe professionnelle par habitant sont, l'année précédente, inférieures à la moyenne des bases de taxe professionnelle par habitant constatée la même année pour les collectivités ou groupements de même nature ;
+
+Les groupements de même nature s'entendent des catégories visées à l'article L. 5211-29 du code général des collectivités territoriales (1) ;
 
 b) Les communes qui remplissent, au titre de l'année précédente ou de la pénultième année, les conditions d'éligibilité à la dotation de solidarité urbaine prévue aux articles L. 2334-15 à L. 2334-19 du code général des collectivités territoriales ;
 
@@ -68,6 +72,6 @@ f) Les départements qui remplissent, au titre de l'année précédente ou de la
 
 Pour les groupements dont les bases de taxe professionnelle par habitant sont supérieures à la moyenne nationale des groupements de même nature et qui comprennent des communes visées aux b à e ci-dessus, la compensation est diminuée d'un montant égal à 2 p. 100 des recettes fiscales du groupement multiplié par le rapport entre, d'une part, la population des communes membres du groupement autres que celles visées aux b à e ci-dessus et, d'autre part, la population totale du groupement.
 
-Les recettes fiscales s'entendent, pour l'application du présent paragraphe, du produit des rôles généraux de la taxe d'habitation, de la taxe foncière sur les propriétés bâties, de la taxe foncière sur les propriétés non bâties, de la taxe professionnelle et de la taxe départementale sur le revenu émis l'année précédente au profit de la collectivité ou du groupement, majoré du montant des compensations qui lui ont été versées, la même année, en application des IV et IV bis du présent article, du I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), de l'article 11 de la loi de finances rectificative pour 2000 (n° 2000-656 du 13 juillet 2000) ainsi que de l'article 21 de la loi de finances pour 1992 (n° 91-1322 du 30 décembre 1991).
+Les recettes fiscales s'entendent, pour l'application du présent paragraphe, du produit des rôles généraux et des rôles supplémentaires de la taxe d'habitation, de la taxe foncière sur les propriétés bâties, de la taxe foncière sur les propriétés non bâties, de la taxe professionnelle et de la taxe départementale sur le revenu émis l'année précédente au profit de la collectivité ou du groupement, majoré du montant des compensations qui lui ont été versées, la même année, en application des IV et IV bis du présent article, du I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), de l'article 11 de la loi de finances rectificative pour 2000 (n° 2000-656 du 13 juillet 2000) ainsi que de l'article 21 de la loi de finances pour 1992 (n° 91-1322 du 30 décembre 1991).
 
 V. Alinéa modificateur

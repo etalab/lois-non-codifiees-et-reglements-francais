@@ -28,6 +28,18 @@ L'exonération n'est pas applicable aux embauches effectuées dans les douze moi
 
 V. - L'exonération prévue au I est applicable pendant une période de cinq ans à compter du 1er janvier 1997 pour les salariés visés au IV ou, dans les cas visés aux III et III bis, à compter de la date de l'implantation ou de la création si elle intervient au cours de cette période. Toutefois, en cas d'embauche, au cours de cette période, de salariés qui n'étaient pas déjà employés au 1er janvier 1997 dans les conditions fixées au IV, l'exonération est applicable, pour ces salariés, pendant une période de cinq ans à compter de la date d'effet du contrat de travail.
 
+Dans les cas visés aux III et III bis, l'exonération prévue au I est applicable aux embauches réalisées à compter du 1er janvier 2002 par les établissements implantés dans une zone franche urbaine avant cette date, dès lors que l'embauche intervient dans les cinq années suivant la date de cette implantation ou cette création.
+
+V bis. - A l'issue des cinq années de l'exonération prévue au I, le bénéfice de l'exonération est maintenu de manière dégressive pendant les trois années suivantes au taux de 60 % du montant des cotisations, contributions et versements précités la première année, de 40 % la deuxième année et de 20 % la troisième année.
+
+Lorsque le taux de l'exonération prévue au I est fixé à 50 % du montant des cotisations, contributions et versements précités conformément aux dispositions du dernier alinéa du III, les taux de 60 %, 40 % et 20 % sont respectivement remplacés par les taux de 30 %, 20 % et 10 %.
+
+Les entreprises mentionnées aux II, III et III bis qui remplissent les conditions prévues aux articles 19 et 21 de la loi n° 2000-37 du 19 janvier 2000 relative à la réduction négociée du temps de travail optent, pour l'ensemble des salariés qui ouvrent ou ouvriront droit à l'exonération dégressive prévue aux deux premiers alinéas, soit pour le bénéfice de ces dispositions, soit pour le bénéfice de l'allégement prévu à l'article L. 241-13-1 du code de la sécurité sociale pour ceux des salariés y ouvrant droit.
+
+Pour l'application de l'alinéa précédent, l'envoi de la déclaration mentionnée au XI de l'article 19 de la loi n° 2000-37 du 19 janvier 2000 précitée vaut option pour l'allégement susvisé. Toutefois, lorsque cette déclaration a été envoyée avant le 1er janvier 2002, l'application de cet allégement à un ou plusieurs salariés ouvrant droit à l'exonération dégressive prévue aux deux premiers alinéas vaut option pour cet allégement et renonciation à cette exonération dégressive pour l'ensemble des salariés de l'entreprise ou de l'établissement y ouvrant droit. Cette option est irrévocable.
+
+A défaut d'envoi de cette déclaration, l'employeur est réputé avoir opté pour l'application de l'exonération dégressive définie aux deux premiers alinéas.
+
 VI. - Le droit à l'exonération prévue au I est subordonné à la condition que l'employeur soit à jour de ses obligations à l'égard de l'organisme de recouvrement des cotisations de sécurité sociale et d'allocations familiales ou ait souscrit un engagement d'apurement progressif de ses dettes.
 
 Le bénéfice de l'exonération ne peut être cumulé, pour l'emploi d'un même salarié, avec celui d'une aide de l'Etat à l'emploi ou d'une autre exonération totale ou partielle de cotisations patronales de sécurité sociale ou l'application de taux spécifiques, d'assiettes ou montants forfaitaires de cotisations.

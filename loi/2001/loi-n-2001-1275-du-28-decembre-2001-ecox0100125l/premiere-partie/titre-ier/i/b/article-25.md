@@ -1,0 +1,5 @@
+# Article 25
+
+Les entreprises qui ont été soumises à la taxe exceptionnelle mentionnée au II de l'article 11 de la loi de finances pour 2001 (n° 2000-1352 du 30 décembre 2000) doivent acquitter, au titre du premier exercice clos à compter du 20 septembre 2001, une taxe complémentaire égale à 8,33 % de l'assiette de la taxe exceptionnelle.
+
+La taxe complémentaire est acquittée dans les quatre mois de la clôture de l'exercice. Elle est liquidée, déclarée, recouvrée et contrôlée comme la taxe exceptionnelle et sous les mêmes garanties et sanctions. Elle est imputable, par le redevable de cet impôt, sur l'impôt sur les sociétés dû au titre de l'exercice suivant celui au cours duquel la provision sur laquelle elle est assise est réintégrée ou, lorsque la reprise de cette provision est intervenue au cours d'un exercice clos avant le 20 septembre 2001, sur l'impôt sur les sociétés dû au titre de l'exercice suivant celui au titre de laquelle elle est due. La taxe complémentaire n'est pas admise en charge déductible pour la détermination du résultat imposable.

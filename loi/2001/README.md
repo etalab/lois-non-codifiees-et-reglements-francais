@@ -8,6 +8,8 @@
 - [Loi n° 2001-1246 du 21 décembre 2001 (MESX0100129L)](loi-n-2001-1246-du-21-decembre-2001-mesx0100129l)
 - [Loi n° 2001-1247 du 21 décembre 2001 (EQUX0104848L)](loi-n-2001-1247-du-21-decembre-2001-equx0104848l)
 - [Loi n° 2001-1248 du 21 décembre 2001 (ECOX9900123L)](loi-n-2001-1248-du-21-decembre-2001-ecox9900123l)
+- [Loi n° 2001-1275 du 28 décembre 2001 (ECOX0100125L)](loi-n-2001-1275-du-28-decembre-2001-ecox0100125l)
+- [Loi n° 2001-1276 du 28 décembre 2001 (ECOX0100145L)](loi-n-2001-1276-du-28-decembre-2001-ecox0100145l)
 - [Loi n° 2001-152 du 19 février 2001 (ECOX0000121L)](loi-n-2001-152-du-19-fevrier-2001-ecox0000121l)
 - [Loi n° 2001-337 du 19 avril 2001 (MAEX9900137L)](loi-n-2001-337-du-19-avril-2001-maex9900137l)
 - [Loi n° 2001-338 du 19 avril 2001 (MAEX0000031L)](loi-n-2001-338-du-19-avril-2001-maex0000031l)

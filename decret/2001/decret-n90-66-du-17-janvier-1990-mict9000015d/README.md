@@ -2,3 +2,5 @@
 
 - [TITRE Ier : Définitions.](titre-ier)
 - [Titre II : Obligations de diffusion d'oeuvres cinématographiques et d'oeuvres audiovisuelles européennes et d'expression originale française](titre-ii)
+- [TITRE III : Dispositions transitoires et finales.](titre-iii)
+- [Article 17](article-17.md)

@@ -22,6 +22,8 @@ Pour les communes qui, en 1998, appartenaient à un groupement sans fiscalité p
 
 Pour les groupements qui perçoivent pour la première fois à compter de 1999 la taxe professionnelle aux lieu et place des communes, en application des dispositions de l'article 1609 nonies C ou du II de l'article 1609 quinquies C du code général des impôts, la compensation est calculée en retenant le taux moyen pondéré des communes membres du groupement constaté pour 1998 éventuellement majoré dans les conditions prévues au quatrième alinéa.
 
+Lorsqu'un groupement visé aux articles 1609 quinquies ou 1609 quinquies C du code général des impôts et percevant la compensation prévue au I est dissous et que toutes ses communes membres adhèrent, à compter du 1er janvier 2001, à un même groupement visé à l'article 1609 quinquies C dudit code, il est tenu compte, pour le calcul de la compensation bénéficiant à ce groupement, des bases des établissements existant au 1er janvier 1999 constatées au sein du périmètre du groupement dissous et du taux de taxe professionnelle applicable pour 1998 à ce groupement dissous (1).
+
 Au titre des années 2000 à 2003, la compensation est actualisée, chaque année, compte tenu du taux d'évolution de la dotation globale de fonctionnement entre 1999 et l'année de versement.
 
 Au titre de 2000, la compensation est actualisée en tenant compte du taux d'évolution de la dotation globale de fonctionnement visé au premier alinéa de l'article L. 1613-1 du code général des collectivités territoriales.
@@ -33,3 +35,5 @@ III. - La compensation prévue au I fait l'objet de versements mensuels.
 E. - Le Gouvernement remet chaque année au Parlement, avant le 1er octobre, un rapport évaluant les résultats pour l'emploi de la réforme de la taxe professionnelle prévue par le présent article et fournissant des simulations sur les conséquences de celles-ci pour les entreprises, les collectivités locales et l'Etat.
 
 Ce rapport présente, en outre, les conséquences de la réforme sur la répartition de la taxe pour frais de chambres de métiers et de l'imposition additionnelle à la taxe professionnelle perçue au profit des chambres de commerce et d'industrie entre l'ensemble de leurs redevables.
+
+(1) Dispositions applicables à compter de 2002.

@@ -1,0 +1,13 @@
+# Article 88
+
+I. - Les fonctionnaires recrutés dans l'un des corps de personnel de surveillance de l'administration pénitentiaire avant le 31 mai 1996 et dont la période de services effectifs en position d'activité dans ces corps est inférieure à vingt-cinq ans, lorsqu'ils atteignent l'âge de cinquante-cinq ans, ont droit, à leur demande, sous réserve de l'intérêt du service et de leur aptitude physique à l'exercice de l'emploi, au bénéfice d'une prolongation d'activité pour le temps nécessaire pour atteindre cette durée de service.
+
+Cette prolongation ne peut toutefois avoir pour effet de maintenir les fonctionnaires en activité au-delà de leur soixantième anniversaire.
+
+Nonobstant les dispositions des articles L. 10 et L. 26 bis du code des pensions civiles et militaires de retraite, la prolongation d'activité est prise en compte pour la liquidation de la pension. Toutefois, les annuités obtenues au titre de la bonification prévue par l'article 24 de la loi n° 96-452 du 28 mai 1996 portant diverses mesures d'ordre sanitaire, social et statutaire sont réduites à due concurrence de la durée des services accomplis au-delà de la limite d'âge.
+
+II. - Sans préjudice des droits au recul des limites d'âge reconnus au titre des dispositions de la loi du 18 août 1936 concernant les mises à la retraite par ancienneté, les fonctionnaires des corps actifs de la police nationale mentionnés à l'article 19 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité, et dont la période de services effectifs accomplis est inférieure au nombre maximal d'annuités liquidables dans la pension civile mentionné à l'article L. 14 du code des pensions civiles et militaires de retraite, lorsqu'ils atteignent les limites d'âge applicables aux corps auxquels ils appartiennent, peuvent, sur leur demande et sous réserve de l'intérêt du service et de leur aptitude physique, être maintenus en position d'activité.
+
+La prolongation d'activité prévue à l'alinéa précédent, soumise à reconduction annuelle par le ministre de l'intérieur, ne peut avoir pour effet de maintenir le fonctionnaire concerné en activité au-delà de son soixantième anniversaire.
+
+Cette prolongation d'activité est prise en compte au titre de la constitution et de la liquidation du droit à pension, nonobstant les dispositions prévues par les articles L. 10 et L. 26 bis du code des pensions civiles et militaires de retraite. Toutefois, les annuités obtenues au titre de la bonification du cinquième prévue par l'article 1er de la loi n° 57-444 du 8 avril 1957 instituant un régime particulier de retraites en faveur des personnels actifs de police sont réduites à due concurrence de la durée des services accomplis au-delà de la limite d'âge.
