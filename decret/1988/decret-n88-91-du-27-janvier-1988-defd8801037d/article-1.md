@@ -8,7 +8,7 @@ Le ministre de la défense peut donner par arrêté délégation pour signer tou
 
 a) Au secrétaire général pour l'administration, aux directeurs, chefs de service, directeurs adjoints, sous-directeurs de l'administration centrale ;
 
-b) Au chef d'état-major des armées, au délégué général pour l'armement, aux chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air, au major général des armées, aux majors généraux de l'armée de terre, de la marine, de l'armée de l'air et de la gendarmerie, aux sous-chefs d'état-major des armées et à ceux de l'armée de terre, de la marine et de l'armée de l'air, au délégué aux programmes d'armement, au délégué aux relations internationales et aux membres du corps du contrôle général des armées en service à l'administration centrale ;
+b) Au chef d'état-major des armées, au délégué général pour l'armement, aux chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air, au major général des armées, aux majors généraux de l'armée de terre, de la marine, de l'armée de l'air et de la gendarmerie, aux sous-chefs d'état-major des armées et à ceux de l'armée de terre, de la marine et de l'armée de l'air, et aux membres du corps du contrôle général des armées en service à l'administration centrale ;
 
 c) Aux responsables des services à compétence nationale.
 
