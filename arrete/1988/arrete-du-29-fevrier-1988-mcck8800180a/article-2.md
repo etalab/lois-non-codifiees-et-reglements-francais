@@ -1,6 +1,6 @@
 # Article 2
 
-L'entreprise de production doit [*obligations*] déposer à l'appui de sa demande de présentation à la commission chargée de sélectionner les vidéomusiques, conformément aux dispositions de l'article 7 bis du décret du 6 février 1986 modifié susvisé, un dossier composé des documents suivants :
+L'entreprise de production doit déposer à l'appui de sa demande de présentation à la commission chargée de sélectionner les vidéomusiques, conformément aux dispositions de l'article 7 bis (1°) du décret du 6 février 1986 modifié susvisé, un dossier composé des documents suivants :
 
 1. Une lettre de demande de présentation mentionnant :
 

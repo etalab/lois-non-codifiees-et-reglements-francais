@@ -1,0 +1,3 @@
+# Article 5
+
+Le Premier ministre, le ministre d'Etat, ministre de l'économie, des finances et du budget, le ministre d'Etat, ministre de la fonction publique et de la modernisation de l'administration, le garde des sceaux, ministre de la justice, le ministre de la défense, le ministre de l'intérieur, le ministre des affaires sociales et de l'intégration, le ministre des départements et territoires d'outre-mer, le ministre délégué au budget, le ministre délégué à la santé et le secrétaire d'Etat aux collectivités locales sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française et qui prend effet le 1er juillet 1991.
