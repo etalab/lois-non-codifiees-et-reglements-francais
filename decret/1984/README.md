@@ -18,7 +18,6 @@
 - [Décret n°84-322 du 3 mai 1984](decret-n84-322-du-3-mai-1984)
 - [Décret n°84-323 du 3 mai 1984](decret-n84-323-du-3-mai-1984)
 - [Décret n°84-324 du 3 mai 1984](decret-n84-324-du-3-mai-1984)
-- [Décret n°84-328 du 3 mai 1984](decret-n84-328-du-3-mai-1984)
 - [Décret n°84-329 du 3 mai 1984](decret-n84-329-du-3-mai-1984)
 - [Décret n°84-1079 du 4 décembre 1984](decret-n84-1079-du-4-decembre-1984)
 - [Décret n°84-11 du 4 janvier 1984](decret-n84-11-du-4-janvier-1984)
