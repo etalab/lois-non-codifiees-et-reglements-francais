@@ -1,11 +1,11 @@
 # Article 8
 
-Le conjoint de l'allocataire de l'une des sections professionnelles bénéficie d'une allocation égale à la moitié de celle dont jouit l'allocataire [*montant*] à condition [*d'attribution*]:
+Une majoration pour conjoint à charge dont le montant est fixé par décret est attribuée, lorsque le conjoint de l'allocataire :
 
-D'être âgé de soixante-cinq ans, ou de soixante ans en cas d'inaptitude au travail dûment constatée ;
+1° A atteint l'âge de soixante-cinq ans ou de soixante ans en cas d'inaptitude au travail dûment constatée ;
 
-De n'exercer ou de n'avoir exercé aucune activité professionnelle lui donnant droit de son chef à un avantage équivalent au titre d'une législation de sécurité sociale ;
+2° Ne bénéficie pas d'une pension, allocation ou rente acquise au titre de l'assurance vieillesse ou de l'assurance invalidité en vertu d'un droit propre ou du chef d'un précédent conjoint d'un montant égal ou supérieur à celui de cette majoration. Si cet avantage personnel est d'un montant inférieur à celui de la majoration, une majoration différentielle est attribuée.
 
-D'être marié depuis deux ans au moins lors de sa demande d'allocation.
+3° Ne dispose pas de ressources personnelles qui excéderaient, si elles étaient augmentées du montant de la majoration, le chiffre limite de ressources fixé par l'attribution, aux personnes seules, de l'allocation aux vieux travailleurs salariés.
 
-Ladite allocation ne peut être inférieure au minimum fixé à l'article 10 de la loi du 17 janvier 1948 [*C.SCS. L652*], modifié par l'article 4 de la loi du 31 décembre 1948.
+Ces ressources sont appréciées dans les conditions fixées par le décret n° 64-300 du 1er avril 1964.
