@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur général des impôts au ministère de l'économie et des finances et le directeur des enseignements supérieurs au ministère de l'éducation nationale sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+La mesure de la consommation conventionnelle de carburant des voitures particulières est effectuée selon la méthode définie par les annexes techniques à la directive du Conseil des communautés européennes n° 80-1268 du 18 décembre 1980 susvisée modifiée conformément aux directives lui portant adaptation au progrès technique.
