@@ -249,8 +249,6 @@
 - [Arrêté du 12 février 1987 (ASEK8703108A)](arrete-du-12-fevrier-1987-asek8703108a)
 - [Arrêté du 12 février 1987 (COPB8700005A)](arrete-du-12-fevrier-1987-copb8700005a)
 - [Arrêté du 12 janvier 1987](arrete-du-12-janvier-1987)
-- [Arrêté du 12 juin 1987 (ACVA8710023A)](arrete-du-12-juin-1987-acva8710023a)
-- [Arrêté du 12 juin 1987 (ACVA8710024A)](arrete-du-12-juin-1987-acva8710024a)
 - [Arrêté du 12 juin 1987 (ECOT1870024A)](arrete-du-12-juin-1987-ecot1870024a)
 - [Arrêté du 12 juin 1987 (ECOT8719003A)](arrete-du-12-juin-1987-ecot8719003a)
 - [Arrêté du 12 juin 1987 (MAEA8720131A)](arrete-du-12-juin-1987-maea8720131a)
