@@ -1,0 +1,3 @@
+# Article 6
+
+Lorsqu'une des personnes mentionnées à l'article 1er du décret du 30 juillet 1985 susvisé et soumises à des obligations de mise en concurrence a constitué avec l'Union des groupements d'achats publics un groupement de commandes ou y a adhéré, dans les conditions prévues au II de l'article 25 du décret du 30 juillet 1985 susvisé dans sa rédaction issue du présent décret, les commandes qu'elle passe peuvent s'imputer sur un marché à bons de commandes ou un ensemble de marchés ayant donné lieu à un même avis d'appel à concurrence, pour lesquels l'établissement a procédé à la publication de l'avis d'appel à concurrence avant la date d'entrée en vigueur du présent décret.

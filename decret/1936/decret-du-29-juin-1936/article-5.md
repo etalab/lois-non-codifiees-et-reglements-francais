@@ -6,7 +6,7 @@ Les paniers, caisses et cagettes utilisés pour le transport des raisins du lieu
 
 Les installations de pressurage doivent être agréées par le Comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine.
 
-Cet agrément, qui est donné après avis d'une commission d'experts désignés par ledit Comité national, atteste la conformité de l'installation de pressurage avec les normes qualitatives fixées dans un cahier des charges approuvé par le Comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine.
+Cet agrément, qui est donné après avis d'une commission d'experts désignés par ledit Comité national, atteste la conformité de l'installation de pressurage avec les normes qualitatives fixées dans un cahier des charges approuvé par le Comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine. Ce cahier des charges est consultable auprès des services de l'Institut national des appellations d'origine.
 
 L'ouverture, l'extension ou la modification d'une installation de pressurage doit donner lieu à agrément avant l'entrée en activité de l'installation.
 
