@@ -12,6 +12,6 @@ Deux représentants élus des usagers ;
 
 3. Le haut-commissaire de Polynésie française ou son représentant ;
 
-4. Le directeur du centre universitaire de Polynésie française ;
+4. Le président de l'université de la Polynésie française ;
 
 5. Deux personnalités cooptées par le conseil.

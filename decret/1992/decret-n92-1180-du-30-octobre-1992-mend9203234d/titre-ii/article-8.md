@@ -1,12 +1,12 @@
 # Article 8
 
-Le conseil d'administration est présidé par le président de l'université française du Pacifique.
+Le conseil d'administration est présidé en alternance, pour une durée d'un an, par le vice-recteur de Nouvelle-Calédonie ou le vice-recteur de Polynésie française.
 
-Il comprend vingt-trois membres répartis entre les catégories suivantes :
+Il comprend vingt-quatre membres outre son président répartis entre les catégories suivantes :
 
-1. Le président de l'université française du Pacifique, président ;
+1. Le vice-recteur mentionné au premier alinéa du présent article n'assurant pas la présidence du conseil d'administration de l'institut universitaire de formation des maîtres et le vice-recteur de Wallis-et-Futuna ;
 
-Les directeurs des centres universitaires de Nouvelle-Calédonie et de Polynésie française de l'université française du Pacifique ;
+Les présidents de l'université de la Nouvelle-Calédonie et de l'université de la Polynésie française ;
 
 2. Les représentants des personnels d'enseignement et de recherche élus aux conseils d'antennes universitaires de formation des maîtres ;
 
@@ -14,7 +14,7 @@ Les directeurs des centres universitaires de Nouvelle-Calédonie et de Polynési
 
 4. Les représentants des usagers élus aux conseils d'antennes universitaires de formation des maîtres ;
 
-5. Les cinq représentants des collectivités territoriales siégeant au conseil d'administration de l'université française du Pacifique sont membres de droit ;
+5. Les deux représentants désignés par le gouvernement du territoire de Polynésie française visés à l'article 14, les deux représentants désignés par le congrès de la Nouvelle-Calédonie et le représentant désigné par l'assemblée territoriale de Wallis-et-Futuna visés à l'article 15, membres de droit ;
 
 6. Quatre personnalités qualifiées désignées par le ministre chargé de l'éducation nationale en raison de leurs compétences en matière d'éducation, de formation et de recherche.
 

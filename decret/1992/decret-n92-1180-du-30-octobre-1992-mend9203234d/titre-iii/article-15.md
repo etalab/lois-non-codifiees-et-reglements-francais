@@ -16,7 +16,7 @@ Un représentant désigné par l'assemblée territoriale de Wallis-et-Futuna ;
 
 Le préfet, administrateur supérieur des îles Wallis-et-Futuna ou son représentant ;
 
-4. Le directeur du centre universitaire de Nouvelle-Calédonie ;
+4. Le président de l'université de la Nouvelle-Calédonie ;
 
 5. Le vice-recteur de Nouvelle-Calédonie ;
 
