@@ -255,6 +255,7 @@
 - [Décret n°70-1094 du 30 novembre 1970](decret-n70-1094-du-30-novembre-1970)
 - [Décret n°98-1309 du 30 décembre 1998 (MESS9823032D)](decret-n98-1309-du-30-decembre-1998-mess9823032d)
 - [Décret n°98-679 du 30 juillet 1998 (ATEP9860005D)](decret-n98-679-du-30-juillet-1998-atep9860005d)
+- [Décret n°98-695 du 30 juillet 1998 (AGRA9801075D)](decret-n98-695-du-30-juillet-1998-agra9801075d)
 - [Décret n°98-1310 du 31 décembre 1998 (MESF9811319D)](decret-n98-1310-du-31-decembre-1998-mesf9811319d)
 - [Décret n°98-1312 du 31 décembre 1998 (ECOI9800899D)](decret-n98-1312-du-31-decembre-1998-ecoi9800899d)
 - [Décret n°98-1314 du 31 décembre 1998 (JUSB9810454D)](decret-n98-1314-du-31-decembre-1998-jusb9810454d)
