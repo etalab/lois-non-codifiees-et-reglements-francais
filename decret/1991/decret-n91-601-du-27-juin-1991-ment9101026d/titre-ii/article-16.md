@@ -1,6 +1,6 @@
 # Article 16
 
-Il est institué, à l'initiative du recteur de l'académie, une commission de contrôle des opérations électorales composée d'un président membre en activité ou honoraire d'une juridiction administrative désigné par le président de la cour administrative d'appel de Paris.
+Il est institué, à l'initiative du recteur de l'académie, une commission de contrôle des opérations électorales composée d'un président membre en activité ou honoraire d'une juridiction administrative désigné par le président de la cour administrative d'appel de Lyon.
 
 La commission est composée, outre son président, d'au moins deux assesseurs choisis par celui-ci et d'un représentant désigné par le recteur. Pour chacun des membres de la commission, un suppléant est désigné dans les mêmes conditions.
 
