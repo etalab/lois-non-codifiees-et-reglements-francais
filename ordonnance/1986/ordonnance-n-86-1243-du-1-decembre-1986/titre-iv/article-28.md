@@ -1,3 +1,9 @@
 # Article 28
 
-Tout vendeur de produit ou tout prestataire de services doit par voie de marquage, d'étiquetage, d'affichage ou par tout autre procédé approprié, informer le consommateur sur les prix, les limitations éventuelles de la responsabilité contractuelle et les conditions particulières de la vente, selon des modalités fixées par arrêtés du ministre chargé de l'économie, après consultation du Conseil national de la consommation.
+Toute publicité à l'égard du consommateur, diffusée sur tout support ou visible de l'extérieur du lieu de vente, mentionnant une réduction de prix ou un prix promotionnel sur les produits alimentaires périssables doit préciser la nature et l'origine du ou des produits offerts et la période pendant laquelle est maintenue l'offre proposée par l'annonceur [*mentions obligatoires*].
+
+Toute infraction aux dispositions du premier alinéa est punie d'une amende de 100 000 F [*sanctions pénales*].
+
+Lorsque de telles opérations promotionnelles sont susceptibles, par leur ampleur ou leur fréquence, de désorganiser les marchés, un arrêté interministériel ou, à défaut, préfectoral fixe, pour les produits concernés, la périodicité et la durée de telles opérations.
+
+La cessation de la publicité réalisée dans des conditions non conformes aux dispositions du présent article peut être ordonnée dans les conditions prévues à l'article L. 121-3 du code de la consommation.

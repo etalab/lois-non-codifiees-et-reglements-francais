@@ -10,6 +10,8 @@ Ce programme concerne :
 
 Pour les exercices d'application de l'épreuve d'admissibilité portant sur les sciences mathématiques, physiques et chimiques, les sciences du médicament et les sciences biologiques, il est nécessaire de posséder des notions de calcul d'erreurs et des notions de statistiques : comparaison de deux séries de mesures et régression linéaire.
 
+A compter de l'année universitaire 1997-1998, l'annexe est remplacée par l'annexe A jointe au présent arrêté.
+
 (1) Le présent arrêté et son annexe seront publiés au Bulletin officiel du ministère de l'éducation nationale du 20 septembre 1990, vendu au prix de 10 F, disponible au Centre national de documentation pédagogique, 13, rue du Four, 75006 Paris, ainsi que dans les centres régionaux et départementaux de documentation pédagogique.
 
 L'arrêté et son annexe seront diffusés par les centres précités.
