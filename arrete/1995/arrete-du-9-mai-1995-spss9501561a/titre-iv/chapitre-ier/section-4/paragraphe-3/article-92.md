@@ -1,3 +1,0 @@
-# Article 92
-
-Le contrat conclu avec un maître d'oeuvre ou tout autre prestataire de services dont l'intervention conditionne la liquidation et le mandatement des sommes dues au titre d'un marché doit indiquer le délai dans lequel celui-ci doit effectuer ses interventions. Ce délai est au maximum de quinze jours, sauf en ce qui concerne le solde des catégories ayant fait l'objet de l'arrêté prévu au I de l'article 90. Le contrat doit préciser les pénalités encourues du fait de l'inobservation de ce délai ainsi que la faculté pour le directeur de l'organisme contractant d'effectuer ou de faire effectuer, après mise en demeure, les prestations aux frais du défaillant.
