@@ -548,6 +548,7 @@
 - [Arrêté du 26 janvier 1990 (ECOT8913231A)](arrete-du-26-janvier-1990-ecot8913231a)
 - [Arrêté du 26 janvier 1990 (EQUS9000143A)](arrete-du-26-janvier-1990-equs9000143a)
 - [Arrêté du 26 janvier 1990 (MERG9000013A)](arrete-du-26-janvier-1990-merg9000013a)
+- [Arrêté du 26 juillet 1990 (AGRS9001613A)](arrete-du-26-juillet-1990-agrs9001613a)
 - [Arrêté du 26 juillet 1990 (PTTR9000607A)](arrete-du-26-juillet-1990-pttr9000607a)
 - [Arrêté du 26 juin 1990 (BUDF9000012A)](arrete-du-26-juin-1990-budf9000012a)
 - [Arrêté du 26 juin 1990 (COMA9000008A)](arrete-du-26-juin-1990-coma9000008a)

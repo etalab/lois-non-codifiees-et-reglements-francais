@@ -175,6 +175,7 @@
 - [Décret n°90-735 du 9 août 1990 (MAEJ9030060D)](decret-n90-735-du-9-aout-1990-maej9030060d)
 - [Décret n°90-736 du 9 août 1990 (MAEJ9030061D)](decret-n90-736-du-9-aout-1990-maej9030061d)
 - [Décret n°90-738 du 9 août 1990 (MAEJ9030064D)](decret-n90-738-du-9-aout-1990-maej9030064d)
+- [Décret n°90-742 du 9 août 1990 (ECOT9013259D)](decret-n90-742-du-9-aout-1990-ecot9013259d)
 - [Décret n°90-743 du 9 août 1990 (SPSS9001083D)](decret-n90-743-du-9-aout-1990-spss9001083d)
 - [Décret n°92-31 du 9 janvier 1992 (MENN9102864D)](decret-n92-31-du-9-janvier-1992-menn9102864d)
 - [Décret n°93-303 du 9 mars 1993 (DEFP9301079D)](decret-n93-303-du-9-mars-1993-defp9301079d)
