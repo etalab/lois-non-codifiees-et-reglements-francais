@@ -10,7 +10,7 @@ Indépendamment des autorités judiciaires, des officiers de police judiciaire a
 
 - les agents de l'Agence nationale pour l'indemnisation des Français rapatriés d'outre-mer, visés à l'article L. 128 du livre des procédures fiscales ;
 
-- les agents de la Commission des opérations de bourse, visés à l'article L. 135 F du livre des procédures fiscales ;
+- les agents de l'Autorité des marchés financiers, visés à l'article L. 135 F du livre des procédures fiscales ;
 
 - les membres et rapporteurs de la commission des infractions fiscales mentionnées à l'article 1741 A du code général des impôts, visés à l'article L. 137 du livre des procédures fiscales ;
 
@@ -22,8 +22,12 @@ Indépendamment des autorités judiciaires, des officiers de police judiciaire a
 
 - les huissiers de justice chargés par le créancier de former une demande de paiement direct d'une pension alimentaire, visés à l'article L. 151 du livre des procédures fiscales ;
 
-- les caisses des organisations autonomes d'allocation de vieillesse, visées à l'article L. 156 du livre des procédures fiscales ;
+- les organismes et services chargés de la gestion d'un régime obligatoire de sécurité sociale, la direction générale de la comptabilité publique et les institutions de retraite complémentaire chargées de déterminer l'assiette, le montant et le recouvrement des cotisations et contributions, visées à l'article L. 152 du livre des procédures fiscales susvisé ;
 
 - les organismes débiteurs de prestations familiales chargés de poursuivre le recouvrement des créances alimentaires impayées, visés à l'article L. 162 A du livre des procédures fiscales ;
 
 - la Banque de France, l'Institut d'émission des départements d'outre-mer et l'Institut d'émission d'outre-mer, chargés d'assurer la centralisation des informations relatives aux titulaires de comptes, visées au deuxième alinéa de l'article 17-II de la loi n° 91-1382 du 30 décembre 1991 susvisée.
+
+- les agents de la cellule de coordination chargée du traitement du renseignement et de l'action contre les circuits financiers clandestins (TRACFIN) en application de l'article L. 563-5 du code monétaire et financier susvisé ;
+
+- les agents comptables du budget annexe de l'aviation civile en vertu de l'article L. 81, troisième alinéa, du livre des procédures fiscales.
