@@ -73,6 +73,7 @@
 - [Arrêté du 18 avril 1983](arrete-du-18-avril-1983)
 - [Arrêté du 18 juin 1982](arrete-du-18-juin-1982)
 - [Arrêté du 18 mars 1982](arrete-du-18-mars-1982)
+- [Arrêté du 18 octobre 1982](arrete-du-18-octobre-1982)
 - [Arrêté du 18 mai 1982](arrete-du-18-mai-1982)
 - [Arrêté du 19 avril 1982](arrete-du-19-avril-1982)
 - [Arrêté du 19 mars 1982](arrete-du-19-mars-1982)

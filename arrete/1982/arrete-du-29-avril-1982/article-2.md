@@ -1,5 +1,3 @@
 # Article 2
 
-Le traitement a pour finalité la gestion des déclarations à l'impôt sur les grandes fortunes, la préimpression (élément d'identité et adresse) des déclarations annuelles, la publicité des impositions prévue par la loi ainsi que l'établissement de statistiques.
-
-Il contribuera au contrôle fiscal.
+Le prix de production est fixé librement conformément aux dispositions de l'arrêté n° 78-67/P du 31 mai 1978 [*liberté des prix*].

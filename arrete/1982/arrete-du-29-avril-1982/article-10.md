@@ -1,3 +1,3 @@
 # Article 10
 
-Le modèle des imprimés normalisés et leurs modalités de souscription, les caractéristiques des supports magnétiques utilisés sont définis par le directeur général des impôts.
+Les valeurs limites des frais de mise en place, des rémunérations pour constitution et entretien des stocks de réserve, des marges de distribution sont fixées par arrêté du ministre chargé de l'économie et du ministre chargé de l'énergie. Ces valeurs font l'objet d'un examen deux fois par an.
