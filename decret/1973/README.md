@@ -2,6 +2,7 @@
 
 - [Décret n°73-124 du 5 février 1973](decret-n73-124-du-5-fevrier-1973)
 - [Décret n°73-132 du 5 février 1973](decret-n73-132-du-5-fevrier-1973)
+- [Décret n°73-151 du 9 février 1973](decret-n73-151-du-9-fevrier-1973)
 - [Décret n°73-138 du 12 février 1973](decret-n73-138-du-12-fevrier-1973)
 - [Décret n°73-137 du 13 février 1973](decret-n73-137-du-13-fevrier-1973)
 - [Décret n°73-170 du 13 février 1973](decret-n73-170-du-13-fevrier-1973)
