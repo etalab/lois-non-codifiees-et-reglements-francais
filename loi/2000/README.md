@@ -10,5 +10,7 @@
 - [Loi n° 2000-322 du 12 avril 2000 (JUSX0003991L)](loi-n-2000-322-du-12-avril-2000-jusx0003991l)
 - [Loi n° 2000-37 du 19 janvier 2000 (MESX9900090L)](loi-n-2000-37-du-19-janvier-2000-mesx9900090l)
 - [Loi n° 2000-391 du 9 mai 2000 (INTX0000012L)](loi-n-2000-391-du-9-mai-2000-intx0000012l)
+- [Loi n° 2000-493 du 6 juin 2000 (INTX9900134L)](loi-n-2000-493-du-6-juin-2000-intx9900134l)
 - [Loi n° 99-1125 du 28 décembre 1999 (MESX9903846L)](loi-n-99-1125-du-28-decembre-1999-mesx9903846l)
 - [Loi n°2000-196 du 6 mars 2000 (MENX9903288L)](loi-n2000-196-du-6-mars-2000-menx9903288l)
+- [Loi n°2000-494 du 6 juin 2000 (INTX9700159L)](loi-n2000-494-du-6-juin-2000-intx9700159l)

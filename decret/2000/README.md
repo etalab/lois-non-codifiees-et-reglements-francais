@@ -9,6 +9,8 @@
 - [Décret n°2000-488 du 2 juin 2000 (FPPA0010008D)](decret-n2000-488-du-2-juin-2000-fppa0010008d)
 - [Décret n°2000-490 du 2 juin 2000 (ECOF0000020D)](decret-n2000-490-du-2-juin-2000-ecof0000020d)
 - [Décret n°2000-492 du 2 juin 2000 (AGRS0000591D)](decret-n2000-492-du-2-juin-2000-agrs0000591d)
+- [Décret n°2000-495 du 2 juin 2000 (MESS0020946D)](decret-n2000-495-du-2-juin-2000-mess0020946d)
+- [Décret n°2000-496 du 2 juin 2000 (MESS0020947D)](decret-n2000-496-du-2-juin-2000-mess0020947d)
 - [Décret n°90-601 du 11 juillet 1990 (MCCB9000404D)](decret-n90-601-du-11-juillet-1990-mccb9000404d)
 - [Décret n°93-220 du 16 février 1993 (INTB9300047D)](decret-n93-220-du-16-fevrier-1993-intb9300047d)
 - [Décret n°2000-489 du 29 mai 2000 (ECOF0000014D)](decret-n2000-489-du-29-mai-2000-ecof0000014d)
