@@ -1,6 +1,6 @@
 # Article 1-1
 
-1 - La personne morale de droit public France Télécom mentionnée à l'article 1er est transformée à compter du 31 décembre 1996 en une entreprise nationale dénommée France Télécom, dont l'Etat détient directement plus de la moitié du capital social.
+1 - La personne morale de droit public France Télécom mentionnée à l'article 1er est transformée à compter du 31 décembre 1996 en une entreprise nationale dénommée France Télécom, dont l'Etat détient directement ou indirectement plus de la moitié du capital social.
 
 Cette entreprise est soumise aux dispositions de la présente loi en tant que celle-ci concerne l'exploitant public France Télécom et, dans la mesure où elles ne sont pas contraires à la présente loi, aux dispositions législatives applicables aux sociétés anonymes.
 
