@@ -128,6 +128,7 @@
 - [Décret n°85-451 du 22 avril 1985](decret-n85-451-du-22-avril-1985)
 - [Décret n°85-68 du 22 janvier 1985](decret-n85-68-du-22-janvier-1985)
 - [Décret n°85-95 du 22 janvier 1985](decret-n85-95-du-22-janvier-1985)
+- [Décret n°85-552 du 22 mai 1985](decret-n85-552-du-22-mai-1985)
 - [Décret n°85-356 du 23 mars 1985](decret-n85-356-du-23-mars-1985)
 - [Décret n°85-447 du 23 avril 1985](decret-n85-447-du-23-avril-1985)
 - [Décret n°85-449 du 23 avril 1985](decret-n85-449-du-23-avril-1985)
