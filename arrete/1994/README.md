@@ -645,6 +645,7 @@
 - [Arrêté du 29 décembre 1993 (EQUA9301822A)](arrete-du-29-decembre-1993-equa9301822a)
 - [Arrêté du 29 décembre 1993 (EQUB9301947A)](arrete-du-29-decembre-1993-equb9301947a)
 - [Arrêté du 29 décembre 1995 (AGRA9502041A)](arrete-du-29-decembre-1995-agra9502041a)
+- [Arrêté du 29 juin 1994 (SPSS9401959A)](arrete-du-29-juin-1994-spss9401959a)
 - [Arrêté du 29 mars 1994 (AGRG9400685A)](arrete-du-29-mars-1994-agrg9400685a)
 - [Arrêté du 29 mars 1994 (BUDF9400005A)](arrete-du-29-mars-1994-budf9400005a)
 - [Arrêté du 29 mars 1994 (DEFE9401509A)](arrete-du-29-mars-1994-defe9401509a)
