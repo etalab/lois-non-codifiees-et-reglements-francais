@@ -1,4 +1,4 @@
-# Chapitre IV : Dispositions communes relatives aux commissions médicales consultatives.
+# Chapitre IV : Dispositions communes relatives aux commissions médicales d'établissement.
 
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
