@@ -1,9 +1,7 @@
 # Article 6-1
 
-Il est satisfait à la condition de capacité financière lorsque l'entreprise de transport public routier de personnes :
+Il est satisfait à la condition de capacité financière lorsque l'entreprise dispose de capitaux propres et de réserves ou de garanties d'un montant total au moins égal à 1 500 Euros pour chaque véhicule n'excédant pas 9 places, conducteur compris, et, pour les véhicules excédant cette limite, 9 000 Euros pour le premier véhicule, 5 000 Euros pour chacun des véhicules suivants.
 
-" - soit dispose d'un capital et de réserves d'une valeur au moins égale à 21 000 F par véhicule ou au moins égale à 1 050 F par place assise de chaque véhicule, le montant retenu étant celui qui résulte du calcul donnant le chiffre le moins élevé. Les véhicules pris en compte pour ce calcul sont ceux acquis par l'entreprise ou faisant l'objet d'un contrat de crédit-bail ou de location financière ;
+Les véhicules pris en compte pour la détermination du montant de la capacité financière exigible sont tous les véhicules utilisés de façon habituelle par l'entreprise pour le transport public routier de personnes.
 
-" - soit bénéficie d'une garantie bancaire ou de tout autre moyen similaire pour une valeur équivalente.
-
-" Les modalités d'application du présent article sont précisées par un arrêté du ministre chargé des transports et du ministre chargé de l'économie. "
+Les modalités d'application du présent article sont fixées par arrêté conjoint du ministre chargé des transports et du ministre chargé de l'économie.
