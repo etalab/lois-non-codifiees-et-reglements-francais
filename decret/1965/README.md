@@ -60,7 +60,6 @@
 - [Décret n°65-621 du 27 juillet 1965](decret-n65-621-du-27-juillet-1965)
 - [Décret n°65-622 du 27 juillet 1965](decret-n65-622-du-27-juillet-1965)
 - [Décret n°65-659 du 28 juillet 1965](decret-n65-659-du-28-juillet-1965)
-- [Décret du 30 novembre 1965](decret-du-30-novembre-1965)
 - [Décret n°64-1362 du 30 décembre 1964](decret-n64-1362-du-30-decembre-1964)
 - [Décret n°65-1182 du 30 décembre 1965](decret-n65-1182-du-30-decembre-1965)
 - [Décret n°64-1374 du 31 décembre 1964](decret-n64-1374-du-31-decembre-1964)
