@@ -1,3 +1,0 @@
-# Article 4
-
-L'arrêté du 24 décembre 1986 fixant l'assiette des cotisations de sécurité sociale dues pour les personnes assurant la vente à temps choisi de produits et de services à domicile, l'arrêté du 22 février 1993 portant fixation des cotisations forfaitaires et des assiettes forfaitaires relatives aux personnes assurant la vente de produits et de services à domicile par démarchage de personne à personne et l'arrêté du 2 novembre 1994 portant fixation des cotisations forfaitaires et des assiettes forfaitaires relatives aux personnes assurant la vente de produits et de services à domicile par démarchage de personne à personne ou par réunion en application de l'article 42 de la loi du 25 juillet 1994 susvisé sont abrogés.
