@@ -146,6 +146,7 @@
 - [Décret n°93-346 du 10 mars 1993 (PRMG9370134D)](decret-n93-346-du-10-mars-1993-prmg9370134d)
 - [Décret n°93-349 du 10 mars 1993 (AGRG9201640D)](decret-n93-349-du-10-mars-1993-agrg9201640d)
 - [Décret n°93-350 du 10 mars 1993 (AGRA9201642D)](decret-n93-350-du-10-mars-1993-agra9201642d)
+- [Décret n°93-839 du 10 juin 1993 (MENX9300076D)](decret-n93-839-du-10-juin-1993-menx9300076d)
 - [Décret n°93-198 du 11 février 1993 (MENL9204555D)](decret-n93-198-du-11-fevrier-1993-menl9204555d)
 - [Décret n°93-200 du 11 février 1993 (INTB9300046D)](decret-n93-200-du-11-fevrier-1993-intb9300046d)
 - [Décret n°93-202 du 11 février 1993 (SPSS9300152D)](decret-n93-202-du-11-fevrier-1993-spss9300152d)
