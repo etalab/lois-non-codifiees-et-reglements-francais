@@ -10,4 +10,6 @@ Le directeur du Trésor est l'ordonnateur des dépenses de l'Etablissement publi
 
 - prépare le budget et l'exécute ;
 
-- conclut au nom de l'établissement les marchés publics et les contrats.
+- conclut au nom de l'établissement les marchés publics et les contrats ;
+
+Pour l'exercice de sa compétence d'ordonnateur des dépenses de l'établissement public, le directeur du Trésor peut déléguer sa signature à un chef de service, un sous-directeur ou un chef de bureau de cette direction.
