@@ -1,0 +1,3 @@
+# Article 6
+
+Seuls les candidats justifiant d'une expérience professionnelle dûment attestée par l'employeur, acquise soit au titre du troisième alinéa de l'article L. 663 du code de la santé publique, soit par les titulaires d'un diplôme de pharmacien en qualité de praticien adjoint contractuel, d'attaché associé, d'assistant généraliste associé, d'interne ou de faisant fonction d'interne, peuvent bénéficier de dispense d'une ou plusieurs épreuves ou unités constitutives du brevet professionnel de préparateur en pharmacie au titre de la validation des acquis professionnels dans les conditions prévues par la loi du 20 juillet 1992 et le décret du 26 mars 1993 susvisés.
