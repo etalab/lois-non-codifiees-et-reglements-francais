@@ -387,6 +387,7 @@
 - [Décret n°2000-1144 du 22 novembre 2000 (MENF0002676D)](decret-n2000-1144-du-22-novembre-2000-menf0002676d)
 - [Décret n°2000-1146 du 22 novembre 2000 (EQUA0001491D)](decret-n2000-1146-du-22-novembre-2000-equa0001491d)
 - [Décret n°2000-1150 du 22 novembre 2000 (FPPA0010021D)](decret-n2000-1150-du-22-novembre-2000-fppa0010021d)
+- [Décret n°2000-1258 du 22 décembre 2000 (ECOT0051929D)](decret-n2000-1258-du-22-decembre-2000-ecot0051929d)
 - [Décret n°2000-278 du 22 mars 2000 (ECOI0000034D)](decret-n2000-278-du-22-mars-2000-ecoi0000034d)
 - [Décret n°2000-554 du 22 juin 2000 (AGRB0000276D)](decret-n2000-554-du-22-juin-2000-agrb0000276d)
 - [Décret n°2000-578 du 22 juin 2000 (INTM0000022D)](decret-n2000-578-du-22-juin-2000-intm0000022d)
