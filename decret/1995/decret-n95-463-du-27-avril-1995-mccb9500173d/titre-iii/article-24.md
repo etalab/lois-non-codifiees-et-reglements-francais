@@ -10,4 +10,4 @@ Les dépenses de l'établissement comprennent :
 
 - les subventions éventuelles aux organismes associés ;
 
-- le versement à la Réunion des musées nationaux mentionné à l'article 23 du présent décret et, de façon générale, toutes dépenses nécessaires à l'activité de l'établissement.
+- les acquisitions de biens culturels mentionnées au 1° de l'article 2 et, de façon générale, toutes dépenses nécessaires à l'activité de l'établissement.
