@@ -25,3 +25,11 @@ b) Pour le financement du besoin de fonds de roulement : 10 p. 100 du montant de
 c) Pour le financement de la mise en état et de l'adaptation :
 
 200 000 F.
+
+4° Pour les projets d'installation agréés à compter du 1er janvier 1996, les volumes totaux de réalisation de prêts mentionnés au a, b et c du 1° ci-dessus sont respectivement fixés à 720 000 F, 360 000 F et 720 000 F par bénéficiaire.
+
+L'encours maximum de ces mêmes prêts ne peut excéder 620 000 F.
+
+Dans le cas mentionné au b du 1°, il peut être majoré de 310 000 F.
+
+Dans le cas mentionné au c du 1°, l'encours maximum est de 620 000 F pour chacun des conjoints.

@@ -1,4 +1,4 @@
-# Prime au naisseur d'étalon.
+# Prime au naisseur de chevaux de sport.
 
 - [Article Annexe II](article-annexe-ii.md)
 - [Article Annexe IV, art. 1](article-annexe-iv-art-1.md)
