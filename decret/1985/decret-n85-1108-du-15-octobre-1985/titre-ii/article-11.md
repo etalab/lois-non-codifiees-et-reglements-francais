@@ -1,5 +1,5 @@
 # Article 11
 
-La convention de concession et le cahier des charges sont approuvés par décret.
+L'autorisation est accompagnée d'un cahier des charges conforme au cahier des charges type approuvé par le décret n° 52-77 du 15 janvier 1952 ou, si elle est délivrée par décret en Conseil d'Etat, d'un cahier des charges particulier.
 
-Si le cahier des charges n'est pas conforme au cahier des charges type prévu à l'article 4 du décret susvisé du 24 mai 1950, cette approbation est prononcée le Conseil d'Etat entendu.
+Le silence gardé par le ministre pendant plus de dix-huit mois sur une demande d'autorisation vaut décision de rejet.
