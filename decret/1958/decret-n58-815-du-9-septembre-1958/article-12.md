@@ -2,7 +2,7 @@
 
 Les ressources de l'établissement comprendront notamment :
 
-Les avances et participations consenties sur les ressourves du fonds national d'aménagement du territoire :
+Les moyens de financement accordés par le fonds national d'aménagement foncier et d'urbanisme ;
 
 Les contributions qui lui seraient apportées par les collectivités locales, établissements publics et sociétés nationales intéressés ;
 
