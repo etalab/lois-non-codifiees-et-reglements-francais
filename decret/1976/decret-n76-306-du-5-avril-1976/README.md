@@ -1,0 +1,15 @@
+# Décret n°76-306 du 5 avril 1976 fixant la composition et le fonctionnement d'une commission nationale consultative provisoire d'odontologie, exerçant, à titre transitoire, les attributions de la commission prévue à l'article 14 du décret n° 65-801 du 22 septembre 1965 relatif à la création des écoles nationales de chirurgie dentaire et des centres de soins, d'enseignement et de recherche dentaires, et modifiant le décret n° 65-803 du 22 septembre 1965 portant statut du personnel particulier des centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers et universitaires
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)
+- [Article 9](article-9.md)
+- [Article 10](article-10.md)
+- [Article 11](article-11.md)
+- [Article 12](article-12.md)
+- [Article Execution](article-execution.md)
