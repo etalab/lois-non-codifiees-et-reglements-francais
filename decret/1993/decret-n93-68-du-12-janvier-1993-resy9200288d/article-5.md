@@ -2,7 +2,7 @@
 
 Pour faire suite aux orientations de politique nationale d'information scientifique et technique dégagées par le haut conseil, un comité de coordination de l'information scientifique et technique est institué.
 
-Le comité de coordination est placé auprès du ministère de la recherche et de l'espace ; il est présidé par le directeur de l'information scientifique et technique et des bibliothèques.
+Le comité de coordination est placé auprès du ministre chargé de la recherche ; il est présidé par le directeur de l'information scientifique, des technologies nouvelles et des bibliothèques.
 
 Il fait rapport régulièrement de ses travaux devant le haut conseil de l'information scientifique et technique qui le saisit de ses avis et propositions.
 
