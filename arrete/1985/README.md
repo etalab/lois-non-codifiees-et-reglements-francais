@@ -77,6 +77,7 @@
 - [Arrêté du 29 janvier 1985](arrete-du-29-janvier-1985)
 - [Arrêté du 29 mars 1985](arrete-du-29-mars-1985)
 - [Arrêté du 29 novembre 1984](arrete-du-29-novembre-1984)
+- [Arrêté du 30 août 1983](arrete-du-30-aout-1983)
 - [Arrêté du 30 décembre 1984](arrete-du-30-decembre-1984)
 - [Arrêté du 30 janvier 1985](arrete-du-30-janvier-1985)
 - [Arrêté du 30 novembre 1984](arrete-du-30-novembre-1984)
