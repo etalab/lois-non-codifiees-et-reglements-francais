@@ -5,3 +5,5 @@ Les personnes faisant appel, de façon habituelle, à des personnes physiques ou
 Un décret détermine les aménagements dont les locaux desservis doivent être dotés en fonction des caractéristiques des immeubles ainsi que de la nature des activités qui y sont exercées et des conditions de leur desserte. Ce décret est publié au plus tard dans un délai de six mois à compter de la publication de la présente loi.
 
 Les locaux existants à la date de la publication de la présente loi, ainsi que ceux qui, à cette même date, n'auront pas fait l'objet de la réception prévue à l'article L. 111-19 du code de la construction et de l'habitation doivent être dotés des aménagements prévus par le décret mentionné à l'alinéa précédent au plus tard le 31 décembre 2002.
+
+Toutefois, le délai est prorogé jusqu'au 31 décembre 2003 pour les personnes qui, malgré le dépôt d'un dossier auprès des administrations publiques, n'auront pu réaliser, avant le 31 décembre 2002, les aménagements mentionnés aux alinéas précédents.
