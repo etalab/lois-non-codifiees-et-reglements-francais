@@ -305,7 +305,6 @@
 - [Arrêté du 15 février 1988 (ENVN8800034A)](arrete-du-15-fevrier-1988-envn8800034a)
 - [Arrêté du 15 février 1988 (PTTP8800159A)](arrete-du-15-fevrier-1988-pttp8800159a)
 - [Arrêté du 15 février 1988 (RESP8800167A)](arrete-du-15-fevrier-1988-resp8800167a)
-- [Arrêté du 15 février 1988 (RESP8800169A)](arrete-du-15-fevrier-1988-resp8800169a)
 - [Arrêté du 15 février 1988 (RESP8800170A)](arrete-du-15-fevrier-1988-resp8800170a)
 - [Arrêté du 15 janvier 1988 (INTE8800013A)](arrete-du-15-janvier-1988-inte8800013a)
 - [Arrêté du 15 janvier 1988 (MCCB8800042A)](arrete-du-15-janvier-1988-mccb8800042a)
