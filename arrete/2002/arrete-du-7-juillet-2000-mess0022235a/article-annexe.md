@@ -84,5 +84,11 @@ LISTE DES PORTS SUSCEPTIBLES D'OUVRIR DROIT A L'ALLOCATION DE CESSATION ANTICIPE
 <p align="center">De 1964 à 1977</p>
 </td>
 </tr>
+<tr>
+<td>Sète </td>
+<td>
+<p align="center"> De 1980 à 1989</p>
+</td>
+</tr>
 </tbody>
 </table>
