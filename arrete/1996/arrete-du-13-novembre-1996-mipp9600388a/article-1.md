@@ -1,0 +1,3 @@
+# Article 1
+
+La S.A.R.L. European Broadcasting Services est autorisée à exploiter un réseau indépendant unidirectionnel de télécommunications par satellites selon les prescriptions techniques et réglementaires fixées dans le cahier des charges annexé au présent arrêté. Le cahier des charges pourra faire l'objet d'une révision au plus tard au 31 décembre 1997 par l'Autorité de régulation des communications électroniques et des postes afin de le rendre conforme aux textes d'application de l'article L. 33-2 du code des postes et des communications électroniques prévus par la loi n° 96-659 du 26 juillet 1996 sur la réglementation des télécommunications.

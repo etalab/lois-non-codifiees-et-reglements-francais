@@ -1,0 +1,3 @@
+# Article 1
+
+Sous réserve d'avoir adressé au préfet une déclaration dans les conditions prévues à l'article 2, peuvent enseigner, encadrer ou animer contre rémunération une activité physique ou sportive sur le territoire national, à titre occasionnel, et sans y être établis, les ressortissants d'un Etat membre de l'Union européenne (UE) ou d'un autre Etat partie à l'accord sur l'Espace économique européen (EEE) qualifiés pour exercer légalement cette activité dans l'un de ces Etats. Par cette déclaration, est réputée satisfaite l'obligation que l'article 47-1 de la loi du 16 juillet 1984 susvisée impose à leurs employeurs en tant que responsables des établissements, dès lors que ceux-ci n'ont pas leur établissement principal en France.
