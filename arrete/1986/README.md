@@ -129,7 +129,6 @@
 - [Arrêté du 19 septembre 1986](arrete-du-19-septembre-1986)
 - [Arrêté du 20 décembre 1985](arrete-du-20-decembre-1985)
 - [Arrêté du 20 février 1986](arrete-du-20-fevrier-1986)
-- [Arrêté du 20 novembre 1986](arrete-du-20-novembre-1986)
 - [Arrêté du 20 octobre 1986](arrete-du-20-octobre-1986)
 - [Arrêté du 20 mai 1986](arrete-du-20-mai-1986)
 - [Arrêté du 21 août 1986](arrete-du-21-aout-1986)

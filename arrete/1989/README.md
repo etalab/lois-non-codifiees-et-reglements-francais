@@ -122,7 +122,6 @@
 - [Arrêté du 7 juillet 1989 (BUDR8905034A)](arrete-du-7-juillet-1989-budr8905034a)
 - [Arrêté du 7 juillet 1989 (COMA8900012A)](arrete-du-7-juillet-1989-coma8900012a)
 - [Arrêté du 7 juin 1989 (DEFE8901570A)](arrete-du-7-juin-1989-defe8901570a)
-- [Arrêté du 7 juin 1989 (DEFE8901571A)](arrete-du-7-juin-1989-defe8901571a)
 - [Arrêté du 7 juin 1989 (MPAS8801126A)](arrete-du-7-juin-1989-mpas8801126a)
 - [Arrêté du 7 novembre 1989 (JUSE8940080A)](arrete-du-7-novembre-1989-juse8940080a)
 - [Arrêté du 7 novembre 1989 (SPSP8902561A)](arrete-du-7-novembre-1989-spsp8902561a)
