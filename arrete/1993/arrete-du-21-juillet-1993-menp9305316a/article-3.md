@@ -1,3 +1,3 @@
 # Article 3
 
-Est également admis un titre ou diplôme sanctionnant un cycle d’études postsecondaires d’au moins quatre années, délivré par un autre Etat membre de la Communauté économique européenne.
+Est également admis un titre ou un diplôme sanctionnant un cycle d'études postsecondaires d'au moins quatre années, acquis en France ou dans un autre Etat, et attesté par l'autorité compétente de l'Etat considéré.
