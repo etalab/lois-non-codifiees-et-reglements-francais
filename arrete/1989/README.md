@@ -296,6 +296,7 @@
 - [Arrêté du 14 mars 1989 (SPSH8900537A)](arrete-du-14-mars-1989-spsh8900537a)
 - [Arrêté du 14 mars 1989 (SPSH8900538A)](arrete-du-14-mars-1989-spsh8900538a)
 - [Arrêté du 14 novembre 1989 (ECOT8910059A)](arrete-du-14-novembre-1989-ecot8910059a)
+- [Arrêté du 14 novembre 1989 (INDD8900886A)](arrete-du-14-novembre-1989-indd8900886a)
 - [Arrêté du 14 septembre 1989 (PTTT8900872A)](arrete-du-14-septembre-1989-pttt8900872a)
 - [Arrêté du 14 septembre 1989 (TEFT8903724A)](arrete-du-14-septembre-1989-teft8903724a)
 - [Arrêté du 15 avril 1985](arrete-du-15-avril-1985)

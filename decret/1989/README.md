@@ -354,6 +354,8 @@
 - [Décret n°89-775 du 23 octobre 1989 (MENN8902270D)](decret-n89-775-du-23-octobre-1989-menn8902270d)
 - [Décret n°89-776 du 23 octobre 1989 (MENN8902271D)](decret-n89-776-du-23-octobre-1989-menn8902271d)
 - [Décret n°89-789 du 23 octobre 1989 (MENF8901554D)](decret-n89-789-du-23-octobre-1989-menf8901554d)
+- [Décret n°89-857 du 23 novembre 1989 (DEFP8902038D)](decret-n89-857-du-23-novembre-1989-defp8902038d)
+- [Décret n°89-858 du 23 novembre 1989 (DEFP8902039D)](decret-n89-858-du-23-novembre-1989-defp8902039d)
 - [Décret n°89-122 du 24 février 1989 (MENF8900209D)](decret-n89-122-du-24-fevrier-1989-menf8900209d)
 - [Décret n°89-182 du 24 mars 1989 (MAEF8910004D)](decret-n89-182-du-24-mars-1989-maef8910004d)
 - [Décret n°89-259 du 24 avril 1989 (PRMG8970032D)](decret-n89-259-du-24-avril-1989-prmg8970032d)
