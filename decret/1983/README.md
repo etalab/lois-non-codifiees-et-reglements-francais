@@ -186,7 +186,6 @@
 - [Décret n°83-1147 du 23 décembre 1983](decret-n83-1147-du-23-decembre-1983)
 - [Décret n°83-1148 du 23 décembre 1983](decret-n83-1148-du-23-decembre-1983)
 - [Décret n°83-1175 du 23 décembre 1983](decret-n83-1175-du-23-decembre-1983)
-- [Décret n°83-132 du 23 février 1983](decret-n83-132-du-23-fevrier-1983)
 - [Décret n°83-133 du 23 février 1983](decret-n83-133-du-23-fevrier-1983)
 - [Décret n°83-341 du 23 avril 1983](decret-n83-341-du-23-avril-1983)
 - [Décret n°83-514 du 23 juin 1983](decret-n83-514-du-23-juin-1983)
