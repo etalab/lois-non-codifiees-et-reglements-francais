@@ -12,7 +12,7 @@ Date de règlement : 5 septembre 1991.
 
 Date d'échéance : 10 octobre 1991.
 
-Taux précompté (en pourcentage) : 9,02.
+Taux précompté (en pourcentage) : 8,94.
 
 Date de l'adjudication : 2 septembre 1991.
 
@@ -24,7 +24,7 @@ Date de règlement : 5 septembre 1991.
 
 Date d'échéance : 5 décembre 1991.
 
-Taux précompté (en pourcentage) : 9,19.
+Taux précompté (en pourcentage) : 8,98.
 
 Date de l'adjudication : 2 septembre 1991.
 
@@ -36,7 +36,7 @@ Date de règlement : 5 septembre 1991.
 
 Date d'échéance : 20 février 1992.
 
-Taux précompté (en pourcentage) : 9,25.
+Taux précompté (en pourcentage) : 8,87.
 
 Date de l'adjudication : 9 septembre 1991.
 
@@ -48,7 +48,7 @@ Date de règlement : 12 septembre 1991.
 
 Date d'échéance : 17 octobre 1991.
 
-Taux précompté (en pourcentage) : 8,98.
+Taux précompté (en pourcentage) : 8,92.
 
 Date de l'adjudication : 9 septembre 1991.
 
@@ -60,7 +60,7 @@ Date de règlement : 12 septembre 1991.
 
 Date d'échéance : 12 décembre 1991.
 
-Taux précompté (en pourcentage) : 9,12.
+Taux précompté (en pourcentage) : 8,91.
 
 Date de l'adjudication : 9 septembre 1991.
 
@@ -72,7 +72,7 @@ Date de règlement : 12 septembre 1991.
 
 Date d'échéance : 12 mars 1992.
 
-Taux précompté (en pourcentage) : 9,14.
+Taux précompté (en pourcentage) : 8,74.
 
 Date de l'adjudication : 16 septembre 1991.
 
@@ -84,7 +84,7 @@ Date de règlement : 19 septembre 1991.
 
 Date d'échéance : 19 décembre 1991.
 
-Taux précompté (en pourcentage) : 9,00.
+Taux précompté (en pourcentage) : 8,80.
 
 Date de l'adjudication : 23 septembre 1991.
 
@@ -96,7 +96,7 @@ Date de règlement : 26 septembre 1991.
 
 Date d'échéance : 26 décembre 1991.
 
-Taux précompté (en pourcentage) : 9,08.
+Taux précompté (en pourcentage) : 8,88.
 
 Date de l'adjudication : 23 septembre 1991.
 
@@ -108,7 +108,7 @@ Date de règlement : 26 septembre 1991.
 
 Date d'échéance : 24 septembre 1992.
 
-Taux précompté (en pourcentage) : 9,19.
+Taux précompté (en pourcentage) : 8,41.
 
 Date de l'adjudication : 30 septembre 1991.
 
@@ -120,7 +120,7 @@ Date de règlement : 3 octobre 1991.
 
 Date d'échéance : 2 janvier 1992.
 
-Taux précompté (en pourcentage) : 9,09.
+Taux précompté (en pourcentage) : 8,89.
 
 Date de l'adjudication : 30 septembre 1991.
 
@@ -132,4 +132,4 @@ Date de règlement : 3 octobre 1991.
 
 Date d'échéance : 2 avril 1992.
 
-Taux précompté (en pourcentage) : 9,14.
+Taux précompté (en pourcentage) : 8,74.
