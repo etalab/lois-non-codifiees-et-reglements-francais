@@ -2,6 +2,14 @@
 
 Les jurys d'examen du brevet national de moniteur des premiers secours sont constitués dans chaque département par arrêté du préfet.
 
-Chaque jury est présidé par le préfet ou son représentant. Il comprend, en outre, quatre membres dont au moins un médecin et deux titulaires du brevet national de moniteur des premiers secours, habituellement chargés de la formation des moniteurs. Pour chaque membre titulaire, est désigné, dans les mêmes conditions, un membre suppléant.
+Chaque jury est composé de cinq membres désignés par le préfet :
+
+- un médecin ;
+
+- trois titulaires du brevet national d'instructeur de secourisme ;
+
+- une personnalité qualifiée au niveau départemental dans le domaine de la pédagogie du secourisme.
+
+Le préfet désigne le président du jury parmi ces cinq membres.
 
 Le jury ne peut valablement délibérer que s'il est au complet. Les délibérations sont secrètes.

@@ -4,4 +4,4 @@ Tout candidat admis à l'examen reçoit du ministre chargé de la sécurité civ
 
 1° Le brevet national de moniteur des premiers secours ;
 
-2° Une carte officielle soumise à validation périodique.
+2° (abrogé)

@@ -2,11 +2,17 @@
 
 Les jurys d'examen du certificat de formation aux activités de premiers secours en équipe sont constitués dans chaque département par arrêté du préfet.
 
-Chaque jury est présidé par le préfet ou son représentant et comprend :
+Les jurys d'examen du certificat de formation aux activités de premier secours en équipe sont constitués dans chaque département.
 
-1° Un médecin ;
+Chaque jury est composé de cinq membres désignés par le préfet :
 
-2° Deux titulaires du brevet national de moniteur de secourisme ainsi que du certificat de formation aux activités de premiers secours en équipe et de la carte officielle en cours de validité.
+- un médecin ;
+
+- trois titulaires du brevet national d'instructeur de secourisme ou du brevet national de moniteur des premiers secours et du certificat de formation aux activités de premiers secours en équipe ;
+
+- une personnalité qualifiée dans le département dans le domaine du secourisme.
+
+Le préfet désigne le président du jury parmi ces cinq membres.
 
 Les membres du jury visés aux 1° et 2° ci-dessus ainsi que leurs suppléants sont choisis sur une liste d'aptitude établie selon des modalités prévues par arrêté conjoint du ministre de l'intérieur et du ministre chargé de la santé.
 
