@@ -1,3 +1,5 @@
 # Article 1
 
-La dénomination "fromage", accompagnée ou non d'un qualificatif ou d'une dénomination de fantaisie, est réservée au produit, fermenté ou non, obtenu pour la coagulation du lait, de la crème, du lait écrémé ou de leur mélange, suivie d'égouttage, et contenant au minimum 23 grammes de matière sèche pour 100 grammes de fromage.
+La dénomination "fromage" accompagnée ou non d'un qualificatif ou d'une dénomination de fantaisie, est réservée au produit, fermenté ou non, obtenu pour la coagulation du lait, de la crème, du lait écrémé ou de leur mélange, suivie d'égouttage, et contenant au minimum 23 grammes de matière sèche pour 100 grammes de fromage.
+
+Toutefois, cette teneur peut être abaissée respectivement jusqu'à 15 grammes ou 11 grammes pour les fromages frais non définis, selon que leur teneur en matière grasse est d'au moins 20 grammes ou inférieure à 20 grammes pour 100 grammes de fromage après complète dessiccation. Lorsque la teneur en matière sèche est inférieure à 18 grammes pour 100 grammes, la dénomination du fromage frais doit être accompagnée de l'indication, inscrite en caractères identiques à ceux de la dénomination de vente, que le fromage contient "plus de 82 p. 100 d'eau" ou "plus de 85 p. 100 d'eau", selon que la teneur en matière sèche est d'au moins 15 grammes ou d'au moins 11 grammes pour 100 grammes de fromage.
