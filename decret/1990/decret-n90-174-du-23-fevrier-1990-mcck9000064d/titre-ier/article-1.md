@@ -24,11 +24,11 @@ a) Trois membres titulaires et six membres suppléants âgés de dix-huit à vin
 
 b) Un membre titulaire et deux membres suppléants âgés de dix-huit à vingt-cinq ans à la date de leur nomination, choisis par le ministre chargé de la culture sur des listes de candidatures dressées par le directeur général du Centre national de la cinématographie dans des conditions fixées par arrêté du ministre chargé de la culture.
 
-II. - Le président et le président suppléant sont nommés pour deux ans [*mandat - durée*] par décret du Premier ministre pris sur le rapport du ministre chargé de la culture. Le président est choisi parmi les membres du Conseil d'Etat.
+II. - Le président et le président suppléant sont nommés pour pour une période de trois ans, renouvelable deux fois par décret du Premier ministre pris sur le rapport du ministre chargé de la culture. Le président est choisi parmi les membres du Conseil d'Etat.
 
 Sur proposition du président, le ministre chargé de la culture peut, en cas d'empêchement simultané du président et de son suppléant, désigner, pour une séance déterminée, un membre choisi par lui à l'effet d'assumer les fonctions de président de cette séance.
 
-III. - Les membres titulaires et les membres suppléants sont nommés pour deux ans.
+III. - Les membres titulaires et les membres suppléants sont nommés pour une période de trois ans, renouvelable deux fois, par arrêté du ministre chargé de la culture.
 
 En cas de vacance, il est procédé à la désignation d'un nouveau membre pour la durée du mandat restant à courir.
 
