@@ -38,6 +38,8 @@ I. - Dans chaque unité médicale de médecine, chirurgie ou obstétrique, les c
 
 - poids à la naissance (pour les nouveau-nés).
 
+3° Informations obligatoires pour les patients adultes relevant des disciplines de réanimation, de soins intensifs ou de surveillance continue : indice de gravité simplifié II (IGS II).
+
 II. - Par exception au 1° ci-dessus, si la personne a été soignée sous le couvert de l'anonymat, les informations d'identité sont limitées à l'année de naissance, au sexe et au numéro d'hospitalisation.
 
 III. - Par exception au 2° ci-dessus, il peut être réalisé un R.S.S. unique par mois, trimestre ou semestre pour certains traitements de nature itérative constitués chacun d'une série de séances semblables concernant le même malade. Dans ce cas, la date d'entrée correspond à la première séance et la date de sortie à la dernière séance du mois, trimestre ou semestre considéré. En aucun cas il n'est fait mention de séances dans les R.S.S. correspondant à des prises en charge hospitalières de plus de vingt-quatre heures.
