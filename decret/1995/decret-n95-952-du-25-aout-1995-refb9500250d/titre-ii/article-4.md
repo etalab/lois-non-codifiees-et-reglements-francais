@@ -4,4 +4,4 @@ Le recrutement en qualité de contrôleur territorial de travaux intervient apr�
 
 1° En application des dispositions de l'article 36 de la loi du 26 janvier 1984 susvisée ;
 
-2° En application des dispositions du 1° de l'article 39 de ladite loi.
+2° En application des dispositions des 1° et 2° de l'article 39 de ladite loi.
