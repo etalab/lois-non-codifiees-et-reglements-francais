@@ -1,0 +1,19 @@
+# Article 75
+
+I. - 1° Tout prestataire de services d'investissement ayant son siège social sur le territoire de la France métropolitaine et des départements d'outre-mer et autorisé à fournir des services d'investissement en application de l'article 11 qui veut établir une succursale dans un autre Etat membre notifie son projet au Comité des établissements de crédit et des entreprises d'investissement et au Conseil des marchés financiers selon les règles fixées par un décret en Conseil d'Etat.
+
+Ce projet ainsi que les informations prévues à l'article 61 assurant la protection des clients de la succursale sont transmis, dans les trois mois de leur réception, aux autorités compétentes de l'Etat membre d'accueil dans les conditions et selon les modalités fixées par le décret en Conseil d'Etat prévu au 1° ci-dessus. Le refus de transmission ne peut intervenir que si le Comité des établissements de crédit et des entreprises d'investissement et le Conseil des marchés financiers établissent que les structures administratives ou la situation financière de l'entreprise d'investissement ou de l'établissement de crédit fournissant des services d'investissement ne permettent pas l'établissement d'une succursale.
+
+Le prestataire de services d'investissement concerné est avisé de cette transmission.
+
+Si le Comité des établissements de crédit et des entreprises d'investissement et le Conseil des marchés financiers refusent de communiquer les informations mentionnées au premier alinéa aux autorités compétentes de l'Etat membre d'accueil, ils font connaître les motifs de ce refus à l'entreprise d'investissement ou à l'établissement de crédit concerné dans les trois mois suivant la réception de ces informations.
+
+Dès réception de la réponse des autorités compétentes de l'Etat membre d'accueil ou, en cas d'absence de réponse de leur part, à l'expiration d'un délai de deux mois à compter de la réception, par ces autorités, des informations communiquées par le Comité des établissements de crédit et des entreprises d'investissement et le Conseil des marchés financiers, la succursale de l'entreprise ou de l'établissement pétitionnaire peut être établie et commencer à exercer ses activités sous réserve, le cas échéant, de remplir les conditions spécifiques nécessaires pour négocier sur un marché réglementé.
+
+2° Tout prestataire de services d'investissement ayant son siège social sur le territoire de la France métropolitaine et des départements d'outre-mer et autorisé à fournir des services d'investissement en application de l'article 11 de la présente loi qui veut exercer ses activités sur le territoire d'un autre Etat membre en libre prestation de services le déclare au Comité des établissements de crédit et des entreprises d'investissement et au Conseil des marchés financiers dans les conditions et selon les modalités fixées par le décret en Conseil d'Etat prévu au 1° ci-dessus.
+
+Le Comité des établissements de crédit et des entreprises d'investissement et le Conseil des marchés financiers communiquent cette déclaration à l'autorité compétente de l'Etat membre d'accueil dans un délai d'un mois à compter de sa réception régulière. Le prestataire de services d'investissement peut alors commencer à fournir dans l'Etat membre d'accueil les services d'investissement déclarés.
+
+Les dispositions du présent article s'appliquent de plein droit pour la fourniture des services d'investissement mentionnés à l'article 4. Elles peuvent s'appliquer également aux services connexes prévus à l'article 5 si le prestataire de services d'investissement pétitionnaire est autorisé à fournir tout ou partie des services énumérés à l'article 4.
+
+II. - La Commission des opérations de bourse exerce les attributions définies aux chapitres Ier et II à l'égard des sociétés de gestion de portefeuille et des entreprises relevant de l'article 74 exerçant à titre principal les activités définies au d de l'article 4.

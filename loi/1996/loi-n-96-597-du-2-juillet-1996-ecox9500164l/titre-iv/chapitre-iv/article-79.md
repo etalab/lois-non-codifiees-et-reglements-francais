@@ -1,0 +1,17 @@
+# Article 79
+
+I. - En vue d'exercer la surveillance d'un prestataire de services d'investissement bénéficiant du régime prévu à l'article 74, les autorités compétentes de l'Etat d'origine dont il relève peuvent exiger de lui et de ses succursales établies en France communication de toutes informations utiles à l'exercice de cette surveillance.
+
+Après information préalable de la Commission bancaire ou, lorsqu'il s'agit de services visés au d de l'article 4, de la Commission des opérations de bourse, les succursales de ce prestataire situées sur le territoire de la France métropolitaine et des départements d'outre-mer peuvent être contrôlées, sur place, par les autorités compétentes de leur Etat d'origine, directement ou par l'intermédiaire de personnes que ces autorités mandatent spécialement à cet effet. Les résultats de ces contrôles sont communiqués à la Commission bancaire sans que les règles relatives au secret professionnel puissent être opposées. La Commission bancaire informe, le cas échéant, le Conseil des marchés financiers ou la Commission des opérations de bourse des contrôles ci-mentionnés et de leurs résultats.
+
+En outre, la Commission bancaire, la Commission des opérations de bourse et le Conseil des marchés financiers procèdent, le cas échéant, aux vérifications sollicitées par les autorités compétentes de l'Etat d'origine.
+
+II. - Le Conseil des marchés financiers est chargé d'assurer le respect, par les prestataires de services d'investissement visés à l'article 74 de la présente loi, des dispositions législatives et réglementaires qui leur sont applicables, à l'exception des normes de gestion que ces prestataires doivent respecter, au sens de l'article 33-1 de la loi n° 84-46 du 24 janvier 1984 précitée.
+
+Le conseil examine les conditions d'exercice de leurs activités et les résultats de celles-ci en tenant compte de la surveillance exercée par les autorités compétentes de l'Etat d'origine.
+
+III. - Lorsque la Commission bancaire ou, lorsqu'il s'agit d'un service visé au d de l'article 4, la Commission des opérations de bourse constate qu'un prestataire de services d'investissement bénéficiant du régime prévu à l'article 74 ne respecte pas les dispositions législatives ou réglementaires en matière de règles prudentielles ou de règles d'agrément, ces autorités peuvent exiger que le prestataire mette fin à cette situation irrégulière et en informent les autorités compétentes de l'Etat membre d'origine.
+
+Si, en dépit des mesures prises par l'Etat membre d'origine ou parce que ces mesures se révèlent inadéquates ou font défaut dans cet Etat, le prestataire de services d'investissement persiste à enfreindre les dispositions législatives ou réglementaires mentionnées à l'alinéa précédent, la Commission bancaire, la Commission des opérations de bourse et, le cas échéant, le Conseil des marchés financiers prennent les mesures appropriées pour prévenir ou sanctionner de nouvelles irrégularités et, au besoin, empêcher ce prestataire d'effectuer de nouvelles opérations sur le territoire de la France métropolitaine et des départements d'outre-mer. Ces autorités en informent, sans délai, les autorités de l'Etat membre d'origine.
+
+IV. - Un décret en Conseil d'Etat détermine les procédures que suivent la Commission bancaire, la Commission des opérations de bourse et le Conseil des marchés financiers dans l'exercice des compétences qui leur sont dévolues aux paragraphes précédents. Ce décret détermine, en particulier, les modalités d'information des autorités compétentes des autres Etats membres.
