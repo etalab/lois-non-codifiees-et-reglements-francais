@@ -1,6 +1,12 @@
 # Article 3
 
-Les psychologues sont recrutés par voie de concours sur titres ouverts par le préfet de région pour un ou plusieurs établissements de la même région ou, en ce qui concerne l'administration générale de l'assistance publique à Paris, par le directeur général.
+Les psychologues sont recrutés par voie de concours ouvert par le préfet de région pour un ou plusieurs établissements de la même région ou, en ce qui concerne l'administration générale de l'Assistance publique - hôpitaux de Paris, par le directeur général.
+
+Le concours comporte :
+
+1° Une admissibilité prononcée par le jury après examen sur dossier des titres, des travaux et de l'expérience professionnelle des candidats ;
+
+2° Une épreuve orale d'admission consistant en un entretien avec le jury destiné à apprécier les motivations et aptitudes des candidats déclarés admissibles.
 
 Peuvent faire acte de candidature les personnes titulaires :
 
