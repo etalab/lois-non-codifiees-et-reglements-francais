@@ -18,16 +18,28 @@
 
 2° Supérieure à 1 ha, mais inférieure à 20 haD
 
-5.4.0. Epandage : la quantité d'effluents ou de boues épandues dépassant l'une des valeurs suivantes :
+5.4.0. Epandage de boues issues du traitement des eaux usées : la quantité de boues épandues dans l'année, produites dans l'unité de traitement considérée, étant :
 
-1° Volume annuel : 500 000 m3/anA
+1° Quantité de matière sèche supérieure à 800 t/an       A
 
-DB05 : 5 t/an ;
+ou azote total supérieur à 40 t/an ;
 
-Azote : 10 t/an.
+2° Quantité de matière sèche comprise entre 3 et 800 t/an                                       D
 
-2° Volume annuel : 50 000 à 500 000 m3/anD
+ou azote total compris entre 0,15 t/an et 40 t/an.
 
-DB05 : 500 kg à 5 t/an ;
+Pour l'application de ces seuils, sont à prendre en compte les volumes et quantités maximales de boues destinées à l'épandage dans les unités de traitement concernées. "
 
-Azote : 1 à 10 t/an.
+5.5.0. Epandage d'effluents ou de boues, à l'exception de celles visées à la rubrique 5.4.0 : la quantité d'effluents ou de boues épandues étant :
+
+1° Azote total supérieur à 10 t/an   A
+
+ou volume annuel supérieur à 500 000 m3/an,
+
+ou DBO5 supérieure à 5 t/an ;
+
+2° Azote total compris entre 1 t/an et 10 t/an   D
+
+ou volume annuel compris entre 50 000 m3/an et 500 000 m3/an
+
+ou DBO5 comprise entre 500 kg et 5 t/an.
