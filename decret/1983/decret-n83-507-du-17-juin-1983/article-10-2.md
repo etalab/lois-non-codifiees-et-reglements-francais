@@ -16,9 +16,7 @@ un représentant de l'Institut national de la recherche agronomique.
 
 un représentant de la chambre régionale d'agriculture désigné par son président ;
 
-un représentant désigné par entente des fédérations ou unions départementales des syndicats d'exploitants agricoles de la région ;
-
-un représentant désigné par entente des centres départementaux des jeunes agriculteurs de la région ;
+deux représentants désignés parmi les personnalités proposées par chacune des organisations syndicales d'exploitants agricoles à vocation générale habilitées en application de l'article 2 du décret n° 90-187 du 28 février 1990 ;
 
 un représentant des industries agricoles et alimentaires de la région ;
 

@@ -10,7 +10,7 @@ Un représentant des services départementaux du ministère de l'économie et de
 
 Un représentant de la caisse régionale de crédit agricole mutuel ;
 
-Deux représentants des organisations professionnelles agricoles ;
+Un représentant de chacune des organisations syndicales d'exploitants agricoles à vocation générale habilitées en application de l'article 1er du décret n° 90-187 du 28 février 1990 ;
 
 Un représentant de la fédération française des sociétés d'assurances ;
 

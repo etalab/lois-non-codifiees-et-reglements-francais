@@ -30,7 +30,7 @@ Le président de la confédération nationale de la mutualité, du crédit et de
 
 Le président du centre national pour l'aménagement des structures des exploitations agricoles ou son représentant ;
 
-Les présidents des organisations syndicales nationales représentatives des exploitants agricoles ou son représentant ;
+Les présidents, ou leurs représentants, de chacune des organisations syndicales d'exploitants agricoles à vocation générale habilitées en application de l'article 3 du décret n° 90-187 du 28 février 1990 ;
 
 Le président de la section nationale des bailleurs à la fédération nationale des syndicats d'exploitants agricoles ou son représentant ;
 

@@ -12,9 +12,9 @@ Le comité départemental d'expertise comprend, sous la présidence du préfet o
 
 5° Le président de la chambre départementale d'agriculture ou son représentant ;
 
-6° Le président de la fédération départementale des syndicats d'exploitants agricoles ou son représentant ;
+6° Un représentant de chacune des organisations syndicales d'exploitants agricoles à vocation générale habilitées en application de l'article 1er du décret n° 90-187 du 28 février 1990 ;
 
-7° Le président du centre départemental des jeunes agriculteurs ou son représentant ;
+7° (supprimé) ;
 
 8° Une personnalité désignée par la fédération française des sociétés d'assurances ;
 

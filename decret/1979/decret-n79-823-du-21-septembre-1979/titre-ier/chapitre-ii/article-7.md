@@ -18,9 +18,7 @@ La commission nationale des calamités agricoles créée par l'article 13 de la 
 
 8° Le directeur de la sécurité civile au ministère de l'intérieur ou son représentant ;
 
-9° Un ingénieur général du génie rural, des eaux et des forêts ;
-
-10° Un commissaire contrôleur des assurances ;
+9° Un ingénieur général du génie rural, des eaux et des forêts ;    10° Un commissaire contrôleur des assurances ;
 
 11° Le directeur général de la caisse centrale de réassurance ou son représentant ;
 
@@ -28,9 +26,9 @@ La commission nationale des calamités agricoles créée par l'article 13 de la 
 
 13° Une personnalité nommée sur proposition de l'assemblée permanente des chambres d'agriculture ;
 
-14° Une personnalité nommée sur proposition de la fédération nationale des syndicats d'exploitants agricoles ;
+14° Un représentant de chacune des organisations syndicales d'exploitants agricoles à vocation générale habilitées en application de l'article 3 du décret n° 90-187 du 28 février 1990 ;
 
-15° Une personnalité nommée sur proposition du centre national des jeunes agriculteurs ;
+15° (supprimé) ;
 
 16° Une personnalité nommée sur proposition de la fédération nationale des centres d'études techniques agricoles ;
 

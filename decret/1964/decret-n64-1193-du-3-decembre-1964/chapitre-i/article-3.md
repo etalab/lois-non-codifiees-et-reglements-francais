@@ -12,7 +12,7 @@ Le comité national d'agrément comprend :
 
 - un notaire, proposé par le Conseil supérieur du notariat ;
 
-- six agriculteurs, dont quatre désignés sur proposition respectivement de l'assemblée permanente des chambres d'agriculture, de la fédération nationale des syndicats d'exploitants agricoles, du centre national des jeunes agriculteurs, de la confédération nationale de la mutualité, de la coopération et du crédit agricole, et dont deux désignés sur proposition de l'union des groupements d'exploitations agricoles.
+- Six agriculteurs dont un désigné sur proposition de l'assemblée permanente des chambres d'agriculture, trois désignés au vu des propositions de chacune des organisations syndicales d'exploitants agricoles à vocation générale habilitées en application de l'article 3 du décret n° 90-187 du 28 février 1990, et deux désignés sur proposition de l'union des groupements d'exploitations agricoles ;
 
 Les membres du comité autres que les fonctionnaires sont nommés pour trois ans par le ministre de l'agriculture. Ceux qui sont désignés en raison de leurs fonctions peuvent se faire suppléer, les autres sont suppléés par des suppléants désignés dans les mêmes conditions qu'eux-mêmes.
 

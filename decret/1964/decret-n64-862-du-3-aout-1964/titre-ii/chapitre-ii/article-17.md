@@ -36,7 +36,7 @@ Le président de l'assemblée permanente des présidents de chambres d'agricultu
 
 Le président de la confédération nationale de la mutualité, du crédit et de la coopération agricoles.
 
-Deux exploitants agricoles présentés par la fédération nationale des syndicats d'exploitants agricoles.
+Trois exploitants agricoles nommés par les personnalités présentées par chacune des organisations syndicales d'exploitants agricoles à vocation générale habilitées en application de l'article 3 du décret n° 90-187 du 28 février 1990.
 
 Le président du centre national des jeunes agriculteurs.
 
