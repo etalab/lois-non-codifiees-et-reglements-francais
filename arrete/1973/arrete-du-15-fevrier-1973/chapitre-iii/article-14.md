@@ -32,11 +32,11 @@ Ces taux ainsi que les limites des plafonds qui évoluent en fonction de l'évol
 
 Garde
 
-Taux (en francs) à compter du 1er février 1992  : 1096
+Taux (en francs) à compter du 1er octobre 1992  : 1096
 
 Demi-garde
 
-Taux (en francs) à compter du 1er février 1992  : 548
+Taux (en francs) à compter du 1er octobre 1992  : 548
 
 2. Service de garde par astreinte
 
@@ -44,35 +44,35 @@ Astreinte opérationnelle
 
 a) Indemnité forfaitaire de base par demi-astreinte.
 
-Taux (en francs) à compter du 1er février 1992  : 137
+Taux (en francs) à compter du 1er octobre 1992  : 137
 
 b) Indemnité due pour chaque appel
 
-Taux (en francs) à compter du 1er février 1992  : 137
+Taux (en francs) à compter du 1er octobre 1992  : 137
 
 Le montant cumulé des indemnités perçues ne peut excéder par demi-astreinte
 
-Taux (en francs) à compter du 1er février 1992  : 548
+Taux (en francs) à compter du 1er octobre 1992  : 548
 
 ---Astreinte de sécurité
 
 a) Indemnité forfaitaire de base.
 
-Taux (en francs) à compter du 1er février 1992  : 137
+Taux (en francs) à compter du 1er octobre 1992  : 137
 
 Le montant cumulé des indemnités forfaitaires de base ne peut excéder :
 
 - pour quatre semaines.
 
-Taux (en francs) à compter du 1er février 1992 : 1096
+Taux (en francs) à compter du 1er octobre 1992 : 1096
 
 - pour cinq semaines.
 
-Taux (en francs) à compter du 1er février 1992 : 1370
+Taux (en francs) à compter du 1er octobre 1992 : 1370
 
 b) Indemnité due pour chaque appel.
 
-Taux (en francs) à compter du 1er février 1992 : 137
+Taux (en francs) à compter du 1er octobre 1992 : 137
 
 Les indemnités versées au titre d'une astreinte de sécurité ne peuvent excéder le taux fixé pour une garde.
 
@@ -82,17 +82,17 @@ a) Ils ne donnent lieu à aucune indemnité forfaitaire.
 
 b) Indemnité due pour chaque appel.
 
-Taux (en francs) à compter du 1er février 1992 : 137
+Taux (en francs) à compter du 1er octobre 1992 : 137
 
 Pour un même praticien, le montant cumulé des indemnités perçues pour ses participations au service de garde sous forme de permanence à l'hôpital ou de garde par astreinte à domicile ne peut excéder :
 
 - pour quatre semaines
 
-Taux (en francs) à compter du 1er février 1992 : 10960
+Taux (en francs) à compter du 1er octobre 1992 : 10960
 
 - pour cinq semaines
 
-Taux (en francs) à compter du 1er février 1992 : 13700
+Taux (en francs) à compter du 1er octobre 1992 : 13700
 
 Les indemnités perçues dans le cadre des interventions hors service normal prévues au deuxième alinéa de l'article 3 de l'arrêté du 15 février 1973 modifié ne sont pas comptées dans ce plafond.
 

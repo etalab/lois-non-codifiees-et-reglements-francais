@@ -1,0 +1,3 @@
+# Article 1
+
+Les contremaîtres des services techniques du matériel du ministère de l'intérieur et de la sécurité publique, en fonction à la date de publication du présent décret au service de l'équipement de la direction de la sécurité civile, dans les services de la direction de la programmation, des affaires financières et immobilières et de la direction de la logistique de la police, peuvent demander, dans un délai d'un an à compter de la même date, à être détachés sur des emplois d'ouvriers d'Etat du ministère de l'intérieur et de la sécurité publique régis par le décret du 25 juin 1955 susvisé, en qualité de chef d'équipe.
