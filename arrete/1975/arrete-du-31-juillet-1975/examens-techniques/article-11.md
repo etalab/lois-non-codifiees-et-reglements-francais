@@ -34,18 +34,32 @@
 
 " En tout état de cause, seuls peuvent subir l'épreuve pratique en circulation, les candidats ayant obtenu un résultat favorable à l'épreuve hors circulation.
 
-" Toutefois, sous certaines conditions énoncées dans l'annexe du présent arrêté, les candidats au permis de conduire des catégories C, D et E (C) peuvent subir l'épreuve en circulation sans avoir satisfait à l'épreuve hors circulation.
+" Toutefois, sous certaines conditions énoncées dans l'annexe du présent arrêté, les candidats au  permis de conduire des catégories C, D et E (C) peuvent subir l'épreuve en circulation sans avoir satisfait à l'épreuve hors circulation.
 
 " Dans ce dernier cas, cette épreuve en circulation ne peut être subie qu'une seule fois dans le délai maximum d'un an qui suit la date de l'épreuve hors circulation. En outre, si le résultat à l'épreuve en circulation est jugé satisfaisant, il est délivré au candidat le certificat provisoire de capacité défini à l'article 14 de l'arrêté du 31 juillet 1975 susvisé ; en revanche, si ce résultat n'est pas satisfaisant, le candidat doit repasser l'intégralité de l'épreuve pratique, à savoir l'épreuve hors circulation et l'épreuve en circulation.
 
 " Les candidats ayant obtenu un résultat favorable à l'épreuve hors circulation en conservent le bénéfice pour trois épreuves en circulation, à condition qu'un délai maximum d'un an ne se soit pas écoulé depuis la réussite à l'épreuve hors circulation et sous réserve que les dispositions des paragraphes 11.1.1 et 11.1.2 ci-dessus soient respectées.
 
-" 11.5. En cas de succès à l'épreuve hors circulation de l'épreuve pratique des permis A, AL, C, D et E (C), le candidat ne peut se présenter à l'épreuve en circulation dans un délai inférieur à vingt-quatre heures.
+11.5   Les délais de présentation des candidats aux épreuves de l'examen des différentes catégories de permis de conduire sont précisés ci-dessous :
 
-" En cas d'échec à l'épreuve théorique générale ou à la première épreuve pratique du permis de conduire des catégories A et B, le candidat ne peut se représenter dans un délai inférieur à quarante-huit heures.
+" 11.5.1. En cas de succès à l'épreuve hors circulation de l'épreuve pratique des permis A et AL, le candidat ne peut se présenter à l'épreuve en circulation dans un délai inférieur à vingt-quatre heures.
 
-" En cas d'échec à la deuxième épreuve pratique du permis de conduire des catégories A et B, aucune nouvelle convocation ne peut intervenir avant un délai d'un mois. Il en est de même en cas d'échec aux présentations suivantes.
+" En cas d'échec à l'épreuve théorique générale ou à la première épreuve pratique du permis de conduire des catégories A et AL, le candidat ne peut se représenter dans un délai inférieur à quarante-huit heures.
+
+" En cas d'échec à la deuxième épreuve pratique du permis de conduire des catégories A et AL, aucune nouvelle convocation ne peut intervenir avant un délai d'un mois. Il en est de même en cas d'échec aux présentations suivantes.
+
+" 11.5.2. En cas de succès à l'épreuve hors circulation de l'épreuve pratique des permis C, D et E (C), le candidat ne peut se présenter à l'épreuve en circulation dans un délai inférieur à vingt-quatre heures.
+
+" En cas d'échec à l'épreuve théorique générale du permis de conduire des catégories C, D et E (C), le candidat ne peut se représenter dans un délai inférieur à quarante-huit heures.
 
 " En cas d'échec à la première épreuve pratique du permis de conduire des catégories C, D et E (C), le candidat ne peut se représenter dans un délai inférieur à une semaine.
 
-" De plus, en cas d'échec à la deuxième épreuve pratique, aucune nouvelle convocation ne peut intervenir avant un délai d'un mois. Il en est de même en cas d'échec aux présentations suivantes. "
+" De plus, en cas d'échec à la deuxième épreuve pratique, aucune nouvelle convocation ne peut intervenir avant un délai d'un mois. Il en est de même en cas d'échec aux présentations suivantes.
+
+" 11.5.3. Le candidat à un permis de conduire de la catégorie B ne peut se présenter à l'épreuve théorique générale dans un délai inférieur à un mois qui suit la date d'enregistrement de sa demande de permis de conduire par les services préfectoraux ; de même, un candidat à un permis de conduire de la catégorie B, dispensé de l'épreuve théorique générale dans les conditions prévues au paragraphe 11.1.2. ci-dessus, ne peut se présenter à la première épreuve pratique dans un délai inférieur à un mois qui suit la date d'enregistrement de sa demande de permis de conduire par les services préfectoraux.
+
+" En cas de succès à l'épreuve théorique générale du permis de conduire de la catégorie B, le candidat ne peut se présenter à la première épreuve pratique du permis de conduire de cette catégorie dans un délai inférieur à deux semaines.
+
+" En cas d'échec à l'épreuve théorique générale du permis de conduire de la catégorie B, le candidat ne peut se représenter dans un délai inférieur à deux semaines.
+
+" En cas d'échec à la première épreuve pratique du permis de conduire de la catégorie B, le candidat ne peut se représenter dans un délai inférieur à deux semaines. De plus, en cas d'échec à la deuxième épreuve pratique, aucune nouvelle convocation ne peut intervenir avant un délai d'un mois ; il en est de même en cas d'échec aux présentations suivantes. "

@@ -66,13 +66,15 @@ Département de la Haute-Garonne
 
 5° Le Job, en amont de Cazaunous.
 
-Département de l'Hérault
+" Département de l'Hérault
 
-1. L'Agoût, la Cesse, le Jaur et leurs affluents et sous-affluents ;
+" 1. L'Agoût, la Cesse, le Jaur et leurs affluents et sous-affluents ;
 
-2. Les affluents de la rive droite de l'Orb entre la Mare et le Jaur :
+" 2. Le Vernazobres et l'Ilouvre ;
 
-L'Hérie et son affluent le Poustisse, l'Albine, l'Arle, le Madale, le Vernet, le Bitoulet et le Rieux Pourquier.
+" 3. Les affluents de la rive droite de l'Orb entre la Mare et le Jaur :
+
+" L'Hérie et son affluent le Poustisse, l'Albine, l'Arle, le Madale, le Vernet, le Bitoulet et le Rieux Pourquier. "
 
 Département de la Loire
 
