@@ -57,6 +57,7 @@
 - [Décret n°87-32 du 23 janvier 1987 (MENL8700013D)](decret-n87-32-du-23-janvier-1987-menl8700013d)
 - [Décret n°87-127 du 25 février 1987](decret-n87-127-du-25-fevrier-1987)
 - [Décret n°87-128 du 25 février 1987 (AGRP8700306D)](decret-n87-128-du-25-fevrier-1987-agrp8700306d)
+- [Décret n°87-135 du 25 février 1987 (MAEJ8730007D)](decret-n87-135-du-25-fevrier-1987-maej8730007d)
 - [Décret du 26 janvier 1987 (AGRM8700086D)](decret-du-26-janvier-1987-agrm8700086d)
 - [Décret n°86-1316 du 26 décembre 1986](decret-n86-1316-du-26-decembre-1986)
 - [Décret n°87-130 du 26 février 1987 (INTB8700047D)](decret-n87-130-du-26-fevrier-1987-intb8700047d)
