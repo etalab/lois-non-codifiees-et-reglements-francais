@@ -106,7 +106,7 @@ Leroux et Lotz :
 
 - rue des Usines, 44100 Nantes : de 1960 à 1975.
 
-Les Tôleries de Saint-Nazaire (Ets Thirietl, Chaudronnerie de Saint-Nazaire, SMCT,14,rue Henri-Gautier,BP 112, 44600 Saint-Nazaire Cedex, de 1964 à 1982.
+Les Tôleries de Saint-Nazaire (Ets Thirietl, Chaudronnerie de Saint-Nazaire, SMCT,14,rue Henri-Gautier, BP 112, 44600 Saint-Nazaire Cedex, de 1964 à 1982.
 
 Mac Gegor :
 
@@ -115,6 +115,8 @@ Mac Gegor :
 Mahe :
 
 - ZI Villejanus, rue des Saveurs, 44350 Guérande : depuis sa création.
+
+Meca-Nvale rue des Pluviers, BP 1, 44490 Le Croisic De 1972 à 1995
 
 MSNI :
 
@@ -146,7 +148,7 @@ SAFEN :
 
 - 5, rue du Tertre, 44470 Carquefou : depuis sa création.
 
-SEMT Mécanique : avenue de Chatonay, de 1948 à 1982
+SEMT Mécanique, avenue de Chatonay, de 1948 à 1982
 
 SERIM, quai des Frégates, 44600 Saint-Nazaire : de sa création à 1982.
 
@@ -226,7 +228,9 @@ Albert Villani et Fils/Villani :
 
 - boulevard des Bassins-de-Radoub, 13002 Marseille : depuis 1950.
 
-Antiroulle/CERI antirouille ZI. 1re rue n° 18, BP 2003, Vitrolles. Depuis 1982.
+AMI (Alliance maritime interprofessionnelle) Quartier La Dabry RN 8 83330 Le Beausset De 1960 à 1985.
+
+Antirouille/CERI antirouille ZI. 1re rue n° 18, BP 2003, Vitrolles. Depuis 1982.
 
 APEX :
 
@@ -292,7 +296,7 @@ Azur Montage :
 
 - ZI Les Bartavelles - Les Négadoux, 83140 Six-Fours-les-Plages : depuis 1989.
 
-Balazuc chaudronnerie constructions métalligues méridionales (BALZUC CCMM) Enceinte portuaire, bassin de radoub, bàtiment est, Marseille. De 1987 à 1992.
+Balazuc chaudronnerie constructions métalligues méridionales (BALZUC CCMM) Enceinte portuaire, bassin de radoub, bâtiment est, Marseille. De 1987 à 1992.
 
 Burg Industrie Lotissement industriel du Capitaine-Geze, 13014 Marseille, De 1977 à 1983
 
@@ -334,9 +338,15 @@ Chaudronnerie Joly :
 
 Chaudronnerie seynoise :
 
-- ZI, 10, camp Laurent, 1659, avenue Robert-Brun, 83500 La Seyne-sur-Mer : de 1975 à 1987.
+- ZI, camp Laurent, 1659, avenue Robert-Brun, 83500 La Seyne-sur-Mer : de 1975 à 1987.
 
 Chreatech, zone d'entreprise des Playes-Jean-Monnet, 83500 La Seyne-sur-Mer : de 1987 à 1997.
+
+CNIF : chaudronnerie navale industrielle et ferroviaire 45, rue Victor-Clappier 83000 Toulon De 1974 à 1978
+
+CNL : constructions navales du littoral Boulevard Toussaint-Merle 83500 La Seyne-sur-Mer de 1987 à 1990
+
+CIRES 40, quai Hoche 83500 La Seyne-sur-Mer de 1977 à 1980
 
 Cobra maintenance :
 
@@ -373,6 +383,8 @@ Cotre :
 Covini SA/Covini SN/Covini Entreprise SA, ZI Camp-Laurent, 83500 La Seyne-sur-Mer, puis 525, chemin des Négadoux, 83140 Six-Fours-les-Plages : depuis 1970
 
 CPM (Compagnie provençale de mécanique), boulevard Toussaint-Merle, site Marépolis, 83500 La Seyne-sur-Mer : de 1989 à 1996.
+
+CTIM/MTC 5 avenue de la Côte-Bleue, 13 820 Ensues-la-Redonne depuis 1994
 
 Dalmas Production ZI les Paluds, 711, avenue de la Fleuride, Aubagne. Depuis 1986
 
@@ -414,6 +426,8 @@ Electricité navale :
 
 EMS échafaudage marine service 1, rue du Laos, quartier Saint-Louis, Marseille. Depuis 1996
 
+EMS : entreprise Métina soudure Lotissement Clair-Bois , 112, chemin des Puerats, 83140 Six-Fours-les-Plages De 1970 à 1990
+
 Entreprise artisanale Lucien Pardi. 25, avenue du Capitaine-Marchand, 13600 La Ciotat.
 
 Entreprise de services industriels et maritimes (ESIM) :
@@ -422,11 +436,17 @@ Entreprise de services industriels et maritimes (ESIM) :
 
 Entreprise DIMEA/SARL Constructions métaniques DIMEO 80, route de Marseille, 83000 Toulon puis 305, boulevard de Léry, 83140 Six-Fours. Depuis 1963
 
+Entreprise Jacques Mogli Quartier Les Mouissèques 83500 La Seyne-sur-Mer De 1960 à 1985
+
+Entreprise Laudren et compagnie Place Camille-Ledeau 83000 Toulon puis chemin du Kiosque 83190 Ollioules De 1953 à 1992
+
 Entreprise Le Goff, puis Société de menuiserie agencements travaux équipements (SMATE), 510, chemin du Docteur-Félix-Reynaud, 83500 La-Seyne-sur-Mer, puis avenue Général-Pruneau, 83000 Toulon, puis 209, rue du Commerce, 83140 Six-Fours : depuis 1987.
 
 Entreprise méridionale de travaux/EMT. 22, boulevard A.-France La Ciotat et avenue Saint-Menet Marseille De 1971 à 1977
 
 Entreprise Morana Jean, puis Morana SA, puis SARL Morana, puis Chaudronnerie industrielle du littoral, puis Chaudronnerie métallerie méditerranéenne, quartier Vignelongue, route de Six-Fours, 83500 La Seyne-sur-Mer, puis ZI Camp-Laurent, avenue Marcel-Berne, 83500 La Seyne-sur-Mer : de 1963 à 1994.
+
+Entreprise Series Marius Avenue Infanterie-de-Marine, 83000 Toulon ;
 
 Entreprises et constructions de la Méditerranée (ECM) :
 
@@ -436,11 +456,15 @@ Entreprises et constructions de la Méditerranée (ECM) :
 
 - quai des Agglomérés, 13110 Port-de-Bouc : de 1978 à 1984.
 
+Entreprise Sambarino-Bondil Quartier Peyron, chemin Monneyret 83500 La Seyne-sur-Mer ;
+
 EPMI :
 
 - porte 4, base technique Nord, chemin du Littoral, 13002 Marseille : depuis 1990.
 
 Essor naval du Midi, puis Société d'étude de Carène, boulevard de la Corse-Résistante, 83500 La Seyne-sur-Mer, puis Port-Pin-Rolland, 18, chemin Départemental, 83430 Saint-Mandrier : de 1940 à 1980.
+
+Etablissement Barletta / Toulon Récupération puis Profema Port de commerce de Brégaillon 83500 La Seyne-sur-Mer De 1950 à 1984
 
 Etablissement Pegulu :
 
@@ -606,6 +630,8 @@ Oliva Joseph/Oliva Théophile :
 
 Ortec, puis Ortec Méca, puis Friedlander, puis Ortec Buzichelli et compagnie, puis Ortes Services industrie, 140, avenue L.-Lagrange, ZI Toulon-Est, 83088 Toulon Cedex : depuis 1990.
 
+Perez CTIM Boulevard Pèdre, 13000 Marseille De 1980 à 1990
+
 Philippou :
 
 - route du Cimetière, puis quartier Jeausseranne, 13110 Port-de-Bouc : de 1967 à 1980.
@@ -652,7 +678,9 @@ SA Garbarino :
 
 SAMIC/SPRS/SNPRS :
 
-- ZI camp Laurent, impasse Noël-Verlaque, 83500 La Seyne-sur-Mer : de 1960 à 1990.
+- ZI camp Laurent, 83500 La Seyne-sur-Mer impasse Noël-Verlaque, 83500 La Seyne-sur-Mer, zone portuaire de Bregaillon, 83500 La Seyne-sur-Mer : de 1960 à 1990.
+
+SARL CTIM ZI d'Avon 13120 Gardanne Depuis 1994
 
 SARL Industrie marine 40, quai Hoche, 83140 Six-Fours De 1969 à 1983.
 
@@ -662,13 +690,15 @@ SARL SERBIM/SERBIM Industries :
 
 Service d'exploitation gestion de l'outillage et des engins de radoub (GOER) et service de maintenance Gestion technique de l'outillage de Marseille (GTOM), puis service réparation navale du Port autonome de Marseille, 23, place de la Joliette, BP 1965, 13226 Marseille : de 1947 à 1999.
 
+IMAT : société industrielle et maritime d'applications techniques 26 rue Courbet, 83000 Toulon De 1960 à 1975
+
 SMET CEBS/société méditerranéenne d'entretien et de travaux 171, chemin de la Madrague-ville, Marseille. De 1986 à 1997.
 
 SNI (Sud navires industries), boulevard Philippe-Giovannini, 83500 La Seyne-sur-Mer : de 1996 à 1999.
 
 Société AGIR ZI Camp Laurent, 83500 La Seyne puis 1ère Armée française, zone portuaire de Brésaillon, 83500 La Seyne. Depuis 1987.
 
-Société de montage industriel et maritime/SMIM 20, rue Beauvau, 13001 Marseille/boulevard F.-Mistral à Rognac. Depuis 1973.
+Société de montage industriel et maritime/SMIM 20, rue Beauvau, 13100 Marseille, puis boulevard Frédéric-Mistral, à Rognac, immeuble les Amandiers, avenue Jean-Moulin, La Ciotat : Depuis 1968.
 
 Société des anciens établissements Henri-Satre 51, route de Barriol, Arles et quai Bonnardel, Port-Saint‑Louis-du-Rhône. De 1961 à 1988.
 
@@ -680,13 +710,17 @@ Société industrielle de métallurgie maritime (SIMM). Avenue d'Orves, 83500 La
 
 Société industrielle de Provence/Chaudronnerie mécanique de Provence, 32, avenue Victor-Hugo, 13600 La Ciotat, et ZI de Roumagoua, 13600 La Ciotat : de 1968 à 1997.
 
+Société Les Abeilles Le Bois Sacré, puis ZI de Brégaillon 83500 La Seyne-sur-Seyne De 1950 à 1980
+
 Société nouvelle radio maritime Siège social ; chemin du littoral BATA, Maurepiane port d'activité, 13001 Marseille. Depuis 1987 à 1999.
 
-Société Port-Pin-Rolland, 18, chemin Départemental, 83430 Saint-Mandrier : de 1974 à 1980.
+Société des moteurs Baudoin/Moteurs Baudoin SA Boulevard Rabateau 13000 Marseille / 165, boulevard de Viviaux 13000 Marseille Depuis 1907
+
+Société Port-Pin-Rolland, 18, chemin Départemental, 83430 Saint-Mandrier : de 1974.
 
 Société provençale de mécanique, 33, chemin de Saint-Henri, 13016 Marseille : depuis 1995
 
-Société Sartec/Méditerranée Industrie/SST/SAM/Sartec Industrie, rue Denis-Papin, 83130 La Garde, ZI du Camp-Laurent, 1659, avenue Robert-Brun, 83500 La Seyne puis CIMAT Sartec, ZI du Camp-Laurent, 1659, avenue Robert‑ Brun, 83500 LMa Seyne, 12, boulevard de la Raffinerie, Marseille, depuis 1980.
+De 1975 à 1991 : Société Sartec/Méditerranée Industrie/SST/SAM Industrie, rue Denis-Papin, 83130 La Garde, ZI du Camp Laurent, 1659, avenue Robert-Brun, 83500 La Seyne puis CIMAT Sartec, ZI du Camp Laurent, 1659, avenue Robert‑Brun, 83500 La Seyne, 12, boulevard de la Raffinerie, Marseille, depuis 1980.
 
 Société Sud-Est technique industrie, 757, avenue Jolliot-Curie, ZI Toulon-Est, 83130 La Garde : de 1968 à 1984.
 
@@ -736,9 +770,7 @@ SIMAT (Société industrielle et maritime d'applications techniques) :
 
 - 52-54, rue Forbin, BP 2488, 13218 Marseille Cedex : de 1957 à 1984, puis SATIM : de 1984 à 1986.
 
-SIMES (société industrielle et maritime, entretien et soudure),les Amandiers, avenue Jean-Moulin, 13600 La Ciotat, puis chemin Rouamagoua, 13600 La Ciotat et quartier du Puits-de-l'Ange, route de Marseille, La Ciotat et avenue de la Pétanque, extension
-
-Plein-Sud, La Ciotat, depuis 1971.
+SIMES (société industrielle et maritime, entretien et soudure), les Amandiers, avenue Jean-Moulin, 13600 La Ciotat, puis chemin Rouamagoua, 13600 La Ciotat et quartier du Puits-de-l'Ange, route de Marseille, La Ciotat et avenue de la Pétanque, extension Plein-Sud, La Ciotat, depuis 1971.
 
 SIREP :
 
@@ -758,7 +790,7 @@ Société CARFOS :
 
 - port de Caronte, BP 16, 13691 Martigues Cedex : depuis 1960.
 
-Société de montage industriel et maritime/SMIM. 20, rue Beauvau, 13100 Marseille puis boulevard F.-Mistral à Rognac. Depuis 1968
+Société de montage industriel et maritime (SMIM) : 20, rue Beauvau, 13100 Marseille puis boulevard Frédéric-Mistral à Rognac, immeuble les Amandiers, avenue Jean-Moulin, la Ciotat : Depuis 1975 à 1991
 
 Société d'exploitation ciotadienne des établissements Gardella :
 
@@ -776,9 +808,17 @@ Société des chantiers ateliers de Provence/Provence Industrie :
 
 - 130, chemin de la Madrague-Ville, 13015 Marseille, boulevard Dominique-Nicotra, 13110 Port-de-Bouc, puis aire de Mourepiane, 17, boulevard Charles-Nedelec, 13110 Port-de-Bouc : de 1942 à 1969.
 
+Société des moteurs Baudoin/Moteurs Baudoin SA Boulevard rabateau 13000 Marseille/ 165, Boulevard de Viviaux 13000 Marseille
+
+Société entreprise varoise quartier Les Négadoux 83140 Six-Fours-les-Plages De 1980 à 1985
+
 Société industrielle de rectification :
 
 - 99, avenue Roger-Salengro, puis 23, rue Caravelle, puis 31-33, boulevard de Briançon, 13003 Marseille : de 1960 à 1987.
+
+Socié EMS 4 1, boulevard Toussaint-Merle, site de Marépolis 83500 La Seyne-sur-Mer De 1990 à 2000
+
+Société Isotherma 591, boulevard de Lery 83140 Six-Fours-les Plages De 1980 à 1988
 
 Société maritime de soudure. 1, rue du Capitaine-Badille, La Ciotat. De 1960 à 1967
 
@@ -790,6 +830,10 @@ Société marseillaise du froid :
 
 - 200, avenue Roger-Salengro, 13015 Marseille : de 1950 à 1995.
 
+Société Matalinox, 1, boulevard Philippe-Giovannini, 83500 La Seyne-sur-Mer : de 1990 à 1995.
+
+Société mécanique générale du Sud-Est Impasse Gozza 83000 Toulon De 1965 à 1967
+
 Société méditerranéenne de carénage (SOMECAR) :
 
 - 171, chemin de la Madrague-Ville, 13002 Marseille : de 1981 à 1992.
@@ -798,13 +842,15 @@ Société méditerranéenne de carénage (SOMECAR) :
 
 - centre de réparation navale Mourepiane, 13016 Marseille : de 1981 à 1992.
 
-Société Metalinox, 1, boulevard Philippe-Giovannini, 83500 La Seyne-sur-Mer : de 1990 à 1995.
-
 Société nationale Corse-Méditerranée (SNCM) :
 
 - 61, boulevard des Dames, 13002 Marseille : depuis 1950.
 
+Société nouvelle de constructions métalliques navales et ferroviaires, puis Société La Provençale de chaudronnerie mécanique puis SCOP La Provençale métallurgique puis Société provençale de constructions métalliques navales et ferroviaires : route de la Gare, 83500 La Seyne-sur-Mer et avenue d'Estienne-d'Orves, 83500 La Seyne-sur-Mer : de 1956 à 1985.
+
 Société nouvelle des chantiers maritimes Massilia Anse du Pharo, Marseille. De 1963 à 1971.
+
+Société OTIS rue Augustin-Thierry 83000 Toulon De 1965 à 1986
 
 Société phocéenne de travaux (SPT)/société phocéenne de travaux maritimes et industriels (SPTMI) :
 
@@ -840,13 +886,13 @@ SOMETREL :
 
 - 433, rue de Lyon, 13015 Marseille : de 1972 à 1978.
 
-SOMMA, quartier de Brégaillon, BP 59, 83502 La Seyne : de 1975 à 1987
+SOMMA, quartier de Brégaillon, BP 59, 83502 La Seyne-sur-Mer : de 1966 à 1989
 
 SONOCAR :
 
 - rue Gilly, 83200 Toulon, zone portuaire de Brégallon, avenue de la 1re-Armée-Française, 83500 La Seyne : depuis 1978.
 
-SORAMA, centre de la réparation navale de Mourepiane, 13002 Marseille, puis domaine de Font blanche, parc d'activités de l'Avégon, 13700 Les Pennes-Mira‑laMadrague-Ville, à Marseille, de 1962 à 1988
+SORAMA, centre de la réparation navale de Mourepiane, 13002 Marseille, puis domaine de Font blanche, parc d'activités de l'Avégon, 13700 Les Pennes-Mira‑la Madrague-Ville, à Marseille, de 1962 à 1988
 
 SOREM Industrie :
 
@@ -862,9 +908,17 @@ Star Navale/Chaudronnerie du Littoral :
 
 - 30, chemin du Littoral, 13002 Marseille : de 1981 à 1993.
 
+ST Audran et Oisio Quartier des Mouissèques, 83500 La Seyne-sur-Mer. De 1960 à 1975
+
 START :
 
 - aire Mourepiane, PAM 4, 13016 Marseille : depuis 1989.
+
+STIMP : Société de tuyauterie industrielle et maritime de Provence rue Diderot 83500 La Seyne-sur-Mer De 1973 à 1976
+
+STE Société technique d'entreprise 215, route de Marseille, 83200 Toulon De 1960 à 1980
+
+STS Société thermodynamique service 215, route de Marseille 83200 Toulon De 1960 à 1980
 
 Sud Marine/Brisard, Sud Marine/Marine Technologie, Entreprise/Marine Technologie, Associées/Marine Technologie SA, Marine Technologies Engineering :
 
@@ -895,6 +949,8 @@ Tuyauterie provencale industrie marine (TPIM). Enceinte portuaire, bassin de rad
 Var Industrie :
 
 - 525, ZI Les Négadoux, 83140 Six-Fours : depuis 1979.
+
+Var isolation 25 bis rue Jean-Louis-Mabily 83500 La Seyne-sur-Mer De 1974 à 1989
 
 Wartsila Diesel Normed/Wartsila Diesel France/SACM Diesel/Wartsila SACM Diesel/Wartsila France/Wartsila NSD France, RN 8, Les Baux, 13420 Gemenos : depuis 1985.
 
