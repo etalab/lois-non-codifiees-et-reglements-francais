@@ -222,6 +222,8 @@
 - [Décret n° 82-1105 du 23 décembre 1982](decret-n-82-1105-du-23-decembre-1982)
 - [Décret n°82-1003 du 23 novembre 1982](decret-n82-1003-du-23-novembre-1982)
 - [Décret n°82-1101 du 23 décembre 1982](decret-n82-1101-du-23-decembre-1982)
+- [Décret n°82-1109 du 23 décembre 1982](decret-n82-1109-du-23-decembre-1982)
+- [Décret n°82-1110 du 23 décembre 1982](decret-n82-1110-du-23-decembre-1982)
 - [Décret n°82-260 du 23 mars 1982](decret-n82-260-du-23-mars-1982)
 - [Décret n°82-263 du 23 mars 1982](decret-n82-263-du-23-mars-1982)
 - [Décret n°82-291 du 23 mars 1982](decret-n82-291-du-23-mars-1982)

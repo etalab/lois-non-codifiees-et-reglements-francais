@@ -26,6 +26,7 @@
 - [Arrêté du 5 février 1982](arrete-du-5-fevrier-1982)
 - [Arrêté du 5 janvier 1982](arrete-du-5-janvier-1982)
 - [Arrêté du 5 juillet 1982](arrete-du-5-juillet-1982)
+- [Arrêté du 5 juin 1979](arrete-du-5-juin-1979)
 - [Arrêté du 5 mars 1982](arrete-du-5-mars-1982)
 - [Arrêté du 5 mai 1982](arrete-du-5-mai-1982)
 - [Arrêté du 6 août 1982](arrete-du-6-aout-1982)
