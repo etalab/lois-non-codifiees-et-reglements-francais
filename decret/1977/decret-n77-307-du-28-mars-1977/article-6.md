@@ -1,0 +1,5 @@
+# Article 6
+
+Lorsque le délai prévu par la loi pour dénoncer ou résilier un contrat ou un engagement quelconque, quelle que soit leur nature ou leur qualification, ou pour y renoncer est venu à expiration entre le 15 août et le 15 décembre 1976 inclus, ces dénonciations, résiliations ou renonciations, dès lors que l'une des parties a son siège ou demeure dans l'une des communes mentionnées à l'article 1er, seront réputées valables si elles interviennent avant le 1er mai 1977.
+
+Lorsqu'il a été prévu par la loi ou par une disposition contractuelle qu'une convention ou un engagement quelconque pourrait être dénoncé avant une certaine date précédant un délai de préavis ou qu'elle se poursuivrait par tacite reconduction à défaut de dénonciation avant une certaine date précédant un délai de préavis, ce délai, à la condition que l'une des parties ait son siège ou demeure dans l'une des communes mentionnées à l'article 1er, ne court qu'à compter d'une notification effectuée avant le 1er mai 1977 si la dénonciation devait être faite entre le 15 août et le 15 décembre 1976 inclus.

@@ -1,0 +1,3 @@
+# Article 8
+
+Toute personne qui, à l'occasion de transactions commerciales, de répartitions de marchandises ou de produits, de déterminations de salaires, d'expertises judiciaires ou d'opérations fiscales, se sert de bouteilles comme récipients-mesures au sens de l'ordonnance du 18 octobre 1945 susvisée doit, notamment, s'assurer non seulement que ces bouteilles répondent aux prescriptions réglementaires, mais encore que le modèle de ces bouteilles est bien adapté à l'usage auquel elle les destine et que leur remplissage est bien effectué en respectant le niveau ou le vide correspondant à leur capacité nominale.
