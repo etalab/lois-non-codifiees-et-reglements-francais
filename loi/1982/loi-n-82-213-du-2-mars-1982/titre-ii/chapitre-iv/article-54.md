@@ -6,4 +6,4 @@ Le comptable du département est nommé par le ministre du budget, après inform
 
 Il prête serment devant la chambre régionale des comptes.
 
-Il est tenu de produire ses comptes devant la chambre régionale des comptes qui statue par voie d'arrêt.
+Il est tenu de produire ses comptes devant la chambre régionale des comptes qui statue par voie de jugement.

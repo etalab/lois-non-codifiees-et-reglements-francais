@@ -1,0 +1,7 @@
+# Article 18
+
+Il est institué un conseil supérieur des chambres régionales des comptes. Ce conseil établit le tableau d'avancement de grade des membres du corps des chambres régionales des comptes et la liste d'aptitude de ces membres aux fonctions de président de chambre régionale. Il donne un avis sur toute mutation d'un magistrat.
+
+Tout projet de modification du statut défini par la présente loi est soumis pour avis au conseil supérieur des chambres régionales des comptes.
+
+Ce conseil est également consulté sur toute question relative à l'organisation, au fonctionnement ou à la compétence des chambres régionales.
