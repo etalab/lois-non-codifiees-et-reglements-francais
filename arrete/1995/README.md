@@ -887,6 +887,7 @@
 - [Arrêté du 29 décembre 1994 (MAEA9420639A)](arrete-du-29-decembre-1994-maea9420639a)
 - [Arrêté du 29 décembre 1994 (SANH9500004A)](arrete-du-29-decembre-1994-sanh9500004a)
 - [Arrêté du 29 décembre 1994 (SPSP9500017A)](arrete-du-29-decembre-1994-spsp9500017a)
+- [Arrêté du 29 juin 1995 (DEFD9501753A)](arrete-du-29-juin-1995-defd9501753a)
 - [Arrêté du 29 juin 1995 (ECOS9550016A)](arrete-du-29-juin-1995-ecos9550016a)
 - [Arrêté du 29 juin 1995 (ECOS9550017A)](arrete-du-29-juin-1995-ecos9550017a)
 - [Arrêté du 29 juin 1995 (EQUT9501008A)](arrete-du-29-juin-1995-equt9501008a)
