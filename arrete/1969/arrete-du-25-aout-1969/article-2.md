@@ -51,3 +51,5 @@ Brevet de pilote professionnel de 1re classe avion.
 Brevet de mécanicien navigant.
 
 Certificat de fin d'études du premier cycle délivré par l'école nationale supérieure des arts décoratifs.
+
+Certificat d'initiation plastique délivré par une école nationale d'art.
