@@ -101,7 +101,6 @@
 - [Décret n°80-544 du 15 juillet 1980](decret-n80-544-du-15-juillet-1980)
 - [Décret n°80-552 du 15 juillet 1980](decret-n80-552-du-15-juillet-1980)
 - [Décret n°80-813 du 15 octobre 1980](decret-n80-813-du-15-octobre-1980)
-- [Décret n°79-923 du 16 octobre 1979](decret-n79-923-du-16-octobre-1979)
 - [Décret n°80-280 du 16 avril 1980](decret-n80-280-du-16-avril-1980)
 - [Décret n°80-477 du 16 juin 1980](decret-n80-477-du-16-juin-1980)
 - [Décret n°80-284 du 17 avril 1980](decret-n80-284-du-17-avril-1980)
