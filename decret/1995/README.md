@@ -69,7 +69,6 @@
 - [Décret n°95-7 du 3 janvier 1995 (RESR9401919D)](decret-n95-7-du-3-janvier-1995-resr9401919d)
 - [Décret n°95-8 du 3 janvier 1995 (SPSS9403821D)](decret-n95-8-du-3-janvier-1995-spss9403821d)
 - [Décret n°95-515 du 3 mai 1995 (ENVP9530008D)](decret-n95-515-du-3-mai-1995-envp9530008d)
-- [Décret n°95-516 du 3 mai 1995 (DOMP9500018D)](decret-n95-516-du-3-mai-1995-domp9500018d)
 - [Décret n°95-523 du 3 mai 1995 (PRMX9400178D)](decret-n95-523-du-3-mai-1995-prmx9400178d)
 - [Décret du 4 janvier 1995 (ECOC9400083D)](decret-du-4-janvier-1995-ecoc9400083d)
 - [Décret n°95-16 du 4 janvier 1995 (SPSS9403759D)](decret-n95-16-du-4-janvier-1995-spss9403759d)
