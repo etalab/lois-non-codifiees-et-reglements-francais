@@ -1,3 +1,11 @@
 # Article 7
 
-L'utilisation des bouteilles de type CEE pour l'emmagasinage de l'hydrogène, du monoxyde de carbone ou de tout gaz susceptible de contenir des traces d'hydrogène sulfuré et de point de rosée supérieur à - 10°C n'est autorisée que si l'annexe technique au certificat d'agrément CEE ou de vérification CEE présenté à l'expert en application de l'article 5 (§ 1) ci-dessus précise une valeur maximale garantie du rapport Re/Rm mentionné à l'article 4 (§ 1°) de l'arrêté du 9 février 1982 susvisé inférieure à 0,90. Dans ce cas, le numéro de fabrication de ces bouteilles doit se terminer par la lettre H.
+1. - Seule est autorisée la réparation des bouteilles à l'état normalisé.
+
+Toute bouteille ayant subi une réparation à chaud ou une réparation importante à froid doit être soumise à un traitement thermique de normalisation, suivi du renouvellement de l'épreuve.
+
+2. - Si la réparation comprend une opération de soudage par fusion, celle-ci peut être effectuée :
+
+a) Par le constructeur et suivant un mode opératoire de soudage défini au point 2.1.6. de l'annexe I à la directive n° 84-527 C.E.E. utilisé lors de la fabrication de la bouteille. Dans ce cas, les dispositions de l'arrêté du 24 mars 1978 susvisé concernant la réparation des appareils ne sont pas applicables ;
+
+b) par un réparateur. Dans ce cas, les dispositions de l'arrêté du 24 mars 1978 susvisé et relatives à la réparation des appareils s'appliquent dans leur intégralité.

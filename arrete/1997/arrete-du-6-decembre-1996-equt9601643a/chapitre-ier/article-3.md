@@ -4,11 +4,11 @@ Décisions et avis de l'autorité compétente :
 
 1. Réservé.
 
-2. Pour ce qui concerne les transports nationaux, ainsi que les transports internationaux commençant en France, lorsque l'annexe I au présent arrêté requiert une décision de l'autorité compétente ou du chemin de fer du pays de départ ou la délivrance d'un certificat par cette autorité, seul est compétent le ministre chargé des transports.
+2. Pour ce qui concerne les transports nationaux, ainsi que les transports internationaux commençant en France, lorsque l'annexe I au présent arrêté requiert une décision de l'autorité compétente ou du chemin de fer du pays de départ ou la délivrance d'un certificat par cette autorité, le ministre chargé des transports est compétent, à l'exclusion du transport des matières radioactives et fissiles à usage civil pour lequel le ministre chargé de l'industrie et le ministre chargé de l'environnement exercent conjointement les attributions de l'autorité compétente.
 
 3. Les dispositions relatives à la notification des transports de matières de la classe 7 à l'autorité compétente, stipulées par les marginaux 704 et 716 de l'annexe I, s'appliquent selon les modalités définies à l'article 15 du présent arrêté.
 
-4. Lorsque, en dehors des cas prévus aux paragraphes 2 et 3 ci-dessus, l'annexe I au présent arrêté requiert une décision de l'autorité compétente, ou la délivrance d'un certificat par cette autorité, cette autorité compétente est le ministre chargé des transports.
+4. Lorsque, en dehors des cas prévus aux paragraphes 2 et 3 ci-dessus, l'annexe I au présent arrêté requiert une décision de l'autorité compétente, ou la délivrance d'un certificat par cette autorité, cette autorité compétente est le ministre chargé des transports à l'exclusion du transport des matières radioactives et fissiles à usage civil pour lequel le ministre chargé de l'industrie et le ministre chargé de l'environnement exercent conjointement les attributions de l'autorité compétente.
 
 De même, lorsque cette annexe requiert une visite, une épreuve ou un contrôle par l'expert, l'organisme ou le service agréé ou reconnu par l'autorité compétente, ou l'apposition d'une marque, ou la délivrance d'un certificat ou d'un procès-verbal par cet expert, cet organisme ou ce service, il s'agit de l'expert, de l'organisme ou du service ayant reçu délégation conformément aux dispositions du chapitre 4 du présent arrêté.
 

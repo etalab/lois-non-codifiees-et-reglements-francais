@@ -27,3 +27,13 @@ Pour le transport des produits à usage carburant ou énergétique repris ci-des
 - dans la partie supérieure, le numéro d'identification du danger : 33 ;
 
 - dans la partie inférieure, le numéro d'identification de la matière : 1203.
+
+5. Transport en vrac.
+
+Pour le transport en vrac des matières désignées dans le tableau ci-dessous, les panneaux de signalisation de couleur orange pourront porter la codification suivante :
+
+- dans la partie supérieure, le numéro d'identification du danger : 50 ;
+
+- dans la partie inférieure, le numéro d'identification de la matière : 2067.
+
+(Tableau non reproduit).

@@ -2,7 +2,7 @@
 
 Dérogations temporaires en vue de l'évolution des règles du RID :
 
-1. Des dérogations temporaires aux dispositions de l'annexe I au présent arrêté, visant à procéder aux essais nécessaires en vue d'amender les dispositions de cette annexe, peuvent être accordées par le ministre chargé des transports, après avis de la CITMD. Ces dérogations s'appliquent, sous réserve du respect des conditions qu'elles édictent, à l'ensemble des transports couverts par le présent arrêté, sans discrimination de nationalité ou de lieu d'établissement de l'expéditeur, du transporteur ou du destinataire. Elles sont accordées pour une durée fixée en fonction des besoins, qui ne peut dépasser cinq ans. Elles ne sont pas renouvelables au-delà de ce délai maximal.
+1. Des dérogations temporaires aux dispositions de l'annexe I au présent arrêté, visant à procéder aux essais nécessaires en vue d'amender les dispositions de cette annexe, peuvent être accordées, selon les attributions précisées dans l'article 3 du présent arrêté, soit par le ministre chargé des transports, soit par le ministre chargé de l'industrie et par le ministre chargé de l'environnement, après avis de la CITMD . Ces dérogations s'appliquent, sous réserve du respect des conditions qu'elles édictent, à l'ensemble des transports couverts par le présent arrêté, sans discrimination de nationalité ou de lieu d'établissement de l'expéditeur, du transporteur ou du destinataire. Elles sont accordées pour une durée fixée en fonction des besoins, qui ne peut dépasser cinq ans. Elles ne sont pas renouvelables au-delà de ce délai maximal.
 
 Dans tous les cas, la Commission de l'Union européenne (DG VII) est informée de ces dérogations.
 

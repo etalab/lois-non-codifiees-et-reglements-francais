@@ -2,7 +2,7 @@
 
 Dispositions spéciales applicables aux transports intéressant le ministère chargé de la défense :
 
-Le présent arrêté est applicable au transport des marchandises dangereuses intéressant le ministère chargé de la défense, hors dispositions particulières définies par instruction interministérielle conjointe du ministre chargé de la défense et du ministre chargé des transports.
+Le présent arrêté est applicable au transport des marchandises dangereuses intéressant le ministère chargé de la défense, hors dispositions particulières définies par instruction interministérielle conjointe du ministre chargé de la défense et, selon les attributions précisées à l'article 3 du présent arrêté, du ministre chargé des transports ou du ministre chargé de l'industrie et du ministre chargé de l'environnement.
 
 Ces dispositions particulières tiennent compte des missions entraînant des contraintes propres au ministère chargé de la défense en ce qui concerne notamment :
 

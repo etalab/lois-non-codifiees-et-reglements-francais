@@ -102,6 +102,10 @@ fabrication de matériel de             traitement de l'information).           
 
 33       Construction aéronautique                 B.
 
+33       Construction aéronautique                 B.
+
+3304     Transports spatiaux (Code NAF 623 Z) :    C.
+
 34       Fabrication d'instruments et de             matériels de précision                   A.
 
 5601     Récupération de ferraille et vieux             métaux non ferreux                       A.
@@ -744,7 +748,9 @@ A l'exception de :
 
 A l'exception de :
 
-8007     Crédit-bail mobilier.   83       Recherche (services marchands)            A.
+8007     Crédit-bail mobilier. (Code 652 A)        B.
+
+83       Recherche (services marchands)            A.
 
 TOURISME, HOTELLERIE, LOISIRS :
 
@@ -794,9 +800,23 @@ REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME            Banque :
 
 8122     Crédit-bail immobilier :                  A.
 
-89       Organismes financiers                     A.
+89     Organismes financiers 8901   651 A Banque centrale :                      B.
 
-Bourse :
+8902   651 C Banques :                              B.
+
+8903   651 D Banques mutualistes :                  B.
+
+8905   651 E Caisses d'épargne :                    B.
+
+651 F Intermédiations monétaires :           B.
+
+8904   652 C Distribution de crédit :               B.
+
+8907   652 E Organismes de placement en valeurs mobilières :
+
+B.
+
+8906   652 F Intermédiations financières diverses :  B.
 
 78     Auxiliaires financiers et d'assurances :
 
