@@ -109,7 +109,6 @@
 - [Décret n°89-80 du 8 février 1989 (INTX8910033D)](decret-n89-80-du-8-fevrier-1989-intx8910033d)
 - [Décret n°89-81 du 8 février 1989 (INTX8900012D)](decret-n89-81-du-8-fevrier-1989-intx8900012d)
 - [Décret n°89-83 du 8 février 1989 (SPSX8900013D)](decret-n89-83-du-8-fevrier-1989-spsx8900013d)
-- [Décret n°89-85 du 8 février 1989 (PRTX8800167D)](decret-n89-85-du-8-fevrier-1989-prtx8800167d)
 - [Décret n°89-87 du 8 février 1989 (MAEJ8930005D)](decret-n89-87-du-8-fevrier-1989-maej8930005d)
 - [Décret n°89-88 du 8 février 1989 (MAEJ8830086D)](decret-n89-88-du-8-fevrier-1989-maej8830086d)
 - [Décret n°87-910 du 9 novembre 1987 (INDD8700194D)](decret-n87-910-du-9-novembre-1987-indd8700194d)

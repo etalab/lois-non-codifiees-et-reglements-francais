@@ -550,7 +550,6 @@
 - [Arrêté du 28 novembre 1989 (ECOC8900136A)](arrete-du-28-novembre-1989-ecoc8900136a)
 - [Arrêté du 28 novembre 1989 (JUSA8900147A)](arrete-du-28-novembre-1989-jusa8900147a)
 - [Arrêté du 28 octobre 1988 (TRSA8800675A)](arrete-du-28-octobre-1988-trsa8800675a)
-- [Arrêté du 28 septembre 1989 (AGRG8901945A)](arrete-du-28-septembre-1989-agrg8901945a)
 - [Arrêté du 28 septembre 1989 (AGRG8901946A)](arrete-du-28-septembre-1989-agrg8901946a)
 - [Arrêté du 28 septembre 1989 (ECOT8920105A)](arrete-du-28-septembre-1989-ecot8920105a)
 - [Arrêté du 28 septembre 1989 (ECOT8920106A)](arrete-du-28-septembre-1989-ecot8920106a)
