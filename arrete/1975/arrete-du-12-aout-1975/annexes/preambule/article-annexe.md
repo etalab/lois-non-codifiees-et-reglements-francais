@@ -1,0 +1,9 @@
+# Article ANNEXE
+
+L'arrêté du 16 mars 1972, qui fixe les conditions et les modalités d'agrément des organismes habilités à procéder à des mesures spectrales des bruits en milieu de travail, prévoit dans son article 3 que les personnes et organismes agréés devront se conformer aux méthodes de mesure qui pourront être définies ultérieurement.
+
+L'objet du présent document est de définir une méthode de surveillance des niveaux sonores en milieu de travail, basée sur la mesure en décibels (A), de manière à permettre le calcul du niveau sonore continu équivalent conformément à la norme S31013 relative à la protection de l'audition des travailleurs et de permettre aux autorités administratives de juger, conformément à l'article R. 232-9 (alinéas 1 et 2) du code du travail, si la situation est acceptable, au point de vue de la protection de l'ouïe.
+
+Afin d'obtenir une indication complémentaire sur la répartition du niveau spectral, la mesure des niveaux sonores sera aussi faite en décibels (C) et l'indice harmonique calculé ; cette information peut permettre ultérieurement certains ajustements aux tableaux proposés en annexe de la norme S31013. Il n'a pas paru souhaitable de développer une méthode dite d'expertise faisant appel à l'analyse en fréquence, car cette méthode, beaucoup plus délicate à mettre en oeuvre, ne se justifie que lorsqu'on désire définir les éléments nécessaires au traitement acoustique d'une installation. La responsabilité d'une telle étude doit être laissée à l'entreprise, objet d'une mise en demeure.
+
+Toutefois, les bruits dont le spectre comporte des sons purs aigus peuvent être plus dangereux que ceux de spectre continu. Sans que la surveillance des niveaux sonores exige une analyse, il sera nécessaire de signaler la présence probable, constatée à l'oreille, de sons purs dans le bruit à étudier, ce qui peut appeler, indépendamment de cette surveillance simplifiée, un complément d'expertise.

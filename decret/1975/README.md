@@ -35,6 +35,7 @@
 - [Décret n°75-450 du 9 juin 1975](decret-n75-450-du-9-juin-1975)
 - [Décret n°75-466 du 9 juin 1975](decret-n75-466-du-9-juin-1975)
 - [Décret n°75-611 du 9 juillet 1975](decret-n75-611-du-9-juillet-1975)
+- [Décret n°75-928 du 9 octobre 1975](decret-n75-928-du-9-octobre-1975)
 - [Décret n°75-387 du 9 mai 1975](decret-n75-387-du-9-mai-1975)
 - [Décret n°75-236 du 11 avril 1975](decret-n75-236-du-11-avril-1975)
 - [Décret n°75-245 du 11 avril 1975](decret-n75-245-du-11-avril-1975)
