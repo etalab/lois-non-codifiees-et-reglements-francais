@@ -1,0 +1,5 @@
+# Article 4
+
+Le producteur transférant tout ou partie des droits à prime qui lui sont rattachés dans les conditions prévues à l'article 3 déclare au préfet du siège de son exploitation le nombre de droits à prime qu'il projette de transférer, avant une date limite fixée par arrêté du ministre chargé de l'agriculture. Toutefois, en cas de force majeure ou de nécessité particulière de restructuration, le préfet, après avis de la commission départementale d'orientation de l'agriculture, peut accepter une déclaration qui n'a pas été faite avant la date limite, à la condition, s'il s'agit d'une cession partielle d'exploitation, que la déclaration intervienne avant la date de la cession.
+
+Lorsqu'un producteur transfère des droits à l'occasion d'une vente de terres à la S.A.F.E.R., ces droits sont individualisés pendant un délai de dix-huit mois maximum au sein de la réserve nationale. Pendant ce délai, la S.A.F.E.R. a la possibilité d'en solliciter, auprès du préfet, la réaffectation à ses attributaires.
