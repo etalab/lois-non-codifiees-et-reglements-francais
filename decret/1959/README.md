@@ -23,6 +23,7 @@
 - [Décret n°59-308 du 14 février 1959](decret-n59-308-du-14-fevrier-1959)
 - [Décret n°59-310 du 14 février 1959](decret-n59-310-du-14-fevrier-1959)
 - [Décret n°59-998 du 14 août 1959](decret-n59-998-du-14-aout-1959)
+- [Décret n°59-729 du 15 juin 1959](decret-n59-729-du-15-juin-1959)
 - [Décret n°59-645 du 16 mai 1959](decret-n59-645-du-16-mai-1959)
 - [Décret n°59-1313 du 18 novembre 1959](decret-n59-1313-du-18-novembre-1959)
 - [Décret n°59-1422 du 18 décembre 1959](decret-n59-1422-du-18-decembre-1959)
