@@ -90,6 +90,5 @@
 - [Décret n°2002-1611 du 30 décembre 2002 (BUDR0205006D)](decret-n2002-1611-du-30-decembre-2002-budr0205006d)
 - [Décret n°2002-704 du 30 avril 2002 (MCCB0200143D)](decret-n2002-704-du-30-avril-2002-mccb0200143d)
 - [Décret n°2002-705 du 30 avril 2002 (ATEN0200030D)](decret-n2002-705-du-30-avril-2002-aten0200030d)
-- [Décret n°75-64 du 30 janvier 1975](decret-n75-64-du-30-janvier-1975)
 - [Décret n°2001-1375 du 31 décembre 2001 (MESH0124158D)](decret-n2001-1375-du-31-decembre-2001-mesh0124158d)
 - [Décret n°2002-121 du 31 janvier 2002 (PRMG0170814D)](decret-n2002-121-du-31-janvier-2002-prmg0170814d)
