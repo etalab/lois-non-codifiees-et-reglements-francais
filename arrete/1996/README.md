@@ -1,5 +1,7 @@
 # 1996
 
+- [Arrêté du 1 août 1996 (AGRM9601702A)](arrete-du-1-aout-1996-agrm9601702a)
+- [Arrêté du 1 août 1996 (AGRM9601703A)](arrete-du-1-aout-1996-agrm9601703a)
 - [Arrêté du 1 août 1996 (MIPP9600284A)](arrete-du-1-aout-1996-mipp9600284a)
 - [Arrêté du 1 août 1996 (TASH9622903A)](arrete-du-1-aout-1996-tash9622903a)
 - [Arrêté du 1 avril 1996 (JUSG9660024A)](arrete-du-1-avril-1996-jusg9660024a)
@@ -129,6 +131,7 @@
 - [Arrêté du 5 septembre 1997 (MESG9710908A)](arrete-du-5-septembre-1997-mesg9710908a)
 - [Arrêté du 5 mai 1995 (LOGC9500034A)](arrete-du-5-mai-1995-logc9500034a)
 - [Arrêté du 6 août 1996 (COPC9600042A)](arrete-du-6-aout-1996-copc9600042a)
+- [Arrêté du 6 août 1996 (TASH9623062A)](arrete-du-6-aout-1996-tash9623062a)
 - [Arrêté du 6 décembre 1995 (DEFA9601126A)](arrete-du-6-decembre-1995-defa9601126a)
 - [Arrêté du 6 décembre 1995 (MCCE9500700A)](arrete-du-6-decembre-1995-mcce9500700a)
 - [Arrêté du 6 décembre 1995 (TASS9523413A)](arrete-du-6-decembre-1995-tass9523413a)
@@ -238,6 +241,7 @@
 - [Arrêté du 10 juin 1996 (MENN9601690A)](arrete-du-10-juin-1996-menn9601690a)
 - [Arrêté du 10 juin 1996 (TASH9621851A)](arrete-du-10-juin-1996-tash9621851a)
 - [Arrêté du 10 juin 1996 (TASH9621852A)](arrete-du-10-juin-1996-tash9621852a)
+- [Arrêté du 10 juin 1996 (TASP9623060A)](arrete-du-10-juin-1996-tasp9623060a)
 - [Arrêté du 10 mai 1996 (AGRR9600954A)](arrete-du-10-mai-1996-agrr9600954a)
 - [Arrêté du 10 mai 1996 (ECOR9605009A)](arrete-du-10-mai-1996-ecor9605009a)
 - [Arrêté du 10 mai 1996 (ECOT9610276A)](arrete-du-10-mai-1996-ecot9610276a)
