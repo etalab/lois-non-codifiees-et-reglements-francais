@@ -1239,7 +1239,6 @@
 - [Arrêté du 30 décembre 1992 (SANP9203357A)](arrete-du-30-decembre-1992-sanp9203357a)
 - [Arrêté du 30 décembre 1992 (SPSS9203282A)](arrete-du-30-decembre-1992-spss9203282a)
 - [Arrêté du 30 janvier 1992 (ECOT9220001A)](arrete-du-30-janvier-1992-ecot9220001a)
-- [Arrêté du 30 janvier 1992 (INDP9101041A)](arrete-du-30-janvier-1992-indp9101041a)
 - [Arrêté du 30 janvier 1992 (MENN9200251A)](arrete-du-30-janvier-1992-menn9200251a)
 - [Arrêté du 30 janvier 1992 (MENN9200289A)](arrete-du-30-janvier-1992-menn9200289a)
 - [Arrêté du 30 janvier 1992 (MENN9200290A)](arrete-du-30-janvier-1992-menn9200290a)
