@@ -13,3 +13,5 @@ d) Du 1er août 1992 pour les fonctionnaires mentionnés du 10° au 20° dudit a
 e) Du 1er août 1993 pour les fonctionnaires mentionnés du 21° au 34° dudit article. "
 
 " f) Du 1er août 1994 pour les fonctionnaires mentionnés du 35° au 45° dudit article. "
+
+" g) Du 1er août 1995 pour les fonctionnaires mentionnés du 46° au 50° dudit article. "
