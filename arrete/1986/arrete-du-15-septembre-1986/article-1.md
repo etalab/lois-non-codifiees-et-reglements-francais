@@ -1,13 +1,11 @@
 # Article 1
 
-La liste des spécialités professionnelles exercées par les experts techniques des services techniques du ministère de l'équipement, du logement, de l'aménagement du territoire et des transports est fixée comme suit :
+Pourront être financées au moyen d'emprunts garantis par l'Etat les opérations soumises à l'instruction de la commission interministérielle visée à l'article 6 du décret n° 79-142 susvisé et examinée au cours de sa réunion du 1er juillet 1986 :
 
-Béton et ouvrage d'art ;
+Ecole franco-irlandaise de Dublin ;
 
-Sols et chaussées ;
+Ecole française d'Asuncion ;
 
-Sondage - forage ;
+Ecole française de Bangkok ;
 
-Analyses chimiques ;
-
-Analyses et mesures physiques.
+Ecole française de Guatemala City.

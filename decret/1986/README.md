@@ -71,6 +71,7 @@
 - [Décret n°86-947 du 6 août 1986](decret-n86-947-du-6-aout-1986)
 - [Décret n°86-949 du 6 août 1986](decret-n86-949-du-6-aout-1986)
 - [Décret n°86-955 du 6 août 1986](decret-n86-955-du-6-aout-1986)
+- [Décret n°86-1084 du 7 octobre 1986](decret-n86-1084-du-7-octobre-1986)
 - [Décret n°86-20 du 7 janvier 1986](decret-n86-20-du-7-janvier-1986)
 - [Décret n°86-203 du 7 février 1986](decret-n86-203-du-7-fevrier-1986)
 - [Décret n°86-21 du 7 janvier 1986](decret-n86-21-du-7-janvier-1986)
