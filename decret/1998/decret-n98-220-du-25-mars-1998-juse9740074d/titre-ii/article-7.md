@@ -1,0 +1,3 @@
+# Article 7
+
+Si l'article 42-2 du titre III du décret du 8 août 1977 susvisé dans la rédaction résultant du présent décret a pour effet de classer les attachés qui ont été nommés dans la 2e classe du grade d'attaché principal entre le 1er août 1995 et la date de publication du présent décret à un échelon doté d'un indice inférieur à celui de l'échelon de l'ancien grade d'attaché principal d'intendance dans lequel ils avaient été classés initialement, en application des articles 18 et 19 du décret n° 94-758 du 30 août 1994 susvisé, les intéressés conservent à titre personnel le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient dans leur nouveau grade d'un indice au moins égal.

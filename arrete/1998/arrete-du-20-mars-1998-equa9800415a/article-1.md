@@ -1,0 +1,3 @@
+# Article 1
+
+Le présent arrêté définit les conditions relatives à l'utilisation des minimums opérationnels Avion en transport aérien public. Il est applicable aux entreprises régies par les titres III et IV du livre III du code de l'aviation civile et aux entreprises étrangères de transport aérien public, dénommées ci-après exploitants, dans les limites du territoire de la République française au sens de l'article 2 de la convention relative à l'aviation civile internationale susvisée. Il est applicable aux exploitants français en tout autre lieu où il est compatible avec les règles propres à l'Etat survolé, chaque fois qu'ils mettent en oeuvre un avion de transport aérien public.

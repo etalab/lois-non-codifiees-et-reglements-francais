@@ -7,6 +7,7 @@
 - [Loi n° 98-121 du 2 mars 1998 (MAEX9700040L)](loi-n-98-121-du-2-mars-1998-maex9700040l)
 - [Loi n° 98-144 du 6 mars 1998 (INTX9700017L)](loi-n-98-144-du-6-mars-1998-intx9700017l)
 - [Loi n° 98-145 du 6 mars 1998 (INTX9700118L)](loi-n-98-145-du-6-mars-1998-intx9700118l)
+- [Loi n° 98-217 du 27 mars 1998 (MAEX9700167L)](loi-n-98-217-du-27-mars-1998-maex9700167l)
 - [Loi n° 98-75 du 11 février 1998 (MAEX9600077L)](loi-n-98-75-du-11-fevrier-1998-maex9600077l)
 - [Loi n° 98-76 du 11 février 1998 (MAEX9700002L)](loi-n-98-76-du-11-fevrier-1998-maex9700002l)
 - [Loi n° 98-77 du 11 février 1998 (MAEX9700003L)](loi-n-98-77-du-11-fevrier-1998-maex9700003l)
