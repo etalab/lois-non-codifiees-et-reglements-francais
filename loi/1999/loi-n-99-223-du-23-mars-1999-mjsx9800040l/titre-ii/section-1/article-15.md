@@ -1,6 +1,6 @@
 # Article 15
 
-Le Conseil de prévention et de lutte contre le dopage est informé des opérations de mise en place des contrôles antidopage, des faits de dopage portés à la connaissance de l'administration ou des fédérations sportives et des sanctions prises par les fédérations en application de l'article 25. Lorsqu'il n'est pas destinataire de droit des procès-verbaux d'analyses, il en reçoit communication.
+Le Conseil de prévention et de lutte contre le dopage est informé des opérations de mise en place des contrôles antidopage, des faits de dopage portés à la connaissance de l'administration ou des fédérations sportives et des décisions prises par les fédérations en application de l'article 25. Lorsqu'il n'est pas destinataire de droit des procès-verbaux d'analyses, il en reçoit communication.
 
 Il dispose d'une cellule scientifique de coordination de la recherche fondamentale et appliquée dans les domaines de la médecine sportive et du dopage. La cellule scientifique participe en outre à la veille sanitaire sur le dopage. A ce titre, elle transmet les informations qu'elle recueille en application de l'article 11 à l'Institut de veille sanitaire prévu à l'article L. 792-1 du code de la santé publique. Ces informations sont également mises à la disposition du conseil et du ministre chargé des sports.
 
