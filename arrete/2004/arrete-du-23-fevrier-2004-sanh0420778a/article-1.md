@@ -6,7 +6,7 @@ Etablissement public autonome de réinsertion par le milieu social, à Liesse (A
 
 Foyer de l'enfance des Alpes-Maritimes, à Nice (Alpes-Maritimes) ;
 
-Centre départemental de l'enfance Argonne, à Belleville et Châtillon-sur-Bar (Ardennes) ;
+Etablissement public d'Argonne à Belleville-sur-Bar et institut médico-éducatif à Montcy-Notre-Dame (Ardennes) ;
 
 Etablissement public communal spécialisé La Vergnière, à L'Herm (Ariège) ;
 
@@ -16,9 +16,7 @@ Etablissement public départemental de Clairvivre, à Salagnac (Dordogne) ;
 
 Fondation de Selves, à Sarlat-la-Canéda (Dordogne) ;
 
-Centre d'éducation et d'accompagnement au travail, à Novillars (Doubs) ;
-
-Centre d'accueil et de soins, à Etalans (Doubs) ;
+Centre d'éducation et d'accompagnement au travail, à Novillars, et centre d'accueil et de soins à Etalans (Doubs) ;
 
 Centre départemental de l'enfance et de la famille, à Toulouse (Haute-Garonne) ;
 
@@ -72,7 +70,7 @@ Centre Harthouse, à Haguenau (Bas-Rhin) ;
 
 Institut médico-pédagogique, à Sainte-Marie-aux-Mines (Haut-Rhin) ;
 
-Etablissement de services publics d'accompagnement éducatif et social, à Tournus (Saône-et-Loire) ;
+Etablissement social, public autonome chargé d'éducation spécialisée, à Tournus (Saône-et-Loire) ;
 
 Centre Arthur Lavy, à Thorens-Glières (Haute-Savoie) ;
 
@@ -99,3 +97,11 @@ Etablissement public des foyers départementaux de l'aide sociale à l'enfance d
 Institut Le Val Mandé, à Saint-Mandé (Val-de-Marne) ;
 
 Maison départementale de l'enfance, aux Abymes (Guadeloupe).
+
+CAT, foyers d'hebergement Louis Philibert, établissements publics départementaux, au Puy-Sainte-Réparade (Bouche-du-Rhône) ;
+
+Institut médico-éducatif, à Fontenay-Trésigny (Seine-et-Marne) ;
+
+Etablissement public social communal Georges Couthon, à Amiens (Somme) ;
+
+Foyer départemental de l'enfance de la Martinique, à Saint-Joseph (Martinique) .
