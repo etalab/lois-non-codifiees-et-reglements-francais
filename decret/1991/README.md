@@ -57,6 +57,8 @@
 - [Décret n°91-160 du 13 février 1991 (ECOT9113411D)](decret-n91-160-du-13-fevrier-1991-ecot9113411d)
 - [Décret n°91-164 du 13 février 1991 (INTC9100024D)](decret-n91-164-du-13-fevrier-1991-intc9100024d)
 - [Décret n°91-165 du 13 février 1991 (INDH9000827D)](decret-n91-165-du-13-fevrier-1991-indh9000827d)
+- [Décret n°91-169 du 13 février 1991 (TEFE9103149D)](decret-n91-169-du-13-fevrier-1991-tefe9103149d)
+- [Décret n°91-170 du 13 février 1991 (SPSS9002583D)](decret-n91-170-du-13-fevrier-1991-spss9002583d)
 - [Décret n°90-1026 du 14 novembre 1990 (MCCB9000487D)](decret-n90-1026-du-14-novembre-1990-mccb9000487d)
 - [Décret n°90-1027 du 14 novembre 1990 (MCCB9000436D)](decret-n90-1027-du-14-novembre-1990-mccb9000436d)
 - [Décret n°91-42 du 14 janvier 1991 (DEFX9100010D)](decret-n91-42-du-14-janvier-1991-defx9100010d)
