@@ -62,6 +62,7 @@
 - [Arrêté du 11 février 2000 (AGRG0000297A)](arrete-du-11-fevrier-2000-agrg0000297a)
 - [Arrêté du 11 janvier 2000 (ATEE0090009A)](arrete-du-11-janvier-2000-atee0090009a)
 - [Arrêté du 11 janvier 2000 (ATEE0090010A)](arrete-du-11-janvier-2000-atee0090010a)
+- [Arrêté du 12 avril 2000 (EQUZ0000615A)](arrete-du-12-avril-2000-equz0000615a)
 - [Arrêté du 13 avril 2000 (MESP0020762A)](arrete-du-13-avril-2000-mesp0020762a)
 - [Arrêté du 13 décembre 1999 (INTA9900571A)](arrete-du-13-decembre-1999-inta9900571a)
 - [Arrêté du 13 janvier 2000 (ECOT0014073A)](arrete-du-13-janvier-2000-ecot0014073a)

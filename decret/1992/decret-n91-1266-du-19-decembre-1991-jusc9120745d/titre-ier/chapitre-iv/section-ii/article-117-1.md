@@ -14,4 +14,4 @@ Elles enregistrent dans les conditions fixées par arrêté du garde des sceaux,
 
 A la fin de chaque année, le commissaire aux comptes porte à la connaissance du président de la caisse des règlements pécuniaires des avocats les contrôles et vérifications auxquels il a procédé sur les enregistrements visés ci-dessus et formule ses observations. Ce rapport est présenté à la prochaine assemblée générale.
 
-Le président de la caisse des règlements pécuniaires des avocats communique ensuite ce rapport au garde des sceaux, ministre de la justice, et au président du conseil départemental de l'aide juridique.
+Le président de la caisse des règlements pécuniaires des avocats communique ensuite ce rapport au garde des sceaux, ministre de la justice, et au président du conseil départemental de l'accès au droit.
