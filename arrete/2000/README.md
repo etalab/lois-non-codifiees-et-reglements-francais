@@ -20,6 +20,7 @@
 - [Arrêté du 10 novembre 2000 (AGRG0002552A)](arrete-du-10-novembre-2000-agrg0002552a)
 - [Arrêté du 10 novembre 2000 (MCCB0000709A)](arrete-du-10-novembre-2000-mccb0000709a)
 - [Arrêté du 10 octobre 2000 (EQUA0001600A)](arrete-du-10-octobre-2000-equa0001600a)
+- [Arrêté du 12 décembre 2000 (EQUA0001944A)](arrete-du-12-decembre-2000-equa0001944a)
 - [Arrêté du 12 octobre 2000 (AGRB0001902A)](arrete-du-12-octobre-2000-agrb0001902a)
 - [Arrêté du 13 novembre 2000 (EQUA0001792A)](arrete-du-13-novembre-2000-equa0001792a)
 - [Arrêté du 13 novembre 2000 (MENR0002680A)](arrete-du-13-novembre-2000-menr0002680a)

@@ -1,0 +1,5 @@
+# Article 1
+
+Sur les dépendances du domaine public constituées par les aérodromes visés à l'article R. 216-14 du code de l'aviation civile, nulle entreprise ne peut exercer le service d'assistance en escale figurant au paragraphe 7-1 de l'annexe à l'article R. 216-1 dudit code de l'aviation civile si elle ne justifie d'une expérience professionnelle d'au moins trois années dans l'activité d'avitaillement en carburant.
+
+Cette disposition n'est pas applicable aux transporteurs aériens lorsqu'ils s'auto-assistent et aux gestionnaires d'aérodromes. Ces transporteurs aériens et ces gestionnaires d'aérodrome sont tenus de respecter les obligations mises à leur charge par la réglementation sur les installations classées, de respecter les dispositions de l'arrêté du 23 janvier 1980 modifié relatif aux précautions à prendre pour l'avitaillement en carburant sur les aérodromes, d'organiser une formation des personnels conforme à l'annexe I du présent arrêté et de disposer d'un cahier de procédures couvrant les thèmes énumérés à l'annexe II du présent arrêté.
