@@ -1,3 +1,6 @@
-# Arrêté du 18 mars 1985 portant application de l'article 1929 quater 4 du code général des impôts et relatif au montant minimum au-dessus duquel la publicité du privilège du Trésor est obligatoire
+# Arrêté du 18 mars 1985 relatif aux prix et tarifs des pompes funèbres
 
 - [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
