@@ -18,6 +18,8 @@ Les conventions relatives aux marchés et aux emprunts ainsi que les conventions
 
 Les décisions individuelles relatives à la nomination, à l'avancement de grade, aux sanctions soumises à l'avis du conseil de discipline et au licenciement d'agents de la commune.
 
+Le permis de construire, les autres autorisations d'utilisation du sol, le certificat d'urbanisme et le certificat de conformité délivrés par le maire ou le président de l'établissement public de coopération intercommunale, lorsqu'il a reçu compétence dans les conditions prévues à l'article L. 421-2-1 du code de l'urbanisme.
+
 III. - Les actes pris au nom de la commune autres que ceux mentionnés au paragraphe II sont exécutoires de plein droit dès qu'il a été procédé à leur publication ou à leur notification aux intéressés.
 
 IV. - Les actes pris par les autorités communales au nom de l'Etat ainsi que les actes relevant du droit privé ne sont pas soumis aux dispositions de la présente loi et demeurent régis par les dispositions qui leur sont propres.

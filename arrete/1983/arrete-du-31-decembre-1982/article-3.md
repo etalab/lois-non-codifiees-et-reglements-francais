@@ -1,3 +1,3 @@
 # Article 3
 
-L'arrêté du 31 décembre 1981 fixant pour les produits alimentaires importés les conditions d'application de la taxe spéciale sur les huiles est abrogé.
+Le transfert de plein droit, à la société Antenne 2, des biens, droits et obligations de la société Antenne 2, créée par la loi du 7 août 1974, prévu à l'article 1er de l'arrêté susvisé, s'effectuera avec valeur au 31 décembre 1982, sous réserve du transfert à la société Télévision française 1 créée par le décret n° 82-789 du 17 septembre 1982 des droits immobiliers qu'elle détient sur l'immeuble sis 13 et 15, rue Cognacq-Jay, Paris (7°). Ces transferts seront constatés par des conventions prenant effet au 1er janvier 1983, qui devront être approuvées par arrêté interministériel. La valeur des apports sera constatée selon le bilan arrêté au 31 décembre 1982.

@@ -1,5 +1,7 @@
 # Article 8
 
-Le conseil régional [*attributions*] délibère en vue d'émettre des avis sur les problèmes de développement et d'aménagement de la région au sujet desquels il est obligatoirement consulté.
+Le conseil régional [*attributions, compétences*] délibère en vue d'émettre des avis sur les problèmes de développement et d'aménagement de la région au sujet desquels il est obligatoirement consulté.
 
-Il participe aux études d'aménagement régional, à la préparation et à l'exécution du Plan dans ses différentes phases, notamment par l'élaboration de rapports d'orientation générale.
+Conformément à la loi n° 82-653 du 29 juillet 1982 portant réforme de la planification, il concourt à l'élaboration et à l'exécution du plan de la nation et il élabore et approuve le plan de la région. Il concourt, dans le cadre de ses compétences, à l'aménagement du territoire.
+
+Il propose aux collectivités territoriales de la région toutes mesures tendant à favoriser la coordination des investissements publics locaux dans la région.

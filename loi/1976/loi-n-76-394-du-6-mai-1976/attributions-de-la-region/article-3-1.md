@@ -1,9 +1,5 @@
 # Article 3-1
 
-Le conseil régional concourt, par ses avis, à l'élaboration du plan national.
-
-Il élabore et approuve le plan régional, dans le respect des orientations du plan national et des normes et critères fixés par la loi portant approbation de ce dernier.
-
-Le conseil régional consulte les collectivités territoriales intéressées pour l'élaboration du plan régional.
+Conformément à la loi n° 82-653 du 29 juillet 1982 portant réforme de la planification, le conseil régional concourt à l'élaboration et à l'exécution du plan de la nation, et élabore et approuve le plan de la région. Il concourt, dans le cadre de ses compétences, à l'aménagement du territoire.
 
 Il propose aux collectivités territoriales de la région toutes mesures tendant à favoriser la coordination des investissements publics locaux dans la région.

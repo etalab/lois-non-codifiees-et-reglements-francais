@@ -1,3 +1,3 @@
 # Article 1
 
-La taxe instituée par l'article 1618 quinquies du code général des impôts est perçue en fonction du poids net des huiles végétales et des huiles d'animaux marins incorporées. Ce poids, ainsi que la nature des huiles, doit être expressément mentionné sur les déclarations d'importation des produits alimentaires en cause.
+La société Antenne 2, créée par le décret susvisé du 17 septembre 1982, est chargée de procéder aux opérations de liquidation de la société Antenne 2 créée par l'article 8 de la loi du 7 août 1974. Ces opérations devront être closes au 31 décembre 1982.
