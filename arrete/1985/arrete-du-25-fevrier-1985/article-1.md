@@ -1,7 +1,5 @@
 # Article 1
 
-Les réfactions prévues par l'article 1613 (II, 1°) du code général des impôts sont fixées à :
+Champ d'application
 
-- 15 p. 100 pour les sciages, rabotés, rainés, bouvetés, languetés, feuillurés, chanfreinés ou similaires repris à la position 44-13 du tarif des douanes ;
-
-- 15 p. 100 pour les sciages imprégnés, injectés ou enduits repris aux positions ex 44-05 B et C du tarif des douanes.
+Le présent arrêté est applicable aux entreprises régies par les titres III et IV du Livre III du code de l'aviation civile dénommées ci-après entreprises de transport aérien, dans les limites du territoire de l'Etat français au sens de l'article 2 de la convention relative à l'aviation civile internationale susvisée et en tout autre lieu où il reste compatible avec les règles propres à l'Etat survolé, chaque fois qu'elles mettent en oeuvre un hélicoptère en transport aérien public.
