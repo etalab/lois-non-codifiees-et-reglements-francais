@@ -46,11 +46,11 @@ Receveur principal de 1re classe, 2e échelon, avec ancienneté acquise conserv�
 
 Receveur principal de 1re classe, 3e échelon, sans ancienneté.
 
-Inspecteur principal de 2e classe ayant atteint le 5e échelon et comptant au minimum deux ans d'ancienneté dans son échelon.
+Inspecteur principal de 2e classe comptant, d'une part, au minimum deux années d'ancienneté dans le 6e échelon de son grade et, d'autre part, au moins deux ans de services effectifs dans son grade.
 
-Receveur principal de 1re classe, 1er échelon, sans ancienneté.
+Receveur principal de 1re classe, 1er échelon sans ancienneté.
 
-Inspecteur divisionnaire justifiant d'au minimum trois ans de services dans son grade et :
+services dans son grade et :
 
 - comptant au moins six mois d'ancienneté dans le 3e échelon de son grade.
 
@@ -76,4 +76,4 @@ Inspecteur justifiant d'au minimum neuf ans de services dans un grade de catégo
 
 Receveur principal de 2e classe, 1er échelon avec conservation, dans la limite de trois ans, de l'ancienneté acquise dans le grade d'origine au-delà du minimum statutaire requis pour la nomination au grade de receveur principal de 2e classe.
 
-Le titulaire d'une recette des impôts déclassée en application des dispositions de l'article 2 ci-dessus peut être mis en demeure, par le directeur général des impôts, d'exercer une fonction correspondant à son grade dans un délai de trois ans. S'il refuse de le faire ou s'il ne pose pas sa candidature aux fonctions qui pourraient lui être attribuées, sa mutation est prononcée d'office dans l'intérêt du service.
+La liste des postes comptables susceptibles d'être confiés à un receveur divisionnaire, à un receveur principal de 1re classe ou à un receveur principal de 2e classe est révisée par arrêté du ministre chargé des finances au moins tous les cinq ans, sur la base d'un barème de points arrêté par ledit ministre. Le titulaire d'une recette des impôts déclassée, en application de ces dernières dispositions peut être mis en demeure par le directeur général des impôts d'exercer une fonction correspondant à son grade dans un délai de trois ans. S'il refuse de le faire ou s'il ne pose pas sa candidature aux fonctions qui pourraient lui être attribuées, sa mutation est prononcée d'office dans l'intérêt du service.
