@@ -3,6 +3,7 @@
 - [Loi du 12 avril 1941](loi-du-12-avril-1941)
 - [Loi du 15 février 1941](loi-du-15-fevrier-1941)
 - [Loi du 16 décembre 1941](loi-du-16-decembre-1941)
+- [Loi du 19 mai 1941](loi-du-19-mai-1941)
 - [Loi du 2 avril 1941](loi-du-2-avril-1941)
 - [Loi du 20 mars 1941](loi-du-20-mars-1941)
 - [Loi du 22 mars 1941](loi-du-22-mars-1941)
