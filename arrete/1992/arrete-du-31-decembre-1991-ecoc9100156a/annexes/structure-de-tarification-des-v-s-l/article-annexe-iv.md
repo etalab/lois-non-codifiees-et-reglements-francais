@@ -28,7 +28,7 @@ Il couvre également toutes les prestations énumérées en A.
 
 C. - Majoration pour courses de nuit.
 
-Entre 20 heures et 8 heures, le tarif de jour est majoré de 50 p. 100.
+Entre 20 heures et 8 heures, le tarif de jour est majoré de 50 p. 100, taux normal jusqu'à 150 kilomètres et taux réduit de 20 p. 100 pour les kilomètres au-delà de 150 kilomètres.
 
 Cette majoration s'applique lorsque plus de la moitié du temps de la course en charge est effectuée entre 20 heures et 8 heures.
 
