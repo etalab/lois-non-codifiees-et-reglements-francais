@@ -8,5 +8,4 @@
 - [Titre VI : La régulation.](titre-vi)
 - [Titre VII : Dispositions sociales.](titre-vii)
 - [Titre VIII : Dispositions applicables à Mayotte.](titre-viii)
-- [Titre VIII bis : Dispositions applicables à Mayotte.](titre-viii-bis)
 - [Titre IX : Dispositions diverses ou transitoires.](titre-ix)
