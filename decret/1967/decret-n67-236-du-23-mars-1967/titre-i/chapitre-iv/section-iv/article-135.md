@@ -10,7 +10,7 @@ La société doit adresser aux actionnaires ou mettre à leur disposition, dans 
 
 4° Le rapport du conseil d'administration ou du directoire, selon le cas, qui sera présenté à l'assemblée ainsi que, le cas échéant, les observations du conseil de surveillance ;
 
-5° Lorsque l'ordre du jour comporte la nomination d'administrateurs ou de membres du conseil de surveillance ;
+5° Lorsque l'ordre du jour comporte la nomination d'administrateurs ou de membres du conseil de surveillance :
 
 a) Les nom, prénom usuel et âge des candidats, leurs références professionnelles et leurs activités professionnelles au cours des cinq dernières années, notamment les fonctions qu'ils exercent ou ont exercées dans d'autres sociétés ;
 
@@ -18,6 +18,6 @@ b) Les emplois ou fonctions occupés dans la société par les candidats et le n
 
 6° S'il s'agit de l'assemblée générale ordinaire prévue à l'article 157, de la loi sur les sociétés commerciales, le compte d'exploitation générale, le compte de pertes et profits, le bilan, le cas échéant, les observations du conseil de surveillance, le rapport spécial des commissaires aux comptes prévu aux articles 103, alinéa 3, et 145, alinéa 3, de ladite loi et un tableau présenté conformément au modèle annexe au présent décret et faisant apparaître les résultats de la société au cours de chacun des cinq derniers exercices ou de chacun des exercices clos depuis la constitution de la société "ou l'absorption par celle-ci d'une autre société" si leur nombre est inférieur à cinq ;
 
-7° S'il s'agit d'une assemblée générale extraordinaire, le rapport des commissaires aux comptes qui sera, le cas échéant, présenté à l'assemblée.
+7° S'il s'agit d'une assemblée générale ordinaire prévue à l'article 157-1 de la loi sur les sociétés commerciales, le rapport des commissaires visés audit article ;
 
-[*Modèle non reproduit, voir au Journal officiel*].
+8° S'il s'agit d'une assemblée générale extraordinaire, le rapport des commissaires aux comptes qui sera, le cas échéant, présenté à l'assemblée.
