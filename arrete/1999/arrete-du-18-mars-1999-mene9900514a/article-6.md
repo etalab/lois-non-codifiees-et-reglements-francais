@@ -1,0 +1,7 @@
+# Article 6
+
+Le dispositif d'accompagnement mentionné à l'article 2 ci-dessus comprend :
+
+Un enseignement en module d'un horaire global de trois heures et demie par semaine, dispensé dans certaines disciplines précisées dans les tableaux figurant en annexe du présent arrêté. A cet enseignement correspond une dotation horaire-professeur de sept heures permettant la répartition des élèves en groupes dont l'effectif est inférieur à celui de la classe entière. L'affectation et la distribution des élèves dans ces groupes différenciés sont de la responsabilité des équipes pédagogiques. La taille des groupes varie en cours d'année en fonction de l'évolution des acquis des élèves. L'horaire de module peut faire l'objet d'une répartition non uniforme sur l'année scolaire ;
+
+Une aide individualisée qui s'adresse à un public ciblé d'élèves rencontrant des difficultés ponctuelles ou présentant des lacunes plus profondes. Cette aide se déroule dans le cadre de groupes n'excédant pas huit élèves dont les difficultés ont été repérées. Ces groupes sont redéfinis tous les trimestres par les équipes pédagogiques. L'aide porte sur le français et les mathématiques. Le dispositif d'aide s'inscrit dans le cadre du projet d'établissement. Sa mise en oeuvre est engagée sous la responsabilité du chef d'établissement avec le concours des équipes pédagogiques. Pour la mise en place de cette aide à la rentrée 1999, une dotation de deux heures hebdomadaires de base est attribuée à toutes les divisions. Le dispositif fera l'objet d'une évaluation.
