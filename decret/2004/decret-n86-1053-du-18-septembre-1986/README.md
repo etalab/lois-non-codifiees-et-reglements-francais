@@ -2,3 +2,4 @@
 
 - [CHAPITRE Ier : Procédure devant la juridiction disciplinaire.](chapitre-ier)
 - [CHAPITRE II : Procédure en matière d'insuffisance professionnelle.](chapitre-ii)
+- [Article 15](article-15.md)

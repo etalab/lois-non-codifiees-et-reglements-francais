@@ -80,6 +80,7 @@
 - [Arrêté du 7 septembre 2004 (ECOP0400570A)](arrete-du-7-septembre-2004-ecop0400570a)
 - [Arrêté du 7 mai 2004 (MENS0400901A)](arrete-du-7-mai-2004-mens0400901a)
 - [Arrêté du 8 avril 2003 (INTE0300207A)](arrete-du-8-avril-2003-inte0300207a)
+- [Arrêté du 8 avril 2004 (AGRG0400967A)](arrete-du-8-avril-2004-agrg0400967a)
 - [Arrêté du 8 avril 2004 (PRMD0450008A)](arrete-du-8-avril-2004-prmd0450008a)
 - [Arrêté du 8 décembre 2003 (EQUT0301651A)](arrete-du-8-decembre-2003-equt0301651a)
 - [Arrêté du 8 décembre 2003 (SOCT0312036A)](arrete-du-8-decembre-2003-soct0312036a)
