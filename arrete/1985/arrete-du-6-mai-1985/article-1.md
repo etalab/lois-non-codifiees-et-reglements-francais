@@ -1,3 +1,3 @@
 # Article 1
 
-En application des dispositions des articles 7 et 8 du décret n° 77-520 du 20 mai 1977, la valeur de remboursement des obligations de l'emprunt d'Etat 8,80 % 1977 devant être amorties le 23 mai 1985 est fixée à 1 220, 21 F par obligation de 1 000 F de valeur nominale.
+Les instituteurs qui accompagnent leurs élèves dans des classes de découverte organisées sous forme d'internat, peuvent percevoir, sur le budget de la commune organisatrice de ces classes, une indemnité dont le montant est égal au produit d'un taux journalier par la durée du séjour, dans la limite de vingt et un jours par année scolaire.
