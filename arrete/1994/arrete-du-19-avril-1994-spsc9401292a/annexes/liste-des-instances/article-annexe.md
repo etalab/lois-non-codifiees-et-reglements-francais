@@ -40,6 +40,8 @@ Commission départementale de l'éducation spécialisée instituée par le décr
 
 Comité consultatif national de l'enseignement des jeunes sourds institué par le décret n° 86-1151 du 27 octobre 1986.
 
+Conseil de famille des pupilles de l'etat prévu à l'article 60 du code de la famille et de l'action sociale.
+
 Délégation interministérielle au revenu minimum d'insertion
 
 Conseils départementaux d'insertion, article 35 de la loi précitée.
@@ -77,6 +79,8 @@ Commission nationale de l'homologation, article L. 665-1 du code de la santé pu
 Commission nationale du contentieux de la tarification sanitaire et sociale, articles 201 à 201-2 du code de la famille et de l'aide sociale et décret n° 90-359 du 11 avril 1990.
 
 Commissions interrégionales de la tarification sanitaire et sociale, article 201-1 du code de la famille et de l'aide sociale et décret n° 90-359 du 11 avril 1990.
+
+Conseil supérieur des hôpitaux institué par le décret n° 58-1202 du 11 décembre 1958.
 
 Direction générale de la santé
 
@@ -141,3 +145,7 @@ Conseil supérieur de la coopération institué par le décret n° 76-356 du 20 
 Comité consultatif de l'économie sociale institué par le décret n° 81-1125 du 15 décembre 1981, modifié par le décret n° 91-1133 du 28 octobre 1991.
 
 Commission nationale d'agrément de la révision coopérative instituée par le décret n° 84-1027 du 23 novembre 1984, modifié par le décret n° 88-245 du 10 mars 1988.
+
+Délégation aux rapatriés
+
+Commission d'aide au désendettement immobilier de certains membres des formations supplétives et assimilés, instituée par le décret n° 97-677 du 31 mai 1997.
