@@ -65,6 +65,7 @@
 - [Arrêté du 25 janvier 2000 (EQUS0000183A)](arrete-du-25-janvier-2000-equs0000183a)
 - [Arrêté du 26 décembre 2000 (MCCB0000675A)](arrete-du-26-decembre-2000-mccb0000675a)
 - [Arrêté du 26 décembre 2000 (MCCB0000688A)](arrete-du-26-decembre-2000-mccb0000688a)
+- [Arrêté du 26 février 1974](arrete-du-26-fevrier-1974)
 - [Arrêté du 26 novembre 1999 (ECOI9900570A)](arrete-du-26-novembre-1999-ecoi9900570a)
 - [Arrêté du 27 décembre 1999 (MENP9902847A)](arrete-du-27-decembre-1999-menp9902847a)
 - [Arrêté du 27 décembre 1999 (MENP9902848A)](arrete-du-27-decembre-1999-menp9902848a)
