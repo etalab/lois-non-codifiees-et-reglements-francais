@@ -12,6 +12,7 @@
 - [Loi n° 72-1127 du 21 décembre 1972](loi-n-72-1127-du-21-decembre-1972)
 - [Loi n° 72-1147 du 23 décembre 1972](loi-n-72-1147-du-23-decembre-1972)
 - [Loi n° 72-1152 du 23 décembre 1972](loi-n-72-1152-du-23-decembre-1972)
+- [Loi n° 72-1169 du 23 décembre 1972](loi-n-72-1169-du-23-decembre-1972)
 - [Loi n° 72-1204 du 23 décembre 1972](loi-n-72-1204-du-23-decembre-1972)
 - [Loi n° 72-3 du 3 janvier 1972](loi-n-72-3-du-3-janvier-1972)
 - [Loi n° 72-439 du 30 mai 1972](loi-n-72-439-du-30-mai-1972)
