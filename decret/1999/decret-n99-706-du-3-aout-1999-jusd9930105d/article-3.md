@@ -10,6 +10,8 @@ Le ministre chargé de la santé ;
 
 Le ministre chargé de l'action sociale ;
 
+Le ministre chargé des droits des femmes ;
+
 Le ministre de l'intérieur ;
 
 Le ministre de la défense ;
@@ -25,6 +27,8 @@ Le ministre chargé de l'éducation nationale ;
 Le ministre chargé de la fonction publique ;
 
 Le ministre chargé des transports ;
+
+Le ministre chargé du tourisme ;
 
 Le ministre chargé de la ville.
 
