@@ -33,7 +33,9 @@ Peuvent être nommés au choix chef de garage principal, par voie d'inscription 
 </tr>
 </table>
 
-" Les fonctionnaires promus sont reclassés dans le grade de chef de garage principal conformément au tableau ci-après :
+" Les fonctionnaires promus avant le 1er août 1992 sont reclassés dans le grade de chef de garage principal, conformément au tableau ci-après :[*non reproduit*]
+
+Les fonctionnaires promus à compter du 1er août 1992 sont reclassés dans le grade de chef de garage principal conformément au tableau ci-après :
 
 CHEF DE GARAGE :
 

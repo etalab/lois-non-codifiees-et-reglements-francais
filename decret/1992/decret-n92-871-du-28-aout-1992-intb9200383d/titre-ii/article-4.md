@@ -4,7 +4,7 @@
 
 " 1° A un concours sur titres ouvert aux candidats titulaires d'un titre ou d'un diplôme figurant sur une liste fixée par arrêté conjoint du ministre chargé des collectivités locales et du ministre chargé de la santé ;
 
-" 2° A un concours sur titres ouvert aux candidats titulaires du diplôme d'Etat de manipulateur d'électroradiologie ou du brevet de technicien supérieur d'électroradiologie médicale. "
+" 2° A un concours sur titres ouvert aux candidats titulaires du diplôme d'Etat de manipulateur d'électroradiologie, du brevet de technicien supérieur d'électroradiologie médicale ou du diplôme de technicien supérieur en imagerie médicale et radiologie thérapeutique. "
 
 " Le concours comporte un entretien avec le jury, dont les modalités sont fixées par décret.
 

@@ -14,6 +14,12 @@ SITUATION NOUVELLE : 1er nouveau grade :
 
 SITUATION ANCIENNE : 2e grade :
 
+4e échelon provisoire SITUATION NOUVELLE : 1er nouveau grade :
+
+13e échelon
+
+SITUATION ANCIENNE : 2e grade :
+
 4e échelon
 
 SITUATION NOUVELLE : 1er nouveau grade :

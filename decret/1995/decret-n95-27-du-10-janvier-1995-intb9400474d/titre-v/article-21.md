@@ -1,8 +1,8 @@
 # Article 21
 
-Le détachement dans le cadre d'emplois des techniciens territoriaux intervient :
+Le détachement dans le cadre d'emplois des éducateurs des activités physiques et sportives intervient :
 
-1° Pour les fonctionnaires titulaires d'un grade ou d'un emploi dont l'indice brut terminal est au moins égal à 612 dans le cadre d'éducateur de 1re classe s'ils ont atteint un échelon dont l'indice brut est au moins égal à 425 ;
+1° Pour les fonctionnaires titulaires d'un grade ou d'un emploi dont l'indice brut terminal est au moins égal à 612 dans le cadre d'éducateur hors classe s'ils ont atteint un échelon dont l'indice brut est au moins égal à 425 ;
 
 2° Pour les fonctionnaires titulaires d'un grade ou d'un emploi dont l'indice brut terminal est au moins égal à 579 dans le grade d'éducateur de 1re classe s'ils ont atteint un échelon dont l'indice brut est au moins égal à 384 ;
 

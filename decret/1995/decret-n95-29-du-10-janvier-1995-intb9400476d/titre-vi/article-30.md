@@ -4,6 +4,16 @@ Les fonctionnaires territoriaux promus au grade provisoire de technicien-chef en
 
 SITUATION ANCIENNE : Technicien :
 
+13e échelon (544)
+
+SITUATION NOUVELLE : Technicien-chef (grade provisoire) :
+
+6e échelon (510)
+
+ANCIENNETE : Ancienneté acquise.
+
+SITUATION ANCIENNE : Technicien :
+
 12e échelon (510)
 
 SITUATION NOUVELLE : Technicien-chef (grade provisoire) :

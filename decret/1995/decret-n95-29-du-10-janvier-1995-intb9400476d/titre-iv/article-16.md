@@ -144,7 +144,7 @@ GRADE ET ECHELON : Technicien :
 
 DUREE maximale : 4 ans
 
-DUREE minimale : 4 ans
+DUREE minimale : 3 ans
 
 GRADE ET ECHELON : Technicien :
 

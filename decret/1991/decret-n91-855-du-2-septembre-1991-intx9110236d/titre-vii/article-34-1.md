@@ -8,4 +8,4 @@ SITUATION ANCIENNE
 
 SITUATION NOUVELLE
 
-8e échelon (950) sans ancienneté
+8e échelon (950)

@@ -36,7 +36,7 @@ La durée maximale et la durée minimale du temps passé dans chaque échelon so
 </tr>
 </table>
 
----Les fonctionnaires promus sont reclassés dans le grade d'agent territorial qualifié du patrimoine hors classe conformément au tableau ci-après:
+Les fonctionnaires promus avant le 1er août 1992 sont reclassés dans le grade d'agent territorial qualifié du patrimoine hors classe, conformément au tableau ci-après : [*non reproduit*]---Les fonctionnaires promus à compter du 1er août 1992 sont reclassés dans le grade d'agent territorial qualifié du patrimoine hors classe conformément au tableau ci-après:
 
 <table>
 <tr>
