@@ -1,3 +1,3 @@
 # Article 3
 
-Le présent arrêté prend effet à compter du 1er février.
+L'émission de chacune des pièces commémoratives visées par le présent arrêté sera limitée à 3.000.000 d'exemplaires.

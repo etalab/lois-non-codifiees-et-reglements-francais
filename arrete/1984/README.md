@@ -31,6 +31,7 @@
 - [Arrêté du 22 février 1984](arrete-du-22-fevrier-1984)
 - [Arrêté du 23 décembre 1983](arrete-du-23-decembre-1983)
 - [Arrêté du 23 janvier 1984](arrete-du-23-janvier-1984)
+- [Arrêté du 24 janvier 1984](arrete-du-24-janvier-1984)
 - [Arrêté du 25 janvier 1984](arrete-du-25-janvier-1984)
 - [Arrêté du 25 octobre 1983](arrete-du-25-octobre-1983)
 - [Arrêté du 26 décembre 1983](arrete-du-26-decembre-1983)

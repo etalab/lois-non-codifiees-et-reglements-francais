@@ -1,4 +1,4 @@
-# Arrêté du 31 janvier 1984 relatif aux attributions du secrétaire général au secrétariat d'Etat auprès du Premier ministre, chargé de l'environnement et de la qualité de la vie.
+# Arrêté du 31 janvier 1984 relatif à la création d'un système de traitement automatisé d'informations nominatives du suivi du courrier
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
