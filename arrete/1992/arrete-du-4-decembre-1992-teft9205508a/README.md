@@ -2,6 +2,5 @@
 
 - [Titre 1er : Formation des personnels.](titre-1er)
 - [Titre 2 : Modalités du contrôle de capacité et indications à faire figurer sur l'attestation correspondante.](titre-2)
-- [Titre 3 : Modalités d'agrément des organismes assurant la formation des formateurs.](titre-3)
 - [Article 15](article-15.md)
 - [Annexes](annexes)
