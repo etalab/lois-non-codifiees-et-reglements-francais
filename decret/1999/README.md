@@ -352,6 +352,7 @@
 - [Décret n°99-323 du 27 avril 1999 (MESS9920722D)](decret-n99-323-du-27-avril-1999-mess9920722d)
 - [Décret n°99-64 du 27 janvier 1999 (ECOI9801037D)](decret-n99-64-du-27-janvier-1999-ecoi9801037d)
 - [Décret n°99-426 du 27 mai 1999 (MESP9921434D)](decret-n99-426-du-27-mai-1999-mesp9921434d)
+- [Décret n°99-433 du 27 mai 1999 (ECOX9900037D)](decret-n99-433-du-27-mai-1999-ecox9900037d)
 - [Décret n°98-1204 du 28 décembre 1998 (ECOI9801029D)](decret-n98-1204-du-28-decembre-1998-ecoi9801029d)
 - [Décret n°98-1206 du 28 décembre 1998 (ECOT9810356D)](decret-n98-1206-du-28-decembre-1998-ecot9810356d)
 - [Décret n°98-1231 du 28 décembre 1998 (JUSC9820832D)](decret-n98-1231-du-28-decembre-1998-jusc9820832d)
