@@ -56,4 +56,5 @@
 - [Décret n°71-343 du 29 avril 1971](decret-n71-343-du-29-avril-1971)
 - [Décret n°71-504 du 29 juin 1971](decret-n71-504-du-29-juin-1971)
 - [Décret n°71-644 du 30 juillet 1971](decret-n71-644-du-30-juillet-1971)
+- [Décret n°71-647 du 30 juillet 1971](decret-n71-647-du-30-juillet-1971)
 - [Décret n°70-1329 du 31 décembre 1970](decret-n70-1329-du-31-decembre-1970)
