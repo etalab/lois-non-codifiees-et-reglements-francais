@@ -2,26 +2,22 @@
 
 Le comité national d'agrément comprend :
 
-- le membre du Conseil d'Etat, membre du conseil supérieur des structures au ministère de l'agriculture ;
+- un membre du Conseil d'Etat, en activité ou honoraire ;
 
-- trois représentants du ministère de l'agriculture :
+- trois représentants du ministre de l'agriculture ;
 
-- un représentant du ministre de l'économie et des finances ;
+- deux représentants du ministre de l'économie, des finances et de la privatisation ;
 
-- un représentant du ministre de l'intérieur ;
+- un magistrat, représentant du garde des sceaux, ministre de la justice ;
 
-- le notaire membre du conseil supérieur des structures agricoles ;
+- un notaire, proposé par le Conseil supérieur du notariat ;
 
-- trois agriculteurs membres du conseil supérieur des structures désignés sur proposition des agriculteurs membres de la section des structures des exploitations agricoles de ce conseil,
+- six agriculteurs, dont quatre désignés sur proposition respectivement de l'assemblée permanente des chambres d'agriculture, de la fédération nationale des syndicats d'exploitants agricoles, du centre national des jeunes agriculteurs, de la confédération nationale de la mutualité, de la coopération et du crédit agricole, et dont deux désignés sur proposition de l'union des groupements d'exploitations agricoles.
 
-et en outre,
+Les membres du comité autres que les fonctionnaires sont nommés pour trois ans par le ministre de l'agriculture. Ceux qui sont désignés en raison de leurs fonctions peuvent se faire suppléer, les autres sont suppléés par des suppléants désignés dans les mêmes conditions qu'eux-mêmes.
 
-- un magistrat représentant du garde des sceaux, ministre de la Justice, et deux agriculteurs désignés sur proposition de l'organisation nationale la plus représentative des agriculteurs exploitant en commun.
+La présidence du comité national est assurée par le membre du Conseil d'Etat.
 
-Le comité constitue une sous-section de la section des structures des exploitations agricoles du conseil supérieur des structures agricoles.
-
-Les membres du comité autres que les fonctionnaires sont nommés par le ministre de l'agriculture. Ceux qui sont désignés en raison de leurs fonctions peuvent se faire suppléer, les autres sont suppléés par des suppléants désignés dans les mêmes conditions qu'eux-mêmes.
-
-Au cas de partage des voix, la voix du président est prépondérante.
+En cas de partage des voix, celle du président est prépondérante.
 
 Le secrétariat du comité national est assuré par le ministère de l'agriculture.
