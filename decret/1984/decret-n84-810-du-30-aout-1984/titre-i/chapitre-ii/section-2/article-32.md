@@ -24,4 +24,4 @@ c) Pour la délivrance d'un certificat international qui nécessite des expertis
 
 d) Pour examiner la bonne réalisation des prescriptions d'une visite.
 
-II. - Les inspecteurs de la sécurité des navires et du travail maritime ont qualité pour effectuer les visites spéciales.
+II. - Les inspecteurs de la sécurité des navires et de la prévention des risques professionnels maritimes ont qualité pour effectuer les visites spéciales.

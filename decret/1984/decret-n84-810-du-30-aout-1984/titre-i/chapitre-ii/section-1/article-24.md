@@ -6,7 +6,7 @@ I. - Chaque commission locale d'essais comprend :
 
 a) Le chef du centre de sécurité des navires ou son délégué, président ;
 
-b) Deux inspecteurs de la sécurité des navires et du travail maritime. Toutefois, sur décision du chef du centre de sécurité, ce nombre peut être ramené à un.
+b) Deux inspecteurs de la sécurité des navires et de la prévention des risques professionnels maritimes. Toutefois, sur décision du chef du centre de sécurité, ce nombre peut être ramené à un.
 
 2. Des membres nommés, à savoir :
 
@@ -20,7 +20,7 @@ d) En tant que de besoin, pour les questions de radioélectricité, un représen
 
 II. - Pour les questions intéressant la plaisance, la commission locale d'essais peut être composée uniquement des agents de l'Etat désignés au I ainsi que d'un expert désigné par le président de la Commission nationale de sécurité de la navigation de plaisance.
 
-III. - Pour les essais partiels relatifs à l'approbation d'un équipement marin ou pour les essais relatifs à l'approbation de modifications apportées à un tel équipement, la commission peut être composée uniquement du chef du centre de sécurité des navires ou son délégué et d'un inspecteur de la sécurité des navires et du travail maritime.
+III. - Pour les essais partiels relatifs à l'approbation d'un équipement marin ou pour les essais relatifs à l'approbation de modifications apportées à un tel équipement, la commission peut être composée uniquement du chef du centre de sécurité des navires ou son délégué et d'un inspecteur de la sécurité des navires et de la prévention des risques professionnels maritimes.
 
 IV. - La commission peut également se faire assister par toute personne ou organisme qu'elle juge utile, désignés par décision particulière du président.
 

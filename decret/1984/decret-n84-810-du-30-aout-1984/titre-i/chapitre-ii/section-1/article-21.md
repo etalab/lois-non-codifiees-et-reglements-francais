@@ -6,7 +6,7 @@ I. - Des membres de droit, à savoir :
 
 a) Le directeur régional des affaires maritimes ou son délégué, président ;
 
-b) L'inspecteur de la sécurité des navires et du travail maritime ou l'ingénieur ayant instruit le dossier examiné.
+b) L'inspecteur de la sécurité des navires et de la prévention des risques professionnels maritimes ou l'ingénieur ayant instruit le dossier examiné.
 
 II. - Des membres nommés, à savoir :
 

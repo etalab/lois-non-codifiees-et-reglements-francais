@@ -8,7 +8,7 @@ a) Le directeur des ports et de la navigation maritimes ou son délégué, prés
 
 b) Le chef du bureau de la navigation de plaisance,
 
-c) L'inspecteur de la sécurité des navires et du travail maritime ou l'ingenieur ayant instruit le dossier examiné,
+c) L'inspecteur de la sécurité des navires et de la prévention des risques professionnels maritimes ou l'ingenieur ayant instruit le dossier examiné,
 
 II. - Des membres nommés, à savoir :
 

@@ -10,7 +10,7 @@ II. - Chaque commission de visite périodique comprend :
 
 a) Le chef du centre de sécurité des navires ou son délégué, président ;
 
-b) Des inspecteurs de la sécurité des navires et du travail maritime dans les conditions ci-dessous :
+b) Des inspecteurs de la sécurité des navires et de la prévention des risques professionnels maritimes dans les conditions ci-dessous :
 
 - pour les navires d'une longueur égale ou supérieure à 24 mètres, deux inspecteurs. Toutefois, sur décision du chef du centre de sécurité, ce nombre peut être ramené à un ;
 

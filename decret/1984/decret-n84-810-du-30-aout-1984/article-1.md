@@ -28,9 +28,7 @@ II. - Les expressions ci-dessous désignent :
 
 2. Centre de sécurité compétent : celui du port d'immatriculation, sous réserve de toute autre modalité d'attribution de compétence arrêtée par le ministre chargé de la marine marchande.
 
-3. Inspecteur de la sécurité des navires et du travail maritime :
-
-les personnels des catégories suivantes affectés à des tâches de contrôle de la sécurité des navires, de l'habitabilité et de la sécurité du travail maritime et de la prévention de la pollution à bord :
+3. Inspecteur de la sécurité des navires et de la prévention des risques professionnels maritimes : les personnels des catégories suivantes affectés à des tâches de contrôle de la sécurité des navires, de l'habitabilité et de la sécurité du travail maritime et de la prévention de la pollution à bord :
 
 - administrateurs des affaires maritimes ;
 

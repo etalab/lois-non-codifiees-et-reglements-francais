@@ -4,7 +4,7 @@ Les réclamations de l'équipage relatives soit aux conditions de navigabilité 
 
 Lorsqu'il est saisi d'une telle réclamation, le chef du centre de sécurité des navires ou son délégué, procède, ou fait procéder dans le plus bref délai, à une visite du navire.
 
-L'inspecteur de la sécurité des navires et du travail maritime qui effectue la visite peut être assisté d'un ou de plusieurs experts désignés par le chef du centre de sécurité des navires.
+L'inspecteur de la sécurité des navires et de la prévention des risques professionnels maritimes qui effectue la visite peut être assisté d'un ou de plusieurs experts désignés par le chef du centre de sécurité des navires.
 
 Il examine le bien-fondé de la réclamation et prescrit les mesures nécessaires.
 

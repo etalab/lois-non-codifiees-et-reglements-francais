@@ -16,7 +16,7 @@ d) Le chef du bureau du contrôle des navires ou son représentant, ou, s'il s'a
 
 III. - Des membres nommés, à savoir :
 
-a) Deux inspecteurs de la sécurité des navires et du travail maritime ;
+a) Deux inspecteurs de la sécurité des navires et de la prévention des risques professionnels maritimes ;
 
 b) Un technicien appartenant à une société française de classification agréée ;
 
@@ -54,4 +54,4 @@ b) Un représentant des industries radio-électriques ;
 
 c) Un officier radio-électronicien de la marine marchande.
 
-Le ministre chargé de la marine marchande nomme  pour une durée de trois ans renouvelable les membres de la commission autres que les membres de droit et leur suppléants . Les représentants des groupements ou organisations intéressés sont nommés sur la proposition de ces groupements ou organisations. Des membres suppléants, en nombre égal à celui des membres titulaires, sont nommés dans les mêmes conditions que ces derniers.
+Le ministre chargé de la marine marchande nomme pour une durée de trois ans renouvelable les membres de la commission autres que les membres de droit et leur suppléants . Les représentants des groupements ou organisations intéressés sont nommés sur la proposition de ces groupements ou organisations. Des membres suppléants, en nombre égal à celui des membres titulaires, sont nommés dans les mêmes conditions que ces derniers.
