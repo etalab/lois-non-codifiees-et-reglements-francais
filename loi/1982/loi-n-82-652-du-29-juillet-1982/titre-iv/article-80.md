@@ -6,4 +6,4 @@ A l'exception des organismes visés au titre III de la présente loi [*art. 34 �
 
 Sous réserve des mêmes exceptions, une même personne physique ou [*personne*] morale de droit privé ne peut, directement ou indirectement, sous quelque forme que ce soit, ni exercer des fonctions de direction, de gestion ou de conseil dans plus d'un organisme titulaire d'une autorisation, ni participer au financement de plus d'un organisme titulaire d'une autorisation concernant un service de radiodiffusion sonore ou de télévision [*cumul*].
 
-Les dispositions des articles 3 et 4 de l'ordonnance du 26 août 1944 sur l'organisation de la presse française sont applicables aux personnes morales de droit privé mentionnées au présent article.
+Les dispositions des articles 9 et 3 de la loi n° 84-937 du 23 octobre 1984 visant à limiter la concentration et à assurer la transparence financière et le pluralisme des entreprises de presse sont applicables aux personnes morales de droit privé mentionnées au présent article.
