@@ -20,6 +20,7 @@
 - [Décret n°59-1337 du 20 novembre 1959](decret-n59-1337-du-20-novembre-1959)
 - [Décret n°59-1095 du 21 septembre 1959](decret-n59-1095-du-21-septembre-1959)
 - [Décret n°59-1096 du 21 septembre 1959](decret-n59-1096-du-21-septembre-1959)
+- [Décret n° 59-1348 du 23 novembre 1959](decret-n-59-1348-du-23-novembre-1959)
 - [Décret n°59-1091 du 23 septembre 1959](decret-n59-1091-du-23-septembre-1959)
 - [Décret n°59-1205 du 23 octobre 1959](decret-n59-1205-du-23-octobre-1959)
 - [Décret n°54-1304 du 27 décembre 1954](decret-n54-1304-du-27-decembre-1954)

@@ -1,0 +1,10 @@
+# Titre II : Au personnel enseignant
+
+- [Section I : Du personnel de l'enseignement supérieur](section-i)
+- [Section II : Du personnel d'enseignement général et de technologie](section-ii)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)
