@@ -10,16 +10,14 @@ Cette analyse sera effectuée par un des laboratoires agréés par le service de
 
 3° A l'examen d'un échantillon du vin par la commission syndicale de dégustation, conformément aux dispositions du règlement intérieur prévu à l'article 3 ci-dessous.
 
-Les demandes d'agrément en vue de l'obtention du label doivent être présentées avant le 31 mars de l'année suivant la récolte.
+Les demandes d'agrément en vue de l'obtention du label doivent être présentées avant le 31 mai de l'année suivant la récolte.
 
-La durée de validité du premier label délivré après le contrôle de la qualité s'achève au 31 août de l'année suivant celle de la récolte.
+Aucun label ne pourra être délivré après le 30 juin suivant la récolte. La durée de validité des labels délivrés après le contrôle de la qualité est fixée par chaque syndicat concerné. Elle ne peut être inférieure à six mois ni supérieure à douze mois. Chaque syndicat est tenu d'informer de la durée retenue la Fédération nationale des appellations d'origine Vin délimité de qualité supérieure, l'Institut national des appellations d'origine, la direction générale des douanes et droits indirects et la direction générale de la concurrence, de la consommation et de la répression des fraudes.
 
-Passée cette date, la prorogation de la durée de validité des labels s'effectue au choix de chaque syndicat qui est tenu d'en informer la Fédération nationale des vins délimités de qualité supérieure, l'Institut national des appellations d'origine des vins et eaux-de-vie et la direction générale des impôts :
-
-- soit par renouvellement, tous les six mois, selon la même procédure, après analyse et dégustation ;
-
-- soit par renouvellement annuel valable chaque fois jusqu'au 31 août de l'année suivante, accordé selon la même procédure après analyse et dégustation.
+A l'expiration de la durée de validité du label, le viticulteur peut demander le renouvellement de son label pour les volumes de vrac restant en cave. Ce renouvellement doit s'effectuer selon la même procédure après analyse et dégustation. A défaut, il notifie au syndicat les quantités pour lesquelles il ne sollicite pas le renouvellement du label. Copie est adressée aux services de la direction générale des douanes et droits indirects. La demande de prorogation du label doit parvenir au siège du syndicat un mois avant son expiration.
 
 La date limite de validité doit être inscrite sur le label. Les vins qui ont fait l'objet d'une commercialisation ou qui ont été mis en bouteilles avant l'expiration du délai de validité sont dispensés du renouvellement du label.
 
 Pour les vins mousseux, le renouvellement du label est obligatoire à l'issue de la prise de mousse lorsque l'agrément a été accordé précédemment au vin de base ; dans ce cas le nouveau label est valable sans limite de durée.
+
+Les refus de labellisation devront être motivés et notifiés aux demandeurs.
