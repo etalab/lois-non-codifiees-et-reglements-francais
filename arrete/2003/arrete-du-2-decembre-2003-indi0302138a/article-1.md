@@ -1,6 +1,6 @@
 # Article 1
 
-L'organisme désigné ci-après : AFNOR Certification, 11, avenue Francis-de-Pressensé, 93571 Saint-Denis-La Plaine Cedex, est habilité jusqu'au 31 décembre 2004 pour l'application des procédures d'évaluation de la conformité des équipements sous pression suivantes, prévues par l'article 9 du décret du 13 décembre 1999 susvisé :
+L'organisme désigné ci-après : AFAQ-AFNOR Certification, 11, avenue Francis-de-Pressensé, 93571 Saint-Denis-La Plaine Cedex, est habilité jusqu'au 31 décembre 2004 pour l'application des procédures d'évaluation de la conformité des équipements sous pression suivantes, prévues par l'article 9 du décret du 13 décembre 1999 susvisé :
 
 a) En ce qui concerne les soupapes de sécurité destinées à la protection des réservoirs fixes destinés à l'emmagasinage de gaz de pétrole liquéfiés :
 

@@ -1,6 +1,7 @@
 # Décret n°83-40 du 26 janvier 1983 RELATIF AUX MODALITES D'APPLICATION DES DISPOSITIONS DU CODE DU TRAVAIL CONCERNANT LA DUREE DU TRAVAIL DANS LES ENTREPRISES DE TRANSPORT ROUTIER DE MARCHANDISES.
 
 - [Article 1](article-1.md)
+- [Article 1 bis](article-1-bis.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)

@@ -8,4 +8,6 @@ Paragraphe 3. Cette durée pourra être portée à douze heures une seconde fois
 
 Paragraphe 4. Le comité d'entreprise ou, à défaut, les délégués du personnel s'ils existent, émettent un avis sur les dépassements à la durée quotidienne de dix heures visés aux paragraphes 2 et 3.
 
+Paragraphe 4-1. Pour le personnel roulant, la durée quotidienne du temps de service peut être supérieure à la durée quotidienne du travail effectif fixée au paragraphe 1, dans la limite de douze heures et dans le respect des durées de temps de service maximales hebdomadaires fixées à l'article 5.
+
 Paragraphe 5. Les dispositions du présent article ne peuvent avoir pour effet de déroger à celles du règlement C.E.E. n° 3820-85 du 20 décembre 1985.

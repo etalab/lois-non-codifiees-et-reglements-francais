@@ -1,6 +1,6 @@
 # Article 2
 
-Pour les activités liées à cette habilitation, la société AFNOR Certification est tenue de respecter les conditions définies ci-après :
+Pour les activités liées à cette habilitation, la société AFAQ-AFNOR Certification est tenue de respecter les conditions définies ci-après :
 
 1. Etre accréditée par le Comité français d'accréditation (COFRAC) ou par un autre organisme accréditeur équivalent et maintenir un système documenté conforme à la norme NF EN 45011 pour l'ensemble des procédures relatives à la présente habilitation.
 
