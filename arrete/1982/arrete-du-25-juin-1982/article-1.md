@@ -1,0 +1,3 @@
+# Article 1
+
+Le traitement de conservation autorisé pour la préparation des semi-conserves d'animaux marins au sens des décrets susvisés du 10 février 1955 (art. 2) et du 30 décembre 1960 (art. 2), comprend l'application d'une ou plusieurs des techniques décrites ci-après, de manière à augmenter la durée de conservation de la denrée qui le subit. Dans tous les cas, le traitement appliqué doit être tel, qu'après conditionnement en récipient étanche aux liquides, le produit présente une durée de conservation d'au moins deux semaines dans les conditions d'entreposage et de commercialisation prescrites par la réglementation ou recommandées par le conditionneur.
