@@ -11,7 +11,6 @@
 - [Décret n° 61-1362 du 6 décembre 1961](decret-n-61-1362-du-6-decembre-1961)
 - [Décret n°60-1089 du 6 octobre 1960](decret-n60-1089-du-6-octobre-1960)
 - [Décret n°60-1193 du 7 novembre 1960](decret-n60-1193-du-7-novembre-1960)
-- [Décret n°60-548 du 7 juin 1960](decret-n60-548-du-7-juin-1960)
 - [Décret n°59-1405 du 9 décembre 1959](decret-n59-1405-du-9-decembre-1959)
 - [Décret n°60-965 du 9 septembre 1960](decret-n60-965-du-9-septembre-1960)
 - [Décret n°60-1317 du 10 décembre 1960](decret-n60-1317-du-10-decembre-1960)
