@@ -1,0 +1,5 @@
+# Article 60
+
+Les contrats d'assurance mentionnés au b du A du I de l'article 163 quatervicies du code général des impôts sont soit des contrats de groupe au sens de l'article L. 140-1 du code des assurances souscrits par un ou plusieurs employeurs pris individuellement ou par tout groupe d'employeurs auprès d'une entreprise relevant du code des assurances, soit des opérations collectives mentionnées à l'article L. 932-1 du code de la sécurité sociale ou au 2° du III de l'article L. 221-2 du code de la mutualité.
+
+Les dispositions des articles 2 à 17 et des c, f, g et h de l'article 21 ne s'appliquent pas à ces contrats. Lorsque ces contrats relèvent d'opérations d'épargne convertie en rente et sont souscrits dans le cadre d'accords ratifiés à la majorité des intéressés, de conventions ou d'accords collectifs conclus conformément à l'article L. 911-1 du code de la sécurité sociale, les dispositions de l'article 50 s'appliquent à ces contrats sous réserve d'une clause contraire insérée dans ces accords ou conventions.

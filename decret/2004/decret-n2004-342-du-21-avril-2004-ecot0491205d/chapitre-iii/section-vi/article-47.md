@@ -1,0 +1,19 @@
+# Article 47
+
+1° Pour les plans consistant en l'acquisition d'une rente viagère différée ou en la constitution d'une épargne convertie en rente, la cotisation ou, en cas de transfert, le montant transféré, nets de frais sur cotisation, sont affectés à l'acquisition de droits individuels relatifs à des engagements de rentes ou de capital exprimés en euros.
+
+Lorsque ces plans prévoient une provision technique de diversification, la part de cette cotisation ou de ce montant transféré, nets de frais sur cotisation, qui est affectée à la provision mathématique, est calculée d'après des taux d'intérêt et des tables de mortalité déterminés dans des conditions et limites fixées par arrêté conjoint des ministres chargés de l'économie, de la sécurité sociale et de la mutualité. Le solde est porté au compte du participant en parts de provision technique de diversification.
+
+2° Pour les plans consistant en l'acquisition d'une rente viagère différée ou en la constitution d'une épargne convertie en rente et lorsque ces plans ne prévoient pas de provision technique de diversification, le plan peut prévoir :
+
+a) Soit que la cotisation ou, en cas de transfert, le montant transféré, nets de frais sur cotisation, sont entièrement affectés à l'acquisition de provisions mathématiques relatives à des engagements exprimés en euros ;
+
+b) Soit que seule une part de la cotisation ou, en cas de transfert, du montant transféré, nets de frais sur cotisation, égale au rapport entre les provisions mathématiques du plan relatives à des engagements exprimés en euros et l'ensemble des actifs du plan affectés à la représentation de ces mêmes engagements et évalués conformément aux dispositions des articles R. 331-20-1 et R. 331-20-2 du code des assurances, de l'article R. 931-10-42 du code de la sécurité sociale ou des articles R. 212-54 et R. 212-54-1 du code de la mutualité, est affectée à des provisions mathématiques relatives à des engagements exprimés en euros.
+
+Un même plan ne peut opter que pour une seule des deux modalités précédentes. Les dispositions du précédent alinéa ne peuvent conduire à attribuer au participant un montant de provisions mathématiques supérieur au montant de la cotisation versée ou, en cas de transfert, du montant transféré, nets de frais sur cotisation.
+
+3° Pour les plans consistant en la constitution d'une épargne convertie en rente et lorsque ces plans prévoient une provision technique de diversification, le plan peut prévoir que l'adhérent affecte une part de la cotisation ou, en cas de transfert, du montant transféré, nets de frais sur cotisation, à des provisions mathématiques relatives à des engagements de capital exprimés en euros, dans des proportions et des conditions déterminées par le plan. Le solde est porté au compte du participant en parts de provision technique de diversification. Il n'est alors pas fait application pour ce plan des règles d'affectation à la provision technique de diversification prévues au 1°.
+
+4° Pour tous les plans consistant en la constitution d'une épargne convertie en rente, la cotisation ou, en cas de transfert, le montant transféré, nets de frais sur cotisation, peuvent également être affectés en tout ou partie à l'acquisition de droits individuels relatifs à des engagements de capital exprimés en unités de compte. La part de cette cotisation ou de ce montant affectée à l'acquisition de droits individuels relatifs à des engagements de capital exprimés en euros obéit aux règles d'affectation déterminées aux 1°, 2° et au 3°.
+
+5° Pour les plans mentionnés au c de l'article 25, le nombre d'unités de rente acquises par le participant est égal à la cotisation versée ou, en cas de transfert, au montant transféré par le participant, nets de frais sur cotisation, divisée par la valeur d'acquisition de l'unité de rente.

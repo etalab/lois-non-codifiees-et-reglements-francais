@@ -1,0 +1,11 @@
+# Article 9
+
+L'assemblée générale de l'association adopte des règles de déontologie auxquelles seront tenus les membres du conseil d'administration, du bureau et du personnel salarié de l'association, ainsi que les membres des comités de surveillance des plans souscrits par celle-ci. Ces règles sont remises à chaque adhérent lors de son adhésion à l'association.
+
+Les règles de déontologie ont pour objet de prévenir et de résoudre les conflits d'intérêt. Elles précisent les informations que les personnes qui pourraient être considérées comme étant en situation de conflit d'intérêt dans leur fonction, en raison notamment de leurs liens de toute nature, directs ou indirects, avec l'organisme d'assurance gestionnaire du plan ou ses prestataires de service, doivent, sous leur responsabilité, porter à la connaissance du président du conseil d'administration ou du président du comité de surveillance. Elles déterminent les cas et les conditions dans lesquels ces personnes doivent s'abstenir de participer aux délibérations, s'abstenir de voter ou proposer leur démission.
+
+Ces règles précisent les obligations de diligence et de confidentialité des personnes mentionnées au premier alinéa dans l'exercice de leur fonction.
+
+Ces règles définissent également les conditions dans lesquelles les membres du conseil d'administration, du bureau et du personnel salarié de l'association d'une part et les membres des comités de surveillance des plans souscrits par l'association d'autre part communiquent au président de l'association ou au président de leurs comités respectifs, des informations sur leur état civil, leur honorabilité, leur expérience et leurs qualifications professionnelles.
+
+Les règles de déontologie précisent, en tant que de besoin, les conditions auxquelles un actionnaire, associé, assuré, sociétaire, ou adhérent d'un organisme d'assurance, d'une société ou d'un organisme appartenant à un groupe au sens de l'article L. 345-2 du code des assurances, de l'article L. 931-34 du code de la sécurité sociale, de l'article L. 212-7 du code de la mutualité répondent aux conditions fixées au deuxième alinéa du II de l'article 108 de la loi du 21 août 2003 susvisée pour la composition du comité de surveillance.

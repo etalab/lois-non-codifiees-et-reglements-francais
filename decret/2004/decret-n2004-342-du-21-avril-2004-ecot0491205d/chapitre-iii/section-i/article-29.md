@@ -1,0 +1,5 @@
+# Article 29
+
+Les placements détenus par l'organisme d'assurance en représentation d'engagements autres que ceux relatifs aux plans d'épargne retraite populaire ne peuvent changer d'affectation et être affectés à ces derniers qu'à condition de relever de l'une des catégories de placements définies aux 1° et 2° de l'article R. 131-1 du code des assurances ou aux 1° et 2° de l'article R. 932-3-1 du code de la sécurité sociale ou aux 1° et 2° de l'article R. 223-1 du code de la mutualité. Les mêmes dispositions s'appliquent aux placements d'un plan d'épargne retraite populaire qui changent d'affectation et sont affectés en représentation d'autres engagements de l'organisme d'assurance, y compris ceux relatifs à d'autres plans d'épargne retraite populaire.
+
+L'enregistrement comptable des opérations mentionnées au premier alinéa est identique à celui qui résulte d'une opération de cession d'actifs pour le portefeuille de placements d'origine et d'une opération concomitante d'acquisition d'actifs pour le portefeuille de placements d'accueil.
