@@ -182,6 +182,7 @@
 - [Décret n°94-674 du 8 août 1994 (PRMX9400090D)](decret-n94-674-du-8-aout-1994-prmx9400090d)
 - [Décret n°94-676 du 8 août 1994 (INTX9400099D)](decret-n94-676-du-8-aout-1994-intx9400099d)
 - [Décret n°94-677 du 8 août 1994 (DEFX9400096D)](decret-n94-677-du-8-aout-1994-defx9400096d)
+- [Décret n°94-791 du 8 septembre 1994 (DEFC9401781D)](decret-n94-791-du-8-septembre-1994-defc9401781d)
 - [Décret n°76-1133 du 9 décembre 1976](decret-n76-1133-du-9-decembre-1976)
 - [Décret n°90-219 du 9 mars 1990 (MENT8902718D)](decret-n90-219-du-9-mars-1990-ment8902718d)
 - [Décret n°92-25 du 9 janvier 1992 (MENT9102729D)](decret-n92-25-du-9-janvier-1992-ment9102729d)
