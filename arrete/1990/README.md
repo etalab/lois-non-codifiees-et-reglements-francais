@@ -713,7 +713,6 @@
 - [Arrêté du 25 octobre 1990 (SPSS9010623A)](arrete-du-25-octobre-1990-spss9010623a)
 - [Arrêté du 25 septembre 1990 (BUDR9005050A)](arrete-du-25-septembre-1990-budr9005050a)
 - [Arrêté du 25 septembre 1990 (EQUT9000958A)](arrete-du-25-septembre-1990-equt9000958a)
-- [Arrêté du 25 septembre 1990 (EQUT9001316A)](arrete-du-25-septembre-1990-equt9001316a)
 - [Arrêté du 26 décembre 1989 (MENN9000142A)](arrete-du-26-decembre-1989-menn9000142a)
 - [Arrêté du 26 décembre 1989 (SPSH9000172A)](arrete-du-26-decembre-1989-spsh9000172a)
 - [Arrêté du 26 décembre 1989 (SPSI8902739A)](arrete-du-26-decembre-1989-spsi8902739a)
