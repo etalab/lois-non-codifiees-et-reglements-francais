@@ -1,25 +1,15 @@
 # Article 9
 
-Le ministre chargé de la jeunesse et des sports désigne pour une durée de trois ans les membres du jury régional.
+Le jury, présidé par le directeur régional de la jeunesse et des sports ou son représentant, est composé de :
 
-1° Celui-ci comprend à parts égales :
+- quatre représentants de l'administration ;
 
-Des représentants de l'administration ;
+- quatre représentants des organismes de formation ;
 
-Des membres choisis notamment :
+- deux représentants des organisations d'employeurs représentatives dans les domaines de l'éducation populaire et de la jeunesse ;
 
-- pour un tiers parmi les organisations d'employeurs représentatives au plan national dans le domaine de l'éducation populaire et de la jeunesse ;
+- deux représentants des organisations syndicales représentatives des salariés au niveau national.
 
-- pour un tiers parmi les organismes de formation ;
+Lorsque les effectifs des candidats le justifient, le directeur régional de la jeunesse et des sports peut constituer plusieurs jurys.
 
-- pour un tiers parmi les organisations syndicales représentatives des salariés au niveau national.
-
-2° Le jury peut désigner en son sein des sous-commissions et, en tant que de besoin, solliciter le concours d'experts, notamment pour les épreuves d'évaluation. Ceux-ci participent aux délibérations avec voix consultative.
-
-3° Le jury délibère sur les rapports établis par les sous-commissions.
-
-4° La présidence du jury est assurée par le directeur régional ou son représentant.
-
-5° A titre exceptionnel, plusieurs jurys régionaux peuvent être créés dans une même région.
-
-6° Le directeur régional, sur proposition du jury, arrête la liste des candidats admis à chacune des épreuves mentionnées à l'article 10.
+Le directeur régional de la jeunesse et des sports, sur proposition du jury, arrête la liste des candidats admis à chacune des épreuves mentionnées à l'article 10.
