@@ -1,0 +1,5 @@
+# Article 7
+
+Pour les nominations dans le corps des officiers contrôleurs en chef prononcées au titre de 1987, 1988, 1989 et 1990 [*années*] et par dérogation aux dispositions de l'article 2, peuvent se présenter à la sélection professionnelle les officiers contrôleurs principaux de la circulation aérienne âgés d'au moins trente-cinq ans au 1er janvier [*date*] de l'année de recrutement qui occupent certaines fonctions d'encadrement, d'instruction ou d'études définies par un arrêté du ministre chargé de l'aviation civile et qui ont exercé l'une des qualifications prévues à l'article 13 du décret du 6 août 1964 susvisé pendant [*durée*] huit, neuf, dix et onze ans pour les nominations prononcées respectivement au titre de 1987, 1988, 1989 et 1990.
+
+La durée d'exercice des qualifications est appréciée au 1er août 1987 pour les recrutements effectués au titre de l'année 1987 et à la date de clôture des inscriptions à la sélection professionnelle pour celles prononcées au titre de 1988, 1989 et 1990.

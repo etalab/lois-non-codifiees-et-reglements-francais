@@ -1,0 +1,3 @@
+# Article 7
+
+Lorsque le fonctionnaire territorial est détaché auprès d'une collectivité ou d'un établissement régi par la loi n° 84-53 du 26 janvier 1984 précitée, ou auprès de l'Etat ou pour l'accomplissement d'un stage ou d'une période de scolarité préalable à la titularisation dans un emploi permanent d'une collectivité ou d'un établissement public régi par le statut de la fonction publique territoriale, ou pour suivre un cycle de préparation à un concours donnant accès à l'un de ces emplois, le comité médical compétent est celui siégeant dans le département où le fonctionnaire exerce ses fonctions selon la règle de compétence géographique prévue à l'article 6 ci-dessus.
