@@ -791,7 +791,6 @@
 - [Arrêté du 22 juin 1992 (ENVN9250168A)](arrete-du-22-juin-1992-envn9250168a)
 - [Arrêté du 22 juin 1992 (INDB9200561A)](arrete-du-22-juin-1992-indb9200561a)
 - [Arrêté du 22 juin 1992 (MERP9200109A)](arrete-du-22-juin-1992-merp9200109a)
-- [Arrêté du 22 juin 1992 (SANM9201494A)](arrete-du-22-juin-1992-sanm9201494a)
 - [Arrêté du 22 mars 1983](arrete-du-22-mars-1983)
 - [Arrêté du 22 novembre 1991 (ECOT9192011A)](arrete-du-22-novembre-1991-ecot9192011a)
 - [Arrêté du 22 novembre 1991 (JUSC9120992A)](arrete-du-22-novembre-1991-jusc9120992a)
