@@ -1,0 +1,3 @@
+# ÉMOLUMENTS HOSPITALIERS DES PRATICIENS ADJOINTS CONTRACTUELS Décret n° 95-569 du 6 mai 1995
+
+- [Article ANNEXE VI](article-annexe-vi.md)

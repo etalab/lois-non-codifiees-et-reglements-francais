@@ -256,6 +256,7 @@
 - [Décret n°98-1256 du 29 décembre 1998 (AGRG9801877D)](decret-n98-1256-du-29-decembre-1998-agrg9801877d)
 - [Décret n°98-1261 du 29 décembre 1998 (AGRM9802455D)](decret-n98-1261-du-29-decembre-1998-agrm9802455d)
 - [Décret n°98-1308 du 29 décembre 1998 (MESN9823940D)](decret-n98-1308-du-29-decembre-1998-mesn9823940d)
+- [Décret n°99-244 du 29 mars 1999 (ECOF9920891D)](decret-n99-244-du-29-mars-1999-ecof9920891d)
 - [Décret n°99-58 du 29 janvier 1999 (INTA9900016D)](decret-n99-58-du-29-janvier-1999-inta9900016d)
 - [Décret du 30 décembre 1998 (ECOC9800135D)](decret-du-30-decembre-1998-ecoc9800135d)
 - [Décret n°70-1094 du 30 novembre 1970](decret-n70-1094-du-30-novembre-1970)

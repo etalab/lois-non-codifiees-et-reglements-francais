@@ -1,13 +1,13 @@
 # Article 5
 
-La sous-direction des affaires financières et de l'informatique comprend [*composition*] :
+La sous-direction des affaires financières et de l'informatique comprend :
 
--le bureau des affaires budgétaires et de la gestion financière ;
+Le bureau des affaires budgétaires et de la gestion financière ;
 
--le bureau de la gestion des immeubles et du matériel ;
+Le bureau de la logistique ;
 
--le bureau des contrats et marchés publics ;
+Le bureau des contrats et marchés publics ;
 
--le bureau des études et applications relatives à l'informatique ;
+Le bureau de l'informatique et des télécommunications ;
 
--le bureau d'exploitation du centre de calcul.
+Le bureau de la gestion du parc automobile.

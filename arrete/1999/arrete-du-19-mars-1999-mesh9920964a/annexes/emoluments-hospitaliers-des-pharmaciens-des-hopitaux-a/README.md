@@ -1,0 +1,3 @@
+# ÉMOLUMENTS HOSPITALIERS DES PHARMACIENS DES HÔPITAUX À TEMPS PARTIEL Décret n° 96-182 du 7 mars 1996.
+
+- [Article ANNEXE VII](article-annexe-vii.md)
