@@ -1,3 +1,5 @@
 # Article 12
 
-Les filiales des services mentionnés à l'article 10 ne peuvent prendre que des participations minoritaires à la coproduction des oeuvres cinématographiques.
+Afin de contribuer au développement de la production cinématographique indépendante, les services mentionnés à l'article 10 ci-dessus sont tenus d'effectuer chaque année au moins 75 % de leurs dépenses consacrées à l'acquisition de droits de diffusion d'oeuvres cinématographiques d'expression originale française et d'oeuvres répondant aux conditions prévues à l'article 10 du décret n° 99-130 du 24 février 1999 relatif au soutien financier de l'industrie cinématographique qui n'ont pas été diffusées par un service de télévision autre que pratiquant le paiement à la séance, soit auprès d'entreprises de production indépendantes, soit auprès d'entreprises qui ne prennent pas personnellement ou ne partagent pas solidairement l'initiative et la responsabilité financière, technique et artistique des oeuvres considérées et n'en garantissent pas la bonne fin.
+
+La convention prévue à l'article 28 de la loi du 30 septembre 1986 susvisée précise les conditions d'application de l'alinéa précédent, et notamment le pourcentage retenu. Cette convention peut prévoir une dérogation à l'obligation définie à cet alinéa pour tenir compte de la situation économique du service.
