@@ -2,6 +2,7 @@
 
 - [Titre Ier : Organisation](titre-ier)
 - [Titre II : Des négociations](titre-ii)
+- [Titre III : Des certifications et légalisations.](titre-iii)
 - [Titre IV : De la cote des cours.](titre-iv)
 - [Titre V : Dispositions particulières.](titre-v)
 - [Article 84](article-84.md)
