@@ -941,6 +941,8 @@
 - [Arrêté du 30 juillet 2004 (SANP0422322A)](arrete-du-30-juillet-2004-sanp0422322a)
 - [Arrêté du 30 juin 2004 (SANH0422283A)](arrete-du-30-juin-2004-sanh0422283a)
 - [Arrêté du 30 juin 2004 (SOCT0411354A)](arrete-du-30-juin-2004-soct0411354a)
+- [Arrêté du 30 novembre 2004 (MENA0402644A)](arrete-du-30-novembre-2004-mena0402644a)
+- [Arrêté du 30 novembre 2004 (MENS0402640A)](arrete-du-30-novembre-2004-mens0402640a)
 - [Arrêté du 30 septembre 2003 (JUSC0320080A)](arrete-du-30-septembre-2003-jusc0320080a)
 - [Arrêté du 30 septembre 2004 (AGRD0402210A)](arrete-du-30-septembre-2004-agrd0402210a)
 - [Arrêté du 30 septembre 2004 (AGRG0402162A)](arrete-du-30-septembre-2004-agrg0402162a)

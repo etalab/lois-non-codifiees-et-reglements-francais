@@ -2,6 +2,8 @@
 
 Le nombre de vacations par cycle de travail est en moyenne égal à la moitié du nombre de jours du cycle de travail, la moyenne étant calculée sur deux cycles consécutifs.
 
+Lorsque la vacation complémentaire prévue à l'article 3 bis est mise en oeuvre, le nombre de vacations par cycle de travail, calculé en moyenne sur deux cycles consécutifs, peut, pour l'agent concerné et durant le cycle concerné, dépasser ponctuellement la moitié du nombre de jours du cycle de travail.
+
 Durant la période comprise entre 5 heures et 24 heures, un agent ne peut effectuer qu'une seule vacation.
 
 Une vacation ne peut être programmée pour une durée inférieure à 5 heures.
