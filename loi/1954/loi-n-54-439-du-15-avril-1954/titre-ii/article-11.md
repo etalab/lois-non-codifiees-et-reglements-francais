@@ -1,0 +1,3 @@
+# Article 11
+
+Les officiers ou agents de la police administrative ou judiciaire doivent, lors de la constatation d'un crime, d'un délit ou d'un accident de la circulation, faire procéder, sur la personne de l'auteur présumé, aux vérifications médicales, cliniques et biologiques, destinées à établir la preuve de la présence d'alcool dans son organisme, lorsqu'il semble que le crime, le délit ou l'accident a été commis ou causé sous l'empire d'un état alcoolique. Dans le cas d'accident matériel, il ne sera procédé à cet examen que si le ou les auteurs présumés semblent en état d'ivresse. Dans tous les cas où il peut être utile, cet examen est également effectué sur la victime.
