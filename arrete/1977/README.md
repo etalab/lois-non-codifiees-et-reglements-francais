@@ -21,6 +21,7 @@
 - [Arrêté du 7 juillet 1977](arrete-du-7-juillet-1977)
 - [Arrêté du 7 mars 1977](arrete-du-7-mars-1977)
 - [Arrêté du 8 décembre 1976](arrete-du-8-decembre-1976)
+- [Arrêté du 8 juillet 1977](arrete-du-8-juillet-1977)
 - [Arrêté du 9 mars 1977](arrete-du-9-mars-1977)
 - [Arrêté du 10 décembre 1976](arrete-du-10-decembre-1976)
 - [Arrêté du 10 mars 1977](arrete-du-10-mars-1977)

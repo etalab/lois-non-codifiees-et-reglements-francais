@@ -1,0 +1,3 @@
+# Article 2
+
+La caisse nationale [*attributions*] détermine la politique générale de l'organisation, assure son unité financière et la représente auprès des pouvoirs publics. Elle anime, coordonne et contrôle l'action des caisses de base et des unions de caisses. Elle établit et entretient toutes relations utiles en vue d'actions communes ou concertées avec les organismes assurant la protection sociale des travailleurs non-salariés, notamment avec ceux du régime d'assurance vieillesse des professions industrielles et commerciales et du régime d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles.
