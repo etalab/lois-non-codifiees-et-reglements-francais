@@ -482,6 +482,7 @@
 - [Décret n°86-1073 du 30 septembre 1986](decret-n86-1073-du-30-septembre-1986)
 - [Décret n°86-1168 du 30 octobre 1986](decret-n86-1168-du-30-octobre-1986)
 - [Décret n°86-1170 du 30 octobre 1986](decret-n86-1170-du-30-octobre-1986)
+- [Décret n°86-1382 du 30 décembre 1986](decret-n86-1382-du-30-decembre-1986)
 - [Décret n°86-146 du 30 janvier 1986](decret-n86-146-du-30-janvier-1986)
 - [Décret n°86-150 du 30 janvier 1986](decret-n86-150-du-30-janvier-1986)
 - [Décret n°86-153 du 30 janvier 1986](decret-n86-153-du-30-janvier-1986)

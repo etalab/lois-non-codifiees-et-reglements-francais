@@ -1,4 +1,4 @@
-# Arrêté du 11 août 1986 relatif au traitement des gardes de la chasse et de la faune sauvage
+# Arrêté du 11 août 1986 relatif aux dates de paiement des prestations de vieillesse du régime général
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
