@@ -1,0 +1,3 @@
+# Article 17
+
+Lorsque l'arrêté réglementant la catégorie le prévoit, un réparateur dont le système d'assurance de la qualité n'est pas approuvé peut remettre un instrument de mesure en service après s'être assuré qu'il satisfait aux exigences réglementaires et avoir apposé sa marque d'identification sur les scellements de l'instrument, ainsi que la vignette provisoire définie à l'article 51 ci-après. L'instrument peut alors être utilisé pendant un délai de quinze jours au-delà duquel la vérification primitive par tierce partie devra avoir été effectuée. L'arrêté réglementant la catégorie peut prévoir un délai spécifique.

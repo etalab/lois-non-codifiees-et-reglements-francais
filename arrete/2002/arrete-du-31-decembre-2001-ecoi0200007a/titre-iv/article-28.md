@@ -1,0 +1,3 @@
+# Article 28
+
+Lorsqu'un instrument ou des éléments d'un instrument légalement fabriqués et commercialisés dans un autre Etat membre de l'Union européenne, dans un Etat partie à l'accord sur l'Espace économique européen ou dans un Etat ayant conclu un accord de reconnaissance à cet effet avec la France, fait l'objet d'une demande de vérification de l'installation, les essais et, le cas échéant, les certifications partielles effectués dans cet Etat sont acceptés s'ils présentent des garanties équivalentes aux essais ou certifications prescrits en France et si leur résultats ou certificats peuvent être mis à la disposition de l'organisme chargé de la vérification de l'installation.

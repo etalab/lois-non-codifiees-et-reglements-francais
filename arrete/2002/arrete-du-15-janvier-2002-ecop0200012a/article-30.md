@@ -1,0 +1,3 @@
+# Article 30
+
+La directrice du personnel, de la modernisation et de l'administration, le directeur général des impôts, le directeur général de la comptabilité publique, le directeur général des douanes et droits indirects, le directeur général de l'Institut national de la statistique et des études économiques, le directeur général de la concurrence, de la consommation et de la répression des fraudes et le directeur de l'action régionale et de la petite et moyenne industrie sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
