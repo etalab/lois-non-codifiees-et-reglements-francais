@@ -778,7 +778,6 @@
 - [Arrêté du 22 février 1994 (EQUH9400404A)](arrete-du-22-fevrier-1994-equh9400404a)
 - [Arrêté du 22 février 1994 (EQUH9400405A)](arrete-du-22-fevrier-1994-equh9400405a)
 - [Arrêté du 22 février 1994 (EQUT9400397A)](arrete-du-22-fevrier-1994-equt9400397a)
-- [Arrêté du 22 février 1994 (INDP9400265A)](arrete-du-22-fevrier-1994-indp9400265a)
 - [Arrêté du 22 février 1994 (JUSF9450041A)](arrete-du-22-fevrier-1994-jusf9450041a)
 - [Arrêté du 22 février 1994 (MCCK9300400A)](arrete-du-22-fevrier-1994-mcck9300400a)
 - [Arrêté du 22 juillet 1994 (ECOC9400061A)](arrete-du-22-juillet-1994-ecoc9400061a)

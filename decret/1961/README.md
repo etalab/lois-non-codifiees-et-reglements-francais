@@ -8,7 +8,6 @@
 - [Décret n°61-447 du 3 mai 1961](decret-n61-447-du-3-mai-1961)
 - [Décret n°61-1304 du 4 décembre 1961](decret-n61-1304-du-4-decembre-1961)
 - [Décret n°61-316 du 5 avril 1961](decret-n61-316-du-5-avril-1961)
-- [Décret n°64-1213 du 5 décembre 1964](decret-n64-1213-du-5-decembre-1964)
 - [Décret n°65-184 du 5 mars 1965](decret-n65-184-du-5-mars-1965)
 - [Décret n°61-440 du 5 mai 1961](decret-n61-440-du-5-mai-1961)
 - [Décret du 6 mars 1961](decret-du-6-mars-1961)
