@@ -8,7 +8,7 @@ Le dossier [*contenu*] comporte une copie de celles des pièces figurant dans le
 
 2° Les décisions d'avancement d'échelon et de grade ;
 
-3° Les décisions concernant la mise à disposition, le détachement, la position hors cadre, la disponibilité, la position d'accomplissement du service national, la mise en congé parental, la mise en congé de longue durée ou de longue maladie, la décharge de fonctions pour les emplois mentionnés aux articles 47 et 53 de la loi du 26 janvier 1984 précitée, l'acceptation de démission, la mise à la retraite ou la radiation des cadres pour quelque motif que ce soit, ainsi que le licenciement pour insuffisance professionnelle ;
+3° Les décisions concernant la mise à disposition, le détachement, la position hors cadre, la disponibilité, la position d'accomplissement du service national, la mise en congé parental, la mise en congé de longue durée ou de longue maladie, l'acceptation de démission, la mise à la retraite ou la radiation des cadres pour quelque motif que ce soit, ainsi que le licenciement pour insuffisance professionnelle ;
 
 4° Les décisions d'affectation ou de mutation ;
 
