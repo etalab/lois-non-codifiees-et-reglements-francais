@@ -51,3 +51,7 @@ a) donnnant lieu à la délivrance d'une copie intégrale ou par extrait des ins
 b) donnant lieu à la délivrance d'un certificat négatif d'inscription : 10 F [*francs*] par certificat;
 
 c) donnant lieu à réponse orale, sur réquisition écrite, non suivi de la délivrance d'une copie ou d'un certificat : 2 F [*francs*] par acte ou convention distincte, avec minimum de 10 F [*francs*] par film.
+
+d) Donnant lieu à interrogation du service télématique :
+
+tarification prévue par le palier T-46 du numéro d'appel 36-17.
