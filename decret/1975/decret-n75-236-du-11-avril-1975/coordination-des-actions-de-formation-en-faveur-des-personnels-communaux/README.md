@@ -1,0 +1,4 @@
+# COORDINATION DES ACTIONS DE FORMATION EN FAVEUR DES PERSONNELS COMMUNAUX.
+
+- [Article 12](article-12.md)
+- [Article 13](article-13.md)
