@@ -9,3 +9,5 @@ Sont dispensés de stage et peuvent être dispensés de l'examen professionnel d
 3° Les anciens notaires ;
 
 4° Les greffiers et anciens greffiers de tribunal d'instance ou de tribunal de police, titulaires de charge.
+
+5° Les anciens syndics et administrateurs judiciaires, les anciens administrateurs judiciaires et mandataires liquidateurs.
