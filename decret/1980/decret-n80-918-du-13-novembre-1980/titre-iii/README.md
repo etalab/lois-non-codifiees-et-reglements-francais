@@ -6,3 +6,4 @@
 - [Article 19](article-19.md)
 - [Article 20](article-20.md)
 - [Article 17–1](article-171.md)
+- [Article 17–2](article-172.md)

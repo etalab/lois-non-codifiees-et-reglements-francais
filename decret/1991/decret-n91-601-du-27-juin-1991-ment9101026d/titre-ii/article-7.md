@@ -2,13 +2,11 @@
 
 Le conseil d'administration comprend vingt-huit membres :
 
-1° Sept membres de droit :
+1° Six membres de droit :
 
 - un représentant du ministre chargé de l'enseignement supérieur ;
 
 - le directeur régional des affaires culturelles pour la région Rhône-Alpes ou son représentant ;
-
-- le directeur régional de l'industrie, de la recherche et de l'environnement pour la région Rhône-Alpes ou son représentant ;
 
 - le président de la chambre de commerce et d'industrie de la ville de Lyon ou son représentant ;
 
@@ -18,13 +16,15 @@ Le conseil d'administration comprend vingt-huit membres :
 
 - le président du conseil général du département du Rhône ou son représentant ;
 
-2° Sept personnalités extérieures désignées par le recteur de l'académie de Lyon, en raison de leur compétence dans les domaines intéressant les missions de l'école, dont :
+2° Huit personnalités extérieures choisies en raison de leur compétence dans les domaines intéressant les missions de l'école, dont sept sont désignées par le recteur de l'académie de Lyon :
 
-- quatre sur proposition des organisations professionnelles les plus représentatives des métiers concernés ;
+Trois sur proposition des organisations professionnelles les plus représentatives des métiers concernés ;
 
-- deux sur proposition des autres membres du conseil ;
+Trois sur proposition des autres membres du conseil, de préférence parmi les anciens élèves ;
 
-- et un représentant des établissements publics d'enseignement supérieur de l'académie de Lyon ;
+Un représentant des établissements publics d'enseignement supérieur de l'académie de Lyon ;
+
+Et le directeur d'un théâtre national ou d'un centre dramatique national, ou d'une compagnie implantée, désigné par le ministre chargé de l'enseignement supérieur ;
 
 3° Quatorze membres élus :
 
