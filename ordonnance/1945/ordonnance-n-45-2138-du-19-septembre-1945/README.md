@@ -6,4 +6,3 @@
 - [Titre III : Du tableau.](titre-iii)
 - [Titre IV : De la discipline.](titre-iv)
 - [Titre V : Des commissaires du gouvernement.](titre-v)
-- [Titre VI : Dispositions transitoires](titre-vi)

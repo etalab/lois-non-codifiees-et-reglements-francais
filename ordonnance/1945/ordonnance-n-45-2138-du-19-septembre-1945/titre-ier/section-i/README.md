@@ -5,4 +5,3 @@
 - [Article 4](article-4.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
-- [Article 7 ter](article-7-ter.md)

@@ -1,5 +1,0 @@
-# Article 9 bis
-
-Les personnes qui, dans les quatre ans de la publication de la loi n° 68-946 du 31 octobre 1968, auront obtenu l'un des diplômes dont la liste sera fixée par arrêté du ministre de l'éducation nationale et du ministre de l'économie et des finances pourront, dans ce même délai, demander leur inscription au tableau de l'ordre en qualité de comptable agréé. Les intéressés devront justifier de deux années de pratique professionnelle comptable, jugée suffisante par le conseil de l'ordre et acquise chez un membre de l'ordre ou dans une entreprise publique ou privée, et remplir, en outre, les conditions prévues par l'article 9 modifié ci-dessus.
-
-Les personnes titulaires, à la date de publication de la loi n° 68-946 du 31 octobre 1968, de l'un des diplômes ou certificats d'aptitude réglementaires conservent le droit de demander, jusqu'à une date qui sera fixée par décret, leur inscription en qualité de comptable agréé, sous réserve de satisfaire aux conditions exigées par le statut professionnel.

@@ -1,3 +1,0 @@
-# Article 64
-
-Sont considérés comme remplissant les conditions de compétence technique fixées sous le n° 5 de l'article 9, les professionnels exerçant effectivement au 21 aout 1956 depuis cinq années consécutives, soit pour leur compte, soit pour le compte de personnes ou sociétés *fiduciaires* spécialisées dans la tenue, le contrôle ou l'expertise des comptabilités, une des professions de comptable agréé ou d'expert comptable, telles qu'elles sont définies aux articles 2 et 8 *expérience professionnelle* s'ils remplissent, en outre, l'une des conditions prévues sous les n° 1 et 2 du paragraphe B de l'article 60 ou s'ils sont titulaires du diplôme de comptable délivré par la société de comptabilité de France *accès à la profession - conditions requises.
