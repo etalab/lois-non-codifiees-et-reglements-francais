@@ -1,0 +1,6 @@
+# SECTION 1 : TAXATION
+
+- [PARAGRAPHE 1 : MEMBRES DES COMMISSIONS.](paragraphe-1)
+- [PARAGRAPHE 3 : TEMOINS.](paragraphe-3)
+- [PARAGRAPHE 4 : EXPERTS.](paragraphe-4)
+- [PARAGRAPHE 5 : FRAIS DE DEPLACEMENT.](paragraphe-5)
