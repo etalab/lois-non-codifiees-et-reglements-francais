@@ -1,5 +1,6 @@
 # 1996
 
+- [Arrêté du 1 avril 1996 (JUSG9660024A)](arrete-du-1-avril-1996-jusg9660024a)
 - [Arrêté du 1 avril 1996 (TASS9621015A)](arrete-du-1-avril-1996-tass9621015a)
 - [Arrêté du 1 février 1996 (AGRG9600245A)](arrete-du-1-fevrier-1996-agrg9600245a)
 - [Arrêté du 1 février 1996 (BUDL9600023A)](arrete-du-1-fevrier-1996-budl9600023a)
@@ -46,6 +47,7 @@
 - [Arrêté du 4 mars 1996 (MENL9503095A)](arrete-du-4-mars-1996-menl9503095a)
 - [Arrêté du 4 mars 1996 (MENL9503097A)](arrete-du-4-mars-1996-menl9503097a)
 - [Arrêté du 4 octobre 1995 (EQUS9501451A)](arrete-du-4-octobre-1995-equs9501451a)
+- [Arrêté du 5 avril 1996 (EQUZ9600004A)](arrete-du-5-avril-1996-equz9600004a)
 - [Arrêté du 5 avril 1996 (INTF9600161A)](arrete-du-5-avril-1996-intf9600161a)
 - [Arrêté du 5 décembre 1995 (INTC9500759A)](arrete-du-5-decembre-1995-intc9500759a)
 - [Arrêté du 5 février 1996 (AGRA9502421A)](arrete-du-5-fevrier-1996-agra9502421a)
@@ -55,6 +57,7 @@
 - [Arrêté du 5 janvier 1996 (ECOB9550089A)](arrete-du-5-janvier-1996-ecob9550089a)
 - [Arrêté du 5 janvier 1996 (EQUF9501717A)](arrete-du-5-janvier-1996-equf9501717a)
 - [Arrêté du 5 janvier 1996 (TASG9610111A)](arrete-du-5-janvier-1996-tasg9610111a)
+- [Arrêté du 5 mars 1996 (DEFL9601339A)](arrete-du-5-mars-1996-defl9601339a)
 - [Arrêté du 5 mars 1996 (DEFM9601206A)](arrete-du-5-mars-1996-defm9601206a)
 - [Arrêté du 5 mars 1996 (JUSG9660023A)](arrete-du-5-mars-1996-jusg9660023a)
 - [Arrêté du 5 mars 1996 (MCCB9600141A)](arrete-du-5-mars-1996-mccb9600141a)
@@ -119,6 +122,7 @@
 - [Arrêté du 11 mars 1996 (AGRG9600534A)](arrete-du-11-mars-1996-agrg9600534a)
 - [Arrêté du 11 mars 1996 (ENVP9540331A)](arrete-du-11-mars-1996-envp9540331a)
 - [Arrêté du 11 mars 1996 (ENVP9540332A)](arrete-du-11-mars-1996-envp9540332a)
+- [Arrêté du 11 mars 1996 (FCEC9610061A)](arrete-du-11-mars-1996-fcec9610061a)
 - [Arrêté du 12 février 1996 (DEFD9601189A)](arrete-du-12-fevrier-1996-defd9601189a)
 - [Arrêté du 12 février 1996 (ECOS9650009A)](arrete-du-12-fevrier-1996-ecos9650009a)
 - [Arrêté du 12 février 1996 (FPPA9610007A)](arrete-du-12-fevrier-1996-fppa9610007a)
