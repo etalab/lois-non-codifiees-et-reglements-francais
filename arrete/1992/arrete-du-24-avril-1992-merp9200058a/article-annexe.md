@@ -86,7 +86,7 @@
 </td>
 <td>Bordeaux (Gironde)</td>
 <td>
-<p align="center">40</p>
+<p align="center">41</p>
 </td>
 </tr>
 <tr>
