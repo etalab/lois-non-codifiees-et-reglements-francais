@@ -1,0 +1,5 @@
+# Arrêté du 11 janvier 1982LIMITES DES TRANCHES DU TARIF DE LA RETENUE A LA SOURCE APPLICABLE AUX SALAIRES, PENSIONS ET RENTES VIAGERES VERSES EN 1982 A DES PERSONNES DOMICILIEES HORS DE FRANCE *à l'étranger*.
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
