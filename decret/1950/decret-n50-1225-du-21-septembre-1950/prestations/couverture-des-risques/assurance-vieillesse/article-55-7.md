@@ -1,15 +1,11 @@
 # Article 55-7
 
-Seuls peuvent bénéficier de l'intégralité du minimum de base [*de l'assurance vieillesse - retraite*] prévu à l'article L. 345 du code de la sécurité sociale les titulaires d'une pension de vieillesse substituée à une pension d'invalidité et les titulaires de pensions correspondant à une durée d'assurance d'au moins quinze années (soit 60 trimestres) accomplies dans le régime des assurances sociales agricoles.
+Le montant minimum auquel est porté la pension de vieillesse au taux plein en application du deuxième alinéa du paragraphe 3 de l'article 1er bis du décret n° 51-727 du 6 juin 1951 est fixé à 26.400 F par an au 1er avril 1983.
 
-Lorsque cette durée est inférieure à quinze années, le minimum de base est réduit à autant de soixantièmes que l'assuré justifie de trimestres d'assurance.
+Ce montant est, à compter du 1er janvier 1984, revalorisé aux mêmes dates et selon les mêmes taux que les pensions de vieillesse du régimes des assurances sociales agricoles.
 
-Au minimum de base entier ou réduit s'ajoutent, le cas échéant [*majorations*] :
+Seuls peuvent bénéficier de l'intégralité du montant minimum [*de l'assurance vieillesse - retraite*]  les titulaires d'une pension de vieillesse correspondant à une durée d'assurance d'au moins cent cinquante trimestres accomplie dans le régime des assurances sociales agricoles [*nombre d'annuités*].
 
-La rente des assurances sociales au 31 décembre 1940 fixée forfaitairement à 10 p. 100 du montant des cotisations d'assurance vieillesse afférentes à la période correspondante ;
+Lorsque cette durée est inférieure à cent cinquante trimestres, le montant minimum est réduit à autant de cent-cinquantièmes que l'assuré justifie de trimestres d'assurance.
 
-La rente résultant des versements effectués au titre des retraites ouvrières et paysannes, calculée selon les modalités prévues au premier alinéa de l'article L. 350 du code de la sécurité sociale ;
-
-Une bonification de 10 p. 100 du montant du minimum de base attribuée pour les bénéficiaires ayant eu au moins trois enfants ou les ayant élevés dans les conditions prévues à l'article 2 (par. 1er-II, 2ème alinéa) du décret n° 51-727 du 6 juin 1951 ;
-
-La majoration pour conjoint à charge déterminée sur les bases fixées à l'article 71 bis (par. 1er-II) ci-après.
+Au montant minimum entier ou réduit s'ajoutent, le cas échéant, les bonification, majoration et rente mentionnées au troisième alinéa du paragraphe 3 de l'article 1er bis du décret n° 51-727 du 6 juin 1951.
