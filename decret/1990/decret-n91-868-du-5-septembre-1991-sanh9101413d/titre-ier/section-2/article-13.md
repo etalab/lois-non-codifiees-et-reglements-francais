@@ -6,6 +6,8 @@ Echelons
 
 Classe exceptionnelle
 
+créée à compter du 1er août 1994
+
 8e  échelon.
 
 7e  échelon : ancienneté moyenne : 4 ans
@@ -24,19 +26,33 @@ Classe exceptionnelle
 
 Classe supérieure
 
-4e  échelon.
+créée à compter du 1er août 1996
 
-3e  échelon : ancienneté moyenne : 4 ans
+8e  échelon : ancienneté moyenne :
 
-2e  échelon : ancienneté moyenne : 3 ans
+7e  échelon : ancienneté moyenne : 4 ans
 
-1er échelon : ancienneté moyenne : 2 ans
+6e  échelon : ancienneté moyenne : 3 ans
+
+5e  échelon : ancienneté moyenne : 3 ans
+
+4e  échelon : ancienneté moyenne : 2 ans
+
+3e  échelon : ancienneté moyenne : 2 ans
+
+2e  échelon : ancienneté moyenne : 2 ans
+
+1er échelon : ancienneté moyenne : 1 ans 6 mois
 
 Classe normale
 
-12e  échelon.
+créée à compter du 1er août 1996
 
-11e  échelon : ancienneté moyenne : 4 ans
+13e  échelon : ancienneté moyenne :
+
+12e  échelon : ancienneté moyenne : 4 ans
+
+11e  échelon : ancienneté moyenne : 3 ans
 
 10e  échelon : ancienneté moyenne : 3 ans
 
@@ -46,7 +62,7 @@ Classe normale
 
 7e  échelon : ancienneté moyenne : 3 ans
 
-6e  échelon : ancienneté moyenne : 2 ans
+6e  échelon : ancienneté moyenne : 1 an 6 mois
 
 5e  échelon : ancienneté moyenne : 1 an 6 mois
 
