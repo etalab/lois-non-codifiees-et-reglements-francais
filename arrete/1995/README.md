@@ -710,8 +710,6 @@
 - [Arrêté du 16 février 1995 (AGRG9500424A)](arrete-du-16-fevrier-1995-agrg9500424a)
 - [Arrêté du 16 février 1995 (DEFT9501220A)](arrete-du-16-fevrier-1995-deft9501220a)
 - [Arrêté du 16 février 1995 (ECOC9400174A)](arrete-du-16-fevrier-1995-ecoc9400174a)
-- [Arrêté du 16 février 1995 (ENVN9540083A)](arrete-du-16-fevrier-1995-envn9540083a)
-- [Arrêté du 16 février 1995 (ENVN9540084A)](arrete-du-16-fevrier-1995-envn9540084a)
 - [Arrêté du 16 février 1995 (INDE9401518A)](arrete-du-16-fevrier-1995-inde9401518a)
 - [Arrêté du 16 février 1995 (MJSK9470078A)](arrete-du-16-fevrier-1995-mjsk9470078a)
 - [Arrêté du 16 février 1995 (SPSH9500415A)](arrete-du-16-fevrier-1995-spsh9500415a)
