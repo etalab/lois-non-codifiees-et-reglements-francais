@@ -73,7 +73,6 @@
 - [Arrêté du 3 décembre 1997 (DEFP9702151A)](arrete-du-3-decembre-1997-defp9702151a)
 - [Arrêté du 3 décembre 1998 (ECOI9801041A)](arrete-du-3-decembre-1998-ecoi9801041a)
 - [Arrêté du 3 décembre 1998 (EQUA9801305A)](arrete-du-3-decembre-1998-equa9801305a)
-- [Arrêté du 3 février 1998 (AGRP9800306A)](arrete-du-3-fevrier-1998-agrp9800306a)
 - [Arrêté du 3 février 1998 (ECOD9770009A)](arrete-du-3-fevrier-1998-ecod9770009a)
 - [Arrêté du 3 juillet 1998 (JUSC9820391A)](arrete-du-3-juillet-1998-jusc9820391a)
 - [Arrêté du 3 juillet 1998 (MESH9822225A)](arrete-du-3-juillet-1998-mesh9822225a)
