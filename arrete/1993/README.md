@@ -440,7 +440,6 @@
 - [Arrêté du 15 juin 1993 (SPSS9301670A)](arrete-du-15-juin-1993-spss9301670a)
 - [Arrêté du 15 juin 1993 (TEFT9300740A)](arrete-du-15-juin-1993-teft9300740a)
 - [Arrêté du 15 mars 1993 (AGRA9300390A)](arrete-du-15-mars-1993-agra9300390a)
-- [Arrêté du 15 mars 1993 (BUDD9370004A)](arrete-du-15-mars-1993-budd9370004a)
 - [Arrêté du 15 mars 1993 (BUDP9300022A)](arrete-du-15-mars-1993-budp9300022a)
 - [Arrêté du 15 mars 1993 (EQUT9300456A)](arrete-du-15-mars-1993-equt9300456a)
 - [Arrêté du 15 mars 1993 (EQUT9300457A)](arrete-du-15-mars-1993-equt9300457a)
