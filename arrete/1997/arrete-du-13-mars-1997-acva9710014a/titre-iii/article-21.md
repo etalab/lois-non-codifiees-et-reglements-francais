@@ -1,6 +1,6 @@
 # Article 21
 
-La cotisation d'assurance maladie, maternité, invalidité et décès assise sur l'allocation de préparation à la retraite est prélevée à la source, dans les conditions du droit commun, sur le montant mensuel brut de ladite allocation, au profit du régime d'assurance auquel était assujetti l'intéressé durant les douze derniers mois d'activité professionnelle ayant précédé sa privation d'activité. Son taux est fixé par application de l'article D. 242-12, premier alinéa, du code de la sécurité sociale.
+La cotisation d'assurance maladie, maternité, invalidité et décès assise sur l'allocation de préparation à la retraite est prélevée à la source, dans les conditions du droit commun, sur le montant mensuel brut de ladite allocation, au profit du régime d'assurance auquel était assujetti l'intéressé durant les douze derniers mois d'activité professionnelle ayant précédé sa privation d'activité. Son taux est fixé par application des articles D. 242-12, alinéa 1, et D. 711-2 du code de la sécurité sociale.
 
 Cette cotisation est liquidée par les directions interdépartementales du ministère des anciens combattants et victimes de guerre.
 
