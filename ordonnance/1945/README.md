@@ -13,5 +13,6 @@
 - [Ordonnance n° 45-680 du 13 avril 1945](ordonnance-n-45-680-du-13-avril-1945)
 - [Ordonnance n°45-68 du 16 janvier 1945](ordonnance-n45-68-du-16-janvier-1945)
 - [Ordonnance n° 45-993 du 17 mai 1945](ordonnance-n-45-993-du-17-mai-1945)
+- [Ordonnance n° 45-1355 du 20 juin 1945](ordonnance-n-45-1355-du-20-juin-1945)
 - [Ordonnance n° 45-476 du 24 mars 1945](ordonnance-n-45-476-du-24-mars-1945)
 - [Ordonnance n° 45-1088 du 30 mai 1945](ordonnance-n-45-1088-du-30-mai-1945)
