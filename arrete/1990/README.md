@@ -64,6 +64,7 @@
 - [Arrêté du 9 janvier 1990 (ECOC9000005A)](arrete-du-9-janvier-1990-ecoc9000005a)
 - [Arrêté du 9 janvier 1990 (ECOT8920131A)](arrete-du-9-janvier-1990-ecot8920131a)
 - [Arrêté du 9 janvier 1990 (JUSA9000004A)](arrete-du-9-janvier-1990-jusa9000004a)
+- [Arrêté du 9 mars 1990 (EQUA9000385A)](arrete-du-9-mars-1990-equa9000385a)
 - [Arrêté du 9 mars 1990 (LOGC9000035A)](arrete-du-9-mars-1990-logc9000035a)
 - [Arrêté du 10 janvier 1990 (BUDB8960076A)](arrete-du-10-janvier-1990-budb8960076a)
 - [Arrêté du 10 janvier 1990 (ECOT8910062A)](arrete-du-10-janvier-1990-ecot8910062a)
