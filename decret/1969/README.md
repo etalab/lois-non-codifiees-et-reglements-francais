@@ -25,6 +25,7 @@
 - [Décret n°69-515 du 19 mai 1969](decret-n69-515-du-19-mai-1969)
 - [Décret n°69-252 du 20 mars 1969](decret-n69-252-du-20-mars-1969)
 - [Décret n°69-253 du 21 mars 1969](decret-n69-253-du-21-mars-1969)
+- [Décret n°69-535 du 21 mai 1969](decret-n69-535-du-21-mai-1969)
 - [Décret n°69-257 du 22 mars 1969](decret-n69-257-du-22-mars-1969)
 - [Décret n°69-258 du 22 mars 1969](decret-n69-258-du-22-mars-1969)
 - [Décret n° 69-123 du 24 janvier 1969](decret-n-69-123-du-24-janvier-1969)
