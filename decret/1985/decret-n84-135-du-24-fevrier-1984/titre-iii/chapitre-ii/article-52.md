@@ -1,6 +1,6 @@
 # Article 52
 
-Le jury apprécie les titres universitaires, les travaux de recherche et, le cas échéant, les fonctions enseignantes et les services hospitaliers de chaque candidat. Celui-ci présente un exposé écrit de ses titres et travaux accompagné de toutes pièces justificatives.
+Le jury apprécie les titres universitaires, les travaux de recherche, d'expertise et, le cas échéant, les fonctions enseignantes et les services hospitaliers de chaque candidat. Celui-ci présente un exposé écrit de ses titres et travaux accompagné de toutes pièces justificatives.
 
 Pour chaque dossier le président désigne deux rapporteurs qui déposent chacun un rapport écrit. Le jury examine les rapports et entend les rapporteurs.
 

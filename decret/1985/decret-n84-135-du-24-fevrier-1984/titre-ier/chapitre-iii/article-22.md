@@ -2,9 +2,9 @@
 
 La juridiction disciplinaire comprend [*composition*] :
 
-1° Un président et un président suppléant, désignés pour trois ans [*durée du mandat*] par arrêté conjoint du ministre chargé des universités et du ministre chargé de la santé choisis soit parmi les conseillers d'Etat, soit parmi les professeurs de l'enseignement supérieur ;
+1° Un président et un président suppléant, désignés pour trois ans [*durée du mandat*] par arrêté conjoint du ministre chargé de l'enseignement supérieur et du ministre chargé de la santé choisis soit parmi les conseillers d'Etat, soit parmi les professeurs de l'enseignement supérieur ;
 
-2° Trois membres titulaires et trois suppléants, nommés pour trois ans par le ministre chargé des universités et choisis en dehors des personnels enseignants et hospitaliers, des personnels enseignants et des personnels hospitaliers des centres hospitaliers et universitaires ;
+2° Trois membres titulaires et trois suppléants, nommés pour trois ans par le ministre chargé de l'enseignement supérieur et choisis en dehors des personnels enseignants et hospitaliers, des personnels enseignants et des personnels hospitaliers des centres hospitaliers et universitaires ;
 
 3° Trois membres titulaires et trois suppléants, nommés pour trois ans par le ministre chargé de la santé et choisis en dehors des personnels enseignants et hospitaliers, des personnels enseignants et des personnels hospitaliers des centres hospitaliers et universitaires ;
 

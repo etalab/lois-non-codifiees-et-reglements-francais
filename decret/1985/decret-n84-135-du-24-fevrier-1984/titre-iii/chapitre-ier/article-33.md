@@ -4,4 +4,6 @@ Les membres du personnel titulaire mentionné au 1° de l'article 1er du présen
 
 a) A un congé [*payé*] annuel d'une durée égale à celle qui est fixée pour les praticiens hospitaliers ;
 
-b) Aux autres congés et dispenses d'enseignement dans les conditions applicables aux personnels enseignants titulaires des universités.
+b) Aux autres congés et dispenses d'enseignement dans les conditions applicables aux personnels enseignants titulaires des universités ;
+
+c) Aux autorisations spéciales d'absence prévues par le 6° de l'article 35 du décret n° 84-131 du 24 février 1984 susvisé.

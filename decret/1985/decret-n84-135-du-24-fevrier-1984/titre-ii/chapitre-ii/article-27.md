@@ -6,7 +6,9 @@ I. - Les candidats doivent réunir les conditions suivantes à la date limite de
 
 1. Compter au moins deux ans de services effectifs en qualité de chef de clinique des universités - assistant des hôpitaux ou d'assistant hospitalier universitaire et exercer ces fonctions ou avoir cessé de les exercer depuis moins de deux ans.
 
-2. Etre inscrits sur la liste d'aptitude établie à l'issue du concours mentionné à l'article 6-1 du décret n° 84-131 du 24 février 1984 susvisé.
+2. Etre inscrits sur la liste d'aptitude établie à l'issue du concours national de praticien des établissements publics de santé mentionné à l'article 1er du décret n° 99-517 du 25 juin 1999 organisant le concours national de praticien des établissements publics de santé, au titre des épreuves de type I mentionnées à l'article 3 du même décret.
+
+3. Postuler une nomination à titre permanent dans le corps des praticiens hospitaliers à temps plein relevant du décret n° 84-131 du 24 février 1984 susvisé.
 
 II. - Les candidats peuvent postuler les emplois vacants de praticien hospitalier universitaire en indiquant un ordre de préférence. Un premier examen de ces candidatures est effectué par le conseil de l'unité de formation et de recherche qui procède à l'audition des candidats, et par la commission médicale d'établissement.
 

@@ -2,7 +2,7 @@
 
 Chaque candidat inscrit sur la liste d'admission peut postuler à un ou plusieurs des emplois mis au concours. Les candidatures sont soumises au conseil de l'unité de formation et de recherche et à la commission médicale d'établissement.
 
-Le directeur de l'unité de formation et de recherche transmet les différents avis au ministre chargé des universités et le directeur du centre hospitalier universitaire les transmet au ministre chargé de l santé.
+Le directeur de l'unité de formation et de recherche transmet les différents avis au ministre chargé de l'enseignement supérieur et le directeur du centre hospitalier universitaire les transmet au ministre chargé de l santé.
 
 Les deux ministres procèdent conjointement aux nominations.
 

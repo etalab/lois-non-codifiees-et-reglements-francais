@@ -6,7 +6,7 @@ Dans les centres hospitaliers et universitaires, les fonctions universitaires et
 
 a) Le corps des professeurs des universités-praticiens hospitaliers ;
 
-b) Le corps des maîtres de conférences des universités-praticiens hospitaliers dans les disciplines biologiques et mixtes ;
+b) Le corps des maîtres de conférences des universités-praticiens hospitaliers ;
 
 2° Les praticiens hospitaliers-universitaires qui exercent leurs fonctions à titre temporaire.
 
