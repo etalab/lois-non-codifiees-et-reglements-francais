@@ -1,6 +1,6 @@
 # Article 9
 
-Peuvent bénéficier des allocations du fonds de prévoyance militaire prévues aux articles 2 et 3 du décret du 25 septembre 1973 modifié les ayants cause ci-après désignés :
+Peuvent bénéficier des allocations du fonds de prévoyance militaire prévues aux articles 2 et 3 du décret du 25 septembre 1973 susvisé, l'intéressé et les ayants cause ci-après désignés :
 
 a) Le conjoint survivant non divorcé et non séparé de corps. Si l'intéressé a un ou plusieurs enfants âgés de moins de vingt et un ans ou infirmes à charge, l'allocation lui est payée au taux conjoint avec enfants à charge ;
 

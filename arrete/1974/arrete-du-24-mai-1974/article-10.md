@@ -10,7 +10,7 @@ Les décisions prises par le ministre des armées sont communiquées par ses soi
 
 b) Cas hors commission :
 
-La commission du fonds de prévoyance militaire peut donner délégation au directeur général de la caisse des dépôts et consignations en vue de proposer au ministre des armées l'attribution des allocations dont le taux est fixé au paragraphe I de l'article 2 du décret précité, dans les cas où les conditions nécessaires pour bénéficier de celles-ci sont manifestement remplies.
+La commission du fonds de prévoyance militaire peut donner délégation au directeur général de la caisse des dépôts et consignations en vue de proposer au ministre des armées l'attribution des allocations dont le taux est fixé aux paragraphex Ier et III de l'article 2 du décret précité, dans les cas où les conditions nécessaires pour bénéficier de celles-ci sont manifestement remplies.
 
 Il en est de même pour les propositions d'attribution à taux réduit ou pour le rejet des demandes dès lors que la commission a déjà statué sur le degré de relation du décès avec le service.
 
