@@ -93,6 +93,7 @@
 - [Décret n°78-1305 du 29 décembre 1978](decret-n78-1305-du-29-decembre-1978)
 - [Décret n°79-254 du 29 mars 1979](decret-n79-254-du-29-mars-1979)
 - [Décret n°79-257 du 29 mars 1979](decret-n79-257-du-29-mars-1979)
+- [Décret n°72-1004 du 30 octobre 1972](decret-n72-1004-du-30-octobre-1972)
 - [Décret n°79-264 du 30 mars 1979](decret-n79-264-du-30-mars-1979)
 - [Décret n°79-267 du 30 mars 1979](decret-n79-267-du-30-mars-1979)
 - [Décret n°79-289 du 30 mars 1979](decret-n79-289-du-30-mars-1979)
