@@ -1,3 +1,0 @@
-# Article 2
-
-En matière civile, commerciale, administrative et fiscale, toute juridiction ou autorité compétente, pour constater toute forclusion résultant de l'expiration d'un délai quelconque de procédure, de la réalisation d'une prescription ou d'une péremption et généralement de l'inexécution de tous actes qui, d'après la loi, les clauses d'un contrat ou d'une décision judiciaire, doivent être accomplis dans un délai déterminé, pourra relever de cette forclusion, même acquise lors de la publication de la présente loi, les parties appartenant aux catégories visées à l'article 1er qui l'ont encourue parce qu'elles se sont trouvées dans l'impossibilité d'agir du fait de leur rappel ou de leur maintien sous les drapeaux.
