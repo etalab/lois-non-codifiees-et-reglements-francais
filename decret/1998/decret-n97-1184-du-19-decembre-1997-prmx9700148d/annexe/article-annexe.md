@@ -88,7 +88,7 @@ Décret n° 97-817 du 5 septembre 1997 érigeant l'Institut des hautes études d
 </tbody>
 </table>
 
-Arrêté du 2 octobre 1992 relatif à la procédure d'importation et d'exportation des matériels de guerre, armes et munitions et des matériels assimilés
+Décret n° 2001-143 du 15 février 2001 concernant la mise en œuvre des dispositions du titre II de la loi n° 98-467 du 17 juin 1998 relative à l'application de la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction.
 
 <table>
 <tbody>
@@ -97,10 +97,61 @@ Arrêté du 2 octobre 1992 relatif à la procédure d'importation et d'exportati
 <p align="center">1</p>
 </td>
 <td valign="top" width="473">
-<p align="left">Décisions relatives aux agréments préalables pour la prospection, la négociation et la vente de matériels de guerre.</p>
+<p align="left">Décisions désignant l'installation fabriquant à des fins médicales, pharmaceutiques, de recherche ou de protection des produits chimiques inscrits au tableau 1 annexé à la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction.</p>
 </td>
 <td valign="top" width="189">
-<p align="left">Article 6</p>
+<p align="left">Article 2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="57">
+<p align="center">2</p>
+</td>
+<td valign="top" width="473">
+<p align="left">Décisions portant désignation et autorisation d'une installation pouvant fabriquer, en quantité limitée, à des fins de protection, des produits chimiques inscrits au tableau 1 annexé à la convention.</p>
+</td>
+<td valign="top" width="189">
+<p align="left">Article 2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="57">
+<p align="center">3</p>
+</td>
+<td valign="top" width="473">
+<p align="left">Décisions relatives aux agréments préalables à l'exportation pour la présentation, la négociation et la vente de produits chimiques inscrits au tableau 1 annexé à la convention.</p>
+</td>
+<td valign="top" width="189">
+<p align="left">Article 17, II</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="57">
+<p align="center">4</p>
+</td>
+<td valign="top" width="473">
+<p align="left">Décisions d'autorisation d'exportation de produits chimiques inscrits au tableau 1 annexé à la convention dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre.</p>
+</td>
+<td valign="top" width="189">
+<p align="left">Article 17, II</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Arrêté du 2 octobre 1992 modifié relatif à la procédure d'importation, d'exportation et de transfert des matériels de guerre, armes et munitions et des matériels assimilés.
+
+<table>
+<tbody>
+<tr>
+<td valign="top" width="57">
+<p align="center">1</p>
+</td>
+<td valign="top" width="473">
+<p align="left">Décisions relatives aux agréments préalables à l'exportation pour la présentation, la négociation et la vente de matériels de guerre.</p>
+</td>
+<td valign="top" width="189">
+<p align="left">Article 4</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +162,7 @@ Arrêté du 2 octobre 1992 relatif à la procédure d'importation et d'exportati
 <p align="left">Décisions d'autorisation d'exportation de matériels de guerre dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre.</p>
 </td>
 <td valign="top" width="189">
-<p align="left">Article 11</p>
+<p align="left">Article 9</p>
 </td>
 </tr>
 <tr>
@@ -119,10 +170,10 @@ Arrêté du 2 octobre 1992 relatif à la procédure d'importation et d'exportati
 <p align="center">3</p>
 </td>
 <td valign="top" width="473">
-<p align="left">Décisions d'autorisation de transit par route dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre.</p>
+<p align="left">Décisions d'autorisation de transit par la route dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre.</p>
 </td>
 <td valign="top" width="189">
-<p align="left">Article 26</p>
+<p align="left">Article 24</p>
 </td>
 </tr>
 </tbody>
@@ -153,7 +204,7 @@ Code de l'urbanisme
 <p align="left">Décisions de nomination des membres et du président du comité de décentralisation.</p>
 </td>
 <td valign="top" width="189">
-<p align="left">Article R. 510-3 et<br/>A. 510-3</p>
+<p align="left">Article R. 510-3 et A. 510-3</p>
 </td>
 </tr>
 </tbody>
@@ -189,7 +240,7 @@ Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécur
 <p align="left">Agrément de certains organismes chargés de dispenser une formation en matière d'hygiène et de sécurité aux représentants des personnels siégeant aux comités d'hygiène et de sécurité.</p>
 </td>
 <td valign="top" width="189">
-<p align="left">Article 8</p>
+<p align="left">Article 8 </p>
 </td>
 </tr>
 <tr>
