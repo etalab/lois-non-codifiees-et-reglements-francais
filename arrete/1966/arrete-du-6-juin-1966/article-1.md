@@ -63,3 +63,7 @@ Brevet d'enseignement industriel Aide-chimiste.
 Brevet d'enseignement industriel Aide-biochimiste.
 
 Diplôme de chimie appliquée délivré de 1928 à 1954 par le collège moderne et technique d'Arsonval, à Saint-Maur-des-Fossés.
+
+Brevet d'agent technique agricole, spécialité Aide-chimiste de laboratoire :
+
+Certificat de fin d'études secondaires.

@@ -41,3 +41,5 @@ Certificat d'études de manipulateur d'électroradiologie délivré par l'école
 Certificat de manipulateur de radiologie délivré par le centre hospitalier régional de Clermont-Ferrand.
 
 Certificat de manipulateur de radiologie délivré par le centre hospitalier régional de Montpellier.
+
+Certificat d'inscription sur la liste d'aptitude aux fonctions de manipulateur d'électroradiologie délivré par le centre hospitalier régional de Lille.
