@@ -219,6 +219,7 @@
 - [Décret n°93-322 du 8 mars 1993 (MENF9204586D)](decret-n93-322-du-8-mars-1993-menf9204586d)
 - [Décret n°99-612 du 8 juillet 1999 (INTE9900055D)](decret-n99-612-du-8-juillet-1999-inte9900055d)
 - [Décret n°99-614 du 8 juillet 1999 (INTE9900111D)](decret-n99-614-du-8-juillet-1999-inte9900111d)
+- [Décret du 9 décembre 1991 (SANA9102003D)](decret-du-9-decembre-1991-sana9102003d)
 - [Décret du 9 janvier 1991 (SPSS9002564D)](decret-du-9-janvier-1991-spss9002564d)
 - [Décret n°91-1032 du 9 octobre 1991 (ECOX9110276D)](decret-n91-1032-du-9-octobre-1991-ecox9110276d)
 - [Décret n°91-1041 du 9 octobre 1991 (MAEJ9130058D)](decret-n91-1041-du-9-octobre-1991-maej9130058d)
