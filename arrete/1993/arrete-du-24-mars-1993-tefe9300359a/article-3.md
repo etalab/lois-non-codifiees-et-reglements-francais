@@ -1,6 +1,6 @@
 # Article 3
 
-Le salaire de référence est calculé selon les règles définies dans le cadre du régime d'assurance chômage visé à la section I du chapitre Ier du titre V du livre III du code du travail.
+Le salaire de référence est calculé selon les règles définies dans le cadre du régime d'assurance chômage visé à la section I du chapitre Ier du titre V du livre III du code du travail sous réserve de l'application du plafond prévu à l'article 2 du décret n° 93-451 du 24 mars 1993 portant application de l'article R. 322-7 du code du travail.
 
 Les périodes au cours desquelles l'intéressé n'a pas perçu une rémunération normale, notamment les périodes de suspension du contrat de travail et de chômage partiel, ne sont pas prises en compte pour le calcul du salaire de référence.
 
