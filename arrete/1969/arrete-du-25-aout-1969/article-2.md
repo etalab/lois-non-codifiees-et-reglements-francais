@@ -59,3 +59,5 @@ Certificat de la section technique délivré par l'institut de droit appliqué d
 Certificat d'aptitude à la promotion des activités soci-éducatives et à l'exercice des professions socio-éducatives (Capase).
 
 Certificat d'études architecturales de premier cycle.
+
+Diplôme de conseiller en économie familiale et sociale.
