@@ -1,6 +1,6 @@
 # Article 24
 
-I. - Sera passible d'un emprisonnement de sept ans et d'une amende de 100000 euros toute personne qui, sans y être régulièrement autorisée, se livrera à la fabrication ou au commerce des matériels de guerre ou d'armes ou de munitions de défense de l'une des catégories visées au I de l'article 2 du présent décret, ou exercera son activité en qualité d'intermédiaire ou d'agent de publicité à l'occasion de la fabrication ou du commerce des matériels, armes ou munitions desdites catégories.
+I. - Sera passible d'un emprisonnement de sept ans et d'une amende de 100000 euros toute personne qui, sans y être régulièrement autorisée, se livrera à la fabrication ou au commerce des matériels de guerre ou d'armes ou de munitions de défense de l'une des catégories visées au I de l'article 2 du présent décret, ou exercera son activité en qualité d'intermédiaire ou d'agent de publicité à l'occasion de la fabrication ou du commerce des matériels, armes ou munitions desdites catégories. Les peines sont portées à dix ans d'emprisonnement et à 500000 euros d'amende lorsque l'infraction est commise en bande organisée.
 
 La confiscation du matériel fabriqué ou du matériel à vendre, ainsi que sa vente aux enchères publiques, pourra être ordonnée par le même jugement à la requête de l'autorité administrative.
 

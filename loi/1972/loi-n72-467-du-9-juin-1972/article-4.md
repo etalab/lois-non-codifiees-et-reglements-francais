@@ -1,6 +1,6 @@
 # Article 4
 
-Les infractions aux dispositions des articles 1er et 2 sont punies d'un emprisonnement de cinq ans et d'une amende de 75000 euros ou de l'une de ces deux peines seulement.
+Les infractions aux dispositions des articles 1er et 2 sont punies d'un emprisonnement de cinq ans et d'une amende de 75000 euros ou de l'une de ces deux peines seulement. Les peines sont portées à dix ans d'emprisonnement et à 500000 euros d'amende lorsque l'infraction est commise en bande organisée.
 
 En cas de condamnation, le tribunal doit ordonner la confiscation, en vue de leur destruction, des agents ou toxines définis à l'article 1er.
 

@@ -136,7 +136,7 @@ Art. L. 122-4-1 - Les fonctions de maire sont incompatibles avec l'exercice d'un
 
 Les fonctions de maire sont également incompatibles avec celles de membre de la Commission européenne, membre du directoire de la Banque centrale européenne ou membre du Conseil de la politique monétaire de la Banque de France.
 
-(Dispositions déclarées non conformes à ta Constitution par décision du Conseil constitutionnel n° 2000-426 DC du 30 mars 2000).
+(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-426 DC du 30 mars 2000).
 
 Tout maire élu à un mandat ou exerçant une fonction le plaçant dans une situation d'incompatibilité prévue au présent article cesse de ce fait même d'exercer ses fonctions de maire. En cas de contestation, l'incompatibilité prend effet à compter de la date à laquelle la décision juridictionnelle confirmant l'élection devient définitive.
 
@@ -214,7 +214,19 @@ Il est ajouté au même article un 15 applicable dans la rédaction suivante ;
 
 - l'article L. 122-24 sous réserve de la suppression des mots "conformément à l'article 16 du code de procédure pénale" ;
 
-- les articles L. 122-25 à L. 122-29.
+- les articles L. 122-25 à L. 122-27 ;
+
+- l'article L. 122-27-1 dans la rédaction suivante :
+
+Art. L. 122-27-1. - Conformément aux dispositions du deuxième alinéa de l'article 40 du code de procédure pénale, le maire est tenu de signaler sans délai au procureur de la République les crimes ou les délits dont il acquiert la connaissance dans l'exercice de ses fonctions.
+
+Le maire est avisé des suites données à son signalement conformément aux dispositions de l'article 40-2 du même code.
+
+Le procureur de la République peut porter à la connaissance du maire ou du président de l'établissement public de coopération intercommunale toutes les mesures ou décisions de justice, civiles ou pénales, dont la communication paraît nécessaire à la mise en oeuvre d'actions de prévention, de suivi et de soutien, engagées ou coordonnées par l'autorité municipale ou intercommunale.
+
+Les dispositions des articles 226-13 et 226-14 du code pénal s'appliquent aux destinataires de cette information, sous réserve de l'exercice de la mission mentionnée à l'alinéa précédent. ;
+
+- les articles L. 122-28 et L. 122-29.
 
 III - CHAPITRE III : Indemnités et régime de retraite des titulaires de certaines fonctions municipales.
 

@@ -2,7 +2,7 @@
 
 L'aide juridictionnelle est accordée à la personne dont l'action n'apparaît pas, manifestement, irrecevable ou dénuée de fondement.
 
-Cette condition n'est pas applicable au défendeur à l'action, à la personne civilement responsable, au témoin assisté, à la personne mise en examen, au prévenu, à l'accusé, au condamné.
+Cette condition n'est pas applicable au défendeur à l'action, à la personne civilement responsable, au témoin assisté, à la personne mise en examen, au prévenu, à l'accusé, au condamné et à la personne faisant l'objet de la procédure de comparution sur reconnaissance préalable de culpabilité.
 
 En outre, en matière de cassation, l'aide juridictionnelle est refusée au demandeur si aucun moyen de cassation sérieux ne peut être relevé.
 

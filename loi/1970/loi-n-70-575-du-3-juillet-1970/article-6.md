@@ -6,6 +6,8 @@ a) Toute personne qui se livre à la vente ou à l'exportation de poudres ou sub
 
 b) Toute personne qui refuse de se soumettre aux contrôles prévus par la présente loi ou qui y apporte des entraves ou qui n'a pas fourni les renseignements demandés en vue de ces contrôles.
 
+Les peines sont portées à dix ans d'emprisonnement et à 500000 euros d'amende lorsque l'infraction est commise en bande organisée.
+
 II. - Est punie d'un emprisonnement de deux ans et d'une amende de 3750 euros ou de l'une de ces deux peines seulement, toute personne qui se livre à la vente des poudres ou substances explosives non susceptibles d'un usage militaire en dehors des conditions prévues par la présente loi et les textes pris pour son application.
 
 III. - Est punie d'une amende de 4750 euros toute personne qui se livre, en dehors des conditions prévues par la présente loi et les textes pris pour son application, à l'exportation de poudres ou substances explosives non susceptibles d'un usage militaire.

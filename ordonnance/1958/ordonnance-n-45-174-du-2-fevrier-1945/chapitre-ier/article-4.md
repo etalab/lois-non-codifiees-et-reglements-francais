@@ -18,7 +18,7 @@ JO 15 août 1993).
 
 V - En cas de délit puni d'une peine inférieure à cinq ans d'emprisonnement, la garde à vue d'un mineur âgé de treize à seize ans ne peut être prolongée.
 
-Aucune mesure de garde à vue ne peut être prolongée sans présentation préalable du mineur au procureur de la République ou au juge chargé de l'instruction. En cas d'urgence, il peut être fait application des dispositions du deuxième alinéa de l'article 7.
+Aucune mesure de garde à vue ne peut être prolongée sans présentation préalable du mineur au procureur de la République ou au juge d'instruction du lieu d'exécution de la mesure.
 
 VI - Les interrogatoires des mineurs placés en garde à vue visés à l'article 64 du code de procédure pénale font l'objet d'un enregistrement audiovisuel.
 
@@ -29,3 +29,5 @@ L'enregistrement ne peut être visionné qu'avant l'audience de jugement, en cas
 Le fait, pour toute personne, de diffuser un enregistrement original ou une copie réalisée en application du présent article est puni d'un an d'emprisonnement et de [*taux*] 15000 euros d'amende.
 
 A l'expiration d'un délai de cinq ans à compter de la date de l'extinction de l'action publique, l'enregistrement original et sa copie sont détruits dans le délai d'un mois.
+
+VII. - Les dispositions de l'article 706-88 du code de procédure pénale, à l'exception de celles de la deuxième phrase de son dernier alinéa, sont applicables au mineur de plus de seize ans lorsqu'il existe une ou plusieurs raisons plausibles de soupçonner qu'une ou plusieurs personnes majeures ont participé, comme auteurs ou complices, à la commission de l'infraction.
