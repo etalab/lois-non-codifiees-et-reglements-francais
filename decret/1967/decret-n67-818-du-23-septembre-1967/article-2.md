@@ -1,3 +1,0 @@
-# Article 2
-
-Les demandes d'autorisation de transfert présentées en application de l'article 1er ci-dessus sont soumises à l'approbation de la commission départementale instituée en vertu de l'alinéa 2 de l'article L. 39 du code des débits de boissons et des mesures contre l'alcoolisme. Cette commission statue après avis de la mission interministérielle pour l'aménagement touristique du littoral du Languedoc-Roussillon créée par le décret du 18 juin 1963, dans la limite des nombres maximum de débits de boissons indiqués à l'article 1er ci-dessus et compte tenu de la capacité d'hébergement déjà acquise à la date à laquelle elle prend sa décision.
