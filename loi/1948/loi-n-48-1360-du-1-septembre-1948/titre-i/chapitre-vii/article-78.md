@@ -6,6 +6,4 @@ Toutefois, par dérogation à l'alinéa précédent et nonobstant toutes clauses
 
 Dans les communes visées à l'article 10 7° ci-dessus, le locataire principal ou l'occupant maintenu dans les lieux, vivant seul et âgé de plus de soixante-cinq ans, peut sous-louer deux pièces à la même personne ou à deux personnes différentes, sous réserve que le local ne comporte pas plus de cinq pièces.
 
-Dans le délai d'un mois, le locataire ou l'occupant est tenu, à moins que la sous-location n'ait été expressément autorisée par le propriétaire ou son représentant, de notifier cette sous-location au bailleur par lettre recommandée avec demande d'avis de réception, en précisant le prix demandé au sous-locataire, sous peine de déchéance du droit au maintien dans les lieux.
-
-Le locataire a la faculté de léguer son bail par legs universel, à titre universel ou particulier.
+Dans le délai d'un mois, le locataire ou occupant est tenu, à moins que la sous-location n'ait été expressément autorisée par le propriétaire ou son représentant, de notifier cette sous-location au bailleur par lettre recommandée avec demande d'avis de réception, en précisant le prix demandé au sous-locataire, sous peine de déchéance du droit au maintien dans les lieux.
