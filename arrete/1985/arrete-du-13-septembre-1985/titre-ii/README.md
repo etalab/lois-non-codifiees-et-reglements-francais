@@ -3,6 +3,7 @@
 - [Chapitre Ier : Pari simple](chapitre-ier)
 - [Chapitre II : Pari par reports](chapitre-ii)
 - [Chapitre III : Pari jumelé](chapitre-iii)
+- [Chapitre III bis : Pari jumelé course par course](chapitre-iii-bis)
 - [Chapitre IV : Pari couplé](chapitre-iv)
 - [Chapitre V : Pari super-couplé](chapitre-v)
 - [Chapitre VI : Pari super-jumelé](chapitre-vi)

@@ -19,7 +19,7 @@ Le montant du supplément familial est fixé, par mètre carré de surface habit
 <p>Addition ou surélévation de construction.</p>
 </td>
 <td valign="top" width="260">
-<p align="center">551</p>
+<p align="center">562</p>
 </td>
 </tr>
 <tr>
@@ -27,7 +27,7 @@ Le montant du supplément familial est fixé, par mètre carré de surface habit
 <p>Mise en état d'habitabilité.</p>
 </td>
 <td valign="top" width="260">
-<p align="center">372</p>
+<p align="center">379</p>
 </td>
 </tr>
 </tbody>

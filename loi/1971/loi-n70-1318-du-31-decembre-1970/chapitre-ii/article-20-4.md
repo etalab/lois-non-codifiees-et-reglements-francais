@@ -1,0 +1,9 @@
+# Article 20-4
+
+Avec l'accord des chefs de service intéressés, il peut être constitué des départements [*objet*] regroupant deux ou plusieurs services en tout ou partie, soit en vue du rapprochement d'activités médicales complémentaires, soit en vue d'un groupement des moyens en personnel, soit en vue d'une gestion commune de lits ou d'équipements, soit pour la réalisation de plusieurs de ces objectifs.
+
+La délibération du conseil d'administration créant un département est prise après avis de la commission médicale d'établissement et, le cas échéant, des comités consultatifs médicaux.
+
+Les activités du département sont placées sous la responsabilité d'un coordonnateur médecin, biologiste, pharmacien ou odontologiste. Il est assisté, selon les activités du département, par une sage-femme, un cadre paramédical, un membre du personnel soignant ou un membre du personnel médico-technique et par un membre du personnel administratif.
+
+L'organisation et le fonctionnement du département sont définis par un règlement intérieur élaboré notamment par les médecins titulaires à temps plein et à temps partiel des services correspondants et par les cadres paramédicaux. Le règlement intérieur est arrêté par le conseil d'administration, après avis de la commission médicale d'établissement et du comité technique paritaire. Ce règlement précise notamment les objectifs, la nature et l'étendue des activités du département, les modalités d'association des différents médecins, biologistes, pharmaciens ou odontologistes à ces activités ainsi que les conditions de désignation et le rôle du coordonnateur et de ses assistants. Il précise également les modalités d'association des sages-femmes, du personnel soignant et médico-technique et du personnel administratif aux activités du département [*contenu du règlement intérieur, mentions obligatoires*].

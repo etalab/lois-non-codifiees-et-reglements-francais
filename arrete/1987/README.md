@@ -304,6 +304,7 @@
 - [Arrêté du 22 janvier 1987 (AGRQ8700283A)](arrete-du-22-janvier-1987-agrq8700283a)
 - [Arrêté du 22 janvier 1987 (COPC8700003A)](arrete-du-22-janvier-1987-copc8700003a)
 - [Arrêté du 22 janvier 1987 (PTTT8700052A)](arrete-du-22-janvier-1987-pttt8700052a)
+- [Arrêté du 22 juillet 1987 (ECOT8716008A)](arrete-du-22-juillet-1987-ecot8716008a)
 - [Arrêté du 22 juillet 1987 (ECOT8750042A)](arrete-du-22-juillet-1987-ecot8750042a)
 - [Arrêté du 22 juin 1987 (ASES8700923A)](arrete-du-22-juin-1987-ases8700923a)
 - [Arrêté du 22 mai 1987 (ASES8700853A)](arrete-du-22-mai-1987-ases8700853a)

@@ -81,7 +81,7 @@ Les types de logements mentionnés aux différents tableaux du présent arrêté
 
 Les montants ci-dessus peuvent être majorés par un complément de prêt fixé forfaitairement à :
 
-1665 F par logement pour les immeubles avec ascenseur ;
+2074 F par logement pour les immeubles avec ascenseur ;
 
 4500 F par logement raccordé à un chauffe-eau solaire en immeuble collectif ;
 

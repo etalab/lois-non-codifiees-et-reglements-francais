@@ -16,11 +16,9 @@ Le montant des prêts spéciaux garantis par l'Etat qui, en application de l'art
 <tr>
 <td> :                 : (en francs)  :</td>
 </tr>
-</table>
-
-----------------------------------
-
-<table>
+<tr>
+<td> ----------------------------------</td>
+</tr>
 <tr>
 <td> : Type I :        :              :</td>
 </tr>
@@ -28,29 +26,32 @@ Le montant des prêts spéciaux garantis par l'Etat qui, en application de l'art
 <td> : - pour une      :              :</td>
 </tr>
 <tr>
-<td> : personne        :    215.017   :</td>
+<td> : personne        :    219.317   :</td>
 </tr>
 <tr>
 <td> : - pour deux     :              :</td>
 </tr>
 <tr>
-<td> : personnes       :    266.589   :</td>
+<td> : personnes       :    271.921   :</td>
 </tr>
 <tr>
-<td> : Type I bis      :    269.290   :</td>
+<td> : Type I bis      :    274.676   :</td>
 </tr>
 <tr>
-<td> : Type II         :    291.895   :</td>
+<td> : Type II         :    297.733   :</td>
 </tr>
-</table>
-
-----------------------------------
-
-2° Logements pour personnes seules (autres que personnes âgées).
-
-----------------------------------
-
-<table>
+<tr>
+<td> ----------------------------------</td>
+</tr>
+<tr>
+<td/>
+</tr>
+<tr>
+<td>    2° Logements pour personnes seules (autres que personnes âgées).</td>
+</tr>
+<tr>
+<td> ----------------------------------</td>
+</tr>
 <tr>
 <td> : TYPES DE        : MONTANT DE   :</td>
 </tr>
@@ -60,11 +61,9 @@ Le montant des prêts spéciaux garantis par l'Etat qui, en application de l'art
 <tr>
 <td> :                 : (en francs)  :</td>
 </tr>
-</table>
-
-----------------------------------
-
-<table>
+<tr>
+<td> ----------------------------------</td>
+</tr>
 <tr>
 <td> : Type I :        :              :</td>
 </tr>
@@ -72,22 +71,22 @@ Le montant des prêts spéciaux garantis par l'Etat qui, en application de l'art
 <td> : - pour une      :              :</td>
 </tr>
 <tr>
-<td> : personne        :    167.218   :</td>
+<td> : personne        :    170.562   :</td>
 </tr>
 <tr>
 <td> : - pour deux     :              :</td>
 </tr>
 <tr>
-<td> : personnes       :    203.884   :</td>
+<td> : personnes       :    207.962   :</td>
 </tr>
 <tr>
 <td> : - pour trois    :              :</td>
 </tr>
 <tr>
-<td> : personnes       :    255.717   :</td>
+<td> : personnes       :    260.831   :</td>
 </tr>
 <tr>
-<td> : Type I bis      :    269.290   :</td>
+<td> : Type I bis      :    274.676   :</td>
 </tr>
 </table>
 

@@ -17,7 +17,7 @@ Le montant des prêts spéciaux garantis par l'Etat qui, en application de l'art
 <p>Addition ou surélévation de construction.</p>
 </td>
 <td valign="top" width="260">
-<p align="center">1 880</p>
+<p align="center">1 918</p>
 </td>
 </tr>
 <tr>
@@ -25,7 +25,7 @@ Le montant des prêts spéciaux garantis par l'Etat qui, en application de l'art
 <p>Mise en état d'habitabilité.</p>
 </td>
 <td valign="top" width="260">
-<p align="center">1 241</p>
+<p align="center">1 266</p>
 </td>
 </tr>
 </tbody>
