@@ -1,6 +1,7 @@
 # Chapitre II : Procédure
 
 - [Section 1 : Présentation des requêtes.](section-1)
+- [Section II : Droit de timbre et d'enregistrement des requêtes.](section-ii)
 - [Section III : Dépôt des requêtes.](section-iii)
 - [Section V : Du délai de présentation des requêtes](section-v)
 - [Section VI : Communication des requêtes et recours.](section-vi)
