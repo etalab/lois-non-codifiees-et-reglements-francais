@@ -154,7 +154,6 @@
 - [Décret du 18 octobre 1983](decret-du-18-octobre-1983)
 - [Décret n°83-109 du 18 février 1983](decret-n83-109-du-18-fevrier-1983)
 - [Décret n°83-110 du 18 février 1983](decret-n83-110-du-18-fevrier-1983)
-- [Décret n°83-116 du 18 février 1983](decret-n83-116-du-18-fevrier-1983)
 - [Décret n°83-244 du 18 mars 1983](decret-n83-244-du-18-mars-1983)
 - [Décret n°83-245 du 18 mars 1983](decret-n83-245-du-18-mars-1983)
 - [Décret n°83-246 du 18 mars 1983](decret-n83-246-du-18-mars-1983)
