@@ -6,7 +6,229 @@ Les règles techniques auxquelles sont soumis les véhicules visés au présent 
 
 En particulier, les systèmes et équipements doivent, pour être réceptionnés par type CE, être conformes aux dispositions correspondantes contenues dans ce tableau et les véhicules doivent, pour être réceptionnés (par type CE, par type national ou à titre isolé), être conformes à l'ensemble des dispositions qui y sont contenues.
 
-*Tableau non reproduit cf JORF p. 11497 et 11498 du 2 août 1995. N O T E S
+1 = DOMAINE RÉGLEMENTÉ
+
+2 = NUMÉRO DIRECTIVE communautaire (base et amendements) applicable (a)
+
+3 = DATE D'APPLICATION pour les véhicules couverts par, et les systèmes et équipements conformes à des nouveaux types en regard de la directive (b)
+
+4 = DATE D'APPLICATION pour tous véhicules mis pour la première fois en circulation
+
+5 = NUMÉRO RÈGLEMENT de l'ECE/ONU (dans sa version la plus récente en vigueur) acceptable (dans la limite de son champ d'application et sous réserve d'éventuelles règles d'installation) en lieu et place de la directive
+
+1 =  1. Couple et puissance maximale nette (moteurs à combustion interne).
+
+2 = 95/1/CE
+
+3 = 1er juillet 1996 (5)
+
+4 = 1er mai 1999
+
+1 =  2. Mesures contre la manipulation.
+
+2 = 97/24/CE chapitre 7
+
+3 = 17 juin 1999 (5)
+
+4 = 17 juin 2003
+
+1 =  3. Réservoirs de carburant.
+
+2 = 97/24/CE (1) chapitre 6
+
+3 = 17 juin 1999
+
+4 = 17 juin 2003
+
+1 =  4. Vitesse maximale par construction.
+
+2 = 95/1/CE
+
+3 = 1er juillet 1996 (5)
+
+4 = 1er mai 1999
+
+1 =  5. Masses et dimensions.
+
+2 = 93/93/CEE
+
+3 = 1er janvier 1996 (5)
+
+4 = 1er mai 1999
+
+1 =  6. Dispositifs d'attelage.
+
+2 = 97/24/CE (1) chapitre 10
+
+3 = 17 juin 1999
+
+4 = 17 juin 2003
+
+1 =  7. Mesures contre la pollution atmosphérique.
+
+2 = 97/24/CE (1) chapitre 5
+
+3 = 17 juin 1999
+
+4 = 17 juin 2003
+
+1 =  8. Pneumatiques.
+
+2 = 97/24/CE chapitre 1er
+
+3 = 17 juin 1999 (5)
+
+4 = 17 juin 2003
+
+5 = 30, 54, 64, 75/ECE/ONU
+
+1 =  9. Freinage.
+
+2 = 93/14/CEE
+
+3 = 1er janvier 1996 (5)
+
+4 = 1er mai 1999
+
+5 = 78/ECE/ONU
+
+1 = 10. Installation des dispositifs d'éclairage et de signalisation lumineuse.
+
+2 = 93/92/CEE (3)
+
+3 = 1er janvier 1996 (5)
+
+4 = 1er mai 1999
+
+5 = 53/ECE/ONU
+
+1 = 11. Dispositifs d'éclairage et de signalisation lumineuse.
+
+2 = 97/24/CE chapitre 2
+
+3 = 17 juin 1999 (5)
+
+4 = 17 juin 2003
+
+5 = 3, 19, 20, 37, 38, 50, 56, 57, 72, 82/ECE/ONU
+
+1 = 12. Avertisseur acoustique.
+
+2 = 93/30/CEE (3)
+
+3 = 1er janvier 1996 (5)
+
+4 = 1er mai 1999
+
+5 = 28/ECE/ONU
+
+1 = 13. Emplacement de la plaque d'immatriculation arrière.
+
+2 = 93/94/CEE modifiée par 1999/26/CEE
+
+3 = 1er janvier 1996 ; 1er juillet 2000
+
+4 = 1er mai 1999
+
+1 = 14. Compatibilité électromagnétique.
+
+2 = 97/24/CE (2) chapitre 8
+
+3 = 17 juin 1999 (5)
+
+4 = 17 juin 2003
+
+1 = 15. Niveau sonore et dispositif d'échappement.
+
+2 = 97/24/CE chapitre 9
+
+3 = 17 juin 1999 (5)
+
+4 = 17 juin 2003
+
+1 = 16. Rétroviseurs.
+
+2 = 97/24/CE chapitre 4
+
+3 = 17 juin 1999 (5)
+
+4 = 17 juin 2003
+
+5 = 81/ECE/ONU
+
+1 = 17. Saillies extérieures.
+
+2 = 97/24/CE (4) chapitre 3
+
+3 = 17 juin 1999 (5)
+
+4 = 17 juin 2003
+
+1 = 18. Béquille.
+
+2 = 93/31/CEE (1)
+
+3 = 1er janvier 1996
+
+4 = 1er mai 1999
+
+1 = 19. Antivol.
+
+2 = 93/33/CEE modifiée par 1999/23/CE
+
+3 = 1er janvier 1996 (5)
+
+4 = 1er juillet 2000 ; 1er mai 1999
+
+5 = 62/ECE/ONU
+
+1 = 20. Vitrages, essuie-glace, dispositifs de dégivrage et désembuage.
+
+2 = 97/24/CE (1) chapitre 12
+
+3 = 17 juin 1999 (5)
+
+4 = 17 juin 2003
+
+1 = 21. Dispositifs de retenue pour passagers.
+
+93/32/CEE (4) modifiée par 1999/24/CE
+
+2 = 1er janvier 1996
+
+3 = 1er juillet 2000
+
+4 = 1er mai 1999
+
+1 = 22. Ancrages des ceintures de sécurité et ceintures de sécurité.
+
+2 = 97/24/CE (2) chapitre 11
+
+3 = 17 juin 1999 (5)
+
+4 = 17 juin 2003
+
+5 = 16/ECE/ONU
+
+1 = 23. Identification des commandes, témoins et indicateurs.
+
+2 = 93/29/CEE (2)
+
+3 = 1er janvier 1996
+
+4 = 1er mai 1999
+
+5 = 60/ECE/ONU
+
+1 = 24. Inscriptions réglementaires.
+
+2 = 93/34/CEE modifiée par 1999/25/CE
+
+3 = 1er janvier 1996 (6)
+
+4 = 1er juillet 2000 ; 1er mai 1999
+
+NOTES
 
 (a) Compte tenu du champ d'application défini dans la directive. Dans la mesure où la directive le permet, les équipements homologués conformément aux dispositions de directives visant d'autres catégories de véhicules ou des règlements de l'ECE/O.N.U. correspondants peuvent aussi être montés.
 
