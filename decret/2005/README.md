@@ -113,6 +113,7 @@
 - [Décret n°2005-37 du 18 janvier 2005 (BUDB0460036D)](decret-n2005-37-du-18-janvier-2005-budb0460036d)
 - [Décret n°2005-38 du 18 janvier 2005 (FPPA0400151D)](decret-n2005-38-du-18-janvier-2005-fppa0400151d)
 - [Décret n°2005-39 du 18 janvier 2005 (PMEA0420040D)](decret-n2005-39-du-18-janvier-2005-pmea0420040d)
+- [Décret n°2004-1105 du 19 octobre 2004 (FPPX0400131D)](decret-n2004-1105-du-19-octobre-2004-fppx0400131d)
 - [Décret n°2005-41 du 19 janvier 2005 (JUSC0420935D)](decret-n2005-41-du-19-janvier-2005-jusc0420935d)
 - [Décret n°2005-819 du 19 juillet 2005 (JUSK0540002D)](decret-n2005-819-du-19-juillet-2005-jusk0540002d)
 - [Décret n°2005-824 du 19 juillet 2005 (ECOP0500478D)](decret-n2005-824-du-19-juillet-2005-ecop0500478d)
