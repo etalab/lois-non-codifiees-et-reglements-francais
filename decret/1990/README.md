@@ -548,6 +548,7 @@
 - [Décret n°90-855 du 24 septembre 1990 (PTTT9000711D)](decret-n90-855-du-24-septembre-1990-pttt9000711d)
 - [Décret n°90-856 du 24 septembre 1990 (SPSP9001785D)](decret-n90-856-du-24-septembre-1990-spsp9001785d)
 - [Décret n°90-92 du 24 janvier 1990 (MENN8902941D)](decret-n90-92-du-24-janvier-1990-menn8902941d)
+- [Décret n°90-945 du 24 octobre 1990 (SPSS9001835D)](decret-n90-945-du-24-octobre-1990-spss9001835d)
 - [Décret n°91-1108 du 24 octobre 1991 (MENN9101818D)](decret-n91-1108-du-24-octobre-1991-menn9101818d)
 - [Décret n°91-112 du 24 janvier 1991 (MENX9100014D)](decret-n91-112-du-24-janvier-1991-menx9100014d)
 - [Décret n°91-588 du 24 juin 1991 (AGRA9100723D)](decret-n91-588-du-24-juin-1991-agra9100723d)
