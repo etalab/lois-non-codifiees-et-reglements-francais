@@ -6,7 +6,7 @@ Institut d'administration des entreprises, Aix-Marseille-III ;
 
 Institut d'administration des entreprises, Amiens ;
 
-Institut régional de gestion et d'administration des entreprises, Bordeaux-IV ;
+Institut d'administration des entreprises, Bordeaux-IV ;
 
 Institut d'administration des entreprises, Brest ;
 
