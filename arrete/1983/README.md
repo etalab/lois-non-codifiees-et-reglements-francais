@@ -155,6 +155,7 @@
 - [Arrêté du 29 décembre 1982](arrete-du-29-decembre-1982)
 - [Arrêté du 29 juillet 1983](arrete-du-29-juillet-1983)
 - [Arrêté du 29 juin 1983](arrete-du-29-juin-1983)
+- [Arrêté du 29 novembre 1983](arrete-du-29-novembre-1983)
 - [Arrêté du 29 septembre 1983](arrete-du-29-septembre-1983)
 - [Arrêté du 30 août 1983](arrete-du-30-aout-1983)
 - [Arrêté du 30 décembre 1982](arrete-du-30-decembre-1982)
