@@ -47,8 +47,6 @@
 - [Décret n°93-1212 du 3 novembre 1993 (INDA9300576D)](decret-n93-1212-du-3-novembre-1993-inda9300576d)
 - [Décret n°93-1222 du 3 novembre 1993 (INTA9300527D)](decret-n93-1222-du-3-novembre-1993-inta9300527d)
 - [Décret n°93-1278 du 3 décembre 1993 (ECOT9310197D)](decret-n93-1278-du-3-decembre-1993-ecot9310197d)
-- [Décret n°93-139 du 3 février 1993 (ENVP9310009D)](decret-n93-139-du-3-fevrier-1993-envp9310009d)
-- [Décret n°93-140 du 3 février 1993 (ENVP9310010D)](decret-n93-140-du-3-fevrier-1993-envp9310010d)
 - [Décret n°93-149 du 3 février 1993 (DOMP9300002D)](decret-n93-149-du-3-fevrier-1993-domp9300002d)
 - [Décret n°93-150 du 3 février 1993 (ACVX9310849D)](decret-n93-150-du-3-fevrier-1993-acvx9310849d)
 - [Décret n°93-161 du 3 février 1993 (ENEH9300061D)](decret-n93-161-du-3-fevrier-1993-eneh9300061d)
