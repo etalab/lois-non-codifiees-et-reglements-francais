@@ -333,6 +333,7 @@
 - [Décret n°97-727 du 18 juin 1997 (ECOX9702123D)](decret-n97-727-du-18-juin-1997-ecox9702123d)
 - [Décret n°97-728 du 18 juin 1997 (ECOX9702124D)](decret-n97-728-du-18-juin-1997-ecox9702124d)
 - [Décret n°97-729 du 18 juin 1997 (DEFX9702115D)](decret-n97-729-du-18-juin-1997-defx9702115d)
+- [Décret n°97-792 du 18 août 1997 (FPPA9700097D)](decret-n97-792-du-18-aout-1997-fppa9700097d)
 - [Décret n°96-1115 du 19 décembre 1996 (EQUX9600154D)](decret-n96-1115-du-19-decembre-1996-equx9600154d)
 - [Décret n°97-152 du 19 février 1997 (INDC9700012D)](decret-n97-152-du-19-fevrier-1997-indc9700012d)
 - [Décret n°97-156 du 19 février 1997 (EQUX9600158D)](decret-n97-156-du-19-fevrier-1997-equx9600158d)
