@@ -9,7 +9,6 @@
 - [INTERETS COMMUNS A PLUSIEURS DEPARTEMENTS.](interets-communs-a)
 - [ATTRIBUTIONS DES CONSEILS GENERAUX.](attributions-des-conseils-generaux)
 - [Attributions du conseil général.](attributions-du-conseil-general)
-- [COMMISSION DEPARTEMENTALE.](commission-departementale)
 - [Dispositions générales.](dispositions-generales)
 - [BUDGET ET COMPTES DU DEPARTEMENT.](budget-et)
 - [Formation des conseils généraux.](formation-des-conseils-generaux)
