@@ -10,8 +10,8 @@ II. - Dans les mines à feux classées :
 
 3° Des toiles, ainsi que les matériaux nécessaires à l'édification rapide de barrages, doivent être approvisionnés à la mine ;
 
-4° Le personnel de surveillance des quartiers intéressés par les feux doit être muni de lampes à flamme ;
+4° (alinéa supprimé) ;
 
-5° Des visites doivent être faites par les agents munis de lampes à flamme le lendemain des jours de chômage avant la reprise du travail, en vue de déceler tout commencement d'incendie souterrain ;
+5° Des visites doivent être faites par les agents munis d'appareils de surveillance de l'atmosphère. Le lendemain des jours de chômage avant la reprise du travail, en vue de déceler tout commencement d'incendie souterrain ;
 
 6° Le service local peut imposer que l'exploitation soit conduite suivant une consigne soumise à l'approbation préalable de l'ingénieur en chef des mines.
