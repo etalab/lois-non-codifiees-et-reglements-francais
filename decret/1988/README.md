@@ -52,6 +52,7 @@
 - [Décret n°88-172 du 17 février 1988 (MAEJ8830006D)](decret-n88-172-du-17-fevrier-1988-maej8830006d)
 - [Décret n°69-389 du 18 avril 1969](decret-n69-389-du-18-avril-1969)
 - [Décret n°88-162 du 18 février 1988 (ASES8801792D)](decret-n88-162-du-18-fevrier-1988-ases8801792d)
+- [Décret n°88-182 du 18 février 1988 (ACVP8720058D)](decret-n88-182-du-18-fevrier-1988-acvp8720058d)
 - [Décret n°88-59 du 18 janvier 1988 (ASEP8701793D)](decret-n88-59-du-18-janvier-1988-asep8701793d)
 - [Décret n°88-61 du 18 janvier 1988 (ASES8701861D)](decret-n88-61-du-18-janvier-1988-ases8701861d)
 - [Décret du 19 février 1988 (AGRR8800273D)](decret-du-19-fevrier-1988-agrr8800273d)

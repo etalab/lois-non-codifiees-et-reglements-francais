@@ -98,6 +98,7 @@
 - [Arrêté du 23 décembre 1987 (ASES8701938A)](arrete-du-23-decembre-1987-ases8701938a)
 - [Arrêté du 23 décembre 1987 (ECOT8720049A)](arrete-du-23-decembre-1987-ecot8720049a)
 - [Arrêté du 23 décembre 1987 (JUSC8721057A)](arrete-du-23-decembre-1987-jusc8721057a)
+- [Arrêté du 23 février 1988 (AGRS8800311A)](arrete-du-23-fevrier-1988-agrs8800311a)
 - [Arrêté du 23 juin 1987 (ASEA8701011A)](arrete-du-23-juin-1987-asea8701011a)
 - [Arrêté du 24 décembre 1987 (ENVQ8700270A)](arrete-du-24-decembre-1987-envq8700270a)
 - [Arrêté du 24 novembre 1987 (ENVN8700240A)](arrete-du-24-novembre-1987-envn8700240a)
