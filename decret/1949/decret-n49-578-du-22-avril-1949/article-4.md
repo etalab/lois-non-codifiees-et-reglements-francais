@@ -4,4 +4,4 @@ Le régime d'assurance vieillesse complémentaire des notaires est établi par l
 
 Les avantages prévus par ce régime d'assurance vieillesse ne pourront être garantis que dans la limite des ressources qui y seront affectées en exécution du présent décret.
 
-Les opérations de la section professionnelle des notaires relatives au régime d'assurance vieillesse complémentaire doivent faire l'objet de comptes distincts de ceux du régime d'allocation vieillesse institué par le décret du 30 mars 1949 portant règlement d'administration publique.
+Les opérations de la section professionnelle des notaires relatives au régime d'assurance vieillesse complémentaire doivent faire l'objet de comptes distincts de ceux du régime d'assurance vieillesse de base des professions libérales prévu au titre IV du livre VI du code de la sécurité sociale.
