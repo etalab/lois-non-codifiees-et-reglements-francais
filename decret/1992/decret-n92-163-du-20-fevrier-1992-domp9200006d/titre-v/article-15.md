@@ -8,6 +8,6 @@ Sont applicables en Nouvelle-Calédonie :
 
 3. Le décret n° 68-445 du 13 mai 1968 modifié susvisé ;
 
-4. Le décret n° 85-491 du 9 mai 1985 susvisé ;
+4. Abrogé ;
 
 5. Le décret n° 86-620 du 14 mars 1986 susvisé.

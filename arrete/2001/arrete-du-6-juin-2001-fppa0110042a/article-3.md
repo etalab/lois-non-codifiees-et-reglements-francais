@@ -1,0 +1,7 @@
+# Article 3
+
+Les représentants des collectivités de 1re et 2e catégorie sont élus au scrutin de liste à la représentation proportionnelle, d'après la règle de la plus forte moyenne et selon les prescriptions des articles ci-après. Le représentant des collectivités de 3e catégorie est élu au scrutin majoritaire. Le siège de titulaire est attribué au candidat ayant réuni le plus grand nombre de suffrages. A égalité de suffrages obtenus, le candidat le plus âgé est proclamé élu.
+
+Les représentants des établissements de la 4e catégorie sont élus au scrutin majoritaire. Dans cette catégorie, le siège de titulaire est attribué au candidat ayant réuni le plus grand nombre de suffrages. Pour ces représentants, lorsqu'un membre titulaire vient à décéder, ou résigne son mandat, le premier suppléant est titularisé et est lui-même remplacé par le second suppléant de la liste du titulaire. Une liste de représentants de la 4e catégorie venant à perdre tous ses membres est remplacée par la liste suivante dans l'ordre des suffrages obtenus. A égalité de suffrages obtenus, le candidat le plus âgé est proclamé élu.
+
+Chaque candidature d'un représentant titulaire est assortie de celle d'un premier suppléant et d'un second suppléant pour chacune des catégories. Ceux-ci seront appelés, lorsqu'il sera fait application de l'article 9 du décret du 19 septembre 1947 susvisé, à occuper le siège laissé vacant dans l'ordre de leur inscription sur la liste.

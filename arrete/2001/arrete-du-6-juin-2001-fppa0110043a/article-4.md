@@ -1,0 +1,3 @@
+# Article 4
+
+Les conseils d'administration des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée expriment leur vote selon les modalités prévues aux articles 3 et 4 de l'arrêté du 6 juin 2001 susvisé. La délibération, prise en application de l'article 4 de l'arrêté du 6 juin 2001 susvisé, donne lieu à une transcription sur une carte T selon les modalités communiquées par la Caisse des dépôts et consignations. Les votes et les délibérations des conseils d'administration des établissements de ce collège sont transmis à l'adresse indiquée par le directeur général de la Caisse des dépôts et consignations en vue de leur centralisation et de leur dépouillement dans les délais fixés par l'arrêté fixant la date du scrutin.
