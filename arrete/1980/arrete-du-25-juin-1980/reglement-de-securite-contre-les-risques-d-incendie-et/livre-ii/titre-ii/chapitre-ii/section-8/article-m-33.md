@@ -2,7 +2,7 @@
 
 Alerte
 
-La liaison avec les sapeurs-pompiers prévue à l'article MS 66 doit être réalisée comme suit :
+La liaison avec les sapeurs-pompiers prévue à l'article MS 71 doit être réalisée comme suit :
 
 a) Par ligne téléphonique directe ou tout autre dispositif équivalent dans les établissements de 1re catégorie ;
 

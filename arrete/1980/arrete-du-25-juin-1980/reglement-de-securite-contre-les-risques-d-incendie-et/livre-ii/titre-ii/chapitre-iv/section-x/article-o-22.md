@@ -1,5 +1,9 @@
 # Article O 22
 
-Système d'alarme
+Détection automatique d'incendie
 
-Tous les établissements doivent être équipés d'un système d'alarme du type 1, installé conformément aux dispositions des articles MS 61 et MS 62.
+La détection automatique d'incendie doit être installée dans les conditions minimales suivantes :
+
+- détecteurs sensibles aux fumées et aux gaz de combustion, dans les circulations horizontales encloisonnées des niveaux comportant des locaux réservés au sommeil ;
+
+- détecteurs appropriés au risque, dans les locaux à risques importants.

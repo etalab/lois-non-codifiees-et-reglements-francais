@@ -1,7 +1,5 @@
 # Article O 21
 
-Détection automatique d'incendie
+Système de sécurité incendie
 
-Un système de détection automatique d'incendie, sensible aux fumées et aux gaz de combustion, doit être installé dans les circulations horizontales des niveaux comportant des locaux réservés au sommeil.
-
-Un système de détection automatique d'incendie, approprié aux risques, doit être installé dans les locaux à risques importants.
+Tous les établissements doivent être équipés d'un système incendie de catégorie A, tel que défini à l'article MS 53.
