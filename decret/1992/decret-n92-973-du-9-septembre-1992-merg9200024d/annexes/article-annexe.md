@@ -10,32 +10,30 @@ Chef du service des affaires économiques dans :
 
 - les directions régionales des affaires maritimes ;
 
-- les directions des services régionaux des affaires maritimes ;
+- les directions des services régionaux des services maritimes ;
 
 - les directions départementales des affaires maritimes ;
 
-- les quartiers des affaires maritimes n'étant pas le siège d'une direction départementale ;
+- les quartiers des affaires maritimes n'étant pas le siège d'une direction départementale.
 
-Chef de station maritime (dans les quarante stations les plus importantes) ;
-
-Officier de port adjoint n'ayant pas la classe fonctionnelle et remplissant certaines fonctions de commandant ou adjoint au commandant de port ;
+Officier de port adjoint n'ayant pas la classe fonctionnelle et remplissant certaines fonctions de commandant ou adjoint au commandant de port.
 
 Surveillant général d'une école nationale de la marine marchande.
 
 b) Fonctions impliquant une technicité particulière :
 
-Chef de centre régional de traitement des statistiques ;
+- chef de centre régional de traitement des statistiques ;
 
-Chef de section Etablissements de pêches maritimes ;
+- chef de section Etablissements de pêches maritimes ;
 
-Commandant et chef mécanicien de vedette régionale ;
+- commandant et chef mécanicien de vedette régionale ;
 
-Patron de vedette de surveillance rapprochée ;
+- agent désigné pour exercer des fonctions d'assistant bureautique et chargé des tâches quotidiennes d'animation, d'assistance et d'appui technique dans les domaines informatique et bureautique ;
 
-Patron de vedette de surveillance du littoral ;
+- gestionnaire de crédit et de personnel ;
 
-Moniteur en informatique et bureautique ;
+- chef de secrétariat particulier ;
 
-Gestionnaire de crédit et de personnel ;
+- greffier de tribunal maritime commercial ;
 
-Chef de secrétariat particulier.
+- agent exerçant des fonctions polyvalentes d'administration générale, d'assistance technique et d'accueil dans les directions départementales et les quartiers des affaires maritimes.
