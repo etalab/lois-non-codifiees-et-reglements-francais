@@ -206,6 +206,7 @@
 - [Arrêté du 22 juillet 1991 (MJSK9170091A)](arrete-du-22-juillet-1991-mjsk9170091a)
 - [Arrêté du 22 mars 1991 (INDE9100075A)](arrete-du-22-mars-1991-inde9100075a)
 - [Arrêté du 22 mars 1991 (SPSS9100803A)](arrete-du-22-mars-1991-spss9100803a)
+- [Arrêté du 22 mars 1991 (SPSS9100826A)](arrete-du-22-mars-1991-spss9100826a)
 - [Arrêté du 22 novembre 1991 (DEFP9102181A)](arrete-du-22-novembre-1991-defp9102181a)
 - [Arrêté du 23 janvier 1991 (AGRB9100139A)](arrete-du-23-janvier-1991-agrb9100139a)
 - [Arrêté du 23 janvier 1991 (AGRS9001571A)](arrete-du-23-janvier-1991-agrs9001571a)
