@@ -1,5 +1,0 @@
-# Article 1
-
-Par dérogation aux dispositions des articles L. 5 et L. 11 du code des pensions civiles et militaires de retraite [*bénéficiaires*], les anciens fonctionnaires, militaires et magistrats radiés des cadres à la suite de condamnations ou de sanctions amnistiées en application des lois n° 64-1269 du 23 décembre 1964, n° 66-396 du 17 juin 1966, n° 68-697 du 31 juillet 1968, et relevant du 5° de l'article 4 de cette dernière loi, modifié par l'article 24 de la loi n° 74-643 du 16 juillet 1974, ou de l'article 25 de ladite loi, modifié par l'article 27 de la loi n° 81-736 du 4 août 1981, pourront, sur demande, bénéficier de la prise en compte pour la retraite des annuités correspondant à la période comprise entre la radiation des cadres et soit la limite d'âge du grade détenu ou de l'emploi occupé au moment de cette radiation, soit le décès s'il est antérieur.
-
-Ces dispositions s'appliquent aux personnes de nationalité française à la date de promulgation de la présente loi. Elles s'appliquent, en outre, aux militaires ou anciens militaires ayant servi à titre étranger.

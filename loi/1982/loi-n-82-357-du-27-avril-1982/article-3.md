@@ -1,9 +1,0 @@
-# Article 3
-
-Le bénéfice de ce régime est réservé aux contribuables qui ont leur domicile fiscal en France et qui justifient chaque année que l'impôt établi à leur nom à raison de l'ensemble de leurs revenus n'excède pas, avant imputation de l'avoir fiscal, du crédit d'impôt et des prélèvements non libératoires, un plafond qui est révisé chaque année dans la même proportion que la première tranche du barème de l'impôt sur le revenu, le résultat obtenu étant arrondi à la dizaine de francs supérieure.
-
-L'impôt visé à l'alinéa premier est celui qui est mis en recouvrement l'année qui précède celle pour laquelle une justification est demandée.
-
-Toutefois, l'impôt mis en recouvrement l'année d'une demande d'ouverture sera retenu au bénéfice des personnes dont la situation de famille ou de revenus a été modifiée l'année précédente. Les modalités selon lesquelles ces contribuables apportent alors la preuve qu'ils remplissent la condition relative au plafond d'imposition sont définies par le décret visé à l'article 2.
-
-Ce plafond est fixé à 1000 F pour l'imposition mise en recouvrement en 1981.

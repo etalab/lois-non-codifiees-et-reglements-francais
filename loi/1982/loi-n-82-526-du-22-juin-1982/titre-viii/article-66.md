@@ -1,5 +1,0 @@
-# Article 66
-
-Pour les immeubles appartenant à des personnes morales ou physiques autres que les organismes d'habitation à loyer modéré ou gérés par ces personnes et ayant bénéficié de primes ou de prêts spéciaux à la construction consentis par le Crédit foncier de France ou la caisse centrale de coopération économique, le représentant de l'Etat dans le département peut, pendant toute la durée des prêts, demander au juge, et, en cas d'urgence, selon la procédure de référé, de nommer un administrateur provisoire lorsqu'il aura été constaté des fautes graves notamment relatives au clos et au couvert, à l'entretien et à la sécurité ou des irrégularités sérieuses dans la gestion de ces immeubles et dans le respect de l'engagement financier de l'emprunteur.
-
-L'administrateur provisoire désigné sur une liste établie par le ministre chargé de la construction et de l'habitation a pour mission, selon la décision du juge, soit d'assister le propriétaire dans sa mission de gestionnaire, soit d'exercer de plein droit les pouvoirs d'administration du propriétaire ou du gestionnaire pour une durée d'un an renouvelable.

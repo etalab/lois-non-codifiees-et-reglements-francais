@@ -1,5 +1,0 @@
-# Article 46
-
-A compter du 1er janvier 1983, les agents des conseils de prud'hommes des départements du Bas-Rhin, du Haut-Rhin et de la Moselle en fonctions à cette date seront, sur leur demande, soit intégrés dans des corps particuliers de greffiers en chef et de secrétaires-greffiers ou dans les corps de fonctionnaires, soit recrutés comme agents contractuels dans des conditions fixées par décret en Conseil d'Etat. Ces intégrations ou recrutements devront s'accompagner d'une reconstitution de carrière qui tiendra compte de la durée intégrale des services accomplis dans chacune des fonctions remplies par les intéressés dans les secrétariats des conseils de prud'hommes ; les intégrations ou recrutements et les reconstitutions de carrière seront décidées sur avis des commissions administratives paritaires compétentes.
-
-En attendant leur intégration ou leur recrutement comme agents contractuels, les personnels des conseils de prud'hommes du Bas-Rhin, du Haut-Rhin et de la Moselle resteront soumis aux statuts dont ils relèvent.

@@ -1,5 +1,0 @@
-# Article 30
-
-Jusqu'à l'entrée en vigueur de la loi prévue à l'article 1er de la présente loi, relative à la répartition des ressources entre l'Etat, les communes, les départements et les régions, restent à la charge de l'Etat les prestations de toute nature qu'il fournit actuellement au fonctionnement des services transférés à la collectivité départementale par la présente loi ou mis à la disposition de cette collectivité en tant que de besoin, ainsi qu'aux agents de ces services. Dans les mêmes conditions, restent à la charge des départements les prestations de toute nature, y compris celles relatives à l'entretien et l'acquisition des matériels, qu'ils fournissent actuellement au fonctionnement de l'administration préfectorale et des services extérieurs de l'Etat ainsi qu'à leurs agents.
-
-Lorsque ces participations entraînent l'inscription de crédits au budget de l'Etat (titres III et IV) et à la section de fonctionnement du budget du département, le montant de ceux-ci doit être au moins égal à la moyenne des crédits engagés sur les budgets des trois dernières années, à l'exclusion de toutes dépenses engagées à titre exceptionnel.

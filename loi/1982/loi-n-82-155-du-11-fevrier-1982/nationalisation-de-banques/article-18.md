@@ -1,5 +1,0 @@
-# Article 18
-
-Pour les sociétés mentionnées à l'article 12-II-b, il est constitué une commission administrative nationale d'évaluation composée du premier président de la Cour des comptes, président, du gouverneur de la Banque de France, du président de la section des finances du Conseil d'Etat, du président de la chambre commerciale de la Cour de cassation et d'un membre du Conseil économique et social désigné par le président de cette assemblée.
-
-Cette commission est chargée de fixer au 30 juin 1982 la valeur d'échange à cette date des actions de ces sociétés. A cet effet, elle détermine la valeur de négociation des actions de chaque société au 31 décembre 1981 à partir de l'actif net et du bénéfice net, en tenant compte des rapports constatés entre, d'une part, la valeur boursière moyenne des actions et, d'autre part, l'actif net et le bénéfice net des banques mentionnées à l'article 12-II-a. Cette valeur de négociation est actualisée pour tenir compte des évènements qui l'auront affectée pendant les six premiers mois de l'année 1982.

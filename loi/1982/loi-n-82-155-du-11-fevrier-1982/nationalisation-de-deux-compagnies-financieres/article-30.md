@@ -1,3 +1,0 @@
-# Article 30
-
-La nationalisation des sociétés mentionnées à l'article 29 est assurée par le transfert à l'Etat en toute propriété des actions représentant leur capital à la date de jouissance des obligations prévues à l'article 32. Toutefois, les personnes morales appartenant déjà au secteur public ou qui sont destinées à y entrer par l'effet de la présente loi peuvent conserver les actions qu'elles détiennent dans les sociétés mentionnées à l'article 29. Ces actions ne peuvent être cédées qu'à d'autres personnes morales appartenant également au secteur public ; elles peuvent aussi être échangées dans l'année qui suit la publication de la présente loi contre des obligations dans les conditions prévues à l'article 32.
