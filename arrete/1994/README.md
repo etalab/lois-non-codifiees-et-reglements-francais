@@ -177,7 +177,6 @@
 - [Arrêté du 6 janvier 1994 (BUDR9405001A)](arrete-du-6-janvier-1994-budr9405001a)
 - [Arrêté du 6 janvier 1994 (BUDR9405002A)](arrete-du-6-janvier-1994-budr9405002a)
 - [Arrêté du 6 janvier 1994 (BUDR9405003A)](arrete-du-6-janvier-1994-budr9405003a)
-- [Arrêté du 6 janvier 1994 (ENVP9430035A)](arrete-du-6-janvier-1994-envp9430035a)
 - [Arrêté du 6 juillet 1994 (AGRG9400958A)](arrete-du-6-juillet-1994-agrg9400958a)
 - [Arrêté du 6 juillet 1994 (EQUA9400836A)](arrete-du-6-juillet-1994-equa9400836a)
 - [Arrêté du 6 juillet 1994 (EQUZ9401038A)](arrete-du-6-juillet-1994-equz9401038a)
