@@ -1,6 +1,6 @@
 # Article Annexe
 
-**INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
@@ -10,7 +10,7 @@ Niveau : V.
 
 Code NSF : 251 r.
 
-**Résumé du référentiel d'emploi**
+Résumé du référentiel d'emploi
 
 A partir d'un plan d'ensemble et de schémas, généralement sans l'aide de gamme de montage, le (la) monteur (se) régleur (se) de systèmes mécaniques et automatisés réalise le montage puis le réglage d'ensembles mécaniques et de composants d'automatismes électriques, hydrauliques et pneumatiques. Il (elle) participe également à la mise au point d'ensembles automatisés, afin de livrer des ensembles mécaniques directement opérationnels ou des ensembles mécaniques automatisés à un metteur au point.
 
@@ -24,11 +24,11 @@ Le (la) monteur (se) régleur (se) de systèmes mécaniques et automatisés peut
 
 En atelier, les horaires sont réguliers, alors que chez le client, les contraintes de délais peuvent imposer des horaires particuliers.
 
-**Compétences attestées et descriptif
+Compétences attestées et descriptif
 
-des composantes de la certification**
+des composantes de la certification
 
-1. _Implanter des éléments mécaniques et des composants d'automatismes sur différents supports de biens d'équipements industriels_
+1. Implanter des éléments mécaniques et des composants d'automatismes sur différents supports de biens d'équipements industriels
 
 Implanter et fixer des composants d'automatismes sur différents types de supports, à partir de plans d'implantation.
 
@@ -36,9 +36,9 @@ Assembler des systèmes mécaniques sans réglage, à l'aide d'une notice.
 
 Réaliser l'assemblage par vissage et le calage de châssis en profilés, à partir de plans ou de schémas.
 
-2. _Monter des ensembles mécaniques
+2. Monter des ensembles mécaniques
 
-de biens d'équipements industriels_
+de biens d'équipements industriels
 
 Réaliser des montages de sous-ensembles tournants présentant des contraintes d'étanchéité.
 
@@ -48,21 +48,19 @@ Assembler des montages pour l'usinage et le contrôle, avec des éléments modul
 
 Effectuer le raccordement d'ensembles comportant des composants électriques, pneumatiques ou hydrauliques.
 
-3. _Régler des ensembles mécaniques
+3. Régler des ensembles mécaniques
 
-de biens d'équipements industriels_
+de biens d'équipements industriels
 
-Réaliser des montages de sous-ensembles tournants présentant des contraintes d'étanchéité.
+Réaliser le parachèvement de pièces de réglage pour le montage d'ensembles mécaniques ;
 
-Réaliser des montages d'ensembles mécaniques comprenant des systèmes de guidage linéaires.
+Régler les jeux fonctionnels de guidage et de rotation d'ensembles et sous-ensembles mécaniques ;
 
-Assembler des montages pour l'usinage et le contrôle, avec des éléments modulaires réutilisables, à partir de croquis ou de photos.
+Régler les ensembles mécaniques de transmissions.
 
-Effectuer le raccordement d'ensembles comportant des composants électriques, pneumatiques ou hydrauliques.
+4. Régler des ensembles mécaniques automatisés
 
-4. _Régler des ensembles mécaniques automatisés
-
-d'équipements industriels_
+d'équipements industriels
 
 Régler des automatismes pneumatiques d'équipements industriels en logique câblée.
 
@@ -70,9 +68,9 @@ Vérifier et conformer les cycles d'ensembles pneumatiques automatisés au cahie
 
 Vérifier et mettre au point le fonctionnement d'ensembles hydrauliques d'équipements industriels.
 
-**Secteurs d'activités ou types d'emploi
+Secteurs d'activités ou types d'emploi
 
-accessibles par le détenteur du titre**
+accessibles par le détenteur du titre
 
 L'emploi s'exerce dans les entreprises de tout secteur fabriquant des équipements ou des machines complexes destinées à la production de biens d'équipements ou de consommation.
 
