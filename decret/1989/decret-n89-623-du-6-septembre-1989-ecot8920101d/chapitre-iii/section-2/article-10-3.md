@@ -1,3 +1,0 @@
-# Article 10-3
-
-Par exception aux dispositions du I de l'article 10, la fraction d'affectation minimale obligatoire de l'actif d'un fonds commun de placement à risques peut aussi comprendre les parts d'autres fonds communs de placement à risques sous réserve que, pour le calcul de cette fraction d'actif obligatoire, les parts des autres fonds ne soient comptabilisées qu'à proportion de l'investissement de ces fonds dans les titres mentionnés au I de l'article 10 tel qu'il résulte du dernier calcul de leur valeur liquidative et que les autres fonds ne comptabilisent pas de parts de fonds communs de placement à risques dans leur propre fraction d'actif obligatoire.
