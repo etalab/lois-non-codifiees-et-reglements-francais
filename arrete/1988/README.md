@@ -642,7 +642,6 @@
 - [Arrêté du 30 novembre 1988 (SPSX8810033A)](arrete-du-30-novembre-1988-spsx8810033a)
 - [Arrêté du 30 septembre 1988 (DEFG8801753A)](arrete-du-30-septembre-1988-defg8801753a)
 - [Arrêté du 30 septembre 1988 (PRME8861169A)](arrete-du-30-septembre-1988-prme8861169a)
-- [Arrêté du 30 septembre 1988 (PTTT8800788A)](arrete-du-30-septembre-1988-pttt8800788a)
 - [Arrêté du 30 septembre 1988 (PTTT8800790A)](arrete-du-30-septembre-1988-pttt8800790a)
 - [Arrêté du 30 mai 1988 (ASEX8810446A)](arrete-du-30-mai-1988-asex8810446a)
 - [Arrêté du 30 mai 1988 (ECOL8800098J)](arrete-du-30-mai-1988-ecol8800098j)
