@@ -4,7 +4,9 @@ L'ordonnance n° 58-1064 du 7 novembre 1958 portant loi organique relative à l'
 
 I - Quinze jours au moins avant le premier tour de scrutin ouvert pour l'élection du Président de la République, le Gouvernement assure la publication de la liste des candidats.
 
-Cette liste est préalablement établie par le Conseil constitutionnel au vu des présentations qui lui sont adressées, dix-huit jours au moins avant le premier tour de scrutin, à titre individuel ou collectif, par au moins cent citoyens membres du Parlement, membres du Conseil économique et social, conseillers généraux ou maires élus. Une candidature ne peut être retenue que si, parmi les cent signataires de la présentation, figurent des élus d'au moins dix départements ou territoires d'outre-mer différents.
+Cette liste est préalablement établie par le Conseil constitutionnel au vu des présentations qui lui sont adressées, dix-huit jours au moins avant le premier tour de scrutin, par au moins cinq cents citoyens membres du Parlement, des conseils régionaux, des conseils généraux, du conseil de Paris, des assemblées territoriales des territoires d'outre-mer, maires ou membres élus du Conseil supérieur des Français de l'étranger. Une candidature ne peut être retenue que si, parmi les signataires de la présentation, figurent des élus d'au moins trente départements ou territoires d'outre-mer, sans que plus d'un dixième d'entre eux puissent être les élus d'un même département ou territoire d'outre-mer.
+
+Pour l'application des dispositions de l'alinéa précédent, les sénateurs représentant les Français établis hors de France et les membres élus du Conseil supérieur des Français de l'étranger sont réputés être les élus d'un même département ou territoire d'outre-mer.
 
 Le Conseil constitutionnel doit s'assurer du consentement des personnes présentées [*obligation*].
 
