@@ -6,6 +6,10 @@ Les disciplines d'internat sont les suivantes :
 
 spécialités médicales ;
 
+santé publique ;
+
+médecine du travail ;
+
 spécialités chirurgicales ;
 
 biologie médicale ;
