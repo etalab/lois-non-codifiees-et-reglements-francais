@@ -7,3 +7,5 @@ Sont admis en dispense du diplôme de fin de premier cycle d'arts et de la licen
 - le diplôme d'archiviste paléographe délivré par l'Ecole nationale des chartes ;
 
 - le diplôme de bi-licence, droit-histoire de l'art et archéologie délivré par l'université Paris-I.
+
+- Le diplôme de "spécialiste en biens et services culturels" délivré par l'Institut d'études supérieures des arts (IESA).
