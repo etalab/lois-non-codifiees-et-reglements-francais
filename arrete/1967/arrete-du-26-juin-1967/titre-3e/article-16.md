@@ -7,3 +7,5 @@ Il comprend :
 Des directeurs, des professeurs, des moniteurs d'écoles agréées pour la préparation au diplôme d'Etat de manipulateur d'électroradiologie ;
 
 Des médecins, dont trois électroradiologistes au moins.
+
+Un ou des manipulateurs d'électroradiologie en exercice depuis au moins trois ans et participant à l'encadrement des élèves en stages.

@@ -1,0 +1,3 @@
+# Article 8
+
+Le temps à passer dans chacun des échelons des différents grades pour accéder à l'échelon supérieur est fixé à un an pour les quatre premiers échelons du grade de conseiller de 2° classe, à deux ans pour les cinquième et sixième échelons du grade de conseiller de 2° classe, les quatre premiers échelons du grade de conseiller de 1ère classe et les trois premiers échelons du grade de conseiller hors classe, à trois ans pour le cinquième échelon du grade de conseiller de 1re classe, les quatrième et cinquième échelons du grade de conseiller hors classe et les trois premiers échelons du grade de président de section.

@@ -1,0 +1,3 @@
+# Article 21
+
+Le président de la chambre régionale des comptes ou, pour les commissaires du gouvernement, le procureur général près la Cour des comptes exercent les attributions confiées au chef de service par le décret n° 59-308 du 14 février 1959 susvisé en matière d'établissement de la note chiffrée et de l'appréciation, les compétences dévolues à la commission administrative paritaire par ce même texte sont exercées par le conseil supérieur des chambres régionales des comptes qui opère, en outre, la péréquation des notes au sein d'un même grade selon les modalités arrêtées par son président après avis de ce conseil.
