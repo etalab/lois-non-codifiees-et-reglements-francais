@@ -1,3 +1,0 @@
-# Article 9
-
-Pour tenir compte de la situation particulière des petites et moyennes entreprises, des dispositions simplifiées dérogeant à celles du cahier des clauses comptables peuvent être introduites dans les marchés qu'elles passent avec le secteur public. Toutefois, les obligations comptables auxquelles lesdites entreprises seront astreintes doivent leur permettre, dans tous les cas, d'appliquer les dispositions des articles 231 à 237 du code des marchés publics ainsi que les dispositions des cahiers des clauses administratives générales relatives aux obligations comptables applicables aux titulaires de marchés passés au nom de l'Etat.
