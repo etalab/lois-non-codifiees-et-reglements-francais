@@ -1,0 +1,3 @@
+# Article 1
+
+Est autorisée la création au ministère de l'intérieur, de la sécurité intérieure et des libertés locales (sous-direction du recrutement et de la formation) d'un traitement automatisé d'informations nominatives dénommé GEF (gestion électronique de la formation) relatif à l'organisation et à la gestion de la formation continue des agents relevant du périmètre de gestion de la direction générale de l'administration. Ce traitement sera également mis en oeuvre au sein des directions d'administration centrale, des préfectures et des secrétariats généraux pour l'administration de la police (SGAP).
