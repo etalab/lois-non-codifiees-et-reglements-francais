@@ -400,6 +400,7 @@
 - [Arrêté du 13 mars 1998 (PRMX9802734A)](arrete-du-13-mars-1998-prmx9802734a)
 - [Arrêté du 13 octobre 1998 (AGRG9801958A)](arrete-du-13-octobre-1998-agrg9801958a)
 - [Arrêté du 13 octobre 1998 (ECOT9816287A)](arrete-du-13-octobre-1998-ecot9816287a)
+- [Arrêté du 13 octobre 1998 (EQUI9800827A)](arrete-du-13-octobre-1998-equi9800827a)
 - [Arrêté du 13 octobre 1998 (MJSK9870077A)](arrete-du-13-octobre-1998-mjsk9870077a)
 - [Arrêté du 13 mai 1998 (DEFG9801499A)](arrete-du-13-mai-1998-defg9801499a)
 - [Arrêté du 13 mai 1998 (EQUS9800676A)](arrete-du-13-mai-1998-equs9800676a)
