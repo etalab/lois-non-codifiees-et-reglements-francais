@@ -9,4 +9,5 @@
 - [Titre VI : Positions - Affectations.](titre-vi)
 - [Titre VII : Cessation définitive des fonctions](titre-vii)
 - [Titre VIII : Le médecin conseil national.](titre-viii)
+- [Titre X : Dispositions transitoires et d'exécution](titre-x)
 - [Article 34](article-34.md)
