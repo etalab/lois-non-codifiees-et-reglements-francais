@@ -24,17 +24,11 @@ Au cas où l'un des membres du conseil cesse d'appartenir au conseil d'administr
 
 Le président du conseil d'administration, choisi parmi les administrateurs, est nommé sur proposition du conseil d'administration, par décret pris en conseil des ministres, sur le rapport du ministre de l'industrie et du commerce.
 
-Les fonctions de président et de directeur général ne peuvent être remplies par la même personne.
-
 En cas de partage des voix, la voix du président est prépondérante.
-
-Les directeurs généraux des services nationaux sont nommés sur la proposition du conseil d'administration par décret délibéré en conseil des ministres, pris sur le rapport des ministres de l'économie et des finances et de la Production industrielle et choisis parmi les personnalités de compétence éprouvée dans la profession.
 
 Les membres du conseil d'administration et les directeurs généraux des services nationaux devront être différents dans les services de l'Electricité de France et du Gaz de France.
 
 Aucun membre du Parlement ne peut être membre du conseil d'administration ou directeur général des services nationaux.
-
-Les présidents du conseil d'administration et les directeurs généraux ne peuvent exercer aucune fonction rémunérée ou non dans les conseils d'entreprises privées.
 
 Un décret pris sur le rapport des ministres de la production industrielle, de l'économie et des finances et de l'agriculture, détermine les conditions dans lesquelles :
 
@@ -43,3 +37,5 @@ Un décret pris sur le rapport des ministres de la production industrielle, de l
 2° Sont établis les états de prévision de recettes et de dépenses, les programmes des travaux, les bilans et les comptes de profits et pertes ;
 
 3° Sont publiés les bilans et les rapports des conseils d'administration.
+
+Au sein de chacun des services nationaux, le conseil d'administration peut déléguer à son président celles de ses compétences que la loi ou la règlementation en vigueur ne lui prescrivent pas d'exercer lui-même, avec la faculté de les déléguer et de les subdéléguer ; il peut aussi habiliter le président à déléguer sa signature. Un décret précisera en tant que de besoin les modalités de publication de ces délégations et subdélégations.

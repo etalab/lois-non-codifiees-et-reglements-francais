@@ -16,8 +16,6 @@ Il est créé, entre les organismes de distribution d'énergie électrique visé
 
 Ce fonds est alimenté par des prélèvements sur les recettes des organismes de distribution d'énergie électrique. Il verse à ces organismes des dotations de péréquation. Ces prélèvements et ces dotations sont inscrits au débit ou au crédit du compte d'exploitation de l'organisme de distribution d'énergie électrique qu'ils concernent.
 
-Cette péréquation doit être telle que la situation financière des organismes de distribution énumérés à l'article 23 de la loi précitée auxquels des rabais spéciaux étaient consentis par l'Electricité de France, service national, en raison de leur faible consommation spécifique n'aurait pas été aggravée si elle leur avait été appliquée en 1954 avec les conditions tarifaires résultant du cahier des charges de l'Electricité de France, service national.
-
 Des arrêtés concertés entre le ministre chargé de l'électricité, le ministre de l'économie et des finances et le ministre de l'intérieur fixent chaque année :
 
 1° Les critères techniques et économiques en fonction desquels seront déterminées les dotations de péréquation ;

@@ -8,7 +8,7 @@ Des décrets pris sur le rapport du ministre de la production industrielle et, l
 
 3° Les modalités de la dissolution des comités d'organisation du gaz et de l'énergie électrique ;
 
-4° Les conditions dans lesquelles les services de distribution devront cesser toutes activités industrielles et commerciales relatives à la réparation, à l'entretien des installations intérieures à la vente et à la location des appareils en dehors de celles définies à l'article 1er de la présente loi ;
+4° Les conditions dans lesquelles les services de distribution de gaz devront cesser toutes activités industrielles et commerciales relatives à la réparation, à l'entretien des installations intérieures à la vente et à la location des appareils en dehors de celles définies à l'article 1er de la présente loi ;
 
 5° Les conditions dans lesquelles les programmes de travaux des services de distribution sont approuvés par le ministre de la production industrielle et le ministre de l'agriculture, après avis des services nationaux et des collectivités concédantes intéressées ;
 
