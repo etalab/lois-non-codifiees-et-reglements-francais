@@ -8,6 +8,7 @@
 - [Décret n°96-86 du 2 février 1996 (TASS9620210D)](decret-n96-86-du-2-fevrier-1996-tass9620210d)
 - [Décret n°96-14 du 3 janvier 1996 (DEFP9502236D)](decret-n96-14-du-3-janvier-1996-defp9502236d)
 - [Décret n°96-4 du 3 janvier 1996 (ECOT9610258D)](decret-n96-4-du-3-janvier-1996-ecot9610258d)
+- [Décret n°96-163 du 4 mars 1996 (ENVE9530103D)](decret-n96-163-du-4-mars-1996-enve9530103d)
 - [Décret n°96-10 du 5 janvier 1996 (AGRS9502489D)](decret-n96-10-du-5-janvier-1996-agrs9502489d)
 - [Décret n°96-11 du 5 janvier 1996 (AGRS9502490D)](decret-n96-11-du-5-janvier-1996-agrs9502490d)
 - [Décret n°96-12 du 5 janvier 1996 (AGRS9502491D)](decret-n96-12-du-5-janvier-1996-agrs9502491d)
