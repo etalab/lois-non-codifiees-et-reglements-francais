@@ -12,4 +12,4 @@ c) Calculatrices électroniques : l'emploi de calculatrices électroniques peut 
 
 d) Diagrammes : l'usage de diagrammes entropiques et de Mollier pour la vapeur d'eau, du diagramme psychométrique de Carrier et du diagramme du fluide frigorigène R 22 est autorisé aux examens prévus dans les cycles de formation des capitaines de 1re classe de la navigation maritime, de capitaine de 2e classe de la navigation maritime et d'officier technicien de la marine marchande.
 
-e) Dessin technique : pour cette épreuve, les candidats doivent se munir d'une feuille de papier à dessin permettant l'exécution d'une épreuve dans le format A 3 (297 mm  420 mm) et des instruments d'usage habituels. L'emploi des normographes, pistolets et calibres est autorisé ainsi que l'usage des mémentos de dessin.
+" e) Dessin technique : pour cette épreuve, les candidats doivent se munir de feuilles de papier à dessin et de calque permettant l'exécution d'une épreuve dans le format A 3 (297 mm " 420 mm) et des instruments d'usage habituels. L'emploi des normographes, pistolets et calibres est autorisé ainsi que l'usage des mémentos de dessin. "
