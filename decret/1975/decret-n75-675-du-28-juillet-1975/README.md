@@ -6,5 +6,6 @@
 - [CHAPITRE III : Droits du militaire.](chapitre-iii)
 - [CHAPITRE IV : Règles de services.](chapitre-iv)
 - [CHAPITRE V : Récompenses.](chapitre-v)
+- [CHAPITRE VI : Punitions disciplinaires.](chapitre-vi)
 - [CHAPITRE VII : Dispositions diverses.](chapitre-vii)
 - [Article 42](article-42.md)
