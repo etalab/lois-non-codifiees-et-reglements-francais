@@ -1,0 +1,7 @@
+# Article 25
+
+Pendant une période de trois ans, le diplôme de fin d'études délivré par l'école territoriale d'infirmiers et d'infirmières de la Polynésie française et le diplôme délivré par le cours local de formation professionnelle d'infirmiers, infirmières et sages-femmes seront considérés comme équivalents du diplôme d'Etat d'infirmier pour l'accès au corps des infirmiers et infirmières des services médicaux régi par le présent décret. Ces diplômes demeureront assimilés au diplôme d'Etat pour l'avancement dans ce corps.
+
+Les titulaires du diplôme de fin d'études de l'école territoriale d'infirmiers et d'infirmières de la Polynésie française ou du diplôme délivré par le cours local de formation professionnelle d'infirmiers, infirmières et sages-femmes qui, pendant cette période de trois ans, accéderont aux corps des infirmiers et infirmières des services médicaux de la Polynésie française, seront toutefois tenus d'effectuer un stage de trois ans dans ce corps avant de pouvoir être titularisés sans ancienneté à l'échelon de début.
+
+Seuls les infirmiers et infirmières du corps du personnel des services médicaux de la Polynésie française, titulaires du diplôme d'Etat, pourront d'une part, en application des dispositions de l'article 5 du présent décret, participer aux concours et examens ouverts aux fonctionnaires du corps métropolitain correspondant, d'autre part, suivre les stages de spécialisation pour lesquels la possession du diplôme d'Etat est exigée.
