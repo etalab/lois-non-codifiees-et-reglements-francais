@@ -1,6 +1,6 @@
 # Article 18
 
-Dans le délai de huit jours suivant la date limite de dépôt des listes de candidats, le directeur général de l'Assistance publique-hôpitaux de Paris procède à leur vérification et porte sans délai les irrégularités constatées à la connaissance des délégués de liste. Ces derniers peuvent alors procéder, dans un délai de cinq jours à compter de l'expiration du délai de huit jours susmentionné, aux modifications nécessaires. Aucune liste ne peut être modifiée après l'expiration de ce délai de cinq jours.
+Sans préjudice des dispositions prévues aux troisième et quatrième alinéas de l'article 15 du présent décret, le directeur général de l'Assistance publique - hôpitaux de Paris procède, dans le délai de huit jours suivant la date limite de dépôt des listes, à leur vérification et porte les irrégularités constatées à la connaissance des délégués de liste. Ces derniers peuvent alors procéder, dans un délai de cinq jours à compter de l'expiration du délai de huit jours susmentionné, aux modifications nécessaires. Aucune liste ne peut être modifiée après l'expiration de ce délai de cinq jours.
 
 Si, après l'expiration de ce dernier délai, il est constaté qu'une liste ne comprend pas le nombre de candidats prévu à l'article 16, ou si un ou plusieurs candidats sont reconnus inéligibles et qu'en conséquence la liste concernée ne comprend plus le nombre de candidats requis, cette liste est considérée comme n'ayant présenté aucun candidat pour le groupe correspondant.
 

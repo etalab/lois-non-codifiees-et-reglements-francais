@@ -1,6 +1,6 @@
 # Article 17
 
-Les listes de candidats doivent être déposées au plus tard trente-cinq jours avant la date du scrutin auprès du directeur général de l'Assistance publique-hôpitaux de Paris.
+Les listes de candidats doivent être déposées au plus tard quarante-deux jours avant la date du scrutin auprès du directeur général de l'Assistance publique-hôpitaux de Paris.
 
 Elles doivent mentionner le nom d'un agent délégué de liste et celui d'un délégué suppléant, candidats ou non, habilités à les représenter dans toutes les opérations électorales.
 

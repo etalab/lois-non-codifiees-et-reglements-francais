@@ -4,9 +4,11 @@ Les représentants du personnel sont élus à la proportionnelle. La désignatio
 
 1. Nombre total de sièges de représentants titulaires attribués à chaque liste
 
-Chaque liste a droit à autant de sièges de représentants titulaires que le nombre moyen de voix obtenu par elle contient de fois le quotient électoral.
+Chaque liste a droit à autant de sièges de représentants titulaires que le nombre de voix obtenu par elle contient de fois le quotient électoral.
 
 Les sièges de représentants titulaires restant éventuellement à pourvoir sont attribués suivant la règle de la plus forte moyenne.
+
+En cas d'égalité de moyenne entre deux ou plusieurs listes pour l'attribution d'un siège, celui-ci est attribué à la liste ayant obtenu le nombre de voix le plus élevé pour la commission administrative paritaire concernée et, en cas d'égalité du nombre de voix obtenues pour cette commission, à la liste ayant obtenu le plus grand nombre de voix pour l'ensemble des commissions administratives paritaires à l'Assistance publique - hôpitaux de Paris. Lorsque le scrutin concerne les élections partielles, ce sont les résultats obtenus lors de la dernière consultation générale qui servent dans ce dernier cas de référence.
 
 2. Répartition par groupes
 
@@ -16,9 +18,9 @@ Les autres listes exercent ensuite leur choix pour leur premier siège, successi
 
 Il est procédé de même pour les sièges restant à pourvoir.
 
-En cas d'égalité du nombre de sièges obtenus par plusieurs listes, le choix est exercé dans l'ordre déterminé par le nombre respectif moyen de voix obtenu par ces listes.
+En cas d'égalité du nombre de sièges obtenus par plusieurs listes, le choix est exercé dans l'ordre déterminé par le nombre respectif de voix obtenu par ces listes.
 
-En cas d'égalité de suffrages, l'ordre est déterminé par le nombre moyen de voix obtenu pour l'ensemble des commissions administratives paritaires et, en cas d'élections partielles, lors de la dernière consultation générale.
+En cas d'égalité de suffrages, l'ordre est déterminé par le nombre de voix obtenu pour l'ensemble des commissions administratives paritaires et, en cas d'élections partielles, lors de la dernière consultation générale.
 
 Lorsque la procédure prévue ci-dessus n'a pas permis à une liste de pourvoir tous les sièges qui lui ont été attribués, ces sièges sont répartis à la proportionnelle entre les listes ayant présenté un ou des candidats pour les groupes dont les représentants restent à désigner. La désignation par ces dernières des représentants élus au titre des sièges ainsi attribués s'opère, en cas de besoin, en application des dispositions prévues aux alinéas précédents.
 
@@ -30,4 +32,4 @@ Lorsque aucune liste n'a présenté de candidats pour un groupe de la commission
 
 4. Désignation des représentants titulaires de chaque groupe
 
-Les représentants titulaires sont désignés, dans chaque groupe, dans l'ordre de présentation des listes.
+Les représentants titulaires sont désignés, dans chaque groupe, dans l'ordre de présentation des listes, en fonction du nombre de sièges qu'elles ont obtenus.
