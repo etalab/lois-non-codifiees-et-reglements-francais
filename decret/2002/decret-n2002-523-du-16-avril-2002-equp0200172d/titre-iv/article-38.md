@@ -1,0 +1,3 @@
+# Article 38
+
+Les ingénieurs en chef des ponts et chaussées qui, à la date de publication du présent décret, ont reçu rang et prérogatives d'ingénieur général de 2e classe des ponts et chaussées en application du quatrième alinéa de l'article 7 du décret n° 59-358 du 20 février 1959 modifié relatif au statut particulier du corps des ingénieurs des ponts et chaussées conservent leurs droits à être nommés ingénieurs généraux des ponts et chaussées dans les conditions prévues à cet article. Le reclassement dans ce grade est effectué à l'échelon et au chevron qu'ils auraient atteints et avec l'ancienneté qu'ils auraient acquise s'ils avaient été nommés ingénieurs généraux à la date d'effet de la décision les plaçant dans cette situation.

@@ -1,0 +1,3 @@
+# Article 35
+
+Les ingénieurs des ponts et chaussées, les ingénieurs de l'aviation civile, les ingénieurs de la météorologie et les ingénieurs géographes qui ont été recrutés par voie de liste d'aptitude ou d'examen professionnel dans les six années précédant la date de publication du présent décret peuvent demander, dans un délai de six mois à compter de la date de publication du présent décret, à être reclassés dans le grade d'ingénieur des ponts et chaussées dans les mêmes conditions que s'ils avaient été promus à cette même date et reclassés conformément aux dispositions de l'article 17 ci-dessus.

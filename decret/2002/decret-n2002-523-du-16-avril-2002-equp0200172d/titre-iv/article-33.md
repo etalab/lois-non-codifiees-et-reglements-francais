@@ -1,0 +1,3 @@
+# Article 33
+
+Pour les trois premiers concours internes à caractère professionnel organisés à compter de la date de publication du présent décret et par dérogation au premier alinéa de l'article 10 ci-dessus, la condition de sept ans de services est ramenée successivement à quatre ans, cinq ans puis six ans et la condition d'âge de trente-cinq ans est portée successivement à trente-huit ans, trente-sept ans et trente-six ans pour les corps des ingénieurs des études et de l'exploitation de l'aviation civile, des ingénieurs des travaux de la météorologie et des ingénieurs des travaux géographiques et cartographiques de l'Etat.

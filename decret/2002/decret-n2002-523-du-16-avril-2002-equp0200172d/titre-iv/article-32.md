@@ -1,0 +1,5 @@
+# Article 32
+
+Par dérogation aux dispositions du 3° de l'article 6 ci-dessus et pour les trois premiers concours organisés à compter de la date de publication du présent décret, le concours interne à caractère professionnel est mis en oeuvre de manière distincte pour les corps des ingénieurs des études et de l'exploitation de l'aviation civile, des ingénieurs des travaux de la météorologie et des ingénieurs des travaux géographiques et cartographiques de l'Etat ; il est réservé annuellement à chacun d'eux le recrutement d'un poste.
+
+Par dérogation aux dispositions du 4° de l'article 6 ci-dessus et pour les cinq premières listes d'aptitude établies à compter de la date de publication du présent décret, le recrutement par la voie de la liste d'aptitude est mis en oeuvre de manière distincte pour les corps des ingénieurs des études et de l'exploitation de l'aviation civile, des ingénieurs des travaux de la météorologie et des ingénieurs des travaux géographiques et cartographiques de l'Etat ; il est réservé annuellement à chacun d'eux le recrutement d'un poste.
