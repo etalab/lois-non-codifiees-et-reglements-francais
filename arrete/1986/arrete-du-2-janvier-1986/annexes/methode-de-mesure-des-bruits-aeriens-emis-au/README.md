@@ -1,3 +1,0 @@
-# METHODE DE MESURE DES BRUITS AERIENS EMIS AU POSTE DE CONDUITE PAR LES GRUES A TOUR
-
-- [Article Annexe I bis](article-annexe-i-bis.md)
