@@ -20,6 +20,10 @@ c) Pour 15 p. 100 des emplois à pourvoir, par examen professionnel, réservé a
 
 Les modalités de cet examen professionnel sont fixées par arrêté du ministre chargé de l'aviation civile.
 
+d) Par intégration des ingénieurs du contrôle de la navigation aérienne élèves ou stagiaires issus du concours externe d'accès à ce corps et déclarés, avant leur titularisation, médicalement inaptes au regard des dispositions du décret n° 90-998 du 8 novembre 1990 modifié portant statut particulier du corps des ingénieurs du contrôle de la navigation aérienne.
+
+L'intégration de ces agents intervient sur leur demande et sous réserve d'avis favorable du jury de l'Ecole nationale de l'aviation civile.
+
 II. - La durée du service militaire obligatoire ou du service national actif effectivement accompli vient, le cas échéant, en déduction de la durée des services exigés aux b et c ci-dessus pour pouvoir se présenter aux concours.
 
 Les places non pourvues au titre du c ci-dessus peuvent être offertes aux candidats au concours prévu au b ci-dessus.
@@ -27,3 +31,5 @@ Les places non pourvues au titre du c ci-dessus peuvent être offertes aux candi
 Les places non pourvues au titre du b ci-dessus peuvent être offertes aux candidats aux concours prévus au a ci-dessus. Elles se répartissent entre le 1° et le 2° du a ci-dessus selon les pourcentages respectifs de 60 et 40.
 
 Lorsque l'application de ces pourcentages aboutit à des nombres no entiers, le nombre de postes reportés sur le premier concours externe est arrondi à l'unité supérieure.
+
+Les places non pourvues au titre de l'un des deux concours prévus au a du I peuvent être reportées sur l'autre concours externe organisé au titre de la même année.
