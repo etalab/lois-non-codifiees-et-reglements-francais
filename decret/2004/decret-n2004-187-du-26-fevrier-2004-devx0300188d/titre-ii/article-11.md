@@ -1,0 +1,9 @@
+# Article 11
+
+Lorsqu'il délivre l'autorisation de mise sur le marché d'un produit biocide, le ministre chargé de l'environnement peut établir une "formulation-cadre" qui définit les caractéristiques du groupe auquel appartient ce produit, pour le même type d'utilisations et d'utilisateurs. Il communique cette "formulation-cadre" au demandeur, en vue de son utilisation ultérieure, par lui-même ou par toute personne à laquelle il aura délivré une lettre d'accès, pour la demande d'autorisation de mise sur le marché de nouveaux produits biocides correspondant à cette "formulation-cadre".
+
+Les produits biocides de ce groupe doivent contenir les mêmes substances actives biocides et les variations que peut présenter leur composition ne doivent affecter ni le niveau de risque ni l'efficacité qui caractérise ce groupe de produits.
+
+Sont tolérées les variations consistant en une diminution du pourcentage de la substance active biocide, en une modification de la composition en pourcentage d'une ou de plusieurs substances non actives, ou dans le remplacement d'un ou plusieurs pigments, colorants ou parfums par d'autres présentant le même niveau de risque ou un risque plus faible, et n'en diminuant pas l'efficacité.
+
+L'autorisation de mise sur le marché d'un produit biocide correspondant à une "formulation-cadre" est accordée par le ministre chargé de l'environnement, au vu d'un dossier simplifié dont la composition est fixée par l'arrêté prévu au II de l'article 3, au détenteur de cette "formulation-cadre" ou à tout autre demandeur détenteur d'une lettre d'accès à cette "formulation-cadre", dans un délai de soixante jours à compter de la date à laquelle le ministre a informé le demandeur du caractère suffisant du dossier dans les conditions prévues au II de l'article 9. Ce délai est suspendu si le ministre demande des compléments d'information dans les conditions fixées au deuxième alinéa du IV de l'article 9.

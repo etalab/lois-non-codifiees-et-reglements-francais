@@ -1,0 +1,7 @@
+# Article 10
+
+I. - Les produits biocides à faible risque mentionnés à l'article L. 522-6 du code de l'environnement ne doivent contenir que des substances actives biocides inscrites sur la liste IA et aucune substance préoccupante. Au sens des dispositions du présent décret, on entend par "substance préoccupante" toute substance, autre que la substance active biocide, intrinsèquement capable de provoquer un effet néfaste pour l'homme, les animaux ou l'environnement, qui est contenue ou produite dans un produit biocide à une concentration suffisante pour provoquer un tel effet, et qui, soit fait entrer le produit biocide dans lequel elle est contenue dans le champ d'application des articles R. 231-51 du code du travail, L. 5132-4 et R. 1342-2 du code de la santé publique, soit présente d'autres motifs de préoccupation.
+
+Les produits mentionnés au premier alinéa font l'objet d'une demande d'autorisation de mise sur le marché adressée au ministre chargé de l'environnement et accompagnée d'un dossier simplifié dont le contenu est fixé par l'arrêté prévu au II de l'article 3.
+
+II. - Le ministre chargé de l'environnement notifie sa décision dans un délai de soixante jours à compter de la date à laquelle il a informé le demandeur du caractère suffisant du dossier dans les conditions prévues au II de l'article 9. Ce délai est suspendu si le ministre chargé de l'environnement demande des compléments d'information dans les conditions prévues au deuxième alinéa du IV de l'article 9.

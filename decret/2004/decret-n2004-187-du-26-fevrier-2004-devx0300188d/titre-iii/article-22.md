@@ -1,0 +1,9 @@
+# Article 22
+
+La mise sur le marché d'un produit biocide ou d'une substance active biocide bénéficiant d'une dérogation au titre du II de l'article L. 522-7 du code de l'environnement n'est autorisée que dans les cas suivants :
+
+a) Dans le cadre d'une action de recherche et de développement scientifique définie au III de l'article R. 231-52-4 du code du travail, si les personnes responsables de cette action tiennent à jour des relevés écrits détaillant l'identité du produit biocide ou de la substance active biocide, les mentions d'étiquetage, les quantités fournies ainsi que les noms et adresses des personnes qui ont reçu le produit ou la substance, et établissent un dossier contenant toutes les données disponibles sur les effets éventuels sur la santé humaine ou animale ou sur l'incidence sur l'environnement. Sur sa demande, ces informations sont communiquées au ministre chargé de l'environnement ;
+
+b) Dans le cadre d'une action de recherche et de développement de production définie au 2° du V de l'article R. 231-52-4 du code du travail, si l'information requise au point a est communiquée, avant la mise sur le marché du produit biocide ou de la substance active biocide, au ministre chargé de l'environnement et à l'autorité compétente d'un autre Etat membre si l'expérience ou l'essai doit être effectué sur le territoire de ce dernier.
+
+Toutefois, la mise sur le marché en vue d'un essai pouvant entraîner un rejet dans l'environnement d'un produit biocide non autorisé ou d'une substance active biocide exclusivement destinée à être utilisée dans un produit biocide n'est autorisée que si le ministre chargé de l'environnement a préalablement autorisé la réalisation de cet essai, en limitant les quantités à utiliser et les zones à traiter, ou sous réserve d'autres conditions justifiées par la protection de l'environnement et de la santé humaine et animale.
