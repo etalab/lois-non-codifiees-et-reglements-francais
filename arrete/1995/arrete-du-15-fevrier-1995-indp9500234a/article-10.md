@@ -1,0 +1,5 @@
+# Article 10
+
+Sur toute demande du directeur général des postes et télécommunications du ministère de l'industrie, des postes et télécommunications et du commerce extérieur, l'utilisateur de liaisons C.P.L. prouve, par des mesures adéquates, que le champ résiduel rayonné par les lignes d'énergie à haute tension, dû aux liaisons C.P.L., à l'intérieur du périmètre de couverture nominale d'une balise et dans une bande de fréquences s'étendant de F - 2 kHz à F + 2 kHz (limites incluses), ne gêne pas le fonctionnement de tout récepteur de radionavigation. Cette condition est satisfaite si le champ résiduel susmentionné est inférieur à + 22 dB par rapport au microvolt par mètre, cette limite n'étant pas applicable à moins de 150 mètres d'une ligne de transport d'énergie à haute tension.
+
+Cette condition s'applique aussi bien aux fréquences utilisées au-dessus de 200 kHz par les liaisons C.P.L. qu'aux rayonnements non essentiels susceptibles de se produire au-dessus de 200 kHz, quelles que soient les fréquences utilisées par ces liaisons.
