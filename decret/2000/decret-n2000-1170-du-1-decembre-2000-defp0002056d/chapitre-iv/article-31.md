@@ -1,3 +1,0 @@
-# Article 31
-
-Dans la limite d'un contingent annuel qu'il fixe par arrêté, le ministre de la défense peut, à titre honorifique, accorder à des réservistes de la réserve citoyenne dont les activités contribuent directement au renom des armées, au maintien de l'esprit de défense et au renforcement du lien entre la nation et ses forces armées, le droit au port des insignes d'un grade supérieur à celui qu'ils détiennent et à l'appellation correspondante. Cette distinction ne permet en aucun cas d'occuper un emploi militaire, d'exercer le commandement et d'être admis à ce grade dans la réserve opérationnelle ou l'armée professionnelle.

@@ -1,3 +1,0 @@
-# Article 25
-
-Les membres de l'inspection générale des affaires sociales ayant la qualité de docteur en médecine, les médecins et les pharmaciens territoriaux, les médecins et pharmaciens titulaires de la fonction publique de l'Etat ou des établissements publics qui en dépendent, les praticiens hospitaliers, ainsi que les médecins titulaires des organisations internationales intergouvernementales et des organismes publics de recherche appartenant à un corps ou à un emploi de catégorie A peuvent être détachés dans le cadre d'emplois des médecins et des pharmaciens de sapeurs-pompiers professionnels.

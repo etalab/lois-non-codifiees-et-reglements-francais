@@ -1,3 +1,0 @@
-# Article 8
-
-Pour permettre le contrôle des conditions de productions, les producteurs fermiers, fabricants et affineurs sont soumis à la tenue d'une comptabilité matière journalière. Ce document distinguant, le cas échéant, les fromages d'appellation et les autres fromages ainsi que tout document nécessaire au contrôle du respect des conditions de production sont tenus sur place à la disposition des agents de l'Institut national des appellations d'origine. Les inscriptions d'entrée et de sortie sur ce document sont faites de suite et sans aucun blanc ; elles indiquent la nature et la quantité des produits.

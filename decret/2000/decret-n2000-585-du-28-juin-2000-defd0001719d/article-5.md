@@ -1,3 +1,0 @@
-# Article 5
-
-Pour le matériel naval en service, le service de soutien de la flotte fait évoluer les allocations en fonction des besoins émis en particulier par les autorités organiques au profit des éléments de force maritime. Il détermine les besoins de réapprovisionnement et de réparation de ce matériel. Il est chargé du réapprovisionnement du matériel naval en service et le fait réparer. Il décide du ravitaillement des éléments de force maritime et l'ordonne, s'il ne l'effectue pas. Il veille au maintien des niveaux prescrits du stock militaire de matériel naval et en prononce ou propose la réforme, selon les modalités fixées par arrêté du ministre de la défense.

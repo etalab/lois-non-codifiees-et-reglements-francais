@@ -1,3 +1,0 @@
-# Article 12
-
-Les entreprises visées à l'article 10 bénéficient de l'aide prévue à l'article 3 de la loi du 13 juin 1998 susvisée pour l'ensemble de leurs salariés occupés selon une durée de travail n'excédant pas 35 heures hebdomadaires ou 1 600 heures annuelles et fixée soit par une convention ou un accord collectif conclu dans les conditions prévues au II de l'article 19 de la loi du 19 janvier 2000 susvisée, soit par le document prévu au VIII de l'article 19 précité ou, à défaut, mentionnée dans le contrat de travail, dès lors qu'elles versent à ces salariés une rémunération mensuelle au moins égale à celle définie au I de l'article 20 de la loi précitée.

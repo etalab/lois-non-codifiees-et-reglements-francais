@@ -1,3 +1,0 @@
-# Article 12
-
-Les entreprises et les exploitations recensées par le comité national des produits laitiers de l'Institut national des appellations d'origine, qui sont situées en dehors de l'aire géographique de l'appellation et ayant commercialisé des fromages sous le nom de "Pélardon" de façon continue, peuvent continuer à utiliser ce nom sans la mention "appellation d'origine contrôlée" jusqu'à l'expiration d'un délai de cinq ans suivant la date de publication de l'enregistrement de l'appellation d'origine "Pélardon" à titre d'appellation d'origine protégée conformément à l'article 5 du règlement (CEE) n° 2081/92 susvisé.

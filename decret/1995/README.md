@@ -550,7 +550,6 @@
 - [Décret n°95-395 du 13 avril 1995 (DEFD9501289D)](decret-n95-395-du-13-avril-1995-defd9501289d)
 - [Décret n°95-396 du 13 avril 1995 (DEFD9501290D)](decret-n95-396-du-13-avril-1995-defd9501290d)
 - [Décret n°95-399 du 13 avril 1995 (AGRS9500360D)](decret-n95-399-du-13-avril-1995-agrs9500360d)
-- [Décret n°95-402 du 13 avril 1995 (SPSS9403399D)](decret-n95-402-du-13-avril-1995-spss9403399d)
 - [Décret n°95-418 du 13 avril 1995 (EQUS9500410D)](decret-n95-418-du-13-avril-1995-equs9500410d)
 - [Décret n°95-49 du 13 janvier 1995 (INDA9401091D)](decret-n95-49-du-13-janvier-1995-inda9401091d)
 - [Décret n°95-58 du 13 janvier 1995 (DEFD9401861D)](decret-n95-58-du-13-janvier-1995-defd9401861d)

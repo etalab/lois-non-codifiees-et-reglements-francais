@@ -1,5 +1,0 @@
-# Article 9
-
-Toute personne majeure ou émancipée peut obtenir, sur indication des nom et prénom usuel de ses parents, des copies intégrales de son acte de naissance ou de mariage. Les ascendants ou descendants de la personne que l'acte concerne et son conjoint peuvent obtenir les mêmes copies en fournissant l'indication des nom et prénom usuel des parents de cette personne. Ces copies peuvent être aussi délivrées au procureur de la République près le tribunal supérieur d'appel, aux cadis, au greffier en chef du tribunal de première instance pour l'établissement des certificats de nationalité française, et, dans les cas où les lois et règlements les y autorisent, aux administrations publiques.
-
-Les autres personnes ne peuvent obtenir la copie intégrale d'un acte de naissance ou de mariage qu'en vertu d'une autorisation du procureur de la République près le tribunal supérieur d'appel. En cas de refus, la demande est portée devant le tribunal de cadi. Les copies d'actes de décès peuvent être délivrées à toute personne.

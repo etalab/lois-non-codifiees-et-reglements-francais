@@ -1,7 +1,0 @@
-# Article 6
-
-Jusqu'à la constitution de la commission administrative paritaire du corps des techniciens de laboratoire du ministère de l'économie, des finances et de l'industrie, qui interviendra dans un délai de six mois à partir de la publication du présent décret, les représentants du personnel à la commission administrative paritaire du corps des techniciens de laboratoire des douanes ainsi que les représentants du personnel à la commission administrative paritaire du corps des techniciens de laboratoire de la concurrence, de la consommation et de la répression des fraudes siègent en formation commune sous la présidence du directeur du personnel, de la modernisation et de l'administration.
-
-Les représentants à la commission administrative paritaire du corps des techniciens de laboratoire des douanes siègent au sein de la commission administrative paritaire préparatoire placée auprès du directeur général des douanes et droits indirects jusqu'à l'installation de la nouvelle commission administrative paritaire préparatoire.
-
-Les représentants à la commission administrative paritaire du corps des techniciens de laboratoire de la concurrence, de la consommation et de la répression des fraudes siègent au sein de la commission administrative paritaire préparatoire placée auprès du directeur général de la concurrence, de la consommation et de la répression des fraudes jusqu'à l'installation de la nouvelle commission administrative paritaire préparatoire.

@@ -1,3 +1,0 @@
-# Article 7
-
-Jusqu'à leur transformation en application respectivement des articles 51 et 52 et de l'article 56 de la loi du 12 juillet 1999 précitée, la liste des établissements publics aux directeurs et directeurs adjoints desquels sont applicables les dispositions du premier alinéa de l'article 53 de la loi du 26 janvier 1984 précitée et fixée par le décret n° 88-546 du 6 mai 1988 susvisé comprend également les districts dont les compétences, l'importance du budget, le nombre et la qualification des agents à encadrer permettent de les assimiler à des communes de plus de 20 000 habitants et les communautés de villes.

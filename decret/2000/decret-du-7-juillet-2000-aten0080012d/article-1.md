@@ -1,3 +1,0 @@
-# Article 1
-
-Il est institué, auprès du ministre chargé de l'environnement et du ministre chargé de l'outre-mer, un comité de l'initiative française pour les récifs coralliens (IFRECOR), qui a pour objectif de promouvoir une politique active, aux niveaux national, régional et local, favorable à la préservation de ces écosystèmes menacés, dans le cadre du développement durable des collectivités de l'outre-mer concernées : les départements d'outre-mer, de la Guadeloupe, la Martinique et la Réunion, la collectivité territoriale de Mayotte, la Nouvelle-Calédonie et les territoires d'outre-mer de Polynésie française et de Wallis-et-Futuna. L'IFRECOR comporte un comité national, un comité permanent et des comités locaux.

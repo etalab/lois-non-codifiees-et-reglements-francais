@@ -1,3 +1,0 @@
-# Article 2
-
-Le décret n° 72-1240 du 29 décembre 1972 fixant les modalités de recouvrement de la redevance annuelle applicable à certains établissements classés comme dangereux, insalubres ou incommodes, le décret n° 73-361 du 23 mars 1973 fixant les modalités de recouvrement de la taxe unique applicable aux établissements classés comme dangereux, insalubres ou incommodes et le décret n° 83-929 du 21 octobre 1983, modifié par le décret n° 93-1411 du 29 décembre 1993 et par le décret n° 98-1043 du 18 novembre 1998, fixant la liste des activités soumises à la perception de la redevance annuelle applicable à certaines installations classées pour la protection de l'environnement sont abrogés.

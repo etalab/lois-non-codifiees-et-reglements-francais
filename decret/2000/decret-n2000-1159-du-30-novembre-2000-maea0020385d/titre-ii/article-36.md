@@ -1,3 +1,0 @@
-# Article 36
-
-Pour l'application de l'article L. 122-15 du code du service national, lorsque le premier régime d'assurance vieillesse de base auquel le volontaire civil est affilié à titre obligatoire postérieurement à son volontariat est celui applicable à Mayotte ou dans les îles Wallis-et-Futuna, les périodes accomplies au titre du volontariat civil sont assimilées à des périodes d'assurances. Il est décompté autant de trimestres qu'au cours de l'année civile correspond de fois quatre-vingt-dix jours. Le nombre de trimestres valables est, éventuellement, arrondi au chiffre immédiatement supérieur.

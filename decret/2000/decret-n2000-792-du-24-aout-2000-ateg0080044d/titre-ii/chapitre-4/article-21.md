@@ -1,9 +1,0 @@
-# Article 21
-
-Sans préjudice des dispositions de l'article L. 234-2 du code rural, les agents du Conseil supérieur de la pêche régis par le présent décret peuvent être mis à la disposition d'une administration de l'Etat, de l'un de ses établissements publics ou d'un organisme à caractère associatif chargé de missions d'intérêt général, notamment dans le domaine de l'eau, de la protection du milieu naturel aquatique ou de la pêche en eau douce. Cette mise à disposition a lieu à la demande de ces administrations, établissements ou organismes. Les agents concernés sont placés sous l'autorité directe du président de l'organisme ou du responsable de l'administration auprès desquels ils sont mis à disposition.
-
-La décision de mise à disposition est prise par le directeur général du Conseil supérieur de la pêche, pour une période maximale de trois ans. Elle ne peut avoir lieu qu'avec l'accord de l'agent qui demeure régi par les dispositions du présent décret. Elle peut être renouvelée par périodes n'excédant pas trois ans.
-
-Avant l'expiration de sa durée, la mise à disposition peut prendre fin à la demande de l'agent, du Conseil supérieur de la pêche ou de l'organisme d'accueil, sous réserve du respect des règles de préavis prévues dans la convention définie ci-après.
-
-La mise à disposition ne peut intervenir qu'après signature d'une convention passée entre le Conseil supérieur de la pêche et l'organisme d'accueil. Cette convention définit notamment le nombre d'agents mis à disposition, la nature et le niveau des activités qu'ils exercent, leurs conditions d'emplois et les modalités du contrôle et de l'évaluation desdites activités, ainsi que les modalités de remboursement par l'organisme d'accueil de la rémunération du ou des agents intéressés. La convention est conclue pour une période dont la durée ne peut excéder six ans. Elle peut être renouvelée.

@@ -1,5 +1,0 @@
-# Article 4
-
-L'élaboration et l'exécution du programme de travail sont assurés par un comité technique coprésidé par le directeur général de l'administration et de la fonction publique et le directeur général de l'Institut national de la statistique et des études économiques, ou leurs représentants. Ce comité comprend un représentant de l'Institut national de la statistique et des études économiques, de la direction générale de l'administration et de la fonction publique, de la direction du budget, de la direction générale des collectivités locales, de la direction des hôpitaux et de la direction de l'animation de la recherche, des études et des statistiques. Il fait appel, le cas échéant, aux services de gestion du personnel et aux services statistiques des ministères. Il peut également recourir à des experts extérieurs à l'administration.
-
-Ses travaux sont coordonnés par l'Institut national de la statistique et des études économiques en matière statistique et par la direction générale de l'administration et de la fonction publique en matière de méthodologie de gestion prévisionnelle des emplois et des compétences.

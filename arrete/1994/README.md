@@ -678,7 +678,6 @@
 - [Arrêté du 19 mai 1994 (MAEA9420300A)](arrete-du-19-mai-1994-maea9420300a)
 - [Arrêté du 19 mai 1994 (RESK9400715A)](arrete-du-19-mai-1994-resk9400715a)
 - [Arrêté du 20 avril 1994 (EQUS9400803A)](arrete-du-20-avril-1994-equs9400803a)
-- [Arrêté du 20 avril 1994 (INTE9400215A)](arrete-du-20-avril-1994-inte9400215a)
 - [Arrêté du 20 avril 1994 (MENP9400813A)](arrete-du-20-avril-1994-menp9400813a)
 - [Arrêté du 20 avril 1994 (RESK9490499A)](arrete-du-20-avril-1994-resk9490499a)
 - [Arrêté du 20 avril 1994 (TEFT9400404A)](arrete-du-20-avril-1994-teft9400404a)

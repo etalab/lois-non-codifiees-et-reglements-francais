@@ -1,3 +1,0 @@
-# Article 8
-
-Toute modification apportée par l'exploitant aux caractéristiques exposées au point 3 du dossier de demande d'autorisation ou de déclaration, autre que l'augmentation de puissance installée mentionnée à l'article 7 ci-dessus, est portée avant sa réalisation à la connaissance du ministre chargé de l'énergie avec tous les éléments d'appréciation utiles. Si les modifications impliquent un changement d'énergie primaire, l'exploitant dépose une nouvelle demande d'autorisation d'exploiter ou une nouvelle déclaration. Cette demande ou cette déclaration est instruite, selon le cas, conformément aux dispositions du titre Ier ou du titre II ci-dessus.

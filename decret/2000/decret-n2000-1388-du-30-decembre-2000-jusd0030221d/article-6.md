@@ -1,3 +1,0 @@
-# Article 6
-
-Les ordonnances prises par le juge de l'application des peines en application des dispositions du sixième alinéa de l'article 722 du code de procédure pénale sont notifiées dans les conditions prévues par les sixième et septième alinéas de l'article D. 116-9 de ce même code. Elles peuvent faire l'objet d'un appel soit au greffe du tribunal correctionnel selon les modalités prévues aux deux premiers alinéas de l'article 502 du code de procédure pénale, soit selon les modalités prévues à l'article 503 de ce même code. Les dispositions du dernier alinéa de l'article D. 116-9 sont applicables.

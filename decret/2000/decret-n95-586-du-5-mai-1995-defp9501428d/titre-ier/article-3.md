@@ -1,3 +1,0 @@
-# Article 3
-
-Les établissements visés par le présent décret dépendent du service de l'enseignement des forces françaises et de l'élément civil stationnés en Allemagne, placée sous l'autorité du général commandant ces forces. Le chef de service de l'enseignement des forces françaises et de l'élément civil stationnés en Allemagne est nommé par arrêté du ministre de la défense sur proposition du ministre de l'éducation nationale. Il est recruté dans les corps de personnels de direction d'établissement d'enseignement ou de formation relevant du ministre de l'éducation nationale ou dans un corps de fonctionnaires de catégorie A de niveau équivalent.Ce fonctionnaire agit par délégation du général commandant des forces françaises et de l'élément civil stationnés en Allemagne.

@@ -1,3 +1,0 @@
-# Article 31
-
-Dans les dispositions des décrets n° 65-688 du 10 août 1965 relatif au statut particulier du corps des ingénieurs des travaux ruraux, n° 65-690 du 10 août 1965 relatif au statut particulier des ingénieurs des travaux agricoles, n° 70-128 du 14 février 1970 relatif au statut particulier des ingénieurs des travaux des eaux et forêts et jusqu'à l'intervention des modifications utiles, la dénomination technicien supérieur des services du ministère chargé de l'agriculture est substituée aux dénominations techniciens d'agriculture, techniciens de génie rural, techniciens des travaux forestiers de l'Etat et techniciens supérieurs des services vétérinaires.

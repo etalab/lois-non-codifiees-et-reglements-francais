@@ -1,3 +1,0 @@
-# Article 2
-
-Pour le domaine de la coopération internationale, le ministre des affaires étrangères décide chaque année du nombre de prises en charge de la protection sociale qu'il assure pour les volontaires affectés auprès d'associations agréées par lui et dont l'activité se situe à l'extérieur du territoire de la République. La prise en charge de la protection sociale de ces volontaires se fait dans les mêmes conditions que celle des volontaires affectés dans les services de l'Etat. Le nombre de prises en charge est notifié, à chaque association concernée et au début de chaque année civile, par le ministre des affaires étrangères.

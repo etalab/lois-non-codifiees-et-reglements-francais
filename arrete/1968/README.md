@@ -2,7 +2,6 @@
 
 - [Arrêté du 1 octobre 1968](arrete-du-1-octobre-1968)
 - [Arrêté du 1 septembre 1969](arrete-du-1-septembre-1969)
-- [Arrêté du 2 août 1968](arrete-du-2-aout-1968)
 - [Arrêté du 2 février 1968](arrete-du-2-fevrier-1968)
 - [Arrêté du 3 janvier 1968](arrete-du-3-janvier-1968)
 - [Arrêté du 5 décembre 1968](arrete-du-5-decembre-1968)

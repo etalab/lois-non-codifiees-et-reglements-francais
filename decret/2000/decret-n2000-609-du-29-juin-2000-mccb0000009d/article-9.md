@@ -1,5 +1,0 @@
-# Article 9
-
-A titre transitoire et pendant un délai qui ne peut excéder six mois, les commissions consultatives régionales dont les membres ont été nommés avant l'entrée en vigueur du présent décret exercent, jusqu'à la nomination des nouveaux membres, les compétences prévues par ce décret.
-
-Les entrepreneurs de spectacles vivants qui n'étaient pas soumis à l'obligation de détenir une licence ou d'établir une déclaration pour exercer leur activité, disposent, à compter de l'entrée en vigueur du présent décret, d'un délai de trois mois pour déposer une demande de licence ou pour adresser au préfet une déclaration. La lettre recommandée par laquelle le préfet fait connaître au demandeur de licence, en application de l'article 3, le numéro d'enregistrement de sa demande et la date avant laquelle la décision devra lui être notifiée vaut autorisation provisoire d'exercer l'activité d'entrepreneur de spectacles vivants pour la catégorie qui fait l'objet de la demande jusqu'à la notification de la décision du préfet ou jusqu'à l'intervention de la décision implicite prévue au deuxième alinéa de l'article 3.

@@ -1,3 +1,0 @@
-# FONCTIONS RELEVANT DE LA GENDARMERIE NATIONALE.
-
-- [Article ANNEXE](article-annexe.md)

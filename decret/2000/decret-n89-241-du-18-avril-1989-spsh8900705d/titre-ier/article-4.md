@@ -1,3 +1,0 @@
-# Article 4
-
-Les aides-soignants de classe normale ayant atteint au moins le 6e échelon de l'échelle 3 de rémunération peuvent, dans chaque établissement, être promus aide-soignant de classe supérieure dans les conditions prévues au 1° de l'article 69 de la loi du 9 janvier 1986 susvisée. Le nombre de promotions dans le grade d'aide-soignant de classe supérieure est calculé chaque année, dans chaque établissement, dans les conditions fixées à l'article 1er du décret n° 2002-782 du 3 mai 2002. Une nomination peut être prononcée dans ce grade lorsque le résultat de l'application de ce pourcentage est inférieur à un et qu'il n'existe aucun titulaire de ce grade dans l'établissement.
