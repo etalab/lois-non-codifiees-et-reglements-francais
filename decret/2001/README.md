@@ -239,6 +239,7 @@
 - [Décret n°2001-954 du 17 octobre 2001 (AGRM0101922D)](decret-n2001-954-du-17-octobre-2001-agrm0101922d)
 - [Décret n°2001-962 du 17 octobre 2001 (ECOI0100464D)](decret-n2001-962-du-17-octobre-2001-ecoi0100464d)
 - [Décret n°2003-522 du 17 juin 2003 (PRMX0306650D)](decret-n2003-522-du-17-juin-2003-prmx0306650d)
+- [Décret n°90-66 du 17 janvier 1990 (MICT9000015D)](decret-n90-66-du-17-janvier-1990-mict9000015d)
 - [Décret n°99-508 du 17 juin 1999 (ECOF9800037D)](decret-n99-508-du-17-juin-1999-ecof9800037d)
 - [Décret n°2001-1205 du 18 décembre 2001 (EQUP0101616D)](decret-n2001-1205-du-18-decembre-2001-equp0101616d)
 - [Décret n°2001-1232 du 18 décembre 2001 (MAEA0120473D)](decret-n2001-1232-du-18-decembre-2001-maea0120473d)
