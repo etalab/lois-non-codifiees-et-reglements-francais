@@ -1,6 +1,6 @@
 # Article 4
 
-Le taux de la cotisation d'assurance volontaire est fixé à 14,75 % à compter du premier versement venant à échéance après la date de publication du présent arrêté.
+Le taux de la cotisation d'assurance volontaire est fixé à 15,15 % de la base annuelle définie à l'article 2 ci-dessus.
 
 Le montant de cette cotisation est réparti comme suit :
 
