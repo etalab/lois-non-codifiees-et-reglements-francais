@@ -1,19 +1,7 @@
 # Article 2
 
-Peuvent se présenter aux épreuves mentionnées à l'article 7 ci-dessous les candidats remplissant l'une des conditions mentionnées ci-après :
+La même dérogation est rendue applicable du 1er mars 1986 au 30 avril 1986 :
 
-a) Soit être titulaire :
+- aux ouvriers de la mine de fer de Mairy, appartenant à la Société des mines de Sacilor Lormines, qui justifient d'au moins trente ans de services miniers dont au moins vingt ans au fond et sont nés avant le 1er mai 1941 ;
 
-- du baccalauréat de l'enseignement du second degré ;
-
-- de l'un des titres admis en dispense dudit baccalauréat pour la poursuite des études dans les universités par arrêté du 25 août 1969 du ministre de l'éducation nationale et les arrêtés ultérieurs ;
-
-- de l'un des examens spéciaux d'entre dans les universités prévus par l'arrêté du 2 septembre 1969 du ministre de l'éducation nationale ;
-
-- des diplômes ou certificats permettant l'exercice des professions sanitaires et sociales dont la liste est publiée en annexe au présent arrêté ;
-
-b) Soit être âgé de vingt-cinq au moins au 1er janvier de l'année d'entrée en formation, justifier à cette date de cinq années d'activités professionnelles et avoir passé avec succès l'examen de niveau mentionné à l'article 5 ci-dessous ;
-
-c) Soit être âgé de vingt-cinq ans au moins au 1er janvier de l'année d'entrée en formation, s'être consacré à l'éducation d'un ou plusieurs enfants à la charge de son foyer pendant cinq ans et avoir passé avec succès l'examen de niveau mentionné à l'article 5 ci-dessous ;
-
-d) Soit justifier d'un diplôme étranger non homologué habilitant à exercer la profession d'assistant de service social dans le pays où il a été délivré et avoir passé avec succès l'examen de niveau mentionné à l'article 5 ci-dessous.
+- aux ouvriers, employés, techniciens et agents de maîtrise de la même mine de fer qui justifient d'au moins trente ans de services miniers et sont nés avant le 1er mai 1936.

@@ -1,4 +1,4 @@
-# Arrêté du 7 mars 1986 modifiant l'arrêté du 16 mai 1980 relatif aux conditions d'admission dans les établissements de formation au diplôme d'Etat d'assistant de service social.
+# Arrêté du 7 mars 1986 relatif à l'ouverture anticipée du droit à pension de retraite pour certains agents des mines de fer de Lorraine.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,4 +1,4 @@
-# Arrêté du 14 mars 1986 du 14 mars 1986 modifiant le contrôle des recettes dans les salles de spectacles cinématographiques
+# Arrêté du 14 mars 1986 fixant les conditions d'inscription sur la liste d'aptitude aux emplois de direction et d'agent comptable des organismes du régime de sécurité sociale.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -10,3 +10,4 @@
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
+- [Annexes](annexes)

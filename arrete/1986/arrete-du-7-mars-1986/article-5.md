@@ -1,11 +1,3 @@
 # Article 5
 
-L'examen de niveau comprend trois épreuves :
-
-1. La rédaction en trois heures d'un exposé sur une question d'ordre général ;
-
-2. La rédaction en deux heures d'un résumé de texte ;
-
-3. Une épreuve d'une heure et demie portant sur les problèmes liés à l'actualité économique et sociale.
-
-Les copies sont anonymes et chacune des épreuves est notée sur 20.
+Le directeur du budget, le directeur du gaz, de l'électricité et du charbon, le directeur de la sécurité sociale et le délégué à l'emploi sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

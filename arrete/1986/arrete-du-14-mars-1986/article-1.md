@@ -1,3 +1,3 @@
 # Article 1
 
-L'admission aux séances de spectacles cinématographiques doit donner lieu, sous peine des sanctions prévues à l'article 18 du code de l'industrie cinématographique, à la délivrance aux spectateurs, avant leur entrée dans le lieu de projection, de billets dans les conditions prévues par le présent arrêté.
+Les pensions d'invalidité, de veuf ou de veuve invalide sont mises en paiement entre le 5e et le 8e jour du mois qui suit le mois au titre duquel elles sont dues.

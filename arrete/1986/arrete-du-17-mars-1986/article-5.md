@@ -1,3 +1,3 @@
 # Article 5
 
-La valeur du point de retraite pour la période du 1er janvier au 30 juin 1986 est fixée à 1,864 F.
+Le directeur des affaires sociales est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

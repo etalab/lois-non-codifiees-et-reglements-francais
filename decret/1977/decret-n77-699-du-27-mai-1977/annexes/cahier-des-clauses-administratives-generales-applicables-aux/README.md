@@ -6,3 +6,4 @@
 - [Chapitre 4 : Constatation de l'exécution des prestations.](chapitre-4)
 - [Chapitre 5 : Résiliation du marché - exécution par défaut.](chapitre-5)
 - [Chapitre 6 : Différends et litiges.](chapitre-6)
+- [Chapitre 7 : Stipulations spéciales aux marchés d'informatique ou de bureautique.](chapitre-7)

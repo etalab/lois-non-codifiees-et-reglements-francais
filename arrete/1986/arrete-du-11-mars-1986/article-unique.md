@@ -1,3 +1,0 @@
-# Article unique
-
-Par arrêté du ministre de l'économie, des finances et du budget, du ministre des P.T.T., du secrétaire d'Etat auprès du Premier ministre, chargé des techniques de la communication, et du secrétaire d'Etat auprès du ministre de l'économie, des finances et du budget, chargé du budget et de la consommation, en date du 11 mars 1986, l'établissement public de diffusion Télédiffusion de France (T.D.F.) est autorisé à porter la participation qu'il détient dans le capital social de la société dénommée Société monégasque d'exploitation et d'études de radiodiffusion (Somera) de 6.750.000 F à 10.750.000 F.

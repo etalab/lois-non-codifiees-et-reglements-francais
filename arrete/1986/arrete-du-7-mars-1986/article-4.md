@@ -1,3 +1,3 @@
 # Article 4
 
-Les candidats à l'examen de niveau prévu à l'article 3 ci-dessus doivent déposer à la direction régionale des affaires sanitaires et sociales de leur choix, un mois avant la date de l'examen, un curriculum vitae comprenant des renseignements sur leurs activités antérieures et une fiche familiale d'état civil.
+Les remboursements auxquels peut prétendre la Caisse autonome nationale de la sécurité sociale dans les mines, en application du deuxième alinéa de l'article 6 du décret du 27 octobre 1967 susvisé, sont assurés dans les conditions fixées par les conventions du 14 novembre 1985 susvisées.

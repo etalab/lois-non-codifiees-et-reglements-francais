@@ -1,3 +1,3 @@
 # Article 4
 
-La valeur du point de retraite pour la période du 1er juillet au 31 décembre 1985 est fixée à 1,828 F.
+Sur proposition du comité départemental des prestations sociales agricoles, le commissaire de la République peut, compte tenu de la situation économique des éleveurs de son département, réduire ou majorer dans la limite de 25 p. 100 les équivalences fixées dans les tableaux des articles 1er et 3.

@@ -1,12 +1,8 @@
-# Arrêté du 11 mars 1986 portant modification de la composition de la commission ministérielle de l'informatique et de la bureautique auprès du ministre du travail, de l'emploi et de la formation professionnelle.
+# Arrêté du 11 mars 1986 portant application de l'article 3 de la directive n° 84-527 C.E.E. relative aux bouteilles à gaz soudées en acier non allié
 
 - [Article 1](article-1.md)
-- [Article unique](article-unique.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)
-- [Article 7](article-7.md)
-- [Article 8](article-8.md)
+- [Titre Ier : Dispositions générales.](titre-ier)
+- [Titre II : Marquage des bouteilles de type C.E.E..](titre-ii)
+- [Titre III : Utilisation des bouteilles de type C.E.E..](titre-iii)
+- [Titre IV : Dispositions diverses.](titre-iv)
 - [Article 9](article-9.md)
