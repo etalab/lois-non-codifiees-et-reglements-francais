@@ -2,10 +2,10 @@
 
 Le taux maximum des vacations horaires allouées aux officiers, sous-officiers, caporaux et sapeurs-pompiers volontaires en cas d'intervention est fixé de la manière suivante :
 
-Officiers : 60,59 F.
+Officiers : 61,20 F.
 
-Sous-officiers : 48,70 F.
+Sous-officiers : 49,19 F.
 
-Caporaux : 43,32 F.
+Caporaux : 43,75 F.
 
-Sapeurs : 40,29 F.
+Sapeurs : 40,69 F.
