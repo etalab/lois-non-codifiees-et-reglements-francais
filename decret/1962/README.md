@@ -61,7 +61,6 @@
 - [Décret n°62-729 du 29 juin 1962](decret-n62-729-du-29-juin-1962)
 - [Décret n°61-1168 du 30 octobre 1961](decret-n61-1168-du-30-octobre-1961)
 - [Décret n°61-1535 du 30 décembre 1961](decret-n61-1535-du-30-decembre-1961)
-- [Décret n°61-1542 du 30 décembre 1961](decret-n61-1542-du-30-decembre-1961)
 - [Décret n°62-1263 du 30 octobre 1962](decret-n62-1263-du-30-octobre-1962)
 - [Décret n°62-1266 du 30 octobre 1962](decret-n62-1266-du-30-octobre-1962)
 - [Décret n°62-756 du 30 juin 1962](decret-n62-756-du-30-juin-1962)
