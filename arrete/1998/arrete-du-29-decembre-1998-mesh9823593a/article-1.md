@@ -8,12 +8,16 @@ Du salaire brut soumis à cotisations sociales obligatoires pour les agents cont
 
 Il est fixé comme suit :
 
-- plus de 5 ans et moins de 15 ans de services publics effectifs : 12 mois ;
+-plus de 5 ans et moins de 15 ans de services publics effectifs : 12 mois ;
 
-- de 15 ans à moins de 20 ans de services publics effectifs : 16 mois ;
+-de 15 ans à moins de 20 ans de services publics effectifs :
 
-- de 20 ans à moins de 25 ans de services publics effectifs : 20 mois ;
+16 mois ;
 
-- plus de 25 ans de services publics effectifs : 26 mois.
+-de 20 ans à moins de 25 ans de services publics effectifs :
+
+20 mois ;
+
+-plus de 25 ans de services publics effectifs : 26 mois.
 
 Toutefois, le montant de l'indemnité de départ volontaire tel que calculé ci-dessus ne saurait excéder un plafond de 300 000 F brut.
