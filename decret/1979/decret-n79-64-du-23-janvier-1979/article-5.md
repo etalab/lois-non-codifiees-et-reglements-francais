@@ -1,3 +1,5 @@
 # Article 5
 
-Les emplois de chef de service et d'inspecteur général comportent chacun un seul échelon.
+L'emploi de chef de service comporte un seul échelon.
+
+L'emploi d'inspecteur général comporte deux échelons.
