@@ -24,6 +24,4 @@ Institut des sciences et techniques des Yvelines, Versailles - Saint-Quentin-en-
 
 Institut supérieur d'ingénieurs de Franche-Comté, Besançon ;
 
-Institut polytechnique de l'université d'Orléans ;
-
 Institut de cognitique, Bordeaux-II.
