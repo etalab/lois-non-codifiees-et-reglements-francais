@@ -26,6 +26,8 @@
 - [Décret du 12 décembre 1985](decret-du-12-decembre-1985)
 - [Décret n°85-1175 du 12 novembre 1985](decret-n85-1175-du-12-novembre-1985)
 - [Décret n°85-1312 du 12 décembre 1985](decret-n85-1312-du-12-decembre-1985)
+- [Décret n°85-1318 du 12 décembre 1985](decret-n85-1318-du-12-decembre-1985)
+- [Décret n°85-1319 du 12 décembre 1985](decret-n85-1319-du-12-decembre-1985)
 - [Décret n°85-1179 du 13 novembre 1985](decret-n85-1179-du-13-novembre-1985)
 - [Décret n°85-1195 du 13 novembre 1985](decret-n85-1195-du-13-novembre-1985)
 - [Décret n°85-1200 du 13 novembre 1985](decret-n85-1200-du-13-novembre-1985)
