@@ -1,0 +1,3 @@
+# Article 14
+
+Contrôle de l'accès à l'installation. - Les parties de l'installation où sont entreposés et incinérés des déchets dangereux sont clôturées par un grillage en matériaux résistants d'une hauteur minimale de 2 mètres ou, à défaut, l'ensemble de l'installation. Un accès principal et unique doit être aménagé pour les conditions normales de fonctionnement du site, tout autre accès devant être réservé à un usage secondaire et exceptionnel. Les issues ouvertes des installations d'entreposage et d'incinération de déchets doivent être surveillées et gardées pendant les heures d'exploitation. Elles sont fermées en dehors de ces heures.
