@@ -18,11 +18,11 @@ II - Couvertures et terrasses comprenant notamment les couvertures, souches de c
 
 - Petits défauts d'étanchéité localisés : 0,10.
 
-- Couverture étanche, mais souches de cheminées, gouttières et descentes d'eaux pluviales mal entretenues :
+Couverture étanche, souches et descentes bien entretenues :
 
-Immeuble collectif : 0,20.
+Immeuble collectif : 0,35.
 
-Immeuble individuel : 0,30.
+Immeuble individuel : 0,50.
 
 - Couverture étanche, souches et descentes bien entretenues :
 
@@ -40,7 +40,11 @@ III - Ravalement comprenant la remise en état des façades :
 
 - Façades en bon état : matériaux dépoussiérés depuis moins de 10 ans : 0,35.
 
-- Façades enduites entièrement refaites depuis moins de 10 ans : 0,50
+- Façades enduites entièrement refaites depuis moins de 10 ans :
+
+Immeuble collectif : 0,50.
+
+Immeuble individuel : 0,55.
 
 Nota - Les coefficients ci-dessus s'entendent pour l'ensemble des façades d'un bâtiment lorsque celles-ci sont toutes dans le même état. Si celles-ci ne sont pas toutes dans le même état, un coefficient intermédiaire sera appliqué, tenant compte de la superficie respective de ces façades.
 
