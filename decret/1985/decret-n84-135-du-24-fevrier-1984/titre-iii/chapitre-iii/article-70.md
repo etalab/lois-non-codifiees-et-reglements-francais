@@ -59,3 +59,7 @@ L'avancement d'échelon dans la 1re et la 2e classe du corps des professeurs des
 </tr>
 </tbody>
 </table>
+
+Les professeurs des universités-praticiens hospitaliers qui ont exercé, pendant une durée d'au moins trois ans, un mandat de président ou de directeur d'établissement public d'enseignement supérieur bénéficient, sur leur demande, d'une bonification d'ancienneté d'une durée égale à 60 % de la durée effective d'un seul mandat. Cette bonification est prise en compte pour l'avancement d'échelon. Elle ne peut être accordée à un professeur des universités-praticien hospitalier qu'une seule fois.
+
+La bonification prend effet le premier jour du mois suivant la demande.
