@@ -8,7 +8,7 @@ Une demande établie sur papier libre ;
 
 La liste nominative des enseignants habilités à délivrer ce type d'enseignement, accompagnée pour chacun d'eux des justificatifs suivants :
 
-- soit copie de l'attestation de suivi du stage de formation de quatre jours organisé par le ministère chargé des transports pour l'application du programme national de formation à la conduite (P.N.F.) et l'utilisation du Guide pour la formation des automobilistes.
+- soit copie de l'attestation de suivi du stage de formation de trois jours organisé par le ministère chargé des transports pour l'application du programme national de formation à la conduite (P.N.F.) et l'utilisation du Guide pour la formation des automobilistes.
 
 - soit copie du diplôme du brevet pour l'exercice de la profession d'enseignant de la conduite automobile et de la sécurité routière (B.E.P.E.C.A.S.E.R.) obtenu à compter de la session 1992.
 
