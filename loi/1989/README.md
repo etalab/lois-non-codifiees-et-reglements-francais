@@ -62,6 +62,7 @@
 - [Loi n° 89-877 du 4 décembre 1989 (MAEX8900046L)](loi-n-89-877-du-4-decembre-1989-maex8900046l)
 - [Loi n° 89-899 du 18 décembre 1989 (FAMX8900027L)](loi-n-89-899-du-18-decembre-1989-famx8900027l)
 - [Loi n° 89-900 du 18 décembre 1989 (MCCX8900163L)](loi-n-89-900-du-18-decembre-1989-mccx8900163l)
+- [Loi n° 89-906 du 19 décembre 1989 (JUSX8800095L)](loi-n-89-906-du-19-decembre-1989-jusx8800095l)
 - [Loi n°73-6 du 3 janvier 1973](loi-n73-6-du-3-janvier-1973)
 - [Loi n°86-14 du 6 janvier 1986](loi-n86-14-du-6-janvier-1986)
 - [Loi n°89-377 du 13 juin 1989 (JUSX8800150L)](loi-n89-377-du-13-juin-1989-jusx8800150l)

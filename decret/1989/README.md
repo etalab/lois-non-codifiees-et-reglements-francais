@@ -317,6 +317,7 @@
 - [Décret n°89-774 du 19 octobre 1989 (MAEJ8930088D)](decret-n89-774-du-19-octobre-1989-maej8930088d)
 - [Décret n°89-783 du 19 octobre 1989 (MAEJ8930096D)](decret-n89-783-du-19-octobre-1989-maej8930096d)
 - [Décret n°89-784 du 19 octobre 1989 (MAEJ8930097D)](decret-n89-784-du-19-octobre-1989-maej8930097d)
+- [Décret n°89-907 du 19 décembre 1989 (PRMX8910383D)](decret-n89-907-du-19-decembre-1989-prmx8910383d)
 - [Décret n°90-248 du 19 mars 1990 (JUSA8900171D)](decret-n90-248-du-19-mars-1990-jusa8900171d)
 - [Décret du 20 janvier 1989 (DOMX8910039D)](decret-du-20-janvier-1989-domx8910039d)
 - [Décret n°88-836 du 20 juillet 1988 (DOMX8800091D)](decret-n88-836-du-20-juillet-1988-domx8800091d)
