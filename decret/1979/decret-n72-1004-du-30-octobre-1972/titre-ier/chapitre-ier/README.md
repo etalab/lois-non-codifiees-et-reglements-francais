@@ -5,4 +5,3 @@
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
-- [Article 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19](article-7-8-9-10-11-12-13-14-15-16-17-18-19.md)

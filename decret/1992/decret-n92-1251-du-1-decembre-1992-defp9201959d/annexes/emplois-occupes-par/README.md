@@ -1,3 +1,0 @@
-# EMPLOIS OCCUPÉS PAR DES FONCTIONNAIRES TITULAIRES
-
-- [Article ANNEXE I](article-annexe-i.md)
