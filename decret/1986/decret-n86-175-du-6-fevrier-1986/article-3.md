@@ -1,5 +1,7 @@
 # Article 3
 
-La répartition du soutien financier entre les dépenses visées aux 1° et 2° de l'article 1er du présent décret est fixée chaque année [*périodicité*] par arrêté du ministre de l'économie, des finances et du budget et du ministre de la culture. Toutefois, la part de ces dépenses consacrée au 2° de l'article 1er ci-dessus ne peut être supérieure à 30 p. 100 [*pourcentage maximum*].
+La répartition du soutien financier entre les dépenses visées aux 1°, 2° et 3° de l'article 1er du présent décret est fixée chaque année par arrêté du ministre chargé de l'économie, des finances et du budget et du ministre chargé de la culture.
 
-Le ministre chargé de la culture fixe chaque année par arrêté le montant des sommes affectées aux aides visées au 2° de l'article 1er.
+Les crédits consacrés au 2° de l'article 1er ne peuvent être supérieurs à 45 p. 100 des crédits consacrés au 1° de l'article 1er ci-dessus.
+
+Le ministre chargé de la culture fixe chaque année, par arrêté, le montant des sommes affectées aux aides visées aux 2° et 3° de l'article 1er.
