@@ -3,5 +3,6 @@
 - [TITRE Ier : DISPOSITIONS GÉNÉRALES.](titre-ier)
 - [TITRE II : RECRUTEMENT.](titre-ii)
 - [TITRE III : AVANCEMENT.](titre-iii)
+- [Titre III bis : Dispositions diverses](titre-iii-bis)
 - [TITRE IV : DISPOSITIONS TRANSITOIRES.](titre-iv)
 - [Article 21](article-21.md)

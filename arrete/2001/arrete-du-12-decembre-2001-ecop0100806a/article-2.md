@@ -8,4 +8,4 @@ L'ENCCRF assure les missions suivantes :
 
 - participation à l'organisation de l'accueil et de sessions d'études à l'intention de fonctionnaires et magistrats français ou ressortissants des pays de l'Union européenne ou de pays tiers ;
 
-- participation à la mise en oeuvre de la politique documentaire.
+- participation à la mise en oeuvre de la politique documentaire et à l'information des usagers.
