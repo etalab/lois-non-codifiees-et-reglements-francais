@@ -1,6 +1,8 @@
 # CHAPITRE IER - MONTANT, CONDITIONS D'ATTRIBUTION, MODALITES DE PAYEMENT DE L'ALLOCATION SPECIALE, MODALITES DU REMBOURSEMENT PAR LE FONDS SPECIAL DES MAJORATIONS PREVUES A L'ARTICLE 45 DE LA LOI DU 10 JUILLET 1952 *Code de la sécurité sociale L674 ET S.*.
 
+- [Article 2](article-2.md)
 - [Article 4](article-4.md)
+- [Article 5](article-5.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
