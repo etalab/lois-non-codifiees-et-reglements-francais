@@ -1164,7 +1164,6 @@
 - [Arrêté du 29 octobre 1992 (PTTR9200561A)](arrete-du-29-octobre-1992-pttr9200561a)
 - [Arrêté du 29 septembre 1992 (AGRS9201821A)](arrete-du-29-septembre-1992-agrs9201821a)
 - [Arrêté du 29 septembre 1992 (MENF9203674A)](arrete-du-29-septembre-1992-menf9203674a)
-- [Arrêté du 29 septembre 1992 (RESY9200417A)](arrete-du-29-septembre-1992-resy9200417a)
 - [Arrêté du 29 mai 1992 (ECOT9213556A)](arrete-du-29-mai-1992-ecot9213556a)
 - [Arrêté du 29 mai 1992 (PTTR9200257A)](arrete-du-29-mai-1992-pttr9200257a)
 - [Arrêté du 29 mai 1992 (PTTR9200258A)](arrete-du-29-mai-1992-pttr9200258a)
