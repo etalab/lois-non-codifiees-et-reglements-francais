@@ -1,24 +1,24 @@
 # Article ANNEXE 1
 
-1. Dispositions relatives aux paramètres
+" 1. Dispositions relatives aux paramètres.
 
-1.1. Les renseignements suivants relevant du service d'information de vol et utiles pour l'utilisation des aérodromes sont dénommés paramètres [*définition*] :
+" 1.1. Les renseignements suivants relevant du service d'information de vol et utiles pour l'utilisation des aérodromes sont dénommés paramètres :
 
-- piste en service ;
+" - piste en service ;
 
-- direction et force du vent, et variations significatives ;
+" - direction et force du vent, et variations significatives ;
 
-- visibilité horizontale ;
+" - visibilité horizontale ;
 
-- nébulosité ou visibilité verticale ;
+" - quantité de nuages bas et hauteur de la base des nuages ;
 
-- température au sol ;
+" - température au sol ;
 
-- calage altimétrique requis pour lire au point le plus élevé de l'aire d'atterrissage une altitude égale à l'altitude topographique de l'aérodrome (Q.N.H.).
+" - calage altimétrique requis pour lire au point le plus élevé de l'aire d'atterrissage une altitude égale à l'altitude topographique de l'aérodrome (QNH) ;
 
-- pression atmosphérique à l'altitude topographique de l'aérodrome ou au seuil de piste (Q.F.E.).
+" - pression atmosphérique à l'altitude topographique de l'aérodrome ou au seuil de piste (QFE).
 
-1.2. Un aéronef est considéré comme informé des paramètres même si les éléments nébulosité ou visibilité verticale et température au sol ne lui ont pas été communiqués.
+" 1.2. Un aéronef est considéré comme informé des paramètres même si les éléments quantité de nuages bas et hauteur de la base des nuages et température au sol ne lui ont pas été communiqués à moins que la connaissance de ces éléments ne soit indispensable pour respecter des règles autres que celles définies dans le présent arrêté. "
 
 2. Dispositions générales relatives à la circulation d'aérodrome
 
@@ -210,7 +210,7 @@ Si la panne de l'équipemnt de radiocommunication survient :
 
 4.1.1.1. En espace aérien contrôlé, sauf clairance contraire, l'aéronef doit suivre les procédures de départ ou d'approche aux instruments publiées ou approuvées.
 
-4.1.1.2. En espace aérien non contrôlé l'aéronef doit suivre les procédures d'approche aux instruments publiées ou approuvées, à moins qu'il n'évolue en V.M.C. et ne décide d'effectuer une approche par repérage visuel du sol.
+4.1.1.2. En espace aérien non contrôlé l'aéronef doit suivre les procédures d'approche aux instruments publiées ou approuvées, à moins qu'il n'évolue en V.M.C. et ne décide d'effectuer une approche à vue    Les procédures de départ aux instruments publiées ne sont que des procédures recommandées ".
 
 4.1.2. Dispositions relatives aux paramètres.
 
@@ -252,11 +252,11 @@ a) Lorsque l'aéronef effectue une procédure d'approche aux instruments :
 
 - il doit, s'il effectue une manoeuvre à vue libre (M.V.L.), s'intégrer dans la circulation d'aérodrome en respectant, sauf consigne particulière relative au sens de la manoeuvre à vue libre, les règles d'intégration définies pour les V.F.R. aux paragraphes 3.2.2.1 ou 3.2.2.2 selon le cas.
 
-b) Lorsque l'aéronef, évoluant en V.M.C., décide d'effectuer une approche par repérage visuel du sol, il doit s'intégrer dans la circulation d'aérodrome conformément aux dispositions prévues pour les V.F.R. aux paragraphes 3.2.2.1 ou 3.2.2.2 selon le cas.
+b) Lorsque l'aéronef, évoluant en V.M.C., décide d'effectuer une approche à vue, il doit s'intégrer dans la circulation d'aérodrome conformément aux dispositions prévues pour les V.F.R. aux paragraphes 3.2.2.1 ou 3.2.2.2 selon le cas.
 
 4.1.3.3. Autre aérodrome.
 
-Lorsqu'un aérodrome n'est pas pourvu d'une tour de contrôle ou d'un organisme A.F.I.S., ou lorsque aucun de ces organismes n'est en activité, un aéronef doit procéder à une manoeuvre à vue libre. Il doit s'intégrer dans la circulation d'aérodrome en respectant, sauf consigne particulière relative au sens de la manoeuvre à vue libre, les règles d'intégration définies pour les V.F.R. au paragraphe 3.2.2.1. Si l'aéronef, évoluant en V.M.C., décide d'effectuer une approche par repérage visuel du sol, il doit s'intégrer dans la circulation d'aérodrome conformément aux dispositions prévues pour les V.F.R. au paragraphe 3.2.2.1.
+Lorsqu'un aérodrome n'est pas pourvu d'une tour de contrôle ou d'un organisme A.F.I.S., ou lorsque aucun de ces organismes n'est en activité, un aéronef doit procéder à une manoeuvre à vue libre. Il doit s'intégrer dans la circulation d'aérodrome en respectant, sauf consigne particulière relative au sens de la manoeuvre à vue libre, les règles d'intégration définies pour les V.F.R. au paragraphe 3.2.2.1. Si l'aéronef, évoluant en V.M.C., décide d'effectuer une approche à vue, il doit s'intégrer dans la circulation d'aérodrome conformément aux dispositions prévues pour les V.F.R. au paragraphe 3.2.2.1.
 
 4.1.4. Dispositions relatives aux radiocommunications.
 

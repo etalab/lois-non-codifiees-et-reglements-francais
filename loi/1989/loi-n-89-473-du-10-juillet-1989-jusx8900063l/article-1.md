@@ -1,0 +1,3 @@
+# Article 1
+
+Sont amnistiées les infractions commises avant le 14 juillet 1988 à l'occasion d'événements d'ordre politique ou social en relation avec une entreprise tendant à soustraire à l'autorité de la République le département de la Guadeloupe ou celui de la Martinique, à condition que ces infractions n'aient pas entraîné la mort ou des infirmités permanentes au sens de l'article 310 du code pénal ou qu'elles ne soient pas constituées, sur la personne d'agents de la force publique, dans l'exercice ou à l'occasion de l'exercice de leurs fonctions, par des coups et blessures volontaires ou des tentatives d'homicide volontaire.

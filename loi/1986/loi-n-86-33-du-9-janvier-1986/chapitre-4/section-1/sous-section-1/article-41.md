@@ -34,7 +34,7 @@ Sur la demande de l'intéressé, l'établissement a la faculté, après avis du 
 
 5° Au congé pour maternité ou pour adoption, avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale ;
 
-6° Au congé de formation professionnelle ;
+6° Au congé de formation professionnelle. La prise en charge de ce congé, dans les établissements énumérés à l'article 2, est assurée par une cotisation annuelle d'un montant de 0,10 p. 100 des salaires inscrits à leur budget, au sens du 1 de l'article 231 du code général des impôts, versée à un ou plusieurs organismes paritaires agréés par l'Etat, chargés de la gestion et de la mutualisation de cette cotisation ;
 
 7° Au congé pour formation syndicale avec traitement d'une durée maximum de douze jours ouvrables par an ;
 
