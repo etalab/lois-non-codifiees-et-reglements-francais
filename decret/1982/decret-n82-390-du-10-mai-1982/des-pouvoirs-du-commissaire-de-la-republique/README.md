@@ -1,3 +1,0 @@
-# DES POUVOIRS DU COMMISSAIRE DE LA REPUBLIQUE.
-
-- [Article 12](article-12.md)
