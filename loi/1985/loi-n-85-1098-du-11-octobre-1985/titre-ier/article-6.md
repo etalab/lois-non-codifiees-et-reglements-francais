@@ -4,7 +4,7 @@ Chaque année il est procédé au calcul du montant des dépenses prévues au de
 
 Les dépenses de personnel correspondant aux agents départementaux qui sont mis à disposition de l'Etat et qui font déjà l'objet du remboursement par l'Etat ne sont pas prises en compte dans le montant des dépenses.
 
-En outre, en 1986, le montant des dépenses mentionnées au premier alinéa du présent article inclut les sommes correspondant à la prise en charge par l'Etat des compléments de rémunération prévus au troisième alinéa de l'article 2.
+En outre, en 2003, le montant des dépenses mentionnées au premier alinéa du présent article inclut les sommes correspondant à la prise en charge par l'Etat des compléments de rémunération prévus au troisième alinéa de l'article 2.
 
 Ce montant est arrêté par accord entre le représentant de l'Etat et le président du conseil général ou régional, pour chaque année, avant le 30 avril de l'année précédente et, pour l'année 1986, dans un délai d'un mois à compter de la publication de la présente loi.
 
