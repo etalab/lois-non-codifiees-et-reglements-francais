@@ -11,3 +11,5 @@ c) Des organismes à compétence locale, les comités locaux des pêches maritim
 Le comité national, les comités régionaux et les comités locaux sont dotés de la personnalité morale et de l'autonomie financière.
 
 Leurs organes dirigeants sont respectivement l'assemblée, le conseil et le président pour le comité national, le conseil et le président pour chacun des comités régionaux, le conseil et le président pour chacun des comités locaux.
+
+La durée des mandats des membres des organes dirigeants des comités mentionnés au présent article est fixée à quatre ans.
