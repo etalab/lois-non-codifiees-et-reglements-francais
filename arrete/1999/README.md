@@ -601,6 +601,7 @@
 - [Arrêté du 25 juin 1999 (MCCB9900450A)](arrete-du-25-juin-1999-mccb9900450a)
 - [Arrêté du 25 juin 1999 (MESF9910920A)](arrete-du-25-juin-1999-mesf9910920a)
 - [Arrêté du 25 juin 1999 (MESS9921961A)](arrete-du-25-juin-1999-mess9921961a)
+- [Arrêté du 25 novembre 1999 (AGRG9901378A)](arrete-du-25-novembre-1999-agrg9901378a)
 - [Arrêté du 25 octobre 1999 (AGRG9902213A)](arrete-du-25-octobre-1999-agrg9902213a)
 - [Arrêté du 25 octobre 1999 (AGRG9902214A)](arrete-du-25-octobre-1999-agrg9902214a)
 - [Arrêté du 25 mai 1999 (ECOT9951815A)](arrete-du-25-mai-1999-ecot9951815a)
