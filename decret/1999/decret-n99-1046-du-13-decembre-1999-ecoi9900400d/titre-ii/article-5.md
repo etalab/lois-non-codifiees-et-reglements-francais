@@ -1,0 +1,5 @@
+# Article 5
+
+I. - Le fabricant, l'importateur ou le responsable de la mise sur le marché ne peut mettre sur le marché ou mettre en service un équipement sous pression mentionné à l'article 3 ci-dessus ou un ensemble mentionné à l'article 4 ci-dessus s'il n'a, après avoir satisfait aux procédures d'évaluation de la conformité définies à l'article 9 du présent décret, établi et signé une déclaration de conformité "CE" par laquelle il atteste que cet équipement ou ensemble est conforme aux exigences essentielles définies respectivement à l'article 3 ou à l'article 4 ci-dessus et s'il n'a pas apposé le marquage "CE" prévu à l'article 13 ci-après. La déclaration de conformité est établie conformément au modèle figurant à l'annexe 6.
+
+II. - Lorsque la déclaration de conformité "CE" et le marquage "CE" sont effectués en application de la réglementation d'un autre Etat membre de l'Union européenne, ils produisent les mêmes effets que les formalités correspondantes prévues par le présent décret.

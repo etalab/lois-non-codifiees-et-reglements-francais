@@ -1,0 +1,3 @@
+# Article 7
+
+Les équipements sous pression ou ensembles dont les caractéristiques sont inférieures ou égales aux limites définies au II de l'article 3 ci-dessus doivent être conçus et fabriqués conformément aux règles de l'art en usage dans un Etat membre afin d'assurer leur utilisation de manière sûre. Ces équipements sous pression ou ensembles doivent être accompagnés d'instructions d'utilisation suffisantes et porter des marques permettant d'identifier le fabricant ou son mandataire établi dans la Communauté. Ces équipements ou ensembles ne portent pas le marquage "CE" mentionné à l'article 13 ci-après, au titre du présent décret.

@@ -1,0 +1,5 @@
+# Article 3
+
+L'allocation servie aux bénéficiaires de l'allocation d'insertion au titre du mois de novembre 1999, ou de décembre 1999 pour ceux dont le droit à indemnisation est ouvert au cours de ce mois, est augmentée d'une somme égale à 40 % d'un douzième de 365 fois le montant journalier de l'allocation. Cette somme est arrondie aux 5 F les plus proches.
+
+L'allocation servie aux bénéficiaires de l'allocation de solidarité spécifique à taux plein au titre du mois de novembre 1999, ou de décembre 1999 pour ceux dont le droit à indemnisation est ouvert au cours de ce mois, est augmentée d'une somme égale à 40 % d'un douzième de 365 fois le montant journalier de l'allocation à taux plein. Cette somme est arrondie à la dizaine de francs la plus proche. Pour les bénéficiaires de l'allocation de solidarité spécifique à taux majoré dans les conditions prévues au deuxième alinéa de l'article R. 351-14 du code du travail, cette somme est égale à 40 % d'un douzième de 365 fois le montant journalier de l'allocation à taux majoré. Cette somme est arrondie à la dizaine de francs la plus proche.
