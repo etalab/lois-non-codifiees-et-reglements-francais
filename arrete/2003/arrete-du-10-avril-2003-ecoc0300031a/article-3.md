@@ -1,0 +1,5 @@
+# Article 3
+
+Les consommations de carburant et les émissions de dioxyde de carbone visées aux articles 2 à 6 du décret du 23 décembre 2002 susvisé sont déterminées conformément aux dispositions de l'arrêté du 21 avril 2000 susvisé. Elles sont établies pour chaque type, variante et version de voiture particulière lors de la réception communautaire conformément aux dispositions de l'annexe II, partie B, paragraphe 1, et de l'annexe VIII de la directive 70/156/CEE susvisée et pour chaque code national d'identification du type (CNIT) de voiture particulière attribué préalablement à l'immatriculation nationale des véhicules soumis à réception CE conformément aux dispositions de l'arrêté du 16 septembre 1994 susvisé.
+
+Elles figurent au dossier de réception CE dans la fiche des résultats d'essais indiquée à l'annexe VIII de la directive 70/156/CEE qui est annexée à la fiche de réception CE du type de véhicule et sur le certificat de conformité communautaire établi conformément à l'annexe IX de la directive 70/156/CEE, qui est délivré par le constructeur à tout véhicule conforme à un type, variante et version déterminés.
