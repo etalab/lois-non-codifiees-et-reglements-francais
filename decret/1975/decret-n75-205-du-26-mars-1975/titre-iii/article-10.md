@@ -1,3 +1,7 @@
 # Article 10
 
-Les agents bénéficiaires du congé défini à l'article 9 ci-dessus perçoivent une rémunération égale à 75 p. 100 de leur traitement brut soumis à retenue pour cotisation de sécurité sociale et augmenté de l'indemnité de résidence ; la période du stage pendant laquelle les agents perçoivent cette rémunération ne peut excéder un jour ouvrable par deux mois de présence effective dans l'administration, au-delà des trois premières années.
+L'agent mis en congé pour formation peut percevoir une indemnité mensuelle forfaitaire égale à 85 p. 100 du traitement brut et de l'indemnité de résidence qu'il percevait au moment de sa mise en congé.
+
+Le montant de cette indemnité ne peut toutefois excéder le traitement et l'indemnité de résidence afférents à l'indice brut 379 d'un agent en fonctions à Paris.
+
+Cette indemnité est à la charge du service dont relève l'intéressé. La durée pendant laquelle elle est versée est limitée à douze mois qui peuvent être fractionnés en une ou plusieurs fois en stages à temps plein d'une durée minimale de trois mois.
