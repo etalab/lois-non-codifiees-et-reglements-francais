@@ -22,7 +22,6 @@
 - [Décret n°58-874 du 16 septembre 1958](decret-n58-874-du-16-septembre-1958)
 - [Décret n°58-1239 du 17 décembre 1958](decret-n58-1239-du-17-decembre-1958)
 - [Décret n°58-757 du 20 août 1958](decret-n58-757-du-20-aout-1958)
-- [Décret n°58-1291 du 22 décembre 1958](decret-n58-1291-du-22-decembre-1958)
 - [Décret n°58-1316 du 23 décembre 1958](decret-n58-1316-du-23-decembre-1958)
 - [Décret n°58-1345 du 23 décembre 1958](decret-n58-1345-du-23-decembre-1958)
 - [Décret n°58-1010 du 24 octobre 1958](decret-n58-1010-du-24-octobre-1958)

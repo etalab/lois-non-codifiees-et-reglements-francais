@@ -77,7 +77,6 @@
 - [Décret n°69-399 du 25 avril 1969](decret-n69-399-du-25-avril-1969)
 - [Décret n°69-189 du 26 février 1969](decret-n69-189-du-26-fevrier-1969)
 - [Décret n°69-894 du 26 septembre 1969](decret-n69-894-du-26-septembre-1969)
-- [Décret n°59-482 du 27 mars 1959](decret-n59-482-du-27-mars-1959)
 - [Décret n°69-83 du 27 janvier 1969](decret-n69-83-du-27-janvier-1969)
 - [Décret n°69-469 du 27 mai 1969](decret-n69-469-du-27-mai-1969)
 - [Décret n°69-473 du 27 mai 1969](decret-n69-473-du-27-mai-1969)

@@ -1,7 +1,0 @@
-# Article 5
-
-Par. 1er - La liquidation et le payement de l'allocation incombent à la caisse régionale d'assurance vieillesse des travailleurs salariés, qui notifie sa décision à l'intéressée et aux services départementaux d'assistance dans un délai de trois mois à compter du dépôt de la demande [*organisme compétent*].
-
-Lorsque la requérante est bénéficiaire d'une allocation de vieillesse au titre de la loi n° 48-101 du 17 janvier 1948 [*C. séc. soc., art. L. 643 s.*] complétée par la loi n° 52-799 du 10 juillet 1952, la caisse régionale d'assurance vieillesse des travailleurs salariés se met en rapport avec la caisse autonome débitrice de l'allocation vieillesse en vue d'en connaître la nature et le montant, et de déterminer, le cas échéant, le montant du complément différentiel à attribuer en application du décret n° 54-1194 du 29 novembre 1954.
-
-Par. 2 - La caisse régionale d'assurance vieillesse des travailleurs salariés avise, le cas échéant, de sa décision l'organisme qui a liquidé la pension de vieillesse de veuve prévue à l'article 75 de l'ordonnance du 19 octobre 1945 modifiée [*C. séc. soc., art. L. 323 à L. 330*], la pension de réversion prévue à l'article 76 de ladite ordonnance [*C. séc. soc., art. L. 351*], le secours viager prévu à l'article 4 de l'ordonnance du 2 février 1945 modifiée [*C. séc. soc., art. L. 628*] ou l'allocation de veuve prévue à l'article 13 de la loi n° 48-1306 du 23 août 1948 [*C. séc. soc., art. L. 629*] en vue de l'annulation de cet avantage s'il est d'un montant inférieur à celui de l'allocation.
