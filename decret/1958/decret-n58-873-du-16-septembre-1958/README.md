@@ -59,6 +59,7 @@
 - [Département des Hautes-Pyrénées](departement-des-hautes-pyrenees)
 - [Département des Hauts-de-Seine](departement-des-hauts-de-seine)
 - [Département des Landes](departement-des-landes)
+- [Département des Pyrénées-Orientales](departement-des-pyrenees-orientales)
 - [Département des Vosges](departement-des-vosges)
 - [Département des Yvelines.](departement-des-yvelines)
 - [Département du Calvados](departement-du-calvados)
