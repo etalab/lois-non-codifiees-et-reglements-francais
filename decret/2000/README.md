@@ -55,6 +55,7 @@
 - [Décret n°2000-556 du 21 juin 2000 (JUSB0010097D)](decret-n2000-556-du-21-juin-2000-jusb0010097d)
 - [Décret n°2000-565 du 21 juin 2000 (EQUA0000568D)](decret-n2000-565-du-21-juin-2000-equa0000568d)
 - [Décret n°2000-554 du 22 juin 2000 (AGRB0000276D)](decret-n2000-554-du-22-juin-2000-agrb0000276d)
+- [Décret n°2000-567 du 23 juin 2000 (JUSB0010244D)](decret-n2000-567-du-23-juin-2000-jusb0010244d)
 - [Décret n°2000-489 du 29 mai 2000 (ECOF0000014D)](decret-n2000-489-du-29-mai-2000-ecof0000014d)
 - [Décret n°2000-476 du 30 mai 2000 (ECOI0000176D)](decret-n2000-476-du-30-mai-2000-ecoi0000176d)
 - [Décret n°2000-483 du 30 mai 2000 (DEFP0001492D)](decret-n2000-483-du-30-mai-2000-defp0001492d)
