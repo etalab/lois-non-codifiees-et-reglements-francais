@@ -3,7 +3,6 @@
 - [Article 1](article-1.md)
 - [Titre Ier : Cafés verts.](titre-ier)
 - [Titre II : Cafés décaféinés.](titre-ii)
-- [Titre III : Extraits de café, liquides et en poudre.](titre-iii)
 - [Titre IV : Cafés boissons.](titre-iv)
 - [Titre V : Opérations licites.](titre-v)
 - [Titre VI : Etiquetage.](titre-vi)
