@@ -2,6 +2,5 @@
 
 - [Article 1](article-1.md)
 - [Titre Ier : Les personnels vacataires.](titre-ier)
-- [Titre II : Les assistants non titulaires.](titre-ii)
 - [Titre III : Dispositions transitoires.](titre-iii)
 - [Article 21](article-21.md)
