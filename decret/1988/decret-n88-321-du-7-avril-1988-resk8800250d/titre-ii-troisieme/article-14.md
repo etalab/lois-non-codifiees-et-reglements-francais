@@ -2,16 +2,6 @@
 
 Le diplôme d'Etat de docteur en médecine est délivré aux résidents ayant soutenu avec succès une thèse devant un jury présidé par un professeur de médecine, composé d'au moins quatre membres, dont trois professeurs de médecine, et désigné par le président de l'université sur proposition du directeur de l'unité de formation et de recherche de médecine concernée.
 
-La thèse peut être soutenue après validation du troisième semestre de fonctions.
-
-Le diplôme d'Etat de docteur en médecine n'ouvre droit à l'exercice de la médecine en France qu'après obtention de la qualification en médecine générale.
-
-Le document mentionnant la qualification en médecine générale est délivré, sous réserve qu'ils aient soutenu la thèse mentionnée au premier alinéa du présent article, aux résidents ayant :
-
-1° Effectué la durée totale du résidanat ;
-
-2° Satisfait au contrôle de la formation théorique acquise durant le résidanat ;
-
-3° Accompli la formation pratique et obtenu sa validation.
+La thèse peut être soutenue après validation du troisième semestre de fonctions. A titre dérogatoire, les titulaires d'un diplôme d'études spécialisées obtenu conformément aux dispositions du décret n° 90-97 du 25 janvier 1990 fixant les conditions d'accès aux formations spécialisées du troisième cycle des études médicales pour les médecins étrangers autres que les ressortissants d'Etats appartenant aux Communautés européennes et à l'Espace européen ou de la Principauté d'Andorre qui remplissent les conditions pour s'inscrire en troisième cycle des études médicales peuvent soutenir leur thèse dès leur inscription en troisième cycle de médecine générale.
 
 Pour obtenir le diplôme d'Etat de docteur en médecine, les étudiants ayant validé au moins six années d'études dans le cadre d'une des réglementations fixées en application soit du décret du 6 mars 1934 portant réorganisation des études médicales en vue du doctorat en médecine, soit du décret n° 60-759 du 28 juillet 1960 modifié portant réforme du régime des études et des examens en vue du doctorat en médecine, soit des arrêtés du 23 juillet 1970 et du 24 juillet 1970 fixant respectivement l'organisation du premier cycle des études médicales et du deuxième cycle des études médicales doivent satisfaire, sous réserve des dispositions de la loi du 20 juillet 1992 et du décret du 23 août 1985 susvisés, aux conditions fixées par le présent article.

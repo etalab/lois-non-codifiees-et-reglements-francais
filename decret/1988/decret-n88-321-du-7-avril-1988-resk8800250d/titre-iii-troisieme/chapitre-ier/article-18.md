@@ -12,7 +12,7 @@ b) Soit lors de la session organisée au cours de l'année où ils effectuent le
 
 Toutefois, peuvent également se présenter aux concours prévus au 1° et au a du 2° de l'alinéa précédent les étudiants auxquels fait défaut la possession d'un certificat du deuxième cycle, ou son équivalent, autre que le certificat de synthèse clinique et thérapeutique.
 
-En cas d'empêchement à participer aux épreuves résultant de l'accomplissement du service national, d'un congé maternité prévu à l'article 11 du décret du 2 septembre 1983 modifié susvisé, ou d'un cas de force majeure à caractère collectif, la période où peut être exercé le droit à concourir est prolongée de la durée nécessaire pour préserver les droits des candidats.
+En cas d'empêchement à participer aux épreuves résultant de l'accomplissement du service national, d'un congé de maternité ou d'adoption, d'un cas de force majeure à caractère collectif ou pour raison médicale dûment constatée, appréciée par le ministre chargé de la santé après consultation du président du jury, la période où peut être exercé le droit à concourir est prolongée de la durée nécessaire pour préserver les droits du candidat.
 
 Cette période est prolongée dans les mêmes conditions lorsque les quatre semestres de résidanat n'ont pu être accomplis de façon consécutive du fait des obligations du service national ou d'un congé de maternité.
 

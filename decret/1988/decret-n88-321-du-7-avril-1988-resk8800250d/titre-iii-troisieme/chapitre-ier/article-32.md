@@ -6,4 +6,6 @@ Les internes ayant changé de discipline peuvent demander que les semestres pré
 
 Au cas où cette prise en compte ne serait pas ou ne serait que partiellement obtenue, les internes choisissent leurs postes dans leur nouvelle discipline avec une ancienneté diminuée du nombre de semestres non pris en compte.
 
-Les fonctions d'interne accomplies dans le cadre d'un concours antérieur ne sont pas prises en compte en cas de réussite à un nouveau concours.
+Les fonctions d'interne ou de résident validées à la suite d'un précédent concours sont prises en compte en cas de réussite à un nouveau concours, selon des modalités fixées par les conseils des unités de formation et de recherche.
+
+Les internes bénéficiant pour la durée de leur formation pratique des dispositions prévues à l'alinéa précédent sont réputés avoir une ancienneté augmentée du nombre de semestres admis en équivalence.

@@ -25,3 +25,5 @@ Anesthésiologie-réanimation chirurgicale ;
 Pédiatrie ;
 
 Gynécologie-obstétrique.
+
+A compter de l'année universitaire 2000-2001, la discipline gynécologie-obstétrique et gynécologie médicale remplace la discipline gynécologie-obstétrique.
