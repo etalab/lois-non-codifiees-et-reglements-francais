@@ -24,6 +24,8 @@
 - [Arrêté du 20 décembre 1982](arrete-du-20-decembre-1982)
 - [Arrêté du 20 janvier 1983](arrete-du-20-janvier-1983)
 - [Arrêté du 20 juillet 1982](arrete-du-20-juillet-1982)
+- [Arrêté du 22 novembre 1982](arrete-du-22-novembre-1982)
+- [Arrêté du 23 novembre 1982](arrete-du-23-novembre-1982)
 - [Arrêté du 24 décembre 1974](arrete-du-24-decembre-1974)
 - [Arrêté du 24 décembre 1982](arrete-du-24-decembre-1982)
 - [Arrêté du 26 novembre 1982](arrete-du-26-novembre-1982)
