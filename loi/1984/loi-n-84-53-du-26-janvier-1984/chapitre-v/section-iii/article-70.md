@@ -6,4 +6,6 @@ Dans cette position, le fonctionnaire cesse de bénéficier de ses droits à l'a
 
 Le fonctionnaire en position hors cadres est soumis au régime statutaire régissant la fonction qu'il exerce dans cette position.    L'autorité territoriale informe le centre de gestion compétent de la mise hors cadres du fonctionnaire.
 
-Un décret en Conseil d'Etat fixe les conditions, la durée ainsi que les modalités de réintégration dans le corps d'origine.
+A l'expiration de la période de mise hors cadre, ou en cas de remise à la disposition de son administration d'origine au cours de cette période, le fonctionnaire est réaffecté dans son emploi d'origine ou dans un emploi équivalent dans les mêmes conditions que celles prévues pour les fonctionnaires détachés par l'article 67 de la présente loi.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.

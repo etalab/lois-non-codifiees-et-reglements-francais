@@ -6,5 +6,4 @@
 - [Article 106 Bis](article-106-bis.md)
 - [Article 106 Ter](article-106-ter.md)
 - [Article 107](article-107.md)
-- [Article 107 bis](article-107-bis.md)
 - [Article 108](article-108.md)

@@ -7,3 +7,5 @@ Lorsque le budget d'une commune n'est pas voté en équilibre réel, la chambre 
 La nouvelle délibération du conseil municipal, rectifiant le budget initial, doit intervenir dans un délai d'un mois à partir de la communication des propositions de la chambre régionale des comptes.
 
 Si le conseil municipal n'a pas délibéré dans le délai prescrit, ou si la délibération prise ne comporte pas de mesures de redressement jugées suffisantes par la chambre régionale des comptes, qui se prononce sur ce point dans un délai de quinze jours à partir de la transmission de la nouvelle délibération, le budget est réglé et rendu exécutoire par le représentant de l'Etat dans le département. Si celui-ci s'écarte des propositions formulées par la chambre régionale des comptes, il assortit sa décision d'une motivation explicite.
+
+A compter de la saisine de la chambre régionale des comptes et jusqu'au terme de la procédure, le conseil municipal ne peut délibérer en matière budgétaire, sauf pour la délibération prévue au troisième alinéa du présent article et pour l'application de l'article 9.

@@ -10,7 +10,7 @@ Le schéma d'aménagement de la Corse doit respecter :
 
 Le schéma d'aménagement de la corse prend en compte les progressions de l'état et harmonise ceux des collectivités locales et de leurs établissements et services publics.
 
-Le schéma d'aménagement de la Corse a les mêmes effets que les prescriptions définies en application de l'article L. 111-1-1 du code de l'urbanisme.
+Le schéma d'aménagement de la Corse vaut schéma de mise en valeur de la mer, tel qu'il est défini par l'article 57 de la loi n° 83-8 du 7 janvier 1983 précitée, notamment en ce qui concerne les orientations fondamentales de la protection, de l'aménagement et de l'exploitation du littoral. Les dispositions correspondantes sont regroupées dans un chapitre individualisé au sein du schéma d'aménagement régional. Ces dispositions doivent avoir recueilli l'accord du représentant de l'Etat préalablement à la mise à disposition du public de l'ensemble du projet de schéma d'aménagement.    Le schéma d'aménagement de la Corse a les mêmes effets que les prescriptions définies en application de l'article L. 111-1-1 du code de l'urbanisme.
 
 Commentaires de septembre 1983 de l'article 75 II de la loi 8 du 7 janvier 1983, modifiée par la loi 663 du 22 juillet 1983, relative à la répartition de compétences entre les communes, les départements, les régions de l'Etat (urbanisme et sauvegarde du patrimoine et des sites) (Ministère de l'Urbanisme et du Logement Direction de l'Urbanisme et des Paysages).
 

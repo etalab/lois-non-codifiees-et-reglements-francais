@@ -2,6 +2,8 @@
 
 L'arrêté des comptes communaux est constitué par le vote du conseil municipal sur le compte administratif présenté par le maire après transmission, au plus tard le 1er juillet de l'année suivant l'exercice, du compte de gestion établi par le comptable de la commune. Le vote du conseil municipal arrêtant les comptes doit intervenir avant le 1er octobre de l'année suivant l'exercice.
 
+Le compte administratif est arrêté si une majorité des voix ne s'est pas dégagée contre son adoption.
+
 Lorsque l'arrêté des comptes communaux fait apparaître dans l'exécution du budget communal un déficit égal ou supérieur à 10 p. 100 des recettes de la section de fonctionnement s'il s'agit d'une commune de moins de 20000 habitants et à 5 p. 100 dans les autres cas, la chambre régionale des comptes, saisie par le représentant de l'Etat, propose à la commune les mesures nécessaires au rétablissement de l'équilibre budgétaire, dans le délai de deux mois à compter de cette saisine.
 
 Lorsque le budget d'une commune a fait l'objet des mesures de redressement prévues à l'alinéa précédent, le représentant de l'Etat dans le département transmet à la chambre régionale des comptes le budget primitif afférent à l'exercice suivant.
