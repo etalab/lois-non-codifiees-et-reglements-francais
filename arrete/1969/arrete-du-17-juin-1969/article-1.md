@@ -1,3 +1,5 @@
 # Article 1
 
-Les pêches, poires et pommes exposées en vue de la vente, mises en vente ou vendues par les producteurs sur les marchés de gros de production, doivent être classées par catégorie de qualité et par calibre conformément aux dispositions des normes communautaires. Ces produits ne sont cependant pas soumis aux conditions de la norme relative à la présentation et au marquage, mais chaque lot devra comporter d'une façon apparente les indications concernant la catégorie ainsi que le calibre ; en outre, l'identité du producteur devra figurer sur chaque emballage.
+Les laits secs définis à l'article 4 du décret du 24 août 1961 susvisé peuvent être additionnés de fruits, de jus de fruits concentrés ou non ou de matières aromatiques naturelles dans les conditions fixées ci-après :
+
+Les laits, les laits partiellement écrémés, les laits écrémés, sucrés ou non, obtenus dans les conditions prévues au mode d'emploi figurant sur l'étiquetage des récipients, à partir des produits visés à l'alinéa précédent, ne doivent pas renfermer au titre plus de 25 grammes des substances ainsi ajoutées, après déduction du volume de ces substances ainsi que du volume du saccharose éventuellement dissous.

@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur général des études et des affaires générales au ministère de l'agriculture et le directeur général du commerce intérieur et des prix au ministère de l'économie et des finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+Les produits visés à l'article 1er peuvent être colorés à l'aide des matières colorantes autorisées par la réglementation en vigueur pour les laits aromatisés.
