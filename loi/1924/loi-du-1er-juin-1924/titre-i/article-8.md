@@ -1,13 +1,7 @@
 # Article 8
 
-Aux autorisations prévues par ces textes comme devant être données par ordonnance impériale ou par décision du Conseil fédéral (Bundesrat) sont substituées à l'avenir des autorisations données par décret.
+L'autorisation, la modification ou la suppression de la fondation prévues par les articles 80 et 87 du code civil local font l'objet d'un décret rendu en la forme d'un décret en Conseil d'Etat.
 
-A la surveillance de l'Etat allemand est substituée celle de l'Etat français. Cette surveillance est supprimée en ce qui concerne les groupements d'obligataires prévus par la loi locale du 4 décembre 1899.
+Le transfert des biens à la fondation résulte du fait même de l'autorisation, à moins d'intention contraire du fondateur, et sous réserve de l'application du titre II, chapitre 3, de la présente loi.
 
-Les dispositions concernant les placements autorisés sont maintenues, sauf à remplacer les dénominations allemandes par des dénominations françaises, comme il est dit à l'article 9.
-
-La dissolution des sociétés par décision administrative est supprimée. Elle est maintenue en ce qui concerne les associations coopératives inscrites constituées suivant la loi locale du 20 mai 1898.
-
-Les insertions au Reichsanzeiger ou à tous autres journaux prescrits par la loi locale sont faites respectivement au Journal officiel ou aux autres journaux destinés à recevoir les annonces légales, dans les conditions déterminées par les arrêtés du 18 mars 1919 et du 18 juin 1919.
-
-Le Journal officiel est également substitué au Reichsanzeiger pour toute insertion prévue par une convention antérieure au 11 novembre 1918.
+Si la fondation est instituée par une disposition à cause de mort, le ministère public près le tribunal civil demande l'autorisation, lorsqu'elle n'est pas sollicitée par l'héritier ou l'exécuteur testamentaire.
