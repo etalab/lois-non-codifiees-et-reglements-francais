@@ -4,7 +4,7 @@ I. - Pendant la durée du stage préalable à la titularisation dans l'un des co
 
 II. - Toutefois :
 
-1° En ce qui concerne les corps des chefs de bureau, des adjoints des cadres hospitaliers et des secrétaires médicaux, et sauf application de dispositions législatives ou réglementaires plus favorables, ceux de ces agents qui étaient titulaires sont classés à l'échelon du grade de début qui comporte un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur corps, cadre d'emploi ou emploi d'origine.
+1° En ce qui concerne les corps des adjoints des cadres hospitaliers et des secrétaires médicaux, et sauf application de dispositions législatives ou réglementaires plus favorables, ceux de ces agents qui étaient titulaires sont classés à l'échelon du grade de début qui comporte un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur corps, cadre d'emploi ou emploi d'origine.
 
 Lorsque ce mode de classement n'apporte pas un gain indiciaire au moins égal à celui qui serait résulté d'un avancement d'échelon dans leur corps, cadre d'emploi ou emploi d'origine, l'ancienneté acquise dans l'échelon précédemment occupé est conservée dans la limite de la durée moyenne d'ancienneté requise pour accéder à l'échelon supérieur.
 

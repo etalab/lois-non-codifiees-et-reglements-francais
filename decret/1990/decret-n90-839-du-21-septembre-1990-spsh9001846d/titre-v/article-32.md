@@ -2,7 +2,7 @@
 
 I. - Les avis de recrutement par concours, examen professionnel ou inscription sur liste d'aptitude sont publiés [*lieu*] :
 
-a) En ce qui concerne les chefs de bureau, au Journal officiel de la République française par le ministre chargé de la santé ;
+a) (abrogé)
 
 b) En ce qui concerne les adjoints des cadres hospitaliers, les secrétaires médicaux et les adjoints administratifs hospitaliers, au Bulletin officiel du ministère de la santé.
 

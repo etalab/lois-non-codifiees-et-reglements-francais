@@ -1,10 +1,8 @@
 # Article 1
 
-Sont régis par les dispositions du présent décret les corps des personnels administratifs des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 ci-dessous énumérés [*bénéficiaires*] :
+Sont régis par les dispositions du présent décret les corps des personnels administratifs des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 ci-dessous énumérés *bénéficiaires* :
 
-1° Corps classé dans la catégorie A :
-
-Le corps des chefs de bureau.
+1° (abrogé)
 
 2° Corps classés dans la catégorie B :
 
