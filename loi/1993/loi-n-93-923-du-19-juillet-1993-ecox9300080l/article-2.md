@@ -4,7 +4,7 @@ I. - Sera transférée du secteur public au secteur privé la propriété des pa
 
 Ces transferts seront effectués conformément aux dispositions du titre II de la loi n° 86-912 du 6 août 1986 précitée.
 
-Lorsque l'Etat cède par tranches successives une participation visée au premier alinéa, les dispositions du titre II de la loi n° 86-912 du 6 août 1986 précitée s'appliquent tant que l'Etat détient directement plus de 10 p. 100 du capital.
+Lorsque l'Etat cède par tranches successives une participation visée au premier alinéa, les dispositions du titre II de la loi n° 86-912 du 6 août 1986 précitée s'appliquent tant que l'Etat détient directement plus de 20 p. 100 du capital à l'exception des cas où la cession résulte de l'exercice d'options d'acquisition ou de souscription attachées à des titres cédés à l'occasion d'une opération de cession antérieure.
 
 Toutefois, cette procédure ne s'applique pas aux prises de participation du secteur privé dans le capital d'une entreprise figurant sur la liste annexée à la présente loi résultant de l'exercice par ses actionnaires de l'option prévue à l'article 351 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales dès lors que l'exercice de cette option n'a pas pour effet de transférer au secteur privé la majorité du capital de cette entreprise.
 
