@@ -1,19 +1,19 @@
 # Article 4-1
 
-A compter du 1er juillet 1994, pour l'application des articles R. 351-61-1 et R. 351-62-1 :
+A compter du 1er juillet 1997, pour l'application des articles R. 351-61-1 et R. 351-62-1 :
 
-Le coefficient multiplicateur CM est fixé à 102 702 F ;
+Le coefficient multiplicateur CM est fixé à 104 653 ;
 
-Pour l'évaluation de l'équivalence de loyer et de charges locatives minimales, les pourcentages et les tranches de ressources sont fixés comme suit :
+Pour l'évaluation de l'équivalence de loyer et de charges locatives minimale, les pourcentages et les tranches de ressources sont fixés comme suit :
 
-0 p. 100 pour la tranche de ressources inférieure ou égale à 6 823 F ;
+0 % pour la tranche de ressources inférieure ou égale à 6 953 F ;
 
-3 p. 100 pour la tranche de ressources comprise entre 6 823 F et 9 816 F ;
+3 % pour la tranche de ressources comprise entre 6 953 F et 10 003 F ;
 
-26 p. 100 pour la tranche de ressources comprise entre 9 816 F et 12 609 F ;
+26 % pour la tranche de ressources comprise entre 10 003 F et 12 849 F ;
 
-29 p. 100 pour la tranche de ressources comprise entre 12 609 F et 19 634 F ;
+29 % pour la tranche de ressources comprise entre 12 849 F et 20 007 F ;
 
-41 p. 100 pour la tranche de ressources supérieure à 19 634 F.
+41 % pour la tranche de ressources supérieure à 20 007 F ;
 
-La valeur numérique prévue au troisième alinéa de l'article R. 351-62-1 est fixée à 457 F.
+La valeur numérique prévue au troisième alinéa de l'article R. 351-62-1 est fixée à 466 F.

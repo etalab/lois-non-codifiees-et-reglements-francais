@@ -28,9 +28,9 @@ Chef de la mission interservices de l'eau de Tarn-et-Garonne ;
 
 Chargé de la mission hydraulique à la direction régionale de l'agriculture et de la forêt d'Aquitaine ;
 
-Chef du service forêt, environnement et rivières, chef de pôle environnement et de la mission interservices de l'eau de la Haute-Savoie ;
-
 Chef du service espace rural et forêt, adjoint au directeur départemental de l'agriculture et de la forêt de Maine-et-Loire ;
+
+Adjoint au directeur départemental de l'agriculture et de la forêt de la Haute-Corse ;
 
 Chef du service environnement, eaux et forêts, chef de pôle environnement et de la mission interservices de l'eau des Hautes-Alpes ;
 

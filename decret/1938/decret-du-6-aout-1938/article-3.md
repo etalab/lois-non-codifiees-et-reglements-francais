@@ -24,7 +24,7 @@ Le taux des cotisations prévues au paragraphe 6 à la charge des pensionnés re
 
 2° 2,80 % du montant de la pension de retraite compris entre le plafond susvisé et un second plafond fixé dans les mêmes conditions ;
 
-3° 2,05 % du montant de la pension de retraite supérieur au second plafond susvisé ;
+3° 2,80 % du montant de la pension de retraite supérieur au second plafond susvisé ;
 
 4° 1 % du montant total de la pension de retraite lorsque le titulaire relève du 1° de l'article D. 242-9 du code de la sécurité sociale sans bénéficier de l'un des avantages énumérés au 2° dudit article.
 

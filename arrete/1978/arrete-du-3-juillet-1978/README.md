@@ -3,5 +3,5 @@
 - [I - DISPOSITIONS APPLICABLES AUX RESSOURCES.](i)
 - [II. - Calcul de l'aide personnalisée au logement des locataires.](ii)
 - [III - Calcul de l'aide personnalisée au logement des propriétaires.](iii)
-- [IV - Dispositions communes aux locataires et aux propriétaires.](iv)
+- [IV - Dispositions communes aux locataires et aux propriétaires pour le calcul de l'aide personnalisée au logement.](iv)
 - [V - Prime de déménagement.](v)

@@ -1,6 +1,6 @@
 # Article 1
 
-Les équivalences de loyer et de charges locatives de référence sont fixées comme suit :
+A compter du 1er juillet 1997, les équivalences de loyer et de charges locatives de référence sont fixées comme suit :
 
 !--------------------------------!
 
@@ -12,7 +12,7 @@ Les équivalences de loyer et de charges locatives de référence sont fixées c
 
 !-----------!----------!---------!
 
-!  2 245 F  !  2 055 F ! 1 950 F !
+!  2 290 F  !  2 096 F ! 1 989 F !
 
 !-----------!----------!---------!
 
@@ -26,7 +26,7 @@ Les équivalences de loyer et de charges locatives de référence sont fixées c
 
 !-----------!----------!---------!
 
-!  2 630 F  !  2 395 F ! 2 267 F !
+!  2 683 F  !  2 443 F ! 2 312 F !
 
 !-----------!----------!---------!
 
@@ -42,7 +42,7 @@ Les équivalences de loyer et de charges locatives de référence sont fixées c
 
 !-----------!----------!---------!
 
-!  2 831 F  !  2 578 F ! 2 429 F !
+!  2 888 F  !  2 630 F ! 2 477 F !
 
 !-----------!----------!---------!
 
@@ -58,7 +58,7 @@ Les équivalences de loyer et de charges locatives de référence sont fixées c
 
 !-----------!----------!---------!
 
-!  3 032 F  !  2 761 F ! 2 591 F !
+!  3 093 F  !  2 817 F ! 2 642 F !
 
 !-----------!----------!---------!
 
@@ -74,7 +74,7 @@ Les équivalences de loyer et de charges locatives de référence sont fixées c
 
 !-----------!----------!---------!
 
-!  3 233 F  !  2 943 F ! 2 753 F !
+!  3 298 F  !  3 004 F ! 2 807 F !
 
 !-----------!----------!---------!
 
@@ -90,7 +90,7 @@ Les équivalences de loyer et de charges locatives de référence sont fixées c
 
 !-----------!----------!---------!
 
-!  3 433 F  !  3 125 F ! 2 915 F !
+!  3 503 F  !  3 191 F ! 2 972 F !
 
 !-----------!----------!---------!
 
@@ -106,6 +106,6 @@ Les équivalences de loyer et de charges locatives de référence sont fixées c
 
 !-----------!----------!---------!
 
-!    355 F  !    325 F !   300 F !
+!    362 F  !    332 F !   307 F !
 
 !-----------!----------!---------!

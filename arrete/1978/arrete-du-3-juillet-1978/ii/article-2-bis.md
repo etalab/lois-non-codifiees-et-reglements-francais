@@ -16,7 +16,7 @@ C représente le montant forfaitaire des charges défini à l'article 11 ter de 
 
 PP représente la participation personnelle du ménage à la dépense de logement. Son montant est calculé selon les modalités définies aux articles 2 ter et 2 quater ci-dessous.
 
-II. - A compter du 1er avril 1997, les plafonds de loyer exprimés en francs sont fixés comme suit :
+II. - A compter du 1er juillet 1997, en application de l'article R. 351-22-1, les plafonds de loyer visés à l'article R. 351-17-3 sont fixés comme suit :
 
 <table>
 <tbody>
@@ -25,19 +25,17 @@ II. - A compter du 1er avril 1997, les plafonds de loyer exprimés en francs son
 <p align="center">ZONE</p>
 </td>
 <td width="119">
-<p align="center">PERSONNE SEULE</p>
+<p align="center">PERSONNE SEULE<br/>(en francs)</p>
 </td>
 <td width="159">
-<p align="center">COUPLE SANS PERSONNE<br/>à charge</p>
-<br/>
+<p align="center">COUPLE SANS PERSONNE<br/>à charge<br/>(en francs)</p>
 </td>
 <td width="172">
-<p align="center">PERSONNE SEULE <br/>ou couple ayant une personne à charge</p>
+<p align="center">PERSONNE SEULE <br/>ou couple ayant une personne à charge<br/>(en francs)</p>
 <br/>
 </td>
 <td width="166">
-<p align="center">PAR PERSONNE À CHARGE</p>
-<p align="center">supplémentaire</p>
+<p align="center">PAR PERSONNE À CHARGE<br/>supplémentaire<br/>(en francs)</p>
 <br/>
 </td>
 </tr>
@@ -46,16 +44,16 @@ II. - A compter du 1er avril 1997, les plafonds de loyer exprimés en francs son
 <p align="center">I</p>
 </td>
 <td width="119">
-<p align="center">1 459</p>
+<p align="center">1 510</p>
 </td>
 <td width="159">
-<p align="center">1 758</p>
+<p align="center">1 820</p>
 </td>
 <td width="172">
-<p align="center">2 025</p>
+<p align="center">2 066</p>
 </td>
 <td width="166">
-<p align="center">294</p>
+<p align="center">300</p>
 </td>
 </tr>
 <tr>
@@ -63,16 +61,16 @@ II. - A compter du 1er avril 1997, les plafonds de loyer exprimés en francs son
 <p align="center">II</p>
 </td>
 <td width="119">
-<p align="center">1 280</p>
+<p align="center">1 325</p>
 </td>
 <td width="159">
-<p align="center">1 568</p>
+<p align="center">1 623</p>
 </td>
 <td width="172">
-<p align="center">1 807</p>
+<p align="center">1 843</p>
 </td>
 <td width="166">
-<p align="center">264</p>
+<p align="center">269</p>
 </td>
 </tr>
 <tr>
@@ -80,16 +78,16 @@ II. - A compter du 1er avril 1997, les plafonds de loyer exprimés en francs son
 <p align="center">III</p>
 </td>
 <td width="119">
-<p align="center">1 200</p>
+<p align="center">1 242</p>
 </td>
 <td width="159">
-<p align="center">1 456</p>
+<p align="center">1 507</p>
 </td>
 <td width="172">
-<p align="center">1 672</p>
+<p align="center">1 705</p>
 </td>
 <td width="166">
-<p align="center">239</p>
+<p align="center">244</p>
 </td>
 </tr>
 </tbody>

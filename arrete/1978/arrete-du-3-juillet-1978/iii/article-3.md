@@ -1,5 +1,5 @@
 # Article 3
 
-A compter du 1er juillet 1994, pour l'application de l'article R. 351-19 :
+A compter du 1er juillet 1997, pour l'application de l'article R. 351-19 :
 
-- le coefficient multiplicateur CM est fixé à 106 013.
+Le coefficient CM est fixé à 108 027.
