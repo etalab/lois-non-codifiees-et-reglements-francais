@@ -1,20 +1,16 @@
 # Article 3
 
-Le comité [*de tutelle des marchés d'intérêt national*] est composé [*composition*] :
+Le comité [*de tutelle des marchés d'intérêt national*] est composé d'un président, nommé par arrêté conjoint du ministre chargé du commerce, du ministre de l'agriculture, du ministre de l'économie et des finances et du ministre de l'intérieur, et de cinq membres [*composition - nombre*] :
 
-D'un président, nommé par arrêté conjoint du ministre de l'agriculture, du ministre de l'économie et des finances et du ministre de l'intérieur ;
+Le directeur du commerce intérieur au ministère chargé du commerce ;
 
-Et de cinq membres [*nombre*] :
+Le directeur du Trésor au ministère de l'économie et des finances ;
 
-Le directeur du Trésor et le directeur général du commerce intérieur et des prix du ministère de l'économie et des finances ;
+Le directeur chargé de l'aménagement rural et le directeur chargé des marchés d'intérêt national au ministère de l'agriculture ;
 
-Le directeur chargé de l'équipement rural et le directeur chargé des marchés d'intérêt national au ministère de l'agriculture.
+Le directeur général des collectivités locales au ministère de l'intérieur.
 
-Le directeur général des collectivités locales du ministère de l'intérieur.
-
-Chaque directeur désigne un suppléant parmi les fonctionnaires ayant un rang au moins égal à celui de sous-directeur.
-
-Un représentant du commissaire général au Plan et à la productivité assiste aux séances consacrées aux problèmes d'ordre général.
+Chaque directeur désigne un suppléant parmi les fonctionnaires placés sous son autorité.
 
 Les contrôleurs d'Etat auprès des organismes gestionnaires de marchés d'intérêt national et, en tant que de besoin, les commissaires du Gouvernement auprès de ces marchés assistent aux séances du comité.
 
