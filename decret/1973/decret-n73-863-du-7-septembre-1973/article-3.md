@@ -1,0 +1,3 @@
+# Article 3
+
+Les enseignants d'éducation physique et sportive peuvent, sur leur demande, être admis à participer à l'organi­sation et au développement de l'association sportive de leur établissement et à l'entraînement de ses membres en dehors du temps normal de leur service hebdomadaire. Ils perçoivent en ce cas une indemnité forfaitaire non soumise à retenue pour pension, dont le taux et les conditions d'attribution sont fixés par arrêté du ministre des finances, du ministre de l'éducation nationale et du secrétaire d'Etat auprès du Premier ministre chargé de la jeunesse, des sports et des loisirs.
