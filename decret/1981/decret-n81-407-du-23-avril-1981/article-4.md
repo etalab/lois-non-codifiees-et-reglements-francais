@@ -1,0 +1,3 @@
+# Article 4
+
+Chaque année en même temps que les comptes de résultats de chacun des régimes, la caisse nationale de l'organisation autonome d'assurance vieillesse des travailleurs non-salariés des professions artisanales présente un bilan consolidé dans lequel seront individualisées, par une présentation en colonne, les valeurs actives et passives de chacun des régimes, de l'action sociale, du fonds national de solidarité, des aides prévues par la loi n° 72-657 du 13 juillet 1972 et de la gestion administrative commune, dont la totalisation constitue le bilan consolidé de l'organisation autonome.

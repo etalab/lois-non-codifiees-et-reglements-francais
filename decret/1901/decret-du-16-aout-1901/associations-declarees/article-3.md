@@ -6,6 +6,6 @@ Les déclarations relatives aux changements survenus dans l'administration ou la
 
 2° Les nouveaux établissements fondés ;
 
-3° Le changement d'adresse dans la localité où est situé le siège social ;
+3° Le changement d'adresse du siège social ;
 
 4° Les acquisitions ou aliénations du local et des immeubles spécifiés à l'article 6 de la loi du 1er juillet 1901 ; un état descriptif, en cas d'acquisition, et l'indication des prix d'acquisition ou d'aliénation doivent être joints à la déclaration.
