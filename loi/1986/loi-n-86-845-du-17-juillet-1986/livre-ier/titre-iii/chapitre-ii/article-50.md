@@ -1,7 +1,7 @@
 # Article 50
 
-Le travail clandestin [*au noir*] est interdit. Il est également interdit d'avoir recours sciemment aux services d'un travailleur clandestin.
+Le travail clandestin [*définition*] est la dissimulation de tout ou partie de l'une des activités mentionnées à l'article 50-1 et exercées dans les conditions prévues par cet article.
 
-Est réputé clandestin, sauf s'il est occasionnel, l'exercice, à titre lucratif, d'une activité de production, de transformation, de réparation ou de prestations de services assujettissant à l'immatriculation au registre du commerce et, le cas échéant, au répertoire des métiers ou consistant en actes de commerce, accomplis par une personne physique ou morale n'ayant pas requis son immatriculation au registre du commerce ou au répertoire des métiers et n'ayant pas satisfait aux obligations fiscales et sociales inhérentes à ladite activité [*définition, travail au noir*].
+Le travail clandestin est interdit ainsi que la publicité, par quelque moyen que ce soit, tendant à favoriser, en toute connaissance de cause, le travail clandestin. Il est également interdit d'avoir recours sciemment, directement ou par personne interposée, au service de celui qui exerce une activité dans les conditions visées au premier alinéa.
 
-Celui qui a été condamné pour avoir recouru aux services d'un travailleur clandestin est tenu, solidairement avec celui-ci, au paiement des impôts, taxes et cotisations sociales dus par ce dernier, à raison des travaux ou services effectués pour son compte.
+Toutefois, sont exclus des interdictions ci-dessus les travaux d'urgence dont l'exécution immédiate est nécessaire pour prévenir les accidents imminents ou organiser les mesures de sauvetage, la réparation de dommages causés aux logements des particuliers du fait de la survenance d'une catastrophe naturelle.

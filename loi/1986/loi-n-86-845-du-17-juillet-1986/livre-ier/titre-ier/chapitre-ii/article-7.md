@@ -7,3 +7,5 @@ En cas de licenciement et sauf pendant la période d'essai, l'inobservation du p
 Le salarié lié par un contrat de travail à durée indéterminée et qui est licencié a droit, sauf en cas de faute grave, à une indemnité de licenciement s'il compte une ancienneté minimum ininterrompue au service du même employeur.
 
 L'employeur est tenu d'indiquer, à la demande écrite du salarié, le ou les motifs de licenciement.
+
+Avant de décider de licencier un salarié, l'employeur le convoque à un entretien contradictoire. A cette fin, il lui signifie en temps utile l'objet de cette convocation et la faculté qu'il a de se faire assister d'une personne de l'entreprise. Au cours de l'entretien, l'employeur est tenu d'indiquer le ou les motifs de la décision envisagée et de recueillir les explications du salarié [*procédure de licenciement*].

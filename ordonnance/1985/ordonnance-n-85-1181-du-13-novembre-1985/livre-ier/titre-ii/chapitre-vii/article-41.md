@@ -9,3 +9,5 @@ Pendant une année à compter du jour de la naissance, les mères allaitant leur
 Les salariées ont le droit de suspendre le contrat de travail pendant une période qui commence six semaines avant la date présumée de l'accouchement et se termine dix semaines après la date de celui-ci [*durée du congé maternité*].
 
 Aucun employeur ne peut résilier le contrat de travail d'une salariée lorsqu'elle est en état de grossesse médicalement constatée sauf faute grave de l'intéressée, non liée à l'état de grossesse, ou de l'impossibilité où il se trouve, pour un motif étranger à la grossesse ou à l'accouchement, de maintenir ledit contrat [*interdiction de licenciement*].
+
+Les femmes en état de grossesse apparente peuvent quitter le travail sans délai-congé et sans avoir, de ce fait, à payer une indemnité de rupture.

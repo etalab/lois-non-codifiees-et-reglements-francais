@@ -1,6 +1,6 @@
 # Article 28
 
-La présente loi est applicable dans les territoires de la Nouvelle-Calédonie et de la Polynésie française, à l'exception du III de l'article 7 et des articles 18 et 25 à 27 et sous réserve des adaptations suivantes :
+La présente loi est applicable dans les territoires de la Nouvelle-Calédonie et de la Polynésie française, à l'exception du III de l'article 7 et des articles 18, 25, 26 et 27 et sous réserve des adaptations suivantes :
 
 A l'article 1er, le montant du plafond institué par l'article L. 52-11 du code électoral est déterminé pour les élections à l'assemblée de la Polynésie française et aux assemblées de province en Nouvelle-Calédonie conformément au tableau ci-après :
 

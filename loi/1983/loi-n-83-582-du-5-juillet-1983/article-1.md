@@ -4,9 +4,11 @@ La présente loi est applicable à la recherche, à la constatation et à la pou
 
 - du décret du 9 janvier 1852 modifié sur l'exercice de la pêche maritime ;
 
-- de la loi du 1er mars 1888 modifiée ayant pour objet d'interdire la pêche dans les eaux territoriales françaises ;
+- de la loi du 1er mars 1888 relative à l'exercice de la pêche dans les eaux sous souveraineté ou juridiction française s'étendant au large des côtes des territoires d'outre-mer ;
 
 - de la loi du 28 mars 1928 instituant un régime spécial de pénalités à appliquer aux chalutiers à propulsion mécanique surpris à pêcher en deçà des limites réglementaires ;
+
+- de la loi n° 66-400 du 18 juin 1966 sur l'exercice de la pêche maritime et l'exploitation des produits de la mer dans les Terres australes et antarctiques françaises ;
 
 - de la loi n° 66-471 du 5 juillet 1966 portant interdiction de la vente des produits de la pêche sous-marine ;
 

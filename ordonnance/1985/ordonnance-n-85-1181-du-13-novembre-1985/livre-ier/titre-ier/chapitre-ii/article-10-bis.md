@@ -8,4 +8,4 @@ Sous réserve de dispositions conventionnelles plus favorables, tout salarié qu
 
 La mise à la retraite s'entend par la possibilité donnée à l'employeur de rompre le contrat de travail d'un salarié dès lors que celui-ci peut bénéficier d'une pension de vieillesse dans les conditions prévues par la réglementation territoriale et qu'il a atteint un âge minimum fixé par cette même réglementation, ou, si elles existent, les conditions d'âge prévues par la convention ou l'accord collectif, ou le contrat de travail si celles-ci sont plus favorables pour le salarié. Si les conditions de mise à la retraite ne sont pas remplies, la rupture du contrat de travail par l'employeur constitue un licenciement.
 
-L'employeur ou le salarié, selon que l'initiative du départ à la retraite émane de l'un ou de l'autre, est tenu de se conformer aux dispositions prévues pour le délai-congé.
+L'employeur ou le salarié, selon que l'initiative du départ à la retraite émane de l'un ou de l'autre, est tenu de se conformer aux dispositions prévues pour le délai-congé par le deuxième alinéa de l'article 9-1.

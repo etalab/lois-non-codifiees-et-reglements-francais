@@ -1,3 +1,7 @@
 # Article 8
 
-Sous réserve des dispositions de l'article 11, le contrat est conclu pour une durée indéterminée. Il ne peut être résilié par l'employeur sans cause réelle et sérieuse à peine de dommages et intérêts. Lorsque cette rupture est justifiée par des motifs économiques, le licenciement est subordonné à une autorisation administrative préalable. Cette autorisation est donnée par l'exécutif du territoire dans les conditions prévues par le congrès du territoire.
+Sous réserve des dispositions de l'article 12, le contrat de travail est conclu pour une durée indéterminée.
+
+Le contrat de travail conclu sans détermination de durée peut cesser à l'initiative d'une des parties contractantes sous réserve de l'application des règles définies aux articles 9, 9-1 et 10 bis.
+
+Ces règles ne sont pas applicables pendant la période d'essai.

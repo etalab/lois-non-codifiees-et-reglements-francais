@@ -32,9 +32,27 @@ D. - Au 1 de l'article 215 :
 
 2° Le dernier alinéa est supprimé.
 
-II. - Aux articles 403, 410, 412, 413 bis, 414, 431, 432 bis 2 et 437, les valeurs exprimées en francs sont remplacées par des valeurs en francs C.F.P., conformément au tableau ci-après :
+II. - Aux articles 60 bis, 403, 410, 412, 413 bis, 414, 431, 432 bis 2 et 437, les valeurs exprimées en francs sont remplacées par des valeurs en francs C.F.P., conformément au tableau ci-après :
 
-- article 403 5 000 F C.F.P.   - article 410 20 000 à 360 000 F C.F.P.   - article 412 18 000 à 180 000 F C.F.P.   - article 413 bis 10 000 à 60 000 F C.F.P.   - article 414 100 000 F C.F.P.   - article 431 200 F C.F.P.   - article 432 bis, 2 20 000 à 1 800 000 F C.F.P.   - article 437 18 000 ou 36 000 F C.F.P. et 4 000 F C.F.P.   III. - Pour l'application du présent article, il y a lieu de lire :
+article 60 bis 10 000 à 277 000 F C.F.P...
+
+article 403 5 000 F C.F.P..
+
+article 410 20 000 à 360 000 F C.F.P..
+
+article 412 18 000 à 180 000 F C.F.P..
+
+article 413 bis 10 000 à 60 000 F C.F.P..
+
+article 414 100 000 F C.F.P..
+
+article 431 200 F C.F.P..
+
+article 432 bis, 2 20 000 à 1 800 000 F C.F.P..
+
+article 437 18 000 ou 36 000 F C.F.P. et 4 000 F C.F.P..
+
+III. - Pour l'application du présent article, il y a lieu de lire :
 
 1° " administrateur supérieur, chef du territoire " au lieu de :
 
