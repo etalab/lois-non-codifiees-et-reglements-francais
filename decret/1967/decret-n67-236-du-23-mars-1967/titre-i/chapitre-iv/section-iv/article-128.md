@@ -15,3 +15,5 @@ Toutefois, lorsque le capital de la société est supérieur à 5 millions de fr
 La demande est accompagnée du texte des projets de résolution qui peuvent être assortis d'un bref exposé des motifs.
 
 Les auteurs de la demande justifient de la possession ou de la représentation de la fraction du capital exigée, en procédant, avant l'envoi de cette demande, aux formalités prévues à l'article 136, alinéa 1er.
+
+Lorsque le projet de résolution porte sur la présentation d'un candidat au conseil d'administration ou de surveillance, il doit être accompagné des renseignements prévus au 5° de l'article 135.

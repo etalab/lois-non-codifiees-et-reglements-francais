@@ -8,6 +8,8 @@ La feuille de présence aux assemblées d'actionnaires contient les mentions sui
 
 3° Les nom, prénom usuel et domicile de chaque mandataire, le nombre d'actions de ses mandants, ainsi que le nombre de voix attaché à ces actions.
 
-Le bureau de l'assemblée peut annexer à la feuille de présence, la procuration portant les nom, prénom usuel et domicile de chaque mandant, le nombre d'actions dont il est titulaire et le nombre de voix attaché à ces actions. Dans ce cas, le bureau de l'assemblée n'est pas tenu d'inscrire sur la feuille de présence les mentions concernant les actionnaires représentés, mais le nombre des pouvoirs annexés à ladite feuille est indiqué sur celle-ci. Ces pouvoirs devront être communiqués dans les mêmes conditions  et en même temps que le feuille de présence [*délai*].
+4° Les nom, prénom usuel et domicile de chaque actionnaire ayant adressé à la société un formulaire de vote par correspondance, ainsi que le nombre d'actions dont il est titulaire et le nombre de voix attaché à ces actions.
+
+Le bureau de l'assemblée peut annexer à la feuille de présence, la procuration ou le formulaire de vote par correspondance portant les nom, prénom usuel et domicile de chaque actionnaire mandant ou votant par correspondance, le nombre d'actions dont il est titulaire et le nombre de voix attaché à ces actions. Dans ce cas, le bureau de l'assemblée indique le nombre des pouvoirs et des formulaires de vote par correspondance annexés à ladite feuille ainsi que le nombre des actions et des droits de vote correspondant aux procurations et aux formulaires. Les pouvoirs et les formulaires de vote par correspondance devront être communiqués en même temps et dans les mêmes conditions que la feuille de présence.
 
 La feuille de présence, dûment émargée par les actionnaires présents et les mandataires, est certifiée exacte par le bureau de l'assemblée.
