@@ -1,0 +1,3 @@
+# Article 2
+
+La base de données nationale d'identification et de traçage des bovins et de leurs produits, créée en application des articles 3 et 5 du règlement (CE) n° 820/97 du Conseil et des articles 14 et 18 de la directive 97/12/CE du Conseil susvisés, comporte des informations relatives aux exploitants et aux exploitations, aux animaux qui y sont élevés ou détenus, à leurs mouvements, à leur statut sanitaire ainsi qu'au statut sanitaire des exploitations. Le ministre chargé de l'agriculture pourra, sur avis favorable de la Commission nationale Informatique et libertés, et dans les conditions prévues par la loi du 6 janvier 1978 susvisée, définir par arrêté les modalités de fonctionnement et de gestion de cette base de données.
