@@ -10,4 +10,6 @@ Reste dans cette position le militaire de carrière qui obtient :
 
 3° Des congés exceptionnels d'une durée maximum de six mois accordés avec solde dans l'intérêt du service, notamment pour la formation ou le perfectionnement, ou sans solde pour convenances personnelles ;
 
-4° Des congés de fin de services avec solde réduite de moitié et de fin de campagne avec solde, d'une durée maximum de six mois.
+4° Des congés de fin de services avec solde réduite de moitié et de fin de campagne avec solde, d'une durée maximum de six mois ;
+
+5° Un congé de reconversion avec solde accordé dans l'intérêt du service, d'une durée maximum de six mois. Toutefois, la solde est suspendue ou réduite dans les conditions prévues par décret en Conseil d'Etat lorsque le militaire exerce une activité publique ou privée rémunérée. A l'expiration du congé de reconversion, le militaire qui n'est pas placé en congé du personnel navigant prévu au 5° de l'article 57 ou en congé complémentaire de reconversion prévu au 8° de ce même article est soit mis d'office à la retraite, soit tenu de démissionner de son état de militaire de carrière s'il n'a pas acquis de droits à pension de retraite.

@@ -12,4 +12,8 @@ La non-activité est la position temporaire du militaire de carrière qui se tro
 
 5° En congé du personnel navigant ;
 
-6° En retrait d'emploi ;    7° En congé parental.
+6° En retrait d'emploi ;
+
+7° En congé parental ;
+
+8° En congé complémentaire de reconversion.
