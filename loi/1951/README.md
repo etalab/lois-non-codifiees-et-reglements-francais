@@ -13,3 +13,4 @@
 - [Loi n°51-46 du 11 janvier 1951](loi-n51-46-du-11-janvier-1951)
 - [Loi n°51-59 du 18 janvier 1951](loi-n51-59-du-18-janvier-1951)
 - [Loi n°51-637 du 24 mai 1951](loi-n51-637-du-24-mai-1951)
+- [Loi n°51-662 du 24 mai 1951](loi-n51-662-du-24-mai-1951)
