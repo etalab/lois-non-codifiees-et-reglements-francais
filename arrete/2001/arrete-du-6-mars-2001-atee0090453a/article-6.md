@@ -1,0 +1,3 @@
+# Article 6
+
+Chaque programme d'action précise les indicateurs permettant son suivi et l'évaluation de son efficacité. Le préfet établit un tableau de bord par zone vulnérable ou partie de zone vulnérable, en individualisant, le cas échéant, les zones prévues aux articles 3 et 4 du décret du 10 janvier 2001 susvisé. Le préfet peut, après consultation de la chambre d'agriculture, désigner un ou plusieurs organismes chargés de recueillir auprès des agriculteurs les informations destinées à renseigner les indicateurs permettant d'apprécier l'évolution des pratiques à risques pour la pollution azotée des eaux et de fournir tout ou partie de leur analyse et de leur synthèse.
