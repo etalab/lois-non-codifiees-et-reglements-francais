@@ -1,0 +1,3 @@
+# Article 4
+
+L'entretien d'évaluation est conduit par le supérieur hiérarchique direct de l'agent, sous réserve que celui-ci soit d'un grade supérieur s'il s'agit d'un fonctionnaire de catégorie A, ou pour les autres catégories d'un corps de niveau supérieur au regard du classement de la fonction publique (A, B, C ou équivalent s'agissant des corps actifs de la police nationale). Sa date est fixée au moins huit jours à l'avance pour permettre à l'agent et au supérieur hiérarchique de le préparer et de remplir au préalable les parties de la fiche servant de base au compte rendu qui leur incombent.
