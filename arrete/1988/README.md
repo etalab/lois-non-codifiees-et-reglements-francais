@@ -151,6 +151,7 @@
 - [Arrêté du 9 mai 1988 (COMA8800014A)](arrete-du-9-mai-1988-coma8800014a)
 - [Arrêté du 9 mai 1988 (COMA8800015A)](arrete-du-9-mai-1988-coma8800015a)
 - [Arrêté du 9 mai 1988 (INDB8800230A)](arrete-du-9-mai-1988-indb8800230a)
+- [Arrêté du 9 mai 1988 (MERX8810367A)](arrete-du-9-mai-1988-merx8810367a)
 - [Arrêté du 10 février 1988 (ECOT8811019A)](arrete-du-10-fevrier-1988-ecot8811019a)
 - [Arrêté du 10 février 1988 (INTD8800074A)](arrete-du-10-fevrier-1988-intd8800074a)
 - [Arrêté du 10 février 1988 (PRMD8850005A)](arrete-du-10-fevrier-1988-prmd8850005a)
