@@ -61,6 +61,7 @@
 - [Décret n°2000-640 du 6 juillet 2000 (MENF0000997D)](decret-n2000-640-du-6-juillet-2000-menf0000997d)
 - [Décret n°2000-658 du 6 juillet 2000 (ECOC0000015D)](decret-n2000-658-du-6-juillet-2000-ecoc0000015d)
 - [Décret n°2000-662 du 6 juillet 2000 (ATEP0080048D)](decret-n2000-662-du-6-juillet-2000-atep0080048d)
+- [Décret n°95-569 du 6 mai 1995 (SPSH9501452D)](decret-n95-569-du-6-mai-1995-spsh9501452d)
 - [Décret du 7 juillet 2000 (ATEN0080012D)](decret-du-7-juillet-2000-aten0080012d)
 - [Décret du 7 juin 2000 (AGRP0000285D)](decret-du-7-juin-2000-agrp0000285d)
 - [Décret du 7 juin 2000 (AGRP0000328D)](decret-du-7-juin-2000-agrp0000328d)
