@@ -29,5 +29,6 @@
 - [Décret n°82-1162 du 30 décembre 1982](decret-n82-1162-du-30-decembre-1982)
 - [Décret n°82-1213 du 30 décembre 1982](decret-n82-1213-du-30-decembre-1982)
 - [Décret n°82-1218 du 30 décembre 1982](decret-n82-1218-du-30-decembre-1982)
+- [Décret n°82-1224 du 30 décembre 1982](decret-n82-1224-du-30-decembre-1982)
 - [Décret n°82-1244 du 31 décembre 1982](decret-n82-1244-du-31-decembre-1982)
 - [Décret n°82-1248 du 31 décembre 1982](decret-n82-1248-du-31-decembre-1982)
