@@ -10,6 +10,7 @@
 - [Décret n°2003-479 du 4 juin 2003 (SOCF0310380D)](decret-n2003-479-du-4-juin-2003-socf0310380d)
 - [Décret n°2003-411 du 5 mai 2003 (INTC0300083D)](decret-n2003-411-du-5-mai-2003-intc0300083d)
 - [Décret n°2003-428 du 5 mai 2003 (JUSD0330014D)](decret-n2003-428-du-5-mai-2003-jusd0330014d)
+- [Décret n°2003-484 du 6 juin 2003 (MENF0301099D)](decret-n2003-484-du-6-juin-2003-menf0301099d)
 - [Décret n°2003-412 du 6 mai 2003 (INTA0300079D)](decret-n2003-412-du-6-mai-2003-inta0300079d)
 - [Décret n°2003-418 du 7 mai 2003 (SANC0321640D)](decret-n2003-418-du-7-mai-2003-sanc0321640d)
 - [Décret n°2003-421 du 7 mai 2003 (SANH0321113D)](decret-n2003-421-du-7-mai-2003-sanh0321113d)
