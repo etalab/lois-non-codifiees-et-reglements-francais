@@ -1,0 +1,5 @@
+# Article 6
+
+L'organisation de la formation est définie dans ses grandes lignes par l'annexe n° 2 du présent arrêté. Pour chaque domaine de formation, des objectifs, un programme et un horaire sont fixés par le ministre de l'éducation nationale. Dans chacun de ces domaines, une part suffisante de l'horaire doit être consacrée à conduire les élèves, qui ont suivi des cursus de formation différents avant leur entrée dans le centre, au niveau de connaissance et de réflexion nécessaire à leur futur métier.
+
+La formation ainsi définie doit être mise en oeuvre au cours d'activités théoriques et pratiques dont la finalité est dans tous les cas professionnelle. Il s'agit de permettre aux élèves des centres d'acquérir, d'une part, une compétence suffisante dans les domaines disciplinaires où ils auront à instruire les élèves, d'autre part, une représentation juste des fondements de chacune de ces disciplines, de leurs relations entre elles et de leur rapport aux finalités de l'éducation et de l'instruction, et, enfin, une réflexion et un début d'expérience pratique touchant les conditions d'exercice de leur futur métier.
