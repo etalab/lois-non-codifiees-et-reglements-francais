@@ -16,6 +16,7 @@
 - [Arrêté du 10 octobre 1977](arrete-du-10-octobre-1977)
 - [Arrêté du 11 janvier 1978](arrete-du-11-janvier-1978)
 - [Arrêté du 11 octobre 1977](arrete-du-11-octobre-1977)
+- [Arrêté du 11 mai 1978](arrete-du-11-mai-1978)
 - [Arrêté du 14 décembre 1977](arrete-du-14-decembre-1977)
 - [Arrêté du 14 mars 1978](arrete-du-14-mars-1978)
 - [Arrêté du 15 décembre 1977](arrete-du-15-decembre-1977)
