@@ -12,7 +12,7 @@ Le conseil d'administration comprend trente-deux membres :
 
 - un membre désigné par le conseil municipal de la commune siège de la plus importante zone portuaire de l'établissement ;
 
-- un membre désigné par la chambre régionale de commerce et d'industrie de Paris ;
+- un membre désigné par la chambre régionale de commerce et d'industrie Paris - Ile-de-France ;
 
 - quatre représentants des salariés, dont un représentant des cadres, élus conformément aux dispositions du chapitre II du titre II de la loi n° 83-675 du 26 juillet 1983 modifiée relative à la démocratisation du secteur public ;
 
@@ -30,6 +30,6 @@ Le conseil d'administration comprend trente-deux membres :
 
 - un sur proposition du ministre de l'intérieur ;
 
-- dix personnalités choisies parmi les principaux usagers du port ou désignées en raison de leur compétence dans les problèmes relatifs aux ports, à la navigation, à l'économie régionale et à l'économie générale, dont deux proposées par la chambre régionale de commerce et d'industrie d'Ile-de-France.
+- dix personnalités choisies parmi les principaux usagers du port ou désignées en raison de leur compétence dans les problèmes relatifs aux ports, à la navigation, à l'économie régionale et à l'économie générale, dont deux proposées par la chambre régionale de commerce et d'industrie Paris - Ile-de-France.
 
 Le préfet de la région Ile-de-France ou son représentant assiste aux séances du conseil d'administration. Le secrétaire du comité d'entreprise assiste également avec voix consultative aux séances.
