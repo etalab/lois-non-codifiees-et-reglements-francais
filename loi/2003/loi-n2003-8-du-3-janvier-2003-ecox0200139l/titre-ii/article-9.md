@@ -2,13 +2,15 @@
 
 Tout opérateur exploitant des ouvrages de transport, de distribution ou de stockage de gaz naturel ou des installations de gaz naturel liquéfié et tout fournisseur les utilisant fournit aux autres opérateurs de ces ouvrages et installations les informations nécessaires pour assurer le bon fonctionnement du réseau interconnecté et des stockages.
 
-Chaque opérateur exploitant des ouvrages de transport, de distribution ou de stockage de gaz naturel ou des installations de gaz naturel liquéfié identifie, en son sein, un service chargé des relations avec les utilisateurs de ces ouvrages ou installations dont la composition est portée à la connaissance de la Commission de régulation de l'énergie. Ce service préserve la confidentialité de toutes les informations dont la communication serait de nature à porter atteinte à une concurrence loyale. La liste des informations concernées est déterminée par décret en Conseil d'Etat.
+Chaque opérateur exploitant des ouvrages de transport, de distribution ou de stockage de gaz naturel ou des installations de gaz naturel liquéfié préserve la confidentialité de toutes les informations dont la communication serait de nature à porter atteinte à une concurrence loyale. La liste des informations concernées est déterminée par décret en Conseil d'Etat.
 
-Est punie de 15000 euros d'amende la révélation à toute personne étrangère audit service d'une des informations mentionnées au deuxième alinéa par une personne qui en est dépositaire, soit par état ou par profession, soit en raison d'une fonction ou d'une mission temporaire.
+Les mesures prises par les opérateurs pour assurer leur confidentialité sont portées à la connaissance de la Commission de régulation de l'énergie.
 
-La peine prévue au troisième alinéa ne s'applique pas à la communication de ces informations :
+Est punie de 15000 euros d'amende la révélation à toute personne étrangère à l'opérateur d'une des informations mentionnées au deuxième alinéa par une personne qui en est dépositaire soit par état ou par profession, soit en raison d'une fonction ou d'une mission temporaire.
 
-- lorsqu'elle est nécessaire au bon fonctionnement des réseaux de transport ou de distribution de gaz naturel, des installations de gaz naturel liquéfié ou des stockages souterrains de gaz naturel ;
+La peine prévue au quatrième alinéa ne s'applique pas à la communication de ces informations :
+
+- lorsqu'elle est nécessaire au bon fonctionnement des réseaux de transport ou de distribution de gaz naturel, des installations de gaz naturel liquéfié ou des stockages souterrains de gaz naturel ou au bon accomplissement des missions de leurs opérateurs ;
 
 - à la Commission de régulation de l'énergie, en application de l'article 2 ;
 

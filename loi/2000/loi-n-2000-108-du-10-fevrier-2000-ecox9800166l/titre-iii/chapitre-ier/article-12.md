@@ -1,17 +1,11 @@
 # Article 12
 
-Au sein d'Electricité de France, le service gestionnaire du réseau public de transport d'électricité exerce ses missions dans des conditions fixées par un cahier des charges type de concession approuvé par décret en Conseil d'Etat, après avis de la Commission de régulation de l'énergie.
+I.-Le réseau public de transport est constitué par :
 
-Le gestionnaire du réseau public de transport est indépendant sur le plan de la gestion des autres activités d'Electricité de France.
+1° Les ouvrages exploités, à la date de publication de la loi n° 2004-803 du 9 août 2004 précitée, par Electricité de France, en tant que gestionnaire du réseau public de transport ;
 
-Pour la désignation de son directeur, le président d'Electricité de France propose trois candidats au ministre chargé de l'énergie. Celui-ci nomme un de ces candidats au poste de directeur pour six ans, après avis de la Commission de régulation de l'électricité. Il ne peut être mis fin de manière anticipée aux fonctions de directeur que, dans l'intérêt du service, par arrêté du ministre chargé de l'énergie, après avis motivé de la Commission de régulation de l'énergie transmis au ministre et notifié à l'intéressé. Le directeur du gestionnaire du réseau public de transport rend compte des activités de celui-ci devant la Commission de régulation de l'énergie. Il veille au caractère non discriminatoire des décisions prises pour l'exécution des missions prévues aux articles 2, 14, 15 et 23.
+2° Sous réserve des dispositions de l'article 24 de la présente loi et de l'article 37 de la loi n° 2004-803 du 9 août 2004 précitée, les ouvrages de tension supérieure ou égale à 50 kV créés, à compter de la date de publication de cette même loi, sur le territoire métropolitain continental.
 
-Le directeur du gestionnaire du réseau public de transport ne peut être membre du conseil d'administration d'Electricité de France.
+Un décret en Conseil d'Etat définit, en particulier pour les postes de transformation, les conditions de l'appartenance au réseau public de transport des ouvrages ou parties d'ouvrages mentionnés aux 1° et 2°, notamment en ce qui concerne leurs caractéristiques, leurs fonctions ou la date de leur mise en service. Ce décret précise en outre les conditions dans lesquelles le ministre chargé de l'énergie peut déroger aux règles de classement des ouvrages, mentionnées aux 1° et 2°, pour les ouvrages de tension supérieure ou égale à 50 kV qui assurent exclusivement une fonction de distribution d'électricité au bénéfice des distributeurs non nationalisés mentionnés à l'article 23 de la loi n° 46-628 du 8 avril 1946 précitée. En cas de désaccord, notamment financier, entre les gestionnaires de réseaux, il est fait application des dispositions de l'article 10 de la loi n° 2004-803 du 9 août 2004 précitée.
 
-Il est consulté préalablement à toute décision touchant la carrière d'un agent affecté au gestionnaire du réseau public de transport. Les agents affectés au gestionnaire du réseau public de transport ne peuvent recevoir d'instructions que du directeur ou d'un agent placé sous son autorité.
-
-Au sein d'Electricité de France, le gestionnaire du réseau public de transport dispose d'un budget qui lui est propre. Ce budget et les comptes du gestionnaire du réseau public de transport sont transmis à la Commission de régulation de l'énergie qui en assure la communication à toute personne en faisant la demande.
-
-Le directeur du gestionnaire du réseau public de transport est seul responsable de sa gestion et dispose, à ce titre, du pouvoir d'engager les dépenses liées à son fonctionnement et à l'accomplissement de ses missions.
-
-Le gestionnaire du réseau public de transport exerce sa mission conformément aux principes du service public énoncés aux articles 1er et 2.
+II.-Le gestionnaire du réseau public de transport d'électricité exerce ses missions dans les conditions fixées par un cahier des charges type de concession approuvé par décret en Conseil d'Etat, après avis de la Commission de régulation de l'énergie.

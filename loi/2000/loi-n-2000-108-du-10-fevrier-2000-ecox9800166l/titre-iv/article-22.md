@@ -8,7 +8,7 @@ II. - Sont, en outre, reconnus clients éligibles :
 
 - sous réserve des dispositions du IV, les fournisseurs pour l'électricité qu'ils achètent pour la revendre à des clients éligibles ;
 
-- les distributeurs non nationalisés mentionnés à l'article 23 de la loi n° 46-628 du 8 avril 1946 précitée en vue de l'approvisionnement effectif des clients éligibles et non éligibles situés dans leur zone de desserte lorsque la consommation totale de ces clients est supérieure au seuil mentionné au I ainsi que pour les pertes d'électricité des réseaux qu'ils exploitent. Un décret en Conseil d'Etat précise les conditions dans lesquelles ces distributeurs peuvent continuer à bénéficier des tarifs de cession mentionnés à l'article 4 de la présente loi ;.
+- les distributeurs non nationalisés mentionnés à l'article 23 de la loi n° 46-628 du 8 avril 1946 précitée en vue de l'approvisionnement effectif des clients éligibles et non éligibles situés dans leur zone de desserte lorsque la consommation totale de ces clients est supérieure au seuil mentionné au I ainsi que pour les pertes d'électricité des réseaux qu'ils exploitent. Un décret en Conseil d'Etat précise les conditions dans lesquelles ces distributeurs peuvent continuer à bénéficier des tarifs de cession mentionnés à l'article 4 de la présente loi ;
 
 - sans préjudice des dispositions du deuxième alinéa du I, les propriétaires ou les gestionnaires de réseaux ferroviaires ou de réseaux de transports collectifs urbains électriquement interconnectés en aval des points de livraison par Electricité de France ou par un distributeur non nationalisé mentionné à l'article 23 de la loi n° 46-628 du 8 avril 1946 précitée.
 
@@ -21,3 +21,9 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent IV et
 Il précise les obligations qui s'imposent en matière d'information des consommateurs d'électricité, tant aux fournisseurs mentionnés au présent IV qu'aux services de distribution et aux producteurs.
 
 V. - Le ministre chargé de l'énergie établit et rend publiques la liste des opérateurs qui achètent pour revente aux clients éligibles.
+
+VI. - Les fournisseurs communiquent sur leur demande aux clients éligibles qui souscrivent une puissance égale ou inférieure à 36 kVA leurs barèmes de prix ainsi que la description précise des offres commerciales auxquelles s'appliquent ces prix. Ces barèmes de prix sont identiques pour l'ensemble des clients éligibles de cette catégorie raccordés au réseau électrique continental.
+
+VII. - Les contrats de fourniture conclus pour l'alimentation des consommateurs éligibles dont la puissance souscrite pour l'accès au réseau est égale ou inférieure à 36 kVA prévoient notamment une facturation de l'énergie en fonction de l'électricité consommée.
+
+Lorsque le fournisseur d'électricité facture simultanément au consommateur la fourniture d'énergie et l'utilisation des réseaux publics de transport et de distribution, en application des dispositions du septième alinéa de l'article 23, chaque kilowatt-heure consommé est facturé, au minimum, au montant prévu par le tarif d'utilisation des réseaux mentionné à l'article 4.

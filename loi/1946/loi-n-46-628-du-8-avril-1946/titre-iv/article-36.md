@@ -1,6 +1,6 @@
 # Article 36
 
-Les établissements publics auxquels sont transférées les concessions d'électricité ou de gaz nationalisées en vertu de la présente loi devront observer les dispositions des cahiers des charges en vigueur.
+Les sociétés auxquelles sont transférées les concessions d'électricité ou de gaz nationalisées en vertu de la présente loi devront observer les dispositions des cahiers des charges en vigueur.
 
 L'Etat, les collectivités locales et, le cas échéant, les tiers conservent tous les droits résultant de ces cahiers des charges et de toutes autres conventions.
 
