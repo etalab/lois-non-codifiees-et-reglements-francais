@@ -1,6 +1,5 @@
 # Paragraphe I : Augmentation du capital et actionnariat des salariés.
 
-- [c) Obligations échangeables.](c)
 - [Article 154](article-154.md)
 - [Article 155](article-155.md)
 - [Article 155-1](article-155-1.md)
