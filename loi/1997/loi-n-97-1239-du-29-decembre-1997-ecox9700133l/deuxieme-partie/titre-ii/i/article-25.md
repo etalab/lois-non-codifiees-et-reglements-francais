@@ -2,7 +2,7 @@
 
 A. - Les produits désignés ci-après, élaborés sous contrôle fiscal dans des unités agréées en vue d'être utilisés comme carburants ou combustibles bénéficient, dans la limite des quantités fixées par les agréments, d'une exonération de la taxe intérieure de consommation sur les produits pétroliers prévue à l'article 265 du code des douanes fixée à :
 
-a) 230 F/hl pour les esters d'huile végétale incorporés au fioul domestique et au gazole ;
+a) 240 F/hl (1) pour les esters d'huile végétale incorporés au fioul domestique et au gazole ;
 
 b) 329,5 F/hl pour le contenu en alcool des dérivés de l'alcool éthylique dont la composante alcool est d'origine agricole, incorporés aux supercarburants et aux essences.
 
