@@ -1,0 +1,4 @@
+# Arrêté du 6 août 1982 RELATIF A LA COTISATION DUE PAR LES ENTREPRISES VISEES AUX ARTICLES L731-1 ET R731-1 DU CODE DU TRAVAIL
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
