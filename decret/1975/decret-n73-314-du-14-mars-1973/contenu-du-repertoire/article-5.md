@@ -2,7 +2,9 @@
 
 Sont également portés au répertoire les renseignements suivants :
 
-1. Les numéros de la nomenclature des activités définie par le décret du 9 novembre 1973 susvisé modifié caractérisant l'activité, y compris celle de chacun des établissements ;
+1. Les numéros de la nomenclature d'activités française définie par le décret (décret n° 92-1129 du 2 octobre 1992) caractérisant les activités exercées.
+
+1 bis. Les codes complémentaires précisant les formes particulières d'activités.
 
 2. Les catégories correspondant à l'importance de l'effectif salarié civil total et par établissement ;
 
