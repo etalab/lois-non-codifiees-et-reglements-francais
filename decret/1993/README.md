@@ -142,6 +142,8 @@
 - [Décret n°92-1016 du 17 septembre 1992 (SANH9201804D)](decret-n92-1016-du-17-septembre-1992-sanh9201804d)
 - [Décret n°93-1240 du 17 novembre 1993 (MCCB9300305D)](decret-n93-1240-du-17-novembre-1993-mccb9300305d)
 - [Décret n°93-1241 du 17 novembre 1993 (MCCB9300314D)](decret-n93-1241-du-17-novembre-1993-mccb9300314d)
+- [Décret n°93-222 du 17 février 1993 (INTB9300041D)](decret-n93-222-du-17-fevrier-1993-intb9300041d)
+- [Décret n°93-223 du 17 février 1993 (INTB9300040D)](decret-n93-223-du-17-fevrier-1993-intb9300040d)
 - [Décret n°94-234 du 17 mars 1994 (EQUA9400211D)](decret-n94-234-du-17-mars-1994-equa9400211d)
 - [Décret n°96-339 du 17 avril 1996 (MCCB9600046D)](decret-n96-339-du-17-avril-1996-mccb9600046d)
 - [Décret n°96-341 du 17 avril 1996 (MCCB9600047D)](decret-n96-341-du-17-avril-1996-mccb9600047d)
