@@ -1,0 +1,7 @@
+# Article 1
+
+Le droit à pension de retraite peut être ouvert, dans les conditions fixées par le présent décret, sans que leur soient opposables les dispositions de l'article 146 du décret susvisé du 27 novembre 1946, aux affiliés du régime spécial de la sécurité sociale dans les mines, qui sont titulaires soit d'une ou plusieurs rentes de victimes d'accidents du travail ou de maladies professionnelles, soit d'une pension d'invalidité professionnelle attribuée en application de l'article 136 du décret du 27 novembre 1946, lorsque leurs employeurs se sont engagés envers la Caisse autonome nationale de la sécurité sociale dans les mines à lui rembourser, pour chaque bénéficiaire et jusqu'à la date à laquelle il satisfera à la condition d'âge définie audit article 146, la totalité des arrérages de pension ainsi que les cotisations, contributions et taxes y afférentes.
+
+Les conventions passées à cet effet avec la caisse autonome précitée déterminent les conditions minimales d'âge, de durée de services miniers ou assimilés et, pour les titulaires de rentes, de degré d'incapacité permanente exigées de demandeurs ; elles peuvent limiter les périodes pendant lesquelles les demandes sont recevables.
+
+Ces conventions ne deviennent applicables qu'après avoir été approuvées par des arrêtés des ministres chargés des mines, du budget, de la sécurité sociale et de l'emploi, qui désignent les entreprises et groupes d'entreprises concernés par le présent décret et fixent les conditions d'application dans chaque cas.
