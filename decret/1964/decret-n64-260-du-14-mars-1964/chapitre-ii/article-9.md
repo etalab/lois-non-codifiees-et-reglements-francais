@@ -1,6 +1,6 @@
 # Article 9
 
-I - La commission chargée de vérifier l'aptitude des personnes nommées au titre du c de l'article 8 ci-dessus est présidée par un membre ou ancien membre du Conseil d'Etat ayant au moins le grade de conseiller d'Etat, nommé par décret pour trois ans sur proposition du vice-président du Conseil d'Etat. Elle comprend :
+I - La commission chargée de vérifier l'aptitude des personnes nommées au titre du c du I de l'article 8 ci-dessus est présidée par un membre ou ancien membre du Conseil d'Etat ayant au moins le grade de conseiller d'Etat, nommé par décret pour trois ans sur proposition du vice-président du Conseil d'Etat. Elle comprend :
 
 Un magistrat ou ancien magistrat de la Cour des comptes ayant au moins le grade de conseiller maître, nommé par décret pour trois ans sur proposition du premier président de la Cour des comptes ;
 

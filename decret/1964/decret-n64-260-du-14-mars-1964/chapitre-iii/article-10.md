@@ -1,9 +1,7 @@
 # Article 10
 
-L'avancement de classe des sous-préfets a lieu exclusivement au choix.
+L'avancement au grade de sous-préfet hors-classe a lieu au choix. Il est prononcé par décret, pris sur la proposition du ministre de l'intérieur.
 
-Peuvent être promus à la 1re classe les sous-préfets qui ont atteint le 7e échelon de la 2e classe, sous réserve qu'ils aient accompli quatre ans de services effectifs depuis leur nomination dans le corps des sous-préfets ou dans l'un des corps ou cadre d'emplois mentionnés aux articles 5 et 6 bis.
+Peuvent être promus à la hors-classe les sous-préfets qui ont atteint au moins le 6e échelon de leur grade et justifient de quatre années de services effectifs depuis leur nomination dans le corps des sous-préfets ou dans l'un des corps ou cadre d'emplois mentionnés aux articles 5 et 6.
 
-L'ancienneté acquise dans le 7e échelon de la 2e classe n'est conservée que dans la limite de deux ans.
-
-Peuvent être promus à la hors-classe les sous-préfets qui ont atteint le 3e échelon de la 1re classe, sous réserve qu'ils aient accompli huit ans de service effectifs depuis leur nomination dans le corps des sous-préfets ou dans l'un des corps ou cadre d'emplois mentionnés aux articles 5 et 6 bis.
+Les intéressés sont, lors de leur promotion, classés à l'échelon comportant l'indice de rémunération égal à celui dont ils bénéficiaient antérieurement. Ils conservent à cette occasion l'ancienneté acquise dans le précédent échelon. Toutefois, lorsque le fonctionnaire promu est au 9e échelon du grade de sous-préfet, il ne conserve son ancienneté que dans la limite de trois ans.

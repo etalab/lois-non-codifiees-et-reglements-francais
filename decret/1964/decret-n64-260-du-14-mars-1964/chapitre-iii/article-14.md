@@ -1,11 +1,15 @@
 # Article 14
 
-L'avancement d'échelon des sous-préfets est prononcé par arrêté du ministre de l'intérieur.
+Au sein de chaque grade, l'avancement d'échelon des sous-préfets est prononcé par arrêté du ministre de l'intérieur.
 
-La durée de chaque échelon pour accéder à l'échelon supérieur est fixée à :
+La durée de chaque échelon pour accéder à l'échelon supérieur est fixée comme suit :
 
-- un an pour les quatre premiers échelons de la 2e classe ;
+- six mois pour le 1er échelon du grade de sous-préfet ;
 
-- deux ans pour les 5e et 6e échelons de la 2e classe, les trois premiers échelons de la 1re classe et le 1er échelon de la hors-classe ;
+- un an pour les 2e, 3e et 4e échelons du même grade ;
 
-- trois ans pour le 4e échelon de la 1re classe et les 2e, 3e et 4e échelons de la hors-classe.
+- un an et six mois pour le 5e échelon du même grade ;
+
+- deux ans pour les 6e, 7e et 8e échelons du même grade et pour les 1er, 2e et 3e échelons du grade de sous-préfet hors classe ;
+
+- trois ans pour les 4e, 5e et 6e échelons du même grade.

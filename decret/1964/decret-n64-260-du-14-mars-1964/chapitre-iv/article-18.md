@@ -1,13 +1,13 @@
 # Article 18
 
-Par application du dernier alinéa de l'article 2 de l'ordonnance du 4 février 1959 relative au statut général des fonctionnaires, il est dérogé, en ce qui concerne les sous-préfets, aux dispositions ci-après :
+En application de l'article 10 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat, les dispositions suivantes ne sont pas applicables aux sous-préfets :
 
-Articles 13 (1er alinéa, dernière phrase), 14, 15 (3ème, 4ème et 5ème alinéa), 27 (2ème phrase), 28 (3ème, 4ème et 5ème alinéa), 31, 33, 48 et 52 de l'ordonnance du 4 février 1959.
+a) Loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires : articles 8, 9, 10, 17 (1er alinéa), 18 (2e alinéa), 19 (2e et 3e alinéa), 21 (dernier alinéa) et les textes pris pour leur application ;
 
-Décret n° 59-307 du 14 février 1959 portant règlement d'administration publique relatif aux commissions administratives paritaires et aux comités techniques paritaires.
+b) Loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat : articles 14, 17, 26, 34 (7°), 37 à 40 bis, 55, la deuxième phrase de l'article 57, les articles 59 à 63, 67, 70 et les textes pris pour leur application ;
 
-Décret n° 59-308 du 14 février 1959 portant règlement d'administration publique relatif aux conditions générales de notation et d'avancement des fonctionnaires.
+c) Ordonnance n° 82-297 du 31 mars 1982 portant modification de certaines dispositions du code des pensions civiles et militaires de retraite et relative à la cessation d'activité des fonctionnaires et des agents de l'Etat et des établissements publics de l'Etat à caractère administratif ;
 
-Articles 9, 11, 12 (2ème et 3ème alinéa) et 29 du décret n° 59-309 du 14 février 1959 portant règlement d'administration publique relatif au régime particulier de certaines positions de fonctionnaires et à certaines modalités de cessation définitive de fonctions.
+d) Décret n° 85-986 du 16 septembre 1985 modifié relatif au régime particulier de certaines positions des fonctionnaires de l'Etat et à certaines modalités de cessation définitive de fonctions :
 
-Décret n° 59-311 du 14 février 1959 portant règlement d'administration publique relatif à la procédure disciplinaire concernant les fonctionnaires.
+articles 11, 14 (11°), 20, 22 (3e, 4e, 5e et 6e alinéa), 23, 27 (sauf 1er alinéa), 28 et 29, le dernier alinéa de l'article 40, les articles 49 (sauf 4e alinéa), 50, 57, 57 bis (IV, sauf la première phrase) et 61.

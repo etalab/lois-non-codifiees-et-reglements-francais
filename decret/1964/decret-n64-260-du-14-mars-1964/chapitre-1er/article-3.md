@@ -1,9 +1,7 @@
 # Article 3
 
-Les sous-préfets sont répartis en trois classes :
+Le corps des sous-préfets est classé dans la catégorie A prévue à l'article 29 de la loi du 11 janvier 1984 susvisée. Il comporte deux grades :
 
-- la hors-classe, qui comprend cinq échelons ;
+- le grade de sous-préfet, qui comprend 9 échelons ;
 
-- la 1re classe, qui comprend cinq échelons ;
-
-- la 2eme classe, qui comprend sept échelons.
+- le grade de sous-préfet hors classe, qui comprend 7 échelons.
