@@ -2,3 +2,4 @@
 
 - [Chapitre I : Dispositions applicables à l'élection des députés d'outre-mer](chapitre-i)
 - [Chapitre IV : Dispositions diverses.](chapitre-iv)
+- [Article 26](article-26.md)

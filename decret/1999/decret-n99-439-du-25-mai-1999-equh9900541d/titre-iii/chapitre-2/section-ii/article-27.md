@@ -1,0 +1,3 @@
+# Article 27
+
+Le brevet de chef de quart de navire de mer est délivré aux titulaires du diplôme d'élève officier de 1re classe de la marine marchande, ou du diplôme d'élève officier de 2e classe de la marine marchande, obtenus à l'issue de formations mentionnées à l'article 25 du présent décret, qui ont accompli une période de formation à bord de douze mois de navigation effective en qualité d'élève polyvalent postérieurement à leur entrée dans ladite formation et qui sont titulaires du certificat général d'opérateur (CGO) des stations radioélectriques dans le cadre du Système mondial de détresse et de sécurité en mer (SMDSM).

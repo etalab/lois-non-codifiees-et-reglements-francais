@@ -3,5 +3,7 @@
 - [Chapitre I : Dispositions générales](chapitre-i)
 - [Chapitre Ier bis : Listes électorales complémentaires.](chapitre-ier-bis)
 - [Chapitre II : déclarations de candidature](chapitre-ii)
+- [Chapitre III : Propagande](chapitre-iii)
 - [Chapitre IV : Opérations électorales](chapitre-iv)
 - [Chapitre V : Dispositions relatives à l'outre-mer.](chapitre-v)
+- [Article 29](article-29.md)

@@ -1,0 +1,3 @@
+# Article 18
+
+En cas d'impossibilité de faire parvenir en temps utile à des centres de vote tout ou partie des documents prévus au troisième alinéa de l'article 17, la commission électorale habilite les postes diplomatiques ou consulaires concernés à en assurer la reproduction au vu des textes qu'elle leur communique par voie télégraphique. Par dérogation aux dispositions de l'article 7, les bulletins de vote ne comportent alors que le titre de la liste et le nom du candidat tête de liste. Ils peuvent, en dépit des dispositions contraires sur ce point de l'article 12, entrer en compte dans le résultat du dépouillement.
