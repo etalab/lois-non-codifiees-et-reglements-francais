@@ -2,6 +2,7 @@
 
 - [Arrêté du 8 avril 1952](arrete-du-8-avril-1952)
 - [Arrêté du 8 octobre 1952](arrete-du-8-octobre-1952)
+- [Arrêté du 9 octobre 1952](arrete-du-9-octobre-1952)
 - [Arrêté du 11 juillet 1952](arrete-du-11-juillet-1952)
 - [Arrêté du 12 août 1952](arrete-du-12-aout-1952)
 - [Arrêté du 12 juillet 1952](arrete-du-12-juillet-1952)
