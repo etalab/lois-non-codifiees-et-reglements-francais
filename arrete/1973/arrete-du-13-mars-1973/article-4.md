@@ -2,7 +2,7 @@
 
 Pour le calcul de l'ancienneté exigée pour l'avancement d'échelon et de grade, la période pendant laquelle les intéressés ont été affectés à des fonctions à mi-temps est comptée pour la totalité de sa durée.
 
-Les agents exerçant leurs fonctions à mi-temps perçoivent 50 p. 100 du traitement, de l'indemnité de résidence et du supplément familial de traitement afférent à leur emploi, grade, classe et échelon.
+Les agents exerçant leurs fonctions à mi-temps perçoivent 50 p. 100 [*montant*] du traitement, de l'indemnité de résidence et du supplément familial de traitement afférent à leur emploi, grade, classe et échelon.
 
 Les modalités particulières de fixation des indemnités auxquelles peuvent prétendre les agents qui exercent une fonction à mi-temps sont fixées par arrêté du ministre de l'intérieur.
 
