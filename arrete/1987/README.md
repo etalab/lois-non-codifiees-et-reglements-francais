@@ -41,7 +41,6 @@
 - [Arrêté du 3 août 1987 (BUDR8703098A)](arrete-du-3-aout-1987-budr8703098a)
 - [Arrêté du 3 août 1987 (MENB8700531A)](arrete-du-3-aout-1987-menb8700531a)
 - [Arrêté du 3 avril 1987](arrete-du-3-avril-1987)
-- [Arrêté du 3 avril 1987 (AGRH8700695A)](arrete-du-3-avril-1987-agrh8700695a)
 - [Arrêté du 3 avril 1987 (AGRH8700696A)](arrete-du-3-avril-1987-agrh8700696a)
 - [Arrêté du 3 avril 1987 (EQUS8700437A)](arrete-du-3-avril-1987-equs8700437a)
 - [Arrêté du 3 décembre 1987 (ECOC8700137A)](arrete-du-3-decembre-1987-ecoc8700137a)
