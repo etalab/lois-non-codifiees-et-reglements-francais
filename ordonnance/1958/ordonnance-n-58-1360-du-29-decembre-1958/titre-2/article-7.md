@@ -1,8 +1,8 @@
 # Article 7
 
-Le Conseil Economique et Social comprend :
+Le Conseil Economique et Social comprend [*composition*] :
 
-1° Soixante-neuf représentants des salariés,
+1° Soixante-neuf [*nombre*] représentants des salariés,
 
 2° Soixante-douze représentants des entreprises, dont :
 
@@ -24,7 +24,7 @@ Vingt-cinq représentants des exploitants agricoles ;
 
 7° Dix-sept représentants des activités sociales, dont dix représentants des associations familiales, un représentant du logement, un représentant de l'épargne, cinq représentants des autres associations ;
 
-8° Huit représentants des activités économiques et sociales des départements et territoires d'outre-mer ;
+8° Neuf représentants des activités économiques et sociales des départements, des territoires et des collectivités territoriales à statut particulier d'outre-mer ;
 
 9° Deux représentants des Français établis hors de France ;
 
