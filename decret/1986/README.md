@@ -348,6 +348,7 @@
 - [Décret n°86-654 du 18 mars 1986](decret-n86-654-du-18-mars-1986)
 - [Décret du 19 novembre 1986](decret-du-19-novembre-1986)
 - [Décret n°85-1346 du 19 décembre 1985](decret-n85-1346-du-19-decembre-1985)
+- [Décret n°86-1203 du 19 novembre 1986](decret-n86-1203-du-19-novembre-1986)
 - [Décret n°86-239 du 19 février 1986](decret-n86-239-du-19-fevrier-1986)
 - [Décret n°86-660 du 19 mars 1986](decret-n86-660-du-19-mars-1986)
 - [Décret n°86-661 du 19 mars 1986](decret-n86-661-du-19-mars-1986)

@@ -1,3 +1,3 @@
 # Article 4
 
-Le directeur du personnel et des services généraux du ministère de l'économie, des finances et de la privatisation est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+A l'occasion de chaque saisine, la commission peut demander à l'organisme ou l'entreprise intéressé de s'adjoindre la compétence d'un expert choisi d'un commun accord. La rémunération des travaux d'expertise reste à la charge de l'intéressé.

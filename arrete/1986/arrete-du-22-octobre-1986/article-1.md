@@ -1,11 +1,5 @@
 # Article 1
 
-La délégation aux arts plastiques [*attributions*] définit et met en oeuvre la politique de l'Etat dans le secteur des arts plastiques, par l'incitation à la création, l'aide aux créateurs, les acquisitions et commandes et la formation, ainsi que par la diffusion auprès du public de toutes les formes de l'expression plastique, telles que la peinture, la sculpture, les arts graphiques, les métiers d'art, la photographie, la création industrielle, la mode, la publicité, les vidéogrammes.
+Pour bénéficier des subventions prévues par le II de l'article 5 du décret du 16 juin 1959 relatif au soutien financier de l'Etat à l'industrie cinématographique, l'entreprise de production doit déclarer [*obligation*] au Centre national de la cinématographie toute diffusion de l'oeuvre cinématographique par un service de communication audiovisuelle soumis à la taxe et au prélèvement institués par l'article 36, modifié de la loi n° 83-1179 du 29 décembre 1983. Pour être prise en compte, la déclaration précitée doit intervenir dans un délai de six mois à compter de la diffusion.
 
-Elle est notamment chargée :
-
-De la coordination des procédures de la commande publique ;
-
-Des questions relatives aux professions artistiques ;
-
-De la préparation et de la mise en oeuvre de la politique de formation, en liaison avec la délégation aux enseignements et aux formations, ainsi que des relations avec les établissements d'enseignement des arts plastiques.
+A titre transitoire, pour les oeuvres diffusées entre le 1er janvier 1986 et la date de publication du présent arrêté, la déclaration doit intervenir dans un délai de six mois à compter de cette publication.

@@ -1,3 +1,3 @@
 # Article 2
 
-19 600 000 actions sont cédées en Bourse de Paris par la procédure d'offre publique de vente au prix de 310 F. Les personnes physiques de nationalité française ou résidentes bénéficieront d'une action gratuite pour dix actions acquises directement de l'Etat à l'occasion de cette offre, dans la limite de cinquante actions acquises, à condition qu'elles aient été conservées au moins dix-huit mois. Lorsqu'une personne détient dans les conditions prévues ci-dessus un nombre d'actions dépassant dix titres, mais ne correspondant pas à un multiple de dix, les actions gratuites correspondant aux droits à attribution formant rompus sont vendues en Bourse et les sommes provenant de cette vente lui sont versées proportionnellement au nombre de rompus détenus.
+Le service de l'emprunt en intérêts, amortissement, impôts et frais accessoires est garanti par l'Etat.
