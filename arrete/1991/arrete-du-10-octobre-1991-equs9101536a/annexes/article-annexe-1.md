@@ -44,4 +44,4 @@ Liste des diplômes et certificats admis en dispense au diplôme national du bre
 
 - Brevet professionnel agricole ;
 
-- Les titres et diplômes de l'enseignement technologique homologués au niveau V et au-dessus dans les groupes 10, 11, 12, 29, 30, 31, 32.
+- Les titres et diplômes de l'enseignement technologique homologués au niveau V et au-dessus.

@@ -99,7 +99,7 @@ B.E.P.E.C.A.S.E.R. mention "groupe lourd"
 <p>- d'autre part, le lieu de l'épreuve de pédagogie (aire de manœuvre fermée à la circulation ou circulation).</p>
 <p>Les véhicules utilisés doivent être conformes aux normes exigées pour les épreuves du permis de conduire, à l'exception des caractéristiques techniques suivantes :</p>
 <p>- véhicule E(C) : longueur minimum de 14 m, boîte de vitesses à relais ou à étage, cabine comportant 5 places assises ;</p>
-<p>- véhicule D : longueur minimum de 10,50 mètres, ralentisseur électrique ou hydraulique.</p>
+<p>- véhicule D : longueur minimum de 10,5 mètres, ralentisseur réglementaire.</p>
 <p>(*) Les correcteurs ou examinateurs enseignants de la conduite sont choisis de préférence parmi les titulaires du B.A.F.M. ou du B.E.P.E.C.A.S.E.R. et sont désignés dans les conditions prévues à l'article 6.</p>
 </td>
 </tr>
