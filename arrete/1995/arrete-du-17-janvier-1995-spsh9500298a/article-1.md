@@ -33,3 +33,11 @@ Soins dispensés aux malades infectés par le virus de l'immuno-déficience huma
 REMUNERATION brute annuelle :
 
 Emoluments applicables aux praticiens à temps plein ou à temps partiel recrutés en début de carrière. Ces émoluments peuvent être augmentés dans la limite de ceux applicables aux praticiens parvenus au 4e échelon de la carrière, majorés, le cas échéant, de 10 %.
+
+TYPE de missions spécifiques :
+
+Activités énumérées à l'article L. 596 du code de la santé publique exercées par les établissements publics de santé fabriquant industriellement des médicaments à la date du 31 décembre 1991.
+
+REMUNERATION brute annuelle :
+
+Emoluments applicables aux pharmaciens des hôpitaux plein temps et aux pharmaciens des hôpitaux à temps partiel dans la limite de ceux applicables à l'une ou l'autre de ces catégories de personnels parvenus en fin de carrière.

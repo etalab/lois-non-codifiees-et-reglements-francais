@@ -1,0 +1,3 @@
+# Article 8
+
+Le Premier ministre, le ministre de l'éducation nationale, de la recherche et de la technologie, le ministre de l'intérieur, le ministre des affaires étrangères, le ministre de la défense, le ministre de l'équipement, des transports et du logement, la ministre de la culture et de la communication, porte-parole du Gouvernement, la ministre de la jeunesse et des sports, le secrétaire d'Etat à l'outre-mer, le secrétaire d'Etat à la coopération et à la francophonie, le secrétaire d'Etat aux anciens combattants et la secrétaire d'Etat au tourisme sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
