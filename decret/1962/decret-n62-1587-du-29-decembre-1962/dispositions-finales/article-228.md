@@ -242,7 +242,7 @@ La loi du 22 octobre 1940 relative au règlement des dépenses publiques au moye
 
 Le décret du 22 octobre 1940 relatif au règlement des dépenses publiques au moyen de traites, ainsi que les décrets n° 4060 du 21 septembre 1941, n° 46-309 du 27 février 1946, n° 48-508 du 25 mars 1948, n° 49-334 du 12 mars 1949, du 17 décembre 1949, n° 53-410 du 11 mai 1953, n° 53-867 du 21 septembre 1953 et n° 55-145 du 30 janvier 1955 qui l'ont modifié.
 
-La loi du 7 décembre 1940 approuvant une convention avec le Crédit national.
+La loi du 7 décembre 1940 approuvant une convention avec le Crédit national.(1)
 
 Les articles 5 et 6 de la loi n° 1504 du 4 avril 1941 sur la Cour des comptes et sur le contrôle des comptables publics.
 

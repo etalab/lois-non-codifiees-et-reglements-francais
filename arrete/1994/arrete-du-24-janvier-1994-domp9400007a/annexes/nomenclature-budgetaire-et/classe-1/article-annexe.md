@@ -138,9 +138,7 @@
 
 1662   Caisse d'épargne.
 
-1663   Crédit national.
-
-1664   Particuliers et entreprises non financières.
+1663   La société anonyme Natexis ou toute société qu'elle contrôle au sens de l'article 355-1 de la loi 66-537 du 24 juillet 1966 sur les sociétés commerciales. 1664   Particuliers et entreprises non financières.
 
 1666   Banque européenne d'investissement (F.E.D.).
 
