@@ -6,7 +6,7 @@ Il prend, après avis du conseil territorial, tous actes réglementaires propres
 
 Il prend, par voie de décision, toutes mesures individuelles ressortissant à ses attributions de chef de territoire.
 
-Il représente le territoire en justice et dans tous les actes de la vie civile. Il est ordonnateur du budget territorial et peut constituer des ordonnateurs délégués et des sous-ordonnateurs.
+Il représente le territoire en justice et dans tous les actes de la vie civile. L'administrateur supérieur est ordonnateur du budget du territoire. Il peut déléguer ses pouvoirs d'ordonnateur à des fonctionnaires ou à des agents exerçant des fonctions de chef de service relevant de son autorité, à l'exception du pouvoir de réquisition. "
 
 Il rend exécutoires, par arrêté, les délibérations de l'assemblée territoriale et en assure la publication officielle.
 
