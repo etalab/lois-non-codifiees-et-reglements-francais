@@ -120,7 +120,6 @@
 - [Arrêté du 23 novembre 1982](arrete-du-23-novembre-1982)
 - [Arrêté du 23 novembre 1983](arrete-du-23-novembre-1983)
 - [Arrêté du 24 août 1983](arrete-du-24-aout-1983)
-- [Arrêté du 24 décembre 1974](arrete-du-24-decembre-1974)
 - [Arrêté du 24 décembre 1982](arrete-du-24-decembre-1982)
 - [Arrêté du 24 février 1983](arrete-du-24-fevrier-1983)
 - [Arrêté du 25 août 1983](arrete-du-25-aout-1983)

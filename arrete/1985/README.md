@@ -111,7 +111,6 @@
 - [Arrêté du 15 mars 1985](arrete-du-15-mars-1985)
 - [Arrêté du 15 octobre 1985](arrete-du-15-octobre-1985)
 - [Arrêté du 15 mai 1985](arrete-du-15-mai-1985)
-- [Arrêté du 16 avril 1985](arrete-du-16-avril-1985)
 - [Arrêté du 16 décembre 1985](arrete-du-16-decembre-1985)
 - [Arrêté du 16 janvier 1985](arrete-du-16-janvier-1985)
 - [Arrêté du 16 juillet 1984](arrete-du-16-juillet-1984)

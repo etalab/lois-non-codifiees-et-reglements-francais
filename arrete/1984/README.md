@@ -150,7 +150,6 @@
 - [Arrêté du 26 novembre 1984](arrete-du-26-novembre-1984)
 - [Arrêté du 26 octobre 1984](arrete-du-26-octobre-1984)
 - [Arrêté du 26 septembre 1984](arrete-du-26-septembre-1984)
-- [Arrêté du 27 avril 1984](arrete-du-27-avril-1984)
 - [Arrêté du 27 décembre 1983](arrete-du-27-decembre-1983)
 - [Arrêté du 27 décembre 1984](arrete-du-27-decembre-1984)
 - [Arrêté du 27 février 1984](arrete-du-27-fevrier-1984)
