@@ -1,6 +1,6 @@
 # Article 2
 
-L'aide de l'Etat mentionnée au premier alinéa du II de l'article L. 322-4-8-1 du code du travail est calculée à partir du total de la rémunération brute versée par l'employeur, des cotisations d'assurance chômage et des autres charges sociales d'origine légale ou conventionnelle, sur la base d'une durée maximale de travail de trente heures hebdomadaires et d'un salaire plafonné à 120 p. 100 du salaire minimum de croissance.
+L'aide de l'Etat mentionnée au premier alinéa du II de l'article L. 322-4-8-1 du code du travail est calculée à partir du total de la rémunération brute versée par l'employeur, des cotisations d'assurance chômage et des autres charges sociales d'origine légale ou conventionnelle, compte non tenu des charges exonérées en application des dispositions contenues au troisième alinéa du II de l'article L. 322-4-8-1 du code du travail, sur la base d'une durée maximale de travail de trente heures hebdomadaires et d'un salaire plafonné à 120 p. 100 du salaire minimum de croissance.
 
 Le principe de l'aide de l'Etat est réexaminé tous les douze mois au moment de la signature de l'avenant à la convention prévue au II de l'article L. 322-4-8-1 du code du travail.
 
