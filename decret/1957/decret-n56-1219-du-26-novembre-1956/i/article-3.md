@@ -16,7 +16,7 @@ circonscription de juridiction étendue : Cancale, Dinan
 
 Quartier siège du tribunal maritime commercial : Brest
 
-circonscription de juridiction étendue : Saint-Brieux, Paimpol, Tréguier, Lannion, Morlaix, Camaret
+circonscription de juridiction étendue : Saint-Brieuc, Paimpol, Tréguier, Lannion, Morlaix, Camaret
 
 Quartier siège du tribunal maritime commercial : Lorient
 
@@ -28,7 +28,7 @@ circonscription de juridiction étendue : Noirmoutier, île d'Yeu
 
 Quartier siège du tribunal maritime commercial : La Rochelle
 
-circonscription de juridiction étendue : Les Sables-d'Olones, Marennes, Oléron.
+circonscription de juridiction étendue : Les Sables-d'Olonne, Marennes, Oléron.
 
 Quartier siège du tribunal maritime commercial : Bordeaux
 
@@ -41,3 +41,7 @@ circonscription de juridiction étendue : Port-vendres
 Quartier siège du tribunal maritime commercial : Marseille
 
 circonscription de juridiction étendue : Martigues, Toulon, Nice
+
+Quartier siège du tribunal maritime commercial : Ajaccio
+
+circonscription de juridiction étendue : Bastia
