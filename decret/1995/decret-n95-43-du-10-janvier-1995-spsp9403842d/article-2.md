@@ -1,0 +1,5 @@
+# Article 2
+
+La délivrance de médicaments prévue au premier alinéa de l'article L. 220 du code de la santé publique doit être effectuée par un pharmacien territorial dont le statut est régi par le décret du 28 août 1992 susvisé ou, à défaut, par un pharmacien non praticien, inscrit à la section D du tableau de l'ordre national des pharmaciens.
+
+Par dérogation aux dispositions de l'alinéa précédent, pour un remplacement ne dépassant pas trois mois, ou lorsque la taille de l'établissement ne justifie pas la présence d'un pharmacien à temps plein, le préfet peut, à titre exceptionnel, autoriser le médecin responsable du dispensaire antituberculeux, après avis du pharmacien inspecteur régional de santé publique, à assurer la gestion du stock des médicaments antituberculeux et à les délivrer directement. Les médicaments antituberculeux doivent être détenus dans une armoire fermée à clef située dans un lieu garantissant leur parfaite conservation, sous la responsabilité du pharmacien ou du médecin du dispensaire selon le cas.

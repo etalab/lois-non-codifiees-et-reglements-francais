@@ -144,7 +144,9 @@ Cours d'eau, canaux et plans d'eau de 2e catégorie
 
 13° Le lac de retenue du barrage du Chammet.
 
-14° La retenue hydroélectrique du Dorat (commune de Faux-la-Montagne).
+14° La retenue hydroélectrique du Dorat (commune de
+
+Faux-la-Montagne).
 
 Cours d'eau, canaux et plans d'eau de 1re catégorie
 
@@ -190,7 +192,7 @@ Cours d'eau, canaux et plans d'eau de 1re catégorie
 
 4° Le Magescq, en amont du pont situé sur le C.D. 50.
 
-5° La Doulouze ou Douze, en aval de son confluent avec l'Estampon jusqu'à son confluent avec le ruisseau dit " la Base aérienne ".
+5° La Doulouze ou Douze, en aval de son confluent avec l'Estampon jusqu'à son confluent avec le ruisseau dit " la Base aérienne.
 
 6° L'Estampon.
 
@@ -218,7 +220,9 @@ Cours d'eau, canaux et plans d'eau de 2e catégorie :
 
 2° Le Gier, en aval des usines Givet (commune d'Izieux) ;
 
-3° Le bassin réservoir de la Rive entre le barrage et la passerelle établie sur le Ban (affluent du Gier) ;
+3° Le bassin réservoir de la Rive entre le barrage et la
+
+passerelle établie sur le Ban (affluent du Gier) ;
 
 4° Le lac de retenue de Couzon sur le Couzon (affluent du Gier) depuis le mur du barrage de décantation (commune de Saint-Croix-en-Jarez) jusqu'au mur de retenue du barrage de Couzon (commune de Châteauneuf) ;
 
@@ -268,71 +272,71 @@ Tous les cours d'eau, canaux et plans d'eau non classés en 2e catégorie.
 
 Département de la Haute-Marne (52)
 
-Cours d'eau, canaux et plans d'eau de 1re catégorie :
+Cours d'eau, canaux et plans d'eau de 1re catégorie
 
-1° L'Apance, en amont du pont de la R.N. 460, à Bourbonne-les-Bains ;
+1° L'Apance, en amont du pont de la R.N. 460, à Bourbonne-les-Bains.
 
 2° Les affluents de l'Apance :
 
 a) Le ruisseau de Genrupt ;
 
-b) Le ruisseau de Clan et le ruisseau de Ferrières en aval de leur limite avec le département des Vosges ;
+b) Le ruisseau de Clan et le ruisseau de Ferrières en aval de leur limite avec le département des Vosges.
 
-3° Le Badin, à l'exception de l'étang de la Gare, à Vaux-sous-Aubigny ;
+3° Le Badin, à l'exception de l'Etang de la Gare, à Vaux-sous-Aubigny.
 
-4° La Vingeanne en amont du réservoir de Villegusien et les affluents de ce réservoir ;
+4° La Vingeanne, en amont du réservoir de Villegusien, et les affluents de ce réservoir.
 
-5° La Tille-Est ; la Tille-Ouest ; la Venelle ;
+5° La Tille-Est ; la Tille-Ouest ; la Venelle.
 
-6° L'Ource ;
+6° L'Ource.
 
-7° L'Aube ;
+7° L'Aube.
 
-8° L'Aujon ;
+8° L'Aujon.
 
-9° La Voire, en amont du pont des Granges, à Gervilliers (commune de Puellemontier) ;
+9° La Voire, en amont du pont des Granges à Gervilliers (commune de Puellemontier).
 
-10° La Laines en amont du moulin de Boulancourt (C.D. 174) ;
+10° La Laines.
 
-11° La Marne entre le pont du C.D. 9, à Rachecourt-sur-Marne et le confluent de la Suize près de Condes ;
+11° La Marne entre le pont du C.D. 9, à Râchecourt-sur-Marne, et le confluent de la Suize près de Condes.
 
 12° Les affluents de la Marne :
 
 a) La Traire ;
 
-b) Le ruisseau de Trimeule, le ruisseau du Val-Darde, le ruisseau de Moiron, le ruisseau du Pêcheux, le ruisseau Noir ;
+b) Le ruisseau de Trimeule, le ruisseau du Val Darde, le ruisseau de Moiron, le ruisseau du Pêcheux, le ruisseau Noir.
 
-13° La Mouche, à l'exception du réservoir de Saint-Ciergues ;
+13° La Mouche, à l'exception du réservoir de Saint-Ciergues.
 
-14° La Suize, la Cousance, l'Ornel, la Saulx ;
+14° La Suize, la Cousance, l'Ornel, la Saulx.
 
-15° La Blaise, à l'exception de l'étang des Leschères et du canal de Wassy, jusqu'au barrage situé au lieudit Hostellerie du Moulin, à Eclaron ;
+15° La Blaise, à l'exception de l'Etang des Leschères et du canal de Wassy, jusqu'au barrage situé au lieudit Hostellerie du Moulin, à Eclaron.
 
-16° L'Amance en amont de son confluent avec le ruisseau du Val-de-Presles ;
+16° L'Amance en amont de son confluent avec le ruisseau du Val de Presles.
 
 17° Les affluents de l'Amance :
 
 a) Le Vau ;
 
-b) Le ruisseau du Val-de-Presles ;
+b) Le ruisseau du Val de Presles ;
 
-c) La Mance en amont du pont du C.D. 103 dit Pont du Pied du Chien (commune de Hortes) ;
+c) La Mance en amont du pont du chemin départemental 103, dit Pont du Pied du Chien (commune de Hortes) ;
 
 d) Le ruisseau des Côtes ;
 
-e) Le Moulerupt ;
+e) Le Moulerupt.
 
-18° La Petite-Amance et le ruisseau du Gravier en amont de leur confluent ;
+18° La Petite Amance et le ruisseau du Gravier en amont de leur confluent.
 
-19° Les affluents de la Petite-Amance :
+19° Les affluents de la Petite Amance :
 
 a) Le ruisseau de Bouilleveau ;
 
-b) Le ruisseau de Maljoie ;
+b) Le ruisseau de Maljoie.
 
-20° Les affluents et sous-affluents des cours d'eau ou portions de cours d'eau désignés ci-dessus.
+20° Les affluents et sous-affluents des cours d'eau ou parties de cours d'eau désignés ci-dessus.
 
-Cours d'eau, canaux et plans d'eau de 2e catégorie :
+Cours d'eau, canaux et plans d'eau de 2e catégorie
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
 
@@ -416,7 +420,9 @@ c) Le Scheidgraben, affluent de la Blind ;
 
 5° Le Muhlbach de Diebolsheim, dans sa section comprise entre l'Ichert et le Brunnwasser ;
 
-6° Le Muhlbach de Daubensand et le Brunnwasser jusqu'à leur débouché dans le contre-canal de drainage à Gerstheim ;
+6° Le Muhlbach de Daubensand et le Brunnwasser jusqu'à leur
+
+débouché dans le contre-canal de drainage à Gerstheim ;
 
 7° La Zembs en amont de son passage sous le canal du Rhône au Rhin ;
 
@@ -478,7 +484,7 @@ Cours, canaux et plans d'eau de 2e catégorie :
 
 5° Les affluents de la rive droite de la Saône, autres que l'Azergues, pour la partie située en aval du pont de la voie ferrée de Lyon, à Mâcon ;
 
-6° Le Rhins, en aval de la passerelle du Vernay (passerelle amont de " chez Jacquinot " commune d'Amplepuis) ;
+6° Le Rhins, en aval de la passerelle du Vernay (passerelle amont de " chez Jacquinot commune d'Amplepuis) ;
 
 7° Le canal de Jonage ;
 
@@ -628,7 +634,9 @@ Cours d'eau, canaux et plans d'eau de 1re catégorie :
 
 10° Le Montimont ;
 
-11° Le Dadou, en amont du barrage des mines de Peyrebrune, à l'exception du lac de retenue de Rassisse, depuis la queue de la retenue de la Mouline jusqu'au barrage proprement dit, le Castelfranc et le Lézert, à l'exception de la retenue du barrage de la Bancalié, les affluents du Dadou se jetant dans le lac de retenue de Rassisse ;
+11° Le Dadou, en amont du barrage des mines de Peyrebrune, à l'exception du lac de retenue de Rassisse, depuis la queue de la retenue de la Mouline jusqu'au barrage proprement dit, le Castelfranc et le Lézert, à l'exception de la retenue du barrage de la Bancalié, les affluents du Dadou se jetant dans le lac de retenue de
+
+Rassisse ;
 
 12° Le Sor en amont du pont de la R.D. 45 (communes de Sorèze, Durfort, Revel et Garrevaques), l'Orival et le Melzic en amont du pont sur la R.D. 85, de Dourgne à Revel, le Tauroix en amont du pont de la métairie d'En-Lanet (commune de Dourgne), le Sant en amont du pont de Verdalle (R.D. 85), la Bernazobre en amont du pont du Trégas (R.D. 60) ;
 
