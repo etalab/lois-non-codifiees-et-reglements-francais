@@ -8,5 +8,4 @@
 - [TITRE III ter : Dispositions relatives aux installations soumises à agrément en application de l'article L. 541-22 du code de l'environnement](titre-iii-ter)
 - [TITRE IV : Dispositions transitoires](titre-iv)
 - [TITRE V : Dispositions diverses](titre-v)
-- [Article 40](article-40.md)
 - [Dispositions applicables aux installations soumises à autorisation](dispositions-applicables-aux)
