@@ -6,7 +6,7 @@ II - La délégation est composée de huit sénateurs désignés de façon à as
 
 Pour chaque titulaire, un suppléant est désigné dans les mêmes conditions.
 
-Au début de chaque première session ordinaire, la délégation élit son président et son vice-président, qui ne peuvent appartenir à la même assemblée.
+Au début de chaque session ordinaire, la délégation élit son président et son vice-président, qui ne peuvent appartenir à la même assemblée.
 
 III - La délégation est assistée d'un conseil scientifique composé de quinze personnalités choisies en raison de leur compétence dans les domaines des sciences et de la technologie.
 

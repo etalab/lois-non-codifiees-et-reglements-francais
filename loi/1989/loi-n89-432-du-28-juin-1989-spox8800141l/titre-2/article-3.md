@@ -4,8 +4,6 @@ Il est institué, auprès du ministre chargé des sports [*autorité compétente
 
 Cette commission est chargée [*attributions*] de proposer au ministre chargé des sports toute mesure tendant à prévenir et à combattre le dopage et à assurer entre toutes les disciplines une égalité au regard des contrôles réalisés en vertu des articles 6 et 8.
 
-Elle remet chaque année [*périodicité*], à l'ouverture de la seconde session ordinaire, au Gouvernement et au Parlement, un rapport d'évaluation des actions menées en matière de lutte contre le dopage. Ce rapport devra comprendre [*contenu*] à la fois le bilan des mesures et des sanctions prises en ce domaine par les fédérations sportives et le compte rendu d'exécution de la présente loi.
-
 Dans les conditions définies à l'article 10, la commission est saisie ou se saisit des cas d'infraction aux dispositions de la présente loi et propose, dans les conditions prévues par l'article 11, au ministre chargé des sports des sanctions administratives à l'encontre des contrevenants.
 
 La commission est obligatoirement consultée par le ministre chargé des sports sur tout projet de texte législatif ou réglementaire concernant le dopage.

@@ -1,0 +1,3 @@
+# Article 35
+
+La loi du 23 avril 1941 portant organisation générale des services de police en France, la loi n° 47-1773 du 10 septembre 1947 modifiant le régime de perception des rémunérations accessoires par les fonctionnaires de la sûreté nationale et des polices d'Etat, les articles 1er, 3 et 4 de la loi n° 48-1504 du 28 septembre 1948 relative au statut spécial des personnels de police, l'article 37 de la loi de finances pour 1957 (n° 56-1327 du 29 décembre 1956) ainsi que l'article 88 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat sont abrogés.

@@ -10,6 +10,7 @@
 - [Loi n° 82-610 du 15 juillet 1982](loi-n-82-610-du-15-juillet-1982)
 - [Loi n° 82-621 du 21 juillet 1982](loi-n-82-621-du-21-juillet-1982)
 - [Loi n° 82-652 du 29 juillet 1982](loi-n-82-652-du-29-juillet-1982)
+- [Loi n° 82-653 du 29 juillet 1982](loi-n-82-653-du-29-juillet-1982)
 - [Loi n° 82-939 du 4 novembre 1982](loi-n-82-939-du-4-novembre-1982)
 - [Loi n°82-471 du 7 juin 1982](loi-n82-471-du-7-juin-1982)
 - [Loi n°82-899 du 20 octobre 1982](loi-n82-899-du-20-octobre-1982)
