@@ -1,0 +1,3 @@
+# TITRE IV : DES TABLEAUX D'AVANCEMENT DE GRADE.
+
+- [Article 18](article-18.md)
