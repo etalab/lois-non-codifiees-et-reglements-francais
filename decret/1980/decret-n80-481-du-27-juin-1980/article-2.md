@@ -1,6 +1,6 @@
 # Article 2
 
-I. - Bénéficient de l'exonération prévue au troisième alinéa de l'article 1031 du code rural pour la période allant du 1er juillet au 30 juin de l'année suivante [*condition*] :
+I. - Bénéficient de l'exonération prévue au troisième alinéa de l'article 1031 du code rural pour la période allant du 1er janvier au 31 décembre d'une année [*condition*] :
 
 1. Les personnes appartenant à un foyer fiscal dont les ressources au titre de l'avant-dernière année civile précédant le début de la période de douze mois définie ci-dessus donnent lieu, en raison de leur montant, soit à exonération de l'impôt sur le revenu, soit à exemption du paiement de cet impôt en application de l'article 1657-1 bis du code général des impôts ;
 
