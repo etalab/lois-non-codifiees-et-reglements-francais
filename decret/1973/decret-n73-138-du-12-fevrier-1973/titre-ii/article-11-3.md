@@ -1,0 +1,3 @@
+# Article 11-3
+
+Les constituants dont l'évaluation toxicologique a été réalisée par un organisme scientifique sont également considérés comme autorisés et entrent dans les catégories mentionnées au 1, au 2 et au 4 du II de l'article 11 du présent décret, lorsque leur nature et leurs conditions d'utilisation dans des produits destinés au nettoyage des matériaux et des objets entrant au contact d'aliments, y compris à la désinfection, sont considérées comme licites par l'un des Etats membres de l'Union européenne ou parties contractantes de l'accord instituant l'Espace économique européen, et font l'objet d'une publication officielle accessible à tout opérateur économique.

@@ -1,3 +1,3 @@
 # Article 1
 
-La rémunération prévue à l'article R. 442-4 du code de la sécurité sociale est fixée à 175 F par enquête effectuée.
+La rémunération prévue à l'article R. 442-4 du code de la sécurité sociale est fixée à 177 F par enquête effectuée à compter du 1er juillet 1998.

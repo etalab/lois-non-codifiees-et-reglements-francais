@@ -1,13 +1,3 @@
 # Article 2
 
-Les affections suivantes peuvent donner droit à un congé de longue maladie dans les conditions prévues aux articles 29 et 30 des décrets susvisés :
-
-- tuberculose ;
-
-- maladies mentales ;
-
-- affections cancéreuses ;
-
-- poliomyélite antérieure aiguë ;
-
-- déficit immunitaire grave et acquis.
+Le deuxième seuil visé au cinquième alinéa de l'article 314 bis du code des marchés publics est fixé à 1.300.000 F.

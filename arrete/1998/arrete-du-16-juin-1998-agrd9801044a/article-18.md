@@ -1,0 +1,5 @@
+# Article 18
+
+Afin de ne pas réduire la surface du privilège prévu à l'article 23 bis du décret du 23 novembre 1937 susvisé, les coopératives agréées ne peuvent pas consentir un nantissement sur la totalité ou une partie des céréales financées avec aval de l'Office national interprofessionnel des céréales sans autorisation expresse de celui-ci. Les négociants agréés doivent, en outre, obtenir l'autorisation des sociétés de caution mutuelle dont ils sont adhérents.
+
+Sauf dérogation exceptionnelle, dans le cas où, après autorisation, un nantissement est constitué sur une partie du stock de céréales au profit d'un tiers en garantie d'un financement hors aval, le collecteur agréé doit constituer le même nantissement au profit de l'Office national interprofessionnel des céréales et, le cas échéant, de la société de caution mutuelle dont il est adhérent, sur la partie du stock de céréales faisant l'objet du financement avalisé. Le collecteur agréé doit également séparer physiquement, dans des lieux de stockage distincts, les céréales relevant de chacun des créanciers nantis.
