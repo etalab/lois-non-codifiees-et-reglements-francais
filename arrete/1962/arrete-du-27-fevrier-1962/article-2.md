@@ -2,39 +2,56 @@
 
 L'indemnité forfaitaire pour travaux supplémentaires prévue à l'article précédent peut être versée aux secrétaires de mairie à temps complet des communes de moins de 2.000 habitants dans les limites fixées ci-après :
 
-------------------------------------------------------------- :  COMMUNES DE MOINS DE 2.000 HABITANTS    :  TAUX MAXIMUM  :
-
 <table>
 <tr>
-<td> :                                          :     annuel.    :</td>
+<td> :=============================================:================:</td>
 </tr>
 <tr>
-<td> :------------------------------------------:----------------:</td>
+<td> :  COMMUNES DE MOINS DE 2.000 HABITANTS       : TAUX MAXIMUM   :</td>
 </tr>
 <tr>
-<td> :                                          :     Francs.    :</td>
+<td> :                                             :    annuel.     :</td>
 </tr>
 <tr>
-<td> : Où l'emploi de secrétaire de mairie      :                :</td>
+<td> :---------------------------------------------:----------------:</td>
 </tr>
 <tr>
-<td> :  est doté de l'échelle indiciaire        :                :</td>
+<td> :                                             :     Francs.    :</td>
 </tr>
 <tr>
-<td> :  applicable dans les communes de 2.000   :                :</td>
+<td> : Où l'emploi de secrétaire de mairie est     :                :</td>
 </tr>
 <tr>
-<td> :  à 5.000 habitants (1)                   :     2.436      :</td>
+<td> :   doté de l'échelle indiciaire applicable   :                :</td>
 </tr>
 <tr>
-<td> : Où l'emploi de secrétaire de mairie      :                :</td>
+<td> :   dans les communes de 2.000 à 5.000        :                :</td>
 </tr>
 <tr>
-<td> :  est doté de l'échelle indiciaire        :                :</td>
+<td> :   habitants (1)                             :      3.167     :</td>
 </tr>
 <tr>
-<td> :  brute 267/453 (1)                       :     2.265      :</td>
+<td> : Où l'emploi de secrétaire de mairie est     :                :</td>
+</tr>
+<tr>
+<td> :   doté de l'échelle indiciaire brute        :                :</td>
+</tr>
+<tr>
+<td> :   267/453 (1)                               :      2.945     :</td>
+</tr>
+<tr>
+<td> :---------------------------------------------:----------------:</td>
+</tr>
+<tr>
+<td> :  (1) Indemnité réservée aux secrétaires de mairie parvenus à :</td>
+</tr>
+<tr>
+<td> : un échelon doté d'un indice de traitement supérieur à        :</td>
+</tr>
+<tr>
+<td> : l'indice brut 390.                                           :</td>
+</tr>
+<tr>
+<td> :==============================================================:</td>
 </tr>
 </table>
-
--------------------------------------------------------------    (1) Indemnité réservée aux secrétaires de mairie parvenus à un échelon doté d'un indice de traitement supérieur à l'indice 390 brut.
