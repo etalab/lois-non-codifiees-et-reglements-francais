@@ -4,15 +4,15 @@ La délégation de pouvoirs prévue à l'article 10 du décret du 14 février 19
 
 I. - Dans les armées :
 
-1. Commandant d'armée ;
-
-Commandant de corps d'armée ;
-
-Commandant en chef des forces françaises en Allemagne ;
+1. Commandant de corps d'armée ;
 
 Commandant de la force d'action rapide ;
 
-Commandant des écoles de l'armée de terre ;
+Commandant des forces françaises stationnées en Allemagne ;
+
+Commandant des organismes de formation de l'armée de terre ;
+
+Commandant de la doctrine et de l'entraînement ;
 
 Commandant de circonscription militaire de défense ;
 
