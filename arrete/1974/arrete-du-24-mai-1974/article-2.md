@@ -10,7 +10,7 @@ Le directeur du budget au ministère de l'économie et des finances ou son repr�
 
 Le directeur des affaires juridiques au ministère des armées ou son représentant ;
 
-Un médecin des armées désigné par le ministre des armées ;
+Deux médecins des armées, dont un au moins en activité de service, désignés par le ministre des armées ;
 
 Un membre du Conseil supérieur de la fonction militaire affilié au fonds de prévoyance de l'aéronautique, désigné par le ministre chargé des armées.
 
