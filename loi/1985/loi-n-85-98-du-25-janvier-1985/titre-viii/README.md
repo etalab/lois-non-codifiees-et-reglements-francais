@@ -6,6 +6,7 @@
 - [Article 226](article-226.md)
 - [Article 228](article-228.md)
 - [Article 233](article-233.md)
+- [Article 234-1](article-234-1.md)
 - [Article 237](article-237.md)
 - [Article 238](article-238.md)
 - [Article 239](article-239.md)

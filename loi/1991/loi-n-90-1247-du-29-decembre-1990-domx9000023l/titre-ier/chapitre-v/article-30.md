@@ -1,0 +1,3 @@
+# Article 30
+
+Le conseil d'administration vote le budget et approuve les comptes des établissements publics à caractère administratif du territoire. Ces établissements sont soumis aux dispositions de l'article 58 de la loi n° 88-1028 du 9 novembre 1988 précitée. Sans préjudice des dispositions des statuts prévoyant leur approbation, les actes des établissements sont exécutoires dès qu'il a été procédé à leur publication ou à leur notification aux intéressés ainsi qu'à leur transmission au haut-commissaire qui veille à la légalité de ces actes dans les conditions prévues à l'article 69 de la loi n° 88-1028 du 9 novembre 1988 précitée.
