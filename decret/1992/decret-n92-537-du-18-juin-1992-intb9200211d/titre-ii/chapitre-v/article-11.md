@@ -1,13 +1,11 @@
 # Article 11
 
-Pour l'application du dernier alinéa de l'article 7 du décret n° 91-839 du 2 septembre 1991 susvisé, les jurys comprennent, outre le président, douze membres ainsi répartis :
+Pour l'application du dernier alinéa de l'article 7 du décret n° 91-839 du 2 septembre 1991 modifié portant statut particulier du cadre d'emplois des conservateurs territoriaux du patrimoine, le jury est commun avec celui du concours d'accès au corps des conservateurs du patrimoine de l'Etat. Il comprend douze membres, dont le président, répartis de la façon suivante :
 
-trois membres du corps des conservateurs du patrimoine ou du corps des conservateurs généraux du patrimoine ;
+- quatre membres choisis parmi les corps des conservateurs ou des conservateurs généraux du patrimoine ou du corps des conservateurs généraux du patrimoine de la ville de Paris ou du cadre d'emplois des conservateurs territoriaux du patrimoine ;
 
-trois membres du cadre d'emplois des conservateurs territoriaux du patrimoine, dont un au moins titulaire du grade le plus élevé dans ce cadre d'emplois ;
+- quatre personnalités scientifiques et universitaires ;
 
-deux personnalités qualifiées ;
+- quatre personnalités qualifiées, dont deux élus locaux.
 
-deux professeurs d'université ;
-
-deux élus locaux.
+Les modalités de fonctionnement du jury sont celles qui sont fixées pour les concours d'accès au corps des conservateurs du patrimoine.

@@ -2,60 +2,40 @@
 
 Le concours externe de recrutement des conservateurs territoriaux du patrimoine comprend les épreuves d'admissibilité et d'admission suivantes, notées de 0 à 20 :
 
-I. - Concours externe visé au 1° de l'article 7 du décret n° 91-839 du 2 septembre 1991 susvisé pour les spécialités Archéologie, Inventaire, Musées :
+I. - Concours externe mentionné au 1° de l'article 7 du décret du 2 septembre 1991 susvisé pour les spécialités archéologie, inventaire, musées et patrimoine scientifique, technique et naturel :
 
 a) Epreuves écrites d'admissibilité :
 
-1° Une dissertation sur un sujet portant, au choix du candidat, soit sur l'histoire européenne, soit sur l'histoire de l'art européen, soit sur l'archéologie préhistorique et historique européenne, soit sur l'ethnologie européenne (durée : cinq heures ; coefficient 3) ;
+1° Une dissertation générale sur un sujet portant, au choix du candidat, soit sur l'histoire européenne, soit sur l'histoire de l'art européen, soit sur l'archéologie préhistorique et historique européenne, soit sur l'ethnologie, soit sur les sciences de la nature (durée : cinq heures ; coefficient 2) ;
 
-2° Une note de commentaires et de synthèse portant sur un sujet d'histoire des civilisations européennes choisi en veillant à l'équilibre entre les différentes spécialités de la conservation, faite à partir d'un dossier pouvant notamment comprendre des textes, des photographies d'objets, de monuments ou de sites, des relevés et des plans (durée : cinq heures ; coefficient 3) ;
+2° Une épreuve spécialisée d'analyse et de commentaire de plusieurs documents se rapportant à une option choisie par le candidat lors de son inscription au concours sur une liste fixée par arrêté (durée : cinq heures ; coefficient 3) ;
 
-3° Une dissertation portant sur une option choisie par le candidat, au moment de son inscription, figurant sur une liste fixée par arrêté conjoint du ministre chargé des collectivités locales et du ministre chargé de la culture (durée : cinq heures ; coefficient 4).
-
-b) Epreuves orales d'admission :
-
-Seuls peuvent être admis à se présenter aux épreuves orales d'admission les candidats ayant obtenu pour chacune des épreuves écrites une note au moins égale à 5 sur 20 et pour l'ensemble des épreuves écrites un total de points fixé par le jury qui ne peut en aucun cas être inférieur à 100.
-
-1° Une interrogation portant sur une ou plusieurs des spécialités de la conservation du patrimoine et sur l'une des options figurant sur une liste fixée par arrêté conjoint du ministre chargé des collectivités locales et du ministre chargé de la culture, choisies par le candidat lors de son inscription au concours.
-
-L'épreuve consiste à analyser et à commenter quatre documents (authentiques ou reproduits) se rapportant à l'option choisie.
-
-Le candidat répondra aussi à des questions portant sur l'option choisie par lui et sur chacune des spécialités qu'il aura retenues (préparation : dix minutes par document à commenter ; commentaire :
-
-vingt minutes ; entretien : vingt minutes ; coefficient 5). "
-
-2° Une conversation avec le jury débutant par le commentaire d'un texte récent à caractère culturel (préparation : trente minutes ; commentaire : dix minutes ; entretien : vingt minutes ; coefficient 3).
-
-3° Une épreuve orale de langue vivante comportant la traduction d'un texte suivie d'une conversation ; la liste des langues étrangères qui peuvent être choisies par les candidats est fixée par arrêté conjoint du ministre chargé des collectivités locales et du ministre chargé de la culture (préparation : trente minutes ; traduction : dix minutes ; conversation : vingt minutes ; coefficient 1).
-
-4° Une deuxième épreuve orale de langue vivante ou ancienne comportant la traduction d'un texte suivie, le cas échéant, d'une conversation ; les candidats peuvent choisir l'une des langues figurant sur la liste fixée par arrêté conjoint du ministre chargé des collectivités locales et du ministre chargé de la culture pour l'épreuve prévue au 3° ci-dessus et qu'ils n'ont pas choisie à la troisième épreuve d'admission (préparation : trente minutes ; traduction : dix minutes ; conversation : vingt minutes ; coefficient 1).
-
-II. - Concours externe visé au 2° de l'article 7 du décret n° 91-839 du 2 septembre 1991 :
-
-Epreuve unique d'admission :
-
-Une conversation avec le jury débutant par le commentaire d'un texte récent à caractère culturel (préparation : trente minutes ; commentaire : dix minutes ; entretien : vingt minutes).
-
-Lorsque le candidat présente également les épreuves du concours d'accès au cadre d'emplois des conservateurs du patrimoine au titre des autres spécialités, il ne passe qu'une épreuve de conversation, la note obtenue étant valable pour les deux concours.
-
-III. - Pour la spécialité Patrimoine scientifique, technique et naturel, le concours externe de recrutement des conservateurs territoriaux du patrimoine comprend les épreuves d'admissibilité et d'admission suivantes, notées de 0 à 20 :
-
-a) Epreuves écrites d'admissibilité :
-
-1° Une dissertation sur un sujet portant, au choix du candidat, sur l'analyse de problèmes contemporains relatifs aux sciences de la nature et de l'homme, ou aux techniques (durée : cinq heures ; coefficient 3) ;
-
-2° Une note de commentaire et de synthèse portant, au choix du candidat, sur un sujet contemporain ou historique (depuis le xviiie siècle) choisi dans les domaines des sciences de la nature ou des techniques industrielles ou agricoles, et établie à partir d'un dossier pouvant notamment comporter des textes en langue française, des photographies, des dessins et d'autres documents (durée : cinq heures ; coefficient 3) ;
-
-3° Une dissertation portant sur une option choisie par le candidat au moment de son inscription sur une liste fixée par arrêté conjoint du ministre chargé des collectivités locales et du ministre chargé de l'enseignement supérieur (durée : cinq heures ; coefficient 4).
+3° Une épreuve de langue ancienne ou de langue vivante étrangère choisie par le candidat lors de l'inscription sur une liste fixée par arrêté et consistant en la traduction, sans dictionnaire pour les langues vivantes, d'un texte, suivie, dans le cas des langues vivantes étrangères, d'une ou plusieurs questions se rapportant au texte (durée : trois heures ; coefficient 1) ;
 
 b) Epreuves orales d'admission :
 
-Seuls peuvent être admis à se présenter aux épreuves orales d'admission les candidats ayant obtenu pour chacune des épreuves écrites une note au moins égale à 5 sur 20 et pour l'ensemble des épreuves écrites un total de points fixé par le jury qui ne peut en aucun cas être inférieur à 100.
+Seuls peuvent être admis à se présenter aux épreuves orales d'admission les candidats ayant obtenu pour chacune des épreuves écrites une note au moins égale à 5 sur 20 et, pour l'ensemble des épreuves écrites, un total de points fixé par le jury qui ne peut en aucun cas être inférieur à 60.
 
-1° Une interrogation portant, au choix du candidat au moment de son inscription, sur l'une des options figurant sur une liste fixée par arrêté conjoint du ministre chargé des collectivités locales et du ministre chargé de l'enseignement supérieur.
+1° Un entretien avec le jury, dans un premier temps, à partir d'un dossier proposé par le jury en fonction de l'option du candidat et, dans un deuxième temps, permettant d'apprécier les motivations et les aptitudes du candidat par rapport à la (ou aux) spécialité(s) présentée(s).
 
-L'épreuve consiste à analyser et à commenter un document se rapportant à l'option choisie, puis à répondre à des questions sur ce sujet (préparation : vingt minutes ; analyse et commentaire : dix minutes ; entretien : dix minutes ; coefficient 5) ;
+Le dossier comporte au moins quatre documents (images, textes, graphiques...). L'option est la même que celle choisie par le candidat pour la deuxième épreuve d'admissibilité. Cette épreuve est notée sur 10 pour la première partie et sur 10 pour la deuxième (préparation : une heure ; durée : une heure ; coefficient 4).
 
-2° Une conversation avec le jury débutant par le commentaire d'un texte récent de diffusion des connaissances scientifiques et techniques (préparation : trente minutes ; commentaire : dix minutes ; entretien : vingt minutes ; coefficient 3) ;
+2° Une épreuve de langue vivante étrangère choisie lors de l'inscription, le cas échéant, autre que celle présentée à l'admissibilité, et figurant sur une liste fixée par arrêté. L'épreuve consiste en une conversation dans la langue choisie à partir d'un texte. L'usage d'un dictionnaire n'est pas admis (préparation : trente minutes ; durée : trente minutes ; coefficient 1).
 
-3° Une épreuve orale de langue vivante étrangère comportant la traduction d'un texte scientifique ou technique, soit historique (depuis le xviiie siècle), soit contemporain, suivie d'une discussion en anglais, allemand, italien ou espagnol, au choix du candidat lors de l'inscription (préparation : trente minutes ; traduction : dix minutes ; conversation : vingt minutes ; coefficient 1).
+II. - Concours externe mentionné au 2° de l'article 7 du décret du 2 septembre 1991 susvisé :
+
+Epreuves d'admission :
+
+Ces épreuves sont notées de 0 à 20.
+
+1° Un entretien avec le jury, dans un premier temps, à partir d'un dossier proposé par le jury en fonction de la spécialité archives et, dans un deuxième temps, permettant d'apprécier les motivations et les aptitudes du candidat.
+
+Le dossier comporte au moins quatre documents (images, textes, graphiques...). Cette épreuve est notée sur 10 pour la première partie et sur 10 pour la deuxième (préparation : une heure ; durée :
+
+une heure ; coefficient 4).
+
+2° Une épreuve de langue vivante étrangère choisie lors de l'inscription et figurant sur une liste fixée par arrêté. L'épreuve consiste en une conversation dans la langue choisie à partir d'un texte. L'usage d'un dictionnaire n'est pas admis (préparation :
+
+trente minutes ; durée : trente minutes ; coefficient 1).
+
+Lorsque le candidat présente également les épreuves du concours d'accès au cadre d'emplois des conservateurs du patrimoine au titre d'une autre spécialité, la note obtenue pour l'épreuve de langue vivante étrangère est valable pour les deux concours ; en revanche, la note obtenue pour la première épreuve d'admission n'est pas valable au titre d'une autre spécialité.

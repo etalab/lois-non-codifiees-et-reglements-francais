@@ -1,29 +1,21 @@
 # Article 7
 
-Pour les spécialités Archéologie, Archives, Inventaire, Musée, le concours interne de recrutement des conservateurs territoriaux du patrimoine comprend les épreuves d'admissibilité et d'admission suivantes notées de 0 à 20.
+Pour les spécialités archéologie, archives, inventaire, musées, patrimoine scientifique, technique et naturel, le concours interne de recrutement des conservateurs territoriaux du patrimoine comprend les épreuves d'admissibilité et d'admission suivantes notées de 0 à 20 :
 
 a) Epreuves écrites d'admissibilité :
 
-1° Une note de commentaires et de synthèse portant sur un sujet d'histoire des civilisations européennes choisi en veillant à l'équilibre entre les différentes spécialités de la conservation, faite à partir d'un dossier pouvant notamment comprendre des textes, des photographies d'objets, de monuments ou de sites, des relevés et des plans (durée : cinq heures ; coefficient 5) ;
+1° Une épreuve sur dossier permettant de valoriser l'expérience professionnelle du candidat (durée : quatre heures ; coefficient 2) ;
 
-2° Une dissertation portant sur une option choisie par le candidat, au moment de son inscription, figurant sur une liste fixée par arrêté conjoint du ministre chargé des collectivités locales et du ministre chargé de la culture (durée : cinq heures ; coefficient 5).
+2° Une épreuve spécialisée d'analyse et de commentaire de plusieurs documents se rapportant à une option choisie par le candidat lors de son inscription au concours sur une liste fixée par arrêté (durée : cinq heures ; coefficient 3) ;
+
+3° Une épreuve de langue ancienne ou de langue vivante étrangère choisie par le candidat lors de l'inscription sur une liste fixée par arrêté et consistant en la traduction, sans dictionnaire pour les langues vivantes, d'un texte, suivie, dans le cas des langues vivantes étrangères, d'une ou plusieurs questions se rapportant au texte (durée : trois heures ; coefficient 1) ;
 
 b) Epreuves orales d'admission :
 
-Seuls peuvent être admis à se présenter aux épreuves orales d'admission les candidats ayant obtenu pour chacune des épreuves écrites une note au moins égale à 5 sur 20 et pour l'ensemble des épreuves écrites un total de points fixé par le jury qui ne peut en aucun cas être inférieur à 100.
+Seuls peuvent être admis à se présenter aux épreuves orales d'admission les candidats ayant obtenu pour chacune des épreuves écrites une note au moins égale à 5 sur 20 et, pour l'ensemble des épreuves écrites, un total de points fixé par le jury qui ne peut en aucun cas être inférieur à 60.
 
-1° Une interrogation portant sur une ou plusieurs des spécialités de la conservation du patrimoine et sur l'une des options figurant sur une liste fixée par arrêté conjoint du ministre chargé des collectivités locales et du ministre chargé de la culture, choisies par le candidat lors de son inscription au concours.
+1° Un entretien avec le jury, dans un premier temps, à partir d'un dossier proposé par le jury en fonction de l'option du candidat et, dans un deuxième temps, permettant d'apprécier les motivations et les aptitudes du candidat par rapport à la (ou aux) spécialité(s) présentée(s).
 
-L'épreuve consiste à analyser et à commenter quatre documents (authentiques ou reproduits) se rapportant à l'option choisie.
+Le dossier comporte au moins quatre documents (images, textes, graphiques...). L'option est la même que celle choisie par le candidat pour la deuxième épreuve d'admissibilité. Cette épreuve est notée sur 10 pour la première partie et sur 10 pour la deuxième (préparation : une heure ; durée : une heure ; coefficient 4).
 
-Le candidat répondra aussi à des questions portant sur l'option choisie par lui et sur chacune des spécialités qu'il aura retenues (préparation : dix minutes par document à commenter ; commentaire :
-
-vingt minutes ; entretien : vingt minutes ; coefficient 5).
-
-L'épreuve consiste à analyser et à commenter deux documents (authentiques ou reproduits) de type général se rapportant à l'option choisie, puis un document spécifique (authentique ou reproduit) pour chacune des spécialités retenues par le candidat, enfin à répondre à des questions portant sur l'option choisie par lui dans chacune des spécialités retenues (préparation : dix minutes par document à commenter ; analyse et commentaire : cinq minutes par document ; entretien : cinq minutes par document ; coefficient 5) ; ".
-
-2° Une conversation avec le jury débutant par le commentaire d'un texte récent à caractère culturel (préparation : trente minutes ; commentaire : dix minutes ; entretien : vingt minutes ; coefficient 3).
-
-3° Une épreuve orale de langue vivante comportant la traduction d'un texte suivie d'une conversation ; la liste des langues étrangères qui peuvent être choisies par les candidats est fixée par arrêté conjoint du ministre chargé des collectivités locales et du ministre chargé de la culture (préparation : trente minutes ; traduction : dix minutes ; conversation : vingt minutes ; coefficient 1).
-
-4° Une deuxième épreuve orale de langue vivante ou ancienne comportant la traduction d'un texte suivie, le cas échéant, d'une conversation ; les candidats peuvent choisir l'une des langues figurant sur la liste fixée par arrêté conjoint du ministre chargé des collectivités locales et du ministre chargé de la culture pour l'épreuve prévue au 3° ci-dessus et qu'ils n'ont pas choisie à la troisième épreuve d'admission (préparation : trente minutes ; traduction : dix minutes ; conversation : vingt minutes ; coefficient 1).
+2° Une épreuve de langue vivante étrangère choisie lors de l'instruction, le cas échéant, autre que celle présentée à l'admissibilité, et figurant sur une liste fixée par arrêté. L'épreuve consiste en une conversation dans la langue choisie à partir d'un texte. L'usage d'un dictionnaire n'est pas admis (préparation : trente minutes ; durée : trente minutes ; coefficient 1).
