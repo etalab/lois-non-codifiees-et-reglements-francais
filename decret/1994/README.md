@@ -1,6 +1,7 @@
 # 1994
 
 - [Décret n°94-109 du 1 février 1994 (DEFP9302143D)](decret-n94-109-du-1-fevrier-1994-defp9302143d)
+- [Décret n°94-113 du 1 février 1994 (MAEJ9430002D)](decret-n94-113-du-1-fevrier-1994-maej9430002d)
 - [Décret n°94-94 du 2 février 1994 (EQUB9301951D)](decret-n94-94-du-2-fevrier-1994-equb9301951d)
 - [Décret n°94-95 du 2 février 1994 (EQUB9400021D)](decret-n94-95-du-2-fevrier-1994-equb9400021d)
 - [Décret n°91-1228 du 3 décembre 1991 (MENT9102026D)](decret-n91-1228-du-3-decembre-1991-ment9102026d)

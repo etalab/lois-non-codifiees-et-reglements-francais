@@ -16,6 +16,7 @@
 - [Loi n° 94-105 du 5 février 1994 (MAEX9300135L)](loi-n-94-105-du-5-fevrier-1994-maex9300135l)
 - [Loi n° 94-106 du 5 février 1994 (MAEX9300186L)](loi-n-94-106-du-5-fevrier-1994-maex9300186l)
 - [Loi n° 94-107 du 5 février 1994 (MAEX9300216L)](loi-n-94-107-du-5-fevrier-1994-maex9300216l)
+- [Loi n° 94-112 du 9 février 1994 (EQUX9300099L)](loi-n-94-112-du-9-fevrier-1994-equx9300099l)
 - [Loi n° 94-43 du 18 janvier 1994 (SPSX9300136L)](loi-n-94-43-du-18-janvier-1994-spsx9300136l)
 - [Loi n° 94-44 du 18 janvier 1994 (INTX9300132L)](loi-n-94-44-du-18-janvier-1994-intx9300132l)
 - [Loi n° 94-66 du 24 janvier 1994 (BUDX9300095L)](loi-n-94-66-du-24-janvier-1994-budx9300095l)
