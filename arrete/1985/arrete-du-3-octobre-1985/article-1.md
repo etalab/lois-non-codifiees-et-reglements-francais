@@ -1,9 +1,23 @@
 # Article 1
 
-La direction générale de l'administration comprend outre la cabinet du directeur général chargé des affaires réservées et de la coordination des services [*composition*] :
+L'échelonnement indiciaire applicable aux emplois de directeur régional du commerce extérieur et d'attaché régional du commerce extérieur est fixé ainsi qu'il suit :
 
-La direction de l'administration territoriale et des affaires politiques ;
+Directeur régional de 2e classe :
 
-La direction de la défense et de la sécurité civiles ;
+3e échelon : indice brut 1 015 ;
 
-La direction des personnels, de la formation et de l'action sociale ;
+2e échelon : indice brut 966 ;
+
+1er échelon : indice brut 901.
+
+Attaché régional :
+
+5e échelon : indice brut 852 ;
+
+4e échelon : indice brut 801 ;
+
+3e échelon : indice brut 750 ;
+
+2e échelon : indice brut 691 ;
+
+1er échelon : indice brut 642.

@@ -1,3 +1,3 @@
 # Article 3
 
-Les douches sont installées dans des cabines individuelles.
+Le présent arrêté sera publié au Journal officiel de la République française.

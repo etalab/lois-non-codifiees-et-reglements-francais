@@ -271,6 +271,7 @@
 - [Décret n°85-1049 du 26 septembre 1985](decret-n85-1049-du-26-septembre-1985)
 - [Décret n°85-1050 du 26 septembre 1985](decret-n85-1050-du-26-septembre-1985)
 - [Décret n°85-1052 du 26 septembre 1985](decret-n85-1052-du-26-septembre-1985)
+- [Décret n°85-1068 du 26 septembre 1985](decret-n85-1068-du-26-septembre-1985)
 - [Décret n°85-273 du 26 février 1985](decret-n85-273-du-26-fevrier-1985)
 - [Décret n°85-274 du 26 février 1985](decret-n85-274-du-26-fevrier-1985)
 - [Décret n°85-366 du 26 mars 1985](decret-n85-366-du-26-mars-1985)
