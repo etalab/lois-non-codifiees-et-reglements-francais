@@ -12,6 +12,8 @@ L'introduction ou l'importation sur le territoire français, l'exportation ou l'
 
 - de la rate des ovins et caprins ;
 
+- de l'iléon des ovins et caprins abattus à compter du 1er octobre 2003 ;
+
 - des intestins, du duodénum au rectum, y compris le mésentère, de la rate, du thymus et des amygdales des bovins ;
 
 - de tout ou partie de la tête, y compris l'encéphale, les yeux et les amygdales, mais à l'exclusion de la langue et des masséters, d'ovins et de caprins nés ou élevés au Royaume-Uni ;
@@ -20,7 +22,9 @@ L'introduction ou l'importation sur le territoire français, l'exportation ou l'
 
 - de graisses animales fondues issues pour tout ou partie de la fonte d'os de ruminants ou préparées à partir de tissus adipeux de ruminants collectés après la fente de la colonne vertébrale ;
 
-- de gélatine issue pour tout ou partie d'os de ruminants ;
+- de gélatine issue pour tout ou partie d'os obtenus à partir de ruminants nés, élevés et abattus dans des pays ou régions de catégorie 4 ;
+
+- de gélatine issue pour tout ou partie d'os obtenus à partir de ruminants nés, élevés et abattus dans des pays ou régions de catégorie 2 ou 3 et n'ayant pas subi de traitement de type alcalin ;
 
 - de la colonne vertébrale, à l'exclusion des vertèbres caudales, des apophyses transverses des vertèbres lombaires et thoraciques et des ailes du sacrum, mais y compris les ganglions rachidiens, des bovins âgés de douze mois et plus,
 

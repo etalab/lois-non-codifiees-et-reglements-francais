@@ -1,0 +1,7 @@
+# Article 1
+
+L'examen professionnel prévu à l'article 2 du décret du 26 mars 2004 susvisé pour l'accès d'agents non titulaires au corps des secrétaires d'administration scolaire et universitaire du ministère de l'éducation nationale, au corps des techniciens de recherche et de formation du ministère de l'éducation nationale et au corps des infirmières et infirmiers du ministère de l'éducation nationale comporte une épreuve orale, d'une durée de vingt minutes, qui consiste en un exposé présenté par le candidat (ou la candidate), d'une durée de cinq minutes, portant sur son expérience professionnelle et les fonctions qu'il (elle) a exercées en qualité d'agent non titulaire.
+
+Cet exposé est suivi d'un entretien avec le jury, dont l'objet est d'apprécier la capacité de l'intéressé(e) à se situer dans un environnement professionnel et son aptitude à s'adapter aux fonctions qui peuvent être confiées aux fonctionnaires du corps postulé.
+
+Cet entretien comporte notamment des questions portant sur les connaissances professionnelles du candidat (ou de la candidate) ainsi que sur les règles applicables à la fonction publique de l'Etat et sur l'organisation et les missions des services centraux et déconcentrés et des établissements publics du ministère chargé de la jeunesse, de l'éducation nationale et de l'enseignement supérieur ou des services centraux et déconcentrés et des établissements publics du ministère chargé des sports pour les candidats en fonctions dans les services qui en relèvent.
