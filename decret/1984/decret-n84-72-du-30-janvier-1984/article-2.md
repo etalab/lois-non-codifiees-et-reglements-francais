@@ -43,3 +43,5 @@ f) Des représentants :
 - du ministre chargé des droits des femmes ;
 
 - du ministre chargé de l'intégration.
+
+- du ministre chargé de la coopération.
