@@ -512,7 +512,6 @@
 - [Arrêté du 22 septembre 1989 (ECOC8900113A)](arrete-du-22-septembre-1989-ecoc8900113a)
 - [Arrêté du 22 septembre 1989 (EQUP8901066A)](arrete-du-22-septembre-1989-equp8901066a)
 - [Arrêté du 22 septembre 1989 (MENP8902050A)](arrete-du-22-septembre-1989-menp8902050a)
-- [Arrêté du 22 septembre 1989 (SPSA8902024A)](arrete-du-22-septembre-1989-spsa8902024a)
 - [Arrêté du 22 mai 1989 (EQUS8900498A)](arrete-du-22-mai-1989-equs8900498a)
 - [Arrêté du 23 août 1989 (EQUP8900903A)](arrete-du-23-aout-1989-equp8900903a)
 - [Arrêté du 23 août 1989 (INTB8900399A)](arrete-du-23-aout-1989-intb8900399a)
