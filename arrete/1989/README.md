@@ -108,7 +108,6 @@
 - [Arrêté du 12 janvier 1989 (DEFD8901020A)](arrete-du-12-janvier-1989-defd8901020a)
 - [Arrêté du 12 janvier 1989 (DEFD8901021A)](arrete-du-12-janvier-1989-defd8901021a)
 - [Arrêté du 12 janvier 1989 (MENU8900086A)](arrete-du-12-janvier-1989-menu8900086a)
-- [Arrêté du 12 janvier 1989 (MENU8900087A)](arrete-du-12-janvier-1989-menu8900087a)
 - [Arrêté du 12 juillet 1990 (ECOP8900663A)](arrete-du-12-juillet-1990-ecop8900663a)
 - [Arrêté du 12 mai 1989 (INTB8900229A)](arrete-du-12-mai-1989-intb8900229a)
 - [Arrêté du 12 mai 1989 (INTB8900231A)](arrete-du-12-mai-1989-intb8900231a)
