@@ -1,3 +1,0 @@
-# Annexes
-
-- [COEFFICIENT MULTIPLICATEUR APPLIQUE AU TAUX DE MARGE DU PHARMACIEN D'OFFICINE.](coefficient-multiplicateur-applique-au)

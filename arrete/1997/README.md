@@ -422,7 +422,6 @@
 - [Arrêté du 21 mai 1997 (MIPC9700106A)](arrete-du-21-mai-1997-mipc9700106a)
 - [Arrêté du 21 mai 1997 (MIPC9700107A)](arrete-du-21-mai-1997-mipc9700107a)
 - [Arrêté du 21 mai 1997 (PARX9702042A)](arrete-du-21-mai-1997-parx9702042a)
-- [Arrêté du 21 mai 1997 (TASS9721688A)](arrete-du-21-mai-1997-tass9721688a)
 - [Arrêté du 22 avril 1997 (ECOR9705007A)](arrete-du-22-avril-1997-ecor9705007a)
 - [Arrêté du 22 avril 1997 (ECOT9751591A)](arrete-du-22-avril-1997-ecot9751591a)
 - [Arrêté du 22 avril 1997 (ECOX9702008A)](arrete-du-22-avril-1997-ecox9702008a)
