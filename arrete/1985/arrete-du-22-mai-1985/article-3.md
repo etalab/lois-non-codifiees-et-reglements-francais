@@ -1,9 +1,15 @@
 # Article 3
 
-Le diplôme élémentaire de langue française comporte six unités de contrôle, telles que définies en annexe du présent arrêté (1).
+Le diplôme d'études en langue française (D.E.L.F.) comprend:
 
-Les candidats peuvent sans condition préalable s'inscrire à l'une ou l'autre des cinq premières unités, dont l'ordre d'acquisition est indifférent.
+- le diplôme d'études en langue française du premier degré comportant quatre unités de contrôle;
 
-Pour s'inscrire à la sixième unité de contrôle, les candidats doi­vent avoir été déclarés admis aux cinq premières.
+- le diplôme d'études en langue française du second degré comptant deux unités de contrôle.
 
-(1) Les annexes au présent arrêté feront l'objet d'une publication au Bul­letin officiel du ministère de l'éducation nationale.
+Chacun de ces deux diplômes donne lieu à certification distincte.
+
+Les candidats au diplôme du premier degré peuvent, sans condition préalable, s'inscrire à l'une ou l'autre des quatre unités de contrôle constitutives, dont l'ordre d'acquisition est indifférent. Le diplôme est conféré à ceux qui ont été admis aux épreuves afférentes à ces quatre unités.
+
+Seuls les titulaires du diplôme du premier degré peuvent s'inscrire aux unités de contrôle du diplôme du second degré et se présenter aux épreuves correspondantes.
+
+Les deux unités de contrôle du diplôme d'études en langue française du second degré peuvent être acquises dans un ordre indifférent.
