@@ -73,6 +73,7 @@
 - [Décret n°87-246 du 6 avril 1987 (MCCT8700121D)](decret-n87-246-du-6-avril-1987-mcct8700121d)
 - [Décret n°87-250 du 6 avril 1987 (AGRA8700274D)](decret-n87-250-du-6-avril-1987-agra8700274d)
 - [Décret n°87-251 du 6 avril 1987 (AGRA8700275D)](decret-n87-251-du-6-avril-1987-agra8700275d)
+- [Décret n°87-642 du 6 août 1987 (BUDF8720067D)](decret-n87-642-du-6-aout-1987-budf8720067d)
 - [Décret n°87-77 du 6 février 1987 (ASES8700214D)](decret-n87-77-du-6-fevrier-1987-ases8700214d)
 - [Décret n°87-78 du 6 février 1987 (ASES8700215D)](decret-n87-78-du-6-fevrier-1987-ases8700215d)
 - [Décret n°87-89 du 6 février 1987 (MAEJ8730003D)](decret-n87-89-du-6-fevrier-1987-maej8730003d)

@@ -1,0 +1,3 @@
+# Article 4
+
+L'existence et les modalités du droit d'accès telles qu'elles sont définies par les articles 34 et 40 de la loi du 6 janvier 1978 seront expressément portées à la connaissance des malades ou de leur représentant légal dès la délivrance de la carte à microprocesseur. A celle-ci sera jointe l'image exacte des informations qui y sont inscrites. Les patients, ou leur représentant légal, seront également informés de la finalité du traitement ainsi que des mesures prises pour garantir la confidentialité des informations. En outre, ces informations pourront être communiquées, sur leur demande, aux intéressés, lors de chaque séjour de ceux-ci dans un hôpital des armées.
