@@ -443,6 +443,7 @@
 - [Décret n°92-808 du 19 août 1992 (MAEJ9230035D)](decret-n92-808-du-19-aout-1992-maej9230035d)
 - [Décret n°92-809 du 19 août 1992 (MAEJ9230036D)](decret-n92-809-du-19-aout-1992-maej9230036d)
 - [Décret n°92-810 du 19 août 1992 (AGRS9201592D)](decret-n92-810-du-19-aout-1992-agrs9201592d)
+- [Décret n°92-820 du 19 août 1992 (PRMG9270151D)](decret-n92-820-du-19-aout-1992-prmg9270151d)
 - [Décret n°93-92 du 19 janvier 1993 (SANH9202623D)](decret-n93-92-du-19-janvier-1993-sanh9202623d)
 - [Décret n°92-437 du 19 mai 1992 (MAEC9200008D)](decret-n92-437-du-19-mai-1992-maec9200008d)
 - [Décret n°92-438 du 19 mai 1992 (ECOP9200016D)](decret-n92-438-du-19-mai-1992-ecop9200016d)
