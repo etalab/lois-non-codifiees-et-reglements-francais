@@ -1,0 +1,5 @@
+# Article 3
+
+La pratique professionnelle exigée par les dispositions de l'article 54 (2°) de la loi susvisée du 31 décembre 1971 pour l'inscription sur une liste de conseils juridiques résulte de l'exercice, pendant trois années au moins, d'activités de consultation et de rédaction d'actes en matière juridique, soit en qualité de collaborateur d'un conseil juridique ou en qualité d'avocat stagiaire, soit en qualité de collaborateur d'un avocat au Conseil d'Etat et à la Cour de cassation, ou de clerc de notaire inscrit au stage.
+
+Toutefois, la moitié du temps de pratique professionnelle obligatoire peut avoir été accomplie soit chez un expert-comptable ou dans le service juridique ou fiscal d'une entreprise employant au moins trois juristes, soit à l'étranger en qualité de membre d'une profession juridique réglementée ou auprès d'une personne physique ou d'un groupement exerçant une telle profession, ou dans un organisme international figurant sur une liste arrêtée conjointement par le garde des sceaux, ministre de la justice, et le ministre des affaires étrangères.

@@ -21,6 +21,7 @@
 - [Décret n°72-849 du 11 septembre 1972](decret-n72-849-du-11-septembre-1972)
 - [Décret n°72-283 du 12 avril 1972](decret-n72-283-du-12-avril-1972)
 - [Décret n°72-877 du 12 septembre 1972](decret-n72-877-du-12-septembre-1972)
+- [Décret n°72-670 du 13 juillet 1972](decret-n72-670-du-13-juillet-1972)
 - [Décret n°72-1120 du 14 décembre 1972](decret-n72-1120-du-14-decembre-1972)
 - [Décret n°72-1158 du 14 décembre 1972](decret-n72-1158-du-14-decembre-1972)
 - [Décret n°72-903 du 14 septembre 1972](decret-n72-903-du-14-septembre-1972)
