@@ -32,7 +32,6 @@
 - [Décret n°82-312 du 6 avril 1982](decret-n82-312-du-6-avril-1982)
 - [Décret n°82-321 du 6 avril 1982](decret-n82-321-du-6-avril-1982)
 - [Décret n°82-324 du 6 avril 1982](decret-n82-324-du-6-avril-1982)
-- [Décret n°82-700 du 6 août 1982](decret-n82-700-du-6-aout-1982)
 - [Décret n°82-762 du 6 septembre 1982](decret-n82-762-du-6-septembre-1982)
 - [Décret n°82-764 du 6 septembre 1982](decret-n82-764-du-6-septembre-1982)
 - [Décret n°82-851 du 6 octobre 1982](decret-n82-851-du-6-octobre-1982)

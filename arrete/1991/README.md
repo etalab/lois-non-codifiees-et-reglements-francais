@@ -100,7 +100,6 @@
 - [Arrêté du 4 décembre 1990 (ENVN9061670A)](arrete-du-4-decembre-1990-envn9061670a)
 - [Arrêté du 4 décembre 1990 (TEFT9004106A)](arrete-du-4-decembre-1990-teft9004106a)
 - [Arrêté du 4 décembre 1991 (DEFD9102284A)](arrete-du-4-decembre-1991-defd9102284a)
-- [Arrêté du 4 décembre 1991 (DEFD9102285A)](arrete-du-4-decembre-1991-defd9102285a)
 - [Arrêté du 4 février 1991 (AGRB9002271A)](arrete-du-4-fevrier-1991-agrb9002271a)
 - [Arrêté du 4 février 1991 (BUDR9105009A)](arrete-du-4-fevrier-1991-budr9105009a)
 - [Arrêté du 4 février 1991 (BUDR9105010A)](arrete-du-4-fevrier-1991-budr9105010a)
