@@ -21,5 +21,3 @@ L'énergie susceptible d'être achetée annuellement est plafonnée à la puissa
 3. 8400 heures, pour les autres installations concernées.
 
 L'énergie produite au-delà des plafonds définis aux alinéas précédents est rémunérée à 4,42 centimes d'euros/kWh hors taxes.
-
-A l'issue du contrat mentionné au premier alinéa, l'installation peut bénéficier d'un nouveau contrat d'une durée de quinze ans aux tarifs définis au présent article, dans la mesure où elle remplit toujours à cette époque les conditions de l'article 10 de la loi du 10 février 2000 susvisée et, le cas échéant, des décrets du 6 décembre 2000 et du 10 mai 2001 susvisés.
