@@ -1,0 +1,5 @@
+# Article 1
+
+Il est créé au service des statistiques, des études et des systèmes d'information un fichier informatisé issu d'un prélèvement par sondage des bulletins normalisés "Situation des bénéficiaires" accompagnant les contrats d'insertion signés entre les bénéficiaires du revenu minimum d'insertion et les présidents des commissions locales d'insertion. Ce fichier a pour but de produire des tableaux et analyses statistiques des contrats d'insertion et de leurs bénéficiaires.
+
+Il est créé dans les préfectures de département ou dans les directions départementales des affaires sanitaires et sociales, lorsque le représentant de l'Etat dans le département le juge utile, un fichier informatisé issu d'un prélèvement exhaustif ou par sondage des bulletins normalisés "Situation des bénéficiaires" accompagnant les contrats d'insertion signés entre les bénéficiaires du revenu minimum d'insertion résidant dans le département et les présidents des commissions locales d'insertion. Ces fichiers ont pour but de produire des tableaux et analyses statistiques des contrats d'insertion et de leurs bénéficiaires.
