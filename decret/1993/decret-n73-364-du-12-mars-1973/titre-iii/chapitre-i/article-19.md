@@ -8,7 +8,7 @@ Peuvent être autorisés à acquérir et à détenir des armes des catégories 1
 
 Par dérogation, les personnes susvisées qui détiennent au 1er janvier 1993 des armes de tir de cinquième ou septième catégorie classées par le présent décret en quatrième catégorie sont autorisées à les détenir en sus des six armes prévues à l'alinéa ci-dessus, dans la limite totale de douze armes dont sept de la première catégorie (§ 1 et 2) ou de la quatrième catégorie à percussion centrale.
 
-L'autorisation sera demandée dans l'année qui suit la date de publication du décret n° 93-998 du 9 août 1993 , accompagnée de la justification de la détention des armes au 1er janvier 1993.
+L'autorisation sera demandée, accompagnée de la justification de la détention des armes au 1er janvier 1993 avant le 1er avril 1995.
 
 3° Les tireurs sélectionnés, sur avis favorable d'une fédération mentionnée à l'article 19 (2°), participant à des concours internationaux dans la limite de douze armes, dont au maximum sept de la première catégorie (§ 1 et 2) ou de la quatrième catégorie à percussion centrale, les autres devant être des armes de quatrième catégorie à percussion annulaire de calibre inférieur ou égal à 6 mm.
 
@@ -16,6 +16,6 @@ Les critères de sélection des tireurs devant participer à des concours intern
 
 Par dérogation, les personnes susvisées qui détiennent au 1er janvier 1993 des armes de tir de cinquième ou septième catégorie classées par le présent décret en quatrième catégorie sont autorisées à les détenir en sus des douze armes prévues au premier alinéa du paragraphe 19 (3°), dans la limite totale de dix-huit armes dont dix de la première catégorie (§ 1 et 2) ou de la quatrième catégorie à percussion centrale.
 
-L'autorisation sera demandée dans l'année qui suit la date de publication du décret n° 93-998 du 9 août 1993 , accompagnée de la justification de la détention des armes au 1er janvier 1993.
+L'autorisation sera demandée, accompagnée de la justification de la détention des armes au 1er janvier 1993 avant le 1er avril 1995.
 
 4° les restrictions relatives au nombre d'armes de la 4ème catégorie susceptibles d'être acquises ou détenues, tant par les associations que par les tireurs sportifs au titre des paragraphes ci-dessus, ne s'appliquent pas aux armes appartenant à la 4e catégorie, paragraphe 3. De plus, ces mêmes armes pourront être acquises par les personnes visées au 2° ci-dessus dès lors qu'elles sont âgées de seize ans au moins, sous réserve pour les mineurs de seize à dix-huit ans d'être autorisés par la personne exerçant l'autorité parentale.
