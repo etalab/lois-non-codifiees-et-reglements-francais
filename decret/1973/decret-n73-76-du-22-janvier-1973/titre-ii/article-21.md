@@ -1,0 +1,7 @@
+# Article 21
+
+A titre transitoire, les assurés du régime d'assurance vieillesse des professions industrielles et commerciales non titulaires d'une pension, rente ou allocation dudit régime sont redevables, au titre du premier semestre 1973, d'un acompte sur les cotisations prévues par la loi susvisée du 3 juillet 1972. Cet acompte est calculé et appelé dans les conditions prévues, en matière de cotisations, par la réglementation en vigueur avant le 1er janvier 1973, sur la base des valeurs de point de cotisations fixées par le décret n° 72-251 du 30 mars 1972 et en fonction de la classe dans laquelle l'assuré a été affecté en dernier lieu.
+
+Pour le second semestre 1973, la cotisation exigible sera égale à la moitié de la cotisation provisionnelle annuelle de l'année 1973, calculée dans les conditions fixées par le chapitre Ier du présent décret, sans préjudice de l'application des dispositions de l'article L. 663-11, deuxième alinéa, du Code de la sécurité sociale et de l'article 9 de la loi susvisée du 3 juillet 1972. Toutefois, les assurés qui ont déjà versé, en 1972, les cotisations afférentes aux trois premiers trimestres de l'année 1973, dans les conditions prévues par la réglementation en vigueur avant le 1er janvier 1973, ne seront redevables que du quart de la cotisation provisionnelle annuelle susvisée.
+
+Il sera procédé à la régularisation des cotisations versées au titre de l'année 1973 dans les conditions fixées par un arrêté interministériel.

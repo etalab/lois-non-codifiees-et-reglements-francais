@@ -18,6 +18,7 @@
 - [Décret n°74-39 du 18 janvier 1974](decret-n74-39-du-18-janvier-1974)
 - [Décret n°73-172 du 21 février 1973](decret-n73-172-du-21-fevrier-1973)
 - [Décret n°75-1101 du 21 novembre 1975](decret-n75-1101-du-21-novembre-1975)
+- [Décret n°73-76 du 22 janvier 1973](decret-n73-76-du-22-janvier-1973)
 - [Décret n°73-1220 du 24 décembre 1973](decret-n73-1220-du-24-decembre-1973)
 - [Décret n°73-934 du 25 septembre 1973](decret-n73-934-du-25-septembre-1973)
 - [Décret n°73-564 du 26 juin 1973](decret-n73-564-du-26-juin-1973)
