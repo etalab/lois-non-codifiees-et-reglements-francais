@@ -1,6 +1,6 @@
 # Article 8
 
-Le droit au conseil en orientation et à l'information sur les enseignements et les professions fait partie du droit à l'éducation.
+Le droit au conseil en orientation et à l'information sur les enseignements, sur l'obtention d'une qualification professionnelle sanctionnée dans les conditions définies à l'article L. 115-1 du code du travail et sur les professions fait partie du droit à l'éducation.
 
 L'élève élabore son projet d'orientation scolaire et professionnelle avec l'aide de l'établissement et de la communauté éducative, notamment des enseignants et des conseillers d'orientation, qui lui en facilite la réalisation tant en cours de scolarité qu'à l'issue de celle-ci.
 
