@@ -74,6 +74,7 @@
 - [Décret n°2000-637 du 7 juillet 2000 (MESF0010479D)](decret-n2000-637-du-7-juillet-2000-mesf0010479d)
 - [Décret n°2000-638 du 7 juillet 2000 (MESS0021327D)](decret-n2000-638-du-7-juillet-2000-mess0021327d)
 - [Décret n°2000-649 du 7 juillet 2000 (MESS0021723D)](decret-n2000-649-du-7-juillet-2000-mess0021723d)
+- [Décret n°96-501 du 7 juin 1996 (AGRA9600567D)](decret-n96-501-du-7-juin-1996-agra9600567d)
 - [Décret n°2000-503 du 8 juin 2000 (MESH0021561D)](decret-n2000-503-du-8-juin-2000-mesh0021561d)
 - [Décret n°2000-504 du 8 juin 2000 (MESH0021564D)](decret-n2000-504-du-8-juin-2000-mesh0021564d)
 - [Décret n°2000-506 du 8 juin 2000 (FPPX0000089D)](decret-n2000-506-du-8-juin-2000-fppx0000089d)
