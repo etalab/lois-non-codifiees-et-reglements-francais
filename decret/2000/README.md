@@ -9,7 +9,6 @@
 - [Décret n°96-501 du 7 juin 1996 (AGRA9600567D)](decret-n96-501-du-7-juin-1996-agra9600567d)
 - [Décret n°2000-508 du 8 juin 2000 (EQUP0000217D)](decret-n2000-508-du-8-juin-2000-equp0000217d)
 - [Décret n°2000-511 du 8 juin 2000 (DEFP0001561D)](decret-n2000-511-du-8-juin-2000-defp0001561d)
-- [Décret n°2000-393 du 10 mai 2000 (PRMX0004108D)](decret-n2000-393-du-10-mai-2000-prmx0004108d)
 - [Décret n°2000-326 du 12 avril 2000 (DEFD0001317D)](decret-n2000-326-du-12-avril-2000-defd0001317d)
 - [Décret n°2000-1222 du 14 décembre 2000 (PRMX0000078D)](decret-n2000-1222-du-14-decembre-2000-prmx0000078d)
 - [Décret n°2000-250 du 15 mars 2000 (MENS0000215D)](decret-n2000-250-du-15-mars-2000-mens0000215d)
