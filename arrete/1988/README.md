@@ -347,7 +347,6 @@
 - [Arrêté du 17 août 1988 (AGRA8801677A)](arrete-du-17-aout-1988-agra8801677a)
 - [Arrêté du 17 août 1988 (PTTT8800532A)](arrete-du-17-aout-1988-pttt8800532a)
 - [Arrêté du 17 août 1988 (PTTT8800533A)](arrete-du-17-aout-1988-pttt8800533a)
-- [Arrêté du 17 août 1988 (SPSS8801219A)](arrete-du-17-aout-1988-spss8801219a)
 - [Arrêté du 17 août 1988 (SPSS8801220A)](arrete-du-17-aout-1988-spss8801220a)
 - [Arrêté du 17 août 1988 (SPSS8801221A)](arrete-du-17-aout-1988-spss8801221a)
 - [Arrêté du 17 août 1988 (SPSS8801240A)](arrete-du-17-aout-1988-spss8801240a)
