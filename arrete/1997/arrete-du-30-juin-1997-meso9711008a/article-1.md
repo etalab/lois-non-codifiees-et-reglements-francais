@@ -44,4 +44,6 @@ Conseil national des missions locales ;
 
 Commissions départementales de lutte contre le travail illégal ;
 
-Commission départementale des recours gracieux.
+Commission départementale des recours gracieux ;
+
+Conseil départemental de l'insertion par l'activité économique.
