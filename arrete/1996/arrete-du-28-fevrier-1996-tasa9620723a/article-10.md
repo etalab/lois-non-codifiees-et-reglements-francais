@@ -30,4 +30,4 @@ B. - Pour les candidats déclarés admis à l'issue des épreuves :
 
 - pour les fonctionnaires de l'Etat, d'une collectivité territoriale ou d'un établissement public, la dernière décision indiciaire dont ils ont fait l'objet.
 
-Pour obtenir les imprimés nécessaires à l'établissement de la demande d'admission à concourir, les candidats doivent s'adresser au ministère du travail et des affaires sociales (direction de l'action sociale, bureau T.S. 3), 1, place de Fontenoy, 75350 Paris 07 SP.
+Pour obtenir les imprimés nécessaires à l'établissement de la demande d'admission à concourir, les candidats doivent s'adresser à l'une des directions régionales des affaires sanitaires et sociales des régions d'Ile-de-France (Paris), Bretagne (Rennes), Lorraine (Nancy), Midi-Pyrénées (Toulouse) et Provence-Alpes-Côte d'Azur (Marseille) de leur choix.

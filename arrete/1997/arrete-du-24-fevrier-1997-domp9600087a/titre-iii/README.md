@@ -1,0 +1,3 @@
+# TITRE III : RÈGLES DE FONCTIONNEMENT DES JEUX.
+
+- [Article 13](article-13.md)
