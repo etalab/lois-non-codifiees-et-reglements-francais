@@ -2,6 +2,7 @@
 
 - [TITRE Ier : Dispositions générales.](titre-ier)
 - [TITRE II : Dispositions organiques - Syndicat de communes pour le personnel - Commissions paritaires.](titre-ii)
+- [TITRE III : Recrutement.](titre-iii)
 - [TITRE IV : Rémunération.](titre-iv)
 - [TITRE V : Notations et avancement.](titre-v)
 - [TITRE VI : Garanties disciplinaires.](titre-vi)
