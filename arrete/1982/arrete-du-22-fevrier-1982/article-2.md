@@ -1,5 +1,9 @@
 # Article 2
 
-Le contrôle visé à l'article 1er doit porter sur un échantillon composé de cinq unités, chacune constituée d'un yaourt ou yoghourt provenant d'une même fabrication ou d'un même lot d'importation.
+Le département du développement de la vie associative comprend :
 
-Les résultats du contrôle sont considérés comme acceptables si, parmi les examens effectués, une unité au plus contient moins de 100 millions mais plus de 10 millions de bactéries lactiques thermophiles spécifiques (Streptococcus thermophilus et lactobacillus bulgaricus) par gramme.
+1. Le bureau des associations nationales de consommateurs et d'usagers, également chargé du suivi de la tutelle de l'institut national de la consommation ;
+
+2. Le bureau des associations locales de consommateurs et d'usagers ;
+
+3. Le bureau de l'éducation et de la formation des consommateurs.

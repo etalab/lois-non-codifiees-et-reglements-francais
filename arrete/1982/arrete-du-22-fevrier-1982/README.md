@@ -1,4 +1,4 @@
-# Arrêté du 22 février 1982 relatif aux modalités de contrôle de la flore spécifique du yaourt ou yoghourt
+# Arrêté du 22 février 1982 relatif à l'organisation des services centraux de la direction de la consommation et de la répression des fraudes
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
