@@ -1,3 +1,3 @@
 # Article 2
 
-Le secrétariat du conseil supérieur de l'enseignement de la conduite automobile et de l'organisation de la profession est assuré par un avenant de la direction des routes et de la circulation routière, désigné par le ministre de l'équipement en liaison avec un agent de la direction de la réglementation désigné par le ministre de l'intérieur.
+Les caractéristiques physiques et chimiques auxquelles doivent répondre ces produits sont celles fixées par la norme NFU 44-001 (août 1974), homologuée par arrêté du 25 juillet 1974, conformément à l'article 12 du décret du 24 mai 1941 sur la normalisation.
