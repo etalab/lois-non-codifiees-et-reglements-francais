@@ -16,6 +16,8 @@ La demande est accompagnée des pièces suivantes :
 
 7° Un extrait de casier judiciaire ou un document équivalent délivré par une autorité judiciaire ou administrative compétente du ou des pays où il a résidé au cours des dix dernières années, ou, lorsqu'il est dans l'impossibilité de produire ces documents, du pays dont il a la nationalité.
 
+Tous les documents rédigés en langue étrangère doivent être accompagnés de leur traduction par un traducteur agréé, produite en original.
+
 Dès la production des pièces prévues ci-dessus, l'autorité auprès de laquelle la demande a été déposée délivre le récépissé prévu à l'article 21-25-1 du code civil constatant cette production.
 
-Le demandeur doit signaler tout changement de résidence à l'autorité qui a reçu sa demande.
+Le demandeur doit signaler à l'autorité qui a reçu sa demande tout changement de résidence et toute modification intervenue dans sa situation familiale.

@@ -67,3 +67,4 @@
 - [Arrêté du 30 décembre 2004 (AGRB0402531A)](arrete-du-30-decembre-2004-agrb0402531a)
 - [Arrêté du 30 décembre 2004 (EQUT0401775A)](arrete-du-30-decembre-2004-equt0401775a)
 - [Arrêté du 30 décembre 2004 (MCCF0401008A)](arrete-du-30-decembre-2004-mccf0401008a)
+- [Arrêté du 31 décembre 2004 (SANH0520003A)](arrete-du-31-decembre-2004-sanh0520003a)
