@@ -1,6 +1,6 @@
 # Article 7
 
-Le conseil d'administration se réunit au moins deux fois par an sur convocation du président-directeur général qui en fixe l'ordre du jour. Il peut également se réunir à la demande de la majorité de ses membres ou à celle des ministres de tutelle de l'agence.
+Le conseil d'administration se réunit au moins deux fois par an sur convocation du président qui en fixe l'ordre du jour. Il peut également se réunir à la demande de la majorité de ses membres ou à celle des ministres de tutelle de l'agence.
 
 Il ne délibère valablement que si la moitié au moins de ses membres sont présents. Toutefois, si ce quorum n'est pas atteint, le conseil est à nouveau convoqué dans les délais prévus par son règlement intérieur et sur le même ordre du jour, pour valablement délibérer quel que soit le nombre des membres présents.
 
@@ -8,4 +8,4 @@ Tout administrateur peut déléguer par mandat à un autre membre du conseil d'a
 
 Le conseil d'administration établit son règlement intérieur.
 
-Le contrôleur d'Etat et l'agent comptable assistent aux séances du conseil d'administration et du bureau avec voix consultative.
+Le directeur général, le contrôleur d'Etat et l'agent comptable assistent aux séances du conseil d'administration et du bureau avec voix consultative.
