@@ -1,3 +1,0 @@
-# Article 7
-
-Les fonctionnaires qui ont subi avec succès l'examen professionnel ou les épreuves professionnelles respectivement prévus par l'article 6 et l'article 7 de l'arrêté du 26 septembre 1973 relatif aux conditions d'accès à certains emplois des communes et des établissements publics communaux sont inscrits de plein droit sur les listes d'aptitude établies au titre de la promotion interne pour l'accès au cadre d'emplois des ingénieurs territoriaux, conformément aux dispositions de l'article 8 du décret n° 90-126 du 9 février 1990 portant statut particulier du cadre d'emplois des ingénieurs territoriaux.
