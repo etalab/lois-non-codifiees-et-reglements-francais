@@ -1,15 +1,21 @@
 # Article 2
 
-Sont publiés au Journal officiel de la République française l'arrêté d'approbation du contrat constitutif du groupement d'intérêt public ainsi que des extraits de ce contrat.
+Le groupement d'intérêt public jouit de la personnalité morale à compter de la publication au Journal officiel de la République française, sous la forme d'un avis, de l'approbation conjointe de la convention constitutive par les ministres intéressés.
 
-La publication fait notamment mention :
+La publication, assurée par le ministre chargé de la recherche, est accompagnée d'extraits de la convention constitutive faisant mention :
 
-De la dénomination et de l'objet du groupement ;
+- de la dénomination et de l'objet du groupement ;
 
-De l'identité de ses membres ;
+- de l'identité de ses membres ;
 
-Du siège social ;
+- du siège social ;
 
-De la durée du contrat.
+- de la durée de la convention ;
 
-Les modifications éventuelles du contrat constitutif ainsi que la décision d'approbation de ces modifications font l'objet d'une publication dans les mêmes conditions.
+- du mode de gestion ;
+
+- des règles de responsabilité des membres entre eux et à l'égard des tiers.
+
+Les modifications éventuelles de la convention constitutive font l'objet d'une publication dans les mêmes conditions.
+
+La dissolution du groupement avant le terme fixé par la convention constitutive fait également l'objet d'une publication au Journal officiel de la République française.
