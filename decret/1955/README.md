@@ -18,6 +18,7 @@
 - [Décret n°55-632 du 20 mai 1955](decret-n55-632-du-20-mai-1955)
 - [Décret n°55-662 du 20 mai 1955](decret-n55-662-du-20-mai-1955)
 - [Décret n°55-687 du 21 mai 1955](decret-n55-687-du-21-mai-1955)
+- [Décret n°55-771 du 21 mai 1955](decret-n55-771-du-21-mai-1955)
 - [Décret n°55-318 du 22 mars 1955](decret-n55-318-du-22-mars-1955)
 - [Décret n°55-622 du 22 mai 1955](decret-n55-622-du-22-mai-1955)
 - [Décret n°55-723 du 22 mai 1955](decret-n55-723-du-22-mai-1955)
