@@ -1153,7 +1153,6 @@
 - [Arrêté du 30 décembre 1992 (SPSS9300022A)](arrete-du-30-decembre-1992-spss9300022a)
 - [Arrêté du 30 décembre 1993 (TEFE9301304A)](arrete-du-30-decembre-1993-tefe9301304a)
 - [Arrêté du 30 décembre 1993 (TEFE9301305A)](arrete-du-30-decembre-1993-tefe9301305a)
-- [Arrêté du 30 juillet 1993 (AGRS9301424A)](arrete-du-30-juillet-1993-agrs9301424a)
 - [Arrêté du 30 juillet 1993 (PRMX9300553A)](arrete-du-30-juillet-1993-prmx9300553a)
 - [Arrêté du 30 juin 1993 (INDZ9300558A)](arrete-du-30-juin-1993-indz9300558a)
 - [Arrêté du 30 juin 1993 (SPSG9301866A)](arrete-du-30-juin-1993-spsg9301866a)
