@@ -7,3 +7,5 @@ L'emploi de toute indication ou de tout signe tendant à faire croire faussement
 2° Sur les étiquettes, capsules, bouchons, cachets ou tout autre appareil de fermeture ;
 
 3° Dans les papiers de commerce, factures, catalogues, prospectus, prix-courants, enseignes, affiches, tableaux-réclame, annonces ou tout autre moyen de publicité.
+
+L'interdiction ci-dessus s'applique notamment à l'emploi de toute indication ou de tout signe annonçant qu'un produit est à base de beurre ou a été préparé au beurre, alors que ce produit a été fabriqué en tout ou en partie avec d'autres matières grasses que le beurre.
