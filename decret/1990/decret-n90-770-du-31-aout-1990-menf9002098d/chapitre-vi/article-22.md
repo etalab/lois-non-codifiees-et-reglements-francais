@@ -1,3 +1,3 @@
 # Article 22
 
-Les dix membres titulaires prévus au 2° de l'article 3 du présent décret comprennent deux professeurs des écoles et huit instituteurs.
+Les dispositions de l'article 21 ci-dessus sont applicables lorsqu'une commission administrative paritaire constituée dans les conditions fixées par ces dispositions doit faire l'objet d'un renouvellement anticipé en application du dernier alinéa de l'article 9 du présent décret.

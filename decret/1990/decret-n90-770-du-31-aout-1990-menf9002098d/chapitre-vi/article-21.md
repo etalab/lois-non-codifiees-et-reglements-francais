@@ -1,3 +1,13 @@
 # Article 21
 
-Le 2° de l'article 3, l'article 5 et l'article 6 du présent décret entreront en vigueur le 1er septembre 1994. Jusqu'à cette date sont applicables les dispositions des articles 22 et 23 ci-après.
+Dans les commissions administratives paritaires dont les membres doivent être désignés lors du renouvellement général des commissions en activité au 1er septembre 1996, la représentation des personnels du corps des professeurs des écoles régi par le décret du 1er août 1990 susvisé sera assurée, par dérogation aux dispositions du 2° de l'article 3 et des articles 5 et 6 du présent décret, dans les conditions fixées par les dispositions des deux alinéas ci-après.
+
+Pour la constitution de ces commissions la classe normale et la hors-classe du corps des professeurs des écoles sont considérées comme constituant un seul et même grade qui est représenté :
+
+1° Dans la commission administrative paritaire nationale mentionnée à l'article 3 du présent décret, par trois membres titulaires ;
+
+2° Dans les commissions administratives paritaires départementales mentionnées à l'article 4 du présent décret, par trois membres titulaires lorsqu'il s'agit d'une commission établie dans un département qui compte au moins 2 800 emplois et par deux membres titulaires lorsqu'il s'agit d'une commission établie dans un département qui compte moins de 2 800 emplois ;
+
+3° Dans la commission administrative paritaire de Saint-Pierre-et-Miquelon mentionnée à l'article 6 du présent décret, par un membre titulaire.
+
+Les règles relatives aux membres suppléants qui sont énoncées dans les articles 3, 4 et 6 du présent décret sont applicables.
