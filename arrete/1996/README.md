@@ -1264,7 +1264,6 @@
 - [Arrêté du 29 février 1996 (JUSF9550110A)](arrete-du-29-fevrier-1996-jusf9550110a)
 - [Arrêté du 29 février 1996 (MIPP9600106A)](arrete-du-29-fevrier-1996-mipp9600106a)
 - [Arrêté du 29 février 1996 (MIPP9600107A)](arrete-du-29-fevrier-1996-mipp9600107a)
-- [Arrêté du 29 février 1996 (TAST9610122A)](arrete-du-29-fevrier-1996-tast9610122a)
 - [Arrêté du 29 janvier 1996 (EQUA9600186A)](arrete-du-29-janvier-1996-equa9600186a)
 - [Arrêté du 29 janvier 1996 (TASS9623382A)](arrete-du-29-janvier-1996-tass9623382a)
 - [Arrêté du 29 juillet 1996 (AGRA9601459A)](arrete-du-29-juillet-1996-agra9601459a)
