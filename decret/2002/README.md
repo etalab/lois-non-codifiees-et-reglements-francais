@@ -152,6 +152,7 @@
 - [Décret n°2002-190 du 13 février 2002 (ATEN0190092D)](decret-n2002-190-du-13-fevrier-2002-aten0190092d)
 - [Décret n°2002-202 du 13 février 2002 (ATEE0200009D)](decret-n2002-202-du-13-fevrier-2002-atee0200009d)
 - [Décret n°2002-365 du 13 mars 2002 (MESH0220278D)](decret-n2002-365-du-13-mars-2002-mesh0220278d)
+- [Décret n°73-278 du 13 mars 1973](decret-n73-278-du-13-mars-1973)
 - [Décret n°2002-181 du 14 février 2002 (INTB0200025D)](decret-n2002-181-du-14-fevrier-2002-intb0200025d)
 - [Décret n°2002-184 du 14 février 2002 (DEFP0102467D)](decret-n2002-184-du-14-fevrier-2002-defp0102467d)
 - [Décret n°2002-185 du 14 février 2002 (DEFP0201170D)](decret-n2002-185-du-14-fevrier-2002-defp0201170d)

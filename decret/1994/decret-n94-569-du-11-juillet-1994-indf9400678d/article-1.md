@@ -6,9 +6,9 @@ Nota :
 
 (1) Le plan annexé au présent décret peut être consulté :
 
-A la direction de la sûreté des installations nucléaires, 99, rue de Grenelle, Paris (7e) ;
+A la direction générale de la sûreté nucléaire et de la radioprotection, 99, rue de Grenelle, Paris (7e) ;
 
-A la direction du gaz, de l'électricité et du charbon, 99, rue de Grenelle, Paris (7e) ;
+A la direction de la demande et des marchés énergétiques, 99, rue de Grenelle, Paris (7e) ;
 
 A la direction régionale de l'industrie, de la recherche et de l'environnement, 146, rue Pierre-Corneille, Lyon (Rhône) ;
 
