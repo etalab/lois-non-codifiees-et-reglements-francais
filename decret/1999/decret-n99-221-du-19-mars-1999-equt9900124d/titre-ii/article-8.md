@@ -18,7 +18,7 @@ Le délégué à l'aménagement du territoire et à l'action régionale ou son r
 
 Le commissaire au Plan ou son représentant ;
 
-Le directeur du Trésor ou son représentant ;
+Le directeur général de l'Agence des participations de l'Etat ou son représentant ;
 
 Le directeur du budget ou son représentant ;
 
