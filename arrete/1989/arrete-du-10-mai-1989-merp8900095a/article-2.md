@@ -1,0 +1,3 @@
+# Article 2
+
+L'administration centrale du ministère chargé des pêches maritimes, les services régionaux et départementaux des affaires maritimes reçoivent de l'Ifremer les informations recueillies à l'occasion de l'inscription sur les listes des établissements d'élevage ou d'expédition des coquillages définies à l'article 3 du décret du 20 août 1939 susvisé et de la délivrance de la carte professionnelle de mareyeur-expéditeur prévue à l'article 3 de la loi n° 48-100 du 7 septembre 1948 susvisée, ainsi que celles qu'il recueille dans le cadre du contrôle de la fabrication des conserves et semi-conserves de poissons, crustacés et autres animaux marins exercé conformément à l'ordonnance n° 58-1357 du 27 décembre 1958 susvisée.
