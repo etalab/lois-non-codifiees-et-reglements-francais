@@ -1,0 +1,3 @@
+# Article 3
+
+Les membres des conseils généraux de l'Ecole nationale supérieure agronomique de Rennes et de l'Institut national supérieur de formation agroalimentaire assurent conjointement les compétences de l'organe délibérant de l'Institut national d'enseignement supérieur et de recherche agronomique et agroalimentaire de Rennes jusqu'à l'installation des membres de cette instance qui interviendra dans un délai de trois mois à compter de la date de publication du présent décret. Ils désignent un président en leur sein parmi les personnes extérieures à l'établissement et n'assurant pas la représentation de l'Etat.
