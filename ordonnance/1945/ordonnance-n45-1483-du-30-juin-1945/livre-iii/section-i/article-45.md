@@ -1,3 +1,0 @@
-# Article 45
-
-Est présumé détention de stocks le fait pour un producteur ou un commerçant de différer la mise en oeuvre des matières premières ou de produits semi-finis ou de conserver un stock de produits destinés à la vente supérieur au stock normal. L'importance du stock normal sera déterminée en quantité par voie d'arrêtés interministériels pris dans les formes prévues au chapitre premier du titre premier du livre premier de la présente ordonnance, après avis des organisations professionnelles. Les intéressés seront admis à faire tomber la présomption en apportant la preuve d'un motif valable.
