@@ -1,0 +1,3 @@
+# Article 12.2
+
+Lorsque l'entité technique à réceptionner ne remplit sa fonction ou ne présente une caractéristique particulière qu'en liaison avec d'autres éléments du véhicule et que, de ce fait, le respect d'une ou plusieurs prescriptions ne peut être vérifié que lorsque l'entité technique à réceptionner fonctionne en liaison avec d'autres éléments des véhicules, simulés ou réels, la portée de la réception CEE de l'entité technique doit être limitée en conséquence. La fiche de réception CEE d'une entité technique mentionne alors les restrictions concernant l'utilisation et les prescriptions de montage éventuelles ; lors de la réception CEE du véhicule, le respect de ces restrictions et prescriptions est vérifié.
