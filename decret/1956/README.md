@@ -9,6 +9,7 @@
 - [Décret n°56-824 du 11 août 1956](decret-n56-824-du-11-aout-1956)
 - [Décret n°56-585 du 12 juin 1956](decret-n56-585-du-12-juin-1956)
 - [Décret n°56-920 du 13 septembre 1956](decret-n56-920-du-13-septembre-1956)
+- [Décret n°56-1294 du 14 décembre 1956](decret-n56-1294-du-14-decembre-1956)
 - [Décret n°56-836 du 14 août 1956](decret-n56-836-du-14-aout-1956)
 - [Décret n°56-493 du 14 mai 1956](decret-n56-493-du-14-mai-1956)
 - [Décret n°56-497 du 14 mai 1956](decret-n56-497-du-14-mai-1956)
