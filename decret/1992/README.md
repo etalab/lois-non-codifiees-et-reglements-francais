@@ -162,6 +162,7 @@
 - [Décret n°92-151 du 19 février 1992 (INTC9200028D)](decret-n92-151-du-19-fevrier-1992-intc9200028d)
 - [Décret n°89-779 du 20 octobre 1989 (SPSG8901529D)](decret-n89-779-du-20-octobre-1989-spsg8901529d)
 - [Décret n°89-780 du 20 octobre 1989 (SPSG8901530D)](decret-n89-780-du-20-octobre-1989-spsg8901530d)
+- [Décret n°92-152 du 20 février 1992 (INTC9200029D)](decret-n92-152-du-20-fevrier-1992-intc9200029d)
 - [Décret n°92-64 du 20 janvier 1992 (JUSC9220002D)](decret-n92-64-du-20-janvier-1992-jusc9220002d)
 - [Décret n°92-65 du 20 janvier 1992 (JUSC9220003D)](decret-n92-65-du-20-janvier-1992-jusc9220003d)
 - [Décret n°92-66 du 20 janvier 1992 (JUSC9220004D)](decret-n92-66-du-20-janvier-1992-jusc9220004d)
