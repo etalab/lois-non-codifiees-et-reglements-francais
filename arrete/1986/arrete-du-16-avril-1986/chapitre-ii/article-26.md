@@ -10,7 +10,7 @@ Elle est composée de trois médecins :
 
 - le médecin chef de la circonscription régionale ou un médecin des gens de mer qu'il désigne pour le représenter, président ;
 
-- un médecin du service du contr<CB>le médical de l'Etablissement national des invalides de la marine (E.N.I.M.) ou son représentant local ;
+- un médecin du service du contrôle médical de l'Etablissement national des invalides de la marine (E.N.I.M.) ou son représentant local ;
 
 - un médecin choisi pour ses compétences par le médecin chef de la circonscription régionale.
 
@@ -34,4 +34,4 @@ Dès qu'elle s'estime suffisamment éclairée, la commission rédige :
 
 La commission peut autoriser l'exercice de la profession de marin dans des conditions particulières qu'elle précise alors, aux plans médical et professionnel, éventuellement pour des durées déterminées.
 
-Le directeur régional des affaires maritimes statue sur l'aptitude physique à la navigation au vu des conclusions de la commission et notifie sa décision au requérant."
+Le directeur régional des affaires maritimes statue sur l'aptitude physique à la navigation au vu des conclusions de la commission et notifie sa décision au requérant. Les décisions relatives à l'aptitude physique des marins identifiés à la Réunion ou à Saint-Pierre-et-Miquelon sont prises par le chef du quartier des affaires maritimes concerné.
