@@ -1,0 +1,3 @@
+# Article 34
+
+Sans préjudice des dispositions de la loi n° 71-575 du 16 juillet 1971, la formation professionnelle au titre de la promotion sociale et la formation professionnelle continue des collaborateurs salariés d'architectes sont organisées, sous la tutelle du ministre chargé de la culture par les organisations professionnelles et syndicales représentatives des architectes et de leurs salariés, qui constituent à cet effet des associations paritaires habilitées à remplir ces missions de formation et de promotion qui permettront aux intéressés d'accéder éventuellement au titre d'architecte.

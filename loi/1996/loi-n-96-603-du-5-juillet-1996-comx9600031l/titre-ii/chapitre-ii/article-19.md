@@ -4,11 +4,11 @@ I. - Doivent être immatriculées au répertoire des métiers ou au registre des
 
 Ce décret fixe les conditions de qualification auxquelles est subordonné le maintien de l'immatriculation au répertoire des métiers ou au registre des entreprises visé au IV ci-après des personnes dont le nombre de salariés franchit le seuil fixé au premier alinéa, les conditions du maintien à titre temporaire des entreprises dépassant ce même seuil et les conditions du maintien des entreprises ayant dépassé ledit seuil lors de leur transmission ou de leur reprise.
 
-Il définit également les conditions de tenue du répertoire des métiers par les chambres de métiers.
+Il définit également les conditions de tenue du répertoire des métiers par les chambres de métiers et la nature des informations que leur président peut adresser au préfet lorsqu'il estime, lors de l'immatriculation ou en toute autre occasion, que l'activité déclarée est exercée en méconnaissance des dispositions des I et II de l'article 16.
 
 II. - L'immatriculation au répertoire des métiers ne dispense pas, le cas échéant, de l'immatriculation au registre du commerce et des sociétés.
 
-III. - Ne peut être immatriculée au répertoire des métiers ou au registre des entreprises visé au IV ci-après et doit en être radiée d'office toute personne faisant l'objet de l'interdiction prévue à l'article 192 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises ou de la peine complémentaire d'interdiction d'exercer une activité professionnelle ou sociale pour crime ou délit prévue au 11° de l'article 131-6 du code pénal.
+III. - Ne peut être immatriculée au répertoire des métiers ou au registre des entreprises visé au IV ci-après et doit en être radiée d'office toute personne faisant l'objet de l'interdiction prévue à l'article L. 625-8 du code de commerce ou de la peine complémentaire d'interdiction d'exercer une activité professionnelle ou sociale pour crime ou délit prévue au 11° de l'article 131-6 du code pénal.
 
 A cette fin, le préfet, après avoir consulté le bulletin n° 2 du casier judiciaire de la personne demandant son immatriculation, fait connaître au président de la chambre de métiers l'existence d'une éventuelle interdiction.
 

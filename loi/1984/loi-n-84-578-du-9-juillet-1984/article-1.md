@@ -10,9 +10,9 @@ II - Le montant des sommes déposées sur ce livret ne peut excéder 45 800 euro
 
 Le taux des intérêts versés en rémunération des sommes déposées est fixé, par arrêté du ministre de l'économie, des finances et du budget, dans la limite de 75 p. 100 du taux des intérêts versés en rémunération des placements effectués sur les premiers livrets des caisses d'épargne.
 
-III - Les sommes déposées et les intérêts capitalisés sont indisponibles jusqu'au retrait définitif des fonds. Ce retrait ne peut intervenir qu'au terme d'une période, fixée par arrêté du ministre de l'économie, des finances et du budget, qui ne peut être inférieure à deux ans à compter de l'ouverture du livret.
+III - Les sommes déposées et les intérêts capitalisés sont indisponibles jusqu'au retrait définitif des fonds. Ce retrait ne peut intervenir qu'au terme d'une période, fixée par arrêté du ministre de l'économie, des finances et du budget, qui ne peut être inférieure à deux ans à compter de l'ouverture du livret sauf lorsque les sommes retirées sont affectées, dans les six mois suivant le retrait, au financement de la création ou de la reprise d'une entreprise dont le titulaire du livret, son conjoint, son ascendant ou son descendant assure personnellement l'exploitation ou la direction. Dans ce cas, le retrait peut intervenir sans délai ni remise en cause de l'exonération prévue au 9° quinquies de l'article 157 du code général des impôts.
 
-A l'expiration de ce délai un prêt peut être consenti, pour le financement d'un projet visé au paragraphe I, au titulaire du livret d'épargne-entreprise ou, dans des conditions fixées par arrêté du ministre de l'économie, des finances et du budget, à une personne physique que le titulaire du livret rend cessionnaire de ses droits à prêt. Les caractéristiques de ce prêt sont fixées par arrêté du ministre de l'économie, des finances et du budget.
+Un prêt peut être consenti, pour le financement d'un projet visé au paragraphe I, au titulaire du livret d'épargne-entreprise ou, dans des conditions fixées par arrêté du ministre de l'économie, des finances et du budget, à une personne physique que le titulaire du livret rend cessionnaire de ses droits à prêt. Les caractéristiques de ce prêt sont fixées par arrêté du ministre de l'économie, des finances et du budget.
 
 IV Paragraphe modificateur.
 
