@@ -1,3 +1,3 @@
 # Article 2
 
-Les dispositions des arrêtés des 23 septembre 1949, 20 octobre 1949, 30 décembre 1953, 19 janvier 1955, 24 janvier 1956, 6 mars 1956, 9 avril 1956, 14 janvier 1958, 21 novembre 1959, 30 juillet 1962, 23 mars 1963, 11 avril 1963, 12 septembre 1963, 5 juin 1964, 31 mars 1967, 25 juillet 1967, 30 novembre 1967, 22 mai 1968, 12 novembre 1968, 7 mars 1969, 29 mai 1969, 3 juin 1969, 6 juin 1969, 7 août 1969, 19 décembre 1969, 8 mai 1970, 19 mars 1971, 27 juin 1972, 29 décembre 1972, 2 septembre 1975, 5 avril 1976 sont abrogées, ainsi que les dispositions des arrêtés des 17 mars 1950 et 28 juin 1976 en tant qu'elles sont contraires à celle du présent arrêté.
+En outre, les véhicules visés à l'article 1er du présent arrêté [*puissance administrative dépassant 1 CV*], doivent satisfaire aux prescriptions des directives 77/102/CEE du 30 novembre 1976 et 78/665/CEE du 14 juillet 1978, dans les conditions définies par les articles 3 à 6 ci-après.

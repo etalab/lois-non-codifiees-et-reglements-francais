@@ -1,3 +1,3 @@
 # Article 4
 
-Le jury arrête la composition du dossier à partir duquel les élèves assistants devront rédiger le rapport de synthèse ; il désigne en son sein les correcteurs de l'épreuve de l'examen de fin de session.
+L'arrêté du 2 janvier 1975 relatif à la réception C.E.E. (Communauté économique européenne) des véhicules en ce qui concerne la limitation des émissions de gaz polluants en provenance des moteurs à allumage commandé, modifié par l'arrêté du 16 janvier 1975, est abrogé.

@@ -1,5 +1,10 @@
-# Arrêté du 4 octobre 1977 fixant l'échelonnement indiciaire applicable à certains emplois de l'administration centrale, des services déconcentrés, des services à l'étranger, des services industriels et commerciaux et établissements publics du ministère de l'économie et des finances et à certains emplois comptables relevant de la tutelle du ministère de l'économie et des finances
+# Arrêté du 4 octobre 1977 relatif aux contrôles des émissions de gaz polluants des moteurs à essence effectués sur les véhicules automobiles avant leur mise en circulation
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)
