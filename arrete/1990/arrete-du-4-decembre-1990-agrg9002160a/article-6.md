@@ -13,3 +13,7 @@ L'estimation tient compte de la valeur de remplacement des animaux le jour de le
 Le directeur des services vétérinaires ou son représentant assiste à l'expertise.
 
 3. Les dispositions prévues au point 2 ci-dessus sont applicables en cas d'élimination de bovins dans une exploitation placée sous arrêté préfectoral de mise sous surveillance au titre de l'article 9, paragraphe B, de l'arrêté du 3 décembre 1990 susvisé.
+
+4. Le propriétaire du bovin mentionné au premier alinéa, paragraphe C. 1, de l'article 9 de l'arrêté du 3 décembre 1990 susvisé ne pourra prétendre à aucune indemnisation lors de la destruction du cadavre mentionnée à l'avant-dernier alinéa dudit paragraphe.
+
+Le propriétaire du bovin mentionné au paragraphe C. 2 de l'article 9 de l'arrêté du 3 décembre 1990 susvisé pourra prétendre aux indemnisations prévues au paragraphe 3 de l'article 6 du présent arrêté.

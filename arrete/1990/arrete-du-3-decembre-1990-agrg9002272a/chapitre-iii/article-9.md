@@ -29,3 +29,15 @@ B. - Sans préjudice des dispositions mises en oeuvre conformément au paragraph
 4° Destruction par incinération conformément à l'article 10 ci-dessous, du ou des cadavres des bovins euthanasiés.
 
 L'arrêté de mise sous surveillance de chaque exploitation est levé par le préfet après élimination du dernier animal marqué dans les conditions fixées au présent article.
+
+C. - 1. Dès lors que l'enquête épidémiologique prévue à l'article 8 conduit à identifier, dans une station de testage dépendant d'un centre d'insémination artificielle agréé ou dans un centre d'insémination artificielle agréé, un jeune bovin mâle destiné à la reproduction ou un taureau en production, provenant d'une exploitation où a été confirmé un cas d'encéphalopathie spongiforme bovine conformément aux dispositions du point b de l'article 1er, il est dérogé, à la demande de son propriétaire, à l'application des mesures prévues au paragraphe B ci-dessus pour cet animal et pour l'exploitation où il se trouve, sous réserve du respect des dispositions suivantes :
+
+- le passeport du bovin en cause est retiré et consigné par le directeur des services vétérinaires du lieu d'hébergement de l'animal ;
+
+- le transfert du bovin de la station de testage vers le centre d'insémination artificielle ne peut être effectué que sous couvert d'un laissez-passer établi, à la demande du directeur du centre d'insémination, par le directeur des services vétérinaires du lieu d'hébergement du bovin ;
+
+- à l'issue de la période de production de semence, le taureau est euthanasié et le cadavre est détruit dans les conditions prévues à l'article 10 du présent arrêté, après avoir fait l'objet d'un test de diagnostic de l'encéphalopathie spongiforme bovine conformément aux dispositions point b de l'article 1er ;
+
+- les stocks de semence provenant de tout animal positif au test mentionné à l'alinéa précédent sont détruits et les descendants de ces animaux sont exclus des circuits de reproduction artificielle (production d'embryons, production de sperme pour insémination artificielle) ;
+
+2. Les dispositions du paragraphe 1 ci-dessus ne s'appliquent pas lorsque le bovin est le produit d'une vache reconnue atteinte d'encéphalopathie spongiforme bovine conformément aux dispositions du point b de l'article 1er. Dans ce cas, il sera fait application, pour le bovin et l'exploitation concernés, des dispositions prévues au paragraphe B ci-dessus et à l'article 10 du présent arrêté.
