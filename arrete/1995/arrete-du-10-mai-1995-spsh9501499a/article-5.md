@@ -1,17 +1,19 @@
 # Article 5
 
-Chaque candidat présente un dossier d'inscription composé comme suit :
+Chaque candidat présente un dossier d'inscription fourni par l'administration, comprenant :
 
-a) Une notice individuelle dûment remplie en trois exemplaires, à partir d'un document fourni par l'administration, comportant des pièces à joindre ;
+a) Un dossier administratif à l'appui duquel sont notamment demandés les documents justifiant de l'identité, de la nationalité, des fonctions hospitalières exercées ainsi que des titres et diplômes de spécialisation éventuellement obtenus ;
 
-b) Le diplôme, certificat ou autre titre mentionné soit à l'article L. 356-2 du code de la santé publique pour les médecins, soit à l'article L. 514 du même code pour les pharmaciens ou le diplôme, certificat ou autre titre susceptible d'être reconnu de valeur scientifique équivalente par le ministre chargé de l'enseignement supérieur ;
+b) Un dossier de diplôme pour les candidats possédant un diplôme, certificat ou titre mentionné à l'article L. 356-2 du code de la santé publique ou à l'article L. 514 du même code, mais ne remplissant pas les conditions de nationalité pour exercer la médecine ou la pharmacie en France, ou un dossier d'équivalence destiné à permettre au ministre chargé des universités de reconnaître le diplôme, certificat ou titre présenté comme étant de valeur scientifique équivalant aux titres, diplômes et certificats mentionnés à l'article L. 356-2 ou à l'article L. 514 du code de la santé publique ;
 
-c) Un dossier technique établi en trois exemplaires comportant la liste des publications, des travaux, ainsi que tous documents que le praticien souhaite produire à l'appui de sa candidature ;
+c) Un dossier technique destiné au jury comprenant deux parties :
 
-d) Les attestations de fonctions hospitalières comportant un état des services déterminées par le décret n° 95-561 du 6 mai 1995 susvisé.
+- une partie titres et travaux, dans laquelle le candidat fait figurer la liste de ses publications et de ses travaux ainsi que tous documents qu'il souhaite produire à l'appui de sa candidature ;
 
-Les modèles de notices individuelles d'inscription, la liste des pièces à joindre pour la reconnaissance de la valeur scientifique du diplôme, certificat ou titre et les modèles de formulaires relatifs au dossier technique sont à retirer auprès des directions régionales des affaires sanitaires et sociales d'inscription (ou des directions départementales des affaires sanitaires et sociales dans les départements d'outre-mer).
+- une partie services rendus, permettant d'apprécier la carrière du candidat.
 
 Lors de l'inscription, tous les documents remis par le candidat sont revêtus d'un cachet comportant indication de la direction régionale des affaires sanitaires et sociales, ou de la direction départementale des affaires sanitaires et sociales dans les départements d'outre-mer, et du numéro d'ordre d'enregistrement. Seuls ces documents sont pris en compte pour l'examen du dossier d'inscription et sont soumis aux membres du jury chargés des épreuves sur l'évaluation des titres et travaux et services rendus.
 
 Tout dossier incomplet n'est pas pris en considération et retourné au candidat. Aucun complément de dossier n'est accepté après la clôture des inscriptions.
+
+Le candidat doit adresser un dossier complet en recommandé avec accusé de réception ou le déposer dans la direction régionale des affaires sanitaires et sociales en métropole et dans la direction départementale des affaires sanitaires et sociales dans les départements d'outre-mer correspondant à son lieu de résidence.

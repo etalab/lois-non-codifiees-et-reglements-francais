@@ -16,7 +16,7 @@
 
 !    ! histologie, biologie du   !
 
-!    ! développement et de       !
+!    ! développement et de la    !
 
 !    ! reproduction.             !
 
@@ -132,7 +132,7 @@ Discipline Médecine
 
 !    ! biostatistiques,          !
 
-!    ! information médicale.     !
+!    ! informatique médicale.    !
 
 ! 14 ! Hygiène hospitalière.     !
 
@@ -182,9 +182,9 @@ Discipline Médecine
 
 ! 43 ! Réanimation médicale.     !
 
-! 44 !Rééducation et réadaptation!
+! 44 ! Médecine physique et de   !
 
-!    ! fonctionnelle.            !
+!    ! réadaptation.             !
 
 ! 45 ! Rhumatologie.             !
 
@@ -236,6 +236,6 @@ Discipline Psychiatrie
 
 !----!---------------------------!
 
-! 74 ! Psychiatrie.              !
+! 74 ! Psychiatrie polyvalente.  !
 
 !----!---------------------------!
