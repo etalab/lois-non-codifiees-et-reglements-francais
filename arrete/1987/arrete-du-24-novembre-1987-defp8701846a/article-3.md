@@ -2,25 +2,27 @@
 
 Le conseil de perfectionnement comprend les membres de droit suivants :
 
-- l'inspecteur général de l'armement, président ;
+-l'inspecteur général de l'armement, président ;
 
-- les inspecteurs de l'armement ;
+-les inspecteurs de l'armement ;
 
-- le directeur des personnels et des affaires générales de l'armement ou son représentant ;
+-le directeur des personnels et des affaires générales de l'armement ou son représentant ;
 
-- le directeur des recherches, études et techniques d'armement ou son représentant ;
+-le directeur des recherches, études et techniques d'armement ou son représentant ;
 
-- le directeur des armements terrestres ou son représentant ;
+-le directeur des armements terrestres ou son représentant ;
 
-- le directeur des constructions navales ou son représentant ;
+-le directeur des constructions navales ou son représentant ;
 
-- le directeur des constructions aéronautiques ou son représentant ;
+-le directeur des constructions aéronautiques ou son représentant ;
 
-- le directeur des engins ou son représentant ;
+-le directeur des engins ou son représentant ;
 
-- le directeur de l'électronique et de l'informatique ou son représentant ;
+-le directeur de l'électronique et de l'informatique ou son représentant ;
 
-- le directeur de chacune des écoles.
+-le directeur du service hydrographique et océanographique de la marine ou son représentant ;
+
+-le directeur de chacune des écoles.
 
 En outre, le conseil comprend des membres nommés par le ministre chargé des armées pour une durée de trois ans renouvelable une fois :
 
