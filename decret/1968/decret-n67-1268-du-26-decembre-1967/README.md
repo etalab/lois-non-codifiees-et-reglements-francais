@@ -3,4 +3,3 @@
 - [TITRE Ier : Organisation du service de garnison](titre-ier)
 - [TITRE II : Fonctionnement](titre-ii)
 - [TITRE III : Cérémonial militaire](titre-iii)
-- [TITRE IV : Dispositions diverses.](titre-iv)
