@@ -7,3 +7,5 @@ Ceux des vétérinaires mentionnés ci-dessus qui sont titulaires d'un diplôme,
 Outre le contrôle prévu à l'alinéa ci-dessus, les vétérinaires titulaires d'un diplôme, certificat ou titre de vétérinaire délivré dans un pays ne figurant pas sur la liste mentionnée à l'article 309 précité sont soumis à un contrôle de leurs connaissances dans les domaines des sciences cliniques, de l'hygiène alimentaire et de la production animale.
 
 Les programmes et les modalités d'organisation des épreuves destinées à assurer le contrôle des connaissances sont fixés par arrêté du ministre chargé de l'agriculture.
+
+Nul ne peut se présenter aux épreuves du contrôle de connaissances plus de trois fois.
