@@ -1,4 +1,4 @@
-# Arrêté du 25 mai 1970 instituant diverses échelles de rémunération pour certains emplois communaux.
+# Arrêté du 25 mai 1970 portant organisation des carrières de certains emplois communaux.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -9,4 +9,7 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
+- [Article 10](article-10.md)
 - [Annexes](annexes)
+- [Dispositions permanentes.](dispositions-permanentes)
+- [Dispositions transitoires](dispositions-transitoires)

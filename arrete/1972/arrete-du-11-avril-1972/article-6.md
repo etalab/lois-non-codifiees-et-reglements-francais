@@ -1,13 +1,3 @@
 # Article 6
 
-Les groupes moto-compresseurs [*construits ou importés après le 1er octobre 1972, date*] visés au premier alinéa de l'article 2 ci-dessus devront porter, de façon apparente et durable, soit directement, soit sur une plaque fixée à demeure, les marques et indications suivantes [*mentions obligatoires*] :
-
-1° Le nom du constructeur ;
-
-2° La désignation du type ;
-
-3° Le numéro dans la série du type ;
-
-4° L'année de fabrication ;
-
-5° Le niveau sonore (en décibels A) observé lors de l'homologation.
+Les organes des appareils visés à l'article 1er ci-dessus, notamment les dispositifs silencieux et les capots protecteurs, doivent être maintenus en bon état de fonctionnement ou remplacés en cas de nécessité afin que le bruit émis par lesdits appareils n'excède pas le niveau fixé à l'article 1er.

@@ -1,5 +1,5 @@
 # Article 3
 
-La commande du démarrage ou de l'arrêt et le fonctionnement des groupes moto-compresseurs construits ou importés après le 1er octobre 1972 doivent s'effectuer sans démontage ou déplacement des dispositifs d'insonorisation.
+Des arrêtés interministériels pourront définir, pour différentes catégories de matériels en fonctionnement effectifs, les niveaux sonores globaux admissibles, les niveaux sonores fixés à l'article 1er ci-dessus ne visant que les bruits produits par les moteurs.
 
-Les appareils de contrôle doivent être visibles de l'extérieur.
+Dans ce cas, les mesures des bruits produits par les moteurs seuls, prévues à l'article 4, ne seront pas nécessaires.

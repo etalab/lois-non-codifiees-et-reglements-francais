@@ -8,4 +8,4 @@ II - Pour les assurés commençant l'exercice d'une activité artisanale ou assi
 
 III - Pour les aides familiaux, la cotisation annuelle d'assurance invalidité-décès est assise sur un revenu égal au tiers du plafond ou sur un revenu égal au revenu professionnel du chef d'entreprise, avant application, le cas échéant, de l'abattement prévu à l'article 19 du décret du 22 janvier 1973 susvisé, si ce dernier revenu est inférieur au tiers du plafond susvisé, sous réserve de l'application du second alinéa du I du présent article.
 
-IV - La cotisation annuelle d'assurance invalidité-décès des personnes cotisant à titre volontaire est assise sur le même revenu que celui utilisé pour le calcul de leur cotisation volontaire d'assurance vieillesse.
+IV - La cotisation annuelle d'assurance invalidité-décès des personnes cotisant à titre volontaire est assise sur le même revenu que celui utilisé pour le calcul de leur cotisation volontaire d'assurance vieillesse sous réserve de l'application du second alinéa du I du présent article.

@@ -1,9 +1,7 @@
 # Article 2
 
-Pour les moto-compresseurs construits ou importés après le 1er octobre 1972, le niveau sonore global moyen des bruits aériens mesuré à un mètre dans les conditions prévues au deuxième alinéa de l'article 4 ci-après, n'excédera pas 85 décibels A.
+Les engins de chantier, équipés de moteurs :
 
-Pour les moto-compresseurs construits ou importés avant le 1er octobre 1972, ce niveau sonore n'excédera pas :
+Construits ou importés antérieurement au 2 mai 1973 ne répondant pas aux dispositions de l'article 1er ci-dessus ;
 
-90 décibels A du 1er octobre 1972 au 1er octobre 1977 ;
-
-85 décibels A après le 1er octobre 1977.
+Construits ou importés du 2 mai 1973 au 1er janvier 1975, ne répondant pas aux dispositions de l'article 1er précité, ayant bénéficié d'une dérogation à ces dispositions ne peuvent être utilisés qu'à plus de 100 mètres des immeubles à usage d'habitation ou de lieu de travail, ou affectés à toute autre activité humaine. Ils devront dans ce cas porter bien en évidence sur les capots la mention "ne pas utiliser à moins de 100 mètres des immeubles"..

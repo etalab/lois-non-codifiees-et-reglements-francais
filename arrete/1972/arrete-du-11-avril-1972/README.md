@@ -1,4 +1,4 @@
-# Arrêté du 11 avril 1972 relatif à la limitation du niveau sonore des bruits aériens émis par les groupes moto-compresseurs.
+# Arrêté du 11 avril 1972 relatif à la limitation du niveau sonore des bruits aériens émis par le ou les moteurs à explosion ou à combustion interne de certains engins de chantier
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

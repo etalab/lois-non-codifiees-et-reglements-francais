@@ -1,6 +1,6 @@
 # Article 5
 
-I - Le taux de la cotisation annuelle d'assurance invalidité-décès est fixé à 0,90 p. 100 du revenu visé à l'article 4.
+I - Le taux de la cotisation annuelle d'assurance invalidité-décès est fixé à 1 p. 100 du revenu visé à l'article 4.
 
 II - La cotisation annuelle, ainsi déterminée, est arrondie au multiple de deux francs le plus voisin.
 
