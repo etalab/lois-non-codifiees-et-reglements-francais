@@ -1,0 +1,3 @@
+# Article 2
+
+Dans les départements figurant en annexe du présent arrêté, les propriétaires de lieux ouverts au public appartenant à l'une des catégories définies à l'article 4 doivent faire procéder à des mesures de radon selon les modalités définies par le présent arrêté. Dans les autres départements, pour les mêmes catégories de lieux, les mêmes obligations incombent aux propriétaires de lieux où il a été constaté que des résultats de mesures de radon, réalisées à la demande des agents mentionnés à l'article R. 1333-16 du code de la santé publique, dépassent l'un ou l'autre niveau mentionné à l'article 5 du présent arrêté.

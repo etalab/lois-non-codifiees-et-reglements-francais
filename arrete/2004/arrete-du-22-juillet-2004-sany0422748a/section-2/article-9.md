@@ -1,0 +1,3 @@
+# Article 9
+
+Les actions simples sur le bâtiment destinées à réduire l'exposition des personnes au radon, le diagnostic du bâtiment et les travaux mentionnés aux articles 7 et 8 du présent arrêté sont définis conjointement par le directeur général de l'urbanisme, de l'habitat et de la construction et le directeur général de la sûreté nucléaire et de la radioprotection, dans un avis publié au Journal officiel de la République française en application du présent arrêté. Cet avis comporte une note d'information technique destinée à être jointe aux rapports d'intervention établis par les organismes agréés, selon les modalités définies à l'article 12 du présent arrêté.

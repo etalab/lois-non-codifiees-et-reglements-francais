@@ -1,0 +1,3 @@
+# Article 4
+
+Un cheptel ovin et/ou caprin bénéficie de la certification des échanges de reproducteurs délivrée par le directeur départemental des services vétérinaires lorsqu'il est régulièrement inscrit au CSO tremblante conformément aux dispositions de l'article 3 du présent arrêté et lorsqu'il respecte les conditions applicables aux échanges intracommunautaires d'ovins et de caprins vivants définies à l'annexe VIII, chapitre A, partie I, point a du règlement (CE) n° 999/2001 du 22 mai 2001 susvisé. Une instruction du ministre chargé de l'agriculture détermine les modalités pratiques de mise en oeuvre du présent article.

@@ -1,0 +1,5 @@
+# Article 7
+
+Lorsqu'au moins un des résultats des mesures de radon effectuées en application de l'article 2 du présent arrêté dépasse le niveau d'action de 400 Bq/m³ et qu'ils sont tous inférieurs à 1 000 Bq/m³, le propriétaire met en oeuvre sur le bâtiment des actions simples destinées à réduire l'exposition des personnes au radon. Il fait ensuite réaliser de nouvelles mesures de radon destinées à contrôler l'efficacité des actions simples ainsi mises en oeuvre.
+
+Si au moins l'un des résultats des nouvelles mesures de contrôle est supérieur au niveau d'action de 400 Bq/m³, le propriétaire fait réaliser un diagnostic du bâtiment et, si nécessaire, des mesures de radon supplémentaires afin d'identifier la source ainsi que les voies d'entrée et de transfert du radon dans le bâtiment. Au vu des résultats, il réalise des travaux pour réduire l'exposition au radon à un niveau aussi bas que raisonnablement possible, en vue d'abaisser la concentration en dessous de 400 Bq/m³. Ces travaux doivent être réalisés dans un délai de deux ans à compter de la date de réception des résultats des premières mesures de radon réalisées au titre de l'article 2 du présent arrêté.
