@@ -96,7 +96,13 @@ Objectifs de qualité :
 
 200 micro g/m3 en moyenne horaire et 65 micro g/m3 en moyenne sur 24 heures pour la protection de la végétation.
 
-Seuil d'alerte : 360 micro g/m3 en moyenne horaire.
+Seuil de recommandation et d'information : 180 micro g/m3 en moyenne horaire. Seuils d'alerte pour la mise en oeuvre progressive de mesures d'urgence :
+
+1er seuil : 240 micro g/m3 en moyenne horaire dépassé pendant trois heures consécutives ;
+
+2e seuil : 300 micro g/m3 en moyenne horaire dépassé pendant trois heures consécutives ;
+
+3e seuil : 360 micro g/m3 en moyenne horaire.
 
 6. Polluant visé : monoxyde de carbone
 
