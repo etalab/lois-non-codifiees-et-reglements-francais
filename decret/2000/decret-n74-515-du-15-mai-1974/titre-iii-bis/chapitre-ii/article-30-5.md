@@ -1,0 +1,3 @@
+# Article 30-5
+
+Les candidats vétérinaires biologistes des armées sont nommés au grade de vétérinaire biologiste le premier jour du mois au cours duquel ils ont obtenu le diplôme d'Etat de docteur vétérinaire, pour les candidats visés au 1° de l'article 30-4, ou, pour les autres candidats, le premier jour du mois au cours duquel ils ont été admis aux concours prévu au 2° de cet article. La nomination au premier grade des candidats qui ont été admis à concourir au titre du 2°, a, du même article 30-4 sans être titulaires du diplôme d'Etat de docteur vétérinaire intervient le premier jour du mois de l'obtention de ce diplôme, qui doit être acquis au plus tard le 31 décembre de l'année du concours.
