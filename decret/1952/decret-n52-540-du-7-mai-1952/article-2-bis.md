@@ -6,6 +6,8 @@ En 19ème catégorie lorsqu'ils relèvent des stations de :
 
 Dunkerque.
 
+Calais.
+
 Le Havre.
 
 La Seine.
@@ -24,9 +26,9 @@ Marseille - Golfe de Fos.
 
 Fort-de-France.
 
-Nouméa.    En 18ème catégorie lorsqu'ils relèvent des stations de :
+Nouméa.
 
-Calais.
+En 18ème catégorie lorsqu'ils relèvent des stations de :
 
 Boulogne.
 
