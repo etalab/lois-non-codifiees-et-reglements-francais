@@ -646,7 +646,6 @@
 - [Arrêté du 22 janvier 1991 (AGRS9100157A)](arrete-du-22-janvier-1991-agrs9100157a)
 - [Arrêté du 22 janvier 1991 (DEFT9101010A)](arrete-du-22-janvier-1991-deft9101010a)
 - [Arrêté du 22 janvier 1991 (EQUT9100079A)](arrete-du-22-janvier-1991-equt9100079a)
-- [Arrêté du 22 janvier 1991 (PTTR9100051A)](arrete-du-22-janvier-1991-pttr9100051a)
 - [Arrêté du 22 janvier 1991 (SANH9100211A)](arrete-du-22-janvier-1991-sanh9100211a)
 - [Arrêté du 22 juillet 1991 (DOMD9100054A)](arrete-du-22-juillet-1991-domd9100054a)
 - [Arrêté du 22 juillet 1991 (EQUT9101163A)](arrete-du-22-juillet-1991-equt9101163a)
