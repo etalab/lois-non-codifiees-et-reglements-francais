@@ -7,3 +7,7 @@ La déclaration CE de conformité est établie conformément au modèle figurant
 II. - Le fabricant, l'importateur ou son mandataire établi dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord instituant l'Espace économique européen ne peut mettre sur le marché des composants mentionnés au I (c) de l'article 1er qu'il déclare être destinés à être incorporés dans un équipement entrant dans le champ d'application du présent décret sans les accompagner de l'attestation de conformité prévue à l'article 10.
 
 III. - Lorsque la déclaration CE de conformité et le marquage CE ou l'attestation de conformité sont effectués dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord instituant l'Espace économique européen, ils produisent les mêmes effets que les formalités correspondantes prévues par le présent décret.
+
+IV - Les ingénieurs ou fonctionnaires des directions régionales de l'industrie, de la recherche et de l'environnement ou agents placés sous leurs ordres et à ce désignés peuvent se faire remettre gratuitement, par les constructeurs, importateurs ou revendeurs, un ou plusieurs exemplaires des appareils, systèmes de protection ou dispositifs visés au second alinéa du I de l'article 2, en vue de faire contrôler, par les organismes mentionnés au I de l'article 8, le respect des exigences essentielles de sécurité et de santé définies à l'annexe I du présent décret.
+
+Après contrôles, essais et épreuves, les exemplaires susmentionnés sont restitués à leur propriétaire. ;
