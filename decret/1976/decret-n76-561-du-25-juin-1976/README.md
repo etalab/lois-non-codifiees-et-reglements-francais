@@ -1,5 +1,6 @@
 # Décret n°76-561 du 25 juin 1976 fixant le mode de fonctionnement la composition et les attributions du comité consultatif de l'utilisation de l'énergie
 
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
