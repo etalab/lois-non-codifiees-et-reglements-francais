@@ -10,7 +10,7 @@ Nul ne peut être nommé avoué près d'une cour d'appel s'il ne remplit les con
 
 4° N'avoir pas été frappé de faillite personnelle ou d'une autre sanction en application du titre VI de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises ou, dans le régime antérieur à cette loi, en application du titre II de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la faillite personnelle et les banqueroutes.
 
-5° Etre licencié, maître ou docteur en droit ;
+5° Etre titulaire de la maîtrise en droit ou d'un titre ou diplôme admis en dispense pour l'accès à la profession par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé des universités ;
 
 6° Avoir accompli un stage de formation professionnelle dans les conditions prévues à la section II, sous réserve des dispenses prévues aux articles 2, 3 et 4 ;
 
