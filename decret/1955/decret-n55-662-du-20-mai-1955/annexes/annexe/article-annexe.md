@@ -2,15 +2,15 @@
 
 1° Prix par zone (hiver, été) :
 
-A : 4,54 , 1,86.
+A : 5,86 , 2,40.
 
-B : 4,76 , 2,02.
+B : 6,14 , 2,60.
 
-C : 4,90 , 2,03.
+C : 6,32 , 2,68.
 
-D : 5,14 , 2,17.
+D : 6,64 , 2,80.
 
-E : 5,43 , 2,24.
+E : 7,00 , 2,89.
 
 a) Les départements sont ainsi répartis entre les zones :
 
@@ -38,13 +38,11 @@ En cas de désaccord entre le producteur et le distributeur, le taux de majorati
 
 3° Majoration pour producteurs visés au troisième alinéa, paragraphe 3, de l'article 8 de la loi du 8 avril 1946.
 
-Les prix ci-dessus sont majorés de 20 p. 100 pendant une période de quinze ans, ladite majoration ne pouvant dépasser 0,70 F par kilowat-heure moyen annuel.
+Les prix ci-dessus sont majorés de 20 p. 100 pendant une période de quinze ans, ladite majoration ne pouvant dépasser 0,96 F par kilowatt-heure moyen annuel.
 
 4° Indexation.
 
-Les prix ci-dessus s'entendent pour la valeur I = 7.300 de l'index économique électrique haute tension.
-
-Ils varieront pour 80 p. 100 de leur valeur proportionnellement à cet index.
+Ces prix hors taxes, exprimés en centimes par kilowatt-heure, s'entendent pour la valeur I = 8.800 de l'index économique électrique haute tension. Ils varieront proportionnellement à la valeur de cet index.
 
 5° Champ d'application.
 
