@@ -26,7 +26,13 @@ Agent d'entretien ;
 
 Animateur de prévention et sécurité ;
 
+Bobinier ;
+
+Bourrelier ;
+
 Calorifugeur ;
+
+Chanfreineur ;
 
 Charpentier ;
 
@@ -70,6 +76,8 @@ Gréeur grutier-élingueur ;
 
 Ingénieur d'affaires ;
 
+Ingénieur de bord ;
+
 Hydraulicien ;
 
 Levageur-manoeuvrier ;
@@ -90,6 +98,8 @@ Monteur ;
 
 Monteur-échafaudeur ;
 
+Monteur en réfractaire ;
+
 Monteur monte-charge et ascenseur ;
 
 Monteur radio et sono ;
@@ -98,11 +108,15 @@ Motoriste ;
 
 Nettoyeur ;
 
+Nettoyeur de bord ;
+
 Outilleur ;
 
 Parquetteur ;
 
 Peintre ;
+
+Plombier ;
 
 Pompier ;
 
@@ -113,6 +127,10 @@ Préchauffeur ;
 Préparateur ;
 
 Redresseur ;
+
+Régulateur ;
+
+Sableur ;
 
 Selfiste ;
 
@@ -145,6 +163,8 @@ Agent de sécurité-agent de prévention ;
 Agent technique ;
 
 Animateur de prévention et sécurité ;
+
+Bourrelier ;
 
 Burineur ;
 
@@ -233,6 +253,8 @@ Animateur de prévention et sécurité ;
 Bobinier ;
 
 Borneur ;
+
+Bourrelier ;
 
 Calorifugeur ;
 

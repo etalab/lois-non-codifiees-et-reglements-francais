@@ -6,8 +6,6 @@ ACB/Alsthom Fluides et Mécaniques :
 
 - boulevard de la Prairie-au-Duc, 44945 Nantes Cedex 9 : de 1945 à 1997.
 
-Atelier de réparation navale des coteaux du Port autonome de Nantes - Saint-Nazaire, 9, quai des Coteaux, BP 7, 44640 Le Pellerin : de 1945 à 1998.
-
 Ateliers français de l'Ouest/ARNO/AFO :
 
 - quai des Frégates, 44600 Saint-Nazaire : de 1945 à 1994.
@@ -28,15 +26,13 @@ CEGELEC Compartiment Tuyauterie/COMSIP :
 
 - La Belle Etoile, 5, rue de Véga, BP 622, 44470 Carquefou Cedex : de 1960 à 1980.
 
-CERNAT (Compagnie d'entretien et réparation navale et thermique) :
-
-- quai Cormerais, 44600 Saint-Nazaire : de 1965 à 1975.
+CERNAT (Compagnie d'entretien et réparation navale et thermique), quai Emile-Cormerais, 44800 Saint-Herblain, puis 11, boulevard de Chantenay, 44100 Nantes et 9, rue Saint-Saëns, 44420 Carquefou : de 1969 à 1997.
 
 Chantiers Chauvet Jean, puis Chantiers Chauvet Marie-Joseph, puis CRNP (Construction et réparation navale de Paimboeuf), 10, rue Pitre-Chevalier, 44560 Paimboeuf : de 1970 à 1992.
 
 Chantiers de l'Atlantique :
 
-- avenue Antoine-Bourdelle, BP 400, 44608 Saint-Nazaire Cedex : de 1945 à 1975.
+- avenue Antoine-Bourdelle, BP 400, 44608 Saint-Nazaire Cedex : de 1945 à 1982.
 
 Chouteau Atlantique :
 
@@ -60,7 +56,7 @@ CRM :
 
 Dubigeon :
 
-- boulevard de la Prairie-du-Duc, 44200 Nantes : de 1945 à 1975.
+- boulevard de la Prairie-du-Duc, 44200 Nantes : de 1945 à 1987.
 
 EGT (Entreprise générale de travaux maritimes) :
 
@@ -74,9 +70,13 @@ Electro Navale Electronique :
 
 - 332, boulevard Marcel-Paul, 44806 Saint-Herblain Cedex : depuis sa création.
 
+Entreprise Alain, 30, rue du Capitaine-Hervouet  la rivière , 44000 Nantes : de 1970 à 1971.
+
+Entreprise Le Bot, 49, rue Albert-Thomas, 44600 Saint-Nazaire : de 1964 à 1969.
+
 ERBOS :
 
-- Cale Crucy, 44100 Nantes : de 1960 à 1976.
+- Cale Crucy, 44100 Nantes : de 1960 à 1982.
 
 ETA :
 
@@ -128,13 +128,15 @@ Pluriservices :
 
 - 19, rue des Chantiers, 44600 Saint-Nazaire : depuis sa création.
 
+RAMI (Représentations applications marines et industrielles), 67, boulevard de la Liberté, 44600 Saint-Nazaire : de 1976 à 1978
+
 Rineau :
 
 - 46, boulevard de la Prairie-au-Duc, 44000 Nantes : depuis sa création.
 
 SA Atelier de Trignac :
 
-- usine de Trignac, 44570 Trignac : de 1955 à 1970.
+- usine de Trignac, 44570 Trignac : de 1955 à 1975.
 
 SAFEN :
 
@@ -143,6 +145,10 @@ SAFEN :
 SEMT Mécanique :
 
 - avenue de Bourdelles, 44600 Saint-Nazaire : de 1944 à 1977.
+
+SERIM, quai des Frégates, 44600 Saint-Nazaire : de sa création à 1982.
+
+Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Nantes-Saint-Nazaire, 9, quai des Côteaux, BP 7, 44640 Le Pellerin. Siège social 18, quai Ernest-Renaud, BP 18609, 44186 Nantes Cedex 4 : de 1945 à 1998.
 
 SIDES :
 
@@ -187,6 +193,10 @@ SONAPEC/SOPENA :
 SONIP :
 
 - ZI de Jouy, 44480 Donges : depuis sa création.
+
+SOPIM, 29, rue des Chantiers, 44600 Saint-Nazaire : de sa création à 1978.
+
+SOPIM (Société de peintures industrielles et maritimes), 29, rue des Chantiers, 44600 Saint-Nazaire : depuis sa création à 1977.
 
 SPIE Trindel :
 
@@ -288,6 +298,8 @@ Chantier naval de Saint-Laurent-du-Var SA :
 
 - port de plaisance, 06706 Saint-Laurent Cedex : de 1990 à 1991.
 
+Chantier naval Voisin/SA Philip Coussens Trust Chantier naval de Villefranche, port de la Darse, 06230 Villefranche-sur-Mer : de 1969 à 1994.
+
 Chantiers navals des Baux :
 
 - quai Wilson, 83110 Sanary : depuis 1965.
@@ -309,6 +321,8 @@ Chreatech, zone d'entreprise des Playes-Jean-Monnet, 83500 La Seyne-sur-Mer : de
 Cobra maintenance :
 
 - 62-64, rue Forbin, 13002 Marseille : depuis 1974.
+
+Compagnie commerciale d'électronique (CCE), ZAC de l'Anjoly, avenue de l'Europe, Techno Avenue, 13127 Vitrolles : depuis sa création.
 
 Compagnie marine hydraulique :
 
@@ -334,7 +348,7 @@ Cotre :
 
 - traverse de l'Aqueduc, puis 108, avenue de Saint-Louis au Rove, 13015 Marseille : depuis 1950.
 
-Covini SA, puis Covini SN, puis Covini Entreprise SA, ZI Camp-Laurent, 83500 La Seyne-sur-Mer, puis 525, ZI Les Négadoux, 83140 Six-Fours-les-Plages : depuis 1970.
+Covini SA/Covini SN/Covini Entreprise SA, ZI Camp-Laurent, 83500 La Seyne-sur-Mer, puis 525, chemin des Négadoux, 83140 Six-Fours-les-Plages : depuis 1970
 
 CPM (Compagnie provençale de mécanique), boulevard Toussaint-Merle, site Marépolis, 83500 La Seyne-sur-Mer : de 1989 à 1996.
 
@@ -357,6 +371,8 @@ Dewco Provence :
 Durbec et Cie :
 
 - 22, boulevard Mouren, 13015 Marseille : de 1950 à 1972.
+
+Etablissement Dalmas/Dalmas production, zone industrielle Les Paluds, 711, avenue de la Fleuride, 13685 Aubagne Cedex : depuis 1950.
 
 ETIM Les Amandières :
 
@@ -478,9 +494,7 @@ Les Ateliers napoulais :
 
 - port Mandelieu-la-Napoule, 06210 Mandelieu-la-Napoule : depuis 1977.
 
-LIPSUDEST :
-
-- 13240 Septèmes-les-Vallons : de 1980 à 1983.
+LIPSUDEST/LIPS France, 13240 Septèmes-les-Vallons : de 1962 à 1990.
 
 Lovera menuiserie, avenue Fréderic-Mistral, 83500 La Seyne-sur-Mer : de 1962 à 1982.
 
@@ -576,9 +590,7 @@ Risolo :
 
 - 180, avenue du Rove, 13015 Marseille : depuis 1975.
 
-Riviera Yacht service :
-
-- port de Plaisance, 06310 Beaulieu-sur-Mer : de 1969 à 1999.
+Riviera yacht services/SA chantier naval de Saint-Laurent-du-Var/SA Monaco marine France, port de plaisance, 06310 Beaulieu-sur-Mer : depuis 1969.
 
 SA Baumier frères, puis SA Baumier, avenue de Font-Pré prolongée, puis 1600, avenue de Draguignan, ZI Toulon-Est, 83079 Toulon Cedex : de 1970 à 1984.
 
@@ -606,6 +618,10 @@ Service d'exploitation gestion de l'outillage et des engins de radoub (GOER) et 
 
 SNI (Sud navires industries), boulevard Philippe-Giovannini, 83500 La Seyne-sur-Mer : de 1996 à 1999.
 
+Société Etude et maintenance hydraulique (EHM), 8, boulevard Mirabeau, 13002 Marseille : depuis 1988.
+
+Société Fovelev marine, ZI de Brégaillon, 83500 La Seyne-sur-Mer : depuis sa création.
+
 Société industrielle de Provence/Chaudronnerie mécanique de Provence, 32, avenue Victor-Hugo, 13600 La Ciotat, et ZI de Roumagoua, 13600 La Ciotat : de 1968 à 1997.
 
 Société Port-Pin-Rolland, 18, chemin Départemental, 83430 Saint-Mandrier : de 1974 à 1980.
@@ -620,7 +636,7 @@ Société SARTEC :
 
 - ZI du Camp Laurent, 1659, avenue Robert-Brun, 83500 La Seyne : de 1989 à 1994, puis
 
-Société SIMAT SARTEC :
+Société CIMAT SARTEC :
 
 - ZI du Camp Laurent, 1659, avenue Robert-Brun, 83500 La Seyne : depuis 1994.
 
@@ -812,6 +828,8 @@ Universal Yachting :
 
 - 1re-Avenue, îlot U, ZI, 06510 Carros : depuis 1984.
 
+Task International, zone industrielle Camp-Laurent, 83500 La Seyne-sur-Mer, puis 6, avenue du Général-de-Gaulle, 78000 Versailles : depuis sa création à 1995.
+
 TTPN (Tous travaux de peinture et de nettoyage), 30, rue des Phocéens, 13002 Marseille, et 7, rue Pasteur-Heuzé, 13003 Marseille : de 1978 à 1994.
 
 Var Industrie :
@@ -822,9 +840,17 @@ Wartsila Diesel Normed/Wartsila Diesel France/SACM Diesel/Wartsila SACM Diesel/W
 
 Poitou-Charentes
 
+Atelier et chantiers de La Rochelle-Pallice (ACRP)/SNACRP, quai Sud, rue de la Côte-d'Ivoire, 17000 La Rochelle-Pallice : de 1923 à 1990.
+
 BFA :
 
 - 14, rue des Carmes, 17000 La Rochelle : depuis 1976.
+
+IMC, route de Surgère, 17430 Tonnay-Charente : de 1978 à 1990.
+
+SARL rochelaise d'isolation (SRI), 15, rue Joseph-Cugnot, 17180 Périgny : de 1977 à 1992.
+
+Seta-Tardivel, rue de la Côte-d'Ivoire, 17000 La Rochelle-Pallice : depuis sa création.
 
 STIMA (Société technique pour l'industrie et la marine), 16-20, rue de la Côte-d'Ivoire, 17000 La Rochelle-La Pallice : depuis 1958.
 
