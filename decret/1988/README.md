@@ -130,6 +130,8 @@
 - [Décret n°88-840 du 21 juillet 1988 (SPOX8800108D)](decret-n88-840-du-21-juillet-1988-spox8800108d)
 - [Décret n°88-841 du 21 juillet 1988 (ECOT8811031D)](decret-n88-841-du-21-juillet-1988-ecot8811031d)
 - [Décret n°88-846 du 21 juillet 1988 (MAEJ8830046D)](decret-n88-846-du-21-juillet-1988-maej8830046d)
+- [Décret n°88-1054 du 22 novembre 1988 (ECOX8800152D)](decret-n88-1054-du-22-novembre-1988-ecox8800152d)
+- [Décret n°88-1057 du 22 novembre 1988 (SPSS8801339D)](decret-n88-1057-du-22-novembre-1988-spss8801339d)
 - [Décret n°88-452 du 22 avril 1988 (ASEP8800369D)](decret-n88-452-du-22-avril-1988-asep8800369d)
 - [Décret n°88-766 du 22 juin 1988 (ECOF8800007D)](decret-n88-766-du-22-juin-1988-ecof8800007d)
 - [Décret n°88-771 du 22 juin 1988 (JUSC8820430D)](decret-n88-771-du-22-juin-1988-jusc8820430d)

@@ -133,6 +133,7 @@
 - [Arrêté du 6 juin 1988 (MENL8800868A)](arrete-du-6-juin-1988-menl8800868a)
 - [Arrêté du 6 octobre 1988 (ECOT8816058A)](arrete-du-6-octobre-1988-ecot8816058a)
 - [Arrêté du 6 octobre 1988 (MENU8801861A)](arrete-du-6-octobre-1988-menu8801861a)
+- [Arrêté du 6 octobre 1988 (MENU8802067A)](arrete-du-6-octobre-1988-menu8802067a)
 - [Arrêté du 6 octobre 1988 (SPSH8801567A)](arrete-du-6-octobre-1988-spsh8801567a)
 - [Arrêté du 6 septembre 1988 (BUDR8803084A)](arrete-du-6-septembre-1988-budr8803084a)
 - [Arrêté du 6 septembre 1988 (ECOT8810031A)](arrete-du-6-septembre-1988-ecot8810031a)
