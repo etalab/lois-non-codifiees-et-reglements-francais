@@ -333,7 +333,6 @@
 - [Arrêté du 18 août 1988 (AGRS8801508A)](arrete-du-18-aout-1988-agrs8801508a)
 - [Arrêté du 18 août 1988 (MENK8870035A)](arrete-du-18-aout-1988-menk8870035a)
 - [Arrêté du 18 août 1988 (MENU8801529A)](arrete-du-18-aout-1988-menu8801529a)
-- [Arrêté du 18 août 1988 (SPSS8801253A)](arrete-du-18-aout-1988-spss8801253a)
 - [Arrêté du 18 avril 1988 (AGRB8800727A)](arrete-du-18-avril-1988-agrb8800727a)
 - [Arrêté du 18 avril 1988 (ASEE8803350A)](arrete-du-18-avril-1988-asee8803350a)
 - [Arrêté du 18 avril 1988 (ASEE8803355A)](arrete-du-18-avril-1988-asee8803355a)
