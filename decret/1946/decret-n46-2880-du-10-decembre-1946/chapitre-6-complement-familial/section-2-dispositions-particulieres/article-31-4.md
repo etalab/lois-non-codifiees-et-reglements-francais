@@ -1,0 +1,7 @@
+# Article 31-4
+
+I - Lorsque la personne ou l'un des conjoints ou concubins se trouve depuis deux mois consécutifs en chômage total indemnisé en application des articles L. 351-10, L. 351-18 ou L. 351-19 du code du travail ou en chômage partiel indemnisé en application de l'article L. 352 du code du travail ou en vertu de régimes particuliers à la profession et que cette situation entraîne une diminution des ressources d'au moins 20 p. 100, les ressources perçues par l'intéressé pendant l'année civile de référence sont, tant que dure cette situation, affectées d'un abattement de 30 p. 100 en cas de chômage total, de 20 p. 100 en cas de chômage partiel. Cette mesure s'applique au premier jour du mois au cours duquel survient le changement de situation.
+
+Lorsque l'intéressé s'est déjà trouvé en chômage total ou partiel au cours de l'année civile de référence, l'abattement ne porte que sur les revenus d'activité éventuellement perçus par l'intéressé au cours de ladite année.
+
+II - Lorsque la personne ou l'un des conjoints ou concubins en chômage total depuis au moins deux mois consécutifs ne bénéficie pas ou ne bénéficie plus d'une indemnisation dans les conditions fixées au premier alinéa du I ci-dessus, il n'est pas tenu compte, à compter du premier jour du mois au cours duquel survient le changement de situation ou la cessation de l'indemnisation et tant que cette situation se prolonge, des ressources perçues par l'intéressé au cours de l'année civile de référence.

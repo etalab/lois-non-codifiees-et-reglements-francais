@@ -1,0 +1,3 @@
+# BAREME ANNEXE AU DECRET N° 78-321 DU 14 MARS 1978
+
+- [APPLICATION DE L'ARTICLE 6.](application-de-l-article-6)

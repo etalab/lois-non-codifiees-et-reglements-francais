@@ -8,7 +8,7 @@ Sa date ;
 
 Le nom ou la raison sociale de l'entreprise, avec son numéro d'immatriculation à l'institut national de la statistique et des enquêtes économiques ;
 
-Une référence à la justification d'aptitude fournie en application des dispositions de l'article 39 ci-après. Si l'entreprise est une personne morale, le nom de son représentant légal pour lequel elle a fourni cette justification ;
+Le nom de la personne physique pour laquelle, en application des dispositions de l'article 46, est fournie la justification d'aptitude à l'exercice de la profession. Si l'entreprise est une personne morale, le nom de son représentant légal pour lequel elle a fourni cette justification ;
 
 Le nombre des licences, définies aux articles 25 à 27 ci-après, de chaque classe et de chaque zone dont l'entreprise dispose, avec l'indication des mentions apposées sur ces licences ; les licences à renouvellement périodique et celles délivrées en application des dispositions du deuxième alinéa de l'article 29 ci-après seront distinguées et leurs dates d'expiration précisées ;
 

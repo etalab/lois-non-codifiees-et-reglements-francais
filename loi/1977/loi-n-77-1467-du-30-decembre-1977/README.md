@@ -1,6 +1,7 @@
 # Loi n° 77-1467 du 30 décembre 1977 DE FINANCES POUR 1978 (1)
 
 - [NOUVEAU BAREME DE LA VIGNETTE AUTOMOBILE - OBLIGATION DU PORT D'UNE VIGNETTE D'UN TYPE SPECIAL POUR LES VOITURES DE SOCIETES OU D'ADMINISTRATION.](nouveau-bareme-de-la-vignette-automobile)
+- [Article 36](article-36.md)
 - [Article 66](article-66.md)
 - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES](impositions-percues-au)
 - [COMMUNAUTE ECONOMIQUE EUROPEENNE](communaute-economique-europeenne)
