@@ -4,7 +4,7 @@ Le conseil d'orientation et de surveillance est composé de neuf membres au moin
 
 Il comprend :
 
-1° Des membres élus au scrutin proportionnel par les maires, parmi les membres des conseils municipaux et les conseillers généraux du ressort géographique de la caisse ; l'un des décrets prévus à l'article 14 ci-après déterminera le nombre de voix de chaque maire en proportion du nombre d'habitants de sa commune ;
+1° Des membres élus par les maires, parmi les membres des conseils municipaux et les conseillers généraux du ressort géographique de la caisse ; l'un des décrets prévus à l'article 14 ci-après déterminera le nombre de voix de chaque maire en proportion du nombre d'habitants de sa commune ;
 
 2° Des membres élus par et parmi les salariés en activité dans la caisse au scrutin de liste à deux tours ; au premier tour de scrutin, les listes sont établies par les organisations syndicales représentatives dans la caisse d'épargne ; si, au premier tour, le nombre de votants est inférieur à la moitié des électeurs inscrits, il est procédé à  un second tour de scrutin pour lequel les électeurs peuvent voter pour des listes autres que celles présentées par les organisations syndicales ; tout syndicat affilié à une organisation syndicale représentative sur le plan national est réputé représentatif dans la caisse d'épargne et de prévoyance ;
 
