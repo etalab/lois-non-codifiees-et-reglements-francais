@@ -1,3 +1,0 @@
-# Article 58
-
-La procédure de mise en demeure instituée par l'article 68 du livre II du Code du travail [*art. L. 231-4*] est applicable aux prescriptions des articles 6, 44, 47 (par. 4) et 54 (par. 1) du présent décret [*identification des circuits, protection des zones présentent des risques d'explosion, surveillances des installations, vérification sur mise en demeure*]. A cet effet, le délai minimum prévu à l'article 69 du même livre [*art. L. 231-4, 4è al.*] est fixé respectivement à un mois pour l'application des prescriptions des articles 6 et 44 du présent décret et à quatre jours pour l'application des articles 47 (par. 4) et 54 (par. 1).

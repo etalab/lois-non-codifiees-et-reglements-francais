@@ -2,7 +2,9 @@
 
 Les présentes dispositions générales s'appliquent aux entreprises de maturation, mûrissage ou déverdissage de fruits et légumes dont les chambres contiennent des appareils de chauffage au gaz à flamme nue. Elles s'ajoutent aux prescriptions qui s'appliquent également à ces entreprises du fait de leur classement en tant qu'établissements dangereux, insalubres ou incommodes dans le cadre de la loi du 19 décembre 1917 relative auxdits établissements.
 
-COMMENTAIRE TECHNIQUE.    a) Les chambres [*définition*] sont des locaux de traitement à l'intérieur desquels s'effectue l'opération de maturation, mûrissage, ou déverdissage ;
+COMMENTAIRE TECHNIQUE.
+
+a) Les chambres sont des locaux de traitement à l'intérieur desquels s'effectue l'opération de maturation, mûrissage, ou déverdissage ;
 
 b) Les autres prescriptions réglementaires applicables aux entreprises visées sont fixées :
 

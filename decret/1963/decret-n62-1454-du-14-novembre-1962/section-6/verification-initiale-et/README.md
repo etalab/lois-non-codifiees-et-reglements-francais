@@ -1,3 +1,0 @@
-# VERIFICATION INITIALE ET PERIODIQUE
-
-- [Article 53](article-53.md)

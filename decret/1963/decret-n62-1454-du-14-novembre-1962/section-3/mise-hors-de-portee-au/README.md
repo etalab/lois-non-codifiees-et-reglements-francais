@@ -1,3 +1,0 @@
-# MISE HORS DE PORTEE AU MOYEN D'OBSTACLES.
-
-- [Article 18](article-18.md)

@@ -1,6 +1,6 @@
 # Article 1
 
-Les chefs d'établissements soumis aux prescriptions du décret du 14 novembre 1962 peuvent déroger aux dispositions de l'article 43 de ce décret interdisant la présence, dans les locaux présentant des dangers d'incendie, de canalisations électriques autres que celles nécessaires à l'alimentation et à la commande du matériel utilisé dans ces locaux, sous réserve [*condition préalable*] que les canalisations étrangères au local soient disposées ou protégées de telle manière qu'elles ne puissent en aucun cas être la cause d'un incendie.
+Les chefs d'établissements soumis aux prescriptions du décret du 14 novembre 1962 [*nouvellement décret 88-1056 du 14 novembre 1988*] peuvent déroger aux dispositions de l'article 43 de ce décret interdisant la présence, dans les locaux présentant des dangers d'incendie, de canalisations électriques autres que celles nécessaires à l'alimentation et à la commande du matériel utilisé dans ces locaux, sous réserve [*condition préalable*] que les canalisations étrangères au local soient disposées ou protégées de telle manière qu'elles ne puissent en aucun cas être la cause d'un incendie.
 
 On considère qu'il en est ainsi lorsque ces canalisations répondent simultanément aux trois conditions suivantes :
 

@@ -24,7 +24,7 @@ L'attention est attirée sur les trois points suivants :
 
 1° La publication UTE C 18-513 est un document professionnel par sa conception et sa rédaction ; il s'adresse plus à l'exécution, donc à l'ouvrier et surtout à la maîtrise. C'est pourquoi la notion de responsabilité, dont il est parfois fait mention dans ladite publication, n'est applicable dans le sens des présentes dispositions générales qu'au chef d'établissement ou à son préposé.
 
-2° La classification des tensions de courant adoptée par la publication UTE C 18-513 est différente de celle retenue dans le décret n° 62-1454 du 14 novembre 1962 ; il s'ensuit que, dans l'habilitation du personnel, il sera tenu compte de la classification des tensions de courant donnée par ce décret et c'est ainsi qu'aux habilitations B et H correspondent :
+2° La classification des tensions de courant adoptée par la publication UTE C 18-513 est différente de celle retenue dans le décret n° 62-1454 du 14 novembre 1962 [*nouvellement décret 88-1056 du 14 novembre 1988*]; il s'ensuit que, dans l'habilitation du personnel, il sera tenu compte de la classification des tensions de courant donnée par ce décret et c'est ainsi qu'aux habilitations B et H correspondent :
 
 B : les installations en classe BT, c'est-à-dire utilisant des        courants de tensions supérieures à 50 volts et inférieures        à 430 volts en courant alternatif et 600 volts en courant        continu ;
 

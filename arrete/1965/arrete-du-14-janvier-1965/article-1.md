@@ -8,7 +8,7 @@ Installations de la classe moyenne tension en courant alternatif et en courant c
 
 Installations de la classe basse tension en courant continu dans lesquelles les intensités mises en jeu dépassent mille ampères.
 
-Cette dérogation est accordée sous réserve [*condition préalable*] que soient réalisées, avant toute manoeuvre, les mesures de sécurité ci-après :
+Cette dérogation est accordée sous réserve que soient réalisées, avant toute manoeuvre, les mesures de sécurité ci-après :
 
 1° Les installations devront être consignées et condamnées ;
 

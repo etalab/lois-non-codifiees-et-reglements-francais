@@ -1,6 +1,6 @@
 # Article 1
 
-Par dérogation aux prescriptions des articles 10 et 16 du décret du 14 novembre 1962 relatif à la protection des travailleurs dans les établissements qui mettent en oeuvre des courants électriques, l'utilisation des installations de pêche à l'électricité destinées à la capture des poissons, qu'elles fonctionnent ou non à poste fixe, est subordonnée au respect de l'ensemble des mesures compensatrices suivantes :
+Par dérogation aux prescriptions des articles 10 et 16 du décret du 14 novembre 1962 [*nouvellement décret 88-1056 du 14 novembre 1988*] relatif à la protection des travailleurs dans les établissements qui mettent en oeuvre des courants électriques, l'utilisation des installations de pêche à l'électricité destinées à la capture des poissons, qu'elles fonctionnent ou non à poste fixe, est subordonnée au respect de l'ensemble des mesures compensatrices suivantes :
 
 1° Les tensions nominales mises en jeu ne doivent pas dépasser 1 000 volts (valeur crête). L'usage du courant alternatif comme courant de sortie est interdit. Seuls sont autorisés des courants unidirectionnels, du type continu lisse, du type redressé ou du type impulsionnel.
 
@@ -70,7 +70,7 @@ a) La pêche à l'électricité ne doit être pratiquée que par une équipe pla
 
 b) Tous les travailleurs présents sur le chantier de pêche doivent être équipés de bottes, cuissardes ou pantalons de pêche isolants pour la tension mise en jeu, et ceux qui participent à la capture du poisson ou à la manipulation de l'appareillage électrique doivent être, de plus, munis de gants isolants ;
 
-c) Le raccordement des câbles et des électrodes et l'immersion de la cathode ne doivent être effectués que lorsque le générateur est hors tension (interrupteur d'arrêt d'urgence en position " arrêt "). La même règle est applicable à tout déplacement des générateurs, à l'exception des générateurs du type décrit en 2° (a) ci-dessus lorsqu'ils sont utilisés fixés au dos de l'opérateur.
+c) Le raccordement des câbles et des électrodes et l'immersion de la cathode ne doivent être effectués que lorsque le générateur est hors tension (interrupteur d'arrêt d'urgence en position " arrêt ". La même règle est applicable à tout déplacement des générateurs, à l'exception des générateurs du type décrit en 2° (a) ci-dessus lorsqu'ils sont utilisés fixés au dos de l'opérateur.
 
 Dans le cas où l'on utilise plusieurs enrouleurs de câble, il est admis que ces enrouleurs supplémentaires puissent être connectés ou déconnectés, l'interrupteur d'arrêt d'urgence étant en position " marche ", sous la réserve expresse que le circuit de sortie du générateur soit hors tension, contacteur de télécommande ouvert par suite du relâchement de la pression sur l'interrupteur de commande de sécurité. Cette procédure simplifiée implique :
 

@@ -1,6 +1,0 @@
-# SECTION 5 : PREVENTION DES BRULURES, INCENDIES ET EXPLOSIONS D'ORIGINE ELECTRIQUE
-
-- [LOCAUX PRESENTANT DES DANGERS D'INCENDIE](locaux-presentant-des-dangers-d-incendie)
-- [REALISATION DES INSTALLATIONS.](realisation-des-installations)
-- [INTERRUPTEURS, COUPE-CIRCUIT, DISJONCTEURS, MATERIEL CONTENANT UN DIELECTRIQUE COMBUSTIBLE LIQUIDE.](interrupteurs-coupe-circuit-disjoncteurs-materiel-contenant-un)
-- [ZONES PRESENTANT DES RISQUES D'EXPLOSION](zones-presentant-des-risques-d-explosion)

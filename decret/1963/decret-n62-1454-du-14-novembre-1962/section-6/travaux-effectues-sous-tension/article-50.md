@@ -1,5 +1,0 @@
-# Article 50
-
-Par. 1. Dans le cas exceptionnel où on se trouve dans l'obligation d'effectuer les travaux sous tension, le personnel qui en est chargé doit être instruit des précautions à prendre pour éviter les dangers de l'électricité et doit disposer du matériel de sécurité nécessaire pour l'exécution des travaux, pour sa protection et pour la délimitation de la zone de travail.
-
-Par. 2. S'il s'agit d'une installation des classes MT ou HT, les travaux ne peuvent être entrepris que sur l'ordre du chef d'établissement ou de son préposé. Cet ordre, qui doit être donné par écrit sauf en cas d'urgence, doit stipuler la nature et la succession des opérations à effectuer ainsi que les précautions à observer. Une instruction de service indique pour les travaux courants les prescriptions à respecter. Dans le cas de travaux exceptionnels non visés par l'instruction de service, les travailleurs doivent être placés sous la surveillance constante d'un responsable habilité à cet effet qui doit veiller à ce que les mesures de sécurité prescrites soient prises.

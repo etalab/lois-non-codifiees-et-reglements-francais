@@ -1,8 +1,8 @@
 # Article 2
 
-Les demandes d'agrément doivent être adressées au ministre chargé du travail avant le 1er juin de chaque année, pour être susceptibles d'effet au 1er janvier de l'année suivante, par la personne ou le représentant responsable de l'organisme sollicitant l'agrément.
+Les demandes d'agrément doivent être adressées au ministre chargé du travail avant le 1er juin de chaque année [*date limite*], pour être susceptibles d'effet au 1er janvier de l'année suivante, par la personne ou le représentant responsable de l'organisme sollicitant l'agrément.
 
-A chaque demande d'agrément doivent être jointes les pièces ci-après :
+A chaque demande d'agrément doivent être jointes les pièces ci-après [*documents obligatoires*] :
 
 1° Une note indiquant :
 

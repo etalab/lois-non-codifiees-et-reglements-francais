@@ -1,0 +1,3 @@
+# SECTION 6 : EPREUVES, EXAMENS ET INSPECTIONS.
+
+- [Article 45](article-45.md)

@@ -1,6 +1,5 @@
-# Arrêté du 20 février 1981 relatif aux aides de l'Etat à la construction de logements à vocation très sociale et à l'amélioration des logements dans les départements d'outre-mer.
+# Arrêté du 20 février 1981 portant dérogation aux dispositions du décret du 14 novembre 1962 en ce qui concerne les établissements de construction et de réparations de navires.
 
-- [IX - Aides de l'Etat à l'amélioration des logements](ix)
-- [X - Répétition des subventions](x)
-- [XI - Dispositions diverses](xi)
-- [Article 30](article-30.md)
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)

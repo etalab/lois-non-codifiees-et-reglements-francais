@@ -1,3 +1,0 @@
-# RESISTANCES DE TERRE, CONDUCTEURS DE TERRE.
-
-- [Article 13](article-13.md)
