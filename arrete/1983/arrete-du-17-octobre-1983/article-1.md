@@ -22,7 +22,7 @@ I - En ce qui concerne la mère :
 
 9. Agglutinines irrégulières.
 
-10. Numération globulaire.
+10. Examen cytologique du sang (hémogramme).
 
 11. Examen cytobactériologique des urines.
 
@@ -38,11 +38,13 @@ I - En ce qui concerne la mère :
 
 17. Sérodiagnostic VIH pendant la grossesse.
 
+18. Hémoglobine glycosylée (dans le cadre de la surveillance, à l'exclusion du dépistage).
+
 II - En ce qui concerne l'enfant :
 
 1. Groupe standard et rhésus.
 
-2. Numération globulaire.
+2. Examen cytologique du sang (hémogramme).
 
 3. Bilirubine dans le sang du cordon.
 
@@ -57,3 +59,7 @@ II - En ce qui concerne l'enfant :
 8. Glycémie, Calcémie.
 
 9. Phénotype Rhésus complet et Kell.
+
+10. Sérodiagnostic de la toxoplasmose.
+
+11. C Réactive protéine (CRP).
