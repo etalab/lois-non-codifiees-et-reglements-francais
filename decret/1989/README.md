@@ -1,6 +1,9 @@
 # 1989
 
 - [Décret n°67-759 du 1 septembre 1967](decret-n67-759-du-1-septembre-1967)
+- [Décret n°89-132 du 1 mars 1989 (EQUX8900026D)](decret-n89-132-du-1-mars-1989-equx8900026d)
+- [Décret n°89-136 du 1 mars 1989 (MCCK8900092D)](decret-n89-136-du-1-mars-1989-mcck8900092d)
+- [Décret n°89-137 du 1 mars 1989 (MCCK8900093D)](decret-n89-137-du-1-mars-1989-mcck8900093d)
 - [Décret n°89-609 du 1 septembre 1989 (SPSH8901734D)](decret-n89-609-du-1-septembre-1989-spsh8901734d)
 - [Décret n°89-610 du 1 septembre 1989 (SPSH8901735D)](decret-n89-610-du-1-septembre-1989-spsh8901735d)
 - [Décret n°89-611 du 1 septembre 1989 (SPSH8901731D)](decret-n89-611-du-1-septembre-1989-spsh8901731d)
@@ -9,6 +12,7 @@
 - [Décret n°89-614 du 1 septembre 1989 (SPSH8901737D)](decret-n89-614-du-1-septembre-1989-spsh8901737d)
 - [Décret n°88-906 du 2 septembre 1988 (JUSC8820528D)](decret-n88-906-du-2-septembre-1988-jusc8820528d)
 - [Décret n°89-1 du 2 janvier 1989 (MENU8802576D)](decret-n89-1-du-2-janvier-1989-menu8802576d)
+- [Décret n°89-140 du 2 mars 1989 (SPSH8801878D)](decret-n89-140-du-2-mars-1989-spsh8801878d)
 - [Décret n°89-20 du 2 janvier 1989 (BUDB8820023D)](decret-n89-20-du-2-janvier-1989-budb8820023d)
 - [Décret n°89-533 du 2 août 1989 (MENF8901207D)](decret-n89-533-du-2-aout-1989-menf8901207d)
 - [Décret n°75-142 du 3 mars 1975](decret-n75-142-du-3-mars-1975)

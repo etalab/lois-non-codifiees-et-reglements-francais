@@ -6,4 +6,6 @@ Le mandat des membres élus par le conseil général expire lors de chaque renou
 
 En cas de suspension ou de dissolution du conseil général, du conseil municipal ou du conseil d'administration d'un organisme de sécurité sociale, le mandat est continué jusqu'au jour du remplacement des membres en cause du conseil d'administration par la nouvelle assemblée.
 
-La durée du mandat des représentants du personnel et des personnes nommées par le préfet est fixée à trois ans.
+Le mandat des membres désignés par les organisations syndicales les plus représentatives expire lors de chaque renouvellement des commissions administratives paritaires départementales ; lorsque les représentants du personnel sont élus, la durée de leur mandat est fixée à trois ans.
+
+La durée du mandat des personnes nommées par le préfet est fixée à trois ans.
