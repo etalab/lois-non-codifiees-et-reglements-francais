@@ -78,6 +78,7 @@
 - [Arrêté du 21 décembre 1998 (DEFE9855029A)](arrete-du-21-decembre-1998-defe9855029a)
 - [Arrêté du 21 décembre 1998 (MESP9824014A)](arrete-du-21-decembre-1998-mesp9824014a)
 - [Arrêté du 21 janvier 1999 (EQUA9900098A)](arrete-du-21-janvier-1999-equa9900098a)
+- [Arrêté du 22 décembre 1998 (INTB9900016A)](arrete-du-22-decembre-1998-intb9900016a)
 - [Arrêté du 22 décembre 1998 (MENA9803060A)](arrete-du-22-decembre-1998-mena9803060a)
 - [Arrêté du 22 décembre 1998 (MESS9821091A)](arrete-du-22-decembre-1998-mess9821091a)
 - [Arrêté du 22 décembre 1998 (MESS9824075A)](arrete-du-22-decembre-1998-mess9824075a)
