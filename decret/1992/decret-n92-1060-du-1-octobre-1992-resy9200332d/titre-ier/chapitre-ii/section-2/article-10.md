@@ -8,4 +8,6 @@ Quatre personnalités appartenant aux instances d'évaluation, nommées sur prop
 
 Quatre personnalités scientifiques appartenant ou non au Cemagref, nommées sur proposition du directeur général.
 
-Ces personnalités doivent être de rang au moins égal à celui des emplois à pourvoir. Parmi ces huit personnalités, cinq au moins doivent appartenir au personnel de l'établissement.
+Ces personnalités doivent être de rang au moins égal à celui des emplois à pourvoir.
+
+Parmi ces huit personnalités, cinq au moins doivent appartenir au personnel de l'établissement. Toutefois, par dérogation à cette règle, lorsqu'il n'existe aucun membre élu de l'instance d'évaluation d'un rang au moins égal à celui des postes à pourvoir, il peut être fait appel à une personnalité qualifiée extérieure à l'établissement, désignée après avis des représentants du personnel au comité scientifique et technique.
