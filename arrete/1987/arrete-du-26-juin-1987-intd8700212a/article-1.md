@@ -1,0 +1,3 @@
+# Article 1
+
+La pièce de l'état civil à produire pour la délivrance de la carte nationale d'identité est l'extrait d'acte de naissance du demandeur, comportant l'indication de la filiation de celui-ci et tel qu'il est prévu par l'article 11 du décret n° 62-921 du 3 août 1962 modifiant certaines règles relatives aux actes de l'état civil, modifié par le décret n° 68-148 du 15 février 1968 portant réforme du décret n° 62-921 du 3 août 1962 susvisé et par le décret n° 68-856 du 2 octobre 1968 complétant le livre Ier de la deuxième partie du code de procédure civile par un titre XIV relatif au répertoire civil.
