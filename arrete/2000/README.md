@@ -82,7 +82,6 @@
 - [Arrêté du 26 décembre 2000 (ECOD0040002A)](arrete-du-26-decembre-2000-ecod0040002a)
 - [Arrêté du 26 décembre 2000 (ECOI0000526A)](arrete-du-26-decembre-2000-ecoi0000526a)
 - [Arrêté du 26 décembre 2000 (ECOI0000583A)](arrete-du-26-decembre-2000-ecoi0000583a)
-- [Arrêté du 26 décembre 2000 (ECOI0000585A)](arrete-du-26-decembre-2000-ecoi0000585a)
 - [Arrêté du 26 décembre 2000 (ECOI0000599A)](arrete-du-26-decembre-2000-ecoi0000599a)
 - [Arrêté du 26 décembre 2000 (ECOI0000601A)](arrete-du-26-decembre-2000-ecoi0000601a)
 - [Arrêté du 26 décembre 2000 (ECOT0094889A)](arrete-du-26-decembre-2000-ecot0094889a)
