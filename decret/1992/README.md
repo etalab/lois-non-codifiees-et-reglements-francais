@@ -33,7 +33,6 @@
 - [Décret n°92-364 du 1 avril 1992 (INTB9200135D)](decret-n92-364-du-1-avril-1992-intb9200135d)
 - [Décret n°92-365 du 1 avril 1992 (INTB9200136D)](decret-n92-365-du-1-avril-1992-intb9200136d)
 - [Décret n°92-366 du 1 avril 1992 (INTB9200137D)](decret-n92-366-du-1-avril-1992-intb9200137d)
-- [Décret n°92-367 du 1 avril 1992 (INTB9200138D)](decret-n92-367-du-1-avril-1992-intb9200138d)
 - [Décret n°92-368 du 1 avril 1992 (INTD9200139D)](decret-n92-368-du-1-avril-1992-intd9200139d)
 - [Décret n°92-369 du 1 avril 1992 (AGRS9200273D)](decret-n92-369-du-1-avril-1992-agrs9200273d)
 - [Décret n°92-371 du 1 avril 1992 (SANH9200725D)](decret-n92-371-du-1-avril-1992-sanh9200725d)
