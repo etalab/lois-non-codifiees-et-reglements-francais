@@ -1,3 +1,0 @@
-# Article 8
-
-Lorsque l'activité professionnelle du demandeur s'est exercée dans un territoire qui était antérieurement placé sous la souveraineté, le protectorat ou la tutelle de la France, la preuve de l'exercice de cette activité, pour la durée qui est nécessaire pour parfaire le délai de quinze ans prévu au deuxième alinéa de l'article 10 de la loi du 13 juillet 1972, peut être administrée par tous moyens, notamment la certification de l'inscription au registre du commerce, de l'assujettissement à la patente ou aux impôts et taxes perçus au profit des chambres de commerce ou de la qualité d'électeur à ladite chambre.
