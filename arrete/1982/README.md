@@ -30,6 +30,7 @@
 - [Arrêté du 17 septembre 1982](arrete-du-17-septembre-1982)
 - [Arrêté du 18 mars 1982](arrete-du-18-mars-1982)
 - [Arrêté du 19 avril 1982](arrete-du-19-avril-1982)
+- [Arrêté du 19 mars 1982](arrete-du-19-mars-1982)
 - [Arrêté du 20 janvier 1982](arrete-du-20-janvier-1982)
 - [Arrêté du 21 décembre 1981](arrete-du-21-decembre-1981)
 - [Arrêté du 21 janvier 1982](arrete-du-21-janvier-1982)

@@ -1,11 +1,9 @@
 # Article 4
 
-L'appellation contrôlée "Cahors" ne sera accordée que dans la limite de 45 hectolitres par hectare de vigne en production.
+Ne peuvent prétendre à l'appellation d'origine contrôlée "Cahors" que les vins répondant aux conditions du décret modifié susvisé n° 74-872 du 19 octobre 1974.
 
-Cette limite peut être modifiée chaque année, suivant la quantité et la qualité de la récolte, par décision du comité directeur de l'institut national des appellations d'origine des vins et eaux-de-vie, homologuée par arrêté du ministre de l'agriculture, après consultation d'une commission de cinq membres nommés par l'institut national des appellations d'origine sur proposition du syndicat de défense de l'appellation adoptée par une assemblée générale dudit syndicat.
+Le rendement de base visé à l'article 1er de ce décret est fixé à 50 hectolitres à l'hectare.
 
-Les augmentations du rendement de base ne sont accordées qu'en année exceptionnelle où qualité et quantité se présentent simultanément.
+Le pourcentage prévu à son article 3 est fixé à 20 p. 100 conformément au décret modifié susvisé n° 74-958 du 20 novembre 1974.
 
-Les quantités excédentaires sont déclassées. Toutefois des dérogations individuelles peuvent être accordées par l'institut national des appellations d'origine après vérification de la qualité de la récolte et des conditions de production. Les demandes doivent être présentées avant le 15 décembre de l'année de la récolte.
-
-Les jeunes vignes ne peuvent entrer dans le décompte de la surface plantée qu'à partir de la quatrième feuille (celle-ci comprise) après greffage sur place ou après mise en place des racinés-greffés.
+Les vins des jeunes vignes ne peuvent bénéficier de l'appellation contrôlée qu'à partir de la troisième année suivant celle au cours de laquelle la plantation a été réalisée en place avant le 31 août.
