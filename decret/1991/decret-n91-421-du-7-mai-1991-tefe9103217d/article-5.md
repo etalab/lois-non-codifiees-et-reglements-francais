@@ -1,6 +1,6 @@
 # Article 5
 
-L'aide financée sur le chapitre 44-74, article 70, du budget du ministère du travail, de l'emploi et de la formation professionnelle est de 36 000 F par an et par poste de travail occupé par des personnes en insertion [*montant*]. Elle est proratisée en fonction de la durée d'occupation du poste. Elle ne peut se cumuler pour un même poste avec une autre aide à l'emploi financée sur le budget de ce même ministère. Son montant est revalorisé au 1er janvier de chaque année.
+L'aide financée sur le chapitre 44-74, article 70, du budget du ministère du travail, de l'emploi et de la formation professionnelle est de 38 000 F par an et par poste de travail occupé par des personnes en insertion [*montant*]. Elle est proratisée en fonction de la durée d'occupation du poste. Elle ne peut se cumuler pour un même poste avec une autre aide à l'emploi financée sur le budget de ce même ministère. Son montant est revalorisé au 1er janvier de chaque année.
 
 La moitié de cette aide est versée à la prise d'effet de la convention, le solde étant versé au vu d'un bilan d'évaluation annuel.
 
