@@ -1,0 +1,7 @@
+# Article 37
+
+I.  Les pensions de réversion qui incombent au régime général, au régime des assurances sociales agricoles, au régime des professions artisanales, industrielles et commerciales, les pensions d'invalidité ou de vieillesse de veuve ou de veuf dues par le régime général et le régime des assurances sociales agricoles, ainsi que les pensions de veuve et de veuf incombant au régime applicable dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, sont majorées forfaitairement de 3,846 p. 100 à compter du 1er janvier 1995 lorsqu'elles ont pris effet avant cette date.
+
+II.  Cette majoration s'applique au montant des pensions calculées avant qu'elles n'aient été portées éventuellement, selon le cas, au montant minimum des pensions d'invalidité et de vieillesse de veuve ou de veuf prévu au premier alinéa de l'article L. 342-4 du code de la sécurité sociale, au montant minimum des pensions de réversion prévu au deuxième alinéa de l'article L. 353-1 du même code ou au montant minimum des pensions de veuve ou de veuf prévu au premier alinéa de l'article L. 357-10 du même code.
+
+III.  Les pensions ainsi majorées ne peuvent toutefois être cumulées avec des avantages personnels de vieillesse, d'invalidité ou d'accident du travail que dans les limites prévues, selon le cas, au second alinéa de l'article L. 342-1 ou au dernier alinéa de l'article L.353-1 du code de la sécurité sociale, en vigueur à la date de leur dernière application.

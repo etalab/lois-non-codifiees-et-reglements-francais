@@ -4,17 +4,23 @@ Le fonctionnaire en activité a droit :
 
 1° A un congé annuel avec traitement dont la durée est fixée par décret en Conseil d'Etat.
 
-Le fonctionnaire territorial originaire des départements de Guadeloupe, de Guyane, de Martinique, de la Réunion et de Saint-Pierre-et-Miquelon exerçant en métropole bénéficie du régime de congé institué pour les fonctionnaires de l'Etat.    2° A des congés de maladie dont la durée totale peut atteindre un an pendant une période de douze mois consécutifs en cas de maladie dûment constatée mettant l'intéressé dans l'impossibilité d'exercer ses fonctions. Celui-ci conserve alors l'intégralité de son traitement pendant une durée de trois mois ; ce traitement est réduit de moitié pendant les neuf mois suivants. Le fonctionnaire conserve, en outre, ses droits à la totalité du supplément familial de traitement et de l'indemnité de résidence.
+Le fonctionnaire territorial originaire des départements de Guadeloupe, de Guyane, de Martinique, de la Réunion et de Saint-Pierre-et-Miquelon exerçant en métropole bénéficie du régime de congé institué pour les fonctionnaires de l'Etat.
+
+2° A des congés de maladie dont la durée totale peut atteindre un an pendant une période de douze mois consécutifs en cas de maladie dûment constatée mettant l'intéressé dans l'impossibilité d'exercer ses fonctions. Celui-ci conserve alors l'intégralité de son traitement pendant une durée de trois mois ; ce traitement est réduit de moitié pendant les neuf mois suivants. Le fonctionnaire conserve, en outre, ses droits à la totalité du supplément familial de traitement et de l'indemnité de résidence.
 
 Toutefois, si la maladie provient de l'une des causes exceptionnelles prévues à l'article L. 27 du code des pensions civiles et militaires de retraite ou d'un accident survenu dans l'exercice ou à l'occasion de l'exercice de ses fonctions, le fonctionnaire conserve l'intégralité de son traitement jusqu'à ce qu'il soit en état de reprendre son service ou jusqu'à la mise à la retraite. Il a droit, en outre, au remboursement des honoraires médicaux et des frais directement entraînés par la maladie ou l'accident.
 
 Dans le cas visé à l'alinéa précédent, l'imputation au service de l'accident est appréciée par la commission de réforme instituée par le régime des pensions des agents des collectivités locales.
 
-La collectivité et subrogée dans les droits éventuels du fonctionnaire victime d'un accident provoqué par un tiers jusqu'à concurrence du montant des charges qu'elle a supportées ou supporte du fait de cet accident. Elle est admise à poursuivre directement contre le responsable du dommage ou son assureur le remboursement des charges patronales afférentes aux rémunérations maintenues ou versées audit fonctionnaire pendant la période d'indisponibilité de celui-ci par dérogation aux dispositions de l'article 2 de l'ordonnance n° 59-76 du 7 janvier 1959 relative aux actions en réparation civile de l'Etat et de certaines autres personnes publiques ;    3° A des congés de longue maladie d'une durée maximale de trois ans dans les cas où il est constaté que la maladie met l'intéressé dans l'impossibilité d'exercer ses fonctions, rend nécessaires un traitement et des soins prolongés et présente un caractère invalidant et de gravité confirmée. Le fonctionnaire conserve l'intégralité de son traitement pendant un an ; le traitement est réduit de moitié pendant les deux années qui suivent. L'intéressé conserve, en outre, ses droits à la totalité du supplément familial de traitement et de l'indemnité de résidence.
+La collectivité et subrogée dans les droits éventuels du fonctionnaire victime d'un accident provoqué par un tiers jusqu'à concurrence du montant des charges qu'elle a supportées ou supporte du fait de cet accident. Elle est admise à poursuivre directement contre le responsable du dommage ou son assureur le remboursement des charges patronales afférentes aux rémunérations maintenues ou versées audit fonctionnaire pendant la période d'indisponibilité de celui-ci par dérogation aux dispositions de l'article 2 de l'ordonnance n° 59-76 du 7 janvier 1959 relative aux actions en réparation civile de l'Etat et de certaines autres personnes publiques ;
+
+3° A des congés de longue maladie d'une durée maximale de trois ans dans les cas où il est constaté que la maladie met l'intéressé dans l'impossibilité d'exercer ses fonctions, rend nécessaires un traitement et des soins prolongés et présente un caractère invalidant et de gravité confirmée. Le fonctionnaire conserve l'intégralité de son traitement pendant un an ; le traitement est réduit de moitié pendant les deux années qui suivent. L'intéressé conserve, en outre, ses droits à la totalité du supplément familial de traitement et de l'indemnité de résidence.
 
 Le fonctionnaire qui a obtenu un congé de longue maladie ne peut bénéficier d'un autre congé de cette nature s'il n'a pas auparavant repris l'exercice de ses fonctions pendant un an.
 
-Les dispositions des deuxième, troisième et quatrième alinéas du 2° du présent article sont applicables aux congés de longue maladie ;    4° A des congés de longue durée, en cas de tuberculose, maladie mentale, affection cancéreuse ou de poliomyélite, de trois ans à plein traitement et de deux ans à demi-traitement. Le fonctionnaire conserve ses droits à la totalité du supplément familial de traitement et de l'indemnité de résidence.
+Les dispositions des deuxième, troisième et quatrième alinéas du 2° du présent article sont applicables aux congés de longue maladie ;
+
+4° A des congés de longue durée, en cas de tuberculose, maladie mentale, affection cancéreuse ou de poliomyélite, de trois ans à plein traitement et de deux ans à demi-traitement. Le fonctionnaire conserve ses droits à la totalité du supplément familial de traitement et de l'indemnité de résidence.
 
 Si la maladie ouvrant droit à congé de longue durée a été contractée dans l'exercice des fonctions, les périodes fixées ci-dessus sont respectivement portées à cinq ans et trois ans.
 
@@ -22,7 +28,21 @@ Sauf dans le cas où le fonctionnaire ne peut être placé en congé de longue m
 
 Sur demande de l'intéressé, l'administration a la faculté, après avis du comité médical, de maintenir en congé de longue maladie le fonctionnaire qui peut prétendre à un congé de longue durée ;
 
-Les dispositions de la deuxième phrase du quatrième alinéa du 2° du présent article sont applicables aux congés de longue durée.    5° Au congé pour maternité, ou pour adoption, avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale ;
+Les dispositions de la deuxième phrase du quatrième alinéa du 2° du présent article sont applicables aux congés de longue durée.
+
+" 4° bis. Après un congé de longue maladie ou de longue durée, les fonctionnaires peuvent être autorisés, après avis du comité médical compétent, à accomplir un service à mi-temps pour raison thérapeutique, accordé pour une période de trois mois et renouvelable dans la limite d'un an par affection ayant ouvert droit à congé de longue maladie ou congé de longue durée.
+
+" Après un congé pour accident de service ou maladie contractée dans l'exercice des fonctions, le travail à mi-temps thérapeutique peut être accordé pour une période d'une durée maximale de six mois renouvelable une fois, après avis favorable de la commission de réforme compétente.
+
+" Le mi-temps thérapeutique peut être accordé :
+
+" - soit parce que la reprise des fonctions à mi-temps est reconnue comme étant de nature à favoriser l'amélioration de l'état de santé de l'intéressé ;
+
+" - soit parce que l'intéressé doit faire l'objet d'une rééducation ou d'une réadaptation professionnelle pour retrouver un emploi compatible avec son état de santé.
+
+" Les fonctionnaires autorisés à travailler à mi-temps pour raison thérapeutique perçoivent l'intégralité de leur traitement. "
+
+5° Au congé pour maternité, ou pour adoption, avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale ;
 
 6° Au congé de formation professionnelle ;
 

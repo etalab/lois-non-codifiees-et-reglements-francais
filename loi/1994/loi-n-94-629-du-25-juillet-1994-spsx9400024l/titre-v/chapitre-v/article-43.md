@@ -1,0 +1,9 @@
+# Article 43
+
+I. ...
+
+II. ...
+
+III. ...
+
+IV. Les dispositions du présent article sont applicables par les organismes payeurs, au fur et à mesure de leurs possibilités de gestion, à des dates fixées par arrêté du ministre chargé de la sécurité sociale et au plus tard le 1er janvier 1997.

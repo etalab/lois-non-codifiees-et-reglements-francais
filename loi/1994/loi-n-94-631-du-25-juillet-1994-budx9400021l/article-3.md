@@ -1,0 +1,3 @@
+# Article 3
+
+Pour les autorisations et conventions en cours, les dispositions de la présente loi ne sont applicables, le cas échéant, qu'aux ouvrages, constructions et installations que le permissionnaire ou le concessionnaire réaliserait après renouvellement ou modification de son titre. Toutefois, lorsque le permissionnaire ou le concessionnaire réalise des travaux et des constructions réhabilitant, étendant ou modifiant de façon substantielle les ouvrages, constructions et installations existants, il peut lui être délivré un nouveau titre conférant un droit réel sur ces ouvrages, constructions et installations lorsqu'ils ont été autorisés par le titre d'occupation.
