@@ -133,6 +133,7 @@
 - [Décret n°96-713 du 7 août 1996 (MAEJ9630034D)](decret-n96-713-du-7-aout-1996-maej9630034d)
 - [Décret n°96-715 du 7 août 1996 (MAEJ9630039D)](decret-n96-715-du-7-aout-1996-maej9630039d)
 - [Décret n°96-724 du 7 août 1996 (MAEJ9630033D)](decret-n96-724-du-7-aout-1996-maej9630033d)
+- [Décret n°96-877 du 7 octobre 1996 (ECOT9613890D)](decret-n96-877-du-7-octobre-1996-ecot9613890d)
 - [Décret n°96-97 du 7 février 1996 (TASP9620056D)](decret-n96-97-du-7-fevrier-1996-tasp9620056d)
 - [Décret n°96-976 du 7 novembre 1996 (INTC9600275D)](decret-n96-976-du-7-novembre-1996-intc9600275d)
 - [Décret n°96-98 du 7 février 1996 (TAST9610048D)](decret-n96-98-du-7-fevrier-1996-tast9610048d)
