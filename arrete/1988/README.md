@@ -347,7 +347,6 @@
 - [Arrêté du 18 février 1988 (PRMJ8860017A)](arrete-du-18-fevrier-1988-prmj8860017a)
 - [Arrêté du 18 janvier 1988 (COPB8800005A)](arrete-du-18-janvier-1988-copb8800005a)
 - [Arrêté du 18 janvier 1988 (ECOT8711016A)](arrete-du-18-janvier-1988-ecot8711016a)
-- [Arrêté du 18 janvier 1988 (INTG8800023A)](arrete-du-18-janvier-1988-intg8800023a)
 - [Arrêté du 18 mars 1988 (ECOT8813066A)](arrete-du-18-mars-1988-ecot8813066a)
 - [Arrêté du 18 novembre 1987 (INTE8700373A)](arrete-du-18-novembre-1987-inte8700373a)
 - [Arrêté du 18 novembre 1988 (AGRS8801984A)](arrete-du-18-novembre-1988-agrs8801984a)
