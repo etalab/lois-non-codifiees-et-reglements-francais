@@ -57,6 +57,8 @@
 - [Loi n° 89-549 du 2 août 1989 (TEFX8900055L)](loi-n-89-549-du-2-aout-1989-tefx8900055l)
 - [Loi n° 89-550 du 2 août 1989 (EQUX8800114L)](loi-n-89-550-du-2-aout-1989-equx8800114l)
 - [Loi n° 89-832 du 13 novembre 1989 (MAEX8900077L)](loi-n-89-832-du-13-novembre-1989-maex8900077l)
+- [Loi n° 89-871 du 1 décembre 1989 (MAEX8900069L)](loi-n-89-871-du-1-decembre-1989-maex8900069l)
+- [Loi n° 89-874 du 1 décembre 1989 (MCCX8800164L)](loi-n-89-874-du-1-decembre-1989-mccx8800164l)
 - [Loi n°73-6 du 3 janvier 1973](loi-n73-6-du-3-janvier-1973)
 - [Loi n°86-14 du 6 janvier 1986](loi-n86-14-du-6-janvier-1986)
 - [Loi n°89-377 du 13 juin 1989 (JUSX8800150L)](loi-n89-377-du-13-juin-1989-jusx8800150l)

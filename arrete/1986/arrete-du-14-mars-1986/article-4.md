@@ -1,5 +1,5 @@
 # Article 4
 
-L'articulation des différentes unités administratives et leurs attributions respectives sont précisées en annexe au présent arrêté (1).
+Le mandat des membres du comité autres que ceux représentant l'Etat est fixé à trois ans.
 
-(1) L'annexe pourra être consultée au Bulletin officiel du ministère de l'urbanisme, du logement et des transports.
+Les fonctions de membres du comité de gestion sont exercées à titre gratuit.

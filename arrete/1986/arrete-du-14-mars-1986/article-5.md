@@ -1,3 +1,7 @@
 # Article 5
 
-L'arrêté du 16 septembre 1983 relatif à l'organisation de la direction de la sécurité et de la circulation routières est abrogé.
+Le comité de gestion se réunit sur la convocation de son président. Il ne peut délibérer valablement qu'en la présence de la moitié de ses membres ou de leurs représentants.
+
+Les décisions sont prises à la majorité des membres présents.
+
+En cas de partage égal des voix, celle du président est prépondérante.

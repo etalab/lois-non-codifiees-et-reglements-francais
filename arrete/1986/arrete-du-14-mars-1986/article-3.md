@@ -1,11 +1,35 @@
 # Article 3
 
-Sont placés auprès du directeur de la sécurité et de la circulation routières par la partie de leurs attributions dépendant de cette direction :
+Le comité de gestion est constitué de seize membres :
 
-- le service d'études techniques des routes et autoroutes ;
+" a) Sept membres représentant l'Etat :
 
-- le centre d'études des transports urbains ;
+" - le directeur de l'eau et de la prévention des pollutions et des risques, ou son représentant ;
 
-- le Centre national d'information routière ;
+" - le directeur général de la concurrence, de la consommation et de la répression des fraudes, ou son représentant ;
 
-- les centres régionaux d'information et de circulation routière.
+" - le directeur du budget, ou son représentant ;
+
+" - le directeur général des douanes et droit indirects, ou son représentant ;
+
+" - le directeur des hydrocarbures, ou son représentant ;
+
+" - le directeur général de la santé, ou son représentant ;
+
+" - le directeur du commerce intérieur, ou son représentant ;
+
+" b) Le président de l'Agence nationale pour la récupération et l'élimination des déchets, président du comité de gestion ;
+
+" c) Un membre représentant les entreprises de collecte des huiles usagées ;
+
+" d) Deux membres représentant les entreprises agréées d'élimination des huiles usagées ;
+
+" e) Un membre représentant les utilisateurs d'huiles régénérées ;
+
+" f) Deux membres représentant les entreprises de raffinage produisant les huiles de base soumises à la taxe parafiscale ;
+
+" g) Un membre représentant les détenteurs d'huiles usagées ;
+
+" h) Un membre représentant les consommateurs.
+
+" Les membres du comité de gestion sont nommés par arrêté conjoint du ministre chargé de l'industrie et du ministre chargé de l'environnement. "

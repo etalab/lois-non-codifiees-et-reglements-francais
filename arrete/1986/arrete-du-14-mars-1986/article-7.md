@@ -1,3 +1,3 @@
 # Article 7
 
-Le présent arrêté sera publié au Journal officiel de la République française.
+Le comité de gestion adresse annuellement aux ministres  concernés un rapport rendant compte de l'affectation des fonds. "
