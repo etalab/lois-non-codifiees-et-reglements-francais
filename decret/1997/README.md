@@ -146,6 +146,7 @@
 - [Décret n°97-918 du 8 octobre 1997 (MESX9700116D)](decret-n97-918-du-8-octobre-1997-mesx9700116d)
 - [Décret n°97-924 du 8 octobre 1997 (JUSF9750031D)](decret-n97-924-du-8-octobre-1997-jusf9750031d)
 - [Décret n°97-925 du 8 octobre 1997 (JUSF9750032D)](decret-n97-925-du-8-octobre-1997-jusf9750032d)
+- [Décret n°97-926 du 8 octobre 1997 (MENH9701917D)](decret-n97-926-du-8-octobre-1997-menh9701917d)
 - [Décret n°97-11 du 9 janvier 1997 (ACVX9600147D)](decret-n97-11-du-9-janvier-1997-acvx9600147d)
 - [Décret n°97-319 du 9 avril 1997 (MENU9700256D)](decret-n97-319-du-9-avril-1997-menu9700256d)
 - [Décret n°97-327 du 9 avril 1997 (BUDF9700019D)](decret-n97-327-du-9-avril-1997-budf9700019d)

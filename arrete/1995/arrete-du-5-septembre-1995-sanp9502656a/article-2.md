@@ -1,3 +1,3 @@
 # Article 2
 
-Cet examen est annoncé au moins quatre mois à l'avance par insertion au Bulletin officiel des affaires sociales.
+Cet examen est annoncé au moins deux mois à l'avance par insertion au Bulletin officiel du ministère chargé de la santé.
