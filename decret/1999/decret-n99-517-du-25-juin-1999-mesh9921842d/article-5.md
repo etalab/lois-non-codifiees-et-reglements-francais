@@ -1,3 +1,0 @@
-# Article 5
-
-Par dérogation aux dispositions du 1° de l'article 2 du présent décret, les médecins, les chirurgiens-dentistes et les pharmaciens non ressortissants d'un des Etats parties à l'accord sur l'Espace économique européen peuvent, sous réserve de remplir les autres conditions d'exercice de la médecine, de la chirurgie dentaire ou de la pharmacie mentionnées aux articles L. 356, L. 514 et L. 514-1 du code de la santé publique ainsi que celles mentionnées aux articles 3 ou 4 ci-dessus, se présenter à l'une ou l'autre des épreuves prévues aux articles 3 et 4, dans les conditions fixées par arrêté des ministres chargés respectivement de la santé et de l'enseignement supérieur.
