@@ -11,3 +11,5 @@ La caisse gestionnaire est habilitée à faire vérifier sur place si le logemen
 Lorsque, par suite d'un défaut d'entretien imputable au bénéficiaire, le logement cesse de remplir les conditions prévues au deuxième alinéa du présent article ou lorsque le bénéficiaire refuse de se soumettre au contrôle prévu, le versement des allocations peut être suspendu ou interrompu.
 
 Pour les locataires, ainsi qu'en cas d'accession à la propriété avec un emprunt, l'allocation de logement est versée directement au bailleur ou au prêteur. Son montant est déduit, par le bailleur ou prêteur, du montant du loyer et des dépenses accessoires de logement, ou de celui des charges de remboursement de l'emprunt. Cette déduction est portée à la connaissance de l'allocataire. Ces dispositions ne sont pas applicables en cas de refus du bailleur ou du prêteur.
+
+L'allocation de logement n'est pas due aux personnes qui sont locataires d'un logement appartenant à l'un de leurs ascendants ou descendants ou ceux de leur conjoint ou concubin ou de toutes personnes liées à elles par un contrat conclu en application de l'article L. 515-1 du code civil.
