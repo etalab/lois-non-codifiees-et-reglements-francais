@@ -56,7 +56,7 @@ VI. Sauf en ce qui concerne la taxe forfaitaire prévue au premier alinéa du II
 
 VII. - Les titulaires d'autorisations relatives à des réseaux et services de télécommunications mentionnés aux articles L. 33-1 et L. 34-1 du code des postes et télécommunications, et délivrées ou modifiées à compter du 29 juillet 1996, sont assujettis au paiement d'une taxe de gestion et de contrôle de l'autorisation dans les conditions suivantes :
 
-1° Le montant annuel de la taxe est égal à la moitié du montant résultant de l'application des dispositions du 1° du A et du 1° du F du présent article ;
+1° Le montant annuel de la taxe est égal à la moitié du montant résultant de l'application des dispositions du 1° du A et du 1° du F du présent article toutefois, pour les réseaux exclusivement utilisés pour des activités de radiomessagerie, le montant annuel de la taxe est égal à 15000 euros à compter du 1er janvier 2001 ;
 
 2° Pour un opérateur qui figure sur la liste prévue au 7° de l'article L. 36-7 du code des postes et télécommunications, le montant annuel résultant des dispositions du 1° du présent VII est multiplié par deux ;
 

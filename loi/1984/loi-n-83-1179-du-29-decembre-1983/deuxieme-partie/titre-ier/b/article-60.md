@@ -2,7 +2,7 @@
 
 I. Paragraphe modificateur.
 
-II. Il est ouvert dans les écritures du Trésor un compte d'affectation spéciale intitulé : "Fonds national des haras et des activités hippiques" qui comprend :
+II. Il est ouvert dans les écritures du Trésor un compte d'affectation spéciale intitulé : "Fonds national des courses et de l'élevage" qui comprend :
 
 En recettes :
 
@@ -12,8 +12,6 @@ En recettes :
 
 En dépenses :
 
-- les subventions pour le développement des activités hippiques ;
-
-- les subventions de fonctionnement et d'investissement à l'établissement public Les Haras nationaux ;
+- les subventions pour le développement de l'élevage et des courses ;
 
 - les dépenses diverses ou accidentelles.

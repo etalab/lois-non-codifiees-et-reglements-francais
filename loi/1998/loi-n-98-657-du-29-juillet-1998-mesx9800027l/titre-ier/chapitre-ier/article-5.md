@@ -12,7 +12,9 @@ Des conventions de même portée peuvent également être conclues avec des orga
 
 Afin d'assurer la cohérence et la continuité des actions s'inscrivant dans le projet d'insertion sociale et professionnelle proposé aux jeunes, les conventions d'objectifs mentionnées aux deux alinéas précédents peuvent prévoir des modalités spécifiques de mobilisation des mesures relevant de la compétence de l'Etat ou de la région dans des conditions fixées par la convention-cadre qu'ils ont conclue en application du I.
 
-III. - Les jeunes qui rencontrent des difficultés matérielles, notamment en matière de logement, pendant les périodes durant lesquelles ils ne bénéficient pas d'une rémunération au titre d'un stage, d'un contrat de travail ou d'une autre mesure dans le cadre des actions d'accompagnement personnalisé organisées en application du présent article bénéficient de l'accès aux fonds départementaux ou locaux d'aide aux jeunes prévus par les articles 43-2 et 43-3 de la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion.
+III. - A titre expérimental et à compter du 1er janvier 2002, les jeunes qui bénéficient à cette date des actions d'accompagnement prévues au I du présent article ou qui accèdent au bénéfice de ces mesures avant le 1er janvier 2003 peuvent percevoir une bourse d'accès à l'emploi financée par l'Etat, qui est incessible et insaisissable, pendant les périodes durant lesquelles ils ne perçoivent ni rémunération au titre d'un emploi ou d'un stage, ni allocation.
+
+Ses conditions d'attribution, son montant et les modalités de son versement sont fixés par un décret qui précise la liste des rémunérations et allocations mentionnées ci-dessus.
 
 IV. - Les jeunes bénéficiaires des actions d'accompagnement sont affiliés au régime général de la sécurité sociale dans les conditions prévues aux articles L. 962-1 et L. 962-3 du code du travail, pour les périodes pendant lesquelles ils ne sont pas affiliés à un autre titre à un régime de sécurité sociale.
 

@@ -54,4 +54,10 @@ Lorsque les travaux définis au I ne sont pas réalisés par le redevable, les r
 
 IV. - Les redevances sont recouvrées par l'agent comptable de l'établissement public selon les règles applicables au recouvrement des créances des établissements publics nationaux à caractère administratif.
 
+Le taux relatif aux frais d'établissement et de recouvrement de la redevance est fixé à 0,5 % du montant de la redevance tel qu'il est déterminé aux II et III.
+
+En cas de défaut de paiement de la redevance par l'aménageur, l'établissement public lui adresse une lettre de rappel assortie d'une pénalité de retard dont le taux est fixé à 10 % du montant de la redevance.
+
+Le délai de prescription de la redevance est quadriennal.
+
 V. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

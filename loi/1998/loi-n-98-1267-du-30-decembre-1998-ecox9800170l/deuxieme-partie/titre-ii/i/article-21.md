@@ -6,4 +6,4 @@ II. - Dans l'attente de l'intervention du décret visé au troisième alinéa du
 
 III. - Sous réserve des décisions de justice passées en force de chose jugée, les dispositions du présent article s'appliquent aux litiges en cours.
 
-IV. - Les dérogations visées aux troisième, quatrième, cinquième et sixième alinéas du même article L. 49-1-2 sont assujetties à la perception d'un droit de timbre de 10 F.
+IV. (abrogé)

@@ -8,7 +8,7 @@ Elle est établie, recouvrée et contrôlée dans les conditions et selon les mo
 
 Pour la détermination de l'assiette de la contribution, il n'est pas fait application des abattements mentionnés au I de l'article 125-0 A et au 3 et au 4 bis de l'article 158 du code général des impôts.
 
-II. - La contribution est mise en recouvrement et exigible en même temps, le cas échéant, que la contribution sociale instituée par l'article L. 136-6 du code de la sécurité sociale. Il n'est pas procédé au recouvrement lorsque le montant total par article de rôle est inférieur à 160 F.
+II. - La contribution est mise en recouvrement et exigible en même temps, le cas échéant, que la contribution sociale instituée par l'article L. 136-6 du code de la sécurité sociale. Il n'est pas procédé au recouvrement lorsque le montant total par article de rôle est inférieur à 61 euros.
 
 III. - Sont également assujettis à la contribution dans les conditions et selon les modalités prévues aux I et II ci-dessus :
 

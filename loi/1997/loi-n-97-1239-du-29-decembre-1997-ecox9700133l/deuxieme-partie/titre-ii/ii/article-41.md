@@ -1,6 +1,6 @@
 # Article 41
 
-I. - La société anonyme Natexis ou toute société qu'elle contrôle, au sens de l'article 355-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, est chargée, jusqu'au 31 décembre 2001 :
+I. - La société anonyme Natexis ou toute société qu'elle contrôle, au sens de l'article L. 233-3 du code de commerce, est chargée, jusqu'au 31 décembre 2005 :
 
 1° De la gestion de la stabilisation des taux d'intérêt de crédits à l'exportation ;
 

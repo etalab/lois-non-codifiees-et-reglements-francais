@@ -10,4 +10,4 @@ III. - Dans la limite totale de 3 milliards de francs, la Caisse d'amortissement
 
 - pour le reliquat, une recette exceptionnelle concourant au financement du déficit prévisionnel de l'exercice 1996 compte non tenu de la recette visée au 3° de l'article L. 612-1 du code de la sécurité sociale ;
 
-IV. - La caisse verse chaque année au budget général de l'Etat, de l'année 1996 à l'année 2000, une somme de 12,5 milliards de francs, et de l'année 2001 à l'année 2008 une somme de 12,15 milliards de francs .
+IV. - La caisse verse chaque année au budget général de l'Etat, de l'année 1996 à l'année 2000, une somme de 12,5 milliards de francs et, en 2001, une somme de 12,15 milliards de francs. Elle verse une somme de 3 milliards d'euros chaque année, de 2002 à 2005.

@@ -40,30 +40,30 @@ Ce prélèvement est recouvré selon les modalités s'appliquant aux créances d
 
 Le montant du prélèvement de solidarité pour l'eau est inscrit comme dépense obligatoire dans le budget primitif des agences de l'eau.
 
-Pour 2000, le montant de ce prélèvement est fixé comme suit :
+Pour 2002, le montant de ce prélèvement est fixé comme suit :
 
-Agence de l'eau Adour - Garonne
+Agence de l'eau Adour - Garonne :
 
-46 millions de francs
+7,510 millions d'euros
 
-Agence de l'eau Artois - Picardie
+Agence de l'eau Artois - Picardie :
 
-38,3 millions de francs
+6,253 millions d'euros
 
-Agence de l'eau Loire - Bretagne
+Agence de l'eau Loire - Bretagne :
 
-79,7 millions de francs
+13,012 millions d'euros
 
-Agence de l'eau Rhin - Meuse
+Agence de l'eau Rhin - Meuse :
 
-42,3 millions de francs
+6,906 millions d'euros
 
-Agence de l'eau Rhône - Méditerranée - Corse
+Agence de l'eau Rhône - Méditerranée - Corse :
 
-115,2 millions de francs
+18,809 millions d'euros
 
-Agence de l'eau Seine - Normandie
+Agence de l'eau Seine - Normandie :
 
-178,5 millions de francs
+29,144 millions d'euros
 
-III. Paragraphe modificateur.
+III. Paragraphe modificateur

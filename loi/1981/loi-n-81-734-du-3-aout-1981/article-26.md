@@ -7,3 +7,5 @@ Elles pourront faire l'objet de revalorisations dans des conditions et suivant d
 Les dispositions prévues aux alinéas ci-dessus sont applicables aux prestations de même nature, également imputées sur le budget de l'Etat ou d'établissements publics de l'Etat, qui ont été attribuées aux ressortissants de l'Algérie après le 3 juillet 1962 en vertu des dispositions du droit commun ou au titre de dispositions législatives ou réglementaires particulières et notamment en application du décret n° 62-319 du 20 mars 1962.
 
 La retraite du combattant pourra être accordée, au tarif tel qu'il est défini ci-dessus, aux anciens combattants qui remplissent les conditions requises postérieurement à la date d'effet de cet article.
+
+Les ayants cause des pensionnés relevant des dispositions du code des pensions militaires d'invalidité et des victimes de la guerre bénéficient, à compter du 1er janvier 2002, d'une pension annuelle de réversion calculée sur la base du tarif fixé au présent article.
