@@ -22,7 +22,7 @@ Arrondissement de Figeac.
 
 - Canton de Cajarc : toutes les communes.
 
-- Canton de Livernon : les communes de Boussac, Cambes, Corn Durbans, Espagnac-Sainte-Eulalie, Espedaillac, Flaujac-Gare, Grezes, Livernon, Quissac et Reilhac.
+- Canton de Livernon : les communes de Boussac, Brengues, Cambes, Corn, Durbans, Espagnac-Sainte-Eulalie, Espedaillac, Flaujac-Gare, Grezes, Livernon, Quissac et Reilhac.
 
 Arrondissement de Gourdon.
 
@@ -46,13 +46,19 @@ Arrondissement de Florac.
 
 Arrondissement de Mende.
 
+- Cantons de Aumont-Aubrac : toutes les communes.
+
 - Cantons de La Canourgue et de Chanac : toutes les communes.
 
 - Canton de Bleymard : les communes d'Allenc, Chavenet et Sainte-Hélène.
 
-- Canton de Marvejols : les communes de Grèze, Marvejols, Montrodat, Palhers et Saint-Bonnet-de-Chirac.
+- Cantons de Le Malzieu-Ville : toutes les communes.
+
+- Canton de Marvejols : toutes les communes.
 
 - Canton de Mende : les communes de Badaroux, Balsièges, Brenoux, Lanuejols, Mende, Saint-Bauzile et Saint-Etienne-du-Valdonnez.
+
+- Cantons de Saint-Chély-d'Apcher : toutes les communes.
 
 - Canton de Saint-Germain-du-Teil : les communes de Chirac, Le Monastier-Pin-Mories, Saint-Germain-du-Teil et Saint-Pierre-de-Nogaret.
 
