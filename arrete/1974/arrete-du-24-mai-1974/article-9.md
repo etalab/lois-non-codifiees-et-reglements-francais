@@ -28,6 +28,8 @@ c) Chacun des ascendants survivants qui aurait droit à pension dans les conditi
 
 Lorque, au jour du décès, un ascendant ne remplit pas les conditions d'âge et de ressources requises, l'attribution de son allocation est différée jusqu'au moment où l'intéressé réunit lesdites conditions.
 
+Toutefois, ces conditions d'âge et de ressources ne sont pas exigées lorsque le décès du militaire est survenu des suites d'un attentat ou d'une opération militaire, alors que la victime se trouvait en service ou en mission à l'étranger.
+
 Alors que les allocations du conjoint survivant et des orphelins sont calculées aux taux en vigueur à la date du décès du militaire, les allocations d'ascendant sont fixées au taux en vigueur à la date à laquelle les intéressés remplissent les conditions nécessaires ou, s'ils sont titulaires d'une pension d'ascendant concédée au titre du code des pensions militaires d'invalidité et des victimes de guerre, à la date d'entrée en jouissance de cette pension.
 
 Exceptionnellement, sur proposition de la commission visée à l'article 2 ci-dessus qui constate un retard excessif non imputable aux bénéficiaires dans le paiement des allocations au conjoint survivant et aux orphelins, celles-ci sont calculées aux taux en vigueur au jour où la commission fait cette proposition.
