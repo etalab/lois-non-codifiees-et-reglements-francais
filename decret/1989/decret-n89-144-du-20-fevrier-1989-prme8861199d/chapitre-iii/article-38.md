@@ -1,6 +1,6 @@
 # Article 38
 
-Le conseil d'administration de l'établissement public est composé de trente-trois [*nombre*] membres dont :
+" Le conseil d'administration de l'établissement public est composé de trente-quatre membres dont : ".
 
 a) Sept représentants de l'Etat nommés, après avis du préfet de la Guadeloupe, respectivement sur proposition :
 
@@ -55,3 +55,7 @@ c) Treize personnalités nommées comme suit :
 - une personnalité sur proposition de l'Institut français pour la recherche et l'exploitation de la mer ;
 
 - quatre personnalités choisies par le ministre chargé des parcs nationaux, dont deux sur proposition du conseil national de la protection de la nature.
+
+" d) Un représentant du personnel élu par l'ensemble du personnel permanent du parc.
+
+" Le préfet de la Guadeloupe, commissaire du Gouvernement, le directeur de la protection de la nature, le président du comité scientifique du parc, le directeur du parc et le contrôleur financier, ou leurs représentants, assistent aux séances du conseil d'administration avec voix consultative. "
