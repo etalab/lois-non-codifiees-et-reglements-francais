@@ -850,7 +850,6 @@
 - [Arrêté du 25 octobre 1993 (EQUE9301602A)](arrete-du-25-octobre-1993-eque9301602a)
 - [Arrêté du 25 octobre 1994 (SPSG9403549A)](arrete-du-25-octobre-1994-spsg9403549a)
 - [Arrêté du 25 octobre 1994 (SPSH9402299A)](arrete-du-25-octobre-1994-spsh9402299a)
-- [Arrêté du 25 mai 1993 (DEFA9301780A)](arrete-du-25-mai-1993-defa9301780a)
 - [Arrêté du 25 mai 1993 (EQUS9300878A)](arrete-du-25-mai-1993-equs9300878a)
 - [Arrêté du 26 août 1992 (SANH9202232A)](arrete-du-26-aout-1992-sanh9202232a)
 - [Arrêté du 26 août 1993 (AGRS9301623A)](arrete-du-26-aout-1993-agrs9301623a)

@@ -77,7 +77,6 @@
 - [Arrêté du 3 octobre 1996 (EQUM9602075A)](arrete-du-3-octobre-1996-equm9602075a)
 - [Arrêté du 3 octobre 1996 (JUSC9620601A)](arrete-du-3-octobre-1996-jusc9620601a)
 - [Arrêté du 3 octobre 1996 (MENL9601832A)](arrete-du-3-octobre-1996-menl9601832a)
-- [Arrêté du 3 septembre 1996 (DEFA9601921A)](arrete-du-3-septembre-1996-defa9601921a)
 - [Arrêté du 3 septembre 1996 (DEFA9601947A)](arrete-du-3-septembre-1996-defa9601947a)
 - [Arrêté du 3 septembre 1996 (DEFA9601948A)](arrete-du-3-septembre-1996-defa9601948a)
 - [Arrêté du 3 septembre 1996 (FCEC9600155A)](arrete-du-3-septembre-1996-fcec9600155a)
