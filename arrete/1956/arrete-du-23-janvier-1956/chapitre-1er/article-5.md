@@ -6,10 +6,12 @@ Brevet d'études professionnelles préparatoires aux carrières sanitaires et so
 
 Brevet sanctionnant la fin du premier cycle de l'enseignement du second degré ;
 
+Brevet d'études professionnelles agricoles Economie familiale rurale, sous-option Auxiliaire sociale en milieu rural.
+
 Certificat d'aptitude professionnelle d'aide maternelle délivré avant le 30 septembre 1970 ;
 
 Attestation d'admission à poursuivre les études en deuxième cycle de l'enseignement secondaire ou de l'enseignement professionnel long.
 
-La priorité est accordée aux titulaires du B.E.P. (option Sanitaire).
+La priorité est accordée aux titulaires du BEP (option Sanitaire).
 
 A défaut, les candidats doivent satisfaire aux épreuves d'un examen d'entrée dont les modalités sont fixées ci-après.
