@@ -1,0 +1,5 @@
+# Article 34
+
+Lorsqu'une installation autorisée ou déclarée change d'exploitant, le nouvel exploitant ou son représentant doit en faire la déclaration au préfet dans le mois qui suit la prise en charge de l'exploitation. Cette déclaration doit mentionner, s'il s'agit d'une personne physique, les nom, prénoms et domicile du nouvel exploitant et, s'il s'agit d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, l'adresse de son siège social ainsi que la qualité du signataire de la déclaration. Il est délivré un récépissé sans frais de cette déclaration.
+
+Lorsqu'une installation cesse l'activité au titre de laquelle elle était autorisée ou déclarée, son exploitant doit en informer le préfet dans le mois qui suit cette cessation ; il est donné récépissé ; l'exploitant doit remettre le site de l'installation dans un état tel qu'il ne s'y manifeste aucun des dangers ou inconvénients mentionnés à l'article 1er de la loi du 19 juillet 1976. A défaut, il peut être fait application des procédures prévues par l'article 23 de cette loi [*exécution d'office, consignation montant des travaux, suspension*].
