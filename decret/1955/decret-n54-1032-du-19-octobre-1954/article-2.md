@@ -1,0 +1,3 @@
+# Article 2
+
+Les fonctionnaires, auxiliaires ou agents contractuels de l'Etat, des départements, des communes, des territoires d'outre-mer ou des établissements publics reçus au concours d'entrée à l'école nationale d'administration ou au concours pour l'emploi d'attaché d'administration centrale ou nommés en qualité d'attaché stagiaire d'administration centrale à la suite de leur admissibilité à l'école nationale d'administration, et qui résidaient antérieurement dans une localité située à plus de 50 km de Paris, bénéficient pour leur installation à Paris des remboursements des frais pour changement de résidence dans les conditions prévues par les articles 18 à 25 du décret n° 53-511 du 21 mai 1953 susvisé.
