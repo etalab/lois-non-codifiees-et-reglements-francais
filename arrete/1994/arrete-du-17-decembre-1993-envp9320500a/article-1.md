@@ -1,3 +1,0 @@
-# Article 1
-
-Le montant des frais de gestion pouvant être imputé sur le produit de la taxe parafiscale sur la pollution atmosphérique par l'Agence de l'environnement et de la maîtrise de l'énergie est fixé, pour l'année 1993, à 14 400 000 F.

@@ -1016,7 +1016,6 @@
 - [Arrêté du 26 février 1992 (SPSS9200549A)](arrete-du-26-fevrier-1992-spss9200549a)
 - [Arrêté du 26 juin 1992 (BUDL9200096A)](arrete-du-26-juin-1992-budl9200096a)
 - [Arrêté du 26 juin 1992 (MENF9202583A)](arrete-du-26-juin-1992-menf9202583a)
-- [Arrêté du 26 juin 1992 (SPSS9201531A)](arrete-du-26-juin-1992-spss9201531a)
 - [Arrêté du 26 mars 1992 (BUDD9250003A)](arrete-du-26-mars-1992-budd9250003a)
 - [Arrêté du 26 mars 1992 (INTE9200174A)](arrete-du-26-mars-1992-inte9200174a)
 - [Arrêté du 26 mars 1992 (MENN9200781A)](arrete-du-26-mars-1992-menn9200781a)

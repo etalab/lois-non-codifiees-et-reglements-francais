@@ -1,3 +1,0 @@
-# Article 2
-
-Par dérogation à l'article 1er, l'assiette des cotisations dues par les éleveurs, employeurs de main-d'oeuvre, peut être fixée par le préfet, sur proposition du comité départemental des prestations sociales agricoles, dans les conditions prévues à l'article 6 (1) du décret du 3 juin 1952 susvisé, à condition, d'une part, que les rémunérations versées aux salariés au cours de l'année précédente excèdent 400 000 F et, d'autre part, que le revenu cadastral corrigé des terres exploitées soit au plus égal au tiers du revenu cadastral théorique déterminé en application de l'article 1er.

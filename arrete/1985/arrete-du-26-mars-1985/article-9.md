@@ -1,5 +1,5 @@
 # Article 9
 
-Le prix de revient prévisionnel bâtiment et honoraires défini à l'article 3.4. (2°) du présent arrêté doit être au plus égal au prix de référence bâtiment et honoraires.
+Le présent arrêté annule et remplace l'arrêté du 29 juillet 1977 modifié relatif aux caractéristiques techniques et au prix des logements neufs en accession à la propriété financés au moyen de prêts aidés par l'Etat pour les opérations dont le dépôt de demande de décision favorable intervient six mois après la date de sa publication au Journal Officiel.
 
-Toutefois, un dépassement du prix de référence bâtiment et honoraires [*taux*] de 10 p. 100 maximum est autorisé lorsque le prix de revient prévisionnel de l'opération n'excède pas le prix de référence.
+A titre transitoire, sur demande du maître d'ouvrage, le présent arrêté pourra être appliqué aux opérations faisant l'objet d'un dépôt de demande de décision favorable postérieurement à la date de sa publication.
