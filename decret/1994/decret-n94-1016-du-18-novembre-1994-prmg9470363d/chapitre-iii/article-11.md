@@ -2,7 +2,7 @@
 
 En matière de promotion de grade, les dispositions du présent article s'appliquent aux corps mentionnés à l'annexe I du présent décret.
 
-I. - Peuvent être promus à la classe supérieure ou au grade assimilé, au choix, les fonctionnaires ayant atteint le 7e échelon de la classe normale ou assimilée depuis au moins deux ans et qui justifient de cinq ans de services publics dans un corps, cadre d'emplois ou emplois de catégorie B ou de même niveau.
+I. - Peuvent être promus à la classe supérieure ou au grade assimilé, au choix, les fonctionnaires ayant atteint le 7e échelon de la classe normale ou assimilée depuis au moins deux ans et qui justifient de cinq ans de services publics accomplis en qualité de fonctionnaire civil dans un corps, cadre d'emplois ou emplois de catégorie B ou de même niveau.
 
 Les intéressés sont nommés à l'échelon doté d'un indice égal ou, à défaut, immédiatement supérieur à celui détenu dans l'ancien grade. Dans la limite de l'ancienneté moyenne exigée à l'article 9 ci-dessus pour une promotion à l'échelon supérieur, ils conservent l'ancienneté qu'ils avaient acquise dans l'échelon de leur ancien grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans l'ancien grade. Toutefois, l'ancienneté acquise dans le 7e échelon n'est reportée que pour la fraction supérieure à dix-huit mois.
 

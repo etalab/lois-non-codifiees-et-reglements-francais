@@ -4,4 +4,4 @@ L'établissement a pour mission d'assurer, à la demande et pour le compte de l'
 
 L'établissement peut assurer, à titre onéreux, à la demande et pour le compte des collectivités territoriales ou de leurs établissements publics, des prestations de même nature que celles définies au premier alinéa.
 
-L'établissement peut exercer à l'étranger une activité de conseil dans les domaines mentionnés au premier alinéa.
+L'établissement peut exercer à l'étranger et, exceptionnellement après autorisation du ministre chargé de la culture, en France une activité de conseil dans les domaines mentionnés au premier alinéa.

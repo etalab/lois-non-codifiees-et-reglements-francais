@@ -8,25 +8,13 @@ Les dispositions du décret du 18 novembre 1994 susvisé et celles du présent d
 
 2. Corps des services déconcentrés des administrations de l'Etat ou d'établissements publics administratifs de l'Etat :
 
+a) Corps des services déconcentrés des administrations de l'Etat :
+
 - secrétaires administratifs des services déconcentrés des affaires sanitaires et sociales ;
 
 - secrétaires administratifs des services déconcentrés du ministère de l'agriculture ;
 
-- contrôleurs de la Caisse nationale de crédit agricole ;
-
-- secrétaires administratifs de l'Office national des forêts ;
-
-- secrétaires administratifs des services déconcentrés du ministère des anciens combattants et victimes de guerre ;
-
-- secrétaires administratifs des services départementaux de l'Office national des anciens combattants et victimes de guerre ;
-
 - secrétaires administratifs des services déconcentrés du ministère de la culture ;
-
-- secrétaires administratifs des services déconcentrés du ministère de la défense nationale ;
-
-- secrétaires administratifs de la Caisse nationale militaire de sécurité sociale ;
-
-- secrétaires techniques de la Caisse des dépôts et consignations ;
 
 - secrétaires administratifs des services déconcentrés de l'équipement ;
 
@@ -36,13 +24,33 @@ Les dispositions du décret du 18 novembre 1994 susvisé et celles du présent d
 
 - secrétaires administratifs de la protection judiciaire de la jeunesse ;
 
-- secrétaires administratifs des services déconcentrés de l'administration pénitentiaire.
+- secrétaires d'administration et d'intendance des services déconcentrés de l'administration pénitentiaire ;
+
+- contrôleurs de la Caisse nationale de crédit agricole.
+
+Les personnels appartenant aux corps des services déconcentrés des ministères mentionnés ci-dessus peuvent être affectés dans les établissements publics administratifs placés sous leur tutelle.
+
+b) Corps d'établissements publics de l'Etat :
+
+- secrétaires administratifs de l'Office national des forêts ;
+
+- secrétaires administratifs de l'Office national interprofessionnel des céréales ;
+
+- secrétaires administratifs des services départementaux de l'Office national des anciens combattants et victimes de guerre ;
+
+- secrétaires administratifs de la Caisse nationale militaire de sécurité sociale ;
+
+- secrétaires techniques de la Caisse des dépôts et consignations.
 
 3. Corps communs aux services déconcentrés et à l'administration centrale :
 
-- secrétaires administratifs du ministère de l'industrie ;
+- assistants d'administration de l'aviation civile ;
 
-- assistants d'administration de l'aviation civile.
+- secrétaires administratifs du ministère de l'économie, des finances et de l'industrie ;
+
+- secrétaires administratifs du ministère de la défense.
+
+Les personnels appartenant aux corps communs aux services déconcentrés et à l'administration centrale des ministères mentionnés ci-dessus peuvent être affectés dans les établissements publics administratifs placés sous leur tutelle.
 
 4. Corps d'administration scolaire et universitaire :
 
