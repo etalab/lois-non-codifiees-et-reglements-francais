@@ -6,7 +6,7 @@ En l'absence de dispositions particulières fixées par ces statuts, les délib�
 
 Les bulletins portant la mention " refus de choix ", n'étant pas des suffrages exprimés, ne sont pas pris en compte pour le calcul de la majorité.
 
-A l'issue d'un débat organisé par le président, il est procédé à un vote portant globalement sur la proposition de la commission, telle qu'elle se dégage de ce débat.
+A l'issue d'un débat organisé par le président, il est procédé à un vote portant globalement sur la proposition de la section ou du groupe telle qu'elle se dégage de ce débat.
 
 Ce vote a lieu à bulletins secrets, par " oui " ou par " non ", sur la proposition. Les bulletins blancs sont considérés comme défavorables à la proposition. La proposition est adoptée si une majorité de bulletins " oui " est constatée.
 

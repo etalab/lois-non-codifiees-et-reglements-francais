@@ -1,6 +1,6 @@
 # Article 7
 
-A titre transitoire et jusqu'au 1er juillet 1995, les certificats de qualification visés aux articles 1er et 2 du présent arrêté peuvent être délivrés dans les conditions explicitées dans les tableaux suivants :
+A titre transitoire et jusqu'au 1er juillet 1996, les certificats de qualification visés aux articles 1er et 2 du présent arrêté peuvent être délivrés dans les conditions explicitées dans les tableaux suivants :
 
 Certificat de qualification Navires-citernes
 
