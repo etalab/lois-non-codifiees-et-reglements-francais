@@ -71,7 +71,6 @@
 - [Décret n°73-374 du 28 mars 1973](decret-n73-374-du-28-mars-1973)
 - [Décret n°72-1093 du 29 novembre 1972](decret-n72-1093-du-29-novembre-1972)
 - [Décret n°72-1240 du 29 décembre 1972](decret-n72-1240-du-29-decembre-1972)
-- [Décret n°72-527 du 29 juin 1972](decret-n72-527-du-29-juin-1972)
 - [Décret n°72-532 du 29 juin 1972](decret-n72-532-du-29-juin-1972)
 - [Décret n°72-579 du 29 juin 1972](decret-n72-579-du-29-juin-1972)
 - [Décret n°72-83 du 29 janvier 1972](decret-n72-83-du-29-janvier-1972)
