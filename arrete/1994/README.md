@@ -341,7 +341,6 @@
 - [Arrêté du 9 mai 1995 (ECOP9400351A)](arrete-du-9-mai-1995-ecop9400351a)
 - [Arrêté du 9 mai 1995 (ECOP9400353A)](arrete-du-9-mai-1995-ecop9400353a)
 - [Arrêté du 9 mai 1995 (ECOP9400354A)](arrete-du-9-mai-1995-ecop9400354a)
-- [Arrêté du 10 août 1976](arrete-du-10-aout-1976)
 - [Arrêté du 10 août 1994 (ECOC9400110A)](arrete-du-10-aout-1994-ecoc9400110a)
 - [Arrêté du 10 août 1994 (JUSA9400250A)](arrete-du-10-aout-1994-jusa9400250a)
 - [Arrêté du 10 décembre 1993 (DEFA9302242A)](arrete-du-10-decembre-1993-defa9302242a)
