@@ -1,8 +1,6 @@
 # Article 107
 
-Jusqu'à l'intervention des statuts particuliers prévus à l'article 6 de la loi du 26 janvier 1984 précitée et à défaut de précisions dans les statuts existant à la date de publication du présent décret, les modalités d'affiliation aux centres de gestion sont déterminées selon les règles suivantes :
-
-Sont assimilés à titre transitoire pour l'affiliation à un centre les emplois de titulaires ou de stagiaires :
+Jusqu'à l'intervention des statuts particuliers prévus à l'article 6 de la loi du 26 janvier 1984 précitée, et à défaut de précisions dans les statuts existant à la date de publication du présent décret, sont assimilés à titre transitoire, pour l'application du présent décret, les emplois de titulaires ou de stagiaires :
 
 1° En catégorie A, au sens de l'article 5 de la loi du 26 janvier 1984 précitée, lorsque les emplois créés sur la base de l'ancien article L. 412-2 du code des communes comportent un indice terminal égal ou supérieur à l'indice brut 580 et, pour les autres emplois, lorsqu'ils comportent un indice de début ou de stage (1er échelon) au moins égal à l'indice brut 340 ;
 
