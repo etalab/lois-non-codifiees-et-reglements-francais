@@ -182,6 +182,7 @@
 - [Décret n°2000-55 du 19 janvier 2000 (AGRS9902645D)](decret-n2000-55-du-19-janvier-2000-agrs9902645d)
 - [Décret n°2000-56 du 19 janvier 2000 (PRMG9970648D)](decret-n2000-56-du-19-janvier-2000-prmg9970648d)
 - [Décret n°2000-57 du 19 janvier 2000 (FPPA9900180D)](decret-n2000-57-du-19-janvier-2000-fppa9900180d)
+- [Décret n°71-690 du 19 août 1971](decret-n71-690-du-19-aout-1971)
 - [Décret n°2000-253 du 20 mars 2000 (MESH0020700D)](decret-n2000-253-du-20-mars-2000-mesh0020700d)
 - [Décret n°2000-254 du 20 mars 2000 (MESH0020701D)](decret-n2000-254-du-20-mars-2000-mesh0020701d)
 - [Décret n°2000-255 du 20 mars 2000 (INTM0000015D)](decret-n2000-255-du-20-mars-2000-intm0000015d)
