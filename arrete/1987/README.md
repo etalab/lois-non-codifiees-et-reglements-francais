@@ -271,6 +271,7 @@
 - [Arrêté du 19 janvier 1987 (BUDF8700001A)](arrete-du-19-janvier-1987-budf8700001a)
 - [Arrêté du 19 janvier 1987 (ENVN8700013A)](arrete-du-19-janvier-1987-envn8700013a)
 - [Arrêté du 19 janvier 1987 (MENU8700036A)](arrete-du-19-janvier-1987-menu8700036a)
+- [Arrêté du 19 juin 1987 (DEFP8701487A)](arrete-du-19-juin-1987-defp8701487a)
 - [Arrêté du 19 juin 1987 (INDT8700178A)](arrete-du-19-juin-1987-indt8700178a)
 - [Arrêté du 19 mars 1987 (ASEE8703232A)](arrete-du-19-mars-1987-asee8703232a)
 - [Arrêté du 19 mars 1987 (INTB8700105A)](arrete-du-19-mars-1987-intb8700105a)
