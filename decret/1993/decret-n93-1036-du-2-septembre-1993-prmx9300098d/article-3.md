@@ -2,7 +2,7 @@
 
 Le ministre chargé des télécommunications notifie à chaque exploitant de réseau ou fournisseur de services autorisés ou déclarés mentionnés à l'article 1er les dispositions à mettre en oeuvre pour assurer la sécurité de leurs installations et les prestations à fournir dans les circonstances prévues aux articles 2 et 6 de l'ordonnance du 7 janvier 1959 susvisée.
 
-Ces dispositions sont définies sur la base des décisions du comité de coordination des télécommunications pour l'utilisation du spectre ainsi que des avis et recommandations :
+Ces dispositions sont définies sur la base des décisions de l'Agence nationale des fréquences pour l'utilisation du spectre ainsi que des avis et recommandations :
 
 - de la commission de défense nationale en matière de télécommunications ;
 
