@@ -7,4 +7,3 @@
 - [Article 3](article-3.md)
 - [SECTION III : PRESCRIPTIONS SPECIALES AUX TRAVAUX D'UNE DUREE SUPERIEURE A QUATRE MILLE HEURES.](section-iii)
 - [Article 26](article-26.md)
-- [Article 27](article-27.md)
