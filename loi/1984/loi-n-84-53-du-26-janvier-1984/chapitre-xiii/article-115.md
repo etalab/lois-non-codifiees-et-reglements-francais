@@ -2,4 +2,8 @@
 
 Les organismes consultatifs à l'échelon national prévus par la législation ou la réglementation en vigueur avant la date de publication de la présente loi sont maintenus en fonctions jusqu'à la date d'installation du conseil supérieur de la fonction publique territoriale.
 
-Sans préjudice des dispositions de l'alinéa précédent et de celles du I de l'article 118, les procédures existant à la date de publication de la présente loi, notamment en application du deuxième alinéa du II de l'article 28 et du deuxième alinéa du II de l'article 75 de la loi n° 82-213 du 2 mars 1982 précitée, relatives à l'élaboration ou à la modification des règles particulières à chaque emploi demeurent en vigueur jusqu'au 31 décembre 1985.
+Nonobstant toutes dispositions contraires, la commission administrative paritaire nationale des personnels des offices publics d'habitations à loyer modéré est prorogée, dans sa composition résultant des dernières élections des 21 et 22 décembre 1983, jusqu'à une date qui sera fixée par décret.
+
+Les procédures existant à la date de publication de la présente loi, notamment en application du deuxième alinéa du paragraphe II de l'article 28 de la loi n° 82-213 du 2 mars 1982 précitée et du deuxième alinéa du paragraphe II de l'article 16-3 de la loi n° 72-619 du 5 juillet 1972 précitée, relatives à l'élaboration ou à la modification des règles particulières à chaque emploi, demeurent en vigueur jusqu'à l'intervention de nouvelles dispositions à caractère statutaire.
+
+Lorsqu'il ne peut être fait référence aux emplois équivalents mentionnés au deuxième alinéa du paragraphe II de l'article 28 de la loi n° 82-213 du 2 mars 1982 précitée et au deuxième alinéa du paragraphe II de l'article 16-3 de la loi n° 72-619 du 5 juillet 1972 précitée, les régions et les départements peuvent, par dérogation aux dispositions du troisième alinéa de l'article 3 de la présente loi, recruter des agents contractuels pour occuper des emplois permanents.
