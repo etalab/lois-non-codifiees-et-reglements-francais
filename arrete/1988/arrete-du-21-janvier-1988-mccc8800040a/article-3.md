@@ -32,7 +32,7 @@ b) Dix-sept membres de droit :
 
 - le directeur de l'Ecole nationale des chartes ;
 
-- le directeur de l'Ecole nationale du patrimoine ;
+- le directeur de l'Institut national du patrimoine ;
 
 - le premier vice-président de la conférence des présidents d'université ;
 

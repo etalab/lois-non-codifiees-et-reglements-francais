@@ -1,6 +1,6 @@
 # Article 9
 
-Sans préjudice de l'application des dispositions du décret n° 85-607 du 14 juin 1985 relatif à la formation professionnelle des fonctionnaires de l'Etat, les conservateurs généraux du patrimoine peuvent demander, s'ils justifient de six ans de services effectifs dans ce corps, à suivre une formation à l'Ecole nationale du patrimoine pendant une ou plusieurs périodes d'une durée totale d'un an.
+Sans préjudice de l'application des dispositions du décret n° 85-607 du 14 juin 1985 relatif à la formation professionnelle des fonctionnaires de l'Etat, les conservateurs généraux du patrimoine peuvent demander, s'ils justifient de six ans de services effectifs dans ce corps, à suivre une formation à l'Institut national du patrimoine pendant une ou plusieurs périodes d'une durée totale d'un an.
 
 Les périodes de formation effectuées en application de l'article 27 du décret du 16 mai 1990 portant statut particulier du corps des conservateurs du patrimoine viennent en déduction de cette durée.
 

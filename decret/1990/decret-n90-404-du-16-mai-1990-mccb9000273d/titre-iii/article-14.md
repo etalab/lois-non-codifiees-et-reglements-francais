@@ -8,4 +8,4 @@ Les sanctions disciplinaires applicables aux conservateurs stagiaires sont :
 
 3° L'exclusion définitive de l'école.
 
-Elles sont prononcées par le ministre chargé de la culture, après avis du conseil de discipline de l'Ecole nationale du patrimoine.
+Elles sont prononcées par le ministre chargé de la culture, après avis du conseil de discipline de l'Institut national du patrimoine.

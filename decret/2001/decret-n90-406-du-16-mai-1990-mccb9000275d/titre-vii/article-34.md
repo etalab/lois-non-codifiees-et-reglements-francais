@@ -1,0 +1,3 @@
+# Article 34
+
+Les biens appartenant à la Réunion des musées nationaux, destinés à la formation des conservateurs de musée, ainsi que les charges et créances relatives à cette activité seront soit dévolus à l'Institut national du patrimoine ou, s'ils servent à un usage commun, feront l'objet d'une convention spécifique d'utilisation entre l'Institut national du patrimoine et la Réunion des musées nationaux. Un arrêté conjoint du ministre chargé du budget et du ministre chargé de la culture fixera la liste de ces biens meubles et immeubles, et les conditions de leur dévolution, ainsi que les conditions de liquidation des charges et créances.

@@ -1,6 +1,6 @@
 # Article 37
 
-Pendant une période de cinq ans à compter de la date d'effet du présent décret et par dérogation aux dispositions du 1° de l'article 11 ci-dessus, la limite d'âge pour se présenter aux concours externes de conservateur stagiaire de l'Ecole nationale du patrimoine est fixée comme suit :
+Pendant une période de cinq ans à compter de la date d'effet du présent décret et par dérogation aux dispositions du 1° de l'article 11 ci-dessus, la limite d'âge pour se présenter aux concours externes de conservateur stagiaire de l'Institut national du patrimoine est fixée comme suit :
 
 - à trente-cinq ans pour l'année 1990 ;
 

@@ -1,6 +1,6 @@
 # Article 11
 
-Les conservateurs stagiaires élèves de l'Ecole nationale du patrimoine sont nommés par arrêté du ministre chargé de la culture. Leur recrutement s'effectue :
+Les conservateurs stagiaires élèves de l'Institut national du patrimoine sont nommés par arrêté du ministre chargé de la culture. Leur recrutement s'effectue :
 
 1° Par la voie de concours externes ouverts, pour chacune des spécialités mentionnées à l'article 5 ci-dessus, autre que la spécialité Archives, aux candidats âgés de moins de trente ans au 1er janvier de l'année du concours, titulaires d'un diplôme national sanctionnant un second cycle d'étude supérieure ou d'un diplôme de même niveau ; les conditions d'organisation de ces concours, qui peuvent comporter des épreuves d'admissibilité communes, sont fixées par arrêté du ministre chargé de la culture ; les postes qui n'ont pas été pourvus dans une des spécialités sont reportés sur une ou plusieurs des autres spécialités par arrêté du ministre chargé de la culture ;
 

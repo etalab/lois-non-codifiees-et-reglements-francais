@@ -6,7 +6,7 @@ Il comprend :
 
 1° Le directeur des études de l'Ecole du Louvre ;
 
-2° Le directeur des études de l'Ecole nationale du patrimoine ;
+2° Le directeur des études de l'Institut national du patrimoine ;
 
 3° Huit enseignants, dont deux chargés de travaux dirigés, élus pour trois ans ;
 

@@ -14,9 +14,7 @@ Ingénieurs des travaux des eaux et forêts.
 
 Ingénieurs des travaux agricoles.
 
-Ministère de l'éducation nationale,
-
-de la jeunesse et des sports
+Ministère de l'éducation nationale, de la jeunesse et des sports
 
 Infirmiers et infirmières des services médicaux des administrations centrales de l'Etat, des services déconcentrés qui en dépendent et des établissements publics de l'Etat.
 
@@ -32,9 +30,7 @@ Professeurs de lycée professionnel (pour le cycle préparatoire au concours d'a
 
 Professeurs de sport.
 
-Ministère de l'équipement, du logement,
-
-des transports et de la mer
+Ministère de l'équipement, du logement, des transports et de la mer
 
 Techniciens de la météorologie.
 
@@ -62,11 +58,9 @@ Ministère de la justice
 
 Educateurs des services déconcentrés de la protection judiciaire de la jeunesse.
 
-Ministère de la culture, de la communication,
+Ministère de la culture, de la communication, des grands travaux et du Bicentenaire
 
-des grands travaux et du Bicentenaire
-
-Corps recrutés par la voie de l'Ecole nationale du patrimoine.
+Corps recrutés par la voie de l'Institut national du patrimoine.
 
 Inspecteurs de surveillance et de magasinage.
 

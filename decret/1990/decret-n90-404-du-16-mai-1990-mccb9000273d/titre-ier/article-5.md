@@ -1,6 +1,6 @@
 # Article 5
 
-Lors de leur titularisation, les conservateurs du patrimoine sont répartis, par arrêté du ministre chargé de la culture, en fonction de la nature des études qu'ils ont effectuées à l'Ecole nationale du patrimoine dans l'une des spécialités suivantes :
+Lors de leur titularisation, les conservateurs du patrimoine sont répartis, par arrêté du ministre chargé de la culture, en fonction de la nature des études qu'ils ont effectuées à l'Institut national du patrimoine dans l'une des spécialités suivantes :
 
 Archéologie ;
 

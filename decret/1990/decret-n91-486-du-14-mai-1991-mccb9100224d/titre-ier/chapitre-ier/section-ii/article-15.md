@@ -16,7 +16,7 @@ Les concours mentionnés au 1° de l'article 14 sont organisés par branche d'ac
 
 - docteur de troisième cycle ;
 
-- diplôme de fin d'études de l'Ecole nationale du patrimoine ;
+- diplôme de fin d'études de l'Institut national du patrimoine ;
 
 - diplôme d'ingénieur délivré par une Ecole nationale supérieure ou par une université ;
 
