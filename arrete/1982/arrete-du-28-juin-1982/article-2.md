@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur général des collectivités locales est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Il est interdit de détenir, de céder, de distribuer à titre gratuit ou onéreux, ou d'importer des perles d'imitation comportant un revêtement aux sels de plomb ainsi que tous les articles comportant des perles de cette nature.
