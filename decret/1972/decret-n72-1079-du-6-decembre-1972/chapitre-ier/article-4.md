@@ -1,3 +1,5 @@
 # Article 4
 
-Peut être entendu sur sa demande et sur convocation du président, pour toutes questions intéressant les fonctions hospitalières des étudiants en médecine, un étudiant hospitalier désigné par le directeur de l'unité d'enseignement et de recherche de médecine ou le président du comité de coordination de l'enseignement médical parmi les étudiants membres d'un conseil de gestion d'unité d'enseignement et de recherche de médecine.
+Pour chacun des sièges des commissions médicales consultatives régies par les articles 1er et 2 ci-dessus qui sont pourvus par voie d'élection, il est prévu un titulaire et un suppléant.
+
+Un arrêté du ministre de la santé publique fixe la liste des spécialités médicales et des spécialités chirurgicales mentionnées aux articles 1er et 2.
