@@ -1,26 +1,24 @@
 # Article 1 bis
 
-PAR. 1ER. I - L'assurance vieillesse garantit une pension de retraite à l'assuré qui atteint l'âge [*minimum*] de soixante ans [*prestations - conditions*].
+Par. 1er - L'assurance vieillesse garantit une pension de retraite à l'assuré qui en demande la liquidation à partir de l'âge de soixante ans.
 
-II - La pension est liquidée et calculée, compte tenu du salaire moyen annuel de base, de la durée d'assurance de l'assuré dans la limite d'un maximum, enfin de l'âge auquel il fait valoir ses droits. Les modalités de cette liquidation et de ce calcul sont définies par voie réglementaire.
+Le montant de la pension [*d'assurance vieillesse - retraite*] résulte de l'application au salaire annuel de base d'un taux croissant, jusqu'à un maximum dit "taux plein" en fonction de la durée d'assurance dans la limite de 150 trimestres, tant dans le régime des assurances sociales agricoles que dans un ou plusieurs autres régimes obligatoires ainsi que de celle des périodes reconnues équivalentes ou en fonction de l'âge auquel est demandée cette liquidation.
 
-Le montant de la pension résulte de l'application au salaire annuel de base d'un taux croissant en fonction de l'âge auquel est demandée la liquidation de cette pension.
+Si l'assuré a accompli dans le régime des assurances sociales agricoles une durée d'assurance inférieure à 150 trimestres, la pension servie par ce régime est d'abord calculée sur la base de 150 trimestres, puis réduite compte tenu de la durée réelle d'assurance.
 
-PAR. 2 - Peut être reconnu inapte au travail l'assuré qui remplit les conditions fixées à l'article L. 333 modifié du Code de la sécurité sociale.
+Les modalités de calcul du salaire de base, des périodes d'assurance ou des périodes équivalentes susceptibles d'être prises en compte et les taux correspondant aux durées d'assurance et à l'âge de liquidation sont définis par voie réglementaire.
 
-Pour les assurés qui sont reconnus inaptes au travail ou qui sont anciens déportés ou internés titulaires de la carte de déporté ou interné de la Résistance ou de la carte de déporté ou interné politique, et dont la pension est liquidée à un âge compris entre soixante et soixante-cinq ans, la pension est calculée compte tenu du taux normalement applicable à ce dernier âge.
+Par. 2 - Bénéficient du taux plein même s'ils ne justifient pas de la durée requise d'assurance ou de périodes équivalentes dans le régime des assurances sociales agricoles et un ou plusieurs autres régimes obligatoires :
 
-Le service de la pension de vieillesse attribuée ou revisée au titre de l'inaptitude au travail peut être suspendu lorsque le titulaire, âgé de moins de soixante-cinq ans, exerce une activité professionnelle lui procurant des revenus dépassant un chiffre déterminé par voie réglementaire.
+a) Les assurés qui atteignent l'âge de soixante-cinq ans ;
 
-Le service de la pension de vieillesse attribuée par anticipation, au profit des assurés visés aux deux derniers alinéas du paragraphe 2 bis de l'article 1er bis du présent décret, est assuré à compter du premier jour du mois qui suit la cessation définitive de l'activité professionnelle exercée par l'assuré dans l'entreprise où il travaillait antérieurement à la date d'entrée en jouissance de sa pension.
+b) Les assurés reconnus inaptes au travail dans les conditions prévues à l'article L. 333 du code de la sécurité sociale ;
 
-Si l'assuré a accompli une durée d'assurance inférieure à la durée maximum, sa pension est d'abord calculée, conformément au paragraphe 1er ou au paragraphe 2 (2ème alinéa) du présent article, sur la base du maximum de durée d'assurance pouvant être prise en considération, puis réduite compte tenu de la durée réelle d'assurance.
+c) Les anciens déportés ou internés titulaires de la carte de déporté ou interné de la Résistance ou de la carte de déporté ou interné politique ;
 
-Le montant de la pension de retraite d'un assuré âgé de plus de soixante-cinq ans ou de moins de soixante-cinq ans mais inapte au travail ne peut être inférieur à celui visé à l'article L. 345 du Code de la sécurité sociale.
+d) Les mères de famille salariées justifiant d'une durée minimum d'assurance dans le régime des assurances sociales agricoles, ou dans ce régime et dans le régime général qui ont élevé au moins trois enfants dans les conditions prévues à l'article 2 (par. 1er-II, 2è alinéa) du présent décret, et qui ont exercé un travail manuel ouvrier pendant une durée fixée par voie réglementaire ;
 
-Les montants de la majoration pour conjoint à charge prévue au II du paragraphe 4 du présent article et du minimum de pension prévu à l'article L. 345 du Code de la sécurité sociale sont fixés par décret en tenant compte de la durée d'assurance lorsque celle-ci est inférieure à la durée déterminée par ce décret.
-
-PAR. 2 bis - La pension des assurés, anciens prisonniers de guerre, est calculée compte tenu du taux normalement applicable à soixante-cinq ans lorsque, sur leur demande, leur pension est liquidée à un âge compris entre :
+e) Les anciens prisonniers de guerre lorsque, sur leur demande, leur pension est liquidée à un âge compris entre :
 
 Soixante-cinq et soixante-quatre ans pour ceux dont la durée de captivité est inférieure à dix-huit mois mais supérieure à cinq mois ;
 
@@ -36,22 +34,24 @@ Les anciens prisonniers évadés de guerre, au-delà d'une captivité de cinq mo
 
 Toute partie de mois n'est pas prise en considération.
 
-Les dispositions prévues ci-dessus à l'égard des anciens prisonniers de guerre sont également applicables à tous les anciens combattants pour leur durée de service actif passé sous les drapeaux.
+Les dispositions du e ci-dessus s'appliquent à tous les anciens combattants pour leur durée de service actif passé sous les drapeaux.
 
-Pour les travailleurs manuels salariés justifiant d'une longue durée d'assurance dans le régime des assurances sociales agricoles ou dans ce régime et dans le régime général, qui ont effectué un travail en continu, en semi-continu, à la chaîne, un travail au four ou exposé aux intempéries sur les chantiers, pendant une durée déterminée par voie réglementaire,et dont la pension est liquidée à un âge compris entre soixante et soixante-cinq ans, cette pension est calculée compte tenu du taux normalement applicable à ce dernier âge. La pension est également calculée au taux normalement applicable à soixante-cinq ans au profit des mères de famille salariées justifiant d'une durée minimum d'assurance dans le régime des assurances sociales agricoles ou dans ce régime et dans le régime général dont la pension est liquidée à un âge compris entre soixante et soixante-cinq ans qui ont élevé au moins trois enfants dans les conditions prévues à l'article 2 (par. Ier-II, 2e alinéa) du présent décret et qui ont exercé un travail manuel ouvrier pendant une durée fixée par voie réglementaire.
+Par. 3 - Le service de la pension de vieillesse attribuée ou revisée au titre de l'inaptitude au travail peut être suspendu lorsque le titulaire, âgé de moins de soixante-cinq ans, exerce une activité professionnelle lui procurant des revenus dépassant un chiffre déterminé par voie réglementaire.
 
-La pension est également calculée au taux normalement applicable à soixante-cinq ans au profit des femmes assurées justifiant d'une durée d'assurance d'au moins trente-sept ans et demi dans le régime des assurances sociales agricoles ou dans ce régime et dans le régime général et dont la pension est liquidée :
+Le montant de la pension de retraite d'un assuré âgé de plus de soixante-cinq ans ou de moins de soixante-cinq ans mais inapte au travail, ne peut être inférieur à celui visé à l'article L. 345 du code de la sécurité sociale.
 
-A un âge compris entre soixante-trois et soixante-cinq ans lorsque cette pension prend effet à compter du 1er janvier 1978 ;
+Par. 4 - Lorsque le montant de la pension est inférieur à un minimum, un versement forfaitaire unique [*capital*] est substitué à la pension, dans les conditions fixées par voie réglementaire.
 
-A un âge compris entre soixante et soixante-cinq ans lorsque cette pension prend effet à compter du 1er janvier 1979.
+Par. 5 - La pension [*de retraite*] prévue aux paragraphes 1er et 2 ci-dessus est augmentée d'une bonification d'un dixième pour tout assuré de l'un ou de l'autre sexe ayant eu au moins trois enfants [*nombre, majoration*].
 
-PAR. 3 - Lorsque le montant de la pension est inférieure à un minimum, un versement forfaitaire unique est substitué à la pension dans les conditions fixées par voie réglementaire.
+Ouvrent également droit à cette bonification les enfants élevés dans les conditions prévues à l'article 2 (par. 1er-II, 2ème alinéa) ci-dessous.
 
-PAR. 4 - I. - La pension prévue aux paragraphes 1er, 2 et 2 bis est augmentée d'une bonification d'un dixième pour tout assuré de l'un ou de l'autre sexe ayant eu au moins trois enfants [*nombre*].
+Par. 6 - La pension prévue aux paragraphes 1er et 2 ci-dessus est assortie d'une majoration lorsque le conjoint à charge du titulaire atteint l'âge fixé par voie réglementaire et n'est pas bénéficiaire d'un avantage au titre d'une législation de sécurité sociale.    Par. 7 - Les femmes assurées ayant élevé un ou plusieurs enfants dans les conditions prévues à l'article 2 (par. 1er-II, 2ème alinéa) ci-dessous bénéficient d'une majoration de leur durée d'assurance égale à deux années supplémentaires par enfant élevé dans lesdites conditions.
 
-Ouvrent également droit à cette bonification les enfants élevés dans les conditions prévues à l'article 2 (par. 1er - II, 2ème alinéa) ci-dessous.
+Par. 8 - Le père assuré ayant obtenu un congé parental d'éducation dans les conditions de l'article L. 122-28-1, 5ème alinéa, du code du travail, ou un congé parental dans les conditions prévues par l'article 21-VII de la loi n° 78-753 du 17 juillet 1978, bénéficie d'une majoration de sa durée d'assurance égale à la durée effective du congé parental.
 
-II. - La pension prévue aux paragraphes 1er et 2 ci-dessus est assortie d'une majoration, lorsque le conjoint à charge du titulaire atteint l'âge fixé par voie réglementaire et n'est pas bénéficiaire d'un avantage au titre d'une législation de sécurité sociale.
+Cette majoration est également accordée aux femmes assurées qui ont obtenu un congé parental d'éducation dans les mêmes conditions et ne peuvent bénéficier des dispositions du paragraphe 7 ci-dessus.
 
-PAR. 5 - Les femmes assurées ayant élevé un ou plusieurs enfants dans les conditions prévues au deuxième alinéa II du paragraphe 1er de l'article 2 ci-dessous bénéficient d'une majoration de leur durée d'assurance égale à deux années supplémentaires par enfant élevé dans lesdites conditions.
+Par. 9 - Les assurés âgés de plus de soixante-cinq ans bénéficient d'une majoration de leur durée d'assurance qui est fonction du nombre d'années supplémentaires par rapport à l'âge de soixante-cinq ans.
+
+Par. 10 - Les montants de la majoration pour conjoint à charge prévue au paragraphe 6 du présent article et du minimum de pension prévu à l'article L. 345 du code de la sécurité sociale sont fixés par décret en tenant compte de la durée d'assurance lorsque celle-ci est inférieure à la durée déterminée par ce décret.
