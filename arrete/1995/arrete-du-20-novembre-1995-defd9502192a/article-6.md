@@ -1,0 +1,3 @@
+# Article 6
+
+Les traitements automatisés d'informations nominatives ayant pour objet les opérations relatives au recensement en vue de l'accomplissement du service national conformes aux dispositions du présent arrêté et mis en service par les autorités citées à l'article 1er feront l'objet de la déclaration prévue à l'article 17 de la loi du 6 janvier 1978 susvisée auprès de la Commission nationale de l'informatique et des libertés. Les traitements automatisés d'informations nominatives qui ont été déclarés antérieurement à la publication du présent arrêté feront éventuellement l'objet de déclarations de mise en conformité.

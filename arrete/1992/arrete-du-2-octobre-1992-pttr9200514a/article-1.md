@@ -42,9 +42,7 @@ ST/LAA/ELR/TRA/732 Niveau 2 du protocole D pour le raccordement de terminaisons 
 
 49 DRG 3 - 1991
 
-ST/LAA/ELR/TRA/733 Niveau 3 du protocole D pour le raccordement de
-
-terminaisons numériques d'abonnés (TNA) par accès de base.
+ST/LAA/ELR/TRA/733 Niveau 3 du protocole D pour le raccordement de terminaisons numériques d'abonnés (TNA) par accès de base.
 
 49 DRG 3 - 1991
 
@@ -117,14 +115,6 @@ ST/PAA/TPA/CRE/1284 Spécifications des tonalités et annonces parlées émises 
 ST/PAA/TPA/STP/1311 Compatibilité électromagnétique des autocommutateurs privés.
 
 281 T 34 - 1986
-
-ST/PAA/TPA/AGH/1423 Raccordement des terminaux téléphoniques et télématiques sur les installations intérieures simples d'abonné.
-
-37 DRG 9 - 1992
-
-ST/PAA/RPA/AGH/1435 Caractéristiques de transmission des terminaux téléphoniques et télématiques.
-
-43 DRG 15 - 1992
 
 ST/PAA/TPA/STP/1584 Signalisation sur les circuits entre colisée et les installations privées.
 

@@ -250,6 +250,7 @@
 - [Décret n°95-563 du 6 mai 1995 (SPSA9501283D)](decret-n95-563-du-6-mai-1995-spsa9501283d)
 - [Décret n°95-564 du 6 mai 1995 (SPSS9501464D)](decret-n95-564-du-6-mai-1995-spss9501464d)
 - [Décret n°95-565 du 6 mai 1995 (SPSP9501408D)](decret-n95-565-du-6-mai-1995-spsp9501408d)
+- [Décret n°95-566 du 6 mai 1995 (SPSP9501453D)](decret-n95-566-du-6-mai-1995-spsp9501453d)
 - [Décret n°95-567 du 6 mai 1995 (SPSG9500984D)](decret-n95-567-du-6-mai-1995-spsg9500984d)
 - [Décret n°95-568 du 6 mai 1995 (SPSH9501451D)](decret-n95-568-du-6-mai-1995-spsh9501451d)
 - [Décret n°95-569 du 6 mai 1995 (SPSH9501452D)](decret-n95-569-du-6-mai-1995-spsh9501452d)
