@@ -1,6 +1,6 @@
 # Article 1
 
-Les documents administratifs émanant des services centraux et extérieurs du ministère des P.T.T. ainsi que des établissements publics (à l'exception de Télédiffusion de France) et des organismes de droit privé chargés de la gestion d'un service public placés sous la tutelle du ministre ne peuvent, sous réserve de l'application de la loi susvisée sur les archives, être communiqués au public, lorsque, par leur nature ou leur objet, ils entrent dans l'une des catégories ci-après [*communication - refus*] :
+Les documents administratifs émanant des services centraux et extérieurs du ministère des P.T.T. ainsi que des établissements publics (à l'exception de Télédiffusion de France) et des organismes de droit privé chargés de la gestion d'un service public placés sous la tutelle du ministre ne peuvent, sous réserve de l'application de la loi susvisée sur les archives, être communiqués au public, lorsque, par leur nature ou leur objet, ils entrent dans l'une des catégories ci-après :
 
 1 - Documents dont la consultation ou la communication pourrait porter atteinte au secret des délibérations du Gouvernement et des autorités responsables relevant du pouvoir exécutif.
 
@@ -34,4 +34,4 @@ Documents contenant des informations économiques, financières, commerciales ou
 
 Eléments techniques et financiers sur des entreprises parties à des procédures de conclusion de contrats ou marchés publics et sur leurs propositions ou leurs offres.
 
-Documents scientifiques et techniques relatifs aux travaux de recherche du service de recherche technique des postes ou du centre national d'études des télécommunications dont les résultats sont susceptibles d'être protégés au titre du régime d'une activité commerciale, ainsi que les documents présentant ces résultats.
+Documents scientifiques et techniques relatifs aux travaux de recherche du service de recherche technique des postes ou du centre national d'études des télécommunications dont les résultats sont susceptibles d'être protégés au titre du régime d'une activité commerciale, ainsi que les documents présentant ces résultats.    Documents constituant la partie " D " et les annexes 2, 3, 4, 7 8, 10, 12 et 13 du formulaire de déclaration ou de demande d'autorisation constitué pour l'application du décret n° 87-775 du 24 septembre 1987 relatif aux liaisons spécialisées et aux réseaux télématiques ouverts à des tiers.
