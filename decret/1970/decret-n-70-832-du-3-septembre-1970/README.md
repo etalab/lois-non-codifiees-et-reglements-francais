@@ -2,5 +2,6 @@
 
 - [Titre Ier : Dispositions générales.](titre-ier)
 - [Titre II : Recrutement.](titre-ii)
+- [Titre III : Avancement.](titre-iii)
 - [Titre IV : Dispositions transitoires.](titre-iv)
 - [Titre V : Dispositions concernant les retraites.](titre-v)
