@@ -20,7 +20,6 @@
 - [Arrêté du 5 février 1977](arrete-du-5-fevrier-1977)
 - [Arrêté du 5 juillet 1977](arrete-du-5-juillet-1977)
 - [Arrêté du 6 décembre 1977](arrete-du-6-decembre-1977)
-- [Arrêté du 6 janvier 1977](arrete-du-6-janvier-1977)
 - [Arrêté du 6 septembre 1977](arrete-du-6-septembre-1977)
 - [Arrêté du 7 mars 1977](arrete-du-7-mars-1977)
 - [Arrêté du 7 novembre 1977](arrete-du-7-novembre-1977)
