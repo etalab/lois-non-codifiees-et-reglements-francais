@@ -1,0 +1,3 @@
+# IMPOT SUR LE REVENU
+
+- [BENEFICES INDUSTRIELS ET COMMERCIAUX (BIC)](benefices-industriels-et)
