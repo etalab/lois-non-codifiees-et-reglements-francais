@@ -35,7 +35,6 @@
 - [Décret n°75-142 du 3 mars 1975](decret-n75-142-du-3-mars-1975)
 - [Décret n°89-142 du 3 mars 1989 (BUDD8970001D)](decret-n89-142-du-3-mars-1989-budd8970001d)
 - [Décret n°89-143 du 3 mars 1989 (SPSS8900244D)](decret-n89-143-du-3-mars-1989-spss8900244d)
-- [Décret n°89-3 du 3 janvier 1989 (SPSP8801764D)](decret-n89-3-du-3-janvier-1989-spsp8801764d)
 - [Décret n°89-537 du 3 août 1989 (INTB8900218D)](decret-n89-537-du-3-aout-1989-intb8900218d)
 - [Décret n°89-538 du 3 août 1989 (SPSH8901518D)](decret-n89-538-du-3-aout-1989-spsh8901518d)
 - [Décret n°89-539 du 3 août 1989 (SPSH8901517D)](decret-n89-539-du-3-aout-1989-spsh8901517d)
