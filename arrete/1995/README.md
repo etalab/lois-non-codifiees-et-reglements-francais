@@ -374,7 +374,6 @@
 - [Arrêté du 8 décembre 1994 (INDP9401429A)](arrete-du-8-decembre-1994-indp9401429a)
 - [Arrêté du 8 décembre 1994 (INDP9401448A)](arrete-du-8-decembre-1994-indp9401448a)
 - [Arrêté du 8 décembre 1994 (INDP9401449A)](arrete-du-8-decembre-1994-indp9401449a)
-- [Arrêté du 8 décembre 1995 (AGRG9502479A)](arrete-du-8-decembre-1995-agrg9502479a)
 - [Arrêté du 8 décembre 1995 (EQUA9501833A)](arrete-du-8-decembre-1995-equa9501833a)
 - [Arrêté du 8 décembre 1995 (MJSK9570169A)](arrete-du-8-decembre-1995-mjsk9570169a)
 - [Arrêté du 8 décembre 1995 (MJSK9570170A)](arrete-du-8-decembre-1995-mjsk9570170a)
