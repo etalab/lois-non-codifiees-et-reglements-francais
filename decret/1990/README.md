@@ -51,6 +51,7 @@
 - [Décret n°91-486 du 14 mai 1991 (MCCB9100224D)](decret-n91-486-du-14-mai-1991-mccb9100224d)
 - [Décret n°65-577 du 15 juillet 1965](decret-n65-577-du-15-juillet-1965)
 - [Décret n°89-840 du 15 novembre 1989 (JUSC8920832D)](decret-n89-840-du-15-novembre-1989-jusc8920832d)
+- [Décret n°90-58 du 15 janvier 1990 (ECOX9010021D)](decret-n90-58-du-15-janvier-1990-ecox9010021d)
 - [Décret n°93-413 du 15 mars 1993 (DEFP9202188D)](decret-n93-413-du-15-mars-1993-defp9202188d)
 - [Décret n°90-238 du 16 mars 1990 (INDA8901034D)](decret-n90-238-du-16-mars-1990-inda8901034d)
 - [Décret n°90-239 du 16 mars 1990 (INDA8901035D)](decret-n90-239-du-16-mars-1990-inda8901035d)

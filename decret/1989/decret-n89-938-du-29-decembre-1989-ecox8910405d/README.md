@@ -5,4 +5,5 @@
 - [Titre III : Dispositions propres aux mouvements physiques de sommes, titres ou valeurs.](titre-iii)
 - [Titre IV : Emission et introduction sur le marché en france de titres étrangers.](titre-iv)
 - [Titre V : Investissements directs.](titre-v)
+- [Titre VI : Dispositions diverses.](titre-vi)
 - [Article 19](article-19.md)

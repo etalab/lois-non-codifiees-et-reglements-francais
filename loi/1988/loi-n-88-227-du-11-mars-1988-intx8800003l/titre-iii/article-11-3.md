@@ -1,0 +1,3 @@
+# Article 11-3
+
+Le parti politique peut recourir successivement à deux ou plusieurs intermédiaires. Dans cette hypothèse, le parti doit mettre fin aux fonctions du mandataire financier ou demander le retrait de l'agrément de l'association de financement dans les mêmes formes que la désignation ou la demande d'agrément. Le compte bancaire ou postal unique est bloqué jusqu'au moment où le parti désigne un nouveau mandataire financier ou reçoit l'agrément d'une nouvelle association de financement. Chaque association ou chaque mandataire financier, sauf le cas de décès de ce dernier, établit le compte de sa gestion.
