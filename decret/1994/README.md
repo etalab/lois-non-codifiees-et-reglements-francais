@@ -178,7 +178,6 @@
 - [Décret n°94-45 du 11 janvier 1994 (INTA9300606D)](decret-n94-45-du-11-janvier-1994-inta9300606d)
 - [Décret n°94-47 du 11 janvier 1994 (ENVQ9310117D)](decret-n94-47-du-11-janvier-1994-envq9310117d)
 - [Décret n°96-618 du 11 juillet 1996 (EQUX9600078D)](decret-n96-618-du-11-juillet-1996-equx9600078d)
-- [Décret n°94-368 du 11 mai 1994 (INTA9400140D)](decret-n94-368-du-11-mai-1994-inta9400140d)
 - [Décret n°94-286 du 12 avril 1994 (EQUT9400442D)](decret-n94-286-du-12-avril-1994-equt9400442d)
 - [Décret n°94-298 du 12 avril 1994 (MCCX9300197D)](decret-n94-298-du-12-avril-1994-mccx9300197d)
 - [Décret n°94-299 du 12 avril 1994 (JUSC9420227D)](decret-n94-299-du-12-avril-1994-jusc9420227d)
