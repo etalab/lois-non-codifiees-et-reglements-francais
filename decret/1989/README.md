@@ -177,6 +177,7 @@
 - [Décret n°89-265 du 25 avril 1989 (PRME8961244D)](decret-n89-265-du-25-avril-1989-prme8961244d)
 - [Décret n°89-36 du 25 janvier 1989 (SPSS8801887D)](decret-n89-36-du-25-janvier-1989-spss8801887d)
 - [Décret n°89-334 du 25 mai 1989 (PTTA8800761D)](decret-n89-334-du-25-mai-1989-ptta8800761d)
+- [Décret n°89-336 du 25 mai 1989 (MENL8900267D)](decret-n89-336-du-25-mai-1989-menl8900267d)
 - [Décret n°89-262 du 26 avril 1989 (MCCK8900091D)](decret-n89-262-du-26-avril-1989-mcck8900091d)
 - [Décret n°89-264 du 26 avril 1989 (PTTA8801158D)](decret-n89-264-du-26-avril-1989-ptta8801158d)
 - [Décret n°89-267 du 26 avril 1989 (ECOX8910107D)](decret-n89-267-du-26-avril-1989-ecox8910107d)
