@@ -1,25 +1,21 @@
 # Article 12
 
-Lorsque les huissiers de justice ont reçu mandat de recouvrer ou d'encaisser amiablement des sommes dues par un débiteur, dans les autres cas que ceux prévus aux articles 10 et 11, il leur est alloué, à condition que ce recouvrement soit poursuivi en dehors de toute procédure et de toute action judiciaire, un droit proportionnel de :
+Lorsque les huissiers de justice ont reçu mandat de recouvrer ou d'encaisser amiablement des sommes dues par un débiteur, il leur est alloué un droit proportionnel calculé sur les tranches suivantes :
 
-12 % de 0 à 150 taux de base ;
+12 p. 100 de 0 F jusqu'à 1095 F.
 
-10 % de 151 à 450 taux de base ;
+10 p. 100 de 1096 F jusqu'à 3285 F.
 
-8 % de 451 à 900 taux de base ;
+8 p. 100 de 3286 F jusqu'à 6570 F.
 
-6 % de 901 à 1200 taux de base ;
+6 p. 100 de 6571 F jusqu'à 8760 F.
 
-4 % de 1201 à 4000 taux de base ;
+4 p. 100 de 8761 F jusqu'à 29200 F.
 
-1,5 % de 4001 à 25000 taux de base ;
+1,5 p. 100 de 29201 F jusqu'à 182500 F.
 
-1 % de 25001 à 100000 taux de base ;
+1 p. 100 de 182501 F jusqu'à 730000 F.
 
-0,25 % de 100001 à 400000 taux de base ;
+0,25 p. 100 au-delà de 730000 F.
 
-0,20 % de 400001 à 600000 taux de base ;
-
-0,10 % au-delà de 600000 taux de base.
-
-Ce droit, calculé sur les sommes effectivement encaissées ou recouvrées, est à la charge du créancier.
+Ce droit, calculé sur les sommes effectivement encaissées ou recouvrées quel que soit le montant de la créance, ne peut excéder 10000 F. Il est à la charge du créancier et exclusif du droit prévu à l'article 9 perçu sur le débiteur, à l'exception du cas prévu à l'article 12-1 ci-après.
