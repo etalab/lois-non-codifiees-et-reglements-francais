@@ -4,4 +4,5 @@
 - [TITRE Ier : Inscriptions.](titre-ier)
 - [TITRE II : Lieu d'inscription - transferts.](titre-ii)
 - [TITRE III : Dispositions relatives à l'accueil des étudiants étrangers.](titre-iii)
+- [TITRE IV.](titre-iv)
 - [Article 25](article-25.md)
