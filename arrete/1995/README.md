@@ -1,5 +1,6 @@
 # 1995
 
+- [Arrêté du 1 août 1995 (AGRE9501532A)](arrete-du-1-aout-1995-agre9501532a)
 - [Arrêté du 1 août 1995 (SANP9502399A)](arrete-du-1-aout-1995-sanp9502399a)
 - [Arrêté du 1 février 1995 (ECOT9510226A)](arrete-du-1-fevrier-1995-ecot9510226a)
 - [Arrêté du 1 février 1995 (MCCK9500056A)](arrete-du-1-fevrier-1995-mcck9500056a)
@@ -397,6 +398,7 @@
 - [Arrêté du 11 juillet 1995 (DEFP9501804A)](arrete-du-11-juillet-1995-defp9501804a)
 - [Arrêté du 11 juillet 1995 (INDB9500806A)](arrete-du-11-juillet-1995-indb9500806a)
 - [Arrêté du 11 juillet 1995 (INTC9500371A)](arrete-du-11-juillet-1995-intc9500371a)
+- [Arrêté du 11 juillet 1995 (MENA9501691A)](arrete-du-11-juillet-1995-mena9501691a)
 - [Arrêté du 11 septembre 1991 (AGRB9101548A)](arrete-du-11-septembre-1991-agrb9101548a)
 - [Arrêté du 11 mai 1987 (DEFD8701341A)](arrete-du-11-mai-1987-defd8701341a)
 - [Arrêté du 12 avril 1995 (ACVA9510034A)](arrete-du-12-avril-1995-acva9510034a)
@@ -846,6 +848,7 @@
 - [Arrêté du 26 janvier 1995 (INTB9500052A)](arrete-du-26-janvier-1995-intb9500052a)
 - [Arrêté du 26 janvier 1995 (JUSA9500053A)](arrete-du-26-janvier-1995-jusa9500053a)
 - [Arrêté du 26 janvier 1995 (RESM9500104A)](arrete-du-26-janvier-1995-resm9500104a)
+- [Arrêté du 26 juillet 1995 (AGRE9501522A)](arrete-du-26-juillet-1995-agre9501522a)
 - [Arrêté du 26 juillet 1995 (EQUP9500976A)](arrete-du-26-juillet-1995-equp9500976a)
 - [Arrêté du 26 juillet 1995 (EQUP9501152A)](arrete-du-26-juillet-1995-equp9501152a)
 - [Arrêté du 26 juin 1995 (ECOD9540003A)](arrete-du-26-juin-1995-ecod9540003a)

@@ -18,7 +18,11 @@ Chirurgie urologique ;
 
 Chirurgie vasculaire ;
 
-Chirurgie viscérale.
+Chirurgie viscérale ;
+
+Stomatologie et chirurgie maxillo-faciale ;
+
+Stomatologie.
 
 2. Avoir validé dans le cadre du diplôme d'études spécialisées ou du diplôme d'études spécialisées complémentaires :
 
