@@ -45,6 +45,7 @@
 - [Décret n°99-1051 du 15 décembre 1999 (INTC9900240D)](decret-n99-1051-du-15-decembre-1999-intc9900240d)
 - [Décret n°99-1055 du 15 décembre 1999 (INTC9900289D)](decret-n99-1055-du-15-decembre-1999-intc9900289d)
 - [Décret n°99-1083 du 15 décembre 1999 (EQUB9900345D)](decret-n99-1083-du-15-decembre-1999-equb9900345d)
+- [Décret n°99-26 du 15 janvier 1999 (ATEP9860073D)](decret-n99-26-du-15-janvier-1999-atep9860073d)
 - [Décret n°98-1156 du 16 décembre 1998 (FPPA9800225D)](decret-n98-1156-du-16-decembre-1998-fppa9800225d)
 - [Décret n°99-952 du 16 novembre 1999 (MESG9922810D)](decret-n99-952-du-16-novembre-1999-mesg9922810d)
 - [Décret n°2000-265 du 17 mars 2000 (MENF0000158D)](decret-n2000-265-du-17-mars-2000-menf0000158d)

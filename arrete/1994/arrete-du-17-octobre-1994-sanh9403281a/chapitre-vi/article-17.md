@@ -1,6 +1,6 @@
 # Article 17
 
-Les candidats doivent adresser, par lettre recommandée avec avis de réception, à la direction régionale des affaires sanitaires et sociales organisatrice du concours national, un dossier comportant les pièces suivantes :
+Les candidats doivent adresser par lettre recommandée avec avis de réception à la direction régionale des affaires sanitaires et sociales désignée par le ministre chargé de la santé un dossier comportant les pièces suivantes :
 
 1. Le formulaire de demande de candidature rempli lisiblement et complètement.
 
