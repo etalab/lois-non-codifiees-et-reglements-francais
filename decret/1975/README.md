@@ -82,6 +82,7 @@
 - [Décret n°75-544 du 30 juin 1975](decret-n75-544-du-30-juin-1975)
 - [Décret n°75-60 du 30 janvier 1975](decret-n75-60-du-30-janvier-1975)
 - [Décret n°75-683 du 30 juillet 1975](decret-n75-683-du-30-juillet-1975)
+- [Décret n°75-692 du 30 juillet 1975](decret-n75-692-du-30-juillet-1975)
 - [Décret n°74-1181 du 31 décembre 1974](decret-n74-1181-du-31-decembre-1974)
 - [Décret n°74-1182 du 31 décembre 1974](decret-n74-1182-du-31-decembre-1974)
 - [Décret n°74-1184 du 31 décembre 1974](decret-n74-1184-du-31-decembre-1974)
