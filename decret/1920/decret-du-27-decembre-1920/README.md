@@ -3,4 +3,5 @@
 - [CHAPITRE I : Frais de voyage des parties.](chapitre-i)
 - [CHAPITRE II : Experts.](chapitre-ii)
 - [CHAPITRE III : Dépositaires de pièces.](chapitre-iii)
+- [CHAPITRE IV : Témoins.](chapitre-iv)
 - [Article 15](article-15.md)
