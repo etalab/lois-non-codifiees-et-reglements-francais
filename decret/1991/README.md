@@ -124,6 +124,7 @@
 - [Décret n°91-173 du 18 février 1991 (MENG9100354D)](decret-n91-173-du-18-fevrier-1991-meng9100354d)
 - [Décret n°91-174 du 18 février 1991 (BUDB9150007D)](decret-n91-174-du-18-fevrier-1991-budb9150007d)
 - [Décret n°91-176 du 18 février 1991 (AGRA9100254D)](decret-n91-176-du-18-fevrier-1991-agra9100254d)
+- [Décret n°91-177 du 18 février 1991 (EQUP9100028D)](decret-n91-177-du-18-fevrier-1991-equp9100028d)
 - [Décret n°91-178 du 18 février 1991 (RESZ9100045D)](decret-n91-178-du-18-fevrier-1991-resz9100045d)
 - [Décret n°91-179 du 18 février 1991 (RESZ9100044D)](decret-n91-179-du-18-fevrier-1991-resz9100044d)
 - [Décret n°91-183 du 18 février 1991 (INDH9000828D)](decret-n91-183-du-18-fevrier-1991-indh9000828d)

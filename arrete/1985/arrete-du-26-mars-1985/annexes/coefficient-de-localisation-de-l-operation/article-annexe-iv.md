@@ -10,7 +10,7 @@ IV-1
 
 " a1 = 0,150 dans les îles non reliées au continent par voie routière et dont la population n'excède pas 10 000 habitants ;
 
-" a1 = 0,100 en zone I ;
+" a1 = 0,130 en zone I ;
 
 " a1 = 0,065 dans le reste de la région d'Ile-de-France ; dans les communes des cantons suivants du département de l'Oise : Creil, Nogent-sur-Oise, Creil-Sud, Chantilly, Montataire, Neuilly-en-Thelle, Pont-Sainte-Maxence, Senlis et Nanteuil-le-Haudoin ; dans les îles non reliées au continent par voie routière et dont la population excède 10 000 habitants. "
 

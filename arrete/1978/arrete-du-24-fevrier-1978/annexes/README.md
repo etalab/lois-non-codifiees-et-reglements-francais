@@ -3,6 +3,7 @@
 - [Coefficient de surface i.](coefficient-de-surface-i)
 - [Coefficient de majoration c](coefficient-de-majoration-c)
 - [Coefficient de difficulté d'exécution des travaux d.](coefficient-de-difficulte-d-execution-des-travaux-d)
+- [Coefficients de localisation de l'opération a et b.](coefficients-de-localisation-de-l-operation-a-et-b)
 - [Majoration relative au coût du relogement g](majoration-relative-au)
 - [Coefficient de difficulté architecturale e.](coefficient-de-difficulte-architecturale-e)
 - [Liste des principaux travaux d'accessibilité de l'immeuble et du logement et d'adaptation du logement aux handicapés physiques.](liste-des-principaux-travaux-d-accessibilite-de-l-immeuble-et)

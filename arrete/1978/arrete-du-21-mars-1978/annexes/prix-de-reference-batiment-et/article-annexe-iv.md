@@ -26,7 +26,7 @@ b1 = - 0,003 (N - 100 / 100).
 
 Pour déterminer la valeur de N, on affectera le nombre réel de logements de chaque type des coefficients de pondération suivants :
 
-Logements de type I = 0,30 ;
+Logements de type I = 0,50 ;
 
 Logements de type I bis = 0,50 ;
 
