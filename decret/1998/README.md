@@ -390,7 +390,6 @@
 - [Décret n°98-593 du 13 juillet 1998 (MESH9822198D)](decret-n98-593-du-13-juillet-1998-mesh9822198d)
 - [Décret n°98-596 du 13 juillet 1998 (ECOT9826215D)](decret-n98-596-du-13-juillet-1998-ecot9826215d)
 - [Décret n°98-597 du 13 juillet 1998 (AGRA9800763D)](decret-n98-597-du-13-juillet-1998-agra9800763d)
-- [Décret n°98-599 du 13 juillet 1998 (MESS9821552D)](decret-n98-599-du-13-juillet-1998-mess9821552d)
 - [Décret n°98-915 du 13 octobre 1998 (MENF9802369D)](decret-n98-915-du-13-octobre-1998-menf9802369d)
 - [Décret n°98-916 du 13 octobre 1998 (MENF9802370D)](decret-n98-916-du-13-octobre-1998-menf9802370d)
 - [Décret n°98-917 du 13 octobre 1998 (AGRG9801763D)](decret-n98-917-du-13-octobre-1998-agrg9801763d)
