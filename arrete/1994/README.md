@@ -714,7 +714,6 @@
 - [Arrêté du 28 décembre 1992 (SPSS9203348A)](arrete-du-28-decembre-1992-spss9203348a)
 - [Arrêté du 28 décembre 1993 (JUSF9350087A)](arrete-du-28-decembre-1993-jusf9350087a)
 - [Arrêté du 28 décembre 1993 (JUSF9350088A)](arrete-du-28-decembre-1993-jusf9350088a)
-- [Arrêté du 28 décembre 1993 (SANH9303686A)](arrete-du-28-decembre-1993-sanh9303686a)
 - [Arrêté du 28 décembre 1993 (SPSS9303610A)](arrete-du-28-decembre-1993-spss9303610a)
 - [Arrêté du 28 février 1994 (EQUH9301669A)](arrete-du-28-fevrier-1994-equh9301669a)
 - [Arrêté du 28 février 1994 (EQUH9400282A)](arrete-du-28-fevrier-1994-equh9400282a)
