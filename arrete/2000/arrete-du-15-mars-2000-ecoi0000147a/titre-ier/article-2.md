@@ -4,9 +4,9 @@ Le présent arrêté est applicable aux équipements sous pression mentionnés �
 
 Paragraphe 1. Les récipients de gaz destinés à contenir un fluide du groupe 1 dont le produit PS.V est supérieur à 50 bar.l, à l'exception de ceux dont le volume V est au plus égal à un l et la pression maximale admissible PS au plus égale à 200 bar ;
 
-Paragraphe 2. Les récipients de gaz destinés à contenir un fluide du groupe 2 autre que la vapeur, dont le produit PS.V est supérieur à 200 bar.l, à l'exception de ceux dont le volume V est au plus égal à un l et la pression maximale admissible PS au plus égale à 1 000 bar et à l'exception de ceux dont la pression maximale admissible est au plus égale à 4 bar sauf s'il s'agit des récipients à couvercle amovible à fermeture rapide ;
+Paragraphe 2. Les récipients de gaz destinés à contenir un fluide du groupe 2 autre que la vapeur, dont le produit PS.V est supérieur à 200 bar.l, à l'exception de ceux dont le volume V est au plus égal à un l et la pression maximale admissible PS au plus égale à 1 000 bar et à l'exception de ceux dont la pression maximale admissible est au plus égale à 4 bar sauf s'il s'agit des appareils à couvercle amovible à fermeture rapide ;
 
-Paragraphe 3. Les récipients de vapeur ou d'eau surchauffée dont le produit PS.V est supérieur à 200 bar.l, à l'exception de ceux dont le volume V est égal à un l ;
+Paragraphe 3. Les récipients de vapeur ou d'eau surchauffée dont le produit PS.V est supérieur à 200 bar/l, à l'exception de ceux dont le volume est au plus égal à un litre ;
 
 Paragraphe 4. Les générateurs de vapeur dont le volume V est supérieur à 25 l ;
 

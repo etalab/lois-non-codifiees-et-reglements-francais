@@ -14,9 +14,9 @@ Ce compte rendu est daté et signé par la personne qui a procédé à l'inspect
 
 Paragraphe 3. L'inspection périodique a lieu aussi souvent que nécessaire, l'intervalle entre deux inspections périodiques ne pouvant dépasser :
 
-- douze mois pour les bouteilles pour appareils respiratoires utilisées pour la plongée subaquatique ;
+- douze mois pour les bouteilles pour appareils respiratoires utilisées pour la plongée subaquatique ainsi que pour les récipients en matériaux autres que métalliques, sauf si ces derniers font l'objet d'essais de vieillissement réalisés conformément à un cahier des charges approuvé par le ministre chargé de l'industrie après avis de la Commission centrale des appareils à pression, auquel cas l'intervalle entre deux inspections périodiques est porté au plus à quarante mois ;
 
-- dix-huit mois pour les générateurs de vapeur et les récipients à couvercle amovible à fermeture rapide ;
+- dix-huit mois pour les générateurs de vapeur et les appareils à couvercle amovible à fermeture rapide ;
 
 - quarante mois pour les autres récipients sous pression, à l'exception des tuyauteries et à l'exception des récipients à pression de vapeur mentionnés au dernier alinéa du paragraphe 2 de l'article 25 ci-après.
 
