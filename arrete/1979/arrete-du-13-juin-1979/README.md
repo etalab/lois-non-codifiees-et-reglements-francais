@@ -1,6 +1,3 @@
-# Arrêté du 13 juin 1979 portant création d'un service technique des remontées mécaniques
+# Arrêté du 13 juin 1979 RELATIF AU TAUX DE L'ALLOCATION PREVUE A L'ARTICLE 14 DU DECRET N. 68-1130 DU 16 DECEMBRE 1968.
 
 - [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
