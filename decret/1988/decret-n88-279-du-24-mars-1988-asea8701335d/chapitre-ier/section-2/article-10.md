@@ -1,6 +1,6 @@
 # Article 10
 
-Le tableau des effectifs de personnel fait apparaître, pour l'année considérée, le nombre des emplois par grade ou qualification, au sens du statut du personnel ou de la convention collective de travail de l'établissement. Les suppressions, transformations, créations d'emplois font l'objet d'une présentation distincte.
+Le tableau des effectifs de personnel fait apparaître, pour l'année considérée, le nombre des emplois par grade ou qualification, au sens du statut du personnel ou de la convention collective de travail de l'établissement ou du service. Les suppressions, transformations, créations d'emplois font l'objet d'une présentation distincte.
 
 Les variations du tableau des effectifs de personnel sont soumises à l'approbation prévue à l'article 26-1 (4°) de la loi du 30 juin 1975 susvisée en même temps que les prévisions de recettes et de dépenses. Le tableau approuvé a un caractère limitatif pour la prise en charge par l'Etat ou l'assurance maladie des dépenses correspondantes.
 

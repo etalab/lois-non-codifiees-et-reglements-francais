@@ -2,7 +2,7 @@
 
 I. - Les charges inscrites à la section d'exploitation couvrent notamment :
 
-a) L'exploitation normale et courante de l'établissement ;
+a) L'exploitation normale et courante de l'établissement ou du service ;
 
 b) Sa gestion financière ;
 
@@ -20,9 +20,9 @@ II. - Les produits inscrits à cette section comprennent notamment :
 
 a) La dotation globale de financement ou le produit des prix de journée ;
 
-b) Les produits des services rendus et des biens vendus autres que les valeurs immobilisées calculés selon la réglementation en vigueur ou en vertu de conventions passées par l'établissement ;
+b) Les produits des services rendus et des biens vendus autres que les valeurs immobilisées calculés selon la réglementation en vigueur ou en vertu de conventions passées par l'établissement ou le service  ;
 
-c) Les produits commerciaux résultant de l'activité de production et de commercialisation annexée à l'activité sociale de l'établissement ;
+c) Les produits commerciaux résultant de l'activité de production et de commercialisation annexée à l'activité sociale de l'établissement ou du service ;
 
 d) Les subventions, dons et legs affectés à l'exploitation ;
 
@@ -32,4 +32,4 @@ f) Les reprises sur provisions ;
 
 g) La valeur des dettes atteintes de péremption ou de déchéance ;
 
-h) Eventuellement, la valeur des travaux ou des productions de stocks réalisés par l'établissement pour lui-même.
+h) Eventuellement, la valeur des travaux ou des productions de stocks réalisés par l'établissement ou le service pour lui-même.

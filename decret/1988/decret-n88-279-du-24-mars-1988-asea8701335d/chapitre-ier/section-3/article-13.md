@@ -1,6 +1,6 @@
 # Article 13
 
-Les établissements autres que ceux mentionnés à l'article 4 doivent tenir une comptabilité dont la liste des comptes est établie par référence au plan comptable des établissements d'hospitalisation publics.
+Les établissements et services autres que ceux mentionnés à l'article 4 doivent tenir une comptabilité dont la liste des comptes est établie par référence au plan comptable des établissements d'hospitalisation publics.
 
 Les comptes non prévus au plan comptable hospitalier sont ouverts conformément au plan comptable général.
 

@@ -2,7 +2,7 @@
 
 L'affectation des résultats du budget principal ou annexe soumis à approbation est opérée après appréciation des circonstances ayant engendré ces résultats.
 
-Dans les établissements financés par dotation globale, l'excédent est affecté :
+Dans les établissements et services financés par dotation globale, l'excédent est affecté :
 
 a) Soit à la réduction des charges d'exploitation de l'exercice suivant celui au cours duquel il a été constaté ;
 
@@ -12,4 +12,4 @@ Dans les autres établissements, sous réserve des dispositions particulières q
 
 Le déficit est imputé aux charges d'exploitation de l'exercice suivant celui au cours duquel il a été constaté.
 
-Si le déficit est dû à un dépassement des dépenses prévisionnelles de la section d'exploitation qui avaient été approuvées, l'établissement présente un rapport motivé exposant les raisons qui l'ont amené à opérer ce dépassement sans recourir à une nouvelle approbation en cours d'année.
+Si le déficit est dû à un dépassement des dépenses prévisionnelles de la section d'exploitation qui avaient été approuvées, l'établissement ou le service présente un rapport motivé exposant les raisons qui l'ont amené à opérer ce dépassement sans recourir à une nouvelle approbation en cours d'année.

@@ -6,6 +6,8 @@ Les dispositions du présent décret sont applicables :
 
 2° Aux établissements mentionnés à l'article L. 162-24-1 du code de la sécurité sociale ;
 
-3° Aux centres de préorientation définis à l'article R. 323-33-1 du code du travail et aux centres d'éducation ou de rééducation professionnelle définis aux 1°, 2° et 3° de l'article R. 323-34 du code du travail ;
+3° aux services visés au 3° de l'article L. 321-1 du code de la sécurité sociale et au 2° de l'article 1er du décret n° 88-1200 du 28 décembre 1988 prenant en charge, sur décision de la commission départementale de l'éducation spéciale ou dans le cadre de l'intégration scolaire, de jeunes handicapés ;
 
-4° Aux centres mentionnés au 9° de l'article 3 de la loi du 30 juin 1975 modifiée susvisée.
+4° Aux centres de préorientation définis à l'article R. 323-33-1 du code du travail et aux centres d'éducation ou de rééducation professionnelle définis aux 1°, 2° et 3° de l'article R. 323-34 du code du travail ;
+
+5° Aux centres mentionnés au 9° de l'article 3 de la loi du 30 juin 1975 modifiée susvisée.

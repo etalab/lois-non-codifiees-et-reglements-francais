@@ -1,6 +1,6 @@
 # Article 24
 
-Les frais exposés par un siège social peuvent, sur autorisation particulière du ministre, chargé des affaires sociales, être intégrés dans le calcul de la dotation globale de financement ou du prix de journée. Ils doivent correspondre à un service rendu à l'établissement pour lequel le siège social se substitue totalement ou partiellement à celui-ci.
+Les frais exposés par un siège social peuvent, sur autorisation particulière du ministre, chargé des affaires sociales, être intégrés dans le calcul de la dotation globale de financement ou du prix de journée. Ils doivent correspondre à un service rendu à l'établissement ou au service pour lequel le siège social se substitue totalement ou partiellement à celui-ci.
 
 Lorsqu'un organisme gère un ensemble national ou régional d'établissements dont la tarification et le financement sont à la charge de l'Etat ou de l'assurance maladie, le contrôle des propositions de budget du siège social est effectué par le préfet du lieu d'implantation de celui-ci. Les conclusions du contrôle sont transmises aux préfets intéressés.
 
