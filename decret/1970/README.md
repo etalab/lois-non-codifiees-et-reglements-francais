@@ -24,6 +24,8 @@
 - [Décret n°70-240 du 9 mars 1970](decret-n70-240-du-9-mars-1970)
 - [Décret n°70-333 du 9 avril 1970](decret-n70-333-du-9-avril-1970)
 - [Décret n° 70-653 du 10 juillet 1970](decret-n-70-653-du-10-juillet-1970)
+- [Décret n° 70-837 du 10 septembre 1970](decret-n-70-837-du-10-septembre-1970)
+- [Décret n°70-836 du 10 septembre 1970](decret-n70-836-du-10-septembre-1970)
 - [Décret n° 70-492 du 11 juin 1970](decret-n-70-492-du-11-juin-1970)
 - [Décret n° 70-322 du 13 avril 1970](decret-n-70-322-du-13-avril-1970)
 - [Décret n° 70-323 du 13 avril 1970](decret-n-70-323-du-13-avril-1970)
