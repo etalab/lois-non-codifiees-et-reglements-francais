@@ -1,7 +1,5 @@
 # Article 1
 
-Les opérations des caisses autonomes mutualistes s'effectuent sous la responsabilité du conseil d'administration de la société mutualiste, de l'union ou fédération gestionnaire.
+Les directions départementales de l'équipement et les directions départementales de l'agriculture peuvent se voir confier par le ministre chargé de la santé certaines missions techniques relatives à la préparation et à l'exécution des opérations d'équipement sanitaire et social.
 
-La commission de contrôle du groupement gestionnaire vérifie la comptabilité ainsi que les fonds de la caisse autonome, fournit un rapport écrit concernant les opérations effectuées au cours de l'année écoulée et la situation de l'organisme en fin d'année, avant que l'inventaire ne soit transmis au ministre chargé de la mutualité.
-
-Le rapport est joint à l'inventaire. Il est, d'autre part, présenté à l'assemblée générale du groupement gestionnaire et annexé au procès-verbal de la délibération de cette assemblée.
+Pour l'exécution desdites missions, les chefs de ces services prennent la dénomination de délégués aux travaux d'équipement sanitaire et social et relèvent de l'autorité du ministre de la santé et de la famille. Ils assurent leurs fonctions en liaison avec les ingénieurs régionaux de l'équipement.
