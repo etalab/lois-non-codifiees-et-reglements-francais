@@ -12,6 +12,7 @@
 - [Loi n° 95-125 du 8 février 1995 (JUSX9400050L)](loi-n-95-125-du-8-fevrier-1995-jusx9400050l)
 - [Loi n° 95-1251 du 28 novembre 1995 (ECOX9500120L)](loi-n-95-1251-du-28-novembre-1995-ecox9500120l)
 - [Loi n° 95-126 du 8 février 1995 (INTX9400548L)](loi-n-95-126-du-8-fevrier-1995-intx9400548l)
+- [Loi n° 95-127 du 8 février 1995 (INTX9400551L)](loi-n-95-127-du-8-fevrier-1995-intx9400551l)
 - [Loi n° 95-1270 du 6 décembre 1995 (MAEX9400154L)](loi-n-95-1270-du-6-decembre-1995-maex9400154l)
 - [Loi n° 95-1308 du 21 décembre 1995 (MAEX9500036L)](loi-n-95-1308-du-21-decembre-1995-maex9500036l)
 - [Loi n° 95-1309 du 21 décembre 1995 (MAEX9500037L)](loi-n-95-1309-du-21-decembre-1995-maex9500037l)

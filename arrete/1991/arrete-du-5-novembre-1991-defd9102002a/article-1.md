@@ -4,45 +4,33 @@ Pour l'exercice de ses attributions fixées par le décret n° 91-685 du 14 juil
 
 I. - Une direction centrale dont l'organisation est fixée par le présent arrêté.
 
-II. - Des organismes extérieurs dont les attributions, l'organisation et le fonctionnement sont fixés par instruction.
+II. - Des organismes extérieurs dont les attributions, l'organisation et le fonctionnement sont fixés par des textes particuliers. ;
 
-1. Les organismes de la logistique santé qui comprennent l'ensemble des moyens du service de santé affectés à ses missions inter- armées et qui se répartissent :
+1. Les organismes de la logistique santé qui comprennent l'ensemble des moyens du service de santé affectés à ses missions interarmées et sont subordonnés à la direction centrale du service de santé des armées :
 
-- en organismes subordonnés à la direction centrale du service de santé des armées :
-
-- les inspections techniques du service de santé des armées ;
-
-- la direction des approvisionnements et des établissements centraux du service de santé des armées ;
+- la direction des approvisionnements et des établissements centraux du service de santé des armées, à laquelle sont subordonnés la pharmacie centrale des armées, l'établissement central des matériels du service de santé des armées, les établissements de ravitaillement sanitaire du service de santé des armées ;
 
 - les formations hospitalières des armées et les organismes qui leur sont rattachés ;
 
-- les centres d'expertises médicales du personnel navigant ;
+- les écoles de formation, l'école d'application à laquelle sont rattachés le musée et la bibliothèque du service de santé des armées, le centre de perfectionnement des cadres d'active et de réserve du service de santé des armées ;
 
-- les écoles, instituts, centres de recherche et centres de perfectionnement du service de santé des armées ;
+- les instituts du service de santé des armées ;
+
+- le centre de recherches du service de santé des armées ;
+
+- le centre de transfusion sanguine des armées ;
 
 - le service de protection radiologique des armées ;
 
-- le centre de traitement de l'information médicale des armées ;
+- les centres d'expertises médicales ;
 
-- le centre audiovisuel du service de santé des armées ;
+- le centre de traitement de l'information médicale des armées ;
 
 - le bureau chargé de la surveillance administrative des organismes de la logistique santé ;
 
 - le bureau central de gestion et d'administration du personnel civil ;
 
-- les centres de mandatement du service de santé des armées ;
-
-- en organismes subordonnés à la direction des approvisionnements et des établissements centraux du service de santé des armées :
-
-- la pharmacie centrale des armées ;
-
-- le centre de transfusion sanguine des armées ;
-
-- l'établissement central des matériels du service de santé des armées ;
-
-- les établissements de ravitaillement sanitaire du service de santé des armées ;
-
-- les établissements des matériels de mobilisation du service de santé des armées.
+- les centres de mandatement du service de santé des armées.
 
 2. Les organismes placés en tant que de besoin aux différents niveaux de l'organisation des armées et de la gendarmerie, qui comprennent :
 
