@@ -2,8 +2,6 @@
 
 FONCTIONS EXERCÉES OUVRANT DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE À LA CAISSE DES DÉPÔTS ET CONSIGNATIONS POUR LES SEPT TRANCHES
 
-Chargé d'études financières ;
-
 Responsable de la gestion statutaire et/ou des affaires générales d'une direction ou d'un département ;
 
 Assistant marketing ;
@@ -42,8 +40,6 @@ Responsable Exploitation transport ;
 
 Gestionnaire expert ;
 
-Responsable de groupe de gestion opérationnel ;
-
 Gestionnaire logistique polyvalent ;
 
 Responsable de la réglementation paie.
@@ -57,8 +53,6 @@ Analyste de presse ;
 Gestionnaire du service intérim interne au niveau fédéral ;
 
 Responsable de la gestion de l'encouragement à la prévoyance individuelle (E.P.I.) au niveau fédéral ;
-
-Responsable de groupe de gestion fonctionnel ;
 
 Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche Caisse de retraites de Bordeaux (B.C.R.B.) ;
 
@@ -88,8 +82,6 @@ Responsable comptable au sein du service de production bancaire ou au sein du se
 
 Assistant juridique et fiscal au niveau fédéral ou au niveau d'une direction ;
 
-Secrétaire de rédaction au service de presse ;
-
 Chargé de la communication d'un département ou d'une direction ;
 
 Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions "systèmes" ;
@@ -106,17 +98,11 @@ Contrôleur de gestion de plusieurs filiales CNP Assurances ;
 
 Technicien des opérations post-marché ou d'opérations bancaires et/ou financières sur secteurs prioritaires ;
 
-Assistant de gestion statutaire et/ou financière des personnels au niveau d'une direction ou au niveau fédéral ;
-
-Chargé d'étude pour l'établissement du bilan social du Groupe ou de la CNP Assurances.
-
 A COMPTER DU 1ER AOÛT 1998, SONT AJOUTES LES EMPLOIS SUIVANTS :
 
 chef d'unité opérationnelle ou fonctionnelle dans le domaine des assurances ou responsable du service aux assurés B ;
 
 agent ayant un pouvoir de décision, d'animation et de coordination du niveau d'un responsable d'unité ou assistant d'un chef de service ;
-
-responsable du service aux assurés A ou responsable production A ou responsable activités transversales.
 
 A COMPTER DU 1ER AOÛT 1999, SONT AJOUTES LES EMPLOIS SUIVANTS :
 
@@ -137,3 +123,19 @@ Responsable du secteur des affaires générales ou directeurs administratifs adj
 Responsable de l'accueil téléphonique ou gestionnaire de l'autocommutateur à la branche caisses de retraites de Bordeaux et/ou responsable du standard de Paris ;
 
 Responsable d'un secteur d'activité comportant une technicité et une responsabilité particulière dans le domaine bancaire et/ou dans le domaine des prestations de service.
+
+A COMPTER DU 1ER AOUT 2002, SONT AJOUTES LES EMPLOIS SUIVANTS :
+
+- chargé d'études financières et/ou analyste de contreparties ;
+
+- assistant de gestion statutaire et/ou financière et/ou de for tion des personnels au niveau d'une branche ou au niveau fédéral ;
+
+- chargé d'étude pour l'établissement du bilan social du Groupe ;
+
+- responsable d'une unité de gestion ou de production de contrats d'assurance ;
+
+- chargé d'études et de coordination ;
+
+- analyste financier ;
+
+- animateur de groupe.
