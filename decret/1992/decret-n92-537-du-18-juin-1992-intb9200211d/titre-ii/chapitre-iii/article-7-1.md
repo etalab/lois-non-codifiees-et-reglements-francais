@@ -10,7 +10,7 @@ a) Epreuves écrites d'admissibilité :
 
 b) Epreuves orales d'admission :
 
-Seuls peuvent être admis à se présenter aux épreuves orales d'admission les candidats ayant obtenu pour chacune des épreuves écrites une note au moins égale à 5 sur 20 et pour l'ensemble des épreuves écrites un total de points fixé par le jury qui ne peut en aucun cas être inférieur à 100.
+Seuls peuvent être admis à se présenter aux épreuves orales d'admission les candidats ayant obtenu pour chacune des épreuves écrites une note au moins égale à 5 sur 20 et pour l'ensemble des épreuves écrites un total de points fixé par le jury qui ne peut en aucun cas être inférieur à 70.
 
 1° Une interrogation portant, au choix du candidat au moment de son inscription, sur l'une des options figurant sur une liste fixée par arrêté conjoint du ministre chargé des collectivités locales et du ministre chargé de l'enseignement supérieur.
 
