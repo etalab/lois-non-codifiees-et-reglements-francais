@@ -7,7 +7,3 @@
 - [CHAPITRE V : Des listes d'aptitude et de sélection.](chapitre-v)
 - [CHAPITRE VI : Des fonctions en service extraordinaire à la Cour de cassation, du détachement judiciaire, de l'intégration directe dans le corps judiciaire et des fonctions judiciaires exercées à titre temporaire.](chapitre-vi)
 - [CHAPITRE VIII : Dispositions transitoires.](chapitre-viii)
-- [Article 35-2](article-35-2.md)
-- [Article 35-3](article-35-3.md)
-- [Article 35-4](article-35-4.md)
-- [Article 35-6](article-35-6.md)

@@ -364,5 +364,4 @@
 - [Arrêté du 31 décembre 1997 (ECOD9770025A)](arrete-du-31-decembre-1997-ecod9770025a)
 - [Arrêté du 31 décembre 1997 (ECOF9720779A)](arrete-du-31-decembre-1997-ecof9720779a)
 - [Arrêté du 31 décembre 1997 (ECOT9710318A)](arrete-du-31-decembre-1997-ecot9710318a)
-- [Arrêté du 31 mars 1998 (ECOA9850005A)](arrete-du-31-mars-1998-ecoa9850005a)
 - [Arrêté du 31 mars 1998 (MESS9821235A)](arrete-du-31-mars-1998-mess9821235a)
