@@ -290,6 +290,7 @@
 - [Décret n°84-886 du 28 septembre 1984](decret-n84-886-du-28-septembre-1984)
 - [Décret n°82-450 du 28 mai 1982](decret-n82-450-du-28-mai-1982)
 - [Décret n°83-1208 du 29 décembre 1983](decret-n83-1208-du-29-decembre-1983)
+- [Décret n°84-1047 du 29 novembre 1984](decret-n84-1047-du-29-novembre-1984)
 - [Décret n°84-221 du 29 mars 1984](decret-n84-221-du-29-mars-1984)
 - [Décret n°84-223 du 29 mars 1984](decret-n84-223-du-29-mars-1984)
 - [Décret n°84-224 du 29 mars 1984](decret-n84-224-du-29-mars-1984)
