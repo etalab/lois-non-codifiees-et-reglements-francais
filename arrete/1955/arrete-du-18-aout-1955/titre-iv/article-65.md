@@ -1,6 +1,6 @@
 # Article 65
 
-Les véhicules des catégories internationales M, N et O dont les types sont réceptionnés pour la première fois après le 1er octobre 1989, ou mis en circulation pour la première fois après le 1er octobre 1991, doivent être conformes aux dispositions techniques de l'arrêté de 20 décembre 1979 susvisé, tel que modifié par incorporation des dispositions de la directive C.E.E. n° 88-194 du 17 mars 1988 portant adaptation au progrès technique de la directive C.E.E. n° 71-320
+Les véhicules des catégories internationales M et N dont les types sont réceptionnés pour la première fois après le 1er octobre 1989, ou mis en circulation pour la première fois après le 1er octobre 1991, et les véhicules de la catégorie internationale O dont les types sont réceptionnés pour la première fois  après le 1er juin 1990, ou mis en circulation pour la première fois après le 1er  octobre 1991, doivent être conformes aux dispositions techniques de l'arrêté de 20 décembre 1979 susvisé, tel que modifié par incorporation des dispositions de la directive C.E.E. n° 88-194 du 17 mars 1988.
 
 Par dérogation à l'alinéa précédent
 
