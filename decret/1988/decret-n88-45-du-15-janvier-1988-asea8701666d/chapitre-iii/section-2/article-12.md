@@ -1,0 +1,3 @@
+# Article 12
+
+Immédiatement après son enregistrement, le recours est communiqué par les soins du secrétariat de la commission régionale de la tarification sanitaire et sociale à l'auteur de la décision litigieuse, ainsi qu'à l'organisme gestionnaire de l'établissement ou du service objet de la tarification contestée, si cet établissement ou organisme n'est pas l'auteur du recours. Ce recours est également communiqué au commissaire de la République du département où est situé l'établissement ou le service, si cette autorité n'est pas l'auteur de la décision en litige, ainsi qu'au directeur régional des affaires sanitaires et sociales [*procèdure*].

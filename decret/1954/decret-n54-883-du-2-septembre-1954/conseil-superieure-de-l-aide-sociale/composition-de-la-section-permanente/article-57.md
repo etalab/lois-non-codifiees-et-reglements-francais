@@ -22,7 +22,7 @@ Le directeur des affaires sociales au ministère de l'agriculture ;
 
 Le directeur du budget ;
 
-Le directeur de l'éducation surveillée au ministère de la justice ;
+Le directeur de la protection judiciaire de la jeunesse au ministère de la justice ;
 
 Le représentant de la caisse nationale d'assurance maladie ;
 

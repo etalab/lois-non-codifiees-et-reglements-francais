@@ -105,6 +105,7 @@
 - [Décret n°90-79 du 17 janvier 1990 (MAEJ8930130D)](decret-n90-79-du-17-janvier-1990-maej8930130d)
 - [Décret n°61-63 du 18 janvier 1961](decret-n61-63-du-18-janvier-1961)
 - [Décret n°84-476 du 18 juin 1984](decret-n84-476-du-18-juin-1984)
+- [Décret n°83-396 du 18 mai 1983](decret-n83-396-du-18-mai-1983)
 - [Décret n°90-161 du 19 février 1990 (AGRS8902331D)](decret-n90-161-du-19-fevrier-1990-agrs8902331d)
 - [Décret n°90-162 du 19 février 1990 (AGRS8902332D)](decret-n90-162-du-19-fevrier-1990-agrs8902332d)
 - [Décret n°90-78 du 19 janvier 1990 (INDA8900898D)](decret-n90-78-du-19-janvier-1990-inda8900898d)

@@ -40,11 +40,11 @@ Le directeur général des collectivités locales au ministère de l'intérieur 
 
 Le directeur des affaires sociales au ministère de l'agriculture ;
 
-Le directeur de l'éducation surveillée au ministère de la justice ;
+Le directeur de la protection judiciaire de la jeunesse au ministère de la justice ;
 
 L'inspecteur général des finances, chef de la mission de contrôle économique et financier auprès des organismes à caractère social.
 
-2. Seize membres désignés par le ministre sur proposition de divers organismes ;
+2. Seize membres désignés par le ministre sur proposition de diver organismes ;
 
 Un représentant de la caisse nationale d'assurance maladie ;
 
