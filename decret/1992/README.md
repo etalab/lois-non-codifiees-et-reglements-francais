@@ -52,6 +52,7 @@
 - [Décret n°92-131 du 5 février 1992 (MENN9101210D)](decret-n92-131-du-5-fevrier-1992-menn9101210d)
 - [Décret n°92-132 du 5 février 1992 (RESY9100243D)](decret-n92-132-du-5-fevrier-1992-resy9100243d)
 - [Décret n°92-208 du 5 mars 1992 (SANH9200432D)](decret-n92-208-du-5-mars-1992-sanh9200432d)
+- [Décret n°92-219 du 5 mars 1992 (BUDF9200006D)](decret-n92-219-du-5-mars-1992-budf9200006d)
 - [Décret n°88-519 du 5 mai 1988 (MENF8800577D)](decret-n88-519-du-5-mai-1988-menf8800577d)
 - [Décret n°84-431 du 6 juin 1984](decret-n84-431-du-6-juin-1984)
 - [Décret n°87-240 du 6 avril 1987 (PRMJ8760018D)](decret-n87-240-du-6-avril-1987-prmj8760018d)
