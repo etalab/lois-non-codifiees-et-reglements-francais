@@ -12,6 +12,8 @@ b) A livrer, gratuitement ou à un prix inférieur à leur valeur vénale, aux e
 
 c) A céder aux musées nationaux et à la bibliothèque nationale, gratuitement ou à un prix inférieur à leur valeur vénale, les objets de caractère historique, artistique ou documentaire susceptibles d'être classés dans le domaine public.
 
+Au cas où ces établissements ne sont pas intéressés, l'administration des douanes est autorisée à céder dans les mêmes conditions aux autres musées de l'Etat les objets de caractère historique, artistique ou documentaire dont la conservation est en rapport avec leur vocation.
+
 4. - Les cessions amiables sont constatées au moyen de soumissions ou de procès-verbaux de cession approuvés par le directeur régional des douanes si le prix n'excède pas 30 000 F, par le directeur général des douanes et droits indirects si le prix est compris entre 30 000 et 300 000 F et par le ministre de l'économie et des finances si le prix est supérieur à 300 000 F.
 
-Toutefois les cessions amiables visées à l'alinéa c du paragraphe 3 ci-dessus relèvent de la seule compétence du directeur général des douanes et droits indirects si le prix n'excède pas 300 000 F et de celle du ministre de l'économie et des finances au-dessus de ce chiffre.
+Toutefois le cessions amiables visées à l'alinéa c du paragraphe 3 ci-dessus relèvent de la seule compétence du directeur général des douanes et droits indirects si le prix n'excède pas 300 000 F et de celle du ministre de l'économie et des finances au-dessus de ce chiffre.
