@@ -5,5 +5,6 @@
 - [TITRE III : Des avances.](titre-iii)
 - [TITRE IV : Dispositions relatives à l'office national du crédit agricole](titre-iv)
 - [TITRE V : Inspection et contrôle.](titre-v)
+- [TITRE VI : Dispositions diverses.](titre-vi)
 - [Article 71](article-71.md)
 - [Article 76](article-76.md)
