@@ -1,3 +1,3 @@
 # Article 3
 
-Les employeurs qui auront versé des salaires inférieurs aux minima fixés à l'article 2 ci-dessus seront passibles des peines prévues à l'article R. 154-1 du code du travail en ce qui concerne la métropole et à l'article R. 881-1 du code du travail en ce qui concerne les départements d'outre-mer.
+Les avantages commerciaux qui peuvent être consentis doivent être récapitulés dans les conditions de vente de l'entreprise communicables à tout acheteur qui en fait la demande.

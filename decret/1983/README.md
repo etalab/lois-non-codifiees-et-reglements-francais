@@ -138,6 +138,7 @@
 - [Décret n°82-1238 du 30 décembre 1982](decret-n82-1238-du-30-decembre-1982)
 - [Décret n°83-253 du 30 mars 1983](decret-n83-253-du-30-mars-1983)
 - [Décret n°83-254 du 30 mars 1983](decret-n83-254-du-30-mars-1983)
+- [Décret n°83-437 du 30 mai 1983](decret-n83-437-du-30-mai-1983)
 - [Décret n°82-1228 du 31 décembre 1982](decret-n82-1228-du-31-decembre-1982)
 - [Décret n°82-1229 du 31 décembre 1982](decret-n82-1229-du-31-decembre-1982)
 - [Décret n°82-1234 du 31 décembre 1982](decret-n82-1234-du-31-decembre-1982)

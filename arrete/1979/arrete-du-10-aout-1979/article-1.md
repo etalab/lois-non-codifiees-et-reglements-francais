@@ -1,51 +1,11 @@
 # Article 1
 
-Indépendamment du brevet national de secourisme avec mention " Spécialiste en réanimation ", les qualifications professionnelles des sapeurs-pompiers prévues à l'article R. 353-19 (1er alinéa) du code des communes sont les suivantes :
+En application de l'article 3 de l'arrêté du 1er août 1979 :
 
-Certificats de scolarité de niveau égal ou supérieur au brevet d'études du premier cycle (B.E.P.C.) ;
+1° La participation aux analyses circulaires et aux frais correspondants est fixée ainsi qu'il suit :
 
-Certificats d'aptitude professionnelle (C.A.P.) ;
+Les analyses circulaires sont organisées par le ministère de l'environnement et du cadre de vie avec l'assistance de l'Association française de normalisation (Afnor) qui fera assurer la préparation et l'expédition des échantillons à analyser. Une convention sera passée entre le ministère de l'environnement et du cadre de vie et l'Afnor pour l'exécution de ces travaux.
 
-Certificats de formation professionnelle (C.F.P.) délivrés à l'issue d'un stage dans un centre de formation professionnelle pour adultes (F.P.A.) de niveau V et au-dessus, en conformité des dispositions de l'arrêté susvisé du 20 décembre 1977 ;
+Les laboratoires concernés exécutent les analyses des échantillons qui leur sont envoyés suivant les instructions du ministère de l'environnement et du cadre de vie. Le montant des frais de participation à ces analyses est fixé à 500 F hors taxes pour chacun des types d'agrément n° 1, 3 et 4 et à 150 F hors taxes pour chacun des types d'agrément n° 2, 5 6 et 7 ; ces frais sont payés à l'Afnor et viennent en déduction de la contribution financière du ministère de l'environnement et du cadre de vie.
 
-Diplôme d'Etat de maître nageur sauveteur ;
-
-Certificats d'aptitude aux fonctions d'instructeur ou d'instructeur chef d'entraînement physique spécialisé ;
-
-Brevet d'Etat de moniteur de plongée subaquatique ;
-
-Diplôme de moniteur de plongée de la sécurité civile (4e degré) ;
-
-Diplôme de scaphandrier de la protection civile avec mention " Scaphandrier autonome ou chef de plongée " ;
-
-Brevet national de moniteur de secourisme ;
-
-Les mentions de spécialisation du brevet national de secourisme autres que la réanimation, et prévues à l'article 11 du décret du 4 janvier 1977 susvisé ;
-
-Brevet de maintenance radio du premier degré ;
-
-Déclaration de qualification délivrée par le service des transmissions du ministère de l'intérieur ;
-
-Permis de conduire " D " transports en commun ;
-
-Permis de conduire " C " poids lourds, " C 1 " véhicules isolés de plus de 19 tonnes ou ensembles tractés ou articulés de plus de 12,5 tonnes, et " E " remorque de plus de 750 kilogrammes ;
-
-Certificat général de capacité constatant l'aptitude aux fonctions de capitaine ou de mécanicien sur les bateaux à propulsion mécanique :
-
-- catégorie B : bateaux de commerce, porteurs, automoteurs, remorqueurs et toueurs.
-
-Certificat spécial d'aptitude aux fonctions de capitaine ou de mécanicien sur les bateaux à propulsion mécanique :
-
-- catégorie D : bateaux effectuant des opérations de remorquage ;
-
-- catégorie E : bateaux à passagers ;
-
-- catégorie F : bateaux effectuant des opérations de poussage.
-
-Permis de conduire les bateaux et engins de plaisance sur les eaux intérieures ;
-
-Certificat spécial de capacité pour la conduite des bateaux fluviaux jusqu'à la limite transversale de la mer ;
-
-Permis de conduire en mer les navires de plaisance à moteur, catégories A, B et C.
-
-Pour bénéficier de l'échelle de sapeur de 1re classe prévue par l'arrêté du 3 décembre 1970 instituant différentes échelles de rémunération pour les sapeurs-pompiers professionnels communaux, les personnels titulaires du certificat général ou spécial d'aptitude aux fonctions de capitaine ou de mécanicien sur les bateaux à propulsion mécanique (catégories B, D, E et F) ou du permis de conduire les bateaux et engins de plaisance sur les eaux intérieures, ou du certificat spécial de capacité pour la conduite des bateaux fluviaux jusqu'à la limite transversale de la mer ou du permis de conduire en mer les navires de plaisance à moteur énumérés ci-dessus, devront appartenir à un corps disposant organiquement d'un bateau à propulsion mécanique.
+2° Le contrôle technique des laboratoires est assuré par des fonctionnaires désignés par le ministère de l'environnement et du cadre de vie. Ces fonctionnaires pourront se faire assister d'un expert choisi en tant que de besoin.
