@@ -1,0 +1,3 @@
+# Article 24
+
+L'administration de l'air, lorsqu'en application des dispositions du titre VIII, chapitre Ier, du décret du 8 août 1935 relatif à l'expropriation pour cause d'utilité publique, engage une procédure conditionnelle d'expropriation pour l'établissement de terrains destinés en partie ou en totalité à l'armée de l'air, peut demander à la commission arbitrale d'évaluation de fixer le montant approximatif des indemnités qui pourraient être allouées aux intéressés si, au lieu de poursuivre l'expropriation, elle demandait l'imposition de servitudes sur les propriétés privées, comme il est dit au présent décret.
