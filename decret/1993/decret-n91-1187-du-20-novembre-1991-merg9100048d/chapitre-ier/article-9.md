@@ -1,3 +1,0 @@
-# Article 9
-
-Le brevet de capitaine de 2e classe de la navigation maritime est délivré aux titulaires du diplôme de capitaine de 2e classe de la navigation maritime obtenu en application de l'article 8 du présent décret, qui ont accompli, en qualité d'officier breveté, quarante-deux mois de navigation effective, dont vingt-quatre mois dans le service Pont et dix-huit mois dans le service Machine. Vingt-quatre mois de navigation effective doivent avoir été accomplis postérieurement à la délivrance du diplôme de capitaine de 2e classe de la navigation maritime, dont douze mois au moins comme officier mécanicien. "
