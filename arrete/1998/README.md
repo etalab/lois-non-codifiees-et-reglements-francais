@@ -1161,7 +1161,6 @@
 - [Arrêté du 31 août 1998 (ECOT9810345A)](arrete-du-31-aout-1998-ecot9810345a)
 - [Arrêté du 31 août 1998 (JUSE9840068A)](arrete-du-31-aout-1998-juse9840068a)
 - [Arrêté du 31 décembre 1997 (ECOD9770025A)](arrete-du-31-decembre-1997-ecod9770025a)
-- [Arrêté du 31 décembre 1997 (ECOF9720779A)](arrete-du-31-decembre-1997-ecof9720779a)
 - [Arrêté du 31 décembre 1997 (ECOT9710318A)](arrete-du-31-decembre-1997-ecot9710318a)
 - [Arrêté du 31 juillet 1998 (ECOP9800415A)](arrete-du-31-juillet-1998-ecop9800415a)
 - [Arrêté du 31 juillet 1998 (EQUU9800797A)](arrete-du-31-juillet-1998-equu9800797a)
