@@ -1,4 +1,4 @@
-# Arrêté du 18 mars 1981 relatif aux conditions de titres exigibles pour le recrutement des psychologues des établissements mentionnés à l'article L. 792 du code de la santé publique.
+# Arrêté du 18 mars 1981 relatif aux épreuves pour l'accès au cycle préparatoire au deuxième concours d'admission aux sessions de formation des assistants de direction.
 
 - [Annexes](annexes)
 - [Article 3-1](article-3-1.md)
