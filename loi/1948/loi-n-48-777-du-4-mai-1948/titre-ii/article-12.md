@@ -1,0 +1,5 @@
+# Article 12
+
+Toute personne propriétaire au 1er septembre 1946 de titres d'emprunt à long terme, émis ou garantie par l'Etat, résidant en France, en Algérie et dans les départements de la Guadeloupe, de la Martinique et de la Guyane peut, jusqu'à une date qui sera fixée par arrêté affiché visiblement aux guichets des comptables payeurs, obtenir l'échange de ses titres contre une rente viagère de la caisse autonome d'amortissement à capital aliéné avec ou sans réversibilité, à condition d'être âgée de soixante-cinq ans au moins et ne pas être imposable imposable au titre de l'impôt général sur le revenu.    Les titres repris en échange sont repris à 120 % de leur valeur nominale ou du dernier cours coté en Bourse avant le 1er septembre 1946, si ce cours est supérieur au pair. Leur montant ne peut excéder 500.000 F (5.000 F) en valeur de reprise.
+
+Les titulaires de rentes viagères émises en application du présent article bénéficieront, à compter de leur entrée en jouissance, de la majoration de 2 978 p. 100 prévue aux articles 8 et 10 dans les mêmes conditions.
