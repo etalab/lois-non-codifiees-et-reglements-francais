@@ -29,6 +29,7 @@
 - [Décret n°50-1318 du 21 octobre 1950](decret-n50-1318-du-21-octobre-1950)
 - [Décret n°50-1448 du 22 novembre 1950](decret-n50-1448-du-22-novembre-1950)
 - [Décret n°50-1340 du 23 octobre 1950](decret-n50-1340-du-23-octobre-1950)
+- [Décret n°50-1566 du 23 décembre 1950](decret-n50-1566-du-23-decembre-1950)
 - [Décret n°50-722 du 24 juin 1950](decret-n50-722-du-24-juin-1950)
 - [Décret n°50-737 du 24 juin 1950](decret-n50-737-du-24-juin-1950)
 - [Décret n°50-738 du 24 juin 1950](decret-n50-738-du-24-juin-1950)
