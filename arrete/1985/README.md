@@ -59,7 +59,6 @@
 - [Arrêté du 10 avril 1985](arrete-du-10-avril-1985)
 - [Arrêté du 10 janvier 1985](arrete-du-10-janvier-1985)
 - [Arrêté du 10 juillet 1985](arrete-du-10-juillet-1985)
-- [Arrêté du 10 octobre 1983](arrete-du-10-octobre-1983)
 - [Arrêté du 10 septembre 1985](arrete-du-10-septembre-1985)
 - [Arrêté du 10 mai 1985](arrete-du-10-mai-1985)
 - [Arrêté du 11 février 1985](arrete-du-11-fevrier-1985)

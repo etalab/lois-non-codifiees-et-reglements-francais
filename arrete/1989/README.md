@@ -146,7 +146,6 @@
 - [Arrêté du 8 décembre 1988 (TEFT8804179A)](arrete-du-8-decembre-1988-teft8804179a)
 - [Arrêté du 8 février 1989 (ECOT8916063A)](arrete-du-8-fevrier-1989-ecot8916063a)
 - [Arrêté du 8 février 1989 (SPSS8900248A)](arrete-du-8-fevrier-1989-spss8900248a)
-- [Arrêté du 8 février 1989 (TEFT8903154A)](arrete-du-8-fevrier-1989-teft8903154a)
 - [Arrêté du 8 juin 1989 (MENL8900268A)](arrete-du-8-juin-1989-menl8900268a)
 - [Arrêté du 8 novembre 1989 (AGRG8902260A)](arrete-du-8-novembre-1989-agrg8902260a)
 - [Arrêté du 8 septembre 1989 (INTF8900396A)](arrete-du-8-septembre-1989-intf8900396a)
