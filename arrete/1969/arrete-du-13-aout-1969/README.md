@@ -1,4 +1,4 @@
-# Arrêté du 13 août 1969 relatif aux conditions de recrutement du personnel des services sociaux et d'hygiène municipaux.
+# Arrêté du 13 août 1969 relatif aux conditions de recrutement des receveurs des régies des droits de place, halles, marchés et abattoirs.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

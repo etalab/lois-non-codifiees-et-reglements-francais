@@ -1,3 +1,3 @@
 # Article 2
 
-L'arrêté du 19 novembre 1948 modifié est abrogé.
+Le directeur général des collectivités locales est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
