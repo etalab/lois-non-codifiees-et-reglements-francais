@@ -518,9 +518,7 @@ Art. L. 672-10, 2e alinéa.
 
 23
 
-Nomination de membres du conseil d'administration et du conseil
-
-administratif supérieur de l'Assistance publique - hôpitaux de Paris, attribution de l'honorariat aux anciens administrateurs.
+Nomination de membres du conseil d'administration et du conseil administratif supérieur de l'Assistance publique - hôpitaux de Paris, attribution de l'honorariat aux anciens administrateurs.
 
 Art. R. 716-3-2.
 
@@ -533,6 +531,12 @@ Art. R. 716-3-59.
 Art. R. 716-3-60.
 
 Art. R. 716-3-64.
+
+25
+
+Agrément au niveau national des associations représentant les usagers du système de santé dans les instances hospitalières ou de santé publique.
+
+Art. R. 1114-9.
 
 Code de la sécurité sociale
 
@@ -588,9 +592,7 @@ Art. R. 731-3.
 
 9
 
-Retrait de l'autorisation de fonctionner des institutions de retraite
-
-complémentaire de salariés et de leurs fédérations.
+Retrait de l'autorisation de fonctionner des institutions de retraite complémentaire de salariés et de leurs fédérations.
 
 Art. R. 731-12.
 
@@ -644,9 +646,7 @@ Suspension ou révocation de l'autorisation d'exploitation de sources d'eau min�
 
 Art. 5.
 
-Décret n° 50-1299 du 18 octobre 1950 modifié fixant les conditions d'utilisation des gaz toxiques non interdits pour la dératisation et
-
-la désinsectisation des navires
+Décret n° 50-1299 du 18 octobre 1950 modifié fixant les conditions d'utilisation des gaz toxiques non interdits pour la dératisation et la désinsectisation des navires
 
 1
 
