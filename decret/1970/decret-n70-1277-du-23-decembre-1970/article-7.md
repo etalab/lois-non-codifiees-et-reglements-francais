@@ -2,13 +2,21 @@
 
 Par. 1 - Les cotisations sont assises sur l'ensemble des rémunérations brutes, à l'exclusion des éléments à caractère familial, des indemnités représentatives de frais et des prestations familiales, augmenté le cas échéant de la valeur représentative des avantages en nature selon le barème appliqué par la sécurité sociale. L'assiette de cotisation ainsi déterminée est toutefois limitée à 4,75 fois le plafond fixé pour les cotisations de retraite du régime général des assurances sociales.
 
-Les cotisations sont calculées comme suit :
+Les cotisations à l'I.R.C.A.N.T.E.C. sont calculées comme suit :
 
-Sur la tranche de rémunération correspondant au plafond de l'assiette des cotisations pour la retraite du régime général des assurances sociales, les taux de cotisation du bénéficiaire et de l'employeur sont respectivement fixés à 1,40 % et 2,10 %.
+1° Pour les périodes d'activité antérieures au 1er janvier 1989 :
 
-Sur la tranche de rémunération supérieure au plafond visé ci-dessus, les taux de la cotisation du bénéficiaire et de l'employeur sont respectivement fixés à 4,25 % et 8,25 %.
+Sur la tranche de rémunération correspondant à l'assiette des cotisations à l'assurance vieillesse du régime général de la sécurité sociale, les taux de cotisation du bénéficiaire et de l'employeur sont respectivement fixés à 1,40 p. 100 et 2,10 p. 100.
 
-Toutefois un arrêté du ministre de l'économie et des finances et du ministre de la santé publique et de la sécurité sociale peut suspendre le versement d'une partie des cotisations pendant une période déterminée. Cette réduction n'affecte pas le calcul du nombre des points ni celui de la valeur du point.
+Sur la tranche de rémunération supérieure au plafond visé ci-dessus, les taux de la cotisation du bénéficiaire et de l'employeur sont respectivement fixés à 4,25 p. 100 et 8,25 p. 100.
+
+2° Pour les périodes d'activité à compter du 1er janvier 1989 :
+
+Sur la tranche de rémunération correspondant à l'assiette des cotisations à l'assurance vieillesse du régime général de la sécurité sociale, les taux de cotisation du bénéficiaire et de l'employeur sont respectivement fixés à 1,80 p. 100 et 2,70 p. 100.
+
+Sur la tranche de rémunération supérieure au plafond visé ci-dessus, les taux de la cotisation du bénéficiaire et de l'employeur sont respectivement fixés à 4,76 p. 100 et 9,24 p. 100.
+
+Toutefois un arrêté du ministre de l'économie et des finances et du ministre de la santé publique et de la sécurité sociale peut majorer le versement des cotisations pendant une période déterminée. Cette majoration n'affecte pas le calcul du nombre des points ni celui de la valeur du point.
 
 Par. 2 - A l'égard de certaines catégories d'agents et par dérogation aux dispositions qui précèdent, l'assiette des cotisations peut être limitée à un pourcentage de tout ou partie des éléments de rémunération soit dans les statuts particuliers de ces personnels, soit par arrêté du ministre de l'économie et des finances, du ministre de la santé publique et de la sécurité sociale et des ministres intéressés.
 
