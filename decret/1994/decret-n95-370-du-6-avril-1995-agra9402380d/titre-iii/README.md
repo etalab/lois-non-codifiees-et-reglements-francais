@@ -1,6 +1,5 @@
 # TITRE III : Dispositions statutaires communes
 
-- [Section 1 : Concours de recrutement et sélection professionnelle.](section-1)
 - [Section 2 : Stage avant titularisation.](section-2)
 - [Section 3 : Notation.](section-3)
 - [Section 4 : Classement à l'issue d'une promotion de grade à l'intérieur d'un même corps.](section-4)

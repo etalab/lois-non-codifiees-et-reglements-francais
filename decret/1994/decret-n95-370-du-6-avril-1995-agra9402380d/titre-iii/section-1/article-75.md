@@ -1,3 +1,0 @@
-# Article 75
-
-Pour chaque concours de recrutement interne, le jury procède à l'évaluation de la valeur professionnelle des candidats. Cette évaluation consiste dans l'étude, pour chaque candidat, d'un dossier contenant ses notes et titres et, lorsqu'il y a lieu, ses travaux, ainsi qu'un rapport sur son aptitude professionnelle établi par le responsable de l'établissement où il est affecté. En outre, pour les fonctionnaires classés dans les catégories A et B prévues à l'article 29 de la loi du 11 janvier 1984 susvisée, un rapport d'activité établi par le candidat figure dans le dossier. L'évaluation comprend une audition des candidats.
