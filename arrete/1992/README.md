@@ -1141,7 +1141,6 @@
 - [Arrêté du 28 décembre 1992 (SPSS9203353A)](arrete-du-28-decembre-1992-spss9203353a)
 - [Arrêté du 28 février 1992 (ENVN9250077A)](arrete-du-28-fevrier-1992-envn9250077a)
 - [Arrêté du 28 février 1992 (ENVN9250078A)](arrete-du-28-fevrier-1992-envn9250078a)
-- [Arrêté du 28 février 1992 (ENVN9250079A)](arrete-du-28-fevrier-1992-envn9250079a)
 - [Arrêté du 28 février 1992 (ENVN9250080A)](arrete-du-28-fevrier-1992-envn9250080a)
 - [Arrêté du 28 février 1992 (EQUP9200342A)](arrete-du-28-fevrier-1992-equp9200342a)
 - [Arrêté du 28 février 1992 (SANH9102814A)](arrete-du-28-fevrier-1992-sanh9102814a)
