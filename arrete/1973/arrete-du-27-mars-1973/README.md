@@ -1,4 +1,4 @@
-# Arrêté du 27 mars 1973 relatif à la teneur dans les aliments de substances résiduaires.
+# Arrêté du 27 mars 1973 portant création d'un comité consultatif de l'informatique médicale.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
