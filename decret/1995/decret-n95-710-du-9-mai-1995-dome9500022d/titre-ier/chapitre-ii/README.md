@@ -1,4 +1,4 @@
-# CHAPITRE II : Dispositions financières et comptables.
+# CHAPITRE II : Organisation de l'agence d'insertion
 
 - [Section 1 : Le conseil d'administration.](section-1)
 - [Section 2 : Le directeur.](section-2)

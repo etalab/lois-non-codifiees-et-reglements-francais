@@ -1,6 +1,6 @@
 # Article 14
 
-Outre les matières énumérées à l'article 42-7 de la loi du 1er décembre 1988 susvisée, le conseil d'administration délibère sur les matières suivantes :
+Outre les matières énumérées à l'article 522-4 du code de l'action sociale et des familles, le conseil d'administration délibère sur les matières suivantes :
 
 1° Les modalités générales de la participation en nature ou financière prévue à l'article 50 du présent décret ;
 
@@ -10,7 +10,7 @@ Outre les matières énumérées à l'article 42-7 de la loi du 1er décembre 19
 
 4° La convention de coopération avec l'Agence nationale pour l'emploi, prévue à l'article 3 ci-dessus ;
 
-5° Les conventions passées en application de l'article 39 de la loi du 1er décembre 1988 susvisée ;
+5° Les conventions passées en application de l'article 263-7 du code de l'action sociale et des familles ;
 
 6° Le montant de la participation de l'agence à la réalisation de logements sociaux pour les bénéficiaires du revenu minimum d'insertion et notamment à celle de logements locatifs très sociaux ;
 

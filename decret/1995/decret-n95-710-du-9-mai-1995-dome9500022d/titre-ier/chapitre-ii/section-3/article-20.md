@@ -4,7 +4,7 @@ Le comité d'orientation émet des avis et des propositions sur les projets de p
 
 1° A la cohérence de l'ensemble des prévisions de ces deux programmes ;
 
-2° A la prise en compte des programmes locaux d'insertion mentionnés à l'article 42-3 de la loi du 1er décembre 1988 susvisée dans le cadre du programme départemental d'insertion ;
+2° A la prise en compte des programmes locaux d'insertion dans le programme départemental d'insertion ;
 
 3° A la compatibilité du programme annuel de tâches d'utilité sociale avec les dispositions du dernier alinéa de l'article 2 ci-dessus.
 

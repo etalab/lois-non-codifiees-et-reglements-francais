@@ -6,7 +6,7 @@ Cette formation, qui contribue, le cas échéant, à la réalisation du projet d
 
 Le salarié qui veut bénéficier d'une telle prise en charge en fait la demande au directeur de l'agence d'insertion. Sa demande doit préciser la nature de la formation souhaitée.
 
-Le directeur de l'agence d'insertion se prononce après avis motivé de la commission locale d'insertion dans le ressort de laquelle réside l'intéressé. Sa décision doit faire l'objet d'une notification à l'intéressé dans un délai de quinze jours à compter de la réception de la demande. Tout refus est motivé.
+Le directeur de l'agence d'insertion se prononce sur cette prise en charge. Sa décision doit faire l'objet d'une notification à l'intéressé dans un délai de quinze jours à compter de la réception de la demande. Tout refus est motivé.
 
 Les sommes correspondantes sont versées à l'organisme de formation signataire de la convention mentionnée au deuxième alinéa ci-dessus. Un premier versement correspondant à 40 p. 100 des frais prévus est effectué à la signature de la convention. Le solde est versé à l'issue de la formation sur présentation d'un compte rendu d'exécution signé par le salarié, d'une part, et par l'organisme susmentionné, d'autre part.
 

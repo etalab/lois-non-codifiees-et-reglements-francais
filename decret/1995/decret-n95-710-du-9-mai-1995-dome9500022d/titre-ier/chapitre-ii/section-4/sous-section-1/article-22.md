@@ -6,7 +6,7 @@ En concertation avec le préfet et le président du conseil général et compte 
 
 Le projet de programme départemental d'insertion prend notamment en compte :
 
-1° Les programmes locaux d'insertion élaborés par les commissions locales d'insertion et toutes autres informations transmises par celles-ci, en prévoyant, s'il y a lieu, les moyens à affecter à l'exécution de chacun de ces programmes locaux ;
+1° Les programmes locaux d'insertion signés, ainsi que les moyens à affecter à l'exécution de chacun d'eux ;
 
 2° Le projet de programme annuel de tâches d'utilité sociale ;
 
