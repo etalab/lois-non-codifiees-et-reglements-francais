@@ -1,9 +1,15 @@
 # Article 1
 
-§ 1er - Sont soumis aux dispositions du présent arrêté, en complément de celles de l'article 34 du décret du 2 avril 1926 susvisé, les appareils soumis aux dispositions dudit décret en application de son article 1.1 et portant un couvercle, un fond ou une porte amovibles, tous organes désignés dans le présent arrêté par le terme générique de couvercle amovible.
+§ 1er - Par dérogation aux dispositions de l'article 4 (paragraphe 3) de l'arrêté du 23 juillet 1943 susvisé, le taux de travail d'une partie d'appareil peut être supérieur au tiers de la résistance à la traction du métal à la température ordinaire, sans excéder toutefois la valeur de cette résistance divisée par 2,7, lorsque les produits utilisés à sa fabrication sont définis par référence aux normes désignées dans l'annexe au présent arrêté et sont entièrement conformes à celles-ci, et que les conditions supplémentaires ci-après sont également satisfaites :
 
-Est amovible, au sens du présent arrêté, tout couvercle assujetti sur l'appareil au moyen d'un ou plusieurs organes conçus pour permettre des fermetures et ouvertures plus rapides qu'avec des éléments de boulonnerie de conception courante.
+a) Lorsqu'il y a majoration du taux de travail maximal admissible pour une partie d'appareil fabriquée à partir de tôles, cette majoration doit pouvoir être appliquée à toutes les tôles mises en oeuvre pour la construction des parties de l'appareil résistant à la pression pour autant que ces tôles ressortissent aux types d'aciers couverts par les normes susvisées ;
 
-Lorsque la fermeture et l'ouverture sont obtenues par une commande centralisée, le couvercle est dit à fermeture rapide.
+b) Lors de la réception, la résilience du métal des tôles est toujours vérifiée sur éprouvettes prélevées en travers ;
 
-§ 2 - Dans le présent arrêté, il faut entendre par fermeture du couvercle l'opération qui consiste à assujettir celui-ci sur le corps de l'appareil et par ouverture du couvercle l'opération inverse, à l'exclusion des opérations qui consistent à déplacer le couvercle de façon à obturer ou à dégager l'orifice de l'appareil.
+c) Les tôles en acier A 510, A 530, A 550 ou A 590 doivent provenir d'usines bénéficiant d'une homologation accordée selon une procédure définie par le ministre chargé de l'industrie.
+
+Il en est de même des tôles en acier A 48 ou A 52, d'épaisseur supérieure à 25 millimètres ou de qualité FP, lorsque la date du document de contrôle est postérieure au 31 août 1983 ;
+
+d) Les appareils pour la construction desquels sont utilisés des tôles visées en c ci-dessus ou des produits en acier dont la teneur en chrome peut excéder 2 p. 100 doivent satisfaire aux dispositions de l'arrêté du 24 mars 1978 susvisé sans application de son article 23 (paragraphe 2).
+
+§ 2 - A titre transitoire, les dispositions du paragraphe 1er ci-dessus, dans lesquelles le coefficient 2,85 est substitué au coefficient 2,7, peuvent être appliquées lorsque les tôles utilisées répondent aux conditions données dans l'annexe au présent arrêté.
