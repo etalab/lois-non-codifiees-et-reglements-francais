@@ -8,6 +8,7 @@
 - [Arrêté du 1 juin 1989 (AGRB8901145A)](arrete-du-1-juin-1989-agrb8901145a)
 - [Arrêté du 1 juin 1989 (SPSP8901169A)](arrete-du-1-juin-1989-spsp8901169a)
 - [Arrêté du 1 mars 1989 (AGRP8900401A)](arrete-du-1-mars-1989-agrp8900401a)
+- [Arrêté du 1 septembre 1989 (PRME8961010A)](arrete-du-1-septembre-1989-prme8961010a)
 - [Arrêté du 1 septembre 1989 (SPSH8901732A)](arrete-du-1-septembre-1989-spsh8901732a)
 - [Arrêté du 1 septembre 1989 (SPSH8901736A)](arrete-du-1-septembre-1989-spsh8901736a)
 - [Arrêté du 1 septembre 1989 (SPSH8901739A)](arrete-du-1-septembre-1989-spsh8901739a)
