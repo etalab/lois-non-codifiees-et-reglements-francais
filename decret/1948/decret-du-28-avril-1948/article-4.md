@@ -1,6 +1,6 @@
 # Article 4
 
-L'appellation contrôlée "Fitou" ne sera accordée que dans la limite de 30 hectolitres par hectare de vigne en production.
+Le rendement de base de l'appellation d'origine contrôlée "Fitou" est fixé à 45 hectolitres par hectare de vigne en production.
 
 Cette limite pourra être modifiée chaque année par décision du comité directeur de l'institut national des appellations d'origine des vins et eaux-de-vie suivant la quantité et la qualité de la récolte après consultation d'une commission de cinq membres nommés sur proposition du comité de défense de l'appellation d'origine "Fitou", adoptée par une assemblée générale dudit syndicat.
 

@@ -212,6 +212,8 @@
 - [Décret n°87-839 du 15 octobre 1987 (PRMX8700138D)](decret-n87-839-du-15-octobre-1987-prmx8700138d)
 - [Décret n°87-850 du 15 octobre 1987 (MAEJ8730047D)](decret-n87-850-du-15-octobre-1987-maej8730047d)
 - [Décret n°87-853 du 15 octobre 1987 (ASEP8700860D)](decret-n87-853-du-15-octobre-1987-asep8700860d)
+- [Décret n°87-1004 du 16 décembre 1987 (INTB8700345D)](decret-n87-1004-du-16-decembre-1987-intb8700345d)
+- [Décret n°87-1005 du 16 décembre 1987 (ASEP8701666D)](decret-n87-1005-du-16-decembre-1987-asep8701666d)
 - [Décret n°87-175 du 16 mars 1987 (ASES8700408D)](decret-n87-175-du-16-mars-1987-ases8700408d)
 - [Décret n°87-180 du 16 mars 1987 (EQUT8700189D)](decret-n87-180-du-16-mars-1987-equt8700189d)
 - [Décret n°87-425 du 16 juin 1987 (MAEJ8730027D)](decret-n87-425-du-16-juin-1987-maej8730027d)

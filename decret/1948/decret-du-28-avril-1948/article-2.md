@@ -2,14 +2,8 @@
 
 Pour avoir droit à l'appellation contrôlée "Fitou", les vins doivent provenir des cépages suivants :
 
-Cépages principaux dont la proportion doit être au minimum de 90 p. 100 : carignan (n), grenache (n), lladonner pelut (n).
+Cépages principaux : carignan N, grenache N, lladonner pelut N, mourvèdre N, syrah N.
 
-Le pourcentage maximum de carignan doit être de ;
+Le pourcentage maximum de carignan N dans l'encépagement produisant les vins de l'appellation est de 75 p. 100. Toutefois, à partir de la récolte 1995 ce pourcentage maximum passera à 70 p. 100 si la proportion de l'ensemble mourvèdre et syrah est égale ou supérieure à 10 p. 100, ou à 60 p. 100 dans le cas contraire.
 
-85 p. 100 pour les récoltes 1976 à 1979 ;
-
-80 p. 100 pour les récoltes 1980 à 1981 ;
-
-75 p. 100 à partir de la récolte 1982.
-
-Cépages d'appoint dont la proportion doit être au maximum de 10 p. 100 : cinsaut (n), maccabéo (b), mourvèdre (n), syrah (n), terret noir (n).
+Cépages complémentaires dont la proportion globale doit être au maximum de 10 p. 100 : cinsaut N, maccabéo B, terret N.
