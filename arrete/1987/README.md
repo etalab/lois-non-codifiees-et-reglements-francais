@@ -344,7 +344,6 @@
 - [Arrêté du 15 juillet 1987 (AGRG8701579A)](arrete-du-15-juillet-1987-agrg8701579a)
 - [Arrêté du 15 juillet 1987 (AGRG8701580A)](arrete-du-15-juillet-1987-agrg8701580a)
 - [Arrêté du 15 juillet 1987 (AGRG8701581A)](arrete-du-15-juillet-1987-agrg8701581a)
-- [Arrêté du 15 juillet 1987 (ASEP8701072A)](arrete-du-15-juillet-1987-asep8701072a)
 - [Arrêté du 15 juillet 1987 (ASES8701119A)](arrete-du-15-juillet-1987-ases8701119a)
 - [Arrêté du 15 juillet 1987 (TRST8700260A)](arrete-du-15-juillet-1987-trst8700260a)
 - [Arrêté du 15 juin 1987 (AGRG8701444A)](arrete-du-15-juin-1987-agrg8701444a)
