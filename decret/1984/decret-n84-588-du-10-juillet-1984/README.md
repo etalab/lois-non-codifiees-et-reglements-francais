@@ -6,4 +6,5 @@
 - [Titre III : De recrutement.](titre-iii)
 - [Titre IV : De la scolarité](titre-iv)
 - [Titre V : De l'administration et du régime financier.](titre-v)
+- [Titre VI : Dispositions diverses et transitoires.](titre-vi)
 - [Article 46](article-46.md)
