@@ -2,7 +2,7 @@
 
 Le Conseil général administre la Banque de France.
 
-Le Conseil délibère sur les questions relatives à la gestion des activités de la banque autres que celles qui se rattachent directement aux missions définies par l'article 1er.
+Il délibère sur les questions relatives à la gestion des activités de la Banque de France autres que celles qui relèvent des missions du Système européen de banques centrales.
 
 Il délibère des statuts du personnel. Ces statuts sont présentés à l'agrément des ministres compétents par le gouverneur de la Banque de France.
 

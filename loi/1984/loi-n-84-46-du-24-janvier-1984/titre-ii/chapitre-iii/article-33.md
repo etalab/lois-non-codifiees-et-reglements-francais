@@ -16,7 +16,7 @@ Le comité de la réglementation bancaire et financière établit la réglementa
 
 7° La publicité des informations destinées aux autorités compétentes ;
 
-8° Sous réserve des compétences conférées au conseil de la politique monétaire de la Banque de France par la loi n° 93-980 du 4 août 1993 relative au statut de la Banque de France et à l'activité et au contrôle des établissements de crédit, les instruments et les règles du crédit.
+8° Sous réserve des missions confiées au Système européen de banques centrales par l'article 105, paragraphe 2, du traité instituant la Communauté européenne, les instruments et les règles du crédit ;
 
 9° Les règles relatives à la protection des déposants mentionnées à l'article 52-1.
 
