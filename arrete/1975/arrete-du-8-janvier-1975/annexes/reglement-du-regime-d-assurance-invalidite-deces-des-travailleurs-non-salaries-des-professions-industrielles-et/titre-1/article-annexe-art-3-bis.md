@@ -1,0 +1,3 @@
+# Article annexe art. 3 bis
+
+En application de l'article 6 du décret n° 73-938 du 2 octobre 1973, modifié par le décret n° 80-417 du 5 juin 1980, lorsque les montants cumulés de l'avantage de vieillesse substitué à la pension d'invalidité et de tous autres avantages de vieillesse servis à l'intéressé par un régime de base légal ou réglementaire de sécurité sociale sont inférieurs au montant de la pension d'invalidité, il est attribué une allocation differentielle égale à la difference entre le montant des prestations d'assurance vieillesse visées ci-dessus et le taux de la pension d'invalidité en vigueur au cours de la même période.

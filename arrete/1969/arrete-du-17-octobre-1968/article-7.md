@@ -2,7 +2,7 @@
 
 Les feuilles de location sont assemblées en carnet de feuilles de location.
 
-La première page du carnet porte les indications suivantes [*mentions obligatoires*] :
+La première page du carnet porte les indications suivantes :
 
 Le numéro d'ordre ;
 
@@ -14,4 +14,4 @@ La date de mise en service ;
 
 La date de fin d'utilisation ;
 
-Les cachets du groupement professionnel des loueurs pour les adhérents ou de la direction départementale de l'équipement dans les autres cas.
+Les cachets de l'organisation professionnelle visée à l'article 1er ci-dessus pour les adhérents ou de la direction départementale de l'équipement dans les autres cas.
