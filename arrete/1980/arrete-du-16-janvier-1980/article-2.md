@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur des relations du travail au ministère du travail et de la participation et le directeur des affaires sociales au ministère de l'agriculture sont chargés, chacun en ce qui le concerne de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française et entrera en vigueur à l'expiration d'un délai de deux mois à compter de sa publication.
+L'employeur utilisant des travailleurs salariés ressortissants du Gabon et du Togo est tenu d'acquitter la redevance représentative de frais due, selon le cas, par les employeurs du commerce, de l'industrie et d'activités diverses ou par les employeurs de l'agriculture utilisant de la main-d'oeuvre étrangère, permanente ou saisonnière, introduite ou contrôlée par l'office national d'immigration, dont le taux est fixé par arrêté interministériel.
