@@ -1,0 +1,3 @@
+# Article 16
+
+Les dispositions du décret n° 67-1039 du 29 novembre 1967 portant réglementation du logement et de l'ameublement des magistrats et des fonctionnaires de l'Etat en service dans les territoires d'outre-mer ne sont pas applicables aux instituteurs du corps visé par le présent décret. Le logement des intéressés est assuré dans les conditions fixées, pour la métropole, par l'article 14 de la loi du 30 octobre 1886, par l'article 4 de la loi du 19 juillet 1889 et par les articles 12 et 14 du décret du 18 janvier 1887.  Toutefois, les attributions dévolues aux communes, en métropole, par ces dispositions sont exercées en Polynésie française soit par les communes, soit, à défaut, par le territoire.
