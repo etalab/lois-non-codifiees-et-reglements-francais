@@ -1,7 +1,6 @@
 # Titre V : Dispositions d'ordre social.
 
 - [Article 23](article-23.md)
-- [Article 24](article-24.md)
 - [Article 25](article-25.md)
 - [Article 30](article-30.md)
 - [Article 31](article-31.md)
