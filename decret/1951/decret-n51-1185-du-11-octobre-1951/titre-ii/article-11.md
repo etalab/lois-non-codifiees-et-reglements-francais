@@ -1,0 +1,3 @@
+# Article 11
+
+Pour compter du 25 décembre 1950, les militaires à solde mensuelle et à solde spéciale progressive en service dans les territoires relevant du ministère de la France d'outre-mer bénéficieront, sans distinction de race, de statut personnel, d'origine ou de lieu de recrutement, du régime d'allocations et de prestations familiales fixé par, les arrêtés des hauts commissaires ou chefs de territoires pour l'ensemble des personnels civils placés sous leur autorité, dans les conditions prévues à l'article 5 de la loi n° 50-772 du 30 juin 1950 et à l'article 12 du décret n° 51-511 du 5 mai 10-51 fixant les rémiges de rémunérations et de prestations familiales, de certains cadres de fonctionnaires civils relevant du ministère de la France d'outre-nier.

@@ -7,6 +7,7 @@
 - [Décret n°51-721 du 8 juin 1951](decret-n51-721-du-8-juin-1951)
 - [Décret n°51-725 du 8 juin 1951](decret-n51-725-du-8-juin-1951)
 - [Décret n°51-406 du 10 avril 1951](decret-n51-406-du-10-avril-1951)
+- [Décret n°51-1185 du 11 octobre 1951](decret-n51-1185-du-11-octobre-1951)
 - [Décret n°51-540 du 11 mai 1951](decret-n51-540-du-11-mai-1951)
 - [Décret n°69-599 du 13 juin 1969](decret-n69-599-du-13-juin-1969)
 - [Décret n°51-445 du 16 avril 1951](decret-n51-445-du-16-avril-1951)
