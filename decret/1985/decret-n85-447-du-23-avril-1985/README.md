@@ -1,4 +1,4 @@
-# Décret n°76-790 du 20 août 1976 fixant les modalités de l'enquête publique préalable au classement, à l'ouverture, au redressement, à la fixation de la largeur et au déclassement des voies communales
+# Décret n°85-447 du 23 avril 1985 relatif à la mise à disposition auprès d'une organisation syndicale en application de l'article 100 de la loi du 26 janvier 1984
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -9,5 +9,4 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
-- [Article 9 bis](article-9-bis.md)
 - [Article 10](article-10.md)

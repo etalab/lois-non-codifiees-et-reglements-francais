@@ -4,3 +4,5 @@
 - [Chapitre II : De la redevance domaniale.](chapitre-ii)
 - [Chapitre III : De l'instruction des demandes d'autorisations de prospections préalables et de leur délivrance.](chapitre-iii)
 - [Chapitre IV : De l'exécution des travaux](chapitre-iv)
+- [Chapitre V : Dispositions diverses.](chapitre-v)
+- [Article 29](article-29.md)

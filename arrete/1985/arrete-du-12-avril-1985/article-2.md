@@ -1,5 +1,115 @@
 # Article 2
 
-La décision d'attribution de la prime d'orientation agricole bois fixe l'assiette de l'aide, le taux de cette dernière, son montant maximum et précise, éventuellement, la somme versée immédiatement à titre d'acompte dans la limite du tiers du montant ci-dessus.
+Les seules informations saisies sur la notice individuelle d'inscription sont les suivantes :
 
-La décision fixe également le délai maximum de réalisation de l'investissement retenu pour la liquidation de la prime d'orientation, délai qui ne peut excéder trois ans ; en outre, l'autorité administrative compétente constate la caducité de la décision à l'expiration d'un délai de deux ans à compter de la notification de sa décision, si les investissements n'ont pas été engagés. Lorsque l'achèvement de l'opération aura été retardé pour des causes indépendantes de la volonté du bénéficiaire, le ministre de l'agriculture peut proroger le délai maximum de réalisation des travaux pour une période qui ne peut excéder deux ans. La décision précise enfin, le cas échéant, les conditions particulières mises à sa validité. En tant que de besoin, l'ensemble des dispositions ci-dessus peut être repris dans une convention liant l'Etat et l'entreprise.
+- nom patronymique ;
+
+- prénoms ;
+
+- nom marital, le cas échéant ;
+
+- date et lieu de naissance ;
+
+- nationalité (française, C.E.E., Andorre) ;
+
+- adresse privée et numéro de téléphone (facultatif) ;
+
+- adresse professionnelle et numéro de téléphone (facultatif) ;
+
+- discipline dans laquelle le candidat concourt ;
+
+- spécialité(s)     - qualité au titre de laquelle il se présente ;
+
+- article du décret n° 84-131 du 24 février 1984 auquel il se réfère ;
+
+- code I.N.S.E.E. de la région d'inscription ;
+
+- année d'inscription ;
+
+- numéro d'ordre d'enregistrement du dossier.
+
+Elles sont complétées par les informations concernant la qualité du candidat justifiant sa candidature au titre du (ou des) article(s) du décret et les conditions propres à cet (ces) article(s).
+
+Conditions générales :
+
+- doctorat ;
+
+- date d'obtention :
+
+- université ou faculté.
+
+Conditions spécifiques ;
+
+- qualité ;
+
+- spécialité ;
+
+- date de nomination ;
+
+- lieu d'affectation ;
+
+- date de nomination ;
+
+- date de fin de fonctions.
+
+Sont ensuite pris en compte les titres ;
+
+- diplômes universitaires et scientifiques ;
+
+- titres hospitaliers.
+
+Pour chacun de ces titres sont indiqués :
+
+- la spécialité ;
+
+- le lieu (université, hôpital, département, service ou organisme) ;
+
+- la date d'obtention.
+
+Les travaux scientifiques sont répertoriés en indiquant le titre du travail, les auteurs dans l'ordre où ils figurent dans la publication, les références concernant le nom de la revue ou du livre, l'année de parution, la pagination et éventuellement le tome s'il s'agit d'une revue périodique.
+
+La cotation provisoire (précotation) telle qu'elle résulte des coefficients établis, le cas échéant, par le jury lors de sa première délibération.
+
+Sont également pris en compte les services rendus qui concernent :
+
+- les activités de soins, diagnostic, prévention ;
+
+- les participations aux gardes ;
+
+- les activités médicales lors du service militaire ;
+
+- les remplacements et intérims ;
+
+- les activités d'enseignement et de recherche ;
+
+- les séjours à l'étranger ou formations complémentaires ;
+
+- divers.
+
+Pour chaque service rendu, mention sera faite des :
+
+- lieu, hôpital et service ou organisme ;
+
+- spécialité ;
+
+- dates de début et de fin ;
+
+- autres informations spécifiques du service rendu.
+
+La cotation provisoire (précotation) telle qu'elle résulte des coefficients établis, le cas échéant, par le jury lors de sa première délibération.
+
+Pour chaque concours, les indications suivantes sont en outre inscrites :
+
+- les notes attribuées par le jury pour les titres et travaux et services rendus ;
+
+- les notes de l'écrit lorsqu'il y a lieu ;
+
+- le rang de classement provisoire lorsqu'il y a une option possible ;
+
+-le choix du candidat pour l'option ;
+
+- le rang définitif du candidat dans l'option choisie.
+
+Ces informations sont conservées pour les candidats reçus jusqu'à publication de leur nomination en tant que praticien hospitalier. Elles sont conservées dans le cas contraire jusqu'à épuisement des droits à concourir, à l'exclusion des renseignements concernant les notes attribuées par le jury. Le délai de conservation est de vingt-cinq ans au maximum pour les candidats se présentant dès l'obtention du D.E.S. et pouvant ensuite le faire au titre d'autres articles du décret, et notamment de l'article 13.
+
+dans ce cas sont également conservées les dates successives d'inscription au concours pour chaque article et les forclusions pour chaque article du décret.
