@@ -1,3 +1,0 @@
-# Article 12-1
-
-Le ministre chargé du budget est autorisé à conduire pendant l'exercice 1995, à titre expérimental, une réforme du contrôle financier des dépenses déconcentrées de l'Etat dans les régions Aquitaine et Champagne-Ardenne ainsi que, pour les dépenses de construction de l'enseignement supérieur, dans l'ensemble des régions à l'exclusion des territoires d'outre-mer et des collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon. A cette fin, il peut être dérogé, dans ces circonscriptions ou pour cette catégorie de dépenses, aux dispositions du présent décret, dans des conditions définies par arrêté du ministre chargé du budget.
