@@ -10,5 +10,4 @@
 - [TITRE VIII : PRÉVENTION DES RISQUES D'EXPLOSION.](titre-viii)
 - [TITRE IX : STOCKAGES.](titre-ix)
 - [TITRE X : ENTRETIEN - MAINTENANCE.](titre-x)
-- [TITRE XI : prévention de la légionellose.](titre-xi)
 - [Article 35](article-35.md)

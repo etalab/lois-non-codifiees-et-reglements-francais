@@ -914,7 +914,6 @@
 - [Arrêté du 22 décembre 1994 (ENVE9430438A)](arrete-du-22-decembre-1994-enve9430438a)
 - [Arrêté du 22 décembre 1994 (ENVE9430440A)](arrete-du-22-decembre-1994-enve9430440a)
 - [Arrêté du 22 décembre 1994 (EQUS9401847A)](arrete-du-22-decembre-1994-equs9401847a)
-- [Arrêté du 22 décembre 1994 (INDP9401517A)](arrete-du-22-decembre-1994-indp9401517a)
 - [Arrêté du 22 décembre 1994 (SANH9503949A)](arrete-du-22-decembre-1994-sanh9503949a)
 - [Arrêté du 22 décembre 1995 (BUDF9520895A)](arrete-du-22-decembre-1995-budf9520895a)
 - [Arrêté du 22 décembre 1995 (ECOT9520021A)](arrete-du-22-decembre-1995-ecot9520021a)

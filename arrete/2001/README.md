@@ -475,7 +475,6 @@
 - [Arrêté du 24 septembre 2001 (ECOP0100576A)](arrete-du-24-septembre-2001-ecop0100576a)
 - [Arrêté du 24 septembre 2001 (ECOP0100581A)](arrete-du-24-septembre-2001-ecop0100581a)
 - [Arrêté du 25 avril 2001 (AGRG0001294A)](arrete-du-25-avril-2001-agrg0001294a)
-- [Arrêté du 25 avril 2001 (AGRG0100192A)](arrete-du-25-avril-2001-agrg0100192a)
 - [Arrêté du 25 juillet 2001 (ATEP0100260A)](arrete-du-25-juillet-2001-atep0100260a)
 - [Arrêté du 25 juillet 2001 (ATEP0100261A)](arrete-du-25-juillet-2001-atep0100261a)
 - [Arrêté du 25 juillet 2001 (ATEP0100262A)](arrete-du-25-juillet-2001-atep0100262a)

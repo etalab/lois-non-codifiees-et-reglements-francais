@@ -14,6 +14,5 @@
 - [TITRE XII : SURVEILLANCE DES ÉMISSIONS ET DES REJETS](titre-xii)
 - [TITRE XIII : SURVEILLANCE DES EFFETS SUR L'ENVIRONNEMENT](titre-xiii)
 - [TITRE XV : MODALITÉS D'APPLICATION.](titre-xv)
-- [TITRE XIV : PRÉVENTION DE LA LÉGIONELLOSE.](titre-xiv)
 - [Article 87](article-87.md)
 - [Annexes](annexes)

@@ -95,7 +95,6 @@
 - [Décret n°2003-1052 du 4 novembre 2003 (DOMA0300026D)](decret-n2003-1052-du-4-novembre-2003-doma0300026d)
 - [Décret n°2003-1056 du 4 novembre 2003 (MCCT0300684D)](decret-n2003-1056-du-4-novembre-2003-mcct0300684d)
 - [Décret n°2003-1157 du 4 décembre 2003 (DEVN0310087D)](decret-n2003-1157-du-4-decembre-2003-devn0310087d)
-- [Décret n°2003-1159 du 4 décembre 2003 (SOCS0324422D)](decret-n2003-1159-du-4-decembre-2003-socs0324422d)
 - [Décret n°2003-1160 du 4 décembre 2003 (AGRE0301527D)](decret-n2003-1160-du-4-decembre-2003-agre0301527d)
 - [Décret n°2003-316 du 4 avril 2003 (SANS0320464D)](decret-n2003-316-du-4-avril-2003-sans0320464d)
 - [Décret n°2003-479 du 4 juin 2003 (SOCF0310380D)](decret-n2003-479-du-4-juin-2003-socf0310380d)

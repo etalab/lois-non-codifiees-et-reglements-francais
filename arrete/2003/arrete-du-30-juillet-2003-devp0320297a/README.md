@@ -10,6 +10,5 @@
 - [TITRE VIII : PRÉVENTION DES RISQUES D'INCENDIE ET D'EXPLOSION.](titre-viii)
 - [TITRE IX : DÉPÔTS.](titre-ix)
 - [TITRE X : ENTRETIEN - MAINTENANCE.](titre-x)
-- [TITRE XI : PRÉVENTION DE LA LÉGIONELLOSE.](titre-xi)
 - [TITRE XII : TEXTE ABROGÉ.](titre-xii)
 - [Article 49](article-49.md)
