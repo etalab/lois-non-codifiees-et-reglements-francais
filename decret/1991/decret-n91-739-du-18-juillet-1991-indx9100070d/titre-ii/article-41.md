@@ -20,9 +20,9 @@ Chambres régionales de commerce et d'industrie du Centre : Blois, Bourges, Char
 
 Chambres régionales de commerce et d'industrie de Champagne-Ardenne : Châlons-sur-Marne, Charleville, Reims, Saint-Dizier, Sedan et Troyes.
 
-Chambres régionales de commerce et d'industrie d'Ile-de-France :
+Chambres régionales de commerce et d'industrie de Paris - Ile-de-France :
 
-Evry, Meaux, Melun et Versailles.
+Evry, Meaux, Melun, Paris et Versailles.
 
 Chambres régionales de commerce et d'industrie de Franche-Comté :
 
@@ -46,7 +46,7 @@ Chambres régionales de commerce et d'industrie de Basse-Normandie : Alençon, C
 
 Chambres régionales de commerce et d'industrie de Haute-Normandie : Bolbec, Dieppe, Elbeuf, Evreux, Fécamp, Le Havre, Le Tréport et Rouen.
 
-Chambres régionales de commerce et d'industrie de Paris : Paris.    Chambres régionales de commerce et d'industrie des Pays de la Loire : Angers, Cholet, Laval, La Roche-sur-Yon, Le Mans, Nantes, Saint-Nazaire et Saumur.
+Chambres régionales de commerce et d'industrie des Pays de la Loire : Angers, Cholet, Laval, La Roche-sur-Yon, Le Mans, Nantes, Saint-Nazaire et Saumur.
 
 Chambres régionales de commerce et d'industrie de Picardie :
 
