@@ -1,0 +1,5 @@
+# Article 22
+
+Les associations et unions peuvent employer leurs ressources disponibles à la constitution d'un fonds de réserve suffisant pour assurer les frais et l'entretien du culte et ne pouvant, en aucun cas, recevoir une autre destination : le montant de cette réserve ne pourra jamais dépasser une somme égale, pour les unions et associations ayant plus de cinq mille (anciens) francs de revenu, à trois fois et, pour les autres associations, à six fois la moyenne annuelle des sommes dépensées par chacune d'entre elles pour les frais du culte pendant les cinq derniers exercices.
+
+Indépendamment de cette réserve, qui devra être placée en valeurs nominatives, elles pourront constituer une réserve spéciale dont les fonds devront êtres déposés, en argent ou en titres nominatifs, à la Caisse des dépôts et consignations pour y être exclusivement affectés, y compris les intérêts, à l'achat, à la construction, à la décoration ou à la réparation d'immeubles ou meubles destinés aux besoins de l'association ou de l'union.
