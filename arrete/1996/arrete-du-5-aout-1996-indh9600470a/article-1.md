@@ -1,3 +1,5 @@
 # Article 1
 
-Il est créé, à titre expérimental, pour une durée de cinq ans, un cycle de formation d'ingénieur par apprentissage à l'Ecole nationale supérieure du pétrole et des moteurs. Les études sont sanctionnées par l'attribution du diplôme d'ingénieur de l'Ecole nationale supérieure du pétrole et des moteurs. Le nombre d'élèves en formation dans le cycle de formation par apprentissage ne doit pas dépasser 20 p. 100 du nombre total d'élèves en formation à l'école.
+L'Ecole nationale supérieure du pétrole et des moteurs est habilitée à délivrer le titre d'"ingénieur diplômé de l'Ecole nationale supérieure du pétrole et des moteurs" au titre de la formation initiale par apprentissage.
+
+La mise en oeuvre de l'apprentissage sera examinée périodiquement dans le cadre du dispositif d'évaluation et d'habilitation des formations d'ingénieurs.

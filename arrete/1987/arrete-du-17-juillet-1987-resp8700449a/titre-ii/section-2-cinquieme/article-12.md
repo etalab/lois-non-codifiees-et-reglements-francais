@@ -2,7 +2,7 @@
 
 Les enseignements théoriques, dirigés et pratiques sont organisés sous forme d'unités de valeur. L'étudiant doit indiquer, avant le début du deuxième trimestre de la cinquième année, les unités de valeur qu'il souhaite valider. L'ensemble doit constituer un cursus cohérent et être accepté par le directeur de l'unité de formation et de recherche dispensant des formations pharmaceutiques. Au maximum deux des unités de valeur peuvent être acquises par équivalence avec d'autres enseignements, par autorisation accordée par le directeur de l'unité de formation et de recherche dispensant les formations pharmaceutiques où est inscrit l'étudiant.
 
-Avant sa prise de fonctions, l'étudiant doit valider la formation de préparation à la prise de fonctions hospitalières mentionnée au 2 du deuxième alinéa de l'article 7 du présent arrêté.
+Avant sa prise de fonctions, l'étudiant doit valider la formation de préparation à la prise de fonctions hospitalières mentionnée au 2 du deuxième alinéa de l'article 7 du présent arrêté. Toutefois, à titre exceptionnel, le président de l'université peut, sur proposition du directeur de l'unité de formation et de recherche dispensant des formations pharmaceutiques, accorder à un étudiant l'autorisation de commencer son stage hospitalier avant cette validation, sous réserve que celle-ci intervienne dans le cadre de la validation de la cinquième année d'études.
 
 Durant l'année hospitalo-universitaire, l'étudiant doit valider l'enseignement de synthèse prévu au 3 du deuxième alinéa de l'article 7 du présent arrêté, et deux ou trois unités de valeur de son choix, en fonction de l'activité professionnelle à laquelle il se destine.
 

@@ -1,10 +1,10 @@
 # Article 35
 
-Il est institué une commission pédagogique nationale des études pharmaceutiques chargée notamment [*attributions*] :
+Il est institué une commission pédagogique nationale des études pharmaceutiques chargée notamment :
 
 - de préparer la définition ou la révision régulière des objectifs et des programmes de la formation commune de base prévue à l'article 7 du présent arrêté ;
 
-- de donner un avis sur les projets pédagogiques présentés par les unités de formation et de recherche dispensant des formations pharmaceutiques dans le cadre des enseignements optionnels, notamment ceux prévus à l'article 8 du présent arrêté ;
+- de donner un avis sur les projets pédagogiques présentés par les unités de formation et de recherche dispensant des formations pharmaceutiques dans le cadre des enseignements optionnels, notamment ceux prévus à l'article 8 du présent arrêté, et sur les objectifs, les programmes de formation et les modalités d'accès aux enseignements de troisième cycle de 5e et 6e année et à ceux des diplômes d'études spécialisées, à l'exception de ceux concernant la biologie médicale ;
 
 - d'analyser et de favoriser la diffusion des innovations pédagogiques et de proposer toute orientation utile en fonction des progrès de la science et de la pédagogie ;
 

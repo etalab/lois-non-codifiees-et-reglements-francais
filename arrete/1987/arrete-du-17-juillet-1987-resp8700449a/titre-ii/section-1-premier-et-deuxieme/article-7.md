@@ -6,7 +6,7 @@ La formation commune de base comprend :
 
 1. La totalité des enseignements non optionnels dispensés au cours des deux premiers cycles ;
 
-2. La formation de préparation à la prise de fonctions hospitalières, prévue à la section VI de l'annexe du présent arrêté, dispensée en début de cinquième année ;
+2. La formation de préparation à la prise de fonctions hospitalières, prévue à la section VI de l'annexe du présent arrêté ;
 
 3. Un enseignement de synthèse, d'une durée de cinquante à soixante heures, conçu pour permettre à l'étudiant d'intégrer l'ensemble des acquis, correspondant notamment aux sections IV et V de l'annexe, dispensé avant la fin du premier semestre de la cinquième année et organisé pour l'essentiel sous forme d'enseignement dirigé portant sur des cas concrets.
 
