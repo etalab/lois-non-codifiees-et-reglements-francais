@@ -1,54 +1,61 @@
 # Article 6
 
-Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er décembre 1999 :
+Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er décembre 2000 :
 
-TRAITEMENTS ET SOLDES ANNUELS BRUTS (en francs) soumis à retenue pour pension à compter du 1er décembre 1999
+TRAITEMENTS ET SOLDES ANNUELS BRUTS (EN FRANCS)
 
-I = Groupe
+soumis à retenue pour pension à compter du 1er décembre 2000
 
-Chevrons
+GROUPE : A
 
-I
+CHEVRON I : 295 557
 
-II
+CHEVRON II : 307 312
 
-III
+CHEVRON III : 323 097
 
-<table>
-<tr>
-<td> :---:-------:-------:-------:</td>
-</tr>
-<tr>
-<td> : I :chev I :chev II:chevIII:</td>
-</tr>
-<tr>
-<td> :---:-------:-------:-------:</td>
-</tr>
-<tr>
-<td> : A :294-087:305 784:321 491:</td>
-</tr>
-<tr>
-<td> : B :321 491:335 193:353 239:</td>
-</tr>
-<tr>
-<td> : B+:353 239:362 596:372 288:</td>
-</tr>
-<tr>
-<td> : C :372 288:380 308:388 663:</td>
-</tr>
-<tr>
-<td> : D :388 663:406 375:424 087:</td>
-</tr>
-<tr>
-<td> : E :424 087:440 797:   -   :</td>
-</tr>
-<tr>
-<td> : F :457 172: -     :   -   :</td>
-</tr>
-<tr>
-<td> : G :501 285: -     :   -   :</td>
-</tr>
-<tr>
-<td> :---:-------:-------:-------:</td>
-</tr>
-</table>
+GROUPE : B
+
+CHEVRON I : 323 097
+
+CHEVRON II : 336 868
+
+CHEVRON III : 355 004
+
+GROUPE : B bis
+
+CHEVRON I : 355 004
+
+CHEVRON II : 364 408
+
+CHEVRON III : 374 148
+
+GROUPE : C
+
+CHEVRON I : 374 148
+
+CHEVRON II : 382 209
+
+CHEVRON III : 390 605
+
+GROUPE : D
+
+CHEVRON I : 390 605
+
+CHEVRON II : 408 406
+
+CHEVRON III : 426 206
+
+GROUPE : E
+
+CHEVRON I : 426 206
+
+CHEVRON II : 442 999
+
+GROUPE : F
+
+CHEVRON I : 459 456
+
+GROUPE : G
+
+CHEVRON I : 503 790
