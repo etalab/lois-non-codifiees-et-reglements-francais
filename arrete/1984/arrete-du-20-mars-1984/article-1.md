@@ -1,3 +1,3 @@
 # Article 1
 
-A titre exceptionnel, l'augmentation de cinq points, prévue par l'arrêté du 28 décembre 1982 susvisé, à compter du 1er janvier 1984 [*date, point de départ*] du taux de cotisation Accidents du travail notifié pour le risque n° 8612.0 n'est pas appliquée pour l'exercice 1984.
+La liste des armes à feu portatives et de leurs munitions les plus communément fabriquées ou introduites en France et entrant dans les catégories définies par l'article 1er du décret du 12 mars 1973 susvisé est fixée à l'annexe du présent arrêté.
