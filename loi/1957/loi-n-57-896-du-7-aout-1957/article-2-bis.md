@@ -1,0 +1,3 @@
+# Article 2 bis
+
+A compter du 1er janvier 1978, sont considérés comme services militaires au regard des droits à pension, les services accomplis dans les armées alliées pendant les campagnes de guerre 1939-1945 par les étrangers qui ont acquis par la suite la nationalité française, sous réserve que les intéressés aient servi, avant la date de cessation des hostilités, dans une unité combattante. Pour ceux d'entre eux qui sont titulaires de la carte du combattant, les services ainsi accomplis seront assortis, lors de la liquidation des pensions servies aux intéressés ou à leurs ayants cause au titre du Code des pensions civiles et militaires de retraite, de bénéfices de campagne, dans des conditions qui seront déterminées par décret en Conseil d'Etat.

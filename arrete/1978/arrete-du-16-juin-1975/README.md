@@ -1,4 +1,4 @@
-# Arrêté du 16 juin 1975 Surfaces minima d'installation et coefficients d'équivalence en matière de cumuls d'exploitations ou de fonds agricoles dans les départements de France métropolitaine (application de l'art. 188-3 du Code rural)-TARN
+# Arrêté du 16 juin 1975 Surfaces minima d'installation et coefficients d'équivalence en matière de cumuls d'exploitations ou de fonds agricoles dans les départements de France métropolitaine (application de l'art. 188-3 du Code rural)-BAS-RHIN
 
 - [Article 1](article-1.md)
 - [Article 1 bis](article-1-bis.md)

@@ -1,17 +1,11 @@
 # Article 50
 
-Ne peuvent obtenir de commandes de fournitures ou de travaux de la part de l'Etat, des départements, des communes et des établissements publics, ainsi que des entreprises concédées ou contrôlées par l'Etat, les départements et les communes, les entreprises dans lesquelles une personne ayant fait l'objet, à raison de l'une des dispositions du code général des impôts prévoyant des sanctions correctionnelles et pour des faits commis postérieurement à la promulgation de la présente loi, d'une condamnation définitive, occupe l'une des situations suivantes :
+I. - Lorsqu'une personne est condamnée pour infraction à une disposition du code général des impôts prévoyant des sanctions pénales, l'interdiction d'obtenir des commandes de l'Etat, des départements, des communes, des établissements publics ainsi que des entreprises concédées ou contrôlées par l'Etat, les départements et les communes peut être prononcée à son encontre par le tribunal pour une durée maximale de dix ans à compter de la date où la condamnation est devenue définitive. Cette sanction frappe également les personnes morales sous le couvert desquelles le condamné agirait pour se soustraire à l'interdiction ci-dessus.
 
-Exploitant individuel ou en nom collectif, associé en participation ;
+Lorsque la personne condamnée est un dirigeant de droit ou de fait d'une entreprise redevable de l'impôt fraudé, cette entreprise ne peut obtenir de commandes de l'Etat, des départements, des communes et des établissements publics ainsi que des entreprises concédées ou contrôlées par l'Etat, les départements et les communes, pendant une durée égale à celle de l'interdiction prononcée en application de l'alinéa précédent. Cette exclusion cesse si le dirigeant est relevé de l'interdiction dans les conditions prévues à l'alinéa 55-I du code pénal.
 
-Président directeur général, gérant, administrateur, directeur général ou directeur ;
+L'exclusion prononcée en application du présent paragraphe cesse de plein droit lorsque l'entreprise apporte la preuve qu'elle n'emploie plus la personne condamnée.
 
-Fondé de pouvoir ayant, même pour certaines opérations seulement, la signature sociale ;
+II. - Les dispositions du paragraphe I sont applicables aux entreprises qui exécutent en qualité de sous-traitant une partie des commandes susvisées.
 
-Associé détenant le tiers, ou plus, des parts sociales.
-
-Ces dispositions sont applicables aux entreprises qui sous-traitent une partie quelconque de l'une des commandes visées à l'alinéa ci-dessus.
-
-En cas d'inobservation de l'interdiction établie par le présent article, le marché est résilié de plein droit, ou mis en régie, aux torts exclusifs du titulaire du marché.
-
-Un décret en Conseil d'Etat déterminera les modalités d'application du présent article.
+III. - En cas d'inobservation des dispositions prévues par le présent article, le marché peut, aux torts exclusifs du titulaire, être résilié ou mis en régie.
