@@ -4,7 +4,7 @@ I. - Les titres de créances négociables définis à l'article 19 de la loi du 
 
 1° Les certificats de dépôt, d'une durée initiale inférieure ou égale à un an, émis par les établissements de crédit ainsi que par la Caisse des dépôts et consignations ;
 
-2° Les billets de trésorerie, d'une durée initiale inférieure ou égale à un an, émis par des entreprises d'investissement et par les émetteurs mentionnés aux 2°, 3°, 4° et 5° du III de l'article 19 de la loi du 26 juillet 1991 susvisée ;
+2° Les billets de trésorerie, d'une durée initiale inférieure ou égale à un an, émis par des entreprises d'investissement et par les émetteurs mentionnés aux 2°, 3°, 4°, 5° et 6° du III de l'article 19 de la loi du 26 juillet 1991 susvisée ;
 
 3° Les bons à moyen terme négociables, d'une durée initiale supérieure à un an, émis par l'ensemble des émetteurs mentionnés au III de l'article 19 de la loi du 26 juillet 1991 susvisée.
 
