@@ -1,6 +1,7 @@
 # 1961
 
 - [Arrêté du 8 avril 1961](arrete-du-8-avril-1961)
+- [Arrêté du 15 mai 1961](arrete-du-15-mai-1961)
 - [Arrêté du 16 mars 1961](arrete-du-16-mars-1961)
 - [Arrêté du 17 février 1961](arrete-du-17-fevrier-1961)
 - [Arrêté du 21 mars 1961](arrete-du-21-mars-1961)
