@@ -8,3 +8,4 @@
 - [Loi n° 78-4 du 2 janvier 1978](loi-n-78-4-du-2-janvier-1978)
 - [Loi n° 78-5 du 2 janvier 1978](loi-n-78-5-du-2-janvier-1978)
 - [Loi n°78-23 du 10 janvier 1978](loi-n78-23-du-10-janvier-1978)
+- [Loi n°78-49 du 19 janvier 1978](loi-n78-49-du-19-janvier-1978)
