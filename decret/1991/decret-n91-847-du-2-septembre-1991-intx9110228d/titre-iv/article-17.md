@@ -11,3 +11,5 @@ Peuvent être nommés assistants qualifiés de conservation hors classe, après 
 2° Les assistants qualifiés de conservation de 1re classe comptant trois ans de services en qualité d'assistant qualifié de conservation de 1re classe et ayant atteint le 3e échelon de leur grade.
 
 Le nombre d'assistants qualifiés de conservation hors classe ne peut être supérieur à 15 p. 100 du nombre des assistants qualifiés de conservation de 2e classe, des assistants qualifiés de conservation de 1re classe et des assistants qualifiés de conservation hors classe. Toutefois un emploi d'assistant qualifié de conservation hors classe peut être créé s'il existe cinq emplois de ce cadre d'emplois dans la collectivité.
+
+L'inscription au tableau d'avancement pour le grade d'assistant qualifié de conservation de 1re classe des assistants qualifiés de conservation de 2e classe devant suivre la formation d'adaptation à l'emploi mentionnée aux articles 7 et 8 ci-dessus ne peut intervenir qu'au vu d'une attestation établie par le président du Centre national de la fonction publique territoriale et certifiant que l'intéressé a suivi cette formation.
