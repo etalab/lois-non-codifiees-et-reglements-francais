@@ -339,7 +339,6 @@
 - [Arrêté du 15 décembre 1987 (ASES8701846A)](arrete-du-15-decembre-1987-ases8701846a)
 - [Arrêté du 15 décembre 1987 (ECOT8726016A)](arrete-du-15-decembre-1987-ecot8726016a)
 - [Arrêté du 15 décembre 1987 (RESK8700930A)](arrete-du-15-decembre-1987-resk8700930a)
-- [Arrêté du 15 janvier 1987 (INDA8700030A)](arrete-du-15-janvier-1987-inda8700030a)
 - [Arrêté du 15 janvier 1987 (TRST8700040A)](arrete-du-15-janvier-1987-trst8700040a)
 - [Arrêté du 15 juillet 1987 (AGRG8701577A)](arrete-du-15-juillet-1987-agrg8701577a)
 - [Arrêté du 15 juillet 1987 (AGRG8701578A)](arrete-du-15-juillet-1987-agrg8701578a)
