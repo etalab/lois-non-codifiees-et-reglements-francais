@@ -1,4 +1,4 @@
-# Arrêté du 4 octobre 1985 relatif aux modalités de création et d'approvisionnement des points de vente de carburants
+# Arrêté du 4 octobre 1985 relatif à la protection de certains poissons d'eau douce.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

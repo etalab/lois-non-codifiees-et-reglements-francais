@@ -1,3 +1,3 @@
 # Article 2
 
-Les titulaires d'autorisations spéciales d'importation et de livraison à la consommation intérieure de produits dérivés du pétrole communiqueront au directeur des hydrocarbures, sur sa demande, tous les renseignements nécessaires à l'appréciation des conditions d'approvisionnement du réseau de vente par leurs soins.
+Le directeur de la protection de la nature et le directeur de la qualité sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
