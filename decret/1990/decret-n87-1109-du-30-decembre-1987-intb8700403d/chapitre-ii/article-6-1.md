@@ -1,9 +1,7 @@
 # Article 6-1
 
-Pendant une période de cinq ans à compter de la publication du décret n° 2003-600 du 26 juin 2003, par dérogation aux dispositions prévues aux articles 3 (2°), 5 et 6 ci-dessus, la promotion interne intervient dans les conditions suivantes :
+Peuvent être inscrits sur la liste d'aptitude prévue au 3° de l'article 3 ci-dessus, après examen professionnel, les fonctionnaires comptant au moins sept ans de services effectifs, y compris la période normale de stage, dans le cadre d'emplois des agents administratifs territoriaux ou dans celui des agents de bureau pour les fonctionnaires recrutés en cette qualité avant le 20 septembre 1990.
 
-1° En application des dispositions du 1° de l'article 39 de la loi du 26 janvier 1984 précitée, peuvent être inscrits sur la liste d'aptitude, après examen professionnel, les fonctionnaires comptant au moins sept ans de services effectifs, y compris la période normale de stage, dans le cadre d'emplois des agents administratifs territoriaux ou dans celui des agents de bureau pour les fonctionnaires recrutés en cette qualité avant le 20 septembre 1990.
+Les examens professionnels comportent des épreuves dont les modalités et programmes sont fixés par décret. Lorsque les centres de gestion sont en charge de l'organisation des concours ou examens professionnels d'accès au cadre d'emplois des adjoints administratifs territoriaux, l'examen professionnel prévu ci-dessus est organisé au moins une fois par an.
 
-Les examens professionnels comportent des épreuves dont les modalités et les programmes sont fixés par décret.
-
-2° En application des dispositions du 2° de l'article 39 de la loi du 26 janvier 1984 précitée, peuvent être inscrits sur la liste d'aptitude les fonctionnaires comptant au moins dix ans de services effectifs, y compris la période normale de stage, dans le cadre d'emplois des agents administratifs territoriaux ou dans celui des agents de bureau pour les fonctionnaires recrutés en cette qualité avant le 20 septembre 1990.
+Les fonctionnaires mentionnés ci-dessus peuvent être recrutés en qualité d'adjoints administratifs stagiaires à raison d'un recrutement au titre de la promotion interne pour deux recrutements intervenus dans la collectivité ou l'établissement ou l'ensemble des collectivités ou établissements affiliés à un centre de gestion, de candidats admis à l'un des concours mentionnés à l'article 4 ou de fonctionnaires du cadre d'emplois, à l'exclusion des nominations intervenues à la suite d'une mutation à l'intérieur de la collectivité et des établissements en relevant.
