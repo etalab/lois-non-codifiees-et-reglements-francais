@@ -1,0 +1,3 @@
+# Article 7
+
+A l'issue des travaux et avant toute restitution des locaux traités, le niveau d'empoussièrement doit être inférieur ou égal à 5 fibres/litre. Si les travaux ne conduisent pas au retrait total des flocages et calorifugeages contenant de l'amiante, les propriétaires procèdent à un contrôle périodique de l'état de conservation de ces matériaux résiduels dans les conditions prévues à l'article 3, dans un délai maximal de trois ans à compter de la date à laquelle leur sont remis les résultats du contrôle ou à l'occasion de toute modification substantielle de l'ouvrage ou de son usage.

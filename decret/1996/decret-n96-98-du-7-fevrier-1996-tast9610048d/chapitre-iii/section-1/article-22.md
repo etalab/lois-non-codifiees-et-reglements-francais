@@ -1,0 +1,3 @@
+# Article 22
+
+Les résultats des contrôles techniques sont communiqués au médecin du travail et au comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, aux délégués du personnel ; ils sont tenus à la disposition de l'inspecteur du travail, du médecin inspecteur du travail ainsi que des agents des services de prévention des organismes de sécurité sociale.

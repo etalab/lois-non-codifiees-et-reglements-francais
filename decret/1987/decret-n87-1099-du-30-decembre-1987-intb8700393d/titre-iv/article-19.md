@@ -7,3 +7,5 @@ Peuvent être nommés au grade d'attaché principal de seconde classe après ins
 2° Les attachés comptant au moins deux ans d'ancienneté dans le 12e échelon de leur grade ;
 
 Le nombre des attachés principaux ne peut être supérieur à 30% du nombre des attachés et attachés principaux. Toutefois lorsque ce nombre est inférieur à quatre, une nomination peut être prononcée.
+
+En outre, par dérogation aux dispositions de l'article 2 ci-dessus, les attachés territoriaux qui remplissent ces conditions peuvent être nommés au grade d'attaché principal s'ils sont détachés au sein de la même collectivité dans l'emploi de secrétaire général d'une commune de 5 000 habitants et plus.
