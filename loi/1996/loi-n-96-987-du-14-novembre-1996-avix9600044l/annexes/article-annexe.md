@@ -22,9 +22,7 @@ Charleville-Mézières : Ronde Couture ;
 
 Chenôve : Le Mail ;
 
-Clichy-sous-Bois/Montfermeil : grands ensembles du haut et du bas
-
-Clichy et de Montfermeil ;
+Clichy-sous-Bois/Montfermeil : grands ensembles du haut et du bas Clichy et de Montfermeil ;
 
 Creil/Montataire : plateau Rouher ;
 
@@ -95,6 +93,172 @@ Fort-de-France : Dillon ;
 Saint-Denis : Chaudron, Moufia, Cerf ;
 
 Cayenne : Village Chinois, quartiers Sud.
+
+I bis. Liste des communes et des quartiers où sont créées des zones franches urbaines à compter du 1er janvier 2004 :
+
+Marseille.
+
+Saint-Barthélémy, Le Canet, Delorme-Paternelle.
+
+Anzin, Beuvrages, Valenciennes.
+
+Secteur intercommunal : Dutemple, Saint Waast, Chasse royale ; Bleuse Borne ; Fénelon ; Carpeaux.
+
+Saint-Pol-sur-Mer.
+
+Quartiers Ouest, Cité Liberté.
+
+Stains.
+
+Clos Saint Lazare, Allende.
+
+Toulouse.
+
+La Reynerie, Bellefontaine, Faourette, Bagatelle, Bordelongue.
+
+Aulnay-sous-Bois.
+
+La Rose des Vents, Cité Emmaüs, Les Merisiers, Les Etangs.
+
+Caen.
+
+Guerinière, Grâce de Dieu.
+
+Vénissieux.
+
+Les Minguettes.
+
+Villiers-le-Bel.
+
+Les Puits, La Marlière, Derrière-les-Murs-de-Monseigneur.
+
+Maubeuge, Louvroil.
+
+Sous le Bois, Douzies, Montplaisir et Epinettes.
+
+Béziers.
+
+Les Arènes, La Devèze.
+
+Soissons.
+
+Presles Chevreux.
+
+La Courneuve.
+
+Les 4000.
+
+Sevran.
+
+Les Beaudottes.
+
+Blois.
+
+Bégon, Croix Chevalier.
+
+Besançon.
+
+Planoise.
+
+Rouen.
+
+Le Plateau : Châtelet, La Lombardie, Les Sapins, La Grand'Mare.
+
+Evreux, Guichainville, Le Vieil-Evreux.
+
+La Madeleine, Le Long Buisson.
+
+La Chapelle-Saint-Luc, Les Noës-près-Troyes, Troyes, Sainte-Savine.
+
+Chantereigne Montvilliers.
+
+Woippy, Metz.
+
+Saint-Eloi, Pré Génie.
+
+Alençon.
+
+Courteille Perseigne.
+
+Vitry-sur-Seine.
+
+Grand ensemble Ouest-Est.
+
+Strasbourg.
+
+Hautepierre.
+
+La Rochelle.
+
+Mireuil, Laleu, La Pallice, La Rossignolette.
+
+Nancy, Vandoeuvre-lès-Nancy, Laxou, Maxéville.
+
+Haut du Lièvre, Nations.
+
+Rillieux-la-Pape.
+
+Ville nouvelle.
+
+Argenteuil.
+
+Val d'Argent.
+
+Grenoble.
+
+Village Olympique, La Villeneuve.
+
+Corbeil, Evry.
+
+Les Tarterêts, Les Pyramides.
+
+Epinay-sur-Seine.
+
+Orgemont.
+
+Clermont-Ferrand.
+
+Croix de Neyrat, Quartiers Nord.
+
+Sartrouville.
+
+Le Plateau, Cité des Indes.
+
+Melun.
+
+Quartier Nord.
+
+Nantes, Saint-Herblain.
+
+Bellevue.
+
+Le Blanc-Mesnil, Dugny.
+
+Quartiers Nord.
+
+Trappes.
+
+Les Merisiers.
+
+Angers.
+
+Belle-Beille.
+
+Saint-Nazaire.
+
+Quartier Ouest : Avalix, La Boulletterie, Tréballe, La Chesnaie.
+
+Beauvais.
+
+Argentine.
+
+Epinay-sous-Sénart.
+
+Cinéastes-Plaine.
+
+Hénin-Beaumont, Montigny-en-Gohelle, Courrières, Rouvroy, Drocourt, Dourges.
+
+ZAC des 2 villes, Quartier du Rotois, Quartier Sud-Ouest (Jean Macé), Cité de Nouméa.
 
 II. - SECTEURS D'ACTIVITÉS VISÉS AUX ARTICLES 4 ET 12
 
