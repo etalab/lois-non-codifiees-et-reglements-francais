@@ -1,0 +1,3 @@
+# Article 4
+
+Dans le cas où la commission pédagogique conclut à l'inaptitude pédagogique du stagiaire, le candidat est soumis, à l'initiative du directeur général de l'Office national des anciens combattants et victimes de guerre, à une nouvelle inspection suivie d'un entretien devant un jury composé de l'inspecteur principal de l'enseignement technique en fonctions, à l'Office national des anciens combattants et victimes de guerre assisté d'un directeur et d'un professeur d'école de rééducation professionnelle. Cette inspection porte sur deux leçons. Elle donne lieu à l'établissement d'un rapport à partir duquel la commission pédagogique procède à un nouvel examen du dossier du candidat.
