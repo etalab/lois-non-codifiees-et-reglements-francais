@@ -21,11 +21,16 @@ BARÈME DE MARGE DU PHARMACIEN
 </td>
 </tr>
 <tr>
+<td align="left"> 22,91 € et 150 €<br/>
+</td>
+<td align="center"> 0,10</td>
+</tr>
+<tr>
 <td valign="top" width="405">
-<p>Au-delà de 22,90 € </p>
+<p>Au-delà de 150 € </p>
 </td>
 <td valign="top" width="237">
-<p align="center">0,10</p>
+<p align="center">0,06</p>
 </td>
 </tr>
 <tr>
@@ -33,6 +38,7 @@ BARÈME DE MARGE DU PHARMACIEN
 <p>Forfait HT : 0,53 €</p>
 </td>
 <td valign="top" width="237">
+<br/>
 <br/>
 </td>
 </tr>
