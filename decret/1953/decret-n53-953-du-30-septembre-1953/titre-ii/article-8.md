@@ -1,13 +1,11 @@
 # Article 8
 
-En vue du décompte des cotisations et contributions aux caisses de l'établissement national des invalides de la marine, les armateurs, capitaines ou patrons remettent à l'administration des affaires maritimes, dans les quinze jours du désarmement des navires [*délai*], une déclaration nominative des salaires forfaitaires afférents aux marins embarqués qui est présentée dans la forme arrêtée par le ministre chargé de la marine marchande.
+I - En vue du décompte des cotisations et contributions aux caisses de l'Etablissement national des invalides de la marine, les employeurs remettent à l'administration des affaires maritimes une déclaration nominative trimestrielle des salaires forfaitaires afférents aux marins qu'ils emploient, présentée dans la forme arrêtée par le ministre chargé de la marine marchande et déposée au plus tard le 25 du mois suivant le trimestre considéré.
 
-Les armements dont les équipages sont gérés selon des procédés informatisés peuvent être autorisés par le directeur de l'établissement national des invalides de la marine à ne déposer qu'une déclaration pour les salaires forfaitaires afférents à l'ensemble des marins employés par année civile ; ce dépôt intervient au plus tard le 15 mars de l'année suivante [*date limite*].
+Les employeurs dont la gestion répond à des caractéristiques définies par arrêté du ministre chargé de la marine marchande déposent mensuellement une déclaration nominative informatisée indiquant les services donnant lieu à cotisations et contributions pour l'ensemble des marins qu'ils emploient, l'assiette de ces cotisations et contributions, le calcul et le montant des sommes dues à ce titre. Le dépôt de cette déclaration intervient au plus tard le 25 du mois qui suit celui au cours duquel lesdits services ont été accomplis.
 
-Sont dispensés de la production d'une déclaration de salaires les armateurs, capitaines ou patrons de navires armés pour la petite pêche, la pêche côtière, la pêche au large et la navigation côtière.
+Les armateurs, capitaines et patrons des navires armés à la petite pêche, à la pêche côtière, à la pêche au large et à la navigation côtière sont dispensés de la production d'une déclaration de salaires, dans les conditions fixées par arrêté du ministre chargé de la marine marchande.
 
-Les cotisations et contributions sont exigibles dans le délai de quinze jours suivant l'avertissement adressé par l'administration des affaires maritimes ; les sommes non versées à l'expiration du délai d'exigibilité sont majorées d'intérêts moratoires au taux de 0,5 p. 1000 par jour de retard.
+II. - Le défaut de production, dans les délais prescrits, des déclarations mentionnées au I du présent article, entraîne une pénalité de 50 F par marin figurant sur la dernière déclaration remise par l'employeur, ou, à défaut d'une telle déclaration, pour chaque marin dont le contrôle a révélé l'emploi dans l'entreprise. Le total des pénalités ne peut excéder 3 000 F par déclaration.
 
-Les mêmes pénalités sont appliquées, sur la base des cotisations et contributions auxquelles elles servent d'assiette, en cas de retard dans la production des déclarations de salaires.
-
-Le recouvrement des cotisations et contributions est poursuivi suivant la procédure applicable aux recettes des établissements publics administratifs.
+Si le retard dépasse un mois, une pénalité identique est automatiquement appliquée pour chaque mois ou fraction de mois de retard.
