@@ -2,7 +2,7 @@
 
 Le présent arrêté fixe les prescriptions applicables aux prélèvements et à la consommation d'eau ainsi qu'aux émissions de toute nature des installations classées pour la protection de l'environnement soumises à autorisation, à l'exclusion :
 
-- des installations de combustion visées par l'arrêté du 20 juin 1975 et par l'arrêté du 27 juin 1990 et n'appartenant pas à une raffinerie de produits pétroliers et des turbines et moteurs ;
+- des installations de combustion visées par la rubrique 2910 de la Nomenclature des installations classées pour la protection de l'environnement et n'appartenant pas à une raffinerie de produits pétroliers et des turbines et moteurs ;
 
 - des carrières et des installations de premier traitement des matériaux de carrières ;
 
