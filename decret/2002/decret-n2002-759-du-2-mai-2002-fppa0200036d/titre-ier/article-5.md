@@ -1,0 +1,5 @@
+# Article 5
+
+Une commission d'équivalence, compétente pour la fonction publique de l'Etat, est instituée auprès du ministre chargé de la fonction publique. Elle est saisie pour avis par l'autorité administrative d'accueil avant toute décision. Elle vérifie l'adéquation entre les emplois précédemment occupés par le fonctionnaire et le corps susceptible de l'accueillir. Elle propose le classement dans l'emploi de détachement au niveau approprié. A cet effet, elle tient compte du niveau de qualification et de diplôme de l'intéressé, de la nature des fonctions préalablement exercées et de la durée des services accomplis dans la ou les fonctions publiques d'origine.
+
+Un arrêté du ministre chargé de la fonction publique fixe les règles de saisine, de fonctionnement et de composition de la commission, qui comprend un représentant du ministre chargé de la fonction publique, un représentant du ministre chargé des affaires étrangères et un représentant du ministre chargé du budget. Les autres membres appelés à siéger au sein de la commission sont nommés par l'autorité compétente de l'administration d'accueil du fonctionnaire candidat au détachement.

@@ -1,0 +1,3 @@
+# MODÈLE DE DÉCLARATION PRÉALABLE DE PRODUITS DU TABLEAU 1.
+
+- [Article ANNEXE I](article-annexe-i.md)

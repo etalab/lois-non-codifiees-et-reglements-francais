@@ -1,0 +1,3 @@
+# Article 2
+
+Lorsqu'une fédération a constitué en son sein une ligue professionnelle en application des dispositions du II de l'article 17 de la loi du 6 juillet 1984 susvisée, elle doit, pour pouvoir bénéficier d'une délégation, annexer à ses statuts un règlement particulier qui détermine les compétences et la composition de la ligue ainsi que les règles et les modalités de désignation de ses membres. Le règlement particulier doit permettre que la majorité des membres de la ligue soit élue directement par les associations mentionnées à l'article 7 de la loi du 16 juillet 1984 susvisée et par les sportifs professionnels.

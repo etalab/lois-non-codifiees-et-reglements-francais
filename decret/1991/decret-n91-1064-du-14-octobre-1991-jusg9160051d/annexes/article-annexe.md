@@ -12,7 +12,11 @@ Assistante coordinatrice chargée de l'encadrement des assistants sociaux du per
 
 Assistant de gestion.
 
+Hôtesse d'accueil.
+
 Agent de sécurité.
+
+Coordinateur de service social chargé de l'organisation de l'accueil au ministère ;
 
 Secrétaire du comité médical ministériel ;
 
@@ -29,6 +33,8 @@ Assistant de service social du personnel assurant des fonctions de coordination 
 Agent chargé de l'organisation des instances de concertation et du suivi des relations sociales ;
 
 Agent responsable des commissions administratives paritaires et du suivi des décisions.
+
+marchés informatiques.
 
 Agent chargé du secrétariat de la Commission nationale d'inscription et Chambre nationale de discipline des commissaires aux comptes ;
 
@@ -84,6 +90,136 @@ Adjoint au directeur des services pénitentiaires d'insertion et de probation ;
 
 Référent technique à l'administration centrale.
 
+Directeur des services pénitentiaires, chef de la maison centrale d'Arles ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Clairvaux ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Lannemezan ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Moulins-Yzeure ;
+
+Directeur des services pénitentiaires, chef du centre de détention national de Muret ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Nantes ;
+
+Directeur des services pénitentiaires, chef de la maison centrale de Saint-Maur ;
+
+Directeur des services pénitentiaires, adjoint à la direction régionale de Lille ;
+
+Directeur des services pénitentiaires, adjoint à la direction régionale de Marseille ;
+
+Directeur des services pénitentiaires, adjoint à la direction régionale de Paris ;
+
+Directeur des services pénitentiaires, adjoint au chef de l'inspection à l'administration centrale ;
+
+Directeur des services pénitentiaires, chef du centre de détention national de Val-de-Reuil ;
+
+Directeur des services pénitentiaires, chef de la maison d'arrêt d'Aix-Luynes ;
+
+Directeur des services pénitentiaires, chef du centre de détention régional d'Argentan ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Baie-Mahault ;
+
+Directeur des services pénitentiaires, chef de détention national de Bapaume ;
+
+Directeur des services pénitentiaires, chef de la maison d'arrêt de Bois-d'Arcy ;
+
+Directeur des services pénitentiaires, chef de la maison d'arrêt de Bordeaux ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Caen ;
+
+Directeur des services pénitentiaires, chef du centre de détention régional de Châteaudun ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Draguignan ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Ducos ;
+
+Directeur des services pénitentiaires, chef de la maison centrale d'Ensisheim ;
+
+Directeur des services pénitentiaires, chef de la maison d'arrêt de Grasse ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Joux-la-Ville ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Longuenesse ;
+
+Directeur des services pénitentiaires, chef du centre de détention national de Melun ;
+
+Directeur des services pénitentiaires, chef de la maison d'arrêt de Lyon ;
+
+Directeur des services pénitentiaires, chef de la maison d'arrêt de Metz ;
+
+Directeur des services pénitentiaires, chef de la maison d'arrêt de Nanterre ;
+
+Directeur des services pénitentiaires, chef de la maison d'arrêt de Nice ;
+
+Directeur des services pénitentiaires, chef de la maison d'arrêt d'Osny ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Perpignan ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire du Port ;
+
+Directeur des services pénitentiaires, chef de la maison centrale de Poissy ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Remire-Montjoly ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Rennes ;
+
+Directeur des services pénitentiaires, chef de la maison centrale de Riom ;
+
+Directeur des services pénitentiaires, chef de la maison d'arrêt de Rouen ;
+
+Directeur des services pénitentiaires, chef du centre de détention régional de Salon-de-Provence ;
+
+Directeur des services pénitentiaires, chef de la maison centrale de Saint-Martin-de-Ré ;
+
+Directeur des services pénitentiaires, chef de la maison d'arrêt de Strasbourg ;
+
+Directeur des services pénitentiaires, chef du centre de détention régional de Tarascon ;
+
+Directeur des services pénitentiaires, chef du centre de détention régional d'Uzerche ;
+
+Directeur des services pénitentiaires, chef de la maison d'arrêt de Villefranche ;
+
+Directeur des services pénitentiaires, chef de la maison d'arrêt de Villeneuve-lès-Maguelone ;
+
+Directeur des services pénitentiaires, chef de la maison d'arrêt de Villepinte ;
+
+Directeur des services pénitentiaires, adjoint à la maison d'arrêt de Fleury-Mérogis ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire d'Aiton ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Châteauroux ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Laon ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Maubeuge ;
+
+Directeur des services pénitentiaires, chef du centre de détention régional de Neuvic ;
+
+Directeur des services pénitentiaires, chef du centre de détention régional de Saint-Mihiel ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Saint-Quentin-Fallavier ;
+
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Varennes-le-Grand ;
+
+Directeur des services pénitentiaires, chef du centre de détention régional de Villenauxe-la-Grande ;
+
+Directeur des services pénitentiaires, adjoint à la direction régionale de Bordeaux ;
+
+Directeur des services pénitentiaires, adjoint à la direction régionale de Dijon ;
+
+Directeur des services pénitentiaires, adjoint à la direction régionale de Lyon ;
+
+Directeur des services pénitentiaires, adjoint à la direction régionale de Rennes ;
+
+Directeur des services pénitentiaires, adjoint à la direction régionale de Strasbourg ;
+
+Directeur des services pénitentiaires, adjoint à la direction régionale de Toulouse ;
+
+Directeur des services pénitentiaires, adjoint à la mission des services pénitentiaires d'outre-mer ;
+
+Directeur des services pénitentiaires, chef de cabinet à l'administration centrale.
+
 SERVICES JUDICIAIRES
 
 FONCTION EXERCEE POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE (1)
@@ -109,8 +245,6 @@ Sous-directeur de la formation initiale et de la recherche à l'Ecole nationale 
 Sous-directeur de la formation permanente à l'Ecole nationale des greffes.
 
 Secrétaire général adjoint à l'Ecole nationale des greffes.
-
-Régisseur d'avances et de recettes dont le montant de l'avance est supérieur à 400 000 F.
 
 Régisseur d'avances et de recettes dont le montant de la régie est supérieur à 400 000 F.
 
@@ -197,8 +331,6 @@ Directeur d'établissement ou service :
 - de plus de 35 agents.
 
 Agent technique d'éducation, veilleur de nuit dans un établissement non pourvu d'un logement de fonction occupé par un directeur ou un éducateur ;
-
-A COMPTER DU 1ER JANVIER 2001 :
 
 Agent autre que directeur chargé des fonctions de directeur départemental ;
 

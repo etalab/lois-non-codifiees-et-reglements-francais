@@ -7,6 +7,7 @@
 - [Section III : Formation.](section-iii)
 - [Section IV : Avancement.](section-iv)
 - [Section IV bis : Avancement.](section-iv-bis)
+- [Section IV ter : Mutation.](section-iv-ter)
 - [Section V : Dispositions diverses.](section-v)
 - [Section VI : Dispositions transitoires.](section-vi)
 - [Article 31](article-31.md)

@@ -1,0 +1,3 @@
+# Article 2-1
+
+Sont également réputés avoir satisfait à l'obligation de formation initiale minimale prévue à l'article 1er les titulaires de l'un des diplômes, titres ou attestations mentionnés à l'article 3 du décret n° 2002-747 du 2 mai 2002, ou d'une attestation de formation initiale minimale obligatoire pour les conducteurs routiers interurbains de voyageurs. Toutefois, dans ce cas, les conducteurs concernés doivent satisfaire à l'obligation de formation continue de sécurité prévue à l'article 3 dans le délai maximum d'un an suivant la date de début de leur activité dans une entreprise de transport routier public de marchandises.

@@ -126,11 +126,7 @@ Affinage de huit semaines à compter de la date de fabrication.
 
 Chevrotin :
 
-Lait de chèvre. Pâte légèrement pressée, obtenue par coagulation essentiellement présure ; croûte de couleur jaune orangé à gris avec moisissures superficielles. Forme cylindrique, 250 grammes au moins :
-
-45, 45 %.
-
-Affinage de huit semaines à compter de la date de fabrication.
+*abrogé*
 
 Crottin :
 
