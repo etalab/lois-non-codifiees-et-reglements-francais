@@ -9,3 +9,5 @@ Paragraphe 3 - Les compléments de pensions et pensions d'invalidité attribués
 Ils peuvent être revisés, suspendus ou supprimés dans les conditions prévues par la législation générale des assurances sociales.
 
 Paragraphe 4 - Les agents qui bénéficient d'une pension d'invalidité en application du présent article ne peuvent prétendre au remboursement de leurs versements prévu à l'article 15 (paragraphe 1er) de la loi du 22 juillet 1922.
+
+Paragraphe 5 - Lorsque la date d'entrée en jouissance d'une pension accordée pour cause d'invalidité au titre de la loi du 22 juillet 1922 modifiée est antérieure à la date de l'expiration des droits de l'intéressé aux indemnités journalières de l'assurance maladie, le montant des indemnités journalières est imputé sur celui des arrérages de la pension.
