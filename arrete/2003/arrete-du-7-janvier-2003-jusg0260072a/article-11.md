@@ -1,7 +1,13 @@
 # Article 11
 
-Le bureau de l'entraide civile et commerciale internationale :
+Le bureau du droit de l'économie des entreprises :
 
-- est responsable, en liaison avec le service des affaires européennes et internationales, de l'élaboration des textes nécessaires à la mise en oeuvre, au plan interne, des conventions internationales et instruments communautaires portant sur l'entraide judiciaire civile et commerciale ;
+- élabore les textes législatifs et réglementaire en matière de droit des entreprises en difficulté ;
 
-- assure la mise en oeuvre de l'entraide internationale en matière civile et commerciale, notamment l'application des conventions internationales et instruments communautaires relatifs au droit familial, à l'obtention de preuves, au recouvrement des aliments, à la transmission des actes judiciaires et extrajudiciaires et à l'accès au droit.
+- élabore les textes législatifs et réglementaires relatifs au statut et au tarif des professionnels qui relèvent des dispositions du titre Ier du livre VIII du code de commerce ; est chargé de la coordination de leur inspection ; participe à l'administration et au suivi des procédures disciplinaires les concernant ; assure le secrétariat des commissions les intéressant ; instruit les plaintes déposées par les particuliers contre ces professionnels ;
+
+- concourt, en liaison avec les ministères et services compétents, à l'élaboration des textes relatifs au droit bancaire et au crédit interentreprises ;
+
+- participe, en liaison avec les différents départements ministériels concernés, au suivi des procédures concernant les opérations de restructuration industrielle ;
+
+- élabore les instructions générales adressées aux procureurs généraux relatives aux procédures intéressant les entreprises en difficulté et à la surveillance des administrateurs judiciaires et des mandataires judiciaires à la liquidation des entreprises.

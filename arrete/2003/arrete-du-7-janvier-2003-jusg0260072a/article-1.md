@@ -1,6 +1,6 @@
 # Article 1
 
-Outre le secrétariat de la direction et la cellule études et recherches, la direction des affaires civiles et du sceau comprend le bureau du droit public, la mission d'aide à la médiation internationale pour les familles et trois sous-directions :
+Outre le secrétariat de la direction et la cellule études et recherches, la direction des affaires civiles et du sceau comprend le bureau du droit public et trois sous-directions :
 
 1. La sous-direction du droit civil composée de quatre bureaux :
 
@@ -12,15 +12,17 @@ Outre le secrétariat de la direction et la cellule études et recherches, la di
 
 - le bureau de la nationalité (C4).
 
-2. La sous-direction du droit économique composée de quatre bureaux :
+2. La sous-direction du droit économique composée de quatre bureaux et d'une mission :
 
-- le bureau du droit commercial (D1) ;
+- le bureau du droit commercial (D 1) ;
 
-- le bureau du droit immobilier et du droit de l'environnement (D2) ;
+- le bureau du droit immobilier et du droit de l'environnement (D 2) ;
 
-- le bureau de l'entraide civile et commerciale internationale (D3) ;
+- le bureau de l'entraide civile et commerciale internationale (D 3) ;
 
-- le bureau du droit de l'économie des entreprises (D4).
+- le bureau du droit de l'économie des entreprises (D 4) ;
+
+- la mission d'aide à la médiation internationale pour les familles.
 
 3. La sous-direction des professions judiciaires et juridiques composée de trois bureaux :
 

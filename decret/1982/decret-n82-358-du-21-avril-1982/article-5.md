@@ -1,9 +1,3 @@
 # Article 5
 
-Par dérogation aux articles 1er et 4, la médaille de la Défense nationale peut aussi être décernée une seule fois à titre exceptionnel, à l'un quelconque des trois échelons :
-
-- aux personnels d'active pour la qualité particulière des services rendus postérieurement au 1er septembre 1981 ;
-
-- aux personnels de la réserve opérationnelle et citoyenne pour la qualité particulière des services rendus postérieurement au 1er juillet 1998 ;
-
-- aux personnels d'active, de la réserve opérationnelle et citoyenne, tués ou blessés dans l'accomplissement de leur devoir dans un délai d'un mois à compter de la date des faits.
+La médaille d'or de la défense nationale peut être attribuée directement, sans condition d'ancienneté et de points, aux personnels militaires d'active et de la réserve qui se sont distingués à l'occasion d'une action comportant un risque aggravé et se sont vus récompensés par une citation individuelle sans croix, délivrée par le ministre de la défense ou, par délégation, par le chef d'état-major des armées, les chefs d'état-major d'armée ou les directeurs généraux.

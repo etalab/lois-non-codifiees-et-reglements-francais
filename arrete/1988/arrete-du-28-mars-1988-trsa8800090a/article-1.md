@@ -228,8 +228,6 @@ Strasbourg-Neuhof Bas-Rhin.
 
 Thionville-Yutz Moselle.
 
-Toul-Rosières Meurthe-et-Moselle.
-
 Toulouse-Francazal Haute-Garonne.
 
 Toulouse-Lasbordes Haute-Garonne.

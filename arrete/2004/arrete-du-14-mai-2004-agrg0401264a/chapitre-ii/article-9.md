@@ -1,0 +1,3 @@
+# Article 9
+
+Dès que l'interdiction de vaccination a débuté dans la zone où elles se situent, les exploitations à haut risque sanitaire doivent faire l'objet, outre la vaccination de tous les porcs détenus, d'une double vaccination des porcs introduits dans l'exploitation (à l'introduction et trois semaines plus tard). Ces vaccinations sont réalisées par le vétérinaire sanitaire sur tous les porcs et ce jusqu'à ce que l'interdiction de vaccination soit décidée dans ces mêmes exploitations. En outre, un contrôle sérologique sur chaque bande dont les modalités sont définies par instruction du ministre chargé de l'agriculture doit être réalisé. Des visites de ces exploitations peuvent être diligentées par le directeur départemental des services vétérinaires.
