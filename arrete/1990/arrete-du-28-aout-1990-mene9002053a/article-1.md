@@ -10,7 +10,7 @@ Délégation permanente de pouvoirs est donnée aux inspecteurs d'académie, dir
 
 4. A la notation ;
 
-5. A l'avancement ;
+5. A l'avancement d'échelon;
 
 6. A l'octroi et au renouvellement des congés prévus par l'article 34 de la loi du 11 janvier 1984 susvisée:
 
@@ -62,6 +62,8 @@ Délégation permanente de pouvoirs est donnée aux inspecteurs d'académie, dir
 
 22. A l'affectation ;
 
-23. A l'établissement des tableaux d'avancement ;
+23. A l'établissement des tableaux d'avancement et à l'avancement de grade ;
 
-24. A l'ouverture des droits à remboursement des frais occasionnés par les déplacements.
+24. A l'ouverture des droits à remboursement des frais occasionnés par les déplacements ;
+
+25. A la mise en position de détachement dans un emploi conduisant à pension du code des pensions civiles et militaires de retraite et relevant du ministre chargé de l'éducation.
