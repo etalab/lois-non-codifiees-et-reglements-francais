@@ -4,18 +4,6 @@ Le nombre des représentants de l'Etat au conseil d'administration ou de surveil
 
 NOM DE LA SOCIETE
 
-Banque Hervet
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-3
-
-REPARTITION PAR MINISTERE
-
-Economie (x 3)
-
-NOM DE LA SOCIETE
-
 C.D.C.-Participations
 
 NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
@@ -144,17 +132,19 @@ Transports.
 
 NOM DE LA SOCIETE
 
-Société financière de gestion de fonds de garantie des D.O.M. (Sofodom)
+Société des autoroutes du sud de la France
 
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
+NOMBRE de représentants de l'Etat au conseil d'administration :
 
-2
+A l'issue de l'assemblée de la Société des autoroutes du sud de la France du 13 mars 2002, le nombre de représentants de l'Etat au conseil d'administration est fixé à quatre, ce nombre étant porté à cinq lorsque le nombre d'administrateurs en fonctions atteint quatorze.
 
-REPARTITION PAR MINISTERE
+REPARTITION PAR MINISTERE :
 
-Economie.
+- Deux représentants du ministre chargé de l'équipement ;
 
-Outre-mer.
+- Deux représentants du ministre chargé de l'économie ;
+
+- Lorsque le nombre de représentants de l'Etat est porté à cinq, un représentant du ministre chargé des collectivités locales.
 
 NOM DE LA SOCIETE
 
@@ -254,20 +244,6 @@ Petites et moyennes entreprises.
 
 NOM DE LA SOCIETE
 
-Thomson Multimédia
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-5
-
-REPARTITION PAR MINISTERE
-
-Economie (x 3).
-
-Industrie (x 2).
-
-NOM DE LA SOCIETE
-
 SNCF Participations
 
 NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
@@ -301,3 +277,19 @@ NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillanc
 REPARTITION PAR MINISTERE
 
 Economie.
+
+NOM DE LA SOCIETE
+
+Société des participations du CEA
+
+NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
+
+4
+
+REPARTITION PAR MINISTERE
+
+Industrie (X 2)
+
+Economie.
+
+Affaires étrangères.
