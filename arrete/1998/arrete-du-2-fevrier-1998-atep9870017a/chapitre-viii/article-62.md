@@ -1,11 +1,27 @@
 # Article 62
 
-Un bilan des émissions des gaz à effet de serre émis par l'installation classée autorisée et non visés par l'article 59 du présent arrêté est établi annuellement et transmis au préfet dès lors que les émissions annuelles dépassent les valeurs suivantes :
+Dès lors que les émissions d'un gaz à effet de serre dépassent la valeur annuelle mentionnée dans le tableau ci-dessous, l'exploitant établit annuellement un rapport relatif aux émissions du gaz concerné.
 
-CO2 : 10 000 tonnes ;
+GAZ
 
-CH4 : 100 tonnes ;
+VALEUR D'ÉMISSION
 
-N2O : 20 tonnes ;
+CO2 : 10 000 tonnes
 
-CFC et HCFC : 0,5 tonne.
+CH4 : 100 tonnes
+
+N2O : 20 tonnes
+
+HFC : 0,5 tonne
+
+PFC : 0,5 tonne
+
+SF6 : 0,5 tonne
+
+NF3 : 0,5 tonne
+
+CFC : 0,5 tonne
+
+HCFC : 0,5 tonne
+
+Ce rapport comprend des informations relatives à la manière dont les émissions sont évaluées. Il est transmis au préfet au plus tard le 30 avril de l'année suivante.

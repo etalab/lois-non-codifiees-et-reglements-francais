@@ -1,0 +1,3 @@
+# Article 1
+
+Le déclarant d'une opération, non mentionnée à l'article 2 du décret du 2 février 1996 susvisé, relevant de la rubrique 3.2.0 (1°, b et 2°, b) relative aux rejets en milieu marin ou estuarien jusqu'au front de salinité, de la nomenclature annexée au décret n° 93-743 du 29 mars 1993 susvisé est tenu de respecter les prescriptions du présent arrêté, sans préjudice de l'application d'autres législations, notamment celle relative à l'occupation du domaine public et des prescriptions fixées au titre d'autres rubriques de la nomenclature précitée. Il ne concerne pas les opérations effectuées dans les eaux douces à l'amont du front de salinité, tel que défini dans l'annexe au décret n° 93-743 du 29 mars 1993 susvisée.
