@@ -90,6 +90,7 @@
 - [Arrêté du 20 mai 1985](arrete-du-20-mai-1985)
 - [Arrêté du 21 décembre 1984](arrete-du-21-decembre-1984)
 - [Arrêté du 21 janvier 1985](arrete-du-21-janvier-1985)
+- [Arrêté du 21 juin 1985](arrete-du-21-juin-1985)
 - [Arrêté du 21 mars 1985](arrete-du-21-mars-1985)
 - [Arrêté du 22 avril 1985](arrete-du-22-avril-1985)
 - [Arrêté du 22 février 1985](arrete-du-22-fevrier-1985)

@@ -1,11 +1,4 @@
-# Arrêté du 20 juin 1985 relatif au tarif des courtages des agents de change
+# Arrêté du 20 juin 1985 excluant de toute rémunération le mandat de président des conseils d'administration des sociétés France Régions 3 Publicité Aquitaine, France Régions 3 Publicité Lorraine-Champagne-Ardenne, France Régions 3 Publicité Alsace, France Régions 3 Rhône-Alpes-Auvergne, France Régions 3 Publicité Midi-Pyrénées-Languedoc-Roussillon, France Régions 3 Publicité Bretagne-Pays de la Loire, France Régions 3 Publicité Paris-Ile-de-France-Centre et France Régions 3 Publicité Provence-Côte-d'Azur-Corse
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)
-- [Article 7](article-7.md)
-- [Article 8](article-8.md)
-- [Article 9](article-9.md)

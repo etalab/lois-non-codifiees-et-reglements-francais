@@ -1,3 +1,3 @@
 # Article 2
 
-Les taux fixés au paragraphe IV du barème des courtages annexé à l'arrêté du 3 mars 1983 susvisé s'appliquent jusqu'à concurrence d'un montant maximum de négociation brute de soixante millions de francs.
+Le directeur du Trésor et du chef du service juridique et technique de l'information sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

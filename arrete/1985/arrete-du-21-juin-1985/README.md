@@ -1,0 +1,9 @@
+# Arrêté du 21 juin 1985 instituant une commission interministérielle chargée de donner un avis sur la reconnaissance d'équivalence entre les diplômes d'enseignement le de la conduite délivrés par les États étrangers et le certificat d'aptitude professionnelle à l'enseignement de la conduite.
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)

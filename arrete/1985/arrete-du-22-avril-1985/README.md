@@ -1,4 +1,4 @@
-# Arrêté du 22 avril 1985 fixant le modèle de relevé des prestations en espèces imposables versées à un assuré
+# Arrêté du 22 avril 1985 créant une commission chargée de la modernisation du code du travail et relatif à sa composition
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
