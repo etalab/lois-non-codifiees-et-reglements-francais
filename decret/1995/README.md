@@ -215,7 +215,6 @@
 - [Décret n°95-142 du 6 février 1995 (MAEJ9530003D)](decret-n95-142-du-6-fevrier-1995-maej9530003d)
 - [Décret n°95-144 du 6 février 1995 (MAEJ9530005D)](decret-n95-144-du-6-fevrier-1995-maej9530005d)
 - [Décret n°95-149 du 6 février 1995 (INTL9500028D)](decret-n95-149-du-6-fevrier-1995-intl9500028d)
-- [Décret n°95-17 du 6 janvier 1995 (DEFD9401920D)](decret-n95-17-du-6-janvier-1995-defd9401920d)
 - [Décret n°95-243 du 6 mars 1995 (INDG9500223D)](decret-n95-243-du-6-mars-1995-indg9500223d)
 - [Décret n°95-248 du 6 mars 1995 (SPSH9500244D)](decret-n95-248-du-6-mars-1995-spsh9500244d)
 - [Décret n°95-249 du 6 mars 1995 (SPSH9500245D)](decret-n95-249-du-6-mars-1995-spsh9500245d)
