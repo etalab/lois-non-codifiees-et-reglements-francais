@@ -4,6 +4,8 @@ Le Conseil d'analyse économique est composé de personnalités choisies en rais
 
 Sont en outre membres de droit :
 
+- le président délégué du Conseil d'analyse de la société ;
+
 - le commissaire au Plan ;
 
 - le directeur général de l'Institut national de la statistique et des études économiques ;
