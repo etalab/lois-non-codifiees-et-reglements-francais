@@ -1,6 +1,6 @@
 # Article 3
 
-La durée d'affectation d'un stagiaire à un programme d'insertion locale est comprise entre quatre-vingts et cent vingt heures par mois, pendant une période de six mois renouvelable une fois.
+La durée d'affectation d'un stagiaire à un programme d'insertion locale est comprise entre cinquante et cent vingt heures par mois, pendant une période d'au moins trois mois renouvelable. Cette durée ne peut au total excéder un an.
 
 L'horaire hebdomadaire du stage doit être compatible avec la recherche par le stagiaire d'une activité de salarié ou d'une action complémentaire de formation.
 
