@@ -153,7 +153,6 @@
 - [Décret n°79-1164 du 29 décembre 1979](decret-n79-1164-du-29-decembre-1979)
 - [Décret n°79-254 du 29 mars 1979](decret-n79-254-du-29-mars-1979)
 - [Décret n°79-257 du 29 mars 1979](decret-n79-257-du-29-mars-1979)
-- [Décret n°79-518 du 29 juin 1979](decret-n79-518-du-29-juin-1979)
 - [Décret n°79-748 du 29 août 1979](decret-n79-748-du-29-aout-1979)
 - [Décret n°79-751 du 29 août 1979](decret-n79-751-du-29-aout-1979)
 - [Décret n°82-837 du 29 septembre 1982](decret-n82-837-du-29-septembre-1982)
