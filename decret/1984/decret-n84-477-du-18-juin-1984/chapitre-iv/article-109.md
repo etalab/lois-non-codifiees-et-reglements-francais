@@ -14,9 +14,9 @@ Les dépenses administratives nécessitées par les opérations électorales et 
 
 6° Les frais de convocation et de notification par les secrétariats-greffes des juridictions ;
 
-7° Les frais exposés par les communes pour les élections ;
+7° Les frais exposés par les mairies et les préfectures pour les élections ;
 
-8° Les frais d'affranchissement en compte avec La Poste ;
+8° Les frais d'affranchissement entrant dans le cadre de la convention passée avec La Poste ;
 
 9° Les frais de fonctionnement de la commission de recensement des votes ;
 
