@@ -132,6 +132,7 @@
 - [Arrêté du 17 janvier 2002 (INTC0100808A)](arrete-du-17-janvier-2002-intc0100808a)
 - [Arrêté du 18 décembre 2001 (AGRG0102675A)](arrete-du-18-decembre-2001-agrg0102675a)
 - [Arrêté du 18 décembre 2001 (MESO0111769A)](arrete-du-18-decembre-2001-meso0111769a)
+- [Arrêté du 18 janvier 2002 (MESP0220296A)](arrete-du-18-janvier-2002-mesp0220296a)
 - [Arrêté du 18 octobre 2001 (INTE0100621A)](arrete-du-18-octobre-2001-inte0100621a)
 - [Arrêté du 19 avril 2002 (JUSA0200081A)](arrete-du-19-avril-2002-jusa0200081a)
 - [Arrêté du 19 avril 2002 (PRMX0205469A)](arrete-du-19-avril-2002-prmx0205469a)

@@ -54,6 +54,16 @@ Services collectifs, sociaux et personnels.
 
 Les limites de cinquante et trente salariés sont appréciées sur une base annuelle dans des conditions fixées par décret.
 
+IV. bis - Pour les entreprises implantées en Corse avant le 1er janvier 1999, et à l'issue de la période de cinq ans mentionnée aux III et IV, le bénéfice de la majoration prévue au I est maintenu de manière dégressive pendant les trois années suivantes :
+
+- durant l'année 2002, la majoration de 100 % mentionnée au I est ramenée à 85 % et le plafond de 1 500 F est ramené à 1 450 F ;
+
+- durant l'année 2003, la majoration de 100 % mentionnée au I est ramenée à 70 % et le plafond de 1 500 F est ramené à 1 390 F ;
+
+- durant l'année 2004, la majoration de 100 % mentionnée au I est ramenée à 50 % et le plafond de 1 500 F est ramené à 1 340 F.
+
+Les coefficients correspondants sont fixés par décret.
+
 V. - Les dispositions du I sont également applicables aux gains et rémunérations versés pendant une durée de trente-six mois à compter de leur agrément par les entreprises agréées au titre du VI de l'article 44 decies du code général des impôts.
 
 VI. - Le bénéfice des dispositions du présent article est subordonné à la condition que l'employeur soit à jour de ses obligations au 1er janvier 1997 ou à la date de l'implantation du premier établissement si elle est postérieure, à l'égard de l'organisme de recouvrement des cotisations de sécurité sociale ou ait souscrit avec cet organisme un engagement d'apurement progressif de ses dettes.

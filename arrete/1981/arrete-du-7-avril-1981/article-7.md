@@ -1,5 +1,3 @@
 # Article 7
 
-Une vidange complète des bassins est assurée au moins deux fois par an [*périodicité*]. Toutefois, le préfet, sur proposition du directeur départemental des affaires sanitaires et sociales, peut exiger la vidange d'un bassin lorsque son état de propreté n'est pas satisfaisant, lorsque l'eau n'est pas conforme aux normes de qualité, après désinsectisation ou en présence de toute anomalie entraînant un danger pour la santé des usagers.
-
-L'exploitant avertit par écrit la direction départementale des affaires sanitaires et sociales au moins quarante-huit heures avant d'effectuer les vidanges périodiques [*obligation*].
+Lorsqu'ils sont légalement utilisés dans un Etat membre de l'Union européenne ou dans un Etat membre faisant partie contractante de l'accord instituant l'Espace économique européen disposant d'un mode de contrôle garantissant un niveau de protection de la santé publique équivalent à celui garanti par la réglementation française, des produits ou des procédés, non inscrits sur les listes établies en application du présent arrêté par le ministre chargé de la santé, peuvent également être utilisés après avoir été déclarés selon la procédure définie à l'article 8 du présent arrêté. Les critères d'évaluation utilisés par l'Etat membre doivent être comparables à ceux définis à l'article 8 du présent arrêté.
