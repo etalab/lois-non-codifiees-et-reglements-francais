@@ -1,5 +1,5 @@
 # Article 8
 
-Le comité élit tous les trois ans un président et un vice-président [*périodicité des élections*]. Le président est élu soit parmi les représentants des collectivités locales, soit parmi les représentants des usagers et les personnes compétentes. Le vice-président est choisi dans celle des deux catégories ci-dessus à laquelle n'appartient pas le président.
+Le comité élit tous les trois ans un président et un vice-président. Le président est élu soit parmi les représentants des collectivités territoriales soit parmi les représentants des usagers et les personnes compétentes, soit parmi les représentants désignés par l'Etat au titre des milieux socio-professionnels. Le vice-président est choisi dans l'une des deux catégories ci-dessus à laquelle le président n'appartient pas.
 
-Les représentants de l'administration ne prennent pas part à ces votes.
+Les représentants désignés par l'Etat ne prennent pas part à ces votes, à l'exception de ceux désignés au titre des milieux socio-professionnels.
