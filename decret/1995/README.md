@@ -216,6 +216,7 @@
 - [Décret n°95-373 du 7 avril 1995 (PRMX9500008D)](decret-n95-373-du-7-avril-1995-prmx9500008d)
 - [Décret n°95-387 du 7 avril 1995 (INTB9500084D)](decret-n95-387-du-7-avril-1995-intb9500084d)
 - [Décret n°95-389 du 7 avril 1995 (ECOT9440220D)](decret-n95-389-du-7-avril-1995-ecot9440220d)
+- [Décret n°95-761 du 7 juin 1995 (INTA9500160D)](decret-n95-761-du-7-juin-1995-inta9500160d)
 - [Décret n°94-481 du 8 juin 1994 (ECOT9494247D)](decret-n94-481-du-8-juin-1994-ecot9494247d)
 - [Décret n°95-145 du 8 février 1995 (EQUL9400557D)](decret-n95-145-du-8-fevrier-1995-equl9400557d)
 - [Décret n°95-148 du 8 février 1995 (ENVN9530002D)](decret-n95-148-du-8-fevrier-1995-envn9530002d)
