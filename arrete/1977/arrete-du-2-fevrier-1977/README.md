@@ -1,10 +1,8 @@
-# Arrêté relatif à l'organisation de l'Institut national du sport et de l'éducation physique.
+# Arrêté du 2 février 1977 relatif à la déclaration des centres d'abattage de volaille et de lapin et de certains établissements de préparation et de transformation de viande de volaille et de lapin
 
 - [Article 1](article-1.md)
-- [Titre Ier : Le secrétaire général.](titre-ier)
-- [Titre II : La recherche scientifique.](titre-ii)
-- [Titre III : Le département du sport de haut niveau.](titre-iii)
-- [Titre IV : Le département de la formation.](titre-iv)
-- [Titre V : Le département médical.](titre-v)
-- [Article 20](article-20.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
 - [Annexes](annexes)

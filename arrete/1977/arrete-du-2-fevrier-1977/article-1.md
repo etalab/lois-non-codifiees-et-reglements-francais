@@ -1,5 +1,3 @@
 # Article 1
 
-L'Institut national du sport et de l'éducation physique (I.N.S.E.P.) comprend, sous l'autorité du directeur, un secrétariat général et trois départements.
-
-Les chefs de département sont nommés par arrêté du ministre chargé de la jeunesse et des sports sur proposition du directeur de l'institut et après avis du conseil d'administration.
+Sous réserve des dispositions particulières relatives à la déclaration des établissements de préparation de viandes hachées à l'avance et de plats cuisinés à l'avance, toute personne responsable d'un centre d'abattage de volaille ou de lapin ou d'un établissement dans lequel sont préparées, traitées ou transformées des viandes de volaille ou de lapin destinées à la consommation humaine est tenue d'en faire la déclaration au préfet (direction des services vétérinaires) du département dans lequel est situé le centre d'abattage ou l'établissement susvisé.
