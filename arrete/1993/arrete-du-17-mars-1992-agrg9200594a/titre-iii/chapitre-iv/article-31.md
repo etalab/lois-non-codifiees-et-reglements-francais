@@ -126,13 +126,17 @@ iii) Les abats suivants :
 
 - les amygdales et les intestins, y compris le mésentère, des bovins, quel que soit leur âge ;
 
-iv) Le thymus des bovins :
+iv) Le thymus des bovins, à l'exclusion du thymus des bovins :
 
-- nés avant le 1er janvier 2002 ;
+- nés et élevés en France et dont la date de naissance est postérieure au 30 juin 2002 ;
 
-- nés à compter du 1er janvier 2002 et non accompagnés d'un certificat sanitaire portant la mention suivante : "Les animaux faisant l'objet du présent certificat ont été nourris depuis leur naissance exclusivement avec des aliments n'incorporant pas de matières issues de ruminants, exception faite du lait ou des matières issues du lait", signé par un vétérinaire titulaire d'un mandat sanitaire ou, pour les animaux originaires d'un autre Etat membre de l'Union européenne, par un vétérinaire officiel ;
+- nés en France entre le 1er janvier 2002 et le 30 juin 2002, élevés en France et accompagnés d'un certificat sanitaire, signé par un vétérinaire titulaire d'un mandat sanitaire, portant la mention suivante "Les animaux faisant l'objet du présent certificat ont été nourris depuis leur naissance exclusivement avec des aliments n'incorporant pas de matières issues de ruminants, exception faite du lait ou des matières issues du lait" ;
 
-- nés à compter du 1er janvier 2002 et originaires d'un pays tiers, à l'exclusion des pays cités à l'annexe XI du règlement (CE) n° 999/2001 du 22 mai 2001 modifié fixant les règles pour la prévention, le contrôle et l'éradication de certaines encéphalopathies spongiformes transmissibles.
+- originaires des autres pays de l'Union européenne, nés entre le 1er janvier 2002 et le 30 juin 2002 et accompagnés d'un certificat sanitaire, signé par un vétérinaire officiel et portant la mention suivante : "Les animaux faisant l'objet du présent certificat ont été nourris depuis leur naissance exclusivement avec des aliments n'incorporant pas de matières issues de ruminants exception faite du lait ou des matières issues du lait" ;
+
+- originaires des autres pays de l'Union européenne, nés postérieurement au 30 juin 2002 et accompagnés d'un certificat sanitaire, signé par un vétérinaire officiel, portant la mention définie à l'alinéa précédent, éventuellement complétée de la mention suivante, dans le cas d'utilisation pour leur alimentation de graisse sécurisée de ruminants : "et exception faite des graisses de ruminants collectées avant la découpe en demis par fente longitudinale de la colonne vertébrale des carcasses et soumises à un traitement de purification permettant de garantir un taux maximal d'impuretés insolubles total de 0,15 % en poids et à un traitement thermique à 133 °C, pendant 20 minutes sans interruption, à la pression de 3 bars avec une taille maximale des particules inférieure ou égale à 50 mm" ;
+
+- nés, et élevés dans les pays cités à l'annexe XI du règlement modifié (CE) n° 999/2001 du 22 mai 2001 fixant les règles pour la prévention, le contrôle et l'éradication de certaines encéphalopathies spongiformes transmissibles.
 
 q) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux de l'espèce bovine âgés de vingt-quatre mois et plus soumis à un test de dépistage de l'encéphalopathie spongiforme bovine avec résultat non négatif.
 
