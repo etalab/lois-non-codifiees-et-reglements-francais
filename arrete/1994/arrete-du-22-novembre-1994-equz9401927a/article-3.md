@@ -1,8 +1,12 @@
 # Article 3
 
-Pour la première année d'application de la loi susvisée, conformément à l'article 73 du décret susvisé, le montant minimum de la garantie financière est fixé à 4 p. 100 du volume d'affaires et ne pourra en aucun cas être inférieur aux montants ci-après :
+Conformément à l'article 73 du décret susvisé, le montant minimum de la garantie financière est fixé à 4 p. 100 du volume d'affaires et ne pourra en aucun cas être inférieur aux montants ci-après :
 
-1. Pour les gestionnaires d'hébergements classés, conformément aux dispositions réglementaires établies par le ministère chargé du tourisme ou les groupements chargés de les représenter : 15 000 F ;    2. Pour les gestionnaires d'activités de loisirs tels que définis à l'article 65 du décret susvisé : 50 000 F ;
+1. Pour les gestionnaires d'hébergements classés conformément aux dispositions réglementaires établies par le ministère chargé du tourisme : 15 000 F.
+
+Pour les groupements chargés de les représenter, ce montant est multiplié par le nombre d'établissements faisant partie du groupement ;
+
+2. Pour les gestionnaires d'activités de loisirs tels que définis à l'article 65 du décret susvisé : 50 000 F ;
 
 3. Pour les transporteurs aériens, ferroviaires et maritimes de voyageurs : 750 000 F ;
 

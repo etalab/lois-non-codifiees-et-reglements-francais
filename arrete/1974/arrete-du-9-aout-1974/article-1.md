@@ -1,13 +1,9 @@
 # Article 1
 
-Les employeurs et travailleurs indépendants sont, pour la détermination du montant de la cotisation d'allocations familiales, tenus d'adresser, avant le 1er décembre de chaque année [*date limite*], une déclaration de leurs revenus professionnels provenant de toute activité non salariée relevant des professions non agricoles à l'organisme chargé du recouvrement dont ils relèvent.
+Pour la détermination du montant de la cotisation d'allocations familiales et de la contribution sociale généralisée dues sur les revenus non salariés non agricoles, les employeurs et travailleurs indépendants sont tenus de déclarer avant le 1er septembre de chaque année à l'organisme chargé du recouvrement dont ils relèvent :
 
-Cette obligation leur incombe jusqu'au 1er décembre de la deuxième année qui suit la cessation d'activité.
+Le montant du revenu professionnel non salarié non agricole de l'année civile précédente tel que défini par l'article L. 242-11 du code de la sécurité sociale ;
 
-Cette déclaration, établie en double exemplaire conformément au modèle fixé par arrêté ministériel, doit comporter [*mention obligatoire*] :
+Le montant des cotisations personnelles de sécurité sociale qui doivent être ajoutées à ce revenu en application du deuxième alinéa de l'article L. 136-3 de ce même code.
 
-Soit le revenu professionnel, tel qu'il est retenu pour le calcul de l'impôt sur le revenu dont il est passible au titre de l'année civile précédente, avant déduction des déficits des années antérieures ;
-
-Soit le montant du bénéfice forfaitaire ou du bénéfice résultant de l'évaluation administrative pris en compte pour le calcul de l'impôt sur le revenu dont il est passible au titre de l'année civile précédente, avant déduction des déficits des années antérieures ;
-
-Soit, pour le contribuable imposé à la cédule des traitements et salaires, mais qui ne relève pas d'un régime de sécurité sociale applicable aux salariés ou assimilés, le montant des rémunérations déclarées pour le calcul de l'impôt sur le revenu dont il est passible au titre de l'année civile précédente, après application de la déduction forfaitaire ou réelle pour frais professionnels et avant application de l'abattement prévu à l'article 158-5 du Code général des Impôts.
+Cette déclaration doit être établie, en double exemplaire, sur un formulaire conforme à un modèle fixé par arrêté ministériel.
