@@ -1,6 +1,6 @@
 # Article 24
 
-Il est créé une commission statutaire nationale, présidée par un conseiller d'Etat qui comporte en nombre égal [*composition*] :
+Il est créé une commission statutaire nationale, présidés par un membre du Conseil d'Etat ou son suppléant, en activité ou honoraire qui comporte en nombre égal:
 
 1° Des membres désignés par le ministre chargé de la santé, dont la moitié au moins ont la qualité de médecin ou de pharmacien;
 

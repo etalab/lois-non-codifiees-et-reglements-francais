@@ -4,4 +4,6 @@ Le poste libéré par un praticien placé en disponibilité est déclaré vacant
 
 A l'issue de sa mise en disponibilité le praticien est réintégré dans les conditions fixées à l'article 54.
 
+S'il n'a pu être réintégré, il est placé en disponibilité d'office dans les conditions fixées à l'article 56.
+
 Au cas où à l'expiration d'une période de disponibilité un praticien n'a ni repris ses fonctions, ni obtenu une prolongation de sa disponibilité, il est rayé des cadres.
