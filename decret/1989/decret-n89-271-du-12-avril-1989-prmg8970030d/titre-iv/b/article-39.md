@@ -1,5 +1,3 @@
 # Article 39
 
-Pour les déplacements effectués par transports terrestres publics, seuls les agents classés dans le groupe I peuvent être remboursés des frais de transport dans la classe la plus élevée, si la ligne comprend plusieurs classes.
-
-Le remboursement des frais de transport en autocar s'effectue, sur justifications, sur la base des frais réellement exposés.
+La prise en charge des frais de transports terrestres publics est effectuée, sur présentation des pièces justificatives, sur la base du tarif de la classe la plus économique. L'autorité qui ordonne le déplacement peut toutefois autoriser exceptionnellement et en raison de circonstances particulières cette prise en charge sur la base du tarif d'une classe supérieure.

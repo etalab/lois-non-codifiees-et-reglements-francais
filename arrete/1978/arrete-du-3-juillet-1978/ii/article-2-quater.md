@@ -1,10 +1,10 @@
 # Article 2 quater
 
-A compter du 1er juillet 1998 pour l'application de l'article R. 351-17-5 :
+A compter du 1er juillet 1999 pour l'application de l'article R. 351-17-5 :
 
 Le taux de participation personnelle (T<sub>P</sub>) du ménage exprimé en francs pour 10 000 F de ressources est calculé selon la formule suivante :
 
-T<sub>P</sub> = T<sub>B</sub> - T<sub>M </sub>+ T<sub>R</sub> + T<sub>L</sub>
+T<sub>P </sub>= T<sub>B</sub> - T<sub>M</sub> + T<sub>R</sub> + T<sub>L</sub>
 
 dans laquelle :
 
@@ -64,19 +64,19 @@ T<sub>R</sub> représente un premier taux complémentaire obtenu par l'applicati
 
 0 F pour la tranche de ressources entre 0 et le revenu minimal ;
 
-6,41 F pour 10 000 F dans la tranche de ressources entre le revenu minimal et 18 647 F ;
+6,37 F pour 10 000 F dans la tranche de ressources entre le revenu minimal et 18 759 F ;
 
-32,42 F pour 10 000 F dans la tranche de ressources de 18 648 F à 28 433 F ;
+32,23 F pour 10 000 F dans la tranche de ressources de 18 760 F à 28 604 F ;
 
-13,98 F pour 10 000 F dans la tranche de ressources de 28 434 F à 41 826 F ;
+13,90 F pour 10 000 F dans la tranche de ressources de 28 605 F à 42 077 F ;
 
-18,05 F pour 10 000 F dans la tranche de ressources de 41 827 F à 57 898 F ;
+17,94 F pour 10 000 F dans la tranche de ressources de 42 078 F à 58 245 F ;
 
-15,91 F pour 10 000 F dans la tranche de ressources de 57 899 F à 71 188 F ;
+15,82 F pour 10 000 F dans la tranche de ressources de 58 246 F à 71 615 F ;
 
-5,83 F pour 10 000 F dans la tranche de ressources de 71 189 F à 111 263 F ;
+5,80 F pour 10 000 F dans la tranche de ressources de 71 616 F à 111 931 F ;
 
-2,62 F pour 10 000 F dans la tranche de ressources au-dessus de 111 263 F ;
+2,60 F pour 10 000 F dans la tranche de ressources au-dessus de 111 931 F ;
 
 T<sub>R</sub>, exprimé en francs pour 10 000 F de ressources, est arrondi au centime le plus proche ;
 
@@ -103,16 +103,16 @@ T<sub>L</sub> représente un deuxième taux complémentaire fixé ci-dessous en 
 </tr>
 <tr>
 <td>
-<p align="center">1 357 F</p>
+<p align="center">1 371 F</p>
 </td>
 <td>
-<p align="center">1 662 F</p>
+<p align="center">1 679 F</p>
 </td>
 <td>
-<p align="center">1 887 F</p>
+<p align="center">1 889 F</p>
 </td>
 <td>
-<p align="center">2 162 F</p>
+<p align="center">2 164 F</p>
 </td>
 <td>
 <p align="center">275 F</p>
@@ -121,10 +121,10 @@ T<sub>L</sub> représente un deuxième taux complémentaire fixé ci-dessous en 
 </tbody>
 </table>
 
-T<sub>L</sub> est obtenu en additionnant, par tranche de R<sub>L </sub>au-dessus de 45 %, des montants fixés ainsi pour chaque tranche :
+T<sub>L</sub> est obtenu en additionnant, par tranche de RL au-dessus de 45 %, des montants fixés ainsi pour chaque tranche :
 
-56,70 centimes pour chaque point de R<sub>L</sub> dans la tranche entre 45 % et 75 % ;
+56,70 centimes pour chaque point de RL dans la tranche entre 45 % et 75 % ;
 
-84,50 centimes pour chaque point de R<sub>L </sub>au-dessus de 75 % ;
+84,50 centimes pour chaque point de RL au-dessus de 75 % ;
 
 T<sub>L</sub>, exprimé en francs pour 10 000 F de ressources, est arrondi au centime le plus proche.

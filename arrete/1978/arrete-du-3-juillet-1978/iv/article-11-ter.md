@@ -1,53 +1,59 @@
 # Article 11 ter
 
-A compter du 1er juillet 1998, en application de l'article R. 351-22-1, le montant forfaitaire des charges est fixé comme suit :
+A compter du 1er juillet 1999, en application de l'article R. 351-22-1, le montant forfaitaire des charges est fixé comme suit :
 
-DESIGNATION :
+!---------------------------!---------!
 
-Bénéficiaire isolé ou ménage sans personne à charge
+!        DESIGNATION        !  TOUTES !
 
-TOUTES ZONES : 293 F
+!                           !  ZONES  !
 
-DESIGNATION :
+!---------------------------!---------!
 
-Bénéficiaire isolé ou ménage ayant une personne à charge
+!Bénéficiaire isolé ou      !         !
 
-TOUTES ZONES : 357 F
+!ménage sans personne à     !         !
 
-DESIGNATION :
+!charge.....................!   297 F !
 
-Par personne supplémentaire à charge
+!Bénéficiaire isolé ou      !         !
 
-TOUTES ZONES : 64 F
+!ménage ayant une personne à!         !
+
+!charge.....................!   362 F !
+
+!Par personne supplémentai- !         !
+
+!re à charge................!    65 F !
+
+!---------------------------!---------!
 
 Toutefois, dans le cas des colocataires ou des copropriétaires prévu aux articles R. 351-17 (6e alinéa), R. 351-17-3 et R. 351-21-4, le montant forfaitaire des charges est fixé comme suit :
 
-DESIGNATION :
+!---------------------------!---------!
 
-Bénéficiaire isolé
+!        DESIGNATION        ! TOUTES  !
 
-TOUTES ZONES : 147 F
+!                           ! ZONES   !
 
-DESIGNATION :
+!---------------------------!---------!
 
-Ménage sans personne à charge
+!Bénéficiaire isolé.........!  149 F  !
 
-TOUTES ZONES : 293 F
+!Ménage sans personne à     !         !
 
-DESIGNATION :
+!charge.....................!  297 F  !
 
-Bénéficiaire isolé ayant une personne à charge
+!Bénéficiaire isolé ayant   !         !
 
-TOUTES ZONES : 211 F
+!une personne à charge......!  214 F  !
 
-DESIGNATION :
+!Ménage ayant une personne à!         !
 
-Ménage ayant une personne à charge
+!charge.....................!  362 F  !
 
-TOUTES ZONES : 357 F
+!Par personne supplémentaire!         !
 
-DESIGNATION :
+!à charge...................!   65 F  !
 
-Par personne supplémentaire à charge
-
-TOUTES ZONES : 64 F
+!---------------------------!---------!
