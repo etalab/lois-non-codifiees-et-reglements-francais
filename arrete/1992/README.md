@@ -46,6 +46,7 @@
 - [Arrêté du 12 août 1992 (AGRA9201342A)](arrete-du-12-aout-1992-agra9201342a)
 - [Arrêté du 13 décembre 1991 (EQUU9101737A)](arrete-du-13-decembre-1991-equu9101737a)
 - [Arrêté du 13 décembre 1991 (MCCB9100726A)](arrete-du-13-decembre-1991-mccb9100726a)
+- [Arrêté du 13 janvier 1992 (AGRE9200129A)](arrete-du-13-janvier-1992-agre9200129a)
 - [Arrêté du 13 janvier 1992 (AGRE9200130A)](arrete-du-13-janvier-1992-agre9200130a)
 - [Arrêté du 13 janvier 1992 (ECOP9100591A)](arrete-du-13-janvier-1992-ecop9100591a)
 - [Arrêté du 13 janvier 1992 (ECOT9200137A)](arrete-du-13-janvier-1992-ecot9200137a)
