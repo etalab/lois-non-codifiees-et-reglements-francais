@@ -6,4 +6,5 @@
 - [Section 4 : Dispositions statutaires communes aux corps des techniciens de la recherche](section-4)
 - [Section 5 : Dispositions statutaires relatives aux corps des adjoints techniques de la recherche](section-5)
 - [Section 6 : Dispositions statutaires relatives aux corps des agents techniques de la recherche](section-6)
+- [Section 6 bis : Dispositions statutaires relatives au corps des agents des services techniques de la recherche.](section-6-bis)
 - [Section 7 : Dispositions statutaires relatives aux corps des aides techniques de la recherche.](section-7)
