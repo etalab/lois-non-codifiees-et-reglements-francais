@@ -1,0 +1,3 @@
+# Article 4
+
+Charbonnages de France, le groupement des entreprises sidérurgiques et minières et la fédération des chambres syndicales des minerais et métaux non ferreux communiquent aux ministres chargés de la sécurité sociale et des mines dans un délai de quinze jours suivant la publication du présent décret le nom des administrateurs titulaires et suppléants qu'ils désignent pour siéger au conseil d'administration de la Caisse autonome nationale de la sécurité sociale dans les mines. Les ministres constatent par arrêté et publient ces noms dans les trois semaines qui suivent cette notification.
