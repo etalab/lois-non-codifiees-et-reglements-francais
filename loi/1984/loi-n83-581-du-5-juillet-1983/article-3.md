@@ -28,7 +28,7 @@ Ont libre accès à bord de tout navire, pour procéder à ces visites ou y part
 
 - les inspecteurs relevant de la direction générale de l'aviation civile ;
 
-- les représentants de l'exploitant du réseau de radiocommunications maritimes ;
+- les représentants de l'Agence nationale des fréquences ;
 
 - les membres des commissions de visite ;
 
