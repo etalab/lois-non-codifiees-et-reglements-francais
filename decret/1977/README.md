@@ -129,6 +129,7 @@
 - [Décret n°77-551 du 23 mai 1977](decret-n77-551-du-23-mai-1977)
 - [Décret n°77-1187 du 24 octobre 1977](decret-n77-1187-du-24-octobre-1977)
 - [Décret n°77-1288 du 24 novembre 1977](decret-n77-1288-du-24-novembre-1977)
+- [Décret n°77-1318 du 24 novembre 1977](decret-n77-1318-du-24-novembre-1977)
 - [Décret n°77-1319 du 24 novembre 1977](decret-n77-1319-du-24-novembre-1977)
 - [Décret n°77-274 du 24 mars 1977](decret-n77-274-du-24-mars-1977)
 - [Décret n°77-285 du 24 mars 1977](decret-n77-285-du-24-mars-1977)
