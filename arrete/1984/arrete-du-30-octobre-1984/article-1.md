@@ -1,3 +1,7 @@
 # Article 1
 
-Conformément aux dispositions des articles L. 141-3 et L. 814-1 du code du travail et compte tenu du niveau de l'indice mensuel des prix à la consommation qui atteint 151,3 pour le mois de septembre 1984, les taux du salaire minimum de croissance, tels qu'ils résultent du décret n° 84-535 du 27 juin 1984, sont majorés de 2,2 p. 100 pour prendre effet au 1er novembre 1984.
+L'attestation de(s) période(s) de congé parental doit être établie conformément au modèle S. 5204 (1) enregistré par le CERFA (2) sous le numéro 60-3718.
+
+(1) Un modèle de cet imprimé pourra être obtenu auprès de la Caisse nationale d'assurance vieillesse des travailleurs salariés.
+
+(2) Centre d'enregistrement et de révision des formulaires administratifs.
