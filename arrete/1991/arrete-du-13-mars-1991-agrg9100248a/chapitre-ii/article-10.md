@@ -12,7 +12,7 @@ c) Officiellement indemne ou indemne de brucellose au sens de la directive C.E.E
 
 d) Indemne de leucose bovine enzootique au sens de la directive C.E.E. n° 64-432 modifiée susvisée ;
 
-e) Protégée contre la fièvre aphteuse sauf dérogation accordée par le directeur des services vétérinaires concerné ;
+e) (paragraphe supprimé).
 
 f) Dans lequel aucune manifestation clinique d'I.B.R.-I.P.V. n'a été constatée, depuis un an au moins.
 
@@ -20,6 +20,6 @@ Pendant les six mois précédant la mise en place des embryons, les femelles rec
 
 2. Remplir elles-mêmes les conditions suivantes :
 
-- être protégée contre la fièvre aphteuse sauf dérogation accordée par le directeur des services vétérinaires concerné ;
+- (paragraphe supprimé).
 
 - avoir subi un examen clinique préalablement à la mise en place des embryons.

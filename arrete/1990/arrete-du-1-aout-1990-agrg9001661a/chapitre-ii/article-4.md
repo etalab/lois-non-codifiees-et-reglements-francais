@@ -24,11 +24,7 @@ d) Indemne de leucose bovine enzootique au sens de la directive n° 64-432 C.E.E
 
 5. Répondre eux-mêmes au cours de cette période de quarantaine de deux mois aux conditions suivantes :
 
-a) Etre protégés contre la fièvre aphteuse, sauf dérogation accordée par le ministère de l'agriculture et de la forêt (sous-direction de la santé et de la protection animales) :
-
-- soit par double vaccination à six semaines d'intervalle s'il s'agit de jeunes animaux non vaccinés au moment de leur entrée en quarantaine ;
-
-- soit pour les taureaux âgés de plus de dix-huit mois, par trois vaccinations effectuées à intervalles d'un an au plus, préalablement à leur entrée en station de quarantaine ;
+a) (paragraphe supprimé).
 
 b) Avoir été soumis, avec résultats favorables, au cours des trente premiers jours de la période d'isolement, aux tests suivants :
 
