@@ -10,7 +10,7 @@ Pour chaque maladie ou accident, la constatation des soins reçus par les assur�
 
 4° Le numéro d'agrément lorsque l'acte correspondant a été effectué au moyen d'un appareil ou d'une installation soumis au régime de l'agrément de l'article 19 du décret n° 60-451 du 12 mai 1960 modifié ;
 
-5° L'attestation de la prestation de l'acte médical ;
+5° L'attestation de la prestation de l'acte par le praticien, l'auxiliaire médical ou le directeur de laboratoire comportant le numéro de code de l'acte figurant à la nomenclature des actes professionnels ou à la nomenclature des actes de biologie médicale ;
 
 6° La mention de la délivrance de prescriptions écrites s'il y a lieu ;
 
