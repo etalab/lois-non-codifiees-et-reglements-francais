@@ -101,6 +101,7 @@
 - [Décret n°90-490 du 15 juin 1990 (TEFT9003526D)](decret-n90-490-du-15-juin-1990-teft9003526d)
 - [Décret n°91-172 du 15 février 1991 (SPSS9100170D)](decret-n91-172-du-15-fevrier-1991-spss9100170d)
 - [Décret n°91-186 du 15 février 1991 (MCCK9000607D)](decret-n91-186-du-15-fevrier-1991-mcck9000607d)
+- [Décret n°91-278 du 15 mars 1991 (SPSS9100252D)](decret-n91-278-du-15-mars-1991-spss9100252d)
 - [Décret n°91-55 du 15 janvier 1991 (EQUA9001674D)](decret-n91-55-du-15-janvier-1991-equa9001674d)
 - [Décret n°91-657 du 15 juillet 1991 (SANG9101253D)](decret-n91-657-du-15-juillet-1991-sang9101253d)
 - [Décret n°91-75 du 15 janvier 1991 (EQUS9001467D)](decret-n91-75-du-15-janvier-1991-equs9001467d)
