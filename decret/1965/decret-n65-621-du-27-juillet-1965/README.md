@@ -5,5 +5,7 @@
 - [Chapitre III : Renonciation aux effets du dépôt.](chapitre-iii)
 - [Chapitre IV : Registre national des marques.](chapitre-iv)
 - [Chapitre V : Marques collectives.](chapitre-v)
+- [Chapitre V bis : Recours contre les décisions du directeur de l'Institut national de la propriété industrielle.](chapitre-v-bis)
+- [Chapitre VI : Description et saisie-contrefaçon.](chapitre-vi)
 - [Chapitre VII : Dispositions transitoires.](chapitre-vii)
 - [Article 43](article-43.md)
