@@ -64,7 +64,6 @@
 - [Arrêté du 14 février 1984](arrete-du-14-fevrier-1984)
 - [Arrêté du 14 juin 1983](arrete-du-14-juin-1983)
 - [Arrêté du 14 mars 1983](arrete-du-14-mars-1983)
-- [Arrêté du 14 septembre 1966](arrete-du-14-septembre-1966)
 - [Arrêté du 15 février 1983](arrete-du-15-fevrier-1983)
 - [Arrêté du 15 juillet 1982](arrete-du-15-juillet-1982)
 - [Arrêté du 15 juin 1983](arrete-du-15-juin-1983)
