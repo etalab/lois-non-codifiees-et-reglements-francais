@@ -18,3 +18,4 @@
 - [Article 10-7](article-10-7.md)
 - [Article 10-8](article-10-8.md)
 - [Article 10-9](article-10-9.md)
+- [Article 10-10](article-10-10.md)
