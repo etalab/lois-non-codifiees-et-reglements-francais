@@ -1,0 +1,3 @@
+# Article 135
+
+Sous réserve des dispositions particulières régissant l'organisation des huissiers de justice dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, et notamment des dispositions du décret du 29 juillet 1926 relatif à l'organisation et à la discipline des huissiers de justice dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, ainsi que de la loi du 2 mai 1930 portant ratification dudit décret, le présent décret est applicable aux sociétés constituées dans les départements susvisés entre les personnes physiques exerçant les fonctions d'huissier de justice ou remplissant les conditions requises pour être nommées à ces fonctions.
