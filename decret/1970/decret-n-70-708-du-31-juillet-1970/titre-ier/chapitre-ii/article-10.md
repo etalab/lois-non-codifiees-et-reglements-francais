@@ -4,7 +4,7 @@ Toute personne qui veut exercer une profession ou une activité ambulante dans l
 
 Il lui est délivré une attestation valant titre provisoire de circulation ; cette attestation est valable deux mois.
 
-Le livret spécial de circulation prévu à l'article 2 de la loi susvisée, le livret et le carnet de circulation auxquels se réfère l'article 3 de ladite loi sont valables deux ans.
+Le livret spécial, le livret et le carnet de circulation prévus respectivement aux articles 2, 4 et 5 de la loi du 3 janvier 1969 susvisée sont valables cinq ans.
 
 Ces titres de circulation portent un numéro d'ordre, ils mentionnent la date de leur délivrance et celles de leurs prorogations successives de validité qui doivent être effectuées par le préfet ou le sous-préfet de l'arrondissement dans lequel est située la commune de rattachement. Ils reproduisent le signalement de leur titulaire et comportent l'ensemble des indications qui figurent sur la carte nationale d'identité ainsi que l'indication de la commune de rattachement et celle de la profession ou de l'activité exercées.
 

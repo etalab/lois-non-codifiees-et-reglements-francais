@@ -1,6 +1,6 @@
 # Article 26
 
-Toute personne mentionnée à l'article 10 du présent décret qui désire changer de commune de rattachement doit adresser sa demande au préfet du département ou au sous-préfet de l'arrondissement où est située la commune à laquelle elle est rattachée et, dans le ressort de la préfecture de police, au préfet de police. Elle doit joindre à sa demande les pièces justifiant qu'elle a établi des attaches dans une autre commune.
+Toute personne mentionnée à l'article 10 du présent décret qui désire changer de commune de rattachement doit adresser sa demande au commissaire de la République du département ou au commissaire adjoint de la République de l'arrondissement où est située la commune à laquelle elle est rattachée et, dans le ressort de la préfecture de police, au préfet de police. Elle doit joindre à sa demande les pièces justifiant qu'elle a établi des attaches dans une autre commune.
 
 La détermination de ces attaches peut notamment résulter de l'une des circonstances suivantes :
 
