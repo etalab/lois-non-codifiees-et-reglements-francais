@@ -166,6 +166,7 @@
 - [Décret n°89-593 du 28 août 1989 (TEFT8903644D)](decret-n89-593-du-28-aout-1989-teft8903644d)
 - [Décret n°90-183 du 28 février 1990 (DEFP9001099D)](decret-n90-183-du-28-fevrier-1990-defp9001099d)
 - [Décret n°90-187 du 28 février 1990 (AGRB9000401D)](decret-n90-187-du-28-fevrier-1990-agrb9000401d)
+- [Décret n°90-189 du 28 février 1990 (MAEF9010000D)](decret-n90-189-du-28-fevrier-1990-maef9010000d)
 - [Décret n°90-282 du 28 mars 1990 (TEFG9003294D)](decret-n90-282-du-28-mars-1990-tefg9003294d)
 - [Décret n°89-1012 du 29 décembre 1989 (ECOT8910061D)](decret-n89-1012-du-29-decembre-1989-ecot8910061d)
 - [Décret n°89-876 du 29 novembre 1989 (SPSS8901528D)](decret-n89-876-du-29-novembre-1989-spss8901528d)
