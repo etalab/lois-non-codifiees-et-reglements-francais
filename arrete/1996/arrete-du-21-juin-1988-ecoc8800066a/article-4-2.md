@@ -1,0 +1,3 @@
+# Article 4-2
+
+Dans les territoires d'outre-mer, le service compétent pour adresser au procureur de la République un exemplaire du dossier de demande d'agrément et pour recevoir le rapport moral et financier des associations agréées est, si l'association a son siège social en Nouvelle-Calédonie, la direction des affaires économiques, si elle a son siège social en Polynésie française, la direction de la réglementation et du contrôle de légalité, et si elle a son siège social dans les îles Wallis-et-Futuna, le bureau des affaires économiques et du développement. Le procureur de la République reçoit également communication des décisions d'agrément ou de refus.
