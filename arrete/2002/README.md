@@ -386,7 +386,6 @@
 - [Arrêté du 13 mars 2002 (ECOI0200002A)](arrete-du-13-mars-2002-ecoi0200002a)
 - [Arrêté du 13 mars 2002 (INDI0200088A)](arrete-du-13-mars-2002-indi0200088a)
 - [Arrêté du 13 mars 2002 (MENS0200620A)](arrete-du-13-mars-2002-mens0200620a)
-- [Arrêté du 13 novembre 2001 (MESG0123551A)](arrete-du-13-novembre-2001-mesg0123551a)
 - [Arrêté du 13 novembre 2002 (JUSA0200480A)](arrete-du-13-novembre-2002-jusa0200480a)
 - [Arrêté du 14 août 2002 (ECOC0200068A)](arrete-du-14-aout-2002-ecoc0200068a)
 - [Arrêté du 14 août 2002 (PRMX0201627A)](arrete-du-14-aout-2002-prmx0201627a)

@@ -198,7 +198,6 @@
 - [Arrêté du 11 octobre 1989 (DOME8900028A)](arrete-du-11-octobre-1989-dome8900028a)
 - [Arrêté du 11 septembre 1989 (TEFE8903699A)](arrete-du-11-septembre-1989-tefe8903699a)
 - [Arrêté du 11 septembre 1989 (TEFE8903700A)](arrete-du-11-septembre-1989-tefe8903700a)
-- [Arrêté du 11 septembre 1989 (TEFE8903701A)](arrete-du-11-septembre-1989-tefe8903701a)
 - [Arrêté du 11 septembre 1989 (TEFE8903702A)](arrete-du-11-septembre-1989-tefe8903702a)
 - [Arrêté du 11 septembre 1989 (TEFT8903721A)](arrete-du-11-septembre-1989-teft8903721a)
 - [Arrêté du 11 mai 1989 (AGRG8900849A)](arrete-du-11-mai-1989-agrg8900849a)
