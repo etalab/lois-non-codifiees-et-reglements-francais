@@ -1030,7 +1030,6 @@
 - [Arrêté du 27 janvier 1997 (DEFT9701142A)](arrete-du-27-janvier-1997-deft9701142a)
 - [Arrêté du 27 janvier 1997 (EQUA9700193A)](arrete-du-27-janvier-1997-equa9700193a)
 - [Arrêté du 27 janvier 1997 (MAEA9620549A)](arrete-du-27-janvier-1997-maea9620549a)
-- [Arrêté du 27 juin 1996 (EQUA9600832A)](arrete-du-27-juin-1996-equa9600832a)
 - [Arrêté du 27 juin 1997 (DEFP9701647A)](arrete-du-27-juin-1997-defp9701647a)
 - [Arrêté du 27 juin 1997 (ECOT9716242A)](arrete-du-27-juin-1997-ecot9716242a)
 - [Arrêté du 27 juin 1997 (ECOT9716243A)](arrete-du-27-juin-1997-ecot9716243a)
