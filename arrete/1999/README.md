@@ -70,6 +70,7 @@
 - [Arrêté du 5 janvier 1999 (ECOC9800156A)](arrete-du-5-janvier-1999-ecoc9800156a)
 - [Arrêté du 5 janvier 1999 (EQUT9900029A)](arrete-du-5-janvier-1999-equt9900029a)
 - [Arrêté du 5 janvier 1999 (MENS9803407A)](arrete-du-5-janvier-1999-mens9803407a)
+- [Arrêté du 5 juillet 1999 (EQUH9900980A)](arrete-du-5-juillet-1999-equh9900980a)
 - [Arrêté du 5 juillet 2000 (MENF0000925A)](arrete-du-5-juillet-2000-menf0000925a)
 - [Arrêté du 5 mars 1999 (ATEN9870392A)](arrete-du-5-mars-1999-aten9870392a)
 - [Arrêté du 5 mars 1999 (ECOF9800036A)](arrete-du-5-mars-1999-ecof9800036a)
@@ -522,3 +523,4 @@
 - [Arrêté du 31 mars 1999 (MESP9921062A)](arrete-du-31-mars-1999-mesp9921062a)
 - [Arrêté du 31 mars 1999 (MESP9921063A)](arrete-du-31-mars-1999-mesp9921063a)
 - [Arrêté du 31 mars 1999 (MESP9921064A)](arrete-du-31-mars-1999-mesp9921064a)
+- [Arrêté du 1er juillet 1999 (EQUH9900982A)](arrete-du-1er-juillet-1999-equh9900982a)
