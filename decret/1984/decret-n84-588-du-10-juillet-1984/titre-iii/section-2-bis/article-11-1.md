@@ -1,5 +1,7 @@
 # Article 11-1
 
-Les conditions de durée d'activités professionnelles et d'exercice de mandats définies au I de l'article 7 de la loi du 26 juillet 1991 susvisée doivent être remplies au 1er janvier de l'année du concours. Les candidats doivent, à cette même date, être âgés de moins de quarante ans.
+Le troisième concours est ouvert aux candidats âgés de moins de quarante ans au 1er janvier de l'année du concours et qui justifient, à cette même date, de l'exercice, durant cinq années au total, d'une ou plusieurs activités professionnelles ou d'un ou plusieurs mandats de membre d'une assemblée élue d'une collectivité territoriale. La durée de ces activités ou mandats ne peut être prise en compte que si les intéressés n'avaient pas, lorsqu'ils les exerçaient, la qualité de fonctionnaire, de magistrat, de militaire ou d'agent public.
 
-Les périodes au cours desquelles l'exercice d'une activité professionnelle et celui d'un mandat électif auront été simultanés ne sont prises en compte qu'à un seul de ces titres.
+Entre en compte dans le calcul de la période d'expérience professionnelle toute activité exercée en qualité de salarié de droit privé ou en qualité de travailleur indépendant.
+
+Les périodes au cours desquelles l'exercice d'une ou plusieurs activités professionnelles et l'exercice d'un mandat électif auront été simultanés ne sont prises en compte qu'à un seul de ces deux titres.

@@ -10,6 +10,4 @@ Les jurys établissent, par ordre de mérite, dans la limite du nombre de postes
 
 Les jurys peuvent, pour chacun des concours, soit ne pas pourvoir tous les postes offerts, soit établir par ordre de mérite une liste complémentaire des candidats aptes à être admis dans le cas où des vacances viendraient à se produire avant l'entrée des candidats admis dans les instituts, pour quelque cause que ce soit.
 
-Le nombre de postes qui pourront être pourvus par la nomination de candidats inscrits sur la liste complémentaire ne pourra excéder 30 p. 100 du nombre de postes mis au concours.
-
 En aucun cas, il ne peut être procédé à la nomination de candidats inscrits sur la liste complémentaire au-delà d'un délai de quinze jours suivant la date fixée pour le début de la scolarité à l'institut régional d'administration.

@@ -26,4 +26,4 @@ Les membres de la commission nationale consultative entre que les membres de dro
 
 Les directeurs des instituts régionaux d'administration participent aux travaux de la commission avec voix consultative.
 
-La commission nationale consultative se réunit au moins une fois par an sur la convocation de son président.
+La commission nationale consultative se réunit sur la convocation de son président.

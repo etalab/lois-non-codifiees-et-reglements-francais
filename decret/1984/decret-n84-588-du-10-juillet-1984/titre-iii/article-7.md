@@ -1,39 +1,43 @@
 # Article 7
 
-Les instituts régionaux d'administration contribuent à assurer le recrutement des fonctionnaires de l'Etat et des établissements publics de l'Etat désignés ci-après :
+Les instituts régionaux d'administration contribuent à assurer le recrutement dans les corps de fonctionnaires désignés ci-après ;
 
-Attachés d'administration centrale ;
+1° Attachés d'administration centrale ;
 
-Attachés de préfecture ;
+2° Attachés de préfecture ;
 
-Inspecteur des affaires sanitaires et sociales ;
+3° Attachés de la police nationale ;
 
-Attachés de service administratif des services extérieurs de la défense ;
+4° Inspecteurs des affaires sanitaires et sociales ;
 
-Sous-chefs de service administratif de l'aviation civile ;
+5° Attachés de service administratif du ministère de la défense ;
 
-Attachés administratifs des services extérieurs du ministère de l'équipement et du logement ;
+6° Attachés d'administration de l'aviation civile ;
 
-Attachés d'administration scolaire et universitaire ;
+7° Personnels administratifs supérieurs des services déconcentrés du ministère chargé de l'équipement ;
 
-Délégués des services extérieurs du ministère des anciens combattants ;
+8° Attachés d'administration scolaire et universitaire ;
 
-Secrétaires généraux de l'Office national des anciens combattants et victimes de guerre ;
+9° Attachés d'administration, de recherche et de formation du ministère de l'éducation nationale ;
 
-Attachés administratifs des services extérieurs du ministère de l'agriculture ;
+"10° Délégués des services déconcentrés du ministère de la défense ;
 
-Attachés administratifs de l'Office national des forêts ;
+11° Secrétaires généraux des services départementaux de l'Office national des anciens combattants et victimes de guerre ;
 
-Attachés de l'Office national interprofessionnel des céréales ;
+12° Attachés administratifs des services déconcentrés du ministère de l'agriculture ;
 
-Attachés d'administration et d'intendance des établissements d'enseignement agricole ;
+13° Attachés administratifs de l'Office national des forêts ;
 
-Attachés des services extérieurs du ministère chargé de la culture ;
+14° Attachés de l'Office national interprofessionnel des céréales ;
 
-Attachés d'intendance de l'éducation surveillée ;
+15° Attachés d'administration scolaire et universitaire de l'enseignement agricole ;
 
-Attachés d'administration et d'intendance des services extérieurs de l'administration pénitentiaire ;
+16° Attachés des services déconcentrés du ministère de la culture ;
 
-Attachés des services extérieurs des affaires maritimes ;
+17° Attachés de la protection judiciaire de la jeunesse ;
 
-Inspecteurs de la formation professionnelle.
+18° Attachés d'administration et d'intendance de l'administration pénitentiaire ;
+
+19° Inspecteurs des affaires maritimes ;
+
+20° Secrétaires des affaires étrangères du cadre d'administration.

@@ -8,7 +8,7 @@ Aucune personne ayant assuré un enseignement à des élèves de la promotion co
 
 Le classement est établi par le jury d'après total des points obtenus pas chacun des élèves en additionnant, compte tenu des coefficients affectés à chacune d'elles, la note de stage et les notes des épreuves qui sanctionnent les divers enseignants.
 
-Au cas où deux ou plusieurs élèves ont obtenu le même total, le jury convoque les intéressés pour les départager.
+Au cas où deux ou plusieurs élèves ont obtenu le même total, ceux-ci sont départagés en application des règles fixées par l'arrêté prévu à l'article 20 du présent décret.
 
 Le jury ne fait pas figurer sur la liste de classement les élèves dont il estime les résultats insuffisants.
 
