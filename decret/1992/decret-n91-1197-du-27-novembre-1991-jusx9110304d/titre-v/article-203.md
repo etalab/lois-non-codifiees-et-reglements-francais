@@ -1,5 +1,0 @@
-# Article 203
-
-Pour l'exercice, en France, des activités autres que celles prévues à l'article 202, les avocats restent soumis aux conditions d'exercice et aux règles professionnelles applicables à leur profession dans l'Etat dans lequel ils sont établis.
-
-Ils sont aussi tenus au respect des règles qui s'imposent, pour l'exercice de ces activités, aux avocats inscrits à un barreau français, notamment celles concernant l'incompatibilité entre l'exercice, en France, des activités d'avocat et celui d'autres activités, le secret professionnel, les rapports confraternels, l'interdiction d'assistance par un même avocat de parties ayant des intérêts opposés et la publicité. Ces règles ne leur sont applicables que si elles peuvent être observées alors qu'ils ne disposent pas d'un établissement en France et dans la mesure où leur observation se justifie objectivement pour assurer, en France, l'exercice correct des activités d'avocat, la dignité de la profession et le respect des incompatibilités.
