@@ -1,5 +1,7 @@
 # Article 4
 
-L'imprimeur ou producteur, l'éditeur ou toute personne qui en tient lieu, doivent, chacun en ce qui le concerne, dresser un état des oeuvres soumises au dépôt légal, portant en regard le numéro d'ordre visé aux articles 1er, 2 et 3 du présent décret et attribué à chacune de ces oeuvres suivant une série ininterrompue dans les listes des travaux de la maison d'impression ou d'édition [*formalités*].
+Le dépôt prescrit à l'éditeur par l'article 8 de la loi du 21 juin 1943 susvisée doit être exécuté au plus tard quarante-huit heures avant soit la mise en vente, en distribution ou en location, soit la cession pour la reproduction [*délai*] lorsque ce dépôt est effectué directement auprès de la régie du dépôt légal.
 
-Ils font parvenir trimestriellement une copie en double exemplaire de cet état au service du dépôt légal du ministère de l'Intérieur et une copie en double exemplaire au service du dépôt légal à la Bibliothèque nationale [*communication - nombre - périodicité*].
+Lorsque le dépôt est effectué par voie postale, la remise au bureau de poste doit avoir lieu au plus tard trois jours avant soit la mise en vente, en distribution ou en location, soit la cession pour la reproduction, le cachet de la poste faisant foi.
+
+Toutefois, pour les journaux et publications périodiques, il suffira que le dépôt soit effectué immédiatement avant la mise en vente ou en distribution.
