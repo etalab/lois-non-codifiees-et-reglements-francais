@@ -1,3 +1,0 @@
-# Article 3
-
-Sont abrogés les articles L. 121-22, L. 121-29, L. 121-30, L. 121-31, L. 121-32, L. 121-33, L. 121-36, L. 121-37, L. 121-38, L. 121-39, L. 122-6 (deuxième alinéa), L. 122-28, L. 161-3, L. 212-1 (deuxième alinéa), L. 212-3, L. 212-4, L. 212-5, L. 212-6, L. 212-7, L. 212-8, L. 212-9, L. 212-10, L. 212-11, L. 212-13, L. 221-5, L. 231-15, L. 231-16, L. 231-17, L. 241-2, L. 241-3 (deuxième alinéa), L. 242-1, L. 312-5, L. 312-8, L. 312-9, L. 312-10, L. 312-12, L. 313-3, L. 314-1, L. 315-2, L. 316-9, L. 316-10 et L. 412-47 du code des communes, déclarés applicables en Nouvelle-Calédonie.
