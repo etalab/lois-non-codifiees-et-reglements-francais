@@ -1,6 +1,3 @@
 # 1963
 
-- [Loi n° 63-156 du 23 février 1963](loi-n-63-156-du-23-fevrier-1963)
-- [Loi n° 63-558 du 10 juin 1963](loi-n-63-558-du-10-juin-1963)
-- [Loi n° 63-699 du 13 juillet 1963](loi-n-63-699-du-13-juillet-1963)
-- [Loi n°63-777 du 31 juillet 1963](loi-n63-777-du-31-juillet-1963)
+- [Loi n° 63-1092 du 6 novembre 1963](loi-n-63-1092-du-6-novembre-1963)
