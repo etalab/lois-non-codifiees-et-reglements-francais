@@ -330,6 +330,8 @@
 - [Décret n°93-802 du 21 avril 1993 (EURX9300291D)](decret-n93-802-du-21-avril-1993-eurx9300291d)
 - [Décret n°93-86 du 21 janvier 1993 (JUSC9221084D)](decret-n93-86-du-21-janvier-1993-jusc9221084d)
 - [Décret n°93-954 du 21 juillet 1993 (SPSG9301799D)](decret-n93-954-du-21-juillet-1993-spsg9301799d)
+- [Décret n°93-822 du 21 mai 1993 (PRMX9300285D)](decret-n93-822-du-21-mai-1993-prmx9300285d)
+- [Décret n°93-823 du 21 mai 1993 (RESK9300320D)](decret-n93-823-du-21-mai-1993-resk9300320d)
 - [Décret n°92-1338 du 22 décembre 1992 (MENB9200481D)](decret-n92-1338-du-22-decembre-1992-menb9200481d)
 - [Décret n°92-711 du 22 juillet 1992 (INDB9200337D)](decret-n92-711-du-22-juillet-1992-indb9200337d)
 - [Décret n°92-89 du 22 janvier 1992 (DEFP9102353D)](decret-n92-89-du-22-janvier-1992-defp9102353d)
