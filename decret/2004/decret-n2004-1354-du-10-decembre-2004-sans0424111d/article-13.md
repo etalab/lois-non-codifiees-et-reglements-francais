@@ -2,7 +2,7 @@
 
 I. - Par dérogation aux dispositions du 2° du II de l'article 3, les dispositions relatives au vote du budget de gestion avant le 1er janvier ne sont pas applicables pour l'exercice 2005.
 
-Jusqu'au 28 février 2005 au plus tard, les dépenses de gestion administrative sont effectuées sans budget de gestion. La caisse doit adopter un budget de gestion pour l'ensemble de l'exercice et le soumettre au ministre chargé de la sécurité sociale et au ministre chargé du budget au plus tard le 15 février. La délibération approuvant ce budget est soumise à l'approbation explicite de ces ministres.
+Jusqu'au 15 mars 2005 au plus tard, les dépenses de gestion administrative sont effectuées sans budget de gestion. La caisse doit adopter un budget de gestion pour l'ensemble de l'exercice et le soumettre au ministre chargé de la sécurité sociale et au ministre chargé du budget au plus tard le 1er mars. La délibération approuvant ce budget est soumise à l'approbation explicite de ces ministres.
 
 II. - Par dérogation aux dispositions du III de l'article 4 et du I de l'article 6, la durée des mandats des membres du conseil d'administration, du président et du vice-président est fixée à trois ans pour le conseil d'administration constitué à la suite de la publication du présent décret.
 
