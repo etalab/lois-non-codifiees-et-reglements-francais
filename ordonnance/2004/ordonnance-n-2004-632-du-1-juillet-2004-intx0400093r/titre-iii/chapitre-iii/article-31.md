@@ -14,7 +14,7 @@ I. - Les ressources d'une association syndicale autorisée comprennent :
 
 6° Le produit des emprunts ;
 
-7° Le cas échéant, l'amortissement, les provisions et le résultat disponible de la section d'investissement ;
+7° Le cas échéant, l'amortissement, les provisions et le résultat disponible de la section de fonctionnement ;
 
 8° Tout autre produit afférent aux missions définies dans les statuts.
 

@@ -2,7 +2,7 @@
 
 L'autorité administrative peut, après mise en demeure de l'association syndicale autorisée restée sans effet dans un délai qu'elle détermine :
 
-1° Faire procéder d'office, aux frais de l'association, à l'exécution des travaux correspondant à son objet, dans le cas où la carence de l'association nuirait gravement à l'intérêt public ;
+1° Faire procéder d'office, aux frais de l'association, à l'accomplissement des opérations correspondant à son objet, dans le cas où la carence de l'association nuirait gravement à l'intérêt public ;
 
 2° Constater que l'importance des ouvrages ou des travaux à réaliser excède les capacités de l'association.
 

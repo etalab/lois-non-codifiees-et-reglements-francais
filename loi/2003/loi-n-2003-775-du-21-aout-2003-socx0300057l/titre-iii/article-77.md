@@ -1,6 +1,6 @@
 # Article 77
 
-Les membres des corps enseignants pourront, sur leur demande et après agrément donné par le ministre chargé de l'éducation nationale ou le ministre chargé de l'agriculture et soit par le ministre intéressé, soit par les représentants des collectivités locales ou des établissements publics à caractère administratif, occuper, en position de service détaché, des emplois correspondant à leurs qualifications, nonobstant les règles relatives au recrutement de ces emplois dans les administrations de l'Etat ou des collectivités locales et les établissements publics à caractère administratif.
+Les membres des corps enseignants pourront, sur leur demande et dans des conditions fixées par décret en Conseil d'Etat, occuper, en position de service détaché, des emplois correspondant à leurs qualifications, nonobstant les règles relatives au recrutement de ces emplois dans les administrations de l'Etat ou des collectivités locales et les établissements publics à caractère administratif.
 
 Ils percevront dans cette position une rémunération globale au moins égale à celle qu'ils auraient perçue s'ils étaient restés dans leur corps.
 

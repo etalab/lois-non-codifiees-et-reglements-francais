@@ -1,6 +1,6 @@
 # Article 1
 
-Peuvent faire l'objet d'une association syndicale de propriétaires la construction ou l'entretien d'ouvrages ou la réalisation de travaux en vue :
+Peuvent faire l'objet d'une association syndicale de propriétaires la construction, l'entretien ou la gestion d'ouvrages ou la réalisation de travaux en vue :
 
 a) De prévenir les risques naturels ou sanitaires, les pollutions et les nuisances ;
 

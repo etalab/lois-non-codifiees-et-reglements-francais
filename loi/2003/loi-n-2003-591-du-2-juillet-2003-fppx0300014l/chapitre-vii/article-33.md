@@ -6,9 +6,7 @@ Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement
 
 2° Code de la recherche ;
 
-3° Code du tourisme ;
-
-4° Code de l'organisation judiciaire.
+3° Code du tourisme.
 
 Chaque code fait l'objet d'une ordonnance. Il regroupe et organise les dispositions législatives relatives à la matière correspondante.
 

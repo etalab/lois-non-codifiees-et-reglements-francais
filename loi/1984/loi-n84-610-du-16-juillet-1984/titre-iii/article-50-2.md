@@ -1,17 +1,17 @@
 # Article 50-2
 
-Il est institué une commission départementale des espaces, sites et itinéraires relatifs aux sports de nature, placée sous l'autorité du président du conseil général.
+Le département favorise le développement maîtrisé des sports de nature. A cette fin, il élabore un plan départemental des espaces, sites et itinéraires relatifs aux sports de nature. Ce plan inclut le plan départemental prévu à l'article L. 361-1 du code de l'environnement. Il est mis en oeuvre dans les conditions prévues à l'article L. 130-5 du code de l'urbanisme.
 
-Cette commission comprend des représentants de fédérations agréées qui exercent des activités sportives de nature, des représentants de groupements professionnels concernés, des élus locaux et des représentants de l'Etat.
+Il est institué une commission départementale des espaces, sites et itinéraires relatifs aux sports de nature, placée auprès du président du conseil général.
+
+Cette commission comprend notamment un représentant du comité départemental olympique et sportif, des représentants des fédérations sportives agréées qui organisent des sports de nature, des représentants des groupements professionnels concernés, des représentants des associations agréées de protection de l'environnement, des élus locaux et des représentants de l'Etat.
 
 Cette commission :
 
-- propose un plan départemental des espaces, sites et itinéraires relatifs aux sports de nature et concourt à son élaboration ;
+- propose le plan départemental des espaces, sites et itinéraires relatifs aux sports de nature et concourt à son élaboration ;
 
-- propose les conventions et l'établissement des servitudes ;
+- propose les conventions relatives au plan ;
 
-- donne son avis sur l'impact, au niveau départemental, des projets de loi, de décret ou d'arrêté préfectoral pouvant avoir une incidence sur les activités physiques et sportives de nature ;
+- est consultée sur toute modification du plan ainsi que sur tout projet d'aménagement ou mesure de protection des espaces naturels susceptibles d'avoir une incidence sur l'exercice des sports de nature dans les espaces, sites et itinéraires inscrits à ce plan.
 
-- est consultée sur tout projet d'aménagement ou de mesure de protection de l'environnement pouvant avoir une incidence sur les sports de nature.
-
-Un décret en Conseil d'Etat précise la composition de cette commission et les modalités de son fonctionnement.
+La composition et les modalités de fonctionnement de la commission sont fixées par délibération de l'assemblée départementale.

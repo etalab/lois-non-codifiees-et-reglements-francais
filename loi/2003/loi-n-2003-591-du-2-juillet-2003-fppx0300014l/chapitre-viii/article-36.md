@@ -2,6 +2,8 @@
 
 I. - Des ordonnances prises en application de la présente loi peuvent prévoir, en tant que de besoin, les adaptations nécessitées par les caractéristiques et contraintes particulières des départements et régions d'outre-mer et par la prise en compte des intérêts propres, au sein de la République, de Mayotte, de la Nouvelle-Calédonie, de la Polynésie française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques françaises et des îles Wallis et Futuna.
 
+En outre, le Gouvernement peut, le cas échéant, étendre l'application des dispositions codifiées à Mayotte, à Saint-Pierre-et-Miquelon, à la Nouvelle-Calédonie, à la Polynésie française, aux Terres australes et antarctiques françaises et aux îles Wallis et Futuna, avec les adaptations nécessaires.
+
 II. - Les projets d'ordonnance sont soumis pour avis :
 
 1° Lorsque leurs dispositions sont relatives à la Guadeloupe, à la Guyane, à la Martinique et à la Réunion, aux conseils généraux et aux conseils régionaux intéressés dans les conditions prévues aux articles L. 3444-1 et L. 4433-3-1 du code général des collectivités territoriales ;
