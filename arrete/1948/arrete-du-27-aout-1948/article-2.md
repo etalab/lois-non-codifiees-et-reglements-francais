@@ -1,3 +1,3 @@
 # Article 2
 
-Les représentants du personnel en activité et les représentants du personnel en retraite sont désignés respectivement par les agents de leur catégorie et par voie d'élection à la représentation proportionnelle.
+Les deux premières commissions seront instituées par arrêté du préfet de la Seine, la troisième par arrêté du préfet de police.

@@ -1,7 +1,3 @@
 # Article 1
 
-La représentation des tributaires en activité ou en retraite au sein du conseil d'administration de la caisse nationale de retraites est assurée comme suit :
-
-Catégorie de personnel en activité : six titulaires, six suppléants.
-
-Catégorie de personnel en retraite : deux titulaires, deux suppléants.
+Dans le département de la Seine, il sera créé trois commissions départementales de réforme compétentes, respectivement, pour le personnel des communes suburbaines et des établissements publics autonomes départementaux et communaux, pour celui relevant de la préfecture de la Seine et de ses administrations annexes (assistance publique et crédit municipal) et pour celui de la préfecture de police.
