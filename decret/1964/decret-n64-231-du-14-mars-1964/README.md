@@ -5,4 +5,5 @@
 - [Titre II : Campagne électorale.](titre-ii)
 - [Titre III : Opérations électorales.](titre-iii)
 - [Titre IV : Contentieux et dispositions diverses.](titre-iv)
+- [Article 13](article-13.md)
 - [Article 30](article-30.md)
