@@ -4,8 +4,8 @@ Peut également bénéficier d'un contrat aux tarifs définis à l'annexe 2, dan
 
 Le contrat est conclu pour une durée de vingt ans à compter de sa date de signature, qui peut avoir lieu :
 
-1° Soit à l'échéance du contrat d'achat en cours à la date de publication du présent arrêté ;
+1. Soit à l'échéance du contrat d'achat en cours à la date de publication de l'arrêté du 7 septembre 2004 modifiant le présent arrêté ;
 
-2° Soit avant l'échéance du contrat d'achat en cours à la date de publication du présent arrêté, en cas d'application de l'article 50 de la loi du 10 février 2000 susvisée ;
+2. Soit avant l'échéance du contrat d'achat en cours à la date de publication de l'arrêté du 7 septembre 2004 modifiant le présent arrêté, en cas d'application de l'article 50 de la loi du 10 février 2000 susvisée ;
 
-3° Soit, à la demande du producteur, si cette installation ne bénéficie pas d'un contrat d'achat en cours à la date de publication du présent arrêté.
+3. Soit, à la demande du producteur, si cette installation ne bénéficie pas d'un contrat d'achat en cours à la date de publication de l'arrêté du 7 septembre 2004 modifiant le présent arrêté.
