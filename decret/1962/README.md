@@ -52,6 +52,8 @@
 - [Décret n°62-1389 du 23 novembre 1962](decret-n62-1389-du-23-novembre-1962)
 - [Décret n°62-608 du 23 mai 1962](decret-n62-608-du-23-mai-1962)
 - [Décret n°62-1396 du 24 novembre 1962](decret-n62-1396-du-24-novembre-1962)
+- [Décret n°62-1448 du 24 novembre 1962](decret-n62-1448-du-24-novembre-1962)
+- [Décret n°62-1449 du 24 novembre 1962](decret-n62-1449-du-24-novembre-1962)
 - [Décret n°63-1313 du 24 décembre 1963](decret-n63-1313-du-24-decembre-1963)
 - [Décret n°62-1439 du 26 novembre 1962](decret-n62-1439-du-26-novembre-1962)
 - [Décret n°62-217 du 26 février 1962](decret-n62-217-du-26-fevrier-1962)
