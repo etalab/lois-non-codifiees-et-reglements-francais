@@ -1,3 +1,3 @@
 # Article 4
 
-La durée de la présente autorisation est fixée à dix ans.
+La commission est présidée par le président-directeur général de l'Ifremer ou son représentant.

@@ -1,3 +1,3 @@
 # Article 6
 
-Le présent arrêté sera notifié à la société Radio Monte-Carlo [*information*] publié au Journal officiel de la République française.
+Cette commission se réunit au moins deux fois par an sur convocation de son président ou, dans un intervalle de plus de deux mois suivant la précédente réunion, sur demande écrite de la moitié au moins de ses membres.

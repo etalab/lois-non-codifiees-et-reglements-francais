@@ -1,11 +1,7 @@
 # Article 1
 
-En application de l'article 3 du décret du 6 février 1986 susvisé, la répartition du soutien financier de l'Etat à l'industrie des programmes audiovisuels est, pour l'année 1986, fixée comme suit :
+La commission prévue à l'article 2 du décret n° 85-327 du 15 mai 1985 susvisé comprend :
 
-Dépenses visées à l'article 1er (1°) du décret du 6 février 1986 :
+-quatre membres titulaires et quatre membres suppléants représentant la direction de l'établissement ;
 
-180.000.000 F.
-
-Dépenses visées à l'article 1er (2°) du décret précité :
-
-77.000.000 F.
+-quatre membres titulaires et quatre membres suppléants représentant le personnel.
