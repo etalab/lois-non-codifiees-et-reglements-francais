@@ -1,0 +1,3 @@
+# Article 4
+
+En application des dispositions prévues à l'article 24 du décret du 24 novembre 1982 susvisé, ces commissions exercent, dans leur domaine d'activité, les compétences dévolues aux sections du Comité national de la recherche scientifique, notamment en matière d'analyse de la conjoncture scientifique et de ses perspectives. Elles exercent toutes les compétences dévolues auxdites sections par les statuts du personnel du Centre national de la recherche scientifique, notamment en matière d'évaluation. Elles peuvent être consultées sur toutes questions relevant de leur domaine, notamment lors de l'évaluation des unités de recherche.
