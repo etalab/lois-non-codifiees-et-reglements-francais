@@ -1,5 +1,6 @@
 # Décret n°84-1193 du 28 décembre 1984 relatif à l'organisation et aux attributions des directions départementales de l'agriculture et de la forêt.
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 6](article-6.md)
