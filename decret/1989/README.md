@@ -29,6 +29,8 @@
 - [Décret n°90-932 du 5 octobre 1990 (INDA9000604D)](decret-n90-932-du-5-octobre-1990-inda9000604d)
 - [Décret n°89-145 du 6 mars 1989 (PRMZ8905023D)](decret-n89-145-du-6-mars-1989-prmz8905023d)
 - [Décret n°89-146 du 6 mars 1989 (INDD8900032D)](decret-n89-146-du-6-mars-1989-indd8900032d)
+- [Décret n°89-148 du 6 mars 1989 (BUDF8910007D)](decret-n89-148-du-6-mars-1989-budf8910007d)
+- [Décret n°89-150 du 6 mars 1989 (EXTX8910056D)](decret-n89-150-du-6-mars-1989-extx8910056d)
 - [Décret n°89-724 du 6 octobre 1989 (AGRA8901618D)](decret-n89-724-du-6-octobre-1989-agra8901618d)
 - [Décret n°89-76 du 6 février 1989 (INDA8800726D)](decret-n89-76-du-6-fevrier-1989-inda8800726d)
 - [Décret n°89-84 du 6 février 1989 (RESW8800895D)](decret-n89-84-du-6-fevrier-1989-resw8800895d)
