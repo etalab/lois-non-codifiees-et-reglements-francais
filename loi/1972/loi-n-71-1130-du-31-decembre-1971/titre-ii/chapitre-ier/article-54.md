@@ -4,7 +4,7 @@ Nul ne peut, directement ou par personne interposée, à titre habituel et rému
 
 1° S'il n'est titulaire d'une licence en droit ou d'un titre ou diplôme reconnu comme équivalent par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé des universités ;
 
-2° S'il a été l'auteur de faits ayant donné lieu à condamnation pénale pour agissements contraires à l'honneur, à la probité ou aux bonnes moeurs [*moralité*] ;
+2° S'il a été l'auteur de faits ayant donné lieu à condamnation pénale pour agissements contraires à l'honneur, à la probité ou aux bonnes moeurs ;
 
 3° S'il a été l'auteur de faits de même nature ayant donné lieu à une sanction disciplinaire ou administrative de destitution, radiation, révocation, de retrait d'agrément ou d'autorisation ;
 
@@ -14,4 +14,4 @@ Nul ne peut, directement ou par personne interposée, à titre habituel et rému
 
 Une personne morale dont l'un des dirigeants de droit ou de fait a fait l'objet d'une sanction visée au présent article peut être frappée de l'incapacité à exercer les activités visées au premier alinéa par décision du tribunal de grande instance de son siège social, à la requête du ministère public.
 
-La condition de diplôme ou de titre prévue au 1° entre en vigueur quatre ans après la date d'entrée en vigueur du titre Ier de la loi n° 90-1259 du 31 décembre 1990 portant réforme de cetaines professions judiciaires et juridiques [*1er janvier 1996*].
+La condition de diplôme ou de titre prévue au 1° entre en vigueur cinq ans après la date d'entrée en vigueur du titre Ier de la loi n° 90-1259 du 31 décembre 1990 portant réforme de cetaines professions judiciaires et juridiques.
