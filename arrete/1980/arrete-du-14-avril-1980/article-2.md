@@ -1,15 +1,3 @@
 # Article 2
 
-Les établissements recevant du public qui relèvent du ministère des affaires étrangères sont les suivants :
-
-Ministère des affaires étrangères, sis 37, quai d'Orsay, Paris (7e), et ses annexes sises :
-
-103, rue de l'Université, Paris (7e) ;
-
-23, rue La Pérouse, Paris (16e) ;
-
-34, rue La Pérouse, Paris (16e) ;
-
-19, avenue Kléber, Paris (16e) ;
-
-64, avenue Kléber, Paris (16e).
+Le directeur général des Impôts, le directeur général des Douanes et Droits indirects et le chef du service de la Législation fiscale sont chargés de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

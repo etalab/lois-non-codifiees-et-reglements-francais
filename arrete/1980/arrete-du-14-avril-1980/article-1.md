@@ -1,3 +1,9 @@
 # Article 1
 
-En application des dispositions des articles R. 123-15 et R. 123-16 susvisés du code de la construction et de l'habitation, les dispositions dudit code relatives à la sécurité contre l'incendie dans les immeubles recevant du public sont applicables aux bâtiments civils de l'Etat recevant du public qui relèvent du ministère des affaires étrangères, dans les conditions fixées dans le présent arrêté.
+Pour 1980, la base maximale imposable à la taxe sur la valeur ajoutée, en ce qui concerne les importations et les ventes d'équidés passibles de cette taxe, est fixée forfaitairement aux chiffres suivants :
+
+- 3.460 F par animal pour les équidés importés ou vendus dans l'année civile de leur naissance ;
+
+- 4.820 F par animal pour les équidés importés ou vendus dans l'année civile suivant celle de leur naissance ;
+
+- 6.660 F par animal pour les importations ou ventes d'autres équidés.
