@@ -5,4 +5,3 @@
 - [Chapitre III : Dispositions transitoires](chapitre-iii)
 - [Article 28](article-28.md)
 - [FORMALITES PREALABLES A LA MISE EN OEUVRE DES TRAITEMENTS AUTOMATISES D'INFORMATIONS NOMINATIVES](formalites-prealables-a)
-- [DISPOSITIONS TRANSITOIRES](dispositions-transitoires)
