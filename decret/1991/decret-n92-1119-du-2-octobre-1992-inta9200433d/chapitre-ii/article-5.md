@@ -1,0 +1,7 @@
+# Article 5
+
+Peuvent être inscrits au tableau d'avancement pour l'accès au grade de contremaître principal établi après avis de la commission administrative paritaire, les contremaîtres ayant atteint au moins le 6e échelon de leur grade et comptant au moins onze ans de services effectifs en qualité d'agent de l'Etat ou de fonctionnaire.
+
+Toutefois, par dérogation à l'alinéa précédent, peuvent être inscrits au tableau d'avancement pour l'accès au grade de contremaître principal, établi après avis de la commission administrative paritaire au titre des années 1991 et 1992 les contremaîtres comptant au moins trois ans de services effectifs en cette qualité.
+
+Les contremaîtres promus contremaîtres principaux sont classés à l'échelon de ce grade qui comporte un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur précédent grade. Ils conservent, dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon supérieur, l'ancienneté qu'ils avaient acquise dans leur ancien échelon lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancien grade. Les agents promus alors qu'ils avaient atteint l'échelon le plus élevé de leur précédent grade conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulte de leur avancement audit échelon.

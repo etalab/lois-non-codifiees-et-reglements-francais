@@ -4,27 +4,63 @@ CORPS DES INFIRMIERS
 
 Infirmier de classe normale :
 
-Echelon exceptionnel Indices bruts : 487
+Echelon exceptionnel(1) :
 
-6e échelon        Indices bruts : 460
+Situation antérieure Indice brut : 487
 
-5e échelon        Indices bruts : 425
+Au 1er août 1991 : Indice brut : 487
 
-au 1er août 1990 :
+Au 1er août 1992 : Indice brut : 487
 
-4e échelon        Indices bruts : 380
+6e échelon :
 
-au 1er août 1990 :
+Situation antérieure Indice brut : 460
 
-3e échelon        Indices bruts : 343
+Au 1er août 1991 : Indice brut : 460
 
-au 1er août 1990 :
+Au 1er août 1992 : Indice brut : 460
 
-2e échelon        Indices bruts : 311
+5e échelon :
 
-au 1er août 1990 :
+Situation antérieure Indice brut : 425
 
-1er échelon       Indices bruts : 286
+Au 1er août 1991 : Indice brut : 425
+
+Au 1er août 1992 : Indice brut : 425
+
+4e échelon :
+
+Situation antérieure Indice brut : 380
+
+Au 1er août 1991 : Indice brut : 382
+
+Au 1er août 1992 : Indice brut : 390
+
+3e échelon :
+
+Situation antérieure Indice brut : 343
+
+Au 1er août 1991 : Indice brut : 348
+
+Au 1er août 1992 : Indice brut : 356
+
+2e échelon :
+
+Situation antérieure Indice brut : 311
+
+Au 1er août 1991 : Indice brut : 317
+
+Au 1er août 1992 : Indice brut : 326
+
+1er échelon :
+
+Situation antérieure Indice brut : 286
+
+Au 1er août 1991 : Indice brut : 291
+
+Au 1er août 1992 : Indice brut : 301
+
+(1)Echelon accessible dans les conditions fixées à l'article 4-III du décret n° 88-1077 du 30 novembre 1988 susvisé.
 
 Infirmier de classe supérieure :
 
@@ -53,19 +89,3 @@ Infirmier, surveillant des services médicaux :
 2e échelon        Indices bruts : 423
 
 1er échelon       Indices bruts : 384
-
-Infirmier, surveillant chef des services médicaux :
-
-7e échelon        Indices bruts : 619
-
-6e échelon        Indices bruts : 586
-
-5e échelon        Indices bruts : 552
-
-4e échelon        Indices bruts : 518
-
-3e échelon        Indices bruts : 489
-
-2e échelon        Indices bruts : 462
-
-1er échelon       Indices bruts : 431

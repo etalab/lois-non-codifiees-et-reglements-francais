@@ -11,45 +11,105 @@ Pédicure-podologue de classe normale
 <td> :Echelons : Indices bruts:</td>
 </tr>
 <tr>
-<td> :7e       :     487       :</td>
-</tr>
-<tr>
-<td> :6e       :     460       :</td>
-</tr>
-<tr>
-<td> :5e       :     425       :</td>
+<td> :7e       :</td>
 </tr>
 <tr>
 <td>
-<br/>   au 1er août 1990 :</td>
-</tr>
-<tr>
-<td> :4e       :     380       :</td>
+<br/> Situation antérieure : 487</td>
 </tr>
 <tr>
 <td>
-<br/>   au 1er août 1990 :</td>
-</tr>
-<tr>
-<td> :3e       :     343       :</td>
+<br/> Au 1er août 1991 : 487</td>
 </tr>
 <tr>
 <td>
-<br/>   au 1er août 1990 :</td>
+<br/> Au 1er août 1991 : 487</td>
 </tr>
 <tr>
-<td> :2e       :     311       :</td>
+<td> :6e       :</td>
 </tr>
 <tr>
 <td>
-<br/>   au 1er août 1990 :</td>
+<br/> Situation antérieure : 460</td>
 </tr>
 <tr>
-<td> :1er      :     286       :</td>
+<td>
+<br/> Au 1er août 1991 : 460</td>
+</tr>
+<tr>
+<td>
+<br/> Au 1er août 1991 : 460</td>
+</tr>
+<tr>
+<td> :5e       :</td>
+</tr>
+<tr>
+<td>
+<br/> Situation antérieure : 425</td>
+</tr>
+<tr>
+<td>
+<br/> Au 1er août 1991 : 425</td>
+</tr>
+<tr>
+<td>
+<br/> Au 1er août 1991 : 425</td>
+</tr>
+<tr>
+<td> :4e       :</td>
+</tr>
+<tr>
+<td>
+<br/> Situation antérieure : 380</td>
+</tr>
+<tr>
+<td>
+<br/> Au 1er août 1991 : 382</td>
+</tr>
+<tr>
+<td>
+<br/> Au 1er août 1991 : 390</td>
+</tr>
+<tr>
+<td> :3e       :</td>
+</tr>
+<tr>
+<td>
+<br/> Situation antérieure : 343</td>
+</tr>
+<tr>
+<td>
+<br/> Au 1er août 1991 : 348</td>
+</tr>
+<tr>
+<td>
+<br/> Au 1er août 1991 : 356</td>
+</tr>
+<tr>
+<td> :2e       :</td>
+</tr>
+<tr>
+<td>
+<br/> Situation antérieure : 311</td>
+</tr>
+<tr>
+<td>
+<br/> Au 1er août 1991 : 317</td>
+</tr>
+<tr>
+<td>
+<br/> Au 1er août 1991 : 326</td>
+</tr>
+<tr>
+<td> :1er      :</td>
 </tr>
 </table>
 
-===========================Pédicure-podologue de classe supérieure
+Situation antérieure : 286
+
+Au 1er août 1991 : 291
+
+Au 1er août 1991 : 301 ===========================Pédicure-podologue de classe supérieure
 
 ==========================
 
@@ -102,37 +162,6 @@ Pédicure-podologue de classe normale
 </tr>
 <tr>
 <td> :1er      :     384       :</td>
-</tr>
-</table>
-
-===========================Pédicure-podologue surveillant-chef des services médicaux
-
-==========================
-
-<table>
-<tr>
-<td> :Echelons : Indices bruts:</td>
-</tr>
-<tr>
-<td> :7e       :     619       :</td>
-</tr>
-<tr>
-<td> :6e       :     586       :</td>
-</tr>
-<tr>
-<td> :5e       :     552       :</td>
-</tr>
-<tr>
-<td> :4e       :     518       :</td>
-</tr>
-<tr>
-<td> :3e       :     489       :</td>
-</tr>
-<tr>
-<td> :2e       :     462       :</td>
-</tr>
-<tr>
-<td> :1er      :     431       :</td>
 </tr>
 </table>
 

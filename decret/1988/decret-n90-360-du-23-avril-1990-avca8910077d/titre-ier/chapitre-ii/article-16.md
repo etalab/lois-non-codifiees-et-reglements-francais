@@ -25,5 +25,3 @@ B. - Infirmier de la branche Anesthésie-réanimation
 Classe normale - surveillant des services médicaux.
 
 7e échelon - 5e échelon - Ancienneté conservée dans la limite de deux ans et demi.
-
-3. Les surveillants des services médicaux promus au grade de surveillant-chef sont classés dans ce grade à l'échelon correspondant à celui dont ils bénéficiaient dans leur ancien grade, avec conservation de l'ancienneté acquise.

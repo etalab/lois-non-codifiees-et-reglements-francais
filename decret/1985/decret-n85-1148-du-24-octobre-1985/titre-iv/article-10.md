@@ -8,9 +8,9 @@ Pour les personnels rémunérés par un traitement indiciaire établi en applica
 
 l'indice majoré 382 (indice brut 446) perçoivent le supplément familial de traitement afférent à cet indice.
 
-Les pourcentages fixés pour l'élément proportionnel s'appliquent à la fraction du traitement assujetti à retenue pour pension n'excédant pas le traitement afférent à l'indice majoré 716 (indice brut 884).
+Les pourcentages fixés pour l'élément proportionnel s'appliquent à la fraction du traitement assujetti à retenue pour pension n'excédant pas le traitement afférent à l'indice majoré 716 (indice brut 882).
 
-Les agents dont l'indice de rémunération est inférieur ou égal à l'indice majoré 444 (indice brut 524) perçoivent le supplément familial de traitement afférent à cet indice.
+Les agents dont l'indice de rémunération est inférieur ou égal à l'indice majoré 446 (indice brut 524) perçoivent le supplément familial de traitement afférent à cet indice.
 
 Pour les personnels non rémunérés par un traitement établi en application de l'article 2 précité, l'élément proportionnel est calculé en pourcentage du traitement afférent à l'indice majoré 444 (indice brut 524).
 

@@ -1,0 +1,5 @@
+# Article 8
+
+Une contribution exceptionnelle égale à 0,6 p. 100 du chiffre d'affaires réalisé en France en 1990, au titre des spécialités inscrites sur les listes mentionnées à l'article L. 162-17 du code de la sécurité sociale, est due par les établissements de vente en gros de spécialités pharmaceutiques remboursables. La remise due par chaque établissement est versée à l'Union pour le recouvrement des cotisations de sécurité sociale et d'allocations familiales (U.R.S.S.A.F.) dont relève son siège avant le 1er décembre 1991. La contribution est recouvrée comme une cotisation de sécurité sociale. Son produit est réparti entre les régimes d'assurance maladie, suivant une clé de répartition fixée par arrêté interministériel.
+
+Pour la période du 1er juillet au 31 décembre 1991, les remises, ristournes et avantages commerciaux de toute nature consentis par tous les fournisseurs d'officine de spécialités pharmaceutiques remboursables ne peuvent excéder par mois et par ligne de produit 2,25 p. 100 du prix de ces spécialités.

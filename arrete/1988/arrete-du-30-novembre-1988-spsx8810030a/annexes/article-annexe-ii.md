@@ -6,29 +6,63 @@ CORPS DES PUERICULTRICES
 
 Infirmier de salle d'opération de classe normale ou puéricultrice de classe normale :
 
-8e échelon        Indices bruts : 493
+8e échelon :
 
-7e échelon        Indices bruts : 487
+Situation antérieure Indice brut : 493
 
-6e échelon        Indices bruts : 460
+Au 1er août 1991 Indice brut : 493
 
-5e échelon        Indices bruts : 425
+Au 1er août 1992 Indice brut : 493
 
-au 1er août 1990 :
+7e échelon :
 
-4e échelon        Indices bruts : 380
+Situation antérieure Indice brut : 487
 
-au 1er août 1990 :
+Au 1er août 1991 Indice brut : 487
 
-3e échelon        Indices bruts : 343
+Au 1er août 1992 Indice brut : 487
 
-au 1er août 1990 :
+6e échelon :
 
-2e échelon        Indices bruts : 311
+Situation antérieure Indice brut : 460
 
-au 1er août 1990 :
+Au 1er août 1991 Indice brut : 460
 
-1er échelon       Indices bruts : 286
+Au 1er août 1992 Indice brut : 460
+
+5e échelon :
+
+Situation antérieure Indice brut : 380
+
+Au 1er août 1991 Indice brut : 382
+
+Au 1er août 1992 Indice brut : 390
+
+4e échelon :
+
+Situation antérieure Indice brut : 343
+
+Au 1er août 1991 Indice brut : 348
+
+Au 1er août 1992 Indice brut : 356
+
+3e échelon :
+
+Situation antérieure Indice brut : 311
+
+Au 1er août 1991 Indice brut : 317
+
+Au 1er août 1992 Indice brut : 326
+
+2e échelon :
+
+1er échelon :
+
+Situation antérieure Indice brut : 286
+
+Au 1er août 1991 Indice brut : 291
+
+Au 1er août 1992 Indice brut : 301
 
 Infirmier de salle d'opération de classe supérieure ou puéricultrice de classe supérieure :
 
@@ -57,19 +91,3 @@ Infirmier de salle d'opération, surveillant des services médicaux ou puéricul
 2e échelon        Indices bruts : 423
 
 1er échelon       Indices bruts : 384.
-
-Infirmier de salle d'opération, surveillant chef des services médicaux ou puéricultrice, surveillante chef des services médicaux :
-
-7e échelon        Indices bruts : 619
-
-6e échelon        Indices bruts : 586
-
-5e échelon        Indices bruts : 552
-
-4e échelon        Indices bruts : 518
-
-3e échelon        Indices bruts : 489
-
-2e échelon        Indices bruts : 462
-
-1er échelon       Indices bruts : 431.

@@ -1,3 +1,3 @@
 # Article 20
 
-Le corps des manipulateurs d'électroradiologie médicale comprend [*composition*] le grade de manipulateur d'électroradiologie médicale de classe normale comptant sept échelons et un échelon exceptionnel, le grade de manipulateur d'électroradiologie médicale de classe supérieure comptant cinq échelons, le grade de manipulateur d'électroradiologie médicale surveillant comptant sept échelons et le grade de manipulateur d'électroradiologie médicale surveillant-chef comptant également sept échelons.
+Le corps des manipulateurs d'électroradiologie médicale comprend le grade de manipulateur d'électrocardiologie médicale de classe normale comptant sept échelons et un échelon exceptionnel, le grade d manipulateur d'électrocardiologie médicale de classe supérieure comptant cinq échelons et le grade de manipulateur d'électrocardiologie médicale surveillant comptant sept échelons.

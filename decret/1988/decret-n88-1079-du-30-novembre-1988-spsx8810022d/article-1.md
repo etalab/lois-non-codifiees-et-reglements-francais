@@ -6,8 +6,10 @@ Indices bruts :
 
 Classe normale : 286 - 460 (487) ;
 
+au 1er août 1991 : 291-460 (487) ;
+
+au 1er août 1992 : 301-460 (487),
+
 Classe supérieure : 418 - 533 ;
 
 Infirmier, surveillant des services médicaux : 384 - 579.
-
-Infirmier, surveillant chef des services médicaux : 431 - 619.

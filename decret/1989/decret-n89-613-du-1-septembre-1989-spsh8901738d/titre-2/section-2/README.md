@@ -1,4 +1,4 @@
-# Section 2 : Dispositions relatives aux techniciens de laboratoire et manipulateurs d'electroradiologie medicale surveillants et surveillants-chefs.
+# Section 2 : Dispositions relatives aux techniciens de laboratoire et aux manipulateurs d'électroradiologie médicale surveillants.
 
 - [Article 29](article-29.md)
 - [Article 30](article-30.md)

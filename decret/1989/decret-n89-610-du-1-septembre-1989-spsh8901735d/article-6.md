@@ -6,8 +6,10 @@ Indices bruts :
 
 Classe normale : 286-487 ;
 
+au 1er août 1991 : 291-487,
+
+au 1er août 1992 : 301-487,
+
 Classe supérieure : 418-533 ;
 
 Orthoptistes, surveillants des services médicaux : 384-579 ;
-
-Orthoptistes, surveillants-chefs des services médicaux : 431-619.

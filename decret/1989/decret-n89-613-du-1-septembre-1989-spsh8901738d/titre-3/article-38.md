@@ -33,5 +33,3 @@ Technicien + : 5e échelon
 Ancienneté conservée dans la limite de 2 ans et demi.
 
 + :Technicien de laboratoire surveillant, manipulateur d'électroradiologie médicale surveillant
-
-3° Les techniciens de laboratoire surveillants et les manipulateurs d'électroradiologie médicale surveillants promus au grade de surveillant-chef sont classés dans ce grade à l'échelon correspondant à celui dont ils bénéficiaient dans leur ancien grade, avec conservation de l'ancienneté acquise.

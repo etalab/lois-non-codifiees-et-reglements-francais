@@ -27,3 +27,5 @@ Les fonctionnaires titulaires et stagiaires énumérés ci-après, en activité 
 12° Directeurs des centres de formation d'infirmiers de secteur psychiatrique ;
 
 13° Sages-femmes et sages-femmes surveillantes chefs.
+
+14° Fonctionnaires et stagiaires nommés dans l'un des corps régis par le décret du 18 décembre 1991 susvisé.

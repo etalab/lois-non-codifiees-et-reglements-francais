@@ -31,5 +31,3 @@ CLASSE NORMALE : 7e échelon
 Surveillant des services médicaux : 5e échelon
 
 Ancienneté conservée dans la limite de deux ans et demi.
-
-3° Dans chacun des corps faisant l'objet du titre Ier, les surveillants des services médicaux promus au grade de surveillant-chef sont classés dans ce grade à l'échelon correspondant à celui dont ils bénéficiaient dans leur ancien grade, avec conservation de l'ancienneté acquise.

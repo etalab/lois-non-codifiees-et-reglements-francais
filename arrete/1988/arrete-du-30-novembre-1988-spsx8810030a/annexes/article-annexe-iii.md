@@ -4,29 +4,69 @@ CORPS DES INFIRMIERS SPECIALISES EN ANESTHESIE-REANIMATION
 
 Infirmier spécialisé en anesthésie-réanimation de classe normale :
 
-8e échelon        Indices bruts : 507
+8e échelon :
 
-7e échelon        Indices bruts : 487
+Situation antérieure Indice brut : 507
 
-6e échelon        Indices bruts : 460
+Au 1er août 1991 Indice brut : 507
 
-5e échelon        Indices bruts : 425
+Au 1er août 1992 Indice brut : 507
 
-au 1er août 1990 :
+7e échelon :
 
-4e échelon        Indices bruts : 380
+Situation antérieure Indice brut : 487
 
-au 1er août 1990 :
+Au 1er août 1991 Indice brut : 487
 
-3e échelon        Indices bruts : 343
+Au 1er août 1992 Indice brut : 487
 
-au 1er août 1990 :
+6e échelon :
 
-2e échelon        Indices bruts : 311
+Situation antérieure Indice brut : 460
 
-au 1er août 1990 :
+Au 1er août 1991 Indice brut : 460
 
-1er échelon       Indices bruts : 286
+Au 1er août 1992 Indice brut : 460
+
+5e échelon :
+
+Situation antérieure Indice brut : 425
+
+Au 1er août 1991 Indice brut : 425
+
+Au 1er août 1992 Indice brut : 425
+
+4e échelon :
+
+Situation antérieure Indice brut : 380
+
+Au 1er août 1991 Indice brut : 382
+
+Au 1er août 1992 Indice brut : 390
+
+3e échelon :
+
+Situation antérieure Indice brut : 343
+
+Au 1er août 1991 Indice brut : 348
+
+Au 1er août 1992 Indice brut : 356
+
+2e échelon :
+
+Situation antérieure Indice brut : 311
+
+Au 1er août 1991 Indice brut : 317
+
+Au 1er août 1992 Indice brut : 326
+
+1er échelon :
+
+Situation antérieure Indice brut : 286
+
+Au 1er août 1991 Indice brut : 291
+
+Au 1er août 1992 Indice brut : 301
 
 Infirmier spécialisé en anesthésie-réanimation de classe supérieure :
 
@@ -55,19 +95,3 @@ Infirmier spécialisé en anesthésie-réanimation, surveillant des services mé
 2e échelon        Indices bruts : 423
 
 1er échelon       Indices bruts : 384.
-
-Infirmier spécialisé en anesthésie-réanimation, surveillant chef des services médicaux :
-
-7e échelon        Indices bruts : 619
-
-6e échelon        Indices bruts : 586
-
-5e échelon        Indices bruts : 552
-
-4e échelon        Indices bruts : 518
-
-3e échelon        Indices bruts : 489
-
-2e échelon        Indices bruts : 462
-
-1er échelon       Indices bruts : 431.
