@@ -1,3 +1,11 @@
 # Article 3
 
-Sont destinataires des informations les personnels de l'E.N.I.T.I.A.A. ayant pour mission d'assurer les diffusions visées à l'article 1er.
+Les destinataires ou catégories de destinataires de ces informations sont :
+
+- le directeur de l'établissement ;
+
+- l'adjoint du directeur de l'établissement ;
+
+- le service du personnel ;
+
+- le service d'affectation dans l'établissement.

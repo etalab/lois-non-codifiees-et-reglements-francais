@@ -1,4 +1,4 @@
-# Arrêté du 22 décembre 1986 relatif à la création à l'Ecole nationale d'ingénieurs des techniques des industries agricoles et alimentaires d'un traitement automatisé de gestion d'adresses
+# Arrêté du 22 décembre 1986 portant création d'un traitement automatisé d'informations nominatives
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
