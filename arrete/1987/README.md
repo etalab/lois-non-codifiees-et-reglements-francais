@@ -322,7 +322,6 @@
 - [Arrêté du 17 février 1987 (ECOC8700013A)](arrete-du-17-fevrier-1987-ecoc8700013a)
 - [Arrêté du 17 juillet 1987 (BUDL8700051A)](arrete-du-17-juillet-1987-budl8700051a)
 - [Arrêté du 17 juillet 1987 (BUDR8703095A)](arrete-du-17-juillet-1987-budr8703095a)
-- [Arrêté du 17 juillet 1987 (ECOT8720026A)](arrete-du-17-juillet-1987-ecot8720026a)
 - [Arrêté du 17 juillet 1987 (MENL8700441A)](arrete-du-17-juillet-1987-menl8700441a)
 - [Arrêté du 17 juillet 1987 (RESP8700449A)](arrete-du-17-juillet-1987-resp8700449a)
 - [Arrêté du 17 juin 1987 (ASEE8703451A)](arrete-du-17-juin-1987-asee8703451a)
