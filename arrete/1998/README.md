@@ -421,7 +421,6 @@
 - [Arrêté du 13 mars 1998 (PRMX9802731A)](arrete-du-13-mars-1998-prmx9802731a)
 - [Arrêté du 13 mars 1998 (PRMX9802732A)](arrete-du-13-mars-1998-prmx9802732a)
 - [Arrêté du 13 mars 1998 (PRMX9802734A)](arrete-du-13-mars-1998-prmx9802734a)
-- [Arrêté du 13 novembre 1998 (MESS9823519A)](arrete-du-13-novembre-1998-mess9823519a)
 - [Arrêté du 13 octobre 1998 (AGRG9801958A)](arrete-du-13-octobre-1998-agrg9801958a)
 - [Arrêté du 13 octobre 1998 (EQUI9800827A)](arrete-du-13-octobre-1998-equi9800827a)
 - [Arrêté du 13 octobre 1998 (MESP9823287A)](arrete-du-13-octobre-1998-mesp9823287a)

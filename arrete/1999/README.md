@@ -264,7 +264,6 @@
 - [Arrêté du 11 octobre 1999 (AGRG9902110A)](arrete-du-11-octobre-1999-agrg9902110a)
 - [Arrêté du 11 mai 1999 (AGRG9900972A)](arrete-du-11-mai-1999-agrg9900972a)
 - [Arrêté du 11 mai 1999 (MESA9920721A)](arrete-du-11-mai-1999-mesa9920721a)
-- [Arrêté du 12 août 1999 (MESS9922505A)](arrete-du-12-aout-1999-mess9922505a)
 - [Arrêté du 12 août 1999 (MESS9922506A)](arrete-du-12-aout-1999-mess9922506a)
 - [Arrêté du 12 avril 1999 (EQUA9900752A)](arrete-du-12-avril-1999-equa9900752a)
 - [Arrêté du 12 avril 1999 (EQUA9900753A)](arrete-du-12-avril-1999-equa9900753a)

@@ -1,3 +1,0 @@
-# Article 7
-
-Sauf lorsqu'en application de l'article L. 151-37 du code rural, le caractère d'intérêt général ou d'urgence et, s'il y a lieu, la déclaration d'utilité publique sont prononcés par décret en Conseil d'Etat, un arrêté du préfet ou un arrêté conjoint des préfets lorsque les travaux, ouvrages ou installations s'étendent sur plus d'un département statue sur le caractère d'intérêt général ou d'urgence de l'opération et, s'il y a lieu, prononce la déclaration d'utilité publique et accorde l'autorisation prévue à l'article 10 de la loi du 3 janvier 1992 susvisée ainsi que toute autre autorisation relevant de la compétence du préfet.

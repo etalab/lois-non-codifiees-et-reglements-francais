@@ -24,7 +24,5 @@
 - [Article 167](article-167.md)
 - [Article 168](article-168.md)
 - [Article 169](article-169.md)
-- [d) Options de souscription ou d'achat d'actions.](d)
 - [a) Dispositions applicables aux catégories de titres en voie d'extinction.](a)
 - [b) Options de souscription ou d'achat d'actions.](b)
-- [e) Emission et achat en bourse d'actions réservées aux salariés.](e)
