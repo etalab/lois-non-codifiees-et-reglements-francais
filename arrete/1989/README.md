@@ -1,5 +1,6 @@
 # 1989
 
+- [Arrêté du 1 août 1989 (MERR8900159A)](arrete-du-1-aout-1989-merr8900159a)
 - [Arrêté du 1 avril 1989 (TEFT8903311A)](arrete-du-1-avril-1989-teft8903311a)
 - [Arrêté du 1 avril 1989 (TEFT8903327A)](arrete-du-1-avril-1989-teft8903327a)
 - [Arrêté du 1 février 1989 (BUDR8905008A)](arrete-du-1-fevrier-1989-budr8905008a)
@@ -156,6 +157,8 @@
 - [Arrêté du 11 janvier 1989 (JUSA8900001A)](arrete-du-11-janvier-1989-jusa8900001a)
 - [Arrêté du 11 juillet 1989 (ECOT8910051A)](arrete-du-11-juillet-1989-ecot8910051a)
 - [Arrêté du 11 juillet 1989 (ECOT8910052A)](arrete-du-11-juillet-1989-ecot8910052a)
+- [Arrêté du 11 juillet 1989 (EQUT8900688A)](arrete-du-11-juillet-1989-equt8900688a)
+- [Arrêté du 11 juillet 1989 (EQUT8900689A)](arrete-du-11-juillet-1989-equt8900689a)
 - [Arrêté du 11 juillet 1989 (PTTT8900666A)](arrete-du-11-juillet-1989-pttt8900666a)
 - [Arrêté du 11 juillet 1989 (SPSP8901504A)](arrete-du-11-juillet-1989-spsp8901504a)
 - [Arrêté du 11 mai 1989 (AGRG8900849A)](arrete-du-11-mai-1989-agrg8900849a)
@@ -363,6 +366,7 @@
 - [Arrêté du 26 décembre 1988 (SPSS8801841A)](arrete-du-26-decembre-1988-spss8801841a)
 - [Arrêté du 26 janvier 1989 (BUDB8960002A)](arrete-du-26-janvier-1989-budb8960002a)
 - [Arrêté du 26 janvier 1989 (MERE8900017A)](arrete-du-26-janvier-1989-mere8900017a)
+- [Arrêté du 26 juillet 1989 (INTB8900363A)](arrete-du-26-juillet-1989-intb8900363a)
 - [Arrêté du 26 juin 1989 (COMK8907003A)](arrete-du-26-juin-1989-comk8907003a)
 - [Arrêté du 26 juin 1989 (INTD8900320A)](arrete-du-26-juin-1989-intd8900320a)
 - [Arrêté du 26 octobre 1990 (SPSH9002063A)](arrete-du-26-octobre-1990-spsh9002063a)
@@ -442,6 +446,7 @@
 - [Arrêté du 31 janvier 1989 (TEFT8903125A)](arrete-du-31-janvier-1989-teft8903125a)
 - [Arrêté du 31 juillet 1989 (ECOT8926027A)](arrete-du-31-juillet-1989-ecot8926027a)
 - [Arrêté du 31 juillet 1989 (ECOT8926028A)](arrete-du-31-juillet-1989-ecot8926028a)
+- [Arrêté du 31 juillet 1989 (PRME8961362A)](arrete-du-31-juillet-1989-prme8961362a)
 - [Arrêté du 31 mars 1989 (ECOT8916068A)](arrete-du-31-mars-1989-ecot8916068a)
 - [Arrêté du 31 mars 1989 (EQUS8900310A)](arrete-du-31-mars-1989-equs8900310a)
 - [Arrêté du 31 mars 1989 (PTTT8900299A)](arrete-du-31-mars-1989-pttt8900299a)

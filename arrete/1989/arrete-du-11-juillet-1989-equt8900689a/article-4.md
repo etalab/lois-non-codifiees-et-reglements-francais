@@ -1,0 +1,3 @@
+# Article 4
+
+Par dérogation aux dispositions de l'article 2 de l'arrêté du 20 décembre 1978 modifié susvisé, les mesures prévues aux alinéas 2 et 4 de l'article 3 ci-dessus sont réservées aux patrons bateliers de moins de soixante-cinq ans inscrits au registre des patrons et compagnons bateliers tenu par la Chambre nationale de la batellerie artisanale. Une société peut toutefois également en bénéficier si elle est effectivement dirigée par une personne de moins de cinquante-cinq ans détentrice de plus de 50 p. 100 du capital et si elle et l'ensemble des sociétés mères ou filiales alliées possèdent une flotte n'excédant ni 20 000 tonnes de capacité, ni 6 500 CV de puissance.

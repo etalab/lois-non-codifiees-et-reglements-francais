@@ -1,3 +1,4 @@
 # SECTION 1 : DES ETRANGERS TITULAIRES DE LA CARTE DE SEJOUR TEMPORAIRE.
 
 - [Article 12](article-12.md)
+- [Article 12 bis](article-12-bis.md)
