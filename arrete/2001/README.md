@@ -106,6 +106,7 @@
 - [Arrêté du 22 janvier 2001 (ECOP0100044A)](arrete-du-22-janvier-2001-ecop0100044a)
 - [Arrêté du 22 novembre 2000 (ATEN0090417A)](arrete-du-22-novembre-2000-aten0090417a)
 - [Arrêté du 23 février 2001 (AGRA0100408A)](arrete-du-23-fevrier-2001-agra0100408a)
+- [Arrêté du 23 janvier 2001 (DEFP0101111A)](arrete-du-23-janvier-2001-defp0101111a)
 - [Arrêté du 23 janvier 2001 (MENS0100117A)](arrete-du-23-janvier-2001-mens0100117a)
 - [Arrêté du 23 mai 2000 (INTE0000312A)](arrete-du-23-mai-2000-inte0000312a)
 - [Arrêté du 24 janvier 2001 (ATEP0100044A)](arrete-du-24-janvier-2001-atep0100044a)
