@@ -1,3 +1,0 @@
-# Décret n°59-139 du 7 janvier 1959 RELATIF A DIVERSES DISPOSITIONS INTERESSANT LA SECURITE SOCIALE
-
-- [Article 6](article-6.md)

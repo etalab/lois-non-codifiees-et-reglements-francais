@@ -1,3 +1,0 @@
-# Article 32
-
-Le ministre de la construction, le ministre d'Etat, le garde des sceaux, ministre de la justice, le ministre de l'intérieur, le ministre des armées, le ministre des finances et des affaires économiques, le ministre de l'éducation nationale, le ministre des travaux publics et des transports, le ministre de l'industrie et du commerce, le ministre de l'agriculture, le ministre des postes, télégraphes et téléphones et le secrétaire d'Etat aux finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

@@ -1,3 +1,0 @@
-# ENGAGEMENT ET LIQUIDATION DES DEPENSES.
-
-- [Article 14](article-14.md)

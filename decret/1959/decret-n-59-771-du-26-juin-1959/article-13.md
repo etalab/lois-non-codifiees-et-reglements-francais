@@ -1,3 +1,0 @@
-# Article 13
-
-Les approbations prévues à l'article précédent rendent définitivement valables vis-à-vis de la société ou des tiers les engagements de souscription ou d'acquisition pris au nom de la collectivité ou de l'établissement public, ceux-ci se trouvant dès lors tenus des mêmes obligations qu'un souscripteur ou un acquéreur ordinaire. Le respect des engagements pris par les départements et les communes est assuré, le cas échéant, par la procédure d'inscription d'office instituée, pour l'acquittement de dettes exigibles, par l'article 62 de la loi du 10 août 1871 et l'article 179 du code de l'administration communale.
