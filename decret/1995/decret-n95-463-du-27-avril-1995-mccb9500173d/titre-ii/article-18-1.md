@@ -15,3 +15,5 @@ Le président de l'Etablissement public du musée et du domaine national de Vers
 6° Il gère le personnel. Il recrute les personnels contractuels. Il donne son avis sur l'affectation des personnels titulaires à l'établissement, sauf lorsque l'affectation est consécutive à un concours. Il affecte les personnels dans les différents services de l'établissement, après consultation du directeur général ;
 
 7° Il préside le comité technique paritaire et le comité d'hygiène et de sécurité.
+
+Il peut déléguer sa signature au directeur général, au secrétaire général et aux responsables des services de l'établissement.

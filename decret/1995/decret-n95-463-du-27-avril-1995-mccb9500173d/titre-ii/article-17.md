@@ -24,10 +24,12 @@ Notamment :
 
 10° Il approuve les prises, extensions et cessions de participation et les créations de filiales ;
 
-11° Il détermine les catégories de contrats et conventions qui, en raison de leur nature ou du montant financier engagé, doivent lui être soumis pour approbation et celles dont il délègue la responsabilité au directeur général ;
+11° Il détermine les catégories de contrats et conventions qui, en raison de leur nature ou du montant financier engagé, doivent lui être soumis pour approbation et celles dont il délègue la responsabilité au président ;
 
 12° Il délibère sur les projets d'achats d'immeubles, de prise de bail, de ventes et de baux d'immeubles ;
 
 13° Il délibère sur les conditions générales dans lesquelles les espaces du musée ou de son domaine sont occupés par des organismes extérieurs pour des manifestations exceptionnelles ;
 
-14° Il donne son avis sur le règlement intérieur de l'établissement et le règlement de visite du musée et du domaine.
+14° Il donne son avis sur le règlement intérieur de l'établissement et le règlement de visite du musée et du domaine ;
+
+15° Il autorise l'exercice des actions en justice et les transactions. Il peut, dans les conditions qu'il détermine, déléguer ces attributions au président.
