@@ -20,8 +20,6 @@ Chef de l'arrondissement Ouest de la Moselle ;
 
 Chef de la mission interservices de l'eau et du service eau et équipement des collectivités de la Charente ;
 
-Chef du service de l'eau et de l'environnement d'Ille-et-Vilaine ;
-
 Chef du service équipements publics et de la mission inter-services de l'eau du Puy-de-Dôme ;
 
 Chef de la mission interservices de l'eau de Tarn-et-Garonne ;
@@ -61,3 +59,5 @@ Adjoint au directeur des services agricoles de la collectivité territoriale de 
 Directeur du haras de Villeneuve-sur-Lot ;
 
 Directeur du centre de formation des personnels du ministère de l'agriculture, à Nancy.
+
+Responsable de la délégation générale aux missions d'ingénierie publique.
