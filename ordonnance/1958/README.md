@@ -36,6 +36,5 @@
 - [Ordonnance n° 58-1036 du 29 octobre 1958](ordonnance-n-58-1036-du-29-octobre-1958)
 - [Ordonnance n° 58-1360 du 29 décembre 1958](ordonnance-n-58-1360-du-29-decembre-1958)
 - [Ordonnance n°58-1371 du 29 décembre 1958](ordonnance-n58-1371-du-29-decembre-1958)
-- [Ordonnance n°58-1372 du 29 décembre 1958](ordonnance-n58-1372-du-29-decembre-1958)
 - [Ordonnance n° 58-1374 du 30 décembre 1958](ordonnance-n-58-1374-du-30-decembre-1958)
 - [Ordonnance n°58-1373 du 30 décembre 1958](ordonnance-n58-1373-du-30-decembre-1958)

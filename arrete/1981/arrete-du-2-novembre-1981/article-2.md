@@ -1,5 +1,0 @@
-# Article 2
-
-Les emprunts émis avec le concours de la caisse d'aide à l'équipement des collectivités locales par les départements, communes et leurs groupements, territoires d'outre-mer, régions, chambres de commerce et d'industrie, chambres de métiers, ports autonomes, établissements publics gestionnaires d'aéroports et organismes bénéficiant de la garantie de ces collectivités ou établissements dans les conditions prévues par les articles L. 236-10 à L. 236-12 et R. 236-10 à 236-47 du code des communes seront représentés par des obligations d'une valeur nominale de 2.000 F dénommées Obligations Villes de France série A 17 p. 100 février 1982 et série B 17,40 p. 100 février 1982.
-
-L'émission des deux séries A et B est liée. La souscription de deux titres de série A représentés par deux obligations d'une valeur nominale de 2.000 F chacune au taux de 17 p. 100 implique la souscription d'un titre de série B représenté par une obligation d'une valeur nominale de 2.000 F au taux de 17,40 p. 100, le minimum de chaque souscription étant de 6.000 F nominal.
