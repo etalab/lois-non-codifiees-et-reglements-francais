@@ -1,0 +1,3 @@
+# Article 1
+
+Le label "Vin délimité de qualité supérieure" est délivré sur la demande des viticulteurs, coopératives ou acheteurs de vendanges par le syndicat de défense de l'appellation aux vins répondant aux conditions fixées par les arrêtés pris par le ministre d'Etat, ministre de l'économie, des finances et du budget, et le ministre de l'agriculture et de la forêt, en application de la loi du 18 décembre 1949, modifiée par les décrets n° 55-671 du 20 mai 1955 et n° 60-1284 du 30 novembre 1960 modifié, relative à la reconnaissance officielle dans le statut viticole des vins délimités de qualité supérieure.
