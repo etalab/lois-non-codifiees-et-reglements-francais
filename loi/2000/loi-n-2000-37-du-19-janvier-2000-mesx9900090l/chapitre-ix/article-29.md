@@ -1,0 +1,3 @@
+# Article 29
+
+Sous réserve des décisions de justice passées en force de chose jugée, sont validés les versements effectués au titre de la rémunération des périodes de permanence nocturne, comportant des temps d'inaction, effectuées sur le lieu de travail en chambre de veille par le personnel en application des clauses des conventions collectives nationales et accords collectifs nationaux de travail agréés en vertu de l'article 16 de la loi n° 75-535 relative aux institutions sociales et médico-sociales, en tant que leur montant serait contesté par le moyen tiré de l'abscence de validité desdites clauses.

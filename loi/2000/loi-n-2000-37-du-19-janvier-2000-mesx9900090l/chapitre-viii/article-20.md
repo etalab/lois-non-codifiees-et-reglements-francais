@@ -1,0 +1,13 @@
+# Article 20
+
+I. - Afin de favoriser la création d'entreprises prenant des engagements spécifiques en matière de durée du travail et de rémunération, les entreprises visées à l'article L. 241-13-1 du code de la sécurité sociale, créées postérieurement à l'entrée en vigueur de la présente loi dont la durée collective de travail est fixée soit à trente-cinq heures hebdomadaires, soit à 1 600 heures sur l'année, bénéficient dans les conditions prévues au présent article de l'aide visée à l'article 3 de la loi n° 98-461 du 13 juin 1998 précitée dès lors qu'elles versent à leurs salariés à temps complet un salaire mensuel au moins égal à 169 fois le salaire minimum de croissance en vigueur à la date de la première embauche.
+
+La durée collective du travail applicable et la rémunération minimale définies au premier alinéa doivent être fixées soit par un accord collectif conclu dans les conditions définies au II de l'article 19, soit en vertu des dispositions du VIII du même article ou, à défaut, être mentionnées dans le contrat de travail des salariés concernés. Dans ce dernier cas, le maintien de l'aide visée à l'alinéa précédent est subordonné au respect, au plus tard à l'expiration d'une période de deux années à compter de la première embauche, des conditions définies au II à VIII de l'article 19.
+
+La rémunération minimale visée au premier alinéa est revalorisée au 1er juillet en fonction de l'évolution de l'indice des prix à la consommation mentionné à l'article L. 141-3 du code du travail et de la moitié de l'augmentation du pouvoir d'achat du salaire mensuel de base ouvrier enregistré par l'enquête trimestrielle du ministère du travail. Le taux de la revalorisation est fixé par arrêté. La rémunération minimale applicable pour les durées collectives inférieures à trente-cinq heures hebdomadaires ou à 1 600 heures sur l'année ainsi que celle applicable aux salariés à temps partiel est calculée à due proportion.
+
+Le montant de l'aide est celui attribué dans les cas définis à la première phrase du deuxième alinéa du IV et au deuxième alinéa du VI de l'article 3 de la loi n° 98-461 du 13 juin 1998 précitée. L'aide est versée pour la durée mentionnée au dernier alinéa du IV et selon les modalités prévues au VI de l'article 3 précité. Pour bénéficier de l'aide, l'employeur adresse une déclaration à l'autorité administrative.
+
+II. - Les entreprises satisfaisant aux dispositions du I bénéficient également de l'allégement prévu à l'article L. 241-13-1 du code de la sécurité sociale dans les conditions prévues aux II à VI de cet article ainsi qu'aux III à V de l'article 21 de la présente loi.
+
+III. - Les modalités d'application du présent article sont définies par décret.

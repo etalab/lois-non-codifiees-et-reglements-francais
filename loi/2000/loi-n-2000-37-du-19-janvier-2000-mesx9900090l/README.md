@@ -1,0 +1,10 @@
+# Loi n° 2000-37 du 19 janvier 2000 relative à la réduction négociée du temps de travail (1)
+
+- [Chapitre Ier : Durée légale du travail et régime des heures supplémentaires.](chapitre-ier)
+- [Chapitre II : Répartition et aménagement du temps de travail.](chapitre-ii)
+- [Chapitre IV : Travail à temps partiel et contrat intermittent.](chapitre-iv)
+- [Chapitre V : Dispositions relatives aux congés.](chapitre-v)
+- [Chapitre VIII : Développement de la négociation et allégement des cotisations sociales.](chapitre-viii)
+- [Chapitre IX : Sécurisation juridique.](chapitre-ix)
+- [Chapitre X : Rémunération.](chapitre-x)
+- [Chapitre XII : Dispositions diverses.](chapitre-xii)
