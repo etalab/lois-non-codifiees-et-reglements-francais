@@ -14,6 +14,7 @@
 - [Décret n°75-142 du 3 mars 1975](decret-n75-142-du-3-mars-1975)
 - [Décret n°89-3 du 3 janvier 1989 (SPSP8801764D)](decret-n89-3-du-3-janvier-1989-spsp8801764d)
 - [Décret n°89-7 du 3 janvier 1989 (EQUP8800641D)](decret-n89-7-du-3-janvier-1989-equp8800641d)
+- [Décret n°89-73 du 3 février 1989 (SPSX8910066D)](decret-n89-73-du-3-fevrier-1989-spsx8910066d)
 - [Décret n°88-209 du 4 mars 1988 (JUSC8820102D)](decret-n88-209-du-4-mars-1988-jusc8820102d)
 - [Décret n°89-10 du 4 janvier 1989 (TRSA8800482D)](decret-n89-10-du-4-janvier-1989-trsa8800482d)
 - [Décret n°89-4 du 4 janvier 1989 (ECOT8910036D)](decret-n89-4-du-4-janvier-1989-ecot8910036d)
