@@ -514,15 +514,13 @@ Conditions à remplir par le remplaçant ou l'adjoint et semestres requis :
 
 Activité du médecin remplacé :
 
-Stomatologie ou chirurgie cervico-maxillo-faciale ou chirurgie maxillo-faciale et stomatologie.
+Stomatologie.
 
 Conditions à remplir par le remplaçant ou l'adjoint et semestres requis :
 
 3 spécifiques (1).
 
-1 dans un service agréé de chirurgie viscérale.
-
-1 dans un service agréé de chirurgie orthopédique et traumatologie.
+2 dans des services agréés pour la spécialité ou une autre spécialité.
 
 Activité du médecin remplacé :
 
