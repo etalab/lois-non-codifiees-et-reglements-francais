@@ -55,7 +55,6 @@
 - [Arrêté du 3 mai 1988 (PTTT8800412A)](arrete-du-3-mai-1988-pttt8800412a)
 - [Arrêté du 4 août 1988 (DEFD8801659A)](arrete-du-4-aout-1988-defd8801659a)
 - [Arrêté du 4 août 1988 (EQUP8800616A)](arrete-du-4-aout-1988-equp8800616a)
-- [Arrêté du 4 février 1988 (ECOM8800613A)](arrete-du-4-fevrier-1988-ecom8800613a)
 - [Arrêté du 4 janvier 1988 (ECOT8811011A)](arrete-du-4-janvier-1988-ecot8811011a)
 - [Arrêté du 4 janvier 1988 (EQUC8800015A)](arrete-du-4-janvier-1988-equc8800015a)
 - [Arrêté du 4 janvier 1988 (EQUC8800016A)](arrete-du-4-janvier-1988-equc8800016a)
