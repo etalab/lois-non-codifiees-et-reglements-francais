@@ -1,4 +1,4 @@
-# Arrêté du 16 décembre 1985 du 16 décembre 1985 relatif au traitement automatisé des déclarations annuelles prévues aux articles 87, 88, 240 et 241 du code général des impôts.
+# Arrêté du 16 décembre 1985 relatif aux cotisations d'accident du travail dues pour les élèves et étudiants des établissements d'enseignement relevant de l'article L. 412-8 (2°) du code de la sécurité sociale.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
