@@ -4,7 +4,7 @@ Grade de directeur d'écoles de cadres paramédicaux
 
 5e  échelon
 
-Indices bruts : 680
+Indices bruts : 720
 
 4e  échelon
 
@@ -26,15 +26,15 @@ Grade de directeur d'écoles ou centres préparant aux professions paramédicale
 
 Echelon fonctionnel
 
-Indices bruts : 660 (1)
+Indices bruts : 700 (1)
 
 Echelon fonctionnel
 
-Indices bruts : 645 (2)
+Indices bruts : 675 (2)
 
 6e  échelon
 
-Indices bruts : 630
+Indices bruts : 660
 
 5e  échelon
 

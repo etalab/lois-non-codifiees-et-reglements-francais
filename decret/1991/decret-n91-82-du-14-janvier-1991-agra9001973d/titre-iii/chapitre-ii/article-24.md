@@ -1,5 +1,7 @@
 # Article 24
 
-Des arrêtés conjoints des ministres chargés de l'agriculture et de la fonction publique fixent les modalités d'organisation des concours, le programme et la nature des épreuves, ainsi que le nombre des emplois mis aux concours, les dates d'ouverture et de clôture des inscriptions.
+Le nombre de places offertes à chacun des concours est fixé par arrêté du ministre chargé de l'agriculture. Le nombre de places offertes au concours externe ne peut être inférieur à 50 p. 100 du nombre total des places offertes aux deux concours.
 
-Des arrêtés du ministre chargé de l'agriculture déterminent les modalités de constitution et de fonctionnement du jury et fixent également la date des épreuves, ainsi que la liste des centres où se déroulent ces épreuves.
+Toutefois, les postes offerts à l'un des concours qui ne sont pas pourvus par la nomination des candidats à l'un des concours peuvent être attribués à l'autre concours. Ce report ne peut toutefois avoir pour conséquence que le nombre des emplois pourvus au titre de l'un des concours soit supérieur aux deux tiers du nombre total des postes offerts aux deux concours.
+
+Le nombre de nominations de candidats inscrits sur les listes complémentaires ne peut excéder le nombre total des postes offerts aux concours.

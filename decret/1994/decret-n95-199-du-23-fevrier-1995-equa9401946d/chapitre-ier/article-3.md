@@ -4,4 +4,4 @@ Le corps des attachés d'administration de l'aviation civile comporte le grade d
 
 Le grade d'attaché d'administration compte douze échelons.
 
-Le grade d'attaché principal d'administration comprend une première classe comptant deux échelons et une seconde classe comptant sept échelons.
+Le grade d'attaché principal d'administration comprend une première classe comptant trois échelons et une seconde classe comptant sept échelons.

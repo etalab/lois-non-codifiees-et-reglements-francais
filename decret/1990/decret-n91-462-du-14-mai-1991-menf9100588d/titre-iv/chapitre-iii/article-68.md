@@ -1,5 +1,5 @@
 # Article 68
 
-Les techniciens de l'éducation nationale appartenant au grade de technicien sont soumis aux règles d'avancement d'échelon fixées par l'article 4 du décret du 20 septembre 1973 susvisé.
+La durée moyenne et la durée minimale du temps passé dans chacun des échelons des classes de technicien de l'éducation nationale de classe normale et de technicien de l'éducation nationale de classe supérieure sont celles fixées à l'article 10 du décret n° 94-1016 du 18 novembre 1994, respectivement pour la classe normale et la classe supérieure des corps régis par ledit article.
 
-L'avancement d'échelon est prononcé par arrêté ministériel.
+L'avancement d'échelon est prononcé par arrêté du ministre chargé de l'éducation nationale.

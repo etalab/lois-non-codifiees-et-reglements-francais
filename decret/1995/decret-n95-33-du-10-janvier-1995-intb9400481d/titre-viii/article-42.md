@@ -1,0 +1,7 @@
+# Article 42
+
+Pour l'application du deuxième alinéa de l'article 4, les dispositions du décret n° 92-202 du 2 septembre 1992 relatif aux conditions d'accès et aux modalités d'organisation des concours pour le recrutement des assistants territoriaux de conservation du patrimoine et des bibliothèques, du décret n° 92-903 du 2 septembre 1992 modifié relatif aux conditions d'accès et aux modalités d'organisation des concours pour le recrutement des inspecteurs territoriaux de surveillance et de magasinage du patrimoine et de l'arrêté du 2 septembre 1992 fixant le programme des matières des épreuves des concours externe et interne pour le recrutement des inspecteurs territoriaux de surveillance et de magasinage du patrimoine demeurent en vigueur.
+
+Pour l'application des articles 7 et 8, les dispositions du décret n° 93-159 du 29 janvier 1993 relatif à l'organisation de la formation initiale d'application des assistants territoriaux de conservation du patrimoine et des bibliothèques demeurent en vigueur.
+
+Pour l'application des articles 18 et 29, les dispositions du décret n° 92-907 du 2 septembre 1992 relatif aux modalités d'organisation des examens professionnels d'accès au grade d'assistant territorial qualifié de conservation du patrimoine et des bibliothèques hors classe et au grade d'assistant territorial de conservation du patrimoine et des bibliothèques hors classe demeurent en vigueur.

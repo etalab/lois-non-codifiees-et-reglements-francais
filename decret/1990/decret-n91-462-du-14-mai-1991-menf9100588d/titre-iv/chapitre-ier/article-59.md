@@ -2,6 +2,8 @@
 
 Le corps des techniciens de l'éducation nationale comprend deux grades :
 
-Technicien de l'éducation nationale, comportant douze échelons ;
+- technicien de l'éducation nationale de classe normale, qui comporte treize échelons ;
 
-Technicien principal de l'éducation nationale, comportant sept échelons.
+- technicien de l'éducation nationale de classe supérieure, qui comporte huit échelons.
+
+Le nombre d'emplois de technicien de l'éducation nationale de classe supérieure ne peut excéder 25 % de l'effectif total du corps.

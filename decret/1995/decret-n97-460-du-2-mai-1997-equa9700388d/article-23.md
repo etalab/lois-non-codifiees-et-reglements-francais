@@ -1,0 +1,3 @@
+# Article 23
+
+Si les dispositions des articles 13 et 14 du présent décret ont pour effet de classer les attachés d'administration qui ont été nommés dans le grade d'attaché principal de 2e classe entre le 1er août 1995 et la date de publication dudit décret à un échelon doté d'un indice inférieur à celui de l'échelon de l'ancien grade d'attaché principal dans lequel ils avaient été classés initialement, en application des articles 15 et 16 du décret du 23 février 1995 susvisé, les intéressés conservent à titre personnel le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient dans leur nouveau grade d'un indice au moins égal.

@@ -1,0 +1,5 @@
+# Article 7
+
+Les inspecteurs stagiaires accomplissent un stage de formation d'une durée de douze mois selon des modalités fixées par arrêté du ministre chargé de l'économie. Au terme du stage, un classement par ordre de mérite est établi. La durée du stage peut être allongée par arrêté du ministre chargé de l'économie, après avis du comité technique paritaire central, dans la limite de dix-huit mois.
+
+L'inspecteur stagiaire doit rester au service de l'Etat pendant une durée minimale de huit ans, la durée de la formation ne pouvant être prise en compte au titre de cette période que dans la limite de sa durée normale. En cas de manquement à cette obligation plus de trois mois après la date d'installation en qualité d'inspecteur stagiaire, il doit verser au Trésor, sauf si ce manquement ne lui est pas imputable, une indemnité égale au montant du traitement et de l'indemnité de résidence perçus pendant la durée du stage, augmentée des dépenses de toute nature liées à la formation reçue. Le montant de cette indemnité est fixé par arrêté du ministre chargé de l'économie.

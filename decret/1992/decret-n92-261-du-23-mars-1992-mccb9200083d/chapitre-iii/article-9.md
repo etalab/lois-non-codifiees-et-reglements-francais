@@ -1,5 +1,3 @@
 # Article 9
 
-Les inscriptions au tableau d'avancement au grade de technicien d'art principal se font en application des dispositions du décret du 20 septembre 1973 susvisé.
-
-La durée moyenne et la durée minimale du temps passé dans chacun des échelons des grades mentionnés à l'article 1er sont celles qui sont fixées par le décret du 20 septembre 1973 susvisé.
+Le nombre des postes offerts chaque année au titre de la promotion interne est calculé, lorsque l'application du IV de l'article 5 du présent décret ne permet aucune nomination, en appliquant la proportion du cinquième des nominations à 3,5 p. 100 de l'effectif budgétaire du corps considéré au 1er janvier de l'année au titre de laquelle sont prononcées les nominations.

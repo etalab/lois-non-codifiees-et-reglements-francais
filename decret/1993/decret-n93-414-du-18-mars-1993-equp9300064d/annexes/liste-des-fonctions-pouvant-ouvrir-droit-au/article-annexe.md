@@ -1,21 +1,17 @@
 # Article ANNEXE
 
-Encadrement d'unité administrative.
+- encadrement d'unité administrative ou comptable ;
 
-Encadrement d'unité comptable.
+- rédaction juridique ;
 
-Chargé d'études rédacteur.
+- gestion administrative ou comptable ;
 
-Gestion comptable.
+- secrétariat de direction ;
 
-Gestion de personnel.
+- secrétariat d'un chef d'unité, chargé des questions administratives ou commerciales ;
 
-Secrétaire de direction, assistante d'un directeur.
+- mise en oeuvre des techniques de communication commerciale et promotion des produits de l'institut ;
 
-Assistant responsable du secrétariat auprès d'un chef d'unité et chargé des questions administratives et de personnel.
+- documentation ;
 
-Assistant d'un chef de centre interrégional, responsable du secrétariat et de la régie de recettes du centre.
-
-Assistant commercial d'un chef d'agence régionale, responsable du secrétariat et de la régie de recettes de l'agence.
-
-Mise en oeuvre des techniques de communication commerciale et promotion des produits de l'institut.
+- secteur médico-social.

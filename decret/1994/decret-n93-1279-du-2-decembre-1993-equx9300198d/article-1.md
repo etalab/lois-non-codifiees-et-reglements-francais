@@ -4,11 +4,7 @@ Le classement indiciaire du corps des ingénieurs électroniciens des systèmes 
 
 GRADES
 
-CLASSEMENT
-
-hiérarchique
-
-(indices bruts)
+CLASSEMENT hiérarchique (indices bruts)
 
 Ingénieur électronicien divisionnaire des systèmes de la sécurité aérienne
 
@@ -24,8 +20,10 @@ Ingénieur électronicien des systèmes de la sécurité aérienne de classe nor
 
 Ingénieur électronicien stagiaire des systèmes de la sécurité aérienne
 
-322-336
+359
 
 Elève ingénieur électronicien des systèmes de la sécurité aérienne
 
-311
+340
+
+Le tableau ci-dessus peut être modifié par décret du Premier ministre.

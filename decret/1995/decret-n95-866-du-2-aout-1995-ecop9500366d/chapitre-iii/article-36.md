@@ -1,0 +1,9 @@
+# Article 36
+
+Les administrateurs civils âgés de quarante ans au moins et justifiant de trois années de services effectifs accomplis en cette qualité dans les services centraux de la direction générale des impôts ou du service de la législation fiscale peuvent, dans les conditions fixées par le décret n° 72-556 du 30 juin 1972 modifié relatif au statut particulier des administrateurs civils, être nommés dans un emploi de chef des services fiscaux ou de directeur départemental des services déconcentrés, ou dans l'un des emplois correspondants prévus aux articles 26 et 30. Ils peuvent être immédiatement intégrés dans le corps régi par le présent statut.
+
+Ils sont nommés à l'indice égal ou, à défaut, immédiatement supérieur. Si la nomination ne comporte pas une augmentation indiciaire au moins égale à celle résultant d'un avancement d'échelon dans le corps des administrateurs civils, ils conservent dans leur nouvel emploi l'ancienneté acquise dans l'ancien échelon.
+
+L'arrêté de nomination ou d'intégration fixe le grade, la classe, l'échelon et la date de prise de rang dans cet échelon des administrateurs civils nommés dans un emploi de catégorie A en application des dispositions ci-dessus.
+
+Les administrateurs civils du ministère de l'économie et des finances, les contrôleurs financiers et les administrateurs et inspecteurs généraux de l'I.N.S.E.E. titulaires d'un emploi de direction au ministère de l'économie et des finances, justifiant de trois années de services effectifs accomplis dans les services centraux de ce ministère et âgés de quarante ans au moins, peuvent accéder au grade de conservateur des hypothèques. La catégorie du poste d'affectation et la date de prise de rang dans le grade de conservateur des hypothèques des intéressés qui sont intégrés dans le corps régi par le présent statut sont fixées par arrêté du ministre chargé du budget.

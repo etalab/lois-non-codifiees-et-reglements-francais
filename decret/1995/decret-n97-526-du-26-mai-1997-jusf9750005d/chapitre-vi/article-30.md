@@ -1,0 +1,3 @@
+# Article 30
+
+Si l'application de l'article 21 du présent décret a pour effet de classer les attachés qui ont été nommés dans la 2e classe du grade d'attaché principal entre le 1er août 1995 et la date de la publication du présent décret à un échelon doté d'un indice inférieur à celui de l'échelon de l'ancien grade d'attaché principal d'intendance dans lequel ils avaient été classés initialement, en application de l'article 27 du décret n° 75-679 du 24 juillet 1975 modifié, les intéressés conservent à titre personnel le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient dans leur nouveau grade d'un indice au moins égal.

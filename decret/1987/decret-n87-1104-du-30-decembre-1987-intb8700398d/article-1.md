@@ -2,24 +2,26 @@
 
 L'échelonnement indiciaire applicable aux secrétaires de mairie est fixé ainsi qu'il suit :
 
-8e échelon : 620
+12e échelon : 695
 
-7e échelon : 580
+11e échelon : 660
 
-6e échelon : 540
+10e échelon : 628
 
-5e échelon : 500
+9e échelon : 597
 
-4e échelon : 460
+8e échelon : 566
 
-3e échelon : 420
+7e échelon : 535
 
-2e échelon : 380
+6e échelon : 504
 
-1er échelon : 342
+5e échelon : 481
 
-3e échelon provisoire : 328
+4e échelon : 461
 
-2e échelon provisoire : 301
+3e échelon : 435
 
-1er échelon provisoire : 274.
+2e échelon : 410
+
+1er échelon : 374

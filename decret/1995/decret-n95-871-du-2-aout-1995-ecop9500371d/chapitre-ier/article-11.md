@@ -1,0 +1,5 @@
+# Article 11
+
+Les candidats reçus au concours sont nommés inspecteurs-élèves et astreints à rester au service de l'Etat ou de ses établissements publics à caractère administratif pendant une période minimale de huit ans, la durée de la formation ne pouvant être prise en compte au titre de cette période que dans la limite d'un an. En cas de manquement à cette obligation plus de trois mois après la date d'installation en qualité d'inspecteur-élève, les intéressés doivent, sauf si le manquement ne leur est pas imputable, verser au Trésor une somme correspondant au traitement et à l'indemnité de résidence perçus en qualité d'inspecteur-élève ainsi qu'aux dépenses de toute nature résultant du séjour à l'école. Le montant de cette somme est fixé par arrêté du ministre chargé du budget.
+
+Dans le cas d'intégration dans un corps de catégorie B en application de l'article 16 ci-dessous, la durée de l'obligation prévue au premier alinéa du présent article est réduite à quatre ans et prend effet à compter du jour de cette intégration.

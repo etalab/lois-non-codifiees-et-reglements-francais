@@ -1,0 +1,5 @@
+# Article 14
+
+I - Les agents des transmissions sont classés dans le grade d'inspecteur du service des transmissions à un échelon déterminé conformément aux dispositions de l'article 13-I ci-dessus en prenant en compte la situation qui aurait été la leur si, avant leur nomination dans le corps des inspecteurs du service des transmissions, ils avaient été reclassés dans le corps des contrôleurs du service des transmissions par application des dispositions de l'article 3 du décret n° 94-1016 du 18 novembre 1994 fixant les conditions statutaires communes applicables à divers corps de catégorie B.
+
+II - Les fonctionnaires civils autres que les agents du service des transmissions appartenant à un corps ou à un cadre d'emplois classé dans les catégories C ou D ou de même niveau sont classés dans le grade d'inspecteur à un échelon déterminé en appliquant les modalités fixées à l'article 13-II ci-dessus à la fraction de l'ancienneté qui aurait été prise en compte, en application de l'article 3 du décret du 18 novembre 1994 précité pour leur classement dans l'un des corps régis par ce même décret.

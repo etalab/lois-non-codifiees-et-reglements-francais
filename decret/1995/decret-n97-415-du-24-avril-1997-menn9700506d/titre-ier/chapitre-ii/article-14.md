@@ -1,0 +1,3 @@
+# Article 14
+
+Jusqu'au 31 décembre 1996, et par dérogation aux dispositions de l'article 18 du décret du 31 décembre 1985 susvisé, les fonctionnaires qui étaient classés dans un grade provisoire de secrétaire d'administration de recherche et de formation de 1re classe ou de technicien de recherche et de formation de 1re classe ou un grade assimilé d'un autre corps de catégorie B sont classés dans le grade d'attaché à un échelon déterminé en prenant en compte la situation qui aurait été la leur si, au 1er août 1995, ils avaient été nommés dans le grade de secrétaire d'administration de classe exceptionnelle ou de technicien de recherche et de formation de classe exceptionnelle ou un grade assimilé.

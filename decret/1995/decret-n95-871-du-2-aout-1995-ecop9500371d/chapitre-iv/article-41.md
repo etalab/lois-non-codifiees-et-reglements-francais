@@ -1,0 +1,5 @@
+# Article 41
+
+Les inspecteurs, les inspecteurs principaux, les receveurs principaux de 2e et 1re classe, les receveurs principaux régionaux, les directeurs adjoints, les directeurs régionaux et les chefs de service interrégionaux en fonctions à la date d'entrée en vigueur du présent décret seront reclassés respectivement dans le grade d'inspecteur, d'inspecteur principal de 2e classe, de receveur principal de 2e et 1re classe, de receveur régional, de directeur adjoint, de directeur régional et de chef de service interrégional des services déconcentrés de la direction générale des douanes et droits indirects, conformément au tableau ci-après (tableau non reproduit, voir le fac-similé)
+
+L'application du tableau ci-dessus ne peut avoir pour effet de conférer aux inspecteurs principaux promus au grade de directeur adjoint après le 1er août 1995 une situation plus favorable que celle des inspecteurs principaux, dont le rang d'ancienneté était au moins égal au leur, et qui ont été promus au grade de directeur adjoint avant cette date.

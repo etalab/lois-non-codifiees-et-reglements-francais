@@ -1,6 +1,6 @@
 # Article 24
 
-Peuvent être promus au deuxième grade les greffiers en chef du troisième grade ayant atteint au moins le cinquième échelon et ayant accompli cinq années de services effectifs dans le corps des greffiers en chef ou dans un corps de catégorie A. La durée des services effectivement accomplis au titre du service national actif vient, le cas échéant, en déduction de ces cinq années. Il en est de même de la fraction qui excède la douzième année de l'ancienneté déterminée dans un corps, cadre d'emplois ou emploi de catégorie B en application des dispositions de l'article 13 et de la totalité de l'ancienneté qui a été reconnue aux greffiers titulaires de charge lors de leur intégration dans le corps des greffiers en chef. Ces déductions ne peuvent toutefois avoir pour effet de réduire à moins de trois ans la durée des services effectivement accomplis dans le corps des greffiers en chef ou dans un corps de catégorie A.
+Peuvent être promus au deuxième grade les greffiers en chef du troisième grade ayant atteint au moins le cinquième échelon et ayant accompli cinq années de services effectifs dans le corps des greffiers en chef ou dans un corps de catégorie A. La durée des services effectivement accomplis au titre du service national actif vient, le cas échéant, en déduction de ces cinq années. Il en est de même de la fraction qui excède la dixième année de l'ancienneté déterminée dans un corps, cadre d'emplois ou emploi de catégorie B en application des dispositions de l'article 13 et de la totalité de l'ancienneté qui a été reconnue aux greffiers titulaires de charge lors de leur intégration dans le corps des greffiers en chef. Ces déductions ne peuvent toutefois avoir pour effet de réduire à moins de trois ans la durée des services effectivement accomplis dans le corps des greffiers en chef ou dans un corps de catégorie A.
 
 Les fonctionnaires mentionnés à l'alinéa précédent doivent avoir été inscrits à un tableau d'avancement établi sur avis de la commission administrative paritaire compétente, au vu des résultats d'une sélection organisée par voie d'examen professionnel.
 
@@ -14,70 +14,52 @@ L'organisation générale, la nature des épreuves et le programme de l'examen d
 
 Les modalités de l'examen et la composition du jury sont fixées par arrêté du garde des sceaux, ministre de la justice.
 
-Les fonctionnaires promus sont classés dans les échelons du deuxième grade, conformément aux dispositions du tableau ci-après :
+Les fonctionnaires promus sont classés dans les échelons du deuxième grade, conformément aux dispositions ci-après :
 
-SITUATION dans le troisième grade
+I = SITUATION dans le troisième grade (échelons)
 
-SITUATION DANS LE DEUXIÈME GRADE
+II = SITUATION dans le deuxième grade (échelons)
 
-Echelons
+III = Ancienneté dans l'échelon
 
-Echelons
-
-Ancienneté dans l'échelon
-
-12e
-
-7e
-
-Ancienneté acquise.
-
-11e
-
-7e
-
-Sans ancienneté.
-
-10e
-
-6e
-
-Ancienneté acquise, majorée d'un tiers dans la limite de 4 ans.
-
-9e
-
-5e
-
-Ancienneté acquise.
-
-8e
-
-4e
-
-Ancienneté acquise.
-
-7e
-
-4e
-
-Sans ancienneté.
-
-6e :
-
-A partir de 1 an
-
-3e
-
-Deux fois l'ancienneté acquise au-delà de 1 an dans la limite de 3 ans.
-
-Avant 1 an
-
-2e
-
-Ancienneté acquise majorée de 1 an dans la limite de 2 ans.
-
-5e
-
-1er
-
-Ancienneté acquise dans la limite de 2 ans.
+<table>
+<tr>
+<td> :----:----:-------------------:</td>
+</tr>
+<tr>
+<td> : I  : II :      III          :</td>
+</tr>
+<tr>
+<td> :----:----:-------------------:</td>
+</tr>
+<tr>
+<td> :12e : 7e : Sans ancienneté   :</td>
+</tr>
+<tr>
+<td> :11e : 6e : Ancienneté acquise:</td>
+</tr>
+<tr>
+<td> :10e : 5e : Ancienneté acquise:</td>
+</tr>
+<tr>
+<td> : 9e : 4e : 2/3 de l'anc. acq.:</td>
+</tr>
+<tr>
+<td> :    :    : majorés de 1 an   :</td>
+</tr>
+<tr>
+<td> : 8e : 4e : 1/3 de l'anc. acq.:</td>
+</tr>
+<tr>
+<td> : 7e : 3e : 2/3 de l'anc. acq.:</td>
+</tr>
+<tr>
+<td> : 6e : 2e : 4/5 de l'anc. acq.:</td>
+</tr>
+<tr>
+<td> : 5e : 1er: Ancienneté acquise:</td>
+</tr>
+<tr>
+<td> :----:----:-------------------:</td>
+</tr>
+</table>

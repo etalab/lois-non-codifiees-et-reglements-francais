@@ -8,6 +8,6 @@ Ils participent à la formation des ouvriers d'entretien et d'accueil, ouvriers 
 
 Les techniciens exercent leurs fonctions dans des services techniques communs, académiques, départementaux ou d'établissements relevant du ministère de l'éducation nationale. Ils sont placés sous l'autorité du responsable de l'établissement ou service auprès duquel ils sont affectés.
 
-Les techniciens principaux exercent prioritairement la coordination au niveau académique ou départemental des services techniques communs.
+Les techniciens de classe superieure exercent prioritairement la coordination au niveau académique ou départemental des services techniques communs.
 
 Un arrêté ministériel détermine la liste des spécialités dans lesquelles interviennent les techniciens.

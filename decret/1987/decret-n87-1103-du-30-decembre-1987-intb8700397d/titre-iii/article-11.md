@@ -1,13 +1,13 @@
 # Article 11
 
-Les fonctionnaires appartenant à un cadre d'emplois ou à un corps de catégorie C ou D ou titulaires d'un emploi de même niveau sont classés dans le cadre d'emplois sur la base de la durée maximale de service exigée pour chaque avancement d'échelon en prenant en compte une fraction de leur ancienneté dans leur cadre d'emplois, corps ou emploi d'origine.
+Les fonctionnaires appartenant à un cadre d'emplois ou à un corps de catégorie B ou titulaires d'un emploi de même niveau sont classés à un échelon déterminé en prenant en compte, sur la base des durées maximales pour chaque avancement d'échelon, une partie ou la totalité de leur ancienneté retenue dans cette catégorie.
 
-L'ancienneté dans le cadre d'emplois, corps ou emploi d'origine correspond, dans la limite maximale de vingt-neuf ans pour un cadre d'emplois, corps ou emploi de la catégorie D et de trente-deux ans pour un cadre d'emplois, corps ou emploi de la catégorie C, au temps nécessaire pour parvenir, sur la base des durées maximales de services, à l'échelon occupé par l'intéressé, augmenté de l'ancienneté acquise dans cet échelon.
+L'ancienneté retenue est la durée de la carrière nécessaire pour accéder au grade et à l'échelon que les intéressés ont atteint, à la date de leur admission comme stagiaire, augmentée, le cas échéant, de l'ancienneté acquise dans cet échelon.
 
-Cette ancienneté est retenue à raison des :
+La durée de la carrière est calculée sur la base :
 
-a) Trois douzièmes lorsqu'il s'agit d'un cadre d'emplois, corps ou emploi de la catégorie D ;
+a) De la durée statutaire maximale du temps passé dans les échelons du grade détenu ;
 
-b) Huit douzièmes pour les douze premières années et sept douzièmes pour le surplus lorsqu'il s'agit d'un cadre d'emplois, corps ou emploi de catégorie C.
+b) Lorsqu'il y a lieu, de l'ancienneté en catégorie B qu'il est nécessaire d'acquérir au minimum dans le ou les grades inférieurs pour accéder au grade détenu, en tenant compte pour les avancements d'échelon de la durée statutaire maximale.
 
-L'application des dispositions qui précèdent ne peut pas avoir pour effet de classer un fonctionnaire dans une situation plus favorable que celle qui aurait été la sienne si, préalablement à sa nomination dans le cadre d'emplois, il avait été promu au grade supérieur.
+L'ancienneté retenue ainsi déterminée est prise en compte en totalité en ce qui concerne les cinq premières années ; elle est prise en compte à raison de la moitié pour l'ancienneté excédant cinq ans.

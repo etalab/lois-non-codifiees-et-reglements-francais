@@ -8,7 +8,7 @@ A la fin de leur formation initiale, les stagiaires sont soit titularisés dans 
 
 A leur entrée à l'école et pendant la durée d'un an et éventuellement pendant la durée de complément de scolarité, les élèves perçoivent le traitement afférent à l'échelon d'élève ingénieur du contrôle de la navigation aérienne.
 
-Les ingénieurs stagiaires perçoivent les traitements afférents au 1er échelon de stagiaire pendant la première année et au 2e échelon de stagiaire pendant la seconde année et leur prolongation éventuelle.
+Les ingénieurs stagiaires perçoivent pendant la durée du stage et sa prolongation éventuelle le traitement afférent à l'échelon de stagiaire.
 
 Les candidats reçus au concours, astreints au service national et aptes à l'accomplir immédiatement, sont tenus de le faire avant d'entrer à l'école.
 
@@ -16,7 +16,7 @@ II. - Les fonctionnaires et agents de l'Etat issus de l'examen professionnel pr�
 
 Ils effectuent un stage de dix-huit mois au maximum en tout ou partie à l'Ecole nationale de l'aviation civile ou dans les services de la navigation aérienne.
 
-Ils perçoivent pendant la première année de stage le traitement afférent au 1er échelon de stagiaire et, pendant les six derniers mois, celui afférent au 2e échelon.
+Les ingénieurs stagiaires perçoivent pendant la durée du stage le traitement afférent à l'échelon de stagiaire.
 
 Ceux qui n'ont pas obtenu de notes suffisantes au cours du stage sont réintégrés dans leur corps ou leur situation d'origine.
 

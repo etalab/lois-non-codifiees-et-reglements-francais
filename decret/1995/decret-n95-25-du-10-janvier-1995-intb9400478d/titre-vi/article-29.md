@@ -1,0 +1,5 @@
+# Article 29
+
+Par dérogation à l'article 18 du présent décret, du 1er août 1995 au 31 décembre 1996, peuvent être nommés au grade provisoire de rédacteur-chef, après inscription sur un tableau d'avancement et dans la limite fixée à l'alinéa suivant, les rédacteurs ayant atteint le 7e échelon de leur grade et qui ont satisfait à un examen professionnel organisé par le Centre national de la fonction publique territoriale.
+
+Le nombre des fonctionnaires titulaires du grade provisoire de rédacteur-chef ne peut être supérieur à 21,5 p. 100 des effectifs des grades de rédacteur, rédacteur principal et du grade provisoire de rédacteur-chef de la collectivité ou de l'établissement.

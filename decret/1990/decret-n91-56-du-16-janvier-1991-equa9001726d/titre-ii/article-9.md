@@ -18,7 +18,7 @@ II. - Les fonctionnaires et agents de l'Etat issus de l'examen professionnel pr�
 
 Ils effectuent un stage de dix-huit mois au maximum en tout ou partie à l'Ecole nationale de l'aviation civile ou dans les services de la navigation aérienne.
 
-Ils perçoivent pendant la première année de stage le traitement afférent au premier échelon de stagiaire et, pendant les six derniers mois, celui afférent au 2e échelon.
+Les ingénieurs stagiaires perçoivent pendant la durée de leur stag le traitement afférent à l'échelon de stagiaire.
 
 Ceux qui, à l'issue du stage, n'ont pas obtenu une qualification technique délivrée comme il est dit à l'article 4 ci-dessus sont réintégrés dans leur corps ou leur situation d'origine.
 

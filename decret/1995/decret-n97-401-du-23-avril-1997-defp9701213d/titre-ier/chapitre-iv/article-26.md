@@ -1,0 +1,137 @@
+# Article 26
+
+La durée moyenne et la durée minimale du temps passé dans chacun des échelons des grades et classes d'inspecteurs sont fixées ainsi qu'il suit :
+
+GRADES ET CLASSES : INSPECTEUR PRINCIPAL DE 1re CLASSE
+
+2ème ECHELON
+
+DUREE MOYENNE : 3 ans
+
+DUREE MINIMUM : 2 ans 3 mois
+
+1er ECHELON
+
+DUREE MOYENNE : 3 ans
+
+DUREE MINIMUM : 2 ans 3 mois
+
+GRADES ET CLASSES : INSPECTEUR PRINCIPAL DE 2ème CLASSE
+
+6ème ECHELON
+
+DUREE MOYENNE : 2 ans 6 mois
+
+DUREE MINIMUM : 2 ans
+
+5ème ECHELON
+
+DUREE MOYENNE : 2 ans 6 mois
+
+DUREE MINIMUM : 2 ans
+
+4ème ECHELON
+
+DUREE MOYENNE : 2 ans
+
+DUREE MINIMUM : 1 an 6 mois
+
+3ème ECHELON
+
+DUREE MOYENNE : 2 ans
+
+DUREE MINIMUM : 1 an 6 mois
+
+2ème ECHELON
+
+DUREE MOYENNE : 2 ans
+
+DUREE MINIMUM : 1 an 6 mois
+
+1er ECHELON
+
+DUREE MOYENNE : 2 ans
+
+DUREE MINIMUM : 1 an 6 mois
+
+GRADES ET CLASSES : INSPECTEUR
+
+11ème ECHELON
+
+DUREE MOYENNE : 4 ans
+
+DUREE MINIMUM : 3 ans
+
+10ème ECHELON
+
+DUREE MOYENNE : 3 ans
+
+DUREE MINIMUM : 2 ans 3 mois
+
+9ème ECHELON
+
+DUREE MOYENNE : 3 ans
+
+DUREE MINIMUM : 2 ans 3 mois
+
+8ème ECHELON
+
+DUREE MOYENNE : 3 ans
+
+DUREE MINIMUM : 2 ans 3 mois
+
+7ème ECHELON
+
+DUREE MOYENNE : 3 ans
+
+DUREE MINIMUM : 2 ans 3 mois
+
+6ème ECHELON
+
+DUREE MOYENNE : 2 ans 6 mois
+
+DUREE MINIMUM : 2 ans
+
+5ème ECHELON
+
+DUREE MOYENNE : 2 ans
+
+DUREE MINIMUM : 1 an 6 mois
+
+4ème ECHELON
+
+DUREE MOYENNE : 2 ans
+
+DUREE MINIMUM : 1 an 6 mois
+
+3ème ECHELON
+
+DUREE MOYENNE : 2 ans
+
+DUREE MINIMUM : 1 an 6 mois
+
+2ème ECHELON
+
+DUREE MOYENNE : 1 an
+
+DUREE MINIMUM : 1 an
+
+1er ECHELON
+
+DUREE MOYENNE : 1 an
+
+DUREE MINIMUM : 1 an
+
+GRADES ET CLASSES : INSPECTEUR-ELEVE
+
+2ème ECHELON
+
+DUREE MOYENNE : 1 an
+
+DUREE MINIMUM : 1 an
+
+1er ECHELON
+
+DUREE MOYENNE : 1 an
+
+DUREE MINIMUM : 1 an

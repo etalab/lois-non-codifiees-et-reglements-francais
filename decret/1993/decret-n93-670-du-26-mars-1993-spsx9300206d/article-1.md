@@ -2,4 +2,4 @@
 
 Le classement indiciaire applicable au corps des moniteurs-éducateurs de la fonction publique hospitalière est fixé comme suit :
 
-Indices bruts : 272 - 465.
+Indices bruts : 285-544.

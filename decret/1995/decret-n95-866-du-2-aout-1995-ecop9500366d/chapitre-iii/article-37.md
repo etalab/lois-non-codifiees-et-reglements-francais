@@ -1,0 +1,5 @@
+# Article 37
+
+Les attachés principaux et attachés d'administration justifiant de trois années de services effectifs accomplis en cette qualité dans les services centraux de la direction générale des impôts ou du service de la législation fiscale peuvent, sur leur demande, être nommés dans l'un des grades régis par le présent décret dans la limite du cinquième du nombre des promotions ou nominations audit grade.
+
+Les attachés d'administration doivent accomplir le cycle de formation professionnelle prévu au dernier alinéa de l'article 14 ci-dessus. Les intéressés sont titularisés, dès leur nomination pour les attachés principaux et à l'issue de la formation pour les attachés, dans l'un des grades régis par le présent décret, à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils étaient titulaires dans le corps des attachés d'administration. Si la nomination ne comporte pas une augmentation de traitement au moins égale à celle qui résulterait d'un avancement d'échelon dans l'ancien grade, ils conservent dans leur nouveau grade l'ancienneté acquise dans leur ancien échelon.

@@ -1,0 +1,3 @@
+# Article 48
+
+Lorsque six nominations ont été prononcées par voie de concours dans le corps des conseillers d'administration scolaire et universitaire, un conseiller d'administration scolaire et universitaire est nommé soit parmi les attachés principaux d'administration scolaire et universitaire de première classe, soit parmi les attachés principaux d'administration scolaire et universitaire de seconde classe qui ont atteint au 1er janvier de l'année de nomination au moins le 4e échelon de leur classe et qui justifient à cette même date d'au moins deux années d'ancienneté dans le grade. Les intéressés doivent avoir été inscrits sur une liste d'aptitude établie après avis de la commission administrative paritaire nationale.

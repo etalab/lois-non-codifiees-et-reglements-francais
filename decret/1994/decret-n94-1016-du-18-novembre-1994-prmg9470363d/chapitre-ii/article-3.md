@@ -2,9 +2,7 @@
 
 Les fonctionnaires civils nommés dans l'un des corps régis par le présent décret, soit au choix, soit à la suite d'un concours ou d'un examen professionnel, sont classés lors de leur titularisation dans le grade de début dans les conditions suivantes :
 
-I. - Les fonctionnaires de catégories C et D ou de même niveau qui détiennent un grade dont l'indice brut terminal est au moins égal à 449 ou qui sont classés au dernier échelon de l'échelle 5 définie par le décret n° 70-78 du 27 janvier 1970 modifié instituant diverses échelles de rémunération pour les catégories C et D des fonctionnaires de l'Etat sont classés à l'échelon doté d'un indice égal ou, à défaut, immédiatement supérieur à celui détenu dans leur grade d'origine. Dans la limite de l'ancienneté moyenne fixée, selon le cas, à l'article 9 ou à l'article 10 ci-dessous, pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancienne situation.
-
-Les fonctionnaires visés ci-dessus, nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade, conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant de leur nomination audit échelon.
+I. - Les fonctionnaires de catégories C et D ou de même niveau qui détiennent un grade dont l'indice brut terminal est soit égal à 449, soit égal à 479, ou qui sont classés au dernier échelon de l'échelle 5, sont classés conformément au tableau de correspondance ci-après (tableau non reproduit, voir le fac-similé)
 
 II. - Les fonctionnaires de catégories C et D ou de même niveau qui détiennent un grade dont l'indice brut terminal est inférieur à celui visé au I ci-dessus sont classés sur la base de la durée moyenne fixée, selon le cas, à l'article 9 ou à l'article 10 ci-dessous, pour chaque avancement d'échelon en prenant en compte leur ancienneté dans leur grade d'origine à raison des :
 

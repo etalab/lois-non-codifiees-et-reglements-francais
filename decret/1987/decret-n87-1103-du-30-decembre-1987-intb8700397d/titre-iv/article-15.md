@@ -6,10 +6,10 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <tbody>
 <tr>
 <td rowspan="2" width="343">
-<p align="center">GRADES ET ÉCHELONS</p>
+<p align="center">ÉCHELONS</p>
 </td>
 <td colspan="2" width="337">
-<p align="center">DUREE</p>
+<p align="center">DURÉES</p>
 </td>
 </tr>
 <tr>
@@ -22,13 +22,68 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 </tr>
 <tr>
 <td valign="top" width="343">
-<p>7e échelon</p>
+<p>12e échelon</p>
+</td>
+<td valign="top" width="180">
+<p align="center">-</p>
+</td>
+<td valign="top" width="157">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="343">
+<p>11e échelon</p>
 </td>
 <td valign="top" width="180">
 <p align="center">3 ans 6 mois</p>
 </td>
 <td valign="top" width="157">
 <p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="343">
+<p>10e échelon</p>
+</td>
+<td valign="top" width="180">
+<p align="center">3 ans 6 mois</p>
+</td>
+<td valign="top" width="157">
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="343">
+<p>9e échelon</p>
+</td>
+<td valign="top" width="180">
+<p align="center">3 ans</p>
+</td>
+<td valign="top" width="157">
+<p align="center">2 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="343">
+<p>8e échelon</p>
+</td>
+<td valign="top" width="180">
+<p align="center">2 ans 6 mois</p>
+</td>
+<td valign="top" width="157">
+<p align="center">2 ans</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="343">
+<p>7e échelon</p>
+</td>
+<td valign="top" width="180">
+<p align="center">2 ans 6 mois</p>
+</td>
+<td valign="top" width="157">
+<p align="center">2 ans</p>
 </td>
 </tr>
 <tr>
@@ -36,10 +91,10 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <p>6e échelon</p>
 </td>
 <td valign="top" width="180">
-<p align="center">3 ans 6 mois</p>
+<p align="center">2 ans 6 mois</p>
 </td>
 <td valign="top" width="157">
-<p align="center">3 ans</p>
+<p align="center">2 ans</p>
 </td>
 </tr>
 <tr>
@@ -47,10 +102,10 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <p>5e échelon</p>
 </td>
 <td valign="top" width="180">
-<p align="center">3 ans</p>
+<p align="center">2 ans</p>
 </td>
 <td valign="top" width="157">
-<p align="center">2 ans 6 mois</p>
+<p align="center">1 an 6 mois</p>
 </td>
 </tr>
 <tr>
@@ -58,10 +113,10 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <p>4e échelon</p>
 </td>
 <td valign="top" width="180">
-<p align="center">3 ans</p>
+<p align="center">2 ans</p>
 </td>
 <td valign="top" width="157">
-<p align="center">2 ans 6 mois</p>
+<p align="center">1 an 6 mois</p>
 </td>
 </tr>
 <tr>
@@ -69,10 +124,10 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <p>3e échelon</p>
 </td>
 <td valign="top" width="180">
-<p align="center">3 ans</p>
+<p align="center">2 ans</p>
 </td>
 <td valign="top" width="157">
-<p align="center">2 ans 6 mois</p>
+<p align="center">1 an 6 mois</p>
 </td>
 </tr>
 <tr>
@@ -80,10 +135,10 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <p>2e échelon</p>
 </td>
 <td valign="top" width="180">
-<p align="center">3 ans</p>
+<p align="center">2 ans</p>
 </td>
 <td valign="top" width="157">
-<p align="center">2 ans 6 mois</p>
+<p align="center">1 an 6 mois</p>
 </td>
 </tr>
 <tr>
@@ -91,40 +146,7 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <p>1er échelon</p>
 </td>
 <td valign="top" width="180">
-<p align="center">1 an 6 mois</p>
-</td>
-<td valign="top" width="157">
 <p align="center">1 an</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="343">
-<p>3e échelon provisoire</p>
-</td>
-<td valign="top" width="180">
-<p align="center">3 ans</p>
-</td>
-<td valign="top" width="157">
-<p align="center">2 ans 6 mois</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="343">
-<p>2e échelon provisoire</p>
-</td>
-<td valign="top" width="180">
-<p align="center">3 ans</p>
-</td>
-<td valign="top" width="157">
-<p align="center">2 ans 6 mois</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="343">
-<p>1er échelon provisoire</p>
-</td>
-<td valign="top" width="180">
-<p align="center">1 an 6 mois</p>
 </td>
 <td valign="top" width="157">
 <p align="center">1 an</p>

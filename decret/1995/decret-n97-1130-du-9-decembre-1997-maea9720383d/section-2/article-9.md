@@ -1,0 +1,3 @@
+# Article 9
+
+Si l'application de l'article 27 du décret du 11 janvier 1993 susvisé tel qu'il résulte de l'article 1er du présent décret a pour effet de classer les officiers de protection qui ont été promus dans le grade d'officier de protection principal, entre le 1er août 1995 et la date de publication du présent décret, à un échelon doté d'un indice inférieur à celui de l'échelon de l'ancien grade d'officier de protection principal dans lequel ils avaient été classés initialement en application de l'article 27 du décret du 11 janvier 1993 susvisé, les intéressés conservent à titre personnel le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient dans leur nouveau grade d'un indice au moins égal.

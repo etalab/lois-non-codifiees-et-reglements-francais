@@ -2,6 +2,6 @@
 
 Deux concours sont organisés pour le recrutement des techniciens.
 
-1° Pour 60 p. 100 des emplois à pourvoir, un concours externe est ouvert aux candidats titulaires du baccalauréat de l'enseignement du second degré, du baccalauréat technologique ou du baccalauréat professionnel ou d'un diplôme professionnel homologué au niveau IV en application de la loi n° 71-577 du 16 juillet 1971 d'orientation de l'enseignement technologique.
+1° Pour 60 % des emplois à pourvoir, un concours externe est ouvert aux candidats titulaires soit d'un baccalauréat, soit d'un diplôme homologué au niveau IV en application des dispositions du décret n° 92-23 du 8 janvier 1992 relatif à l'homologation des titres et diplômes de l'enseignement technologique, soit d'un diplôme délivré dans un Etat membre de la Communauté européenne et assimilé au baccalauréat.
 
-2° Pour 20 p. 100 des emplois à pourvoir, un concours interne est ouvert aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent comptant au moins quatre ans de services civils effectifs dans des corps ou fonctions d'ouvriers d'entretien et d'accueil, d'ouvriers professionnels ou de maîtres ouvriers au 1er janvier de l'année du concours.
+2° Pour 20 % des emplois à pourvoir, un concours interne est ouvert aux fonctionnaires et agents publics de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, aux militaires ainsi qu'aux agents en fonctions dans une organisation internationale intergouvernementale, comptant au moins quatre ans de services publics au 1er janvier de l'année du concours.

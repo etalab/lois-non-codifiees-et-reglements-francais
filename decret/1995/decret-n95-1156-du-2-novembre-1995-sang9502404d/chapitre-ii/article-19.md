@@ -1,0 +1,3 @@
+# Article 19
+
+Les agents des collectivités territoriales ou des établissements publics qui en dépendent ainsi que ceux des organisations internationales intergouvernementales nommés en application de l'article 7 (2°) ci-dessus dans le grade d'inspecteur sont reclassés, en tenant compte des services accomplis auprès des collectivités locales ou des établissements précités, en application des modalités prévues respectivement aux articles 15, 16 et 17 ci-dessus, selon le niveau de l'emploi qu'ils occupaient précédemment, s'il s'agit d'agents titulaires, et à l'article 18 s'il s'agit d'agents non titulaires.

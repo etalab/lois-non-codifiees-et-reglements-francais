@@ -6,7 +6,7 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <tbody>
 <tr>
 <td rowspan="2" width="340">
-<br/>
+<p align="center">ÉCHELONS</p>
 </td>
 <td colspan="2" width="340">
 <p align="center">DURÉES</p>
@@ -22,13 +22,35 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 </tr>
 <tr>
 <td valign="top" width="340">
+<p>13e échelon</p>
+</td>
+<td valign="top" width="170">
+<p align="center">-</p>
+</td>
+<td valign="top" width="170">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>12e échelon</p>
+</td>
+<td valign="top" width="170">
+<p align="center">3 ans 2 mois</p>
+</td>
+<td valign="top" width="170">
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
 <p>11e échelon</p>
 </td>
 <td valign="top" width="170">
-<p align="center">-</p>
+<p align="center">3 ans 2 mois</p>
 </td>
 <td valign="top" width="170">
-<p align="center">-</p>
+<p align="center">3 ans</p>
 </td>
 </tr>
 <tr>

@@ -1,0 +1,5 @@
+# Article 1
+
+Le corps du personnel technique du service de physiothérapie des thermes nationaux d'Aix-les-Bains classé dans la catégorie B prévue à l'article 29 de la loi n° 84-16 du 11 janvier 1984 modifié portant dispositions statutaires relatives à la fonction publique de l'Etat, est soumis aux dispositions du décret n° 94-1016 du 18 novembre 1994 modifiée fixant les dispositions statutaires communes applicables à divers corps de fonctionnaires de la catégorie B, sous réserve des dispositions du présent décret.
+
+Dans la limite des dispositions fixées par le décret du 27 mars 1981 fixant la liste des actes de massage et de gymnastique médicale que peuvent pratiquer, au sein de l'établissement thermal national d'Aix-les-Bains, les personnes mentionnées au troisième alinéa de l'article L.-491 du code de la santé publique, le personnel technique du service de physiothérapie dispense aux curistes les services et les soins médicalement prescrits, participe à leur installation et est chargé de l'entretien et de la mise en place du matériel nécessaire à l'exercice de sa technique.

@@ -1,9 +1,108 @@
 # Article 92
 
-Les avancements au grade d'attaché d'administration de 1re classe sont prononcés par le ministre de l'éducation nationale, dans la limite des emplois disponibles.
+Les attachés d'administration nommés attachés principaux de 2e classe au titre du 1° et du 2° de l'article 91 sont classés conformément au tableau ci-dessous.
 
-Peuvent être promus à ce grade les attachés d'administration de 2e classe qui, sur proposition des présidents, directeurs ou responsables d'établissement et après avis de la commission administrative paritaire, ont été inscrits par le ministre de l'éducation nationale sur un tableau d'avancement annuel comportant un nombre de noms qui ne peut être supérieur de plus de 20 p. 100 à celui des emplois vacants ou susceptibles de le devenir dans le grade d'attaché d'administration de 1re classe.
-
-Pour pouvoir être inscrits au tableau d'avancement, les intéressés doivent justifier de trois ans d'ancienneté au 8e échelon du grade d'attaché d'administration de 2e classe et avoir accompli treize ans de services en position d'activité ou de détachement dans le corps des attachés d'administration ou tout autre corps de catégorie A.
-
-La durée du service militaire obligatoire ou du service national vient le cas échéant, en déduction de ces treize années. L'ancienneté éventuellement acquise, au-delà de douze ans, dans un corps catégorie B est également admise en déduction. Ces déductions ne peuvent toutefois avoir pour effet de réduire à moins de trois ans la durée des services effectivement accomplis dans un corps de catégorie A.
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<strong>SITUATION ANCIENNE<br/>
+</strong>dans le grade d'attaché d'administration</p>
+</td>
+<td align="left" colspan="2" valign="middle">
+<p align="center">
+<strong>SITUATION NOUVELLE<br/>
+</strong>dans le grade d'attaché principal de 2e classe</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">Echelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Echelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">12e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">6e</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Sans ancienneté.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">11e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">5e</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">3/4 de l'ancienneté acquise.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">10e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4e</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">5/6 de l'ancienneté acquise.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">9e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3e</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">1/2 de l'ancienneté acquise majoré de 1 an.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">8e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3e</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">1/3 de l'ancienneté acquise.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2e</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">5/6 de l'ancienneté acquise.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1er</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté acquise au-delà de 1 an 6 mois.</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,3 @@
+# Article 10
+
+Jusqu'au 31 décembre 1996, et par dérogation aux dispositions de l'article 25 du décret du 30 décembre 1983 susvisé, les fonctionnaires qui étaient classés dans un grade provisoire de secrétaire d'administration de la recherche de 1re classe, ou de technicien de la recherche de 1re classe, ou un grade assimilé d'un autre corps de catégorie B sont classés dans le grade d'attaché à un échelon déterminé en prenant en compte la situation qui aurait été la leur si, au 1er août 1995, ils avaient été nommés dans le grade de secrétaire d'administration de la recherche de classe exceptionnelle, ou de technicien de la recherche de classe exceptionnelle, ou un grade assimilé.

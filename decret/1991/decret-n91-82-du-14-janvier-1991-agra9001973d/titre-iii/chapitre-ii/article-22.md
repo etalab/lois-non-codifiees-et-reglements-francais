@@ -1,9 +1,11 @@
 # Article 22
 
-Le recrutement par concours est organisé dans les conditions suivantes :
+Les attachés d'administration scolaire et universitaire de l'enseignement agricole sont recrutés :
 
-1° Le concours externe est ouvert aux candidats qui sont âgés de moins de trente-cinq ans et qui sont titulaires de l'un des diplômes requis pour se présenter au concours externe d'accès à l'Ecole nationale d'administration ;
+1° Par la voie des instituts régionaux d'administration, dans les conditions prévues par le décret du 10 juillet 1984 susvisé ;
 
-2° Le concours interne est ouvert, dans la limite de la moitié du nombre total des emplois mis aux concours, aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics de l'Etat et des collectivités territoriales. Les intéressés doivent justifier de quatre années de services publics.
+2° Par concours, dans les conditions fixées à l'article 23 ci-dessous ;
 
-Les emplois mis à un concours qui ne sont pas pourvus par la nomination de candidats à ce concours peuvent être attribués aux candidats de l'autre concours dans la limite de 20 p. 100 des emplois à pourvoir aux concours.
+3° Au choix selon les modalités suivantes : un attaché d'administration scolaire et universitaire est nommé, par inscription sur une liste d'aptitude et après avis de la commission administrative paritaire, parmi les secrétaires d'administration scolaire et universitaire du ministère de l'agriculture, lorsque cinq nominations ont été effectuées dans le corps des attachés d'administration scolaire et universitaire de l'enseignement agricole en application des 1° et 2° ci-dessus. Les intéressés doivent être âgés de quarante ans au moins au 1er janvier de l'année de la nomination et compter, à la même date, neuf années de services publics dont cinq au moins de services effectifs dans le corps des secrétaires d'administration scolaire et universitaire de l'enseignement agricole.
+
+Les attachés d'administration scolaire et universitaire de l'enseignement agricole sont nommés et titularisés par arrêté du ministre chargé de l'agriculture.
