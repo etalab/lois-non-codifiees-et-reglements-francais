@@ -1,4 +1,4 @@
-# Loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de services
+# Décret n°78-721 du 28 juin 1978 fixant certaines dispositions applicables aux élèves des écoles militaires de formation d'officiers de carrière.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -11,11 +11,4 @@
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
-- [Article 11-1](article-11-1.md)
-- [Article 12](article-12.md)
-- [Article 12-1](article-12-1.md)
 - [Article 13](article-13.md)
-- [Article 13-1](article-13-1.md)
-- [Article 14](article-14.md)
-- [Article 15](article-15.md)
-- [Article 16](article-16.md)
