@@ -1,0 +1,3 @@
+# Article 25
+
+L'arrêté du haut-commissaire décidant, en application de l'article 13 de la loi du 23 août 1985 précitée, que le dépouillement s'effectue dans un lieu autre que celui où est installé le bureau de vote doit intervenir [*délai*] vingt-quatre heures au moins avant l'ouverture du scrutin. Cet arrêté est publié au Journal officiel de la Nouvelle-Calédonie et dépendances ; il est notifié sans délai au maire et affiché en permanence au lieu où fonctionne le bureau de vote. Procès-verbal de cet affichage, annexé au procès-verbal des opérations de vote, est dressé par le président du bureau de vote. Le dépouillement ne peut s'effectuer que dans un autre lieu de la commune ouvert au public.

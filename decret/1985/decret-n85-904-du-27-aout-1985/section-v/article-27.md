@@ -1,0 +1,5 @@
+# Article 27
+
+Lorsque, en application des articles 25 et 26 ci-dessus, il y a lieu au transport de l'urne, aussitôt après la clôture du scrutin, tous les membres du bureau signent la liste d'émargement, en application de l'article R. 62 du code électoral. Un procès-verbal est dressé en deux exemplaires par le secrétaire du bureau en présence des électeurs ; il est signé par tous les membres du bureau et les délégués des listes, qui y portent leurs observations éventuelles. Un exemplaire de ce procès-verbal est déposé en mairie. L'urne, préalablement scellée par le président du bureau, est alors transportée au lieu de dépouillement accompagnée d'un exemplaire du procès-verbal et des feuilles d'émargement. Le transport est fait en présence des membres du bureau.
+
+Après l'installation dans le lieu de dépouillement, le président du bureau de vote procède à l'enlèvement des scellés. Le dépouillement est alors conduit sans désemparer jusqu'à son achèvement complet, dans les conditions définies aux articles R. 63 à R. 70 du code électoral.

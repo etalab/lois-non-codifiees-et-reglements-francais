@@ -234,6 +234,7 @@
 - [Décret n°85-379 du 27 mars 1985](decret-n85-379-du-27-mars-1985)
 - [Décret n°85-383 du 27 mars 1985](decret-n85-383-du-27-mars-1985)
 - [Décret n°85-657 du 27 juin 1985](decret-n85-657-du-27-juin-1985)
+- [Décret n°85-904 du 27 août 1985](decret-n85-904-du-27-aout-1985)
 - [Décret du 28 juin 1985](decret-du-28-juin-1985)
 - [Décret n°84-1214 du 28 décembre 1984](decret-n84-1214-du-28-decembre-1984)
 - [Décret n°84-1247 du 28 décembre 1984](decret-n84-1247-du-28-decembre-1984)
