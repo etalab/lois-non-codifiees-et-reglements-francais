@@ -2,7 +2,7 @@
 
 RELATIVE AUX CATÉGORIES DE BIENS CULTURELS VISÉES À L'ARTICLE 2 DU DÉCRET
 
-SEUILS (en écus) (3)
+SEUILS (en euros) (3)
 
 1. Objets archéologiques ayant plus de 100 ans d'âge provenant de :
 
@@ -12,17 +12,21 @@ SEUILS (en écus) (3)
 
 - collections archéologiques.
 
-0
+Pas de seuil
 
 2. Eléments faisant partie intégrante de monuments artistiques, historiques ou religieux et provenant du démembrement de ceux-ci, ayant plus de 100 ans d'âge.
 
-0
+Pas de seuil
 
-3. Tableaux et peintures faits entièrement à la main sur tout support et en toutes matières (1).
+3. Tableaux et peintures, autres que ceux entrant dans les catégories 3 A ou 4, faits entièrement à la main, sur tout support et en toute matière (1).
 
 150 000
 
-4. Mosaïques, autres que celles entrant dans les catégories 1 ou 2, et dessins faits entièrement à la main sur tout support et en toutes matières (1).
+3 A. Aquarelles, gouaches et pastels faits entièrement à la main sur tout support (1).
+
+30 000
+
+4. Mosaïques, autres que celles entrant dans les catégories 1 ou 2, réalisées entièrement à la main, en toute matière, et dessins faits entièrement à la main, sur tout support et en toute matière (1).
 
 15 000
 
@@ -40,7 +44,7 @@ SEUILS (en écus) (3)
 
 8. Incunables et manuscrits, y compris les cartes géographiques et les partitions musicales, isolées ou en collection (1).
 
-0
+Pas de seuil
 
 9. Livres ayant plus de 100 ans d'âge isolés ou en collection.
 
@@ -52,7 +56,7 @@ SEUILS (en écus) (3)
 
 11. Archives de toute nature comportant des éléments de plus de 50 ans d'âge, quel que soit leur support.
 
-0
+Pas de seuil
 
 12. a) Collection (2) et spécimens provenant de collections de zoologie, de botanique, de minéralogie, d'anatomie.
 
@@ -106,4 +110,4 @@ b) Ayant plus de 100 ans d'âge.
 
 (2) Telles que définies par la Cour de justice, dans son arrêt 252/84, comme suit : Les objets pour collections au sens de la position 97.05 du TDC sont ceux qui présentent les qualités requises pour être admis au sein d'une collection, c'est-à-dire les objets qui sont relativement rares, ne sont pas normalement utilisés conformément à leur destination initiale ; font l'objet de transactions spéciales en dehors du commerce habituel des objets similaires utilisables et ont une valeur élevée.
 
-(3) La valeur de conversion en monnaies nationales des montants exprimés en écus est celle en vigueur au 1er janvier 1993.
+(3) A l'égard des Etats membres dont la monnaie n'est pas l'euro, les valeurs exprimées en euros dans l'annexe sont converties et exprimées en monnaies nationales au taux de change du 31 décembre 2001 publié au Journal officiel des Communautés européennes. Ces contre-valeurs en monnaies nationales sont révisées tous les deux ans avec effet au 31 décembre 2001. Le calcul de ces contre-valeurs est fondé sur la moyenne de la valeur quotidienne de ces monnaies, exprimées en euros, durant les vingt-quatre mois qui se terminent le dernier jour du mois d'août qui précède la révision prenant effet le 31 décembre. Cette méthode de calcul est réexaminée sur proposition de la Commission, par le comité consultatif des biens culturels, en principe deux ans après la première application. Pour chaque révision, les valeurs exprimées en euros et leurs contre-valeurs en monnaies nationales sont publiées au Journal officiel des Communautés européennes périodiquement dès les premiers jours du mois de novembre précédant la date à laquelle la révision prend effet.
