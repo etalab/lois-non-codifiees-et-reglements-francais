@@ -1,21 +1,9 @@
 # Article 2
 
-Est dénommé "fioul lourd n° 2" le mélange d'hydrocarbures d'origine minérale ou de synthèse destiné notamment à la production de chaleur dans les installations de combustion et répondant, au moment de la mise en vente, aux spécifications suivantes :
+Tout générateur à eau surchauffée doit être muni d'un thermomètre en bon état, placé en vue du chauffeur et gradué de manière à indiquer en degrés Celsius la température de l'eau à la sortie du générateur.
 
-a) Distillation : Volume de distillat, y compris les pertes, de :
+Une marque très apparente indique sur l'échelle du thermomètre la limite que la température ne doit pas dépasser.
 
-moins de 65 % à 250 °C, moins de 85 % à 350 °C.
+Le générateur doit être muni d'une poche convenablement disposée pour recevoir un thermomètre vérificateur.
 
-b) Arrêté du 5 septembre 1978 : Viscosité :
-
-Supérieure à 110 cst (centistokes) à 50 °C.
-
-Inférieure à 40 cst (centistokes) à 100 °C.
-
-Par ailleurs, elle doit pouvoir être déterminée à 50 °C d'après la méthode ASTM D 445.
-
-c) Teneur en soufre : Inférieure ou égale à 4 % en masse.
-
-d) Teneur en eau : Inférieure ou égale à 1,5 % en masse.
-
-e) Point d'éclair : Supérieur ou égal à 70 °C.
+Si un générateur n'est pas surveillé en permanence, il doit être muni d'un thermostat de sécurité indépendant du thermostat de réglage du chauffage. En cas de dépassement de la température maximale de service, chacun des deux thermostats doit commander un organe distinct de coupure des feux. Le thermostat de sécurité doit actionner un appareil d'alarme.

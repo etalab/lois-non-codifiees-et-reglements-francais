@@ -1,3 +1,3 @@
 # Article 1
 
-Il est interdit de détenir en vue de la vente, de mettre en vente ou de vendre sous le nom de "fioul lourd n° 2" un produit ne présentant pas la composition et les caractéristiques fixées par l'article 2 ci-après.
+Les dispositions du présent arrêté s'appliquent aux générateurs et récipients d'eau surchauffée visés à l'article 1-1 du décret du 2 avril 1926 susvisé.
