@@ -1,6 +1,8 @@
 # Article 9
 
-I. Les agents non titulaires visés à l'article 1er et justifiant de trois années ou l'équivalent de trois années de services effectifs dans l'administration [*condition d'ancienneté*] et désirant suivre, en vue de leur formation personnelle, une des actions de formation ayant reçu l'agrément de l'Etat au titre du présent article, ont droit sur demande adressée à leur chef de service à un congé de formation. Peuvent être prises en compte les interruptions de service si leur total n'excède pas deux mois au cours de la période considérée.
+I. Les agents non titulaires mentionnés à l'article 1er qui justifient de trente-six mois ou de l'équivalent de trente-six mois de services effectifs, consécutifs ou non, au titre de contrats de droit public, dont douze mois, consécutifs ou non, dans l'administration à laquelle est demandé le congé de formation, et qui désirent suivre, en vue de leur formation personnelle, une des actions de formation ayant reçu l'agrément de l'Etat au titre du présent article, ont droit à un congé de formation.
+
+Les agents peuvent utiliser le congé en une seule fois ou le répartir en stages d'une durée minimale équivalant à un mois à temps plein qui peuvent être fractionnés en semaines, journées ou demi-journées. Dans ce dernier cas, la durée totale cumulée d'un stage ne peut être inférieure à la durée réglementaire du travail dans le mois.
 
 Le total des périodes de congé accordées pour formation sur le fondement des dispositions du présent titre ne peut excéder trois ans.
 
