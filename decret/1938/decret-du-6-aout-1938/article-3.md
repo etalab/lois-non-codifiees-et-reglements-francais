@@ -10,7 +10,9 @@ Par. 4 - Le règlement de la caisse est arrêté par la Société nationale des 
 
 Par. 5 - La caisse reçoit les retenues sur les salaires des agents commissionnés confirmés et à l'essai, et les cotisations patronales au moins égales nécessaires pour assurer le service des prestations visées ci-dessus.
 
-Par. 6 - Les cotisations des anciens agents et des veuves affiliés à la caisse de prévoyance sont précomptées sur les arrérages de la pension. Les veuves payent une cotisation égale à la moitié de celle des retraités. La Société nationale des chemins de fer français verse à la caisse une contribution égale aux treize douzièmes de celle des affiliés et des veuves.
+Par. 6 - Les cotisations des anciens agents et des veuves ainsi que des orphelins affiliés à la caisse de prévoyance sont précomptées sur les arrérages de la pension. Les veuves payent une cotisation égale à la moitié de celle des retraités. Cette demi-cotisation est due également par les orphelins et fractionnée proportionnellement au montant des parts de pension servies à chacun de ceux d'entre eux qui sont affiliés à la caisse.
+
+La Société nationale des chemins de fer français verse à la caisse une contribution égale aux treize douzièmes de celle des affiliés, des veuves et des orphelins.
 
 Par. 7 - Le règlement de la caisse prévoit que les agents peuvent pour les soins à donner à leur conjoint et à leurs enfants à charge s'adresser à des praticiens ou des établissements autres que ceux désignés ou agréés en vertu de ses dispositions et fixe, pour ce cas, les conditions de remboursement des frais exposés.
 
