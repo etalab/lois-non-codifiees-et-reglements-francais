@@ -24,6 +24,6 @@ L'agrément sera prononcé sur examen d'un dossier fourni par le constructeur de
 
 - le procès-verbal des résultats d'essais effectués par le constructeur ;
 
-- le procès-verbal d'essais correspondant établi par l'un des laboratoires désignés par l'article 6 de l'arrêté du 21 février 1966, à l'exception du laboratoire de recherches et de contrôle du caoutchouc;
+"  le procès-verbal d'essais correspondant établi par l'un des laboratoires agréés en application de l'article 2 de l'arrêté du 22 octobre 1980 ou par tout laboratoire d'un autre Etat membre de la Communauté économique européenne dont la compétence technique, l'aptitude à réaliser les essais et la fiabilité sont reconnues équivalentes par le ministre chargé de l'industrie (direction de l'action régionale et de la petite et moyenne industrie), notamment sur la base des critères généraux fixés par les normes de la série NF EN 45000. "
 
 - les projets de notice pour l'usager et pour l'installateur

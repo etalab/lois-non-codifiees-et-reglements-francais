@@ -10,12 +10,12 @@ Les caractéristiques de ces tubes souples et tuyaux flexibles doivent être ada
 
 Ils doivent être solidement assujettis à leurs deux extrémités, visibles sur toute la longueur et disposés de manière à ne pouvoir être atteints par les flammes, ni détériorés par les gaz de combustion, par les parties chaudes des appareils ou par les débordements de produits chauds.
 
-Ils doivent être renouvelés par l'usager dès que leur état l'exige et, en tout cas, avant leur date limite d'emploi marquée sur le tuyau de façon indélébile. II. - Les appareils de chauffage à circuit de combustion étanche ou raccordés à un conduit d'évacuation et les appareils de production d'eau chaude doivent être alimentés par une tuyauterie rigide.
+Ils doivent être renouvelés par l'usager dès que leur état l'exige et, en tout cas, avant leur date limite d'emploi marquée sur le tuyau de façon indélébile.
 
-Toutefois, lorsque ces appareils sont alimentés par un gaz distribué à partir d'un réseau de distribution publique et sont immobilisés autrement que par fixation rigide (exemple : patins antidérapants ou du fait de leur propre poids), il est admis de les alimenter par un tuyau flexible à embouts mécaniques conforme à la norme NF D 36-103.
+II.  a) Les appareils de chauffage à circuit de combustion étanche ou raccordés à un conduit d'évacuation, les appareils à effet décoratif et les appareils de production d'eau chaude doivent être alimentés par une tuyauterie rigide ou par un tuyau flexible conforme à la norme NF D 36-121 ou NF D 36-123 ou NF D 36-125.
 
-De même, lorsque ces appareils sont alimentés en hydrocarbures liquéfiés distribués par récipients, il est admis de les alimenter par un tube souple butane-propane monté sur embout conforme à la norme NF D 36-101 dans les deux cas suivants :
+b) Les appareils de cuisson alimentés par un gaz distribué par un réseau de distribution publique et incorporés dans des blocs cuisine fixes ne peuvent être raccordés au robinet prévu à l'article 10 que par un tuyau flexible ou une tuyauterie rigide.
 
-Les appareils sont reliés individuellement à un récipient de butane commercial ;
+III.  Un arrêté des ministres chargés de la construction et de la sécurité du gaz fixera la ou les dates à partir desquelles seuls les tuyauteries rigides ou les tuyaux flexibles seront autorisés pour le raccordement des appareils d'utilisation du gaz.
 
-Ils sont immobilisés autrement que par fixation rigide.
+III.  Un arrêté des ministres chargés de la construction et de la sécurité du gaz fixera la ou les dates à partir desquelles seuls les tuyauteries rigides ou les tuyaux flexibles seront autorisés pour le raccordement des appareils d'utilisation du gaz.

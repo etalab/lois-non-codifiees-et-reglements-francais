@@ -58,7 +58,7 @@ organes de coupure, détendeurs, etc. ;
 
 - pour les accessoires de tuyauterie : identité signalétique ;
 
-- les appareils d'utilisation alimentés par une tuyauterie fixe installés ou réglés par l'installateur et leur identité signalétique ;
+les appareils d'utilisation installés ou réglés par l'installateur et leur identité signalétique ;
 
 - l'existence du dispositif de sécurité collective et sa conformité aux dispositions de l'arrêté du 30 mai 1989 relatif à la sécurité collective des installations nouvelles de ventilation mécanique contrôlée auxquelles sont raccordés des appareils utilisant le gaz combustible ou les hydrocarbures liquéfiés, s'il existe ou s'il est prévu d'installer des appareils à gaz raccordés à ce type d'installation. Les documents visés à l'article 3 de l'arrêté du 30 mai 1989 seront le cas échéant joints aux certificats de conformité ;
 

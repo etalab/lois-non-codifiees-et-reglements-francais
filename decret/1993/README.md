@@ -127,6 +127,7 @@
 - [Décret n°93-1050 du 6 septembre 1993 (JUSA9300210D)](decret-n93-1050-du-6-septembre-1993-jusa9300210d)
 - [Décret n°93-1285 du 6 décembre 1993 (INTD9300558D)](decret-n93-1285-du-6-decembre-1993-intd9300558d)
 - [Décret n°93-1287 du 6 décembre 1993 (INDG9300913D)](decret-n93-1287-du-6-decembre-1993-indg9300913d)
+- [Décret n°93-1291 du 6 décembre 1993 (SPSS9303004D)](decret-n93-1291-du-6-decembre-1993-spss9303004d)
 - [Décret n°93-17 du 6 janvier 1993 (DEFC9202298D)](decret-n93-17-du-6-janvier-1993-defc9202298d)
 - [Décret n°93-18 du 6 janvier 1993 (TEFF9205600D)](decret-n93-18-du-6-janvier-1993-teff9205600d)
 - [Décret n°93-19 du 6 janvier 1993 (SANM9202705D)](decret-n93-19-du-6-janvier-1993-sanm9202705d)
