@@ -2,7 +2,6 @@
 
 - [Article 1](article-1.md)
 - [Chapitre Ier : Dispositions relatives aux enfants et adolescents handicapés](chapitre-ier)
-- [Article 2](article-2.md)
 - [Chapitre II : Dispositions relatives à l'emploi](chapitre-ii)
 - [Chapitre 3 : Dispositions relatives aux prestations aux adultes handicapés](chapitre-3)
 - [Chapitre III : Dispositions relatives aux prestations aux adultes handicapés.](chapitre-iii)
