@@ -584,6 +584,8 @@
 - [Décret n°94-1013 du 23 novembre 1994 (DEFP9401757D)](decret-n94-1013-du-23-novembre-1994-defp9401757d)
 - [Décret n°2005-523 du 23 mai 2005 (PRMX0508440D)](decret-n2005-523-du-23-mai-2005-prmx0508440d)
 - [Décret n°2004-1005 du 24 septembre 2004 (SOCU0411374D)](decret-n2004-1005-du-24-septembre-2004-socu0411374d)
+- [Décret n°2004-1009 du 24 septembre 2004 (MCCK0400392D)](decret-n2004-1009-du-24-septembre-2004-mcck0400392d)
+- [Décret n°2004-1010 du 24 septembre 2004 (MCCK0400393D)](decret-n2004-1010-du-24-septembre-2004-mcck0400393d)
 - [Décret n°2004-1254 du 24 novembre 2004 (PRMX0407791D)](decret-n2004-1254-du-24-novembre-2004-prmx0407791d)
 - [Décret n°2004-180 du 24 février 2004 (VILC0410183D)](decret-n2004-180-du-24-fevrier-2004-vilc0410183d)
 - [Décret n°2004-185 du 24 février 2004 (BUDF0400001D)](decret-n2004-185-du-24-fevrier-2004-budf0400001d)
