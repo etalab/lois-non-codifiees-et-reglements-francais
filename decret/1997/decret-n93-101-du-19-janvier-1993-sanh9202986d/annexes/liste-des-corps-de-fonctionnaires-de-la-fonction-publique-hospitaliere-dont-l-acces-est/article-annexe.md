@@ -43,3 +43,5 @@ Corps des personnels techniques de la fonction publique hospitalière (décret n
 Corps des personnels ouvriers, des blanchisseurs et des conducteurs ambulanciers de l'Assistance publique - hôpitaux de Paris (décret n° 91-936 du 19 septembre 1991).
 
 Corps des personnels techniques de l'Assistance publique - hôpitaux de Paris (décret n° 93-145 du 3 février 1993).
+
+Corps des attachés d'administration hospitalière (décret n° 2001-1207 du 19 décembre 2001).
