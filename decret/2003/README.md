@@ -52,6 +52,7 @@
 - [Décret n°2003-129 du 12 février 2003 (ECOT0291180D)](decret-n2003-129-du-12-fevrier-2003-ecot0291180d)
 - [Décret n°91-921 du 12 septembre 1991 (AGRA9101669D)](decret-n91-921-du-12-septembre-1991-agra9101669d)
 - [Décret n°2003-36 du 13 janvier 2003 (DEVX0306258D)](decret-n2003-36-du-13-janvier-2003-devx0306258d)
+- [Décret n°86-68 du 13 janvier 1986](decret-n86-68-du-13-janvier-1986)
 - [Décret n°2000-522 du 16 juin 2000 (ECOP0000436D)](decret-n2000-522-du-16-juin-2000-ecop0000436d)
 - [Décret n°2002-1266 du 16 octobre 2002 (ECOP0200911D)](decret-n2002-1266-du-16-octobre-2002-ecop0200911d)
 - [Décret n°2002-1267 du 16 octobre 2002 (ECOP0200910D)](decret-n2002-1267-du-16-octobre-2002-ecop0200910d)
