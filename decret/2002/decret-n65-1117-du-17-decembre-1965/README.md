@@ -3,3 +3,4 @@
 - [Titre Ier : Dispositions générales.](titre-ier)
 - [Titre II : Organisation administrative.](titre-ii)
 - [Titre III : Régime financier et comptable.](titre-iii)
+- [Article 24](article-24.md)
