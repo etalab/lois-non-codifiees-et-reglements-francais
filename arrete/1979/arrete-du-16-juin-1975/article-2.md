@@ -1,23 +1,29 @@
 # Article 2
 
-Les coefficients d'équivalence applicables aux cultures spécialisées en vue de leur comparaison avec les superficies retenues en polyculture, sont fixés comme suit :
+Les coefficients d'équivalence applicables aux cultures spécialisées visées à l'article 188-3 du Code rural sont fixés comme suit :
 
 Cultures légumières de plein champ : 3
 
-Cultures maraîchères sous abris : 20
+Cultures maraîchères : 10
 
-Cultures maraîchères sous serres chauffées : 50
+Vergers : 3
 
-Cultures fruitières : 4
+Vignes C.C. : 3
 
-Pépinières : 4
+Vignes V.D.Q.S. : 4
 
-Cultures florales :
+Vignes A.O.C. et vin doux naturel : 5
 
-De plein air : 15
+Serres fixes chauffées : 100
 
-Sous abris : 30
+Landes 1ère catégorie : 0,5
 
-Sous serres chauffées : 100
+Landes 2e catégorie : 0,3
 
-Tabac : 8.
+Pacages communaux : 0,2
+
+Salmoniculture : 250
+
+Mytiliculture et ostréiculture : 80
+
+Serres froides : 33.

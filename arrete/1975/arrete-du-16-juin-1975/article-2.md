@@ -1,29 +1,33 @@
 # Article 2
 
-Les coefficients d'équivalence applicables aux cultures spécialisées visées à l'article 188-3 du Code rural sont fixés comme suit :
+Les coefficients d'équivalence applicables aux cultures spécialisées visées à l'article 188-3 du Code rural sont fixés ainsi qu'il suit :
 
-Cultures légumières de plein champ : 5
+Cultures légumières de plein champ : 4
 
-Cultures maraîchères de pleine terre : 12
+Cultures maraîchères :
 
-Cultures maraîchères sous châssis : 30
+De plein champ : 6
 
-Cultures maraîchères sous serres chauffées : 120
+Sous châssis ou serres froides : 20
 
-Vignes V.D.Q.S. : 10
+Sous serres chauffées : 40
 
-Vergers extensifs : 5
+Cultures fruitières : 5
 
-Vergers intensifs : 8
+Arboriculture fruitière (basses tiges) : 3
 
-Petits fruits : 10
+Pépinières d'ornement et fruitières : 8
 
-Pépinières : 25
+Pépinières sylvicoles : 6
 
-Cultures florales de pleine terre et sous châssis : 30
+Cultures florales de plein air : 15
 
-Cultures florales sous serres chauffées : 120
+Cultures florales sous serres : 40
 
-Champignonnières : 35
+Salmoniculture : 200.
 
-Tabac : 8.
+ART. 2 bis - Les surfaces minima d'installation visées à l'article 188-3 du Code rural sont fixées comme suit en matière de conchyliculture :
+
+- ostréiculture : 1,35 ha ;
+
+- mytiliculture : 2.000 mètres de bouchots.

@@ -78,6 +78,7 @@
 - [Décret n°79-422 du 21 mai 1979](decret-n79-422-du-21-mai-1979)
 - [Décret n°79-237 du 22 mars 1979](decret-n79-237-du-22-mars-1979)
 - [Décret n°79-246 du 22 mars 1979](decret-n79-246-du-22-mars-1979)
+- [Décret n°79-713 du 22 août 1979](decret-n79-713-du-22-aout-1979)
 - [Décret n°79-715 du 22 août 1979](decret-n79-715-du-22-aout-1979)
 - [Décret n°79-345 du 23 avril 1979](decret-n79-345-du-23-avril-1979)
 - [Décret n°79-63 du 23 janvier 1979](decret-n79-63-du-23-janvier-1979)
