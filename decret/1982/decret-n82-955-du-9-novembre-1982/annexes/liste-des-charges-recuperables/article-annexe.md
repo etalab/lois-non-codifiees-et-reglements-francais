@@ -152,6 +152,8 @@ a) Entretien de la minuterie, pose, dépose et entretien des tapis ;
 
 b) Menues réparations des appareils d'entretien de propreté tels qu'aspirateur.
 
+3. Entretien de propreté (frais de personnel)
+
 V - Espaces extérieurs au bâtiment ou à l'ensemble des bâtiments d'habitation.
 
 (Voies de circulation, aires de stationnement, abords et espaces verts, aires et équipements de jeux).
@@ -195,6 +197,8 @@ Produits relatifs à la désinsectisation et à la désinfection, y compris des 
 Entretien et vidange des fosses d'aisance.
 
 Entretien des appareils de conditionnement des ordures.
+
+3. Elimination des rejets (frais de personnel)
 
 VII - Equipements divers du bâtiment ou de l'ensemble de bâtiments d'habitation.
 

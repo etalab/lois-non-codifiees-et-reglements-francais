@@ -7,3 +7,7 @@ a) Il n'y a pas lieu de distinguer entre les services assurés par le bailleur e
 b) Les dépenses de personnel récupérables correspondent à la rémunération et aux charges sociales et fiscales.
 
 c) Le remplacement d'éléments d'équipement n'est considéré comme assimilable aux menues réparations que si son coût est au plus égal au coût de celles-ci.
+
+d) Lorsque l'entretien des parties communes et l'élimination des rejets sont assurés par un gardien ou un concierge, les dépenses sont exigibles au titre des charges récupérables à concurrence des trois quarts de leur montant.
+
+e) Lorsque l'entretien des parties communes et l'élimination des rejets sont assurés par un employé d'immeuble, les dépenses correspondant à sa rémunération sont exigibles, en totalité, au titre des charges récupérables.
