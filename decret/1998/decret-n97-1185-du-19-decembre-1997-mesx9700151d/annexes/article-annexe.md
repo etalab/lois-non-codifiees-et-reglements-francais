@@ -60,6 +60,12 @@ Agrément des organismes de contrôle des règles de radioprotection (conjointem
 
 R. 43-38
 
+12
+
+Autorisation de certaines substances chimiques (conjointement avec les ministres chargés de la santé, de l'agriculture, de l'environnement et de la consommation).
+
+R. 231-53-2.
+
 Code de la sécurité sociale
 
 1
@@ -210,9 +216,7 @@ Art. D. 129-11.
 
 10
 
-Agrément des organismes de dosimétrie pour la mesure de l'exposition
-
-externe et interne (conjointement avec le ministre de l'agriculture).
+Agrément des organismes de dosimétrie pour la mesure de l'exposition externe et interne (conjointement avec le ministre de l'agriculture).
 
 Art. R. 231-93, II
 
@@ -380,7 +384,9 @@ Art. R. 162-16-2.
 
 4
 
-Autorisation de pratiquer des analyses de cytogénétique et de biologie en vue de diagnostic prénatal in utero.
+Autorisation de pratiquer des analyses de cytogénétique et de
+
+biologie en vue de diagnostic prénatal in utero.
 
 Art. R. 162-16-2.
 
@@ -392,9 +398,7 @@ Art. R. 184-1-1.
 
 6
 
-Autorisation de tout déplacement de gamètes ou d'embryons si les conditions définies au 1er alinéa de l'article R. 184-1-13 ne sont
-
-pas réunies.
+Autorisation de tout déplacement de gamètes ou d'embryons si les conditions définies au 1er alinéa de l'article R. 184-1-13 ne sont pas réunies.
 
 Art. R. 184-1-13, alinéa 3.
 
@@ -514,7 +518,9 @@ Art. L. 672-10, 2e alinéa.
 
 23
 
-Nomination de membres du conseil d'administration et du conseil administratif supérieur de l'Assistance publique - hôpitaux de Paris, attribution de l'honorariat aux anciens administrateurs.
+Nomination de membres du conseil d'administration et du conseil
+
+administratif supérieur de l'Assistance publique - hôpitaux de Paris, attribution de l'honorariat aux anciens administrateurs.
 
 Art. R. 716-3-2.
 
@@ -582,15 +588,15 @@ Art. R. 731-3.
 
 9
 
-Retrait de l'autorisation de fonctionner des institutions de retraite complémentaire de salariés et de leurs fédérations.
+Retrait de l'autorisation de fonctionner des institutions de retraite
+
+complémentaire de salariés et de leurs fédérations.
 
 Art. R. 731-12.
 
 10
 
-Fixation de la date des élections des administrateurs des caisses de
-
-base des régimes d'assurance vieillesse et invalidité-décès des professions artisanales, industrielles et commerciales, du régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles et des organismes agréés prévus à l'article L. 382.
+Fixation de la date des élections des administrateurs des caisses de base des régimes d'assurance vieillesse et invalidité-décès des professions artisanales, industrielles et commerciales, du régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles et des organismes agréés prévus à l'article L. 382.
 
 Art. R. 611-50.
 
@@ -638,7 +644,9 @@ Suspension ou révocation de l'autorisation d'exploitation de sources d'eau min�
 
 Art. 5.
 
-Décret n° 50-1299 du 18 octobre 1950 modifié fixant les conditions d'utilisation des gaz toxiques non interdits pour la dératisation et la désinsectisation des navires
+Décret n° 50-1299 du 18 octobre 1950 modifié fixant les conditions d'utilisation des gaz toxiques non interdits pour la dératisation et
+
+la désinsectisation des navires
 
 1
 
@@ -752,9 +760,7 @@ Décret n° 87-965 du 30 novembre 1987 modifié relatif à l'agrément des trans
 
 1
 
-Autorisation d'exercer délivrée aux ressortissants communautaires ou
-
-d'un Etat partie à l'accord sur l'Espace économique européen qui peuvent exercer dans ces Etats en qualité d'ambulanciers.
+Autorisation d'exercer délivrée aux ressortissants communautaires ou d'un Etat partie à l'accord sur l'Espace économique européen qui peuvent exercer dans ces Etats en qualité d'ambulanciers.
 
 Art. 18-1, 1er alinéa.
 
@@ -856,13 +862,13 @@ relatif aux prescriptions applicables aux crématoriums
 
 1
 
-Agrément des organismes de certification des crématoriums et des fours de crémation.
+Agrément des organismes de certification des crématoriums et des
+
+fours de crémation.
 
 Art. 11, alinéas 1 et 3.
 
-Décret n° 94-1118 du 20 décembre 1994 relatif aux prescriptions
-
-techniques applicables aux chambres funéraires
+Décret n° 94-1118 du 20 décembre 1994 relatif aux prescriptions techniques applicables aux chambres funéraires
 
 1
 
@@ -916,15 +922,15 @@ Code du travail
 
 1
 
-Décision prescrivant des prélèvements et analyses de certaines substances et préparations dangereuses.
+Décision prescrivant des prélèvements et analyses de certaines
+
+substances et préparations dangereuses.
 
 Art. R. 231-54-9.
 
 2
 
-Etablissement de la liste des organismes dont les stages ouvrent
-
-droit aux congés d'éducation ouvrière.
+Etablissement de la liste des organismes dont les stages ouvrent droit aux congés d'éducation ouvrière.
 
 Art. R. 451-1.
 
@@ -984,13 +990,13 @@ Décision de création et retrait d'agrément des centres de formation professio
 
 Art. 3.
 
-Décret n° 75-306 du 28 avril 1975 relatif à la protection des travailleurs contre les dangers des rayonnements ionisants dans les installations nucléaires de base
+Décret n° 75-306 du 28 avril 1975 relatif à la protection des travailleurs contre les dangers des rayonnements ionisants dans les
+
+installations nucléaires de base
 
 1
 
-Autorisation donnée au chef d'établissement pour effectuer la surveillance de l'exposition de ses salariés aux rayonnements
-
-ionisants.
+Autorisation donnée au chef d'établissement pour effectuer la surveillance de l'exposition de ses salariés aux rayonnements ionisants.
 
 Art. 25-2.
 
