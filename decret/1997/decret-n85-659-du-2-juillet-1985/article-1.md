@@ -2,7 +2,7 @@
 
 Outre le conseil général des ponts et chaussées, les inspections générales et les hauts fonctionnaires de défense, qui sont directement rattachés au ministre, l'administration du ministère de l'urbanisme, du logement et des transports comprend [*composition*] :
 
-La direction du personnel et des services ;
+La direction du personnel, des services et de la modernisation ;
 
 La direction des affaires financières et de l'administration générale ;
 

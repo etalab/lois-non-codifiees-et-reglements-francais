@@ -2,7 +2,7 @@
 
 La direction de la recherche et des affaires scientifiques et techniques exerce les compétences de la délégation à la recherche et à l'innovation définies par le décret n° 84-56 du 25 janvier 1984. Elle exerce en outre les mêmes compétences dans le domaine des transports sous réserve de celles de la direction générale de l'aviation civile, avec laquelle elle coordonne son action. Elle veille à l'évaluation de la recherche menée dans ces domaines par les services du ministère.
 
-En liaison avec la direction du personnel et des services et les autres directions concernées, elle définit des orientations générales pour le réseau des organismes techniques relevant du ministère.
+En liaison avec la direction du personnel, des services et de la modernisation et les autres directions concernées, elle définit des orientations générales pour le réseau des organismes techniques relevant du ministère.
 
 Elle assure l'animation scientifique et technique de ce réseau et la liaison avec l'ensemble des organismes et services de recherche.
 

@@ -1,6 +1,6 @@
 # Article 13
 
-La direction générale de l'aviation civile [*attributions, composition*] :
+La direction générale de l'aviation civile :
 
 Assure la sécurité et la régularité de la navigation aérienne ;
 
@@ -18,7 +18,7 @@ Définit et met en oeuvre la politique sociale dans le domaine de l'aviation civ
 
 Prépare et conduit les actions internationales dans les domaines ci-dessus ;
 
-Assure la gestion des moyens en matériel et en personnel des services centraux et extérieurs qui lui sont propres, à l'exception de ceux gérés par la direction du personnel et des services ;
+Assure la gestion des moyens en matériel et en personnel des services centraux et extérieurs qui lui sont propres, à l'exception de ceux gérés par la direction du personnel, des services et de la modernisation ;
 
 Assure la gestion des personnels relevant des statuts communs à la direction générale de l'aviation civile et à l'établissement public Météo-France.
 
@@ -28,12 +28,12 @@ La direction de la navigation aérienne ;
 
 La direction des programmes aéronautiques civils ;
 
-La direction  des transports aériens;
+La direction des transports aériens;
 
 Le service des bases aériennes ;
 
 Le service de la formation aéronautique et du contrôle technique.
 
-Le service des ressources humaines;
+Le service des ressources humaines ;
 
-Le service des affaires financières;
+Le service des affaires financières.

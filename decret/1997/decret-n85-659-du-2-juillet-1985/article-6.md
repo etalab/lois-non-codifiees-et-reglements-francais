@@ -22,6 +22,6 @@ Elle contribue, en liaison avec la direction de la recherche et des affaires sci
 
 Elle contribue à toutes actions favorisant, en France et à l'étranger, l'activité des professionnels de l'urbanisme et de la construction et la qualité de leurs interventions.
 
-Elle assure, en liaison avec la direction du personnel et des services, l'animation des activités d'ingénierie publique confiées aux services du ministère.
+Elle assure, en liaison avec la direction du personnel, des services et de la modernisation, l'animation des activités d'ingénierie publique confiées aux services du ministère.
 
 Un directeur, adjoint au directeur général de l'urbanisme, de l'habitat et de la construction, assiste celui-ci pour l'ensemble de ses attributions.
