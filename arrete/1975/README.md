@@ -25,6 +25,7 @@
 - [Arrêté du 18 septembre 1975](arrete-du-18-septembre-1975)
 - [Arrêté du 19 novembre 1975](arrete-du-19-novembre-1975)
 - [Arrêté du 19 mai 1975](arrete-du-19-mai-1975)
+- [Arrêté du 20 juin 1975](arrete-du-20-juin-1975)
 - [Arrêté du 22 juillet 1975](arrete-du-22-juillet-1975)
 - [Arrêté du 22 octobre 1975](arrete-du-22-octobre-1975)
 - [Arrêté du 23 avril 1975](arrete-du-23-avril-1975)
