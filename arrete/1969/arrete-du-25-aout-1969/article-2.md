@@ -61,3 +61,5 @@ Certificat d'aptitude à la promotion des activités soci-éducatives et à l'ex
 Certificat d'études architecturales de premier cycle.
 
 Diplôme de conseiller en économie familiale et sociale.
+
+Titre d'ancien élève de l'école militaire du corps technique et administratif de Coëtquidan, admis aux examens de sortie.
