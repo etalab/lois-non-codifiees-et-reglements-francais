@@ -6,7 +6,7 @@ Le ministre chargé du logement est ordonnateur principal de ce compte qui retra
 
 1° En recettes :
 
-- le produit de la contribution exceptionnelle créée à l'article 7 de la présente loi ;
+- le produit de la contribution annuelle des organismes collecteurs de la participation des employeurs à l'effort de construction instituée par l'article 28 de la loi de finances pour 1996 (n° 95-1346 du 30 décembre 1995).
 
 - le versement du budget général ;
 
