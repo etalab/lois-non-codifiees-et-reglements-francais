@@ -8,9 +8,7 @@ Toutefois, pour les règlements effectués aux notaires, cette limite est porté
 
 2° Les règlements effectués en paiement des produits de tous titres nominatifs émis par les collectivités publiques ou privées lorsqu'ils dépassent la somme de 1000 francs par certificat et par échéance ;
 
-3° Les règlements effectués en paiement de traitements ou salaires lorsque le traitement ou salaire excède 2500 francs pour un mois entier.
-
-La présente disposition n'est pas applicable aux règlements à la charge de personnes qui sont incapables de s'obliger par chèques ou auxquelles il est interdit de se faire ouvrir en France un compte en banque ou un compte courant postal.
+3° Les règlements effectués en paiement de traitements ou salaires lorsque le traitement ou salaire excède un montant fixé par décret.    La présente disposition n'est pas applicable aux règlements à la charge de personnes qui sont incapables de s'obliger par chèques ou auxquelles il est interdit de se faire ouvrir en France un compte en banque ou un compte courant postal.
 
 Elle n'est pas applicable non plus aux règlements faits directement par des particuliers non commerçants à d'autres particuliers, à des commerçants ou à des artisans.
 
