@@ -12,4 +12,4 @@ d) Assistantes sociales de tous grades (groupe II), lorsque ces agents renoncent
 
 e) Adjoints techniques.
 
-Le montant annuel maximum de cette indemnité est fixé à 700 F.
+Le montant [*taux*] annuel maximum de cette indemnité est fixé à 700 F.

@@ -1,3 +1,0 @@
-# Article 2
-
-L' application du régime fiscal privilégié institué par l'article 1er ci-dessus est subordonnée à des décisions du directeur général des douanes et droits indirects prises après examen des demandes des intéressés. Ces décisions fixent la date à compter de laquelle le régime fiscal privilégié est applicable aux établissements figurant dans ces demandes. Elles stipulent les conditions mises, pour les besoins du contrôle, à l'octroi dudit régime. Elles peuvent, notamment, placer sous le régime approprié d'usine exercée, institué par le chapitre V du titre V du code des douanes, les établissements procédant aux fabrications.

@@ -1,6 +1,6 @@
 # Article 28
 
-Les agents utilisant pour l'exécution de leur service un des véhicules personnels visés à l'article 24 ci-dessus doivent souscrire une police d'assurance garantissant d'une manière illimitée leur responsabilité personnelle aux termes des articles 1382,1383 et 1384 du code civil ainsi que, éventuellement, la responsabilité de la collectivité employeur, y compris le cas où celle-ci est engagée vis-à-vis des personnes transportées. Les polices devront en outre comprendre l'assurance contentieuse.
+Les agents utilisant pour l'exécution de leur service un des véhicules personnels visés à l'article 24 ci-dessus doivent souscrire une police d'assurance garantissant d'une manière illimitée leur responsabilité personnelle aux termes des articles 1382, 1383 et 1384 du code civil ainsi que, éventuellement, la responsabilité de la collectivité employeur, y compris le cas où celle-ci est engagée vis-à-vis des personnes transportées. Les polices devront en outre comprendre l'assurance contentieuse.
 
 Les intéressés sont libres de choisir leur assureur sous le contrôle de leur administration.
 
