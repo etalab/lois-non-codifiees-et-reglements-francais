@@ -314,6 +314,7 @@
 - [Décret n°98-400 du 22 mai 1998 (ECOF9800021D)](decret-n98-400-du-22-mai-1998-ecof9800021d)
 - [Décret n°98-401 du 22 mai 1998 (ECOF9800019D)](decret-n98-401-du-22-mai-1998-ecof9800019d)
 - [Décret n°98-403 du 22 mai 1998 (ECOS9850020D)](decret-n98-403-du-22-mai-1998-ecos9850020d)
+- [Décret n°98-406 du 22 mai 1998 (AGRM9800610D)](decret-n98-406-du-22-mai-1998-agrm9800610d)
 - [Décret n°98-109 du 23 février 1998 (MAEJ9830014D)](decret-n98-109-du-23-fevrier-1998-maej9830014d)
 - [Décret n°98-110 du 23 février 1998 (MAEJ9830015D)](decret-n98-110-du-23-fevrier-1998-maej9830015d)
 - [Décret n°98-1182 du 23 décembre 1998 (MENF9802883D)](decret-n98-1182-du-23-decembre-1998-menf9802883d)

@@ -8,29 +8,49 @@ Minimum : 250 kJ/100 ml (60 kcal/100 ml).
 
 Maximum : 315 kJ/100 ml (75 kcal/100 ml).
 
-2. Protéines.
+2. Protéines :
 
-(Teneur en protéines = teneur en azote x 6,38 pour les protéines de lait de vache).
+(Teneur en protéines = teneur en azote x 6,38) pour les protéines de lait de vache.
 
-(Teneur en protéines = teneur en azote x 6,25 pour les isolats de protéines de soja).
+(Teneur en protéines = teneur en azote x 6,25) pour les isolats de protéines de soja et les hydrolysats partiels de protéines.
 
-2.1. Préparations à base de protéines de lait de vache non modifiées :
+On entend par indice chimique le plus faible des rapports existant entre la quantité de chaque acide aminé essentiel de la protéine considérée et la quantité de chaque acide aminé correspondant de la protéine de référence.
 
-Minimum : 0,56 g/100 kJ (2,25 g/100 kcal).
+2.1. Préparation à base de protéines de lait de vache :
 
-Maximum : 0,7 g/100 kJ (3 g/100 kcal).
+Minimum
 
-L'indice chimique des protéines présentes n'est pas inférieur à 80 p. 100 de celui de la protéine de référence (lait maternel, tel que défini à l'annexe VI) ; toutefois, pour les besoins de ce calcul, les taux de méthionine et de cystine peuvent être additionnés.
+0,45 g/100 kJ
 
-On entend par "indice chimique" le plus faible des rapports existant entre la quantité de chaque acide aminé essentiel de la protéine considérée et la quantité de chaque acide aminé correspondant de la protéine de référence.
+(1,8 g/100 kcal)
 
-2.2. Préparations à base de protéines de lait de vache modifiées (rapport caséines/protéines de lactosérum inférieur ou égal à 1) :
+Maximum
 
-Minimum : 0,45 g/100 kJ (1,8 g/100 kcal).
+0,7 g/100 kJ
 
-Maximum : 0,7 g/100 kJ (3 g/100 kcal).
+(3 g/100 kcal)
 
-A valeur énergétique égale, la préparation doit contenir chaque acide aminé essentiel et semi-essentiel dans une quantité disponible au moins égale à celle contenue dans la protéine de référence (lait maternel, tel que défini à l'annexe V).
+A valeur énergétique égale, la préparation doit contenir une quantité disponible de chacun des acides aminés essentiels et semi-essentiels au moins égale à celle contenue dans la protéine de référence (lait maternel, tel que défini à l'annexe V) ; toutefois, pour les calculs, les concentrations de méthionine et de cystine peuvent être comptées ensemble.
+
+2.2. Préparations à base d'hydrolysats partiels de protéines :
+
+Minimum
+
+0,56 g/100 kJ
+
+(2,25 g/100 kcal)
+
+Maximum
+
+0,7 g/100 kJ
+
+(3 g/100 kcal)
+
+A valeur énergétique égale, la préparation doit contenir une quantité disponible de chacun des acides aminés essentiels et semi-essentiels au moins égale à celle contenue dans la protéine de référence (lait maternel, tel que défini à l'annxe V) ; toutefois, pour les calculs, les concentrations de méthionine et de cystine peuvent être comptées ensemble.
+
+Le coefficient d'efficacité protéique (PER) et l'utilisation protéique nette (NPU) doivent être au moins égaux à ceux de la caséine.
+
+La teneur en taurine doit être au moins égale à 10 micro moles/100 kJ (42 micro moles/100 kcal) et la teneur en L-carnitine doit être au moins égale à 1,8 micro moles/100 kJ (7,5 micro moles/100 kcal).
 
 2.3. Préparations à base d'isolats de protéines de soja, seuls ou mélangés à des protéines de lait de vache :
 
@@ -40,7 +60,9 @@ Maximum : 0,7 g/100 kJ (3 g/100 kcal).
 
 Seuls les isolats de protéines de soja peuvent être employés pour la fabrication de ces préparations.
 
-L'indice chimique n'est pas inférieur à 80 p. 100 de celui de la protéine de référence (lait maternel, tel que défini à l'annexe VI).    A valeur énergétique égale, la préparation doit contenir une quantité disponible de méthionine au moins égale à celle contenue dans la protéine de référence (lait maternel, tel que défini à l'annexe V).
+L'indice chimique n'est pas inférieur à 80 p. 100 de celui de la protéine de référence (lait maternel, tel que défini à l'annexe VI).
+
+A valeur énergétique égale, la préparation doit contenir une quantité disponible de méthionine au moins égale à celle contenue dans la protéine de référence (lait maternel, tel que défini à l'annexe V).
 
 La teneur en L-carnitine doit être au moins égale à 1,8,moles/100 kJ (7,5,moles/100 kcal).
 
@@ -48,7 +70,7 @@ La teneur en L-carnitine doit être au moins égale à 1,8,moles/100 kJ (7,5,mol
 
 3. Lipides.
 
-Minimum : 0,8 g/100 kJ (3,3 g/100 kcal).
+Minimum : 1,05 g/100 kJ (4,4 g/100 kcal).
 
 Maximum : 1,5 g/100 kJ (6,5 g/100 kcal).
 
@@ -57,8 +79,6 @@ Maximum : 1,5 g/100 kJ (6,5 g/100 kcal).
 Huile de sésame.
 
 Huile de coton.
-
-Matières grasses contenant plus de 8 p. 100 d'isomères trans d'acides gras.
 
 3.2. Acide laurique :
 
@@ -73,6 +93,26 @@ Maximum : 15 p. 100 des matières grasses totales.
 Minimum : 70 mg/100 kJ (300 mg/100 kcal).
 
 Maximum : 285 mg/100 kJ (1 200 mg/100 kcal).
+
+3.5. La teneur en acide alpha-linolénique ne doit pas être inférieure à 12 mg/100 kJ (50 mg/100 kcal) ;
+
+Le rapport acide linoléique/alpha-linolénique ne doit pas être inférieur à 5, ni supérieur à 15 ;
+
+3.6. La teneur en isomères trans d'acides gras ne doit pas être supérieure à 4 % de la teneur totale en matière grasses ;
+
+3.7. La teneur en acide érucique ne doit pas être supérieure à 1 % de la teneur totale en matières grasses ;
+
+3.8. Des acides gras poly-insaturés (LCP) à chaînes longues (20 et 22 atomes de carbone) peuvent être ajoutés. Dans ce cas, leur teneur ne doit pas être supérieure à :
+
+1 % de la teneur totale en matières grasses pour les LCP n-3,
+
+et
+
+2 % de la teneur totale en matières grasses pour les LCP n-6 ;
+
+1 % de la teneur totale en matières grasses pour l'acide arachidonique.
+
+La teneur en acide eicosapentaénoïque (20:5 n-3) ne doit pas être supérieure à la teneur en acide docosahexaénoïque (22:6 n-3).
 
 4. Glucides.
 
@@ -174,7 +214,15 @@ pour 100 KJ : 1,2 , ...
 
 pour 100 KCAL : 5, ...
 
+"Sélénium (2) (micro g).
+
+pour 100 kJ : 0,7
+
+pour 100 kcal : 3
+
 (1) Limite applicable aux préparations enrichies en fer.
+
+(2) Limite applicable aux préparations contenant du sélénium ajouté.
 
 Le rapport calcium phosphore n'est pas inférieur à 1,2 ni supérieur à 2,0.
 
@@ -220,11 +268,11 @@ pour 100 KJ : 14, ...
 
 pour 100 KCAL : 60, ...
 
-Nicotinamide ($GMg-EN) (3).
+Niacine (mg-EN)
 
-pour 100 KJ : 60, ...
+pour 100 kJ : 0,2
 
-pour 100 KCAL : 250, ...
+pour 100 kcal : 0,8
 
 Acide pantothénique ($GMg).
 
@@ -281,3 +329,39 @@ pour 100 KCAL : 0,5/g d'acides polyinsaturés exprimés en acide linoléique, ma
 (3) EN = équivalent niacine = mg acide nicotinique + mg tryptophane/60.
 
 (4) Alpha-ET = d-Alpha-équivalent tocophérol.
+
+7. Les nucléotides suivants peuvent être ajoutés :
+
+MAXIMUM (1)
+
+Monophosphate 5' de cytidine
+
+0,60 (mg/100 kJ)
+
+2,50 (mg/100 kcal)
+
+Monophosphate 5' d'uridine
+
+0,42 (mg/100 kJ)
+
+1,75 (mg/100 kcal)
+
+Monophosphate 5' d'adénosine
+
+0,36 (mg/100 kJ)
+
+1,50 (mg/100 kcal)
+
+Monophosphate 5' de guanosine
+
+0,12 (mg/100 kJ)
+
+0,50 (mg/100 kcal)
+
+Monophosphate 5' d'inosine
+
+0,24 (mg/100 kJ)
+
+1,00 (mg/100 kcal)
+
+(1) La concentration totale en nucléotides ne doit pas dépasser 1,2 mg/100 kJ (5 mg/100 kcal).

@@ -18,9 +18,11 @@ Minimum : 0,5 g/100 kJ (2,25 g/100 kcal).
 
 Maximum : 1 g/100 kJ (4,5 g/100 kcal).
 
-L'indice chimique des protéines présentes est au moins égal à 80 p. 100 de celui de la protéine de référence (caséine, telle que définie à l'annexe VI).
+L'indice chimique des protéines présentes est au moins égal à 80 p. 100 de celui de la protéine de référence (caséine ou lait maternel, telle que définie à l'annexe VI).
 
 On entend par "indice chimique" le plus faible des rapports existant entre la quantité de chaque acide aminé essentiel de la protéine considérée et la quantité de chaque acide aminé correspondant de la protéine de référence.
+
+A valeur énergétique égale, ces préparations doivent contenir une quantité disponible de méthionine au moins égale à celle contenue dans le lait maternel, tel que défini à l'annexe V.
 
 Pour les préparations de suite à base de protéines de soja, seules ou mélangées à des protéines de lait de vache, seuls les isolats de protéines de soja peuvent être employés.
 
@@ -38,8 +40,6 @@ Huile de sésame.
 
 Huile de coton.
 
-Matière grasses contenant plus de 8 p. 100 d'isomères trans d'acides gras.
-
 3.2. Acide laurique :
 
 Maximum : 15 p. 100 des matières grasses totales.
@@ -51,6 +51,10 @@ Maximum : 15 p. 100 des matières grasses totales.
 3.4. Acide linoléique (sous forme de glycérides r linoléates) :
 
 Minimum : 70 mg/100 kJ (300 mg/100 kcal) : cette limite ne s'applique qu'aux préparations de suite additionnées d'huiles végétales.
+
+3.5. La teneur en isomères trans d'acides gras ne doit pas être supérieure à 4 % de la teneur totale en matières grasses ;
+
+3.6. La teneur en acide érucique ne doit pas être supérieure à 1 % de la teneur totale en matières grasses.
 
 4. Glucides.
 
@@ -133,3 +137,39 @@ pour 100 KCAL : 0,5/g d'acides polyinsaturés exprimés en acide linoléique, ma
 (2) Sous forme de cholécalciférol, dont 10 mu g = 400 UI de vitamines D.
 
 (3) Alpha-ET = d-Alpha-équivalent tocophérol.
+
+7. Les nucléotides suivants peuvent être ajoutés :
+
+MAXIMUM (1)
+
+Monophosphate 5' de cytidine
+
+0,60 (mg/100 kJ)
+
+2,50 (mg/100 kcal)
+
+Monophosphate 5' d'uridine
+
+0,42 (mg/100 kJ)
+
+1,75 (mg/100 kcal)
+
+Monophosphate 5' d'adénosine
+
+0,36 (mg/100 kJ)
+
+1,50 (mg/100 kcal)
+
+Monophosphate 5' de guanosine
+
+0,12 (mg/100 kJ)
+
+0,50 (mg/100 kcal)
+
+Monophosphate 5' d'inosine
+
+0,24 (mg/100 kJ)
+
+1,00 (mg/100 kcal)
+
+(1) La concentration totale en nucléotides ne doit pas dépasser 1,2 mg/100 kJ (5 mg/100 kcal).
