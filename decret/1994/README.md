@@ -146,7 +146,6 @@
 - [Décret n°88-566 du 5 mai 1988 (RESK8800406D)](decret-n88-566-du-5-mai-1988-resk8800406d)
 - [Décret n°94-358 du 5 mai 1994 (EQUS9400010D)](decret-n94-358-du-5-mai-1994-equs9400010d)
 - [Décret n°94-359 du 5 mai 1994 (AGRG9400189D)](decret-n94-359-du-5-mai-1994-agrg9400189d)
-- [Décret du 6 juillet 1994 (SPSS9401074D)](decret-du-6-juillet-1994-spss9401074d)
 - [Décret du 6 juin 1994 (INTB9400143D)](decret-du-6-juin-1994-intb9400143d)
 - [Décret du 6 septembre 1994 (PRMX9400382D)](decret-du-6-septembre-1994-prmx9400382d)
 - [Décret n°93-1046 du 6 septembre 1993 (AGRR9300679D)](decret-n93-1046-du-6-septembre-1993-agrr9300679d)
