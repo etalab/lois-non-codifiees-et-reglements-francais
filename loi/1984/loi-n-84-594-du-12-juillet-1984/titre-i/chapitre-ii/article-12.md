@@ -1,7 +1,13 @@
 # Article 12
 
-Le centre régional de formation organise, dans les conditions prévues par la présente loi, les actions de formation des agents de la fonction publique territoriale [*attributions*].
+Le Centre national de la fonction publique territoriale est doté d'un conseil d'orientation composé de :
 
-Il établit un programme régional annuel de formation qui respecte les règles fixées en matière de formation par les statuts particuliers des corps et emplois de la fonction publique territoriale et doit être conforme aux orientations générales définies par le Centre national de formation prévu à l'article 17.    Le programme régional de formation peut déléguer, pour l'application du programme régional, la détermination et la mise en oeuvre de certaines actions aux collectivités et établissements mentionnés à l'article 11, et notamment aux centres départementaux de gestion. Il peut également confier la mise en oeuvre de certaines actions à un autre centre régional.
+1° Cinq représentants du conseil d'administration du Centre national de la fonction publique territoriale, dont le président ou son représentant, désignés par le conseil d'administration de l'établissement public ;
 
-Par ailleurs, le centre régional de formation peut assurer, par voie de convention, des actions de formation des fonctionnaires de l'Etat.
+2° Cinq délégués régionaux ou interdépartementaux, mentionnés au deuxième alinéa de l'article 14 ci-après, du Centre national de la fonction publique territoriale, désignés par le conseil d'administration du Centre national de la fonction publique territoriale ;
+
+3° Dix représentants des fonctionnaires territoriaux désignés par les organisations syndicales ; le nombre de sièges attribué à chaque organisation syndicale est fixé par arrêté du ministre chargé des collectivités locales en fonction de leur représentativité nationale ;
+
+4° Ce conseil d'orientation est assisté de cinq personnalités qualifiées, choisies par le conseil d'administration du Centre national de la fonction publique territoriale, en raison de leurs compétences en matière pédagogique et de formation ou des responsabilités qu'elles exercent ou ont exercées dans des postes de direction de services de collectivités territoriales ou de leurs établissements. Elles participent, avec voix consultative, à tous les travaux et études qui relèvent de la compétence du conseil d'orientation.
+
+Le conseil d'orientation élit en son sein son président.

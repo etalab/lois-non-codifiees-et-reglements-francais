@@ -8,6 +8,6 @@ Sont régies par le présent titre :
 
 a) La formation prévue par les statuts particuliers pour la titularisation dans la fonction publique territoriale ;
 
-b) La formation dispensée en cours de carrière, soit en relation avec les fonctions exercées, soit en vue d'accéder à un nouveau corps ou à un nouvel emploi ;
+b) La formation dispensée en cours de carrière, soit en relation avec les fonctions exercées, soit en vue d'accéder à un nouveau cadre d'emploi, à un nouveau corps, à un nouvel emploi ou à un nouveau grade ;
 
 c) La formation personnelle des fonctionnaires territoriaux suivie à leur initiative.

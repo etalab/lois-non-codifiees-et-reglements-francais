@@ -1,4 +1,4 @@
-# CHAPITRE II : Des centres régionaux de formation.
+# CHAPITRE II : Du centre national de la fonction publique territoriale
 
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)

@@ -1,7 +1,19 @@
 # Article 15
 
-Le conseil d'administration du centre régional est assisté, à titre consultatif, en matière de formation et de pédagogie, par un conseil d'orientation.
+Le délégué interdépartemental ou régional est assisté d'un conseil d'orientation composé de :
 
-Dans le cadre de cette mission et compte tenu des directives qui peuvent lui être adressées par le conseil d'administration, le conseil d'orientation élabore chaque année un projet de programme régional de formation en fonction des plans de formation. Il peut faire toutes propositions au conseil d'administration en matière de formation et de pédagogie.
+1° Un nombre de représentants des communes égal au nombre des départements situés dans le ressort territorial de la délégation, sans que ce nombre puisse être inférieur à quatre et dont deux au moins sont choisis en leur sein par les conseils d'administration des centres de gestion ;
 
-Le conseil d'administration du centre régional désigne les membres du conseil d'orientation. La moitié de ses membres sont des personnalités qualifiées par leurs connaissances en matière de formation et de pédagogie, choisies selon des modalités déterminées par décret en Conseil d'Etat. Ce même décret fixe le nombre des membres du conseil d'orientation. Le conseil d'orientation élit en son sein son président.
+2° Deux représentants des départements situés dans le ressort territorial de la délégation ;
+
+3° Un représentant de la région lorsque les fonctionnaires de celle-ci relèvent de la délégation ;
+
+4° Autant de représentants des fonctionnaires territoriaux désignés par les organisations syndicales représentatives que de représentants des employeurs prévus aux 1°, 2° et 3° ci-dessus ;
+
+5° Deux personnalités qualifiées, choisies par le conseil d'administration du Centre national de la fonction publique territoriale sur proposition du délégué régional ou interdépartemental, qui assistent aux délibérations avec voix consultative.
+
+Le conseil d'orientation est présidé par le délégué du Centre national de la fonction publique territoriale.
+
+Le nombre de sièges attribués à chaque organisation syndicale en application du 4° ci-dessus est fixé par arrêté du représentant de l'Etat dans le département dans lequel est situé le siège de la délégation, en fonction de leur représentativité dans le ressort territorial de la délégation.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article et notamment détermine les conditions de désignation des membres du conseil d'orientation.

@@ -1,15 +1,15 @@
 # Article 16
 
-Les ressources du centre régional de formation sont constituées par :
+Le conseil d'orientation placé auprès du délégué interdépartemental ou régional établit, au vu des plans de formation, un rapport relatif aux besoins de formation des collectivités et établissements.
 
-1° Une cotisation obligatoire versée par les communes, les départements et la région, ainsi que leurs établissements publics administratifs ;
+Il élabore, conformément aux décisions du Centre national de la fonction publique territoriale, le programme des formations qui doivent être assurées directement ou par voie de convention par la délégation.
 
-2° Les redevances pour prestations de services ;
+Il est consulté pour avis sur :
 
-3° Les dons et legs ;
+1° Le projet de budget de la délégation. Son avis motivé est transmis au conseil d'administration du Centre national de la fonction publique territoriale avec les propositions du délégué ;
 
-4° Les emprunts affectés aux opérations d'investissements ;
+2° L'exécution du budget de la délégation ;
 
-5° Les subventions qui lui sont accordées.
+3° Le rapport annuel d'activités de la délégation préalablement à sa transmission au conseil d'administration du Centre national de la fonction publique territoriale.
 
-La cotisation prévue au deuxième alinéa est assise sur la masse constituée par les rémunérations versées aux agents employés par les collectivités et établissements mentionnés au premier alinéa de l'article 2 de la loi n° 84-53 du 26 juillet 1984 précitée, et par les cotisations sociales afférentes à ces rémunérations [*assiette*].    Les rémunérations et les cotisations sociales visées à l'alinéa précédent sont celles qui apparaissent aux comptes administratifs de l'avant-dernier exercice.    Le taux de cette cotisation est fixé par délibération du conseil d'administration du centre régional, dans la limite d'un minimum et d'un maximum déterminés par la loi.
+Il peut faire toute proposition en matière de formation et de pédagogie.

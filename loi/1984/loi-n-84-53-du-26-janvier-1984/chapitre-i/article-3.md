@@ -4,10 +4,6 @@ Les collectivités et établissements mentionnés à l'article 2 ne peuvent recr
 
 Ces collectivités et établissements peuvent, en outre, recruter des agents non titulaires pour exercer des fonctions correspondant à un besoin saisonnier pour une durée maximale de six mois pendant une même période de douze mois et conclure pour une durée maximale de trois mois, renouvelable une seule fois à titre exceptionnel, des contrats pour faire face à un besoin occasionnel.
 
-Des emplois permanents peuvent être occupés par des agents contractuels pour exercer des fonctions nécessitant des connaissances techniques hautement spécialisées. Ces agents sont recrutés dans ces emplois par des contrats d'une durée maximale de trois ans, renouvelables une fois pour une même période.
+Des emplois permanents peuvent être occupés par des agents contractuels dans les mêmes cas et selon les mêmes conditions de durée que ceux applicables aux agents de l'Etat.
 
-Un décret en Conseil d'Etat, pris après avis du Conseil supérieur de la fonction publique territoriale, fixe les catégories d'emplois qui peuvent être créés en application des deuxième et troisième alinéas.
-
-L'application du présent article fait l'objet d'un rapport annuel de l'autorité territoriale ou du président du centre départemental de gestion au comité technique paritaire compétent pour l'ensemble des services de la collectivité ou l'ensemble des collectivités affiliées, précisant notamment le nombre des emplois ainsi pourvus.
-
-Le décret visé au quatrième alinéa fait l'objet d'une révision tous les trois ans, notamment pour tenir compte des corps et emplois de titulaires qui peuvent être créés pour assumer les fonctions visées au troisième alinéa.    Les collectivités et établissements mentionnés à l'article 2 peuvent continuer à employer des agents non titulaires n'ayant pas la nationalité française, en fonction à la date d'application de la loi n° 85-10 du 3 janvier 1985 portant diverses dispositions d'ordre social.
+Toutefois, dans les communes de moins de 2 000 habitants et dans les groupements de communes dont la moyenne arithmétique des nombres d'habitants ne dépasse pas ce seuil, des contrats peuvent être conclus pour une durée déterminée et renouvelés par reconduction expresse pour pourvoir des emplois permanents à temps non complet et correspondant à un nombre maximal d'heures de travail qui n'excède pas celui mentionné à l'article 107 de la présente loi. "
