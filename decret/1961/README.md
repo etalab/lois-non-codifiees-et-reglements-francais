@@ -38,7 +38,6 @@
 - [Décret n°61-1406 du 18 décembre 1961](decret-n61-1406-du-18-decembre-1961)
 - [Décret n°61-62 du 18 janvier 1961](decret-n61-62-du-18-janvier-1961)
 - [Décret n°61-1260 du 20 novembre 1961](decret-n61-1260-du-20-novembre-1961)
-- [Décret n°61-652 du 21 juin 1961](decret-n61-652-du-21-juin-1961)
 - [Décret n°61-776 du 21 juillet 1961](decret-n61-776-du-21-juillet-1961)
 - [Décret n°61-836 du 22 juillet 1961](decret-n61-836-du-22-juillet-1961)
 - [Décret n°61-1162 du 24 octobre 1961](decret-n61-1162-du-24-octobre-1961)
