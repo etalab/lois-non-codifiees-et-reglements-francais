@@ -315,7 +315,6 @@
 - [Décret n°82-842 du 29 septembre 1982](decret-n82-842-du-29-septembre-1982)
 - [Décret n°82-924 du 29 octobre 1982](decret-n82-924-du-29-octobre-1982)
 - [Décret n°82-925 du 29 octobre 1982](decret-n82-925-du-29-octobre-1982)
-- [Décret n°82-926 du 29 octobre 1982](decret-n82-926-du-29-octobre-1982)
 - [Décret n°82-934 du 29 octobre 1982](decret-n82-934-du-29-octobre-1982)
 - [Décret n°82-935 du 29 octobre 1982](decret-n82-935-du-29-octobre-1982)
 - [Décret n°81-1175 du 30 décembre 1981](decret-n81-1175-du-30-decembre-1981)

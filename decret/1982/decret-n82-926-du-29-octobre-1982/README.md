@@ -1,4 +1,0 @@
-# Décret n°82-926 du 29 octobre 1982 RELATIF AUX DATES D'OUVERTURE ET DE MODIFICATION DU DROIT AUX PRESTATIONS FAMILIALES.
-
-- [Article 1](article-1.md)
-- [Article 16](article-16.md)
