@@ -26,6 +26,7 @@
 - [Décret n°70-413 du 8 mai 1970](decret-n70-413-du-8-mai-1970)
 - [Décret du 9 septembre 1970](decret-du-9-septembre-1970)
 - [Décret n° 70-816 du 9 septembre 1970](decret-n-70-816-du-9-septembre-1970)
+- [Décret n°70-1146 du 9 décembre 1970](decret-n70-1146-du-9-decembre-1970)
 - [Décret n°70-207 du 9 mars 1970](decret-n70-207-du-9-mars-1970)
 - [Décret n°70-240 du 9 mars 1970](decret-n70-240-du-9-mars-1970)
 - [Décret n°70-333 du 9 avril 1970](decret-n70-333-du-9-avril-1970)
