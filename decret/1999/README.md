@@ -169,6 +169,8 @@
 - [Décret n°99-571 du 7 juillet 1999 (JUSD9930061D)](decret-n99-571-du-7-juillet-1999-jusd9930061d)
 - [Décret n°99-573 du 7 juillet 1999 (EQUH9900765D)](decret-n99-573-du-7-juillet-1999-equh9900765d)
 - [Décret n°99-582 du 7 juillet 1999 (PRMG9970282D)](decret-n99-582-du-7-juillet-1999-prmg9970282d)
+- [Décret n°99-769 du 7 septembre 1999](decret-n99-769-du-7-septembre-1999)
+- [Décret n°99-771 du 7 septembre 1999 (INTD9900176D)](decret-n99-771-du-7-septembre-1999-intd9900176d)
 - [Décret n°99-9 du 7 janvier 1999 (ECOD9870033D)](decret-n99-9-du-7-janvier-1999-ecod9870033d)
 - [Décret n°99-353 du 7 mai 1999 (INTM9900009D)](decret-n99-353-du-7-mai-1999-intm9900009d)
 - [Décret n°99-356 du 7 mai 1999 (MCCT9900340D)](decret-n99-356-du-7-mai-1999-mcct9900340d)
