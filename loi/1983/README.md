@@ -9,6 +9,7 @@
 - [Loi n° 83-1109 du 21 décembre 1983](loi-n-83-1109-du-21-decembre-1983)
 - [Loi n° 83-1119 du 23 décembre 1983](loi-n-83-1119-du-23-decembre-1983)
 - [Loi n° 83-1159 du 24 décembre 1983](loi-n-83-1159-du-24-decembre-1983)
+- [Loi n° 83-1186 du 29 décembre 1983](loi-n-83-1186-du-29-decembre-1983)
 - [Loi n° 83-25 du 19 janvier 1983](loi-n-83-25-du-19-janvier-1983)
 - [Loi n° 83-332 du 22 avril 1983](loi-n-83-332-du-22-avril-1983)
 - [Loi n° 83-337 du 23 avril 1983](loi-n-83-337-du-23-avril-1983)

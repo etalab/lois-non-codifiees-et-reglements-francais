@@ -1,4 +1,4 @@
-# Arrêté du 28 décembre 1983 concernant les entreprises de manutention portuaires et les consignataires de navires
+# Arrêté du 28 décembre 1983 relatif à l'application de l'article 2 (3°) du décret n° 83-228 du 22 mars 1983 fixant le régime de l'autorisation des exploitations de cultures marines
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

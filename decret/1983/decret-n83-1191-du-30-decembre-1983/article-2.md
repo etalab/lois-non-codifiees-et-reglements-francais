@@ -1,0 +1,5 @@
+# Article 2
+
+La liquidation des avantages de vieillesse et d'invalidité concédés au titre du présent décret ou la révision des avantages de vieillesse ou d'invalidité comportant une date d'entrée en jouissance antérieure à la demande de validation mentionnée à l'article 1er prend effet du premier jour du mois suivant la date de réception de la demande de validation par la Caisse autonome nationale de la sécurité sociale dans les mines [*date, point de départ*].
+
+Toutefois, pour les demandes de validation en cours d'examen à la date de publication du présent décret au Journal officiel et pour les demandes présentées dans un délai de six mois à compter de cette date, la liquidation ou la révision de l'avantage de vieillesse ou d'invalidité prend effet au premier jour du mois suivant ladite date.    Pour les personnes déjà titulaires d'un avantage de vieillesse ou d'invalidité, la révision des droits tient compte des périodes validées antérieures à la date d'effet de la liquidation en appliquant le mode de calcul des pensions et majorations en vigueur à la date d'entrée en jouissance immédiate.

@@ -3,4 +3,4 @@
 - [Chapitre Ier : Des prestations.](chapitre-ier)
 - [Chapitre II : Des services.](chapitre-ii)
 - [Chapitre III : Des structures et des procédures.](chapitre-iii)
-- [Chapitre V : Dispositions diverses ou transitoires](chapitre-v)
+- [Chapitre V : Dispositions diverses et transitoires.](chapitre-v)
