@@ -176,6 +176,7 @@
 - [Décret n°94-165 du 18 février 1994 (MAEJ9430006D)](decret-n94-165-du-18-fevrier-1994-maej9430006d)
 - [Décret n°94-236 du 18 mars 1994 (ENVP9420017D)](decret-n94-236-du-18-mars-1994-envp9420017d)
 - [Décret n°94-243 du 18 mars 1994 (ECOC9400024D)](decret-n94-243-du-18-mars-1994-ecoc9400024d)
+- [Décret n°94-300 du 18 avril 1994 (SPSS9400973D)](decret-n94-300-du-18-avril-1994-spss9400973d)
 - [Décret n°94-714 du 18 août 1994 (AGRS9401211D)](decret-n94-714-du-18-aout-1994-agrs9401211d)
 - [Décret n°94-80 du 18 janvier 1994 (MAEJ9330048D)](decret-n94-80-du-18-janvier-1994-maej9330048d)
 - [Décret n°94-392 du 18 mai 1994 (SPSH9400717D)](decret-n94-392-du-18-mai-1994-spsh9400717d)
