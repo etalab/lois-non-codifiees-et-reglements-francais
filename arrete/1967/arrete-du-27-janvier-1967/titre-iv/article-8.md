@@ -1,3 +1,0 @@
-# Article 8
-
-Les emprunts à l'étranger, soumis à autorisation en vertu de l'article 6 du décret n° 67-78 du 27 janvier 1967, modifié par le décret n° 69-264 du 21 mars 1969, ou dispensés d'autorisation en application du 3° du même article, doivent, lors de leur constitution et lors des remboursements, faire l'objet de comptes rendus adressés au ministère de l'économie et des finances (direction du Trésor) dans les vingt jours qui suivent la réalisation de chaque opération. Les comptes rendus doivent être établis sur des formules spéciales tenues par cette direction à la disposition des intéressés.
