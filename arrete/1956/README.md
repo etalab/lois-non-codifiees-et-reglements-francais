@@ -2,6 +2,7 @@
 
 - [Arrêté du 1 août 1956](arrete-du-1-aout-1956)
 - [Arrêté du 1 juin 1956](arrete-du-1-juin-1956)
+- [Arrêté du 11 décembre 1956](arrete-du-11-decembre-1956)
 - [Arrêté du 11 janvier 1956](arrete-du-11-janvier-1956)
 - [Arrêté du 16 juillet 1956](arrete-du-16-juillet-1956)
 - [Arrêté du 20 juillet 1956](arrete-du-20-juillet-1956)
