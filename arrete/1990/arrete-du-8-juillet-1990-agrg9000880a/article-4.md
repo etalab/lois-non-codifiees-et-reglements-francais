@@ -1,7 +1,9 @@
 # Article 4
 
-Les indemnités allouées au propriétaire d'un cheptel porcin dont les animaux sont éliminés en application des textes pris pour l'exécution des arrêtés du 15 février 1984 et du 6 juillet 1990, sont fixées à :
+Les indemnités allouées au propriétaire d'un cheptel porcin dont les animaux sont éliminés en application des textes pris pour l'exécution des arrêtés du 15 février 1984 et du 6 juillet 1990 sont fixées à 107 euros par suidé reproducteur abattu dans le délai requis suivant la notification de cette mesure par le directeur départemental des services vétérinaires.
 
-700 F par porc reproducteur en service, en cas d'abattage de tous les porcs reproducteurs et porcelets non sevrés de l'élevage, sous réserve que ceux-ci soient abattus dans un délai de trente jours suivant la notification de cette mesure par le directeur des services vétérinaires ;
+Toutefois, cette indemnité peut être portée à 183 euros par suidé reproducteur pour les cheptels de sélection ou de multiplication.
 
-500 F par porc reproducteur en service, en cas d'abattage des seuls porcs reproducteurs sérologiquement positifs et de leurs porcelets non sevrés, sous réserve que ceux-ci soient abattus dans un délai de huit jours suivant la notification de cette mesure par le directeur des services vétérinaires.
+En ce qui concerne l'abattage d'un porc destiné à l'engraissement ou à l'abattoir, l'indemnité versée par l'Etat est calculée selon la formule suivante :
+
+Poids vif x 0,765 x (cours du marché du porc breton au jour de l'abattage + 0,12 euro).
