@@ -8,13 +8,13 @@ La juridiction disciplinaire comprend [*composition*] :
 
 3° Trois membres titulaires et trois suppléants, nommés pour trois ans par le ministre chargé de la santé et choisis en dehors des personnels enseignants et hospitaliers, des personnels enseignants et des personnels hospitaliers des centres hospitaliers et universitaires ;
 
-4° Trois membres titulaires et trois membres suppléants appartenant au corps des professeurs des universités-praticiens hospitaliers, élus pour trois ans par les personnels de ce corps ;
+4° Trois membres titulaires et six membres suppléants appartenant au corps des professeurs des universités-praticiens hospitaliers, élus pour trois ans par les personnels de ce corps ;
 
-5° Trois membres titulaires et trois membres suppléants appartenant aux corps des maîtres de conférences des universités-praticiens hospitaliers et des chefs de travaux-assistants des hôpitaux, élus pour trois ans par les personnels de ces corps.
+5° Trois membres titulaires et six membres suppléants appartenant aux corps des maîtres de conférences des universités-praticiens hospitaliers et des chefs de travaux-assistants des hôpitaux, élus pour trois ans par les personnels de ces corps.
 
-6° Deux membres titulaires et deux membres suppléants représentant les personnels mentionnés au 2° et au 3° de l'article 1er, élus pour trois ans par et parmi ces personnels.
+6° Deux membres titulaires et deux membres suppléants représentant les personnels mentionnés au 2° et au 3° de l'article 1er, élus pour trois ans par et parmi ces personnels. Chacun des collèges mentionnés au cinquième alinéa ci-dessous est représenté au moins par un titulaire ou un suppléant.
 
-Lorsque la juridiction disciplinaire est appelée à se prononcer sur le cas d'un professeur des universités - praticien hospitalier, la juridiction est complétée par trois membres titulaires et trois membres suppléants appartenant à ce corps élus dans les mêmes conditions et pour la même durée que les membres de la juridiction mentionnés au 4° ci-dessus.
+Lorsque la juridiction disciplinaire est appelée à se prononcer sur le cas d'un professeur des universités - praticien hospitalier, la juridiction est complétée par trois membres titulaires et six membres suppléants appartenant à ce corps élus dans les mêmes conditions et pour la même durée que les membres de la juridiction mentionnés au 4° ci-dessus. Les membres suppléants sont classés, selon le nombre de voix obtenu, par arrêté interministériel, sur une même liste.
 
 Lorsque la juridiction disciplinaire est appelée à se prononcer sur le cas d'un membre des personnels mentionnés au 6°, elle est complétée par deux membres, l'un désigné par le ministre chargé de l'enseignement supérieur parmi les membres suppléants nommés en application du 2°, l'autre désigné par le ministre chargé de la santé parmi les membres suppléants nommés en application du 3°.
 

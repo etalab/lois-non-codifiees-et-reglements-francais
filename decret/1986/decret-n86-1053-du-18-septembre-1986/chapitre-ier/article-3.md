@@ -1,6 +1,6 @@
 # Article 3
 
-La juridiction est convoquée par son président.
+La juridiction est convoquée par son président. En cas d'indisponibilité d'un membre titulaire, les membres suppléants correspondants sont convoqués dans l'ordre de la liste mentionnée aux 4° et 5° du premier alinéa et au deuxième alinéa de l'article 22 du décret du 24 février 1984 susvisé.
 
 Ne peut siéger [*incompatibilité*] , pour l'examen d'une affaire, un membre de la juridiction disciplinaire étant dans l'une des situations ci-après :
 

@@ -1,6 +1,6 @@
 # Article 4
 
-La juridiction ne peut valablement siéger et délibérer que si au moins deux tiers de ses membres, dont le président ou son suppléant, sont présents [*pourcentage*].
+La juridiction ne peut valablement siéger et délibérer que si la majorité des membres, dont le président ou son suppléant, est présente.
 
 Les séances ne sont pas publiques.
 
