@@ -402,7 +402,6 @@
 - [Arrêté du 13 septembre 1993 (MCCK9300274A)](arrete-du-13-septembre-1993-mcck9300274a)
 - [Arrêté du 13 mai 1993 (MJSK9370116A)](arrete-du-13-mai-1993-mjsk9370116a)
 - [Arrêté du 14 avril 1993 (ECOT9310173A)](arrete-du-14-avril-1993-ecot9310173a)
-- [Arrêté du 14 avril 1993 (INTE9300287A)](arrete-du-14-avril-1993-inte9300287a)
 - [Arrêté du 14 avril 1993 (INTE9300288A)](arrete-du-14-avril-1993-inte9300288a)
 - [Arrêté du 14 décembre 1992 (MENK9200487A)](arrete-du-14-decembre-1992-menk9200487a)
 - [Arrêté du 14 décembre 1993 (EQUA9301870A)](arrete-du-14-decembre-1993-equa9301870a)
