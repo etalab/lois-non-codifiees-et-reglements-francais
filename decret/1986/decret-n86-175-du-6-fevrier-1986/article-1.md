@@ -2,7 +2,11 @@
 
 Le montant du soutien financier inscrit à la deuxième section du compte d'affectation spéciale n° 902-10 est destiné [*objet*] :
 
-1° A l'octroi de subventions en vue de concourir à la production de programmes audiovisuels dits de fiction ou d'animation destinés à une première diffusion par les services de communication audiovisuelle soumis à la taxe et au prélèvement prévus à l'article 36 de la loi de finances susvisée ;
+1° A l'octroi de subventions en vue de concourir à :
+
+a) La production d'oeuvres audiovisuelles, destinées à une première diffusion par les services de communication audiovisuelle soumis à la taxe et au prélèvement prévus à l'article 36 de la loi de finances susvisée, dans les genres suivants : oeuvre de fiction, à l'exclusion des sketches, oeuvres d'animation et documentaires de création ;
+
+b) La préparation de la réalisation des oeuvres visées au a ci-dessus, dans des conditions précisées par arrêté du ministre chargé de la culture.
 
 2° Au soutien de la production de programmes, diffusés dans les mêmes conditions, présentant un intérêt particulier d'un point de vue culturel, technique et économique, par le versement de subventions ou d'avances et par la garantie de prêts en vue notamment :
 

@@ -2,7 +2,7 @@
 
 Toute subvention calculée en fonction de la diffusion d'une oeuvre audiovisuelle de référence doit être investie dans la production d'une oeuvre de réinvestissement dans le délai de deux ans à partir du premier jour de l'année suivant celle de la notification du montant de la subvention à son bénéficiaire.
 
-Toute aide allouée au titre du e du 2° de l'article 1er du présent décret doit être investie pour la production d'une oeuvre nouvelle dans un délai d'un an à compter de la notification du montant de la subvention à son bénéficiaire.
+Toute aide accordée au titre du 2° de l'article 1er du présent décret doit être investie dans la production de l'oeuvre pour laquelle elle a été demandée dans un délai d'un an à compter de la notification du montant de la subvention à son bénéficiaire.
 
 A défaut d'investissement dans les délais prévus aux alinéas précédents, le bénéficiaire est déchu de la faculté qui lui était offerte d'obtenir le versement d'une subvention.
 
