@@ -1,3 +1,0 @@
-# Article 50
-
-Lorsqu'une juridiction saisie d'une instance mettant en cause une personne non inscrite au registre du commerce et des sociétés rend une décision impliquant l'obligation pour cette personne de s'immatriculer, le greffier, sur l'injonction qui lui en est faite par une disposition expresse de cette décision, transmet un extrait de celle-ci au juge commis à la surveillance du registre dans le ressort duquel l'intéressé a son établissement principal ou, s'il s'agit d'une personne morale ayant son siège sur le territoire français, au juge dans le ressort duquel est le siège. Il est alors procédé ainsi qu'il est dit aux articles 46, 47, 48 et 49.
