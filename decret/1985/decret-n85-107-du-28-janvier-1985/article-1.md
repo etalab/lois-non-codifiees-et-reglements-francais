@@ -1,0 +1,3 @@
+# Article 1
+
+Jusqu'au 31 décembre 1986, dans le cadre des opérations de conversions industrielles, les ouvriers du ministère de la défense employés dans des services ou établissements militaires dont la liste est fixée par arrêté conjoint du ministre de l'économie, des finances et du budget et du ministre de la défense peuvent, sur leur demande et sous réserve de l'intérêt du service, cesser par anticipation leur activité et obtenir la jouissance immédiate de leur pension s'ils sont âgés de cinquante-cinq ans et comptent vingt-cinq années de services liquidables au titre du régime des pensions des ouvriers des établissements industriels de l'Etat.
