@@ -1,0 +1,7 @@
+# Article 12-1
+
+Les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, qui ne sont pas titulaires de l'un des titres inscrits sur la liste prévue à l'article 43 de la loi du 16 juillet 1984 susvisée, ni d'un titre admis en équivalence selon la procédure prévue aux articles 2 et 2-1 du décret du 21 septembre 1989 susvisé, peuvent solliciter la délivrance d'une attestation de qualification et d'aptitude. Cette attestation confère à son titulaire les mêmes droits et avantages que ceux qui sont attachés à la possession du diplôme national exigé pour l'exercice de la même profession ou activité.
+
+Après examen de la demande par l'un des jurys qualifiés institués par l'article 12 du présent décret, le ministre chargé des sports délivre l'attestation de qualification et d'aptitude aux ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui justifient avoir exercé, pendant trois ans consécutivement ou pendant une période équivalente à temps partiel au cours des dix dernières années, la profession ou l'activité concernée dans un Etat qui ne réglemente pas l'exercice de cette profession ou activité.
+
+Le ministre chargé des sports peut exiger du demandeur qu'il accomplisse un stage d'adaptation d'une durée maximale de deux ans qui fait l'objet d'une évaluation ou qu'il subisse une épreuve d'aptitude. La décision du ministre intervient dans un délai de quatre mois à compter du dépôt de la demande : elle est motivée.
