@@ -36,7 +36,7 @@ L'exploitant conserve avec la documentation technique une copie de la déclarati
 
 **2.2.**Le contrôle de mise en service est réalisé  simultanément sur l'ensemble des équipements sous pression  interconnectés et mis simultanément en service au sein d'une même  installation. Il consiste en un examen assurant que les équipements sous  pression satisfont aux dispositions techniques qui leur sont  applicables et notamment que leurs conditions d'exploitation en  permettent une utilisation sûre. Ces opérations, ainsi que la liste des  éléments justificatifs qui doivent être produits par l'exploitant, sont  définies par l'arrêté soumettant certains équipements au régime du  contrôle de mise en service.
 
-**2.3.** Supprimé.
+**2.3.** Le contrôle de mise en service est réalisé sous la surveillance du directeur régional de l'industrie, de la recherche et de l'environnement. Pour l'exécution de tout ou partie des opérations que comporte le contrôle de mise en service, le directeur régional de l'industrie, de la recherche et de l'environnement peut déléguer des organismes préalablement habilités à cet effet par le ministre chargé de l'industrie, conformément aux dispositions du titre IV.
 
 **2.4.** Le détenteur doit fournir la main-d'oeuvre et  les moyens matériels nécessaires aux opérations de contrôle et est tenu  de garantir leur sécurité.
 
@@ -54,7 +54,7 @@ L'exploitant conserve avec la documentation technique une copie de la déclarati
 
 **3.4.** Les opérations de la requalification périodique  portent en principe sur chaque installation. Toutefois, l'arrêté  soumettant au régime de la requalification périodique certains  équipements installés à demeure chez des usagers par des organismes qui  en conservent la propriété et la responsabilité peut prévoir qu'il sera  procédé à cette requalification en opérant un contrôle statistique de  ces équipements ; il appartient alors à ces organismes de répartir ces  équipements, pour les besoins du contrôle, en lots homogènes ; tous les  équipements qui font partie d'un lot vérifié sont réputés avoir subi les  opérations de la requalification périodique.
 
-**3.5.**Supprimé.
+**3.5.**La requalification périodique est réalisée sous la surveillance du directeur régional de l'industrie, de la recherche et de l'environnement. Pour l'exécution de tout ou partie des opérations que comporte la requalification périodique, le directeur régional de l'industrie, de la recherche et de l'environnement peut déléguer des organismes préalablement habilités à cet effet par le ministre chargé de l'industrie, conformément aux dispositions du titre IV. L'arrêté mentionné à l'article 18 peut également prévoir que, dans le cas où l'exploitant dispose d'une compétence suffisante et a mis en place des procédures garantissant la qualité de ses interventions, l'exploitant assume lui-même la direction de tout ou partie des opérations que comporte la requalification périodique, en présente les résultats au directeur régional de l'industrie, de la recherche, et de l'environnement et tient à sa disposition l'ensemble des justificatifs nécessaires.
 
 **3.6.** Le détenteur doit fournir la main-d'oeuvre et  les moyens matériels nécessaires aux opérations de requalification et  est tenu de garantir leur sécurité.
 
@@ -72,7 +72,7 @@ Le contrôle après réparation ou modification doit également être  réalisé
 
 **4.3.**Le contrôle après réparation ou modification  d'un équipement comprend les examens, contrôles et essais nécessaires  pour assurer que la partie réparée ou modifiée continue à présenter un  niveau de sécurité satisfaisant. Ces opérations sont définies par  l'arrêté soumettant certains équipements au régime du contrôle après  réparation ou modification.
 
-**4.4.** Supprimé.
+**4.4.** Le contrôle après réparation ou modification est réalisé sous la surveillance du directeur régional de l'industrie, de la recherche et de l'environnement. Pour l'exécution de tout ou partie des opérations que comporte le contrôle après réparation, le directeur régional de l'industrie, de la recherche et de l'environnement peut déléguer des organismes préalablement habilités à cet effet par le ministre chargé de l'industrie conformément aux dispositions du titre IV. L'arrêté mentionné à l'article 18 peut également prévoir que, dans le cas où l'exploitant dispose d'une compétence suffisante et a mis en place des procédures garantissant la qualité de ses interventions, l'exploitant assume lui-même la direction de tout ou partie des opérations que comporte le contrôle après réparation ou modification, en présente les résultats au directeur régional de l'industrie, de la recherche et de l'environnement et tient à sa disposition l'ensemble des justificatifs nécessaires.
 
 **4.5.**Le demandeur du contrôle doit fournir la  main-d'oeuvre et les moyens matériels nécessaires et est tenu de  garantir leur sécurité.
 
