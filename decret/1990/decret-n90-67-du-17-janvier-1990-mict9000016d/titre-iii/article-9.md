@@ -1,5 +1,0 @@
-# Article 9
-
-Afin de contribuer au développement de la production audiovisuelle, les sociétés et les services mentionnés à l'article 8 du présent décret sont tenus, d'une part, de consacrer chaque année au moins 15  p. 100 de leur chiffre d'affaires annuel net de l'exercice précédent à la commande d'oeuvres audiovisuelles d'expression originale française et, d'autre part, de diffuser un volume horaire annuel minimum de cent vingt heures d'oeuvres audiovisuelles européennes ou d'expression originale française n'ayant pas fait l'objet d'une diffusion en clair sur un réseau hertzien terrestre à caractère national et dont la diffusion débute entre 20 heures et 21 heures.
-
-Dans la limite de 2 p. 100 du chiffre d'affaires annuel net de l'exercice précédent, sont assimilées à des commandes retenues pour l'application du premier alinéa du présent article les sommes consacrées à l'acquisition de droits de diffusion d'oeuvres audiovisuelles d'expression originale française, pour le montant de ces droits correspondant à la première diffusion de chaque oeuvre par la société ou le service concerné.
