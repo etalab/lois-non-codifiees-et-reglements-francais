@@ -8,110 +8,247 @@ b) Avec effet du 1er août 1995, dans la limite du quart de l'effectif des contr
 
 Les intéressés sont classés conformément au tableau de correspondance ci-après :
 
-GRADE
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="center">GRADE</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<p align="center">ANCIENNETÉ CONSERVÉE <br/>
+<br/>dans la limite <br/>
+<br/>de la durée de l'échelon</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">D'origine</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">D'intégration</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<i>Contrôleur divisionnaire <br/>
+<br/>du Trésor</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">
+<i>Contrôleur principal du Trésor public</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">6e échelon :</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">- après 3 ans </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté conservée moins 3 ans.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">- avant 3 ans </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté conservée majorée de 1 an.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">5e échelon :</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">- après 1 an</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté conservée moins 1 an.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">- avant 1 an</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté conservée majorée de 2 ans.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">4e échelon :</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">- après 1 an</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté conservée moins 1 an.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">- avant 1 an </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté conservée majorée de 2 ans.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">3e échelon :</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">- après 1 an</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté conservée moins 1 an.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">- avant 1 an</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté conservée majorée de 1 an 6 mois.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">2e échelon :</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">- après 1 an 6 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté conservée moins 1 an 6 mois.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">- avant 1 an 6 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté conservée majorée de 1 an.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">1er échelon :</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">- après 2 ans </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté conservée moins 2 ans.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">- avant 2 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté conservée.</p>
+</td>
+</tr>
+</tbody>
+</table>La situation au 1er août 1995 des agents mentionnés au a et au b du présent article ne peut être moins favorable en ce qui concerne tant l'échelon que l'ancienneté dans cet échelon que celle qui aurait été la leur s'ils n'avaient été promus qu'au 1er août 1995 et reclassés dans le grade provisoire de contrôleur divisionnaire créé par l'article 25 puis reclassés dans le grade de contrôleur principal du Trésor public à cette même date.
 
-D'origine
-
-D'intégration
-
-ANCIENNETÉ CONSERVÉE
-
-dans la limite
-
-de la durée de l'échelon
-
-Contrôleur
-
-divisionnaire
-
-du Trésor
-
-Contrôleur
-
-principal
-
-du Trésor public
-
-6e échelon :
-
-- après 3 ans
-
-7e échelon
-
-Ancienneté conservée moins 3 ans.
-
-- avant 3 ans
-
-6e échelon
-
-Ancienneté conservée majorée de 1 an.
-
-5e échelon :
-
-- après 1 an
-
-6e échelon
-
-Ancienneté conservée moins 1 an.
-
-- avant 1 an
-
-5e échelon
-
-Ancienneté conservée majorée de 2 ans.
-
-4e échelon :
-
-- après 1 an
-
-5e échelon
-
-Ancienneté conservée moins 1 an.
-
-- avant 1 an
-
-4e échelon
-
-Ancienneté conservée majorée de 2 ans.
-
-3e échelon :
-
-- après 1 an
-
-4e échelon
-
-Ancienneté conservée moins 1 an.
-
-- avant 1 an
-
-3e échelon
-
-Ancienneté conservée majorée de 1 an 6 mois.
-
-2e échelon :
-
-- après 1 an 6 mois
-
-3e échelon
-
-Ancienneté conservée moins 1 an 6 mois.
-
-- avant 1 an 6 mois
-
-2e échelon
-
-Ancienneté conservée majorée de 1 an.
-
-1er échelon :
-
-- après 2 ans
-
-2e échelon
-
-Ancienneté conservée moins 2 ans.
-
-- avant 2 ans
-
-1er échelon
-
-Ancienneté conservée.
+Doivent être appliquées, pour le reclassement dans le grade provisoire, les règles fixées à l'article 31 du présent décret, et, pour le reclassement dans le grade de contrôleur principal du Trésor public, celles fixées à l'article 26.
