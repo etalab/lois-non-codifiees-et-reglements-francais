@@ -168,6 +168,7 @@
 - [Arrêté du 28 novembre 1984](arrete-du-28-novembre-1984)
 - [Arrêté du 28 septembre 1984](arrete-du-28-septembre-1984)
 - [Arrêté du 28 mai 1984](arrete-du-28-mai-1984)
+- [Arrêté du 29 février 1984](arrete-du-29-fevrier-1984)
 - [Arrêté du 29 juin 1984](arrete-du-29-juin-1984)
 - [Arrêté du 29 mars 1984](arrete-du-29-mars-1984)
 - [Arrêté du 29 novembre 1984](arrete-du-29-novembre-1984)
