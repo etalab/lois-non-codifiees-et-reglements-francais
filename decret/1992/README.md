@@ -981,7 +981,6 @@
 - [Décret n°91-237 du 28 février 1991 (ECOX9110047D)](decret-n91-237-du-28-fevrier-1991-ecox9110047d)
 - [Décret n°91-865 du 28 août 1991 (EQUX9100120D)](decret-n91-865-du-28-aout-1991-equx9100120d)
 - [Décret n°92-103 du 28 janvier 1992 (JUSD9130069D)](decret-n92-103-du-28-janvier-1992-jusd9130069d)
-- [Décret n°92-1043 du 28 septembre 1992 (COMX9200111D)](decret-n92-1043-du-28-septembre-1992-comx9200111d)
 - [Décret n°92-1044 du 28 septembre 1992 (BUDR9206035D)](decret-n92-1044-du-28-septembre-1992-budr9206035d)
 - [Décret n°92-1048 du 28 septembre 1992 (LOGC9200038D)](decret-n92-1048-du-28-septembre-1992-logc9200038d)
 - [Décret n°92-1055 du 28 septembre 1992 (INTB9200423D)](decret-n92-1055-du-28-septembre-1992-intb9200423d)
