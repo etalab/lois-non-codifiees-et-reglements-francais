@@ -1,0 +1,3 @@
+# Article 4
+
+Une session d'examen pour chaque mention de spécialisation est organisée au moins tous les deux ans. La date d'ouverture de la session ou, s'il y a lieu, de chacune des sessions est fixée par le directeur général de l'Institut national de la propriété industrielle. Avis en est donné par voie d'insertion au Journal officiel de la République française et au Bulletin officiel de la propriété industrielle ainsi que par affichage dans les salles de consultation de l'Institut national de la propriété industrielle à Paris et des centres régionaux de documentation de l'Institut national de la propriété industrielle, quatre mois au moins avant la date de la première épreuve.
