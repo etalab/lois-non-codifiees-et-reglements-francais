@@ -8,7 +8,6 @@
 - [Arrêté du 1 décembre 1987 (EQUC8701067A)](arrete-du-1-decembre-1987-equc8701067a)
 - [Arrêté du 1 juin 1987 (ASET8703409A)](arrete-du-1-juin-1987-aset8703409a)
 - [Arrêté du 2 août 1988 (MERE8800061A)](arrete-du-2-aout-1988-mere8800061a)
-- [Arrêté du 2 août 1988 (SPSS8801171A)](arrete-du-2-aout-1988-spss8801171a)
 - [Arrêté du 2 décembre 1988 (AGRE8801931A)](arrete-du-2-decembre-1988-agre8801931a)
 - [Arrêté du 2 décembre 1988 (BUDR8805007A)](arrete-du-2-decembre-1988-budr8805007a)
 - [Arrêté du 2 décembre 1988 (TEFT8804150A)](arrete-du-2-decembre-1988-teft8804150a)
