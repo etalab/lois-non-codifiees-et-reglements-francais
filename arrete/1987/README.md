@@ -765,7 +765,6 @@
 - [Arrêté du 31 décembre 1986 (INTB8700044A)](arrete-du-31-decembre-1986-intb8700044a)
 - [Arrêté du 31 décembre 1986 (TRSA8600005A)](arrete-du-31-decembre-1986-trsa8600005a)
 - [Arrêté du 31 juillet 1987 (ASEP8701149A)](arrete-du-31-juillet-1987-asep8701149a)
-- [Arrêté du 31 juillet 1987 (ASES8700994A)](arrete-du-31-juillet-1987-ases8700994a)
 - [Arrêté du 31 juillet 1987 (INDF8700449A)](arrete-du-31-juillet-1987-indf8700449a)
 - [Arrêté du 31 mars 1987 (AGRE8700767A)](arrete-du-31-mars-1987-agre8700767a)
 - [Arrêté du 31 mars 1987 (AGRE8700768A)](arrete-du-31-mars-1987-agre8700768a)
