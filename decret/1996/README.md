@@ -345,7 +345,6 @@
 - [Décret n°96-990 du 13 novembre 1996 (DEFP9601793D)](decret-n96-990-du-13-novembre-1996-defp9601793d)
 - [Décret n°96-995 du 13 novembre 1996 (EQUS9600514D)](decret-n96-995-du-13-novembre-1996-equs9600514d)
 - [Décret n°96-996 du 13 novembre 1996 (MAEJ9630074D)](decret-n96-996-du-13-novembre-1996-maej9630074d)
-- [Décret n°96-397 du 13 mai 1996 (TASC9620539D)](decret-n96-397-du-13-mai-1996-tasc9620539d)
 - [Décret n°96-399 du 13 mai 1996 (MAEJ9630014D)](decret-n96-399-du-13-mai-1996-maej9630014d)
 - [Décret n°96-400 du 13 mai 1996 (INTC9600096D)](decret-n96-400-du-13-mai-1996-intc9600096d)
 - [Décret n°96-401 du 13 mai 1996 (INTC9600097D)](decret-n96-401-du-13-mai-1996-intc9600097d)
