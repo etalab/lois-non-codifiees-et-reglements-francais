@@ -1,6 +1,6 @@
 # Article 77
 
-Les assistants des universités-assistants des hôpitaux en fonctions à la date d'effet du présent décret demeurent régis par les dispositions du décret du 24 septembre 1960 susvisé.
+Les assistants des universités-assistants des hôpitaux en fonctions à la date d'effet du présent décret demeurent régis par les dispositions du décret du 24 septembre 1960 susvisé. Toutefois les dispositions des articles 20 à 25, 26-7, 26-8 et 26-9 leur sont applicables en tant quelles concernent les assistants hospitaliers universitaires. Les assistants des universités-assistants des hôpitaux participent à l'élection des membres de la juridiction disciplinaire mentionnée au 6° de l'article 22.
 
 Il ne sera plus procédé au recrutement d'assistants des universités-assistants des hôpitaux à compter de la date d'effet du présent décret.
 

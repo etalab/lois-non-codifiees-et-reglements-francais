@@ -6,4 +6,4 @@ Ils sont maintenus dans leur emploi en attendant leur nomination dans le corps d
 
 Les diplômes requis au 1° de l'article 48 ne sont pas exigés des assistants des universités-assistants des hôpitaux ayant plus de quatre ans d'ancienneté à la date d'effet du présent décret.
 
-Pendant une période de six ans, à compter de la même date, les assistants des universités-assistants des hôpitaux mentionnés au premier alinéa peuvent se présenter aux concours organisés par application du 1° de l'article 61 sans justifier des titres requis audit article.
+Pendant une période de six ans, à compter de la même date, les assistants des universités-assistants des hôpitaux mentionnés au premier alinéa peuvent se présenter aux concours organisés par application de l'article 61 sans justifier des titres requis audit article dans les disciplines cliniques figurant sur une liste fixée par arrêté du ministre chargé de l'enseignement supérieur et du ministre chargé de la santé et dans les disciplines biologiques et mixtes.

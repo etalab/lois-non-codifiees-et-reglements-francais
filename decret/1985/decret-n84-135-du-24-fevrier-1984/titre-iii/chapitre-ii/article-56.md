@@ -71,5 +71,3 @@ Du 1er au 2e échelon
 ANCIENNETE REQUISE pour l'accès à l'échelon supérieur :
 
 2 ans 8 mois.
-
-L'avancement prend effet du premier jour du mois qui suit la date à laquelle l'intéressé remplit les conditions pour en bénéficier.
