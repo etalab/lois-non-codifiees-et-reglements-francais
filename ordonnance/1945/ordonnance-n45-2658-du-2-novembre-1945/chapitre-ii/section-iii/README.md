@@ -1,0 +1,3 @@
+# SECTION III : DES ETRANGERS RESIDENTS PRIVILEGIES.
+
+- [Article 17](article-17.md)
