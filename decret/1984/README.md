@@ -136,6 +136,7 @@
 - [Décret n°84-63 du 27 janvier 1984](decret-n84-63-du-27-janvier-1984)
 - [Décret n°83-1018 du 28 novembre 1983](decret-n83-1018-du-28-novembre-1983)
 - [Décret n°84-335 du 28 mars 1984](decret-n84-335-du-28-mars-1984)
+- [Décret n°84-399 du 28 mai 1984](decret-n84-399-du-28-mai-1984)
 - [Décret n°83-1208 du 29 décembre 1983](decret-n83-1208-du-29-decembre-1983)
 - [Décret n°84-216 du 29 mars 1984](decret-n84-216-du-29-mars-1984)
 - [Décret n°84-218 du 29 mars 1984](decret-n84-218-du-29-mars-1984)
