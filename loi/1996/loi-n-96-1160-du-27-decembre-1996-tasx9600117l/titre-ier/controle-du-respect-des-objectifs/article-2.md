@@ -1,0 +1,3 @@
+# Article 2
+
+Les membres du Parlement qui ont la charge de présenter, au nom de la commission compétente, le rapport sur les projets de loi de financement de la sécurité sociale suivent et contrôlent, sur pièces et sur place, l'application de ces lois auprès des administrations de l'Etat et des établissements publics compétents. Réserve faite des informations couvertes par le secret médical ou le secret de la défense nationale, tous les renseignements d'ordre financier et administratif de nature à faciliter leur mission doivent leur être fournis. Ils sont habilités à se faire communiquer tout document de quelque nature que ce soit.

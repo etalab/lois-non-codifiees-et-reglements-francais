@@ -12,4 +12,10 @@ Les opérations de régularisation concernent :
 
 5° Le rattachement des prélèvements sur recettes se rapportant à des recettes comptabilisées au titre de la gestion précédente.
 
-Ces opérations peuvent être constatées en écritures complémentaires au 31 décembre dans les délais fixés à l'article 9.
+Ces opérations peuvent être constatées en écritures complémentaires au 31 décembre de l'année :
+
+Jusqu'au 15 janvier de l'année suivante par les comptables principaux de l'Etat ;
+
+Jusqu'au 23 janvier ou jusqu'au 30 janvier de l'année suivante par les comptables et pour les opérations désignés par un arrêté du ministre chargé du budget ;
+
+Jusqu'au 7 février de l'année suivante par l'agent comptable central du Trésor pour la modification d'une écriture erronée.

@@ -1,0 +1,7 @@
+# Article 9
+
+1° Le contrat de plan, établi conformément à l'article 9 de la loi du 2 juillet 1990 susvisée, est signé, après avis motivé et rendu public de la Commission supérieure du service public des postes et des télécommunications, par le président du conseil d'administration de France Télécom, le ministre chargé des télécommunications, le ministre chargé de l'économie et le ministre chargé du budget. Il définit pour une période minimale de trois ans les grandes orientations stratégiques et financières de France Télécom et de son groupe, les moyens à mettre en oeuvre pour les réaliser ainsi que la gestion prévisionnelle des domaines d'activités stratégiques.
+
+2° La préparation du contrat du plan est conduite en concertation avec les organisations syndicales ; son projet est soumis, selon les modalités prévues par le conseil d'administration, aux instances représentatives du personnel ; le projet de contrat de plan est soumis, avant sa signature, au conseil d'administration.
+
+3° Un bilan de l'exécution du contrat de plan est présenté chaque année par France Télécom au ministre chargé des télécommunications, au ministre chargé de l'économie et au ministre chargé du budget au plus tard le 15 mai. Le ministre chargé des télécommunications transmet ce bilan à la Commission supérieure du service public des postes et télécommunications. Les organisations syndicales représentatives et les institutions représentatives du personnel sont informées de ce bilan.
