@@ -136,7 +136,7 @@
 </td>
 <td>Fort-de-France (Martinique)</td>
 <td>
-<p align="center">40</p>
+<p align="center">26</p>
 </td>
 </tr>
 <tr>
