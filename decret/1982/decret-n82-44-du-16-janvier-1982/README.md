@@ -1,0 +1,3 @@
+# Décret n°82-44 du 16 janvier 1982 FIXANT LE PLAFOND DES RESSOURCES FISCALES DES REGIONS POUR 1982.
+
+- [Article 1](article-1.md)
