@@ -2,8 +2,8 @@
 
 Les dépenses du régime sont constituées par :
 
-Le service des allocations ;
+- Le service des allocations ;
 
-Les remboursements de points tabac prévus aux articles 23 et 24 ci-après ;
+- Les versements prévus à l'article 24 ci-après ;
 
-Les frais de gestion.
+- Les frais de gestion.
