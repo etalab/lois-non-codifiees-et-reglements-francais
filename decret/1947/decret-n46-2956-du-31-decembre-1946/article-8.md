@@ -1,7 +1,0 @@
-# Article 8
-
-Paragraphe 1er. - Sauf le cas où elles bénéficient de l'exonération prévue à l'article 6 de la loi du 22 mai 1946, les personnes immatriculées en qualité de salariés ou assimilés devront compléter, le cas échéant, chaque année ou chaque trimestre leurs cotisations versées au titre de l'assurance obligatoire des salariés, de façon que leurs cotisations, en ce qui concerne l'assurance vieillesse, ne soient pas inférieures à celles qui seraient versées sur des gains, salaires ou revenus, égaux aux maxima respectivement fixés soit par l'article 4, paragraphes 2, 3 et 4, de la loi du 22 mai 1946, soit par l'article 24, paragraphes 2 et 3, de ladite loi.
-
-Paragraphe 2. - Sauf le cas où elles bénéficient de l'exonération prévue à l'article 6 de la loi du 22 mai 1946, les personnes immatriculées en vertu de ladite loi en qualité de non-salariés devront compléter, le cas échéant, chaque année ou chaque trimestre leurs cotisations d'assurance vieillesse versées au titre de leur activité professionnelle, de façon qu'elles ne soient pas inférieures à celles qui auraient été assises sur les minima respectivement fixés soit par l'article 4, paragraphe 3 et 4, de la loi du 22 mai 1946, soit par l'article 24, paragraphe 3, de ladite loi.
-
-Paragraphe 3. - Toutefois, les cotisations ne sont pas dues pour les périodes visées à l'article 70 de l'ordonnance n° 45-2454 du 19 octobre 1945 en ce qui concerne les salariés et assimilés, quelle que soit leur profession.

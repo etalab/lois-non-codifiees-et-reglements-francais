@@ -1,3 +1,0 @@
-# Article 220
-
-Un décret rendu sur la proposition du ministre de la sécurité sociale, du ministre de l'économie et des finances, du ministre chargé des mines, du ministre de la santé publique et du ministre chargé de la population déterminera toutes les mesures nécessaires à l'application du présent décret et notamment les mesures prévues aux articles 13, 28, 34, 35, 36, 39, 42, 53, 62, 73, 81, 83, 88, 93, 96, 122, 125, 138, 163, 172, 179, 189 et 213 ainsi que les mesures transitoires nécessitées par le passage du régime actuellement en vigueur au régime institué par le présent décret notamment pour assurer la trésorerie des divers organismes de sécurité sociale dans les mines.
