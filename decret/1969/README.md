@@ -14,7 +14,6 @@
 - [Décret n°69-794 du 7 août 1969](decret-n69-794-du-7-aout-1969)
 - [Décret n°69-795 du 7 août 1969](decret-n69-795-du-7-aout-1969)
 - [Décret n°69-800 du 8 août 1969](decret-n69-800-du-8-aout-1969)
-- [Décret n°69-100 du 10 janvier 1969](decret-n69-100-du-10-janvier-1969)
 - [Décret n°69-50 du 10 janvier 1969](decret-n69-50-du-10-janvier-1969)
 - [Décret n°69-51 du 10 janvier 1969](decret-n69-51-du-10-janvier-1969)
 - [Décret n°69-52 du 10 janvier 1969](decret-n69-52-du-10-janvier-1969)
