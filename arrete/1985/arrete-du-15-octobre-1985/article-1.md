@@ -1,3 +1,3 @@
 # Article 1
 
-Les praticiens nommés sur un emploi de praticien hospitalier à temps plein régi par le décret n° 84-131 du 24 février 1984 modifié susvisé quittant un établissement hospitalier pour recevoir une affectation dans un autre établissement hospitalier bénéficient, sur les bases et dans les conditions fixées pour les agents de l'Etat, du remboursement des frais engagés par eux et les membres de leur famille à l'occasion de ce changement de résidence, lorsqu'il est effectué dans l'un des cas prévus à l'article 2 ci-après.
+Les appareils portatifs de radiographie industrielle utilisant le rayonnement gamma de marque Nuclear, type Teletron SU 100, ne doivent pas être utilisés au-delà du 30 juin 1989 et doivent, pour être utilisés, satisfaire aux prescriptions ci-après. Toutefois, les appareils satisfaisant aux prescriptions des articles ci-après et rendus conformes à la norme NF M 60-551 (publication 1983) peuvent être utilisés au-delà de cette date.

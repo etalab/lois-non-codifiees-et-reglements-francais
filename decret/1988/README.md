@@ -19,6 +19,7 @@
 - [Décret n°87-1113 du 24 décembre 1987 (EQUC8701034D)](decret-n87-1113-du-24-decembre-1987-equc8701034d)
 - [Décret n°87-1116 du 24 décembre 1987 (ASEG8703948D)](decret-n87-1116-du-24-decembre-1987-aseg8703948d)
 - [Décret n°87-1152 du 24 décembre 1987 (PRMJ8760093D)](decret-n87-1152-du-24-decembre-1987-prmj8760093d)
+- [Décret n°87-1159 du 24 décembre 1987 (BUDZ8700008D)](decret-n87-1159-du-24-decembre-1987-budz8700008d)
 - [Décret n°87-1161 du 24 décembre 1987 (AGRR8702269D)](decret-n87-1161-du-24-decembre-1987-agrr8702269d)
 - [Décret n°88-278 du 24 mars 1988 (MENF8800395D)](decret-n88-278-du-24-mars-1988-menf8800395d)
 - [Décret n°87-351 du 26 mai 1987 (ASEF8703363D)](decret-n87-351-du-26-mai-1987-asef8703363d)
@@ -30,4 +31,5 @@
 - [Décret n°87-1146 du 31 décembre 1987 (INTB8700410D)](decret-n87-1146-du-31-decembre-1987-intb8700410d)
 - [Décret n°87-1153 du 31 décembre 1987 (BUDB8740093D)](decret-n87-1153-du-31-decembre-1987-budb8740093d)
 - [Décret n°87-1154 du 31 décembre 1987 (ECOX8798705D)](decret-n87-1154-du-31-decembre-1987-ecox8798705d)
+- [Décret n°87-1160 du 31 décembre 1987 (ECOT8811012D)](decret-n87-1160-du-31-decembre-1987-ecot8811012d)
 - [Décret n°87-1167 du 31 décembre 1987 (RESY8800001D)](decret-n87-1167-du-31-decembre-1987-resy8800001d)

@@ -1,0 +1,3 @@
+# Article 7
+
+Dans le cadre des délégations de pouvoirs qui leur auront été consenties, les recteurs d'académie et les inspecteurs d'académie, directeurs des services départementaux de l'éducation, pourront déléguer leur signature par arrêté aux chefs d'établissements d'enseignement public pour les actes de gestion ayant trait aux congés de maladie prévus au premier alinéa du 2° de l'article 34 de la loi du 11 janvier 1984 susvisée ainsi qu'à l'article 12 du décret du 17 janvier 1986 susvisé et aux congés pour maternité ou pour adoption prévus au 5° de l'article 34 précité ainsi qu'à l'article 15 du décret du 17 janvier 1986 susvisé.

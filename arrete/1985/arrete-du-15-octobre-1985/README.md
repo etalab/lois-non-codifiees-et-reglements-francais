@@ -1,4 +1,4 @@
-# Arrêté du 15 octobre 1985 relatif à l'examen d'attestation de capacité permettant l'exercice de la profession de transporteur public routier de personnes
+# Arrêté du 15 octobre 1985 fixant une date limite d'utilisation et définissant les conditions d'utilisation d'un appareil portatif de radiographie gamma industrielle (marque Nuclear, modèle SU 100)
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,11 +1,5 @@
 # Article 8
 
-Toutes les épreuves sont notées de 0 à 20. Toute note inférieure à 5 sur 20 est éliminatoire, sauf pour l'épreuve de transport international. Sont déclarés reçus les candidats qui ont obtenu, pour l'ensemble des épreuves et après application des coefficients, une note moyenne égale à 10 sur 20.
+Les décisions sont arrêtées par le ministre chargé de l'agriculture. Toutefois la décision est prise conjointement par le ministre chargé de l'agriculture, le ministre chargé de l'économie et le ministre chargé du budget si l'un des représentants de ces ministres au conseil spécialisé le demande.
 
-En cas d'échec, le candidat ne peut se présenter à l'examen qu'après :
-
-- un délai de deux mois à compter de la date de son premier échec ;
-
-- un délai de six mois à compter de la date d'un second échec ;
-
-- le délai est porté à douze mois pour les échecs suivants.
+Lorsqu'un projet ayant fait l'objet d'un avis favorable du conseil spécialisé n'a pas donné lieu à une décision dans un délai de quinze jours, il en est rendu compte à la plus prochaine séance de ce conseil.
