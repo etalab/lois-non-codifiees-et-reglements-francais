@@ -1,3 +1,19 @@
 # Article 17
 
-L'exemplaire destiné au contrôle doit être retourné dans les quinze jours suivant l'expiration de chaque mise à disposition d'un véhicule à la représentation locale de l'organisation professionnelle des loueurs visée par l'article 40 bis du décret n° 49-1473 du 14 novembre 1949 modifié ou, si l'entreprise n'est pas membre de celle-ci, au directeur régional de l'équipement dans la circonscription duquel celle-ci est inscrite au registre des loueurs [*délai, point de départ*].
+A. - Sur ses trois feuillets, la feuille de location doit notamment mentionner les indications suivantes qui doivent être complétées par l'entreprise de location avant la mise à disposition du véhicule.
+
+" - identification commerciale de l'entreprise de location et numéro d'inscription au registre des loueurs ;
+
+" - nom et adresse du locataire ;
+
+" - numéro de l'autorisation ou de la licence de location dont est muni le véhicule ;
+
+" - numéro d'immatriculation et caractéristiques du véhicule loué ;
+
+" - lieu, date et heure de mise à disposition du véhicule ;
+
+" - kilométrage au départ ;
+
+" - date et heure de restitution du véhicule.
+
+" B. - Le locataire ou son mandataire, qui pourra être le conducteur du véhicule, doit, avant toute utilisation du véhicule, signer la feuille de location.
