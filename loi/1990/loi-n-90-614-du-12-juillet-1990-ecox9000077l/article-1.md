@@ -6,7 +6,7 @@ Les dispositions des chapitres Ier et II de la présente loi sont applicables :
 
 2° Aux institutions et services mentionnés à l'article 8 de ladite loi ;
 
-3° Aux entreprises mentionnées à l'article L. 310-1 du code des assurances ;
+3° Aux entreprises mentionnées à l'article L. 310-1 du code des assurances et aux courtiers d'assurance et de réassurance ;
 
 4° Aux organismes entrant dans le champ de l'article L. 111-1 du code de la mutualité ;
 
