@@ -41,7 +41,6 @@
 - [Décret n°73-802 du 9 août 1973](decret-n73-802-du-9-aout-1973)
 - [Décret n°73-54 du 11 janvier 1973](decret-n73-54-du-11-janvier-1973)
 - [Décret n°73-73 du 11 janvier 1973](decret-n73-73-du-11-janvier-1973)
-- [Décret n°73-953 du 11 octobre 1973](decret-n73-953-du-11-octobre-1973)
 - [Décret n°73-955 du 11 octobre 1973](decret-n73-955-du-11-octobre-1973)
 - [Décret n°72-937 du 12 octobre 1972](decret-n72-937-du-12-octobre-1972)
 - [Décret n°73-1098 du 12 décembre 1973](decret-n73-1098-du-12-decembre-1973)

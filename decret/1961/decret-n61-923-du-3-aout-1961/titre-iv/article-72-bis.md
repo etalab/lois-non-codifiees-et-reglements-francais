@@ -1,3 +1,0 @@
-# Article 72 bis
-
-Lorsque la circonscription d'une chambre de commerce et d'industrie s'étend à plusieurs départements, les délégués consulaires élus au titre d'un département sont convoqués, au moins une fois par an, en réunion générale, sous la présidence d'un vice-président de la chambre de commerce et d'industrie et dans les conditions prévues par le décret constitutif de la chambre. Les dispositions des alinéas 2, 3 et 4 de l'article 72 du présent décret sont applicables à ces réunions. Toutefois, la communication prévue audit alinéa 2 est assurée par le vice-président de la chambre de commerce et d'industrie appelé à présider les réunions.
