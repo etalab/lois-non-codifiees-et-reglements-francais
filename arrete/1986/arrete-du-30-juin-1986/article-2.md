@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur de la sécurité sociale, le directeur du budget et le directeur des enseignements supérieurs sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'arrêté fixant le montant des indemnités pour perte d'effets ou d'équipements par suite d'événements de mer est abrogé.

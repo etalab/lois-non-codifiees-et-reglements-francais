@@ -1,3 +1,3 @@
 # Article 1
 
-La valeur du point de retraite applicable au 1er janvier 1986 et fixée à 1,864 F par l'arrêté du 17 mars 1986 est portée à 1,868 F pour la période du 1er juillet au 31 décembre 1986.
+Les établissements de crédit ayant passé une convention avec le ministre chargé de l'économie et des finances conformément à l'article 2 du décret du 21 juin 1983 susvisé fixent librement le taux nominal des prêts visés à l'article 4 du même décret et destinés à financer les investissements liés à la création d'une entreprise ou d'un groupement ainsi qu'à leur développement lorsque celui-ci s'accompagne de la création d'emplois, à l'intérieur d'une fourchette dont les limites sont définies dans la convention susvisée.
