@@ -1,3 +1,0 @@
-# Article 8
-
-En contrepartie de la prise en charge directe par l'Etat des dépenses mentionnées à l'article 6, le montant de la dotation générale de décentralisation ou, à défaut, le produit des impôts affectés aux départements pour compenser les charges nouvelles résultant des transferts de compétences dans les conditions prévues aux articles 94 et 95 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat est diminué d'un montant égal à celui déterminé à l'article 7. Cette diminution est réalisée à titre définitif.
