@@ -1,5 +1,0 @@
-# Décret n°66-104 du 18 février 1966 RELATIF AU CONTROLE DE LA FREQUENTATION ET DE L'ASSIDUITE SCOLAIRE.
-
-- [Article 1](article-1.md)
-- [TITRE 1 - DU CONTROLE DE L'OBLIGATION SCOLAIRE](titre-1)
-- [Article 1-1](article-1-1.md)
