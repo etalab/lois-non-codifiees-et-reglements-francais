@@ -1,4 +1,4 @@
-# Arrêté du 23 novembre 1984 relatif à la moyenne nationale de participation des communes aux dépenses légales d'aide sociale et de santé des départements
+# Arrêté du 23 novembre 1984 relatif à la description des imprimés à utiliser pour l'envoi des déclarations obligatoires sur les effets inattendus ou toxiques des médicaments aux centres régionaux de pharmacovigilance et à la commission nationale de pharmacovigilance.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

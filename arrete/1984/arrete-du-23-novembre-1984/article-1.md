@@ -1,3 +1,3 @@
 # Article 1
 
-Pour déterminer si un département peut augmenter, en application de l'article 3 du décret susvisé, d'un point au plus le coefficient de variation applicable au calcul de la contribution globale des communes aux dépenses légales d'aide sociale et de santé du département, la moyenne nationale à prendre en compte au titre de l'exercice 1985 est égale à 15,3 p. 100. Cette moyenne sert pour l'évaluation provisoire et le calcul définitif de la contribution globale des communes.
+Les imprimés mentionnés à l'article R. 5144-11 du code de la santé publique relatifs aux déclarations obligatoires qui doivent être adressées, d'une part, par tout médecin, chirurgien-dentiste ou sage-femme au centre régional de pharmacovigilance et, d'autre part, par les titulaires d'autorisations de mise sur le marché à la commission nationale de pharmacovigilance doivent être conformes aux modèles annexés au présent arrêtés (non reproduits).
