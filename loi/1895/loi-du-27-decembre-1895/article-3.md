@@ -1,0 +1,11 @@
+# Article 3
+
+Dans les trois mois qui suivront la promulgation de la présente loi, toutes les sommes qui, à l'avenir, seront retenues sur les salaires des ouvriers et toutes celles que les chefs d'entreprise auront reçues ou se seront engagés à fournir en vue d'assurer des retraites devront être versées, soit à la caisse nationale des retraites pour la vieillesse, au compte individuel de chaque ayant droit, soit à la Caisse des dépôts et consignations, soit à des caisses syndicales ou patronales spécialement autorisées à cet effet.
+
+L'autorisation sera donnée par décret rendu dans la forme des règlements d'administration publique. Le décret fixera les limites du district, les conditions de fonctionnement de la caisse et son mode de liquidation. Il prescrira également les mesures à prendre pour assurer le transfert, soit à une autre caisse syndicale ou patronale, soit à la caisse nationale des retraites pour la vieillesse, les sommes inscrites au livret de chaque intéressé.
+
+Les sommes versées par les chefs d'entreprise dans la caisse syndicale ou patronale devront être employées, soit en rentes sur l'Etat, en valeurs du Trésor ou garanties par le Trésor, soit en obligations des départements, des communes, des chambres de commerce, en obligations foncières et communales du crédit foncier, soit en prêts hypothécaires, soit en valeurs locales énumérées ci-après, à la condition que ces valeurs émanent d'institutions existant dans les départements où elles fonctionnent : bons de mont-de-piété ou d'autres établissements reconnus d'utilité publique. Les titres seront nominatifs.
+
+La gestion des caisses syndicales ou patronales sera soumise à la vérification de l'inspection des finances et au contrôle du receveur particulier de l'arrondissement du siège de la caisse.
+
+Si des conventions spéciales interviennent entre les chefs d'entreprise et les ouvriers ou employés, en vue d'assurer à ceux-ci, à leurs veuves ou à leurs enfants, soit un supplément de rente viagère, soit des rentes temporaires ou des indemnités déterminées d'avance, le capital formant la garantie des engagements résultant desdites conventions devra être versé ou représenté à la Caisse des dépôts et consignations ou dans une des caisses syndicales ou patronales ci-dessus prévues.
