@@ -1,0 +1,3 @@
+# Article 5
+
+Les personnels administratifs sont chargés des tâches à caractère administratif, nécessaires à la réalisation des missions du centre, qui leur sont confiées par le directeur. Ils participent en outre à l'information et à l'accueil du public. Les secrétaires assurent plus particulièrement les tâches de rédaction, de gestion administrative, de procédure budgétaire et comptable et, sur les questions administratives, de liaison avec le personnel technique. Les attachés assurent plus particulièrement la préparation, l'exécution et le contrôle des tâches administratives, ainsi que l'encadrement des personnels administratifs. Ils peuvent en outre être chargés d'études et d'enquêtes.

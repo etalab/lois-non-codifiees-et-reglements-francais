@@ -1,0 +1,3 @@
+# Article 6-1
+
+Le fonds de solidarité pour le logement peut être constitué sous la forme d'un groupement d'intérêt public. L'Etat et le département sont membres de droit de ce groupement et y disposent conjointement de la majorité des voix dans l'assemblée et le conseil d'administration. La présidence du conseil d'administration est assurée alternativement, par périodes annuelles, par le représentant de l'Etat dans le département et par le président du conseil général. Les autres personnes morales participant au financement du fonds sont admises sur leur demande comme membres du groupement. Le groupement d'intérêt public peut déléguer sa gestion à une caisse d'allocations familiales.
