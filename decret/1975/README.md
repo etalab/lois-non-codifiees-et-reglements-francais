@@ -1,5 +1,6 @@
 # 1975
 
+- [Décret n°75-614 du 2 juillet 1975](decret-n75-614-du-2-juillet-1975)
 - [Décret du 3 mars 1975](decret-du-3-mars-1975)
 - [Décret n°69-104 du 3 février 1969](decret-n69-104-du-3-fevrier-1969)
 - [Décret n°75-119 du 3 mars 1975](decret-n75-119-du-3-mars-1975)
@@ -20,6 +21,7 @@
 - [Décret n°75-312 du 9 avril 1975](decret-n75-312-du-9-avril-1975)
 - [Décret n°75-450 du 9 juin 1975](decret-n75-450-du-9-juin-1975)
 - [Décret n°75-466 du 9 juin 1975](decret-n75-466-du-9-juin-1975)
+- [Décret n°75-611 du 9 juillet 1975](decret-n75-611-du-9-juillet-1975)
 - [Décret n°75-387 du 9 mai 1975](decret-n75-387-du-9-mai-1975)
 - [Décret n°75-236 du 11 avril 1975](decret-n75-236-du-11-avril-1975)
 - [Décret n°75-245 du 11 avril 1975](decret-n75-245-du-11-avril-1975)

@@ -5,4 +5,5 @@
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
+- [Auxiliaires des professions bancaires et boursières.](auxiliaires-des-professions-bancaires-et)
 - [Entreprises et personnes faisant occasionnellement des opérations prévues à l'article 27 2° de la loi du 13 juin 1941 portant réglementation et organisation de la profession bancaire.](entreprises-et)
