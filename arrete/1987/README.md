@@ -647,7 +647,6 @@
 - [Arrêté du 28 avril 1987 (ASEG8700654A)](arrete-du-28-avril-1987-aseg8700654a)
 - [Arrêté du 28 avril 1987 (ASET8703295A)](arrete-du-28-avril-1987-aset8703295a)
 - [Arrêté du 28 avril 1987 (BUDL8700040A)](arrete-du-28-avril-1987-budl8700040a)
-- [Arrêté du 28 avril 1987 (BUDL8700041A)](arrete-du-28-avril-1987-budl8700041a)
 - [Arrêté du 28 avril 1987 (INDA8700270A)](arrete-du-28-avril-1987-inda8700270a)
 - [Arrêté du 28 avril 1987 (PTTT8700311A)](arrete-du-28-avril-1987-pttt8700311a)
 - [Arrêté du 28 avril 1987 (TRST8700148A)](arrete-du-28-avril-1987-trst8700148a)
