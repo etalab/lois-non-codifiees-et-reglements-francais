@@ -1,23 +1,41 @@
 # Article 1
 
-Le comité national des appellations d'origine des fromages institué par la loi du 28 novembre 1955 relative aux appellations d'origine des fromages comprend :
+Le comité national des appellations d'origine des fromages, institué par la loi du 25 novembre 1955 modifiée susvisée, comprend :
 
-a) Douze représentants des organisations professionnelles, dont :
+a) Quatorze représentants des organisations professionnelles :
 
-Quatre représentants des organisations professionnelles nationales ;
+Proposés par l'organisation interprofessionnelle laitière après consultation par celle-ci de l'association nationale des appellations d'origine des fromages :
 
-Huit représentants des régions de production fromagère, dont deux au moins représentant des producteurs de fromage bénéficiant déjà d'une appellation d'origine.
+Quatre représentants de la fédération nationale des producteurs de lait ;
 
-b) Quatre représentants des administrations intéressées :
+Quatre représentants de la fédération nationale des coopératives laitières ;
 
-Deux désignés par le ministère de l'agriculture.
+Quatre représentants de la fédération nationale de l'industrie laitière.
 
-Un désigné par le ministre de l'économie et des finances.
+Proposés par les organisations professionnelles qu'ils représentent :
 
-Un désigné par le garde des sceaux, ministre de la justice.
+Un représentant de l'association nationale des appellations d'origine des fromages ;
 
-Lorsque le comité délibère sur des questions relatives à la protection des appellations d'origine à l'étranger, il comprend en outre :
+Un représentant de l'union nationale du commerce des produits laitiers et avicoles.
 
-Un représentant du ministre des affaires étrangères.
+Parmi ces représentants, onze seront choisis dans les régions de production fromagère intéressées.
 
-Un représentant du centre national du commerce extérieur.
+b) Une personnalité choisie en raison de sa compétence en matière d'appellation d'origine des fromages.
+
+c) Deux représentants des organisations de consommateurs désignés par le ministre de la consommation.
+
+d) Cinq représentants des administrations intéressées dont :
+
+Deux désignés par le ministre de l'agriculture ;
+
+Un désigné par le ministre de l'économie et des finances ;
+
+Un désigné par le garde des sceaux, ministre de la justice ;
+
+Un désigné par le ministre de la consommation.
+
+Lorsque le comité national délibère sur les questions relatives à la protection des appellations d'origine à l'étranger, il comprend en outre :
+
+Un représentant du ministre des relations extérieures ;
+
+Un représentant du centre français du commerce extérieur.
