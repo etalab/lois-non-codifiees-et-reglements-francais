@@ -1192,7 +1192,6 @@
 - [Arrêté du 29 juin 1994 (INDP9400751A)](arrete-du-29-juin-1994-indp9400751a)
 - [Arrêté du 29 juin 1994 (SPSS9401959A)](arrete-du-29-juin-1994-spss9401959a)
 - [Arrêté du 29 mars 1994 (AGRG9400685A)](arrete-du-29-mars-1994-agrg9400685a)
-- [Arrêté du 29 mars 1994 (BUDF9400005A)](arrete-du-29-mars-1994-budf9400005a)
 - [Arrêté du 29 mars 1994 (DEFE9401509A)](arrete-du-29-mars-1994-defe9401509a)
 - [Arrêté du 29 mars 1994 (EQUA9400659A)](arrete-du-29-mars-1994-equa9400659a)
 - [Arrêté du 29 mars 1994 (INDP9400420A)](arrete-du-29-mars-1994-indp9400420a)
