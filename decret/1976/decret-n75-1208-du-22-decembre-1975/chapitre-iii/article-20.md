@@ -10,7 +10,7 @@ I - Peuvent seuls être promus ou nommés au grade supérieur :
 
 4° Les généraux de brigade aérienne ayant au moins deux ans et six mois de grade.
 
-Un arrêté du ministre chargé des armées fixe la liste des commandements.
+Un arrêté du ministre de la défense fixe la liste des commandements.
 
 La limite maximale d'ancienneté de grade s'apprécie, uniquement pour l'avancement de grade, au 1er janvier de l'année de promotion.
 
@@ -30,4 +30,4 @@ Les généraux de brigade aérienne qui se trouvent, à cette même date, à plu
 
 Les dispositions précédentes ne sont pas applicables aux officiers du corps des officiers de l'air en congé du personnel navigant au titre de l'article 63 de la loi du 13 juillet 1972 susvisée.
 
-IV - La durée des temps de commandement exigée au présent article est réduite de moitié lorsque ces temps sont accomplis dans des conditions ou dans des territoires ouvrant droit aux bénéfices de campagnes prévus à l'article L. 12 du code des pensions civiles et militaires de retraite, dans les unités ou formations figurant sur une liste arrêtée par le ministre chargé des armées.
+IV - La durée des temps de commandement exigée au présent article est réduite de moitié lorsque ces temps sont accomplis dans des conditions ou dans des territoires ouvrant droit aux bénéfices de campagnes prévus à l'article L. 12 du code des pensions civiles et militaires de retraite, dans les unités ou formations figurant sur une liste arrêtée par le ministre de la défense.

@@ -20,4 +20,4 @@ Des unités de service général.
 
 Tous les officiers participent à la constitution, à l'encadrement et au fonctionnement de l'ensemble des organismes et formations de l'armée de l'air.
 
-Ils peuvent être appelés à faire partie des formations interarmées ou relevant d'une autre armée ou d'une formation rattachée au ministère chargé des armées.
+Ils peuvent être appelés à faire partie des formations interarmées ou relevant d'une autre armée ou d'une formation rattachée au ministère de la défense.
