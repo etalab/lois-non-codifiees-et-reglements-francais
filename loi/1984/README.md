@@ -46,4 +46,3 @@
 - [Loi n°84-821 du 6 septembre 1984](loi-n84-821-du-6-septembre-1984)
 - [Loi n°84-833 du 13 septembre 1984](loi-n84-833-du-13-septembre-1984)
 - [Loi n°84-9 du 4 janvier 1984](loi-n84-9-du-4-janvier-1984)
-- [Loi n°84-937 du 23 octobre 1984](loi-n84-937-du-23-octobre-1984)
