@@ -61,7 +61,6 @@
 - [Décret n°94-347 du 2 mai 1994 (TEFT9400304D)](decret-n94-347-du-2-mai-1994-teft9400304d)
 - [Décret n°94-350 du 2 mai 1994 (ECOT9413740D)](decret-n94-350-du-2-mai-1994-ecot9413740d)
 - [Décret n°94-355 du 2 mai 1994 (SPSN9400934D)](decret-n94-355-du-2-mai-1994-spsn9400934d)
-- [Décret n°91-1228 du 3 décembre 1991 (MENT9102026D)](decret-n91-1228-du-3-decembre-1991-ment9102026d)
 - [Décret n°94-115 du 3 février 1994 (FPPA9300140D)](decret-n94-115-du-3-fevrier-1994-fppa9300140d)
 - [Décret n°94-3 du 3 janvier 1994 (MCCX9300196D)](decret-n94-3-du-3-janvier-1994-mccx9300196d)
 - [Décret n°94-4 du 3 janvier 1994 (FPPX9300210D)](decret-n94-4-du-3-janvier-1994-fppx9300210d)
