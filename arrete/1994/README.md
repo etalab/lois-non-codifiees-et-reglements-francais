@@ -721,7 +721,6 @@
 - [Arrêté du 20 mai 1994 (SPSS9401522A)](arrete-du-20-mai-1994-spss9401522a)
 - [Arrêté du 21 avril 1994 (BUDR9404195A)](arrete-du-21-avril-1994-budr9404195a)
 - [Arrêté du 21 avril 1994 (ENVP9430208A)](arrete-du-21-avril-1994-envp9430208a)
-- [Arrêté du 21 avril 1994 (INDP9400495A)](arrete-du-21-avril-1994-indp9400495a)
 - [Arrêté du 21 avril 1994 (RESK9400686A)](arrete-du-21-avril-1994-resk9400686a)
 - [Arrêté du 21 décembre 1993 (EQUS9301875A)](arrete-du-21-decembre-1993-equs9301875a)
 - [Arrêté du 21 décembre 1993 (EQUU9301426A)](arrete-du-21-decembre-1993-equu9301426a)
