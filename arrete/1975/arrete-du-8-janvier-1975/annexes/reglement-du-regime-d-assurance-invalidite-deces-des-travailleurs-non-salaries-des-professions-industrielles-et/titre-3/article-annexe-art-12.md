@@ -1,5 +1,0 @@
-# Article annexe art. 12
-
-Les personnes qui ont été exonérées de la cotisation d'assurance invalidité-décès, en application de l'article 6 du décret n° 75-19 du 8 janvier 1975, pendant quatre années ou plus, consécutives ou non, ne peuvent bénéficier des prestations de l'assurance invalidité tant que leurs ressources de toutes natures et celles de leur conjoint, prises en considération au titre de la dernière imposition mise en recouvrement, excèdent les plafonds en vigueur pour l'attribution de l'allocation supplémentaire du fonds national de solidarité. Elles ne peuvent ouvrir droit aux prestations de l'assurance décès lorsque ces mêmes ressources excèdent lesdits plafonds en vigueur à la date du décès.
-
-Toutefois, lorsque cette condition de ressources n'est pas remplie, la commission de recours gracieux de la caisse d'affiliation peut décider, à la demande des intéressés, compte tenu de la durée de la période ayant donné lieu à versement de cotisations, d'attribuer tout ou partie des prestations.

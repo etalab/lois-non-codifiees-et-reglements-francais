@@ -1,4 +1,0 @@
-# Arrêté du 27 novembre 1974 RELATIF AUX COTISATIONS DE SECURITE SOCIALE DUES AU TITRE DE L'EMPLOI DES STAGIAIRES AIDES FAMILIAUX.
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)

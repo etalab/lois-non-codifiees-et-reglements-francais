@@ -119,6 +119,7 @@
 - [Décret n°75-675 du 28 juillet 1975](decret-n75-675-du-28-juillet-1975)
 - [Décret n°75-810 du 28 août 1975](decret-n75-810-du-28-aout-1975)
 - [Décret n°75-811 du 28 août 1975](decret-n75-811-du-28-aout-1975)
+- [Décret n°75-996 du 28 octobre 1975](decret-n75-996-du-28-octobre-1975)
 - [Décret n°75-52 du 29 janvier 1975](decret-n75-52-du-29-janvier-1975)
 - [Décret n°75-939 du 29 septembre 1975](decret-n75-939-du-29-septembre-1975)
 - [Décret n°76-142 du 29 janvier 1976](decret-n76-142-du-29-janvier-1976)

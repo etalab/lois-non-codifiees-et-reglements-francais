@@ -1,3 +1,0 @@
-# Article 8
-
-Indépendamment du droit conféré à tout pêcheur ayant acquitté le timbre-taxe "du dimanche" de pêcher à la ligne les dimanches et jours fériés, en période de fermeture générale, dans les eaux de la deuxième catégorie où cette pêche est autorisée par arrêté préfectoral, le timbre-taxe "du dimanche", délivré à tout adhérent d'une association agréée de pêche et de pisciculture d'un département où la pêche à la ligne est autorisée en période de fermeture générale dans les lacs de retenue susvisés ou à tout adhérent de la fédération nationale des adjudicataires et permissionnaires de pêche aux engins et aux filets sur le domaine public, lui permet en outre de pratiquer cette pêche dans tous les départements où elle est autorisée.

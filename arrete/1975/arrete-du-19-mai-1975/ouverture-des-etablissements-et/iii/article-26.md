@@ -1,3 +1,0 @@
-# Article 26
-
-Lorsque des mineurs protégés au titre du décret n. 60-94 du 29 janvier 1960, mineurs français ou résidant habituellement en France, sont hébergés à l'étranger avec l'intervention de personnes morales ou physiques françaises doivent être observées, outre les règles résultant de la législation du pays de séjour, les règles de protection française. En particulier la déclaration de séjour incombant aux organisateurs de ces séjours, doit être faite. Les organismes ou personnes assurant le placement à l'étranger de jeunes Français ou de mineurs résidant habituellement en France, doivent veiller à l'observation des dispositions de protection française.

@@ -1,3 +1,0 @@
-# Article 10
-
-Les infractions aux dispositions du présent arrêté seront punies, suivant les cas, des peines prévues à l'article 1er de la loi du 19 juillet 1845 sur les substances vénéneuses, modifiée par la loi du 12 juillet 1916, à l'article 1er de la loi du 4 août 1903, modifiée par la loi du 10 mars 1935 sur le commerce des produits utilisés contre les ravageurs des cultures, à l'article 11 de la loi modifiée du 2 novembre 1943 sur le contrôle des produits antiparasitaires, à l'article 1er du décret du 25 novembre 1963 établissant des pénalités contraventionnelles pour certaines infractions aux dispositions de la loi du 2 novembre 1943, et à l'article 363 du code rural.
