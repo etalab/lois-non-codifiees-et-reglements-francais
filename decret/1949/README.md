@@ -12,6 +12,8 @@
 - [Décret n°49-578 du 22 avril 1949](decret-n49-578-du-22-avril-1949)
 - [Décret n°49-579 du 22 avril 1949](decret-n49-579-du-22-avril-1949)
 - [Décret n°49-580 du 22 avril 1949](decret-n49-580-du-22-avril-1949)
+- [Décret n°50-581 du 25 mai 1950](decret-n50-581-du-25-mai-1950)
+- [Décret n°50-582 du 25 mai 1950](decret-n50-582-du-25-mai-1950)
 - [Décret n°48-893 du 26 mai 1948](decret-n48-893-du-26-mai-1948)
 - [Décret n°49-1258 du 27 août 1949](decret-n49-1258-du-27-aout-1949)
 - [Décret n°49-1259 du 27 août 1949](decret-n49-1259-du-27-aout-1949)
