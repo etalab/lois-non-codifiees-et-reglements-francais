@@ -50,7 +50,6 @@
 - [Arrêté du 25 juillet 1974](arrete-du-25-juillet-1974)
 - [Arrêté du 26 février 1974](arrete-du-26-fevrier-1974)
 - [Arrêté du 26 juillet 1974](arrete-du-26-juillet-1974)
-- [Arrêté du 26 juin 1974](arrete-du-26-juin-1974)
 - [Arrêté du 26 mars 1974](arrete-du-26-mars-1974)
 - [Arrêté du 26 septembre 1973](arrete-du-26-septembre-1973)
 - [Arrêté du 27 août 1974](arrete-du-27-aout-1974)
