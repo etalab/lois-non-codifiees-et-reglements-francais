@@ -1,6 +1,6 @@
 # Article 29
 
-L'approbation du préfet portant sur les décisions de l'établissement prévues aux 4° et 5° de l'article 26-1 de la loi n° 75-535 du 30 juin 1975 susvisée, vaut autorisation de financement par l'Etat ou l'assurance maladie des charges d'exploitation annuelles auxquelles correspond la dotation globale de financement ou le produit des prix de journée.
+L'approbation du préfet portant sur les décisions de l'établissement ou du service prévues aux 4° et 5° de l'article 26-1 de la loi n° 75-535 du 30 juin 1975 susvisée, vaut autorisation de financement par l'Etat ou l'assurance maladie des charges d'exploitation annuelles auxquelles correspond la dotation globale de financement ou le produit des prix de journée.
 
 Elle comprend :
 
