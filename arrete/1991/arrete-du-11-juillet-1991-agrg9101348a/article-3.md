@@ -1,6 +1,6 @@
 # Article 3
 
-Le jury compétent pour les contrôles des connaissances prévus à l'article 2 ci-dessus, comprend [*composition*] :
+Le jury compétent pour les contrôles des connaissances prévus à l'article 2 ci-dessus, comprend  :
 
 - le directeur d'une des écoles vétérinaires françaises ou son représentant, président ;
 
@@ -16,4 +16,6 @@ Le jury compétent pour les contrôles des connaissances prévus à l'article 2 
 
 - un professeur d'une des écoles vétérinaires françaises enseignant les productions animales ;
 
-- un membre du Conseil supérieur de l'ordre des vétérinaires.
+- un membre du Conseil supérieur de l'ordre ou désigné par ledit conseil ;
+
+- un professeur d'une des écoles nationales vétérinaires françaises enseignant la législation sanitaire.
