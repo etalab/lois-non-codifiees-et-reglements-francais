@@ -1,3 +1,0 @@
-# Article 21
-
-Si, dans le délai de six mois qui suit la publication des résultats, l'élève administrateur n'a pas été affecté dans un emploi d'une collectivité ou d'un établissement, il est affecté auprès du Centre national de la gestion en qualité d'administrateur territorial stagiaire par le président du Centre national de gestion, qui peut lui confier des missions relevant des attributions du centre. La titularisation de l'intéressé dans le corps des administrateurs territoriaux est décidée par arrêté du président du Centre national de gestion [*autorité compétente*] dans les conditions prévues à l'article précédent.
