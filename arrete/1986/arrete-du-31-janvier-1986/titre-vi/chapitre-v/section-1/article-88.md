@@ -6,7 +6,7 @@ Les conduits servant au transport de liquides inflammables doivent être placés
 
 Le vide existant entre le ou les conduits et les parois de la gaine doit être comblé par des matériaux inertes pulvérulents.
 
-Les conduits de ventilation du parc et leur enveloppe éventuelle, quel que soit leur mode de fixation, doivent dans la traversée du parc être réalisés en matériaux incombustibles et être coupe-feu de degré une demi-heure minutes ainsi que leurs trappes et portes de visites, sauf dans le niveau desservi et coupe-feu de degré deux heures s'ils traversent d'autres locaux.
+Les conduits de ventilation du parc et leur enveloppe éventuelle, quel que soit leur mode de fixation, doivent dans la traversée du parc être réalisés en matériaux incombustibles et être coupe-feu de degré une demi-heure ainsi que leurs trappes et portes de visites, sauf dans le niveau desservi et coupe-feu de degré deux heures s'ils traversent d'autres locaux.
 
 Les autres conduits ou gaines mettant en communication le parc et des locaux ou logements voisins doivent être coupe-feu de traversée de degré cent vingt minutes au moins, à l'exception des conduits constamment en charge d'eau et des conduits dont le diamètre, au droit des traversées dans les parois coupe-feu d'isolement du parc, est inférieur ou égal à 125 mm.
 

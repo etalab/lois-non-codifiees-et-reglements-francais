@@ -1,10 +1,10 @@
 # Article 87
 
-A chaque niveau le ou les escaliers doivent être disposés de façon que les usagers n'aient pas à parcourir [*distance*]:
+A chaque niveau le ou les escaliers doivent être disposés de façon que les usagers n'aient pas à parcourir :
 
 - plus de 40 mètres pour atteindre une issue ou un escalier s'ils ont le choix entre plusieurs ;
 
-- plus de 25 mètres pour atteindre l'escalier s'il n'y en a qu'un.
+- plus de 25 mètres pour atteindre l'escalier s'il n'y en a qu'un ou s'ils se trouvent dans une partie de l'établissement formant cul-de-sac.
 
 Les escaliers desservant les niveaux situés au-dessous du niveau de référence ne doivent pas aboutir dans les escaliers desservant les niveaux situés au-dessus du niveau de référence.
 

@@ -6,21 +6,21 @@ Règle dite du " C + D ".
 
 Les valeurs C et D doivent être liées par une des relations ci-après en fonction de la masse combustible mobilisable :
 
-Habitations de 3e famille :
+Habitations de 3e famille A :
 
-- C + D 0 0,60 mètre si M 1 25 M.J/m2 ;
+- C + D (1) 0,60 mètre si M (2) 25 M.J/m2 ;
 
-- C + D 0 0,80 mètre si 25 M.J/m2  M 1 80 M.J/m2 ;
+- C + D (1) 0,80 mètre si 25 M.J/m2 (3) M (2) 80 M.J/m2 ;
 
-- C + D 0 1,10 mètre si M  80 M.J/m2.
+- C + D (1) 1,10 mètre si M (4) 80 M.J/m2.
 
-Habitations de 4e famille :
+Habitations de 3e famille B et habitations de 4e famille :
 
-- C + D 0 0,80 mètre si M 0 25 M.J/m2 ;
+- C + D (1) 0,80 mètre si M (2) 25 M.J/m2 ;
 
-- C + D 0 1,00 mètre si 25 M.J/m2  M 1 80 M.J/m2 ;
+- C + D (1) 1,00 mètre si 25 M.J/m2 (3) M (2) 80 M.J/m2 ;
 
-- C + D 0 1,30 mètre si M 80 M.J/m2,
+- C + D (1) 1,30 mètre si M (4) 80 M.J/m2,
 
 C et D, exprimés en mètres, sont définis soit dans l'arrêté relatif à la classification des façades vitrées par rapport au danger d'incendie ([*), soit dans l'instruction technique relative aux façades (*][*).
 
@@ -31,6 +31,14 @@ Pour l'application de la règle du C + D, il n'est pas tenu compte des orifices 
 NOTA : (*]) Arrêté du 10 septembre 1970.
 
 ([**]) Instruction technique n° 249 du 21 juin 1982.
+
+(1) supérieur ou égal.
+
+(2) inférieur ou égal.
+
+(3) inférieur.
+
+(4) supérieur.
 
 B. - Façades ne comportant pas d'ouvertures
 

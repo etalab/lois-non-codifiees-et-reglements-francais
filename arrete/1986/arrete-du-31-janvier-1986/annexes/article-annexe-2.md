@@ -1,16 +1,12 @@
-# Article annexe 2
+# Article Annexe 2
 
-A N N E X E   I I
-
-Conduits et circuits de ventilation
-
-Application de l'article 60
+**Conduits et circuits de ventilation Application de l'article 60**
 
 Détermination du taux de dilution
 
-Le taux de dilution R est défini comme le rapport du débit q extrait par l'ensemble des bouches de V.M.C. ou autres orifices d'extraction raccordés à la même " branche " du réseau d'extraction connectée directement au ventilateur au débit q susceptible d'être extrait par la bouche sinistrée (valeurs calculées en service normal à froid) (fig. 1).
+Le taux de dilution R est défini comme le rapport du débit q extrait par l'ensemble des bouches de V.M.C. ou autres orifices d'extraction raccordés à la même " branche " du réseau d'extraction connectée directement au ventilateur au débit q susceptible d'être extrait par la bouche sinistrée (valeurs calculées en service normal à froid) (fig. 1). (non reproduite)
 
-Si la branche concernée est raccordée au ventilateur par l'intermédiaire d'un caisson collectant d'autres branches (fig. 2), le ventilateur étant extérieur à ce caisson, le débit q à prendre en compte est alors la somme des débits arrivant au ventilateur.
+Si la branche concernée est raccordée au ventilateur par l'intermédiaire d'un caisson collectant d'autres branches (fig. 2) (non reproduite), le ventilateur étant extérieur à ce caisson, le débit q à prendre en compte est alors la somme des débits arrivant au ventilateur.
 
 Si le ventilateur est placé à l'intérieur d'un caisson, sur lequel se raccordent plusieurs branches (fig. 3) (groupe motoventilateur extracteur en caisson au sens de la norme E 51.705), le taux de dilution retenu sera le plus faible de l'ensemble des " branches " prises séparément.
 
@@ -20,13 +16,13 @@ La bouche sinistrée est, par hypothèse, une bouche de cuisine. Si les bouches 
 
 Le débit q de la bouche sinistrée est déterminé par un laboratoire agréé ; il est mesuré à 20 °C après que la dite bouche ait évacué de l'air à 800 °C pendant une demi-heure. Si durant l'essai la bouche disparaît totalement ou si le constructeur n'est pas en mesure de présenter le P.V. du laboratoire, le débit q sera pris forfaitairement en fonction du diamètre nominal de raccordement de la bouche, soit :
 
-260 m3/h ([*) pour un diamètre de 100 mm ;
+260 m3/h (*) pour un diamètre de 100 mm ;
 
-420 m3/h (*]) pour un diamètre de 125 mm ;
+420 m3/h (*) pour un diamètre de 125 mm ;
 
-650 m3/h ([*) pour un diamètre de 160 mm.
+650 m3/h (*) pour un diamètre de 160 mm.
 
-NOTA : (*]) Ces débits résultent de mesures sur installations.
+NOTA : (*) Ces débits résultent de mesures sur installations.
 
 Classification des ventilateurs
 
@@ -76,7 +72,7 @@ La température est supérieure à 300° C. Il s'agit de ventilateur de désenfu
 
 L'essai d'homologation est conforme à l'essai de ventilateur de désenfumage défini à l'annexe VII de l'arrêté du 21 avril 1983 relatif à la détermination du degré de résistance au feu des éléments de construction et conditions particulières d'essais des ventilateurs de désenfumage.
 
-Pour les ventilateurs des trois premières catégories sont seulement applicables les dispositions suivantes :
+Pour les ventilateurs de la troisième catégorie sont seulement applicables les dispositions suivantes :
 
 L'article 1 :
 

@@ -14,4 +14,4 @@ Cette prescription ne s'applique pas :
 
 Aux planchers situés au-dessus d'un vide sanitaire non accessible ;
 
-Aux planchers hauts, aux faux planchers ou plafonds du dernier niveau habitable lorsque les parois verticales de l'enveloppe des logements, visées à l'article 7 ci-après, sont prolongées jusqu'à la couverture du bâtiment.
+Aux planchers hauts, aux faux planchers ou plafonds du dernier niveau habitable lorsque les parois verticales de l'enveloppe des logements, visées à l'article 8 ci-après, sont prolongées jusqu'à la couverture du bâtiment.

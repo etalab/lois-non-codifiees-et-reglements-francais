@@ -1,10 +1,6 @@
-# Article annexe 1
+# Article Annexe 1
 
-A N N E X E   I
-
-Désenfumage des circulations horizontales
-
-par deux ouvrants situés sur des façades opposées
+**Désenfumage des circulations horizontales par deux ouvrants situés sur des façades opposées**
 
 (Art. 39)
 
@@ -20,14 +16,20 @@ Couv : coefficient aéraulique de l'ouvrant (sans unité) ;
 
 Surface géométrique de l'ouvrant comptant pour l'évacuation des fumées (mètres carrés) :
 
-1/(hm - 2)1/2
+1) 1 / (hm - 2)1/2
 
 Surface géométrique de l'ouvrant comptant pour l'évacuation des fumées :
 
-1/Couv
+2) 1 / Couv
 
 Surface géométrique de l'ouvrant comptant pour l'évacuation des fumées (mètres carrés) :
 
-1/2 x Couv x (hm - 2)1/2
+3) 1 / 2 X Couv X(hm - 2)1/2
 
 La surface géométrique de l'ouvrant comptant pour l'amenée d'air est, dans le cas de l'utilisation des formules précédentes, prise égale au double de celle calculée pour l'évacuation des fumées ; elle doit être située en dessous de 2 mètres de hauteur.
+
+La formule 1 s'applique si hm est supérieur à 2,25 mètres et si Couv n'est pas connu ;
+
+La formule 2 s'applique si hm n'est pas connu et si Couv est supérieur à 0,5 (déterminé expérimentalement) ;
+
+La formule 3 s'applique si hm est supérieur à 2,25 mètres et si Couv est supérieur à 0,5 (déterminé expérimentalement).

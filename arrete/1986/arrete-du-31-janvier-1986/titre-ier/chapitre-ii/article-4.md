@@ -1,12 +1,8 @@
 # Article 4
 
-Les cages d'escalier des immeubles classés en troisième famille doivent être atteintes par des voies dites " voies échelles ". Celles des immeubles classés en quatrième famille doivent être atteintes par des " voies engins ".
+Pour l'application de l'article 3 ci-avant, les voies d'accès sont définies comme suit :
 
-Lorsque l'implantation des immeubles de troisième famille A ne permet pas d'atteindre les cages d'escalier par une voie échelles, la distance entre la voie et les cages d'escalier doit être au plus égale à 50 mètres et les prescriptions relatives aux immeubles de la troisième famille B doivent être appliquées.
-
-A. - Voie utilisable par les engins des services de secours
-
-et de lutte contre l'incendie (voie engins).
+A. - Voie utilisable par les engins des services de secours et de lutte contre l'incendie (voie engins).
 
 La voie engins est une voie dont la chaussée répond aux caractéristiques suivantes quel que soit le sens de la circulation suivant lequel elle est abordée à partir de la voie publique :
 
@@ -46,6 +42,4 @@ La distance est réduite à 6 mètres pour les échelles de 24 mètres et à 3 m
 
 Voies perpendiculaires : leur extrêmité doit être à moins de 1 mètre de la façade et elles doivent avoir une longueur minimale de 10 mètres.
 
-En outre, ne sont considérés comme accessibles que les logements dont un point d'accès (bord de la fenêtre ou du châssis) est situé, en projection horizontale, à moins de 6 mètres du bord de la voie pour l'emploi des échelles de 30 mètres. Cette distance est réduite à 2 mètres pour les échelles de 24 mètres et nulle pour les échelles de 18 mètres.
-
-Toutefois sont également considérés comme accessibles les logements dont le point d'accès, bien que situé au-delà des distances fixées ci-dessus, permet néanmoins de les atteindre par un parcours sûr (balcon filant, passerelle, terrasse).
+En outre, dans le cas où le maire décide que les bâtiments classés en troisième famille B peuvent être soumis aux seules prescriptions fixées pour les bâtiments classés en troisième famille A (conformément au troisième alinéa du troisièmement de l'article 3), ne sont considérées comme accessibles que les logements dont un point d'acces (bord de la fenêtre ou chassis) est situé, en projection horizontale, à moins de 6 mètres du bord de la voie pour l'emploi des échelles de 30 mètres. Cette distance est réduite à 2 mètres pour les échelles de 24 mètres et nulle pour les échelles de 18 mètres. Toutefois, sont également considérés comme accessibles les logements dont le point d'accés, bien que situé au delà des distances fixées ci-dessus, permet néanmoins de les atteindre par un parcours sûr (balcon filant, passerelle, terrasse).
