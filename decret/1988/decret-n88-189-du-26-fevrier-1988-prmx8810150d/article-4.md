@@ -41,3 +41,5 @@ f) Le président de la commission de la télématique.
 2° Siègent à titre occasionnel, en fonction de l'ordre du jour, les représentants, invités par le président de l'observatoire, des autres ministères et organismes administratifs, notamment le secrétariat général de la défense nationale.
 
 Peut en outre être invitée par le président de l'observatoire à participer aux délibérations, avec voix consultative, toute personne dont l'opinion lui paraît susceptible d'éclairer les débats.
+
+g) Le délégué interministériel pour la sécurité des systèmes d'information. "

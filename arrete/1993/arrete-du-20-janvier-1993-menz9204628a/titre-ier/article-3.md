@@ -1,0 +1,3 @@
+# Article 3
+
+Dans le cadre de la réglementation nationale, l'établissement définit et organise les différents cursus proposés aux étudiants. Pour chacun d'eux, il précise les modules constitutifs, leurs volumes horaires et leurs contenus ainsi que leur agencement au sein de la formation considérée, afin de promouvoir sa qualité, son efficacité et son unité ; dans cette perspective, des groupements de modules peuvent être mis en place. L'établissement définit les modalités du contrôle des connaissances et les règles de compensation entre modules. Il détermine notamment les coefficients des différents enseignements et en particulier ceux affectés aux travaux expérimentaux, aux projets et aux stages. Il assure l'organisation des stages et leur suivi pédagogique.
