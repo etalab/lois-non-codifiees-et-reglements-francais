@@ -1,6 +1,6 @@
 # Article 14
 
-Une eau de source ne peut faire l'objet que des traitements ou adjonctions prévus par un arrêté du ministre chargé de la santé et du ministre chargé de la consommation, pris après avis du Conseil supérieur d'hygiène publique de France.
+Une eau de source ne peut faire l'objet que des traitements ou adjonctions prévus par un arrêté du ministre chargé de la santé et du ministre chargé de la consommation, pris après avis de l'Agence française de sécurité sanitaire des aliments.
 
 Cet arrêté précise quels sont les traitements ou adjonctions applicables aux eaux de source afin de procéder à :
 

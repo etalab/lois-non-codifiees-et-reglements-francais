@@ -1,6 +1,6 @@
 # Article 3
 
-Des arrêtés conjoints des ministres chargés de la consommation, de l'agriculture et de la santé, après avis du Conseil supérieur d'hygiène publique de France, fixent :
+Des arrêtés conjoints des ministres chargés de la consommation, de l'agriculture et de la santé, après avis de l'Agence française de sécurité sanitaire des aliments fixent :
 
 a) La liste et les conditions d'emploi des substances à but nutritionnel telles que vitamines, sels minéraux, acides aminés et autres substances qu'il est licite d'incorporer aux denrées alimentaires destinées à une alimentation particulière ainsi que les critères de pureté qui sont applicables à ces substances ;
 

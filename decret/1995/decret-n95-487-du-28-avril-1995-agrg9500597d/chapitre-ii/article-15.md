@@ -6,4 +6,4 @@ II. - Dès que le dossier est complet, le ministre chargé de l'agriculture dél
 
 III. - La commission transmet son avis au ministre chargé de l'agriculture et au ministre chargé de l'environnement dans un délai de soixante jours à compter de la date d'enregistrement de la demande.
 
-IV. - Si la commission d'étude de la dissémination des produits issus du génie biomoléculaire signale l'existence d'un risque éventuel pour la santé humaine de la consommation des organismes animaux génétiquement modifiés, l'avis du Conseil supérieur d'hygiène publique de France est obligatoirement recueilli.
+IV. - Lorsque les organismes animaux génétiquement modifiés sont susceptibles d'être consommés par les animaux d'élevage, l'avis de l'Agence française de sécurité sanitaire des aliments est obligatoirement recueilli.

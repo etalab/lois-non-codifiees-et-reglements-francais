@@ -1,6 +1,6 @@
 # Article 2
 
-Des arrêtés conjoints du ministre chargé de la consommation, du ministre chargé de la santé, du ministre chargé de l'agriculture et, en tant que de besoin, du ministre chargé de la mer et du ministre chargé des douanes fixent, après avis du Conseil supérieur d'hygiène publique de France, les caractéristiques microbiologiques et hygiéniques auxquelles doivent satisfaire les marchandises pour être reconnues propres à la consommation humaine.
+Des arrêtés conjoints du ministre chargé de la consommation, du ministre chargé de la santé, du ministre chargé de l'agriculture et, en tant que de besoin, du ministre chargé de la mer et du ministre chargé des douanes fixent, après avis de l'Agence française de sécurité sanitaire des aliments, les caractéristiques microbiologiques et hygiéniques auxquelles doivent satisfaire les marchandises pour être reconnues propres à la consommation humaine.
 
 Les marchandises qui ne répondent pas aux caractéristiques microbiologiques ou hygiéniques mentionnées à l'alinéa ci-dessus ne peuvent être détenues ou exposées en vue de la vente, vendues ou distribuées à titre gratuit.
 

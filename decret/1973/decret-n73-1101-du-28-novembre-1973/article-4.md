@@ -1,6 +1,6 @@
 # Article 4
 
-La liste des additifs répondant aux conditions mentionnées à l'article 3 est fixée par arrêté conjoint des ministres chargés de la consommation, de la santé et de l'agriculture, après avis du Conseil supérieur d'hygiène publique de France et de la commission interministérielle et interprofessionnelle de l'alimentation animale. Les additifs ne répondant plus aux conditions énumérées ci-dessus sont rayés de la liste dans les mêmes formes.
+La liste des additifs répondant aux conditions mentionnées à l'article 3 est fixée par arrêté conjoint des ministres chargés de la consommation, de la santé et de l'agriculture, après avis de l' Agence française de sécurité sanitaire des aliments.  Les additifs ne répondant plus aux conditions énumérées ci-dessus sont rayés de la liste dans les mêmes formes.
 
 L'arrêté conjoint prévu au présent article fixe également les conditions auxquelles est subordonnée l'incorporation des additifs aux aliments pour animaux, notamment les teneurs limites de ces additifs ainsi que, le cas échéant, les délaisau-delà desquels cette incorporation ne pourra être opérée. Il détermine, s'il y a lieu, les critères permettant d'identifier les additifs et de les caractériser, notamment leur composition et leur degré de pureté ainsi que leurs propriétés physico-chimiques et biologiques.
 

@@ -2,7 +2,8 @@
 
 <div id="LEGIARTI000006566706_corps">
 <div id="LEGIARTI000006566707_corps">
-<p>Une eau de source ne peut faire l'objet que des traitements ou adjonctions  prévus par un arrêté du ministre chargé de la santé et du ministre chargé de la  consommation, pris après avis du Conseil supérieur d'hygiène publique de France. </p>
+<div id="LEGIARTI000006566708_corps">
+<p>Une eau de source ne peut faire l'objet que des traitements ou adjonctions  prévus par un arrêté du ministre chargé de la santé et du ministre chargé de la  consommation, pris après avis de l'Agence française de sécurité sanitaire des  aliments. </p>
 <br/>
 <p>Cet arrêté précise quels sont les traitements ou adjonctions applicables aux  eaux de source afin de procéder à : </p>
 <br/>
@@ -19,6 +20,9 @@
 <p>Cet arrêté fixe les conditions techniques à respecter pour appliquer les  différents types de traitements mentionnés au premier alinéa. </p>
 <br/>
 <p>L'application de ces traitements ne doit pas avoir pour but ou effet de  modifier les caractéristiques microbiologiques de l'eau. </p>
+<br/>
+</div>
+<br/>
 <br/>
 </div>
 <br/>

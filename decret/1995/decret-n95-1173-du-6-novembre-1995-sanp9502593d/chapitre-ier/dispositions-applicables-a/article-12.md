@@ -4,6 +4,6 @@ Un arrêté des ministres chargés de l'agriculture et de la santé habilite les
 
 Ces personnes doivent soit justifier d'un niveau de qualification dans une discipline scientifique au moins égal à celui d'un diplôme universitaire de second cycle, soit être fonctionnaires de catégorie A et posséder les connaissances scientifiques, techniques et juridiques nécessaires à leur mission.
 
-L'arrêté d'habilitation est pris sur proposition du directeur général du Centre national d'études vétérinaires et alimentaires et après avis de la Commission d'étude de la dissémination des produits issus du génie biomoléculaire et du procureur de la République auprès du tribunal de grande instance de la résidence administrative des personnes concernées.
+L'arrêté d'habilitation est pris sur proposition du directeur général de l'Agence française de sécurité sanitaire des aliments et après avis de la Commission d'étude de la dissémination des produits issus du génie biomoléculaire et du procureur de la République auprès du tribunal de grande instance de la résidence administrative des personnes concernées.
 
 Cet arrêté précise l'objet de l'habilitation, sa durée et le ressort géographique dans lequel la personne habilitée peut rechercher et constater les infractions.

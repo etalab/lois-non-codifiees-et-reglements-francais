@@ -1,6 +1,6 @@
 # Article 9
 
-Dans tous les cas où une nouvelle évaluation des risques que la présence d'organismes génétiquement modifiés fait courir à la santé publique ou à l'environnement le justifie, le directeur général du Centre national d'études vétérinaires et alimentaires peut, aux frais du titulaire de l'autorisation :
+Dans tous les cas où une nouvelle évaluation des risques que la présence d'organismes génétiquement modifiés fait courir à la santé publique ou à l'environnement le justifie, le directeur général de l'Agence française de sécurité sanitaire des aliments peut, aux frais du titulaire de l'autorisation :
 
 a) Suspendre l'autorisation dans l'attente d'informations complémentaires ;
 

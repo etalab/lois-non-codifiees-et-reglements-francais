@@ -2,7 +2,7 @@
 
 Des techniciens de formation et de recherche pourront être intégrés dans le corps des assistants ingénieurs créé à l'article 35 ci-dessus. Ces intégrations sont prononcées par inscription sur une liste d'aptitude arrêtée par le ministre chargé de l'agriculture dans la limite d'un contingent d'emplois fixé par arrêté conjoint des ministres chargés de l'agriculture et du budget.
 
-La liste sera établie après consultation d'une commission spéciale constituée, sur décision du ministre chargé de l'agriculture, d'un nombre égal de représentants de l'administration du ministère de l'agriculture et de la pêche et du Centre national d'études vétérinaires et alimentaires, d'une part, de représentants des organisations syndicales représentatives des personnels concernés désignés par celles-ci, d'autre part.
+La liste sera établie après consultation d'une commission spéciale constituée, sur décision du ministre chargé de l'agriculture, d'un nombre égal de représentants de l'administration du ministère de l'agriculture et de la pêche et de l'Agence française de sécurité sanitaire des aliments, d'une part, de représentants des organisations syndicales représentatives des personnels concernés désignés par celles-ci, d'autre part.
 
 Ces intégrations sont effectuées dans un délai maximum de quatre années à compter de la date d'effet du présent décret.
 

@@ -14,7 +14,7 @@ Le ministre chargé de l'agriculture peut à tout moment inviter le demandeur à
 
 La commission transmet son avis au ministre chargé de l'agriculture et au ministre chargé de l'environnement et se prononce dans un délai de soixante jours à compter de la date d'enregistrement de la demande.
 
-Si la commission d'étude de la dissémination des produits issus du génie biomoléculaire signale l'existence d'un risque éventuel pour la santé publique de la consommation des produits provenant d'une plante génétiquement modifiée, l'avis du Conseil supérieur d'hygiène publique de France est obligatoirement recueilli.
+Lorsqu'il s'agit de plantes, semences et plants susceptibles d' être consommés par les animaux d'élevage, l'avis de l'Agence française de sécurité sanitaire des aliments est obligatoirement recueilli.
 
 L'accord du ministre chargé de l'environnement est réputé acquis s'il n'a pas fait connaître au ministre chargé de l'agriculture son opposition à l'autorisation dans un délai de quatorze jours à compter de la date à laquelle il a reçu l'avis de la commission d'étude de la dissémination des produits issus du génie biomoléculaire ou de l'expiration du délai de soixante jours imparti à ladite commission.
 

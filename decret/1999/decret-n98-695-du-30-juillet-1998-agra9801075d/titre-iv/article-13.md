@@ -1,0 +1,3 @@
+# Article 13
+
+Outre les fonctionnaires mentionnés au 1° de l'article 246 du décret du 30 décembre 1983 susvisé, peuvent également être placés en position de détachement, après avis de la commission scientifique spécialisée de l'Agence française de sécurité sanitaire des aliments, les chargés de recherche et directeurs de recherche appartenant à un autre établissement public de recherche, et les enseignants-chercheurs des établissements publics d'enseignement supérieur, dès lors qu'ils remplissent les conditions statutaires exigées pour l'accès au corps dans lequel ils demandent leur détachement.

@@ -6,4 +6,4 @@ A cet effet, toute modification projetée au captage ou à l'aménagement d'une 
 
 Ou bien il donne l'autorisation d'exécuter les travaux.
 
-Ou bien il demande au préfet de saisir le secrétaire d'Etat à la santé publique et à la population qui, après avis de l'académie nationale de médecine statue sur la possibilité d'autoriser les travaux dont il s'agit et procède, s'il y a lieu, à la révision de l'autorisation.
+Ou bien il demande au préfet de saisir le secrétaire d'Etat à la santé publique et à la population qui, après avis de l'Agence française de sécurité sanitaire des aliments et de l' Académie de médecine si l'eau est destinée à alimenter un établissement thermal, statue sur la possibilité d'autoriser les travaux dont il s'agit et procède, s'il y a lieu, à la révision de l'autorisation.

@@ -1,6 +1,6 @@
 # Article 13
 
-Le secrétaire d'Etat, après avis de l'académie nationale de médecine, approuve, s'il y a lieu, les travaux projetés pour amener l'eau au point d'utilisation.
+Le secrétaire d'Etat, après avis de l'Agence française de sécurité sanitaire des aliments et de l'Académie de médecine si l'eau est destinée à alimenter un établissement thermal, approuve, s'il y a lieu, les travaux projetés pour amener l'eau au point d'utilisation.
 
 Les travaux sont réalisés sous le contrôle du service des mines.
 
@@ -10,6 +10,6 @@ A cet effet :
 
 D'une part le service des mines dresse un procès-verbal de constatation des travaux exécutés.
 
-D'autre part, il est procédé le même jour, tant au point d'émergence qu'au point d'utilisation, aux diverses déterminations prévues à l'article 6 et à des prélèvements d'échantillons d'eau, et, le cas échéant, de gaz, en vue d'analyses chimiques et bactériologiques par le laboratoire national.
+D'autre part, il est procédé le même jour, tant au point d'émergence qu'au point d'utilisation, aux diverses déterminations prévues à l'article 6 et à des prélèvements d'échantillons d'eau, et, le cas échéant, de gaz, en vue d'analyses chimiques et bactériologiques par l'Agence française de sécurité sanitaire des aliments.
 
-Le secrétaire d'Etat statue après avis de l'académie nationale de médecine par un arrêté dont il est fait mention au Journal officiel.
+Le secrétaire d'Etat statue après avis de l'Agence française de sécurité sanitaire des aliments et de l'Académie de médecine si l'eau est destinée à alimenter un établissement thermal, par un arrêté dont il est fait mention au Journal officiel.

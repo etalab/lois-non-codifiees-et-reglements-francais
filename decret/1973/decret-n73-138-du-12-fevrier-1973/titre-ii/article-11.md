@@ -16,7 +16,7 @@ Sans préjudice des dispositions mentionnées au II ci-dessous, les produits uti
 
 - toxiques pour la reproduction, des 1re et 2e catégories.
 
-II. - Un arrêté conjoint des ministres respectivement chargés de la consommation, de la santé, de l'agriculture et de l'industrie, pris après avis du Conseil supérieur d'hygiène publique de France, fixe la liste :
+II. - Un arrêté conjoint des ministres respectivement chargés de la consommation, de la santé, de l'agriculture et de l'industrie, pris après avis de l'Agence française de sécurité sanitaire des aliments fixe la liste :
 
 1. Des constituants qui sont seuls autorisés dans les produits de nettoyage appartenant aux catégories désignées ci-après :
 
