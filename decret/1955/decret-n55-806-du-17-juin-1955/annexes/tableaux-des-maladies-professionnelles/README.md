@@ -9,4 +9,7 @@
 - [8° Sulfocarbonisme professionnel](8-sulfocarbonisme-professionnel)
 - [19° Benzolisme professionnel (maladies causées par le benzène et ses homologues (toluène, xylène, etc.).](19-benzolisme-professionnel-maladies-causees-par)
 - [21° Affections professionnelles provoquées par les dérivés halogénés suivants des hydrocarbures aliphatiques : dichlorométhane (chlorure de méthylène), trichlorométhane (chloroforme), tribromométhane (bromoforme), dichloro-1-2 éthane, dibromo-1-2-éthane, trichloro-1-1-1-éthane (méthylchloroforme), dichloro-1-1-éthylène asymétrique, dichloro-1-2 éthylène (dichloréthylène symétrique), trichloréthylène, tétrachloréthylène (perchloréthylène), dichloro-1-2-propane, chloropropylène (chlorure d'allyle), chloro-2-butadiène-1-3 (chloroprène).](21-affections-professionnelles-provoquees-par)
+- [40° Intoxication professionnelle par l'oxyde de carbone](40-intoxication-professionnelle-par)
+- [41° Intoxications professionnelles par l'hexane](41-intoxications-professionnelles-par)
+- [42° Maladies professionnelles provoquées par le cadmium et ses composés.](42-maladies-professionnelles-provoquees-par)
 - [9° Intoxication professionnelle par le tétrachlorure de carbone.](9-intoxication-professionnelle-par)
