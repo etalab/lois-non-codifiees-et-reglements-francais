@@ -1,0 +1,7 @@
+# Article 2
+
+Au titre de ses attributions relatives à la recherche, le ministre d'Etat, ministre de l'éducation nationale, de la recherche et des sports, prépare avec le ministre d'Etat, ministre de l'économie, des finances et du budget, les décisions du Gouvernement relatives à l'attribution des ressources et des moyens alloués par l'Etat dans le cadre du budget civil de recherche et de développement technologique ; à cet effet, les ministres présentent au ministre d'Etat, ministre de l'éducation nationale, de la recherche et des sports, leurs propositions de crédits de recherche. Toutefois, en ce qui concerne les crédits relatifs à l'espace, il exerce cette compétence conjointement avec le ministre chargé de l'espace.
+
+Au même titre, le ministre d'Etat, ministre de l'éducation nationale, de la recherche et des sports, exerce, conjointement avec le ministre de l'industrie, du commerce extérieur et de l'aménagement du territoire, la tutelle de l'Agence nationale pour la valorisation de la recherche et de la cité des sciences et de l'industrie et, conjointement avec le ministre des postes et télécommunications et de l'espace, la tutelle du Centre national des études spatiales.
+
+Au même titre, il a autorité sur le centre de prospective et d'évaluation, institué par l'article 2 du décret n° 82-768 du 9 septembre 1982 susvisé, et dispose, en tant que de besoin, de la direction générale de l'industrie et de la direction de l'administration générale du ministère de l'industrie, ainsi que des directions régionales de l'industrie et de la recherche.

@@ -377,6 +377,7 @@
 - [Décret n°88-97 du 28 janvier 1988 (PRMJ8860003D)](decret-n88-97-du-28-janvier-1988-prmj8860003d)
 - [Décret n°88-98 du 28 janvier 1988 (PRMJ8860004D)](decret-n88-98-du-28-janvier-1988-prmj8860004d)
 - [Décret n°88-99 du 28 janvier 1988 (PRMJ8860005D)](decret-n88-99-du-28-janvier-1988-prmj8860005d)
+- [Décret n°88-726 du 28 mai 1988 (MENX8800068D)](decret-n88-726-du-28-mai-1988-menx8800068d)
 - [Décret n°88-104 du 29 janvier 1988 (ASEF8803020D)](decret-n88-104-du-29-janvier-1988-asef8803020d)
 - [Décret n°88-106 du 29 janvier 1988 (INDA8700870D)](decret-n88-106-du-29-janvier-1988-inda8700870d)
 - [Décret n°88-199 du 29 février 1988 (INTX8800011D)](decret-n88-199-du-29-fevrier-1988-intx8800011d)
