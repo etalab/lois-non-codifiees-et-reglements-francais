@@ -10,4 +10,4 @@ Sont exonérés de la contribution foncière à titre permanent :
 
 4° Les maisons d'habitation, situées à l'intérieur d'une réserve autochtone.
 
-Au terme d'un délai de cinq ans, une délibération du conseil de région pourra mettre un terme à l'exonération prévue au 4° du premier alinéa et soumettre les immeubles situés à l'intérieur des réserves aux dispositions générales.
+Au terme d'un délai de cinq ans, une délibération du congrès du territoire  pourra mettre un terme à l'exonération prévue au 4° du premier alinéa et soumettre les immeubles situés à l'intérieur des réserves aux dispositions générales.

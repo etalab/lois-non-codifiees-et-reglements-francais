@@ -1,6 +1,6 @@
 # Article 20
 
-1° Les rôles de la contribution foncière des propriétés bâties et non bâties sont mis en recouvrement quarante-cinq jours après la date de l'arrêté du président du conseil de région les rendant exécutoires.
+1° Les rôles de la contribution foncière des propriétés bâties et non bâties sont mis en recouvrement quarante-cinq jours après la date de l'arrêté du président du congrès du territoire les rendant exécutoires.
 
 La date de mise en recouvrement détermine l'année de prise en charge des recettes correspondantes.
 
