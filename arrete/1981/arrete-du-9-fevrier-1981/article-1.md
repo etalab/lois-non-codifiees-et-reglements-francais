@@ -1,0 +1,5 @@
+# Article 1
+
+Pour l'application des dispositions du décret du 12 juin 1956 susvisé, les écoles ou les cycles de formation, les actions de préparation à des concours ou examens et les jurys de concours et d'examens relevant du ministère de la défense sont classés dans les groupes prévus au décret susvisé conformément aux indications des tableaux I, II. et III annexés au présent arrêté.
+
+Les indemnités d'enseignement ne peuvent être allouées qu'au personnel civil ou militaire remplissant les conditions requises à l'article 1er du décret du 12 juin 1956 susvisé, c'est-à-dire assurant une tâche d'enseignement à titre d'occupation accessoire. Le personnel qui a été affecté expressément dans une école comme professeur ou instructeur ne peut prétendre à aucune indemnité. Toutefois, les personnels de direction ou d'encadrement affectés aux écoles peuvent bénéficier de ces indemnités si, alors que les statuts de leur école leur confèrent des fonctions de direction ou d'encadrement à l'exclusion de toute tâche d'enseignement, ils exercent cependant dans cette école, à titre d'occupation accessoire, une tâche d'enseignement.
