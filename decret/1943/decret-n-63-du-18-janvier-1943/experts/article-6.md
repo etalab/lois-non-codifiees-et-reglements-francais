@@ -5,3 +5,5 @@ Dans chaque département, le préfet, sur la proposition du chef de service inte
 A toute époque, le ministre de l'industrie peut, l'intéressé entendu, rapporter la désignation sans préavis ni indemnité.
 
 Dans les conditions et sous les réserves prévues à l'article 378 du code pénal, les experts et leurs délégués sont tenus au secret professionnel, sauf à l'égard des autorités administratives et judiciaires, pour tous les faits ou renseignements dont ils ont eu connaissance dans l'exercice de leurs fonctions.
+
+Le silence gardé pendant plus d'un an par le préfet sur une demande d'habilitation d'experts vaut décision de rejet.

@@ -4,6 +4,8 @@ Sous réserve des dispositions prévues aux troisième, quatrième et dernier al
 
 Toutefois, le ministre chargé de l'industrie peut autoriser la mise en service d'un nombre limité d'instruments d'un type pour lequel une demande d'examen de type a été présentée. Cette décision précise les dispositions de régularisation de la situation de ces instruments à la clôture de la procédure d'examen de type.
 
+Le silence gardé pendant plus d'un an par le ministre chargé de l'industrie sur une demande d'autorisation de mise en service vaut décision de rejet.
+
 L'examen de type n'est pas obligatoire pour les instruments légalement fabriqués et commercialisés dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord sur l'Espace économique européen ou dans un Etat ayant conclu un accord de reconnaissance à cet effet avec la France, lorsque les prescriptions applicables à ces instruments dans l'autre Etat présentent des garanties équivalentes à celles qu'apporte l'examen de type défini à l'article 6 ci-dessus.
 
 Les instruments en démonstration qui sont présentés ou exposés dans les expositions, foires ou salons et qui, bien que soumis au régime de l'examen de type, ne sont pas conformes à un type ayant obtenu un certificat d'examen de type doivent porter de façon apparente et lisible la mention : Instrument non certifié. Cette disposition est applicable à la publicité faite sur ces instruments.

@@ -9,3 +9,5 @@ Le bénéficiaire de l'autorisation ne peut occuper les terrains visés par cell
 L'arrêté cessera de produire effet si l'occupation n'est pas réalisée dans le délai fixé par ledit arrêté.
 
 Les indemnités afférentes à l'occupation temporaire sont dues par le bénéficiaire de l'autorisation.
+
+Le silence gardé pendant plus de neuf mois par le préfet sur la demande d'occupation temporaire vaut décision de rejet.

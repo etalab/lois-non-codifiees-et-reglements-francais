@@ -7,3 +7,5 @@ Toutefois, cette autorisation n'est pas requise pour les études et recherches p
 L'autorisation n'est pas exigée des personnes qui étaient à la date d'entrée en vigueur du présent décret en conformité avec la réglementation antérieure sur les études et recherches relatives aux produits explosifs.
 
 Un arrêté conjoint des ministres chargés de la défense, de l'intérieur et de l'industrie fixe les modalités de présentation de la demande ainsi que la composition du dossier qui doit être joint à celle-ci.
+
+Le silence gardé pendant plus d'un an par le ministre chargé de l'industrie sur une demande d'autorisation d'étude vaut décision de rejet.

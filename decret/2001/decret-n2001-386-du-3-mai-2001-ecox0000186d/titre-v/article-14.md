@@ -5,3 +5,5 @@ L'habilitation ou l'agrément des organismes mentionnés aux articles 4, 5, 6, 1
 La décision d'habilitation ou d'agrément définit les missions pour lesquelles ces organismes sont habilités ou agréés et la durée de l'habilitation ou de l'agrément. Elle peut subordonner l'habilitation ou l'agrément au respect de certaines obligations à la charge de ces organismes telles qu'une couverture minimale du territoire national ou une participation active aux instances de normalisation et de coordination technique dans les domaines couverts par l'habilitation ou l'agrément.
 
 Le renouvellement de l'habilitation ou de l'agrément peut être subordonné à la réalisation d'un volume minimal d'activité pendant la période d'habilitation ou d'agrément précédente.
+
+Le silence gardé pendant plus d'un an par le ministre chargé de l'industrie sur une demande d'habilitation ou d'agrément d'organismes vaut décision de rejet.

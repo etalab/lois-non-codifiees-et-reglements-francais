@@ -15,3 +15,5 @@ Le délai, qui ne saurait excéder deux ans, dans lequel la servitude doit comme
 Cet arrêté est notifié par le préfet au demandeur, au propriétaire et à ses ayants droit et, s'il n'est pas propriétaire, à l'exploitant de la surface.
 
 L'autorisation devient caduque s'il n'a pas été fait usage de la servitude dans le délai fixé par l'arrêté qui l'a accordée.
+
+Le silence gardé pendant plus d'un an par le préfet sur la demande d'octroi de servitudes minières de passage ou d'occupation vaut décision de rejet.

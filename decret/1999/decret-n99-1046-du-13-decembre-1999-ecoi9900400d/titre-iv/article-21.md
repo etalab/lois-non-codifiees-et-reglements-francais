@@ -4,6 +4,8 @@ I. - Les habilitations des organismes indépendants mentionnées aux articles 10
 
 La décision d'habilitation définit les missions pour lesquelles ces organismes ou organes sont habilités et la durée de l'habilitation. Elle peut subordonner l'habilitation au respect de certaines obligations à la charge de ces organismes ou organes.
 
+Le silence gardé pendant plus d'un an par le ministre chargé de l'industrie sur une demande d'habilitation d'organismes indépendants et d'organes d'inspection des utilisateurs vaut décision de rejet.
+
 II. - Les organismes ou organes habilités doivent respecter les critères définis à l'annexe 4. Les organismes accrédités par le comité français d'accréditation ou un organisme d'accréditation reconnu équivalent sont présumés respecter ces critères pour les activités couvertes par l'accréditation.
 
 L'octroi de l'habilitation est subordonné à la condition que l'organisme ou, le cas échéant, l'organe intéressé ait souscrit une assurance couvrant sa responsabilité civile.

@@ -2,7 +2,7 @@
 
 Il est statué sur la demande d'autorisation par décret en Conseil d'Etat, contresigné par le ministre chargé de l'industrie et le ministre chargé de l'environnement, après consultation du conseil général des mines et après avis de la commission interministérielle des dépôts d'hydrocarbures. L'autorisation ainsi accordée vaut autorisation au titre de l'article 10 de la loi n° 92-3 du 3 janvier 1992 sur l'eau.
 
-Le décret d'autorisation précise notamment [*contenu*] :
+Le décret d'autorisation précise notamment :
 
 - la durée de l'autorisation qui ne saurait être supérieure à vingt ans ;
 
@@ -21,3 +21,5 @@ Le décret d'autorisation précise notamment [*contenu*] :
 - éventuellement, si une redevance doit être perçue au profit de l'Etat dans les conditions fixées par l'article 37 du présent décret.
 
 Il est publié au Journal officiel. Celles de ses dispositions qui sont relatives au périmètre de protection font l'objet, par les soins de l'administration, de la publicité foncière prévue à l'article 36 du décret n° 55-22 du 4 janvier 1955.
+
+En ce qui concerne la demande d'autorisation d'aménagement et d'exploitation d'un stockage souterrain mentionnée à l'article 13, l'absence de décret conjoint des ministres chargés de l'industrie et de l'environnement au terme d'une période de plus de deux ans vaut décision de rejet.

@@ -8,4 +8,6 @@ L'octroi de l'habilitation, qui peut être de durée limitée, est subordonné �
 
 Les personnels des organismes habilités sont tenus par une obligation de confidentialité à l'égard de tout ce dont ils pourraient avoir connaissance lors de l'examen des matériels et des dossiers y afférents.
 
+Le silence gardé pendant plus d'un an par le ministre chargé de l'industrie sur une demande d'habilitation d'organisme vaut décision de rejet.
+
 II. - Le fabricant ou l'importateur auxquels l'organisme habilité a refusé de délivrer l'attestation d'examen CE de type peuvent saisir de cette décision le ministre chargé de l'industrie ; celui-ci statue sur ce recours après avoir pris l'avis de la commission des équipements instituée par le II de l'article 13.

@@ -13,3 +13,5 @@ Le décret est assorti d'un cahier des charges qui précise notamment :
 4° Les conditions de remise en état du site, si celui-ci n'est pas retenu ultérieurement pour un stockage souterrain ;
 
 5° Les programmes de recherches et d'études envisagés, ainsi qu'un calendrier indicatif de leur réalisation.
+
+En ce qui concerne la demande d'autorisation d'installation et d'exploitation d'un laboratoire souterrain mentionnée à l'article 1er, l'absence de décret conjoint des ministres chargés de l'industrie et de l'environnement au terme d'une période de plus de cinq ans vaut décision de rejet.

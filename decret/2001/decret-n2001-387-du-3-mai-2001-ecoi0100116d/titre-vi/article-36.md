@@ -13,3 +13,5 @@ Les organismes désignés par le ministre chargé de l'industrie pour l'applicat
 - mettre en place et entretenir un système d'assurance de la qualité suffisant pour la surveillance prévue à l'article 38 ci-après.
 
 La décision de désignation peut être rapportée par le ministre à la demande de l'organisme ou lorsque l'organisme n'a pas satisfait aux obligations mentionnées à l'alinéa précédent ou les a méconnues. Dans ces deux derniers cas, la décision ne peut être prise qu'après que l'organisme a été mis à même de présenter ses observations.
+
+Le silence gardé pendant plus d'un an par le ministre chargé de l'industrie sur une demande de désignation d'organismes de vérification vaut décision de rejet.

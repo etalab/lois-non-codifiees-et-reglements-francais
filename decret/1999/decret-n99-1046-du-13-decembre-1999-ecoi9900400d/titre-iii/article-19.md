@@ -5,3 +5,5 @@ Lorsqu'un établissement industriel met en oeuvre, sous sa responsabilité et so
 En particulier, le préfet peut autoriser la réalisation de tout ou partie de certaines opérations de contrôle prévues à l'article 18 ci-dessus sous la direction du service d'inspection reconnu ainsi que l'aménagement de la périodicité de la requalification périodique.
 
 L'exploitant doit alors soumettre à la surveillance des agents désignés pour la surveillance des appareils à pression l'ensemble des actions d'inspection.
+
+Le silence gardé pendant plus d'un an par le préfet sur une demande de reconnaissance de services pour l'inspection d'établissements industriels vaut décision de rejet.

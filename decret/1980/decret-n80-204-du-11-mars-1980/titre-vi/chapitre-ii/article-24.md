@@ -5,3 +5,5 @@ La demande d'acceptation de renonciation à un titre minier est adressée au pr�
 Elle est instruite selon le cas comme il est dit aux articles 14 et 15 du présent décret.
 
 L'acceptation d'une renonciation est subordonnée à l'exécution des mesures de police prescrites il y a lieu. Sous cette réserve, elle est de droit en cas de renonciation totale. L'acceptation d'une renonciation est prononcée par arrêté du ministre chargé des mines.
+
+En ce qui concerne le permis d'exploitation, le silence gardé pendant plus de quinze mois par le ministre chargé des mines sur la demande de renonciation vaut décision de rejet.

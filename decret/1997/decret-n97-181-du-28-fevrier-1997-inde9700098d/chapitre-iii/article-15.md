@@ -7,3 +7,5 @@ Il est notifié à l'exploitant par le préfet en même temps, le cas échéant,
 Il est également publié, par les soins du préfet, au Recueil des actes administratifs de la préfecture et, par extrait et aux frais du demandeur, dans un journal local dont la diffusion s'étend à toute la zone couverte par le titre ou par la demande.
 
 Il est affiché par extrait à la préfecture et dans toutes les mairies intéressées.
+
+En ce qui concerne la demande d'octroi d'un permis exclusif de carrières mentionnée à l'article 12, l'absence d'arrêté conjoint des ministres chargés des mines et de l'environnement au terme d'une période de plus de deux ans vaut décision de rejet.

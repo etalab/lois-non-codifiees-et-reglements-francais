@@ -13,3 +13,5 @@ Des arrêtés du ministre de l'industrie, pris sur propositions de la commission
 5° Toutes conditions de construction, d'établissement, d'entretien et d'usage des appareils, en vue de garantir la sécurité des personnes et notamment la valeur maximum de la pression de service ;
 
 6° La tenue d'un registre spécial où sont notés à leur date les faits susceptibles d'intéresser la sécurité.
+
+Le silence gardé pendant plus d'un an par le ministre chargé de l'industrie sur une demande formulée en matière de sécurité relative aux appareils à pression vaut décision de rejet.

@@ -19,3 +19,5 @@ Le décret d'autorisation précise notamment :
 Ce décret est publié au Journal officiel. Celles de ses dispositions qui sont relatives au périmètre de protection font l'objet par les soins de l'administration de la publicité foncière prévue à l'article 36 du décret n° 55-22 du 4 janvier 1955.
 
 La durée de la première autorisation ne saurait être supérieure à dix ans.
+
+Le silence gardé pendant plus de deux ans par l'autorité compétente sur la demande d'autorisation de stockage mentionnée à l'article 8 vaut décision de rejet.

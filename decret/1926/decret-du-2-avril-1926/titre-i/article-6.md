@@ -35,3 +35,5 @@ Lorsqu'un appareil ayant déjà servi est rééprouvé avec la surcharge élevé
 Pour les épreuves après réparation ne comportant que la surcharge réduite, la visite peut se borner à la partie réparée ; mais dans ce cas l'épreuve ne compte pas dans le calcul de la période décennale.
 
 Le chef de l'établissement où se fait l'épreuve fournit la main-d'oeuvre et les appareils nécessaires.
+
+Le silence gardé pendant plus d'un an par l'autorité compétente sur la demande d'agrément d'un organisme de contrôle vaut décision de rejet.

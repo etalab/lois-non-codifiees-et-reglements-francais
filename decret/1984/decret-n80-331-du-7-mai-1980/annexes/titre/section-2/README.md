@@ -2,4 +2,5 @@
 
 - [Chapitre III : Conditions d'utilisation](chapitre-iii)
 - [Article 19](article-19.md)
+- [Article 20](article-20.md)
 - [Article Annexe VP-1-R](article-annexe-vp-1-r.md)
