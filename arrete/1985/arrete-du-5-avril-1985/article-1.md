@@ -1,3 +1,3 @@
 # Article 1
 
-La Caisse centrale de coopération économique est autorisée à émettre un emprunt de 1,5 milliard de francs représenté par 300 000 obligations de 5 000 F nominal, d'une durée de quinze ans.
+La surveillance médicale des salariés exposés aux substances susceptibles de provoquer une lésion maligne de la vessie est assurée dans les conditions indiquées à l'annexe technique jointe au présent arrêté.

@@ -1,3 +1,3 @@
 # Article 2
 
-Le service de cet emprunt en intérêts, amortissement, impôts et frais accessoires est garanti par l'Etat.
+Après la fin d'exposition au risque, lors d'un changement d'affectation dans l'entreprise ou l'établissement, la surveillance médicale de tout salarié ayant été exposé au moins trois ans [*durée*] doit être maintenue pendant toute la durée de son activité professionnelle dans cette entreprise ou cet établissement.
