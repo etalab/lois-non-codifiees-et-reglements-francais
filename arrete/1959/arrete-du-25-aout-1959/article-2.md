@@ -8,10 +8,10 @@ b) Les empreintes seront aménagées de façon à ne pas occasionner de dégrada
 
 c) Les empreintes auront une largeur, mesurée au contact avec le sol, d'au moins un centimètre et une hauteur d'au plus deux centimètres.
 
-Cette tolérance cessera d'être admise, quelle que soit l'année de mise en service, le 31 décembre 1959 pour les tracteurs agricoles et machines agricoles automotrices.
+Cette tolérance n'est pas applicable :
 
-Elle cessera, pour les véhicules et appareils remorqués :
+1° Aux tracteurs agricoles mis en circulation pour la première fois à dater du 1er janvier 1960 et aux machines agricoles automotrices livrées neuves par les constructeurs à partir de cette même date ;
 
-Le 31 décembre 1959 pour la circulation sur les routes nationales et les chemins départementaux ;
+2° Aux véhicules et appareils remorqués livrés neufs par les constructeurs à partir du 1er janvier 1961 pour ceux de ces véhicules qui emprunteront des routes nationales et des chemins départementaux et au 1er janvier 1962 pour ceux de ces véhicules qui emprunteront les autres routes et chemins revêtus.
 
-Le 30 septembre 1960 pour la circulation sur les autres routes et chemins revêtus.
+Les dates auxquelles cette tolérance cessera d'être applicable aux véhicules et appareils en service avant les différentes dates susvisées seront fixées par un arrêté ultérieur.
