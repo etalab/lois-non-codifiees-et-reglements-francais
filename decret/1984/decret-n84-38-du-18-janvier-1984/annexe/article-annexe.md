@@ -108,7 +108,7 @@ Emplois de catégorie A, B, C et D
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
-Centre national de la cinématographie
+Centre national d'études supérieures de sécurité sociale
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
@@ -116,11 +116,11 @@ Emplois de catégorie A et B
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
-Centre national d'études supérieures de sécurité sociale
+Centres régionaux des oeuvres universitaires et scolaires
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
-Emplois de catégorie A et B
+Emplois de personnels ouvriers
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
@@ -137,6 +137,22 @@ Conseil supérieur de la pêche
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
 Emplois de toutes catégories
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
+Etablissement public de la Bibliothèque de France
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois de catégorie A, B, C et D
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
+Etablissement public du centre de conférence internationale de Paris
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois de catégorie A, B, C et D
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
@@ -218,7 +234,7 @@ Institut national de la propriété industrielle
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
-Emplois de catégorie A et B
+Emplois de catégorie A, B, C et D
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 

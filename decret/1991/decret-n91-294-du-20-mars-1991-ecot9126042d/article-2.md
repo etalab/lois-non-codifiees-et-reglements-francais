@@ -1,0 +1,3 @@
+# Article 2
+
+Sont approuvées l'abrogation de l'article 57 et les modifications des articles 1er, 3 (3e, 4e et 6e alinéa), 5, 8, 10, 11, 14, 17, 18, 24, 27, 32, 34, 36, 37, 38, 42, 43, 45, 46, 49 (1er alinéa), 50 à 56, 58, 59 (1er et 2e alinéa), 60, 65, 68 à 70 et 73 des statuts du Crédit foncier de France, telles qu'elles figurent dans l'acte passé le 9 juillet 1990 devant la société civile professionnelle Bernard Poisson, Jean-Marie Plessy, Gérard Schmitt et Robert Theret, notaires associés à Paris, modifié par les actes complémentaires passés devant la même société, en date du 17 octobre 1990 et du 15 février 1991, dont une expédition demeurera annexée au présent décret.

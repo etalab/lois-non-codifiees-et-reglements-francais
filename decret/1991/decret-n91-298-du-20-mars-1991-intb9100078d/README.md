@@ -1,0 +1,7 @@
+# Décret n°91-298 du 20 mars 1991 portant dispositions statutaires applicables aux fonctionnaires territoriaux nommés dans des emplois permanents à temps non complet
+
+- [Article 1](article-1.md)
+- [CHAPITRE Ier : Dispositions communes applicables à l'ensemble des agents rémunérés dans des emplois permanents à temps non complet.](chapitre-ier)
+- [CHAPITRE II : Dispositions applicables aux fonctionnaires mentionnés à l'article 108 de la loi du 26 janvier 1984 modifiée](chapitre-ii)
+- [CHAPITRE III: Dispositions applicables aux fonctionnaires ne relevant pas de l'article 108 de la loi du 26 janvier 1984 modifiée.](chapitre-iii)
+- [Article 46](article-46.md)
