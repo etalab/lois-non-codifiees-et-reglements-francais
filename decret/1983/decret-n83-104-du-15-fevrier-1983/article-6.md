@@ -1,0 +1,3 @@
+# Article 6
+
+Au cours de contrôle, le directeur ou un directeur adjoint du laboratoire ou le biologiste hospitalier exerçant les fonctions de chef de service ou d'adjoint sont tenus de fournir la justification de la maintenance du matériel, les factures d'achat des réactifs ou des matières premières servant à leur préparation, les documents relatifs à l'exécution des analyses, les résultats des contrôles de qualité internes au laboratoire, les modèles de comptes rendus d'analyses employés qui comportent mention de la méthode utilisée dans la mesure où cette mention est nécessaire à leur interprétation, les résultats du contrôle national obligatoire de qualité des analyses, ainsi que tout renseignement sur les méthodes et sur les techniques d'analyses employées.
