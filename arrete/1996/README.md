@@ -1045,7 +1045,6 @@
 - [Arrêté du 25 octobre 1996 (ECOT9651549A)](arrete-du-25-octobre-1996-ecot9651549a)
 - [Arrêté du 25 octobre 1996 (JUSE9640089A)](arrete-du-25-octobre-1996-juse9640089a)
 - [Arrêté du 25 octobre 1996 (MENU9602987A)](arrete-du-25-octobre-1996-menu9602987a)
-- [Arrêté du 25 octobre 1996 (MENU9602988A)](arrete-du-25-octobre-1996-menu9602988a)
 - [Arrêté du 25 octobre 1996 (MJSK9670142A)](arrete-du-25-octobre-1996-mjsk9670142a)
 - [Arrêté du 25 septembre 1996 (EQUZ9600051A)](arrete-du-25-septembre-1996-equz9600051a)
 - [Arrêté du 25 septembre 1996 (FCEC9600135A)](arrete-du-25-septembre-1996-fcec9600135a)
