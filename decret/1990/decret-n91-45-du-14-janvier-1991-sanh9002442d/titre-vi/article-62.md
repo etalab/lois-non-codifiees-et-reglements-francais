@@ -1,3 +1,3 @@
 # Article 62
 
-Peuvent être détachés, à équivalence de grade et à indice égal ou à défaut immédiatement supérieur, dans l'un des corps mentionnés au présent décret, les fonctionnaires appartenant à un corps ou cadre d'emplois classé dans la même catégorie et répondant aux mêmes conditions de titres et d'aptitude.
+Les chauffeurs de chaudière basse pression sont constitués en cadre d'extinction auquel s'appliquent les dispositions du décret n° 88-1081 du 30 novembre 1988 susvisé. Ils relèvent de l'échelle 2 de rémunération prévue par ledit décret.

@@ -1,4 +1,4 @@
-# Article 54
+# Article 50
 
 Les concours externes prévus au présent décret sont ouverts aux candidats âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours.
 

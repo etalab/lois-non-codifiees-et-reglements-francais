@@ -1,6 +1,6 @@
 # Article 34
 
-Les conducteurs ambulanciers sont recrutés par examen professionnel organisé dans chaque établissement, par l'autorité investie du pouvoir de nomination.
+Les conducteurs ambulanciers sont recrutés par concours sur titres organisé dans chaque établissement, par l'autorité investie du pouvoir de nomination.
 
 Peuvent être candidats les titulaires du certificat de capacité d'ambulancier justifiant des permis de conduire suivants :
 

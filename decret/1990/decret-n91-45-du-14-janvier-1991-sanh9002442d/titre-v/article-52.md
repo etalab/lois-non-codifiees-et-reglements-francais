@@ -1,4 +1,4 @@
-# Article 56
+# Article 52
 
 I. - Les agents promus au grade de maître ouvrier principal, de chef de garage principal ou d'agent technique d'entretien principal sont reclassés en application des dispositions fixées aux articles 15, 24 et 40 du présent décret.
 
