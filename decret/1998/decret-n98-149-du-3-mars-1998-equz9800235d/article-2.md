@@ -8,7 +8,9 @@ Elle comprend trois formations compétentes respectivement pour exprimer un avis
 
 - la délivrance d'autorisations administratives pour la commercialisation des prestations touristiques prévue par la loi du 13 juillet 1992 susvisée fixant les conditions d'exercice des activités relatives à l'organisation et à la vente de voyages ou de séjours ;
 
-- les projets d'établissements hôteliers, en application du 7° du I de l'article 29 de la loi du 27 décembre 1973 modifiée susvisée.
+- les projets d'établissements hôteliers, en application du 7° du I de l'article L. 720-5 du code de commerce.
+
+En Corse, la première formation est compétente pour exprimer un avis sur toutes les demandes de classement et d'autorisation administrative, à l'exclusion des demandes d'agrément ou de classement des équipements et organismes visés au II de l'article L. 4424-32 du code général des collectivités territoriales.
 
 Elle est composée de :
 
@@ -16,7 +18,7 @@ Elle est composée de :
 
 a) Le délégué régional au tourisme ou son représentant, le directeur départemental de la concurrence, de la consommation ou son représentant et un ou plusieurs représentants des services déconcentrés de l'Etat désignés par le préfet en fonction de l'ordre du jour de la réunion ;
 
-b) Un représentant du comité départemental du tourisme, un représentant de l'union départementale des offices de tourisme, un représentant des chambres de commerce et d'industrie, un représentant des chambres de métiers et un représentant des chambres d'agriculture ;
+b) Un représentant du comité départemental du tourisme, un représentant de l'union départementale des offices de tourisme, un représentant des chambres de commerce et d'industrie, un représentant des chambres de métiers et un représentant des chambres d'agriculture et en Corse, un représentant désigné par la collectivité territoriale de Corse.
 
 c) Un représentant des associations de consommateurs désigné par le collège des consommateurs et des usagers du comité départemental de la consommation et un représentant des associations de personnes handicapées à la mobilité réduite représentatives au niveau départemental ;
 
@@ -62,7 +64,7 @@ b) Deuxième formation, compétente en matière de la délivrance d'autorisation
 
 - un représentant des professions de guide-interprète et de conférencier ;
 
-c) Troisième formation, compétente en matière de projets d'établissements hôteliers, en application du 7° du I de l'article 29 de la loi du 27 décembre 1973 modifiée susvisée :
+c) Troisième formation, compétente en matière de projets d'établissements hôteliers, en application du 7° du I de l'article L. 720-5 du code de commerce :
 
 - quatre représentants des hôteliers ;
 
