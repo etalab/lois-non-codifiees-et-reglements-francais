@@ -1,6 +1,7 @@
 # 1996
 
 - [Décret n°96-8 du 2 janvier 1996 (MAEJ9530115D)](decret-n96-8-du-2-janvier-1996-maej9530115d)
+- [Décret n°96-14 du 3 janvier 1996 (DEFP9502236D)](decret-n96-14-du-3-janvier-1996-defp9502236d)
 - [Décret n°96-2 du 3 janvier 1996 (DOMP9500050D)](decret-n96-2-du-3-janvier-1996-domp9500050d)
 - [Décret n°96-4 du 3 janvier 1996 (ECOT9610258D)](decret-n96-4-du-3-janvier-1996-ecot9610258d)
 - [Décret n°96-10 du 5 janvier 1996 (AGRS9502489D)](decret-n96-10-du-5-janvier-1996-agrs9502489d)
@@ -10,6 +11,7 @@
 - [Décret n°95-911 du 7 août 1995 (AGRA9501096D)](decret-n95-911-du-7-aout-1995-agra9501096d)
 - [Décret n°96-527 du 7 juin 1996 (AGRA9600841D)](decret-n96-527-du-7-juin-1996-agra9600841d)
 - [Décret n°96-976 du 7 novembre 1996 (INTC9600275D)](decret-n96-976-du-7-novembre-1996-intc9600275d)
+- [Décret n°96-13 du 8 janvier 1996 (DOME9500052D)](decret-n96-13-du-8-janvier-1996-dome9500052d)
 - [Décret n°96-1086 du 9 décembre 1996 (ENVE9640064D)](decret-n96-1086-du-9-decembre-1996-enve9640064d)
 - [Décret n°96-534 du 12 juin 1996 (INTA9620163D)](decret-n96-534-du-12-juin-1996-inta9620163d)
 - [Décret n°96-815 du 13 septembre 1996 (TASO9611305D)](decret-n96-815-du-13-septembre-1996-taso9611305d)
