@@ -349,7 +349,6 @@
 - [Décret n°87-223 du 26 mars 1987 (AGRG8700587D)](decret-n87-223-du-26-mars-1987-agrg8700587d)
 - [Décret n°87-33 du 26 janvier 1987](decret-n87-33-du-26-janvier-1987)
 - [Décret n°87-36 du 26 janvier 1987](decret-n87-36-du-26-janvier-1987)
-- [Décret n°87-37 du 26 janvier 1987](decret-n87-37-du-26-janvier-1987)
 - [Décret n°87-449 du 26 juin 1987](decret-n87-449-du-26-juin-1987)
 - [Décret n°87-696 du 26 août 1987 (RESP8700549D)](decret-n87-696-du-26-aout-1987-resp8700549d)
 - [Décret n°87-697 du 26 août 1987 (RESP8700550D)](decret-n87-697-du-26-aout-1987-resp8700550d)
