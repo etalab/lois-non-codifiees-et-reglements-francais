@@ -8,6 +8,8 @@ La rémunération du transporteur comprend le prix du transport stricto sensu, c
 
 Le prix du transport est établi en fonction du type de véhicule utilisé, de ses équipements, de la nature de la marchandise, de son poids, de son volume, de la distance du transport, des délais d'acheminement, de la relation assurée, des caractéristiques du trafic, des sujétions particulières de circulation, de la nécessité d'un nettoyage, d'un lavage ou d'une désinfection du véhicule, de la durée de mise à disposition du véhicule et de l'équipage, plus généralement des coûts engendrés par la prestation demandée, conformément aux dispositions de la loi n° 95-96 du 1er février 1995, ainsi que de la qualité de la prestation rendue.
 
+Le prix du transport initialement convenu est révisé en cas de variations significatives des charges de l'entreprise de transport, qui tiennent à des conditions extérieures à cette dernière, tel notamment le prix des carburants, et dont la partie demanderesse justifie par tous moyens.
+
 Toute prestation annexe ou complémentaire est rémunérée au prix convenu. Tel est le cas notamment :
 
 - des opérations d'encaissement, en particulier dans le cas d'encaissement différé ;
