@@ -1,6 +1,8 @@
 # Article 23
 
-Les représentants du personnel au sein des commissions administratives paritaires sont élus à la proportionnelle. La désignation des membres titulaires est effectuée de la manière suivante : [*mode de scrutin*]    a) Nombre total de sièges de représentants titulaires attribués à chaque liste :
+Les représentants du personnel au sein des commissions administratives paritaires sont élus à la proportionnelle. La désignation des membres titulaires est effectuée de la manière suivante : [*mode de scrutin*]
+
+a) Nombre total de sièges de représentants titulaires attribués à chaque liste :
 
 Chaque liste a droit à autant de sièges de représentants titulaires que le nombre de voix recueillies par elle contient de fois le quotient électoral.
 
@@ -30,4 +32,6 @@ d) Désignation des représentants suppléants :
 
 Il est attribué à chaque liste un nombre de sièges de représentants suppléants égal à celui des représentants titulaires.
 
-" Les suppléants sont désignés parmi les candidats venant immédiatement à la suite des candidats élus titulaires et dans l'ordre de présentation de la liste. "
+Les suppléants sont désignés parmi les candidats venant immédiatement à la suite des candidats élus titulaires et dans l'ordre de présentation de la liste.
+
+La procédure de tirage au sort mentionnée au b est applicable pour la désignation des suppléants dans les mêmes cas et les mêmes conditions que pour la désignation des représentants titulaires.

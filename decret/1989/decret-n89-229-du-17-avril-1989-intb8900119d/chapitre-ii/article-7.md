@@ -1,7 +1,7 @@
 # Article 7
 
-Les élections des représentants du personnel aux commissions administratives paritaires [*délai*] ont lieu dans les quatre mois suivant le renouvellement des conseils municipaux.
+Le scrutin du premier tour pour l'élection des représentants du personnel aux commissions administratives paritaires a lieu dans les huit mois suivant le renouvellement des conseils municipaux.
 
-La date des élections est fixée par arrêté du ministre chargé des collectivités territoriales.
+Lorsque aucune liste n'a été déposée par les organisations syndicales représentatives ou lorsque le nombre de votants a été inférieur à la moitié du nombre des électeurs inscrits, il est procédé à un second tour de scrutin dans un délai qui ne peut être inférieur à cinq semaines et supérieur à sept semaines à compter de la date du scrutin initial.
 
-[*Voir le Décret n° 95-575 du 6 mai 1995 au JO du 7 mai 1995*]
+La date des deux tours de scrutin est fixée par arrêté du ministre chargé des collectivités territoriales.
