@@ -1,10 +1,25 @@
 # Article 6
 
-Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er septembre 1988 [*date d'effet*] :
+Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er février 1989:
 
 <table>
 <tr>
-<td> :--------:-----------------------:</td>
+<td> :--------------------------------:</td>
+</tr>
+<tr>
+<td> : TRAITEMENTS ET SOLDES ANNUELS  :</td>
+</tr>
+<tr>
+<td> :            BRUTS               :</td>
+</tr>
+<tr>
+<td> : soumis à retenue pour pension  :</td>
+</tr>
+<tr>
+<td> : à compter du 1er février 1989  :</td>
+</tr>
+<tr>
+<td> :--------------------------------:</td>
 </tr>
 <tr>
 <td> : GROUPE :     CHEVRONS          :</td>
@@ -22,34 +37,49 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <td> :--------:-----------------------:</td>
 </tr>
 <tr>
-<td> :  A     :       237 646         :</td>
+<td> :  A     :       240 826         :</td>
 </tr>
 <tr>
-<td> :  B     :       259 994         :</td>
+<td> :  B     :       263 395         :</td>
 </tr>
 <tr>
-<td> :  B bis :       285 884         :</td>
+<td> :  B bis :       289 542         :</td>
 </tr>
 <tr>
-<td> :  C     :       301 418         :</td>
+<td> :  C     :       305 230         :</td>
 </tr>
 <tr>
-<td> :  D     :       314 772         :</td>
+<td> :  D     :       318 716         :</td>
 </tr>
 <tr>
-<td> :  E     :       343 660         :</td>
+<td> :  E     :       347 891         :</td>
 </tr>
 <tr>
-<td> :  F     :       370 641         :</td>
+<td> :  F     :       375 138         :</td>
 </tr>
 <tr>
-<td> :  G     :       406 615         :</td>
+<td> :  G     :       411 469         :</td>
+</tr>
+<tr>
+<td> :--------------------------------:</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
 </tr>
 <tr>
-<td> :--------------------------------:</td>
+<td> : TRAITEMENTS ET SOLDES ANNUELS  :</td>
+</tr>
+<tr>
+<td> :            BRUTS               :</td>
+</tr>
+<tr>
+<td> : soumis à retenue pour pension  :</td>
+</tr>
+<tr>
+<td> : à compter du 1er février 1989  :</td>
+</tr>
+<tr>
+<td> :--------:-----------------------:</td>
 </tr>
 <tr>
 <td> : GROUPE :     CHEVRONS          :</td>
@@ -67,25 +97,43 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <td> :--------------------------------:</td>
 </tr>
 <tr>
-<td> :  A     :       247 185         :</td>
+<td> :  A     :       250 459         :</td>
 </tr>
 <tr>
-<td> :  B     :       271 167         :</td>
+<td> :  B     :       274 680         :</td>
 </tr>
 <tr>
-<td> :  B bis :       293 515         :</td>
+<td> :  B bis :       297 248         :</td>
 </tr>
 <tr>
-<td> :  C     :       307 959         :</td>
+<td> :  C     :       311 836         :</td>
 </tr>
 <tr>
-<td> :  D     :       329 216         :</td>
+<td> :  D     :       333 304         :</td>
 </tr>
 <tr>
-<td> :  E     :       357 287         :</td>
+<td> :  E     :       361 652         :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>:--------------------------------:</td>
+</tr>
+<tr>
+<td> : TRAITEMENTS ET SOLDES ANNUELS  :</td>
+</tr>
+<tr>
+<td> :            BRUTS               :</td>
+</tr>
+<tr>
+<td> : soumis à retenue pour pension  :</td>
+</tr>
+<tr>
+<td> : à compter du 1er février 1989  :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
@@ -106,19 +154,19 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <td> :--------------------------------:</td>
 </tr>
 <tr>
-<td> :  A     :       259 994         :</td>
+<td> :  A     :       263 395         :</td>
 </tr>
 <tr>
-<td> :  B     :       285 884         :</td>
+<td> :  B     :       289 542         :</td>
 </tr>
 <tr>
-<td> :  B bis :       301 418         :</td>
+<td> :  B bis :       305 230         :</td>
 </tr>
 <tr>
-<td> :  C     :       314 772         :</td>
+<td> :  C     :       318 716         :</td>
 </tr>
 <tr>
-<td> :  D     :       343 660         :</td>
+<td> :  D     :       347 891         :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
