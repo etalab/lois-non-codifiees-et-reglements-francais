@@ -1,0 +1,5 @@
+# Article 5
+
+Les élèves aides-soignants sont recrutés parmi les candidats âgés de quarante-cinq ans au plus [*âge limite*] au 1er janvier [*date*] de l'année en cours aptes à suivre l'enseignement préparatoire à l'un des titres mentionnés à l'article 4 (1°) ci-dessus ou ayant satisfait aux épreuves d'un examen probatoire. Les modalités d'application du présent alinéa sont déterminées par arrêté du ministre chargé de la santé [*autorité compétente*].
+
+Les candidats recrutés en application du présent article sont tenus de suivre cet enseignement. Tout agent n'ayant pas obtenu, à l'issue de sa scolarité, l'un des titres la sanctionnant sera admis à accomplir une nouvelle scolarité. En cas d'échec, il sera reversé dans son corps d'origine s'il était fonctionnaire hospitalier ou remis à la disposition de son administration d'origine s'il était fonctionnaire de l'Etat ou fonctionnaire territorial. Il pourra être titularisé en qualité d'agent des services hospitaliers ou en qualité d'agent du service intérieur, s'il n'avait pas la qualité de fonctionnaire.
