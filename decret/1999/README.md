@@ -331,6 +331,7 @@
 - [Décret n°99-802 du 14 septembre 1999 (ECOD9970002D)](decret-n99-802-du-14-septembre-1999-ecod9970002d)
 - [Décret n°99-371 du 14 mai 1999 (MESS9921304D)](decret-n99-371-du-14-mai-1999-mess9921304d)
 - [Décret n°99-372 du 14 mai 1999 (MESS9921317D)](decret-n99-372-du-14-mai-1999-mess9921317d)
+- [Décret n°96-30 du 15 janvier 1996 (EQUA9501805D)](decret-n96-30-du-15-janvier-1996-equa9501805d)
 - [Décret n°98-1142 du 15 décembre 1998 (ECOC9800138D)](decret-n98-1142-du-15-decembre-1998-ecoc9800138d)
 - [Décret n°99-1051 du 15 décembre 1999 (INTC9900240D)](decret-n99-1051-du-15-decembre-1999-intc9900240d)
 - [Décret n°99-1055 du 15 décembre 1999 (INTC9900289D)](decret-n99-1055-du-15-decembre-1999-intc9900289d)
