@@ -162,7 +162,6 @@
 - [Arrêté du 5 janvier 1993 (TEFT9300030A)](arrete-du-5-janvier-1993-teft9300030a)
 - [Arrêté du 5 janvier 1993 (TEFT9300031A)](arrete-du-5-janvier-1993-teft9300031a)
 - [Arrêté du 5 juillet 1993 (BUDR9305018A)](arrete-du-5-juillet-1993-budr9305018a)
-- [Arrêté du 5 juillet 1993 (DEFA9301672A)](arrete-du-5-juillet-1993-defa9301672a)
 - [Arrêté du 5 juillet 1993 (ENVE9320255A)](arrete-du-5-juillet-1993-enve9320255a)
 - [Arrêté du 5 juillet 1993 (EQUH9301030A)](arrete-du-5-juillet-1993-equh9301030a)
 - [Arrêté du 5 juillet 1993 (PARX9300525A)](arrete-du-5-juillet-1993-parx9300525a)
