@@ -2,64 +2,72 @@
 
 La représentation des usagers est assurée dans les conditions suivantes :
 
-Trois représentants des chambres d'agriculture.
+Trois représentants des chambres d'agriculture et autant de suppléants ;
 
-Trois représentants des associations de pêche.
+Trois représentants des associations de pêche et autant de suppléants ;
 
-Deux représentants d'associations de consommateurs ou d'associations pour le développement de la consommation et de l'hygiène.
+Deux représentants d'associations de consommateurs ou d'associations de protection de la nature et de l'environnement et autant de suppléants ;
 
-Deux représentants des associations de navigation intérieure.
+Deux représentants des associations de navigation intérieure et autant de suppléants ;
 
-Un représentant des associations de tourisme.
+Un représentant des associations de tourisme et un suppléant ;
 
-Un représentant des distributeurs d'eau.
+Un représentant des distributeurs d'eau et un suppléant ;
 
-Un représentant des associations de riverains.
+Un représentant des associations de riverains et un suppléant ;
 
-Un représentant de chacune des catégories suivantes d'usagers :
+Deux représentants de la pêche maritime et de la conchyliculture et autant de suppléants ;
 
-Chambres de commerce et d'industrie.
+Un représentant des transports maritimes et un suppléant.
 
-Riverains industriels.
+Un représentant et un suppléant de chacune des catégories suivantes d'usagers :
 
-Industries agricoles et alimentaires.
+Chambres de commerce et d'industrie ;
 
-Industries chimiques.
+Riverains industriels ;
 
-Industries des papiers, cartons et cellulose.
+Industries agricoles et alimentaires ;
 
-Industries du pétrole.
+Industries chimiques ;
+
+Industries des papiers, cartons et cellulose ;
+
+Industries du pétrole ;
 
 Industries de la production d'électricité.
 
 La représentation des conseils généraux et des conseils municipaux est assurée dans les conditions suivantes :
 
-Trois présidents de conseils généraux.
+Trois présidents de conseils généraux et autant de suppléants ;
 
-Un conseiller général d'un des départements de la région de Paris, membre du conseil d'administration du district.
+Un conseiller général d'un des départements de la région d'Ile-de-France, membre du conseil régional, et un suppléant ;
 
-Trois conseillers généraux.
+Trois conseillers généraux et autant de suppléants ;
 
-Un conseiller municipal de Paris.
+Un conseiller municipal de Paris et un suppléant ;
 
-Quatre maires de villes dont le chiffre de la population est de 50000 habitants et plus.
+Quatre maires de villes dont le chiffre de la population est de 50000 habitants et plus et autant de suppléants ;
 
-Quatre maires de villes dont le chiffre de la population est compris entre 2000 et 50000 habitants, dont un président de syndicat des eaux.
+Quatre maires de villes dont le chiffre de la population est compris entre 2000 et 50000 habitants, dont un président de syndicat des eaux, et autant de suppléants ;
 
-Quatre maires de villes dont le chiffre de la population est inférieur à 2000 habitants, dont un président de syndicat des eaux.
+Quatre maires de villes dont le chiffre de la population est inférieur à 2000 habitants, dont un président de syndicat des eaux, et autant de suppléants.
 
 Un arrêté du ministre de l'intérieur fixe les modalités de désignation des représentants de chacune des catégories déterminées ci-dessus.
 
 La représentation de l'Etat est assurée dans les conditions suivantes :
 
-Deux fonctionnaires désignés par chacun des ministres de l'intérieur, des travaux publics et des transports, de l'industrie, de l'agriculture et de la santé publique.
+Quatre fonctionnaires désignés par le ministre chargé de l'équipement, dont un au titre des transports et autant de suppléants ;
 
-Un fonctionnaire désigné par chacun des ministres des finances et des affaires économiques et de la construction.
+Trois fonctionnaires désignés par le ministre d'Etat, ministre de l'intérieur, dont un au titre de la direction de la sécurité civile, et autant de suppléants ;
 
-Un représentant désigné par le commissaire général au plan d'équipement et de la productivité.
+Deux fonctionnaires désignés par chacun des ministres chargés de l'industrie et de la recherche, de l'agriculture, de la santé et autant de suppléants ;
 
-Un représentant désigné par le délégué à l'aménagement du territoire et à l'action régionale.
+Un fonctionnaire désigné par le ministre délégué auprès du Premier ministre chargé de l'économie et des finances et un suppléant ;
 
-Un représentant désigné par le délégué général au district de la région de Paris.
+Un fonctionnaire désigné par le ministre de la qualité de la vie au titre du tourisme et un suppléant ;
 
-Cinq personnalités spécialisées dans les problèmes de l'eau [*nombre*].
+Un représentant désigné par le commissaire général au Plan d'équipement et de la productivité et un suppléant ;
+
+Un représentant désigné par le délégué à l'aménagement du territoire et à l'action régionale et un suppléant ;
+
+Un représentant désigné par le préfet de la région Ile-de-France et un suppléant [*nombre*].
