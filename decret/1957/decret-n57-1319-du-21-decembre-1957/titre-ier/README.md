@@ -1,6 +1,5 @@
 # TITRE Ier : Du corps des préposés.
 
-- [Article 2](article-2.md)
 - [Article 4](article-4.md)
 - [Article 4 bis](article-4-bis.md)
 - [Article 4 ter](article-4-ter.md)
