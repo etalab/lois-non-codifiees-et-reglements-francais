@@ -44,7 +44,6 @@
 - [Arrêté du 2 juin 1993 (ECOS9350016A)](arrete-du-2-juin-1993-ecos9350016a)
 - [Arrêté du 2 juin 1993 (ECOT9216180A)](arrete-du-2-juin-1993-ecot9216180a)
 - [Arrêté du 2 juin 1993 (TEFE9300693A)](arrete-du-2-juin-1993-tefe9300693a)
-- [Arrêté du 2 mars 1993 (ENVN9320124A)](arrete-du-2-mars-1993-envn9320124a)
 - [Arrêté du 2 mars 1993 (MENK9300028A)](arrete-du-2-mars-1993-menk9300028a)
 - [Arrêté du 2 mars 1993 (MENN9304567A)](arrete-du-2-mars-1993-menn9304567a)
 - [Arrêté du 2 novembre 1993 (BUDR9307011A)](arrete-du-2-novembre-1993-budr9307011a)
