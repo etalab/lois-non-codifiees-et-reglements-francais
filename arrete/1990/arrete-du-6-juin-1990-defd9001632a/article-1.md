@@ -1,3 +1,0 @@
-# Article 1
-
-Les prérogatives attribuées au préfet par les articles 8 (deuxième alinéa), 9 et 10 du décret du 3 janvier 1989, relatives au choix des lieux de prélèvement d'échantillons d'eau pour contrôle de qualité, aux modifications du programme d'analyse de ces échantillons d'eau et aux analyses complémentaires nécessaires dans les cas définis à l'article 10 du décret susvisé, sont exercées, pour les services et les organismes dépendant de l'autorité ou placés sous la tutelle du ministre de la défense, par l'autorité militaire territorialement compétente (officier général, commandant de région militaire, commandant de région aérienne ou préfet maritime).

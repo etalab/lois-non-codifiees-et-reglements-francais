@@ -167,7 +167,6 @@
 - [Arrêté du 6 juillet 1990 (BUDR9005036A)](arrete-du-6-juillet-1990-budr9005036a)
 - [Arrêté du 6 juillet 1990 (LOGC9000066A)](arrete-du-6-juillet-1990-logc9000066a)
 - [Arrêté du 6 juillet 1990 (SPSS9001423A)](arrete-du-6-juillet-1990-spss9001423a)
-- [Arrêté du 6 juin 1990 (DEFD9001632A)](arrete-du-6-juin-1990-defd9001632a)
 - [Arrêté du 6 mars 1990 (ECOC9000013A)](arrete-du-6-mars-1990-ecoc9000013a)
 - [Arrêté du 6 mars 1990 (SPSS9000511A)](arrete-du-6-mars-1990-spss9000511a)
 - [Arrêté du 6 mars 1990 (SPSS9000512A)](arrete-du-6-mars-1990-spss9000512a)
