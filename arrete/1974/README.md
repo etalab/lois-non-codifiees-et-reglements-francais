@@ -14,6 +14,7 @@
 - [Arrêté du 13 février 1974](arrete-du-13-fevrier-1974)
 - [Arrêté du 14 mai 1974](arrete-du-14-mai-1974)
 - [Arrêté du 15 janvier 1974](arrete-du-15-janvier-1974)
+- [Arrêté du 16 mai 1974](arrete-du-16-mai-1974)
 - [Arrêté du 17 mai 1974](arrete-du-17-mai-1974)
 - [Arrêté du 18 janvier 1974](arrete-du-18-janvier-1974)
 - [Arrêté du 20 décembre 1973](arrete-du-20-decembre-1973)
