@@ -115,6 +115,7 @@
 - [Décret n°83-656 du 18 juillet 1983](decret-n83-656-du-18-juillet-1983)
 - [Décret n°83-394 du 18 mai 1983](decret-n83-394-du-18-mai-1983)
 - [Décret n°83-29 du 19 janvier 1983](decret-n83-29-du-19-janvier-1983)
+- [Décret n°83-671 du 19 juillet 1983](decret-n83-671-du-19-juillet-1983)
 - [Décret n°84-196 du 19 mars 1984](decret-n84-196-du-19-mars-1984)
 - [Décret n°84-197 du 19 mars 1984](decret-n84-197-du-19-mars-1984)
 - [Décret n°83-398 du 19 mai 1983](decret-n83-398-du-19-mai-1983)
