@@ -1,0 +1,3 @@
+# Article 1
+
+Les titulaires du certificat de fin de cycle préparatoire aux concours internes d'entrée à l'école nationale d'administration, institué par le décret susvisé du 21 septembre 1971, remplissent la condition de diplôme exigée par une disposition réglementaire pour se présenter à tous les concours d'accès aux corps de catégorie A ainsi qu'aux concours d'entrée aux écoles assurant le recrutement et la formation des fonctionnaires de catégorie A, dès lors que ces concours sont ouverts à des candidats titulaires de l'un des titres ou diplômes exigés pour se présenter aux concours externes d'entrée à l'école nationale d'administration en application de l'article 4 du décret susvisé du 21 septembre 1971.
