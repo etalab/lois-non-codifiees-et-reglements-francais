@@ -2,7 +2,7 @@
 
 I. - Les dispositions de l'article 1741 du code général des impôts sont applicables à quiconque se sera soustrait ou aura tenté de se soustraire frauduleusement à l'établissement ou au paiement total ou partiel de la taxe prévue au II de l'article 124 de la loi n° 90-1168 du 29 décembre 1990 précitée.
 
-Sont habilités à effectuer tout contrôle tendant à l'acquittement de la taxe les personnels de Voies navigables de France ayant un grade équivalent à celui de directeur de bureau d'affrètement ou de rédacteur de l'établissement public créé par l'article 67 de la loi du 27 février 1912 portant fixation du budget général des dépenses et des recettes de l'exercice 1912.
+Sont habilités à effectuer tout contrôle tendant à l'acquittement de la taxe les personnels de Voies navigables de France ayant un grade au moins équivalent à celui d'agent des catégories C 6 et C 6 bis de l'établissement public créé par l'article 67 de la loi du 27 février 1912 portant fixation du budget général des dépenses et des recettes de l'exercice 1912 sur le domaine confié à l'établissement public.
 
 Ces agents sont commissionnés, dans la limite de leur circonscription, par le ministre chargé des voies navigables et assermentés dans les conditions prévues par décret en Conseil d'Etat.
 

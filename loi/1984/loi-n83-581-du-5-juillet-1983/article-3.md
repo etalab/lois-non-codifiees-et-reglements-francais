@@ -4,34 +4,32 @@ La délivrance, le renouvellement et la validation des titres de sécurité et d
 
 Au cas où le navire ne pourrait prendre la mer sans danger pour lui-même, l'équipage, les personnes embarquées ou le milieu marin et ses intérêts connexes, tels que définis par la convention de Bruxelles du 29 novembre 1969, son départ peut être interdit ou ajourné après visite.
 
-" Peuvent également faire l'objet de cette interdiction de départ les navires mus à titre principal par un moteur sans cependant être assujettis à l'obtention des titres de sécurité mentionnés au premier alinéa du présent article lorsqu'ils ne sont pas en conformité avec les règles de sécurité qui leur sont applicables ou que l'équipage ne possède pas la qualification requise pour les conduire. "
+Peuvent également faire l'objet de cette interdiction de départ les navires mus à titre principal par un moteur sans cependant être assujettis à l'obtention des titres de sécurité mentionnés au premier alinéa du présent article lorsqu'ils ne sont pas en conformité avec les règles de sécurité qui leur sont applicables ou que l'équipage ne possède pas la qualification requise pour les conduire.
 
-Indépendamment des pouvoirs que les officiers et agents de police judiciaire exercent conformément aux dispositions du code de procédure pénale, ont libre accès au bord de tout navire, pour procéder à ces visites ou y participer :
+Ont libre accès à bord de tout navire, pour procéder à ces visites ou y participer :
 
-1° Les administrateurs des affaires maritimes ;
+- les administrateurs des affaires maritimes ;
 
-2° Les inspecteurs de la navigation et du travail maritimes ;
+- les inspecteurs des affaires maritimes ;
 
-3° Les inspecteurs mécaniciens de la marine marchande ;
+- les officiers du corps technique et administratif des affaires maritimes ;
 
-4° Les officiers du corps technique et administratif des affaires maritimes ;
+- les techniciens experts du service de sécurité de la navigation maritime ;
 
-5° Les techniciens experts du service de la sécurité de la navigation maritime ;
+- les médecins des gens de mer ;
 
-6° Les médecins de gens de mer ;
+- les contrôleurs des affaires maritimes ;
 
-7° Les fonctionnaires de l'administration des postes et télécommunications chargés du contrôle des installations radio-électriques ;
+- les syndics des gens de mer ;
 
-8° Les inspecteurs relevant de la direction générale de l'aviation civile ;
+- les personnels embarqués d'assistance et de surveillance des affaires maritimes ;
 
-9° Les contrôleurs des affaires maritimes (branche technique) ;
+- les gendarmes maritimes ;
 
-10° Les syndics des gens de mer ;
+- les inspecteurs relevant de la direction générale de l'aviation civile ;
 
-11° Les personnels embarqués d'assistance et de surveillance des affaires maritimes ;
+- les représentants de l'exploitant du réseau de radiocommunications maritimes ;
 
-12° Les gendarmes maritimes ;
+- les membres des commissions de visite ;
 
-13° Les membres des commissions de visite ;
-
-14° Le personnel des sociétés de classification agréées.
+- le personnel des sociétés de classification agréées.
