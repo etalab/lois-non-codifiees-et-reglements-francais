@@ -1,3 +1,0 @@
-# Article 20
-
-Toute personne qui forme recours à la commission nationale contre sa radiation de la liste ou contre le rejet de sa demande d'inscription [*décision de la commission régionale*], ou toute personne contre l'inscription de laquelle recours est formé à la commission nationale, dispose d'un délai de quinze jours pour prendre connaissance au greffe de la cour d'appel du recours formé contre elle, des observations complémentaires éventuellement formulées en vertu de l'article précédent ainsi que des pièces du dossier au vu duquel a été prise la décision attaquée et pour adresser au secrétariat de la commission nationale ses observations [*information*].

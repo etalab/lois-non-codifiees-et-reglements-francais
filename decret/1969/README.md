@@ -20,7 +20,6 @@
 - [Décret n°69-1109 du 11 décembre 1969](decret-n69-1109-du-11-decembre-1969)
 - [Décret n°69-571 du 12 juin 1969](decret-n69-571-du-12-juin-1969)
 - [Décret n°69-576 du 12 juin 1969](decret-n69-576-du-12-juin-1969)
-- [Décret n°69-810 du 12 août 1969](decret-n69-810-du-12-aout-1969)
 - [Décret n°69-607 du 13 juin 1969](decret-n69-607-du-13-juin-1969)
 - [Décret n°69-609 du 13 juin 1969](decret-n69-609-du-13-juin-1969)
 - [Décret n°69-603 du 14 juin 1969](decret-n69-603-du-14-juin-1969)

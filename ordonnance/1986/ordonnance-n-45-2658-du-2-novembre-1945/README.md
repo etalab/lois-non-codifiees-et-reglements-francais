@@ -6,6 +6,5 @@
 - [Chapitre 5 : De l'expulsion.](chapitre-5)
 - [Chapitre 5 bis : Dispositions communes à la reconduite à la frontière et à l'expulsion.](chapitre-5-bis)
 - [Chapitre 6 : Du regroupement familial.](chapitre-6)
-- [Chapitre 7 : Des demandeurs d'asile.](chapitre-7)
 - [Chapitre 8 : Dispositions diverses.](chapitre-8)
 - [Chapitre 9 : Dispositions transitoires.](chapitre-9)
