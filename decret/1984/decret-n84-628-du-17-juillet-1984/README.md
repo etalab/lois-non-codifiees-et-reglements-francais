@@ -2,5 +2,6 @@
 
 - [Article 1](article-1.md)
 - [CHAPITRE II : Composition et fonctionnement du Conseil national de l'information statistique](chapitre-ii)
+- [CHAPITRE III : Préparation, exécution et utilisation des enquêtes statistiques](chapitre-iii)
 - [CHAPITRE IV : Dispositions diverses.](chapitre-iv)
 - [Article Execution](article-execution.md)
