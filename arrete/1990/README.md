@@ -558,7 +558,6 @@
 - [Arrêté du 21 mai 1990 (SPSS9001078A)](arrete-du-21-mai-1990-spss9001078a)
 - [Arrêté du 21 mai 1990 (SPSS9001079A)](arrete-du-21-mai-1990-spss9001079a)
 - [Arrêté du 21 mai 1990 (TEFT9003479A)](arrete-du-21-mai-1990-teft9003479a)
-- [Arrêté du 22 août 1989 (EQUS8900380A)](arrete-du-22-aout-1989-equs8900380a)
 - [Arrêté du 22 août 1990 (AGRS9001819A)](arrete-du-22-aout-1990-agrs9001819a)
 - [Arrêté du 22 août 1990 (MENF9002175A)](arrete-du-22-aout-1990-menf9002175a)
 - [Arrêté du 22 août 1990 (SPSM9001750A)](arrete-du-22-aout-1990-spsm9001750a)
