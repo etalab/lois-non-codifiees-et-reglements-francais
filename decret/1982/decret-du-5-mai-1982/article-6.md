@@ -1,11 +1,5 @@
 # Article 6
 
-Ne peuvent prétendre à l'appellation contrôlée "Faugères", que les vins répondant aux conditions du décret n° 74-872 du 19 octobre 1974.
+Pour les vins rouges et rosés, le rendement de base visé à l'article R. 641-73 du code rural est fixé à 50 hectolitres à l'hectare.
 
-Le rendement de base visé à l'article 1er de ce décret est fixé à 50 hl à l'hectare.
-
-Le pourcentage prévu à son article 3 est fixé à 20 p. 100.
-
-Le pourcentage prévu à son article 6 est fixé à 100 p. 100.
-
-Le bénéfice de l'appellation contrôlée "Faugères" ne peut être accordé aux vins provenant des jeunes vignes qu'à partir de la troisième année civile suivant celle au cours de laquelle la plantation a été réalisée en place avant le 31 août.
+Pour les vins blancs, le rendement de base visé à l'article R. 641-73 du code rural est fixé à 45 hectolitres à l'hectare. Le rendement butoir visé à l'article R. 641-76 du code rural est fixé à 54 hectolitres à l'hectare. Le rendement agronomique maximum à la parcelle visé à l'article R. 641-82 du code rural est fixé à 7500 kilogrammes par hectare.

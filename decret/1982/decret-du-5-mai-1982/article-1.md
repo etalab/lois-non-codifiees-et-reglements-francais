@@ -1,3 +1,3 @@
 # Article 1
 
-Seuls ont droit à l'appellation contrôlée Faugères" les vins rouges et rosés répondant aux conditions fixées ci-après.
+Seuls peuvent bénéficier de l'appellation d'origine contrôlée "Faugères" les vins rouges, rosés et blancs répondant aux conditions fixées par le présent décret.

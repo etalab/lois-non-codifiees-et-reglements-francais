@@ -217,3 +217,27 @@ Les matériels d'immobilisation compte tenu de leurs dimensions peuvent égaleme
 3. Le nécessaire de secourisme d'urgence est maintenu en état d'usage et de propreté sous la responsabilité du titulaire de l'agrément, qui assure le remplacement des produits et des matériels périmés, hors d'usage, ou dont la stérilité n'est plus garantie.
 
 4. Dans les véhicules des services mobiles d'urgence et de réanimation, dont sont dotés en propre les établissements hospitaliers, le nécessaire de secourisme d'urgence défini ci-dessus est remplacé par les produits et matériels adaptés aux interventions médicalisées de ces services, et déterminés par le médecin chef de service.
+
+5. Le transport de nouveau-nés et nourrissons nécessite les matériels ci-dessous :
+
+a) Nacelle et filet de protection, couffin et siège auto homologué, avec mode de fixation de sécurité conforme à la législation. La fixation est double et concerne tant l'enfant dans la nacelle que la nacelle au brancard ;
+
+b) Thermomètre normal et hypothermique (à gallium) ;
+
+c) Bonnet en jersey pour nouveau-né, couverture isolante en aluminium (taille nouveau-né et pédiatrique), sac en polyéthylène ;
+
+d) Aspirateur électrique autonome avec batteries et réglage de la dépression ;
+
+e) Sondes pédiatriques d'aspiration de différents calibres ;
+
+f) Lunettes à oxygène pour nouveau-né et nourrisson ;
+
+g) Bouteilles d'oxygène avec manodétendeur ;
+
+h) Insufflateur manuel pour nouveau-né et nourrisson (BAVU) avec masque de différentes tailles ;
+
+i) Attelles pédiatriques pour membres inférieurs et supérieurs ;
+
+j) Matelas à dépression pédiatrique ;
+
+k) Moyens de télécommunication permettant d'entrer en contact avec le SAMU.
