@@ -1,8 +1,8 @@
 # Article 3
 
-566 561 actions sont réservées à la souscription des salariés, des mandataires exclusifs et des anciens salariés de la Société générale alsacienne de banque et de ses filiales visés à l'article 11 de la loi n° 86-912 du 6 août 1986.
+300 000 actions sont réservées à la souscription des salariés, des mandataires exclusifs et des anciens salariés de la Banque du bâtiment et des travaux publics et de ses filiales visés à l'article 11 de la loi n° 86-912 du 6 août 1986.
 
-Les actions ainsi réservées seront cédées avec un rabais sur le prix d'offre publique de vente de 5 p. 100 (soit au prix de 118,75 F par action) ou de 20 p. 100 (soit au prix de 100 F par action). Les actions acquises avec un rabais de 20 p. 100 ne peuvent être cédées pendant deux ans.
+Les actions ainsi réservées seront cédées avec un rabais sur le prix d'offre publique de vente de 5 p. 100 (soit au prix de 123,50 F par action) ou de 20 p. 100 (soit au prix de 104 F par action). Les actions acquises avec un rabais de 20 p. 100 ne peuvent être cédées pendant deux ans.
 
 Lorsque le rabais est de 5 p. 100, le paiement s'effectuera au comptant. Lorsque le rabais est de 20 p. 100, le paiement s'effectuera par versement d'un acompte de 30 p. 100 du prix lors de l'acquisition et, pour le solde, par le versement d'une annuité de 30 p. 100 à échéance d'un an et d'une annuité de 40 p. 100 à échéance de deux ans.
 

@@ -10,6 +10,7 @@
 - [Décret n°87-57 du 2 février 1987 (DEFP8701002D)](decret-n87-57-du-2-fevrier-1987-defp8701002d)
 - [Décret n°87-59 du 2 février 1987 (ENVP8700002D)](decret-n87-59-du-2-fevrier-1987-envp8700002d)
 - [Décret n°87-141 du 3 mars 1987](decret-n87-141-du-3-mars-1987)
+- [Décret n°87-234 du 3 avril 1987 (ASET8703255D)](decret-n87-234-du-3-avril-1987-aset8703255d)
 - [Décret n°87-60 du 3 février 1987 (PTTT8700082D)](decret-n87-60-du-3-fevrier-1987-pttt8700082d)
 - [Décret n°87-140 du 4 mars 1987 (ECOZ8700013D)](decret-n87-140-du-4-mars-1987-ecoz8700013d)
 - [Décret n°87-64 du 4 février 1987](decret-n87-64-du-4-fevrier-1987)
