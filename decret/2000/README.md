@@ -48,7 +48,6 @@
 - [Décret n°2000-383 du 26 avril 2000 (DEFP0001226D)](decret-n2000-383-du-26-avril-2000-defp0001226d)
 - [Décret n°2000-572 du 26 juin 2000 (EQUP0000216D)](decret-n2000-572-du-26-juin-2000-equp0000216d)
 - [Décret n°2000-1165 du 27 novembre 2000 (AGRP0000344D)](decret-n2000-1165-du-27-novembre-2000-agrp0000344d)
-- [Décret n°98-760 du 27 août 1998 (DEFA9751056D)](decret-n98-760-du-27-aout-1998-defa9751056d)
 - [Décret du 28 juillet 2000 (AGRP0001039D)](decret-du-28-juillet-2000-agrp0001039d)
 - [Décret n°2000-162 du 28 février 2000 (INTB0000044D)](decret-n2000-162-du-28-fevrier-2000-intb0000044d)
 - [Décret n°2000-376 du 28 avril 2000 (INTD0000109D)](decret-n2000-376-du-28-avril-2000-intd0000109d)
