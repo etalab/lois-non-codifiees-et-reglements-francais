@@ -11,6 +11,7 @@
 - [Titre X : Dispositions applicables aux praticiens hospitaliers exerçant dans les départements d'Outre-Mer.](titre-x)
 - [Titre XI : Garanties disciplinaires.](titre-xi)
 - [Titre XII : L'insuffisance professionnelle.](titre-xii)
+- [Titre XII bis : Cessation progressive d'exercice.](titre-xii-bis)
 - [Titre XIII : Cessation de fonctions.](titre-xiii)
 - [Titre XIV : Dispositions transitoires.](titre-xiv)
 - [Article 100](article-100.md)

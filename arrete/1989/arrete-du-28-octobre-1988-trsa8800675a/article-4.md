@@ -8,7 +8,15 @@ Le programme détaillé de l'instruction ainsi que les moyens mis en oeuvre pour
 
 A l'issue de cette instruction, le candidat est présenté aux épreuves pratiques en vol par l'instructeur pilote de ligne ayant dispensé, dirigé ou achevé la formation, qui certifie que ce candidat possède les connaissances professionnelles et pratiques du niveau du brevet de pilote de ligne.
 
-Les épreuves pratiques en vol sont définies à l'annexe III au présent arrêté ; elles sont passées sur un avion multiturbine requérant la licence de pilote de ligne pour l'exercice de la fonction commandant de bord en transport public ou sur un avion qui a des performances démontrées au moins équivalentes et a reçu l'agrément du jury d'examen.
+Toutefois, le candidat titulaire d'une licence de pilote professionnel avion assortie de la qualification de vol aux instruments en état de validité justifiant, à titre civil ou militaire, d'une expérience minimale de 500 heures de vol dans le transport aérien public ou dans des conditions d'exploitation conformes à celles du transport aérien public, sur avion relevant du champ d'application du JAR 25 ou sur avion multiturbine de masse maximale au décollage certifiée de plus de 5 670 kg ou de capacité d'emport de 10 passagers et plus exploité avec un équipage minimal de deux pilotes et ayant obtenu une qualification de type sur avion relevant du champ d'application du JAR 25 dans l'une des trois conditions suivantes :
+
+- soit conformément au programme et aux modalités définis dans le titre 2 de l'annexe XIV de l'arrêté du 5 novembre 1987 modifié relatif aux conditions d'utilisation des avions exploités par une entreprise de transport aérien ;
+
+- soit à l'issue d'une formation approuvée dispensée par un organisme de formation à la qualification de type approuvé ou par un exploitant ou un constructeur remplissant les mêmes conditions d'approbation, conformément au 3 du d du paragraphe 6.3.3.2 de l'arrêté du 5 novembre 1987 précité ;
+
+- soit après avoir reçu la formation pratique complémentaire et satisfait à l'épreuve pratique du certificat de transport aérien telles que définies par l'arrêté du 5 novembre 1987 précité avant la date du 20 juin 1994, est dispensé de l'exigence d'instruction dont le programme figure en annexe I du présent arrêté, sur présentation par un instructeur de pilote de ligne qui certifie que ce candidat possède les connaissances professionnelles et pratiques du niveau du brevet de pilote de ligne.
+
+Les épreuves pratiques sont définies en annexe III du présent arrêté. Elles sont passées aprés accord du jury des examens, pour la partie A, sur un simulateur de niveau de qualification approprié, et, pour la partie B, sur un avion relevant du champ d'application du JAR 25. Lorsqu'un simulateur de niveau de qualification approprié n'est pas disponible, les épreuves pratiques peuvent être adaptées pour permettre leur passage sur avion.
 
 Les épreuves pratiques en vol sont exécutées en présence d'un examinateur choisi par le jury d'examen parmi ses membres et d'un instructeur ou instructeur adjoint, de préférence et sauf empêchement, l'instructeur qui a présenté le candidat à ces épreuves.
 
