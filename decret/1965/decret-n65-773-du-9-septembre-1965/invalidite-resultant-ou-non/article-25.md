@@ -1,6 +1,6 @@
 # Article 25
 
-La réalité des infirmités invoquées, la preuve de leur imputabilité au service, les conséquences ainsi que le taux d'invalidité qu'elles entraînent, l'incapacité permanente à l'exercice des fonctions sont appréciées par une commission de réforme constituée dans le cadre du département et dont la composition et le fonctionnement sont fixés par arrêté concerté des ministres de l'intérieur, des finances et des affaires économiques, du travail et de la santé publique et de la population.
+Une commission de réforme est constituée dans chaque département pour apprécier la réalité des infirmités invoquées, la preuve de leur imputabilité au service, les conséquences et le taux d'invalidité qu'elles entraînent, l'incapacité permanente à l'exercice des fonctions. Chaque commission est compétente pour les fonctionnaires exerçant leurs fonctions dans son département. La composition et le fonctionnement des commissions de réforme sont fixés par arrêté conjoint du ministre chargé de la fonction publique territoriale, du ministre chargé du budget, du ministre chargé de la sécurité sociale et du ministre chargé de la santé, pris après avis du conseil supérieur compétent.
 
 Le pouvoir de décision appartient dans tous les cas à l'autorité qui a qualité pour procéder à la nomination, sous réserve de l'avis conforme de la caisse nationale de retraites [*conditions de forme*].
 
