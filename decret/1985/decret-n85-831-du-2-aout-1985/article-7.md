@@ -6,8 +6,4 @@ Toutefois, les délibérations portant sur le budget et ses modifications et le 
 
 Les délibérations portant sur les matières énumérées au 8o de l'article 5 sont exécutoires sauf opposition du ministre chargé de la recherche, du ministre chargé de l'industrie, du ministre chargé de l'économie ou du ministre chargé du budget dans un délai d'un mois à compter de leur réception par chacun de ces ministres.
 
-Parmi les décisions modificatives du budget, sont seules soumises au conseil d'administration et aux autorités de tutelle celles qui comportent soit une augmentation du montant global des dépenses inscrites au budget de l'établissement, soit des virements entre sections ou entre parties de section, soit des virements entre, d'une part, des crédits affectés aux gros équipements ou aux opérations immobilières, et, d'autre part, des crédits affectés à des actions ou programmes financés par l'établissement.
-
-Toutes les autres décisions modificatives du budget sont prises par le président, en accord avec le contrôleur financier, et portées à la connaissance du conseil d'administration lors de sa plus prochaine séance.
-
-La procédure prévue à l'alinéa précédent s'applique aux virements de crédits provenant de la réserve générale, lorsque le montant des crédits ainsi virés n'excède pas, au cours d'un exercice budgétaire, 10 p. 100 de la dotation initiale de la partie de la deuxième ou de la troisième section bénéficiant du virement.
+Sont seules soumises au conseil d'administration ainsi qu'à l'approbation des autorités de tutelle et du ministre chargé du budget les modifications du budget qui comportent soit une augmentation du montant global des dépenses inscrites au budget de l'établissement, soit une augmentation des dépenses ou agrégats de dépenses dont le caractère limitatif est prévu par un décret fixant le régime budgétaire, financier et comptable des établissements publics à caractère scientifique et technologique.

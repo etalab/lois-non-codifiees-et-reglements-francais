@@ -4,7 +4,7 @@ Le conseil d'administration délibère sur :
 
 1° Les mesures générales relatives à l'organisation de l'institut ;
 
-2° Le budget et ses modifications, le compte financier ;
+2° Le budget et, sous réserve des dispositions du quatrième alinéa de l'article 7,  ses modifications ; le compte financier ;
 
 3° Le rapport annuel d'activité de l'institut présenté par le président ;
 
