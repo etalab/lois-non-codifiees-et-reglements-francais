@@ -1,6 +1,6 @@
 # Article 51
 
-Les dispositions des articles 7, 8, 9-1, 9-2, 9-3 et 13 de la présente loi sont applicables au budget du département.
+Les dispositions des articles 7, 8, 8-1, 9-1, 9-2, 9-3 et 13 de la présente loi sont applicables au budget du département.
 
 L'arrêté des comptes départementaux est constitué par le vote du conseil général sur le compte administratif présenté par le président du conseil général après transmission, au plus tard le 1er juillet de l'année suivant l'exercice, du compte de gestion établi par le comptable du département. Le vote du conseil général arrêtant les comptes doit intervenir avant le 1er octobre de l'année suivant l'exercice.
 

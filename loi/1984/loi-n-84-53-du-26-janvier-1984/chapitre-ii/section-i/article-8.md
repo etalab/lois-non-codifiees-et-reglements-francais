@@ -6,7 +6,7 @@ Le Conseil supérieur est composé paritairement de représentants des organisat
 
 Les sièges attribués aux organisations syndicales sont répartis entre elles proportionnellement au nombre de voix qu'elles ont obtenu aux élections organisées pour la désignation des représentants du personnel aux commissions administratives paritaires. Toutefois, les confédérations et fédérations syndicales représentatives au plan national, et qui participent à ces élections, disposent au minimum d'un siège. Les organisations syndicales désignent leurs représentants.
 
-Les représentants des collectivités sont respectivement élus pa des collèges de maires, de représentants de conseil général et de présidents de conseil régional. L'organisation des collèges et le nombre des sièges à pourvoir tiennent compte de l'importance démographique des collectivités concernées et des effectifs de fonctionnaires territoriaux employés par chaque catégorie de collectivités territoriales.
+Les représentants des collectivités sont respectivement élus par des collèges de maires, de présidents de conseil général et de présidents de conseil régional. L'organisation des collèges et le nombre des sièges à pourvoir tiennent compte de l'importance démographique des collectivités concernées et des effectifs de fonctionnaires territoriaux employés par chaque catégorie de collectivités territoriales.
 
 Des suppléants sont désignés ou élus dans les mêmes conditions que les titulaires.
 
@@ -14,4 +14,4 @@ Un représentant du Premier ministre ou du ministre chargé des collectivités t
 
 Le conseil supérieur devra être installé au plus tard dans les six mois qui suivent la publication de la présente loi.
 
-Un décret en Conseil d'Etat détermine les modalités d'application du présent article. Il fixe notamment les règles applicables à la désignation et à l'élection des membres du conseil supérieur et de son président, la durée du mandat des membres du conseil supérieur, ainsi que les dispositions nécessaires pour procéder à la première désignation ou élection des membres du conseil.
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article. Il fixe notamment les règles applicables à la désignation et à l'élection des membres du conseil supérieur et de son président, la durée du mandat des membres du conseil supérieur, ainsi que les dispositions nécessaires pour procéder à la première élection ou ou à la désignation des membres du conseil dans l'attente de la mise en place des commissions administratives paritaires.

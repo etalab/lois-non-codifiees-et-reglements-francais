@@ -18,4 +18,20 @@ Au cas où ces transferts feraient apparaître, au contraire, un excédent de pl
 
 " La dotation de l'exercice 1988 est calculée à partir d'une dotation 1987 déterminée par l'application des dispositions précédentes. Pour le calcul de la variation mentionnée au 1° ci-dessus, relative à 1987, les bases imposées de l'exercice 1986 sont diminuées de 8 p. 100. "
 
+" Les dotations de référence des communes d'une agglomération nouvelle font en outre l'objet d'un ajustement permettant un resserrement des écarts de ressources fiscales globales.
+
+" A cette fin, il est opéré chaque année une comparaison de la valeur par habitant réel des ressources fiscales globales des communes ainsi constituées :
+
+" - le potentiel fiscal de la taxe d'habitation ;
+
+" - le potentiel fiscal des taxes foncières ;
+
+" - le produit de la compensation de l'exonération de taxe foncière des propriétés bâties pondéré selon le taux moyen national de cette taxe ;
+
+" - le produit de la péréquation nationale et départementale de la taxe professionnelle ;
+
+" - la dotation de référence attendue du syndicat d'agglomération nouvelle, calculée selon les règles définies aux alinéas précédents.
+
+" Lorsqu'une commune dispose selon ce calcul d'une ressource fiscale globale par habitant inférieure à un pourcentage fixé par décret, des ressources fiscales globales moyennes de la même agglomération, sa dotation de référence est relevée jusqu'à atteindre ce chiffre. Cet abondement est prélevé de manière proportionnelle sur la dotation des communes dont la ressource fiscale globale est supérieure à un pourcentage, fixé par le même décret, de la ressource moyenne de l'agglomération. "
+
 Lorsqu'il est procédé à une révision de l'inventaire prévu à l'article 19, le représentant de l'Etat dans le département [*commissaire de la République*] procède à une révision de l'ensemble des dotations de référence et des reversements communaux après avis de la commission prévue au présent article qui doit comprendre au moins deux maires.

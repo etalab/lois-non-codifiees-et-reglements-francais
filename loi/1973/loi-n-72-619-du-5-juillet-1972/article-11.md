@@ -2,7 +2,7 @@
 
 Sont applicables au conseil régional et au président du conseil régional :
 
-a) Les articles 19, 20, 29, 30, 31, 32, 36 bis et 54 de la loi du 10 août 1871 relative aux conseils généraux ;
+a) Les articles 19, 20, 29, 30, 31, 32, 36 bis, 54 et le second alinéa de l'article 63 de la loi du 10 août 1871 relative aux conseils généraux ;
 
 b) L'article 38 de la loi du 27 février 1912 portant fixation du budget général des dépenses et des recettes de l'exercice 1912 ;
 

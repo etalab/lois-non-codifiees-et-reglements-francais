@@ -6,9 +6,9 @@ Néanmoins, sous réserve du respect de la liberté du commerce et de l'industri
 
 I. - Lorsque l'intervention du département a pour objet de favoriser le développement économique, il peut accorder des aides directes et indirectes dans les conditions prévues par la loi approuvant le plan.
 
-II. - Lorsque la protection des intérêts économiques et sociaux de la population départementale l'exige, le département peut accorder des aides directes et indirectes à des entreprises en difficulté pour la mise en oeuvre de mesures de redressement prévues par une convention passée avec celles-ci. Le département peut passer des conventions avec d'autres collectivités territoriales concernées et disposant de moyens adaptés à la conduite de ces actions, notamment au plan financier.
+II. - Lorsque la protection des intérêts économiques et sociaux de la population départementale l'exige, le département peut accorder des aides directes et indirectes à des entreprises en difficulté pour la mise en oeuvre de mesures de redressement prévues par une convention passée avec celles-ci. Le département peut passer des conventions avec d'autres départements ou régions concernés et disposant de moyens adaptés à la conduite de ces actions, notamment au plan financier.
 
-Les mesures visées aux alinéas précédents doivent faire l'objet d'un avis préalable du conseil municipal de la commune où est située l'activité économique concernée.
+Les mesures visées aux alinéas précédents doivent faire l'objet d'un avis préalable du conseil municipal de la commune où est située l'entreprise concernée.
 
 Les mêmes règles s'appliquent lorsque l'intervention a pour but d'assurer le maintien des services nécessaires à la satisfaction des besoins de la population en milieu rural et que l'initiative privée est défaillante ou absente.
 

@@ -10,6 +10,6 @@ de secrétaire général, secrétaire général adjoint des communes de plus de 
 
 de directeur général des services techniques ou de directeur des services techniques des communes de plus de 20 000 habitants ;
 
-et, lorsqu'ils sont dotés d'une échelle indiciaire supérieure à celle de secrétaire général des communes de plus de 5 000 habitants, de directeur, directeur adjoint, secrétaire général d'établissements publics dont la liste est fixée par décret.
+" - de directeur, directeur adjoint d'établissements publics dont la liste est fixée par décret ainsi que de directeur général, directeur général adjoint et directeur de délégation du centre national de la fonction publique territoriale. "
 
 Il ne peut être mis fin aux fonctions des agents occupant les emplois mentionnés ci-dessus, sauf s'ils ont été recrutés directement en application de l'article 47, qu'après un délai de six mois suivant soit leur nomination dans l'emploi, soit le renouvellement de l'organe délibérant de la collectivité ou de l'établissement considéré.

@@ -1,5 +1,6 @@
 # Chapitre IV : De la suppression des tutelles administratives et financières.
 
+- [Chapitre V : Dispositions diverses et transitoires.](chapitre-v)
 - [Article 45](article-45.md)
 - [Article 46](article-46.md)
 - [Article 47](article-47.md)
