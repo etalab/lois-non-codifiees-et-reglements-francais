@@ -3,7 +3,6 @@
 - [Chapitre Ier : Généralités.](chapitre-ier)
 - [Chapitre II : Dépistage obligatoire des infections à Salmonella enteritidis et Salmonella typhimurium.](chapitre-ii)
 - [Chapitre III : Mesures à prendre en cas de suspicion ou de confirmation d'infection dans les troupeaux de volailles de reproduction.](chapitre-iii)
-- [Chapitre IV : Mesures à prendre en cas de suspicion ou d'infection dans les troupeaux de volailles de rente.](chapitre-iv)
 - [Chapitre V : Dispositions générales.](chapitre-v)
 - [Article 25](article-25.md)
 - [Annexes](annexes)

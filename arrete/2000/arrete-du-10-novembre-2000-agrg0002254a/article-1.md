@@ -1,3 +1,0 @@
-# Article 1
-
-Il est interdit d'utiliser, de commercialiser et d'exporter, pour l'alimentation des animaux et la fabrication d'aliments pour animaux, des produits d'origine animale, originaires du territoire français, contenant ou préparés à partir de matières à haut risque visées aux lettres a, b, c, d, h, i et j de l'article 3 de la directive 90/667/CEE susvisé, y compris des animaux ou parties d'animaux atteints d'encéphalopathie spongiforme bovine subaiguë transmissible, et des produits visés à l'article 31, point p), de l'arrêté du 17 mars 1992 susvisé, quelle que soit la nature du traitement effectué ou le mélange réalisé.
