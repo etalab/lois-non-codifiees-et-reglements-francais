@@ -1,0 +1,9 @@
+# Article 1
+
+Le groupement foncier agricole est une société civile formée entre personnes physiques. Il est régi par les dispositions de la présente loi et par les chapitres 1er et II du titre IX du livre III du code civil. Le décès, la déconfiture, la faillite personnelle, la liquidation des biens ou le règlement judiciaire de l'un des associés ne met pas fin au groupement.
+
+Par dérogation aux dispositions de l'alinéa précédent, les sociétés d'aménagement foncier et d'établissement rural peuvent être membres, à titre transitoire, d'un groupement foncier agricole. Elles ne peuvent détenir plus de 30 p. 100 du capital du groupement, ni y exercer aucune fonction de gestion, d'administration ou de direction. La durée de la participation au groupement ne peut excéder cinq ans. Ce délai est néanmoins suspendu et il est susceptible d'être prorogé dans les cas et dans les conditions prévus à l'article 17 de la loi n° 60-808 du 5 août 1960 d'orientation agricole.
+
+Lorsqu'une société d'aménagement foncier et d'établissement rural est membre d'un groupement foncier agricole, les autres membres du groupement bénéficient d'une priorité pour l'acquisition éventuelle des parts détenues par la société.
+
+Toute participation d'une société d'aménagement foncier et d'établissement rural au capital d'un groupement foncier agricole est subordonnée à l'introduction dans les statuts du groupement d'une clause par laquelle les membres dudit groupement s'engagent à acquérir les parts détenues par la société, à l'échéance de la durée mentionnée ci-dessus, au cas où le groupement n'aurait pas agréé d'acquéreur présenté par la société. A défaut d'accord entre les membres du groupement pour fixer des bases différentes, ils sont tenus d'acquérir ces parts au prorata du nombre de celles qu'ils détiennent déjà.
