@@ -4,7 +4,7 @@ I. - L'agent non titulaire employé de manière continue et qui justifie d'une a
 
 - à la mère après un congé pour maternité ou un congé d'adoption, ou lors de l'arrivée au foyer d'un enfant n'ayant pas atteint l'âge de la fin de l'obligation scolaire, adopté ou confié en vue de son adoption ;
 
-- au père après la naissance ou un congé d'adoption, ou lors de l'arrivée au foyer d'un enfant n'ayant pas atteint l'âge de la fin de l'obligation scolaire, adopté ou confié en vue de son adoption.
+- au père après la naissance, un congé de paternité ou un congé d'adoption, ou lors de l'arrivée au foyer d'un enfant n'ayant pas atteint l'âge de la fin de l'obligation scolaire, adopté ou confié en vue de son adoption.
 
 Le congé parental est accordé par périodes de six mois renouvelables. Il prend fin au plus tard au troisième anniversaire de l'enfant. En cas d'adoption, il prend fin trois ans au plus à compter de l'arrivée au foyer de l'enfant lorsque celui-ci est âgé de moins de trois ans, et un an au plus à compter de l'arrivée au foyer de l'enfant lorsque celui-ci est âgé de trois ans ou plus et n'a pas atteint l'âge de la fin de l'obligation scolaire.
 

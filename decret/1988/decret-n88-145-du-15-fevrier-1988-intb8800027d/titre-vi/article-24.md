@@ -1,6 +1,6 @@
 # Article 24
 
-Pendant la durée du congé de maternité ou d'adoption et pendant la durée d'une formation incompatible avec un service à temps partiel, l'autorisation d'accomplir un service à temps partiel est suspendue. Le bénéficiaire du congé est, en conséquence, rétabli, pour la durée du congé, dans les droits d'un agent non titulaire exerçant ses fonctions à temps plein.
+Pendant la durée du congé de maternité, de paternité ou d'adoption et pendant la durée d'une formation incompatible avec un service à temps partiel, l'autorisation d'accomplir un service à temps partiel est suspendue. Le bénéficiaire du congé est, en conséquence, rétabli, pour la durée du congé, dans les droits d'un agent non titulaire exerçant ses fonctions à temps plein.
 
 A l'issue de la période de service à temps partiel, le bénéficiaire est admis à occuper à temps plein son emploi ou à défaut un emploi analogue. Dans le cas où il n'existe pas de possibilité d'emploi à temps plein, l'intéressé est, compte tenu des nécessités de fonctionnement du service, maintenu à titre exceptionnel dans des fonctions à temps partiel.
 
