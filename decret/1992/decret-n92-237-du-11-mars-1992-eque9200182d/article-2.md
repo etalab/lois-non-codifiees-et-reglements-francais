@@ -22,15 +22,15 @@ Le directeur général des impôts ;
 
 Le directeur de la prévision ;
 
-Le directeur de l'action sociale ;
+Le directeur général de l'action sociale ;
 
 Le directeur de la sécurité sociale ;
 
-Le directeur de la population et des migrations ;
+Le directeur de la recherche, des études, de l'évaluation et des statistiques ;
 
 Le directeur général des collectivités locales ;
 
-Le directeur de la construction ;
+Le directeur général de l'urbanisme, de l'habitat et de la construction ;
 
 Le directeur des affaires économiques et internationales ;
 
