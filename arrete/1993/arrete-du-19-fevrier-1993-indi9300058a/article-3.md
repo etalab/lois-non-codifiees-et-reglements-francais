@@ -1,0 +1,3 @@
+# Article 3
+
+Il est joint au présent arrêté une annexe II constituée d'un index alphabétique anglais-français et une annexe III formée d'un index alphabétique des termes et impropriétés à éviter.
