@@ -20,4 +20,4 @@ Sans préjudice des dispositions des articles R. 234-11 à R. 234-21 du code du 
 
 Tout employeur agricole qui se propose d'occuper un enfant à des travaux légers pendant les vacances scolaires doit adresser à l'inspecteur du travail, préalablement à l'embauche, une déclaration indiquant les nom, prénoms, âge et domicile de l'enfant, la nature précise des travaux qui lui seront confiés ainsi que les lieux dans lesquels ils seront réalisés et l'horaire de travail.
 
-Les travaux légers des jeunes ne peuvent être exécutés pendant leur treizième année que sous la surveillance du père, de la mère ou du tuteur, salarié dans la même entreprise.
+Les travaux légers des jeunes ne peuvent être exécutés pendant leur quatorzième année que sous la surveillance du père, de la mère ou du tuteur, salarié dans la même entreprise.
