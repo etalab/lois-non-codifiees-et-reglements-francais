@@ -43,7 +43,6 @@
 - [Décret du 6 février 1980](decret-du-6-fevrier-1980)
 - [Décret n°80-334 du 6 mai 1980](decret-n80-334-du-6-mai-1980)
 - [Décret n°74-841 du 7 octobre 1974](decret-n74-841-du-7-octobre-1974)
-- [Décret n°80-654 du 7 août 1980](decret-n80-654-du-7-aout-1980)
 - [Décret n°80-348 du 7 mai 1980](decret-n80-348-du-7-mai-1980)
 - [Décret n°80-986 du 8 décembre 1980](decret-n80-986-du-8-decembre-1980)
 - [Décret n°80-988 du 8 décembre 1980](decret-n80-988-du-8-decembre-1980)

@@ -637,7 +637,6 @@
 - [Arrêté du 18 août 1994 (ECOC9400107A)](arrete-du-18-aout-1994-ecoc9400107a)
 - [Arrêté du 18 août 1994 (ECOC9400108A)](arrete-du-18-aout-1994-ecoc9400108a)
 - [Arrêté du 18 août 1994 (SPSH9402652A)](arrete-du-18-aout-1994-spsh9402652a)
-- [Arrêté du 18 avril 1994 (BUDP9400051A)](arrete-du-18-avril-1994-budp9400051a)
 - [Arrêté du 18 avril 1994 (DEFT9401427A)](arrete-du-18-avril-1994-deft9401427a)
 - [Arrêté du 18 avril 1994 (ECOC9400029A)](arrete-du-18-avril-1994-ecoc9400029a)
 - [Arrêté du 18 avril 1994 (EQUS9400801A)](arrete-du-18-avril-1994-equs9400801a)
