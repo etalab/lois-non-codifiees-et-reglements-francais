@@ -1,5 +1,7 @@
 # Titre II : Des requêtes et inscriptions des radiations.
 
+- [Chapitre Ier : Dispositions relatives aux servitudes constituées avant le 1er janvier 1990.](chapitre-ier)
+- [Chapitre II : Dispositions relatives à l'inscription d'un droit acquis par prescription ou par accession](chapitre-ii)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
