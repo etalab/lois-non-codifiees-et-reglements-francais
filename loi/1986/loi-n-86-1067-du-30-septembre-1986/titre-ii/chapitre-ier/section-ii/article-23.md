@@ -1,3 +1,3 @@
 # Article 23
 
-La procédure selon laquelle le Conseil supérieur de l'audiovisuel attribue, dans les limites nécessaires à l'accomplissement de missions de service public, l'usage des bandes de fréquences ou des fréquences pour les activités autres que les services de communication audiovisuelle diffusés est fixée par décret en Conseil d'Etat.
+Lorsqu'un service de télécommunications utilise des bandes de fréquences ou des fréquences dont l'attribution ou l'assignation a été confiée au Conseil supérieur de l'audiovisuel en application de l'article 21, l'autorisation de fournir le service est délivrée par le ministre chargé des télécommunications après que le demandeur a obtenu un accord du Conseil supérieur de l'audiovisuel sur l'usage de ces bandes de fréquences ou de ces fréquences.
