@@ -7,3 +7,5 @@ Ils doivent justifier qu'ils rempliront, pour le concours auquel prépare le cyc
 La participation au cycle de préparation n'est pas considérée comme une activité professionnelle au sens de l'article 1er de la loi du 2 janvier 1990 susvisée.
 
 Les candidats adressent au directeur de l'Ecole nationale d'administration un dossier dont la composition est fixée par arrêté du ministre chargé de la fonction publique.
+
+La liste des candidats admis à prendre part à l'épreuve d'accès au cycle de préparation est fixée par arrêté du ministre chargé de la fonction publique.

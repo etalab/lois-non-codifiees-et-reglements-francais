@@ -2,13 +2,17 @@
 
 L'épreuve de sélection comporte :
 
-a) Une composition en quatre heures sur un sujet d'actualité politique, économique, sociale ou internationale ;
+Admissibilité
 
-b) Un entretien d'une durée de vingt minutes avec les membres du jury ayant pour point de départ un dossier composé par le candidat sur ses activités professionnelles.
+Une composition en quatre heures sur un sujet d'actualité politique, économique, sociale ou internationale.
 
-La composition est anonyme. Elle est évaluée par deux correcteurs dont au moins un membre du jury.
+Admission
 
-Au vu de l'appréciation qu'il porte sur chacun des candidats au terme de cette épreuve, le jury établit, par ordre alphabétique, dans la limite des places offertes, la liste des candidats admis au cycle de préparation.
+Un entretien d'une durée de vingt minutes avec les membres du jury ayant pour point de départ un dossier composé par le candidat sur ses activités professionnelles.
+
+La composition est anonyme. Elle est notée par deux correcteurs dont au moins un membre du jury.
+
+A l'issue de la sélection, le jury établit, par ordre alphabétique, dans la limite des places offertes, la liste des candidats admis au cycle de préparation.
 
 Le jury peut dresser une liste complémentaire par ordre de mérite, comportant les noms des candidats susceptibles d'être admis au cycle de préparation dans le cas où des vacances viendraient à se produire résultant de démissions ou de décès.
 
