@@ -36,6 +36,7 @@
 - [Décret n°88-839 du 20 juillet 1988 (PRTX8800111D)](decret-n88-839-du-20-juillet-1988-prtx8800111d)
 - [Décret n°88-768 du 21 juin 1988 (TRST8800299D)](decret-n88-768-du-21-juin-1988-trst8800299d)
 - [Décret n°88-840 du 21 juillet 1988 (SPOX8800108D)](decret-n88-840-du-21-juillet-1988-spox8800108d)
+- [Décret n°88-846 du 21 juillet 1988 (MAEJ8830046D)](decret-n88-846-du-21-juillet-1988-maej8830046d)
 - [Décret n°88-766 du 22 juin 1988 (ECOF8800007D)](decret-n88-766-du-22-juin-1988-ecof8800007d)
 - [Décret n°88-771 du 22 juin 1988 (JUSC8820430D)](decret-n88-771-du-22-juin-1988-jusc8820430d)
 - [Décret n°88-772 du 22 juin 1988 (ASES8800871D)](decret-n88-772-du-22-juin-1988-ases8800871d)
