@@ -47,6 +47,8 @@
 - [Décret n°90-219 du 9 mars 1990 (MENT8902718D)](decret-n90-219-du-9-mars-1990-ment8902718d)
 - [Décret n°92-25 du 9 janvier 1992 (MENT9102729D)](decret-n92-25-du-9-janvier-1992-ment9102729d)
 - [Décret n°93-999 du 9 août 1993 (ECOC9300089D)](decret-n93-999-du-9-aout-1993-ecoc9300089d)
+- [Décret n°94-134 du 9 février 1994 (EQUP9301860D)](decret-n94-134-du-9-fevrier-1994-equp9301860d)
+- [Décret n°94-135 du 9 février 1994 (BUDB9310078D)](decret-n94-135-du-9-fevrier-1994-budb9310078d)
 - [Décret n°95-692 du 9 mai 1995 (JUSB9510142D)](decret-n95-692-du-9-mai-1995-jusb9510142d)
 - [Décret du 10 janvier 1994 (ECOC9300209D)](decret-du-10-janvier-1994-ecoc9300209d)
 - [Décret du 10 janvier 1994 (ECOC9300210D)](decret-du-10-janvier-1994-ecoc9300210d)

@@ -110,4 +110,4 @@ D. Chefs de clinique des universités - assistants des hôpitaux et assistants h
 
 1er échelon (avant 2 ans de fonctions)
 
-97 721
+92 721

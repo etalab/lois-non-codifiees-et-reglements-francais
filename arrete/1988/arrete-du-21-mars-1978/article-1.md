@@ -6,8 +6,6 @@ Prix témoins des logements-foyers
 
 1-1. Logements des résidents
 
-Jusqu'au 30 juin 1993
-
 <table>
 <tr>
 <td> :-----------------------------:</td>
@@ -31,28 +29,28 @@ Jusqu'au 30 juin 1993
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I et I'   :     277.535    :</td>
+<td> :  I et I'   :     294.490    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     345.285    :</td>
+<td> :  I bis     :     366.375    :</td>
 </tr>
 <tr>
-<td> :  II        :     407.495    :</td>
+<td> :  II        :     432.385    :</td>
 </tr>
 <tr>
-<td> :  III       :     535.935    :</td>
+<td> :  III       :     568.675    :</td>
 </tr>
 <tr>
-<td> :  IV        :     664.690    :</td>
+<td> :  IV        :     705.290    :</td>
 </tr>
 <tr>
-<td> :  V         :     795.190    :</td>
+<td> :  V         :     843.765    :</td>
 </tr>
 <tr>
-<td> :  VI        :     925.710    :</td>
+<td> :  VI        :     982.260    :</td>
 </tr>
 <tr>
-<td> :  VII       :   1 056.330    :</td>
+<td> :  VII       :   1 120.855    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -82,37 +80,37 @@ Jusqu'au 30 juin 1993
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I et I'   :     243.610    :</td>
+<td> :  I et I'   :     253.615    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     303.910    :</td>
+<td> :  I bis     :     316.390    :</td>
 </tr>
 <tr>
-<td> :  II        :     357.505    :</td>
+<td> :  II        :     372.180    :</td>
 </tr>
 <tr>
-<td> :  III       :     469.930    :</td>
+<td> :  III       :     489.225    :</td>
 </tr>
 <tr>
-<td> :  IV        :     582.850    :</td>
+<td> :  IV        :     606.775    :</td>
 </tr>
 <tr>
-<td> :  V         :     697.320    :</td>
+<td> :  V         :     725.950    :</td>
 </tr>
 <tr>
-<td> :  VI        :     811.805    :</td>
+<td> :  VI        :     845.140    :</td>
 </tr>
 <tr>
-<td> :  VII       :     926.405    :</td>
+<td> :  VII       :     964.435    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td>:-----------------------------:</td>
+<td/>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
 </tr>
 <tr>
 <td> :            :    IMMEUBLES   :</td>
@@ -133,34 +131,34 @@ Jusqu'au 30 juin 1993
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I et I'   :     225.850    :</td>
+<td> :  I et I'   :     234.000    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     283.325    :</td>
+<td> :  I bis     :     293.460    :</td>
 </tr>
 <tr>
-<td> :  II        :     331.175    :</td>
+<td> :  II        :     343.135    :</td>
 </tr>
 <tr>
-<td> :  III       :     434.900    :</td>
+<td> :  III       :     450.605    :</td>
 </tr>
 <tr>
-<td> :  IV        :     539.295    :</td>
+<td> :  IV        :     558.770    :</td>
 </tr>
 <tr>
-<td> :  V         :     645.240    :</td>
+<td> :  V         :     668.535    :</td>
 </tr>
 <tr>
-<td> :  VI        :     751.205    :</td>
+<td> :  VI        :     778.335    :</td>
 </tr>
 <tr>
-<td> :  VII       :     857.260    :</td>
+<td> :  VII       :     888.215    :</td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td> :                             :</td>
-</tr>
-<tr>
-<td/>
+<td>:                             :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -184,28 +182,28 @@ Jusqu'au 30 juin 1993
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I et I'   :     293.765    :</td>
+<td> :  I et I'   :     311.710    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     402.405    :</td>
+<td> :  I bis     :     427.515    :</td>
 </tr>
 <tr>
-<td> :  II        :     462.110    :</td>
+<td> :  II        :     490.335    :</td>
 </tr>
 <tr>
-<td> :  III       :     596.340    :</td>
+<td> :  III       :     632.770    :</td>
 </tr>
 <tr>
-<td> :  IV        :     737.105    :</td>
+<td> :  IV        :     782.125    :</td>
 </tr>
 <tr>
-<td> :  V         :     880.160    :</td>
+<td> :  V         :     933.925    :</td>
 </tr>
 <tr>
-<td> :  VI        :   1.022.920    :</td>
+<td> :  VI        :   1.085.400    :</td>
 </tr>
 <tr>
-<td> :  VII       :   1.165.570    :</td>
+<td> :  VII       :   1.236.770    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -235,337 +233,28 @@ Jusqu'au 30 juin 1993
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I et I'   :     255.490    :</td>
+<td> :  I et I'   :     265.980    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     351.240    :</td>
+<td> :  I bis     :     365.660    :</td>
 </tr>
 <tr>
-<td> :  II        :     401.535    :</td>
+<td> :  II        :     418.025    :</td>
 </tr>
 <tr>
-<td> :  III       :     517.630    :</td>
+<td> :  III       :     538.885    :</td>
 </tr>
 <tr>
-<td> :  IV        :     639.920    :</td>
+<td> :  IV        :     666.195    :</td>
 </tr>
 <tr>
-<td> :  V         :     764.100    :</td>
+<td> :  V         :     795.475    :</td>
 </tr>
 <tr>
-<td> :  VI        :     888.200    :</td>
+<td> :  VI        :     924.665    :</td>
 </tr>
 <tr>
-<td> :  VII       :   1.012.360    :</td>
-</tr>
-<tr>
-<td> :                             :</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>:-----------------------------:</td>
-</tr>
-<tr>
-<td> :            :    MAISONS     :</td>
-</tr>
-<tr>
-<td> :    TYPES   : INDIVIDUELLES  :</td>
-</tr>
-<tr>
-<td> :     de     :----------------:</td>
-</tr>
-<tr>
-<td> : logements  :     ZONE III   :</td>
-</tr>
-<tr>
-<td> :            :   (en francs)  :</td>
-</tr>
-<tr>
-<td> :------------:----------------:</td>
-</tr>
-<tr>
-<td> :  I et I'   :     232.465    :</td>
-</tr>
-<tr>
-<td> :  I bis     :     320.390    :</td>
-</tr>
-<tr>
-<td> :  II        :     363.975    :</td>
-</tr>
-<tr>
-<td> :  III       :     468.975    :</td>
-</tr>
-<tr>
-<td> :  IV        :     580.020    :</td>
-</tr>
-<tr>
-<td> :  V         :     692.715    :</td>
-</tr>
-<tr>
-<td> :  VI        :     804.880    :</td>
-</tr>
-<tr>
-<td> :  VII       :     917.820    :</td>
-</tr>
-<tr>
-<td> :                             :</td>
-</tr>
-<tr>
-<td/>
-</tr>
-<tr>
-<td>    A partir du 1er juillet 1993</td>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
-<tr>
-<td> :            :    IMMEUBLES   :</td>
-</tr>
-<tr>
-<td> :    TYPES   :    COLLECTIFS  :</td>
-</tr>
-<tr>
-<td> :     de     :----------------:</td>
-</tr>
-<tr>
-<td> : logements  :     ZONE I     :</td>
-</tr>
-<tr>
-<td> :            :   (en francs)  :</td>
-</tr>
-<tr>
-<td> :------------:----------------:</td>
-</tr>
-<tr>
-<td> :  I et I'   :     285.360    :</td>
-</tr>
-<tr>
-<td> :  I bis     :     355.015    :</td>
-</tr>
-<tr>
-<td> :  II        :     418.980    :</td>
-</tr>
-<tr>
-<td> :  III       :     551.040    :</td>
-</tr>
-<tr>
-<td> :  IV        :     683.420    :</td>
-</tr>
-<tr>
-<td> :  V         :     817.600    :</td>
-</tr>
-<tr>
-<td> :  VI        :     951.800    :</td>
-</tr>
-<tr>
-<td> :  VII       :   1.086.100    :</td>
-</tr>
-<tr>
-<td> :                             :</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>:-----------------------------:</td>
-</tr>
-<tr>
-<td> :            :    IMMEUBLES   :</td>
-</tr>
-<tr>
-<td> :    TYPES   :    COLLECTIFS  :</td>
-</tr>
-<tr>
-<td> :     de     :----------------:</td>
-</tr>
-<tr>
-<td> : logements  :     ZONE II    :</td>
-</tr>
-<tr>
-<td> :            :   (en francs)  :</td>
-</tr>
-<tr>
-<td> :------------:----------------:</td>
-</tr>
-<tr>
-<td> :  I et I'   :     248.155    :</td>
-</tr>
-<tr>
-<td> :  I bis     :     309.580    :</td>
-</tr>
-<tr>
-<td> :  II        :     364.170    :</td>
-</tr>
-<tr>
-<td> :  III       :     478.695    :</td>
-</tr>
-<tr>
-<td> :  IV        :     593.715    :</td>
-</tr>
-<tr>
-<td> :  V         :     710.325    :</td>
-</tr>
-<tr>
-<td> :  VI        :     826.945    :</td>
-</tr>
-<tr>
-<td> :  VII       :     943.675    :</td>
-</tr>
-<tr>
-<td> :                             :</td>
-</tr>
-<tr>
-<td/>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
-<tr>
-<td> :            :    IMMEUBLES   :</td>
-</tr>
-<tr>
-<td> :    TYPES   :    COLLECTIFS  :</td>
-</tr>
-<tr>
-<td> :     de     :----------------:</td>
-</tr>
-<tr>
-<td> : logements  :     ZONE III   :</td>
-</tr>
-<tr>
-<td> :            :   (en francs)  :</td>
-</tr>
-<tr>
-<td> :------------:----------------:</td>
-</tr>
-<tr>
-<td> :  I et I'   :     228.965    :</td>
-</tr>
-<tr>
-<td> :  I bis     :     287.145    :</td>
-</tr>
-<tr>
-<td> :  II        :     335.750    :</td>
-</tr>
-<tr>
-<td> :  III       :     440.905    :</td>
-</tr>
-<tr>
-<td> :  IV        :     546.740    :</td>
-</tr>
-<tr>
-<td> :  V         :     654.145    :</td>
-</tr>
-<tr>
-<td> :  VI        :     761.580    :</td>
-</tr>
-<tr>
-<td> :  VII       :     869.095    :</td>
-</tr>
-<tr>
-<td> :                             :</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>:-----------------------------:</td>
-</tr>
-<tr>
-<td> :            :    MAISONS     :</td>
-</tr>
-<tr>
-<td> :    TYPES   : INDIVIDUELLES  :</td>
-</tr>
-<tr>
-<td> :     de     :----------------:</td>
-</tr>
-<tr>
-<td> : logements  :     ZONE I     :</td>
-</tr>
-<tr>
-<td> :            :   (en francs)  :</td>
-</tr>
-<tr>
-<td> :------------:----------------:</td>
-</tr>
-<tr>
-<td> :  I et I'   :     302.045    :</td>
-</tr>
-<tr>
-<td> :  I bis     :     414.260    :</td>
-</tr>
-<tr>
-<td> :  II        :     475.130    :</td>
-</tr>
-<tr>
-<td> :  III       :     613.150    :</td>
-</tr>
-<tr>
-<td> :  IV        :     757.875    :</td>
-</tr>
-<tr>
-<td> :  V         :     904.965    :</td>
-</tr>
-<tr>
-<td> :  VI        :   1.051.745    :</td>
-</tr>
-<tr>
-<td> :  VII       :   1.198.420    :</td>
-</tr>
-<tr>
-<td> :                             :</td>
-</tr>
-<tr>
-<td/>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
-<tr>
-<td> :            :    MAISONS     :</td>
-</tr>
-<tr>
-<td> :    TYPES   : INDIVIDUELLES  :</td>
-</tr>
-<tr>
-<td> :     de     :----------------:</td>
-</tr>
-<tr>
-<td> : logements  :     ZONE II    :</td>
-</tr>
-<tr>
-<td> :            :   (en francs)  :</td>
-</tr>
-<tr>
-<td> :------------:----------------:</td>
-</tr>
-<tr>
-<td> :  I et I'   :     260.255    :</td>
-</tr>
-<tr>
-<td> :  I bis     :     357.790    :</td>
-</tr>
-<tr>
-<td> :  II        :     409.025    :</td>
-</tr>
-<tr>
-<td> :  III       :     527.285    :</td>
-</tr>
-<tr>
-<td> :  IV        :     651.855    :</td>
-</tr>
-<tr>
-<td> :  V         :     778.350    :</td>
-</tr>
-<tr>
-<td> :  VI        :     904.760    :</td>
-</tr>
-<tr>
-<td> :  VII       :   1.031.235    :</td>
+<td> :  VII       :   1.053.920    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -595,28 +284,28 @@ Jusqu'au 30 juin 1993
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I et I'   :     235.675    :</td>
+<td> :  I et I'   :     240.860    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     324.810    :</td>
+<td> :  I bis     :     331.955    :</td>
 </tr>
 <tr>
-<td> :  II        :     369.000    :</td>
+<td> :  II        :     377.120    :</td>
 </tr>
 <tr>
-<td> :  III       :     475.450    :</td>
+<td> :  III       :     485.910    :</td>
 </tr>
 <tr>
-<td> :  IV        :     588.025    :</td>
+<td> :  IV        :     600.960    :</td>
 </tr>
 <tr>
-<td> :  V         :     702.280    :</td>
+<td> :  V         :     717.730    :</td>
 </tr>
 <tr>
-<td> :  VI        :     815.990    :</td>
+<td> :  VI        :     833.940    :</td>
 </tr>
 <tr>
-<td> :  VII       :     930.495    :</td>
+<td> :  VII       :     950.965    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -625,321 +314,11 @@ Jusqu'au 30 juin 1993
 
 1-2. Foyers soleil
 
-Jusqu'au 30 juin 1993
-
-<table>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
-<tr>
-<td> :            :    IMMEUBLES   :</td>
-</tr>
-<tr>
-<td> :    TYPES   :    COLLECTIFS  :</td>
-</tr>
-<tr>
-<td> :     de     :----------------:</td>
-</tr>
-<tr>
-<td> : logements  :     ZONE I     :</td>
-</tr>
-<tr>
-<td> :            :   (en francs)  :</td>
-</tr>
-<tr>
-<td> :------------:----------------:</td>
-</tr>
-<tr>
-<td> :  I         :      14.345    :</td>
-</tr>
-<tr>
-<td> :  I bis     :      14.345    :</td>
-</tr>
-<tr>
-<td> :  II        :      25.120    :</td>
-</tr>
-<tr>
-<td> :  III       :      35.890    :</td>
-</tr>
-<tr>
-<td> :  IV        :      46.655    :</td>
-</tr>
-<tr>
-<td> :  V         :      57.410    :</td>
-</tr>
-<tr>
-<td> :  VI        :      68.185    :</td>
-</tr>
-<tr>
-<td> :  VII       :      78.965    :</td>
-</tr>
-<tr>
-<td> :                             :</td>
-</tr>
-<tr>
-<td/>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
-<tr>
-<td> :            :    IMMEUBLES   :</td>
-</tr>
-<tr>
-<td> :    TYPES   :    COLLECTIFS  :</td>
-</tr>
-<tr>
-<td> :     de     :----------------:</td>
-</tr>
-<tr>
-<td> : logements  :     ZONE II    :</td>
-</tr>
-<tr>
-<td> :            :   (en francs)  :</td>
-</tr>
-<tr>
-<td> :------------:----------------:</td>
-</tr>
-<tr>
-<td> :  I         :      13.085    :</td>
-</tr>
-<tr>
-<td> :  I bis     :      13.085    :</td>
-</tr>
-<tr>
-<td> :  II        :      22.900    :</td>
-</tr>
-<tr>
-<td> :  III       :      32.720    :</td>
-</tr>
-<tr>
-<td> :  IV        :      42.535    :</td>
-</tr>
-<tr>
-<td> :  V         :      52.365    :</td>
-</tr>
-<tr>
-<td> :  VI        :      62.170    :</td>
-</tr>
-<tr>
-<td> :  VII       :      71.990    :</td>
-</tr>
-<tr>
-<td> :                             :</td>
-</tr>
-<tr>
-<td/>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
-<tr>
-<td> :            :    IMMEUBLES   :</td>
-</tr>
-<tr>
-<td> :    TYPES   :    COLLECTIFS  :</td>
-</tr>
-<tr>
-<td> :     de     :----------------:</td>
-</tr>
-<tr>
-<td> : logements  :     ZONE III   :</td>
-</tr>
-<tr>
-<td> :            :   (en francs)  :</td>
-</tr>
-<tr>
-<td> :------------:----------------:</td>
-</tr>
-<tr>
-<td> :  I         :      11.940    :</td>
-</tr>
-<tr>
-<td> :  I bis     :      11.940    :</td>
-</tr>
-<tr>
-<td> :  II        :      20.880    :</td>
-</tr>
-<tr>
-<td> :  III       :      29.840    :</td>
-</tr>
-<tr>
-<td> :  IV        :      38.785    :</td>
-</tr>
-<tr>
-<td> :  V         :      47.735    :</td>
-</tr>
-<tr>
-<td> :  VI        :      56.700    :</td>
-</tr>
-<tr>
-<td> :  VII       :      65.655    :</td>
-</tr>
-<tr>
-<td> :                             :</td>
-</tr>
-</table>
-
 <table>
 <tr>
 <td>:-----------------------------:</td>
 </tr>
 <tr>
-<td> :            :    MAISONS     :</td>
-</tr>
-<tr>
-<td> :    TYPES   : INDIVIDUELLES  :</td>
-</tr>
-<tr>
-<td> :     de     :----------------:</td>
-</tr>
-<tr>
-<td> : logements  :     ZONE I     :</td>
-</tr>
-<tr>
-<td> :            :   (en francs)  :</td>
-</tr>
-<tr>
-<td> :------------:----------------:</td>
-</tr>
-<tr>
-<td> :  I         :      16.600    :</td>
-</tr>
-<tr>
-<td> :  I bis     :      16.600    :</td>
-</tr>
-<tr>
-<td> :  II        :      30.485    :</td>
-</tr>
-<tr>
-<td> :  III       :      41.490    :</td>
-</tr>
-<tr>
-<td> :  IV        :      53.925    :</td>
-</tr>
-<tr>
-<td> :  V         :      66.375    :</td>
-</tr>
-<tr>
-<td> :  VI        :      78.835    :</td>
-</tr>
-<tr>
-<td> :  VII       :      91.275    :</td>
-</tr>
-<tr>
-<td> :                             :</td>
-</tr>
-<tr>
-<td/>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
-<tr>
-<td> :            :    MAISONS     :</td>
-</tr>
-<tr>
-<td> :    TYPES   : INDIVIDUELLES  :</td>
-</tr>
-<tr>
-<td> :     de     :----------------:</td>
-</tr>
-<tr>
-<td> : logements  :     ZONE II    :</td>
-</tr>
-<tr>
-<td> :            :   (en francs)  :</td>
-</tr>
-<tr>
-<td> :------------:----------------:</td>
-</tr>
-<tr>
-<td> :  I         :      14.955    :</td>
-</tr>
-<tr>
-<td> :  I bis     :      14.955    :</td>
-</tr>
-<tr>
-<td> :  II        :      26.150    :</td>
-</tr>
-<tr>
-<td> :  III       :      37.360    :</td>
-</tr>
-<tr>
-<td> :  IV        :      48.565    :</td>
-</tr>
-<tr>
-<td> :  V         :      62.745    :</td>
-</tr>
-<tr>
-<td> :  VI        :      70.995    :</td>
-</tr>
-<tr>
-<td> :  VII       :      82.185    :</td>
-</tr>
-<tr>
-<td> :                             :</td>
-</tr>
-<tr>
-<td/>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
-<tr>
-<td> :            :    MAISONS     :</td>
-</tr>
-<tr>
-<td> :    TYPES   : INDIVIDUELLES  :</td>
-</tr>
-<tr>
-<td> :     de     :----------------:</td>
-</tr>
-<tr>
-<td> : logements  :     ZONE III   :</td>
-</tr>
-<tr>
-<td> :            :   (en francs)  :</td>
-</tr>
-<tr>
-<td> :------------:----------------:</td>
-</tr>
-<tr>
-<td> :  I         :      13.335    :</td>
-</tr>
-<tr>
-<td> :  I bis     :      13.335    :</td>
-</tr>
-<tr>
-<td> :  II        :      23.340    :</td>
-</tr>
-<tr>
-<td> :  III       :      33.345    :</td>
-</tr>
-<tr>
-<td> :  IV        :      43.355    :</td>
-</tr>
-<tr>
-<td> :  V         :      53.350    :</td>
-</tr>
-<tr>
-<td> :  VI        :      63.360    :</td>
-</tr>
-<tr>
-<td> :  VII       :      73.355    :</td>
-</tr>
-<tr>
-<td> :                             :</td>
-</tr>
-</table>
-
-A partir du 1er juillet 1993
-
-<table>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
-<tr>
 <td> :            :    IMMEUBLES   :</td>
 </tr>
 <tr>
@@ -958,28 +337,28 @@ A partir du 1er juillet 1993
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :      147500    :</td>
+<td> :  I         :      15.220    :</td>
 </tr>
 <tr>
-<td> :  I bis     :      14.750    :</td>
+<td> :  I bis     :      15.220    :</td>
 </tr>
 <tr>
-<td> :  II        :      25.825    :</td>
+<td> :  II        :      26.650    :</td>
 </tr>
 <tr>
-<td> :  III       :      36.905    :</td>
+<td> :  III       :      38.085    :</td>
 </tr>
 <tr>
-<td> :  IV        :      47.970    :</td>
+<td> :  IV        :      49.505    :</td>
 </tr>
 <tr>
-<td> :  V         :      59.025    :</td>
+<td> :  V         :      60.915    :</td>
 </tr>
 <tr>
-<td> :  VI        :      70.110    :</td>
+<td> :  VI        :      72.355    :</td>
 </tr>
 <tr>
-<td> :  VII       :      81.190    :</td>
+<td> :  VII       :      83.790    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -1009,28 +388,28 @@ A partir du 1er juillet 1993
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :      13.330    :</td>
+<td> :  I         :      13.625    :</td>
 </tr>
 <tr>
-<td> :  I bis     :      13.330    :</td>
+<td> :  I bis     :      13.625    :</td>
 </tr>
 <tr>
-<td> :  II        :      23.330    :</td>
+<td> :  II        :      23.845    :</td>
 </tr>
 <tr>
-<td> :  III       :      33.330    :</td>
+<td> :  III       :      34.065    :</td>
 </tr>
 <tr>
-<td> :  IV        :      43.325    :</td>
+<td> :  IV        :      44.280    :</td>
 </tr>
 <tr>
-<td> :  V         :      53.345    :</td>
+<td> :  V         :      54.520    :</td>
 </tr>
 <tr>
-<td> :  VI        :      63.330    :</td>
+<td> :  VI        :      64.725    :</td>
 </tr>
 <tr>
-<td> :  VII       :      73.335    :</td>
+<td> :  VII       :      74.950    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -1060,46 +439,49 @@ A partir du 1er juillet 1993
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :      12.105    :</td>
+<td> :  I         :      12.370    :</td>
 </tr>
 <tr>
-<td> :  I bis     :      12.105    :</td>
+<td> :  I bis     :      12.370    :</td>
 </tr>
 <tr>
-<td> :  II        :      21.165    :</td>
+<td> :  II        :      21.630    :</td>
 </tr>
 <tr>
-<td> :  III       :      30.255    :</td>
+<td> :  III       :      30.920    :</td>
 </tr>
 <tr>
-<td> :  IV        :      39.320    :</td>
+<td> :  IV        :      40.185    :</td>
 </tr>
 <tr>
-<td> :  V         :      48.395    :</td>
+<td> :  V         :      49.460    :</td>
 </tr>
 <tr>
-<td> :  VI        :      57.480    :</td>
+<td> :  VI        :      58.745    :</td>
 </tr>
 <tr>
-<td> :  VII       :      66.565    :</td>
+<td> :  VII       :      68.030    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
+</tr>
+<tr>
+<td/>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :            :    MAISONS     :</td>
+</tr>
+<tr>
+<td> :    TYPES   : INDIVIDUELLES  :</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td>:-----------------------------:</td>
-</tr>
-<tr>
-<td> :            :    MAISONS     :</td>
-</tr>
-<tr>
-<td> :    TYPES   : INDIVIDUELLES  :</td>
-</tr>
-<tr>
-<td> :     de     :----------------:</td>
+<td>:     de     :----------------:</td>
 </tr>
 <tr>
 <td> : logements  :     ZONE I     :</td>
@@ -1111,28 +493,28 @@ A partir du 1er juillet 1993
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :      17.065    :</td>
+<td> :  I         :      17.610    :</td>
 </tr>
 <tr>
-<td> :  I bis     :      17.065    :</td>
+<td> :  I bis     :      17.610    :</td>
 </tr>
 <tr>
-<td> :  II        :      31.345    :</td>
+<td> :  II        :      32.350    :</td>
 </tr>
 <tr>
-<td> :  III       :      42.660    :</td>
+<td> :  III       :      44.025    :</td>
 </tr>
 <tr>
-<td> :  IV        :      55.445    :</td>
+<td> :  IV        :      57.220    :</td>
 </tr>
 <tr>
-<td> :  V         :      68.245    :</td>
+<td> :  V         :      70.430    :</td>
 </tr>
 <tr>
-<td> :  VI        :      81.060    :</td>
+<td> :  VI        :      83.655    :</td>
 </tr>
 <tr>
-<td> :  VII       :      93.850    :</td>
+<td> :  VII       :      96.855    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -1162,28 +544,28 @@ A partir du 1er juillet 1993
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :      15.235    :</td>
+<td> :  I         :      15.570    :</td>
 </tr>
 <tr>
-<td> :  I bis     :      15.235    :</td>
+<td> :  I bis     :      15.570    :</td>
 </tr>
 <tr>
-<td> :  II        :      26.635    :</td>
+<td> :  II        :      27.220    :</td>
 </tr>
 <tr>
-<td> :  III       :      38.060    :</td>
+<td> :  III       :      38.895    :</td>
 </tr>
 <tr>
-<td> :  IV        :      49.470    :</td>
+<td> :  IV        :      50.560    :</td>
 </tr>
 <tr>
-<td> :  V         :      63.915    :</td>
+<td> :  V         :      65.320    :</td>
 </tr>
 <tr>
-<td> :  VI        :      72.315    :</td>
+<td> :  VI        :      73.905    :</td>
 </tr>
 <tr>
-<td> :  VII       :      83.720    :</td>
+<td> :  VII       :      85.530    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -1213,28 +595,28 @@ A partir du 1er juillet 1993
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :      13.520    :</td>
+<td> :  I         :      13.815    :</td>
 </tr>
 <tr>
-<td> :  I bis     :      13.520    :</td>
+<td> :  I bis     :      13.815    :</td>
 </tr>
 <tr>
-<td> :  II        :      23.665    :</td>
+<td> :  II        :      24.185    :</td>
 </tr>
 <tr>
-<td> :  III       :      33.805    :</td>
+<td> :  III       :      34.550    :</td>
 </tr>
 <tr>
-<td> :  IV        :      43.950    :</td>
+<td> :  IV        :      44.915    :</td>
 </tr>
 <tr>
-<td> :  V         :      54.090    :</td>
+<td> :  V         :      55.280    :</td>
 </tr>
 <tr>
-<td> :  VI        :      64.235    :</td>
+<td> :  VI        :      65.650    :</td>
 </tr>
 <tr>
-<td> :  VII       :      74.365    :</td>
+<td> :  VII       :      76.000    :</td>
 </tr>
 <tr>
 <td> :                             :</td>

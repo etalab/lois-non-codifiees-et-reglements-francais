@@ -1,0 +1,29 @@
+# Article 1
+
+Les commissions administratives paritaires compétentes à l'égard des personnels des services déconcentrés du ministère de l'équipement, des transports et du tourisme (mer) placées auprès du directeur des gens de mer et de l'administration générale sont les suivantes :
+
+N° 1. - Corps des inspecteurs des affaires maritimes ;
+
+N° 2. - Corps des contrôleurs des affaires maritimes ;
+
+N° 3. - Supprimée ;
+
+N° 4. - Supprimée ;
+
+N° 5. - Supprimée ;
+
+N° 6. - Supprimée ;
+
+N° 7. - Agents des services techniques des services déconcentrés ;
+
+N° 8. - Supprimée ;
+
+N° 9. - Supprimée ;
+
+N° 10. - Corps des officiers de port ;
+
+N° 11. - Corps des officiers de port adjoints ;
+
+N° 12. - Corps des professeurs techniques de l'enseignement maritime et corps des professeurs techniques des écoles nationales de la marine marchande ;
+
+N° 13. - Agents de service des services déconcentrés.
