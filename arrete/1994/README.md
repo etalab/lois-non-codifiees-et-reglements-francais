@@ -174,7 +174,6 @@
 - [Arrêté du 6 juillet 1994 (RESM9400969A)](arrete-du-6-juillet-1994-resm9400969a)
 - [Arrêté du 6 juillet 1994 (SANP9402045A)](arrete-du-6-juillet-1994-sanp9402045a)
 - [Arrêté du 6 juillet 1994 (SPSG9402108A)](arrete-du-6-juillet-1994-spsg9402108a)
-- [Arrêté du 6 juin 1994 (AGRG9401114A)](arrete-du-6-juin-1994-agrg9401114a)
 - [Arrêté du 6 juin 1994 (EQUA9401060A)](arrete-du-6-juin-1994-equa9401060a)
 - [Arrêté du 6 juin 1994 (EQUT9400954A)](arrete-du-6-juin-1994-equt9400954a)
 - [Arrêté du 6 juin 1994 (SANH9401778A)](arrete-du-6-juin-1994-sanh9401778a)
