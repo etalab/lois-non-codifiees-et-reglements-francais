@@ -1,8 +1,7 @@
-# Arrêté du 15 mai 1974 relatif aux conditions d'hygiène relatives aux établissements de collecte et de transformation du lait et des produits laitiers
+# Arrêté du 15 mai 1974 concernant les viandes hachées destinées à la consommation humaine
 
-- [Article 1](article-1.md)
-- [Titre Ier : Conditions d'hygiène relatives à l'ensemble de l'établissement.](titre-ier)
-- [Titre II : Hygiène des équipements et matériels.](titre-ii)
-- [Titre III : Conditions d'hygiène relatives à l'entretien des lieux, locaux et équipements.](titre-iii)
-- [Titre IV : Dispositions générales.](titre-iv)
-- [Article 19](article-19.md)
+- [Article 28](article-28.md)
+- [Article 29](article-29.md)
+- [Viandes hachées "à l'avance".](viandes-hachees-a)
+- [Objet et définitions.](objet-et)
+- [Objets et définitions.](objets-et)

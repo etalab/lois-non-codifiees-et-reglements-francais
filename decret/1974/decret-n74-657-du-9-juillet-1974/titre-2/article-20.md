@@ -1,0 +1,5 @@
+# Article 20
+
+Les tables de décompression sont définies par arrêté du ministre chargé du travail. Ces tables permettent la décompression soit à l'air, soit avec inhalation d'oxygène pur, au masque, en fin de décompression. Dans ce cas, toutes mesures doivent êtres prises pour que le pourcentage de l'oxygène dans l'atmosphère intérieure du sas de décompression ne dépasse pas 25 p. 100 en volume. Un appareil analyseur en continu de l'atmosphère intérieure du sas est obligatoire. L'employeur doit mettre un masque à la disposition de chaque travailleur. Le chef de sas s'assure de la bonne utilisation des masques par les travailleurs ; après chaque décompression, il les vérifie et les nettoie.
+
+Le renouvellement de l'air du sas au cours de la décompression doit se faire par ventilation. La ventilation, qu'elle soit automatique ou manuelle, ne doit pas modifier la valeur de la pression du caisson. Elle doit être suffisante pour maintenir à l'intérieur du sas une pression partielle de gaz carbonique inférieure à 0,02 bar.
