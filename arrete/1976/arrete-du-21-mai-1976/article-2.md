@@ -1,3 +1,5 @@
 # Article 2
 
-Outre les documents énumérés à l'article 4 a et d du décret n° 76-456 du 21 mai 1976 relatif à la participation des établissements d'hospitalisation privés à but non lucratif à l'exécution du service public hospitalier, la demande mentionnée à l'article 1er ci-dessus doit être accompagnée par une fiche sur l'équipement de l'établissement conforme au modèle annexé au présent arrêté (ann. B).
+La direction des mines anime et coordonne l'activité des services interdépartementaux de l'industrie et des mines.
+
+Elle veille à leur organisation et propose les mesures nécessaires à cet égard. Elle saisit la direction de l'administration générale, du budget et du contentieux de toutes propositions concernant la gestion administrative et financière de ces services, notamment les mesures relatives à leurs personnels, sous réserve des dispositions de l'article 3 ci-après.
