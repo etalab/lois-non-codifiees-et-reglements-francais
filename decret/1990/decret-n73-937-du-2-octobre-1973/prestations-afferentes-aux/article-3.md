@@ -1,6 +1,6 @@
-# Article 12-2
+# Article 3
 
-Les prestations visées à l'article 663-5 du Code de la sécurité sociale peuvent être liquidées à compter de l'âge de soixante ans [*point de départ*].
+Les prestations visées à l'article L. 634-3 du Code de la sécurité sociale peuvent être liquidées à compter de l'âge de soixante ans [*point de départ*].
 
 I - Pour les assurés qui justifient dans les régimes d'assurance vieillesse de base obligatoires de périodes d'assurance ou de périodes reconnues équivalentes d'une durée au moins égale à 150 trimestres, il n'est appliqué aucun abattement sur le montant de la pension.
 
@@ -8,4 +8,4 @@ II - Pour les assurés ne pouvant bénéficier des dispositions ci-dessus, il es
 
 Le plus petit de ces deux nombres est pris en considération. Pour chaque trimestre ainsi retenu le coefficient de minoration à appliquer au montant de la pension est fixé à 2,50 p. 100 [*pourcentage*].
 
-III - Les périodes reconnues équivalentes mentionnées au I ci-dessus sont définies dans les conditions fixées à l'article 70-2 du décret du 29 décembre 1945 susvisé.
+III - Les périodes reconnues équivalentes mentionnées au I ci-dessus sont définies dans les conditions fixées à l'article R. 351-4 du code de la sécurité sociale.
