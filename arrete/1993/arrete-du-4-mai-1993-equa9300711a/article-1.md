@@ -2,7 +2,7 @@
 
 Un comité de coordination des aéroports parisiens est créé pour assister, à titre consultatif, le ou les coordonnateur(s) désigné(s) sur les aéroports parisiens coordonnés ou entièrement coordonnés. Ce comité est placé sous la présidence du directeur des transports aériens ou son representant et ouvert à la participation des services et organismes suivants :
 
-Service des bases aériennes  ;
+Service des bases aériennes ;
 
 Direction de la navigation aérienne ;
 
@@ -10,20 +10,20 @@ Direction de la circulation aérienne militaire ;
 
 Le ou les coordonnateur(s) désigné(s) sur les aéroports parisiens ;
 
-Aéroports de Paris ;
+Aéroports de Paris (ADP) ;
 
 Société Air France ;
 
-Compagnie T.A.T. European airlines ;
+Société d'exploitation AOM Air Liberté (Air Lib) ;
 
-Compagnie A.O.M. ;
+Société Corse Air international (Corsair) ;
 
-Compagnie Air Liberté ;
+Société Europe Airpost ;
 
-Chambre syndicale des transports aériens (C.S.T.A) ;
+Chambre syndicale des transports aériens (CSTA) ;
 
-Syndicat des compagnies aériennes régionales et d'affaires (S.C.A.R.A.) ;
+Syndicat des compagnies aériennes autonomes (SCARA) ;
 
-Airline Representatives Council (A.R.C.) ;
+Airline Representatives Council (ARC) ;
 
-International Air Transport Association (I.A.T.A) ;
+International Air Transport Association (IATA).
