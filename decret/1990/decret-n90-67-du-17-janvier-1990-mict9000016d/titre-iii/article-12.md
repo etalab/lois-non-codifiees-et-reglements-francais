@@ -1,6 +1,6 @@
 # Article 12
 
-Les montants des commandes retenues pour l'application de l'article 9 sont ceux qui figurent aux contrats de production des oeuvres audiovisuelles dont le tournage débute au cours de l'exercice, signés par les sociétés ou les services de télévision et effectivement inscrits dans leurs comptes.
+Les montants des commandes retenues pour l'application des articles 9 et 9-1 sont ceux qui figurent aux contrats de production des oeuvres audiovisuelles dont le tournage débute au cours de l'exercice, signés par les sociétés ou les services de télévision et effectivement inscrits dans leurs comptes.
 
 Ces montants comportent :
 

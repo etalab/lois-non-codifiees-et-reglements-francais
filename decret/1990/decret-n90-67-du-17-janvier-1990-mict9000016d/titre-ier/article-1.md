@@ -6,7 +6,7 @@ II. - Ne sont pas pris en compte dans le chiffre d'affaires annuel net d'une soc
 
 1° La taxe sur la valeur ajoutée ;
 
-2° Les commissions et frais de régie publicitaires ;
+2° Les et frais de régie publicitaires ;
 
 3° La taxe au profit du compte de soutien financier de l'industrie cinématographique et de l'industrie des programmes audiovisuels prévue par l'article 36-I de la loi de finances pour 1984 (n° 83-1179 du 29 décembre 1983) susvisée ;
 
