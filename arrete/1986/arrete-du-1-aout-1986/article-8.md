@@ -18,7 +18,7 @@ II. - Sont interdits :
 
 1. Pour la chasse du chamois ou isard :
 
-La chasse en battue ou traque, sauf dans les départements suivants : Ain, Alpes-Maritimes, Haute-Savoie, Vosges ;
+La chasse en battue ou traque, sauf dans les départements suivants : Ain, Haute-Savoie, Vosges ;
 
 L'emploi des chiens, sauf dans les départements suivants :
 
