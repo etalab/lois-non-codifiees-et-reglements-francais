@@ -1,6 +1,6 @@
 # Article Annexe III
 
-Classe normale
+Classe normale - grade provisoire
 
 12e  échelon
 
@@ -98,7 +98,7 @@ Classe normale
 
 1er août 1992 : 298
 
-Classe supérieure
+Classe supérieure - grade provisoire
 
 4e  échelon : indice brut : 533
 
@@ -108,7 +108,7 @@ Classe supérieure
 
 1er échelon : indice brut : 438
 
-Classe exceptionnelle
+Classe exceptionnelle - grade provisoire
 
 8e  échelon : indice brut : 579
 
@@ -125,3 +125,67 @@ Classe exceptionnelle
 2e  échelon : indice brut : 359
 
 1er échelon : indice brut : 324
+
+Classe normale créée le 1er août 1996
+
+13e  échelon : indice brut : 544
+
+12e  échelon : indice brut : 510
+
+11e  échelon : indice brut : 483
+
+10e  échelon : indice brut : 450
+
+9e  échelon : indice brut : 426
+
+8e  échelon : indice brut : 397
+
+7e  échelon : indice brut : 380
+
+6e  échelon : indice brut : 362
+
+5e  échelon : indice brut : 347
+
+4e  échelon : indice brut : 336
+
+3e  échelon : indice brut : 321
+
+2e  échelon : indice brut : 309
+
+1er échelon : indice brut : 298
+
+Classe supérieure créée le 1er août 1996
+
+8e  échelon : indice brut : 579
+
+7e  échelon : indice brut : 547
+
+6e  échelon : indice brut : 516
+
+5e  échelon : indice brut : 485
+
+4e  échelon : indice brut : 456
+
+3e  échelon : indice brut : 427
+
+2e  échelon : indice brut : 389
+
+1er échelon : indice brut : 359
+
+Classe exceptionnelle créée le 1er août 1994
+
+8e  échelon : indice brut : 612
+
+7e  échelon : indice brut : 580
+
+6e  échelon : indice brut : 549
+
+5e  échelon : indice brut : 518
+
+4e  échelon : indice brut : 487
+
+3e  échelon : indice brut : 457
+
+2e  échelon : indice brut : 439
+
+1er échelon : indice brut : 393

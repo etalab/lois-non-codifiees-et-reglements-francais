@@ -4,7 +4,7 @@ Les dessinateurs sont recrutés :
 
 1° En application de l'article 29 du titre IV du statut général des fonctionnaires :
 
-a) Par concours sur titres ouvert dans chaque établissement, aux titulaires d'un des titres ou diplômes dont la liste est fixée par arrêté du ministre chargé de la santé ;
+a) Par concours sur titres ouvert dans chaque établissement, aux titulaires d'un des titres ou diplômes dont la liste est fixée par arrêté du ministre chargé de la santé ou aux titulaires d'un diplôme délivré ou reconnu dans un des Etats membres de l'Union européenne dont l'équivalence avec les titres ou diplômes précités, pour l'application du présent décret, aura été reconnue par la commission prévue par le décret du 21 juillet 1994 précité ;
 
 b) Par concours sur épreuves ouvert dans chaque établissement, aux fonctionnaires et agents, en fonctions, des établissements mentionnés à l'article 1er ci-dessus, de l'Etat, des collectivités territoriales et de leurs établissements publics à caractère administratif et justifiant de deux années au moins de services publics ;
 
