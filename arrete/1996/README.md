@@ -1011,7 +1011,6 @@
 - [Arrêté du 26 janvier 1996 (INTE9600046A)](arrete-du-26-janvier-1996-inte9600046a)
 - [Arrêté du 26 janvier 1996 (INTE9600048A)](arrete-du-26-janvier-1996-inte9600048a)
 - [Arrêté du 26 janvier 1996 (INTE9600049A)](arrete-du-26-janvier-1996-inte9600049a)
-- [Arrêté du 26 janvier 1996 (INTE9600050A)](arrete-du-26-janvier-1996-inte9600050a)
 - [Arrêté du 26 janvier 1996 (LOGC9600002A)](arrete-du-26-janvier-1996-logc9600002a)
 - [Arrêté du 26 janvier 1996 (LOGC9600003A)](arrete-du-26-janvier-1996-logc9600003a)
 - [Arrêté du 26 janvier 1996 (LOGC9600004A)](arrete-du-26-janvier-1996-logc9600004a)
