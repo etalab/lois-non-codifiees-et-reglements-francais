@@ -322,7 +322,6 @@
 - [Arrêté du 7 septembre 1995 (DEFC9501873A)](arrete-du-7-septembre-1995-defc9501873a)
 - [Arrêté du 7 septembre 1995 (ECOD9570003A)](arrete-du-7-septembre-1995-ecod9570003a)
 - [Arrêté du 7 septembre 1995 (MENA9501860A)](arrete-du-7-septembre-1995-mena9501860a)
-- [Arrêté du 8 août 1995 (AGRG9501710A)](arrete-du-8-aout-1995-agrg9501710a)
 - [Arrêté du 8 août 1995 (ECOS9550025A)](arrete-du-8-aout-1995-ecos9550025a)
 - [Arrêté du 8 décembre 1994 (DEFA9501142A)](arrete-du-8-decembre-1994-defa9501142a)
 - [Arrêté du 8 décembre 1994 (ECOC9400187A)](arrete-du-8-decembre-1994-ecoc9400187a)
