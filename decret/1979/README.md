@@ -11,3 +11,4 @@
 - [Décret n°79-66 du 23 janvier 1979](decret-n79-66-du-23-janvier-1979)
 - [Décret n°78-1295 du 26 décembre 1978](decret-n78-1295-du-26-decembre-1978)
 - [Décret n°79-1135 du 27 décembre 1979](decret-n79-1135-du-27-decembre-1979)
+- [Décret n°78-1305 du 29 décembre 1978](decret-n78-1305-du-29-decembre-1978)
