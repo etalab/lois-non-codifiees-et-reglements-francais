@@ -1,0 +1,3 @@
+# Article 54-1
+
+Les dispositions du présent arrêté autres que celles qui concer­nent les dispositifs complémentaires de signalisation arrière pour les véhicules à moteur et leurs remorques ne s'appliquent pas aux véhicules ayant fait l'objet d'une réception conformément soit à la directive du conseil 76-756/C. E. E. du 27 juillet 1976 relative à l'installation des dispositifs d'éclairage et de signalisation lumineuse des véhicules à moteur et de leurs remorques, soit à la directive du conseil 78-933/C. E. E. du 17 octobre 1978 relative à l'installation des dispositifs d'éclairage et de signalisation lumineuse des tracteurs agricoles ou forestiers à roues.
