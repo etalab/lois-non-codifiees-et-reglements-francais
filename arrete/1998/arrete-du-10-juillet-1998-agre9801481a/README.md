@@ -1,4 +1,4 @@
-# Arrêté du 20 août 1996 fixant le tarif de la taxe sur les passagers maritimes embarqués à destination d'espaces naturels protégés
+# Arrêté du 10 juillet 1998 fixant le montant des droits de scolarité pour les formations conduisant aux diplômes nationaux de spécialisation vétérinaire
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
