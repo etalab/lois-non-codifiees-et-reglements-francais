@@ -1,3 +1,15 @@
 # Article 1
 
-A l'exclusion des produits faisant l'objet des mesures d'interdiction prévues au premier alinéa de l'article 4 et à l'article 5 du présent décret, les produits contenant les fibres d'amiante suivantes : Actinolite, Amosite, Anthophyllite, Chrysotile, Crocidolite ou Amiante bleu, Trémolite ne peuvent être détenus en vue de la vente, mis en vente, vendus, offerts ou distribués à titre gratuit que s'ils sont étiquetés ou marqués conformément aux dispositions du présent décret [*mentions obligatoires*].
+Sont interdites la détention en vue de la vente, la mise en vente, la vente, l'offre ou la distribution à titre gratuit, l'utilisation et l'importation sous tous régimes douaniers, à l'exclusion du transit, des fibres d'amiante suivantes, dont les références chimiques figurent à l'annexe III du présent décret :
+
+a) Actinolite ;
+
+b) Amosite ;
+
+c) Anthophyllite ;
+
+d) Crocidolite ou amiante bleu ;
+
+e) Trémolite.
+
+Les mêmes interdictions s'appliquent aux produits auxquels ces fibres d'amiante ont été ajoutées.

@@ -1,6 +1,6 @@
 # Article Annexe II
 
-Les conseils de sécurité prévus à l'article 2 s'imposent dans les conditions fixées ci-dessous :
+Les conseils de sécurité prévus à l'article 4 s'imposent dans les conditions fixées ci-dessous :
 
 1° Les produits qui, dans le cadre de leur utilisation, peuvent être transformés ou retravaillés doivent être accompagnés d'une notice comportant notamment les indications suivantes :
 
