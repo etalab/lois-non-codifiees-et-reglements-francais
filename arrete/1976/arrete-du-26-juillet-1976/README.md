@@ -4,5 +4,6 @@
 - [Titre Ier : Immatriculation et enregistrement.](titre-ier)
 - [Article 2](article-2.md)
 - [Titre II : Document d'accompagnement et carte d'immatriculation.](titre-ii)
+- [Article 3](article-3.md)
 - [Article 20](article-20.md)
 - [Annexes](annexes)
