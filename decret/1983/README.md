@@ -35,6 +35,8 @@
 - [Décret n°86-1035 du 11 septembre 1986](decret-n86-1035-du-11-septembre-1986)
 - [Décret n° 83-16 du 13 janvier 1983](decret-n-83-16-du-13-janvier-1983)
 - [Décret n°83-17 du 13 janvier 1983](decret-n83-17-du-13-janvier-1983)
+- [Décret n°83-297 du 13 avril 1983](decret-n83-297-du-13-avril-1983)
+- [Décret n°83-298 du 13 avril 1983](decret-n83-298-du-13-avril-1983)
 - [Décret n°83-195 du 14 mars 1983](decret-n83-195-du-14-mars-1983)
 - [Décret n°84-187 du 14 mars 1984](decret-n84-187-du-14-mars-1984)
 - [Décret n°86-662 du 14 mars 1986](decret-n86-662-du-14-mars-1986)
