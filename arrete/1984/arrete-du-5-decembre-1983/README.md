@@ -1,13 +1,9 @@
-# Arrêté du 5 décembre 1983 modifié relatif au recrutement des chefs de musique militaire, des chefs de musique des armées et des sous-chefs de musique
+# Arrêté du 5 décembre 1983 relatif à la commercialisation du gibier congelé d'importation
 
 - [Article 1](article-1.md)
-- [TITRE Ier : Organisation générale des concours, des stages et des examens.](titre-ier)
 - [Article 2](article-2.md)
-- [TITRE II : Recrutement dans le corps des chefs de musique militaire](titre-ii)
 - [Article 3](article-3.md)
-- [TITRE III : Recrutement dans le corps des chefs de musique des armées](titre-iii)
 - [Article 4](article-4.md)
-- [TITRE IV : Recrutement des sous-chefs de musique](titre-iv)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
