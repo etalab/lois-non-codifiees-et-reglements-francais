@@ -1,0 +1,3 @@
+# Article 31-2
+
+Si l'intérêt du service l'exige, le préfet du département, sur proposition du médecin inspecteur de la santé publique du département ou du directeur d'établissement et après avis motivé de la commission médicale d'établissement, peut décider qu'un praticien hospitalier universitaire cesse de participer au service de gardes pour une durée maximale de trois mois. Si, à l'issue de cette période de trois mois, l'intéressé n'est pas autorisé à figurer à nouveau au tableau des gardes, sa situation doit être examinée dans le cadre, selon le cas, des dispositions prévues par l'article 36 du décret n° 84-131 du 24 février 1984 susvisé ou par le chapitre III du titre Ier ci-dessus.
