@@ -1166,7 +1166,6 @@
 - [Décret n°93-811 du 30 avril 1993 (INDP9330200D)](decret-n93-811-du-30-avril-1993-indp9330200d)
 - [Décret n°93-812 du 30 avril 1993 (INDP9330201D)](decret-n93-812-du-30-avril-1993-indp9330201d)
 - [Décret n°93-872 du 30 juin 1993 (ECOT9340108D)](decret-n93-872-du-30-juin-1993-ecot9340108d)
-- [Décret n°93-967 du 30 juillet 1993 (INTC9300422D)](decret-n93-967-du-30-juillet-1993-intc9300422d)
 - [Décret n°94-758 du 30 août 1994 (JUSG9460034D)](decret-n94-758-du-30-aout-1994-jusg9460034d)
 - [Décret n°92-1447 du 31 décembre 1992 (PRMX9200246D)](decret-n92-1447-du-31-decembre-1992-prmx9200246d)
 - [Décret n°92-1450 du 31 décembre 1992 (INTB9200537D)](decret-n92-1450-du-31-decembre-1992-intb9200537d)

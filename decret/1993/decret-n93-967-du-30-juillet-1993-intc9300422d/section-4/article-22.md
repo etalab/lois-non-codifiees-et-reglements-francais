@@ -1,3 +1,0 @@
-# Article 22
-
-Par dérogation aux dispositions de l'article 4 (2°), jusqu'au 1er août 1996, peuvent être promus au choix les enquêteurs de la police nationale en fonctions le 1er août 1992 âgés d'au moins trente-huit ans et de cinquante ans au plus au 1er janvier de l'année considérée et justifiant à cette date de treize années de services effectifs dans le corps des enquêteurs. Pour l'appréciation de cette durée, les services accomplis dans le corps des gradés et gardiens de la paix sont assimilés dans la limite de dix ans à des services accomplis dans le corps des enquêteurs, les services accomplis en qualité d'enquêteur contractuel sont assimilés dans la limite de six ans.
