@@ -1,3 +1,3 @@
 # Article 1
 
-Le présent décret, qui régit les accidents du travail et les maladies professionnelles en ce qui concerne leur réparation et leur prévention, est applicable dans les territoires d'outre-mer et au Cameroun.
+Jusqu'à l'institution d'un régime général de sécurité sociale la réparation et la prévention des accidents du travail et des maladies professionnelles sont régies par le présent décret dans les territoires d'outre-mer.
