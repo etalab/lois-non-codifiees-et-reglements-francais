@@ -151,7 +151,6 @@
 - [Décret n°77-429 du 22 avril 1977](decret-n77-429-du-22-avril-1977)
 - [Décret n°84-121 du 22 février 1984](decret-n84-121-du-22-fevrier-1984)
 - [Décret n°84-124 du 22 février 1984](decret-n84-124-du-22-fevrier-1984)
-- [Décret n°84-128 du 22 février 1984](decret-n84-128-du-22-fevrier-1984)
 - [Décret n°84-138 du 22 février 1984](decret-n84-138-du-22-fevrier-1984)
 - [Décret n°84-143 du 22 février 1984](decret-n84-143-du-22-fevrier-1984)
 - [Décret n°84-203 du 22 mars 1984](decret-n84-203-du-22-mars-1984)
