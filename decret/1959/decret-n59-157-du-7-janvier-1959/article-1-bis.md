@@ -1,30 +1,28 @@
 # Article 1 bis
 
-Le Conseil d'Administration du Syndicat des Transports Parisiens comprend :
+Le conseil d'administration du Syndicat des transports parisiens comprend :
 
 a) A titre de représentants de l'Etat :
 
-- le Préfet de la Région Parisienne,
+- le préfet de la région d'Ile-de-France, préfet de Paris ;
 
-- deux représentants du Ministre de l'Economie et des Finances,
+- trois représentants du ministre chargé de l'économie, des finances et du budget ;
 
-- deux représentants du Ministre des Transports,
+- deux représentants du ministre chargé de l'intérieur ;
 
-- un représentant du Ministre de l'Intérieur,
+- deux représentants du ministre chargé de l'équipement et du logement ;
 
-- deux représentants du Ministre de l'Equipement et du Logement,
+- deux représentants du ministre chargé des transports ;
 
-- le Préfet de Paris,
+- le préfet de police ;
 
-- le Préfet de Police.
+- un chef de service de la préfecture de Paris désigné par le préfet de la région d'Ile-de-France, préfet de Paris ;
 
-b) A titre de représentants des collectivités locales :
+b) A titre de représentants des collectivités territoriales :
 
-- Cinq représentants choisis parmi ses membres par le Conseil de Paris, dont un faisant partie du Conseil d'Administration du District de la Région Parisienne créé par la loi du 2 Août 1961 modifiée.
+- cinq représentants, choisis parmi ses membres par le conseil de Paris ;
 
-- trois représentants à raison de un par département choisis respectivement parmi leurs membres par les Conseils Généraux des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne.
-
-- Deux représentants choisis parmi ses membres par une commission mixte des Conseils Généraux des autres départements participant au Syndicat. La composition et les conditions de fonctionnement de cette commission mixte sont fixées par décret.
+- sept représentants à raison d'un par département choisis respectivement parmi leurs membres par les conseils généraux des départements de l'Essonne, des Hauts-de-Seine, de Seine-et-Marne, de la Seine-Saint-Denis, du Val-de-Marne, du Val-d'Oise et des Yvelines.
 
 Les représentants des Ministres sont nommés pour six ans, les représentants des collectivités locales, pour la durée de leur mandat.
 
