@@ -1,5 +1,9 @@
 # Article 9
 
-Les directeurs de la recherche et des études sont nommés par arrêté du ministre chargé de l'enseignement supérieur après avis du directeur de l'école. L'arrêté de nomination fixe la durée de leur mandat.
+Le directeur de la bibliothèque générale est nommé par le directeur de l'école, après avis du conseil scientifique, pour une durée de cinq ans renouvelable.
 
-Ils sont choisis parmi les catégories de personnels mentionnées au deuxième alinéa de l'article 6 ci-dessus.
+Les fonctions de directeur de la bibliothèque générale peuvent être confiées :
+
+- à un professeur des universités, à un maître de conférences ou à un membre des catégories assimilées en application de l'article 6 du décret du 16 janvier 1992 précité ;
+
+- à un membre du corps des conservateurs des bibliothèques ou du corps des conservateurs généraux des bibliothèques.

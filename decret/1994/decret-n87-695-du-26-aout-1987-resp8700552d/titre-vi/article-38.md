@@ -1,3 +1,3 @@
 # Article 38
 
-Jusqu'à la mise en place du Conseil national des universités et la désignation des présidents de ses sections, la commission prévue à l'article 8 ci-dessus comprend des présidents de section du Conseil supérieur des universités institué par le décret n° 83-299 du 13 avril 1983 modifié.
+Jusqu'à la nomination des directeurs adjoints de l'école, les deux directeurs de la recherche et des études exercent, chacun en ce qui concerne le groupe de disciplines auquel il appartient, les fonctions de directeur adjoint.

@@ -1,11 +1,15 @@
 # Article 17
 
-Les personnels affectés à l'école sont électeurs et éligibles au conseil d'administration et au conseil scientifique au titre des personnels d'enseignement et de recherche, dans le collège correspondant à leur grade.
+Sont électeurs et éligibles au conseil d'administration :
 
-Sont également électeurs et éligibles, dans les mêmes conditions :
+1° Les personnels d'enseignement et de recherche affectés à l'école, dans le collège correspondant à leur grade ;
 
-1° Les personnels assurant à l'école un nombre d'heures d'enseignement au moins égal au quart des obligations de service de référence, s'ils en font la demande ;
+2° Dans les mêmes conditions, les personnels d'enseignement et de recherche assurant à l'école un nombre d'heures au moins égal au quart des obligations de service de référence, et les personnels assurant leurs activités de recherche à l'école en vertu d'une convention ;
 
-2° Les personnels assurant leurs activités de recherche à l'école, en vertu d'une convention.
+3° Les personnels ingénieurs, administratifs, techniques, ouvriers, sociaux et de santé affectés à l'école, dans le collège correspondant à leur catégorie ;
 
-La liste des personnels mentionnés à l'alinéa précédent est communiquée chaque année par le directeur au conseil d'administration.
+4° Dans les mêmes conditions, les personnels ingénieurs, administratifs, techniques, ouvriers, sociaux et de santé en fonction à l'école qui relèvent d'autres organismes.
+
+Sont électeurs et éligibles au conseil scientifique les personnels mentionnés aux 1° et 2° de l'alinéa précédent ainsi que les ingénieurs de recherche relevant des 3° et 4° du même alinéa.
+
+Le directeur communique chaque année au conseil d'administration la liste des personnels mentionnés aux 2° et 4° ci-dessus.

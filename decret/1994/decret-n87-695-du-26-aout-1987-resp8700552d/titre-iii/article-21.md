@@ -14,4 +14,4 @@ Le directeur exerce les compétences qui ne sont pas attribuées à une autre au
 
 6° Il accomplit tous actes conservatoires concernant notamment les libéralités.
 
-Il peut déléguer sa signature.
+Il peut déléguer sa signature, dans leur domaine de compétence respectif, aux directeurs adjoints, au secrétaire général, au directeur de la bibliothèque générale et aux responsables de départements, de laboratoires et de services.

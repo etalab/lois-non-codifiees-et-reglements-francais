@@ -4,4 +4,4 @@ Le président du conseil d'administration est nommé par décret du Président d
 
 Un représentant du ministre chargé de l'enseignement supérieur assiste aux séances du conseil d'administration.
 
-Le directeur, le directeur adjoint, les directeurs de la recherche et des études siègent au conseil d'administration avec voix consultative. Le directeur peut être accompagné de ses collaborateurs et, notamment, du secrétaire général et de l'agent comptable.
+Le directeur et les directeurs adjoints siègent au conseil d'administration avec voix consultative. Le directeur peut être accompagné de ses collaborateurs et, notamment, du secrétaire général et de l'agent comptable.

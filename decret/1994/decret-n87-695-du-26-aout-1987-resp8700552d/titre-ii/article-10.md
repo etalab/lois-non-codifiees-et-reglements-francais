@@ -16,4 +16,4 @@ c) Deux représentants des corps techniques supérieurs de l'Etat, sur propositi
 
 4° Quatre représentants des élèves : deux représentants des sections des lettres, sciences humaines et économiques, et deux représentants des sections scientifiques, élus par des collèges distincts ;
 
-5° Deux représentants des personnels ingénieurs, administratifs, techniques, ouvriers et de service : un représentant des personnels appartenant à des corps de catégories A et B et des contractuels de même niveau et un représentant des autres personnels, élus par des collèges distincts.
+5° Deux représentants des personnels ingénieurs, administratifs, techniques, ouvriers, sociaux et de santé : un représentant des personnels appartenant à des corps de catégories A et B et des contractuels de même niveau et un représentant des autres personnels, élus par des collèges distincts.
