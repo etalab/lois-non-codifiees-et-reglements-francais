@@ -37,6 +37,7 @@
 - [Loi n°84-5 du 3 janvier 1984](loi-n84-5-du-3-janvier-1984)
 - [Loi n°84-512 du 29 juin 1984](loi-n84-512-du-29-juin-1984)
 - [Loi n°84-52 du 26 janvier 1984](loi-n84-52-du-26-janvier-1984)
+- [Loi n°84-562 du 4 juillet 1984](loi-n84-562-du-4-juillet-1984)
 - [Loi n°84-610 du 16 juillet 1984](loi-n84-610-du-16-juillet-1984)
 - [Loi n°84-743 du 1 août 1984](loi-n84-743-du-1-aout-1984)
 - [Loi n°84-820 du 6 septembre 1984](loi-n84-820-du-6-septembre-1984)
