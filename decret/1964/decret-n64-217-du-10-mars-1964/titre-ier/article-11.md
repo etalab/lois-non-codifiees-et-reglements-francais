@@ -1,0 +1,5 @@
+# Article 11
+
+Le ministre de l'éducation nationale peut, sur la demande de l'autorité académique qui peut être saisie, notamment par le chef d'établissement, prononcer, après avis de la commission prévue soit aux articles 8 et 9 du décret n° 60-745 du 28 juillet 1960, soit à l'article 7 du décret n° 60-746 de la même date, et l'intéressé ayant été mis à même de présenter ses observations, la résiliation du contrat du maître ou le retrait d'agrément au cas d'insuffisance professionnelle dûment constatée ou de comportement incompatible avec l'exercice des fonctions dans l'établissement considéré. Le ministre, sans être tenu de consulter cette commission, prend la même décision au cas où l'une des conditions prévues à l'article 1er du présent décret viendrait à manquer.
+
+S'il s'agit de la condition d'aptitude physique, la résiliation du contrat ou le retrait de l'agrément ne pourra être prononcé qu'après examen médical par un médecin agréé, le médecin traitant ayant été mis à même de présenter des observations.
