@@ -5,5 +5,6 @@
 - [Loi n° 66-1069 du 31 décembre 1966](loi-n-66-1069-du-31-decembre-1966)
 - [Loi n° 66-420 du 18 juin 1966](loi-n-66-420-du-18-juin-1966)
 - [Loi n° 66-457 du 2 juillet 1966](loi-n-66-457-du-2-juillet-1966)
+- [Loi n° 66-950 du 22 décembre 1966](loi-n-66-950-du-22-decembre-1966)
 - [Loi n°66-1066 du 31 décembre 1966](loi-n66-1066-du-31-decembre-1966)
 - [Loi n°67-405 du 20 mai 1967](loi-n67-405-du-20-mai-1967)
