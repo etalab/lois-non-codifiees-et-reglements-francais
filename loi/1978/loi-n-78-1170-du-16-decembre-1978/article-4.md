@@ -1,0 +1,7 @@
+# Article 4
+
+A l'article L. 648 du Code de la sécurité sociale , les mots "courtier juré d'assurance" sont supprimés. Toutefois, les courtiers d'assurances maritimes affiliés à l'organisation autonome d'allocation vieillesse des professions libérales à la date d'entrée en vigueur de la présente loi continuent à relever de cette organisation jusqu'au 30 juin 1980.
+
+A compter de cette date, les obligations de la caisse d'allocation vieillesse des officiers ministériels, des officiers publics et des compagnies judiciaires sont, en ce qui concerne le régime de base et le régime complémentaire d'assurance vieillesse dont bénéficiaient les courtiers d'assurances maritimes en retraite ou ayant exercé cette activité, ainsi que leurs ayants droit, prises en charge par l'organisation autonome d'assurance vieillesse des travailleurs non salariés des professions industrielles et commerciales. Pour ceux qui continuent d'exercer cette activité, ainsi que leurs ayants droit, elles sont prises en charge par les régimes de base et complémentaires d'assurance vieillesse auxquels les intéressés seront affiliés en raison de la modification du mode d'exercice de ladite activité.
+
+Les modalités de cette prise en charge seront fixées par décret ou, lorsque se trouvent concernées des institutions relevant de l'article L. 4 du Code de la sécurité sociale, par voie de convention entre lesdites institutions et la caisse d'allocation vieillesse visée ci-dessus .
