@@ -4,7 +4,6 @@
 - [Arrêté du 11 août 1961](arrete-du-11-aout-1961)
 - [Arrêté du 12 décembre 1961](arrete-du-12-decembre-1961)
 - [Arrêté du 15 mai 1961](arrete-du-15-mai-1961)
-- [Arrêté du 16 mars 1961](arrete-du-16-mars-1961)
 - [Arrêté du 17 février 1961](arrete-du-17-fevrier-1961)
 - [Arrêté du 19 juillet 1961](arrete-du-19-juillet-1961)
 - [Arrêté du 21 mars 1961](arrete-du-21-mars-1961)
