@@ -18,6 +18,7 @@
 - [Décret n°93-1040 du 2 septembre 1993 (BUDF9200054D)](decret-n93-1040-du-2-septembre-1993-budf9200054d)
 - [Décret n°93-1048 du 2 septembre 1993 (SPSS9301745D)](decret-n93-1048-du-2-septembre-1993-spss9301745d)
 - [Décret n°93-1051 du 2 septembre 1993 (ENVN9310082D)](decret-n93-1051-du-2-septembre-1993-envn9310082d)
+- [Décret n°93-1054 du 2 septembre 1993 (DEFP9301671D)](decret-n93-1054-du-2-septembre-1993-defp9301671d)
 - [Décret n°93-135 du 2 février 1993 (INTE9300050D)](decret-n93-135-du-2-fevrier-1993-inte9300050d)
 - [Décret n°93-138 du 2 février 1993 (MENF9204427D)](decret-n93-138-du-2-fevrier-1993-menf9204427d)
 - [Décret n°93-143 du 2 février 1993 (SPSS9300003D)](decret-n93-143-du-2-fevrier-1993-spss9300003d)
