@@ -22,4 +22,4 @@ Liberté est laissée au directeur de traiter avec des tiers l'exploitation desd
 
 5° Les legs, libéralités et fonds de concours de toute nature.
 
-6° La subvention . de fonctionnement fixée, chaque année, par la loi de finances. Cette subvention est payable par quart au début de chaque trimestre.
+6° La subvention . de fonctionnement fixée, chaque année, par la loi de finances.
