@@ -811,7 +811,6 @@
 - [Arrêté du 28 février 1990 (BUDR9005014A)](arrete-du-28-fevrier-1990-budr9005014a)
 - [Arrêté du 28 février 1990 (INDA9000161A)](arrete-du-28-fevrier-1990-inda9000161a)
 - [Arrêté du 28 février 1990 (INDA9000164A)](arrete-du-28-fevrier-1990-inda9000164a)
-- [Arrêté du 28 février 1990 (INDD9000113A)](arrete-du-28-fevrier-1990-indd9000113a)
 - [Arrêté du 28 février 1990 (LOGC8900037A)](arrete-du-28-fevrier-1990-logc8900037a)
 - [Arrêté du 28 février 1990 (LOGC9000030A)](arrete-du-28-fevrier-1990-logc9000030a)
 - [Arrêté du 28 juin 1990 (AGRH9001337A)](arrete-du-28-juin-1990-agrh9001337a)
