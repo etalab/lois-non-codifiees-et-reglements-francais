@@ -1,3 +1,9 @@
 # Article 1
 
-Les extraits de café, les extraits de chicorée, les mélanges d'extraits de café et d'extraits de chicorée ainsi que les extraits de mélange de café torréfié et de chicorée torréfiée, solides ou en pâte, lorsqu'ils sont conditionnés en emballages individuels d'un poids net de plus de 25 grammes et ne dépassant pas 10 kg sont commercialisés au détail en emballages des seuls poids nets suivants : 50, 100, 200, 250, 500, 750 grammes 1, 1,5, 2, 2,5, 3 kg et les multiples du kilogramme.
+L'addition de di-alpha-tocophérol et l'addition d'extraits d'origine naturelle riches en tocophérols obtenus par des procédés physiques sont autorisées dans les produits suivants :
+
+Matières grasses destinées uniquement aux industries de l'alimentation et vendues par quantités unitaires d'au moins un kilogramme ;
+
+Margarines.
+
+La quantité de di-alpha-tocophérol ajoutée ne doit pas dépasser 500 mg par kilogramme de matière grasse.
