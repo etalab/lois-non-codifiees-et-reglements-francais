@@ -330,6 +330,7 @@
 - [Décret n°91-166 du 12 février 1991 (AGRA9002218D)](decret-n91-166-du-12-fevrier-1991-agra9002218d)
 - [Décret n°91-167 du 12 février 1991 (AGRA9002367D)](decret-n91-167-du-12-fevrier-1991-agra9002367d)
 - [Décret n°92-233 du 12 mars 1992 (MENN9200075D)](decret-n92-233-du-12-mars-1992-menn9200075d)
+- [Décret n°47-1544 du 13 août 1947](decret-n47-1544-du-13-aout-1947)
 - [Décret n°89-502 du 13 juillet 1989 (INDD8900361D)](decret-n89-502-du-13-juillet-1989-indd8900361d)
 - [Décret n°90-1117 du 13 décembre 1990 (INTA9000336D)](decret-n90-1117-du-13-decembre-1990-inta9000336d)
 - [Décret n°90-225 du 13 mars 1990 (JUSC8920755D)](decret-n90-225-du-13-mars-1990-jusc8920755d)
