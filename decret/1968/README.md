@@ -49,7 +49,6 @@
 - [Décret n°69-448 du 20 mai 1969](decret-n69-448-du-20-mai-1969)
 - [Décret n°68-268 du 21 mars 1968](decret-n68-268-du-21-mars-1968)
 - [Décret n°68-905 du 21 octobre 1968](decret-n68-905-du-21-octobre-1968)
-- [Décret n°68-906 du 21 octobre 1968](decret-n68-906-du-21-octobre-1968)
 - [Décret n°67-1120 du 22 décembre 1967](decret-n67-1120-du-22-decembre-1967)
 - [Décret n°67-1165 du 22 décembre 1967](decret-n67-1165-du-22-decembre-1967)
 - [Décret n°68-934 du 22 octobre 1968](decret-n68-934-du-22-octobre-1968)
