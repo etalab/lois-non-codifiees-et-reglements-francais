@@ -1,0 +1,5 @@
+# Article 4
+
+Les agents non titulaires appartenant aux catégories définies en annexe disposent, pour présenter leur candidature, d'un délai de six mois à compter de la date de la publication du présent décret s'ils remplissent les conditions fixées à l'article 73 de la loi du 11 janvier 1984 susvisée ou, à défaut, à compter de la date à laquelle ils remplissent ces conditions.
+
+Un délai d'option d'une durée égale leur est ouvert, à compter de la date à laquelle ils reçoivent notification de la proposition de classement, pour accepter leur titularisation.
