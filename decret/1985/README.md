@@ -171,6 +171,7 @@
 - [Décret n°85-757 du 18 juillet 1985](decret-n85-757-du-18-juillet-1985)
 - [Décret n°85-758 du 18 juillet 1985](decret-n85-758-du-18-juillet-1985)
 - [Décret n°85-767 du 18 juillet 1985](decret-n85-767-du-18-juillet-1985)
+- [Décret n°85-984 du 18 septembre 1985](decret-n85-984-du-18-septembre-1985)
 - [Décret du 19 mars 1985](decret-du-19-mars-1985)
 - [Décret n°85-242 du 19 février 1985](decret-n85-242-du-19-fevrier-1985)
 - [Décret n°85-347 du 19 mars 1985](decret-n85-347-du-19-mars-1985)

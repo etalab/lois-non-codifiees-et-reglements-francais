@@ -53,6 +53,7 @@
 - [Arrêté du 9 août 1985](arrete-du-9-aout-1985)
 - [Arrêté du 9 avril 1985](arrete-du-9-avril-1985)
 - [Arrêté du 9 juillet 1985](arrete-du-9-juillet-1985)
+- [Arrêté du 9 septembre 1985](arrete-du-9-septembre-1985)
 - [Arrêté du 9 mai 1985](arrete-du-9-mai-1985)
 - [Arrêté du 10 avril 1985](arrete-du-10-avril-1985)
 - [Arrêté du 10 décembre 1984](arrete-du-10-decembre-1984)
