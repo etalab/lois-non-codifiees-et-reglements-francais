@@ -1,6 +1,6 @@
 # Article 5
 
-La commission est chargée d'étudier les problèmes posés par l'édition et la diffusion des publications émanant des administrations centrales, de leurs services déconcentrés et des établissements publics de l'Etat ainsi que par la rationalisation de matériels documentaires imprimés ou audiovisuels. A cet effet, elle est habilitée à demander toutes précisions sur ces publications et matériels, notamment sur leur mode d'édition, de financement et de diffusion.
+La commission [*compétence - mission*] est chargée d'étudier les problèmes posés par l'édition et la diffusion des publications émanant des administrations centrales, de leurs services déconcentrés et des établissements publics de l'Etat ainsi que par la rationalisation de matériels documentaires imprimés ou audiovisuels. A cet effet, elle est habilitée à demander toutes précisions sur ces publications et matériels, notamment sur leur mode d'édition, de financement et de diffusion.
 
 Elle tient l'inventaire permanent des publications en série réalisées par les administrations centrales, les services déconcentrés et les établissements publics de l'Etat.
 
