@@ -15,6 +15,7 @@
 - [Décret n°96-103 du 2 février 1996 (MCCB9500661D)](decret-n96-103-du-2-fevrier-1996-mccb9500661d)
 - [Décret n°96-1038 du 2 décembre 1996 (EQUM9602082D)](decret-n96-1038-du-2-decembre-1996-equm9602082d)
 - [Décret n°96-1040 du 2 décembre 1996 (FPPA9610031D)](decret-n96-1040-du-2-decembre-1996-fppa9610031d)
+- [Décret n°96-1041 du 2 décembre 1996 (TASP9623861D)](decret-n96-1041-du-2-decembre-1996-tasp9623861d)
 - [Décret n°96-285 du 2 avril 1996 (MIPP9600050D)](decret-n96-285-du-2-avril-1996-mipp9600050d)
 - [Décret n°96-287 du 2 avril 1996 (JUSE9640017D)](decret-n96-287-du-2-avril-1996-juse9640017d)
 - [Décret n°96-292 du 2 avril 1996 (JUSC9620100D)](decret-n96-292-du-2-avril-1996-jusc9620100d)
