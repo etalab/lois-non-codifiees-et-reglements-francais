@@ -45,7 +45,6 @@
 - [Décret n°67-1169 du 22 décembre 1967](decret-n67-1169-du-22-decembre-1967)
 - [Décret n°67-1231 du 22 décembre 1967](decret-n67-1231-du-22-decembre-1967)
 - [Décret n°67-1232 du 22 décembre 1967](decret-n67-1232-du-22-decembre-1967)
-- [Décret n°67-1243 du 22 décembre 1967](decret-n67-1243-du-22-decembre-1967)
 - [Décret n°67-236 du 23 mars 1967](decret-n67-236-du-23-mars-1967)
 - [Décret n°67-237 du 23 mars 1967](decret-n67-237-du-23-mars-1967)
 - [Décret n°67-259 du 23 mars 1967](decret-n67-259-du-23-mars-1967)
