@@ -28,4 +28,4 @@ Une nouvelle bonification indiciaire, dont le montant est pris en compte et soum
 
 11° Assistants socio-éducatifs du secteur sanitaire exerçant dans les conditions énoncées au 9° de l'article 4 du décret n° 94-140 du 14 février 1994 susvisé : 13 points majorés ;
 
-12° Directeurs des établissements sociaux ou médico-sociaux relevant du décret n° 94-948 du 28 octobre 1994 portant statut particulier des personnels de direction des établissements mentionnés à l'article 2 (4°, 5° et 6°) de la loi n° 86-33 du 9 janvier 1986 modifiée susvisée qui exécutent, soit en qualité de coordonnateurs d'établissements autonomes, soit par délégation, au moins trois budgets différents entraînant des résultats séparés avec des affectations distinctes de ces résultats : 20 points majorés.
+12° (abrogé)

@@ -1,0 +1,3 @@
+# Article 5
+
+Pour l'accès aux cadres d'emplois pour lesquels l'organisation des concours relève des centres de gestion ou des collectivités non affiliées, la commission mentionnée à l'article 3 est placée auprès du centre de gestion du département où se situe le chef-lieu de la région dans le ressort géographique de laquelle sont organisés les concours. Ce centre de gestion assure le secrétariat de la commission. Toutefois, ce secrétariat peut être confié par voie de convention à un autre centre de gestion de la région. Pour la région Ile-de-France, la commission est placée alternativement, une année sur deux, auprès de chacun des centres interdépartementaux de gestion.
