@@ -1,0 +1,3 @@
+# Article 29
+
+Les maires, adjoints, commissaires et inspecteurs de police feront dans leurs arrondissements respectifs, et plusieurs fois dans l'année, des visites dans les boutiques et magasins, dans les places publiques, foires et marchés, à l'effet de s'assurer de l'exactitude et du fidèle usage des poids et mesures. Ils surveilleront les bureaux publics de pesage et de mesurage dépendant de l'administration municipale. Ils s'assureront que les poids et mesures portent les marques et poinçons de vérification, et que, depuis la vérification constatée par ces marques, ces instruments n'ont point souffert de variations, soit accidentelles, soit frauduleuses.
