@@ -2,7 +2,7 @@
 
 Pour les personnels appartenant à des corps de catégories A et B, les délégations prévues à l'article 1er ne peuvent porter sur :
 
-1° Le recrutement, à l'exception de l'organisation matérielle des concours de catégorie B ;
+1° Le recrutement, pour les corps de catégorie A ;
 
 2° La nomination ;
 
@@ -20,7 +20,7 @@ Pour les personnels appartenant à des corps de catégories A et B, les déléga
 
 9° La disponibilité prévue aux articles 44, 45 et 46 du décret n° 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires de l'Etat et à certaines modalités de cessation définitive de fonctions ;
 
-10° La réintégration, à l'issue du détachement, des disponibilités mentionnées ci-dessus, de la mise en position hors cadres et de la mise à disposition ;
+10° La réintégration, à l'issue du détachement, des disponibiltés mentionnées ci-dessus, de la mise en position hors cadres et de la mise à disposition ;
 
 11° Les sanctions disciplinaires des deuxième, troisième et quatrième groupes ;
 
