@@ -1,0 +1,3 @@
+# Article 3
+
+Lorsque des dispositions législatives ou réglementaires spécifiques au transport de voyageurs modifient les relations financières entre le Syndicat des transports d'Ile-de-France et les entreprises publiques de transport et ont une incidence annuelle supérieure à 1,5 % de la contribution de la région d'Ile-de-France résultant de l'application de l'article 1er de l'ordonnance du 7 janvier 1959 susvisée, la compensation instituée à l'article 1er fait l'objet d'une révision. Un arrêté des ministres chargés des transports et du budget fixe le nouveau montant de cette compensation. Cette révision est prise en compte au plus tard au cours du plus prochain exercice.

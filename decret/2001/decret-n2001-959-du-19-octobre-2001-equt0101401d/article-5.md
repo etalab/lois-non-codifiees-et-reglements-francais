@@ -1,0 +1,3 @@
+# Article 5
+
+En application du troisième alinéa de l'article 1er-2 de l'ordonnance du 7 janvier 1959 susvisée, le ministre chargé des transports établit, conjointement avec les ministres chargés du budget et de l'intérieur, ainsi qu'avec la région d'Ile-de-France, avant la fin du premier semestre 2004, un rapport au Premier ministre établissant un bilan de l'application des dispositions du présent décret. Ce bilan comparera notamment les versements de la région d'Ile-de-France au Syndicat des transports d'Ile-de-France et les compensations prévues par le présent décret ainsi que, le cas échéant, les modifications du niveau de la compensation effectuées en application de l'article 3 du présent décret.

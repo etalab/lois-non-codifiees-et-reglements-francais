@@ -163,6 +163,7 @@
 - [Décret n°2001-876 du 19 septembre 2001 (MESH0122576D)](decret-n2001-876-du-19-septembre-2001-mesh0122576d)
 - [Décret n°2001-877 du 19 septembre 2001 (MESH0122575D)](decret-n2001-877-du-19-septembre-2001-mesh0122575d)
 - [Décret n°2001-951 du 19 octobre 2001 (JUSC0120593D)](decret-n2001-951-du-19-octobre-2001-jusc0120593d)
+- [Décret n°2001-959 du 19 octobre 2001 (EQUT0101401D)](decret-n2001-959-du-19-octobre-2001-equt0101401d)
 - [Décret n°2001-655 du 20 juillet 2001 (ECOT0126287D)](decret-n2001-655-du-20-juillet-2001-ecot0126287d)
 - [Décret n°2001-656 du 20 juillet 2001 (MESH0122428D)](decret-n2001-656-du-20-juillet-2001-mesh0122428d)
 - [Décret n°2001-667 du 20 juillet 2001 (MENF0101340D)](decret-n2001-667-du-20-juillet-2001-menf0101340d)
