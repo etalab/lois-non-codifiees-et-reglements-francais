@@ -18,4 +18,14 @@ Le conseil d'administration a pour attributions, sous réserve des approbations 
 
 8° L'approbation des prises de participation dans d'autres entreprises dans les conditions prévues par l'ordonnance du 16 janvier 1945.
 
+9° La définition des moyens nécessaires à l'exercice du mandat de ses membres et la fixation des conditions d'accès de ces derniers dans les établissements de la régie ainsi que du programme de formation de ses membres représentants des salariés, conformément aux articles 9 et 27 de la loi du 26 juillet 1983 susmentionnée ;
+
+10° Le cas échéant l'approbation du plan de formation dans les conditions prévues à l'article L. 432-3 du code du travail ;
+
+11° La fixation des modalités de consultation des institutions représentatives du personnel sur les plans établis par la régie en vue de la conclusion d'un contrat de plan élaboré en application de la loi n° 82-653 du 29 juillet 1982 portant réforme de la planification ;
+
+12° La fixation des modalités d'exercice de la liberté d'expression des salariés notamment par la liberté d'affichage dans les conditions prévues par l'article 37 de la loi du 26 juillet 1983 susmentionnée.
+
+En outre aucune décision relative aux grandes orientations stratégiques, économiques, financières ou technologiques de l'entreprise, notamment sur le contrat de plan, ne peut intervenir sans que le conseil d'administration en ait préalablement délibéré.
+
 En cas de conflit avec le conseil, le président directeur général saisit de l'affaire le ministre de la production industrielle, qui statue, après avis, s'il y a lieu, du ministre de l'économie nationale ou du ministre des finances.
