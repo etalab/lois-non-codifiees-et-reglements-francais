@@ -1,0 +1,5 @@
+# Article 6
+
+S'agissant des lauréats des concours réservés d'accès au corps des techniciens supérieurs de la météorologie, les dispositions applicables en matière de stage, de sanction de stage, de titularisation et de classement sont celles fixées par le statut du corps d'accueil pour les agents non titulaires.
+
+S'agissant des lauréats des concours réservés d'accès au corps des ingénieurs des travaux de la météorologie, les dispositions applicables en matière de stage, de sanction du stage, de titularisation et de classement sont celles applicables aux lauréats du concours spécial prévu au 2° de l'article 8 du décret du 5 mars 1965 susvisé. Toutefois, les lauréats des concours réservés d'accès au corps des ingénieurs des travaux de la météorologie, qui exercent les fonctions dévolues aux membres de ce corps et qui sont titulaires d'un titre ou diplôme sanctionnant un troisième cycle d'études universitaires délivré dans le domaine des sciences, sont dispensés de la scolarité à l'Ecole nationale de la météorologie et accomplissent un stage d'une durée de deux ans dans le service de Météo-France dans lequel ils sont affectés.

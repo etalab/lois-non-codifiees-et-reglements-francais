@@ -1,9 +1,11 @@
 # Article 4
 
-La durée totale des stages pratiques est au moins égale à six mois. Les élèves de l'Institut national du patrimoine doivent effectuer trois stages :
+La durée totale des stages pratiques est au moins égale à 8 mois.
 
-- un stage administratif, dans des administrations culturelles ;
+Les conservateurs stagiaires de l'Institut national du patrimoine doivent effectuer 4 stages :
 
-- un stage patrimonial, dans des institutions patrimoniales. Ce stage se déroule en partie dans un service correspondant à la spécialité choisie par le conservateur stagiaire pendant sa scolarité à l'Institut national du patrimoine, en partie dans un service correspondant à l'une des autres spécialités des conservateurs du patrimoine ;
+- un stage administratif dans un service d'administration culturelle française,
 
-- un stage à l'étranger.
+- deux stages patrimoniaux dans des institutions patrimoniales, l'un dans un service correspondant à la spécialité du conservateur stagiaire, l'autre dans un service correspondant à l'une des autres spécialités des conservateurs du patrimoine,
+
+- un stage à l'étranger dans une institution ou un service patrimonial correspondant à la spécialité du conservateur stagiaire.
