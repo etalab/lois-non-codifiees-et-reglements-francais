@@ -1,6 +1,6 @@
 # Article 15
 
-Les médecins conseils régionaux adjoints sont nommés par le directeur de la caisse nationale de l'assurance maladie, sur proposition du médecin conseil national. Ils sont choisis sur une liste de trois noms établie lors de chaque vacance de poste par le haut comité médical de la sécurité sociale après examen des dossiers individuels des candidats.
+Les médecins conseils régionaux adjoints sont nommés par le directeur de la caisse nationale de l'assurance maladie, sur proposition du médecin conseil national. Ils sont choisis sur une liste de trois noms établie lors de chaque vacance de poste par le haut comité médical de la sécurité sociale après examen des dossiers individuels des candidats. Les médecins conseils régionaux peuvent être mutés sur demande ou dans l'intérêt du service par le directeur de la caisse nationale, sur proposition du médecin conseil national.
 
 L'établissement de cette liste doit être précédé d'une publication effectuée auprès des médecins conseils régionaux adjoints et des médecins conseils chefs de service en activité ou en position de détachement.
 
