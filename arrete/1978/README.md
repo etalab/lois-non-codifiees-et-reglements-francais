@@ -22,6 +22,7 @@
 - [Arrêté du 14 mars 1978](arrete-du-14-mars-1978)
 - [Arrêté du 15 décembre 1977](arrete-du-15-decembre-1977)
 - [Arrêté du 15 février 1978](arrete-du-15-fevrier-1978)
+- [Arrêté du 15 juin 1978](arrete-du-15-juin-1978)
 - [Arrêté du 15 mars 1978](arrete-du-15-mars-1978)
 - [Arrêté du 16 juin 1975](arrete-du-16-juin-1975)
 - [Arrêté du 16 mars 1978](arrete-du-16-mars-1978)
