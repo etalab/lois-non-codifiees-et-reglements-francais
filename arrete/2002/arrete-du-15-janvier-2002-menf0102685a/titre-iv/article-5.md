@@ -11,3 +11,15 @@ c) Pour le samedi après-midi, le dimanche ou le jour férié travaillé, un coe
 d) Pour les interventions de nuit, un coefficient multiplicateur de 1,5 est appliqué ; soit 1 heure 30 minutes pour une heure effective.
 
 Par ailleurs, lorsqu'un travail est exercé en dépassement du plafond hebdomadaire prévu par le cycle de travail, au cours de périodes correspondant à des pics d'activité exceptionnels identifiés dans ledit cycle, un coefficient multiplicateur de 1,1 est appliqué ; soit 1 heure 6 minutes pour une heure effective.
+
+Les majorations pour sujétions de travail en horaires décalés ou pour travail exceptionnel de nuit prévues au b et au c ci-dessus ne sont pas applicables aux veilleurs de nuit.
+
+Compte tenu de l'organisation particulière des centres régionaux des oeuvres universitaires et scolaires et de l'organisation de leurs permanences sur l'ensemble des jours de l'année, les sujétions de travail des personnels ouvriers qui y sont affectés donnent lieu à majoration des heures travaillées au moyen d'un coefficient multiplicateur selon les modalités suivantes :
+
+- pour le dimanche, un coefficient multiplicateur de 2 est appliqué ;
+
+- pour le jour férié, un coefficient multiplicateur de 3 est appliqué ;
+
+- le travail le samedi n'est pas majoré.
+
+Ces coefficients ne sont pas cumulables.
