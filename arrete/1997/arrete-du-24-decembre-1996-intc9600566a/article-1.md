@@ -8,6 +8,8 @@ Au titre de la direction générale de la police nationale :
 
 - le préfet, secrétaire général pour l'administration de la police de Paris, ou son représentant ;
 
+- le directeur des transmissions et de l'informatique ou son représentant ;
+
 - le directeur central de la sécurité publique ou son représentant ;
 
 - le chef du service central des compagnies républicaines de sécurité ;
