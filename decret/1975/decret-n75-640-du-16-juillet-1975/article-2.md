@@ -8,4 +8,4 @@ De contribuer à l'information sur les problèmes de l'adoption et de l'enfance,
 
 De proposer toute mesure de nature à améliorer la formation de toutes les personnes susceptibles de prendre des mesures à l'égard des enfants abandonnés ou délaissés, notamment en faisant des propositions quant aux programmes de formation.
 
-Dans le cadre des missions ci-dessus définies, il donne des avis sur toutes les questions relatives à l'adoption qui lui sont soumises par le garde des sceaux, ministre de la justice, ou par le ministre de la santé.
+Dans le cadre de missions ci-dessus définies, il donne des avis sur toutes les questions relatives à l'adoption qui lui sont soumises par le garde des sceaux, ministre de la justice, ou par le ministre chargé de la famille.
