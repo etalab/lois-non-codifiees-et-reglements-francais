@@ -1,0 +1,3 @@
+# Article 20
+
+Pour les personnels de maîtrise en fonctions à la date d'application du présent décret et par dérogation aux dispositions de l'article 14 ci-dessus, le temps passé dans le 3e échelon des grades de prote ou de chef du service des installations est fixé à deux ans de services effectifs à condition que les intéressés totalisent, soit vingt-cinq années de services valables ou validables pour la retraite, soit, s'ils ont accompli les cinq années de pratique professionnelle exigées à l'article 5 ci-dessus des candidats au concours de sous-prote, vingt années de services valables ou validables pour la retraite.
