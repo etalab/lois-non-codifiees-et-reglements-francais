@@ -8,7 +8,7 @@ Canalisations électriques enterrées
 
 Le dispositif avertisseur n'est pas exigé si le câble est placé dans un fourreau posé en sous-oeuvre.
 
-§ 3. - Pour éviter d'endommager les câbles ou canalisations voisins lors d'interventions, une distance minimale de 0,20 mètre doit être respectée au croisement de deux canalisations électriques enterrées et au croisement d'une canalisation électrique enterrée et d'un câble de télécommunications.
+§ 3. Pour éviter d'endommager les câbles ou canalisations voisins lors d'interventions, une distance minimale de 0,20 mètre doit être respectée au croisement de deux canalisations électriques enterrées et au croisement d'une canalisation électrique enterrée et d'un câble de télécommunications.
 
 Au voisinage, sans croisement, d'une canalisation électrique enterrée, doit être respectée une distance de :
 
@@ -16,6 +16,10 @@ Au voisinage, sans croisement, d'une canalisation électrique enterrée, doit ê
 
 0,20 mètre par rapport à un câble de télécommunications sous fourreau.
 
-Au voisinage, avec ou sans croisement, d'une canalisation électrique enterrée et d'une conduite d'eau, d'hydrocarbure, de gaz, d'air comprimé ou de vapeur, une distance minimale de 0,20 mètre doit être respectée.
+Lorsque l'installation électrique est du domaine de tension BT ou HTA, les distances minimales entre un câble électrique et un câble ou une canalisation de télécommunications peuvent être réduites à 0,05 mètre entre génératrices extérieures, qu'il s'agisse de parcours parallèles ou de croisement.
+
+En zone urbanisée les câbles doivent, en cas de rapprochement, être séparés par un dispositif donnant une protection suffisante contre le choc des outils métalliques à main.
+
+§ 4. Au voisinage, avec ou sans croisement, d'une canalisation électrique enterrée et d'une conduite d'eau, d'hydrocarbure, de gaz, d'air comprimé ou de vapeur, une distance minimale de 0,20 mètre doit être respectée.
 
 Ces distances peuvent être réduites à condition que les installations soient séparées par un dispositif donnant une protection suffisante contre le choc des outils métalliques à main.
