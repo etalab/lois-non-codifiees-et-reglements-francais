@@ -38,6 +38,7 @@
 - [Décret n°69-667 du 14 juin 1969](decret-n69-667-du-14-juin-1969)
 - [Décret n°69-672 du 14 juin 1969](decret-n69-672-du-14-juin-1969)
 - [Décret n°69-930 du 14 octobre 1969](decret-n69-930-du-14-octobre-1969)
+- [Décret n°69-942 du 14 octobre 1969](decret-n69-942-du-14-octobre-1969)
 - [Décret n°69-190 du 15 février 1969](decret-n69-190-du-15-fevrier-1969)
 - [Décret n°69-195 du 15 février 1969](decret-n69-195-du-15-fevrier-1969)
 - [Décret n°69-196 du 15 février 1969](decret-n69-196-du-15-fevrier-1969)
