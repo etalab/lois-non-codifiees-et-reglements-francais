@@ -1,0 +1,3 @@
+# Article 3
+
+Le ministre de l'intérieur, le ministre de l'industrie et de l'aménagement du territoire, le ministre de l'équipement, du logement, des transports et de la mer, le ministre de l'agriculture et de la forêt, le secrétaire d'Etat auprès du Premier ministre, chargé de l'environnement et de la prévention des risques technologiques et naturels majeurs, le secrétaire d'Etat auprès du ministre de l'intérieur, chargé des collectivités territoriales, et le secrétaire d'Etat auprès du ministre de l'équipement, du logement, des transports et de la mer, chargé des transports routiers et fluviaux, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
