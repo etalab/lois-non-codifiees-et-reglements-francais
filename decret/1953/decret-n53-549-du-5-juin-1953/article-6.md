@@ -1,6 +1,6 @@
 # Article 6
 
-La médaille d'honneur en or ne peut en principe être décernée qu'aux titulaires de la médaille de vermeil. La médaille d'hon­neur en vermeil ne peut en principe être décernée qu'aux titu­laires de la médaille d'argent.
+La médaille d'or ne peut en principe être décernée qu'aux titulaires de la médaille de vermeil. La médaille de vermeil ne peut en principe être décernée qu'aux titu­laires de la médaille d'argent.
 
 Toutefois, la médaille d'honneur (argent, vermeil ou or selon le cas) peut être attribuée, sans considération de durée de services, aux agents et ouvriers :
 
