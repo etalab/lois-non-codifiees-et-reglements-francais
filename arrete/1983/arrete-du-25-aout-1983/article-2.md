@@ -1,6 +1,6 @@
 # Article 2
 
-Cette commission comprend :
+Cette commission comprend [*composition*] :
 
 Des membres de droit ;
 
