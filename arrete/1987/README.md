@@ -566,7 +566,6 @@
 - [Arrêté du 27 août 1987 (ASEH8701222A)](arrete-du-27-aout-1987-aseh8701222a)
 - [Arrêté du 27 août 1987 (ECOC8700033A)](arrete-du-27-aout-1987-ecoc8700033a)
 - [Arrêté du 27 avril 1987 (INTB8700144A)](arrete-du-27-avril-1987-intb8700144a)
-- [Arrêté du 27 avril 1987 (PTTC8700258A)](arrete-du-27-avril-1987-pttc8700258a)
 - [Arrêté du 27 février 1987](arrete-du-27-fevrier-1987)
 - [Arrêté du 27 février 1987 (ASES8700428A)](arrete-du-27-fevrier-1987-ases8700428a)
 - [Arrêté du 27 février 1987 (ASES8700430A)](arrete-du-27-fevrier-1987-ases8700430a)

@@ -977,7 +977,6 @@
 - [Arrêté du 25 mai 1993 (DEFA9301780A)](arrete-du-25-mai-1993-defa9301780a)
 - [Arrêté du 25 mai 1993 (EQUS9300878A)](arrete-du-25-mai-1993-equs9300878a)
 - [Arrêté du 26 août 1992 (SANH9202232A)](arrete-du-26-aout-1992-sanh9202232a)
-- [Arrêté du 26 août 1993 (AGRB9301343A)](arrete-du-26-aout-1993-agrb9301343a)
 - [Arrêté du 26 août 1993 (AGRS9301623A)](arrete-du-26-aout-1993-agrs9301623a)
 - [Arrêté du 26 août 1993 (DEFD9301860A)](arrete-du-26-aout-1993-defd9301860a)
 - [Arrêté du 26 août 1993 (ECOC9300116A)](arrete-du-26-aout-1993-ecoc9300116a)
