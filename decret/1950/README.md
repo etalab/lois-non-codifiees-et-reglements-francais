@@ -18,7 +18,6 @@
 - [Décret n°50-1026 du 18 août 1950](decret-n50-1026-du-18-aout-1950)
 - [Décret n°50-342 du 18 mars 1950](decret-n50-342-du-18-mars-1950)
 - [Décret n°50-1555 du 19 décembre 1950](decret-n50-1555-du-19-decembre-1950)
-- [Décret n°50-446 du 19 avril 1950](decret-n50-446-du-19-avril-1950)
 - [Décret n° 50-93 du 20 janvier 1950](decret-n-50-93-du-20-janvier-1950)
 - [Décret n°50-133 du 20 janvier 1950](decret-n50-133-du-20-janvier-1950)
 - [Décret n°50-444 du 20 avril 1950](decret-n50-444-du-20-avril-1950)
