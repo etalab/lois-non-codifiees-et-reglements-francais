@@ -1,0 +1,3 @@
+# Article 3
+
+Les médecins, pharmaciens et chirurgiens-dentistes recrutés par les établissements de santé privés participant au service public hospitalier et l'établissement français du sang en application des articles 60 et 61 de la loi n° 99-641 du 27 juillet 1999 portant création d'une couverture maladie universelle exercent au sein de ces établissements des fonctions de diagnostic, de traitement, de soins et de prévention, ou assurent des actes pharmaceutiques, sous l'autorité du praticien responsable du service où ils sont affectés ; ce praticien doit remplir les conditions d'exercice fixées par les articles L. 356 ou L. 514 et L. 514-1 du code de la santé publique.
