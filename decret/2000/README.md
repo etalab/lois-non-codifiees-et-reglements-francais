@@ -153,6 +153,7 @@
 - [Décret n°2000-39 du 17 janvier 2000 (EQUS9901554D)](decret-n2000-39-du-17-janvier-2000-equs9901554d)
 - [Décret n°2000-40 du 17 janvier 2000 (MESG9923595D)](decret-n2000-40-du-17-janvier-2000-mesg9923595d)
 - [Décret n°2000-41 du 17 janvier 2000 (MESG9923596D)](decret-n2000-41-du-17-janvier-2000-mesg9923596d)
+- [Décret n°97-35 du 17 janvier 1997 (DEFD9602226D)](decret-n97-35-du-17-janvier-1997-defd9602226d)
 - [Décret n°2001-432 du 17 mai 2001 (INTC0100103D)](decret-n2001-432-du-17-mai-2001-intc0100103d)
 - [Décret n°2000-136 du 18 février 2000 (EQUP0000195D)](decret-n2000-136-du-18-fevrier-2000-equp0000195d)
 - [Décret n°2000-137 du 18 février 2000 (EQUM0000019D)](decret-n2000-137-du-18-fevrier-2000-equm0000019d)
