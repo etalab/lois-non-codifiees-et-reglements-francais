@@ -8,6 +8,6 @@ L'inspection des installations classées vérifie la déclaration en demandant �
 
 Au cas où elle n'obtient pas des explications et des justifications satisfaisantes, elle peut procéder au calcul du montant de la taxe due sur la base d'estimations dressées en fonction des facteurs d'émission publiés par le ministère chargé de l'environnement et des paramètres caractéristiques de l'installation ou de son activité.
 
-Elle transmet, après vérification, la déclaration à l'Agence pour la qualité de l'air.
+Elle transmet, après vérification, la déclaration à l'Agence de l'environnement et de la maitrise de l'énergie.
 
-Le montant des taxes dues au titre des émissions de polluants de l'année civile écoulée doit être versé à l'Agence pour la qualité de l'air avant le 15 avril. Toutefois, la taxe n'est pas perçue si son montant, avant déduction éventuelle, est inférieur à 1 000 F.
+Le montant des taxes dues au titre des émissions de polluants de l'année civile écoulée doit être versé à l'Agence de l'environnement et de la maitrise de l'énergie avant le 15 avril. Toutefois, la taxe n'est pas perçue si son montant, avant déduction éventuelle, est inférieur à 1 000 F.

@@ -12,7 +12,7 @@ Il est constitué un comité de gestion de la taxe qui comprend :
 
 - le ministre chargé des collectivités territoriales ou son représentant ;
 
-- le président du conseil d'administration de l'Agence pour la qualité de l'air ou son représentant ;
+- le président du conseil d'administration de l'Agence de l'environnement et de la maitrise de l'énergie ou son  représentant ;
 
 - cinq membres représentant les personnes mentionnées à l'article 2, nommés par arrêté conjoint du ministre chargé de l'environnement et des ministres chargés de l'industrie, de l'énergie et des collectivités territoriales ;
 
