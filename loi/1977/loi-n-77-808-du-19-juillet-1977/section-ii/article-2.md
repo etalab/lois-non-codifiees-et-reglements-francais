@@ -8,4 +8,6 @@ Le nom et la qualité de l'acheteur du sondage ;
 
 Le nombre des personnes interrogées ;
 
-La ou les dates auxquelles il a été procédé aux interrogations.
+La ou les dates auxquelles il a été procédé aux interrogations ;
+
+Une mention indiquant le droit de toute personne à consulter la notice prévue par l'article 3.
