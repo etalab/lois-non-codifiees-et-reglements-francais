@@ -10,6 +10,8 @@ Les prix sont fixes pour la durée du contrat.
 
 Sont prises en considération pour le calcul du prix les charges fixes résultant de la mise à disposition du ou des bateaux utilisés et de l'équipage ainsi que les charges variables liées à l'exécution des transports. Le prix n'est pas exprimé en fonction du tonnage transporté.
 
+Le prix du transport initialement convenu est révisé en cas de variations significatives des charges de l'entreprise de transport, qui tiennent à des conditions extérieures à cette dernière, tel notamment le prix des carburants, et dont la partie demanderesse justifie par tous moyens.
+
 Les prestations supplémentaires ou annexes, les péages et redevances maritimes ainsi que la prime d'assurance responsabilité du transporteur s'ajoutent à ce fret principal.
 
 Les modalités exactes du calcul du prix, le débiteur et l'unité de temps prise en compte pour les règlements sont indiqués au plus tard au moment de la conclusion du contrat.

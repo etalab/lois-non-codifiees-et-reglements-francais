@@ -10,6 +10,8 @@ Les prix sont fixes pour la durée du contrat.
 
 Sont pris en considération pour le calcul du prix du transport proprement dit le poids, le volume, la nature de la marchandise, la distance sur laquelle elle est déplacée, le type de bateau utilisé et, éventuellement, les caractéristiques des voies empruntées. Les péages et taxes portuaires s'ajoutent à ce fret principal.
 
+Le prix du transport initialement convenu est révisé en cas de variations significatives des charges de l'entreprise de transport, qui tiennent à des conditions extérieures à cette dernière, tel notamment le prix des carburants, et dont la partie demanderesse justifie par tous moyens.
+
 Tout changement d'itinéraire demandé par le donneur d'ordre ou imposé par les circonstances auxquelles l'entrepreneur de transport est étranger donne lieu à un réajustement équitable du prix conforme aux dispositions de l'article 4.
 
 En contrepartie de la perception du prix du transport tel que défini au présent article, l'entrepreneur de transport n'est tenu qu'à la fourniture du bateau et au transport de la marchandise entre les ports désignés, à l'exclusion de toute prestation supplémentaire ou annexe, et à l'intérieur de l'amplitude horaire de navigation fixée par les règlements particuliers de police des voies empruntées et des horaires de travail fixés par le règlement des installations de chargement et de déchargement.
