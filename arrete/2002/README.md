@@ -712,7 +712,6 @@
 - [Arrêté du 25 mars 2002 (MCCB0200117A)](arrete-du-25-mars-2002-mccb0200117a)
 - [Arrêté du 25 mars 2002 (MCCB0200118A)](arrete-du-25-mars-2002-mccb0200118a)
 - [Arrêté du 25 mars 2002 (PRMX0205453A)](arrete-du-25-mars-2002-prmx0205453a)
-- [Arrêté du 25 mars 2002 (PRMX0205455A)](arrete-du-25-mars-2002-prmx0205455a)
 - [Arrêté du 25 novembre 2002 (AGRA0200095A)](arrete-du-25-novembre-2002-agra0200095a)
 - [Arrêté du 25 novembre 2002 (AGRA0200097A)](arrete-du-25-novembre-2002-agra0200097a)
 - [Arrêté du 25 novembre 2002 (AGRA0200098A)](arrete-du-25-novembre-2002-agra0200098a)
