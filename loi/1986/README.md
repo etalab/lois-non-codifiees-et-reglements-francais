@@ -8,4 +8,5 @@
 - [Loi n° 86-16 du 6 janvier 1986](loi-n-86-16-du-6-janvier-1986)
 - [Loi n° 86-33 du 9 janvier 1986](loi-n-86-33-du-9-janvier-1986)
 - [Loi n° 86-824 du 11 juillet 1986](loi-n-86-824-du-11-juillet-1986)
+- [Loi n° 86-825 du 11 juillet 1986](loi-n-86-825-du-11-juillet-1986)
 - [Loi n°86-19 du 6 janvier 1986](loi-n86-19-du-6-janvier-1986)
