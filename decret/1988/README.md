@@ -29,6 +29,7 @@
 - [Décret n°88-792 du 22 juin 1988 (ASES8800859D)](decret-n88-792-du-22-juin-1988-ases8800859d)
 - [Décret n°88-793 du 22 juin 1988 (EQUC8800539D)](decret-n88-793-du-22-juin-1988-equc8800539d)
 - [Décret n°88-795 du 22 juin 1988 (SPSS8800872D)](decret-n88-795-du-22-juin-1988-spss8800872d)
+- [Décret n°88-797 du 22 juin 1988 (TRST8800301D)](decret-n88-797-du-22-juin-1988-trst8800301d)
 - [Décret n°87-361 du 27 mai 1987 (AGRS8700949D)](decret-n87-361-du-27-mai-1987-agrs8700949d)
 - [Décret n°88-794 du 29 juin 1988 (ASEX8800086D)](decret-n88-794-du-29-juin-1988-asex8800086d)
 - [Décret n°88-901 du 30 août 1988 (SPSS8801058D)](decret-n88-901-du-30-aout-1988-spss8801058d)
