@@ -1,11 +1,11 @@
 # Article 22
 
-Les candidats au brevet national de moniteur de secourisme doivent :
+Tout candidat au brevet national de moniteur de secourisme doit :
 
-Etre titulaires de la spécialisation ranimation ;
+- posséder depuis un an au moins le brevet national des premiers secours ;
 
-Etre âgés de dix-huit ans au moins ;
+- être titulaire du certificat de formation aux activités de premiers secours en équipe ;
 
-Etre reconnus aptes par un des médecins participant aux travaux du jury ;
+- être âgé de dix-huit ans ;
 
-Etre titulaires depuis un an au moins du brevet national de secourisme ou justifier de l'appartenance à une des catégories déterminées par un arrêté conjoint du ministre de l'intérieur et du ministre de la santé en vue de la dispense du stage probatoire d'un an [*durée*].
+- être reconnu médicalement apte à l'enseignement.
