@@ -1,3 +1,3 @@
 # Article 6
 
-Peuvent se présenter à un second concours les candidats qui sont soit professeurs techniques adjoints ou chefs de travaux pratiques du cadre de l'Ecole nationale supérieure d'arts et métiers, soit professeurs certifiés, soit professeurs de lycée professionnel de deuxième grade. Ils doivent en outre, au 1er janvier de l'année du concours [*date de référence*] , justifier de six ans [*durée*] d'exercice à temps complet dans des établissements d'enseignement supérieur relavant du ministre chargé de l'enseignement supérieur et être en fonctions, à la même date, dans l'un de ces établissements.
+Peuvent se présenter à un second concours les fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent justifiant, au 1er janvier de l'année du concours, de cinq années de services publics et d'un des titres ou diplômes requis pour se présenter au premier concours prévu à l'article 5 ci-dessus.
