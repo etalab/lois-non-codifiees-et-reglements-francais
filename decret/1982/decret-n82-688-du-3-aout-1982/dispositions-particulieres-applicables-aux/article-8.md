@@ -1,0 +1,3 @@
+# Article 8
+
+Le présent décret ne sera applicable aux départements d'outre-mer qu'à compter de l'entrée en vigueur des décrets en Conseil d'Etat pris sur le rapport du secrétaire d'Etat auprès du ministre d'Etat, ministre de l'intérieur et de la décentralisation, chargé des départements et territoires d'outre-mer et du ministre de l'agriculture fixant les règles particulières d'adaptation des dispositions ci-dessus aux chambres d'agriculture desdits départements. Jusqu'à l'entrée en vigueur desdits décrets, les textes applicables aux chambres d'agriculture des départements d'outre-mer, antérieurement à l'entrée en vigueur du présent décret continueront de s'appliquer à ces établissements.
