@@ -1,3 +1,3 @@
 # 1898
 
-- [Loi du 15 février 1898](loi-du-15-fevrier-1898)
+- [Loi du 17 mars 1898](loi-du-17-mars-1898)
