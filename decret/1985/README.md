@@ -79,7 +79,6 @@
 - [Décret n°85-1108 du 15 octobre 1985](decret-n85-1108-du-15-octobre-1985)
 - [Décret n°85-1294 du 15 décembre 1985](decret-n85-1294-du-15-decembre-1985)
 - [Décret n°85-220 du 15 février 1985](decret-n85-220-du-15-fevrier-1985)
-- [Décret n°85-1115 du 16 octobre 1985](decret-n85-1115-du-16-octobre-1985)
 - [Décret n°85-1343 du 16 décembre 1985](decret-n85-1343-du-16-decembre-1985)
 - [Décret n°85-1344 du 16 décembre 1985](decret-n85-1344-du-16-decembre-1985)
 - [Décret n°85-891 du 16 août 1985](decret-n85-891-du-16-aout-1985)

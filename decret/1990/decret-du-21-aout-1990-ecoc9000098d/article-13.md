@@ -1,3 +1,0 @@
-# Article 13
-
-Les vins mousseux bénéficiant de l'appellation d'origine contrôlée "Blanquette de Limoux", élaborés avec les vins de base des récoltes 1988 ou 1989, peuvent être admis au bénéfice de l'appellation d'origine contrôlée "Crémant de Limoux" s'ils obtiennent dans un délai de trois mois, à partir de la date de publication du présent décret, le certificat d'agrément prévu à l'article 10 ci-dessus. Les vins détenus par les marchands en gros seront soumis à la même procédure mais, dans ce cas, les prélèvements d'échantillons seront effectués par les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes.

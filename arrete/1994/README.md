@@ -320,7 +320,6 @@
 - [Arrêté du 9 mai 1994 (ECOS9450013A)](arrete-du-9-mai-1994-ecos9450013a)
 - [Arrêté du 9 mai 1994 (ENVN9430087A)](arrete-du-9-mai-1994-envn9430087a)
 - [Arrêté du 9 mai 1994 (INDE9400119A)](arrete-du-9-mai-1994-inde9400119a)
-- [Arrêté du 9 mai 1994 (INDP9400540A)](arrete-du-9-mai-1994-indp9400540a)
 - [Arrêté du 9 mai 1994 (SANP9401445A)](arrete-du-9-mai-1994-sanp9401445a)
 - [Arrêté du 9 mai 1995 (BUDP9400355A)](arrete-du-9-mai-1995-budp9400355a)
 - [Arrêté du 9 mai 1995 (ECOP9400351A)](arrete-du-9-mai-1995-ecop9400351a)
