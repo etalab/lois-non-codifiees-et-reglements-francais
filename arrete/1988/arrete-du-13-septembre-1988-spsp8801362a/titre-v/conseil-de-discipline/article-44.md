@@ -1,0 +1,3 @@
+# Article 44
+
+En cas d'inaptitude physique ou psychologique d'un élève mettant en danger la sécurité des malades, le directeur peut après avis conforme du directeur scientifique de l'école suspendre immédiatement la scolarité de l'élève. Le directeur scientifique adresse aussitôt un rapport motivé au médecin inspecteur régional de la santé ou à son représentant, médecin inspecteur de la santé. Si les éléments contenus dans ce rapport le justifient, le médecin inspecteur régional de la santé ou son représentant peut demander un examen médical effectué par un médecin agréé, et le cas échéant, sur les conclusions écrites de ce médecin, prendre toute disposition propre à garantir la sécurité des malades.

@@ -261,6 +261,8 @@
 - [Arrêté du 13 juin 1988 (TEFE8803516A)](arrete-du-13-juin-1988-tefe8803516a)
 - [Arrêté du 13 mars 1979](arrete-du-13-mars-1979)
 - [Arrêté du 13 octobre 1987 (BUDD8761200A)](arrete-du-13-octobre-1987-budd8761200a)
+- [Arrêté du 13 septembre 1988 (SPSP8801362A)](arrete-du-13-septembre-1988-spsp8801362a)
+- [Arrêté du 13 septembre 1988 (SPSP8801363A)](arrete-du-13-septembre-1988-spsp8801363a)
 - [Arrêté du 14 avril 1988 (COMA8800003A)](arrete-du-14-avril-1988-coma8800003a)
 - [Arrêté du 14 avril 1988 (ENVP8800081A)](arrete-du-14-avril-1988-envp8800081a)
 - [Arrêté du 14 avril 1988 (EQUP8800029A)](arrete-du-14-avril-1988-equp8800029a)
