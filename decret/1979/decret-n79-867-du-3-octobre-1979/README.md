@@ -2,3 +2,5 @@
 
 - [TITRE Ier : Dispositions générales](titre-ier)
 - [TITRE II : Organisation administrative](titre-ii)
+- [TITRE III : Organisation financière](titre-iii)
+- [TITRE IV : Dispositions finales](titre-iv)
