@@ -10,7 +10,7 @@ Capitaine : cinq échelons ;
 
 Commandant : trois échelons ;
 
-Lieutenant-colonel : trois échelons ;
+Lieutenant-colonel : quatre échelons ;
 
 Colonel : Deux échelons et deux échelons exceptionnels ;
 
