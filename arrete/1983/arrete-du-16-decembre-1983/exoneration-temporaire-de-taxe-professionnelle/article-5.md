@@ -1,6 +1,6 @@
 # Article 5
 
-L'exonération peut être subordonnée à la réalisation d'un montant minimum d'investissements.
+L'exonération peut être subordonnée à la réalisation d'un montant minimum d'investissements [*condition*].
 
 Sauf en cas de décentralisation, l'exonération ne peut être accordée lorsque l'opération entraîne une suppression d'emplois dans les autres établissements de l'entreprise.
 

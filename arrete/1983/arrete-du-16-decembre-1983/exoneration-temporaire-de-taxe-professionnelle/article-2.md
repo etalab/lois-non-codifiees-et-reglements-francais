@@ -6,4 +6,4 @@ L'agrément ouvrant droit à l'exonération temporaire de taxe professionnelle p
 
 2° Reconversion d'installations industrielles dépendant d'un secteur d'activité en déclin. La reconversion doit correspondre à une modification importante de la nature des productions entraînant un effort particulier d'investissement. Les investissements susceptibles de bénéficier de l'exonération sont les seuls investissements nécessaires à cette modification ;
 
-3° Création, extension ou décentralisation de services de direction, d'études, d'ingénierie et d'informatique. Les décentralisations s'entendent des transferts, hors du Bassin parisien défini à l'annexe IV de l'arrêté du 24 novembre 1980 susvisé, d'installations précédemment implantées dans la région parisienne définie à la même annexe.
+3° Création, extension ou décentralisation de services de direction, d'études, d'ingénierie et d'informatique. Les décentralisations s'entendent des transferts, hors du Bassin parisien défini à l'annexe III de l'arrêté du 12 juin 1990 susvisé, d'installations précédemment implantées dans la région parisienne définie à la même annexe.

@@ -1,0 +1,7 @@
+# Article Annexe
+
+Sont assimilés à des investissements d'intérêt régional les investissements des entreprises relevant des classes d'activités 17-25, 35-01 (à l'exclusion des abattoirs publics), 35-04 à 38-10, 39-01 à 41-03, 41-07 à 41-09 et 44-11 de la nomenclature d'activités et de produits de 1973 :
+
+2° Dans les régions Nord, Picardie, Ile-de-France, Centre, Haute-Normandie, Basse-Normandie, Bretagne, Poitou-Charentes, Limousin, Aquitaine, Midi-Pyrénées, Champagne-Ardenne, Lorraine, Alsace, Bourgogne, Auvergne, Rhône-Alpes, Languedoc-Roussillon, Corse, Guadeloupe, Martinique, Guyane, Réunion, et dans les régions Pays-de-la-Loire, Franche-Comté et Provence-Côte-d'Azur pour les entreprises ne relevant pas du 2° ci-après, lorsque le montant du programme triennal d'investissement est inférieur à deux millions de francs et que le chiffre d'affaires consolidé de l'entreprise est inférieur à vingt millions de francs (dernier chiffre d'affaires constaté ou à défaut chiffre d'affaires prévisionnel à l'issue du troisième exercice).
+
+2° A titre expérimental dans les régions Pays-de-la-Loire, Franche-Comté et Provence-Côte-d'Azur, et pour les activités ne relevant pas des classes 39-01 à 39-07, 40-11 et 40-12 de la nomenclature d'activités et de produits, lorsque le montant du programme triennal d'investissement est inférieur à cinq millions de francs et que le montant du chiffre d'affaires consolidé est inférieur à cinquante millions de francs (dernier chiffre d'affaires constaté ou à défaut chiffre d'affaires prévisionnel à l'issue du troisième exercice).

@@ -4,7 +4,7 @@ Les conditions d'emploi suivantes, appréciées selon les modalités prévues à
 
 1° Les établissements faisant l'objet d'une reprise ou d'une reconversion doivent comporter :
 
-a) Dans les départements d'outre-mer [*DOM*], en Corse, dans les zones d'économie rurale dominante et les zones montagnardes figurant en annexe III de l'arrêté du 24 novembre 1980 susvisé :
+a) Dans les départements d'outre-mer [*DOM*], en Corse, dans les zones d'économie rurale dominante et les zones montagnardes figurant en annexe II de l'arrêté du 12 juin 1990 susvisé :
 
 Trente emplois au moins dans les communes situées dans une unité urbaine d'au moins 50.000 habitants ;
 
