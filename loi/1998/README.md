@@ -42,6 +42,8 @@
 - [Loi n° 98-76 du 11 février 1998 (MAEX9700002L)](loi-n-98-76-du-11-fevrier-1998-maex9700002l)
 - [Loi n° 98-77 du 11 février 1998 (MAEX9700003L)](loi-n-98-77-du-11-fevrier-1998-maex9700003l)
 - [Loi n° 98-78 du 11 février 1998 (MAEX9700047L)](loi-n-98-78-du-11-fevrier-1998-maex9700047l)
+- [Loi n° 98-992 du 5 novembre 1998 (MAEX9800072L)](loi-n-98-992-du-5-novembre-1998-maex9800072l)
+- [Loi n° 98-993 du 5 novembre 1998 (MAEX9800083L)](loi-n-98-993-du-5-novembre-1998-maex9800083l)
 - [Loi n°98-467 du 17 juin 1998 (ECOX9600160L)](loi-n98-467-du-17-juin-1998-ecox9600160l)
 - [Loi n°98-564 du 8 juillet 1998 (DEFX9802964L)](loi-n98-564-du-8-juillet-1998-defx9802964l)
 - [Loi n°98-567 du 8 juillet 1998 (DEFX9700140L)](loi-n98-567-du-8-juillet-1998-defx9700140l)

@@ -4,3 +4,4 @@
 - [CHAPITRE II : CONSEIL D'ADMINISTRATION.](chapitre-ii)
 - [CHAPITRE III : DIRECTION ET ORGANISATION.](chapitre-iii)
 - [CHAPITRE IV : DISPOSITIONS DIVERSES.](chapitre-iv)
+- [Article 20](article-20.md)

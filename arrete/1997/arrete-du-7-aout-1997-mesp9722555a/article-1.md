@@ -18,17 +18,17 @@ Cette interdiction de mise sur le marché et d'importation, à destination du pu
 
 L'étiquetage de ces substances et préparations à usage professionnel est caractérisé par leur classement "Toxique" (symbole T) ou "très Toxique" (symbole T+) accompagné de :
 
-- la phrase de risque R 45 : "peut provoquer le cancer" ou R 49 :
+- la phrase de risque R 45 : "peut causer le cancer" ou R 49 :
 
-"peut provoquer le cancer par inhalation", pour les substances et préparations cancérogènes ;
+"peut causer le cancer par inhalation", pour les substances et préparations cancérogènes ;
 
-- la phrase de risque R 46 : "peut provoquer des altérations génétiques héréditaires", pour les substances et préparations mutagènes ;
+- la phrase de risque R 46 : "peut causer des altérations génétiques héréditaires", pour les substances et préparations mutagènes ;
 
 - la phrase de risque R 60 : "peut altérer la fertilité" ou R 61 :
 
 "risque pendant la grossesse d'effets néfastes pour l'enfant", pour les substances et préparations toxiques pour la reproduction.
 
-Sans préjudice des autres dispositions relatives à l'étiquetage des substances et préparations dangereuses, l'emballage des substances et préparations précitées doit porter la mention lisible et indélébile : "réservé aux utilisateurs professionnels. Attention - Eviter l'exposition - Se procurer des instructions spéciales avant l'utilisation".
+Sans préjudice des autres dispositions relatives à l'étiquetage des substances et préparations dangereuses, l'emballage des substances et préparations précitées doit porter la mention lisible et indélébile : "réservé aux utilisateurs professionnels."
 
 b) Dérogation :
 
