@@ -13,3 +13,5 @@ Les administrations et organismes auxquels sont transmises les informations sont
 - les organismes de sécurité sociale chargés de la tarification du risque d'accident du travail du régime général de la sécurité sociale ;
 
 - l'Institut national de la statistique et des études économiques.    - l'institution de retraite complémentaire des agents non titulaires de l'Etat et des collectivités publiques (IRCANTEC).
+
+- les institutions gestionnaires du régime d'assurance chômage.
