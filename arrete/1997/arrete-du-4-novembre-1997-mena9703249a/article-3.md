@@ -8,4 +8,6 @@ Le jury chargé d'apprécier l'aptitude des candidats est désigné par le minis
 
 - un personnel d'inspection ;
 
-- deux chefs de division ou de service académique.
+- un chef de division ou de service académique ;
+
+- un technicien de l'éducation nationale de classe supérieure.
