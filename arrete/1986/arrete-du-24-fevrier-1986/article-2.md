@@ -58,12 +58,12 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </td>
 <td rowspan="3" width="49">
 <pre> </pre>
-<p align="center">7</p>
+<p align="center">8</p>
 <pre> </pre>
 </td>
 <td rowspan="3">
 <pre> </pre>
-<p align="center">7</p>
+<p align="center">8</p>
 <pre> </pre>
 </td>
 </tr>
@@ -72,10 +72,10 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 <p>Directeurs de recherche de 1<sup>re</sup> classe</p>
 </td>
 <td width="49">
-<p align="center">2</p>
+<p align="center">3</p>
 </td>
 <td width="58">
-<p align="center">2</p>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </div>
 </td>
 <td>
-<p>Adjoints techniques principaux de la recherche </p>
+<p>Adjoints techniques principaux de recherche</p>
 </td>
 <td width="49">
 <p align="center">2</p>
@@ -304,7 +304,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td>
-<p>Adjoints techniques de la recherche et adjoints techniques de la recherche provisoire</p>
+<p>Adjoints techniques de la recherche et adjoints techniques de la recherche provisoire </p>
 </td>
 <td width="49">
 <p align="center">2</p>
@@ -445,7 +445,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td>
-<p>Adjoints administratifs de la recherche principaux de 2<sup>e</sup> classe</p>
+<p>Adjoints administratifs de la recherche principaux de 2e classe</p>
 </td>
 <td width="49">
 <p align="center">2</p>
