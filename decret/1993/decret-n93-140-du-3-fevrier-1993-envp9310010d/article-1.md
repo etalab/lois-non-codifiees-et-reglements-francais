@@ -1,3 +1,0 @@
-# Article 1
-
-Les plans d'élimination des déchets entrant dans l'une des catégories mentionnées aux articles 10 et 10-1 de la loi du 15 juillet 1975 susvisée ont pour objet de coordonner les actions qui seront entreprises à terme de dix ans tant par les pouvoirs publics que par des organismes privés en vue d'assurer, pour les catégories de déchets susmentionnés, les objectifs définis aux articles 1er, 2 et 2-1 de la loi du 15 juillet 1975 ; ils sont établis dans un délai de trois ans à compter de la date de publication du présent décret dans les conditions et selon les modalités définies ci-dessous.
