@@ -6,7 +6,6 @@
 - [TITRE IV : Dispositions pénales](titre-iv)
 - [TITRE V : Dispositions diverses](titre-v)
 - [Article 8 bis](article-8-bis.md)
-- [Article 15](article-15.md)
 - [Article 21-1](article-21-1.md)
 - [Article 21-2](article-21-2.md)
 - [Article 21-3](article-21-3.md)
