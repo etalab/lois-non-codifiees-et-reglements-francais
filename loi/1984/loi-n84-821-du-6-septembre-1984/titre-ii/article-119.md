@@ -2,8 +2,6 @@
 
 Le haut-commissaire a la charge des intérêts nationaux, du contrôle administratif et du respect des lois [*attributions*].
 
-Il promulgue les lois et décrets dans le territoire après en avoir informé le gouvernement du territoire. Il assure leur publication au Journal officiel de la Nouvelle-Calédonie et dépendances.
-
 Il assure l'ordre public, le respect des libertés publiques et des droits individuels et collectifs.
 
 Il assure au nom de l'Etat, dans les conditions prévues par la législation ou la réglementation en vigueur, le contrôle des organismes ou personnes publics ou privés bénéficiant de subventions ou contributions de l'Etat.

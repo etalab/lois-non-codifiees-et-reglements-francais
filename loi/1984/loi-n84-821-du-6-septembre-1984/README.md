@@ -4,7 +4,6 @@
 - [Titre I - Des institutions du territoire.](titre-i)
 - [Article 2](article-2.md)
 - [Titre II - Du haut-commissaire de la République.](titre-ii)
-- [Article 3](article-3.md)
 - [Titre III - Du comptable du territoire et du contrôle financier](titre-iii)
 - [Article 4](article-4.md)
 - [Titre IV - Du tribunal administratif de la Nouvelle-Calédonie et dépendances.](titre-iv)

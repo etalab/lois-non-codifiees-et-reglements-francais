@@ -2,11 +2,8 @@
 
 - [Chapitre I - Du gouvernement du territoire](chapitre-i)
 - [Chapitre II - De l'assemblée territoriale](chapitre-ii)
-- [Chapitre III - De l'assemblée des pays](chapitre-iii)
-- [Chapitre IV - Du comité d'expansion économique.](chapitre-iv)
 - [Chapitre V - Des rapports entre l'assemblée territoriale, l'assemblée des pays, le comité d'expansion économique, le gouvernement du territoire et l'Etat.](chapitre-v)
 - [Article 6](article-6.md)
-- [Chapitre VI - Des conseils de pays.](chapitre-vi)
 - [Article 32](article-32.md)
 - [Article 36](article-36.md)
 - [Article 37](article-37.md)
