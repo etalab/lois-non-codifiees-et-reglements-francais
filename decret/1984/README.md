@@ -190,7 +190,6 @@
 - [Décret n°84-393 du 23 mai 1984](decret-n84-393-du-23-mai-1984)
 - [Décret n°84-394 du 23 mai 1984](decret-n84-394-du-23-mai-1984)
 - [Décret n°84-137 du 24 février 1984](decret-n84-137-du-24-fevrier-1984)
-- [Décret n°84-139 du 24 février 1984](decret-n84-139-du-24-fevrier-1984)
 - [Décret n°84-708 du 24 juillet 1984](decret-n84-708-du-24-juillet-1984)
 - [Décret n°84-709 du 24 juillet 1984](decret-n84-709-du-24-juillet-1984)
 - [Décret n°84-795 du 24 août 1984](decret-n84-795-du-24-aout-1984)
