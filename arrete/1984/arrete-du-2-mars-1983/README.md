@@ -1,3 +1,0 @@
-# Arrêté du 2 mars 1983 FIXANT LE MONTANT DE L'AIDE A LA CREATION D'EMPLOIS D'INITIATIVE LOCALE
-
-- [Article 1](article-1.md)
