@@ -22,7 +22,7 @@ Quatre représentants du ministre des finances et des affaires économiques.
 
 Trois députés.
 
-Deux sénateurs.
+Trois sénateurs.
 
 Un membre du Conseil économique et social.
 
@@ -128,7 +128,7 @@ Le président de ce comité est désigné par la section ;
 
 Le directeur général et l'agent comptable de la Caisse centrale de mutualité sociale agricole participent à titre consultatif aux travaux du comité de gestion.
 
-5° Sont membres de la section du comité de gestion l'ensemble des membres du conseil supérieur, à l'exception toutefois des membres du corps médical, des représentants des syndicats dentaires, des syndicats pharmaceutiques et des syndicats de sages-femmes.
+5° (alinéa abrogé).
 
 6° Sont membres de la section permanente :
 
