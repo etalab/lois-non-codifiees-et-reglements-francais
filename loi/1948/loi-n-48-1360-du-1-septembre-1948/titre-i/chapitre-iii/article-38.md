@@ -8,9 +8,11 @@ Il devra être tenu compte, dans cette répartition, des locaux loués à un usa
 
 Dans les immeubles comportant un logement au moins dont le loyer est soumis à la réglementation édictée par la présente loi, tous les locataires ou occupants de locaux d'habitation ou à usage professionnel participent au paiement des prestations, taxes et fournitures sur la base de la surface corrigée des locaux.
 
-A - Prestations.
+A - Prestations :
 
-1° Frais de pose, de dépose et d'entretien des tapis, fournitures nécessaires à l'entretien de propreté des parties communes de l'immeuble ainsi que les frais d'entretien (fournitures et main-d'oeuvre) des espaces verts ;
+1° Frais (fournitures et main-d'oeuvre) nécessaires à l'entretien de propreté des parties communes de l'immeuble, y compris les frais de pose, de dépose et d'entretien des tapis, d'entretien des espaces verts et ceux entraînés par l'élimination des rejets provenant de l'habitation.
+
+Lorsque l'entretien des parties communes et l'élimination des rejets sont assurés par un gardien ou un concierge, ces frais sont pris en compte à concurrence des trois quarts de la rémunération en espèces, y compris les charges sociales et fiscales y afférentes à l'exclusion des avantages en nature.
 
 2° Consommation de l'électricité et du gaz nécessitée par l'éclairage des parties communes de l'immeuble et des voies privées le desservant, ainsi que la location des compteurs ;
 
@@ -22,13 +24,15 @@ A - Prestations.
 
 6° Frais d'abonnement du poste téléphonique de l'immeuble.
 
-B - Taxes locatives.
+B - Taxes locatives :
 
 1° Taxe d'enlèvement des ordures ménagères ;
 
 2° Taxe de balayage.
 
-C - Fournitures individuelles (sur justifications particulières).
+C - Fournitures individuelles :
+
+(sur justifications particulières)
 
 1° Montant de la consommation d'eau chaude et froide des locataires ou occupants de l'immeuble ainsi que les sommes dues au titre de la redevance d'assainissement, à l'exclusion de celles auxquelles le propriétaire est astreint en application de l'article L. 35-5 du code de la santé publique ;
 
