@@ -1214,7 +1214,6 @@
 - [Décret n°92-336 du 31 mars 1992 (EQUC9200023D)](decret-n92-336-du-31-mars-1992-equc9200023d)
 - [Décret n°92-337 du 31 mars 1992 (EQUA9200294D)](decret-n92-337-du-31-mars-1992-equa9200294d)
 - [Décret n°92-755 du 31 juillet 1992 (JUSC9220234D)](decret-n92-755-du-31-juillet-1992-jusc9220234d)
-- [Décret n°92-759 du 31 juillet 1992 (JUSC9220367D)](decret-n92-759-du-31-juillet-1992-jusc9220367d)
 - [Décret n°92-761 du 31 juillet 1992 (EQUA9200368D)](decret-n92-761-du-31-juillet-1992-equa9200368d)
 - [Décret n°92-762 du 31 juillet 1992 (EQUA9200861D)](decret-n92-762-du-31-juillet-1992-equa9200861d)
 - [Décret n°92-776 du 31 juillet 1992 (SANH9201396D)](decret-n92-776-du-31-juillet-1992-sanh9201396d)
