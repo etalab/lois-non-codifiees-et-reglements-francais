@@ -1,6 +1,6 @@
 # Article 106
 
-Les commerçants et artisans affiliés depuis quinze ans au moins aux régimes d'assurance vieillesse des professions artisanales, industrielles et commerciales peuvent bénéficier sur leur demande, si leurs ressources sont inférieures à un plafond fixé par décret et lorsqu'ils cessent définitivement toute activité après l'âge de soixante ans, d'une aide des caisses des régimes précités.
+Les commerçants et artisans affiliés pendant quinze ans au moins aux régimes d'assurance vieillesse des professions artisanales, industrielles et commerciales peuvent bénéficier sur leur demande, si leurs ressources sont inférieures à un plafond fixé par décret et lorsqu'ils cessent définitivement toute activité après l'âge de soixante ans, d'une aide des caisses des régimes précités.
 
 Le commerçant ou l'artisan qui est atteint d'une incapacité le rendant définitivement inapte à poursuivre son activité est dispensé de la condition d'âge prévue au premier alinéa.
 

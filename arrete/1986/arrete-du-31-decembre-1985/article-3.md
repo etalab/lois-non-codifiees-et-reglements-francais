@@ -1,5 +1,3 @@
 # Article 3
 
-Le taux unitaire des vacations horaires prévues à l'article 3 du décret susvisé est fixé à 84 F.
-
-Le nombre maximal de vacations susceptibles d'être allouées annuellement à un même rapporteur ne peut excéder quatre-vingts.
+Le droit annuel de location des terminaux, institué par l'article 2 du décret du 31 décembre 1977, est fixé à 20.000 F pour chaque terminal.

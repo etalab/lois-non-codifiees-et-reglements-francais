@@ -1,6 +1,8 @@
-# Arrêté du 31 décembre 1985 du 31 décembre 1985 fixant les montants de la taxe parafiscale instituée en vue du développement de la formation professionnelle dans les transports
+# Arrêté du 31 décembre 1985 fixant la répartition entre les usagers et l'Etat des charges du système de traitement automatisé des opérations de dédouanement ainsi que les taux de la redevance d'abonnement et de la redevance d'utilisation pour la rémunération des services rendus par le système
 
+- [Article 1](article-1.md)
 - [Titre Ier : Généralités.](titre-ier)
+- [Article 2](article-2.md)
 - [Titre II : Approbation des modèles.](titre-ii)
 - [Article 3](article-3.md)
 - [Titre III : Vérification primitive et périodique.](titre-iii)
@@ -9,5 +11,8 @@
 - [Article 5](article-5.md)
 - [Titre V : Dispositions diverses.](titre-v)
 - [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)
+- [Article 9](article-9.md)
 - [Article 17](article-17.md)
 - [Annexes](annexes)

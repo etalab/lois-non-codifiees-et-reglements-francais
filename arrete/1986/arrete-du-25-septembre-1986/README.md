@@ -1,4 +1,4 @@
-# Arrêté du 25 septembre 1986 relatif à la mention des consommations énergétiques des fours électriques
+# Arrêté du 25 septembre 1986 fixant l'assiette des cotisations de sécurité sociale pour les employés de maison
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,21 +1,83 @@
 # Article 3
 
-Le tarif de cession des produits sanguins est le suivant :
+Sang humain total : unité adulte = 288,10 francs.
 
-Sang humain total : unité adulte ...           270,50 F [*francs*]    Unité enfant ...                               140,15    Unité nourrisson ...                            91,15    Concentré de globules rouges humains,       U.A. ...                                    270,50    Concentré de globules rouges humains,       U.E. ...                                    140,15    Majoration pour qualification       "appauvri en leucocytes"                     23,80    Majoration pour qualification       "déleucocyté"                               351,85    Majoration pour qualification       "congelé"                                   413,90    Majoration pour qualification       "phénotypé" ...                              71,30    Majoration pour qualification       "anti CMV"                                   89,00    Majoration pour qualification       "déplasmatisé" ...                          240,25    Concentré unitaire de plaquettes humaines       (400 milliards de plaquettes viables       pour un volume maximal de 500 ml) ...     2.943,05    Concentré unitaire de granulocytes       humains (20 milliards de granulocytes       pour un volume maximal de 500 ml) ...     2.943,05    Concentré standard de plaquettes humaines,       U.A. ...                                    145,35    Plasma humain frais congelé U.A. (200 ml       au minimum) ...                              79,70    Plasma humain dépourvu de cryoprotéines,       U.A. (200 ml au minimum) ...                 79,70    Majoration pour qualification "irradié"       par produit correspondant à une dose       thérapeutique ...                           185,10    Plasma humain cryodesséché (plasma sec)       le gramme de protéines ...                   14,75    Albumine humaine, le gramme d'albumine ...      27,95    Immunoglobulines humaines polyvalentes       pour voie intraveineuse, le gramme       d'immunoglobuline ...                       226,50    Immunoglobulines humaines anti-D, le       millilitre ...                               62,50    Immunoglobulines humaines anti-Australia,       le millilitre                                76,10
+Unité enfant = 149,25 francs.
 
-Immunoglobulines humaines spécifiques
+Unité nourrisson = 97,10 francs.
 
-"rubéole" le millilitre ...                  33,05    Immunoglobulines humaines antirabiques :
+Concentré de globules rouges humains, UA = 288,10 francs.
 
-Dose de 500 U.I. ...                        797,00       Dose de 1.000 U.I. ...                    1.594,10    Immunoglobulines humaines G, A et M       (Ig GAM) le gramme d'immunoglobulines ...   465,95    Immunoglobulines anti CMV                    1.135,00    Autres immunoglobulines humaines spécifiques       à l'exception des immunoglobulines       antitétaniques et anticoquelucheuses,       le millilitre ...                            72,85    Fibrinogène humain cryodesséché, le gramme       de fibrinogène ...                          348,40    Cryoprécipité humain congelé : par unité       tarifaire (70 unités internationales) de       facteur VIII pour une concentration de       5 U.I./ml avec une tolérance de variations       inférieures maximales de 20 p. 100 de       cette valeur ...                            147,55
+Concentré de globules rouges humains, UE = 149,25 francs.
 
-Cryoprécipité humain cryodesséché : par unité       tarifaire (70 unités internationales) de       facteur VIII pour une concentration d'au       moins 5 U.I./ml avec une tolérance de       variations inférieures maximales de       20 p. 100 de cette valeur ...               166,20    Concentré d'antithrombine III humainechauffé       20 millilitres ...                          518,25    Concentré de facteur VIII humain chauffé : par       unité tarifaire (70 unités       internationales) de facteur VIII ; pour       une concentration de 25 U.I./ml avec une       tolérance de variations inférieures       maximales de 20 p. 100 de cette valeur ...  282,25    Concentré de facteur IX humain chauffé       P.P.S.B. 10 millilitres ...                 585,00    Facteur humain de transfert, quantité       obtenue à partir de 6 X 10 puissance 9
+Majoration pour qualification "appauvri en Leucocytes" = 25,35 francs.
 
-leucocytes ou 2 X 10 puissance 9
+Majoration pour qualification "déleucocyté" = 374,70 francs.
 
-lymphocytes contenues dans un volume
+Majoration pour qualification "congelé" = 440,80 francs.
 
-de 5 plus ou moins 2 millilitres ...        604,05    Supplément pour fourniture d'appareil à       transfusion ...                               7,80    Concentré de protéines humaines coagulables       par la thrombine pour applications locales       (colle biologique) :
+Majoration pour qualification "phénotypé" = 75,95 francs.
 
-- dose de 0,05 ml                                 218,35       - dose de 1 ml                                    381,10       - dose de 2 ml                                    655,10       - dose de 5 ml                                  1.524,40.
+Majoration pour qualification "anti CMV" = 94,80 francs.
+
+Majoration pour qualification "déplasmatisé" = 255,85 francs.
+
+Concentré unitaire de plaquettes humaines (400 milliards de plaquettes viables pour un volume maximal de 500 ml) = 3.134,35 francs.
+
+Concentré unitaire de granulocytes humains (200 milliards de granulocytes pour un volume maximal de 500 ml) = 3.134,35 francs.
+
+Concentré standard de plaquettes humaines, UA = 154,80 francs.
+
+Plasma humain frais congelé UA (200 ml au minimum) = 82,65 francs.    Plasma humain dépourvu de cryoprotéines, UA (200 ml au minimum) = 82,65 francs.
+
+Majoration pour qualification "irradié" par produit correspondant à une dose thérapeutique = 191,95 francs.
+
+Plasma humain cryodesséché (plasma sec), le gramme de protéines = 14,75 francs.
+
+Albumine humaine, concentrée (20 g/100 ml), le gramme d'albumine = 27,95 francs.
+
+Albumine humaine diluée (4 g/100 ml), le gramme d'albumine = 24,60 francs.
+
+Immunoglobulines humaines polyvalentes pour voie intraveineuse, le gramme d'immunoglobuline = 226,50 francs.
+
+Immunoglobulines humaines anti-D, le millilitre = 62,50 francs.
+
+Immunoglobulines humaines anti-Australia, le millilitre  = 76,10 francs.
+
+Immunoglobulines humaines spécifiques "rubéole" le millilitre  = 33,05 francs.
+
+Immunoglobulines humaines antirabiques :
+
+- dose de 500 UI = 797,00 francs.
+
+- dose de 1000 UI = 1.594,10 francs.
+
+Immunoglobulines humaines G, A et M (1g GAM), le gramme d'immunoglobulines = 465,95 francs.
+
+Immunoglobulines anti-CMV = 1.135,00 francs.
+
+Autres immunoglobulines humaines spécifiques, à l'exception des immunoglobulines antitétaniques et anticoquelucheuses, le millilitre = 72,85 francs.
+
+Fibrinogène humain cryodesséché, le gramme de fibrinogène = 348,40 francs.
+
+Cryoprécipité humain congelé : par unité tarifaire (70 unités internationales) de facteur VIII pour une concentration de 5 UI/ml avec une tolérance de variations inférieures maximales de 20 p. 100 de cette valeur = 153,00 francs.
+
+Cryoprécipité humain cryodesséché : par unité tarifaire (70 unités internationales) de facteur VIII pour une concentration d'au moins 5 UI/ml avec une tolérance de variations inférieures maximales de 20 p. 100 de cette valeur = 166,20 francs.
+
+Concentré d'antithrombine III humaine chauffé -20 millilitres = 518,25 francs.
+
+Concentré de facteur VIII humain chauffé : par unité tarifaire (70 unités internationales) de facteur VIII pour une concentration de 25 UI/ml avec tolérance de variations inférieures maximales de 20 p. 100 de cette valeur = 282,25 francs.
+
+Concentré de facteur IX humain chauffé (P.P.S.B.) 10 millilitres = 585,00 francs.
+
+Facteur humain de transfert, quantité obtenue à partir de 6 x 10 puissance 9 leucocytes ou 2 x 10 puissance 9 lymphocytes contenue dans un volume de 5 + 2 millilitres = 604,05 francs.
+
+Supplément pour fourniture d'appareil à transfusion = 7,80 francs.    Concentré de protéines humaines coagulables par la thrombine pour application locales (colle biologique) :
+
+- Dose de 0,5 ml = 218,35 francs.
+
+- Dose de 1 ml = 381,10 francs.
+
+- Dose de 2 ml = 655,10 francs.
+
+- Dose de 5 ml = 1.524,40 francs.

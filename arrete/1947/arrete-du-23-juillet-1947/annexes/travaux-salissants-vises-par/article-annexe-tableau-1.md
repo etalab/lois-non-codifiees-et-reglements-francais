@@ -70,4 +70,4 @@ Travaux d'abattage des volailles.
 
 Travaux d'équarrissage.
 
-Tueries particulières.
+Tueries particulières.    Travaux occasionnels et poussiéreux exposant à l'amiante.

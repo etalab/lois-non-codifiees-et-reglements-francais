@@ -67,3 +67,5 @@ Le conseil d'administration peut déléguer au directeur de la caisse primaire s
 Aux frais de raccordement au réseau et l'abonnement téléphonique, lorsque l'installation et l'abonnement sont uniquement motivés par les besoins du traitement ;
 
 Aux frais de consommation d'eau et d'électricité utilisée lors de chaque séance de dialyse.
+
+19° Prise en charge, sur demande de l'assuré, de tout ou partie du ticket modérateur relatif aux médicaments [*pour maladies sans caractère de gravité*] mentionnés au 5° de l'article R. 322-1 du code de la sécurité sociale, pour les malades atteints de l'une des affections figurant sur la liste mentionnée au 3° de l'article L. 322-3 du même code et pour les spécialités et la période ayant fait l'objet d'un avis favorable du contrôle médical.
