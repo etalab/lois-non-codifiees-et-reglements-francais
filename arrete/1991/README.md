@@ -638,6 +638,8 @@
 - [Arrêté du 23 juillet 1991 (SPSS9101706A)](arrete-du-23-juillet-1991-spss9101706a)
 - [Arrêté du 23 juillet 1991 (SPSS9101713A)](arrete-du-23-juillet-1991-spss9101713a)
 - [Arrêté du 23 novembre 1990 (ENVN9061643A)](arrete-du-23-novembre-1990-envn9061643a)
+- [Arrêté du 23 octobre 1991 (ECOT9123077A)](arrete-du-23-octobre-1991-ecot9123077a)
+- [Arrêté du 23 octobre 1991 (MENZ9102008A)](arrete-du-23-octobre-1991-menz9102008a)
 - [Arrêté du 23 octobre 1991 (TEFX9110299A)](arrete-du-23-octobre-1991-tefx9110299a)
 - [Arrêté du 23 septembre 1991 (ENVN9161242A)](arrete-du-23-septembre-1991-envn9161242a)
 - [Arrêté du 23 septembre 1991 (EQUC9101242A)](arrete-du-23-septembre-1991-equc9101242a)
