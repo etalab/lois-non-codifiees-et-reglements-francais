@@ -124,6 +124,7 @@
 - [Arrêté du 26 février 1982](arrete-du-26-fevrier-1982)
 - [Arrêté du 26 mars 1982](arrete-du-26-mars-1982)
 - [Arrêté du 26 novembre 1981](arrete-du-26-novembre-1981)
+- [Arrêté du 26 octobre 1982](arrete-du-26-octobre-1982)
 - [Arrêté du 27 avril 1982](arrete-du-27-avril-1982)
 - [Arrêté du 27 octobre 1982](arrete-du-27-octobre-1982)
 - [Arrêté du 27 septembre 1982](arrete-du-27-septembre-1982)
