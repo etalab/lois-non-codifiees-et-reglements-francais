@@ -19,6 +19,7 @@
 - [Décret n°93-19 du 6 janvier 1993 (SANM9202705D)](decret-n93-19-du-6-janvier-1993-sanm9202705d)
 - [Décret n°94-295 du 6 avril 1994 (EQUH9400167D)](decret-n94-295-du-6-avril-1994-equh9400167d)
 - [Décret n°95-640 du 6 mai 1995 (DOMP9500008D)](decret-n95-640-du-6-mai-1995-domp9500008d)
+- [Décret n°93-21 du 7 janvier 1993 (JUSB9210428D)](decret-n93-21-du-7-janvier-1993-jusb9210428d)
 - [Décret n°93-33 du 8 janvier 1993 (MERP9200054D)](decret-n93-33-du-8-janvier-1993-merp9200054d)
 - [Décret n°93-1082 du 9 septembre 1993 (JUSF9350045D)](decret-n93-1082-du-9-septembre-1993-jusf9350045d)
 - [Décret n°93-1083 du 9 septembre 1993 (JUSF9350046D)](decret-n93-1083-du-9-septembre-1993-jusf9350046d)

@@ -1,0 +1,3 @@
+# Article 3
+
+Nul ne peut être nommé au second grade président d'un tribunal de grande instance à une chambre ou d'un tribunal de première instance, ou procureur de la République auprès de l'une de ces juridictions, vice-président d'un tribunal de grande instance, d'un tribunal de première instance ou d'un tribunal supérieur d'appel, ou substitut chargé du secrétariat général d'une juridiction s'il ne justifie de sept ans d'ancienneté dont cinq ans de services effectifs dans le corps judiciaire ou en service détaché. L'accès aux fonctions de président et de procureur de la République du second grade est en outre subordonné à l'inscription sur une liste d'aptitude spéciale.
