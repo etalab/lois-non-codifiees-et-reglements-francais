@@ -1,5 +1,5 @@
 # Article 26
 
-Devant cette commission, l'intéressé peut faire valoir toutes les raisons qui militent contre son expulsion [*droit de réponse*]. La commission siège à huis clos.
+En cas d'urgence absolue et par dérogation aux articles 23 à 25, l'expulsion peut être prononcée lorsqu'elle constitue une nécessité impérieuse pour la sûreté de l'Etat ou pour la sécurité publique.
 
-Un procès-verbal enregistrant les explications de l'intéressé est transmis avec l'avis de la commission au ministre de l'intérieur [*autorité compétente*], qui statue.
+Cette procédure ne peut toutefois être appliquée aux étrangers [*mineurs de dix-huit ans*] mentionnés au 1° de l'article 25 [*interdiction*].

@@ -1,6 +1,6 @@
 # Article 5-1
 
-Les conditions [*garanties de rapatriement, autorisations de travail*] mentionnées au 2° de l'article 5 ne sont pas exigées :
+Les conditions [*garanties de rapatriement, autorisations de travail*] mentionnées au 2. et 3. de l'article 5 ne sont pas exigées :
 
 D'un étranger venant rejoindre son conjoint régulièrement autorisé à résider sur le territoire français ;
 
