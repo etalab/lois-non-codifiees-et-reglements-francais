@@ -2,7 +2,7 @@
 
 Si le vin est reconnu conforme à la réglementation à l'issue de l'examen analytique et s'il bénéficie d'un avis favorable de la commission de dégustation, les services de l'Institut national des appellations d'origine délivrent au demandeur, dans les conditions prévues dans le règlement intérieur, un certificat d'agrément.
 
-Le règlement intérieur peut prévoir, pour chaque session, que le certificat d'agrément n'est pas délivré si la totalité des lots présentés pour une même appellation d'origine n'a pas satisfait aux examens analytique et organoleptique.
+Le règlement intérieur peut prévoir pour chaque session que si la totalité des lots présentés n'a pas satisfait aux examens analytique et organique un refus d'agrément est notifié pour l'ensemble de ces lots.
 
 Si les résultats analytiques sont reconnus non conformes à la réglementation ou en cas d'avis défavorable de la commission de dégustation, les services de l'Institut national des appellations d'origine notifient au demandeur une décision de refus d'agrément dans les conditions prévues dans le règlement intérieur.
 

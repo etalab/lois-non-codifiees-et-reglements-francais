@@ -16,7 +16,7 @@ Les échantillons sont prélevés :
 
 - le cas échéant, en vue de la délivrance d'un certificat d'aptitude conformément au quatrième alinéa de l'article 1er du décret du 7 décembre 2001 susvisé.
 
-L'intéressé peut demander à fractionner, en vue de la présentation ultérieure à l'examen organoleptique, une partie du volume des vins prélevés compte tenu de leur état d'élaboration qu'il précise dans sa demande. Dans ce cas, les échantillons sont soumis au seul examen analytique au titre de la première session visée à l'article 6 du présent article.
+Sauf dans le cas où le règlement intérieur de l'appellation concernée l'interdit, l'intéressé peut demander à fractionner, en vue de la présentation ultérieure à l'examen organoleptique, une partie du volume des vins prélevés compte tenu de leur état d'élaboration qu'il précise dans sa demande. Dans ce cas, les échantillons sont soumis au seul examen analytique au titre de la première session visée à l'article 6 du présent article.
 
 En cas de fractionnement, les vins font l'objet d'un nouveau prélèvement pour être soumis à l'examen organoleptique dans les délais précisés par le règlement intérieur. L'organisme agréé ou les services de l'Institut national des appellations d'origine peuvent demander que soit également effectué un nouvel examen analytique. Cette analyse porte sur les éléments définis par le règlement intérieur.
 
