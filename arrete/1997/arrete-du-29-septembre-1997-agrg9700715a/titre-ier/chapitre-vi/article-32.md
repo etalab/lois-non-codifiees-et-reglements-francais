@@ -1,0 +1,3 @@
+# Article 32
+
+Les responsables des établissements mentionnés à l'article 1er conservent des plats témoins à la disposition exclusive des services officiels de contrôle. Ces plats témoins sont des échantillons représentatifs des différents plats distribués aux consommateurs, clairement identifiés, prélevés en suffisamment grande quantité pour permettre leur analyse microbiologique et, le cas échéant, chimique, dans les meilleures conditions possible. Ils doivent être conservés pendant au moins cinq jours après la dernière présentation au consommateur, dans des conditions non susceptibles de modifier leur qualité microbiologique.

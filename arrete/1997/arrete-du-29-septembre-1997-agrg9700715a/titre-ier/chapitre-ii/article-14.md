@@ -1,0 +1,5 @@
+# Article 14
+
+Les déchets alimentaires et les autres types de déchets sont stockés en dehors des locaux de conservation et de manipulation des denrées, dans des conteneurs équipés de couvercles. Ces conteneurs sont conçus dans l'objectif d'être faciles à entretenir, à nettoyer et à désinfecter. Si nécessaire, ils sont entreposés dans un local fermé réservé à cet usage et au besoin réfrigéré. Des dispositions appropriées doivent être prises pour assurer une évacuation régulière et suffisamment fréquente des déchets qu'ils contiennent.
+
+En tout état de cause, les conditions d'entreposage des déchets de l'établissement avant leur évacuation ne doivent pas constituer une source d'insalubrité pour le voisinage ou pour l'établissement lui-même. Ainsi, les zones de stockage des conteneurs sont conçues et gérées de manière à les maintenir propres en permanence. Toute mesure adaptée est prise pour éviter que les déchets ne puissent contaminer les denrées alimentaires, l'eau potable, les équipements et les locaux, et pour en empêcher l'accès aux insectes, rongeurs et autres animaux, nuisibles ou non.
