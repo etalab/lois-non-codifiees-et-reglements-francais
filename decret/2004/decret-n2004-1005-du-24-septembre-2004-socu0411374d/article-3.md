@@ -1,0 +1,5 @@
+# Article 3
+
+Le montant de la subvention foncière, prévue par les articles R. 331-24 et R. 381-2 du code de la construction et de l'habitation, lorsque la charge foncière en construction neuve ou le coût global de l'opération en acquisition-amélioration dépasse la valeur foncière de référence multipliée par la surface utile de l'opération, peut être porté à 75 % du montant du dépassement si la ou les collectivités locales intéressées sont financièrement hors d'état de prendre en charge une fraction de ce dépassement, lorsque cette subvention est accordée par l'Agence nationale pour la rénovation urbaine.
+
+Les montants de dépassement susceptibles d'être financés sont déterminés par le conseil d'administration de l'agence en fonction de la situation financière des maîtres d'ouvrage et des collectivités territoriales, des difficultés techniques ou sociales des opérations pour lesquelles les subventions sont sollicitées et de l'inclusion de ces opérations dans des conventions pluriannuelles.

@@ -1,0 +1,3 @@
+# Article 25
+
+Sous réserve des dispositions de l'article 26 du présent arrêté, les personnes, autres que les responsables d'établissements d'élevage ou de présentation au public d'animaux d'espèces non domestiques autorisés en application des articles L. 413-3 et L. 413-4 du code de l'environnement à héberger des animaux appartenant aux espèces ou groupes d'espèces inscrits à l'annexe 2 du présent arrêté, qui détiennent de tels animaux au moment de l'entrée en vigueur du présent arrêté, disposent d'un délai d'un an à compter de la publication du présent arrêté au Journal officiel de la République française pour solliciter les autorisations prévues aux articles L. 413-2 et L. 413-3 du code de l'environnement.

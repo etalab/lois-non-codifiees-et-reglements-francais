@@ -1,0 +1,3 @@
+# Article 4
+
+Si un quartier ou une commune connaît une conjonction exceptionnelle de difficultés sociales, techniques ou financières ou est affecté par des événements exceptionnels dont l'ampleur ou l'intensité a justifié l'adoption par le Gouvernement d'un dispositif d'intervention particulier, le conseil d'administration de l'agence peut, en tenant compte de la situation financière des collectivités territoriales ou des opérateurs intéressés, majorer d'un pourcentage n'excédant pas 30 % le montant des subventions calculées en application des articles 1er à 3 du présent décret dans la limite du coût total de l'opération.
