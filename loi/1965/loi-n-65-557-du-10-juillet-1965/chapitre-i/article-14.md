@@ -2,7 +2,7 @@
 
 La collectivité des copropriétaires est constituée en un syndicat qui a la personnalité civile.
 
-Le syndicat peut revêtir la forme d'un syndicat coopératif régi par les dispositions de la présente loi.
+Le syndicat peut revêtir la forme d'un syndicat coopératif régi par les dispositions de la présente loi. Le règlement de copropriété doit expressément prévoir cette modalité de gestion.
 
 Il établit, s'il y a lieu, et modifie le règlement de copropriété.
 
