@@ -1,9 +1,19 @@
 # Article 10
 
-Dans chaque salle de spectacles cinématographiques doit être tenu à jour en permanence un carnet de caisse d'un modèle agréé par le Centre national de la cinématographie.
+Les exploitants de salles de spectacles cinématographiques sont tenus d'établir à la fin de chaque séance un relevé comportant, outre le titre du film projeté, pour chaque catégorie de places :
 
-Avant chaque séance doivent être portés sur ce carnet le titre du film, les numéros de départ de chaque catégorie de billets et, en fin de séance, les numéros de départ des billets à utiliser au cours de la séance suivante ainsi que le nombre de billets délivrés, le prix unitaire, le montant par catégorie et le total des recettes réalisées.
+- le numéro du premier billet délivré ;
 
-Lorsque les billets sont imprimés et édités par une caisse automatisée ou un système informatisé, les états édités en fin de journée par ces machines remplacent le carnet de caisse.
+- le numéro du premier billet à délivrer pour la séance suivante ;
 
-Les carnets de caisse et les états journaliers doivent être conservés pendant le délai prévu à l'article L. 102 B du livre des procédures fiscales et tenus à la disposition des agents du contrôle du Centre national de la cinématographie et des agents des impôts.
+- le nombre de billets délivrés ;
+
+- le prix de la place ou, en cas de formule d'accès au cinéma donnant droit à des entrées multiples, le prix de référence tel que défini dans l'article 1609 duovicies du code général des impôts ;
+
+- la recette correspondante et, dans le cas de formules d'accès donnant droit à des entrées multiples, la somme déclarée au titre de ces entrées ;
+
+- le taux de la taxe spéciale sur les billets d'entrée dans les salles de spectacles cinématographiques prévue à l'article 1609 duovicies du code général des impôts et les sommes perçues au titre de celle-ci.
+
+Tous registres ou documents présentant les indications prévues ci-dessus tiennent lieu de relevé.
+
+Les relevés doivent être tenus à la disposition des agents des impôts et des agents du Centre national de la cinématographie et doivent être conservés par les exploitants selon les modalités prévues au I de l'article L. 102 B du livre des procédures fiscales.

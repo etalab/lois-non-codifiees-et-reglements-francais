@@ -65,6 +65,8 @@
 - [Décret n°2004-1082 du 13 octobre 2004 (PRMG0470640D)](decret-n2004-1082-du-13-octobre-2004-prmg0470640d)
 - [Décret n°2004-50 du 13 janvier 2004 (AGRE0302308D)](decret-n2004-50-du-13-janvier-2004-agre0302308d)
 - [Décret n°75-150 du 13 mars 1975](decret-n75-150-du-13-mars-1975)
+- [Décret n°2004-59 du 14 janvier 2004 (SOCN0312069D)](decret-n2004-59-du-14-janvier-2004-socn0312069d)
+- [Décret n°2004-62 du 14 janvier 2004 (BUDD0370060D)](decret-n2004-62-du-14-janvier-2004-budd0370060d)
 - [Décret n°2002-555 du 16 avril 2002 (MENS0200912D)](decret-n2002-555-du-16-avril-2002-mens0200912d)
 - [Décret n°2003-906 du 17 septembre 2003 (MENE0301739D)](decret-n2003-906-du-17-septembre-2003-mene0301739d)
 - [Décret n°2003-1207 du 18 décembre 2003 (SANS0324433D)](decret-n2003-1207-du-18-decembre-2003-sans0324433d)

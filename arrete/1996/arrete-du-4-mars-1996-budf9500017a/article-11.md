@@ -1,8 +1,8 @@
 # Article 11
 
-Les exploitants de salles de spectacles cinématographiques sont tenus d'établir à la fin de chaque semaine cinématographique un bordereau d'un modèle agréé par le Centre national de la cinématographie sur lequel figurent :
+Les exploitants de salles de spectacles cinématographiques sont tenus à la fin de chaque semaine cinématographique d'établir un bordereau ou de créer un fichier d'un modèle agréé par le Centre national de la cinématographie fournissant les indications suivantes :
 
-- le produit de la vente des billets d'entrée (pour chaque journée et pour l'ensemble du programme) ;
+- le produit de la vente des billets d'entrée et des sommes déclarées au titre des formules d'accès au cinéma donnant droit à des entrées multiples pour chaque journée et pour l'ensemble du programme ;
 
 - le nombre de séances par journée et pour l'ensemble du programme ;
 
@@ -20,10 +20,10 @@ Les exploitants de salles de spectacles cinématographiques sont tenus d'établi
 
 - à la fin de chaque programme (ou de chaque semaine), les numéros de départ des billets à utiliser au cours de la journée suivante dans chaque catégorie ;
 
-- les prix des places par catégorie ;
+- les prix déclarés par catégorie et séries de place ;
 
-- les sommes perçues au titre de la taxe spéciale avec leur détail ;
+- les montants de la taxe spéciale avec leur détail ;
 
-- l'indication de la version, originale ou doublée en langue française, de l'oeuvre cinématographique principale composant le programme.
+- l'indication de la version originale ou doublée en langue française de l'oeuvre cinématographique principale composant le programme.
 
-Les feuillets du bordereau de recettes doivent être adressés dans les cinq jours suivant la fin de chaque semaine cinématographique, l'un au Centre national de la cinématographie, les autres aux distributeurs intéressés et à la société des auteurs, compositeurs et éditeurs de musique.
+Les feuillets du bordereau de recettes ou le fichier correspondant doivent être adressés dans les cinq jours suivant la fin de chaque semaine cinématographique, l'un au Centre national de la cinématographie, les autres aux distributeurs intéressés et à la Société des auteurs, compositeurs et éditeurs de musique.
