@@ -1,0 +1,3 @@
+# Article 34
+
+Le groupement ne peut recruter de personnel propre. Ces dispositions ne font, toutefois, pas obstacle à la reprise, par le groupement, des contrats de travail des personnels propres du groupement qui avait été chargé, dans le même département, d'assurer la gestion financière et comptable du fonds de solidarité pour le logement en application de l'article 6 du décret n° 90-794 du 7 septembre 1990 portant application, en ce qui concerne les plans départementaux d'action pour le logement des personnes défavorisées, de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement.

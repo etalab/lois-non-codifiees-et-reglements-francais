@@ -11,3 +11,5 @@ Le budget de l'établissement comprend :
 A l'intérieur de chaque division, les chapitres spécialisés par nature de recettes et de dépenses sont regroupés dans deux sections, l'une se rapportant aux opérations de fonctionnement, et l'autre aux opérations en capital.
 
 La nomenclature budgétaire est établie conformément au plan comptable particulier des établissements publics nationaux et locaux d'enseignement et de formation professionnelle agricoles.
+
+Le produit des rémunérations pour services rendus, des droits de scolarité, d'examen, de concours et de diplôme est affecté en recette au budget de l'Etablissement national d'enseignement supérieur agronomique de Dijon.
