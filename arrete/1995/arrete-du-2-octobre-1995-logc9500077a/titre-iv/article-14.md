@@ -14,28 +14,28 @@ de la période 1
 
 Moins de 82 901 F
 
-17 ans
+15 ans 6 mois
 
-De 82 901 F à 103 600 F
+De  82 901 F à 103 600 F
 
-17 ans
+15 ans 6 mois
 
 De 103 601 F à 124 300 F
 
-17 ans
+15 ans 6 mois
 
 De 124 301 F à 145 000 F
 
-17 ans
+15 ans 6 mois
 
 De 145 001 F à 165 700 F
 
-15 ans
+13 ans 6 mois
 
 De 165 701 F à 186 400 F
 
-11 ans
+10 ans
 
-186 401 F et plus
+Au-dessus de 186 400 F
 
-8 ans
+7 ans

@@ -18,4 +18,6 @@ La liste des spécialités vétérinaires dans lesquelles s'inscrivent les forma
 
 - chirurgie des animaux de compagnie ;
 
-- élevage et pathologie des équidés.
+- élevage et pathologie des équidés ;
+
+- santé et productions animales en régions chaudes.
