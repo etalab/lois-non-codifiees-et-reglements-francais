@@ -20,6 +20,7 @@
 - [Décret n°84-135 du 24 février 1984](decret-n84-135-du-24-fevrier-1984)
 - [Décret n°85-1148 du 24 octobre 1985](decret-n85-1148-du-24-octobre-1985)
 - [Décret n°85-475 du 26 avril 1985](decret-n85-475-du-26-avril-1985)
+- [Décret n°85-643 du 26 juin 1985](decret-n85-643-du-26-juin-1985)
 - [Décret n°85-1145 du 28 octobre 1985](decret-n85-1145-du-28-octobre-1985)
 - [Décret n°85-1146 du 28 octobre 1985](decret-n85-1146-du-28-octobre-1985)
 - [Décret n°85-1150 du 29 octobre 1985](decret-n85-1150-du-29-octobre-1985)
