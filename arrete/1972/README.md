@@ -4,6 +4,7 @@
 - [Arrêté du 2 mars 1972](arrete-du-2-mars-1972)
 - [Arrêté du 3 janvier 1972](arrete-du-3-janvier-1972)
 - [Arrêté du 4 février 1972](arrete-du-4-fevrier-1972)
+- [Arrêté du 4 mai 1972](arrete-du-4-mai-1972)
 - [Arrêté du 5 mai 1972](arrete-du-5-mai-1972)
 - [Arrêté du 6 avril 1972](arrete-du-6-avril-1972)
 - [Arrêté du 7 avril 1972](arrete-du-7-avril-1972)
