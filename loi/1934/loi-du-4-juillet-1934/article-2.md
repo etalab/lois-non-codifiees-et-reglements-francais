@@ -1,11 +1,11 @@
 # Article 2
 
-Des décrets rendus sur la proposition du ministre de l'agriculture pourront, pour chacun des produits visés à l'article 1er :
+En aucun cas le mot " Cognac ", le mot " Charente ", le mot " Armagnac " ou le nom d'une localité de la région délimitée de Cognac ou d'Armagnac ne pourra figurer sur l'étiquette principale apposée sur une bouteille dont le contenu n'aura pas droit à l'appellation d'origine " cognac " ou " armagnac ".
 
-1° Prescrire la déclaration temporaire ou permanente de tous les stocks existants, la déclaration, par nature de marchandises, des entrées et des sorties pendant une période déterminée ainsi que du stock restant à la fin de chacune de ces périodes ;
+L'adresse postale des négociants installés dans la région de Cognac ou d'Armagnac ne pourra figurer sur les bouteilles des eaux-de-vie n'ayant pas droit à l'appellation d'origine " cognac " ou " armagnac " qu'à la condition d'être inscrite sur une étiquette spéciale de forme circulaire, dont le diamètre ne devra pas être supérieur à trois centimètres et qui sera apposée sur une bande plus étroite portant, de chaque côté de l'étiquette spéciale, l'indication : " Adresse postale " ; cette adresse sera indiquée sur l'étiquette de forme circulaire par la mention suivante : " X..., négociant à... (nom de la commune) ", suivie du nom du département, le tout en caractères identiques et dont les dimensions ne devront pas dépasser deux millimètres ; la qualité de propriétaire ou de viticulteur ou de distillateur ne devra, en aucun cas, figurer sur les étiquettes destinées à des eaux-de-vie n'ayant pas droit à l'appellation d'origine.
 
-2° Fixer les délais dans lesquels ces déclarations devront être adressées et désigner le service qui sera appelé à les enregistrer et à les vérifier ;
+Le nom d'une localité ou d'une sous-région de la région délimitée, le mot " Cognac ", le mot " Charente " et le mot " Armagnac " ne pourront, en aucun cas, figurer sur les récipients autres que les bouteilles comme sur les emballages contenant des eaux-de-vie n'ayant pas droit à l'appellation " cognac " ou " armagnac " si ce n'est sous la forme d'une adresse postale libellée de manière à ne faire naître aucune confusion dans l'esprit de l'acheteur.
 
-3° Déterminer les registres que le déclarant sera obligé de tenir en vue d'un contrôle éventuel.
+Les infractions aux dispositions du présent article seront punies, comme délits de fraude ou de falsification, des peines portées à la loi du 1er août 1905.
 
-Les fonctionnaires habilités à cet effet par le ministre de l'agriculture ont entrée dans tous les entrepôts frigorifiques visés par la présente loi. Les exploitants devront fournir, sur la demande et sans déplacement, tous renseignements utiles pour vérifier les déclarations faites.
+La présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l'Etat.
