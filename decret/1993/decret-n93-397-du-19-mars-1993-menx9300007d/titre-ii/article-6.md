@@ -32,4 +32,4 @@ e) Un bibliothécaire désigné par l'association des bibliothécaires français
 
 3° Un représentant du personnel élu pour trois ans selon des modalités fixées par arrêté du ministre chargé de la culture ;
 
-4° Six personnalités, parmi lesquelles deux écrivains, un traducteur, un distributeur, désignées pour trois ans renouvelables en raison de leur compétence dans le domaine de la création, de l'édition ou de la diffusion des oeuvres littéraires, par le ministre chargé de la culture après consultation des organisations professionnelles concernées.
+4° Huit personnalités, parmi lesquelles trois écrivains au moins et un traducteur, désignées pour trois ans renouvelables par le ministre chargé de la culture en raison de leur compétence dans le domaine de la création, de l'édition ou de la diffusion du livre.
