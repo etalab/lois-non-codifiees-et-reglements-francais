@@ -3,6 +3,6 @@
 - [Article 1](article-1.md)
 - [Première partie : L'aide juridictionnelle](premiere-partie)
 - [Deuxième partie : L'aide à l'accès au droit.](deuxieme-partie)
-- [Troisième partie](troisieme-partie)
+- [Troisième partie : Aide à l'intervention de l'avocat au cours de la garde à vue](troisieme-partie)
 - [Quatrième partie](quatrieme-partie)
 - [Cinquième partie : Dispositions transitoires et diverses.](cinquieme-partie)
