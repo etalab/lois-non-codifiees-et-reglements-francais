@@ -1,6 +1,6 @@
 # Article 5
 
-Les employeurs sont tenus de déclarer à la caisse de mutualité sociale agricole dont ils relèvent les salariés mentionnés à l'article 2, au plus tard dans les quarante-huit heures de l'embauche, au moyen d'un imprimé individuel devant obligatoirement comporter les mentions suivantes :
+Les employeurs sont tenus de déclarer à la caisse de mutualité sociale agricole dont ils relèvent les salariés mentionnés à l'article 2, au plus tard dans les soixante-douze heures de l'embauche [*délai*], au moyen d'un imprimé individuel devant obligatoirement comporter les mentions suivantes :
 
 1.   Employeur : numéro d'identification, nom, prénom, secteur d'activité professionnelle, adresse ;
 

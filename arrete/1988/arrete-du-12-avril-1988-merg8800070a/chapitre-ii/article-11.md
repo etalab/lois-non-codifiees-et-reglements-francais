@@ -60,7 +60,7 @@ Un médecin des gens de mer ;
 
 Un ou deux inspecteurs mécaniciens de la marine marchande ou officiers du corps technique et administratif des affaires maritimes ou techniciens experts des services de sécurité de la navigation maritime.
 
-Le président de la commission est désigné chaque année par le ministre chargé de la marine marchande, sur proposition de l'inspecteur général de l'enseignement maritime.
+Un professeur technique des écoles nationales de la marine marchande ;    Le président de la commission et le professeur technique sont désignés chaque année par le ministre chargé de la marine marchande, sur proposition de l'inspecteur général de l'enseignement maritime.
 
 d) Commission pour l'obtention du certificat de capacité.
 
@@ -82,4 +82,8 @@ Le président de la commission demande, en outre, le concours d'un infirmier ou 
 
 e) Commission pour l'obtention du permis de conduire les moteurs.
 
-L'examen conduisant à l'obtention du permis de conduire les moteurs est subi devant un agent qualifié désigné par le chef du quartier des affaires maritimes concerné.
+Président un officier du corps technique et administratif des affaires maritimes ou un inspecteur de la navigation et du travail maritime.
+
+Membre : un technicien expert des services de sécurité de la navigation  maritime ou un officier breveté de la marine marchande.
+
+Le président et le membre sont désignés par le chef du quartier des affaires maritimes concerné.

@@ -115,6 +115,7 @@
 - [Décret n°89-477 du 11 juillet 1989 (ECOZ8900025D)](decret-n89-477-du-11-juillet-1989-ecoz8900025d)
 - [Décret n°89-558 du 11 août 1989 (PRMG8970108D)](decret-n89-558-du-11-aout-1989-prmg8970108d)
 - [Décret n°89-559 du 11 août 1989 (INDD8900058D)](decret-n89-559-du-11-aout-1989-indd8900058d)
+- [Décret n°89-561 du 11 août 1989 (INTB8900238D)](decret-n89-561-du-11-aout-1989-intb8900238d)
 - [Décret n°89-565 du 11 août 1989 (SPSS8900958D)](decret-n89-565-du-11-aout-1989-spss8900958d)
 - [Décret n°90-809 du 11 septembre 1990 (ACVE9050015D)](decret-n90-809-du-11-septembre-1990-acve9050015d)
 - [Décret n°89-306 du 11 mai 1989 (RESY8900064D)](decret-n89-306-du-11-mai-1989-resy8900064d)

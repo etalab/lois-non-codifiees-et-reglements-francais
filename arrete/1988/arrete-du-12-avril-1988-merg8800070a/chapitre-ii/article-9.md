@@ -44,9 +44,11 @@ a) La commission générale chargée de faire passer les examens pour l'obtentio
 
 19° Certificat d'admissibilité en deuxième année d'études du cycle de formation des capitaines de 2e classe de la navigation maritime ;
 
-20° Certificat d'aptitude à l'essai manuel.
+20° Certificat d'aptitude à l'essai manuel;
 
-b) Des commissions spéciales chargées de faire passer les examens pour l'obtention des brevets, certificats et permis ci-après :
+21° Brevet d'officier mécanicien de pêche;
+
+22° Certificat d'admissibilité en deuxième année d'officier mécanicien à la pêche.    b) Des commissions spéciales chargées de faire passer les examens pour l'obtention des brevets, certificats et permis ci-après :
 
 1° Brevet de lieutenant de pêche ;
 
