@@ -1,84 +1,46 @@
 # Article 3
 
-Les coefficients d'équivalence et les seuils d'application valant abattement à la base, applicables aux élevages ne nécessitant pas l'utilisation du sol agricole sont fixés comme suit :
+Les coefficients d'équivalence et les seuils d'application valant abattement à la base applicables aux élevages ne nécessitant pas l'utilisation du sol agricole sont fixés comme suit :
 
-NATURE DE L'ELEVAGE :
+NATURE DE L'ELEVAGE
 
-I. Aviculture
+I. Aviculture et cuniculiculture
 
-Equivalence en ares pour 1 m2 de clapier ou de poulailler
+Equivalence en ares de 1 m2 de clapier ou de poulailler
 
-Poules pondeuses : 2,8 a
+Poules pondeuses : 1,4 a
 
-Poulets de chair : 1,4 a
+Poulets de chair : 0,7 a
 
-NATURE DE L'ELEVAGE :
+Dindons : 0,7 a
 
-II. Elevage porcin
+Pintades : 0,7 a
+
+Lapins : 0,54 a
+
+NATURE DE L'ELEVAGE
 
 Equivalence en hectares par animal
 
-Truies (naisseurs) : 0,4 ha
+II. Elevage porcin et bovin
 
-Truies (naisseurs-engraisseurs) : 0,8 ha
+Truies (naisseurs) : 0,2 ha
 
-Porcs charcutiers : 0,035 ha
+Truies (naisseurs-engraisseurs) : 0,4 ha
 
-NATURE DE L'ELEVAGE :
+Porcs à l'engrais : 0,017 ha
 
-III. Elevage bovin
+Veaux en batterie : 0,035 ha
 
-Veaux en batterie : 0,07 ha
+NATURE DE L'ELEVAGE
 
-Vaches tenues par des laitiers nourrisseurs : 1 ha
+Seuil d'application valant abattement à la base
 
-NATURE DE L'ELEVAGE :
-
-IV. Elevages divers
-
-Dindons : 1,4 a
-
-Pintades : 1,4 a
-
-Lapins : 7,0 a
-
-Chèvres : 0,25 ha
-
-SEUILS D'APPLICATION VALANT ABATTEMENT A LA BASE
-
-NATURE DE L'ELEVAGE :
-
-I. Aviculture
-
-Equivalence en ares pour 1 m2 de clapier ou de poulailler
+I. Aviculture et cuniculiculture
 
 Poules pondeuses : 75 m2
 
 Poulets de chair : 150 m2
-
-NATURE DE L'ELEVAGE :
-
-II. Elevage porcin
-
-Equivalence en hectares par animal
-
-Truies (naisseurs) : 5
-
-Truies (naisseurs-engraisseurs) : 2,5
-
-Porcs charcutiers : 60 porcs (an)
-
-NATURE DE L'ELEVAGE :
-
-III. Elevage bovin
-
-Veaux en batterie : 30 veaux
-
-Vaches tenues par des laitiers nourrisseurs : 1
-
-NATURE DE L'ELEVAGE :
-
-IV. Elevages divers
 
 Dindons : 150 m2
 
@@ -86,4 +48,14 @@ Pintades : 150 m2
 
 Lapins : 30 m2
 
-Chèvres : 4 chèvres.
+NATURE DE L'ELEVAGE
+
+II. Elevage porcin et bovin
+
+Truies (naisseurs) : 3 truies
+
+Truies (naisseurs-engraisseurs) : 2,5 truies
+
+Porcs à l'engrais : 60 porcs (an)
+
+Veaux en batterie : 30 veaux (an)
