@@ -4,21 +4,17 @@ L'administration centrale du ministère de l'industrie, des postes et télécomm
 
 1. Le Conseil général des mines, l'inspection générale de l'industrie et du commerce, le conseil général des technologies de l'information, le haut fonctionnaire de défense et le bureau du cabinet.
 
-2. La direction générale de l'industrie, des technologies de l'information et des postes qui comprend :
+2. La direction générale des entreprises, qui comprend :
 
-a) Le service des industries manufacturières ;
+a) Un secrétariat général, rattaché au directeur général ;
 
-b) Le service des technologies et de la société de l'information ;
+b) La direction de l'action régionale, de la qualité et de la sécurité industrielle ;
 
-c) Le service des postes et des personnels des postes et télécommunications ;
+c) Le service des industries manufacturières et des activités postales ;
 
-d) Le service de l'environnement économique, international et de l'emploi ;
+d) Le service des technologies et de la société de l'information ;
 
-e) Le service de l'innovation et de la qualité ;
-
-f) Le service des études et des statistiques industrielles.
-
-3. La direction de l'action régionale et de la petite et moyenne industrie.
+e) Le service des politiques d'innovation et de compétitivité.
 
 4. La direction générale de l'énergie et des matières premières qui comprend :
 
@@ -28,4 +24,4 @@ b) La direction de la demande et des marchés énergétiques.
 
 5. La direction générale de la sûreté nucléaire et de la radioprotection.
 
-Elle s'appuie en outre sur la direction des relations économiques extérieures du ministère de l'économie pour l'exercice des compétences du ministre en matière de commerce extérieur.
+Elle s'appuie en outre sur la direction générale du Trésor et de la politique économique du ministère de l'économie pour l'exercice des compétences du ministre en matière de commerce extérieur.
