@@ -170,7 +170,6 @@
 - [Arrêté du 6 février 1998 (ATEP9870081A)](arrete-du-6-fevrier-1998-atep9870081a)
 - [Arrêté du 6 février 1998 (DEFD9801124A)](arrete-du-6-fevrier-1998-defd9801124a)
 - [Arrêté du 6 février 1998 (ECOD9870005A)](arrete-du-6-fevrier-1998-ecod9870005a)
-- [Arrêté du 6 janvier 1998 (DEFI9753022A)](arrete-du-6-janvier-1998-defi9753022a)
 - [Arrêté du 6 janvier 1998 (DEFI9753026A)](arrete-du-6-janvier-1998-defi9753026a)
 - [Arrêté du 6 janvier 1998 (DEFT9702258A)](arrete-du-6-janvier-1998-deft9702258a)
 - [Arrêté du 6 janvier 1998 (MCCB9800003A)](arrete-du-6-janvier-1998-mccb9800003a)
