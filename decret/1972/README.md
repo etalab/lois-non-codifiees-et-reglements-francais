@@ -33,6 +33,7 @@
 - [Décret n°72-977 du 27 octobre 1972](decret-n72-977-du-27-octobre-1972)
 - [Décret n°72-923 du 28 septembre 1972](decret-n72-923-du-28-septembre-1972)
 - [Décret n°72-1093 du 29 novembre 1972](decret-n72-1093-du-29-novembre-1972)
+- [Décret n°72-85 du 29 janvier 1972](decret-n72-85-du-29-janvier-1972)
 - [Décret n°72-883 du 29 septembre 1972](decret-n72-883-du-29-septembre-1972)
 - [Décret n°72-1068 du 30 novembre 1972](decret-n72-1068-du-30-novembre-1972)
 - [Décret n°72-1087 du 30 novembre 1972](decret-n72-1087-du-30-novembre-1972)
