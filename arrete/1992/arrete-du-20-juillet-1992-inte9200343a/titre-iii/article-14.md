@@ -1,0 +1,5 @@
+# Article 14
+
+La formation initiale des capitaines stagiaires, prévue à l'article 8 du décret n° 90-853 du 25 septembre 1990 susvisé, est organisée par l'Ecole nationale supérieure de sapeurs-pompiers compte tenu des fonctions, tâches et emplois mentionnés à l'article 2 du même décret et conformément aux dispositions de l'article 7 du décret n° 90-850 du 25 septembre 1990 susvisé. Sa durée est de vingt-quatre semaines pour les capitaines recrutés après l'un des concours externes prévus aux articles 4 et 29 du même décret.
+
+Pour les capitaines recrutés après l'un des concours internes prévus aux articles 4 et 29 de ce décret, sa durée est de onze semaines, si les intéressés sont titulaires du diplôme de l'Ecole nationale supérieure de sapeurs-pompiers, avec mention " Formation supérieure des sous-lieutenants ", prévu par l'arrêté du 23 août 1982, et de quinze semaines, s'ils ne sont pas titulaires de ce diplôme. Elle est de six semaines pour ceux recrutés après l'un des examens prévus aux articles 7, 28 et 29 de ce décret.
