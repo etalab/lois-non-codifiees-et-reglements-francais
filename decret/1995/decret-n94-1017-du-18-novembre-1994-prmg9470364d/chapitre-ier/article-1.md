@@ -14,8 +14,6 @@ a) Corps des services déconcentrés des administrations de l'Etat :
 
 - secrétaires administratifs des services déconcentrés du ministère de l'agriculture ;
 
-- secrétaires administratifs des services déconcentrés du ministère de la culture ;
-
 - secrétaires administratifs des services déconcentrés de l'équipement ;
 
 - secrétaires administratifs de police ;
@@ -49,6 +47,8 @@ b) Corps d'établissements publics de l'Etat :
 - secrétaires administratifs du ministère de l'économie, des finances et de l'industrie ;
 
 - secrétaires administratifs du ministère de la défense.
+
+- secrétaires administratifs du ministère de la culture et de la communication.
 
 Les personnels appartenant aux corps communs aux services déconcentrés et à l'administration centrale des ministères mentionnés ci-dessus peuvent être affectés dans les établissements publics administratifs placés sous leur tutelle.
 

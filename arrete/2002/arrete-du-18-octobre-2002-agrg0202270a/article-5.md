@@ -1,0 +1,3 @@
+# Article 5
+
+Par dérogation à l'article 3 et sans préjudice des dispositions des arrêtés des 24 juillet 1990, 15 juin 2001 et 20 mars 2003 susvisés, l'introduction en France d'aliments destinés aux carnivores domestiques obtenus à partir de bovins abattus au Royaume-Uni comprenant, d'une part, pour l'Irlande du Nord, les bovins issus du schéma d'exportation fondé sur la certification des troupeaux, dit ECHS (Export-Certified Herds Scheme) et, d'autre part, pour le Royaume-Uni, y compris l'Irlande du Nord, les bovins issus du schéma d'exportation fondé sur la date, dit DBES (Date-Based Export Scheme), est autorisée dans les conditions énumérées à l'article 4 ci-dessus.

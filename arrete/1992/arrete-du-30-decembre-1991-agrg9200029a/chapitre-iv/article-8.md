@@ -22,9 +22,17 @@ Pour pouvoir être agréées les usines de transformation à haut ou faible risq
 
 Il doit faire l'objet d'un agrément par la direction générale de l'alimentation selon des modalités fixées par instructions du ministère de l'agriculture et de la forêt.
 
-7 bis° Les déchets animaux de mammifères, visés par la décision 1999/534/CE du 19 juillet 1999 concernant les mesures applicables au traitement de certains déchets animaux aux fins de la protection contre les encéphalopathies spongiformes transmissibles et modifiant la décision 97/735/CE de la Commission, sont transformés conformément aux conditions prévues par cette décision.
+7° bis° Les déchets animaux de mammifères visés par la décision 1999/534/CE du 19 juillet 1999 concernant les mesures applicables au traitement de certains déchets animaux aux fins de la protection contre les encéphalopathies spongiformes transmissibles et modifiant la décision 97/735/CE de la Commission sont transformés conformément aux conditions prévues par cette décision.
 
-En outre, le traitement prévu à l'annexe I de cette décision est également applicable aux graisses de ruminants issues de matières à faible risque et destinées à l'alimentation ou la fabrication d'aliments des animaux. Cette mesure est applicable à partir du 1er octobre 2001.
+Les graisses destinées à la production :
+
+- d'aliments des animaux de toutes espèces dont la chair et les produits sont destinés à la consommation humaine ;
+
+- de matières fertilisantes et de supports de culture,
+
+doivent être soumises à un traitement de purification de manière à obtenir un taux maximum d'impuretés non solubles totales résiduelles n'excédant pas 0,15 % en poids du produit fini.
+
+En outre, le traitement prévu à l'annexe I de la décision susvisée est également applicable aux graisses de ruminants issues de matières à faibles risques et destinées à l'alimentation ou la fabrication d'aliments des animaux. Cette mesure est applicable depuis le 1er octobre 2001.
 
 7 ter° Le ministre de l'agriculture et de la pêche peut fixer des critères de traitement s'appliquant à la transformation des matières à haut et à faible risque destinées à l'incinération ou la co-incinération, ainsi que des matières à faible risque destinées à un usage technique.
 

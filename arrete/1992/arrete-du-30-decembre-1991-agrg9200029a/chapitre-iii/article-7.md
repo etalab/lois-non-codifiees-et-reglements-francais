@@ -27,3 +27,5 @@ Le secteur souillé doit, le cas échéant, comporter des équipements appropri�
 L'usine de transformation doit disposer d'installations adéquates permettant de désinfecter les roues immédiatement avant le départ des véhicules transportant les matières à haut risque ou quittant le secteur souillé de l'usine.
 
 8° L'usine de transformation doit comporter un dispositif d'évacuation des eaux résiduaires répondant aux exigences d'hygiène.    9° L'usine de transformation doit avoir son propre laboratoire ou recourir aux services d'un laboratoire doté des équipements nécessaires pour les analyses essentielles, notamment pour l'examen de la conformité aux dispositions du chapitre V.
+
+10° Les établissements destinant tout ou partie de leurs productions à l'alimentation des animaux des espèces dont la chair ou les produits sont destinés à la consommation humaine et des animaux de compagnie ne pourront introduire sur leur site des déchets non transformés de ruminants à l'exclusion des graisses obtenues de la fonte de tissus adipeux de bovins collectés à l'abattoir avant fente de la colonne vertébrale.
