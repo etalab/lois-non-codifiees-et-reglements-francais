@@ -627,6 +627,7 @@
 - [Décret n°99-742 du 27 août 1999 (ECOI9900329D)](decret-n99-742-du-27-aout-1999-ecoi9900329d)
 - [Décret n°99-754 du 27 août 1999 (FPPA9900058D)](decret-n99-754-du-27-aout-1999-fppa9900058d)
 - [Décret n°99-842 du 27 septembre 1999 (INTM9900028D)](decret-n99-842-du-27-septembre-1999-intm9900028d)
+- [Décret n°99-849 du 27 septembre 1999 (INTM9900023D)](decret-n99-849-du-27-septembre-1999-intm9900023d)
 - [Décret n°99-426 du 27 mai 1999 (MESP9921434D)](decret-n99-426-du-27-mai-1999-mesp9921434d)
 - [Décret n°99-433 du 27 mai 1999 (ECOX9900037D)](decret-n99-433-du-27-mai-1999-ecox9900037d)
 - [Décret n°2000-380 du 28 avril 2000 (JUSF0050016D)](decret-n2000-380-du-28-avril-2000-jusf0050016d)
