@@ -1,3 +1,0 @@
-# Article 21
-
-Les décrets n° 68-363 du 19 avril 1968 portant statut particulier du corps des surveillants des établissements nationaux supérieurs d'enseignement artistique et des écoles nationales des départements, n° 82-643 du 26 juillet 1982 relatif au statut particulier du personnel de magasinage spécialisé de la direction des archives de France, n° 82-644 du 26 juillet 1982 relatif au statut particulier du personnel de la surveillance spécialisée des musées nationaux et n° 82-645 du 26 juillet 1982 relatif au statut particulier du personnel de la surveillance spécialisée de la direction du patrimoine du ministère de la culture sont abrogés.
