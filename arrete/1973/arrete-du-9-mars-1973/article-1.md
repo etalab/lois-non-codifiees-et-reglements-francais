@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé auprès du ministre d'Etat chargé des affaires sociales un comité d'histoire de la sécurité sociale chargé de définir les principes et les méthodes de l'histoire de la sécurité sociale avant et aprés 1945, d'établir des rapports avec les disciplines connexes et les institutions intéressées, de collaborer avec la commission permanente des archives de la santé publique et de la sécurité sociale à la définition d'une politique d'archives, d'élaborer et de faire élaborer des instruments et documents de travail, de recenser les travaux en cours, d'en susciter de nouveaux et de les coordonner, d'intéresser l'opinion à ces travaux et recherches.

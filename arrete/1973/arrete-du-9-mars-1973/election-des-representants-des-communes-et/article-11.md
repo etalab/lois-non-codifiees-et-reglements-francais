@@ -1,0 +1,3 @@
+# Article 11
+
+La désignation des membres titulaires est effectuée de la façon suivante. Chaque liste a droit à autant de sièges que le nombre de voix recueillies par elle contient de fois le quotient électoral. Celui-ci est le résultat de la division du nombre de suffrages exprimés par le nombre de sièges à pourvoir. Les sièges restant à pourvoir après cette opération sont attribués sur la base du plus fort reste. Cette règle consiste à attribuer les sièges restants en une seule fois aux listes classées dans l'ordre décroissant des restes donnés par les divisions effectuées dans la première opération et en suivant cet ordre.
