@@ -12,4 +12,4 @@ Les feuillets fixes doivent porter les mêmes rubriques, à l'exception de celle
 
 II. La transmission des registres et feuillets entre l'employeur et le médecin du travail doit être assurée dans des conditions sauvegardant le caractère confidentiel des indications qui y sont portées.
 
-III. Le médecin du travail doit, en outre, remettre à celui-ci une fiche d'aptitude conforme au modèle décrit à l'article 1.
+III. Le médecin du travail doit, en outre, remettre au salarié une fiche d'aptitude conforme au modèle décrit à l'article 1er du présent arrêté.

@@ -1,6 +1,8 @@
 # Article 1
 
-La fiche d'aptitude prévue par l'article 40-1 du décret du 11 mai 1982 susvisé doit être établie sur un imprimé dont les dimensions ne peuvent être inférieures à 210 mm x 145 mm. Cet imprimé doit porter les rubriques suivantes :
+La fiche d'aptitude prévue par l'article 40-I du décret du 11 mai 1982 susvisé doit être établie sur un imprimé dont les dimensions ne peuvent être inférieures à 210 mm x 95 mm.
+
+Cet imprimé doit porter les rubriques suivantes :
 
 -dénomination et adresse du service médical;
 
