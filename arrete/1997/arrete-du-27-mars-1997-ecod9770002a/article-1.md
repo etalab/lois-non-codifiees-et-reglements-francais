@@ -2,9 +2,7 @@
 
 Le contingent d'exportation de rhum de la Martinique de 32 645 hectolitres d'alcool pur de rhum traditionnel agricole et de 9 205 hectolitres d'alcool pur de rhum traditionnel de sucrerie produit à partir de mélasse est réparti entre les producteurs de rhum ainsi qu'il suit :
 
-GROUPE
-
-Bardinet
+GROUPE Bardinet
 
 NOM OU RAISON SOCIALE de la distillerie
 
@@ -22,9 +20,7 @@ CONTINGENT DE RHUM traditionnel agricole
 
 2 958
 
-GROUPE
-
-Bourdillon
+GROUPE Bourdillon
 
 NOM OU RAISON SOCIALE de la distillerie
 
@@ -52,7 +48,7 @@ CONTINGENT DE RHUM traditionnel agricole
 
 NOM OU RAISON SOCIALE de la distillerie
 
-Distillerie du Simon SA, au François
+Distillerie du Simon SA, à Le François
 
 CONTINGENT DE RHUM traditionnel agricole
 
@@ -80,4 +76,4 @@ SAEM de production sucrière et rhumière de la Martinique du Galion, à Trinit�
 
 CONTINGENT DE RHUM traditionnel de sucrerie
 
-9 205
+9 205.

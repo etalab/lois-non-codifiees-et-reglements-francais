@@ -12,5 +12,6 @@
 - [Chapitre VII : Instructeurs](chapitre-vii)
 - [Chapitre VIII : Carnet de vol et décompte du temps de vol](chapitre-viii)
 - [Chapitre IX : Dispositions transitoires](chapitre-ix)
+- [Chapitre X : Examinateurs](chapitre-x)
 - [ANNEXE](annexe)
 - [APPENDICE](appendice)
