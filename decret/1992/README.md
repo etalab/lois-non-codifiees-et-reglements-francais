@@ -1148,7 +1148,6 @@
 - [Décret n°92-1391 du 30 décembre 1992 (INDE9200932D)](decret-n92-1391-du-30-decembre-1992-inde9200932d)
 - [Décret n°92-1392 du 30 décembre 1992 (ENEG9200857D)](decret-n92-1392-du-30-decembre-1992-eneg9200857d)
 - [Décret n°92-1429 du 30 décembre 1992 (BUDL9200228D)](decret-n92-1429-du-30-decembre-1992-budl9200228d)
-- [Décret n°92-1430 du 30 décembre 1992 (BUDB9230124D)](decret-n92-1430-du-30-decembre-1992-budb9230124d)
 - [Décret n°92-1431 du 30 décembre 1992 (BUDF9200035D)](decret-n92-1431-du-30-decembre-1992-budf9200035d)
 - [Décret n°92-1432 du 30 décembre 1992 (SPSG9202710D)](decret-n92-1432-du-30-decembre-1992-spsg9202710d)
 - [Décret n°92-1433 du 30 décembre 1992 (SPSS9203003D)](decret-n92-1433-du-30-decembre-1992-spss9203003d)
