@@ -25,3 +25,4 @@
 - [Loi n° 89-322 du 18 mai 1989 (MAEX8900048L)](loi-n-89-322-du-18-mai-1989-maex8900048l)
 - [Loi n°73-6 du 3 janvier 1973](loi-n73-6-du-3-janvier-1973)
 - [Loi n°86-14 du 6 janvier 1986](loi-n86-14-du-6-janvier-1986)
+- [Loi n°89-377 du 13 juin 1989 (JUSX8800150L)](loi-n89-377-du-13-juin-1989-jusx8800150l)

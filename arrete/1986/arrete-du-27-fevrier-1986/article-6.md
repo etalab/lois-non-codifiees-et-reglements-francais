@@ -1,3 +1,3 @@
 # Article 6
 
-L'arrêté du 20 janvier 1981 portant attribution d'indemnité aux commissaires enquêteurs assurant les fonctions prévues au code de l'expropriation pour cause d'utilité publique est abrogé.
+Les enquêtes publiques relatives aux opérations qui n'entrent pas dans le champ d'application de la loi n° 83-630 du 12 juillet 1983 restent soumises aux dispositions qui leur sont propres, sous réserve des dispositions de l'article 3, alinéa 2, du présent arrêté.

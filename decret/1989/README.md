@@ -78,6 +78,7 @@
 - [Décret n°87-910 du 9 novembre 1987 (INDD8700194D)](decret-n87-910-du-9-novembre-1987-indd8700194d)
 - [Décret n°89-154 du 9 mars 1989 (ECOT8970001D)](decret-n89-154-du-9-mars-1989-ecot8970001d)
 - [Décret n°89-162 du 9 mars 1989 (EQUP8800401D)](decret-n89-162-du-9-mars-1989-equp8800401d)
+- [Décret n°89-380 du 9 juin 1989 (EQUP8900073D)](decret-n89-380-du-9-juin-1989-equp8900073d)
 - [Décret n°90-47 du 9 janvier 1990 (MCCB8900543D)](decret-n90-47-du-9-janvier-1990-mccb8900543d)
 - [Décret n°88-690 du 9 mai 1988 (PRMJ8860045D)](decret-n88-690-du-9-mai-1988-prmj8860045d)
 - [Décret n°88-700 du 9 mai 1988 (MCCB8800300D)](decret-n88-700-du-9-mai-1988-mccb8800300d)
