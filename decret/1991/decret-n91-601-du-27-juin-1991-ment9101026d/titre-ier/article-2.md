@@ -4,7 +4,7 @@ L'Ecole nationale supérieure des arts et techniques du théâtre dispense en fo
 
 Elle forme notamment des comédiens et des spécialistes chargés d'assurer des missions de conception, de maîtrise d'oeuvre et de réalisation, dans les entreprises de spectacle.
 
-Elle peut participer à des activités de recherche et de création dans ces domaines.
+Elle conduit, en collaboration avec d'autres organismes culturels et professionnels, des activités de recherche et de création dans ces domaines ; elle contribue à la valorisation et à la diffusion de ces productions.
 
 Elle assure également des missions de formation continue.
 

@@ -2,7 +2,7 @@
 
 Les recettes de l'établissement comprennent :
 
-1° Les subventions de l'Etat, des collectivités publiques et de tout organisme public ou privé ;
+1° Les subventions de l'Etat, des collectivités publiques et de tout organisme public ou privé et des recettes de mécénat ;
 
 2° Les versements et contributions des étudiants ;
 
