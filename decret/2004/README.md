@@ -75,6 +75,7 @@
 - [Décret n°2004-322 du 8 avril 2004 (FAMX0400069D)](decret-n2004-322-du-8-avril-2004-famx0400069d)
 - [Décret n°2004-323 du 8 avril 2004 (MJSX0400070D)](decret-n2004-323-du-8-avril-2004-mjsx0400070d)
 - [Décret n°2004-324 du 8 avril 2004 (MPEX0400071D)](decret-n2004-324-du-8-avril-2004-mpex0400071d)
+- [Décret n°2004-325 du 8 avril 2004 (INDI0302128D)](decret-n2004-325-du-8-avril-2004-indi0302128d)
 - [Décret n°2004-33 du 8 janvier 2004 (MAEJ0330108D)](decret-n2004-33-du-8-janvier-2004-maej0330108d)
 - [Décret n°2004-678 du 8 juillet 2004 (FPPA0400023D)](decret-n2004-678-du-8-juillet-2004-fppa0400023d)
 - [Décret n°2004-966 du 8 septembre 2004 (EQUP0301571D)](decret-n2004-966-du-8-septembre-2004-equp0301571d)

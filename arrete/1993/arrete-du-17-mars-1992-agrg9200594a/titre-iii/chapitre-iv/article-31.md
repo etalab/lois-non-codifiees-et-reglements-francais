@@ -114,7 +114,9 @@ i) Le crâne, y compris l'encéphale et les yeux, la colonne vertébrale, y comp
 
 - la rate des ovins et caprins, quel que soit leur âge ;
 
-- la moelle épinière des ovins et caprins âgés de douze mois et plus.
+- la moelle épinière des ovins et caprins âgés de douze mois et plus ou qui présentent une incisive permanente ayant percé la gencive ;
+
+- l'iléon des ovins et caprins abattus à compter du 1er octobre 2003, quel que soit leur âge.
 
 ii) Les tissus suivants provenant d'animaux ayant pu être exposés à un risque spécifique de contamination par un agent d'une encéphalopathie spongiforme subaiguë transmissible (ESST) :
 
@@ -124,7 +126,7 @@ ii) Les tissus suivants provenant d'animaux ayant pu être exposés à un risque
 
 iii) Les abats suivants :
 
-- les amygdales et les intestins, y compris le mésentère, des bovins, quel que soit leur âge ;
+- les amygdales et les intestins, y compris le mésentère, des bovins quel que soit leur âge ; l'élimination des amygdales est effectuée en procédant pour les bovins de tous âges à une coupe transversale de la langue en avant du processus lingual de l'os basihyoïde.
 
 iv) Le thymus des bovins, à l'exclusion du thymus des bovins :
 
@@ -138,9 +140,9 @@ iv) Le thymus des bovins, à l'exclusion du thymus des bovins :
 
 - nés, et élevés dans les pays cités à l'annexe XI du règlement modifié (CE) n° 999/2001 du 22 mai 2001 fixant les règles pour la prévention, le contrôle et l'éradication de certaines encéphalopathies spongiformes transmissibles.
 
-q) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux de l'espèce bovine âgés de vingt-quatre mois et plus soumis à un test de dépistage de l'encéphalopathie spongiforme bovine avec résultat non négatif.
+q) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux de l'espèce bovine âgés de vingt-quatre mois et plus, puis, à compter du 1er juillet 2004, âgés de trente mois et plus, soumis à un test de dépistage de l'encéphalopathie spongiforme bovine avec résultat non négatif.
 
-r) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux de l'espèce bovine âgés de vingt-quatre mois et plus non soumis à un test de dépistage de l'encéphalopathie spongiforme bovine.
+r) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux de l'espèce bovine âgés de vingt-quatre mois et plus, puis, à compter du 1er juillet 2004, âgés de trente mois et plus, non soumis à un test de dépistage de l'encéphalopathie spongiforme bovine.
 
 s) Les viandes et tous les sous-produits, y compris le cuir, encore présents à l'abattoir, et consignés conformément à l'article 27 A, point 4, du présent arrêté provenant d'animaux de l'espèce bovine qui :
 
