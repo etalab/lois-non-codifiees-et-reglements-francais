@@ -54,4 +54,5 @@
 - [Arrêté du 28 février 1995 (DEFP9501162A)](arrete-du-28-fevrier-1995-defp9501162a)
 - [Arrêté du 28 juillet 1995 (DEFP9501527A)](arrete-du-28-juillet-1995-defp9501527a)
 - [Arrêté du 29 novembre 1994 (EQUS9401995A)](arrete-du-29-novembre-1994-equs9401995a)
+- [Arrêté du 30 décembre 1994 (AGRA9402309A)](arrete-du-30-decembre-1994-agra9402309a)
 - [Arrêté du 30 décembre 1994 (ECOT9494302A)](arrete-du-30-decembre-1994-ecot9494302a)
