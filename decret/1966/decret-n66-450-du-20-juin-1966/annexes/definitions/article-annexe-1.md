@@ -1,56 +1,114 @@
 # Article ANNEXE 1
 
-A. - Termes physiques, grandeurs et unités
+Définitions
 
-Rayonnements ionisants : rayonnements composés de photons ou de particules capables de déterminer la formation d'ions directement ou indirectement.
+Activité (A) : l'activité A d'une quantité d'un radionucléide à un état énergétique déterminé et à un moment donné est le quotient de dN par dt, où dN est le nombre probable de transitions nucléaires spontanées avec émission d'un rayonnement ionisant à partir de cet état énergétique dans l'intervalle de temps dt.
 
-Nucléide : espèce atomique définie par son nombre de masse, son numéro atomique et son état énergétique nucléaire.
+dN
 
-Radioactivité : phénomène de transformation spontanée d'un nucléide avec émission de rayonnements ionisants.
+A = dt
 
-Radionucléide (radio-élément) : nucléide radioactif.
+L'unité d'activité d'une source radioactive est le becquerel (Bq).
 
-Activité (radioactive) : quotient du nombre de transformations nucléaires spontanées qui se produisent dans une quantité d'un radionucléide pendant un certain temps, par ce temps.
+Becquerel (unité d'activité) : un becquerel (Bq) équivaut à une transition par seconde.
 
-Dans le système S.I., l'unité d'activité d'une source radioactive est le becquerel, activité d'une quantité de nucléide radioactif pour laquelle le nombre moyen de transitions (transformations) nucléaires spontanées par seconde est égal à 1 :
+Contamination radioactive : présence indésirable de substances radioactives à la surface ou à l'intérieur d'un milieu quelconque, y compris le corps humain.
 
-1 Bq = 1 s puissance -1
+Dose absorbée (D) : énergie absorbée par unité de masse :
 
-On rappelle les valeurs de l'activité dans l'unité hors système, le curie :
+dE
 
-1 Bq = 2,702 7 . 10 puissance -11 Ci
+D = dm
 
-1 Ci = 3,7 . 10 puissance 10 Bq
+où :
 
-Activité massique : activité par unité de masse.
+dE est l'énergie moyenne communiquée par le rayonnement ionisant à la matière dans un élément de volume ;
 
-Activité volumique : activité par unité de volume.
+dm est la masse de la matière contenue dans cet élément de volume.
 
-Période radioactive (période physique) : la période radioactive est le temps au bout duquel l'activité d'un radionucléide a diminué de moitié.
+Le terme dose absorbée désigne la dose moyenne reçue par un tissu ou un organe.
 
-Dose absorbée : quotient de l'énergie moyenne communiquée par les rayonnements ionisants à la matière dans un élément de volume, par la masse de matière contenue dans cet élément de volume.
+L'unité de dose absorbée est le gray (Gy).
 
-Dans le système S.I., l'unité de dose absorbée est le gray, dose absorbée dans une masse de matière de un kilogramme à laquelle les rayonnements ionisants communiquent en moyenne de façon uniforme une énergie de 1 joule :
+Dose efficace (E) : somme des doses équivalentes pondérées délivrées par exposition interne et externe aux différents tissus et organes du corps. Elle est définie par la formule :
 
-1 Gy = 1 J.kg puissance -1
+E = S
 
-On rappelle les valeurs de dose absorbée, en rad, sous-multiple du gray :
+wT HT =
 
-1 rd = 10 puissance -2 Gy
+S
 
-1 Gy = 100 rd
+wT
 
-Transfert linéique d'énergie (symbole L infini) : quotient de l'énergie moyenne localement communiquée à un milieu par une particule chargée d'énergie donnée le long d'un élément convenablement petit de sa trajectoire, par la longueur de cet élément de trajectoire.
+S
 
-Fluence de particules : quotient du nombre de particules pénétrant dans une sphère, par l'aire d'un grand cercle de cette sphère.
+wR DT,R
 
-Débit de fluence : fluence par unité de temps.
+T
 
-B. - Termes radiologiques, biologiques et médicaux
+T
 
-Exposition : toute exposition de personnes à des rayonnements ionisants.
+R
 
-On distingue :
+où :
+
+DT,R est la moyenne pour l'organe ou le tissu T de la dose absorbée du rayonnement R ;
+
+wR est le facteur de pondération pour le rayonnement R ;
+
+wT est le facteur de pondération pour le tissu ou l'organe T.
+
+Les valeurs appropriées de wT et wR sont fixées par arrêté pris en application de l'article 3 du présent décret. L'unité de dose efficace est le sievert (Sv)
+
+Dose efficace engagée [E (t)] : somme des doses équivalentes engagées dans les divers tissus ou organes [HT(t)] par suite d'une incorporation, multipliées chacune par le facteur de pondération wT approprié. Elle est donnée par la formule :
+
+E (t) = S
+
+wT HT (t)
+
+T
+
+Dans E (t), t désigne le nombre d'années sur lequel est faite l'intégration.
+
+L'unité de dose efficace engagée est le sievert (Sv).
+
+Dose équivalente (HT) : dose absorbée par le tissu ou l'organe T, pondérée suivant le type et l'énergie du rayonnement R. Elle est donnée par la formule :
+
+HT,R = wR DT,R
+
+où :
+
+DT,R est la moyenne pour l'organe ou le tissu T de la dose absorbée du rayonnement R ;
+
+wR est le facteur de pondération pour le rayonnement R.
+
+Lorsque le champ de rayonnement comprend des rayonnements de types et d'énergies correspondant à des valeurs différentes de wR la dose équivalente totale HT est donnée par la formule :
+
+HT = S
+
+wR DT,R
+
+R
+
+Les valeurs appropriées de wR sont fixées par l'arrêté pris en application de l'article 3 du présent décret. L'unité de dose équivalente est le sievert (Sv).
+
+Dose équivalente engagée [HT (t)] : intégrale sur le temps (t) du débit de dose équivalente au tissu ou à l'organe T qui sera reçu par un individu à la suite de l'incorporation de matière radioactive. Pour une incorporation d'activité à un moment to, elle est définie par la formule :
+
+to + tHT (t) =  HT (t) dt
+
+to
+
+où :
+
+HT (t) est le débit de dose équivalente à l'organe ou au tissu T au moment t ;
+
+t la période sur laquelle l'intégration est effectuée.
+
+Dans HT(t ), t est indiqué en années. Si la valeur de t n'est pas donnée, elle est implicitement, pour les adultes, de cinquante années et, pour les enfants, du nombre d'années restant jusqu'à l'âge de soixante-dix ans. L'unité de dose équivalente engagée est le sievert (Sv).
+
+Exposition : fait d'être exposé à des rayonnements ionisants.
+
+Termes utilisés :
 
 L'exposition externe : exposition résultant de sources situées en dehors de l'organisme.
 
@@ -62,48 +120,36 @@ L'exposition globale : exposition du corps entier considérée comme homogène.
 
 L'exposition partielle : exposition portant essentiellement sur une partie de l'organisme ou sur un ou plusieurs organes ou tissus.
 
-Exposition exceptionnelle concertée : exposition entraînant le dépassement temporaire et limité de l'une des limites fixées aux articles 9, 10 et 11 du présent décret que l'on autorise à titre exceptionnel dans certaines situations inhabituelles lorsque d'autres techniques ne comportant pas de telles expositions ne peuvent être utilisées.
+Gray (unité de dose absorbée) : un gray (Gy) correspond à un joule par kilogramme :
 
-Exposition d'urgence : exposition justifiée par des conditions anormales pour porter assistance à des personnes en danger ou prévenir l'exposition d'un grand nombre de personnes, qui peut entraîner le dépassement important de l'une des limites fixées aux articles 9, 10 et 11 du présent décret, les limites fixées à l'article 13 pour les expositions exceptionnelles concertées pouvant également être dépassées.
+1 Gy = 1 J.kg-1
 
-Accident d'exposition : il se distingue de l'exposition excessive fortuite (exposition exceptionnelle non concertée) par le dépassement d'au moins dix fois les limites fixées aux articles 9, 10 et 11 du présent décret.
+Groupe de référence de la population : groupe d'individus dont l'exposition à une source est assez uniforme et représentative de celle des individus qui, parmi la population, sont plus particulièrement exposés à ladite source.
 
-Facteur de qualité Q : fonction du transfert linéique d'énergie utilisée pour pondérer les doses absorbées afin de rendre compte de leur signification pour les besoins de la radioprotection. Les valeurs des facteurs de qualité à utiliser pour évaluer l'équivalent de dose sont fixées pour les différents types de rayonnements à l'annexe III.
+Incorporation : pénétration de radionucléides dans l'organisme.
 
-Facteur de qualité effectif Q : valeur moyenne du facteur de qualité lorsque la dose absorbée est délivrée par des particules ayant différentes valeurs de L infini.
+Limites de dose : valeurs maximales de référence pour les doses résultant de l'exposition de personnes du public aux rayonnements ionisants et qui s'appliquent à la somme des doses concernées résultant de sources externes de rayonnement pendant la période spécifiée et des doses engagées sur cinquante années (sur soixante-dix années pour les enfants) par suite des incorporations pendant la même période.
 
-Equivalent de dose : pour les besoins de la radioprotection on définit une grandeur appelée équivalent de dose. L'équivalent de dose est défini comme le produit de la dose absorbée par le facteur de qualité et d'autres facteurs adéquats éventuels.
+Nucléide : espèce atomique définie par son nombre de masse, son numéro atomique et son état énergétique nucléaire.
 
-Dans le système S.I., l'unité d'équivalent de dose est le sievert ; le sievert est égal au joule par kilogramme.
+Personne du public : individu de la population, qui n'est ni un travailleur exposé, ni un patient exposé au titre d'un diagnostic ou d'un traitement médical, ni un individu qui, en connaissance de cause et de son plein gré, participe à un titre privé au soutien et au réconfort de patients subissant un diagnostic ou un traitement médical, ni une personne participant à des programmes de recherche médicale ou biomédicale.
 
-On rappelle les valeurs de l'équivalent de dose en rem, sous-multiple du sievert :
+Radioactivité : phénomène de transformation spontanée d'un nucléide avec émission de rayonnements ionisants.
 
-1 Sv = 1 J.kg puissance -1 = 100 rems
+Radionucléide : nucléide radioactif.
 
-Equivalent de dose engagé : équivalent de dose qui sera reçu en 50 ans, au niveau d'un organe, d'un tissu ou de l'organisme entier, par suite de l'incorporation de un ou plusieurs radionucléides.
+Rayonnements ionisants : transport d'énergie sous la forme de particules ou d'ondes électromagnétiques d'une longueur d'ondes
 
-Incorporation : activité prélevée par l'organisme dans le milieu extérieur.
+inférieure ou égale à 100 nanomètres, soit d'une fréquence supérieure ou égale à 3 x 1015 hertz, pouvant produire des ions directement ou indirectement.
 
-Limite annuelle d'incorporation (LAI) par ingestion ou par inhalation : pour un radionucléide donné, activité incorporée en un an dont la valeur est la plus faible des deux valeurs suivantes :
+Sievert : unité commune utilisée à la fois pour la dose équivalente et pour la dose efficace.
 
-- celle qui entraîne un équivalent de dose engagé égal à 0,5 Sv (50 rems) pour l'organe ou le tissu le plus irradié ;
+Source : appareil, substance radioactive ou installation pouvant émettre des rayonnements ionisants ou des substances radioactives.
 
-- celle qui entraîne la valeur de 0,05 Sv (5 rems) pour la somme des équivalents de dose engagés, au niveau des différents organes ou tissus, pondérés par des coefficients appropriés.
+Source naturelle : source de rayonnement ionisant d'origine naturelle terrestre ou cosmique.
 
-Selon le mode de pénétration du radionucléide dans l'organisme (par ingestion ou par inhalation), deux séries de valeurs de L.A.I. sont fixées pour chaque radionucléide à l'annexe IV.
+Source radioactive non scellée : source dont la présentation et les conditions normales d'emploi ne permettent pas de prévenir toute dispersion de substance radioactive.
 
-Limite dérivée de concentration d'un radionucléide dans l'air (L.D.C.A.) : concentration moyenne annuelle dans l'air inhalé, exprimée en unités d'activité par unité de volume qui, pour 2 000 heures de travail par an, entraîne une incorporation égale à la limite annuelle d'incorporation par inhalation ou, pour les gaz rares autres que le radon, entraîne un équivalent de dose égal à l'une des limites annuelles d'exposition fixées à l'article 9 (1, 2 et 3) du présent décret.
-
-Contamination radioactive : présence indésirable, à un niveau significatif pour l'hygiène, de substances radioactives à la surface ou à l'intérieur d'un milieu quelconque.
-
-Radiotoxicité : toxicité due aux rayonnements ionisants émis par un radionucléide incorporé et par ses produits de filiation. La radiotoxicité n'est pas seulement liée aux caractéristiques radioactives de ce radionucléide, mais également à son état chimique et physique, ainsi qu'au métabolisme de cet élément dans l'organisme ou dans les organes.
-
-C. - Termes techniques
-
-Source (de rayonnement) : appareil, partie d'appareil ou substance capable d'émettre des rayonnements ionisants.
-
-Source scellée : source constituée par des substances radioactives solidement incorporées dans des matières solides et effectivement inactives, ou scellée dans une enveloppe inactive présentant une résistance suffisante pour éviter, dans les conditions normales d'emploi, toute dispersion de substances radioactives.
-
-Source non scellée : source dont la présentation et les conditions normales d'emploi ne permettent pas de prévenir toute dispersion de substance radioactive.
+Source radioactive scellée : source dont la structure ou le conditionnement empêche, en utilisation normale, toute dispersion de matières radioactives dans le milieu ambiant.
 
 Substance radioactive : toute substance qui contient un ou plusieurs radionucléides dont l'activité ou la concentration ne peut être négligée du point de vue de la radioprotection.
