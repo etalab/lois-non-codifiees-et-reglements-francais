@@ -45,6 +45,7 @@
 - [Arrêté du 11 mai 1984](arrete-du-11-mai-1984)
 - [Arrêté du 12 janvier 1984](arrete-du-12-janvier-1984)
 - [Arrêté du 12 mars 1985](arrete-du-12-mars-1985)
+- [Arrêté du 13 août 1984](arrete-du-13-aout-1984)
 - [Arrêté du 13 avril 1984](arrete-du-13-avril-1984)
 - [Arrêté du 13 janvier 1984](arrete-du-13-janvier-1984)
 - [Arrêté du 13 juillet 1984](arrete-du-13-juillet-1984)
