@@ -3,4 +3,3 @@
 - [Article 23](article-23.md)
 - [Article 48](article-48.md)
 - [Article 55](article-55.md)
-- [Article 57](article-57.md)

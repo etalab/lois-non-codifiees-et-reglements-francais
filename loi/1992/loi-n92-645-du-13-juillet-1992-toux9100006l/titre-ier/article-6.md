@@ -1,3 +1,0 @@
-# Article 6
-
-Les titulaires de licence d'agent de voyages ne peuvent confier l'exécution d'opérations mentionnées à l'article 1er à des entreprises non titulaires de la licence que s'ils ont signé avec ces dernières une convention préalablement approuvée par l'autorité administrative, spécifiant que les opérations sont effectuées pour le compte, sous la responsabilité et avec les garanties du titulaire de la licence. La convention ne peut être conclue pour une durée supérieure à trois ans. Elle n'est pas renouvelable. Les entreprises exerçant une activité de mandataire d'agent de voyages doivent être dirigées par des personnes n'ayant pas fait l'objet de l'une des condamnations visées à l'article 26.
