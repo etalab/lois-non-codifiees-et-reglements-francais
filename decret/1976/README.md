@@ -2,6 +2,7 @@
 
 - [Décret n°76-303 du 2 avril 1976](decret-n76-303-du-2-avril-1976)
 - [Décret n°76-304 du 2 avril 1976](decret-n76-304-du-2-avril-1976)
+- [Décret n°76-478 du 2 juin 1976](decret-n76-478-du-2-juin-1976)
 - [Décret n°76-306 du 5 avril 1976](decret-n76-306-du-5-avril-1976)
 - [Décret n°76-342 du 6 avril 1976](decret-n76-342-du-6-avril-1976)
 - [Décret n°76-328 du 7 avril 1976](decret-n76-328-du-7-avril-1976)
