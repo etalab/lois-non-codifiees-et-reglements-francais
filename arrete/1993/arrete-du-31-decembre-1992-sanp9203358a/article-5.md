@@ -1,7 +1,15 @@
 # Article 5
 
-Les affichettes doivent comporter le message sanitaire "Fumer provoque des maladies graves".
+Les affichettes doivent comporter le message sanitaire :
 
-Cette mention est incluse dans un bandeau recouvrant complètement la partie inférieure ou supérieure de la publicité. Ce bandeau est égal à 20 p. 100 de la surface publicitaire.
+"Faites-vous aider pour arrêter de fumer, téléphonez au 0825-309-310 (0,15 Euros/min)."
 
-Le message sanitaire imprimé horizontalement en caractères gras sur fond contrastant clair doit être parfaitement lisible. La hauteur des caractères est au moins égale à 1/60 de la somme de la hauteur et de la largeur de l'affichette.
+Cette mention couvre au moins 40 % de la surface publicitaire.
+
+Le texte de l'avertissement exigé par le présent article est :
+
+a) Imprimé horizontalement en caractères gras Helvetica noirs sur fond blanc et en minuscules, sauf pour la première lettre du message ;
+
+b) Centré sur la surface sur laquelle le texte doit être imprimé ;
+
+c) Entouré d'un bord noir, d'une épaisseur de 3 mm, n'interférant en aucune façon avec le texte de l'avertissement.
