@@ -642,7 +642,6 @@
 - [Arrêté du 19 août 1997 (JUSC9720564A)](arrete-du-19-aout-1997-jusc9720564a)
 - [Arrêté du 19 décembre 1996 (AGRA9602580A)](arrete-du-19-decembre-1996-agra9602580a)
 - [Arrêté du 19 décembre 1996 (AGRA9602581A)](arrete-du-19-decembre-1996-agra9602581a)
-- [Arrêté du 19 décembre 1996 (EQUH9601731A)](arrete-du-19-decembre-1996-equh9601731a)
 - [Arrêté du 19 décembre 1996 (LOGC9600069A)](arrete-du-19-decembre-1996-logc9600069a)
 - [Arrêté du 19 décembre 1997 (JUSE9740127A)](arrete-du-19-decembre-1997-juse9740127a)
 - [Arrêté du 19 février 1997 (AGRG9700338A)](arrete-du-19-fevrier-1997-agrg9700338a)
