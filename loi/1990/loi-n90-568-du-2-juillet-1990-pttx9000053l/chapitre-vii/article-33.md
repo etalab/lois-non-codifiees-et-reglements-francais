@@ -1,10 +1,12 @@
 # Article 33
 
-La Poste et France Télécom constituent entre eux un ou plusieurs groupements d'intérêt public dotés de la personnalité morale et de l'autonomie financière pour assurer la gestion de services communs et notamment de leurs activités sociales.
+La Poste et France Télécom constituent entre eux un ou plusieurs groupements d'intérêt public dotés de la personnalité morale et de l'autonomie financière pour assurer la gestion de services communs et notamment des activités associatives communes.
 
 Ces groupements d'intérêt public sont constitués sans capital, par voie de convention d'association de moyens entre les deux exploitants et ne donnent lieu ni à la réalisation ni au partage de bénéfices. Les droits de leurs membres ne peuvent être représentés par des titres négociables. Toute clause contraire est réputée non écrite.
 
-Le conseil de gestion de chaque groupement d'intérêt public est constitué d'un représentant de chacun des deux exploitants qui en assure alternativement la présidence et d'un représentant désigné par le ministre chargé des postes et télécommunications.
+Le conseil de gestion de chaque groupement d'intérêt public ne concernant pas des activités sociales est constitué d'un représentant de chacun des deux exploitants qui en assure alternativement la présidence et d'un représentant désigné par le ministre chargé des postes et télécommunications.
+
+Le conseil de gestion de chaque groupement d'intérêt public concernant des activités sociales est constitué d'un représentant de chacun des deux exploitants publics qui en assure alternativement la présidence et, pour chaque exploitant public, d'un représentant des organisations syndicales. Celui-ci est désigné par les représentants au conseil d'orientation et de gestion mentionné à l'article 33-1 des organisations syndicales et des associations de personnel à caractère national selon les mêmes règles de vote qu'au sein dudit conseil.
 
 Le directeur du groupement est nommé par le conseil de gestion. Il assure, sous l'autorité du conseil de gestion, toutes les responsabilités attachées à l'organisation et au fonctionnement du groupement. Dans les rapports avec les tiers, le directeur engage le groupement pour tout acte entrant dans l'objet de celui-ci.
 
