@@ -73,6 +73,7 @@
 - [Décret n°90-72 du 17 janvier 1990 (JUSC8920949D)](decret-n90-72-du-17-janvier-1990-jusc8920949d)
 - [Décret n°61-63 du 18 janvier 1961](decret-n61-63-du-18-janvier-1961)
 - [Décret n°84-476 du 18 juin 1984](decret-n84-476-du-18-juin-1984)
+- [Décret n°90-78 du 19 janvier 1990 (INDA8900898D)](decret-n90-78-du-19-janvier-1990-inda8900898d)
 - [Décret n°90-933 du 19 octobre 1990 (EQUL9000361D)](decret-n90-933-du-19-octobre-1990-equl9000361d)
 - [Décret n°79-824 du 21 septembre 1979](decret-n79-824-du-21-septembre-1979)
 - [Décret n°90-839 du 21 septembre 1990 (SPSH9001846D)](decret-n90-839-du-21-septembre-1990-spsh9001846d)
