@@ -28,14 +28,6 @@ Emplois de catégories B et C
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
-Agences d'insertion
-
-EMPLOIS OU CATEGORIES D'EMPLOIS concernés
-
-Emplois des catégories A, B et C spécialisés dans l'insertion économique, professionnelle et sociale des départements d'outre-mer
-
-ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
-
 Agence de maîtrise d'ouvrage des travaux du ministère de la justice
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
@@ -102,14 +94,6 @@ Emplois de catégories A, B, C et D
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
-Caisse nationale de l'industrie
-
-EMPLOIS OU CATEGORIES D'EMPLOIS concernés
-
-Emplois de catégories A, B, C et D
-
-ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
-
 Caisse nationale des allocations familiales
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
@@ -118,27 +102,11 @@ Emplois de catégories A, B, C et D
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
-Caisse nationale des banques
-
-EMPLOIS OU CATEGORIES D'EMPLOIS concernés
-
-Emplois de catégories A, B, C et D
-
-ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
-
-Caisse nationale des monuments historiques
+Centre des monuments nationaux
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
 Emplois de catégories A, B, C et D.
-
-ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
-
-Centre d'études des systèmes d'information des administrations
-
-EMPLOIS OU CATEGORIES D'EMPLOIS concernés
-
-Emplois de catégories A, B, C et D
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
@@ -250,19 +218,7 @@ Etablissement public de la Bibliothèque nationale de France
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
-Emplois des catégories A, B et C nécessaires à l'accomplissement des missions de construction des bâtiments de Tolbiac et de Marne-la- Vallée jusqu'à la réception de ces bâtiments ;
-
-Emplois des catégories A, B et C nécessaires à l'accomplissement des missions d'aménagement, de constitution des collections, d'organisation et d'ouverture des bâtiments de Tolbiac et de Marne-la-Vallée, et ce, respectivement, pour les bâtiments de Tolbiac jusqu'à l'ouverture au public des bâtiments et pour les bâtiments de Marne-la-Vallée, jusqu'à la mise en service des installations.
-
 Emplois des catégories A, B et C des services commerciaux et d'édition, des services de la communication et des services d'organisation des expositions, à l'exception des chefs de service
-
-ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
-
-Etablissement public du centre de conférence internationale de Paris
-
-EMPLOIS OU CATEGORIES D'EMPLOIS concernés
-
-Emplois de catégories A, B, C et D
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
@@ -290,14 +246,6 @@ Emplois du service des réservations et des visites-conférences, du service de 
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
-Etablissement public du musée d'Orsay
-
-EMPLOIS OU CATEGORIES D'EMPLOIS concernés
-
-Emplois de catégories A, B, C  et D
-
-ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
-
 Etablissement public du musée du quai Branly
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
@@ -306,43 +254,11 @@ Emplois des catégories A, B et C jusqu'à l'ouverture au public de ce musée
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
-Etablissement public de l'Opéra de la Bastille
-
-EMPLOIS OU CATEGORIES D'EMPLOIS concernés
-
-Emplois de catégories A, B, C  et D
-
-ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
-
-Etablissement public du parc de la Villette
-
-EMPLOIS OU CATEGORIES D'EMPLOIS concernés
-
-Emplois de catégories A, B, C et D
-
-ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
-
 Fonds de solidarité
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
 Emplois de catégories A, B, C et D
-
-ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
-
-Institut d'élevage et de recherche vétérinaire des pays tropicaux
-
-EMPLOIS OU CATEGORIES D'EMPLOIS concernés
-
-Emplois de catégories A, B, C et D
-
-ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
-
-Institut de l'enfance et de la famille
-
-EMPLOIS OU CATEGORIES D'EMPLOIS concernés
-
-Emplois de catégories A
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
@@ -356,11 +272,11 @@ Emplois commerciaux de haut niveau
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
-Institut national de la consommation
+Institut national des appellations d'origine
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
-Emplois de catégorie A
+Emplois des catégories A, B, C et D
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
@@ -369,14 +285,6 @@ Institut national de la propriété industrielle
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
 Emplois de catégories A, B, C et D
-
-ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
-
-Institut de recherche des transports
-
-EMPLOIS OU CATEGORIES D'EMPLOIS concernés
-
-Emplois de catégories A, B, C et D de l'unité de recherche de la sécurité routière
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
@@ -404,7 +312,7 @@ Emplois de catégories A, B, C et D
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
-Musée de la marine
+Musée national de la marine
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
@@ -417,22 +325,6 @@ Musée Rodin
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
 Emplois commerciaux des catégories A, B, C et D
-
-ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
-
-Office de coopération et d'accueil universitaires
-
-EMPLOIS OU CATEGORIES D'EMPLOIS concernés
-
-Emplois de catégories A, B, C et D
-
-ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
-
-Office national à l'action sociale, éducative et culturelle pour les rapatriés
-
-EMPLOIS OU CATEGORIES D'EMPLOIS concernés
-
-Emplois de catégories A, B, C et D
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
@@ -449,11 +341,3 @@ Office de protection contre les rayonnements ionisants
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
 Emplois scientifiques et techniques de catégorie A et B
-
-ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
-
-Réunion des musées nationaux
-
-EMPLOIS OU CATEGORIES D'EMPLOIS concernés
-
-Emplois de catégories A, B, C  et D
