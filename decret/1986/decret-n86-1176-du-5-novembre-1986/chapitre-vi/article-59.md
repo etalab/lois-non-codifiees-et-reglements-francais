@@ -1,0 +1,5 @@
+# Article 59
+
+Les membres d'une société civile professionnelle d'administrateurs judiciaires ou d'une société civile professionnelle de mandataires liquidateurs, qui exercent la faculté prévue au quatrième alinéa de l'article 38 de la loi n° 85-99 du 25 janvier 1985 *modification du choix d'inscription sur les listes*, perdent la qualité d'associé. La cession de leurs parts est réalisée dans les conditions prévues à l'article 27.
+
+Si tous les associés d'une société civile professionnelle d'administrateurs judiciaires ou d'une société civile professionnelle de mandataires liquidateurs exercent la faculté prévue au quatrième alinéa de l'article 38 de la loi n° 85-99 du 25 janvier 1985, la société est dissoute de plein droit et il est procédé à sa liquidation. Toutefois, les associés peuvent, à l'unanimité, demander le changement de liste de la société civile professionnelle dont ils sont membres en application des dispositions du quatrième alinéa de l'article 38 précité sans qu'il y ait lieu à création d'une personne morale nouvelle.

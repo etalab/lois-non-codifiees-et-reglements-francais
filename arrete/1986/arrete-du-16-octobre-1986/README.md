@@ -1,4 +1,4 @@
-# Arrêté du 16 octobre 1986 relatif aux modalités de l'inspection sanitaire et qualitative à l'importation des denrées animales ou d'origine animale destinées à la consommation humaine ou des animaux de compagnie
+# Arrêté du 16 octobre 1986 fixant le programme et les modalités de l'examen d'aptitude à la profession d'administrateur judiciaire
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -13,3 +13,4 @@
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
+- [Annexes](annexes)

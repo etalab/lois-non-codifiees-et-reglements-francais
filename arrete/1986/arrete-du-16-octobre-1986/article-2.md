@@ -1,11 +1,15 @@
 # Article 2
 
-a) L'importation des denrées animales ou d'origine animale visées à l'article 1er est subordonnée à une inspection sanitaire et qualitative favorable, effectuée dans un bureau de douane ouvert aux opérations de l'espèce, et à la présentation des documents requis par la réglementation en vigueur.
+Tout candidat qui souhaite se présenter aux épreuves de l'examen d'aptitude, adresse sa demande par lettre recommandée avec demande d'avis de réception, au plus tard deux mois avant la date de la première épreuve, au secrétariat de la commission nationale d'inscription des administrateurs judiciaires.
 
-Les bureaux de douane sont ouverts aux inspections et contrôles des denrées animales ou d'origine animale par arrêté des ministres concernés, en fonction de l'importance du trafic annuel de ces denrées, de la qualité des locaux et équipements nécessaires à la bonne pratique des inspections, et des possibilités d'affectation du personnel vétérinaire chargé des contrôles.
+Le dossier de candidature comprend :
 
-Avec l'accord des chefs des administrations concernées, les inspections et contrôles des denrées animales ou d'origine animale destinées à la consommation et en provenance des seuls Etats membres de la C.E.E. pourront être pratiqués dans l'établissement de destination de ces denrées, dans la mesure où cet établissement disposera des locaux et équipements nécessaires et de la présence d'un personnel des services vétérinaires permanent, et bénéficiera de la procédure de dédouanement à domicile.
+1° Une requête de l'intéressé ;
 
-b) Sont par ailleurs dispensés de l'inspection sanitaire et qualitative ainsi que de la présentation du certificat de salubrité, les suifs, graisses et saindoux susceptibles d'être utilisés pour la consommation humaine ou des animaux de compagnie soit en nature, soit après un traitement approprié, mais qui sont destinés à un autre usage. Les marchandises de l'espèce doivent toutefois être accompagnées d'un certificat, délivré par les services vétérinaires du pays d'origine, attestant qu'elles ont été soumises à une dénaturation qui les rend impropres à la consommation.
+2° Une fiche individuelle d'état civil et de nationalité française ;
 
-En l'absence de ce certificat, les envois seront acheminés jusqu'à destination sous le régime de l'acquit à caution : celui-ci ne pourra être déchargé que sur présentation de l'attestation écrite d'un vétérinaire désigné par le directeur des services vétérinaires du département dans lequel se trouve l'établissement destinataire, certifiant que la dénaturation a été réalisée ou que les suifs, graisses et saindoux ont été utilisés à d'autres fins que la consommation humaine ou des animaux de compagnie.
+3° Une copie certifiée conforme de l'un des titres ou diplômes énumérés à l'article 4 du décret n° 85-1389 du 27 décembre 1985, ou la justification des dispenses prévues par la loi ;
+
+4° Une copie du certificat de fin de stage ou la justification d'une dispense de stage ;
+
+5° Le cas échéant, la justification de la dispense d'une ou plusieurs épreuves de l'examen d'aptitude.

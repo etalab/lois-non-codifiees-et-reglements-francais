@@ -1,7 +1,9 @@
 # Article 5
 
-Les importateurs ou les déclarants en douane doivent mettre à la disposition de l'agent de contrôle le matériel et l'aide nécessaire à l'exécution de son inspection sanitaire et qualitative.
+Les épreuves d'admissibilité comprennent :
 
-Ils doivent décharger, déballer et présenter les marchandises en vue de la visite, conformément aux instructions de l'agent de contrôle.
+1° Une épreuve d'une durée de quatre heures à caractère pratique portant sur un ou plusieurs sujets de droit civil ou commercial. La note est affectée d'un coefficient 3.
 
-Ils doivent, le cas échéant, prendre toutes les mesures conservatoires nécessaires, notamment assurer le stockage sous température dirigée, en cas de décision de mise en consigne des denrées en vue d'examens complémentaires prévus à l'article 17 du décret susvisé.
+2° Une épreuve d'une durée de quatre heures consistant en la résolution d'un cas pratique de comptabilité et de gestion d'entreprise. La note est affectée d'un coefficient 3 ;
+
+3° Une épreuve d'une durée de cinq heures ayant pour objet le traitement d'un dossier portant sur l'une des missions susceptibles d'être confiées à un administrateur judiciaire. La note est affectée d'un coefficient 6.
