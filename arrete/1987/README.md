@@ -182,6 +182,8 @@
 - [Arrêté du 27 janvier 1987 (AGRM8700194A)](arrete-du-27-janvier-1987-agrm8700194a)
 - [Arrêté du 27 janvier 1987 (MCCB8700002A)](arrete-du-27-janvier-1987-mccb8700002a)
 - [Arrêté du 27 mars 1987 (ECOC8710029A)](arrete-du-27-mars-1987-ecoc8710029a)
+- [Arrêté du 27 mars 1987 (STFS8700485A)](arrete-du-27-mars-1987-stfs8700485a)
+- [Arrêté du 27 mars 1987 (STFS8700486A)](arrete-du-27-mars-1987-stfs8700486a)
 - [Arrêté du 28 décembre 1986](arrete-du-28-decembre-1986)
 - [Arrêté du 28 janvier 1987 (ECOM8710013A)](arrete-du-28-janvier-1987-ecom8710013a)
 - [Arrêté du 28 janvier 1987 (PTTT8700065A)](arrete-du-28-janvier-1987-pttt8700065a)
