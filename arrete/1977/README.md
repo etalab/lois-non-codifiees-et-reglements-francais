@@ -1,6 +1,7 @@
 # 1977
 
 - [Arrêté du 1 octobre 1976](arrete-du-1-octobre-1976)
+- [Arrêté du 2 août 1977](arrete-du-2-aout-1977)
 - [Arrêté du 2 décembre 1976](arrete-du-2-decembre-1976)
 - [Arrêté du 2 février 1977](arrete-du-2-fevrier-1977)
 - [Arrêté du 2 mars 1977](arrete-du-2-mars-1977)
