@@ -1,6 +1,7 @@
 # 1972
 
 - [Arrêté du 1 février 1972](arrete-du-1-fevrier-1972)
+- [Arrêté du 1 septembre 1972](arrete-du-1-septembre-1972)
 - [Arrêté du 2 juin 1972](arrete-du-2-juin-1972)
 - [Arrêté du 2 mars 1972](arrete-du-2-mars-1972)
 - [Arrêté du 3 janvier 1972](arrete-du-3-janvier-1972)
