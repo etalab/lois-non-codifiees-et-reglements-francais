@@ -1,0 +1,5 @@
+# Article Annexe art. 9
+
+Les compagnies consulaires dont l'effectif est inférieur à dix agents doivent constituer une commission paritaire commune dans le cadre de la région à laquelle elles appartiennent. Cette commission fonctionne au siège de la région. Elle comprend, pour chaque compagnie consulaire concernée, un représentant du bureau et un représentant élu par le personnel. Celui-ci pourra se faire remplacer, s'il le juge opportun, par un représentant syndical de son choix, à condition qu'il s'agisse d'un agent d'une des compagnies consulaires de la région.
+
+Au cas où, dans une région, il n'existerait pas plus de deux compagnies consulaires comptant moins de dix agents, elles devront se rattacher à la commission paritaire locale de la compagnie consulaire du siège de la région. Chacune des compagnies consulaires composant cette commission paritaire commune au siège de la région conservera la représentation qui est la sienne par application des dispositions contenues aux trois premiers alinéas du présent article.
