@@ -2,7 +2,7 @@
 
 Conformément au 3° de l'article 19 de la loi du 11 janvier 1984 susvisée, peuvent se présenter au troisième concours les candidats justifiant de l'exercice :
 
-a) Pendant une durée de quatre ans au moins au cours des cinq dernières années précédant la date de clôture des registres d'inscription au concours, d'une ou plusieurs activités professionnelles relevant du domaine de l'éducation, de l'enseignement, de la formation professionnelle continue et de l'apprentissage ;
+a) Pendant une durée de quatre ans au moins au cours des cinq années précédant la date de clôture des registres d'inscription au concours, d'une ou plusieurs activités professionnelles relevant du domaine de l'éducation, de l'enseignement, de la formation professionnelle continue et de l'apprentissage ;
 
 b) Et d'un titre ou diplôme sanctionnant un cycle d'études postsecondaires d'au moins trois années ou disposant d'une expérience professionnelle d'une durée de cinq ans minimum conduisant à une qualification estimée équivalente par une commission dont les règles de constitution et de fonctionnement sont fixées par arrêté des ministres chargés de l'agriculture et de la fonction publique. Peut être prise en compte, au titre de cette expérience professionnelle, toute activité professionnelle dont l'exercice nécessite un niveau de qualification équivalent à celui sanctionné par le titre ou diplôme requis pour se présenter au concours. Lorsque le candidat justifie déjà d'un titre ou diplôme d'un niveau immédiatement inférieur à celui du titre ou diplôme requis, la durée minimale de l'expérience est fixée à deux ans.
 

@@ -4,6 +4,6 @@ Les assurés qui relèvent ou relevaient du régime des assurances sociales agri
 
 Toutefois, pour les personnes mentionnées au deuxième alinéa de l'article L. 131-7-1 du code de la sécurité sociale :
 
-1° Le taux de la cotisation d'assurance maladie, maternité, invalidité et décès assise sur les avantages mentionnés au deuxième alinéa de l'article L. 131-2 du code de la sécurité sociale est fixé à 4,50 % ;
+1° Le taux de la cotisation d'assurance maladie, maternité, invalidité et décès assise sur les avantages mentionnés au deuxième alinéa de l'article L. 131-2 du code de la sécurité sociale est fixé à 4,9 % ;
 
 2° Les bénéficiaires des autres avantages mentionnés au premier alinéa du même article sont redevables d'une cotisation au taux de 2,80 %.

@@ -10,7 +10,9 @@ a) Aux fonctionnaires de l'Etat, des collectivités territoriales et des établi
 
 b) Aux personnels enseignants de catégorie A justifiant de trois années de services publics ;
 
-c) Aux personnels non titulaires exerçant des fonctions d'éducation dans les établissements d'enseignement public et justifiant de l'un des titres ou diplômes requis des candidats au concours externe ainsi que de trois années de services publics.
+c) Aux personnels non titulaires exerçant des fonctions d'éducation dans les établissements publics d'enseignement et justifiant de l'un des titres ou diplômes requis des candidats au concours externe ainsi que de trois années de services publics ;
+
+d) Aux assistants d'éducation recrutés en application de l'article L. 916-1 du code de l'éducation dans les établissements publics d'enseignement relevant du ministre chargé de l'agriculture ainsi qu'aux maîtres d'internat et surveillants d'externat de ces mêmes établissements, justifiant, les uns et les autres, de l'un des titres ou diplômes requis des candidats au concours externe et de trois années de services publics.
 
 3° Conformément au 3° de l'article 19 de la loi du 11 janvier 1984 susvisée, le troisième concours est ouvert aux candidats justifiant :
 
