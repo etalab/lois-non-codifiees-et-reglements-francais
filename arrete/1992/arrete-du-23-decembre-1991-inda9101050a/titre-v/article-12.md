@@ -1,3 +1,5 @@
 # Article 12
 
-Le dépôt de candidature est obligatoire. La déclaration de candidature signée par le candidat doit être adressée par lettre recommandée, ou déposée auprès du directeur de l'établissement, avec accusé de réception. La date de limite pour le dépôt des candidatures ne peut en aucun cas être antérieure de plus de quinze jours francs ni de moins de dix jours francs à la date du scrutin.
+Le dépôt des candidatures est obligatoire. La déclaration de candidature signée par le candidat doit être adressée par lettre ou déposée auprès du représentant du directeur de l'établissement nommément désigné par celui-ci.
+
+La date limite pour le dépôt des candidatures est fixée dans le calendrier détaillant les échéances de chaque étape de la procédure visé à l'article 6.
