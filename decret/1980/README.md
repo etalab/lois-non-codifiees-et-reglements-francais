@@ -55,6 +55,7 @@
 - [Décret n°80-988 du 8 décembre 1980](decret-n80-988-du-8-decembre-1980)
 - [Décret n°80-989 du 8 décembre 1980](decret-n80-989-du-8-decembre-1980)
 - [Décret n°81-483 du 8 mai 1981](decret-n81-483-du-8-mai-1981)
+- [Décret n°80-1002 du 9 décembre 1980](decret-n80-1002-du-9-decembre-1980)
 - [Décret n°80-14 du 9 janvier 1980](decret-n80-14-du-9-janvier-1980)
 - [Décret n°80-426 du 9 juin 1980](decret-n80-426-du-9-juin-1980)
 - [Décret n°80-524 du 9 juillet 1980](decret-n80-524-du-9-juillet-1980)
