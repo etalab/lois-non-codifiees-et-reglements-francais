@@ -2,4 +2,4 @@
 
 Textes applicables
 
-Les dispositions techniques des articles visant les établissements sportifs de la 4e catégorie sont applicables aux établissements de 5e catégorie.
+En complément des dispositions des chapitres Ier et II du présent livre, les dispositions techniques du chapitre XII, livre II, visant les établissements du premier groupe, sont applicables aux établissements du 2e groupe.
