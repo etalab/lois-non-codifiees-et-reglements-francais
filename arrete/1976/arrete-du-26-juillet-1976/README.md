@@ -1,3 +1,8 @@
-# Arrêté du 26 juillet 1976 fixant les modalités d'application de l'article 11 du décret n° 76-456 du 21 mai 1976 relatif à la participation des établissements d'hospitalisation privés à but non lucratif à l'exécution du service public hospitalier.
+# Arrêté du 26 juillet 1976 relatif au système d'identification répertoriant les équidés
 
 - [Article 1](article-1.md)
+- [Titre Ier : Immatriculation et enregistrement.](titre-ier)
+- [Article 2](article-2.md)
+- [Titre II : Document d'accompagnement et carte d'immatriculation.](titre-ii)
+- [Article 20](article-20.md)
+- [Annexes](annexes)
