@@ -24,7 +24,7 @@ Communauté européenne du charbon et de l'acier.
 
 Communauté européenne de l'énergie atomique (Euratom).
 
-Compagnie nationale Air France.
+Société Air France.
 
 Compagnie nationale du Rhône.
 

@@ -1,8 +1,8 @@
 # Article 17
 
-I. L'Etat est autorisé, jusqu'au 30 juin 1998 au plus tard, à céder gratuitement des actions de la Compagnie nationale Air France aux salariés de cette entreprise qui, dans le cadre d'un accord collectif de travail, auront consenti, volontairement et individuellement, à une réduction de leurs salaires pour une durée de trois ans.
+I. L'Etat est autorisé, jusqu'au 30 juin 1998 au plus tard, à céder gratuitement des actions de la société Air France aux salariés de cette entreprise qui, dans le cadre d'un accord collectif de travail, auront consenti, volontairement et individuellement, à une réduction de leurs salaires pour une durée de trois ans.
 
-II. Ces cessions sont réservées aux salariés de la Compagnie nationale Air France qui, au jour de la signature de l'accord collectif de travail, sont titulaires d'un contrat de travail à durée indéterminée et rémunérés par l'entreprise, ainsi qu'aux mandataires sociaux de celle-ci en fonctions à la même date.
+II. Ces cessions sont réservées aux salariés de la société Air France qui, au jour de la signature de l'accord collectif de travail, sont titulaires d'un contrat de travail à durée indéterminée et rémunérés par l'entreprise, ainsi qu'aux mandataires sociaux de celle-ci en fonctions à la même date.
 
 III. La part des actions cédées dans les conditions prévues par la présente loi ne peut excéder une fraction du capital de l'entreprise supérieure à 20 p. 100.
 

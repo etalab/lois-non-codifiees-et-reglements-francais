@@ -2,7 +2,7 @@
 
 Aerospatiale, Société nationale industrielle.
 
-Compagnie nationale Air France.
+Société Air France.
 
 Banque Hervet.
 

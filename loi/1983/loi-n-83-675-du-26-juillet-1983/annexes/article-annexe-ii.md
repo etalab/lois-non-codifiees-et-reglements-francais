@@ -2,7 +2,7 @@
 
 Caisse nationale de crédit agricole ;
 
-Compagnie nationale Air France ;
+Société Air France ;
 
 Groupe Air France S.A. ;
 
