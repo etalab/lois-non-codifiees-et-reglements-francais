@@ -8,7 +8,7 @@ Tout devis doit comporter les mentions suivantes :
 
 3. Le nom, le prénom, la date de naissance et l'adresse du patient demandeur ;
 
-4. Le lieu d'exécution de la prestation en précisant, pour les établissements de santé privés, le numéro d'agrément délivré par la direction départementale des affaires sanitaires et sociales ;
+4. Le lieu d'exécution de la prestation en précisant, pour les établissements de santé privés, le numéro FINESS délivré par la direction régionale des affaires sanitaires et sociales ;
 
 5. La nature précise de l'acte prévu et de l'anesthésie nécessaire, la date proposée ; les informations d'ordre médical concernant l'acte proposé peuvent être données sur un document séparé ;
 
