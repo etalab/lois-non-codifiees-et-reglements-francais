@@ -12,7 +12,7 @@ L'exploitation doit être gérée distinctement de toute autre, sous réserve de
 
 Dans les départements où le revenu brut d'exploitation départemental par unité de travail agricole familial, calculé selon les modalités définies par un arrêté du ministre de l'agriculture, est inférieur à la valeur susmentionnée, le projet d'installation doit faire ressortir au terme de la troisième année suivant l'installation un revenu disponible au moins égal à ce revenu brut d'exploitation, sans pouvoir être inférieur à 40 p. 100 du revenu de référence national.
 
-Dans tous les cas, l'autorité compétente en application des articles 17, 18 et 19 ci-dessous peut octroyer l'aide à l'installation dès lors que le revenu disponible par unité de travail agricole familial est au moins égal, au terme de la troisième année suivant l'installation, à 60 p. 100 du revenu minimum exigé dans le département en application des dispositions des deux alinéas ci-dessus et sous réserve que l'étude prévisionnelle puisse établir qu'il atteindra ce minimum dans un délai supplémentaire de trois ans au plus.
+Le jeune agriculteur a la possibilité de demander l'agrément d'un projet d'installation progressive permettant d'atteindre au-delà de trois années et sans excéder la sixième année suivant l'installation le revenu minimum exigé, sur la base d'une étude prévisionnelle d'installation de même durée.
 
 La définition du revenu brut d'exploitation susmentionné est celle retenue par la commission des comptes de l'agriculture de la Nation créée par le décret du 6 février 1964 susvisé.
 
