@@ -26,6 +26,7 @@
 - [Décret n°87-851 du 19 octobre 1987 (MENL8700629D)](decret-n87-851-du-19-octobre-1987-menl8700629d)
 - [Décret n°88-55 du 19 janvier 1988 (ECOT8720050D)](decret-n88-55-du-19-janvier-1988-ecot8720050d)
 - [Décret n°88-1139 du 20 décembre 1988 (MCCB8800337D)](decret-n88-1139-du-20-decembre-1988-mccb8800337d)
+- [Décret n°88-66 du 20 janvier 1988 (MCCT8700525D)](decret-n88-66-du-20-janvier-1988-mcct8700525d)
 - [Décret n°88-68 du 21 janvier 1988 (MENB8800063D)](decret-n88-68-du-21-janvier-1988-menb8800063d)
 - [Décret n°88-431 du 22 avril 1988 (MCCB8800185D)](decret-n88-431-du-22-avril-1988-mccb8800185d)
 - [Décret n°88-432 du 22 avril 1988 (MCCB8800187D)](decret-n88-432-du-22-avril-1988-mccb8800187d)
