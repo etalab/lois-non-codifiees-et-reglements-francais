@@ -1,0 +1,3 @@
+# Article 4
+
+Les servitudes prévues aux articles 2 et 3 donnent droit à indemnisation conformément aux dispositions de l'article 11 de l'ordonnance n° 58-997 du 23 octobre 1958. Toutefois, le propriétaire peut, pendant le délai d'un an à compter de l'enquête parcellaire, requérir l'acquisition de tout ou partie de la bande large et éventuellement du reliquat des parcelles. Il peut, en outre, le faire à tout moment si l'existence de ces servitudes vient à rendre impossible l'utilisation normale de ces terrains. A défaut d'accord amiable, les contestations relèvent de la juridiction compétente en matière d'expropriation pour cause d'utilité publique.

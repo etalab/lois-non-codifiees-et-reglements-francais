@@ -7,5 +7,6 @@
 - [Titre III : Du développement économique et social en montagne](titre-iii)
 - [Titre IV : De l'aménagement et de la protection de l'espace montagnard](titre-iv)
 - [TITRE V : De la valorisation des ressources spécifiques de la montagne](titre-v)
+- [TITRE VI : Des secours aux personnes et aux biens.](titre-vi)
 - [Titre VII : Dispositions particulières aux départements d'outre-mer et rapport annuel.](titre-vii)
 - [Article 101](article-101.md)
