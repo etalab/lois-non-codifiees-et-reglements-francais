@@ -2,7 +2,9 @@
 
 Le concours A comprend deux options :
 
-- une option générale, ouverte aux élèves de la filière biologie, chimie, physique et sciences de la Terre (BCPST), dont les épreuves portent sur le programme des classes préparatoires aux grandes écoles défini par le ministre chargé de l'éducation nationale ;
+- une option générale, ouverte aux élèves de la filière biologie, chimie, physique et sciences de la Terre (BCPST), dont les épreuves portent sur le programme des classes préparatoires BCPST défini par le ministre chargé de l'éducation nationale ;
+
+- une option biochimie-biologie, ouverte aux élèves de la filière technologie et biologie (TB), dont les épreuves portent sur le programme des classes préparatoires TB défini par le ministre chargé de l'éducation nationale (voir NOTA).
 
 - une option biochimie-biologie, ouverte aux élèves de la filière technologie et biologie (TB), dont les épreuves portent sur les enseignements dispensés dans les classes préparatoires de première et de seconde année de technologie et biologie, diminués des parties indiquées à l'annexe II (1) du présent arrêté.
 
@@ -30,13 +32,13 @@ II- 3 h 30
 
 III- 3
 
-I- Physique
+- Physique
 
 II- 3 h 30
 
 III- 4
 
-I- Chimie
+- Chimie
 
 II- 3 h 30
 
@@ -178,7 +180,7 @@ Total : 30 + (6)
 
 (c) Sont seuls pris en compte les points supérieurs à la moyenne, affectés du coefficient correspondant.
 
-II. Option biochimie-biologie
+II. Option biochimie-biologie (voir NOTA)
 
 Epreuves écrites d'admissibilité
 
@@ -289,14 +291,6 @@ Mathématiques
 2
 
 Méthodes et techniques biologiques et biochimiques
-
-30 minutes
-
-30 minutes
-
-4
-
-Sciences physiques
 
 30 minutes
 
