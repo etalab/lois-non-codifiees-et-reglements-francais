@@ -123,7 +123,6 @@
 - [Décret n°77-1321 du 29 novembre 1977](decret-n77-1321-du-29-novembre-1977)
 - [Décret n°78-1292 du 29 décembre 1978](decret-n78-1292-du-29-decembre-1978)
 - [Décret n°78-466 du 29 mars 1978](decret-n78-466-du-29-mars-1978)
-- [Décret n°78-473 du 29 mars 1978](decret-n78-473-du-29-mars-1978)
 - [Décret n°78-478 du 29 mars 1978](decret-n78-478-du-29-mars-1978)
 - [Décret n°78-479 du 29 mars 1978](decret-n78-479-du-29-mars-1978)
 - [Décret n°78-504 du 29 mars 1978](decret-n78-504-du-29-mars-1978)
