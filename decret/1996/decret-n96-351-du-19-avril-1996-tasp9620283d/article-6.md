@@ -1,6 +1,6 @@
 # Article 6
 
-Il est institué auprès du ministre chargé de la santé une commission consultative d'enregistrement des réactifs. Elle est chargée de donner, à la demande du ministre ou du directeur général de l'Agence du médicament, des avis sur :
+Il est institué auprès du ministre chargé de la santé une commission consultative d'enregistrement des réactifs. Elle est chargée de donner, à la demande du ministre ou du directeur général de l'Agence française de sécurité sanitaire des produits de santé, des avis sur :
 
 a) Les dossiers de demande d'enregistrement de certains réactifs ;
 

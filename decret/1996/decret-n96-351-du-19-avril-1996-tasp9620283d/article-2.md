@@ -1,6 +1,6 @@
 # Article 2
 
-Le dossier de demande d'enregistrement est adressé par le fabricant, l'importateur ou le distributeur à l'Agence du médicament par lettre recommandée avec demande d'accusé de réception ou déposé à l'agence contre récépissé.
+Le dossier de demande d'enregistrement est adressé par le fabricant, l'importateur ou le distributeur à l'Agence française de sécurité sanitaire des produits de santé par lettre recommandée avec demande d'accusé de réception ou déposé à l'agence contre récépissé.
 
 Le dossier comporte :
 
@@ -38,6 +38,6 @@ c) Les valeurs de référence connues, exprimées de préférence dans le systè
 
 14° Les références bibliographiques récentes concernant le réactif ;
 
-15° Le document attestant du versement de la redevance forfaitaire prévue à l'article 19 de la loi du 4 janvier 1993 susvisée, établi selon des modalités définies par le directeur général de l'Agence du médicament.
+15° Le document attestant du versement de la redevance forfaitaire prévue à l'article 19 de la loi du 4 janvier 1993 susvisée, établi selon des modalités définies par le directeur général de l'Agence française de sécurité sanitaire des produits de santé.
 
 Dans le cas où le ministre chargé de la santé a fixé par arrêté des conditions particulières en application du troisième alinéa de l'article L. 761-14-1, le dossier de demande d'enregistrement doit comporter en outre les justificatifs du respect de ces conditions.

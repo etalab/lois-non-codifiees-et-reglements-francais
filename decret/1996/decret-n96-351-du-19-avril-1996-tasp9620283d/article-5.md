@@ -30,7 +30,7 @@ c) Les valeurs de référence connues, exprimées de préférence dans le systè
 
 10° Si nécessaire, l'indication "danger" ;
 
-11° La mention de l'enregistrement du réactif auprès de l'Agence du médicament.
+11° La mention de l'enregistrement du réactif auprès de l'Agence française de sécurité sanitaire des produits de santé.
 
 II. - Le conditionnement primaire et le conditionnement extérieur, au sens de l'article R. 5000 du code de la santé publique, doivent comporter :
 
@@ -52,4 +52,4 @@ II. - Le conditionnement primaire et le conditionnement extérieur, au sens de l
 
 Toutefois, lorsqu'il existe un conditionnement extérieur, le conditionnement primaire peut ne pas comporter le numéro d'enregistrement.
 
-III. - Un arrêté du ministre chargé de la santé peut, sur proposition du directeur général de l'Agence du médicament, préciser le contenu des informations prévues au présent article pour les réactifs qui nécessitent des précautions particulières d'utilisation.
+III. - Un arrêté du ministre chargé de la santé peut, sur proposition du directeur général de l'Agence française de sécurité sanitaire des produits de santé, préciser le contenu des informations prévues au présent article pour les réactifs qui nécessitent des précautions particulières d'utilisation.

@@ -6,6 +6,6 @@ Un arrêté du ministre chargé de la santé fixe la composition et les modalit�
 
 Les fonctions de membre de la commission sont gratuites.
 
-L'Agence du médicament assure son secrétariat et prend en charge les frais de mission des membres de la commission autres que les représentants de l'Etat ainsi que ceux des experts consultés par la commission.
+L'Agence française de sécurité sanitaire des produits de santé assure son secrétariat et prend en charge les frais de mission des membres de la commission autres que les représentants de l'Etat ainsi que ceux des experts consultés par la commission.
 
-Les membres de la commission doivent, lors de leur nomination, adresser au directeur général de l'Agence du médicament une déclaration mentionnant les liens directs ou indirects qu'ils peuvent avoir avec les entreprises dont les produits sont susceptibles de faire l'objet d'une évaluation par la commission. Les membres de la commission ne peuvent prendre part ni aux délibérations ni au vote s'ils ont un intérêt direct ou indirect au dossier examiné.
+Les membres de la commission doivent, lors de leur nomination, adresser au directeur général de l'Agence française de sécurité sanitaire des produits de santé une déclaration mentionnant les liens directs ou indirects qu'ils peuvent avoir avec les entreprises dont les produits sont susceptibles de faire l'objet d'une évaluation par la commission. Les membres de la commission ne peuvent prendre part ni aux délibérations ni au vote s'ils ont un intérêt direct ou indirect au dossier examiné.
