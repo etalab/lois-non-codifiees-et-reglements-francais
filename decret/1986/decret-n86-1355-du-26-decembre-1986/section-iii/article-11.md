@@ -4,7 +4,7 @@ Peuvent être inscrits au tableau d'avancement établi après avis de la commiss
 
 1° Pour le grade d'enquêteur de 1re classe :
 
-A. - Les enquêteurs de 2e classe comptant sept ans de services effectifs en cette qualité et titulaires du brevet d'aptitude technique selon les modalités fixées par arrêté du ministre de l'intérieur. Le nombre maximal de candidats qui peuvent être déclarés admis aux épreuves de ce brevet est visé annuellement par arrêté du ministre de l'intérieur.
+A. - Les enquêteurs de 2e classe comptant sept ans de services effectifs en cette qualité et titulaires du brevet d'aptitude technique selon les modalités fixées par arrêté du ministre de l'intérieur.
 
 Pour l'application de l'alinéa ci-dessus, est considérée comme services effectifs la période accomplie en qualité de stagiaire, dans la limite d'un an ;
 
