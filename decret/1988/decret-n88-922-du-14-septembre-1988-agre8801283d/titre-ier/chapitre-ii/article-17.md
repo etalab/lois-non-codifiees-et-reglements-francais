@@ -1,9 +1,5 @@
 # Article 17
 
-Les enseignants et formateurs permanents assurant l'enseignement dans les formations sous contrat doivent justifier, sous réserve des dispositions de l'article 18 ci-après :
+I. - Sous réserve des dispositions de l'article 18, les enseignants et les formateurs permanents qui assurent l'enseignement dans les formations sous contrat doivent, sans préjudice des dispositions des articles 12 et 13 du décret du 20 juin 1989 susvisé, détenir un des titres ou diplômes sanctionnant au moins trois années d'études après le baccalauréat énumérés au 1° de l'annexe IV au présent décret.
 
-1° Dans les formations de cycle court, d'un titre, diplôme ou qualité, français ou étranger, au minimum de niveau III, figurant sur la liste fixée à l'annexe IV au présent décret ;
-
-2° Dans les formations de cycle long ou supérieur court, d'un titre, diplôme ou qualité, français ou étranger, au minimum de niveau II, figurant sur la liste fixée à l'annexe IV au présent décret.
-
-Dans les formations de cycle long ou supérieur court, 75 p. 100 au moins des heures d'enseignement doivent être assurées par des enseignants ou formateurs répondant aux conditions définies au 2° du présent article. Les autres heures d'enseignement peuvent être assurées par des enseignants ou formateurs répondant aux conditions définies au 1° ci-dessus.
+II. - 75 p. 100 au moins des heures d'enseignement doivent être dispensées par des enseignants ou des formateurs remplissant les conditions prévues par le paragraphe I. Les autres heures peuvent être assurées par des enseignants ou formateurs détenant un des titres ou diplômes sanctionnant un cycle d'études d'au moins deux années après le baccalauréat énumérés au 2° de la même annexe.
