@@ -2,7 +2,7 @@
 
 Le comité est composé ainsi qu'il suit :
 
-1° Un premier collège comprenant douze personnalités, dont le président, choisies en fonction de leur compétence dans le domaine des sciences du vivant ;
+1° Un premier collège comprenant des personnalités, dont le président, choisies en fonction de leur compétence dans le domaine des sciences du vivant ou dans un domaine en relation avec celles-ci ;
 
 2° Un deuxième collège comprenant :
 
