@@ -1,4 +1,4 @@
-# Arrêté du 26 décembre 1984 fixant les majorations destinées à couvrir les charges visées à l'arrêté du 1er octobre 1976 relatif à la tarification des risques d'accidents du travail et de maladies professionnelles.
+# Arrêté du 26 décembre 1984 relatif à la qualification des chirurgiens-dentistes spécialistes au regard de l'assurance maladie
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

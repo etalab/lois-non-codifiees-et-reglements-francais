@@ -1,5 +1,3 @@
 # Article 1
 
-La majoration forfaitaire prévue au 2° de l'article 4 de l'arrêté du 1er octobre 1976 susvisé correspondant à la couverture des accidents du trajet est fixée à 0,57 F pour 100 F de salaire.
-
-Dans les départements d'outre-mer cette majoration est également fixée à 0,57 F pour 100 F de salaire.
+Sont considérés comme chirurgiens-dentistes spécialistes qualifiés au regard de l'assurance maladie, à la condition qu'ils exercent exclusivement la discipline pour laquelle ils ont été qualifiés, les chirurgiens-dentistes à qui a été reconnu, en vertu de l'article 13 du code de déontologie des chirurgiens-dentistes, et pour la discipline "orthopédie dento-faciale", visée au règlement relatif à la qualification annexé à l'arrêté du 19 novembre 1980, le droit de faire état de la qualité de chirurgien-dentiste spécialiste.
