@@ -1,0 +1,3 @@
+# Article 10
+
+Les activités agricoles, pastorales et forestières continuent à s'exercer librement sous-réserve des dispositions du présent décret. Toute modification de la répartition actuelle des essences forestières, tout boisement, tout défrichement, toute coupe rase de plus d'un hectare et l'utilisation de produits chimiques dans un but agricole, pastoral ou forestier ou dans tout autre but sont soumis à autorisation délivrée par le préfet de la Haute-Savoie. Les coupes forestières pourront être réalisées à l'aide de tout le matériel, même mécanisé, usuellement employé pour l'exploitation forestière. De plus, la circulation, le stationnement et le pâturage des animaux domestiques peuvent être réglementés par le préfet de la Haute-Savoie.

@@ -1,0 +1,3 @@
+# Article 11
+
+Toute activité industrielle ou commerciale est interdite, hormis celles existant à la date de création de la réserve naturelle et bénéficiant donc de droits acquis.   Toutefois, la vente des produits fermiers en provenance des alpages de la réserve naturelle est autorisée pour les exploitants de ces mêmes alpages et dans les bâtiments pastoraux situés dans la réserve naturelle.   Toute activité minière, même de recherche, ne peut être exercée que pour les substances minérales ou fossiles concessibles visées à l'article 2 du code minier et en vertu d'une autorisation donnée après accord du ministre chargé de la protection de la nature.
