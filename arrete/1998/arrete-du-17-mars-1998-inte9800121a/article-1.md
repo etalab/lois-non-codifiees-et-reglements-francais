@@ -2,10 +2,10 @@
 
 Le taux de la vacation horaire de base allouée aux officiers, sous-officiers, caporaux et sapeurs-pompiers volontaires est fixé de la manière suivante :
 
-Officiers : 63,37 F ;
+Officiers : 63,69 F ;
 
-Sous-officiers : 50,93 F ;
+Sous-officiers : 51,18 F ;
 
-Caporaux : 45,30 F ;
+Caporaux : 45,53 F ;
 
-Sapeurs : 42,13 F.
+Sapeurs : 42,34 F.

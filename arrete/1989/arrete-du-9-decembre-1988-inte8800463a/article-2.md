@@ -2,10 +2,10 @@
 
 Le taux maximum de la vacation horaire de base est fixé de la manière suivante :
 
-Officiers   63,37 F
+- officiers : 63,69 F ;
 
-Sous-officiers   50,93 F
+- sous-officiers : 51,18 F ;
 
-Caporaux   45,30 F
+- caporaux : 45,53 F ;
 
-Sapeurs   42,13 F.
+- sapeurs : 42,34 F.
