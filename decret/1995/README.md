@@ -483,6 +483,8 @@
 - [Décret n°95-410 du 18 avril 1995 (SPSS9500838D)](decret-n95-410-du-18-avril-1995-spss9500838d)
 - [Décret n°95-57 du 18 janvier 1995 (INTA9500009D)](decret-n95-57-du-18-janvier-1995-inta9500009d)
 - [Décret n°95-80 du 18 janvier 1995 (MJSK9470162D)](decret-n95-80-du-18-janvier-1995-mjsk9470162d)
+- [Décret n°95-846 du 18 juillet 1995 (MAEJ9530070D)](decret-n95-846-du-18-juillet-1995-maej9530070d)
+- [Décret n°95-849 du 18 juillet 1995 (MAEJ9530066D)](decret-n95-849-du-18-juillet-1995-maej9530066d)
 - [Décret n°91-1300 du 19 décembre 1991 (MCCB9100504D)](decret-n91-1300-du-19-decembre-1991-mccb9100504d)
 - [Décret n°95-411 du 19 avril 1995 (PRMX9500030D)](decret-n95-411-du-19-avril-1995-prmx9500030d)
 - [Décret n°95-412 du 19 avril 1995 (PRMX9500039D)](decret-n95-412-du-19-avril-1995-prmx9500039d)
