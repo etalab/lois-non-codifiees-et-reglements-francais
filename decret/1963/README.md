@@ -18,7 +18,6 @@
 - [Décret n°63-393 du 10 avril 1963](decret-n63-393-du-10-avril-1963)
 - [Décret n°63-406 du 10 avril 1963](decret-n63-406-du-10-avril-1963)
 - [Décret n°63-667 du 10 juillet 1963](decret-n63-667-du-10-juillet-1963)
-- [Décret n°63-695 du 10 juillet 1963](decret-n63-695-du-10-juillet-1963)
 - [Décret n°63-933 du 10 septembre 1963](decret-n63-933-du-10-septembre-1963)
 - [Décret n°63-1228 du 11 décembre 1963](decret-n63-1228-du-11-decembre-1963)
 - [Décret n°63-575 du 11 juin 1963](decret-n63-575-du-11-juin-1963)
