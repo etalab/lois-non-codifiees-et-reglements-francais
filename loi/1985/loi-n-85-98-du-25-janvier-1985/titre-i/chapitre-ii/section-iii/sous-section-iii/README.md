@@ -1,4 +1,5 @@
 # Sous-section III : Obligations du cessionnaire.
 
 - [Article 89](article-89.md)
+- [Article 89-1](article-89-1.md)
 - [Article 90](article-90.md)

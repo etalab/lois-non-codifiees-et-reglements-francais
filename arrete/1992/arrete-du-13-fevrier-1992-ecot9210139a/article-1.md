@@ -1,6 +1,6 @@
 # Article 1
 
-La présentation du programme d'émission mentionnée au 1° du deuxième alinéa de l'article 8 du décret du 13 février 1992 susvisé comprend les éléments [*constitutifs*] suivants :
+La présentation du programme d'émission mentionnée au 1° du deuxième alinéa de l'article 8 du décret du 13 février 1992 susvisé comprend les éléments suivants :
 
 - le plafond de l'encours prévu pour l'année exprimé en francs et, s'il y a lieu, l'indication des devises dans lesquelles l'émetteur envisage de libeller ses émissions ;
 
@@ -10,7 +10,7 @@ La présentation du programme d'émission mentionnée au 1° du deuxième aliné
 
 - le ou les établissements domiciliataires envisagés ;
 
-- dans le cas d'un émetteur ayant rendu publique une notation de son programme d'émission obtenue auprès d'une agence spécialisée figurant sur la liste mentionnée à l'article 3 du décret du 13 février 1992 susvisé, la fiche de notation du programme d'émission délivrée par cette agence ;
+- dans le cas d'un émetteur ayant rendu publique une notation de son programme d'émission obtenue auprès d'une agence spécialisée figurant sur la liste mentionnée à l'article 6 du décret du 13 février 1992 susvisé, la fiche de notation du programme d'émission délivrée par cette agence ;
 
 - s'il y a lieu, l'identité et la qualité de la société ayant accordé sa garantie au programme d'émission ainsi qu'une copie certifiée conforme de la lettre de garantie ;
 
