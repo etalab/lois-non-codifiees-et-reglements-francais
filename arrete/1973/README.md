@@ -54,6 +54,7 @@
 - [Arrêté du 26 avril 1973](arrete-du-26-avril-1973)
 - [Arrêté du 26 juillet 1973](arrete-du-26-juillet-1973)
 - [Arrêté du 26 mars 1973](arrete-du-26-mars-1973)
+- [Arrêté du 26 septembre 1973](arrete-du-26-septembre-1973)
 - [Arrêté du 26 mai 1973](arrete-du-26-mai-1973)
 - [Arrêté du 27 avril 1973](arrete-du-27-avril-1973)
 - [Arrêté du 27 février 1973](arrete-du-27-fevrier-1973)

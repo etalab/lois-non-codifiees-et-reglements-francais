@@ -60,6 +60,7 @@
 - [Décret n°75-687 du 16 juillet 1975](decret-n75-687-du-16-juillet-1975)
 - [Décret n°73-533 du 18 juin 1973](decret-n73-533-du-18-juin-1973)
 - [Décret n°73-645 du 18 juin 1973](decret-n73-645-du-18-juin-1973)
+- [Décret n°73-985 du 18 octobre 1973](decret-n73-985-du-18-octobre-1973)
 - [Décret n°73-541 du 19 juin 1973](decret-n73-541-du-19-juin-1973)
 - [Décret n°73-89 du 19 janvier 1973](decret-n73-89-du-19-janvier-1973)
 - [Décret n°73-91 du 19 janvier 1973](decret-n73-91-du-19-janvier-1973)
