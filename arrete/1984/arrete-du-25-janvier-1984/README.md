@@ -1,4 +1,4 @@
-# Arrêté du 25 janvier 1984 relatif aux bases de calcul de la contribution due par les communes en contrepartie des missions d'aide technique à la gestion communale qu'elles confient aux directions départementales de l'équipement.
+# Arrêté du 25 janvier 1984 portant agrément et renouvellement d'agrément d'organismes chargés des mesures d'intensité globale et des analyses spectrales de bruit en milieu de travail.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
