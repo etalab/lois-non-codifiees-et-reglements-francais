@@ -778,7 +778,6 @@
 - [Arrêté du 29 juillet 1990 (INDD9000562A)](arrete-du-29-juillet-1990-indd9000562a)
 - [Arrêté du 29 juin 1990 (ECOC9000085A)](arrete-du-29-juin-1990-ecoc9000085a)
 - [Arrêté du 29 juin 1990 (ECOC9000086A)](arrete-du-29-juin-1990-ecoc9000086a)
-- [Arrêté du 29 juin 1990 (EQUT9000901A)](arrete-du-29-juin-1990-equt9000901a)
 - [Arrêté du 29 juin 1990 (EQUT9000903A)](arrete-du-29-juin-1990-equt9000903a)
 - [Arrêté du 29 juin 1990 (LOGC9000063A)](arrete-du-29-juin-1990-logc9000063a)
 - [Arrêté du 29 juin 1990 (LOGC9000064A)](arrete-du-29-juin-1990-logc9000064a)
