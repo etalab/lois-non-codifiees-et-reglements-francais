@@ -16,7 +16,6 @@
 - [Article 29](article-29.md)
 - [Article 31](article-31.md)
 - [Article 37](article-37.md)
-- [Article 39](article-39.md)
 - [Article 40](article-40.md)
 - [Article 43](article-43.md)
 - [Article 63](article-63.md)
