@@ -67,7 +67,6 @@
 - [Décret n°70-1097 du 23 novembre 1970](decret-n70-1097-du-23-novembre-1970)
 - [Décret n°70-1098 du 23 novembre 1970](decret-n70-1098-du-23-novembre-1970)
 - [Décret n°70-1099 du 23 novembre 1970](decret-n70-1099-du-23-novembre-1970)
-- [Décret n°70-1221 du 23 décembre 1970](decret-n70-1221-du-23-decembre-1970)
 - [Décret n°70-1222 du 23 décembre 1970](decret-n70-1222-du-23-decembre-1970)
 - [Décret n°70-1269 du 23 décembre 1970](decret-n70-1269-du-23-decembre-1970)
 - [Décret n°70-1277 du 23 décembre 1970](decret-n70-1277-du-23-decembre-1970)
