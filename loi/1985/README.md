@@ -15,4 +15,5 @@
 - [Loi n° 85-8 du 2 janvier 1985](loi-n-85-8-du-2-janvier-1985)
 - [Loi n° 85-97 du 25 janvier 1985](loi-n-85-97-du-25-janvier-1985)
 - [Loi n° 85-98 du 25 janvier 1985](loi-n-85-98-du-25-janvier-1985)
+- [Loi n°70-2 du 2 janvier 1970](loi-n70-2-du-2-janvier-1970)
 - [Loi n°85-583 du 10 juin 1985](loi-n85-583-du-10-juin-1985)
