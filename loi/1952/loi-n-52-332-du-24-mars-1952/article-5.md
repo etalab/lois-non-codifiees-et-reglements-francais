@@ -1,0 +1,7 @@
+# Article 5
+
+Est interdite à peine de nullité toute clause qui accorde ou a pour effet d'accorder un traitement préférentiel à certains souscripteurs ou à certaines catégories de souscripteurs de contrats, ainsi que toute clause stipulant un versement supplémentaire ou une retenue spéciale en cas de décès du titulaire du contrat.
+
+Sous la sanction visée à l'alinéa 1er du présent article, est interdite toute clause stipulant l'exécution de contrats par voie de tirage au sort ou obligeant l'emprunteur à constituer une hypothèque ou à accorder toute autre sûreté avant l'attribution du prêt.
+
+Toutefois, la disposition finale qui précède n'est pas applicable lorsque, pour un contrat déterminé n'ayant pas encore fait l'objet de l'attribution prévue audit contrat, un prêteur autre qu'une entreprise de crédit différé mais agissant conjointement et solidairement avec une telle entreprise, bénéficiaire de l'autorisation spéciale, visée à l'article 1er, cinquième alinéa, consent au souscripteur antérieurement à la date de cette attribution un crédit d'un montant au plus égal au capital souscrit. Dans ce cas, les garanties hypothécaires et éventuellement toutes sûretés complémentaires autorisées par les dispositions légales ou réglementaires en vigueur pourront être, lors de l'octroi du crédit, valablement constituées au profit du prêteur et de l'entreprise de crédit différé en leur qualité de créanciers conjoints et solidaires.
