@@ -1,9 +1,11 @@
 # Article 13
 
-Le conseil d'administration du centre régional de formation est composé paritairement d'élus locaux représentant respectivement les communes, les départements et la région et de représentants élus du personnel.
+Les orientations générales de la formation professionnelle des agents de la fonction publique territoriale sont définies conjointement par le conseil d'administration du Centre national de la fonction publique territoriale et le conseil d'orientation mentionné à l'article 12 ci-dessus. A cette fin, le conseil d'administration soumet des propositions au conseil d'orientation qui formule ses observations et propose, le cas échéant, des modifications. Le conseil d'administration prend en compte ces propositions et statue définitivement.
 
-Le nombre des membres du conseil d'administration est compris entre dix et trente suivant l'effectif des fonctionnaires territoriaux employés par l'ensemble des collectivités et établissements de la région.
+Le conseil d'orientation arrête les programmes de formation mentionnés à l'article 11.
 
-Le nombre des sièges à pourvoir pour les communes, les départements et la région et leur répartition tiennent compte des effectifs de fonctionnaires territoriaux employés. Les départements et la région ont respectivement au moins deux et un représentants.    Pour l'élection des représentants du personnel, les listes de candidats sont présentées par les organisations syndicales représentatives de fonctionnaires.
+Les mesures nécessaires à l'exécution de ces programmes sont fixées par le conseil d'administration.
 
-Le conseil d'administration élit en son sein parmi les élus locaux son président. Le président a voix prépondérante [*règles de vote*].    Les présidents des centres régionaux de gestion et les présidents des centres départementaux de gestion, ou leurs représentants, assistent avec voix consultative, aux réunions du conseil d'administration.    Les modalités d'élection des membres du conseil d'administration et de son président ainsi que celles qui sont relatives au nombre des sièges à pourvoir sont fixées par décret en Conseil d'Etat.
+Le conseil d'orientation est consulté pour avis sur les décisions budgétaires relatives à la formation et notamment sur les dotations attribuées, dans le cadre du budget du Centre national de la fonction publique territoriale, aux délégations interdépartementales et régionales mentionnées à l'article 14.
+
+Il peut faire toutes propositions en matière de formation et de pédagogie.
