@@ -7,5 +7,3 @@ La commission consultative pour la formation professionnelle des experts-comptab
 - les dispensés d'épreuves du diplôme préparatoire aux études comptables et financières, du diplôme d'études comptables et financières et du diplôme d'études supérieures comptables et financières ;
 
 - les dispositions du règlement intérieur de l'ordre des experts-comptables et comptables agréés relatives au stage professionnel.
-
-Elle est en outre consultée sur les demandes d'inscription au tableau de l'ordre des experts-comptables et comptables agréés présentées au titre des articles 26 et 27 de l'ordonnance du 19 septembre 1945 susvisée.
