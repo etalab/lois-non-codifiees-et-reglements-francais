@@ -6,7 +6,7 @@ Les délibérations sont prises à la majorité des membres présents, à l'exce
 
 En cas de partage égal des voix, celle du président est prépondérante.
 
-Le conseil d'administration délibère sur toutes les questions et prend toutes décisions, hormis celles relevant expressément de la compétence de l'assemblée générale, telles qu'elles sont prévues à l'article 12.
+Le conseil d'administration délibère sur toutes les questions et prend toutes décisions, hormis celles relevant expressément de la compétence de l'assemblée générale, telles qu'elles sont prévues à l'article 13.
 
 Le conseil d'administration décide en particulier de toute action à entreprendre tant en demande qu'en défense devant les différentes juridictions.
 

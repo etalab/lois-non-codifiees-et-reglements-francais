@@ -124,6 +124,7 @@
 - [Décret n°95-1409 du 28 décembre 1995 (AVIC9503474D)](decret-n95-1409-du-28-decembre-1995-avic9503474d)
 - [Décret n°96-155 du 28 février 1996 (TASS9620496D)](decret-n96-155-du-28-fevrier-1996-tass9620496d)
 - [Décret n°96-159 du 28 février 1996 (ECOB9560055D)](decret-n96-159-du-28-fevrier-1996-ecob9560055d)
+- [Décret n°96-164 du 28 février 1996 (BUDF9620912D)](decret-n96-164-du-28-fevrier-1996-budf9620912d)
 - [Décret n°96-941 du 28 octobre 1996 (INTC9600270D)](decret-n96-941-du-28-octobre-1996-intc9600270d)
 - [Décret n°98-670 du 28 juillet 1998 (PRMX9803059D)](decret-n98-670-du-28-juillet-1998-prmx9803059d)
 - [Décret n°95-1353 du 29 décembre 1995 (TASS9523289D)](decret-n95-1353-du-29-decembre-1995-tass9523289d)
