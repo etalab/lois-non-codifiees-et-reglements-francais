@@ -79,6 +79,7 @@
 - [Décret n°2005-122 du 11 février 2005 (ECOP0401126D)](decret-n2005-122-du-11-fevrier-2005-ecop0401126d)
 - [Décret n°2005-20 du 11 janvier 2005 (SANH0420604D)](decret-n2005-20-du-11-janvier-2005-sanh0420604d)
 - [Décret n°2005-22 du 11 janvier 2005 (INDI0404352D)](decret-n2005-22-du-11-janvier-2005-indi0404352d)
+- [Décret n°2005-223 du 11 mars 2005 (SANA0424257D)](decret-n2005-223-du-11-mars-2005-sana0424257d)
 - [Décret n°2005-24 du 11 janvier 2005 (DOMB0400015D)](decret-n2005-24-du-11-janvier-2005-domb0400015d)
 - [Décret n°2005-28 du 12 janvier 2005 (DEVO0420062D)](decret-n2005-28-du-12-janvier-2005-devo0420062d)
 - [Décret n°2005-29 du 12 janvier 2005 (DEVP0420068D)](decret-n2005-29-du-12-janvier-2005-devp0420068d)
