@@ -256,6 +256,7 @@
 - [Arrêté du 19 février 1992 (TEFE9204400A)](arrete-du-19-fevrier-1992-tefe9204400a)
 - [Arrêté du 19 février 1992 (TEFE9204467A)](arrete-du-19-fevrier-1992-tefe9204467a)
 - [Arrêté du 19 février 1992 (TEFT9204472A)](arrete-du-19-fevrier-1992-teft9204472a)
+- [Arrêté du 19 mars 1992 (MENA9200704A)](arrete-du-19-mars-1992-mena9200704a)
 - [Arrêté du 19 novembre 1991 (ENVN9161383A)](arrete-du-19-novembre-1991-envn9161383a)
 - [Arrêté du 20 décembre 1988 (TRSL8800585A)](arrete-du-20-decembre-1988-trsl8800585a)
 - [Arrêté du 20 décembre 1991 (COMK9105004A)](arrete-du-20-decembre-1991-comk9105004a)
