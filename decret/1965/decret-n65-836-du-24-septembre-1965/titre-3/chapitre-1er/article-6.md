@@ -4,7 +4,7 @@ Aux services effectifs s'ajoutent, dans les conditions prévues pour les fonctio
 
 a) Bonification de dépaysement pour les services civils rendus hors d'Europe [*à l'étranger*] ;
 
-b) Bonification accordée aux ouvrières pour chacun de leurs enfants légitimes, naturels ou adoptifs et, sous réserve qu'ils aient été élevés pendant neuf ans au moins [*durée*] avant leur vingt et unième année [*âge limite*] révolue, pour chacun des enfants du conjoint issus d'un mariage précédent, naturels ou adoptifs, des enfants ayant fait l'objet d'une délégation judiciaire des droits de l'autorité parentale en leur faveur ou en faveur de leur conjoint, ainsi que des enfants placés sous leur tutelle ou celle de leur conjoint dont elles ont assuré la garde effective et permanente ;
+b) Bonification accordée aux ouvrières pour chacun de leurs enfants légitimes, de leurs enfants naturels dont la filiation est établie ou de leurs enfants adoptifs et, sous réserve qu'ils aient été élevés pendant neuf ans au moins [*durée*] avant leur vingt et unième année [*âge limite*] révolue, pour chacun des autres enfants énumérés au paragraphe II de l'article 11.
 
 c) Bénéfice de campagne, notamment en temps de guerre et pour services à la mer et outre-mer ;
 
