@@ -4,7 +4,7 @@ Le Conseil national des associations éducatives complémentaires de l'enseignem
 
 - huit représentants des associations agréées ;
 
-- cinq représentants des organisations représentatives des personnels de direction, d'éducation et d'enseignement ;
+- six représentants des organisations représentatives des personnels de direction, d'éducation et d'enseignement ;
 
 - cinq représentants des organisations représentatives de parents d'élèves ;
 
