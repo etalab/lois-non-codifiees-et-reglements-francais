@@ -377,7 +377,6 @@
 - [Décret n°95-266 du 9 mars 1995 (ECOK9400043D)](decret-n95-266-du-9-mars-1995-ecok9400043d)
 - [Décret n°95-268 du 9 mars 1995 (SPSS9500078D)](decret-n95-268-du-9-mars-1995-spss9500078d)
 - [Décret n°95-274 du 9 mars 1995 (AGRB9500449D)](decret-n95-274-du-9-mars-1995-agrb9500449d)
-- [Décret n°95-276 du 9 mars 1995 (AGRP9401281D)](decret-n95-276-du-9-mars-1995-agrp9401281d)
 - [Décret n°95-288 du 9 mars 1995 (BUDB9530006D)](decret-n95-288-du-9-mars-1995-budb9530006d)
 - [Décret n°95-894 du 9 août 1995 (INTA9500226D)](decret-n95-894-du-9-aout-1995-inta9500226d)
 - [Décret n°95-895 du 9 août 1995 (INTA9500227D)](decret-n95-895-du-9-aout-1995-inta9500227d)

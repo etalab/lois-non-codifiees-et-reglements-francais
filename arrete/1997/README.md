@@ -1254,7 +1254,6 @@
 - [Arrêté du 30 septembre 1997 (EQUT9701435A)](arrete-du-30-septembre-1997-equt9701435a)
 - [Arrêté du 30 septembre 1997 (MENU9702181A)](arrete-du-30-septembre-1997-menu9702181a)
 - [Arrêté du 30 septembre 1997 (MENU9702313A)](arrete-du-30-septembre-1997-menu9702313a)
-- [Arrêté du 30 septembre 1997 (MENU9702314A)](arrete-du-30-septembre-1997-menu9702314a)
 - [Arrêté du 30 septembre 1997 (MENU9702338A)](arrete-du-30-septembre-1997-menu9702338a)
 - [Arrêté du 30 septembre 1997 (MENU9703130A)](arrete-du-30-septembre-1997-menu9703130a)
 - [Arrêté du 30 septembre 1997 (MESP9723140A)](arrete-du-30-septembre-1997-mesp9723140a)
