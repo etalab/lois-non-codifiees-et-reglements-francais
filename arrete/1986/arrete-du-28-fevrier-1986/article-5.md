@@ -1,3 +1,3 @@
 # Article 5
 
-Le directeur général du Centre national de la cinématographie est chargé de l'application du présent arrêté, qui sera publié au Journal officiel de la République française.
+Sous la direction du chef de la mission, les chargés de mission préparent, animent et assurent le suivi des différents programmes de recherche en prenant l'avis de comités composés d'experts scientifiques et administratifs. La mission est dotée d'un secrétariat et d'une cellule gestionnaire de crédits.

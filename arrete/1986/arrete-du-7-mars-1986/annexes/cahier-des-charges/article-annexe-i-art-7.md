@@ -6,4 +6,4 @@ Le ministre chargé des techniques de la communication peut à tout moment faire
 
 A cet effet la société versera chaque année au profit du service d'observation des programmes une cotisation forfaitaire annuelle, dont le montant sera fixé chaque année par le ministre chargé des techniques de la communication dans les limites prévues par la loi de finances.
 
-Pour l'année 1986, ce montant est fixé à 100.000 F
+Pour l'année 1986, ce montant est fixé à 100.000 F.

@@ -1,4 +1,4 @@
-# Arrêté du 7 mars 1986 autorisant la société Compagnie luxembourgeoise de télédiffusion à assurer un service de radiodiffusion sonore destiné au public en général.
+# Arrêté du 7 mars 1986 relatif au paiement des traitements de la Légion d'honneur et de la médaille militaire
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

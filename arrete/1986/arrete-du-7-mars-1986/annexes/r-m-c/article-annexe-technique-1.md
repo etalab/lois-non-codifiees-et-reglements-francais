@@ -1,0 +1,131 @@
+# Article Annexe technique 1
+
+ZONE DE DESSERTE POTENTIELLE :
+
+Côte-d'Azur
+
+FREQUENCE : 90,3 MHz
+
+SITE : Col de la Madone
+
+PUISSANCE (dbW) : 40.
+
+ZONE DE DESSERTE POTENTIELLE :
+
+Côte-d'Azur
+
+FREQUENCE : 93,5 MHz
+
+SITE : Col de la Madone
+
+PUISSANCE (dbW) : 47.
+
+ZONE DE DESSERTE POTENTIELLE :
+
+Monaco
+
+FREQUENCE : 93,8 MHz
+
+SITE : Mont Agel
+
+PUISSANCE (dbW) : 30.
+
+ZONE DE DESSERTE POTENTIELLE :
+
+Monaco
+
+FREQUENCE : 95,4 MHz
+
+SITE : Mont Agel
+
+PUISSANCE (dbW) : 30.
+
+ZONE DE DESSERTE POTENTIELLE :
+
+Côte-d'Azur
+
+FREQUENCE : 98,5 MHz
+
+SITE : Mont Agel
+
+PUISSANCE (dbW) : 47.
+
+ZONE DE DESSERTE POTENTIELLE :
+
+Monaco
+
+FREQUENCE : 98,9 MHz
+
+SITE : Mont Agel
+
+PUISSANCE (dbW) : 30.
+
+ZONE DE DESSERTE POTENTIELLE :
+
+Côte-d'Azur
+
+FREQUENCE : 102,7 MHz
+
+SITE : Mont Agel
+
+PUISSANCE (dbW) : 47.
+
+ZONE DE DESSERTE POTENTIELLE :
+
+Monaco
+
+FREQUENCE : 102,9 MHz
+
+SITE : Mont Agel
+
+PUISSANCE (dbW) : 30.
+
+ZONE DE DESSERTE POTENTIELLE :
+
+Côte-d'Azur
+
+FREQUENCE : 106,5 MHz
+
+SITE : Col de la Madone
+
+PUISSANCE (dbW) : 47.
+
+ZONE DE DESSERTE POTENTIELLE :
+
+Monaco
+
+FREQUENCE : 106,3 MHz
+
+SITE : Mont Agel
+
+PUISSANCE (dbW) : 30.
+
+ZONE DE DESSERTE POTENTIELLE :
+
+France
+
+FREQUENCE : 218 kHz
+
+SITE : Roumoules
+
+PUISSANCE (dbW) : 1400 kW.
+
+ZONE DE DESSERTE POTENTIELLE :
+
+Côte italienne
+
+FREQUENCE : 702 kHz
+
+SITE : Mont Agel
+
+PUISSANCE (dbW) : 300 kW.
+
+ZONE DE DESSERTE POTENTIELLE :
+
+Sud-Est - France
+
+FREQUENCE : 1467 kHz
+
+SITE : Mont Agel
+
+PUISSANCE (dbW) : 1000 kW.

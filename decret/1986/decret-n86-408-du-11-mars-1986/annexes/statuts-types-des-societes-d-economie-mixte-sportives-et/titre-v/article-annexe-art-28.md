@@ -1,0 +1,3 @@
+# Article Annexe art. 28
+
+L'exercice social a une durée de douze mois. Il commence le ... Par exception, le premier exercice comprend le temps écoulé depuis la constitution de la société jusqu'à ....

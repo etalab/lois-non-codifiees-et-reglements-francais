@@ -1,0 +1,3 @@
+# Article 2
+
+Le ministre de l'intérieur et de la décentralisation, le ministre de l'agriculture, le ministre du redéploiement industriel et du commerce extérieur, le ministre de l'urbanisme, du logement et des transports, le ministre de l'environnement, le secrétaire d'Etat auprès du ministre du redéploiement industriel et du commerce extérieur, chargé de l'énergie, et le secrétaire d'Etat auprès du ministre de l'urbanisme, du logement et des transports, chargé des transports, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
