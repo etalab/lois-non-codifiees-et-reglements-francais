@@ -625,7 +625,6 @@
 - [Arrêté du 17 avril 1996 (ECOT9616226A)](arrete-du-17-avril-1996-ecot9616226a)
 - [Arrêté du 17 avril 1996 (TASG9621309A)](arrete-du-17-avril-1996-tasg9621309a)
 - [Arrêté du 17 janvier 1996 (BUDF9510079A)](arrete-du-17-janvier-1996-budf9510079a)
-- [Arrêté du 17 janvier 1996 (EQUK9600137A)](arrete-du-17-janvier-1996-equk9600137a)
 - [Arrêté du 17 janvier 1996 (FCEM9600015A)](arrete-du-17-janvier-1996-fcem9600015a)
 - [Arrêté du 17 janvier 1996 (TASG9511276A)](arrete-du-17-janvier-1996-tasg9511276a)
 - [Arrêté du 17 janvier 2002 (INTC0100435A)](arrete-du-17-janvier-2002-intc0100435a)
