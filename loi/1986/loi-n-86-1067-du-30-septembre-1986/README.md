@@ -7,6 +7,7 @@
 - [Article 2-1](article-2-1.md)
 - [Article 3](article-3.md)
 - [TITRE III : DU SECTEUR PUBLIC DE LA COMMUNICATION AUDIOVISUELLE](titre-iii)
+- [Article 3-1](article-3-1.md)
 - [TITRE V : DU DEVELOPPEMENT DE LA CREATION CINEMATOGRAPHIQUE.](titre-v)
 - [TITRE VI : DISPOSITIONS  PENALES.](titre-vi)
 - [TITRE VII : DISPOSITIONS DIVERSES.](titre-vii)

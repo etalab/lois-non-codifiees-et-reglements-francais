@@ -162,6 +162,7 @@
 - [Arrêté du 10 juillet 2003 (EQUA0301072A)](arrete-du-10-juillet-2003-equa0301072a)
 - [Arrêté du 10 juin 2004 (ECOF0420102A)](arrete-du-10-juin-2004-ecof0420102a)
 - [Arrêté du 10 juin 2004 (JUSA0400181A)](arrete-du-10-juin-2004-jusa0400181a)
+- [Arrêté du 10 juin 2004 (MDIB0400010A)](arrete-du-10-juin-2004-mdib0400010a)
 - [Arrêté du 10 mars 2004 (MENS0400507A)](arrete-du-10-mars-2004-mens0400507a)
 - [Arrêté du 10 novembre 2003 (BUDR0307063A)](arrete-du-10-novembre-2003-budr0307063a)
 - [Arrêté du 10 novembre 2004 (FPPA0400122A)](arrete-du-10-novembre-2004-fppa0400122a)
