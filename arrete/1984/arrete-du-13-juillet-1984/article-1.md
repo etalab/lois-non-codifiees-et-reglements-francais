@@ -1,3 +1,5 @@
 # Article 1
 
-Le fonds spécial de grands travaux est autorisé à émettre pour le financement des travaux d'équipement dans les domaines des infrastructures des transports publics, de la circulation routière et de la maîtrise de l'énergie en milieu urbain et rural un emprunt de 1. 800 millions de francs représenté par 360.000 obligations de 5. 000 F d'une durée de dix ans.
+La méthode de calcul prévue par l'arrêté du 9 février 1983 susvisé porte sur l'essai de non-roulement continu des tracteurs agricoles et forestiers à roues munis d'arceaux en position avancée et ayant une voie minimale au plus égale à 1360 mm.
+
+Cette méthode de calcul est établie par le centre technique des industries de la mécanique "Cetim", en liaison avec le centre national du machinisme agricole, du génie rural, des eaux et des forêts "Cemagref", et le syndicat général des constructeurs de tracteurs et machines agricoles "Sygma".

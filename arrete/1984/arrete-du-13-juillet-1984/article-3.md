@@ -1,3 +1,3 @@
 # Article 3
 
-Cet emprunt sera émis au prix de 99,90 % du pair, soit 4.995 F par obligation, jouissance du 30 juillet 1984, et sera assorti d'un taux de 13,80 % l'an payable à terme échu le 30 juillet de chaque année, et pour la première fois le 30 juillet 1985.
+La méthode de calcul visée aux articles 1er et 2 ci-dessus peut être consultée, sur demande, au centre national du machinisme agricole, du génie rural, des eaux et des forêts, groupement d'Antony, division machinisme, 92160 Antony Cédex, Tél. 01-46-66-21-09, poste 280.

@@ -1,4 +1,4 @@
-# Arrêté du 9 juillet 1984 AUTORISANT LA CONSTITUTION D'UNE BANQUE DE DONNEES TELEMATIQUES DES INFORMATIONS CONTENUES DANS LE BULLETIN OFFICIEL DES ANNONCES DES MARCHES PUBLICS (BOAMP) ET SA COMMERCIALISATION PAR LA DIRECTION DES JOURNAUX OFFICIELS
+# Arrêté du 9 juillet 1984 relatif à la dotation pour 1984 des prêts aux jeunes ménages accordés par les caisses d'allocations familiales et les unions régionales de sociétés de secours minières.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

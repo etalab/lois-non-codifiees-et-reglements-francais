@@ -1,3 +1,11 @@
 # Article 1
 
-Le montant des charges financières afférent aux compétences transférées aux régions en matière d'aides au renouvellement et à la modernisation de la flotte de pêche côtière en application de l'article 11 de la loi du 22 juillet 1983 susvisée est fixé à 11500000 F en autorisations de programme.
+La date limite à laquelle les redevables du droit de garantie doivent remettre ou envoyer à la recette des impôts de rattachement du bureau de garantie dont ils dépendent la déclaration prévue à l'article 521 du code général des impôts est fixée comme suit :
+
+1° Pour les entreprises individuelles, avant le 10 du mois
+
+suivant ;
+
+2° Pour les sociétés à responsabilité limitée et les sociétés en nom collectif, avant le 15 du mois suivant ;
+
+3° Pour les autres sociétés, avant le 20 du mois suivant.

@@ -1,4 +1,4 @@
-# Arrêté du 13 juillet 1984 accordant la garantie de l'Etat à un emprunt du fonds spécial de grands travaux
+# Arrêté du 13 juillet 1984 fixant les modalités de vérifications et d'essais des conditions de sécurité auxquelles doivent satisfaire les tracteurs agricoles et forestiers à roues
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

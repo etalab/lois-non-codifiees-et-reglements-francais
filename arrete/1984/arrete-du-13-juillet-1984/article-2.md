@@ -1,3 +1,5 @@
 # Article 2
 
-Le service de l'emprunt en intérêts, amortissement, impôts, frais et accessoires est garanti par l'Etat.
+La méthode de calcul visée à l'article 1er s'intitule :
+
+"simulation de renversement de tracteur", étude Cetim (Nantes), n° 100 200, en date du 30 novembre 1983.

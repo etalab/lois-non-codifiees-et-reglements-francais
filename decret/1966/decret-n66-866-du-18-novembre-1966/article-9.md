@@ -1,0 +1,3 @@
+# Article 9
+
+Le retrait des fonds et, d'une manière générale, toutes opérations financières ne peuvent être effectuées que sous la signature conjointe de deux des membres ci-après : président, vice-président, trésorier ou trésorier adjoint. Toutefois, la délégation de l'une des deux signatures peut être donnée au directeur du conseil en cas d'absolue nécessité pour les opérations suivantes : paiement des salaires, règlement des charges sociales et impôts soumis à date limite. En outre, une régie d'avances dont le quantum est fixé par le bureau peut être confiée au directeur, à charge pour lui de rendre compte au bureau de l'emploi des sommes ainsi déléguées.
