@@ -1,9 +1,9 @@
 # Article 6
 
-Entre un terminal raccordé au réseau téléphonique général et un terminal raccordé au réseau Transpac, la taxation de la communication comprend les éléments suivants :
+Entre un terminal raccordé au réseau téléphonique général et un terminal raccordé au réseau Transpac, la tarification de la communication comprend les éléments suivants :
 
-- une taxation pour usage du réseau téléphonique général : une taxe de base toutes les 72 secondes [*montant*] ;
+- prix de l'usage du réseau téléphonique général : une unité Télécom toutes les 120 secondes ;
 
-- une taxation pour usage de la passerelle réseau téléphonique général-réseau Transpac ;
+- prix de l'usage de la passerelle réseau téléphonique général-réseau Transpac ;
 
-- une taxation pour usage du réseau Transpac.
+- prix de l'usage du réseau Transpac.

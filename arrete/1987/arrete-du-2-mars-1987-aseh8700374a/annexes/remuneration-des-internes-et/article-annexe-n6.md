@@ -86,7 +86,7 @@ Montant brut mensuel de l'indemnité de sujétions particulières allouées pour
 
 VI. - Taux annuel des indemnités allouées aux étudiants hospitaliers :
 
-5e et 6e semestre de la deuxième partie du deuxième cycle des études médicales : 14.783
+5e et 6e semestre de la deuxième partie du deuxième cycle des études médicales : 14.429
 
 3e et 4e semestre de la deuxième partie du deuxième cycle des études médicales : 12.755
 
