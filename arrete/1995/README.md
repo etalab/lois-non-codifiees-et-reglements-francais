@@ -4,7 +4,6 @@
 - [Arrêté du 1 août 1995 (ECOC9500088A)](arrete-du-1-aout-1995-ecoc9500088a)
 - [Arrêté du 1 août 1995 (SANG9502009A)](arrete-du-1-aout-1995-sang9502009a)
 - [Arrêté du 1 août 1995 (SANG9502010A)](arrete-du-1-aout-1995-sang9502010a)
-- [Arrêté du 1 août 1995 (SANP9502399A)](arrete-du-1-aout-1995-sanp9502399a)
 - [Arrêté du 1 décembre 1995 (TASW9511290A)](arrete-du-1-decembre-1995-tasw9511290a)
 - [Arrêté du 1 décembre 1995 (TASW9511291A)](arrete-du-1-decembre-1995-tasw9511291a)
 - [Arrêté du 1 février 1995 (ECOT9510226A)](arrete-du-1-fevrier-1995-ecot9510226a)
