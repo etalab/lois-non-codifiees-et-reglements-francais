@@ -1,6 +1,6 @@
 # Article 1
 
-L'autorisation d'utiliser du matériel permettant la détection d'objets métalliques, prévue à l'article 1er de la loi du 18 décembre 1989, est accordée, sur demande de l'intéressé, par arrêté du préfet de la région dans laquelle est situé le terrain à prospecter.
+L'autorisation d'utiliser du matériel permettant la détection d'objets métalliques, prévue à l'article L. 542-1 du code du patrimoine, est accordée, sur demande de l'intéressé, par arrêté du préfet de la région dans laquelle est situé le terrain à prospecter.
 
 La demande d'autorisation précise l'identité, les compétences et l'expérience de son auteur ainsi que la localisation, l'objectif scientifique et la durée des prospections à entreprendre.
 

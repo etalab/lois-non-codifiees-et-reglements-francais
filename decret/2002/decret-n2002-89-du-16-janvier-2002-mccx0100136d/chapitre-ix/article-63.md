@@ -1,0 +1,3 @@
+# Article 63
+
+Le Premier ministre, le ministre de l'économie, des finances et de l'industrie, le ministre de l'intérieur, le ministre de l'équipement, des transports et du logement, la ministre de la culture et de la communication, le ministre de l'aménagement du territoire et de l'environnement, le ministre de la fonction publique et de la réforme de l'Etat, le ministre de la recherche, le secrétaire d'Etat à l'outre-mer et le secrétaire d'Etat au patrimoine et à la décentralisation culturelle sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française et entrera en vigueur le premier jour du mois suivant sa publication.

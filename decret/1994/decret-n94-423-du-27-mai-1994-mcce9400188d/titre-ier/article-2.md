@@ -10,7 +10,7 @@ A ce titre :
 
 2° Il fait des propositions au ministre chargé de la culture ou émet des avis concernant l'inscription des sites archéologiques d'intérêt national sur la liste établie par arrêté ministériel ;
 
-3° Il émet un avis préalablement aux décisions d'octroi d'autorisation de fouiller prévues à l'article 1er de la loi du 27 septembre 1941 susvisée, d'indemnisation au titre de l'article 8 de la même loi, de mise en oeuvre de son article 9 (alinéas 1 et 2) ainsi qu'un avis conforme en cas de retrait de l'autorisation en vertu de l'article 6, dans les cas suivants :
+3° Il émet un avis préalablement aux décisions d'octroi d'autorisation de fouiller prévues à l'article L. 531-1 du code du patrimoine, d'indemnisation au titre de l'article L. 531-8 du même code, de mise en oeuvre de son article L. 531-9 (alinéas 1 et 2) ainsi qu'un avis conforme en cas de retrait de l'autorisation en vertu de l'article L. 531-6, dans les cas suivants :
 
 a) Pour les opérations concernant les sites d'intérêt national ;
 
@@ -18,6 +18,6 @@ b) Pour les recherches archéologiques liées à la réalisation des travaux sou
 
 4° Il donne, dans la formation définie au 1° de l'article 13 du présent décret, son avis sur les opérations archéologiques sous-marines dans les cas définis aux articles 4, 7, 8, 11, 13, 15 et 16 du décret du 5 décembre 1991 susvisé ;
 
-5° Il donne, dans la formation définie au 2° de l'article 13 du présent décret, son avis sur les recherches effectuées dans les départements d'outre-mer, à l'exception des opérations archéologiques sous-marines, dans les cas définis aux articles 1er, 8 et 9 (alinéas 1 et 2) de la loi du 27 septembre 1941 susvisée et son avis conforme en cas de retrait de l'autorisation en vertu de l'article 6 ;
+5° Il donne, dans la formation définie au 2° de l'article 13 du présent décret, son avis sur les recherches effectuées dans les départements d'outre-mer, à l'exception des opérations archéologiques sous-marines, dans les cas définis aux articles L. 531-1, L. 531-8 et L. 531-9 (alinéas 1 et 2) du code du patrimoine et son avis conforme en cas de retrait de l'autorisation en vertu de l'article L. 531-6 ;
 
-6° Il établit chaque année la liste des experts compétents en cas d'exercice du droit de revendication mentionné aux articles 5, 11 et 16 de la loi du 27 septembre 1941 susvisée.
+6° Il établit chaque année la liste des experts compétents en cas d'exercice du droit de revendication mentionné aux articles L. 531-5, L. 531-11 et L. 531-16 du code du patrimoine susvisé.

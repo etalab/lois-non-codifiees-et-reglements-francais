@@ -1,6 +1,6 @@
 # Article 7
 
-Les demandes d'autorisations prévues à l'article 7 de la loi du 1er décembre 1989 précitée précisent l'identité, les compétences et l'expérience de l'auteur de la demande, la composition de l'équipe de recherche, la localisation, l'objectif scientifique, les moyens matériels et le mode de financement prévus ainsi que la durée approximative des travaux à entreprendre.
+Les demandes d'autorisations prévues à l'article L. 532-7 du code du patrimoine précisent l'identité, les compétences et l'expérience de l'auteur de la demande, la composition de l'équipe de recherche, la localisation, l'objectif scientifique, les moyens matériels et le mode de financement prévus ainsi que la durée approximative des travaux à entreprendre.
 
 Le ministre chargé de la culture, auprès duquel ces demandes sont introduites, recueille l'avis du préfet maritime ou du délégué du Gouvernement désigné par le décret du 25 mai 1979 précité.
 
