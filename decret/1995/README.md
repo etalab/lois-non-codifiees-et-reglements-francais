@@ -1050,6 +1050,7 @@
 - [Décret n°95-88 du 27 janvier 1995 (AGRG9500100D)](decret-n95-88-du-27-janvier-1995-agrg9500100d)
 - [Décret n°99-644 du 27 juillet 1999 (MESG9922038D)](decret-n99-644-du-27-juillet-1999-mesg9922038d)
 - [Décret du 28 juillet 1995 (HRUX9500972D)](decret-du-28-juillet-1995-hrux9500972d)
+- [Décret du 28 novembre 1995 (INTA9500344D)](decret-du-28-novembre-1995-inta9500344d)
 - [Décret n°77-333 du 28 mars 1977](decret-n77-333-du-28-mars-1977)
 - [Décret n°91-1133 du 28 octobre 1991 (SPSC9101980D)](decret-n91-1133-du-28-octobre-1991-spsc9101980d)
 - [Décret n°93-969 du 28 juillet 1993 (SPSS9301491D)](decret-n93-969-du-28-juillet-1993-spss9301491d)

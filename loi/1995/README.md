@@ -9,6 +9,7 @@
 - [Loi n° 95-1224 du 16 novembre 1995 (MAEX9400143L)](loi-n-95-1224-du-16-novembre-1995-maex9400143l)
 - [Loi n° 95-1225 du 16 novembre 1995 (MAEX9400155L)](loi-n-95-1225-du-16-novembre-1995-maex9400155l)
 - [Loi n° 95-125 du 8 février 1995 (JUSX9400050L)](loi-n-95-125-du-8-fevrier-1995-jusx9400050l)
+- [Loi n° 95-1251 du 28 novembre 1995 (ECOX9500120L)](loi-n-95-1251-du-28-novembre-1995-ecox9500120l)
 - [Loi n° 95-126 du 8 février 1995 (INTX9400548L)](loi-n-95-126-du-8-fevrier-1995-intx9400548l)
 - [Loi n° 95-836 du 13 juillet 1995 (MENX9400151L)](loi-n-95-836-du-13-juillet-1995-menx9400151l)
 - [Loi n° 95-851 du 24 juillet 1995 (ECOX9400042L)](loi-n-95-851-du-24-juillet-1995-ecox9400042l)
