@@ -8,4 +8,4 @@ Soit aux normes françaises homologuées ou enregistrées qui se rapportent à c
 
 Soit aux dispositions en matière de sécurité promulguées par la commission internationale des réglementations en vue de l'approbation de l'équipement électrique (C.E.E. - el.) ou par la commission électrotechnique internationale, qui figurent sur la liste publiée selon la procédure des normes françaises homologuées ou enregistrées ;
 
-Soit, dans le cas de matériels importés aux dispositions en matière de sécurité des normes en vigueur dans l'Etat de fabrication, s'ils assurent une sécurité équivalente à celle qui est exigée par la réglementation française.
+Soit, dans le cas de matériels importés aux dispositions en matière de sécurité des normes en vigueur dans l'Etat de fabrication, s'ils assurent une sécurité équivalente à celle qui est exigée par la réglementation française. La liste des normes étrangères assurant une sécurité équivalente à celle exigée par la réglementation française est établie par le ministre chargé de l'industrie selon la procédure des normes françaises homologuées.
