@@ -1,6 +1,6 @@
 # Article 123
 
-I. -Le droit d'option prévu à l'article 122 est exercé dans un délai de six ans à compter du 1er janvier 1984 dans les conditions définies au présent article.
+I. -Le droit d'option prévu à l'article 122 est exercé dans un délai de sept ans à compter du 1er janvier 1984 dans les conditions définies au présent article.
 
 II- Si les fonctionnaires ont opté pour le statut autre que celui dont ils relèvent, il est fait droit à leur demande dans un délai maximal de deux ans à compter de la date de réception de celle-ci.
 
