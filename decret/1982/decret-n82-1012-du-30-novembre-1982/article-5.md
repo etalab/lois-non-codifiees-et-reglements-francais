@@ -1,6 +1,6 @@
 # Article 5
 
-Le Conseil supérieur de la recherche et de la technologie comprend quarante membres nommés par arrêté du ministre chargé de la recherche et dont le mandat est de deux ans renouvelable une fois :
+Le Conseil supérieur de la recherche et de la technologie comprend quarante membres nommés par arrêté du ministre chargé de la recherche et dont le mandat est de trois ans renouvelable une fois :
 
 1° Vingt membres représentatifs des communautés scientifiques et techniques et des différents secteurs de la recherche.
 
