@@ -29,5 +29,6 @@
 - [Loi n° 94-477 du 10 juin 1994 (MAEX9400036L)](loi-n-94-477-du-10-juin-1994-maex9400036l)
 - [Loi n° 94-478 du 10 juin 1994 (MAEX9300184L)](loi-n-94-478-du-10-juin-1994-maex9300184l)
 - [Loi n° 94-480 du 10 juin 1994 (MAEX9300072L)](loi-n-94-480-du-10-juin-1994-maex9300072l)
+- [Loi n° 94-504 du 22 juin 1994 (BUDX9200177L)](loi-n-94-504-du-22-juin-1994-budx9200177l)
 - [Loi n° 94-89 du 1 février 1994 (JUSX9300152L)](loi-n-94-89-du-1-fevrier-1994-jusx9300152l)
 - [Loi n°94-342 du 29 avril 1994 (JUSX9300203L)](loi-n94-342-du-29-avril-1994-jusx9300203l)

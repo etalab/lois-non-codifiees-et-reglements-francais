@@ -1,3 +1,3 @@
 # Article 4
 
-Le ministre chargé des transports homologue les polyvannes, les réservoirs, les appareils de vaporisation et de détente et les dispositifs de coupure conformes respectivement aux dispositions des appendices 1, 2, 3 et 4 du présent arrêté [*autorité compétente*].
+Le ministre de l'équipement, des transports et du tourisme homologue les polyvannes, réservoirs, appareils de vaporisation et de détente et les dispositifs de coupure conformes soit aux prescriptions des appendices 1, 2, 3 et 4 du présent arrêté, soit à des prescriptions assurant un niveau de sécurité équivalent en vigueur dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord instituant l'Espace économique européen.
