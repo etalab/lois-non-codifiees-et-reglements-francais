@@ -52,7 +52,7 @@ Des majorations spécifiques peuvent être accordées, dans des conditions fixé
 
 Pour les entreprises réduisant le temps de travail par étapes en application du I ci-dessus, le montant de l'aide est calculé au prorata de la réduction du temps de travail effectivement réalisée par rapport à celle prévue par l'accord.
 
-Le bénéfice de l'aide ne peut être cumulé avec celui d'une exonération totale ou partielle de cotisations patronales de sécurité sociale, ou avec l'application de taux spécifiques, d'assiettes ou de montants forfaitaires de cotisations, à l'exception de la réduction prévue à l'article L. 241-13 et à l'article L. 711-13 du code de la sécurité sociale ainsi que des aides prévues aux articles L. 322-4-2 et L. 832-2 du code du travail.
+Le bénéfice de l'aide ne peut être cumulé avec celui d'une exonération totale ou partielle de cotisations patronales de sécurité sociale, ou avec l'application de taux spécifiques, d'assiettes ou de montants forfaitaires de cotisations, à l'exception de la réduction prévue à l'article L. 241-13 et à l'article L. 711-13 du code de la sécurité sociale ainsi que des aides prévues aux articles L. 322-4-8 et L. 832-2 du code du travail.
 
 Un décret en Conseil d'Etat détermine les modalités de contrôle de l'exécution de la convention avec l'Etat et les conditions de dénonciation et de suspension de la convention, assorties le cas échéant d'un remboursement de l'aide, dans le cas où l'entreprise n'a pas mis en oeuvre ses engagements en matière d'emploi et de réduction du temps de travail.
 

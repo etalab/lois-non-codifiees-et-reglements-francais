@@ -20,6 +20,6 @@ Le contrat de location-accession doit préciser :
 
 9° les catégories de charges incombant à l'accédant et une estimation de leur montant prévisionnel pour la première année d'exécution du contrat ;
 
-10° l'absence de maintien de plein droit dans les lieux, en cas de résolution du contrat ou de non-levée de l'option ;
+10° l'absence de maintien de plein droit dans les lieux sous réserve des dispositions de l'article 9, en cas de résolution du contrat ou de non-levée de l'option ;
 
 11° les références des contrats d'assurance souscrits en application des articles L. 241-1 et L. 242-1 du code des assurances ainsi que les références des contrats d'assurance garantissant l'immeuble.

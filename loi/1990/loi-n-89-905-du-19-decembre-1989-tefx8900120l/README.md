@@ -2,5 +2,4 @@
 
 - [Titre Ier : Dispositions relatives au contrat de retour à l'emploi.](titre-ier)
 - [Titre II : Dispositions relatives au contrat emploi-solidarité.](titre-ii)
-- [Titre III : Dispositions relatives à l'insertion professionnelle et sociale des jeunes.](titre-iii)
 - [Titre IV : Autres dispositions.](titre-iv)

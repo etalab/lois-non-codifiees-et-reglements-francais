@@ -14,4 +14,4 @@ Le commandement de payer reproduit, à peine de nullité, les dispositions des a
 
 Lorsque les obligations résultant d'un contrat de location conclu en application du présent titre sont garanties par un cautionnement, le commandement de payer est signifié à la caution dans un délai de quinze jours à compter de la signification du commandement au locataire. A défaut, la caution ne peut être tenue au paiement des pénalités ou intérêts de retard.
 
-Les dispositions du deuxième alinéa sont applicables aux assignations tendant au prononcé de la résiliation du bail lorsqu'elle est motivée par l'existence d'une dette locative du preneur.
+Les dispositions du deuxième alinéa sont applicables aux assignations tendant au prononcé de la résiliation du bail lorsqu'elle est motivée par l'existence d'une dette locative du preneur. Elles sont également applicables aux demandes reconventionnelles aux fins de constat ou de prononcé de la résiliation motivées par l'existence d'une dette locative, la notification au représentant de l'Etat incombant au bailleur.

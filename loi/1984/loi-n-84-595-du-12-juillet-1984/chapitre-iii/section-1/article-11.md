@@ -2,7 +2,7 @@
 
 Lorsque le contrat est résilié pour inexécution par l'accédant de ses obligations, le vendeur peut obtenir, sans préjudice des dispositions des articles 9 et 10, une indemnité qui ne peut dépasser 2 p. 100 du prix de l'immeuble objet du contrat.
 
-Lorsque du fait de l'accédant, le transfert de propriété n'a pas lieu au terme convenu pour une cause autre que celle visée à l'alinéa précédent, le vendeur peut obtenir, sans préjudice des dispositions des articles 9 et 10, une indemnité qui ne peut dépasser 1 p. 100 du prix de l'immeuble objet du contrat.
+Lorsque du fait de l'accédant, le transfert de propriété n'a pas lieu au terme convenu pour une cause autre que celle visée à l'alinéa précédent, le vendeur peut obtenir, sans préjudice des dispositions des articles 9 et 10, une indemnité qui ne peut dépasser 1 p. 100 du prix de l'immeuble objet du contrat. Cette indemnité n'est pas due lorsque le contrat porte sur un logement qui a bénéficié d'une décision d'agrément prise par le représentant de l'Etat dans le département, dans des conditions prévues par décret.
 
 Toutefois, lorsque le contrat porte sur un immeuble ou une partie d'immeuble achevé depuis moins de cinq ans ou qui, dans les cinq ans de cet achèvement, n'a pas déjà fait l'objet d'une cession à titre onéreux à une personne n'intervenant pas en qualité de marchand de biens, l'indemnité visée aux deux alinéas précédents peut être fixée à 3 p. 100 à compter du 1er janvier de la cinquième année suivant celle de l'achèvement de l'immeuble ou de la partie de l'immeuble faisant l'objet du contrat.
 

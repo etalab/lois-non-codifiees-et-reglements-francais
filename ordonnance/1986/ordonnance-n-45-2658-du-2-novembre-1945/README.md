@@ -1,5 +1,6 @@
 # Ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France
 
+- [Article Préliminaire](article-preliminaire.md)
 - [Chapitre 1er : Dispositions générales concernant l'entrée et le séjour des étrangers en France.](chapitre-1er)
 - [Chapitre 3 : Pénalités.](chapitre-3)
 - [Chapitre 4 : De la reconduite à la frontière](chapitre-4)

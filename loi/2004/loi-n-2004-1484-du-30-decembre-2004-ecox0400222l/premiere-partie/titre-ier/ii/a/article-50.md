@@ -1,6 +1,6 @@
 # Article 50
 
-Le Gouvernement présentera au Parlement, avant la fin de la session ordinaire de 2004-2005, un rapport sur la mise en oeuvre de la réforme de la dotation globale de fonctionnement résultant de la présente loi et de la dotation de solidarité urbaine résultant de la loi de programmation pour la cohésion sociale.
+Le Gouvernement présentera au Parlement, avant la fin de la session ordinaire de 2004-2005, un rapport sur la mise en oeuvre de la réforme de la dotation globale de fonctionnement résultant de la présente loi et de la dotation de solidarité urbaine et de cohésion sociale résultant de la loi de programmation pour la cohésion sociale.
 
 Ce rapport présentera les mécanismes de répartition et les résultats de la répartition de la dotation globale de fonctionnement. Il mesurera les effets péréquateurs de la mise en oeuvre de la réforme et les voies et moyens de l'améliorer.
 

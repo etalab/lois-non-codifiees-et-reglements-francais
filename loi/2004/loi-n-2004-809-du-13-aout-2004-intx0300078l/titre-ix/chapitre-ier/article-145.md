@@ -4,4 +4,4 @@ Les communes constituent le premier niveau d'administration publique et le premi
 
 Ils sont associés selon les modalités fixées par la loi à l'élaboration des schémas ou des plans établis par la région ou le département.
 
-A l'initiative de la région et du département ou à leur demande, ils peuvent participer à l'exercice de tout ou partie des compétences relevant de la responsabilité de l'une ou de l'autre de ces collectivités territoriales, dans des conditions prévues par une convention.
+A l'initiative de la région et du département ou à leur demande, ils peuvent participer à l'exercice de tout ou partie des compétences relevant de la responsabilité de l'une ou de l'autre de ces collectivités territoriales, dans des conditions prévues par une convention. Lorsque la demande de délégation de compétences émane d'une commune, le président du conseil régional ou du conseil général l'inscrit, dans un délai de six mois, à l'ordre du jour de l'assemblée délibérante qui se prononce par une délibération motivée.
