@@ -1,0 +1,3 @@
+# Article 2
+
+La présente autorisation est accordée au vu des statuts de la société Batifranc. Elle cessera de produire effet si elle n'est pas renouvelé à la demande des conseils généraux de la Haute-Saône, du Jura, du Doubs, du territoire de Belfort, de la Côte-d'Or, de l'Yonne, de la Nièvre et du conseil de la communauté d'agglomération du pays de Montbéliard, en cas de modification des statuts affectant de façon substantielle l'organisation et le fonctionnement de la société et, notamment, en cas de modification portant sur sa forme, son objet ou sa durée ou sur les droits des actionnaires ou la composition et les attributions de l'assemblée générale et du conseil d'administration.
