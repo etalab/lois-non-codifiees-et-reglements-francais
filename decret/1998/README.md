@@ -460,6 +460,7 @@
 - [Décret n°98-1157 du 16 décembre 1998 (MESG9811153D)](decret-n98-1157-du-16-decembre-1998-mesg9811153d)
 - [Décret n°98-1159 du 16 décembre 1998 (ECOX9803326D)](decret-n98-1159-du-16-decembre-1998-ecox9803326d)
 - [Décret n°98-1161 du 16 décembre 1998 (EQUZ9800635D)](decret-n98-1161-du-16-decembre-1998-equz9800635d)
+- [Décret n°98-1162 du 16 décembre 1998 (MESS9823292D)](decret-n98-1162-du-16-decembre-1998-mess9823292d)
 - [Décret n°98-175 du 16 mars 1998 (COPX9802745D)](decret-n98-175-du-16-mars-1998-copx9802745d)
 - [Décret n°98-178 du 16 mars 1998 (MESS9820080D)](decret-n98-178-du-16-mars-1998-mess9820080d)
 - [Décret n°98-190 du 16 mars 1998 (ECOP9800117D)](decret-n98-190-du-16-mars-1998-ecop9800117d)

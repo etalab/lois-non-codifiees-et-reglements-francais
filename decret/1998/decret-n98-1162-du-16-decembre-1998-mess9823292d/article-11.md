@@ -1,0 +1,3 @@
+# Article 11
+
+Il est appliqué une majoration de retard de 10 % du montant des contributions qui n'ont pas été versées aux dates d'exigibilité prévues à l'article précédent. Cette majoration est augmentée de 3 % du montant des contributions dues par trimestre ou fraction de trimestre écoulé après l'expiration d'un délai de trois mois à compter de la date limite d'exigibilité des contributions. Ces majorations sont liquidées et leur versement effectué dans les conditions fixées par l'article R. 243-19 du code de la sécurité sociale. Il est procédé à leur remise automatique dans les conditions fixées par l'article R. 243-19-1 du même code. Il peut être procédé à leur réduction dans les conditions fixées à l'article R. 243-20.
