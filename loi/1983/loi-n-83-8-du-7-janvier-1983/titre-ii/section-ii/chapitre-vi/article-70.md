@@ -4,7 +4,7 @@ Sur proposition ou après accord du conseil municipal des communes intéressées
 
 Des prescriptions particulières en matière d'architecture et de paysage sont instituées à l'intérieur de ces zones ou parties de zones pour les travaux mentionnés à l'article 71.
 
-Après enquête publique, avis du collège régional du patrimoine et des sites et accord du conseil municipal de la commune intéressée, la zone de protection est créée par arrêté du représentant de l'Etat dans la région.
+Après enquête publique, avis de la commission régionale du patrimoine et des sites mise en place par la loi n° 97-179 du 28 février 1997 et accord du conseil municipal de la commune intéressée, la zone de protection est créée par arrêté du représentant de l'Etat dans la région.
 
 Le ministre compétent peut évoquer tout projet de zone de protection.
 
