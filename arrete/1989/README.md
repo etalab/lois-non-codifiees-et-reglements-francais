@@ -60,7 +60,6 @@
 - [Arrêté du 3 décembre 1988 (INTB8800468A)](arrete-du-3-decembre-1988-intb8800468a)
 - [Arrêté du 3 février 1989 (MAEC8900001A)](arrete-du-3-fevrier-1989-maec8900001a)
 - [Arrêté du 3 février 1989 (PTTP8900102A)](arrete-du-3-fevrier-1989-pttp8900102a)
-- [Arrêté du 3 janvier 1989 (INDA8800910A)](arrete-du-3-janvier-1989-inda8800910a)
 - [Arrêté du 3 janvier 1989 (SPSH8900017A)](arrete-du-3-janvier-1989-spsh8900017a)
 - [Arrêté du 3 juillet 1989 (AGRU8901180A)](arrete-du-3-juillet-1989-agru8901180a)
 - [Arrêté du 3 juillet 1989 (DEFD8901375A)](arrete-du-3-juillet-1989-defd8901375a)

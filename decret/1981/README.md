@@ -50,7 +50,6 @@
 - [Décret n°81-278 du 25 mars 1981](decret-n81-278-du-25-mars-1981)
 - [Décret n°81-876 du 25 septembre 1981](decret-n81-876-du-25-septembre-1981)
 - [Décret n°81-1053 du 27 novembre 1981](decret-n81-1053-du-27-novembre-1981)
-- [Décret n°81-61 du 27 janvier 1981](decret-n81-61-du-27-janvier-1981)
 - [Décret n°81-421 du 29 avril 1981](decret-n81-421-du-29-avril-1981)
 - [Décret n°80-1145 du 30 décembre 1980](decret-n80-1145-du-30-decembre-1980)
 - [Décret n°80-857 du 30 octobre 1980](decret-n80-857-du-30-octobre-1980)

@@ -171,7 +171,6 @@
 - [Arrêté du 7 octobre 1987 (TRSA8700403A)](arrete-du-7-octobre-1987-trsa8700403a)
 - [Arrêté du 7 septembre 1987 (TRSA8700270A)](arrete-du-7-septembre-1987-trsa8700270a)
 - [Arrêté du 7 mai 1987](arrete-du-7-mai-1987)
-- [Arrêté du 7 mai 1987 (ASES8700729A)](arrete-du-7-mai-1987-ases8700729a)
 - [Arrêté du 7 mai 1987 (ECOT8750025A)](arrete-du-7-mai-1987-ecot8750025a)
 - [Arrêté du 8 août 1973](arrete-du-8-aout-1973)
 - [Arrêté du 8 décembre 1986](arrete-du-8-decembre-1986)
