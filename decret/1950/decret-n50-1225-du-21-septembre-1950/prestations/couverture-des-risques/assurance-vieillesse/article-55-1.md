@@ -1,6 +1,6 @@
 # Article 55-1
 
-Les termes "durée d'assurance" et "périodes d'assurance" [*pour la détermination du montant de l'assurance vieillesse - retraite*] figurant à l'article 1er bis (par. 1er) du décret n° 51-727 du 6 juin 1951 désignent :
+Les termes "durée d'assurance" et "périodes d'assurance" [*pour la détermination du montant de l'assurance vieillesse - retraite*] figurant à l'article 1er bis (par. 1er et 11) du décret n° 51-727 du 6 juin 1951 désignent [*définition*] :
 
 1° Les périodes de cotisations à l'assurance vieillesse obligatoire ou volontaire ainsi que les périodes assimilées à des périodes d'assurance ou validables en application des règles propres à chacun des régimes de base obligatoires ;
 

@@ -38,13 +38,17 @@ Les dispositions du e ci-dessus s'appliquent à tous les anciens combattants pou
 
 Par. 3 - Le service de la pension de vieillesse attribuée ou révisée au titre de l'inaptitude au travail peut être suspendu lorsque le titulaire, n'ayant pas atteint l'âge fixé en application du a du paragraphe 2 du présent article, exerce une activité professionnelle lui procurant des revenus dépassant un montant déterminé [*cumul emploi retraite*].
 
-La pension de vieillesse au taux plein est assortie, le cas échéant, d'une majoration permettant de porter cette prestation à un montant minimum tenant compte de la durée d'assurance et fixé par décret.    La bonification pour enfants, la majoration pour conjoint à charge et la rente des retraites ouvrières et paysannes prévues aux paragraphes 5 et 6 du présent article et à l'article L. 350 du code de la sécurité sociale s'ajoutent à ce montant minimum [*décret du 11 janvier 1984 art. 1*].    Par. 4 - Lorsque le montant de la pension est inférieur à un minimum, un versement forfaitaire unique [*capital*] est substitué à la pension, dans les conditions fixées par voie réglementaire.
+La pension de vieillesse au taux plein est assortie, le cas échéant, d'une majoration permettant de porter cette prestation à un montant minimum tenant compte de la durée d'assurance et fixé par décret.    La bonification pour enfants, la majoration pour conjoint à charge et la rente des retraites ouvrières et paysannes prévues aux paragraphes 5 et 6 du présent article et à l'article L. 350 du code de la sécurité sociale s'ajoutent à ce montant minimum [*décret du 11 janvier 1984 art. 1*].
+
+Par. 4 - Lorsque le montant de la pension est inférieur à un minimum, un versement forfaitaire unique [*capital*] est substitué à la pension, dans les conditions fixées par voie réglementaire.
 
 Par. 5 - La pension prévue aux paragraphes 1er et 2 ci-dessus est assortie d'une majoration pour tout assuré de l'un ou l'autre sexe ayant eu un nombre minimum d'enfants.
 
 Ouvrent également droit à cette majoration les enfants élevés dans les conditions prévues à l'article 2 (§ 1er, II, 2e alinéa) ci-dessous.
 
-Par. 6 - La pension prévue aux paragraphes 1er et 2 ci-dessus est assortie d'une majoration lorsque le conjoint à charge du titulaire atteint l'âge fixé par voie réglementaire et n'est pas bénéficiaire d'un avantage au titre d'une législation de sécurité sociale.    Par. 7 - Les femmes assurées ayant élevé un ou plusieurs enfants dans les conditions prévues à l'article 2 (par. 1er-II, 2ème alinéa) ci-dessous bénéficient d'une majoration de leur durée d'assurance égale à deux années supplémentaires par enfant élevé dans lesdites conditions.
+Par. 6 - La pension prévue aux paragraphes 1er et 2 ci-dessus est assortie d'une majoration lorsque le conjoint à charge du titulaire atteint l'âge fixé par voie réglementaire et n'est pas bénéficiaire d'un avantage au titre d'une législation de sécurité sociale.
+
+Par. 7 - Les femmes assurées ayant élevé un ou plusieurs enfants dans les conditions prévues à l'article 2 (par. 1er-II, 2ème alinéa) ci-dessous bénéficient d'une majoration de leur durée d'assurance égale à deux années supplémentaires par enfant élevé dans lesdites conditions.
 
 Par. 8 - Le père assuré ayant obtenu un congé parental d'éducation dans les conditions de l'article L. 122-28-1, 5ème alinéa, du code du travail, ou un congé parental dans les conditions prévues par l'article 21-VII de la loi n° 78-753 du 17 juillet 1978, bénéficie d'une majoration de sa durée d'assurance égale à la durée effective du congé parental.
 
@@ -53,3 +57,21 @@ Cette majoration est également accordée aux femmes assurées qui ont obtenu un
 Par. 9 - Les assurés âgés de plus de soixante-cinq ans bénéficient d'une majoration de leur durée d'assurance qui est fonction du nombre d'années supplémentaires par rapport à l'âge de soixante-cinq ans.
 
 Par. 10 - Les montants de la majoration pour conjoint à charge prévue au paragraphe 6 du présent article et du minimum de pension prévu au deuxième alinéa du paragraphe 3 dudit article sont fixés par décret en tenant compte de la durée d'assurance lorsque celle-ci est inférieure à la durée déterminée par ce décret.
+
+Paragraphe 11. - L'assuré qui exerce une activité à temps partiel au sens de l'article L. 212-4-2 du code du travail peut demander la liquidation de sa pension de vieillesse et le service d'une fraction de celle-ci, à condition [*d'attribution*] :
+
+1° D'avoir atteint l'âge prévu au premier alinéa du paragraphe 1er du présent article ;
+
+2° De justifier d'une durée déterminée d'assurance et de périodes reconnues équivalentes dans un ou plusieurs des régimes d'assurance vieillesse dont relèvent respectivement les salariés agricoles, les salariés du régime général et les personnes non salariées des professions artisanales, industrielles et commerciales, des professions libérales et des professions agricoles ;
+
+3° D'exercer son activité à titre exclusif.
+
+Cette demande entraîne la liquidation et le service de la même fraction de pension dans chacun des régimes mentionnés au 2° du précédent alinéa.
+
+La fraction de pension qui est servie varie dans des conditions fixées par voie réglementaire en fonction de la durée du travail à temps partiel ; en cas de modification de son temps de travail, l'assuré peut obtenir la modification de cette fraction de pension au terme d'un délai déterminé.
+
+Les dispositions du premier alinéa de l'article L. 161-22 du code de la sécurité sociale ne sont pas opposables à l'assuré qui demande le bénéfice d'une pension au titre du présent paragraphe et des articles L. 351-15, L. 634-3-1, L. 643-8-1 dudit code ou 1121-2 du code rural.
+
+Paragraphe 12. - Le service de la fraction de pension est remplacé par le service de la pension complète à la demande de l'assuré, lorsque celui-ci cesse totalement son activité. Il est suspendu lorsque l'assuré reprend une activité à temps complet ou exerce une autre activité à temps partiel en plus de celle ouvrant droit au service de la fraction de pension.
+
+Le service d'une fraction d'une pension ne peut pas à nouveau être demandé après la cessation de l'activité à temps partiel lorsque l'assuré a demandé le service de sa pension complète, la reprise d'une activité à temps complet ou l'exercice d'une autre activité à temps partiel en plus de celle ouvrant droit au service de la fraction de pension.
