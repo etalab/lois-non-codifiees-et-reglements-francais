@@ -6,6 +6,8 @@ Pour celles de ces entreprises qui font appel public à l'épargne, cette public
 
 Les entreprises émettrices de billets de trésorerie au cours de l'exercice publient dans un journal d'annonces légales de diffusion nationale un rapport ainsi qu'un tableau d'activité et de résultats semestriels. Cette publicité intervient au plus tard dans un délai de trois mois suivant la fin du premier semestre de l'exercice.
 
+Elles doivent également avoir déposé à la Commission des opérations de bourse, au plus tard le jour de l'émission des billets, une note de présentation financière qui est mise à jour au moins une fois par an. Un exemplaire est simultanément transmis à la Banque de France.
+
 Pour celles de ces entreprises qui font appel public à l'épargne, cette publicité est effectuée soit au Bulletin des annonces légales obligatoires, soit dans un autre journal d'annonces légales de diffusion nationale avec la référence de cette publicité au Bulletin des annonces légales obligatoires ; elle intervient au plus tard dans un délai de quatre mois suivant la fin du premier semestre de l'exercice.
 
 Le tableau est établi sur la base des éléments prévus aux articles 14 à 16 du décret n° 83-1020 du 29 novembre 1983 relatif aux obligations comptables des commerçants et de certaines sociétés, ou sur la base des éléments prévus aux articles 248 à 248-11 du décret n° 67-236 du 23 mars 1967, modifié par le décret n° 86-221 du 17 février 1986, et comporte au minimum les données chiffrées du modèle annexé au présent décret. Chacun des postes du tableau est comparé au poste correspondant de l'exercice précédent et du semestre correspondant de l'exercice précédent.
