@@ -1,3 +1,13 @@
 # Article 4
 
-Ces traitements relatifs au suivi des opérations administratives sont mis en oeuvre sur des micro-ordinateurs autonomes installés da ns les services déconcentrés de la direction générale des impôts.
+Les informations traitées sont les suivantes :
+
+Nom, prénoms ou raison sociale ;
+
+Adresse ;
+
+Le cas échéant n° SIRET et code A.P.E. ;
+
+Nom, prénoms, affectation et fonctions des agents chargés du contrôle ;
+
+Déroulement des programmes annuels de contrôle fiscal.
