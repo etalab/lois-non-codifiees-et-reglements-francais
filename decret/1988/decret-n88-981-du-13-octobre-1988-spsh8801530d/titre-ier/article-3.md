@@ -4,7 +4,7 @@ Des suppléants sont nommés selon les mêmes modalités que les titulaires en c
 
 1° Le président ;
 
-2° Les membres mentionnés au e du I, au II et aux b et c du III de l'article 2 ci-dessus ;
+2° Les membres mentionnés au f du I, au II et aux b et c du III de l'article 2 ci-dessus ;
 
 3° Tous les membres mentionnés au IV du même article.
 
