@@ -624,7 +624,6 @@
 - [Arrêté du 16 avril 1996 (ECOB9510062A)](arrete-du-16-avril-1996-ecob9510062a)
 - [Arrêté du 16 avril 1996 (EQUA9600581A)](arrete-du-16-avril-1996-equa9600581a)
 - [Arrêté du 16 avril 1996 (EQUA9600582A)](arrete-du-16-avril-1996-equa9600582a)
-- [Arrêté du 16 avril 1996 (EQUA9600583A)](arrete-du-16-avril-1996-equa9600583a)
 - [Arrêté du 16 avril 1996 (JUSC9620019A)](arrete-du-16-avril-1996-jusc9620019a)
 - [Arrêté du 16 avril 1996 (MJSK9670058A)](arrete-du-16-avril-1996-mjsk9670058a)
 - [Arrêté du 16 décembre 1996 (BUDL9600157A)](arrete-du-16-decembre-1996-budl9600157a)
