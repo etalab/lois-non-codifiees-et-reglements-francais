@@ -14,7 +14,7 @@ Ex 05-02 : soies brutes de porc, de sanglier ; déchets de ces soies.
 
 Ex 05-03 : crins et déchets de crins bruts (de ruminants).
 
-Ex 05-04 : boyaux, vessies et estomacs frais, réfrigérés ou congelés entiers ou en morceaux de ruminants et porcins.
+Ex 05-04 : boyaux, vessies et estomacs frais, réfrigérés ou congelés, entiers ou en morceaux de ruminants et porcins.
 
 Ex 05-06 : tendons et nerfs, rognures et autres déchets similaires de peaux brutes (des ruminants et porcins domestiques ou sauvages).
 
@@ -22,13 +22,15 @@ Ex 05-08 : os et cornillons bruts, poudres et déchets de ces matières.
 
 Ex 05-09 : cornes et bois de ruminants, bruts ; ongles de ruminants et de porcins, bruts.
 
-Ex 05-14 : bile, glandes et autres organes d'origine animale (de ruminants et porcins domestiques ou sauvages), frais, réfrigérés, congelés ou conservés provisoirement d'une autre manière, mais non desséchés.
+Ex 05-14 : bile, glandes et autre organes d'origine animale (de ruminants et porcins domestiques ou sauvages), frais, réfrigérés, congelés ou conservés provisoirement d'une autre manière, mais non desséchés.
 
 05-15 ex B : produits d'origine animale (ruminants et porcins) non dénommés ni compris ailleurs ; animaux morts (ruminants et porcins) impropres à la consommation humaine.
 
 12-09 : pailles et balles de céréales brutes, même hachées.
 
 12-10 ex B : foin, luzerne, sainfoin trèfle.
+
+15-02 ex A et ex B : suifs (des espèces bovine, ovine et caprine), bruts.
 
 Ex 16-01 : saucisses, saucissons et similaires crus, fumés ou non, de viandes, d'abats ou de sang (de ruminants et porcins domestiques ou sauvages).
 

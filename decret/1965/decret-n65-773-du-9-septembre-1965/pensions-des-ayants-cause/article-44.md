@@ -1,0 +1,5 @@
+# Article 44
+
+Le conjoint survivant d'un agent du sexe féminin peut prétendre à une pension [*définition*] égale à 50 p. 100 [*pourcentage*] de la pension obtenue par cet agent ou qu'il aurait obtenue le jour de son décès et augmentée, le cas échéant, de la moitié [*proportion*] de la rente d'invalidité dont il bénéficiait ou aurait pu bénéficier si se trouve remplie la condition d'antériorité de mariage [*délai*] prévue à l'article 36 (I a et b) et s'il est justifié, dans les formes fixées à l'article 25, qu'au décès de sa femme l'intéressé est atteint d'une infirmité ou maladie incurable le rendant définitivement incapable de travailler.
+
+Cette pension, non cumulable avec toute autre pension ou rente attribuée au titre de la vieillesse ou de l'invalidité, à concurrence du montant de ces avantages, ne peut être supérieure au traitement brut afférent à l'indice 100 prévu par l'article 1er du décret n° 48-1108 du 10 juillet 1948 et les textes subséquents. Elle cesse d'être servie en cas de remariage du veuf ou s'il vit en état de concubinage notoire.
