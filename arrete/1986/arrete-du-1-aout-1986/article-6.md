@@ -9,3 +9,5 @@ Est interdit en action de chasse et pour la destruction des animaux nuisibles, y
 - de tout bateau à moteur fixe ou amovible ;
 
 - de tout bateau à pédales, sauf dans les cas autorisés par le ministre chargé de la chasse.
+
+L'utilisation d'embarcations à moteur est toutefois autorisée en période de crue pour la destruction à tir du ragondin et du rat musqué.

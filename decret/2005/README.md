@@ -1,5 +1,6 @@
 # 2005
 
+- [Décret n°2005-77 du 1 février 2005 (JUSC0420920D)](decret-n2005-77-du-1-fevrier-2005-jusc0420920d)
 - [Décret n°2004-1172 du 2 novembre 2004 (SANS0422912D)](decret-n2004-1172-du-2-novembre-2004-sans0422912d)
 - [Décret n°2004-1327 du 2 décembre 2004 (SANH0423947D)](decret-n2004-1327-du-2-decembre-2004-sanh0423947d)
 - [Décret n°2004-951 du 2 septembre 2004 (JUSC0420587D)](decret-n2004-951-du-2-septembre-2004-jusc0420587d)
@@ -96,6 +97,8 @@
 - [Décret n°2005-51 du 26 janvier 2005 (SANP0423079D)](decret-n2005-51-du-26-janvier-2005-sanp0423079d)
 - [Décret n°2005-52 du 26 janvier 2005 (ECOP0400445D)](decret-n2005-52-du-26-janvier-2005-ecop0400445d)
 - [Décret n°2005-53 du 26 janvier 2005 (ECOP0400442D)](decret-n2005-53-du-26-janvier-2005-ecop0400442d)
+- [Décret n°2005-78 du 26 janvier 2005 (INDI0404303D)](decret-n2005-78-du-26-janvier-2005-indi0404303d)
+- [Décret n°2005-79 du 26 janvier 2005 (INDI0404304D)](decret-n2005-79-du-26-janvier-2005-indi0404304d)
 - [Décret n°2005-581 du 26 mai 2005 (MJSK0570086D)](decret-n2005-581-du-26-mai-2005-mjsk0570086d)
 - [Décret n° 2005-63 du 27 janvier 2005 (INDI0504431D)](decret-n-2005-63-du-27-janvier-2005-indi0504431d)
 - [Décret n°2005-1691 du 27 décembre 2005 (DOMA0500021D)](decret-n2005-1691-du-27-decembre-2005-doma0500021d)
@@ -139,3 +142,4 @@
 - [Décret n°2005-72 du 31 janvier 2005 (DEFD0500022D)](decret-n2005-72-du-31-janvier-2005-defd0500022d)
 - [Décret n°2005-73 du 31 janvier 2005 (DEFD0500043D)](decret-n2005-73-du-31-janvier-2005-defd0500043d)
 - [Décret n°2005-75 du 31 janvier 2005 (INDI0504586D)](decret-n2005-75-du-31-janvier-2005-indi0504586d)
+- [Décret n°2005-76 du 31 janvier 2005 (SANH0424194D)](decret-n2005-76-du-31-janvier-2005-sanh0424194d)

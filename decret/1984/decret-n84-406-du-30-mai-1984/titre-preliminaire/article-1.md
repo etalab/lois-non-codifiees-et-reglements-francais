@@ -1,17 +1,7 @@
 # Article 1
 
-Il est tenu un registre du commerce et des sociétés auquel sont immatriculés, sur leur déclaration :
+I. - Une demande d'inscription, un dépôt d'acte ou de pièce au registre du commerce et des sociétés peuvent être effectués par la voie électronique dès lors qu'ils peuvent être transmis et reçus par cette voie, à l'exception toutefois du dépôt des actes et pièces dont l'original doit être fourni et qui ont été établis sur support papier.
 
-1° Les personnes physiques ayant la qualité de commerçant, même si elles sont tenues à immatriculation au répertoire des métiers ;
+II. - Pour toutes les transmissions par voie électronique mentionnées au I, il est fait usage d'une signature électronique sécurisée dans les conditions prévues à l'article 1316-4 du code civil et par le décret du 30 mars 2001 pris pour son application. Toutefois, pour les demandes d'immatriculation, cette signature électronique peut résulter de l'usage d'un procédé répondant aux conditions définies à la première phrase du second alinéa de l'article 1316-4 du code civil.
 
-2° Les sociétés et groupements d'intérêt économique ayant leur siège dans un département français et jouissant de la personnalité morale conformément à l'article 1842 du code civil ou à l'article 3 de l'ordonnance n° 67-821 du 23 septembre 1967 sur les groupements d'intérêt économique ;
-
-3° Les sociétés commerciales dont le siège est situé hors d'un département français et qui ont un établissement dans l'un de ces départements ;
-
-4° Les établissements publics français à caractère industriel ou commercial ;
-
-5° Les autres personnes morales dont l'immatriculation est prévue par des dispositions législatives ou réglementaires ;
-
-6° Les représentations commerciales ou agences commerciales des Etats, collectivités ou établissements publics étrangers établis dans un département français ;
-
-Figurent au registre, pour être portés à la connaissance du public, les inscriptions et actes ou pièces déposés prévus par le présent décret.
+III. - Le greffier accuse réception, selon les modalités fixées par l'arrêté prévu à l'article 88, de toute transmission qui lui est faite dès que celle-ci lui parvient.
