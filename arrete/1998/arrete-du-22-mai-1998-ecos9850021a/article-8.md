@@ -4,7 +4,7 @@ Pour la mise à disposition des produits de diffusion du recensement, les niveau
 
 i) Département ;
 
-ii) Zone géographique d'un seul tenant d'au moins 50 000 habitants ;
+ii) Zone géographique d'au moins 50 000 habitants ;
 
 iii) Commune de plus de 5 000 habitants ;
 
