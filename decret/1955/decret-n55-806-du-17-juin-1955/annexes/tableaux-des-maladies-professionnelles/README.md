@@ -10,6 +10,7 @@
 - [44° Lésions eczématiformes de mécanisme allergique.](44-lesions-eczematiformes-de-mecanisme-allergique)
 - [45° Affections respiratoires professionnelles de mécanisme allergique](45-affections-respiratoires-professionnelles-de-mecanisme-allergique)
 - [5° Leptospiroses professionnelles](5-leptospiroses-professionnelles)
+- [6° Brucelloses](6-brucelloses)
 - [6° Brucelloses professionnelles](6-brucelloses-professionnelles)
 - [7° Tularémie professionnelle](7-tularemie-professionnelle)
 - [8° Sulfocarbonisme professionnel](8-sulfocarbonisme-professionnel)
