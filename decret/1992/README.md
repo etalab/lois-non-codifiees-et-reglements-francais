@@ -129,6 +129,7 @@
 - [Décret n°91-1413 du 28 décembre 1991 (MENF9103162D)](decret-n91-1413-du-28-decembre-1991-menf9103162d)
 - [Décret n°91-1418 du 28 décembre 1991 (ECOT9194053D)](decret-n91-1418-du-28-decembre-1991-ecot9194053d)
 - [Décret n°91-1419 du 28 décembre 1991 (ECOT9194054D)](decret-n91-1419-du-28-decembre-1991-ecot9194054d)
+- [Décret n°92-103 du 28 janvier 1992 (JUSD9130069D)](decret-n92-103-du-28-janvier-1992-jusd9130069d)
 - [Décret n°92-98 du 29 janvier 1992 (INDH9200047D)](decret-n92-98-du-29-janvier-1992-indh9200047d)
 - [Décret n°93-752 du 29 mars 1993 (MERG9300017D)](decret-n93-752-du-29-mars-1993-merg9300017d)
 - [Décret n°93-766 du 29 mars 1993 (SANH9300971D)](decret-n93-766-du-29-mars-1993-sanh9300971d)

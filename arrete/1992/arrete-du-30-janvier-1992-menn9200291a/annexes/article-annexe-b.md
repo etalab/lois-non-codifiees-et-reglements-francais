@@ -1,0 +1,51 @@
+# Article ANNEXE B
+
+Candidature à une inscription sur la liste de qualification aux fonctions de professeur des universités
+
+(Art. 44 du décret n° 84-431 du 6 juin 1984, modifié par l'article 15 du décret n° 92-71 du 16 janvier 1992)
+
+Section n° :
+
+Intitulé de la section :
+
+Notice individuelle curriculum vitae
+
+Nom patronymique :
+
+Nom marital :
+
+Prénoms :
+
+Date et lieu de naissance :
+
+Nationalité :
+
+Situation de famille :
+
+Adresse personnelle :
+
+Téléphone :
+
+Adresse professionnelle :
+
+Fonctions :
+
+Téléphone :
+
+Titres universitaires français (préciser pour la thèse, le titre, la date, le lieu de soutenance et le directeur de thèse) :
+
+Titres universitaires étrangers :
+
+Travaux, ouvrages, articles, réalisation (établir une liste exhaustive et numérotée des documents et indiquer les cinq d'entre eux qui feront l'objet d'un envoi au rapporteur) :
+
+Le candidat développera à la suite son curriculum vitae et précisera notamment ses activités en matière :
+
+- d'enseignement ;
+
+- de recherche ;
+
+- d'administration et autres responsabilités collectives.
+
+Fait à , le  1992.
+
+Signature :
