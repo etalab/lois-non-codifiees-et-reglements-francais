@@ -86,6 +86,7 @@
 - [Arrêté du 14 janvier 1991 (SANH9002286A)](arrete-du-14-janvier-1991-sanh9002286a)
 - [Arrêté du 14 janvier 1991 (SPSS9100148A)](arrete-du-14-janvier-1991-spss9100148a)
 - [Arrêté du 15 avril 1991 (INDA9100321A)](arrete-du-15-avril-1991-inda9100321a)
+- [Arrêté du 15 février 1991 (INTC9100139A)](arrete-du-15-fevrier-1991-intc9100139a)
 - [Arrêté du 15 janvier 1991 (SANH9100132A)](arrete-du-15-janvier-1991-sanh9100132a)
 - [Arrêté du 15 novembre 1990 (AGRG9002530A)](arrete-du-15-novembre-1990-agrg9002530a)
 - [Arrêté du 16 avril 1991 (SANH9100977A)](arrete-du-16-avril-1991-sanh9100977a)
