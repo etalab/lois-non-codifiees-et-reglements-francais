@@ -2,9 +2,9 @@
 
 Les valeurs d'application de a sont les suivantes :
 
-a = 1,60 en zone I ;
+a = 2,00 en zone I ;
 
-a = 1,20 en zone II ;
+a = 1,35 en zone II ;
 
 a = 1,00 en zone III.
 

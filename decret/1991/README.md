@@ -92,6 +92,8 @@
 - [Décret n°91-107 du 25 janvier 1991 (MEND9002672D)](decret-n91-107-du-25-janvier-1991-mend9002672d)
 - [Décret n°91-108 du 25 janvier 1991 (MEND9002673D)](decret-n91-108-du-25-janvier-1991-mend9002673d)
 - [Décret n°91-1198 du 27 novembre 1991 (JUSF9150087D)](decret-n91-1198-du-27-novembre-1991-jusf9150087d)
+- [Décret n°91-114 du 29 janvier 1991 (EQUC9100086D)](decret-n91-114-du-29-janvier-1991-equc9100086d)
+- [Décret n°91-113 du 30 janvier 1991 (ECOA9000068D)](decret-n91-113-du-30-janvier-1991-ecoa9000068d)
 - [Décret n°90-1217 du 31 décembre 1990 (ENVN9061931D)](decret-n90-1217-du-31-decembre-1990-envn9061931d)
 - [Décret n°90-1218 du 31 décembre 1990 (ECOT9010099D)](decret-n90-1218-du-31-decembre-1990-ecot9010099d)
 - [Décret n°90-1219 du 31 décembre 1990 (ECOT9023057D)](decret-n90-1219-du-31-decembre-1990-ecot9023057d)

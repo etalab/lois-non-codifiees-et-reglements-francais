@@ -1,6 +1,7 @@
 # Annexes
 
 - [Coefficient de localisation i.](coefficient-de-localisation-i)
+- [Les valeurs Cv, Bv et Gv figurant à l'annexe IX de l'arrêté du 26 mars 1985 susvisés et applicables : - jusqu'au 30 juin 1991 ; - à partir du 1er juillet 1991 ; sont données en annexe du présent arrêté.](les-valeurs-cv-bv-et-gv)
 - [Article Annexe IX](article-annexe-ix.md)
 - [Coefficient de difficultés.](coefficient-de-difficultes)
 - [Coefficient de localisation de l'opération.](coefficient-de-localisation-de-l-operation)

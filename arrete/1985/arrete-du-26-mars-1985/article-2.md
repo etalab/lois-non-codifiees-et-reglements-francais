@@ -64,23 +64,27 @@ Par pièce supplémentaire :
 
 SURFACE habitable minimale (m2) : + 14.
 
-Pour les maisons individuelles, bénéficiant d'annexes d'au moins vingt-cinq mètres carrés en sous-sol ou en comble, les surfaces habitables minimales susmentionnées sont, dans la limite de 4 mètres carrés maximum, diminuées de l'emprise de l'escalier conduisant au comble ou de la surface de la trémie de l'escalier conduisant au sous-sol.
+Pour les maisons individuelles, bénéficiant d'annexes d'au moins vingt-cinq mètres carrés en sous-sol ou en comble, les surfaces habitables minimales susmentionnées sont, dans la limite de 4 mètres carrés maximum, diminuées de l'emprise de l'escalier conduisant au comble ou de la surface de la trémie de l'escalier conduisant au sous-sol.    " Des dérogations aux dispositions relatives au nombre de pièces principales par type de logement peuvent être accordées par le représentant de l'Etat dans le département, sous réserve du respect des surfaces habitables minimales fixées pour chaque type de logement. "
+
+II. - Au deuxième alinéa du paragraphe 2.2.1 de l'article 2, supprimer les mots : " et au traitement des accès ".
+
+III. - Le troisième alinéa du paragraphe 2.2.1 de l'article 2 est remplacé par :
 
 2.2. Cotation de la qualité.
 
 " 2.2.1. En ce qui concerne l'installation de plomberie et l'équipement sanitaire, l'installation électrique, la protection contre les bruits, le confort thermique d'été, l'enveloppe extérieure, la performance énergétique et l'accessibilité, l'appréciation de la qualité est faite selon la méthode Qualitel définie dans le guide Qualitel applicable à la date de dépôt de la demande de décision favorable. En ce qui concerne l'enveloppe extérieure, l'appréciation de la qualité est complétée à l'aide des tables d'investissements établies par le Centre scientifique et technique du bâtiment et publiées par l'association Qualitel applicables à la même date.
 
-" Ces prestations et celles relatives à la présence de conduits de fumée et au traitement des accès donnent lieu à une modulation du prix de référence par l'intermédiaire des coefficients de pondération d1 et d2 définis en annexe VII du présent arrêté.
+" Ces prestations et celles relatives à la présence de conduits de fumée donnent lieu à une modulation du prix de référence par l'intermédiaire des coefficients de pondération d1 et d2 définis en annexe VII du présent arrêté.
 
-" Lorsqu'une majoration du prix de référence par au moins un de ces coefficients est demandée par le maître d'ouvrage, le dossier de financement doit comporter une fiche d'engagement type à laquelle est jointe, en cas de demande de majoration au titre du coefficient d1, une copie du contrat conclu avec l'association Qualitel. Dans la fiche d'engagement, le maître d'ouvrage s'engage :
+" Lorsqu'une majoration du prix de référence par le coefficient d1 est demandée par le maître d'ouvrage, le dossier de financement doit comporter une fiche d'engagement type à laquelle est jointe une copie du contrat conclu avec l'association Qualitel. Dans la fiche d'engagement, le maître d'ouvrage s'engage :
 
-" - à respecter les niveaux de prestations correspondant aux valeurs des coefficients d1 et d2 qu'il a indiquées dans la fiche ;
+" - à respecter les niveaux de prestations correspondant à la valeur du coefficient d1 qu'il a indiquée dans la fiche ;
 
-" - à transmettre à la direction départementale de l'équipement concernée, au plus tard un mois après le début du chantier, une attestation établie par l'association Qualitel comportant le calcul du coefficient de majoration, en cas de demande de majoration au titre du coefficient d1 ;
+" - à transmettre à la direction départementale de l'équipement concernée, au plus tard un mois après le début du chantier, une attestation établie par l'association Qualitel, comportant le calcul du coefficient de majoration ;
 
-" - à demander soit au contrôleur technique agissant dans le cadre de la mission définie à l'article L. 111-23 du code de la construction et de l'habitation, soit au centre d'études techniques de l'équipement territorialement concerné d'attester le niveau réel des prestations ayant fait l'objet de l'engagement précité, en déterminant la valeur des coefficients de pondération correspondants, le contrôle étant réalisé, en ce qui concerne le coefficient d1, selon la méthodologie définie par l'association Qualitel et sous la responsabilité de celle-ci ; cette attestation est jointe à la déclaration d'achèvement des travaux adressée à la direction départementale de l'équipement concernée.
+" - à demander soit à un contrôleur technique agréé par l'association Qualitel, soit au centre d'études techniques de l'équipement territorialement concerné d'attester le niveau réel des prestations ayant fait l'objet de l'engagement précité, en déterminant la valeur des coefficients de pondération correspondants, cette vérification étant réalisée selon la méthodologie définie par l'association Qualitel et sous la responsabilité de celle-ci ; cette attestation est envoyée au moment de la déclaration d'achèvement des travaux à la direction départementale de l'équipement concernée. "
 
-" Le prix de référence initial est établi avec les valeurs des coefficients d1 et d2 portées dans l'engagement du maître d'ouvrage. "
+" Le prix de référence initial est établi avec la valeur du coefficient dl portée dans l'engagement du maître d'ouvrage. "
 
 " 2.2.2. Etablissement d'un tableau de cotation.
 

@@ -6,67 +6,67 @@ COMPOSITION DU MENAGE : (Ressources inférieures à 70 % des plafonds)
 
 - 1° Une personne seule ou deux personnes sans aucune personne à charge à l'exclusion des jeunes ménages :
 
-- Zone 1 : 278.478
+- Zone 1 : 286.275
 
-- Zone 2 : 256.358
+- Zone 2 : 263.536
 
-- Zone 3 : 239.370
+- Zone 3 : 246.072
 
 - 2° Trois personnes ou une personne seule avec une personne à charge à l'exclusion des jeunes ménages :
 
-- Zone 1 : 364.572
+- Zone 1 : 374.780
 
-- Zone 2 : 334.345
+- Zone 2 : 343.707
 
-- Zone 3 : 309.324
+- Zone 3 : 317.985
 
 - 3° Jeune ménage sans ou avec une personne à charge :
 
-- Zone 1 : 439.992
+- Zone 1 : 452.312
 
-- Zone 2 : 402.673
+- Zone 2 : 413.948
 
-- Zone 3 : 370.603
+- Zone 3 : 380.980
 
 4° Quatre personnes ou une personne seule avec deux personnes à charge :
 
-- Zone 1 : 485.772
+- Zone 1 : 499.374
 
-- Zone 2 : 443.943
+- Zone 2 : 456.373
 
-- Zone 3 : 407.193
+- Zone 3 : 418.594
 
 5° Cinq personnes ou une personne seule avec trois personnes à charge :
 
-- Zone 1 : 562.709
+- Zone 1 : 578.465
 
-- Zone 2 : 513.639
+- Zone 2 : 528.021
 
-- Zone 3 : 469.705
+- Zone 3 : 482.857
 
 6° Six personnes ou une personne seule avec quatre personnes à charge :
 
-- Zone 1 : 619.084
+- Zone 1 : 636.418
 
-- Zone 2 : 564.724
+- Zone 2 : 580.536
 
-- Zone 3 : 515.506
+- Zone 3 : 529.940
 
 7° Sept ou huit personnes ou une personne seule avec cinq ou six personnes à charge :
 
-- Zone 1 : 696.098
+- Zone 1 : 715.589
 
-- Zone 2 : 634.496
+- Zone 2 : 652.262
 
-- Zone 3 : 578.109
+- Zone 3 : 594.296
 
 8° Par personne supplémentaire :
 
-- Zone 1 : 71.814
+- Zone 1 : 73.825
 
-- Zone 2 : 65.051
+- Zone 2 : 66.872
 
-- Zone 3 : 58.340.
+- Zone 3 : 59.974.
 
 Ménages comportant trois enfants au oins dnt un de moins de quatre ans à la date du dép<CB>t de la demande de décision favorable de prêt.
 
@@ -74,32 +74,32 @@ COMPOSITION DU MENAGE :
 
 Cinq personnes ou une personne seule avec trois personnes à charge :
 
-- Zone 1 : 703.357
+- Zone 1 : 723.082
 
-- Zone 2 : 642.059
+- Zone 2 : 660.037
 
-- Zone 3 : 587.134
+- Zone 3 : 603.574
 
 Six personnes ou une personne seule avec quatre personnes à charge :
 
-- Zone 1 : 773.855
+- Zone 1 : 795.523
 
-- Zone 2 : 705.894
+- Zone 2 : 725.659
 
-- Zone 3 : 644.397
+- Zone 3 : 662.440
 
 Sept ou huit personnes ou une personne seule avec cinq ou six personnes à charge :
 
-- Zone 1 : 870.133
+- Zone 1 : 894.497
 
-- Zone 2 : 793.109
+- Zone 2 : 815.316
 
-- Zone 3 : 722.635
+- Zone 3 : 742.869
 
 Par personne supplémentaire :
 
-- Zone 1 :  89.759
+- Zone 1 :  92.272
 
-- Zone 2 :  81.320
+- Zone 2 :  83.597
 
-- Zone 3 :  72.936.
+- Zone 3 :  74.978.

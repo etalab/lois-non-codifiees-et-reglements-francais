@@ -113,9 +113,9 @@ M2 = (NIc + 1,5 N30 + 2 N35 + 2,5 N40)/100 N
 <tr>
 <td> :-----------------------------:</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td/>
+</tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -166,24 +166,4 @@ M2 = (NIc + 1,5 N30 + 2 N35 + 2,5 N40)/100 N
 
 " Dans les formules ci-dessus, NA représente le nombre de logements ayant obtenu la note 3 à la rubrique e de la méthode Qualitel, ce nombre ne devant pas être inférieur à 20 p. 100 des logements de l'opération, N étant le nombre total de logements.
 
-" VII.2. - d2 dépend des prestations qui ne sont pas prises en compte dans la méthode Qualitel, regroupées dans les rubriques suivantes :
-
-" - traitement des accès ;
-
-" - conduits de fumée.
-
-" La cotation est :
-
-d2 = N1 + N2
-
-" - N1 (traitement des accès) : N1 est donné par la formule :
-
-" N1 = E/Bv
-
-" N1 = E/Bv
-
-" dans laquelle E est le surcoût dû aux équipements et produits permettant d'améliorer la sécurité des accès (hall d'entrée et logements).
-
-" N1 est plafonné à 0,005 ;
-
-" - N2 (conduits de fumée) : si chaque logement bénéficie de la présence d'un conduit de fumée, N2 = 0,005. "
+" VII-2. - d2 dépend de la présence de conduits de fumée dans les logements : si chaque logement bénéficie de la présence d'un conduit de fumée, d2 = 0,005. "

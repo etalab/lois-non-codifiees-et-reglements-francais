@@ -1,0 +1,3 @@
+# Annexes
+
+- [PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES FIXÉS EN APPLICATION DES ARTICLES R. 331-42 (P.A.P.) : ET R. 331-59-11 (LOCATION-ACCESSION) DU CODE DE LA CONSTRUCTION ET DE L'HABITATION.](plafonds-de-ressources-annuelles-imposables-fixes-en-application-des-articles-r)

@@ -1,8 +1,6 @@
 # Article 1
 
-Les prix témoins des logements visés à l'article R331-52 du C.C.H. (ancien art. 21 du décret n° 77-944 du 27 juillet 1977) sont fixés comme suit :
-
-Prix témoins des logements neufs en accession à la propriété
+Les prix témoins des logements acquis et améliorés visés à l'article R331-52 du Code de la construction et de l'habitation susvisé sont fixés comme suit :
 
 Jusqu'au 30 juin 1991
 
@@ -20,7 +18,7 @@ Jusqu'au 30 juin 1991
 <td> :     de     :----------------:</td>
 </tr>
 <tr>
-<td> : logement   :     ZONE I     :</td>
+<td> :  logement  :     ZONE I     :</td>
 </tr>
 <tr>
 <td> :            :   (en francs)  :</td>
@@ -29,41 +27,41 @@ Jusqu'au 30 juin 1991
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :     236.785    :</td>
+<td> :  I         :     160.920    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     344.235    :</td>
+<td> :  I bis     :     276.985    :</td>
 </tr>
 <tr>
-<td> :  II        :     418.900    :</td>
+<td> :  II        :     364.860    :</td>
 </tr>
 <tr>
-<td> :  III       :     498.545    :</td>
+<td> :  III       :     458.630    :</td>
 </tr>
 <tr>
-<td> :  IV        :     572.510    :</td>
+<td> :  IV        :     545.210    :</td>
 </tr>
 <tr>
-<td> :  V         :     657.895    :</td>
+<td> :  V         :     638.955    :</td>
 </tr>
 <tr>
-<td> :  VI        :     720.485    :</td>
+<td> :  VI        :     711.175    :</td>
 </tr>
 <tr>
-<td> :  VII       :     805.805    :</td>
+<td> :  VII       :     812.170    :</td>
 </tr>
 <tr>
 <td> : Pièce      :                :</td>
 </tr>
 <tr>
-<td> : suppl.     :      79.825    :</td>
+<td> : suppl.     :      86.555    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
 </tr>
-<tr>
-<td/>
-</tr>
+</table>
+
+<table>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -86,34 +84,34 @@ Jusqu'au 30 juin 1991
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :     213.555    :</td>
+<td> :  I         :     139.085    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     311.500    :</td>
+<td> :  I bis     :     239.265    :</td>
 </tr>
 <tr>
-<td> :  II        :     377.680    :</td>
+<td> :  II        :     315.110    :</td>
 </tr>
 <tr>
-<td> :  III       :     448.555    :</td>
+<td> :  III       :     396.050    :</td>
 </tr>
 <tr>
-<td> :  IV        :     514.380    :</td>
+<td> :  IV        :     470.805    :</td>
 </tr>
 <tr>
-<td> :  V         :     590.350    :</td>
+<td> :  V         :     551.740    :</td>
 </tr>
 <tr>
-<td> :  VI        :     646.050    :</td>
+<td> :  VI        :     614.080    :</td>
 </tr>
 <tr>
-<td> :  VII       :     721.975    :</td>
+<td> :  VII       :     701.260    :</td>
 </tr>
 <tr>
 <td> :  Pièce     :                :</td>
 </tr>
 <tr>
-<td> :  suppl.    :      70.880    :</td>
+<td> :  suppl.    :      74.740    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -143,41 +141,41 @@ Jusqu'au 30 juin 1991
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :     198.135    :</td>
+<td> :  I         :     122.455    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     290.385    :</td>
+<td> :  I bis     :     210.655    :</td>
 </tr>
 <tr>
-<td> :  II        :     348.760    :</td>
+<td> :  II        :     277.420    :</td>
 </tr>
 <tr>
-<td> :  III       :     411.905    :</td>
+<td> :  III       :     348.700    :</td>
 </tr>
 <tr>
-<td> :  IV        :     470.570    :</td>
+<td> :  IV        :     414.515    :</td>
 </tr>
 <tr>
-<td> :  V         :     538.270    :</td>
+<td> :  V         :     485.780    :</td>
 </tr>
 <tr>
-<td> :  VI        :     587.905    :</td>
+<td> :  VI        :     540.665    :</td>
 </tr>
 <tr>
-<td> :  VII       :     655.570    :</td>
+<td> :  VII       :     617.430    :</td>
 </tr>
 <tr>
 <td> :  Pièce     :                :</td>
 </tr>
 <tr>
-<td> :  suppl.    :      83.140    :</td>
+<td> :  suppl.    :      65.815    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
 </tr>
-<tr>
-<td/>
-</tr>
+</table>
+
+<table>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -203,31 +201,31 @@ Jusqu'au 30 juin 1991
 <td> :  I         :           0    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     357.950    :</td>
+<td> :  I bis     :     342.935    :</td>
 </tr>
 <tr>
-<td> :  II        :     446.270    :</td>
+<td> :  II        :     451.730    :</td>
 </tr>
 <tr>
-<td> :  III       :     538.615    :</td>
+<td> :  III       :     567.870    :</td>
 </tr>
 <tr>
-<td> :  IV        :     624.375    :</td>
+<td> :  IV        :     675.135    :</td>
 </tr>
 <tr>
-<td> :  V         :     723.280    :</td>
+<td> :  V         :     791.280    :</td>
 </tr>
 <tr>
-<td> :  VI        :     795.735    :</td>
+<td> :  VI        :     880.705    :</td>
 </tr>
 <tr>
-<td> :  VII       :     894.730    :</td>
+<td> :  VII       :   1.005.735    :</td>
 </tr>
 <tr>
 <td> :  Pièce     :                :</td>
 </tr>
 <tr>
-<td> :  suppl.    :      92.295    :</td>
+<td> :  suppl.    :     107.150    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -260,38 +258,38 @@ Jusqu'au 30 juin 1991
 <td> :  I         :           0    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     322.340    :</td>
+<td> :  I bis     :     293.035    :</td>
 </tr>
 <tr>
-<td> :  II        :     400.385    :</td>
+<td> :  II        :     386.000    :</td>
 </tr>
 <tr>
-<td> :  III       :     482.205    :</td>
+<td> :  III       :     485.220    :</td>
 </tr>
 <tr>
-<td> :  IV        :     558.215    :</td>
+<td> :  IV        :     576.885    :</td>
 </tr>
 <tr>
-<td> :  V         :     645.855    :</td>
+<td> :  V         :     676.150    :</td>
 </tr>
 <tr>
-<td> :  VI        :     710.075    :</td>
+<td> :  VI        :     752.565    :</td>
 </tr>
 <tr>
-<td> :  VII       :     797.815    :</td>
+<td> :  VII       :     859.385    :</td>
 </tr>
 <tr>
 <td> :  Pièce     :                :</td>
 </tr>
 <tr>
-<td> :  suppl.    :      81.790    :</td>
+<td> :  suppl.    :      91.545    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
 </tr>
-<tr>
-<td/>
-</tr>
+</table>
+
+<table>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -317,31 +315,31 @@ Jusqu'au 30 juin 1991
 <td> :  I         :           0    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     297.260    :</td>
+<td> :  I bis     :     257.475    :</td>
 </tr>
 <tr>
-<td> :  II        :     365.850    :</td>
+<td> :  II        :     339.195    :</td>
 </tr>
 <tr>
-<td> :  III       :     438.325    :</td>
+<td> :  III       :     426.365    :</td>
 </tr>
 <tr>
-<td> :  IV        :     506.680    :</td>
+<td> :  IV        :     506.930    :</td>
 </tr>
 <tr>
-<td> :  V         :     583.315    :</td>
+<td> :  V         :     594.140    :</td>
 </tr>
 <tr>
-<td> :  VI        :     640.205    :</td>
+<td> :  VI        :     661.290    :</td>
 </tr>
 <tr>
-<td> :  VII       :     717.940    :</td>
+<td> :  VII       :     755.155    :</td>
 </tr>
 <tr>
 <td> :  Pièce     :                :</td>
 </tr>
 <tr>
-<td> :  suppl.    :      72.450    :</td>
+<td> :  suppl.    :      80.450    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -373,41 +371,41 @@ A partir du 1er juillet 1991
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :     244.795    :</td>
+<td> :  I         :     166.365    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     355.875    :</td>
+<td> :  I bis     :     286.355    :</td>
 </tr>
 <tr>
-<td> :  II        :     433.065    :</td>
+<td> :  II        :     377.195    :</td>
 </tr>
 <tr>
-<td> :  III       :     515.405    :</td>
+<td> :  III       :     474.140    :</td>
 </tr>
 <tr>
-<td> :  IV        :     591.870    :</td>
+<td> :  IV        :     563.650    :</td>
 </tr>
 <tr>
-<td> :  V         :     680.140    :</td>
+<td> :  V         :     660.565    :</td>
 </tr>
 <tr>
-<td> :  VI        :     744.850    :</td>
+<td> :  VI        :     735.225    :</td>
 </tr>
 <tr>
-<td> :  VII       :     833.055    :</td>
+<td> :  VII       :     839.635    :</td>
 </tr>
 <tr>
 <td> : Pièce      :                :</td>
 </tr>
 <tr>
-<td> : suppl.     :      82.525    :</td>
+<td> : suppl.     :      89.485    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
 </tr>
-<tr>
-<td/>
-</tr>
+</table>
+
+<table>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -430,34 +428,34 @@ A partir du 1er juillet 1991
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :     216.195    :</td>
+<td> :  I         :     140.805    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     315.345    :</td>
+<td> :  I bis     :     242.220    :</td>
 </tr>
 <tr>
-<td> :  II        :     382.340    :</td>
+<td> :  II        :     319.000    :</td>
 </tr>
 <tr>
-<td> :  III       :     454.090    :</td>
+<td> :  III       :     400.940    :</td>
 </tr>
 <tr>
-<td> :  IV        :     520.730    :</td>
+<td> :  IV        :     476.620    :</td>
 </tr>
 <tr>
-<td> :  V         :     597.635    :</td>
+<td> :  V         :     558.555    :</td>
 </tr>
 <tr>
-<td> :  VI        :     654.025    :</td>
+<td> :  VI        :     621.665    :</td>
 </tr>
 <tr>
-<td> :  VII       :     730.885    :</td>
+<td> :  VII       :     709.915    :</td>
 </tr>
 <tr>
 <td> :  Pièce     :                :</td>
 </tr>
 <tr>
-<td> :  suppl.    :      71.735    :</td>
+<td> :  suppl.    :      75.660    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -487,41 +485,41 @@ A partir du 1er juillet 1991
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :     198.135    :</td>
+<td> :  I         :     122.445    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     290.385    :</td>
+<td> :  I bis     :     210.655    :</td>
 </tr>
 <tr>
-<td> :  II        :     348.760    :</td>
+<td> :  II        :     277.420    :</td>
 </tr>
 <tr>
-<td> :  III       :     411.905    :</td>
+<td> :  III       :     348.700    :</td>
 </tr>
 <tr>
-<td> :  IV        :     470.570    :</td>
+<td> :  IV        :     414.515    :</td>
 </tr>
 <tr>
-<td> :  V         :     538.270    :</td>
+<td> :  V         :     485.780    :</td>
 </tr>
 <tr>
-<td> :  VI        :     587.905    :</td>
+<td> :  VI        :     540.665    :</td>
 </tr>
 <tr>
-<td> :  VII       :     655.570    :</td>
+<td> :  VII       :     617.430    :</td>
 </tr>
 <tr>
 <td> :  Pièce     :                :</td>
 </tr>
 <tr>
-<td> :  suppl.    :      63.140    :</td>
+<td> :  suppl.    :      65.815    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
 </tr>
-<tr>
-<td/>
-</tr>
+</table>
+
+<table>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -547,31 +545,31 @@ A partir du 1er juillet 1991
 <td> :  I         :           0    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     370.055    :</td>
+<td> :  I bis     :     354.535    :</td>
 </tr>
 <tr>
-<td> :  II        :     461.365    :</td>
+<td> :  II        :     467.005    :</td>
 </tr>
 <tr>
-<td> :  III       :     556.830    :</td>
+<td> :  III       :     587.070    :</td>
 </tr>
 <tr>
-<td> :  IV        :     645.490    :</td>
+<td> :  IV        :     697.965    :</td>
 </tr>
 <tr>
-<td> :  V         :     747.735    :</td>
+<td> :  V         :     818.035    :</td>
 </tr>
 <tr>
-<td> :  VI        :     822.645    :</td>
+<td> :  VI        :     910.490    :</td>
 </tr>
 <tr>
-<td> :  VII       :     924.990    :</td>
+<td> :  VII       :   1.039.745    :</td>
 </tr>
 <tr>
 <td> :  Pièce     :                :</td>
 </tr>
 <tr>
-<td> :  suppl.    :      95.415    :</td>
+<td> :  suppl.    :     110.770    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -604,38 +602,38 @@ A partir du 1er juillet 1991
 <td> :  I         :           0    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     326.320    :</td>
+<td> :  I bis     :     296.650    :</td>
 </tr>
 <tr>
-<td> :  II        :     405.325    :</td>
+<td> :  II        :     390.765    :</td>
 </tr>
 <tr>
-<td> :  III       :     488.155    :</td>
+<td> :  III       :     491.210    :</td>
 </tr>
 <tr>
-<td> :  IV        :     565.110    :</td>
+<td> :  IV        :     584.010    :</td>
 </tr>
 <tr>
-<td> :  V         :     653.825    :</td>
+<td> :  V         :     684.495    :</td>
 </tr>
 <tr>
-<td> :  VI        :     718.845    :</td>
+<td> :  VI        :     761.855    :</td>
 </tr>
 <tr>
-<td> :  VII       :     807.665    :</td>
+<td> :  VII       :     869.995    :</td>
 </tr>
 <tr>
 <td> :  Pièce     :                :</td>
 </tr>
 <tr>
-<td> :  suppl.    :      82.800    :</td>
+<td> :  suppl.    :      92.675    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
 </tr>
-<tr>
-<td/>
-</tr>
+</table>
+
+<table>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -661,33 +659,49 @@ A partir du 1er juillet 1991
 <td> :  I         :           0    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     297.260    :</td>
+<td> :  I bis     :     257.475    :</td>
 </tr>
 <tr>
-<td> :  II        :     365.850    :</td>
+<td> :  II        :     339.195    :</td>
 </tr>
 <tr>
-<td> :  III       :     438.325    :</td>
+<td> :  III       :     426.365    :</td>
 </tr>
 <tr>
-<td> :  IV        :     505.680    :</td>
+<td> :  IV        :     506.930    :</td>
 </tr>
 <tr>
-<td> :  V         :     583.315    :</td>
+<td> :  V         :     594.140    :</td>
 </tr>
 <tr>
-<td> :  VI        :     640.205    :</td>
+<td> :  VI        :     661.290    :</td>
 </tr>
 <tr>
-<td> :  VII       :     717.940    :</td>
+<td> :  VII       :     755.155    :</td>
 </tr>
 <tr>
 <td> :  Pièce     :                :</td>
 </tr>
 <tr>
-<td> :  suppl.    :      72.450    :</td>
+<td> :  suppl.    :      80.450    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
 </tr>
 </table>
+
+Les zones mentionnées au tableau précédent comprennent [*définition*] :
+
+Zone I - L'agglomération de Paris, les zones d'urbanisation et les villes nouvelles de la région d'Ile-de-France.
+
+Zone II - Le reste de la région d'Ile-de-France ;
+
+Les agglomérations et communautés urbaines de plus de 100.000 habitants au dernier recensement connu ;
+
+Les zones d'urbanisation et les villes nouvelles hors de la région d'Ile-de-France ;
+
+Les îles non reliées au continent par voie routière ;
+
+Les cantons suivants du département de l'Oise suivants : Creil, Nogent-sur-Oise, Creil-Sud, Chantilly, Montataire, Neuilly-en-Thelle, Pont-Sainte-Maxence, Senlis et Nanteuil-le-Haudoin.
+
+Zone III - Le reste du territoire national à l'exclusion des départements d'outre-mer.

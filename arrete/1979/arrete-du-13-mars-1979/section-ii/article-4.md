@@ -10,239 +10,241 @@ Cv et Tv représentent respectivement la somme, pour l'opération, des prix cv e
 
 VALEURS DE Cv ET DE Tv
 
-Jusqu'au 30 juin 1990
+Jusqu'au 30 juin 1991
 
 <table>
 <tr>
-<td> :-----------------------------:</td>
+<td> :------------------------------:</td>
 </tr>
 <tr>
-<td> :         :      IMMEUBLES    :</td>
+<td> :          :      IMMEUBLES    :</td>
 </tr>
 <tr>
-<td> :  TYPE   :      collectifs   :</td>
+<td> :  TYPE    :      collectifs   :</td>
 </tr>
 <tr>
-<td> :   de    :-------------------:</td>
+<td> :   de     :-------------------:</td>
 </tr>
 <tr>
-<td> :logements:   Tv    :    Cv   :</td>
+<td> :logements :   Tv    :    Cv   :</td>
 </tr>
 <tr>
-<td> :         : (en F)  : (en F)  :</td>
+<td> :          : (en F)  : (en F)  :</td>
 </tr>
 <tr>
-<td> :---------:-------------------:</td>
+<td> :----------:-------------------:</td>
 </tr>
 <tr>
-<td> : I       :  68.565 :  31.525 :</td>
+<td> : I        :  70.395 :  32.360 :</td>
 </tr>
 <tr>
-<td> : I bis   : 118.150 :  54.255 :</td>
+<td> : I bis    : 121.280 :  55.695 :</td>
 </tr>
 <tr>
-<td> : II      : 155.645 :  71.515 :</td>
+<td> : II       : 159.775 :  73.410 :</td>
 </tr>
 <tr>
-<td> : III     : 195.660 :  89.910 :</td>
+<td> : III      : 200.850 :  92.295 :</td>
 </tr>
 <tr>
-<td> : IV      : 232.610 : 106.905 :</td>
+<td> : IV       : 238.780 : 109.740 :</td>
 </tr>
 <tr>
-<td> : V       : 272.635 : 125.270 :</td>
+<td> : V        : 279.865 : 128.595 :</td>
 </tr>
 <tr>
-<td> : VI      : 303.465 : 139.415 :</td>
+<td> : VI       : 311.515 : 143.110 :</td>
 </tr>
 <tr>
-<td> : VII     : 346.565 : 159.235 :</td>
+<td> : VII      : 355.750 : 163.455 :</td>
 </tr>
 <tr>
-<td> : Pièce   :         :         :</td>
+<td> : Pièce    :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.  :  36.915 :  16.955 :</td>
+<td> : suppl.   :  37.895 :  17.405 :</td>
 </tr>
 <tr>
-<td> :-----------------------------:</td>
+<td> :------------------------------:</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td>:-----------------------------:</td>
+<td>:------------------------------:</td>
 </tr>
 <tr>
-<td> :         :      MAISONS      :</td>
+<td> :          :      MAISONS      :</td>
 </tr>
 <tr>
-<td> :  TYPE   :   individuelles   :</td>
+<td> :  TYPE    :   individuelles   :</td>
 </tr>
 <tr>
-<td> :   de    :-------------------:</td>
+<td> :   de     :-------------------:</td>
 </tr>
 <tr>
-<td> :logements:   Tv    :    Cv   :</td>
+<td> :logements :   Tv    :    Cv   :</td>
 </tr>
 <tr>
-<td> :         : (en F)  : (en F)  :</td>
+<td> :          : (en F)  : (en F)  :</td>
 </tr>
 <tr>
-<td> :---------:-------------------:</td>
+<td> :----------:-------------------:</td>
 </tr>
 <tr>
-<td> : I       :       0 :       0 :</td>
+<td> : I        :       0 :       0 :</td>
 </tr>
 <tr>
-<td> : I bis   : 129.980 :  75.995 :</td>
+<td> : I bis    : 133.425 :  78.005 :</td>
 </tr>
 <tr>
-<td> : II      : 171.170 : 100.130 :</td>
+<td> : II       : 175.705 : 102.785 :</td>
 </tr>
 <tr>
-<td> : III     : 215.230 : 125.855 :</td>
+<td> : III      : 220.940 : 129.195 :</td>
 </tr>
 <tr>
-<td> : IV      : 255.865 : 149.665 :</td>
+<td> : IV       : 262.650 : 153.630 :</td>
 </tr>
 <tr>
-<td> : V       : 299.915 : 175.390 :</td>
+<td> : V        : 307.865 : 180.040 :</td>
 </tr>
 <tr>
-<td> : VI      : 333.815 : 195.250 :</td>
+<td> : VI       : 342.665 : 200.425 :</td>
 </tr>
 <tr>
-<td> : VII     : 381.200 : 222.940 :</td>
+<td> : VII      : 391.310 : 228.855 :</td>
 </tr>
 <tr>
-<td> : Pièce   :         :         :</td>
+<td> : Pièce    :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.  :  40.575 :  23.730 :</td>
+<td> : suppl.   :  41.650 :  24.355 :</td>
 </tr>
 <tr>
-<td> :-----------------------------:</td>
+<td> :------------------------------:</td>
+</tr>
+</table>
+
+A partir du 1er juillet 1991
+
+<table>
+<tr>
+<td> :------------------------------:</td>
 </tr>
 <tr>
-<td>    A partir du 1er juillet 1990</td>
+<td> :          :      IMMEUBLES    :</td>
 </tr>
 <tr>
-<td> :-----------------------------:</td>
+<td> :  TYPE    :      collectifs   :</td>
 </tr>
 <tr>
-<td> :         :      IMMEUBLES    :</td>
+<td> :   de     :-------------------:</td>
 </tr>
 <tr>
-<td> :  TYPE   :      collectifs   :</td>
+<td> :logements :   Tv    :    Cv   :</td>
 </tr>
 <tr>
-<td> :   de    :-------------------:</td>
+<td> :          : (en F)  : (en F)  :</td>
 </tr>
 <tr>
-<td> :logements:   Tv    :    Cv   :</td>
+<td> :----------:-------------------:</td>
 </tr>
 <tr>
-<td> :         : (en F)  : (en F)  :</td>
+<td> : I        :  71.370 :  32.810 :</td>
 </tr>
 <tr>
-<td> :---------:-------------------:</td>
+<td> : I bis    : 122.955 :  56.465 :</td>
 </tr>
 <tr>
-<td> : I       :  69.425 :  31.915 :</td>
+<td> : II       : 161.980 :  74.420 :</td>
 </tr>
 <tr>
-<td> : I bis   : 119.605 :  54.925 :</td>
+<td> : III      : 203.620 :  93.570 :</td>
 </tr>
 <tr>
-<td> : II      : 157.570 :  72.395 :</td>
+<td> : IV       : 242.080 : 111.255 :</td>
 </tr>
 <tr>
-<td> : III     : 198.075 :  91.020 :</td>
+<td> : V        : 283.730 : 130.370 :</td>
 </tr>
 <tr>
-<td> : IV      : 235.485 : 108.225 :</td>
+<td> : VI       : 315.815 : 145.085 :</td>
 </tr>
 <tr>
-<td> : V       : 276.000 : 126.820 :</td>
+<td> : VII      : 360.665 : 165.715 :</td>
 </tr>
 <tr>
-<td> : VI      : 307.215 : 141.135 :</td>
+<td> : Pièce    :         :         :</td>
 </tr>
 <tr>
-<td> : VII     : 350.840 : 161.200 :</td>
+<td> : suppl.   :  38.415 :  17.645 :</td>
 </tr>
 <tr>
-<td> : Pièce   :         :         :</td>
-</tr>
-<tr>
-<td> : suppl.  :  37.370 :  17.165 :</td>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
+<td> :------------------------------:</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td>:-----------------------------:</td>
+<td>:------------------------------:</td>
 </tr>
 <tr>
-<td> :         :      MAISONS      :</td>
+<td> :          :      MAISONS      :</td>
 </tr>
 <tr>
-<td> :  TYPE   :   individuelles   :</td>
+<td> :  TYPE    :   individuelles   :</td>
 </tr>
 <tr>
-<td> :   de    :-------------------:</td>
+<td> :   de     :-------------------:</td>
 </tr>
 <tr>
-<td> :logements:   Tv    :    Cv   :</td>
+<td> :logements :   Tv    :    Cv   :</td>
 </tr>
 <tr>
-<td> :         : (en F)  : (en F)  :</td>
+<td> :          : (en F)  : (en F)  :</td>
 </tr>
 <tr>
-<td> :---------:-------------------:</td>
+<td> :--------- :-------------------:</td>
 </tr>
 <tr>
-<td> : I       :       0 :       0 :</td>
+<td> : I        :       0 :       0 :</td>
 </tr>
 <tr>
-<td> : I bis   : 131.585 :  76.930 :</td>
+<td> : I bis    : 135.270 :  79.085 :</td>
 </tr>
 <tr>
-<td> : II      : 173.280 : 101.365 :</td>
+<td> : II       : 178.130 : 104.205 :</td>
 </tr>
 <tr>
-<td> : III     : 217.890 : 127.410 :</td>
+<td> : III      : 223.990 : 130.975 :</td>
 </tr>
 <tr>
-<td> : IV      : 259.025 : 151.510 :</td>
+<td> : IV       : 266.280 : 155.750 :</td>
 </tr>
 <tr>
-<td> : V       : 303.615 : 177.555 :</td>
+<td> : V        : 312.115 : 182.525 :</td>
 </tr>
 <tr>
-<td> : VI      : 337.935 : 197.660 :</td>
+<td> : VI       : 347.395 : 203.195 :</td>
 </tr>
 <tr>
-<td> : VII     : 385.905 : 225.695 :</td>
+<td> : VII      : 396.710 : 232.015 :</td>
 </tr>
 <tr>
-<td> : Pièce   :         :         :</td>
+<td> : Pièce    :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.  :  41.075 :  24.020 :</td>
+<td> : suppl.   :  42.225 :  24.695 :</td>
 </tr>
 <tr>
-<td> :-----------------------------:</td>
+<td> :------------------------------:</td>
 </tr>
 </table>
 
 Les valeurs et les limites des coefficients i, a, b, c, d, e et f sont définies dans les annexes III et VII au présent arrêté.
 
-Pour les immeubles collectifs comportant des garages couverts, Gv est égal à :
+Pour les immeubles collectifs comportant des garages couverts, Gv est égal à  :
 
 VALEURS DES GARAGES
 
@@ -250,67 +252,67 @@ Valeur des garages enterrés ou incorporés.
 
 <table>
 <tr>
-<td> :-----------------------------:</td>
+<td> :------------------------------:</td>
 </tr>
 <tr>
-<td> : ZONES   :         :         :</td>
+<td> :   ZONE   :         :         :</td>
 </tr>
 <tr>
-<td> :   DE    :   (1)   :   (2)   :</td>
+<td> :    DE    :   (1)   :   (2)   :</td>
 </tr>
 <tr>
-<td> : PRIX    :         :         :</td>
+<td> :   PRIX   :         :         :</td>
 </tr>
 <tr>
-<td> :---------:---------:---------:</td>
+<td> :----------:---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  45.750 :  46.315 :</td>
+<td> : I        :  46.965 :  47.610 :</td>
 </tr>
 <tr>
-<td> : II      :  41.790 :  42.305 :</td>
+<td> : II       :  42.895 :  43.490 :</td>
 </tr>
 <tr>
-<td> : III     :  39.605 :  40.095 :</td>
+<td> : III      :  40.655 :  41.220 :</td>
 </tr>
 <tr>
-<td> :-----------------------------:</td>
+<td> :------------------------------:</td>
 </tr>
 </table>
 
-(1) Jusqu'au 30 juin 1990 (en francs) (2) A partir du 1er juillet 1990 (en francs).   Valeur des garages construits en superstructure.
+(1) Jusqu'au 30 juin 1991 (en francs) (2) A partir du 1er juillet 1991 (en francs).   Valeur des garages construits en superstructure.
 
 <table>
 <tr>
-<td> :-----------------------------:</td>
+<td> :------------------------------:</td>
 </tr>
 <tr>
-<td> : ZONES   :         :         :</td>
+<td> :  ZONE    :         :         :</td>
 </tr>
 <tr>
-<td> :   DE    :   (1)   :   (2)   :</td>
+<td> :   DE     :   (1)   :   (2)   :</td>
 </tr>
 <tr>
-<td> : PRIX    :         :         :</td>
+<td> :  PRIX    :         :         :</td>
 </tr>
 <tr>
-<td> :---------:---------:---------:</td>
+<td> :----------:---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  32.250 :  32.645 :</td>
+<td> : I        :  33.100 :  33.560 :</td>
 </tr>
 <tr>
-<td> : II      :  29.320 :  29.685 :</td>
+<td> : II       :  30.100 :  30.515 :</td>
 </tr>
 <tr>
-<td> : III     :  27.870 :  28.215 :</td>
+<td> : III      :  28.610 :  29.005 :</td>
 </tr>
 <tr>
-<td> :-----------------------------:</td>
+<td> :------------------------------:</td>
 </tr>
 </table>
 
-(1) Jusqu'au 30 juin 1990 (en francs) (2) A partir du 1er juillet 1990 (en francs).   n1 est le nombre d'emplacements individuels de stationnement dans un garage collectif enterré ou incorporé à un bâtiment d'habitation ;
+(1) Jusqu'au 30 juin 1991 (en francs) (2) A partir du 1er juillet 1991 (en francs).   n1 est le nombre d'emplacements individuels de stationnement dans un garage collectif enterré ou incorporé à un bâtiment d'habitation ;
 
 n2 est le nombre d'emplacements individuels de stationnement dans un garage collectif construit en superstructure, séparé ou accolé au bâtiment d'habitation.
 
