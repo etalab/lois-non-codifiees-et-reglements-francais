@@ -1110,7 +1110,6 @@
 - [Arrêté du 23 octobre 1995 (EQUA9501609A)](arrete-du-23-octobre-1995-equa9501609a)
 - [Arrêté du 23 octobre 1995 (MEND9502335A)](arrete-du-23-octobre-1995-mend9502335a)
 - [Arrêté du 24 août 1995 (ECOS9550027A)](arrete-du-24-aout-1995-ecos9550027a)
-- [Arrêté du 24 août 1995 (EQUA9501346A)](arrete-du-24-aout-1995-equa9501346a)
 - [Arrêté du 24 août 1995 (MENU9501866A)](arrete-du-24-aout-1995-menu9501866a)
 - [Arrêté du 24 août 1995 (MENU9501867A)](arrete-du-24-aout-1995-menu9501867a)
 - [Arrêté du 24 août 1995 (MENU9501868A)](arrete-du-24-aout-1995-menu9501868a)
