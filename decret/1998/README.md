@@ -377,7 +377,6 @@
 - [Décret n°98-1127 du 14 décembre 1998 (AGRS9802082D)](decret-n98-1127-du-14-decembre-1998-agrs9802082d)
 - [Décret n°98-1128 du 14 décembre 1998 (AGRP9801898D)](decret-n98-1128-du-14-decembre-1998-agrp9801898d)
 - [Décret n°98-31 du 14 janvier 1998 (MCCX9802497D)](decret-n98-31-du-14-janvier-1998-mccx9802497d)
-- [Décret n°98-35 du 14 janvier 1998 (MCCK9700704D)](decret-n98-35-du-14-janvier-1998-mcck9700704d)
 - [Décret n°98-43 du 14 janvier 1998 (ECOB9760045D)](decret-n98-43-du-14-janvier-1998-ecob9760045d)
 - [Décret n°98-820 du 14 septembre 1998 (EQUM9800069D)](decret-n98-820-du-14-septembre-1998-equm9800069d)
 - [Décret n°98-821 du 14 septembre 1998 (AGRS9801252D)](decret-n98-821-du-14-septembre-1998-agrs9801252d)

@@ -25,7 +25,6 @@
 - [Décret n°94-785 du 2 septembre 1994 (INDB9400196D)](decret-n94-785-du-2-septembre-1994-indb9400196d)
 - [Décret n°95-1068 du 2 octobre 1995 (INTC9500291D)](decret-n95-1068-du-2-octobre-1995-intc9500291d)
 - [Décret n°95-1069 du 2 octobre 1995 (REFB9500285D)](decret-n95-1069-du-2-octobre-1995-refb9500285d)
-- [Décret n°95-110 du 2 février 1995 (MCCK9400557D)](decret-n95-110-du-2-fevrier-1995-mcck9400557d)
 - [Décret n°95-113 du 2 février 1995 (SPSS9500025D)](decret-n95-113-du-2-fevrier-1995-spss9500025d)
 - [Décret n°95-1146 du 2 novembre 1995 (INTA9500335D)](decret-n95-1146-du-2-novembre-1995-inta9500335d)
 - [Décret n°95-1147 du 2 novembre 1995 (INTA9500336D)](decret-n95-1147-du-2-novembre-1995-inta9500336d)
