@@ -12,4 +12,4 @@ Elle est réunie en formation plénière ou en formation restreinte à l'initiat
 
 La commission d'admission et d'évaluation réunie en formation restreinte traite des questions d'admission ou, lorsqu'une partie seulement des classes sont concernées par l'ordre du jour, des questions d'évaluation.
 
-Sa composition et son fonctionnement sont fixés par le chef d'établissement après avis de la commission siégeant en formation plénière.
+La formation restreinte se compose du chef d'établissement ou du proviseur adjoint, président, d'un conseiller principal d'éducation et d'au moins deux professeurs qui enseignent dans les classes du groupe concerné. Ceux-ci sont désignés par le président.
