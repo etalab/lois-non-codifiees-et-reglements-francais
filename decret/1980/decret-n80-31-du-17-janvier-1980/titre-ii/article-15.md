@@ -1,0 +1,11 @@
+# Article 15
+
+Sans préjudice des dispositions des articles 16 et 22 du présent décret, les chargés de recherche perçoivent, lors de leur recrutement, le traitement afférent au premier échelon du grade de chargé de recherche dont l'échelonnement indiciaire est fixé par arrêté conjoint du ministre du budget, du ministre des universités, du secrétaire d'Etat auprès du Premier ministre et du secrétaire d'Etat auprès du Premier ministre (Recherche) par référence à celui des maîtres-assistants de l'enseignement supérieur.
+
+Les agents recrutés comme chargés de recherche ou promus dans ce grade peuvent être classés, par dérogation aux dispositions de l'alinéa précédent et sans préjudice de l'application des articles 16 et 22 du présent décret, à l'un des sept premiers échelons du grade, sous réserve que le bénéfice de cette disposition ne soit pas accordé à plus du tiers du total des chargés de recherche promus et recrutés.
+
+L'échelle de rémunération des maîtres de recherche est celle de la 2e classe du corps des professeurs d'université et l'échelle de rémunération des directeurs de recherche est celle de la 1re classe et de la classe exceptionnelle du corps des professeurs d'université. Sans préjudice des dispositions des articles 16 et 26, dernier alinéa, les maitres et directeurs de recherche perçoivent lors de leur recrutement le traitement afférent au premier échelon de leur grade.
+
+Par dérogation aux dispositions de l'alinéa précédent et sans préjudice de l'application des articles 16 et 26, dernier alinéa, du présent décret, les agents recrutés comme maîtres ou directeurs de recherche ou promus à l'un de ces grades peuvent être classés à un échelon autre que le premier de leur grade, sous réserve que le bénéfice de cette disposition ne soit pas accordé à plus de 15 p. 100 du nombre des agents promus et recrutés dans chacun de ces grades.
+
+Pour l'application du présent article, les fonctionnaires détachés, les chercheurs provenant d'autres établissements de recherche publics ou reconnus d'utilité publique et les agents qui, antérieurement à leur nomination en cette qualité étaient régis par le décret n° 59-1405 du 9 décembre 1959 modifié fixant le statut des personnels contractuels techniques et administratifs du centre national de la recherche scientifique ne sont pas considérés comme recrutés.

@@ -1,0 +1,4 @@
+# Décret n°80-33 du 17 janvier 1980 RELATIF A LA REDUCTION DE LA DUREE MOYENNE HEBDOMADAIRE DU TRAVAIL DANS DIVERSES BRANCHES D'ACTIVITE.
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
