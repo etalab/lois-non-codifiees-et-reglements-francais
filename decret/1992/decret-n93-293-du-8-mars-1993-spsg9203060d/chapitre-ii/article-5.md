@@ -1,0 +1,7 @@
+# Article 5
+
+Les professeurs sont recrutés par deux concours distincts pour les disciplines littéraires et deux concours distincts pour les disciplines scientifiques ; ces concours sont ouverts par arrêtés conjoints du ministre chargé des affaires sociales et du ministre chargé de la fonction publique.
+
+Les concours externes sont ouverts, pour 50 p. 100 des emplois à pourvoir, aux candidats qui sont titulaires du diplôme d'Etat intitulé certificat d'aptitude au professorat de l'enseignement des jeunes sourds prévu par le décret du 27 octobre 1986 susvisé, et qui sont titulaires d'une licence ou d'un titre ou diplôme jugé équivalent correspondant aux disciplines des concours ouverts.
+
+Les concours internes sont ouverts, pour 50 p. 100 des emplois à pourvoir, aux fonctionnaires et agents non titulaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent. Les intéressés doivent justifier au 1er janvier de l'année du concours de quatre ans de services effectifs d'enseignement ou d'éducation à temps complet ou équivalent, auprès d'enfants déficients auditifs dans un ou plusieurs établissements publics d'enseignement, et doivent être titulaires du diplôme d'Etat intitulé certificat d'aptitude au professorat de l'enseignement des jeunes sourds prévu par le décret du 27 octobre 1986 susvisé. Les candidats doivent en outre être en position d'activité, de détachement ou de congé parental à la date du dépôt de leur candidature.

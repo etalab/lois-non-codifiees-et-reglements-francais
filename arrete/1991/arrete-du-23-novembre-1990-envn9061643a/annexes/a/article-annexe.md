@@ -10,15 +10,15 @@ Cours d'eau, canaux et plans d'eau de 2e catégorie
 
 3° L'Eure.
 
-4° L'Iton en amont du pont de la route d'Evreux à Breteuil et les bras dérivés (rivière Morte, bras forcés de Verneuil et de Breteuil).
+4° L'Iton en amont du pont de la route d'Evreux, à Breteuil, et les bras dérivés (rivière Morte, bras forcés de Verneuil et de Breteuil.
 
 5° L'Andelle en aval de la Porte-Marinière située à la limite des territoires communaux de Romilly-sur-Andelle et de Pitres.
 
 6° Les plans d'eau des bassins désignés ci-après :
 
-a) La Charentonne : plan d'eau du Château de Broglie (commune de Ferrières-Saint-Hilaire) ;
+a) La Charentonne : plan d'eau du château de Broglie (commune de Ferrières-Saint-Hilaire) ;
 
-b) L'Epte : les plans d'eau de La Ferme de Vaux et de La Ballastière (commune de Gisors) ;
+b) L'Epte : les plans d'eau de la Ferme de Vaux et de la Ballastière (commune de Gisors) ;
 
 c) La Risle :
 
@@ -42,7 +42,9 @@ d) L'Iton :
 
 - le plan d'eau du Moulin d'Arnières (commune d'Arnières-sur-Iton) ;
 
-e) Le Rouloir : le plan d'eau du lieudit Fontaine Allier, Moulin Athelin (communes de Saint-Elier et Le Fresne).
+e) Le Rouloir : le plan d'eau du lieudit Fontaine Allier-Moulin Athelin (communes de Saint-Elier et Le Fresne).
+
+7° Tous les plans d'eau communiquant avec un cours d'eau classé en 2e catégorie.
 
 Cours d'eau, canaux et plans d'eau de 1re catégorie
 
@@ -148,27 +150,29 @@ Cours d'eau, canaux et plans d'eau de 1re catégorie
 
 2° La Lanterne en amont du pont routier de Conflans-sur-Lanterne, à l'exception de la section comprise entre son confluent avec le Breuchin et le pont routier de Citers.
 
+Le Breuchin, la Semouse.
+
 3° La Scyotte.
 
 4° La Baignotte ; le Batard ; la Colombine, non compris sa dérivation depuis le barrage situé entre l'étang Razel et la ligne Paris-Bâle (commune de Vesoul) jusqu'au confluent de cette dérivation avec le Durgeon ; la Meline.
 
 5° La Romaine.
 
-6° L'Ognon en amont du pont de Longevelle ; la rigole du Rahin reliant ce cours d'eau au bassin réservoir de Champagney.
+6° L'Ognon en amont du pont de Longevelle ; la rigole du Rahin reliant ce cours d'eau au bassin-réservoir de Champagney.
 
 7° Le Rognon en amont du pont de Moffans.
 
 8° La Linotte et la Quenoche en amont de leur confluent.
 
-9° Le bief de Marloz ; le Malgérard ; le Buthiers ; la Tounole.
+9° Le bief de Marloz ; le Malgérard ; le Buthiers, la Tounole.
 
 10° La Vauvenise ; le ruisseau d'Anthon.
 
-11° Les Ecoulottes en amont du déversoir de Patouillet à Arc-lès-Gray.
+11° Les Ecoulottes en amont du déversoir de Patouillet, à Arc-lès-Gray.
 
-12° Les affluents et sous-affluents des cours d'eau ou parties de cours d'eau désignés ci-dessus à l'exception des étangs des " Grands Presles " (commune de Frétigney).
+12° La Morthe à partir du pont routier du C.D. 185 en amont de la commune de Citey.
 
-13° La Morthe et ses affluents à partir du pont routier du C.D. 185 en amont de la commune de Citey.
+13° Les affluents et sous-affluents des cours d'eau ou parties de cours d'eau désignés ci-dessus, à l'exception des étangs des Grands Presles (commune de Frétigney).
 
 Cours d'eau, canaux et plans d'eau de 2e catégorie
 

@@ -300,27 +300,27 @@ Cours d'eau, canaux et plans d'eau de 1re catégorie
 
 4° Les affluents de la rive gauche de l'Argens en amont de la Nartuby, celle-ci comprise : la Nartuby, le Florieyes, le Bresque, le Cassole, l'Eau Salée.
 
-5° Le Gapeau en amont de la route nationale 97 à Solliès-Pont ;
+5° Le Gapeau en amont de la route nationale 97 à Solliès-Pont ; le Réal-Martin en amont du pont de la Portanière et son affluent le Béal.
 
-Le Réal-Martin en amont du pont de la Portanière et son affluent le Béal.
-
-6° La Siagne en amont du Vieux Pont de Tanneron et son affluent le Biançon (ou Riou-Blanc) en amont des sources de la Foux.
+6° La Siagne en amont du Vieux Pont de Tanneron et son affluent le Briançon (ou Riou-Blanc) en amont des sources de la Foux.
 
 7° L'Huveaune.
 
 8° Le Verdon, à l'exception :
 
-- du lac de retenue de Gréoux-les-Bains depuis le pied du barrage de Quinson en amont jusqu'au déversoir du bassin de compensation du barrage de Gréoux à hauteur du village de Gréoux-les-Bains en aval ;
+- du lac de retenue de Gréoux-les-Bains depuis le pied du barrage de Quinson en amont jusqu'au barrage de Gréoux-les-Bains en aval ;
+
+- du bassin de compensation du barrage de Gréoux-les-Bains depuis la queue de la retenue en amont jusqu'au déversoir à la hauteur du village de Gréoux-les-Bains en aval ;
 
 - du lac de retenue de Sainte-Croix depuis le pont du Galetas sur le C.D. 957 à l'amont jusqu'au barrage de Sainte-Croix à l'aval.
 
 9° Les affluents rive gauche du Verdon : la Malaurie, l'Artuby, le Jabron.
 
-10° Le ruisseau de Sain-Paul-les-Durance ; le Réal ou ruisseau de Rians (affluents de la Durance).
+10° Le ruisseau de Saint-Paul-lès-Durance ; le Réal ou ruisseau de Rians (affluents de la Durance).
 
 11° Les affluents et sous-affluents des cours d'eau ou portions de cours d'eau désignés ci-dessus, à l'exception :
 
-- des affluents du Verdon se jetant dans le lac de retenue de Gréoux-les-Bains ;
+- des affluents du Verdon se jetant dans le lac de retenu de Gréoux-les-Bains ;
 
 - de la partie du Biançon comprise entre le confluent avec la Siagne et les sources de la Foux, lac de Saint-Cassien compris.
 

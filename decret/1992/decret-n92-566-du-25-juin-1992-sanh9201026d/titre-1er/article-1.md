@@ -1,0 +1,3 @@
+# Article 1
+
+Le présent décret fixe les conditions et les modalités de règlement des frais à la charge des budgets des établissements mentionnés à l'article 2 du titre IV du statut général des fonctionnaires susvisé, à l'occasion des déplacements temporaires et changements de résidence effectués par leurs personnels sur le territoire métropolitain de la France. Toutefois, les dispositions du titre II du présent décret relatives à l'intérim et au stage et celles de son titre III relatives au changement de résidence ne sont pas applicables aux médecins, biologistes, pharmaciens et odontologistes mentionnés aux 2° et 3° de l'article L. 714-27 du code de la santé publique.

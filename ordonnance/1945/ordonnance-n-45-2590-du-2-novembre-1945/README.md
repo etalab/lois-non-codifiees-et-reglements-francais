@@ -1,6 +1,8 @@
 # Ordonnance n° 45-2590 du 2 novembre 1945 relative au statut du notariat
 
 - [Article 1](article-1.md)
+- [Article 1 bis](article-1-bis.md)
+- [Article 1 ter](article-1-ter.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)

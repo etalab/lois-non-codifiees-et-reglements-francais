@@ -1,0 +1,3 @@
+# Article 25
+
+Pendant une durée de quatre ans, les fonctionnaires appartenant au corps des professeurs techniques des écoles nationales de la marine marchande peuvent être intégrés dans la classe normale du corps des professeurs techniques de l'enseignement maritime après inscription sur une liste d'aptitude établie après avis de la commission administrative paritaire. A cet effet, le corps des professeurs techniques des écoles nationales de la marine marchande est affecté du coefficient caractéristique 115. Les services effectués en qualité de professeur technique des écoles de la marine marchande sont pris en compte dans les conditions prévues à l'article 21, alinéa 2, ci-dessus.

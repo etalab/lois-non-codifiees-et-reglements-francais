@@ -1,0 +1,3 @@
+# Article 18
+
+Les sociétés de conseils juridiques autres que les sociétés civiles professionnelles constituées avant la date d'entrée en vigueur de la présente loi doivent, dans un délai de cinq ans à compter de cette date, se mettre en conformité avec les dispositions de la présente loi [*dispositions transitoires - mise en harmonie*]. A défaut, tout intéressé peut demander en justice la dissolution de la société. Le tribunal peut accorder à la société un délai maximal de six mois pour régulariser la situation. La dissolution ne peut être prononcée si, au jour où il est statué sur le fond, cette régularisation a eu lieu.

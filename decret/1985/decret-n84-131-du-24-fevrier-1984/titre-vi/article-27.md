@@ -2,6 +2,8 @@
 
 L'avancement d'échelon s'effectue selon les durées suivantes :
 
+12e échelon : 4 ans 6 mois ;
+
 11e échelon : 2 ans ;
 
 9e échelon : 2 ans 6 mois ;

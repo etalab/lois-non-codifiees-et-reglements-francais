@@ -4,9 +4,15 @@ Peuvent bénéficier des indemnités prévues à l'article 1er, lorsqu'ils exerc
 
 - agent des travaux publics de l'Etat ;
 
-- ouvrier professionnel des travaux publics de l'Etat de 2e catégorie ;
+- agent d'exploitation des travaux publics de l'Etat ;
+
+- agent d'exploitation spécialisé des travaux publics de l'Etat.
 
 - ouvrier professionnel des travaux publics de l'Etat de 1re catégorie ;
+
+- chef d'équipe d'exploitation des travaux publics de l'Etat ;
+
+- chef d'équipe d'exploitation principal des travaux publics de l'Etat.
 
 - conducteur des travaux publics de l'Etat ;
 

@@ -1,0 +1,3 @@
+# Article 26
+
+A titre transitoire et pour une durée de cinq années à compter de la date de publication du présent décret, les conditions de diplôme fixées au troisième alinéa de l'article 5 ci-dessus ne sont pas opposables aux maîtres répétiteurs régis par le décret du 14 juin 1969 susvisé en fonctions dans les instituts nationaux de jeunes sourds à la date de publication du présent décret et titulaires du premier et second examen du certificat d'aptitude au professorat des instituts nationaux de jeunes sourds prévus par l'arrêté du 30 mai 1960 modifié, ainsi qu'aux professeurs d'enseignement général non titulaires des instituts nationaux de jeunes sourds.

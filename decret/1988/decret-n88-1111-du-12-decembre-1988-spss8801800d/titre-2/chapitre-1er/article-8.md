@@ -18,7 +18,7 @@ Ne sont pas prises en compte dans les ressources les prestations suivantes :
 
 8° La prime de rééducation et le prêt d'honneur mentionnés à l'article R. 432-10 du code de la sécurité sociale ;
 
-9° L'aide à la famille pour l'emploi d'une assistante maternelle agréée et l'allocation de garde d'enfant à domicile mentionnées aux articles L. 841-1 et L. 842-1 du code de la sécurité sociale .
+9° L'aide à la famille pour l'emploi d'une assistante maternelle agréée ainsi que sa majoration et l'allocation de garde d'enfant à domicile mentionnées aux articles L. 841-1 et L. 842-1 du code de la sécurité sociale.
 
 10° Les aides et secours financiers dont le montant ou la périodicité n'ont pas de caractère régulier ainsi que les aides et secours affectés à des dépenses concourant à l'insertion du bénéficiaire et de sa famille notamment dans les domaines du logement, des transports, de l'éducation et de la formation ;
 

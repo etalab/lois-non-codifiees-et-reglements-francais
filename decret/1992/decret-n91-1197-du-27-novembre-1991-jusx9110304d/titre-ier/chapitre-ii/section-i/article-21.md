@@ -1,0 +1,3 @@
+# Article 21
+
+Il est institué dans chaque cour d'appel une commission composée des bâtonniers des barreaux du ressort ainsi que d'un représentant de chacune des cinq organisations professionnelles d'avocats les plus représentatives au plan national selon les résultats de la précédente élection au Conseil national des barreaux. Elle est chargée de l'organisation des opérations électorales, du déroulement du scrutin et du dépouillement des votes. Elle est présidée par le bâtonnier dont l'inscription à un tableau est la plus ancienne. Le président de la commission informe le président du Conseil national des barreaux de sa désignation.

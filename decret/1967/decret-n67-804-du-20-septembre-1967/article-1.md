@@ -9,9 +9,7 @@ ASSURES PARTIELS.
 <tr>
 <td align="center" rowspan="3">DESIGNATION <br/>
 </td>
-<td align="center" colspan="6">
-<p>MODE DE CALCUL DES COTISATIONS</p>
-<p>(en pourcentage) </p>
+<td align="center" colspan="6">MODE DE CALCUL DES COTISATIONS <br/>
 </td>
 </tr>
 <tr>
@@ -23,20 +21,30 @@ ASSURES PARTIELS.
 </td>
 </tr>
 <tr>
-<td align="center">Employeurs <br/>
+<td align="center">
+<p> Employeurs</p>
+<p>(en pourcentage) </p>
 </td>
-<td align="center">Salariés <br/>
+<td align="center">
+<p>Salariés </p>
+<p>(en pourcentage)  </p>
 </td>
-<td align="center">Total <br/>
+<td align="center">
+<p>Total</p>
+<p>(en pourcentage)  </p>
 </td>
-<td align="center"> Employeurs</td>
-<td align="center"> Salariés</td>
-<td align="center">Total  <br/>
+<td align="center">
+<p> Employeurs</p>
+<p>(en pourcentage)</p>
 </td>
+<td align="center">
+<p>Salariés </p>(en pourcentage) <br/>
+</td>
+<td align="center">
+<p>Total</p>(en pourcentage)</td>
 </tr>
 <tr>
-<td align="center">Assurés placés sous le régime général <br/>
-</td>
+<td align="center"> Assurés placés sous le régime général</td>
 <td align="center"/>
 <td align="center"/>
 <td align="center"/>
@@ -49,10 +57,9 @@ ASSURES PARTIELS.
 <p> 1° Pour les assurances maladie, maternité, </p>
 <p>décès et invalidité (pensions et soins)</p>
 </td>
-<td align="center">12,60 <br/>
-</td>
+<td align="center"> 12,80</td>
 <td align="center"> 6,80</td>
-<td align="center">19,40 <br/>
+<td align="center">19,60 <br/>
 </td>
 <td align="center"> Néant</td>
 <td align="center">Néant <br/>
@@ -61,12 +68,13 @@ ASSURES PARTIELS.
 </tr>
 <tr>
 <td align="center">
-<p> 2° Pour les assurances maladie, maternité, </p>
-<p>décès et invalidité (soins)</p>
+<p>2° Pour les assurances maladie, maternité, </p>
+<p>décès et invalidité (soins) </p>
 </td>
-<td align="center"> 11,55</td>
-<td align="center"> 6,55</td>
-<td align="center"> 18,10</td>
+<td align="center"> 11,75</td>
+<td align="center">  6,55</td>
+<td align="center">18,30 <br/>
+</td>
 <td align="center">Néant <br/>
 </td>
 <td align="center">Néant <br/>
@@ -75,21 +83,21 @@ ASSURES PARTIELS.
 </tr>
 <tr>
 <td align="center">
-<p> 3° Pour les prestations en nature des assurances </p>
+<p>3°  Pour les prestations en nature des assurances </p>
 <p>maladie, maternité et invalidité</p>
 </td>
-<td align="center"> (1)</td>
-<td align="center"> (1)</td>
-<td align="center">15,70 <br/>
+<td align="center">(1) <br/>
 </td>
+<td align="center"> (1)</td>
+<td align="center"> 15,90</td>
 <td align="center"> Néant</td>
 <td align="center"> Néant</td>
 <td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<p>4° Pour les assurances vieillesse, veuvage et </p>
-<p>invalidité (pensions) </p>
+<p> 4° Pour les assurances vieillesse, veuvage et </p>
+<p>invalidité (pensions) :</p>
 </td>
 <td align="center"/>
 <td align="center"/>
@@ -99,41 +107,46 @@ ASSURES PARTIELS.
 <td align="center"/>
 </tr>
 <tr>
-<td align="center"> Vieillesse</td>
+<td align="center">Vieillesse <br/>
+</td>
 <td align="center">1,60 <br/>
 </td>
 <td align="center">Néant <br/>
 </td>
-<td align="center"> 1,60</td>
+<td align="center">1,60 <br/>
+</td>
 <td align="center"> 8,20</td>
 <td align="center">6,55 <br/>
 </td>
-<td align="center"> 14,75</td>
+<td align="center">14,75 <br/>
+</td>
 </tr>
 <tr>
-<td align="center"> Veuvage</td>
-<td align="center"> Néant </td>
+<td align="center">Veuvage <br/>
+</td>
+<td align="center"> Néant</td>
 <td align="center"> 0,10</td>
 <td align="center"> 0,10</td>
 <td align="center"> Néant</td>
-<td align="center">Néant <br/>
-</td>
+<td align="center"> Néant</td>
 <td align="center"/>
 </tr>
 <tr>
 <td align="center"> Invalidité</td>
-<td align="center"> 0,75</td>
-<td align="center"> Néant  <br/>
+<td align="center">0,75 <br/>
+</td>
+<td align="center">Néant <br/>
 </td>
 <td align="center"> 0,75</td>
-<td align="center"> Néant</td>
+<td align="center">Néant <br/>
+</td>
 <td align="center">Néant <br/>
 </td>
 <td align="center"/>
 </tr>
 <tr>
-<td colspan="7">
-<p>   (1) La charge de cette cotisation est répartie entre l'employeur  et le salarié dans les conditions prévues par le règlement propre à  chacun des </p>
+<td align="left" colspan="7">
+<p>(1) La charge de cette cotisation est répartie entre l'employeur et  le salarié dans les conditions prévues par le règlement propre à chacun  des </p>
 <p>régimes spéciaux intéressés.</p>
 </td>
 </tr>

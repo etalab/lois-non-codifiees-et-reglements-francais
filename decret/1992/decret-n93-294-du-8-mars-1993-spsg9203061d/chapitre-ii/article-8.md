@@ -1,0 +1,3 @@
+# Article 8
+
+Les concours internes donnant accès au corps de professeur d'enseignement technique sont ouverts aux fonctionnaires titulaires d'un autre corps d'enseignement ou d'éducation ainsi qu'aux personnels enseignants non titulaires des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles ou d'un établissement public de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent. Ces fonctionnaires et agents non titulaires doivent justifier de trois années de services publics et d'un diplôme d'études universitaires générales ou d'un titre ou diplôme de niveau égal ou supérieur sanctionnant un cycle d'études postsecondaires d'au moins deux années.

@@ -1,0 +1,3 @@
+# Article 2
+
+Sur le territoire métropolitain de la France, les tournées ordinaires effectuées à l'intérieur de l'unité de gestion (qui n'excède pas les limites du département), telle que fixée par l'organisation territoriale de l'Office national des forêts, correspondant à un déplacement de plus de 5 kilomètres décomptés à partir des limites de l'agglomération (village, hameau ou écart) constituant la résidence fixée par l'organisation territoriale de l'établissement, ou à partir du logement de fonction, lorsque celui-ci est imposé en dehors d'une agglomération, ouvrent droit à remboursements forfaitaires sous forme d'indemnités dites de tournée et d'indemnités kilométriques.

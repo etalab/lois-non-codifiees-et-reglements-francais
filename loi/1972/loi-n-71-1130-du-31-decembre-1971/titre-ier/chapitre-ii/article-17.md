@@ -20,4 +20,6 @@ Le conseil de l'ordre a pour attribution de traiter toutes questions intéressan
 
 9° De vérifier la tenue de la comptabilité des avocats, personnes physiques ou morales, et la constitution des garanties imposées par l'article 27 et par les décrets visés à l'article 53 ;
 
-10° Il peut s'opposer, dans des conditions fixées par décret, aux contrats de collaboration souscrits par les avocats.
+10° D'assurer dans son ressort l'exécution des décisions prises par le Conseil national des barreaux.
+
+Les contrats de collaboration ou de travail conclus par les avocats sont communiqués au conseil de l'ordre qui peut, dans des conditions fixées par décret en Conseil d'Etat, mettre en demeure les avocats de modifier les contrats dont les stipulations seraient contraires aux dispositions de l'article 7.

@@ -1,0 +1,3 @@
+# Article 1 bis
+
+Le notaire peut exercer sa profession soit à titre individuel, soit dans le cadre d'une société civile professionnelle ou d'une société d'exercice libéral, soit en qualité de salarié d'une personne physique ou morale titulaire d'un office notarial. Il peut également être membre d'un groupement d'intérêt économique ou d'un groupement européen d'intérêt économique ou associé d'une société en participation régie par le titre II de la loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé.

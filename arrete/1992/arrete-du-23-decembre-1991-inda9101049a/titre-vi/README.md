@@ -1,0 +1,3 @@
+# TITRE VI : CONTROLE DES OPERATIONS ELECTORALES
+
+- [Article 25](article-25.md)

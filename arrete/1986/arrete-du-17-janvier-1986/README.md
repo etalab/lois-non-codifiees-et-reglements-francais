@@ -1,4 +1,4 @@
-# Arrêté du 17 janvier 1986 fixant les modalités d'élection au conseil d'administration du Conseil supérieur de la pêche des représentants des associations départementales ou interdépartementales agréées de pêcheurs professionnels en eau douce.
+# Arrêté du 17 janvier 1986 fixant les conditions d'élection au conseil d'administration du Conseil supérieur de la pêche des représentants des associations départementales agréées de pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

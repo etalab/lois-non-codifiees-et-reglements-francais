@@ -10,4 +10,5 @@
 - [Chapitre VIII : Des altérations.](chapitre-viii)
 - [Chapitre IX : De la prescription.](chapitre-ix)
 - [Chapitre X : Des protêts.](chapitre-x)
+- [Chapitre X bis : De la carte de paiement.](chapitre-x-bis)
 - [Chapitre XI : Dispositions générales et pénales.](chapitre-xi)

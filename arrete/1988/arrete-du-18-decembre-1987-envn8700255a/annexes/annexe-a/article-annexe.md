@@ -2,37 +2,33 @@
 
 Département des Alpes-de-Haute-Provence
 
-cours d'eau, canaux et plans d'eau de 1re catégorie
+Cours d'eau, canaux et plans d'eau de 1re catégorie
 
-1° La Durance en amont du plan d'eau de la Saulce, à l'exception du lac de retenue de Serre-Ponçon.
+1° La Durance en amont du plan d'eau de la Saulce, à l'exception du lac de retenue de Serre-Ponçon ;
 
-2° L'Ubaye en amont du pont de Pellegrin.
+2° L'Ubaye en amont du pont de Pellegrin ;
 
-3° Le Sasse ; le Riou de Jabron ou de Saint-Geniez ; le Vancon ; le Jabron de Noyers.
+3° Le Sasse ; le Riou de Jabron ou de Saint-Geniez ; le Vauçon ; le Jabron de Noyers ;
 
-4° La Bléone et le Bès en amont de leur confluent ; les Duyes.
+4° La Bléone et le Bès en amont de leur confluent ; les Duyes ;
 
-5° Les canaux de Peyruis et du Bars (commune de Valensole).
+5° Les canaux de Peyruis et du Bars (commune de Valensole) ;
 
-6° L'Asse en amont de son confluent avec l'Estoublaisse.
+6° L'Asse en amont de son confluent avec l'Estoublaïsse ;
 
-7° L'Asse de Blieux en amont de son confluent avec l'Asse.
+7° L'Asse de Blieux en amont de son confluent avec l'Asse ;
 
-8° L'Estoublaisse.
+8° L'Estoublaïsse ;
 
 9° Le Verdon, à l'exception :
 
-a) Des lacs de retenue de Castillon et de Chaudanne, depuis le pont de Méouilles (commune de Saint-André-les-Alpes) jusqu'au barrage de Chaudanne (Commune de Castellane) ;
+a) Des lacs de retenue de Castillon et de Chaudanne, depuis le pont de Méouilles (commune de Saint-André-les-Alpes) jusqu'au barrage de Chaudanne (commune de Castellane) ;
 
-b) Du lac de Sainte-Croix, depuis le pont du Galetas sur le C.D. 957 à l'amont jusqu'au barrage de Sainte-Croix à l'aval ;
+b) Du lac de retenue de Gréoux-les-Bains depuis le pied du barrage de Quinson en amont, jusqu'au déversoir du bassin de compensation du barrage de Gréoux, à hauteur du village de Gréoux-les-Bains, en aval ;
 
-c) Du lac de retenue de Gréoux-les-Bains, depuis le pied du barrage du Quinson en amont jusqu'au barrage de Gréoux-les-Bains en aval ;
+10° Le Var ;
 
-d) Du bassin de compensation du barrage de Gréoux-les-Bains, depuis la queue de la retenue en amont jusqu'au déversoir à hauteur du village de Gréoux-les-Bains en aval.
-
-10° Le Var.
-
-11° Les affluents et sous-affluents des cours d'eau ou parties de cours d'eau visés ci-dessus.
+11° Les affluents et sous-affluents des cours d'eau ou parties de cours d'eau visés ci-dessus ;
 
 12° a) Les affluents de la Durance et de l'Ubaye se jetant dans le lac de retenue de Serre-Ponçon ;
 
@@ -70,47 +66,49 @@ Tous les cours d'eau, canaux et plans d'eau non classés en 2e catégorie.
 
 Cours d'eau, canaux et plans d'eau de 1re catégorie
 
-1° La Seine ;
+1° La Seine.
 
-2° L'Aube, la Laignes, à l'exception du lac de Marcenay ;
+2° L'Aube ; la Laignes, à l'exception du lac de Marcenay.
 
-3° L'Ource ;
+3° L'Ource.
 
-4° L'Armançon pour la partie formant limite avec le département de l'Yonne et ses affluents : les ruisseaux de Bornant, Chailly et la Brionne ;
+4° Les affluents de l'Armançon : les ruisseaux de Chailly et de la Brionne.
 
-5° La Brenne en amont du pont ferroviaire de Montbard, non compris le réservoir de Grobois ;
+5° La Brenne en amont du pont ferroviaire de Montbard, non compris le réservoir de Grosbois.
 
-6° Le Cousin, la Romanée, le Vernidard ;
+6° Le Cousin ; la Romanée ; le Vernidard.
 
-7° La Bèze (affluent de la Saône) en amont du pont de Marendeuil ;
+7° La Bèze (affluent de la Saône) en amont du pont de Marendeuil.
 
-8° L'Ouche en amont du pont de Tart-l'Abbaye, à l'exception du lac Kir ;
+8° L'Ouche en amont du pont de Tart-l'Abbaye, à l'exception du lac Kir.
 
-9° La Vouge en amont du pont de Villebichot ;
+9° La Vouge en amont du pont de Villebichot.
 
-10° La Cent-Fonds ;
+10° La Cent-fonds.
 
-11° La Tille en amont du pont de Tréclun ;
+11° La Tille en amont du pont de Tréclun.
 
-12° La Venelle en amont du pont d'Orville ;
+12° La Venelle en amont du pont d'Orville.
 
-13° La Bouzaize en amont du confluent avec la Chargeole ;
+13° La Bouzaize en amont du confluent avec la Chargeole.
 
-14° La Lauve ;
+14° La Lauve.
 
-15° Le Meuzin en amont de Nuits-Saint-Georges ;
+15° Le Meuzin en amont de Nuits-Saint-Georges.
 
-16° La Bèze et la Courtavaux (affluents du Meuzin) ;
+16° La Bèze et la Courtavaux (affluents du Meuzin).
 
-17° L'Avant-Dheune, la Cozanne ;
+17° L'Avant-Dheune, la Cozanne.
 
-18° Le Ternin, à l'exception de la retenue du barrage de Chamboux et la section située à 300 mètres en amont ;
+18° Le Ternin, à l'exception de la retenue du barrage de Chamboux et la section située à 300 mètres en amont.
 
-19° Le ruisseau de Lacanche ;
+19° Le ruisseau de Lacanche, affluent de l'Arroux.
 
-20° La Vèze en amont de son confluent avec le bief de Bazerotte ;
+20° La Vèze en amont de son confluent avec le bief de Bazerotte.
 
 21° Les affluents et sous-affluents des cours d'eau ou portions de cours d'eau désignés ci-dessus, sauf la Vandenesse en amont du barrage de Crugey.
+
+22° La Farge et la Petite Drée.
 
 Cours d'eau, canaux et plans d'eau de 2e catégorie
 
@@ -122,7 +120,7 @@ Cours d'eau, canaux et plans d'eau de 2e catégorie
 
 1° La Creuse en aval de son confluent avec le ruisseau dit de Fransèches.
 
-2° La retenue du barrage des Combes, sur la Creuse entre le barrage et la passerelle de fer établie à l'extrémité amont de la retenue.
+2° La retenue du barrage des Combes sur la Creuse entre le barrage et la passerelle de fer établie à l'extrémité amont de la retenue.
 
 3° Le Taurion en aval du pont de la Chassagne (R.N. 712) ; le lac de Lavaud-Gélade.
 
@@ -130,21 +128,23 @@ Cours d'eau, canaux et plans d'eau de 2e catégorie
 
 5° La Voueize et ses affluents en aval du pont de la D. 55.
 
-6° La Goze, ses affluents et ses sous-affluents.
+6° La Goze et ses affluents et sous-affluents.
 
 7° La Tardes en aval de son confluent de la Méouse.
 
 8° Le ruisseau de Barbeyrat.
 
-9° La retenue du barrage de Rochebut, en aval du pont de Ceylat (C. 20), commune d'Evaux.
+9° La retenue du barrage de Rochebut en aval du pont de Ceylat (C. 20), commune d'Evaux.
 
-10° La Sedelle en aval du pont de Crozant (chemin vicinal ordinaire 3).
+10° La Sedelle en aval du pont de Crozant (chemin vicinal ordinaire n° 3).
 
 11° La retenue du barrage de Vassivière sur la Maulde délimitée par la courbe de niveau de 650 mètres d'altitude.
 
 12° Le plan d'eau de Courtille, du ruisseau de Fayolle jusqu'en aval du pont de la route de Fayolle.
 
 13° Le lac de retenue du barrage du Chammet.
+
+14° La retenue hydroélectrique du Dorat (commune de Faux-la-Montagne).
 
 Cours d'eau, canaux et plans d'eau de 1re catégorie
 
@@ -500,81 +500,79 @@ Département de la Seine-Maritime
 
 Cours d'eau, canaux et plans d'eau de 2e catégorie
 
-(Cyprinidés dominants)
-
-1° La Seine ;
+1° La Seine.
 
 2° Tous les plans d'eau des bassins désignés ci-après :
 
 a) Bassin de la Bresle, communes de :
 
-- Pont et Marais,
+Pont et Marais ;
 
-- Incheville,
+Incheville ;
 
-- Monchaux-Soreng,
+Monchaux-Soreng ;
 
-- Blangy-sur-Bresle,
+Blangy-sur-Bresle ;
 
-- Nesle-Normandeuse,
+Nesle-Normandeuse ;
 
-- Vieux-Rouen-sur-Bresle,
+Vieux-Rouen-sur-Bresle ;
 
-- Aumale.
+Aumale.
 
-b) Bassin de l'Eaulne, commune de :
+b) Bassin de l'Eauline, commune de :
 
-- Martin-Eglise.
+Martin-Eglise.
 
 c) Bassin de la Béthune, commune de :
 
-- Beaubec-la-Rosière.
+Beaubec-la-Rosière.
 
 d) Bassin de la Varenne, communes de :
 
-- Arques-la-Bataille,
+Arques-la-Bataille ;
 
-- Saint-Aubin-le-Cauf,
+Saint-Aubin-le-Cauf ;
 
-- Saint-Germain-d'Etables,
+Saint-Germain-d'Etables ;
 
-- Muchedent.
+Muchedent.
 
 e) Bassin de la Durdent, communes de :
 
-- Oherville,
+Oherville ;
 
-- Cany.
+Cany.
 
 f) Bassin de la Valmont, communes de :
 
-- Fécamp,
+Fécamp ;
 
-- Valmont.
+Valmont.
 
 g) Bassin de la Lézarde, communes de :
 
-- Notre-Dame-du-Bec,
+Notre-Dame-du-Bec ;
 
-- Rolleville,
+Rolleville ;
 
-- Epouville,
+Epouville ;
 
-- Montivilliers.
+Montivilliers.
 
-h) Bassin du Telhuet, communes de :
+h) Bassin du Telhuet, commune de :
 
-- Notre-Dame-de-Gravenchon.
+Notre-Dame-de-Gravenchon.
 
 i) Bassin du Cailly, commune de :
 
-- Claville-Motteville.
+Claville-Motteville.
+
+3° L'Etang de l'Epinay (commune de Forges-les-Eaux).
 
 Cours d'eau, canaux et plans d'eau de 1re catégorie
 
-(Salmonidés dominants)
-
-Tous les autres cours d'eau, canaux et plans d'eau non classés en 2e catégorie.
+Tous cours d'eau, canaux et plans d'eau non classés en 2e catégorie.
 
 Département du Tarn
 
