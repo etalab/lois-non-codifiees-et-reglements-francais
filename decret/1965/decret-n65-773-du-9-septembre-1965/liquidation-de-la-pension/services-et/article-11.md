@@ -10,7 +10,7 @@ Les agents du sexe féminin ayant servi en qualité d'infirmières ou d'ambulanc
 
 Cette disposition est étendue aux agents du sexe féminin dont la pension a été liquidée ou a fait l'objet d'une péréquation ;
 
-3° Bonification accordée aux agents du sexe féminin pour chacun de leurs enfants légitimes, naturels ou adoptifs et, sous réserve qu'ils aient été élevés pendant neuf ans au moins avant leur vingt et unième année révolue, pour chacun des enfants du conjoint issus d'un mariage précédent, naturels ou adoptifs, des enfants ayant fait l'objet d'une délégation judiciaire des droits de l'autorité parentale en leur faveur ou en faveur de leur conjoint, ainsi que des enfants placés sous leur tutelle ou celle de leur conjoint dont elles ont assuré la garde effective et permanente.
+3° Bonification accordée aux agents du sexe féminin pour chacun de leurs enfants légitimes, de leurs enfants naturels dont la filiation est établie, ou de leurs enfants adoptifs et, sous réserve qu'ils aient été élevés pendant neuf ans au moins avant leur vingt et unième année révolue, pour chacun des autres enfants énumérés au paragraphe II de l'article 19.
 
 4° Bonification accordée aux déportés politiques ;
 
