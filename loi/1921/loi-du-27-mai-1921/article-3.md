@@ -14,18 +14,14 @@ Les superbénéfices seront attribués, dans une attribution de 20 p. 100 au cap
 
 Après remboursement total, de la dette de garantie, les superbénéfices seront partagés par moitié entre l'Etat et la ou les sociétés concessionnaires.
 
-Toutefois, jusqu'à l'achèvement des travaux d'aménagement du Rhône visés ci-dessus, la part de super-bénéfices attribuée à l'Etat est laissée à la disposition de la société concessionnaire et utilisée pour le financement des travaux exécutés dans le cadre du plan de modernisation et d'équipement. Un arrêté du ministre des finances fixera, le moment venu, en tant que de besoin, les modalités de restitution des sommes revenant au Trésor.
-
 L'Etat accordera à la société unique ou aux sociétés qui auront été substituées aux concessionnaires des subventions en capital appliquées aux travaux de construction des canaux primaires d'irrigation ou des stations de pompage. Ces subventions seront de neuf dixièmes de la valeur des ouvrages.
 
 L'eau à prélever sur les canaux industriels ou navigables en vue des irrigations sera livrée à des prix fixés par le cahier des charges.
 
 L'énergie destinée aux mêmes usages et aux autres usages agricoles sera payée par les associations ainsi que par les groupements agricoles qui seront reconnus d'utilité générale par décrets délibérés en conseil d'Etat et rendus sur la proposition du ministre des travaux publics, à l'accord avec le ministre de l'agriculture, à des prix réduits fixés par le cahier des charges.
 
-Le ministre de l'agriculture, dans la limite des crédits qui lui sont ouverts chaque année par la loi de finances, pourra accorder aux associations agricoles des subventions en vue de faciliter la réalisation des entreprises envisagées lorsque le prix de l'énergie sera trop élevé pour le permettre.
-
 Un règlement d'administration publique fixera la composition du conseil d'administration de la société concessionnaire sans qu'il soit tenu compte des dispositions de la loi du 16 novembre 1940 sur les sociétés anonymes. Il déterminera, notamment, le mode de représentation de l'Etat, des intérêts généraux liés à l'équipement du Rhône, des actionnaires et du personnel de la société.
 
 Le président du conseil d'administration sera désigné par l'Etat parmi les membres de ce conseil.
 
-Les représentants, au conseil d'administration, de l'Etat, des intérêts généraux liés à l'équipement du Rhône, du personnel de la société ainsi que ceux des collectivités  et établissements publics autorisés à prendre une participation au capital social de la société ne sont pas tenus d'être personnellement propriétaires d'actions de la société. Les représentants de l'Etat, des intérêts généraux liés à l'équipement du Rhône et ceux du personnel sont également dispensés de déposer, en garantie de leur gestion, des actions de la société.
+Les représentants, au conseil d'administration, de l'Etat, des intérêts généraux liés à l'équipement du Rhône, du personnel de la société ainsi que ceux des collectivités et établissements publics autorisés à prendre une participation au capital social de la société ne sont pas tenus d'être personnellement propriétaires d'actions de la société. Les représentants de l'Etat, des intérêts généraux liés à l'équipement du Rhône et ceux du personnel sont également dispensés de déposer, en garantie de leur gestion, des actions de la société.
