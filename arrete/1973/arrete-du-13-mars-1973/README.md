@@ -4,6 +4,8 @@
 - [Article 1 bis](article-1-bis.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
+- [Article 3-I](article-3-i.md)
+- [Article 3-II](article-3-ii.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 5 bis](article-5-bis.md)

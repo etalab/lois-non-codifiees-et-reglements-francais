@@ -1,13 +1,9 @@
 # Article 4
 
-Pour le calcul de l'ancienneté exigée pour l'avancement d'échelon et de grade, la période pendant laquelle les intéressés ont été affectés à des fonctions à mi-temps est comptée pour la totalité de sa durée.
+Les conseils d'administration des caisses de mutualité sociale agricole établissent un règlement pour chacun des prêts prévus au présent arrêté et adoptent les modèles types de contrat à passer avec les bénéficiaires.
 
-Les agents exerçant leurs fonctions à mi-temps perçoivent 50 p. 100 [*montant*] du traitement, de l'indemnité de résidence et du supplément familial de traitement afférent à leur emploi, grade, classe et échelon.
+Les règlements précisent, compte tenu des dispositions qui précèdent, toutes les conditions d'octroi desdits prêts y compris les garanties à exiger.
 
-Les modalités particulières de fixation des indemnités auxquelles peuvent prétendre les agents qui exercent une fonction à mi-temps sont fixées par arrêté du ministre de l'intérieur.
+Les règlements peuvent prévoir, suivant la nature du prêt, des dérogations aux dispositions de l'article 2 et de l'article 3 (par. 3 et 6) du présent arrêté relatives aux taux d'intérêt.
 
-Les agents exerçant une fonction à mi-temps ont droit aux congés dans les mêmes conditions que les agents en activité ou en service détaché. Ils perçoivent, pendant ces congés, des émoluments égaux à 50 p. 100 de ceux prévus pour les agents travaillant à temps plein.
-
-Pendant la période de mi-temps, si l'agent bénéficie du congé de maternité ou du congé de longue durée, il perçoit la moitié des émoluments [*salaire*] auxquels il aurait eu droit dans cette situation s'il travaillait à temps plein.
-
-A l'issue de la période au cours de laquelle il a bénéficié de la situation d'agent à mi-temps, il recouvre les droits de l'agent exerçant ses fonctions à temps plein.
+Les règlements et modèles types de contrats sont communiqués à l'inspecteur divisionnaire des lois sociales en agriculture dans les conditions prévues aux articles 4 et 15 du décret n° 61-99 du 27 janvier 1961.
