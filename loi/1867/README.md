@@ -1,3 +1,3 @@
 # 1867
 
-- [Loi du 13 juin 1866](loi-du-13-juin-1866)
+- [Loi du 24 juillet 1867](loi-du-24-juillet-1867)
