@@ -30,6 +30,7 @@
 - [Arrêté du 10 juillet 1981](arrete-du-10-juillet-1981)
 - [Arrêté du 10 mars 1981](arrete-du-10-mars-1981)
 - [Arrêté du 11 mai 1981](arrete-du-11-mai-1981)
+- [Arrêté du 12 août 1981](arrete-du-12-aout-1981)
 - [Arrêté du 12 février 1981](arrete-du-12-fevrier-1981)
 - [Arrêté du 12 janvier 1982](arrete-du-12-janvier-1982)
 - [Arrêté du 12 mars 1981](arrete-du-12-mars-1981)
