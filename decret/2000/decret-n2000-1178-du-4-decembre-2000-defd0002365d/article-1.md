@@ -18,7 +18,7 @@ Elle comprend :
 
 7° La direction générale de la gendarmerie nationale ;
 
-8° Les inspecteurs généraux des armées, l'inspecteur général du service de santé et l'inspecteur de la protection et de la sécurité de la défense ;
+8° Les inspecteurs généraux des armées et l'inspecteur général du service de santé ;
 
 9° Des directions et services.
 
