@@ -92,7 +92,7 @@ Brevet de technicien supérieur délivré dans l'une des spécialités de brevet
 
 Spécialité Informatique (1).
 
-[*(1) Ajouté par arrêté du 27 avril 1982*].
+*(1) Ajouté par arrêté du 27 avril 1982*.
 
 III - Baccalauréats.
 
@@ -318,6 +318,8 @@ VIII - Titres "un des meilleurs ouvriers de France" homologués au niveau IV des
 
 Ajusteur outilleur.
 
+Art des jardins.
+
 Carreleur.
 
 Charpentier en bois.
@@ -387,8 +389,6 @@ Monteur en ostéologie.
 Mouleur noyauteur en fonderie au sable.
 
 Mouleur maquettiste.
-
-Paysagiste.
 
 Peintre en bâtiment.
 
@@ -686,7 +686,7 @@ Certificat de fin d'études de technicien supérieur en        cartographie (niv
 
 Diplômes ci-après délivrés par l'association gestionnaire        des centres de formation continue d'Egletons (fédération        nationale des travaux publics).
 
-Diplôme deen chef de chantier de terrassement (niveau IV).
+Diplôme de chef de chantier de terrassement (niveau IV).
 
 Diplôme de chef de chantier de constructions industrielles        et d'ouvrages d'art (niveau IV).
 
@@ -736,4 +736,4 @@ Adjoint technique d'une commune.
 
 Diplôme de programmeur d'études délivré par un institut de programmation (1).
 
-[*(1) Ajouté par arrêté du 27 avril 1982*].
+Diplôme d'architecte.    *(1) Ajouté par arrêté du 27 avril 1982*.

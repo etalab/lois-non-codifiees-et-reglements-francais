@@ -1,0 +1,3 @@
+# Article 5
+
+Pour l'application des dispositions du cinquième alinéa de l'article L. 171 du code de la sécurité sociale susvisé, les décisions entraînant un dépassement des autorisations résultant du budget primitif et, le cas échéant, du ou des budgets rectificatifs doivent obligatoirement mentionner *mentions obligatoires* l'origine des crédits affectés au financement des dépenses nouvelles et indiquer leur incidence éventuelle sur les comptes présentant un caractère limitatif, dont la liste est fixée par arrêté conjoint du ministre chargé de la sécurité sociale et du ministre chargé du budget *autorités compétentes*.

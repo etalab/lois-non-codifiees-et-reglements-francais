@@ -6,6 +6,7 @@
 - [Arrêté du 7 décembre 1984](arrete-du-7-decembre-1984)
 - [Arrêté du 7 mars 1986](arrete-du-7-mars-1986)
 - [Arrêté du 10 avril 1985](arrete-du-10-avril-1985)
+- [Arrêté du 10 janvier 1985](arrete-du-10-janvier-1985)
 - [Arrêté du 10 octobre 1983](arrete-du-10-octobre-1983)
 - [Arrêté du 11 décembre 1984](arrete-du-11-decembre-1984)
 - [Arrêté du 11 octobre 1983](arrete-du-11-octobre-1983)
