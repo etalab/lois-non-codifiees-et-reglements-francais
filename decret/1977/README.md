@@ -8,6 +8,7 @@
 - [Décret n°77-1352 du 5 décembre 1977](decret-n77-1352-du-5-decembre-1977)
 - [Décret n°77-1364 du 5 décembre 1977](decret-n77-1364-du-5-decembre-1977)
 - [Décret n°77-779 du 6 juillet 1977](decret-n77-779-du-6-juillet-1977)
+- [Décret n°77-151 du 7 février 1977](decret-n77-151-du-7-fevrier-1977)
 - [Décret n°77-45 du 7 janvier 1977](decret-n77-45-du-7-janvier-1977)
 - [Décret n°77-221 du 8 mars 1977](decret-n77-221-du-8-mars-1977)
 - [Décret n°77-222 du 8 mars 1977](decret-n77-222-du-8-mars-1977)
