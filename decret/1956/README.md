@@ -9,3 +9,4 @@
 - [Décret n°56-220 du 29 février 1956](decret-n56-220-du-29-fevrier-1956)
 - [Décret n°56-221 du 29 février 1956](decret-n56-221-du-29-fevrier-1956)
 - [Décret n°56-222 du 29 février 1956](decret-n56-222-du-29-fevrier-1956)
+- [Décret n° 56-348 du 30 mars 1956](decret-n-56-348-du-30-mars-1956)
