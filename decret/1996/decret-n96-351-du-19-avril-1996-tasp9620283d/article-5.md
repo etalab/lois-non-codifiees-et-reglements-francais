@@ -8,7 +8,7 @@ I. - La notice accompagnant chaque réactif doit comporter :
 
 2° Le nom et l'adresse du fabricant, du distributeur et, le cas échéant, de l'importateur ;
 
-3° La nature du ou des composants principaux et, le cas échéant, la composition des solutions d'étalonnage ou de calibration nécessaires à l'utilisation du réactif ;
+3° (Paragraphe abrogé)
 
 4° Toutes informations utiles sur son intérêt diagnostique et thérapeutique ;
 
@@ -28,9 +28,7 @@ c) Les valeurs de référence connues, exprimées de préférence dans le systè
 
 9° L'indication "usage in vitro" ;
 
-10° Si nécessaire, l'indication "danger" ;
-
-11° La mention de l'enregistrement du réactif auprès de l'Agence française de sécurité sanitaire des produits de santé.
+10° Si nécessaire, l'indication "danger".
 
 II. - Le conditionnement primaire et le conditionnement extérieur, au sens de l'article R. 5000 du code de la santé publique, doivent comporter :
 
@@ -49,7 +47,5 @@ II. - Le conditionnement primaire et le conditionnement extérieur, au sens de l
 7° La date limite d'utilisation ;
 
 8° Le numéro de lot de fabrication.
-
-Toutefois, lorsqu'il existe un conditionnement extérieur, le conditionnement primaire peut ne pas comporter le numéro d'enregistrement.
 
 III. - Un arrêté du ministre chargé de la santé peut, sur proposition du directeur général de l'Agence française de sécurité sanitaire des produits de santé, préciser le contenu des informations prévues au présent article pour les réactifs qui nécessitent des précautions particulières d'utilisation.
