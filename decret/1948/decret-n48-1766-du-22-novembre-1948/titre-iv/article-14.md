@@ -164,9 +164,17 @@ Il est tenu compte des éléments d'équipement du local, fournis par le propri�
 </tr>
 <tr>
 <td valign="top" width="529">
-<p>Baignoire, receveur de douches ou bac à laver</p>
+<p>Baignoire </p>
 </td>
 <td valign="top" width="113">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Receveur de douches ou bac à laver</p>
+</td>
+<td>
 <p align="center">2</p>
 </td>
 </tr>
@@ -188,18 +196,18 @@ Il est tenu compte des éléments d'équipement du local, fournis par le propri�
 </tr>
 <tr>
 <td valign="top" width="529">
-<p>Pour le premier poste dans le local sur baignoire ou bac à laver</p>
+<p>Pour le premier poste dans le local sur baignoire, receveur de douches ou bac à laver</p>
 </td>
 <td valign="top" width="113">
-<p align="center">3,75</p>
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="529">
-<p>Pour le premier poste dans le local en cas d'absence de baignoire ou bac à laver</p>
+<p>Pour le premier poste dans le local en cas d'absence de baignoire, receveur de douches ou bac à laver</p>
 </td>
 <td valign="top" width="113">
-<p align="center">1,75</p>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
@@ -215,7 +223,7 @@ Il est tenu compte des éléments d'équipement du local, fournis par le propri�
 <p>Poste unique ou premier poste dans une pièce</p>
 </td>
 <td valign="top" width="113">
-<p align="center">0,50</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -223,7 +231,7 @@ Il est tenu compte des éléments d'équipement du local, fournis par le propri�
 <p>Pour chaque poste en sus du premier dans une pièce</p>
 </td>
 <td valign="top" width="113">
-<p align="center">0,25</p>
+<p align="center">0,50</p>
 </td>
 </tr>
 <tr>
@@ -244,18 +252,18 @@ Il est tenu compte des éléments d'équipement du local, fournis par le propri�
 </tr>
 <tr>
 <td valign="top" width="529">
-<p>W.-C. particuliers au local :</p>
+<p>W.-C. particuliers au local (par unité) :</p>
 </td>
 <td valign="top" width="113">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="529">
-<p>Le premier :</p>
+<td>
+<p align="left">Sans effet d'eau</p>
 </td>
-<td valign="top" width="113">
-<br/>
+<td>
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
@@ -268,18 +276,10 @@ Il est tenu compte des éléments d'équipement du local, fournis par le propri�
 </tr>
 <tr>
 <td valign="top" width="529">
-<p>Sans effet d'eau</p>
+<p>Raccordé au réseau d'égout, sous réserve qu'il ait un effet d'eau et un siphon</p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>W.-C. en sus du premier, sous réserve qu'ils aient un effet d'eau</p>
-</td>
-<td valign="top" width="113">
-<p align="center">3</p>
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
@@ -343,7 +343,7 @@ Il est tenu compte des éléments d'équipement du local, fournis par le propri�
 <p>Pour une installation commune à différents locaux de l'immeuble</p>
 </td>
 <td valign="top" width="113">
-<p align="center">1,75</p>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
@@ -351,12 +351,12 @@ Il est tenu compte des éléments d'équipement du local, fournis par le propri�
 <p>Pour une installation particulière au local</p>
 </td>
 <td valign="top" width="113">
-<p align="center">1,50</p>
+<p align="center">2,50</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="529">
-<p>Lorsque le chauffage central est d'un type vétuste, les équivalences superficielles déterminées ci-dessus sont réduites de moitié.</p>
+<p>Lorsque le chauffage central est d'un type vétuste, les équivalences superficielles déterminées ci-dessus sont respectivement fixées à 0,85 mètre carré et 0,75 mètre carré</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -372,9 +372,25 @@ Il est tenu compte des éléments d'équipement du local, fournis par le propri�
 </tr>
 <tr>
 <td valign="top" width="529">
-<p>Existence d'une installation de vide-ordures ou d'évier vidoir particulière au local</p>
+<p>Existence d'une installation :</p>
 </td>
 <td valign="top" width="113">
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Particulière au local</p>
+</td>
+<td>
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Commune à l'étage ou demi-étage</p>
+</td>
+<td>
 <p align="center">2</p>
 </td>
 </tr>
@@ -388,10 +404,32 @@ Il est tenu compte des éléments d'équipement du local, fournis par le propri�
 </tr>
 <tr>
 <td valign="top" width="529">
-<p>Existence d'une installation de monte-charge desservant le local</p>
+<p>Existence d'une installation desservant le local</p>
 </td>
 <td valign="top" width="113">
-<p align="center">0,50</p>
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Ascenseur-descenseur répondant aux prescriptions règlementaires :</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">Pour une installation desservant (à partir du 2e étage) le local</p>
+</td>
+<td>
+<p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Pour chaque installation en sus (à partir du 2e étage)</p>
+</td>
+<td>
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
