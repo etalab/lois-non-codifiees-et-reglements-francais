@@ -4,8 +4,8 @@ A l'issue des épreuves orales, les jurys arrêtent, dans la limite des places m
 
 Le président du jury transmet les listes mentionnées ci-dessus avec un compte rendu de l'ensemble des opérations :
 
-- au président du Centre national de la fonction publique territoriale pour les concours concernant les ingénieurs en chef de 1re catégorie ;
+- au président du Centre national de la fonction publique territoriale pour les concours concernant les ingénieurs en chef ;
 
-- au délégué régional ou interdépartemental pour les concours concernant les ingénieurs subdivisionnaires.
+- au délégué régional ou interdépartemental pour les concours concernant les ingénieurs.
 
 La liste d'aptitude de chaque concours est établie par ordre alphabétique et fait mention des spécialités choisies par chaque candidat.

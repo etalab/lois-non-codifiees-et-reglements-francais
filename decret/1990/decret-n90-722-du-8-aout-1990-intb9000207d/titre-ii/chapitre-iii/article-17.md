@@ -4,7 +4,7 @@ Les membres du jury de chaque niveau de concours sont nommés par arrêté du pr
 
 Le jury de chaque concours comprend au moins :
 
-a) Trois fonctionnaires territoriaux de catégorie A, dont un au moins du grade d'ingénieur en chef de 1re catégorie ou d'ingénieur en chef ou d'ingénieur subdivisionnaire, suivant le concours ;
+a) Trois fonctionnaires territoriaux de catégorie A, dont un au moins du grade d'ingénieur en chef ou d'ingénieur principal ou d'ingénieur, suivant le concours ;
 
 b) Trois personnalités qualifiées dont au moins un membre de l'enseignement supérieur ;
 
