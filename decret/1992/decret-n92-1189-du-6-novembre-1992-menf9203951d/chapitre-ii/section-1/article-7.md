@@ -10,4 +10,4 @@ Le concours interne donnant accès au corps des professeurs de lycée profession
 
 - soit avoir eu la qualité de cadre au sens de la convention collective du travail dont ils relevaient et justifier de cinq années d'activité professionnelle effectuées en cette qualité et de trois années de services publics ou de services d'enseignement dans les établissements scolaires français à l'étranger ;
 
-2. Aux élèves professeurs recrutés par le concours d'accès au cycle préparatoire prévu à l'article 12 ci-dessous.
+2. Aux élèves professeurs recrutés par le concours d'accès au cycle préparatoire prévu au 2° de l'article 13 ci-dessous.

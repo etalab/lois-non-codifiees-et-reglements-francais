@@ -28,4 +28,8 @@ Les professeurs de lycée professionnel recrutés à la suite du concours auquel
 
 Dans la limite de la durée prévue à l'article 12 ci-dessus, le temps passé en cycle préparatoire par les élèves professeurs qui, avant leur admission, avaient la qualité d'agent non titulaire est assimilé, pour le classement des professeurs de lycée professionnel stagiaires, à une période de service effectif dans la catégorie d'agent non titulaire à laquelle les intéressés appartenaient lors de leur admission au cycle préparatoire.
 
+Le temps passé en qualité d'élève professeur du cycle préparatoire au concours externe est pris en compte, pour le classement des professeurs de lycée professionnel stagiaires, dans la limite d'une année.
+
+Ceux des élèves professeurs du cycle préparatoire au concours externe qui avaient la qualité de fonctionnaire ou d'agent non titulaire préalablement à leur nomination peuvent opter entre l'application des dispositions de l'alinéa précédent et celle des dispositions du premier ou du quatorzième alinéa du présent article.
+
 Le recteur procède au reclassement des professeurs de lycée professionnel.
