@@ -9,3 +9,5 @@ Peuvent en outre bénéficier des prêts mentionnés au 2° de l'article 787-1 :
 2° Les propriétaires de biens fonciers à usage agricole ayant donné à bail leur exploitation, selon les statuts du fermage, à un exploitant agricole à titre principal.
 
 Peuvent également bénéficier des prêts mentionnés au 3° de l'article 787-1 les coopératives dont 70 % du capital social au moins est détenu par les membres satisfaisant individuellement aux conditions mentionnées au premier alinéa du présent article.
+
+Les prêts sont octroyés en fonction de la situation financière de l'exploitation agricole, appréciée notamment par le rapport existant entre la charge annuelle de remboursement en capital et intérêts des prêts à long et moyen terme, y compris celle du prêt sollicité, et l'excédent brut d'exploitation. Un arrêté conjoint des ministres chargés de l'économie et de l'agriculture fixe les modalités d'application du présent alinéa. Il peut, afin de permettre d'apprécier de façon équivalente la situation des exploitations qui ne tiennent pas de comptabilité, prévoir des ratios ayant pour base les recettes agricoles de ces exploitations.
