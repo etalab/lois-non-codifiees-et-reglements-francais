@@ -24,6 +24,8 @@ a) Chaque niveau doit comporter au moins deux compartiments de capacités d'accu
 
 - la surface maximale d'un compartiment est de 1 000 mètres carrés ;
 
+Toutefois, un seul compartiment est admis par niveau si la surface de ce niveau ne dépasse pas 500 mètres carrés.
+
 b) Les parois verticales limitant les compartiments, façades exclues, doivent être au moins coupe-feu de degré une heure ;
 
 c) Chaque compartiment doit comporter un nombre d'issues judicieusement réparties et proportionnées à l'effectif maximal des personnes admises conformément aux dispositions de l'article R. 235-4-3 du code du travail. Une issue du compartiment, de deux unités de passage au moins dès que l'effectif du compartiment dépasse 100 personnes, doit déboucher sur l'extérieur ou sur un dégagement protégé par un bloc-porte au moins pare-flamme de degré une demi-heure, muni d'un ferme-porte ;
