@@ -36,4 +36,8 @@ m) Il examine annuellement le bilan social de La Poste et, en particulier, les c
 
 n) Il peut obtenir communication des plans, des programmes d'investissement, des budgets et des comptes annuels de l'ensemble des sociétés du groupe ;
 
-o) Il fixe le siège de La Poste.
+o) Il fixe le siège de La Poste ;
+
+p) Il est consulté sur la convention passée entre La Poste et l'Etat relative à la conservation du patrimoine philatélique et postal ;
+
+Il autorise les acquisitions à titre onéreux et l'aliénation des collections philatéliques, objets ou documents destinés ou appartenant au patrimoine muséologique propre de La Poste ; il examine chaque année le rapport établi sur les activités muséologiques de La Poste.
