@@ -2,13 +2,9 @@
 
 Les panneaux et dispositifs de signalisation temporaire énumérés ci-dessous sont employés pour la signalisation de tout obstacle ou danger dont l'existence est elle-même temporaire ou pour remplacer, temporairement, tout autre dispositif de signalisation :
 
-Panneaux AK 1 a et AK 1 b. - Virage.
-
-Panneau AK 1 c et AK 1 d. - Succession de virages.
-
 Panneau AK 2. - Cassis, dos-d'âne.
 
-Panneaux AK 3, AK 3 a, AK 3 b. - Chaussée rétrécie.
+Panneaux AK 3 - Chaussée rétrécie.
 
 Panneau AK 4. - Chaussée glissante.
 
@@ -24,59 +20,49 @@ Panneau AK 17. - Annonce de signaux lumineux réglant la circulation.
 
 Panneau AK 22. - Projection de gravillons.
 
-Fanion K 1. - Signalisation d'un obstacle temporaire de faible importance ou complément d'une signalisation de danger, avancée ou de position.
+Fanion K 1. - Signalisation d'un obstacle temporaire de faible importance.
 
 Barrage K 2. - Signalisation de position de travaux ou de tout autre obstacle de caractère temporaire.
 
 Dispositif conique K 5 a, piquet K 5 b, balise d'alignement K 5 c. - Signalisation de position des limites d'obstacles temporaires.
 
-Panneau K 6. - Indications diverses.
-
 Barrière K 8. - Signal de position d'une déviation ou d'un rétrécissement temporaire de chaussée.
 
-Piquet mobile K 10.
+Piquet mobile K 10 : " Signal servant                  à régler manuellement la circulation.
 
-Feu fixe de signalisation K 13 a.
+Supprimer les lignes : " Feu fixe de signalisation K 13 a et " Feu clignotant de signalisation K 13 b.
 
-Feu clignotant de signalisation K 13 b.
+Ruban K 14. - Signal de délimitation de chantier.
 
-Guirlande K 14. - Signal de délimitation de chantier.
+Portique K 15. - Signal de présignalisation de gabarit limité. Séparateur modulaire de voies K 16. Dispositif continu de séparation ou de délimitation et de guidage.
 
-Portique K 15. - Signal de présignalisation de gabarit limité.
+Panneau KC 1. - Indication de chantier important ou de situations diverses.
 
-Panneau KC 1. - Indication de chantier important.
+Panneau KD 8. Présignalisation de changement de chaussée.
 
-Panneau KD 2. - Présignalisation de déviation.
+Panneau KD 9. Affectation des voies.
 
-Panneau KD 2 bis. - Présignalisation de déviation catégorielle.
+Panneau KD 10. Annonce de la réduction du nombre de voies laissées libres à la circulation sur route à chaussées séparées.
 
-Panneaux KD 3 a et KD 3 b. - Présignalisation de l'origine d'un itinéraire de déviation.
+Panneau KD 21. Direction de déviation avec mention de la ville.
 
-Panneaux KD 3 a bis et KD 3 b bis. - Présignalisation de l'origine d'un itinéraire de déviation catégorielle.
+Panneau KD 22. Direction de déviation.
 
-Panneau KD 3 c. - Présignalisation d'une intersection sur un itinéraire de déviation.
+Panneau KD 42. Présignalisation de déviation.
 
-Panneau KD 3 c bis. - Présignalisation d'une intersection sur un itinéraire de déviation catégorielle.
+Panneau KD 43. Présignalisation courante.
 
-Panneau KD 4. - Direction de déviation avec mention de la ville.
+Panneau KD 44. Encart de présignalisation de l'origine d'un itinéraire de déviation.
 
-Panneau KD 4 bis. - Direction de déviation catégorielle avec mention de la ville.
+Panneau KD 62. Confirmation de déviation.
 
-Panneau KD 5. - Direction de déviation.
+Panneau KD 73. Fin de déviation.
 
-Panneau KD 5 bis. - Direction de déviation catégorielle.
+Panonceaux KM. - : " Panonceaux associés aux panneaux temporaires de danger AK.
 
-Panneau KD 6. - Confirmation de déviation.
+Panonceaux utilisés en signalisation temporaire. Ils sont de même type que les panonceaux complétant les signaux permanents. Comme les
 
-Panneau KD 7. - Fin de déviation.
-
-Panneau KD 8. - Présignalisation de changement de chaussée.
-
-Panneau KD 9. - Affectation des voies.
-
-Panneau KD 10. - Annonce de la réduction du nombre de voies laissées libres à la circulation sur route à chaussées séparées.
-
-Panonceaux KM. - Panonceaux utilisés en signalisation temporaire. Ils sont de même type que les panonceaux complétant les signaux permanents. Comme les panonceaux de la signalisation permanente, ils ont un fond de la même couleur que le fond du panneau auquel ils sont associés. Ils sont désignés par les mêmes chiffres que les panonceaux correspondants de la signalisation permanente.
+panonceaux de la signalisation permanente, ils ont un fond de la même couleur que le fond du panneau auquel ils sont associés. Ils sont désignés par les mêmes chiffres que les panonceaux correspondants de la signalisation permanente.
 
 Les panonceaux KM 9 indiquent la nature d'un obstacle temporaire ou d'un chantier.
 
@@ -84,4 +70,10 @@ Les panneaux AK sont de forme triangulaire. Ils ont le fond jaune et sont bordé
 
 Le barrage K 2, les dispositifs K 5 a, K 5 b et K 5 c, la barrière K 8 et la barre transversale du portique K 15 comportent des bandes alternativement rouges et blanches.
 
-Les panonceaux KM 9, les panneaux K 6, KC 1, KD 2, KD 3, KD 4, KD 5, KD 6, KD 7, KD 8, KD 9 et KD 10 sont de forme rectangulaire ou carrée, terminés en pointe de flèche pour les panneaux KD 4 et KD 5. Ils sont à fond jaune avec listel noir. Les symboles et inscriptions sont noirs.
+Les panneaux KC 1 et de type KD sont de forme rectangulaire ou carrée, terminée en pointe de flèche pour les panneaux KD 21 et KD 22. Ils sont à fond jaune avec listel noir. Les symboles et inscriptions sont noirs.
+
+Signaux tricolores d'alternat temporaire KR 11.
+
+Feux de balisage et d'alerte R2, ou à défilement R 2 d, définis à l'article 6-1.
+
+Les panonceaux KM sont de forme rectangulaire. Ils ont le fond jaune et ne comportent pas de listel. Les symboles et inscriptions sont noirs.

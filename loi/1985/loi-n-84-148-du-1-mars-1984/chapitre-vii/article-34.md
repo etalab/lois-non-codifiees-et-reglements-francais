@@ -1,0 +1,3 @@
+# Article 34
+
+Les dirigeants des sociétés commerciales et des groupements d'intérêt économique qui ne répondent pas aux critères mentionnés respectivement à l'article 340-1 de la loi n° 66-537 du 24 juillet 1966 précitée et à l'article 10-1 de l'ordonnance n° 67-821 du 23 septembre 1967 précitée et dont les comptes font apparaître une perte nette comptable supérieure à un tiers du montant des capitaux propres en fin d'exercice, peuvent être convoqués par le président du tribunal de commerce afin d'indiquer les mesures qu'ils envisagent pour redresser la situation. Les dirigeants peuvent se faire assister par le groupement de prévention agréé auquel leur entreprise a adhéré.

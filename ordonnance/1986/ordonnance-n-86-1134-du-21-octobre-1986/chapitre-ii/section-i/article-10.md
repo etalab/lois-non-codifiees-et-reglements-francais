@@ -1,6 +1,6 @@
 # Article 10
 
-La répartition de la réserve spéciale de participation entre les salariés est calculée proportionnellement au salaire perçu dans la limite de plafonds fixés par décret. Toutefois, les accords prévus à l'article 11 peuvent décider que cette répartition sera calculée, dans la limite de la moitié de la réserve suivant la durée de présence dans l'entreprise au cours de l'exercice, et, pour le solde, proportionnellement au salaire perçu dans la limite des plafonds prévus au présent alinéa.
+La répartition de la réserve spéciale de participation entre les salariés est calculée proportionnellement au salaire perçu dans la limite de plafonds fixés par décret. Toutefois, les accords prévus à l'article 11 peuvent décider que cette répartition sera calculée, dans la limite de la moitié de la réserve suivant la durée de présence dans l'entreprise au cours de l'exercice, et, pour le solde, proportionnellement au salaire perçu dans la limite des plafonds prévus au présent alinéa. Sont assimilées à des périodes de présence, quelque soit le mode de répartition retenu par l'accord, les périodes visées aux articles L. 122-26 et L. 122-32-1 du code du travail.
 
 Ces accords peuvent en outre fixer un salaire plancher servant de base de calcul à la part individuelle.
 

@@ -1,10 +1,10 @@
 # Article 9
 
-La première fraction des aides prévues à l'article 8 est attribuée aux partis et groupements politiques qui ont présenté des candidats dans au moins soixante-quinze circonscriptions lors du plus récent renouvellement de l'Assemblée nationale. Cette condition ne s'applique pas aux partis et groupements politiques n'ayant présenté de candidats aux élections législatives que dans un ou plusieurs départements ou territoires d'outre-mer. La répartition est effectuée proportionnellement au nombre de suffrages obtenus au premier tour de ces élections par chacun des partis et groupements en cause. [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 89-271 DC du 11 janvier 1990].
+La première fraction des aides prévues à l'article 8 est attribuée aux partis et groupements politiques qui ont présenté des candidats dans au moins cinquante circonscriptions lors du plus récent renouvellement de l'Assemblée nationale. Cette condition ne s'applique pas aux partis et groupements politiques n'ayant présenté de candidats aux élections législatives que dans un ou plusieurs départements ou territoires d'outre-mer. La répartition est effectuée proportionnellement au nombre de suffrages obtenus au premier tour de ces élections par chacun des partis et groupements en cause. [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 89-271 DC du 11 janvier 1990].
 
 En vue d'effectuer la répartition prévue à l'alinéa précédent, les candidats à l'élection des députés indiquent, s'il y a lieu, dans leur déclaration de candidature, le parti ou groupement politique auquel ils se rattachent.
 
-La seconde fraction de ces aides est attribuée aux partis et groupements politiques proportionnellement au nombre de membres du Parlement qui ont déclaré au bureau de leur assemblée, dans le mois qui suit l'ouverture de la première session ordinaire de chaque année, y être inscrits ou s'y rattacher.
+La seconde fraction de ces aides est attribuée aux partis et groupements politiques bénéficiaires de la première fraction visée ci-dessus proportionnellement au nombre de membres du Parlement qui ont déclaré au bureau de leur assemblée, dans le mois qui suit l'ouverture de la première session ordinaire de chaque année, y être inscrits ou s'y rattacher.
 
 Chaque parlementaire ne peut indiquer qu'un seul parti ou groupement politique pour l'application de l'alinéa précédent.
 
