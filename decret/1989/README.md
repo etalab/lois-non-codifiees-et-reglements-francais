@@ -50,7 +50,6 @@
 - [Décret n°89-200 du 4 avril 1989 (EQUP8900081D)](decret-n89-200-du-4-avril-1989-equp8900081d)
 - [Décret n°89-204 du 4 avril 1989 (INDD8900129D)](decret-n89-204-du-4-avril-1989-indd8900129d)
 - [Décret n°89-206 du 4 avril 1989 (MERG8900015D)](decret-n89-206-du-4-avril-1989-merg8900015d)
-- [Décret n°89-222 du 4 avril 1989 (MCCB8900141D)](decret-n89-222-du-4-avril-1989-mccb8900141d)
 - [Décret n°89-4 du 4 janvier 1989 (ECOT8910036D)](decret-n89-4-du-4-janvier-1989-ecot8910036d)
 - [Décret n°89-543 du 4 août 1989 (BUDF8920255D)](decret-n89-543-du-4-aout-1989-budf8920255d)
 - [Décret n°89-631 du 4 septembre 1989 (EQUG8900674D)](decret-n89-631-du-4-septembre-1989-equg8900674d)

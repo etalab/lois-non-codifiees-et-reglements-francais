@@ -205,7 +205,6 @@
 - [Décret n°93-1088 du 9 septembre 1993 (DOMP9300029D)](decret-n93-1088-du-9-septembre-1993-domp9300029d)
 - [Décret n°93-1306 du 9 décembre 1993 (SPSS9302310D)](decret-n93-1306-du-9-decembre-1993-spss9302310d)
 - [Décret n°93-182 du 9 février 1993 (PRMX9300060D)](decret-n93-182-du-9-fevrier-1993-prmx9300060d)
-- [Décret n°93-184 du 9 février 1993 (MENF9200498D)](decret-n93-184-du-9-fevrier-1993-menf9200498d)
 - [Décret n°93-185 du 9 février 1993 (MENL9204553D)](decret-n93-185-du-9-fevrier-1993-menl9204553d)
 - [Décret n°93-186 du 9 février 1993 (DEFP9202239D)](decret-n93-186-du-9-fevrier-1993-defp9202239d)
 - [Décret n°93-187 du 9 février 1993 (DEFP9202240D)](decret-n93-187-du-9-fevrier-1993-defp9202240d)

@@ -1065,7 +1065,6 @@
 - [Arrêté du 30 mars 1995 (LOGC9500010A)](arrete-du-30-mars-1995-logc9500010a)
 - [Arrêté du 31 décembre 1994 (ECOT9413786A)](arrete-du-31-decembre-1994-ecot9413786a)
 - [Arrêté du 31 décembre 1994 (LOGC9400072A)](arrete-du-31-decembre-1994-logc9400072a)
-- [Arrêté du 31 janvier 1995 (AGRG9500213A)](arrete-du-31-janvier-1995-agrg9500213a)
 - [Arrêté du 31 janvier 1995 (DEFP9501151A)](arrete-du-31-janvier-1995-defp9501151a)
 - [Arrêté du 31 janvier 1995 (ECOT9516203A)](arrete-du-31-janvier-1995-ecot9516203a)
 - [Arrêté du 31 janvier 1995 (ENVE9540032A)](arrete-du-31-janvier-1995-enve9540032a)
