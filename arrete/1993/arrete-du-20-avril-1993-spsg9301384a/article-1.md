@@ -4,13 +4,11 @@ La commission d'intégration visée au premier alinéa de l'article 24 du décre
 
 1. En ce qui concerne l'administration :
 
-Le chef de service de la direction de l'administration générale, du personnel et du budget, président ;
+Le sous-directeur du personnel de la direction de l'administration générale, du personnel et du budget, président ;
 
-Un représentant du directeur de l'administration générale, du personnel et du budget ;
+Deux représentants du directeur de l'administration générale, du personnel et du budget ;
 
 Le directeur général de la santé ou son représentant ;
-
-Le chef de l'inspection générale des affaires sociales ou son représentant ;
 
 Deux directeurs départementaux des affaires sanitaires et sociales.
 
