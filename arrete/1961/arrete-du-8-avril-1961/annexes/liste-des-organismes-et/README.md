@@ -1,3 +1,4 @@
 # Liste des organismes (et agents desdits organismes) autorisés à recevoir en dispense d'affranchissement les correspondances concernant le service des législations sociales agricoles
 
 - [I - Liste des organismes de mutualité sociale agricole (et agents desdits organismes) autorisés à recevoir en dispense d'affranchissement les correspondances concernant le service des législations sociales agricoles (assurances sociales, prestations familiales, assurance vieillesse agricole, assurance obligatoire maladie, invalidité, maternité des membres non salariés des professions agricoles)](i)
+- [II - Liste des organismes (et agents desdits organismes) autres que ceux de mutualité sociale agricole, admis à la gestion de l'assurance obligatoire maladie, invalidité, maternité des membres non-salariés des professions agricoles, et autorisés à recevoir en dispense d'affranchissement les correspondances concernant ladite assurance](ii)
