@@ -423,7 +423,6 @@
 - [Décret n°92-228 du 12 mars 1992 (JUSC9121055D)](decret-n92-228-du-12-mars-1992-jusc9121055d)
 - [Décret n°92-229 du 12 mars 1992 (TEFT9204448D)](decret-n92-229-du-12-mars-1992-teft9204448d)
 - [Décret n°92-230 du 12 mars 1992 (TEFT9204449D)](decret-n92-230-du-12-mars-1992-teft9204449d)
-- [Décret n°92-231 du 12 mars 1992 (ACVC9200013D)](decret-n92-231-du-12-mars-1992-acvc9200013d)
 - [Décret n°92-514 du 12 juin 1992 (INTE9200209D)](decret-n92-514-du-12-juin-1992-inte9200209d)
 - [Décret n°92-515 du 12 juin 1992 (TEFC9204884D)](decret-n92-515-du-12-juin-1992-tefc9204884d)
 - [Décret n°92-516 du 12 juin 1992 (SPSS9201048D)](decret-n92-516-du-12-juin-1992-spss9201048d)
