@@ -6,6 +6,4 @@ Des représentants des départements et des communes et le représentant de l'Et
 
 Avant son adoption par l'assemblée, le projet de schéma d'aménagement de la Corse, assorti des avis des conseils consultatifs régionaux, est mis à la disposition du public pendant deux mois.
 
-Le schéma d'aménagement de la Corse est approuvé par décret en Conseil d'Etat.
-
-A défaut d'adoption, selon la procédure définie ci-dessus, dans un délai de dix-huit mois, à compter de la promulgation de la loi n° 85-97 du 25 janvier 1985 modifiant et complétant la loi n° 83-663 du 22 juillet 1983 et portant dispositions diverses aux rapports entre l'Etat et les collectivités territoriales, le schéma est élaboré et arrêté par l'Etat.
+Le schéma d'aménagement de la Corse est approuvé par décret en Conseil d'Etat. A défaut d'adoption, selon la procédure définie ci-dessus, dans un délai de vingt-quatre mois, à compter de la promulgation de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière , le schéma est élaboré et arrêté par l'Etat.
