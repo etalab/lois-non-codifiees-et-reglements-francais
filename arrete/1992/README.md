@@ -505,7 +505,6 @@
 - [Arrêté du 14 décembre 1992 (LOGC9200072A)](arrete-du-14-decembre-1992-logc9200072a)
 - [Arrêté du 14 février 1986](arrete-du-14-fevrier-1986)
 - [Arrêté du 14 février 1991 (MENF9100049A)](arrete-du-14-fevrier-1991-menf9100049a)
-- [Arrêté du 14 février 1992 (AGRS9200315A)](arrete-du-14-fevrier-1992-agrs9200315a)
 - [Arrêté du 14 février 1992 (DEFL9201186A)](arrete-du-14-fevrier-1992-defl9201186a)
 - [Arrêté du 14 février 1992 (DEFL9201188A)](arrete-du-14-fevrier-1992-defl9201188a)
 - [Arrêté du 14 février 1992 (INDG9100989A)](arrete-du-14-fevrier-1992-indg9100989a)
