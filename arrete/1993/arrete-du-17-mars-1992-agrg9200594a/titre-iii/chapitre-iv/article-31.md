@@ -102,28 +102,36 @@ n) Les viandes qui ont été traitées aux radiations ionisantes ou ultra-violet
 
 o) Les viandes présentant une odeur sexuelle prononcée.
 
-p) i) Les abats spécifiés suivants :
+p) Les matériels à risque spécifiés suivants :
 
-- le crâne, y compris l'encéphale et les yeux, et la moelle épinière des bovins âgés de plus de douze mois ;
+i) Le crâne, y compris l'encéphale et les yeux, et la moelle épinière des bovins âgés de douze mois et plus ;
 
-- la rate des bovins quel que soit leur âge ;
+- la rate des bovins, quel que soit leur âge ;
 
-- le crâne, y compris l'encéphale et les yeux, les amygdales et la moelle épinière des ovins et caprins âgés de plus de douze mois ou qui présentent une incisive permanente ayant percé la gencive ;
+- la tête entière, comprenant les yeux et les amygdales, mais à l'exclusion de l'encéphale, de la langue et des masséters, des ovins et caprins âgés de moins de six mois ;
 
-- la rate des ovins et caprins quel que soit leur âge.
+- la tête entière, comprenant l'encéphale, les yeux et les amygdales, mais à l'exclusion de la langue et des muscles masséters, des ovins et caprins âgés de six mois et plus ;
+
+- la rate des ovins et caprins quel que soit leur âge ;
+
+- la moelle épinière des ovins et caprins âgés de douze mois et plus, et, à compter du 1er janvier 2002, la moelle épinière des ovins et caprins âgés de six mois et plus.
 
 ii) Les tissus suivants provenant d'animaux ayant pu être exposés à un risque spécifique de contamination par un agent d'une encéphalopathie spongiforme subaiguë transmissible (ESST) :
 
-- le crâne, y compris l'encéphale et les yeux, des ovins et caprins nés ou élevés au Royaume-Uni, quel que soit leur âge ;
+- la tête entière, la moelle épinière ainsi que les viscères thoraciques et abdominaux des ovins et caprins abattus dans le cadre des dispositions de l'arrêté du 28 mars 1997 fixant les mesures de police sanitaire relatives à la tremblante ovine et caprine ;
 
-- la tête entière, la moelle épinière ainsi que les viscères thoraciques et abdominaux des ovins et caprins abattus dans le cadre des dispositions de l'arrêté du 28 mars 1997 fixant les mesures de police sanitaire relatives à la tremblante ovine et caprine.
+- la tête entière, comprenant l'encéphale, les yeux et les amygdales, mais à l'exclusion de la langue et des muscles masséters, des ovins et caprins nés ou élevés au Royaume-Uni, quel que soit leur âge.
 
-iii) Les abats spécifiés suivants :
+iii) Les abats suivants :
 
-Le thymus, les amygdales et les intestins, y compris la graisse mésentérique, des bovins, quel que soit leur âge.
+- le thymus, les amygdales et les intestins, y compris la graisse mésentérique, des bovins quel que soit leur âge.
 
-q) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux de l'espèce bovine âgés de plus de trente mois soumis à un test de dépistage de l'encéphalopathie spongiforme bovine avec résultat positif ;
+q) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux de l'espèce bovine âgés de vingt-quatre mois et plus soumis à un test de dépistage de l'encéphalopathie spongiforme bovine avec résultat non négatif.
 
-r) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux de l'espèce bovine âgés de plus de trente mois non soumis à un test de dépistage de l'encéphalopathie spongiforme bovine.
+r) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux de l'espèce bovine âgés de vingt-quatre mois et plus non soumis à un test de dépistage de l'encéphalopathie spongiforme bovine.
 
-Les viandes et tous les sous-produits des animaux retirés de la consommation humaine pour des motifs visés au point a, viii) et ix), les abats visés au point p du présent article, les viandes et tous les sous-produits, y compris le cuir, visés aux points q et r du présent article ainsi que les viandes retirées de la consommation du fait de l'état sanitaire de l'animal dont elles proviennent ou du fait de la présence de résidus de substances susceptibles de mettre en danger la santé des personnes ou des animaux sont badigeonnés à l'aide d'une teinture avant leur enlèvement. Ils sont détruits par incinération ou, pour autant que la teinture soit détectable après traitement, traités puis incinérés ou utilisés comme combustible.
+s) Les viandes et tous les sous-produits, y compris le cuir, encore présents à l'abattoir, et consignés conformément à l'article 27.A, point 4, du présent arrêté provenant d'animaux de l'espèce bovine, originaires de la même exploitation qu'un bovin soumis à un test de dépistage de l'encéphalopathie spongiforme bovine avec résultat non négatif, confirmé par le centre de référence français pour les recherches relatives au diagnostic et à l'épidémiologie animale de l'encéphalopathie spongiforme bovine et identifiée à risque au regard de l'ESB conformément à l'arrêté du 3 décembre 1990 susvisé.
+
+t) Les viandes et tous les sous-produits, y compris le cuir, issus du bovin abattu avant et des deux bovins abattus après un bovin ayant présenté un résultat non négatif à un test de dépistage de l'encéphalopathie spongiforme bovine, en l'absence de réalisation du retrait de la moelle épinière préalablement à la fente longitudinale de la carcasse en deux demis, conformément aux dispositions de l'avant-dernier alinéa de l'article 15 du présent arrêté.
+
+Les viandes et tous les sous-produits des animaux retirés de la consommation humaine pour des motifs visés au point a, viii et ix, les matériels à risque spécifiés visés au point p du présent article, les viandes et tous les sous-produits, y compris le cuir, visés aux points q, r, s et t du présent article ainsi que les viandes retirées de la consommation du fait de l'état sanitaire de l'animal dont elles proviennent ou du fait de la présence de résidus de substances susceptibles de mettre en danger la santé des personnes ou des animaux sont badigeonnés à l'aide d'une teinture avant leur enlèvement. Ils sont détruits par incinération ou, pour autant que la teinture soit détectable après traitement, traités puis incinérés ou utilisés comme combustible.

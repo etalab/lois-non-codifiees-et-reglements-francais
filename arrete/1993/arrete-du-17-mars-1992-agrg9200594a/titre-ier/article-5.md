@@ -60,6 +60,8 @@ c) Des équipements pour la manutention hygiénique et la protection des viandes
 
 d) Des récipients spéciaux, étanches, en matériaux inaltérables, munis d'un couvercle et d'un système de fermeture empêchant les personnes non autorisées d'y puiser, destinés à recevoir des viandes non destinées à la consommation humaine, ou un local fermant à clef destiné à recevoir ces viandes si leur abondance le rend nécessaire ou si elles ne sont pas enlevées ou détruites à la fin de chaque journée de travail ; lorsque les viandes sont évacuées par des conduits, ces derniers doivent être construits et installés de manière à éviter tout risque de contamination des viandes fraîches.
 
+e) Dans les abattoirs d'animaux de l'espèce bovine, des dispositifs permettant d'assurer le retrait de la moelle épinière avant la découpe en demis par fente longitudinale de la colonne vertébrale des carcasses issues d'animaux âgés de douze mois et plus. Cette disposition est applicable au plus tard le 1er janvier 2002.
+
 5. Des équipements de réfrigération permettant de maintenir dans les viandes les températures internes exigées par le présent arrêté. Ces équipements doivent comporter un système d'écoulement raccordé à la canalisation des eaux usées permettant l'évacuation de l'eau de condensation d'une manière qui ne présente aucun danger de contamination des viandes.
 
 6. Une installation assurant l'approvisionnement en eau exclusivement potable, sous pression et en quantité suffisante.

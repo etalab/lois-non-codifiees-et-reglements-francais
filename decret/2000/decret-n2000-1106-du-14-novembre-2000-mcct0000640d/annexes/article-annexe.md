@@ -54,7 +54,7 @@ CAPITAL SOCIAL
 
 Article 5
 
-Le capital social est fixé à 98 millions de francs et divisé en 98 000 actions de 1 000 F chacune. Conformément au I de l'article 44 de la loi du 30 septembre 1986 précitée, il est entièrement détenu par la société France Télévision.
+Le capital social est fixé à 97 067 000 F et divisé en 97 067 actions de 1 000 F chacune. Conformément au I de l'article 44 de la loi du 30 septembre 1986 précitée, il est entièrement détenu par la société France Télévision.
 
 Les augmentations de capital ultérieures ne pourront résulter que d'une incorporation de réserves ou d'un nouvel apport de France Télévision. Elles seront soumises à une assemblée générale extraordinaire dont les résolutions seront approuvées par décret.
 
