@@ -4,4 +4,4 @@ Lorsque, à l'expiration du délai prévu à l'article 34, le ou les ayants droi
 
 Si les parts sociales sont cédées à un tiers [*acquéreur*] les dispositions de l'article 27 et celles de l'article 28 sont applicables.
 
-Si elles sont acquises par la société, les associés ou certains d'entre eux, il est procédé conformément aux dispositions des articles 28 (alinéa 6) et 29.
+Si elles sont acquises par la société, les associés ou certains d'entre eux, il est procédé conformément aux dispositions des articles 28 (alinéa 5) et 29.
