@@ -2,7 +2,7 @@
 
 Lorsque le conseil de discipline examine l'affaire au fond, son président porte, en début de séance, à la connaissance des membres du conseil les conditions dans lesquelles le fonctionnaire poursuivi et, le cas échéant, son ou ses défenseurs ont exercé leur droit à recevoir communication intégrale du dossier individuel et des documents annexes.
 
-Le rapport établi par l'autorité ayant pouvoir disciplinaire et les observations écrites éventuellement présentées par le fonctionnaire sont lus en séance.
+Le rapport établi par l'autorité ayant pouvoir disciplinaire ou par un chef de service déconcentré ayant reçu délégation de compétence à cet effet et les observations écrites éventuellement présentées par le fonctionnaire sont lus en séance.
 
 Le conseil de discipline entend séparément chaque témoin cité.
 
