@@ -1,0 +1,3 @@
+# Article 1
+
+Les médecins et pharmaciens étrangers autres que les ressortissants de la Communauté économique européenne et les Andorrans, titulaires d'un diplôme de médecin ou de pharmacien permettant l'exercice de la médecine ou de la pharmacie dans le pays d'obtention ou d'origine, à l'exception des diplômes délivrés en France, peuvent, dans les conditions prévues par le présent texte, suivre les enseignements théoriques des diplômes d'études spécialisées et effectuer en même temps des stages pratiques en vue d'obtenir un diplôme interuniversitaire de spécialisation de médecine ou de pharmacie portant mention de la spécialité du diplôme d'études spécialisées correspondant.
