@@ -1,6 +1,6 @@
 # Article 15
 
-Peuvent être également recrutés, sur leur demande, dans le corps des officiers des armes de l'armée de terre, au grade de lieutenant, les sous-officiers de carrière, les officiers de réserve et les candidats suivants :
+Peuvent être également recrutés, sur leur demande, dans le corps des officiers des armes de l'armée de terre, au grade de lieutenant, les sous-officiers de carrière et les officiers sous contrat dans les conditions suivantes :
 
 1° Au choix, sur proposition de la commission prévue à l'article 23 du présent décret, les majors, adjudants-chefs et adjudants de carrière des armes qui détiennent l'un des brevets militaires donnant accès à l'échelle de solde n° 4 et qui réunissent, au 1er janvier de l'année de leur nomination, douze années de service militaire dont au moins deux années depuis la date de promotion au grade d'adjudant. Les intéressés doivent être à cette date âgés de trente-six ans au moins et de quarante et un ans au plus. Ils ne peuvent pas faire plus de trois fois acte de candidature. Ils restent affectés à leur arme et prennent rang dans l'ordre suivant :
 
@@ -12,7 +12,7 @@ Lieutenants issus des adjudants,
 
 et, dans chacune de ces catégories, compte tenu de leur ancienneté respective dans leur grade de sous-officier et, s'il y a lieu, dans les grades précédents et, à égalité d'ancienneté, dans l'ordre décroissant des âges ;
 
-2° Les officiers de réserve du grade de sous-lieutenant ou de lieutenant qui ont été admis à un stage de formation au titre d'une arme et qui ont satisfait aux épreuves de fin de stage.
+2° Les officiers sous contrat du grade de sous-lieutenant ou de lieutenant qui ont été admis à un stage de formation au titre d'une arme et qui ont satisfait aux épreuves de fin de stage.
 
 Les intéressés font l'objet d'un classement qui détermine la prise de rang.
 
