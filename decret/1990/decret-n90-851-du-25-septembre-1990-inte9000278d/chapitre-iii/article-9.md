@@ -4,4 +4,4 @@ La titularisation des stagiaires intervient à la fin du stage par décision de 
 
 Lorsque la titularisation n'est pas prononcée, le stagiaire est soit licencié, soit, s'il avait auparavant la qualité de fonctionnaire, réintégré dans son grade d'origine.
 
-Toutefois, l'autorité territoriale peut, à titre exceptionnel et après avis du directeur de l'école dans laquelle le stagiaire a accompli sa formation initiale, décider que la période de stage est prolongée d'une durée maximale d'un an.
+Toutefois, le président du conseil d'administration du service départemental d'incendie et de secours peut décider que la période de stage est prolongée d'une durée maximale d'un an.

@@ -1,7 +1,11 @@
 # Article 2
 
-Les sapeurs-pompiers professionnels non officiers exercent leurs fonctions dans les services d'incendie et de secours mentionnés au deuxième alinéa de l'article 1er du décret n° 88-623 du 6 mai 1988. Ils sont placés pour l'exercice de leurs fonctions sous l'autorité des directeurs départementaux des services d'incendie et de secours, des chefs de corps de sapeurs-pompiers et de l'ensemble de leurs supérieurs hiérarchiques.
+Les sapeurs-pompiers professionnels non officiers exercent leurs fonctions dans les services d'incendie et de secours mentionnés à l'article L. 1424-1 du code général des collectivités territoriales pour l'accomplissement des missions définies à l'article L. 1424-2 du même code.
 
-Les sapeurs et caporaux sont des agents d'exécution qualifiés. Ils participent, en cette qualité, à la prévention des risques de toute nature, à la protection des personnes, des biens et de l'environnement contre les accidents, sinistres et catastrophes ainsi qu'aux activités de formation et à la gestion des services d'incendie et de secours dans lesquels ils sont affectés.
+Les sapeurs participent à ces missions en qualité d'équipier.
 
-Les sergents et adjudants assurent des fonctions d'agent de maîtrise dans ces mêmes domaines et, à ce titre, participent notamment à l'encadrement des sapeurs et caporaux.
+Les caporaux peuvent diriger une équipe de sapeurs-pompiers et effectuer des tâches d'équipier dans toutes les missions dévolues aux services d'incendie et de secours. Des fonctions de chef d'agrès de moyens de secours engageant une équipe peuvent leur être confiées.
+
+Les sergents et les adjudants exercent les fonctions de chef d'agrès. Ils coordonnent les interventions prévues à l'article L. 1424-42 du code général des collectivités territoriales. Les sergents peuvent en outre exercer les fonctions de chef d'équipe ou effectuer des tâches d'équipier. Les adjudants peuvent notamment exercer les fonctions de chef de groupe.
+
+Les sapeurs-pompiers professionnels non officiers participent aux activités de formation et peuvent se voir confier des tâches de gestion administrative et technique du service d'incendie et de secours auquel ils sont affectés.
