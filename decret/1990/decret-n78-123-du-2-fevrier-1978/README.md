@@ -6,3 +6,4 @@
 - [Chapitre III : Conditions financières.](chapitre-iii)
 - [Chapitre IV : Acquisitions de parts représentatives de biens fonciers.](chapitre-iv)
 - [Chapitre V : Dispositions diverses.](chapitre-v)
+- [Article 15](article-15.md)

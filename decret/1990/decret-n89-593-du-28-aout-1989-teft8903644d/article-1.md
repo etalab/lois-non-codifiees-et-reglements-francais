@@ -1,0 +1,5 @@
+# Article 1
+
+I. La production et l'utilisation, dans les établissements soumis aux dispositions de l'article L. 231-1 du code du travail, de préparations renfermant en poids plus de 0,1 p. 100, respectivement, de 2-naphtylamine et de ses sels (C.A.S. n° 91-59-8), de 4-aminobiphényle et de ses sels (C.A.S. n° 92-67-1), de benzidine et de ses sels (C.A.S. n° 92-87-5) et de 4-nitrodiphényle (C.A.S. n° 92-93-3) ne sont autorisées qu'à des fins exclusives soit de recherche, d'essai ou d'analyse scientifique, soit d'élimination de déchets au sens de l'article 1er de la loi du 15 juillet 1975 susvisée.
+
+II. Pour la détermination de la teneur en poids des substances mentionnées à l'alinéa précédent, les produits intermédiaires, c'est-à-dire les substances qui se forment au cours d'une réaction chimique, qui sont converties et qui disparaissent avant la fin de la réaction ou du procédé industriel, ne sont pas pris en compte lorsque les opérations de fabrication d'une préparation s'effectuent en système clos.

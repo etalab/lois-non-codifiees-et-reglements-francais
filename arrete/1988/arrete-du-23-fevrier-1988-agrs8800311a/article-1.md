@@ -10,10 +10,10 @@ Conformément aux dispositions de l'article 7 du décret du 23 février 1988 sus
 
 52 000 F dans le reste du territoire métropolitain.
 
-2° Les montants maximum s'élèvent à :
+2° Les montants maximums s'élèvent à :
 
-162 000 F dans les communes ou fractions de commune classées en zone de montagne en application du décret n° 77-566 du 3 juin 1977 modifié ;
+178 200 F dans les communes ou fractions de communes classées en zone de montagne en application du décret n° 77-566 du 3 juin 1977 modifié ;
 
-100 800 F en zone défavorisée au sens du décret n° 77-566 du 3 juin 1977 modifié, à l'exception des communes ou fractions de commune situées en zone de montagne ;
+110 880 F en zone défavorisée au sens du décret n° 77-566 du 3 juin 1977 modifié, à l'exception des communes ou fractions de communes situées en zone de montagne ;
 
-78 000 F dans le reste du territoire métropolitain.
+85 800 F dans le reste du territoire métropolitain.

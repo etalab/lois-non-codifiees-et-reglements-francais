@@ -4,7 +4,7 @@ Les inspecteurs de police promus au grade d'inspecteur principal sont classés c
 
 SITUATION ANCIENNE (grade et échelons)
 
-Inspecteur 8e échelon
+Inspecteur 7e échelon
 
 SITUATION NOUVELLE (grade et échelons)
 
@@ -14,7 +14,7 @@ Ancienneté : ancienneté maintenue dans la limite de deux ans.
 
 SITUATION ANCIENNE (grade et échelons)
 
-Inspecteur 7e échelon
+Inspecteur 6e échelon
 
 SITUATION NOUVELLE (grade et échelons)
 
@@ -24,7 +24,7 @@ Ancienneté : Sans ancienneté.
 
 SITUATION ANCIENNE (grade et échelons)
 
-Inspecteur 6e échelon
+Inspecteur 5e échelon
 
 SITUATION NOUVELLE (grade et échelons)
 
@@ -34,7 +34,7 @@ Ancienneté : Ancienneté maintenue.
 
 SITUATION ANCIENNE (grade et échelons)
 
-Inspecteur 5e échelon
+Inspecteur 4e échelon
 
 SITUATION NOUVELLE (grade et échelons)
 
@@ -44,7 +44,7 @@ Ancienneté : Ancienneté maintenue.
 
 SITUATION ANCIENNE (grade et échelons)
 
-Inspecteur 4e échelon
+Inspecteur 3e échelon
 
 SITUATION NOUVELLE (grade et échelons)
 
@@ -54,7 +54,7 @@ Ancienneté : Ancienneté maintenue.
 
 SITUATION ANCIENNE (grade et échelons)
 
-Inspecteur 3e échelon
+Inspecteur 2e échelon
 
 SITUATION NOUVELLE (grade et échelons)
 

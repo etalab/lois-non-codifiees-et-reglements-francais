@@ -1,7 +1,9 @@
 # Article 56
 
-Les offres sont placées sous double enveloppe cachetée. L'enveloppe extérieure, qui porte l'indication de l'appel d'offres auquel l'offre se rapporte, contient la déclaration de soumissionner et, le cas échéant, les justifications visées au 6° de l'article 52 du présent arrêté touchant les qualités et capacités exigées des soumissionnaires. L'enveloppe intérieure, sur laquelle est inscrit le nom du candidat, contient l'offre.
+Les candidats transmettent leurs offres sous double enveloppe cachetée. L'enveloppe extérieure, qui porte l'indication de l'appel d'offres auquel l'offre se rapporte, contient la déclaration de soumissionner et, le cas échéant, les justifications visées au 6° de l'article 52 touchant les qualités et les capacités exigées des soumissionnaires. L'enveloppe intérieure sur laquelle est inscrit le nom du candidat contient l'offre. Les plis contenant les offres doivent rester cachetés jusqu'au moment de leur ouverture dans les conditions fixées à l'article 57.
 
-Les plis contenant les offres doivent être envoyés par la poste et recommandés. Toutefois le règlement de la consultation peut en autoriser le dépôt dans une boîte à ce destinée.
+Ils sont envoyés par lettre recommandée avec demande d'avis de réception postale.
 
-A leur réception, les plis sont enregistrés dans leur ordre d'arrivée sur un registre spécial. Ils doivent rester cachetés jusqu'au moment de leur ouverture dans les conditions fixées à l'article 57. Ces prescriptions sont appliquées sous la responsabilité du directeur de l'organisme contractant.
+Toutefois, le règlement de la consultation peut autoriser toute autre forme de présentation et de remise des offres à condition qu'elle permette de déterminer la date et l'heure de cette dernière de façon certaine.
+
+A leur réception, les offres sont enregistrées dans leur ordre d'arrivée sur un registre spécial. Ces prescriptions sont appliquées sous la responsabilité du directeur de l'organisme contractant.

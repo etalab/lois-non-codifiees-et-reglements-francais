@@ -1,0 +1,5 @@
+# Article 2
+
+Pour l'exercice de leurs missions, les membres de l'inspection générale ont libre accès à toutes les administrations de l'Etat et collectivités publiques, à tous les services, établissements et institutions mentionnés à l'article 1er. Ils ont également libre accès aux institutions, oeuvres, associations et groupements de toute nature aux fins de procéder à toute vérification sur l'emploi des fonds reçus de l'Etat, des collectivités publiques, des organismes de sécurité sociale ou de prévoyance sociale soit au titre de prêts ou de subventions, soit à l'occasion de contrats passés avec eux.
+
+Les administrations de l'Etat, les collectivités publiques, les services, établissements, institutions, oeuvres, associations et groupements de toute nature mentionnés à l'alinéa précédent sont tenus de prêter leur concours aux membres de l'inspection générale, de leur fournir toutes justifications et tous renseignements utiles et de leur communiquer tous documents nécessaires à l'accomplissement de leurs missions.

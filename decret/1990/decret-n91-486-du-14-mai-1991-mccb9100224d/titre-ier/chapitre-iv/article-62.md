@@ -1,0 +1,3 @@
+# Article 62
+
+Peuvent être placés en position de détachement dans l'un des corps régis par le présent décret, après avis de la commission administrative paritaire du corps d'accueil, les fonctionnaires appartenant à d'autres corps, sous réserve qu'ils soient classés dans la même catégorie de la fonction publique, prévue à l'article 29 de la loi du 11 janvier 1984 susvisée, que le corps de détachement, qu'ils soient titulaires dans leur corps d'origine depuis trois ans au moins et qu'ils remplissent les conditions de qualification ou de diplôme requises pour l'accès au corps dans lequel ils demandent leur détachement.

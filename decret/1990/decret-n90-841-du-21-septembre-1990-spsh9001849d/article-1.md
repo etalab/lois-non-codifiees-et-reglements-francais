@@ -1,0 +1,3 @@
+# Article 1
+
+Dans les établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée, les fonctionnaires titulaires et stagiaires nommés soit dans le grade du corps des chefs de bureau, soit dans un des grades du corps des adjoints des cadres hospitaliers, soit dans un des grades du corps des secrétaires médicaux, mentionnés à l'article 1er du décret du 21 septembre 1990 susvisé, peuvent percevoir des indemnités forfaitaires représentatives de travaux supplémentaires. Ces indemnités sont allouées aux agents ci-dessus, parvenus à un échelon doté d'un indice supérieur à l'indice brut 390.

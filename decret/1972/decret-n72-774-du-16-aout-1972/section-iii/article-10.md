@@ -6,7 +6,7 @@ Peuvent être inscrits à ce tableau [*conditions d'inscription*] :
 
 A - Les inspecteurs comptant cinq années de services effectifs dans leur grade et ayant satisfait aux épreuves d'un examen professionnel, selon des modalités fixées par arrêté conjoint du ministre chargé de l'intérieur et du ministre chargé de la fonction publique ;
 
-B - Les inspecteurs ayant atteint le huitième échelon de leur grade, âgés d'au moins quarante ans au 1er janvier de l'année de leur nomination et justifiant à cette date de seize ans de services effectifs dans le grade d'inspecteur.
+B - Les inspecteurs ayant atteint le septième échelon de leur grade, âgés d'au moins quarante ans au 1er janvier de l'année de leur nomination et justifiant à cette date de seize ans de services effectifs dans le grade d'inspecteur.
 
 La période accomplie par les intéressés en qualité d'inspecteur stagiaire, à l'exclusion de la prolongation éventuelle du stage, est prise en compte dans le calcul des services effectifs.
 

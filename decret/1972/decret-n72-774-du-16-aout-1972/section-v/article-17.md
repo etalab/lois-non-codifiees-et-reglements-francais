@@ -1,243 +1,63 @@
 # Article 17
 
-Les officiers de police et les officiers de police adjoints sont reclassés dans le corps des inspecteurs de police conformément au tableau de correspondance ci-après :
+Les inspecteurs de police en fonctions à la date d'entrée en vigueur du présent décret sont reclassés conformément au tableau ci-après :
 
-ANCIENNE SITUATION (grades, classes et échelons) :
+SITUATION ANCIENNE
 
-Officier de police principal Echelon exceptionnel.
+SITUATION NOUVELLE
 
-NOUVELLE SITUATION (grades et échelons)
+Grade et échelons
 
-Inspecteur divisionnaire 4e échelon
+Ancienneté d'échelon
 
-Ancienneté d'échelon : ancienneté majorée de 1 an.
+Inspecteur
 
-ANCIENNE SITUATION (grades, classes et échelons) :
+Inspecteur
 
-Officier de police principal 4e échelon.
+8e échelon
 
-NOUVELLE SITUATION (grades et échelons)
+7e échelon
 
-Inspecteur divisionnaire 4e échelon
+Ancienneté maintenue.
 
-Ancienneté d'échelon : ancienneté maintenue dans la limite de 1 an.
+7e échelon
 
-ANCIENNE SITUATION (grades, classes et échelons) :
+6e échelon
 
-Officier de police principal 3e échelon.
+Ancienneté maintenue.
 
-NOUVELLE SITUATION (grades et échelons)
+6e échelon
 
-Inspecteur divisionnaire 3e échelon
+5e échelon
 
-Ancienneté d'échelon : ancienneté maintenue.
+Ancienneté maintenue.
 
-ANCIENNE SITUATION (grades, classes et échelons) :
+5e échelon
 
-Officier de police principal 2e échelon.
+4e échelon
 
-NOUVELLE SITUATION (grades et échelons)
+Ancienneté maintenue.
 
-Inspecteur divisionnaire 2e échelon
+4e échelon
 
-Ancienneté d'échelon : ancienneté maintenue.
+3e échelon
 
-ANCIENNE SITUATION (grades, classes et échelons) :
+Ancienneté maintenue.
 
-Officier de police principal 1er échelon.
+3e échelon
 
-NOUVELLE SITUATION (grades et échelons)
+2e échelon
 
-Inspecteur divisionnaire 1er échelon
+Ancienneté maintenue.
 
-Ancienneté d'échelon : ancienneté maintenue.
+2e échelon
 
-ANCIENNE SITUATION (grades, classes et échelons) :
+1er échelon
 
-Officier de police 7e échelon.
+Ancienneté maintenue.
 
-NOUVELLE SITUATION (grades et échelons)
+1er échelon
 
-Inspecteur principal 5e échelon
+1er échelon
 
-Ancienneté d'échelon : ancienneté maintenue dans la limite de 2 ans.
-
-ANCIENNE SITUATION (grades, classes et échelons) :
-
-Officier de police 6e échelon.
-
-NOUVELLE SITUATION (grades et échelons)
-
-Inspecteur principal 4e échelon
-
-Ancienneté d'échelon : ancienneté maintenue.
-
-ANCIENNE SITUATION (grades, classes et échelons) :
-
-Officier de police 5e échelon.
-
-NOUVELLE SITUATION (grades et échelons)
-
-Inspecteur principal 3e échelon
-
-Ancienneté d'échelon : ancienneté maintenue.
-
-ANCIENNE SITUATION (grades, classes et échelons) :
-
-Officier de police 4e échelon.
-
-NOUVELLE SITUATION (grades et échelons)
-
-Inspecteur principal 2e échelon
-
-Ancienneté d'échelon : ancienneté maintenue.
-
-ANCIENNE SITUATION (grades, classes et échelons) :
-
-Officier de police 3e échelon.
-
-NOUVELLE SITUATION (grades et échelons)
-
-Inspecteur principal 1er échelon
-
-Ancienneté d'échelon : ancienneté maintenue.
-
-ANCIENNE SITUATION (grades, classes et échelons) :
-
-Officier de police 2e échelon.
-
-NOUVELLE SITUATION (grades et échelons)
-
-Inspecteur principal 1er échelon
-
-Ancienneté d'échelon : Sans ancienneté.
-
-ANCIENNE SITUATION (grades, classes et échelons) :
-
-Officier de police 1er échelon.
-
-NOUVELLE SITUATION (grades et échelons)
-
-Inspecteur principal 1er échelon
-
-Ancienneté d'échelon : Sans ancienneté.
-
-ANCIENNE SITUATION (grades, classes et échelons) :
-
-Officier de police adjoint 1er classe, échelon exceptionnel.
-
-NOUVELLE SITUATION (grades et échelons)
-
-Inspecteur Echelon exceptionnel transitoire
-
-Ancienneté d'échelon : Ancienneté maintenue.
-
-ANCIENNE SITUATION (grades, classes et échelons) :
-
-Officier de police adjoint 3e échelon.
-
-NOUVELLE SITUATION (grades et échelons)
-
-Inspecteur 7e échelon
-
-Ancienneté d'échelon : Ancienneté maintenue majorée de 1 an.
-
-ANCIENNE SITUATION (grades, classes et échelons) :
-
-Officier de police adjoint 2e échelon.
-
-NOUVELLE SITUATION (grades et échelons)
-
-Inspecteur 7e échelon
-
-Ancienneté d'échelon : Ancienneté maintenue dans la limite de 1 an.
-
-ANCIENNE SITUATION (grades, classes et échelons) :
-
-Officier de police adjoint 1er échelon.
-
-NOUVELLE SITUATION (grades et échelons)
-
-Inspecteur 7e échelon
-
-Ancienneté d'échelon : Sans ancienneté.
-
-ANCIENNE SITUATION (grades, classes et échelons) :
-
-Officier de police adjoint 2e classe, 6e échelon.
-
-NOUVELLE SITUATION (grades et échelons)
-
-Inspecteur 6e échelon
-
-Ancienneté d'échelon : Ancienneté maintenue dans la limite de 2 ans majorée de 1 an.
-
-ANCIENNE SITUATION (grades, classes et échelons) :
-
-Officier de police adjoint 5e échelon.
-
-NOUVELLE SITUATION (grades et échelons)
-
-Inspecteur 5e échelon
-
-Ancienneté d'échelon : Ancienneté maintenue majorée de 1 an.
-
-ANCIENNE SITUATION (grades, classes et échelons) :
-
-Officier de police adjoint 4e échelon.
-
-NOUVELLE SITUATION (grades et échelons)
-
-Inspecteur 4e échelon
-
-Ancienneté d'échelon : Ancienneté maintenue.
-
-ANCIENNE SITUATION (grades, classes et échelons) :
-
-Officier de police adjoint 3e échelon.
-
-NOUVELLE SITUATION (grades et échelons)
-
-Inspecteur 3e échelon
-
-Ancienneté d'échelon : Ancienneté maintenue.
-
-ANCIENNE SITUATION (grades, classes et échelons) :
-
-Officier de police adjoint 2e échelon.
-
-NOUVELLE SITUATION (grades et échelons)
-
-Inspecteur 2e échelon
-
-Ancienneté d'échelon : Ancienneté maintenue.
-
-ANCIENNE SITUATION (grades, classes et échelons) :
-
-Officier de police adjoint 1er échelon.
-
-NOUVELLE SITUATION (grades et échelons)
-
-Inspecteur 1er échelon
-
-Ancienneté d'échelon : Ancienneté maintenue.
-
-ANCIENNE SITUATION (grades, classes et échelons) :
-
-Officier de police adjoint Stagiaire.
-
-NOUVELLE SITUATION (grades et échelons)
-
-Inspecteur stagiaire
-
-Ancienneté d'échelon : Ancienneté maintenue.
-
-ANCIENNE SITUATION (grades, classes et échelons) :
-
-Officier de police adjoint Elève.
-
-NOUVELLE SITUATION (grades et échelons)
-
-Inspecteur Elève :
-
-Ancienneté d'échelon : Ancienneté maintenue.
+Sans ancienneté.

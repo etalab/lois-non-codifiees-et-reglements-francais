@@ -1,0 +1,3 @@
+# Article 65
+
+Les termes " professeurs des universités - praticiens hospitaliers des centres de soins, d'enseignement et de recherche dentaires " et " maîtres de conférences des universités - praticiens hospitaliers des centres de soins, d'enseignement et de recherche dentaires " sont substitués à ceux de " professeurs des universités - odontologistes adjoints des services de consultations ou de traitements dentaires " et de " chefs de travaux des universités - odontologistes adjoints des services de consultations et de traitements dentaires " dans tous les textes où figurent ces derniers termes.

@@ -1,0 +1,11 @@
+# Article 6
+
+Les assistants hospitaliers universitaires des centres de soins, d'enseignement et de recherche dentaires sont nommés pour deux ans par décision conjointe du directeur de l'unité de formation et de recherche d'odontologie et du directeur général du centre hospitalier régional.
+
+Ils peuvent être maintenus en fonctions pour une période d'un an, renouvelable une fois pour une durée égale si l'état d'avancement de leurs travaux de recherche le justifie.
+
+Lorsque le renouvellement dans leurs fonctions n'a pas été accordé à l'issue de l'une des périodes prévues aux premier et deuxième alinéas ci-dessus, ou lorsqu'ils ont accompli quatre ans de fonctions, ils ne peuvent faire acte de candidature à un autre emploi d'assistant hospitalier universitaire des centres de soins, d'enseignement et de recherche dentaires.
+
+La durée totale des fonctions d'un assistant hospitalier universitaire des centres de soins, d'enseignement et de recherche dentaires nommé dans un autre emploi du même établissement ou d'un autre établissement ne peut dépasser les limites fixées aux premier et deuxième alinéas ci-dessus.
+
+Pour porter le titre d'ancien assistant hospitalier universitaire des centres de soins, d'enseignement et de recherche dentaires, il est nécessaire de justifier d'au moins deux ans de fonctions effectives en cette qualité.
