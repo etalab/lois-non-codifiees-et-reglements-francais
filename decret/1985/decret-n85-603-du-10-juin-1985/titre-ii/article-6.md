@@ -1,6 +1,6 @@
 # Article 6
 
-Une formation pratique et appropriée en matière d'hygiène et de sécurité est organisée :
+En application du 2° (b) de l'article 1er de la loi du 12 juillet 1984 précitée une formation pratique et appropriée en matière d'hygiène et de sécurité est organisée :
 
 1° Lors de l'entrée en fonctions des agents ;
 

@@ -5,3 +5,5 @@ Les médecins du service de médecine professionnelle et préventive sont habili
 Ils peuvent également proposer des aménagements temporaires de postes de travail ou de conditions d'exercice des fonctions au bénéfice des femmes enceintes.
 
 Lorsque l'autorité territoriale ne suit pas l'avis du service de médecine professionnelle et préventive, sa décision doit être motivée et le comité d'hygiène ou, à défaut, le comité technique paritaire doit en être tenu informé.
+
+En cas de contestation par les agents intéressés des propositions formulées par les médecins du service de médecine professionnelle et préventive, l'autorité territoriale peut saisir pour avis le médecin inspecteur régional du travail et de la main-d'oeuvre territorialement compétent.
