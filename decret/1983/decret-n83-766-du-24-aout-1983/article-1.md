@@ -28,4 +28,10 @@ La rééducation de l'aphasie, de l'alexie, de l'acalculie, de l'agraphie ;
 
 La rééducation de la déglutition ;
 
-L'apprentissage de la voie oesophagienne.
+L'apprentissage de la voix-oesophagienne ;
+
+La rééducation du bégaiement ;
+
+La rééducation tubaire dans le cadre des traitements des anomalies de la voix, de la parole et du langage oral ou écrit.
+
+Tous ces actes doivent être accompagnés, en tant que de besoin, de conseils appropriés à l'entourage proche du patient.
