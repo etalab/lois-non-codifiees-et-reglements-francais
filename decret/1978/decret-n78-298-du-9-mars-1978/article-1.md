@@ -1,0 +1,3 @@
+# Article 1
+
+Les droits et émoluments perçus par les avocats en vertu d'un tarif réglementaire, les notaires, les avoués près les cours d'appel, les huissiers de justice en matière civile et commerciale, les commissaires-priseurs, les greffiers des tribunaux de commerce, les syndics et administrateurs judiciaires, ainsi que les administrateurs judiciaires et les mandataires-liquidateurs prévus par la loi n° 85-99 du 25 janvier 1985, à l'exclusion des indemnités prévues par la loi n° 72-11 du 3 janvier 1972 modifiée relative à l'aide judiciaire et à l'indemnisation des commissions et désignations d'office, sont fixés ou révisés après avis de la commission supérieure des tarifs.
