@@ -1,9 +1,7 @@
 # Article 1
 
-Les personnels contractuels techniques et administratifs du ministère de l'équipement et du logement chargés d'études de haut niveau au service des affaires économiques et internationales et au service d'études techniques des routes et autoroutes sont classés dans l'un des niveaux suivants:
+Les délégués du service de la protection des végétaux qui participent aux opérations de contrôle phytosanitaire à l'importation les jours ouvrables pendant l'horaire légal de travail sont rémunérés au temps passé dans la limite de huit vacations horaires par jour.
 
-Niveau A 1: cinq échelons.
+Le taux de la vacation horaire est égal au taux de l'indemnité horaire pour travaux supplémentaires d'une durée inférieure à quatorze heures par mois susceptible d'être attribuée, dans la zone d'indemnité de résidence du lieu où s'effectue le contrôle, aux fonctionnaires titulaires de l'Etat dotés de l'indice hiérarchique brut 110.
 
-Niveau A 2: neuf échelons.
-
-Niveau A 3: onze échelons.
+Ce taux est réduit de moitié pour les délégués qui ont la qualité de fonctionnaire.

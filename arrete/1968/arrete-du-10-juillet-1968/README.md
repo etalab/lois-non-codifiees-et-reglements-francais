@@ -1,8 +1,9 @@
-# Arrêté du 10 juillet 1968 fixant les conditions de recrutement et de rémunération des personnels contractuels techniques et administratifs du ministère de l'équipement et du logement chargés d'études de haut niveau au service des affaires économiques et internationales et au service d'études techniques des routes et autoroutes
+# Arrêté du 10 juillet 1968 fixant les conditions de rémunération des contrôleurs et des délégués du service de la protection des végétaux chargés des opérations de contrôle phytosanitaire à l'importation.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
+- [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
