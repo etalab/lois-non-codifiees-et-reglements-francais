@@ -672,7 +672,6 @@
 - [Décret n°95-292 du 16 mars 1995 (SPSH9500005D)](decret-n95-292-du-16-mars-1995-spsh9500005d)
 - [Décret n°95-311 du 16 mars 1995 (BUDF9520839D)](decret-n95-311-du-16-mars-1995-budf9520839d)
 - [Décret n°95-312 du 16 mars 1995 (AGRS9500187D)](decret-n95-312-du-16-mars-1995-agrs9500187d)
-- [Décret n°95-44 du 16 janvier 1995 (INTC9500010D)](decret-n95-44-du-16-janvier-1995-intc9500010d)
 - [Décret n°95-51 du 16 janvier 1995 (ENVC9530003D)](decret-n95-51-du-16-janvier-1995-envc9530003d)
 - [Décret n°95-53 du 16 janvier 1995 (COPC9400005D)](decret-n95-53-du-16-janvier-1995-copc9400005d)
 - [Décret n°95-67 du 16 janvier 1995 (SPSS9403450D)](decret-n95-67-du-16-janvier-1995-spss9403450d)

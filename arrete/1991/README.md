@@ -852,7 +852,6 @@
 - [Arrêté du 27 mars 1991 (SANH9100885A)](arrete-du-27-mars-1991-sanh9100885a)
 - [Arrêté du 27 novembre 1991 (BUDD9150016A)](arrete-du-27-novembre-1991-budd9150016a)
 - [Arrêté du 27 novembre 1991 (EQUC9101692A)](arrete-du-27-novembre-1991-equc9101692a)
-- [Arrêté du 27 novembre 1991 (PTTR9100394A)](arrete-du-27-novembre-1991-pttr9100394a)
 - [Arrêté du 27 septembre 1991 (AGRS9102067A)](arrete-du-27-septembre-1991-agrs9102067a)
 - [Arrêté du 27 septembre 1991 (ECOT9113520A)](arrete-du-27-septembre-1991-ecot9113520a)
 - [Arrêté du 27 septembre 1991 (SPSH9102267A)](arrete-du-27-septembre-1991-spsh9102267a)
