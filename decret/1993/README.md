@@ -58,6 +58,7 @@
 - [Décret n°93-835 du 3 juin 1993 (SPSS9301247D)](decret-n93-835-du-3-juin-1993-spss9301247d)
 - [Décret n°93-990 du 3 août 1993 (ECOM9300134D)](decret-n93-990-du-3-aout-1993-ecom9300134d)
 - [Décret n°94-675 du 3 août 1994 (SPSG9401196D)](decret-n94-675-du-3-aout-1994-spsg9401196d)
+- [Décret n°79-868 du 4 octobre 1979](decret-n79-868-du-4-octobre-1979)
 - [Décret n°92-494 du 4 juin 1992 (EQUS9200379D)](decret-n92-494-du-4-juin-1992-equs9200379d)
 - [Décret n°93-10 du 4 janvier 1993 (BUDF9200061D)](decret-n93-10-du-4-janvier-1993-budf9200061d)
 - [Décret n°93-11 du 4 janvier 1993 (BUDF9200051D)](decret-n93-11-du-4-janvier-1993-budf9200051d)
