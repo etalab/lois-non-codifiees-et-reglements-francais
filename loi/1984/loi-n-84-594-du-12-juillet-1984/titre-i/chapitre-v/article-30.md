@@ -1,8 +1,6 @@
 # Article 30
 
-Une commission présidée par le président du conseil supérieur de la fonction publique territoriale ou son représentant répartit les agents du centre de formation des personnels communaux, sans qu'il puisse être procédé à un dégagement des cadres. Cette répartition est faite entre le centre national de formation, les centres régionaux de formation, le Centre national de gestion, les centres régionaux de gestion et les centres départementaux de gestion. Elle est également faite entre les communes, les départements, les régions et leurs établissements publics qui en font la demande.
-
-Pour leur répartition, il est tenu compte de l'affectation géographique des agents et de leurs souhaits.
+Une commission présidée par le président du conseil supérieur de la fonction publique territoriale ou son représentant répartit les agents du centre de formation des personnels communaux, sans qu'il puisse être procédé à un dégagement des cadres. Cette répartition est faite entre le centre national de formation, les centres régionaux de formation, le centre national de gestion, et les centres départementaux de gestion. Elle est également faite entre les communes, les départements, les régions et leurs établissements publics qui en font la demande.    Pour leur répartition, il est tenu compte de l'affectation géographique des agents et de leurs souhaits.
 
 Les agents conservent les avantages qu'ils ont individuellement acquis en matière de rémunération et de retraite.
 
