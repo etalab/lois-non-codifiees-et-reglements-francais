@@ -12,8 +12,4 @@ Le directeur général de l'Office national des anciens combattants et victimes 
 
 - assistants de service social, par dérogation aux dispositions de l'article 6 du décret n° 91-783 du 1er août 1991 susvisé ;
 
-- conseillers techniques de service social, par dérogation aux dispositions de l'article 6 du décret n° 91-784 du 1er août 1991 susvisé ;
-
-- secrétaires administratifs des services départementaux de l'Office national des anciens combattants et victimes de guerre, par dérogation aux dispositions de l'article 7 du décret n° 94-1017 du 18 novembre 1994 susvisé.
-
-L'intégration des fonctionnaires de catégorie B ou de même niveau, placés en position de détachement dans le corps des secrétaires administratifs des services départementaux de l'Office national des anciens combattants et victimes de guerre, est prononcée par le directeur général de l'office national, par dérogation aux dispositions de l'article 13 du décret n° 94-1016 du 18 novembre 1994 susvisé.
+- conseillers techniques de service social, par dérogation aux dispositions de l'article 6 du décret n° 91-784 du 1er août 1991 susvisé.
