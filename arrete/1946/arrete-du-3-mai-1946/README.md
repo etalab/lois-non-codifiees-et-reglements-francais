@@ -4,7 +4,6 @@
 - [Chapitre II : Elections des membres des conseils régionaux](chapitre-ii)
 - [Chapitre III : Elections des membres du conseil central de la section A](chapitre-iii)
 - [Chapitre IV : Election des membres des conseils centraux des sections B, C et D](chapitre-iv)
-- [Chapitre V : Election des membres du conseil national de l'ordre des pharmaciens](chapitre-v)
 - [Chapitre VI : Election des membres du conseil national de l'ordre des pharmaciens](chapitre-vi)
 - [Chapitre VI bis : Election des membres du conseil national de l'ordre des pharmaciens.](chapitre-vi-bis)
 - [Chapitre VII : Contentieux électoral](chapitre-vii)
