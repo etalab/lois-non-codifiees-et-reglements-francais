@@ -5,6 +5,7 @@
 - [Arrêté du 3 septembre 1966](arrete-du-3-septembre-1966)
 - [Arrêté du 6 avril 1970](arrete-du-6-avril-1970)
 - [Arrêté du 6 juin 1966](arrete-du-6-juin-1966)
+- [Arrêté du 7 juillet 1966](arrete-du-7-juillet-1966)
 - [Arrêté du 13 mai 1966](arrete-du-13-mai-1966)
 - [Arrêté du 14 novembre 1969](arrete-du-14-novembre-1969)
 - [Arrêté du 15 juin 1966](arrete-du-15-juin-1966)
