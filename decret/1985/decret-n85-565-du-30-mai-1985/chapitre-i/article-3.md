@@ -1,9 +1,9 @@
 # Article 3
 
-Pour les comités techniques paritaires fonctionnant dans une région, une commune ou un établissement public communal ou intercommunal, la durée du mandat expire au plus tard trois mois après le renouvellement de l'organe délibérant.
+Le mandat des représentants du personnel expire une semaine après la date des élections organisées pour leur renouvellement.
 
-Pour les autres comités techniques paritaires, la durée du mandat est fixé à six ans.
+" Le mandat des représentants des collectivités territoriales et de leurs établissements expire en même temps que leur mandat ou fonction ou à la date du renouvellement total ou partiel de l'organe délibérant de la collectivité ou de l'établissement.
 
-Ces mandats sont renouvelables.
+" Les mandats au sein du comité technique paritaire sont renouvelables.
 
-Les collectivités et établissements peuvent procéder à tout moment, et pour le reste du mandat à accomplir, au remplacement de leurs représentants.
+" Les collectivités et établissements peuvent procéder à tout moment, et pour la suite du mandat à accomplir, au remplacement de leurs représentants. "
