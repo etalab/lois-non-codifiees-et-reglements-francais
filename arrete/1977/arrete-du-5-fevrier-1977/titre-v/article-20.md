@@ -2,27 +2,11 @@
 
 Les viandes découpées provenant de volailles abattues dans un abattoir agréé pour l'exportation, préparées dans un atelier de découpage satisfaisant aux normes sanitaires du présent arrêté et reconnues propres à la consommation humaine après inspection du service vétérinaire de l'établissement, font l'objet d'un marquage de salubrité ; ce marquage est effectué par les exploitants, à leurs frais, sous contrôle du vétérinaire-inspecteur de l'établissement, à l'aide des marques ou estampilles et selon les modalités ci-dessous définies :
 
-A. - Estampilles et marques :
+A. - Marque de salubrité :
 
-Les estampilles et marques comprennent :
+Dans la mesure où les volailles dont sont issues les viandes répondent aux exigences de police sanitaire fixées pour les échanges intracommunautaires, le marquage de salubrité est réalisé à l'aide de la marque communautaire de salubrité telle que définie par l'arrêté du 28 juin 1994 relatif à l'identification et à l'agrément sanitaire des établissements mettant sur le marché des denrées animales ou d'origine animale et au marquage de salubrité.
 
-1° L'estampille adhésive :
-
-L'estampille adhésive est constituée d'un matériau répondant à toutes les exigences de l'hygiène. Elle porte, inscrites en rouge dans un ovale à fond blanc, ou incolore et transparent, bordé d'un trait rouge, les mentions suivantes en caractères de 0,2 centimètre de hauteur :
-
-Dans la partie supérieure, les deux majuscules FR ;
-
-Au centre, le numéro d'immatriculation de l'atelier de découpage ;
-
-Dans la partie inférieure, le sigle C.E.E..
-
-2° La reproduction de l'estampille imprimée sur les enveloppes de conditionnement ou sur l'étiquette commerciale, cette reproduction a les mêmes caractéristiques et porte les mêmes indications que l'estampille adhésive.
-
-3° L'étiquette :
-
-L'étiquette porte, inscrites en rouge dans un ovale à fond blanc bordé d'un trait rouge et ayant 6,5 centimètres de largeur et 4,5 centimètres de hauteur, les mêmes indications que celles figurant sur l'estampille adhésive en caractères d'une hauteur de 0,8 centimètre pour les lettres et de 1,1 centimètre pour les chiffres.
-
-Les marques et estampilles visées au présent article ainsi que les enveloppes dans la mesure où elles ont été revêtues de ces marques, sont détenues et conservées par le vétérinaire inspecteur de l'établissement et remises au personnel au fur et à mesure des besoins.
+Le vétérinaire inspecteur de l'établissement contrôle les marques et estampilles ainsi que le matériel de conditionnement revêtu de la marque de salubrité.
 
 B. - Modalités de marquage de salubrité :
 

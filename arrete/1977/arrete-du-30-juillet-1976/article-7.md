@@ -1,6 +1,6 @@
 # Article 7
 
-A titre transitoire, les carcasses de volailles effilées ou non vidées préparées dans les abattoirs agréés C.E.E. et les carcasses de volailles éviscérées, effilées ou non vidées préparées dans les autres centres d'abattage sont estampillées de la façon suivante :
+A titre transitoire, les carcasses de volailles non vidées préparées dans les abattoirs agréés C.E.E. et les carcasses de volailles éviscérées, effilées ou non vidées préparées dans les autres centres d'abattage sont estampillées de la façon suivante :
 
 a) Quand elles ne sont pas conditionnées sous emballage individuel, elles reçoivent :
 

@@ -14,13 +14,7 @@
 
 Toutefois, lorsqu'une unité d'expédition de produits conditionnés est contenue dans un emballage transparent, la marque de salubrité sur l'emballage n'est pas exigée si la marque de salubrité sur les produits conditionnés est clairement visible à travers l'emballage.
 
-4. a) La marque de salubrité doit comporter les indications suivantes qui sont entourées d'une bande ovale selon le modèle suivant :
-
-- dans la partie supérieure, le nom "France", en majuscules, ou la lettre "F" ;
-
-- au centre, le numéro d'agrément de l'établissement ou du centre de reconditionnement, constitué du numéro minéralogique du département d'implantation de l'établissement suivi d'un numéro d'ordre. Ce numéro est suivi de la lettre "D" ;
-
-- dans la partie inférieure le sigle C.E.E. "France 01-01 D C.E.E." ;
+4 a) Le marquage de salubrité est réalisé à l'aide de la marque communautaire de salubrité telle que définie par l'arrêté du 28 juin 1994 relatif à l'identification et à l'agrément des établissements mettant sur le marché des denrées animales ou d'origine animale et au marquage de salubrité.
 
 b) La marque de salubrité peut être apposée à l'aide d'un tampon encreur ou au feu sur le produit, le conditionnement ou l'emballage, ou être imprimée ou portée sur une étiquette. Pour autant qu'elle soit apposée sur l'emballage, l'estampille doit être détruite lors de l'ouverture de l'emballage. La non-destruction de cette estampille ne peut être tolérée que lorsque l'ouverture de l'emballage détruit celui-ci. Pour les produits contenus dans des récipients hermétiquement clos, l'estampille doit être appliquée de manière indélébile sur le couvercle ou la boîte ;
 

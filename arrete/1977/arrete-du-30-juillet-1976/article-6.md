@@ -2,7 +2,7 @@
 
 Les carcasses de volailles éviscérées et les abats, reconnus propres à la consommation humaine, préparés dans des abattoirs agréés C.E.E. selon les prescriptions fixées par les réglementations communautaires, font l'objet d'un marquage de salubrité effectué sous la responsabilité du vétérinaire inspecteur de l'établissement qui détient et conserve les marques et estampilles ainsi que les étiquettes et les enveloppes dans la mesure où elles ont été revêtues des marques prévues à l'article 4.
 
-Le marquage de salubrité doit être réalisé :
+Dans la mesure où les volailles dont sont issues les viandes répondent aux exigences de police sanitaire fixées pour les échanges intracommunautaires, le marquage de salubrité est réalisé.
 
 a) Pour les carcasses emballées individuellement ou les abats conditionnés en petites quantités :
 
