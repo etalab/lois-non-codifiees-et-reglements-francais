@@ -4,7 +4,7 @@ Les demandes d'inscription sur la liste de qualification aux fonctions de maîtr
 
 Après examen des dossiers présentés, la section compétente du Conseil national des universités arrête, par ordre alphabétique, la liste de qualification aux fonctions de maître de conférences du Muséum national d'histoire naturelle. Les candidatures non retenues font l'objet d'un rapport motivé.
 
-Les candidats dont la qualification a fait l'objet de deux refus successifs de la part d'une même section du Conseil national des universités peuvent saisir de leur candidature la commission de groupe compétente du Conseil national des universités. Cette formation se prononce dans les mêmes conditions de procédure que la section compétente du Conseil national des universités.
+Les candidats dont la qualification a fait l'objet de deux refus successifs de la part d'une même section du Conseil national des universités peuvent saisir de leur candidature le groupe compétent du Conseil national des universités en formation restreinte aux bureaux de section. Cette formation se prononce dans les mêmes conditions de procédure que la section compétente du Conseil national des universités.Elle procède toutefois à l'audition des candidats.
 
 La liste de qualification aux fonctions de maître de conférences du Muséum national d'histoire naturelle est rendue publique.
 

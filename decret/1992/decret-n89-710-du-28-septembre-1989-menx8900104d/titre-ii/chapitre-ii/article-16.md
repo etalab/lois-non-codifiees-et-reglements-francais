@@ -1,47 +1,37 @@
 # Article 16
 
-L'avancement d'échelon dans la 1re et la 2e classe [*première et deuxième*] du corps des directeurs d'études de l'Ecole pratique des hautes études et de l'Ecole nationale des chartes a lieu à l'ancienneté. Il est prononcé par arrêté du ministre chargé de l'enseignement supérieur. L'ancienneté requise pour accéder aux divers échelons de ces deux classes est fixée ainsi qu'il suit :
+L'avancement d'échelon dans la 1re et la 2e classe du corps des directeurs d'études de l'Ecole pratique des hautes études et de l'Ecole nationale des chartes a lieu à l'ancienneté. Il est prononcé par arrêté du ministre chargé de l'enseignement supérieur. L'ancienneté requise pour accéder aux divers échelons de ces deux classes est fixée ainsi qu'il suit :
 
-CLASSES       I ANCIENNETE
+CLASSE et avancement : 1re classe ; Du 2e au 3e échelon
 
-et avancement l REQUISE
+ANCIENNETE REQUISE pour l'accès à l'échelon supérieur : 4 ans 4 mois
 
-d'échelon     l pour l'accès
+CLASSE et avancement : 1re classe ; Du 1e au 2e échelon
 
-l à l'échelon
+ANCIENNETE REQUISE pour l'accès à l'échelon supérieur : 4 ans 4 mois
 
-l supérieur
+CLASSE et avancement : 2e classe ; Du 5e au 6e échelon
 
---------------l-----------------    1re classe l
+ANCIENNETE REQUISE pour l'accès à l'échelon supérieur : 5 ans
 
-Du 2e  au 3e  l
+CLASSE et avancement : 2e classe ; Du 4e au 5e échelon
 
-échelon.      l 4 ans 4 mois
+ANCIENNETE REQUISE pour l'accès à l'échelon supérieur : 1 an
 
-Du 1er au 2e l
+CLASSE et avancement : 2e classe ; Du 3e au 4e échelon
 
-échelon.      l 4 ans 4 mois
+ANCIENNETE REQUISE pour l'accès à l'échelon supérieur : 1 an
 
-2e classe  l
+CLASSE et avancement : 2e classe ; Du 2e au 3e échelon
 
-Du 5e  au 6e  l
+ANCIENNETE REQUISE pour l'accès à l'échelon supérieur : 1 an
 
-échelon.      l 5 ans
+CLASSE et avancement : 2e classe ; Du 1e au 2e échelon
 
-Du 4e  au 5e  l
+ANCIENNETE REQUISE pour l'accès à l'échelon supérieur : 1 an
 
-échelon.      l 1 an
+Une bonification d'ancienneté d'un an prise en compte pour l'avancement d'échelon est accordée, sur leur demande, aux directeurs d'études de l'Ecole pratique des hautes études et de l'Ecole nationale des chartes qui ont accompli en cette qualité une mobilité au moins égale à deux ans ou à un an si la mobilité est effectuée dans un organisme d'enseignement supérieur ou de recherche d'un Etat de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen autre que la France. Cette bonification ne peut être accordée aux directeurs d'études de l'Ecole pratique des hautes études et de l'Ecole nationale des chartes qui ont déjà bénéficié d'une bonification d'ancienneté au titre de la mobilité.
 
-Du 3e  au 4e  l
+Sont seuls considérés comme ayant satisfait à la mobilité les directeurs d'études de l'Ecole pratique des hautes études et de l'Ecole nationale des chartes qui ont exercé des fonctions d'enseignant-chercheur ou une activité de recherche ou une autre activité professionnelle à temps plein après mise en congé pour recherches ou conversions thématiques ou mise en position de détachement, de disponibilité ou de délégation selon les modalités prévues aux b, c et d de l'article 14 du décret du 6 juin 1984 susvisé.
 
-échelon.      l 1 an
-
-Du 2e  au 3e  l
-
-échelon.      l 1 an
-
-Du 1er au 2e  l
-
-échelon.      l 1 an
-
---------------------------------
+Les bonifications mentionnées au présent article prennent effet le premier jour du mois suivant la demande.

@@ -1,11 +1,11 @@
 # Article 30
 
-L'effectif de la hors-classe du corps des maîtres de conférences de l'Ecole des hautes études en sciences sociales ne peut être supérieur à 8 p. 100 [*pourcentage*] de l'effectif budgétaire total de ce corps.
+L'effectif de la hors-classe du corps des maîtres de conférences de l'Ecole des hautes études en sciences sociales ne peut être supérieur à 8 p. 100 de l'effectif budgétaire total de ce corps.
 
-L'avancement de la 1re [*première*] classe à la hors-classe des maîtres de conférences de l'école se fait au choix. Il est prononcé, dans les conditions de procédure prévues au deuxième alinéa de l'article 29, par arrêté du ministre chargé de l'enseignement supérieur.
+L'avancement de la classe normale à la hors-classe des maîtres de conférences de l'école se fait au choix dans la limite des emplois budgétaires vacants de maîtres de conférences de hors-classe parmi les maîtres de conférences remplissant les conditions définies au présent article. Il est prononcé par arrêté du ministre chargé de l'enseignement supérieur, sur proposition de la commission mentionnée à l'article 24 ci-dessus, réunie dans une formation restreinte aux enseignants-chercheurs et personnels assimilés qui exercent dans l'établissement.
 
-Peuvent seuls être promus à la hors-classe les maîtres de conférences de l'école parvenus au 4e [*quatrième*] échelon de la 1re classe et ayant accompli au moins cinq ans [*durée minimum*] de service en position d'activité dans ce corps en position de détachement pour exercer des fonctions d'enseignant-chercheur.
+Peuvent seuls être promus à la hors-classe les maîtres de conférences de l'école parvenus au 7e échelon de la classe normale et ayant accompli au moins cinq ans de service en position d'activité dans ce corps en position de détachement pour exercer des fonctions d'enseignant-chercheur.
 
-Les maîtres de conférences de l'école de 1re classe promus à la hors-classe sont classés à l'échelon comportant un indice de rémunération égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur grade d'origine.
+Les maîtres de conférences de l'école de classe normale promus à la hors-classe sont classés à l'échelon comportant un indice de rémunération égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur grade d'origine.
 
 Lorsque l'application des dispositions du présent article n'entraîne pas d'augmentation de traitement, les intéressés conservent l'ancienneté qu'ils avaient acquise, dans la limite de l'ancienneté exigée pour une promotion à l'échelon supérieur dans leur nouveau grade.
