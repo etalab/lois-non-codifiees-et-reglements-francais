@@ -15,7 +15,6 @@
 - [Décret n°79-1039 du 3 décembre 1979](decret-n79-1039-du-3-decembre-1979)
 - [Décret n°79-1040 du 3 décembre 1979](decret-n79-1040-du-3-decembre-1979)
 - [Décret n°79-530 du 3 juillet 1979](decret-n79-530-du-3-juillet-1979)
-- [Décret n°79-541 du 3 juillet 1979](decret-n79-541-du-3-juillet-1979)
 - [Décret n°79-554 du 3 juillet 1979](decret-n79-554-du-3-juillet-1979)
 - [Décret n°79-607 du 3 juillet 1979](decret-n79-607-du-3-juillet-1979)
 - [Décret n°79-867 du 3 octobre 1979](decret-n79-867-du-3-octobre-1979)
