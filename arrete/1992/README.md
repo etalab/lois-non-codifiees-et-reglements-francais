@@ -99,7 +99,6 @@
 - [Arrêté du 2 septembre 1992 (INTB9200407A)](arrete-du-2-septembre-1992-intb9200407a)
 - [Arrêté du 2 septembre 1992 (SPSG9202287A)](arrete-du-2-septembre-1992-spsg9202287a)
 - [Arrêté du 3 août 1990 (DEFP9001711A)](arrete-du-3-aout-1990-defp9001711a)
-- [Arrêté du 3 août 1992 (AGRG9201132A)](arrete-du-3-aout-1992-agrg9201132a)
 - [Arrêté du 3 août 1992 (DEFP9201715A)](arrete-du-3-aout-1992-defp9201715a)
 - [Arrêté du 3 août 1992 (SANP9202086A)](arrete-du-3-aout-1992-sanp9202086a)
 - [Arrêté du 3 août 1992 (SPSG9202195A)](arrete-du-3-aout-1992-spsg9202195a)
