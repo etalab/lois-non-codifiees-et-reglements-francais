@@ -35,3 +35,4 @@
 - [Loi n°82-659 du 30 juillet 1982](loi-n82-659-du-30-juillet-1982)
 - [Loi n°82-660 du 30 juillet 1982](loi-n82-660-du-30-juillet-1982)
 - [Loi n°82-684 du 4 août 1982](loi-n82-684-du-4-aout-1982)
+- [Loi n°82-899 du 20 octobre 1982](loi-n82-899-du-20-octobre-1982)
