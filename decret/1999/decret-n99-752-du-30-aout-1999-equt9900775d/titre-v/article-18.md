@@ -8,6 +8,6 @@ Pendant toute la durée du retrait temporaire des titres administratifs de trans
 
 Lorsque le préfet constate qu'une infraction de nature délictuelle figurant parmi celles mentionnées au II de l'article 2, commise après au moins une infraction de même nature, a été relevée, il peut prononcer l'immobilisation d'un ou de plusieurs véhicules de l'entreprise pour une durée de trois mois au plus, aux frais de l'entreprise. La décision du préfet précise le lieu de l'immobilisation, sa durée et les modalités du contrôle exercé par les agents de l'Etat.
 
-Les décisions de retrait et d'immobilisation sont prises après avis de la commission des sanctions administratives du comité régional des transports.
+Les décisions de retrait et d'immobilisation sont prises après avis de la commission régionale des sanctions administratives.
 
 La décision du préfet est publiée dans deux journaux régionaux et est affichée dans les locaux de l'entreprise pour une durée qui ne peut excéder la durée du retrait ou de l'immobilisation. Les frais de publication et d'affichage sont à la charge de l'entreprise.
