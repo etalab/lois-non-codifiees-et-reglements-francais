@@ -1,5 +1,5 @@
 # Article 2
 
-Par dérogation aux dispositions du deuxième alinéa de l'article 1er, il peut être procédé à l'affinage des fromages bénéficiant de l'appellation "Maroilles  ou "Marolles" dans des ateliers d'affinage de la commune de Prémont du canton de Bohain, département de l'Aisne, situés en dehors de l'aire géographique délimitée qui présentent des références suffisantes, une antériorité certaine et qui ont exercé une activité ininterrompue.
+Le fromage bénéficiant de l'appellation d'origine "Selles-sur-Cher" est obtenu par coagulation lactique du lait de chèvre entier avec addition d'une faible quantité de présure.  Ce fromage, pesant au minimum 200 grammes à l'état frais, est un fromage à pâte molle à moisissures superficielles, cendré au charbon de bois pulvérulent mélangé à du sel et contient au minimum 45 grammes de matière grasse pour 100 grammes de fromage après complète dessiccation.  Le poids total de matière sèche ne doit pas être inférieur à 55 grammes par fromage.
 
-Toutefois, les ateliers d'affinage ayant obtenu le bénéfice de cette dérogation ne devront procéder à aucune modification de leurs caves tendant à en agrandir la capacité d'affinage.
+Les moules de forme tronconique, dont le diamètre de base et la hauteur sont de 9,5 cm, sont remplis à la louche.  La durée de l'affinage est de dix jours au minimum à compter du jour de fabrication.

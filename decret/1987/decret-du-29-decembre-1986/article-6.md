@@ -1,3 +1,9 @@
 # Article 6
 
-L'organisme interprofessionnel visé à l'article 4 du présent décret adresse chaque année au comité national un rapport d'activité concernant notamment les données statistiques et économiques ainsi que les opérations de surveillance relatives aux fromages bénéficiant de l'appellation d'origine "Maroilles" ou "Marolles".
+Indépendamment des mentions réglementaires applicables à tous les fromages, l'étiquetage des fromages bénéficiant de l'appellation d'origine  Selles-sur-Cher  doit comporter le nom de l'appellation d'origine inscrit en caractères de dimensions au moins égales aux deux tiers de celles des caractères les plus grands figurant sur l'étiquetage.
+
+L'emploi de tout qualificatif ou autre mention accompagnant ladite appellation d'origine est interdit dans l'étiquetage, la publicité, les factures ou papiers de commerce à l'exception :
+
+- des marques de commerce ou de fabrique particulières ;
+
+- des mentions autorisées par le règlement intérieur visé à l'article 3 du présent décret et sur avis conforme du Comité national des appellations d'origine des fromages.
