@@ -10,16 +10,18 @@ b) Soit d'un diplôme d'études approfondies en psychologie comportant un stage 
 
 c) Soit de l'un des diplômes dont la liste figure en annexe.
 
-2° De la licence en psychologie obtenue conformément à la réglementation antérieure à l'application du décret n° 66-412 du 22 juin 1966 relatif à l'organisation des deux premiers cycles d'enseignement dans les facultés de lettres et sciences humaines et qui justifient en outre de l'obtention de l'un des diplômes mentionnés au a, b ou c du 1°.
+2° De la licence visée au 1° et d'un master mention psychologie comportant un stage professionnel dont les modalités sont fixées par arrêté du ministre chargé de l'enseignement supérieur ;
 
-3° De diplômes étrangers reconnus équivalents aux diplômes mentionnés au 1° par le ministre chargé de l'enseignement supérieur après avis d'une commission dont la composition est fixée par arrêté de ce ministre.
+3° D'une licence mention psychologie et d'un master mention psychologie comportant un stage professionnel dont les modalités sont fixées par arrêté du ministre chargé de l'enseignement supérieur.
 
-4° Du diplôme d'Etat de psychologie scolaire.
+4° De la licence en psychologie obtenue conformément à la réglementation antérieure à l'application du décret n° 66-412 du 22 juin 1966 relatif à l'organisation des deux premiers cycles d'enseignement dans les facultés de lettres et sciences humaines et qui justifient en outre de l'obtention de l'un des diplômes mentionnés au a, b ou c du 1°, au 2° et au 3°.
 
-5° Du diplôme de psychologue du travail délivré par le Conservatoire national des arts et métiers.
+5° De diplômes étrangers reconnus équivalents aux diplômes mentionnés au 1°, au 2° et au 3° par le ministre chargé de l'enseignement supérieur après avis d'une commission dont la composition est fixée par arrêté de ce ministre.
 
-6° Du diplôme de psychologue délivré par l'école des psychologues praticiens de l'institut catholique de Paris.
+6° Du diplôme d'Etat de psychologie scolaire.
 
-7° Du diplôme d'Etat de conseiller d'orientation - psychologue.
+7° Du diplôme de psychologue du travail délivré par le Conservatoire national des arts et métiers.
 
-Les titulaires du diplôme d'Etat de psychologie scolaire ne peuvent faire usage du titre de psychologue qu'assorti du qualificatif "scolaire" (1).
+8° Du diplôme de psychologue délivré par l'école des psychologues praticiens de l'institut catholique de Paris.
+
+9° Du diplôme d'Etat de conseiller d'orientation - psychologue.
