@@ -1,15 +1,19 @@
 # Article 3
 
-I. - Chaque commission est constituée [*composition*] parmi les personnels relevant de la ou des disciplines concernées :
+I. - Chaque commission comporte au moins dix membres et comprend, en nombre égal, d'une part, des représentants des professeurs des universités et des personnels assimilés, d'autre part, des représentants des maîtres de conférences et des personnels assimilés.
 
-1° De tous les professeurs titulaires affectés à l'établissement, membres de droit ;
+Toutefois, dans les établissements situés hors du territoire métropolitain, le nombre minimal des membres est fixé à six.
 
-2° De maîtres de conférences, maîtres-assistants, chefs de travaux, titulaires, affectés à l'établissement, élus, en nombre égal ou, à défaut, au nombre entier immédiatement inférieur aux deux tiers de celui des professeurs membres de droit lors de la constitution de la commission et, le cas échéant, des membres nommés en application des deux alinéas suivants.
+II. - Les membres de chaque commission sont désignés comme suit :
 
-Chaque commission de spécialistes comprend au moins huit membres. Si le nombre des professeurs affectés à l'établissement est inférieur à cinq, le nombre des représentants des professeurs est porté à cinq dans les conditions prévues à l'article 5 ci-dessous.
+1° 30 p. 100 des membres au moins et 70 p. 100 au plus sont élus, en nombre égal, d'une part, parmi les professeurs titulaires et les personnels assimilés, d'autre part, parmi les maîtres de conférences titulaires et les personnels assimilés, relevant de la ou des disciplines concernées ; ces personnels doivent être affectés à l'établissement ou, pour les chercheurs titulaires, y assurer des enseignements dans les conditions prévues au 3° de l'article 6 ci-dessous ;
 
-Toutefois, dans les établissements situés hors du territoire métropolitain, les commissions de spécialistes peuvent ne comprendre que cinq membres. Dans ce cas, si le nombre des professeurs membres de droit est inférieur à trois, le nombre des représentants des professeurs est porté à trois dans les conditions prévues à l'article 5 ci-dessous.
+2° 30 p. 100 au moins des membres et 70 p. 100 au plus sont nommés par le chef d'établissement, après avis du conseil scientifique, parmi les membres élus appartenant à des commissions de spécialistes d'autres établissements et relevant de la ou des disciplines concernées.
 
-II. - Lorsque la décision du chef d'établissement mentionnée au cinquième alinéa de l'article 2 ci-dessus l'a prévu, la commission comprend, en outre, cinq membres au plus choisis parmi des personnels de la même discipline affectés à d'autres établissements ou relevant d'autres disciplines et affectés à l'établissement ainsi que parmi les personnels assimilés exerçant leurs fonctions dans l'établissement.
+Dans la limite de 10 p. 100 de son effectif global, la commission peut comprendre des professeurs, maîtres de conférences ou personnels assimilés, titulaires, relevant d'autres disciplines et affectés à l'établissement ou, pour les chercheurs titulaires, y assurant des enseignements dans les conditions prévues au 3° de l'article 6 ci-dessous, nommés dans les conditions prévues au 2° du présent article. Quand l'effectif sus-indiqué de la commission est inférieur à dix, la limite fixée au présent alinéa est portée à un.
 
-Ces personnels sont nommés par le chef d'établissement parmi les professeurs titulaires et personnels assimilés et, en nombre égal ou, à défaut, immédiatement inférieur aux deux tiers de ceux-ci, parmi les maîtres de conférences, maîtres-assistants, chefs de travaux, titulaires et personnels assimilés.
+Lorsque le nombre des professeurs ou des maîtres de conférences affectés à l'établissement et relevant de la ou des disciplines concernées est inférieur à dix, tous les membres de la catégorie considérée font partie de la commission sans qu'une élection soit organisée. Pour l'application des dispositions du premier alinéa du II du présent article, les intéressés sont considérés comme élus.
+
+Lorsqu'une commission de spécialistes se prononce sur des mesures individuelles relatives aux professeurs des universités, tous les professeurs titulaires relevant de la discipline affectés à l'établissement non membres de la commission peuvent siéger par décision du chef d'établissement prise sur proposition du conseil scientifique ou de l'organe qui en tient lieu siégeant en formation restreinte aux professeurs et personnels assimilés.
+
+Nul ne peut être simultanément membre de plus de trois commissions de spécialistes.
