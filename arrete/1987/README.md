@@ -238,6 +238,7 @@
 - [Arrêté du 22 juin 1987 (ASES8700923A)](arrete-du-22-juin-1987-ases8700923a)
 - [Arrêté du 22 mai 1987 (ECOT8750026A)](arrete-du-22-mai-1987-ecot8750026a)
 - [Arrêté du 22 mai 1987 (ECOT8750028A)](arrete-du-22-mai-1987-ecot8750028a)
+- [Arrêté du 22 mai 1987 (MCCB8700245A)](arrete-du-22-mai-1987-mccb8700245a)
 - [Arrêté du 22 mai 1987 (MERG8700077A)](arrete-du-22-mai-1987-merg8700077a)
 - [Arrêté du 23 avril 1987 (ASEP8700694A)](arrete-du-23-avril-1987-asep8700694a)
 - [Arrêté du 23 avril 1987 (BUDB8730031A)](arrete-du-23-avril-1987-budb8730031a)
