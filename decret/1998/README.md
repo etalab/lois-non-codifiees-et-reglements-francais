@@ -246,6 +246,7 @@
 - [Décret n°2000-491 du 29 mai 2000 (EQUA0000502D)](decret-n2000-491-du-29-mai-2000-equa0000502d)
 - [Décret du 30 janvier 1998 (ECOC9700226D)](decret-du-30-janvier-1998-ecoc9700226d)
 - [Décret du 30 janvier 1998 (ECOC9700227D)](decret-du-30-janvier-1998-ecoc9700227d)
+- [Décret n°87-1101 du 30 décembre 1987 (INTB8700395D)](decret-n87-1101-du-30-decembre-1987-intb8700395d)
 - [Décret n°94-743 du 30 août 1994 (INTB9400316D)](decret-n94-743-du-30-aout-1994-intb9400316d)
 - [Décret n°97-1321 du 30 décembre 1997 (MESS9723498D)](decret-n97-1321-du-30-decembre-1997-mess9723498d)
 - [Décret n°97-1324 du 30 décembre 1997 (INTM9700017D)](decret-n97-1324-du-30-decembre-1997-intm9700017d)
