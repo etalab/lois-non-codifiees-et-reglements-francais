@@ -2,7 +2,7 @@
 
 Les personnels mentionnés à l'article précédent comprennent :
 
-a) Des fonctionnaires civils appartenant à un corps ou cadre d'emploi classé dans les catégories A ou B ou de même niveau et placés en position de détachement ;
+a) Des fonctionnaires civils appartenant à un corps ou cadre d'emploi classé dans les catégories A, B ou C ou de même niveau et placés en position de détachement ;
 
 b) Des agents qui sont recrutés sur titres de manière révocable, de même niveau et qualification que les fonctionnaires mentionnés ci-dessus, conformément aux articles 4 et 5 de la loi du 11 janvier 1984 susvisée, ou qui bénéficient des dispositions des articles 73 et 74 de la même loi.
 

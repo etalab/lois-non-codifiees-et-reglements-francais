@@ -2,7 +2,7 @@
 
 I. - Il est institué, à compter du 1er février 1996 et jusqu'au 31 janvier 2014, une contribution prélevée sur les produits de placement désignés au I de l'article L. 136-7 du code de la sécurité sociale à l'exception de ceux ayant déjà supporté la contribution au titre des 3° et 4° du II ci-après. Cette contribution est assise, recouvrée et contrôlée selon les modalités prévues au II du même article [*point de départ, date limite*].
 
-II. - Sont également assujettis à la contribution selon les modalités prévues au I, pour la partie acquise à compter du 1er février 1996 et, le cas échéant, constatée à compter du 1er février 1996 en ce qui concerne les placements visés du 3° au 10° :
+II. - Sont également assujettis à la contribution selon les modalités prévues au I, pour la partie acquise à compter du 1er février 1996 et, le cas échéant, constatée à compter du 1er février 1996 en ce qui concerne les placements visés du 3° au 9° :
 
 1° Les intérêts et primes d'épargne des comptes d'épargne logement visés à l'article L. 315-1 du code de la construction et de l'habitation respectivement lors de leur inscription en compte et de leur versement ;
 
@@ -24,10 +24,8 @@ II. - Sont également assujettis à la contribution selon les modalités prévue
 
 8° Les répartitions de sommes ou valeurs effectuées par un fonds commun de placement à risques dans les conditions prévues aux I et II de l'article 163 quinquies B du code général des impôts, les gains nets mentionnés au 1 du III de l'article 150-0 A du même code ainsi que les distributions effectuées par les sociétés de capital-risque dans les conditions prévues au deuxième alinéa de l'article 163 quinquies C du code général des impôts, lors de leur versement ;
 
-9° Les gains nets et les produits des placements en valeurs mobilières effectués en vertu d'un engagement d'épargne à long terme respectivement visés aux 5 du III de l'article 150-0 A et 16° de l'article 157 du code général des impôts, lors de l'expiration du contrat ;
+9° Les gains nets et les produits des placements en valeurs mobilières effectués en vertu d'un engagement d'épargne à long terme respectivement visés aux 5 du III de l'article 150-0 A et 16° de l'article 157 du code général des impôts, lors de l'expiration du contrat.
 
-10° Les revenus mentionnés au 5° de l'article 157 du code général des impôts procurés par les placements effectués dans le cadre d'un plan d'épargne en vue de la retraite, lors des retraits.
+III. - Les dispositions du II ne sont pas applicables aux revenus visés au 3° s'agissant des seuls contrats en unités de comptes et aux 5° à 9°, lorsque ces revenus entrent dans le champ d'application de l'article 15.
 
-III. - Les dispositions du II ne sont pas applicables aux revenus visés au 3° s'agissant des seuls contrats en unités de comptes et aux 5° à 10°, lorsque ces revenus entrent dans le champ d'application de l'article 15.
-
-IV. - Les revenus de placement visés au II, acquis ou en ce qui concerne les placements visés du 3° au 10° du II ci-dessus, constatés à la date du 31 janvier 2014 et pour lesquels la contribution n'est pas encore exigible sont soumis à cette date à la contribution.
+IV. - Les revenus de placement visés au II, acquis ou en ce qui concerne les placements visés du 3° au 9° du II ci-dessus, constatés à la date du 31 janvier 2014 et pour lesquels la contribution n'est pas encore exigible sont soumis à cette date à la contribution.
