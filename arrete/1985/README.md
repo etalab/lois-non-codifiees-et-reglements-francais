@@ -129,7 +129,6 @@
 - [Arrêté du 23 novembre 1985](arrete-du-23-novembre-1985)
 - [Arrêté du 23 octobre 1985](arrete-du-23-octobre-1985)
 - [Arrêté du 23 mai 1985](arrete-du-23-mai-1985)
-- [Arrêté du 24 janvier 1985](arrete-du-24-janvier-1985)
 - [Arrêté du 24 juillet 1985](arrete-du-24-juillet-1985)
 - [Arrêté du 24 mai 1985](arrete-du-24-mai-1985)
 - [Arrêté du 25 avril 1985](arrete-du-25-avril-1985)
