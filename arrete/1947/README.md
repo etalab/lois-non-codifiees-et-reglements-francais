@@ -4,6 +4,7 @@
 - [Arrêté du 4 avril 1947](arrete-du-4-avril-1947)
 - [Arrêté du 6 août 1947](arrete-du-6-aout-1947)
 - [Arrêté du 8 janvier 1947](arrete-du-8-janvier-1947)
+- [Arrêté du 9 août 1947](arrete-du-9-aout-1947)
 - [Arrêté du 10 février 1947](arrete-du-10-fevrier-1947)
 - [Arrêté du 12 mars 1947](arrete-du-12-mars-1947)
 - [Arrêté du 18 août 1947](arrete-du-18-aout-1947)
