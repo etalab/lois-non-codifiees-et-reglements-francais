@@ -120,7 +120,6 @@
 - [Arrêté du 4 septembre 1990 (ACVP9020027A)](arrete-du-4-septembre-1990-acvp9020027a)
 - [Arrêté du 4 septembre 1990 (AGRE9001984A)](arrete-du-4-septembre-1990-agre9001984a)
 - [Arrêté du 4 septembre 1990 (BUDR9005046A)](arrete-du-4-septembre-1990-budr9005046a)
-- [Arrêté du 4 mai 1982](arrete-du-4-mai-1982)
 - [Arrêté du 5 avril 1990 (AGRP9000605A)](arrete-du-5-avril-1990-agrp9000605a)
 - [Arrêté du 5 avril 1990 (JUSA9000020A)](arrete-du-5-avril-1990-jusa9000020a)
 - [Arrêté du 5 avril 1990 (MENN9000861A)](arrete-du-5-avril-1990-menn9000861a)
