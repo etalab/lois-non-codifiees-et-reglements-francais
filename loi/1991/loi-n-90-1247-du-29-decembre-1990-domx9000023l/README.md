@@ -1,6 +1,6 @@
 # Loi n° 90-1247 du 29 décembre 1990 portant suppression de la tutelle administrative et financière sur les communes de Nouvelle-Calédonie et dispositions diverses relatives à ce territoire
 
-- [TITRE Ier : SUPPRESSION DE LA TUTELLE ADMINISTRATIVE ET FINANCIÈRE SUR LES COMMUNES DE NOUVELLE-CALÉDONIE ET EXTENSION DE DISPOSITIONS DIVERSES À CES COLLECTIVITÉS](titre-ier)
+- [TITRE Ier : Contenu du budget](titre-ier)
 - [TITRE II : DISPOSITIONS BUDGETAIRES ET COMPTABLES RELATIVES AU TERRITOIRE, AUX PROVINCES ET A LEURS ETABLISSEMENTS PUBLICS](titre-ii)
 - [TITRE III : EXÉCUTION DES RECETTES ET DÉPENSES PUBLIQUES.](titre-iii)
 - [TITRE IV : RESPONSABILITÉ DES COMPTABLES.](titre-iv)

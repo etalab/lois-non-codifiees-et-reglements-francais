@@ -1,4 +1,4 @@
-# TITRE Ier : SUPPRESSION DE LA TUTELLE ADMINISTRATIVE ET FINANCIÈRE SUR LES COMMUNES DE NOUVELLE-CALÉDONIE ET EXTENSION DE DISPOSITIONS DIVERSES À CES COLLECTIVITÉS
+# TITRE Ier : Contenu du budget
 
 - [CHAPITRE Ier : Suppression de la tutelle administrative et financière.](chapitre-ier)
 - [CHAPITRE II : Extension de dispositions diverses.](chapitre-ii)
