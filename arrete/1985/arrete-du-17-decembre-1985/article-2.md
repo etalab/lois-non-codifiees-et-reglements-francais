@@ -1,3 +1,3 @@
 # Article 2
 
-Le présent arrêté et les règlements qui lui sont annexés seront publiés au Journal officiel de la République française.
+Le service de l'emprunt en intérêts, amortissement, impôts et frais accessoires est garanti par l'Etat.

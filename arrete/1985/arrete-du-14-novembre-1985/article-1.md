@@ -1,5 +1,3 @@
 # Article 1
 
-L'addition, comme agents émulsifiants, de la lécithine (E 322), des monoglycérides et de diglycérides d'acides gras alimentaires (E 471), seuls ou en mélange, est autorisée dans les produits de confiserie contenant des matières grasses et dans les produits de confiserie d'humidité supérieure à 6% :
-
-La quantité totale d'émulsifiants ne doit pas dépasser 10 grammes par kilogramme de produit fini.
+La dérogation prévue à l'article premier du décret du 11 avril 1969 susvisé est rendue applicable, du 1er novembre 1985 au 31 décembre 1985, aux ouvriers et aux employés, techniciens et agents de maîtrise de la Société des mines de Sacilor Lormines, de la Société des mines de fer du Nord-Est et de la Société des mines de Droitaumont-Giraumont, qui sont âgés d'au moins cinquante ans et justifient d'au moins quinze ans de services miniers et d'un taux d'incapacité permanente au moins égal à 30 %, imputable à un seul ou à plusieurs accidents du travail ou maladies professionnelles.

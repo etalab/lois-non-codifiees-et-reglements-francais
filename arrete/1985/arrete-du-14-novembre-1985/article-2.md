@@ -1,5 +1,3 @@
 # Article 2
 
-L'addition, comme agents émulsifiants, de phosphatides d'ammonium (442) est autorisée dans les produits d'imitation du chocolat à base de cacao.
-
-La dose maximale exprimée en phosphatides totaux ne doit pas dépasser 5 grammes par kilogramme de produit fini.
+Les remboursements auxquels peut prétendre la caisse autonome nationale de la sécurité sociale dans les mines sont assurés dans les conditions fixées par les conventions susvisées du 10 septembre 1985.
