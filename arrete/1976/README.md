@@ -31,6 +31,7 @@
 - [Arrêté du 26 février 1976](arrete-du-26-fevrier-1976)
 - [Arrêté du 26 janvier 1976](arrete-du-26-janvier-1976)
 - [Arrêté du 27 février 1976](arrete-du-27-fevrier-1976)
+- [Arrêté du 27 octobre 1967](arrete-du-27-octobre-1967)
 - [Arrêté du 29 décembre 1975](arrete-du-29-decembre-1975)
 - [Arrêté du 30 décembre 1975](arrete-du-30-decembre-1975)
 - [Arrêté du 30 janvier 1976](arrete-du-30-janvier-1976)
