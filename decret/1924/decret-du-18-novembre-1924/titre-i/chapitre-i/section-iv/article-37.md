@@ -1,0 +1,5 @@
+# Article 37
+
+La procuration à l'effet de passer un contrat relatif à la transmission ou à l'attribution de la propriété d'un immeuble ou à l'effet de constituer ou transmettre les autres droits et restrictions au droit de disposer désignés à l'article 38 de la loi susvisée du 1er juin 1924, et la procuration à l'effet de consentir l'inscription, d'une prénotation conformément à l'article 39 de la même loi ou de donner mainlevée d'une inscription, sont données, sous réserver des dispositions de l'article 933, alinéa 2, du code civil et de l'article 239 de la susdite loi, par acte authentique ou authentiquement légalisé.
+
+Sont dispensées de toute légalisation, les procurations des administrations publiques, si elles sont dûment signées et munies du sceau de ces administrations. Il en est de même des procurations données par le conseil d'administration de la Société nationale des chemins de fer français à son président ; toutefois, ces procurations doivent être déposées au rang des minutes d'un notaire.
