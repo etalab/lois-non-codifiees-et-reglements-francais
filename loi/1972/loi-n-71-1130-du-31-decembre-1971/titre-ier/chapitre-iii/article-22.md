@@ -1,11 +1,7 @@
 # Article 22
 
-Le conseil de l'ordre siégeant comme conseil de discipline poursuit et réprime les infractions et les fautes commises par les avocats inscrits au tableau ou sur la liste du stage.
+Un conseil de discipline institué dans le ressort de chaque cour d'appel connaît des infractions et fautes commises par les avocats relevant des barreaux qui s'y trouvent établis.
 
-Il agit, soit d'office, soit à la demande du procureur général, soit à l'initiative du bâtonnier.
+Toutefois, le Conseil de l'ordre du barreau de Paris siégeant comme conseil de discipline connaît des infractions et fautes commises par les avocats qui y sont inscrits.
 
-Il statue par décision motivée après une instruction contradictoire.
-
-Lorsqu'un barreau comprend au moins cinq cents avocats disposant du droit de vote mentionné au deuxième alinéa de l'article 15, le conseil de discipline peut siéger en une ou plusieurs formations d'au moins cinq membres, présidé par le bâtonnier ou un ancien bâtonnier. Les membres qui composent ces formations disciplinaires peuvent être des membres du conseil de l'ordre ou des anciens membres du conseil de l'ordre ayant quitté leur fonction depuis moins huit ans. Ces anciens membres sont choisis sur une liste arrêtée chaque année par le conseil de l'ordre. Le président et les membres de chaque formation, ainsi que des membres suppléants, sont désignés au début de chaque année, par délibération du conseil de l'ordre.
-
-La formation restreinte peut renvoyer l'examen de l'affaire à la formation plénière.
+L'instance disciplinaire compétente en application des alinéas qui précèdent connaît également des infractions et fautes commises par un ancien avocat, dès lors qu'à l'époque des faits il était inscrit au tableau ou sur la liste des avocats honoraires de l'un des barreaux établis dans le ressort de l'instance disciplinaire.

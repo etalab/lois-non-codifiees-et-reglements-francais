@@ -1,3 +1,3 @@
 # Article 1
 
-Les juges peuvent, en matière civile, désigner en qualité d'expert toute personne de leur choix sous les seules restrictions prévues par la loi ou les règlements.
+Sous les seules restrictions prévues par la loi ou les règlements, les juges peuvent désigner pour procéder à des constatations, leur fournir une consultation ou réaliser une expertise, une personne figurant sur l'une des listes établies en application de l'article 2. Ils peuvent, le cas échéant, désigner toute autre personne de leur choix.

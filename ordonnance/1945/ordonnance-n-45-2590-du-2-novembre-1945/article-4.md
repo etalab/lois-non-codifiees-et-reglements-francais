@@ -4,13 +4,13 @@ La chambre des notaires a pour attributions :
 
 1° D'établir, en ce qui concerne les usages de la profession et les rapports des notaires tant entre eux qu'avec la clientèle, un règlement qui sera soumis à l'approbation du garde des sceaux, ministre de la justice ;
 
-2° De prononcer ou de proposer, suivant les cas, l'application aux notaires de mesures de discipline ;
+2° De dénoncer les infractions disciplinaires dont elle a connaissance ;
 
 3° De prévenir ou de concilier tous différends d'ordre professionnel entre notaires du département, de trancher, en cas de non-conciliation, ces litiges par des décisions qui seront exécutoires immédiatement ;
 
-4° D'examiner toutes réclamations de la part des tiers contre les notaires à l'occasion de l'exercice de leur profession, et de réprimer par voie disciplinaire les infractions, sans préjudice de l'action devant les tribunaux s'il y a lieu ;
+4° D'examiner toutes réclamations de la part des tiers contre les notaires à l'occasion de l'exercice de leur profession ;
 
-5° De vérifier la tenue de la comptabilité dans les études de notaires ;
+5° De vérifier la tenue de la comptabilité, ainsi que l'organisation et le fonctionnement des offices de notaires de la compagnie ;
 
 6° De donner son avis, lorsqu'elle en est requise :
 

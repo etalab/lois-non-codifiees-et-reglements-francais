@@ -1,6 +1,6 @@
 # Article 3
 
-Les personnes inscrites sur l'une des listes instituées par l'article 2 de la présente loi ou par l'article 157 du code de procédure pénale ne peuvent faire état de leur qualité que sous la dénomination : "d'expert agréé par la Cour de cassation" ou "d'expert près la cour d'appel de ...".
+Les personnes inscrites sur l'une des listes instituées par l'article 2 de la présente loi ne peuvent faire état de leur qualité que sous la dénomination : "d'expert agréé par la Cour de cassation" ou "d'expert près la cour d'appel de ...".
 
 La dénomination peut être suivie de l'indication de la spécialité de l'expert.
 

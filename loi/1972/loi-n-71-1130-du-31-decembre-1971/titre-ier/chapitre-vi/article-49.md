@@ -1,3 +1,0 @@
-# Article 49
-
-Les membres des anciennes professions d'avocat et de conseil juridique qui renoncent à entrer dans la nouvelle profession d'avocat ou qui renonceraient à y demeurer peuvent, sur leur demande présentée dans le délai de cinq ans à compter de la date d'entrée en vigueur du titre Ier de la loi n° 90-1259 du 31 décembre 1990 portant réforme de certaines professions judiciaires et juridiques, accéder aux professions d'avocat au Conseil d'Etat et à la Cour de cassation, d'avoué près les cours d'appel, de notaire, de commissaire-priseur, de greffier de tribunal de commerce, d'huissier de justice, d'administrateur judiciaire, de mandataire-liquidateur.

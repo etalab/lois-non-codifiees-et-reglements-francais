@@ -1,3 +1,0 @@
-# Article 51
-
-Les clercs et employés d'avoué, d'agréé et d'avocat qui étaient en fonction à la date du 1er janvier 1971, peuvent être, dans les conditions qui seront fixées par décret en Conseil d'Etat, s'ils sont privés de leur emploi dans un délai maximum de trois ans à compter de la date d'entrée en vigueur de la loi et, s'ils remplissent les conditions générales d'accès à la fonction publique, soit intégrés dans la limite des emplois disponibles, dans le corps des fonctionnaires des services judiciaires, soit recrutés comme agents contractuels ou à titre d'auxiliaires relevant du ministère de la justice.

@@ -4,7 +4,7 @@ Dans le respect de l'indépendance de l'avocat, de l'autonomie des conseils de l
 
 Ils présentent notamment :
 
-1° Les conditions d'accès à la profession d'avocat ainsi que les incompatibilités, les conditions d'inscription au tableau et d'omission du tableau ou de la liste du stage et les conditions d'exercice de la profession dans les cas prévus aux articles 6 à 8-1 ;
+1° Les conditions d'accès à la profession d'avocat ainsi que les incompatibilités, les conditions d'inscription au tableau et d'omission du tableau et les conditions d'exercice de la profession dans les cas prévus aux articles 6 à 8-1 ;
 
 2° Les règles de déontologie ainsi que la procédure et les sanctions disciplinaires ;
 
@@ -16,9 +16,7 @@ Ils présentent notamment :
 
 6° La procédure de règlement des contestations concernant le paiement des frais et honoraires des avocats ;
 
-7° Les conditions d'accès des membres des anciennes professions d'avocat et de conseil juridique aux professions visées à l'article 49, notamment, après consultation des professions concernées, les dispenses éventuelles, totales ou partielles, de diplômes et de formation professionnelle ;
-
-8° L'organisation de la formation professionnelle et les conditions dans lesquelles la loi n° 71-575 du 16 juillet 1971 portant organisation de la formation professionnelle continue dans le cadre de l'éducation permanente, pourra être appliquée à la profession d'avocat ;
+7° et 8° - Alinéas supprimés.
 
 9° Les conditions d'application de l'article 27 et, notamment, les conditions des garanties, les modalités du contrôle et les conditions dans lesquelles les avocats reçoivent des fonds, effets ou valeurs pour le compte de leurs clients, les déposent dans une caisse créée obligatoirement à cette fin par chaque barreau ou en commun par plusieurs barreaux et en effectuent le règlement;
 

@@ -1,0 +1,3 @@
+# Article 1
+
+La créance née d'un prêt consenti par la Banque du développement des PME en application des conventions conclues entre l'Etat et cet établissement, à un candidat à un office de notaire, d'avoué, de greffier des tribunaux de commerce, d'huissier de justice ou  de commissaire-priseur judiciaire bénéficiant des dispositions de l'article 91 de la loi du 28 avril 1816 sur les finances, est garantie par un privilège sur la finance de l'office. Lorsque le titulaire de l'office est une société, le privilège porte sur le quantum de la finance de l'office correspondant à celui des parts ou d'actions acquises au moyen de prêt. Ce privilège est inscrit sur un registre conservé au ministère de la justice et s'exerce après les privilèges du Trésor.

@@ -1,6 +1,6 @@
 # Article 31-1
 
-Il peut être constitué entre personnes physiques ou morales exerçant une ou plusieurs professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé des sociétés de participations financières ayant pour objet exclusif la détention des parts ou d'actions de sociétés mentionnées au premier alinéa de l'article 1er ayant pour objet l'exercice d'une même profession.
+Il peut être constitué entre personnes physiques ou morales exerçant une ou plusieurs professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé des sociétés de participations financières ayant pour objet la détention des parts ou d'actions de sociétés mentionnées au premier alinéa de l'article 1er ayant pour objet l'exercice d'une même profession ainsi que la participation à tout groupement de droit étranger ayant pour objet l'exercice de la même profession. Ces sociétés peuvent avoir des activités accessoires en relation directe avec leur objet et destinées exclusivement aux sociétés ou aux groupements dont elles détiennent des participations.
 
 Ces sociétés peuvent être constituées sous la forme de sociétés à responsabilité limitée, de sociétés anonymes, de sociétés par actions simplifiées ou de sociétés en commandite par actions régies par le livre II du code de commerce, sous réserve des dispositions contraires du présent titre.
 

@@ -4,4 +4,4 @@ La saisie-vente dans un local servant à l'habitation du débiteur, lorsqu'elle 
 
 Pour les créances de cette nature, le commandement précédant la saisie-vente devra contenir injonction au débiteur de communiquer les nom et adresse de son employeur et les références de ses comptes bancaires ou l'un de ces deux éléments seulement.
 
-S'il n'y est pas déféré par le débiteur, le procureur de la République peut être saisi, conformément aux dispositions des articles 39 et 40.
+S'il n'y est pas déféré par le débiteur, l'huissier de justice peut agir dans les conditions prévues aux articles 39 et 40.
