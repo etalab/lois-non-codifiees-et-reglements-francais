@@ -1,3 +1,0 @@
-# Article 14
-
-Il est créé, dans le corps des ingénieurs des travaux d'armement, les grades d'ingénieurs de 2e et 3e classe, correspondant au grade de lieutenant et sous-lieutenant. Les effectifs de ces deux grades seront, pour l'exercice 1951, prélevés sur l'effectif budgétaire des ingénieurs de 1re classe fixé par l'article 1er du décret du 14 juin 1938. Les conditions de recrutement des ingénieurs des travaux d'armement seront fixées par le décret signé conjointement par le ministre de la défense nationale, le ministre des finances et des affaires économiques, le ministre du budget et le secrétaire d'Etat aux forces armées (guerre).
