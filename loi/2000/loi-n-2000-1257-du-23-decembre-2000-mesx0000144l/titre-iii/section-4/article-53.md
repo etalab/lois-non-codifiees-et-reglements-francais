@@ -42,6 +42,8 @@ V. - Le demandeur ne dispose du droit d'action en justice contre le fonds d'inde
 
 Cette action est intentée devant la cour d'appel dans le ressort de laquelle se trouve le domicile du demandeur.
 
+Celui-ci a la possibilité de se faire assister ou représenter par son conjoint, un ascendant ou un descendant en ligne directe, un avocat ou un délégué des associations de mutilés et invalides du travail les plus représentatives.
+
 VI. - Le fonds est subrogé, à due concurrence des sommes versées, dans les droits que possède le demandeur contre la personne responsable du dommage ainsi que contre les personnes ou organismes tenus à un titre quelconque d'en assurer la réparation totale ou partielle dans la limite du montant des prestations à la charge desdites personnes.
 
 Le fonds intervient devant les juridictions civiles, y compris celles du contentieux de la sécurité sociale, notamment dans les actions en faute inexcusable, et devant les juridictions de jugement en matière répressive, même pour la première fois en cause d'appel, en cas de constitution de partie civile du demandeur contre le ou les responsables des préjudices ; il intervient à titre principal et peut user de toutes les voies de recours ouvertes par la loi.

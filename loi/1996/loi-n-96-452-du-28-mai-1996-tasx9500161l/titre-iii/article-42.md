@@ -18,6 +18,8 @@ III. - Pour l'exercice de leurs missions, les membres de l'inspection générale
 
 Les administrations de l'Etat, les collectivités publiques, les services, établissements, institutions ou organismes mentionnés à l'alinéa précédent sont tenus de prêter leur concours aux membres de l'inspection générale, de leur fournir toutes justifications et tous renseignements utiles et de leur communiquer tous documents nécessaires à l'accomplissement de leurs missions.
 
+Les membres de l'Inspection générale des affaires sociales titulaires d'un diplôme, certificat ou autre titre permettant l'exercice en France de la profession de médecin n'ont accès aux données de santé à caractère personnel que si elles sont strictement nécessaires à l'exercice de leur mission lors de leur visite sur les lieux, dans le respect du secret médical.
+
 Pour les opérations faisant appel à l'informatique, le droit de communication implique l'accès aux logiciels et aux données, ainsi que la faculté d'en demander la transcription par tout traitement approprié dans des documents directement utilisables pour les besoins du contrôle.
 
-Pour les besoins du contrôle de l'emploi des concours mentionnés au I et des ressources collectées auprès du public mentionnées au II, les commissaires aux comptes des organismes contrôlés sont déliés du secret professionnel à l'égard des membres de l'inpection générale des affaires sociales.
+Pour les besoins du contrôle de l'emploi des concours mentionnés au I et des ressources collectées auprès du public mentionnées au II, les commissaires aux comptes des organismes contrôlés sont déliés du secret professionnel à l'égard des membres de l'inspection générale des affaires sociales.

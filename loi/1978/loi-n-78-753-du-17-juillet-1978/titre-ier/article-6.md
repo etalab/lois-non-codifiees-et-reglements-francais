@@ -26,4 +26,4 @@ II. - Ne sont communicables qu'à l'intéressé les documents administratifs :
 
 - faisant apparaître le comportement d'une personne, dès lors que la divulgation de ce comportement pourrait lui porter préjudice.
 
-Les informations à caractère médical ne peuvent être communiquées à l'intéressé que par l'intermédiaire d'un médecin qu'il désigne à cet effet.
+Les informations à caractère médical sont communiquées à l'intéressé, selon son choix, directement ou par l'intermédiaire d'un médecin qu'il désigne à cet effet, dans le respect des dispositions de l'article L. 1111-7 du code de la santé publique.

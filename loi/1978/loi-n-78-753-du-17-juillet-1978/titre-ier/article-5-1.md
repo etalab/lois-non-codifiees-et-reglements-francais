@@ -14,4 +14,6 @@ La Commission d'accès aux documents administratifs est également compétente p
 
 - l'article 79 du code civil local d'Alsace-Moselle ;
 
-- les articles L. 213-13 et L. 332-29 du code de l'urbanisme.
+- les articles L. 213-13 et L. 332-29 du code de l'urbanisme ;
+
+- l'article L. 1111-7 du code de la santé publique.
