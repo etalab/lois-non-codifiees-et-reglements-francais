@@ -786,7 +786,6 @@
 - [Décret n°98-952 du 26 octobre 1998 (ECOT9851747D)](decret-n98-952-du-26-octobre-1998-ecot9851747d)
 - [Décret n°98-970 du 26 octobre 1998 (ECOI9800688D)](decret-n98-970-du-26-octobre-1998-ecoi9800688d)
 - [Décret n°98-971 du 26 octobre 1998 (ECOB9820001D)](decret-n98-971-du-26-octobre-1998-ecob9820001d)
-- [Décret n°82-440 du 26 mai 1982](decret-n82-440-du-26-mai-1982)
 - [Décret n°98-1068 du 27 novembre 1998 (MESX9803295D)](decret-n98-1068-du-27-novembre-1998-mesx9803295d)
 - [Décret n°98-1069 du 27 novembre 1998 (MESX9803296D)](decret-n98-1069-du-27-novembre-1998-mesx9803296d)
 - [Décret n°98-1070 du 27 novembre 1998 (MESS9823643D)](decret-n98-1070-du-27-novembre-1998-mess9823643d)
