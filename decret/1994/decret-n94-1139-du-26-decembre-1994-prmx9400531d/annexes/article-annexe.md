@@ -401,3 +401,123 @@ Cantons de Belgodère, Calenzana, Alto-di-Casaconi, Le Haut-Nebbio, La Conca-d'O
 RÉUNION
 
 Canton de Saint-Philippe.
+
+ANNEXE AU DÉCRET N° 99-339 DU 28 AVRIL 1999 COMPLÉTANT LA DÉFINITION DES TERRITOIRES RURAUX DE DÉVELOPPEMENT PRIORITAIRES POUR LE DÉPARTEMENT DE LA GUYANE
+
+I. - Liste des communes
+
+ou parties de communes classées
+
+Communes en totalité :
+
+Iracoubo ;
+
+Macouria ;
+
+Montsinery ;
+
+Quanary.
+
+Parties de communes :
+
+Apatou ;
+
+Awala-Yalimapo ;
+
+Grand-Santi ;
+
+Kourou ;
+
+Mana ;
+
+Maripasoula ;
+
+Papaichton ;
+
+Régina ;
+
+Roura ;
+
+Saint-Elie ;
+
+Saint-Georges ;
+
+Saint-Laurent ;
+
+Saul ;
+
+Sinnamary.
+
+II. - Délimitation physique
+
+des territoires ruraux de développement
+
+La délimitation décrite ci-dessous s'appuie sur divers documents administratifs et cartographiques qui peuvent être consultés au ministère de l'outre-mer et à la préfecture de la Guyane.
+
+1° Sur la zone littorale
+
+La limite des TRDP est la limite d'exploitation forestière, définie comme suit, sur cinq extraits du format A 3 de la carte IGN de la Guyane au 1/500 000.
+
+Carte 1 : communes d'Apatou et de Saint-Laurent-du-Maroni
+
+La limite débute du point de confluence entre le Maroni et la crique Mouchounga. Pour sa délimitation : voir la carte n° 1.
+
+Elle rejoint la crique Sparouine et suit celle-ci vers l'amont jusqu'à sa confluence avec la crique Petit-Sparouine. Elle traverse la ligne de crête, traverse la crique Voltaire et rejoint la crique Grande-Absinthe qu'elle suit vers l'aval. Elle suit ensuite la crique Lézard jusqu'à sa confluence avec la Mana.
+
+Carte 2 : communes de Mana, d'Iracoubo et de Sinnamary
+
+La limite suit la Mana vers l'aval jusqu'à sa confluence avec la rivière Kokioko, puis elle remonte la rivière Kokioko et la crique Malise. Elle rejoint alors la limite communale entre Mana et Iracoubo qu'elle suit jusqu'à l'intersection des limites communales de Mana, Iracoubo et Saint-Elie. Elle suit alors la limite communale entre Saint-Elie et Iracoubo jusqu'au point de jonction entre les limites communales et Saint-Elie, Iracoubo et Sinnamary. Elle suit la limite de communes entre Saint-Elie et Sinnamary jusqu'à l'intersection de celle-ci avec la ligne joignant le barrage de Petit-Saut et le lieudit Deux Jours. Elle suit ensuite la route de Petit-Saut jusqu'à son intersection avec la limite communale entre Sinnamary et Kourou.
+
+Carte 3 : commune de Kourou
+
+La limite suit la limite de communes entre Kourou et Sinnamary à partir de la route de Petit-Saut jusqu'à la jonction avec la commune de Saint-Elie. Elle suit ensuite la limite de communes entre Saint-Elie et Kourou qu'elle suit jusqu'au point de jonction entre les limites communales de Kourou, Roura et Saint-Elie.
+
+Carte 4 : commune de Roura
+
+La limite suit la limite de communes entre Saint-Elie et Roura puis les criques Brodel, Mazin et Blanc pour rejoindre la limite de communes entre Régina et Roura (voir la carte 4 pour plus de précision).
+
+Carte 5 : communes de Régina et de Saint-Georges
+
+La limite rejoint la crique Benoit (voir carte 5) puis suit celle-ci jusqu'à l'Approuague qu'elle suit jusqu'à sa confluence avec la crique Ekini. Elle suit ensuite la crique Ekini puis traverse la ligne de crête (limite communale entre Régina et Saint-Georges). Elle suit alors la crique Armontabo (branche nord) puis la crique Aimara et Fourcadière (voir carte 5) jusqu'à l'Oyapok.
+
+Dans cette partie littorale sont exclus :
+
+- les communes de Cayenne, Rémire-Montjoly et Matoury correspondant à l'île de Cayenne ;
+
+- les zones du littoral bénéficiant ou susceptibles de bénéficier d'une protection forte, à savoir :
+
+- les terrains des communes de Roura et Régina inclus dans l'arrêté de biotope n° 1964 du 4 septembre 1989 ;
+
+- les terrains des communes d'Awala-Yalimapo et de Mana inclus dans le projet de réserve naturelle de la basse Mana ;
+
+- le centre spatial guyanais (annexe 5).
+
+Les terrains situés entre le littoral et la ligne définie par :
+
+- la rive droite du fleuve Kourou entre son embouchure et le pont situé à l'entrée de la ville de Kourou ;
+
+- la RNI entre le pont de Kourou et le pont sur la crique Parakou ;
+
+- la rive gauche de la crique Parakou ;
+
+- une ligne partant de la crique Parakou pour rejoindre le littoral (conformément à la limite de la propriété du centre spatial guyanais) (cf. carte 8).
+
+La partie de la montagne des Pères située à une altitude supérieure à 25 mètres, conformément à la carte n° 9.
+
+2° Zone intérieure
+
+Sur la zone intérieure, quatre centres sont à considérer :
+
+- la zone de Saint-Elie.
+
+La zone de Saint-Elie prolonge les TRDP du littoral en rajoutant à ces derniers une zone comprise entre :
+
+- la limite communale ouest de Saint-Elie ;
+
+- la limite nord de la réserve de la Trinité ;
+
+- la limite ouest de l'arrêté réglementant la circulation et la chasse sur Petit-Saut.
+
+Conformément au plan n° 10 joint en annexe :
+
+- la zone de Saul.
