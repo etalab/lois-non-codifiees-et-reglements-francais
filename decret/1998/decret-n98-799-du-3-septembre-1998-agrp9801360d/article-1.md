@@ -1,6 +1,6 @@
 # Article 1
 
-Il est institué jusqu'au 30 juin 2003 au profit du Groupement national interprofessionnel des semences, graines et plants (GNIS) :
+Il est institué jusqu'au 31 décembre 2003 au profit du Groupement national interprofessionnel des semences, graines et plants (GNIS) :
 
 1. Une taxe annuelle forfaitaire due par les professionnels du secteur Semences en raison de leur activité ;
 
