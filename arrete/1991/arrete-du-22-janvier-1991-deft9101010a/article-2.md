@@ -2,10 +2,12 @@
 
 Les informations nominatives utilisées pour ce traitement portent sur :
 
-- l'état civil, la situation professionnelle et le domicile, déclarés par l'intéressé en application des articles L. 15 et L. 21 du code du service national ;
+- l'identité : nom, prénoms, date et lieu de naissance, adresse ;
 
-- les modalités de recensement, de convocation au centre de sélection, d'appel au service actif ;
+- l'aptitude médicale ;
 
-- les possibilités d'emploi au titre du service actif ;
+- la situation au regard des obligations du service actif :
 
-- l'aptitude médicale.
+dispense, report, préparation militaire et demandes particulières ;
+
+- les modalités de sélection, d'orientation et d'affectation.

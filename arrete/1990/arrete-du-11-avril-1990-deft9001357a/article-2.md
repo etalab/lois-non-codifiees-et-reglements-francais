@@ -4,7 +4,7 @@ Les informations nominatives qui font l'objet de ce traitement automatisé porte
 
 - l'état civil, la situation familiale et professionnelle et la résidence déclarés par les intéressés en application des articles L. 15 et L. 21 du code du service national ;
 
-- le numéro d'immatriculation au service national ;
+- le numéro d'immatriculation au service national, autre matricule (mer, air) ;
 
 - les autres nationalités éventuellement détenues par l'intéressé et celles de ses ascendants directs en application des articles L. 16 et R. 29 du code du service national ;
 
@@ -14,6 +14,6 @@ Les informations nominatives qui font l'objet de ce traitement automatisé porte
 
 - les possibilités ou restrictions d'emploi au titre d'une affectation de mobilisation militaire ou de défense ;
 
-- les services effectués, la notation, la situation vis-à-vis des obligations de réserve ;
+- Les services effectués, la durée totale le des interruptions des services, la notation (SOR), les récompenses, les décorations, les sanctions (punitions), la situation vis-à-vis des obligations de réserve ;.
 
 - la présence ou l'absence de suite pénale visée aux articles 772 et R. 74 du code de procédure pénale.
