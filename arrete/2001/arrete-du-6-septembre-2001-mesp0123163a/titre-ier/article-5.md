@@ -1,6 +1,6 @@
 # Article 5
 
-Parmi les deux modules optionnels, le premier doit être évalué en deuxième année, le second en troisième année.
+Parmi les deux modules optionnels, le premier doit être évalué en deuxième année, le second en troisième année. Chacun d'entre eux est pris en compte dans l'évaluation théorique de l'année d'études au cours de laquelle il a été enseigné.
 
 Chacun de ces modules est noté sur vingt points.
 
