@@ -288,6 +288,7 @@
 - [Décret n°2004-1158 du 29 octobre 2004 (JUSC0420832D)](decret-n2004-1158-du-29-octobre-2004-jusc0420832d)
 - [Décret n°2004-1159 du 29 octobre 2004 (JUSC0420812D)](decret-n2004-1159-du-29-octobre-2004-jusc0420812d)
 - [Décret n°2005-286 du 29 mars 2005 (MCCT0500185D)](decret-n2005-286-du-29-mars-2005-mcct0500185d)
+- [Décret n°2005-316 du 29 mars 2005 (EQUA0500088D)](decret-n2005-316-du-29-mars-2005-equa0500088d)
 - [Décret n°2005-718 du 29 juin 2005 (DEFP0500719D)](decret-n2005-718-du-29-juin-2005-defp0500719d)
 - [Décret n°2004-1533 du 30 décembre 2004 (MENF0402515D)](decret-n2004-1533-du-30-decembre-2004-menf0402515d)
 - [Décret n°2004-1534 du 30 décembre 2004 (INTD0400367D)](decret-n2004-1534-du-30-decembre-2004-intd0400367d)
