@@ -1,4 +1,4 @@
-# Arrêté du 26 juin 1967 relatif au diplôme d'Etat de manipulateur d'électroradiologie.
+# Arrêté du 26 juin 1967 relatif au diplôme d'Etat de laborantin d'analyses médicales.
 
 - [Titre 1er : Agrément des formations](titre-1er)
 - [Titre 2e : Conditions d'admission](titre-2e)
