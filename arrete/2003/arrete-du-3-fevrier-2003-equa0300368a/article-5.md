@@ -1,21 +1,19 @@
 # Article 5
 
-La note chiffrée, établie en cohérence avec l'appréciation générale, est comprise entre 0 et 20.
+Les marges d'évolution annuelle de la note chiffrée établie en cohérence avec l'appréciation générale sont fixées comme suit :
 
-La première note après titularisation ou après nomination au choix est fixée à 13,50 pour les agents du corps des ingénieurs des études et de l'exploitation de l'aviation civile et à 14 pour les agents de tous les autres corps de l'aviation civile.
+- maximale : augmentation de 2 points ;
 
-La première note est fixée à 14,25 pour les agents qui accèdent aux grades suivants :
+- forte : augmentation de 1 point ;
 
-- ingénieur principal des études et de l'exploitation de l'aviation civile ;
+- normale : pas d'augmentation ;
 
-- ingénieur principal du contrôle de la navigation aérienne ;
+- négative : diminution de 1 point ;
 
-- ingénieur divisionnaire du contrôle de la navigation aérienne ;
+- fortement négative : diminution de 2 points.
 
-- ingénieur électronicien principal des systèmes de la sécurité aérienne ;
+La note attribuée en 2005 (au titre de l'année 2004) est fixée dans un intervalle de 6 à 10, par rapport à une note de référence de 8.
 
-- ingénieur électronicien divisionnaire des systèmes de la sécurité aérienne.
+La note attribuée au titre d'une année  N  est déterminée à partir de la note obtenue l'année  N moins 1 , par application des règles mentionnées au premier alinéa du présent arrêté. Toutefois, les agents notés pour la première fois dans un corps se voient attribuer une note fixée dans un intervalle de 6 à 10, par rapport à une note de référence de 8.
 
-La première note est fixée à 14,25 pour les agents contractuels relevant du décret n° 48-1018 du 16 juin 1948 qui accèdent à la classe ou à la catégorie supérieure.
-
-La première note est fixée à 15 pour les agents qui accèdent au grade supérieur des autres corps de l'aviation civile.
+Les agents bénéficiant d'une évolution positive de note chiffrée de 2 ou 1 points bénéficient de réductions d'ancienneté, respectivement de 3 ou 1 mois, pour accéder à l'échelon supérieur. Ceux ayant une évolution négative de 1 ou 2 points se voient appliquer une majoration d'ancienneté, respectivement de 1 ou 3 mois, pour accéder à l'échelon supérieur.
