@@ -98,7 +98,6 @@
 - [Arrêté du 24 octobre 2000 (DEFP0001867A)](arrete-du-24-octobre-2000-defp0001867a)
 - [Arrêté du 24 octobre 2000 (ECOI0020337A)](arrete-du-24-octobre-2000-ecoi0020337a)
 - [Arrêté du 25 août 2000 (DEFD0001939A)](arrete-du-25-aout-2000-defd0001939a)
-- [Arrêté du 25 octobre 2000 (ECOL0000165A)](arrete-du-25-octobre-2000-ecol0000165a)
 - [Arrêté du 25 septembre 2000 (ECOI0000457A)](arrete-du-25-septembre-2000-ecoi0000457a)
 - [Arrêté du 26 décembre 2000 (ECOC0000146A)](arrete-du-26-decembre-2000-ecoc0000146a)
 - [Arrêté du 26 décembre 2000 (ECOD0040002A)](arrete-du-26-decembre-2000-ecod0040002a)
