@@ -1,6 +1,7 @@
 # 2005
 
 - [Arrêté du 3 janvier 2005 (AGRF0402632A)](arrete-du-3-janvier-2005-agrf0402632a)
+- [Arrêté du 3 janvier 2005 (ECOM0420017A)](arrete-du-3-janvier-2005-ecom0420017a)
 - [Arrêté du 3 mai 1995 (MCCK9500137A)](arrete-du-3-mai-1995-mcck9500137a)
 - [Arrêté du 3 mai 2005 (EQUP0500291A)](arrete-du-3-mai-2005-equp0500291a)
 - [Arrêté du 4 novembre 2005 (MAEA0520397A)](arrete-du-4-novembre-2005-maea0520397a)

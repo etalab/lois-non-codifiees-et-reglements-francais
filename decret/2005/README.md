@@ -37,6 +37,7 @@
 - [Décret n°47-77 du 13 janvier 1947](decret-n47-77-du-13-janvier-1947)
 - [Décret n°2005-246 du 14 mars 2005 (SANH0520373D)](decret-n2005-246-du-14-mars-2005-sanh0520373d)
 - [Décret n°2005-25 du 14 janvier 2005 (JUSC0420896D)](decret-n2005-25-du-14-janvier-2005-jusc0420896d)
+- [Décret n°2005-30 du 14 janvier 2005 (SANH0424404D)](decret-n2005-30-du-14-janvier-2005-sanh0424404d)
 - [Décret n°2004-1094 du 15 octobre 2004 (SOCF0411899D)](decret-n2004-1094-du-15-octobre-2004-socf0411899d)
 - [Décret n°2004-1103 du 15 octobre 2004 (SANS0423102D)](decret-n2004-1103-du-15-octobre-2004-sans0423102d)
 - [Décret n°2005-135 du 15 février 2005 (PRMG0470859D)](decret-n2005-135-du-15-fevrier-2005-prmg0470859d)
