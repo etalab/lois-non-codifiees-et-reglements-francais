@@ -707,7 +707,6 @@
 - [Arrêté du 20 juin 1997 (EQUS9701021A)](arrete-du-20-juin-1997-equs9701021a)
 - [Arrêté du 20 mars 1997 (AGRE9700610A)](arrete-du-20-mars-1997-agre9700610a)
 - [Arrêté du 20 mars 1997 (CSCX9701974A)](arrete-du-20-mars-1997-cscx9701974a)
-- [Arrêté du 20 mars 1997 (ENVN9760116A)](arrete-du-20-mars-1997-envn9760116a)
 - [Arrêté du 20 novembre 1997 (AGRP9701836A)](arrete-du-20-novembre-1997-agrp9701836a)
 - [Arrêté du 20 novembre 1997 (ECOS9750047A)](arrete-du-20-novembre-1997-ecos9750047a)
 - [Arrêté du 20 novembre 1997 (EQUS9701555A)](arrete-du-20-novembre-1997-equs9701555a)
