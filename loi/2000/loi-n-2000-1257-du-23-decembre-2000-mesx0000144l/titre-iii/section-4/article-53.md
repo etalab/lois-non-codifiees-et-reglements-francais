@@ -14,6 +14,8 @@ Cet établissement a pour mission de réparer les préjudices définis au I du p
 
 Il est administré par un conseil d'administration composé de représentants de l'Etat, des organisations siégeant à la commission des accidents du travail et des maladies professionnelles de la Caisse nationale de l'assurance maladie des travailleurs salariés, des associations nationales d'aide aux victimes de l'amiante et de personnalités qualifiées. Il est présidé par un magistrat.
 
+Il emploie des agents régis par les titres II, III ou IV du statut général des fonctionnaires en position d'activité, de détachement ou de mise à disposition. Il emploie également des agents contractuels de droit public avec lesquels il peut conclure des contrats à durée déterminée ou indéterminée. Il peut également faire appel à des agents contractuels de droit privé pour occuper des fonctions exigeant une qualification particulière dans le domaine de l'indemnisation des préjudices ou des maladies professionnelles. Les agents contractuels employés par le Fonds d'indemnisation des victimes de l'amiante sont tenus au secret et à la discrétion professionnels dans les mêmes conditions que celles qui sont définies à l'article 26 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires.
+
 III. - Le demandeur justifie de l'exposition à l'amiante et de l'atteinte à l'état de santé de la victime.
 
 Le demandeur informe le fonds des autres procédures relatives à l'indemnisation des préjudices définis au I éventuellement en cours. Si une action en justice est intentée, il informe le juge de la saisine du fonds.
