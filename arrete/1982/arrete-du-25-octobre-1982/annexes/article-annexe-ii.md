@@ -4,7 +4,7 @@
 
 Chapitre Ier
 
-Foires et marchés
+Foires et marchés.
 
 1. a) Les foires et marchés de bestiaux et de chèvres visés aux articles 280 à 283 du code rural doivent :
 
@@ -50,9 +50,9 @@ c) Ces animaux doivent être isolés du sol par une litière, une toile épaisse
 
 b) Pour tous ces animaux, la pesée ne peut être réalisée qu'en les plaçant dans des cageots, caisses ou emballages permettant leur contention.
 
-10. Les animaux destinés à l'abattage, reconnus gravement malades ou blessés ou en état de misère physiologique, doivent être conduits à l'abattoir le plus proche et y être abattus immédiatement.
+10. (Alinéa abrogé)
 
-11. L'abattage de tout animal sur les foires et marchés est strictement interdit, sauf en cas d'extrême urgence.
+11. (Alinéa abrogé)
 
 12. a) Les foires et marchés visés à l'article 282 du code rural doivent être soumis à la surveillance de l'autorité municipale durant toute la durée des opérations déterminées selon un horaire fixé par arrêté municipal pour l'ouverture et la fermeture.
 
