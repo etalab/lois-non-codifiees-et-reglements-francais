@@ -1,5 +1,6 @@
 # Décret n°52-645 du 3 juin 1952 relatif au régime des cotisations dues aux caisses mutuelles d'allocations familiales agricoles
 
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 5](article-5.md)
 - [Article 7](article-7.md)
