@@ -1,0 +1,3 @@
+# Article 9
+
+Chaque fois que les véhicules auront circulé en application des dispositions de l'article 5 ou de l'article 8, l'autorité militaire devra faire connaître très rapidement aux autorités civiles chargées de la voirie les conditions dans lesquelles s'est effectué le déplacement, notamment la définition détaillée des convois ayant réellement franchi les ponts intéressés. Ces informations devront permettre aux autorités en cause d'exécuter les vérifications nécessaires et de prendre toutes les mesures voulues. En cas d'incidents, ces informations seront portées sans délai et par les moyens les plus rapides à la connaissance des autorités civiles.
