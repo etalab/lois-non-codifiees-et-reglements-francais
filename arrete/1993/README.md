@@ -768,7 +768,6 @@
 - [Arrêté du 23 juin 1993 (ECOT9310182A)](arrete-du-23-juin-1993-ecot9310182a)
 - [Arrêté du 23 juin 1993 (ECOT9310185A)](arrete-du-23-juin-1993-ecot9310185a)
 - [Arrêté du 23 juin 1993 (INDP9320301A)](arrete-du-23-juin-1993-indp9320301a)
-- [Arrêté du 23 juin 1993 (INDP9320303A)](arrete-du-23-juin-1993-indp9320303a)
 - [Arrêté du 23 juin 1993 (MENF9305388A)](arrete-du-23-juin-1993-menf9305388a)
 - [Arrêté du 23 mars 1993 (AGRG9300435A)](arrete-du-23-mars-1993-agrg9300435a)
 - [Arrêté du 23 mars 1993 (EQUS9300577A)](arrete-du-23-mars-1993-equs9300577a)
