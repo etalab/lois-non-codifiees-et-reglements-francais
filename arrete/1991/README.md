@@ -638,7 +638,6 @@
 - [Arrêté du 19 novembre 1991 (INTD9100494A)](arrete-du-19-novembre-1991-intd9100494a)
 - [Arrêté du 19 septembre 1991 (EQUA9101467A)](arrete-du-19-septembre-1991-equa9101467a)
 - [Arrêté du 19 septembre 1991 (EQUS9101146A)](arrete-du-19-septembre-1991-equs9101146a)
-- [Arrêté du 19 septembre 1991 (MERE9100190A)](arrete-du-19-septembre-1991-mere9100190a)
 - [Arrêté du 20 août 1991 (DEFA9101894A)](arrete-du-20-aout-1991-defa9101894a)
 - [Arrêté du 20 août 1991 (SPSP9101907A)](arrete-du-20-aout-1991-spsp9101907a)
 - [Arrêté du 20 août 1991 (SPSP9101908A)](arrete-du-20-aout-1991-spsp9101908a)
