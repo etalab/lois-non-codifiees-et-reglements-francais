@@ -1,3 +1,5 @@
 # Article 2
 
-Les listes nominatives adressées aux services ne constituent qu'un élément d'information parmi ceux dont ils disposent pour sélectionner les dossiers.
+Lorsqu'un emballage collectif est constitué de deux ou plusieurs préemballages individuels, la gamme de valeurs citées à l'article 1er s'applique aux préemballages individuels.
+
+Lorsqu'un préemballage est constitué de deux ou plusieurs emballages individuels qui ne sont pas destinés à être vendus individuellement, la gamme de valeurs citées à l'article 1er s'applique au préemballage.

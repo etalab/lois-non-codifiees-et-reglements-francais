@@ -1,3 +1,3 @@
 # Article 4
 
-L'agrément dont bénéficiait l'association parisienne des propriétaires d'appareils électriques et à vapeur, 102, rue des Poissonniers, 75018 PARIS, est suspendu pour une durée de quatre mois. L'agrément reprendra effet à l'issue de cette période pour une durée de deux ans huit mois, à compter du 1er avril 1986 [*date de départ*].
+Les laboratoires chargés de concourir à l'application de la réglementation relative à la répression des fraudes sont tenus d'employer, pour la détermination des quantités de plomb et de cadmium cédées par les objets en céramique aux denrées, produits et boissons alimentaires, les conditions d'essai et la méthode d'analyse fixées par les annexes I et II de la directive susvisée n° 84-500 CEE du 15 octobre 1984.

@@ -1,33 +1,21 @@
 # Article 2
 
-Les agréments des laboratoires dont les noms suivent sont renouvelés pour une durée de trois ans à compter du 1er décembre 1985 :
+Les objets en céramique détenus en vue de la vente, mis en vente ou vendus pour la mise au contact des denrées, produits et boissons alimentaires ainsi que lesdits objets mis au contact de ces denrées, produits et boissons ne doivent pas céder des quantités de plomb et de cadmium supérieures aux limites fixées ci-dessous ;
 
-A.I.F. Services, 10, rue de Calais, 75441 PARIS CEDEX 9 ;
+Catégorie 1 - Objets non remplissables et objets remplissables dont la profondeur interne mesurée entre le point le plus bas et le plan horizontal passant par le bord supérieur est inférieure ou égale à 25 mm :
 
-A.I.N.F., zone industrielle, B.P. 259, 59472 SECLIN CEDEX ;
+- Pb : 0,8 mg/dm2 ;
 
-CERCHAR, B.P. 2, 60550 Verneuil-en-Halatte ;
+- Cd : 0,07 mg/dm2 ;
 
-CETIAT, plateau du Moulon, B.P. 19, 91042 ORSAY CEDEX ;
+Catégorie 2 - Tous autres objets remplissables :
 
-APAVE Alsacienne, 2, rue Thiers, 68100 Mulhouse ;
+- Pb : 4,0 mg/l ;
 
-APAVE Nord-Picardie, 8, rue de Valmy, B.P. 247, 59019 LILLE CEDEX ;
+- Cd : 0,3 mg/l ;
 
-APAVE Normande, 2, rue des Mouettes, près Rouen, 76120 Mont-Saint-Aignan ;
+Catégorie 3 - Ustensiles de cuisson : emballages et récipients de stockage ayant une capacité supérieure à trois litres :
 
-APAVE Lyonnaise, 177, route de Saint-Bel, 69160 Tassin-la-demi-lune ;
+- Pb : 1,5 mg/l ;
 
-APAVE de l'Ouest, Z.I.L., rue de la Johardière, 44803 Saint-Herblain ;
-
-APAVE du Sud-Ouest, Z.I. Artigues près Bordeaux, avenue Gay-Lussac, 33370 Tresses ;
-
-APAVE du Sud-Est, 32, rue Edmond-Rostand, 13006 Marseille ;
-
-IRCHA, B.P. 1, 91170 Vert-le-Petit ;
-
-L.N.E., département pollution, 1, rue Gaston-Boissier, 75015 Paris ;
-
-SOCOTEC, département activités nouvelles, les Quadrants, 3, avenue du Centre, 78182 Saint-Quentin-en-Yvelines Cedex ;
-
-C.E.P., contrôle et prévention, 34, rue Rennequin, 75017 Paris.
+- Cd : 0,1 mg/l.

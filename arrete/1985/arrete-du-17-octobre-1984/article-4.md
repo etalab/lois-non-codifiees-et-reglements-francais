@@ -1,3 +1,3 @@
 # Article 4
 
-En dehors des agents de la direction générale des impôts qui en sont destinataires dans le cadre de leurs attributions, les informations faisant l'objet du traitement ne pourront être communiquées qu'aux personnes ayant qualité pour en connaître en vertu des dispositions législatives.
+Le directeur de la qualité et de la sécurité industrielles, le directeur général de la concurrence et de la consommation, le directeur général des douanes et des droits indirects, le directeur de la consommation et de la répression des fraudes, le directeur général de la santé et le directeur de la pharmacie et du médicament sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
