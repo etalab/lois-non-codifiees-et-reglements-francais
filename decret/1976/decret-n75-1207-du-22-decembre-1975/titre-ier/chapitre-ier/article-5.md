@@ -12,8 +12,8 @@ Capitaine de corvette : trois échelons ;
 
 Capitaine de frégate : trois échelons et deux échelons spéciaux
 
-Capitaine de vaisseau : deux échelons et un échelon exceptionnel ;
+Capitaine de vaisseau : deux échelons et deux échelons exceptionnels ;
 
-Contre-amiral : un échelon ;
+Contre-amiral : un échelon et un échelon exceptionnel ;
 
 Vice-amiral : deux échelons.
