@@ -1,25 +1,5 @@
 # Article 3
 
-Dans tous les abattoirs agréés pour l'exportation ou les échanges intracommunautaires, l'estampillage sanitaire des viandes doit être effectué à l'aide d'une des estampilles suivantes :
+Dans les lieux et locaux visés à l'article 2, les sols, les murs et les cloisons doivent être constitués ou recouverts de matériaux résistant aux chocs, imperméables, faciles à nettoyer et à désinfecter.
 
-1° L'estampille dite "communautaire d'abattoir", lorsque les viandes ainsi que les conditions de leur préparation satisfont aux prescriptions fixées pour les échanges intracommunautaires. Cette estampille présente les caractéristiques suivantes :
-
-Cachet de forme ovale de 65 mm de largeur et de 45 mm de hauteur où figurent en caractères parfaitement lisibles et en relief :
-
-Dans la partie supérieure, en majuscules, le mot France ;
-
-Au centre, le numéro d'agrément vétérinaire de l'établissement, composé de quatre chiffres dont les deux premiers reproduisent le numéro minéralogique du département et les deux autres de 01 à 99 composent le numéro d'identification de l'abattoir dans le département ;
-
-Dans la partie inférieure, le sigle C.E.E..
-
-Les caractères doivent avoir une hauteur de 8 mm pour les lettres et de 10 mm pour les chiffres.
-
-2° L'estampille dite "nationale d'abattoir", lorsque les viandes ou les conditions de leur préparation ne satisfont pas à toutes les prescriptions fixées pour les échanges intracommunautaires. Cette estampille présente les caractéristiques suivantes :
-
-Cachet dessinant un cercle de 60 mm de diamètre où figurent en caractères parfaitement lisibles et en relief :
-
-A une distance de 1 mm de la bordure externe du cachet et formant une couronne marginale, en lettres majuscules de 8 mm, la mention Inspection sanitaire vétérinaire ;
-
-Au centre, le numéro vétérinaire de l'abattoir composé de cinq chiffres de 10 mm de hauteur, dont les deux premiers reproduisent le numéro minéralogique du département, les trois autres, de 101 à 199, composent le numéro d'identification de cet abattoir dans le département.
-
-Ces deux groupes de chiffres sont espacés de 5 mm, l'espace médian étant occupé par un tiret de 2 mm.
+En outre, dans les lieux et locaux visés aux paragraphes A et B de l'article 2, les sols, les murs et cloisons doivent être faciles à laver. Si des éléments juxtaposés sont utilisés pour leur réalisation, ils doivent être disposés de façon que l'ensemble obtenu soit étanche ; les sols doivent comporter une pente appropriée, afin d'assurer un rapide et complet écoulement des eaux résiduaires et de lavage ; celles-ci sont évacuées au moyen d'un orifice grillagé, muni d'un siphon et raccordé à une conduite étanche. Le raccordement des murs ou cloisons avec le sol doit être aménagé en gorge arrondie. Toutefois, cette dernière prescription n'est pas applicable aux constructions existantes à la date de publication du présent arrêté.

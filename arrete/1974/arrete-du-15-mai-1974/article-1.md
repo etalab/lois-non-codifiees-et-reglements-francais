@@ -1,3 +1,3 @@
 # Article 1
 
-La conformité aux normes sanitaires des viandes de boucherie et des produits à base de viande visés par le présent arrêté est attestée par l'application sur les denrées elles-mêmes ou la reproduction sur leurs emballages d'estampilles ou de marques sanitaires définies par le présent arrêté.
+Les établissements faisant l'objet des dispositions du présent arrêté ne doivent être implantés qu'en un lieu situé à l'abri d'odeurs fortes et nauséabondes, et de toute cause de pollutions susceptible de nuire à l'hygiène des produits traités ou fabriqués.

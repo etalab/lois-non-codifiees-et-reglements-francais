@@ -1,19 +1,9 @@
 # Article 9
 
-Dans les ateliers de découpage agréés pour l'exportation ou les échanges intracommunautaires, le marquage sanitaire doit être effectué à l'aide des estampilles ou marques sanitaires suivantes :
+Les conditions d'hygiène dans lesquelles sont réalisées les opérations de réception, de transformation, de conditionnement, de stockage et d'expédition du lait et des produits laitiers doivent faire l'objet d'un contrôle mené par l'entreprise responsable de l'établissement, dans le laboratoire de son choix ; celui-ci doit être agréé à cet effet par la direction des services vétérinaires lorsqu'il n'est pas un département ou service de l'entreprise.
 
-1° L'estampille "communautaire d'atelier de découpage", lorsque les viandes ainsi que les conditions de leur préparation satisfont aux prescriptions fixées pour les échanges intracommunautaires. Cette estampille présente les mêmes caractéristiques que "l'estampille communautaire d'abattoir" définie à l'article 3, toutefois la lettre II désignant la nature de l'activité de l'établissement est ajoutée à droite du groupe de quatre chiffres.
+Le contrôle a pour objet, notamment, d'assurer que :
 
-L'estampillage peut être aussi effectué à l'aide d'une "estampille-plaquette communautaire". Cette estampille doit être telle que son réemploi soit rendu impossible. Elle doit être en matériaux résistants répondant à toutes les exigences de l'hygiène.
+- les matériels utilisés ne constituent pas des sources de contamination pour le lait et ses dérivés, notamment du fait de l'emploi des produits utilisés pour le nettoyage, la désinfection et l'entretien, ou du fait d'une désinfection insuffisante ;
 
-Sur l'"estampille-plaquette communautaire" figurent, inscrits dans un ovale, en caractères parfaitement lisibles :
-
-Dans la partie supérieure, les deux majuscules F.R. ;
-
-Au centre, le numéro d'agrément vétérinaire de l'atelier de découpage suivi de la lettre H ;
-
-Dans la partie inférieure, le sigle C.E.E..
-
-Les caractères doivent avoir une hauteur de 2 mm pour les lettres comme pour les chiffres.
-
-2° L'estampille dite "nationale d'atelier de découpage", lorsque les viandes ou les conditions de leur préparation ne satisfont pas à toutes les prescriptions fixées pour les échanges intracommunautaires. Cette estampille présente les mêmes caractéristiques que "l'estampille nationale d'abattoir". Toutefois, la lettre H de 8 mm de hauteur, désignant la nature de l'activité de l'établissement est ajoutée en dessous du groupe de cinq chiffres.
+- les produits finis destinés à la consommation humaine ou animale répondent aux caractéristiques de composition et d'hygiène exigées.    L'organisation et les modalités du contrôle sont établies, en accord avec les organisations professionnelles de la transformation du lait, par la direction des services vétérinaires.

@@ -1,11 +1,8 @@
-# Arrêté du 15 mai 1974 relatif à l'estampillage sanitaire des viandes de boucherie et des produits à base de viande
+# Arrêté du 15 mai 1974 relatif aux conditions d'hygiène relatives aux établissements de collecte et de transformation du lait et des produits laitiers
 
 - [Article 1](article-1.md)
-- [Titre Ier : Estampillage sanitaire dans les abattoirs.](titre-ier)
-- [Article 2](article-2.md)
-- [Titre II : Estampilles et marques sanitaires dans les ateliers de découpage.](titre-ii)
-- [Titre III : Estampillage sanitaire dans les ateliers de préparation de viandes hachées à l'avance crues ou précuites conditionnées, ou de produits à base de viandes hachées à l'avance crues ou précuites conditionnés.](titre-iii)
-- [Titre IV : Estampillage sanitaire dans les ateliers de transformation (à l'exclusion de ceux visés aux articles 13 à 15).](titre-iv)
-- [Titre V : Estampilles particulières.](titre-v)
-- [Titre VI : Dispositions générales.](titre-vi)
-- [Article 26](article-26.md)
+- [Titre Ier : Conditions d'hygiène relatives à l'ensemble de l'établissement.](titre-ier)
+- [Titre II : Hygiène des équipements et matériels.](titre-ii)
+- [Titre III : Conditions d'hygiène relatives à l'entretien des lieux, locaux et équipements.](titre-iii)
+- [Titre IV : Dispositions générales.](titre-iv)
+- [Article 19](article-19.md)
