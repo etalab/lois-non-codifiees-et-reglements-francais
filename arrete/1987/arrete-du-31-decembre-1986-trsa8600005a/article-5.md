@@ -2,23 +2,23 @@
 
 L'organisme AFIS doit communiquer en radiotéléphonie aux pilotes :
 
-a) Les éléments suivants relevant du service d'information de vol et dénommés paramètres :
+" a) Les éléments suivants relevant du service d'information de vol et dénommés paramètres :
 
-- piste en service ;
+" - piste en service ;
 
-- direction et force du vent au sol et variations significatives ;
+" - direction et force du vent et variations significatives ;
 
-- visibilité horizontale ;
+" - visibilité horizontale ;
 
-- nébulosité ou visibilité verticale ;
+" - quantité de nuages bas et hauteur de leur base ou mesure instrumentale de la hauteur de la base des nuages ;
 
-- température au sol ;
+" - température au sol ;
 
-- calage altimétrique QNH ;
+" - calage altimétrique ONH ;
 
-- calage altimétrique QFE.
+" - calage altimétrique QFE.
 
-Toutefois la nébulosité, la visibilité verticale et la température au sol ne sont communiquées que si ces renseignements sont disponibles.
+" Toutefois, la quantité de nuages bas et la hauteur de la base des nuages ou, à défaut, la mesure instrumentale de la hauteur de la base des nuages, ainsi que la température au sol ne sont communiquées que si ces renseignements sont disponibles. "
 
 b) Les renseignements en sa possession et portant sur :
 
