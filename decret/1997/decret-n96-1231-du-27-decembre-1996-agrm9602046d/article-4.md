@@ -1,0 +1,15 @@
+# Article 4
+
+I. - La taxe due par les armateurs est recouvrée par l'Etablissement national des invalides de la marine selon les règles, garanties et sanctions applicables aux cotisations dues à cet établissement, qui opère à son profit un prélèvement de 5 p. 100 du montant de la taxe recouvrée, représentant les frais d'assiette et de perception. Le produit de ladite taxe est reversé mensuellement par cet établissement au Comité national des pêches maritimes et des élevages marins sous forme d'une avance représentant 90 p. 100 du total, après prélèvement, des sommes ainsi recouvrées pour le mois considéré. Le solde est reversé trimestriellement, après arrêté des comptes.
+
+Le montant de la taxe ainsi reversée au Comité national des pêches maritimes et des élevages marins est scindé en trois parts, destinées respectivement à ce comité national, au comité régional et au comité local des pêches maritimes et des élevages marins afférents au port d'armement du navire.
+
+II. - La taxe due par les premiers acheteurs en criée, qui n'est versée qu'en un seul lieu, est recouvrée par la collectivité ou l'organisme gestionnaire de la halle à marée la plus proche du siège de l'entreprise, son paiement donnant lieu à l'établissement d'un certificat.
+
+Le produit de ladite taxe est immédiatement reversé par la collectivité ou l'organisme gestionnaire de la halle à marée au Comité national des pêches maritimes et des élevages marins. Ce comité national en assure la répartition à son profit et au profit des comités régionaux et locaux des pêches maritimes et des élevages marins et reverse trimestriellement aux comités régionaux et locaux la part qui leur revient.
+
+Jusqu'au 31 décembre 1998, la répartition mentionnée à l'alinéa précédent est effectuée au prorata de la répartition constatée en 1996. La répartition applicable à compter du 1er janvier 1999 sera fixée par un arrêté conjoint des ministres désignés à l'article 5 du présent décret, pris après avis du Comité national des pêches maritimes et des élevages marins. Les parts revenant respectivement aux comités régionaux et locaux seront alors déterminées en fonction de la répartition de l'activité des premiers acheteurs opérant en criée qui aura été constatée dans le ressort de ces différents comités.
+
+III. - La taxe due par les premiers acheteurs opérant exclusivement hors criée et la taxe due par les éleveurs sont recouvrées par le comité local des pêches maritimes et des élevages marins le plus proche du siège des entreprises concernées. Ce comité local en effectue la répartition pour moitié au profit du Comité national des pêches maritimes et des élevages marins, pour un quart au profit du comité régional dont il relève et pour un quart à son profit.
+
+En l'absence de comité local des pêches maritimes et des élevages marins, le comité régional assure le recouvrement de la taxe et en effectue la répartition pour moitié au profit du Comité national des pêches maritimes et des élevages marins et pour moitié à son profit.

@@ -788,6 +788,7 @@
 - [Décret n°64-96 du 27 janvier 1964](decret-n64-96-du-27-janvier-1964)
 - [Décret n°95-1344 du 27 décembre 1995 (FPPA9510000D)](decret-n95-1344-du-27-decembre-1995-fppa9510000d)
 - [Décret n°96-1178 du 27 décembre 1996 (MIPP9600482D)](decret-n96-1178-du-27-decembre-1996-mipp9600482d)
+- [Décret n°96-1231 du 27 décembre 1996 (AGRM9602046D)](decret-n96-1231-du-27-decembre-1996-agrm9602046d)
 - [Décret n°96-1250 du 27 décembre 1996 (MIPP9600512D)](decret-n96-1250-du-27-decembre-1996-mipp9600512d)
 - [Décret n°96-1256 du 27 décembre 1996 (FPPA9610035D)](decret-n96-1256-du-27-decembre-1996-fppa9610035d)
 - [Décret n°96-1257 du 27 décembre 1996 (ECOS9650049D)](decret-n96-1257-du-27-decembre-1996-ecos9650049d)
