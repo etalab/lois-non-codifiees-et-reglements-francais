@@ -1007,7 +1007,6 @@
 - [Arrêté du 28 décembre 1998 (ECOC9800173A)](arrete-du-28-decembre-1998-ecoc9800173a)
 - [Arrêté du 28 décembre 1998 (ECOF9820864A)](arrete-du-28-decembre-1998-ecof9820864a)
 - [Arrêté du 28 décembre 1998 (ECOT9810357A)](arrete-du-28-decembre-1998-ecot9810357a)
-- [Arrêté du 28 décembre 1998 (EQUA9801711A)](arrete-du-28-decembre-1998-equa9801711a)
 - [Arrêté du 28 décembre 1998 (MESF9811348A)](arrete-du-28-decembre-1998-mesf9811348a)
 - [Arrêté du 28 janvier 1998 (MESH9820422A)](arrete-du-28-janvier-1998-mesh9820422a)
 - [Arrêté du 28 janvier 1998 (MESP9820592A)](arrete-du-28-janvier-1998-mesp9820592a)
