@@ -1,5 +1,0 @@
-# Article 1
-
-Les ressortissants d'un Etat membre des communautés européennes qui ne sont pas titulaires des diplômes, certificats, titres ou autorisations exigés, respectivement, par les articles L. 494, L. 505 et L. 510-2 du code de la santé publique et qui ont suivi avec succès une formation post-secondaire théorique et pratique d'une durée minimale de deux ans à temps plein ou d'une durée équivalente à temps partiel, dans une université ou un établissement d'enseignement supérieur du même niveau de formation d'un Etat membre, et qui souhaitent exercer en France les professions de pédicure-podologue, d'opticien-lunetier ou d'audioprothésiste, doivent obtenir une autorisation d'exercice délivrée par le ministre chargé de la santé.
-
-En ce qui concerne les opticiens-lunetiers, un enseignement d'une durée minimale de deux ans dispensé dans un établissement assurant une formation professionnelle du même niveau que celle qui est dispensée en France est assimilée à la formation post-secondaire mentionnée à l'alinéa précédent.

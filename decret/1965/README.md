@@ -9,7 +9,6 @@
 - [Décret n°65-746 du 2 septembre 1965](decret-n65-746-du-2-septembre-1965)
 - [Décret n°65-747 du 2 septembre 1965](decret-n65-747-du-2-septembre-1965)
 - [Décret n°65-748 du 2 septembre 1965](decret-n65-748-du-2-septembre-1965)
-- [Décret n°65-920 du 2 novembre 1965](decret-n65-920-du-2-novembre-1965)
 - [Décret n°65-923 du 2 novembre 1965](decret-n65-923-du-2-novembre-1965)
 - [Décret n°65-749 du 3 septembre 1965](decret-n65-749-du-3-septembre-1965)
 - [Décret n°65-845 du 4 octobre 1965](decret-n65-845-du-4-octobre-1965)

@@ -1,7 +1,0 @@
-# Article 36
-
-I.  Pour l'organisation des premières élections des membres des assemblées des unions régionales des médecins exerçant à titre libéral, les personnes prévues au 2° de l'article 16 du présent décret sont désignées conjointement par les organisations syndicales nationales qui ont été reconnues les plus représentatives en application de l'article L. 162-33 du code de la sécurité sociale, dans un délai de quinze jours à compter de la publication de l'arrêté mentionné au premier alinéa de l'article 14 ci-dessus [*point de départ*], ou, à défaut, par les préfets de région.
-
-II.  Les dépenses afférentes à ces élections ainsi que les remboursements mentionnés à l'article 26 sont provisoirement mis à la charge de la caisse primaire d'assurance maladie dans la circonscription de laquelle se trouve le chef-lieu de la région. Il en est de même des frais afférents aux réunions des assemblées des unions régionales.
-
-Les dépenses prises en charge par les caisses en application de l'alinéa précédent viennent en déduction du montant du premier versement aux unions de la contribution instituée par l'article 9 de la loi du 4 janvier 1993 susvisée. Ces sommes, dont le montant est constaté par arrêté des ministres chargés de la sécurité sociale et du budget, sont versées par l'Agence centrale des organismes de sécurité sociale aux caisses primaires d'assurance maladie concernées, à la même date que celle du versement aux unions régionales.

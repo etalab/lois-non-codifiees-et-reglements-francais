@@ -82,7 +82,6 @@
 - [Décret n°78-441 du 24 mars 1978](decret-n78-441-du-24-mars-1978)
 - [Décret n°78-442 du 24 mars 1978](decret-n78-442-du-24-mars-1978)
 - [Décret n°78-445 du 24 mars 1978](decret-n78-445-du-24-mars-1978)
-- [Décret n°78-906 du 24 août 1978](decret-n78-906-du-24-aout-1978)
 - [Décret n°78-78 du 25 janvier 1978](decret-n78-78-du-25-janvier-1978)
 - [Décret n°78-785 du 25 juillet 1978](decret-n78-785-du-25-juillet-1978)
 - [Décret n°78-814 du 25 juillet 1978](decret-n78-814-du-25-juillet-1978)

@@ -335,7 +335,6 @@
 - [Décret n°86-1149 du 23 octobre 1986](decret-n86-1149-du-23-octobre-1986)
 - [Décret n°86-1150 du 23 octobre 1986](decret-n86-1150-du-23-octobre-1986)
 - [Décret n°86-118 du 23 janvier 1986](decret-n86-118-du-23-janvier-1986)
-- [Décret n°86-122 du 23 janvier 1986](decret-n86-122-du-23-janvier-1986)
 - [Décret n°86-1310 du 23 décembre 1986](decret-n86-1310-du-23-decembre-1986)
 - [Décret n°86-1311 du 23 décembre 1986](decret-n86-1311-du-23-decembre-1986)
 - [Décret n°86-1313 du 23 décembre 1986](decret-n86-1313-du-23-decembre-1986)

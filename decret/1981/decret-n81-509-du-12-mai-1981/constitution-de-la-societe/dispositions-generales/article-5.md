@@ -1,3 +1,0 @@
-# Article 5
-
-Avant son inscription [*sur la liste des sociétés professionnelles*], la société est tenue de communiquer au préfet une attestation du greffier du tribunal de commerce du lieu du siège social ou du tribunal de grande instance statuant commercialement [*formalités préalables - contrôle*]. Cette attestation constate le dépôt au greffe de la demande et des pièces et actes nécessaires à l'immatriculation ultérieure de la société au registre du commerce et des sociétés, dans les conditions définies par la réglementation relative audit registre et par les articles 13 à 15 du présent décret.
