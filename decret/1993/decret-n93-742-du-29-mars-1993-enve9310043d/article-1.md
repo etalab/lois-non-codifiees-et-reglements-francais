@@ -18,7 +18,7 @@ f) [*supprimé*]
 
 g) Le décret du 20 décembre 1979 susvisé ;
 
-h) Le décret du 7 mai 1980 susvisé ;
+h) Le décret du 7 mai 1980 en tant qu'il concerne d'autres domaines que la police des mines.
 
 i) Le décret du 15 avril 1981 susvisé ;
 
@@ -42,4 +42,4 @@ d) Le décret n° 62-1296 du 6 novembre 1962 pris pour l'application de l'ordonn
 
 e) Le décret n° 95-540 du 4 mai 1995 relatif aux rejets d'effluents liquides et gazeux et aux prélèvements d'eau des installations nucléaires de base.
 
-f) Le décret 65-72 du 13 janvier 1965 pris pour l'application de l'ordonnance n° 58-1332 du 23 décembre 1958 relative au stockage souterrain d'hydrocarbures liquides ou liquéfiés.
+f) Le décret 65-72 du 13 janvier 1965 pris pour l'application de l'ordonnance n° 58-1332 du 23 décembre 1958 relative au stockage souterrain d'hydrocarbures liquides ou liquéfiés.    g) Le décret n° 95-696 du 9 mai 1995 relatif à l'ouverture des travaux miniers et à la police des mines.
