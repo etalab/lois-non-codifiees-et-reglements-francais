@@ -54,7 +54,6 @@
 - [Arrêté du 21 mai 1976](arrete-du-21-mai-1976)
 - [Arrêté du 22 décembre 1975](arrete-du-22-decembre-1975)
 - [Arrêté du 23 juin 1976](arrete-du-23-juin-1976)
-- [Arrêté du 23 septembre 1976](arrete-du-23-septembre-1976)
 - [Arrêté du 24 juin 1976](arrete-du-24-juin-1976)
 - [Arrêté du 25 août 1976](arrete-du-25-aout-1976)
 - [Arrêté du 25 mars 1976](arrete-du-25-mars-1976)
