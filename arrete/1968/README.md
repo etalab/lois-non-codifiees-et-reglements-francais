@@ -1,5 +1,6 @@
 # 1968
 
+- [Arrêté du 2 février 1968](arrete-du-2-fevrier-1968)
 - [Arrêté du 3 janvier 1968](arrete-du-3-janvier-1968)
 - [Arrêté du 4 octobre 1968](arrete-du-4-octobre-1968)
 - [Arrêté du 8 janvier 1968](arrete-du-8-janvier-1968)
