@@ -1,3 +1,3 @@
 # Article 5
 
-Le comité peut inviter à participer à ses travaux, à titre consultatif, toute personne qualifiée.
+Les autorisations d'emploi de la gomme Xanthane visées par le présent arrêté sont accordées jusqu'au 1er juin 1979.

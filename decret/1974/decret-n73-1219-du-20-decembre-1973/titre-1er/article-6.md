@@ -1,0 +1,3 @@
+# Article 6
+
+Les engagements prévus aux articles 2 à 4 ci-dessus sont souscrits et autorisés dans les conditions et suivant les modalités fixées par arrêté du ministre chargé des armées. Cet arrêté détermine notamment leur durée, par arme, service, spécialité ou groupe de spécialités et, compte tenu des règles fixées par les statuts particuliers des corps de sous-officiers de carrière correspondants, les conditions dans lesquelles les femmes peuvent être admises à souscrire de tels engagements. La durée du contrat peut être modifiée ultérieurement, soit sur demande des engagés agréée par le ministre, soit, en cas de changement d'emploi motivé par des raisons d'aptitude, sur décision du ministre, dans les conditions prévues au titre IV ci-dessous.
