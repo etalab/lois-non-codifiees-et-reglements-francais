@@ -154,6 +154,8 @@ Traitement de l'information.
 
 Professions technico-commerciales des industries des métaux.
 
+Brevet de technicien supérieur (spécialité Commerce international).
+
 Brevet de technicien supérieur agricole (spécialité Gestion et économie agricoles) délivré par le ministère de l'agriculture.
 
 Baccalauréat de technicien :
