@@ -1,4 +1,4 @@
-# Réception par type complémentaire ou multi-étape
+# Réception par type des châssis (carrossage des véhicules incomplets)
 
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
@@ -7,4 +7,5 @@
 - [Article 7](article-7.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
+- [Article 12](article-12.md)
 - [Article 12 bis](article-12-bis.md)

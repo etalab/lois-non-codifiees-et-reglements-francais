@@ -5,4 +5,4 @@
 - [Réception à titre isolé d'un véhicule usagé](reception-a-titre)
 - [Annexes](annexes)
 - [Dispositions générales](dispositions-generales)
-- [Réception par type complémentaire ou multi-étape](reception-par)
+- [Réception par type des châssis (carrossage des véhicules incomplets)](reception-par)
