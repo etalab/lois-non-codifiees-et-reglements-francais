@@ -76,6 +76,7 @@
 - [Arrêté du 7 mars 1994 (ECOS9450007A)](arrete-du-7-mars-1994-ecos9450007a)
 - [Arrêté du 7 mars 1994 (SPSG9400757A)](arrete-du-7-mars-1994-spsg9400757a)
 - [Arrêté du 7 septembre 1994 (DEFP9401655A)](arrete-du-7-septembre-1994-defp9401655a)
+- [Arrêté du 8 avril 1994 (PRMX9400114A)](arrete-du-8-avril-1994-prmx9400114a)
 - [Arrêté du 8 décembre 1993 (INTF9300696A)](arrete-du-8-decembre-1993-intf9300696a)
 - [Arrêté du 8 décembre 1993 (JUSF9350102A)](arrete-du-8-decembre-1993-jusf9350102a)
 - [Arrêté du 8 décembre 1993 (JUSF9350103A)](arrete-du-8-decembre-1993-jusf9350103a)
