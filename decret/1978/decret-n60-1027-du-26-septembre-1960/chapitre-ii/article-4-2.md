@@ -1,0 +1,3 @@
+# Article 4-2
+
+En ce qui concerne le recrutement des maitres-assistants dans des emplois affectés à des instituts universitaires de technologie et à des écoles nationales supérieures d'ingénieurs régis respectivement par le décret n° 69-63 du 20 janvier 1969 et le décret n° 69-930 du 14 octobre 1969 portant application aux instituts de faculté ou d'université préparant a un diplôme d'ingénieur de la loi du 12 novembre 1968 susvisée, le nom du candidat retenu ou la liste de classement établie par la ou les commissions de spécialité et d'établissement est soumis, avant transmission au conseil de l'établissement, pour avis au directeur de l'institut ou de l'école. Cet avis doit être formulé dans un délai de huit jours au terme duquel il est réputé donné.
