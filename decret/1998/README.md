@@ -107,7 +107,6 @@
 - [Décret n°2000-386 du 3 mai 2000 (EQUA0000198D)](decret-n2000-386-du-3-mai-2000-equa0000198d)
 - [Décret du 4 juin 1998 (ECOC9800026D)](decret-du-4-juin-1998-ecoc9800026d)
 - [Décret n°2002-1147 du 4 septembre 2002 (EQUP0201101D)](decret-n2002-1147-du-4-septembre-2002-equp0201101d)
-- [Décret n°98-1017 du 4 novembre 1998 (PRMG9870451D)](decret-n98-1017-du-4-novembre-1998-prmg9870451d)
 - [Décret n°98-1018 du 4 novembre 1998 (PRMX9803211D)](decret-n98-1018-du-4-novembre-1998-prmx9803211d)
 - [Décret n°98-1090 du 4 décembre 1998 (ECOC9800121D)](decret-n98-1090-du-4-decembre-1998-ecoc9800121d)
 - [Décret n°98-1092 du 4 décembre 1998 (FPPA9800161D)](decret-n98-1092-du-4-decembre-1998-fppa9800161d)
