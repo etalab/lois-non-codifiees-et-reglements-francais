@@ -11,6 +11,7 @@
 - [Décret n°74-27 du 14 janvier 1974](decret-n74-27-du-14-janvier-1974)
 - [Décret n°74-28 du 14 janvier 1974](decret-n74-28-du-14-janvier-1974)
 - [Décret n°74-58 du 15 janvier 1974](decret-n74-58-du-15-janvier-1974)
+- [Décret n° 74-325 du 17 avril 1974](decret-n-74-325-du-17-avril-1974)
 - [Décret n°74-53 du 17 janvier 1974](decret-n74-53-du-17-janvier-1974)
 - [Décret n°74-862 du 17 octobre 1974](decret-n74-862-du-17-octobre-1974)
 - [Décret n°76-553 du 17 juin 1976](decret-n76-553-du-17-juin-1976)
