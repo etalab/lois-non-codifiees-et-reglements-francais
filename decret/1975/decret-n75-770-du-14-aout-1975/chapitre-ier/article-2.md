@@ -1,6 +1,6 @@
 # Article 2
 
-Peuvent être dispensés de l'examen professionnel et de tout ou partie du stage par décision du garde des sceaux, ministre de la justice, prise après avis du bureau de la chambre nationale des huissiers de justice :
+Peuvent être dispensés de l'examen professionnel et de tout ou partie du stage par décision du garde des sceaux, ministre de la justice, prise après avis du bureau de la chambre nationale des huissiers de justice ;
 
 1° Les anciens magistrats de l'ordre judiciaire régis par l'ordonnance n° 58-1270 du 22 décembre 1958 ainsi que les anciens présidents et conseillers des tribunaux administratifs ;
 
@@ -18,10 +18,10 @@ Peuvent être dispensés de l'examen professionnel et de tout ou partie du stage
 
 8° Les personnes ayant été inscrites pendant deux ans au moins sur une liste de conseils juridiques ;
 
-9° Les anciens fonctionnaires de la catégorie A ayant exercé pendant trois ans au moins des activités juridiques ou fiscales dans une administration ou un service public ;
+9° Les anciens fonctionnaires de la catégorie A ou les personnes assimilées aux fonctionnaires de cette catégorie ayant exercé pendant trois ans au moins des activités juridiques ou fiscales dans une administration ou un service public.
 
 10° Les personnes ayant accompli cinq années au moins d'exercice professionnel dans le service juridique ou fiscal d'une entreprise publique ou privée employant au moins trois juristes ;
 
-11° Les anciens secrétaires-greffiers, anciens secrétaires de conseil de prud'hommes, anciens greffiers de cour d'appel, de tribunal de grande instance et de tribunal de commerce, titulaires de charge, ayant au moins cinq ans de fonctions.
+11° Les anciens greffiers et les anciens secrétaires de conseil de prud'hommes, titulaires de charge, ayant exercé leurs fonctions pendant cinq ans au moins.
 
 12° Les anciens syndics et administrateurs judiciaires, les anciens administrateurs judiciaires et mandataires liquidateurs, ayant exercé leurs fonctions pendant deux ans au moins.
