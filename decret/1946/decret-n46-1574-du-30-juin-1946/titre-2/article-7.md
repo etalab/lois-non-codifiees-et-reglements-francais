@@ -14,7 +14,7 @@ L'étranger qui, n'étant pas déjà admis à résider en France, sollicite la d
 
 Il présente en outre les documents ci-après :
 
-1° S'il vient en France pour y exercer une activité salariée, les justificatifs prévus par la réglementation en vigueur ;
+1. S'il vient en France pour y exercer une activité salariée et ne remplit pas les conditions de l'article 12 bis de l'ordonnance du 2 novembre 1945 susvisée, les justificatifs prévus par la réglementation en vigueur ;.
 
 2° S'il a l'intention d'exercer une activité professionnelle
 
