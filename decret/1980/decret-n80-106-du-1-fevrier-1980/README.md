@@ -1,7 +1,6 @@
 # Décret n°80-106 du 1 février 1980 MODIFIANT CERTAINES DISPOSITIONS DU N° 74-32 DU 15 JANVIER 1974 ET FIXANT LES MESURES D'APPLICATION DE L'ARTICLE 9 DE LA LOI N° 79-575 DU 10 JUILLET 1979.
 
 - [Article 1](article-1.md)
-- [Article 2](article-2.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)

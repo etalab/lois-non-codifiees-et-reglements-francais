@@ -497,7 +497,6 @@
 - [Arrêté du 16 septembre 1991 (ECOS9130011A)](arrete-du-16-septembre-1991-ecos9130011a)
 - [Arrêté du 16 septembre 1991 (EQUA9101402A)](arrete-du-16-septembre-1991-equa9101402a)
 - [Arrêté du 16 septembre 1991 (EQUA9101403A)](arrete-du-16-septembre-1991-equa9101403a)
-- [Arrêté du 16 septembre 1991 (RESY9100503A)](arrete-du-16-septembre-1991-resy9100503a)
 - [Arrêté du 17 avril 1991 (EQUP9100458A)](arrete-du-17-avril-1991-equp9100458a)
 - [Arrêté du 17 avril 1991 (EQUP9100459A)](arrete-du-17-avril-1991-equp9100459a)
 - [Arrêté du 17 avril 1991 (EQUS9100690A)](arrete-du-17-avril-1991-equs9100690a)
