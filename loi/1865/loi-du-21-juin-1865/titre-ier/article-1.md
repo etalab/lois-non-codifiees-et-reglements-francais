@@ -28,7 +28,7 @@ Peuvent être l'objet d'une association syndicale entre propriétaires intéress
 
 9° bis D'aménagement des sols après exploitation de carrières et en vue de l'exploitation coordonnée des carrières telle qu'elle est prévue à l'article L. 109-1 du code minier.
 
-10° De chemins d'exploitation ;
+10° De chemins d'exploitation, notamment forestiers ;
 
 11° De toute autre amélioration agricole d'intérêt collectif, notamment d'amenée d'eau pour les besoins domestiques, de dessalage des terres, d'emploi d'eaux usées, de reboisements ;
 
@@ -36,4 +36,6 @@ Peuvent être l'objet d'une association syndicale entre propriétaires intéress
 
 13° De défense et de lutte contre la grêle et la gelée ;
 
-14° D'assainissement destiné à la suppression des gîtes à moustiques.
+14° D'assainissement destiné à la suppression des gîtes à moustiques ;
+
+15° De protection des peuplements forestiers contre les dégâts de gibier. Dans ce cas, les statuts de l'association syndicale prévoient les modalités selon lesquelles celle-ci représente ses adhérents auprès de l'autorité administrative compétente en matière d'attribution du plan de chasse ainsi qu'auprès des fédérations départementales des chasseurs.
