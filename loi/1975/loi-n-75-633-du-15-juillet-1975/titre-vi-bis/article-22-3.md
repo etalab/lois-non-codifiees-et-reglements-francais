@@ -8,11 +8,13 @@ Ce fonds a pour objet :
 
 - l'aide à la réalisation d'équipements de traitement de ces déchets, notamment de ceux qui utilisent des techniques innovantes ;
 
-- la participation au financement de la remise en état d'installations de stockage collectif de déchets ménagers et assimilés et des terrains pollués par installations ;
+- la participation au financement de la remise en état d'installations de stockage collectif de déchets ménagers et assimilés et des terrains pollués par ces installations ;
 
 - la participation au financement du traitement et de la réhabilitation des sites pollués, autres que ceux visés au cinquième alinéa, lorsque cette participation est devenue nécessaire du fait de la défaillance de l'exploitant ou du détenteur. ;
 
-- l'aide aux communes recevant sur leur territoire une nouvelle installation intercommunale de traitement de déchets ménagers ou assimilés et, éventuellement, aux communes ayant déjà une installation de ce type et réalisant une extension de cette installation, ainsi que, le cas échéant, aux communes limitrophes subissant des contraintes particulières du fait de l'installation.
+- l'aide aux départements auxquels la compétence d'élaboration des plans prévus à l'article 10-2 a été transférée pour l'élaboration, la mise en oeuvre et la révision de ces plans.
+
+- l'aide aux communes recevant sur leur territoire une nouvelle installation intercommunale de traitement de déchets ménagers ou assimilés et, éventuellement, aux communes ayant déjà une installation de ce type et réalisant une extension de cette installation, ainsi que, le cas échéant, aux communes limitrophes subissant des contraintes particulières du fait de l'installation;
 
 Le produit de la taxe perçue au titre des installations d'élimination de déchets industriels spéciaux est affecté exclusivement au traitement et à la réhabilitation des sites mentionnés au sixième alinéa.
 
