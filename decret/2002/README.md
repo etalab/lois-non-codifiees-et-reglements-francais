@@ -407,6 +407,7 @@
 - [Décret n°2002-541 du 20 avril 2002 (ECOT0237021D)](decret-n2002-541-du-20-avril-2002-ecot0237021d)
 - [Décret n°2003-59 du 20 janvier 2003 (FPPA0200136D)](decret-n2003-59-du-20-janvier-2003-fppa0200136d)
 - [Décret n°59-456 du 20 mars 1959](decret-n59-456-du-20-mars-1959)
+- [Décret n°95-71 du 20 janvier 1995 (MICT9500006D)](decret-n95-71-du-20-janvier-1995-mict9500006d)
 - [Décret n°2001-1250 du 21 décembre 2001 (MESH0124042D)](decret-n2001-1250-du-21-decembre-2001-mesh0124042d)
 - [Décret n°2001-1257 du 21 décembre 2001 (ATEG0190005D)](decret-n2001-1257-du-21-decembre-2001-ateg0190005d)
 - [Décret n°2001-1258 du 21 décembre 2001 (ECOT0114202D)](decret-n2001-1258-du-21-decembre-2001-ecot0114202d)
