@@ -1,7 +1,0 @@
-# Article 18
-
-Les limitations et interdictions résultant des articles 5, 6, 8, 9, 14 et 17 ci-dessus sont également applicables dans les professions et entreprises dont les salariés [*agricoles*] sont visés à l'article 1060 du Code rural, sous réserve de leur adaptation aux conditions particulières de ces professions et entreprises, soit, dans le cas des articles 5 et 6 ci-dessus, par des arrêtés conjoints du ministre de l'éducation nationale, du ministre des affaires sociales et du ministre de l'agriculture, soit, dans le cas des articles 8, 9, 14 et 17, par des arrêtés préfectoraux pris dans les conditions prévues à l'article 987 du Code rural.
-
-Les arrêtés ministériels ci-dessus prévus pourront notamment prévoir des dérogations à l'application des dispositions résultant de l'article 5 de la présente ordonnance pour des travaux légers effectués pendant les vacances scolaires soit par des enfants âgés de plus de quatorze ans, soit par des enfants de treize ans au moins lorsque ces travaux sont exécutés sous la surveillance du père, de la mère, ou du tuteur, salarié dans la même entreprise.
-
-Les inspecteurs et contrôleurs des lois sociales en agriculture sont chargés de l'application des dispositions tant du présent titre que de celles des textes pris pour son application lorsque ces dispositions visent les professions et entreprises agricoles définies au premier alinéa du présent article.
