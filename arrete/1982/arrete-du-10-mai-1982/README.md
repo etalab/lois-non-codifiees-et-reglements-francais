@@ -1,5 +1,3 @@
-# Arrêté du 10 mai 1982 DU 10 MAI 1982 FIXANT LE TAUX DE LA TAXE PARAFISCALE PERCUE AU PROFIT DE L'INSTITUT FRANCAIS DU PETROLE
+# Arrêté du 10 mai 1982 relatif à la valeur de remboursement de la fraction du capital de l'emprunt d'Etat 8,80 p. 100 1977 amortie le 23 mai 1982
 
 - [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
