@@ -535,7 +535,6 @@
 - [Arrêté du 24 novembre 1989 (AGRG8902494A)](arrete-du-24-novembre-1989-agrg8902494a)
 - [Arrêté du 24 novembre 1989 (PTTP8901070A)](arrete-du-24-novembre-1989-pttp8901070a)
 - [Arrêté du 24 novembre 1989 (PTTP8901071A)](arrete-du-24-novembre-1989-pttp8901071a)
-- [Arrêté du 24 novembre 1989 (RESY8900337A)](arrete-du-24-novembre-1989-resy8900337a)
 - [Arrêté du 24 novembre 1989 (SPSS8902528A)](arrete-du-24-novembre-1989-spss8902528a)
 - [Arrêté du 24 mai 1989 (BUDL8900077A)](arrete-du-24-mai-1989-budl8900077a)
 - [Arrêté du 24 mai 1989 (MERG8900105A)](arrete-du-24-mai-1989-merg8900105a)
