@@ -30,7 +30,6 @@
 - [Arrêté du 5 octobre 1983](arrete-du-5-octobre-1983)
 - [Arrêté du 5 mai 1983](arrete-du-5-mai-1983)
 - [Arrêté du 6 décembre 1982](arrete-du-6-decembre-1982)
-- [Arrêté du 6 décembre 1983](arrete-du-6-decembre-1983)
 - [Arrêté du 6 janvier 1983](arrete-du-6-janvier-1983)
 - [Arrêté du 6 septembre 1983](arrete-du-6-septembre-1983)
 - [Arrêté du 6 mai 1983](arrete-du-6-mai-1983)
