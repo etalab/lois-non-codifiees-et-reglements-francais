@@ -1,0 +1,3 @@
+# Article 1
+
+Les entreprises, créées en 1983 et en 1984, soumises de plein droit ou sur option à un régime réel d'imposition de leurs résultats et répondant aux conditions prévues à l'article 44 bis II (2e et 3e) et III du code général des impôts, peuvent être exonérées, dans les conditions prévues aux articles 2 et 3 de la présente loi, de la taxe foncière sur les propriétés bâties et de la taxe professionnelle ainsi que des taxes pour frais de chambres de commerce et d'industrie et pour frais de chambres de métiers, dont elles sont redevables pour les établissements qu'elles ont créés ou repris à une entreprise en difficulté, au titre des deux années suivant celle de leur création.
