@@ -4,9 +4,7 @@ Tout militaire qui a au moins un enfant à charge peut prétendre aux majoration
 
 Le montant de ces majorations est obtenu par l'application d'un coefficient au montant du traitement brut soumis à retenue pour pension afférent à l'indice brut 585. Ce montant est majoré de 25 % pour les enfants âgés de dix à quinze ans et de 50 % pour les enfants âgés de plus de quinze ans.
 
-Les coefficients applicables pour chaque enfant à charge sont prévus, pour chaque pays et par groupe, par l'arrêté conjoint du ministre chargé du budget et du ministre des affaires étrangères pris pour l'application du troisième alinéa de l'article 8 du décret du 28 mars 1967 susvisé.
-
-Un arrêté conjoint du ministre de la défense, du ministre des affaires étrangères, du ministre chargé du budget et du ministre chargé de la fonction publique porte classement des militaires dans les groupes de majorations familiales prévus à l'alinéa précédent.
+Les coefficients applicables pour chaque enfant à charge sont prévus, pour chaque pays, par l'arrêté conjoint du ministre chargé du budget et du ministre des affaires étrangères pris pour l'application du troisième alinéa de l'article 8 du décret du 28 mars 1967 susvisé.
 
 En cas de changement dans la situation de famille du militaire au cours d'un mois, les majorations familiales sont dues pour le mois entier.
 

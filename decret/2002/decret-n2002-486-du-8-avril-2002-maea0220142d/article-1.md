@@ -1,0 +1,3 @@
+# Article 1
+
+Une nouvelle bonification indiciaire, prise en compte et soumise à cotisation pour le calcul de la pension de retraite, peut être versée mensuellement, dans la limite des crédits disponibles, aux titulaires d'emplois supérieurs à la décision du Gouvernement, aux titulaires d'emplois de direction nommés dans les conditions prévues par le décret du 19 septembre 1955 susvisé, aux titulaires d'emplois de directeur de projet inscrits au budget du ministère des affaires étrangères et aux membres de l'inspection générale exerçant l'une des fonctions mentionnées dans l'annexe du présent décret, en fonction à l'administration centrale du ministère des affaires étrangères.

@@ -19,3 +19,5 @@ Adjoint au chef de section ordonnancement ;
 Adjoint au chef de section traitements et salaires ;
 
 Technicien audio-visuel.
+
+Régisseur de recettes.

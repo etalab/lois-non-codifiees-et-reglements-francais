@@ -1,8 +1,8 @@
 # Article 17
 
-L'agrément, par le ministre chargé de l'économie et des finances, des sociétés anonymes de gestion de fonds communs de placement est accordé après avis de la Commission des opérations de bourse.
+L'agrément, par le ministre chargé de l'économie et des finances, des sociétés anonymes de gestion de fonds communs de placement est accordé après avis de l'Autorité des marchés financiers.
 
-Cet agrément ne peut être donné qu'à la condition que les statuts de ces sociétés prévoient, si leur capital est inférieur à 500.000 F, que les deux tiers au moins des actions doivent être détenus par des personnes énumérées à l'article précédent, ou, si leur capital est supérieur ou égal à 500.000 F, que la moitié des actions moins une doit être détenue par des personnes énumérées à l'article précédent et qu'un montant au moins égal au deux tiers du capital doit être employé en bons ou valeurs du Trésor, en valeurs admises à la cote officielle d'une bourse française ou en immeuble.
+Cet agrément ne peut être donné qu'à la condition que les statuts de ces sociétés prévoient, si leur capital est inférieur à 75.000  euros, que les deux tiers au moins des actions doivent être détenus par des personnes énumérées à l'article précédent, ou, si leur capital est supérieur ou égal à 75.000 euros, que la moitié des actions moins une doit être détenue par des personnes énumérées à l'article précédent et qu'un montant au moins égal au deux tiers du capital doit être employé en bons ou valeurs du Trésor, en valeurs admises à la cote officielle d'une bourse française ou en immeuble.
 
 A la demande d'agrément doivent être joints :
 

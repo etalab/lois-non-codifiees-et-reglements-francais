@@ -1,5 +1,7 @@
 # Article 2
 
-Cette indemnité est allouée selon des taux fixés par arrêté conjoint des ministres chargés du budget, de la défense et de la fonction publique.
+Un arrêté conjoint des ministres chargés de la défense, du budget et de la fonction publique fixe, dans la limite des crédits ouverts à cet effet, le montant moyen annuel de cette indemnité.
 
-L'allocation individuelle à chaque agent fait l'objet d'une décision du ministre d'Etat chargé de la défense nationale, compte tenu des fonctions exercées, des responsabilités assumées et des sujétions qui en sont la conséquence.
+Une décision du ministre chargé de la défense fixe les attributions individuelles en tenant compte des fonctions exercées, des responsabilités assumées et des sujétions.
+
+Les attributions individuelles ne peuvent excéder le double du montant moyen annuel.

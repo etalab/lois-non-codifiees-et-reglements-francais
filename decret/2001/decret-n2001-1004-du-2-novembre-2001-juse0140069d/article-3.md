@@ -2,7 +2,7 @@
 
 Le taux de la prime de sujétions spéciales s'établit conformément au tableau ci-dessous :
 
-GRADES ET EMPLOIS Personnel de direction
+GRADES ET EMPLOIS : Personnel de direction
 
 Emploi de directeur régional
 
@@ -24,17 +24,17 @@ Directeur de 2e classe
 
 MONTANT DE LA PRIME de sujétions spéciales en pourcentage du traitement brut : 19
 
-GRADES ET EMPLOIS Personnel d'insertion et de probation
+GRADES ET EMPLOIS : Personnel d'insertion et de probation
 
 Chef des services d'insertion et de probation
 
-MONTANT DE LA PRIME de sujétions spéciales en pourcentage du traitement brut : 17
+MONTANT DE LA PRIME de sujétions spéciales en pourcentage du traitement brut : 19
 
 Conseiller d'insertion et de probation
 
-MONTANT DE LA PRIME de sujétions spéciales en pourcentage du traitement brut : 17
+MONTANT DE LA PRIME de sujétions spéciales en pourcentage du traitement brut : 19
 
-GRADES ET EMPLOIS Personnel technique
+GRADES ET EMPLOIS : Personnel technique
 
 Directeur technique
 
@@ -48,7 +48,7 @@ Adjoint technique
 
 MONTANT DE LA PRIME de sujétions spéciales en pourcentage du traitement brut : 22
 
-GRADES ET EMPLOIS Personnel de surveillance
+GRADES ET EMPLOIS : Personnel de surveillance
 
 Chef de service pénitentiaire hors classe
 
@@ -81,3 +81,25 @@ MONTANT DE LA PRIME de sujétions spéciales en pourcentage du traitement brut :
 Surveillant de petit effectif et intérimaire
 
 MONTANT DE LA PRIME de sujétions spéciales en pourcentage du traitement brut : 17
+
+Personnel d'administration et d'intendance
+
+GRADES ET EMPLOIS : Attaché d'administration et d'intendance
+
+MONTANT DE LA PRIME de sujétions spéciales en pourcentage du traitement brut : 19
+
+GRADES ET EMPLOIS : Secrétaire administratif
+
+MONTANT DE LA PRIME de sujétions spéciales en pourcentage du traitement brut : 19
+
+GRADES ET EMPLOIS : Adjoint administratif
+
+MONTANT DE LA PRIME de sujétions spéciales en pourcentage du traitement brut : 21
+
+GRADES ET EMPLOIS : Agent administratif
+
+MONTANT DE LA PRIME de sujétions spéciales en pourcentage du traitement brut : 21
+
+GRADES ET EMPLOIS : Agent des services techniques
+
+MONTANT DE LA PRIME de sujétions spéciales en pourcentage du traitement brut : 21

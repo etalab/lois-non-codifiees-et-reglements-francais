@@ -1,0 +1,3 @@
+# Article 1
+
+Une nouvelle bonification indiciaire, prise en compte et soumise à cotisation pour le calcul de la pension de retraite, peut être versée mensuellement, dans la limite des crédits disponibles, aux titulaires d'emplois supérieurs à la décision du Gouvernement, aux inspecteurs civils du ministère de la défense, aux titulaires d'emplois de direction nommés dans les conditions prévues par le décret du 19 septembre 1955 susvisé ou titulaires d'emplois de directeur de projet inscrits au chapitre 31-11, article 22, du budget du ministère de la défense et exerçant une des fonctions figurant en annexe au présent décret.

@@ -1,6 +1,6 @@
 # Article 6
 
-Sera puni d'une amende de 150000 F quiconque aura, en infraction aux règlements de la communauté économique européenne, aux dispositions du présent texte et aux règlements pris pour son application :
+Sera puni d'une amende de 22500 euros quiconque aura, en infraction aux règlements de la communauté économique européenne, aux dispositions du présent texte et aux règlements pris pour son application :
 
 1° Détenu à bord ou utilisé pour la pêche des explosifs, des armes à feu, des substances soporifiques ou toxiques de nature à détruire ou altérer les animaux, les végétaux marins et leur milieu ;
 

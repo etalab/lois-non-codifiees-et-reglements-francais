@@ -2,7 +2,7 @@
 
 L'ordonnance n° 58-1064 du 7 novembre 1958 portant loi organique relative à l'élection du Président de la République est remplacée par les dispositions suivantes ayant valeur organique.
 
-I. Quinze jours au moins avant le premier tour de scrutin ouvert pour l'élection du Président de la République, le Gouvernement assure la publication de la liste des candidats [*délai*].
+I. Quinze jours au moins avant le premier tour de scrutin ouvert pour l'élection du Président de la République, le Gouvernement assure la publication de la liste des candidats *délai*.
 
 Cette liste est préalablement établie par le Conseil constitutionnel au vu des présentations qui lui sont adressées, dix-huit jours au moins avant le premier tour de scrutin, par au moins cinq cents citoyens membres du Parlement, des conseils régionaux, de l'Assemblée de Corse, des conseils généraux des départements, de Mayotte et de Saint-Pierre-et-Miquelon, du Conseil de Paris, de l'assemblée de la Polynésie française, du congrès et des assemblées de province de la Nouvelle-Calédonie, de l'assemblée territoriale des îles Wallis-et-Futuna, maires, maires délégués des communes associées, maires des arrondissements de Lyon et de Marseille ou membres élus du Conseil supérieur des Français de l'étranger. Les présidents des organes délibérants des communautés urbaines, des communautés d'agglomération ou des communautés de communes et les ressortissants français membres du Parlement européen élus en France peuvent également, dans les mêmes conditions, présenter un candidat à l'élection présidentielle. Une candidature ne peut être retenue que si, parmi les signataires de la présentation, figurent des élus d'au moins trente départements ou territoires d'outre-mer, sans que plus d'un dixième d'entre eux puissent être les élus d'un même département ou territoire d'outre-mer.
 
@@ -14,7 +14,7 @@ Le nom et la qualité des citoyens qui ont proposé les candidats inscrits sur l
 
 II. Les opérations électorales sont organisées selon les règles fixées par les articles L. 1er, L. 2, L. 5 à L. 7, L. 9 à L. 21, L. 23, L. 25, L. 27 à L. 43, L. 45, L. 47 à L. 52-2, L. 52-4 à L. 52-11, L. 52-12, L. 52-16, L. 53 à L. 55, L. 57 à L. 78, L. 85-1 à L. 111, L. 113 à L. 114, L. 116, L. 117, LO 127, L. 199, L. 200, L. 202, L. 203, L. 385 à L. 387, L. 389 et L. 393 du code électoral dans leur rédaction en vigueur à la date de publication de la loi organique n° 2001-100 du 5 février 2001 précitée, sous réserve des dispositions suivantes :
 
-Le plafond des dépenses électorales prévu par l'article L. 52-11 est fixé à 90 millions de francs pour un candidat à l'élection du Président de la République. Il est porté à 120 millions de francs pour chacun des candidats présents au second tour.
+Le plafond des dépenses électorales prévu par l'article L. 52-11 du code électoral est fixé à 13,7 millions d'euros pour un candidat à l'élection du Président de la République. Il est porté à 18,3 millions d'euros pour chacun des candidats présents au second tour.
 
 Les personnes physiques ne peuvent, dans le cadre de l'application des dispositions de l'article L. 52-8 du code électoral, accorder des prêts et avances remboursables aux candidats.
 
@@ -40,7 +40,7 @@ IV. Tous les candidats bénéficient, de la part de l'Etat, des mêmes facilité
 
 V. Un décret en Conseil d'Etat fixe les modalités d'application des présentes dispositions organiques ; il détermine notamment les conditions de la participation de l'Etat aux dépenses de propagande.
 
-Lors de la publication de la liste des candidats au premier tour, l'Etat verse à chacun d'entre eux une somme d'un million de francs, à titre d'avance sur le remboursement forfaitaire de leurs dépenses de campagne prévu à l'alinéa suivant. Si le montant du remboursement n'atteint pas cette somme, l'excédent fait l'objet d'un reversement.
+Lors de la publication de la liste des candidats au premier tour, l'Etat verse à chacun d'entre eux une somme de 153000 euros, à titre d'avance sur le remboursement forfaitaire de leurs dépenses de campagne prévu à l'alinéa suivant. Si le montant du remboursement n'atteint pas cette somme, l'excédent fait l'objet d'un reversement.
 
 Une somme égale au vingtième du montant du plafond des dépenses de campagne qui leur est applicable est remboursée, à titre forfaitaire, à chaque candidat ; cette somme est portée à la moitié dudit plafond pour chaque candidat ayant obtenu plus de 5 p. 100 du total des suffrages exprimés au premier tour. Elle ne peut excéder le montant des dépenses du candidat retracées dans son compte de campagne.
 

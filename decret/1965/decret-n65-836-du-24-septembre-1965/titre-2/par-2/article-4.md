@@ -2,7 +2,7 @@
 
 I - Les services pris en compte dans la constitution du droit à pension sont :
 
-1° Les services accomplis en qualité d'affilié. La période pendant laquelle les intéressés ont été autorisés à accomplir un service à temps partiel dans les conditions prévues par le décret n° 84-105 du 13 février 1984 est comptée pour la totalité de sa durée;
+1° Les services accomplis en qualité d'affilié. La période pendant laquelle les intéressés ont été autorisés à accomplir un service à temps partiel dans les conditions prévues par le décret n° 84-105 du 13 février 1984 est comptée pour la totalité de sa durée ;
 
 2° Les services dûment validés dans les conditions prévues au dernier alinéa de l'article L. 5 du Code des pensions civiles et militaires de retraite ;
 
@@ -20,4 +20,4 @@ II - Sauf les positions de congé fixées par décret, Le temps passé dans tout
 
 III - a) Pour les intéressés rémunérés par un salaire national, la durée des services effectifs se décompte d'après le temps d'immatriculation ;
 
-b) Pour les intéressés rémunérés en fonction des salaires pratiqués dans l'industrie, l'année de service effectif se compte par 1.960 heures, le temps ainsi calculé ne pouvant jamais être supérieur par année au temps d'immatriculation.
+b) Pour les intéressés rémunérés en fonction des salaires pratiqués dans l'industrie, l'année de service effectif se compte par 1.759 heures, le temps ainsi calculé ne pouvant jamais être supérieur par année au temps d'immatriculation.

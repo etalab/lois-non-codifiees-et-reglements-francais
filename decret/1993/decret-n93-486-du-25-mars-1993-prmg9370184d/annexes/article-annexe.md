@@ -4,8 +4,10 @@ FONCTION EXERCÉE POUVANT OUVRIR DROIT AU VERSEMENT
 
 D'UNE NOUVELLE BONIFICATION INDICIAIRE
 
-Responsable de la gestion des crédits de fonctionnement.
+Responsable des affaires financières.
 
-Secrétaire de direction.
+Assistant de gestion-suivi des engagements.
 
-Secrétaire bilingue.
+Assistant de gestion-contrôle de gestion.
+
+Assistant de gestion-informatique.

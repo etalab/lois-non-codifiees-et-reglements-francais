@@ -12,7 +12,7 @@ La déclaration, servie ligne par ligne, comporte les mentions suivantes :
 
 - la nature du flux d'échanges ;
 
-- le niveau d'obligation statistique de l'opérateur et, s'il y a lieu, le nom et le numéro d'agrément de la tierce personne mentionnée à l'article 2 ;
+- le niveau d'obligation statistique de l'opérateur et, s'il y a lieu, le nom de la tierce personne mentionnée à l'article 2 ;
 
 - le régime de l'opération, sous réserve des dispositions du 3.
 

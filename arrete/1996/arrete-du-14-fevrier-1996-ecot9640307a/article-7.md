@@ -2,7 +2,7 @@
 
 Donnent lieu à compte rendu :
 
-- les opérations visées au premier tiret de l'article 13 du décret du 29 décembre 1989 précité, lorsque leur montant est supérieur à 10 000 000 F ;
+- les opérations visées au premier tiret de l'article 13 du décret du 29 décembre 1989 précité, lorsque leur montant est supérieur à 1500000 euros ;
 
 - les acquisitions de terres agricoles donnant lieu à une exploitation vitivinicole ;
 

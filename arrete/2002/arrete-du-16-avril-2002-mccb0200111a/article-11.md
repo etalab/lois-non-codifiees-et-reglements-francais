@@ -1,0 +1,3 @@
+# Article 11
+
+Les déplacements effectués dans le cadre de l'exercice des fonctions sont assimilés à des obligations liées au travail imposées aux agents sans qu'il y ait travail effectif ou astreinte conformément à l'article 9 du décret du 25 août 2000 susvisé.A ce titre, le temps de déplacement entre le lieu de travail habituel ou le domicile et un lieu de travail ne correspondant pas au lieu de travail habituel, accomplis en dehors des heures normales et à la demande de l'administration, est compensé par récupération horaire, déduction faite du temps moyen de déplacement du domicile au lieu de travail habituel.

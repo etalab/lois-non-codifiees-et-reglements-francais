@@ -6,62 +6,62 @@ Nature des déclarations faites par le déclarant ou le représentant unique pou
 
 Substances déjà mises sur le marché et dont la quantité atteint 100 tonnes
 
-Redevance forfaitaire (en francs, hors taxes)
+Redevance forfaitaire (en euros, hors taxes)
 
-10 000
+1 550
 
-Redevance forfaitaire (en francs, hors taxes) pour une déclaration incluant une évaluation des risques
+Redevance forfaitaire (en euros, hors taxes) pour une déclaration incluant une évaluation des risques
 
-8 000
+1 220
 
-Redevance complémentaire (en francs, hors taxes)
+Redevance complémentaire (en euros, hors taxes)
 
-1 000
+155
 
 Nature des déclarations faites par le déclarant ou le représentant unique pour la mise sur le marché
 
 Substances destinées à être mises sur le marché en quantités supérieures ou égales à 1 tonne par an
 
-Redevance forfaitaire (en francs, hors taxes)
+Redevance forfaitaire (en euros, hors taxes)
 
-30 000
+4 600
 
-Redevance forfaitaire (en francs, hors taxes) pour une déclaration incluant une évaluation des risques
+Redevance forfaitaire (en euros, hors taxes) pour une déclaration incluant une évaluation des risques
 
-24 000
+3 660
 
-Redevance complémentaire (en francs, hors taxes)
+Redevance complémentaire (en euros, hors taxes)
 
-3 000
+460
 
 Nature des déclarations faites par le déclarant ou le représentant unique pour la mise sur le marché
 
 Substances destinées à être mises sur le marché en quantités inférieures à 1 tonne par an mais égales ou supérieures à 100 kilogrammes par an
 
-Redevance forfaitaire (en francs, hors taxes)
+Redevance forfaitaire (en euros, hors taxes)
 
-10 000
+1 550
 
-Redevance forfaitaire (en francs, hors taxes) pour une déclaration incluant une évaluation des risques
+Redevance forfaitaire (en euros, hors taxes) pour une déclaration incluant une évaluation des risques
 
-8 000
+1 220
 
-Redevance complémentaire (en francs, hors taxes)
+Redevance complémentaire (en euros, hors taxes)
 
-1 000
+155
 
 Nature des déclarations faites par le déclarant ou le représentant unique pour la mise sur le marché
 
 Substances destinées à être mises sur le marché en quantités inférieures à 100 kilogrammes par an mais égales ou supérieures à 10 kilogrammes par an
 
-Redevance forfaitaire (en francs, hors taxes)
+Redevance forfaitaire (en euros, hors taxes)
 
-5 000
+770
 
-Redevance forfaitaire (en francs, hors taxes) pour une déclaration incluant une évaluation des risques
+Redevance forfaitaire (en euros, hors taxes) pour une déclaration incluant une évaluation des risques
 
-4 000
+610
 
-Redevance complémentaire (en francs, hors taxes)
+Redevance complémentaire (en euros, hors taxes)
 
-500
+77

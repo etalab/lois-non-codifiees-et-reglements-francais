@@ -18,6 +18,6 @@ Jusqu'à obtention ou réobtention d'une qualification du cheptel bovin concern�
 
 - la prescription à l'éleveur de mesures sanitaires à respecter et le contrôle de leur application ;
 
-- la rédaction et l'envoi des documents réglementaires par visite effectuée : 20 F.
+- la rédaction et l'envoi des documents réglementaires par visite effectuée : 3,05 euros.
 
-2° Prélèvements destinés au diagnostic sérologique, par animal prélevé : 5 F.
+2° Prélèvements destinés au diagnostic sérologique, par animal prélevé : 0,76 euro.

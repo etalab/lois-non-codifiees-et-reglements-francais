@@ -4,6 +4,7 @@
 - [Loi n° 77-1453 du 29 décembre 1977](loi-n-77-1453-du-29-decembre-1977)
 - [Loi n° 77-1460 du 29 décembre 1977](loi-n-77-1460-du-29-decembre-1977)
 - [Loi n° 77-1467 du 30 décembre 1977](loi-n-77-1467-du-30-decembre-1977)
+- [Loi n° 77-4 du 3 janvier 1977](loi-n-77-4-du-3-janvier-1977)
 - [Loi n° 77-461 du 2 mai 1977](loi-n-77-461-du-2-mai-1977)
 - [Loi n° 77-574 du 7 juin 1977](loi-n-77-574-du-7-juin-1977)
 - [Loi n° 77-620 du 16 juin 1977](loi-n-77-620-du-16-juin-1977)

@@ -1,6 +1,6 @@
 # Article 3
 
-Le terme correspondant à la circulation, défini à l'article 7 du décret du 5 mai 1997 susvisé, est, pour chaque convoi, le produit d'un prix kilométrique DC (en francs par convoi et par kilomètre) et de la distance parcourue sur la section élémentaire considérée.
+Le terme correspondant à la circulation, défini à l'article 7 du décret du 5 mai 1997 susvisé, est, pour chaque convoi, le produit d'un prix kilométrique DC (en euros par convoi et par kilomètre) et de la distance parcourue sur la section élémentaire considérée.
 
 Le prix kilométrique DC est uniforme sur l'ensemble des sections élémentaires composant le réseau ferré national. Il peut être modulé pour tenir compte du type de convoi ou de trafic et du tonnage, sans que le rapport entre les prix kilométriques correspondant aux différents types de convois ou de trafics et aux différents tonnages dépasse 5.
 

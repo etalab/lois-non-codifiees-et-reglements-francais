@@ -1,6 +1,6 @@
 # Article 3
 
-Les taux de la vacation horaire prévue à l'article 2 ci-dessus à l'intention du président et des experts sont fixés respectivement à 182 F et 113 F.
+Les taux de la vacation horaire allouée au président et aux experts sont fixés respectivement à : 34,21 euros et 21,36 euros.
 
 Ces taux sont susceptibles de révision périodique.
 

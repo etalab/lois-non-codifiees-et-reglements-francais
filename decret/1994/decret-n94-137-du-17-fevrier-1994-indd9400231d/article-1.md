@@ -1,6 +1,6 @@
 # Article 1
 
-Une aide de 5 000 F est accordée par l'Etat à toute personne physique :
+Une aide de 750 euros est accordée par l'Etat à toute personne physique :
 
 qui fera l'acquisition d'un véhicule neuf et qui remettra simultanément au vendeur du véhicule neuf, à des fins de destruction, un véhicule d'un âge au moins égal à dix ans ;
 

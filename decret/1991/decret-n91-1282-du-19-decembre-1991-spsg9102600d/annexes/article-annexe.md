@@ -28,71 +28,69 @@ VIII.  Documentalistes.
 
 IX.  Correspondants logistiques dans les bureaux d'affaires générales.
 
-FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE DANS LES SERVICES CENTRAUX DU MINISTÈRE CHARGÉ DES AFFAIRES SOCIALES ET DE LA SANTÉ
+FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE DANS LES SERVICES CENTRAUX DU MINISTÈRE CHARGÉ DES AFFAIRES SOCIALES ET DU MINISTÈRE CHARGÉ DE LA SANTÉ
 
-A compter du 1er août 1995
+A compter du 1er janvier 2002
 
-1. Responsables des secrétariats particuliers des :
+1. Responsable du secrétariat particulier de :
 
-- délégués ;
+- délégué ;
 
-- directeurs généraux et directeurs de l'administration centrale ;
+- directeur général et directeur de l'administration centrale ;
 
 - chef du service de l'inspection générale des affaires sociales ;
 
 - chef du service des droits des femmes ;
 
-- chef du service des statistiques, études et des systèmes d'information ;
+- chef du service de l'information et de la communication ;
 
-- chefs de service et sous-directeurs de l'administration centrale ;
+- chef de service de l'administration centrale ;
+
+- sous-directeur de l'administration centrale ;
 
 - contrôleur financier.
 
-2. Régisseurs d'avances et régisseurs de recettes.
+2. Régisseur d'avances et régisseur de recettes.
 
-3. Responsables de la réalisation des tâches de photocomposition et de reprographie.
+3. Responsable de la réalisation des tâches de photocomposition et de reprographie.
 
-4. Chargés de mission départementale au service des droits des femmes.
+4. Agent chargé de l'accueil.
 
-5. Agents chargés de l'accueil.
+5. Personnel du service social.
 
-6. Personnels du service social.
+6. Chef des ateliers.
 
-7. Chef des ateliers.
+7. Assistant technique des ateliers.
 
-8. Assistants techniques des ateliers.
+8. Responsable des ateliers.
 
-9. Responsables des ateliers.
+9. Agent d'orientation standardiste.
 
-10. Adjoint du chef des ateliers.
+10. Personnel chargé des soins.
 
-11. Agents d'orientation standardistes.
+11. Personnel exerçant des fonctions de documentation.
 
-12. Personnels chargés des soins.
+12. Chef magasinier.
 
-13. Personnels exerçant des fonctions de documentation.
+13. Magasinier.
 
-14. Chef magasinier.
+14. Responsable du standard.
 
-15. Magasiniers.
+15. Régisseur de la salle de conférences.
 
-16. Responsable du standard.
+16. Responsable du service du courrier central.
 
-17. Régisseur de la salle de conférences.
+17. Agent du service du courrier central.
 
-18. Responsable du service du courrier central.
+18. Responsable de la gestion et de la maintenance des télécopieurs.
 
-19. Agents du service du courrier central.
+19. Responsable sécurité incendie.
 
-20. Responsable de la gestion et de la maintenance des télécopieurs.
+20. Responsable de concours.
 
-21. Responsables sécurité incendie.
+21. Agent chargé de l'audiovisuel.
 
-22. Responsables des concours.
-
-23. Agents chargés de l'audiovisuel.
-
-24. Agents chargés de la maintenance immobilière.
+22. Agent chargé de la maintenance immobilière.
 
 FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE DANS LES SERVICES CENTRAUX DU TRAVAIL, DE L'EMPLOI ET DE LA FORMATION PROFESSIONNELLE
 

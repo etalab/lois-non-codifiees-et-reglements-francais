@@ -1,6 +1,6 @@
 # Article 3
 
-Le professionnel remet un devis détaillé, préalablement à l'exécution de la prestation de services, lorsque son montant estimé est supérieur à 1 000 F T.T.C.
+Le professionnel remet un devis détaillé, préalablement à l'exécution de la prestation de services, lorsque son montant estimé est supérieur à 150 euros T.T.C.
 
 Tout devis doit comporter les mentions suivantes :
 

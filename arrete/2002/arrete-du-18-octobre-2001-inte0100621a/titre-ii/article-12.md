@@ -1,0 +1,3 @@
+# Article 12
+
+Les sapeurs-pompiers qui ont reçu une formation de sapeur-pompier professionnel, de sapeur-pompier volontaire, de sapeur-pompier auxiliaire, de volontaire civil ou qui ont servi dans un corps de sapeurs-pompiers civils ou militaires ou titulaires du brevet national de cadets de sapeurs-pompiers, depuis moins de deux ans, peuvent bénéficier d'une validation de tout ou partie de leurs aptitudes et d'une dispense de tout ou partie de la formation, accordées par le directeur de l'école ou de l'organisme responsable de la formation, sur proposition de leur autorité d'emploi après évaluation par celle-ci.

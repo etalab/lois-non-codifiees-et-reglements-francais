@@ -1,155 +1,157 @@
 # Article Annexe
 
-Gestionnaire utilisateur de la base de données Magistrats, service des T.A. et C.A.A.
+Gestionnaire utilisateur de la base de données Magistrats, service des T.A. et C.A.A ;
 
-Gestionnaire financier et comptable (service des T.A. et des C.A.A.).
+Gestionnaire financier et comptable (service des T.A. et des C.A.A.) ;
 
-Gestionnaires financier et comptable (service Budget et comptabilité).
+Gestionnaires financier et comptable (service Budget et comptabilité) ;
 
-Responsable du greffe, section du contentieux.
+Responsable du greffe, section du contentieux ;
 
-Responsable du bureau central du secrétariat général du Conseil d'Etat.
+Responsable du bureau central du secrétariat général du Conseil d'Etat ;
 
-Adjoint au chef du secrétariat particulier du vice-président du Conseil d'Etat.
+Adjoint au chef du secrétariat particulier du vice-président du Conseil d'Etat ;
 
-Responsable du secrétariat particulier des secrétaires généraux du Conseil d'Etat.
+Responsable du secrétariat particulier des secrétaires généraux du Conseil d'Etat ;
 
-Adjoint au responsable du secrétariat particulier des secrétaires généraux.
+Adjoint au responsable du secrétariat particulier des secrétaires généraux ;
 
-Accueil cabinet du vice-président.
+Accueil cabinet du vice-président ;
 
-Responsable du secrétariat particulier des présidents de la section du contentieux du Conseil d'Etat.
+Responsable du secrétariat particulier des présidents de la section du contentieux du Conseil d'Etat ;
 
-Responsable du service de reprodiffusion.
+Responsable du service de reprodiffusion ;
 
-Responsable de la gestion du personnel du Conseil d'Etat.
+Responsable de la gestion du personnel du Conseil d'Etat ;
 
-Responsable de la gestion des membres du Conseil d'Etat.
+Responsable de la gestion des membres du Conseil d'Etat ;
 
-Responsable de la coordination administrative du service des travaux documentaires.
+Responsable de la coordination administrative du service des travaux documentaires ;
 
-Adjoint du chef du bureau Equipement, infrastructure et logistique.
+Adjoint du chef du bureau Equipement, infrastructure et logistique ;
 
-Responsable du bureau d'aide juridictionnelle.
+Responsable du bureau d'aide juridictionnelle ;
 
-Responsable du service dactylographique informatisé du contentieux.
+Responsable du service dactylographique informatisé du contentieux ;
 
-Responsable du service des notifications à la section du contentieux.
+Assistant de secrétariat des sections administratives ;
 
-Assistant de secrétariat des sections administratives.
+Régisseur (secrétariat général) ;
 
-Régisseur (secrétariat général).
+Responsable de la préparation informatique des documents de la section du rapport et des études ;
 
-Assistant de secrétariat et de greffe à la commission spéciale de cassation des pensions.
+Adjoint au responsable du service de reprodiffusion ;
 
-Responsable de la préparation informatique des documents de la section du rapport et des études.
+Adjoint du responsable administratif du service informatique ;
 
-Adjoint au responsable du service de reprodiffusion
+Adjoint du secrétaire de la section du contentieux ;
 
-Adjoint du reponsable administratif du service informatique.
+Responsable du service des analyses de la section du contentieux ;
 
-Adjoint du chef du service du budget et de la comptabilité.
+Responsable du bureau des informations ;
 
-Adjoint du secrétaire de la section du contentieux.
+Secrétaire de sous-section de la section du contentieux ;
 
-Responsable du service des analyses de la section du contentieux.
+Adjoint du responsable de la gestion des personnels du Conseil d'Etat ;
 
-Responsable du bureau des informations.
+Adjoint du responsable du greffe de la section du contentieux ;<RL    Responsable du magasin des fournitures et de la gestion des stocks ;
 
-Secrétaire de sous-section de la section du contentieux.
+Responsable des effectifs, des concours et du comité médical ;
 
-Adjoint du responsable de la gestion des personnels du Conseil d'Etat.
+Secrétaire adjoint des sections administratives ;
 
-Adjoint du responsable du greffe de la section du contentieux.
+Technicien support au service informatique ;
 
-Responsable du magasin des fournitures et de la gestion des stocks.
+Assistant de secrétariat auprès du responsable du suivi des travaux documentaires ;
 
-Responsable des effectifs, des concours et du comité médical.
+Assistant de secrétariat au service des tribunaux administratifs et des cours administratives d'appel (pour l'ensemble des juridictions) ;
 
-Assistant du rapporteur général de la section du rapport et des études.
+Adjoint du responsable du secrétariat particulier du président de la section du contentieux ;
 
-Secrétaire adjoint des sections administratives.
+Assistant de secrétariat auprès du responsable des services de la bibliothèque ;
 
-Aide de bibliothèque.
+Responsable du bureau du courrier ;
 
-Technicien support au service informatique.
+Responsable du suivi financier des affaires immobilières ;
 
-Assistant de secrétariat auprès du responsable du suivi des travaux documentaires.
+Responsable du suivi de la jurisprudence des tribunaux administratifs et des cours administratives d'appel et de la préparation de l'édition du recueil Lebon ;
 
-Assistant de secrétariat au service des tribunaux administratifs et des cours administratives d'appel (pour l'ensemble des juridictions).
+Assistant du responsable administratif et logistique du service informatique ;
 
-Adjoint du responsable du secrétariat particulier du président de la section du contentieux.
+Assistant de secrétariat au bureau central ;
 
-Assistant de secrétariat auprès du responsable des services de la bibliothèque.
+Assistant de secrétariat au bureau des greffes ;
 
-Assistant du responsable des ordonnancements concernant les greffes des juridictions administratives.
+Responsable de la tenue des inventaires Mobilier national ;
 
-Responsable du bureau du courrier.
+Secrétariat particulier du président de la section du rapport et des études ;
 
-Responsable du suivi financier des affaires immobilières.
+Gestionnaire financier et comptable (chargé des frais et ordre de mission) ;
 
-Responsable du suivi de la jurisprudence des tribunaux administratifs et des cours administratives d'appel et de la préparation de l'édition du recueil Lebon.
+Adjoint du responsable du bureau d'aide juridictionnelle ;
 
-Assistant du responsable administratif et logistique du service informatique.
-
-Assistant de l'ordonnateur principal.
-
-Assistant de secrétariat au bureau central.
-
-Assistant de secrétariat au bureau des greffes.
-
-Responsable de la tenue des inventaires Mobilier national.
-
-Secrétariat particulier du président de la section du rapport et des études.
-
-Gestionnaire financier et comptable (chargé des frais et ordre de mission).
-
-Adjoint du responsable du bureau d'aide juridictionnelle.
-
-Adjoint du responsable du service dactylographique informatisé du contentieux.
+Adjoint du responsable du service dactylographique informatisé du contentieux ;
 
 Responsable du bureau des greffes du service des tribunaux
 
-administratifs et des cours administratives d'appel.
+administratifs et des cours administratives d'appel ;
 
-Responsable du secrétariat du vice-président.
+Responsable du secrétariat du vice-président ;
 
-Secrétariat de la cellule des reconduites à la frontière.
+Secrétariat de la cellule des reconduites à la frontière ;
 
-Responsable de l'équipe de maintenance des immeubles.
+Responsable de l'équipe de maintenance des immeubles ;
 
-Responsable de l'archivage des dossiers de la section du contentieux.
+Responsable de l'archivage des dossiers de la section du contentieux ;
 
-Adjoint au secrétaire de sous-section de la section du contentieux.
+Adjoint au secrétaire de sous-section de la section du contentieux ;
 
-Adjoint au secrétaire de la cellule des reconduites à la frontière.
+Adjoint au secrétaire de la cellule des reconduites à la frontière ;
 
-Coopération internationale.
+Coopération internationale ;
 
-Responsable du suivi technique des affaires immobilières.
+Responsable du suivi technique des affaires immobilières ;
 
-Chef du bureau de la gestion financière et comptable (service des T.A et des C.A.A).
+Chef du bureau de la gestion financière et comptable (service des T.A et des C.A.A) ;
 
-Responsable de l'ordonnancement.
+Assistant du secrétaire de la section du contentieux ;
 
-Assistant du secrétaire de la section du contentieux.
+Administrateur principal de l'application Skipper ;
 
-Administrateur principal de l'application Skipper.
+Secrétariat de l'assemblée générale ;
 
-Responsable de la transcription des débats d'assemblée générale.
+Adjoint du responsable des effectifs, des concours et du comité médical ;
 
-Secrétariat de l'assemblée générale.
+Adjoint du responsable du bureau des informations ;
 
-Adjoint du responsable des effectifs, des concours et du comité médical.
+Adjoint du responsable du bureau des analyses ;
 
-Adjoint du responsable du bureau des informations.
+Technicien support spécialisé ;
 
-Adjoint du responsable du bureau des analyses.
+Secrétaire de la mission d'inspection des juridictions administratives ;
 
-Technicien support spécialisé.
+Adjoint de l'administrateur principal de l'application Skipper ;
 
-Secrétaire de la mission d'inspection des juridictions administratives.
+Assistant de secrétariat (service informatique) ;
 
-Adjoint de l'administrateur principal de l'application Skipper.
+Responsable des rémunérations et de la comptabilité ;
 
-Assistant de secrétariat (service informatique).
+Responsable du budget et du contrôle de gestion ;
+
+Chef du bureau des magistrats (S.T.A.C.A.A.) ;
+
+Chef du bureau des affaires générales (S.T.A.C.C.A) ;
+
+Chef du bureau des marchés et crédits de fonctionnement (S.T.A.C.C.A) ;
+
+Chef de la section du contrôle de gestion ;
+
+Responsable du bureau des référés ;
+
+Chef de la section ordonnancement ;
+
+Adjoint du responsable du bureau des référés ;
+
+Responsable du bureau des notifications de la section du contentieux ;
+
+Secrétaire du secrétaire général des T.A. et des C.A.A..

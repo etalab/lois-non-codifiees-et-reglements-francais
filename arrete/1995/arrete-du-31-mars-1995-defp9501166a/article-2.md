@@ -1,9 +1,35 @@
 # Article 2
 
-Les personnels des unités visées à l'article 2 du décret du 31 mars 1995 susvisé sont les suivants:
+Les unités visées à l'article 2 du décret du 31 mars 1995 susvisé sont les suivantes :
 
-- personnels affectés au porte-avions nucléaire Charles-de-Gaulle;
+- porte-avions nucléaire Charles de Gaulle ;
 
-- personnels de la cellule logistique nucléaire de l'état-major de la force d'action navale (E.M. Alfan), chargés de l'élaboration et du contrôle des règles de maintenance et d'exploitation;
+- état-major de la force d'action navale ;
 
-- personnels chargés de la formation au centre d'entraînement et d'instruction des bâtiments à propulsion nucléaire (C.E.I./B.P.N.).
+- école de navigation sous-marine et des bâtiments à propulsion nucléaire (ENSM/BPN) ;
+
+- école des applications militaires de l'énergie atomique (EAMEA) ;
+
+- centre marine de Cadarache ;
+
+- service de soutien de la flotte (SSF) ;
+
+- service technique mixte des chaufferies nucléaires de propulsion navale (STXN) ;
+
+- état-major de la marine ;
+
+- état-major des armées (division forces nucléaires) ;
+
+- direction des systèmes d'armes de la délégation générale pour l'armement (service du programme nucléaire) ;
+
+- formations relevant de la force maritime base navale de Toulon ;
+
+- état-major du commandant de la région maritime Méditerranée (CECMED - division sécurité et environnement) ;
+
+- délégation à la sûreté nucléaire de la défense (DSND) ;
+
+- inspection des forces maritimes ;
+
+- cabinet du ministre de la défense (cellule nucléaire) ;
+
+- direction du personnel militaire de la marine (bureau formation).

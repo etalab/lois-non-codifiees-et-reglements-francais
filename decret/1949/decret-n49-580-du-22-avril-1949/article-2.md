@@ -30,8 +30,14 @@ IV - La cotisation de référence est fixée chaque année [*périodicité*] par
 
 Cette cotisation est assise sur la somme du prix de vente hors taxe de certains médicaments (spécialités et produits de droguerie pharmaceutique) et de la rémunération du pharmacien assistant bénéficiant du coefficient hiérarchique 400 de l'échelle des salaires (groupe III, classe A).
 
-Son taux est calculé chaque année en multipliant le taux mathématique établi pour l'année précédente par un coefficient déterminé comme suit, le résultat étant arrondi au multiple de 10 F immédiatement supérieur.
+Son taux est calculé chaque année en multipliant le taux mathématique établi pour l'année précédente par un coefficient déterminé comme suit, le résultat étant arrondi à l'euro supérieur.
 
 Le coefficient est égal à la moyenne :
 
-1° du rapport de la rémunération du pharmacien assistant en vigueur pendant le dernier exercice à la rémunération en vigueur pendant l'avant-dernier exercice ;    2° du rapport des prix de vente hors taxe de quatre-vingts spécialités et vingt produits de droguerie pharmaceutique pratiqués pendant le dernier exercice aux prix pratiqués pendant l'avant-dernier exercice ;    La liste des spécialités et des produits de droguerie pharmaceutique entrant en ligne de compte est arrêtée par le conseil d'administration de la section professionnelle des pharmaciens.    Des réductions de cotisations peuvent être accordées aux pharmaciens dans les conditions fixées à l'article D. 642-4 du code de la sécurité sociale.
+1° du rapport de la rémunération du pharmacien assistant en vigueur pendant le dernier exercice à la rémunération en vigueur pendant l'avant-dernier exercice ;
+
+2° du rapport des prix de vente hors taxe de quatre-vingts spécialités et vingt produits de droguerie pharmaceutique pratiqués pendant le dernier exercice aux prix pratiqués pendant l'avant-dernier exercice ;
+
+La liste des spécialités et des produits de droguerie pharmaceutique entrant en ligne de compte est arrêtée par le conseil d'administration de la section professionnelle des pharmaciens.
+
+Des réductions de cotisations peuvent être accordées aux pharmaciens dans les conditions fixées à l'article D. 642-4 du code de la sécurité sociale.

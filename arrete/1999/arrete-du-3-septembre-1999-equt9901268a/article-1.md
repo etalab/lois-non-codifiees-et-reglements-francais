@@ -1,6 +1,6 @@
 # Article 1
 
-La condition de capacité financière définie à l'article 7 du décret du 5 mars 1990 modifié susvisé est remplie lorsque l'entreprise commissionnaire de transport dispose de capitaux propres ou de cautions bancaires d'un montant total au moins égal à 150 000 F.
+La condition de capacité financière définie à l'article 7 du décret du 5 mars 1990 modifié susvisé est remplie lorsque l'entreprise commissionnaire de transport dispose de capitaux propres ou de cautions bancaires d'un montant total au moins égal à 22800 euros.
 
 Toutefois, le montant des cautions ne peut excéder la moitié du montant de la capacité financière exigible.
 

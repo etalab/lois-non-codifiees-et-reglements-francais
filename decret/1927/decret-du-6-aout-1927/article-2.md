@@ -1,6 +1,6 @@
 # Article 2
 
-Une majoration de 600 fr. est accordée à l'instituteur ou à l'institutrice, marié, veuf, divorcé ou séparé de corps pour chaque enfant, dans les mêmes conditions d'attribution que les indemnités pour charges de famille allouées par l'Etat aux fonctionnaires.
+Une majoration de 91,47 euros est accordée à l'instituteur ou à l'institutrice, marié, veuf, divorcé ou séparé de corps pour chaque enfant, dans les mêmes conditions d'attribution que les indemnités pour charges de famille allouées par l'Etat aux fonctionnaires.
 
 Lorsqu'un instituteur est marié à une institutrice, les majorations pour enfants ne sont attribuées qu'au chef de famille.
 

@@ -4,7 +4,7 @@ Sous peine de déchéance, chaque titulaire doit constituer un cautionnement aup
 
 Pour les titulaires bénéficiant du renouvellement de leurs autorisations spéciales, ce cautionnement sera constitué par le dépôt d'une somme calculée au prorata du tonnage de produits mis à la consommation au cours des douze mois précédents, quelle que soit la nature ou l'origine de ces produits. Les taux applicables aux tonnages des différents produits sont indiqués dans les tableaux 1 et 2 annexés au présent décret.
 
-Pour les nouveaux titulaires, un cautionnement provisoire sera constitué par le dépôt d'une somme de 50 000 F et d'une somme calculée proportionnellement aux tonnages figurant au titre de la première période de douze mois dans leur plan d'approvisionnement approuvé, selon les taux mentionnés ci-dessus. A l'expiration de la première période de douze mois d'exercice des autorisations, à ce cautionnement provisoire sera substitué un cautionnement calculé comme indiqué à l'alinéa précédent.
+Pour les nouveaux titulaires, un cautionnement provisoire sera constitué par le dépôt d'une somme de 7500 euros et d'une somme calculée proportionnellement aux tonnages figurant au titre de la première période de douze mois dans leur plan d'approvisionnement approuvé, selon les taux mentionnés ci-dessus. A l'expiration de la première période de douze mois d'exercice des autorisations, à ce cautionnement provisoire sera substitué un cautionnement calculé comme indiqué à l'alinéa précédent.
 
 Au cautionnement peut être substitué, avec l'agrément du ministre chargé des hydrocarbures et du ministre chargé du budget, une garantie jugée équivalente.
 

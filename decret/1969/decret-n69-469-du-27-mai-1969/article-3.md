@@ -12,23 +12,30 @@ Les dispositions concernant les magistrats de l'ordre judiciaire et figurant dan
 <p>hiérarchique </p>
 <p>(indices bruts) </p>
 </td>
+<td> OBSERVATIONS</td>
 </tr>
 <tr>
 <td>
-<p>Magistrats du premier grade (second groupe et premier groupe)</p>
+<p>magistrats placés hors hiérarchie </p>
+<p>Magistrats du premier grade </p>
+<br/>
 <p>Magistrats du second grade</p>
+<p>Magistrats du second grade provisoire</p>
 <p>Auditeurs de justice</p>
 </td>
 <td align="center">
-<p>852-1015 (1)</p>
-<p>528-1015 <br/>395</p>
+<p>HEC-HEG</p>
+<p>8001-HEB (HEB bis)</p>
+<br/>
+<p>528-750</p>
+<p>528-1015</p>
+<p>395</p>
 </td>
-</tr>
-<tr>
 <td>
-<p align="justify">(1) La carrière dans ce grade se poursuit hors échelle dans les conditions prévues par l'article 2 du décret n° 93-21 du 7 janvier 1993.</p>
-</td>
-<td align="center">395 <br/>
+<p> L'échelon B bis n'est accessible qu'aux magistrats </p>
+<p>exerçant les fonctions dont la liste est fixée par arrêté </p>
+<p>conjoint du garde des sceaux, ministre de la justice, et </p>
+<p>du ministre chargé du budget.</p>
 </td>
 </tr>
 </tbody>

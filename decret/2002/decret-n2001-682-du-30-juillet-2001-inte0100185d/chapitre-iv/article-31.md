@@ -1,0 +1,3 @@
+# Article 31
+
+Lorsque les capitaines stagiaires mentionnés aux articles 20 et 21 appartenaient, avant leur nomination au grade de capitaine en qualité de stagiaire, à un cadre d'emplois ou à un corps de catégorie C ou qu'ils étaient titulaires d'un emploi de même niveau, ils sont classés à un échelon déterminé en appliquant les modalités prévues à l'article 7 à la fraction de l'ancienneté qui aurait été prise en compte pour le classement en catégorie B en application des dispositions de l'article 16 du décret n° 2001-681 du 30 juillet 2001 portant statut particulier du cadre d'emplois des majors et lieutenants de sapeurs-pompiers professionnels.

@@ -16,71 +16,83 @@ Pressions des pneus et déflections :
 
 2.1.5. Les pneumatiques ne doivent pas être lestés à l'eau. Les pressions et déflections des pneumatiques une fois bloqués pour les divers essais doivent correspondre à la table suivante :
 
-Tracteur à quatre roues motrices, roues avant et arrière de même dimension.
-
-Pressions des pneus (bar) :
-
-Pneumatiques radiaux :
-
-Avant : 1,20
-
-Arrière : 1,20
-
-Pneumatiques diagonaux.
-
-Avant : 1
-
-Arrière : 1
-
-Déflection (mm) :
-
-Avant : 25
-
-Arrière : 25
-
-Tracteur à quatre roues motrices, roues avant plus petites que roues arrière.
-
-Pressions des pneus (bar) :
-
-Pneumatiques radiaux :
-
-Avant : 1,80
-
-Arrière : 1,20
-
-Pneumatiques diagonaux.
-
-Avant : 1,50
-
-Arrière : 1
-
-Déflection (mm) :
-
-Avant : 20
-
-Arrière : 25
-
-Tracteur à deux roues motrices.
-
-Pressions des pneus (bar) :
-
-Pneumatiques radiaux :
-
-Avant : 2,40
-
-Arrière : 1,20
-
-Pneumatiques diagonaux.
-
-Avant : 2
-
-Arrière : 1
-
-Déflection (mm) :
-
-Avant : 15
-
-Arrière : 25
+<table>
+<tbody>
+<tr>
+<td/>
+<td align="center" colspan="4">PRESSIONS DES PNEUS (BAR) <br/>
+</td>
+<td align="center" colspan="2" rowspan="2">DEFLECTION (MM) <br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td align="center" colspan="2">Pneumatiques radiaux <br/>
+</td>
+<td align="center" colspan="2">Pneumatiques diagonaux <br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td align="center">Avant <br/>
+</td>
+<td align="center">Arrière <br/>
+</td>
+<td align="center">Avant <br/>
+</td>
+<td align="center">Arrière <br/>
+</td>
+<td align="center">Avant <br/>
+</td>
+<td align="center">Arrière <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tracteur à quatre roues motrices, roues </p>
+<p>avant et arrière de même dimension. </p>
+</td>
+<td align="center"> 1,20</td>
+<td align="center"> 1,20</td>
+<td align="center">1 <br/>
+</td>
+<td align="center"> 1</td>
+<td align="center">25 <br/>
+</td>
+<td align="center">25 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tracteur à quatre roues motrices, roues </p>
+<p>avant plus petites que roues arrière. </p>
+</td>
+<td align="center">1,80</td>
+<td align="center">1,20 <br/>
+</td>
+<td align="center">1,50 <br/>
+</td>
+<td align="center"> 1</td>
+<td align="center">20 <br/>
+</td>
+<td align="center"> 25</td>
+</tr>
+<tr>
+<td>Tracteur à deux roues motrices. <br/>
+</td>
+<td align="center">2,40 <br/>
+</td>
+<td align="center"> 1,20</td>
+<td align="center">2 <br/>
+</td>
+<td align="center">1 <br/>
+</td>
+<td align="center"> 15</td>
+<td align="center">25 <br/>
+</td>
+</tr>
+</tbody>
+</table>
 
 2.1.6. La masse W du tracteur utilisée pour les calculs de la hauteur de chute du pendule et de la force d'écrasement, est au moins celle définie à l'article 2 du présent arrêté diminuée de 75 kg. Ne sont pas prises en compte les masses d'alourdissement optionnelles avant ou arrière, le lest des pneumatiques, les instruments et équipements portés ou tout organe particulier.
 

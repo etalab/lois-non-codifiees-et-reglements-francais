@@ -1,0 +1,3 @@
+# Article 8
+
+La directrice du budget, le directeur du Trésor et le directeur général des impôts au ministère de l'économie, des finances et de l'industrie, le directeur général de l'enseignement et de la recherche, la directrice des affaires financières, le directeur des exploitations, de la politique sociale et de l'emploi et le directeur des pêches maritimes et de l'aquaculture au ministère de l'agriculture et de la pêche, ainsi que les préfets des régions et départements littoraux sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

@@ -1,0 +1,3 @@
+# Article 9
+
+Jusqu'à l'intervention de la nomination des agents comptables de chacun des centres régionaux de documentation pédagogique de la Martinique, de la Guadeloupe et de la Guyane, selon les conditions prévues par le décret du 17 janvier 1992 susvisé, l'agent comptable principal du centre régional de documentation pédagogique des académies de la Martinique, de la Guadeloupe et de la Guyane, l'agent comptable secondaire du centre départemental de documentation pédagogique de la Guadeloupe et l'agent comptable secondaire du centre départemental de documentation pédagogique de la Guyane exercent, par intérim, respectivement les fonctions d'agent comptable des centres régionaux de documentation pédagogique de la Martinique, de la Guadeloupe et de la Guyane.

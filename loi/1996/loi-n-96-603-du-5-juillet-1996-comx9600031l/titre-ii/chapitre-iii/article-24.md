@@ -1,6 +1,6 @@
 # Article 24
 
-I. - Est puni d'une amende de 50 000 F :
+I. - Est puni d'une amende de 7500 euros :
 
 1° Le fait d'exercer à titre indépendant ou de faire exercer par l'un de ses collaborateurs une des activités visées à l'article 16 sans disposer de la qualification professionnelle exigée par cet article ou sans assurer le contrôle effectif et permanent de l'activité par une personne en disposant ;
 

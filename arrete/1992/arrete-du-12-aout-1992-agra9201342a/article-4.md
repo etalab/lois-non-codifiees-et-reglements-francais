@@ -9,10 +9,10 @@ Sur le territoire métropolitain de la France, les personnels visés à l'articl
 <p align="center">Puissance</p>
 </td>
 <td valign="top">
-<p align="center">Jusqu'à 10 000 km (en francs)</p>
+<p align="center">Jusqu'à 10 000 km (en euros)</p>
 </td>
 <td valign="top">
-<p align="center">Plus de 10 000 km(en francs)</p>
+<p align="center">Plus de 10 000 km(en euros)</p>
 </td>
 </tr>
 <tr>
@@ -20,10 +20,10 @@ Sur le territoire métropolitain de la France, les personnels visés à l'articl
 <p>5 CV et moins</p>
 </td>
 <td valign="top">
-<p align="center">1,40</p>
+<p align="center">0.21</p>
 </td>
 <td valign="top">
-<p align="center">0,79</p>
+<p align="center">0.12</p>
 </td>
 </tr>
 <tr>
@@ -31,10 +31,10 @@ Sur le territoire métropolitain de la France, les personnels visés à l'articl
 <p>De 6 à 7 CV</p>
 </td>
 <td valign="top">
-<p align="center">1,72</p>
+<p align="center">0.26</p>
 </td>
 <td valign="top">
-<p align="center">1,04</p>
+<p align="center">0.16</p>
 </td>
 </tr>
 <tr>
@@ -42,10 +42,10 @@ Sur le territoire métropolitain de la France, les personnels visés à l'articl
 <p>8 CV et plus</p>
 </td>
 <td valign="top">
-<p align="center">1,93</p>
+<p align="center">0.29</p>
 </td>
 <td valign="top">
-<p align="center">1,17</p>
+<p align="center">0.18</p>
 </td>
 </tr>
 </tbody>

@@ -8,4 +8,4 @@ Les animaux dont l'infection leucosique n'est découverte qu'à l'abattoir ouvre
 
 - carcasse saisie pour leucose bovine enzootique tumorale.
 
-L'indemnité est dans ce cas de 75 p. 100 de la valeur des viandes saisies avec un maximum de 1 500 F par animal.
+L'indemnité est dans ce cas de 75 p. 100 de la valeur des viandes saisies avec un maximum de 228,67 euros par animal.

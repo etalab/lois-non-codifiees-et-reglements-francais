@@ -1,3 +1,0 @@
-# Article 7
-
-Lorsque les logements sont adaptés aux besoins des ménages qui rencontrent des difficultés d'insertion particulières et bénéficient des taux de subventions prévues à l'article R. 372-9, le plafond de ressources des locataires est fixé à 67,5 % des plafonds applicables en métropole "autres régions" aux bénéficiaires de la législation sur les habitations à loyer modéré et des nouvelles aides de l'Etat en secteur locatif. Le représentant de l'Etat dans le département peut moduler le montant de la majoration complémentaire de la subvention de l'Etat prévue à l'article R. 372-11 du code susvisé en fonction de barèmes de plafonds de ressources qu'il établit dans les limites fixées ci-dessus et à l'article précité.

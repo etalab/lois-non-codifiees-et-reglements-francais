@@ -1,0 +1,3 @@
+# Article 5
+
+L'arrêté du 19 mars 1975 modifié fixant le taux et les conditions d'attribution de l'indemnité de technicité susceptible d'être allouée aux agents des travaux publics de l'Etat, aux agents d'exploitation des travaux publics de l'Etat et aux chefs d'équipe d'exploitation des travaux publics de l'Etat et l'arrêté du 25 octobre 1989 modifié fixant les conditions d'attribution des indemnités pour travaux dangereux, insalubres, incommodes ou salissants susceptibles d'être allouées aux personnels appartenant aux corps des contrôleurs des travaux publics de l'Etat, des conducteurs des travaux publics de l'Etat, des ouvriers professionnels des travaux publics de l'Etat et des agents des travaux publics de l'Etat sont abrogés.

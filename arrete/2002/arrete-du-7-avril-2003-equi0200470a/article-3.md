@@ -1,0 +1,3 @@
+# Article 3
+
+La compensation sous forme de repos compensateur est obligatoire pour une part des bonifications dues au titre de l'article 1er pour les vacations de nuit ou les vacations de dimanche et jours fériés. Cette part est égale à 10 % des heures travaillées. Nonobstant les dispositions de l'article 4 du présent arrêté, les compensations visées au présent article sont dues sous forme de repos compensateur dans la limite de 31 heures par an et sous forme de récupérations horaires pour le solde éventuel. Les bonifications pour vacations exceptionnelles dues au titres de l'article 1er sont obligatoirement prises sous forme de récupérations horaires.

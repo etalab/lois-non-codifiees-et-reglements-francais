@@ -48,6 +48,16 @@ Assistant de gestion financière.
 
 Contrôleur de gestion (à compter du 1er avril 2000).
 
+Chef de cabinet du secrétaire général du Gouvernement.
+
+Chargé de mission adjoint au secrétariat général du Gouvernement.
+
+Chargé de mission adjoint au secrétariat général du Gouvernement, secrétaire général de la commission interministérielle de la politique immobilière de l'Etat.
+
+Chargé de mission adjoint au secrétariat général du Gouvernement, chef de secteur du service législatif.
+
+Adjoint au chef du service de documentation.
+
 DIRECTION GENERALE DE L'ADMINISTRATION ET DE LA FONCTION PUBLIQUE
 
 Responsable de l'atelier de reprographie et de l'expédition du courrier de la direction générale.

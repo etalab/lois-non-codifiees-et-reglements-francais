@@ -2,11 +2,11 @@
 
 Les candidats aux examens ci-dessus énumérés, à l'exception des élèves boursiers, sont assujettis à des droits fixés comme suit :
 
-Baccalauréat : 150 F
+Baccalauréat : 22 euros ;
 
-Brevet de technicien supérieur (B.T.S.) : 150 F
+Brevet de technicien supérieur (B.T.S.) : 22 euros ;
 
-Brevet de technicien (B.T.) : 150 F
+Brevet de technicien (B.T.) : 22 euros ;
 
 Brevet professionnel (B.P.) : 80 F
 

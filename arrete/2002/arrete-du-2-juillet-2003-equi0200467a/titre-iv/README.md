@@ -1,0 +1,3 @@
+# TITRE IV : CHOIX D'UNE MODALITÉ D'ORGANISATION DU TEMPS DE TRAVAIL.
+
+- [Article 6](article-6.md)

@@ -1,0 +1,3 @@
+# Article 8
+
+Jusqu'à l'intervention de la nomination des directeurs de chacun des centres régionaux de documentation pédagogique de la Martinique, de la Guadeloupe et de la Guyane, selon les conditions prévues par les décrets du 17 janvier 1992 et du 2 octobre 1992 susvisés, le directeur du centre régional de documentation pédagogique des académies de la Martinique, de la Guadeloupe et de la Guyane, le directeur du centre départemental de documentation pédagogique de la Guadeloupe et le directeur du centre départemental de documentation pédagogique de la Guyane exercent, par intérim, respectivement les fonctions de directeur des centres régionaux de documentation pédagogique de la Martinique, de la Guadeloupe et de la Guyane.

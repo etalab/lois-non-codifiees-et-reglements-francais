@@ -1,6 +1,6 @@
 # Article Annexe
 
-PLAFOND DE L'INDEMNITE DE DEPLACEMENT ALLOUEE AUX JEUNES FRANÇAIS CONVOQUES POUR LA JOURNEE D'APPEL DE PREPARATION A LA DEFENSE DANS UN DEPARTEMENT D'OUTRE-MER, DANS UN TERRITOIRE OU UNE COLLECTIVITE TERRITORIALE D'OUTRE-MER
+PLAFOND DE L'INDEMNITE DE DEPLACEMENT ALLOUEE AUX JEUNES FRANÇAIS CONVOQUES A LA JOURNEE D'APPEL DE PREPARATION A LA DEFENSE DANS UN DEPARTEMENT D'OUTRE-MER, DANS UN TERRITOIRE OU UNE COLLECTIVITE TERRITORIALE OU DEPARTEMENTALE D'OUTRE-MER
 
 <table>
 <tbody>
@@ -9,7 +9,7 @@ PLAFOND DE L'INDEMNITE DE DEPLACEMENT ALLOUEE AUX JEUNES FRANÇAIS CONVOQUES POU
 <p align="center">SECTEUR GEOGRAPHIQUE</p>
 </td>
 <td width="227">
-<p align="center">PLAFOND <br/>(en francs)</p>
+<p align="center">PLAFOND <br/>(en euros)</p>
 </td>
 </tr>
 <tr>
@@ -17,7 +17,8 @@ PLAFOND DE L'INDEMNITE DE DEPLACEMENT ALLOUEE AUX JEUNES FRANÇAIS CONVOQUES POU
 <p>Martinique</p>
 </td>
 <td valign="top" width="227">
-<p align="center">120</p>
+<p align="center">18,5<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -25,7 +26,8 @@ PLAFOND DE L'INDEMNITE DE DEPLACEMENT ALLOUEE AUX JEUNES FRANÇAIS CONVOQUES POU
 <p>Guadeloupe</p>
 </td>
 <td valign="top" width="227">
-<p align="center">600</p>
+<p align="center">91,5<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +35,8 @@ PLAFOND DE L'INDEMNITE DE DEPLACEMENT ALLOUEE AUX JEUNES FRANÇAIS CONVOQUES POU
 <p>Guyane</p>
 </td>
 <td valign="top" width="227">
-<p align="center">600</p>
+<p align="center">114,5<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +44,8 @@ PLAFOND DE L'INDEMNITE DE DEPLACEMENT ALLOUEE AUX JEUNES FRANÇAIS CONVOQUES POU
 <p>Réunion-Mayotte</p>
 </td>
 <td valign="top" width="227">
-<p align="center">60</p>
+<p align="center">9,5<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +53,8 @@ PLAFOND DE L'INDEMNITE DE DEPLACEMENT ALLOUEE AUX JEUNES FRANÇAIS CONVOQUES POU
 <p>Polynésie française</p>
 </td>
 <td valign="top" width="227">
-<p align="center">600</p>
+<p align="center">91,5<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +62,15 @@ PLAFOND DE L'INDEMNITE DE DEPLACEMENT ALLOUEE AUX JEUNES FRANÇAIS CONVOQUES POU
 <p>Nouvelle-Calédonie</p>
 </td>
 <td valign="top" width="227">
-<p align="center">120</p>
+<p align="center">18,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Saint-Pierre-et-Miquelon</p>
+</td>
+<td align="center">
+<p>95 </p>
 </td>
 </tr>
 </tbody>

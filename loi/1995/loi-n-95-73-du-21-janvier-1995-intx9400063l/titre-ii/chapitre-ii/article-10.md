@@ -24,6 +24,6 @@ Toute personne intéressée peut saisir la commission départementale mentionné
 
 Les dispositions du précédent alinéa ne font pas obstacle au droit de la personne intéressée de saisir la juridiction compétente, au besoin en la forme du référé.
 
-VI. - Le fait de procéder à des enregistrements de vidéosurveillance sans autorisation, de ne pas les détruire dans le délai prévu, de les falsifier, d'entraver l'action de la commission départementale, de faire accéder des personnes non habilitées aux images ou d'utiliser ces images à d'autres fins que celles pour lesquelles elles sont autorisées est puni de trois ans d'emprisonnement et de 300 000 F d'amende, sans préjudice des dispositions des articles 226-1 du code pénal et L. 120-2, L. 121-8 et L. 432-2-1 du code du travail.
+VI. - Le fait de procéder à des enregistrements de vidéosurveillance sans autorisation, de ne pas les détruire dans le délai prévu, de les falsifier, d'entraver l'action de la commission départementale, de faire accéder des personnes non habilitées aux images ou d'utiliser ces images à d'autres fins que celles pour lesquelles elles sont autorisées est puni de trois ans d'emprisonnement et de 45000 euros [*taux*] d'amende, sans préjudice des dispositions des articles 226-1 du code pénal et L. 120-2, L. 121-8 et L. 432-2-1 du code du travail.
 
 VII. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
