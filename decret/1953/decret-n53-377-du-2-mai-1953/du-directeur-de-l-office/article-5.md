@@ -2,7 +2,7 @@
 
 Dans le cadre des fonctions plus spécialement dévolues à l'office par l'article 4 de la loi du 25 juillet 1952 susvisée, le directeur de l'office est appelé notamment à [*attributions*] :
 
-a) Certifier la situation de famille et l'état civil des intéressés tels qu'ils résultent d'actes passés ou de faits ayant eu lieu dans le pays d'origine du réfugié ;
+a) Certifier la situation de famille et l'état civil des intéressés tels qu'ils résultent d'actes passés ou de faits ayant eu lieu dans le pays d'origine du réfugié et, le cas échéant, d'événements postérieurs les ayant modifiés ;
 
 b) Attester la régularité, la valeur et la conformité avec les anciennes lois du pays d'origine des actes passés dans ce pays ;
 
