@@ -2,7 +2,6 @@
 
 - [Article 1](article-1.md)
 - [Titre I : Dispositions spéciales aux territoires d'outre-mer.](titre-i)
-- [Titre II : Dispositions particulières au département de Saint-Pierre-et-Miquelon.](titre-ii)
 - [Titre III : Dispositions particulières à la collectivité territoriale de Mayotte.](titre-iii)
 - [Titre IV : Dispositions communes.](titre-iv)
 - [Article 15](article-15.md)
