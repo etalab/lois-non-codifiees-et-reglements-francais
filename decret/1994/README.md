@@ -754,7 +754,6 @@
 - [Décret n°94-929 du 27 octobre 1994 (SPSH9402064D)](decret-n94-929-du-27-octobre-1994-spsh9402064d)
 - [Décret n°94-93 du 27 janvier 1994 (MENE9306293D)](decret-n94-93-du-27-janvier-1994-mene9306293d)
 - [Décret n°94-931 du 27 octobre 1994 (ECOT9451377D)](decret-n94-931-du-27-octobre-1994-ecot9451377d)
-- [Décret n°82-442 du 27 mai 1982](decret-n82-442-du-27-mai-1982)
 - [Décret n°94-421 du 27 mai 1994 (TEFO9400425D)](decret-n94-421-du-27-mai-1994-tefo9400425d)
 - [Décret n°94-422 du 27 mai 1994 (MCCX9400009D)](decret-n94-422-du-27-mai-1994-mccx9400009d)
 - [Décret n°94-423 du 27 mai 1994 (MCCE9400188D)](decret-n94-423-du-27-mai-1994-mcce9400188d)

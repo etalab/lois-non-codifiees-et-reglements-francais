@@ -109,7 +109,6 @@
 - [Décret n°99-337 du 3 mai 1999 (ECOF9900013D)](decret-n99-337-du-3-mai-1999-ecof9900013d)
 - [Décret n°99-355 du 3 mai 1999 (ECOF9900008D)](decret-n99-355-du-3-mai-1999-ecof9900008d)
 - [Décret n°2000-986 du 4 octobre 2000 (MESR0010968D)](decret-n2000-986-du-4-octobre-2000-mesr0010968d)
-- [Décret n°99-1 du 4 janvier 1999 (MAEF9810031D)](decret-n99-1-du-4-janvier-1999-maef9810031d)
 - [Décret n°99-143 du 4 mars 1999 (MESP9824094D)](decret-n99-143-du-4-mars-1999-mesp9824094d)
 - [Décret n°99-144 du 4 mars 1999 (MESP9824093D)](decret-n99-144-du-4-mars-1999-mesp9824093d)
 - [Décret n°99-145 du 4 mars 1999 (MESP9824088D)](decret-n99-145-du-4-mars-1999-mesp9824088d)
