@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé, auprès du Centre d'analyse stratégique, un comité technique paritaire spécial ayant compétence, dans le cadre des dispositions du titre III du décret du 28 mai 1982 susvisé, pour connaître de toutes les questions concernant le Centre d'analyse stratégique et les organismes qui lui sont administrativement rattachés (Centre d'études des revenus et des coûts et Centre d'études prospectives et d'informations internationales, ainsi que le Conseil d'analyse économique, le Conseil d'orientation des retraites, le Conseil d'analyse de la société et le Conseil d'orientation pour l'emploi).
