@@ -2,7 +2,6 @@
 
 - [Titre Ier : Laits et boissons à base de lait.](titre-ier)
 - [Titre V : Caséine.](titre-v)
-- [Titre VI : Crème.](titre-vi)
 - [Titre VII : Beurre.](titre-vii)
 - [Titre IX : Présure.](titre-ix)
 - [Titre X : Dispositions générales.](titre-x)
