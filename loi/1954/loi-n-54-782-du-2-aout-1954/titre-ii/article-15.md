@@ -1,0 +1,7 @@
+# Article 15
+
+Les sommes payées par les attributaires et éventuellement, le produit de l'aliénation des biens visés au deuxième alinéa de l'article 13 et du deuxième alinéa de l'article 24 sont, au titre de l'indemnisation prévue aux articles 6 et 7 de la loi n° 46-994 du 11 mai 1946, inscrites à un compte bancaire d'affectation spéciale et versées, aux anciens propriétaires des biens transférés non confisqués ou à leurs ayants droit ou, le cas échéant, réparties à due concurrence entre les membres des sociétés visés au deuxième alinéa de l'article 10 de l'ordonnance n° 45-920 du 5 mai 1945 ou à leurs ayants droit.
+
+Dans le cas d'application de l'article 12 de la présente loi, des indemnités seront versées par l'Etat et réparties à due concurrence entre les membres des sociétés visés à l'article 10 de l'ordonnance n° 45-920 du 5 mai 1945 ou à leurs ayants droit. Les indemnités seront fixées d'après la valeur des biens établie dans les conditions prévues à l'article 10 de la présente loi.
+
+Les versements prévus aux deux alinéas précédents déchargent l'Etat, la Société nationale des entreprises de presse, les administrateurs provisoires et les administrateurs séquestres, à l'égard des personnes créancières d'indemnités, de toutes obligations ou charges afférentes aux transferts ou à la gestion des biens en cause, sauf pour les biens non attribués qui existaient à la date de la suspension de l'entreprise et qui ont disparu totalement ou partiellement. Ces biens seront indemnisés d'après leur valeur vénale à la date de la promulgation de la loi.
