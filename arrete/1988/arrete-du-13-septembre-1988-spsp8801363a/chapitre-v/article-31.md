@@ -8,8 +8,6 @@ Les infirmiers de secteur psychiatrique ayant effectué leurs études et obtenu 
 
 Les titulaires du certificat d'infirmier de sanatorium ;
 
-Les titulaires d'un diplôme étranger d'infirmier non validé en France pour l'exercice en qualité d'infirmier autorisé polyvalent, en application de l'article L. 477 du code de la santé publique ;
-
 Les titulaires des diplômes d'Etat de masseur-kinésithérapeute, d'ergothérapeute, de pédicure-podologue et de manipulateur d'électroradiologie médicale ;
 
 Les élèves sages-femmes admises en seconde année des études de sages-femmes ;

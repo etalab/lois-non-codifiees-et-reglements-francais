@@ -10,6 +10,6 @@ Evaluation des stages,
 
 prévues aux articles 2 (2.1) et 3 du présent arrêté.
 
-Sont autorisés à redoubler la première année, après avis du conseil technique, les élèves ayant obtenu à l'ensemble des évaluations citées ci-dessus une moyenne égale ou supérieure à 7 sur 20 et inférieure à 10 sur 20 sans que la moyenne à l'une des évaluations soit inférieure à 5 sur 20.
+Les élèves qui ne satisfont pas à ces conditions sont autorisés à redoubler la première année, après avis du conseil technique, à condition qu'ils aient obtenu une moyenne générale égale ou supérieure à 7 sur 20 à l'ensemble des évaluations citées ci-dessus sans que la moyenne à l'une d'entre elles soit inférieure à 5 sur 20.
 
 Les élèves ayant obtenu une moyenne inférieure à 7 sur 20 à l'ensemble des évaluations ou une moyenne inférieure à 5 sur 20 à l'une de ces évaluations sont exclus pour cause d'inaptitude théorique et/ou pratique, selon la procédure prévue par l'arrêté du 19 janvier 1988 susvisé. Néanmoins, ils peuvent à nouveau se présenter au concours d'admission dans les écoles d'infirmiers diplômés d'Etat.
