@@ -1,13 +1,9 @@
 # Article 8
 
-Les statuts des fonds d'assurance formation visés à l'article 4 de la loi du 23 décembre 1982 susvisée déterminent le champ d'intervention géographique et professionnel ou interprofessionnel du fonds ainsi que les conditions de sa gestion. Ils fixent notamment :
+Les fonds créés en application de l'article 4 de la loi du 23 décembre 1982 susvisée sont habilités dans les conditions suivantes :
 
-- la composition du conseil de gestion et l'étendue des pouvoirs de celui-ci ;
+a) Le fonds d'assurance formation national du secteur du bâtiment, le fonds d'assurance formation national du secteur des métiers et des services et le fonds d'assurance formation national du secteur de l'alimentation de détail sont habilités par le ministre chargé de l'artisanat après vérification de la conformité aux dispositions législatives et réglementaires en vigueur des statuts de ces fonds constitués en la forme d'une association régie par la loi du 1er juillet 1901, et de leur règlement intérieur. Les membres adhérents de ces fonds sont les organisations professionnelles représentatives au plan national pour chacun des secteurs d'activité concernés ;
 
-- les règles de détermination des actions donnant lieu à intervention du fonds et de répartition des ressources entre ces interventions ;
+b) Les fonds d'assurance formation constitués au sein de chaque chambre régionale de métiers, ou au sein de la chambre de métiers dans les départements d'outre-mer, sont habilités par arrêté du préfet de région au vu de leur règlement intérieur. Ils constituent un service de la chambre régionale de métiers ou, dans les départements d'outre-mer, de la chambre de métiers, et sont dotés d'un budget et d'une comptabilité distincts.
 
-- le mode de désignation du ou des organes chargés de la préparation des mesures énumérées ci-dessus et de l'exécution des décisions de gestion du fonds.
-
-En aucun cas, les tâches relatives à la gestion d'un fonds d'assurance formation ne peuvent être confiées à un établissement de formation, à un établissement bancaire ou à un organisme de crédit.
-
-Les statuts peuvent prévoir l'existence, au sein des fonds d'assurance formation nationaux, de sections dont la composition tient compte de l'évolution des besoins des secteurs professionnels concernés. Ces sections sont chargées de l'instruction et, dans des conditions fixées par le conseil de gestion, de l'agrément des demandes de financement.
+En cas de modification des statuts ou des règlements intérieurs des fonds susmentionnés, une nouvelle habilitation doit être demandée.

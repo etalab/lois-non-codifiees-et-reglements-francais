@@ -1,7 +1,17 @@
 # Article 10
 
-L'habilitation prévue à l'article 4 de la loi du 23 décembre 1982 susvisée est accordée par arrêté du ministre chargé de l'artisanat pour les fonds nationaux, par le préfet de région pour les fonds régionaux à caractère interprofessionnel, et par le préfet de département pour les fonds des chambres de métiers.
+Les statuts des fonds d'assurance formation régionaux visés à l'article 8 (b) prévoient que ces fonds sont dirigés par un conseil de gestion, qui a pour mission de définir les priorités annuelles de formation aux métiers de l'artisanat. Le conseil de gestion adopte le règlement intérieur du fonds régional, délibère et approuve les budgets et les comptes annuels.
 
-En cas de modification des statuts, une nouvelle habilitation doit être demandée.
+Le conseil de gestion comprend au maximum dix-huit membres. Sont membres de droit de ce conseil :
 
-L'habilitation peut être retirée par arrêté du ministre chargé de l'artisanat, lorsque les dispositions législatives et réglementaires en vigueur ne sont pas respectées. Cet arrêté précise la date à laquelle il prend effet, ainsi que les modalités de dévolution des biens du fonds.
+- les membres du bureau de la chambre régionale de métiers ou, dans les départements d'outre-mer, de la chambre de métiers ;
+
+- le président du conseil régional ou son représentant ;
+
+- une personnalité qualifiée désignée par le préfet de région, sur proposition de l'union professionnelle artisanale régionale ;
+
+- éventuellement les membres désignés par le bureau de la chambre régionale parmi les membres des chambres de métiers départementales de la région.
+
+Deux personnalités qualifiées désignées par l'union professionnelle artisanale régionale peuvent siéger au conseil de gestion avec voix consultative.
+
+Le conseil de gestion est présidé par le président de la chambre régionale de métiers ou par le président de la chambre de métiers dans les départements d'outre-mer. Un vice-président peut être désigné parmi les membres du conseil de gestion par le bureau de la chambre régionale de métiers ou le bureau de la chambre de métiers dans les départements d'outre-mer. Le président assure les fonctions d'ordonnateur.

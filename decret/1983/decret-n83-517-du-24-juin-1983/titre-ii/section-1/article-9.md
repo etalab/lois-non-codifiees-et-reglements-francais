@@ -1,7 +1,7 @@
 # Article 9
 
-Le conseil de gestion des fonds d'assurance formation comprend de six à douze membres.
+Les statuts des fonds d'assurance formation nationaux fixent notamment la composition et les conditions de nomination des membres du conseil d'administration, les modalités d'élection du président ainsi que les règles de fonctionnement et de contrôle.
 
-Le conseil de gestion des fonds d'assurance formation des chambres de métiers doit comprendre des représentants de chacune des catégories professionnelles mentionnées à l'article 7 du code de l'artisanat, désignés par les instances de la chambre de métiers et membres de l'assemblée générale.
+Ces statuts prévoient que les fonds d'assurance formation nationaux sont dirigés par un conseil d'administration comprenant dix-huit membres au maximum. Ce conseil a pour mission d'organiser les financements des actions de formation en fonction notamment des priorités définies par chacune des organisations professionnelles relevant de chaque fonds.
 
-Le conseil de gestion des fonds d'assurance formation régionaux à caractère interprofessionnel doit comprendre des représentants de chacune des catégories professionnelles mentionnées à l'article 7 du code de l'artisanat, désignés par les instances de la chambre de métiers et des organisations professionnelles ayant participé à la constitution du fonds.
+Les membres du conseil d'administration doivent avoir la qualité d'artisan en activité dûment inscrit au répertoire des métiers ou de conjoint d'artisan en activité au moment de leur nomination. La cessation d'activité d'un membre entraîne obligatoirement son remplacement au sein du conseil.
