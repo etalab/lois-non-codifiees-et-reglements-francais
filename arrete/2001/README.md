@@ -41,6 +41,8 @@
 - [Arrêté du 6 décembre 2000 (EQUT0001891A)](arrete-du-6-decembre-2000-equt0001891a)
 - [Arrêté du 6 décembre 2002 (PRMX0200182A)](arrete-du-6-decembre-2002-prmx0200182a)
 - [Arrêté du 6 février 2001 (EQUZ0001681A)](arrete-du-6-fevrier-2001-equz0001681a)
+- [Arrêté du 6 février 2001 (INTE0100233A)](arrete-du-6-fevrier-2001-inte0100233a)
+- [Arrêté du 6 février 2001 (INTE0100234A)](arrete-du-6-fevrier-2001-inte0100234a)
 - [Arrêté du 6 février 2001 (MESP0120406A)](arrete-du-6-fevrier-2001-mesp0120406a)
 - [Arrêté du 6 février 2001 (MESP0120407A)](arrete-du-6-fevrier-2001-mesp0120407a)
 - [Arrêté du 6 février 2001 (MESP0120409A)](arrete-du-6-fevrier-2001-mesp0120409a)
