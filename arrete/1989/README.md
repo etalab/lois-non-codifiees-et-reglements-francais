@@ -460,7 +460,6 @@
 - [Arrêté du 20 septembre 1989 (DEFE8901894A)](arrete-du-20-septembre-1989-defe8901894a)
 - [Arrêté du 20 septembre 1989 (SPSH8901921A)](arrete-du-20-septembre-1989-spsh8901921a)
 - [Arrêté du 21 août 1989 (PRME8961358A)](arrete-du-21-aout-1989-prme8961358a)
-- [Arrêté du 21 avril 1989 (BUDR8904019A)](arrete-du-21-avril-1989-budr8904019a)
 - [Arrêté du 21 avril 1989 (EQUA8900446A)](arrete-du-21-avril-1989-equa8900446a)
 - [Arrêté du 21 avril 1989 (INDH8900330A)](arrete-du-21-avril-1989-indh8900330a)
 - [Arrêté du 21 décembre 1988 (ECOC8800121F)](arrete-du-21-decembre-1988-ecoc8800121f)
