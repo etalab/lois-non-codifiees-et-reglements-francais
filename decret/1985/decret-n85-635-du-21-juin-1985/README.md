@@ -8,5 +8,4 @@
 - [Section VIII : Discipline](section-viii)
 - [Section IX : Régime des écoles](section-ix)
 - [Section X : Congés scolaires](section-x)
-- [Article 13, 15, 32, 34, 39, 40, 41](article-13-15-32-34-39-40-41.md)
 - [Article 44](article-44.md)
