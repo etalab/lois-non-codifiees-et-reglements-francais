@@ -920,7 +920,6 @@
 - [Décret n°98-885 du 28 septembre 1998 (AGRG9801738D)](decret-n98-885-du-28-septembre-1998-agrg9801738d)
 - [Décret n°98-957 du 28 octobre 1998 (MENF9802187D)](decret-n98-957-du-28-octobre-1998-menf9802187d)
 - [Décret n°98-958 du 28 octobre 1998 (MENF9802298D)](decret-n98-958-du-28-octobre-1998-menf9802298d)
-- [Décret n°98-960 du 28 octobre 1998 (MEST9811009D)](decret-n98-960-du-28-octobre-1998-mest9811009d)
 - [Décret n°98-412 du 28 mai 1998 (ECOF9820822D)](decret-n98-412-du-28-mai-1998-ecof9820822d)
 - [Décret n°98-413 du 28 mai 1998 (ECOT9891083D)](decret-n98-413-du-28-mai-1998-ecot9891083d)
 - [Décret n°98-424 du 28 mai 1998 (AGRA9800629D)](decret-n98-424-du-28-mai-1998-agra9800629d)
