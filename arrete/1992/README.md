@@ -587,6 +587,7 @@
 - [Arrêté du 25 juin 1992 (EQUS9200868A)](arrete-du-25-juin-1992-equs9200868a)
 - [Arrêté du 25 juin 1992 (EQUS9200908A)](arrete-du-25-juin-1992-equs9200908a)
 - [Arrêté du 25 juin 1992 (INDD9200545A)](arrete-du-25-juin-1992-indd9200545a)
+- [Arrêté du 25 juin 1992 (MENT9200166A)](arrete-du-25-juin-1992-ment9200166a)
 - [Arrêté du 25 mars 1992 (AGRS9200623A)](arrete-du-25-mars-1992-agrs9200623a)
 - [Arrêté du 25 mars 1992 (INTE9200176A)](arrete-du-25-mars-1992-inte9200176a)
 - [Arrêté du 25 mars 1992 (SPSP9200834A)](arrete-du-25-mars-1992-spsp9200834a)
