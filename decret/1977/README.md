@@ -20,6 +20,7 @@
 - [Décret n°77-219 du 7 mars 1977](decret-n77-219-du-7-mars-1977)
 - [Décret n°77-220 du 7 mars 1977](decret-n77-220-du-7-mars-1977)
 - [Décret n°77-45 du 7 janvier 1977](decret-n77-45-du-7-janvier-1977)
+- [Décret n°77-605 du 7 juin 1977](decret-n77-605-du-7-juin-1977)
 - [Décret n°77-221 du 8 mars 1977](decret-n77-221-du-8-mars-1977)
 - [Décret n°77-222 du 8 mars 1977](decret-n77-222-du-8-mars-1977)
 - [Décret n°77-254 du 8 mars 1977](decret-n77-254-du-8-mars-1977)
