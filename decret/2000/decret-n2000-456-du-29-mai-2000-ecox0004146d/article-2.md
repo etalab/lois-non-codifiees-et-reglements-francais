@@ -1,0 +1,5 @@
+# Article 2
+
+Pour les entreprises exploitant des services de transport ferroviaire, mentionnées au dernier alinéa du I de l'article 22 de la loi du 10 février 2000 susvisée, la consommation annuelle d'électricité à prendre en compte pour la détermination de l'éligibilité correspond à la totalité de l'électricité de traction consommée par le matériel roulant assurant le service de transport exploité par cette entreprise sur le territoire national, y compris l'électricité de traction produite par cette entreprise pour son propre usage.
+
+Les entreprises propriétaires ou gestionnaires de réseaux ferroviaires ou de réseaux de transports collectifs urbains électriquement interconnectés en aval des points de livraison d'électricité, mentionnées au troisième tiret du II de l'article 22 de la loi du 10 février 2000 susvisée, sont éligibles pour l'électricité de traction mise à disposition des utilisateurs de leur réseau ne bénéficiant pas de l'éligibilité ou n'ayant pas mis en oeuvre leur droit, ainsi que pour l'électricité nécessaire à leurs propres besoins sur leur réseau.

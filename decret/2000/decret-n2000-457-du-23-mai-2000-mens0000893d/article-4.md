@@ -1,0 +1,5 @@
+# Article 4
+
+Les universités dont les capacités d'accueil dans les formations demandées sont dépassées par le nombre de candidats en informent les recteurs et remettent aux candidats à ces formations un formulaire de demande d'affectation leur permettant de saisir les recteurs de leurs demandes d'inscription.
+
+L'inscription de ces candidats est prononcée en fonction de leur domicile, de leur situation de famille, des préférences exprimées par ceux-ci et, le cas échéant, des secteurs géographiques mentionnés à l'article 1er ci-dessus, par les recteurs, après avis des présidents d'université concernés. Les recteurs doivent en priorité proposer une inscription aux candidats ayant obtenu le baccalauréat ou son équivalent dans l'académie où est situé le siège de l'université demandée ou, en cas de dispense, aux candidats résidant dans l'académie. Ils prennent notamment en considération les motifs de rapprochement familial présentés à la suite de difficultés importantes touchant la famille directe du candidat.
