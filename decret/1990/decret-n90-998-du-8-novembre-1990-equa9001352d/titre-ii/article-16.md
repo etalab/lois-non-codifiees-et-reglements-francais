@@ -24,6 +24,22 @@ A titre exceptionnel, ils peuvent être autorisés à accomplir un stage complé
 
 Le stage complémentaire prévu à l'alinéa précédent est sanctionné dans les mêmes conditions que le stage initial. Toutefois, la durée de ce stage n'est pas prise en compte dans l'ancienneté donnant accès à l'échelon supérieur.
 
-III. - Les fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, appartenant à un corps ou à un cadre d'emplois, ou occupant un emploi, qui sont nommés élèves ingénieurs ou ingénieurs stagiaires du contrôle de la navigation aérienne peuvent, pendant la durée de leur formation initiale, choisir entre la rémunération à laquelle ils auraient droit dans leur situation d'origine et la rémunération d'élève ou de stagiaire.
+III. - Les techniciens des études et de l'exploitation de l'aviation civile issus de la sélection professionnelle prévue à l'article 12 ci-dessus sont nommés ingénieurs stagiaires du contrôle de la navigation aérienne par arrêté du ministre chargé de l'aviation civile.
+
+Ils effectuent un stage en partie à l'Ecole nationale de l'aviation civile et en partie dans un centre de contrôle figurant en annexe III au présent décret, selon des modalités précisées par arrêté du ministre chargé de l'aviation civile.
+
+La durée maximale de ce stage est de dix-huit mois.
+
+Les ingénieurs stagiaires perçoivent pendant la durée de leur stag le traitement afférent à l'échelon de stagiaire.
+
+Leur titularisation intervient à la date de délivrance de la qualification de contrôle de leur centre d'affectation.
+
+Ceux qui n'ont pas obtenu cette qualification à l'issue du stage sont réintégrés dans leur corps d'origine.
+
+A titre exceptionnel, ils peuvent être autorisés à accomplir un stage complémentaire d'une durée d'un an au maximum. Pendant cette durée, ils conservent la qualité d'ingénieur stagiaire.
+
+Le stage complémentaire prévu à l'alinéa précédent est sanctionné dans les mêmes conditions que le stage initial. Toutefois, la durée de ce stage n'est pas prise en compte dans l'ancienneté donnant accès à l'échelon supérieur.
+
+IV. - Les fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, appartenant à un corps ou à un cadre d'emplois, ou occupant un emploi, qui sont nommés élèves ingénieurs ou ingénieurs stagiaires du contrôle de la navigation aérienne peuvent, pendant la durée de leur formation initiale, choisir entre la rémunération à laquelle ils auraient droit dans leur situation d'origine et la rémunération d'élève ou de stagiaire.
 
 Toutefois, pour les élèves et les stagiaires qui avaient précédemment la qualité d'agent non titulaire de l'Etat, ces dispositions ne peuvent avoir pour effet d'assurer aux intéressés un traitement supérieur à celui auquel ils auraient droit s'ils étaient classés dans le grade d'ingénieur de classe normale, en application des dispositions de l'article 18 ci-après.

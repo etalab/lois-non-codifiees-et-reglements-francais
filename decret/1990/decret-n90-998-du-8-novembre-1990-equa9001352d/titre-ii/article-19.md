@@ -2,7 +2,7 @@
 
 Les techniciens de l'aviation civile des trois grades nommés ingénieurs du contrôle de la navigation aérienne en application de l'article 13 ci-dessus sont classés dans les grades et échelons de leur nouveau corps dans les conditions suivantes :
 
-1° Les techniciens de l'aviation civile du 1er grade sont classés dans les deux échelons d'ingénieurs stagiaires du contrôle et dans le grade d'ingénieur du contrôle de classe normale selon le tableau de correspondance ci-après :
+1° Les techniciens de l'aviation civile du 1er grade sont classés dans l'échelon d'ingénieur stagiaire du contrôle et dans le grade d'ingénieur du contrôle de classe normale selon le tableau de correspondance ci-après :
 
 SITUATION dans le grade de technicien de l'aviation civile
 
@@ -12,65 +12,23 @@ Echelons
 
 Ancienneté d'échelon
 
-1er échelon Stagiaire
-
-1er échelon
+1er échelon Stagiaire.
 
 Sans ancienneté.
 
-2e échelon Stagiaire
+2e échelon Stagiaire.
 
-1er échelon
+Un tiers de l'ancienneté acquise.
 
-1/3 de l'ancienneté acquise.
+3e échelon Stagiaire.
 
-3e échelon Stagiaire
+Un tiers de l'ancienneté acquise majoré de six mois.
 
-1er échelon
+4e échelon Stagiaire.
 
-1/3 de l'ancienneté acquise majoré de 6 mois.
+Deux tiers de l'ancienneté acquise majorés de un an.
 
-4e échelon Stagiaire
-
-2e échelon
-
-2/3 de l'ancienneté acquise.
-
-5e échelon 1er échelon
-
-2/9 de l'ancienneté acquise.
-
-6e échelon 1er échelon
-
-1/6 de l'ancienneté acquise majoré de 4 mois.
-
-7e échelon 1er échelon
-
-1/9 de l'ancienneté acquise majoré de 8 mois.
-
-8e échelon 2e échelon
-
-2/3 de l'ancienneté acquise.
-
-9e échelon 3e échelon
-
-2/3 de l'ancienneté acquise.
-
-10e échelon 4e échelon
-
-1/3 de l'ancienneté acquise.
-
-11e échelon 4e échelon
-
-1/4 de l'ancienneté acquise majoré d'un an.
-
-12e échelon 5e échelon
-
-Ancienneté acquise dans la limite de 3 ans.
-
-2° Les techniciens supérieurs de l'aviation civile sont classés
-
-dans le grade d'ingénieur du contrôle de la navigation aérienne de classe normale selon le tableau de correspondance ci-après :
+2° Les techniciens supérieurs de l'aviation civile sont classés dans le grade d'ingénieur du contrôle de la navigation aérienne de classe normale selon le tableau de correspondance ci-après :
 
 SITUATION dans le grade de technicien supérieur
 
