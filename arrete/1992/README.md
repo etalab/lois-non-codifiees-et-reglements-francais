@@ -122,6 +122,7 @@
 - [Arrêté du 9 novembre 1987 (ECOC8700116A)](arrete-du-9-novembre-1987-ecoc8700116a)
 - [Arrêté du 9 novembre 1987 (ECOC8700118A)](arrete-du-9-novembre-1987-ecoc8700118a)
 - [Arrêté du 10 août 1988 (MENK8870006A)](arrete-du-10-aout-1988-menk8870006a)
+- [Arrêté du 10 avril 1992 (MENK9200014A)](arrete-du-10-avril-1992-menk9200014a)
 - [Arrêté du 10 décembre 1991 (ENVP9161434A)](arrete-du-10-decembre-1991-envp9161434a)
 - [Arrêté du 10 décembre 1991 (ENVP9161466A)](arrete-du-10-decembre-1991-envp9161466a)
 - [Arrêté du 10 décembre 1991 (EQUS9101786A)](arrete-du-10-decembre-1991-equs9101786a)
@@ -522,4 +523,4 @@
 - [Arrêté du 31 mars 1992 (PTTR9200184A)](arrete-du-31-mars-1992-pttr9200184a)
 - [Arrêté du 31 mars 1992 (RESY9200039A)](arrete-du-31-mars-1992-resy9200039a)
 - [Arrêté du 31 mars 1992 (SANH9200864A)](arrete-du-31-mars-1992-sanh9200864a)
-- [Arrêté du 31 mars 1992 (SPSS9200875A)](arrete-du-31-mars-1992-spss9200875a)
+- [Arrêté du 31 mars 1992 (SPSs9200875A)](arrete-du-31-mars-1992-spss9200875a)
