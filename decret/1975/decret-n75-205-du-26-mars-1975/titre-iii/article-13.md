@@ -8,7 +8,7 @@ La durée de congé, qui ne peut excéder 200 heures par an, ne peut être imput
 
 Les heures de congé peuvent être reportées d'une année à l'autre à la demande des agents intéressés.
 
-Le congé total peut être utilisé en une ou plusieurs fois pour suivre des stages, continus ou discontinus, à temps plein ou à temps partiel.
+Le congé peut être utilisé en une ou plusieurs fois en stages d'une durée minimale équivalant à un mois à temps plein qui peuvent être fractionnés en semaines, journées ou demi-journées. En cas de fractionnement, la durée totale cumulée d'un stage ne peut être inférieure à la durée réglementaire du travail dans le mois.
 
 La demande de congé doit être formulée dans les conditions fixées à l'article 11.
 
