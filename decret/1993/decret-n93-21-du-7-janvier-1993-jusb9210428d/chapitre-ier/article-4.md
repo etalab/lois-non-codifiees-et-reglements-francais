@@ -16,13 +16,13 @@ I. Premier groupe :
 
 6° Conseiller et substitut général de cour d'appel ;
 
-7° Président d'un tribunal supérieur d'appel et procureur de la République près cette juridiction ;
+7° Président et procureur de la République du tribunal supérieur d'appel de Saint-Pierre ; ;
 
 8° Substitut chargé d'un secrétariat général à la Cour de cassation, aux cours d'appel de Paris et de Versailles et au tribunal de grande instance de Paris ;
 
 II. Second groupe :
 
-1° Président et procureur de la République d'un tribunal de grande instance hors classe ou à deux chambres ;
+1° Président et procureur de la République d'un tribuna l de grande instance hors classe ou à deux chambres, président et procureur de la République du tribunal supérieur d'appel de Mamoudzou ;.
 
 2° Premier vice-président et premier procureur de la République adjoint d'un tribunal de grande instance hors classe ;
 
