@@ -1,3 +1,8 @@
-# Loi du 10 juillet 1928 autorisant les banques populaires à faire apporter à leurs statuts, par une assemblée générale ayant pouvoir d'approuver les comptes, les modifications nécessaires pour effectuer des avances aux artisans dans les termes de la loi du 27 décembre 1923.
+# Loi du 10 juillet 1928 autorisant le Gouvernement à garantir le règlement des exportations effectuées au profit des administrations ou services publics étrangers.
 
 - [Article unique](article-unique.md)
+- [Article 2](article-2.md)
+- [Article 4](article-4.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)
