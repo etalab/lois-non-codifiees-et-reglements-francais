@@ -350,6 +350,7 @@
 - [Décret n°89-519 du 25 juillet 1989 (SPSA8801703D)](decret-n89-519-du-25-juillet-1989-spsa8801703d)
 - [Décret n°89-696 du 25 septembre 1989 (AGRS8901657D)](decret-n89-696-du-25-septembre-1989-agrs8901657d)
 - [Décret n°89-791 du 25 octobre 1989 (SPSP8901918D)](decret-n89-791-du-25-octobre-1989-spsp8901918d)
+- [Décret n°89-803 du 25 octobre 1989 (FPPX8900145D)](decret-n89-803-du-25-octobre-1989-fppx8900145d)
 - [Décret n°89-334 du 25 mai 1989 (PTTA8800761D)](decret-n89-334-du-25-mai-1989-ptta8800761d)
 - [Décret n°89-336 du 25 mai 1989 (MENL8900267D)](decret-n89-336-du-25-mai-1989-menl8900267d)
 - [Décret n°89-342 du 25 mai 1989 (BUDZ8900006D)](decret-n89-342-du-25-mai-1989-budz8900006d)
