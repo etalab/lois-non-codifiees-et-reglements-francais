@@ -10,22 +10,26 @@
 
 - le cas échéant, les pièces nécessaires au déroulement de l'enquête publique.
 
+- lorsqu'il y a lieu, l'étude de sécurité prévue aux articles 5 et 17 du décret n° 85-1108 du 15 octobre 1985 relatif au régime des transports de gaz combustible par canalisation.
+
 Cette demande est adressée :
 
-- au ministre chargé du gaz lorsque les ouvrages sont concédés ou font l'objet soit d'une demande de concession, soit des déclarations prévues aux c et d du 2° de l'article 2 du décret n° 85-1108 du 15 octobre 1985 relatif au régime des transports de gaz combustibles par canalisations. Cette demande est ensuite transmise au commissaire de la République du ou des départements concernés par le ministre chargé du gaz ;
+- au ministre chargé du gaz lorsque les ouvrages sont concédés ou font l'objet soit d'une demande de concession, soit des déclarations prévues aux c et d du 2° de l'article 2 du décret n° 85-1108 du 15 octobre 1985 relatif au régime des transports de gaz combustibles par canalisations. Cette demande est ensuite transmise au préfet du ou des départements concernés par le ministre chargé du gaz ;
 
-- dans les autres cas, au commissaire de la République du ou des départements où les ouvrages doivent être implantés. Si les ouvrages traversent plusieurs départements, le ministre charge un des commissaires de la République intéressés de centraliser les résultats de l'instruction. Ce commissaire de la République est celui du département où doit être réalisée la plus grande partie de l'opération.
+- dans les autres cas, au préfet du ou des départements où les ouvrages doivent être implantés. Si les ouvrages traversent plusieurs départements, le ministre charge un des préfets intéressés de centraliser les résultats de l'instruction. Ce préfet est celui du département où doit être réalisée la plus grande partie de l'opération.
 
 2. Lorsque l'ouvrage projeté doit être implanté sous le régime de l'autorisation prévue à l'article 2 du décret n° 85-1108 du 15 octobre 1985 susvisé, la demande de déclaration d'utilité publique ne peut être instruite sans l'accord du ministre chargé du gaz.
 
 Il en est de même pour les ouvrages soumis à déclaration visés aux a et b du 2° de l'article 2 du décret précité.
 
-3. Le commissaire de la République procède à l'instruction de la demande ; il sollicite l'avis des services civils et militaires et des maires intéressés en leur indiquant le délai compris entre un et deux mois qui leur est imparti pour se prononcer.
+3. Le préfet procède à l'instruction de la demande ; il sollicite l'avis des services civils et militaires et des maires intéressés en leur indiquant le délai compris entre un et deux mois qui leur est imparti pour se prononcer.
 
 En l'absence de réponse dans le délai imparti, l'avis est réputé [*tacitement*] favorable.
 
-4. Le commissaire de la République transmet les résultats des consultations au demandeur ; au vu de la réponse de celui-ci, il réunit, en tant que de besoin, dans les trente jours qui suivent, une conférence avec les services intéressés et le demandeur.
+4. Le préfet transmet les résultats des consultations au demandeur ; au vu de la réponse de celui-ci, il réunit, en tant que de besoin, dans les trente jours qui suivent, une conférence avec les services intéressés et le demandeur.
 
-5. Les ouvrages de transport de gaz dont le produit du diamètre extérieur par la longueur est supérieur ou égal à 5.000 m2, sont soumis à une enquête publique organisée dans les conditions prévues par la loi n° 85-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection de l'environnement et par les chapitres I, II et IV du décret n° 83-453 du 23 avril 1985 pris pour l'application de cette loi.
+5. Les ouvrages de transport de gaz dont le produit du diamètre extérieur par la longueur est supérieur ou égal à 5.000 m2, sont soumis à une enquête publique organisée dans les conditions prévues par la loi n° 85-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection de l'environnement et par les chapitres I, II et IV du décret n° 83-453 du 23 avril 1985 pris
 
-6. Le commissaire de la République du département intéressé, ou, le cas échéant, le commissaire de la République coordonnateur recueille les observations du pétitionnaire sur le rapport du commissaire enquêteur et les joint au dossier.
+pour l'application de cette loi.
+
+6. Le préfet du département intéressé, ou, le cas échéant, le préfet coordonnateur recueille les observations du pétitionnaire sur le rapport du commissaire enquêteur et les joint au dossier.
