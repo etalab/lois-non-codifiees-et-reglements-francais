@@ -59,6 +59,7 @@
 - [Décret n°2001-292 du 5 avril 2001 (ECOX0000163D)](decret-n2001-292-du-5-avril-2001-ecox0000163d)
 - [Décret n°2001-296 du 5 avril 2001 (MAEX0100050D)](decret-n2001-296-du-5-avril-2001-maex0100050d)
 - [Décret n°2001-914 du 5 octobre 2001 (PRMX0105070D)](decret-n2001-914-du-5-octobre-2001-prmx0105070d)
+- [Décret n°75-1024 du 5 novembre 1975](decret-n75-1024-du-5-novembre-1975)
 - [Décret n°2000-1202 du 6 décembre 2000 (MESS0022832D)](decret-n2000-1202-du-6-decembre-2000-mess0022832d)
 - [Décret n°2000-992 du 6 octobre 2000 (MENF0001767D)](decret-n2000-992-du-6-octobre-2000-menf0001767d)
 - [Décret n°2001-1045 du 6 novembre 2001 (PRMG0170715D)](decret-n2001-1045-du-6-novembre-2001-prmg0170715d)
