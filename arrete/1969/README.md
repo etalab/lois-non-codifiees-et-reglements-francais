@@ -10,6 +10,7 @@
 - [Arrêté du 14 juin 1969](arrete-du-14-juin-1969)
 - [Arrêté du 14 mars 1969](arrete-du-14-mars-1969)
 - [Arrêté du 17 avril 1969](arrete-du-17-avril-1969)
+- [Arrêté du 17 juin 1969](arrete-du-17-juin-1969)
 - [Arrêté du 17 mars 1969](arrete-du-17-mars-1969)
 - [Arrêté du 20 janvier 1970](arrete-du-20-janvier-1970)
 - [Arrêté du 21 avril 1969](arrete-du-21-avril-1969)
