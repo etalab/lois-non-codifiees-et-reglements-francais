@@ -5,3 +5,4 @@
 - [Interrupteurs et sectionneurs placés sur des supports de lignes    électriques aériennes de 3e catégorie.](interrupteurs-et)
 - [Voisinage d'un établissement d'enseignement ou d'une installation    d'équipement sportif.](voisinage-d-un-etablissement-d-enseignement-ou)
 - [Avertissement sur les supports.](avertissement-sur)
+- [Voisinage de canalisations de transport de fluide.](voisinage-de-canalisations-de-transport-de-fluide)
