@@ -39,6 +39,7 @@
 - [Décret n°98-1167 du 21 décembre 1998 (INTA9800300D)](decret-n98-1167-du-21-decembre-1998-inta9800300d)
 - [Décret n°99-41 du 21 janvier 1999 (MESH9920088D)](decret-n99-41-du-21-janvier-1999-mesh9920088d)
 - [Décret n°99-652 du 21 juillet 1999 (ATEN9970016D)](decret-n99-652-du-21-juillet-1999-aten9970016d)
+- [Décret n°70-1285 du 23 décembre 1970](decret-n70-1285-du-23-decembre-1970)
 - [Décret n°98-1197 du 24 décembre 1998 (EQUP9801231D)](decret-n98-1197-du-24-decembre-1998-equp9801231d)
 - [Décret n°78-1044 du 25 octobre 1978](decret-n78-1044-du-25-octobre-1978)
 - [Décret n°99-900 du 25 octobre 1999 (JUSE9940214D)](decret-n99-900-du-25-octobre-1999-juse9940214d)
