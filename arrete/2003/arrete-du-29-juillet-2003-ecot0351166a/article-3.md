@@ -1,0 +1,3 @@
+# Article 3
+
+2 691 639 titres détenus par l'Etat seront réservés à la souscription des salariés et anciens salariés de Renault et de ses filiales au sens de l'article 11 de la loi du 6 août 1986 susvisée. Ces actions seront cédées avec un rabais de 20 % sur le prix fixé à l'article 2 ci-dessus et ne pourront être cédées avant deux ans et avant leur paiement intégral. Elles donneront droit à l'attribution d'actions gratuites, dans les conditions prévues par l'article 12 de la loi du 6 août 1986 susvisée. Un arrêté du ministre de l'économie, des finances et de l'industrie déterminera les conditions de cette cession.
