@@ -43,6 +43,7 @@
 - [Décret n°95-16 du 4 janvier 1995 (SPSS9403759D)](decret-n95-16-du-4-janvier-1995-spss9403759d)
 - [Décret n°95-357 du 4 avril 1995 (LOGC9500024D)](decret-n95-357-du-4-avril-1995-logc9500024d)
 - [Décret n°95-358 du 4 avril 1995 (SPSN9500683D)](decret-n95-358-du-4-avril-1995-spsn9500683d)
+- [Décret n°95-371 du 4 avril 1995 (EQUL9500253D)](decret-n95-371-du-4-avril-1995-equl9500253d)
 - [Décret n°95-6 du 4 janvier 1995 (ECOT9451391D)](decret-n95-6-du-4-janvier-1995-ecot9451391d)
 - [Décret n°95-35 du 5 janvier 1995 (MAEJ9430084D)](decret-n95-35-du-5-janvier-1995-maej9430084d)
 - [Décret n°95-36 du 5 janvier 1995 (MCCB9400609D)](decret-n95-36-du-5-janvier-1995-mccb9400609d)
