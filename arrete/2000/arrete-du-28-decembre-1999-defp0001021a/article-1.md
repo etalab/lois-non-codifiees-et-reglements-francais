@@ -34,8 +34,12 @@ chef du bureau des affaires générales et de la prévision, sous-direction de l
 
 - chef du bureau des décorations de la sous-direction des bureaux des cabinets ;
 
-- chef du bureau  cité de l'air  du service des moyens généraux ;
+- chef du bureau cité de l'air du service des moyens généraux ;
 
 - adjoint au directeur de la base d'essais d'Istres, sous-directeur des ressources humaines de la base d'essais d'Istres ;
 
-- chef du bureau de la vie associative et des cérémonies à la direction de la mémoire, du patrimoine et des archives.
+- chef du bureau de la vie associative et des cérémonies à la direction de la mémoire, du patrimoine et des archives ;
+
+- chef du bureau "gestion des personnels civils de la sous-direction ressources humaines de la direction centrale du service de santé des armées ;
+
+- chef de l'observatoire du personnel civil de l'inspection de l'armée de terre.
