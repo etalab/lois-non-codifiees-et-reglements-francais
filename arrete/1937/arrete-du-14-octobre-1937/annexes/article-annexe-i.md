@@ -1,78 +1,115 @@
 # Article Annexe I
 
-Points et fréquences de prélèvements
+POINTS ET FRÉQUENCES DE PRÉLÈVEMENTS
+
+A. - A l'émergence
 
 <table>
 <tbody>
 <tr>
 <td width="227">
-<p align="center">FRÉQUENTATION<br/>de l'établissement<br/>en nombre<br/>de curistes/an</p>
+<p align="center">OUVERTURE<br/>de l'établissement</p>
 </td>
 <td width="227">
-<p align="center">POINTS DE PRÉLÈVEMENT<br/>(1 par catégorie d'usage<br/>en sortie de chaque réseau)</p>
+<p align="center">NOMBRE<br/>de contrôles</p>
 </td>
 <td width="227">
-<p align="center">FRÉQUENCE<br/>de prélèvement<br/>annuelle</p>
+<p align="center">TYPE<br/>d'analyses</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p align="left">Moins de 200.</p>
+<p align="center">Plus de 7 mois/an</p>
 </td>
 <td valign="top" width="227">
-<p>Emergence</p>
-<p>Pour au maximum 2 catégories d'usage</p>
+<p align="center">4 dont 1 avant l'ouverture</p>
 </td>
 <td valign="top" width="227">
-<p align="center">1</p>
-<p align="center">2</p>
+<p align="center">CM + BMO + BM1</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p align="left">Entre 200 et 1 000.</p>
+<p align="center">Moins de 7 mois/an</p>
 </td>
 <td valign="top" width="227">
-<p>Emergence</p>
-<p>Par catégorie d'usage existante</p>
+<p align="center">3 dont 1 avant l'ouverture</p>
 </td>
 <td valign="top" width="227">
-<p align="center">1</p>
-<p align="center">2</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p align="left">Plus de 1 000.</p>
-</td>
-<td valign="top" width="227">
-<p>Emergence</p>
-<p>Par catégorie d'usage existante</p>
-</td>
-<td valign="top" width="227">
-<p align="center">2 ou 3 (*)</p>
-<p align="center">2 ou 3 (*)</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="680">
-<p align="left">Recherche des legionella : 1 fois/an à l'émergence et pour chaque catégorie d'usage.</p>
-<p align="left">(*) 3 : si l'établissement est ouvert toute l'année (au moins 10 mois) ; 2 : dans les autres cas.</p>
+<p align="center">CM + BMO + BM1</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Catégories d'usage dans un établissement thermal
+B. - Aux points d'usage
 
-1. Injection.
-
-2. Ingestion.
-
-3. Soins en contact direct avec les muqueuses respiratoires, le cas échéant, soins susceptibles de provoquer un contact avec les muqueuses respiratoires ou les muqueuses oculaires.
-
-4. Soins en contact avec les muqueuses internes (autres que celles du système respiratoire, hors injection et ingestion).
-
-5. Soins externes individuels (douches, bains, ...).
-
-6. Bain collectif ou piscine (à 10 cm de profondeur dans l'eau du bassin dans une zone d'eau stagnante à forte fréquentation).
+<table>
+<tbody>
+<tr>
+<td width="227">
+<p align="center">CATÉGORIES<br/>de soins</p>
+</td>
+<td width="227">
+<p align="center">NOMBRE<br/>de contrôles *</p>
+</td>
+<td width="227">
+<p align="center">TYPE<br/>d'analyses</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p align="center">(1)</p>
+</td>
+<td valign="top" width="227">
+<p align="left">1 par mois **</p>
+<p align="left">1 par mois **</p>
+<p align="left">1 par trimestre</p>
+</td>
+<td valign="top" width="227">
+<p align="center">BMO</p>
+<p align="center">BM1</p>
+<p align="center">CM</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p align="center">(2)</p>
+</td>
+<td valign="top" width="227">
+<p align="left">1 par mois **</p>
+<p align="left">Au moins 1 par trimestre</p>
+<p align="left">1 par trimestre</p>
+</td>
+<td valign="top" width="227">
+<p align="center">BMO</p>
+<p align="center">BM1</p>
+<p align="center">CM</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p align="center">(3)</p>
+</td>
+<td valign="top" width="227">
+<p align="left">1 par mois **</p>
+<p align="left">Au moins 1 par trimestre</p>
+<p align="left">1 par trimestre</p>
+</td>
+<td valign="top" width="227">
+<p align="center">BMO</p>
+<p align="center">BM1</p>
+<p align="center">CM</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="680">
+<p align="left">* En conditions normales de fonctionnement.</p>
+<p align="left">** En l'absence de contamination constatée au terme d'une saison thermale, cette fréquence est portée à 1 par trimestre pour la saison suivante.</p>
+<p align="left">(1) Soins en contact direct avec les muqueuses respiratoires ou susceptibles de provoquer un contact avec les muqueuses oculaires et respiratoires.</p>
+<p align="left">(2) Soins en contact avec les autres muqueuses internes et ingestion d'eau minérale naturelle.</p>
+<p align="left">(3) Soins externes individuels (bains, douches) ou collectifs (couloir de marche...).</p>
+</td>
+</tr>
+</tbody>
+</table>
