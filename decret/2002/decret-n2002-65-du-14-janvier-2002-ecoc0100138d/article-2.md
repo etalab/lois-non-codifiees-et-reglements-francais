@@ -1,0 +1,3 @@
+# Article 2
+
+Est complétée par la mention "traité" ou par l'indication du traitement, sous réserve des exceptions prévues à l'article 3 ci-après, la dénomination des pierres gemmes, matières organiques, perles de culture et perles fines qui ont subi, selon le cas, un traitement par irradiation, par laser, par colorant, par diffusion en surface, par emplissage, éventuellement à titre de résidu d'un traitement thermique, de matières étrangères incolores solidifiées dans les cavités extérieures qui présentent des ruptures de réflexion visibles à la loupe de grossissement 10 fois, ou par toute autre méthode de laboratoire modifiant leur apparence, leur couleur ou leur pureté.
