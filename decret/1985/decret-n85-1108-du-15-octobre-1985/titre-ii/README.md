@@ -1,4 +1,4 @@
-# TITRE II : Régime de la concession.
+# TITRE II : Dispositions applicables aux ouvrages soumis à autorisation ministérielle.
 
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
