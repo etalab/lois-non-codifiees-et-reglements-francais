@@ -43,7 +43,6 @@
 - [Décret n°82-500 du 7 juin 1982](decret-n82-500-du-7-juin-1982)
 - [Décret n°82-538 du 7 juin 1982](decret-n82-538-du-7-juin-1982)
 - [Décret n°82-765 du 7 septembre 1982](decret-n82-765-du-7-septembre-1982)
-- [Décret n°81-445 du 7 mai 1981](decret-n81-445-du-7-mai-1981)
 - [Décret n°82-1045 du 8 décembre 1982](decret-n82-1045-du-8-decembre-1982)
 - [Décret n°82-138 du 8 février 1982](decret-n82-138-du-8-fevrier-1982)
 - [Décret n°82-318 du 8 avril 1982](decret-n82-318-du-8-avril-1982)
