@@ -10,7 +10,7 @@ Soit à l'employeur chez lequel elles ont été placées.
 
 Toutefois, dans les cas visés au deuxième et troisième alinéas du présent article, la caisse primaire d'assurance maladie dont relève chaque victime d'accident du travail supporte la charge [*financière*] des cotisations [*compétence*]. Elle en effectue le règlement dans les conditions prévues pour les frais de rééducation.
 
-Le salaire servant de base au calcul tant des cotisations que des indemnités est déterminé conformément aux dispositions du quatrième alinéa de l'article 2 du présent décret.
+Le salaire servant de base au calcul tant des cotisations que des indemnités est déterminé conformément aux dispositions de l'article 7-1 du présent décret.
 
 Toutefois, si la victime se trouvait encore, au moment de l'accident l'ayant obligé à interrompre la rééducation, dans la période d'incapacité temporaire consécutive à l'accident du travail antérieur, l'indemnité qui lui est due ne pourra être inférieure à celle dont elle bénéficiait au moment où l'accident est survenu, compte non tenu du complément d'indemnité prévu par l'article 42, deuxième alinéa, de la loi du 30 octobre 1946.
 
