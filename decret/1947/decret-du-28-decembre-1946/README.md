@@ -2,5 +2,6 @@
 
 - [Titre Ier : Du régime administratif.](titre-ier)
 - [Titre II : Du régime financier.](titre-ii)
+- [Titre III : Du régime des sanctions administratives.](titre-iii)
 - [Titre IV : Dispositions transitoires et diverses.](titre-iv)
 - [Article 25](article-25.md)
