@@ -71,4 +71,4 @@ Les cotisations dues au régime général de sécurité sociale et au fonds nati
 </tbody>
 </table>
 
-Pour l'application des dispositions qui précèdent, le montant horaire du SMIC et la durée légale hebdomadaire du travail à prendre en considération sont ceux en vigueur au 1er janvier de chaque année civile considérée.
+Pour l'application du présent article, l'assiette mensuelle est calculée sur la base de cent soixante-neuf-fois le montant du SMIC en vigueur au 1er janvier de l'année au cours de laquelle est versée la rémunération.

@@ -20,7 +20,7 @@ Toutefois, les élèves des écoles normales supérieures citées ci-dessus peuv
 
 - Université de technologie de Compiègne ;
 
-- Conservatoire national des arts et métiers (spécialité Biologie industrielle et agroalimentaire) ;
+- Conservatoire national des arts et métiers (spécialité biologie industrielle et agroalimentaire, spécialité biochimie industrielle et agroalimentaire et spécialité sciences et techniques du vivant ;
 
 - Ecole nationale supérieure des industries chimiques de Nancy ;
 
@@ -36,4 +36,6 @@ Toutefois, les élèves des écoles normales supérieures citées ci-dessus peuv
 
 - Ecole nationale supérieure de chimie de Paris ;
 
-- Ecole supérieure de physique et de chimie industrielles de la ville de Paris.
+- Ecole supérieure de physique et de chimie industrielles de la ville de Paris ;
+
+- soit appartenir aux corps des enseignants-chercheurs de l'enseignement supérieur et exercer ses activités d'enseignement dans une unité de formation et de recherche de médecine, de pharmacie ou d'odontologie.
