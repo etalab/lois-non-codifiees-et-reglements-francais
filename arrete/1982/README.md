@@ -86,7 +86,6 @@
 - [Arrêté du 25 janvier 1982](arrete-du-25-janvier-1982)
 - [Arrêté du 25 juin 1982](arrete-du-25-juin-1982)
 - [Arrêté du 25 mai 1982](arrete-du-25-mai-1982)
-- [Arrêté du 26 avril 1982](arrete-du-26-avril-1982)
 - [Arrêté du 26 février 1982](arrete-du-26-fevrier-1982)
 - [Arrêté du 26 mars 1982](arrete-du-26-mars-1982)
 - [Arrêté du 26 novembre 1981](arrete-du-26-novembre-1981)
