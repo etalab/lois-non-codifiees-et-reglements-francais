@@ -1,7 +1,13 @@
 # Article 5
 
-Les institutions définies à l'article L. 351-2 du code du travail [*UNEDIC, ASSEDIC*] sont chargées du recouvrement de la contribution de solidarité selon des modalités précisées par convention entre l'Etat et les institutions susvisées, ou à défaut par décret et dans les conditions générales du recouvrement des contributions des employeurs, visées à l'article L. 351-12 dudit code [*organismes compétents*].
+Le recouvrement des contributions dues par les employeurs et les salariés du secteur privé relevant de l'article L. 351-4 du code de travail ainsi que des contributions dues par les employeurs et les salariés relevant de l'article L. 351-12 du code du travail affiliés au régime des allocations d'assurance est assuré par les institutions gestionnaires de ce régime.
 
-Les travailleurs salariés de plus de soixante ans sont tenus de déclarer aux institutions de l'article L. 351-2 et à leur employeur le montant des prestations de vieillesse qu'ils perçoivent ainsi que le nombre de personnes à leur charge [*déclaration obligatoire*].
+Le recouvrement des contributions dues par les employeurs et les salariés relevant de l'article L. 351-12 du code du travail non affiliés au régime des allocations d'assurance est effectué par le fonds de solidarité créé par la loi n° 82-939 du 4 novembre 1982.
 
-Les employeurs assujettis à la contribution de solidarité sont tenus de déclarer aux institutions de l'article L. 351-2 la rémunération servant de base au calcul de ladite contribution.
+Les travailleurs salariés de plus de soixante ans sont tenus de déclarer aux organismes chargés du recouvrement des contributions et à leur employeur le montant des prestations de vieillesse qu'ils perçoivent ainsi que le nombre de personnes à charge.
+
+Les employeurs assujettis à la contribution de solidarité sont tenus de déclarer aux organismes chargés du recouvrement des contributions la rémunération servant de base au calcul desdites contributions.
+
+Les sommes recouvrées par les institutions gestionnaires du régime d'assurance contribuent au financement des prestations prévues à l'article L. 351-3.
+
+Les sommes recouvrées par le fonds de solidarité sont affectées au financement des allocations de solidarité visées aux articles L. 351-9 et L. 351-10.
