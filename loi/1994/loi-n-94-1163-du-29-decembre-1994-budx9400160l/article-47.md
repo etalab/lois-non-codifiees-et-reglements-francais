@@ -1,0 +1,7 @@
+# Article 47
+
+I.-La rémunération des personnels militaires en service à l'étranger ne comprend pas les primes de qualification instituées par le décret n° 68-657 du 10 juillet 1968 relatif aux primes de qualification de certains personnels militaires, ni l'indemnité spéciale de sécurité aérienne instituée par le décret n° 69-448 du 20 mai 1969 portant création d'une indemnité spéciale de sécurité aérienne, ni l'allocation exceptionnelle aux militaires à solde spéciale progressive effectuant une période d'exercice militaire instituée par le décret n° 76-266 du 15 mars 1976 portant attribution d'une allocation exceptionnelle aux militaires à solde spéciale progressive effectuant une période d'exercice militaire, ni la prime de service et la prime de qualification instituées par le décret n° 76-1191 du 23 décembre 1976 portant création d'une prime de service et d'une prime de qualification en faveur des sous-officiers.
+
+Ces dispositions ont un caractère interprétatif, sous réserve des décisions de justice passées en force de chose jugée.
+
+II.-Sous réserve des décisions de justice passées en force de chose jugée, les attributions individuelles de l'indemnité pour charges militaires en tant qu'elles sont contestées par le moyen tiré des conséquences entraînées par l'intervention de la loi n° 70-459 du 4 juin 1970 relative à l'autorité parentale à l'égard des dispositions du décret n° 59-1193 du 13 octobre 1959 fixant le régime de l'indemnité pour charges militaires sont validées.

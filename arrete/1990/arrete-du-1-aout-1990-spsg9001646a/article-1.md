@@ -10,4 +10,6 @@ A ce titre :
 
 - il assiste et conseille les services d'administration centrale et les services déconcentrés dans la définition et la mise en oeuvre de leurs actions propres de communication interne ;
 
-- il représente le ministère auprès du service d'information et de diffusion du Premier ministre et des autres instances interministérielles spécialisées en matière de communication.
+- il représente le ministère auprès du service d'information et de diffusion du Premier ministre et des autres instances interministérielles spécialisées en matière de communication ;
+
+Il mène les enquêtes d'image ou d'opinion nécessaires à l'élaboration et au suivi de la politique de communication du ministère.

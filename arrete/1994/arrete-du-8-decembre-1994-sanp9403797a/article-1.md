@@ -1,0 +1,7 @@
+# Article 1
+
+Constitue un dépôt de sang au sein d'un établissement de santé tout lieu, qu'il soit localisé dans un service d'urgence ou dans un service de soins, où sont conservés, sous la responsabilité d'un médecin ou d'un pharmacien, les produits sanguins labiles homologues et autologues prêts à l'usage thérapeutique.
+
+Ces produits, qu'ils aient été attribués nominativement ou non par l'établissement de transfusion sanguine qui approvisionne le dépôt, ne font l'objet d'aucune préparation, ni transformation, ni modification, ni qualification par le dépôt, à l'exception, le cas échéant, des épreuves de compatibilité directe en immunohématologie.
+
+Ne constitue pas un dépôt, au sein d'un service de soins de l'établissement de santé, dans des conditions conformes aux bonnes pratiques de distribution et aux caractéristiques des produits sanguins labiles, la conservation de produits sanguins labiles déjà attribués, pour lesquels la durée de conservation qui sépare l'attribution du produit de l'acte transfusionnel n'excède pas six heures. Ce délai peut être supérieur lorsque l'acte transfusionnel est effectué à l'occasion d'une intervention chirurgicale dont la durée rend nécessaire un allongement dudit délai. Dans ce dernier cas, une procédure écrite, définissant les modalités de conservation au-delà de six heures, est exigée dans les conditions prévues au III. - 1. Attributions, du règlement relatif aux bonnes pratiques de distribution, homologué par arrêté du 4 août 1994 susvisé tel que modifié par l'annexe II du présent arrêté.

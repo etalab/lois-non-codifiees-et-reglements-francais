@@ -1,0 +1,3 @@
+# Article 5
+
+Les enseignements visent à assurer la formation professionnelle des élèves destinés à être affectés au traitement de l'information. Ils doivent leur permettre d'appliquer les connaissances acquises antérieurement et leur donner une formation technique adaptée aux besoins de l'administration, ainsi que la mise en oeuvre de méthodes de réflexion, de gestion, de management et de conception, d'expression écrite et orale et de communication nécessaires à l'exercice de l'ensemble des fonctions administratives et techniques qui leur seront confiées au sein des corps de fonctionnaires formés par les instituts régionaux d'administration.

@@ -34,6 +34,12 @@ Le tableau [*non reproduit*], présenté ci-dessous, bien que non exhaustif, rep
 
 15 novembre 1993, du 5 avril 1994 et du 4 août 1994 portant homologation de règlements de l'Agence française du sang    En cas de présence d'anticorps irréguliers anti-érythrocytaires dans le concentré de globules rouges ou de plaquettes, le responsable du service de distribution en informe le médecin prescripteur. Ils décident ensemble de la conduite à tenir en ce qui concerne le produit, à savoir les transformations éventuelles. Concernant le patient, ils s'assurent que le receveur n'a pas reçu de concentré de globules rouges portant l'antigène correspondant dans les deux mois précédents et ils prennent les mesures nécessaires pour qu'il n'en reçoive pas dans les deux mois suivants, dans le respect des règles de compatibilité immunologique.
 
+Tout produit sanguin labile doit être transfusé au plus tard dans les six heures qui suivent sa réception par le service de soins utilisateur de l'établissement de santé.
+
+Au-delà du délai de six heures mentionné ci-dessus, le produit ne peut être utilisé qu'après consultation du responsable du conseil transfusionnel au sein de l'établissement de transfusion sanguine. Pour les produits sanguins labiles dont les caractéristiques homologuées par arrêté prévoient une durée de conservation inférieure, le délai de six heures doit être diminué d'autant.
+
+Toutefois, pour les interventions chirurgicales d'une durée supérieure à six heures, la conservation est admise, sous réserve du respect des caractéristiques de chaque produit, si les conditions de conservation des produits font l'objet d'une procédure écrite cosignée par le directeur de l'établissement de transfusion sanguine et le directeur de l'établissement de santé.
+
 III.1.1. Attribution de concentrés érythrocytaires
 
 En règle générale, la transfusion de concentrés érythrocytaires obéit à la transfusion isogroupe dans les systèmes ABO Rh D. Cette règle ne peut être transgressée qu'en tenant compte des anticorps du système ABO.

@@ -124,7 +124,7 @@ L'autorité parentale est exercée sur l'enfant naturel par celui des père et m
 
 Si l'un et l'autre parent ont reconnu l'enfant, l'autorité parentale est exercée automatiquement en commun lorsque la double reconnaissance a lieu avant le premier anniversaire de l'enfant et que les parents vivaient ensemble au moment où ils ont reconnu l'enfant.
 
-Afin de faciliter la justification auprès des tiers de l'exercice en commun de l'autorité parentale, le juge aux affaires familiales du lieu où réside l'enfant peut délivrer aux parents, ou à celui d'entre eux qui lui en fait la demande, un acte de communauté de vie constatant que le père et la mère de l'enfant vivaient ensemble lors de la reconnaissance.
+Afin de faciliter la justification auprès des tiers de l'exercice en commun de l'autorité parentale, le juge aux affaires familiales du lieu où réside le ou les parents qui en font la demande peut délivrer au demandeur, un acte de communauté de vie constatant que le père et la mère de l'enfant vivaient ensemble lors de la reconnaissance.
 
 L'autorité parentale peut également être exercée en commun par le père et la mère s'ils en font la déclaration conjointe devant le juge aux affaires familiales du lieu où réside l'enfant.
 

@@ -25,6 +25,7 @@
 - [Loi n° 94-1136 du 27 décembre 1994 (INTX9400117L)](loi-n-94-1136-du-27-decembre-1994-intx9400117l)
 - [Loi n° 94-1137 du 27 décembre 1994 (MAEX9400149L)](loi-n-94-1137-du-27-decembre-1994-maex9400149l)
 - [Loi n° 94-114 du 10 février 1994 (AGRX9300158L)](loi-n-94-114-du-10-fevrier-1994-agrx9300158l)
+- [Loi n° 94-1163 du 29 décembre 1994 (BUDX9400160L)](loi-n-94-1163-du-29-decembre-1994-budx9400160l)
 - [Loi n° 94-126 du 11 février 1994 (COMX9300154L)](loi-n-94-126-du-11-fevrier-1994-comx9300154l)
 - [Loi n° 94-319 du 25 avril 1994 (MAEX9300118L)](loi-n-94-319-du-25-avril-1994-maex9300118l)
 - [Loi n° 94-320 du 25 avril 1994 (MAEX9300126L)](loi-n-94-320-du-25-avril-1994-maex9300126l)

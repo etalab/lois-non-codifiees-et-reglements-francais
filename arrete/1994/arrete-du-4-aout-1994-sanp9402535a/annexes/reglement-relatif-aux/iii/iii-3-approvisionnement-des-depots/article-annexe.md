@@ -18,6 +18,10 @@ III.3.2. Dépôts
 
 Au sein d'un établissement de santé, est appelé dépôt tout stockage de produits sanguins labiles prêts à l'usage thérapeutique.
 
+Les produits sanguins labiles déjà attribués nominativement par l'établissement de transfusion sanguine distributeur peuvent être conservés par le dépôt, dans la limite des durées maximales définies par les règlements homologués relatifs aux caractéristiques de ces produits.
+
+Toutefois, ne constitue pas un dépôt, au sein d'un service de soins de l'établissement de santé, la conservation de produits sanguins labiles déjà attribués, pour lesquels la durée de conservation qui sépare l'attribution de l'acte transfusionnel n'excède pas six heures.
+
 Les dépôts doivent être tenus sous la responsabilité d'un docteur en médecine au sens de l'article L. 356 du C.S.P. ou d'un pharmacien au sens de l'article L. 514 du C.S.P. Dans tous les cas, l'activité de conseil transfusionnel au sein de l'établissement de santé relève de la compétence d'un docteur en médecine.
 
 Les dépôts doivent faire l'objet d'une convention entre l'établissement de transfusion et l'établissement de santé pour organiser la maintenance du dépôt et la surveillance des produits sanguins labiles entreposés, conformément à l'article R.666-12-9 du décret d'hémovigilance : " Un arrêté du ministre chargé de la santé, pris après avis du président de l'Agence française du sang, fixe les clauses obligatoires que doivent comporter ces conventions. "

@@ -258,7 +258,9 @@ Directeur du centre de sécurité sociale des travailleurs migrants, mentionné 
 
 Travail
 
-Directeur de l'office national d'immigration, mentionné dans le décret n° 48-1454 du 20 septembre 1948 modifiant le décret du 26 mars 1946.
+Directeur de l'office national d'immigration, mentionné dans le décret n° 48-1454 du 20 septembre 1948 modifiant le décret du 26 mars 1946 ;
+
+Directeur régional du travail, de l'emploi et de la formation professionnelle.
 
 P.T.T.
 
@@ -270,9 +272,7 @@ Chef de service régional (direction générale des postes et directions relevan
 
 Chef de service départemental (direction générale des postes et directions relevant des services généraux) mentionné dans le décret n° 79-496 du 20 juin 1979 ;
 
-Directeur d'établissement principal de 1re et de 2e classe des postes et directeur d'établissement principal de 1re et de 2e classe
-
-des télécommunications mentionnés dans les décrets n° 78-934 et n° 78-935 du 30 août 1978 modifiant respectivement les décrets n° 76-118 et n° 76-119 du 29 janvier 1976.
+Directeur d'établissement principal de 1re et de 2e classe des postes et directeur d'établissement principal de 1re et de 2e classe des télécommunications mentionnés dans les décrets n° 78-934 et n° 78-935 du 30 août 1978 modifiant respectivement les décrets n° 76-118 et n° 76-119 du 29 janvier 1976.
 
 Chef de service de comptabilité des postes et télécommunications, mentionné dans les décrets n° 89-264 du 26 avril 1989 et n° 89-334 du 25 mai 1989.
 

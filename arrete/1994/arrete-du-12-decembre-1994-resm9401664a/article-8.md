@@ -1,0 +1,3 @@
+# Article 8
+
+Le droit d'accès prévu par l'article 34 de la loi n° 78-17 du 6 janvier 1978 s'exerce auprès du chef de l'établissement dans lequel l'étudiant est inscrit. Dans le cas d'une adhésion d'un établissement privé au système S.I.S.E. l'accord passé entre cet établissement privé et le recteur d'académie stipule qu'il appartient à cet établissement d'informer les personnes concernées de l'existence du traitement et des droits et obligations découlant de la loi du 6 janvier 1978 susvisée, notamment sur les conditions de collecte des informations nominatives, la nature des données traitées et les modalités d'exercice du droit d'accès.
