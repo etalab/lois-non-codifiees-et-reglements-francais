@@ -12,6 +12,7 @@
 - [Décret n°2004-4 du 2 janvier 2004 (DEFM0302373D)](decret-n2004-4-du-2-janvier-2004-defm0302373d)
 - [Décret n°2004-474 du 2 juin 2004 (PRMG0470226D)](decret-n2004-474-du-2-juin-2004-prmg0470226d)
 - [Décret n°2004-475 du 2 juin 2004 (PRMG0470227D)](decret-n2004-475-du-2-juin-2004-prmg0470227d)
+- [Décret n°2004-501 du 2 juin 2004 (ECOF0400010D)](decret-n2004-501-du-2-juin-2004-ecof0400010d)
 - [Décret n°2004-953 du 2 septembre 2004 (DEFP0400852D)](decret-n2004-953-du-2-septembre-2004-defp0400852d)
 - [Décret n°2005-919 du 2 août 2005 (SANH0520460D)](decret-n2005-919-du-2-aout-2005-sanh0520460d)
 - [Décret n°2005-924 du 2 août 2005 (SANH0520641D)](decret-n2005-924-du-2-aout-2005-sanh0520641d)
