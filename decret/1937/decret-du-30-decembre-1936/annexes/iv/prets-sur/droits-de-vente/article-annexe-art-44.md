@@ -1,6 +1,6 @@
 # Article Annexe, art. 44
 
-Il est alloué aux commissaires-priseurs ou autres officiers ministériels pour vacation et frais de vente un droit proportionnel sur le produit des ventes [*rémunération*] dont la quotité est fixée par délibération du conseil d'administration.
+Il est alloué aux commissaires-priseurs ou autres officiers ministériels pour vacation et frais de vente un droit proportionnel sur le produit des ventes [*rémunération*] dont la quotité est fixée par délibération du conseil d'orientation et de surveillance.
 
 L'établissement pourra également percevoir à son profit, sur le produit des ventes, un droit proportionnel qui sera, s'il y a lieu, fixé dans les mêmes formes.
 
