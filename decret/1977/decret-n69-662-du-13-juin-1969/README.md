@@ -1,6 +1,5 @@
 # Décret n°69-662 du 13 juin 1969 relatif à la nomination et à l'avancement du personnel de direction des établissements énumérés à l'article L. 792 du code de la santé publique.
 
-- [Titre 1er : De la composition du cadre du personnel de direction des établissements énumérés par l'article L. 972 (1°,2°,3°) du code de la santé publique](titre-1er)
 - [Titre II : De la nomination](titre-ii)
 - [Titre III : De l'avancement et du classement dans les échelons](titre-iii)
 - [Titre III bis : De la désignation de secrétaires généraux de syndicats interhospitaliers](titre-iii-bis)
