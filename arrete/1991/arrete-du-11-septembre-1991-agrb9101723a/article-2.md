@@ -8,4 +8,10 @@ Pour l'application des troisième et quatrième alinéas de l'article 14 du déc
 
 n'excède pas 80 p. 100.
 
-Dans le cas inverse, le prêt d'installation sollicité ne peut être octroyé avant que le rapport ainsi calculé ne soit revenu en dessous de 80 p. 100.
+Toutefois, lorsque les conditions énoncées aux alinéas ci-dessus du présent article ne sont pas satisfaites et qu'une demande de prêt à moyen terme spéciaux Jeunes agriculteurs est déposée :
+
+- au plus tard au terme de la sixième année suivant la date de l'installation ;
+
+- ou au-delà de cette période, dès lors que, sur la base d'une étude prévisionnelle complémentaire accompagnée de l'avis de l'établissement bancaire sollicité, le projet d'investissement conduit à un accroissement, en année pleine de production, de 33 p. 100 au moins du chiffre d'affaires de l'exploitation,
+
+la situation économique prévisionnelle de l'exploitation peut être prise en compte pour le calcul du rapport défini ci-dessus dont la valeur ne doit alors pas excéder 60 p. 100.
