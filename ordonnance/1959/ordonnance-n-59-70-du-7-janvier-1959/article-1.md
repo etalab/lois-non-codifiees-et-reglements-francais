@@ -1,0 +1,3 @@
+# Article 1
+
+Les ressortissants et anciens ressortissants des territoires et Etats sur lesquels la France, en son nom propre, en celui des autorités locales ou en vertu d'une convention internationale, a, soit accompli des actes de souveraineté, soit contrôlé l'exercice de la souveraineté locale, peuvent être admis à bénéficier de modalités particulières d'accès dans les cadres de la fonction publique ou des services publics français, dans les conditions fixées ci-après, sous réserve d'avoir occupé à titre permanent pendant un an au moins des emplois dans les administrations et services publics constitués dans les territoires et Etats visés ci-dessus, ou en relevant.
