@@ -6,10 +6,8 @@ Les représentants de l'admnistration sont nommés par le directeur du personnel
 
 Les représentants du personnel sont désignés par les organisations syndicales les plus représentatives du personnel non titulaire du ministère des affaires étrangères, soit :
 
-La confédération générale du travail Force ouvrière (F. O.) ;
+L'association professionnelle des fonctionnaires et agents du ministère des affaires étrangères (APFAMAE) ;
 
-La confédération française des travailleurs chrétiens (C. F. T. C.) ;
+La confédération française des travailleurs chrétiens (CFTC) ;
 
-La confédération générale du travail (C. G. T.).
-
-Chaque organisation désigne un représentant titulaire et un suppléant parmi le personnel non titulaire du ministère des affaires étrangères.
+La confédération générale du travail-Force ouvrière (FO).
