@@ -14,4 +14,5 @@
 - [Décret n°49-301 du 28 février 1949](decret-n49-301-du-28-fevrier-1949)
 - [Décret n°48-1968 du 30 décembre 1948](decret-n48-1968-du-30-decembre-1948)
 - [Décret n°48-2034 du 30 décembre 1948](decret-n48-2034-du-30-decembre-1948)
+- [Décret n°49-456 du 30 mars 1949](decret-n49-456-du-30-mars-1949)
 - [Décret n°48-2006 du 31 décembre 1948](decret-n48-2006-du-31-decembre-1948)
