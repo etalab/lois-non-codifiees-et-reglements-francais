@@ -52,6 +52,7 @@
 - [Décret n°72-876 du 25 septembre 1972](decret-n72-876-du-25-septembre-1972)
 - [Décret n°72-978 du 26 octobre 1972](decret-n72-978-du-26-octobre-1972)
 - [Décret n°72-1208 du 27 décembre 1972](decret-n72-1208-du-27-decembre-1972)
+- [Décret n°72-968 du 27 octobre 1972](decret-n72-968-du-27-octobre-1972)
 - [Décret n°72-971 du 27 octobre 1972](decret-n72-971-du-27-octobre-1972)
 - [Décret n°72-972 du 27 octobre 1972](decret-n72-972-du-27-octobre-1972)
 - [Décret n°72-977 du 27 octobre 1972](decret-n72-977-du-27-octobre-1972)
