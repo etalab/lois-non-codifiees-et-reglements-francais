@@ -1,6 +1,6 @@
 # Article 3
 
-Sont membres de droit de la commission des comptes des services    [*composition*] :
+Sont membres de droit de la commission des comptes des services :
 
 Le gouverneur de la Banque de France ;
 
@@ -12,15 +12,19 @@ Le directeur général de la concurrence, de la consommation et de la répressio
 
 Le directeur de la prévision ;
 
-Le directeur général des impôts ;
-
-Le directeur général de l'industrie ;
+Le directeur général des stratégies industrielles ;
 
 Le directeur des relations économiques extérieures ;
 
 Le délégué interministériel aux professions libérales ;
 
 Le directeur du tourisme ;
+
+Le vice-président de la commission des comptes des transports ;
+
+Le vice-président de la commission des comptes du commerce ;
+
+Le vice-président de la commission des comptes du tourisme ;
 
 Le directeur du commerce intérieur ;
 
