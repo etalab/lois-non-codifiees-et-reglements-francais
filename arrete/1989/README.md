@@ -79,6 +79,7 @@
 - [Arrêté du 10 janvier 1989 (PRME8961135A)](arrete-du-10-janvier-1989-prme8961135a)
 - [Arrêté du 10 janvier 1989 (TEFT8903024A)](arrete-du-10-janvier-1989-teft8903024a)
 - [Arrêté du 11 avril 1989 (INTF8900188A)](arrete-du-11-avril-1989-intf8900188a)
+- [Arrêté du 11 avril 1989 (SPSP8900819A)](arrete-du-11-avril-1989-spsp8900819a)
 - [Arrêté du 11 janvier 1989 (ECOC8800092A)](arrete-du-11-janvier-1989-ecoc8800092a)
 - [Arrêté du 11 janvier 1989 (ECOD8950002A)](arrete-du-11-janvier-1989-ecod8950002a)
 - [Arrêté du 11 janvier 1989 (JUSA8900001A)](arrete-du-11-janvier-1989-jusa8900001a)

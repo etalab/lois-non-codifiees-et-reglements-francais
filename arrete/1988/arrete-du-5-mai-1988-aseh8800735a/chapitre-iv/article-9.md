@@ -1,6 +1,6 @@
 # Article 9
 
-Le contenu des épreuves est défini comme suit :
+Sous réserve des dispositions du dernier alinéa de l'article 6, le contenu des épreuves est défini comme suit :
 
 1° Epreuve de Q.C.M. :
 
