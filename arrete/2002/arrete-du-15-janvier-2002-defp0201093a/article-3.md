@@ -22,8 +22,6 @@ a) Les autorités suivantes ou leurs représentants :
 
 - le directeur général de la gendarmerie nationale ;
 
-- le directeur de DCN ;
-
 - le directeur de la fonction militaire et du personnel civil ;
 
 - le directeur central du service de santé des armées ;
