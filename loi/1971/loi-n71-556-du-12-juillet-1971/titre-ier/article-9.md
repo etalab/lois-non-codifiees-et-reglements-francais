@@ -1,6 +1,6 @@
 # Article 9
 
-A peine de nullité, le contrat ne peut être signé qu'au terme d'un délai de six jours francs après sa réception.
+A peine de nullité, le contrat ne peut être signé qu'au terme d'un délai de sept jours après sa réception.
 
 Le contrat peut être résilié par l'élève, ou son représentant légal, si, par suite d'un cas fortuit ou d'une force majeure, il est empêché de suivre l'enseignement correspondant. Dans ce cas, la résiliation ne donne lieu à aucune indemnité.
 
