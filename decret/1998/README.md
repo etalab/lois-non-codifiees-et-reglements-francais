@@ -328,6 +328,8 @@
 - [Décret n°98-510 du 17 juin 1998 (INTD9800130D)](decret-n98-510-du-17-juin-1998-intd9800130d)
 - [Décret n°98-514 du 17 juin 1998 (ECOD9850001D)](decret-n98-514-du-17-juin-1998-ecod9850001d)
 - [Décret n°98-515 du 17 juin 1998 (ECOF9800006D)](decret-n98-515-du-17-juin-1998-ecof9800006d)
+- [Décret n°98-608 du 17 juillet 1998 (DEFD9801641D)](decret-n98-608-du-17-juillet-1998-defd9801641d)
+- [Décret n°98-609 du 17 juillet 1998 (DEFA9851018D)](decret-n98-609-du-17-juillet-1998-defa9851018d)
 - [Décret n°98-736 du 17 août 1998 (MCCB9800385D)](decret-n98-736-du-17-aout-1998-mccb9800385d)
 - [Décret du 18 mars 1998 (ECOC9700240D)](decret-du-18-mars-1998-ecoc9700240d)
 - [Décret n°80-1023 du 18 décembre 1980](decret-n80-1023-du-18-decembre-1980)
