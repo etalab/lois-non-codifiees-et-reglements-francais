@@ -250,6 +250,7 @@
 - [Décret n°86-489 du 14 mars 1986](decret-n86-489-du-14-mars-1986)
 - [Décret n°86-492 du 14 mars 1986](decret-n86-492-du-14-mars-1986)
 - [Décret n°86-493 du 14 mars 1986](decret-n86-493-du-14-mars-1986)
+- [Décret n°86-495 du 14 mars 1986](decret-n86-495-du-14-mars-1986)
 - [Décret n°86-504 du 14 mars 1986](decret-n86-504-du-14-mars-1986)
 - [Décret n°86-505 du 14 mars 1986](decret-n86-505-du-14-mars-1986)
 - [Décret n°86-509 du 14 mars 1986](decret-n86-509-du-14-mars-1986)
