@@ -1,0 +1,3 @@
+# Article 2
+
+Les pharmaciens résidents des établissements hospitaliers mentionnés à l'article 1er ci-dessus sont nommés par le ministre chargé de la santé publique qui prononce également les mesures individuelles relatives à la cessation de fonctions, au détachement, à l'avancement de grade et plus généralement toutes celles qui nécessitent la consultation de la commission paritaire. Le directeur général prononce les autres mesures individuelles, et notamment celles relatives à l'affectation des intéressés. En cas de faute grave, le directeur général peut suspendre immédiatement de ses fonctions l'auteur de la faute.
