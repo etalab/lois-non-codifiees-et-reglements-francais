@@ -51,7 +51,6 @@
 - [Arrêté du 2 octobre 1996 (AGRO9601096A)](arrete-du-2-octobre-1996-agro9601096a)
 - [Arrêté du 2 octobre 1996 (TASH9622894A)](arrete-du-2-octobre-1996-tash9622894a)
 - [Arrêté du 2 septembre 1996 (DEFT9601862A)](arrete-du-2-septembre-1996-deft9601862a)
-- [Arrêté du 2 septembre 1996 (ECOD9670021A)](arrete-du-2-septembre-1996-ecod9670021a)
 - [Arrêté du 2 septembre 1996 (ENVP9650304A)](arrete-du-2-septembre-1996-envp9650304a)
 - [Arrêté du 2 septembre 1996 (MIPP9600295A)](arrete-du-2-septembre-1996-mipp9600295a)
 - [Arrêté du 2 septembre 1996 (TASH9623320A)](arrete-du-2-septembre-1996-tash9623320a)
