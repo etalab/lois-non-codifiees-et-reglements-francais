@@ -49,6 +49,7 @@
 - [Décret n°69-270 du 24 mars 1969](decret-n69-270-du-24-mars-1969)
 - [Décret n°69-281 du 24 mars 1969](decret-n69-281-du-24-mars-1969)
 - [Décret n°69-381 du 24 avril 1969](decret-n69-381-du-24-avril-1969)
+- [Décret n°69-763 du 24 juillet 1969](decret-n69-763-du-24-juillet-1969)
 - [Décret n°69-456 du 24 mai 1969](decret-n69-456-du-24-mai-1969)
 - [Décret n°69-457 du 24 mai 1969](decret-n69-457-du-24-mai-1969)
 - [Décret n°69-505 du 24 mai 1969](decret-n69-505-du-24-mai-1969)
