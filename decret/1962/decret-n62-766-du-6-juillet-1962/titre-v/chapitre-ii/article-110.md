@@ -10,4 +10,4 @@ La condition d'âge est, pour les agents féminins, réduite d'une année pour c
 
 Les agents réformés de guerre relevant du code des pensions militaires d'invalidité bénéficient des mêmes avantages que ceux visés au code des pensions civiles (art. L. 98).
 
-Aucune condition d'âge ni de durée de service n'est exigée des agents reconnus dans l'incapacité totale et définitive d'assurer leurs fonctions dans les conditions prévues aux articles 96, 99 et 102 du statut du personnel.
+Aucune condition d'âge ni de durée de service n'est exigée des agents reconnus dans l'incapacité totale et définitive d'assurer leurs fonctions dans les conditions prévues aux articles 96, 99 et 102 du présent décret.

@@ -2,6 +2,4 @@
 
 Régime de retraites.
 
-Dispositions générales.
-
-Les agents du S.E.I.T.A. soumis au statut du personnel défini par le présent décret sont obligatoirement affiliés au régime de retraite prévu au présent chapitre.
+Les agents titulaires du S.E.I.T.A., en fonctions à la date de promulgation de la loi n° 80-495 du 2 juillet 1980 portant modification du statut du Service d'exploitation industrielle des tabacs et allumettes (S.E.I.T.A.), sont obligatoirement affiliés au régime de retraite défini par le présent décret.

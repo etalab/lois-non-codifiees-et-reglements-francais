@@ -4,9 +4,9 @@ Services valables pour la retraite.
 
 Les services pris en compte pour la constitution du droit à pension sont :
 
-Les services d'activité accomplis en qualité de stagiaire ou de titulaire au S.E.I.T.A. à partir de dix-huit ans.
+Les services d'activité accomplis en qualité de stagiaire ou de titulaire au S.E.I.T.A. ou aux sociétés qui s'y sont substituées à partir de dix-huit ans.
 
-Les services de temporaire, contractuel ou saisonnier accomplis au S.E.I.T.A. avant titularisation et régulièrement validés.
+Les services de temporaire, contractuel ou saisonnier accomplis au S.E.I.T.A. ou aux sociétés qui s'y sont substituées avant titularisation et régulièrement validés.
 
 Le service militaire obligatoire dans la limite du temps du service légal dû par la classe à laquelle appartient l'intéressé.
 
