@@ -1,0 +1,3 @@
+# Article 3
+
+L'arrêté du 26 septembre 1957 relatif aux procédures pour les organismes civils de la circulation aérienne et aux procédures de vol pour les aéronefs appartenant à la circulation aérienne générale, modifié par les arrêtés des 18 décembre 1957, 28 octobre 1958, 27 décembre 1960, 23 septembre 1964, 18 janvier 1968, 4 octobre 1968, 5 juin 1970, 14 juin 1978, 8 février 1979, 6 décembre 1979, 7 septembre 1984, 5 mars 1987 et 6 juin 1989, et l'article 1er de l'arrêté du 2 décembre 1958 portant application aux territoires visés à l'article 6 de la Constitution des dispositions de textes réglementaires concernant la circulation aérienne sont abrogés.

@@ -104,19 +104,29 @@ Demande d'inscription au registre international des marques : 400.
 
 5. Dessins et modèles.
 
-Dépôt : par dessin ou modèle faisant partie du dépôt :
+Dépôt :
 
-- du premier au vingtième : 67.
+- Pour la première reproduction graphique ou photographique :
 
-- du vingt et unième au centième : 16.
+250 ;
 
-Maintien : par dessin ou modèle : 170.
+- Par reproduction supplémentaire jusqu'à la centième : 150.
 
-Prorogation pour la seconde période de vingt-cinq ans, par dessin ou modèle : 170.
+Prorogation :
 
-Enregistrement et gardiennage d'une enveloppe spéciale ou renouvellement : 55.
+- Par reproduction : 170 ;
 
-6. Droits voisins de la propriété industrielle.
+- Renonciation à l'ajournement de la publication : 100 ;
+
+- Renonciation aux effets du dépôt : 145 ;
+
+- Régularisation, rectification, requête en relevé de déchéance :
+
+500 ;
+
+- Enregistrement et gardiennage d'enveloppe spéciale : 55.
+
+6. Droits annexes à la propriété industrielle.
 
 Topographie de produits semi-conducteurs :
 
@@ -128,11 +138,7 @@ Récompenses industrielles :
 
 - enregistrement d'un palmarès, d'une récompense, ou transcription d'une déclaration de cession ou de transmission : 100.
 
-7. Registres nationaux des brevets et des marques.
-
-Inscription d'une renonciation à un brevet : 145.
-
-Demande d'inscription au registre national : 145.
+7. Registres nationaux des brevets, marques, dessins et modèles.    Demande d'inscription : 145.
 
 8. Registre du commerce et des sociétés.
 
