@@ -1,5 +1,0 @@
-# Article 2
-
-Nonobstant toutes dispositions contraires des cahiers des charges, le ministre secrétaire d'Etat à la production industrielle et au travail peut, en accord avec le ministre secrétaire d'Etat à l'intérieur, les collectivités publiques et sociétés intéressées entendues, prescrire l'utilisation par les producteurs de gaz de tel combustible qu'il juge nécessaire, l'arrêt d'une usine productrice de gaz, le rattachement d'une distribution à une autre, et généralement toutes interconnexions reconnues nécessaires entre usines productrices, réseaux de distribution et réseaux de transport. Il peut, dans les mêmes conditions, prescrire la construction et l'exploitation de stations de compression de gaz destiné à la traction automobile.
-
-Les modifications à apporter aux cahiers des charges, consécutivement aux mesures prises en application du présent article, devront être soumises à l'approbation de l'autorité administrative dans les trois mois suivant la décision ministérielle, faute de quoi le ministre secrétaire d'Etat à la production industrielle et au travail statuera, en accord avec le ministre secrétaire d'Etat à l'intérieur.

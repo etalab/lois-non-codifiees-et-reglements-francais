@@ -1,5 +1,0 @@
-# Article 4
-
-Le bureau exécutif interprofessionnel est composé de six membres, dont trois seront choisis parmi les récoltants et trois parmi les négociants manipulants. Ces membres seront désignés par le ministre secrétaire d'Etat à l'agriculture, sur les propositions qui lui seront faites par les groupements de base tels qu'ils sont prévus à l'article 2.
-
-Le ministre désignera parmi les membres de ce bureau et sur leur proposition deux délégués généraux, l'un représentant les négociants, l'autre représentant les récoltants, chargés, chacun en ce qui le concerne ou conjointement suivant le cas, de l'exécution des décisions du bureau exécutif.
