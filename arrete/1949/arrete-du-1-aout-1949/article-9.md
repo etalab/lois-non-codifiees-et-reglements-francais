@@ -1,0 +1,3 @@
+# Article 9
+
+La commission est libre de procéder, par les moyens qui lui paraîtront les meilleurs, à l'instruction de l'affaire, soit en jugeant sur pièces, soit en examinant elle-même l'intéressé. Elle peut prescrire tout examen médical et toutes analyses, ainsi que toutes enquêtes qu'elle juge utiles. Ces examens et enquêtes sont faits au lieu désigné par la commission et le résultat doit lui en être communiqué dans le mois suivant la date de leur prescription. Le représentant de l'inspecteur divisionnaire du travail et de la main-d'oeuvre peut recueillir toutes informations sur l'orientation professionnelle à donner au requérant et sur ses possibilités de placement.
