@@ -2,7 +2,7 @@
 
 Pour concourir à l'objectif de cohérence de la politique spatiale, le Comité de l'espace a pour missions :
 
-a) De préparer les décisions du Gouvernement relatives à la politique spatiale ;
+a) D'analyser les plans pluriannuels spatiaux civils et militaires et de préparer les décisions du Gouvernement relatives à la politique spatiale.
 
 b) D'examiner l'influence des programmes spatiaux sur l'industrie française et européenne ;
 

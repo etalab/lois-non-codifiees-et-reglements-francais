@@ -1,6 +1,6 @@
 # Article 1
 
-Il est créé auprès du ministre chargé de l'espace, et sous sa présidence, un comité de l'espace qui comprend [*composition*] :
+Le comité de l'espace est placé auprès du ministre chargé de la recherche et du ministre de la défense et sous leur coprésidence. Il comprend [*composition*]-:
 
 - le secrétaire général du ministère des affaires étrangères ;
 
@@ -16,7 +16,7 @@ Il est créé auprès du ministre chargé de l'espace, et sous sa présidence, u
 
 - le chef d'état-major des armées ;
 
-- le délégué général à l'espace ;
+- le commissaire du Gouvernement auprès du Centre national d'études spatiales.
 
 - le président et le directeur général du Centre national d'études spatiales ;
 
