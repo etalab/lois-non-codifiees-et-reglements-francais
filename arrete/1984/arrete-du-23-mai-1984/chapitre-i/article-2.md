@@ -8,4 +8,4 @@ Seul est autorisé, sous réserve des prescriptions particulières qui leur sont
 
 3. Les collets munis d'un arrêtoir ;
 
-4. Les pièges à lacet conçus pour prendre les animaux par la patte.    5. Les pièces rustiques dits assommoirs.
+4. Les pièges à lacet conçus pour prendre les animaux par la patte.    5. Les pièces rustiques dits assommoirs.    " 6. Les pièges n'appartenant pas aux catégories précédentes et ayant pour effet d'entraîner la mort de l'animal par noyade. "

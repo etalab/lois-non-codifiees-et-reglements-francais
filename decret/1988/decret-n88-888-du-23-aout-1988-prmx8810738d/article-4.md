@@ -1,0 +1,3 @@
+# Article 4
+
+Le secrétaire d'Etat auprès du Premier ministre, chargé de l'action humanitaire, fait appel, en tant que de besoin, aux services compétents des départements ministériels, notamment du ministère de l'économie, des finances et du budget, du ministère de l'équipement et du logement, du ministère des affaires étrangères, du ministère de la défense, du ministère de l'intérieur, du ministère du travail, de l'emploi et de la formation professionnelle, du ministère de l'agriculture et de la forêt, du ministère de la coopération et du développement et du ministère de la solidarité, de la santé et de la protection sociale.

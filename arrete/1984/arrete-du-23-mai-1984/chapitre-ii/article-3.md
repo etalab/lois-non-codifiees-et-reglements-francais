@@ -1,6 +1,6 @@
 # Article 3
 
-L'emploi des pièges mentionnés aux 2, 3 et 4 de l'article 2 ci-dessus est subordonné à l'homologation d'un modèle présenté par le fabricant.
+" L'emploi des pièges mentionnés aux 2, 3, 4 et 6 de l'article 2 ci-dessus est subordonné à l'homologation d'un modèle présenté par le fabricant. "
 
 L'homologation est prononcée, par arrêté du ministre chargé de la chasse, après avis de la commission visée à l'article 5 ci-après et consultation du Conseil national de la chasse et de la faune sauvage.
 

@@ -295,6 +295,7 @@
 - [Arrêté du 17 mars 1988 (MCLB8800133A)](arrete-du-17-mars-1988-mclb8800133a)
 - [Arrêté du 17 mars 1988 (TRST8800173A)](arrete-du-17-mars-1988-trst8800173a)
 - [Arrêté du 17 mars 1988 (TRST8800174A)](arrete-du-17-mars-1988-trst8800174a)
+- [Arrêté du 18 août 1988 (MENU8801529A)](arrete-du-18-aout-1988-menu8801529a)
 - [Arrêté du 18 avril 1988 (AGRB8800727A)](arrete-du-18-avril-1988-agrb8800727a)
 - [Arrêté du 18 avril 1988 (ASEE8803350A)](arrete-du-18-avril-1988-asee8803350a)
 - [Arrêté du 18 avril 1988 (ASEE8803355A)](arrete-du-18-avril-1988-asee8803355a)
