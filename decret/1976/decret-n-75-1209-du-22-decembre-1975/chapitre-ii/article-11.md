@@ -1,0 +1,3 @@
+# Article 11
+
+Les capitaines admis par concours au cours supérieur de l'école des officiers de la gendarmerie nationale au titre du 3° de l'article 6 ci-dessus y effectuent un stage de la durée d'une année scolaire. Ceux qui ont subi avec succès la scolarité du cours supérieur de l'école prennent rang avec leur grade dans le corps des officiers de gendarmerie le premier jour du mois suivant leur sortie de l'école. Ils conservent, dans la limite de deux ans, leur ancienneté de grade. A égalité d'ancienneté de grade, les intéressés prennent rang dans l'ordre du classement de sortie et, s'il y a lieu, après les officiers promus à un autre titre.
