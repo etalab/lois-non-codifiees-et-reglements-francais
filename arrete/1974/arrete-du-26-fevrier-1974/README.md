@@ -1,9 +1,6 @@
-# Arrêté du 26 février 1974 portant création d'une zone de protection spéciale dans le département du Nord et extension de l'obligation de la tenue d'un livret de chaufferie
+# Arrêté du 26 février 1974 relatif à la construction et aux conditions de location des logements-foyers réalisés avec le bénéfice des primes convertibles en bonifications d'intérêt et de prêts spéciaux.
 
-- [Article 1](article-1.md)
 - [I - Caractéristiques techniques et prix des logements-foyers.](i)
-- [Article 2](article-2.md)
-- [II - Montants et caractéristiques des prêts à la construction de logements-foyers.](ii)
 - [Article 3](article-3.md)
 - [III. - Conditions de location et de gestion des logements-foyers.](iii)
 - [Article 4](article-4.md)
