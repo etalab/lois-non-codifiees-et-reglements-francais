@@ -5,7 +5,7 @@
 - [Titre III : Congé annuel, congé pour formation syndicale, pour formation de cadres et d'animateurs pour la jeunesse et pour formation professionnelle.](titre-iii)
 - [Titre IV : Congés pour raison de santé](titre-iv)
 - [Titre V : Congés non rémunérés pour raisons familiales ou personnelles](titre-v)
-- [Titre VI : Absences résultant d'une obligation légale.](titre-vi)
+- [Titre VI : Absences résultant d'une obligation légale et des activités dans la réserve opérationnelle.](titre-vi)
 - [Titre VII : Condition d'ouverture des droits à congé.](titre-vii)
 - [Titre VIII : Condition de réemploi](titre-viii)
 - [Titre IX : Travail à temps partiel](titre-ix)
