@@ -22,4 +22,6 @@ Le directeur de l'Institut d'archéologie d'Athènes ;
 
 Le directeur de l'Institut français d'archéologie du Proche-Orient ;
 
-Le directeur de l'Institut d'archéologie orientale du Caire.
+Le directeur de l'Institut d'archéologie orientale du Caire ;
+
+Le directeur de la Casa de Velasquez, Madrid.
