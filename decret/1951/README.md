@@ -6,7 +6,6 @@
 - [Décret n°51-508 du 4 mai 1951](decret-n51-508-du-4-mai-1951)
 - [Décret n°51-1265 du 5 novembre 1951](decret-n51-1265-du-5-novembre-1951)
 - [Décret n°51-1411 du 5 décembre 1951](decret-n51-1411-du-5-decembre-1951)
-- [Décret n°51-727 du 6 juin 1951](decret-n51-727-du-6-juin-1951)
 - [Décret n°51-1267 du 7 novembre 1951](decret-n51-1267-du-7-novembre-1951)
 - [Décret n°51-721 du 8 juin 1951](decret-n51-721-du-8-juin-1951)
 - [Décret n°51-725 du 8 juin 1951](decret-n51-725-du-8-juin-1951)

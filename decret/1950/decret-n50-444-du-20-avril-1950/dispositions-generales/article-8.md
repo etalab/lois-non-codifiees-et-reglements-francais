@@ -1,5 +1,0 @@
-# Article 8
-
-Le gain journalier de base retenu pour le calcul des indemnités journalières de maladie ou de maternité et du capital décès ne peut, en aucun cas, excéder le salaire servant de base au calcul de la fraction de cotisation due pour les risques maladie, maternité, invalidité et décès et calculée dans la limite du plafond prévu à l'article 1031 du code rural. Toutefois, lorsque l'assiette des cotisations fait l'objet d'un abattement par application des dispositions du décret n° 81-540 du 12 mai 1981, il est tenu compte du salaire brut perçu par l'assuré, sans abattement, dans la limite du plafond correspondant.
-
-Ledit gain journalier de base est déterminé suivant les modalités fixées à l'article R. 323-4 du code de la sécurité sociale.
