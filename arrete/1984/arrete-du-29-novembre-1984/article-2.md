@@ -1,0 +1,3 @@
+# Article 2
+
+L'utilisation des PCT est autorisée sous les conditions de l'article 3 de l'arrêté du 8 juillet 1975 comme matériaux d'usinage thermoplastiques réutilisables, ne contenant pas plus de 50 p. 100 de ces substances, destinés à assujettir, assembler et immobiliser les pièces en vue de faciliter leur usinage de précision et de leur façonnage dans la fabrication ou l'entretien des turbines à gaz pour aéronefs et navires, réacteurs nucléaires, dispositifs à semi-conducteurs, coques de navires et cellules d'aéronefs, longerons et nervures, lentilles de haute prévision et lentilles optiques, gabarits d'outils et épreuves pour machines de moulage par injection.

@@ -1,3 +1,3 @@
 # Article 1
 
-Sont approuvées telles qu'elles sont annexées au présent arrêté les modifications apportées au règlement du régime complémentaire obligatoire d'assurance vieillesse des travailleurs non-salariés des professions artisanales (art. 7, 10, 17, 19, 20).
+Par arrêté du ministre de l'économie, des finances et du budget en date du 30 novembre 1984, le règlement n° 84-12 du comité de la réglementation bancaire annexé au présent arrêté est homologué.
