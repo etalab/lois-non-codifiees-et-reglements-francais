@@ -2,21 +2,21 @@
 
 Sont soumis à l'avis de la commission et au visa du chef de la mission de contrôle économique et financier ou du contrôleur d'Etat les projets de conventions et de marchés d'un montant supérieur aux seuils ci-après :
 
-a) Etudes (y compris informatique), maîtrise d'oeuvre ou tout autre prestation intellectuelle : 160.000 euros ;
+a) Etudes (y compris informatique), maîtrise d'oeuvre ou tout autre prestation intellectuelle : 500.000 euros ;
 
-b) Prestations de services : 800.000 euros ;
+b) Prestations de services : 2.500.000 euros ;
 
-c) Fournitures courantes et industrielles : 1.600.000 euros ;
+c) Fournitures courantes et industrielles : 5.000.000 euros ;
 
-d) Travaux de bâtiment : 2.300.000 euros ;
+d) Travaux de bâtiment : 7.500.000 euros ;
 
-e) Maintenance et entretien des équipements : 800.000 euros ;
+e) Maintenance et entretien des équipements : 2.500.000 euros ;
 
-f) Marchés d'informatique : 800.000 euros ;
+f) Marchés d'informatique : 2.500.000 euros ;
 
-g) Transports postaux : 800.000 euros ;
+g) Transports postaux : 2.500.000 euros ;
 
-h) Tous les autres marchés pour un montant supérieur à 800.000 euros.
+h) Tous les autres marchés pour un montant supérieur à 2.500.000 euros.
 
 Tous ces seuils s'entendent hors taxes.
 
