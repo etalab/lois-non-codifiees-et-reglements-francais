@@ -1,14 +1,14 @@
 # Article 17
 
-I. - Pour l'admission aux sessions de formation des assistants, il est organisé chaque année deux concours ouverts respectivement :
+I. - Pour l'admission aux sessions de formation des assistants, il est organisé chaque année un concours externe et un concours interne, ouverts respectivement :
 
-Le premier aux candidats de nationalité française âgés de trente ans au plus au 1er janvier de l'année du concours et titulaires de l'un des diplômes exigés pour se présenter au premier concours d'entrée à l'Ecole nationale d'administration.
+Le premier, aux candidats âgés de quarante ans au plus au 1er janvier de l'année du concours, remplissant les conditions fixées par l'article 5 de la loi n° 83-634 du 13 juillet 1983 et titulaires, sauf dérogation prévue par les textes législatifs en vigueur, de l'un des diplômes exigés pour se présenter au concours externe d'entrée à l'Ecole nationale d'administration ;
 
-Le second, aux candidats âgés de trente-huit ans au plus au 1er janvier de l'année du concours et justifiant soit d'une durée de cinq années de services publics dans un emploi de fonctionnaire ou d'agent de l'Etat, des collectivités territoriales ou d'un établissement public, soit de trois ans au moins de services effectifs depuis leur titularisation, compte non tenu des périodes de stage ou de formation dans une école ou un établissement ouvrant accès à un corps de la fonction publique. Le temps passé au service national au-delà de la durée légale est assimilé aux services publics précités. L'ancienneté de services ainsi exigée est appréciée au 31 décembre de l'année du concours.
+Le second, aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics à caractère administratif. Les candidats doivent être âgés de quarante ans au plus au 1er janvier de l'année du concours et remplir les conditions fixées par l'article 5 de la loi n° 83-634 du 13 juillet 1983. Ils doivent en outre justifier soit de trois ans de services effectifs depuis leur titularisation, compte non tenu des périodes de stage ou de formation dans une école ou un établissement ouvrant l'accès à un corps de la fonction publique, soit de cinq années de services publics. Le temps passé au service national au-delà de la durée légale vaut temps de services publics. L'ancienneté de services exigée est appréciée au 31 décembre de l'année du concours.
 
 Nul ne peut concourir plus de trois fois pour l'accès aux sessions de formation des assistants.
 
-Les limites d'âge supérieures fixées au présent article sont reculées dans les conditions prévues à l'article 3 du décret modifié n° 68-132 du 9 février 1968.
+Les limites d'âge supérieures fixées ci-dessus sont reculées ou supprimées dans les conditions prévues par les textes législatifs ou réglementaires en vigueur.
 
 II. - 33 p. 100 au minimum et 40 p. 100 au maximum des places offertes sont attribuées aux candidats du deuxième concours.
 

@@ -1,7 +1,7 @@
 # Article 13
 
-Les listes d'aptitude prévues à l'article 9-I et II-2e ci-dessus sont arrêtées par le ministre chargé des affaires sociales et publiées au Journal officiel. Elles sont établies par ordre de mérite sur proposition de la commission de classement mentionnée à l'article 12.
+Les listes d'aptitude prévues aux articles 9-I, 9-II et 10-I (2°) ci-dessus sont arrêtées par le ministre chargé de la santé et publiées au Journal officiel. Elles sont établies par ordre de mérite.
 
-La liste prévue à l'article 9-II-2e peut comporter un nombre de candidats supérieur au minimum d'une unité et au maximum de 15 p. 100 du nombre des postes qui, dans la classe considérée, paraissent devoir être attribués aux agents intéressés au cours de l'année suivante. Cette liste cesse d'être valable à l'expiration de l'année au titre de laquelle elle a été établie.
+Sous réserve des dispositions de l'article 20 bis ci-après, les listes d'aptitude établies en application des articles 9-II et 10-I ci-dessus cessent d'être valables à l'expiration de l'année au titre de laquelle elles ont été établies.
 
-Les postes pour lesquels aucune candidature n'aura été présentée seront offerts aux agents inscrits, en commençant par les derniers de la liste. Le refus d'accepter trois postes offerts au cours d'une même année civile entraîne la radiation de la liste d'aptitude ou fait perdre le bénéfice de l'admission au concours.
+La liste d'aptitude prévue à l'article 9-II ci-dessus peut comporter un nombre d'agents supérieur de 15 p. 100 au plus au nombre des nominations pouvant être prononcées pour l'année au titre de cette liste.

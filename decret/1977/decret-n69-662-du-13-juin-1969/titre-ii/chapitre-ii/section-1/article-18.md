@@ -2,11 +2,11 @@
 
 I. - Avant de se présenter au deuxième concours, les agents des établissements énumérés à l'article L. 792 du code de la santé publique peuvent être admis à un cycle préparatoire organisé par l'Ecole nationale de la santé publique.
 
-Le concours d'accès au cycle préparatoire n'est ouvert ni aux candidats qui se sont présentés au premier concours, exception faite de ceux qui ont été nommés dans un emploi de 5e classe au titre de l'article 11 (1°) ci-dessus ni à ceux qui ont suivi l'un des cycles préparatoires, organisés à l'intention des fonctionnaires et agents candidats à certains concours, figurant sur la liste prévue à l'article 1er du décret n° 76-811 du 20 août 1976.
+Le concours d'accès au cycle préparatoire n'est pas ouvert aux candidats qui ont suivi l'un des cycles préparatoires organisés à l'intention des fonctionnaires et agents candidats à certains concours figurant sur la liste prévue à l'article 1er du décret n° 76-81 du 20 août 1976.
 
-Les candidats au concours d'accès au cycle préparatoire doivent réunir au 31 décembre de l'année ou prendra fin le cycle pour lequel ils postulent les conditions requises par l'article 17-I ci-dessus pour se présenter au deuxième concours. Ils doivent se trouver en fonctions à la date de clôture des inscriptions au concours d'accès au cycle préparatoire et le demeurer jusqu'à leur entrée éventuelle à ce cycle.
+Les candidats au concours d'accès au cycle préparatoire doivent réunir au 31 décembre de l'année où prendra fin le cycle pour lequel ils postulent les conditions requises par l'article 17-I ci-dessus pour se présenter au deuxième concours. Ils doivent se trouver en fonctions à la date de clôture des inscriptions au concours d'accès au cycle préparatoire et le demeurer jusqu'à leur entrée éventuelle à ce cycle.
 
-Nul ne peut se présenter plus de trois fois aux épreuves d'accès à cycle préparatoire.
+Nul ne peut se présenter plus de trois fois aux épreuves d'accès au cycle préparatoire.
 
 II. - Les épreuves du concours d'accès au cycle préparatoire ont lieu chaque année.
 
@@ -26,4 +26,4 @@ L'organisation du cycle préparatoire, les modalités du concours d'accès et de
 
 III. - Les agents titulaires relevant du livre IX du code de la santé publique admis au cycle préparatoire sont maintenus pendant la durée du cycle en position d'activité.
 
-Les dépenses relatives au paiement des traitements et éventuellement des indemnités servis aux bénéficiaires sont imputées sur le crédit consacre au financement des actions de formation en application du décret n° 75-489 du 16 juin 1975.
+Les dépenses relatives au paiement des traitements et éventuellement des indemnités servis aux bénéficiaires sont imputées sur le crédit consacré au financement des actions de formation en application du décret n° 75-489 du 16 juin 1975.
