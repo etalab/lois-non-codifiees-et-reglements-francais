@@ -1,9 +1,13 @@
 # Article 357-1
 
-Les sociétés commerciales établissent et publient chaque année à la diligence du conseil d'administration, du directoire, du ou des gérants, selon le cas, des comptes consolidés ainsi qu'un rapport sur la gestion du groupe, dès lors qu'elles contrôlent de manière exclusive ou conjointe une ou plusieurs autres entreprises ou qu'elles exercent une influence notable sur celles-ci, dans les conditions ci-après définies. Le contrôle exclusif par une société résulte :
+Les sociétés commerciales établissent et publient chaque année à la diligence du conseil d'administration, du directoire, du ou des gérants, selon le cas, des comptes consolidés ainsi qu'un rapport sur la gestion du groupe, dès lors qu'elles contrôlent de manière exclusive ou conjointe une ou plusieurs autres entreprises ou qu'elles exercent une influence notable sur celles-ci, dans les conditions ci-après définies.
+
+Le contrôle exclusif par une société résulte :
 
 - soit de la détention directe ou indirecte de la majoration des droits de vote dans une autre entreprise ;
 
 - soit de la désignation, pendant deux exercices successifs, de la majorité des membres des organes d'administration, de direction ou de surveillance d'une autre entreprise ; la société consolidante est présumée avoir effectué cette désignation lorsqu'elle a disposé au cours de cette période, directement ou indirectement, d'une fraction supérieure à quarante pour cent des droits de vote, et qu'aucun autre associé ou actionnaire ne détenait, directement ou indirectement, une fraction supérieure à la sienne ;
 
-- soit du droit d'exercer une influence dominante sur une entreprise en vertu d'un contrat ou de clauses statutaires, lorsque le droit applicable le permet et que la société dominante est actionnaire ou associée de cette entreprise. Le contrôle conjoint est le partage du contrôle d'une entreprise exploitée en commun par un nombre limité d'associés ou d'actionnaires, de sorte que les décisions résultent de leur accord. L'influence notable sur la gestion et la politique financière d'une entreprise est présumée lorsqu'une société dispose, directement ou indirectement, d'une fraction au moins égale au cinquième des droits de vote de cette entreprise.
+- soit du droit d'exercer une influence dominante sur une entreprise en vertu d'un contrat ou de clauses statutaires, lorsque le droit applicable le permet et que la société dominante est actionnaire ou associée de cette entreprise. Le contrôle conjoint est le partage du contrôle d'une entreprise exploitée en commun par un nombre limité d'associés ou d'actionnaires, de sorte que les décisions résultent de leur accord.
+
+L'influence notable sur la gestion et la politique financière d'une entreprise est présumée lorsqu'une société dispose, directement ou indirectement, d'une fraction au moins égale au cinquième des droits de vote de cette entreprise.
