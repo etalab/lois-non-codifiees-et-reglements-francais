@@ -691,6 +691,7 @@
 - [Décret n°2004-797 du 29 juillet 2004 (AGRF0401550D)](decret-n2004-797-du-29-juillet-2004-agrf0401550d)
 - [Décret n°2004-798 du 29 juillet 2004 (AGRF0401441D)](decret-n2004-798-du-29-juillet-2004-agrf0401441d)
 - [Décret n°2004-799 du 29 juillet 2004 (JUSB0410403D)](decret-n2004-799-du-29-juillet-2004-jusb0410403d)
+- [Décret n°2004-802 du 29 juillet 2004 (SANP0422530D)](decret-n2004-802-du-29-juillet-2004-sanp0422530d)
 - [Décret n°2004-99 du 29 janvier 2004 (SANP0325028D)](decret-n2004-99-du-29-janvier-2004-sanp0325028d)
 - [Décret n°2005-405 du 29 avril 2005 (INTE0500099D)](decret-n2005-405-du-29-avril-2005-inte0500099d)
 - [Décret n°2002-1626 du 30 décembre 2002 (SANS0224051D)](decret-n2002-1626-du-30-decembre-2002-sans0224051d)
