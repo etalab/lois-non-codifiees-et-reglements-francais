@@ -2,5 +2,7 @@
 
 - [Chapitre Ier : Recrutement.](chapitre-ier)
 - [Chapitre II : Scolarité.](chapitre-ii)
+- [Chapitre III : Discipline.](chapitre-iii)
+- [Chapitre IV : Obligations.](chapitre-iv)
 - [Chapitre V : Dispositions transitoires et finales.](chapitre-v)
 - [Article 26](article-26.md)
