@@ -10,4 +10,6 @@ L'institut est chargé :
 
 - de développer des activités de veille, d'étude et de recherche sur les questions relatives à la gestion publique et au développement économique ;
 
+- de développer la recherche historique et prospective sur les domaines relevant de la compétence du ministre ;
+
 - de concourir à l'action européenne et internationale du ministère dans le cadre de ses missions.
