@@ -2,4 +2,4 @@
 
 Dispositions transitoires :
 
-Les candidats déclarés reçus aux épreuves d'admissibilité de l'examen d'accès à la profession d'enseignant de la conduite automobile de la session de 1987 conservent le bénéfice de l'admissibilité pour la session de 1992. Ceux déclarés reçus aux épreuves d'admissibilité des sessions 1990 et 1991 bénéficient des dispositions prévues à l'article 3, alinéa 8, du présent arrêté, sur présentation de l'attestation visée à l'article 7.
+Les candidats inscrits dans les délais réglementaires à la mention "deux-roues" de la session de 1996, qui auront déposé une demande de candidature au permis de conduire de la catégorie A avant la date du 1er juillet 1996 et qui obtiendront ce permis avant la date du 7 octobre 1996, seront autorisés à se présenter aux épreuves de la mention "deux-roues" de la session de 1996.

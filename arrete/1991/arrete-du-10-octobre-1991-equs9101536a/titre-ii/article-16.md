@@ -1,3 +1,3 @@
 # Article 16
 
-Les dispositions du présent arrêté sont applicables à compter de la session de 1992 de l'examen du B.E.P.E.C.A.S.E.R.
+Sont applicables à compter de la session de 1996 de l'examen du B.E.P.E.C.A.S.E.R. toutes les dispositions relatives aux mentions "deux-roues" et "groupe lourd". Les autres dispositions du présent arrêté entreront en vigueur à la session de 1997.

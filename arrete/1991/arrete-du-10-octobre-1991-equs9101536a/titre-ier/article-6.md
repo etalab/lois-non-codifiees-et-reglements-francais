@@ -16,7 +16,7 @@ Le jury comporte neuf membres titulaires et neuf membres suppléants désignés 
 
 Sur ces huit membres enseignants de la conduite, deux titulaires et deux suppléants doivent être choisis parmi les enseignants salariés et deux au moins doivent être titulaires du brevet d'aptitude à la formation des moniteurs (B.A.F.M.), ces deux conditions n'étant pas exclusives.
 
-Le coordinateur pédagogique ou son suppléant nommé par arrêté du ministre chargé des transports siège de droit au jury.
+Le coordinateur pédagogique ou son suppléant nommé par arrêté du ministre chargé des transports siège de droit au jury. En l'absence d'un ou plusieurs de ses membres, le jury peut néanmoins délibérer valablement dans la mesure où la moitié au moins de ses membres sont présents.
 
 Le préfet désigne en outre, en tant que de besoin, des correcteurs et des examinateurs, conformément aux annexes II, IV et VI du présent arrêté.
 
