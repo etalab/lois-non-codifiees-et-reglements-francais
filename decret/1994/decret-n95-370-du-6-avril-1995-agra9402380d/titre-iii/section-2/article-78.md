@@ -9,3 +9,5 @@ Les stagiaires dont les services ont donné satisfaction sont titularisés. Les 
 Ceux qui n'ont pas obtenu l'autorisation de recommencer le stage et ceux qui n'ont pas été titularisés à l'issue de la seconde année de stage sont, après avis de la commission administrative paritaire compétente, soit réintégrés dans leur coprs, cadre d'emplois, emploi ou catégorie d'origine, s'ils avaient la qualité de fonctionnaire ou d'agent non titulaire, soit licenciés.
 
 La durée du stage ne peut être prise en compte dans l'ancienneté pour l'avancement qu'à concurrence d'une durée d'un an.
+
+Les stagiaires sont rémunérés, pendant la durée de leur stage, par référence à un échelon du grade de début du corps dans lequel ils ont été nommés comme stagiaire, déterminé en application des dispositions prévues par le présent décret pour le classement dans le corps correspondant.
