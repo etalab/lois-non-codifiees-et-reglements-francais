@@ -13,6 +13,7 @@
 - [Décret n°71-257 du 7 avril 1971](decret-n71-257-du-7-avril-1971)
 - [Décret n°71-262 du 7 avril 1971](decret-n71-262-du-7-avril-1971)
 - [Décret n°71-278 du 7 avril 1971](decret-n71-278-du-7-avril-1971)
+- [Décret n°71-418 du 7 juin 1971](decret-n71-418-du-7-juin-1971)
 - [Décret du 9 janvier 1852](decret-du-9-janvier-1852)
 - [Décret n°71-183 du 9 mars 1971](decret-n71-183-du-9-mars-1971)
 - [Décret n°71-188 du 9 mars 1971](decret-n71-188-du-9-mars-1971)
