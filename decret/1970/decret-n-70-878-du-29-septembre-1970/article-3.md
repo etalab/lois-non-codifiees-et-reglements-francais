@@ -4,25 +4,37 @@ Le comité de l'énergie atomique peut être saisi des problèmes généraux de 
 
 Ce comité comprend, sous la présidence du Premier ministre, ou d'un ministre ayant reçu à cet effet délégation de celui-ci ou, à défaut, sous la présidence l'administrateur général :
 
-L'administrateur général ;
+- douze membres de droit :
 
-Le secrétaire général du ministère des relations extérieures ;
+- l'administrateur général ;
 
-Le directeur général de l'énergie et des matières premières ;
+- le chef d'état-major des armées ;
 
-Le directeur général de la recherche et de la technologie ;
+- le secrétaire général du ministère des affaires étrangères ;
 
-Le directeur du budget ;
+- le délégué général pour l'armement ;
 
-Le président du centre national de la recherche scientifique ;
+- le secrétaire général pour l'administration du ministère de la défense ;
 
-Une personnalité choisie par le Premier ministre ;
+- le directeur général de l'énergie et des matières premières ;
 
-Trois personnalités choisies par le ministre chargé de la défense ;
+- le directeur général de l'industrie des technologies de l'information et des postes ;
 
-Une personnalité choisie par le ministre chargé de l'environnement ;
+- le directeur du budget ;
 
-Cinq personnalités qualifiées en raison de leur compétence dans le domaine scientifique et industriel, dont l'une exercera les fonctions de haut-commissaire, définie à l'article 5 ci-après.
+- le directeur général de la sûreté nucléaire et de la radioprotection ;
+
+- le directeur de la recherche ;
+
+- le directeur de la technologie ;
+
+- le président du conseil d'administration du centre national de la recherche scientifique ;
+
+- une personnalité choisie par le Premier ministre ;
+
+- une personnalité choisie par le ministre chargé de l'environnement ;
+
+- trois personnalités qualifiées dans le domaine scientifique et industriel, dont l'une exerce les fonctions de haut-commissaire définies à l'article 5 ci-après.
 
 Le haut commissaire ainsi que les autres membres du comité qui ne sont pas membres de droit sont nommés pour trois ans par décret en conseil des ministres.
 

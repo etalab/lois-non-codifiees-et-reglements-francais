@@ -5,3 +5,4 @@
 - [Chapitre III : Etiquetage.](chapitre-iii)
 - [Chapitre IV : Dispositions particulières.](chapitre-iv)
 - [Article 20](article-20.md)
+- [Annexes](annexes)

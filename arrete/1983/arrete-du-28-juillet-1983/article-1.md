@@ -2,15 +2,15 @@
 
 Le collège des professionnels du Conseil national de la consommation est composé de [*composition - nombre*] :
 
-a) Trois représentants du secteur de l'agriculture ;
+a)Quatre représentants du secteur de l'agriculture, dont un représentant de l'assemblée permanente des chambres d'agriculture ;
 
-b) Douze représentants du secteur de l'industrie, du commerce et des grandes entreprises de services soumises à la concurrence dont :
+b) Quatorze représentants du secteur de l'industrie, du commerce et des grandes entreprises de services soumises à la concurrence dont :
 
-Onze représentants des principales professions de l'industrie, du commerce et des services ouvrant les producteurs de biens de consommation, y compris industries agricoles et alimentaires, la distribution, le secteur des banques, le secteur de l'assurance, le secteur de la construction, les professions de la publicité, nommés pour neuf postes sur proposition du Conseil national du patronat français, et pour deux postes sur proposition de la confédération générale des petites et moyennes entreprises ;
+Treize représentants des principales professions de l'industrie, du commerce et des services couvrant les producteurs de biens de consommation, y compris industries agricoles et alimentaires, la distribution, le secteur des banques, le secteur de la construction, les professions de la publicité, nommés pour onze postes sur proposition du Mouvement des entreprises françaises, et pour deux postes sur proposition de la Confédération générale des petites et moyennes entreprises ;
 
-Un représentant de l'assemblée des chambres françaises de commerce et d'industrie.
+Un représentant de l'assemblée permanente des chambres de commerce et d'industrie.
 
-c) Deux représentants du secteur de l'artisanat dont :
+c)Deux représentants du secteur de l'artisanat dont :
 
 Un représentant du secteur de l'artisanat proposé par l'union professionnelle des artisans ;
 
