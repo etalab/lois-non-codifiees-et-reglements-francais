@@ -1,0 +1,3 @@
+# Article 8
+
+Les dispositions du présent décret ne sont pas applicables aux bandes de fréquences ou aux fréquences de radiodiffusion sonore ou de télévision dont l'attribution ou l'assignation est confiée au Conseil supérieur de l'audiovisuel en application de l'article 21 de la loi du 30 septembre 1986 susvisée, lorsque ces fréquences ou bandes de fréquences sont effectivement utilisées par des services de communication audiovisuelle. En outre, elles ne sont pas applicables aux bandes de fréquences ou aux fréquences dans lesquelles toute émission est interdite par le règlement des radiocommunications.

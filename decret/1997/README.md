@@ -352,6 +352,7 @@
 - [Décret n°97-66 du 22 janvier 1997 (MAEJ9730002D)](decret-n97-66-du-22-janvier-1997-maej9730002d)
 - [Décret n°97-67 du 22 janvier 1997 (MAEJ9730004D)](decret-n97-67-du-22-janvier-1997-maej9730004d)
 - [Décret n°97-508 du 22 mai 1997 (TASP9721435D)](decret-n97-508-du-22-mai-1997-tasp9721435d)
+- [Décret n°97-520 du 22 mai 1997 (MIPP9700077D)](decret-n97-520-du-22-mai-1997-mipp9700077d)
 - [Décret n°97-398 du 23 avril 1997 (ECOU9600003D)](decret-n97-398-du-23-avril-1997-ecou9600003d)
 - [Décret n°97-399 du 23 avril 1997 (ENVE9750015D)](decret-n97-399-du-23-avril-1997-enve9750015d)
 - [Décret n°97-402 du 23 avril 1997 (EQUU9700503D)](decret-n97-402-du-23-avril-1997-equu9700503d)
