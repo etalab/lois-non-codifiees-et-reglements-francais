@@ -430,7 +430,6 @@
 - [Arrêté du 17 janvier 1992 (SPSN9200225A)](arrete-du-17-janvier-1992-spsn9200225a)
 - [Arrêté du 17 janvier 1992 (SPSN9200226A)](arrete-du-17-janvier-1992-spsn9200226a)
 - [Arrêté du 17 janvier 1992 (SPSN9200227A)](arrete-du-17-janvier-1992-spsn9200227a)
-- [Arrêté du 17 janvier 1992 (SPSP9200193A)](arrete-du-17-janvier-1992-spsp9200193a)
 - [Arrêté du 17 janvier 1992 (SPSS9200194A)](arrete-du-17-janvier-1992-spss9200194a)
 - [Arrêté du 17 janvier 1992 (TEFT9204336A)](arrete-du-17-janvier-1992-teft9204336a)
 - [Arrêté du 17 juillet 1992 (MENH9203000A)](arrete-du-17-juillet-1992-menh9203000a)
@@ -844,4 +843,4 @@
 - [Arrêté du 31 mars 1992 (PTTR9200184A)](arrete-du-31-mars-1992-pttr9200184a)
 - [Arrêté du 31 mars 1992 (RESY9200039A)](arrete-du-31-mars-1992-resy9200039a)
 - [Arrêté du 31 mars 1992 (SANH9200864A)](arrete-du-31-mars-1992-sanh9200864a)
-- [Arrêté du 31 mars 1992 (SPSS9200875A)](arrete-du-31-mars-1992-spss9200875a)
+- [Arrêté du 31 mars 1992 (SPSs9200875A)](arrete-du-31-mars-1992-spss9200875a)
