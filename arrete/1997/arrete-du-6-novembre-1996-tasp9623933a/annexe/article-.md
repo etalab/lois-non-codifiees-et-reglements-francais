@@ -58,15 +58,17 @@ III. - Règles spécifiques
 
 1. Greffe simultanée de deux organes différents
 
-1.1. Un receveur inscrit sur la liste nationale d'attente en vue de la greffe simultanée de deux organes différents dont l'un est le coeur, le poumon ou le foie, est prioritaire à l'échelon interrégional.
+1.1. Un receveur inscrit sur la liste nationale d'attente en vue de la greffe simultanée d'organes différents dont l'un est le coeur, le poumon ou le foie est prioritaire à l'échelon interrégional.
 
 1.2. Pour les greffes du bloc coeur-poumons, voir au chapitre 2.
 
+1.3. En cas de proposition pour greffe simultanée de deux organes différents dont l'un est un rein et l'autre un coeur-poumons, un poumon, un coeur ou un foie, ce sont les règles de répartition et d'attribution de l'organe dont la durée d'ischémie est la plus courte qui s'appliquent : coeur-poumons, poumon, coeur ou foie.
+
+1.4. En cas de proposition pour greffe simultanée de deux organes différents dont l'un est un rein et l'autre un pancréas, ce sont les règles de répartition et d'attribution du pancréas décrites au point III-5 qui s'appliquent.
+
 2. Greffons cardiaques, pulmonaires et cardio-pulmonaires
 
-2.1. Une règle d'attribution prioritaire des greffons cardiaques, pulmonaires ou cardiopulmonaires à l'échelon interrégional, pour des malades dont la vie est menacée à très court terme, doit être approuvée par l'Etablissement français des greffes. Dans ce cas, pour les malades de groupe sanguin rare,
-
-une dérogation à la règle décrite au point II.10 est possible, selon des modalités définies par l'Etablissement français des greffes qui comportent le recours au collège d'experts.
+2.1. Une règle d'attribution prioritaire des greffons cardiaques, pulmonaires ou cardiopulmonaires à l'échelon interrégional, pour des malades dont la vie est menacée à très court terme, doit être approuvée par l'Etablissement français des greffes. Dans ce cas, pour les malades de groupe sanguin rare, une dérogation à la règle décrite au point II.10 est possible, selon des modalités définies par l'Etablissement français des greffes qui comportent le recours au collège d'experts.
 
 2.2 Une priorité à l'échelon interrégional pour certains malades en attente de greffe cardio-pulmonaire doit être approuvée par l'Etablissement français des greffes après recours au collège d'experts.
 
@@ -106,6 +108,12 @@ Ceux-ci sont proposés en fonction des priorités successives suivantes :
 
 4.6. En dehors de ces priorités, le greffon est proposé successivement à l'échelon local puis à l'échelon interrégional selon des modalités approuvées par l'Etablissement français des greffes. Les greffons non utilisés à l'échelon interrégional sont proposés à l'échelon national selon des modalités définies par l'Etablissement français des greffes et tenant compte de l'ancienneté d'inscription sur la liste d'attente et du degré de compatibilité HLA.
 
-5. Greffons pancréatiques ou intestinaux
+5. Greffons pancréatiques
 
-Le greffon pancréatique ou intestinal est proposé à l'échelon local, puis interrégional et enfin national selon les modalités définies par l'Etablissement français des greffes.
+5.1. Le greffon pancréatique est d'abord proposé à l'échelon local. Si le greffon est attribué à un receveur de greffe simultanée rein-pancréas, un rein du donneur est attribué simultanément à ce receveur.
+
+5.2. Si le greffon pancréatique ne trouve pas de receveur à l'échelon local, il est proposé aux autres équipes de l'interrégion selon des modalités définies par l'Etablissement français des greffes, d'abord aux receveurs candidats à une greffe simultanée rein-pancréas, puis aux receveurs de greffe pancréatique isolée, puis aux receveurs de greffe d'îlots de Langerhans. En l'absence d'acceptation du pancréas dans l'interrégion, il est proposé à l'échelon national selon des modalités définies par l'Etablissement français des greffes, d'abord aux receveurs candidats à une greffe simultanée rein-pancréas, puis aux receveurs de greffe pancréatique isolée, puis aux receveurs de greffe d'îlots de Langerhans. Pour les receveurs candidats à une greffe simultanée rein-pancréas, les modalités selon lesquelles le greffon rénal est attribué avec le greffon pancraétique sont définies par l'Etablissement français des greffes.
+
+6. Greffons intestinaux
+
+Le greffon intestinal est proposé à l'échelon local, puis interrégional et enfin national selon les modalités définies par l'Etablissement français des greffes.
