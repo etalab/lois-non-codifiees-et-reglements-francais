@@ -1,5 +1,11 @@
 # Article 3
 
-Les services accomplis dans un centre régional opérationnel de surveillance et de sauvetage sont assimilés à des embarquements au pont.
+Le candidat à la licence de capitaine pilote adresse au chef de quartier territorialement compétent un dossier comprenant :
 
-La validation de ces services demeure subordonnée à la justification d'une navigation effective d'au moins quatre mois à la marine marchande dans le service pont.
+- une demande sur papier libre portant l'avis favorable de l'armateur ;
+
+- une copie du brevet requis pour exercer les fonctions de capitaine sur le navire pour lequel la délivrance de la licence est sollicitée ;
+
+- un certificat médical d'aptitude physique délivré par un médecin des gens de mer depuis moins de trois mois ;
+
+- un état récapitulatif des touchées effectuées par le candidat en tant que capitaine pour un navire et pour un port donné, certifié par le commandant du port.

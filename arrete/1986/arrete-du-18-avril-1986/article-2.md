@@ -1,11 +1,15 @@
 # Article 2
 
-La navigation qui est exigée en qualité d'officier breveté doit être accomplie dans un grade au moins égal à celui d'aspirant.
+La commission locale est composée comme suit :
 
-La navigation qui est exigée en qualité d'élève doit être accomplie soit comme élève officier de réserve, soit dans le corps des équipages de la flotte, dans un grade au moins égal à celui de second maître.
+- le chef du quartier des affaires maritimes ou son représentant, président ;
 
-Les services accomplis dans le groupement Opérations ou un service équivalent sont assimilés à des embarquements au pont.
+- le directeur du port ou son représentant ;
 
-Les services accomplis dans le groupement Energie-propulsion ou un service équivalent sont assimilés à des embarquements à la machine.
+- un pilote en service dans la station, désigné par le chef du quartier des affaires maritimes sur proposition du président du syndicat des pilotes ;
 
-La navigation exigée pour la délivrance des titres visés aux articles 17, 23, 24 et 25 du décret n° 85-379 du 27 mars 1985 doit être accomplie dans les conditions prévues par ces articles.
+- dans les ports maritimes contigus aux ports militaires, le directeur du port militaire ou son représentant.
+
+Aucun des membres de la commission ne doit être parent ou allié des candidats, ils en font la déclaration avant l'ouverture des épreuves.
+
+Le commissaire de la République de département fixe les modalités de fonctionnement de la commission.

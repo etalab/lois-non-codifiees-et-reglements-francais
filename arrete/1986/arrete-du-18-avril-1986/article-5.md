@@ -1,3 +1,3 @@
 # Article 5
 
-Le chef du quartier chargé d'établir les relevés des durées de navigation précise dans ce document le temps effectué dans la marine nationale, qui sera pris en compte pour la délivrance de chaque titre.
+Le commissaire de la République de département prend toutes dispositions utiles pour vérifier au moins annuellement que les titulaires des licences de capitaine pilote réunissent toujours toutes les conditions exigées pour la délivrance de la licence.

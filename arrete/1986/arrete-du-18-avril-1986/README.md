@@ -1,4 +1,4 @@
-# Arrêté du 18 avril 1986 relatif aux conditions de délivrance des titres de formation professionnelle maritime.
+# Arrêté du 18 avril 1986 fixant les compétences et la composition de la commission locale et les modalités de délivrance des licences de capitaine pilote
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
