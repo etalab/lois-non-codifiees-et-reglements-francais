@@ -31,7 +31,6 @@
 - [Décret n°66-108 du 23 février 1966](decret-n66-108-du-23-fevrier-1966)
 - [Décret n°66-585 du 27 juillet 1966](decret-n66-585-du-27-juillet-1966)
 - [Décret n°66-594 du 27 juillet 1966](decret-n66-594-du-27-juillet-1966)
-- [Décret n°66-597 du 27 juillet 1966](decret-n66-597-du-27-juillet-1966)
 - [Décret n°66-807 du 28 octobre 1966](decret-n66-807-du-28-octobre-1966)
 - [Décret n°66-808 du 28 octobre 1966](decret-n66-808-du-28-octobre-1966)
 - [Décret n°66-809 du 28 octobre 1966](decret-n66-809-du-28-octobre-1966)
