@@ -490,8 +490,6 @@ Lors de la préparation de fractions aliquotes, l'étiquetage des tubes ou réci
 
 2.2.2. Cas particulier du groupage sanguin :
 
-Deux déterminations du groupe sanguin ABO-Rh(D) sur deux prélèvements effectués à des moments différents sont nécessaires pour valider une carte de groupe sanguin.
-
 La prescription comporte les informations figurant au paragraphe III-2.2.1. ainsi que les renseignements complémentaires chaque fois qu'ils sont utiles à la bonne exécution de l'analyse et à son interprétation : antécédents d'anticorps anti-érythrocytaires, de grossesse ou de transfusions, de réactions transfusionnelles.
 
 2.2.3. Transport et transmission des échantillons :
@@ -699,6 +697,426 @@ Le laboratoire doit rendre les résultats en indiquant :
 - les unités de mesure pour les analyses quantitatives ;
 
 - le cas échéant, les résultats antérieurs, notamment lors d'un suivi thérapeutique.
+
+C. - Cas particulier des bonnes pratiques de laboratoire en immuno-hématologie érythrocytaire
+
+En vue de mettre en oeuvre une sécurisation des analyses et des résultats en immuno-hématologie érythrocytaire quelle que soit la finalité des analyses prescrites, ainsi qu'une sécurisation de la transmission des résultats, il est fixé pour ces analyses :
+
+- les champs d'application ;
+
+- les règles de réalisation ;
+
+- le contrôle de qualité interne ;
+
+- les conditions d'automation et d'informatisation ;
+
+- la carte de groupes sanguins.
+
+I. - Champ d'application
+
+Les champs d'application concernant les analyses d'immuno-hématologie érythrocytaire suivantes :
+
+- le groupage ABO-RH1 (RhD) ;
+
+- le phénotypage RH-KEL 1 (Rh-K) ;
+
+- le phénotypage étendu ;
+
+- la recherche d'anticorps anti-érythrocytaires (RAI) ;
+
+- le titrage des anticorps anti-érythrocytaires autres que anti-A, anti-B et le dosage pondéral des anti-RH ;
+
+- l'épreuve directe de compatibilité au laboratoire ;
+
+- le test direct à l'antiglobuline,
+
+sont définis dans l'annexe D I.
+
+II. - Règles de réalisation des analyses
+
+Tous les réactifs nécessaires aux examens d'immuno-hématologie érythrocytaire doivent être conformes à la législation et à la réglementation relative aux conditions particulières de mise sur le marché en vigueur à la date de lancement.
+
+1. Le groupage ABO-RH1 (RhD)
+
+1.1. Définition de l'analyse
+
+Cette analyse consiste à déterminer de manière indissociable les phénotypes ABO et RH1 (RhD) du système RH.
+
+1.2. Modalités de mise en oeuvre
+
+1.2.1. Le principe
+
+Une réalisation du groupage sanguin ABO-RH1 :
+
+Une réalisation du groupage sanguin ABO repose sur deux épreuves complémentaires :
+
+- une épreuve globulaire qui consiste à rechercher les antigènes A (ABO1) et B (ABO2) avec les réactifs monoclonaux suivants : anti-A (anti-ABO1), anti-B (anti-ABO2) et anti-AB (anti-ABO3) ;
+
+- une épreuve plasmatique qui consiste à rechercher les anticorps anti-A et anti-B avec les hématies-tests A1 et B. Au moins une de ces hématies doit être de phénotype RH :-1.
+
+Une réalisation du groupage sanguin RH1 comporte obligatoirement l'utilisation d'un réactif anti-RH1 d'origine monoclonale et du réactif témoin dépourvu de toute activité anticorps mais dont la capacité d'agglutination d'hématies sensibilisées est strictement identique au réactif anti-RH1.
+
+Une détermination du groupage sanguin ABO-RH1 :
+
+Sa définition est fonction des conditions techniques :
+
+- si les opérations du groupage sanguin, incluant les modalités de vérification et d'enregistrement des échantillons et des prescriptions, sont strictement réalisées dans les conditions d'automation et d'informatisation décrites à l'article IV Automation et informatisation, une détermination repose sur une seule réalisation exécutée à l'aide d'un lot de réactifs, d'un lot d'hématies-tests et par un technicien ;
+
+- dans tous les autres cas, une détermination repose sur deux réalisations exécutées par deux techniciens différents. La saisie manuelle des résultats doit aussi passer par une double saisie effectuée par deux personnes différentes.
+
+Un groupage sanguin ABO-RH1 valide :
+
+Un groupage sanguin ABO-RH1 valide est réalisé sur deux prélèvements différents à raison d'une détermination par prélèvement.
+
+1.2.2. Les contrôles qualité internes
+
+En ce qui concerne la détermination ABO, le système analytique doit être contrôlé en utilisant une série d'échantillons de contrôle de phénotypes garantis (typage obtenu par un processus technique différent de celui qui doit être contrôlé par ces échantillons) comprenant au minimum :
+
+- un échantillon de groupe A ;
+
+- un échantillon de groupe B ;
+
+- un échantillon de groupe O.
+
+En ce qui concerne la détermination du groupe RH1, le système analytique doit être contrôlé en utilisant une série d'échantillons de contrôle de phénotypes garantis (typage obtenu par un processus technique différent de celui qui doit être contrôlé par ces échantillons) comprenant au minimum :
+
+- un échantillon de groupe RH : 1 ;
+
+- un échantillon de groupe RH : -1.
+
+1.2.3. Interprétation et validation des résultats,
+
+gestion des anomalies (Annexe D II)
+
+2. Le phénotypage RH-KEL 1 (Rh-K)
+
+2.1. Définition de l'analyse
+
+Cette analyse comprend l'étude des antigènes RH2 (C), RH3 (E), RH4 (c), RH5 (e) et KEL 1 (K).
+
+2.2. Modalités de mise en oeuvre
+
+2.2.1. Le principe
+
+Une réalisation du phénotypage RH-KEL 1 :
+
+Une réalisation du phénotypage RH-KEL 1 comporte obligatoirement l'utilisation des réactifs anti-RH2, anti-RH3, anti-RH4, anti-RH5, anti-KEL 1 et du (des) réactif(s) témoin(s) adéquat(s). Il est recommandé d'utiliser des réactifs d'origine monoclonale.
+
+Une détermination du phénotypage RH-KEL 1 :
+
+Sa définition est fonction des conditions techniques :
+
+- si les opérations du phénotypage RH-KEL 1, incluant les modalités de vérification et d'enregistrement des échantillons et des prescriptions, sont strictement réalisées dans les conditions d'automation et d'informatisation décrites à l'article IV Automation et informatisation, une détermination repose sur une seule réalisation exécutée à l'aide d'un lot de réactifs et par un technicien ;
+
+- dans tous les autres cas, une détermination repose sur deux réalisations exécutées par deux techniciens différents. La saisie manuelle des résultats doit aussi passer par une double saisie effectuée par deux personnes différentes.
+
+Un phénotypage RH-KEL 1 valide :
+
+Un phénotypage RH-KEL 1 valide est réalisé sur deux prélèvements différents à raison d'une détermination par prélèvement.
+
+2.2.2. Les contrôles qualité internes
+
+Le système analytique doit être contrôlé en utilisant une série d'échantillons de contrôle de phénotypes garantis (typage obtenu par un processus analytique différent de celui qui doit être contrôlé par ces échantillons) comprenant pour chaque spécificité les hématies suivantes :
+
+- anti-RH2 : un échantillon RH :2,4 et un échantillon RH :-2,4 ;
+
+- anti-RH3 : un échantillon RH :3,5 et un échantillon RH :-3,5 ;
+
+- anti-RH4 : un échantillon RH :2,4 et un échantillon RH :2,-4 ;
+
+- anti-RH5 : un échantillon RH :3,5 et un échantillon RH :3,-5 ;
+
+- anti-KEL 1 : un échantillon KEL :1 et un échantillon KEL :-1.
+
+2.2.3. Interprétation et validation des résultats,
+
+gestion des anomalies (Annexe D III)
+
+3. Le phénotypage étendu
+
+3.1. Définition de l'analyse
+
+Cette analyse consiste à rechercher un ou plusieurs antigènes érythrocytaires autres que ceux qui sont définis par le groupage ABO.RH1 et par le phénotypage RH-KEL 1.
+
+3.2. Modalités de mise en oeuvre
+
+3.2.1. Le principe
+
+Une réalisation du phénotypage étendu :
+
+pour un système donné la recherche de chaque antigène est basée sur l'utilisation du réactif spécifique et du témoin adéquat.
+
+Une détermination du phénotypage étendu :
+
+Sa définition est fonction des conditions techniques :
+
+- si les opérations du phénotypage étendu, incluant les modalités de vérification et d'enregistrement des échantillons et des prescriptions, sont strictement réalisées dans les conditions d'automation et d'informatisation décrites à l'article IV Automation et informatisation, une détermination repose sur une seule réalisation exécutée à l'aide d'un lot de réactifs et par un technicien ;
+
+- dans tous les autres cas, une détermination repose sur deux réalisations exécutées par deux techniciens différents. La saisie manuelle des résultats doit aussi passer par une double saisie effectuée par deux personnes différentes.
+
+Un phénotypage étendu valide :
+
+Un phénotypage étendu valide est réalisé sur deux prélèvements différents à raison d'une détermination par prélèvement.
+
+3.2.2. Les contrôles qualité internes
+
+Le système analytique doit être contrôlé en utilisant, pour chaque spécificité, deux échantillons de contrôle de phénotypes garantis (typage obtenu par un processus analytique différent de celui qui doit être contrôlé par ces échantillons). L'un de ces échantillons doit être négatif et l'autre d'expression  hétérozygote .
+
+3.2.3. Interprétation et validation des résultats,
+
+gestion des anomalies (Annexe D IV)
+
+4. La recherche d'anticorps anti-érythrocytaires (RAI)
+
+4.1. Définition de l'analyse
+
+A l'aide de gammes d'hématies-tests d'origine humaine, telles qu'elles sont définies en 4.2.1, on dépiste puis identifie, sur du sérum ou du plasma, les anticorps dirigés contre les antigènes érythrocytaires autres que A et B.
+
+4.2. Modalités de mise en oeuvre
+
+4.2.1. Le principe
+
+La recherche d'anticorps anti-érythrocytaires comporte deux étapes dont l'enchaînement est sous la responsabilité du biologiste :
+
+- une étape de dépistage au terme de laquelle le laboratoire pourra répondre  dépistage positif  ou  dépistage négatif  d'anticorps anti-érythrocytaires. En cas de dépistage positif, l'identification de l'anticorps est obligatoire.
+
+Cette étape repose sur l'utilisation d'une gamme d'au moins trois hématies-tests de groupe O qui doit permettre la détection des anticorps correspondants aux antigènes RH1 (D), RH2 (C), RH3 (E), RH4 (c), RH5 (e), KEL 1 (K), KEL 2 (Cellano), KEL 4 (Kpb), FY1 (Fya), FY2 (Fyb), JK1 (Jka), JK2 (Jkb), MNS1 (M), MNS2 (N), MNS3 (S), MNS4 (s), LE1(Lea), LE2 (Leb), P1, LU2 (Lub).
+
+Les phénotypes RH suivants doivent être obligatoirement représentés sur la gamme de dépistage :
+
+RH : 1,2,-3,-4,5 ;
+
+RH : 1,-2,3,4,-5 ;
+
+RH :-1,-2,-3,4,5.
+
+De plus, une expression phénotypique  homozygote  doit être respectée pour les antigènes FY1, JK1, JK2, MNS3 et recommandée pour les antigènes FY2 et MNS4.
+
+En aucun cas ces hématies ne feront l'objet de mélange.
+
+Une étape d'identification qui consiste à déterminer la spécificité du ou des anticorps présents, en confrontant la distribution des réactions positives et négatives obtenues avec la distribution des antigènes sur les gammes d'hématies-tests utilisées.
+
+Cette étape est réalisée sur un échantillon non décanté et non ouvert si possible, si elle est mise en oeuvre par un laboratoire différent de celui qui a réalisé le dépistage.
+
+Cette étape repose sur l'utilisation, outre la gamme de dépistage, d'au moins 10 hématies-tests. L'ensemble de ces hématies de groupe O doit comporter les antigènes suivants : RH1, RH2, RH3, RH4, RH5, RH6, RH8 (Cw), KEL 1, KEL 2, KEL 3 (Kpa), KEL 4, FY1, FY2, JK1, JK2, MNS1, MNS2, MNS3, MNS4, LE1, LE2, P1, LU1 (Lua), LU2.
+
+Les phénotypes suivants doivent être représentés au moins sur deux hématies : KEL 1, FY :1,-2, FY :-1,2, JK :1,-2, JK :-1,2, MNS :3,-4, MNS :-3,4, P :-1.
+
+Cette phase doit permettre l'identification d'un anticorps courant isolé ainsi qu'une orientation dans l'identification des mélanges d'anticorps.
+
+Les techniques :
+
+Pour les deux étapes, la méthodologie technique repose sur la mise en oeuvre d'un test indirect à l'antiglobuline polyspécifique ou anti-IgG permettant de détecter, sur colonne de filtration ou en immuno-adhérence, un anti-RH1 humain de concentration égale à 20 ng/ml ou d'autres techniques de sensibilité au moins égale.
+
+Lors de la phase d'identification, il peut être utile voire indispensable d'utiliser en complément les techniques dites enzymatiques notamment dans le cadre de difficulté d'identification (association d'alloanticorps) et lors des étapes de diagnostic biologique des accidents immunohémolytiques transfusionnels.
+
+4.2.2. Les contrôles qualité internes
+
+Le système analytique sera contrôlé en utilisant des échantillons de contrôle comportant des anticorps (natifs ou réactifs) de spécificité et de titre connus avec au minimum un anticorps de titre à 4 dans la technique d'utilisation et sur une hématie comportant l'antigène correspondant d'expression  hétérozygote .
+
+4.2.3. Interprétation et validation des résultats
+
+(Annexe D V)
+
+5. Le titrage des anticorps anti-érythrocytaires immuns autres que les anti-A et anti-B et le dosage pondéral des anti-RH
+
+5.1. Définition de l'analyse
+
+Le titrage consiste à tester le plasma ou le sérum des patientes et ses dilutions vis-à-vis d'hématies - tests possédant les antigènes spécifiques. La surveillance de l'évolution du taux des anticorps est basée obligatoirement sur le titrage par le test indirect à l'antiglobuline.
+
+Le dosage pondéral consiste à mesurer par méthode semi-quantitative et automatisée, la concentration en anticorps. Applicable aux seuls anti-RH, elle consiste en un dosage comparatif par rapport à l'étalon international anti-RH1 dont la concentration est connue. Le plasma ou le sérum des femmes enceintes immunisées et ses dilutions sont testés vis-à-vis d'hématies - tests possédant l'antigène spécifique correspondant.
+
+5.2. Modalités de mise en oeuvre
+
+5.2.1. Le principe
+
+Le titrage des anticorps consiste à tester le plasma ou le sérum ainsi que ses dilutions de raison géométrique 2 vis à vis d'hématies possédant l'antigène correspondant à l'anticorps identifié de façon extemporanée.
+
+La technique de référence est le test indirect à l'antiglobuline technique tube, en utilisant des hématies natives en solution saline 0,15M.
+
+La technique doit être standardisée, c'est à dire pratiquée :
+
+- avec des réactifs identiques : antiglobuline et mélange d'hématies - tests de même phénotype érythrocytaire ;
+
+- par rapport à un standard anti-RH1 de titre connu ;
+
+- avec reprise en parallèle de l'échantillon précédent conservé congelé à une température inférieure ou égale à - 30° C ;
+
+- en automatisant si possible la réalisation des dilutions à l'aide d'un diluteur. Par ailleurs, la dilution sera extemporanée et si possible portera sur un volume minimum de 100 µ l.
+
+Un mélange de trois variétés d'hématies natives doit être utilisé. Elles seront prélevées depuis moins de quatorze jours en solution de conservation et de phénotype suivant RH :1, 2, 3, 4, 5 pour les anti-RH1 purs ou associés à un anti-RH2 ou un anti-RH3, d'expression hétérozygote pour les antigènes correspondant aux autres anticorps à tester.
+
+5.2.2. Les contrôles qualité internes
+
+Ils comportent l'étude du standard anti-RH1 de concentration connue à différentes dilutions.
+
+5.2.3. Validation analytique
+
+(Annexe D VI)
+
+6. L'épreuve directe de compatibilité au laboratoire
+
+6.1. Définition de l'analyse
+
+C'est une analyse qui consiste à tester l'échantillon de sérum ou de plasma du receveur vis-à-vis des hématies de la tubulure du produit sanguin à transfuser.
+
+6.2. Modalités de mise en oeuvre
+
+6.2.1. Le principe
+
+L'épreuve directe de compatibilité au laboratoire se déroule en trois étapes :
+
+1° Sélection des unités à compatibiliser conformément aux bonnes pratiques de distribution. Cette sélection prend en compte :
+
+Le statut immuno-hématologique du receveur dont la définition minimale préalable repose obligatoirement, en absence d'antériorité valide, sur :
+
+- le groupage ABO.RH1 ;
+
+- le phénotypage RH-KEL 1 ;
+
+- le phénotypage autre que RH-KEL 1 d'un ou plusieurs antigènes immunogènes si une antigèno ou séro compatibilité les concernant doit être respectée ;
+
+- le dépistage d'anticorps anti-érythrocytaires dont le délai par rapport à la date effective de la transfusion est conforme aux dispositions réglementaires ;
+
+- l'identification d'anticorps anti-érythrocytaires en cas de dépistage positif.
+
+La mention d'un protocole transfusionnel éventuel spécifique à la situation clinique considérée.
+
+2° Préparation des hématies de la tubulure.
+
+Cette étape a pour but de conditionner les hématies de la tubulure afin qu'elles puissent être testées dans les mêmes conditions techniques que la RAI.
+
+Au cours de cette étape, il convient d'être particulièrement attentif aux modalités d'identification de la tubulure et des échantillons secondaires à partir du numéro codé en barres de l'unité de produit sanguin.
+
+3° Exécution technique.
+
+Les conditions techniques sont identiques à celles utilisées par la RAI.
+
+6.2.2. Les contrôles qualité internes
+
+Le système analytique doit être contrôlé en utilisant des échantillons de contrôle identiques à ceux utilisés pour la RAI.
+
+6.2.3. Interprétation et validation des résultats
+
+(Annexe D VII)
+
+7. Le test direct à l'antiglobuline
+
+7.1. Définition de l'analyse
+
+Le test direct à l'antiglobuline permet la mise en évidence de la sensibilisation in vivo des hématies humaines par des anticorps de nature IgG et/ou des fractions du complément. Ce test doit être réalisé sur un échantillon de préférence anticoagulé.
+
+7.2. Modalités de mise en oeuvre
+
+7.2.1. Le principe
+
+La mise en évidence de la sensibilisation in vivo des hématies repose sur l'utilisation d'antiglobuline(s) humaine(s) dont la portion Fab reconnaît les marqueurs isotypiques d'immunoglobulines ou des fractions du complément spécifiquement fixées sur l'hématie.
+
+La réalisation de cette analyse impose d'utiliser de façon simultanée et indépendante une antiglobuline anti-IgG et un anti-C3d ainsi que des réactifs témoins appropriés.
+
+7.2.2. Les contrôles qualité internes
+
+Le système analytique sera contrôlé en utilisant des hématies préalablement sensibilisées in vitro par des IgG et éventuellement du complément.
+
+7.2.3. Interprétation et validation des résultats
+
+(Annexe D VIII)
+
+III. - Contrôle de qualité interne (CQI)
+
+Le biologiste devra organiser un contrôle de qualité interne conformément au guide de bonne exécution des analyses de biologie médicale (GBEA) et qui repose notamment sur l'analyse d'échantillons de contrôle effectuée dans les mêmes conditions que celles appliquées aux échantillons biologiques. Les résultats relatifs à ces échantillons de contrôle doivent être connus et garantis. La mise en oeuvre de ces contrôles est, au minimum, quotidienne.
+
+IV. - Automation. - Informatisation
+
+1. Automation et exécution analytique
+
+Les caractéristiques, les modalités de mise en place et le fonctionnement des matériels automatiques et informatiques seront conformes aux règles générales d'exécution des analyses de biologie médicale prévues par le GBEA en vigueur.
+
+1.1. Objectifs de l'automation et de l'informatisation
+
+au laboratoire d'immuno-hématologie (Annexe D IX)
+
+1.2. Définition des caractéristiques minimales d'un système permettant de dire que le processus d'analyse immuno-hématologique est automatique
+
+Quel que soit le degré d'automatisation du processus analytique, sa qualité est directement liée à la phase préanalytique qui comporte des opérations manuelles critiques dont l'erreur peut remettre en cause la fiabilité du résultat :
+
+- acceptation des échantillons et des documents accompagnateurs (prescription - fiche de suivi médical),
+
+- saisie de l'état civil,
+
+- établissement du lien entre patient - support d'identification positive - échantillon.
+
+Ces opérations doivent faire l'objet de procédures écrites et détaillées permettant d'éviter toute erreur de saisie ou d'identification. Il est nécessaire de mettre en oeuvre des opérations spécifiques permettant une vérification de la saisie et du lien entre le patient et son échantillon.
+
+A ce titre, la saisie informatique de l'état civil à partir de la prescription doit être suivie d'un contrôle basé sur une deuxième saisie réalisée à partir des informations inscrites sur l'échantillon et après une identification positive de celui-ci.
+
+La qualification  d'automatique  pour un système donné impose que celui-ci puisse prendre en charge certaines phases de l'exécution analytique apparaissant comme critiques pour la fiabilité des résultats et puisse associer de façon automatique et univoque le patient aux résultats correspondants via le support d'identification positive de l'échantillon. Cette conception peut donc s'appliquer aussi bien aux automates qu'aux semi-automates tels qu'ils sont définis en biologie médicale et qui fonctionnent dans un système informatique donné.
+
+L'attribution de cette qualification repose donc sur la prise en charge, par le système (ensemble de l'automate et de l'environnement informatisé du laboratoire) concerné, des opérations mentionnées en annexe D X.
+
+2. Sécurisation du transfert des résultats du laboratoire
+
+sur le centre de distribution
+
+(Annexe D XI)
+
+V. - Carte de groupes sanguins
+
+La carte de groupes sanguins est un document de synthèse de données biologiques permettant d'assurer la sécurité transfusionnelle immunologique du patient.
+
+La carte de groupes sanguins est éditée par un système informatique validé. Toute retranscription manuelle ou utilisation d'étiquettes de groupe autocollantes est interdite. Les deux déterminations portées sur la carte seront effectuées par le même laboratoire.
+
+L'ensemble des mentions nécessaires à la sécurité transfusionnelle immunologique doit apparaître sur une seule face de la carte.
+
+1. Mentions apparaissant
+
+sur la carte de groupes sanguins
+
+1.1. Identification du laboratoire qui a édité la carte
+
+de groupes sanguins
+
+Nom du laboratoire.
+
+Adresse.
+
+Téléphone.
+
+Signature du biologiste.
+
+1.2. Identification du patient
+
+Nom de naissance complété s'il y a lieu du nom marital.
+
+Prénom(s) et en cas de prénom composé, transcription du prénom complet en toutes lettres.
+
+Sexe.
+
+Date de naissance.
+
+En cas de changement de nom marital, la carte reste valide si les autres identifiants sont corrects.
+
+1.3. Groupes sanguins et phénotypes érythrocytaires
+
+Le résultat de chaque détermination est suivi de la date de sa réalisation.
+
+Une mention rappelle que les groupes sanguins et les phénotypes ne sont valides qu'après deux déterminations. Cette mention peut être portée au dos de la carte.
+
+Il est recommandé d'utiliser la nomenclature alphanumérique internationale.
+
+1.4. Recherche d'anticorps anti-érythrocytaires
+
+La présence d'un ou plusieurs anticorps anti-érythrocytaires est mentionnée sur la carte suivie de la date de découverte de l'anticorps. Il n'est pas fait mention des caractéristiques (liste des antigènes) des gammes d'hématies-tests qui ont été utilisées, ainsi que leur provenance.
+
+Une recherche d'anticorps anti-érythrocytaire négative ne fait l'objet d'aucune mention sur la carte de groupes sanguins.
+
+Il est recommandé d'utiliser la nomenclature alphanumérique internationale.
+
+2. Cas particulier du nouveau-né
+
+La détermination des groupes sanguins chez un nouveau-né ou un nourrisson nécessite un prélèvement de sang veineux. Elle ne peut pas être réalisée à partir d'un prélèvement de sang effectué au cordon.
+
+Le document de groupes sanguins n'est valide que jusqu'à l'âge de six mois. Il doit mentionner :  groupe sanguin de nouveau-né - valide jusqu'au - date de naissance + 6 mois- .
 
 V. - L'assurance de qualité
 
