@@ -8,7 +8,7 @@ Le fait qu'il n'a pas formulé de réserves à la livraison ne lui interdit pas 
 
 La signature du destinataire ou de son représentant est la preuve de la remise et de l'acceptation de l'envoi ; elle est accompagnée du nom du signataire, de la date et de l'heure de la livraison ainsi que du cachet commercial de l'établissement.
 
-8.2. Lorsque le destinataire demande que l'envoi soit livré au lieu indiqué sur le document de transport, hors sa présence et celle de toute personne habilitée à le représenter, hors des heures d'ouverture de son établissement ou pendant un jour non ouvrable, un écrit est établi avec le transporteur préalablement à l'exclusion de l'opération. Le transporteur agit sous la responsabilité du destinataire et exécute la livraison dans les conditions convenues, et notamment pendant les heures de fermeture de l'établissement de ce dernier.
+8.2. Lorsque le destinataire demande que l'envoi soit livré au lieu indiqué sur le document de transport, hors sa présence et celle de toute personne habilitée à le représenter, hors des heures d'ouverture de son établissement ou pendant un jour non ouvrable, un écrit est établi avec le transporteur préalablement à l'exécution de l'opération. Le transporteur agit sous la responsabilité du destinataire et exécute la livraison dans les conditions convenues, et notamment pendant les heures de fermeture de l'établissement de ce dernier.
 
 La livraison est réputée intervenue lorsque les marchandises sont déposées au lieu désigné et que le transporteur appose sa signature sur le document de transport dont un exemplaire est laissé sur place. Y figurent le nom du transporteur, la date et l'heure précise du dépôt, ainsi que d'éventuelles observations quant aux conditions de la remise.
 

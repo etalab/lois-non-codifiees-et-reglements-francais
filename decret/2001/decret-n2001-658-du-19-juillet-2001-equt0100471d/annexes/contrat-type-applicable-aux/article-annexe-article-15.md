@@ -2,7 +2,7 @@
 
 Modalités de livraison
 
-Il y a empêchement à la livraison chaque fois que l'envoi parvenu au lieu de livraison prévu ne peut être remis au destinataire désigné ou qu'il est laissé pour compte. Est également considérée comme empêchement à la livraison toute immobilisation du véhicule chez le destinataire supérieure à quatre heures décomposées à partir de la mise à disposition.
+Il y a empêchement à la livraison chaque fois que l'envoi parvenu au lieu de livraison prévu ne peut être remis au destinataire désigné ou qu'il est laissé pour compte. Est également considérée comme empêchement à la livraison toute immobilisation du véhicule chez le destinataire supérieure à quatre heures décomptées à partir de la mise à disposition.
 
 Un avis de passage mentionne le lieu où l'envoi peut être retiré dans un délai de trois jours ouvrables, au sens de l'article 2-4, et la possibilité d'une nouvelle présentation à domicile facturée séparément, conformément aux dispositions de l'article 16 ci-après.
 

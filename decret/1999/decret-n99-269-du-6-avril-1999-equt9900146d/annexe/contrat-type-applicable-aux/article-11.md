@@ -18,7 +18,7 @@ Les durées totales de mise à disposition du véhicule sont au maximum :
 
 2. Pour les autres envois : de trente minutes.
 
-En cas de dépassement des durées ainsi fixées, le transporteur perçoit du donneur d'ordre ou du destinataire, selon le cas, un complément de rémunération pour frais d'immobilisation du véhicule et/ou de l'équipage, facturé séparément, conformément aux dispositions de l'article 17 ci-après.
+En cas de dépassement non imputable au transporteur des durées ainsi fixées, le transporteur perçoit du donneur d'ordre ou du destinataire, selon le cas, un complément de rémunération pour frais d'immobilisation du véhicule et/ ou de l'équipage, facturé séparément, conformément aux dispositions de l'article 17 ci-après.
 
 11.2. Pour les envois égaux ou supérieurs à trois tonnes :
 
@@ -44,6 +44,6 @@ Lorsqu'il y a rendez-vous, un retard de trente minutes est admis par rapport à 
 
 En cas de rendez-vous manqué, ce sont les durées prévues pour les autres cas c) qui sont applicables, majorées de quinze minutes.
 
-Les durées telles qu'elles sont définies au 1 et au 2 ci-dessus sont suspendues jusqu'à l'heure du rendez-vous ou jusqu'à l'heure du début de la plage horaire convenues par les parties. En l'absence de rendez-vous ou de plage horaire, si ces durées ne sont pas écoulées à 18 heures ou à l'heure de fermeture de l'établissement, elles sont suspendues jusqu'à 8 heures ou jusqu'à l'heure d'ouverture de l'établissement du premier jour ouvrable qui suit.
+Les durées telles qu'elles sont définies au 1 et au 2 ci-dessus sont suspendues jusqu'à l'heure du rendez-vous ou jusqu'à l'heure du début de la plage horaire convenues par les parties. En l'absence de rendez-vous ou de plage horaire, si ces durées ne sont pas écoulées à 18 heures ou à l'heure de fermeture de l'établissement, elles sont suspendues jusqu'à 8 heures ou jusqu'à l'heure d'ouverture de l'établissement du premier jour ouvrable qui suit, sauf si ce délai est incompatible avec la bonne conservation de la marchandise.
 
-En cas de dépassement des durées ainsi fixées, le transporteur perçoit du donneur d'ordre ou du destinataire, selon le cas, un complément de rémunération pour frais d'immobilisation du véhicule et/ou de l'équipage facturé séparément, conformément aux dispositions de l'article 17 ci-après.
+En cas de dépassement non imputable au transporteur des durées ainsi fixées, le transporteur perçoit du donneur d'ordre ou du destinataire, selon le cas, un complément de rémunération pour frais d'immobilisation du véhicule et/ ou de l'équipage facturé séparément, conformément aux dispositions de l'article 17 ci-après.

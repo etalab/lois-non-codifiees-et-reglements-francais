@@ -12,7 +12,9 @@ Lorsqu'il y a livraison à domicile, un avis de passage daté qui atteste la pr�
 
 - d'inaccessibilité du lieu de livraison ;
 
-- d'immobilisation du véhicule chez le destinataire supérieure aux durées définies à l'article 11 ci-dessus.
+- d'immobilisation du véhicule chez le destinataire supérieure aux durées définies à l'article 11 ci-dessus;
+
+- de refus de prendre livraison par le destinataire.
 
 L'avis de passage mentionne le lieu où l'envoi peut être retiré dans un délai de trois jours ouvrables, au sens de l'article 2-4, et la possibilité d'une nouvelle présentation à domicile facturée séparément, conformément aux dispositions de l'article 17 ci-après.
 
