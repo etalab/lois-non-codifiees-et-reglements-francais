@@ -120,7 +120,6 @@
 - [Arrêté du 4 mars 1996 (BUDF9500016A)](arrete-du-4-mars-1996-budf9500016a)
 - [Arrêté du 4 mars 1996 (BUDF9500017A)](arrete-du-4-mars-1996-budf9500017a)
 - [Arrêté du 4 mars 1996 (ECOP9500615A)](arrete-du-4-mars-1996-ecop9500615a)
-- [Arrêté du 4 mars 1996 (ENVE9650062A)](arrete-du-4-mars-1996-enve9650062a)
 - [Arrêté du 4 mars 1996 (INDA9600170A)](arrete-du-4-mars-1996-inda9600170a)
 - [Arrêté du 4 mars 1996 (INDA9600171A)](arrete-du-4-mars-1996-inda9600171a)
 - [Arrêté du 4 mars 1996 (INDB9600003A)](arrete-du-4-mars-1996-indb9600003a)
