@@ -2,7 +2,7 @@
 
 Par arrêté du ministre d'Etat, ministre des affaires sociales, de la santé et de la ville, en date du 17 novembre 1994, le concours sur titres permettant l'accès au corps des personnels de direction des établissements mentionnés à l'article 2 (4°, 5° et 6°) du titre IV du statut général des fonctionnaires de l'Etat et des collectivités territoriales est ouvert le 22 février 1995 suivant les modalités fixées par l'arrêté du 16 novembre 1994.
 
-Le nombre des postes ouverts au titre de l'année 1995 est fixé à quarante. Le concours aura lieu au ministère des affaires sociales, de la santé et de la ville (direction de l'action sociale).
+Le nombre des postes ouverts au titre de l'année 1995 est fixé à soixante. Le concours aura lieu au ministère des affaires sociales, de la santé et de la ville (direction de l'action sociale).
 
 Conditions d'admission à concourir :
 

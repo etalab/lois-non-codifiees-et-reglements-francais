@@ -128,4 +128,5 @@
 - [Décret n°95-106 du 31 janvier 1995 (INDD9401321D)](decret-n95-106-du-31-janvier-1995-indd9401321d)
 - [Décret n°95-107 du 31 janvier 1995 (INDP9401434D)](decret-n95-107-du-31-janvier-1995-indp9401434d)
 - [Décret n°95-109 du 31 janvier 1995 (EQUA9401922D)](decret-n95-109-du-31-janvier-1995-equa9401922d)
+- [Décret n°95-121 du 31 janvier 1995 (SPSH9404003D)](decret-n95-121-du-31-janvier-1995-spsh9404003d)
 - [Décret n°95-98 du 31 janvier 1995 (SPSS9500026D)](decret-n95-98-du-31-janvier-1995-spss9500026d)
