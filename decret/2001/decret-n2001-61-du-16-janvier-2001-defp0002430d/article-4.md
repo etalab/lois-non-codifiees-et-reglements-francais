@@ -1,0 +1,7 @@
+# Article 4
+
+Par dérogation aux dispositions du chapitre II du même décret dans sa rédaction issue du présent décret, les officiers de gendarmerie peuvent être recrutés au grade de sous-lieutenant :
+
+1° Jusqu'à l'année 2005 incluse, parmi les élèves officiers de carrière de l'Ecole navale et de l'Ecole de l'air figurant sur la liste de sortie de l'une de ces écoles qui choisissent, dans l'ordre de classement et dans la limite des places offertes, le corps des officiers de gendarmerie. Ils sont nommés au grade de sous-lieutenant le 1er août de l'année de sortie de leur école. Ils prennent rang sur la liste d'ancienneté de leur grade selon leur classement de sortie et, à égalité d'ancienneté, immédiatement avant les sous-lieutenants issus de l'année de cours de formation initiale de l'Ecole des officiers de la gendarmerie nationale ;
+
+2° Jusqu'à l'année 2002 incluse, parmi les élèves officiers de l'Ecole militaire de l'air et de l'Ecole militaire de la flotte figurant sur la liste de sortie de l'une de ces écoles qui choisissent, dans l'ordre de classement et dans la limite des places offertes, le corps des officiers de gendarmerie. Ils sont nommés au grade de sous-lieutenant le 1er août de l'année de sortie de leur école. Ils prennent rang sur la liste d'ancienneté de leur grade selon leur classement de sortie et, à égalité d'ancienneté, immédiatement après les sous-lieutenants issus de l'année de cours de formation initiale de l'Ecole des officiers de la gendarmerie nationale.

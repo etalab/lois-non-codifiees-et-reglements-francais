@@ -6,4 +6,4 @@ Ils exercent en outre les attributions et assument les responsabilités que les 
 
 Ils participent à la constitution, à l'encadrement et au fonctionnement de l'ensemble des formations et organismes de la gendarmerie.
 
-Ils peuvent être appelés à faire partie des formations inter-armées ou relevant de l'une des trois armées ou rattachées au ministère chargé des armées.
+Ils peuvent être appelés à faire partie des formations inter-armées ou relevant de l'une des trois armées ou rattachées au ministère de la défense.

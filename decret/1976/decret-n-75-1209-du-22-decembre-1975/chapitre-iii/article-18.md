@@ -10,7 +10,7 @@ I - Peuvent seuls être promus ou nommés au grade supérieur :
 
 4° Les généraux de brigade ayant au moins deux ans et six mois de grade.
 
-Un arrêté du ministre chargé des armées détermine les postes comportant l'exercice de fonctions de commandement.
+Un arrêté du ministre de la défense détermine les postes comportant l'exercice de fonctions de commandement.
 
 II - Toutefois, les capitaines et les lieutenants-colonels ayant une ancienneté de grade supérieure aux limites maximum définies ci-dessus peuvent être promus au grade supérieur dans la limite respectivement de 5 p. 100 et de 2 p. 100, arrondis chacun à l'unité supérieure, du nombre de promotions effectuées chaque année à chacun de ces grades, la limite du nombre de promotions au grade de colonel susceptibles d'intervenir à ce titre étant au moins égal à deux.
 
@@ -24,4 +24,4 @@ Les colonels qui se trouvent, à cette même date, à plus de deux ans de la lim
 
 Les généraux de brigade qui se trouvent, à cette même date, à plus de deux ans de la limite d'âge du grade de général de division.
 
-IV - La durée des temps de commandement exigés au présent article est réduite de moitié lorsque ces temps sont accomplis dans des conditions ou dans les territoires ouvrant droit aux bénéfices de campagnes prévus à l'article L. 12 du code des pensions civiles et militaires de retraite, dans les unités ou formations figurant sur une liste arrêtée par le ministre chargé des armées.
+IV - La durée des temps de commandement exigés au présent article est réduite de moitié lorsque ces temps sont accomplis dans des conditions ou dans les territoires ouvrant droit aux bénéfices de campagnes prévus à l'article L. 12 du code des pensions civiles et militaires de retraite, dans les unités ou formations figurant sur une liste arrêtée par le ministre de la défense.
