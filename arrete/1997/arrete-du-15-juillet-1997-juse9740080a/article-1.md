@@ -1,0 +1,3 @@
+# Article 1
+
+Les directions régionales des services pénitentiaires sont autorisées, dans le cadre de leur mission d'exécution des décisions pénales, de maintien de la sécurité publique et de réinsertion des détenus, à mettre en oeuvre un fichier informatisé de gestion régionale de la population pénale incarcérée ayant pour finalité d'améliorer les conditions de prise en charge des détenus et d'assurer une meilleure gestion des établissements pénitentiaires par la centralisation régionale des informations permettant une affectation mieux adaptée des détenus au sein de ces établissements et facilitant les transferts entre établissements.
