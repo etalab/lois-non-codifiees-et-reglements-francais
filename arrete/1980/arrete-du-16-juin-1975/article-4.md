@@ -1,7 +1,9 @@
 # Article 4
 
-La superficie maximum des cumuls visée à l'article 188-1 du Code rural est fixée à trois fois la superficie d'installation pour l'ensemble du département soit (en hectares) :
+Les superficies maxima des cumuls visées à l'article 188-1 du Code rural sont fixées comme suit (en hectares) :
 
-Bélinois : 51
+Pays-Haut, Woëvre, plateau lorrain, La Haye, côtes de Meuse :
 
-Reste du département : 60.
+105
+
+Montagnes vosgiennes et communes viticoles du Toulois : 56.

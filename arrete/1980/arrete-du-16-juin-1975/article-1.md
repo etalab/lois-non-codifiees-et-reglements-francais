@@ -1,7 +1,11 @@
 # Article 1
 
-Les superficies minima d'installation en polyculture visées à l'article 188-3 du Code rural sont fixées ainsi qu'il suit pour le département de la Sarthe (en hectares) :
+Les superficies minima d'installation en polyculture visées à l'article 188-3 du Code rural sont fixées ainsi qu'il suit pour le département de Meurthe-et-Moselle (en hectares) :
 
-Bélinois : 17
+Montagne vosgienne : 16
 
-Reste du département : 20.
+Plateau lorrain, La Haye, Côtes de Meuse : 30
+
+Pays-Haut, Woëvre : 35
+
+Communes viticoles du Toulois 16.
