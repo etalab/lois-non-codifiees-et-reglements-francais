@@ -3,6 +3,7 @@
 - [Arrêté du 3 décembre 1954](arrete-du-3-decembre-1954)
 - [Arrêté du 5 juillet 1954](arrete-du-5-juillet-1954)
 - [Arrêté du 12 juillet 1954](arrete-du-12-juillet-1954)
+- [Arrêté du 14 décembre 1954](arrete-du-14-decembre-1954)
 - [Arrêté du 16 juillet 1954](arrete-du-16-juillet-1954)
 - [Arrêté du 19 juillet 1954](arrete-du-19-juillet-1954)
 - [Arrêté du 25 août 1954](arrete-du-25-aout-1954)
