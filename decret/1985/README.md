@@ -27,6 +27,7 @@
 - [Décret n°85-39 du 10 janvier 1985](decret-n85-39-du-10-janvier-1985)
 - [Décret n°85-591 du 10 juin 1985](decret-n85-591-du-10-juin-1985)
 - [Décret n°84-1110 du 11 décembre 1984](decret-n84-1110-du-11-decembre-1984)
+- [Décret n°85-192 du 11 février 1985](decret-n85-192-du-11-fevrier-1985)
 - [Décret n°85-426 du 12 avril 1985](decret-n85-426-du-12-avril-1985)
 - [Décret n°85-209 du 14 février 1985](decret-n85-209-du-14-fevrier-1985)
 - [Décret n°85-46 du 14 janvier 1985](decret-n85-46-du-14-janvier-1985)
