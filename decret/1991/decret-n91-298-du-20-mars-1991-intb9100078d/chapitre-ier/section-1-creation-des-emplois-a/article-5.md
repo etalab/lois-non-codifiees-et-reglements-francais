@@ -1,7 +1,7 @@
 # Article 5
 
-Des emplois à temps non complet peuvent être créés pour l'exercice des fonctions relevant des cadres d'emplois suivants : secrétaires de mairie, commis territoriaux, agents administratifs territoriaux, agents de bureau territoriaux, agents techniques territoriaux, conducteurs territoriaux, agents d'entretien territoriaux, agents de salubrité territoriaux.
+Dans les collectivités et établissements publics mentionnés à l'article 4 ci-dessus, des emplois à temps non complet peuvent être créés pour l'exercice des fonctions relevant des cadres d'emplois suivants : professeurs d'enseignement artistique, secrétaires de mairie, assistants spécialisés d'enseignement artistique, assistants d'enseignement artistique, adjoints administratifs territoriaux, agents qualifiés du patrimoine, agents administratifs territoriaux, agents techniques territoriaux, conducteurs territoriaux, agents d'entretien territoriaux, agents de salubrité territoriaux, agents du patrimoine.
 
-Le nombre des emplois à temps non complet créés dans un grade ou un emploi ne peut dépasser trois si l'effectif budgétaire des emplois à temps complet dans le même grade est inférieur ou égal à deux. Si cet effectif est supérieur à deux, il peut être créé un emploi à temps non complet.
+" Dans l'attente de la publication des statuts des cadres d'emplois correspondants, des emplois à temps non complet peuvent être créés pour l'exercice des fonctions relevant des emplois de gardes champêtres, d'aides ménagères, d'auxiliaires de puériculture et pour l'exercice des fonctions de travailleuse familiale et d'aide soignante auprès de mères de famille et de malades, de personnes âgées, infirmes ou invalides.
 
-A titre transitoire, dans l'attente de la publication des statuts des cadres d'emplois correspondants, des emplois à temps non complet peuvent être créés pour l'exercice des fonctions relevant des emplois de gardes champêtres et d'aides ménagères dans les limites fixées à l'alinéa précédent.
+" Le nombre d'emplois à temps non complet créés dans un grade pour l'exercice des fonctions relevant d'un cadre d'emplois ne peut être supérieur à cinq. "

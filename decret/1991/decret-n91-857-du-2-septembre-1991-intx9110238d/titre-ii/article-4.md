@@ -4,7 +4,7 @@ Sont inscrits sur la liste d'aptitude prévue au 1° de l'article 3 ci-dessus le
 
 1° Pour la spécialité Musique et danse, à un concours externe sur titres ouvert aux candidats titulaires du certificat d'aptitude aux fonctions de professeur des écoles de musique contrôlées par l'Etat ;
 
-2° Pour la spécialité Art dramatique, à un concours externe sur titres et sur épreuves ouvert aux candidats titulaires d'un diplôme national sanctionnant un second cycle d'études supérieures figurant sur une liste établie par décret ou d'un titre ou diplôme de niveau équivalent figurant sur la liste susmentionnée ;
+2° Pour la spécialité Art dramatique, à un concours externe sur titres ouvert aux candidats titulaires du certificat d'aptitude aux fonctions de professeur des écoles de musique contrôlées par l'Etat obtenu dans la discipline Art dramatique ; "
 
 3° Pour la spécialité Arts plastiques, à un concours externe sur titres avec épreuves ouvert aux candidats titulaires d'un diplôme national sanctionnant un second cycle d'études supérieures figurant sur une liste établie par décret ou d'un titre ou diplôme de niveau équivalent figurant sur la liste susmentionnée ;
 

@@ -1,6 +1,6 @@
 # Article 13
 
-Les fonctionnaires recrutés en application des articles 4 et 8 du présent décret sont classés à l'écheloncomportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur emploi d'origine.
+Les fonctionnaires recrutés en application des articles 4 et 8 ci-dessus appartenant à un cadre d'emplois ou à un corps de catégorie A, ou titulaires d'un emploi de même niveau, sont classés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur grade ou leur emploi d'origine. "
 
 Dans la limite de l'ancienneté maximale exigée pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade ou emploi lorsque l'augmentation de traitement consécutive à leur titularisation est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancienne situation.
 

@@ -6,4 +6,4 @@ Ils sont classés dans leur grade dans les mêmes conditions que celles mentionn
 
 Toutefois, s'ils ont atteint un échelon comportant un indice supérieur à l'indice de l'échelon terminal de leur grade d'intégration, ils sont intégrés à l'échelon terminal de ce grade mais conservent, à titre personnel, l'indice afférent à l'échelon qu'ils avaient atteint.
 
-Peuvent être intégrés dans le cadre d'emplois, dans les conditions fixées au présent article, les fonctionnaires exerçant des fonctions équivalentes à celles mentionnées à l'article 2 et titulaires d'un emploi dont l'indice terminal est au moins égal à l'indice brut 282. "
+Sont intégrés dans le cadre d'emplois, à compter du 1er mai 1992 dans les conditions fixées au présent article, les fonctionnaires exerçant les fonctions équivalentes à celles mentionnées à l'article 2 et titulaires d'un emploi dont l'indice terminal est au moins égal à l'indice brut 282. "

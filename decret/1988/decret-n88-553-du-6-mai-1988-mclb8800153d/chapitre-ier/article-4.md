@@ -1,3 +1,3 @@
 # Article 4
 
-Les agents de salubrité principaux et agents de salubrité en chef sont chargés de conduire des travaux confiés à des agents de salubrité qualifiés travaillant de façon continue en réseau souterrain et bénéficiant de ce fait du régime applicable au travail en milieu insalubre. Ils peuvent participer personnellement à l'exécution de ces travaux.
+Les agents de salubrité principaux et les agents de salubrité en chef sont chargés de conduire les travaux confiés à des agents de salubrité qualifiés ; ils peuvent participer personnellement à l'exécution de ces travaux. "

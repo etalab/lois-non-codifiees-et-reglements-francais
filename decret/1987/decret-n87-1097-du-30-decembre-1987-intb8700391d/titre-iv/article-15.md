@@ -2,7 +2,7 @@
 
 Peuvent être nommés administrateurs hors classe, après inscription sur un tableau d'avancement, les administrateurs qui satisfont aux deux conditions suivantes :
 
-" 1° Compter au moins douze ans de services effectifs accomplis dans ce grade en position d'activité ou de détachement hors du cadre d'emplois " ;
+1° Avoir atteint au moins le 3e échelon de la 1re classe et compter au moins huit ans de services effectifs accomplis dans le cadre d'emplois en position d'activité ou de détachement. "
 
 2° Avoir occupé pendant au moins deux ans au titre d'une période de mobilité :
 

@@ -7,3 +7,5 @@ Des emplois permanents à temps non complet sont susceptibles d'être créés da
 2° Centres communaux et intercommunaux d'action sociale, syndicats intercommunaux, districts, syndicats et communautés d'agglomérations nouvelles regroupant des communes dont la population cumulée n'excède pas 5 000 habitants ;
 
 3° Offices publics d'habitations à loyer modéré dont le nombre de logements n'excède pas 800.
+
+4° Centres de gestion départementaux. "
