@@ -73,6 +73,7 @@
 - [Décret n°80-441 du 17 juin 1980](decret-n80-441-du-17-juin-1980)
 - [Décret n°80-442 du 17 juin 1980](decret-n80-442-du-17-juin-1980)
 - [Décret n°80-445 du 17 juin 1980](decret-n80-445-du-17-juin-1980)
+- [Décret du 18 août 1980](decret-du-18-aout-1980)
 - [Décret n°80-154 du 18 février 1980](decret-n80-154-du-18-fevrier-1980)
 - [Décret n°80-156 du 18 février 1980](decret-n80-156-du-18-fevrier-1980)
 - [Décret n°80-567 du 18 juillet 1980](decret-n80-567-du-18-juillet-1980)
