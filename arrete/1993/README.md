@@ -320,6 +320,8 @@
 - [Arrêté du 17 février 1993 (JUSC9320136A)](arrete-du-17-fevrier-1993-jusc9320136a)
 - [Arrêté du 17 février 1993 (SPSS9300497A)](arrete-du-17-fevrier-1993-spss9300497a)
 - [Arrêté du 17 février 1993 (SPSS9300626A)](arrete-du-17-fevrier-1993-spss9300626a)
+- [Arrêté du 17 juin 1993 (LOGC9300025A)](arrete-du-17-juin-1993-logc9300025a)
+- [Arrêté du 17 juin 1993 (LOGC9300026A)](arrete-du-17-juin-1993-logc9300026a)
 - [Arrêté du 17 mars 1992 (AGRG9200594A)](arrete-du-17-mars-1992-agrg9200594a)
 - [Arrêté du 17 mars 1992 (AGRG9200601A)](arrete-du-17-mars-1992-agrg9200601a)
 - [Arrêté du 17 mars 1993 (AGRS9300469A)](arrete-du-17-mars-1993-agrs9300469a)
