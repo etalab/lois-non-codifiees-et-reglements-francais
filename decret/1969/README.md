@@ -70,7 +70,6 @@
 - [Décret n°69-83 du 27 janvier 1969](decret-n69-83-du-27-janvier-1969)
 - [Décret n°69-469 du 27 mai 1969](decret-n69-469-du-27-mai-1969)
 - [Décret n°69-473 du 27 mai 1969](decret-n69-473-du-27-mai-1969)
-- [Décret n°68-1089 du 29 novembre 1968](decret-n68-1089-du-29-novembre-1968)
 - [Décret n°69-773 du 30 juillet 1969](decret-n69-773-du-30-juillet-1969)
 - [Décret n°69-92 du 30 janvier 1969](decret-n69-92-du-30-janvier-1969)
 - [Décret n°69-497 du 30 mai 1969](decret-n69-497-du-30-mai-1969)

@@ -1,3 +1,0 @@
-# Article 13
-
-Sur les documents publicitaires, étiquettes, pancartes, réclames, bulletins, factures et papiers commerciaux concernant les pierres précieuses dont la couleur a été modifiée artificiellement, les diamants, rubis, saphirs et émeraudes synthétiques ou artificiels, les imitations de pierres précieuses, les perles de culture, les imitations de perles fines ou de perles de culture ou les bijoux comportant des pierres ou des perles de ces diverses catégories, il doit être fait inscription en caractères de même dimension et de même couleur des dénominations et mentions prévues au présent décret.
