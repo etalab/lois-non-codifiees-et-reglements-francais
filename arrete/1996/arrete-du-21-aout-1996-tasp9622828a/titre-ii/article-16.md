@@ -1,0 +1,3 @@
+# Article 16
+
+Les enseignements théoriques et les enseignements pratiques de chacune des trois années font l'objet d'un contrôle continu organisé selon des modalités fixées par l'équipe pédagogique après avis du conseil technique. Le contrôle continu comprend annuellement, pour chaque enseignement théorique et chaque enseignement pratique, au maximum quatre évaluations, chacune notée sur 20 points. L'absence à l'une des épreuves du contrôle continu entraîne la note de zéro à l'épreuve en cause, sauf en cas de force majeure appréciée par le directeur de l'école. En ce cas, une épreuve de remplacement est organisée avant la session de rattrapage visée à l'article 19.

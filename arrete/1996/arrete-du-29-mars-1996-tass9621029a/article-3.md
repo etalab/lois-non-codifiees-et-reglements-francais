@@ -39,3 +39,13 @@ Majoration du litre pour spécificité "anti-HBs" :
 - concentration en anticorps entre 8 et 20 U.I. par ml :
 
 542,62 F
+
+Majoration du litre pour spécificité "anti-zona-varicelle" :
+
+Concentration en anticorps supérieure à 20 U.I. par ml :
+
+888,60 F ;
+
+Concentration en anticorps comprise entre 10 et 20 U.I. par ml :
+
+516,45 F.
