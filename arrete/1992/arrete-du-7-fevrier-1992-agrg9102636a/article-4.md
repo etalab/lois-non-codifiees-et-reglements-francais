@@ -56,4 +56,4 @@ Par prélèvement effectué sur une jument au niveau des sinus clitoridiens : da
 
 Par prélèvement effectué sur une jument au niveau des sinus clitoridiens et de l'utérus : dans la limite maximale de 150 F.
 
-d) Pour les déplacements afférents aux visites mentionnées aux paragraphes a, b et c ci-dessus du présent article, les vétérinaires sanitaires perçoivent des indemnités kilométriques calculées selon les mêmes modalités que celles applicables aux fonctionnaires et agents de l'Etat conformément aux dispositions du décret n° 90-437 du 28 mai 1990.
+d) Pour les déplacements afférents aux visites mentionnées aux paragraphes a, b et c ci-dessus du présent article, les vétérinaires sanitaires sont rémunérés selon les modalités fixées à l'article 1er de l'arrêté du 30 septembre 2004 relatif à la rémunération des vétérinaires sanitaires pour les opérations de police sanitaire.
