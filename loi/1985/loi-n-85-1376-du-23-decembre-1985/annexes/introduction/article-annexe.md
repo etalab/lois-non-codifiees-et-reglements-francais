@@ -1,0 +1,3 @@
+# Article Annexe
+
+Le rôle de la science et de la technologie ne cesse de grandir et de se diversifier, ce qui entraîne une profonde transformation du système R et D. Le secteur socio-économique Recherche et Développement exerce sur l'évolution de la science une pression toujours plus forte pour améliorer sa compétitivité. Elle se traduit par un couplage de plus en plus serré entre la formation et la recherche, par une interaction accrue de la recherche publique et de la recherche industrielle, par l'importance croissante attachée à la technologie, dont les progrès extrêmement rapides sont une source essentielle de changement, non seulement dans l'industrie mais dans l'évolution scientifique elle-même.

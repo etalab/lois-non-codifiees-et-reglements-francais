@@ -1,7 +1,3 @@
 # Article 1
 
-La Caisse nationale des télécommunications est autorisée à émettre deux emprunts obligataires :
-
-- un emprunt à taux fixe de 1.300 millions de francs, d'une durée de neuf ans ;
-
-- un emprunt à taux variable de 700 millions de francs, d'une durée de onze ans.
+Pour l'année 1986, le montant annuel du maximum de pension mentionné à l'article 39 du décret du 3 juillet 1979 susvisé est fixé à 17300 F.

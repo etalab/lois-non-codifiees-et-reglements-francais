@@ -1,3 +1,3 @@
 # Article 3
 
-Les informations traitées sont celles énumérées aux articles 3 et 4 du décret n° 85-1344 du 16 décembre 1985.
+L'arrêté du 7 janvier 1959 relatif au calcul des cotisations d'accident du travail pour la couverture du risque n° 950-01 est abrogé.
