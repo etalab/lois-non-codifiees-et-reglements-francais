@@ -4,6 +4,7 @@
 - [Décret n°72-827 du 6 septembre 1972](decret-n72-827-du-6-septembre-1972)
 - [Décret n°76-5 du 6 janvier 1976](decret-n76-5-du-6-janvier-1976)
 - [Décret n°72-1012 du 7 novembre 1972](decret-n72-1012-du-7-novembre-1972)
+- [Décret n°72-27 du 10 janvier 1972](decret-n72-27-du-10-janvier-1972)
 - [Décret n°72-903 du 14 septembre 1972](decret-n72-903-du-14-septembre-1972)
 - [Décret n°75-267 du 15 avril 1975](decret-n75-267-du-15-avril-1975)
 - [Décret n°71-1149 du 17 décembre 1971](decret-n71-1149-du-17-decembre-1971)
