@@ -6,4 +6,3 @@
 - [Chapitre 4 : Sociétés par actions](chapitre-4)
 - [Chapitre 5 : Valeurs mobilières émises par les sociétés par actions](chapitre-5)
 - [Chapitre 6 : Dispositions communes aux diverses sociétés commerciales dotées de la personnalité morale](chapitre-6)
-- [Chapitre 7 : Sociétés en participation.](chapitre-7)
