@@ -1,5 +1,6 @@
 # 1959
 
+- [Arrêté du 3 septembre 1959](arrete-du-3-septembre-1959)
 - [Arrêté du 4 juin 1959](arrete-du-4-juin-1959)
 - [Arrêté du 4 mars 1959](arrete-du-4-mars-1959)
 - [Arrêté du 4 mai 1959](arrete-du-4-mai-1959)
