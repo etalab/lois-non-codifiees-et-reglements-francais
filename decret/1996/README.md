@@ -359,6 +359,7 @@
 - [Décret n°96-56 du 25 janvier 1996 (DOMP9500058D)](decret-n96-56-du-25-janvier-1996-domp9500058d)
 - [Décret n°96-568 du 25 juin 1996 (INDC9600403D)](decret-n96-568-du-25-juin-1996-indc9600403d)
 - [Décret n°96-57 du 25 janvier 1996 (DOMP9500059D)](decret-n96-57-du-25-janvier-1996-domp9500059d)
+- [Décret n°96-570 du 25 juin 1996 (FCEC9600080D)](decret-n96-570-du-25-juin-1996-fcec9600080d)
 - [Décret n°96-59 du 25 janvier 1996 (AVIC9503423D)](decret-n96-59-du-25-janvier-1996-avic9503423d)
 - [Décret n°96-74 du 25 janvier 1996 (JUSD9530043D)](decret-n96-74-du-25-janvier-1996-jusd9530043d)
 - [Décret n°99-901 du 25 octobre 1999 (JUSE9940216D)](decret-n99-901-du-25-octobre-1999-juse9940216d)
