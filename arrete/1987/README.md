@@ -18,7 +18,6 @@
 - [Arrêté du 1 octobre 1987 (BUDB8730097A)](arrete-du-1-octobre-1987-budb8730097a)
 - [Arrêté du 1 septembre 1987 (ASES8701247A)](arrete-du-1-septembre-1987-ases8701247a)
 - [Arrêté du 1 septembre 1987 (BUDR8703107A)](arrete-du-1-septembre-1987-budr8703107a)
-- [Arrêté du 2 avril 1987 (MEND8700216A)](arrete-du-2-avril-1987-mend8700216a)
 - [Arrêté du 2 décembre 1986](arrete-du-2-decembre-1986)
 - [Arrêté du 2 décembre 1987 (BUDR8703141A)](arrete-du-2-decembre-1987-budr8703141a)
 - [Arrêté du 2 février 1987](arrete-du-2-fevrier-1987)
