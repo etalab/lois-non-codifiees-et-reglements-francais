@@ -1,6 +1,6 @@
 # Article 17
 
-Les demandes d'inscription au tableau et de modification de l'inscription au tableau sont accompagnées des pièces prévues à l'article 19 de la loi du 7 mai 1946 modifiée susvisée établissant la nationalité, la capacité, l'âge et la qualification du demandeur, tels que prévus à l'article 3 de la loi du 7 mai 1946 précitée. Ces demandes sont présentées et instruites dans les formes fixées par un arrêté du ministre chargé de l'architecture. Le commissaire du Gouvernement ou son délégué est informé de ces demandes.
+Les demandes d'inscription au tableau et de modification de l'inscription au tableau sont accompagnées des pièces prévues à l'article 19 de la loi du 7 mai 1946 modifiée susvisée établissant la nationalité, la capacité, l'âge et la qualification du demandeur, tels que prévus à l'article 3 de la loi du 7 mai 1946 précitée. Ces demandes sont présentées et instruites dans les formes fixées par un arrêté du ministre chargé de l'urbanisme. Le commissaire du Gouvernement ou son délégué est informé de ces demandes.
 
 Le conseil régional statue sur la demande par décision motivée dans les délais fixés au quatrième alinéa de l'article 15 de la loi du 7 mai 1946 précitée.
 

@@ -6,6 +6,6 @@ Sa durée, éventuellement prorogée comme il est dit ci-après, ne peut excéde
 
 Le déroulement du stage, son évaluation et, le cas échéant, sa validation sont effectués conformément aux dispositions du chapitre Ier du présent titre.
 
-En cas de validation, le ministre chargé de l'architecture reconnaît la qualification du demandeur. Dans le cas contraire, il peut soit rejeter la demande de reconnaissance de qualification, soit prolonger la durée du stage, dans les limites prévues au deuxième alinéa ci-dessus.
+En cas de validation, le ministre chargé de l'urbanisme reconnaît la qualification du demandeur. Dans le cas contraire, il peut soit rejeter la demande de reconnaissance de qualification, soit prolonger la durée du stage, dans les limites prévues au deuxième alinéa ci-dessus.
 
 La décision ministérielle est motivée.
