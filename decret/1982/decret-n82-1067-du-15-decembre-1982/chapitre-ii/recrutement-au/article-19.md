@@ -1,0 +1,3 @@
+# Article 19
+
+Les ingénieurs principaux recrutés au titre de l'article 15 sont classés à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur ancien grade. A égalité d'indice ou lorsque le nouvel indice entraîne une augmentation inférieure soit à celle que leur aurait procurée un avancement d'échelon dans leur ancien grade pour ceux qui n'y avaient pas atteint le dernier échelon, soit à celle que leur avait procurée l'accès au dernier échelon, ils conservent leur ancienneté d'échelon dans la limite des durées fixées à l'article 25 ci-dessous. Dans la cas inverse, le classement en échelon se fait avec une ancienneté nulle.
