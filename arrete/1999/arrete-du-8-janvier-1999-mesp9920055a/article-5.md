@@ -4,7 +4,9 @@ La commission régionale de la naissance est composée :
 
 1. Du directeur régional des affaires sanitaires et sociales ou de son représentant ;
 
-2. D'un collège composé de professionnels intervenant dans le champ de la périnatalité comportant :
+2. De la déléguée régionale aux droits des femmes et à l'égalité ;
+
+3. D'un collège composé de professionnels intervenant dans le champ de la périnatalité comportant :
 
 Un gynécologue-obstétricien exerçant dans un centre hospitalier régional ;
 
@@ -32,7 +34,9 @@ Un médecin coordonnateur du service de protection maternelle et infantile d'un 
 
 Un pédopsychiatre ;
 
-3. D'un collège composé de personnalités représentant chacune :
+Une sage-femme d'un service de protection maternelle et infantile d'un  département.
+
+4. D'un collège composé de personnalités représentant chacune :
 
 L'agence régionale de l'hospitalisation ;
 
