@@ -1,6 +1,5 @@
 # PRESTATIONS
 
-- [Article 10](article-10.md)
 - [ASSURANCE INVALIDITE](assurance-invalidite)
 - [ASSURANCE MALADIE.](assurance-maladie)
 - [ASSURANCES MALADIE.](assurances-maladie)

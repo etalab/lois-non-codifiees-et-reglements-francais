@@ -1,7 +1,3 @@
 # Article 7
 
-Lorsque les chefs d'exploitation ou d'entreprise agricole sont dispensés du versement des cotisations et exclus du droit aux prestations de la présente assurance, leurs conjoints donnent lieu obligatoirement à versement de cotisations, dès lors qu'ils consacrent leur activité à l'exploitation ou l'entreprise et qu'ils ne peuvent de ce fait, prétendre à prise en charge par le régime dont relève le chef d'exploitation.
-
-Lesdits conjoints sont assimilés à des chefs d'exploitation pour le droit aux prestations de l'assurance [*définition*].
-
-Les ayants droit des chefs d'exploitation mentionnés au premier alinéa peuvent bénéficier des prestations de l'assurance dans les conditions prévues par l'article 50 du décret susvisé du 19 mars 1968.
+Lorsque le chef d'exploitation ou d'entreprise agricole bénéficie des prestations d'assurance maladie, invalidité et maternité d'un régime autre que celui qui régit la présente assurance, son conjoint, qui consacre son activité à l'exploitation ou à l'entreprise, est considéré comme chef d'exploitation ou d'entreprise à titre exclusif ou principal, pour le versement des cotisations et le paiement des prestations ; dans ce cas, le chef d'exploitation ou d'entreprise agricole n'est pas redevable des cotisations pour lui-même.

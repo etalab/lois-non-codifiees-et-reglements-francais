@@ -6,4 +6,4 @@ La pension d'invalidité est majorée de 40 p. 100 [*taux*] lorsque l'intéress�
 
 La majoration pour aide d'une tierce personne est versée pendant les quarante-cinq premiers jours d'hospitalisation de l'assuré [*durée*] ; au-dela de cette période, son service est suspendu.
 
-Le montant annuel de la pension d'invalidité attribuée au titre du deuxième alinéa de l'article 18 ci-dessus est égal aux trois cinquièmes du montant déterminé par application du 1er alinéa du présent article.
+Le montant annuel de la pension d'invalidité attribuée au titre du deuxième alinéa de l'article 18 ci-dessus est égal aux trois cinquièmes du montant déterminé par application du 1er alinéa du présent article sans que ledit montant puisse être inférieur au montant de l'allocation aux vieux travailleurs salariés.

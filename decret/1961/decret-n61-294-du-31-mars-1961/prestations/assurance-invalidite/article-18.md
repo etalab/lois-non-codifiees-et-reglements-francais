@@ -1,8 +1,6 @@
 # Article 18
 
-Bénéficient d'une pension d'invalidité les chefs d'exploitation ou d'entreprise, leurs aides familiaux et les membres des sociétés d'exploitation ou d'entreprises agricoles qui, en raison de leur état de santé, sont reconnus comme totalement inaptes à l'exercice de la profession agricole avant l'âge de soixante ans, alors même que la maladie aurait seulement aggravé un état antérieur d'incapacité de travail.
-
-Bénéficient également d'une pension d'invalidité les chefs d'exploitation ou d'entreprise agricoles mentionnés à l'article 1106-1 (I-1°) du code rural qui, en raison de leur état de santé, présentent avant l'âge de soixante ans, une invalidité réduisant au moins des deux tiers leur capacité à l'exercice de la profession agricole [*taux*], à condition qu'ils n'aient exercé cette profession au cours des cinq dernières années qu'avec le concours de leur conjoint et d'un seul aide familial.
+Bénéficient d'une pension d'invalidité les personnes énumérées aux premier et deuxième alinéas du 2° de l'article 1106-3 du code rural dont l'inaptitude totale ou partielle a été constatée avant l'âge de soixante ans, alors même que la maladie aurait seulement aggravé un état antérieur d'incapacité de travail.
 
 L'état d'invalidité [*définition*] est appréciée compte tenu de l'état général, de l'âge, des facultés physiques et mentales, des aptitudes et de la formation professionnelle de l'intéressé, ainsi que de ses possibilités de reclassement soit au moment de la constatation médicale de l'état d'invalidité si celui-ci apparaît définitif, soit, dans le cas contraire, après stabilisation de l'état de l'assuré et, dans dans ce dernier cas, au plus tôt après une période de douze mois au moins d'arrêt de travail médicalement ordonné.
 

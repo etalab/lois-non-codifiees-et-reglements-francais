@@ -1,3 +1,0 @@
-# EXONERATION PARTIELLE DES COTISATIONS.
-
-- [Article 9](article-9.md)
