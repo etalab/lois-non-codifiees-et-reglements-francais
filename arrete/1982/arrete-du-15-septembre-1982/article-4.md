@@ -1,6 +1,6 @@
 # Article 4
 
-Des autorisations pourront être accordées par le ministre de l'agriculture pour des semences ne répondant pas aux conditions fixées dans les articles 2 et 3 :
+Des autorisations pourront être accordées par le ministre de l'agriculture pour des semences ne répondant pas aux conditions fixées dans les articles 2, 3 et dans l'annexe III :
 
 - pour des essais ou dans des buts scientifiques ;
 

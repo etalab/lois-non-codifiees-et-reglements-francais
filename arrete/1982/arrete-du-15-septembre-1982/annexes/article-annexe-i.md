@@ -1,39 +1,31 @@
 # Article Annexe I
 
-Semences de céréales ne devant être commercialisées que dans les catégories de prébase, semences de base et semences certifiées, telles qu'elles sont définies par les règlements techniques cités à l'article 2 :
+Semences de céréales ne devant être commercialisées que dans les catégories de prébase, semences de base et semences certifiées,
 
-- avoine (Avena sativa L.) ;
+telles qu'elles sont définies par les règlements techniques cités à l'article 2 :
 
-- avoine nue (Avena nuda L.) ;
+- avoine (Aven Sativa L.)
 
-- avoine maigre ou rude (Avena strigosa Schreb.) ;
+- blé dur (Triticum Durum, Desf.) ;
 
-- blé dur (Triticum durum Desf.) ;
+- blé tendre (froment) (Triticum aestivum L., emend, Fiori et Pasl) ;
 
-- blé tendre (froment) (Triticum aestivum L.) ;
+- maïs, à l'exception du pop-corn et maïs sucré (Zea maïs L. partim ) ;
 
-- épeautre (Triticum spelta L.) ;
+- orge (Hordeum Vulgare L.) ;
 
-- maïs, à l'exception du pop-corn et maïs sucré (Zea mays L. " partim ") ;
+- riz (Oryza Saliva L.) ;
 
-- orge (Hordeum vulgare L.) ;
+- Sarrasin (Fagopyrum Esculentum)
 
-- riz (Oryza sativa L.) ;
+- seigle (Secale Cereale L.) ;
 
-- sarrasin (Fagopyrum esculentum Moench) ;
+- sorgho (Sorghum Bicolor "L." , Moench) ;
 
-- seigle (Secale cereale L.) ;
+- sorgho du Soudan (Sorghum Sundanese "piper", Stapf) ;
 
-- sorgho (Sorghum bicolor " L. " Moench) ;
+- hybride résultant du croisement entre le sorgho et le sorgho du Soudan (Sorghum Bicolor "L.". Moench X (Sorghum Sundanese
 
-- sorgho du Soudan (Sorghum sudanense " Piper " Stapf) ;
+"piper", Stapf)
 
-- hybride résultant du croisement entre le sorgho bicolore et le sorgho du Soudan (Sorghum bicolor " L. " Moench × Sorghum sudanense " Piper " Stapf) ;
-
-- triticale (× Triticosecale Wittm. ex A. Camus).
-
-Semences de céréales ne devant être commercialisées que dans la catégorie semences sans aucun qualificatif :
-
-- seigle des montagnes (Secale montanum Guss.) ;
-
-- hybride résultant du croisement du seigle des montagnes avec le seigle (Secale montanum Guss. × Secale cereale L.).
+- triticale (X Triticosecale, Wittm).
