@@ -1,6 +1,5 @@
 # Arrêté du 16 octobre 1990 portant autorisation d'établissement et d'exploitation d'un réseau radioélectrique à ressources partagées (3 RP) ouvert aux tiers sur la zone de Nice
 
-- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
