@@ -1,9 +1,13 @@
 # Article 13
 
-Nul ne peut chasser sur le territoire du parc en dehors des territoires de chasse aménagés au sens de l'article 14 ci-dessous, s'il n'est membre d'une "association cynégétique du parc national des Cévennes" dont les statuts sont approuvés par le ministre de l'agriculture sur proposition du conseil d'administration du parc.
+Peuvent être admis à chasser sur le territoire du parc les personnes titulaires du permis de chasser visé et validé, membres de l'association cynégétique du parc national des Cévennes ou autorisées à chasser sur l'un des territoires de chasse aménagés agréés en vertu de l'article 13 ter.
 
-L'association assure, conformément à ses statuts et à son règlement intérieur, la répartition entre ses membres des contingents de pièces de gibier à abattre et du nombre de journées individuelles de chasse fixées en application du règlement visé à l'article 11 (2°) par secteurs de chasse définis par le conseil d'administration.
+Ces personnes doivent en outre entrer dans l'une des catégories suivantes :
 
-Les statuts de l'association doivent prévoir l'admission dans celle-ci des titulaires du permis de chasse, soit domiciliés dans les communes du parc, soit propriétaires fonciers dans le territoire du parc d'une superficie d'au moins 100 hectares d'un seul tenant.
+- résidents permanents dans les communes ayant une partie de leur territoire inclus dans les limites du parc, ayant obtenu dans ces communes le visa de leur permis de chasser ;
 
-Les statuts doivent prévoir également que peut être admis un certain pourcentage de chasseurs ne rentrant dans aucune des catégories définies ci-dessus. Ce pourcentage est fixé par le conseil d'administration du parc après avis de la commission cynégétique.
+- propriétaires dans le parc d'une superficie d'au moins 30 hectares. Les propriétés foncières indivises et les propriétés foncières appartenant à des personnes morales ne peuvent ouvrir ce droit qu'à une seule personne physique ;
+
+- descendants en ligne directe à la première génération et leurs conjoints, de propriétaires de plus de 10 hectares dans le parc résidant de façon permanente dans une commune ayant une partie de son territoire dans le parc ;
+
+- titulaires du permis de chasser n'appartenant à aucune des catégories ci-dessus dans la limite de 10 p. 100 du nombre total des chasseurs appartenant aux trois catégories précédentes ; ce pourcentage est calculé distinctement pour l'association cynégétique et pour chacun des territoires de chasse aménagés agréés en vertu de l'article 13 ter.

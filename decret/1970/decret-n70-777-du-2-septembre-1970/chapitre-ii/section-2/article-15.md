@@ -1,3 +1,3 @@
 # Article 15
 
-L'association définie à l'article 13 ci-dessus assure la formation et l'éducation cynégétique de ses membres. L'établissement public peut la charger pour son compte de certaines missions de mise en valeur et de protection, notamment : opérations de repeuplement, d'aménagement du milieu et de sélection du gibier.
+Sur le territoire du parc, peuvent être autorisés à titre exceptionnel, par arrêté du ministre chargé des parcs nationaux sur proposition du directeur du parc, après avis du comité scientifique, de la commission cynégétique et de la commission agricole, des tirs d'élimination pour éliminer les animaux malades, malformés, en surnombre ou responsables de dégâts anormalement importants.

@@ -1,13 +1,5 @@
 # Article 14
 
-Sont considérés comme territoires aménagés ceux qui répondent aux conditions suivantes [*définition*] :
+Sous réserve des dispositions visées à l'article 33, le port et l'usage de toute arme à feu, même démontée, ainsi que de ses munitions sont interdits sur le territoire du parc national, en dehors des voies nationales, départementales et communales ouvertes à la circulation automobile publique.
 
-Surface minimum de 100 hectares d'un seul tenant ;
-
-Paiement des impôts et taxes sur les chasses gardées ;
-
-Surveillance par un garde assermenté ;
-
-Signalisation assurée par des pancartes d'un modèle agréé par le conseil d'administration du parc.
-
-A l'égard de ces territoires, le conseil d'administration du parc fixe aux détenteurs du droit de chasse, après consultation de ceux-ci, les contingents de pièces de gibier à éliminer et le nombre de journées individuelles de chasse autorisées en application du règlement visé à l'article 11 (2°) ci-dessus.
+Ces dispositions ne s'appliquent pas aux agents des services publics dans l'exercice de leur fonction ni aux personnes justifiant qu'elles pratiquent la chasse dans les conditions prévues au présent décret ni aux personnes autorisées à effectuer les tirs d'élimination prévus à l'article 15 ci-dessous.
