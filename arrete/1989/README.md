@@ -89,6 +89,7 @@
 - [Arrêté du 6 mars 1989 (SPSH8900450A)](arrete-du-6-mars-1989-spsh8900450a)
 - [Arrêté du 6 mars 1989 (SPSM8801477A)](arrete-du-6-mars-1989-spsm8801477a)
 - [Arrêté du 6 mars 1989 (TEFF8903220A)](arrete-du-6-mars-1989-teff8903220a)
+- [Arrêté du 7 août 1989 (SPSA8910329A)](arrete-du-7-aout-1989-spsa8910329a)
 - [Arrêté du 7 avril 1989 (BUDZ8900005A)](arrete-du-7-avril-1989-budz8900005a)
 - [Arrêté du 7 avril 1989 (EQUV8900264A)](arrete-du-7-avril-1989-equv8900264a)
 - [Arrêté du 7 décembre 1988 (TEFT8804178A)](arrete-du-7-decembre-1988-teft8804178a)
