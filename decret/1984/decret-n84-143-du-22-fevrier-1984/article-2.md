@@ -1,9 +1,11 @@
 # Article 2
 
-Le régime d'assurance vieillesse complémentaire institué par le présent décret comporte cinq classes de cotisations dont les montants sont fixés par décret sur proposition du conseil d'administration de la section professionnelle mentionnée à l'article 1er.
+Le régime d'assurance vieillesse complémentaire institué par le présent décret comporte deux cotisations :
 
-La classe minimum obligatoire est la classe B.
+a) Une cotisation forfaitaire portant attribution de 8 points de retraite ;
 
-Les classes C, D, E, F sont des classes d'option. Les statuts prévus à l'article 5 du présent décret déterminent les conditions dans lesquelles les adhérents peuvent opter pour une de ces classes.    La cotisation annuelle de la classe B porte attribution de 8 points de retraite [*nombre*].
+b) Une cotisation proportionnelle assise sur les revenus professionnels non salariés retenus pour le calcul de la cotisation du régime de base ; l'assiette de cette cotisation est comprise entre un minimum et un maximum.
 
-Les cotisations annuelles des classes C, D, E, F qui s'ajoutent à la cotisation de la classe B portent respectivement attribution de 4, 8, 12 et 16 points de retraite.
+Le versement de la cotisation proportionnelle porte attribution, annuellement, d'un nombre de points supplémentaires, obtenu en divisant le montant de cette cotisation par le coût d'acquisition d'un point de retraite, attribué au titre de la cotisation forfaitaire, dans la limite de 22 points.
+
+Le montant de la cotisation forfaitaire, le taux de la cotisation proportionnelle et les limites de l'assiette de la cotisation proportionnelle sont fixés chaque année par décret, sur proposition du conseil d'administration de la section professionnelle des auxiliaires médicaux.
