@@ -1,5 +1,6 @@
 # 1978
 
+- [Décret n°78-520 du 3 avril 1978](decret-n78-520-du-3-avril-1978)
 - [Décret n°78-360 du 8 mars 1978](decret-n78-360-du-8-mars-1978)
 - [Décret n°78-311 du 13 mars 1978](decret-n78-311-du-13-mars-1978)
 - [Décret n°78-345 du 13 mars 1978](decret-n78-345-du-13-mars-1978)
@@ -28,6 +29,7 @@
 - [Décret n°78-432 du 24 mars 1978](decret-n78-432-du-24-mars-1978)
 - [Décret n°78-441 du 24 mars 1978](decret-n78-441-du-24-mars-1978)
 - [Décret n°78-442 du 24 mars 1978](decret-n78-442-du-24-mars-1978)
+- [Décret n°78-509 du 24 mars 1978](decret-n78-509-du-24-mars-1978)
 - [Décret n°78-498 du 28 mars 1978](decret-n78-498-du-28-mars-1978)
 - [Décret n°78-473 du 29 mars 1978](decret-n78-473-du-29-mars-1978)
 - [Décret n°78-474 du 29 mars 1978](decret-n78-474-du-29-mars-1978)
@@ -37,5 +39,6 @@
 - [Décret n°78-504 du 29 mars 1978](decret-n78-504-du-29-mars-1978)
 - [Décret n°78-505 du 29 mars 1978](decret-n78-505-du-29-mars-1978)
 - [Décret n°78-499 du 30 mars 1978](decret-n78-499-du-30-mars-1978)
+- [Décret n°78-517 du 30 mars 1978](decret-n78-517-du-30-mars-1978)
 - [Décret n°77-1549 du 31 décembre 1977](decret-n77-1549-du-31-decembre-1977)
 - [Décret n°78-486 du 31 mars 1978](decret-n78-486-du-31-mars-1978)
