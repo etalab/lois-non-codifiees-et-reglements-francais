@@ -75,6 +75,7 @@
 - [Arrêté du 7 février 1989 (CPTP8900002A)](arrete-du-7-fevrier-1989-cptp8900002a)
 - [Arrêté du 7 février 1989 (MENK8970013A)](arrete-du-7-fevrier-1989-menk8970013a)
 - [Arrêté du 7 février 1989 (MENK8970014A)](arrete-du-7-fevrier-1989-menk8970014a)
+- [Arrêté du 7 juin 1989 (MPAS8801126A)](arrete-du-7-juin-1989-mpas8801126a)
 - [Arrêté du 8 décembre 1988 (TEFT8804179A)](arrete-du-8-decembre-1988-teft8804179a)
 - [Arrêté du 8 février 1989 (ECOT8916063A)](arrete-du-8-fevrier-1989-ecot8916063a)
 - [Arrêté du 8 février 1989 (SPSS8900248A)](arrete-du-8-fevrier-1989-spss8900248a)
