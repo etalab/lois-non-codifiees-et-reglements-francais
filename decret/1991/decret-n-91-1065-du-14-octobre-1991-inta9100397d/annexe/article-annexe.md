@@ -383,3 +383,53 @@ Chefs de bureau gérant les dossiers relatifs à la politique de la ville.
 Fonctionnaires chargés de gérer les dossiers concernant les contrats de ville, le logement social.
 
 Fonctionnaires gérant les dossiers de prévention de la délinquance et de la commission locale d'insertion.
+
+FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE AU TITRE DES 6e ET 7e TRANCHES
+
+Personnels de l'administration centrale
+
+Fonction, notamment d'encadrement,
+
+assortie de contraintes et de responsabilités particulières
+
+Emploi d'adjoint du préfet, secrétaire général pour l'administration de la police.
+
+Fonction impliquant une technicité particulière
+
+Au titre des attributions financières, comptables et juridiques :
+
+Emploi de responsable de section juridique ;
+
+Emploi de responsable de section contentieuse.
+
+Au titre des compétences techniques :
+
+Emploi de responsable d'unité vidéo ;
+
+Emploi de documentaliste-archiviste.
+
+Personnels du cadre national des préfectures
+
+Fonction d'encadrement
+
+Emploi de chef de bureau du cabinet.
+
+Personnels en poste dans les départements et les collectivités territoriales d'outre-mer
+
+Fonctions d'accueil
+
+Emploi d'accueil général.
+
+Personnels des corps des transmissions et de l'informatique
+
+Fonctions impliquant une technicité particulière
+
+Emploi de responsable coordination de réseaux (ancien emploi de chef de quart).
+
+Emploi de chef de section technique déconcentrée (ancien emploi de chef d'atelier avancé).
+
+Emploi de responsable technique messagerie et réseaux.
+
+Emploi de chef de centre de production de la carte nationale d'identité.
+
+Emploi de chef de magasin central et atelier national des transmissions et de l'informatique.
