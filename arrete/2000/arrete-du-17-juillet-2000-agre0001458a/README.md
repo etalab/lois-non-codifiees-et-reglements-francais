@@ -8,5 +8,4 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Article Annexe](article-annexe.md)
 - [Article Annexe 1](article-annexe-1.md)
