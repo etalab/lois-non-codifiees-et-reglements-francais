@@ -1,10 +1,10 @@
 # Article 8
 
-La direction régionale de l'environnement contribue à promouvoir un urbanisme et une architecture de qualité s'intégrant harmonieusement dans le milieu environnant.
+La direction régionale de l'environnement contribue à promouvoir un urbanisme de qualité s'intégrant harmonieusement dans le milieu environnant.
 
 La direction régionale de l'environnement contribue à la préparation de la politique contractuelle entre l'Etat, les collectivités territoriales et les établissements publics. Elle concourt à la préparation et à la révision des chartes des parcs naturels régionaux et des programmes d'aménagement des zones périphériques des parcs nationaux.
 
-Elle contribue à informer le public sur l'environnement et l'architecture, en liaison avec le conseil d'architecture, d'urbanisme et de l'environnement, notamment par des actions de communication, de formation et d'initiation à l'environnement.
+Elle contribue à informer le public sur l'environnement en liaison avec le conseil d'architecture, d'urbanisme et de l'environnement, notamment par des actions de communication, de formation et d'initiation à l'environnement.
 
 Elle participe à la mise en oeuvre des fonds communautaires. Elle est associée à l'application des mesures d'aide dans les zones sensibles du point de vue de la protection de l'environnement naturel ainsi que du point de vue du maintien de l'espace naturel et du paysage, prises, notamment, sur le fondement de règlements du Conseil des communautés européennes.
 
@@ -12,7 +12,7 @@ Elle participe, dans le cadre de la coopération régionale internationale, sous
 
 Lorsque celles-ci sont nécessaires, elle concourt aux politiques de mise en valeur :
 
-a) des ensembles urbains protégés tels que les zones de protection du patrimoine architectural et urbain, les secteurs sauvegardés, les sites urbains et les abords des monuments historiques ;
+a) des sites urbains ;
 
 b) des milieux naturels protégés tels que les sites naturels, les réserves naturelles, les biotopes protégés, les parcs nationaux ou les parcs naturels régionaux ;
 
