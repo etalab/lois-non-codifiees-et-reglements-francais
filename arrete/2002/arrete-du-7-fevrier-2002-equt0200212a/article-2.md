@@ -1,0 +1,7 @@
+# Article 2
+
+I. - Les attestations de conformité pour les véhicules à moteur qui répondent aux prescriptions techniques minimales prévues à l'article 1er et les attestations de conformité pour les véhicules remorqués qui répondent aux prescriptions techniques minimales énoncées à l'annexe 7 (exemple d'attestation de sécurité pour remorque) de la résolution CEMT du 26 novembre 2001 susvisée sont établies par le constructeur ou son représentant agréé.
+
+II. - Les attestations de contrôle technique annuel des véhicules qui répondent aux prescriptions techniques minimales énoncées à l'annexe 8 (exemple d'attestation de contrôle technique pour les véhicules et les remorques) de la résolution CEMT du 26 novembre 2001 susvisée sont établies par les directions régionales de l'industrie, de la recherche et de l'environnement du ministère chargé de l'industrie.
+
+Elles sont délivrées aux véhicules ayant subi un contrôle technique périodique en application de l'article R. 323-25 du code de la route sans obligation de contre-visite et sur présentation de l'attestation de conformité visée au I ci-dessus. La date d'expiration de l'attestation est identique à la date d'échéance du contrôle technique. La valeur du coefficient d'absorption portée sur l'attestation est celle de la valeur limite réglementaire 3,0 m - 1 pour les moteurs Diesel turbocompressés et 2,5 m - 1 pour les moteurs Diesel à aspiration naturelle.

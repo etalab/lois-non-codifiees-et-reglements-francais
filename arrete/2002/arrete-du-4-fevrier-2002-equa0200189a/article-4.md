@@ -1,0 +1,13 @@
+# Article 4
+
+Le département " systèmes-développements-réseaux " a pour mission d'assurer le support informatique et technique de l'information aéronautique intégrée. Pour accomplir ses missions, le département collabore avec le service technique de la navigation aérienne et avec les instances européennes à vocations technique et normative.
+
+Il comprend trois divisions :
+
+La division " systèmes " chargée de veiller au fonctionnement des différents systèmes informatiques implantés au service de l'information aéronautique, tant dans le domaine de l'informatique opérationnelle que dans ceux de l'informatique de gestion et de la bureautique. Elle doit maintenir les matériels microinformatiques, les progiciels et les logiciels du service à niveau en respectant les standards définis par la direction générale de l'aviation civile et les contraintes propres au service. Elle doit également participer à l'élaboration de ces outils et à leur évolution, notamment par l'écriture d'expression de besoins opérationnels, de cahiers de clauses techniques particulières, l'analyse des offres, les vérifications d'aptitude, les vérifications de service régulier, la participation à des groupes de projet ;
+
+La division " développements ", interface entre les utilisateurs opérationnels et les prestataires techniques, chargée de prendre en compte, traduire et organiser les besoins opérationnels concernant les nouvelles applications logicielles et les évolutions majeures (notamment, le développement d'un outil de publication d'informations aéronautiques numérisées par ordinateur, sous-système de la BDA, AIP électronique, et la gestion électronique de documents) ;
+
+La division " réseaux " chargée du transport des informations. Elle gère et administre les réseaux locaux informatiques (bureautique, publication et dessin assistés par ordinateur, gestion commerciale, banque de données aéronautiques, WGS-84, notamment), téléphoniques (gestion autocommutateur, gestion des lignes opérateurs, suivi des consommations), les réseaux étendus, étudie et propose leurs évolutions. Elle veille à l'intégrité de ces transports et à leur protection.
+
+Elle est chargée également de la gestion technique des bâtiments (suivi des évolutions matérielles, des paramètres mesurés, des alarmes, du fonctionnement de l'outil de gestion du bâtiment), des réseaux et sources électriques (surveillance des réseaux, entretien du groupe électrogène, suivi de la maintenance des onduleurs et des chargeurs, surveillance des tableaux de distribution), de la téléphonie et des équipements de sûreté (système central, accès contrôlés, reports d'alarme).
