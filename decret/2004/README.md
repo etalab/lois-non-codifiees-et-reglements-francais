@@ -139,6 +139,7 @@
 - [Décret n°2004-92 du 27 janvier 2004 (FPPA0410002D)](decret-n2004-92-du-27-janvier-2004-fppa0410002d)
 - [Décret n°2004-93 du 27 janvier 2004 (DOMB0300029D)](decret-n2004-93-du-27-janvier-2004-domb0300029d)
 - [Décret n°2004-94 du 27 janvier 2004 (DOMB0300030D)](decret-n2004-94-du-27-janvier-2004-domb0300030d)
+- [Décret n°2004-95 du 27 janvier 2004 (DEFD0400045D)](decret-n2004-95-du-27-janvier-2004-defd0400045d)
 - [Décret n°2004-458 du 27 mai 2004 (INTC0400121D)](decret-n2004-458-du-27-mai-2004-intc0400121d)
 - [Décret n°2004-461 du 27 mai 2004 (SANS0420911D)](decret-n2004-461-du-27-mai-2004-sans0420911d)
 - [Décret n°2004-1028 du 28 septembre 2004 (EQUP0400977D)](decret-n2004-1028-du-28-septembre-2004-equp0400977d)
