@@ -1,0 +1,3 @@
+# Article 1
+
+A titre exceptionnel et pour la récolte 1984 seulement, le titre alcoométrique volumique naturel total visé à l'article 1er du décret du 4 septembre 1979 susvisé est abaissé d'un demi-degré pour les vins de pays produits dans les départements de l'Ain, de l'Ardèche, de la Drôme, de l'Isère, de la Loire, du Puy-de-Dôme, du Rhône, de la Savoie et de la Haute-Savoie, de la Charente, de la Charente-Maritime, du Jura, de la Haute-Saône, du Doubs, de la Meuse, de l'Allier, du Cher, de l'Indre, d'Indre-et-Loire, de Loir-et-Cher, de la Loire-Atlantique, du Loiret, de Maine-et-Loire, de la Sarthe, des Deux-Sèvres, de la Vendée, de la Vienne et de Vaucluse.

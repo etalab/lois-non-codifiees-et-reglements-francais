@@ -22,6 +22,7 @@
 - [Décret n°84-1110 du 11 décembre 1984](decret-n84-1110-du-11-decembre-1984)
 - [Décret n°85-426 du 12 avril 1985](decret-n85-426-du-12-avril-1985)
 - [Décret n°85-209 du 14 février 1985](decret-n85-209-du-14-fevrier-1985)
+- [Décret n°85-46 du 14 janvier 1985](decret-n85-46-du-14-janvier-1985)
 - [Décret n°84-644 du 17 juillet 1984](decret-n84-644-du-17-juillet-1984)
 - [Décret n°85-350 du 19 mars 1985](decret-n85-350-du-19-mars-1985)
 - [Décret n°85-623 du 19 juin 1985](decret-n85-623-du-19-juin-1985)
