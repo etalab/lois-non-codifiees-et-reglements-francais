@@ -69,7 +69,6 @@
 - [Décret n°73-502 du 21 mai 1973](decret-n73-502-du-21-mai-1973)
 - [Décret n°73-1004 du 22 octobre 1973](decret-n73-1004-du-22-octobre-1973)
 - [Décret n°73-1008 du 22 octobre 1973](decret-n73-1008-du-22-octobre-1973)
-- [Décret n°73-1060 du 22 novembre 1973](decret-n73-1060-du-22-novembre-1973)
 - [Décret n°73-176 du 22 février 1973](decret-n73-176-du-22-fevrier-1973)
 - [Décret n°73-224 du 22 février 1973](decret-n73-224-du-22-fevrier-1973)
 - [Décret n°73-184 du 23 février 1973](decret-n73-184-du-23-fevrier-1973)
