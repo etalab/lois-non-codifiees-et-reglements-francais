@@ -1,4 +1,4 @@
-# Arrêté du 27 février 1986 portant attribution d'indemnités aux commissaires enquêteurs chargés de conduire les enquêtes préalables à la déclaration d'utilité publique des opérations entrant dans le champ d'application de la loi n° 83-630 du 12 juillet 1983.
+# Arrêté du 27 février 1986 portant attribution d'indemnités aux commissaires enquêteurs assurant les fonctions prévues au code de l'expropriation pour cause d'utilité publique par les procédures d'enquêtes préalables de droit commun et parcellaires.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
