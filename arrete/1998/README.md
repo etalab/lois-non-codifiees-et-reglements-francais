@@ -537,7 +537,6 @@
 - [Arrêté du 16 juillet 1998 (ECOL9800099A)](arrete-du-16-juillet-1998-ecol9800099a)
 - [Arrêté du 16 juillet 1998 (ECOT9816274A)](arrete-du-16-juillet-1998-ecot9816274a)
 - [Arrêté du 16 juillet 1998 (ECOT9816276A)](arrete-du-16-juillet-1998-ecot9816276a)
-- [Arrêté du 16 juillet 1998 (EQUA9800964A)](arrete-du-16-juillet-1998-equa9800964a)
 - [Arrêté du 16 juillet 1998 (MCCB9800513A)](arrete-du-16-juillet-1998-mccb9800513a)
 - [Arrêté du 16 juillet 1998 (MCCB9800514A)](arrete-du-16-juillet-1998-mccb9800514a)
 - [Arrêté du 16 juillet 1998 (MENS9801964A)](arrete-du-16-juillet-1998-mens9801964a)
