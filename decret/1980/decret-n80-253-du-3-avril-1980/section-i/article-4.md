@@ -1,0 +1,15 @@
+# Article 4
+
+Peuvent, selon les modalités prévues aux articles L. 819 et suivants du code de la santé publique, être promus au grade de surveillant ou de surveillante :
+
+1) Dans les services médicaux autres que ceux visés au 2e ci-dessous, les infirmiers et les infirmières spécialisés, les infirmiers et les infirmières diplômés d'Etat ou autorisés, les pédicures diplômes d'Etat ou autorisés, les puéricultrices diplômées d'Etat, les masseurs-kinésithérapeutes diplômés d'Etat ou autorisés, les ergothérapeutes diplômes d'Etat et les psychorééducateurs diplômés d'Etat.
+
+Dans les centres hospitaliers spécialisés en psychiatrie et dans les services psychiatriques des centres hospitaliers généraux, peuvent aussi être promus en qualité de surveillant ou de surveillante les chefs et cheftaines d'unités de soins et les infirmiers et infirmières titulaires du diplôme d'infirmier ou d'infirmière de secteur psychiatrique (les chefs et cheftaines d'unités de soins bénéficiant d'une priorité) ainsi que les agents intégrés dans l'emploi d'ergothérapeute en application de l'article 35 ci-dessous.
+
+Les surveillants et les surveillantes titulaires du diplôme d'Etat de pédicure ou d'une autorisation d'exercer, du diplôme d'Etat de masseur-kinésithérapeute ou d'une autorisation d'exercer, du diplôme d'Etat de psychorééducateur ou du diplôme d'Etat d'ergothérapeute ainsi que les surveillants et surveillantes issus de l'emploi d'ergothérapeute dans lequel ils ont été intégrés en application de l'article 35 ci-dessous sont chargés respectivement de l'encadrement des pédicures, des masseurs-kinésithérapeutes, des psychorééducateurs ou des ergothérapeutes.
+
+2) Dans les services de pédiatrie, les puéricultrices diplômées d'Etat.
+
+Pour être promus au grade de surveillant ou de surveillante, les agents énumérés au présent article doivent avoir accompli huit années au moins de services effectifs en qualité de titulaire ou de stagiaire dans l'un des emplois visés aux articles 8, 9, 13, 14, 15, 16 et 17.
+
+Toutefois, la durée minimum de services prévue à l'alinéa précédent est ramenée, d'une part, à trois ans en faveur des agents titulaires du grade de chef et de cheftaine d'unités de soins et, d'autre part, à cinq ans pour les agents titulaires soit du certificat d'aptitude aux fonctions d'infirmier surveillant ou d'infirmière surveillante, soit du certificat d'aptitude aux fonctions d'infirmier moniteur ou d'infirmière monitrice institués par le décret n° 58-1104 du 14 novembre 1958 modifié, soit du certificat de cadre infirmier institué par le décret n° 75-928 du 9 octobre 1975, soit du certificat de cadre infirmier de secteur psychiatrique institué par l'arrêté du 22 juillet 1976, soit du certificat de masseur-kinésithérapeute moniteur institué par le décret n° 67-652 du 25 juillet 1967, soit du certificat de moniteur cadre de masso-kinésithérapie institué par le décret n° 76-862 du 6 septembre 1976, soit du certificat de moniteur de formation professionnelle du personnel soignant de secteur psychiatrique institué par l'arrêté du 6 mai 1970.

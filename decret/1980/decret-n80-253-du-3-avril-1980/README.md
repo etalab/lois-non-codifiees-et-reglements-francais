@@ -1,0 +1,16 @@
+# Décret n°80-253 du 3 avril 1980 relatif au statut particulier de certains agents des services médicaux des établissements d'hospitalisation publics et de certains établissements à caractère social.
+
+- [Article 1](article-1.md)
+- [Section I : personnel d'encadrement des services médicaux](section-i)
+- [Section II : personnel infirmier](section-ii)
+- [Section III : pédicures](section-iii)
+- [Section IV : puéricultrices](section-iv)
+- [Section V : masseurs-kinésithérapeutes](section-v)
+- [Section VI : ergothérapeutes](section-vi)
+- [Section VII : psychorééducateurs](section-vii)
+- [Section VIII : orthophonistes](section-viii)
+- [Section IX : orthoptistes](section-ix)
+- [Section X : diététiciens](section-x)
+- [Section XI : dispositions communes](section-xi)
+- [Section XII : dispositions transitoires](section-xii)
+- [Article 37](article-37.md)
