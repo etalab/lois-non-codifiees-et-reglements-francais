@@ -1,0 +1,7 @@
+# Article 4
+
+L'autorité administrative compétente exerce, postérieurement à la réception des travaux, un contrôle sur les terrains ayant fait l'objet d'une subvention pour les travaux visés à l'article 1er (1° et 2°), pendant une durée de quinze ans à compter du 31 décembre de l'année de la décision attribuant l'aide.
+
+Le bénéficiaire de l'aide ou ses ayants cause sont tenus de rembourser tout ou partie de l'aide reçue, actualisée sur la base de l'indice annuel des prix à la consommation de l'ensemble des ménages, et majoré de 25 %, s'il est constaté, pendant cette période, que les travaux et entretiens indispensables à la bonne fin de l'opération n'ont pas été exécutés. Le calcul du reversement de l'aide se fait au prorata des surfaces ou longueurs sur lesquelles le non-respect des engagements a été constaté. Lorsque les seuils minimaux de réalisation fixés au niveau régional ne sont plus respectés, le remboursement de la totalité de l'aide est exigé.
+
+Il en va de même dans le cas d'une aide attribuée sous condition d'un engagement de non-démembrement de l'unité de gestion forestière, lorsque les conditions exigées cessent d'être remplies. Il en va également de même dans les autres cas, lorsque la parcelle ayant bénéficié de l'aide est soit détournée de sa destination forestière, soit divisée, à moins que la division ne résulte d'une opération d'utilité publique, d'un remembrement, ou d'autres causes expressément prévues par le code forestier.
