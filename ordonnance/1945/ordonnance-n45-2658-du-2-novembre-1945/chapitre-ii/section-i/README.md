@@ -1,0 +1,3 @@
+# SECTION I : DES ETRANGERS RESIDENTS TEMPORAIRES.
+
+- [Article 12](article-12.md)
