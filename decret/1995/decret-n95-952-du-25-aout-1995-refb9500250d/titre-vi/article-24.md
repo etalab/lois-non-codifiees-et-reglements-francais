@@ -1,3 +1,5 @@
 # Article 24
 
 Sont intégrés, à la date d'effet du présent décret, en qualité de titulaires dans le cadre d'emplois des contrôleurs territoriaux de travaux, les agents de maîtrise territoriaux principaux qui se trouvent à ladite date soit en position d'activité, soit en position de détachement, de disponibilité, hors cadres, de congé parental ou mis à disposition d'une organisation syndicale en application de l'article 100 de la loi du 26 janvier 1984 susvisée.
+
+" Toutefois, les agents de maîtrise territoriaux principaux qui sont, à la date de publication du présent décret, inscrits sur la liste d'aptitude d'accès au cadre d'emplois des techniciens territoriaux établie en application des dispositions du 2° de l'article 39 de la loi du 26 janvier 1984 susvisée ont la faculté de demander que leur intégration dans le cadre d'emplois des contrôleurs territoriaux de travaux soit différée jusqu'à l'expiration de la validité de la liste d'aptitude sur laquelle ils sont inscrits ou jusqu'à leur titularisation dans le cadre d'emplois des techniciens territoriaux. La demande doit être adressée par écrit à l'autorité territoriale. "

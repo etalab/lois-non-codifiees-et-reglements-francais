@@ -58,7 +58,7 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <td> : 13e échelon            :      -       :       -      :</td>
 </tr>
 <tr>
-<td> : 12e échelon            : 4 ans        : 4 ans        :</td>
+<td> : 12e échelon            : 4 ans        : 3 ans        :</td>
 </tr>
 <tr>
 <td> : 11e échelon            : 3 ans        : 2 ans 6 mois :</td>
