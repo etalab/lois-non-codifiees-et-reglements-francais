@@ -28,7 +28,6 @@
 - [Arrêté du 1 septembre 1994 (TEFE9401045A)](arrete-du-1-septembre-1994-tefe9401045a)
 - [Arrêté du 2 août 1994 (COMA9400018A)](arrete-du-2-aout-1994-coma9400018a)
 - [Arrêté du 2 août 1994 (ECOT9420016A)](arrete-du-2-aout-1994-ecot9420016a)
-- [Arrêté du 2 août 1994 (SANP9402600A)](arrete-du-2-aout-1994-sanp9402600a)
 - [Arrêté du 2 décembre 1994 (COMA9400016A)](arrete-du-2-decembre-1994-coma9400016a)
 - [Arrêté du 2 décembre 1994 (MCCB9400584A)](arrete-du-2-decembre-1994-mccb9400584a)
 - [Arrêté du 2 février 1994 (ECOT9451328A)](arrete-du-2-fevrier-1994-ecot9451328a)
