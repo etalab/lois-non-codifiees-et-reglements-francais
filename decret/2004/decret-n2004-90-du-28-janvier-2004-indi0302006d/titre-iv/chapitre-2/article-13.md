@@ -1,0 +1,3 @@
+# Article 13
+
+Un redevable ou contributeur, qui supporte par ailleurs des charges imputables aux missions de service public de l'électricité et qui a souscrit la déclaration prévue à l'article 5, peut, par dérogation au III de l'article 10 et au II de l'article 11, s'abstenir de verser ses contributions sur le compte spécifique tenu par la Caisse des dépôts et consignations si son compte particulier est créditeur. Toutefois, il est tenu d'adresser l'état récapitulatif ou la déclaration mentionnés respectivement aux articles 10 et 11, dans le délai indiqué, à la Commission de régulation de l'énergie et à la Caisse des dépôts et consignations.

@@ -4,7 +4,7 @@ Le conseil d'école de l'Ecole nationale supérieure des télécommunications co
 
 Un membre de droit : le directeur de l'école.
 
-Quatorze membres nommés par arrêté du ministre chargé des télécommunications, dont :
+Quatorze membres nommés par le président du conseil d'administration du groupe des écoles des télécommunications après avis conforme du conseil d'administration, dont :
 
 - un représentant du conseil général des technologies de l'information, sur proposition du vice-président du conseil général des technologies de l'information ;
 
