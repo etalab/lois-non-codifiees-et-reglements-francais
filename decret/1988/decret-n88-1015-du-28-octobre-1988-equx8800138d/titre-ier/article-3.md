@@ -1,12 +1,14 @@
 # Article 3
 
-Le conseil est présidé par le Premier ministre. Celui-ci désigne deux vice-présidents parmi les maires membres du conseil.
+" Le conseil est présidé par le Premier ministre et en son absence par le ministre chargé de la ville. Deux vice-présidents sont désignés parmi les maires membres du conseil.
 
-Le conseil comprend les membres énumérés ci-après : [*composition*]    1° Vingt élus titulaires de mandats nationaux ou locaux désignés par le Premier ministre ;
+" Le conseil comprend les membres énumérés ci-après :
 
-2° Vingt-cinq personnalités qualifiées désignées par le Premier ministre ;
+" 1° Trente-cinq élus titulaires de mandats nationaux ou locaux désignés par le Premier ministre sur proposition du ministre chargé de la ville ;
 
-3° Les ministres ou secrétaires d'Etat respectivement chargés de l'éducation nationale, de l'économie et des finances, de l'urbanisme, du logement, de la justice, de l'intérieur, des transports, du travail, de l'emploi, de la formation professionnelle, de la culture, des départements et territoires d'outre-mer, de la solidarité, de la santé, de la protection sociale, du budget, de l'aménagement du territoire, du commerce et de l'artisanat, du Plan, de l'environnement, de la jeunesse et des sports.
+" 2° Trente-cinq personnalités qualifiées désignées par le Premier ministre, sur proposition du ministre chargé de la ville ;
+
+" 3° Les ministres ou secrétaires d'Etat respectivement chargés de l'éducation nationale, de l'économie et des finances, de la fonction publique, des affaires étrangères, de la ville, de la justice, de la défense, de l'intérieur, du travail, de l'emploi, de la formation professionnelle, de la culture, de l'urbanisme et du logement, des transports, des départements et territoires d'outre-mer, des affaires sociales et de la solidarité, de l'environnement, du budget, de l'aménagement du territoire, du commerce et de l'artisanat, de la santé, du plan, de la jeunesse et des sports, de la famille. "
 
 Les ministres et secrétaires d'Etat peuvent se faire représenter.
 
