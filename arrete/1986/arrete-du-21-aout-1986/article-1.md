@@ -1,3 +1,3 @@
 # Article 1
 
-Les demandes d'autorisation des centrales thermiques produisant de l'énergie électrique et utilisant exclusivement ou principalement des combustibles pétroliers sont déposées auprès des directeurs régionaux de l'industrie et de la recherche, qui en accusent réception.
+Les intéressés peuvent s'acquitter des droits de chancellerie visés à l'article 1er du décret du 30 décembre 1957 susvisé, par l'équivalent de la somme en timbres fiscaux de la série unique.

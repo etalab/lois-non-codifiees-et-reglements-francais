@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur régional de l'industrie et de la recherche adresse ses propositions motivées au ministre chargé de l'électricité sous le timbre de la direction du gaz, de l'électricité et du charbon.
+Le directeur de l'office français de protection des réfugiés et apatrides est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française et prendra effet à compter du jour de sa publication.

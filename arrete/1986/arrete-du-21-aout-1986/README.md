@@ -1,9 +1,4 @@
-# Arrêté du 21 août 1986 relatif aux demandes d'autorisation des centrales thermiques produisant de l'énergie électrique et utilisant exclusivement ou principalement des combustibles pétroliers
+# Arrêté du 21 août 1986 fixant les conditions d'application de l'article 2 du décret n° 57-1352 du 30 décembre 1957 affectant au budget général le produit des droits de chancellerie perçus par l'Office français de protection des réfugiés et apatrides
 
 - [Article 1](article-1.md)
-- [Article 2](article-2.md)
 - [Article 3](article-3.md)
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)
-- [Article 7](article-7.md)
