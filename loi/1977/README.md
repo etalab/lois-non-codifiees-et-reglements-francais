@@ -13,6 +13,7 @@
 - [Loi n° 77-574 du 7 juin 1977](loi-n-77-574-du-7-juin-1977)
 - [Loi n° 77-6 du 3 janvier 1977](loi-n-77-6-du-3-janvier-1977)
 - [Loi n° 77-616 du 16 juin 1977](loi-n-77-616-du-16-juin-1977)
+- [Loi n° 77-620 du 16 juin 1977](loi-n-77-620-du-16-juin-1977)
 - [Loi n°75-1349 du 31 décembre 1975](loi-n75-1349-du-31-decembre-1975)
 - [Loi n°76-660 du 19 juillet 1976](loi-n76-660-du-19-juillet-1976)
 - [Loi n°76-663 du 19 juillet 1976](loi-n76-663-du-19-juillet-1976)
