@@ -1,0 +1,7 @@
+# Article 15
+
+Les rémunérations payées aux stagiaires par leurs employeurs en application des articles 8 et 10 de la loi susvisée du 31 décembre 1968 ainsi que les cotisations sociales y afférentes leur sont remboursées, sur demande adressée au préfet du département où l'entreprise a son siège social, ou, en ce qui concerne les stages effectués dans un établissement ou centre de formation relevant du ministère de l'agriculture ou faisant l'objet d'une convention conclue au nom de l'Etat par le ministre de l'agriculture, au centre national pour l'aménagement des structures des exploitations agricoles. Les sommes remboursées sont liquidées et payées comme il est dit aux articles 11, 12 et 13 ci-dessus. Toutefois, le paiement peut avoir lieu à échéances autres que mensuelles.
+
+En ce qui concerne les stages définis au 2° de l'article 2 de la loi susvisée du 31 décembre 1968, la fraction des rémunérations versées aux stagiaires par leurs employeurs, que l'Etat prend en charge, est déterminée dans chaque cas par la convention qui crée le stage, dans les limites fixées par le groupe permanent de hauts concessionnaires institué par l'article 3 de la loi susvisée du 3 décembre 1966. Elle ne peut dépasser 55 p. 100.
+
+En ce qui concerne les stages définis au 3° de l'article 2 susmentionné, le remboursement, égal au montant de la rémunération prévue au bénéfice des travailleurs sans contrat de travail, n'est dû que si le salaire versé est au moins égal à ladite rémunération.

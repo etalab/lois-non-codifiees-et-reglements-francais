@@ -1,0 +1,7 @@
+# Article 6
+
+Lorsque les rémunérations dues aux travailleurs et aux personnes assimilées qui suivent un stage défini au 1° de l'article 2 de la loi susvisée du 31 décembre 1968 sont établies sur la base du salaire qu'ils percevaient dans leur dernier emploi, ce salaire est égal à la moyenne des salaires perçus au cours des trois derniers mois de travail précédant soit la rupture du contrat de travail, soit la date d'entrée en stage, calculés sur la base de la durée légale hebdomadaire du travail. Sont exclues les majorations pour heures supplémentaires ainsi que les primes et indemnités qui, n'ayant pas le caractère d'un complément de salaire, n'entrent pas en compte pour le calcul des cotisations de sécurité sociale.
+
+Lorsque lesdites rémunérations sont établies sur la base du salaire minimum interprofessionnel garanti, le nombre d'heures à retenir pour calculer les sommes dues aux stagiaires est celui qui correspond à la durée légale du travail.
+
+Le revenu professionnel sur lequel est calculée la rémunération due aux stagiaires travailleurs non-salariés des professions non-agricoles, en vertu de l'article 4 (3°) de la loi susvisée du 31 décembre 1968, est égale à la valeur médiane de la tranche de revenu professionnel net servant d'assiette pour le calcul de la cotisation obligatoire au régime d'assurance maladie institué par la loi susvisée du 12 juillet 1966. Toutefois, pour les travailleurs classés dans la tranche la plus élevée, le revenu forfaitaire est égal à 115 p. 100 de la valeur maximum de la tranche immédiatement inférieure.

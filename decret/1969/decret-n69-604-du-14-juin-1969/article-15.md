@@ -1,0 +1,3 @@
+# Article 15
+
+Le ministre d'Etat chargé des affaires sociales, le ministre de l'économie et des finances, le ministre de l'éducation nationale, le ministre de l'industrie, le ministre de l'agriculture, le secrétaire d'Etat auprès du Premier ministre, chargé de la fonction publique, le secrétaire d'Etat auprès du Premier ministre chargé des départements et territoires d'outre-mer, le secrétaire d'Etat aux affaires sociales, le secrétaire d'Etat à l'économie et aux finances et le secrétaire d'Etat à l'éducation nationale sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui prendra effet le 1er octobre 1969 et sera publié au Journal officiel de la République française.
