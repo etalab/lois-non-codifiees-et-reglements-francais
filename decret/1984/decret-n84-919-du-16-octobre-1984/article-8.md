@@ -11,3 +11,5 @@ La convention comporte obligatoirement les clauses suivantes [*mentions obligato
 Elle doit comporter en annexe, s'il y a lieu, le compte rendu des consultations auxquelles la personne organisatrice aura procédé.
 
 La convention est conforme à une convention type déterminée par décret.
+
+Lorsque les travaux d'utilité collective [*TUC*] se poursuivent en application des dispositions de l'alinéa 2 de l'article 4 du présent décret, cette convention est modifiée conformément à un avenant type déterminé par décret.
