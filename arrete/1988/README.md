@@ -403,7 +403,6 @@
 - [Arrêté du 28 avril 1988 (INTA8800168A)](arrete-du-28-avril-1988-inta8800168a)
 - [Arrêté du 28 avril 1988 (PTTC8800399A)](arrete-du-28-avril-1988-pttc8800399a)
 - [Arrêté du 28 avril 1988 (PTTT8800402A)](arrete-du-28-avril-1988-pttt8800402a)
-- [Arrêté du 28 avril 1988 (STFX8810297A)](arrete-du-28-avril-1988-stfx8810297a)
 - [Arrêté du 28 décembre 1987 (ASET8703930A)](arrete-du-28-decembre-1987-aset8703930a)
 - [Arrêté du 28 janvier 1988 (AGRP8800204A)](arrete-du-28-janvier-1988-agrp8800204a)
 - [Arrêté du 28 janvier 1988 (MDSC8800042A)](arrete-du-28-janvier-1988-mdsc8800042a)
