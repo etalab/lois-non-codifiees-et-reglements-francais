@@ -3,6 +3,7 @@
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
+- [Annexes](annexes)
 - [Délivrance des permis.](delivrance-des-permis)
 - [Demande de permis de conduire.](demande-de-permis-de-conduire)
 - [Dispositions transitoires.](dispositions-transitoires)

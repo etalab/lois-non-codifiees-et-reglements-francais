@@ -1,0 +1,5 @@
+# Article 7
+
+Un permis de conduire les véhicules de la catégorie A tricycles et quadricycles à moteur, spécialement aménagés pour tenir compte du handicap physique du conducteur, valable seulement pour la conduite des voiturettes à moteur dites de " mutilés " (tricycles et quadricycles à moteur dont la cylindrée ne dépasse pas 125 cm3) peut être accordé aux conducteurs desdites voiturettes de mutilés sur le vu d'un certificat médical favorable délivré par la commission médicale départementale compétente attestant qu'ils ne sont pas atteints d'incapacités physiques autres que celles concernant les membres.
+
+Le permis de conduire les véhicules de la catégorie E est accordé aux conducteurs titulaires d'un permis de conduire les véhicules de la catégorie B (ou les véhicules de la catégorie B spécialement aménagés pour tenir compte du handicap physique du conducteur) sur le vu d'un certificat médical attestant qu'ils ne sont pas atteints d'une affection susceptible d'être incompatible avec l'obtention ou le maintien du permis de conduire les véhicules de ces catégories ; mention en est portée sur le permis.

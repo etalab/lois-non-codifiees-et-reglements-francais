@@ -1,0 +1,3 @@
+# Article 64
+
+Les avis des instances d'évaluation de l'I.N.S.E.R.M. requis pour les recrutements et les promotions de chercheurs donnés conformément aux dispositions du décret du 17 janvier 1980 susvisé sont valables si la décision du directeur général n'est pas intervenue à la date de publication du présent décret, pour l'accès à l'échelon ou au grade des corps de chargés de recherche ou de directeurs de recherche créés par le présent décret et correspondant, en application des tableaux de la section II du chapitre Ier du présent titre, aux catégories de chercheurs au titre desquels ces avis ont été recueillis.

@@ -1,0 +1,3 @@
+# Article 5
+
+Les commissions scientifiques spécialisées siègent en formation plénière lorsqu'elles sont appelées, en exécution des articles 9, 10, 11, 18, 19 et 69 ci-après, à donner un avis concernant un fonctionnaire appartenant au corps de chargés de recherche, ou une appréciation sur les titres et travaux requis pour l'accès à ce corps. Elles siègent en formation restreinte aux membres appartenant au corps de directeurs de recherche ou aux membres d'un rang égal à celui de directeurs de recherche, lorsqu'elles sont appelées, en exécution des articles 13, 14, 18, 19 et 69 ci-après, à donner un avis concernant un fonctionnaire appartenant au corps de directeurs de recherche ou une appréciation sur les titres et travaux requis pour l'accès à ce corps.
