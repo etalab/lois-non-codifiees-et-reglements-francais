@@ -31,6 +31,7 @@
 - [Décret n°78-728 du 11 juillet 1978](decret-n78-728-du-11-juillet-1978)
 - [Décret n°78-737 du 11 juillet 1978](decret-n78-737-du-11-juillet-1978)
 - [Décret n°78-1155 du 12 décembre 1978](decret-n78-1155-du-12-decembre-1978)
+- [Décret n°78-1159 du 12 décembre 1978](decret-n78-1159-du-12-decembre-1978)
 - [Décret n°78-533 du 12 avril 1978](decret-n78-533-du-12-avril-1978)
 - [Décret n°78-632 du 12 juin 1978](decret-n78-632-du-12-juin-1978)
 - [Décret n°78-761 du 12 juillet 1978](decret-n78-761-du-12-juillet-1978)
