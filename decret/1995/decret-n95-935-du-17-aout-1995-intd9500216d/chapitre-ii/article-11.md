@@ -6,4 +6,4 @@ Les documents justificatifs de l'exploitation effective et continue de l'autoris
 
 1° Copie des déclarations de revenus et des avis d'imposition pour la période concernée ;
 
-2° Carte professionnelle validée annuellement lorsque le titulaire de l'autorisation exploite celle-ci personnellement ou document justificatif d'une exploitation par un salarié ou un locataire.
+2° Carte professionnelle validée pour cinq ans lorsque le titulaire de l'autorisation qui exploite celle-ci personnellement est âgé de moins de soixante-ans, pour deux ans s'il a entre soixante et soixante-seize ans, ou document justificatif d'une exploitation par un salarié ou un locataire.

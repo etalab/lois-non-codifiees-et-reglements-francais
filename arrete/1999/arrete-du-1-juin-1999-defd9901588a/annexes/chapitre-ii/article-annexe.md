@@ -46,7 +46,7 @@ Le délai séparant les épreuves théoriques des épreuves pratiques doit être
 
 2.6. Les licences peuvent être délivrées ou renouvelées si leurs titulaires :
 
-- produisent un certificat d'aptitude physique et mentale délivré pendant le mois en cours ou le mois précédent dans les conditions prévues par l'arrêté visé au paragraphe 2.4. Lorsqu'une durée de validité est fixée à un certificat d'aptitude physique et mentale, la durée de validité de la licence correspondante ne peut dépasser l'échéance prescrite par l'autorité médicale ;
+- produisent un certificat d'aptitude physique et mentale délivré pendant le mois en cours ou le mois précédent dans les conditions prévues par l'arrêté visé au paragraphe 2.4. Les licences viennent à expiration le dernier jour du sixième mois (pour la spécialité de pilote) ou du douzième mois (pour les autres spécialités) qui suit le mois au cours duquel la validité de la licence a été établie ou renouvelée. Lorsqu'une durée de validité inférieure à six mois pour les spécialités de pilote et un an pour les autres spécialités est fixée à un certificat d'aptitude physique et mentale, l'échéance de validité de la licence correspondante ne peut dépasser l'échéance prescrite par l'autorité médicale ;
 
 - remplissent les conditions d'aptitude professionnelle précisées aux paragraphes suivants pour chaque licence.
 

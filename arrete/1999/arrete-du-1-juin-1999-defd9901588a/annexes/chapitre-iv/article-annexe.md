@@ -24,7 +24,7 @@ Pour obtenir la licence de pilote d'essais expérimental d'avions, le candidat d
 
 8° Etre titulaire de la qualification de radiotéléphonie internationale prévue par arrêté interministériel ;
 
-9° Etre titulaire de la qualification de vol aux instruments essais réceptions avions.
+9° Etre titulaire de la qualification de vol aux instruments et avoir suivi la formation au travail en équipage MCC.
 
 4.1.2. Privilèges du titulaire de la licence.
 
@@ -64,7 +64,7 @@ Pour obtenir la licence de pilote d'essais expérimental d'hélicoptères, le ca
 
 8° Etre titulaire de la qualification de radiotéléphonie internationale prévue par arrêté interministériel ;
 
-9° Etre titulaire de la qualification de vol aux instruments essais-réceptions hélicoptères.
+9° Etre titulaire de la qualification de vol aux instruments et avoir suivi la formation au travail en équipage MCC.
 
 4.2.2. Privilèges du titulaire de la licence.
 
@@ -106,7 +106,7 @@ Pour obtenir la licence de pilote d'essais d'avions, le candidat doit, en outre,
 
 8° Etre titulaire de la qualification de radiotéléphonie internationale prévue par arrêté interministériel ;
 
-9° Etre titulaire de la qualification de vol aux instruments essais-réceptions avions.
+9° Etre titulaire de la qualification de vol aux instruments et avoir suivi la formation au travail en équipage MCC.
 
 La licence de pilote d'essais d'avions est limitée à la catégorie avions de transport lorsque le brevet comporte cette mention.
 
@@ -146,7 +146,7 @@ Pour obtenir la licence de pilote d'essais d'hélicoptères, le candidat doit, e
 
 8° Etre titulaire de la qualification de radiotéléphonie internationale prévue par arrêté interministériel ;
 
-9° Etre titulaire de la qualification de vol aux instruments essais-réceptions hélicoptères.
+9° Etre titulaire de la qualification de vol aux instruments et avoir suivi la formation au travail en équipage MCC.
 
 4.4.2. Privilèges du titulaire de la licence.
 
@@ -182,7 +182,7 @@ Pour obtenir la licence de pilote d'essais d'avions légers, le candidat doit, e
 
 7° Etre titulaire de la qualification de radiotéléphonie internationale prévue par arrêté interministériel ;
 
-8° Etre titulaire de la qualification de vol aux instruments essais-réceptions ou de la qualification de vol aux instruments du transport et du travail aérien.
+8° Etre titulaire de la qualification de vol aux instruments ;
 
 4.5.2. Privilèges du titulaire de la licence.
 
