@@ -1121,7 +1121,6 @@
 - [Arrêté du 31 janvier 2003 (ECOM0200993A)](arrete-du-31-janvier-2003-ecom0200993a)
 - [Arrêté du 31 janvier 2003 (MENS0300178A)](arrete-du-31-janvier-2003-mens0300178a)
 - [Arrêté du 31 juillet 1989 (ECOT8926028A)](arrete-du-31-juillet-1989-ecot8926028a)
-- [Arrêté du 31 juillet 2003 (DEFA0301964A)](arrete-du-31-juillet-2003-defa0301964a)
 - [Arrêté du 31 juillet 2003 (DEFP0301570A)](arrete-du-31-juillet-2003-defp0301570a)
 - [Arrêté du 31 juillet 2003 (ECOC0300072A)](arrete-du-31-juillet-2003-ecoc0300072a)
 - [Arrêté du 31 juillet 2003 (ECOT0310483A)](arrete-du-31-juillet-2003-ecot0310483a)
