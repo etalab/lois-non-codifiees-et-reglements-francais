@@ -24,4 +24,4 @@ Le préfet de la région Champagne-Ardenne ;
 
 Le préfet de la région Lorraine ;
 
-Le préfet de la région Alsace, ou leur représentant.
+Le préfet de la région Alsace, ou leur représentant [*composition, nombre*].
