@@ -4,7 +4,7 @@ Pour l'application des articles 2, 3 et 4 du présent arrêté :
 
 1° a) Pour les opérations mentionnées à l'article R. 331-63 (1° e 3°) du code de la construction et de l'habitation, la surface prise en compte est la surface habitable au sens de l'article R. 111-2 dudit code, majorée de la moitié des surfaces annexes, y compris celle des garages.
 
-Pour les logements bénéficiant de places de stationnement dans un garage collectif, la moitié de surface de garage mentionnée ci-dessus est limitée forfaitairement à dix mètres carrés par place d stationnement.
+" Pour l'application de l'alinéa précédent, pour les logements bénéficiant de places de stationnement dans un garage collectif, la surface de garage à prendre en compte est celle de la moitié de sa surface, y compris les voies de circulation internes, plafonnée forfaitairement à dix mètres carrés par place de stationnement. "
 
 b) Pour les opérations mentionnées à l'article R. 331-63 (2°) du code de la construction et de l'habitation, la surface prise en compte est la surface habitable au sens de l'article R. 111-2 dudit code.
 

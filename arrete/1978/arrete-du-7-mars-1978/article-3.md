@@ -1,11 +1,11 @@
 # Article 3
 
-Le prix final d'un logement réalisé par une personne physique accédant à la propriété assurant elle-même la maîtrise d'ouvrage ne peut dépasser :
+" Le prix de revient final ou le prix de vente final des opérations prévues à l'article R. 331-63 (3°) du code de la construction et de l'habitation ne peut dépasser :
 
-" 10 670 F le mètre carré en zone I ;
+" 8 750 F le mètre carré en zone I ;
 
-"  8 800 F le mètre carré en zone II ;
+" 7 300 F le mètre carré en zone II ;
 
-"  7 670 F le mètre carré en zone III.
+" 5 700 F le mètre carré en zone III.
 
-" Toutefois, cette valeur est portée à 13 540 F pour les logements situés dans la commune de Paris et les communes énumérées à l'article 2 ci-dessus. "
+" Toutefois, cette valeur est porté à 12 000 F dans la commune de Paris et les communes mentionnées à l'article 2 ci-dessus. "

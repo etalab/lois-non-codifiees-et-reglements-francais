@@ -1,11 +1,25 @@
 # Article 2
 
-Le prix de vente, toutes taxes comprises, d'un logement neuf ou acquis et amélioré, en secteur groupé, ne peut dépasser à la date de conclusion de la vente :
+" Le prix de vente d'un logement neuf en secteur groupé ou le prix final en secteur diffus d'un logement neuf réalisé par une personne physique accédant à la propriété assurant elle-même la maîtrise d'ouvrage ne peut dépasser, toutes taxes comprises, les montants fixés au mètre carré dans le tableau ci-après :
 
-" 11 700 F le mètre carré en zone I ;
+ZONES géographiques : I
 
-"  9 750 F le mètre carré en zone II ;
+SECTEUR GROUPÉ Prix de vente (1) (en francs) : 12 900
 
-"  8 790 F le mètre carré en zone III.
+SECTEUR DIFFUS Prix de revient final (en francs) : 11 750
 
-" Toutefois, cette valeur est portée à 14 850 F dans la commune de Paris et les communes suivantes : Aubervilliers, Bagnolet, Boulogne-Billancourt, Charenton-le-Pont, Clichy, Fontenay-sous-Bois, Gentilly, Issy-les-Moulineaux, Ivry-sur-Seine, Joinville-le-Pont, Le Kremlin-Bicêtre, Les Lilas, Le Pré-Saint-Gervais, Levallois-Perret, Malakoff, Montreuil, Montrouge, Neuilly-sur-Seine, Nogent-sur-Marne, Pantin, Puteaux, Saint-Cloud, Saint-Denis, Saint-Mandé, Saint-Maurice, Saint-Ouen, Suresnes, Vanves, Vincennes.
+ZONES géographiques : II
+
+SECTEUR GROUPÉ Prix de vente (1) (en francs) : 10 800
+
+SECTEUR DIFFUS Prix de revient final (en francs) : 9 700
+
+ZONES géographiques : III
+
+SECTEUR GROUPÉ Prix de vente (1) (en francs) : 8 790
+
+SECTEUR DIFFUS Prix de revient final (en francs) : 7 670
+
+(1) A la date de conclusion de la vente.
+
+" Toutefois, ces valeurs sont portées à 16 350 F en secteur groupé et 14 900 F en secteur diffus dans la commune de Paris et les communes suivantes : Aubervilliers, Bagnolet, Boulogne-Billancourt, Charenton-le-Pont, Clichy, Fontenay-sous-Bois, Gentilly, Issy-les-Moulineaux, Ivry-sur-Seine, Joinville-le-Pont, Le Kremlin-Bicêtre, Les Lilas, Le Pré-Saint-Gervais, Levallois-Perret, Malakoff, Montreuil, Montrouge, Neuilly-sur-Seine, Nogent-sur-Marne, Pantin, Puteaux, Saint-Cloud, Saint-Denis,

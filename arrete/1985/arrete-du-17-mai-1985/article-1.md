@@ -9,3 +9,5 @@ Est autorisé, pour l'épluchage chimique des fruits et légumes destinés à la
 - solution aqueuse d'orthophosphate diammonique, sous réserve que les conditions fixées ci-après soient respectées.
 
 - potasse diluée (hydroxyde de potassium) à 50 p. 100.
+
+L'emploi d'urée diluée est autorisé pour l'épluchage chimique des légumes-racines et des pommes de terre destinés à la mise en conserve.
