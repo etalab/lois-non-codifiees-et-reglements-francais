@@ -50,7 +50,6 @@
 - [Décret n°73-138 du 12 février 1973](decret-n73-138-du-12-fevrier-1973)
 - [Décret n°73-137 du 13 février 1973](decret-n73-137-du-13-fevrier-1973)
 - [Décret n°73-170 du 13 février 1973](decret-n73-170-du-13-fevrier-1973)
-- [Décret n°73-193 du 13 février 1973](decret-n73-193-du-13-fevrier-1973)
 - [Décret n°73-278 du 13 mars 1973](decret-n73-278-du-13-mars-1973)
 - [Décret n°73-649 du 13 juillet 1973](decret-n73-649-du-13-juillet-1973)
 - [Décret n°73-276 du 14 mars 1973](decret-n73-276-du-14-mars-1973)

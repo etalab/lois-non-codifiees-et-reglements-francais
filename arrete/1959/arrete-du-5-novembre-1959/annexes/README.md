@@ -8,4 +8,3 @@
 - [Personnel de service](personnel-de-service)
 - [Service des sports](service-des-sports)
 - [Services administratifs](services-administratifs)
-- [Services techniques](services-techniques)

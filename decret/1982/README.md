@@ -142,7 +142,6 @@
 - [Décret n°82-719 du 16 août 1982](decret-n82-719-du-16-aout-1982)
 - [Décret n°82-722 du 16 août 1982](decret-n82-722-du-16-aout-1982)
 - [Décret n°82-817 du 16 septembre 1982](decret-n82-817-du-16-septembre-1982)
-- [Décret n°82-962 du 16 novembre 1982](decret-n82-962-du-16-novembre-1982)
 - [Décret n°82-970 du 16 novembre 1982](decret-n82-970-du-16-novembre-1982)
 - [Décret n°82-1079 du 17 décembre 1982](decret-n82-1079-du-17-decembre-1982)
 - [Décret n°82-1084 du 17 décembre 1982](decret-n82-1084-du-17-decembre-1982)
