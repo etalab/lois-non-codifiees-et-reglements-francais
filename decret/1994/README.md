@@ -448,7 +448,6 @@
 - [Décret n°94-163 du 16 février 1994 (INTB9400003D)](decret-n94-163-du-16-fevrier-1994-intb9400003d)
 - [Décret n°94-491 du 16 juin 1994 (BUDZ9400001D)](decret-n94-491-du-16-juin-1994-budz9400001d)
 - [Décret n°94-695 du 16 août 1994 (SPSS9400920D)](decret-n94-695-du-16-aout-1994-spss9400920d)
-- [Décret n°94-698 du 16 août 1994 (JUSC9420693D)](decret-n94-698-du-16-aout-1994-jusc9420693d)
 - [Décret n°94-701 du 16 août 1994 (EQUU9401279D)](decret-n94-701-du-16-aout-1994-equu9401279d)
 - [Décret n°94-718 du 16 août 1994 (SPSS9402118D)](decret-n94-718-du-16-aout-1994-spss9402118d)
 - [Décret n°94-811 du 16 septembre 1994 (FPPX9400118D)](decret-n94-811-du-16-septembre-1994-fppx9400118d)
