@@ -6,6 +6,7 @@
 - [Décret n°54-883 du 2 septembre 1954](decret-n54-883-du-2-septembre-1954)
 - [Décret n°54-801 du 5 août 1954](decret-n54-801-du-5-aout-1954)
 - [Décret n°54-1080 du 6 novembre 1954](decret-n54-1080-du-6-novembre-1954)
+- [Décret n°54-1229 du 6 décembre 1954](decret-n54-1229-du-6-decembre-1954)
 - [Décret n°54-135 du 6 février 1954](decret-n54-135-du-6-fevrier-1954)
 - [Décret n°54-802 du 6 août 1954](decret-n54-802-du-6-aout-1954)
 - [Décret n°54-611 du 11 juin 1954](decret-n54-611-du-11-juin-1954)
