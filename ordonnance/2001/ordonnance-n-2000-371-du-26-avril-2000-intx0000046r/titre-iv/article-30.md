@@ -4,7 +4,7 @@ L'administrateur supérieur peut, par arrêté motivé, décider qu'un étranger
 
 1° Si l'étranger ne peut justifier être entré régulièrement dans les îles Wallis et Futuna, à moins qu'il ne soit titulaire d'un titre de séjour en cours de validité ;
 
-2° Si l'étranger s'est maintenu dans les îles Wallis et Futuna au-delà de la durée de validité de son visa, ou de la durée de séjour autorisée sans visa, sans être titulaire d'un premier titre de séjour régulièrement délivré ;
+2° Si l'étranger s'est maintenu dans les îles Wallis et Futuna au-delà de la durée de validité de son visa, ou de la durée de séjour autorisée sans visa, sans être titulaire d'un premier titre de séjour régulièrement délivré ou si, pendant la durée de validité de son visa ou pendant la période de trois mois précitée, son comportement a constitué une menace pour l'ordre public ;
 
 3° Si l'étranger, auquel la délivrance ou le renouvellement d'un titre de séjour a été refusé ou dont le titre de séjour a été retiré, s'est maintenu sur le territoire au-delà du délai d'un mois à compter de la date de notification du refus ou du retrait ;
 

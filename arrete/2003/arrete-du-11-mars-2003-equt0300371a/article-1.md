@@ -1,0 +1,3 @@
+# Article 1
+
+L'entreprise de transport public routier de marchandises ou de location de véhicules industriels avec conducteur destinés au transport de marchandises, inscrite au registre des transporteurs et des loueurs, qui effectue des transports internationaux ou de cabotage sous le couvert d'une licence communautaire doit, lorsqu'elle emploie ou utilise des conducteurs ressortissants d'un Etat tiers à l'Espace économique européen, demander au préfet de la région (direction régionale de l'équipement) où elle est inscrite la délivrance d'une attestation de conducteur pour chacun de ces conducteurs.

@@ -1,0 +1,5 @@
+# Article 9-1
+
+Pour l'application des dispositions des articles 5 et 7 à l'une des personnes mentionnées au b de l'article 1er ou des dispositions de l'article 6-1 à l'un de leurs agents, l'autorité administrative délivre l'autorisation ou l'agrément au vu des conditions et garanties exigées, pour l'exercice des mêmes activités, par la législation et la réglementation de l'Etat membre de la Communauté européenne ou de l'Etat partie à l'accord sur l'Espace économique européen dans lequel cette personne est établie, dès lors que les justifications produites en vertu de cette législation et de cette réglementation sont regardées comme équivalentes à celles qui sont exigées en vertu du présent titre.
+
+Lorsqu'il est fondé sur la méconnaissance des conditions et garanties visées à l'alinéa précédent, le retrait de l'autorisation ou de l'agrément prononcé par les autorités de l'Etat membre de la Communauté européenne ou de l'Etat partie à l'accord sur l'Espace économique européen dans lequel la personne est établie entraîne le retrait de l'autorisation ou de l'agrément accordé sur le fondement du présent titre.

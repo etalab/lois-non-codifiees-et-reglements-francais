@@ -1,0 +1,3 @@
+# Article 106
+
+Le décret en Conseil d'Etat prévu au 7° de l'article 22 et au 5° de l'article 23 de la loi n° 83-629 du 12 juillet 1983 précitée fixe les conditions dans lesquelles une personne exerçant une activité mentionnée à l'article 20 de cette loi informe ses salariés de la nécessité de se mettre en conformité avec les exigences d'aptitude professionnelle posées par ce décret ainsi que les conditions dans lesquelles, dans un délai de deux ans à compter de la publication dudit décret, les dirigeants, les personnes exerçant à titre individuel et les salariés doivent obtenir les titres requis ou, en raison de l'exercice continu de leur profession, pendant une durée déterminée, la reconnaissance d'une aptitude équivalente.

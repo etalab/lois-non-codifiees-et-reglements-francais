@@ -1,0 +1,3 @@
+# Article 125
+
+En Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et à Mayotte, sera punie d'un emprisonnement de deux ans au plus et d'une amende de 37 500 Euros au plus, ou de sa contre-valeur en monnaie locale, ou de l'une de ces deux peines seulement, toute personne qui aura frauduleusement supprimé, masqué, altéré ou modifié de façon quelconque les noms, signatures, monogrammes, lettres, chiffres, numéros de série, emblèmes, signes de toute nature apposés ou intégrés sur ou dans les marchandises et servant à les identifier de manière physique ou électronique. Seront punis des mêmes peines les complices de l'auteur principal.
