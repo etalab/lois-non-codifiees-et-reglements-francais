@@ -2,7 +2,7 @@
 
 Après l'épreuve prévue à l'article 7 ci-dessus, le concours comprend :
 
-- dans les sections de sciences économiques et de sciences de gestion, deux leçons après préparation en loge pendant huit heures , sauf dans la section de sciences économiques ;
+- dans les sections de sciences économiques et de sciences de gestion, deux leçons après préparation en loge pendant huit heures , sauf dans la section de sciences économiques, et dans celle des sciences de gestion  ;
 
 - dans la section de science politique, trois leçons après préparation en loge pendant huit heures ;
 

@@ -4,22 +4,20 @@ A partir du deuxième concours de sciences de gestion organisé après la public
 
 1° Pour l'admissibilité, une leçon, après une préparation en loge, destinée à vérifier les connaissances générales du candidat dans le domaine des sciences de gestion.
 
-2° Pour l'admission :
+2°  Pour l'admission, une leçon, après une préparation en  loge, comportant un exposé relatif à l'exploitation d'un dossier portant  sur une des matières suivantes, choisie par le candidat lors de son  inscription au concours :
 
-a) Une leçon, après une préparation en loge, comportant le commentaire d'un dossier de décision portant sur une des matières suivantes, choisie par le candidat lors de son inscription au concours :
+- comptabilité et contrôle ;
 
-Gestion comptable ;
+- finance ;
 
-Gestion financière ;
+- marketing ;
 
-Méthodes quantitatives appliquées à la gestion ;
+- gestion des ressources humaines ;
 
-Gestion des systèmes d'information ;
+- gestion de production et logistique ;
 
-Gestion commerciale et mercatique ;
+- gestion des systèmes d'information et de communication ;
 
-Droit et fiscalité des entreprises ;
+- gestion juridique et fiscale ;
 
-Gestion des personnels et relations professionnelles et sociales.
-
-b) Une leçon après une préparation libre comportant le commentaire d'un dossier de politique générale et structure des organisations.
+- management stratégique.
