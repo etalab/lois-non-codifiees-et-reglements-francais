@@ -1,3 +1,0 @@
-# Article 19
-
-Pour l'application des dispositions des articles L. 241-7, L. 244-2 et L. 246-1 du code de commerce, les mots : "société d'exercice libéral à responsabilité limitée", "société d'exercice libéral à forme anonyme" et "société d'exercice libéral par actions simplifiée" et les initiales "SELARL", "SELAFA" et "SELAS" sont substitués aux mots : "société à responsabilité limitée", "société anonyme" et "société par actions simplifiée" et aux initiales "SARL", "SA" et "SAS", ainsi que les mots : "société d'exercice libéral en commandite par actions" ou les initiales "SELCA" aux mots : "société en commandite par actions".

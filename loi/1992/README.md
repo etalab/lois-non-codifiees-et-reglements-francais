@@ -74,7 +74,6 @@
 - [Loi n° 92-675 du 17 juillet 1992 (TEFX9200057L)](loi-n-92-675-du-17-juillet-1992-tefx9200057l)
 - [Loi n° 92-678 du 20 juillet 1992 (MENX9200016L)](loi-n-92-678-du-20-juillet-1992-menx9200016l)
 - [Loi n° 92-9 du 4 janvier 1992 (DEFX9100121L)](loi-n-92-9-du-4-janvier-1992-defx9100121l)
-- [Loi n°90-1258 du 31 décembre 1990 (JUSX9000026L)](loi-n90-1258-du-31-decembre-1990-jusx9000026l)
 - [Loi n°92-1255 du 2 décembre 1992 (EQUX9200028L)](loi-n92-1255-du-2-decembre-1992-equx9200028l)
 - [Loi n°92-496 du 9 juin 1992 (MERX9200047L)](loi-n92-496-du-9-juin-1992-merx9200047l)
 - [Loi n°92-645 du 13 juillet 1992 (TOUX9100006L)](loi-n92-645-du-13-juillet-1992-toux9100006l)
