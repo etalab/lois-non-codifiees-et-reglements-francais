@@ -603,7 +603,6 @@
 - [Décret n°98-394 du 20 mai 1998 (MENF9800751D)](decret-n98-394-du-20-mai-1998-menf9800751d)
 - [Décret n°96-1000 du 21 novembre 1996 (ECOT9651554D)](decret-n96-1000-du-21-novembre-1996-ecot9651554d)
 - [Décret n°96-1002 du 21 novembre 1996 (TASE9611614D)](decret-n96-1002-du-21-novembre-1996-tase9611614d)
-- [Décret n°96-1003 du 21 novembre 1996 (TASS9622924D)](decret-n96-1003-du-21-novembre-1996-tass9622924d)
 - [Décret n°96-1020 du 21 novembre 1996 (DEFP9602097D)](decret-n96-1020-du-21-novembre-1996-defp9602097d)
 - [Décret n°96-1021 du 21 novembre 1996 (AGRE9602033D)](decret-n96-1021-du-21-novembre-1996-agre9602033d)
 - [Décret n°96-133 du 21 février 1996 (DOMP9600007D)](decret-n96-133-du-21-fevrier-1996-domp9600007d)
