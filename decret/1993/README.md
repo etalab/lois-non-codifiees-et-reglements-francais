@@ -394,7 +394,6 @@
 - [Décret n°93-856 du 15 juin 1993 (MAEJ9330017D)](decret-n93-856-du-15-juin-1993-maej9330017d)
 - [Décret n°93-857 du 15 juin 1993 (MAEJ9330018D)](decret-n93-857-du-15-juin-1993-maej9330018d)
 - [Décret n°93-858 du 15 juin 1993 (DOMP9300020D)](decret-n93-858-du-15-juin-1993-domp9300020d)
-- [Décret n°93-88 du 15 janvier 1993 (MJSK9270172D)](decret-n93-88-du-15-janvier-1993-mjsk9270172d)
 - [Décret n°93-904 du 15 juillet 1993 (PRMX9300543D)](decret-n93-904-du-15-juillet-1993-prmx9300543d)
 - [Décret n°93-911 du 15 juillet 1993 (JUSX9300013D)](decret-n93-911-du-15-juillet-1993-jusx9300013d)
 - [Décret n°93-926 du 15 juillet 1993 (INDB9300444D)](decret-n93-926-du-15-juillet-1993-indb9300444d)
