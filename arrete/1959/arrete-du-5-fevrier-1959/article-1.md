@@ -10,4 +10,6 @@ Laboratoire central de la préfecture de police (LCPP) ;
 
 Société nationale des poudres et explosifs (SNPE) ;
 
-Institut national de l'environnement industriel et des risques (INERIS).
+Institut national de l'environnement industriel et des risques (INERIS) ;
+
+Institut textile de France (ITF).
