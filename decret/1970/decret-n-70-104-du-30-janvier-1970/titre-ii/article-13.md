@@ -1,0 +1,7 @@
+# Article 13
+
+Lorsqu'une rente servie par les caisses autonomes mutualistes a été constituée au cours de périodes affectées de taux de majorations différents, en application de la loi du 4 mai 1948 modifiée, les majorations s'appliquent aux fractions respectives de rente correspondant aux versements effectués pendant chacune des périodes ouvrant droit à majoration.
+
+Toutefois, lorsque la rente résulte d'un contrat à versements périodiques souscrit à compter du 1er janvier 1977 et qui, pour sa période de constitution, ouvre droit à majoration en vertu des dispositions du VII de l'article 22 de la loi du 29 décembre 1976, le taux de majoration pour une période donnée s'applique à la fraction de la rente totale constituée durant cette période, cette fraction étant égale au rapport du montant des cotisations versées pendant la période considérée au montant total des versements effectués.
+
+Les dispositions de l'alinéa précédent sont applicables aux rentes de survie quelle que soit la date de souscription du contrat ; toutefois, pour les rentes de survie résultant de contrats d'assurance temporaire souscrits à compter du 1er janvier 1977 ou résultant d'adhésions à des contrats collectifs reçues à partir de cette date et dont les titulaires ne sont pas bénéficiaires de l'une des allocations instituées par la loi n° 75-334 du 30 juin 1975 d'orientation en faveur des personnes handicapées, les rentes seront considérées comme ayant pris naissance à la date de leur mise en service.
