@@ -21,6 +21,7 @@
 - [Décret n°78-72 du 20 janvier 1978](decret-n78-72-du-20-janvier-1978)
 - [Décret n°77-1536 du 21 décembre 1977](decret-n77-1536-du-21-decembre-1977)
 - [Décret n°78-206 du 21 février 1978](decret-n78-206-du-21-fevrier-1978)
+- [Décret n°78-78 du 25 janvier 1978](decret-n78-78-du-25-janvier-1978)
 - [Décret n°77-1465 du 28 décembre 1977](decret-n77-1465-du-28-decembre-1977)
 - [Décret n°77-1475 du 28 décembre 1977](decret-n77-1475-du-28-decembre-1977)
 - [Décret n°77-1480 du 28 décembre 1977](decret-n77-1480-du-28-decembre-1977)
