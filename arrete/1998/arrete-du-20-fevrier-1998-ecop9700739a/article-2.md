@@ -14,11 +14,13 @@ Bureau D 4. - Produits d'origine végétale : fruits et légumes frais et transf
 
 Sous-direction E : santé, industrie, commerce
 
-Bureau E 1. - Santé : suivi des marchés des médicaments, de la parapharmacie ; tarif interministériel des prestations de santé (TIPS) ; professions de santé ; hébergement des personnes âgées ; relations de la direction avec l'Agence française de sécurité sanitaire des produits de santé.
+Bureau E 1. - Santé : suivi des marchés des médicaments et de s dispositifs médicaux, de la pharmacie ; professions de santé ; hébergement des personnes âgées.
 
 Bureau E 2. - Biens d'équipement, relations interindustrielles et BTP : biens d'équipement ; biens intermédiaires ; BTP ; informatique, matériels électriques ; aires de jeux ; bricolage.
 
 Bureau E 3. - Biens de consommation : autos et cycles, électroménager et électronique grand public, textiles et cuirs, meubles, parfumerie, jouets, livres, disques, autres biens de consommation ; contrefaçons.
+
+Bureau E 4. - Commerce et artisanat : suivi et réglementation de l'activité commerciale ; urbanisme commercial (suivi des commissions départementales d'équipement commercial et préparation de la Commission nationale d'équipement commercial) ; paracommercialisme ; foires et salons ; relations commerciales entre producteurs et distributeurs ; services de proximité ; hôtellerie et restauration.
 
 Sous-direction F : services et réseaux
 
