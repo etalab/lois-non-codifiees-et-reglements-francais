@@ -555,7 +555,6 @@
 - [Décret n°94-1110 du 20 décembre 1994 (INDG9401430D)](decret-n94-1110-du-20-decembre-1994-indg9401430d)
 - [Décret n°94-1115 du 20 décembre 1994 (ACVE9450015D)](decret-n94-1115-du-20-decembre-1994-acve9450015d)
 - [Décret n°94-1117 du 20 décembre 1994 (INTB9400395D)](decret-n94-1117-du-20-decembre-1994-intb9400395d)
-- [Décret n°94-1118 du 20 décembre 1994 (INTB9400396D)](decret-n94-1118-du-20-decembre-1994-intb9400396d)
 - [Décret n°94-1119 du 20 décembre 1994 (INTA9400468D)](decret-n94-1119-du-20-decembre-1994-inta9400468d)
 - [Décret n°94-314 du 20 avril 1994 (JUSB9410134D)](decret-n94-314-du-20-avril-1994-jusb9410134d)
 - [Décret n°94-493 du 20 juin 1994 (TEFT9400437D)](decret-n94-493-du-20-juin-1994-teft9400437d)
