@@ -101,7 +101,6 @@
 - [Arrêté du 6 juillet 1989 (MERR8900135A)](arrete-du-6-juillet-1989-merr8900135a)
 - [Arrêté du 6 juin 1989 (SPSP8901199A)](arrete-du-6-juin-1989-spsp8901199a)
 - [Arrêté du 6 juin 1989 (SPSP8901200A)](arrete-du-6-juin-1989-spsp8901200a)
-- [Arrêté du 6 mars 1989 (SPSH8900450A)](arrete-du-6-mars-1989-spsh8900450a)
 - [Arrêté du 6 mars 1989 (SPSM8801477A)](arrete-du-6-mars-1989-spsm8801477a)
 - [Arrêté du 6 mars 1989 (TEFF8903220A)](arrete-du-6-mars-1989-teff8903220a)
 - [Arrêté du 6 novembre 1989 (AGRB8902450A)](arrete-du-6-novembre-1989-agrb8902450a)
