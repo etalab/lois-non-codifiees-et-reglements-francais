@@ -375,7 +375,6 @@
 - [Arrêté du 17 novembre 1987 (TRST8700419A)](arrete-du-17-novembre-1987-trst8700419a)
 - [Arrêté du 17 novembre 1987 (TRST8700420A)](arrete-du-17-novembre-1987-trst8700420a)
 - [Arrêté du 17 octobre 1984](arrete-du-17-octobre-1984)
-- [Arrêté du 17 octobre 1986](arrete-du-17-octobre-1986)
 - [Arrêté du 17 septembre 1987 (ASEH8701321A)](arrete-du-17-septembre-1987-aseh8701321a)
 - [Arrêté du 17 septembre 1987 (DEFP8701719A)](arrete-du-17-septembre-1987-defp8701719a)
 - [Arrêté du 17 septembre 1987 (DEFP8701720A)](arrete-du-17-septembre-1987-defp8701720a)

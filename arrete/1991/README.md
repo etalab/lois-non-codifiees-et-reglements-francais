@@ -1018,7 +1018,6 @@
 - [Arrêté du 29 juillet 1991 (SPSS9101748A)](arrete-du-29-juillet-1991-spss9101748a)
 - [Arrêté du 29 mars 1978](arrete-du-29-mars-1978)
 - [Arrêté du 29 mars 1991 (ENVN9161136A)](arrete-du-29-mars-1991-envn9161136a)
-- [Arrêté du 29 mars 1991 (INTE9100201A)](arrete-du-29-mars-1991-inte9100201a)
 - [Arrêté du 29 mars 1991 (SANH9100884A)](arrete-du-29-mars-1991-sanh9100884a)
 - [Arrêté du 29 mars 1991 (SPSS9100898A)](arrete-du-29-mars-1991-spss9100898a)
 - [Arrêté du 29 novembre 1991 (AGRG9100252A)](arrete-du-29-novembre-1991-agrg9100252a)
