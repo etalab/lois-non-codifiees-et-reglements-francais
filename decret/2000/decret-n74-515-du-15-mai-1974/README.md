@@ -4,4 +4,5 @@
 - [TITRE 1 : Dispositions générales.](titre-1)
 - [TITRE II : Des médecins des armées](titre-ii)
 - [TITRE III : Des pharmaciens chimistes des armées](titre-iii)
+- [TITRE III bis : Des vétérinaires biologistes des armées](titre-iii-bis)
 - [TITRE IV : Dispositions diverses et dispositions transitoires.](titre-iv)
