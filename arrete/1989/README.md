@@ -236,7 +236,6 @@
 - [Arrêté du 12 octobre 1989 (SPSS8902068A)](arrete-du-12-octobre-1989-spss8902068a)
 - [Arrêté du 12 septembre 1989 (SPSH8901871A)](arrete-du-12-septembre-1989-spsh8901871a)
 - [Arrêté du 12 septembre 1989 (TEFT8903722A)](arrete-du-12-septembre-1989-teft8903722a)
-- [Arrêté du 12 mai 1989 (INTB8900231A)](arrete-du-12-mai-1989-intb8900231a)
 - [Arrêté du 13 avril 1989 (ACVA8910030A)](arrete-du-13-avril-1989-acva8910030a)
 - [Arrêté du 13 avril 1989 (ECOT8916070A)](arrete-du-13-avril-1989-ecot8916070a)
 - [Arrêté du 13 avril 1989 (MERG8900030A)](arrete-du-13-avril-1989-merg8900030a)
