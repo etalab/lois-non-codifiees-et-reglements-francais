@@ -323,4 +323,3 @@
 - [Décret n°82-1247 du 31 décembre 1982](decret-n82-1247-du-31-decembre-1982)
 - [Décret n°82-1248 du 31 décembre 1982](decret-n82-1248-du-31-decembre-1982)
 - [Décret n°83-260 du 31 mars 1983](decret-n83-260-du-31-mars-1983)
-- [Décret n°83-270 du 31 mars 1983](decret-n83-270-du-31-mars-1983)
