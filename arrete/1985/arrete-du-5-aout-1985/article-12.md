@@ -1,3 +1,5 @@
 # Article 12
 
-Pour couvrir l'ensemble des frais entraînés par la facturation et le recouvrement des créances effectuées pour le compte de l'abonné au service, l'administration conserve 9 p. 100 des sommes dues à celui-ci.
+Les agents visés à l'article 11 ci-dessus peuvent demander leur inscription sur la liste d'aptitude dans les limites suivantes :
+
+Groupe 1 : classes C-2, C-1 ; Groupe 2 : classes C-2, C-1, C, B-1.

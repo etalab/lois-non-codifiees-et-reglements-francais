@@ -1,5 +1,3 @@
 # Article 3
 
-La mise à disposition des lignes téléphoniques disposant du système de surtaxation spécifique donne lieu au paiement de frais forfaitaires d'accès d'un montant de 1.600 F par ligne, lorsque le commutateur de rattachement appartient à la circonscription de taxe de l'abonné.
-
-Le recouvrement est effectué par tranches bimestrielles de respectivement 600, 500 et 500 F.
+En cas de réclamation formulée dans un délai de quinze jours, à compter de la publication [*point de départ*] de la liste d'aptitude au Journal officiel de la République française, la commission peut, dans les conditions prévues à l'article 2, procéder à des inscriptions ou à des radiations sur cette liste.

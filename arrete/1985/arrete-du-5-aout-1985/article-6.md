@@ -1,7 +1,23 @@
 # Article 6
 
-Un régime d'abonnement temporaire est admis lorsque le commutateur téléphonique de rattachement de l'abonné, au sens de l'article D. 321 du code des postes et télécommunications, dispose des équipements spécifiques de surtaxation.
+Pour pouvoir être inscrits sur la liste d'aptitude, les candidats doivent justifier avoir occupé dans un organisme ou service visé à l'article 1er du décret n° 60-452 du 12 mai 1960 ou à l'article 1er de l'ordonnance n° 67-706 du 21 août 1967, un emploi dont l'échelle de début est au moins égale à l'échelle 12 des employés administratifs des sociétés de secours minières ou des unions régionales, pendant une durée qui ne pourra être inférieure à celles ci-après fixées, pour chacune des classes de la liste :
 
-La tarification applicable dans ce cas est de 800 F de frais forfaitaires d'accès et de 500 F d'abonnement par semaine et par ligne.
+Classe C-2 :  6 ans ;
 
-La transformation d'un abonnement temporaire en abonnement permanent est possible, moyennant paiement d'une taxe supplémentaire de 800 F. La durée minimale d'abonnement prévue à l'article 5 court à partir du jour de transformation de l'abonnement.
+Classe C-1 :  7 ans ;
+
+Classe C :  8 ans ;
+
+Classe B-1 :  8 ans ;
+
+Classe B :  10 ans ;
+
+Classe A-1 :  10 ans ;
+
+Classe A :  12 ans.
+
+En outre, une durée minimum d'exercice de fonctions dans un emploi de direction ou d'agent comptable pourra être fixée par la commission pour pouvoir être inscrit dans la classe supérieure.
+
+La durée de la scolarité passée au Centre national d'études supérieures de sécurité sociale est prise en compte pour sa durée effective pour le calcul de l'ancienneté fixée ci-dessus.
+
+Pour les personnes visées au II de l'article 7 ci-dessous, les durées fixées ci-dessus sont réduites de quatre ans.

@@ -1,7 +1,23 @@
 # Article 10
 
-Tous les six mois, il est procédé à un examen du trafic observé portant sur cette période.
+Les agents de direction et les agents comptables relevant des classes ci-dessous indiquées peuvent demander leur inscription sur la liste d'aptitude dans les limites qui suivent :
 
-Le montant de la redevance d'abonnement permanent prévu à l'article 4 est réduit de moitié pour cette période de six mois si lors de l'examen de celle-ci, il a été constaté, pour une ligne isolée ou un faisceau de lignes, au titre de l'article 9 et pour les seuls appels ayant donné lieu à surtaxation effective, une recette moyenne comprise entre 2.000 et 3.000 unités de taxe par mois et par ligne.
+Agents appartenant à :
 
-Il n'est pas perçu de redevance d'abonnement lorsque, dans les mêmes conditions, la recette moyenne est supérieure à 3.000 unités de taxe, par mois et par ligne.
+Classe C-2 : C-1 - C
+
+Classe C : B-1 - B - A-1
+
+Classe B : A-1 - A
+
+Classe C-1 : C - B-1
+
+Classe B-1 : B - A-1
+
+Classe A-1 : A.
+
+Les personnes nommées agents de direction ou agents comptables après inscription en 2e section de la liste d'aptitude ne pourront demander une inscription dans la classe supérieure qu'à la condition d'avoir effectué une ou plusieurs sessions de perfectionnement au Centre national d'études supérieures de sécurité sociale d'une durée minimum de six semaines au total.
+
+En outre, les personnes nommées agents de direction ou agents comptables après inscription en 2e section de la liste d'aptitude au titre de la classe C-2 ne pourront demander une inscription dans la classe supérieure qu'après trois ans d'ancienneté dans leur emploi.
+
+Toutefois, les agents de direction agréés après inscription dans la classe C-2 seront considérés relever de la classe C-1 à compter de la date de publication au Journal officiel de la liste d'aptitude sur laquelle ils auront été inscrits dans la classe C-1.
