@@ -12,6 +12,6 @@ Doivent être portés sans délai à la connaissance du ministre de la défense 
 
 - l'identité ou les qualités juridiques d'une ou plusieurs des personnes visées à l'article 9 ci-dessus, notamment leur nationalité.
 
-2° Toutes cessions d'actions ou de parts sociales susceptibles de transférer à des ressortissants étrangers le contrôle de la société.
+2° Toutes cessions d'actions ou de parts sociales susceptibles de transférer à des ressortissants étrangers le contrôle des entreprises visées au c du II de l'article 9 du présent décret et à des ressortissants d'autres Etats que les Etats membres de la Communauté européenne ou les Etats parties à l'accord sur l'Espace économique européen le contrôle des entreprises visées au b du II du même article.
 
 3° La cessation totale ou partielle de l'activité autorisée.

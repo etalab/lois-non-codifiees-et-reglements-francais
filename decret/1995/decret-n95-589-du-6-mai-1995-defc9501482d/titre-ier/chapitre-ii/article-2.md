@@ -88,7 +88,7 @@ B. - Armes et éléments d'arme, munitions et éléments de munition non consid�
 
 4e catégorie : Armes à feu dites de défense et leurs munitions dont l'acquisition et la détention sont soumises à autorisation :
 
-I. - Paragraphe 1 : Armes de poing non comprises dans la 1re catégorie à l'exclusion de celles à percussion annulaire à un coup dont la longueur totale est supérieure à 28 centimètres, ainsi que des pistolets et revolvers de starter et d'alarme.
+I. - Paragraphe 1 : Armes de poing non comprises dans la 1re catégorie, à l'exclusion des pistolets et revolvers de starter et d'alarme.
 
 Figurent dans cette catégorie les armes de poing à grenaille y compris celles à percussion annulaire à un coup dont la longueur totale est supérieure à 28 centimètres.
 
@@ -106,13 +106,13 @@ Paragraphe 6 : Armes d'épaule à canon lisse, à répétition ou semi-automatiq
 
 Paragraphe 7 : Armes d'épaule à répétition dont le magasin ou le chargeur peut contenir plus de dix cartouches.
 
-Paragraphe 8 : Armes d'épaule à répétition à canon lisse munies d'un dispositif de rechargement à pompe dont le chargeur ou le magasin peut contenir plus de cinq cartouches.
+Paragraphe 8 : Armes d'épaule à répétition à canon lisse munies d'un dispositif de rechargement à pompe.
 
 Paragraphe 9 : Armes semi-automatiques ou à répétition ayant l'apparence d'une arme automatique de guerre quel qu'en soit le calibre.
 
 Paragraphe 10 : Armes à feu camouflées sous la forme d'un autre objet.
 
-Paragraphe 11 : Eléments d'arme (mécanismes de fermeture, canons, chambres, barillets) des armes de la présente catégorie, à l'exclusion de ceux d'entre eux qui sont aussi des éléments d'armes classées en 5e ou 7e catégorie.
+Paragraphe 11 : Eléments d'arme (mécanismes de fermeture, canons, chambres, barillets) des armes de la présente catégorie, à l'exclusion de ceux d'entre eux qui sont aussi des éléments d'armes classées en 5e ou 7e catégorie ;
 
 Paragraphe 12 : Munitions à projectiles métalliques à l'usage des armes de la présente catégorie, à l'exception des munitions classées par arrêté conjoint des ministres de la défense et de l'intérieur et des ministres chargés de l'industrie et des douanes dans la 5e ou la 7e catégorie.
 
@@ -120,7 +120,7 @@ Eléments de munition (douilles, douilles amorcées, douilles chargées, douille
 
 II. - Paragraphe 1 : Armes dont le projectile est propulsé par des gaz ou de l'air comprimé classées dans cette catégorie par arrêté conjoint des ministres de la défense et de l'intérieur et des ministres chargés de l'industrie et des douanes.
 
-Paragraphe 2 : Armes à feu d'épaule et armes de poing fabriquées pour tirer une balle ou plusieurs projectiles non métalliques et classées dans cette catégorie par arrêté du ministre de la défense.
+Paragraphe 2 : Armes à feu d'épaule et armes de poing fabriquées pour tirer une balle ou plusieurs projectiles non métalliques et classées dans cette catégorie par arrêté du ministre de la défense ;
 
 Munitions pourvues des mêmes projectiles classées par le même arrêté.
 
@@ -130,7 +130,7 @@ III. - Paragraphe 1 : Matériels de vision nocturne ou par conditions de visibil
 
 IV. - Paragraphe 1 : Chargeurs des armes de 4e catégorie. Le régime applicable à ces chargeurs est fixé par arrêté conjoint des ministres de la défense et de l'intérieur et des ministres chargés de l'industrie, des douanes et de la jeunesse et des sports.
 
-5e catégorie : Armes de chasse et leurs munitions :
+5e catégorie : Armes de chasse et leurs munitions.
 
 I. - Armes dont l'acquisition et la détention ne sont pas soumises à déclaration.
 
@@ -152,7 +152,7 @@ Paragraphe 4 : Eléments d'arme (mécanismes de fermeture, chambres, canons), de
 
 III. - Munitions, éléments de munition (douilles amorcées, douilles chargées, douilles amorcées et chargées) pour les armes de la présente catégorie et amorces pour toutes munitions d'armes d'épaule ou de poing. Leur acquisition et leur détention ne sont pas soumises à déclaration.
 
-6e catégorie : Armes blanches :
+6e catégorie : Armes blanches.
 
 Paragraphe 1 : Tous objets susceptibles de constituer une arme dangereuse pour la sécurité publique, et notamment les baïonnettes, sabres-baïonnettes, poignards, couteaux-poignards, matraques, casse-tête, cannes à épées, cannes plombées et ferrées, sauf celles qui ne sont ferrées qu'à un bout, arbalètes, fléaux japonais, étoiles de jets, coups de poing américains, lance-pierres de compétition, projecteurs hypodermiques.
 
@@ -182,7 +182,7 @@ Paragraphe 3 : Armes ou objets ayant l'apparence d'une arme, non classés dans l
 
 III. - Paragraphe 1 : Munitions, éléments de munition (douilles amorcées, douilles chargées, douilles amorcées et chargées) des munitions à l'usage des armes de la présente catégorie. Leur acquisition et leur détention ne sont pas soumises à déclaration.
 
-8e catégorie : Armes et munitions historiques et de collection.
+8e catégorie : Armes et munitions historiques et de collection :
 
 Paragraphe 1 : Armes dont le modèle et dont, sauf exception, l'année de fabrication sont antérieurs à des dates fixées par le ministre de la défense, sous réserve qu'elles ne puissent tirer des munitions classées dans la 1re ou la 4e catégorie ci-dessus ; munitions pour ces armes, sous réserve qu'elles ne contiennent pas d'autre substance explosive que de la poudre noire.
 
