@@ -1,10 +1,10 @@
 # Article 6
 
-Le conseil d'administration ne peut délibérer que si le nombre de membres présents est supérieur à dix.
+Le conseil d'administration ne peut délibérer valablement que si au moins onze membres sont présents ou représentés. En cas d'empêchement, un membre du conseil d'administration peut se faire représenter par un autre membre nommé ou élu au même titre que lui, sans que ce dernier puisse disposer, au cours d'une même séance, de plus d'un pouvoir.
 
-Toutefois, les décisions prises à la suite d'une nouvelle convocation dans un délai de vingt jours sont valables sans conditions de quorum.
+Si le quorum prévu à l'alinéa précédent n'est pas atteint, les décisions prises à la suite d'une nouvelle convocation, dans un délai de vingt jours, sont valables sans condition de quorum.
 
-Les délibérations sont prises à la majorité des voix des membres présents : en cas de partage, la voix du président est prépondérante [*conditions de majorité*].
+Les délibérations sont prises à la majorité des votes exprimés par les membres présents ou représentés ; en cas de partage, la voix du président est prépondérante.
 
 Le président peut également appeler à participer aux séances avec voix consultative toute personne dont il juge la présence utile pour l'étude d'un point particulier de l'ordre du jour.
 
