@@ -1,0 +1,3 @@
+# Article 12
+
+Sont réputés titulaires du certificat d'aptitude aux fonctions d'instituteur ou de professeur des écoles maître formateur, et confirmés dans les fonctions de maître participant à la formation des instituteurs et professeurs des écoles destinés à l'éducation spéciale dans les centres de préparation au certificat d'aptitude à l'éducation des enfants et adolescents déficients ou inadaptés ainsi que de maître chargé des travaux pratiques dans les centres de préparation au diplôme de psychologue scolaire, les instituteurs et professeurs des écoles nommés à ces fonctions à titre définitif à la date d'effet du présent décret.
