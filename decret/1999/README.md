@@ -108,6 +108,8 @@
 - [Décret n°99-88 du 10 février 1999 (MCCB9800934D)](decret-n99-88-du-10-fevrier-1999-mccb9800934d)
 - [Décret n°99-90 du 10 février 1999 (MAEX9800136D)](decret-n99-90-du-10-fevrier-1999-maex9800136d)
 - [Décret n°99-99 du 10 février 1999 (ATEN9860099D)](decret-n99-99-du-10-fevrier-1999-aten9860099d)
+- [Décret n°99-357 du 10 mai 1999 (DEFD9901430D)](decret-n99-357-du-10-mai-1999-defd9901430d)
+- [Décret n°99-358 du 10 mai 1999 (DEFD9901431D)](decret-n99-358-du-10-mai-1999-defd9901431d)
 - [Décret n°2000-407 du 10 mai 2000 (MESG0020769D)](decret-n2000-407-du-10-mai-2000-mesg0020769d)
 - [Décret n°99-101 du 11 février 1999 (MENF9803241D)](decret-n99-101-du-11-fevrier-1999-menf9803241d)
 - [Décret n°99-14 du 11 janvier 1999 (MENS9802654D)](decret-n99-14-du-11-janvier-1999-mens9802654d)

@@ -6,6 +6,8 @@
 - [Comité régional Bourgogne.](comite-regional-bourgogne)
 - [Comité régional Champagne.](comite-regional-champagne)
 - [Comité régional Cognac.](comite-regional-cognac)
+- [Comité régional du Sud-Ouest.](comite-regional-du-sud-ouest)
+- [Comité régional Languedoc-Roussillon.](comite-regional-languedoc-roussillon)
 - [Comité régional Provence-Corse.](comite-regional-provence-corse)
 - [Comité régional Vallée du Rhône.](comite-regional-vallee-du-rhone)
 - [Comité régional vins doux naturels.](comite-regional-vins-doux-naturels)
