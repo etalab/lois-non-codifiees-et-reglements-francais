@@ -2,10 +2,10 @@
 
 Le régime institué à l'article précédent est financé par :
 
-Des cotisations mises à la charge des gérants en fonctions et prélevées sur les remises allouées pour la vente des tabacs ;
+- des cotisations prélevées sur les remises allouées pour la vente des tabacs aux gérants en fonctions ;
 
-Une participation du fonds des redevances des débits de tabac égale au double de la cotisation des gérants ;
+- une participation du fonds des redevances des débits de tabac ;
 
-Les produits financiers procurés par les ressources du régime ;
+- les produits financiers procurés par les ressources du régime ;
 
-Des recettes diverses.
+- des recettes diverses.
