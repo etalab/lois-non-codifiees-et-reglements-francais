@@ -62,6 +62,7 @@
 - [Décret n°2000-621 du 5 juillet 2000 (MENE0001589D)](decret-n2000-621-du-5-juillet-2000-mene0001589d)
 - [Décret n°2000-622 du 5 juillet 2000 (MENE0001591D)](decret-n2000-622-du-5-juillet-2000-mene0001591d)
 - [Décret n°2000-639 du 5 juillet 2000 (MENF0000924D)](decret-n2000-639-du-5-juillet-2000-menf0000924d)
+- [Décret n°2000-216 du 6 mars 2000 (MENK0000420D)](decret-n2000-216-du-6-mars-2000-menk0000420d)
 - [Décret n°2000-498 du 6 juin 2000 (ECOF0010029D)](decret-n2000-498-du-6-juin-2000-ecof0010029d)
 - [Décret n°2000-499 du 6 juin 2000 (ECOI9920350D)](decret-n2000-499-du-6-juin-2000-ecoi9920350d)
 - [Décret n°2000-500 du 6 juin 2000 (AGRS0000740D)](decret-n2000-500-du-6-juin-2000-agrs0000740d)
