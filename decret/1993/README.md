@@ -266,7 +266,6 @@
 - [Décret n°94-29 du 11 janvier 1994 (EQUP9301560D)](decret-n94-29-du-11-janvier-1994-equp9301560d)
 - [Décret n°97-348 du 11 avril 1997 (INTA9700061D)](decret-n97-348-du-11-avril-1997-inta9700061d)
 - [Décret n°93-1160 du 12 octobre 1993 (BUDF9310089D)](decret-n93-1160-du-12-octobre-1993-budf9310089d)
-- [Décret n°93-1174 du 12 octobre 1993 (ECOU9300005D)](decret-n93-1174-du-12-octobre-1993-ecou9300005d)
 - [Décret n°93-1175 du 12 octobre 1993 (BUDF9310027D)](decret-n93-1175-du-12-octobre-1993-budf9310027d)
 - [Décret n°93-1243 du 12 novembre 1993 (EQUT9300026D)](decret-n93-1243-du-12-novembre-1993-equt9300026d)
 - [Décret n°93-201 du 12 février 1993 (BUDF9200045D)](decret-n93-201-du-12-fevrier-1993-budf9200045d)

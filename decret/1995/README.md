@@ -822,7 +822,6 @@
 - [Décret n°95-1316 du 22 décembre 1995 (ECOT9513831D)](decret-n95-1316-du-22-decembre-1995-ecot9513831d)
 - [Décret n°95-184 du 22 février 1995 (PRMX9500649D)](decret-n95-184-du-22-fevrier-1995-prmx9500649d)
 - [Décret n°95-186 du 22 février 1995 (INTX9500661D)](decret-n95-186-du-22-fevrier-1995-intx9500661d)
-- [Décret n°95-216 du 22 février 1995 (ECOU9500001D)](decret-n95-216-du-22-fevrier-1995-ecou9500001d)
 - [Décret n°95-217 du 22 février 1995 (BUDR9504230D)](decret-n95-217-du-22-fevrier-1995-budr9504230d)
 - [Décret n°95-314 du 22 mars 1995 (SPSP9500663D)](decret-n95-314-du-22-mars-1995-spsp9500663d)
 - [Décret n°95-317 du 22 mars 1995 (DEFP9501225D)](decret-n95-317-du-22-mars-1995-defp9501225d)
