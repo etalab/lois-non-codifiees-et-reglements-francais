@@ -102,6 +102,8 @@ Les sommes affectées à ces fonds sont versées sur un compte unique ouvert dan
 
 La comptabilité est organisée en subdivisions permettant de suivre les mouvements de crédit et de débit passés au titre de chacun des trois fonds nationaux.
 
+La trésorerie fait l'objet d'un suivi distinct pour chacune des sections comptables instituées au paragraphe 8 ci-dessous.
+
 Le comité de coordination s'informe, chaque jour, auprès de l'établissement bancaire de la situation du compte et doit être en mesure de fournir tout document bancaire retraçant les soldes journaliers du compte à la demande soit des autorités de tutelle, soit du commissaire du Gouvernement mentionné au point b ci-dessus.
 
 Paragraphe 7.
@@ -118,13 +120,33 @@ IV. - Le financement du régime complémentaire.
 
 Paragraphe 8.
 
-Les cotisations assises sur les salaires définis à l'article 9, paragraphe 3, du présent statut et les pensions qui sont destinées au financement du régime complémentaire obligatoire d'assurance maladie et maternité sont supportées pour moitié par les services, exploitations ou entreprises et pour moitié par les agents en activité et les pensionnés.
+Les sections comptables.
 
-Le plafond et le taux de ces cotisations sont fixés par décret pris sur le rapport du ministre chargé de la sécurité sociale, du ministre chargé du gaz et de l'électricité et du ministre chargé du budget, sur proposition du comité de coordination ou sur l'initiative du ministre chargé du gaz et de l'électricité, après avis des organisations représentatives des employeurs des industries électriques et gazières.
+Les comptes du régime, établis par le comité de coordination desfmtCAS, distinguent deux sections comptables séparées retraçant :
 
-Les recettes des caisses mutuelles complémentaires et d'action sociale proviennent des cotisations réparties par le comité de coordination.
+- d'une part, les charges et les produits relatifs aux agents en activité et à leurs ayants droit ;
 
-Les dépenses des caisses mutuelles complémentaires et d'action sociale relatives au régime complémentaire sont constituées des prestations complémentaires à celles servies par le régime général et des frais de gestion de ce régime complémentaire.
+- d'autre part, les charges et les produits relatifs aux agents en inactivité de service, aux pensionnés de tous ordres et à leurs ayants droit.
+
+Elles comprennent les opérations effectuées au titre de la gestion technique, d'une part, et de la gestion administrative, d'autre part. Les charges et les produits communs de gestion administrative sont affectés aux sections comptables au prorata du poids des prestations versées au titre de chaque section comptable dans le total des prestations versées.
+
+L'équilibre financier de chaque section comptable est assuré séparément.
+
+Les comptes de chaque section comptable sont cantonnés. Le résultat de chaque section comptable, positif ou négatif, est affecté en fin d'exercice soit en report à nouveau, soit en réserves de la section comptable. Le résultat d'une section comptable, qu'il soit positif ou négatif, ne peut être affecté aux réserves relatives à une autre section comptable. Une reprise sur les réserves d'une section comptable ne peut être affectée à une autre section comptable.
+
+Les produits du régime complémentaire proviennent des cotisations, encaissées et réparties entre les caisses mutuelles complémentaires et d'action sociale par le comité de coordination, des produits de gestion et des produits financiers. Les charges du régime sont constituées des prestations complémentaires à celles servies par le régime général, des frais de gestion et des charges financières.
+
+Les cotisations
+
+a) Les cotisations destinées au financement des charges du régime complémentaire obligatoire d'assurance maladie et maternité relatives aux agents en activité et à leurs ayants droit sont supportées à 65 % par les employeurs et à 35 % par les agents en activité. Elles sont assises sur les salaires définis à l'article 9, paragraphe 3, du présent statut. Le plafond et le taux de ces cotisations sont fixés par décret pris sur le rapport du ministre chargé de la sécurité sociale, du ministre chargé de l'énergie et du ministre chargé du budget, sur proposition du comité de coordination ou sur l'initiative d'un des ministres chargés de la tutelle du régime, après avis des organisations représentatives des employeurs des industries électriques et gazières.
+
+b) Les cotisations destinées au financement des charges du régime complémentaire obligatoire d'assurance maladie et maternité relatives aux agents en inactivité, aux pensionnés de tous ordres et à leurs ayants droit sont constituées :
+
+- d'une cotisation de solidarité, supportée par les agents en activité, assise sur l'assiette définie au point a ci-dessus, dans la limite du plafond fixé pour la cotisation instituée au point a ci-dessus. Le taux de cette cotisation est fixé à 1,39 % ;
+
+- d'une cotisation d'équilibre à la charge des agents en inactivité et des pensionnés de tous ordres, assise sur les pensions qui leur sont versées. Le plafond et le taux de cette cotisation sont fixés par décret pris sur le rapport du ministre chargé de la sécurité sociale, du ministre chargé de l'énergie et du ministre chargé du budget, sur proposition du comité de coordination ou sur l'initiative d'un des ministres chargés de la tutelle du régime.
+
+Les employeurs n'ont pas d'autre obligation de financement du régime complémentaire que les cotisations prévues au point a ci-dessus.
 
 Les caisses mutuelles complémentaires et d'action sociale ont la possibilité de participer au financement d'actions locales de prévention en matière de santé et d'adhérer à cet effet à des unions mutualistes, dans la limite de 5 % de leur budget de gestion administrative, hors investissement, du régime spécial. Cette enveloppe est majorée ou minorée du résultat de gestion administrative de l'exercice précédent. En cas de majoration, celle-ci est limitée à 2,5 % de ce même budget.
 
@@ -133,6 +155,8 @@ Les projets d'actions envisagés par les caisses mutuelles complémentaires et d
 Ces actions sont retracées dans une ligne spécifique du compte national de gestion administrative.
 
 Paragraphe 9.
+
+Les recettes et les dépenses des trois fonds prévus ci-après sont réparties en deux sections distinctes relatives, d'une part, aux dépenses et recettes afférentes aux agents en activité et à leurs ayants droit et, d'autre part, aux dépenses et recettes afférentes aux agents en inactivité, pensionnés de tous ordres et à leurs ayants droit.
 
 Les trois fonds gérés par le comité de coordination sont :
 
@@ -168,7 +192,7 @@ Il est destiné à recevoir, à chaque fin d'exercice, les excédents du régime
 
 Les opérations de dotation à ce fonds ou de reprise de ce fonds sont décidées par l'assemblée générale des caisses mutuelles complémentaires et d'action sociale sur proposition du comité de coordination.
 
-Le comité de coordination et les autorités de tutelle examinent les conditions de réalisation de l'équilibre du régime complémentaire, et prennent, le cas échéant, les mesures nécessaires après avis des organisations représentatives des employeurs des industries électriques et gazières, notamment en application du deuxième alinéa du paragraphe 8 du présent article.
+Le comité de coordination et les autorités de tutelle examinent les conditions de réalisation de l'équilibre financier de chacune des sections comptables du régime complémentaire et prennent, le cas échéant, les mesures nécessaires, notamment en application du paragraphe 8 du présent article.
 
 Les budgets.
 
@@ -182,7 +206,7 @@ a) Procédure d'élaboration des budgets.
 
 Les principes directeurs selon lesquels doit être établi chacun des budgets des caisses et du comité de coordination sont arrêtés, en application des dispositions du paragraphe 6, point c, du présent article, par l'assemblée générale des caisses mutuelles complémentaires et d'action sociale.
 
-Le montant global des charges administratives est défini chaque année par le comité de coordination sur proposition de la commission de répartition et de suivi budgétaire.
+Le montant global des charges administratives est défini chaque année par le comité de coordination sur proposition de la commission de répartition et de suivi budgétaire pour chacune des sections comptables définies au paragraphe 8 du présent article, au prorata du poids des prestations versées au titre de chaque section comptable dans le total des prestations versées au cours du précédent exercice.
 
 Les caisses mutuelles complémentaires et d'action sociale et le comité de coordination font, dans ce cadre et chacun pour ce qui le concerne, une proposition de budget de gestion administrative qui est transmis à la commission de répartition et de suivi budgétaire. Les dispositions relatives à la présentation des projets de budgets sont fixées par le règlement commun des caisses mutuelles complémentaires et d'action sociale et par le règlement du comité de coordination.
 
@@ -196,7 +220,7 @@ Le budget de gestion administrative alloué à chaque caisse mutuelle complémen
 
 b) Equilibre financier du régime spécial de sécurité sociale.
 
-Un état prévisionnel de l'équilibre financier du régime est établi par le comité de coordination. Il comprend les prévisions de recettes et de dépenses ; il est transmis en même temps que les budgets de gestion administrative au commissaire du Gouvernement, aux autorités de tutelle et au représentant des organisations représentatives des employeurs mentionné au paragraphe 6 du présent article.
+Un état prévisionnel de l'équilibre financier du régime pour les quatre prochains exercices est établi par le comité de coordination. Il comprend les prévisions de charges et de produits pour chacune des sections comptables et précise les hypothèses d'évolution sur lesquelles il est fondé ; il est transmis en même temps que les budgets de gestion administrative aux autorités de tutelle et au représentant des organisations représentatives des employeurs mentionné au paragraphe 6 du présent article.
 
 En cas de carence du comité de coordination au premier jour de l'exercice, les caisses mutuelles complémentaires et d'action sociale et le comité de coordination reçoivent une allocation mensuelle calculée sur la base du douzième de l'exercice précédent et selon les modalités définies au paragraphe 9, point b, du présent article.
 
@@ -216,6 +240,8 @@ Les modalités d'établissement des comptabilités et de fonctionnement des tré
 
 Paragraphe 12.
 
-La gestion administrative du régime complémentaire sera l'objet d'une certification par un commissaire aux comptes choisi par le comité de coordination.
+Les comptes du régime complémentaire, faisant apparaître les opérations de la gestion technique et de la gestion administrative pour chacune des sections comptables, sont établis par le comité de coordination dans les trois mois suivant la clôture de l'exercice comptable.
 
-Les rapports établis par le commissaire aux comptes, accompagnés par les documents comptables, financiers et administratifs relatifs à la gestion administrative du régime complémentaire, sont communiqués aux gestionnaires, aux fédérations syndicales représentatives au plan national du personnel des industries électriques et gazières, au représentant des organisations représentatives des employeurs et aux autorités de tutelle.
+Ils font l'objet d'une attestation par un commissaire aux comptes choisi par le comité de coordination. Les rapports établis par le commissaire aux comptes, accompagnés par les documents comptables, financiers et administratifs relatifs à la gestion du régime complémentaire, sont communiqués aux gestionnaires, aux fédérations syndicales représentatives au plan national du personnel des industries électriques et gazières, au représentant des organisations représentatives des employeurs et aux autorités de tutelle.
+
+Le comité de coordination est tenu de fournir en temps utile aux entreprises des industries électriques et gazières tous éléments nécessaires à la certification des comptes de celles-ci.
