@@ -6,7 +6,7 @@ NATURE DES EPREUVES :
 
 - Epreuves écrites :
 
-Première composition de mathématiques (1)
+Mathématiques (1)
 
 DUREE : 3 h
 
@@ -16,9 +16,9 @@ NATURE DES EPREUVES :
 
 - Epreuves écrites :
 
-Deuxième composition de mathématiques (1)
+Epreuve à option (1) (2) (4)
 
-DUREE : 3 h
+DUREE : 2 h
 
 COEFFICIENT : 6
 
@@ -36,7 +36,7 @@ NATURE DES EPREUVES :
 
 - Epreuves écrites :
 
-Composition française (2)
+Composition française (3)
 
 DUREE : 3 h
 
@@ -46,7 +46,7 @@ NATURE DES EPREUVES :
 
 - Epreuves écrites :
 
-Version et thème anglais (2) (3)
+Anglais (3) (4)
 
 DUREE : 2 h
 
@@ -58,7 +58,7 @@ NATURE DES EPREUVES :
 
 - Epreuves orales :
 
-Mathématiques (chapitres I, II, III, IV du programme d'enseignement)
+Mathématiques (1)
 
 COEFFICIENT : 4
 
@@ -66,15 +66,7 @@ NATURE DES EPREUVES :
 
 - Epreuves orales :
 
-Mathématiques (chapitres V, VI, VII du programme d'enseignement)
-
-COEFFICIENT : 4
-
-NATURE DES EPREUVES :
-
-- Epreuves orales :
-
-Physique
+Physique (1)
 
 COEFFICIENT : 4
 
@@ -90,7 +82,7 @@ NATURE DES EPREUVES :
 
 - Epreuves orales :
 
-Anglais (2)
+Anglais (3)
 
 COEFFICIENT : 4
 
@@ -98,24 +90,30 @@ NATURE DES EPREUVES :
 
 - Epreuves orales :
 
-Education physique (4)    COEFFICIENT : 1
+Education physique
 
-Total coefficients : 20
+COEFFICIENT : 1
 
-Total général coefficients : 50
+Total coefficients : 16
 
-NATURE DES EPREUVES :
+Total général coefficients : 46
 
-Epreuve facultative de dessin industriel (seuls sont pris en compte les points au-dessus de la note 12)
+(1) L'usage d'une calculatrice électronique est autorisé ; il est défini par la réglementation en vigueur pour les examens et concours relevant du ministère de l'éducation nationale et faisant référence au niveau du baccalauréat.
 
-DUREE : 4 h
+(2) Option au choix du candidat portant sur l'une des matières suivantes :
 
-COEFFICIENT : 6
+- mathématiques ;
 
-(1) L'usage d'une table de logarithmes sans formulaire, d'une règle à calcul et de calculatrices électroniques à fonctionnement autonome, non imprimantes avec entrée unique par clavier, est seul autorisé.
+- physique ;
 
-(2) Une note inférieure à 5/20 à cette épreuve est éliminatoire.
+- résistance des matériaux, mécanique ;
 
-(3) Aucun dictionnaire n'est autorisé.
+- électrotechnique ;
 
-(4) Les épreuves sont les mêmes que celles qui sont prévues au baccalauréat.
+- électronique ;
+
+- anglais.
+
+(3) Une note inférieure à 5 sur 20 à cette épreuve est éliminatoire.
+
+(4) Aucun dictionnaire n'est autorisé.
