@@ -8,6 +8,7 @@
 - [Décret n°68-259 du 15 mars 1968](decret-n68-259-du-15-mars-1968)
 - [Décret n°68-253 du 19 mars 1968](decret-n68-253-du-19-mars-1968)
 - [Décret n°68-270 du 19 mars 1968](decret-n68-270-du-19-mars-1968)
+- [Décret n°68-351 du 19 avril 1968](decret-n68-351-du-19-avril-1968)
 - [Décret n°68-269 du 20 mars 1968](decret-n68-269-du-20-mars-1968)
 - [Décret n°68-268 du 21 mars 1968](decret-n68-268-du-21-mars-1968)
 - [Décret n°67-1165 du 22 décembre 1967](decret-n67-1165-du-22-decembre-1967)
