@@ -557,7 +557,6 @@
 - [Arrêté du 12 avril 1995 (ECOS9550011A)](arrete-du-12-avril-1995-ecos9550011a)
 - [Arrêté du 12 décembre 1994 (DEFL9402259A)](arrete-du-12-decembre-1994-defl9402259a)
 - [Arrêté du 12 décembre 1994 (DEFL9402260A)](arrete-du-12-decembre-1994-defl9402260a)
-- [Arrêté du 12 décembre 1994 (EQUT9401973A)](arrete-du-12-decembre-1994-equt9401973a)
 - [Arrêté du 12 décembre 1995 (AGRA9502480A)](arrete-du-12-decembre-1995-agra9502480a)
 - [Arrêté du 12 décembre 1995 (COMA9500055A)](arrete-du-12-decembre-1995-coma9500055a)
 - [Arrêté du 12 décembre 1995 (EQUA9501832A)](arrete-du-12-decembre-1995-equa9501832a)
