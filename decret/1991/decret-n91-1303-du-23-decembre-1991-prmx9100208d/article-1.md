@@ -4,10 +4,10 @@ Pour la période du 1er janvier 1992 au 31 décembre 1992, le nombre maximum des
 
 1. Service de sécurité civile 225
 
-2. Service dans la police nationale 4 725
+2. Service dans la police nationale 5 725
 
 3. Service de l'aide technique 925
 
-4. Service de la coopération 6 004
+4. Service de la coopération 5 604
 
-Total 11 879
+Total 12 479
