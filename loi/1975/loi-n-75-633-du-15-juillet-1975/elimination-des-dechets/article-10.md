@@ -1,3 +1,0 @@
-# Article 10
-
-Des plans approuvés par décret en Conseil d'Etat après enquête publique et consultation des autorités locales peuvent définir, dans les limites territoriales qu'ils précisent, les conditions dans lesquelles il doit être procédé à l'élimination de certaines catégories de déchets. Dans les zones où un tel plan est applicable, les demandes d'agrément présentées en vertu de l'article 9 ci-dessus sont examinées compte tenu des dispositions de ce plan et notamment des objectifs qu'il détermine en vue d'assurer un rendement optimal aux installations publiques et privées d'élimination des déchets.

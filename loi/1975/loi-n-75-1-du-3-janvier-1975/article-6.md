@@ -1,3 +1,0 @@
-# Article 6
-
-Dans chacune des deux assemblées, le rapporteur général de la commission des finances et deux représentants désignés, l'un par cette même commission et l'autre par la commission des affaires culturelles, disposeront des pouvoirs d'investigation les plus étendus, sur pièces et sur place, pour suivre et contrôler de façon permanente l'emploi des crédits inscrits au budget du centre national d'art et de culture Georges Pompidou, tous les renseignements d'ordre financier et administratif de nature à faciliter l'exercice de leur mission doivent leur être fournis ; ils seront habilités à se faire communiquer tous documents de service de quelque nature que ce soit.

@@ -1,5 +1,0 @@
-# Article 1
-
-Il est créé, sous forme d'établissement public national à caractère culturel doté de la personnalité morale et de l'autonomie financière, un centre national d'art et de culture portant le nom de Georges-Pompidou.
-
-Cet établissement public favorise la création des oeuvres de l'art et de l'esprit, il contribue à l'enrichissement du patrimoine culturel de la nation, à l'information et à la formation du public, à la diffusion de la création artistique et à la communication sociale. Il conseille sur leur demande, notamment dans le domaine architectural, les collectivités locales ainsi que tous organismes publics ou privés intéressés. Il assure le fonctionnement et l'animation, en liaison avec les organismes publics ou privés qui lui sont associés, d'un ensemble culturel consacré à toutes les formes de la création artistique, notamment dans le domaine des arts plastiques, de la recherche acoustique et musicale, de l'esthétique industrielle, de l'art cinématographique, ainsi qu'à la lecture publique.
