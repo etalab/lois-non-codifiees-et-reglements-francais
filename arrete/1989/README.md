@@ -365,6 +365,7 @@
 - [Arrêté du 17 juillet 1989 (RESY8900247A)](arrete-du-17-juillet-1989-resy8900247a)
 - [Arrêté du 17 juillet 1989 (SPSX8910195A)](arrete-du-17-juillet-1989-spsx8910195a)
 - [Arrêté du 17 novembre 1988 (INDF8800609A)](arrete-du-17-novembre-1988-indf8800609a)
+- [Arrêté du 17 novembre 1989 (PTTQ8901045A)](arrete-du-17-novembre-1989-pttq8901045a)
 - [Arrêté du 17 octobre 1989 (PTTT8900952A)](arrete-du-17-octobre-1989-pttt8900952a)
 - [Arrêté du 17 octobre 1989 (SPSP8902315A)](arrete-du-17-octobre-1989-spsp8902315a)
 - [Arrêté du 17 mai 1989 (EQUT8900453A)](arrete-du-17-mai-1989-equt8900453a)
