@@ -1,0 +1,3 @@
+# Article 16
+
+Le ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, le ministre d'Etat, ministre de l'économie, des finances et du budget, le ministre de l'intérieur, le ministre de la solidarité, de la santé et de la protection sociale, le secrétaire d'Etat auprès du ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, chargé de la jeunesse et des sports, et le secrétaire d'Etat auprès du ministre d'Etat, ministre de l'économie, des finances et du budget, chargé de la consommation, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

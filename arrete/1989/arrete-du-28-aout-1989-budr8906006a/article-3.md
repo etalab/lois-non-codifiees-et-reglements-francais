@@ -1,0 +1,3 @@
+# Article 3
+
+Le directeur général des finances au ministère de l'éducation nationale, de la jeunesse et des sports, le directeur de la comptabilité publique au ministère de l'économie, des finances et du budget, le directeur général des collectivités locales au ministère de l'intérieur, le directeur des hôpitaux et le directeur de l'action sociale au ministère de la solidarité, de la santé et de la protection sociale et le directeur de la construction au ministère de l'équipement, du logement, des transports et de la mer sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
