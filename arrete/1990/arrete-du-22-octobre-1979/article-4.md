@@ -1,0 +1,9 @@
+# Article 4
+
+La qualité d'agriculteur à titre exclusif ou principal exigée pour être admis au bénéfice ds prêts visés à l'article 1er ci-dessusest rép utée acquise aux emprunteurs assujettis à l'assureur maladie, invalidité et maternité des agriculteurs non salariés (Amexa) en application de l'article 1106-1 du code rural dont les revenus imposables autres qu'agricoles du ménage sont inférieurs ou égaux à 150.000 F pour la dernière année connue. La condition d'assujettissement à l'Amexa n'est pas requise des agriculteurs dont l'exploitation est située en zone de montagne ou en zone défavorisée définies conformément aux articles 1er à 5 du décret n° 77-566 du 3 juin 1977.
+
+Lorsque l'emprunteur est une personne morale, la qualité d'agriculteur à titre principal lui est reconnue si l'objet de la société est exclusivement agricole et si plus de 50 % du capital social est détenu par des exploitants agricoles à titre principal, tels qu'ils sont définis au premier alinéa de cet article et qui remplissent à titre individuel la condition relative aux revenus non agricoles. Afin que le respect de cette condition soit vérifié, les noms des associés visés ci-dessus sont notifiés au préfet du département dans lequel est situé le siège de l'exploitation ; cette notification est renouvelée chaque fois que, pendant la période où le prêt bénéficie d'une bonification d'intérêt versée par l'Etat, les statuts de la société ou la répartition du capital entre les associés sont modifiés. Cette notification est également renouvelée lorsque l'un des associés perd la qualité d'exploitant agricole à titre principal.
+
+S'agissant des groupements agricoles d'exploitation en commun (G.A.E.C.), la condition de revenu n'a pas à être remplie par tous les associés.
+
+S'agissant de l'exploitation agricole à responsabilité limitée, la condition d'assujettissement à l'Amexa et la condition de revenu n'ont à être remplies que par le ou les gérants.
