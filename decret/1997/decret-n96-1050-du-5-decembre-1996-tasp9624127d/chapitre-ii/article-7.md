@@ -10,7 +10,13 @@ Les tâches de gestion du fonds d'assurance formation ne peuvent être confiées
 
 II. - Les ressources du fonds d'assurance formation des médecins exerçant à titre libéral font l'objet d'une mutualisation immédiate.
 
-III. - Les décisions relatives à l'adoption et à la modification des statuts du fonds d'assurance formation des médecins exerçant à titre libéral sont prises par son conseil de gestion à la majorité des deux tiers des membres composant ce conseil. Ces décisions sont soumises à l'agrément du ministre chargé de la formation professionnelle et du ministre chargé de la santé.
+Lorsque la convention approuvée en application de l'article L. 162-5 du code de la sécurité sociale prévoit l'apport d'un complément à la contribution annuelle des organismes nationaux d'assurance maladie mentionnée au 2° de l'article L. 367-8 du code de la santé publique, la gestion de ce complément est assurée par le conseil de gestion du fonds.
+
+Toutefois, dans le cas où des conventions distinctes sont conclues, d'une part, pour les médecins généralistes, d'autre part, pour les médecins spécialistes, la gestion de ce complément est assurée par deux instances constituées, respectivement, des représentants syndicaux des médecins généralistes et des médecins spécialistes siégeant au conseil de gestion du fonds. Lorsqu'une seule convention catégorielle est signée, la gestion du complément est assurée par une instance constituée des représentants syndicaux des médecins de la catégorie concernée.
+
+Dans tous les cas, la gestion de ce complément à la contribution annuelle des organismes nationaux d'assurance maladie fait l'objet d'un suivi comptable spécifique ;.
+
+III. - Les décisions relatives à l'adoption et à la modification des statuts du fonds d'assurance formation des médecins exerçant à titre libéral sont prises par son conseil de gestion à la majorité des membres composant ce conseil. Ces décisions sont soumises à l'agrément du ministre chargé de la formation professionnelle et du ministre chargé de la santé.
 
 IV. - L'habilitation du fonds d'assurance formation des médecins exerçant à titre libéral est prononcée par arrêté du ministre chargé de la formation professionnelle et du ministre chargé de la santé, après avis de la commission permanente du Conseil national de la formation professionnelle, de la promotion sociale et de l'emploi.
 
