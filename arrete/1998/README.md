@@ -491,6 +491,8 @@
 - [Arrêté du 22 janvier 1998 (JUSE9840008A)](arrete-du-22-janvier-1998-juse9840008a)
 - [Arrêté du 22 janvier 1998 (MCCI9800032A)](arrete-du-22-janvier-1998-mcci9800032a)
 - [Arrêté du 22 janvier 1998 (MESA9820225A)](arrete-du-22-janvier-1998-mesa9820225a)
+- [Arrêté du 22 juillet 1998 (MAEA9820051A)](arrete-du-22-juillet-1998-maea9820051a)
+- [Arrêté du 22 juillet 1998 (MAEA9820052A)](arrete-du-22-juillet-1998-maea9820052a)
 - [Arrêté du 22 juin 1998 (ATEP9870237A)](arrete-du-22-juin-1998-atep9870237a)
 - [Arrêté du 22 juin 1998 (ECOC9800058A)](arrete-du-22-juin-1998-ecoc9800058a)
 - [Arrêté du 22 juin 1998 (MCCK9700619A)](arrete-du-22-juin-1998-mcck9700619a)

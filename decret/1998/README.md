@@ -435,6 +435,8 @@
 - [Décret n°98-500 du 22 juin 1998 (MENF9800922D)](decret-n98-500-du-22-juin-1998-menf9800922d)
 - [Décret n°98-501 du 22 juin 1998 (MENF9801059D)](decret-n98-501-du-22-juin-1998-menf9801059d)
 - [Décret n°98-528 du 22 juin 1998 (MCCB9800221D)](decret-n98-528-du-22-juin-1998-mccb9800221d)
+- [Décret n°98-639 du 22 juillet 1998 (MAEA9820049D)](decret-n98-639-du-22-juillet-1998-maea9820049d)
+- [Décret n°98-640 du 22 juillet 1998 (MAEA9820050D)](decret-n98-640-du-22-juillet-1998-maea9820050d)
 - [Décret n°90-427 du 22 mai 1990 (MENF9000781D)](decret-n90-427-du-22-mai-1990-menf9000781d)
 - [Décret n°98-399 du 22 mai 1998 (JUSC9820221D)](decret-n98-399-du-22-mai-1998-jusc9820221d)
 - [Décret n°98-400 du 22 mai 1998 (ECOF9800021D)](decret-n98-400-du-22-mai-1998-ecof9800021d)
