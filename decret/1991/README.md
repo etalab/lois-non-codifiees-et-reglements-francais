@@ -70,6 +70,8 @@
 - [Décret n°91-338 du 5 avril 1991 (PRMG9105008D)](decret-n91-338-du-5-avril-1991-prmg9105008d)
 - [Décret n°91-339 du 5 avril 1991 (INDD9100274D)](decret-n91-339-du-5-avril-1991-indd9100274d)
 - [Décret n°91-346 du 5 avril 1991 (SPSS9100652D)](decret-n91-346-du-5-avril-1991-spss9100652d)
+- [Décret n°91-760 du 5 août 1991 (SPSS9101586D)](decret-n91-760-du-5-aout-1991-spss9101586d)
+- [Décret n°91-761 du 5 août 1991 (SANS9101541D)](decret-n91-761-du-5-aout-1991-sans9101541d)
 - [Décret n°91-870 du 5 septembre 1991 (SANH9101416D)](decret-n91-870-du-5-septembre-1991-sanh9101416d)
 - [Décret n°91-871 du 5 septembre 1991 (SANH9101417D)](decret-n91-871-du-5-septembre-1991-sanh9101417d)
 - [Décret n°90-990 du 6 novembre 1990 (MENF9002603D)](decret-n90-990-du-6-novembre-1990-menf9002603d)
