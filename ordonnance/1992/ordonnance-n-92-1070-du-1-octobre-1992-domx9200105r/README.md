@@ -11,7 +11,6 @@
 - [Titre IX : Lutte contre l'alcoolisme.](titre-ix)
 - [Titre X : Lutte contre la toxicomanie.](titre-x)
 - [Titre XI : Lutte contre le tabagisme.](titre-xi)
-- [Titre XII : Professions de médecin, de chirurgien-dentiste et de sage-femme.](titre-xii)
 - [Titre XIII : Profession d'infirmier ou d'infirmière.](titre-xiii)
 - [Titre XV : Pharmaciens](titre-xv)
 - [Titre XIV.](titre-xiv)

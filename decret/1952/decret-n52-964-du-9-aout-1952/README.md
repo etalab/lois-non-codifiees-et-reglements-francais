@@ -1,18 +1,3 @@
 # Décret n°52-964 du 9 août 1952 rendant applicable aux territoires d'outre-mer et aux territoires sous tutelle du Cameroun et du Togo l'ordonnance n° 45-2184 du 24 septembre 1945 relative à l'exercice et à l'organisation des professions de médecin, de chirurgien dentiste et de sage-femme, complétée par la loi n° 49-757 du 9 juin 1949 et modifiée par la loi n° 51-643 du 19 avril 1951.
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)
-- [Article 7](article-7.md)
-- [Article 8](article-8.md)
-- [Article 9](article-9.md)
-- [Article 11](article-11.md)
-- [Article 12](article-12.md)
-- [Article 13](article-13.md)
-- [Article 14](article-14.md)
-- [Article 15](article-15.md)
-- [Article 16](article-16.md)
 - [Article 17](article-17.md)

@@ -1,3 +1,0 @@
-# Article 16
-
-Sont abrogés : le décret du 10 juin 1938 relatif à l'exercice de la clientèle payante, le décret du 17 août 1944 autorisant les médecins, chirurgiens dentistes et sages-femmes appartenant à des missions religieuses à exercer leur art dans les colonies et territoires sous mandat français de l'Afrique occidentale française, de l'Afrique équatoriale française, du Cameroun et du Togo, et le décret n° 47-2023 du 15 octobre 1947 rendant applicable aux territoires de la France d'outre-mer l'ordonnance n° 45-2184 du 24 septembre 1945 relative à l'exercice et à l'organisation des professions de médecin, de chirurgien dentiste et de sage-femme.
