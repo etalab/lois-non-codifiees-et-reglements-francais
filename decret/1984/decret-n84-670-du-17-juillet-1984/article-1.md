@@ -1,0 +1,3 @@
+# Article 1
+
+Les ouvriers de l'Institut géographique national dont les emplois répondent à des besoins permanents du service sont, sur leur demande, affiliés au régime des pensions des ouvriers des établissements industriels de l'Etat, tributaires du décret du 24 septembre 1965 susvisé, dès lors que les intéressés sont confirmés dans leur emploi, à l'expiration du stage auquel ils sont astreints à leur entrée en fonctions, et dont la durée ne peut être inférieure à une année et à condition qu'ils soient âgés de vingt et un ans au moins et de quarante-cinq ans au plus. Cette dernière limite d'âge est reportée d'un temps égal à celui du service national et des services de guerre accomplis par les intéressés.

@@ -1,0 +1,3 @@
+# Article 11
+
+Tout vol ou tout incident survenu pendant le séjour dans les gares, ports ou aéroports, ou lors des opérations de chargement, de déchargement ou de manutention des armes ou d'éléments d'armes doit faire l'objet, au plus tard dans les vingt-quatre heures, de la part de la personne responsable de la garde des armes ou d'éléments d'armes au moment du vol ou de l'incident, d'une déclaration écrite au commissaire de police ou au commandant de brigade de gendarmerie territorialement compétent, dont une copie doit être adressée dans les quarante-huit heures au préfet du lieu du vol ou de l'incident. L'expéditeur ou le destinataire doit être aussi prévenu par lettre recommandée adressée dans les vingt-quatre heures qui suivent le vol ou l'incident.
