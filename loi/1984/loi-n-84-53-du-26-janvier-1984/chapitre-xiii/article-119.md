@@ -4,7 +4,7 @@ Les dispositions du livre IV du code des communes sont abrogées sous les réser
 
 I - Sont maintenues en vigueur les dispositions des articles suivants :
 
-L. 412-46, L. 412-48 à L. 412-50 ;
+L. 412-18, L. 412-46, L. 412-48 à L. 412-50 ;
 
 L. 414-23 et L. 414-24 ;
 
@@ -20,7 +20,7 @@ II - Le régime de retraite des personnels des collectivités territoriales et d
 
 III - Sont maintenues en vigueur et étendues aux autres collectivités et établissements concernés par la présente loi ainsi qu'à leurs agents les dispositions des articles suivants :
 
-L. 413-5, L. 413-11 à L. 413-15, L. 415-6, L. 416-1, L. 416-2, L. 416-4, L. 417-1, L. 417-2, L. 417-8, L. 417-9, L. 417-11, L. 417-13 à L. 417-17, L. 417-26 à L. 417-28, sous réserve qu'à l'article L. 415-6, les mots "d'un congé bloqué de soixante jours tous les deux ans" soient remplacés par les mots : "d'un cumul sur deux années de ses congés annuels" et qu'à l'article L. 417-27, les mots : "syndicat de communes pour le personnel" soient remplacés par les mots "centre départemental de gestion", L. 422-4 à L. 422-8, sous réserve qu'aux articles L. 422-4 et L. 422-5, les mots "en cas de licenciement" soient remplacés par les mots : "en cas de perte involontaire d'emploi".
+L. 413-5, L. 413-11 à L. 413-15, L. 415-6, L. 416-1, L. 416-2, L. 416-4, L. 417-1, L. 417-2, L. 417-8, L. 417-9, L. 417-11, L. 417-13 à L. 417-17, L. 417-26 à L. 417-28, sous réserve qu'à l'article L. 415-6, les mots "d'un congé bloqué de soixante jours tous les deux ans" soient remplacés par les mots : "d'un cumul sur deux années de ses congés annuels" et qu'à l'article L. 417-27, les mots : "syndicat de communes pour le personnel" soient remplacés par les mots "centre de gestion", L. 422-4 à L. 422-8, sous réserve qu'aux articles L. 422-4 et L. 422-5, les mots "en cas de licenciement" soient remplacés par les mots : "en cas de perte involontaire d'emploi".
 
 Toutefois, les dispositions des articles L. 417-1, L. 417-2, L. 417-8, L. 417-9 et L. 422-8 ne sont pas applicables aux agents en fonction à Saint-Pierre-et-Miquelon.
 
