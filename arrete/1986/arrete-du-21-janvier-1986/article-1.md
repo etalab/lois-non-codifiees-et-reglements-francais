@@ -1,3 +1,3 @@
 # Article 1
 
-En application de l'article 242-0 P de l'annexe II au code général des impôts, le montant minimum de la taxe sur la valeur ajoutée dont le remboursement peut être demandé par les assujettis étrangers désignés à l'article 242-0 M du même code est fixé pour l'année 1986 à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F pour les demandes déposées au titre d'une année civile.
+Il est interdit de détenir en vue de la vente, de mettre en vente ou de vendre sous le nom de "supercarburant sans plomb" un produit ne présentant pas la composition et les caractéristiques fixées par l'article 2 ci-après.
