@@ -8,4 +8,12 @@ Sous réserve des exceptions déterminées par le décret n° 85-1344 du 16 déc
 
 - la déclaration des rémunérations versées aux salariés prescrite à l'article 9 du décret du 24 mars 1972 susvisé ;
 
-- l'attestation d'activité salariée prévue pour l'application du décret du 29 décembre 1973 susvisé.    - la déclaration prévue par l'article 6 bis du décret n° 70-1277 du 23 décembre 1970 susvisé.
+- l'attestation d'activité salariée prévue pour l'application du décret du 29 décembre 1973 susvisé.
+
+- la déclaration prévue par l'article 6 bis du décret n° 70-1277 du 23 décembre 1970 susvisé.
+
+- la déclaration prévue par l'article 3 du décret n° 47-1846 du 19 septembre 1947 ;
+
+- la déclaration prévue par l'article 4 du décret n° 50-783 du 24 juin 1950 ;
+
+- la déclaration prévue par l'article 3 du décret n° 85-885 et du décret n° 85-886 du 12 août 1985.
