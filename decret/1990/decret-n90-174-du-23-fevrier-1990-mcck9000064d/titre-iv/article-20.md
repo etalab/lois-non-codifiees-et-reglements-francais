@@ -1,3 +1,3 @@
 # Article 20
 
-Le ministre chargé de la culture peut déléguer sa signature, par arrêté, au directeur général du Centre national de la cinématographie pour les décisions individuelles prises pour l'application des dispositions du présent décret.
+La commission de classification remet au ministre chargé de la culture un rapport annuel sur ses activités et sur les avis qu'elle émet. Ce rapport est rendu public.
