@@ -48,6 +48,7 @@
 - [Décret n°75-473 du 13 juin 1975](decret-n75-473-du-13-juin-1975)
 - [Décret n°75-779 du 13 août 1975](decret-n75-779-du-13-aout-1975)
 - [Décret n°75-788 du 13 août 1975](decret-n75-788-du-13-aout-1975)
+- [Décret n°75-936 du 13 octobre 1975](decret-n75-936-du-13-octobre-1975)
 - [Décret n°75-353 du 13 mai 1975](decret-n75-353-du-13-mai-1975)
 - [Décret n°75-354 du 13 mai 1975](decret-n75-354-du-13-mai-1975)
 - [Décret n°75-396 du 13 mai 1975](decret-n75-396-du-13-mai-1975)
