@@ -1,0 +1,3 @@
+# Article 4
+
+Le Premier ministre, le ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, le ministre d'Etat, ministre de l'économie, des finances et du budget, le ministre d'Etat, ministre de l'équipement et du logement, le ministre de l'industrie et de l'aménagement du territoire, le ministre de la culture, de la communication, des grands travaux et du Bicentenaire et le ministre des postes, des télécommunications et de l'espace sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

@@ -306,6 +306,7 @@
 - [Arrêté du 19 janvier 1988 (ASEP8800103A)](arrete-du-19-janvier-1988-asep8800103a)
 - [Arrêté du 19 janvier 1988 (ECOT8711017A)](arrete-du-19-janvier-1988-ecot8711017a)
 - [Arrêté du 19 janvier 1988 (ECOT8750067A)](arrete-du-19-janvier-1988-ecot8750067a)
+- [Arrêté du 19 juillet 1988 (SPSS8801088A)](arrete-du-19-juillet-1988-spss8801088a)
 - [Arrêté du 19 novembre 1987 (ECOC8700128A)](arrete-du-19-novembre-1987-ecoc8700128a)
 - [Arrêté du 19 octobre 1987 (BUDD8761211A)](arrete-du-19-octobre-1987-budd8761211a)
 - [Arrêté du 20 août 1987 (COPC8700062A)](arrete-du-20-aout-1987-copc8700062a)
