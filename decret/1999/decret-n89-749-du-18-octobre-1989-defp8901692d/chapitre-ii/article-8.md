@@ -1,0 +1,3 @@
+# Article 8
+
+Les techniciens supérieurs d'études et de fabrications stagiaires dont le stage a donné satisfaction sont titularisés. Les autres sont, après avis de la commission administrative paritaire, soit autorisés à accomplir un nouveau et dernier stage, d'une durée maximale d'un an, soit licenciés, soit réintégrés dans leur ancien corps ou, s'agissant des fonctionnaires des collectivités territoriales, dans leur ancien cadre d'emplois ou emploi avec l'ancienneté qu'ils auraient acquise s'ils y étaient demeurés, soit remis à la disposition de leur administration d'origine. La durée du stage est prise en compte pour l'avancement d'échelon pour une durée maximale d'un an.
