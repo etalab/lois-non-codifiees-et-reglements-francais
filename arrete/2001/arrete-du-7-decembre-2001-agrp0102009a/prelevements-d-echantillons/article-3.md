@@ -8,17 +8,17 @@ La nature et la taille maximale des lots ainsi que la méthode d'échantillonnag
 
 Les prélèvements d'échantillons sont effectués en une seule fois dans le lieu d'entrepôt figurant dans la demande d'agrément. Ils doivent porter sur la totalité des volumes de vins de même catégorie, de même couleur et de même type susceptibles de bénéficier d'un certificat d'agrément.
 
-Pour la campagne 2002, par dérogation à l'alinéa précédent, les prélèvements des vins de même catégorie, de même couleur et de même type susceptibles de bénéficier d'un certificat d'agrément peuvent ne pas être réalisés simultanément lorsqu'ils portent sur des appellations revendiquées différentes.
+Pour les campagnes 2002 à 2005, par dérogation à l'alinéa précédent, les prélèvements des vins de même catégorie, de même couleur et de même type susceptibles de bénéficier d'un certificat d'agrément peuvent ne pas être réalisés simultanément lorsqu'ils portent sur des appellations revendiquées différentes.
 
 Les appellations concernées figurent sur une liste approuvée par le comité national des vins et eaux-de-vie sur demande motivée du syndicat de défense de l'appellation et après avis du comité régional de l'Institut national des appellations d'origine dont relève l'appellation. La liste est consultable auprès des services de l'Institut national des appellations d'origine.
 
-Toutefois, lorsque des vins sont revendiqués en primeur conformément au quatrième alinéa de l'article 1er du décret du 7 décembre 2001 susvisé, le prélèvement de vins revendiqués en primeur ne porte que sur la totalité des volumes de ces vins.
+Toutefois, lorsque des vins sont revendiqués en primeur conformément au quatrième alinéa de l'article R. 641-94 du code rural, le prélèvement de vins revendiqués en primeur ne porte que sur la totalité des volumes de ces vins.
 
 Les échantillons sont prélevés :
 
 - en vue de leur présentation à la première session d'examen analytique et organoleptique sur des vins prêts à être commercialisés ;
 
-- le cas échéant, en vue de la délivrance d'un certificat d'aptitude conformément au quatrième alinéa de l'article 1er du décret du 7 décembre 2001 susvisé.
+- le cas échéant, en vue de la délivrance d'un certificat d'aptitude conformément au quatrième alinéa de l'article R. 641-94 du code rural.
 
 Sauf dans le cas où le règlement intérieur de l'appellation concernée l'interdit, l'intéressé peut demander à fractionner, en vue de la présentation ultérieure à l'examen organoleptique, une partie du volume des vins prélevés compte tenu de leur état d'élaboration qu'il précise dans sa demande. Dans ce cas, les échantillons sont soumis au seul examen analytique au titre de la première session visée à l'article 6 du présent article.
 
@@ -42,8 +42,8 @@ Le règlement intérieur prévoit le nombre d'échantillons pour chaque prélèv
 
 Les échantillons soumis à la dégustation sont présentés de façon anonyme.
 
-L'anonymat des échantillons est assuré à leur réception par les services de l'Institut national des appellations d'origine. Toutefois, l'organisme agréé peut procéder aux opérations matérielles relatives à l'anonymat dans le cadre des dispositions de la convention prévue à l'article 2 du décret du 7 décembre 2001 susvisé et sous réserve d'une certification de ce service au sens de l'article L. 115-27 du code de la consommation.
+L'anonymat des échantillons est assuré à leur réception par les services de l'Institut national des appellations d'origine. Toutefois, l'organisme agréé peut procéder aux opérations matérielles relatives à l'anonymat dans le cadre des dispositions de la convention prévue à l'article R. 641-95 du code rural et sous réserve d'une certification de ce service au sens de l'article L. 115-27 du code de la consommation.
 
-Toutefois, à titre expérimental pour la campagne 2002, la certification visée à l'alinéa précédent n'est pas obligatoire lorsque la convention prévue à l'article 2 du décret du 7 décembre 2001 susvisé comporte la description des procédures à mettre en oeuvre pour assurer l'anonymat. Les services de l'Institut national des appellations d'origine contrôlent le respect de ces procédures.
+Toutefois, à titre expérimental pour les campagnes 2002 à 2005, cette certification n'est pas obligatoire lorsque la convention prévue à l'article R. 641-95 du code rural comporte la description des procédures à mettre en oeuvre pour assurer l'anonymat et lorsque des agents de l'organisme agréé ont été habilités par les services de l'Institut national des appellations d'origine en vue de procéder à ces opérations. Lesdits services contrôlent le respect de ces procédures.
 
 Ces mêmes dispositions s'appliquent à la levée de l'anonymat.

@@ -1,6 +1,6 @@
 # Article 2
 
-Pour l'obtention du certificat d'agrément prévu par le décret du 7 décembre 2001 susvisé, chaque producteur de vins effectue auprès des services de l'Institut national des appellations d'origine, dans un délai fixé par le règlement intérieur, une demande de certificat d'agrément.
+Pour l'obtention du certificat d'agrément prévu par les articles R. 641-94 à R. 641-98 du code rural chaque producteur de vins effectue auprès des services de l'Institut national des appellations d'origine, dans un délai fixé par le règlement intérieur, une demande de certificat d'agrément.
 
 La demande de certificat d'agrément indique notamment :
 
