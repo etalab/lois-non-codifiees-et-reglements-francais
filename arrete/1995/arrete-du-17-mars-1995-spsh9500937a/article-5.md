@@ -10,4 +10,4 @@ A défaut, il est fait appel à des fonctionnaires hospitaliers de catégorie A 
 
 3° Un ingénieur hospitalier en fonctions dans la région concernée ou dans les régions voisines, choisi par le directeur de l'établissement organisateur du concours.
 
-4° Un adjoint technique de classe supérieure au moins en fonctions dans le département ou les départements voisins, choisi par le directeur de l'établissement organisateur du concours.
+4° Un technicien supérieur hospitalier principal au moins en fonctions dans le département ou les départements voisins, choisi par le directeur de l'établissement organisateur du concours.

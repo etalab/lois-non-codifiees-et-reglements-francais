@@ -60,7 +60,7 @@ Personnels techniques :
 
 -ingénieur hospitalier ;
 
-- adjoint technique (adjoint des cadres techniques à l'Assistance publique-hôpitaux de Paris).
+-technicien supérieur (adjoint des cadres techniques à l'Assistance publique-hôpitaux de Paris).
 
 Personnels ouvriers :
 
