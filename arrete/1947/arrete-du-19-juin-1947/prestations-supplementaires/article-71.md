@@ -6,7 +6,7 @@ Il sera tenu compte, dans l'appréciation de chaque cas, de la situation sociale
 
 Sauf en cas d'urgence, la situation des intéressés ne peut être examinée, au regard de l'octroi des prestations supplémentaires en matière de soins, que si elle l'a été préalablement par la commission d'admission à l'aide médicale compétente.
 
-Les catégories figurant dans le règlement intérieur de la caisse peuvent être notamment [*bénéficiaires*] :
+Les catégories figurant dans le règlement intérieur de la caisse peuvent être notamment :
 
 1° Les assurés sociaux chargés de famille, les titulaires de pensions d'invalidité et de vieillesse, les victimes de la guerre, les chômeurs pouvant légalement prétendre aux prestations ;
 
@@ -38,7 +38,7 @@ Participation dans les mêmes cas et sous les mêmes conditions aux frais de tra
 
 Attribution, dans les mêmes conditions, des mêmes indemnités journalières de maternité aux assurées dont le métier comporte des travaux pénibles entraînant dans chaque cas, avec leur état, une incompatibilité constatée.
 
-9° Participation aux frais de l'aide familiale apportée en cas de maladie par les organisations agréées aux femmes ayant au foyer au moins un enfant [*nombre*] de moins de quatorze ans.
+9° Participation aux frais de l'aide familiale apportée en cas de maladie par les organisations agréées aux femmes ayant au foyer au moins un enfant de moins de quatorze ans.
 
 (Le règlement intérieur de la caisse doit fixer la durée maxima en nombre d'heures de l'aide familiale, suivant les cas. Le conseil d'administration peut déléguer au directeur de la caisse son pouvoir d'attribution des prises en charge, dans la limite d'un nombre d'heures fixé par le règlement intérieur).
 
@@ -67,5 +67,3 @@ Le conseil d'administration peut déléguer au directeur de la caisse primaire s
 Aux frais de raccordement au réseau et l'abonnement téléphonique, lorsque l'installation et l'abonnement sont uniquement motivés par les besoins du traitement ;
 
 Aux frais de consommation d'eau et d'électricité utilisée lors de chaque séance de dialyse.
-
-19° Prise en charge, sur demande de l'assuré, de tout ou partie du ticket modérateur relatif aux médicaments [*pour maladies sans caractère de gravité*] mentionnés au 5° de l'article R. 322-1 du code de la sécurité sociale, pour les malades atteints de l'une des affections figurant sur la liste mentionnée au 3° de l'article L. 322-3 du même code et pour les spécialités et la période ayant fait l'objet d'un avis favorable du contrôle médical.
