@@ -111,3 +111,5 @@ Nombre de représentants : 1
 Charente-Maritime :
 
 Nombre de représentants : 1
+
+Département(s) représenté(s) au titre de la coopération départementale ou interdépartementale : 2
