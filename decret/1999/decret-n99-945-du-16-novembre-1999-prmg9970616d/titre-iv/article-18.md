@@ -6,4 +6,6 @@ Peuvent être intégrés, sur leur demande, dans le corps des administrateurs ci
 
 - les magistrats de l'ordre judiciaire.
 
+- les administrateurs des postes et télécommunications.
+
 Les services qu'ils ont accomplis antérieurement dans leur corps d'origine peuvent être pris en compte pour le calcul des quatre années de services mentionnées aux articles 8 et 9 du décret du 21 mars 1997 précité.

@@ -4,7 +4,7 @@ Les personnes admises à suivre les sessions nationales et régionales de l'inst
 
 Elles sont choisies parmi :
 
-- les magistrats et fonctionnaires d'un rang correspondant au moins à celui d'administrateur civil de 1re classe et dont les candidatures sont présentées par les ministres concernés. Des fonctionnaires appartenant à des corps de catégorie A et appelés à exercer de hautes responsabilités peuvent également être retenus ;
+- les magistrats et fonctionnaires d'un rang correspondant au moins à celui d'administrateur civil et dont les candidatures sont présentées par les ministres concernés. Des fonctionnaires appartenant à des corps de catégorie A et appelés à exercer de hautes responsabilités peuvent également être retenus ;
 
 - les officiers, de grade égal ou supérieur à celui de lieutenant-colonel ou équivalent, proposés par le ministre chargé des armées ;
 

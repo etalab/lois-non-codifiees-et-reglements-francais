@@ -2,7 +2,7 @@
 
 Les emplois administratifs du service des alcools sont confiés selon leur niveau hiérarchique :
 
-1° A des fonctionnaires d'un niveau au moins égal au grade d'administrateur civil de 2e classe. Ils sont affectés à l'administration centrale du ministère de l'économie et des finances (service des alcools) ; les dépenses correspondant à leur rémunération sont supportées par le budget du service des alcools.
+1° A des fonctionnaires d'un niveau au moins égal au grade d'administrateur civil. Ils sont affectés à l'administration centrale du ministère de l'économie et des finances (service des alcools) ; les dépenses correspondant à leur rémunération sont supportées par le budget du service des alcools.
 
 2° A des fonctionnaires appartenant à l'un des corps spéciaux suivants :
 
@@ -40,8 +40,8 @@ Ce corps comprend les trois grades ci-après :
 
 3° Agent de constations des alcools.
 
-Le nombre des emplois d'agent de constatation principal de 2e classe ne peut excéder 30 p. 100 de l'effectif total du corps.
+Le nombre des emplois d'agent de constatation principal de 2e classe ne peut excéder 30 % de l'effectif total du corps.
 
-Le nombre des emplois d'agent de constatation principal de 1re classe ne peut excéder 15 p. 100 de l'effectif total du corps.
+Le nombre des emplois d'agent de constatation principal de 1re classe ne peut excéder 15 % de l'effectif total du corps.
 
 d) Corps et agents de bureau et des agents de service des alcools classés dans la catégorie D prévue à l'article 17 de l'ordonnance du 4 février 1959 susvisée et régis par les dispositions des décrets susvisés n° 70-79 du 27 janvier 1970 modifié et 58-651 et 58-652 du 30 juillet 1958 modifiés.

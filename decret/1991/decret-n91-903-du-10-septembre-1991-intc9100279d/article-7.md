@@ -2,7 +2,7 @@
 
 Les auditeurs des sessions sont choisis parmi :
 
-- les magistrats et les fonctionnaires d'un rang correspondant au moins à celui d'administrateur civil de 1re classe ou commissaire divisionnaire, appelés à exercer de hautes responsabilités ;
+- les magistrats et les fonctionnaires d'un rang correspondant au moins à celui d'administrateur civil ou commissaire divisionnaire, appelés à exercer de hautes responsabilités ;
 
 - les officiers de grade égal ou supérieur à celui de lieutenant-colonel ou équivalent ;
 
@@ -13,5 +13,3 @@ Les candidatures des personnels de l'Etat sont présentées par les ministres do
 Les auditeurs des sessions nationales sont désignés par arrêté du ministre de l'intérieur, après instruction des dossiers par le directeur de l'institut. Les auditeurs des sessions régionales sont désignés par le préfet de région compétent.
 
 L'institut peut recevoir des auditeurs étrangers.
-
-Organisation des études et recherches

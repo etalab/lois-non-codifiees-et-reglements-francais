@@ -2,11 +2,11 @@
 
 Les personnels visés par le présent arrêté sont répartis conformément au tableau ci-après entre les différents groupes énumérés par l'arrêté prévu à l'article 5 du décret du 28 mars 1967 susvisé fixant par pays et par groupes les taux de l'indemnité de résidence :
 
-- administrateur civil de 1re classe et hors classe :
+- administrateur civil et hors classe :
 
 groupe 7 ;
 
-- administrateur civil de 2e classe : groupe 8 ;
+- administrateur civil : groupe 8 ;
 
 - attaché de service administratif du 8e au 12e échelon, inspecteur principal adjoint des transmissions, inspecteur des transmissions du 8e au 12e échelon, ingénieur d'études et de fabrications de 1re et 2e classe : groupe 14 ;
 

@@ -2,7 +2,7 @@
 
 Sont supprimés au chapitre 31-90 du budget des services financiers :
 
-- un emploi d'administrateur civil de 1re classe ;
+- un emploi d'administrateur civil ;
 
 - deux emplois d'administrateur de 1re classe de l'I.N.S.E.E. ;
 

@@ -1,9 +1,7 @@
 # Article 3
 
-Le corps des administrateurs civils est réparti en trois classes :
+Le corps des administrateurs civils comporte deux grades :
 
-- la hors-classe comprend sept échelons ;
+- le grade d'administrateur civil qui comprend neuf échelons ;
 
-- la 1re classe comprend six échelons ;
-
-- la 2e classe comprend sept échelons.
+- le grade d'administrateur civil hors classe qui comprend sept échelons.

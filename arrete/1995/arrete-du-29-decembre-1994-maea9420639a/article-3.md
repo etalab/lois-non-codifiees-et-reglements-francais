@@ -8,4 +8,4 @@ Le jury est composé de cinq membres. Il est présidé par un membre du Conseil 
 
 - un fonctionnaire de l'Office français de protection des réfugiés et apatrides ou un fonctionnaire détaché auprès de l'office ;
 
-- un fonctionnaire d'une administration autre que le ministère des affaires étrangères et non détaché auprès de l'office d'un grade au moins égal à celui d'administrateur civil de 2e classe ou un magistrat non détaché auprès de l'office.
+- un fonctionnaire d'une administration autre que le ministère des affaires étrangères et non détaché auprès de l'office d'un grade au moins égal à celui d'administrateur civil ou un magistrat non détaché auprès de l'office.

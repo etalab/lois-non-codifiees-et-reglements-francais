@@ -6,6 +6,6 @@ A cet effet :
 
 Les représentants des grades de conseiller des affaires étrangères de 1re classe et d'administrateur civil hors classe exercent les compétences des représentants du nouveau grade de conseiller des affaires étrangères hors classe ;
 
-Les représentants des grades de conseiller des affaires étrangères de 2e classe et d'administrateur civil de 1re classe exercent les compétences des représentants du nouveau grade de conseiller des affaires étrangères de 1re classe ;
+Les représentants des grades de conseiller des affaires étrangères de 2e classe et d'administrateur civil exercent les compétences des représentants du nouveau grade de conseiller des affaires étrangères de 1re classe ;
 
-Les représentants des grades de secrétaire des affaires étrangères et d'administrateur civil de 2e classe exercent les compétences des représentants du nouveau grade de conseiller des affaires étrangères de 2e classe.
+Les représentants des grades de secrétaire des affaires étrangères et d'administrateur civil exercent les compétences des représentants du nouveau grade de conseiller des affaires étrangères de 2e classe.
