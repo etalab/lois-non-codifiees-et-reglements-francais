@@ -87,6 +87,7 @@
 - [Décret n°88-38 du 13 janvier 1988 (JUSB8710496D)](decret-n88-38-du-13-janvier-1988-jusb8710496d)
 - [Décret n°88-39 du 13 janvier 1988 (JUSB8810001D)](decret-n88-39-du-13-janvier-1988-jusb8810001d)
 - [Décret n°70-403 du 13 mai 1970](decret-n70-403-du-13-mai-1970)
+- [Décret n°86-552 du 14 mars 1986](decret-n86-552-du-14-mars-1986)
 - [Décret n°88-236 du 14 mars 1988 (INTB8800066D)](decret-n88-236-du-14-mars-1988-intb8800066d)
 - [Décret n°88-237 du 14 mars 1988 (INTB8800071D)](decret-n88-237-du-14-mars-1988-intb8800071d)
 - [Décret n°88-238 du 14 mars 1988 (INTB8800070D)](decret-n88-238-du-14-mars-1988-intb8800070d)

@@ -1,5 +1,3 @@
 # Article 18
 
-Le nombre des emplois qui peuvent être pourvus par la nomination de candidats inscrits sur les listes complémentaires d'admission établies respectivement pour les concours externes et internes ne peut excéder 50 p. 100 du nombre des emplois offerts au titre de chacun de ces concours, sous réserve de dérogation prévue par les statuts particuliers.
-
-Lorsque les listes complémentaires d'admission sont utilisées afin de pourvoir des emplois devenus vacants après l'ouverture des concours, les nominations de candidats inscrits sur les listes complémentaires afférentes à l'un et l'autre des deux concours sont prononcées en respectant la proportion entre les nominations correspondant à chacun de ces concours, telle qu'elle est fixée par chaque statut particulier.
+Toute personne, inscrite sur une liste d'aptitude, qui ne serait pas nommée au terme d'un délai d'un an après l'organisation du concours ou de son inscription sur une liste d'aptitude au titre de la promotion interne, est réinscrite sur la même liste dans les conditions prévues au quatrième alinéa de l'article 44 de la loi du 26 janvier 1984 précitée après que l'autorité compétente a reçu confirmation de sa candidature dans un délai d'un mois avant ce terme. "
