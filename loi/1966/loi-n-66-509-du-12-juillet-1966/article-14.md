@@ -1,6 +1,6 @@
 # Article 14
 
-Les caisses mutuelles régionales [*attributions*] sont responsables dans leur circonscription, sous le contrôle de la caisse nationale d'assurance maladie et maternité des travailleurs non salariés, de la gestion du régime d'assurance maladie et maternité et sont chargées de promouvoir, en faveur de leurs ressortissants, une action sanitaire et sociale, ainsi qu'une action de prévention médicale.
+Les caisses mutuelles régionales sont responsables dans leur circonscription, sous le contrôle de la caisse nationale d'assurance maladie et maternité des travailleurs non salariés, de la gestion du régime d'assurance maladie et maternité et sont chargées de promouvoir, en faveur de leurs ressortissants, une action sanitaire et sociale, ainsi qu'une action de prévention médicale.
 
 Ces caisses confient le soin d'assurer pour leur compte l'encaissement des cotisations et le service des prestations prévues par la présente loi :
 
@@ -11,7 +11,5 @@ Ces caisses confient le soin d'assurer pour leur compte l'encaissement des cotis
 Ces organismes sont habilités à cet effet, dans des conditions fixées par décret en Conseil d'Etat, soit pour effectuer l'encaissement des cotisations et le service des prestations, soit pour assurer le service des prestations aux pensionnés ou aux allocataires dont les cotisations sont précomptées dans les conditions déterminées à article 20.
 
 Le décret prévu ci-dessus détermine, d'autre part, les modalités selon lesquelles les assurés expriment leur choix entre ces organismes et, à défaut, sont affiliés d'office à l'un d'eux.
-
-Ce choix est valable pour l'année civile en cours et les deux années suivantes. Il se renouvelle par tacite reconduction, sauf dénonciation adressée par lettre recommandée, trois mois au moins avant l'expiration de chaque période biennale, à la caisse régionale [*compétente*] à laquelle se trouve affilié l'intéressé. Pour être valable, la dénonciation doit indiquer le nouvel organisme habilité choisi par l'intéressé.
 
 Un décret fixe les conditions dans lesquelles se trouve engagée la responsabilité financière de ces organismes, à l'occasion des opérations qui en application du présent article, leur sont confiées par les caisses.

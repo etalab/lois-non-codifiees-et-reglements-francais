@@ -6,9 +6,7 @@ Les caisses sont en principe communes à l'ensemble des groupes de professions. 
 
 La circonscription d'une caisse peut comprendre un ou plusieurs départements.
 
-II. Les personnes mentionnées à l'article 1er de la présente loi sont affiliées à la caisse mutuelle correspondant au lieu de leur résidence et, le cas échéant, à leur groupe professionnel.
-
-Toutefois, les personnes relevant de la profession de la batellerie sont affiliées, dans les conditions fixées par décret, à une section mutuelle autonome d'assurance maladie et maternité des travailleurs non salariés de la batellerie fonctionnant auprès de la caisse primaire nationale d'assurance maladie de la batellerie.
+II. Abrogé.
 
 III. Chaque caisse mutuelle régionale est administrée par un conseil d'administration comprenant :
 

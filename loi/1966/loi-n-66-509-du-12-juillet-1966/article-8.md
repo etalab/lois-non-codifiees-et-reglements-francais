@@ -6,19 +6,7 @@ En ce qui concerne les prothèses dentaires, l'assuré et les membres de sa fami
 
 Les prestations de base comportent également la couverture des médicaments, produits et objets contraceptifs, ainsi que les frais d'analyse et d'examens de laboratoire ordonnés en vue de prescriptions contraceptives [*remboursement*].
 
-Les prestations de base comportent en outre la couverture des frais de transport exposés dans les cas suivants [*remboursement*] :
-
-- en vue d'une hospitalisation dont le caractère d'urgence est reconnu après avis du contrôle médical ;
-
-- lorsque le bénéficiaire doit, sur avis médical, rejoindre son domicile par ambulance après avoir reçu des soins hospitaliers ;
-
-- lorsque le bénéficiaire reconnu atteint d'une affection [*comportant un traitement prolongé et une thérapeutique particulièrement coûteuse*] visée au I (3. et 4.) de l'article L. 286-1 du code de la sécurité sociale, suit un traitement ambulatoire dont le contrôle médical estime qu'il est de nature à éviter son hospitalisation ;
-
-- lorsque le bénéficiaire doit quitter la commune où il réside pour répondre à une convocation du contrôle médical ;
-
-- lorsque le bénéficiaire doit se rendre au centre d'appareillage, soit chez son fournisseur, en vue de la fourniture, de la réparation ou du renouvellement d'un appareil de prothèse ou d'orthopédie.
-
-Dans ces deux derniers cas les tarifs de responsabilité sont fixés par arrêté interministériel.
+Les prestations de base comportent en outre la couverture des frais de transport exposés.
 
 Font également partie des prestations de base la couverture, sur décision de la commission d'éducation spéciale créée par l'article 6 de la loi n° 75-534 du 30 juin 1975, des frais d'hébergement et de traitement des enfants ou adolescents handicapés dans les établissements d'éducation spéciale et professionnelle ainsi que celle des frais de traitement concourant à cette éducation dispensée en dehors de ces établissements, à l'exception de la partie de ces frais incombant à l'Etat en application de l'article 5 de la loi n° 75-534 du 30 juin 1975 [*remboursement*].
 

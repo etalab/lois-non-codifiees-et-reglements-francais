@@ -13,5 +13,3 @@ Il incombe au demandeur [*charge*] d'apporter la preuve :
 - du lien de cause à effet [*causalité*] entre les conséquences de l'accident ou de la maladie et l'état de la victime ;
 
 - du caractère obligatoire de l'assistance d'une tierce personne.
-
-L'allocation, s'il y a lieu, et la majoration prennent effet de la date de la demande.
