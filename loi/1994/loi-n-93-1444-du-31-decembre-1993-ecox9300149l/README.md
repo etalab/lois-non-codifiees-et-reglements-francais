@@ -2,5 +2,6 @@
 
 - [Titre IV : Dispositions relatives à l'épargne.](titre-iv)
 - [Titre V : Dispositions relatives aux opérations de pension.](titre-v)
+- [Titre VIII : Dispositions relatives aux rapatriés.](titre-viii)
 - [Titre X : Octroi de la garantie de l'Etat.](titre-x)
 - [Titre XI : Emprunts régionaux.](titre-xi)

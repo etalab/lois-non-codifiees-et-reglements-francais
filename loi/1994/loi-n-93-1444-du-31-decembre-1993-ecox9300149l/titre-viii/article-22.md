@@ -1,0 +1,7 @@
+# Article 22
+
+Le bénéfice des dispositions de l'article 67 de la loi n° 89-18 du 13 janvier 1989 portant diverses mesures d'ordre social, prorogé par l'article 34 de la loi n° 89-1010 du 31 décembre 1989 relative à la prévention et au règlement des difficultés liées au surendettement des particuliers et des familles, prorogé par l'article 37 de la loi n° 91-1406 du 31 décembre 1991 portant diverses mesures d'ordre social, prorogé par l'article 81 de la loi n° 93-121 du 27 janvier 1993 portant diverses mesures d'ordre social, est étendu jusqu'au 31 décembre 1996 à l'ensemble des personnes dont les dossiers avaient été déposés en préfecture en application de l'article 7 de la loi n° 82-4 du 6 janvier 1982 portant diverses dispositions relatives à la réinstallation des rapatriés et de l'article 10 de la loi n° 87-549 du 16 juillet 1987 relative au règlement de l'indemnisation des rapatriés.
+
+Les personnes pour lesquelles une demande de remise, déposée en application de l'article 44 de la loi de finances rectificative pour 1986 (n° 86-1318 du 30 décembre 1986) et de l'article 12 de la loi n° 87-549 du 16 juillet 1987 précitée, n'a pas encore fait l'objet d'une décision définitive à la date du 31 octobre 1993 bénéficient également de ces dispositions jusqu'à ce que cette décision intervienne, et au plus tard au 31 décembre 1996.
+
+Ces dispositions s'appliquent également aux procédures collectives et aux mesures conservatoires, à l'exclusion des dettes fiscales.
