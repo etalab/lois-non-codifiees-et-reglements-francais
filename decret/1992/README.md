@@ -73,6 +73,7 @@
 - [Décret n°92-218 du 4 mars 1992 (ENVP9200010D)](decret-n92-218-du-4-mars-1992-envp9200010d)
 - [Décret n°92-243 du 4 mars 1992 (FPPX9200030D)](decret-n92-243-du-4-mars-1992-fppx9200030d)
 - [Décret n°92-565 du 4 juin 1992 (EQUP9200341D)](decret-n92-565-du-4-juin-1992-equp9200341d)
+- [Décret n°92-416 du 4 mai 1992 (INTK9200145D)](decret-n92-416-du-4-mai-1992-intk9200145d)
 - [Décret n°82-945 du 5 novembre 1982](decret-n82-945-du-5-novembre-1982)
 - [Décret n°86-1262 du 5 décembre 1986](decret-n86-1262-du-5-decembre-1986)
 - [Décret n°90-1087 du 5 décembre 1990 (EQUX9000144D)](decret-n90-1087-du-5-decembre-1990-equx9000144d)
