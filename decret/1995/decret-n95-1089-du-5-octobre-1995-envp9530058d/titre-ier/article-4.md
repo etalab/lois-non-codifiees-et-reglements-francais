@@ -1,6 +1,6 @@
 # Article 4
 
-En application du 3° de l'article 40-1 de la loi du 22 juillet 1987 susvisée, le plan peut notamment :
+En application du 3° de l'article L. 562-1 du code de l'environnement, le plan peut notamment :
 
 - définir des règles relatives aux réseaux et infrastructures publics desservant son secteur d'application et visant à faciliter les éventuelles mesures d'évacuation ou l'intervention des secours ;
 
