@@ -292,7 +292,6 @@
 - [Arrêté du 8 septembre 1992 (INTA9200427A)](arrete-du-8-septembre-1992-inta9200427a)
 - [Arrêté du 8 septembre 1992 (TEFT9205240A)](arrete-du-8-septembre-1992-teft9205240a)
 - [Arrêté du 9 avril 1992 (MENX9210100A)](arrete-du-9-avril-1992-menx9210100a)
-- [Arrêté du 9 avril 1992 (MENX9210101A)](arrete-du-9-avril-1992-menx9210101a)
 - [Arrêté du 9 décembre 1991 (EQUU9101837A)](arrete-du-9-decembre-1991-equu9101837a)
 - [Arrêté du 9 décembre 1991 (EQUU9101838A)](arrete-du-9-decembre-1991-equu9101838a)
 - [Arrêté du 9 décembre 1991 (EQUU9101839A)](arrete-du-9-decembre-1991-equu9101839a)
