@@ -1,3 +1,5 @@
 # Article 8
 
-L'extrait de l'acte de l'état civil d'un enfant déclaré présentement sans vie figure sur le livret de famille si les parents le demandent. Dans ce cas l'officier de l'état civil indique expressément qu'il s'agit d'un enfant "déclaré présentement sans vie" [*mention obligatoire*].
+Les extraits des actes de naissance des enfants étrangers pour lesquels l'acte de naissance n'est pas conservé par une autorité française peuvent, si les parents le demandent, être portés sur les livrets de famille au vu d'une copie ou d'un extrait de l'acte étranger déposé au service central de l'état civil du ministère des affaires étrangères.
+
+Dans le cas de parents réfugiés et apatrides, le dépôt des pièces est effectué auprès de l'Office français de protection des réfugiés et apatrides.
