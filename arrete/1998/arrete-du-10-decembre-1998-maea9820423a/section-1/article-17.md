@@ -12,7 +12,7 @@ La sous-direction de la formation, des concours, des affaires juridiques et soci
 
 La sous-direction des personnels culturels et de coopération est chargée, avec l'appui de la direction générale de la coopération internationale et du développement, du recrutement et de l'affectation des personnels des services culturels et de coopération des missions diplomatiques et des postes consulaires à l'étranger, des établissements culturels et de coopération, des alliances françaises et des coopérants ou des volontaires du service national. Elle assure en outre la gestion de ces personnels. Elle est également chargée du recrutement et de l'affectation, avec l'accord des services intéressés, et de la gestion des personnels coopérants et des assistants techniques affectés auprès d'Etats étrangers ou d'institutions étrangères ou internationales situées à l'étranger.
 
-La sous-direction du personnel et du service intérieur à Nantes est compétente à l'égard des personnels des services du ministère des affaires étrangères implantés à Nantes en liaison avec les sous-directions spécialisées de la direction des ressources humaines.
+La sous-direction du personnel et du service intérieur à Nantes est compétente à l'égard des personnels des services du ministère des affaires étrangères implantés à Nantes en liaison avec les directions de la direction générale de l'administration et leurs sous-directions spécialisées.
 
 La mission pour l'action sociale est responsable de l'action sociale, de la médecine préventive et du suivi des questions d'hygiène et de sécurité. Elle prépare et met en oeuvre les décisions de l'association des oeuvres sociales du ministère des affaires étrangères.
 
