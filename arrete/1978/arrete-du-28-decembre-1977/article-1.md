@@ -1,5 +1,3 @@
 # Article 1
 
-La biodégradabilité des agents de surface anioniques est mesurée en déterminant l'abaissement de leur concentration par biodégradation.
-
-Le taux de biodégradation est obtenu en application de la méthode dont les principes sont définis ci-après et dont le mode opératoire détaillé fait l'objet de la norme française T 73-260.
+Lorsqu'un produit cosmétique ou un produit d'hygiène corporelle contient l'une des substances énumérées au tableau annexé au présent arrêté, le récipient, l'emballage ou la notice de ce produit doivent, dans les conditions prévues par le décret du 28 avril 1977 susvisé, comporter la mention indiquée audit tableau et correspondant à cette substance. Cette mention doit, dans tous les cas, être précédée soit du mot "important", soit des mots "précautions d'emploi".
