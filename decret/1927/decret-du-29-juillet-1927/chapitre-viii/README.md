@@ -5,3 +5,4 @@
 - [Donne exécution des ouvrages.](donne-execution-des-ouvrages)
 - [Etablissement d'office des plans et dessins.](etablissement-d-office-des-plans-et)
 - [Révision annuelle des plans et dessins.](revision-annuelle-des-plans-et)
+- [Mise en exploitation.](mise-en-exploitation)
