@@ -627,7 +627,6 @@
 - [Arrêté du 21 décembre 1989 (MAEF8910053A)](arrete-du-21-decembre-1989-maef8910053a)
 - [Arrêté du 21 décembre 1989 (MENH8902996A)](arrete-du-21-decembre-1989-menh8902996a)
 - [Arrêté du 21 décembre 1990 (BUDF9010085A)](arrete-du-21-decembre-1990-budf9010085a)
-- [Arrêté du 21 décembre 1990 (DEFD9002274A)](arrete-du-21-decembre-1990-defd9002274a)
 - [Arrêté du 21 décembre 1990 (SPSS9002512A)](arrete-du-21-decembre-1990-spss9002512a)
 - [Arrêté du 21 décembre 1990 (SPSS9002559A)](arrete-du-21-decembre-1990-spss9002559a)
 - [Arrêté du 21 décembre 1992 (INTA9300030A)](arrete-du-21-decembre-1992-inta9300030a)
