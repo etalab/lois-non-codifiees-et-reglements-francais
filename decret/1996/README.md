@@ -18,6 +18,7 @@
 - [Décret n°96-592 du 2 juillet 1996 (TASS9621894D)](decret-n96-592-du-2-juillet-1996-tass9621894d)
 - [Décret n°96-688 du 2 août 1996 (TASS9622395D)](decret-n96-688-du-2-aout-1996-tass9622395d)
 - [Décret n°96-689 du 2 août 1996 (ECOT9651541D)](decret-n96-689-du-2-aout-1996-ecot9651541d)
+- [Décret n°96-764 du 2 septembre 1996 (BUDL9600079D)](decret-n96-764-du-2-septembre-1996-budl9600079d)
 - [Décret n°96-8 du 2 janvier 1996 (MAEJ9530115D)](decret-n96-8-du-2-janvier-1996-maej9530115d)
 - [Décret n°96-86 du 2 février 1996 (TASS9620210D)](decret-n96-86-du-2-fevrier-1996-tass9620210d)
 - [Décret n°96-878 du 2 octobre 1996 (DEFP9601808D)](decret-n96-878-du-2-octobre-1996-defp9601808d)
