@@ -14,6 +14,7 @@
 - [Décret n°88-38 du 13 janvier 1988 (JUSB8710496D)](decret-n88-38-du-13-janvier-1988-jusb8710496d)
 - [Décret n°88-157 du 16 février 1988 (FPPA8700092D)](decret-n88-157-du-16-fevrier-1988-fppa8700092d)
 - [Décret n°90-1022 du 16 novembre 1990 (PRMG8970365D)](decret-n90-1022-du-16-novembre-1990-prmg8970365d)
+- [Décret n°69-389 du 18 avril 1969](decret-n69-389-du-18-avril-1969)
 - [Décret n°87-851 du 19 octobre 1987 (MENL8700629D)](decret-n87-851-du-19-octobre-1987-menl8700629d)
 - [Décret n°88-1139 du 20 décembre 1988 (MCCB8800337D)](decret-n88-1139-du-20-decembre-1988-mccb8800337d)
 - [Décret n°88-68 du 21 janvier 1988 (MENB8800063D)](decret-n88-68-du-21-janvier-1988-menb8800063d)
