@@ -1,8 +1,8 @@
 # Article 10
 
-Peuvent accéder à la 3e classe du corps des personnels de direction de 2e catégorie, dans la limite du quinzième du nombre des nominations en qualité de stagiaire prononcées l'année précédente dans ce corps, les candidats inscrits sur une liste d'aptitude.
+Peuvent accéder à la 3e classe du corps des personnels de direction de 2e catégorie, dans la limite du quinzième du nombre des nominations en qualité de stagiaire prononcées l'année précédente dans ce corps, les candidats inscrits sur une liste d'aptitude. Pour l'année 1989, la limite du quinzième s'apprécie par rapport au nombre des nominations en qualité de stagiaire prononcées la même année dans le corps des personnels de direction de 2e catégorie.
 
-Ces candidats doivent occuper un emploi de directeur adjoint chargé de section d'éducation spécialisée de collège, de directeur d'établissement régional d'enseignement adapté, de directeur d'école régionale du 1er degré, de directeur d'établissement spécialisé ou de maître directeur, et justifier de dix ans de services effectifs dans un ou plusieurs de ces emplois.
+Ces candidats doivent occuper un emploi de directeur adjoint chargé de section d'éducation spécialisée de collège, de directeur d'établissement régional d'enseignement adapté, de directeur d'école régionale du 1er degré, de directeur d'établissement spécialisé ou de directeur d'école, et justifier de dix ans de services effectifs dans un ou plusieurs de ces emplois.
 
 Le nombre des inscriptions sur la liste d'aptitude ne peut excéder de plus de 50 p. 100 [*pourcentage*] celui des nominations susceptibles d'être prononcées à ce titre.
 
