@@ -356,6 +356,7 @@
 - [Arrêté du 15 janvier 1992 (MENT9102529A)](arrete-du-15-janvier-1992-ment9102529a)
 - [Arrêté du 15 janvier 1992 (SPSG9102337A)](arrete-du-15-janvier-1992-spsg9102337a)
 - [Arrêté du 15 janvier 1993 (PRMX9300025A)](arrete-du-15-janvier-1993-prmx9300025a)
+- [Arrêté du 15 juillet 1992 (TEFT9205028A)](arrete-du-15-juillet-1992-teft9205028a)
 - [Arrêté du 15 juin 1992 (BUDL9200113A)](arrete-du-15-juin-1992-budl9200113a)
 - [Arrêté du 15 juin 1992 (MENN9202427A)](arrete-du-15-juin-1992-menn9202427a)
 - [Arrêté du 15 juin 1992 (MENN9202428A)](arrete-du-15-juin-1992-menn9202428a)

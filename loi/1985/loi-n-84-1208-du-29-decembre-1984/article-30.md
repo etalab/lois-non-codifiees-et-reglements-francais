@@ -24,7 +24,9 @@ Toutefois, les employeurs sont exonérés totalement ou partiellement de cette o
 
 - ou bien ils justifient avoir versé des fonds à cette fin à un organisme de mutualisation.
 
-III   Pour l'application des paragraphes I et II ci-dessus, les employeurs qui ont effectué des versements à des organismes de mutualisation sont réputés s'être acquittés de leurs obligations à concurrence des versements effectués, sans préjudice des dépenses qu'ils auront éventuellement exposées pour l'organisation directe des actions de formation des jeunes mentionnées dans la présente loi. Les employeurs qui ont engagé des dépenses leur ayant permis de réaliser directement des actions de formation des jeunes sont réputés s'être acquittés de leurs obligations à raison de cinquante francs par heure de formation pour les contrats d'orientation et pour les contrats d'adaptation à l'emploi et de soixante francs par heure de formation pour les contrats de qualification.
+III     Pour l'application des paragraphes I et II ci-dessus, les employeurs qui ont effectué des versements à des organismes de mutualisation sont réputés s'être acquittés de leurs obligations à concurrence des versements effectués, sans préjudice des dépenses qu'ils auront éventuellement exposées pour l'organisation directe des actions de formation des jeunes mentionnées dans la présente loi. Les employeurs qui ont engagé des dépenses leur ayant permis de réaliser directement des actions de formation des jeunes sont réputés s'être acquittés de leurs obligations à raison de cinquante francs par heure de formation pour les contrats d'orientation et pour les contrats d'adaptation à l'emploi et de soixante francs par heure de formation pour les contrats de qualification.
+
+Ces taux ne s'appliquent qu'aux contrats conclus à compter du 1er janvier 1992.
 
 Le contrôle des dépenses est assuré par le service de l'Etat chargé de la formation professionnelle.
 
