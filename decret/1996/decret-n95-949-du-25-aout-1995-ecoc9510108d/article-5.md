@@ -1,0 +1,15 @@
+# Article 5
+
+L'emploi de la mention prévue à l'article précédent n'est autorisé que si le lit superposé satisfait à l'une des obligations suivantes :
+
+1. Avoir été fabriqué conformément aux normes de sécurité françaises ou étrangères le concernant dont les références sont publiées au Journal officiel de la République française.
+
+Dans ce cas, le fabricant ou son mandataire établi sur le territoire d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord instituant l'Espace économique européen ou, à défaut, tout responsable de la première mise sur le marché tient à la disposition des agents chargés du contrôle un dossier comprenant, outre l'adresse des lieux de fabrication et d'entreposage, une description des moyens par lesquels le fabricant s'assure de la conformité de sa production aux normes publiées au Journal officiel de la République française.
+
+Dans le cas des lits superposés bénéficiant d'une certification incluant dans son règlement technique les prescriptions prévues à l'article 3 et délivrée par un organisme agréé, le dossier mentionné au paragraphe précédent peut être remplacé par le certificat de conformité aux exigences de sécurité. Cet organisme français ou établi dans un Etat membre de la Communauté européenne ou de l'Association européenne de libre-échange pour lequel l'accord sur l'Espace économique européen est entré en vigueur est agréé par le ministre chargé de l'industrie, sur la base notamment des critères généraux de compétence définis par les normes de la série NF EN 45-000. Cette décision d'agrément fera l'objet d'une publicité au Journal officiel de la République française.
+
+2. Etre conforme à un modèle type bénéficiant d'une attestation de conformité aux exigences de sécurité définies à l'article 3 ci-dessus, délivrée à la suite d'un examen de type par un organisme français ou établi dans un Etat membre de la Communauté européenne ou de l'Association européenne de libre échange pour lequel l'accord sur l'Espace économique européen est entré en vigueur. Cet organisme est agréé par le ministre chargé de l'industrie, sur la base notamment des critères généraux de compétence définis par les normes de la série NF EN 45000. Cette décision d'agrément fera l'objet d'une publicité au Journal officiel de la République française.
+
+Dans ce cas, le fabricant ou son mandataire établi sur territoire d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord instituant l'Espace économique européen ou, à défaut, tout responsable de la première mise sur le marché tient à la disposition des agents chargés du contrôle un dossier comprenant l'attestation de conformité aux exigences de sécurité ou une copie certifiée conforme, une description des moyens par lesquels le fabricant s'assure de la conformité de sa production au modèle examiné et l'adresse des lieux de fabrication et d'entreposage.
+
+Le dossier visé aux 1 et 2 ci-dessus ou le certificat de conformité visé au 1 devra être conservé dix ans à compter de la date de la dernière mise sur le marché du lit superposé correspondant.
