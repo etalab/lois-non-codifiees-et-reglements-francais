@@ -410,6 +410,7 @@
 - [Arrêté du 18 octobre 2004 (INTA0400781A)](arrete-du-18-octobre-2004-inta0400781a)
 - [Arrêté du 18 mai 2004 (EQUS0400731A)](arrete-du-18-mai-2004-equs0400731a)
 - [Arrêté du 18 mai 2004 (SANY0421830A)](arrete-du-18-mai-2004-sany0421830a)
+- [Arrêté du 19 août 2004 (SANP0422440A)](arrete-du-19-aout-2004-sanp0422440a)
 - [Arrêté du 19 avril 2004 (AGRE0401100A)](arrete-du-19-avril-2004-agre0401100a)
 - [Arrêté du 19 décembre 2003 (EQUT0301791A)](arrete-du-19-decembre-2003-equt0301791a)
 - [Arrêté du 19 décembre 2003 (EQUU0301743A)](arrete-du-19-decembre-2003-equu0301743a)

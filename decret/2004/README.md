@@ -373,6 +373,8 @@
 - [Décret n°2004-726 du 19 juillet 2004 (SANS0422260D)](decret-n2004-726-du-19-juillet-2004-sans0422260d)
 - [Décret n°2004-73 du 19 janvier 2004 (SANS0324118D)](decret-n2004-73-du-19-janvier-2004-sans0324118d)
 - [Décret n°2004-730 du 19 juillet 2004 (DOMA0400025D)](decret-n2004-730-du-19-juillet-2004-doma0400025d)
+- [Décret n°2004-829 du 19 août 2004 (SANP0422438D)](decret-n2004-829-du-19-aout-2004-sanp0422438d)
+- [Décret n°2004-832 du 19 août 2004 (DEVX0400152D)](decret-n2004-832-du-19-aout-2004-devx0400152d)
 - [Décret n°99-886 du 19 octobre 1999 (MENF9901993D)](decret-n99-886-du-19-octobre-1999-menf9901993d)
 - [Décret n°2004-428 du 19 mai 2004 (ECOT0426335D)](decret-n2004-428-du-19-mai-2004-ecot0426335d)
 - [Décret n°2004-431 du 19 mai 2004 (MENF0400810D)](decret-n2004-431-du-19-mai-2004-menf0400810d)
