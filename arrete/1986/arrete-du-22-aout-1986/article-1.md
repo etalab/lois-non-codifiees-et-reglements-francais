@@ -1,3 +1,3 @@
 # Article 1
 
-Les marchandises autres que celles visées à l'article 142 (2°) du code des douanes peuvent séjourner en entrepôt public pendant trois ans.
+La fluméquine ou acide fluoro-9 méthyl-5 oxo-1 dihydro-6, 7 1H, 5H benzo "i, j" quinolizine carboxylique-2 et ses sels ne peuvent être utilisés en agriculture que dans les conditions fixées ci-après.

@@ -22,6 +22,7 @@
 - [Arrêté du 5 juillet 1985](arrete-du-5-juillet-1985)
 - [Arrêté du 5 juin 1986](arrete-du-5-juin-1986)
 - [Arrêté du 5 mars 1986](arrete-du-5-mars-1986)
+- [Arrêté du 5 septembre 1986](arrete-du-5-septembre-1986)
 - [Arrêté du 5 mai 1986](arrete-du-5-mai-1986)
 - [Arrêté du 6 août 1986](arrete-du-6-aout-1986)
 - [Arrêté du 6 janvier 1986](arrete-du-6-janvier-1986)

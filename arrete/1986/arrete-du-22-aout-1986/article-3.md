@@ -1,3 +1,5 @@
 # Article 3
 
-Le délai de séjour en entrepôt spécial des produits visés au tableau B de l'article 265 du code des douanes est fixé par le directeur général des douanes et droits indirects dans la limite d'une durée de trois ans.
+L'emploi de la fluméquine n'est autorisé que pour lutter contre le feu bactérien (Erwinia amylovora), conformément aux décisions d'homologation.
+
+Le délai entre le dernier traitement et la récolte est fixé à deux semaines pour les pommiers et les poiriers.

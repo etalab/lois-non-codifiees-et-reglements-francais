@@ -1,3 +1,3 @@
 # Article 5
 
-Le directeur général des douanes et droits indirects est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+En cas d'inconvénient grave nécessitant une interdiction d'emploi immédiate, la vente, la mise en vente ainsi que toute distribution à titre gratuit des spécialités à base de fluméquine cessent immédiatement après notification du retrait d'homologation conformément aux dispositions prévues au quatrième alinéa de l'article 8 de l'arrêté du 7 octobre 1974 susvisé.
