@@ -1,6 +1,6 @@
 # Article 1
 
-Sont membres de la Commission nationale de concertation mentionnée à l'article 41 de la loi n° 86-1290 du 23 décembre 1986 susvisée [*composition*] :
+Sont membres de la Commission nationale de concertation mentionnée à l'article 41 de la loi n° 86-1290 du 23 décembre 1986 susvisée :
 
 a) Pour les organisations nationales représentatives des bailleurs :
 
@@ -16,7 +16,7 @@ L'association des propriétaires sociaux (A.P.S.) ;
 
 La fédération française des sociétés d'assurances (F.F.S.A.) ;
 
-Le groupement des sociétés immobilières d'investissement (G.S.I.I.) ;
+La Fédération des sociétés immobilières et foncières (F.S.I.F.) ;
 
 L'union nationale de la propriété immobilière (U.N.P.I.) ;
 
