@@ -1,0 +1,5 @@
+# Article 15
+
+Lorsque le maître d'oeuvre de l'identification est informé par le directeur des services vétérinaires que l'exploitation d'un détenteur fait l'objet d'une limitation des mouvements de ses animaux, tel que prévu aux articles 32 et 33 du présent arrêté, il est tenu, pour toute notification de perte d'une marque auriculaire agréée sur un animal, par ledit détenteur, d'envoyer un agent identificateur habilité dans l'exploitation, pour y effectuer une vérification de l'identification avant de réaliser le remplacement de la marque auriculaire perdue. Si, après vérification de l'identification des animaux de l'exploitation, du registre des bovins et des passeports présents sur l'exploitation, les preuves de l'identité du bovin ayant perdu la marque auriculaire agréée peuvent être établies, l'agent identificateur habilité procède au remplacement à l'identique de la marque auriculaire agréée.
+
+Dans le cas contraire, l'agent identificateur habilité est tenu d'en informer le directeur des services vétérinaires et le directeur départemental de l'agriculture et de la forêt.
