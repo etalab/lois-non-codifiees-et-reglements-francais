@@ -1,6 +1,6 @@
 # Article 1
 
-Le corps des techniciens paramédicaux de l'Institution nationale des invalides, classé dans la catégorie B prévue à l'article 29 de la loi du 11 janvier 1984 susvisée, comprend les grades suivants :
+Il est créé un corps des techniciens paramédicaux de l'Institution nationale des invalides, classé dans la catégorie B prévue à l'article 29 de la loi du 11 janvier 1984 susvisée, qui comprend les grades suivants :
 
 - technicien de classe normale ;
 
@@ -8,6 +8,12 @@ Le corps des techniciens paramédicaux de l'Institution nationale des invalides,
 
 - technicien surveillant des services médicaux.
 
-Les agents peuvent être promus dans la classe supérieure dans la limite de 30 p. 100 de l'effectif d'ensemble des agents des deux premiers grades ou d'un agent au moins lorsque ce pourcentage n'est pas applicable.
+Les agents titulaires du grade de technicien surveillant des services médicaux sont chargés de fonctions d'encadrement correspondant à leur qualification. Ils peuvent être appelés à participer aux différents jurys constitués en vue de l'admission dans les écoles ou centres relevant d'établissements d'hospitalisation publics qui préparent aux différents diplômes et de la délivrance des diplômes ou certificats sanctionnant la formation.
 
-Les techniciens surveillants des services médicaux sont chargés des fonctions d'encadrement correspondant à leur qualification.
+L'effectif des techniciens de classe supérieure par rapport à l'effectif total des deux premiers grades de techniciens paramédicaux ne peut excéder les pourcentages suivants :
+
+5 p. 100 à compter du 1er août 1994 ;
+
+10 p. 100 à compter du 1er août 1995 ;
+
+15 p. 100 à compter du 1er août 1996.

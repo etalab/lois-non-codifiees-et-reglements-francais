@@ -1,15 +1,23 @@
 # Article 3
 
-Dans chacune des branches définies à l'article 2 ci-dessus, les techniciens paramédicaux sont recrutés à la suite d'un concours sur titres ouvert aux candidats âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours et titulaires :
+Dans chacune des branches définies à l'article 2 ci-dessus, les techniciens paramédicaux sont recrutés à la suite d'un concours sur titres ouvert aux candidats âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours. La limite d'âge supérieure est reculée ou supprimée dans les conditions prévues par les textes législatifs et réglementaires en vigueur.
 
-- pour la branche Kinésithérapie, du diplôme d'Etat de masseur-kinésithérapeute ;
+Les candidats doivent posséder :
 
-- pour la branche Laboratoire, du diplôme d'Etat de laborantin d'analyses médicales, du brevet de technicien supérieur de biochimiste, du diplôme universitaire de technologie, spécialité Biologie appliquée, option Analyses biologiques et biochimiques, du brevet de technicien supérieur d'analyses biologiques ou du brevet de technicien supérieur agricole, option Laboratoire d'analyses biologiques ;
+1. Pour la branche Kinésithérapie : le diplôme d'Etat de masseur-kinésithérapeute ;
 
-- pour la branche Electroradiologie médicale, du diplôme d'Etat de manipulateur d'électroradiologie ou du brevet de technicien supérieur d'électroradiologie médicale.
+2. Pour la branche Laboratoire : le diplôme d'Etat de laborantin d'analyses médicales, le brevet de technicien supérieur de biochimiste, le diplôme universitaire de technologie, branche Biologie appliquée, option Analyses biologiques et biochimiques, le brevet de technicien supérieur d'analyses biologiques ou le brevet de technicien supérieur agricole, option Laboratoire d'analyses biologiques ;
 
-La limite d'âge du concours mentionnée au premier alinéa ci-dessus s'entend sans préjudice de l'application des dispositions en vigueur en matière de reports de limite d'âge au titre des services militaires, du service national et des charges de famille.
+3. Pour la branche Electroradiologie médicale : le diplôme d'Etat de manipulateur d'électroradiologie médicale, le brevet de technicien supérieur d'électroradiologie médicale ou le diplôme de technicien supérieur en imagerie médicale et radiologie thérapeutique ;
 
-La limite d'âge est également reculée, dans la limite de cinq années, de la durée des services accomplis par les candidats, et valables ou validables pour les régimes de retraite du code des pensions civiles et militaires de retraite ou de la Caisse nationale de retraite des collectivités locales à la condition que ces services ne soient pas rémunérés par une pension.
+4. Pour la branche Ergothérapie : le diplôme d'Etat d'ergothérapeute ;
 
-Un arrêté conjoint du ministre chargé des anciens combattants et du ministre chargé de la fonction publique fixe les modalités du concours et les règles relatives à la composition et au fonctionnement du jury.
+5. Pour la branche Orthophonie : le certificat de capacité d'orthophoniste délivré par les unités de formation et de recherche médicale ou les unités de formation et de recherche mixte, médicale et pharmaceutique, institué par le décret n° 66-839 du 10 novembre 1966 portant création dans les facultés de médecine et les facultés mixtes de médecine et de pharmacie d'un certificat de capacité d'orthophoniste, ou une autorisation d'exercer la profession sans limitation ;
+
+6. Pour la branche Diététique : le brevet de technicien supérieur de diététicien ou le diplôme universitaire de technologie, branche Biologie appliquée, option Diététique.
+
+Les règles d'organisation générale des concours, la nature et le programme des épreuves sont fixés par arrêté du ministre chargé de la fonction publique et du ministre des anciens combattants et victimes de guerre.
+
+Les conditions d'organisation des concours et la composition des jurys sont fixées par arrêté du ministre des anciens combattants et victimes de guerre.
+
+Le nombre de postes qui peuvent être pourvus par la nomination de candidats inscrits sur la liste complémentaire ne peut excéder 50 p. 100 du nombre des postes offerts au concours.
