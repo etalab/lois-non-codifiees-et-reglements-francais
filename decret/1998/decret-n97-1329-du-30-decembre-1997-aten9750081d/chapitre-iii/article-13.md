@@ -8,6 +8,8 @@ Il s'agit en particulier des travaux permettant de garantir un équilibre hydrau
 
 - l'aménagement et la réhabilitation des vasières, roselières et prairies ;
 
+- l'aménagement de reposoirs en mer ou sur terre pour l'accueil de l'avifaune ;
+
 - les travaux d'aménagement permettant d'assurer les échanges hydrauliques entre les différentes zones de la réserve naturelle, ainsi que les travaux d'aménagement conciliables avec les objectifs généraux de la réserve qui pourraient améliorer les conditions de sédimentation et d'exploitation du chenal de Rouen ;
 
 - l'entretien des fossés, canaux, vannes, buses d'écoulement des eaux ;
@@ -42,4 +44,4 @@ Les projets correspondants prennent en compte les objectifs du plan de gestion d
 
 Les digues concernées sont la digue basse nord, la digue D 2 et la digue sud du quai de Bougainville sur la rive droite, ainsi que la digue sud sur la rive gauche.
 
-6° Paragraphe annulé par décision du Conseil d'Etat.
+6° Le préfet peut autoriser, après avis du préfet maritime s'il y a lieu et du comité consultatif, les équipements nécessaires au suivi scientifique de l'estuaire recommandés par le conseil scientifique.
