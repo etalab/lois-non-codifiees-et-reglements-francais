@@ -2,7 +2,7 @@
 
 Seront punis d'un emprisonnement d'un an et d'une amende de 60.000 F ou de l'une de ces deux peines seulement [*sanctions pénales*], les fondateurs, le président du conseil d'administration, Les administrateurs ou les directeurs généraux d'une société anonyme, ainsi que les titulaires ou porteurs d'actions qui, sciemment, auront négocié :
 
-1° Des actions sans valeur nominale ;
+1° (supprimé) ;
 
 2° Des actions de numéraire qui ne sont pas demeurées sous la forme nominative jusqu'à leur entière libération ;
 
