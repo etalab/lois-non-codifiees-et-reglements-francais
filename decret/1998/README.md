@@ -388,6 +388,8 @@
 - [Décret n°98-326 du 27 avril 1998 (JUSC9820181D)](decret-n98-326-du-27-avril-1998-jusc9820181d)
 - [Décret n°98-327 du 27 avril 1998 (INTM9800010D)](decret-n98-327-du-27-avril-1998-intm9800010d)
 - [Décret n°98-60 du 27 janvier 1998 (AGRE9702400D)](decret-n98-60-du-27-janvier-1998-agre9702400d)
+- [Décret n°98-407 du 27 mai 1998 (MENF9800777D)](decret-n98-407-du-27-mai-1998-menf9800777d)
+- [Décret n°98-408 du 27 mai 1998 (MENF9800776D)](decret-n98-408-du-27-mai-1998-menf9800776d)
 - [Décret n°92-872 du 28 août 1992 (INTB9200384D)](decret-n92-872-du-28-aout-1992-intb9200384d)
 - [Décret n°98-316 du 28 avril 1998 (ECOT9851675D)](decret-n98-316-du-28-avril-1998-ecot9851675d)
 - [Décret n°98-318 du 28 avril 1998 (AGRG9800163D)](decret-n98-318-du-28-avril-1998-agrg9800163d)

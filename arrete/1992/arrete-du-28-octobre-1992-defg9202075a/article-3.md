@@ -6,4 +6,4 @@ Les destinataires des informations enregistrées sont :
 
 - les autorités hiérarchiques de la gendarmerie ;
 
-- les autorités administratives, judiciaires ou militaires qui sont soit émettrices des documents reçus par l'unité précitée, soit destinataires des procédures et du courrier rédigés par celle-ci.
+- les autorités administratives, judiciaires ou militaires qui sont soit émettrices des documents reçus par l'unité précitée, soit destinataires des procès-verbaux et du courrier rédigés par celle-ci.

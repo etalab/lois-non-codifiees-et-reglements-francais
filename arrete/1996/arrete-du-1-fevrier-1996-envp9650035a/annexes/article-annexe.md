@@ -88,7 +88,13 @@ c) La remise en état du site après exploitation ;
 
 Variante 2 (pour les carrières) : la remise en état du site après exploitation ;
 
-Pour la variante 1, l'acte de cautionnement peut ne viser que l'un des objets a, b ou c.
+Variante 3 (pour les installations figurant sur la liste prévue à l'article 7-1 de la loi du 19 juillet 1976) :
+
+a) La surveillance et le maintien en sécurité de l'installation en cas d'événement exceptionnel susceptible d'affecter l'environnement ;
+
+b) Les interventions en cas d'accident ou de pollution.
+
+Pour la variante 1, l'acte de cautionnement peut ne viser que l'un des objets a, b ou c. Pour la variante 3, il peut ne viser que l'un des objets a ou b.
 
 (7) Montant en chiffres et en lettres ; pour la variante 1, le montant maximum de chaque objet peut être indiqué dans la mesure où les objets peuvent être distingués.
 
