@@ -1,13 +1,13 @@
 # Article 10
 
-Le tirage au sort est effectué par le directeur régional des affaires sanitaires et sociales concerné [*autorité compétente*], assisté du médecin inspecteur régional de la santé, parmi les praticiens de la spécialité considérée en fonctions dans la région sanitaire pour laquelle le concours est organisé.
+Le tirage au sort est effectué par le directeur régional des affaires sanitaires et sociales concerné, assisté du médecin inspecteur régional de la santé.
 
-Les urnes doivent être composées d'un nombre de praticiens au moins trois fois supérieur aux membres nécessaires (y compris les suppléants).
+Les urnes de tirage au sort sont constituées de l'ensemble des personnels enseignants et hospitaliers et des praticiens de la spécialité exerçant dans la région.
 
-Si le nombre de praticiens de la spécialité en exercice dans la région sanitaire concernée est insuffisant pour constituer l'urne, il est fait appel aux praticiens de la spécialité en exercice dans une ou plusieurs régions sanitaires limitrophes. La ou les régions ajoutées sont désignées par tirage au sort.
+Toutefois, si le nombre de membres de la spécialité exerçant dans la région est insuffisant pour constituer le jury, les urnes sont complétées en tant que de besoin selon les règles suivantes :
 
-Néanmoins, avant complément des urnes, un premier tirage au sort doit permettre qu'il y ait au moins un membre de chaque catégorie originaire de la région concernée ou, en cas d'impossibilité, au moins trois membres au total dans le jury de six qui en soient originaires.
+- en premier lieu, par l'apport de l'ensemble des membres de la spécialité en exercice dans les régions limitrophes ;
 
-Dans le cas où le jury est augmenté en raison du nombre de candidats, il doit y avoir autant que possible, par tranche de trois membres supplémentaires, au moins un qui soit originaire de la région concernée.
+- en second lieu, par l'apport de l'ensemble des membres de la spécialité en exercice sur le territoire métropolitain ;
 
-Toutefois, si le nombre de praticiens en exercice dans la région concernée, et susceptible de faire partie du jury, est insuffisant pour satisfaire à ces contraintes, le tirage au sort s'effectue à partir des urnes qui ont été constituées avec l'apport des régions limitrophes.
+- en troisième lieu, par l'apport de l'ensemble des membres d'autres spécialités selon les règles définies au III de l'annexe II de l'arrêté du 6 mars 1989 modifié relatif à l'organisation du concours national de praticien hospitalier susvisé. L'urne de tirage au sort concernée est complétée dans ce cas d'abord au niveau régional puis au niveau des régions limitrophes et, en dernier lieu, au niveau du territoire métropolitain.
