@@ -60,7 +60,7 @@ III. - Mentions apposées sur les véhicules de catégories C et D
 
 1. Insigne distinctif
 
-a) Les véhicules répondant aux conditions minimales prévues par la présente annexe portent un insigne distinctif qui consiste en une croix régulière à six branches, l'une étant placée dans la position verticale, s'inscrivant dans un cercle théorique de 0,2 mètre de rayon au minimum, et de 0,25 mètre au maximum, la largeur de chaque branche étant le quart de la longueur. La couleur de cet insigne est bleu.
+a) Les véhicules répondant aux conditions minimales prévues par la présente annexe portent un insigne distinctif qui consiste en une croix régulière à six branches, l'une étant placée dans la position verticale, s'inscrivant dans un cercle théorique de 0,2 mètre de rayon au minimum, et de 0,25 mètre au maximum, la largeur de chaque branche étant la moitié de la longueur. La couleur de cet insigne est bleu.
 
 b) L'insigne distinctif est apposé de manière inamovible sur le capot et les portières avant des véhicules ; il peut également figurer sur la partie arrière de la carrosserie.
 

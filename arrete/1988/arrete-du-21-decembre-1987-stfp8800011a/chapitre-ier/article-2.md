@@ -4,9 +4,7 @@ Il est constitué [*contenu du dossier*] :
 
 1° De renseignements concernant la personne qui demande l'agrément :
 
-- désignation, extrait de casier judiciaire de la personne responsable, adresse de la personne physique ou morale qui demande l'agrément, éventuellement nom commercial utilisé ;
-
-- s'il s'agit d'un artisan, extrait du répertoire des métiers ;
+- désignation, adresse de la personne physique ou morale qui demande l'agrément, éventuellement non commercial utilisé, désignation et extrait de casier judiciaire de la personne responsable ;
 
 - s'il s'agit d'une association ou d'une société, ses statuts ;
 
