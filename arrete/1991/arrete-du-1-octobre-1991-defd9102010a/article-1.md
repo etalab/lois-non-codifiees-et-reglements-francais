@@ -12,7 +12,7 @@ Commandant des forces françaises stationnées en Allemagne ;
 
 Commandant des organismes de formation de l'armée de terre ;
 
-Commandant de la doctrine et de l'entraînement ;
+Commandant de la doctrine et de l'enseignement militaire supérieur de l'armée de terre ;
 
 Commandant de circonscription militaire de défense ;
 
