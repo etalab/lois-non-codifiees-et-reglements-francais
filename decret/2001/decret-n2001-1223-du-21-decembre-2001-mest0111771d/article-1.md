@@ -1,0 +1,3 @@
+# Article 1
+
+Pour les activités financières de La Poste définies à l'article L. 518-25 du code monétaire et financier, exercées entre la date de publication du présent décret et le 17 février 2002, et en ce qui concerne le personnel de droit privé dont la participation est requise pour l'introduction de l'euro, les décisions prises sur la base du deuxième alinéa de l'article L. 212-1 et du troisième alinéa de l'article L. 220-1 du code du travail le sont, au titre de l'ensemble des établissements concernés par la demande d'autorisation, par l'inspecteur du travail du siège de l'entreprise dont relèvent lesdits établissements.

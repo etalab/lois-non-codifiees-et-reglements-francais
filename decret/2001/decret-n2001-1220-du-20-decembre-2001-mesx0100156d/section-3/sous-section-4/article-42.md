@@ -1,0 +1,3 @@
+# Article 42
+
+L'utilisation des canalisations intérieures d'eau pour la mise à la terre des appareils électriques est interdite. Pour les installations de distribution existant avant la date de publication du présent décret et lorsqu'il n'existe pas de dispositif de mise à la terre, cette mesure peut, à titre dérogatoire, ne pas être appliquée à condition que la sécurité des usagers et des personnels d'exploitation des installations de distribution d'eau soit assurée. Un arrêté des ministres chargés de la santé et de la construction, pris après avis du Conseil supérieur d'hygiène publique de France, définit les modalités d'application du présent article.

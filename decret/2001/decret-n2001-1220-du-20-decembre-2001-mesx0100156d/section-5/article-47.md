@@ -1,0 +1,3 @@
+# Article 47
+
+Pour les installations, services et organismes dépendant de l'autorité ou placés sous la tutelle du ministre chargé de la défense, un arrêté de ce ministre fixe les modalités d'application du présent décret en ce qui concerne les dispositions du I de l'article 5, de l'article 6, du premier alinéa de l'article 10, du deuxième alinéa de l'article 11, des articles 12 et 13, du premier alinéa de l'article 14, des premier, deuxième et quatrième alinéas de l'article 16, des articles 17 à 24, de l'article 26, des I et II de l'article 27, des articles 28, 33, 38 et 44, du troisième alinéa de l'article 51 et de l'article 52.

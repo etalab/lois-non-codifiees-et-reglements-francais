@@ -1,0 +1,7 @@
+# Article 30
+
+I. - Afin de réduire ou d'éliminer le risque, lorsqu'il est imputable au service de distribution d'eau, de non-respect après la fourniture, pour les eaux mentionnées au a de l'article 3, des limites de qualité fixées à l'annexe I-1, la personne publique ou privée responsable de la distribution d'eau est tenue de prendre toute mesure technique appropriée pour modifier la nature ou la propriété des eaux avant qu'elles ne soient fournies. Toutefois, cette obligation s'impose, quelle que soit l'imputabilité, pour les locaux ou établissements où l'eau est fournie au public, tels que les écoles, les hôpitaux et les restaurants.
+
+II. - Lorsque les limites de qualité fixées à l'annexe I-1 ne sont pas respectées au point de conformité cité au a de l'article 3, la personne publique ou privée responsable du réseau public de distribution d'eau destinée à la consommation humaine est réputée avoir rempli ses obligations lorsqu'il peut être établi que ce fait est imputable à l'installation privée de distribution ou à son entretien, ou à la qualité de l'eau qu'elle fournit.
+
+III. - Dans tous les cas, la personne publique ou privée responsable de la distribution intérieure de locaux ou établissements où de l'eau est fournie au public doit répondre aux exigences de l'article L. 1321-1 du code de la santé publique, notamment en respectant les règles d'hygiène prévues à l'article 33.

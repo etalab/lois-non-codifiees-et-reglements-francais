@@ -7,3 +7,4 @@
 - [TITRE V : Les enseignants et personnels de l'établissement.](titre-v)
 - [TITRE VI : Statut, scolarité et régime des études.](titre-vi)
 - [TITRE VII : Dispositions transitoires et finales.](titre-vii)
+- [Article 35](article-35.md)
