@@ -212,6 +212,7 @@
 - [Arrêté du 16 mars 1990 (ECOC9000011A)](arrete-du-16-mars-1990-ecoc9000011a)
 - [Arrêté du 16 mars 1990 (SPSS9000668A)](arrete-du-16-mars-1990-spss9000668a)
 - [Arrêté du 16 mai 1990 (INDD9000222A)](arrete-du-16-mai-1990-indd9000222a)
+- [Arrêté du 16 mai 1990 (PTTR9000418A)](arrete-du-16-mai-1990-pttr9000418a)
 - [Arrêté du 17 avril 1990 (BUDF9000007A)](arrete-du-17-avril-1990-budf9000007a)
 - [Arrêté du 17 avril 1990 (SPSS9000887A)](arrete-du-17-avril-1990-spss9000887a)
 - [Arrêté du 17 janvier 1990 (MCCB8900787A)](arrete-du-17-janvier-1990-mccb8900787a)
