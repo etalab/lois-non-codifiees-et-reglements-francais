@@ -1,4 +1,4 @@
-# Sous-section 2 : Discipline - Suspension provisoire - Mesures de retrait.
+# Sous-section 2 : Discipline - Suspension provisoire - Administration provisoire - Mesures de retrait.
 
 - [Article 45](article-45.md)
 - [Article 46](article-46.md)
