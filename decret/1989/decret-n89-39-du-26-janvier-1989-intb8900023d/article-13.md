@@ -1,3 +1,3 @@
 # Article 13
 
-A défaut d'intervention avant le 15 février 1989 [*date limite*] des décisions conjointes du préfet et du président du conseil général mentionnées aux articles 1er et 2, il sera fait application des dispositions de l'article 39 de la loi du 1er décembre 1988 susvisée.
+Afin de pouvoir être pris en compte dans le cadre du programme départemental d'insertion, les programmes locaux d'insertion mentionnés à l'article 42-3 de la loi du 1er décembre 1988 susvisée sont transmis au conseil départemental d'insertion avant le 1er mars de chaque année [*date limite*].

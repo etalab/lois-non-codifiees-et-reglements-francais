@@ -1,7 +1,7 @@
 # Article 1
 
-Avant le 15 février 1989 [*date limite*], le préfet et le président du conseil général fixent conjointement le nombre, le ressort et le siège des commissions locales d'insertion dans les conditions définies à l'article 34 de la loi n° 88-1088 du 1er décembre 1988.
+Le préfet et le président du conseil général fixent conjointement le nombre, le ressort et le siège des commissions locales d'insertion dans les conditions définies à l'article 42-1 de la loi du 1er décembre 1988 susvisée [*autorités compétentes*].
 
-La même décision fixe le nombre de membres titulaires et suppléants de chaque commission locale d'insertion ainsi que les conditions dans lesquelles est assuré le secrétariat.
+La même décision fixe le nombre de membres titulaires et suppléants de chaque commission locale d'insertion et leur répartition par catégories, telles qu'elles sont définies à l'article 42-2 de la loi du 1er décembre 1988 susvisée. Elle détermine également les conditions dans lesquelles est assuré le secrétariat.
 
-Aucune des catégories de membres mentionnée à l'article 2 ne peut détenir plus des deux cinquièmes des sièges d'une commission locale.
+Les représentants du système éducatif, d'institutions, d'entreprises et d'organismes ou d'associations intervenant dans le domaine économique et social ou en matière de formation professionnelle constituent au moins le tiers des membres de la commission.
