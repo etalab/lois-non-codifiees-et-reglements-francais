@@ -1,3 +1,3 @@
 # Article 3
 
-L'arrondissement du prix de vente T.T.C. aux cinq centimes les plus proches est autorisé.
+Les obligations renouvelables assimilables de cette série portent intérêt au taux de 6,70 p. 100 par an.

@@ -1,4 +1,4 @@
-# Arrêté du 24 juin 1986 relatif au prix de vente au stade de détail de certains fruits et légumes frais
+# Arrêté du 24 juin 1986 portant création d'une série et d'une tranche d'obligations renouvelables assimilables du Trésor
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

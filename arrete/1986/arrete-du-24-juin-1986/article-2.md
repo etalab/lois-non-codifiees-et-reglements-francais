@@ -1,7 +1,3 @@
 # Article 2
 
-Lorsque le détaillant s'approvisionne sur un marché de gros, il peut ajouter :
-
-0,15 F par kilogramme au prix d'achat hors taxe pour les produits vendus au poids ;
-
-0,08 F par pièce au prix d'achat hors taxe pour les laitues.
+D'une durée de huit ans et d'une valeur nominale de 1.000 F, les obligations renouvelables assimilables portent jouissance du 15 juin 1986.

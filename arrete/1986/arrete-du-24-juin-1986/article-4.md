@@ -1,3 +1,3 @@
 # Article 4
 
-Lorsque le détaillant commercialise moins de cinq fruits et cinq légumes frais, les dispositions prévues à l'article 1er ne sont applicables qu'à deux fruits et deux légumes.
+Les obligations renouvelables assimilables de cette série seront remboursées à la valeur nominale le 15 juin 1994. L'intérêt, soit 680 F par coupure de 1.000 F, sera payé en une seule fois le 15 juin 1994.
