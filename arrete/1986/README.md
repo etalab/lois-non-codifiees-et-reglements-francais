@@ -6,6 +6,7 @@
 - [Arrêté du 2 mai 1986](arrete-du-2-mai-1986)
 - [Arrêté du 3 février 1986](arrete-du-3-fevrier-1986)
 - [Arrêté du 3 janvier 1986](arrete-du-3-janvier-1986)
+- [Arrêté du 3 juillet 1986](arrete-du-3-juillet-1986)
 - [Arrêté du 3 juin 1986](arrete-du-3-juin-1986)
 - [Arrêté du 3 mars 1986](arrete-du-3-mars-1986)
 - [Arrêté du 4 février 1986](arrete-du-4-fevrier-1986)
