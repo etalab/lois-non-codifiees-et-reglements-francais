@@ -2,7 +2,7 @@
 
 Les informations utilisées pour ce traitement sont administratives et conformes à celles mentionnées par les autorités préfectorales sur les notices de délivrance de titre de circulation. Elles ont trait exclusivement :
 
-- à l'identité des personnes concernées (nom, surnom, prénoms, alias, date et lieu de naissance, sexe, nationalité, filiation) ;
+- à l'identité des personnes concernées (nom, surnom, prénoms, alias, date et lieu de naissance, sexe, nationalité, filiation, photographie) ;
 
 - aux signes particuliers des personnes concernées, à l'exclusion de tous les éléments de signalement pouvant faire apparaître les origines raciales ;
 
