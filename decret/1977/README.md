@@ -41,7 +41,6 @@
 - [Décret n°77-795 du 8 juillet 1977](decret-n77-795-du-8-juillet-1977)
 - [Décret n°77-796 du 8 juillet 1977](decret-n77-796-du-8-juillet-1977)
 - [Décret n°78-301 du 8 mars 1978](decret-n78-301-du-8-mars-1978)
-- [Décret n°76-48 du 9 janvier 1976](decret-n76-48-du-9-janvier-1976)
 - [Décret n°77-121 du 9 février 1977](decret-n77-121-du-9-fevrier-1977)
 - [Décret n°77-1249 du 9 novembre 1977](decret-n77-1249-du-9-novembre-1977)
 - [Décret n°77-612 du 9 juin 1977](decret-n77-612-du-9-juin-1977)
