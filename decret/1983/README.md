@@ -120,7 +120,6 @@
 - [Décret n°83-1091 du 16 décembre 1983](decret-n83-1091-du-16-decembre-1983)
 - [Décret n°83-212 du 16 mars 1983](decret-n83-212-du-16-mars-1983)
 - [Décret n°83-213 du 16 mars 1983](decret-n83-213-du-16-mars-1983)
-- [Décret n°83-824 du 16 septembre 1983](decret-n83-824-du-16-septembre-1983)
 - [Décret n°83-826 du 16 septembre 1983](decret-n83-826-du-16-septembre-1983)
 - [Décret n°83-830 du 16 septembre 1983](decret-n83-830-du-16-septembre-1983)
 - [Décret n°83-389 du 16 mai 1983](decret-n83-389-du-16-mai-1983)
