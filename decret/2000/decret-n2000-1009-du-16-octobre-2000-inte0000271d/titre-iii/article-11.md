@@ -1,7 +1,5 @@
 # Article 11
 
-Les infirmiers stagiaires sont rémunérés par l'établissement qui les a recrutés sur la base de l'indice afférent au 1er échelon du grade d'infirmier de sapeurs-pompiers professionnels.
+Les règles de rémunération des stagiaires sont déterminées par le décret n° 2002-870 du 3 mai 2002 fixant les dispositions statutaires communes applicables aux cadres d'emplois des fonctionnaires de la catégorie B de la fonction publique territoriale.
 
-Toutefois, les agents qui avaient auparavant la qualité de fonctionnaire perçoivent le traitement indiciaire correspondant à leur situation antérieure si ce traitement est supérieur à celui perçu en qualité de stagiaire.
-
-Lors de leur titularisation, les infirmiers de sapeurs-pompiers professionnels sont classés à l'échelon du grade d'infirmier correspondant à l'ancienneté acquise depuis leur nomination dans le cadre d'emplois en faisant application des dispositions des articles 12 à 15 sans qu'il soit tenu compte de la prolongation éventuelle de la période de stage prévue au dernier alinéa de l'article 9.
+Lorsque les fonctionnaires stagiaires sont titularisés, ils sont placés, sous réserve des règles définies aux articles 12 et 13, à l'échelon du grade d'infirmier correspondant à l'ancienneté acquise depuis leur nomination dans le cadre d'emplois sans qu'il soit tenu compte de la prolongation éventuelle de la période de stage prévue au dernier alinéa de l'article 9.

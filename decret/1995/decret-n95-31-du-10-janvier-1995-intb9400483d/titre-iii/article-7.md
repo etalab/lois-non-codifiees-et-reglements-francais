@@ -1,7 +1,5 @@
 # Article 7
 
-Les stagiaires sont rémunérés par la collectivité ou l'établissement qui a procédé au recrutement sur la base de l'indice afférent au 1er échelon du grade d'éducateur de jeunes enfants.
+Les règles de rémunération des stagiaires sont déterminées par le décret n° 2002-870 du 3 mai 2002 fixant les dispositions statutaires communes applicables aux cadres d'emplois de fonctionnaires de la catégorie B de la fonction publique territoriale. Les dispositions de l'article 8 sont prises en compte pour l'application du deuxième alinéa de l'article 2 de ce dernier décret.
 
-Toutefois, ceux qui avaient auparavant la qualité de fonctionnaire perçoivent le traitement indiciaire correspondant à l'échelon du grade d'éducateur de jeunes enfants déterminé en application des règles fixées par les articles 8, 9, 10 et 12 ci-après.
-
-Lorsque les fonctionnaires stagiaires sont titularisés, ils sont placés, sous réserve des règles définies aux articles 8 à 12 ci-après, à l'échelon du grade d'éducateur de jeunes enfants correspondant à l'ancienneté acquise depuis leur nomination dans le cadre d'emplois sans qu'il soit tenu compte de la prolongation éventuelle de la période de stage prévue au deuxième alinéa de l'article 6 ci-dessus.
+Lorsque les fonctionnaires stagiaires sont titularisés, ils sont placés, sous réserve des règles définies aux articles 8 et 9 ,à l'échelon du grade d'éducateur de jeunes enfants correspondant à l'ancienneté acquise depuis leur nomination dans le cadre d'emplois sans qu'il soit tenu compte de la prolongation éventuelle de la période de stage prévue au deuxième alinéa de l'article 6 ci-dessus.
