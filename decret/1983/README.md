@@ -170,6 +170,7 @@
 - [Décret n°83-766 du 24 août 1983](decret-n83-766-du-24-aout-1983)
 - [Décret n°83-689 du 25 juillet 1983](decret-n83-689-du-25-juillet-1983)
 - [Décret n°83-707 du 25 juillet 1983](decret-n83-707-du-25-juillet-1983)
+- [Décret n°50-583 du 25 mai 1950](decret-n50-583-du-25-mai-1950)
 - [Décret n°83-419 du 25 mai 1983](decret-n83-419-du-25-mai-1983)
 - [Décret n°83-40 du 26 janvier 1983](decret-n83-40-du-26-janvier-1983)
 - [Décret n°83-56 du 26 janvier 1983](decret-n83-56-du-26-janvier-1983)
