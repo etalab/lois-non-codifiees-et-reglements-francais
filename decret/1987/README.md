@@ -412,7 +412,6 @@
 - [Décret n°87-1110 du 30 décembre 1987 (INTB8700404D)](decret-n87-1110-du-30-decembre-1987-intb8700404d)
 - [Décret n°87-1111 du 30 décembre 1987 (INTB8700405D)](decret-n87-1111-du-30-decembre-1987-intb8700405d)
 - [Décret n°87-1118 du 30 décembre 1987 (ASES8701866D)](decret-n87-1118-du-30-decembre-1987-ases8701866d)
-- [Décret n°87-303 du 30 avril 1987](decret-n87-303-du-30-avril-1987)
 - [Décret n°87-43 du 30 janvier 1987 (CLRX8798205D)](decret-n87-43-du-30-janvier-1987-clrx8798205d)
 - [Décret n°87-44 du 30 janvier 1987 (CLRX8798206D)](decret-n87-44-du-30-janvier-1987-clrx8798206d)
 - [Décret n°87-457 du 30 juin 1987 (BUDB8720008D)](decret-n87-457-du-30-juin-1987-budb8720008d)
