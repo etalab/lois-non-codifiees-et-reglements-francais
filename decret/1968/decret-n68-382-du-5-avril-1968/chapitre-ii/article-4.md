@@ -4,7 +4,7 @@ Les ressources de la caisse de retraites comprennent [*financement*] :
 
 1° Les retenues sur les appointements et salaires ;
 
-2° La contribution du théâtre national de l'Opéra de Paris égale à 7,20 % des rémunérations soumises à retenues pour pension [*taux*] ;
+2° La contribution du théâtre national de l'Opéra de Paris égale à 8,80 % des rémunérations soumises à retenues pour pension [*taux*] ;
 
 3° Le produit d'un droit spécial perçu sur les places occupées au théâtre ; le tarif de ce droit est fixé par arrêté concerté du ministre chargé de la culture et du ministre chargé du budget ;
 

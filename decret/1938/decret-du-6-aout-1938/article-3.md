@@ -10,9 +10,35 @@ Par. 4 - Le règlement de la caisse est arrêté par la Société nationale des 
 
 Par. 5 - La caisse reçoit les retenues sur les salaires des agents commissionnés confirmés et à l'essai, et les cotisations patronales au moins égales nécessaires pour assurer le service des prestations visées ci-dessus.
 
-Par. 6 - Les cotisations des anciens agents et des veuves ainsi que des orphelins affiliés à la caisse de prévoyance sont précomptées sur les arrérages de la pension. Les veuves payent une cotisation égale à la moitié de celle des retraités. Cette demi-cotisation est due également par les orphelins et fractionnée proportionnellement au montant des parts de pension servies à chacun de ceux d'entre eux qui sont affiliés à la caisse.
+Par. 6 - Les cotisations des anciens agents et des veuves ainsi que des orphelins affiliés à la caisse de prévoyance sont précomptées sur les arrérages de la pension.
 
-La Société nationale des chemins de fer français verse à la caisse une contribution égale aux treize douzièmes de celle des affiliés, des veuves et des orphelins.
+La Société nationale des chemins de fer français verse à la caisse une contribution assise sur le montant des pensions.
+
+Par. 6 bis - Le taux des cotisations prévues au paragraphe 5 à la charge des agents est fixé à 6,20 %.
+
+Le taux des cotisations prévues au paragraphe 5 à la charge de la Société nationale des chemins de fer français est fixé à 7,30 %.
+
+Le taux des cotisations prévues au paragraphe 6 à la charge des pensionnés relevant de la loi du 21 juillet 1909 susvisée est fixé à :
+
+1° 4,50 % du montant de la pension de retraite inférieur à un plafond fixé par le conseil d'administration de la Société nationale des chemins de fer français ;
+
+2° 3,60 % du montant de la pension de retraite compris entre le plafond susvisé et un second plafond fixé dans les mêmes conditions  ;
+
+3° 2,25 % du montant de la pension de retraite supérieur au second plafond susvisé ;
+
+4° 1 % du montant total de la pension de retraite lorsque le titulaire relève du 1° de l'article D. 242-9 du code de la sécurité sociale sans bénéficier de l'un des avantages énumérés au 2° dudit article.
+
+Le taux de la contribution à la charge de la Société nationale des chemins de fer français prévue au paragraphe 6 au titre des pensionnés relevant de la loi du 21 juillet 1909 susvisée est fixé à :
+
+1° 4,44 % du montant de la pension de retraite défini au 1° de l'alinéa précédent ;
+
+2° 3,55 % du montant de la pension de retraite défini au 2° de l'alinéa précédent ;
+
+3° 2,22 % du montant de la pension de retraite défini au 3° de l'alinéa précédent ;
+
+4° 1,08 % du montant total de la pension de retraite lorsque le titulaire relève du 1° de l'article D. 242-9 du code de la sécurité sociale sans bénéficier de l'un des avantages énumérés au 2° dudit article.
+
+Les taux des cotisations assises sur les avantages de retraite visés au premier alinéa de l'article D. 711-5 du code de la sécurité sociale à la charge des titulaires de ces avantages sont ceux fixés audit alinéa.
 
 Par. 7 - Le règlement de la caisse prévoit que les agents peuvent pour les soins à donner à leur conjoint et à leurs enfants à charge s'adresser à des praticiens ou des établissements autres que ceux désignés ou agréés en vertu de ses dispositions et fixe, pour ce cas, les conditions de remboursement des frais exposés.
 
