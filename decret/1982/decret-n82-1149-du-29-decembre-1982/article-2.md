@@ -1,3 +1,3 @@
 # Article 2
 
-Les praticiens à plein temps des établissements d'hospitalisation publics qui n'exercent aucune activité de clientèle privée à la date d'entrée en vigueur du présent décret bénéficient des dispositions statutaires prévues par les articles 3 à 6.
+Les praticiens statutaires des établissements d'hospitalisation publics qui n'exercent pas l'activité libérale définie par les articles 25-1 à 25-6 de la loi du 31 décembre 1970 susvisée bénéficient des dispositions statutaires prévues par les articles 4 à 6.
