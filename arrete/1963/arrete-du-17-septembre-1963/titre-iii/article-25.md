@@ -6,4 +6,4 @@ La commission de recensement général proclame le nom des élus.
 
 En cas d'égalité de voix, le plus âgé est déclaré élu.
 
-La durée du mandat est de trois ans.
+La durée du mandat est de cinq ans.
