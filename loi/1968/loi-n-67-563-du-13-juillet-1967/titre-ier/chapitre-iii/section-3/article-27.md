@@ -1,0 +1,3 @@
+# Article 27
+
+La conclusion d'un contrat de location-gérance portant sur le fonds du débiteur peut être autorisée, même en présence d'une clause contraire dans le bail de l'immeuble ; cette autorisation est donnée par le tribunal ; celui-ci refuse son autorisation, notamment s'il n'estime pas satisfaisantes les garanties offertes par le preneur ou si ce dernier ne présente pas une indépendance suffisante à l'égard du débiteur. Les dispositions des articles 4, 5 et 8 de la loi n° 56-277 du 20 mars 1956 relative à la location-gérance des fonds de commerce et des établissements artisanaux ne sont pas applicables.

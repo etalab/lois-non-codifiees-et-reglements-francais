@@ -1,0 +1,3 @@
+# Article 132
+
+Sont punis des peines de la banqueroute simple le président, les administrateurs, directeurs généraux, gérants ou liquidateurs d'une société, quelle qu'en soit la forme, et, d'une manière générale, toute personne ayant, directement ou par personne interposée, administré, géré ou liquidé ladite société sous le couvert ou au lieu et place de ses représentants légaux qui, en vue de soustraire tout ou partie de leur patrimoine aux poursuites de la société en état de cessation des paiements ou à celles des associés ou des créanciers sociaux, ont, de mauvaise foi, détourné ou dissimulé, tenté de détourner ou de dissimuler une partie de leurs biens ou qui se sont frauduleusement reconnus débiteurs de sommes qu'ils ne devaient pas.
