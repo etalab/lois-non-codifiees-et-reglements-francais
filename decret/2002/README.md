@@ -482,6 +482,7 @@
 - [Décret n°2002-704 du 30 avril 2002 (MCCB0200143D)](decret-n2002-704-du-30-avril-2002-mccb0200143d)
 - [Décret n°2003-936 du 30 septembre 2003 (EQUP0301191D)](decret-n2003-936-du-30-septembre-2003-equp0301191d)
 - [Décret n°75-64 du 30 janvier 1975](decret-n75-64-du-30-janvier-1975)
+- [Décret n°99-747 du 30 août 1999 (MENS9901656D)](decret-n99-747-du-30-aout-1999-mens9901656d)
 - [Décret n°2001-476 du 30 mai 2001 (JUSC0120201D)](decret-n2001-476-du-30-mai-2001-jusc0120201d)
 - [Décret n°2001-1369 du 31 décembre 2001 (PRMX0105298D)](decret-n2001-1369-du-31-decembre-2001-prmx0105298d)
 - [Décret n°2001-1370 du 31 décembre 2001 (ECOC0100108D)](decret-n2001-1370-du-31-decembre-2001-ecoc0100108d)

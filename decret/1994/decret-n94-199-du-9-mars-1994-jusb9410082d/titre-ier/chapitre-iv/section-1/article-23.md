@@ -8,4 +8,4 @@ Sont nuls :
 
 3° Les votes contenus dans les enveloppes intérieures non fermées ou qui portent un signe quelconque d'identification ;
 
-4° Les votes figurant sur des bulletins ou placés dans des enveloppes autres que ceux fournis par l'administration, les bulletins sur lesquels l'électeur a identifié un nombre de noms supérieur au nombre de sièges à pourvoir, ainsi que les bulletins illisibles ou portant des signes d'identification autres que les croix prévues au troisième alinéa de l'article 20 ou une quelconque mention.
+4° Les votes figurant sur des bulletins ou placés dans des enveloppes autres que ceux fournis par l'administration, les bulletins sur lesquels l'électeur a ajouté ou supprimé un ou plusieurs noms ou a modifié l'ordre de présentation des candidatures, ainsi que les bulletins illisibles ou portant des signes d'identification ou une quelconque mention.

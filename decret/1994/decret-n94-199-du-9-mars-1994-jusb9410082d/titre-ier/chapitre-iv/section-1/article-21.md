@@ -6,7 +6,7 @@ Les enveloppes extérieures, également fermées, doivent comporter les mentions
 
 " Désignation des membres du Conseil supérieur de la magistrature.
 
-" Ressort de la cour d'appel de... (ou : Circonscription des territoires d'outre-mer et collectivités territoriales de Saint-Pierre-et-Miquelon et de Mayotte).
+" Ressort de la cour d'appel de... (ou : Circonscription des territoires d'outre-mer, de la Nouvelle-Calédonie, de Mayotte et de Saint-Pierre-et-Miquelon).
 
 " Magistrats du siège (ou : Magistrats du parquet). "
 
