@@ -2,7 +2,7 @@
 
 Les commandements militaires de défense s'exercent dans des circonscriptions militaires de défense et des régions militaires de défense dont le ressort territorial est fixé par décret en Conseil d'Etat.
 
-Ils comprennent des états-majors et des forces militaires de défense.
+Ils comprennent des états-majors.
 
 Le commandement de circonscription militaire de défense est un commandement opérationnel et un commandement organique.
 

@@ -1,9 +1,9 @@
 # Article 5
 
-Le corps de manoeuvre a vocation à intervenir en tout lieu.
+Les forces ont vocation à intervenir en tout lieu.
 
-Il est organisé en armée, corps d'armée, divisions et brigades ou en formations équivalentes qui comprennent des états-majors et des corps de troupe.
+Elles sont organisées en commandements de force, états-majors de forces et brigades qui ont, chacun, vocation à se voir confier un commandement opérationnel.
 
-Le commandement d'armée est un commandement opérationnel. Il est commandement organique pour les formations qui lui sont directement rattachées.
+Les commandements de force, qui regroupent des états-majors de forces, sont des commandements organiques responsables de l'entraînement des forces. Ils vérifient l'aptitude des états-majors de forces et des forces à remplir leurs missions et participent à l'élaboration de leur doctrine d'emploi.
 
-Les commandements de corps d'armée, les commandements de division, les commandements de brigade et les commandements de formations équivalentes sont, chacun en ce qui le concerne, des commandements opérationnels et des commandements organiques.
+Les brigades qui comprennent des états-majors et des corps de troupe constituent des commandements organiques. Sous l'autorité du commandant de force dont elles relèvent, elles sont responsables de l'entraînement des formations qui leur sont rattachées.

@@ -2,12 +2,14 @@
 
 Ces formations sont réparties entre :
 
-L'état-major de l'armée de terre ;
+- l'état-major de l'armée de terre ;
 
-Le corps de manoeuvre ;
+- les forces ;
 
-Les commandements militaires de défense ;
+- les commandements militaires de défense ;
 
-Les services ;
+- les services ;
 
-Les organismes de formation du personnel.
+- les organismes de formation du personnel ;
+
+- les organismes du commandement de la doctrine et de l'enseignement militaire supérieur.
