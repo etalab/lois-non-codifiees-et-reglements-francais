@@ -1,4 +1,4 @@
-# Arrêté du 15 juin 1983 pris pour application du décret n° 82-268 du 26 mars 1982 relatif à la cessation anticipée d'activité des personnels des collectivités locales.
+# Arrêté du 15 juin 1983 relatif à la dérogation aux dispositions de l'article 16 du décret du 14 novembre 1962 pour les installations de tension comprise entre 430 et 500 volts en courant alternatif situées dans les locaux réservés à la production, la conversion et la distribution.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

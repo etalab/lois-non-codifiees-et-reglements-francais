@@ -1,3 +1,17 @@
 # Article 3
 
-Les entreprises de distribution qui bénéficient des subventions calculées par application des taux majorés fixés à l'article 1er du présent arrêté figurent sur une liste établie annuellement après avis de la commission prévue à l'article 5 ter du décret du 16 juin 1959.
+Le plafond de la prime de déménagement prévue à l'article 20 du décret du 25 juin 1976 susvisé est fixé à :
+
+823 F s'il s'agit d'un ménage sans enfant ;
+
+1.004 F s'il s'agit d'une personne ou d'un ménage ayant un enfant             ou une personne à charge ;
+
+1.166 F s'il s'agit d'une personne ou d'un ménage ayant             deux enfants ou personnes à charge ;
+
+1.341 F s'il s'agit d'une personne ou d'un ménage ayant             trois enfants ou personnes à charge ;
+
+1.509 F s'il s'agit d'une personne ou d'un ménage ayant             quatre enfants ou personnes à charge ;
+
+1.677 F s'il s'agit d'une personne ou d'un ménage ayant             cinq enfants ou personnes à charge ;
+
+1.846 F s'il s'agit d'une personne ou d'un ménage ayant             six enfants ou personnes à charge et plus.
