@@ -1,3 +1,3 @@
 # Article 46
 
-La mise à la disposition du public du rapport de recherche est mentionnée au Bulletin officiel de la propriété industrielle.
+Le rapport de recherche préliminaire est rendu public en même temps que la demande de brevet ou, s'il n'est pas encore établi, dès sa notification au demandeur. Sa mise à la disposition du public est mentionnée au Bulletin officiel de la propriété industrielle.
