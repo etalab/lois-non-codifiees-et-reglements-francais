@@ -1,4 +1,4 @@
-# Arrêté du 27 novembre 1979 RELATIF AUX ETUDES PREPARATOIRES ET AUX EPREUVES DU DIPLOME D'ETAT DE MASSEUR-KINESITHERAPEUTE ET A L'ADMISSION DANS LES ECOLES DE MASSO-KINESITHERAPIE.
+# Arrêté du 27 novembre 1979 pris pour l'application de la loi n° 79-594 du 13 juillet 1979 et du décret n° 79-835 du 27 septembre 1979 sur les fonds communs de placement
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

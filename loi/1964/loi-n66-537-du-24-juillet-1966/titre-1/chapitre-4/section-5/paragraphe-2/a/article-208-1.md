@@ -6,4 +6,4 @@ Le conseil d'administration ou le directoire fixe les conditions dans lesquelles
 
 Les options peuvent être consenties ou levées alors même que le capital social n'aurait pas été intégralement libéré.
 
-Le prix de souscription est fixé au jour où l'option est consentie, par le conseil d'administration ou le directoire, selon les modalités déterminées par l'assemblée générale extraordinaire sur le rapport des commissaires aux comptes. Si les actions de la société sont admises à la cote officielle des bourses de valeurs, le prix de souscription ne peut pas être inférieur à la moyenne des cours cotés aux vingt séances de bourse précédant ce jour.
+Le prix de souscription est fixé au jour où l'option est consentie, par le conseil d'administration ou le directoire, selon les modalités déterminées par l'assemblée générale extraordinaire sur le rapport des commissaires aux comptes. Si les actions de la société sont admises à la cote officielle ou à la cote du second marché des bourses de valeurs, le prix de souscription ne peut pas être inférieur à la moyenne des cours cotés aux vingt séances de bourse précédant ce jour.
