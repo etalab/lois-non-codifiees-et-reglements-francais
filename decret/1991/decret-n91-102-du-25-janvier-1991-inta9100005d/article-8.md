@@ -1,0 +1,11 @@
+# Article 8
+
+En cas de faute grave commise par un ouvrier d'Etat, qu'il s'agisse d'un manquement à ses obligations professionnelles ou d'une infraction de droit commun, l'auteur de cette faute peut être immédiatement suspendu par l'autorité du pouvoir de nomination, qui saisit sans délai le conseil de discipline.
+
+Dans cette situation provisoire, l'ouvrier d'Etat ayant accompli, avant d'être suspendu, un service à temps complet perçoit l'intégralité du salaire nominal qu'il aurait reçu pour l'horaire normal en vigueur dans l'établissement, à l'exclusion des primes et indemnités, et notamment de la prime de rendement. S'il a accompli, au préalable, un service à temps partiel, il perçoit, à l'exclusion des mêmes primes et indemnités, une rémunération égale au rapport entre la durée hebdomadaire du service effectué et les obligations hebdomadaires de travail réglementairement applicables pour un service à temps plein, sauf dans les cas de services représentant 80 p. 100 ou 90 p. 100 du temps plein, pour lesquels cette rémunération est respectivement de 6/7 et de 32/35. L'ouvrier d'Etat admis en cessation progressive d'activité avant d'être suspendu perçoit uniquement son demi-salaire et l'indemnité exceptionnelle de 30 p. 100 afférente à sa situation particulière. Dans tous les cas prévus au présent alinéa, l'ouvrier d'Etat conserve l'intégralité des avantages familiaux.
+
+La situation de l'ouvrier d'Etat concerné doit être définitivement réglée dans un délai de quatre mois. Si, à l'expiration de ce délai, aucune décision n'a été prise par l'autorité investie du pouvoir disciplinaire, l'intéressé, sauf s'il est l'objet de poursuites pénales, est rétabli dans ses fonctions ; en outre, il est obligatoirement procédé à la révision de la totalité de ses droits à rémunération pour la période considérée.
+
+L'ouvrier d'Etat qui, en raison de poursuites pénales, n'est pas rétabli dans ses fonctions à l'issue de ce délai de quatre mois peut subir une retenue au plus égale à la moitié de la rémunération définie au deuxième alinéa du présent article. Il continue, néanmoins, à bénéficier de la totalité des avantages familiaux.
+
+L'administration peut cependant mettre fin à la décision de suspension et réintégrer cet agent si elle estime que l'infraction commise ne fait pas obstacle à une reprise de fonction.
