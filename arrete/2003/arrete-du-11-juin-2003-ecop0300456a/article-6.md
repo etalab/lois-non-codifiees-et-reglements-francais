@@ -1,0 +1,3 @@
+# Article 6
+
+Le directeur du personnel, de la modernisation et de l'administration, le directeur général de la comptabilité publique, le directeur de l'action régionale et des petites et moyennes industries, le directeur général des douanes et droits indirects, le directeur des relations économiques extérieures, le directeur général de la concurrence, de la consommation et de la répression des fraudes, le directeur général de l'INSEE, le directeur général des impôts et le directeur des entreprises commerciales, artisanales et de services sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
