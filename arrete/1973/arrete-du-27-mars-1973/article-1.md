@@ -1,17 +1,9 @@
 # Article 1
 
-Les dépenses prévues pour les immeubles à usage d'habitation à l'article 3 (par. 2, a) du décret n° 73-193 du 13 février 1973, modifié par le décret n° 78-160 du 10 février 1978, ne peuvent être effectuées que pour les seuls immeubles :
+En application de l'article 4 modifié du décret du 6 janvier 1956, il est créé, au sein du fonds commun de garantie institué par l'article 699 du code rural, une section dénommée Garantie mutuelle de modernisation des exploitations agricoles.
 
-1° Dont l'autorisation de construire ou, le cas échéant, la dernière mutation à titre onéreux, sont antérieures :
+Cette section a pour objet :
 
-Pour l'aéroport de Roissy-Charles-de-Gaulle, au 1er juillet 1970 ;
+De compléter la garantie des prêts consentis par les caisses de crédit agricole mutuel dans le cadre de plans de développement ou de plans d'amélioration matérielle des exploitations agricoles agréés lorsque cette garantie est insuffisamment assurée par les sûretés personnelles et réelles que peut fournir l'emprunteur ;
 
-Pour l'aéroport d'Orly, au 1er janvier 1964.
-
-2° Qui sont situés à l'intérieur ou en limite :
-
-Pour l'aéroport de Roissy-Charles-de-Gaulle, de la zone I représentée sur le plan n° 1 A annexé au présent arrêté (1) ;
-
-Pour l'aéroport d'Orly, de la zone I représentée sur le plan n° 2 A annexé au présent arrêté (1).
-
-[*(1) Ce plan peut être consulté à l'Aéroport de Paris, 291, boulevard Raspail, 75014 Paris, et dans les préfectures de la Seine-Saint-Denis, du Val-d'Oise, de Seine-et-Marne, de l'Essonne et du Val-de-Marne*].
+De compléter, dans les mêmes conditions, la garantie des prêts bonifiés consentis par ces caisses pour le financement d'investissements réalisés dans une commune classée en zone de montagne par les arrêtés du ministre de l'agriculture, pris en application du décret du 3 juin 1977 susvisé, lorsque ces prêts n'entrent pas dans l'une des catégories faisant l'objet d'une garantie de l'Etat.

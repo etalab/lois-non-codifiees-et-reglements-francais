@@ -172,6 +172,7 @@
 - [Décret n°86-1370 du 30 décembre 1986](decret-n86-1370-du-30-decembre-1986)
 - [Décret n°86-1384 du 30 décembre 1986](decret-n86-1384-du-30-decembre-1986)
 - [Décret n°86-1385 du 30 décembre 1986](decret-n86-1385-du-30-decembre-1986)
+- [Décret n°87-301 du 30 avril 1987](decret-n87-301-du-30-avril-1987)
 - [Décret n°87-43 du 30 janvier 1987 (CLRX8798205D)](decret-n87-43-du-30-janvier-1987-clrx8798205d)
 - [Décret n°87-44 du 30 janvier 1987 (CLRX8798206D)](decret-n87-44-du-30-janvier-1987-clrx8798206d)
 - [Décret n°87-47 du 30 janvier 1987 (ASES8700114D)](decret-n87-47-du-30-janvier-1987-ases8700114d)
