@@ -7,5 +7,3 @@ Le contrôleur les examine au point de vue de l'imputation de la dépense, de la
 Si les mesures proposées lui paraissent entachées d'irrégularité, le contrôleur refuse son visa. En cas de désaccord persistant, il en réfère au ministre de l'économie et des finances.
 
 Il ne peut être passé outre au refus du visa du contrôleur que sur avis conforme du ministre de l'économie et des finances. Les ministres et administrateurs seront personnellement et civilement responsables des décisions prises sciemment à l'encontre de cette disposition.
-
-Le contrôleur est avisé sans délai de la suite donnée par le ministre ou ses délégués aux propositions qui lui ont été soumises.
