@@ -54,9 +54,7 @@ Les dispositions du paragraphe 3 de l'article 27 sont remplacées par les dispos
 
 Pour les unités de régénération d'acide sulfurique :
 
-- si la teneur en SO2 à l'entrée est supérieure à 8 p. 100, le taux de conversion est d'au moins 99 p. 100 et la valeur limite pour
-
-les rejets est 7 kg/tonne ;
+- si la teneur en SO2 à l'entrée est supérieure à 8 p. 100, le taux de conversion est d'au moins 99 p. 100 et la valeur limite pour les rejets est 7 kg/tonne ;
 
 - si la teneur en SO2 à l'entrée est inférieure à 8 p. 100, le taux de conversion est d'au moins 98 p. 100 et la valeur limite pour les rejets est de 13 kg/tonne ;
 
@@ -84,7 +82,11 @@ Agglomération :
 
 Les dispositions du paragraphe 1 de l'article 27 sont remplacées par les dispositions suivantes :
 
-Quel que soit le débit massique horaire, la valeur limite de rejet en poussières doit être simultanément inférieure aux deux valeurs ci-après : 100 mg/m3 et 200 g/tonne d'aggloméré.
+Quel que soit le débit massique horaire, la valeur limite de rejet en poussières doit être simultanément inférieure aux deux valeurs ci-après :
+
+- ateliers de cuisson des agglomérés : 100 mg/m3 et 200 g/tonne d'aggloméré pour l'ensemble des poussières émises par ces ateliers ;
+
+- autres ateliers : 100 mg/m3 et 100 g/tonne d'aggloméré pour les poussières émises par l'ensemble de ces ateliers.
 
 Les dispositions du paragraphe 3 de l'article 27 sont remplacées par les dispositions suivantes :
 
@@ -108,9 +110,7 @@ Quel que soit le débit massique horaire, la valeur limite de rejet en poussièr
 
 10. Fabrication d'aluminium par électrolyse
 
-Les dispositions du paragraphe 6 de l'article 27 sont
-
-remplacées par les dispositions suivantes :
+Les dispositions du paragraphe 6 de l'article 27 sont remplacées par les dispositions suivantes :
 
 Les émissions de fluor et de composés fluorés (émissions canalisées et fugitives), sous forme de gaz et de poussières, ne doivent pas dépasser 1 kg de fluor par tonne d'aluminium produite ; en moyenne sur un mois, cette valeur ne doit pas dépasser 850 grammes.
 
@@ -154,17 +154,15 @@ La teneur résiduelle en chlorure de vinyle, avant séchage, ne doit pas dépass
 
 Microsuspension et émulsion :
 
-" Homopolymères .   1 200 mg/kg de polymère" Copolymères .   1 500 mg/kg de polymère 15. Installations de séchage et centrales d'enrobage
+" Homopolymères .   1 200 mg/kg de polymère" Copolymères .   1 500 mg/kg de polymère
 
-au bitume de matériaux routiers
+15. Centrales d'enrobage au bitume de matériaux routiers et installations de séchage de matériaux divers, végétaux, organiques ou minéraux.
 
 Les dispositions du paragraphe 1 de l'article 27 sont remplacées par la disposition suivante :
 
 Quel que soit le débit massique, la valeur limite pour les rejets de poussières est de 100 mg/m3.
 
-Pour les centrales d'enrobage au bitume de matériaux routiers mobiles, ayant bénéficié d'au moins une autorisation temporaire
-
-d'exploiter avant l'entrée en application du présent arrêté conformément aux dispositions de l'article 67, cette valeur limite est de 150 mg/m3.
+Pour les centrales d'enrobage au bitume de matériaux routiers mobiles, ayant bénéficié d'au moins une autorisation temporaire d'exploiter avant l'entrée en application du présent arrêté conformément aux dispositions de l'article 67, cette valeur limite est de 150 mg/m3.
 
 16. Installations de manipulation, chargement
 

@@ -6,7 +6,7 @@ Lorsque les seuils définis ci-dessous sont dépassés, l'exploitant doit réali
 
 2. Lorsque les flux journaliers autorisés dépassent les valeurs indiquées, une mesure journalière doit être réalisée pour les polluants énumérés ci-après, à partir d'un échantillon prélevé sur une durée de vingt-quatre heures proportionnellement au débit.
 
-La mesure journalière sur échantillon peut être remplacée par une mesure en permanence. Dans ce cas, des mesures selon les méthodes normalisées sur un prélèvement de vingt-quatre heures doivent être réalisées au moins hebdomadairement.
+La mesure journalière sur échantillon peut être remplacée par une mesure en permanence. Dans ce cas, ou lorsque la mesure journalière n'est pas réalisée selon des méthodes normalisées, des mesures selon les méthodes normalisées sur un prélèvement de vingt-quatre heures doivent être réalisées au moins hebdomadairement.
 
 DCO (sur effluent non décanté) : 300 kg/j.
 
@@ -44,19 +44,21 @@ Plomb et composés (en Pb) : 1 kg/j.
 
 Zinc et composés (en Zn) : 4 kg/j.
 
-Arsenic et composés (en As) : 200 g/j.
-
 Chrome hexavalent : 200 g/j.
 
 Cyanures : 200 g/j.
 
-Lorsque le rejet maximal de DCO dépasse 2 t/j, la mesure en continu du COT (carbone organique total) doit être réalisée.
+Lorsque le rejet maximal de DCO dépasse 2 t/j, la mesure en continu de la DCO ou du COT (carbone organique total) doit être réalisée.
 
-L'établissement d'une corrélation entre les mesures de COT et de DCO doit alors être recherché à partir des mesures journalières de DCO poursuivies parallèlement à la mesure du COT sur une durée minimale d'un an.
+Dans le cas d'une mesure en continu du COT, l'établissement d'une corrélation entre les mesures de COT et de DCO doit alors être recherché à partir des mesures journalières de DCO poursuivies parallèlement à la mesure du COT sur une durée minimale d'un an.
 
 Les mesures de DCO pourront être ensuite réalisées moins fréquemment.
 
-3. a) Pour les substances visées à l'article 32.4, un prélèvement continu proportionnel au débit et une mesure journalière doivent être réalisés lorsque le rejet annuel dépasse les valeurs suivantes :
+Dans le cas d'effluents raccordés, l'arrêté d'autorisation peut, le cas échéant, se référer à des fréquences différentes pour les paramètres DCO, DBO5, MEST, azote global et phosphore total. Ces fréquences devront être au minimum hebdomadaires.
+
+3. a) Pour les substances visées à l'article 32.4, un prélèvement continu proportionnel au débit et une mesure journalière doivent
+
+être réalisés lorsque le rejet annuel dépasse les valeurs suivantes :
 
 Mercure : 7,5 kg/an ;
 
@@ -86,4 +88,4 @@ PER : 30 kg/an ;
 
 TCB : dans tous les cas pour les usines de production ou de transformation et 30 kg/an dans les autres cas.
 
-b) Pour toutes les substances des annexes V, à l'exception de l'arsenic, un prélèvement continu proportionnel au débit et une mesure journalière doivent être réalisés dans tous les cas pour les usines de production ou de transformation et lorsque le rejet annuel dépasse 30 kg/an dans les autres cas.
+b) Pour toutes les substances des annexes V un prélèvement continu proportionnel au débit et une mesure journalière doivent être réalisés dans tous les cas pour les usines de production ou de transformation et lorsque le rejet annuel dépasse 30 kg/an dans les autres cas.

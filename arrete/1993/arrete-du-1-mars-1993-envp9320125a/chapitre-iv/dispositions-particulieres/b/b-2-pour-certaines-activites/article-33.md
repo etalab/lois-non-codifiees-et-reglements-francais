@@ -56,7 +56,7 @@ Pour les raffineries neuves, selon les catégories définies ci-dessus, les flux
 
 Flux massique maximal autorisé (*)
 
-" 5. Abattoirs
+" 5. Abattoirs d'animaux de boucherie.
 
 Le volume des effluents rejetés ne doit pas dépasser 6 mètres cubes par tonne de carcasse ou de viande traitée.
 
@@ -78,11 +78,7 @@ DCO : 600 g/t de corps gras brut ;
 
 MEST : 100 g/t de corps gras brut.
 
-" 7. Traitement de sous-produits animaux
-
-dans les abattoirs
-
-Les flux polluants ne doivent pas dépasser :
+" 7. Traitement de sous-produits animaux dans les abattoirs d'animaux de boucherie       Les flux polluants ne doivent pas dépasser :
 
 DBO5 : 150 g/t de matière première traitée ;
 

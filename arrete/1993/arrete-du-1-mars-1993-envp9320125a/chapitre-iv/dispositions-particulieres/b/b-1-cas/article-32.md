@@ -48,9 +48,7 @@ Phosphore (phosphore total) :
 
 Toutefois des valeurs limites de concentration différentes peuvent être fixées par l'arrêté d'autorisation lorsque le rendement de la station d'épuration de l'installation atteint au moins 90 p. 100 pour le phosphore.
 
-2.2. Dispositions particulières pour les rejets dans le milieu naturel appartenant à une zone sensible telle que définie par la directive (C.E.E.) n° 91-271 du 21 mai 1991 relative au traitement des eaux urbaines ou la directive (C.E.E.) n° 91-676 du 12 décembre 1991 concernant la protection des eaux contre le pollution par les
-
-nitrates à partir de sources agricoles.
+2.2. Dispositions particulières pour les rejets dans le milieu naturel appartenant à une zone sensible telle que définie par la directive (C.E.E.) n° 91-271 du 21 mai 1991 relative au traitement des eaux urbaines ou la directive (C.E.E.) n° 91-676 du 12 décembre 1991 concernant la protection des eaux contre le pollution par les nitrates à partir de sources agricoles.
 
 En plus des dispositions précédentes, l'arrêté d'autorisation, selon les niveaux de flux du rejet et les caractéristiques du milieu récepteur, impose les dispositions suivantes pour au moins un des deux paramètres.
 
@@ -86,7 +84,7 @@ Les rejets doivent respecter les valeurs limites suivantes :
 
 4. Cyanures : 0,1 mg/l si le rejet dépasse 1 g/j ;
 
-5. Arsenic et composés (en As) : 0,1 mg/l si le rejet dépasse 1 g/j ;
+5. supprimé
 
 6. Plomb et composés (en Pb) : 0,5 mg/l si le rejet dépasse 5 g/j ;
 
@@ -102,7 +100,7 @@ Les rejets doivent respecter les valeurs limites suivantes :
 
 12. Etain et composés (en Sn) : 2 mg/l si le rejet dépasse 20 g/j ;
 
-13. Fer, aluminium et composés (en Fe + Al) : 5 mg/l si le rejet dépasse 20 g/j ;
+13. Fer, aluminium et composés (en Fe + Al) : 5 mg/l (2) si le rejet dépasse 20 g/j ;
 
 14. Composés organiques du chlore (en AOX) (3) : 5 mg/l si le rejet dépasse 30 g/j ;
 
@@ -128,11 +126,11 @@ Les rejets doivent respecter les valeurs limites suivantes :
 
 L'arrêté préfectoral d'autorisation fixe des valeurs limites de rejet si le rejet dépasse 10 g/j.
 
-Les valeurs limites indiquées ci-dessus sont des valeurs limites mensuelles, les valeurs limites journalières ne devant pas dépasser deux fois les valeurs limites mensuelles pour les substances listées aux annexes V.a et V.b et une fois et demie les valeurs limites mensuelles pour les substances listées à l'annexe V.c.
+Les valeurs limites indiquées au 17 sont des valeurs limites mensuelles, les valeurs limites journalières ne devant pas dépasser deux fois les valeurs limites mensuelles pour les substances listées aux annexes V.a et V.b et une fois et demie les valeurs limites mensuelles pour les substances listées à l'annexe V.c.
 
 Pour les rejets dans les eaux conchylicoles, en application de la directive (C.E.E.) n° 79-923 du 30 octobre 1979 relative à la qualité requise des eaux conchylicoles, en ce qui concerne les substances organohalogénées et les métaux (argent, arsenic, cadmium, chrome, cuivre, mercure, nickel, plomb, zinc), la valeur limite fixée doit permettre de maintenir la concentration de chaque substance dans la chair de coquillage à une valeur compatible avec une bonne qualité des produits conchylicoles.
 
-(2) Dans le cas de la fabrication ou de la transformation de l'un des cinq métaux ainsi repérés, la valeur limite est pour le ou les métaux fabriqués ou transformés :
+(2) Dans le cas de la fabrication ou de la transformation de l'un ou de plusieurs des cinq métaux ainsi repérés, la valeur limite est pour le ou les métaux fabriqués ou transformés :
 
 1 mg/l pour le cuivre ;
 
@@ -146,7 +144,7 @@ Pour les rejets dans les eaux conchylicoles, en application de la directive (C.E
 
 4. Valeurs limites pour certaines activités visées par des directives communautaires, sous réserve du strict respect des dispositions des arrêtés ministériels pris pour l'application des directives communautaires spécifiques. Ces valeurs ne s'appliquent pas aux extensions d'installations existantes lorsqu'elles sont couvertes par des arrêtés spécifiques.
 
-[*tableau non reproduit*]
+(tableau non reproduit)
 
 Les exploitants d'installations classées, qui sont autorisés à rejeter des substances visées ci-dessus, doivent adresser tous les quatre ans, au préfet, un dossier faisant le bilan des rejets :
 

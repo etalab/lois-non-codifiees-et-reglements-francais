@@ -2,7 +2,7 @@
 
 Les valeurs limites de rejet sont fixées dans l'arrêté d'autorisation sur la base de l'emploi des meilleures technologies disponibles à un coût économique acceptable, et des caractéristiques particulières de l'environnement. Des valeurs limites doivent être fixées pour le débit des effluents, pour les flux (débit massique et spécifique) et pour les concentrations des polluants principaux conformément aux dispositions du présent arrêté.
 
-Les valeurs limites ne doivent pas dépasser les valeurs fixées par le présent arrêté. Les méthodes de prélèvement, mesure et analyse, de référence en vigueur à la date de l'arrêté sont indiquées en annexe I (a). Les prélèvements, mesures ou analyses sont, dans la mesure du possible, réalisés au plus près du point de rejet dans le milieu récepteur. Toutefois, pour les effluents susceptibles de s'évaporer, ils seront réalisés le plus en amont possible.
+Les valeurs limites ne doivent pas dépasser les valeurs fixées par le présent arrêté. Les méthodes de prélèvement, mesure et analyse, de référence en vigueur à la date de l'arrêté sont indiquées en annexe I (a). Les prélèvements, mesures ou analyses sont, dans la mesure du possible, réalisés au plus près du point de rejet dans le milieu récepteur. Néanmoins, pour la pratique de l'autosurveillance, d'autres méthodes peuvent être employées si l'arrêté d'autorisation le prévoit. Toutefois, pour les effluents susceptibles de s'évaporer, ils seront réalisés le plus en amont possible.
 
 Pour les polluants ne faisant l'objet d'aucune méthode de référence, la procédure retenue, pour le prélèvement notamment, doit permettre une représentation statistique de l'évolution du paramètre.
 

@@ -24,4 +24,4 @@ Ces dispositions peuvent être étendues aux rejets d'autres substances ou à de
 
 Dans le cas où plusieurs installations importantes rejettent leurs effluents dans une même zone, les seuils à prendre en compte devront tenir compte de l'ensemble des rejets, le point de mesure pouvant alors être commun et les mesures, réalisées pour l'ensemble des installations concernées.
 
-Les résultats de ces mesures doivent être envoyés au moins tous les trois mois à l'inspection des installations classées.
+Les résultats de ces mesures doivent être envoyés à l'inspection des installations classées dans un délai maximum d'un mois après la réalisation des prélèvements.

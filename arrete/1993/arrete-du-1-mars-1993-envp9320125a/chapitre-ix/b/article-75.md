@@ -42,13 +42,13 @@ Par ailleurs, les circulaires et instructions techniques suivantes sont abrogée
 
 - circulaire du 30 janvier 1975 relative à la réduction des nuisances des féculeries de pommes de terre ;
 
-- circulaire du 4 avril 1975 relative à la réduction des nuisances dues aux établissements classés producteurs de levure " type panification " ;
+- circulaire du 4 avril 1975 relative à la réduction des nuisances dues aux établissements classés producteurs de levure " type panification ;
 
 - circulaire du 23 septembre 1975 relative aux ateliers de fabrication d'acide nitrique ;
 
 - circulaire du 4 décembre 1975 relative aux plâtrières ;
 
-Les titres Ier, II, III, IV et V, le chapitre intitulé La liste des établissements, les articles 7.2, 7.3, 9, 10, 14, 15, 16, 17, 18, 20, 21, 22 et 23 des chapitres 10, 14, 15, 16, 17, 18, 20, 21, 22 et 23 des commentaires de la circulaire du 29 juin 1977 relative à la prévention des pollutions et des nuisances des équarrissages ;
+- circulaire et instruction technique du 29 juin 1977 relatives à la prévention des pollutions et des nuisances des équarrissages, à l'exception des articles 1er, 2, 3, 4, 5, 6, 7-1, 8, 11, 12, 13 et 19 de l'instruction technique et des articles correspondants des commentaires à l'instruction technique.
 
 - circulaire du 13 mai 1981 relative aux unités de régénération des huiles par raffinage sulfurique ;
 

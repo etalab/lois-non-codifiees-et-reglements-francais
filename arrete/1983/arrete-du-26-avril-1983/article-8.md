@@ -4,4 +4,4 @@ La commission de classement retient pour l'inscription les candidats qui réunis
 
 Ces garanties de compétence sont appréciées par la commission au vu des divers éléments contenus dans les dossiers.
 
-Toutefois les personnes inscrites en application du présent arrêté en première section de la liste bénéficient de deux reconductions successives de leur inscription sans avoir à établir la demande prévue à l'article 9, sauf si la commission prévue à l'article 2 est saisie d'une demande de radiation motivée présentée par le ministre chargé de la sécurité sociale.
+Toutefois les personnes inscrites en application du présent arrêté en première section de la liste bénéficient d'une reconduction de leur inscription sans avoir à établir la demande prévue à l'article 9, sauf si la commission prévue à l'article 2 est saisie d'une demande de radiation motivée présentée par le ministre chargé de la sécurité sociale.

@@ -1,53 +1,55 @@
 # Article 4
 
-La liste d'aptitude est divisée en sept classes d'emplois groupant tous les emplois de direction et d'agent comptable dans les conditions prévues ci-après :
+La liste d'aptitude est divisée en sept classes d'emplois groupant tous les emplois d'agent de direction et d'agent comptable dans les conditions prévues ci-après :
 
 Classe A
 
-Directeur de caisses et unions de recouvrement de catégorie exceptionnelle et de première catégorie.
+Directeur d'organismes de catégories A et B.
 
 Classe A-1
 
-Directeur adjoint et agent comptable de caisses et unions de recouvrement de catégorie exceptionnelle et de première catégorie.
+Agent comptable et directeur adjoint de niveau 3 d'organismes de catégories A et B.
 
-Sous-directeur de première classe de caisses et unions de recouvrement de catégorie exceptionnelle.
-
-Secrétaire général de caisses et unions de recouvrement de catégorie exceptionnelle.
+Sous-directeur de niveau 3 d'organismes de catégories A et B.
 
 Classe B
 
-Directeur de caisses et unions de recouvrement de deuxième catégorie.
+Directeur d'organismes de catégories C.
 
 Classe B-1
 
-Directeur adjoint et agent comptable de caisses et unions de recouvrement de deuxième catégorie.
+Directeur adjoint de niveau 2 d'organismes de catégories A et B ;
 
-Directeur de circonscription administrative de première classe.
+Agent comptable et directeur adjoint de niveau 3 d'organismes de catégorie C ;
 
-Sous-directeur de deuxième classe de caisses et unions de recouvrement de catégorie exceptionnelle.
+Sous-directeur de niveau 2 d'organismes de catégories A et B ;
 
-Sous-directeur et secrétaire général de caisses et unions de recouvrement de première catégorie.
+Sous-directeur de niveau 3 d'organismes de catégories C.
 
 Classe C
 
-Directeur de caisses et unions de recouvrement de troisième et de quatrième catégorie.
+Directeur d'organismes de catégorie D.
 
 Classe C-1
 
-Directeur adjoint et agent comptable de caisses et unions de recouvrement de troisième et de quatrième catégorie.
+Agent comptable et directeur adjoint de niveau 3 d'organismes de catégorie D ;
 
-Directeur de circonscription administrative de deuxième classe.
+Directeur adjoint de niveau 2 d'organismes de catégorie C ;
 
-Directeur adjoint de circonscription administrative de deuxième classe.
+Sous-directeur de niveau 1 d'organismes de catégories A et B ;
 
-Directeur adjoint de circonscription administrative de première classe.
+Sous-directeur de niveau 2 d'organismes de catégorie C ;
 
-Sous-directeur et secrétaire général de caisses et unions de recouvrement de deuxième, troisième et quatrième catégorie.
+Sous-directeur de niveau 3 d'organismes de catégorie C et D.
 
 Classe C-2
 
-Directeur adjoint et agent comptable de caisses et unions de recouvrement de quatrième catégorie.
+Directeur adjoint de niveau 2 d'organismes de catégorie D ;
 
-Sous-directeur et secrétaire général de caisses et unions de recouvrement de troisième et quatrième catégorie.
+Sous-directeur de niveau 1 d'organismes de catégories C et D ;
+
+Sous-directeur de niveau 2 d'organismes de catégorie D.
+
+La classe C-2 peut également comprendre l'emploi de sous-directeur de niveau 1 des organismes de catégories A et B lorsque celui-ci implique seulement l'exercice de fonctions comparables à celles exercées par un agent de direction de niveau 1 d'organismes de catégories C ou D.
 
 L'emploi de directeur de centre de traitement de l'information est considéré relever de la classe afférente à l'emploi de directeur adjoint de la caisse adhérente la plus élevée, sauf exception prévue par décision ministérielle.

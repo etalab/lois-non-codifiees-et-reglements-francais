@@ -1,6 +1,6 @@
 # Article ANNEXE III
 
-N° CAS N° C.E.E. (*)NOM ET SYNONYME
+N° CAS N° C.E.E. (a)NOM ET SYNONYME
 
 75-07-0   605-003-00-6 Acétaldéhyde (aldéhyde acétique).
 
@@ -8,7 +8,7 @@ N° CAS N° C.E.E. (*)NOM ET SYNONYME
 
 79-11-8   607-003-00-1 Acide chloroacétique.
 
-50-00-0   605-001-00-5 Acide formique (formaldéhyde).
+50-00-0   605-001-00-5 Aldehyde formique (formaldéhyde).
 
 107-02-8   605-008-00-3 Acroleine (aldéhyde acrylique-2-propénal).
 
@@ -92,4 +92,4 @@ Thiols.
 
 1300-71-6   604-006-00-X Xylénol (sauf 2,4-xylénol).
 
-(*) Se référer à l'annexe I de la directive (C.E.E.) n° 91-325 de la commission du 1er mars 1991, portant douzième adaptation au progrès technique de la directive (C.E.E.) n° 67-548 du conseil, concernant le rapprochement des dispositions législatives, réglementaires et administratives relatives à la classification, l'emballage et l'étiquetage des substances dangereuses.
+(a) Se référer à l'annexe I de la directive (C.E.E.) n° 91-325 de la commission du 1er mars 1991, portant douzième adaptation au progrès technique de la directive (C.E.E.) n° 67-548 du conseil, concernant le rapprochement des dispositions législatives, réglementaires et administratives relatives à la classification, l'emballage et l'étiquetage des substances dangereuses.

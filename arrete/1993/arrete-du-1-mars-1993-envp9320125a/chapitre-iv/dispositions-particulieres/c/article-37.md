@@ -1,6 +1,6 @@
 # Article 37
 
-En cas d'épandage, la capacité des ouvrages de stockage doit permettre de stocker le volume total des effluents ou des boues correspondant à une production de pointe de quinze jours. Des valeurs différentes peuvent être imposées au vu de l'étude d'impact.
+En cas d'épandage, la capacité des ouvrages de stockage doit permettre de stocker le volume total des effluents ou des boues correspondant à une production de pointe de quinze jours. Des valeurs différentes peuvent être imposées au vu de l'étude d'impact. Elles sont compatibles avec les durées pendant lesquelles l'épandage est inapproprié.
 
 Les ouvrages de stockage doivent être étanches ; le déversement dans le milieu naturel des trop-pleins des ouvrages de stockage est interdit.
 
