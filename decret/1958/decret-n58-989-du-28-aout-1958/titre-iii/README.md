@@ -1,0 +1,3 @@
+# TITRE III : DISPOSITIONS TRANSITOIRES.
+
+- [Article 24](article-24.md)
