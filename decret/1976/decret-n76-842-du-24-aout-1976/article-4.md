@@ -1,0 +1,3 @@
+# Article 4
+
+Le fonctionnaire nommé dans l'emploi de chef des services administratifs du commissariat général du Plan est détaché de son corps d'origine. Il est classé dans son nouvel emploi à un échelon comportant un indice immédiatement supérieur à celui dont il bénéficiait dans son corps d'origine et conserve, dans la limite de l'ancienneté exigée à l'article 3 pour une promotion à l'échelon supérieur, l'ancienneté d'échelon acquise dans son précédent grade lorsque l'augmentation de traitement consécutive à sa nomination est inférieure à celle que lui aurait procurée un avancement d'échelon dans ce grade ou qui a résulté de sa nomination audit échelon si cet échelon était le plus élevé de son grade.

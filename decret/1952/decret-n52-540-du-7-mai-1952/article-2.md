@@ -1,8 +1,6 @@
 # Article 2
 
-Pour les jeunes gens embarqués en surnombre, à titre de stagiaires, en vertu d'une décision spéciale de l'armement, visée par l'administrateur de l'inscription maritime, les cotisations sont calculées sur la rémunération effective, lorsque celle-ci est inférieure au salaire forfaitaire.
-
-Les pilotes titulaires du brevet de capitaine au long cours choisissent leur catégorie de classement sans que cette catégorie puisse être supérieure à la dix-huitième. Les pilotes non titulaires du brevet de capitaine au long cours choisissent également leur catégorie sans que celle-ci puisse être supérieure à la seizième s'ils ont le brevet de capitaine de la marine marchande, ou s'ils sont en service dans une station où ce brevet est au minimum exigé, et à la quatorzième, s'ils ne possèdent ni le brevet de capitaine au long cours ni celui de capitaine de la marine marchande. Le choix formulé par le pilote est définitif.
+Pour les jeunes gens embarqués en surnombre, à titre de stagiaires, en vertu d'une décision spéciale de l'armement, visée par l'administrateur des affaires maritimes, les cotisations sont calculées sur la rémunération effective, lorsque celle-ci est inférieure au salaire forfaitaire.
 
 Les commissaires chefs de service qui, à l'intérieur de leur compagnie, bénéficient, par rapport aux officiers du pont et de la machine, d'assimilations plus avantageuses que celles prévues au tableau de l'article 1er ci-dessus, pourront faire l'objet d'un surclassement par décision spéciale du ministre des travaux publics, des transports et du tourisme chargé de la marine marchande, compte tenu de l'importance du navire sur lequel ils sont embarqués et de la ligne qu'il dessert.
 

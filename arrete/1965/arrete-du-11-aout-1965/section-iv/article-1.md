@@ -6,17 +6,17 @@ Les indemnités forfaitaires représentatives de travaux supplémentaires ne peu
 
 - Chef de bureau :
 
-Taux maximum : 3.552 F.
+Taux maximum : 4.524 F.
 
-Taux moyen : 1.776 F.
+Taux moyen : 2.262 F.
 
 - Adjoint des cadres hospitaliers de classe supérieure
 
 - Adjoint des cadres hospitaliers de classe normale de 10e échelon au moins (1) :
 
-Taux maximum : 2.570 F.
+Taux maximum : 3.348 F.
 
-Taux moyen : 1.285 F.
+Taux moyen : 1.674 F.
 
 (1) A compter du 1er juillet 1976 : de 9e échelon au moins.
 

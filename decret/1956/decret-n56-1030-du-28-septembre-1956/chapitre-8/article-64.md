@@ -6,78 +6,78 @@ DEPARTEMENT : Guadeloupe
 
 GROUPE I :
 
-Etat : 92
+Etat : 93
 
-Département : 8.
+Département : 7.
 
 GROUPE II :
 
-Etat : 84
+Etat : 86
 
-Collectivités locales : 16.
+Collectivités locales : 14.
 
 GROUPE III :
 
-Etat : 68
+Etat : 72
 
-Collectivités locales : 32.
+Collectivités locales : 28.
 
-DEPARTEMENT : Guyane et Inini
+DEPARTEMENT : Guyane
 
 GROUPE I :
 
-Etat : 96
+Etat : 97
 
-Département : 4.
+Département : 3.
 
 GROUPE II :
 
-Etat : 92
+Etat : 94
 
-Collectivités locales : 8.
+Collectivités locales : 6.
 
 GROUPE III :
 
-Etat : 84
+Etat : 88
 
-Collectivités locales : 16.
+Collectivités locales : 12.
 
 DEPARTEMENT : Martinique
 
 GROUPE I :
 
-Etat : 92
+Etat : 93
 
-Département : 8.
+Département : 7.
 
 GROUPE II :
 
-Etat : 84
+Etat : 86
 
-Collectivités locales : 16.
+Collectivités locales : 14.
 
 GROUPE III :
 
-Etat : 68
+Etat : 72
 
-Collectivités locales : 32.
+Collectivités locales : 28.
 
 DEPARTEMENT : Réunion
 
 GROUPE I :
 
-Etat : 92
+Etat : 93
 
-Département : 8.
+Département : 7.
 
 GROUPE II :
 
-Etat : 84
+Etat : 86
 
-Collectivités locales : 16.
+Collectivités locales : 14.
 
 GROUPE III :
 
-Etat : 68
+Etat : 72
 
-Collectivités locales : 32.
+Collectivités locales : 28.
