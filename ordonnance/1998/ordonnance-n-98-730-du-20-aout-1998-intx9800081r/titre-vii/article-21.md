@@ -6,4 +6,4 @@ Les dispositions de la présente ordonnance entrent en vigueur le 1er octobre 19
 
 2° Les dispositions de l'article 18 de la présente ordonnance, en tant qu'elles créent des incompatibilités nouvelles entre le mandat de conseiller général de Mayotte et l'exercice de certaines fonctions publiques, entrent en vigueur à compter du prochain renouvellement triennal du conseil général de Mayotte.
 
-3° Les dispositions de l'article 18, en tant qu'elles créent les articles L. 334-12, L. 334-13 et L. 334-15 du code électoral, ainsi que les dispositions de l'article 19 de la présente ordonnance entrent en vigueur à l'occasion du renouvellement général des conseils municipaux qui suit sa publication.
+3° Les dispositions de l'article 18, en tant qu'elles créent les articles L. 334-13, L. 334-14 et L. 334-16 du code électoral, ainsi que les dispositions de l'article 19 de la présente ordonnance entrent en vigueur à l'occasion du renouvellement général des conseils municipaux qui suit sa publication.
