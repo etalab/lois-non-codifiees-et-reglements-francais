@@ -1,0 +1,3 @@
+# Article 2
+
+Les installations visées à l'article 1er sont définies dans la nomenclature des installations classées établie par décret en Conseil d'Etat, pris sur le rapport du ministre chargé des installations classées, après avis du conseil supérieur des installations classées. Ce décret soumet les installations à autorisation ou à déclaration suivant la gravité des dangers ou des inconvénients que peut présenter leur exploitation.

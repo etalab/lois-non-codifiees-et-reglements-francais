@@ -1,0 +1,5 @@
+# Article 10
+
+Toute fermeture d'un centre d'abattage entraîne le retrait par le directeur départemental des services vétérinaires de tous les dispositifs d'estampillage.
+
+Toute suspension d'agrément pour l'exportation entraîne le retrait immédiat par le directeur départemental des services vétérinaires des dispositifs d'estampillage concernés.

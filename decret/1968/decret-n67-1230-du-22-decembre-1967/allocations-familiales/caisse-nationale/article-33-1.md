@@ -1,0 +1,3 @@
+# Article 33-1
+
+Le fonds national de la gestion administrative comporte une section comptable spéciale pour les opérations relatives aux artistes auteurs mentionnés à l'article L. 613-1 du Code de la sécurité sociale, alimentée en recettes par un prélèvement sur le produit des cotisations et des contributions du régime institué par le titre V du livre VI du Code de la sécurité sociale et dont le montant est fixé par arrêté conjoint du ministre chargé de la sécurité sociale et du ministre de l'économie et des finances. Cette section spéciale supporte les charges de fonctionnement et les dépenses en capital afférentes à ce régime.

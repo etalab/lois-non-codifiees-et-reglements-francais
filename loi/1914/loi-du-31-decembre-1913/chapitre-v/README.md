@@ -1,5 +1,6 @@
 # Chapitre V : Dispositions pénales
 
+- [Article 30 bis](article-30-bis.md)
 - [Article 32](article-32.md)
 - [Article 33](article-33.md)
 - [Article 34 bis](article-34-bis.md)
