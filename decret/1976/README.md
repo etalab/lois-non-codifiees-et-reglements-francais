@@ -33,6 +33,7 @@
 - [Décret n°76-692 du 13 juillet 1976](decret-n76-692-du-13-juillet-1976)
 - [Décret n°76-700 du 13 juillet 1976](decret-n76-700-du-13-juillet-1976)
 - [Décret n°76-867 du 13 septembre 1976](decret-n76-867-du-13-septembre-1976)
+- [Décret n°76-1170 du 14 décembre 1976](decret-n76-1170-du-14-decembre-1976)
 - [Décret n°76-950 du 14 octobre 1976](decret-n76-950-du-14-octobre-1976)
 - [Décret n°76-351 du 15 avril 1976](decret-n76-351-du-15-avril-1976)
 - [Décret n°76-352 du 15 avril 1976](decret-n76-352-du-15-avril-1976)
