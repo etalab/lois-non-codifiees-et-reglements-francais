@@ -1,0 +1,5 @@
+# Article 2
+
+Jusqu'au 31 décembre 1980 les agents et anciens agents de police contractuels féminins rémunérés sur le budget de l'Etat, en fonction à la date d'entrée en vigueur du présent décret dans le ressort du secrétariat général pour l'administration de la police de Paris et dans les services de la police de l'air et des frontières, pourront être nommés gardiens de la paix et placés à l'échelon d'élève-gardien de la paix dans la limite du sixième des postes réservés aux candidats féminins par l'arrêté visé à l'article 1er du présent décret, s'ils ont été reçus à un concours.
+
+Les modalités de ce concours et les conditions d'aptitude physique des candidates seront fixées par arrêté conjoint du ministre de l'intérieur et du ministre chargé de la fonction publique. Les candidates devront avoir servi en qualité d'agents de police contractuels d'une manière continue pendant une durée de deux ans. Elles devront remplir les conditions d'âge fixées pour le recrutement des gardiens de la paix.
