@@ -146,6 +146,8 @@
 - [Arrêté du 11 janvier 1991 (BUDF9120376A)](arrete-du-11-janvier-1991-budf9120376a)
 - [Arrêté du 11 janvier 1991 (MERG9100003A)](arrete-du-11-janvier-1991-merg9100003a)
 - [Arrêté du 11 janvier 1991 (TOUR9104502A)](arrete-du-11-janvier-1991-tour9104502a)
+- [Arrêté du 11 juin 1991 (BUDR9105025A)](arrete-du-11-juin-1991-budr9105025a)
+- [Arrêté du 11 juin 1991 (BUDR9105026A)](arrete-du-11-juin-1991-budr9105026a)
 - [Arrêté du 11 mars 1991 (BUDF9100010A)](arrete-du-11-mars-1991-budf9100010a)
 - [Arrêté du 11 mars 1991 (BUDF9110032A)](arrete-du-11-mars-1991-budf9110032a)
 - [Arrêté du 11 mars 1991 (BUDR9105014A)](arrete-du-11-mars-1991-budr9105014a)

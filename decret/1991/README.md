@@ -149,6 +149,7 @@
 - [Décret n°91-185 du 13 février 1991 (SANH9100008D)](decret-n91-185-du-13-fevrier-1991-sanh9100008d)
 - [Décret n°91-270 du 13 mars 1991 (ECOZ9100006D)](decret-n91-270-du-13-mars-1991-ecoz9100006d)
 - [Décret n°91-274 du 13 mars 1991 (MAEJ9130006D)](decret-n91-274-du-13-mars-1991-maej9130006d)
+- [Décret n°91-554 du 13 juin 1991 (INTK9100169D)](decret-n91-554-du-13-juin-1991-intk9100169d)
 - [Décret n°91-431 du 13 mai 1991 (INDA9100337D)](decret-n91-431-du-13-mai-1991-inda9100337d)
 - [Décret n°91-432 du 13 mai 1991 (INDA9100381D)](decret-n91-432-du-13-mai-1991-inda9100381d)
 - [Décret n°91-433 du 13 mai 1991 (PRMG9170029D)](decret-n91-433-du-13-mai-1991-prmg9170029d)
