@@ -6,7 +6,6 @@
 - [Décret n°67-1075 du 4 décembre 1967](decret-n67-1075-du-4-decembre-1967)
 - [Décret n°67-1073 du 5 décembre 1967](decret-n67-1073-du-5-decembre-1967)
 - [Décret n°67-1076 du 5 décembre 1967](decret-n67-1076-du-5-decembre-1967)
-- [Décret n°67-1082 du 5 décembre 1967](decret-n67-1082-du-5-decembre-1967)
 - [Décret n°67-18 du 5 janvier 1967](decret-n67-18-du-5-janvier-1967)
 - [Décret n°67-441 du 5 juin 1967](decret-n67-441-du-5-juin-1967)
 - [Décret n°68-333 du 5 avril 1968](decret-n68-333-du-5-avril-1968)
