@@ -8,7 +8,7 @@ I. - Sont enregistrées dans la base ADONIS, les informations ou catégories d'i
 
 - identification des enfants et autres personnes à charge : nom, prénoms, date de naissance ;
 
-- situation de famille du (des) contribuable(s) ;
+- situation fiscale - marié, célibataire, divorcé ou séparé, veuf, partenaire d'un pacte civil de solidarité -, date et motif de changement de situation fiscale, du (des) contribuable(s) ;
 
 - adresse d'imposition, adresse d'envoi des déclarations, nouvelle adresse en cas de déménagement, le cas échéant, numéro de téléphone ;
 
