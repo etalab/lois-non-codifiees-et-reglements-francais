@@ -1,3 +1,0 @@
-# RÉACTION AU FEU - CLASSEMENTS CONVENTIONNELS.
-
-- [Article ANNEXE 21](article-annexe-21.md)
