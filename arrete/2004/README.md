@@ -280,6 +280,7 @@
 - [Arrêté du 15 avril 2004 (MCCF0400369A)](arrete-du-15-avril-2004-mccf0400369a)
 - [Arrêté du 15 février 2005 (BUDF0426168A)](arrete-du-15-fevrier-2005-budf0426168a)
 - [Arrêté du 15 janvier 2004 (SANP0420224A)](arrete-du-15-janvier-2004-sanp0420224a)
+- [Arrêté du 15 juin 2004 (ECOT0410498A)](arrete-du-15-juin-2004-ecot0410498a)
 - [Arrêté du 15 juin 2004 (SANH0422092A)](arrete-du-15-juin-2004-sanh0422092a)
 - [Arrêté du 15 novembre 2004 (JUSG0460102A)](arrete-du-15-novembre-2004-jusg0460102a)
 - [Arrêté du 16 avril 2004 (ECOT0495132A)](arrete-du-16-avril-2004-ecot0495132a)
