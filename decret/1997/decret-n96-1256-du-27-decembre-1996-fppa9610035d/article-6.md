@@ -4,7 +4,7 @@ Pour les communes et leurs établissements publics à caractère administratif a
 
 Section d'investissement :
 
-- pour les opérations ventilables, à la rubrique 90 " Opérations d'équipement ", complétée par la subdivision la plus détaillée de la nomenclature fonctionnelle définie par l'arrêté interministériel visé à l'article 1er du présent décret ainsi que du numéro d'opération, en cas de vote par opération. L'opération correspond à un ensemble d'acquisitions ou d'immobilisations et de travaux sur immobilisations aboutissant à la réalisation d'un ouvrage ou de plusieurs ouvrages de même nature.
+- pour les opérations ventilables, à la rubrique 90 " Opérations d'équipement ", complétée par la subdivision la plus détaillée de la nomenclature fonctionnelle définie par l'arrêté interministériel visé à l'article 1er du présent décret ainsi que du numéro d'opération, en cas de vote par opération. L'opération correspond à un ensemble d'acquisitions d'immobilisations, de travaux sur immobilisations et de frais d'études y afférents, aboutissant à la réalisation d'un ouvrage ou de plusieurs ouvrages de même nature ; ".
 
 La subdivision 01 " Opérations non ventilables " ouverte dans la fonction 0 " Services généraux des administrations publiques locales " est exclusivement réservée aux opérations d'équipement concernant de manière indifférenciée plusieurs fonctions ;
 
