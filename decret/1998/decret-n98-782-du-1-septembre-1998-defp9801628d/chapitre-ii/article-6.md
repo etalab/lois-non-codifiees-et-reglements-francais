@@ -2,7 +2,7 @@
 
 Le volontariat est souscrit au titre d'une force armée ou d'un service interarmées.
 
-Le contrat de volontariat est signé par l'autorité militaire agissant au nom du ministre chargé des armées et par le volontaire.
+Le contrat de volontariat est signé par l'autorité militaire agissant au nom du ministre de la défense et par le volontaire.
 
 Si la nature de l'activité concernée le permet, la durée de douze mois du volontariat dans les armées peut être fractionnée en périodes appelées fractions d'activité.
 

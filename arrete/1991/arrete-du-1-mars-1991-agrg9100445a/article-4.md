@@ -14,7 +14,7 @@ Les opérations de prophylaxie collective de la brucellose bovine faisant l'obje
 
 6. Prélèvements portant sur les organes génitaux ou les enveloppes foetales destinés au diagnostic bactériologique (à l'unité) ;
 
-7. Actes de vaccination, non compris la fourniture de vaccin antibrucellique par le vétérinaire sanitaire (à l'unité) ;
+7. (alinéa supprimé) ;
 
 8. Actes de marquage des animaux infectés ou contaminés (à l'unité) ;
 

@@ -14,7 +14,7 @@ d) L'inspecteur de la sécurité des navires et de la prévention des risques pr
 
 II. - Des membres nommés, à savoir :
 
-a) Un représentant du ministère des armées sur proposition du ministre chargé des armées ;
+a) Un représentant du ministère de la défense sur proposition du ministre de la défense ;
 
 b) Deux représentants du comité central des armateurs de France ;
 

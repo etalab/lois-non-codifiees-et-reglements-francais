@@ -12,7 +12,7 @@ Les professeurs de l'enseignement maritime sont recrutés au grade de professeur
 
 5° Officiers de réserve des corps des officiers de marine et des officiers spécialisés de la marine, du grade d'enseigne de vaisseau de 1re classe, titulaires du diplôme d'études supérieures de la marine marchande et réunissant au 1er janvier de l'année du concours au moins trente-six mois de navigation.
 
-Les candidats de ces quatre premières catégories, officiers spécialisés de la marine, doivent appartenir à l'une des branches, spécialisés ou groupes de spécialités dont la liste est fixée par arrêté conjoint des ministres chargés des armées et de la marine marchande ;
+Les candidats de ces quatre premières catégories, officiers spécialisés de la marine, doivent appartenir à l'une des branches, spécialisés ou groupes de spécialités dont la liste est fixée par arrêté conjoint des ministres de la défense et de la marine marchande ;
 
 6° Capitaines au long cours, officiers mécaniciens de 1re classe de la marine marchande ou capitaines de 1re classe de la navigation maritime ;
 
