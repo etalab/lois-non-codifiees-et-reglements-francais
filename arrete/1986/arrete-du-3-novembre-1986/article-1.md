@@ -1,7 +1,7 @@
 # Article 1
 
-Les prélèvements de sang sont effectués chez des sujets âgés de dix-huit à soixante-cinq ans, ne présentant pas de contre-indication médicale au don du sang. Néanmoins, il ne sera pas prélevé de sang chez les personnes ayant atteint soixante ans et n'ayant jamais donné de sang auparavant.
+Le concours général des lycées a pour fonction de distinguer les meilleurs élèves et de valoriser leurs travaux avec l'objectif que leurs prestations puissent servir de référence à l'ensemble des classes.
 
-Toutefois, à titre exceptionnel, des prélèvements de faible importance peuvent être effectués en dehors de ces limites d'âge chez des sujets dont le sang présente des propriétés ayant un intérêt particulier.
+Il s'adresse aux classes de première et aux classes terminales des lycées d'enseignement public et privé sous contrat.
 
-L'autorisation écrite des parents est exigée avant tout prélèvement sanguin chez un mineur.
+Il permet à des élèves qui suivent les enseignements prévus par les programmes officiels de montrer ce qu'ils peuvent faire de meilleur dans un cadre plus large que celui fixé par les définitions réglementaires des épreuves du baccalauréat.

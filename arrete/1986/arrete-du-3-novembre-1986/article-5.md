@@ -1,3 +1,3 @@
 # Article 5
 
-Immédiatement après le prélèvement, le donneur doit observer, sous surveillance médicale, un court repos, au cours duquel une légère collation lui est offerte.
+Le présent arrêté entrera en application au concours général de 1987.
