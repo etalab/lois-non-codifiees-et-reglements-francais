@@ -426,7 +426,6 @@
 - [Arrêté du 23 février 1988 (EQUS8800215A)](arrete-du-23-fevrier-1988-equs8800215a)
 - [Arrêté du 23 février 1988 (TRSA8800124A)](arrete-du-23-fevrier-1988-trsa8800124a)
 - [Arrêté du 23 juin 1987 (ASEA8701011A)](arrete-du-23-juin-1987-asea8701011a)
-- [Arrêté du 23 mars 1988 (ASEH8800438A)](arrete-du-23-mars-1988-aseh8800438a)
 - [Arrêté du 23 mars 1988 (INTD8800139A)](arrete-du-23-mars-1988-intd8800139a)
 - [Arrêté du 23 novembre 1987 (MERR8700184A)](arrete-du-23-novembre-1987-merr8700184a)
 - [Arrêté du 24 décembre 1987 (ENVQ8700270A)](arrete-du-24-decembre-1987-envq8700270a)
