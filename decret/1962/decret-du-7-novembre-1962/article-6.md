@@ -1,0 +1,3 @@
+# Article 6
+
+Sont approuvés les statuts de la Société d'économie mixte d'aménagement et de gestion du marché d'intérêt national de Strasbourg annexé au présent décret.
