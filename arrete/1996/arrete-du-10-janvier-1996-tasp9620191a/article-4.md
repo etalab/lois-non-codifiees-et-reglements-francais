@@ -1,0 +1,5 @@
+# Article 4
+
+Le stage d'adaptation est assuré par les centres agréés pour la formation au C.C.A. Le candidat doit déposer auprès de la D.R.A.S.S. de sa résidence ou, s'il réside à l'étranger, auprès de la D.R.A.S.S. de son choix une demande de stage assortie d'une copie certifiée conforme de la décision ministérielle. Les personnes inscrites en stage d'adaptation ne sont pas décomptées dans la capacité maximale agréée du centre d'accueil. En accord avec la D.R.A.S.S., le centre peut soit organiser une session spécifique, soit intégrer les intéressés à une session de formation au C.C.A., sous réserve de les dispenser de l'enseignement des matières exclues du stage d'adaptation par la décision ministérielle.
+
+A l'issue du stage d'adaptation, le candidat établit un rapport de stage. Ce rapport fait l'objet d'une soutenance devant un jury constitué selon les modalités de l'article 3. Le rapport de stage et la soutenance orale sont notés chacun sur 20. Le candidat doit obtenir une moyenne générale supérieure ou égale à 10 sur 20 sans note inférieure ou égale à 5. En cas de non-validation du stage d'adaptation, le candidat peut demander à suivre un nouveau stage.

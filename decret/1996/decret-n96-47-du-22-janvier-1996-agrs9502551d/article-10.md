@@ -1,0 +1,3 @@
+# Article 10
+
+Lorsque la réunion d'exploitations laitières résulte de la constitution d'un groupement agricole d'exploitation en commun, ou de l'entrée d'un nouvel associé dans ce groupement, les prélèvements prévus aux articles 2 et 3 du présent décret ne sont pas appliqués. Toutefois, lorsque la reconnaissance du groupement est retirée par application de l'article L. 323-12 du code rural, les prélèvements prévus aux articles 2 et 3 sont appliqués. Lorsque le groupement est dissous ou que le nombre de ses associés est réduit, ces prélèvements sont appliqués aux mutations de droits de propriété ou d'exploitation sur les parcelles incluses dans le groupement intervenues entre ses membres.

@@ -1,0 +1,5 @@
+# Article 3
+
+L'épreuve d'aptitude est organisée par les directions régionales des affaires sanitaires et sociales (D.R.A.S.S.). Le candidat dépose auprès de la D.R.A.S.S. de sa résidence ou, s'il réside à l'étranger, auprès de la D.R.A.S.S. de son choix, une demande d'inscription assortie d'une copie certifiée conforme de la décision ministérielle. Le jury, constitué par le préfet de région sur proposition de la D.R.A.S.S., est présidé par la D.R.A.S.S. ou son représentant et comprend en outre un médecin participant à la formation au C.C.A. et une personne titulaire du C.C.A. L'épreuve d'aptitude comporte une partie écrite en ce qui concerne les notions relevant des sections 1.1, 1.3, 2.3, 3.1, 3.2 et 3.3 de l'annexe I et une partie pratique pour les notions relevant des sections 1.2, 2.1 et 2.2 de cette même annexe.
+
+Chaque partie est notée sur 20. Pour réussir l'épreuve d'aptitude, le candidat doit obtenir une moyenne générale supérieure ou égale à 10 sur 20 sans note inférieure ou égale à 5.

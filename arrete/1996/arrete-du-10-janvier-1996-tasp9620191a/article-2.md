@@ -1,0 +1,5 @@
+# Article 2
+
+Après instruction du dossier complet, le ministre notifie sa décision au demandeur. Cette décision doit être notifiée au plus tard quatre mois après réception du dossier complet. Lorsque la formation n'est pas jugée substantiellement différente de la formation préparatoire au certificat de capacité d'ambulancier (C.C.A.), le demandeur est autorisé à exercer dans le cadre de la catégorie 1 de personnel prévue à l'article 3 du décret du 30 novembre 1987 modifié susvisé. Si la formation est jugée substantiellement différente de la formation préparatoire au C.C.A., le choix entre une épreuve d'aptitude ou un stage d'adaptation est proposé au demandeur, qui est cependant autorisé à exercer dans le cadre de la catégorie 4 de personnel prévue à l'article 3 du décret précité.
+
+La décision précise les notions, extraites du programme figurant en annexe I, sur lesquelles l'épreuve d'aptitude ou le stage d'adaptation portera. Le demandeur exerce son choix dans un délai de deux mois et le fait connaîre au ministre chargé de la santé.
