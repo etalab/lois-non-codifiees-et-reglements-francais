@@ -9,6 +9,8 @@
 - [Décret n°59-132 du 7 janvier 1959](decret-n59-132-du-7-janvier-1959)
 - [Décret n°59-133 du 7 janvier 1959](decret-n59-133-du-7-janvier-1959)
 - [Décret n°59-139 du 7 janvier 1959](decret-n59-139-du-7-janvier-1959)
+- [Décret n°59-157 du 7 janvier 1959](decret-n59-157-du-7-janvier-1959)
+- [Décret n°59-160 du 7 janvier 1959](decret-n59-160-du-7-janvier-1959)
 - [Décret n°59-166 du 7 janvier 1959](decret-n59-166-du-7-janvier-1959)
 - [Décret n°59-525 du 7 avril 1959](decret-n59-525-du-7-avril-1959)
 - [Décret n°59-96 du 7 janvier 1959](decret-n59-96-du-7-janvier-1959)
