@@ -4,7 +4,7 @@ Les emplois vacants de praticien hospitalier universitaire sont pourvus dans les
 
 I. - Les candidats doivent réunir les conditions suivantes à la date limite de dépôt des candidatures :
 
-1. Compter au moins deux ans de services effectifs en qualité de chef de clinique des universités - assistant des hôpitaux ou d'assistant hospitalier universitaire ou d'assistant des universités - assistant des hôpitaux et exercer ces fonctions ou avoir cessé de les exercer depuis moins d'un an [*condition d'ancienneté*];
+1. Compter au moins deux ans de services effectifs en qualité de chef de clinique des universités - assistant des hôpitaux ou d'assistant hospitalier universitaire et exercer ces fonctions ou avoir cessé de les exercer depuis moins de deux ans.
 
 2. Etre inscrits sur la liste d'aptitude établie à l'issue du concours mentionné à l'article 6-1 du décret n° 84-131 du 24 février 1984 susvisé.
 
