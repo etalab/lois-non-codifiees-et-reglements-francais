@@ -1,151 +1,19 @@
 # Article 2
 
-Les sections du conseil étudient notamment les questions suivantes :
+La section des affaires sociales est compétente dans les domaines de la démographie, de la protection sociale, de la santé et des établissements de soins, de la prise en charge de la perte d'autonomie, de l'action sociale, de la lutte contre les différentes formes d'exclusion, de la famille, de la formation initiale et de l'orientation des jeunes.
 
-Section des affaires sociales :
+La section du travail est compétente dans les domaines des systèmes de relations professionnelles, de la politique de l'emploi, de la promotion de et dans l'emploi, des conditions de travail et des droits des travailleurs salariés et non salariés, de la formation tout au long de la vie.
 
-- évolution et mouvements de la population ;
+La section des économies régionales et de l'aménagement du territoire est compétente dans les domaines de la décentralisation, du développement régional, des aspects régionaux de la planification, du développement local et de l'aménagement du territoire, des équipements collectifs, des modes de transports, des voies de communication et des télécommunications. Elle est en charge des relations avec les conseils économiques et sociaux régionaux.
 
-- conséquences économiques et sociales des évolutions démographiques ;
+La section du cadre de vie est compétente dans les domaines de la protection de l'environnement, de l'habitat et de l'urbanisme, de la société de l'information, des activités culturelles, sportives, touristiques et de loisirs.
 
-- politique familiale ;
+La section des finances est compétente dans les domaines des finances publiques, des questions financières nationales et internationales, de l'épargne et du crédit, des assurances, du système bancaire et de la gestion et de l'administration de l'entreprise.
 
-- problèmes de la jeunesse ;
+La section des relations extérieures est compétente dans les domaines du commerce extérieur, des questions économiques, sociales et culturelles bilatérales et multilatérales, de l'action économique, technique, sociale et culturelle de la France à l'étranger, des politiques de coopération et d'aide au développement, de l'action des organisations internationales et de l'Union européenne.
 
-- enseignement, formation et orientation des jeunes ;
+La section des activités productives, de la recherche et de la technologie est compétente dans les domaines des matières premières, de l'énergie, de l'industrie, du commerce, de l'artisanat et des services, de la protection des consommateurs, de l'économie sociale, de la recherche et de l'innovation technologique.
 
-- problèmes du troisième âge ;
+La section de l'agriculture et de l'alimentation est compétente dans les domaines de l'agriculture, des affaires rurales, de l'économie sociale agricole, de la pêche maritime et de l'aquaculture, de la forêt et du bois, de l'alimentation, des industries agroalimentaires et des productions agricoles non alimentaires.
 
-- problèmes posés par les catégories défavorisées de la population ;
-
-- inadaptations sociales ;
-
-- action sociale ;
-
-- sécurité sociale et prestations sociales ;
-
-- santé et problèmes hospitaliers.
-
-Section du travail :
-
-- problèmes du travail et de l'emploi ;
-
-- problèmes des travailleurs immigrés ;
-
-- conditions de travail ;
-
-- relations professionnelles dans l'entreprise ;
-
-- formation professionnelle, formation permanente et promotion sociale.
-
-Section des économies régionales et de l'aménagement du territoire :
-
-- aspects économiques et sociaux de la décentralisation ;
-
-- aménagement du territoire ;
-
-- équipements collectifs ;
-
-- développement régional et développement local ;
-
-- problèmes spécifiques aux différentes régions ;
-
-- transports et communications.
-
-Section du cadre de vie :
-
-environnement et lutte contre les pollutions ;
-
-protection de la nature et aménagements ruraux ;
-
-urbanisme ;
-
-habitat et construction autres problèmes relatifs au cadre de vie dans les zones urbaines ou rurales ;
-
-activités culturelles ;
-
-activités sportives ;
-
-tourisme et loisirs.
-
-Section des finances :
-
-problèmes monétaires nationaux et internationaux ;
-
-épargne et crédit ;
-
-finances publiques ;
-
-fiscalité ;
-
-financement des entreprises ;
-
-gestion des entreprises ;
-
-assurances.
-
-Section des relations extérieures :
-
-problèmes concernant la Communauté économique européenne et les organisations internationales à caractère économique ou social ;
-
-échanges extérieurs ;
-
-investissements étrangers en France et investissements français à l'étranger réalisations et présence françaises à l'étranger ;
-
-coopération économique, technique et culturelle avec les autres pays.
-
-Section des activités productives, de la recherche et de la technologie :
-
-matières premières ;
-
-problèmes de l'énergie ;
-
-productions industrielles et artisanales ;
-
-problèmes des services et des commerces ;
-
-protection des usagers et des consommateurs ;
-
-progrès technique et évolutions technologiques ;
-
-problèmes généraux de la recherche ;
-
-évolution des méthodes et procédés de fabrication ;
-
-problèmes généraux des entreprises d'économie sociale ;
-
-exploitation industrielle des mers et océans.
-
-Section de l'agriculture et de l'alimentation :
-
-problèmes fonciers agricoles ;
-
-produits et matériels nécessaires à l'agriculture ;
-
-problèmes des productions agricoles ;
-
-commercialisation des produits agricoles ;
-
-consommation alimentaire ;
-
-recherche et progrès techniques en matière agricole et alimentaire ;
-
-problèmes des entreprises d'économie sociale agricole ;
-
-conservation et exploitation des forêts ;
-
-problèmes de l'aquaculture et de la pêche ;
-
-autres problèmes d'exploitation alimentaire des mers et océans ;
-
-problèmes de l'eau.
-
-Section des problèmes économiques généraux et de la conjoncture :
-
-- évolution économique et sociale à court terme ;
-
-- évaluation et répartition du revenu national ;
-
-- établissement d'un rapport périodique de conjoncture ;
-
-- information économique et sociale.
+La section des questions économiques générales et de la conjoncture est compétente dans les domaines de la politique économique et sociale à court, moyen et long terme, de l'évaluation et de la répartition du revenu national, de l'information économique et sociale. Elle établit périodiquement un rapport de conjoncture.

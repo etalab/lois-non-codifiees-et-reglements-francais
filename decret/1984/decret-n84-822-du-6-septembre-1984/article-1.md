@@ -18,4 +18,4 @@ Section des activités productives, de la recherche et de la technologie ;
 
 Section de l'agriculture et de l'alimentation ;
 
-Section des problèmes économiques généraux et de la conjoncture.
+Section des questions économiques générales et de la conjoncture.<L>
