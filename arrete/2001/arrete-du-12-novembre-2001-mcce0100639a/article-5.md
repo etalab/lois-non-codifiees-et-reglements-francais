@@ -1,0 +1,3 @@
+# Article 5
+
+Les demandes de prolongation à douze mois des congés pour études et recherche octroyés pour six mois sont instruites selon les mêmes dispositions que celles fixées au dernier alinéa de l'article 3 et à l'article 4 du présent arrêté. Elles doivent comporter, en plus de la note rappelant le projet scientifique et de la demande établie sur le modèle figurant en annexe 2, un bilan d'avancement des travaux de recherche expliquant les motifs de la demande de prolongation. Elles doivent être déposées auprès de l'école d'affectation au moins deux mois avant la fin du congé de six mois en cours.
