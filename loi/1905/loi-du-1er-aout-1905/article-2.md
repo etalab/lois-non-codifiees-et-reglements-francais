@@ -1,9 +1,13 @@
 # Article 2
 
-L'emprisonnement pourra être porté à deux ans, si le délit ou la tentative de délit prévus par l'article précédent ont été commis :
+Les peines prévues à l'article 1er sont portées au double :
 
-Soit à l'aide de poids, mesures et autres instruments faux ou inexacts ;
+1° Si les délits prévus audit article ont eu pour conséquence de rendre l'utilisation de la marchandise dangereuse pour la santé de l'homme ou de l'animal ;
 
-Soit à l'aide de manoeuvres ou procédés tendant à fausser les opérations de l'analyse ou du dosage, du pesage ou du mesurage, ou bien à modifier frauduleusement la composition, le poids ou le volume des marchandises, même avant ces opérations ;
+2° Si le délit ou la tentative de délit prévus à l'article 1er ont été commis :
 
-Soit enfin à l'aide d'indications frauduleuses tendant à faire croire à une opération antérieure et exacte ou à un contrôle officiel qui n'aurait pas existé.
+- soit à l'aide de poids, mesures et autres instruments faux ou inexacts :
+
+- soit à l'aide de manoeuvres ou procédés tendant à fausser les opérations de l'analyse ou du dosage, du pesage ou du mesurage, ou tendant à modifier frauduleusement la composition, le poids ou le volume des marchandises, même avant ces opérations :
+
+- soit enfin à l'aide d'indications frauduleuses tendant à faire croire à une opération antérieure et exacte.
