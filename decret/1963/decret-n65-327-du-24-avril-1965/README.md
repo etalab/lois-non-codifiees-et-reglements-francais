@@ -1,5 +1,6 @@
 # Décret n°65-327 du 24 avril 1965 relatif au statut particulier des professeurs civils de l'école spéciale militaire de Saint-Cyr et de l'école de l'air.
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 5](article-5.md)
 - [Article 8](article-8.md)
