@@ -1,0 +1,3 @@
+# Article 1
+
+Peuvent être habilités en application de l'article 5 A de l'ordonnance n° 67-833 du 28 septembre 1967 à procéder à des enquêtes les magistrats et les fonctionnaires de catégorie A, les fonctionnaires de catégorie B ayant au moins cinq ans d'ancienneté, les agents contractuels de la première à la quatrième catégorie de la Commission des opérations de bourse, le personnel des cadres, les secrétaires-rédacteurs et les secrétaires-comptables de la Banque de France ainsi que les experts inscrits sur la liste nationale établie par le bureau de la Cour de cassation et sur les listes établies par les cours d'appel.
