@@ -2,7 +2,6 @@
 
 - [Article 1](article-1.md)
 - [Titre I : Régime général du redressement judiciaire](titre-i)
-- [Titre Ier : Régime général du règlement judiciaire](titre-ier)
 - [Article 2](article-2.md)
 - [Titre II : Procédure simplifiée applicable à certaines entreprises.](titre-ii)
 - [Titre III : La liquidation judiciaire](titre-iii)
