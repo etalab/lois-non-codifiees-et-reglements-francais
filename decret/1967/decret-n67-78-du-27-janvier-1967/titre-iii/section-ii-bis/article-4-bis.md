@@ -18,6 +18,8 @@ Le droit d'ajournement prévu aux articles 3 et 4 du présent décret ne s'appli
 
 2° A l'expiration d'un délai de deux mois à compter de la réception des déclarations d'investissements effectuées au titre du présent article si le ministre de l'économie n'a pas notifié que l'opération non conforme aux conditions énumérées par cet article relève des articles 3 et 4 ci-dessus, l'opération est réputée entrer dans le champ d'application du présent article.
 
+Toutefois, pour les opérations visées au 1° de l'article 4 ter du présent décret, ce délai est ramené à un mois.
+
 3° Toutefois :
 
 Les investissements effectués dans des activités participant en France, même à titre occasionnel, à l'exercice de l'autorité publique ;
