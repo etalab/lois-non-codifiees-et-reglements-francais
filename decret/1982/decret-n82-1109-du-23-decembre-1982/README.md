@@ -4,6 +4,7 @@
 - [Article 2](article-2.md)
 - [Article 22](article-22.md)
 - [Article 23](article-23.md)
+- [Annexes](annexes)
 - [Contrôle et sanctions.](controle-et)
 - [Dispositions administratives et financières.](dispositions-administratives-et)
 - [Dispositions économiques et techniques.](dispositions-economiques-et)
