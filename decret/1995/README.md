@@ -9,6 +9,7 @@
 - [Décret n°95-245 du 1 mars 1995 (SPSH9500080D)](decret-n95-245-du-1-mars-1995-spsh9500080d)
 - [Décret n°95-350 du 1 avril 1995 (PRMX9500032D)](decret-n95-350-du-1-avril-1995-prmx9500032d)
 - [Décret n°95-356 du 1 avril 1995 (MCCX9500027D)](decret-n95-356-du-1-avril-1995-mccx9500027d)
+- [Décret n°95-367 du 1 avril 1995 (FPPX9500040D)](decret-n95-367-du-1-avril-1995-fppx9500040d)
 - [Décret n°95-99 du 1 février 1995 (BUDB9460061D)](decret-n95-99-du-1-fevrier-1995-budb9460061d)
 - [Décret n°95-110 du 2 février 1995 (MCCK9400557D)](decret-n95-110-du-2-fevrier-1995-mcck9400557d)
 - [Décret n°95-113 du 2 février 1995 (SPSS9500025D)](decret-n95-113-du-2-fevrier-1995-spss9500025d)
