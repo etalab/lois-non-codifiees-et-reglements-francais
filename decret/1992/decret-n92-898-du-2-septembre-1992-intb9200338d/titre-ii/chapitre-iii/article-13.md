@@ -1,6 +1,6 @@
 # Article 13
 
-A l'issue des épreuves d'admission, les jurys arrêtent, dans la limite des places mises au concours, une liste d'admission. Cette liste fait mention de la spécialité et, le cas échéant, de la discipline choisies par le candidat. "
+A l'issue des épreuves d'admission, les jurys arrêtent, dans la limite des places mises au concours, une liste d'admission. Cette liste fait mention de la spécialité et, le cas échéant, de la discipline choisies par le candidat. Elle est distincte pour chacun des concours prévus à l'article 1er.
 
 Le président du jury transmet les listes mentionnées ci-dessus au délégué régional ou interdépartemental du Centre national de la fonction publique territoriale avec un compte rendu de l'ensemble des opérations.
 
