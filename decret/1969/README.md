@@ -63,7 +63,6 @@
 - [Décret n°69-689 du 19 juin 1969](decret-n69-689-du-19-juin-1969)
 - [Décret n°69-515 du 19 mai 1969](decret-n69-515-du-19-mai-1969)
 - [Décret n°69-1057 du 20 novembre 1969](decret-n69-1057-du-20-novembre-1969)
-- [Décret n°69-252 du 20 mars 1969](decret-n69-252-du-20-mars-1969)
 - [Décret n°69-253 du 21 mars 1969](decret-n69-253-du-21-mars-1969)
 - [Décret n°69-812 du 21 août 1969](decret-n69-812-du-21-aout-1969)
 - [Décret n°69-535 du 21 mai 1969](decret-n69-535-du-21-mai-1969)
