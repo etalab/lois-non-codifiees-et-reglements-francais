@@ -4,6 +4,8 @@ Le comité du personnel civil est présidé par le directeur de la fonction mili
 
 Il comprend [*composition*] :
 
+- le chef de la division Plans, programmes, espace de l'état-major des armées ;
+
 - les sous-chefs d'état-major compétents des trois armées ;
 
 - le directeur du personnel et des affaires générales ;
