@@ -168,7 +168,6 @@
 - [Décret n°83-857 du 19 septembre 1983](decret-n83-857-du-19-septembre-1983)
 - [Décret n°84-196 du 19 mars 1984](decret-n84-196-du-19-mars-1984)
 - [Décret n°84-197 du 19 mars 1984](decret-n84-197-du-19-mars-1984)
-- [Décret n°83-398 du 19 mai 1983](decret-n83-398-du-19-mai-1983)
 - [Décret n°75-41 du 20 janvier 1975](decret-n75-41-du-20-janvier-1975)
 - [Décret n°83-321 du 20 avril 1983](decret-n83-321-du-20-avril-1983)
 - [Décret n°83-662 du 20 juillet 1983](decret-n83-662-du-20-juillet-1983)
