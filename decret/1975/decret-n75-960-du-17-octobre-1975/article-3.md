@@ -1,0 +1,3 @@
+# Article 3
+
+Des arrêtés interministériels pris par le ministre de l'environnement et du cadre de vie, le ministre de l'industrie et, s'agissant des véhicules et des dispositifs d'échappement, le ministre des transports, définissent pour chaque catégorie d'appareils, matériels, équipements ou véhicules, les niveaux sonores admissibles, les conditions dans lesquelles ces niveaux doivent être portés à la connaissance des utilisateurs et des acheteurs, les modalités de leur mesure et de leur contrôle et, le cas échéant, la procédure d'homologation par type applicables aux appareils, matériels, équipements et à leurs composants, mis en service postérieurement auxdits arrêtés, ainsi que la date d'application du présent décret à la catégorie considérée.
