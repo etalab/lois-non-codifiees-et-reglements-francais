@@ -14,6 +14,7 @@
 - [Loi n° 97-210 du 11 mars 1997 (TASX9600116L)](loi-n-97-210-du-11-mars-1997-tasx9600116l)
 - [Loi n° 97-280 du 26 mars 1997 (MAEX9500048L)](loi-n-97-280-du-26-mars-1997-maex9500048l)
 - [Loi n° 97-281 du 26 mars 1997 (MAEX9600102L)](loi-n-97-281-du-26-mars-1997-maex9600102l)
+- [Loi n° 97-283 du 27 mars 1997 (MCCX9500013L)](loi-n-97-283-du-27-mars-1997-mccx9500013l)
 - [Loi n° 97-51 du 22 janvier 1997 (MAEX9600039L)](loi-n-97-51-du-22-janvier-1997-maex9600039l)
 - [Loi n° 97-52 du 22 janvier 1997 (MAEX9600038L)](loi-n-97-52-du-22-janvier-1997-maex9600038l)
 - [Loi n° 97-53 du 22 janvier 1997 (MAEX9600034L)](loi-n-97-53-du-22-janvier-1997-maex9600034l)
