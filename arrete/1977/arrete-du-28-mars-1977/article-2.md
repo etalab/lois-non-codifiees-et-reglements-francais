@@ -1,5 +1,7 @@
 # Article 2
 
-Le comité professionnel interrégional de l'horlogerie établit un règlement intérieur déterminant notamment son organisation ainsi que les conditions de son fonctionnement et de ses interventions.
+Nature des opérations éligibles
 
-(1) Ancien intitulé du titre de l'arrêté : Taux et modalités d'utilisation de la taxe parafiscale instituée au profit de l'association dite Comité professionnel interrégional de l'horlogerie et du centre technique de l'industrie horlogère.
+Ne sont éligibles que les opérations de prospection, à l'exclusion de toute opération de développement et de production. La définition des opérations de prospection, c'est-à-dire des travaux permettant, le cas échéant, d'aboutir à la démonstration d'un gisement exploitable, sera précisée, en tant que de besoin, par la décision attributive de l'aide prise sur proposition du comité des mines.
+
+Ne sont retenues que les opérations dans lesquelles les bénéficiaires de l'aide ont une part de responsabilité dans la définition des programmes ainsi qu'un droit d'accès à la production future.

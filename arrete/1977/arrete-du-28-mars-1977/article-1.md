@@ -1,5 +1,5 @@
 # Article 1
 
-Le taux de la taxe prévue à l'article 3 du décret susvisé est fixé jusqu'au 31 décembre 1977 [*date limite*] à 0,95 p. 100 dont 0,70 p. 100 affecté au comité professionnel interrégional de l'horlogerie et 0,25 p. 100 affecté au centre technique de l'industrie horlogère.
+Entreprises bénéficiaires
 
-(1) Ancien intitulé du titre de l'arrêté : Taux et modalités d'utilisation de la taxe parafiscale instituée au profit de l'association dite Comité professionnel interrégional de l'horlogerie et du centre technique de l'industrie horlogère.
+Des subventions remboursables en cas de succès peuvent être attribuées aux entreprises pour la réalisation de programmes de prospection de minerai d'uranium. L'attribution de ces subventions se fait par décision du ministre de l'industrie et de la recherche, après avis du comité des mines du CEA dans les conditions précisées aux articles ci-après.

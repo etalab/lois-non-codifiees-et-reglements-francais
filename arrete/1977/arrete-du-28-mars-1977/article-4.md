@@ -1,5 +1,5 @@
 # Article 4
 
-Le produit de la taxe est versé à un compte courant ouvert au nom du comité et du centre technique de l'industrie horlogère à la paierie générale du Trésor, laquelle le répartit entre chacun des deux organismes en application de l'article 1er.
+Engagements d'approvisionnement du marché français.
 
-(1) Ancien intitulé du titre de l'arrêté : Taux et modalités d'utilisation de la taxe parafiscale instituée au profit de l'association dite Comité professionnel interrégional de l'horlogerie et du centre technique de l'industrie horlogère.
+En contrepartie de l'aide apportée à une opération considérée, chaque entreprise bénéficiaire s'engage, en cas de succès de l'opération, à proposer en priorité pour la couverture des besoins nationaux ses droits d'accès à la production du gisement découvert à la suite de cette opération, sous réserve des obligations mises par le pays producteur à la destination de ces productions ; la réalisation de cet engagement se fait aux prix et conditions du marché international, la fourniture du concentré ou du produit fluoré contenant l'uranium naturel étant proposée sur des bases à long terme aux organismes qui seront désignés, le moment venu, par le ministre de l'industrie et de la recherche.

@@ -1,7 +1,11 @@
 # Article 3
 
-Toute intervention financière du comité est assortie d'un engagement aux termes duquel l'entreprise ou le groupe d'entreprises bénéficiaires s'oblige, sous diverses garanties, à réaliser le programme retenu et à justifier de son exécution.
+Taux et montant de l'aide
 
-Le contrôle de la réalisation des programmes est assuré par des rapporteurs ou par des agents désignés par le ministre de l'industrie et de la recherche. Il en est rendu compte chaque année à celui-ci et au ministre de l'économie et des finances.
+Le taux de l'aide est fixé dans la décision attributive de l'aide en tenant compte plus particulièrement de l'intérêt de l'opération pour la sécurité et la diversification de l'approvisionnement français en uranium et de l'ensemble des autres aides, directes ou indirectes, dont ces opérations bénéficieraient.
 
-(1) Ancien intitulé du titre de l'arrêté : Taux et modalités d'utilisation de la taxe parafiscale instituée au profit de l'association dite Comité professionnel interrégional de l'horlogerie et du centre technique de l'industrie horlogère.
+Le taux de l'aide ne peut excéder 35 % du coût total prévisionnel du programme de recherche pour lequel l'entreprise sollicite l'aide de l'Etat.
+
+A titre exceptionnel, et avec l'accord du ministre de l'économie et des finances, ce taux pourra toutefois être porté pour certaines opérations jusqu'à un maximum de 50 %.
+
+La décision attributive fixe le montant de la dépense donnant lieu à participation de l'Etat, le taux de cette participation, le montant de l'aide accordée et le calendrier prévisionnel des versements.

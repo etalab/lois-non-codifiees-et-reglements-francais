@@ -1,0 +1,3 @@
+# Article 2
+
+Sont habilités à recevoir des subventions au titre de l'article 3 (II, b) du décret modifié du 16 juin 1959 les entreprises françaises agréées de studios de prises de vue et d'enregistrement sonore, de laboratoires de développement et de tirage de films, les ateliers de trucage, les constructeurs de matériels cinématographiques concourant aux besoins de la production et de la projection des films ainsi que les entreprises qui effectuent des opérations portant sur la recherche, le perfectionnement ou la mise en oeuvre de techniques propres à améliorer la qualité ou à réduire le coût de la production cinématographique française.
