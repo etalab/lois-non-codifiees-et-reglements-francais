@@ -1,6 +1,7 @@
 # Loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier.
 
 - [Article 1](article-1.md)
+- [Article 1-1](article-1-1.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 6](article-6.md)

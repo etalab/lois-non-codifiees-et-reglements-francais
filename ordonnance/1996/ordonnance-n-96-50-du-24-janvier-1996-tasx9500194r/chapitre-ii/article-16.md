@@ -22,7 +22,7 @@ II. - Sont également assujettis à la contribution selon les modalités prévue
 
 7° Lorsque les intéressés demandent la délivrance des sommes ou valeurs provenant d'un plan d'épargne entreprise au sens du chapitre III du titre IV du livre IV du code du travail, le revenu constitué par la différence entre le montant de ces sommes ou valeurs et le montant des sommes versées dans le plan ;
 
-8° Les répartitions de sommes ou valeurs effectuées par un fonds commun de placement à risques dans les conditions prévues aux I et II de l'article 163 quinquies B du code général des impôts, les gains nets mentionnés au 1 du III de l'article 150-0 A du même code ainsi que les distributions effectuées par les sociétés de capital-risque dans les conditions prévues au deuxième alinéa de l'article 163 quinquies C du code général des impôts, lors de leur versement ;
+8° Les répartitions de sommes ou valeurs effectuées par un fonds commun de placement à risques dans les conditions prévues aux I et II de l'article 163 quinquies B du code général des impôts, les distributions effectuées par les sociétés de capital-risque dans les conditions prévues aux deuxième à cinquième alinéas du I et aux deuxième à sixième alinéas du II de l'article 163 quinquies C du même code, lors de leur versement, ainsi que les gains nets mentionnés aux 1 et 1 bis du III de l'article 150-0 A du même code ;
 
 9° Les gains nets et les produits des placements en valeurs mobilières effectués en vertu d'un engagement d'épargne à long terme respectivement visés aux 5 du III de l'article 150-0 A et 16° de l'article 157 du code général des impôts, lors de l'expiration du contrat.
 

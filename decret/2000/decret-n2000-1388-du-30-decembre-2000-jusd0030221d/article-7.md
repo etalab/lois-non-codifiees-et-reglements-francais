@@ -1,0 +1,3 @@
+# Article 7
+
+En cas d'appel, les dispositions du premier et du troisième alinéa de l'article D. 116-14 du code de procédure pénale ne sont pas applicables ; les pièces adressées à la chambre des appels correctionnels sont alors, outre l'ordonnance rendue par le juge de l'application des peines, la demande ou la requête ayant saisi ce magistrat, l'avis de la commission de l'application des peines et, le cas échéant, les observations écrites déposées par le condamné ou par son avocat. Pendant l'instance d'appel, ces pièces peuvent être consultées par l'avocat, qui peut s'en faire délivrer copie à ses frais.
