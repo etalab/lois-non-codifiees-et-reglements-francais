@@ -514,6 +514,7 @@
 - [Arrêté du 19 mars 1996 (MENH9600246A)](arrete-du-19-mars-1996-menh9600246a)
 - [Arrêté du 19 mars 1996 (TASP9621039A)](arrete-du-19-mars-1996-tasp9621039a)
 - [Arrêté du 19 mars 1996 (TASS9621004A)](arrete-du-19-mars-1996-tass9621004a)
+- [Arrêté du 20 août 1996 (MAEA9620417A)](arrete-du-20-aout-1996-maea9620417a)
 - [Arrêté du 20 décembre 1995 (ECOT9540292A)](arrete-du-20-decembre-1995-ecot9540292a)
 - [Arrêté du 20 décembre 1995 (ENVE9540434A)](arrete-du-20-decembre-1995-enve9540434a)
 - [Arrêté du 20 février 1996 (ENVN9650039A)](arrete-du-20-fevrier-1996-envn9650039a)
