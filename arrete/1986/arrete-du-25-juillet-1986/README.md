@@ -1,4 +1,4 @@
-# Arrêté du 25 juillet 1986 relatif à la méthode officielle d'analyse pour la détermination de la teneur en fibres alimentaires totales des produits au son
+# Arrêté du 25 juillet 1986 modifiant la liste des produits et appareils à usage préventif, diagnostique ou thérapeutique soumis à homologation
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
