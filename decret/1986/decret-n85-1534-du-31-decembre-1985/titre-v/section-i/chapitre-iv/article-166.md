@@ -1,0 +1,3 @@
+# Article 166
+
+Les personnels non titulaires en fonctions à la date de publication du présent décret qui ont été recrutés et sont rémunérés sur les budgets de fonctionnement des établissements d'enseignement supérieur ou des établissements publics de recherche ou d'enseignement et de recherche relevant du ministère de l'éducation nationale peuvent, jusqu'au 31 décembre 1988, demander à être intégrés dans les corps régis par le présent décret, dans les conditions définies aux articles 148 à 164 ci-dessus, si, au plus tard le 31 décembre 1988, ils ont été nommés en qualité d'agent contractuel à temps complet, sur un emploi permanent et disponible du budget du ministère de l'éducation nationale.

@@ -1,0 +1,3 @@
+# Article 127
+
+Les concours mentionnés à l'article 126 ci-dessus sont ouverts par arrêtés conjoints du ministre de l'éducation nationale et du ministre chargé de la fonction publique. La répartition éventuelle entre établissements d'affectation des postes offerts aux concours est fixée par arrêté du ministre de l'éducation nationale. Toutefois, pour les postes offerts dans le ressort, d'une même académie à un concours de recrutement d'adjoints techniques, d'agents techniques, d'adjoints administratifs ou d'agents d'administration de recherche et de formation, leur répartition éventuelle entre établissements d'affectation peut être opérée par arrêté du recteur de l'académie considérée.
