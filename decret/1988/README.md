@@ -191,6 +191,7 @@
 - [Décret n°88-144 du 10 février 1988 (BUDF8720096D)](decret-n88-144-du-10-fevrier-1988-budf8720096d)
 - [Décret n°88-156 du 10 février 1988 (ACVP8720067D)](decret-n88-156-du-10-fevrier-1988-acvp8720067d)
 - [Décret n°88-225 du 10 mars 1988 (ASEH8800202D)](decret-n88-225-du-10-mars-1988-aseh8800202d)
+- [Décret n°88-755 du 10 juin 1988 (ASEC8803495D)](decret-n88-755-du-10-juin-1988-asec8803495d)
 - [Décret n°88-330 du 11 avril 1988 (JUSA8800040D)](decret-n88-330-du-11-avril-1988-jusa8800040d)
 - [Décret n°88-337 du 11 avril 1988 (MCCT8800194D)](decret-n88-337-du-11-avril-1988-mcct8800194d)
 - [Décret n°88-342 du 11 avril 1988 (MENF8800452D)](decret-n88-342-du-11-avril-1988-menf8800452d)
