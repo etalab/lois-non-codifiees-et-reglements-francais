@@ -1,5 +1,5 @@
 # Article 3
 
-L'autorisation de distribution pour expérimentation d'un produit phytopharmaceutique est délivrée par le ministre de l'agriculture et de la pêche après avis de la commission d'étude de la toxicité des produits antiparasitaires à usage agricole et des produits assimilés, et sur proposition du comité d'homologation des produits antiparasitaires à usage agricole et des produits assimilés.
+L'autorisation de distribution pour expérimentation d'un produit phytopharmaceutique est délivrée par le ministre chargé de l'agriculture conformément à la procédure prévue par l'article 3 du décret du 5 mai 1994 susvisé.
 
-Elle est accordée pour une durée n'excédant pas deux ans, renouvelable, dans des conditions contrôlées, pour des quantités et des zones limitées.
+Elle est accordée pour des quantités et des zones limitées, pour une durée n'excédant pas deux ans et sous réserve qu'à chaque test une déclaration d'expérimentation soit effectuée selon les modalités prévues aux articles 7 à 7-2 du présent arrêté. Elle est renouvelable, dans les mêmes conditions.
