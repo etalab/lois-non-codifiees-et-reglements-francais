@@ -1,3 +1,0 @@
-# Article 10
-
-Si, dans un département, l'ensemble des quantités rachetées n'atteint pas, le 30 mars 1992, la somme de la réduction effectuée en application de l'article 2 de l'arrêté du 29 mars 1991 modifié et des dotations attribuées ou à attribuer dans ce département sur la réserve visée à l'article 1er du décret n° 91-157, aux producteurs visés à l'article 3 bis du règlement (C.E.E.) n° 857-84 modifié, la référence de chaque producteur présent à cette date est diminuée à due concurrence. Le producteur est indemnisé en application de l'article 2, paragraphe 5, du règlement (C.E.E.) n° 1637-91, selon des modalités arrêtées par le ministre de l'agriculture et de la forêt après avis du conseil de direction de l'Onilait.
