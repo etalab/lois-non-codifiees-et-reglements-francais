@@ -4,4 +4,4 @@ Le ministère chargé de la défense nationale et les autres administrations pub
 
 Des poudres et substances explosives destinées à des fins militaires dans les conditions définies à l'article 5 ci-dessus ;
 
-De poudres et substances explosives destinées à un usage civil dans les conditions définies à l'article 8 ci-dessus.
+De poudres et substances explosives destinées à un usage civil dans les conditions définies aux articles 8-2 et 8-4 ci-dessus.
