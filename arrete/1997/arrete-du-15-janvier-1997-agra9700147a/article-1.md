@@ -72,7 +72,7 @@ Chef du service régional des haras de Champagne-Ardennes ;
 
 Chef du service des haras d'Auvergne ;
 
-Chef du service économie agricole agroalimentaire du gers.
+Chef du service économie agricole agroalimentaire du Gers.
 
 Chef du service économie agricole du Loiret ;
 
@@ -94,7 +94,7 @@ Chef du service environnement forêt, aménagement espace rural et chef de la mi
 
 Chef du service aménagements, environnement et chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de l'Indre ;
 
-Chef du service aménagement foncier, hydraulique, forestier et environnement et chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt du Jura ;
+Chef du service aménagement foncier, hydraulique, forestier et environnement et chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt du Jura  ;
 
 Chef du service relations collectivités locales et responsable du pôle déchets à la direction départementale de l'agriculture et de la forêt des Alpes-de-Hautes-Provences ;
 
@@ -119,3 +119,15 @@ Chef du service de l'économie agricole à la direction départementale de l'agr
 Chef du service de l'économie agricole à la direction départementale de l'agriculture et de la forêt de l'Yonne ;
 
 Chef du service de l'administration générale, responsable de la formation agricole, au service d'Etat de l'agriculture, de la forêt et de l'environnement en Nouvelle-Calédonie.
+
+A COMPTER DU 1ER JANVIER 2001 :
+
+Chef du bureau de la sécurité et de la maintenance des bâtiments d'administration centrale.
+
+AU TITRE DE L'ANNEE 2000 :
+
+Chef du service de l'espace rural et de la forêt, chef de la mission interservices de l'eau, à la direction départementale de l'agriculture et de la forêt de Saône-et-Loire.
+
+AU TITRE DE L'ANNEE 2001 :
+
+Chef du service de l'environnement, du foncier et de la forêt, chef de la mission interservices de l'eau, à la direction départementale de l'agriculture et de la forêt de Lot-et-Garonne.

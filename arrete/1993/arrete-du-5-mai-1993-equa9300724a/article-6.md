@@ -7,5 +7,3 @@ Le président du jury arrête le choix des sujets d'épreuves et prononce les é
 La liste des lauréats des concours ;
 
 Une liste complémentaire où sont inscrits des candidats susceptibles d'être désignés lauréats en cas de désistement ou d'inaptitude médicale de lauréats de la liste précitée.
-
-" Les candidats ayant obtenu un avis défavorable aux épreuves psychologiques ne pourront plus présenter de candidature aux concours d'élève pilote de ligne prévus dans le présent arrêté. "
