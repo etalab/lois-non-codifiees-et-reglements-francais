@@ -1,3 +1,0 @@
-# Article 38-5
-
-Le contrôle par la Cour des comptes du compte d'emploi annuel des ressources collectées auprès du public par un organisme faisant appel à la générosité publique dans les conditions prévues à l'article 3 de la loi du 7 août 1991 susvisée est décidé, après avis du procureur général, par le premier président, sur proposition du président de la chambre ou, le cas échéant, du président de la section compétente. Cette décision, qui précise la période sur laquelle portera le contrôle des comptes d'emploi et désigne les rapporteurs chargés de l'enquête, est notifiée au représentant légal de l'organisme concerné ou, si cet organisme a son siège à l'étranger, au représentant mentionné au troisième alinéa de l'article 38-1.
