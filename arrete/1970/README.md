@@ -8,6 +8,7 @@
 - [Arrêté du 15 décembre 1969](arrete-du-15-decembre-1969)
 - [Arrêté du 17 décembre 1969](arrete-du-17-decembre-1969)
 - [Arrêté du 19 décembre 1969](arrete-du-19-decembre-1969)
+- [Arrêté du 19 janvier 1970](arrete-du-19-janvier-1970)
 - [Arrêté du 22 septembre 1970](arrete-du-22-septembre-1970)
 - [Arrêté du 25 juin 1970](arrete-du-25-juin-1970)
 - [Arrêté du 25 mai 1970](arrete-du-25-mai-1970)
