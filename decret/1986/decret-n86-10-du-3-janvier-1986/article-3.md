@@ -1,0 +1,7 @@
+# Article 3
+
+Les praticiens hospitaliers, détachés dans un emploi de praticien hospitalier universitaire, qui remplissent les conditions d'ancienneté fixées respectivement à l'article 61 du décret n° 84-135 du 24 février 1984 pour se présenter aux concours de recrutement des professeurs des universités-praticiens hospitaliers dans les disciplines cliniques, ou à l'article 48 dudit décret pour se présenter aux concours de recrutement des maîtres de conférences des universités-praticiens hospitaliers, peuvent être détachés en leur qualité de praticien hospitalier pour exercer des fonctions hospitalières et universitaires en coopération. Il est mis fin à leur détachement dans un emploi de praticien hospitalier universitaire.
+
+La première période de détachement en coopération est égale à la période maximale qu'il leur resterait à accomplir en qualité de praticien hospitalier universitaire, en application des articles 28 et 84 du décret n° 84-135 du 24 février 1984.
+
+Ceux qui ont été détachés pendant au moins trois ans dans un emploi de praticien hospitalier universitaire en France peuvent, durant leur première période de détachement en coopération et durant une année supplémentaire, se présenter aux concours de recrutement de professeurs des universités-praticiens hospitaliers dans les disciplines cliniques au titre de l'article 61 du décret n° 84-135 du 24 février 1984, sous réserve de satisfaire aux conditions de titres mentionnées au dernier alinéa dudit article 61 et dans les limites prévues à l'article 64.

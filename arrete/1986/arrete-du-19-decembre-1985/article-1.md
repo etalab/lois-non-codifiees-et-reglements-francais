@@ -1,3 +1,3 @@
 # Article 1
 
-Conformément à l'habilitation donnée par le ministre de l'économie, des finances et du budget en date du 22 octobre 1984, un service de garde et de gestion de titres de valeurs mobilières est mis, à titre expérimental, à la disposition des titulaires de comptes chèques postaux pour une durée de deux ans.
+Pour l'application des dispositions de l'article 5, dernier alinéa, du décret du 5 octobre 1970 susvisé, sont reconnues équivalentes les fonctions de directeur de l'Institut de recherche des transports ou de directeur général de l'Institut national de recherche sur les transports et leur sécurité.
