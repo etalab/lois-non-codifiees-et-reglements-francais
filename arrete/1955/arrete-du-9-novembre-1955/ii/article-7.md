@@ -1,0 +1,3 @@
+# Article 7
+
+Pourront être titularisés dans l'emploi d'aide-soignant ou d'aide soignante, sur la proposition du médecin chef de service, les agents ayant reçu l'autorisation d'exercer, à titre auxiliaire, la profession d'infirmier ou d'infirmière ou ayant obtenu soit un brevet ou certificat conférant une autorisation de cette nature, soit un certificat du médecin chef de service attestant, d'une part, qu'au 1er janvier 1949 ils avaient ou avaient eu, au moins pendant un an, la charge effective d'un groupe de malades et, d'autre part, qu'ils sont aptes à participer aux soins à donner aux hospitalisés.
