@@ -1,0 +1,7 @@
+# Article 5
+
+Les fonctionnaires des renseignements généraux dûment habilités et dans la limite du besoin d'en connaître sont seuls autorisés à accéder aux informations mentionnées à l'article 2. Ces informations ne peuvent être communiquées aux services de police et de gendarmerie que si elles ont été collectées dans les cas prévus au 1° et au 2° de l'article 3. La communication est subordonnée à une demande écrite qui précise l'identité du consultant, l'objet et les motifs de la consultation.
+
+Cette demande ne peut être agréée que par le directeur central ou le responsable du service départemental des renseignements généraux et dans la seule mesure où elle se rattache aux finalités exposées au 1° et au 2° de l'article 3. Lorsque la communication a été autorisée, la fiche de consultation est conservée pendant un délai de deux ans, à la disposition des autorités de contrôle. Elle est détruite au terme de ce délai.
+
+Le décret relatif au fichier informatisé du terrorisme fixe les cas et les conditions dans lesquels d'autres fonctionnaires ou militaires relevant du ministère de la défense peuvent, pour l'exercice de leur mission, avoir accès aux informations de ce fichier.
