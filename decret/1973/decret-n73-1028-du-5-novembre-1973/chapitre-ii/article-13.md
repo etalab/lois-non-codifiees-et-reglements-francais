@@ -1,0 +1,3 @@
+# Article 13
+
+Les agents de l'Etat nommés dans le corps des techniciens de laboratoire sont classés dans la classe normale du grade de technicien à un échelon déterminé en prenant en compte les services accomplis dans un emploi du niveau le la catégorie B à raison des trois quarts de leur durée, et ceux accomplis dans un emploi de niveau inférieur à raison de la moitié de leur durée. Ce reclassement ne doit en aucun cas aboutir à des situations plus favorables que celles qui résulteraient d'un reclassement à un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans l'ancien emploi, avec conservation de l'ancienneté d'échelon dans les conditions définies à l'article 12-2 ci-dessus.
