@@ -1015,7 +1015,6 @@
 - [Décret n°97-623 du 31 mai 1997 (TASH9721629D)](decret-n97-623-du-31-mai-1997-tash9721629d)
 - [Décret n°97-624 du 31 mai 1997 (TASH9721631D)](decret-n97-624-du-31-mai-1997-tash9721631d)
 - [Décret n°97-625 du 31 mai 1997 (TASH9721617D)](decret-n97-625-du-31-mai-1997-tash9721617d)
-- [Décret n°97-626 du 31 mai 1997 (TASH9721618D)](decret-n97-626-du-31-mai-1997-tash9721618d)
 - [Décret n°97-627 du 31 mai 1997 (TASH9721626D)](decret-n97-627-du-31-mai-1997-tash9721626d)
 - [Décret n°97-628 du 31 mai 1997 (TASH9721638D)](decret-n97-628-du-31-mai-1997-tash9721638d)
 - [Décret n°97-629 du 31 mai 1997 (TASH9721630D)](decret-n97-629-du-31-mai-1997-tash9721630d)

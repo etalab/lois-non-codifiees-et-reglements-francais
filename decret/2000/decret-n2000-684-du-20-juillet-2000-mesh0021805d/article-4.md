@@ -4,7 +4,7 @@ Le fonds, au titre des missions mentionnées au 3 de l'article 1er :
 
 I. - Rembourse aux établissements de santé les dépenses liées à des actions de conversion, menées en application de l'article 2 (d) du décret du 5 avril 1990 susvisé, dans la limite d'une durée de trois ans ;
 
-II. - Rembourse à ces mêmes établissements les montants de l'indemnité exceptionnelle d'aide à la mobilité qu'ils ont versée aux agents concernés, en application du décret du 31 mai 1997 susvisé ainsi que ceux correspondant, le cas échéant, à la prise en charge des frais de changement de résidence mentionnés à l'article 24 du décret du 25 juin 1992 susvisé ;
+II. - Rembourse à ces mêmes établissements les montants de l'indemnité exceptionnelle d'aide à la mobilité qu'ils ont versée aux agents concernés, en application du décret du 20 avril 2001 susvisé ainsi que ceux correspondant, le cas échéant, à la prise en charge des frais de changement de résidence mentionnés à l'article 24 du décret du 25 juin 1992 susvisé ;
 
 III. - Verse aux agents concernés l'indemnité de départ volontaire prévue par le décret du 29 décembre 1998 susvisé ;
 
