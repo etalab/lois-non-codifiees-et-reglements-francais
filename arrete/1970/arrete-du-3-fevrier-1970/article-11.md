@@ -1,13 +1,15 @@
 # Article 11
 
-Le jury est nommé par arrêté du ministre de la santé publique et de la sécurité sociale. Il comprend :
+Le jury est nommé par arrêté du ministre chargé de la santé. Il comprend :
 
-1) Le directeur des hôpitaux ou son représentant, président.
+Le directeur général de la santé et des hôpitaux ou son représentant, président ;
 
-2) Un fonctionnaire désigné par le directeur général de la santé et deux fonctionnaires désignés par le directeur des hôpitaux.
+Un fonctionnaire désigné par le directeur général de la santé et des hôpitaux ;
 
-3) Un membre du personnel enseignant de l'école nationale de la santé publique.
+Un inspecteur des affaires sanitaires et sociales proposé par le directeur de l'administration générale du personnel et du budget ;
 
-4) Quatre membres du personnel de direction des établissements d'hospitalisation, de soins ou de cure publics, dont l'un appartenant à la 4e classe, désignés par tirage au sort sur des listes dressées par le ministre de la santé publique et de la sécurité sociale. Le tirage au sort est effectué par le directeur des hôpitaux, ou son représentant, en présence de représentants des organisations syndicales.
+Un membre du personnel enseignant de l'école nationale de la santé publique ;
 
-Le secrétariat est assuré à la diligence du chef du 3e bureau de la direction des hôpitaux.
+Trois membres du personnel de direction des établissements énumérés à l'article L. 792 (1e, 2e et 3e) du code de la santé publique, dont l'un appartenant à la 4e classe, désignés par tirage au sort sur une liste arrêtée par le ministre chargé de la santé. Le tirage au sort est effectué par le directeur général de la santé et des hôpitaux ou son représentant, en présence de deux membres des organisations syndicales les plus représentatives de ces personnels de direction.
+
+Le secrétariat est assuré à la diligence du chef du bureau 8C de la direction générale de la santé et des hôpitaux.
