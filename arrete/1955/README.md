@@ -3,6 +3,7 @@
 - [Arrêté du 2 novembre 1955](arrete-du-2-novembre-1955)
 - [Arrêté du 2 septembre 1955](arrete-du-2-septembre-1955)
 - [Arrêté du 4 janvier 1955](arrete-du-4-janvier-1955)
+- [Arrêté du 8 juillet 1955](arrete-du-8-juillet-1955)
 - [Arrêté du 9 novembre 1955](arrete-du-9-novembre-1955)
 - [Arrêté du 13 décembre 1955](arrete-du-13-decembre-1955)
 - [Arrêté du 15 septembre 1955](arrete-du-15-septembre-1955)
