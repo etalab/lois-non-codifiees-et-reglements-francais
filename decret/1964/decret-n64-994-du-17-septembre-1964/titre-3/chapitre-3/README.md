@@ -2,3 +2,4 @@
 
 - [PARAGRAPHE 1 : ASSURES.](paragraphe-1)
 - [PARAGRAPHE 2 : CONJOINTS D'ASSURES.](paragraphe-2)
+- [PARAGRAPHE 3 : ALLOCATION DE RETRAITE.](paragraphe-3)
