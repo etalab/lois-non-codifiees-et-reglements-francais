@@ -12,8 +12,10 @@ A bord des navires et embarcations mentionnés à l'article 1er, il est interdit
 
 - une épuisette ou " salabre ".
 
-Toutefois sont autorisés la détention et l'usage :
+Toutefois, sont autorisés la détention et l'usage :
 
-- en Méditerranée, d'une grapette à dents ;
+- en Méditerranée, d'une grappette à dents ;
 
-- en mer du Nord, Manche et Atlantique, d'un filet trémail d'une longueur maximale de cinquante mètres, sauf dans la partie des eaux salées des estuaires et des embouchures des fleuves et rivières en amont d'une limite fixée par arrêté du ministre chargé des pêches maritimes.
+- en mer du Nord, Manche ou Atlantique, d'un filet trémail d'une longueur maximale de 50 mètres, d'une hauteur maximale de 2 mètres en pêche, sauf dans la partie des eaux salées des estuaires et des embouchures des fleuves et rivières en amont d'une limite fixée par arrêté du ministre chargé des pêches maritimes ;
+
+- dans le ressort des circonscriptions des préfets des régions Bretagne, Pays de la Loire et Aquitaine, dans les conditions définies à l'article 6 du présent décret, d'un carrelet par navire et de trois balances par personne embarquée.

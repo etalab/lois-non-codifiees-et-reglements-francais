@@ -10,4 +10,6 @@ En vue d'empêcher la dégradation des ressources halieutiques lorsque celles-ci
 
 4° Interdire de façon permanente ou temporaire l'exercice de la pêche dans certaines zones ou à certaines périodes ;
 
-5° Interdire la pêche de certaines espèces ou en limiter les quantités pouvant être pêchées ou transportées.
+5° Interdire la pêche de certaines espèces ou en limiter les quantités pouvant être pêchées ou transportées ;
+
+6° Etablir des zones de protection autour des établissements de cultures marines, des structures artificielles ou des dispositifs concentrateurs de poissons.
