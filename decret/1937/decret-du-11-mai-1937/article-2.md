@@ -1,15 +1,7 @@
 # Article 2
 
-Les fonctions de maître et de maîtresse d'internat prennent fin de plein droit :
+Les contenants et emballages des produits mentionnés à l'article 1er de la loi du 2 novembre 1943 susvisée doivent porter de façon apparente, lisible et en caractères indélébiles les indications fixées par arrêté interministériel.
 
-1° Après trois ans de service effectif pour les maîtres et maîtresses d'internat qui n'ont acquis aucun nouveau titre ou grade de l'enseignement supérieur depuis leur nomination en qualité de stagiaire ;
+Elles sont rédigées en langue française.
 
-2° Après cinq ans pour les maîtres et maîtresses d'internat non pourvus d'une licence d'enseignement ou d'un certificat d'aptitude à l'enseignement secondaire ;
-
-3° Après six ans de service effectif pour tous les maîtres et maîtresses d'internat.
-
-A titre exceptionnel, sur la proposition motivée des doyens des facultés ou autres établissements d'enseignement supérieur et celle du chef d'établissement où exercent les intéressés appuyée par l'inspecteur d'académie, une prolongation unique de six mois à un an pourra être accordée, par décision rectorale, aux maîtres et maîtresses d'internat dont les fonctions expirent après la troisième année ou après la cinquième année.
-
-Sur la proposition des autorités universitaires, accompagnée d'un avis motivé favorable du conseil de l'Université, une prolongation exceptionnelle renouvelable annuellement pourra être accordée par décision rectorale à des maîtres ou maîtresses d'internat candidats au doctorat en médecine ou en droit ainsi qu'aux concours de recrutement de l'enseignement du second degré.
-
-Dès qu'ils auront obtenu une licence d'enseignement, les maîtres et maîtresses d'internat seront, dans la limite des postes disponibles, délégués dans les fonctions d'adjoints d'enseignement, puis titularisés dans le délai prévu pour cette dernière catégorie. Ils pourront, en raison de la qualité de leurs études, être autorisés par les recteurs, après avis de leurs professeurs de faculté, à demeurer maîtres ou maîtresses d'internat dans une ville de faculté ou à proximité immédiate, pour y préparer les concours de recrutement de l'enseignement du second degré. Ils continueront à percevoir le traitement des maîtres ou maîtresses d'internat, mais leurs services compteront comme services d'adjoints d'enseignement, valables pour l'ancienneté, l'avancement et la retraite.
+Un arrêté interministériel détermine les conditions dans lesquelles ces indications doivent être apposées, les mentions spécifiques, le cas échéant, ainsi que les modalités particulières d'application pour certains emballages ou contenants, et notamment les indications qui peuvent figurer sur une notice jointe lorsqu'ils sont de dimensions réduites.
