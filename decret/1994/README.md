@@ -95,6 +95,7 @@
 - [Décret n°94-352 du 4 mai 1994 (TEFT9400313D)](decret-n94-352-du-4-mai-1994-teft9400313d)
 - [Décret n°94-362 du 4 mai 1994 (INTC9400120D)](decret-n94-362-du-4-mai-1994-intc9400120d)
 - [Décret n°94-363 du 4 mai 1994 (INTC9400121D)](decret-n94-363-du-4-mai-1994-intc9400121d)
+- [Décret n°86-1247 du 5 décembre 1986](decret-n86-1247-du-5-decembre-1986)
 - [Décret n°93-289 du 5 mars 1993 (INTB9300061D)](decret-n93-289-du-5-mars-1993-intb9300061d)
 - [Décret n°94-10 du 5 janvier 1994 (DEFP9302165D)](decret-n94-10-du-5-janvier-1994-defp9302165d)
 - [Décret n°94-108 du 5 février 1994 (PRMX9300205D)](decret-n94-108-du-5-fevrier-1994-prmx9300205d)
