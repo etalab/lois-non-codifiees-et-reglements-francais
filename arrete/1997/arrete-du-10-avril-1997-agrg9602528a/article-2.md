@@ -26,6 +26,8 @@ zone continentale ou littorale, remplissant, selon le cas, les conditions de l'a
 
 11. Mise sur le marché : la détention, la mise en vente, la vente, la livraison, le transfert et le repeuplement d'animaux et de produits d'aquaculture, y compris ceux importés d'un pays tiers et ceux en provenance ou à destination d'un Etat membre de la Communauté européenne ;
 
-12. Laboratoire agréé : tout laboratoire figurant sur une liste établie par le ministre de l'agriculture, de la pêche et de l'alimentation, chargé par lui d'effectuer sous sa responsabilité, les tests de diagnostic et de confirmation de la présence des maladies figurant à l'annexe I.
+12. Laboratoire agréé : tout laboratoire figurant sur une liste établie par le ministre de l'agriculture, de la pêche et de l'alimentation, chargé par lui d'effectuer sous sa responsabilité, les tests de diagnostic et de confirmation de la présence des maladies figurant à l'annexe I ;
 
-Les qualifications définies aux points 4 et 9 ci-dessus ne préjugent pas de l'agrément des exploitations concernées par le décret n° 90-804 du 7 septembre 1990 pris pour l'application de l'article L. 232-12 du code rural et relatif à l'agrément des établissements de pisciculture ou d'aquaculture.
+13. Zone non indemne : zone ou partie de zone continentale ou littorale ne remplissant pas les conditions prévues au point 9 et excluant toute exploitation indemne.
+
+Les qualifications définies aux points 4 et 9 ci-dessus ne préjugent pas de l'agrément des exploitations concernées par le décret n° 90-804 du 7 septembre 1990 pris pour l'application de l'article L. 432-12 du code de l'environnement et relatif à l'agrément des établissements de pisciculture ou d'aquaculture.

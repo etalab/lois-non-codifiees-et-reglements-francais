@@ -10,11 +10,11 @@ Outre le président, elle comprend :
 
 - le directeur de l'Ecole nationale supérieure des officiers de sapeurs-pompiers ;
 
-- nommés par le directeur de la défense et de la sécurité civiles :
+- nommés par le directeur de la sécurité civile :
 
 - un représentant du CNFPT ;
 
-- un président de conseil d'administration d'un service départemental d'incendie et de secours ;
+- un élu membre du conseil d'administration d'un service départemental d'incendie et de secours ;
 
 - un directeur départemental des services d'incendie et de secours ;
 

@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé une maison de justice et du droit à : Aix-les-Bains (tribunal de grande instance de Chambéry), Argenteuil (tribunal de grande instance de Pontoise), Aubagne (tribunal de grande instance de Marseille), Brive (tribunal de grande instance de Brive), Charleville-Mézières (tribunal de grande instance de Charleville-Mézières), La Rochelle (tribunal de grande instance de La Rochelle), Mâcon (tribunal de grande instance de Mâcon), Méru/Vexin-Thelle-Sablons (tribunal de grande instance de Beauvais), Narbonne (tribunal de grande instance de Narbonne), Romans-sur-Isère (tribunal de grande instance de Valence), Pontault-Combault (tribunal de grande instance de Melun) et Sedan (tribunal de grande instance de Charleville-Mézières).

@@ -8,7 +8,7 @@ Outre le président, elle comprend 7 membres nommés par le préfet de zone :
 
 - un représentant du CNFPT ;
 
-- un président de conseil d'administration d'un service départemental d'incendie et de secours ;
+- un élu membre du conseil d'administration d'un service départemental d'incendie et de secours ;
 
 - un directeur départemental des services d'incendie et de secours ;
 
