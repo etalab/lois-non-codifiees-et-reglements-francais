@@ -10,8 +10,6 @@ c) De la Caisse nationale de l'énergie.
 
 Ces établissements, ainsi que les services régionaux des établissements publics nationaux, sont dénommés dans le présent statut : exploitations, à l'exception du siège social des services nationaux dénommés : service.
 
-Des décisions du ministre de l'industrie et du commerce fixeront les modalités d'application (au personnel des entreprises de production et de distribution exclues de la nationalisation) des mesures prises par les établissements nationaux, en exécution du présent statut.
-
 Les modalités d'application des mesures prises par les établissements nationaux en exécution dudit statut au personnel de la Caisse nationale de l'énergie seront fixées par des décisions du ministre de l'industrie et du commerce et du ministre des finances, des affaires économiques et du plan.
 
 Un exemplaire de ce statut sera remis à tout agent statutaire dès son admission dans le personnel susvisé.
