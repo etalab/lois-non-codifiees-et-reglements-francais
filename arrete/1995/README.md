@@ -993,7 +993,6 @@
 - [Arrêté du 21 juin 1995 (ECOT9516210A)](arrete-du-21-juin-1995-ecot9516210a)
 - [Arrêté du 21 juin 1995 (SANC9501955A)](arrete-du-21-juin-1995-sanc9501955a)
 - [Arrêté du 21 mars 1995 (AGRG9500589A)](arrete-du-21-mars-1995-agrg9500589a)
-- [Arrêté du 21 mars 1995 (BUDF9500008A)](arrete-du-21-mars-1995-budf9500008a)
 - [Arrêté du 21 mars 1995 (ECOS9570002A)](arrete-du-21-mars-1995-ecos9570002a)
 - [Arrêté du 21 mars 1995 (ECOT9516204A)](arrete-du-21-mars-1995-ecot9516204a)
 - [Arrêté du 21 mars 1995 (ECOT9516205A)](arrete-du-21-mars-1995-ecot9516205a)
