@@ -6,7 +6,7 @@ L'avancement à la classe exceptionnelle des professeurs s'effectue au choix par
 
 Peuvent seuls être promus au 2e échelon de la classe exceptionnelle les professeurs qui justifient au moins de dix-huit mois d'ancienneté dans le 1er premier échelon de cette classe.
 
-Les avancements prévus aux deuxième et troisième alinéas ci-dessus s'effectuent selon la procédure et les modalités de classement prévues aux deuxième et troisième alinéas de l'article 34 ci-dessus, sous réserve que les instances siègent en formation restreinte aux professeurs et assimilés. Il sont prononcés par arrêté du ministre chargé de l'agriculture.
+Les avancements prévus aux deuxième et troisième alinéas ci-dessus s'effectuent selon la procédure et les modalités de classement prévues à l'article 34 ci-dessus, sous réserve que les instances siègent en formation restreinte aux professeurs et assimilés. Il sont prononcés par arrêté du ministre chargé de l'agriculture.
 
 En outre, les professeurs de 1re classe ayant bénéficié, au titre de leur spécialité, d'une des distinctions scientifiques dont la liste est fixée par arrêté conjoint du ministre chargé de l'agriculture, du ministre chargé du budget et du ministre chargé de la fonction publique, peuvent être nommés hors contingent par le ministre chargé de l'agriculture à l'un des deux échelons de la classe exceptionnelle, sur proposition de la Commission nationale des enseignants-chercheurs siégeant en formation restreinte aux professeurs et assimilés dans des conditions fixées par arrêté du ministre chargé de l'agriculture.
 

@@ -2,7 +2,7 @@
 
 L'avancement de la 2e à la 1re classe des professeurs a lieu, au choix, dans la limite des emplois vacants de professeurs de 1re classe inscrits dans la loi de finances.
 
-Cet avancement s'effectue selon la procédure et les modalités de classement prévues aux deuxième et troisième alinéas de l'article 34 ci-dessus, sous réserve que les instances concernées siègent en formation restreinte aux professeurs et assimilés.
+Cet avancement s'effectue selon la procédure et les modalités de classement prévues à l'article 34 ci-dessus, sous réserve que les instances concernées siègent en formation restreinte aux professeurs et assimilés.
 
 La ou les sections de la Commission nationale des enseignants-chercheurs tiennent compte notamment, pour établir leurs propositions, de la mobilité accomplie par les professeurs.
 
