@@ -1,4 +1,4 @@
-# Arrêté du 16 juillet 1984 fixant la cotisation forfaitaire due par les bénéficiaires du régime d'assurance maladie des étudiants pour l'année universitaire 1984-1985.
+# Arrêté du 16 juillet 1984 portant création d'une commission ministérielle de l'informatique et de la bureautique auprès du ministre des affaires sociales et de la solidarité nationale.
 
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
