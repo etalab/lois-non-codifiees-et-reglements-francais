@@ -6,6 +6,8 @@ prix du transport et des prestations annexes
 
 Le prix du transport proprement dit est calculé en tenant compte du genre, du type, du nombre de véhicules roulants transportés et de la distance.
 
+Le prix du transport initialement convenu est révisé en cas de variations significatives des charges de l'entreprise de transport, qui tiennent à des conditions extérieures à cette dernière, tel notamment le prix des carburants, et dont la partie demanderesse justifie par tous moyens.
+
 Tout changement d'itinéraire demandé par le donneur d'ordre ou imposé par des circonstances auxquelles le transporteur est étranger entraîne un réajustement du prix.
 
 Les prestations supplémentaires ou accessoires sont rémunérées en sus et font l'objet d'une facturation distincte. Entrent notamment dans le cadre de ces prestations :
