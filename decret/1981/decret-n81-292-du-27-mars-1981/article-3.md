@@ -1,3 +1,0 @@
-# Article 3
-
-Les personnels de direction, d'intendance, d'administration et de service des établissements d'enseignement et de formation professionnelle agricoles qui, en dehors de heures de service qu'ils assurent à titre principal, apportent leur concours à l'exécution des conventions prévues aux articles L. 116-2 et L. 920-1 du code du travail et de toutes autres conventions susceptibles d'être conclues pour l'organisation d'activités à caractère culturel, social ou socio-éducatif compatibles avec le fonctionnement du service public perçoivent des indemnités dont le montant est déterminé dans les articles suivants.

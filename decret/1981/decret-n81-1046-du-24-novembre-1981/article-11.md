@@ -1,3 +1,0 @@
-# Article 11
-
-Les périodes d'exercice de l'activité professionnelle de directeur de laboratoire, dans les conditions définies à l'article L. 683-2 du code de la sécurité sociale, accomplies entre le 6 juillet 1977 et le 1er juillet 1981 peuvent faire l'objet d'un rachat à la charge exclusive de l'intéressé dans les conditions prévues par le règlement susmentionné, au plus tard le 31 décembre 1983. Le montant du versement de rachat d'une annuité est fixé à une fois et demie le montant total des cotisations prévues à l'article L. 683 (1° et 2°) du code de la sécurité sociale en vigueur à la date du versement, compte tenu des dispositions de l'article 9 ci-dessus.

@@ -1,3 +1,0 @@
-# Article Annexe art. 34
-
-L'exercice social couvre douze mois ; il commence le 1er janvier. Par exception, le premier exercice comprend le temps écoulé depuis la constitution de la société jusqu'au 31 décembre de l'année 19...

@@ -1,3 +1,0 @@
-# Article Annexe art. 4
-
-Le siège social de la société est fixé à ....

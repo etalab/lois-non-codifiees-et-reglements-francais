@@ -1,8 +1,0 @@
-# EXERCICE DE LA PROFESSION.
-
-- [Article 47](article-47.md)
-- [Article 51](article-51.md)
-- [COMPTABILITE ET ASSURANCES.](comptabilite-et)
-- [INTERDICTIONS ET INCOMPATIBILITES DIVERSES.](interdictions-et)
-- [OBLIGATIONS, INTERDICTIONS ET INCOMPATIBILITES DIVERSES.](obligations-interdictions-et)
-- [SUSPENSION ET INTERDICTION TEMPORAIRE D'EXERCER.](suspension-et)

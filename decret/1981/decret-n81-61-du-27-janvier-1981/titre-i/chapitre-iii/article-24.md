@@ -1,3 +1,0 @@
-# Article 24
-
-Un arrêté du ministre chargé des universités et du ministre chargé de la santé détermine les conditions dans lesquelles les candidats de nationalité étrangère peuvent être autorisés à participer à titre étranger aux opérations prévues par les articles 8 et 9, 18 et 19 du présent décret, sans que cette faculté confère aux intéressés le droit à concourir pour l'attribution de fonctions correspondantes dans un centre de soins, d'enseignement et de recherche dentaires français. Le même arrête fixe les titres qui peuvent leur être attribués ainsi que les conditions de cette attribution.

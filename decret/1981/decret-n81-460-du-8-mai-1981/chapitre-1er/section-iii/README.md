@@ -1,3 +1,0 @@
-# SECTION III - OBLIGATIONS DES FOURNISSEURS
-
-- [Article 12](article-12.md)
