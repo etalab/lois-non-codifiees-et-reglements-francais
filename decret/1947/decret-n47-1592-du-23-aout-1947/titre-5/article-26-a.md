@@ -2,7 +2,7 @@
 
 Les appareils élévateurs spécialement conçus pour le transport ou l'élévation des personnes devront répondre aux dispositions suivantes :
 
-1° La plate-forme utilisée pour le transport des travailleurs ou les travaux en élévation devra comporter soit un garde-corps de 1,10 mètre de hauteur, une lisse intermédiaire et une plinthe de 15 cm de hauteur, soit un dispositif au moins équivalent.
+1° La plate-forme utilisée pour le transport des personnes ou les travaux en élévation devra comporter soit un garde-corps de 1,10 mètre de hauteur, une lisse intermédiaire et une plinthe de 15 cm de hauteur, soit un dispositif au moins équivalent.
 
 2° La stabilité de l'appareil devra être assurée quels que soient la position ou les déplacements de la plate-forme.
 

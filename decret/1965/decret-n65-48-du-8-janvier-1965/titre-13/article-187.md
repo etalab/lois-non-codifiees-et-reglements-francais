@@ -1,8 +1,8 @@
 # Article 187
 
-Dans les chantiers fixes occupant simultanément plus de vingt travailleurs [*effectif*], les chefs d'établissement sont tenus de mettre un abri clos à la disposition du personnel lorsque la durée des travaux dépasse quinze jours [*obligation*].
+Dans les chantiers visés au premier alinéa de l'article 186, les chefs d'établissement sont tenus de mettre un local-vestiaires à la disposition des travailleurs ;
 
-Cet abri doit être convenablement aéré et éclairé, et suffisamment chauffé pendant la saison froide.
+Ce local doit être convenablement aéré et éclairé, et suffisamment chauffé pendant la saison froide.
 
 Il doit être tenu en état constant de propreté et nettoyé au moins une fois par jour [*périodicité*].
 
@@ -10,6 +10,6 @@ Il est interdit d'y entreposer des produits ou matériels dangereux ou salissant
 
 Il doit être pourvu d'un nombre suffisant de sièges.
 
-Lorsque la durée des travaux ne dépasse pas quatre mois, l'abri doit être au moins muni, à défaut d'armoires-vestiaires individuelles, de patères en nombre suffisant.
+Lorsque l'exiguïté du chantier ne permet pas d'équiper le local d'armoires-vestiaires individuelles en nombre suffisant, le local doit être équipé de patères en nombre suffisant ;
 
-Pour les chantiers souterrains, l'abri doit être installé au jour.
+Pour les chantiers souterrains, le local doit être installé au jour.

@@ -11,3 +11,5 @@ Les chefs d'établissement dont le personnel effectue des travaux exposant à de
 4° Lorsque des travaux sont effectués la nuit, des projecteurs orientables doivent être installés, afin de permettre l'éclairage de la surface de l'eau, et les mariniers doivent être munis de lampes puissantes ;
 
 5° Lorsqu'un chantier fixe occupant plus de vingt travailleurs [*effectif*] pendant plus de quinze jours est éloigné de tout poste de secours, un appareil de respiration artificielle doit se trouver en permanence sur le chantier ; toutefois, cette disposition ne fait pas obstacle à l'emploi de tout autre dispositif ou moyen d'une efficacité au moins équivalente.
+
+Lors de ces travaux, les travailleurs indépendants et les employeurs visés à l'article L. 235-18 du code du travail sont également tenus de porter des plastrons de sauvetage.

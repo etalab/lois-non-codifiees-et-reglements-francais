@@ -1,3 +1,3 @@
 # Article 222
 
-Les ouvriers occupés sur des matériaux durs à des travaux susceptibles de produire des éclats doivent avoir à leur disposition des lunettes de sûreté.
+Le port de lunettes de sûreté est obligatoire pour tous travaux sur des matériaux durs susceptibles de produire des éclats.

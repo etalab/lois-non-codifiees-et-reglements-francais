@@ -1,5 +1,5 @@
 # Article 188
 
-Dans les chantiers autres que ceux qui sont visés par l'article 187 du présent décret [*chantiers fixes, occupant plus de vingt travailleurs*], les chefs d'établissement sont tenus de rechercher, à proximité des lieux de travail, un local ou un emplacement permettant au personnel de changer de vêtements et de procéder à des soins de propreté corporelle à l'abri des intempéries.
+Dans les chantiers visés au premier alinéa de l'article 186, lorsque les installations prévues à l'article 187 ne sont pas adaptées à la nature du chantier, des véhicules de chantier spécialement aménagés à cet effet peuvent être utilisés pour permettre aux travailleurs appelés à intervenir d'assurer leur propreté individuelle, de disposer de cabinets d'aisances, de vestiaires et, si possible, de douches à l'abri des intempéries.
 
-L'installation d'un local en sous-sol ne peut être envisagée que s'il est possible de le tenir en état de propreté, de l'aérer et de l'éclairer convenablement.
+L'utilisation d'un local en sous-sol doit être exceptionnelle et n'est tolérée que s'il est possible de le tenir en état constant de propreté, de l'aérer et de l'éclairer convenablement.

@@ -10,7 +10,7 @@ c) Vérification d'absence de tension aussi près que possible du lieu de travai
 
 Si des parties actives nues sous tension subsistent au voisinage, les prescriptions de l'article 51 doivent également être appliquées.
 
-La tension ne doit être rétablie dans la partie d'installation considérée que lorsque celle-ci est remise en état, le matériel et les outils étant ramassés et tout le personnel intéressé ayant quitté la zone de travail.
+La tension ne doit être rétablie dans la partie d'installation considérée que lorsque celle-ci est remise en état, le matériel et les outils étant ramassés et toutes les personnes intéressées ayant quitté la zone de travail.
 
 II. - En outre, s'il s'agit d'une installation de domaine B.T.B., H.T.A. ou H.T.B. :
 
@@ -22,4 +22,4 @@ Cette séparation étant effectuée et avant toute autre opération, il est proc
 
 Immédiatement après la vérification de l'absence de tension, la mise à la terre et en court-circuit des conducteurs actifs du circuit concerné doit être effectuée.
 
-La tension ne doit pouvoir être rétablie qu'après que le chargé de travaux s'est assuré que tout le personnel est présent au point de rassemblement convenu à l'avance.
+La tension ne doit pouvoir être rétablie qu'après que le chargé de travaux s'est assuré que toutes les personnes sont présentes au point de rassemblement convenu à l'avance.

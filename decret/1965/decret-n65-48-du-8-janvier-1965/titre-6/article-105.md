@@ -1,11 +1,11 @@
 # Article 105
 
-Des travailleurs ne peuvent être occupés à une hauteur de plus de six mètres au-dessus du sol à des travaux de démolition que s'il existe un plancher de travail sur lequel ils peuvent opérer.
+La mise en place d'un plancher de travail est obligatoire pour les travaux de démolition effectués à une hauteur de plus de six mètres au-dessus du sol.
 
 Si ce plancher est situé en bordure du vide, il doit être clôturé par des garde-corps et des plinthes établis conformément aux dispositions des articles 115 ou 144 du présent décret.
 
-Lorsque des travailleurs sont occupés à des travaux de démolition à une hauteur qui ne dépasse pas six mètres au-dessus du sol, l'installation d'un plancher de travail n'est pas obligatoire, sous réserve de l'observation des dispositions ci-après :
+Lorsque les travaux de démolition sont effectués à une hauteur qui ne dépasse pas six mètres au-dessus du sol, l'installation d'un plancher de travail n'est pas obligatoire, sous réserve de l'observation des dispositions ci-après :
 
-1° Les travaux ne peuvent être confiés qu'à des ouvriers qualifiés ;
+1° Les travaux ne peuvent être confiés qu'à des personnes qualifiées ;
 
-2° Il est interdit aux chefs d'établissement de laisser monter des travailleurs sur des murs à déraser de moins de 35 cm d'épaisseur.
+2° Il est interdit aux chefs d'établissement de laisser monter des travailleurs, et aux travailleurs indépendants et aux employeurs visés à l'article L. 235-18 du code du travail de monter sur des murs à déraser de moins de 35 centimètres d'épaisseur.

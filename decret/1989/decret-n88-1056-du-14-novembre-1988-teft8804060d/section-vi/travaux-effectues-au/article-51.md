@@ -1,6 +1,6 @@
 # Article 51
 
-I. - Quelle que soit la nature des travaux mettant les travailleurs au voisinage d'installations sous tension, ces derniers doivent disposer d'un appui solide leur assurant une position stable.
+I. - Quelle que soit la nature des travaux mettant les intervenants au voisinage d'installations sous tension, ces derniers doivent disposer d'un appui solide leur assurant une position stable.
 
 II. - Les opérations de toute nature effectuées au voisinage de parties actives nues sous tension ne peuvent être entreprises que si l'une au moins des conditions suivantes est satisfaite :
 
@@ -8,7 +8,7 @@ a) Mise hors de portée de ces parties actives par éloignement, obstacle ou iso
 
 b) Exécution des opérations dans les conditions définies à l'article 50 relatif aux travaux sous tension ;
 
-c) Exécution des opérations par un personnel :
+c) Exécution des opérations par un personnel ou travailleur indépendant ou employeur mentionné à l'article L. 235-18 du code du travail :
 
 - averti des risques présentés par ces parties actives nues sous tension ;
 

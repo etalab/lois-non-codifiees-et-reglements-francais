@@ -1,3 +1,3 @@
 # Article 169
 
-Un casque de protection muni d'une jugulaire doit être mis à la disposition de chaque travailleur occupé à des travaux de montage, de démontage et de levage de charpentes et ossatures.
+Le port d'un casque de protection muni d'une mentonnière est obligatoire pour les travaux de montage, de démontage et de levage de charpentes et ossatures.

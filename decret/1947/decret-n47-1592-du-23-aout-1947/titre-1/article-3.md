@@ -1,6 +1,6 @@
 # Article 3
 
-Si l'appareil comporte une ou plusieurs passerelles accessibles, le risque qui, pour les travailleurs se trouvant sur ces passerelles, résulte de la présence d'obstacles fixes ou mobiles situés au-dessus d'elles, doit être absolument éliminé.
+Si l'appareil comporte une ou plusieurs passerelles accessibles, le risque qui, pour les personnes se trouvant sur ces passerelles, résulte de la présence d'obstacles fixes ou mobiles situés au-dessus d'elles, doit être absolument éliminé.
 
 En conséquence, l'une des mesures de sécurité ci-dessous doit être appliquée :
 

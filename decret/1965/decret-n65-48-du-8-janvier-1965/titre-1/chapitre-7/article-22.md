@@ -8,4 +8,6 @@ Tant qu'il n'a pas été procédé à ces examens et, éventuellement, aux répa
 
 Tout matériel, tout engin, toute installation ou tout dispositif réformé doit être définitivement retiré du service.
 
-Les examens prévus par le présent article doivent être effectués à la diligence du chef d'établissement par une personne compétente choisie par lui. Le nom et la qualité de cette personne doivent être consignés sur un registre - dit "registre de sécurité" [*mentions*] ; ce registre doit être conservé sur le chantier même ou, en cas d'impossibilité, au siège de l'établissement.
+Les chefs d'établissement et les travailleurs indépendants font réaliser ces examens par une personne compétente désignée à cet effet. Le nom et la qualité de cette personne doivent être consignés sur un registre - dit "registre de sécurité" [*mentions*] ; ce registre doit être conservé sur le chantier même ou, en cas d'impossibilité, au siège de l'établissement.
+
+Toutefois, s'agissant des travailleurs indépendants, ne sont soumis aux dispositions de l'alinéa précédent que les chantiers entrant dans la prévision de l'article L. 235-3 du code du travail, à l'exception de ceux visés au 2° de l'article L. 235-4 du même code.

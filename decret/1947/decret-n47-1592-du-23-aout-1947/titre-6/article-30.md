@@ -2,7 +2,7 @@
 
 Le graissage, le nettoyage, l'entretien et les réparations des appareils doivent être opérés à l'arrêt.
 
-Lorsque des travaux de construction, d'installation, de réparation ou d'entretien de quelque nature que ce soit sont effectués à proximité d'un appareil de levage, tout mouvement de cet appareil est interdit tant que des travailleurs se trouvent occupés dans la zone dangereuse.
+Lorsque des travaux de construction, d'installation, de réparation ou d'entretien de quelque nature que ce soit sont effectués à proximité d'un appareil de levage, tout mouvement de cet appareil est interdit tant que des personnes se trouvent occupées dans la zone dangereuse.
 
 Toutefois, lorsqu'il est absolument nécessaire de mettre l'appareil en mouvement, hors de son service, en vue d'effectuer certains travaux spéciaux, ces travaux doivent être faits sous la direction d'un surveillant qualifié.
 

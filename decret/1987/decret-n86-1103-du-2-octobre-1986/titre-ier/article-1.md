@@ -2,6 +2,8 @@
 
 I. - Les dispositions du présent décret sont applicables aux établissements soumis aux dispositions de l'article L. 231-1 du code du travail pour les parties des locaux et chantiers où le personnel est susceptible d'être exposé à l'action de rayonnements ionisants.
 
+Les dispositions des articles 2, 4, 6 (I, II, III, IV, V, VI, VII), 7 (I, II, III A), 8, 9, 15, 17 (V), 23, 24, 25, 26 et 27 du présent décret s'appliquent aux travailleurs indépendants et aux employeurs tels qu'ils sont mentionnés à l'article L. 235-18 du code du travail.
+
 Toutefois le présent décret n'est pas applicable [*champ d'application*] :
 
 1° Aux établissements où sont implantées une ou plusieurs installations nucléaires de base énumérées aux articles 2 et 17 du décret n° 63-1228 du 11 décembre 1963, modifié par décret n° 73-405 du 27 mars 1973 ;

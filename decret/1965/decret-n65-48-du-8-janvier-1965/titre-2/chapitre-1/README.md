@@ -5,3 +5,4 @@
 - [SECTION 3 : RECETTES.](section-3)
 - [SECTION 4 : MANOEUVRES.](section-4)
 - [SECTION 5 : TRANSPORT OU ELEVATION DU PERSONNEL.](section-5)
+- [Article 25](article-25.md)
