@@ -1,0 +1,3 @@
+# Article 19
+
+Lorsqu'un producteur sollicite le bénéfice de l'admission au régime d'un accord de coproduction internationale pour un film comportant des intérêts majoritaires français et lorsque l'avis préalable émis par la commission de contrôle ou son président contient  des réserves telles que l'interdiction à l'exportation du film envisagé est susceptible d'être prononcée, seule une admission provisoire au bénéfice de la coproduction peut être accordée par le directeur général du Centre national de la cinématographie. Cette admission ne pourra être retirée ou devenir définitive qu'après délivrance du visa d'exportation. L'exportation des documents de travail est interdite jusqu'à l'obtention dudit visa.

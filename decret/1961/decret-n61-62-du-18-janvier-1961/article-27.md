@@ -1,0 +1,3 @@
+# Article 27
+
+Le ministre de l'information, le ministre d'Etat, le ministre d'Etat chargé des affaires algériennes, le garde des sceaux, ministre de la justice, le ministre des affaires étrangères, le ministre de l'intérieur, le ministre des armées, le ministre des finances et des affaires économiques, le ministre de l'éducation nationale, le ministre de la santé publique et de la population et le secrétaire d'Etat aux relations avec les Etats de la Communauté sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
