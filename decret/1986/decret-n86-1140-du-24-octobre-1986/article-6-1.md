@@ -1,3 +1,3 @@
 # Article 6-1
 
-Les dispositions du présent décret sont applicables à Mayotte.
+Les dispositions du présent décret sont applicables à la Polynésie française, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et à Mayotte.
