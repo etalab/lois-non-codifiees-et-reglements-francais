@@ -1,0 +1,3 @@
+# Article 4
+
+Le temps des interventions professionnelles effectuées de manière aléatoire pendant les périodes d'astreinte donne lieu à une compensation en temps, dans les conditions fixées par l'arrêté du 26 novembre 2003 fixant le taux et les modalités d'attribution de l'indemnité forfaitaire d'astreinte, ainsi que les modalités de compensation horaire des interventions professionnelles effectuées pendant les périodes d'astreinte, à la direction générale de l'aviation civile, dans les établissements publics qui en dépendent et au bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile.

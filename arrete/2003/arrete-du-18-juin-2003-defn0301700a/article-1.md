@@ -8,9 +8,9 @@ Association française contre les myopathies ;
 
 Association des paralysés de France ;
 
-Fédération des amputés de guerre de France ;
+Association nationale spina-bifida et handicaps associés ;
 
-Fédération française des associations pour le spina-bifida et handicaps associés ;
+Fédération des amputés de guerre de France ;
 
 Fédération française handisport ;
 
