@@ -1,0 +1,3 @@
+# Article 2
+
+Les agents titulaires ou stagiaires du personnel visé à l'article 1er ci-dessus en fonctions à la date de publication du décret n° 73-317 du 6 mars 1973 ou ayant cessé leurs fonctions pour un motif autre que la démission, la révocation ou le licenciement pour insuffisance professionnelle seront reclassés dans les nouvelles échelles indiciaires à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qui leur était affecté, l'ancienneté acquise dans le précédent échelon étant maintenue en cas de reclassement à indice égal ou en cas de gain indiciaire inférieur à quinze points bruts.
