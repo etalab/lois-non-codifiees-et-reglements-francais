@@ -38,6 +38,7 @@
 - [Décret n°91-868 du 5 septembre 1991 (SANH9101413D)](decret-n91-868-du-5-septembre-1991-sanh9101413d)
 - [Décret n°91-869 du 5 septembre 1991 (SANH9101414D)](decret-n91-869-du-5-septembre-1991-sanh9101414d)
 - [Décret n°90-125 du 6 février 1990 (ECOA9000011D)](decret-n90-125-du-6-fevrier-1990-ecoa9000011d)
+- [Décret n°90-131 du 6 février 1990 (MAEJ9030002D)](decret-n90-131-du-6-fevrier-1990-maej9030002d)
 - [Décret n°91-910 du 6 septembre 1991 (ACVA9110049D)](decret-n91-910-du-6-septembre-1991-acva9110049d)
 - [Décret n°89-641 du 7 septembre 1989 (JUSC8920628D)](decret-n89-641-du-7-septembre-1989-jusc8920628d)
 - [Décret n°90-208 du 7 mars 1990 (MERG9000005D)](decret-n90-208-du-7-mars-1990-merg9000005d)
