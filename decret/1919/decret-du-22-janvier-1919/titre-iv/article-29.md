@@ -1,5 +1,3 @@
 # Article 29
 
-Si les experts sont en désaccord, ils désignent un tiers expert pour les départager. A défaut d'entente pour le choix de ce tiers expert, celui-ci est désigné par le président du tribunal civil.
-
-Le tiers expert peut être choisi en dehors des listes officielles.
+Dans les cas prévus aux articles 17 et 17 bis, la juridiction commet immédiatement les experts, dont celui qui est indiqué par l'intéressé, et prend toutes mesures pour que les experts se réunissent d'urgence. L'examen commence à la diligence de l'expert le plus prompt et les experts concluent sur les constatations ainsi faites.

@@ -1,7 +1,11 @@
 # Article 31
 
-Dans le cas prévu à l'article ci-dessus, le procureur de la République notifie à l'intéressé que l'échantillon unique va être soumis à l'expertise, et l'informe qu'il a trois jours francs pour connaître s'il entend user du droit de désigner un expert.
+En matière de contrôle bactériologique ou de pureté biologique, exception faite du cas où l'intéressé a déclaré s'en rapporter à l'expert unique désigné par le juge d'instruction, ce dernier commet deux experts à l'expertise de l'échantillon prélevé.
 
-Si ce droit est réclamé, il est procédé dans le délai fixé par le juge d'instruction, à la nomination simultanée, tant des deux experts prévus à l'article 26 que du tiers expert prévu à l'article 29.
+Le premier de ces experts est choisi parmi les directeurs de laboratoires compétents.
 
-Toutefois il est nommé qu'un seul expert si l'intéressé a déclaré avant l'expiration du délai prévu au paragraphe précédent, s'en rapporter aux conclusions de l'expert désigné par le juge.
+Le second expert, commis par le juge d'instruction, est l'expert ou son suppléant choisis par l'intéressé dans la discipline concernée sur les listes prévues à l'article 1657 du code de procédure pénale.
+
+Les deux experts procèdent en commun, dans le laboratoire auquel l'échantillon a été remis, à l'examen de cet échantillon.
+
+Le juge d'instruction prend toutes mesures pour que le prélèvement et l'expertise qui y fait suite immédiatement soient effectués par le service de la répression des fraudes et les experts à la date fixée par lui. Le défaut de l'un des experts n'empêche pas l'examen de s'accomplir, avec les effets qui s'attachent à la procédure contradictoire.

@@ -1,7 +1,13 @@
 # Article 17
 
-Lorsqu'en raison de la trop faible quantité du produit, la division en quatre échantillons est impossible, l'agent qui effectue le prélèvement place sous scellés, en un échantillon unique, la totalité du produit.
+Lorsqu'un produit est rapidement altérable, le prélèvement ne comporte qu'un seul échantillon portant sur tout ou partie du produit.
 
-Il transmet ce scellé, dans les vingt-quatre heures avec son procès-verbal et toutes pièces utiles, au procureur de la République.
+Un récépissé remis à l'intéressé dans les conditions prévues à l'article 14 mentionne la valeur de la qualité du produit rendue inutilisable.
 
-Copie du procès-verbal est adressée au préfet.
+Le produit placé sous scellés est déposé par l'agent dans un lieu propre à en assurer autant que possible la conservation. Il peut être laissé à la garde de l'intéressé.
+
+En vue de l'expertise éventuelle prévue à l'article 29, l'agent verbalisateur invite l'intéressé à choisir un expert et un suppléant sur les listes officielles, ou à s'en rapporter à un expert unique désigné par le juge d'instruction.
+
+L'agent verbalisateur consigne aussitôt dans un procès-verbal toutes les circonstances de nature à justifier l'ouverture d'une information judiciaire, ainsi que les déclarations de l'intéressé relatives à l'expertise. Ce procès-verbal est transmis sans délai au procureur de la République.
+
+Copie en est adressée au préfet.
