@@ -2,6 +2,7 @@
 
 - [Arrêté du 1 juin 1990 (DEFP9001480A)](arrete-du-1-juin-1990-defp9001480a)
 - [Arrêté du 2 janvier 1990 (INDH8901017A)](arrete-du-2-janvier-1990-indh8901017a)
+- [Arrêté du 2 janvier 1990 (PRMX8910302A)](arrete-du-2-janvier-1990-prmx8910302a)
 - [Arrêté du 2 janvier 1990 (SPSH8902788A)](arrete-du-2-janvier-1990-spsh8902788a)
 - [Arrêté du 3 février 1993 (SANH9202687A)](arrete-du-3-fevrier-1993-sanh9202687a)
 - [Arrêté du 5 septembre 1991 (SANH9101415A)](arrete-du-5-septembre-1991-sanh9101415a)
@@ -39,6 +40,7 @@
 - [Arrêté du 27 décembre 1989 (DOMP8900034A)](arrete-du-27-decembre-1989-domp8900034a)
 - [Arrêté du 27 décembre 1989 (DOMP8900035A)](arrete-du-27-decembre-1989-domp8900035a)
 - [Arrêté du 27 décembre 1989 (PTTT8901167A)](arrete-du-27-decembre-1989-pttt8901167a)
+- [Arrêté du 27 décembre 1989 (SPSP8902796A)](arrete-du-27-decembre-1989-spsp8902796a)
 - [Arrêté du 27 décembre 1989 (SPSS8902778A)](arrete-du-27-decembre-1989-spss8902778a)
 - [Arrêté du 27 décembre 1989 (SPSS8902780A)](arrete-du-27-decembre-1989-spss8902780a)
 - [Arrêté du 27 novembre 1989 (SPSS8902544A)](arrete-du-27-novembre-1989-spss8902544a)
