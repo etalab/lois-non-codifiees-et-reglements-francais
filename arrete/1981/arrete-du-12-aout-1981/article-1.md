@@ -1,3 +1,3 @@
 # Article 1
 
-L'agrément prévu à l'article 1er du décret du 23 avril 1981 susvisé relatif aux associations habilitées de jeunes sapeurs-pompiers et portant création du brevet national de cadet est accordé à la fédération nationale des sapeurs-pompiers français.
+Le présent arrêté fixe, par application des dispositions du titre II du décret du 23 avril 1981 susvisé, les conditions de préparation et d'obtention du brevet national de cadet de sapeurs-pompiers.

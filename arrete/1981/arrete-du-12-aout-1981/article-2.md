@@ -1,3 +1,7 @@
 # Article 2
 
-Les associations de jeunes sapeurs-pompiers affiliées à la fédération nationale des sapeurs-pompiers français qui acceptent de se conformer au statut type agréé par le ministre d'État, ministre de l'intérieur et de la décentralisation, peuvent être habilitées par le préfet à créer des sections départementales ou communales de cadets de sapeurs-pompiers.
+Peut ouvrir droit à l'examen d'État toute préparation qui satisfait aux conditions suivantes :
+
+Être organisée par une section de cadets constituée au sein d'une association habilitée de jeunes sapeurs-pompiers et conduits par un officier de sapeurs-pompiers ;
+
+Avoir donné lieu à l'organisation d'un stage préparatoire étalé sur une année au moins.

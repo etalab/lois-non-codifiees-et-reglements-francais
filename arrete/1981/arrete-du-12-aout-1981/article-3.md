@@ -1,3 +1,3 @@
 # Article 3
 
-Sous réserve de leur habilitation départementale prononcée par le préfet, conformément aux dispositions de l'article 1er du décret du 23 avril 1981 susvisé, les sections de cadets de sapeurs-pompiers départementales ou communales affiliées à la fédération nationale des sapeurs-pompiers français sont compétentes pour assurer la préparation au brevet national de cadet de sapeurs-pompiers.
+Le directeur des services départementaux d'incendie et de secours, sur instructions du préfet et après concertation avec les présidents d'associations habilitées, fixe, en fonction d'un calendrier prévisionnel, la date des sessions d'examen et désigne les localités où se déroulent les épreuves.

@@ -95,6 +95,7 @@
 - [Décret n°81-377 du 15 avril 1981](decret-n81-377-du-15-avril-1981)
 - [Décret n°81-378 du 15 avril 1981](decret-n81-378-du-15-avril-1981)
 - [Décret n°81-379 du 15 avril 1981](decret-n81-379-du-15-avril-1981)
+- [Décret n°81-858 du 15 septembre 1981](decret-n81-858-du-15-septembre-1981)
 - [Décret n°81-558 du 15 mai 1981](decret-n81-558-du-15-mai-1981)
 - [Décret n°81-574 du 15 mai 1981](decret-n81-574-du-15-mai-1981)
 - [Décret n°81-591 du 15 mai 1981](decret-n81-591-du-15-mai-1981)
