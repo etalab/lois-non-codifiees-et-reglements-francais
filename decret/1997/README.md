@@ -29,6 +29,7 @@
 - [Décret n°97-133 du 12 février 1997 (DEFP9701072D)](decret-n97-133-du-12-fevrier-1997-defp9701072d)
 - [Décret n°2000-513 du 13 juin 2000 (INTC0000127D)](decret-n2000-513-du-13-juin-2000-intc0000127d)
 - [Décret n°96-1092 du 13 décembre 1996 (MIPP9600415D)](decret-n96-1092-du-13-decembre-1996-mipp9600415d)
+- [Décret n°97-13 du 13 janvier 1997 (ECOT9751568D)](decret-n97-13-du-13-janvier-1997-ecot9751568d)
 - [Décret n°97-136 du 13 février 1997 (DEFX9700019D)](decret-n97-136-du-13-fevrier-1997-defx9700019d)
 - [Décret n°97-32 du 13 janvier 1997 (MENF9603691D)](decret-n97-32-du-13-janvier-1997-menf9603691d)
 - [Décret n°96-901 du 15 octobre 1996 (ECOT9694435D)](decret-n96-901-du-15-octobre-1996-ecot9694435d)

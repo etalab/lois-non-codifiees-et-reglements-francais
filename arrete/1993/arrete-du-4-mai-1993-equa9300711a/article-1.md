@@ -1,10 +1,8 @@
 # Article 1
 
-Un comité de coordination des aéroports parisiens est créé pour assister, à titre consultatif, le ou les coordonnateur(s) désigné(s) sur les aéroports parisiens coordonnés ou entièrement coordonnés. Ce comité est placé sous la présidence du chef du service des transports aériens et ouvert à la participation des services et organismes suivants :
+Un comité de coordination des aéroports parisiens est créé pour assister, à titre consultatif, le ou les coordonnateur(s) désigné(s) sur les aéroports parisiens coordonnés ou entièrement coordonnés. Ce comité est placé sous la présidence du directeur des transports aériens ou son representant et ouvert à la participation des services et organismes suivants :
 
-Service des bases aériennes ;
-
-Service de coordination économique europénne et internationale ;
+Service des bases aériennes  ;
 
 Direction de la navigation aérienne ;
 
@@ -16,12 +14,18 @@ Aéroports de Paris ;
 
 Compagnie nationale Air France ;
 
-Compagnie Air Inter ;
+Compagnie Air France Europe ;
 
-Compagnie T.A.T. European Airlines ;
+Compagnie T.A.T. European airlines ;
 
 Compagnie A.O.M. ;
 
-Chambre syndicale des transports aériens (C.S.T.A.) ;
+Compagnie Air Liberté ;
 
-Airline Representatives Council (ARC).
+Chambre syndicale des transports aériens (C.S.T.A) ;
+
+Syndicat des compagnies aériennes régionales et d'affaires (S.C.A.R.A.) ;
+
+Airline Representatives Council (A.R.C.) ;
+
+International Air Transport Association (I.A.T.A) ;
