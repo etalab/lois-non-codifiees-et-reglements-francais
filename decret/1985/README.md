@@ -5,7 +5,6 @@
 - [Décret n°85-479 du 2 mai 1985](decret-n85-479-du-2-mai-1985)
 - [Décret n°85-1292 du 3 décembre 1985](decret-n85-1292-du-3-decembre-1985)
 - [Décret n°85-397 du 3 avril 1985](decret-n85-397-du-3-avril-1985)
-- [Décret n°85-404 du 3 avril 1985](decret-n85-404-du-3-avril-1985)
 - [Décret n°84-591 du 4 juillet 1984](decret-n84-591-du-4-juillet-1984)
 - [Décret n°85-1151 du 4 novembre 1985](decret-n85-1151-du-4-novembre-1985)
 - [Décret n°85-1162 du 4 novembre 1985](decret-n85-1162-du-4-novembre-1985)
