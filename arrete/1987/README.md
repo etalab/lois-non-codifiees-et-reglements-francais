@@ -186,6 +186,7 @@
 - [Arrêté du 16 janvier 1987 (ECOT8710003A)](arrete-du-16-janvier-1987-ecot8710003a)
 - [Arrêté du 16 janvier 1987 (ECOT8720005A)](arrete-du-16-janvier-1987-ecot8720005a)
 - [Arrêté du 16 janvier 1987 (ECOT8733001A)](arrete-du-16-janvier-1987-ecot8733001a)
+- [Arrêté du 16 juin 1987 (ECOT8750036A)](arrete-du-16-juin-1987-ecot8750036a)
 - [Arrêté du 16 mars 1987 (AGRG8700681A)](arrete-du-16-mars-1987-agrg8700681a)
 - [Arrêté du 16 mars 1987 (ASEE8703230A)](arrete-du-16-mars-1987-asee8703230a)
 - [Arrêté du 17 avril 1987 (AGRG8700868A)](arrete-du-17-avril-1987-agrg8700868a)
