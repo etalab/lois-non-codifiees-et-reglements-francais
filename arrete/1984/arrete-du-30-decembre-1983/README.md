@@ -1,4 +1,4 @@
-# Arrêté du 30 décembre 1983 RELATIF A LA REVISION DES PENSIONS DES AGENTS RETRAITES DES RESEAUX SECONDAIRES D'INTERET GENERAL, DES RESEAUX DES VOIES FERREES D'INTERET LOCAL ET DES TRAMWAYS.
+# Arrêté du 30 décembre 1983 relatif aux prix et tarifs applicables aux usagers scolaires sur les services réguliers routiers de voyageurs
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

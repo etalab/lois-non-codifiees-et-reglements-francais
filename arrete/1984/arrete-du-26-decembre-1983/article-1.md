@@ -1,9 +1,17 @@
 # Article 1
 
-Les ressources du régime, telles que définies à l'article 1150 du code rural, sont affectées, dans les conditions suivantes, à la couverture des charges du régime [*financement*] :
+La participation mensuelle des différents régimes d'assurance maladie est calculée en fonction de la répartition suivante :
 
-Frais de gestion, de contrôle médical et d'action sanitaire et sociale : 6,2 p. 100 ;
+Régime général ...                             82    Régime d'assurance maladie, invalidité, maternité des exploitants agricoles ...            5    Régime des assurances sociales des salariés agricoles ...                                      3    Régime d'assurance maladie et maternité des travailleurs non-salariés des professions
 
-Fonds national de prévention : 4,3 p. 100 ;
+non-agricoles ...                                  5
 
-Charges techniques : 89,5 p. 100.
+Société nationale des chemins de fer français   2
+
+Caisse autonome nationale de la sécurité
+
+sociale dans les mines ...                         1,5
+
+Régime des militaires de carrière ...           1,5                                                  -------
+
+TOTAL :          100
