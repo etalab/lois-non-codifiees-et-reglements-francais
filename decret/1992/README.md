@@ -204,7 +204,6 @@
 - [Décret n°92-244 du 16 mars 1992 (FPPA9100075D)](decret-n92-244-du-16-mars-1992-fppa9100075d)
 - [Décret n°92-247 du 16 mars 1992 (DEFP9201116D)](decret-n92-247-du-16-mars-1992-defp9201116d)
 - [Décret n°92-249 du 16 mars 1992 (ECOX9200022D)](decret-n92-249-du-16-mars-1992-ecox9200022d)
-- [Décret n°92-394 du 16 avril 1992 (PRMX9200072D)](decret-n92-394-du-16-avril-1992-prmx9200072d)
 - [Décret n°92-395 du 16 avril 1992 (MENX9200066D)](decret-n92-395-du-16-avril-1992-menx9200066d)
 - [Décret n°92-396 du 16 avril 1992 (ENVX9200076D)](decret-n92-396-du-16-avril-1992-envx9200076d)
 - [Décret n°92-397 du 16 avril 1992 (EQUX9200063D)](decret-n92-397-du-16-avril-1992-equx9200063d)
