@@ -2,9 +2,9 @@
 
 Ne constituent pas des manipulations et pratiques frauduleuses, au sens de l'article 3 de la loi du 1er août 1905 :
 
-L'addition, en cours de fabrication ou de maturation, de sel dans des conditions précisées par arrêté interministériel, de chlorure de calcium répondant aux prescriptions de la pharmacopée française, d'aromates, d'épices, de présure, de cultures de ferments et moisissures et des matières colorantes non synthétiques autorisées par arrêté interministériel.
+L'addition en cours de fabrication ou de maturation de sel, de chlorure de calcium, de matières colorantes dans les conditions fixées par arrêté interministériel pris dans les formes prévues à l'article 1er du décret susvisé du 15 avril 1912 modifié ainsi que d'aromates, d'épices, de présure, de culture de ferments et de moisissures.
 
-La désacidification éventuelle des laits destinés à la fabrication des fromages dans les conditions qui seront fixées par arrêté du ministre de l'agriculture, après avis du conseil supérieur d'hygiène publique de France ;
+La désacidification éventuelle des laits destinés à la fabrication des fromages dans les conditions prévues qui seront fixées par arrêté du ministre de l'agriculture, après avis du conseil supérieur d'hygiène publique de France ;
 
 L'addition de bicarbonate de soude au sel servant à saupoudrer les fromages ;
 
