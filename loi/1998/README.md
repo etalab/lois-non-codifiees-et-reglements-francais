@@ -2,6 +2,10 @@
 
 - [Loi n° 52-893 du 25 juillet 1952](loi-n-52-893-du-25-juillet-1952)
 - [Loi n° 97-276 du 25 mars 1997 (JUSX9600122L)](loi-n-97-276-du-25-mars-1997-jusx9600122l)
+- [Loi n° 98-1144 du 16 décembre 1998 (MAEX9700123L)](loi-n-98-1144-du-16-decembre-1998-maex9700123l)
+- [Loi n° 98-1145 du 16 décembre 1998 (MAEX9700132L)](loi-n-98-1145-du-16-decembre-1998-maex9700132l)
+- [Loi n° 98-1146 du 16 décembre 1998 (MAEX9700152L)](loi-n-98-1146-du-16-decembre-1998-maex9700152l)
+- [Loi n° 98-1147 du 16 décembre 1998 (MAEX9800002L)](loi-n-98-1147-du-16-decembre-1998-maex9800002l)
 - [Loi n° 98-117 du 2 mars 1998 (MAEX9600068L)](loi-n-98-117-du-2-mars-1998-maex9600068l)
 - [Loi n° 98-119 du 2 mars 1998 (MAEX9600127L)](loi-n-98-119-du-2-mars-1998-maex9600127l)
 - [Loi n° 98-120 du 2 mars 1998 (MAEX9700005L)](loi-n-98-120-du-2-mars-1998-maex9700005l)

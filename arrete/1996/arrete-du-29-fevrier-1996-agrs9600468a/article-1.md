@@ -10,16 +10,18 @@ En application de l'article L. 321-1 du code de la sécurité sociale, sont pris
 
 4° Infections à Haemophilus influenzae B ;
 
-5° Oreillons ;
+5° Infections à pneumocoque ;
 
-6° Poliomyélite ;
+6° Oreillons ;
 
-7° Rage ;
+7° Poliomyélite ;
 
-8° Rougeole ;
+8° Rage ;
 
-9° Rubéole ;
+9° Rougeole ;
 
-10° Tétanos ;
+10° Rubéole ;
 
-11° Tuberculose.
+11° Tétanos ;
+
+12° Tuberculose.
