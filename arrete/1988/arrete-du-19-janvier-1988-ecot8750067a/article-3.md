@@ -1,0 +1,9 @@
+# Article 3
+
+900 371 actions de l'Etat seront réservées à la souscription des salariés, des mandataires exclusifs et des anciens salariés de la société Matra et de ses filiales, visées à l'article 11 de la loi n° 86-912 du 6 août 1986. Les titres ainsi réservés seront cédés avec un rabais sur le prix d'offre publique de vente de 5 p. 100 (soit au prix de 104,50 F par action) ou de 20 p. 100 (soit au prix de 88 F par action). Les actions acquises avec un rabais de 20 p. 100 doivent être conservées deux ans.
+
+Lorsque le rabais est de 5 p. 100, le paiement s'effectue au comptant. Lorsque le rabais est de 20 p. 100, le paiement s'effectue par versement d'un acompte de 35,20 F lors de l'acquisition et, pour le solde, par le versement de deux annuités de 35,20 F pour la première et 17,60 F pour la seconde. Dans le cas où une annuité ne serait pas versée à l'échéance, les actions correspondantes seront vendues en bourse ; l'Etat sera remboursé du montant des annuités restant à payer ainsi que du montant du rabais initialement consenti ; après prélèvement des frais de cession, le solde sera versé à l'acquéreur défaillant.
+
+Il sera attribué gratuitement aux personnes visées par le présent article une action par action acquise directement de l'Etat dans les conditions fixées ci-dessus et dans la limite du nombre entier d'actions correspondant à un montant au plus égal à la moitié du plafond mensuel des cotisations de la sécurité sociale, soit 4 975 F, dès lors que les titres acquis ont été conservés au moins un an à compter du jour où ils ont été payés intégralement et sont devenus cessibles.
+
+Le calcul du nombre d'actions gratuites dont chaque personne peut bénéficier dans la limite du plafond ci-dessus s'effectue sur la base du prix d'acquisition des titres en prenant d'abord en compte, le cas échéant, les actions acquises avec un rabais de 5 p. 100.

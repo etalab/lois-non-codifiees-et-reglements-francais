@@ -1,3 +1,7 @@
 # Article 199
 
-Lorsque le capital social a été réduit à un montant inférieur au minimum légal, l'action en dissolution de la société n'est recevable que deux mois après la mise en demeure de régulariser la situation, prévue à l'article 71, alinéa 2, de la loi sur les sociétés commerciales. Cette mise en demeure est adressée à la société par acte extrajudiciaire.
+Les actionnaires qui, sur le fondement des dispositions de l'article 244 de la loi n° 66-537 du 26 juillet 1966 sur les sociétés commerciales, entendent demander aux administrateurs la réparation du préjudice qu'ils ont subi personnellement en raison de mêmes faits peuvent donner à un ou plusieurs d'entre eux le mandat d'agir en leur nom devant les juridictions civiles, sous les conditions suivantes :
+
+1° Le mandat doit être écrit et mentionner expressément qu'il donne au ou aux mandataires le pouvoir d'accomplir au nom du mandant tous les actes de procédure ; il précise, s'il y a lieu, qu'il emporte le pouvoir d'exercer les voies de recours ;
+
+2° La demande en justice doit indiquer les nom, prénoms et adresse de chacun des mandants ainsi que le nombre des actions qu'ils détiennent. Elle précise le montant de la réparation réclamée par chacun d'eux.
