@@ -1,0 +1,3 @@
+# TITRE II : LE BUREAU DES CONCOURS D'INTERNAT.
+
+- [Article 12](article-12.md)
