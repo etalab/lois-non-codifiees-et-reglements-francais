@@ -1,3 +1,3 @@
-# Arrêté du 31 décembre 1986 fixant la rémunération des inspecteurs chargés de la surveillance des installations nucléaires de base
+# Arrêté du 31 décembre 1986 portant sur l'ordonnance relative à la liberté des prix et de la concurrence
 
 - [Article 4](article-4.md)
