@@ -1,3 +1,3 @@
 # Article 9
 
-Les dispositions du décret du 2 septembre 1983 susvisé sont applicables aux internes en médecine recrutés au titre du présent décret, à l'exclusion de l'article 4, du 4° de l'article 9, des articles 21 et 22 c et des articles 33 à 36.
+Les anciens internes ayant effectué leur internat dans les conditions prévues par le présent décret peuvent être admis à postuler un diplôme d'études spécialisées complémentaires dans les conditions définies à l'article 38 du décret du 7 avril 1988. Les dispositions de l'article 37 du même décret leur sont alors applicables.
