@@ -1,0 +1,3 @@
+# Article 13
+
+Les dispositions du présent décret pourront être ultérieurement modifiées par décret en Conseil d'Etat, à l'exception de celles figurant au premier alinéa de l'article 2-1, au premier alinéa de l'article 4-1, au premier alinéa de l'article 9, au premier alinéa de l'article 9-1, au premier alinéa de l'article 9-2, au premier alinéa de l'article 9-4, à l'article 9-5, au premier alinéa de l'article 9-7, au premier alinéa de l'article 10, au premier alinéa de l'article 10-1, au premier alinéa de l'article 12 et au premier alinéa de l'article 12-1, qui seront modifiées, le cas échéant, dans les conditions prévues à l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles.

@@ -1,0 +1,5 @@
+# Article 10-1
+
+L'autorisation de sortie temporaire d'un trésor national est délivrée ou refusée par le ministre chargé de la culture dans un délai d'un mois à compter de la réception de la demande, après vérification des garanties de retour du bien sur le territoire douanier et, si le ministre le demande, après la présentation du bien.
+
+Les dispositions des deuxième, troisième et quatrième alinéas de l'article 10 sont applicables.
