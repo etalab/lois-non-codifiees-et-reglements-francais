@@ -1,0 +1,3 @@
+# Article 1
+
+Est autorisée la mise en oeuvre dans les établissements pénitentiaires d'un système de gestion automatisée des accès des personnels pénitentiaires tels que visés à l'article D. 196 du code de procédure pénale et des intervenants professionnels ou bénévoles dans les établissements pénitentiaires : visiteurs de prison et autres bénévoles, magistrats, avocats, enseignants, personnels des personnes morales concessionnaires de main-d'oeuvre pénale, personnels des personnes morales participant à la gestion d'établissements pénitentiaires en application de la loi du 22 juin 1987 susvisée, personnels médicaux et paramédicaux, fonctionnaires de la police nationale, militaires de la gendarmerie nationale, aumôniers et personnels de fournisseurs de l'établissement.
