@@ -1,6 +1,6 @@
 # Article 31
 
-Jusqu'au 31 décembre 2004, il pourra être procédé, sur proposition du premier président de la Cour des comptes, au recrutement complémentaire de conseillers de chambre régionale des comptes par voie d'un ou plusieurs concours.
+Jusqu'au 31 décembre 2010, il pourra être procédé, sur proposition du premier président de la Cour des comptes, au recrutement complémentaire de conseillers de chambre régionale des comptes par voie d'un ou plusieurs concours.
 
 Le nombre de postes pourvus à ce titre ne pourra excéder de plus de 50 % le nombre de postes offerts chaque année au titre du recrutement statutaire.
 

@@ -14,7 +14,7 @@ Lorsque les entreprises mentionnées aux trois premiers alinéas entrent dans le
 
 Le groupement est substitué à la commune pour l'application de l'article 10 de la présente loi.
 
-Le potentiel fiscal de chaque commune et groupement doté d'une fiscalité propre est corrigé symétriquement pour tenir compte de l'application du présent II.
+Le potentiel fiscal de chaque commune et groupement doté d'une fiscalité propre est corrigé symétriquement pour tenir compte de l'application du présent II. Cette correction est toutefois supprimée pour le groupement dans le calcul du potentiel fiscal pris en compte pour déterminer la dotation d'intercommunalité reçue lors de la première année d'adoption du régime prévu à l'article 1609 nonies C du code général des impôts.
 
 Lorsque, par délibérations concordantes, des communes décident, ou ont décidé antérieurement à l'entrée en vigueur de la présente loi, de répartir entre elles tout ou partie de la taxe professionnelle perçue sur leur territoire, le potentiel fiscal des communes concernées est corrigé pour tenir compte de cette répartition.
 

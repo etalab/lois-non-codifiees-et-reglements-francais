@@ -12,6 +12,7 @@
 - [Loi n° 87-549 du 16 juillet 1987 (SERX8700099L)](loi-n-87-549-du-16-juillet-1987-serx8700099l)
 - [Loi n° 87-563 du 17 juillet 1987 (ASEX8700087L)](loi-n-87-563-du-17-juillet-1987-asex8700087l)
 - [Loi n° 87-571 du 23 juillet 1987 (ECOX8700093L)](loi-n-87-571-du-23-juillet-1987-ecox8700093l)
+- [Loi n° 87-572 du 23 juillet 1987 (ASEX8700088L)](loi-n-87-572-du-23-juillet-1987-asex8700088l)
 - [Loi n° 87-575 du 24 juillet 1987 (STFX8700075L)](loi-n-87-575-du-24-juillet-1987-stfx8700075l)
 - [Loi n° 87-588 du 30 juillet 1987 (ASEX8700089L)](loi-n-87-588-du-30-juillet-1987-asex8700089l)
 - [Loi n°87-10 du 3 janvier 1987](loi-n87-10-du-3-janvier-1987)

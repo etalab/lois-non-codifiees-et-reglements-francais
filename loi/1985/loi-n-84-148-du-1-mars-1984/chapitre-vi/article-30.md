@@ -7,3 +7,5 @@ Les établissements publics de l'Etat, qu'ils soient ou non soumis aux règles d
 Néanmoins, quand les conditions posées aux premier et deuxième alinéas ne sont pas remplies, les établissements publics de l'Etat peuvent nommer au moins un commissaire aux comptes et un suppléant. Il en va de même dans les groupements d'intérêt public dont l'Etat ou un établissement public de l'Etat est membre.
 
 2. Les commissaires aux comptes des établissements publics de l'Etat sont nommés, sur proposition des organes dirigeants, par le ministre chargé de l'économie. Lorsque l'établissement fait appel public a l'épargne, cette nomination est effectuée après avis de l'Autorité des marchés financiers dans des conditions fixées par décret.
+
+3. Chaque année, la Caisse des dépôts et consignations présente aux commissions des finances des deux assemblées ses comptes sociaux et consolidés, certifiés par deux commissaires aux comptes. La commission de surveillance de la Caisse des dépôts et consignations désigne les commissaires aux comptes ainsi que leurs suppléants sur proposition du directeur général.
