@@ -1,6 +1,6 @@
 # Article 30
 
-Le directeur des mines et le directeur des industries chimiques assistent de droit aux séances du conseil de surveillance ; chacun peut s'y faire représenter par un fonctionnaire ou agent placé immédiatement sous son autorité.
+Le directeur chargé des mines et le directeur chargé des industries chimiques assistent de droit aux séances du conseil de surveillance ; chacun peut s'y faire représenter par un fonctionnaire ou agent placé immédiatement sous son autorité.
 
 Ils reçoivent comme les autres membres de cet organe, les convocations, ordres du jour, procès-verbaux et tous autres documents qui leur sont adressés.
 

@@ -1,6 +1,6 @@
 # Article 41
 
-Le directeur des mines et le directeur des industries chimiques exercent les fonctions de commissaire du Gouvernement respectivement auprès de celle des filiales mentionnées à l'article 40 ci-dessus, située dans le secteur de leur compétence.
+Le directeur chargé des mines et le directeur chargé des industries chimiques exercent les fonctions de commissaire du Gouvernement respectivement auprès de celle des filiales mentionnées à l'article 40 ci-dessus, située dans le secteur de leur compétence.
 
 Le commissaire du Gouvernement assiste aux séances du conseil de surveillance ainsi qu'à celles de tous comités ou commissions créés dans son sein, ou s'y fait représenter par un fonctionnaire placé immédiatement sous son autorité.
 
