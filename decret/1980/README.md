@@ -65,6 +65,7 @@
 - [Décret n°80-716 du 10 septembre 1980](decret-n80-716-du-10-septembre-1980)
 - [Décret n°80-73 du 10 janvier 1980](decret-n80-73-du-10-janvier-1980)
 - [Décret n°81-238 du 10 mars 1981](decret-n81-238-du-10-mars-1981)
+- [Décret n°80-1008 du 11 décembre 1980](decret-n80-1008-du-11-decembre-1980)
 - [Décret n°80-198 du 11 mars 1980](decret-n80-198-du-11-mars-1980)
 - [Décret n°80-204 du 11 mars 1980](decret-n80-204-du-11-mars-1980)
 - [Décret n°80-213 du 11 mars 1980](decret-n80-213-du-11-mars-1980)
