@@ -397,6 +397,7 @@
 - [Arrêté du 23 juillet 1987 (ASEP8701094A)](arrete-du-23-juillet-1987-asep8701094a)
 - [Arrêté du 23 juillet 1987 (EQUC8700627A)](arrete-du-23-juillet-1987-equc8700627a)
 - [Arrêté du 23 juillet 1987 (EQUC8700628A)](arrete-du-23-juillet-1987-equc8700628a)
+- [Arrêté du 23 juillet 1987 (INDL8700441A)](arrete-du-23-juillet-1987-indl8700441a)
 - [Arrêté du 23 juillet 1987 (MEND8700471A)](arrete-du-23-juillet-1987-mend8700471a)
 - [Arrêté du 23 juillet 1987 (MERG8700109A)](arrete-du-23-juillet-1987-merg8700109a)
 - [Arrêté du 23 juin 1987 (PRMG8700031A)](arrete-du-23-juin-1987-prmg8700031a)
