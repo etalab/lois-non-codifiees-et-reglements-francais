@@ -14,4 +14,6 @@ e) Département Sciences chimiques ;
 
 f) Département Sciences de la vie ;
 
-g) Département Sciences de l'homme et de la société.
+g) Département Sciences de l'homme et de la société ;
+
+h) Département sciences et technologies de l'information et de la communication.

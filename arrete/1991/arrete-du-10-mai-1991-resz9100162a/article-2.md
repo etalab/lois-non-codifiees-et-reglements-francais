@@ -113,3 +113,35 @@ Section 38 : Unité de l'homme et diversité des cultures ;
 Section 39 : Espaces, territoires et sociétés ;
 
 Section 40 : Politique. - Pouvoir. - Organisation.
+
+h) Département sciences et technologies de l'information et de la communication :
+
+Section 1. - Mathématiques et outils de modélisation.
+
+Section 3. - Des particules aux noyaux.
+
+Section 4. - Atomes et molécules. - Optique et lasers. - Plasmas chauds.
+
+Section 6. - Matière condensée : structures et propriétés électroniques.
+
+Section 7. - Sciences et technologies de l'information (informatique, automatique, traitement du signal).
+
+Section 8. - Electronique, semi-conducteurs. - Photonique. - Génie électrique.
+
+Section 9. - Mécanique. - Génie des matériaux. - Acoustique.
+
+Section 10. - Energie. - Mécanique des milieux fluides et réactifs. - Génie des procédés.
+
+Section 22. - Thérapeutique et médicaments : concepts et moyens.
+
+Section 23. - Génomes. - Structures, fonctions et régulations.
+
+Section 29. - Fonctions mentales. - Neurosciences intégratives. - Comportements.
+
+Section 30. - Diversité biologique. - Population. - Ecosystèmes et évolution.
+
+Section 34. - Représentations. - Langages. - Communication.
+
+Section 39. - Espaces, territoires et sociétés.
+
+Section 40. - Politique. - Pouvoir. - Organisation.
