@@ -1,6 +1,6 @@
 # Article 6
 
-Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er avril 1990:
+Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er décembre 1990:
 
 <table>
 <tr>
@@ -16,7 +16,7 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <td> : soumis à retenue pour pension  :</td>
 </tr>
 <tr>
-<td> : à compter du 1er avril   1990  :</td>
+<td> : à compter du 1er décembre 1990 :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
@@ -37,28 +37,28 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <td> :--------:-----------------------:</td>
 </tr>
 <tr>
-<td> :  A     :       250 597         :</td>
+<td> :  A     :       253 803         :</td>
 </tr>
 <tr>
-<td> :  B     :       274 055         :</td>
+<td> :  B     :       277 561         :</td>
 </tr>
 <tr>
-<td> :  B bis :       301 232         :</td>
+<td> :  B bis :       305 086         :</td>
 </tr>
 <tr>
-<td> :  C     :       317 538         :</td>
+<td> :  C     :       321 600         :</td>
 </tr>
 <tr>
-<td> :  D     :       331 555         :</td>
+<td> :  D     :       335 797         :</td>
 </tr>
 <tr>
-<td> :  E     :       361 879         :</td>
+<td> :  E     :       366 508         :</td>
 </tr>
 <tr>
-<td> :  F     :       390 199         :</td>
+<td> :  F     :       395 192         :</td>
 </tr>
 <tr>
-<td> :  G     :       427 961         :</td>
+<td> :  G     :       433 436         :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
@@ -76,7 +76,7 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <td> : soumis à retenue pour pension  :</td>
 </tr>
 <tr>
-<td> : à compter du 1er avril   1990  :</td>
+<td> : à compter du 1er décembre 1990 :</td>
 </tr>
 <tr>
 <td> :--------:-----------------------:</td>
@@ -97,22 +97,22 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <td> :--------------------------------:</td>
 </tr>
 <tr>
-<td> :  A     :       260 610         :</td>
+<td> :  A     :       263 944         :</td>
 </tr>
 <tr>
-<td> :  B     :       285 784         :</td>
+<td> :  B     :       289 440         :</td>
 </tr>
 <tr>
-<td> :  B bis :       309 242         :</td>
+<td> :  B bis :       313 198         :</td>
 </tr>
 <tr>
-<td> :  C     :       324 403         :</td>
+<td> :  C     :       328 554         :</td>
 </tr>
 <tr>
-<td> :  D     :       346 717         :</td>
+<td> :  D     :       351 153         :</td>
 </tr>
 <tr>
-<td> :  E     :       376 182         :</td>
+<td> :  E     :       380 995         :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
@@ -133,7 +133,7 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <td> : soumis à retenue pour pension  :</td>
 </tr>
 <tr>
-<td> : à compter du 1er avril   1990  :</td>
+<td> : à compter du 1er décembre 1990 :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
@@ -154,19 +154,19 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <td> :--------------------------------:</td>
 </tr>
 <tr>
-<td> :  A     :       274 055         :</td>
+<td> :  A     :       277 561         :</td>
 </tr>
 <tr>
-<td> :  B     :       301 232         :</td>
+<td> :  B     :       305 086         :</td>
 </tr>
 <tr>
-<td> :  B bis :       317 538         :</td>
+<td> :  B bis :       321 600         :</td>
 </tr>
 <tr>
-<td> :  C     :       331 555         :</td>
+<td> :  C     :       335 797         :</td>
 </tr>
 <tr>
-<td> :  D     :       361 879         :</td>
+<td> :  D     :       366 508         :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
