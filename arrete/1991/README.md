@@ -123,7 +123,6 @@
 - [Arrêté du 4 janvier 1991 (EQUL9001688A)](arrete-du-4-janvier-1991-equl9001688a)
 - [Arrêté du 4 janvier 1991 (TEFO9103044A)](arrete-du-4-janvier-1991-tefo9103044a)
 - [Arrêté du 4 juillet 1991 (MENF9101120A)](arrete-du-4-juillet-1991-menf9101120a)
-- [Arrêté du 4 juillet 1991 (SPSG9101565A)](arrete-du-4-juillet-1991-spsg9101565a)
 - [Arrêté du 4 juillet 1991 (TEFF9103752A)](arrete-du-4-juillet-1991-teff9103752a)
 - [Arrêté du 4 juin 1991 (MENE9100793A)](arrete-du-4-juin-1991-mene9100793a)
 - [Arrêté du 4 mars 1985](arrete-du-4-mars-1985)
