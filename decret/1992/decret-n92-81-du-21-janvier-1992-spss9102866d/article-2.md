@@ -1,0 +1,5 @@
+# Article 2
+
+La Caisse nationale des barreaux français assure, au profit des anciens conseils juridiques titulaires au 31 décembre 1991 d'avantages de retraite de base et complémentaire auprès de la caisse interprofessionnelle de prévoyance et d'assurance vieillesse, le service de ces avantages à compter du 1er janvier 1992. Leur montant est égal à celui qui serait servi à cette date par la caisse interprofessionnelle de prévoyance et d'assurance vieillesse, assorti, le cas échéant, de la majoration prévue à l'article L. 643-7 du code de la sécurité sociale ou de l'allocation du conjoint coexistant, initialement prévue par l'article 8 du décret n° 49-456 du 30 mars 1949.
+
+Ces avantages de retraite sont réversibles dans les conditions d'ouverture de droit et de service ainsi qu'aux taux définis pour les pensions de réversion de la Caisse nationale des barreaux français sans préjudice des dispositions de l'article 17, dernier alinéa, des statuts du régime de retraite complémentaire de la caisse interprofessionnelle de prévoyance et d'assurance vieillesse.

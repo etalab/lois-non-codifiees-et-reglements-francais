@@ -81,6 +81,7 @@
 - [Décret n°92-159 du 21 février 1992 (DEFP9201090D)](decret-n92-159-du-21-fevrier-1992-defp9201090d)
 - [Décret n°92-75 du 21 janvier 1992 (SANH9102643D)](decret-n92-75-du-21-janvier-1992-sanh9102643d)
 - [Décret n°92-76 du 21 janvier 1992 (SANP9102865D)](decret-n92-76-du-21-janvier-1992-sanp9102865d)
+- [Décret n°92-81 du 21 janvier 1992 (SPSS9102866D)](decret-n92-81-du-21-janvier-1992-spss9102866d)
 - [Décret n°92-260 du 23 mars 1992 (MCCB9200084D)](decret-n92-260-du-23-mars-1992-mccb9200084d)
 - [Décret n°92-261 du 23 mars 1992 (MCCB9200083D)](decret-n92-261-du-23-mars-1992-mccb9200083d)
 - [Décret n°93-473 du 23 mars 1993 (AGRA9300280D)](decret-n93-473-du-23-mars-1993-agra9300280d)

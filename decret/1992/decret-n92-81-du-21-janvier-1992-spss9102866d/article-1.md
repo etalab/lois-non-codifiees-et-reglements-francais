@@ -1,0 +1,3 @@
+# Article 1
+
+Les obligations de la caisse interprofessionnelle de prévoyance et d'assurance vieillesse à l'égard des conseils juridiques relevant de cette caisse au 31 décembre 1991, des anciens conseils juridiques en ayant relevé antérieurement à cette date, des allocataires de ces régimes ainsi que de leurs ayants droit en ce qui concerne les régimes d'assurance vieillesse prévus aux articles L. 643-1 et L. 644-1 du code de la sécurité sociale et le régime d'assurance invalidité-décès prévu à l'article L. 644-2 dudit code sont à compter du 1er janvier 1992 prises en charge par la Caisse nationale des barreaux français.
