@@ -193,7 +193,6 @@
 - [Arrêté du 9 novembre 1988 (RESY8800905A)](arrete-du-9-novembre-1988-resy8800905a)
 - [Arrêté du 9 mai 1988 (COMA8800014A)](arrete-du-9-mai-1988-coma8800014a)
 - [Arrêté du 9 mai 1988 (COMA8800015A)](arrete-du-9-mai-1988-coma8800015a)
-- [Arrêté du 9 mai 1988 (INDB8800230A)](arrete-du-9-mai-1988-indb8800230a)
 - [Arrêté du 9 mai 1988 (MERX8810367A)](arrete-du-9-mai-1988-merx8810367a)
 - [Arrêté du 10 août 1988 (AGRS8801442A)](arrete-du-10-aout-1988-agrs8801442a)
 - [Arrêté du 10 août 1988 (AGRS8801443A)](arrete-du-10-aout-1988-agrs8801443a)
