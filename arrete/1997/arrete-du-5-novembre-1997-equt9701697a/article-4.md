@@ -18,7 +18,7 @@ La commission comprend, outre son président et son président délégué :
 
 - deux représentants des constructeurs de remontées mécaniques désignés par l'Association des constructeurs français de transport à câble ;
 
-- un représentant des maîtres d'oeuvre de remontées mécaniques désigné par la chambre des ingénieurs-conseils de France ;
+- un représentant des maîtres d'oeuvre de remontées mécaniques désigné par le groupement professionnel des maîtres d'oeuvre en téléphériques ;
 
 - un représentant des bureaux de contrôle technique désigné par le comité de prévention et de contrôle (COPREC) ;
 
