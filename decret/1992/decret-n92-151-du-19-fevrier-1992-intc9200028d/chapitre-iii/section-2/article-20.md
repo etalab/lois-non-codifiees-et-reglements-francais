@@ -1,7 +1,0 @@
-# Article 20
-
-Les agents non titulaires de l'Etat, nommés dans le corps des techniciens des laboratoires de la police technique et scientifique, sont classés conformément aux modalités prévues au II de l'article 5 et à l'article 6 du décret du 20 septembre 1973 susvisé.
-
-Dans tous les cas, les services pris en compte doivent avoir été accomplis de façon continue. Toutefois, sont retenus les services accomplis avant une interruption de fonctions inférieure à trois mois si cette interruption est du fait de l'agent ou inférieure à un an dans le cas contraire. En outre, ne sont pas considérés comme interruptifs de la continuité des services, d'une part, l'accomplissement des obligations du service national et, d'autre part, les congés sans traitement obtenus en vertu des articles 16, 17, 19, 20, 22, 24 du décret n° 86-83 du 17 janvier 1986 relatif aux dispositions générales applicables aux agents non titulaires de l'Etat pris pour application de l'article 7 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, ou obtenus pour motifs analogues en application des dispositions réglementaires régissant l'emploi occupé.
-
-Les dispositions qui précèdent ne peuvent avoir pour conséquence de placer les intéressés dans une situation plus favorable que celle qui résulterait d'un classement à un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans l'ancien emploi avec conservation de l'ancienneté d'échelon dans les conditions définies à l'article 19 ci-dessus.

@@ -2,7 +2,6 @@
 
 - [CHAPITRE Ier : Dispositions générales.](chapitre-ier)
 - [CHAPITRE II : Corps des ingénieurs des laboratoires de la police technique et scientifique](chapitre-ii)
-- [CHAPITRE III : Corps des techniciens des laboratoires de la police technique et scientifique](chapitre-iii)
 - [CHAPITRE IV : Corps des aides techniques des laboratoires de la police technique et scientifique](chapitre-iv)
 - [CHAPITRE V : Dispositions diverses.](chapitre-v)
 - [CHAPITRE VI : Dispositions transitoires.](chapitre-vi)

@@ -469,7 +469,6 @@
 - [Arrêté du 15 février 1993 (SPSG9300320A)](arrete-du-15-fevrier-1993-spsg9300320a)
 - [Arrêté du 15 février 1993 (SPSS9300490A)](arrete-du-15-fevrier-1993-spss9300490a)
 - [Arrêté du 15 janvier 1993 (AGRG9300129A)](arrete-du-15-janvier-1993-agrg9300129a)
-- [Arrêté du 15 janvier 1993 (EQUS9201518A)](arrete-du-15-janvier-1993-equs9201518a)
 - [Arrêté du 15 juillet 1993 (ECOS9350019A)](arrete-du-15-juillet-1993-ecos9350019a)
 - [Arrêté du 15 juillet 1993 (ECOS9350020A)](arrete-du-15-juillet-1993-ecos9350020a)
 - [Arrêté du 15 juillet 1993 (INDP9320351A)](arrete-du-15-juillet-1993-indp9320351a)

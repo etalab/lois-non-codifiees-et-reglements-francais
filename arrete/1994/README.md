@@ -58,7 +58,6 @@
 - [Arrêté du 3 mai 1994 (JUSE9440090A)](arrete-du-3-mai-1994-juse9440090a)
 - [Arrêté du 3 mai 1994 (JUSE9440091A)](arrete-du-3-mai-1994-juse9440091a)
 - [Arrêté du 4 août 1994 (SPSH9402549A)](arrete-du-4-aout-1994-spsh9402549a)
-- [Arrêté du 4 août 1994 (SPSH9402550A)](arrete-du-4-aout-1994-spsh9402550a)
 - [Arrêté du 4 février 1994 (BUDR9405007A)](arrete-du-4-fevrier-1994-budr9405007a)
 - [Arrêté du 4 février 1994 (BUDR9405008A)](arrete-du-4-fevrier-1994-budr9405008a)
 - [Arrêté du 4 février 1994 (ECOT9413741A)](arrete-du-4-fevrier-1994-ecot9413741a)
