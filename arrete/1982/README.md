@@ -6,7 +6,6 @@
 - [Arrêté du 2 août 1982](arrete-du-2-aout-1982)
 - [Arrêté du 2 avril 1982](arrete-du-2-avril-1982)
 - [Arrêté du 2 juillet 1982](arrete-du-2-juillet-1982)
-- [Arrêté du 2 novembre 1982](arrete-du-2-novembre-1982)
 - [Arrêté du 3 décembre 1982](arrete-du-3-decembre-1982)
 - [Arrêté du 3 février 1975](arrete-du-3-fevrier-1975)
 - [Arrêté du 3 février 1982](arrete-du-3-fevrier-1982)
