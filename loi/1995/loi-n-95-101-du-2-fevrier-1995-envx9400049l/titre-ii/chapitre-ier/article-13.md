@@ -1,6 +1,6 @@
 # Article 13
 
-Il est créé un fonds de prévention des risques naturels majeurs chargé de financer, dans la limite de ses ressources, les indemnités allouées en vertu des dispositions de l'article 11 ainsi que les dépenses liées à la limitation de l'accès et à la démolition éventuelle des biens exposés afin d'en empêcher toute occupation future.
+Il est créé un fonds de prévention des risques naturels majeurs chargé de financer, dans la limite de ses ressources, les indemnités allouées en vertu des dispositions de l'article 11 ainsi que les dépenses liées à la limitation de l'accès et à la démolition éventuelle des biens exposés afin d'en empêcher toute occupation future. En outre, il finance, dans les mêmes limites, les dépenses de prévention liées aux évacuations temporaires et au relogement des personnes exposées.
 
 Ce fonds est alimenté par un prélèvement sur le produit des primes ou cotisations additionnelles relatives à la garantie contre le risque de catastrophes naturelles, prévues à l'article L. 125-2 du code des assurances. Ce prélèvement s'applique sur le produit des primes ou cotisations additionnelles émises à compter d'un délai de six semaines après la publication de la présente loi. Il est versé par les entreprises d'assurances ou leur représentant fiscal visé à l'article 1004 bis du code général des impôts.
 
