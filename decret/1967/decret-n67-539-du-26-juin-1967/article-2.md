@@ -17,3 +17,5 @@ Des arrêtés du ministre chargé de la santé fixent notamment :
 6. La nature des épreuves sanctionnant les études ;
 
 7. Les conditions d'attribution, par équivalence, du diplôme d'Etat de laborantin d'analyses médicales à des personnes munies d'un titre délivré à l'issue d'un enseignement organisé avant la publication du présent décret.
+
+Les directeurs et les médecins ou pharmaciens conseillers scientifiques des écoles dispensant cet enseignement sont nommés après agrément du préfet de région, qui consulte la commission des techniciens de laboratoire du Conseil supérieur des professions paramédicales.

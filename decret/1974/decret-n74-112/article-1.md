@@ -2,4 +2,4 @@
 
 Il est créé un diplôme d'Etat de psycho-rééducateur.
 
-Ce diplôme est délivré par le ministre de la santé publique et de la sécurité sociale aux personnes qui, après avoir été autorisées à suivre une formation agréée, ont, à l'issue de cet enseignement subi avec succès les épreuves d'un examen.
+Ce diplôme est délivré par le préfet de région aux personnes qui, après avoir été autorisées à suivre une formation agréée par la même autorité, ont, à l'issue de cet enseignement subi avec succès les épreuves d'un examen.
