@@ -11,6 +11,7 @@
 - [Arrêté du 8 janvier 1975](arrete-du-8-janvier-1975)
 - [Arrêté du 10 juillet 1975](arrete-du-10-juillet-1975)
 - [Arrêté du 11 avril 1975](arrete-du-11-avril-1975)
+- [Arrêté du 13 janvier 1975](arrete-du-13-janvier-1975)
 - [Arrêté du 13 mai 1975](arrete-du-13-mai-1975)
 - [Arrêté du 14 janvier 1975](arrete-du-14-janvier-1975)
 - [Arrêté du 14 octobre 1975](arrete-du-14-octobre-1975)
