@@ -1,6 +1,6 @@
 # Article ANNEXE II
 
-Aérodromes
+Aérodromes :
 
 Ajaccio-Campo Dell'Oro.
 
@@ -23,3 +23,7 @@ Centre de contrôle régional d'outre-mer
 Tahiti-Faa.
 
 Perpignan-Rivesaltes.
+
+Rennes - Saint-Jacques, à compter du 1er janvier 1995 ;
+
+Deauville - Saint-Gatien, à compter du 1er janvier 1996.

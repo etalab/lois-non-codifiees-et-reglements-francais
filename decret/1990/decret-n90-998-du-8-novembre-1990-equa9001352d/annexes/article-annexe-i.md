@@ -1,6 +1,6 @@
 # Article ANNEXE I
 
-Aérodromes
+Aérodromes :
 
 Bâle-Mulhouse.
 
@@ -25,3 +25,7 @@ Toulouse-Blagnac.
 Montpellier-Frejorgues.
 
 Fort -de-France - Le Lamentin.
+
+Lille-Lesquin, à compter du 1er janvier 1997.
+
+Strasbourg-Entzheim, à compter du 1er janvier 1997.

@@ -1,9 +1,5 @@
 # Article 30
 
-A titre transitoire et jusqu'au 31 décembre 1991, peuvent être nommés ingénieurs principaux du contrôle de la navigation aérienne les ingénieurs de classe normale qui possèdent depuis un an au moins la qualification d'encadrement, d'études ou de superviseur-système.
-
-Jusqu'en 1994, les ingénieurs principaux de contrôle de la navigation aérienne qui, à la date d'intervention du présent décret, exercent les fonctions de commandant d'aérodrome, d'adjoint au commandant d'aérodrome ou d'instructeur régional peuvent être inscrits au tableau d'avancement en vue de leur nomination au grade d'ingénieur divisionnaire, s'ils comptent cinq ans au moins d'exercice de ces fonctions.
-
 Pour les ingénieurs principaux du contrôle de la navigation aérienne qui, à la date d'intervention du présent décret, exercent ou ont exercé les fonctions d'instructeur de la circulation aérienne à l'Ecole nationale de l'aviation civile, d'instructeur technique au service de la formation aéronautique et du contrôle technique, de régulateur à la cellule d'organisation et de régulation du trafic aérien ou de coordonnateur dans un détachement civil de coordination et qui ont exercé précédemment les fonctions de premier contrôleur, dans un centre régional de la navigation aérienne ou un aérodrome figurant en annexe I au présent décret, la durée des services effectifs accomplis dans les fonctions d'instructeur, de coordonnateur ou de régulateur est prise en compte dans la durée des services requis pour figurer au tableau d'avancement en vue de la nomination au grade d'ingénieur divisionnaire, en application du a de l'article 22 ci-dessus dans la limite de cinq ans.
 
 Les ingénieurs du contrôle de la navigation aérienne qui avaient obtenu en qualité d'officier contrôleur de la circulation aérienne une qualification permettant l'accès à la 1re classe de ce corps après le 11 novembre 1989 peuvent obtenir une bonification d'un échelon, en conservant leur ancienneté.

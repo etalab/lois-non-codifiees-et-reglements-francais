@@ -26,7 +26,7 @@ Le stage complémentaire prévu à l'alinéa précédent est sanctionné dans le
 
 III. - Les techniciens des études et de l'exploitation de l'aviation civile issus de la sélection professionnelle prévue à l'article 12 ci-dessus sont nommés ingénieurs stagiaires du contrôle de la navigation aérienne par arrêté du ministre chargé de l'aviation civile.
 
-Ils effectuent un stage en partie à l'Ecole nationale de l'aviation civile et en partie dans un centre de contrôle figurant en annexe III au présent décret, selon des modalités précisées par arrêté du ministre chargé de l'aviation civile.
+Ils effectuent un stage en partie à l'Ecole nationale de l'aviation civile et en partie dans un organisme figurant sur les listes n°s 3 et 4 établies par l'arrêté de classement pris en application de l'article 3 du présent décret, selon des modalités précisées par arrêté du ministre chargé de l'aviation civile.
 
 La durée maximale de ce stage est de dix-huit mois.
 
