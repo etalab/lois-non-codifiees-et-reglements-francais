@@ -1,6 +1,7 @@
 # Décret n°82-265 du 25 mars 1982 RELATIF A L'APPLICATION DU CHAPITRE 1ER DE L'ORDONNANCE N° 82-108 DU 30 JANVIER 1982 RELATIVE AUX CONTRATS DE SOLIDARITE DES COLLECTIVITES LOCALES.
 
 - [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)

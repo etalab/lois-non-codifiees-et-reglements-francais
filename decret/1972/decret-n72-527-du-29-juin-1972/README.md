@@ -1,4 +1,5 @@
 # Décret n°72-527 du 29 juin 1972 RELATIF AU MODE DE CALCUL DE L'ALLOCATION DE LOGEMENT INSTITUEE PAR LA LOI N° 71-582 DU 16 JUILLET 1971.
 
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
