@@ -1,5 +1,5 @@
 # Article 9
 
-Le programme et les conditions d'organisation des concours sont fixés par arrêté du ministre chargé du budget et du ministre chargé de la fonction publique et doivent être publiés au Journal officiel six mois au moins avant la date des épreuves.
+Les règles d'organisation générale, la nature et le programme des épreuves des concours mentionnés à l'article 8 sont fixés par arrêté conjoint du ministre chargé du budget et du ministre chargé de la fonction publique. Le ministre chargé du budget arrête les modalités d'organisation du concours et nomme les membres du jury.
 
-L'avis annonçant chaque concours est inséré au Journal officiel deux mois au moins avant cette date. Il indique la répartition des emplois mis aux concours entre les candidats au titre de chacun des paragraphes A et B de l'article 8.
+L'avis annonçant chaque concours indique la répartition des emplois mis aux concours mentionnés à l'article 8.
