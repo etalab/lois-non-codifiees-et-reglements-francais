@@ -1,5 +1,5 @@
 # Article 1
 
-La dérogation prévue à l'article 1er du décret du 27 octobre 1967 susvisé est rendue applicable, du 1er octobre au 31 décembre 1986  :
+Les cotisations de sécurité sociale dues pour les salariés exerçant une activité à temps choisi de vente et de services par réunions organisées à domicile, à l'exclusion des personnes assurant la vente par diffusion en porte à porte et des salariés visés aux articles L. 751-1 et L. 751-2 du code du travail, sont calculées sur la base d'une somme égale à 20 p. 100 du montant journalier du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale, par réunion de vente.
 
-- aux ouvriers de l'établissement de Trélazé, appartenant à la société Ardoisières d'Angers, qui justifient d'au moins trente ans de services miniers ; - aux employés, techniciens et agents de maîtrise de la société Ardoisières d'Angers (toutes exploitations) qui justifient d'au moins trente ans de services miniers et sont nés avant le 1er janvier 1933.
+Le plafond pris en compte est celui en vigueur à la date du paiement de la rémunération.
