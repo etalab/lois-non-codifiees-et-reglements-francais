@@ -38,6 +38,12 @@
 </td>
 </tr>
 <tr>
+<td> Centre de formation à la gestion des ressources humaines</td>
+<td>
+<p align="center"> I</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="454">
 <p>Ecole nationale supérieure des ingénieurs des constructions aéronautiques</p>
 </td>
