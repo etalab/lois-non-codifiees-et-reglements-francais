@@ -1,4 +1,4 @@
-# Arrêté du 12 juillet 1985 fixant la répartition du produit des cotisations prévues à l'article 1062 du code rural pour les exercices 1983, 1984 et 1985.
+# Arrêté du 12 juillet 1985 fixant le domaine de compétence, la composition et l'organisation de la formation spécialisée Services centraux de la commission ministérielle de l'informatique et de la bureautique.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

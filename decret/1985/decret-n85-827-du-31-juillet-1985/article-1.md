@@ -1,0 +1,5 @@
+# Article 1
+
+Le président d'université, ou d'institut national polytechnique, et le directeur d'école ou d'institut extérieurs aux universités sont responsables de l'ordre et de la sécurité dans les enceintes et locaux affectés à titre principal à l'établissement dont ils ont la charge. Leur responsabilité s'étend aux locaux mis à la disposition des usagers en application de l'article 50 de la loi n° 84-52 du 26 janvier 1984 sur l'enseignement supérieur et à ceux qui sont mis à la disposition des personnels, conformément à l'article 3 du décret n° 82-447 du 28 mai 1982 relatif à l'exercice du droit syndical dans la fonction publique. Elle s'exerce à l'égard de tous les services et organismes publics ou privés installés dans les enceintes et locaux précités.
+
+Les dispositions du présent décret ne font pas obstacle à l'application de l'article 11 du décret n° 63-592 du 24 juin 1963 relatif aux conventions à conclure en vue de déterminer les modalités de fonctionnement des centres hospitaliers et universitaires.
