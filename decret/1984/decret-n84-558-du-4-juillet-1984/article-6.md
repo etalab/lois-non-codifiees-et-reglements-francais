@@ -2,14 +2,14 @@
 
 Les vingt-cinq représentants des exploitants agricoles sont désignés ainsi qu'il suit :
 
-Huit représentants désignés par l'assemblée permanente des chambres d'agriculture ;
+- huit représentants désignés par l'Assemblée permanente des chambres d'agriculture ;
 
-Douze représentants désignés par la fédération nationale des syndicats d'exploitants agricoles ;
+- onze représentants désignés par la Fédération nationale des syndicats d'exploitants agricoles ;
 
-Deux représentants désignés par le centre national des jeunes agriculteurs ;
+- deux représentants désignés par Jeunes agriculteurs ;
 
-Un représentant désigné par la confédération paysanne ;
+- deux représentants désignés par la Confédération paysanne ;
 
-Un représentant désigné par la confédération nationale des syndicats d'exploitants familiaux (Modef) ;
+- un représentant désigné par la Confédération nationale des syndicats d'exploitants familiaux (Modef) ;
 
-Un représentant désigné par la confédération nationale de la mutualité, de la coopération et du crédit agricoles.
+- un représentant désigné par la Coordination rurale-union nationale.

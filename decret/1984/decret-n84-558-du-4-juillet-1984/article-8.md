@@ -4,6 +4,6 @@ Les dix représentants de la mutualité, de la coopération et du crédit agrico
 
 Trois représentants désignés par la fédération nationale de la mutualité agricole ;
 
-Cinq représentants désignés par la confédération française de la coopération agricole ;
+Cinq représentants désignés par la Coop de France.
 
 Deux représentants désignés par la fédération nationale du Crédit agricole.
