@@ -1,0 +1,5 @@
+# Article 9
+
+L'organisation et le contenu des enseignements sont fixés par arrêté conjoint des ministres chargés de l'architecture et de l'enseignement supérieur pour le cycle de formation continue diplômante conduisant au diplôme de deuxième cycle des études d'architecture, et par arrêté du ministre chargé de l'architecture pour le cycle de formation continue diplômante conduisant au diplôme d'architecte DPLG. L'ensemble des cycles de formation continue diplômante doit comprendre au moins 15 % d'heures dispensées en commun avec les étudiants préparant, en formation initiale, le même diplôme.
+
+Les conditions d'attribution des diplômes à l'issue des cycles de formation continue diplômante sont fixées par arrêté conjoint des ministres chargés de l'architecture et de l'enseignement supérieur pour le cycle conduisant au diplôme de deuxième cycle des études d'architecture et par arrêté du ministre chargé de l'architecture pour le cycle conduisant au diplôme d'architecte DPLG. Ces conditions comportent la durée d'expérience professionnelle prévue aux articles 6 et 8.
