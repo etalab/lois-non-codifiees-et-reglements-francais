@@ -21,6 +21,7 @@
 - [Décret n°82-136 du 4 février 1982](decret-n82-136-du-4-fevrier-1982)
 - [Décret n°82-225 du 4 mars 1982](decret-n82-225-du-4-mars-1982)
 - [Décret n°82-226 du 4 mars 1982](decret-n82-226-du-4-mars-1982)
+- [Décret n°82-694 du 4 août 1982](decret-n82-694-du-4-aout-1982)
 - [Décret n°82-2 du 5 janvier 1982](decret-n82-2-du-5-janvier-1982)
 - [Décret n°82-313 du 5 avril 1982](decret-n82-313-du-5-avril-1982)
 - [Décret n°82-315 du 5 avril 1982](decret-n82-315-du-5-avril-1982)
