@@ -13,6 +13,7 @@
 - [Loi n° 88-16 du 5 janvier 1988 (ASEX8700175L)](loi-n-88-16-du-5-janvier-1988-asex8700175l)
 - [Loi n° 88-17 du 5 janvier 1988 (JUSX8700194L)](loi-n-88-17-du-5-janvier-1988-jusx8700194l)
 - [Loi n° 88-18 du 5 janvier 1988 (COMX8700164L)](loi-n-88-18-du-5-janvier-1988-comx8700164l)
+- [Loi n° 88-227 du 11 mars 1988 (INTX8800003L)](loi-n-88-227-du-11-mars-1988-intx8800003l)
 - [Loi n° 88-26 du 8 janvier 1988 (INTX8700132L)](loi-n-88-26-du-8-janvier-1988-intx8700132l)
 - [Loi n° 88-50 du 18 janvier 1988 (AGRX8700004L)](loi-n-88-50-du-18-janvier-1988-agrx8700004l)
 - [Loi n° 88-82 du 22 janvier 1988 (DOMX8700150L)](loi-n-88-82-du-22-janvier-1988-domx8700150l)

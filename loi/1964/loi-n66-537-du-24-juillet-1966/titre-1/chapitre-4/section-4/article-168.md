@@ -8,6 +8,4 @@ Tout actionnaire a droit, dans les conditions et délais déterminés par décre
 
 3° Le cas échéant, du texte et de l'exposé des motifs des résolutions proposées, ainsi que des renseignements concernant les candidats au conseil d'administration ou au conseil de surveillance, selon le cas [*nomination*] ;
 
-4° Du montant global, certifié exact par les commissaires aux comptes, des rémunérations versées aux personnes les mieux rémunérées, le nombre de ces personnes étant de dix ou de cinq selon que l'effectif du personnel excède ou non deux cents salariés.
-
-5° Du montant global, certifié par les commissaires aux comptes des sommes ouvrant droit aux déductions fiscales visées à l'article 238 bis AA du Code général des impôts ainsi que de la liste des actions de parrainage et de mécénat.
+4° Du montant global, certifié exact par les commissaires aux comptes, des rémunérations versées aux personnes les mieux rémunérées, le nombre de ces personnes étant de dix ou de cinq selon que l'effectif du personnel excède ou non deux cents salariés. 5° Du montant global, certifié par les commissaires aux comptes des sommes ouvrant droit aux déductions fiscales visées à l'article 238 bis AA du Code général des impôts ainsi que de la liste des actions nominatives de parrainage, de mécénat et des dons effectués dans les conditions prévues à l'article L.O. 163-3 du code électoral.
