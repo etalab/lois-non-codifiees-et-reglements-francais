@@ -618,6 +618,7 @@
 - [Arrêté du 28 janvier 1993 (TOUR9304507A)](arrete-du-28-janvier-1993-tour9304507a)
 - [Arrêté du 28 juillet 1992 (EQUT9201049A)](arrete-du-28-juillet-1992-equt9201049a)
 - [Arrêté du 28 juillet 1992 (EQUT9201050A)](arrete-du-28-juillet-1992-equt9201050a)
+- [Arrêté du 29 avril 1993 (EQUP9300587A)](arrete-du-29-avril-1993-equp9300587a)
 - [Arrêté du 29 décembre 1992 (ACVM9240048A)](arrete-du-29-decembre-1992-acvm9240048a)
 - [Arrêté du 29 décembre 1992 (AGRG9202617A)](arrete-du-29-decembre-1992-agrg9202617a)
 - [Arrêté du 29 décembre 1992 (EQUT9201732A)](arrete-du-29-decembre-1992-equt9201732a)

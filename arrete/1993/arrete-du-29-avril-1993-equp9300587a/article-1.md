@@ -1,0 +1,3 @@
+# Article 1
+
+Sans préjudice des modalités d’organisation prévues pour le recrutement d’experts techniques des services techniques, d’une part, pour le recrutement des personnels visés à l’article 2-1 du décret n° 86-351 du 6 mars 1986 modifié portant déconcentration en matière de gestion des personnels relevant du ministre chargé de l’urbanisme, du logement et des transports, d’autre part, les concours et examens pour le recrutement de fonctionnaires dans les corps nationaux de catégorie C des services déconcentrés du ministère de l’équipement, des transports et du tourisme sont organisés selon les modalités ci-après.
