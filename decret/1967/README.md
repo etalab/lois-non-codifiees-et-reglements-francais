@@ -8,6 +8,7 @@
 - [Décret n°67-44 du 12 janvier 1967](decret-n67-44-du-12-janvier-1967)
 - [Décret n°67-45 du 12 janvier 1967](decret-n67-45-du-12-janvier-1967)
 - [Décret n°67-918 du 12 octobre 1967](decret-n67-918-du-12-octobre-1967)
+- [Décret n°67-58 du 13 janvier 1967](decret-n67-58-du-13-janvier-1967)
 - [Décret n°67-600 du 23 juillet 1967](decret-n67-600-du-23-juillet-1967)
 - [Décret n°68-929 du 24 octobre 1968](decret-n68-929-du-24-octobre-1968)
 - [Décret n°66-1032 du 29 décembre 1966](decret-n66-1032-du-29-decembre-1966)
