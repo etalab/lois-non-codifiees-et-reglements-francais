@@ -22,9 +22,9 @@ B. Au titre universitaire :
 
 - Le directeur de l'unité d'enseignement et de recherche pharmaceutique ou s'il n'existe qu'une unité d'enseignement et de recherche mixte médicale et pharmaceutique, un représentant du personnel enseignant de pharmacie, membre du conseil de cette unité ;
 
-- Le directeur de l'unité d'enseignement et de recherche odontologique ;
+- Le directeur de l'unité d'enseignement et de recherche odontologique.
 
-- En l'absence d'unité d'enseignement et de recherche soit odontologique, soit pharmaceutique, soit mixte médicale et pharmaceutique, le nombre des représentants du conseil de l'unité d'enseignement et de recherche médicale ou des conseils des unités d'enseignement et de recherche médicales, sera augmenté en conséquence.
+En l'absence d'unité d'enseignement et de recherche soit odontologique, soit pharmaceutique, soit mixte médicale et pharmaceutique, le nombre des représentants du conseil de l'unité d'enseignement et de recherche médicale ou des conseils des unités d'enseignement et de recherche médicales, sera augmenté en conséquence.
 
 II. POUR LE COMITE DE COORDINATION HOSPITALO-UNIVERSITAIRE DE PARIS
 
@@ -36,7 +36,7 @@ A. Au titre hospitalier :
 
 - Un représentant supplémentaire de la commission médicale consultative du centre hospitalier régional de Paris ;
 
-- Le directeur général du centre hospitalier régional de Paris
+- Le directeur général du centre hospitalier régional de Paris ;
 
 - Deux représentants des syndicats interhospitaliers de secteur et des établissements assurant le service public hospitalier qui ont conclu, avec le centre hospitalier et universitaire de Paris, une convention en application de l'article 6 de l'ordonnance susvisée du 30 décembre 1958, désignés par les conseils d'administration des syndicats et établissements en cause.
 
@@ -48,7 +48,7 @@ Un représentant supplémentaire des unités d'enseignement et de recherche méd
 
 2° Un représentant des conseils des unités d'enseignement et de recherche pharmaceutiques.
 
-3° Le directeur de l'unité d'enseignement et de recherche odontologique.
+3° Les directeurs des unités d'enseignement et de recherche odontologiques des universités de Paris-V et de Paris-VII.
 
 III. POUR LE COMITE DE COORDINATION HOSPITALO-UNIVERSITAIRE DU CENTRE HOSPITALIER ET UNIVERSITAIRE DE MONTPELLIER-NIMES
 
