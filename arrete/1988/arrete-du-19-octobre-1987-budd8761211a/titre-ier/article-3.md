@@ -1,0 +1,5 @@
+# Article 3
+
+1. Lorsque les marchandises déclarées pour l'exportation ou la réexportation dans un bureau de douane intérieur ne sont pas placées sous un autre régime de transit au moment de leur enlèvement, elles sont, ipso facto, placées sous le régime du transit national pour le transport entre ce bureau et le bureau de douane de sortie. Ce régime garantit le respect de l'engagement d'exporter pris par le souscripteur de la déclaration d'exportation ou de réexportation ; la suspension des droits et taxes ne s'applique pas aux prélèvements et montants compensatoires dont ces marchandises sont éventuellement passibles.
+
+2. Lorsque les marchandises prises sur le marché intérieur sont transportées sous le régime du transit national d'un point à un autre du territoire douanier avec emprunt de la mer ou d'un territoire étranger, pour être remises sur le marché intérieur, elles ne font l'objet, à destination, que des seules formalités douanières exigées pour la régularisation de l'opération de transit, à moins qu'elles ne soient passibles de droits ou taxes à caractère fiscal, à un taux supérieur à celui appliqué dans la partie du territoire douanier d'expédition.

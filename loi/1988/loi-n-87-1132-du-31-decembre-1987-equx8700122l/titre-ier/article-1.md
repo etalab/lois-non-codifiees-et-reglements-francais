@@ -1,0 +1,3 @@
+# Article 1
+
+La procédure prévue à l'article L. 15-9 du code de l'expropriation pour cause d'utilité publique pourra être appliquée dans l'arrondissement d'Albertville, dans les cantons de Chamoux et d'Aiguebelle et dans les communes de Voglans et de la Motte-Servolex, en vue de la prise de possession immédiate par l'Etat, les collectivités publiques ou leurs concessionnaires de tous immeubles, bâtis ou non bâtis, dont l'acquisition est nécessaire à l'organisation ou au déroulement des XVIe Jeux olympiques d'hiver d'Albertville et de la Savoie. Les décrets sur avis conforme du Conseil d'Etat prévus audit article L. 15-9 devront être pris au plus tard le 30 septembre 1991.

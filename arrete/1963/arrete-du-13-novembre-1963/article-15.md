@@ -2,10 +2,8 @@
 
 Par remises corrigées, il faut entendre les remises annuelles sur la vente des tabacs modifiées comme suit :
 
-Lorsque le montant des remises est inférieur à 500 F il est compté pour moitié et majoré de 250 F.
+La fraction des remises n'excédant pas 11.200 F est comptée à raison de 130 % de son montant ; la fraction comprise entre 11.201 F et 39.100 F est comptée en totalité ; la fraction comprise entre 39.101 F et 78.100 F est comptée pour les deux tiers ; la fraction comprise entre 78.101 F et 187.900 F est comptée pour la moitié ; la fraction comprise entre 187.901 F et 576.600 F est comptée pour le tiers.
 
-Lorsque ce montant est égal ou supérieur à 500 F, il est compté en totalité pour la fraction n'excédant pas 5.000 F, pour les deux tiers pour la fraction comprise entre 5.000 et 10.000 F, pour la moitié pour la fraction comprise entre 10.000 et 20.000 F, pour le tiers pour la fraction comprise entre 20.000 et 30.000 F.
+La tranche dépassant 576.000 F n'est pas prise en considération.
 
-La tranche dépassant 30.000 F n'est pas prise en considération.
-
-Les tranches ainsi définies sont modifiées dans les conditions prévues à l'article 18 ci-après.
+Les tranches ainsi définies sont modifiées dans les conditions prévues à l'article 18.

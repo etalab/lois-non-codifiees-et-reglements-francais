@@ -1,0 +1,3 @@
+# Article 5
+
+L'arrêté du 30 septembre 1977 relatif à la nature des travaux exécutés par les propriétaires du parc social sur leur patrimoine locatif, l'arrêté du 20 novembre 1979 modifié relatif aux travaux d'amélioration des logements à usage locatif et à occupation sociale pouvant donner lieu à l'attribution d'une subvention, l'arrêté du 25 novembre 1985 relatif à la nature des travaux d'amélioration de l'habitat et de la vie quotidienne et l'arrêté du 26 août 1986 relatif au montant maximum des travaux d'amélioration de l'habitat et de la vie quotidienne sont abrogés à compter du 1er janvier 1988.

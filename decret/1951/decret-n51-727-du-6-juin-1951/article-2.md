@@ -8,7 +8,7 @@ Le montant annuel de la pension d'invalidité attribuée à la veuve ou au veuf 
 
 Les pensions d'invalidité de veuf ou de veuve sont supprimées en cas de remariage.
 
-Lorsque le titulaire atteint l'âge de soixante ans, la pension attribuée au titre de l'invalidité est transformée en pension de vieillesse de veuf ou de veuve d'un montant égal.
+Lorsque le titulaire atteint l'âge requis pour l'obtention d'une pension de réversion, la pension attribuée au titre de l'invalidité est transformée en pension de vieillesse de veuve ou de veuf d'un montant égal. Les dispositions de l'article L. 353-5 du code de la sécurité sociale sont applicables.
 
 II. - La pension de veuf ou de veuve ne peut être inférieure à une somme dont le montant est fixé par décret.
 
@@ -16,9 +16,7 @@ Elle est majorée de 10 p. 100 lorsque le bénéficiaire a eu au moins trois enf
 
 Cette dernière majoration est, le cas échéant, calculée sur le montant de la pension porté au minimum ci-dessus défini.
 
-PAR. 2 - En cas de décès de l'assuré, son conjoint survivant a droit à une pension de réversion s'il satisfait à des conditions de ressources personnelles, de durée de mariage et d'âge définies par voie réglementaire [*bénéficiaire*]. Toutefois, lorsqu'un enfant au moins est issu du mariage, aucune condition de durée de mariage n'est exigée.
-
-La pension de réversion est égale à un pourcentage fixé par décret de la pension principale ou rente dont bénéficiait ou eût bénéficié l'assuré, sans pouvoir être inférieure à un montant minimum fixé par décret en tenant compte de la durée d'assurance lorsque celle-ci est inférieure à la durée déterminée par ce décret.
+PAR. 2 - En cas de décès de l'assuré, son conjoint survivant a droit à une pension de réversion s'il satisfait à des conditions de ressources personnelles, de durée de mariage et d'âge définies par voie réglementaire [*bénéficiaire*]. Toutefois, lorsqu'un enfant au moins est issu du mariage, aucune condition de durée de mariage n'est exigée.    La pension de réversion est égale à un pourcentage fixé par décret de la pension principale ou rente dont bénéficiait ou eût bénéficié l'assuré, sans pouvoir être inférieure à un montant minimum fixé par décret en tenant compte de la durée d'assurance lorsque celle-ci est inférieure à la durée déterminée par ce décret.
 
 Elle est majorée de 10 p. 100 lorsque le bénéficiaire remplit les conditions fixées au paragraphe 5 de l'article 1er bis ci-dessus. Cette majoration ne peut être inférieure au dixième du montant minimum de la pension de réversion.
 
@@ -39,3 +37,11 @@ Lorsque l'assuré est remarié, la pension de réversion à laquelle il est susc
 Au décès de l'un des bénéficiaires, sa part accroîtra la part de l'autre ou, s'il y a lieu, des autres.
 
 Lorsque le bénéficiaire remplit les conditions fixées à l'article 1er bis, paragraphe 5 ci-dessus, sa part de pension est majorée de 10 p. 100.
+
+Paragraphe 5. - Toute pension de réversion dont le bénéfice a été sollicité auprès du régime des assurances sociales agricoles peut faire l'objet d'une avance financée sur les fonds d'action sanitaire et sociale, remboursée par les fonds des prestations légales, dans la limite des droits établis dans ce régime.
+
+Paragraphe 6. - La majoration de pension prévue à l'article L. 353-5 du code de la sécurité sociale est accordée, dans les mêmes conditions et sous les mêmes réserves, au conjoint survivant titulaire d'un des droits prévus au paragraphe 2 du présent article.
+
+L'article 2 du décret n° 63-940 du 12 septembre 1963 et le dernier alinéa du paragraphe 2 du présent article, en tant qu'il concerne les pensions d'invalidité, sont applicables.
+
+Le bénéfice de cette majoration est supprimé en cas de remariage ou de vie maritale et lorsque l'une des conditions mentionnées au premier alinéa de l'article L. 353-5 du code de la sécurité sociale cesse d'être remplie, à l'exception de la condition d'âge exigée du titulaire.
