@@ -5,4 +5,6 @@
 - [Arrêté du 11 octobre 1950](arrete-du-11-octobre-1950)
 - [Arrêté du 17 octobre 1950](arrete-du-17-octobre-1950)
 - [Arrêté du 18 juillet 1950](arrete-du-18-juillet-1950)
+- [Arrêté du 20 décembre 1950](arrete-du-20-decembre-1950)
+- [Arrêté du 21 décembre 1950](arrete-du-21-decembre-1950)
 - [Arrêté du 26 septembre 1950](arrete-du-26-septembre-1950)
