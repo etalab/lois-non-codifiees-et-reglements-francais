@@ -12,4 +12,12 @@ Cette contribution n'est pas exigible en ce qui concerne les agents détachés a
 
 La pension est calculée sur la moyenne des traitements et émoluments dont le fonctionnaire aurait joui pendant les trois dernières années s'il eût été rétribué directement par l'Etat.
 
-Les fonctionnaires ou agents de l'Etat ne peuvent être placés en service détaché auprès d'établissements privés que par périodes renouvelables ne pouvant excéder au total une durée de six années. A l'expiration de ce délai, l'intéressé sera, soit tenu de reprendre ses fonctions dans son administration d'origine, soit placé dans une position ne lui conférant plus aucun droit ni à l'avancement ni à la retraite. Cette disposition ne s'applique toutefois pas aux fonctionnaires ou agents détachés résidant à l'étranger, aux colonies, pays de protectorat ou territoires sous mandat.
+Les fonctionnaires ou agents de l'Etat ne peuvent être placés en service détaché auprès d'établissements privés que par périodes renouvelables ne pouvant excéder au total une durée de six années. A l'expiration de ce délai, les intéressés seront, soit tenus de reprendre leurs fonctions dans leur administration d'origine, soit placés dans une position ne leur conférant plus aucun droit ni à l'avancement, ni à la retraite.
+
+Toutefois, cette disposition ne s'applique pas :
+
+1° Aux fonctionnaires ou agents détachés résidant à l'étranger, aux colonies, pays de protectorat ou territoires sous mandat ;
+
+2° Aux fonctionnaires ou agents détachés auprès d'établissements privés dans tout emploi à la nomination directe du Gouvernement ;
+
+3° Aux fonctionnaires ou agents détachés auprès des établissements privés à la gestion desquels l'Etat participe ou qui sont soumis à son contrôle pour avoir fait appel à son concours sous forme d'apports en capital, de prêts, d'avances, de garanties d'intérêts, de subventions ou de tous autres avantages financiers, sous réserve que ces fonctionnaires ou agents soient appelés à y exercer une mission avec l'approbation expresse du Gouvernement.
