@@ -7,6 +7,7 @@
 - [Décret n°49-1219 du 5 septembre 1949](decret-n49-1219-du-5-septembre-1949)
 - [Décret n°49-508 du 14 avril 1949](decret-n49-508-du-14-avril-1949)
 - [Décret n°49-1249 du 16 septembre 1949](decret-n49-1249-du-16-septembre-1949)
+- [Décret n°49-1303 du 17 septembre 1949](decret-n49-1303-du-17-septembre-1949)
 - [Décret n°49-1162 du 19 août 1949](decret-n49-1162-du-19-aout-1949)
 - [Décret n°49-578 du 22 avril 1949](decret-n49-578-du-22-avril-1949)
 - [Décret n°49-579 du 22 avril 1949](decret-n49-579-du-22-avril-1949)
