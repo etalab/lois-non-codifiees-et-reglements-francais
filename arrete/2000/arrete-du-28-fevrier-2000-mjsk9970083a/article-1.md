@@ -1,0 +1,3 @@
+# Article 1
+
+La nouvelle bonification indiciaire prévue à l'article 1er du décret du 14 janvier 1992 susvisé est attribuée dans les conditions fixées par les tableaux annexés au présent arrêté. Ses dispositions entrent en vigueur au 1er août 1996, à l'exception de celles relatives aux directeurs départementaux et aux directeurs régionaux adjoints de la jeunesse, des sports et des loisirs, qui entrent en vigueur au 1er janvier 1997, et de celles relatives aux personnels techniques et pédagogiques chargés des fonctions de chefs de département, qui entrent en vigueur à la date de publication du présent arrêté.
