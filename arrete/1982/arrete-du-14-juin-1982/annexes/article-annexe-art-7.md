@@ -1,0 +1,3 @@
+# Article Annexe art. 7
+
+Dans le cas où le voyage ou le séjour sont annulés par l'agent de voyages pour quelque motif que ce soit, le client, sans préjuger des recours en réparation des dommages éventuellement subis obtiendra le remboursement immédiat de toutes les sommes déjà versées. Le client recevra une indemnité égale à la pénalité qu'il aurait supportée si l'annulation était intervenue de son fait à cette date, sauf lorsque l'annulation est imposée par des circonstances de force majeure, ou par la sécurité des voyageurs ou a pour motif l'insuffisance du nombre des participants tel que précisé dans le contrat prévu à l'article 3.
