@@ -163,7 +163,6 @@
 - [Décret n°97-320 du 8 avril 1997 (EQUP9601258D)](decret-n97-320-du-8-avril-1997-equp9601258d)
 - [Décret n°97-325 du 8 avril 1997 (MAEJ9730026D)](decret-n97-325-du-8-avril-1997-maej9730026d)
 - [Décret n°97-790 du 8 août 1997 (AGRA9701273D)](decret-n97-790-du-8-aout-1997-agra9701273d)
-- [Décret n°97-824 du 8 septembre 1997 (MEST9711267D)](decret-n97-824-du-8-septembre-1997-mest9711267d)
 - [Décret n°97-828 du 8 septembre 1997 (AGRS9701191D)](decret-n97-828-du-8-septembre-1997-agrs9701191d)
 - [Décret n°97-838 du 8 septembre 1997 (MESH9722352D)](decret-n97-838-du-8-septembre-1997-mesh9722352d)
 - [Décret n°97-918 du 8 octobre 1997 (MESX9700116D)](decret-n97-918-du-8-octobre-1997-mesx9700116d)
