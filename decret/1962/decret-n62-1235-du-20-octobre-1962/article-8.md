@@ -1,0 +1,9 @@
+# Article 8
+
+Les acquisitions énumérées au 4° du IV de l'article 7 de la loi susvisée du 8 août 1962 modifiée faites par les salariés agricoles, les aides familiaux, les associés d'exploitation, par les fermiers ou métayers évincés ainsi que par les agriculteurs à titre principal expropriés, ne sont exemptées du droit de préemption que si elles concernent des fonds qui doivent constituer une exploitation agricole ou forestière. L'acquéreur doit s'engager à procéder à cette exploitation effectivement et personnellement pendant une durée de quinze ans. Son engagement doit être joint à la déclaration préalable à l'acquisition.
+
+Seules peuvent être considérés comme salariés agricoles, aides familiaux et associés d'exploitation pour l'application de l'exception prévue en leur faveur au 4° du IV dudit article, les personnes ayant l'une de ces qualités au moment de l'acquisition et justifiant de l'expérience et de la capacité professionnelles exigées des attributaires d'exploitations vendues par les sociétés d'aménagement foncier et d'établissement rural, en application de l'article 10 du décret du 14 juin 1961 modifié.
+
+Si les terrains à acquérir mentionnés au IV du même article 7 sont destinés à la construction, aux aménagements industriels ou à l'extraction de substances minérales, l'acquéreur doit s'engager à donner aux terrains cette destination, dans un délai qui ne peut excéder cinq ans. Cet engagement doit être joint à la notification préalable de l'opération. Lorsqu'il s'agit de terrains destinés à la construction, l'exception n'est applicable qu'aux terrains répondant aux conditions fixées à l'article 691 III du code général des impôts.
+
+Est considéré comme constituant un jardin ou un verger familial, au sens du 5° du IV de l'article 7 susmentionné, le terrain que l'acquéreur s'engage à utiliser personnellement à l'exclusion de tout usage commercial. Cet engagement doit être joint à la notification préalable à l'aliénation.
