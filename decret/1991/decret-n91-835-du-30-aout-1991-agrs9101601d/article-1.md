@@ -1,0 +1,3 @@
+# Article 1
+
+Tout producteur, tel qu'il est défini à l'article 12 sous c, premier alinéa, du règlement (C.E.E.) n° 857-84 modifié, à l'exclusion des producteurs disposant d'une quantité de référence laitière supplémentaire en application de l'article 3 quater du règlement précité, et ayant droit à une quantité de référence à la date de présentation de sa demande en application de l'article 1er du décret n° 2002-1000 du 17 juillet 2002, peut solliciter le bénéfice de l'indemnité pour abandon définitif de toute production en vue de la commercialisation de lait ou de produits laitiers instituée par le présent décret.
