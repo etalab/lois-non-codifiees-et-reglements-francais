@@ -1,3 +1,5 @@
 # Article 1
 
-Les échelles indiciaires applicables aux chefs de bureau des établissements d'hospitalisation, de soins ou de cure publics sont fixées conformément au tableau annexé au présent arrêté, qui détermine également la durée moyenne des services que doit accomplir, dans chaque échelon, un agent de valeur moyenne pour avoir accès à l'échelon supérieur.
+Le fonds de prévoyance militaire prévu à l'article 1er du décret du 25 septembre 1973 susvisé est géré par la caisse des dépôts et consignations qui procède à l'instruction des dossiers, à la notification des décisions d'attribution ou de rejet des allocations et secours et au mandatement des sommes allouées.
+
+Le directeur général de la caisse des dépôts et consignations présente annuellement un rapport sur l'activité et la situation financière du fonds à la commission visée à l'article 2 ci-après.

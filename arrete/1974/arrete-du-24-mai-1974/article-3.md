@@ -1,3 +1,9 @@
 # Article 3
 
-Le directeur des hôpitaux au ministère de la santé publique et de la sécurité sociale, le directeur général des collectivités locales au ministère de l'intérieur, le directeur du budget au ministère de l'économie et des finances et le secrétaire général pour les départements d'outre-mer au secrétariat d'Etat auprès du Premier ministre, chargé des départements et territoires d'outre-mer, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+La commission du fonds de prévoyance militaire est chargée de l'examen des demandes d'allocations visées aux articles 2 et 3 du décret du 25 septembre 1973.
+
+Elle émet un avis sur chacun des dossiers qui lui sont soumis et propose l'attribution aux ayants cause du militaire décédé :
+
+a) Soit, lorsqu'elle estime que le décès est imputable au service, des allocations dont le montant est fixé à l'article 2 du décret précité ;
+
+b) Soit, lorsqu'elle estime que le décès, sans être imputable au service, est cependant survenu en relation avec celui-ci, des allocations à taux réduit prévues à l'article 3 du décret précité et dont le montant ne peut dépasser 50 p. 100 de celui des allocations visées au paragraphe a) précédent.
