@@ -43,6 +43,7 @@
 - [Arrêté du 3 mars 1989 (AGRS8900311A)](arrete-du-3-mars-1989-agrs8900311a)
 - [Arrêté du 3 mars 1989 (INDE8800975A)](arrete-du-3-mars-1989-inde8800975a)
 - [Arrêté du 3 mars 1989 (SPSS8900477A)](arrete-du-3-mars-1989-spss8900477a)
+- [Arrêté du 3 mai 1989 (SPSP8900973A)](arrete-du-3-mai-1989-spsp8900973a)
 - [Arrêté du 4 avril 1989 (MENU8900775A)](arrete-du-4-avril-1989-menu8900775a)
 - [Arrêté du 4 avril 1989 (SPSS8900773A)](arrete-du-4-avril-1989-spss8900773a)
 - [Arrêté du 4 avril 1989 (TEFE8903317A)](arrete-du-4-avril-1989-tefe8903317a)
