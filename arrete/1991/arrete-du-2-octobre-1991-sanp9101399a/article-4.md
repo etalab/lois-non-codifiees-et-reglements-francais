@@ -1,6 +1,6 @@
 # Article 4
 
-Le stage d'adaptation est organisé par une direction régionale des affaires sanitaires et sociales, sur un ou plusieurs terrains de stage dans un établissement public ou privé agréés par cette direction sur proposition du médecin inspecteur régional de la santé et après avis du recteur. Le stagiaire est placé sous la responsabilité pédagogique d'un professionnel qualifié exerçant depuis au moins trois ans.
+Le stage d'adaptation est organisé par une direction régionale des affaires sanitaires et sociales, sur un ou plusieurs terrains de stage dans un établissement public ou privé, ou auprès d'un orthophoniste exerçant à titre libéral, agrées par cette direction sur proposition du médecin inspecteur régional et après avis du recteur. Le stagiaire est placé sous la responsabilité pédagogique d'un professionnel qualifié exerçant depuis au moins trois ans.
 
 Le demandeur doit déposer auprès d'une des directions régionales des affaires sanitaires et sociales organisatrices du stage un dossier comprenant les pièces suivantes ;
 
