@@ -431,6 +431,7 @@
 - [Arrêté du 15 juin 2004 (SANH0422092A)](arrete-du-15-juin-2004-sanh0422092a)
 - [Arrêté du 15 novembre 2004 (JUSG0460102A)](arrete-du-15-novembre-2004-jusg0460102a)
 - [Arrêté du 15 octobre 2004 (DEFP0401155A)](arrete-du-15-octobre-2004-defp0401155a)
+- [Arrêté du 15 octobre 2004 (MENF0402121A)](arrete-du-15-octobre-2004-menf0402121a)
 - [Arrêté du 15 octobre 2004 (PRMG0470627A)](arrete-du-15-octobre-2004-prmg0470627a)
 - [Arrêté du 16 août 2004 (AGRG0401957A)](arrete-du-16-aout-2004-agrg0401957a)
 - [Arrêté du 16 août 2004 (INTE0400657A)](arrete-du-16-aout-2004-inte0400657a)
