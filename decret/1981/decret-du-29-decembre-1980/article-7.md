@@ -1,0 +1,3 @@
+# Article 7
+
+Sans préjudice de l'application des règlements en vigueur, tout accident ou incident, nucléaire ou non, ayant eu ou risquant d'avoir des conséquences notables sur la sûreté de l'installation visée à l'article 1er sera déclaré sans délai par l'exploitant au ministre de l'industrie (service central de sûreté des installations nucléaires) qui en informera le ministre de la santé (service central de protection contre les rayonnemnents ionisants). Le ministre chargé de la santé consultera, si nécessaire, le comité national d'experts médicaux pour les questions relatives aux accidents créant un risque radiologique pour la population.
