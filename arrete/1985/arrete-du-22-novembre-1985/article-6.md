@@ -1,9 +1,3 @@
 # Article 6
 
-En ce qui concerne les personnes ayant été nommées dans un emploi de 4e classe au titre des dispositions prévues à l'article 18 du décret du 9 mai 1985 susvisé, la durée de la formation est réduite à six mois.
-
-Elle comprend :
-
-- stage d'un mois dans un établissement hospitalier public ;
-
-- une période d'enseignement de cinq mois à l'Ecole nationale de la santé publique, cette période pouvant être fractionnée.
+Les épreuves écrites sont anonymes. Chaque épreuve est notée par deux correcteurs, dont l'un au moins doit être membre du jury. La première épreuve d'admission est appréciée par l'ensemble du jury ; pour le déroulement des deuxième et troisième épreuves d'admission, il peut être créé plusieurs collèges, chacun de ces collèges comprenant au moins deux examinateurs, le nombre des examinateurs non membres du jury ne pouvant être supérieur au nombre des examinateurs membres du jury ; en cas de fractionnement du jury, celui-ci procède dans son ensemble à la péréquation des notes attribuées par chacun des collèges.

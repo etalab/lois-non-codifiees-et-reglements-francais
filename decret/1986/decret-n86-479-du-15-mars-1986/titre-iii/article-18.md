@@ -1,0 +1,5 @@
+# Article 18
+
+A l'issue de la période de formation ou du cycle de perfectionnement, les élèves attachés sont affectés par le président du centre national de gestion dans une collectivité ou un établissement après accord de l'autorité territoriale en qualité d'attaché stagiaire dans les conditions prévues aux premier et deuxième alinéas de l'article 45 de la loi du 26 janvier 1984 et au premier alinéa de l'article 46 de la même loi.
+
+La titularisation des intéressés dans le corps des directeurs de service administratif, des attachés principaux et des attachés territoriaux est décidée par l'autorité territoriale investie du pouvoir de nomination [*autorité compétente*]. La titularisation ne peut intervenir qu'à l'issue du stage. Sous réserve des dispositions du deuxième alinéa de l'article 46 de la loi du 26 janvier 1984, la durée du stage est égale à six mois. Il peut être renouvelé une fois par l'autorité territoriale. Si, à l'issue du stage, la titularisation n'est pas prononcée, l'attaché stagiaire est, soit licencié, s'il n'avait pas préalablement la qualité de fonctionnaire, soit, s'il avait cette qualité, réintégré dans son corps ou son emploi d'origine.

@@ -4,53 +4,49 @@ Le montant des courtages est réduit de moitié lorsque deux opérations en sens
 
 Les différentes catégories d'actions, les obligations convertibles ou échangeables, les droits de souscription et d'attribution d'une même valeur sont considérés comme une même valeur.
 
-Les arbitrages entre actions et droits de souscription et d'attribution y afférents ouvrent droit au franco de courtage même si l'une des négociations est effectuée au comptant et l'autre à terme.
-
-Les opérations de contrepartie s'effectuent en franco de courtage.
+Les arbitrages entre actions et droits de souscription et d'attribution y afférents ouvrent droit au franco de courtage même  i si l'une des négociations est effectuée au comptant et l'autre à terme.    Les opérations de contrepartie s'effectuent en franco de courtage.
 
 Taux des courtages.
 
-I. - Opérations au comptant, à terme ferme, à terme conditionnel avec la prime ou l'option levée :
+I. - OPERATIONS AU COMPTANT, A TERME FERME, A TERME CONDITIONNEL AVEC LA PRIME OU L'OPTION LEVEE :
 
 A. - Actions, certificats d'investissement, droits de souscription et d'attribution, obligations convertibles échangeables, participantes ou indexées, titres participatifs, bons de souscription.
 
 De 1 à 600.000 francs :
 
-Bourse de Paris :
+BOURSE de Paris :
 
 Taux P. 100 : 0,650.
 
-Bourses régionales :
+BOURSES régionales :
 
 Taux P. 100 : 0,750.
 
 De 600.001 à 1.100.000 francs :
 
-Bourse de Paris :
+BOURSE de Paris :
 
 Taux P. 100 : 0,430.
 
-Bourses régionales :
+BOURSES régionales :
 
 Taux P. 100 : 0,500.
 
 De 1.100.001 à 2.200.000 francs :
 
-Bourse de Paris :
+BOURSE de Paris :
 
 Taux P. 100 : 0,325.
 
-BourseS régionales :
+BOURSES régionales :
 
 Taux P. 100 : 0,375.
 
-Au-dessus de 2.200.000 francs (avec un minimum de 10 francs et un maximum de 40.000 francs).
-
-Bourse de Paris :
+Au-dessus de 2.200.000 francs (avec un minimum de 10 francs)    BOURSE de Paris :
 
 Taux P. 100 : 0,215.
 
-BourseS régionales :
+BOURSES régionales :
 
 Taux P. 100 : 0,250.
 
@@ -58,31 +54,31 @@ B. - Fonds d'Etat indexés
 
 De 1 à 600.000 francs.
 
-Bourse de Paris :
+BOURSE de Paris :
 
 Taux P. 100 : 0,500.
 
-BourseS régionales :
+BOURSES régionales :
 
 Taux P. 100 : 0,500.
 
 De 600.001 à 1.100.000 francs.
 
-Bourse de Paris :
+BOURSE de Paris :
 
 Taux P. 100 : 0,330.
 
-BourseS régionales :
+BOURSES régionales :
 
 Taux P. 100 : 0,330.
 
 De 1.100.001 à 2.200.000 francs.
 
-Bourse de Paris :
+BOURSE de Paris :
 
 Taux P. 100 : 0,250.
 
-BourseS régionales :
+BOURSES régionales :
 
 Taux P. 100 : 0,250.
 
@@ -92,23 +88,23 @@ Bourse de Paris :
 
 Taux P. 100 : 0,165.
 
-BourseS régionales :
+BOURSES régionales :
 
 Taux P. 100 : 0,165.
 
-II. - Opérations à terme conditionnel avec à la prime abandonnée ou à l'option non levée
+II. - OPERATIONS A TERME CONDITIONNEL AVEC A LA PRIME ABANDONNEE OU A L'OPTION NON LEVEE
 
-Toutes valeurs sur le montant de la prime ou de l'option (avec un minimum de 10 francs et un maximum de 40.000 francs).
+Toutes valeurs sur le montant de la prime ou de l'option (avec un minimum de 10 francs).
 
 Bourse de Paris :
 
 Taux P. 100 : 4.
 
-BourseS régionales :
+BOURSES régionales :
 
 Taux P. 100 : 4.
 
-III. - Opérations reportées
+III. - OPERATIONS REPORTEES
 
 A. - Opérations reportées sur la base du cours de compensation majoré, le cas échéant, du prix de report.
 
@@ -116,25 +112,25 @@ Bourse de Paris :
 
 Taux P. 100 : 0,150.
 
-BourseS régionales :
+BOURSES régionales :
 
 Taux P. 100 : 0,150.
 
-B. - Emploi de capitaux en report, sur la base du cours de compensation (avec un minimum de 10 francs et un maximum de 40.000 francs).
+B. - Emploi de capitaux en report, sur la base du cours de compensation (avec un minimum de 10 francs).
 
 Bourse de Paris :
 
 Taux P. 100 : 0,100.
 
-BourseS régionales :
+BOURSES régionales :
 
 Taux P. 100 : 0,100.
 
-IV. - Opérations sur les obligations à taux fixe ou à taux variable et les fonds d'état non indexés.
+IV. - OPERATIONS SUR LES OBLIGATIONS A TAUX FIXE OU A TAUX VARIABLE ET LES FONDS D'ETAT NON INDEXES.
 
 Moins de deux ans d'échéance :
 
-Bourses de Paris et régionales :
+BOURSES DE PARIS ET REGIONALES :
 
 De 1 à 1000.000 francs :
 
@@ -154,7 +150,7 @@ P. 100 : 0,0074.
 
 Deux ans d'échéance et plus :
 
-Bourses de Paris et régionales :
+BOURSES DE PARIS ET REGIONALES :
 
 De 1 à 1000.000 francs :
 
@@ -174,7 +170,7 @@ P. 100 : 0,0148.
 
 Trois ans d'échéance et plus :
 
-Bourses de Paris et régionales :
+BOURSES DE PARIS ET REGIONALES :
 
 De 1 à 1000.000 francs :
 
@@ -194,7 +190,7 @@ P. 100 : 0,0222.
 
 Quatre ans d'échéance et plus :
 
-Bourses de Paris et régionales :
+BOURSES DE PARIS ET REGIONALES :
 
 De 1 à 1000.000 francs :
 
@@ -214,7 +210,7 @@ P. 100 : 0,0296.
 
 Cinq ans d'échéance et plus :
 
-Bourses de Paris et régionales :
+BOURSES DE PARIS ET REGIONALES :
 
 De 1 à 1000.000 francs :
 
@@ -234,7 +230,7 @@ P. 100 : 0,0370.
 
 Six ans d'échéance et plus :
 
-Bourses de Paris et régionales :
+BOURSES DE PARIS ET REGIONALES :
 
 De 1 à 1000.000 francs :
 
@@ -254,7 +250,7 @@ P. 100 : 0,444.
 
 Sept ans d'échéance et plus :
 
-Bourses de Paris et régionales :
+BOURSES DE PARIS ET REGIONALES :
 
 De 1 à 1000.000 francs :
 
@@ -274,7 +270,7 @@ P. 100 : 0,0518.
 
 Huit ans d'échéance et plus :
 
-Bourses de Paris et régionales :
+BOURSES DE PARIS ET REGIONALES :
 
 De 1 à 1000.000 francs :
 
@@ -294,7 +290,7 @@ P. 100 : 0,0592.
 
 Neuf ans d'échéance et plus :
 
-Bourses de Paris et régionales :
+BOURSES DE PARIS ET REGIONALES :
 
 De 1 à 1000.000 francs :
 
@@ -314,7 +310,7 @@ P. 100 : 0,0666.
 
 Dix ans d'échéance et plus (avec un minimum de 10 francs) :
 
-Bourses de Paris et régionales :
+BOURSES DE PARIS ET REGIONALES :
 
 De 1 à 1000.000 francs :
 

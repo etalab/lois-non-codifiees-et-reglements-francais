@@ -1,0 +1,3 @@
+# Article 17
+
+A l'égard des fonctionnaires en service à l'étranger ou dans un territoire d'outre-mer ou détachés auprès d'une administration ou entreprise publique dans un emploi ne conduisant pas à pension du code des pensions civiles et militaires de retraite ou auprès d'une entreprise privée ou d'un organisme privé, ou détachés pour participer à une mission de coopération, pour exercer un enseignement à l'étranger, pour remplir une mission publique l'étranger ou auprès d'organismes internationaux, pour exercer les fonctions de membres du Gouvernement ou une fonction publique élective, le comité médical et la commission de réforme compétents sont ceux siégeant auprès de l'administration centrale dont relève leur corps d'origine.

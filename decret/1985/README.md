@@ -12,6 +12,7 @@
 - [Décret n°85-1296 du 4 décembre 1985](decret-n85-1296-du-4-decembre-1985)
 - [Décret n°85-1298 du 4 décembre 1985](decret-n85-1298-du-4-decembre-1985)
 - [Décret n°85-570 du 4 juin 1985](decret-n85-570-du-4-juin-1985)
+- [Décret n°85-682 du 4 juillet 1985](decret-n85-682-du-4-juillet-1985)
 - [Décret n°85-1152 du 5 novembre 1985](decret-n85-1152-du-5-novembre-1985)
 - [Décret n°85-1166 du 5 novembre 1985](decret-n85-1166-du-5-novembre-1985)
 - [Décret n°85-1231 du 5 novembre 1985](decret-n85-1231-du-5-novembre-1985)

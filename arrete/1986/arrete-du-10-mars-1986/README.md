@@ -1,4 +1,4 @@
-# Arrêté du 10 mars 1986 portant composition de la formation spécialisée Santé-hôpitaux de la commission ministérielle de l'informatique et de la bureautique.
+# Arrêté du 10 mars 1986 désignant le Laboratoire national d'essais pour délivrer le visa d'examen technique aux appareils de radiographie gamma industrielle, l'habilitant pour vérifier leur conformité aux prescriptions d'hygiène et de sécurité applicables et précisant les règles applicables aux demandeurs de visa.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

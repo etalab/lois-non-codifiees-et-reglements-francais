@@ -1,13 +1,41 @@
 # Article 7
 
-Le bénéfice de la présente autorisation est subordonné au respect par la société des règles suivantes relatives au service diffusé :
+La commission des opticiens-lunetiers du Conseil supérieur des professions paramédicales comprend [*composition*] :
 
-- les émissions diffusées ne peuvent être contraires aux lois, à l'ordre public, aux bonnes moeurs et à la sécurité des pays où elles sont reçues directement par le public ;
+Neuf membres appartenant à la profession désignés par le ministre chargé de la santé sur propositions respectives des organisations suivantes :
 
-- les informations et communications doivent se faire dans un esprit de rigoureuse impartialité et dans un souci d'objectivité ;
+- fédération de la santé et de l'action sociale CGT ;
 
-- les émissions ne doivent pas favoriser une famille de pensée, de croyance ou d'opinion ;
+- fédération des personnels des services publics et des services de santé Force Ouvrière [*FO*] ;
 
-- toute émission susceptible de heurter la sensibilité des téléspectateurs, et notamment le public des enfants et des adolescents devra être précédée d'un avertissement approprié ;
+- fédération nationale des syndicats des services de santé et des services sociaux CFDT ;
 
-- la durée quotidienne du service ne peut être inférieure à six heures.
+- fédération nationale des syndicats chrétiens des services de santé et sociaux CFTC ;
+
+- confédération générale des cadres [*CGC*] ;
+
+- union nationale des syndicats d'opticiens de France (deux membres) ;
+
+- syndicat national des opticiens adaptateurs d'optique de contact ;
+
+- syndicat des opticiens français indépendants.
+
+Deux membres appartenant à la profession désignés par le ministre chargé de la santé en raison de leur compétence.
+
+Dix membres appartenant à l'administration, aux organismes intéressés et au corps médical :
+
+- le directeur général de la santé ou son représentant, président ;
+
+- le directeur des hôpitaux ou son représentant ;
+
+- le directeur de la sécurité sociale ou son représentant ;
+
+- le ministre de l'éducation nationale ou son représentant ;
+
+- le ministre du commerce, de l'artisanat et du tourisme ou son représentant ;
+
+- le ministre de l'économie, des finances et du budget ou son représentant ;
+
+- un médecin désigné par le ministre chargé de la santé, sur proposition du syndicat national des ophtalmologistes français ;
+
+- trois médecins désignés par le ministre chargé de la santé en raison de leur compétence.

@@ -1,7 +1,49 @@
 # Article 3
 
-La durée de la présente autorisation est fixée à seize ans à compter de l'ouverture du service sur le premier satellite français de radiodiffusion directe, telle que définie dans la convention entre la société et l'établissement public de diffusion.
+La commission des masseurs-kinésithérapeutes du Conseil supérieur des professions paramédicales comprend [*composition*] :
 
-Au cours de la troisième et de la quatrième année suivant l'ouverture du service, l'Etat pourra notifier à la société la réduction à huit ans, à compter de l'ouverture du service, de la durée totale de l'autorisation, dès lors que le système satellitaire TDF 1/TDF 2 ne serait pas suivi d'une deuxième génération de satellite de radiodiffusion directe et qu'aucun service équivalent ne pourrait être offert par l'Etat à la société par l'intermédiaire d'autres satellites.
+Dix membres appartenant à la profession désignés par le ministre chargé de la santé sur propositions respectives des organisations suivantes :
 
-La réduction de la durée de l'autorisation visée à l'alinéa ci-dessus n'ouvre à la société aucun droit à indemnité.
+- Fédération de la santé et de l'action sociale CGT ;
+
+- Fédération des personnels des services publics et des services de santé Force Ouvrière [*FO*] :
+
+- Fédération nationale des syndicats des services de santé et des services sociaux CFDT ;
+
+- Fédération nationale des syndicats chrétiens des services de santé et sociaux CFTC ;
+
+- Confédération générale des cadres [*CGC*] ;
+
+- Fédération française des masseurs-kinésithérapeutes rééducateurs FFMKR (2 membres) ;
+
+- syndicat national des masseurs-kinésithérapeutes rééducateurs SNMKR (deux membres) ;
+
+- union nationale des masseurs-kinésithérapeutes rééducateurs.
+
+- quatre membres appartenant à la profession désignés par le ministre chargé de la santé en raison de leur compétence dont :
+
+- un directeur ou directeur technique d'école de masso-kinésithérapie publique ou privée à but non lucratif ;
+
+- un directeur ou directeur technique de centre de rééducation ;
+
+- un masseur-kinésithérapeute responsable de formation professionnelle continue.
+
+- Douze membres appartenant à l'administration, aux organismes intéressés et au corps médical :
+
+- le directeur général de la santé ou son représentant, président ;
+
+- le directeur des hôpitaux ou son représentant ;
+
+- le directeur de la sécurité sociale ou son représentant ;
+
+- le directeur de l'action sociale ou son représentant ;
+
+- le ministre de l'éducation nationale ou son représentant ;
+
+- le ministre chargé de la jeunesse et des sports, ou son représentant ;
+
+- un médecin inspecteur régional de la santé ;
+
+- deux médecins désignés par le ministre chargé de la santé sur propositions respectives de la confédération des syndicats médicaux français et de la fédération des médecins de France ;
+
+- trois médecins désignés par le ministre chargé de la santé en raison de leur compétence.

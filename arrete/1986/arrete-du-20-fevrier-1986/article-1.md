@@ -1,7 +1,3 @@
 # Article 1
 
-Les coefficients de revalorisation des pensions déjà liquidées prévus par l'article 1er (par. 2) et l'article 2 de l'arrêté du 22 décembre 1983 sont fixés à :
-
-1,020 à compter du 1er janvier 1986 [*point de départ*] pour les pensions dont l'entrée en jouissance est antérieure à cette date ;
-
-1,015 à compter du 1er juillet 1986 pour les pensions dont l'entrée en jouissance est antérieure à cette date.
+La perception de la contre-valeur de la redevance pour détérioration de la qualité de l'eau émise par les agences financières de bassin fait l'objet d'une rémunération prévue à l'article 18 de l'arrêté du 28 octobre 1975 modifié du ministre de l'environnement et du cadre de vie, pris pour l'application des articles 3, 5, 6, 10, 11 et 15 du décret du 28 octobre 1975.

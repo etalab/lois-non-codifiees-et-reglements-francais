@@ -1,3 +1,3 @@
 # Article 1
 
-Est approuvée la convention conclue le 28 février 1984, entre l'établissement public de diffusion Télédiffusion de France et l'Agence Havas ainsi que les documents annexés à cette convention.
+Le premier seuil visé au quatrième alinéa de l'article 314 bis du code des marchés publics est fixé à 450.000 F.

@@ -8,4 +8,4 @@ Pour le calcul du complément de rémunération, les personnes handicapées sala
 
 Les handicapés salariés en centre de distribution de travail à domicile sont réputés avoir travaillé pendant la durée du travail mentionnée aux premier et deuxième alinéas du présent article [*présomption*].
 
-Le complément de rémunération n'est pas dû pour les périodes ayant donné lieu à une indemnisation au titre de l'assurance maladie.
+Pour les périodes ayant donné lieu à une indemnisation au titre de l'assurance maladie, le complément de rémunération est dû aux salariés handicapés qui bénéficient des avantages en matière d'indemnisation des absences pour maladie résultant de dispositions légales ou conventionnelles applicables à l'entreprise ou à l'atelier protégé dont ils sont les salariés.

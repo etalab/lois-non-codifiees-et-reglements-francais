@@ -1,9 +1,39 @@
 # Article 8
 
-En cas de méconnaissance des obligations imposées par la présente autorisation, l'Etat pourra retirer cette autorisation moyennant un préavis de soixante jours.
+La commission des audioprothésistes du Conseil supérieur des professions paramédicales comprend [*composition*] :
 
-L'Etat bénéficiera de la même faculté à compter de la mise en service opérationnelle du satellite TDF 1 en cas de non-diffusion, imputable à la société, de ses programmes, pendant une période supérieure à trente jours.
+Neuf membres appartenant à la profession désignés par le ministre chargé de la santé sur propositions respectives des organisations suivantes :
 
-En cas de violation grave des dispositions de l'article 7 ci-dessus, l'autorisation pourra être immédiatement suspendue.
+- fédération de la santé et de l'action sociale CGT ;
 
-Aucune indemnisation ne pourra être demandée par la société dans les cas de suspension ou de retrait prévu au présent article.
+- fédération des personnels des services publics et des services de santé Force Ouvrière [*FO*] ;
+
+- fédération nationale des syndicats des services de santé et des services sociaux CFDT ;
+
+- fédération nationale des syndicats chrétiens des services de santé et sociaux CFTC ;
+
+- confédération générale des cadres [*CGC*] ;
+
+- syndicat national unifié des audioprothésistes (deux membres) ;
+
+- fédération nationale des audioprothésistes français (deux membres).
+
+Deux membres appartenant à la profession désignés par le ministre chargé de la santé en raison de leur compétence.
+
+Dix membres appartenant à l'administration, aux organismes intéressés et au corps médical :
+
+- le directeur général de la santé ou son représentant, président ;
+
+- le directeur de l'action sociale ou son représentant ;
+
+- le directeur de la sécurité sociale ou son représentant ;
+
+- le ministre de l'éducation nationale ou son représentant ;
+
+- le ministre chargé des anciens combattants ou son représentant ;
+
+- le directeur de l'Institut national des jeunes sourds ou son représentant ;
+
+- deux médecins désignés par le ministre chargé de la santé sur propositions respectives de la confédération des syndicats médicaux français et de la fédération des médecins de France ;
+
+- deux médecins désignés par le ministre chargé de la santé en raison de leur compétence.

@@ -1,0 +1,5 @@
+# Article 16
+
+A l'égard du fonctionnaire détaché auprès d'une administration ou d'un établissement public de l'Etat dans un emploi conduisant à pension du code des pensions civiles et militaires de retraite ou pour l'accomplissement d'un stage ou d'une période de scolarité préalable à la titularisation dans un emploi permanent de l'Etat ou d'un établissement public de l'Etat, ou pour suivre un cycle de préparation à un concours donnant accès à l'un de ces emplois, le comité médical et la commission de réforme compétents sont ceux siégeant auprès de l'administration où le fonctionnaire exerce ses fonctions, selon les règles de compétence géographique prévues aux articles 14 et 13 ci-dessus.
+
+En cas de détachement auprès des collectivités territoriales et de leurs établissements publics, quel que soit l'emploi occupé, ou en cas de mise à disposition, le comité médical et la commission de réforme compétents sont ceux siégeant auprès de l'administration d'origine selon les règles de compétence géographique prévues aux articles 14 et 15 ci-dessus.
