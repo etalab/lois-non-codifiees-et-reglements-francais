@@ -1,0 +1,3 @@
+# Article 36
+
+Les membres de la commission administrative paritaire compétente à l'égard du corps des personnels administratifs supérieurs des services déconcentrés régis par le décret n° 62-512 du 13 avril 1962 modifié relatif au statut particulier du corps des personnels administratifs supérieurs des services extérieurs du ministère de l'équipement et du logement sont maintenus en fonction jusqu'à l'expiration de leur mandat. A cet effet, les représentants des grades d'attaché administratif, de chef adjoint de service administratif et de chef de service administratif exercent respectivement les compétences des représentants des grades d'attaché et d'attaché principal de 2e classe et de 1re classe créés par le présent décret.
