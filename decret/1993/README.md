@@ -174,7 +174,6 @@
 - [Décret n°93-31 du 8 janvier 1993 (VILX9200253D)](decret-n93-31-du-8-janvier-1993-vilx9200253d)
 - [Décret n°93-318 du 8 mars 1993 (MENZ9304361D)](decret-n93-318-du-8-mars-1993-menz9304361d)
 - [Décret n°93-319 du 8 mars 1993 (MENT9304497D)](decret-n93-319-du-8-mars-1993-ment9304497d)
-- [Décret n°93-32 du 8 janvier 1993 (PTTS9200520D)](decret-n93-32-du-8-janvier-1993-ptts9200520d)
 - [Décret n°93-321 du 8 mars 1993 (MENN9204691D)](decret-n93-321-du-8-mars-1993-menn9204691d)
 - [Décret n°93-33 du 8 janvier 1993 (MERP9200054D)](decret-n93-33-du-8-janvier-1993-merp9200054d)
 - [Décret n°93-778 du 8 avril 1993 (PRMX9300048D)](decret-n93-778-du-8-avril-1993-prmx9300048d)
