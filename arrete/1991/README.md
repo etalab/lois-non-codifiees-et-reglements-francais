@@ -34,7 +34,6 @@
 - [Arrêté du 1 octobre 1991 (AGRA9102111A)](arrete-du-1-octobre-1991-agra9102111a)
 - [Arrêté du 1 octobre 1991 (DEFD9102010A)](arrete-du-1-octobre-1991-defd9102010a)
 - [Arrêté du 1 octobre 1991 (DEFD9102014A)](arrete-du-1-octobre-1991-defd9102014a)
-- [Arrêté du 1 octobre 1991 (JUSA9100224A)](arrete-du-1-octobre-1991-jusa9100224a)
 - [Arrêté du 1 octobre 1991 (SANH9102284A)](arrete-du-1-octobre-1991-sanh9102284a)
 - [Arrêté du 2 août 1991 (RESY9100155A)](arrete-du-2-aout-1991-resy9100155a)
 - [Arrêté du 2 avril 1991 (BUDF9120418A)](arrete-du-2-avril-1991-budf9120418a)
