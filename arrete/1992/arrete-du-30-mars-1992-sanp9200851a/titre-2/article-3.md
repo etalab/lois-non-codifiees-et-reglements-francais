@@ -19,5 +19,3 @@ Les directeurs doivent remplir les conditions suivantes :
 - certificat de cadre infirmier de secteur psychiatrique ;
 
 - certificat de moniteur de formation professionnelle du personnel soignant de secteur psychiatrique ;
-
-- avoir exercé effectivement des fonctions d'enseignement dans un centre de formation en soins infirmiers ou dans une école de cadres pendant trois ans au minimum après l'obtention d'un des titres susvisés.
