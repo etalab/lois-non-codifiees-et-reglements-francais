@@ -22,6 +22,8 @@ Cours d'eau de 2ème catégorie.
 
 9° La retenue du barrage de Vassivière sur la Maulde, délimitée par la courbe de niveau de 650 mètres d'altitude.
 
+10° Le plan d'eau de Courtille, du ruisseau de Fayolle jusqu'en aval du pont de la route de Fayolle.
+
 Cours d'eau de 1ère catégorie.
 
 (Salmonidés dominants).

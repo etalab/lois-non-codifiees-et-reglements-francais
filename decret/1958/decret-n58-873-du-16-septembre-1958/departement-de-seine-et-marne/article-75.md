@@ -18,6 +18,12 @@ Cours d'eau de 1ère catégorie.
 
 7° Les affluents et sous-affluents des cours d'eau ou portions de cours d'eau situés dans le département et désignés ci-avant.
 
+8° Le Durteint et la Fausse Rivière sur l'intégralité de leurs parcours ;
+
+9° Le Dragon sur la totalité de son parcours ;
+
+10° La Voulzie, la section située en amont du moulin de l'Etang (commune de Provins).
+
 Cours d'eau de 2ème catégorie.
 
 (Cyprinidés dominants).

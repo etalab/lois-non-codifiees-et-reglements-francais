@@ -22,6 +22,8 @@ Cours d'eau de 2ème catégorie.
 
 9° L'Asse ;
 
+10° La Glane entre le pont de Dérot et son confluent avec la Vienne.
+
 Cours d'eau de 1ère catégorie.
 
 (Salmonidés dominants).

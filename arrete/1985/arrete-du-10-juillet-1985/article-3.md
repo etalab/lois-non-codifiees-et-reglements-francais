@@ -1,3 +1,3 @@
 # Article 3
 
-Un arrêté conjoint du ministre des affaires sociales et de la solidarité nationale, porte-parole du Gouvernement, et du ministre du travail, de l'emploi et de la formation professionnelle instituera une formation spécialisée commune aux deux ministères chargée de promouvoir le développement et de veiller à la bonne utilisation du centre de calcul commun. Cet arrêté déterminera la composition et les règles de fonctionnement de cette formation spécialisée commune ainsi que les conditions dans lesquelles elle rendra compte de ses travaux aux commissions ministérielles de l'informatique et de la bureautique de chacun des ministères.
+Le secrétariat de la commission est assuré par la direction de la sécurité sociale.

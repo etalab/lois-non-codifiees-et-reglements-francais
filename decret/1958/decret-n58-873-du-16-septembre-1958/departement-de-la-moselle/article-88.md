@@ -4,9 +4,9 @@ Cours d'eau de 1ère catégorie.
 
 (Salmonidés dominants.)    1° La Sarre-Blanche, en amont de son confluent avec la Sarre-Rouge ;
 
-2° La Sarre-Rouge, en amont du moulin de la Forge (commune d'Imling) ;
+2° La Sarre-Rouge, en amont de son confluent avec la Sarre Blanche ;
 
-3° La Bièvre, en amont du pont le plus proche de la gare de Hartzwiller ;
+3° La Bièvre ;
 
 4° La Zorn, affluent du Rhin ;
 
@@ -49,6 +49,8 @@ Cours d'eau de 1ère catégorie.
 23° La Voise (affluent de la Vezouze).
 
 24° Les affluents et sous-affluents des cours d'eau ou portions de cours d'eau situés dans le département et désignés ci-avant.
+
+25° La Sarre, depuis le confluent de la Sarre et de la Sarre Blanche, jusqu'au Moulin de la Forge (commune d'Imling).
 
 Cours d'eau de 2ème catégorie.
 

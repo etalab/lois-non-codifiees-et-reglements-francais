@@ -12,6 +12,8 @@ Cours d'eau de 1ère catégorie.
 
 4° Les affluents et sous-affluents des cours d'eau ou portions de cours d'eau situés dans le département et désignés ci-avant.
 
+8° L'Ouatier et ses affluents, de son confluent avec la rivière de l'Yèvre à sa source.
+
 Cours d'eau de 2ème catégorie.
 
 (Cyprinidés dominants).

@@ -16,7 +16,7 @@ Cours d'eau de 2ème catégorie.
 
 6° La Maronne, en aval du confluent avec le ruisseau Marty, et ses affluents, pour les parties comprises dans les lacs de retenue du Gour-Noir et d'Enchanet ;
 
-7° La Cère, entre le pont de Maudour (limite amont de la retenue du barrage de Saint-Etienne-Cantalès) et le barrage de Nêpes ; l'Authre, en aval du rocher des Blaireaux, sur le territoire de la commune de Lacapelle-Viescamp.
+7° La Cère, entre le confluent du ruisseau de la Palisse, 300 mètres au-dessus du Pont de Maudour (limite amont de la retenue du barrage de Saint-Etienne-Cantalès) et le barrage de Nêpes ;
 
 8° La retenue hydro-électrique de Lestouilles.
 

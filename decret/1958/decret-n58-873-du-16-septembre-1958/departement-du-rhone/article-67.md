@@ -22,6 +22,8 @@ Cours d'eau de 2ème catégorie.
 
 9° Le canal de Jonage, le canal de Givors.
 
+10° Le plan d'eau de Combe Gibert, communes d'Orliénas et de Taluyers.
+
 Cours d'eau de 1ère catégorie.
 
 (Salmonidés dominants).

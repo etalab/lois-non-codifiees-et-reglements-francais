@@ -34,6 +34,8 @@ Cours d'eau de 1ère catégorie.
 
 15° Les affluents et sous-affluents des cours d'eau ou portions de cours d'eau situés dans le département et désignés ci-avant, sauf la Vandenesse, en amont du barrage de Crugey.
 
+16° La retenue du barrage de Chamsous sur le Ternin et la section du Ternin sur 300 mètres en amont de la retenue.
+
 Cours d'eau de 2ème catégorie.
 
 (Cyprinidés dominants).

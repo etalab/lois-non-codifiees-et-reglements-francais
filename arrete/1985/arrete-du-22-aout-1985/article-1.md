@@ -1,3 +1,3 @@
 # Article 1
 
-Les conventions de conversion conclues entre l'Etat et les entreprises en application de l'article R. 322-1 (5°) du code du travail doivent être conformes à la convention type annexée au présent arrêté.
+La formation spécialisée Sécurité sociale, prévue à l'article 12 de l'arrêté du 11 juillet 1985 susvisé, est constituée et fonctionne conformément aux dispositions de l'arrêté du 10 juillet 1985 susvisé.

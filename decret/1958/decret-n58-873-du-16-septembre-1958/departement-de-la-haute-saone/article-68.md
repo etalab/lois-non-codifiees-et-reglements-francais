@@ -28,6 +28,8 @@ Cours d'eau de 1ère catégorie.
 
 12° Les affluents et sous-affluents des cours d'eau ou portions de cours d'eau situés dans le département et désignés ci-avant.
 
+16° La Morthe et ses affluents à partir du pont routier du C.D. 185 en amont de la commune de Citey.
+
 Cours d'eau de 2ème catégorie.
 
 (Cyprinidés dominants).

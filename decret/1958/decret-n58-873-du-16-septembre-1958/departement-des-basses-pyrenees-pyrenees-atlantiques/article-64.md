@@ -10,7 +10,7 @@ Cours d'eau de 1ère catégorie.
 
 l'Ousse des Bois, le ruisseau de Laulouze, l'Agle, la Geüle, le Lacaou, le Clamonde, le Menaut ;
 
-3° Les affluents R.G. du gave de Pau ci-après désignés : la Baïse de Lasseube, en amont du pont de Pardies ; la Baïse de Monein et la Baylongue, en amont de leur confluent (pont d'Ucha) ; le Luzoué, en amont du pont de Mourenx ; le Geü, en amont de la digue de Dulac (commune de Maslacq) ; la Laa, en amont de Laa-Mondrans ;
+3° La Baïse de Monein ou Baysere du pont d'Ucha, sur le chemin vicinal 39, jusqu'au pont Noir situé sur la départementale n° 2 ;
 
 4° Les gaves d'Aspe et d'Ossau, le gave d'Oloron, en amont du pont de chemin de fer de Castagnède.
 

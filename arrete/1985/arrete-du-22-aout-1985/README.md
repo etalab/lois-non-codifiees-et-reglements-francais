@@ -1,4 +1,4 @@
-# Arrêté du 22 août 1985 fixant les modalités des concours pour l'accès aux emplois de moniteur ou monitrice des écoles de cadres et des écoles de sages-femmes relevant des établissements d'hospitalisation publics.
+# Arrêté du 22 août 1985 relatif à la commission compétente pour les projets informatiques et bureautiques des organismes de sécurité sociale.
 
 - [Article 1](article-1.md)
 - [Titre Ier : Moniteurs, monitrices des écoles de cadres de sages-femmes](titre-ier)

@@ -32,6 +32,8 @@ Cours d'eau de 2ème catégorie.
 
 14° La Teysonne, en aval du moulin de Sarrot (commune de Changy) ;    15° Le canal de Givors ; le canal de Roanne à Digoin ; le canal du Forez.
 
+16e La Valencize depuis le pont de la R.N. 86 jusqu'à son confluent avec le Rhône.
+
 Cours d'eau de 1ère catégorie.
 
 (Salmonidés dominants).

@@ -276,6 +276,7 @@
 - [Décret n°85-926 du 30 août 1985](decret-n85-926-du-30-aout-1985)
 - [Décret n°85-927 du 30 août 1985](decret-n85-927-du-30-aout-1985)
 - [Décret n°85-932 du 30 août 1985](decret-n85-932-du-30-aout-1985)
+- [Décret n°85-942 du 30 août 1985](decret-n85-942-du-30-aout-1985)
 - [Décret n°85-560 du 30 mai 1985](decret-n85-560-du-30-mai-1985)
 - [Décret n°85-565 du 30 mai 1985](decret-n85-565-du-30-mai-1985)
 - [Décret du 31 décembre 1984](decret-du-31-decembre-1984)

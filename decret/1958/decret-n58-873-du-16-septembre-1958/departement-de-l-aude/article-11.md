@@ -24,7 +24,7 @@ Cours d'eau de 1ère catégorie.
 
 10° La Dure et l'Alzau, en amont de leur confluent et le bassin de Saint-Denis ;
 
-11° Le Lampy, en amont de la digue du barrage-réservoir de Cenne-Monestiés, le réservoir du Lampy ;
+11° Le Lampy du barrage de Cenne-Monestiés jusqu'à l'usine Cayre ;
 
 12° La Bernassonne, en amont du hameau de Villelongue (commune de Saissac), le Tenten, en amont du château de Ferrals (commune de Verdun) ;
 

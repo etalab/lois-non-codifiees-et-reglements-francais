@@ -22,6 +22,8 @@ Cours d'eau de 1ère catégorie.
 
 9° Les affluents et sous-affluents des cours d'eau ou portions de cours d'eau situés dans le département et désignés ci-avant.
 
+10° La Pallu.
+
 Cours d'eau de 2ème catégorie.
 
 (Cyprinidés dominants).
