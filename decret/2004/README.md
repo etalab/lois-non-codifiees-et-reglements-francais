@@ -32,6 +32,8 @@
 - [Décret n°2004-112 du 6 février 2004 (PRMX0300220D)](decret-n2004-112-du-6-fevrier-2004-prmx0300220d)
 - [Décret n°2004-113 du 6 février 2004 (PRMX0400023D)](decret-n2004-113-du-6-fevrier-2004-prmx0400023d)
 - [Décret n°2004-116 du 6 février 2004 (MENX0300207D)](decret-n2004-116-du-6-fevrier-2004-menx0300207d)
+- [Décret n°2004-118 du 6 février 2004 (SANH0325144D)](decret-n2004-118-du-6-fevrier-2004-sanh0325144d)
+- [Décret n°2004-120 du 6 février 2004 (SPRK0470008D)](decret-n2004-120-du-6-fevrier-2004-sprk0470008d)
 - [Décret n°2004-17 du 6 janvier 2004 (INTB0300305D)](decret-n2004-17-du-6-janvier-2004-intb0300305d)
 - [Décret n°2004-18 du 6 janvier 2004 (INTF0300300D)](decret-n2004-18-du-6-janvier-2004-intf0300300d)
 - [Décret n°2004-20 du 6 janvier 2004 (SANS0324520D)](decret-n2004-20-du-6-janvier-2004-sans0324520d)

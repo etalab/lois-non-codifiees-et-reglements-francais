@@ -1,8 +1,8 @@
 # Article 2
 
-Le Répertoire national interrégimes des bénéficiaires de l'assurance maladie ne contient, pour chaque bénéficiaire ou ancien bénéficiaire, que les catégories d'informations mentionnées à l'article R. 161-35 du code de la sécurité sociale, rappelées ci-dessous :
+Le répertoire national interrégimes des bénéficiaires de l'assurance maladie ne contient, pour chaque bénéficiaire ou ancien bénéficiaire, que les catégories d'informations mentionnées à l'article R. 161-35 du code de la sécurité sociale, à savoir :
 
-1° Son numéro d'inscription au Répertoire national d'identification des personnes physiques et celui ou ceux qui lui auraient été précédemment attribués ;
+1° Son numéro d'inscription au répertoire national d'identification des personnes physiques et celui ou ceux qui lui auraient été précédemment attribués ;
 
 2° Son nom patronymique, son nom d'usage le cas échéant, et ses prénoms ;
 
@@ -24,6 +24,14 @@ Afin d'assurer un bon fonctionnement du dispositif, les messages échangés rela
 
 - un numéro d'identification des personnes propre à l'organisme d'assurance maladie.
 
-L'organisme gestionnaire du Répertoire national interrégimes des bénéficiaires de l'assurance maladie peut consulter en tant que de besoin les informations d'identification contenues dans le Répertoire national d'identification des personnes physiques ou le Système national de gestion des identifiants, gérés respectivement par l'Institut national de la statistique et des études économiques et par la Caisse nationale d'assurance vieillesse des travailleurs salariés.
+L'organisme gestionnaire du répertoire national interrégimes des bénéficiaires de l'assurance maladie peut en tant que de besoin consulter les informations d'identification contenues dans le répertoire national d'identification des personnes physiques ou le système national de gestion des identifiants, respectivement gérés par l'Institut national de la statistique et des études économiques et par la Caisse nationale d'assurance vieillesse des travailleurs salariés.
 
-Les informations échangées entre le Répertoire national interrégimes des bénéficiaires de l'assurance maladie et les organismes utilisateurs sont transmises sous la forme de fichiers ou de messages, sur support magnétique ou par réseau de télécommunication. Les organismes utilisateurs ne disposent pas d'accès direct en mode transactionnel au Répertoire national interrégimes des bénéficiaires de l'assurance maladie.
+Les informations échangées entre le répertoire national interrégimes des bénéficiaires de l'assurance maladie et les organismes utilisateurs sont transmises sous la forme de fichiers électroniques ou en accès direct.
+
+En accès direct, sont mis en oeuvre les sécurités et moyens de contrôle suivants :
+
+- chaque agent fait l'objet de procédures d'identification et d'authentification pour accéder au répertoire ;
+
+- des mesures techniques garantissent une connexion au répertoire dans un cadre professionnel ;
+
+- des dispositifs de journalisation sont mis en oeuvre et exploités en vue de permettre un contrôle a posteriori de l'utilisation du répertoire.
