@@ -32,27 +32,27 @@ b) Les communes qui ont bénéficié, au titre de l'année précédente, d'une a
 
 En 1995, la compensation versée aux communes progresse comme l'indice prévisionnel du prix de la consommation des ménages (hors tabac) figurant dans la projection économique annexée au projet de loi de finances. La différence avec le montant résultant de l'application du quatrième alinéa est affectée au fonds national de péréquation institué à l'article 1648 B bis du code général des impôts.
 
-Pour chacune des années 1996, 1997 et 1998, le taux d'évolution de la dotation instituée au premier alinéa du présent paragraphe est celui qui permet, compte tenu du montant total des autres dotations à structure constante, de respecter la norme d'évolution fixée au I de l'article 32 de la loi de finances pour 1996 (n° 95-1346 du 30 décembre 1995).
+Pour chacune des années 1996, 1997 et 1998, le montant de la dotation instituée par le premier alinéa du présent IV est celui qui permet, compte tenu du montant total des autres dotations à structure constante, de respecter la norme d'évolution fixée au I de l'article 32 de la loi de finances pour 1996 (n° 95-1346 du 30 décembre 1995), majoré de 300 millions de francs.
 
 Alinéa modificateur
 
 IV bis. - A compter de 1992, la dotation prévue au premier alinéa du IV est majorée afin de compenser, dans les conditions ci-après, la perte de recettes qui résulte, chaque année, pour les collectivités locales et leurs groupements dotés d'une fiscalité propre créés avant le 1er janvier 1987, des dispositions de l'article 1469 A bis et du dernier alinéa du II de l'article 1478 du code général des impôts.
 
-La compensation versée en application de l'alinéa précédent est égale au produit obtenu en multipliant la perte de bases résultant, chaque année et pour chaque collectivité bénéficiaire, des dispositions de l'article 1469 A bis et du dernier alinéa du II de l'article 1478 du code général des impôts, par le taux de taxe professionnelle de la collectivité ou du groupement pour 1986 multiplié par 0,960.
+La compensation prévue à l'alinéa précédent est égale au produit obtenu en multipliant la perte de bases résultant, chaque année et pour chaque collectivité bénéficiaire, des dispositions de l'article 1469 A bis et du dernier alinéa du II de l'article 1478 du code général des impôts, par le taux de taxe professionnelle de la collectivité ou du groupement pour 1986 multiplié par 0,960.
 
 Cette compensation est diminuée d'un montant égal à 2 p. 100 des recettes fiscales de la collectivité ou du groupement bénéficiaire, sauf pour :
 
 a) Les collectivités locales et leurs groupements dont les bases de taxe professionnelle par habitant sont, l'année précédente, inférieures à la moyenne des bases de taxe professionnelle par habitant constatée la même année pour les collectivités ou groupements de même nature ;
 
-b) Les communes qui remplissent, au titre de l'année précédente, les conditions d'éligibilité à la dotation de solidarité urbaine prévue au titre Ier de la loi n° 91-429 du 13 mai 1991 instituant une dotation de solidarité urbaine et un fonds de solidarité des communes de la région d'Ile-de-France, réformant la dotation globale de fonctionnement des communes et des départements et modifiant le code des communes ;
+b) Les communes qui remplissent, au titre de l'année précédente ou de la pénultième année, les conditions d'éligibilité à la dotation de solidarité urbaine prévue aux articles L. 2334-15 à L. 2334-19 du code général des collectivités territoriales ;
 
-c) Les communes de moins de 10 000 habitants dont le nombre de logements sociaux tels que définis au 3° de l'article L. 234-10 du code des communes est, l'année précédente, supérieur à 1 700 ;
+c) Les communes de moins de 10 000 habitants dont le nombre de logements sociaux tels que définis au sixième alinéa de l'article L. 2334-17 du code général des collectivités territoriales est, l'année précédente, supérieur à 1 445 ;
 
-d) Les communes de 10 000 habitants et plus dans lesquelles le rapport entre le nombre de logements sociaux tels que définis au 3° de l'article L. 234-10 du code des communes et la population de la commune telle qu'elle résulte des recensements généraux ou complémentaires est, l'année précédente, supérieur à 17 p. 100 ;
+d) Les communes de 10 000 habitants et plus dans lesquelles le rapport entre le nombre de logements sociaux tels que définis au sixième alinéa de l'article L. 2334-17 du code général des collectivités territoriales et la population de la commune telle qu'elle résulte des recensements généraux et complémentaires est, l'année précédente, supérieur à 14,45 p. 100 ;
 
-e) Les communes qui remplissent, au titre de l'année précédente, les conditions d'éligibilité aux attributions du fonds de solidarité des communes de la région d'Ile-de-France institué par l'article 14 de la loi n° 91-429 du 13 mai 1991 précitée ;
+e) Les communes bénéficiaires, au titre de l'année précédente ou de la pénultième année, d'une attribution du Fonds de solidarité des communes de la région d'Ile-de-France institué par les articles L. 2531-12 à L. 2531-16 du code général des collectivités territoriales ;
 
-f) Les départements qui remplissent, au titre de l'année précédente, les conditions d'éligibilité au mécanisme de solidarité financière institué par l'article 18 de la loi n° 91-429 du 13 mai 1991 précitée.
+f) Les départements qui remplissent, au titre de l'année précédente ou de la pénultième année, les conditions d'éligibilité au mécanisme de solidarité financière institué par l'article L. 3334-8 du code général des collectivités territoriales.
 
 Pour les groupements dont les bases de taxe professionnelle par habitant sont supérieures à la moyenne nationale des groupements de même nature et qui comprennent des communes visées aux b à e ci-dessus, la compensation est diminuée d'un montant égal à 2 p. 100 des recettes fiscales du groupement multiplié par le rapport entre, d'une part, la population des communes membres du groupement autres que celles visées aux b à e ci-dessus et, d'autre part, la population totale du groupement.
 

@@ -1,0 +1,3 @@
+# Article 122
+
+Sous réserve des décisions de justice passées en force de chose jugée, les contrôles engagés par les services déconcentrés de la direction générale des impôts avant l'entrée en vigueur du décret n° 96-804 du 12 septembre 1996 et des arrêtés du 12 septembre 1996 régissant leur compétence ainsi que les titres exécutoires émis à la suite de ces contrôles pour établir les impositions sont réputés réguliers en tant qu'ils seraient contestés par le moyen tiré de l'incompétence territoriale ou matérielle des agents qui ont effectué ces contrôles ou délivré ces titres à la condition que ces contrôles aient été effectués conformément aux règles de compétence fixées par les textes précités.

@@ -1,0 +1,13 @@
+# Article 6
+
+Les installations sont en principe conçues, équipées et exploitées de manière à ce que les gaz provenant de la combustion des déchets soient portés, même dans les conditions les plus défavorables, après la dernière injection d'air de combustion, d'une façon contrôlée et homogène, à une température d'au moins 850 °C, obtenue sur la paroi intérieure de la chambre de combustion ou à proximité de cette paroi, pendant au moins deux secondes en présence d'au moins 6 p. 100 d'oxygène. Si les déchets incinérés ont une teneur en substances organiques halogénées, exprimées en chlore, supérieure à 1 p. 100, la température doit être amenée à 1 100 °C au minimum.
+
+Cette température doit être mesurée en continu.
+
+Toutefois, si l'analyse des effets prévisibles, directs et indirects, temporaires et permanents, de l'installation sur l'environnement montre que les obligations fixées aux articles 11, 17 et 22 peuvent être respectées, une teneur en oxygène différente peut être fixée par l'arrêté préfectoral d'autorisation, qui doit, au préalable, avoir fait l'objet d'un avis du Conseil supérieur des installations classées.
+
+Les installations sont conçues, équipées et exploitées de manière à assurer, lorsque la chambre de combustion n'est alimentée qu'avec des déchets liquides ou un mélange de substances gazeuses et de substances solides pulvérisées résultant d'un traitement thermique préalable, en déficit d'oxygène, de déchets industriels spéciaux, et lorsque la partie gazeuse représente plus de 50 p. 100 de la chaleur totale dégagée, une teneur en oxygène après la dernière injection d'air de combustion d'au moins 3 p. 100.
+
+Toutes les installations sont équipées de brûleurs, ou de tout dispositif équivalent, qui s'enclenchent automatiquement lorsque la température des gaz de combustion, après la dernière injection d'air de combustion, tombe en dessous de la température correspondante fixée ci-dessus. Elles sont également équipées d'un mécanisme automatique d'arrêt de l'alimentation en déchet, asservi à la mesure de la température de combustion définie plus haut et de certaines mesures réalisées sur les rejets atmosphériques de l'installation et précisées ci-dessous.
+
+La teneur en carbone organique total des mâchefers issus de l'incinération des déchets ne doit pas dépasser 2,5 p. 100. Cette teneur sera analysée selon les normes en vigueur, et notamment conformément à la norme NF ISO 10694 (X 31 409) de juin 1995 sur la qualité du sol et relative à la détermination du carbone organique et du carbone total après combustion sèche, ou, à défaut, selon les bonnes pratiques en la matière. Les normes en vigueur dans les autres Etats membres de l'Union européenne peuvent également être utilisées, dès lors qu'elles sont équivalentes.

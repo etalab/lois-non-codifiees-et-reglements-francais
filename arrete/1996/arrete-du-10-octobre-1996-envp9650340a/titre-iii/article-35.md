@@ -1,0 +1,5 @@
+# Article 35
+
+L'activité principale de l'installation doit permettre un niveau d'incinération aussi complet que possible, tout en limitant les émissions dans l'environnement, notamment par la mise en oeuvre de technologies propres et l'utilisation de techniques de valorisation et de traitement des effluents et des déchets produits, selon les meilleures technologies disponibles à un coût économiquement acceptable et en tenant compte des caractéristiques particulières de l'environnement d'implantation. L'analyse des effets directs et indirects, temporaires et permanents, de l'installation sur l'environnement contient notamment des bilans prévisionnels de la répartition dans l'air, l'eau, les résidus et le produit de l'activité principale de l'installation du chlore, du soufre, des métaux lourds et de toute substance due à l'incinération des déchets. Le cas échéant, cette analyse compare lesdits effets lorsque l'installation incinère des déchets ou lorsqu'elle ne le fait pas.
+
+La coïncinération de déchets industriels spéciaux dans une installation d'incinération de déchets ménagers et assimilés est interdite.

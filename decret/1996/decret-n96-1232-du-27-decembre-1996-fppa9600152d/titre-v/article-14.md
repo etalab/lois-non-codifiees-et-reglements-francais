@@ -1,0 +1,3 @@
+# Article 14
+
+Le remboursement du revenu de remplacement mentionné aux articles 24, 28, 36 et 39 de la loi susvisée est versé aux collectivités et établissements concernés sur production d'une demande de remboursement à laquelle sont joints les pièces justificatives de la mise en congé de fin d'activité, un document certifiant que les sommes demandées sont conformes à celles ordonnancées auprès du comptable assignataire du revenu de remplacement ainsi que toute pièce justifiant que l'attribution du congé de fin d'activité a donné lieu à recrutement, conformément aux deuxième et troisième alinéas de l'article 45 de ladite loi.

@@ -1,0 +1,15 @@
+# Article 38
+
+Les installations sont en principe conçues, équipées et exploitées de manière que les gaz provenant de la combustion des déchets soient portés, même dans les conditions les plus défavorables, après la dernière injection d'air de combustion, d'une façon contrôlée et homogène à une température d'au moins 850 °C, obtenue sur la paroi intérieure de la chambre de combustion ou à proximité de cette paroi, pendant au moins deux secondes, en présence d'au moins 6 p. 100 d'oxygène. Si les déchets incinérés ont une teneur en substances organiques halogénées, exprimée en chlore, supérieure à 1 p. 100, la température doit être amenée à 1 100 °C au minimum. La mesure de cette température doit être effectuée en continu.
+
+Toutefois, si l'analyse des effets prévisibles, directs et indirects, temporaires et permanents, de l'installation sur l'environnement montre que les obligations fixées aux articles 17, 22 et 43 peuvent être respectées, une teneur en oxygène différente peut être fixée par l'arrêté préfectoral d'autorisation qui doit, au préalable, avoir fait l'objet d'un avis du conseil supérieur des installations classées.
+
+Les installations sont conçues, équipées et exploitées de manière à assurer, lorsque la chambre de combustion n'est alimentée qu'avec des déchets liquides ou un mélange de substances gazeuses et de substances solides pulvérisées résultant d'un traitement thermique préalable, en déficit d'oxygène, de déchets industriels spéciaux, et lorsque la partie gazeuse représente plus de 50 p. 100 de la chaleur totale dégagée, une teneur en oxygène après la dernière injection d'air de combustion d'au moins 3 p. 100.
+
+L'arrêté préfectoral d'autorisation fixe les points d'introduction des déchets dans le procédé en fonction de l'analyse des effets directs et indirects, temporaires et permanents, de l'installation sur l'environnement. Quel que soit le point d'introduction, les gaz provenant de la combustion des déchets doivent être portés aux températures fixées au premier alinéa de cet article pendant au moins deux secondes.
+
+Toutes les installations sont équipées d'un mécanisme automatique d'arrêt de l'alimentation en déchets, asservi à la mesure de la température de combustion définie plus haut et de certaines mesures réalisées sur les rejets atmosphériques de l'installation et précisés ci-dessous.
+
+L'analyse des effets directs et indirects, temporaires et permanents, de l'installation sur l'environnement lorsqu'elle incinère des déchets doit en préciser les conséquences sur les caractéristiques des déchets que le procédé génère et les conditions correspondantes de leur élimination. L'arrêté préfectoral d'autorisation précise celles-ci.
+
+Pour les cimenteries, une teneur en oxygène inférieure à 6 p. 100 est admise et ne fait donc pas l'objet d'un avis du Conseil supérieur des installations classées. Toutefois, si des déchets sont incinérés ailleurs qu'au brûleur principal, une teneur en oxygène de 3 p. 100 doit être garantie au point d'introduction. Les déchets contenant plus de 1 p. 100 en chlore ne peuvent être incinérés dans ces installations qu'au brûleur principal.

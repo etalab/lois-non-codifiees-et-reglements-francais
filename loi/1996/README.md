@@ -14,6 +14,8 @@
 - [Loi n° 96-1139 du 26 décembre 1996 (AGRX9600125L)](loi-n-96-1139-du-26-decembre-1996-agrx9600125l)
 - [Loi n° 96-1143 du 26 décembre 1996 (AVIX9600141L)](loi-n-96-1143-du-26-decembre-1996-avix9600141l)
 - [Loi n° 96-1160 du 27 décembre 1996 (TASX9600117L)](loi-n-96-1160-du-27-decembre-1996-tasx9600117l)
+- [Loi n° 96-1181 du 30 décembre 1996 (ECOX9600105L)](loi-n-96-1181-du-30-decembre-1996-ecox9600105l)
+- [Loi n° 96-1182 du 30 décembre 1996 (ECOX9600138L)](loi-n-96-1182-du-30-decembre-1996-ecox9600138l)
 - [Loi n° 96-126 du 21 février 1996 (TEFX9500150L)](loi-n-96-126-du-21-fevrier-1996-tefx9500150l)
 - [Loi n° 96-127 du 21 février 1996 (MAEX9500019L)](loi-n-96-127-du-21-fevrier-1996-maex9500019l)
 - [Loi n° 96-128 du 21 février 1996 (MAEX9500098L)](loi-n-96-128-du-21-fevrier-1996-maex9500098l)

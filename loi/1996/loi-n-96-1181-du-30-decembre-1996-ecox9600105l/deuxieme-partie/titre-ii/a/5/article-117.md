@@ -1,0 +1,3 @@
+# Article 117
+
+Le Gouvernement présentera au Parlement, avant le 30 juin 1997, un rapport sur les modalités actuelles du calcul de la puissance fiscale des véhicules automobiles et sur l'impact de cette réglementation sur les recettes de la taxe sur les véhicules des sociétés, de la taxe différentielle sur les véhicules à moteur et de la taxe sur les certificats d'immatriculation des véhicules. Ce rapport devra également examiner les conditions d'une modification de ces règles de calcul de façon à prendre en compte les caractéristiques techniques des différentes catégories de véhicules automobiles et à tendre vers la neutralité.
