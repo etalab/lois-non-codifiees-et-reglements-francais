@@ -1,0 +1,3 @@
+# 33° INFECTIONS D'ORIGINE PROFESSIONNELLE PAR LES VIRUS DES HÉPATITES A, B, C, D ET E
+
+- [Article Tableau 33](article-tableau-33.md)

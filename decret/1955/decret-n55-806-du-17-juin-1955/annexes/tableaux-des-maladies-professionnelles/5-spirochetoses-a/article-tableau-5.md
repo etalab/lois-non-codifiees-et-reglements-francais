@@ -1,75 +1,35 @@
 # Article Tableau 5
 
-DESIGNATION DES MALADIES
+DÉSIGNATION DES MALADIES
 
-A. - Toutes leptospiroses confirmées par un examen spécifique (identification du germe ou sérodiagnostic à un taux considéré comme significatif).
+Toute manifestation clinique de leptospirose provoquée par Leptospira interrogans.
 
-DELAI de prise en charge : 21 jours
+La maladie doit être confirmée par identification du germe ou à l'aide d'un sérodiagnostic d'agglutination, à un taux considéré comme significatif.
 
-LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies:
+DÉLAI de prise en charge
 
-Travaux exposant au contact d'eaux souillées ou effectués dans des lieux susceptibles d'être souillés par des déjections d'animaux porteurs de germes.
+21 jours
 
-Travaux exposant au contact avec ces animaux ou leurs déjections :
+LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES
 
-- travaux effectués dans les tranchées, les tunnels, les galeries, les égouts, les caves, les chais et les souterrains ;
+de provoquer ces maladies
 
-- travaux d'aménagement et d'entretien des cours d'eau ;
+Travaux suivants exposant au contact d'animaux susceptibles d'être porteurs de germe et effectués notamment au contact d'eau ou dans des lieux humides susceptibles d'être souillés par leurs déjections :
 
-- travaux de drainage ;
+- travaux effectués dans les tranchées, les tunnels, les galeries, les souterrains ;
 
-- travaux effectués dans les abattoirs, les tueries particulières, les boucheries, les chantiers d'équarrissage ;
+- travaux effectués dans les égouts, les caves, les chais ;
 
-- travaux effectués dans les usines de délainage ;
+- travaux d'entretien des cours d'eau, canaux, marais, étangs et lacs, bassins de réserve et de lagunage ;
 
-- travaux effectués dans les cuisines, les fabriques de conserves de viande ou de poissons ;
+- travaux d'entretien et de surveillance des parcs aquatiques ;
 
-- travaux effectués dans les laiteries, les fromageries.
+- travaux de drainage, de curage des fossés, de pose de canalisation d'eau ou d'égout, d'entretien et vidange des fosses et citernes de récupération de déchets organiques ;
 
-DESIGNATION DES MALADIES
+- travaux effectués dans les laiteries, les fromageries, les poissonneries, les cuisines, les fabriques de conserves alimentaires, les brasseries, les fabriques d'aliments du bétail ;
 
-B. - Spirochétoses à tiques :
+- travaux effectués dans les abattoirs, les chantiers d'équarrissage, travaux de récupération et exploitation du 5e quartier des animaux de boucherie ;
 
-- manifestations primaires :
+- travaux de dératisation ;
 
-- érythème migrant de Lipschutz, avec ou sans signes généraux ;
-
-DELAI de prise en charge : 1 mois
-
-- manifestations secondaires :
-
-- méningite lymphocytaire, parfois isolée ou associée à :
-
-- douleurs radiculaires ;
-
-- troubles de la sensibilité ;
-
-- atteinte des nerfs périphériques et craniens (syndrome de Garin-Bujadoux-Banworth).
-
-- troubles cardiaques :
-
-- troubles de la conduction ;
-
-- péricardite.
-
-- troubles articulaires :
-
-- oligo-arthrites régressives.
-
-DELAI de prise en charge : 6 mois
-
-- manifestations tertiaires :
-
-- encéphalomyélite progressive ;
-
-- dermatite chronique atrophiante ;
-
-- arthrite chronique destructrice.
-
-DELAI de prise en charge : 10 ans
-
-Dans tous les cas, le diagnostic devra être confirmé par un examen sérologique spécifique.
-
-LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies:
-
-Travaux effectués en forêt, de manière habituelle.
+- travaux de soins aux animaux vertébrés.
