@@ -26,7 +26,7 @@ La fente est réalisée à la feuille ou à la scie à ruban, de façon à ne pa
 
 En fin de chaîne d'abattage, les animaux sont pesés et classés suivant la grille Europ.
 
-Les carcasses ne doivent pas avoir un poids fiscal inférieur à 100 kg. Elles doivent présenter une couleur de viande rouge intense.
+Les carcasses ne doivent pas avoir un poids fiscal inférieur à 100 kg, sauf pour les génisses de 18 à 30 mois pour lesquelles ce poids est fixé à 85 kg. Elles doivent présenter une couleur de viande rouge intense.
 
 Les carcasses seront soumises à un ressuage doux dans une salle frigorifique fortement ventilée, à une température de + 5 °C à + 7 °C afin de sécher et refroidir la carcasse sans contraction musculaire. La température à coeur devra être de 10 °C environ au bout de dix heures de ressuage.
 
