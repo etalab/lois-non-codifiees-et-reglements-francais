@@ -1,0 +1,3 @@
+# Article 2
+
+En sus de la capacité théorique agréée et dans la limite de 10 p. 100 de l'effectif, sauf dérogation accordée dans l'agrément, les personnes titulaires d'un diplôme étranger d'infirmier ou de sage-femme, non validé pour l'exercice de la profession en France, peuvent être admises à suivre la formation après avoir satisfait à une épreuve écrite d'évaluation de leurs capacités à suivre la formation, organisée par le directeur de l'école de leur choix. Cette épreuve d'une durée d'une heure trente minutes est notée sur 20 points. Une note de 10 sur 20 est exigée pour être admis en formation.
