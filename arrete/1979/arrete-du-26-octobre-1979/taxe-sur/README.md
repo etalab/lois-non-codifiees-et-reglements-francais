@@ -1,0 +1,3 @@
+# TAXE SUR LA VALEUR AJOUTEE
+
+- [OBLIGATIONS DES REDEVABLES](obligations-des-redevables)
