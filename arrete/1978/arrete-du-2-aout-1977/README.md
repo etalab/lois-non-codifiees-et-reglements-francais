@@ -11,5 +11,3 @@
 - [Annexes](annexes)
 - [Contrôles, vérifications et entretien des installations](controles-verifications-et)
 - [Installations de gaz, alimentation des appareils](installations-de-gaz)
-- [Généralités](generalites)
-- [Prescriptions concernant l'aménagement des locaux où fonctionnent les appareils à gaz](prescriptions-concernant-l-amenagement-des-locaux-ou)

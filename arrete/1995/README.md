@@ -17,7 +17,6 @@
 - [Arrêté du 1 juillet 1995 (AGRH9501423A)](arrete-du-1-juillet-1995-agrh9501423a)
 - [Arrêté du 1 juillet 1995 (AGRH9501424A)](arrete-du-1-juillet-1995-agrh9501424a)
 - [Arrêté du 1 juin 1995 (AGRG9501031A)](arrete-du-1-juin-1995-agrg9501031a)
-- [Arrêté du 1 mars 1995 (AGRO9500382A)](arrete-du-1-mars-1995-agro9500382a)
 - [Arrêté du 1 mars 1995 (SANP9500716A)](arrete-du-1-mars-1995-sanp9500716a)
 - [Arrêté du 1 mars 1995 (SPSG9500756A)](arrete-du-1-mars-1995-spsg9500756a)
 - [Arrêté du 1 mars 1995 (SPSS9500757A)](arrete-du-1-mars-1995-spss9500757a)
