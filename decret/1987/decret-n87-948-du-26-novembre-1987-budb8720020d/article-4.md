@@ -82,8 +82,6 @@ Société nationale des entreprises de presse.
 
 4. Ministère chargé des transports :
 
-Compagnie nationale Air France.
-
 Air Inter.
 
 Société de gérance des wagons de grande capacité.
