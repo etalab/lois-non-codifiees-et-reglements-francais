@@ -12,6 +12,4 @@ Les ressources du centre régional de formation sont constituées par :
 
 5° Les subventions qui lui sont accordées.
 
-La cotisation prévue au deuxième alinéa est assise sur la masse des rémunérations versées aux agents employés par les communes, les départements, la région ou leurs établissements publics administratifs, telle qu'elle apparaît au compte administratif de l'avant-dernier exercice. Le taux de cette cotisation est fixé par délibération du conseil d'administration du centre régional, dans la limite d'un minimum et d'un maximum déterminés par la loi.
-
-Les collectivités et établissements sont tenus de verser, avant le 1er février de chaque année, un acompte égal au cinquième de la cotisation due au titre de l'exercice précédent.
+La cotisation prévue au deuxième alinéa est assise sur la masse constituée par les rémunérations versées aux agents employés par les collectivités et établissements mentionnés au premier alinéa de l'article 2 de la loi n° 84-53 du 26 juillet 1984 précitée, et par les cotisations sociales afférentes à ces rémunérations [*assiette*].    Les rémunérations et les cotisations sociales visées à l'alinéa précédent sont celles qui apparaissent aux comptes administratifs de l'avant-dernier exercice.    Le taux de cette cotisation est fixé par délibération du conseil d'administration du centre régional, dans la limite d'un minimum et d'un maximum déterminés par la loi.
