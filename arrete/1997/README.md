@@ -75,7 +75,6 @@
 - [Arrêté du 3 mars 1997 (MENU9700065A)](arrete-du-3-mars-1997-menu9700065a)
 - [Arrêté du 3 mars 1997 (TASH9720698A)](arrete-du-3-mars-1997-tash9720698a)
 - [Arrêté du 3 mars 1997 (TASH9720699A)](arrete-du-3-mars-1997-tash9720699a)
-- [Arrêté du 3 mars 1997 (TASH9720700A)](arrete-du-3-mars-1997-tash9720700a)
 - [Arrêté du 3 mars 1997 (TASH9720701A)](arrete-du-3-mars-1997-tash9720701a)
 - [Arrêté du 3 mars 1997 (TASH9720702A)](arrete-du-3-mars-1997-tash9720702a)
 - [Arrêté du 3 mars 1997 (TASH9720703A)](arrete-du-3-mars-1997-tash9720703a)

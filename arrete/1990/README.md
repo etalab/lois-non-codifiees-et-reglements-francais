@@ -547,7 +547,6 @@
 - [Arrêté du 20 décembre 1989 (SPSH8902802A)](arrete-du-20-decembre-1989-spsh8902802a)
 - [Arrêté du 20 décembre 1990 (RESY9000177A)](arrete-du-20-decembre-1990-resy9000177a)
 - [Arrêté du 20 décembre 1990 (SANH9002567A)](arrete-du-20-decembre-1990-sanh9002567a)
-- [Arrêté du 20 décembre 1990 (SANH9002568A)](arrete-du-20-decembre-1990-sanh9002568a)
 - [Arrêté du 20 décembre 1990 (SANH9002569A)](arrete-du-20-decembre-1990-sanh9002569a)
 - [Arrêté du 20 février 1990 (JUSG9060021A)](arrete-du-20-fevrier-1990-jusg9060021a)
 - [Arrêté du 20 février 1990 (SPSP9000391A)](arrete-du-20-fevrier-1990-spsp9000391a)

@@ -443,7 +443,6 @@
 - [Arrêté du 23 octobre 1989 (MENN8902488A)](arrete-du-23-octobre-1989-menn8902488a)
 - [Arrêté du 23 octobre 1989 (RESW8900379A)](arrete-du-23-octobre-1989-resw8900379a)
 - [Arrêté du 23 octobre 1989 (SPSH8902340A)](arrete-du-23-octobre-1989-spsh8902340a)
-- [Arrêté du 23 octobre 1989 (SPSH8902341A)](arrete-du-23-octobre-1989-spsh8902341a)
 - [Arrêté du 23 octobre 1989 (SPSH8902342A)](arrete-du-23-octobre-1989-spsh8902342a)
 - [Arrêté du 23 mai 1989 (DEFM8901483A)](arrete-du-23-mai-1989-defm8901483a)
 - [Arrêté du 24 avril 1989 (PTTP8900363A)](arrete-du-24-avril-1989-pttp8900363a)
