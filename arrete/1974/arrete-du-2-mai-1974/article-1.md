@@ -4,7 +4,7 @@ La liste des certificats d'études supérieures de chirurgie dentaire prévue à
 
 GROUPE A
 
-Biologie de la bouche (option 1 et option 2).
+Biologie de la bouche : option Anatomo-physiologique, option Histo-embryologique, génétique, biochimique, microbiologique, immunologique et biophysique.
 
 Technologie des matériaux employés en art dentaire.
 
@@ -16,8 +16,10 @@ Orthopédie dento-faciale.
 
 Odontologie conservatrice.
 
-Parodontologie.
+Parodontologie..
 
 Odontologie chirurgicale.
 
 Odontologie légale.
+
+Pédodontie - prévention.
