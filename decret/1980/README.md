@@ -136,7 +136,6 @@
 - [Décret n°80-915 du 20 novembre 1980](decret-n80-915-du-20-novembre-1980)
 - [Décret n°80-916 du 20 novembre 1980](decret-n80-916-du-20-novembre-1980)
 - [Décret n°80-164 du 21 février 1980](decret-n80-164-du-21-fevrier-1980)
-- [Décret n°80-215 du 21 mars 1980](decret-n80-215-du-21-mars-1980)
 - [Décret n°80-574 du 21 juillet 1980](decret-n80-574-du-21-juillet-1980)
 - [Décret n°80-828 du 21 octobre 1980](decret-n80-828-du-21-octobre-1980)
 - [Décret n°80-912 du 21 novembre 1980](decret-n80-912-du-21-novembre-1980)
