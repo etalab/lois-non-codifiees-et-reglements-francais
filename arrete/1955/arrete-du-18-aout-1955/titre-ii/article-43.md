@@ -1,0 +1,5 @@
+# Article 43
+
+Le ou les dispositifs de freinage utilisables pendant la marche doivent pouvoir être commandés par le conducteur depuis son poste de conduite, sans abandon de son volant, et agir sur des roues ou trains de roulement disposés symétriquement par rapport au plan longitudinal de symétrie de l'ensemble des roues et trains de roulement du véhicule.
+
+Toutefois, lorsque le tracteur traîne une ou plusieurs remorques ou appareils, ceux-ci peuvent ne pas être tous freinables depuis le tracteur, mais les remorques ou appareils non freinables depuis le tracteur ne peuvent entrer en ligne de compte pour le calcul du poids freiné de l'ensemble comme indiqué à l'article à 47 ci-après que s'ils sont munis de freins robustes et efficaces, manœuvrables aisément par des convoyeurs (serre-freins) prenant place sur lesdites remorques ou appareils, la vitesse de l'ensemble ne devant pas en ce cas excéder 10 kilomètres/heure, ou le suivant à pied lorsque la vitesse de l'ensemble n'excède pas 6 kilomètres/heure. Toutes dispositions doivent être prises pour que la sécurité du convoyeur soit assurée dans tous les cas et notamment en cas de rupture d'attelage.

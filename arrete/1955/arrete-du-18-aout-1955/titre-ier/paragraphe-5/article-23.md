@@ -1,0 +1,7 @@
+# Article 23
+
+Tout "ensemble de véhicules" constitué soit par un véhicule tracteur et une ou plusieurs remorques, soit par un véhicule articulé suivi d'une ou plusieurs remorques ou semi-remorques, doit comporter deux dispositifs de freinage de route, constitués avec les dispositifs de freinage prescrits sur les éléments constitutifs de l'ensemble par les paragraphes 1er à 4 précédents, et satisfaisant aux conditions ci-après définies :
+
+Un dispositif de freinage principal constituant "frein continu" et agissant sur des roues ou trains de roulement portant en charge normalement répartie à l'arrêt au moins les deux tiers du poids total de l'ensemble pour les tracteurs suivis de remorques, au moins les trois quarts du poids total de l'ensemble pour les véhicules articulés suivis de remorques ou de semi-remorques, ce dispositif devant d'autre part être réalisé de façon qu'en cas de rupture d'attelage, le freinage arrière du véhicule tracteur continue à être assuré.
+
+Un dispositif de secours, agissant sur des roues ou trains de roulement, portant, dans les mêmes conditions, au moins le tiers de ce poids total.
