@@ -16,3 +16,4 @@
 - [Arrêté du 27 novembre 1974](arrete-du-27-novembre-1974)
 - [Arrêté du 29 juillet 1976](arrete-du-29-juillet-1976)
 - [Arrêté du 30 janvier 1975](arrete-du-30-janvier-1975)
+- [Arrêté du 30 novembre 1974](arrete-du-30-novembre-1974)
