@@ -1,3 +1,7 @@
 # Article 1
 
-Par dérogation aux articles 4 et 5 de l'arrêté du 28 mai 1968 susvisé, les personnels des établissements visés à l'article L. 792 du code de la santé publique dont la résidence administrative est située à l'intérieur de la zone de compétence de l'autorité organisatrice des transports parisiens et qui, du fait de leur handicap, sont dans l'incapacité, dûment motivée, d'utiliser les transports en commun bénéficient, dans les conditions prévues au présent arrêté, d'une allocation spéciale destinée à les dédommager partiellement de leurs frais de déplacement entre leur résidence habituelle et leur lieu de travail.
+Le présent arrêté fixe :
+
+1° Les règles à suivre pour effectuer les relevés photométriques sur les lieux de travail prévus à l'article R 232-6-9 (1er alinéa) du code du travail ;
+
+2° Les conditions et modalités d'agrément des personnes et des organismes auxquels les chefs d'établissement peuvent faire appel pour procéder à ces relevés.

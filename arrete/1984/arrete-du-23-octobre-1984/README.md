@@ -1,7 +1,9 @@
-# Arrêté du 23 octobre 1984 instituant une allocation spéciale en faveur de certains personnels des établissements visés à l'article L. 792 du code de la santé publique.
+# Arrêté du 23 octobre 1984 relatif aux relevés photométriques sur les lieux de travail et aux conditions d'agrément des personnes et organismes pouvant procéder à ces contrôles.
 
 - [Article 1](article-1.md)
+- [SECTION I : REGLES A SUIVRE POUR EFFECTUER LES RELEVES PHOTOMETRIQUES](section-i)
 - [Article 2](article-2.md)
+- [SECTION II : PERSONNES OU ORGANISMES CHARGES DES RELEVES PHOTOMETRIQUES](section-ii)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
