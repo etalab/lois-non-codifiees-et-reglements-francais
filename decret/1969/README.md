@@ -22,6 +22,7 @@
 - [Décret n°69-576 du 12 juin 1969](decret-n69-576-du-12-juin-1969)
 - [Décret n°69-607 du 13 juin 1969](decret-n69-607-du-13-juin-1969)
 - [Décret n°69-609 du 13 juin 1969](decret-n69-609-du-13-juin-1969)
+- [Décret n°69-625 du 14 juin 1969](decret-n69-625-du-14-juin-1969)
 - [Décret n°69-190 du 15 février 1969](decret-n69-190-du-15-fevrier-1969)
 - [Décret n°69-195 du 15 février 1969](decret-n69-195-du-15-fevrier-1969)
 - [Décret n°69-196 du 15 février 1969](decret-n69-196-du-15-fevrier-1969)

@@ -1,0 +1,9 @@
+# Article 6
+
+Les candidats reçus au concours sont nommés élèves professeurs et affectés à l'école nationale de la santé publique. Ils sont tenus de suivre deux cycles de formation organisés comme suit :
+
+Un cycle de formation universitaire, d'une durée de deux ans et comportant des stages d'initiation pédagogique, qui doit être sanctionné par l'obtention du diplôme universitaire d'études littéraires ou du diplôme universitaire d'études scientifiques. Les candidats ayant échoué à l'un des examens pour l'obtention du diplôme ou n'ayant pu s'y présenter pour des raisons reconnues valables par le doyen de la faculté des lettres et des sciences humaines ou par le doyen de la faculté des sciences pourront, à titre exceptionnel, et après avis du doyen de la faculté, être autorisés par le ministre d'Etat chargé des affaires sociales à prolonger d'un an leur formation universitaire. La durée de ce cycle peut être réduite d'un an pour les élèves professeurs qui, à la date de leur nomination en cette qualité, sont admis à s'inscrire en deuxième année du premier cycle d'enseignement supérieur.
+
+Un cycle de formation spécialisée, qui comprend deux années de formation théorique et des stages pédagogiques et hospitaliers. Cette formation est sanctionnée par le certificat d'aptitude au professorat des instituts nationaux de jeunes sourds, qui comprend des épreuves déterminées par arrêté du ministre d'Etat chargé des affaires sociales et du secrétaire d'Etat auprès du Premier ministre, chargé de la fonction publique, et notamment la soutenance d'une thèse. La durée de ce second cycle peut être portée à trois années en cas d'échec à l'une des épreuves.
+
+Toutefois, seront admis directement à suivre le cycle de formation spécialisée les élèves professeurs justifiant de titres ou de diplômes définis par arrêté du ministre d'Etat chargé des affaires sociales et du secrétaire d'Etat auprès du Premier ministre, chargé de la fonction publique.
