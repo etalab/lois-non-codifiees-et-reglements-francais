@@ -1,3 +1,3 @@
 # Article 5
 
-Les traitements et soldes annuels correspondant aux indices majorés figurent au barème B ci-annexé, applicable à compter du 1er mars 1997.
+Les traitements et soldes annuels correspondant aux indices majorés figurent au barème B ci-annexé, applicable à compter du 1er octobre 1997.

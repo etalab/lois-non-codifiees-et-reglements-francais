@@ -1,8 +1,8 @@
 # Article 6
 
-Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er mars 1997 :
+Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er octobre 1997 :
 
-TRAITEMENTS ET SOLDES ANNUELS BRUTS SOUMIS A RETENUE POUR PENSION A COMPTER DU 1ER MARS 1997
+TRAITEMENTS ET SOLDES ANNUELS BRUTS SOUMIS A RETENUE POUR PENSION A COMPTER DU 1ER OCTOBRE 1997
 
 <table>
 <tr>
@@ -15,28 +15,28 @@ TRAITEMENTS ET SOLDES ANNUELS BRUTS SOUMIS A RETENUE POUR PENSION A COMPTER DU 1
 <td> :---------:------------:</td>
 </tr>
 <tr>
-<td> :    A    :  284 516 F :</td>
+<td> :    A    :  285 938 F :</td>
 </tr>
 <tr>
-<td> :    B    :  311 088 F :</td>
+<td> :    B    :  312 643 F :</td>
 </tr>
 <tr>
-<td> :  B bis  :  341 873 F :</td>
+<td> :  B bis  :  343 582 F :</td>
 </tr>
 <tr>
-<td> :    C    :  360 344 F :</td>
+<td> :    C    :  362 145 F :</td>
 </tr>
 <tr>
-<td> :    D    :  376 222 F :</td>
+<td> :    D    :  378 103 F :</td>
 </tr>
 <tr>
-<td> :    E    :  410 571 F :</td>
+<td> :    E    :  412 624 F :</td>
 </tr>
 <tr>
-<td> :    F    :  442 652 F :</td>
+<td> :    F    :  444 865 F :</td>
 </tr>
 <tr>
-<td> :    G    :  485 427 F :</td>
+<td> :    G    :  487 854 F :</td>
 </tr>
 <tr>
 <td> :---------:------------:</td>
@@ -54,22 +54,22 @@ TRAITEMENTS ET SOLDES ANNUELS BRUTS SOUMIS A RETENUE POUR PENSION A COMPTER DU 1
 <td> :---------:------------:</td>
 </tr>
 <tr>
-<td> :    A    :  295 858 F :</td>
+<td> :    A    :  297 337 F :</td>
 </tr>
 <tr>
-<td> :    B    :  324 374 F :</td>
+<td> :    B    :  325 996 F :</td>
 </tr>
 <tr>
-<td> :  B bis  :  350 946 F :</td>
+<td> :  B bis  :  352 701 F :</td>
 </tr>
 <tr>
-<td> :    C    :  368 121 F :</td>
+<td> :    C    :  369 961 F :</td>
 </tr>
 <tr>
-<td> :    D    :  393 397 F :</td>
+<td> :    D    :  395 363 F :</td>
 </tr>
 <tr>
-<td> :    E    :  426 774 F :</td>
+<td> :    E    :  428 907 F :</td>
 </tr>
 <tr>
 <td> :    F    :            :</td>
@@ -93,19 +93,19 @@ TRAITEMENTS ET SOLDES ANNUELS BRUTS SOUMIS A RETENUE POUR PENSION A COMPTER DU 1
 <td> :---------:------------:</td>
 </tr>
 <tr>
-<td> :    A    :  311 088 F :</td>
+<td> :    A    :  312 643 F :</td>
 </tr>
 <tr>
-<td> :    B    :  341 873 F :</td>
+<td> :    B    :  343 582 F :</td>
 </tr>
 <tr>
-<td> :  B bis  :  360 344 F :</td>
+<td> :  B bis  :  362 145 F :</td>
 </tr>
 <tr>
-<td> :    C    :  376 222 F :</td>
+<td> :    C    :  378 103 F :</td>
 </tr>
 <tr>
-<td> :    D    :  410 571 F :</td>
+<td> :    D    :  412 624 F :</td>
 </tr>
 <tr>
 <td> :    E    :            :</td>
