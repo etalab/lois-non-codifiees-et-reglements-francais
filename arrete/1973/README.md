@@ -22,6 +22,7 @@
 - [Arrêté du 18 décembre 1972](arrete-du-18-decembre-1972)
 - [Arrêté du 19 mars 1973](arrete-du-19-mars-1973)
 - [Arrêté du 20 décembre 1972](arrete-du-20-decembre-1972)
+- [Arrêté du 20 mars 1973](arrete-du-20-mars-1973)
 - [Arrêté du 21 novembre 1972](arrete-du-21-novembre-1972)
 - [Arrêté du 23 mars 1973](arrete-du-23-mars-1973)
 - [Arrêté du 27 février 1973](arrete-du-27-fevrier-1973)
