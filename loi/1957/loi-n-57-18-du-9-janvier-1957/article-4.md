@@ -1,0 +1,3 @@
+# Article 4
+
+Sauf besoins de la santé publique, appréciés par le préfet après consultation des mêmes organismes que ceux qui sont visés à l'article 2 et sauf accord avec l'intéressé, suivant les règles prévues par leurs codes de déontologie, les médecins ou chirurgiens dentistes installés dans une circonscription réservée, avant la publication de la présente loi mais depuis le départ de leur confrère, devront cesser d'exercer au plus tard trois mois après la date de reprise d'activité de celui-ci, si leur présence accroît le nombre des praticiens de la même profession existant à la date de départ du praticien protégé.
