@@ -1,16 +1,30 @@
 # Article 11
 
-La caisse autonome mutuelle sera administrée par un conseil d'administration composé de :
+1° La caisse autonome sera administrée par un conseil d'administration composé de :
 
-1° Six membres élus par le personnel ;
+a) Six membres élus par le personnel, dont deux appartenant à la maîtrise ;
 
-2° Six membres élus par les compagnies ;
+b) Un membre élu par les agents des cadres techniques, administratifs ou commerciaux ;
 
-3° Trois conseillers généraux et trois représentants des communes intéressées, désignés par le ministre de l'intérieur ;
+c) Six membres élus par les exploitants.
 
-4° Le directeur de la caisse des dépôts et consignations et le directeur des retraites ouvrières et paysannes ;
+A titre transitoire et jusqu'à la date légale de la cessation des hostilités, les membres représentant le personnel, les cadres et les exploitants seront désignés par arrêtés concertés du ministre des travaux publics et des transports et du ministre du travail et de la sécurité sociale ;
 
-5° Un représentant du ministre des travaux publics et un du ministre des finances.
+d) Deux membres représentant les pouvoirs concédants, désignés par le ministre de l'intérieur, dont un pour les départements et l'autre pour les communes ayant dans leur ressort une exploitation importante ;
+
+e) Six membres représentant l'Etat, à savoir :
+
+Le directeur général de la caisse des dépôts et consignations ou son représentant.
+
+Le directeur des assurances sociales et de la mutualité ou son représentant.
+
+Le directeur du budget ou son représentant.
+
+Le directeur de l'économie générale ou son représentant.
+
+Le directeur des chemins de fer ou son représentant.
+
+Un représentant du ministre des travaux publics et des transports.
 
 Le conseil nommera parmi ses membres un président et un secrétaire.
 
