@@ -20,14 +20,6 @@ Le deuxième contrôle doit être postérieur à la fin de la saison de monte. I
 
 De plus, tous les étalons nationaux gérés par l'établissement public "Les Haras nationaux" sont contrôlés suivant ce protocole.
 
-c) Rage.
-
-Chaque étalon stationné dans un département déclaré atteint de rage ou en provenance d'un de ces départements est vacciné contre la rage.
-
-La preuve des injections de vaccin est apportée par mention de la certification sur le livret d'identification.
-
-La primo-vaccination et les injections de rappel sont effectuées conformément à la réglementation en vigueur.
-
 B. - Vis-à-vis des autres maladies.
 
 a) Artérite virale.
