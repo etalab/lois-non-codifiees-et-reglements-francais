@@ -191,6 +191,7 @@
 - [Décret n°94-312 du 14 avril 1994 (BUDF9420686D)](decret-n94-312-du-14-avril-1994-budf9420686d)
 - [Décret n°94-39 du 14 janvier 1994 (RESK9301635D)](decret-n94-39-du-14-janvier-1994-resk9301635d)
 - [Décret n°94-42 du 14 janvier 1994 (JUSC9321010D)](decret-n94-42-du-14-janvier-1994-jusc9321010d)
+- [Décret n°69-444 du 14 mai 1969](decret-n69-444-du-14-mai-1969)
 - [Décret n°90-414 du 14 mai 1990 (MENT9000432D)](decret-n90-414-du-14-mai-1990-ment9000432d)
 - [Décret n°94-376 du 14 mai 1994 (ECOT9436519D)](decret-n94-376-du-14-mai-1994-ecot9436519d)
 - [Décret n°94-294 du 15 avril 1994 (SPSA9400972D)](decret-n94-294-du-15-avril-1994-spsa9400972d)
