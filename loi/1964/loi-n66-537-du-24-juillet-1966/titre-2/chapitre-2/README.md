@@ -9,3 +9,4 @@
 - [Section 7 : Infractions relatives aux sociétés en commandite par actions.](section-7)
 - [Section 8 : Infractions communes aux diverses formes de sociétés par actions.](section-8)
 - [Section 9 : Dispositions concernant les sociétés anonymes comportant un directoire et un conseil de surveillance.](section-9)
+- [Section 10 : Dispositions concernant la société par actions simplifiée.](section-10)

@@ -10,3 +10,4 @@
 - [Section 8 : Dissolution des sociétés anonymes.](section-8)
 - [Section 9 : Responsabilité civile.](section-9)
 - [Section 10 : Sociétés en commandite par actions.](section-10)
+- [Section 11 : Société par actions simplifiée.](section-11)

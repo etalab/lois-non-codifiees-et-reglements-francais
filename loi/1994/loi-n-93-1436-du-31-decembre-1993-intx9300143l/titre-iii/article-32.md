@@ -1,0 +1,3 @@
+# Article 32
+
+A titre exceptionnel pour l'année 1994, bénéficient d'une attribution prélevée sur la dotation de développement rural instituée par le 1° du I de l'article 1648 B du code général des impôts les communes ayant reçu en 1993 une attribution au titre du b du 1° du I de cet article dans sa rédaction antérieure à la présente loi et qui ne bénéficient pas d'une attribution au titre de la première fraction de la dotation de solidarité rurale instituée à l'article L. 234-13 du code des communes. Le montant de l'attribution au titre de l'année 1994 est égal à la moitié de celle arrêtée en 1993.

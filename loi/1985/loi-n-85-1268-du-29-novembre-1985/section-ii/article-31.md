@@ -2,7 +2,9 @@
 
 Les départements reçoivent une dotation forfaitaire, une dotation de péréquation, des concours particuliers et, éventuellement, une garantie d'évolution. L'ensemble de ces sommes évolue comme la dotation globale de fonctionnement mise en répartition.
 
-La dotation forfaitaire des départements [*montant*] est proportionnelle à celle de l'année précédente, éventuellement majorée des sommes reçues en 1985 au titre du minimum garanti par habitant des départements. Elle est égale à 45 p. 100 de la dotation globale de fonctionnement des départements.
+En 1994, 25 p. 100 de la croissance des sommes consacrées à la dotation globale de fonctionnement des départements sont affectés à la dotation de fonctionnement minimale prévue à l'article 34.
+
+La dotation forfaitaire des départements est proportionnelle à celle de l'année précédente, éventuellement majorée des sommes reçues en 1985 au titre du minimum garanti par habitant des départements. Elle est égale à 45 p. 100 de la dotation globale de fonctionnement des départements.
 
 La dotation de péréquation versée aux départements comprend deux parts :
 

@@ -1,0 +1,3 @@
+# TITRE III: DE LA DOTATION DE DÉVELOPPEMENT RURAL.
+
+- [Article 32](article-32.md)

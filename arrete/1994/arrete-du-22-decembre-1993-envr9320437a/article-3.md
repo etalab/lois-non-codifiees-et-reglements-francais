@@ -1,0 +1,3 @@
+# Article 3
+
+L'institut a accès à toutes les informations relatives à l'état de l'environnement collectées par les administrations et établissements publics de l'Etat, sous réserve des dispositions de la loi du 7 juin 1951 précitée et de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. Il pourra notamment recevoir, aux fins exclusives d'établissement de statistiques, des informations individuelles recueillies, dans le cadre de leur mission, par des services administratifs, dans les conditions prévues par l'article 7 bis de la loi du 7 juin 1951 précitée.
