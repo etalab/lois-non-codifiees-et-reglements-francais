@@ -1,7 +1,8 @@
-# Arrêté du 15 mai 1974 concernant les viandes hachées destinées à la consommation humaine
+# Arrêté du 15 mai 1974 relatif à l'abattage d'urgence des animaux de boucherie pour cause de maladie ou d'accident
 
-- [Article 28](article-28.md)
-- [Article 29](article-29.md)
-- [Viandes hachées "à l'avance".](viandes-hachees-a)
-- [Objet et définitions.](objet-et)
-- [Objets et définitions.](objets-et)
+- [Titre Ier : Généralités.](titre-ier)
+- [Titre II : Abattage hors d'un abattoir autorisé.](titre-ii)
+- [Titre III : Abattage dans un abattoir autorisé.](titre-iii)
+- [Titre IV : Contrôle de salubrité.](titre-iv)
+- [Titre V : Dispositions particulières.](titre-v)
+- [Article 17](article-17.md)

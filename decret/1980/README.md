@@ -113,6 +113,7 @@
 - [Décret n°80-282 du 22 avril 1980](decret-n80-282-du-22-avril-1980)
 - [Décret n°80-288 du 22 avril 1980](decret-n80-288-du-22-avril-1980)
 - [Décret n°80-759 du 22 septembre 1980](decret-n80-759-du-22-septembre-1980)
+- [Décret n°80-837 du 22 octobre 1980](decret-n80-837-du-22-octobre-1980)
 - [Décret n°80-447 du 23 juin 1980](decret-n80-447-du-23-juin-1980)
 - [Décret n°80-450 du 23 juin 1980](decret-n80-450-du-23-juin-1980)
 - [Décret n°80-96 du 23 janvier 1980](decret-n80-96-du-23-janvier-1980)
