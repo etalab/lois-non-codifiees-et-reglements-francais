@@ -1,7 +1,5 @@
 # Article 2
 
-En raison des conditions de mise en oeuvre et d'intervention des unités de combat, le corps des officiers de l'air n'est ouvert qu'aux hommes.
+L'accès aux différents corps d'officiers est ouvert aux hommes et aux  femmes.
 
-Toutefois, les femmes titulaires du brevet de pilote militaire du second degré ont accès à ce corps en application du 2° de l'article 5 ci-dessous pour occuper des emplois dans le transport aérien militaire.
-
-En raison de certaines conditions d'emploi, l'accès des femmes est limité pour les autres corps à 20 p. 100 des recrutements annuels.
+En fonction des conditions particulières d'emploi des unités  de combat et de la disponibilité physique exigée pour l'exercice de certaines  spécialités, l'arrêté annuel du ministre chargé des armées fixant le nombre de  places ouvertes pour chaque concours fixe également le nombre maximal de places  offertes aux femmes.
