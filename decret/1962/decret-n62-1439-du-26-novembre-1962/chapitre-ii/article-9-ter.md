@@ -1,0 +1,3 @@
+# Article 9 ter
+
+Les vétérinaires inspecteurs recrutés par les concours prévus au 2° de l'article 8 ci-dessus sont, sont à la date de leur titularisation, classés au 1er échelon de la classe normale du grade de vétérinaire inspecteur.    Toutefois, pour le classement des intéressés, les services publics accomplis en possession des titres, certificats ou diplômes requis pour présenter le concours en qualité de fonctionnaire ou d'agent non titulaire d'une administration de l'Etat, d'une collectivité territoriale ou des établissements publics qui en dépendent ainsi que d'une organisation internationale intergouvernementale, sont pris en compte dans la limite maximale de quatre années.
