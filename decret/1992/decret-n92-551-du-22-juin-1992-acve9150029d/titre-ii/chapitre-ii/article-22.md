@@ -2,42 +2,122 @@
 
 Les durées moyennes et minimums du temps passé dans les échelons des grades du corps des personnels infirmiers des établissements de l'Office national des anciens combattants et victimes de guerre sont fixées ainsi qu'il suit :
 
-GRADE ET CLASSE
+GRADE ET CLASSE : Surveillant des services médicaux
 
-ÉCHELON
+I = ÉCHELON
 
-DURÉE
+II = DURÉE Moyenne
 
-Moyenne Minimum
+III = DURÉE Minimum
 
-Surveillant des services médicaux 6e    2 ans 6 mois    1 an 10 mois
+<table>
+<tr>
+<td> :----:-------:--------------:</td>
+</tr>
+<tr>
+<td> : I  :   II  :      III     :</td>
+</tr>
+<tr>
+<td> :----:-------:--------------:</td>
+</tr>
+<tr>
+<td> : 6e : 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> : 5e : 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> : 4e : 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> : 3e : 2 ans : 1 an  6 mois :</td>
+</tr>
+<tr>
+<td> : 2e : 2 ans : 1 an  6 mois :</td>
+</tr>
+<tr>
+<td> : 1e : 1 an  : 1 an         :</td>
+</tr>
+<tr>
+<td> :----:-------:--------------:</td>
+</tr>
+</table>
 
-5e    2 ans 6 mois    1 an 10 mois
+GRADE ET CLASSE : Infirmier de classe supérieure
 
-4e    2 ans    1 an  6 mois
+I = ÉCHELON
 
-3e    2 ans    1 an  6 mois
+II = DURÉE Moyenne
 
-2e    2 ans    1 an  6 mois
+III = DURÉE Minimum
 
-1er    2 ans    1 an  6 mois
+<table>
+<tr>
+<td> :----:-------:--------------:</td>
+</tr>
+<tr>
+<td> : I  :   II  :      III     :</td>
+</tr>
+<tr>
+<td> :----:-------:--------------:</td>
+</tr>
+<tr>
+<td> : 4e : 4 ans : 3 ans        :</td>
+</tr>
+<tr>
+<td> : 3e : 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> : 2e : 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> : 1e : 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> :----:-------:--------------:</td>
+</tr>
+</table>
 
-Infirmier de classe supérieure 4e    4 ans    3 ans
+GRADE ET CLASSE : Infirmier de classe normale
 
-3e    3 ans    2 ans 3 mois
+I = ÉCHELON
 
-2e    3 ans    2 ans 3 mois
+II = DURÉE Moyenne
 
-1er    3 ans    2 ans 3 mois
+III = DURÉE Minimum
 
-Infirmier de classe normale 6e    4 ans    3 ans
-
-5e    4 ans    3 ans
-
-4e    4 ans    3 ans
-
-3e    3 ans    2 ans 3 mois
-
-2e    2 ans    1 ans 6 mois
-
-1er    1 an    1 an
+<table>
+<tr>
+<td> :----:-------:--------------:</td>
+</tr>
+<tr>
+<td> : I  :   II  :      III     :</td>
+</tr>
+<tr>
+<td> :----:-------:--------------:</td>
+</tr>
+<tr>
+<td> : 7e : 4 ans : 3 ans        :</td>
+</tr>
+<tr>
+<td> : 6e : 4 ans : 3 ans        :</td>
+</tr>
+<tr>
+<td> : 5e : 4 ans : 3 ans        :</td>
+</tr>
+<tr>
+<td> : 4e : 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> : 3e : 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> : 2e : 2 ans : 1 an  6 mois :</td>
+</tr>
+<tr>
+<td> : 1e : 1 an  : 1 an         :</td>
+</tr>
+<tr>
+<td> :----:-------:--------------:</td>
+</tr>
+</table>
