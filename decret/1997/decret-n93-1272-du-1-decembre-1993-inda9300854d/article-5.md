@@ -1,59 +1,25 @@
 # Article 5
 
-I. a) Le service des industries de base et des biens d'équipement exerce ses compétences, notamment, dans les domaines suivants :
+Le service des industries manufacturières exerce, sous réserve des attributions du service des technologies et de la société de l'information, ses compétences dans les secteurs des industries de biens d'équipement, de biens intermédiaires, de biens de consommation, d'ingénierie, de conseil et de services opérationnels à l'industrie.
 
-la construction mécanique ;
+Le service des technologies et de la société de l'information exerce ses compétences dans les domaines des industries de composants électroniques, de l'électronique, de l'informatique, de l'audiovisuel, des télécommunications, d'Internet ainsi que des industries spatiales.
 
-la fabrication de matériels électriques ;
+Chacun de ces services développe une analyse prospective sur son secteur et, en relation avec les directions régionales de l'industrie, de la recherche et de l'environnement, apporte le concours de ses compétences aux entreprises.
 
-les industries automobile, ferroviaire et navale ;
+Ils conçoivent et mettent en oeuvre les actions de l'Etat en faveur des entreprises de leur secteur.
 
-la métallurgie des métaux ferreux et la fonderie (tous métaux) ;
+Ils favorisent le développement des technologies spécifiques et les retombées industrielles des actions de recherche et développement sur leur secteur.
 
-les industries de la chimie de base ;
+En liaison avec la direction de l'action régionale et de la petite et moyenne industrie, le service des industries manufacturières exerce un contrôle sur les actions menées par l'Agence nationale pour le développement de la production automatisée.
 
-les industries du bois, à l'exclusion des sciages, les industries des papiers et cartons, du verre, du caoutchouc, des plastiques, des emballages et des matériaux avancés ;
+Le service des technologies et de la société de l'information exerce en outre les missions suivantes :
 
-l'ingénierie et le conseil ;
+- il participe de manière systématique à la conception et à la mise en oeuvre de la politique du Gouvernement en faveur des technologies et de la société de l'information, et favorise le développement de l'offre et de la demande en ce domaine ;
 
-b) Le service des biens de consommation exerce ses compétences, notamment, dans les domaines suivants :
+- il participe à l'élaboration des projets interministériels en matière de systèmes d'information et de télécommunications des administrations ;
 
-l'équipement des ménages ;
+- il élabore et met en oeuvre la réglementation des activités de télécommunications, sous réserve des compétences de l'Autorité de régulation des télécommunications ;
 
-le textile, l'habillement et le cuir, dans toutes leurs composantes, notamment internationales ;
+- il anime, dans le cadre de la coordination assurée par le service de l'environnement économique, international et de l'emploi, les relations internationales du ministère dans son secteur d'activité ; il soutient les positions françaises dans les instances internationales et communautaires propres aux télécommunications ;
 
-les produits de loisirs et de culture ;
-
-les produits de santé, la chimie fine et les bio-industries ;
-
-c) Le service des industries de communication et de service exerce ses compétences dans le domaine des technologies de l'information, notamment :
-
-les composants électroniques ;
-
-l'informatique générale, qui comprend les constructeurs de matériels et les sociétés de services et de logiciel ;
-
-l'informatique industrielle et l'électronique professionnelle ;
-
-l'audiovisuel et l'électronique grand public ;
-
-les télécommunications, les services d'information en ligne et les bases de données ;
-
-l'espace.
-
-Sous réserve des attributions du ministre chargé de la communication, il propose et met en oeuvre les politiques gouvernementales en matière de techniques audiovisuelles.
-
-II.  Le service des industries de base et des biens d'équipement, le service des biens de consommation et le service des industries de communication et de service exercent les missions suivantes :
-
-Ils conseillent le ministre sur les mesures à prendre en matière de restructuration industrielle et veillent à l'application des décisions prises.
-
-Ils conçoivent et mettent en oeuvre les actions spécifiques de l'Etat en faveur des entreprises de leur secteur.
-
-Ils favorisent le développement des technologies spécifiques et les retombées industrielles des actions de recherche et de développement, et notamment des grands programmes publics.
-
-Ils exercent la tutelle des entreprises publiques de leur secteur.
-
-Ils apportent le concours de leurs compétences aux entreprises, notamment en matière de choix stratégiques et de mesures propres à améliorer durablement leur compétitivité et leur marge de manoeuvre internationale.
-
-III.  Le service des industries de base et des biens d'équipement exerce, en liaison avec la direction de l'action régionale et de la petite et moyenne industrie, un contrôle sur les actions menées par l'Agence nationale pour le développement de la production automatisée.
-
-Le service des industries de communication et de service assure la tutelle sur l'Institut national de recherche en informatique et en automatique et sur le Centre national d'études spatiales.
+- il exerce la tutelle sur les établissements publics du secteur.

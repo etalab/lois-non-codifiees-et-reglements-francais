@@ -1,9 +1,7 @@
 # Article 9
 
-En liaison avec le ministère chargé de l'emploi, le service du développement de l'emploi industriel élabore et propose toute mesure destinée à améliorer l'accompagnement social des mutations industrielles.
+Le service des études et des statistiques industrielles élabore et diffuse, en liaison avec la direction des relations avec les publics et de la communication, les statistiques industrielles et les études qui en découlent.
 
-Il participe à la mise en place des mesures relatives à la formation initiale et permanente dans l'industrie, en liaison avec les autres départements ministériels concernés et la direction de l'action régionale et de la petite et moyenne industrie.
+Il conçoit et met en oeuvre le dispositif de réalisation des enquêtes statistiques qui lui sont confiées après consultation du Conseil national de l'information statistique.
 
-Sous réserve des attributions de la direction générale de l'énergie et des matières premières et de la direction des postes et télécommunications, il coordonne les relations du ministère avec les départements ministériels et les organismes publics chargés de la mise en oeuvre des actions de l'Etat dans le domaine de l'emploi, des relations du travail et de la solidarité nationale ainsi qu'avec les organisations professionnelles et sociales et propose toutes mesures permettant de renforcer la qualité du dialogue social.
-
-Dans les domaines des rémunérations, des relations sociales et des politiques de l'emploi, il collecte, analyse et diffuse toute information susceptible de concourir à l'élaboration et à la mise en oeuvre de l'action gouvernementale, sous réserve des attributions du ministère chargé du travail et de l'emploi.
+Il exerce, au sein du ministère, les attributions dévolues aux services enquêteurs par la loi n° 51-711 du 7 juin 1951 modifiée sur l'organisation, la coordination et le secret en matière de statistiques et par le décret n° 84-628 du 17 juillet 1984 relatif au Conseil national de l'information statistique et portant application de ladite loi.

@@ -1,7 +1,11 @@
 # Article 8
 
-Le service des statistiques industrielles est chargé de l'élaboration et de la diffusion, en liaison avec la délégation à la communication, des statistiques industrielles et des études qui en découlent.
+Le service de l'innovation et de la qualité, en liaison avec le ministère chargé de la recherche et les établissements publics concernés, favorise le développement de la recherche industrielle. Il conduit les études prospectives sur l'évolution des technologies.
 
-Il conçoit et met en oeuvre le dispositif de réalisation des enquêtes qui lui sont confiées par les ministres chargés de l'industrie et de l'économie après consultation du Conseil national de l'information statistique.
+Il définit et met en oeuvre la politique relative à la promotion de la qualité dans les entreprises, à la certification, aux essais et à l'accréditation. Il est responsable de la politique de normalisation en France et dans les instances communautaires et internationales ; il contrôle les activités menées dans ce domaine par l'Association française de normalisation et exerce la tutelle du Laboratoire national d'essais.
 
-Il exerce au sein du ministère les attributions dévolues aux services enquêteurs par la loi n° 51-711 du 7 juin 1951 modifiée sur l'organisation, la coordination et le secret en matière de statistiques et le décret n° 84-628 du 17 juillet 1984 relatif au Conseil national de l'information statistique et portant application de ladite loi.
+Il coordonne, pour le compte de la direction générale, les questions relatives au développement durable.
+
+Il participe à la préparation du budget d'intervention de la direction générale et suit son exécution.
+
+En liaison avec la direction du personnel, de la modernisation et de l'administration, il suit les questions relatives à l'organisation, à la gestion et aux systèmes d'information de la direction générale.

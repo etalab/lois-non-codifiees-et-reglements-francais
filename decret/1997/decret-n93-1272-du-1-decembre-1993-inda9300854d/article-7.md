@@ -1,7 +1,19 @@
 # Article 7
 
-Le service de la technologie et de la stratégie a pour mission, en liaison avec les services du ministère chargés de la recherche, de favoriser le développement de la recherche industrielle, et notamment le développement des technologies nouvelles, les transferts de technologie et de savoir-faire entre les entreprises, les universités et les organismes de recherche et de développement, la valorisation industrielle et la diffusion des progrès technologiques. Il conduit les études prospectives sur l'évolution des technologies.
+Le service de l'environnement économique, international et de l'emploi concourt à l'élaboration et à la mise en oeuvre des mesures, notamment financières, et des actions communautaires et internationales propres à accroître la compétitivité des entreprises. En liaison avec le ministère chargé de l'emploi, il propose et participe à la mise en oeuvre des mesures favorisant le développement de l'emploi industriel et l'accompagnement social des mutations industrielles.
 
-Il est chargé de définir et de mettre en oeuvre la politique relative à la promotion de la qualité dans les entreprises, à la certification et aux essais et les réflexions sur les stratégies industrielles. Il est responsable de la politique de normalisation dans le secteur industriel et exerce un contrôle sur les activités menées dans ce domaine par l'Association française de normalisation et la tutelle sur le Laboratoire national d'essais.
+A cette fin :
 
-En liaison avec la direction générale de l'administration et des finances, il suit les questions relatives à l'organisation et aux systèmes d'information de la direction générale des stratégies industrielles.
+- il développe des mesures valorisant les ressources humaines dans les entreprises, notamment par la formation initiale et permanente dans l'industrie ;
+
+- il propose et participe à la mise en oeuvre des mesures relatives aux restructurations industrielles ;
+
+- il assure en liaison avec les autres directions du ministère et les services de l'Etat à l'étranger, une veille concurrentielle pour les secteurs relevant de la direction générale et procède aux études sur la compétitivité, l'évolution des marchés, les politiques économiques menées à l'étranger, les grands groupes multinationaux ou multisectoriels ;
+
+- il participe à la définition de la politique relative à la localisation des activités et à l'attractivité du territoire, en liaison avec la direction de l'action régionale et de la petite et moyenne industrie et la délégation à l'aménagement du territoire et à l'action régionale ;
+
+- il évalue les effets des dispositions législatives et réglementaires sur les entreprises et propose toutes mesures visant à les améliorer ; il participe à la conception et à l'élaboration de la politique du Gouvernement en matière de financement de l'industrie ;
+
+- il est responsable des questions internationales au sein de la direction générale et collabore à la définition et à la mise en oeuvre des politiques communautaires dans le domaine industriel ; il participe également aux négociations ou actions de coopération internationales en matière industrielle ;
+
+- il propose les mesures de nature à favoriser le développement international des entreprises et coordonne leur mise en oeuvre au sein de la direction générale, en relation avec les représentations diplomatiques de la France.

@@ -14,9 +14,9 @@ Sous réserve des attributions de la direction générale de l'administration et
 
 En liaison avec les autres directions et ministères concernés, elle oriente, organise et contrôle les missions des directions régionales de l'industrie, de la recherche et de l'environnement ; elle anime et coordonne leurs actions. Elle assure, en liaison avec la direction générale de l'administration et des finances, la prévision des moyens qui leur sont dévolus.
 
-En liaison avec les services concernés de la direction générale des stratégies industrielles et de la direction générale de l'énergie et des matières premières, elle définit et met en oeuvre les actions de conversion et reconversion industrielles et assure la tutelle des centres techniques industriels.
+En liaison avec les services concernés de la direction générale de l'industrie, des technologies de l'information et des postes et de la direction générale de l'énergie et des matières premières, elle définit et met en oeuvre les actions de conversion et reconversion industrielles et assure la tutelle des centres techniques industriels.
 
-Pour le compte du ministre chargé du commerce et du ministre chargé de l'industrie, la direction de l'action régionale et de la petite et moyenne industrie suit les questions relatives aux chambre de commerce et d'industrie et exerce leur tutelle sur ces organismes.
+Pour le compte du ministre chargé du commerce et du ministre chargé de l'industie, la direction de l'action régionale et de la petite et moyenne industrie suit les questions relatives aux chambre de commerce et d'industrie et exerce leur tutelle sur ces organismes.
 
 Elle exerce pour le compte du ministre des entreprises et du développement économique chargé des petites et moyennes entreprises, du commerce et de l'artisanat la tutelle sur l'Agence nationale de valorisation de la recherche ; elle exerce également la tutelle sur l'Ecole nationale supérieure de création industrielle et sur l'Institut national de la propriété industrielle. Elle assure un contrôle sur les actions menées par l'Agence nationale pour la création d'entreprises et l'Association pour la promotion et le développement industriels.
 
