@@ -1,4 +1,4 @@
-# Arrêté du 31 décembre 1984 Perception par l'Office national de la navigation d'une taxe parafiscale sur les transports fluviaux exécutés au tour de rôle
+# Arrêté du 31 décembre 1984 relatif au montant des charges et des ajustements résultant des transferts de compétences.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

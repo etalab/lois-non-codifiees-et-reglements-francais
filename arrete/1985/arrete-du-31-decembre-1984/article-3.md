@@ -1,9 +1,3 @@
 # Article 3
 
-Il est ouvert dans la comptabilité de l'Office national de la navigation un compte spécial où sont portés:
-
-En recettes :
-
-a. Le produit de la taxe ; b. Les produits divers de toute autre provenance ;
-
-En dépenses : les sommes consacrées au financement des actions prévues par le décret du 9 avril 1984 susvisé en faveur desquelles la taxe est instituée.
+Le montant des ajustements mentionnés à l'article 2 ci-dessus fera l'objet d'une régularisation pour tenir compte, d'une part, du montant définitif des dépenses résultant des accroissements et diminutions de charges tel qu'il sera constaté, pour chaque département intéressé, par l'arrêté interministériel prévu par l'article 94 de la loi du 7 janvier 1983 susvisée, pris après avis de la commission consultative sur l'évaluation des charges résultant des transferts de compétences, d'autre part, des corrections qui seront apportées, dans les conditions prévues au premier alinéa de l'article 95 de ladite loi, au produit de la vignette représentative du paiement de la taxe différentielle sur les véhicules à moteur et de la taxe spéciale sur les voitures particulières d'une puissance fiscale supérieure à 16 cv.
