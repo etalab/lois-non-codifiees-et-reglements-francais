@@ -9,6 +9,8 @@
 - [Loi n° 90-1002 du 7 novembre 1990 (TEFX9000065L)](loi-n-90-1002-du-7-novembre-1990-tefx9000065l)
 - [Loi n° 90-1067 du 28 novembre 1990 (INTX9000041L)](loi-n-90-1067-du-28-novembre-1990-intx9000041l)
 - [Loi n° 90-1068 du 28 novembre 1990 (SPSX9000119L)](loi-n-90-1068-du-28-novembre-1990-spsx9000119l)
+- [Loi n° 90-1078 du 5 décembre 1990 (MAEX9000008L)](loi-n-90-1078-du-5-decembre-1990-maex9000008l)
+- [Loi n° 90-1079 du 5 décembre 1990 (EQUX9010388L)](loi-n-90-1079-du-5-decembre-1990-equx9010388l)
 - [Loi n° 90-14 du 2 janvier 1990 (MAEX8900081L)](loi-n-90-14-du-2-janvier-1990-maex8900081l)
 - [Loi n° 90-15 du 2 janvier 1990 (MAEX8900085L)](loi-n-90-15-du-2-janvier-1990-maex8900085l)
 - [Loi n° 90-16 du 2 janvier 1990 (MAEX8900086L)](loi-n-90-16-du-2-janvier-1990-maex8900086l)
