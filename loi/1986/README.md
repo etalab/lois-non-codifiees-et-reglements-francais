@@ -5,6 +5,7 @@
 - [Loi n° 85-1470 du 31 décembre 1985](loi-n-85-1470-du-31-decembre-1985)
 - [Loi n° 85-677 du 5 juillet 1985](loi-n-85-677-du-5-juillet-1985)
 - [Loi n° 85-99 du 25 janvier 1985](loi-n-85-99-du-25-janvier-1985)
+- [Loi n° 86-1025 du 9 septembre 1986](loi-n-86-1025-du-9-septembre-1986)
 - [Loi n° 86-1067 du 30 septembre 1986](loi-n-86-1067-du-30-septembre-1986)
 - [Loi n° 86-1197 du 24 novembre 1986](loi-n-86-1197-du-24-novembre-1986)
 - [Loi n° 86-1290 du 23 décembre 1986](loi-n-86-1290-du-23-decembre-1986)

@@ -4,7 +4,7 @@ Ne peuvent faire l'objet d'un arrêté d'expulsion, en application de l'article 
 
 1° L'étranger mineur de dix-huit ans ;
 
-2° L'étranger qui justifie par tous moyens résider en France habituellement depuis qu'il a atteint au plus l'âge de six ans ;
+2° L'étranger qui justifie par tous moyens résider en France habituellement depuis qu'il a atteint au plus l'âge de dix ans ;
 
 3° L'étranger qui justifie par tous moyens résider en France habituellement depuis plus de quinze ans ainsi que l'étranger qui réside régulièrement en France depuis plus de dix ans sauf s'il a été, pendant toute cette période, titulaire d'une carte de séjour temporaire portant la mention "étudiant";
 
@@ -16,7 +16,7 @@ Ne peuvent faire l'objet d'un arrêté d'expulsion, en application de l'article 
 
 7° L'étranger résidant régulièrement en France sous couvert de l'un des titres de séjour prévus par la présente ordonnance ou les conventions internationales qui n'a pas été condamné définitivement à une peine au moins égale à un an d'emprisonnement sans sursis ;
 
-8° L'étranger résidant habituellement en France atteint d'une pathologie grave nécessitant un traitement médical dont le défaut pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, sous réserve qu'il ne puisse effectivement bénéficier d'un traitement approprié dans le pays de renvoi.
+8° L'étranger résidant habituellement en France dont l'état de santé nécessite une prise en charge médicale dont le défaut pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, sous réserve qu'il ne puisse effectivement bénéficier d'un traitement approprié dans le pays de renvoi.
 
 Toutefois, par dérogation au 7° ci-dessus, peut être expulsé tout étranger qui a été condamné définitivement à une peine d'emprisonnement sans sursis d'une durée quelconque pour une infraction prévue ou réprimée par l'article 21 de la présente ordonnance, les articles 4 et 8 de la loi n° 73-538 du 27 juin 1973 relative à l'hébergement collectif, les articles L. 362-3, L. 364-2-1, L. 364-3 et L. 364-5 du code du travail ou les articles 225-5 à 225-11 du code pénal.
 
