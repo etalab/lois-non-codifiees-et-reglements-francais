@@ -6,7 +6,6 @@
 - [Décret n°83-566 du 1 juillet 1983](decret-n83-566-du-1-juillet-1983)
 - [Décret n°83-588 du 1 juillet 1983](decret-n83-588-du-1-juillet-1983)
 - [Décret n°83-779 du 1 septembre 1983](decret-n83-779-du-1-septembre-1983)
-- [Décret n°83-781 du 1 septembre 1983](decret-n83-781-du-1-septembre-1983)
 - [Décret n°84-894 du 1 octobre 1984](decret-n84-894-du-1-octobre-1984)
 - [Décret n°84-895 du 1 octobre 1984](decret-n84-895-du-1-octobre-1984)
 - [Décret du 2 novembre 1983](decret-du-2-novembre-1983)

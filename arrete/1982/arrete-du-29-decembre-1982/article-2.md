@@ -1,6 +1,6 @@
 # Article 2
 
-Les prix directeurs de campagne en vigueur au 15 novembre 1982 sont les suivants :
+Les prix directeurs de campagne en vigueur au 15 novembre 1982 [*date*] sont les suivants :
 
 Prix d'orientation des gros bovins : 1,918 7 Ecu par kilogramme de poids vif ;
 
