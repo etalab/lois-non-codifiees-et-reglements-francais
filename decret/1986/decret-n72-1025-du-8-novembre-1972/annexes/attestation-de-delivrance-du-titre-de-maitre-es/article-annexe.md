@@ -1,0 +1,13 @@
+# Article Annexe
+
+En application du décret n° 72-1025 du 8 novembre 1972, le titre de maître ès sciences médicales a été décerné à :
+
+M. ..., né le ...
+
+à ..., par arrêté du ministre chargé de l'enseignement supérieur, en date du ...
+
+Fait à ..., le ...
+
+Le président de l'université, ...
+
+Signature de l'impétrant.
