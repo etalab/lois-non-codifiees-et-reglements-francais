@@ -1,0 +1,15 @@
+# Arrêté du 25 mars 2004 fixant les règles générales de fonctionnement et les caractéristiques générales des installations des établissements zoologiques à caractère fixe et permanent, présentant au public des spécimens vivants de la faune locale ou étrangère et relevant de la rubrique 21-40 de la nomenclature des installations classées pour la protection de l'environnement.
+
+- [Chapitre 1er : De l'organisation générale des établissements.](chapitre-1er)
+- [Article 1](article-1.md)
+- [Chapitre 2 : De la prévention des accidents.](chapitre-2)
+- [Chapitre 3 : Des conduites d'élevage des animaux.](chapitre-3)
+- [Chapitre 4 : Des installations d'hébergement et de présentation au public des animaux.](chapitre-4)
+- [Chapitre 5 : De la surveillance sanitaire des animaux, de la prévention et des soins des maladies.](chapitre-5)
+- [Chapitre 6 : De la participation aux actions de conservation des espèces animales.](chapitre-6)
+- [Chapitre 7 : De l'information du public sur la biodiversité.](chapitre-7)
+- [Chapitre 8 : De la prévention des risques écologiques.](chapitre-8)
+- [Chapitre 9 : Dispositions transitoires.](chapitre-9)
+- [Chapitre 10 : Dispositions finales.](chapitre-10)
+- [Article 71](article-71.md)
+- [Annexes](annexes)

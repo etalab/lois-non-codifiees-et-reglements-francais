@@ -4,7 +4,7 @@ I. - Les transports de déménagement, c'est-à-dire les transports de meubles o
 
 II. - Ce document comporte obligatoirement les indications suivantes :
 
-a) Nom, adresse et numéro SIREN ou numéro d'identification intracommunautaire de l'entreprise de déménagement ;
+a) Nom, adresse et numéro SIREN ou numéro d'identification intracommunautaire de l'entreprise de déménagement ainsi que, en cas de cabotage en France, références de son immatriculation au centre des impôts des non résidents ;
 
 b) Nom et adresse du client ;
 

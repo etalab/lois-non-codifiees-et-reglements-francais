@@ -4,4 +4,6 @@ Sont admis en dispense du diplôme de fin de premier cycle d'arts et de la licen
 
 - le diplôme de premier cycle de l'Ecole du Louvre ;
 
-- le diplôme d'archiviste paléographe délivré par l'Ecole nationale des chartes.
+- le diplôme d'archiviste paléographe délivré par l'Ecole nationale des chartes ;
+
+- le diplôme de bi-licence, droit-histoire de l'art et archéologie délivré par l'université Paris-I.

@@ -14,13 +14,7 @@ Le chef d'établissement certifie, en outre, que les concurrents ont suivi norma
 
 4. Les listes des candidats doivent parvenir au ministère de l'éducation nationale, visées par les recteurs, à la date fixée chaque année par arrêté ministériel ;
 
-5. Le nombre des concurrents est fixé comme il suit pour chaque division :
-
-De deux à quinze élèves : 1 ;
-
-De seize à trente élèves : 2 ;
-
-Au-delà de trente élèves : 3.
+5. Pour chaque discipline et série concernée, le nombre de concurrents par établissement est limité à 8 % de l'effectif total (arrondi à l'unité supérieure) des élèves des classes de première ou terminale correspondantes ;
 
 6. Lorsque les élèves de divisions différentes qui concourent pour certaines compositions sont réunis pour les cours correspondants, ils sont considérés comme ne formant qu'une seule division ;
 
@@ -30,9 +24,13 @@ Au-delà de trente élèves : 3.
 
 9. Chaque année, le ministre de l'éducation nationale nomme les jurys ainsi que leurs présidents, constitués pour chaque discipline sur la proposition du doyen du groupe d'inspection générale concerné, qui procèdent à l'examen des compositions ;
 
-10. L'examen des compositions donne lieu à l'attribution éventuelle par le ministre, sur proposition des présidents de jurys, des récompenses suivantes : prix (premier, deuxième, troisième), accessits (dix au maximum), mentions régionales (selon le niveau des prestations).
+10. L'examen des compositions donne lieu à l'attribution éventuelle par le ministre, sur propositions des présidents de jurys, des récompenses suivantes :
 
-S'agissant d'une compétition de type spécifique ne visant qu'à récompenser les meilleurs concurrents, il n'y a aucun classement ni aucune notation pour les autres candidats ;
+- prix (premier, deuxième et troisième prix) ;
+
+- accessits (premier au cinquième) ;
+
+- mentions (dix au maximum, selon le niveau des prestations).
 
 11. Lorsqu'une composition est commune à deux niveaux, elle ne donne lieu qu'à un seul classement et à une seule série de récompenses.
 

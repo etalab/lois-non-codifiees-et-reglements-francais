@@ -6,7 +6,7 @@ La lettre de voiture est de forme libre. Son édition par des moyens informatiqu
 
 a) Date de son établissement ;
 
-b) Nom, adresse et numéro SIREN ou numéro d'identification intracommunautaire du transporteur ;
+b) Nom, adresse et numéro SIREN ou numéro d'identification intracommunautaire du transporteur ainsi que, en cas de cabotage en France, références de son immatriculation au centre des impôts des non résidents ;
 
 c) Date de la prise en charge de la marchandise ;
 

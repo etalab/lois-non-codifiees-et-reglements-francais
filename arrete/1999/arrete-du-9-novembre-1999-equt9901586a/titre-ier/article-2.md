@@ -6,15 +6,17 @@ I. - Le document présenté comporte obligatoirement les indications suivantes :
 
 a) Date de l'expédition ou de l'enlèvement ;
 
-b) Nom et adresse de l'expéditeur ;
+b) Nom et adresse de l'entreprise qui effectue le transport ainsi que, en cas de cabotage en France, références de son immatriculation au centre des impôts des non résidents ;
 
-c) Nom et adresse du destinataire ;
+c) Nom et adresse de l'expéditeur s'il est différent de l'entreprise qui effectue le transport ;
 
-d) Lieu de chargement ;
+d) Nom et adresse du destinataire s'il est différent de l'entreprise qui effectue le transport ;
 
-e) Lieu de déchargement ;
+e) Lieu de chargement ;
 
-f) Nature et quantité ou poids ou volume de la marchandise.
+f) Lieu de déchargement ;
+
+g) Nature et quantité ou poids ou volume de la marchandise.
 
 II. - Lorsqu'il s'agit d'une opération de transport d'un produit de même nature, réalisée pour le compte d'expéditeurs ou de destinataires multiples, le document peut comporter les indications suivantes :
 
@@ -22,15 +24,17 @@ a) Date du premier enlèvement ou de la première livraison ;
 
 b) Date et heure de début de l'opération de transport ;
 
-c) Nom et adresse du premier expéditeur ;
+c) Nom et adresse de l'entreprise qui effectue le transport ainsi que, en cas de cabotage, références de son immatriculation au centre des impôts des non résidents ;
 
-d) Nom et adresse du dernier destinataire ;
+d) Nom et adresse du premier expéditeur s'il est différent de l'entreprise qui effectue le transport ;
 
-e) Premier lieu de chargement ;
+e) Nom et adresse du dernier destinataire s'il est différent de l'entreprise qui effectue le transport ;
 
-f) Dernier lieu de déchargement ;
+f) Premier lieu de chargement ;
 
-g) Nature des marchandises.
+g) Dernier lieu de déchargement ;
+
+h) Nature des marchandises.
 
 Dans ce cas, lors d'un contrôle sur route, l'entreprise dont le véhicule n'est pas muni du document comportant, pour chaque expéditeur ou chaque destinataire, les indications mentionnées au I du présent article doit pouvoir justifier des informations manquantes relatives à l'ensemble des enlèvements ou des expéditions, dans les trois jours francs suivant ce contrôle.
 
