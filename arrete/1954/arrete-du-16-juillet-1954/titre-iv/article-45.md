@@ -2,6 +2,8 @@
 
 Les dispositifs réfléchissants prévus à l'article R. 196 du code de la route doivent être conformes à des types agréés dans les conditions prévues à l'article 31 du présent arrêté.
 
+Un dispositif réfléchissant de couleur blanche doit être fixé verticalement à  l'avant et dans le plan longitudinal médian du cycle, de telle façon qu'il  puisse indiquer clairement la présence du cycle vu de l'avant. Ce dispositif  peut pivoter en fonction du braquage de la direction et être groupé avec la  lanterne avant.
+
 Le dispositif réfléchissant de couleur rouge doit être fixé verti­calement à l'arrière du cycle ou du cyclomoteur à une distance du sol comprise entre 0,35 mètre et 0,90 mètre et de telle façon qu'il ne puisse être caché accidentellement par le chargement du porte-bagages ou les vêtements du cycliste ou du cyclomotoriste.
 
 Les cycles doivent comporter des dispositifs réfléchissants orangés placés respectivement à l'avant et à l'arrière de chaque pédale. Les cyclomoteurs peuvent comporter de tels dispositifs.
