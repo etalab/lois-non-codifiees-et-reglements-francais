@@ -35,7 +35,6 @@
 - [Décret n°79-1065 du 6 décembre 1979](decret-n79-1065-du-6-decembre-1979)
 - [Décret n°79-180 du 6 mars 1979](decret-n79-180-du-6-mars-1979)
 - [Décret n°79-222 du 6 mars 1979](decret-n79-222-du-6-mars-1979)
-- [Décret n°79-286 du 6 avril 1979](decret-n79-286-du-6-avril-1979)
 - [Décret n°79-461 du 6 juin 1979](decret-n79-461-du-6-juin-1979)
 - [Décret n°79-668 du 6 août 1979](decret-n79-668-du-6-aout-1979)
 - [Décret n°79-1088 du 7 décembre 1979](decret-n79-1088-du-7-decembre-1979)
