@@ -4,7 +4,6 @@
 - [Article 1](article-1.md)
 - [Chapitre I : Recrutement](chapitre-i)
 - [Chapitre II : Recrutement.](chapitre-ii)
-- [Chapitre III : Notation et avancement.](chapitre-iii)
 - [Chapitre IV : Discipline.](chapitre-iv)
 - [Chapitre V : Dispositions diverses.](chapitre-v)
 - [Chapitre VI : Dispositions transitoires.](chapitre-vi)

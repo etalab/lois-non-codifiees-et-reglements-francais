@@ -1,8 +1,5 @@
 # Titre 2 : Mode de désignation des administrateurs représentant les exploitants.
 
-- [Chapitre 1 : De l'éligibilité](chapitre-1)
-- [Chapitre 2 : De l'élection des représentants des travailleurs](chapitre-2)
-- [Chapitre 4 : Des résultats de l'élection](chapitre-4)
 - [Article 42](article-42.md)
 - [Article 43](article-43.md)
 - [Article 44](article-44.md)
