@@ -1,4 +1,4 @@
-# Arrêté du 31 mars 1992 relatif au mode de calcul des remises de gestion allouées aux mutuelles d'étudiants.
+# Arrêté du 31 mars 1992 RELATIF AU MODE DE CALCUL DES REMISES DE GESTION ALLOUEES AUX MUTUELLES D'ETUDIANTS
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
