@@ -1,0 +1,3 @@
+# Article 120
+
+Les articles 69 et 72 du présent décret pourront être ultérieurement modifiés par décret. Les autres dispositions du présent décret pourront être ultérieurement modifiées par décret en Conseil d'Etat, à l'exception de celles figurant au deuxième alinéa de l'article 2, à l'article 16, à l'article 37, à l'article 48, à l'article 51, au cinquième alinéa de l'article 55, à l'article 66, au quatrième alinéa de l'article 67, à l'article 75, au troisième alinéa de l'article 77, au premier alinéa de l'article 79, au troisième alinéa de l'article 98 et à l'article 118 qui seront modifiées, le cas échéant, dans les conditions prévues à l'article 2 du décret du 15 janvier 1997 susvisé.

@@ -1,0 +1,3 @@
+# Article 29
+
+Les agents publics non titulaires affectés au Musée des monuments français et au Centre des hautes études de Chaillot sont mis à disposition de la Cité de l'architecture et du patrimoine dès la date d'entrée en vigueur du présent décret. Ils disposent d'un délai de douze mois pour exercer un droit d'option entre leur recrutement par cet établissement ou leur remise à disposition des services de l'Etat. En cas de recrutement par la Cité de l'architecture et du patrimoine, ils bénéficient du maintien de la rémunération qui leur était antérieurement servie. Les services précédemment accomplis pour l'Etat sont assimilés à des services accomplis à la Cité de l'architecture et du patrimoine.

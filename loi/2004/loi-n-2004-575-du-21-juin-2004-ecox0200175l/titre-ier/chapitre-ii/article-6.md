@@ -72,7 +72,7 @@ Le directeur de la publication est tenu d'insérer dans les trois jours de leur 
 
 Les conditions d'insertion de la réponse sont celles prévues par l'article 13 de la loi du 29 juillet 1881 précitée. La réponse sera toujours gratuite.
 
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+Un décret en Conseil d'Etat fixe les modalités d'application du présent IV.
 
 V. - Les dispositions des chapitres IV et V de la loi du 29 juillet 1881 précitée sont applicables aux services de communication au public en ligne et la prescription acquise dans les conditions prévues par l'article 65 de ladite loi [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2004-496 DC du 10 juin 2004].
 

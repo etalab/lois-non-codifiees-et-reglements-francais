@@ -1,0 +1,3 @@
+# Article 3
+
+La comptabilisation des durées annuelles de formation d'adaptation à l'emploi de chaque inspecteur, après la première phase suivie à l'ENSP, est effectuée par la cellule régionale de formation continue du ressort de l'agent et fait l'objet d'un bilan annuel qui sera communiqué au comité technique paritaire régional et interdépartemental et à l'ENSP. La cellule régionale de formation adresse à la direction de l'administration générale, du personnel et du budget, en charge de la gestion du dossier administratif de l'agent, une attestation mentionnant l'objet et la durée en jours de l'ensemble des formations suivies dès que l'inspecteur aura achevé sa formation de perfectionnement à l'emploi.

@@ -1,0 +1,3 @@
+# Article 70
+
+Les éléments de la carte archéologique nationale mentionnés au 1° de l'article 69 sont communiqués par le préfet de région ou, pour le domaine public maritime, par le service chargé des recherches sous-marines, sur leur demande, aux autorités administratives chargées de l'élaboration des documents d'urbanisme ou de l'instruction des demandes d'autorisation de travaux susceptibles d'affecter le patrimoine archéologique. Ils peuvent également être consultés à la direction régionale des affaires culturelles territorialement compétente ou, pour le domaine public maritime, auprès du service précité, par toute personne qui en fait la demande.
