@@ -1,0 +1,3 @@
+# Article 43
+
+Le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, le ministre du budget, porte-parole du Gouvernement, et le ministre délégué à l'aménagement du territoire et aux collectivités locales sont chargés de l'exécution du présent décret qui entrera en vigueur au 1er août 1995, à l'exception des dispositions relatives au grade d'éducateur des activités physiques et sportives hors classe incluses dans les articles 1er, 2, 16 et 25 qui entrent en vigueur au 1er août 1994 et des dispositions de l'article 18 qui entreront en vigueur au 1er janvier 1997, et qui sera publié au Journal officiel de la République française.
