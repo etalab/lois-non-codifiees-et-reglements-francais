@@ -60,6 +60,8 @@
 - [Décret n°85-582 du 7 juin 1985](decret-n85-582-du-7-juin-1985)
 - [Décret n°85-585 du 7 juin 1985](decret-n85-585-du-7-juin-1985)
 - [Décret n°85-839 du 7 août 1985](decret-n85-839-du-7-aout-1985)
+- [Décret n°85-854 du 7 août 1985](decret-n85-854-du-7-aout-1985)
+- [Décret n°85-855 du 7 août 1985](decret-n85-855-du-7-aout-1985)
 - [Décret n°85-315 du 8 mars 1985](decret-n85-315-du-8-mars-1985)
 - [Décret n°85-316 du 8 mars 1985](decret-n85-316-du-8-mars-1985)
 - [Décret n°85-317 du 8 mars 1985](decret-n85-317-du-8-mars-1985)

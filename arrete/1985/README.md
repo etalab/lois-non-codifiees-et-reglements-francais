@@ -1,5 +1,6 @@
 # 1985
 
+- [Arrêté du 1 août 1985](arrete-du-1-aout-1985)
 - [Arrêté du 1 avril 1985](arrete-du-1-avril-1985)
 - [Arrêté du 1 décembre 1984](arrete-du-1-decembre-1984)
 - [Arrêté du 1 février 1985](arrete-du-1-fevrier-1985)
@@ -32,6 +33,7 @@
 - [Arrêté du 6 juin 1985](arrete-du-6-juin-1985)
 - [Arrêté du 6 mars 1985](arrete-du-6-mars-1985)
 - [Arrêté du 6 mai 1985](arrete-du-6-mai-1985)
+- [Arrêté du 7 août 1985](arrete-du-7-aout-1985)
 - [Arrêté du 7 décembre 1984](arrete-du-7-decembre-1984)
 - [Arrêté du 7 février 1985](arrete-du-7-fevrier-1985)
 - [Arrêté du 7 janvier 1985](arrete-du-7-janvier-1985)
