@@ -98,6 +98,7 @@
 - [Arrêté du 5 novembre 1987 (TRSA8700418A)](arrete-du-5-novembre-1987-trsa8700418a)
 - [Arrêté du 5 octobre 1987 (PRMJ8760074A)](arrete-du-5-octobre-1987-prmj8760074a)
 - [Arrêté du 5 octobre 1988 (COPC8800107A)](arrete-du-5-octobre-1988-copc8800107a)
+- [Arrêté du 5 septembre 1988 (SPSS8800992A)](arrete-du-5-septembre-1988-spss8800992a)
 - [Arrêté du 5 mai 1988 (ASEH8800735A)](arrete-du-5-mai-1988-aseh8800735a)
 - [Arrêté du 5 mai 1988 (ASEH8800736A)](arrete-du-5-mai-1988-aseh8800736a)
 - [Arrêté du 5 mai 1988 (ASEP8800336A)](arrete-du-5-mai-1988-asep8800336a)
