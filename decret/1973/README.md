@@ -96,6 +96,7 @@
 - [Décret n°73-404 du 26 mars 1973](decret-n73-404-du-26-mars-1973)
 - [Décret n°73-88 du 26 janvier 1973](decret-n73-88-du-26-janvier-1973)
 - [Décret du 27 juillet 1973](decret-du-27-juillet-1973)
+- [Décret n°73-1075 du 27 novembre 1973](decret-n73-1075-du-27-novembre-1973)
 - [Décret n°73-360 du 27 mars 1973](decret-n73-360-du-27-mars-1973)
 - [Décret n°73-378 du 27 mars 1973](decret-n73-378-du-27-mars-1973)
 - [Décret n°73-384 du 27 mars 1973](decret-n73-384-du-27-mars-1973)
