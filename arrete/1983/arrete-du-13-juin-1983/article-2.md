@@ -1,0 +1,3 @@
+# Article 2
+
+Chaque comité technique paritaire académique est composé de dix membres titulaires et dix membres suppléants représentant l'administration, nommés par arrêté rectoral, et de dix membres titulaires et dix membres suppléants representant les personnels et nommés par arrêté rectoral sur proposition des organisations syndicales de fonctionnaires remplissant les conditions exigées à l'article 14 de l'ordonnance n° 59-244 du 4 février 1959 et regardées comme représentatives des personnels exerçant leurs fonctions dans les services et établissements visés à l'article précédent au moment où se fait la désignation.

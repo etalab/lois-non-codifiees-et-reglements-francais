@@ -1,5 +1,3 @@
 # Article 1
 
-Délégation de compétence est donnée aux préfets pour fixer jusqu'au 31 juillet 1983 les prix de vente des pailles de céréales et des foins autres que ceux soumis à l'organisation commune des marchés.
-
-Les préfets pourront assortir leurs arrêtés de dispositions accessoires destinées à en assurer l'application et à faciliter le contrôle de leur exécution.
+Les sociétés d'aménagement foncier et d'établissement rural agréées qui exercent leur activité en métropole peuvent bénéficier, dans les conditions déterminées ci-après, de subventions de fonctionnement et d'équipement dans la limite du montant des crédits ouverts chaque année au budget du ministère de l'agriculture à cet effet.
