@@ -231,7 +231,6 @@
 - [Arrêté du 10 octobre 1988 (EQUC8800719A)](arrete-du-10-octobre-1988-equc8800719a)
 - [Arrêté du 10 octobre 1988 (SPSS8801512A)](arrete-du-10-octobre-1988-spss8801512a)
 - [Arrêté du 10 octobre 1988 (TEFE8804029A)](arrete-du-10-octobre-1988-tefe8804029a)
-- [Arrêté du 11 août 1988 (RESY8800805A)](arrete-du-11-aout-1988-resy8800805a)
 - [Arrêté du 11 avril 1988 (ASEE8803331A)](arrete-du-11-avril-1988-asee8803331a)
 - [Arrêté du 11 avril 1988 (ASEH8800868A)](arrete-du-11-avril-1988-aseh8800868a)
 - [Arrêté du 11 avril 1988 (ASET8803325A)](arrete-du-11-avril-1988-aset8803325a)
