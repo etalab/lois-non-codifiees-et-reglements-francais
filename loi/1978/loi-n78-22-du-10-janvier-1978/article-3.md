@@ -15,3 +15,5 @@ En sont également exclues les opérations de crédit portant sur des immeubles,
 - à la souscription ou à l'achat de parts ou d'actions de sociétés donnant vocation à une attribution en jouissance ou en propriété d'un immeuble ;
 
 - à la fourniture de services ou de matériels relatifs à la construction, la réparation, l'amélioration, l'entretien d'un immeuble lorsque le montant de cette fourniture est supérieur à un chiffre fixé par décret.
+
+Les dispositions du présent article n'ont pas pour effet d'exclure les prêts, contrats et opérations de crédit passés en la forme authentique et les prêts, contrats et opérations de crédit d'un montant excédant le seuil fixé en application du présent article, du champ d'application des deuxième et troisième alinéas de l'article 4 de la présente loi.
