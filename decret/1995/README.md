@@ -74,7 +74,6 @@
 - [Décret n°95-506 du 2 mai 1995 (INTB9500110D)](decret-n95-506-du-2-mai-1995-intb9500110d)
 - [Décret n°95-507 du 2 mai 1995 (INTD9500112D)](decret-n95-507-du-2-mai-1995-intd9500112d)
 - [Décret n°95-510 du 2 mai 1995 (DEFP9501465D)](decret-n95-510-du-2-mai-1995-defp9501465d)
-- [Décret n°95-517 du 2 mai 1995 (SPSS9500801D)](decret-n95-517-du-2-mai-1995-spss9500801d)
 - [Décret n°95-519 du 2 mai 1995 (ECOT9413777D)](decret-n95-519-du-2-mai-1995-ecot9413777d)
 - [Décret n°95-520 du 2 mai 1995 (INDP9500487D)](decret-n95-520-du-2-mai-1995-indp9500487d)
 - [Décret n°95-521 du 2 mai 1995 (EQUR9500034D)](decret-n95-521-du-2-mai-1995-equr9500034d)
