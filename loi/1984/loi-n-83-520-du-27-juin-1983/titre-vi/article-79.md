@@ -1,6 +1,6 @@
 # Article 79
 
-Sous réserve des dispositions qui ressortissent à la compétence propre des territoires d'outre-mer en vertu des statuts qui les régissent, sont abrogées, dans les territoires de la Nouvelle-Calédonie et dépendances, de la Polynésie française et des îles Wallis et Futuna et dans les îles mentionnées aux articles 6 et 7 de la présente loi, toutes les dispositions législatives pénales et de procédure pénale contraires à ladite loi.
+Sous réserve des dispositions qui ressortissent à la compétence propre des territoires d'outre-mer en vertu des statuts qui les régissent, sont abrogées, dans les territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna et dans les îles mentionnées aux articles 6 et 7 de la présente loi, toutes les dispositions législatives pénales et de procédure pénale contraires à ladite loi.
 
 Sont notamment abrogés :
 
@@ -8,7 +8,7 @@ Sont notamment abrogés :
 
 2. Les lois des 20 mai et 23 juin 1921 sur le flagrant délit.
 
-3. Les lois des 22 juillet 1867 et n° 57-142 du 9 février 1957 sur la contrainte par corps.
+3. Les lois des 22 juillet 1867 et n° 57-142 du 9 février 1957 sur la contrainte judiciaire.
 
 4. La loi modifiée du 5 août 1889 sur le casier judiciaire et la réhabilitation des condamnés.
 

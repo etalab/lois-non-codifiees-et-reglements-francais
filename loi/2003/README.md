@@ -40,6 +40,7 @@
 - [Loi n° 2003-73 du 27 janvier 2003 (DEFX0200133L)](loi-n-2003-73-du-27-janvier-2003-defx0200133l)
 - [Loi n° 2003-775 du 21 août 2003 (SOCX0300057L)](loi-n-2003-775-du-21-aout-2003-socx0300057l)
 - [Loi n° 2003-8 du 3 janvier 2003 (ECOX0200139L)](loi-n-2003-8-du-3-janvier-2003-ecox0200139l)
+- [Loi n° 2003-88 du 3 février 2003 (JUSX0206165L)](loi-n-2003-88-du-3-fevrier-2003-jusx0206165l)
 - [Loi n° 2003-9 du 3 janvier 2003 (EQUX0205944L)](loi-n-2003-9-du-3-janvier-2003-equx0205944l)
 - [Loi n° 70-1208 du 23 décembre 1970](loi-n-70-1208-du-23-decembre-1970)
 - [Loi n° 76-655 du 16 juillet 1976](loi-n-76-655-du-16-juillet-1976)

@@ -1,0 +1,5 @@
+# Article 4
+
+Sont amnistiées les infractions prévues aux articles suivants du code de justice militaire pour l'armée de mer, lorsqu'elles ont été commises antérieurement au 1er janvier 1966 :
+
+Articles 208 (sauf alinéa 1er), 209, 210 (seulement dans les cas où les voies de fait envers un supérieur n'ont pas été exercées à bord, ou pendant le service ou à l'occasion du service hors du bord, et lorsque la peine prévue est correctionnelle), 211, 212 (seulement lorsque la peine prévue est correctionnelle), 213, 215 (seulement lorsque la peine prévue est correctionnelle), 216 (sauf alinéa 3), 219 (1er et 2 et dernier alinéa), 220, 221, 227, 228 (lorsque la peine prévue est correctionnelle), 229, 231 (sauf lorsque l'abandon de poste à eu lieu en présence de rebelles ou de l'ennemi), 232, 233 (sauf lorsque l'abandon du quart ou de poste a eu lieu en présence de rebelles ou de l'ennemi), 234, 235, 236 (lorsque la peine prévue est correctionnelle), 237, 245, 246, 248 (sauf le paragraphe 1er), 249 (saut l'alinéa 1er), 250 (lorsque la peine prévue est correctionnelle), 251 (alinéa 2), 252, 253, 259.
