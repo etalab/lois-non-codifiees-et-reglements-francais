@@ -1,6 +1,6 @@
 # Article 2
 
-Le service de l'aéronautique navale assure la réalisation du matériel de soutien qui ne relève pas de la compétence de la délégation générale pour l'armement.
+Le service de l'aéronautique navale assure la réalisation du matériel de soutien qui ne relève pas de la compétence de la délégation générale pour l'armement ou de la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense.
 
 Pour le matériel aéronautique, il participe à la définition et à la mise en place du soutien logistique intégré en liaison avec les organismes concernés des autres armées.
 
