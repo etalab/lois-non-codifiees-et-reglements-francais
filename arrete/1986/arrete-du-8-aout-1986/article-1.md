@@ -1,3 +1,5 @@
 # Article 1
 
-Le montant de l'émission d'obligations 7,50 % juillet 2001 de la deuxième tranche de l'emprunt d'Etat Juillet 1986 est fixé à 5,000018 milliards de francs.
+Pour l'application de l'article 2 du décret n° 86-989 du 8 août 1986 susvisé, le rapport statistique annuel destiné à recueillir les informations relatives à l'exercice par la commune de ses compétences en matière de ports de plaisance doit être conforme au modèle figurant en annexe 1 du présent arrêté. Le même modèle s'impose au département en ce qui concerne la partie port de plaisance des ports d'activité mixte (pêche-plaisance) (1).
+
+(1) Les annexes seront publiées au Bulletin officiel du secrétariat d'Etat à la mer.
