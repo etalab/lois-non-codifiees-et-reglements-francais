@@ -231,6 +231,7 @@
 - [Décret n°87-1007 du 17 décembre 1987 (DEFD8701873D)](decret-n87-1007-du-17-decembre-1987-defd8701873d)
 - [Décret n°87-1015 du 17 décembre 1987 (MCCB8700504D)](decret-n87-1015-du-17-decembre-1987-mccb8700504d)
 - [Décret n°87-1025 du 17 décembre 1987 (ASEE8703860D)](decret-n87-1025-du-17-decembre-1987-asee8703860d)
+- [Décret n°87-1026 du 17 décembre 1987 (BUDL8700135D)](decret-n87-1026-du-17-decembre-1987-budl8700135d)
 - [Décret n°87-109 du 17 février 1987 (ECOA8700014D)](decret-n87-109-du-17-fevrier-1987-ecoa8700014d)
 - [Décret n°87-113 du 17 février 1987 (INDG8700096D)](decret-n87-113-du-17-fevrier-1987-indg8700096d)
 - [Décret n°87-119 du 17 février 1987 (MAEJ8730006D)](decret-n87-119-du-17-fevrier-1987-maej8730006d)
