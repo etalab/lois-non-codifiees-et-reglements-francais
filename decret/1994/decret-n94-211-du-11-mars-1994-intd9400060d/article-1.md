@@ -24,7 +24,7 @@ i) Travailleurs salariés ou non salariés, sans qu'ils aient à justifier d'auc
 
 j) Membres de la famille, tels qu'ils sont définis au n, du travailleur salarié ou non salarié décédé au cours de sa vie professionnelle avant d'avoir acquis le droit de demeurer sur le territoire français si, à la date de son décès, le travailleur avait résidé en France de façon continue depuis deux ans, s'il est décédé des suites d'un accident du travail ou d'une maladie professionnelle ou si le conjoint survivant possède la nationalité française ou a perdu cette nationalité par l'effet de son mariage ;
 
-k) Qui ne bénéficient pas du droit au séjour en vertu d'autres dispositions du présent article, à condition qu'ils justifient, pour eux-mêmes et leur conjoint, leurs descendants et ascendants à charge, d'une assurance couvrant l'ensemble des risques maladie et maternité auxquels ils peuvent être exposés durant leur séjour en France et qu'ils disposent des ressources suivantes :
+k) Qui ne bénéficient pas du droit au séjour en vertu d'autres dispositions du présent article, à condition qu'ils disposent, pour eux-mêmes et leur conjoint, leurs descendants et ascendants à charge, d'une assurance couvrant l'ensemble des risques maladie et maternité auxquels ils peuvent être exposés durant leur séjour en France et des ressources suivantes :
 
 1° Pour une personne seule, accompagnée éventuellement de ses descendants à charge, une somme égale au plafond de ressources annuel fixé pour l'attribution du minimum de ressources versé à une personne âgée vivant seule en application du livre VIII du code de la sécurité sociale ;
 
@@ -32,15 +32,9 @@ k) Qui ne bénéficient pas du droit au séjour en vertu d'autres dispositions d
 
 3° Pour les ascendants à charge du demandeur du droit au séjour ou de son conjoint, un revenu du même montant que celui qui est exigé du demandeur et, éventuellement, de son conjoint ;
 
-l) Qui ont cessé leur activité professionnelle dans un des Etats de la Communauté européenne ou (d'un) (des) autre(s) Etat(s) membre(s) de l'Association européenne de libre-échange qui ont adhéré à l'accord sur l'Espace économique européen et pour lesquels cet accord est entré en vigueur, à condition qu'ils bénéficient d'une pension d'invalidité, de préretraite ou de vieillesse ou d'une rente d'accident de travail ou de maladie professionnelle, qu'ils justifient, pour eux-mêmes et leur conjoint, leurs descendants et ascendants à charge, d'une assurance couvrant l'ensemble des risques maladie et maternité auxquels ils peuvent être exposés durant leur séjour en France et qu'ils disposent des ressources définies, selon les cas, aux 1°, 2° et 3° du k ;
+l) Qui ont cessé leur activité professionnelle dans un des Etats de la Communauté européenne ou (d'un) (des) autre(s) Etat(s) membre(s) de l'Association européenne de libre-échange qui ont adhéré à l'accord sur l'Espace économique européen et pour lesquels cet accord est entré en vigueur, à condition qu'ils bénéficient d'une pension d'invalidité, de préretraite ou de vieillesse ou d'une rente d'accident de travail ou de maladie professionnelle, qu'ils disposent, pour eux-mêmes et leur conjoint, leurs descendants et ascendants à charge, d'une assurance couvrant l'ensemble des risques maladie et maternité auxquels ils peuvent être exposés durant leur séjour en France et des ressources définies, selon les cas, aux 1°, 2° et 3° du k ;
 
-m) Etudiants qui ne bénéficient pas du droit au séjour sur la base d'une autre disposition du présent article, à condition qu'ils justifient pour eux-mêmes et leur conjoint, ainsi que pour leurs enfants à charge d'une assurance couvrant l'ensemble des risques maladie et maternité auxquels ils peuvent être exposés pendant leur séjour en France et qu'ils disposent des ressources suivantes :
-
-1° Pour l'étudiant seul, s'il n'est pas titulaire d'une bourse de son gouvernement, une somme égale à 70 p. 100 de l'allocation d'entretien mensuelle de base versée, au titre de l'année universitaire écoulée, aux boursiers du Gouvernement français ;
-
-2° Pour l'étudiant accompagné ou de ses enfants à charge, ou de son conjoint et, le cas échéant, de leurs enfants à charge, un revenu mensuel équivalent au double du montant fixé au 1° ;
-
-Les étudiants doivent, en outre, justifier d'une inscription dans un établissement d'enseignement et suivre à titre principal leurs études ;
+m) Etudiants qui ne bénéficient pas du droit au séjour sur la base d'une autre disposition du présent article, et qui, par déclaration ou tout autre moyen équivalent de leur choix, assurent disposer, pour eux-mêmes et leur conjoint ainsi que pour leurs enfants à charge, d'une assurance couvrant l'ensemble des risques maladie et maternité auxquels ils peuvent être exposés pendant leur séjour en France et de ressources suffisantes.
 
 n) Membres de la famille des ressortissants des Etats membres ou (d'un) (des) autre(s) Etat(s) membre(s) de l'Association européenne de libre-échange qui ont adhéré à l'accord sur l'Espace économique européen et pour lesquels cet accord est entré en vigueur, qui entrent dans les catégories mentionnées au présent article, tels qu'ils sont définis ci-dessous :
 
