@@ -1,6 +1,6 @@
 # Article 16-1
 
-Les exploitations de carrières sont soumises à l'autorisation administrative prévue à l'article 3.
+Les exploitations de carrières sont soumises à l'autorisation administrative prévue à l'article 3, à l'exception des carrières de marne ou d'arène granitique de dimension et de rendement faibles utilisées à ciel ouvert, sans but commercial, dans le champ même des exploitants ou dans la carrière communale, soumises aux dispositions applicables aux installations relevant du régime de la déclaration figurant au titre III.
 
 L'autorisation administrative visée à l'alinéa précédent ne peut excéder trente ans.
 

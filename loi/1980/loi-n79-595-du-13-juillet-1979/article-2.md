@@ -1,6 +1,6 @@
 # Article 2
 
-Il est interdit d'importer, de détenir en vue de la vente, de mettre en vente, de vendre ou de distribuer à titre gratuit, sous quelque dénomination que ce soit, des matières fertilisantes et des supports de culture lorsqu'ils n'ont pas fait l'objet d'une homologation ou, à défaut, d'une autorisation provisoire de vente ou d'importation.
+Il est interdit d'importer, de détenir en vue de la vente, de mettre en vente, de vendre, d'utiliser ou de distribuer à titre gratuit, sous quelque dénomination que ce soit, des matières fertilisantes et des supports de culture lorsqu'ils n'ont pas fait l'objet d'une homologation ou, à défaut, d'une autorisation provisoire de vente, d'une autorisation de distribution pour expérimentation ou d'une autorisation d'importation.
 
 Toutefois, sous réserve de l'innocuité des matières fertilisantes ou supports de culture à l'égard de l'homme, des animaux, ou de leur environnement, dans des conditions d'emploi prescrites ou normales, les dispositions du premier alinéa du présent article ne sont pas applicables :
 

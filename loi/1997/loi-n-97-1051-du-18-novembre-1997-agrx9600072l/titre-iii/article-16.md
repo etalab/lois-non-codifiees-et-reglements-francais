@@ -14,6 +14,8 @@ La détermination de la cotisation et de la pension à laquelle elle ouvre droit
 
 Les bénéficiaires des dispositions ci-dessus ont la faculté de procéder, selon des modalités déterminées par décret en Conseil d'Etat, à la validation des périodes de participation à l'activité de l'entreprise ou de l'exploitation antérieures à la date d'entrée en vigueur de la présente loi dans la limite d'un maximum de huit années.
 
+Les dispositions qui précèdent sont applicables au conjoint de l'associé d'une exploitation ou d'une entreprise de cultures marines ou du copropriétaire embarqué qui exerce son activité dans les conditions définies au premier alinéa lorsque cet associé ou ce copropriétaire relève du régime spécial de sécurité sociale des marins.
+
 II. - Le conjoint, défini au premier alinéa du I, d'un propriétaire embarqué seul à bord de son navire a la faculté, sur sa demande expresse, de partager les versements au régime, en cotisations et contributions, dudit propriétaire et de partager la pension acquise par ce dernier, pour les périodes à versements communs. Cette option ne peut être cumulée avec le régime défini au I.
 
 Un décret en Conseil d'Etat détermine les modalités d'exercice de cette faculté et fixe la répartition, entre le propriétaire embarqué et son conjoint, de la pension correspondant aux périodes de versements communs des cotisations et contributions.

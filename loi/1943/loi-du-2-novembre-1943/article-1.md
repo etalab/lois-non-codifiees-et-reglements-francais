@@ -1,6 +1,6 @@
 # Article 1
 
-Est interdite la vente, la mise en vente ou la distribution à titre gratuit, des produits énumérés ci-après, lorsqu'ils n'ont pas fait l'objet d'une homologation :
+A. Sont interdites la mise sur le marché, l'utilisation ou la détention par l'utilisateur final en vue de l'application des produits énumérés ci-après s'ils ne bénéficient pas d'une autorisation de mise sur le marché ou d'une autorisation de distribution pour expérimentation, sauf dérogation accordée par l'autorité administrative dans des conditions fixées par décret en Conseil d'Etat :
 
 1° Les antiseptiques et les anticryptogamiques destinés à la protection des cultures et des matières végétales ;
 
@@ -21,3 +21,7 @@ a) Pour le transport, la réception, l'entretien et le logement des animaux dome
 b) Pour la récolte, le transport, le stockage, la transformation industrielle et la commercialisation des produits d'origine animale ou végétale ;
 
 c) Pour la collecte, le transport et le traitement des ordures ménagères et des déchets d'origine animale ou végétale.
+
+B. Constitue une mise sur le marché toute cession à titre onéreux ou gratuit, à l'exception des cessions destinées au stockage et à l'expédition consécutive à l'extérieur du territoire métropolitain et des départements d'outre-mer. L'importation de pays tiers pour la mise en libre pratique constitue une mise sur le marché.
+
+C. Dans l'intérêt de la santé publique et de l'environnement, les ministres chargés de l'agriculture et de la consommation peuvent, par arrêté, prendre toute mesure d'interdiction, de restriction ou de prescription particulières concernant la mise sur le marché ou la délivrance des produits mentionnés à l'article 1er.
