@@ -74,7 +74,6 @@
 - [Arrêté du 3 avril 1990 (COPC9000033A)](arrete-du-3-avril-1990-copc9000033a)
 - [Arrêté du 3 avril 1990 (PRME9061200A)](arrete-du-3-avril-1990-prme9061200a)
 - [Arrêté du 3 décembre 1990 (AGRG9002272A)](arrete-du-3-decembre-1990-agrg9002272a)
-- [Arrêté du 3 décembre 1990 (MEND9002884A)](arrete-du-3-decembre-1990-mend9002884a)
 - [Arrêté du 3 décembre 1990 (SPSA9002468A)](arrete-du-3-decembre-1990-spsa9002468a)
 - [Arrêté du 3 décembre 1990 (TEFE9004028A)](arrete-du-3-decembre-1990-tefe9004028a)
 - [Arrêté du 3 février 1993 (SANH9202687A)](arrete-du-3-fevrier-1993-sanh9202687a)
