@@ -17,7 +17,6 @@
 - [Arrêté du 1 juin 1994 (JUSC9420319A)](arrete-du-1-juin-1994-jusc9420319a)
 - [Arrêté du 1 mars 1994 (INTB9400144A)](arrete-du-1-mars-1994-intb9400144a)
 - [Arrêté du 1 mars 1994 (SPSH9400685A)](arrete-du-1-mars-1994-spsh9400685a)
-- [Arrêté du 1 mars 1994 (SPSH9400686A)](arrete-du-1-mars-1994-spsh9400686a)
 - [Arrêté du 1 mars 1994 (SPSH9400687A)](arrete-du-1-mars-1994-spsh9400687a)
 - [Arrêté du 1 mars 1994 (SPSS9400701A)](arrete-du-1-mars-1994-spss9400701a)
 - [Arrêté du 1 septembre 1994 (SPSS9402688A)](arrete-du-1-septembre-1994-spss9402688a)
