@@ -10,6 +10,8 @@ Les interdictions définies à l'article 10 de la présente loi ne font pas obst
 
 4° Emettre des valeurs mobilières ainsi que des bons ou billets à court terme négociables sur un marché réglementé ;
 
-5° Emettre des bons et cartes délivrés pour l'achat auprès d'elle, d'un bien ou d'un service déterminé.
+5° Emettre des bons et cartes délivrés pour l'achat auprès d'elle, d'un bien ou d'un service déterminé ;
 
-6° Remettre des espèces en garantie d'un prêt de titres en application du c de l'article 31 de la loi n° 87-416 du 17 juin 1987 sur l'épargne.
+6° Remettre des espèces en garantie d'un prêt de titres en application du c de l'article 31 de la loi n° 87-416 du 17 juin 1987 sur l'épargne ;
+
+7° Prendre ou mettre en pension des valeurs mobilières, des titres de créances négociables sur un marché réglementé français ou étranger ou des effets publics.
