@@ -2,6 +2,6 @@
 
 - [CHAPITRE I : Composition](chapitre-i)
 - [CHAPITRE II : Elections.](chapitre-ii)
-- [CHAPITRE III : Fonctionnement.](chapitre-iii)
+- [CHAPITRE III : Modalités d'organisation du scrutin.](chapitre-iii)
 - [CHAPITRE IV : Fonctionnement.](chapitre-iv)
 - [CHAPITRE V : Dispositions diverses.](chapitre-v)

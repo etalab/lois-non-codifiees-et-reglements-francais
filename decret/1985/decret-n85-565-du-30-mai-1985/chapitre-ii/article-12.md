@@ -2,7 +2,7 @@
 
 Les listes de candidats sont présentées, au premier tour de scrutin, par les organisations syndicales représentatives. Au second tour, toute organisation syndicale de fonctionnaires peut déposer une liste. Nul ne peut être candidat sur plusieurs listes. Chaque organisation syndicale ne peut présenter qu'une liste de candidats pour un même scrutin.
 
-Chaque liste comprend un nombre de noms égal au moins aux deux tiers et au plus au double du nombre de sièges de représentant titulaire et de représentant suppléant à pourvoir.
+Chaque liste comprend un nombre de noms égal au moins aux deux tiers et au plus au double du nombre de sièges de représentant titulaire et de représentant suppléant à pourvoir. En outre, ces listes doivent comporter un nombre pair de noms.
 
 Les listes doivent être déposées au moins six semaines avant la date fixée pour le premier tour de scrutin et au moins quatre semaines avant la date fixée pour le second tour de scrutin.
 

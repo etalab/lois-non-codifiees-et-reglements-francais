@@ -6,7 +6,7 @@ Toutefois, si dans un délai de trois jours francs suivant la date limite de dé
 
 Lorsque la recevabilité d'une des listes n'est pas reconnue par l'autorité territoriale, le délai de trois jours francs, prévu au deuxième alinéa ci-dessus, ne court à l'égard de cette liste qu'à compter de la notification du jugement du tribunal administratif lorsqu'il est saisi d'une contestation de la décision de l'autorité territoriale, en application des dispositions du douzième alinéa de l'article 32 de la loi n° 84-53 du 26 janvier 1984 précitée.
 
-Si le fait motivant l'inéligibilité est intervenu après la date limite de dépôt des listes, le candidat inéligible peut être remplacé jusqu'au dixième jour précédant la date du scrutin.
+Si le fait motivant l'inéligibilité est intervenu après la date limite de dépôt des listes, le candidat inéligible peut être remplacé jusqu'au quinzième jour précédant la date du scrutin.
 
 Les listes établies dans les conditions fixées par le présent décret sont affichées dans la collectivité ou l'établissement auprès duquel est placé le comité technique paritaire, au plus tard le deuxième jour suivant la date limite fixée pour leur dépôt. Les rectifications apportées ultérieurement sont affichées immédiatement.
 

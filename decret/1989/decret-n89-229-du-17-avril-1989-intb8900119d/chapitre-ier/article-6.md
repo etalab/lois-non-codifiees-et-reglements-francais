@@ -2,7 +2,7 @@
 
 Si, avant l'expiration de son mandat, l'un des représentants du personnel, membre titulaire ou suppléant de la commission, démissionne, est frappé d'une des causes d'inéligibilité prévues au second alinéa de l'article 11 ou perd, sauf dans le cas mentionné au dernier alinéa, la qualité d'électeur à la commission administrative paritaire concernée, il est remplacé jusqu'au renouvellement de la commission, dans les conditions ci-après.
 
-Lorsqu'un représentant titulaire se trouve dans l'impossibilité définitive d'exercer ses fonctions, son suppléant est nommé titulaire et remplacé par le premier candidat non élu restant sur la même liste et relevant du même groupe hiérarchique.
+Lorsqu'un représentant titulaire se trouve dans l'impossibilité définitive d'exercer ses fonctions, un suppléant de la même liste et du même groupe hiérarchique est nommé titulaire et remplacé par le premier candidat non élu restant sur la même liste et relevant du même groupe hiérarchique.
 
 Lorsqu'un représentant suppléant se trouve dans l'impossibilité d'exercer ses fonctions, il est remplacé par le premier candidat non élu restant sur la même liste et relevant du même groupe hiérarchique.
 
