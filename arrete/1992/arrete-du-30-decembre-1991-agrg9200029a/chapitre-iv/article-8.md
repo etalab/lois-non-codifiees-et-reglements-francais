@@ -22,6 +22,8 @@ Pour pouvoir être agréées les usines de transformation à haut ou faible risq
 
 Il doit faire l'objet d'un agrément par la direction générale de l'alimentation selon des modalités fixées par instructions du ministère de l'agriculture et de la forêt.
 
+7° bis Les déchets animaux de mammifères, visés par la décision 96/449/CE du 18 juillet 1996 relative à l'agrément de systèmes de traitement thermique de remplacement pour la transformation de déchets animaux au regard de l'inactivation des agents de l'encéphalopathie spongiforme, sont transformés conformément aux paramètres minimaux fixés par cette décision.
+
 8° Quel que soit le procédé thermique utilisé, des thermographes doivent être prévus aux points sensibles pour contrôler le traitement par la chaleur.
 
 9° Les installations et les équipements doivent être bien entretenus et les équipements de mesure étalonnés à intervalles réguliers.
@@ -31,3 +33,7 @@ Il doit faire l'objet d'un agrément par la direction générale de l'alimentati
 11° Les produits finis doivent répondre aux critères microbiologiques fixés en annexe II.
 
 12° Les cuirs doivent être salés au chlorure de sodium.
+
+13° Les produits finis issus des matières à haut risque visées aux points 1, 2, 3, 4, 8 et 9 de l'annexe I sont incinérés.
+
+14° Les établissements n'ayant pas traité les déchets de mammifères visés par la décision 96/449/CE du 18 juillet 1996 précitée, conformément aux paramètres minimaux fixés par cette décision, doivent procéder ou faire procéder au retraitement ou à l'élimination de ces produits afin d'interdire leur entrée dans la chaîne alimentaire animale conformément aux dispositions de la décision 97/735/CE du 21 octobre 1997 relative à des mesures de protection en ce qui concerne les échanges de certains types de déchets animaux de mammifères.
