@@ -1,0 +1,7 @@
+# Article 8
+
+La demande de renouvellement du classement émane de l'organisme chargé de l'aménagement et de la gestion du parc.
+
+Elle comprend un bilan de l'action du parc qui sert de base à la révision de la charte.
+
+Le renouvellement du classement s'effectue dans les conditions fixées aux articles 2 à 5 ci-dessus.
