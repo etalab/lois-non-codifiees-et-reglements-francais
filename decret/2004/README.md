@@ -170,6 +170,7 @@
 - [Décret n°2004-399 du 7 mai 2004 (INTA0400114D)](decret-n2004-399-du-7-mai-2004-inta0400114d)
 - [Décret n°2004-400 du 7 mai 2004 (SOCT0410790D)](decret-n2004-400-du-7-mai-2004-soct0410790d)
 - [Décret n°2004-401 du 7 mai 2004 (SOCF0410819D)](decret-n2004-401-du-7-mai-2004-socf0410819d)
+- [Décret n°2004-1070 du 8 octobre 2004 (ECOF0400053D)](decret-n2004-1070-du-8-octobre-2004-ecof0400053d)
 - [Décret n°2004-206 du 8 mars 2004 (SOCF0410338D)](decret-n2004-206-du-8-mars-2004-socf0410338d)
 - [Décret n°2004-217 du 8 mars 2004 (EQUR0301807D)](decret-n2004-217-du-8-mars-2004-equr0301807d)
 - [Décret n°2004-24 du 8 janvier 2004 (INDI0301925D)](decret-n2004-24-du-8-janvier-2004-indi0301925d)

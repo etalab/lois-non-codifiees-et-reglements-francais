@@ -188,6 +188,7 @@
 - [Arrêté du 8 juin 2004 (LPEA0421861A)](arrete-du-8-juin-2004-lpea0421861a)
 - [Arrêté du 8 juin 2004 (MENF0400813A)](arrete-du-8-juin-2004-menf0400813a)
 - [Arrêté du 8 mars 2004 (DOMA0400008A)](arrete-du-8-mars-2004-doma0400008a)
+- [Arrêté du 8 octobre 2004 (ECOF0400052A)](arrete-du-8-octobre-2004-ecof0400052a)
 - [Arrêté du 8 septembre 2004 (AGRP0401975A)](arrete-du-8-septembre-2004-agrp0401975a)
 - [Arrêté du 8 septembre 2004 (ECOF0400041A)](arrete-du-8-septembre-2004-ecof0400041a)
 - [Arrêté du 8 septembre 2004 (ECOT0414423A)](arrete-du-8-septembre-2004-ecot0414423a)
