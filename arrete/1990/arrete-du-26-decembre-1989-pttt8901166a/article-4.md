@@ -4,6 +4,6 @@ Les clients qui le souhaitent peuvent souscrire lors de l'achat un contrat optio
 
 Le montant hors taxes de cette prestation supplémentaire est fixé à :
 
-83,50 F pour le Soprano ;
+83,47 F pour le Soprano ;
 
-108,80 F pour le Ténor.
+108,77 F pour le Ténor.
