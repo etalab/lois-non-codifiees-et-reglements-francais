@@ -1,4 +1,4 @@
-# Arrêté du 22 juillet 1986 portant répartition pour 1985 du produit des cotisations instituées par l'article L. 213-1 du code des assurances
+# Arrêté du 22 juillet 1986 modifiant l'arrêté du 5 août 1985 fixant les conditions d'inscription sur la liste d'aptitude aux emplois de cadre supérieur des organismes de sécurité sociale dans les mines.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
