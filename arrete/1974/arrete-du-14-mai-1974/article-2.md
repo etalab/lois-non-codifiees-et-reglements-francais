@@ -1,25 +1,23 @@
 # Article 2
 
-Le centre national de l'équipement hospitalier étudie, sous tous leurs aspects techniques et économiques, l'ensemble des problèmes intéressant les biens d'équipement médicaux et hospitaliers et, d'une manière générale, tous matériels nécessaires au fonctionnement des établissements. Il est notamment chargé :
+La commission visée à l'article 1er comprend :
 
-- d'entreprendre les études et recherches permettant une meilleure connaissance des besoins ;
+- Un contrôleur général des armées nommé par le ministre de la défense, président de la commission ;
 
-- de contribuer à la coordination des mesures tendant à la rationalisation des matériels et équipements ;
+- un représentant du ministre de l'économie, des finances et du budget ;
 
-- d'assurer des liaisons entre les industriels, les gestionnaires des établissements hospitaliers et les utilisateurs des matériels ;
+- un représentant du ministre de l'intérieur et de la décentralisation ;
 
-- de participer, avec les organismes habilités à cet effet, à l'élaboration des normes et des règles permettant le contrôle et la garantie de la qualité des fabrications ;
+- un représentant du garde des sceaux, ministre de la justice ;
 
-- de participer à la création et à la défense des marques de qualité et de conformité aux normes ;
+- un représentant du ministre de la défense ;
 
-- de coopérer aux expérimentations en milieu hospitalier et dans tous laboratoires ou organismes agréés par les pouvoirs publics.
+- un représentant du ministre de l'industrie et de la recherche ;
 
-Le centre pourra effectuer ou faire effectuer sur contrats toutes études d'installation des équipements mobiliers et techniques, à la demande des établissements, de l'administration ou des professions intéressées, et être associé dans les mêmes conditions aux enquêtes et aux vérifications techniques et administratives correspondantes.
+- un représentant du ministre du commerce et de l'artisanat ;
 
-Il peut également remplir ce rôle vis-à-vis des hôpitaux ou administrations de santé publique étrangers.
+- un représentant du ministre délégué au temps libre, à la jeunesse et aux sports ;
 
-Le centre est habilité à donner tous conseils lors de l'élaboration des marchés à passer par les gestionnaires des établissements.
+- un représentant du secrétaire d'Etat auprès du Premier ministre, chargé de l'environnement et de la qualité de la vie.
 
-A la demande du ministre de la santé publique et de la sécurité sociale, le centre peut être associé à toute opération d'équipement immobilier entreprise à l'initiative ou sous le contrôle du service de l'administration centrale chargé des constructions hospitalières.
-
-Il rassemble et tient à jour la documentation scientifique, technique, économique et administrative nécessaire à la poursuite de ses objectifs.
+En outre, selon l'objet des questions écrites à l'ordre du jour et sur convocation du président de la commission, peut prendre part, avec voix délibérative, aux travaux de la commission un représentant de chacun des autres ministères concernés par l'une de ces questions.

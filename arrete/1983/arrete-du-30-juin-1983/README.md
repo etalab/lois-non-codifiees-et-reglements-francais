@@ -1,17 +1,7 @@
-# Arrêté du 30 juin 1983 fixant la revalorisation des allocations familiales servies dans les départements de Guadeloupe, de Guyane, de Martinique et de la Réunion à compter du 1er juillet 1983.
+# Arrêté du 30 juin 1983 relatif aux conditions d'attribution du crédit à l'artisanat
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
-- [Article 9](article-9.md)
-- [Article 10](article-10.md)
-- [Article 21](article-21.md)
-- [Fonds communs de placement à risques de la loi du 3 janvier 1983.](fonds-communs-de-placement-a)
-- [Fonds de communs de placement a risques de la loi du 3 janvier 1983.](fonds-de-communs-de-placement-a)
-- [Dispositions communes aux divers fonds communs de placement.](dispositions-communes-aux)
-- [Fonds communs de placement institués pour la participation des salariés aux fruits de l'expansion des entreprises et pour les plans d'épargne d'entreprises.](fonds-communs-de-placement-institues-pour-la-participation-des-salaries-aux)
-- [Fonds commun de placement de la loi du 30 decembre 1981.](fonds-commun-de-placement-de-la-loi)
-- [Fonds communs de placement de la loi du 13 juillet 1983.](fonds-communs-de-placement-de-la-loi)
-- [Fonds communs de placement de loi du 13 juillet 1979.](fonds-communs-de-placement-de-loi)

@@ -20,6 +20,8 @@
 - [Décret n°83-173 du 3 mars 1983](decret-n83-173-du-3-mars-1983)
 - [Décret n°83-164 du 4 mars 1983](decret-n83-164-du-4-mars-1983)
 - [Décret n°83-4 du 4 janvier 1983](decret-n83-4-du-4-janvier-1983)
+- [Décret n°83-584 du 4 juillet 1983](decret-n83-584-du-4-juillet-1983)
+- [Décret n°83-585 du 4 juillet 1983](decret-n83-585-du-4-juillet-1983)
 - [Décret n°83-370 du 4 mai 1983](decret-n83-370-du-4-mai-1983)
 - [Décret n°83-371 du 4 mai 1983](decret-n83-371-du-4-mai-1983)
 - [Décret n° 83-11 du 5 janvier 1983](decret-n-83-11-du-5-janvier-1983)
