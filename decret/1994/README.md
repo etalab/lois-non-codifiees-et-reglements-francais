@@ -590,6 +590,7 @@
 - [Décret n°94-662 du 27 juillet 1994 (JUSC9420453D)](decret-n94-662-du-27-juillet-1994-jusc9420453d)
 - [Décret n°94-666 du 27 juillet 1994 (SPSH9401973D)](decret-n94-666-du-27-juillet-1994-spsh9401973d)
 - [Décret n°94-93 du 27 janvier 1994 (MENE9306293D)](decret-n94-93-du-27-janvier-1994-mene9306293d)
+- [Décret n°82-442 du 27 mai 1982](decret-n82-442-du-27-mai-1982)
 - [Décret n°94-421 du 27 mai 1994 (TEFO9400425D)](decret-n94-421-du-27-mai-1994-tefo9400425d)
 - [Décret n°94-422 du 27 mai 1994 (MCCX9400009D)](decret-n94-422-du-27-mai-1994-mccx9400009d)
 - [Décret n°94-423 du 27 mai 1994 (MCCE9400188D)](decret-n94-423-du-27-mai-1994-mcce9400188d)
