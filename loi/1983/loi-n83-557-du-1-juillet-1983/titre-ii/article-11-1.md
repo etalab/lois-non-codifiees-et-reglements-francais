@@ -10,6 +10,6 @@ La durée du mandat du conseil d'orientation et de surveillance de la nouvelle c
 
 - en cas de création d'une personne morale nouvelle, celle du conseil d'orientation et de surveillance dont la date de renouvellement est la plus proche.
 
-Les mandats des directeurs généraux uniques et des membres des directoires des caisses prenant part à la fusion expirent à la date de la décision d'agrément du nouvel établissement par le comité des établissements de crédit. Les mandats des membres du directoire provisoire du nouvel établissement expirent trois mois après la première réunion du conseil d'orientation et de surveillance issu des élections organisées dans le cadre de ce nouvel établissement.
+Les mandats des directeurs généraux uniques et des membres des directoires des caisses prenant part à la fusion expirent à la date de la décision d'agrément du nouvel établissement par le comité des établissements de crédit et des entreprises d'investissement. Les mandats des membres du directoire provisoire du nouvel établissement expirent trois mois après la première réunion du conseil d'orientation et de surveillance issu des élections organisées dans le cadre de ce nouvel établissement.
 
 Un décret en Conseil d'Etat fixe les modalités de composition du conseil d'orientation et de surveillance de la nouvelle caisse.

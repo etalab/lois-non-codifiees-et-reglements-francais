@@ -1,6 +1,6 @@
 # Article 3
 
-La commission s'assure que les publications prévues par les dispositions législatives ou réglementaires sont régulièrement effectuées par les sociétés dont les actions sont admises à la cote officielle des bourses de valeurs ou figurent au relevé quotidien des valeurs non admises à la cote.
+La commission s'assure que les publications prévues par les dispositions législatives ou réglementaires sont régulièrement effectuées par les sociétés dont les actions sont admises aux négociations sur un marché réglementé ou figurent au relevé quotidien du hors-cote mentionné à l'article 34 de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières.
 
 Elle vérifie les informations que fournissent aux actionnaires ou publient lesdites sociétés.
 

@@ -1,6 +1,6 @@
 # Article 5
 
-Les sociétés de bourse, banques et établissements financiers pourront, s'ils satisfont aux conditions fixées en vertu de l'article 6 ci-après, s'affilier à un organisme interprofessionnel ayant pour objet de faciliter par des opérations de virements de compte à compte la circulation des valeurs entre les établissements affiliés.
+Les prestataires de services d'investissement, banques et établissements financiers pourront, s'ils satisfont aux conditions fixées en vertu de l'article 6 ci-après, s'affilier à un organisme interprofessionnel ayant pour objet de faciliter par des opérations de virements de compte à compte la circulation des valeurs entre les établissements affiliés.
 
 L'organisme interprofessionnel reçoit en dépôt et porte à leurs comptes courants respectifs les valeurs mobilières qui lui sont versées par les établissements affiliés.
 

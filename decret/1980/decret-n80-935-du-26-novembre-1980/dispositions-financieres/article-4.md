@@ -4,15 +4,15 @@ Peuvent être dépositaires des actions distribuées aux salariés, en vertu des
 
 La Banque de France ;
 
-La caisse des dépôts et consignations ;
+La Caisse des dépôts et consignations ;
 
-Les banques inscrites par le conseil national du crédit ;
+Les banques inscrites par le conseil national du crédit et du titre ;
 
 Les banques populaires ;
 
-Les établissements financiers enregistrés au conseil national du crédit autorisés à effectuer des opérations de gestion de portefeuille et justifiant d'un capital minimal de quatre millions de francs pour les entreprises constituées sous la forme de sociétés par actions ou à responsabilité limitée et de 600.000 F pour les autres ;
+Les établissements financiers enregistrés au conseil national du crédit et du titre autorisés à effectuer des opérations de gestion de portefeuille et justifiant d'un capital minimal de quatre millions de francs pour les entreprises constituées sous la forme de sociétés par actions ou à responsabilité limitée et de 600.000 F pour les autres ;
 
-Les sociétés de bourse ;
+Les prestataires de services d'investissement ;
 
 Le conseil des bourses de valeurs ;
 

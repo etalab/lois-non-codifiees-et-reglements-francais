@@ -12,7 +12,7 @@ Pour l'application du deuxième alinéa de l'article 25 de l'ordonnance n° 86-1
 
 - l'augmentation de capital n'est réalisée qu'à concurrence du montant des actions souscrites par les salariés individuellement ou par l'intermédiaire d'un fonds commun de placement ; elle ne donne pas lieu aux formalités prévues aux articles 189, 191 et 192 ;
 
-- l'émission par une société dont les actions sont inscrites à la cote officielle ou à la cote du second marché d'une bourse de valeurs peut être réalisée dans un délai de cinq ans à compter de l'assemblée générale qui l'a autorisée ;
+- l'émission par une société dont les actions sont admises aux négociations sur un marché réglementé, peut être réalisée dans un délai de cinq ans à compter de l'assemblée générale qui l'a autorisée ;
 
 - le délai susceptible d'être accordé aux souscripteurs pour la libération de leurs titres ne peut être supérieur à trois ans ;
 

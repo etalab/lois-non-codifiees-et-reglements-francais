@@ -10,4 +10,4 @@ Seront punis d'un emprisonnement d'un an et d'une amende de 60.000 F ou de l'une
 
 4° Des actions de numéraire pour lesquelles le versement du quart n'a pas été effectué ;
 
-5° Des promesses d'actions, sauf en ce qui concerne les promesses d'actions à créer à l'occasion d'une augmentation de capital dans une société dont les actions anciennes sont déjà inscrites à la cote officielle d'une bourse de valeurs.
+5° Des promesses d'actions, sauf en ce qui concerne les promesses d'actions à créer à l'occasion d'une augmentation de capital dans une société dont les actions anciennes sont déjà admises aux négociations sur un marché réglementé.

@@ -1,6 +1,6 @@
 # Article 12
 
-I - Sont nationalisées les banques inscrites sur la liste du conseil national du crédit en application de l'article 9 de la loi du 13 juin 1941, dont le siège social est situé en France, dès lors qu'elles détenaient, à la date du 2 janvier 1981, un milliard de francs ou plus sous forme de dépôts à vue ou de placements liquides ou à court terme en francs et en devises au nom de résidents, selon les définitions adoptées par le conseil national du crédit.
+I - Sont nationalisées les banques inscrites sur la liste du conseil national du crédit et du titre en application de l'article 9 de la loi du 13 juin 1941, dont le siège social est situé en France, dès lors qu'elles détenaient, à la date du 2 janvier 1981, un milliard de francs ou plus sous forme de dépôts à vue ou de placements liquides ou à court terme en francs et en devises au nom de résidents, selon les définitions adoptées par le conseil national du crédit du titre .
 
 Toutefois, ne sont pas nationalisées :
 

@@ -1,7 +1,0 @@
-# Article 2
-
-Les dettes et les créances afférentes aux marchés mentionnés à l'article 1er, lorsqu'ils sont passés dans le cadre du règlement général ou des règlements particuliers visés à l'article 6 de la présente loi ou à l'article 6 de la loi n° 88-70 du 22 janvier 1988 sur les bourses de valeurs, ou lorsqu'ils sont régis par une convention-cadre respectant les principes généraux d'une convention-cadre de place nationale ou internationale et organisant les relations entre deux parties au moins dont l'une est un établissement de crédit, une institution ou une entreprise visée aux articles 8 et 69 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit, une entreprise visée à l'article L. 310-1 du code des assurances, une société de bourse régie par la loi n° 88-70 du 22 janvier 1988 précitée, ou un établissement non résident ayant un statut comparable, sont compensables selon les modalités d'évaluation prévues par lesdits règlements ou ladite convention cadre.
-
-Lesdits règlements ou ladite convention cadre, lorsqu'une des parties fait l'objet d'une des procédures prévues par la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises, peuvent prévoir la résiliation de plein droit des marchés mentionnés à l'alinéa précédent.
-
-Les dispositions du présent article sont applicables nonobstant toute disposition législative contraire.

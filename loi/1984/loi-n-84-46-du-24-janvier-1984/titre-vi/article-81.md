@@ -1,5 +1,5 @@
 # Article 81
 
-Seront punis des peines prévues par l'article 455 de la loi du 24 juillet 1966 précitée, les dirigeants d'un établissement de crédit qui n'auront pas provoqué la désignation des commissaires aux comptes de l'établissement ou ne les auront pas convoqués à toute assemblée générale.
+Le fait, pour les dirigeants d'un établissement de crédit, de ne pas provoquer la désignation des commissaires aux comptes de l'établissement ou de ne pas les convoquer à toute assemblée générale est puni de deux ans d'emprisonnement et de 200 000 F d'amende [*sanctions pénales*].
 
-Sera puni des peines prévues par l'article 458 de la loi du 24 juillet 1966 précitée, tout dirigeant d'un établissement de crédit ou toute personne au service de l'établissement qui aura, sciemment, mis obstacle aux vérifications ou contrôles des commissaires aux comptes ou qui leur auront refusé la communication sur place de toutes les pièces utiles à l'exercice de leur mission, et notamment de tous contrats, livres, documents comptables et registres de procès-verbaux.
+Est puni de cinq ans d'emprisonnement et de 500 000 F d'amende le fait, pour tout dirigeant d'un établissement de crédit ou pour toute personne au service de l'établissement, de mettre obstacle aux vérifications ou contrôles des commissaires aux comptes ou de leur refuser la communication sur place de toutes les pièces utiles à l'exercice de leur mission, et notamment de tous contrats, livres, documents comptables et registres de procès-verbaux.

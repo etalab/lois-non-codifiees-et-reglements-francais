@@ -1,3 +1,3 @@
 # Article 84
 
-Seront punis des peines prévues par l'article 481 de la loi du 24 juillet 1966 précitée, les dirigeants d'une compagnie financière, qui n'auront pas, conformément au second alinéa de l'article 73 de la présente loi, établi leurs comptes sous une forme consolidée.
+Le fait, pour les dirigeants d'une compagnie financière, de ne pas établir les comptes sous une forme consolidée, conformément à l'article 73, est puni de 100 000 F d'amende.

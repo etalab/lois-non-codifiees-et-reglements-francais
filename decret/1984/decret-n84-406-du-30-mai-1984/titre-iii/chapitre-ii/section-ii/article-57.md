@@ -20,6 +20,6 @@ Aux actes déposés en application de l'alinéa 1 ci-dessus, doit être jointe e
 
 6° Le cas échéant, si la loi étrangère à laquelle la société est soumise le prévoit, le lieu et le numéro d'immatriculation de cette société sur un registre public ;
 
-7° La raison sociale ou dénomination et le siège des banques ou établissements financiers ou les nom, prénom usuel et domicile des sociétés de bourse qui prêtent leur concours à l'opération.
+7° La raison sociale ou dénomination et le siège des banques ou établissements financiers ou les nom, prénom usuel et domicile des prestataires de services d'investissement qui prêtent leur concours à l'opération.
 
-Ces sociétés sont tenues au respect des obligations prévues à l'alinéa 1er de l'article 47. Leur sont également applicables les dispositions des articles 5, 47 alinéa 2, 67, 69 et 70.
+Ces prestataires sont tenus au respect des obligations prévues à l'alinéa 1er de l'article 47. Leur sont également applicables les dispositions des articles 5, 47 alinéa 2, 67, 69 et 70.

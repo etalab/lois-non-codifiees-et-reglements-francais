@@ -16,7 +16,7 @@ Lorsqu'elle procède à la délégation prévue au troisième alinéa du présen
 
 IV. Toute délégation de l'assemblée générale est suspendue en période d'offre publique d'achat ou d'échange sur les titres de la société, sauf si l'assemblée générale, préalablement à l'offre, a autorisé expressément, pour une durée comprise entre les dates de réunion de deux assemblées appelées à statuer sur les comptes de l'exercice écoulé, une augmentation de capital pendant ladite période d'offre publique d'achat ou d'échange et si l'augmentation envisagée n'a pas été réservée.
 
-V. Dans les sociétés anonymes dont les titres sont admis à la cote officielle ou à la cote du second marché d'une bourse de valeurs, le conseil d'administration ou le directoire, selon le cas, peut déléguer au président les pouvoirs nécessaires à la réalisation de l'augmentation de capital, ainsi que celui d'y surseoir, dans les limites et selon les modalités qu'il peut préalablement fixer.
+V. Dans les sociétés anonymes dont les titres sont admis aux négociations sur un marché réglementé, le conseil d'administration ou le directoire, selon le cas, peut déléguer au président les pouvoirs nécessaires à la réalisation de l'augmentation de capital, ainsi que celui d'y surseoir, dans les limites et selon les modalités qu'il peut préalablement fixer.
 
 Le président rend compte au conseil d'administration ou au directoire, selon le cas, de l'utilisation faite de ces pouvoirs dans les conditions prévues par ce dernier.
 

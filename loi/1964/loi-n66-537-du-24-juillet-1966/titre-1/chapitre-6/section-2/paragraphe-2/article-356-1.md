@@ -1,8 +1,8 @@
 # Article 356-1
 
-Toute personne physique ou morale agissant seule ou de concert qui vient à posséder un nombre d'actions représentant plus du vingtième, du dixième, du cinquième, du tiers, de la moitié ou des deux tiers du capital d'une société ayant son siège sur le territoire de la République et dont les actions sont inscrites à la cote officielle ou du second marché ou au hors cote d'une bourse de valeurs informe cette société, dans un délai de quinze jours à compter du franchissement du seuil de participation, du nombre total d'actions de celle-ci qu'elle possède.
+Toute personne physique ou morale agissant seule ou de concert qui vient à posséder un nombre d'actions représentant plus du vingtième, du dixième, du cinquième, du tiers, de la moitié ou des deux tiers du capital d'une société ayant son siège sur le territoire de la République et dont les actions sont admises aux négociations sur un marché réglementé ou figurent au relevé quotidien du hors-cote mentionné à l'article 34 de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières informe cette société, dans un délai de quinze jours à compter du franchissement du seuil de participation, du nombre total d'actions de celle-ci qu'elle possède.
 
-Elle en informe également le conseil des bourses de valeurs dans un délai de cinq jours de bourse à compter du franchissement du seuil de participation, lorsque les actions de la société sont inscrites à la cote officielle d'une bourse de valeurs ou à la cote du second marché. Le conseil des bourses de valeurs porte cette information à la connaissance du public.
+Elle en informe également la chambre syndicale des agents de change dans un délai de cinq jours de bourse à compter du franchissement du seuil de participation, lorsque les actions de la société sont admises aux négociations sur un marché réglementé. Le conseil des marchés financiers porte cette information à la connaissance du public.
 
 Les informations mentionnées aux deux alinéas précédents sont également faites dans les mêmes délais lorsque la participation au capital devient inférieure aux seuils prévus au premier alinéa.
 

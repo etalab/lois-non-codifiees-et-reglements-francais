@@ -1,10 +1,10 @@
 # Article 34
 
-Le fonds commun de créances est une copropriété qui a pour objet exclusif d'acquérir des créances détenues par des établissements de crédit, la Caisse des dépôts et consignations ou les entreprises d'assurance et d'émettre des parts représentatives de ces créances. Les parts d'un fonds commun de créances sont émises en une seule fois.
+Le fonds commun de créances est une copropriété qui a pour objet exclusif d'acquérir des créances détenues par des établissements de crédit, la Caisse des dépôts et consignations ou les entreprises d'assurance et d'émettre des parts représentatives de ces créances.
 
 Le fonds n'a pas la personnalité morale. Les dispositions du code civil relatives à l'indivision ne s'appliquent pas au fonds. Il en va de même des dispositions des articles 1871 à 1873 dudit code.
 
-Les conditions dans lesquelles le fonds peut acquérir des créances après l'émission des parts et les règles de placement des sommes momentanément disponibles et en instance d'affectation sont définies par décret. Le fonds ne peut emprunter.
+Les conditions dans lesquelles le fonds peut acquérir des créances et émettre de nouvelles parts après l'émission initiale des parts et les règles de placement des sommes momentanément disponibles et en instance d'affectation sont définies par décret. Le fonds ne peut emprunter.
 
 Les parts peuvent donner lieu à des droits différents sur le capital et les intérêts.
 

@@ -1,3 +1,3 @@
 # Article 79
 
-Tout dirigeant d'un établissement de crédit ou d'une des personnes morales ou filiales visées à l'article 41, deuxième alinéa, de la présente loi, qui, après mise en demeure, ne répond pas aux demandes d'informations de la commission bancaire, qui met obstacle de quelque manière que ce soit à l'exercice par celle-ci de sa mission de contrôle ou qui, sciemment, lui communique des renseignements inexacts, est passible d'un emprisonnement d'un un an et d'une amende de 60.000 F.
+Le fait, pour tout dirigeant d'un établissement de crédit ou d'une des personnes morales ou filiales visées à l'article 41, deuxième alinéa, de ne pas répondre, après mise en demeure, aux demandes d'informations de la Commission bancaire, de mettre obstacle de quelque manière que ce soit à l'exercice par celle-ci de sa mission de contrôle ou de lui communiquer des renseignements inexacts est puni d'un an d'emprisonnement et de 100 000 F d'amende [*sanctions pénales*].

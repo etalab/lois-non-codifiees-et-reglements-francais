@@ -10,8 +10,8 @@ Les dispositions des chapitres Ier et II de la présente loi sont applicables :
 
 4° Aux organismes entrant dans le champ de l'article L. 111-1 du code de la mutualité ;
 
-5° Aux sociétés de bourse régies par l'article 1er de la loi n° 88-70 du 22 janvier 1988 sur les bourses de valeur ;
+5° Aux prestataires de services d'investissement régis par l'article 1er de la loi n° 88-70 du 22 janvier 1988 sur les bourses de valeur ;
 
 6° Aux commerçants changeurs manuels.
 
-Pour l'application de la présente loi, ces organismes, entreprises, institutions, sociétés, services et personnes sont désignés sous le nom d'organismes financiers.
+Pour l'application de la présente loi, ces organismes, entreprises, institutions, sociétés, services, personnes et prestataires sont désignés sous le nom d'organismes financiers.

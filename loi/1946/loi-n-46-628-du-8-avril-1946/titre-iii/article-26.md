@@ -14,7 +14,7 @@ Trois représentants de l'Electricité de France, dont un des services de distri
 
 Deux représentants du Gaz de France dont un des services de distribution ;
 
-Quatre représentants du conseil national du crédit ;
+Quatre représentants du conseil national du crédit et du titre ;
 
 Le président ou le directeur général de la caisse nationale de crédit agricole.
 

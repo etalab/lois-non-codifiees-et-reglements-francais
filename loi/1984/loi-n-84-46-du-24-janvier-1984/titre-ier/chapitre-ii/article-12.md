@@ -8,7 +8,7 @@ Les interdictions définies à l'article 10 de la présente loi ne font pas obst
 
 3° Procéder à des opérations de trésorerie avec des sociétés ayant avec elle, directement ou indirectement des liens de capital conférant à l'une des entreprises liées, un pouvoir de contrôle effectif sur les autres ;
 
-4° Emettre des valeurs mobilières ainsi que des bons ou billets à court terme négociables sur un marché réglementé ;
+4° Emettre des valeurs mobilières ainsi que des titres de créances négociables définis au I de l'article 19 de la loi n° 91-716 du 26 juillet 1991 portant diverses dispositions d'ordre économique et financier ;
 
 5° Emettre des bons et cartes délivrés pour l'achat auprès d'elle, d'un bien ou d'un service déterminé ;
 

@@ -6,13 +6,13 @@ Constitue une opération de change manuel, au sens de la présente loi, l'échan
 
 L'exercice de la profession de changeur manuel est interdit à toute personne qui n'a pas souscrit la déclaration visée ci-dessus ou qui a fait l'objet de l'une des condamnations ou mesures visées à l'article 13 de la loi n° 84-46 du 24 janvier 1984 précitée.
 
-Les changeurs manuels sont tenus à tout moment de justifier soit d'un capital libéré, soit d'une caution d'un établissement de crédit ou d'une entreprise d'assurances, d'un montant au moins égal à une somme fixée par un règlement du Comité de la réglementation bancaire.
+Les changeurs manuels sont tenus à tout moment de justifier soit d'un capital libéré, soit d'une caution d'un établissement de crédit ou d'une entreprise d'assurances, d'un montant au moins égal à une somme fixée par un règlement du Comité de la réglementation bancaire et financière.
 
 Les changeurs manuels tiennent un registre des transactions.
 
 II. - Pour l'application de la présente loi :
 
-- le Comité de la réglementation bancaire peut, par voie de règlement, soumettre les changeurs manuels à des règles particulières ;
+- le Comité de la réglementation bancaire et financière peut, par voie de règlement, soumettre les changeurs manuels à des règles particulières ;
 
 - la Commission bancaire exerce le pouvoir disciplinaire sur les changeurs manuels dans les conditions prévues au III du présent article ;
 

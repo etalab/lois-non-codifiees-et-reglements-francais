@@ -1,3 +1,3 @@
 # Article 78
 
-Tout intermédiaire en opérations de banque visée à l'article 67 de la présente loi qui ne satisfait pas à l'obligation instituée par ledit article est passible d'un emprisonnement d'un an et d'une amende de 60.000 F.
+Le fait, pour tout intermédiaire en opération de banque, de ne pas satisfaire à l'obligation instituée à l'article 67 est puni d'un an d'emprisonnement et de 100 000 F d'amende [*sanctions pénales*].

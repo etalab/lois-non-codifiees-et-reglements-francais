@@ -1,4 +1,4 @@
-# Listes des établissements qui satisfont aux dispositions de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit établies par le comité des établissements de crédit conformément à l'article 98 de la loi
+# Listes des établissements qui satisfont aux dispositions de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit établies par le comité des établissements de crédit et des enteprises d'investissement  conformément à l'article 98 de la loi
 
 - [Paragraphe I - A.](paragraphe-i-a)
 - [Etablissement de crédit agréés en qualité de caisses d'épargne et de prévoyance (métropole, département, et territoires d'outre-mer](etablissement-de-credit-agrees-en-qualite-de-caisses-d-epargne-et)

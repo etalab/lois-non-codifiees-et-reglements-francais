@@ -1,18 +1,18 @@
 # Article 19
 
-I. - Les titres de créances négociables sont des titres émis au gré de l'émetteur, négociables sur un marché réglementé, qui représentent chacun un droit de créance pour une durée déterminée.
+I. - Les titres de créances négociables sont des titres émis au gré de l'émetteur, négociables sur un marché réglementé ou de gré à gré, qui représentent chacun un droit de créance pour une durée déterminée.
 
 II. - Les titres de créances négociables sont stipulés au porteur.
 
 Ils sont inscrits en comptes tenus par un intermédiaire habilité.
 
-La constitution en gage de titres de créances négociables inscrits en compte est réalisée, tant à l'égard de la personne morale émettrice qu'à l'égard des tiers, par une déclaration datée et signée par le titulaire ; cette déclaration contient le montant de la somme due ainsi que le montant et la nature des titres inscrits en gage. Les titres nantis sont virés à un compte spécial ouvert au nom du titulaire et tenu par l'intermédiaire habilité. Une attestation de constitution de gage est délivrée au créancier gagiste.
+La constitution en gage des titres de créances négociables est réalisée conformément aux dispositions de l'article 29 de la loi n° 83-1 du 3 janvier 1983 sur le développement des investissements et la protection de l'épargne.
 
 En cas de redressement judiciaire des biens d'un intermédiaire financier teneur de comptes, les titulaires des titres de créances négociables inscrits en compte font virer l'intégralité de leurs droits à un compte tenu par un autre intermédiaire habilité ; le juge commissaire est informé de ce virement. En cas d'insuffisance des inscriptions, ils font une déclaration au représentant des créanciers pour le complément de leurs droits.
 
 III. - Sont habilités à émettre des titres de créances négociables :
 
-1° Les établissements dont l'activité entre dans le champ d'application des articles 18 et 99 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit ainsi que la Caisse des dépôts et consignations, sous réserve de respecter les conditions fixées à cet effet par le comité de la réglementation bancaire ;
+1° Les établissements dont l'activité entre dans le champ d'application des articles 18 et 99 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit, des entreprises d'investissement définies par l'article 7 de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières ainsi que la Caisse des dépôts et consignations, sous réserve de respecter les conditions fixées à cet effet par le comité de la réglementation bancaire et financière ;
 
 2° Les entreprises autres que celles qui sont mentionnées au 1°, sous réserve de remplir les conditions de forme juridique, de capital, de durée d'existence et de contrôle des comptes requises lorsqu'elles font appel public à l'épargne, ou des conditions équivalentes pour les entreprises ayant un siège social à l'étranger ;
 
@@ -28,7 +28,7 @@ IV. - Les émetteurs de titres de créances négociables sont tenus de remplir d
 
 Un décret définit le contenu, les modalités de publicité et de mise à jour de ces obligations ainsi que les modalités selon lesquelles la Commission des opérations de bourse intervient pour veiller au respect desdites obligations. Il prévoit les formalités que doivent accomplir les émetteurs préalablement à leur première émission de titres de créances négociables.
 
-V. - Le marché des titres de créances négociables est réglementé par le comité de la réglementation bancaire statuant dans les formes prévues à l'article 32 de la loi n° 84-46 du 24 janvier 1984 précitée ; le règlement prévoit les dispositions propres à assurer le bon fonctionnement du marché des titres de créances négociables.
+V. - (paragraphe abrogé).
 
 VI. - (paragraphe modificateur).
 

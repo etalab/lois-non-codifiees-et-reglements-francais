@@ -2,7 +2,7 @@
 
 Les actions des sociétés énumérées aux articles 1er, 12 et 29 de la loi du 11 février 1982 susvisée et les obligations convertibles émises par ces sociétés peuvent être échangées contre les obligations prévues aux articles 4, 15, 16 et 32 de la même loi dans les établissements suivants :
 
-Les sociétés de bourse ;
+Les prestataires de services d'investissement ;
 
 La Banque française du commerce extérieur ;
 

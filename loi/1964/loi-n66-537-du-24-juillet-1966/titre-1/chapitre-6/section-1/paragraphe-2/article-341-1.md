@@ -1,6 +1,6 @@
 # Article 341-1
 
-Les sociétés dont les actions sont inscrites à la cote officielle des bourses de valeurs sont tenues d'annexer à leurs comptes annuels un inventaire des valeurs mobilières détenues en portefeuille à la clôture de l'exercice.
+Les sociétés dont les actions sont admises aux négociations sur un marché réglementé sont tenues d'annexer à leurs comptes annuels un inventaire des valeurs mobilières détenues en portefeuille à la clôture de l'exercice.
 
 Elles annexent également un tableau relatif à la répartition et à l'affectation des sommes distribuables qui seront proposées à l'assemblée générale.
 

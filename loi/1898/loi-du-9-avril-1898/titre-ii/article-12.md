@@ -4,7 +4,7 @@ L'avis des chambres de commerce doit être demandé :
 
 1° Sur les règlements relatifs aux usages commerciaux ;
 
-2° Sur la création, dans leur circonscription, de nouvelles chambres de commerce, de bourses de commerce, de sociétés de bourse et de courtiers maritimes, de tribunaux de commerce, de conseils de prud'hommes, de succursales de la Banque de France, de magasins généraux et de salles de ventes publiques de marchandises neuves aux enchères et en gros ;
+2° Sur la création, dans leur circonscription, de nouvelles chambres de commerce, de bourses de commerce, des prestataires de services d'investissement et de courtiers maritimes, de tribunaux de commerce, de conseils de prud'hommes, de succursales de la Banque de France, de magasins généraux et de salles de ventes publiques de marchandises neuves aux enchères et en gros ;
 
 3° Sur les taxes destinées à rémunérer les services de transport concédés, dans leur circonscription, par l'autorité publique ;
 

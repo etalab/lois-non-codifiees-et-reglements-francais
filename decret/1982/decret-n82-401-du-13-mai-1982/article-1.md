@@ -2,7 +2,7 @@
 
 La liste des intermédiaires agréés prévue à l'article 50 de la loi du 11 février 1982 est fixée comme suit :
 
-Les sociétés de bourse ;
+Les prestataires de services d'investissement ;
 
 La Banque française du commerce extérieur ;
 

@@ -1,10 +1,28 @@
 # Article 2
 
-La commission est composée d'un président et de huit membres.
+La commission est composée d'un président et de neuf membres.
 
 Le président de la commission est nommé par décret en conseil des ministres pour six ans. Son mandat n'est pas renouvelable.
 
-Les membres sont les suivants : un conseiller d'Etat désigné par le vice-président du conseil, un conseiller à la Cour de cassation désigné par le premier président de la cour, un conseiller-maître à la Cour des comptes désigné par le premier président de la cour, un membre du conseil des bourses de valeurs désigné par ce conseil, un membre du conseil du marché à terme désigné par ce conseil, un représentant de la Banque de France désigné par le gouverneur et deux personnalités choisies en raison de leur compétence et de leur expérience en matière d'appel public à l'épargne par les six membres désignés ci-dessus et le président.
+Les membres sont les suivants :
+
+- un conseiller d'Etat désigné par le vice-président du conseil ;
+
+- un conseiller à la Cour de cassation, désigné par le premier président de la cour ;
+
+- un conseiller-maître à la Cour des comptes, désigné par le premier président de la cour ;
+
+- un représentant de la Banque de France, désigné par le gouverneur ;
+
+- un membre du Conseil des marchés financiers, désigné par ce conseil ;
+
+- un membre du Conseil national de la comptabilité, désigné par ce conseil ;
+
+- trois personnalités qualifiées nommées, respectivement, par le président du Sénat, le président de l'Assemblée nationale et le président du Conseil économique et social, et choisies à raison de leur compétence financière et juridique ainsi que de leur expérience en matière d'appel public à l'épargne.
+
+Les décisions prises en application des articles 9-1 et 9-2 de la présente ordonnance sont rapportées par le président ou par un membre de la commission désigné par lui à cet effet.
+
+Un représentant du ministre de l'économie et des finances est entendu par la commission sauf en matière de décisions individuelles. Il peut soumettre toute proposition à la délibération de la commission sauf dans les mêmes cas.
 
 Le président est soumis aux règles d'incompatibilité prévues pour les emplois publics.
 

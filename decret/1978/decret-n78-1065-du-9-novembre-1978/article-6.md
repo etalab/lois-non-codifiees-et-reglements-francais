@@ -22,6 +22,6 @@ La caisse centrale de crédit mutuel, pour ses opérations et pour celles des ca
 
 Les banques inscrites par le conseil national du crédit ;
 
-Les établissements financiers enregistrés au conseil national du crédit autorisés à effectuer des opérations sur titres ;
+Les établissements financiers enregistrés au conseil national du crédit et du titre autorisés à effectuer des opérations sur titres ;
 
 Les sociétés de bourse.
