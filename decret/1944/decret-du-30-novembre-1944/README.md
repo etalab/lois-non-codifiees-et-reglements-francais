@@ -1,15 +1,6 @@
 # Décret du 30 novembre 1944 relatif au contrôle des instruments de mesure
 
 - [Article 32](article-32.md)
-- [Approbation obligatoire des arrêtés préfectoraux.](approbation-obligatoire-des-arretes-prefectoraux)
 - [Constatation des infractions](constatation-des-infractions)
-- [Définition du contrôle.](definition-du-controle)
-- [Détermination des modalités d'application du décret.](determination-des-modalites-d-application-du-decret)
-- [Approbation et dépôt des modèles](approbation-et)
-- [Bureaux et moyens de contrôle.](bureaux-et)
 - [Réglementation des alcoomètres, densimètres, thermomètres médicaux.](reglementation-des-alcoometres-densimetres-thermometres-medicaux)
-- [Réglementation des catégories d'instruments.](reglementation-des-categories-d-instruments)
-- [Service chargé du contrôle.](service-charge-du-controle)
-- [Surveillance](surveillance)
 - [Vérification périodique](verification-periodique)
-- [Vérification primitive](verification-primitive)

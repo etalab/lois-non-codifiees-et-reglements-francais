@@ -1,3 +1,0 @@
-# Article 22
-
-Les agents du service des poids et mesures assurent la surveillance des instruments de mesure dans la circonscription pour laquelle ils sont commissionnés. Au cours de visites inopinées faites chez les assujettis, soit d'office, soit sur l'ordre de leurs supérieurs hiérarchiques ou du préfet, soit sur la réquisition des maires ou du procureur de la République, ils recherchent les infractions aux lois et règlements dont ils sont chargés d'assurer l'exécution [*agents chargés du contrôle - pouvoirs d'investigation*]. Ils peuvent aussi, dans les conditions indiquées à l'article 17, prescrire le rajustement des instruments défectueux.

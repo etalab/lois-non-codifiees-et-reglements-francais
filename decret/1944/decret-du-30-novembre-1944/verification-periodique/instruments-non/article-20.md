@@ -1,3 +1,0 @@
-# Article 20
-
-Les instruments de mesure appartenant à une catégorie réglementée ne peuvent être utilisés à l'occasion des opérations mentionnées à l'article 12 que s'ils portent la marque de vérification primitive et la marque de vérification périodique exigible [*garantie publique*]. Toutefois, seront tolérés provisoirement, en vertu de décisions du ministre de la production, les instruments en service qui, appartenant à une catégorie réglementée postérieurement à leur installation, ne seraient pas conformes à un modèle approuvé mais présenteraient des garanties d'exactitude reconnues suffisantes. Les modalités du contrôle et la durée de la tolérance seront fixées dans chaque cas en tenant compte de l'aptitude des instruments à conserver leurs qualités.
