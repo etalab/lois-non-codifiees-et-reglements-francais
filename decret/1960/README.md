@@ -10,6 +10,7 @@
 - [Décret n°60-379 du 15 avril 1960](decret-n60-379-du-15-avril-1960)
 - [Décret n°60-73 du 15 janvier 1960](decret-n60-73-du-15-janvier-1960)
 - [Décret n°60-714 du 20 juillet 1960](decret-n60-714-du-20-juillet-1960)
+- [Décret n°60-181 du 24 février 1960](decret-n60-181-du-24-fevrier-1960)
 - [Décret n°59-1559 du 28 décembre 1959](decret-n59-1559-du-28-decembre-1959)
 - [Décret n°60-94 du 29 janvier 1960](decret-n60-94-du-29-janvier-1960)
 - [Décret n°60-95 du 29 janvier 1960](decret-n60-95-du-29-janvier-1960)
