@@ -1,0 +1,5 @@
+# Article 6
+
+Un récépissé dénommé carte permettant l'exercice d'activités non sédentaires est délivré en échange de l'attestation mentionnée à l'article 5 ci-dessus après enquête ayant établi que la personne assujettie à la déclaration prévue à l'article 1er de la loi du 3 janvier 1969 susvisée satisfait aux prescriptions législatives et réglementaires concernant l'exercice des professions ou activités ambulantes ; le récépissé de déclaration est valable pour une période de deux ans à compter de la date à laquelle cette déclaration a été effectuée ; la déclaration doit être renouvelée tous les deux ans.
+
+L'intéressé est tenu de faire connaître à l'administration toute modification survenant dans les conditions d'exercice de la profession ou de l'activité exercées, au regard des prescriptions législatives et réglementaires en vigueur. L'administration peut retirer le récépissé lorsque les conditions prévues par ces prescriptions cessent d'être remplies. Si l'administration n'est pas en mesure de délivrer le récépissé susmentionné avant l'expiration du délai de quatre mois, elle est tenue de renouveler l'attestation provisoire prévue à l'article 5 ci-dessus.
