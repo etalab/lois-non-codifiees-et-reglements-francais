@@ -44,7 +44,9 @@ Le président du syndicat des casinos autorisés en France ou son représentant 
 
 Le président de l'assemblée permanente des chambres de commerce et d'industrie ou son représentant ;
 
-Le président de l'assemblée permanente des chambres de métiers ou son représentant ;    Le président de la Caisse nationale des allocations familiales ou son représentant ;
+Le président de l'assemblée permanente des chambres de métiers ou son représentant ;
+
+Le président de la Caisse nationale des allocations familiales ou son représentant ;
 
 Le président de l'Union nationale des associations familiales ou son représentant ;
 
@@ -54,7 +56,9 @@ Le président de la Fédération nationale des parcs naturels régionaux ou son 
 
 Le président de la Fédération nationale des agents immobiliers ou son représentant ;
 
-Le président de la Fédération française de la montagne ou son représentant ;
+Le président de la Fédération française de la montagne ou son
+
+représentant ;
 
 Sept représentants des activités de transports ;
 
@@ -96,12 +100,16 @@ Le président de la confédération des petites et moyennes entreprises ou son r
 
 Le président de la Fédération nationale des syndicats d'exploitants agricoles ou son représentant ;
 
-Le président du directoire de la Maison de la France ou son représentant ;
+Le président de la Maison de la France ou son représentant ;
 
 Le président de l'Agence nationale des chèques-vacances ou son représentant ;
 
-Le président de l'association des maires de France ou son représentant.
+Le président de l'association des maires de France ou son représentant ;
 
-Le président délégué du Comité national pour le fleurissement de la France ou son représentant.
+Le président délégué du Comité national pour le fleurissement de la France ou son représentant ;
+
+Le président de la Fédération nationale des comités régionaux du tourisme, ou son représentant ;
+
+Le président du Centre de coopération pour la réalisation d'équipements de loisirs, ou son représentant.
 
 III - Vingt-trois personnalités choisies en raison de leur compétence en matière de tourisme.
