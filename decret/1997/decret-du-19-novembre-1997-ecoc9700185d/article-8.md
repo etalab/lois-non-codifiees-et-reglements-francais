@@ -1,0 +1,7 @@
+# Article 8
+
+Les vins doivent être vinifiés directement par les producteurs-récoltants selon les usages locaux. Ils sont, en cours de fermentation, additionnés d'alcool d'un titre alcoométrique volumique minimal de 96 %. Cette addition doit correspondre, traduite en alcool pur, à des quantités correspondant à 5 % au minimum et 10 % au maximum du volume des moûts mis en oeuvre. Les opérations de mutage doivent être effectuées avant le 31 décembre de l'année de récolte des moûts, toutefois, des compléments de mutage pourront être autorisés ou ordonnés par les services de la direction générale de la concurrence, de la consommation et de la répression des fraudes, dans la limite d'une addition de 10 % en alcool pur avant la délivrance du certificat d'agrément prévu à l'article 9 du présent décret.
+
+Toute opération d'enrichissement autre que le mutage et les compléments de mutage dans les conditions visées ci-dessus et spécialement toute opération de chaptalisation, concentration ou congélation, même dans les limites légales, est interdite sous peine de faire perdre le droit à l'appellation contrôlée pour le vin sur lequel elle aurait été pratiquée.
+
+Les vins doivent présenter, après fermentation et mutage, un titre alcoométrique volumique total au moins égal à 21,5 %, un titre alcoométrique volumique acquis compris entre 15 et 18 et une teneur minimale en sucres résiduels de 95 grammes par litre.

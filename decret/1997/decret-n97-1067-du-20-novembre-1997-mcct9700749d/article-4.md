@@ -1,0 +1,3 @@
+# Article 4
+
+Pour l'année 1997, les publications qui remplissent les conditions définies aux articles 1er et 2 du décret du 10 mai 1996 susvisé et qui ont déposé leur demande selon les modalités fixées par l'article 4 de ce même décret dans sa rédaction antérieure à l'entrée en vigueur du présent décret peuvent bénéficier des dispositions du présent décret sous réserve de compléter leur dossier en fournissant au service juridique et technique de l'information et de la communication les pièces supplémentaires prévues par la nouvelle réglementation dans le délai de quinze jours à compter de la publication du présent décret.
