@@ -1,9 +1,7 @@
 # Article 2
 
-Le salaire moyen des assurés auquel se réfèrent les articles L. 313, L. 344 et L. 377 du code de la sécurité sociale s'entend du montant moyen des salaires entrant en compte pour le calcul des cotisations dans les conditions prévues aux articles 13 et 41 de l'ordonnance n° 67-706 du 21 août 1967 [*assiette*].
+Pour l'application des articles L. 313, L. 344, L. 349 et L. 377 du code de la sécurité sociale, les coefficients de majoration ou de revalorisation sont fixés chaque année [*périodicité*].
 
-La variation générale des salaires au sens de l'article L. 349 du code de la sécurité sociale s'entend de la variation des salaires entrant en compte pour le même calcul.
+A titre provisionnel le taux annuel de majoration ou de revalorisation est égal au taux d'évolution du salaire brut moyen annuel par tête versé par les entreprises non financières non agricoles qui est prévu, pour l'année considérée, par le rapport mentionné à l'article 32 de l'ordonnance susvisée du 2 janvier 1959 et annexé au projet de loi de finances de cette année [*montant*].
 
-Le calcul du salaire moyen des assurés et de la variation générale des salaires définis ci-dessus est fait en fonction du montant moyen des indemnités journalières de l'assurance maladie servies au cours des périodes de référence, au taux prévu au premier alinéa de l'article L. 290 du code de la sécurité sociale.
-
-Toutefois, seules sont prises en compte les indemnités journalières payées au cours des périodes dont il s'agit et qui correspondent à des arrêts de travail n'excédant pas trois mois ou aux trois premiers mois des arrêts de travail dépassant cette durée.
+Cette majoration ou revalorisation est effectuée en deux fractions égales prenant effet respectivement au 1er janvier et au 1er juillet. Les taux d'augmentation applicables à chacune de ces dates sont calculés de telle sorte que le taux d'évolution en moyenne annuelle soit égal au taux visé à l'alinéa 2 ci-dessus.
