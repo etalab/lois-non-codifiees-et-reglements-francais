@@ -120,7 +120,6 @@
 - [Arrêté du 7 août 2001 (ECOD0170017A)](arrete-du-7-aout-2001-ecod0170017a)
 - [Arrêté du 7 août 2001 (EQUP0101232A)](arrete-du-7-aout-2001-equp0101232a)
 - [Arrêté du 7 décembre 2001 (AGRM0102411A)](arrete-du-7-decembre-2001-agrm0102411a)
-- [Arrêté du 7 décembre 2001 (AGRP0102009A)](arrete-du-7-decembre-2001-agrp0102009a)
 - [Arrêté du 7 décembre 2001 (EQUP0101500A)](arrete-du-7-decembre-2001-equp0101500a)
 - [Arrêté du 7 décembre 2001 (JUSE0140091A)](arrete-du-7-decembre-2001-juse0140091a)
 - [Arrêté du 7 décembre 2001 (JUSE0140092A)](arrete-du-7-decembre-2001-juse0140092a)

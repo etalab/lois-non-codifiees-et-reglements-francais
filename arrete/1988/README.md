@@ -141,8 +141,6 @@
 - [Arrêté du 8 décembre 1987 (ASES8701850A)](arrete-du-8-decembre-1987-ases8701850a)
 - [Arrêté du 8 décembre 1988 (PRME8861195A)](arrete-du-8-decembre-1988-prme8861195a)
 - [Arrêté du 8 janvier 1988 (MENF8800079A)](arrete-du-8-janvier-1988-menf8800079a)
-- [Arrêté du 8 janvier 1988 (MENF8800080A)](arrete-du-8-janvier-1988-menf8800080a)
-- [Arrêté du 8 janvier 1988 (MENF8800081A)](arrete-du-8-janvier-1988-menf8800081a)
 - [Arrêté du 8 juillet 1988 (ECOZ8800026A)](arrete-du-8-juillet-1988-ecoz8800026a)
 - [Arrêté du 8 juin 1988 (SPSH8800925A)](arrete-du-8-juin-1988-spsh8800925a)
 - [Arrêté du 8 mars 1988 (EQUP8800220A)](arrete-du-8-mars-1988-equp8800220a)

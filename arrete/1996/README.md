@@ -48,7 +48,6 @@
 - [Arrêté du 2 juillet 1996 (DEFB9601650A)](arrete-du-2-juillet-1996-defb9601650a)
 - [Arrêté du 2 juillet 1996 (MIPP9600249A)](arrete-du-2-juillet-1996-mipp9600249a)
 - [Arrêté du 2 juillet 1996 (TASS9621984A)](arrete-du-2-juillet-1996-tass9621984a)
-- [Arrêté du 2 octobre 1996 (AGRO9601096A)](arrete-du-2-octobre-1996-agro9601096a)
 - [Arrêté du 2 octobre 1996 (TASH9622894A)](arrete-du-2-octobre-1996-tash9622894a)
 - [Arrêté du 2 septembre 1996 (DEFT9601862A)](arrete-du-2-septembre-1996-deft9601862a)
 - [Arrêté du 2 septembre 1996 (ENVP9650304A)](arrete-du-2-septembre-1996-envp9650304a)

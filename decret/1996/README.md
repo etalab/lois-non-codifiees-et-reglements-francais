@@ -254,7 +254,6 @@
 - [Décret n°96-391 du 10 mai 1996 (ENVP9640025D)](decret-n96-391-du-10-mai-1996-envp9640025d)
 - [Décret n°96-407 du 10 mai 1996 (ACVA9510076D)](decret-n96-407-du-10-mai-1996-acva9510076d)
 - [Décret n°96-409 du 10 mai 1996 (TASS9520272D)](decret-n96-409-du-10-mai-1996-tass9520272d)
-- [Décret n°96-410 du 10 mai 1996 (MCCT9500664D)](decret-n96-410-du-10-mai-1996-mcct9500664d)
 - [Décret n°96-419 du 10 mai 1996 (FCEC9600027D)](decret-n96-419-du-10-mai-1996-fcec9600027d)
 - [Décret n°96-420 du 10 mai 1996 (FCEM9640032D)](decret-n96-420-du-10-mai-1996-fcem9640032d)
 - [Décret du 11 septembre 1996 (FCEC9600134D)](decret-du-11-septembre-1996-fcec9600134d)

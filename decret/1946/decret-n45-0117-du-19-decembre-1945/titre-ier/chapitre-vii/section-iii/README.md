@@ -12,6 +12,3 @@
 - [Article 20 C](article-20-c.md)
 - [Article 20 A](article-20-a.md)
 - [Article 20 B](article-20-b.md)
-- [Article 24](article-24.md)
-- [Article 25](article-25.md)
-- [Article 26](article-26.md)
