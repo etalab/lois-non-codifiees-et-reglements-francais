@@ -1,0 +1,3 @@
+# Article 202
+
+Le jugement peut ordonner l'exécution immédiate, nonobstant opposition ou appel et par provision avec dispense de caution jusqu'à une somme qui sera fixée par arrêté du chef de groupe de territoires, de territoire non groupé ou sous tutelle, soumis à l'approbation du ministre de la France d'outre-mer. Pour le surplus, l'exécution provisoire peut être ordonnée à charge de fournir caution. Copie du jugement, signée par le président et le secrétaire, doit être remise aux parties sur demande. Mention de cette délivrance, de sa date et de son heure est faite par le secrétaire en marge du jugement.
