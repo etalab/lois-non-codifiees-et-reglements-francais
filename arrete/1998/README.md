@@ -798,7 +798,6 @@
 - [Arrêté du 23 février 1998 (INTM9800008A)](arrete-du-23-fevrier-1998-intm9800008a)
 - [Arrêté du 23 février 1998 (MESG9820744A)](arrete-du-23-fevrier-1998-mesg9820744a)
 - [Arrêté du 23 janvier 1998 (EQUB9800013A)](arrete-du-23-janvier-1998-equb9800013a)
-- [Arrêté du 23 janvier 1998 (JUSC9820052A)](arrete-du-23-janvier-1998-jusc9820052a)
 - [Arrêté du 23 janvier 1998 (MESS9820210A)](arrete-du-23-janvier-1998-mess9820210a)
 - [Arrêté du 23 juillet 1998 (ECOC9800074A)](arrete-du-23-juillet-1998-ecoc9800074a)
 - [Arrêté du 23 juillet 1998 (ECOD9850004A)](arrete-du-23-juillet-1998-ecod9850004a)
