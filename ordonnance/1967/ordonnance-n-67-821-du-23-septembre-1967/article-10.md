@@ -1,0 +1,7 @@
+# Article 10
+
+Le contrôle de la gestion, qui doit être confié à des personnes physiques, et le contrôle des comptes sont exercés dans les conditions prévues par le contrat constitutif du groupement [*d'intérêt économique - contenu*].
+
+Toutefois, lorsqu'un groupement émet des obligations [*valeurs mobilières*] dans les conditions prévues à l'article 5, le contrôle de la gestion doit être exercé par une ou plusieurs personnes physiques nommées par l'assemblée ; la durée de leurs fonctions et leurs pouvoirs sont déterminés dans le contrat. Le contrôle des comptes doit être exercé par un ou plusieurs commissaires aux comptes choisis sur la liste visée à l'article 219 de la loi précitée du 24 juillet 1966 et nommés par l'assemblée pour une durée de trois exercices [*durée des fonctions*]. Les dispositions de ladite loi concernant les interdictions, les pouvoirs, les fonctions, les obligations, la responsabilité, la révocation et la rémunération des commissaires aux comptes des sociétés anonymes sont applicables aux commissaires des groupements d'intérêt économique sous réserve des règles propres à ceux-ci.
+
+Dans le cas prévu à l'alinéa précédent, les dispositions des articles 470 à 479 de la loi précitée du 24 juillet 1966 sont applicables aux dirigeants du groupement [*d'intérêt économique*], ainsi qu'aux personnes physiques dirigeants des sociétés membres ou représentants permanents des personnes morales dirigeants de ces sociétés [*infractions relatives aux obligations - valeurs mobilières - sanctions*].
