@@ -60,4 +60,6 @@ Le président du conseil d'administration de la caisse mutuelle d'assurance viei
 
 Le gouverneur de la Banque de France ou son représentant ;
 
-Le président du conseil d'administration de la caisse de prévoyance maladie de la Banque de France ou son représentant.
+Le président du conseil d'administration de la caisse de prévoyance maladie de la Banque de France ou son représentant ;
+
+Le président du conseil d'administration de la Caisse nationale des barreaux français ou son représentant.
