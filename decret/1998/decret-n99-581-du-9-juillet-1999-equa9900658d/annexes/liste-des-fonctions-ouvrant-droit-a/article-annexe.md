@@ -31,7 +31,9 @@ EXERCICE DE MISSIONS D'ETUDES ET D'EXPLOITATION ET D'ACTIVITES DE HAUTE RESPONSA
 </tbody>
 </table>
 
-EXERCICE DE FONCTIONS CORRESPONDANT A LA QUALIFICATION DE PREMIER CONTRÔLEUR, DE PREMIER CONTRÔLEUR D'APPROCHE OU A LA QUALIFICATION DE CONTRÔLEUR D'APPROCHE
+EXERCICE DE FONCTIONS CORRESPONDANT A LA QUALIFICATION DE PREMIER CONTRÔLEUR,
+
+DE PREMIER CONTRÔLEUR D'APPROCHE OU A LA QUALIFICATION DE CONTRÔLEUR D'APPROCHE
 
 <table>
 <tbody>
@@ -100,18 +102,10 @@ MAINTENANCE ET SUPERVISION TECHNIQUE DES EQUIPEMENTS ET DES SYSTEMES RELATIFS A 
 </tr>
 <tr>
 <td width="283">
-<p>Maintenance et supervision technique des équipements.</p>
+<p>Maintenance et supervision technique des équipements, missions d'encadrement, d'instruction, d'étude ou de direction de service ou de partie de service.</p>
 </td>
 <td width="284">
-<p>Détention de la qualification technique supérieure depuis au moins douze ans par des IESSA parvenus au 8e échelon du grade de principal.</p>
-</td>
-</tr>
-<tr>
-<td width="283">
-<p>Missions d'encadrement, d'instruction, d'étude ou de direction de service ou de partie de service.</p>
-</td>
-<td width="284">
-<p>Exercice de ces fonctions pendant au moins vingt et un ans pour les IESSA parvenus au grade de principal.</p>
+<p>Détention de la qualification technique supérieure depuis 10 ans au moins par des IESSA parvenus au grade de principal.</p>
 </td>
 </tr>
 <tr>
@@ -129,7 +123,7 @@ FONCTIONS D'ENCADREMENT D'ETUDES, D'EXPLOITATION, DE MISE EN OEUVRE DE MOYENS IN
 <tbody>
 <tr>
 <td width="283">
-<p align="center">FONCTIONS EXERCÉES<br/>par les techniciens des études et de l'exploitation de l'aviation civile (TEEAC)</p>
+<p align="center">FONCTIONS EXERCÉES<br/>par les techniciens supérieurs des études et de l'exploitation de l'aviation civile (TSEEAC)</p>
 </td>
 <td width="284">
 <p align="center">QUALIFICATION ET EXPÉRIENCE</p>
@@ -137,11 +131,10 @@ FONCTIONS D'ENCADREMENT D'ETUDES, D'EXPLOITATION, DE MISE EN OEUVRE DE MOYENS IN
 </tr>
 <tr>
 <td width="283">
-<p>Fonctions d'encadrement, d'études, d'exploitation, de mise en œuvre de moyens informatiques, d'instruction et d'enseignement</p>
+<p>Fonctions d'encadrement, d'études, d'exploitation, de mise en œuvre des moyens informatiques, d'instruction et d'enseignement</p>
 </td>
 <td width="284">
-<p>Exercice de ces fonctions pendant au moins quinze ans pour les TEEAC parvenus au 5e échelon du grade de principal.</p>
-<p>Détention de la première qualification depuis au moins onze ans.</p>
+<p>Exercice de ces fonctions depuis 18 ans au moins par des TSEEAC parvenus au grade de principal.</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +170,6 @@ FONCTIONS DE CARTOGRAPHIE ET DE DESSIN INDUSTRIEL
 <td width="283">
 <p>Exercice de fonctions ou acquis professionnels jugés équivalents aux précédents.</p>
 </td>
-<td width="284"/>
 </tr>
 </tbody>
-</table>.
+</table>

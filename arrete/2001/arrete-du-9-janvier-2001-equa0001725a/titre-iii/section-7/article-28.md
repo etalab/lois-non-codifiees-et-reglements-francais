@@ -1,0 +1,5 @@
+# Article 28
+
+L'exploitant d'aérodrome ou l'organisme auquel il a confié les service s'assure que les produits extincteurs, les véhicules et les équipements affectés au service de sauvetage et de lutte contre l'incendie des aéronefs sont entretenus conformément au carnet d'entretien des constructeurs et fabricants et, pour les véhicules, aux règles générales du code de la route, aux directives de la direction régionale de l'industrie et de la recherche et aux dispositions définies par la direction générale de l'aviation civile et publiées au Bulletin officiel du ministère chargé des transports.
+
+L'exploitant d'aérodrome ou l'organisme auquel il a confié le service doit conserver aux produits extincteurs, véhicules et équipements les mêmes caractéristiques que celles existant lors de leur mise en service. Toute modification caractéristique est soumise à l'accord préalable du ministre chargé de l'aviation civile et du ministre chargé de la sécurité civile, sur proposition de la Commission nationale des matériels de sécurité aéroportuaire prévue à l'article 15 du présent arrêté.

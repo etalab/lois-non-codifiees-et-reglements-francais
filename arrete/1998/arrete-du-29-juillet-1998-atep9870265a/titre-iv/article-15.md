@@ -1,9 +1,13 @@
 # Article 15
 
-Les filtres captant des poussières en différents points doivent être sous caissons et protégés par des évents. Les évents doivent déboucher à l'extérieur des bâtiments et dans une zone peu fréquentée.
+Toutes dispositions doivent être prises pour éviter une explosion et un incendie dans une installation de dépoussiérage et limiter leur propagation et leurs conséquences lorsqu'ils se produisent. Cela peut être l'une ou plusieurs des mesures suivantes : fractionnement des réseaux, dispositifs de découplage de l'explosion, arrosage à l'eau,... Ces dispositions doivent être définies et justifiées dans l'étude des dangers prévue à l'article 2 du présent arrêté.
 
-L'ensemble formé par les filtres capotés et sa réserve à poussières est placé à l'extérieur des bâtiments.
+Le fonctionnement des équipements de manutention doit être asservi au fonctionnement des installations de dépoussiérage.
 
-Les canalisations d'aspiration de ces filtres amenant l'air poussiéreux sont conçues et calculées de manière à éviter les dépôts de poussières. Les vitesses d'air sont supérieures à 15 m/s en tout point dans les canalisations horizontales de pente inférieure à 30° par rapport à l'horizontale.
+Les centrales d'aspiration (cyclones, filtres,...) des systèmes de dépoussiérage de type centralisé doivent être protégées par des dispositifs contre les effets de l'explosion interne et externe ; les filtres doivent être sous caissons.
+
+Les canalisations amenant l'air poussiéreux dans les installations de dépoussiérage doivent être dimensionnées et conçues de manière à ne pas créer de dépôts de poussières.
 
 Le stockage des poussières récupérées doit respecter les prescriptions de l'article 32.
+
+En cas d'emploi de filtres ponctuels, l'exploitant devra s'assurer auprès du constructeur que ces systèmes sont utilisables dans des zones où peuvent apparaître des atmosphères explosives.

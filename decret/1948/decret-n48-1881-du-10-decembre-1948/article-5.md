@@ -1,6 +1,6 @@
 # Article 5
 
-A compter du 1er juillet 2000, le prix de base de la valeur locative mensuelle des locaux d'habitation ou à usage professionnel est fixé conformément au tableau ci-après :
+A compter du 1er juillet 2001, le prix de base de la valeur locative mensuelle des locaux d'habitation ou à usage professionnel est fixé conformément au tableau ci-après :
 
 Catégorie, valeur locative mensuelle en francs.
 
@@ -8,31 +8,31 @@ Agglomération parisienne.
 
 Prix de base de chacun des dix premiers mètres carrés de surface corrigée :
 
-II A : 45,52.
+II A : 7,22.
 
-II B : 31,41.
+II B : 4,98.
 
-II C : 24,02.
+II C : 3,81.
 
-III A : 14,56.
+III A : 2,31.
 
-III B : 8,73.
+III B : 1,38.
 
-IV : 1,70.
+IV : 0,26.
 
 Prix de base des mètres carrés suivants :
 
-II A : 27,09.
+II A : 4,31.
 
-II B : 16,96.
+II B : 2,69.
 
-II C : 12,96.
+II C : 2,05.
 
-III A : 7,83.
+III A : 1,24.
 
-III B : 4,55.
+III B : 0,72.
 
-IV : 0,80.
+IV : 0,12.
 
 Catégorie, valeur locative mensuelle en francs.
 
@@ -40,28 +40,28 @@ Hors agglomération parisienne.
 
 Prix de base de chacun des dix premiers mètres carrés de surface corrigée :
 
-II A : 43,78.
+II A : 6,81.
 
-II B : 30,22.
+II B : 4,70.
 
-II C : 23,11.
+II C : 3,59.
 
-III A : 14.
+III A : 2,18.
 
-III B : 8,40.
+III B : 1,30.
 
-IV : 1,70.
+IV : 0,26.
 
 Prix de base des mètres carrés suivants :
 
-II A : 26,06.
+II A : 4,05.
 
-II B : 16,32.
+II B : 2,54.
 
-II C : 12,47.
+II C : 1,94.
 
-III A : 7,52.
+III A : 1,17.
 
-III B : 4,37.
+III B : 0,68.
 
-IV : 0,80.
+IV : 0,12.

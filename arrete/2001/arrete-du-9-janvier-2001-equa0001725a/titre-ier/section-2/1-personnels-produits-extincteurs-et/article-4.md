@@ -1,0 +1,3 @@
+# Article 4
+
+Si, sur un aérodrome, les avions relevant de la classe d'avion la plus élevée, A, ou d'une classe supérieure non retenue, tels que définis par l'article D. 213-1-1 du code de l'aviation civile, n'effectuent leurs mouvements qu'à certaines périodes précises, journalières, hebdomadaires ou saisonnières, les moyens en personnels, produits extincteurs, véhicules et matériels requis en application de l'annexe 1 du présent arrêté peuvent être réduits en dehors de ces périodes, sans toutefois être inférieurs au niveau de protection correspondant à la classe d'avion la plus élevée utilisant l'aérodrome en période réduite.

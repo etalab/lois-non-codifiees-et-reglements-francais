@@ -1,0 +1,7 @@
+# Article 11
+
+I. - Les chefs de manoeuvre et les pompiers d'aérodrome embauchés à la date de publication du présent arrêté et agréés définitivement au titre de la réglementation précédente, pour l'exercice des fonctions correspondantes, bénéficient de plein droit de l'agrément prévu à l'article D. 213-1-6 du code de l'aviation civile. Sous réserve des dispositions prévues à l'article 12 du présent arrêté, l'agrément est délivré par le préfet pour la durée d'activité du bénéficiaire sur l'aérodrome.
+
+II. - Les chefs de manoeuvre et les pompiers d'aérodrome embauchés à la date de publication du présent arrêté et agréés provisoirement, au titre de la réglementation précédente, pour l'exercice des fonctions correspondantes, bénéficient de l'agrément prévu à l'article D. 213-1-6 du code de l'aviation civile après avoir rempli les conditions requises pour la délivrance de l'agrément définitif prévu au titre de la réglementation précédente. Sous réserve des dispositions prévues à l'article 12 du présent arrêté et de l'alinéa ci-dessous, l'agrément est délivré par le préfet pour la durée d'activité du bénéficiaire sur l'aérodrome.
+
+Toutefois, dans un délai de six mois à compter de l'obtention de l'agrément, le bénéficiaire doit valider l'ensemble des modules de formations définies par la direction générale de l'aviation civile et figurant au III-A de l'annexe 2 du présent arrêté. A défaut, l'agrément est retiré.
