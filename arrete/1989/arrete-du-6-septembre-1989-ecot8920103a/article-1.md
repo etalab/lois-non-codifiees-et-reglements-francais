@@ -8,7 +8,7 @@ Les actifs des organismes de placement collectif en valeurs mobilières sont con
 
 - les établissements de crédit ;
 
-- les sociétés de bourse ainsi que la Société des bourses françaises ;
+- les prestataires de services d'investissement ainsi que la Société des bourses françaises ;
 
 - les entreprises d'assurances et de capitalisation régies par le code des assurances ;
 
