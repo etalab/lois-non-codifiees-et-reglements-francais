@@ -1,3 +1,0 @@
-# Article 2
-
-Sont électeurs dans chacune des disciplines, groupe de disciplines ou catégories visées aux articles 1er, 6, 10 et 11 du décret n° 72-1079 du 6 décembre 1972 l'ensemble des personnels, en position d'activité ou de congés à la date de clôture définitive de la liste, appartenant à la discipline, groupe de disciplines ou à la catégorie concernée, à l'exception des praticiens nommés à titre provisoire en application de l'article 20 du décret n° 84-131 du 24 février 1984 et de l'article 15 du décret n° 85-384 du 29 mars 1985 ; cette dernière disposition ne s'applique pas aux médecins nommés dans les services de moyen et long séjour des hôpitaux locaux.

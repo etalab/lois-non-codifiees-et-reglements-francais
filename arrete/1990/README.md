@@ -771,7 +771,6 @@
 - [Arrêté du 26 octobre 1990 (MENF9002199A)](arrete-du-26-octobre-1990-menf9002199a)
 - [Arrêté du 26 octobre 1990 (SPSH9002057A)](arrete-du-26-octobre-1990-spsh9002057a)
 - [Arrêté du 26 octobre 1990 (SPSH9002060A)](arrete-du-26-octobre-1990-spsh9002060a)
-- [Arrêté du 26 octobre 1990 (SPSH9002142A)](arrete-du-26-octobre-1990-spsh9002142a)
 - [Arrêté du 26 septembre 1990 (BUDZ9000013A)](arrete-du-26-septembre-1990-budz9000013a)
 - [Arrêté du 26 septembre 1990 (MERR9000163A)](arrete-du-26-septembre-1990-merr9000163a)
 - [Arrêté du 27 août 1990 (ECOC9000082A)](arrete-du-27-aout-1990-ecoc9000082a)

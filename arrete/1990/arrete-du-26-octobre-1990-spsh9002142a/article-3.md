@@ -1,3 +1,0 @@
-# Article 3
-
-Sont éligibles l'ensemble des personnels appartenant à la discipline, groupe de disciplines ou à la catégorie concernée, à l'exception des praticiens effectuant, en application de l'article 54 du décret n° 84-135 du 24 février 1984 et de l'article 15 du décret n° 90-92 du 24 janvier 1990, une année de stage, de ceux effectuant, en application de l'article 18 du décret n° 84-131 du 24 février 1984, une période probatoire d'un an, des praticiens associés et des personnels en congé de maladie depuis plus d'un an ou en position de congé postnatal à la date de clôture définitive de la liste.

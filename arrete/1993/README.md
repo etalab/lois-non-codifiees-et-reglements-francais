@@ -1040,7 +1040,6 @@
 - [Arrêté du 26 octobre 1993 (BUDD9370021A)](arrete-du-26-octobre-1993-budd9370021a)
 - [Arrêté du 26 mai 1993 (ACVM9340009A)](arrete-du-26-mai-1993-acvm9340009a)
 - [Arrêté du 26 mai 1993 (AGRH9300963A)](arrete-du-26-mai-1993-agrh9300963a)
-- [Arrêté du 26 mai 1993 (ECOP9300273A)](arrete-du-26-mai-1993-ecop9300273a)
 - [Arrêté du 26 mai 1993 (INDB9300463A)](arrete-du-26-mai-1993-indb9300463a)
 - [Arrêté du 26 mai 1993 (MJSK9370121A)](arrete-du-26-mai-1993-mjsk9370121a)
 - [Arrêté du 26 mai 1993 (MJSK9370122A)](arrete-du-26-mai-1993-mjsk9370122a)
