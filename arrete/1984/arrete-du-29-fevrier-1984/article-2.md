@@ -1,5 +1,3 @@
 # Article 2
 
-Le montant de la participation des travailleurs étrangers ressortissants d'un Etat membre de la Communauté économique européenne [*CEE*] aux frais d'introduction en France d'ascendants, de descendants ou de collatéraux, est fixé par personne à 200 F.
-
-Ce taux est applicable aux travailleurs de nationalité française et aux réfugiés pour l'introduction ou le contrôle en France d'ascendants, de descendants ou de collatéraux de nationalité étrangère.
+Le directeur du budget au ministère de l'économie, des finances et du budget, le directeur de la sécurité sociale au ministère des affaires sociales et de la solidarité nationale et le directeur des affaires sociales au ministère de l'agriculture sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
