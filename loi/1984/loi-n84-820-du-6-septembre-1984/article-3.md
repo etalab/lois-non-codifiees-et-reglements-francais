@@ -8,9 +8,7 @@ Les autorités de l'Etat sont compétentes dans les matières suivantes :
 
 3° Communications extérieures en matière de navigation, dessertes maritime et aérienne et de postes et télécommunications, sous réserve des dispositions du 9° de l'article 26 ;
 
-4° Monnaie, trésor, crédit et changes ;    I. - Le sixième alinéa (5°) est ainsi rédigé :
-
-5° Relations financières avec l'étranger et commerce extérieur, sauf les restrictions quantitatives à l'importation, le programme annuel d'importation et les autorisations préalables aux projets d'investissements directs étrangers. "
+4° Monnaie, trésor, crédit et changes ;    5° Relations financières avec l'étranger et commerce extérieur, sauf les restrictions quantitatives à l'importation, le programme annuel d'importation et les autorisations préalables aux projets d'investissements directs étrangers. "
 
 6° Défense ;    7° Importation, commerce et exportation de matériel militaire, d'armes et de munitions de toutes catégories ;
 
@@ -22,7 +20,7 @@ Les autorités de l'Etat sont compétentes dans les matières suivantes :
 
 11° Droit civil, à l'exclusion de la procédure civile et sous réserve des dispositions du dernier alinéa de l'article 26 ; principes fondamentaux des obligations commerciales ;
 
-12° Principes généraux du droit du travail ;    13° Justice, organisation judiciaire et organisation de la profession d'avocat, frais de justice criminelle, correctionnelle et de police, droit pénal sous réserve des dispositions des articles 25 (5°), 30, 64, 65 et 66, commissions d'office, procédure pénale à l'exclusion de la réglementation pénitentiaire et de la réglementation relative à la liberté surveillée des mineurs. "
+12° Principes généraux du droit du travail ;    13° Justice, organisation judiciaire, organisation de la profession d'avocat, à l'exclusion de toute autre profession juridique ou judiciaire, frais de justice criminelle, correctionnelle et de police, droit pénal sous réserve des dispositions des articles 25 (5°), 30, 64, 65 et 66, commissions d'office, procédure pénale à l'exclusion de la réglementation pénitentiaire et de la réglementation relative à la liberté surveillée des mineurs. "
 
 14° Fonction publique d'Etat ;
 

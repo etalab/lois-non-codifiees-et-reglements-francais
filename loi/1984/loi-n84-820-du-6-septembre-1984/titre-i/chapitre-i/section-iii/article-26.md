@@ -35,3 +35,5 @@ Le conseil des ministres du territoire :
 15° Dans les cas prévus au 14°, peut exercer un droit de préemption au nom du territoire sur les immeubles ou les droits sociaux en cause à charge de verser aux ayants droit le montant de la valeur desdits immeubles ; à défaut d'accord amiable, cette valeur est alors fixée comme en matière d'expropriation ;
 
 16° Prend les arrêtés de déclaration d'utilité publique et d     e cessibilité lorsque l'expropriation est poursuivie pour le compte du territoire. "
+
+17° Créé les charges et nomme les officiers publics  et les officiers ministériels

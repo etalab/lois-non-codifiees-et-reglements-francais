@@ -6,4 +6,4 @@ Toutefois, les comités créés en vertu de ce texte continuent de fonctionner j
 
 Les références faites par les textes en vigueur à ces comités sont réputées faites aux organismes prévus par la présente loi et ses textes d'application.
 
-Le mandat des membres de tous les comités de l'interprofession des pêches maritimes et de la conchyliculture est prolongé jusqu'à la date des élections mentionnées à l'article 4 de la présente loi ou, au plus tard, jusqu'au 31 décembre 1991.
+Le mandat des membres de tous les comités de l'interprofession des pêches maritimes et de la conchyliculture est prolongé jusqu'à la date des élections mentionnées à l'article 4 de la présente loi ou, au plus tard, jusqu'au 30 juin 1992.
