@@ -210,6 +210,8 @@
 - [Décret n°90-598 du 10 juillet 1990 (SPSS9001133D)](decret-n90-598-du-10-juillet-1990-spss9001133d)
 - [Décret n°90-73 du 10 janvier 1990 (MCCB8900588D)](decret-n90-73-du-10-janvier-1990-mccb8900588d)
 - [Décret n°90-732 du 10 août 1990 (PRMX9010249D)](decret-n90-732-du-10-aout-1990-prmx9010249d)
+- [Décret n°90-798 du 10 septembre 1990 (BUDF9000017D)](decret-n90-798-du-10-septembre-1990-budf9000017d)
+- [Décret n°90-799 du 10 septembre 1990 (BUDF9000018D)](decret-n90-799-du-10-septembre-1990-budf9000018d)
 - [Décret n°91-1244 du 10 décembre 1991 (MCCB9100527D)](decret-n91-1244-du-10-decembre-1991-mccb9100527d)
 - [Décret n°90-388 du 10 mai 1990 (JUSX9010168D)](decret-n90-388-du-10-mai-1990-jusx9010168d)
 - [Décret n°90-359 du 11 avril 1990 (SPSA9000231D)](decret-n90-359-du-11-avril-1990-spsa9000231d)
