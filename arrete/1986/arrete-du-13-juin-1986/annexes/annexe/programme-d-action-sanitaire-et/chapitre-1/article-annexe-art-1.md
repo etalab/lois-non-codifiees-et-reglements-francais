@@ -24,6 +24,12 @@ Participation dans les mêmes cas et sous les mêmes conditions aux frais de tra
 
 9° Prise en charge de tout ou partie des frais d'hébergement des assurés sociaux ayants droit devant suivre un traitement dans les externats de rééducation motrice de certaines station thermales, lorsque la durée du traitement est supérieure aux vingt et un jours prévus pour la cure et après accord du contrôle médical ;
 
-10° Attribution, en cas d'accident mortel survenu à l'assuré, d'une allocation forfaitaire aux ayants droit ;
+10° Participation aux frais de transport international du conjoint ou d'un ascendant en cas de décès de l'assuré ou d'un ayant droit.
 
 11° Attribution, en cas de traitement de l'insuffisance rénale par dialyse à domicile, d'une participation aux frais de raccordement au réseau et à l'abonnement téléphonique, lorsque l'installation et l'abonnement sont uniquement motivés par les besoins du traitement.
+
+12° Participation aux frais de transport international du corps, lors du décès de l'assuré ou d'un ayant droit ;
+
+13° Attribution du complément de remboursement visé au 3° et prise en charge des frais de transport international liés à l'admission dans un établissement public ou privé de réadaptation fonctionnelle régulièrement agréé ;
+
+14° Participation aux frais de placement dans des établissements d'hébergement médicalisés situés à l'étranger des assurés ou ayants droit âgés et dépendants.
