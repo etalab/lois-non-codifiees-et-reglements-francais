@@ -123,6 +123,7 @@
 - [Arrêté du 26 janvier 1988 (ASEE8803075A)](arrete-du-26-janvier-1988-asee8803075a)
 - [Arrêté du 26 janvier 1988 (ASEP8800155A)](arrete-du-26-janvier-1988-asep8800155a)
 - [Arrêté du 26 janvier 1988 (BUDF8830096A)](arrete-du-26-janvier-1988-budf8830096a)
+- [Arrêté du 26 janvier 1988 (ECOT8740050A)](arrete-du-26-janvier-1988-ecot8740050a)
 - [Arrêté du 26 janvier 1988 (MDSD8800039A)](arrete-du-26-janvier-1988-mdsd8800039a)
 - [Arrêté du 26 novembre 1987 (ENVN8700236A)](arrete-du-26-novembre-1987-envn8700236a)
 - [Arrêté du 26 novembre 1987 (ENVN8700237A)](arrete-du-26-novembre-1987-envn8700237a)
