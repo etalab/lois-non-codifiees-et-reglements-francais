@@ -87,6 +87,8 @@
 - [Décret n°98-489 du 17 juin 1998 (AGRS9800099D)](decret-n98-489-du-17-juin-1998-agrs9800099d)
 - [Décret n°89-902 du 18 décembre 1989 (MENT8902456D)](decret-n89-902-du-18-decembre-1989-ment8902456d)
 - [Décret n°94-142 du 18 février 1994 (MAEJ9430011D)](decret-n94-142-du-18-fevrier-1994-maej9430011d)
+- [Décret n°94-144 du 18 février 1994 (DEFC9401009D)](decret-n94-144-du-18-fevrier-1994-defc9401009d)
+- [Décret n°94-146 du 18 février 1994 (BUDF9410019D)](decret-n94-146-du-18-fevrier-1994-budf9410019d)
 - [Décret n°94-714 du 18 août 1994 (AGRS9401211D)](decret-n94-714-du-18-aout-1994-agrs9401211d)
 - [Décret n°94-80 du 18 janvier 1994 (MAEJ9330048D)](decret-n94-80-du-18-janvier-1994-maej9330048d)
 - [Décret n°94-392 du 18 mai 1994 (SPSH9400717D)](decret-n94-392-du-18-mai-1994-spsh9400717d)
