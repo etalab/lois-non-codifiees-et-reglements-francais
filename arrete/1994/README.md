@@ -843,7 +843,6 @@
 - [Arrêté du 22 août 1994 (EQUA9401475A)](arrete-du-22-aout-1994-equa9401475a)
 - [Arrêté du 22 août 1994 (EQUA9401487A)](arrete-du-22-aout-1994-equa9401487a)
 - [Arrêté du 22 avril 1994 (BUDR9405014A)](arrete-du-22-avril-1994-budr9405014a)
-- [Arrêté du 22 avril 1994 (INTB9400237A)](arrete-du-22-avril-1994-intb9400237a)
 - [Arrêté du 22 avril 1994 (INTE9400216A)](arrete-du-22-avril-1994-inte9400216a)
 - [Arrêté du 22 avril 1994 (MENF9400777A)](arrete-du-22-avril-1994-menf9400777a)
 - [Arrêté du 22 avril 1994 (SANP9401298A)](arrete-du-22-avril-1994-sanp9401298a)
