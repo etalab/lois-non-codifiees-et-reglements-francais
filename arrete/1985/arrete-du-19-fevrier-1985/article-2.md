@@ -1,3 +1,3 @@
 # Article 2
 
-L'émission sera close sans préavis.
+Les dispositions du présent arrêté ne s'appliquent pas aux travaux énumérés à l'article 1er lorsque ceux-ci s'effectuent à l'intérieur d'appareils rigoureusement clos en marche normale.

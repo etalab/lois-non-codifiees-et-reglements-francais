@@ -1,3 +1,3 @@
 # Article 1
 
-L'agrément prévu à l'article 17 de la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à  la propriété immobilière est délivré par le commissaire de la République du département dans lequel se trouve établi le siège social de l'organisme d'HLM qui le sollicite.
+Pour l'année 1985-1986 les tarifs et prix des transports scolaires pourront être majorés de 2 p. 100 à compter du 1er septembre 1985 par rapport à leur dernier niveau licite atteint pendant l'année scolaire 1984-1985 [*pourcentage licite de hausse - date d'effet*].

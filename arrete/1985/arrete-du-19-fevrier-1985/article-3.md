@@ -1,3 +1,7 @@
 # Article 3
 
-Le présent arrêté sera publié au Journal officiel de la République française.
+Tout chef d'entreprise peut être autorisé, sur sa demande, à utiliser des salariés des entreprises de travail temporaire pour effectuer les travaux visés à l'article 1er. Cette demande doit être adressée au directeur départemental du travail et de l'emploi, accompagnée de l'avis, d'une part, du comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, des délégués du personnel ; d'autre part, du médecin du travail de l'entreprise, par lettre recommandée avec demande d'avis de réception. Le directeur départemental du travail et de l'emploi statue, dans un délai d'un mois à compter de la présentation de la lettre recommandée, après enquête de l'inspecteur du travail et avis du médecin inspecteur régional du travail permettant de vérifier que des mesures particulières de prévention, notamment par une formation appropriée à la sécurité, assurent une protection efficace des salariés de l'entreprise contre les risques dus à ces travaux. L'absence de réponse à l'expiration de ce délai constitue une décision de rejet.
+
+La réclamation du chef d'entreprise contre toute décision de rejet est adressée, par lettre recommandée avec demande d'avis de réception, au directeur régional du travail et de l'emploi qui statue dans un délai d'un mois à compter de la réception de la demande. L'absence de réponse à l'expiration de ce délai constitue une décision de rejet.
+
+Cette autorisation peut être retirée par le directeur départemental du travail et de l'emploi lorsqu'il est constaté que les conditions ayant justifié son attribution ne sont plus réunies.

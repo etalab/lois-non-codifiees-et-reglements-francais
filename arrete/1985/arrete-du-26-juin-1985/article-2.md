@@ -1,3 +1,3 @@
 # Article 2
 
-Peuvent obtenir le bénéfice de cet agrément les organismes visés à l'article L. 411-2 du code de la construction et de l'habitation dont la qualité de la gestion et la capacité financière sont suffisantes.
+Les dispositions des articles 2, 3 et 4 de l'arrêté n° 84-58/A du 29 juin 1984 et de l'article 2 de l'arrêté n° 85-13/A du 16 janvier 1985 demeurent applicables.
