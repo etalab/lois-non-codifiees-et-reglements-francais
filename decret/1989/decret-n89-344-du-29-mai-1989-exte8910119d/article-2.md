@@ -40,15 +40,19 @@ b) De dix-sept représentants de l'Etat désignés par arrêté du ministre dont
 
 -le commissaire général de la section française à l'Exposition universelle de Séville.
 
-c) De représentants des quatre organismes suivants, désignés par ceux-ci :
+c) De représentants des six organismes suivants, désignés par ceux-ci :
 
--un représentant du Centre français du commerce extérieur ;
+- un représentant du Conseil supérieur des Français de l'étranger ;
 
--un représentant de l'agence pour la coopération technique, industrielle et économique ;
+- un représentant du centre français du commerce extérieur ;
 
--un représentant de la Maison de la France ;
+- un représentant de l'agence pour la coopération technique industrielle et économique ;
 
--un représentant de la société de promotion de l'exportation des produits agricoles et alimentaires.
+- un représentant de la Maison de la France ;
+
+- un représentant de la société de promotion de l'exportation des produits agricoles et alimentaires ;
+
+- un représentant du comité du rayonnement français.
 
 d) De trois représentants des collectivités locales :
 
@@ -68,13 +72,13 @@ e) De sept représentants des organismes professionnels suivants :
 
 -un représentant de l'union des chambres de commerce et d'industrie françaises à l'étranger ;
 
--un représentant de l'Association des conseillers du commerce extérieur de la France ;
+-un représentant de l'Association des conseillers du commerce
+
+extérieur de la France ;
 
 -un représentant du comité Colbert ;
 
--un représentant de l'Association des agences de conseils en
-
-publicité.
+-un représentant de l'Association des agences de conseils en publicité.
 
 La durée du mandat des membres du comité autres que les membres de droit est de trois ans.
 
