@@ -48,3 +48,4 @@
 - [Décret n°70-95 du 30 janvier 1970](decret-n70-95-du-30-janvier-1970)
 - [Décret n° 70-708 du 31 juillet 1970](decret-n-70-708-du-31-juillet-1970)
 - [Décret n°70-288 du 31 mars 1970](decret-n70-288-du-31-mars-1970)
+- [Décret n°70-716 du 31 juillet 1970](decret-n70-716-du-31-juillet-1970)
