@@ -991,7 +991,6 @@
 - [Arrêté du 28 mars 1991 (SPSS9100819A)](arrete-du-28-mars-1991-spss9100819a)
 - [Arrêté du 28 mars 1991 (TEFT9103365A)](arrete-du-28-mars-1991-teft9103365a)
 - [Arrêté du 28 novembre 1991 (EQUC9101700A)](arrete-du-28-novembre-1991-equc9101700a)
-- [Arrêté du 28 novembre 1991 (EQUS9101515A)](arrete-du-28-novembre-1991-equs9101515a)
 - [Arrêté du 28 novembre 1991 (SANP9102637A)](arrete-du-28-novembre-1991-sanp9102637a)
 - [Arrêté du 28 octobre 1991 (BUDF9100029A)](arrete-du-28-octobre-1991-budf9100029a)
 - [Arrêté du 28 octobre 1991 (BUDF9100032A)](arrete-du-28-octobre-1991-budf9100032a)
