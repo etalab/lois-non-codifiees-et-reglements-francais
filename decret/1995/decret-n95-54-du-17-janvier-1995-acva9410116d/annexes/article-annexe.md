@@ -17,3 +17,9 @@ Maître ouvrier ou maître ouvrier principal exerçant les fonctions de chef d'a
 Agents assurant la responsabilité d'unités administratives ;
 
 Agents exerçant à temps complet des tâches budgétaires et comptables avec utilisation de l'informatique.
+
+Agent assurant les fonctions de chargé de formation ;
+
+Agent assurant les fonctions de secrétaire du directeur de l'établissement ;
+
+Agent assurant les tâches de gestion administrative du personnel.
