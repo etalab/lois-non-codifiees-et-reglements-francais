@@ -61,7 +61,6 @@
 - [Arrêté du 2 octobre 1992 (AGRA9201696A)](arrete-du-2-octobre-1992-agra9201696a)
 - [Arrêté du 2 octobre 1992 (ECOP9100748A)](arrete-du-2-octobre-1992-ecop9100748a)
 - [Arrêté du 2 octobre 1992 (ENVP9250128A)](arrete-du-2-octobre-1992-envp9250128a)
-- [Arrêté du 2 octobre 1992 (ENVP9250129A)](arrete-du-2-octobre-1992-envp9250129a)
 - [Arrêté du 2 octobre 1992 (EQUA9201428A)](arrete-du-2-octobre-1992-equa9201428a)
 - [Arrêté du 2 octobre 1992 (EQUA9201429A)](arrete-du-2-octobre-1992-equa9201429a)
 - [Arrêté du 2 octobre 1992 (EQUS9201425A)](arrete-du-2-octobre-1992-equs9201425a)

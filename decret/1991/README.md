@@ -687,7 +687,6 @@
 - [Décret n°60-1441 du 26 décembre 1960](decret-n60-1441-du-26-decembre-1960)
 - [Décret n°91-1196 du 26 novembre 1991 (INDA9100860D)](decret-n91-1196-du-26-novembre-1991-inda9100860d)
 - [Décret n°91-1205 du 26 novembre 1991 (PTTR9100375D)](decret-n91-1205-du-26-novembre-1991-pttr9100375d)
-- [Décret n°91-1206 du 26 novembre 1991 (INTD9100462D)](decret-n91-1206-du-26-novembre-1991-intd9100462d)
 - [Décret n°91-1306 du 26 décembre 1991 (MICT9100774D)](decret-n91-1306-du-26-decembre-1991-mict9100774d)
 - [Décret n°91-1310 du 26 décembre 1991 (MENF9102739D)](decret-n91-1310-du-26-decembre-1991-menf9102739d)
 - [Décret n°91-1311 du 26 décembre 1991 (BUDF9110087D)](decret-n91-1311-du-26-decembre-1991-budf9110087d)

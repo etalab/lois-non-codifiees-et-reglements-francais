@@ -105,7 +105,6 @@
 - [Arrêté du 3 mars 1995 (TEFT9500303A)](arrete-du-3-mars-1995-teft9500303a)
 - [Arrêté du 3 mars 1995 (TEFT9500304A)](arrete-du-3-mars-1995-teft9500304a)
 - [Arrêté du 3 novembre 1995 (ECOT9551479A)](arrete-du-3-novembre-1995-ecot9551479a)
-- [Arrêté du 3 novembre 1995 (INTF9500641A)](arrete-du-3-novembre-1995-intf9500641a)
 - [Arrêté du 3 novembre 1995 (MENU9502429A)](arrete-du-3-novembre-1995-menu9502429a)
 - [Arrêté du 3 novembre 1995 (SPSS9503281A)](arrete-du-3-novembre-1995-spss9503281a)
 - [Arrêté du 3 octobre 1995 (ECOT9510248A)](arrete-du-3-octobre-1995-ecot9510248a)
