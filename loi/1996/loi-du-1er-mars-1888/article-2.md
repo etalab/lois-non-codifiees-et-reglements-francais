@@ -12,8 +12,8 @@ III. - Le fait, pour toute personne, de refuser de laisser les officiers et les 
 
 IV. - En cas de récidive, les peines d'amende prévues aux I, II et III du présent article sont portées au double. Il y a récidive lorsque, dans un délai de cinq ans après l'expiration ou la prescription d'une peine prononcée en application de ces articles, le délinquant commet le même délit.
 
-V. - Pour l'application du présent article aux territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna, les valeurs exprimées en francs sont remplacées par les valeurs en francs CFP ci-après :
+V. - Pour l'application du présent article à la Nouvelle-Calédonie, aux territoires de la Polynésie française et des îles Wallis et Futuna, les valeurs exprimées en francs sont remplacées par les valeurs en euros ci-après :
 
-- paragraphes I et II : 900000 à 9000000 F CFP ;
+- paragraphes I et II : 7540 à 75420 euros ;
 
-- paragraphe III : 180000 à 1800000 F CFP.
+- paragraphe III : 1508 à 15080 euros.
