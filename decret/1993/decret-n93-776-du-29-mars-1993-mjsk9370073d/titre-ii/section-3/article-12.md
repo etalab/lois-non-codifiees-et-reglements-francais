@@ -1,9 +1,0 @@
-# Article 12
-
-Peuvent être placés en position de détachement dans le corps des inspecteurs de la jeunesse, des sports et des loisirs et dans la limite de 5 p. 100 de l'effectif budgétaire du corps, les fonctionnaires de l'Etat et des collectivités territoriales ou établissements publics qui en dépendent appartenant à un corps, à un cadre d'emplois ou à un emploi classé en catégorie A et justifiant d'un des titres ou diplômes exigés pour se présenter au premier concours d'entrée à l'Ecole nationale d'administration ou d'un des titres figurant sur une liste établie par arrêté conjoint du ministre chargé de la jeunesse et des sports et du ministre chargé de la fonction publique.
-
-Le détachement est prononcé à équivalence de grade, après avis de la commission administrative paritaire, à un échelon comportant un indice égal ou à défaut immédiatement supérieur à celui dont les intéressés bénéficiaient dans leur corps ou cadre d'emplois d'origine.
-
-Les fonctionnaires détachés conservent, dans la limite de l'ancienneté maximale de service exigée pour l'accès à l'échelon supérieur de leur nouveau grade, l'ancienneté d'échelon acquise dans leur précédent emploi lorsque le détachement leur procure un avantage inférieur à celui qui aurait résulté d'un avancement d'échelon dans leur corps d'origine ou qui a résulté de leur nomination audit échelon si cet échelon était plus élevé dans leur précédent emploi. Ils concourent à l'avancement de grade dans le corps de détachement.
-
-A l'expiration d'un délai de trois ans à compter de leur détachement, ils peuvent, sur leur demande et après avis de la commission administrative paritaire, être intégrés dans le corps des inspecteurs de la jeunesse, des sports et des loisirs. Les intéressés sont nommés à l'échelon qu'ils occupent en position de détachement et conservent l'ancienneté d'échelon acquise.
