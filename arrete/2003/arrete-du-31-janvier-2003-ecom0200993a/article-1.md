@@ -14,6 +14,4 @@ Les certificats attestant le paiement sont délivrés pour :
 
 - l'impôt sur le revenu par les comptables du Trésor ;
 
-- l'impôt sur les sociétés par les comptables du Trésor ou le comptable de la direction des grandes entreprises ;
-
-- la taxe sur la valeur ajoutée par les comptables des impôts.
+- l'impôt sur les sociétés et la taxe sur la valeur ajoutée par les comptables des impôts.
