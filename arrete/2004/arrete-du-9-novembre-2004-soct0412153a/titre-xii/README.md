@@ -1,0 +1,3 @@
+# TITRE XII : CONFIDENTIALITÉ DES NOMS CHIMIQUES.
+
+- [Article 39](article-39.md)

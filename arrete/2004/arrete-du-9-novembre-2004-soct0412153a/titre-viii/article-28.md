@@ -1,0 +1,3 @@
+# Article 28
+
+Sans préjudice des dispositions du décret du 11 mai 1937 modifié portant règlement d'administration publique pour l'application de la loi du 4 août 1903 et de l'arrêté du 6 septembre 1994 relatif au contrôle des produits phytopharmaceutiques, des indications telles que "non toxique", "non nocif", "non polluant", "écologique" ou toute autre indication tendant à démontrer le caractère non dangereux d'une préparation ou susceptible d'entraîner une sous-estimation des dangers de cette préparation ne peuvent figurer sur l'emballage ou l'étiquette d'aucune des préparations visées par le présent arrêté.

@@ -1,0 +1,3 @@
+# Article 5
+
+Les fabricants ou leurs représentants, ou les personnes pour le compte desquelles les produits cosmétiques sont fabriqués, ou les responsables de la mise sur le marché de produits cosmétiques importés pour la première fois d'un Etat non membre de la Communauté européenne ou non partie à l'accord sur l'Espace économique européen doivent appliquer les dispositions du 4° de l'article R. 5131-4 relatives à la durée d'utilisation autorisée après ouverture et du 8° de l'article R. 5131-4 relatives à l'étiquetage des substances dont la mention est exigée en vertu des dispositions relatives aux "Autres limitations et exigences" figurant dans l'arrêté prévu au 2° de l'article R. 5131-3 du code de la santé publique au plus tard le 11 mars 2005.

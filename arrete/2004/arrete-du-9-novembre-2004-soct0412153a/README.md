@@ -1,0 +1,16 @@
+# Arrêté du 9 novembre 2004 définissant les critères de classification et les conditions d'étiquetage et d'emballage des préparations dangereuses et transposant la directive 1999/45/CE du Parlement européen et du Conseil du 31 mai 1999, concernant le rapprochement des dispositions législatives, réglementaires et administratives relatives à la classification, à l'emballage et à l'étiquetage des préparations dangereuses.
+
+- [TITRE Ier : CHAMP D'APPLICATION.](titre-ier)
+- [TITRE II : DÉTERMINATION DES PROPRIÉTÉS DANGEREUSES DES PRÉPARATIONS.](titre-ii)
+- [TITRE III : PRINCIPES GÉNÉRAUX DE CLASSIFICATION ET D'ÉTIQUETAGE.](titre-iii)
+- [TITRE IV : ÉVALUATION DES DANGERS DÉCOULANT DES PROPRIÉTÉS PHYSICO-CHIMIQUES.](titre-iv)
+- [TITRE V : ÉVALUATION DES DANGERS POUR LA SANTÉ.](titre-v)
+- [TITRE VI : ÉVALUATION DES DANGERS POUR L'ENVIRONNEMENT.](titre-vi)
+- [TITRE VII : DESCRIPTION DE L'EMBALLAGE.](titre-vii)
+- [TITRE VIII : DESCRIPTION DE L'ÉTIQUETAGE.](titre-viii)
+- [TITRE IX : MISE EN OEUVRE DES CONDITIONS D'ÉTIQUETAGE.](titre-ix)
+- [TITRE X : EXEMPTIONS DES CONDITIONS D'ÉTIQUETAGE ET D'EMBALLAGE.](titre-x)
+- [TITRE XI : VENTE À DISTANCE.](titre-xi)
+- [TITRE XII : CONFIDENTIALITÉ DES NOMS CHIMIQUES.](titre-xii)
+- [TITRE XIII : DISPOSITIONS FINALES.](titre-xiii)
+- [Annexes](annexes)

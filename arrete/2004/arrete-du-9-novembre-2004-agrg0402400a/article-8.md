@@ -1,0 +1,3 @@
+# Article 8
+
+Sans préjudice de l'arrêté du 5 juin 2000 susvisé, les négociants et les responsables de centres de rassemblement doivent indiquer sur leur registre le numéro d'enregistrement du transporteur ainsi que le numéro d'immatriculation du véhicule et, le cas échéant, de la remorque qui charge ou qui décharge les animaux. Ces mentions doivent être liées aux informations concernant les animaux chargés ou déchargés ainsi que leur origine ou, selon le cas, leur destination. Ils doivent également conserver une copie des plans de marche ou des certificats sanitaires, ou encore les références des certificats sanitaires (numéros d'ordre, date d'établissement, nom du service certificateur).
