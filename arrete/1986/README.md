@@ -1,6 +1,7 @@
 # 1986
 
 - [Arrêté du 1 février 1986](arrete-du-1-fevrier-1986)
+- [Arrêté du 1 juillet 1986](arrete-du-1-juillet-1986)
 - [Arrêté du 1 mars 1986](arrete-du-1-mars-1986)
 - [Arrêté du 2 janvier 1986](arrete-du-2-janvier-1986)
 - [Arrêté du 2 juillet 1986](arrete-du-2-juillet-1986)
@@ -69,6 +70,7 @@
 - [Arrêté du 16 avril 1986](arrete-du-16-avril-1986)
 - [Arrêté du 16 décembre 1985](arrete-du-16-decembre-1985)
 - [Arrêté du 16 janvier 1986](arrete-du-16-janvier-1986)
+- [Arrêté du 16 juillet 1986](arrete-du-16-juillet-1986)
 - [Arrêté du 16 mai 1986](arrete-du-16-mai-1986)
 - [Arrêté du 17 décembre 1985](arrete-du-17-decembre-1985)
 - [Arrêté du 17 février 1986](arrete-du-17-fevrier-1986)
