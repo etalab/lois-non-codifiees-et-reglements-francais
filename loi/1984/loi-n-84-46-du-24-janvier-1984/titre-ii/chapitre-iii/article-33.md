@@ -17,3 +17,5 @@ Le comité de la réglementation bancaire établit la réglementation concernant
 7° Le plan comptable, les règles de consolidation des comptes, ainsi que la publicité des documents comptables et des informations destinées tant aux autorités compétentes qu'au public ;
 
 8° Sous réserve des compétences conférées au Conseil de la politique monétaire de la Banque de France par la loi n° 93-980 du 4 août 1993 relative au statut de la Banque de France et à l'activité et au contrôle des établissements de crédit, les instruments et les règles du crédit.
+
+9° Les règles relatives à la protection des déposants mentionnées à l'article 52-1.
