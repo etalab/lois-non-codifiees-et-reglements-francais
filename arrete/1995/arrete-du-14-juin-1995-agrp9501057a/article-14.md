@@ -1,3 +1,0 @@
-# Article 14
-
-Les arrêtés du 24 juillet 1978 complété par l'arrêté du 31 août 1987, relatif aux modalités de l'identification permanente et généralisée du cheptel bovin, du 18 mars 1992, du 13 octobre 1992 et du 21 novembre 1994, relatifs aux modalités de réalisation de l'identification permanente et généralisée du cheptel bovin, du 12 août 1993 relatif au système d'identification permanente et généralisée des bovins dans les départements de l'Allier, de la Charente, de la Marne, du Puy-de-Dôme et des Vosges, du 12 août 1993 relatif au système d'identification permanente et généralisée des bovins dans les départements de la Mayenne et de la Vendée, sont abrogés à compter du 1er juillet 1995.
