@@ -57,7 +57,6 @@
 - [Arrêté du 9 juillet 1984](arrete-du-9-juillet-1984)
 - [Arrêté du 9 mars 1984](arrete-du-9-mars-1984)
 - [Arrêté du 9 novembre 1984](arrete-du-9-novembre-1984)
-- [Arrêté du 10 août 1984](arrete-du-10-aout-1984)
 - [Arrêté du 10 avril 1984](arrete-du-10-avril-1984)
 - [Arrêté du 10 décembre 1984](arrete-du-10-decembre-1984)
 - [Arrêté du 10 février 1984](arrete-du-10-fevrier-1984)
