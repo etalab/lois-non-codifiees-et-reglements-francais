@@ -409,6 +409,8 @@
 - [Arrêté du 24 juillet 1996 (EQUA9600456A)](arrete-du-24-juillet-1996-equa9600456a)
 - [Arrêté du 24 septembre 1996 (ACVA9610105A)](arrete-du-24-septembre-1996-acva9610105a)
 - [Arrêté du 24 mai 1996 (ECOT9651511A)](arrete-du-24-mai-1996-ecot9651511a)
+- [Arrêté du 24 mai 1996 (LOGC9600028A)](arrete-du-24-mai-1996-logc9600028a)
+- [Arrêté du 24 mai 1996 (PRMG9670256A)](arrete-du-24-mai-1996-prmg9670256a)
 - [Arrêté du 25 avril 1996 (INTC9600212A)](arrete-du-25-avril-1996-intc9600212a)
 - [Arrêté du 25 avril 1996 (MIPP9600157A)](arrete-du-25-avril-1996-mipp9600157a)
 - [Arrêté du 25 janvier 1996 (BUDF9600001A)](arrete-du-25-janvier-1996-budf9600001a)
@@ -573,3 +575,4 @@
 - [Arrêté du 31 janvier 1996 (ECOR9605004A)](arrete-du-31-janvier-1996-ecor9605004a)
 - [Arrêté du 31 janvier 1996 (ECOT9610261A)](arrete-du-31-janvier-1996-ecot9610261a)
 - [Arrêté du 31 janvier 1996 (MIPP9600051A)](arrete-du-31-janvier-1996-mipp9600051a)
+- [Arrêté du 31 mai 1996 (ECOT9651518A)](arrete-du-31-mai-1996-ecot9651518a)

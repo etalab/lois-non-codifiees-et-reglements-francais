@@ -12,6 +12,7 @@
 - [Article 48](article-48.md)
 - [Article 48-I](article-48-i.md)
 - [Article 48-III](article-48-iii.md)
+- [Article 48-IV](article-48-iv.md)
 - [Article 49](article-49.md)
 - [Article 49-II](article-49-ii.md)
 - [Article 49-III](article-49-iii.md)
