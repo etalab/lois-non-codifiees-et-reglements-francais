@@ -616,7 +616,6 @@
 - [Arrêté du 29 décembre 1987 (ASES8701890A)](arrete-du-29-decembre-1987-ases8701890a)
 - [Arrêté du 29 janvier 1987 (BUDB8730001A)](arrete-du-29-janvier-1987-budb8730001a)
 - [Arrêté du 29 janvier 1987 (INDE8700066A)](arrete-du-29-janvier-1987-inde8700066a)
-- [Arrêté du 29 janvier 1987 (INDP8700108A)](arrete-du-29-janvier-1987-indp8700108a)
 - [Arrêté du 29 juillet 1987 (DEFD8701593A)](arrete-du-29-juillet-1987-defd8701593a)
 - [Arrêté du 29 juillet 1987 (ECOT8713008A)](arrete-du-29-juillet-1987-ecot8713008a)
 - [Arrêté du 29 juillet 1987 (EQUC8700526A)](arrete-du-29-juillet-1987-equc8700526a)

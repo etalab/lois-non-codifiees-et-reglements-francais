@@ -1,4 +1,0 @@
-# Section II : Règles professionnelles.
-
-- [Article Annexe, 5](article-annexe-5.md)
-- [Article Annexe, 6](article-annexe-6.md)
