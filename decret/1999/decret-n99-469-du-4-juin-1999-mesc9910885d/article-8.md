@@ -12,15 +12,15 @@ A défaut d'accord dans ce délai, le préfet transmet le dossier à la commissi
 
 a) Dossiers comportant un nombre important de créanciers ou des enjeux financiers élevés ;
 
-b) Dossiers pour lesquels le rapatrié de bonne foi n'a pu obtenir malgré les efforts conjugués des diverses parties, tels qu'ils ressortent notamment des échanges de courriers entre les créanciers et le débiteur, un accord d'apurement de tous ses créanciers ;
+b) Dossiers pour lesquels le rapatrié de bonne foi n'a pu obtenir, malgré les efforts conjugués des diverses parties, tels qu'ils ressortent notamment des échanges de courriers entre les créanciers et le débiteur, un accord d'apurement de tous ses créanciers ;
 
 c) Dossiers relevant du redressement ou de la liquidation judiciaire ;
 
-d) Dossiers bloqués par une instance judiciaire en cours.
+d) Dossiers bloqués par une instance judiciaire compétente.
 
-Au vu de cet avis, le président de la mission interministérielle aux rapatriés peut accorder, pour les dossiers déclarés éligibles avant le 1er mai 2003 et qui relèvent des cas définis aux alinéas a et b ci-dessus, un délai supplémentaire, courant à compter de cette date, de six mois renouvelable deux fois à titre exceptionnel.
+Au vu de cet avis, le président de la mission interministérielle aux rapatriés peut accorder un délai supplémentaire de six mois renouvelable deux fois à titre exceptionnel pour les dossiers qui relèvent des cas a et b.
 
-Pour les dossiers relevant des cas définis aux alinéas c et d ci-dessus, la prolongation des délais de négociation peut être accordée jusqu'à un délai maximum de six mois non renouvelable à compter de l'homologation du plan d'apurement par le tribunal compétent ou de la décision de justice.
+Pour les dossiers relevant des cas définis aux alinéas c et d ci-dessus, la prolongation des délais de négociation peut être accordée jusqu'à un délai maximum de six mois non renouvelable à compter de l'homologation du plan d'apurement par le tribunal compétent ou de la décision de justice définitive.
 
 Le président de la mission notifie à l'intéressé, le cas échéant, sa décision de prolonger le délai de négociation.
 

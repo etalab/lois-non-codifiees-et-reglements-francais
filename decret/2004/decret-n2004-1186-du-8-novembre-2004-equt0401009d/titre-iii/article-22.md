@@ -1,0 +1,3 @@
+# Article 22
+
+Tout conducteur doit être en mesure de justifier, dans l'exercice de ses fonctions, de la régularité de sa situation au regard des obligations de formation initiale minimale ou de formation continue de sécurité par la présentation du document correspondant, sur leur demande, aux fonctionnaires chargés du contrôle des transports terrestres et, d'une manière générale, aux fonctionnaires ou agents de l'Etat habilités à effectuer, sur route, le contrôle des conditions de travail dans les transports routiers. Il appartient à l'employeur de remettre au conducteur, à cette fin, les documents nécessaires.

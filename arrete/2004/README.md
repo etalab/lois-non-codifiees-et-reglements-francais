@@ -628,6 +628,7 @@
 - [Arrêté du 22 mars 2004 (DEFP0400317A)](arrete-du-22-mars-2004-defp0400317a)
 - [Arrêté du 22 mars 2004 (INTE0400222A)](arrete-du-22-mars-2004-inte0400222a)
 - [Arrêté du 22 mars 2004 (SOCF0410577A)](arrete-du-22-mars-2004-socf0410577a)
+- [Arrêté du 22 octobre 2004 (INDI0403645A)](arrete-du-22-octobre-2004-indi0403645a)
 - [Arrêté du 22 septembre 2003 (ECOC0200148A)](arrete-du-22-septembre-2003-ecoc0200148a)
 - [Arrêté du 22 septembre 2004 (EQUP0400875A)](arrete-du-22-septembre-2004-equp0400875a)
 - [Arrêté du 22 septembre 2004 (MENS0402086A)](arrete-du-22-septembre-2004-mens0402086a)
