@@ -27,7 +27,6 @@
 - [Arrêté du 2 novembre 1988 (INTD8800424A)](arrete-du-2-novembre-1988-intd8800424a)
 - [Arrêté du 2 mai 1988 (AGRS8800845A)](arrete-du-2-mai-1988-agrs8800845a)
 - [Arrêté du 2 mai 1988 (ASES8800597A)](arrete-du-2-mai-1988-ases8800597a)
-- [Arrêté du 2 mai 1988 (ECOZ8800012A)](arrete-du-2-mai-1988-ecoz8800012a)
 - [Arrêté du 2 mai 1988 (MDSC8800197A)](arrete-du-2-mai-1988-mdsc8800197a)
 - [Arrêté du 2 mai 1988 (MERG8800077A)](arrete-du-2-mai-1988-merg8800077a)
 - [Arrêté du 3 août 1988 (COMA8800029A)](arrete-du-3-aout-1988-coma8800029a)

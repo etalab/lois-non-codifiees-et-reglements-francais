@@ -126,7 +126,6 @@
 - [Décret n°98-341 du 6 mai 1998 (EQUP9800002D)](decret-n98-341-du-6-mai-1998-equp9800002d)
 - [Décret n°98-342 du 6 mai 1998 (MESG9820732D)](decret-n98-342-du-6-mai-1998-mesg9820732d)
 - [Décret n°98-343 du 6 mai 1998 (MESG9820731D)](decret-n98-343-du-6-mai-1998-mesg9820731d)
-- [Décret n°98-344 du 6 mai 1998 (MESG9820733D)](decret-n98-344-du-6-mai-1998-mesg9820733d)
 - [Décret n°98-345 du 6 mai 1998 (MAEA9720469D)](decret-n98-345-du-6-mai-1998-maea9720469d)
 - [Décret n°98-346 du 6 mai 1998 (ECOP9800090D)](decret-n98-346-du-6-mai-1998-ecop9800090d)
 - [Décret n°98-348 du 6 mai 1998 (MCCT9800114D)](decret-n98-348-du-6-mai-1998-mcct9800114d)
