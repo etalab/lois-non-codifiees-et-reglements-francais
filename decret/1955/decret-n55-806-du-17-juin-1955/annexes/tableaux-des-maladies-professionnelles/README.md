@@ -10,7 +10,6 @@
 - [30° Rage professionnelle](30-rage-professionnelle)
 - [33° Hépatites virales professionnelles](33-hepatites-virales-professionnelles)
 - [4° Charbon professionnel](4-charbon-professionnel)
-- [44° Lésions eczématiformes de mécanisme allergique.](44-lesions-eczematiformes-de-mecanisme-allergique)
 - [45° Affections respiratoires professionnelles de mécanisme allergique](45-affections-respiratoires-professionnelles-de-mecanisme-allergique)
 - [50. Pasteurelloses](50-pasteurelloses)
 - [51. Rouget du porc (Erysipéloïde de Baker-Rosenbach)](51-rouget-du-porc-erysipeloide-de-baker-rosenbach)

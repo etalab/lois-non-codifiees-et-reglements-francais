@@ -905,7 +905,6 @@
 - [Arrêté du 20 décembre 1994 (AGRG9402323A)](arrete-du-20-decembre-1994-agrg9402323a)
 - [Arrêté du 20 décembre 1994 (EQUT9402122A)](arrete-du-20-decembre-1994-equt9402122a)
 - [Arrêté du 20 décembre 1994 (INDB9500057A)](arrete-du-20-decembre-1994-indb9500057a)
-- [Arrêté du 20 décembre 1994 (INDD9401306A)](arrete-du-20-decembre-1994-indd9401306a)
 - [Arrêté du 20 décembre 1995 (TASG9523551A)](arrete-du-20-decembre-1995-tasg9523551a)
 - [Arrêté du 20 décembre 1995 (TAST9511364A)](arrete-du-20-decembre-1995-tast9511364a)
 - [Arrêté du 20 février 1995 (BUDZ9500002A)](arrete-du-20-fevrier-1995-budz9500002a)
