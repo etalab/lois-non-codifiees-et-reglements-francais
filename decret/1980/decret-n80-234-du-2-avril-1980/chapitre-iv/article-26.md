@@ -8,6 +8,8 @@ b) Une plaidoirie, d'une durée de quinze minutes environ, après une préparati
 
 d) Une discussion de vingt minutes environ avec le jury à partir d'un rapport établi par le candidat à la suite des stages accomplis et préalablement remis au jury.
 
+e) Une interrogation orale portant au choix du candidat sur l'une des langues vivantes étrangères enseignées dans le centre.
+
 L'épreuve écrite est organisée de manière d'assurer l'anonymat des candidats. Les sujets sont choisis par le jury. Les épreuves orales sont publiques.
 
 Les modalités de l'examen sont fixées par arrêté du garde des sceaux, ministre de la justice.

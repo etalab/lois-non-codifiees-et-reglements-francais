@@ -21,3 +21,5 @@ Un nombre égal de suppléants sont désignés dans les mêmes conditions.
 Aucun membre du jury ne peut siéger plus de cinq années consécutives.
 
 Au cas où le nombre des candidats le justifie, plusieurs jurys peuvent être constitués. Ceux-ci peuvent alors comprendre seulement un professeur ou maître-assistant de droit des universités, un magistrat de l'ordre judiciaire et un avocat, désignés dans les conditions prévues ci-dessus.
+
+Le jury peut s'adjoindre des examinateurs spécialisés avec voix consultative.
