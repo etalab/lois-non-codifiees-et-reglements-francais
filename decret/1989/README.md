@@ -57,5 +57,6 @@
 - [Décret n°88-1211 du 30 décembre 1988 (BUDB8860061D)](decret-n88-1211-du-30-decembre-1988-budb8860061d)
 - [Décret n°88-1225 du 30 décembre 1988 (MERE8800031D)](decret-n88-1225-du-30-decembre-1988-mere8800031d)
 - [Décret n°88-1271 du 30 décembre 1988 (BUDB8840082D)](decret-n88-1271-du-30-decembre-1988-budb8840082d)
+- [Décret n°88-1274 du 30 décembre 1988 (AGRS8802274D)](decret-n88-1274-du-30-decembre-1988-agrs8802274d)
 - [Décret n°88-1276 du 30 décembre 1988 (SPSS8801763D)](decret-n88-1276-du-30-decembre-1988-spss8801763d)
 - [Décret n°89-197 du 30 mars 1989 (SPSS8900128D)](decret-n89-197-du-30-mars-1989-spss8900128d)
