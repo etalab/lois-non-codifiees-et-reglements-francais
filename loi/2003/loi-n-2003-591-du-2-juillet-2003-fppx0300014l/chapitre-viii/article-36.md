@@ -10,7 +10,7 @@ II. - Les projets d'ordonnance sont soumis pour avis :
 
 3° Lorsque leurs dispositions sont relatives à la Nouvelle-Calédonie, à l'institution compétente dans les conditions définies par la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ;
 
-4° Lorsque leurs dispositions sont relatives à la Polynésie française, à l'institution compétente dans les conditions définies par la loi organique n° 96-312 du 12 avril 1996 portant statut d'autonomie de la Polynésie française. Ils sont également soumis à l'assemblée de ce territoire ;
+4° Lorsque leurs dispositions sont relatives à la Polynésie française, à l'institution compétente dans les conditions définies par la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française. Ils sont également soumis à l'assemblée de ce territoire ;
 
 5° Lorsque leurs dispositions sont relatives à Saint-Pierre-et-Miquelon, au conseil général de Saint-Pierre-et-Miquelon dans les conditions prévues à l'article 28 de la loi n° 85-595 du 11 juin 1985 relative au statut de l'archipel de Saint-Pierre-et-Miquelon ;
 
