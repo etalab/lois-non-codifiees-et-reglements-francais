@@ -889,7 +889,6 @@
 - [Arrêté du 25 mars 1997 (EQUT9700464A)](arrete-du-25-mars-1997-equt9700464a)
 - [Arrêté du 25 novembre 1996 (DEFT9602220A)](arrete-du-25-novembre-1996-deft9602220a)
 - [Arrêté du 25 novembre 1997 (AGRH9702358A)](arrete-du-25-novembre-1997-agrh9702358a)
-- [Arrêté du 25 novembre 1997 (AGRP9701835A)](arrete-du-25-novembre-1997-agrp9701835a)
 - [Arrêté du 25 novembre 1997 (ECOP9700667A)](arrete-du-25-novembre-1997-ecop9700667a)
 - [Arrêté du 25 septembre 1997 (DEFP9701957A)](arrete-du-25-septembre-1997-defp9701957a)
 - [Arrêté du 25 septembre 1997 (EQUA9701522A)](arrete-du-25-septembre-1997-equa9701522a)
