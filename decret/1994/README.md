@@ -408,3 +408,5 @@
 - [Décret n°94-91 du 31 janvier 1994 (INDP9400061D)](decret-n94-91-du-31-janvier-1994-indp9400061d)
 - [Décret n°94-97 du 31 janvier 1994 (SPSS9303620D)](decret-n94-97-du-31-janvier-1994-spss9303620d)
 - [Décret n°95-364 du 31 mars 1995 (DEFP9501165D)](decret-n95-364-du-31-mars-1995-defp9501165d)
+- [Décret n°94-434 du 31 mai 1994 (MAEA9420230D)](decret-n94-434-du-31-mai-1994-maea9420230d)
+- [Décret n°94-435 du 31 mai 1994 (BUDF9400001D)](decret-n94-435-du-31-mai-1994-budf9400001d)
