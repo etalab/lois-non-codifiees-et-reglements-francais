@@ -2,3 +2,4 @@
 
 - [TITRE Ier : Dispositions relatives à la procédure d'expropriation des biens exposés à certains risques naturels majeurs.](titre-ier)
 - [TITRE II : Dispositions relatives au fonds de prévention des risques naturels majeurs.](titre-ii)
+- [Article 15](article-15.md)
