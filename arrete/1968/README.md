@@ -11,4 +11,5 @@
 - [Arrêté du 12 février 1968](arrete-du-12-fevrier-1968)
 - [Arrêté du 18 novembre 1968](arrete-du-18-novembre-1968)
 - [Arrêté du 19 janvier 1968](arrete-du-19-janvier-1968)
+- [Arrêté du 23 février 1968](arrete-du-23-fevrier-1968)
 - [Arrêté du 24 novembre 1967](arrete-du-24-novembre-1967)
