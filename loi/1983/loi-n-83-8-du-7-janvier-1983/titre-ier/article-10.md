@@ -1,0 +1,3 @@
+# Article 10
+
+Les services de l'Etat dans les régions et les départements autres que ceux mentionnés à l'article 7 ci-dessus et qui sont nécessaires à l'exercice des compétences transférées aux communes, aux départements et aux régions, sont mis à la disposition, en tant que de besoin, de la collectivité territoriale concernée, dans les conditions prévues aux articles 27 et 74 de la loi n° 82-213 du 2 mars 1982 précitée. Il en est de même, jusqu'à la conclusion de la convention prévue à l'article 8 de la présente loi, des services de l'Etat qui doivent être transférés au département ou à la région.

@@ -1,0 +1,3 @@
+# Article 33
+
+Pour l'application de la présente loi, tout ou partie des attributions exercées actuellement par les missions interministérielles d'aménagement touristique sont transférées, à leur demande, soit aux régions concernées, soit au groupement constitué à cet effet par celles-ci et les collectivités locales territorialement intéressées. Ces transferts ont lieu à compter du début de l'année civile suivant celle de la publication de la présente loi. Les personnes publiques intéressées doivent faire connaître aux représentants de l'Etat avant le 1er octobre les attributions dont elles demandent le transfert. Une convention conclue entre l'Etat et les personnes publiques intéressées précise les modalités de ce transfert.

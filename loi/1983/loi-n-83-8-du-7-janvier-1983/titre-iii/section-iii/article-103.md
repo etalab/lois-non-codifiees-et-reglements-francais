@@ -1,0 +1,19 @@
+# Article 103
+
+La dotation globale d'équipement des communes comprend deux parts dont les montants respectifs sont déterminés chaque année par décret, pris après avis du comité des finances locales.
+
+La première part est répartie, dans les départements métropolitains, entre les communes de plus de 2000 habitants, les communes et groupements de communes dont la population n'excède pas 2000 habitants éligibles au concours particulier institué par l'article L. 234-13 du code des communes, qui ont exercé l'option en faveur de la première part en application du septième alinéa du présent article, les syndicats intercommunaux, les communautés urbaines, les districts et les autres groupements de communes de plus de 2000 habitants, à l'exception des communes et groupements de communes dont la population est comprise entre 2001 et 10000 habitants qui ont exercé l'option en faveur de la seconde part en application du septième alinéa du présent article.
+
+Dans les départements d'outre-mer, la première part est répartie entre les communes et groupements de communes de plus de 7500 habitants, à l'exception des communes et groupements dont la population est comprise entre 7501 et 35000 habitants qui ont exercé l'option prévue au septième alinéa du présent article.
+
+La seconde part est répartie dans les départements métropolitains entre les communes et groupements de communes dont la population n'excède pas 2000 habitants ainsi que les communes et groupements de communes dont la population est comprise entre 20001 et 10000 habitants, qui ont exercé l'option prévue au septième alinéa du présent article, à l'exception des communes et des groupements de communes de moins de 2000 habitants bénéficiant du concours particulier institué par l'article L. 234-13 du code des communes et qui ont opté en faveur de la première part en application du septième alinéa du présent article.
+
+Dans les départements d'outre-mer, la seconde part est répartie entre les communes et groupements de communes dont la population n'excède pas 7500 habitants ainsi que les communes et groupements de communes dont la population est comprise entre 7501 et 35000 habitants, qui ont exercé l'option prévue au septième alinéa du présent article.
+
+Les communes de la collectivité territoriale de Saint-Pierre-et-Miquelon bénéficient de la seconde part de la dotation globale d'équipement mentionnée ci-dessus.
+
+Dans le délai de trois mois suivant chaque renouvellement général des conseils municipaux, les communes et groupements de communes dont la population est comprise entre 2001 et 10000 habitants dans les départements métropolitains et entre 7500 et 35000 habitants dans les départements d'outre-mer peuvent renoncer au bénéfice des attributions de la première part de la dotation globale d'équipement des communes, pour bénéficier des subventions versées au titre de la seconde part. Dans les mêmes conditions, les communes et groupements de communes dont la population n'excède pas 2000 habitants, éligibles au concours particulier institué par l'article L. 234-13 du code des communes, peuvent renoncer au bénéfice des subventions versées au titre de la seconde part pour bénéficier des attributions de la première part de la dotation globale d'équipement des communes. Cette décision prend effet au 1er janvier [*date*] de l'année suivante. Elle ne peut être remise en cause que dans le délai de trois mois suivant chaque renouvellement général des conseils municipaux, par une nouvelle décision prenant effet au 1er janvier de l'année suivante.
+
+Dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, l'ensemble des communes et groupements de communes bénéficient des attributions de la première part. Les dispositions de l'alinéa précédent ne leur sont pas applicables.
+
+Les syndicats et la commune mentionnés au premier alinéa de l'article 103-6 ne sont pas compris dans la répartition prévue par le présent article.

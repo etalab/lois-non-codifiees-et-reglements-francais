@@ -1,0 +1,9 @@
+# Article 67
+
+A l'expiration d'un détachement de courte durée, le fonctionnaire est obligatoirement réintégré dans son corps ou cadre d'emplois et réaffecté dans l'emploi qu'il occupait antérieurement.
+
+A l'expiration d'un détachement de longue durée, le fonctionnaire est réintégré dans son corps ou cadre d'emplois et réaffecté à la première vacance ou création d'emploi dans un emploi correspondant à son grade relevant de sa collectivité ou de son établissement d'origine. Lorsqu'il refuse cet emploi, il ne peut être nommé à l'emploi auquel il peut prétendre ou à un emploi équivalent que lorsqu'une vacance est ouverte ou un poste créé. Il est, en attendant, placé en position de disponibilité d'office.
+
+Lorsqu'aucun emploi n'est vacant, le fonctionnaire de catégorie A est pris en charge par le Centre national de la fonction publique territoriale et le fonctionnaire de catégories B, sous réserve des dispositions du quatrième alinéa de l'article 12 bis, C ou D par le centre de gestion dans le ressort duquel se trouve la collectivité ou l'établissement qui l'employait antérieurement à son détachement. La prise en charge est assurée dans les conditions prévues aux articles 97 et 97 bis. Le fonctionnaire a priorité pour être affecté dans un emploi correspondant à son grade de la collectivité ou de l'établissement d'origine.
+
+Le fonctionnaire détaché qui est remis à la disposition de sa collectivité ou de son établissement d'origine avant l'expiration normale de la période de détachement pour une cause autre qu'une faute commise dans l'exercice de ses fonctions et qui ne peut être réintégré dans son corps ou cadre d'emplois d'origine faute d'emploi vacant continue d'être rémunéré par l'organisme de détachement au plus tard jusqu'à la date à laquelle le détachement devait prendre fin. Lorsque l'intéressé était détaché auprès d'une personne physique et ne peut être réintégré, il est placé en position de disponibilité jusqu'à cette date. "

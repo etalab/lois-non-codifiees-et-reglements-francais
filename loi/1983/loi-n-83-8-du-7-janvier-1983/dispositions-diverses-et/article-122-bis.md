@@ -1,0 +1,5 @@
+# Article 122 bis
+
+En 1983, les sommes que les départements recevront, d'une part, au titre de la part de la dotation globale d'équipement répartie au prorata de leurs dépenses réelles directes d'investissements, éventuellement majorée en fonction de l'insuffisance de potentiel fiscal, d'autre part, au titre des crédits de paiement correspondant aux opérations engagées avant le 1er janvier 1983, ne pourront excéder de plus de 30 p. 100 le montant moyen des concours de l'Etat qu'ils ont reçus au titre des crédits désormais inclus dans la dotation globale d'équipement au cours des années 1980, 1981 et 1982.
+
+L'excédent ainsi dégagé sert à majorer les attributions de dotation globale d'équipement versées au prorata des dépenses directes d'investissement augmentées des crédits de paiement correspondant aux opérations engagées avant le 1er janvier 1983 lorsque celles-ci sont inférieures au montant moyen des concours de l'Etat qu'ils ont reçus au cours des exercices 1980, 1981 et 1982, au titre des crédits désormais inclus dans la dotation globale d'équipement.

@@ -1,0 +1,7 @@
+# Article 2
+
+A compter du 1er janvier 1986, l'Etat, les départements et les régions prennent en charge les dépenses de personnel qui correspondent aux emplois ayant fait l'objet du partage prévu par les articles 26 et 73 de la loi n° 82-213 du 2 mars 1982 relative aux droits et libertés des communes, des départements et des régions et l'article 22 de la présente loi ainsi que les dépenses de personnel qui, ne se rattachant pas à un de ces emplois, sont relatives aux agents mis à disposition de plein droit conformément aux dispositions de l'article 125 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.
+
+Cette prise en charge s'effectue au fur et à mesure qu'il est fait droit aux demandes d'option prévues à l'article 122 de la loi n° 84-53 du 26 janvier 1984 précitée ou que sont constatées les vacances des emplois. Elle porte sur l'ensemble des dépenses antérieurement supportées par la collectivité dont relevaient statutairement les agents concernés y compris les compléments de rémunération versés sous quelque forme que ce soit mentionnés par l'article 111 de cette même loi.
+
+Font également l'objet d'une prise en charge par l'Etat, au 1er janvier 1986, les compléments de rémunération versés sous quelque forme que ce soit aux agents de l'Etat en application des dispositions des articles 30 et 77 de la loi n° 82-213 du 2 mars 1982 précitée.
