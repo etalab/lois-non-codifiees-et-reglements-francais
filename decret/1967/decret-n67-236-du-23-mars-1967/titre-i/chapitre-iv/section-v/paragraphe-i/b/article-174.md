@@ -1,5 +1,3 @@
 # Article 174
 
-En cas de fusion de la société émettrice, les bases de conversion des obligations en actions de la société absorbante ou nouvelle, déterminées conformément aux dispositions de l'article 197, alinéa 2, de la loi sur les sociétés commerciales, doivent permettre aux obligataires optant pour la conversion de recevoir des actions de la société absorbante, en nombre correspondant à celui des actions de la société émettrice qu'ils auraient obtenues. Il est tenu compte, le cas échéant, des augmentations de capital réalisées par la société émettrice avant la fusion et par la société absorbante après la fusion.
-
-la société absorbante ou nouvelle assume en outre les obligations incombant à la société émettrice en application des articles 171, 172, 173 et 174-1 à 174-7.
+Lorsqu'il existe des obligations convertibles ou des bons de souscription, la société qui procède à la distribution de réserves en espèces ou en titres du portefeuille doit virer à un compte de réserve indisponible la somme et, le cas échéant, conserver les titres nécessaires pour remettre aux obligataires et aux porteurs de bons qui exerceraient leur droit ultérieurement la somme ou les titres qu'ils auraient reçus s'ils avaient été actionnaires au moment de la distribution.

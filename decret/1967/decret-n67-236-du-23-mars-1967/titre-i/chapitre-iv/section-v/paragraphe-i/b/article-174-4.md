@@ -1,3 +1,5 @@
 # Article 174-4
 
-Le contrat d'émission peut prévoir qu'il ne sera procédé à un ajustement des bases de conversion qu'en cas soit d'émissions d'actions de numéraire, soit d'émission d'actions gratuites créées par incorporation de réserves, bénéfices ou primes d'émission, soit d'émission d'obligations convertibles ou échangeables, soit de plusieurs de ces catégories d'émissions. Dans cette hypothèse, lorsque la société procède à une autre des opérations visées à l'article 196 (alinéa 1er) de la loi sur les sociétés commerciales, les articles 171 ou 172, selon le cas, sont applicables.
+Les augmentations de capital rendues nécessaires par les conversions ou les levées d'option possibles à tout moment ne donnent pas lieu à la publicité prévue à l'article 156. Sauf dans le cas prévu à l'article 190, deuxième alinéa, de la loi sur les sociétés commerciales, les bulletins de souscription sont établis selon les modalités de l'article 163, à l'exception des mentions prévues aux 7°, 8° et 12°. Les articles 164 à 168 ne sont pas applicables aux augmentations de capital réalisées par conversion d'obligations convertibles à tout moment.
+
+La publication prévue à l'article 287 intervient dans le délai d'un mois.
