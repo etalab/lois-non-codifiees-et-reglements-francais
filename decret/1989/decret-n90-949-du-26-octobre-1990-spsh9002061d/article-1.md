@@ -6,6 +6,6 @@ Ce corps est classé en catégorie A.
 
 Il comprend :
 
-a) Le grade de directeur d'école préparant au diplôme d'Etat de sage-femme qui compte six échelons ;
+a) Le grade de directeur d'école préparant au diplôme d'Etat de sage-femme qui compte sept échelons ;
 
-b) Le grade de directeur d'école préparant au certificat cadre sage-femme qui compte cinq échelons.
+b) Le grade de directeur d'école préparant au certificat cadre sage-femme qui compte six échelons.

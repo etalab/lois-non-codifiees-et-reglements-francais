@@ -1,5 +1,117 @@
 # Article 14
 
-Les directeurs des écoles de sages-femmes des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée sont reclassés dans le corps des directeurs d'école de sages-femmes au grade de directeur d'école préparant au diplôme d'Etat de sage-femme à équivalence d'échelon avec conservation de l'ancienneté acquise dans l'échelon.
+A compter du 1er janvier 2002, les directeurs d'école préparant au diplôme d'Etat de sage-femme sont reclassés dans le grade de directeur d'école préparant au diplôme d'Etat de sage-femme, selon le tableau de correspondance ci-après :
 
-Toutefois, les fonctionnaires nommés dans le grade des directeurs des écoles de sages-femmes avant le 1er janvier 1989 peuvent renoncer à la date d'effet de leur nomination en cette qualité pour y voir substituée la date du 1er janvier 1989 si l'application à cette dernière date des articles 19 et 21 du décret du 1er septembre 1989 susvisé leur confère une amélioration de carrière. L'ancienneté détenue dans le grade de directeur des écoles de sages-femmes continue cependant à être décomptée à partir de la date à laquelle les intéressés ont initialement accédé à ce grade.
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="center">SITUATION ANTÉRIEURE <br/>
+<br/>Directeur d'école préparant au diplôme d'Etat de sage-femme</p>
+</td>
+<td align="left" colspan="2" valign="middle">
+<p align="center">SITUATION NOUVELLE <br/>
+<br/>Directeur d'école préparant au diplôme d'Etat de sage-femme</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<p align="center">Echelons</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté conservée dans la limite de la durée moyenne de l'échelon</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">6e échelon avec 12 ans d'ancienneté et plus</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">7e </p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">6e échelon : de 6 ans à moins de 12 ans d'ancienneté</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">6e </p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">1/3 de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">6e échelon : moins de 6 ans d'ancienneté</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">5e</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">1/3 de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4e </p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">¾ de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3e </p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">2/3 de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2e </p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">2/3 de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1er </p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">½ de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Echelon provisoire</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">½ de l'ancienneté acquise</p>
+</td>
+</tr>
+</tbody>
+</table>
