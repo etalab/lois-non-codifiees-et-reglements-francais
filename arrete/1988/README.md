@@ -256,7 +256,6 @@
 - [Arrêté du 12 avril 1988 (STFG8800547A)](arrete-du-12-avril-1988-stfg8800547a)
 - [Arrêté du 12 décembre 1988 (AGRS8802133A)](arrete-du-12-decembre-1988-agrs8802133a)
 - [Arrêté du 12 décembre 1988 (SPSS8801807A)](arrete-du-12-decembre-1988-spss8801807a)
-- [Arrêté du 12 février 1988 (ASEP8800245A)](arrete-du-12-fevrier-1988-asep8800245a)
 - [Arrêté du 12 février 1988 (BUDR8803027A)](arrete-du-12-fevrier-1988-budr8803027a)
 - [Arrêté du 12 février 1988 (MCLB8800105A)](arrete-du-12-fevrier-1988-mclb8800105a)
 - [Arrêté du 12 janvier 1988 (ASEE8803009A)](arrete-du-12-janvier-1988-asee8803009a)
