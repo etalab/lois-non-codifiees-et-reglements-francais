@@ -6,4 +6,4 @@ Si les nouvelles dispositions des statuts ne sont pas conformes aux dispositions
 
 En cas d'agrément, le conseil régional de l'ordre statue dans les conditions prévues à l'article 4 du présent décret.
 
-La publication des modifications [*formalités de publicité*] est faites ainsi qu'il est prévu aux articles 33 et suivants du décret n° 67-237 du 23 mars 1967 modifié [*registre du commerce et des sociétés*].
+La publication des modifications [*formalités de publicité*] est faite ainsi qu'il est prévu aux articles 22 et 74 du décret n° 84-406 du 30 mai 1984 relatif au registre du commerce et des sociétés.
