@@ -4,6 +4,6 @@ Dans la limite des crédits ouverts au budget des services du Premier ministre a
 
 - au vice-président ;
 
-- au rapporteur général ;
+- au rapporteur général et au rapporteur général adjoint ;
 
 - aux rapporteurs particuliers ainsi qu'aux personnalités qualifiées.

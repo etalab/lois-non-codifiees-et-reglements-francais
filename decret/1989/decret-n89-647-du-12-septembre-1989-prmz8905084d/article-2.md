@@ -39,3 +39,5 @@ Des membres siégeant en fonction de l'objet du code examiné :
 - le ou les directeurs d'administration centrale concernés par le code examiné ;
 
 Un rapporteur général.
+
+Un rapporteur général adjoint.
