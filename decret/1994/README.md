@@ -2,6 +2,7 @@
 
 - [Décret n°94-1038 du 1 décembre 1994 (BUDF9420688D)](decret-n94-1038-du-1-decembre-1994-budf9420688d)
 - [Décret n°94-1039 du 1 décembre 1994 (BUDF9420689D)](decret-n94-1039-du-1-decembre-1994-budf9420689d)
+- [Décret n°94-1051 du 1 décembre 1994 (MJSK9470135D)](decret-n94-1051-du-1-decembre-1994-mjsk9470135d)
 - [Décret n°94-109 du 1 février 1994 (DEFP9302143D)](decret-n94-109-du-1-fevrier-1994-defp9302143d)
 - [Décret n°94-113 du 1 février 1994 (MAEJ9430002D)](decret-n94-113-du-1-fevrier-1994-maej9430002d)
 - [Décret n°94-181 du 1 mars 1994 (TEFT9400092D)](decret-n94-181-du-1-mars-1994-teft9400092d)
@@ -35,6 +36,7 @@
 - [Décret n°94-1030 du 2 décembre 1994 (SPSP9403145D)](decret-n94-1030-du-2-decembre-1994-spsp9403145d)
 - [Décret n°94-1031 du 2 décembre 1994 (SPSS9403199D)](decret-n94-1031-du-2-decembre-1994-spss9403199d)
 - [Décret n°94-1044 du 2 décembre 1994 (RESM9401475D)](decret-n94-1044-du-2-decembre-1994-resm9401475d)
+- [Décret n°94-1049 du 2 décembre 1994 (SPSP9402546D)](decret-n94-1049-du-2-decembre-1994-spsp9402546d)
 - [Décret n°94-439 du 2 juin 1994 (TEFF9400417D)](decret-n94-439-du-2-juin-1994-teff9400417d)
 - [Décret n°94-453 du 2 juin 1994 (JUSA9400156D)](decret-n94-453-du-2-juin-1994-jusa9400156d)
 - [Décret n°94-663 du 2 août 1994 (JUSC9420545D)](decret-n94-663-du-2-aout-1994-jusc9420545d)
@@ -115,6 +117,7 @@
 - [Décret n°94-10 du 5 janvier 1994 (DEFP9302165D)](decret-n94-10-du-5-janvier-1994-defp9302165d)
 - [Décret n°94-1042 du 5 décembre 1994 (INDF9401157D)](decret-n94-1042-du-5-decembre-1994-indf9401157d)
 - [Décret n°94-1045 du 5 décembre 1994 (SPSS9403652D)](decret-n94-1045-du-5-decembre-1994-spss9403652d)
+- [Décret n°94-1050 du 5 décembre 1994 (SPSH9403474D)](decret-n94-1050-du-5-decembre-1994-spsh9403474d)
 - [Décret n°94-108 du 5 février 1994 (PRMX9300205D)](decret-n94-108-du-5-fevrier-1994-prmx9300205d)
 - [Décret n°94-11 du 5 janvier 1994 (ACVP9320066D)](decret-n94-11-du-5-janvier-1994-acvp9320066d)
 - [Décret n°94-111 du 5 février 1994 (MCCX9300215D)](decret-n94-111-du-5-fevrier-1994-mccx9300215d)
