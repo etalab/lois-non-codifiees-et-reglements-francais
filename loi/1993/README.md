@@ -6,6 +6,7 @@
 - [Loi n° 92-1444 du 31 décembre 1992 (ENVX9200186L)](loi-n-92-1444-du-31-decembre-1992-envx9200186l)
 - [Loi n° 92-1476 du 31 décembre 1992 (BUDX9200212L)](loi-n-92-1476-du-31-decembre-1992-budx9200212l)
 - [Loi n° 92-1477 du 31 décembre 1992 (EURX9200209L)](loi-n-92-1477-du-31-decembre-1992-eurx9200209l)
+- [Loi n° 92-614 du 6 juillet 1992 (JUSX9100125L)](loi-n-92-614-du-6-juillet-1992-jusx9100125l)
 - [Loi n° 92-677 du 17 juillet 1992 (BUDX9200078L)](loi-n-92-677-du-17-juillet-1992-budx9200078l)
 - [Loi n° 93-1 du 4 janvier 1993 (DOMX9200114L)](loi-n-93-1-du-4-janvier-1993-domx9200114l)
 - [Loi n° 93-1013 du 24 août 1993 (JUSX9300540L)](loi-n-93-1013-du-24-aout-1993-jusx9300540l)

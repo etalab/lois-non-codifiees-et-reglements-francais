@@ -1,6 +1,5 @@
 # Titre I : L'organisation des activités physiques et sportives
 
-- [Chapitre I : L'éducation physique et sportive.](chapitre-i)
 - [Chapitre II : Les associations et les sociétés sportives.](chapitre-ii)
 - [Chapitre III : Les fédérations sportives.](chapitre-iii)
 - [Chapitre III bis : Le rôle des collectivités territoriales.](chapitre-iii-bis)

@@ -1,3 +1,0 @@
-# Article 43-1
-
-Le ministre chargé des sports peut, de façon dérogatoire, délivrer à titre temporaire ou définitif à des personnes de nationalité française ou à des ressortissants des Etats membres de la Communauté européenne particulièrement qualifiés et qui ont manifesté leur aptitude aux fonctions postulées des autorisations spécifiques d'exercer les professions et de prendre les titres déterminés en application du premier alinéa de l'article 43. Cette autorisation est délivrée après avis d'une commission composée pour moitié de représentants de l'Etat et pour moitié de représentants des personnels mentionnés à l'article 43 et de leurs employeurs ainsi que de personnes qualifiées.

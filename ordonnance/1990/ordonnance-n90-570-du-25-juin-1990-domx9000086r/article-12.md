@@ -1,3 +1,0 @@
-# Article 12
-
-Le Premier ministre, le ministre d'Etat, ministre de l'économie, des finances et du budget, le garde des sceaux, ministre de la justice, le ministre des départements et territoires d'outre-mer, porte-parole du Gouvernement, le ministre de la solidarité, de la santé et de la protection sociale, le ministre délégué auprès du ministre d'Etat, ministre de l'économie, des finances et du budget, chargé du budget, le secrétaire d'Etat chargé des droits des femmes et le secrétaire d'Etat auprès du ministre de la solidarité, de la santé et de la protection sociale, chargé de la famille, sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.

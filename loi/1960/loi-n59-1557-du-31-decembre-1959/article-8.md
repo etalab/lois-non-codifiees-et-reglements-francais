@@ -1,3 +1,0 @@
-# Article 8
-
-La loi n° 51-1140 du 28 septembre 1951 cessera d'avoir effet trois ans après la date de promulgation de la présente loi. Toutefois, après avis du comité national de conciliation, et compte tenu du nombre des établissements qui auront à cette date souscrit à l'un des deux types de contrat prévus ci-dessus, le Gouvernement pourra prolonger l'application de cette loi pour une durée supplémentaire n'excédant pas trois ans. Un décret déterminera les conditions d'attribution de l'allocation scolaire versée au titre des enfants fréquentant les classes placées sous contrat en vertu des articles 4 et 5 ci-dessus.

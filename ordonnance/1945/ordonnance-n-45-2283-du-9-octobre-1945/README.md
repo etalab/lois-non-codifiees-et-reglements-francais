@@ -1,6 +1,5 @@
 # Ordonnance n° 45-2283 du 9 octobre 1945 relative à la formation, au recrutement et au statut de certaines catégories de fonctionnaires et instituant une direction de la fonction publique et un conseil permanent de l'administration civile.
 
-- [Titre Ier : Des instituts d'études politiques.](titre-ier)
 - [Titre II : De l'école nationale d'administration.](titre-ii)
 - [Titre III : Du centre de hautes études administratives.](titre-iii)
 - [Titre IV : Du statut de certains fonctionnaires.](titre-iv)

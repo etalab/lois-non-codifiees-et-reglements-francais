@@ -1,7 +1,5 @@
 # Décret n°57-404 du 28 mars 1957 relatif à la police et à la surveillance des eaux minérales
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)

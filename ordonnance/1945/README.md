@@ -17,6 +17,7 @@
 - [Ordonnance n°45-918 du 5 mai 1945](ordonnance-n45-918-du-5-mai-1945)
 - [Ordonnance n°45-14 du 6 janvier 1945](ordonnance-n45-14-du-6-janvier-1945)
 - [Ordonnance n°45-1744 du 6 août 1945](ordonnance-n45-1744-du-6-aout-1945)
+- [Ordonnance n° 45-26 du 8 janvier 1945](ordonnance-n-45-26-du-8-janvier-1945)
 - [Ordonnance n° 45-2280 du 9 octobre 1945](ordonnance-n-45-2280-du-9-octobre-1945)
 - [Ordonnance n° 45-2283 du 9 octobre 1945](ordonnance-n-45-2283-du-9-octobre-1945)
 - [Ordonnance n°45-2088 du 11 septembre 1945](ordonnance-n45-2088-du-11-septembre-1945)

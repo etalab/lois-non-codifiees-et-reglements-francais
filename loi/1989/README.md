@@ -16,5 +16,5 @@
 - [Loi n° 89-936 du 29 décembre 1989 (ECOX8900116L)](loi-n-89-936-du-29-decembre-1989-ecox8900116l)
 - [Loi n°73-6 du 3 janvier 1973](loi-n73-6-du-3-janvier-1973)
 - [Loi n°86-14 du 6 janvier 1986](loi-n86-14-du-6-janvier-1986)
-- [Loi n°89-468 du 10 juillet 1989 (MCCX8800035L)](loi-n89-468-du-10-juillet-1989-mccx8800035l)
 - [Loi n°89-486 du 10 juillet 1989 (MENX8900049L)](loi-n89-486-du-10-juillet-1989-menx8900049l)
+- [Loi n°89-487 du 10 juillet 1989 (FAMX8900034L)](loi-n89-487-du-10-juillet-1989-famx8900034l)

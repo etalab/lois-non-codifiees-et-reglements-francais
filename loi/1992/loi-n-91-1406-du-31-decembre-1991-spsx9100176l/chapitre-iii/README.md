@@ -4,4 +4,3 @@
 - [Article 37](article-37.md)
 - [Article 41](article-41.md)
 - [Article 45](article-45.md)
-- [Article 47](article-47.md)

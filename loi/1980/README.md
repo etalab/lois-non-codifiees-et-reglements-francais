@@ -2,6 +2,7 @@
 
 - [Loi n° 68-678 du 26 juillet 1968](loi-n-68-678-du-26-juillet-1968)
 - [Loi n° 79-1150 du 29 décembre 1979](loi-n-79-1150-du-29-decembre-1979)
+- [Loi n° 79-1204 du 31 décembre 1979](loi-n-79-1204-du-31-decembre-1979)
 - [Loi n° 80-10 du 10 janvier 1980](loi-n-80-10-du-10-janvier-1980)
 - [Loi n° 80-3 du 4 janvier 1980](loi-n-80-3-du-4-janvier-1980)
 - [Loi n° 80-30 du 18 janvier 1980](loi-n-80-30-du-18-janvier-1980)

@@ -2,6 +2,5 @@
 
 - [Article 1](article-1.md)
 - [Titre Ier : Du séjour en France des étrangers.](titre-ier)
-- [Article 2](article-2.md)
 - [Titre II : De l'éloignement des étrangers.](titre-ii)
 - [Titre III : Dispositions diverses.](titre-iii)

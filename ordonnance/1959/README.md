@@ -12,7 +12,6 @@
 - [Ordonnance n° 59-28 du 5 janvier 1959](ordonnance-n-59-28-du-5-janvier-1959)
 - [Ordonnance n° 59-32 du 5 janvier 1959](ordonnance-n-59-32-du-5-janvier-1959)
 - [Ordonnance n° 59-44 du 6 janvier 1959](ordonnance-n-59-44-du-6-janvier-1959)
-- [Ordonnance n°59-45 du 6 janvier 1959](ordonnance-n59-45-du-6-janvier-1959)
 - [Ordonnance n°59-63 du 6 janvier 1959](ordonnance-n59-63-du-6-janvier-1959)
 - [Ordonnance n° 59-107 du 7 janvier 1959](ordonnance-n-59-107-du-7-janvier-1959)
 - [Ordonnance n° 59-115 du 7 janvier 1959](ordonnance-n-59-115-du-7-janvier-1959)

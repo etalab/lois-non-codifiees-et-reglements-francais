@@ -1,0 +1,3 @@
+# Article 10
+
+Sous réserve des décharges ou dégrèvements prononcés par décision de justice passée en force de chose jugée, les centimes additionnels à la contribution des patentes à l'impôt foncier sur les propriétés bâties et à la contribution des licences perçus par les communes de Polynésie française pour les années 1972 à 1994 sont validés en tant que leur légalité serait contestée par le moyen tiré de ce que l'autorité ayant pris l'arrêté n° 3005 BAC du 20 septembre 1972 fixant le maximum des centimes additionnels aux contributions locales perçus au profit des budgets communaux n'était pas compétente pour déterminer la nature des contributions locales auxquelles ces centimes additionnels s'appliquent.

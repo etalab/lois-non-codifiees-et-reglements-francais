@@ -9,5 +9,3 @@
 - [Loi n° 71-569 du 15 juillet 1971](loi-n-71-569-du-15-juillet-1971)
 - [Loi n° 71-584 du 16 juillet 1971](loi-n-71-584-du-16-juillet-1971)
 - [Loi n° 71-588 du 16 juillet 1971](loi-n-71-588-du-16-juillet-1971)
-- [Loi n°71-556 du 12 juillet 1971](loi-n71-556-du-12-juillet-1971)
-- [Loi n°71-577 du 16 juillet 1971](loi-n71-577-du-16-juillet-1971)

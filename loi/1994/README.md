@@ -104,7 +104,6 @@
 - [Loi n° 94-926 du 26 octobre 1994 (MAEX9400207L)](loi-n-94-926-du-26-octobre-1994-maex9400207l)
 - [Loi n° 94-99 du 5 février 1994 (DOMX9300179L)](loi-n-94-99-du-5-fevrier-1994-domx9300179l)
 - [Loi n°94-342 du 29 avril 1994 (JUSX9300203L)](loi-n94-342-du-29-avril-1994-jusx9300203l)
-- [Loi n°94-508 du 23 juin 1994 (INTX9200041L)](loi-n94-508-du-23-juin-1994-intx9200041l)
 - [Loi n°94-576 du 12 juillet 1994 (EQUX9300104L)](loi-n94-576-du-12-juillet-1994-equx9300104l)
 - [Loi n°94-589 du 15 juillet 1994 (DEFX9400020L)](loi-n94-589-du-15-juillet-1994-defx9400020l)
 - [Loi n°94-591 du 15 juillet 1994](loi-n94-591-du-15-juillet-1994)

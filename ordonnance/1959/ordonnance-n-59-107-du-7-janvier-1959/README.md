@@ -1,6 +1,5 @@
 # Ordonnance n° 59-107 du 7 janvier 1959 modifiant le code des mesures concernant les débits de boissons et la lutte contre l'alcoolisme
 
-- [Article 1](article-1.md)
 - [Article 5](article-5.md)
 - [Article 22](article-22.md)
 - [Article 23](article-23.md)

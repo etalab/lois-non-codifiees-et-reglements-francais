@@ -2,11 +2,13 @@
 
 - [Loi n° 85-1403 du 30 décembre 1985](loi-n-85-1403-du-30-decembre-1985)
 - [Loi n° 85-1406 du 30 décembre 1985](loi-n-85-1406-du-30-decembre-1985)
+- [Loi n° 85-1468 du 31 décembre 1985](loi-n-85-1468-du-31-decembre-1985)
 - [Loi n° 85-1470 du 31 décembre 1985](loi-n-85-1470-du-31-decembre-1985)
 - [Loi n° 85-677 du 5 juillet 1985](loi-n-85-677-du-5-juillet-1985)
 - [Loi n° 85-99 du 25 janvier 1985](loi-n-85-99-du-25-janvier-1985)
 - [Loi n° 86-1025 du 9 septembre 1986](loi-n-86-1025-du-9-septembre-1986)
 - [Loi n° 86-1067 du 30 septembre 1986](loi-n-86-1067-du-30-septembre-1986)
+- [Loi n° 86-11 du 6 janvier 1986](loi-n-86-11-du-6-janvier-1986)
 - [Loi n° 86-1197 du 24 novembre 1986](loi-n-86-1197-du-24-novembre-1986)
 - [Loi n° 86-1290 du 23 décembre 1986](loi-n-86-1290-du-23-decembre-1986)
 - [Loi n° 86-1304 du 23 décembre 1986](loi-n-86-1304-du-23-decembre-1986)
@@ -21,3 +23,4 @@
 - [Loi n° 86-845 du 17 juillet 1986](loi-n-86-845-du-17-juillet-1986)
 - [Loi n° 86-897 du 1 août 1986](loi-n-86-897-du-1-aout-1986)
 - [Loi n° 86-966 du 18 août 1986](loi-n-86-966-du-18-aout-1986)
+- [Loi n° 86-972 du 19 août 1986](loi-n-86-972-du-19-aout-1986)
