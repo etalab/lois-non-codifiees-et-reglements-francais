@@ -66,6 +66,7 @@
 - [Décret n°83-1067 du 8 décembre 1983](decret-n83-1067-du-8-decembre-1983)
 - [Décret n°83-1068 du 8 décembre 1983](decret-n83-1068-du-8-decembre-1983)
 - [Décret n°83-1069 du 8 décembre 1983](decret-n83-1069-du-8-decembre-1983)
+- [Décret n°83-1084 du 8 décembre 1983](decret-n83-1084-du-8-decembre-1983)
 - [Décret n°83-285 du 8 avril 1983](decret-n83-285-du-8-avril-1983)
 - [Décret n°83-287 du 8 avril 1983](decret-n83-287-du-8-avril-1983)
 - [Décret n°83-621 du 8 juillet 1983](decret-n83-621-du-8-juillet-1983)
