@@ -18,7 +18,7 @@ Arrêté préfectoral, par "arrêté du haut-commissaire".
 
 B - Dispositions particulières.
 
-1° Le jury d'examen prévu à l'article 7 du décret précité est constitué dans chaque territoire par arrêté du haut-commissaire et présidé par son représentant.
+1° Le jury d'examen prévu à l'article 6 et à l'article 12 du décret n° 91-834 du 30 août 1991 relatif à la formation aux premiers secours est constitué dans chaque territoire par arrêté du haut-commissaire et présidé par son représentant.
 
 La composition des jurys d'examens prévus aux articles 7 et 24 est déterminée également par arrêté du haut-commissaire, compte tenu de l'organisation administrative locale et des personnels disponibles.
 
@@ -30,6 +30,6 @@ En conséquence, les médecins du service territorial de santé ainsi que les fo
 
 4° Le haut-commissaire pourra, sur proposition de l'agent chargé de la protection civile, ajouter, par arrêté, une ou plusieurs spécialisations supplémentaires, localement justifiées, à la liste figurant à l'article 11 du décret précité.
 
-5° A l'article 19, il y a lieu de remplacer "arrêté du ministre de l'intérieur" par "arrêté du haut-commissaire".
+5° A l'article 1er du décret n° 91-834 du 30 août 1991 relatif à la formation aux premiers secours, il y a lieu de remplacer "arrêté du ministre de l'intérieur et du ministre chargé de la santé" par "arrêté du haut-commissaire".
 
 6° L'article 21 est remplacé comme suit : "La formation et le perfectionnement des moniteurs peuvent être assurés soit par les services d'Etat compétents, avec le concours des services de lutte contre le feu, soit par les associations et organismes publics territoriaux relevant du service de santé."
