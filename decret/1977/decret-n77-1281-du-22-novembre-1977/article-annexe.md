@@ -58,6 +58,8 @@ Les plans naturels ou artificiels ainsi que leur environnement seront traités a
 
 Les zones de marais, tourbières ou forêts seront laissées intactes.
 
+3.3. Les alinéas 3.1 et 3.2 ci-dessus ne sont pas applicables aux communes énumérées dans la liste annexée au décret n° 79-716 du 25 août 1979 relatif à la protection et à l'aménagement du littoral.
+
 4. Équipements, transports et réseaux divers
 
 Parmi les besoins en équipements restant encore à satisfaire, la priorité doit maintenant être donnée à la réalisation de ceux qui peuvent avoir un effet réel et rapide sur le maintien de la vie permanente et sur le développement des activités de production, plutôt qu'à la réalisation d'équipements considérables qui, entraînant des charges d'investissement et d'entretien élevées, sont souvent incompatibles avec les actions précitées.
