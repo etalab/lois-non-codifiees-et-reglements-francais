@@ -8,7 +8,7 @@ Il répartit les élèves entre les classes et les groupes, après avis du conse
 
 Il répartit les moyens d'enseignement.
 
-Après avis du conseil des maîtres, il arrête le service des instituteurs, fixe les modalités d'utilisation des locaux scolaires pendant les heures et périodes au cours desquelles ils sont utilisés pour les besoins de l'enseignement et de la formation.
+Après avis du conseil des maîtres, il arrête le service des instituteurs et professeurs des écoles, fixe les modalités d'utilisation des locaux scolaires pendant les heures et périodes au cours desquelles ils sont utilisés pour les besoins de l'enseignement et de la formation.
 
 Il organise le travail des personnels communaux en service à l'école qui, pendant leur service dans les locaux scolaires, sont placés sous son autorité.
 

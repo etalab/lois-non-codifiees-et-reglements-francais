@@ -1,7 +1,9 @@
 # Article 17
 
-Les concours internes donnant accès au deuxième grade des professeurs des écoles de rééducation professionnelle sont ouverts aux professeurs des écoles de rééducation professionnelle du premier grade justifiant d'un titre ou diplôme délivré par un établissement d'enseignement sanctionnant au moins deux années d'études après le baccalauréat ou d'un titre ou diplôme de l'enseignement technologique homologué au moins au niveau III en application de la loi du 16 juillet 1971 susvisée et ayant accompli au moins trois années de services effectifs d'enseignement à temps complet ou leur équivalent.
+Les concours internes donnant accès au deuxième grade des professeurs des écoles de rééducation professionnelle sont ouverts :
 
-Les candidats qui ne sont pas titulaires de l'un des titres ou diplômes mentionnés à l'alinéa précédent doivent justifier de cinq années de services effectifs d'enseignement à temps complet ou leur équivalent.
+1° Aux professeurs des écoles de rééducation professionnelle du premier grade justifiant de deux années de services publics ;
 
-Les services d'enseignement accomplis dans les conditions fixées aux 1° et 2° de l'article 74 de la loi du 11 janvier 1984 susvisée entrent en compte dans les services requis aux précédents alinéas.
+2° Aux élèves professeurs recrutés par le concours interne d'accès au cycle préparatoire prévu à l'article 20-2 du présent décret et ayant suivi le cycle préparatoire institué à l'article 20-1 ci-dessous ;
+
+3° Aux personnels enseignants non titulaires des établissements d'enseignement public justifiant de trois années de services publics et d'un diplôme d'études universitaires générales ou d'un titre ou diplôme de niveau égal ou supérieur sanctionnant un cycle d'études d'au moins deux années.

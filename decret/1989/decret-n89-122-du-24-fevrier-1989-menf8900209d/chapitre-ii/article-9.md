@@ -8,4 +8,4 @@ Les membres de la commission départementale sont nommés par l'inspecteur d'aca
 
 La commission formule ses avis après examen des dossiers et un entretien avec chacun des candidats.
 
-Les instituteurs qui ont déjà été inscrits sur la liste d'aptitude prévue à l'article 6 ci-dessus et qui se portent à nouveau candidats sont, pendant une durée de trois ans après l'année de la première inscription, dispensés de l'entretien prévu à l'alinéa ci-dessus.
+Les instituteurs et professeurs des écoles qui ont déjà été inscrits sur la liste d'aptitude prévue à l'article 6 ci-dessus et qui se portent à nouveau candidats sont, pendant une durée de trois ans après l'année de la première inscription, dispensés de l'entretien prévu à l'alinéa ci-dessus.

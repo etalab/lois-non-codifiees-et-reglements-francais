@@ -1,0 +1,7 @@
+# Article 2
+
+Les conseillers d'orientation-psychologues exercent leur activité sous l'autorité du directeur du centre d'information et d'orientation dont ils relèvent. Ils assurent l'information des élèves et de leurs familles. Ils contribuent à l'observation continue des élèves, ainsi qu'à la mise en oeuvre des conditions de leur réussite scolaire. Ils participent à l'élaboration ainsi qu'à la réalisation des projets scolaires, universitaires et professionnels des élèves et des étudiants en formation initiale afin de satisfaire au droit des intéressés au conseil et à l'information sur les enseignements et les professions. Outre cette mission prioritaire, ils participent à l'action du centre d'information et d'orientation en faveur des jeunes qui, à l'issue de la scolarité obligatoire, n'ont pas atteint le premier niveau de qualification reconnu et en faveur d'autres publics, notamment d'adultes.
+
+Les directeurs de centre d'information et d'orientation sont normalement chargés de la direction des centres d'information et d'orientation. Ils assument notamment la responsabilité du projet, du programme d'activité du centre d'information et d'orientation, de l'organisation et de la planification du travail et de l'ouverture du centre d'information et d'orientation vers l'extérieur et le monde du travail.
+
+Les personnels régis par le présent statut peuvent être affectés dans les divers services du ministère de l'éducation nationale, de la jeunesse et des sports et dans les établissements publics qui en relèvent.

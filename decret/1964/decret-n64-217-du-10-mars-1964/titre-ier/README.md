@@ -27,6 +27,7 @@
 - [Article 5-20](article-5-20.md)
 - [Article 5-21](article-5-21.md)
 - [Article 5-22](article-5-22.md)
+- [Article 5-23](article-5-23.md)
 - [Article 5-24](article-5-24.md)
 - [Article 5-25](article-5-25.md)
 - [Article 5-26](article-5-26.md)

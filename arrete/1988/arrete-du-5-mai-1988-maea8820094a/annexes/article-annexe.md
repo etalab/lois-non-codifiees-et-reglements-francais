@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-Temps de sejour
+Temps de séjour
 
 Une année scolaire
 
@@ -158,6 +158,8 @@ Pékin.
 
 Phnom-Penh.
 
+Port-au-Prince.
+
 Port-Louis.
 
 Port-Moresby.
@@ -171,8 +173,6 @@ Rangoun.
 Riyad.
 
 Saint-Vincent.
-
-San José.
 
 San Salvador.
 
@@ -236,8 +236,6 @@ Moscu.
 
 Port d'Espagne.
 
-Port-au-Prince.
-
 Pretoria.
 
 Quito.
@@ -251,6 +249,8 @@ Saint-Georges.
 Saint-Jean.
 
 Sainte-Hélène.
+
+San José.
 
 San-Juan.
 

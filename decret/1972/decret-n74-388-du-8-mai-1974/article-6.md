@@ -1,0 +1,5 @@
+# Article 6
+
+Peuvent être inscrits sur la liste d'aptitude aux emplois de directeur d'école comportant au moins trois classes spécialisées recevant des enfants ou adolescents déficients ou inadaptés, y compris les écoles de plein air, et de directeur d'école d'éducation spéciale ouverte dans les établissements ou organismes ayant passé un protocole d'accord avec le ministère de l'éducation nationale et accueillant des enfants inadaptés les instituteurs et professeurs des écoles titulaires du diplôme de directeur d'établissement d'éducation adaptée et spécialisée.
+
+Peuvent être inscrits sur cette liste d'aptitude les instituteurs et professeurs des écoles justifiant, à défaut du diplôme de directeur d'établissement d'éducation adaptée et spécialisée, de huit années de service en qualité d'instituteur, d'instituteur et de professeur des écoles ou de professeur des écoles dont cinq années d'enseignement spécial, et titulaires du certificat d'aptitude aux actions pédagogiques spécialisées d'adaptation et d'intégration scolaires, institué par le décret du 15 juin 1987 susvisé.

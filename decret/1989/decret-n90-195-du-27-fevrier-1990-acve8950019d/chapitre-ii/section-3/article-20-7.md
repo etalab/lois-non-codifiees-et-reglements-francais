@@ -1,0 +1,3 @@
+# Article 20-7
+
+Les élèves professeurs qui, au terme du cycle préparatoire, ne sont pas reçus aux concours prévus aux articles 16 et 17 ci-dessus et qui ne remplissent pas les conditions fixées par ces articles perdent leur qualité d'élève professeur ou, s'ils étaient déjà fonctionnaires, sont réintégrés dans leur corps, leur emploi ou leur cadre d'emploi d'origine. Le ministre chargé des anciens combattants peut les autoriser exceptionnellement, après avis du directeur général de l'Office national des anciens combattants et victimes de guerre à effectuer une seule année supplémentaire de préparation au concours.

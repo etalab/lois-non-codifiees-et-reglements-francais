@@ -1,0 +1,3 @@
+# Article 3
+
+Sous réserve de l'exercice du droit d'option ouvert à l'article 5 du décret n° 83-50 du 26 janvier 1983, les dispositions du décret du 7 septembre 1961 susvisé demeurent applicables, d'une part, en ce qui concerne les articles 4 et 6, aux instituteurs qui, à la date d'effet du présent décret, remplissent les conditions de service fixées à l'article 4 dudit décret du 7 septembre 1961, d'autre part, en ce qui concerne les articles 5 et 6, aux instituteurs qui, à la même date, exercent les fonctions de directeur d'école à classe unique ou ont été nommés dans les emplois de directeur d'école à deux classes ou plus.

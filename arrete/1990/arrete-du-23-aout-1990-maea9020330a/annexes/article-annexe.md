@@ -162,6 +162,8 @@ Pékin.
 
 Phnom-Penh.
 
+Port-au-Prince.
+
 Port-Louis.
 
 Port Moresby.
@@ -175,8 +177,6 @@ Rangoun.
 Riyad.
 
 Saint-Vincent.
-
-San Jose.
 
 San Salvador.
 
@@ -236,8 +236,6 @@ Moscou.
 
 Port d'Espagne.
 
-Port-au-Prince.
-
 Pretoria.
 
 Quito.
@@ -251,6 +249,8 @@ Saint-Georges.
 Saint-Jean.
 
 Sainte-Hélène.
+
+San José.
 
 San-Juan.
 

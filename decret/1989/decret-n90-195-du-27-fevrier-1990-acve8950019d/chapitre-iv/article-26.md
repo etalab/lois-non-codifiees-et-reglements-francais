@@ -1,7 +1,11 @@
 # Article 26
 
-Dans la limite du neuvième des emplois mis aux concours prévus aux articles 16 et 17 ci-dessus, peuvent être promus au deuxième grade les professeurs des écoles de rééducation professionnelle du premier grade exerçant dans les disciplines correspondantes âgés de quarante ans au moins, ayant atteint le septième échelon de leur grade et justifiant de dix années de services effectifs d'enseignement à temps complet ou leur équivalent.
+Dans la limite d'un contingent budgétaire d'emplois, peuvent être promus à la hors-classe de leur grade les professeurs des écoles de rééducation professionnelle du deuxième grade ayant atteint au moins le 7e échelon de la classe normale.
 
-Les intéressés sont inscrits, sur proposition du directeur général de l'Office national des anciens combattants et victimes de guerre, à un tableau d'avancement commun à toutes les disciplines arrêté pour chaque année scolaire par le ministre chargé des anciens combattants après avis de la commission administrative paritaire du corps des professeurs.
+Le ministre chargé des anciens combattants établit à cet effet, sur proposition du directeur général, pour chaque année scolaire, un tableau d'avancement commun à toutes les disciplines après avis de la commission administrative paritaire.
 
-Le nombre des inscriptions sur ce tableau d'avancement ne peut excéder de plus de 50 p. 100 le nombre des emplois budgétaires vacants.
+Les professeurs du deuxième grade nommés à la hors-classe de leur grade sont classés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans la classe normale.
+
+Lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans la classe normale, ils conservent l'ancienneté d'échelon acquise dans cette classe dans la limite de l'ancienneté exigée pour une promotion à l'échelon supérieur dans la hors-classe.
+
+Les professeurs du deuxième grade qui avaient atteint le onzième échelon de la classe normale conservent l'ancienneté acquise dans cet échelon dans la limite de l'ancienneté exigée pour une promotion à l'échelon supérieur dans la hors-classe.

@@ -1,0 +1,3 @@
+# Article 4
+
+Peuvent être inscrits sur la liste d'aptitude aux emplois de directeur d'école autonome de perfectionnement communale et départementale les instituteurs et les professeurs des écoles qui sont titulaires du diplôme de directeur d'établissement d'éducation adaptée et spécialisée ou, à défaut, du certificat d'aptitude aux actions pédagogiques spécialisées d'adaptation et d'intégration scolaires, institué par le décret du 15 juin 1987 susvisé, sous réserve de justifier de huit années de services en qualité d'instituteur, d'instituteur et de professeur des écoles, ou de professeur des écoles dont cinq années d'enseignement spécial.

@@ -1,5 +1,29 @@
 # Article 25
 
-Le ministre chargé des anciens combattants procède à l'avancement d'échelon des personnels détachés dans un autre établissement d'enseignement, dans les conditions prévues à l'article précédent.
+L'avancement d'échelon des professeurs des écoles de rééducation professionnelle de la hors-classe du deuxième grade prend effet du jour où les intéressés remplissent les conditions fixées par le tableau ci-dessous :
 
-Les fonctionnaires détachés dans le corps des professeurs des écoles de rééducation professionnelle concourent pour les avancements de grade et d'échelon avec les professeurs appartenant à ce corps.
+ÉCHELON
+
+DURÉE D'ÉCHELON
+
+Du 1er au 2e échelon
+
+2 ans 6 mois
+
+Du 2e  au 3e échelon
+
+2 ans 6 mois
+
+Du 3e  au 4e échelon
+
+2 ans 6 mois
+
+Du 4e  au 5e échelon
+
+2 ans 6 mois
+
+Du 5e  au 6e échelon
+
+4 ans 6 mois
+
+Le ministre chargé des anciens combattants prononce, pour chaque année scolaire, les promotions des professeurs des écoles de rééducation professionnelle et des enseignants visés à l'article 23 ci-dessus.
