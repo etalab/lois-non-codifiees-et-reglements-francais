@@ -1,6 +1,6 @@
 # Article 3
 
-Tout centre d'aide par le travail géré par une personne de droit privé doit, pour obtenir l'autorisation de fonctionner prévue par l'article 9 de la loi n. 75-535 du 30 juin 1975, passer une convention avec le représentant de l'Etat dans le département [*condition, autorité compétente*].
+Tout centre d'aide par le travail géré par une personne de droit privé doit, pour obtenir l'autorisation de fonctionner prévue par l'article 9 de la loi n. 75-535 du 30 juin 1975, passer une convention avec le représentant de l'Etat dans le département.
 
 Cette convention, qui entraîne la prise en charge au titre de l'aide sociale des dépenses du centre relevant de celle-ci, précise notamment :
 
@@ -13,8 +13,6 @@ La nature des activités professionnelles et extra professionnelles offertes par
 Le nombre et la qualification des personnels d'encadrement nécessaires à l'exercice des activités professionnelles ;
 
 Les modalités selon lesquelles sont assurés, en fonction des catégories de personnes accueillies, les soutiens médicaux, éducatifs, sociaux et psychologiques ainsi que le nombre et la qualification des personnels qui y contribuent ;
-
-Le tableau des indicateurs d'activité et de financement devant être annexé au budget du centre ;
 
 Les bases de rémunération des travailleurs handicapés à la charge de l'établissement.
 
