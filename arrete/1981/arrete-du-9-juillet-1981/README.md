@@ -1,4 +1,4 @@
-# Arrêté du 9 juillet 1981 fixant les règles applicables au concours de caporal de sapeurs-pompiers volontaires
+# Arrêté du 9 juillet 1981 fixant les règles applicables au concours de sergent de sapeurs-pompiers volontaires
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

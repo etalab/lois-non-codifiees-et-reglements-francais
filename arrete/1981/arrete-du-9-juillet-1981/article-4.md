@@ -2,18 +2,22 @@
 
 Les épreuves du concours sont les suivantes :
 
-Une épreuve écrite (coefficient 2) sous forme d'un questionnaire à choix multiples portant sur la connaissance des matériels élémentaires et leur manoeuvre ;
+Deux épreuves écrites :
 
-Une épreuve orale (coefficient 2) portant sur l'articulation, les missions de l'équipe et les devoirs de chacun de ses membres, au sens du règlement de manoeuvres ;
+- l'une portant sur les notions élémentaires d'hydraulique (coefficient 1,5) ;
 
-Deux épreuves pratiques de manoeuvre en équipe avec utilisation de l'appareil respiratoire isolant portant :
+- l'autre consistant en la rédaction d'un compte rendu succinct en rapport avec l'activité de sapeur-pompier (coefficient 1,5).
 
-- l'une sur l'exécution d'un sauvetage (coefficient 3) ;
+Une épreuve orale (coefficient 3) portant sur le règlement d'instruction et de manoeuvre du sapeur-pompier ;
 
-- l'autre sur l'extinction d'un feu avec un engin d'incendie (coefficient 3).
+Deux épreuves pratiques portant :
+
+- l'une sur le commandement d'une manoeuvre d'extinction ou de sauvetage (coefficient 3), par tirage au sort du candidat ;
+
+- l'autre sur l'animation d'une séance d'instruction (coefficient 3) dans la matière qui n'aura pas été traitée dans l'épreuve de commandement d'une manoeuvre.
 
 Chacune des épreuves est notée de 0 à 20.
 
 Toute note égale ou inférieure à 6 sur 20 est éliminatoire.
 
-Sont déclarés admis les candidats ayant obtenu au moins 120 points sur 200.
+Sont déclarés admis les candidats ayant obtenu au moins 144 points sur 240. "

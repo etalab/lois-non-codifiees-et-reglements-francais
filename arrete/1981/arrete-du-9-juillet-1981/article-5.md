@@ -2,13 +2,13 @@
 
 Présidé par le directeur des services départementaux d'incendie et de secours ou par un officier le représentant, le jury comprend :
 
-- un chef de corps professionnel ou volontaire ;
+Un chef de corps professionnel ou volontaire ;
 
-- un sous-officier professionnel ou volontaire ;
+Un sous-officier professionnel ou volontaire ;
 
-- un caporal ou caporal-chef professionnel ou volontaire ;
+Un sergent ou sergent-chef professionnel ou volontaire ;
 
-- un médecin de sapeurs-pompiers.
+Un médecin de sapeurs-pompiers.
 
 Les membres du jury sont désignés par le préfet sur proposition du directeur des services départementaux d'incendie et de secours.
 
