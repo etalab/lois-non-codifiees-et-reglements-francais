@@ -139,6 +139,7 @@
 - [Décret n°88-990 du 17 octobre 1988 (PTTA8800550D)](decret-n88-990-du-17-octobre-1988-ptta8800550d)
 - [Décret n°88-1049 du 18 novembre 1988 (AGRS8801983D)](decret-n88-1049-du-18-novembre-1988-agrs8801983d)
 - [Décret n°88-1052 du 18 novembre 1988 (BUDF8810091D)](decret-n88-1052-du-18-novembre-1988-budf8810091d)
+- [Décret n°88-274 du 18 mars 1988 (EQUC8800061D)](decret-n88-274-du-18-mars-1988-equc8800061d)
 - [Décret n°88-61 du 18 janvier 1988 (ASES8701861D)](decret-n88-61-du-18-janvier-1988-ases8701861d)
 - [Décret n°88-821 du 18 juillet 1988 (MENX8800104D)](decret-n88-821-du-18-juillet-1988-menx8800104d)
 - [Décret n°88-822 du 18 juillet 1988 (TEFX8800094D)](decret-n88-822-du-18-juillet-1988-tefx8800094d)
