@@ -23,3 +23,5 @@ Les magistrats du second grade de la hiérarchie judiciaire sont appelés à exe
 10° Président et procureur de la République d'un tribunal de grande instance à une chambre ou d'un tribunal de première instance non classé au premier groupe du premier grade.
 
 Les magistrats du second grade peuvent en outre exercer les fonctions de directeur adjoint chargé de la direction des études à l'école nationale des greffes.
+
+11° Conseiller de cour d'appel ;

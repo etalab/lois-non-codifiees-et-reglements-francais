@@ -1,6 +1,6 @@
 # Article 7
 
-Les substituts à l'administration centrale du ministère de la justice du second grade sont nommés parmi les magistrats justifiant à la date de leur nomination d'au moins trois années de services effectifs dans les tribunaux.
+Les substituts à l'administration centrale du ministère de la justice du second grade sont nommés parmi les magistrats justifiant à la date de leur nomination d'au moins trois années de services effectifs dans les tribunaux ou au service de documentation et d'études de la Cour de cassation.
 
 Ils sont choisis :
 
