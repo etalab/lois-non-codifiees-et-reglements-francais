@@ -1,12 +1,16 @@
 # Article 19
 
-I. - Les concours et examens professionnels de recrutement organisés en application des articles 29 et 35 du titre IV du statut général des fonctionnaires sont ouverts :
+I. - Les concours et examens professionnels de recrutement prévus en application des articles 29 et 35 du titre IV du statut général des fonctionnaires sont ouverts et organisés :
 
-a) En ce qui concerne le corps des ingénieurs hospitaliers pour un ou plusieurs établissements de la région par le préfet de région ;
+a) En ce qui concerne le corps des ingénieurs hospitaliers :
 
-b) En ce qui concerne le corps des adjoints techniques pour un ou plusieurs établissements du département par le préfet du département ;
+pour le compte de plusieurs établissements de la région, par l'autorité investie du pouvoir de nomination dans l'établissement de la région comptant le plus grand nombre de lits ;
 
-c) En ce qui concerne le corps des dessinateurs par le chef de l'établissement intéressé.
+b) En ce qui concerne le corps des adjoints techniques : pour le compte de plusieurs établissements du département, par l'autorité investie du pouvoir de nomination dans l'établissement du département comptant le plus grand nombre de lits ;
+
+c) En ce qui concerne les corps visés aux a et b : pour le compte d'un seul établissement, par l'autorité investie du pouvoir de nomination dans l'établissement intéressé, après accord, selon le cas, du préfet de région ou du préfet de département ;
+
+d) En ce qui concerne le corps des dessinateurs : par l'autorité investie du pouvoir de nomination dans l'établissement intéressé.
 
 II. - Les avis de ces concours et examens professionnels :
 

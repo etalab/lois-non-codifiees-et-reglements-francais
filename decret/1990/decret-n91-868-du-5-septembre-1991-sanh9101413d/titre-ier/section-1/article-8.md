@@ -1,6 +1,6 @@
 # Article 8
 
-Peuvent être nommés au grade d'ingénieur hospitalier en chef, dans les conditions prévues au 1° de l'article 69 du titre IV du statut général des fonctionnaires, les ingénieurs hospitaliers subdivisionnaires comptant six années au moins de fonctions dans le corps des ingénieurs hospitaliers.
+Peuvent être nommés au grade d'ingénieur hospitalier en chef, dans les conditions prévues au 1° de l'article 69 du titre IV du statut général des fonctionnaires, les ingénieurs hospitaliers subdivisionnaires comptant six années au moins de services effectifs dans le corps des ingénieurs hospitaliers.
 
 Peuvent être nommés au grade d'ingénieur hospitalier en chef de 1re catégorie de 2e classe, dans la limite de 25 p. 100 de l'effectif des ingénieurs en chef de 1re catégorie recrutés en application des dispositions de l'article 6 ci-dessus :
 
