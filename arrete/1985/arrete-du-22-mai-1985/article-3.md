@@ -8,7 +8,7 @@ Le diplôme d'études en langue française (D.E.L.F.) comprend:
 
 Chacun de ces deux diplômes donne lieu à certification distincte.
 
-Les candidats au diplôme du premier degré peuvent, sans condition préalable, s'inscrire à l'une ou l'autre des quatre unités de contrôle constitutives, dont l'ordre d'acquisition est indifférent. Le diplôme est conféré à ceux qui ont été admis aux épreuves afférentes à ces quatre unités.
+Pour s'inscrire à ces unités, les candidats doivent être titulaires du diplôme d'études en langue française du premier degré. Peuvent toutefois être dispensés de cette exigence les candidats qui ont subi avec succès dans un centre d'examen agréé, au cours des deux années précédant leur demande d'inscription, des épreuves de contrôle correspondant au niveau des unités de contrôle constitutives du diplôme d'études en langue française du premier degré.
 
 Seuls les titulaires du diplôme du premier degré peuvent s'inscrire aux unités de contrôle du diplôme du second degré et se présenter aux épreuves correspondantes.
 
