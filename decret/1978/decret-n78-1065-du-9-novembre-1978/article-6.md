@@ -24,4 +24,4 @@ Les banques inscrites par le conseil national du crédit ;
 
 Les établissements financiers enregistrés au conseil national du crédit autorisés à effectuer des opérations sur titres ;
 
-Les agents de change.
+Les sociétés de bourse.

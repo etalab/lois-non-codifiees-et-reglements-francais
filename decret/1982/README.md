@@ -95,6 +95,7 @@
 - [Décret n°82-715 du 13 août 1982](decret-n82-715-du-13-aout-1982)
 - [Décret n°82-723 du 13 août 1982](decret-n82-723-du-13-aout-1982)
 - [Décret n°82-780 du 13 septembre 1982](decret-n82-780-du-13-septembre-1982)
+- [Décret n°82-401 du 13 mai 1982](decret-n82-401-du-13-mai-1982)
 - [Décret n°82-404 du 13 mai 1982](decret-n82-404-du-13-mai-1982)
 - [Décret n°82-407 du 13 mai 1982](decret-n82-407-du-13-mai-1982)
 - [Décret n°82-508 du 14 juin 1982](decret-n82-508-du-14-juin-1982)

@@ -1,0 +1,3 @@
+# Article 1
+
+A compter du 1er janvier 1988, les contribuables domiciliés en France au sens de l'article 4 B du code général des impôts peuvent ouvrir des plans d'épargne en vue de la retraite auprès d'organismes relevant du code des assurances ou du code de la mutualité, auprès d'établissements de crédit, d'établissements visés à l'article 99 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit, de la Banque de France, des services financiers de la poste, des comptables du Trésor et des sociétés de bourse ou auprès d'institutions réalisant des opérations de prévoyance et relevant de l'article L. 731-1 du code de la sécurité sociale ou de l'article 1050 du code rural.

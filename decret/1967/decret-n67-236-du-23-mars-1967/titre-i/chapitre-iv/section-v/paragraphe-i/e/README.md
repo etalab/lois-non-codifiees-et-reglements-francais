@@ -1,5 +1,6 @@
 # e) Emission et achat en bourse d'actions réservées aux salariés.
 
+- [Article 174-22](article-174-22.md)
 - [Article 174-23](article-174-23.md)
 - [Article 174-24](article-174-24.md)
 - [Article 174-25](article-174-25.md)

@@ -4,4 +4,5 @@
 - [Chapitre II : Options de souscription ou d'achat d'actions.](chapitre-ii)
 - [Chapitre III : Rachat d'une entreprise par ses salariés.](chapitre-iii)
 - [Chapitre V : Prêts de titres.](chapitre-v)
+- [Chapitre IX : Mesures diverses concernant les sociétés et leurs actionnaires.](chapitre-ix)
 - [Chapitre X : Modernisation du marché financier et dispositions diverses.](chapitre-x)

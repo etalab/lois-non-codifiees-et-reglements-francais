@@ -1,0 +1,7 @@
+# Article 18
+
+Lorsque les dispositions de la présente section sont appliquées, dans les conditions prévues à l'article 4, à des obligations représentatives d'emprunts amortissables par séries désignées à l'aide de lettres ou de numéros, des comptes courants distincts seront ouverts pour chaque série d'obligations. Les obligations déposées ou mises en gage dans un établissement affilié ou à l'organisme interprofessionnel seront identifiées par l'indication de la lettre ou du numéro de la série à laquelle elles appartiennent. Pour l'exercice de leurs droits sur lesdites obligations, les déposants et les ayants droit devront établir que des obligations de la même série en nombre égal à celui des titres qu'ils possèdent ont été déposées à l'organisme interprofessionnel ou dans l'établissement affilié.
+
+La faculté de restituer des valeurs de même nature sans identité de numéro, conformément aux dispositions de l'article 9 (alinéas 1 et 2) ne s'applique qu'à des obligations de la même série que les obligations confiées. Les sociétés de bourse resteront tenus de mentionner sur leurs livres et bordereaux d'achat les lettres ou numéros de séries des obligations déposées dans les établissements affiliés qu'ils seront chargés de négocier.
+
+Dans les cas prévus aux articles 12 et 13 les obligataires exerceront leur revendication, dans les conditions fixées par lesdits articles, sur la masse des obligations de la même série.

@@ -1,5 +1,6 @@
 # Loi n°64-697 du 10 juillet 1964 relative au regroupement des actions non cotées
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)

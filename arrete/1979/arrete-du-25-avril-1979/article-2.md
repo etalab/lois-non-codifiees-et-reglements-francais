@@ -1,6 +1,6 @@
 # Article 2
 
-Les fonds et les titres détenus par les sociétés d'investissement à capital variable [*SICAV*] sont déposés auprès de :
+Les fonds et les titres détenus par les sociétés d'investissement à capital variable sont déposés auprès de :
 
 La Banque de France ;
 
@@ -8,7 +8,7 @@ La caisse des dépôts et consignations ;
 
 Les établissements de crédit ;
 
-Les agents de change ;
+Les sociétés de bourse ainsi que le conseil des bourses de valeurs ;
 
 Les entreprises d'assurances sur la vie ou de capitalisation régies par le code des assurances ;
 
