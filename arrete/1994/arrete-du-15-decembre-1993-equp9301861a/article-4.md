@@ -14,4 +14,6 @@ le directeur des affaires financières et de l'administration générale ;
 
 le directeur des affaires économiques et internationales ;
 
-le directeur de la recherche et des affaires scientifiques et techniques.
+le directeur de la recherche et des affaires scientifiques et techniques ;
+
+le directeur des transports terrestres.

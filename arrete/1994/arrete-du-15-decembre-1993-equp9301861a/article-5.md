@@ -26,6 +26,8 @@ deux directeurs départementaux de l'équipement ;
 
 cinq représentants des entreprises, bureaux d'études et maîtres d'ouvrage oeuvrant dans le champ de compétence du S.E.T.R.A. ;
 
-trois personnalités qualifiées choisies en raison de leurs compétences techniques dans le domaine routier des collectivités territoriales.
+trois personnalités qualifiées choisies en raison de leurs compétences techniques dans le domaine routier des collectivités territoriales ;
+
+un représentant de Réseau ferré de France.
 
 Il est convoqué par le directeur des routes.
