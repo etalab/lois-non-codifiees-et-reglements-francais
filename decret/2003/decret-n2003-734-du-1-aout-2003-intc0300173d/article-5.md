@@ -1,0 +1,5 @@
+# Article 5
+
+La direction de la police aux frontières des aérodromes Charles-de-Gaulle et Le Bourget et la direction de la police aux frontières de l'aérodrome d'Orly exercent les missions de la police judiciaire sur l'emprise de ces aérodromes, dans le respect des dispositions du code de procédure pénale et sous réserve des prérogatives conférées notamment à la gendarmerie des transports aériens.
+
+Elles assurent dans le même ressort, sous l'autorité respective du préfet de la Seine-Saint-Denis et du préfet du Val-de-Marne, l'ensemble des missions dévolues à la police nationale en matière de sécurité et de paix publiques, de renseignement et d'information. Elles y accomplissent en particulier les missions de la police aux frontières définies à l'article 11 du décret du 2 octobre 1985 susvisé et participent, à ce titre, à l'application des dispositions législatives et réglementaires relatives à la circulation transfrontière, au séjour des étrangers en France et à la sûreté des moyens de transport aériens.

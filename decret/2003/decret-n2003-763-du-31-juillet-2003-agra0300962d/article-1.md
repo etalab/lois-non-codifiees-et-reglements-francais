@@ -1,0 +1,3 @@
+# Article 1
+
+Les agents non titulaires du ministère de l'écologie et du développement durable qui occupent un emploi présentant les caractéristiques définies à l'article 3 de la loi du 13 juillet 1983 susvisée, qui remplissent les conditions énumérées à l'article 73 de la loi du 11 janvier 1984 susvisée et qui, recrutés sur le fondement de contrats du niveau de la catégorie B, exercent des fonctions techniques de même niveau dans le domaine de l'eau, ont vocation à être, sur leur demande, titularisés dans le corps des techniciens supérieurs des services du ministère de l'agriculture, dans la spécialité génie rural.
