@@ -1,9 +1,7 @@
 # Article 5
 
-L'appellation contrôlée "Muscat de Saint-Jean-de-Minervois" ne sera accordée que dans la limite d'une production de 20 hectolitres de moûts par hectare de vigne en production. Les jeunes vignes ne pourront entrer dans le décompte de la surface plantée qu'à partir de la quatrième feuille (celle-ci comprise), après greffage sur place ou après mise en place des racinés-greffés.
+L'appellation contrôlée susvisée n'est applicable que dans la limite d'un rendement de 28 hectolitres de moûts à l'hectare.
 
-Le chiffre prévu au paragraphe ci-dessus pourra être modifié exceptionnellement dans les années où qualité et quantité se rencontrent simultanément, par le comité directeur de l'institut national des appellations d'origine, sur demande qui lui sera adressée par une commission de cinq membres, nommée à cet effet par ledit institut, sur proposition du syndicat de défense du muscat de Saint-Jean-de-Minervois.
+Les quantités excédentaires seront déclassées. Toutefois, des dérogations individuelles peuvent être accordées par l'Institut national des appellations d'origine après vérification de la qualité de la récolte et des conditions de production.
 
-Cette demande devra être adressée, sous peine de nullité, un mois au moins avant la date de la clôture du registre des déclarations de récolte.
-
-La décision du comité directeur sera rendue quinze jours au moins avant cette date. Aucune demande individuelle ne pourra être accordée et la décision vaudra uniformément pour tous les producteurs de l'appellation.
+Les jeunes vignes ne peuvent entrer dans le décompte de la surface plantée qu'à partir de la quatrième feuille après greffage sur place et après mise en place des racinés-greffés.
