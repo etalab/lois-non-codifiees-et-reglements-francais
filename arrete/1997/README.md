@@ -1205,8 +1205,6 @@
 - [Arrêté du 30 octobre 1997 (AGRP9701834A)](arrete-du-30-octobre-1997-agrp9701834a)
 - [Arrêté du 30 octobre 1997 (AGRP9701837A)](arrete-du-30-octobre-1997-agrp9701837a)
 - [Arrêté du 30 octobre 1997 (EQUC9701466A)](arrete-du-30-octobre-1997-equc9701466a)
-- [Arrêté du 30 octobre 1997 (INTC9700502A)](arrete-du-30-octobre-1997-intc9700502a)
-- [Arrêté du 30 octobre 1997 (INTC9700509A)](arrete-du-30-octobre-1997-intc9700509a)
 - [Arrêté du 30 octobre 1997 (MENL9702329A)](arrete-du-30-octobre-1997-menl9702329a)
 - [Arrêté du 30 octobre 1997 (MESL9711285A)](arrete-du-30-octobre-1997-mesl9711285a)
 - [Arrêté du 30 septembre 1997 (AGRA9701908A)](arrete-du-30-septembre-1997-agra9701908a)
