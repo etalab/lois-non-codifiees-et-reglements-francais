@@ -28,7 +28,9 @@ c) Et agréé par le ministère de l'agriculture, de l'alimentation, de la pêch
 
 L'organisation de producteurs peut retenir un montant forfaitaire inférieur au forfait agréé.
 
-Dans tous les cas, les obligations prévues par le forfait agréé doivent être entièrement remplies et les organisations de producteurs apportent la preuve de la mise en oeuvre de la mesure forfaitisée en fournissant les justificatifs listés dans chaque forfait agréé. Dans le cas où le forfait s'applique à l'hectare, un contrôle interne des surfaces concernées doit être effectué et validé par un organisme certificateur.
+Dans tous les cas, les obligations prévues par le forfait agréé doivent être entièrement remplies et les organisations de producteurs doivent pouvoir justifier de la mise en oeuvre effective de tous les engagements prévus par le forfait conformément aux dispositions prévues pour chacun des forfaits agréés. Pour ce faire, l'organisation de producteurs, outre la production des justificatifs prévus par le forfait agréé, devra mettre en place un dispositif de contrôle interne matérialisé par des rapports détaillés de visite des exploitations. La méthode de contrôle interne devra être conforme à la méthode détaillée en annexe I.
+
+Le dispositif de contrôle interne de l'OP pourra faire l'objet de contrôles par l'administration. En cas de défaillance du contrôle interne, une remise en cause de l'aide perçue pourra intervenir.
 
 L'ensemble des sommes forfaitaires prises en compte ne doit pas dépasser 20 % du fonds opérationnel approuvé.
 

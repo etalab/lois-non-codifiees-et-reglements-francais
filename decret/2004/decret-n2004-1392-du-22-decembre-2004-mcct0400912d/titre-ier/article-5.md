@@ -1,0 +1,5 @@
+# Article 5
+
+Afin de permettre la retransmission d'un événement d'importance majeure par un éditeur de services de télévision à accès libre dans les conditions prévues à l'article 4, un éditeur de services de télévision titulaire de droits exclusifs de retransmission pour tout ou partie d'un événement d'importance majeure et qui n'est pas en mesure de respecter ces conditions doit, dans un délai raisonnable avant l'événement, formuler, selon des modalités de publicité permettant l'information des éditeurs de services de télévision à accès libre, la proposition de céder des droits permettant d'assurer la retransmission de cet événement dans les conditions prévues à l'article 4. Cette offre doit être faite selon des termes et conditions de marché équitables, raisonnables et non discriminatoires.
+
+Si, en réponse à cette offre, aucune proposition d'un éditeur de services de télévision n'est formulée ou si la proposition n'est pas formulée selon des termes et conditions de marchés équitables, raisonnables et non discriminatoires, l'éditeur titulaire de droits exclusifs peut exercer ceux-ci sans satisfaire aux conditions prévues à l'article 4.

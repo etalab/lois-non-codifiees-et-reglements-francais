@@ -1,0 +1,3 @@
+# Article 6
+
+Les dispositions du présent titre s'appliquent aux éditeurs de services de télévision relevant de la compétence de la France qui assurent la retransmission télévisée, sur le territoire d'un autre Etat, membre de l'Union européenne, partie à l'accord sur l'Espace économique européen ou partie à la Convention européenne sur la télévision transfrontière, d'un événement désigné par cet Etat comme d'une importance majeure pour la société de ce pays au sens des dispositions de la directive 89/552/CEE du 3 octobre 1989 susvisée et ont acquis les droits de retransmission de cet événement après le 23 août 1997.

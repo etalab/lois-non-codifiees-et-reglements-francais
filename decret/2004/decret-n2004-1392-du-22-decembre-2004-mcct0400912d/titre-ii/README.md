@@ -1,0 +1,5 @@
+# TITRE II : DISPOSITIONS APPLICABLES À LA DIFFUSION DES ÉVÉNEMENTS D'IMPORTANCE MAJEURE SUR LE TERRITOIRE D'AUTRES ÉTATS EUROPÉENS.
+
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)
