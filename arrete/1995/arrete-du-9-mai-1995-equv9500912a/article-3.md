@@ -24,14 +24,6 @@ Outre les présidents, le comité comprend :
 
 - les membres des corps et services chargés de missions d'inspection relevant des ministres chargés de l'équipement, des transports et du logement ;
 
-3° Huit personnalités nommées conjointement par les présidents en raison de leurs compétences dans les domaines suivants :
-
-- histoire et sociologie des administrations publiques ;
-
-- inventaire, conservation et mise en valeur du patrimoine, notamment documentaire et muséographique ;
-
-- histoire et ethnologie des sciences, des techniques et des métiers ;
-
-- histoire de la pensée économique.
+3° Dix personnalités nommées en raison de leurs compétences.
 
 Les membres du comité au titre des 2° et 3° du présent article sont désignés par un arrêté conjoint des présidents. La durée de leur mandat est de trois ans renouvelables.

@@ -6,4 +6,4 @@ Le secrétaire du comité assure la collecte des programmes de travail et rappor
 
 Il veille, entre les réunions du comité, à la coordination des travaux des commissions permanentes.
 
-Le secrétariat des commissions permanentes est assuré par les soins du directeur qui les préside.
+Le secrétariat des commissions permanentes est assuré, pour le compte des présidents desdites commissions, par le secrétariat du comité d'histoire.
