@@ -6,4 +6,4 @@ II - La tarification des prestations remboursables aux assurés sociaux est arr�
 
 Au vu de cette décision, le président du conseil général fixe la tarification des prestations fournies par les établissements et services habilités à recevoir des bénéficiaires de l'aide sociale en vertu de l'article 44.
 
-III - La tarification des prestations fournies par les établissements ou services auxquels l'autorité judiciaire confie directement et habituellement des mineurs est arrêtée conjointement par le président du conseil général et le représentant de l'Etat dans le département.
+III - La tarification des prestations fournies par les établissements ou services auxquels l'autorité judiciaire confie directement et habituellement des mineurs est arrêtée conjointement par le président du conseil général et le représentant de l'Etat dans le département.    IV - La participation qui peut être demandée aux bénéficiaires des services ménagers accordés au titre de l'aide en nature prévue à l'article 158 du code de la famille et de l'aide sociale est fixée par arrêté du président du conseil général.

@@ -10,7 +10,7 @@ II. Les personnes mentionnées à l'article 1er de la présente loi sont affili�
 
 Toutefois, les personnes relevant de la profession de la batellerie sont affiliées, dans les conditions fixées par décret, à une section mutuelle autonome d'assurance maladie et maternité des travailleurs non salariés de la batellerie fonctionnant auprès de la caisse primaire nationale d'assurance maladie de la batellerie.
 
-III. Chaque caisse mutuelle régionale est administrée par un conseil d'administration comprenant [*composition*] :
+III. Chaque caisse mutuelle régionale est administrée par un conseil d'administration comprenant :
 
 - pour les deux tiers au moins, des représentants élus au suffrage direct par les personnes affiliées au régime, assujetties à cotiser ou exonérées de cotisation et choisis en leur sein ; dans les caisses communes à plusieurs groupes professionnels, chaque groupe sera représenté de façon égale ;
 
@@ -22,7 +22,7 @@ III. Chaque caisse mutuelle régionale est administrée par un conseil d'adminis
 
 Les fonctions d'administrateur ou d'agent salarié des organismes auxquels une caisse mutuelle régionale a confié les opérations mentionnées au deuxième alinéa de l'article 14 ci-dessus sont incompatibles avec les fonctions d'administrateur de ladite caisse.
 
-Les dispositions de l'article 8 de l'ordonnance n° 67-706 du 21 août 1967 relatives aux inéligibilités sont applicables aux élections aux conseils d'administration des caisses mutuelles régionales.
+Les dispositions des articles 21 et 22 de la loi n° 82-1061 du 17 décembre 1982 relative à la composition des conseils d'administration des organismes du régime général de sécurité sociale, concernant les éligibilités et les inéligibilités, sont applicables aux élections aux conseils d'administration des caisses mutuelles régionales.
 
 Un représentant de chacune des catégories d'organismes mentionnés aux troisième et quatrième alinéas de l'article 14 ci-dessus, nommé par le ministre de la santé publique et de la sécurité sociale et le ministre de l'économie et des finances, assiste aux séances à titre consultatif.
 

@@ -1,3 +1,4 @@
 # Loi n° 83-430 du 31 mai 1983 PORTANT DIVERSES MESURES RELATIVES AUX PRESTATIONS DE VIEILLESSE
 
 - [Article 6](article-6.md)
+- [Article 7](article-7.md)

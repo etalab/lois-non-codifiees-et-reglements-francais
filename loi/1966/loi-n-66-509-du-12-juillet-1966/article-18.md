@@ -8,6 +8,6 @@ Toutefois, les bénéficiaires de l'allocation supplémentaire du fonds national
 
 Par ailleurs, dans le cadre de l'harmonisation définie à l'article 9 de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat, les dispositions applicables aux cotisations d'assurance maladie et maternité des artisans et commerçants retraités sont progressivement alignées sur celles du régime général.
 
-En conséquence, les assurés retraités âgés de plus de soixante-cinq ans ou de soixante ans en cas d'inaptitude au travail, ainsi que les conjoints bénéficiaires d'une pension de reversion, dont les revenus n'excèdent pas un montant fixé chaque année par décret, sont exonérés du versement des cotisations sur leur allocation ou pension.
+En conséquence, les assurés retraités ainsi que leurs ayants droit bénéficiant d'une pension de reversion, dont les revenus n'excèdent pas un montant fixé chaque année par décret, sont exonérés du versement de leurs cotisations sur leurs allocations ou pensions.
 
 Les pensions d'invalidité sont exonérées de cotisations.
