@@ -50,6 +50,8 @@
 - [Décret n°2000-508 du 8 juin 2000 (EQUP0000217D)](decret-n2000-508-du-8-juin-2000-equp0000217d)
 - [Décret n°2000-510 du 8 juin 2000 (DEFP0001562D)](decret-n2000-510-du-8-juin-2000-defp0001562d)
 - [Décret n°2000-511 du 8 juin 2000 (DEFP0001561D)](decret-n2000-511-du-8-juin-2000-defp0001561d)
+- [Décret n°2000-653 du 10 juillet 2000 (EQUP0000894D)](decret-n2000-653-du-10-juillet-2000-equp0000894d)
+- [Décret n°2000-654 du 10 juillet 2000 (AGRS9902609D)](decret-n2000-654-du-10-juillet-2000-agrs9902609d)
 - [Décret n°90-601 du 11 juillet 1990 (MCCB9000404D)](decret-n90-601-du-11-juillet-1990-mccb9000404d)
 - [Décret n°2000-514 du 13 juin 2000 (INTC0000128D)](decret-n2000-514-du-13-juin-2000-intc0000128d)
 - [Décret n°2000-518 du 13 juin 2000 (ECOI0020066D)](decret-n2000-518-du-13-juin-2000-ecoi0020066d)
