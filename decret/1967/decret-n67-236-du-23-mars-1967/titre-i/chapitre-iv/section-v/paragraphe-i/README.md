@@ -21,6 +21,6 @@
 - [Article 168](article-168.md)
 - [Article 169](article-169.md)
 - [d) Options de souscription ou d'achat d'actions.](d)
-- [a) Certificats d'investissement.](a)
+- [a) Dispositions applicables aux catégories de titres en voie d'extinction.](a)
 - [b) Obligations convertibles en actions et obligations avec bons de souscription d'actions.](b)
 - [e) Emission et achat en bourse d'actions réservées aux salariés.](e)
