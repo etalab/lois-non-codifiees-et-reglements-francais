@@ -87,6 +87,7 @@
 - [Décret n°88-263 du 18 mars 1988 (EQUR8800209D)](decret-n88-263-du-18-mars-1988-equr8800209d)
 - [Décret n°88-264 du 18 mars 1988 (DOMP8800004D)](decret-n88-264-du-18-mars-1988-domp8800004d)
 - [Décret n°88-271 du 18 mars 1988 (JUSD8830028D)](decret-n88-271-du-18-mars-1988-jusd8830028d)
+- [Décret n°88-274 du 18 mars 1988 (EQUC8800061D)](decret-n88-274-du-18-mars-1988-equc8800061d)
 - [Décret n°88-59 du 18 janvier 1988 (ASEP8701793D)](decret-n88-59-du-18-janvier-1988-asep8701793d)
 - [Décret n°88-61 du 18 janvier 1988 (ASES8701861D)](decret-n88-61-du-18-janvier-1988-ases8701861d)
 - [Décret du 19 février 1988 (AGRR8800273D)](decret-du-19-fevrier-1988-agrr8800273d)
