@@ -1,0 +1,3 @@
+# Article 1
+
+La formation avant titularisation des éducateurs des activités physiques et sportives stagiaires ainsi que la formation d'adaptation à l'emploi des éducateurs des activités physiques et sportives, prévues aux articles 7 et 8 du décret n° 95-27 du 10 janvier 1995 portant statut particulier du cadre d'emplois des éducateurs territoriaux des activités physiques et sportives, sont organisées par le Centre national de la fonction publique territoriale selon les modalités prévues aux articles ci-après. Les programmes de ces formations sont définis dans les conditions prévues à l'article 14 de la loi du 12 juillet 1984 susvisée. "
