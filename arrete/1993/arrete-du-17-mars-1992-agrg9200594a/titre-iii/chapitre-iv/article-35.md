@@ -8,7 +8,7 @@ Au cours de leur transport, les viandes fraîches provenant d'un abattoir agré�
 
 - mentionne clairement, pour les viandes congelées, le mois et l'année de congélation ;
 
-- comporte pour les viandes issues d'animaux de l'espèce bovine âgés de moins de douze mois et contenant de l'os vertébral la mention suivante : "Viandes issues de bovins âgés de moins de douze mois non soumis à l'obligation de retrait de la colonne vertébrale" ;
+- mentionne clairement le nombre de carcasses, demi-carcasses, demi-carcasses découpées en un maximum de trois morceaux et quartiers de bovins dont le retrait de la colonne vertébrale est exigé et le nombre de ceux dont le retrait de la colonne vertébrale n'est pas exigé, conformément aux dispositions de l'article 31, point p, du présent arrêté ;
 
 - à compter du 1er juillet 2002, comporte pour les viandes issues d'animaux des espèces ovine et caprine âgés de moins de six mois et renfermant de la moelle épinière, la mention suivante : "Viandes issues d'animaux âgés de moins de six mois non soumis à l'obligation de retrait de la moelle épinière" ;
 
