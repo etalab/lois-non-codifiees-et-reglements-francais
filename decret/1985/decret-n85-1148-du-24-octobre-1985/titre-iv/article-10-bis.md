@@ -12,74 +12,28 @@ Pour les personnels non rémunérés par un traitement établi en application de
 
 L'élément fixe et l'élément proportionnel visés au premier alinéa ci-dessus sont, en fonction du nombre des enfants à charge, fixés ainsi qu'il suit :
 
-<table>
-<tr>
-<td> :-------------:-----------:</td>
-</tr>
-<tr>
-<td> :   NOMBRE    :  ELEMENT  :</td>
-</tr>
-<tr>
-<td> :   D'ENFANTS :  (fixe    :</td>
-</tr>
-<tr>
-<td> :   A CHARGE  :  annuel)  :</td>
-</tr>
-<tr>
-<td> :             :(en francs):</td>
-</tr>
-<tr>
-<td> :---------------:---------:</td>
-</tr>
-<tr>
-<td> : Un enfant     :     180 :</td>
-</tr>
-<tr>
-<td> : Deux enfants  :     840 :</td>
-</tr>
-<tr>
-<td> : Trois enfants :   1 200 :</td>
-</tr>
-<tr>
-<td> : Par enfant en :         :</td>
-</tr>
-<tr>
-<td> : sus du 3ème   :     360 :</td>
-</tr>
-<tr>
-<td> :---------------:---------:</td>
-</tr>
-<tr>
-<td> :----------------------------:</td>
-</tr>
-<tr>
-<td> :     NOMBRE   :   ELEMENT   :</td>
-</tr>
-<tr>
-<td> :    D'ENFANTS :proportionnel:</td>
-</tr>
-<tr>
-<td> :    A CHARGE  : pourcentage :</td>
-</tr>
-<tr>
-<td> :--------------:-------------:</td>
-</tr>
-<tr>
-<td> : Un enfant    :        -    :</td>
-</tr>
-<tr>
-<td> : Deux enfants :        3    :</td>
-</tr>
-<tr>
-<td> : Trois enfants:        8    :</td>
-</tr>
-<tr>
-<td> : Par enfant en:             :</td>
-</tr>
-<tr>
-<td> : sus du 3ème  :        6    :</td>
-</tr>
-<tr>
-<td> :----------------------------:</td>
-</tr>
-</table>
+L'élément fixe et l'élément proportionnel visés au premier alinéa ci-dessus sont, en fonction du nombre des enfants à charge, fixés ainsi qu'il suit :
+
+NOMBRE D'ENFANTS À CHARGE : Un enfant
+
+ÉLÉMENT Fixe mensuel (en euros) : 2,29
+
+Proportionnel (en %) : -
+
+NOMBRE D'ENFANTS À CHARGE : Deux enfants
+
+ÉLÉMENT Fixe mensuel (en euros) : 10,67
+
+Proportionnel (en %) : 3
+
+NOMBRE D'ENFANTS À CHARGE : Trois enfants
+
+ÉLÉMENT Fixe mensuel (en euros) : 15,24
+
+Proportionnel (en %) : 8
+
+NOMBRE D'ENFANTS À CHARGE : Par enfant au-delà du troisième
+
+ÉLÉMENT Fixe mensuel (en euros) : 4,57
+
+Proportionnel (en %) : 6

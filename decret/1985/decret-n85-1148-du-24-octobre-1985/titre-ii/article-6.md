@@ -1,60 +1,60 @@
 # Article 6
 
-Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er novembre 2001 :
+Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er janvier 2002 :
 
-TRAITEMENTS ET SOLDES ANNUELS BRUTS (EN FRANCS) soumis à retenue pour pension à compter du 1er novembre 2001
+TRAITEMENTS ET SOLDES ANNUELS BRUTS (EN EUROS) soumis à retenue pour pension à compter du 1er janvier 2002
 
 GROUPE : A
 
-CHEVRON I : 299 112
+CHEVRON I : 45 599,40
 
-CHEVRON II : 311 009
+CHEVRON II : 47 413,01
 
-CHEVRON III : 326 984
+CHEVRON III : 49 848,44
 
 GROUPE : B
 
-CHEVRON I : 326 984
+CHEVRON I : 49 848,44
 
-CHEVRON II : 340 920
+CHEVRON II : 51 972,95
 
-CHEVRON III : 359 274
+CHEVRON III : 54 771,10
 
 GROUPE : B bis
 
-CHEVRON I : 359 274
+CHEVRON I : 54 771,10
 
-CHEVRON II : 368 792
+CHEVRON II : 56 221,99
 
-CHEVRON III : 378 649
+CHEVRON III : 57 724,70
 
 GROUPE : C
 
-CHEVRON I : 378 649
+CHEVRON I : 57 724,70
 
-CHEVRON II : 386 806
+CHEVRON II : 58 968,32
 
-CHEVRON III : 395 304
+CHEVRON III : 60 263,75
 
 GROUPE : D
 
-CHEVRON I : 395 304
+CHEVRON I : 60 263,75
 
-CHEVRON II : 413 318
+CHEVRON II : 63 010,08
 
-CHEVRON III : 431 333
+CHEVRON III : 65 756,41
 
 GROUPE : E
 
-CHEVRON I : 431 333
+CHEVRON I : 65 756,41
 
-CHEVRON II : 448 328
+CHEVRON II : 68 347,28
 
 CHEVRON III : -
 
 GROUPE : F
 
-CHEVRON I : 464 983
+CHEVRON I : 70 886,34
 
 CHEVRON II : -
 
@@ -62,7 +62,7 @@ CHEVRON III : -
 
 GROUPE : G
 
-CHEVRON I : 509 850
+CHEVRON I : 77 726,25
 
 CHEVRON II : -
 
