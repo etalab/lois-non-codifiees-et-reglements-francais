@@ -10,10 +10,6 @@ Des groupements d'intérêt public peuvent également être créés :
 
 Les collectivités locales appartenant à des Etats membres de la Communauté européenne peuvent participer aux groupements d'intérêt public visés aux trois alinéas précédents.
 
-Le groupement d'intérêt public ne donne pas lieu à la réalisation ni au partage de bénéfices. Il peut être constitué sans capital. Les droits de ses membres ne peuvent être représentés par des titres négociables. Toute clause contraire est réputée non écrite.
-
-Les personnes morales de droit public, les entreprises nationales et les personnes morales de droit privé chargées de la gestion d'un service public doivent disposer ensemble de la majorité des voix dans l'assemblée du groupement et dans le conseil d'administration qu'elles désignent.
-
 Le directeur du groupement, nommé par le conseil d'administration, assure, sous l'autorité du conseil et de son président, le fonctionnement du groupement. Dans les rapports avec les tiers, le directeur engage le groupement pour tout ace entrant dans l'objet de celui-ci.
 
 Un commissaire du Gouvernement est nommé auprès du groupement.
@@ -24,4 +20,4 @@ Le groupement d'intérêt public est soumis au contrôle de la Cour des comptes 
 
 La transformation de toute autre personne morale en groupement d'intérêt public n'entraîne ni dissolution ni création d'une personne morale nouvelle.
 
-Les dispositions du présent article sont applicables dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
+Les dispositions du présent article sont applicables dans les territoires d'outre-mer et à Mayotte.
