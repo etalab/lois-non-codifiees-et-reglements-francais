@@ -88,6 +88,7 @@
 - [Décret n°85-107 du 28 janvier 1985](decret-n85-107-du-28-janvier-1985)
 - [Décret n°85-108 du 28 janvier 1985](decret-n85-108-du-28-janvier-1985)
 - [Décret n°85-136 du 28 janvier 1985](decret-n85-136-du-28-janvier-1985)
+- [Décret n°85-286 du 28 février 1985](decret-n85-286-du-28-fevrier-1985)
 - [Décret n°85-154 du 29 janvier 1985](decret-n85-154-du-29-janvier-1985)
 - [Décret du 31 décembre 1984](decret-du-31-decembre-1984)
 - [Décret n°84-1288 du 31 décembre 1984](decret-n84-1288-du-31-decembre-1984)
