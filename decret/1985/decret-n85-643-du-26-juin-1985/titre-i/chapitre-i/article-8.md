@@ -46,7 +46,9 @@ Les sièges du conseil d'administration du centre sont attribués aux représent
 </tr>
 </table>
 
-NOTA (A) Effectif total des fonctionnaires titulaires et stagiaires relevant du centre et employés par les communes et les établissements communaux et intercommunaux (B) Nombre de sièges attribués aux communes (C) Attribution d'un siège supplémentaire lorsque la population totale des communes affiliées est égale ou supérieure à
+(A) Effectif total des fonctionnaires titulaires et stagiaires relevant du centre, affectés dans les communes et les établissements publics communaux et intercommunaux et en position d'activité au sens des articles 56 et 63 de la loi n° 84-53 du 26 janvier 1984 susvisée.
+
+(B) Nombre de sièges attribués aux communes (C) Attribution d'un siège supplémentaire lorsque la population totale des communes affiliées est égale ou supérieure à
 
 " 2. De deux ou trois sièges au titre du département affilié, à savoir :
 

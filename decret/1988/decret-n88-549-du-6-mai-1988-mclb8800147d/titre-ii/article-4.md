@@ -4,7 +4,7 @@ Sont inscrits sur la liste d'aptitude prévue au 1° de l'article ci-dessus les 
 
 1° A un concours externe sur titres ouvert, pour les deux tiers au moins des postes à pourvoir, aux candidats titulaires du baccalauréat de l'enseignement secondaire ou d'un titre ou diplôme homologué au moins au niveau IV suivant la procédure définie par le décret n° 72-279 du 12 avril 1972 susvisé ;
 
-2° A un concours interne sur épreuves ouvert, pour le tiers au plus des postes à pourvoir, aux fonctionnaires et agents publics ainsi qu'aux agents en fonctions dans une organisation internationale intergouvernementale, ces candidats devant justifier, au 1er janvier de l'année du concours, de quatre ans au moins de services publics effectifs, compte non tenu des périodes de stage ouvrant l'accès à un grade de la fonction publique.
+2° A un concours interne sur épreuves ouvert, pour le tiers au plus des postes à pourvoir, aux fonctionnaires et agents publics ainsi qu'aux agents en fonctions dans une organisation internationale intergouvernementale, ces candidats devant justifier, au 1er janvier de l'année du concours, de quatre ans au moins de services publics effectifs, compte non tenu des périodes de stage ou de formation dans une école ou un établissement ouvrant accés à un grade de la fonction publique.
 
 Les concours sont organisés par le Centre national de la fonction publique territoriale. Nul ne peut participer plus de trois fois au total à l'un ou l'autre de ces concours.
 
