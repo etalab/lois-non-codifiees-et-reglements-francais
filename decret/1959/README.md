@@ -32,6 +32,7 @@
 - [Décret n°59-1315 du 19 novembre 1959](decret-n59-1315-du-19-novembre-1959)
 - [Décret n°59-1337 du 20 novembre 1959](decret-n59-1337-du-20-novembre-1959)
 - [Décret n°59-327 du 20 février 1959](decret-n59-327-du-20-fevrier-1959)
+- [Décret n°59-763 du 20 juin 1959](decret-n59-763-du-20-juin-1959)
 - [Décret n°59-1095 du 21 septembre 1959](decret-n59-1095-du-21-septembre-1959)
 - [Décret n°59-1096 du 21 septembre 1959](decret-n59-1096-du-21-septembre-1959)
 - [Décret n°59-1450 du 22 décembre 1959](decret-n59-1450-du-22-decembre-1959)
