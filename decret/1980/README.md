@@ -15,6 +15,7 @@
 - [Décret n°80-397 du 4 juin 1980](decret-n80-397-du-4-juin-1980)
 - [Décret du 5 février 1980](decret-du-5-fevrier-1980)
 - [Décret n°80-402 du 5 juin 1980](decret-n80-402-du-5-juin-1980)
+- [Décret n°80-418 du 5 juin 1980](decret-n80-418-du-5-juin-1980)
 - [Décret du 6 février 1980](decret-du-6-fevrier-1980)
 - [Décret n°80-334 du 6 mai 1980](decret-n80-334-du-6-mai-1980)
 - [Décret n°80-20 du 7 janvier 1980](decret-n80-20-du-7-janvier-1980)
