@@ -11,5 +11,3 @@ Le service de garde est organisé soit pour l'ensemble de l'établissement, soit
 Les secteurs de garde peuvent regrouper, le cas échéant, des établissements publics distincts mais voisins ; ils sont alors définis par voie de convention entre ces établissements.
 
 Toutes les dispositions relatives à l'organisation du service de garde arrêtées au sein d'un seul établissement ou par voie de convention sont prises sur avis des commissions médicales consultatives concernées, sauf les tableaux mensuels visés à l'article 10 ci-dessous.
-
-Les commissions médicales consultatives peuvent constituer à cet effet une sous-commission spécifique à l'organisation du service de garde.
