@@ -587,7 +587,6 @@
 - [Arrêté du 16 mars 1992 (INDM9200247A)](arrete-du-16-mars-1992-indm9200247a)
 - [Arrêté du 16 mars 1992 (INTE9200132A)](arrete-du-16-mars-1992-inte9200132a)
 - [Arrêté du 16 mars 1992 (MJSK9270047A)](arrete-du-16-mars-1992-mjsk9270047a)
-- [Arrêté du 16 novembre 1992 (AGRG9202130A)](arrete-du-16-novembre-1992-agrg9202130a)
 - [Arrêté du 16 novembre 1992 (COMA9200035A)](arrete-du-16-novembre-1992-coma9200035a)
 - [Arrêté du 16 novembre 1992 (SANP9202977A)](arrete-du-16-novembre-1992-sanp9202977a)
 - [Arrêté du 16 octobre 1992 (ECOT9213629A)](arrete-du-16-octobre-1992-ecot9213629a)
