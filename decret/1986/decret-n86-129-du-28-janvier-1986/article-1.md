@@ -2,7 +2,7 @@
 
 L'administration centrale du ministère des P.T.T. [*composition*] comprend, outre le bureau du cabinet, le service de l'information et de la communication et le service de défense et de sécurité civile, directement rattachés au cabinet du ministre [*composition - liste*] :
 
-1. La mission à la réglementation générale ;
+1. La direction de la réglementation générale ;
 
 2. La direction des affaires communes, personnels et affaires sociales, budget et comptabilité ;
 
