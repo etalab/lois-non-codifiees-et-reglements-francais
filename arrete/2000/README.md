@@ -127,6 +127,7 @@
 - [Arrêté du 16 février 2000 (MAEA9920481A)](arrete-du-16-fevrier-2000-maea9920481a)
 - [Arrêté du 16 février 2000 (MESF0010182A)](arrete-du-16-fevrier-2000-mesf0010182a)
 - [Arrêté du 16 juillet 2001 (ECOP0100128A)](arrete-du-16-juillet-2001-ecop0100128a)
+- [Arrêté du 16 juin 2000 (PRMG0070281A)](arrete-du-16-juin-2000-prmg0070281a)
 - [Arrêté du 16 mai 2000 (JUSA0000096A)](arrete-du-16-mai-2000-jusa0000096a)
 - [Arrêté du 16 mai 2000 (MENF0001186A)](arrete-du-16-mai-2000-menf0001186a)
 - [Arrêté du 17 avril 2000 (ECOD0072422A)](arrete-du-17-avril-2000-ecod0072422a)
