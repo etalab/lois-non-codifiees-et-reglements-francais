@@ -29,6 +29,8 @@
 - [Décret n°90-20 du 3 janvier 1990 (MAEJ8930104D)](decret-n90-20-du-3-janvier-1990-maej8930104d)
 - [Décret n°90-28 du 3 janvier 1990 (MAEJ8930115D)](decret-n90-28-du-3-janvier-1990-maej8930115d)
 - [Décret n°90-297 du 3 avril 1990 (AGRG9000107D)](decret-n90-297-du-3-avril-1990-agrg9000107d)
+- [Décret n°90-304 du 3 avril 1990 (AGRS9000513D)](decret-n90-304-du-3-avril-1990-agrs9000513d)
+- [Décret n°90-305 du 3 avril 1990 (AGRE9000333D)](decret-n90-305-du-3-avril-1990-agre9000333d)
 - [Décret n°93-145 du 3 février 1993 (SANH9202685D)](decret-n93-145-du-3-fevrier-1993-sanh9202685d)
 - [Décret n°93-146 du 3 février 1993 (SANH9202686D)](decret-n93-146-du-3-fevrier-1993-sanh9202686d)
 - [Décret n°90-18 du 4 janvier 1990 (PTTT8901184D)](decret-n90-18-du-4-janvier-1990-pttt8901184d)
