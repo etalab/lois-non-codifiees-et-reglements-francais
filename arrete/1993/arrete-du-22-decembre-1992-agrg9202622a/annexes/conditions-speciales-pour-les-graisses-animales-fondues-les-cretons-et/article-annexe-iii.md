@@ -34,9 +34,9 @@ B. - Critères d'hygiène supplémentaires relatifs à la préparation des grais
 
 1. Les matières premières doivent provenir d'animaux qui, après l'inspection ante et post mortem, ont été jugés propres la consommation humaine.
 
-2. Les matières premières doivent consister en tissus adipeux ou en os jugés propres à la consommation humaine et contenant le moins possible de sang et d'impuretés. Elle ne doivent pas présenter de signes de dégradation et doivent être produites dans de bonnes conditions d'hygiène.
+2. Les matières premières doivent consister en tissus adipeux ou en os, à l'exception des os de ruminants, jugés propres à la consommation humaine et contenant le moins possible de sang et d'impuretés. Elles ne doivent pas présenter de signes de dégradation et doivent être produites dans de bonnes conditions d'hygiène.
 
-3. a) Pour la préparation des graisses animales fondues, seuls peuvent être utilisés des tissus adipeux ou des os collectés dans des abattoirs, des ateliers de découpe ou des établissements de transformation des viandes agréés. Les matières premières doivent être transportées et stockées jusqu'à ce qu'elles soient fondues dans de bonnes conditions d'hygiène et à une température interne inférieure ou égale à 7 °C ;
+3. a) Pour la préparation des graisses animales fondues, seuls peuvent être utilisés des tissus adipeux ou des os, à l'exception des os de ruminants, collectés dans des abattoirs, des ateliers de découpe ou des établissements de transformation des viandes agréés. Les matières premières doivent être transportées et stockées jusqu'à ce qu'elles soient fondues dans de bonnes conditions d'hygiène et à une température interne inférieure ou égale à 7° C ;
 
 b) Par dérogation au point a, les matières premières peuvent être stockées et transportées non réfrigérées, pour autant qu'elles soient fondues dans les douze heures suivant le jour de leur obtention ;
 

@@ -6,7 +6,7 @@ a) Produits à base d'issues, de graisses animales fondues ou d'extraits de vian
 
 b) Matières premières : tout produit d'origine animale utilisé comme ingrédient pour l'obtention des produits visés à l'article 1er du présent arrêté ;
 
-c) Graisses animales fondues : graisses issues de la fonte de viandes, y compris leurs os, et destinées à la consommation humaine ;
+c) Graisses animales fondues : graisses issues de la fonte de viandes, y compris leurs os mais à l'exception des os de ruminants, et destinées à la consommation humaine ;
 
 d) Cretons : résidus protéiques de la fonte, après séparation partielle des graisses et de l'eau ;
 
