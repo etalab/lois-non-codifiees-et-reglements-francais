@@ -74,6 +74,7 @@
 - [Décret n°74-200 du 26 février 1974](decret-n74-200-du-26-fevrier-1974)
 - [Décret n°74-355 du 26 avril 1974](decret-n74-355-du-26-avril-1974)
 - [Décret n°76-211 du 26 février 1976](decret-n76-211-du-26-fevrier-1976)
+- [Décret n°74-814 du 27 septembre 1974](decret-n74-814-du-27-septembre-1974)
 - [Décret n°74-63 du 28 janvier 1974](decret-n74-63-du-28-janvier-1974)
 - [Décret n°74-810 du 28 septembre 1974](decret-n74-810-du-28-septembre-1974)
 - [Décret n°73-1216 du 29 décembre 1973](decret-n73-1216-du-29-decembre-1973)
