@@ -209,6 +209,7 @@
 - [Décret n°89-97 du 13 février 1989 (MICT8900058D)](decret-n89-97-du-13-fevrier-1989-mict8900058d)
 - [Décret n°90-134 du 13 février 1990 (MENN8902942D)](decret-n90-134-du-13-fevrier-1990-menn8902942d)
 - [Décret n°90-483 du 13 juin 1990 (MENF9001100D)](decret-n90-483-du-13-juin-1990-menf9001100d)
+- [Décret du 14 novembre 1989 (SPSH8901840D)](decret-du-14-novembre-1989-spsh8901840d)
 - [Décret n°88-1056 du 14 novembre 1988 (TEFT8804060D)](decret-n88-1056-du-14-novembre-1988-teft8804060d)
 - [Décret n°89-102 du 14 février 1989 (PRME8961308D)](decret-n89-102-du-14-fevrier-1989-prme8961308d)
 - [Décret n°89-105 du 14 février 1989 (MAEJ8930002D)](decret-n89-105-du-14-fevrier-1989-maej8930002d)

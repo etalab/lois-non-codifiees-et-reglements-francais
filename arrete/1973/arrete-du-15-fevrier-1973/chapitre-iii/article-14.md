@@ -26,39 +26,35 @@ D'appels exceptionnels. Les disciplines dans lesquelles, les appels sont excepti
 
 A. - Ces participations sont indemnisées sur la base de taux forfaitaires communs à tous les praticiens concernés quelle que soit la catégorie à laquelle ils appartiennent.
 
-Ces taux ainsi que les limites des plafonds qui évoluent en fonction de l'évolution des traitements de la fonction publique, sont fixés ainsi qu'il suit :
+Ces taux ainsi que les limites des plafonds qui évoluent en fonction de l'évolution des traitements de la fonction publique sont fixés ainsi qu'il suit :
 
-Taux à compter du 1er mars 1989 [*date*]
+Taux à compter du 1er septembre 1989
 
-1° Service de garde sur place :
+1. Service de garde sur place :
 
-Garde : 1 010 F ;
+Garde : 1 022 F
 
-Demi-garde : 505 F.
+Demi-garde : 511 F
 
-2° Service de garde par astreinte :
+2. Service de garde par astreinte :
 
 Astreinte opérationnelle :
 
-a) Indemnité forfaitaire de base par demi-astreinte :
+a) Indemnité forfaitaire de base par demi-astreinte : 127,75 F
 
-126,25 F ;
+b) Indemnité due pour chaque appel : 127,75 F
 
-b) Indemnité due pour chaque appel : 126,25 F.
-
-Le montant cumulé des indemnités perçues ne peut excéder 505 F par demi-astreinte.
+Le montant cumulé des indemnités perçues ne peut excéder 511 F par demi-astreinte.
 
 Astreinte de sécurité :
 
-a) Indemnité forfaitaire de base : 126,25 F.
+a) Indemnité forfaitaire de base : 127,75 F
 
 Le montant cumulé des indemnités forfaitaires de base ne peut excéder :
 
-1 010 F pour quatre semaines ou
+1 022 F pour quatre semaines ou 1 277,5 F pour cinq semaines.
 
-1 262,5 F pour cinq semaines.
-
-b) Indemnité due pour chaque appel : 126,25 F.
+b) Indemnité due pour chaque appel : 127,75 F
 
 Les indemnités versées au titre d'une astreinte de sécurité ne peuvent excéder le taux fixé pour une garde.
 
@@ -66,13 +62,13 @@ Appels exceptionnels :
 
 a) Ils ne donnent lieu à aucune indemnité forfaitaire.
 
-b) Indemnité due pour chaque appel : 126,25 F.
+b) Indemnité due pour chaque appel : 127,75 F
 
 Pour un même praticien, le montant cumulé des indemnités perçues pour ses participations au service de garde sous forme de permanence à l'hôpital ou de garde par astreinte à domicile ne peut excéder :
 
-10 100 F pour quatre semaines ;
+10 220 F pour quatre semaines ;
 
-12 625 F pour cinq semaines.
+12 775 F pour cinq semaines.
 
 Les indemnités perçues dans le cadre des interventions hors service normal prévues au deuxième alinéa de l'article 3 de l'arrêté du 15 février 1973 modifié ne sont pas comptées dans ce plafond.
 
