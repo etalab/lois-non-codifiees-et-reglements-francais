@@ -12,4 +12,4 @@ Cette commission se prononce également, par une décision motivée, sur les dem
 
 La commission apprécie le degré des connaissances et des qualifications que le diplôme présenté permet de présumer chez son titulaire, en fonction de la nature et de la durée des études nécessaires, ainsi que, le cas échéant, des formations pratiques dont l'accomplissement était exigé pour l'obtenir. Elle peut entendre les candidats si elle le juge utile ;
 
-2° Par concours sur épreuves, qui peut comporter des matières à option, parmi les officiers et les aspirants de réserve en situation d'activité et les sous-officiers en activité de l'armée de terre réunissant, au 1er janvier de l'année du concours, au moins cinq ans de services militaires et qui, à cette date, sont âgés de vingt-six ans au moins et de trente-cinq ans plus.
+2° Par concours sur épreuves, qui peut comporter des matières à option, parmi les officiers sous contrat et les sous-officiers en activité de l'armée de terre réunissant, au 1er janvier de l'année du concours, au moins cinq ans de services militaires et qui, à cette date, sont âgés de vingt-six ans au moins et de trente-cinq ans plus.
