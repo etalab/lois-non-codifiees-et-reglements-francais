@@ -7,6 +7,7 @@
 - [Arrêté du 9 août 1960](arrete-du-9-aout-1960)
 - [Arrêté du 9 janvier 1960](arrete-du-9-janvier-1960)
 - [Arrêté du 10 février 1960](arrete-du-10-fevrier-1960)
+- [Arrêté du 12 octobre 1960](arrete-du-12-octobre-1960)
 - [Arrêté du 12 septembre 1960](arrete-du-12-septembre-1960)
 - [Arrêté du 17 décembre 1959](arrete-du-17-decembre-1959)
 - [Arrêté du 17 février 1960](arrete-du-17-fevrier-1960)
