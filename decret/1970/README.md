@@ -42,7 +42,6 @@
 - [Décret n° 70-322 du 13 avril 1970](decret-n-70-322-du-13-avril-1970)
 - [Décret n° 70-323 du 13 avril 1970](decret-n-70-323-du-13-avril-1970)
 - [Décret n° 70-43 du 13 janvier 1970](decret-n-70-43-du-13-janvier-1970)
-- [Décret n°70-1047 du 13 novembre 1970](decret-n70-1047-du-13-novembre-1970)
 - [Décret n°70-1049 du 13 novembre 1970](decret-n70-1049-du-13-novembre-1970)
 - [Décret n°70-128 du 14 février 1970](decret-n70-128-du-14-fevrier-1970)
 - [Décret n°70-319 du 14 avril 1970](decret-n70-319-du-14-avril-1970)
