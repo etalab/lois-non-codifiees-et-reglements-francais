@@ -314,7 +314,6 @@
 - [Arrêté du 14 mai 1987 (BUDZ8700002A)](arrete-du-14-mai-1987-budz8700002a)
 - [Arrêté du 15 avril 1987 (ASEE8703258A)](arrete-du-15-avril-1987-asee8703258a)
 - [Arrêté du 15 avril 1987 (ENVN8700105A)](arrete-du-15-avril-1987-envn8700105a)
-- [Arrêté du 15 décembre 1986 (AGRH8700026A)](arrete-du-15-decembre-1986-agrh8700026a)
 - [Arrêté du 15 décembre 1987 (ASES8701846A)](arrete-du-15-decembre-1987-ases8701846a)
 - [Arrêté du 15 décembre 1987 (ECOT8726016A)](arrete-du-15-decembre-1987-ecot8726016a)
 - [Arrêté du 15 décembre 1987 (RESK8700930A)](arrete-du-15-decembre-1987-resk8700930a)
