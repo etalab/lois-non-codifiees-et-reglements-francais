@@ -8,4 +8,6 @@ Ils peuvent aussi être chargés de missions de surveillance industrielle en usi
 
 Les ingénieurs d'études et de fabrications peuvent être appelés à exercer leurs fonctions dans les services du ministère de la défense à l'étranger.
 
+Ils peuvent être affectés dans les établissements publics administratifs placés sous la tutelle du ministère de la défense lorsque les textes constitutifs de ces établissements publics le permettent.
+
 Les dispositions de l'article 1er de la loi du 30 mars 1928 relative au statut du personnel navigant de l'aéronautique sont applicables aux ingénieurs d'études et de fabrications classés dans le personnel navigant des corps techniques de l'aéronautique et de l'aéronautique navale.
