@@ -1,3 +1,0 @@
-# Article 3
-
-Le directeur du Centre des hautes études sur l'Afrique et l'Asie modernes est nommé par le Premier ministre, sur proposition du conseil d'administration émise après consultation du conseil scientifique, pour une période de quatre ans renouvelable une fois. Il assiste, sans voix délibérative, aux séances du conseil d'administration. Il soumet au conseil d'administration, après avoir recueilli l'avis du conseil scientifique, le projet de programme de travail annuel du centre et le projet de répartition, par activités et postes de dépenses, des moyens budgétaires consacrés à la gestion du centre.
