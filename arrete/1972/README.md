@@ -18,6 +18,7 @@
 - [Arrêté du 10 décembre 1971](arrete-du-10-decembre-1971)
 - [Arrêté du 10 février 1972](arrete-du-10-fevrier-1972)
 - [Arrêté du 10 mars 1972](arrete-du-10-mars-1972)
+- [Arrêté du 11 août 1972](arrete-du-11-aout-1972)
 - [Arrêté du 11 avril 1972](arrete-du-11-avril-1972)
 - [Arrêté du 11 janvier 1972](arrete-du-11-janvier-1972)
 - [Arrêté du 11 mars 1972](arrete-du-11-mars-1972)
