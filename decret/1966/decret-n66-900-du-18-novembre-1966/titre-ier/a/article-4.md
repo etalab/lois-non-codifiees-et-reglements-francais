@@ -1,0 +1,7 @@
+# Article 4
+
+Les conducteurs des travaux publics de l'Etat (routes, bases aériennes) participent aux activités techniques des services des ponts et chaussées dans les conditions fixées par les consignes générales et les ordres de service donnés par les fonctionnaires sous l'autorité desquels ils sont placés.
+
+Les conducteurs des travaux publics de l'Etat (voies navigables, ports maritimes) participent aux activités techniques des ponts et chaussées sur les voies navigables et dans les ports maritimes, dans les conditions fixées par les consignes générales et les ordres de service donnés par les fonctionnaires sous l'autorité desquels ils sont placés. Ils sont chargés notamment de la surveillance des travaux neufs et d'entretien, de l'exploitation et de la police des voies navigables et de leurs dépendances.
+
+Les conducteurs des travaux publics de l'Etat (mécaniciens-électriciens) sont chargés de l'entretien et de l'exécution des réparations importantes des installations mécaniques, électriques, électroniques ou hydrauliques. Ils peuvent être chargés de la conduite de certaines installations. Ils sont placés soit sous l'autorité d'un chef de subdivision et doivent dans ce cas régler leurs activités conformément aux indications qui leur sont données par celui-ci sur l'exploitation de la voie, soit, dans les ports maritimes, sous l'autorité directe des officiers de port en ce qui concerne les opérations d'exploitation.
