@@ -1,3 +1,3 @@
 # Article 15
 
-Toute infraction aux dispositions des articles 1er à 5, 8 à 10 et 12 à 14 du présent décret sera punie des peines prévues aux articles R. 38 et R. 39 du code pénal.
+Toute infraction aux dispositions des articles 1er, 2, 13 et 14 du présent décret sera punie de la peine d'amende prévue pour les contraventions de la 4e classe.
