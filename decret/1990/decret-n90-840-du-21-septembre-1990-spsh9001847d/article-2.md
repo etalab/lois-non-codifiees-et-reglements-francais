@@ -4,12 +4,14 @@ Le classement indiciaire applicable au corps des adjoints des cadres hospitalier
 
 Indices bruts :
 
-Classe normale : 274-474 ;
+Classe normale (grade provisoire) : 298, 474 ;
 
-A compter du 1er août 1990 : 286-474 ;
+Classe normale, à compter du 1er août 1996 : 298, 544 ;
 
-A compter du 1er août 1992 : 298-474 ;
+Classe supérieure (grade provisoire) : 418, 533 ;
 
-Classe supérieure : 418-533 ;
+Classe supérieure, à compter du 1er août 1996 : 384, 579 ;
 
-Classe exceptionnelle : 384-579.
+Classe exceptionnelle (grade provisoire) : 384, 579 ;
+
+Classe exceptionnelle, à compter du 1er août 1994 : 425, 612.
