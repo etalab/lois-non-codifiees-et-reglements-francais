@@ -4,4 +4,4 @@
 
 2. Le préfet de police visé à l'article 1er (3) peut donner délégation de signature en ce qui concerne sa compétence d'ordonnateur secondaire du budget du ministère de l'intérieur et de l'aménagement du territoire dans les conditions prévues par le décret n° 71-1030 du 23 décembre 1971 susvisé.
 
-3. Le préfet de département peut donner délégation de signature en ce qui concerne sa compétence d'ordonnateur secondaire au directeur départemental de la sécurité publique pour les dépenses relatives aux services de police.
+" 3. Le préfet de département peut donner délégation de signature, en ce qui concerne sa compétence d'ordonnateur secondaire du budget du ministère de l'intérieur, aux directeurs et chefs de services départementaux de la police nationale, aux fins de procéder aux engagements juridiques et à la liquidation des dépenses, pour un montant n'excédant pas le seuil des marchés publics. "
