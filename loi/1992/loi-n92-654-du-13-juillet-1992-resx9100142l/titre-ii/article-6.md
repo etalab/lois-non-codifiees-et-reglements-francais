@@ -46,12 +46,8 @@ Quiconque met obstacle à l'exercice des fonctions des agents visés au IV du pr
 
 En cas de condamnation pour infraction aux dispositions du présent article, le tribunal peut ordonner aux frais du condamné la publication intégrale ou par extraits de sa décision, et éventuellement, la diffusion d'un message dont il fixe explicitement les termes, informant le public des motifs et du contenu de sa décision, dans un ou plusieurs journaux qu'il désigne, ainsi que son affichage dans les conditions et sous les peines prévues, suivant le cas, aux articles 51 et 471 du code pénal, sans toutefois que les frais de cette publicité puissent excéder le montant maximum de l'amende encourue.
 
-VI. - Toute demande d'agrément d'utilisation à des fins de recherche, d'enseignement ou de développement d'organismes génétiquement modifiés est assortie d'un versement représentatif des frais d'instruction.
+VI. - Toute demande d'agrément ou d'utilisation à des fins de recherche, d'enseignement ou de développement d'organismes génétiquement modifiés est assortie d'une taxe représentative des frais d'instruction et perçue au profit du budget général de l'Etat. Cette taxe est exigible lors du dép<CB>t du dossier. Jusqu'au 31 décembre 1992, elle est perçue au taux unique de 3 000 f.
 
-Le montant de ce versement est fonction de la nature de la demande et des difficultés de l'instruction.
+A compter du 1er janvier 1993, elle est fixée à 10 000 F par dossier. Son montant est réduit à 2 000 F lorsque la demande d'agrément concerne une utilisation confinée autre que la première.
 
-Ses taux et son assiette seront fixés par la loi de finances pour 1993.
-
-Toutefois, jusqu'au 1er janvier 1993, chaque demande d'agrément donne lieu à un versement représentatif des frais d'instruction au taux unique de 3 000 F.
-
-Le recouvrement et le contentieux du versement institué au présent paragraphe sont suivis par les comptables du Trésor selon les modalités fixées aux articles 81 à 95 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique dans leur rédaction en vigueur à la date de promulgation de la présente loi.
+Le recouvrement et le contentieux de la taxe instituée au présent article sont suivis par les comptables du Trésor selon les modalités fixées aux articles 81 à 95 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique dans leur rédaction en vigueur à la date de promulgation de la présente loi.
