@@ -340,8 +340,6 @@
 - [Arrêté du 17 février 1988 (INDA8800108A)](arrete-du-17-fevrier-1988-inda8800108a)
 - [Arrêté du 17 février 1988 (PTTT8800166A)](arrete-du-17-fevrier-1988-pttt8800166a)
 - [Arrêté du 17 juin 1988 (ASEH8800889A)](arrete-du-17-juin-1988-aseh8800889a)
-- [Arrêté du 17 juin 1988 (PTTP8800490A)](arrete-du-17-juin-1988-pttp8800490a)
-- [Arrêté du 17 juin 1988 (PTTP8800491A)](arrete-du-17-juin-1988-pttp8800491a)
 - [Arrêté du 17 mars 1988 (ASEE8803242A)](arrete-du-17-mars-1988-asee8803242a)
 - [Arrêté du 17 mars 1988 (ASEI8800413A)](arrete-du-17-mars-1988-asei8800413a)
 - [Arrêté du 17 mars 1988 (DEFP8801150A)](arrete-du-17-mars-1988-defp8801150a)
