@@ -6,7 +6,7 @@ II. - La réparation intégrale des dommages corporels résultant des actes vis�
 
 Ce fonds, doté de la personnalité civile, est alimenté par un prélèvement sur les contrats d'assurance de biens dans des conditions définies par décret en Conseil d'Etat.
 
-Il est subrogé dans les droits que possède la victime contre la personne responsable du dommage.
+Il est subrogé dans les droits que possède la victime contre la personne responsable du dommage ainsi que contre les personnes tenues à un titre quelconque d'en assurer la réparation totale ou partielle, dans la limite du montant des prestations à la charge desdites personnes.
 
 Un décret en Conseil d'Etat fixe ses conditions de constitution et ses règles de fonctionnement.
 

@@ -20,7 +20,7 @@ Il n'y a toutefois pas lieu de procéder à cette mise en demeure :
 
 - si le contribuable ne s'est pas fait connaître d'un centre de formalités des entreprises ou du greffe du tribunal de commerce ou d'un organisme consulaire.
 
-III. - Dans la limite du dégrèvement ou de la restitution sollicités, le contribuable peut faire valoir tout moyen nouveau, tant devant le tribunal administratif que devant le Conseil d'Etat, jusqu'à la clôture de l'instruction.
+III. - L'administration, ainsi que le contribuable dans la limite du dégrèvement ou de la restitution sollicités, peuvent faire valoir tout moyen nouveau, tant devant le tribunal administratif que devant le Conseil d'Etat, jusqu'à la clôture de l'instruction. Il en est de même devant le tribunal de grande instance. Ces dispositions sont applicables aux instances en cours. En ce qui concerne les instances devant le juge administratif, elles s'appliquent à tous les moyens nouveaux présentés depuis le 1er janvier 1987.
 
 IV. - La décision d'appliquer les majorations ou l'amende prévues aux articles 1729 et 1731 du code général des impôts est prise par un agent ayant au moins le grade d'inspecteur principal qui vise à cet effet le document comportant la motivation des pénalités.
 
