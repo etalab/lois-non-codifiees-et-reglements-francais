@@ -58,4 +58,4 @@ COMPOSITION DES LOGEMENTS :
 
 SURFACES HABITABLES minimales : 121 mètres carrés.
 
-L'appréciation de la qualité selon la méthode Qualitel est rendue obligatoire pour toutes les opérations de plus de soixante-quinze logements dont la décision de financement sera postérieure au 1er juillet 1977.
+L'appréciation de la qualité selon la méthode Qualitel est rendue obligatoire pour toutes les opérations de plus de soixante-quinze logements dont la décision de financement sera postérieure au 1er juillet 1977 [*champ d'application, date*].
