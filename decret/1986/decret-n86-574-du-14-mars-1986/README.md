@@ -12,6 +12,7 @@
 - [CHAPITRE X : Commission paritaire.](chapitre-x)
 - [CHAPITRE XI : Discipline, sanctions.](chapitre-xi)
 - [CHAPITRE XII : Licenciement.](chapitre-xii)
+- [CHAPITRE XIII : Réforme.](chapitre-xiii)
 - [CHAPITRE XV : Dispositions diverses.](chapitre-xv)
 - [CHAPITRE XIV : Retraites et assurances.](chapitre-xiv)
 - [Article 43](article-43.md)
