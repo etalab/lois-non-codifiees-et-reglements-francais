@@ -49,6 +49,7 @@
 - [Décret n°67-236 du 23 mars 1967](decret-n67-236-du-23-mars-1967)
 - [Décret n°67-237 du 23 mars 1967](decret-n67-237-du-23-mars-1967)
 - [Décret n°67-259 du 23 mars 1967](decret-n67-259-du-23-mars-1967)
+- [Décret n°67-265 du 23 mars 1967](decret-n67-265-du-23-mars-1967)
 - [Décret n°67-624 du 23 juillet 1967](decret-n67-624-du-23-juillet-1967)
 - [Décret n°67-817 du 23 septembre 1967](decret-n67-817-du-23-septembre-1967)
 - [Décret n°67-818 du 23 septembre 1967](decret-n67-818-du-23-septembre-1967)
