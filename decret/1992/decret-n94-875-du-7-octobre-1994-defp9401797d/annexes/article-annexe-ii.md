@@ -6,7 +6,7 @@ DU DÉCRET N° 92-207 DU 4 MARS 1992
 
 Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
-II-11. Chargé de mission " affaires civiles " auprès d'un général commandant de région militaire, du général commandant les forces françaises et l'élément civil stationnés en Allemagne et d'un général commandant une circonscription militaire de défense (sauf lorsque ces fonctions sont exercées par des agents appartenant à un corps dont le dernier échelon est doté d'un indice brut supérieur à 901) ;
+II-11. Chargé de mission " affaires civiles " auprès d'un général commandant de région militaire, du général commandant les forces françaises et l'élément civil stationnés en Allemagne et d'un général commandant une région terre (sauf lorsque ces fonctions sont exercées par des agents appartenant à un corps dont le dernier échelon est doté d'un indice brut supérieur à 901) ;
 
 II-12. Chef de bureau et assimilé dans les domaines personnels civils, formation, contentieux, affaires juridiques, logement, logistique (sauf lorsque ces fonctions sont exercées par des agents appartenant à un corps dont le dernier échelon est doté d'un indice brut supérieur à 901) ;
 

@@ -4,7 +4,7 @@ Les préfets, le préfet de police, les préfets adjoints pour la sécurité, le
 
 1° Lorsque le premier président de la Cour de cassation ou le procureur général près la même cour est installé, les délégations de la cour d'appel et de chacun des tribunaux de l'ordre judiciaire qui siègent à Paris leur rendent une visite ;
 
-2° Le préfet, le préfet de police, le général commandant la circonscription militaire de défense, le préfet maritime, le préfet adjoint pour la sécurité, le préfet délégué pour la sécurité et la défense, le recteur d'académie et le secrétaire général de la préfecture reçoivent, à l'occasion de leur prise de fonctions, la visite de tous les directeurs des services déconcentrés de l'Etat et des administrations des collectivités locales qui sont dénommés après eux dans l'ordre des préséances ;
+2° Le préfet, le préfet de police, le général commandant la région terre, le préfet maritime, le préfet adjoint pour la sécurité, le préfet délégué pour la sécurité et la défense, le recteur d'académie et le secrétaire général de la préfecture reçoivent, à l'occasion de leur prise de fonctions, la visite de tous les directeurs des services déconcentrés de l'Etat et des administrations des collectivités locales qui sont dénommés après eux dans l'ordre des préséances ;
 
 3° Le président de la cour administrative d'appel, le premier président de la cour d'appel, le procureur général près la même cour, le président du tribunal administratif, le président de la chambre régionale des comptes et le recteur reçoivent, de même, la visite de tous les chefs de juridictions et de tous les directeurs des services déconcentrés de l'Etat et des administrations des collectivités locales qui sont dénommés après eux dans l'ordre des préséances ;
 

@@ -88,7 +88,7 @@ Chef de groupe d'étude et de recherche opérationnelle.
 
 II = Officier
 
-Chef de bureau et chef de section en état-major de région militaire de défense, de circonscription militaire de défense, du corps d'armée et de la force d'action rapide.
+Chef de bureau et chef de section en état-major de région terre, de région terre, du corps d'armée et de la force d'action rapide.
 
 II = Officier
 
@@ -96,7 +96,7 @@ Officier de programme à l'état-major de l'armée de terre, à la section techn
 
 II = Officier
 
-Chef de poste de la direction de la protection et de la sécurité de la défense en région militaire de défense (Partin).
+Chef de poste de la direction de la protection et de la sécurité de la défense en région terre (Partin).
 
 II = Officier
 
@@ -858,7 +858,7 @@ Commandant d'un établissement des matériels de mobilisation.
 
 II = Officier
 
-Commandant du bureau central de gestion et d'administration des personnels civils.
+Commmandant du bureau central de gestion et d'administration des personnels civils.
 
 II = Officier
 

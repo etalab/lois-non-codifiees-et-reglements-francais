@@ -54,7 +54,7 @@ A Paris, lorsque les membres des corps et les autorités assistent aux cérémon
 
 26° Le président de la cour administrative d'appel de Paris, le premier président de la cour d'appel de Paris et le procureur général près cette cour ;
 
-27° Le délégué général pour l'armement, le secrétaire général pour l'administration du ministère de la défense, le chef d'état-major de l'armée de terre, le chef d'état-major de la marine, le chef d'état-major de l'armée de l'air, le gouverneur militaire de Paris, commandant militaire de l'Ile-de-France ;
+27° Le délégué général pour l'armement, le secrétaire général pour l'administration du ministère de la défense, le chef d'état-major de l'armée de terre, le chef d'état-major de la marine, le chef d'état-major de l'armée de l'air, le gouverneur militaire de Paris, commandant de la région terre Ile-de-France ;
 
 28° Le président du Conseil supérieur de l'audiovisuel ;
 
