@@ -1,49 +1,71 @@
-# Article ANNEXE I
+# Article Annexe I
 
-Emplois classés dans l'échelle E 1 de rémunération
+Emplois. Emplois classés dans les groupes I et II de rémunération.
 
-Durée d'ancienneté dans chaque échelon ===============================================================
+Durée d'ancienneté dans chaque échelon. :============================================================:
 
 <table>
 <tr>
-<td> :     ECHELONS    :    DUREE MAXIMALE   :    DUREE MINIMALE   :</td>
+<td> :    ECHELONS    :    DUREE MAXIMUM    :    DUREE MINIMUM    :</td>
 </tr>
 <tr>
-<td> :-----------------:---------------------:---------------------:</td>
+<td> :----------------:---------------------:---------------------:</td>
 </tr>
 <tr>
-<td> : 1er échelon     :       1 an          :      1 an           :</td>
+<td> : 1er échelon    :    1 an             :    1 an.            :</td>
 </tr>
 <tr>
-<td> : 2è échelon      :       2 ans         :      1 an 6 mois    :</td>
+<td> :                :                     :                     :</td>
 </tr>
 <tr>
-<td> : 3è échelon      :       3 ans         :      2 ans          :</td>
+<td> : 2ème échelon   :    2 ans            :    1 an 6 mois.     :</td>
 </tr>
 <tr>
-<td> : 4è échelon      :       3 ans         :      2 ans          :</td>
+<td> :                :                     :                     :</td>
 </tr>
 <tr>
-<td> : 5è échelon      :       4 ans         :      3 ans          :</td>
+<td> : 3ème échelon   :    3 ans            :    2 ans.           :</td>
 </tr>
 <tr>
-<td> : 6è échelon      :       4 ans         :      3 ans          :</td>
+<td> :                :                     :                     :</td>
 </tr>
 <tr>
-<td> : 7è échelon      :       4 ans         :      3 ans          :</td>
+<td> : 4ème échelon   :    3 ans            :    2 ans.           :</td>
 </tr>
 <tr>
-<td> : 8è échelon      :       4 ans         :      3 ans          :</td>
+<td> :                :                     :                     :</td>
 </tr>
 <tr>
-<td> : 9è échelon      :         -           :        -            :</td>
+<td> : 5ème échelon   :    4 ans            :    3 ans.           :</td>
 </tr>
 <tr>
-<td> :                 :---------------------:---------------------:</td>
+<td> :                :                     :                     :</td>
 </tr>
 <tr>
-<td> :     Total       :      25 ans         :     18 ans 6 mois   :</td>
+<td> : 6ème échelon   :    4 ans            :    3 ans.           :</td>
+</tr>
+<tr>
+<td> :                :                     :                     :</td>
+</tr>
+<tr>
+<td> : 7ème échelon   :    4 ans            :    3 ans.           :</td>
+</tr>
+<tr>
+<td> :                :                     :                     :</td>
+</tr>
+<tr>
+<td> : 8ème échelon   :                     :                     :</td>
+</tr>
+<tr>
+<td> :                :  -----------------  :  -----------------  :</td>
+</tr>
+<tr>
+<td> :                :                     :                     :</td>
+</tr>
+<tr>
+<td> :     TOTAL      :   21 ans            :   15 ans 6 mois.    :</td>
+</tr>
+<tr>
+<td> :============================================================:</td>
 </tr>
 </table>
-
-===============================================================
