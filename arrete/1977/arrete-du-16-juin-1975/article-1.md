@@ -1,11 +1,9 @@
 # Article 1
 
-Les superficies minimum d'installation en polyculture visées à l'article 188-3 du Code rural sont fixées ainsi qu'il suit pour le département de la Corrèze (en hectares) :
+Les surfaces minima d'installation en polyculture visées à l'article 188-3 du Code rural sont fixées ainsi qu'il suit pour le département de l'Oise (en hectares) :
 
-Causses, Périgord blanc, bas pays de Brive : 15,40
+Pays de Bray, Picardie verte, Noyonnais : 30
 
-Haut-Limousin et Plateau Sud-Est Limousin Sud : 18
+Clermontois, vallée de l'Oise, plateau Picard, Soissonnais, vallée de l'Automne, pays de Thelle : 40
 
-Plateau de Millevaches : 34
-
-Reste du département : 24.
+Valois, Multien, Vexin : 50.
