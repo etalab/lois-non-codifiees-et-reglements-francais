@@ -1,0 +1,3 @@
+# Article 32
+
+Le préfet de région délivre aux candidats déclarés admis le diplôme d'Etat d'infirmier anesthésiste. Il délivre aux candidats visés à l'article 9 du présent arrêté une attestation de réussite aux épreuves visées à l'article 28 du présent arrêté. Cette attestation, dont le modèle figure en annexe IV du présent arrêté, mentionne que son titulaire ne peut exercer en France ni en qualité d'infirmier, ni en qualité d'infirmier anesthésiste. Elle peut toutefois être échangée contre le diplôme d'Etat d'infirmier anesthésiste dès que son titulaire remplit les conditions exigées pour exercer la profession d'infirmier ou de sage-femme en France.

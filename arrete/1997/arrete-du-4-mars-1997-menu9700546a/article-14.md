@@ -1,3 +1,5 @@
 # Article 14
 
-Les étudiants reprenant des études commencées dans le cadre d'une des réglementations fixées en application du décret du 6 mars 1934 portant réorganisation des études médicales en vue du doctorat en médecine, du décret n° 60-759 du 28 juillet 1960 modifié portant réforme du régime des études et des examens en vue du doctorat en médecine, ou de l'arrêté du 24 juillet 1970 susvisé, doivent satisfaire, sous réserve des dispositions de la loi du 20 juillet 1992 et du décret du 23 août 1985 susvisés, aux conditions d'études actuellement en vigueur.
+Les dispositions du présent arrêté sont applicables à partir de l'année universitaire 2002-2003 aux étudiants s'inscrivant en deuxième partie du deuxième cycle.
+
+Les étudiants inscrits en deuxième partie du deuxième cycle des études médicales avant l'année universitaire 2002-2003 sont, en cas de reprise d'études ou de non-validation d'une année d'études, soumis aux dispositions du présent arrêté lorsque celles-ci sont applicables à l'année d'études à laquelle ils s'inscrivent.

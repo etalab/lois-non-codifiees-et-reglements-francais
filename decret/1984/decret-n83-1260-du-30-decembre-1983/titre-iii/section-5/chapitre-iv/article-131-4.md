@@ -1,0 +1,3 @@
+# Article 131-4
+
+Les adjoints administratifs de la recherche qui ont été intégrés dans le grade d'agent technique principal de la recherche en application de l'article 250 du présent décret peuvent, sur leur demande et après avis de la commission administrative paritaire compétente, être intégrés dans le grade provisoire d'adjoint technique de la recherche. Cette intégration se fait à identité d'échelon avec conservation de l'ancienneté acquise dans cet échelon. Les services effectués dans le corps d'adjoint administratif de la recherche et dans le grade d'agent technique principal de la recherche par les intéressés sont assimilés à des services effectués en qualité d'adjoint technique de la recherche.
