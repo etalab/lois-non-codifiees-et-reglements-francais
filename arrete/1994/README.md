@@ -80,6 +80,7 @@
 - [Arrêté du 6 janvier 1994 (BUDR9405002A)](arrete-du-6-janvier-1994-budr9405002a)
 - [Arrêté du 6 janvier 1994 (BUDR9405003A)](arrete-du-6-janvier-1994-budr9405003a)
 - [Arrêté du 6 mai 1994 (ECOT9451349A)](arrete-du-6-mai-1994-ecot9451349a)
+- [Arrêté du 6 mai 1994 (RESM9400599A)](arrete-du-6-mai-1994-resm9400599a)
 - [Arrêté du 7 avril 1994 (ECOC9400030A)](arrete-du-7-avril-1994-ecoc9400030a)
 - [Arrêté du 7 décembre 1994 (SPSG9402970A)](arrete-du-7-decembre-1994-spsg9402970a)
 - [Arrêté du 7 février 1994 (BUDD9470002A)](arrete-du-7-fevrier-1994-budd9470002a)
