@@ -10,4 +10,4 @@ Les avancements au grade d'ingénieur d'études de 1re classe sont prononcés pa
 
 Peuvent accéder, au choix, au grade d'ingénieur d'études de 1re classe, les ingénieurs d'études qui ont été inscrits par le ministre de l'éducation nationale, sur proposition des présidents, directeurs ou responsables d'établissement, après avis de la commission administrative paritaire du corps, sur un tableau d'avancement annuel comportant un nombre de noms qui ne peut être supérieur de plus de 20 p. cent à celui des emplois vacants ou susceptibles de le devenir dans le grade d'ingénieur d'études de 1re classe.
 
-Pour pouvoir être inscrits au tableau d'avancement, les ingénieurs d'études doivent avoir accompli au moins un an au 8e échelon de la 2e classe de ce grade et justifier dans ce grade d'au moins neuf années de services effectifs.
+Pour pouvoir être inscrits au tableau d'avancement, les ingénieurs d'études doivent avoir accompli au moins un an au 8e échelon de la 2e classe de ce grade et justifier d'au moins neuf années de services effectifs en catégorie A.

@@ -12,8 +12,6 @@ Les ingénieurs et les personnels techniques de recherche et de formation du min
 
 - le corps des adjoints techniques de recherche et de formation ;
 
-- les corps des agents techniques de recherche et de formation ;
-
-- le corps des aides techniques de recherche et de formation.
+- le corps des agents techniques de recherche et de formation ;
 
 - le corps des agents des services techniques de recherche et de formation.

@@ -7,6 +7,5 @@
 - [Section V : Dispositions statutaires relatives au corps des adjoints techniques de recherche et de formation du ministère de l'éducation nationale](section-v)
 - [Section VI : Dispositions statutaires relatives au corps des agents techniques de recherche et de formation du ministère de l'éducation nationale](section-vi)
 - [Section VI bis : Dispositions relatives au corps des agents des services techniques de recherche et de formation du ministère de l'éducation nationale](section-vi-bis)
-- [Section VII : Dispositions relatives au corps des aides techniques de recherche et de formation du ministère de l'éducation nationale](section-vii)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)

@@ -28,9 +28,11 @@ Les concours mentionnés au 1° de l'article 25 sont organisés dans les conditi
 
 Ces concours sont également ouverts :
 
+-Aux candidats titulaires d'un diplôme homologué au niveau II en application des dispositions du décret n° 92-23 du 8 janvier 1992 relatif à l'homologation des titres et des diplômes de l'enseignement technologique ;
+
 - aux candidats titulaires d'un titre universitaire étranger jugé équivalent, pour l'application du présent décret, par la commission mentionnée à l'article 15, à l'un des diplômes ci-dessus ;
 
-- aux candidats justifiant qu'ils possèdent dans l'industrie une qualification professionnelle jugée équivalente, par la commission mentionnée à l'article 15, à un diplôme d'ingénieur.
+- aux candidats justifiant qu'ils possèdent une qualification professionnelle jugée équivalente, par la commission mentionnée prévue au dernier alinéa du 1 de l'article 15, à un diplôme d'ingénieur.
 
 2° Des concours internes sont ouverts :
 
@@ -38,6 +40,6 @@ a) Aux assistants ingénieurs, aux techniciens et aux secrétaires d'administrat
 
 b) Aux fonctionnaires régis par des statuts particuliers pris en application de la loi du 15 juillet 1982 susvisée, appartenant à un corps d'assistants ingénieurs, de techniciens ou de secrétaires d'administration remplissant les conditions de services fixées au a ;
 
-c) Aux fonctionnaires appartenant à un corps dont l'échelonnement indiciaire est au moins équivalent à celui d'un corps de catégorie B et remplissant les conditions de services fixées au a, dont deux années dans un service ou un établissement relevant des ministères chargés de l'éducation nationale, de l'enseignement supérieur, de la recherche ou de la jeunesse et des sports ;
+c) Aux fonctionnaires appartenant à un corps dont l'échelonnement indiciaire est au moins équivalent à celui d'un corps de catégorie B et remplissant les conditions de services fixées au a ;
 
-d) Aux agents non titulaires appartenant à une catégorie dotée d'indices de traitement au moins équivalents à ceux des corps mentionnés au a et remplissant les conditions de services et d'exercice des fonctions mentionnées au c.
+d) Aux agents non titulaires assurant des fonctions du niveau de la catégorie A ou B, dotés d'une rémunération au moins équivalente à celle des corps mentionnés au a et remplissant les mêmes conditions de services.
