@@ -1,0 +1,7 @@
+# Article Annexe, art. 18
+
+Le directeur est chargé, sous sa responsabilité, de la direction et de la surveillance de toutes les parties du service [*attributions*].
+
+Il remplit les fonctions d'ordonnateur, prépare et présente les budgets primitifs et supplémentaires, le règlement définitif des budgets de l'exercice clos, les comptes administratifs et tous actes, titres et documents concernant l'administration et la comptabilité de l'établissement dans les conditions déterminées par le règlement sur la comptabilité des caisses de crédit municipal et monts-de-piété.    Il reçoit les réclamations, déclarations et oppositions qui peuvent être faites relativement à la délivrance ou à la vente des objets engagés.
+
+Il peut accorder des sursis à la vente desdits objets. Toutefois, pour les prêts supérieurs à 1000 francs, le sursis ne pourra être accordé qu'après avis du ou des appréciateurs responsables des déficits de vente, dans les conditions fixées par l'article 28 du présent règlement, et, d'autre part, après approbation de l'administrateur surveillant, si la durée est supérieure à un mois.    Au cas où l'appréciation émettrait un avis défavorable, le directeur ne pourrait passer outre qu'après contre-expertise et autorisation expresse de l'administrateur surveillant. Dans ce cas, la responsabilité de l'appréciateur, telle qu'elle est réglée par l'article 29 ci-après, n'est pas engagée.
