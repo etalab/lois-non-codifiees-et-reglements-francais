@@ -12,8 +12,6 @@ Les services interétablissements de coopération documentaire des académies de
 
 - la bibliothèque interuniversitaire de pharmacie ;
 
-- la bibliothèque d'art et d'archéologie ;
-
 - la bibliothèque de documentation internationale contemporaine ;
 
 - la bibliothèque des langues orientales ;
