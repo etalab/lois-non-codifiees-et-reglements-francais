@@ -1,3 +1,5 @@
 # Article 43
 
-Tout agent qui recherche un emploi ou un poste d'avancement obtient, sur sa demande écrite, du centre de gestion un extrait du répertoire des déclarations de vacances pour l'emploi recherché. Cet extrait est délivré sans frais.
+Lorsqu'une vacance d'emploi survient de façon inopinée, l'autorité investie du pouvoir de nomination en fait immédiatement la déclaration au centre de gestion.
+
+Si la vacance résulte d'un événement prévisible, la déclaration est faite, dans les mêmes conditions, dès que sa date est certaine.
