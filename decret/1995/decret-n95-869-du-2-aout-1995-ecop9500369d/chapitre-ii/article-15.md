@@ -8,4 +8,4 @@ Toutefois, si antérieurement ils étaient fonctionnaires civils, agents civils 
 
 La durée de prolongation de la formation théorique visée au premier alinéa du présent article ne peut excéder un an.
 
-Les anciens inspecteurs stagiaires du Trésor public qui ont été licenciés parce que leur formation théorique à l'Ecole nationale du Trésor public a été jugée insuffisante ne sont plus admis à se présenter à un concours de catégorie A des services déconcentrés du Trésor.
+Les anciens inspecteurs stagiaires du Trésor public qui ont été licenciés parce que leur formation théorique à l'Ecole nationale du Trésor public a été jugée insuffisante ne sont plus admis à se présenter à un concours d'inspecteur stagiaire du Trésor public.

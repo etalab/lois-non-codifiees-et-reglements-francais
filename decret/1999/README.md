@@ -10,6 +10,8 @@
 - [Décret n°99-161 du 2 mars 1999 (MAEA9820438D)](decret-n99-161-du-2-mars-1999-maea9820438d)
 - [Décret n°99-169 du 2 mars 1999 (FPPA9910001D)](decret-n99-169-du-2-mars-1999-fppa9910001d)
 - [Décret n°99-255 du 2 avril 1999 (PRMX9903471D)](decret-n99-255-du-2-avril-1999-prmx9903471d)
+- [Décret n°99-260 du 2 avril 1999 (ECOC9800092D)](decret-n99-260-du-2-avril-1999-ecoc9800092d)
+- [Décret n°99-261 du 2 avril 1999 (ECOP9900081D)](decret-n99-261-du-2-avril-1999-ecop9900081d)
 - [Décret n°99-66 du 2 février 1999 (ECOI9801125D)](decret-n99-66-du-2-fevrier-1999-ecoi9801125d)
 - [Décret n°99-68 du 2 février 1999 (PRMX9903385D)](decret-n99-68-du-2-fevrier-1999-prmx9903385d)
 - [Décret n°99-69 du 2 février 1999 (ECOT9951772D)](decret-n99-69-du-2-fevrier-1999-ecot9951772d)
