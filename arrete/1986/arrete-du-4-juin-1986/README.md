@@ -1,6 +1,5 @@
 # Arrêté du 4 juin 1986 relatif au livre généalogique des races françaises de chevaux de selle
 
-- [Titre 1er : Stud-book français du cheval arabe.](titre-1er)
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
