@@ -1136,7 +1136,7 @@ SERMI :
 
 - 76600 Le Havre : depuis 1960.
 
-Service technique atelier et magasin du Port autonome de Rouen, 34, boulevard Boisguilbert, BP 4075, 76100 Rouen : de 1947 à 1997.
+Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard , BP 4075, 76100 Rouen : de 1947 à 1997.
 
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome du Havre, 76600 Le Havre : depuis 1947.
 
@@ -1218,7 +1218,7 @@ Compagnie des sablières de la Seine (CSS). 18, avenue Pierre-Morin, 91270 Vigne
 
 Compagnie des sablières de la Seine (CSS). 2, route de Chatilon 91210 Draveil. De 1947 à 1989.
 
-Entrepose : 125, rue de Saussure, 75017 Paris Cedex 17 : de 1950 à 1985.
+Entrepose : 125, rue de Saussure, 75017 Paris Cedex 17, 15, rue Saint-Denis, 93120 La Courneuve : de 1950 à 1985.
 
 EREPS :
 
@@ -1304,6 +1304,8 @@ Lorraine
 
 BURG Industrie 6, rue de Méric, 57000 Metz. De 1992 à 1994.
 
+DHIM, 21, rue du Général-Gauchois, 57150 Creutzwald, de 1970 à 1976.
+
 Société Construction maintenance industrielle (CMI), 1, rue du Général-Mangin, 57000 Metz : de 1970 à 1975.
 
 Nord - Pas-de-Calais
@@ -1313,6 +1315,8 @@ ADRN :
 - 59140 Dunkerque : de 1960 à 1986.
 
 AMA (Appareils de manutention et accessoires), ZI de L'Inquetrie, 62220 Saint-Martin-lez-Boulogne : de 1979 à 1987.
+
+AMTIM (Ateliers métropolitains de travaux industriels et maritimes), quartier Bagatelle, Rosendaël, 59640 Dunkerque, de 1958 à 1971.
 
 Armor Marine :
 
@@ -1406,17 +1410,15 @@ COMSIP :
 
 - BP 27, 59375 Dunkerque : de 1960 à 1980.
 
-Consortium de l'omnium peinture et de travaux maritimes et terrestres (COPTMT). 3, rue de l'Ecole-maternelle, 59140 Dunkerque. De 1953 à 1982
+Consortium de l'omnium peinture et de travaux maritimes et terrestres (COPTMT). 3, rue de l'Ecole-maternelle, 59140 Dunkerque. De 1953 à 1982.
+
+Construction mécanique de la Côte d'Opale (CMCO), 1, rue Huret-Lagache, 62360 Condette, puis 82, rue Constantine, 62000 Boulogne-sur-Mer, depuis 1980.
 
 Constructions et réparations navales du Nord :
 
 - 25, rue de Cronstadt, 62100 Calais : depuis 1956.
 
 CTD (Chaudronnerie tuyauterie dunkerquoise), 18, rue Alfred-Dumont, 59140 Dunkerque : de 1979 à 1984.
-
-SCOP - Travaux peinture maritime terrestre (TPMT) :
-
-- 20, rue du Chemin-de-Fer, 59140 Dunkerque : de 1982 à 1995.
 
 Delattre Levivier :
 
@@ -1463,6 +1465,8 @@ Entreprise Vandaele :
 - parc Courtimmo, 62231 Coquelles : depuis 1961.
 
 Entrepose, zone industrielle de Petite-Synthe, rue Achille-Péres, 59140 Dunkerque : depuis 1987.
+
+Entretien et réparation maritime (ERM), route de l'Ecluse-Watier, 59640 Dunkerque, de 1978 à 1990.
 
 Etablissements Blamengin :
 
@@ -1626,6 +1630,8 @@ Peinture Industrie Décapage Marine (PIDM) :
 
 Perrault Jean. Boulevard Bigot-Descelers 62630 Etaples-sur-Mer. Depuis 1957 à 1985.
 
+Poussin-Nord, 35-36, rue Waldeck-Rousseau, 59210 Coudekerque-Branche, de 1976 à 1982.
+
 Ridez Robert, Boulogne carénage/Boulogne carénage, Terlincthum, 62930 Wimereux : de 1966 à 1992.
 
 Roussey/Raymond/ Baugeois Jean (anciens établissements roussey) / Etablissements Bisiaux 7-9 rue de Magenta 62200 Boulogne-sur-Mer Depuis 1964
@@ -1638,6 +1644,10 @@ SAINEE :
 
 - quai de Panama, 59140 Dunkerque : depuis 1985.
 
+SCOP - Travaux peinture maritime terrestre (TPMT) :
+
+- 20, rue du Chemin-de-Fer, 59140 Dunkerque : de 1982 à 1995.
+
 SNEF Electrix Flux :
 
 - 25, rue de Calais, 59140 Dunkerque : depuis 1952.
@@ -1649,6 +1659,8 @@ SEPATIM/SOCANOR :
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Dunkerque, terre-plein Guillain, BP 6534, 59386 Dunkerque : depuis 1947.
 
 SFEM (Société de fabrication et d'entretien métalliques), 59760 Grande-Synthe et 7, route de Mardyck, 59380 Spycker : de 1986 à 2000
+
+SICEM (Société industrielle de chaudronnerie, tuyauterie, entretien, usinage mécanique), rue Vancauwenberghe, ZI de Petite-Synthe, 59640 Dunkerque, de 1981 à 1989.
 
 SISE (Société industrielle de soudure et d'entretien), quai Freycinet 3, môle 1, 59140 Dunkerque : depuis 1979.
 

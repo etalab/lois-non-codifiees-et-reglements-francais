@@ -112,7 +112,7 @@ Gestal/société Allaire/Allaire Gestal :
 
 - ZA de Pedras, 44117 Saint-André-des-Eaux : de 1945 à 1975.
 
-Hériaud, 85460 Aiguillon-sur-Mer, de 1946 à 1995.
+Hériaud : 85110 Les Sables-d'Olonne, de 1946 à 1995.
 
 Isopeint :
 
@@ -131,6 +131,8 @@ Mac Gegor :
 Mahe :
 
 - ZI Villejanus, rue des Saveurs, 44350 Guérande : depuis sa création.
+
+Masson SA, quai de la Cabaude, 85100 Les Sables-d'Olonne, depuis 1972.
 
 Marine électronique atlantique (MEA), 70, quai de la Fosse, 44000 Nantes, de sa création à 1988.
 
@@ -257,6 +259,8 @@ Albert Villani et Fils/Villani :
 AMI (Alliance maritime interprofessionnelle) Quartier La Dabry RN 8 83330 Le Beausset De 1960 à 1985.
 
 AMM (Approvisionnement Maintenance Méditerranée), SARL AMM Poggioli, 23, traverse Santi, Marseille, de 1985 à 2002.
+
+AMTIM (Ateliers métropolitains de travaux industriels et maritimes), 9, boulevard Pons, 13000 Marseille, de 1958 à 1971.
 
 Antirouille/CERI antirouille ZI. 1re rue n° 18, BP 2003, Vitrolles. Depuis 1982.
 
