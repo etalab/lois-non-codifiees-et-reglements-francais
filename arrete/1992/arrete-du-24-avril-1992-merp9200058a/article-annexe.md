@@ -26,7 +26,7 @@
 </td>
 <td>Boulogne-sur-Mer (Pas de Calais)</td>
 <td>
-<p align="center">20</p>
+<p align="center">26</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@
 </td>
 <td>Rannes (ille-et-Vilaine)</td>
 <td>
-<p align="center">40</p>
+<p align="center">70</p>
 </td>
 </tr>
 <tr>
