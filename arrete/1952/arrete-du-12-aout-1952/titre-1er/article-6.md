@@ -1,3 +1,0 @@
-# Article 6
-
-Les établissements autorisés à recevoir des enfants de moins de trois ans ou plus de trente enfants de trois à six ans doivent comporter, en outre, une salle de repos de dimension suffisante pour qu'elle puisse permettre le repos de tous les enfants âgés de trois à six ans ; cette salle doit comporter un lit de repos [*nombre*] pour chaque enfant de moins de trois ans et un lit de repos, au minimum, pour dix enfants plus âgés. Cette salle est contiguë à l'une des salles de séjour et séparée de celle-ci par une cloison en partie vitrée, afin de permettre une surveillance facile des enfants.
