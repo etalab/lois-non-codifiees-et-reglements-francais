@@ -1,0 +1,3 @@
+# Article 2
+
+Nul ne pourra exercer l'enseignement des enfants sourds dans les instituts nationaux de jeunes sourds, dans les établissements publics de sourds ainsi que dans les établissements privés de sourds visés par l'annexe XXIV quater du décret du 9 mars 1956 modifié, s'il n'est titulaire soit du diplôme d'Etat institué à l'article 1er du présent décret, soit du certificat d'aptitude à l'enseignement des sourds-muets d'Asnières prévu par l'arrêté du 3 mars 1948, soit de l'un des trois diplômes attestant une qualification d'enseignant des sourds prévus à l'article 1er du décret n° 74-465 du 15 mai 1974.
