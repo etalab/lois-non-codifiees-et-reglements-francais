@@ -1,0 +1,3 @@
+# Article 6
+
+La subvention publique de l'Etat est accordée sur la base des dépenses effectuées l'année précédente et des besoins exprimés pour l'année en cours au plus tard le 31 janvier. Elle est versée par tranches annuelles, la première le 30 mars de l'année considérée dont le montant correspond à 65 % de la dotation globale, la seconde le 30 septembre correspond au solde. Elle inclut les frais de gestion, de fonctionnement et de personnels y afférent. A cet effet, les reports de crédits sont soumis au visa du contrôleur d'Etat du Comité national des pêches maritimes et des élevages marins. Un état des crédits non reportés est également soumis au visa du contrôleur d'Etat. Ces crédits peuvent donner lieu à réinscription au budget prévisionnel de l'exercice suivant.

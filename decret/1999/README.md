@@ -158,6 +158,7 @@
 - [Décret n°99-32 du 11 janvier 1999 (MAEJ9830116D)](decret-n99-32-du-11-janvier-1999-maej9830116d)
 - [Décret n°99-486 du 11 juin 1999 (MESP9921746D)](decret-n99-486-du-11-juin-1999-mesp9921746d)
 - [Décret n°99-487 du 11 juin 1999 (JUSX9903593D)](decret-n99-487-du-11-juin-1999-jusx9903593d)
+- [Décret n°99-492 du 11 juin 1999 (MESS9921482D)](decret-n99-492-du-11-juin-1999-mess9921482d)
 - [Décret n°99-91 du 11 février 1999 (EQUA9801713D)](decret-n99-91-du-11-fevrier-1999-equa9801713d)
 - [Décret n°99-92 du 11 février 1999 (INTB9900017D)](decret-n99-92-du-11-fevrier-1999-intb9900017d)
 - [Décret n°99-361 du 11 mai 1999 (AGRS9900791D)](decret-n99-361-du-11-mai-1999-agrs9900791d)
