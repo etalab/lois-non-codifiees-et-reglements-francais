@@ -196,7 +196,6 @@
 - [Décret n°82-636 du 21 juillet 1982](decret-n82-636-du-21-juillet-1982)
 - [Décret n°83-214 du 21 mars 1983](decret-n83-214-du-21-mars-1983)
 - [Décret n°84-127 du 21 février 1984](decret-n84-127-du-21-fevrier-1984)
-- [Décret n°82-423 du 21 mai 1982](decret-n82-423-du-21-mai-1982)
 - [Décret n°82-428 du 21 mai 1982](decret-n82-428-du-21-mai-1982)
 - [Décret n°82-103 du 22 janvier 1982](decret-n82-103-du-22-janvier-1982)
 - [Décret n°82-1100 du 22 décembre 1982](decret-n82-1100-du-22-decembre-1982)
