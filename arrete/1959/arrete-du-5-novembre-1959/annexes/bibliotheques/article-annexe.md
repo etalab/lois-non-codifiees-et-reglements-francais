@@ -42,7 +42,9 @@ ECHELONS (INDICES BRUTS) : Echelon 1 = 340, Echelon 2 = 379,           Echelon 3
 
 EMPLOI : Sous-bibliothécaire chef à compter du                           6 avril 1982 (2) :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 384, Echelon 2 = 423,           Echelon 3 = 448, Echelon 4 = 479, Echelon 5 = 510,           Echelon 6 = 547, Echelon 7 = 579 ; (2) Emploi accessible dans la limite de 20 p. 100 de l'effectif des sous-bibliothécaires principaux ou sous-archivistes et sous-archivistes principaux où au moins un emploi est ouvert aux agents bénéficiant de l'ancienneté minimum requise par l'arrêté du 5 novembre 1959 modifié relatif aux conditions d'avancement de grade des agents.
+ECHELONS (INDICES BRUTS) : Echelon 1 = 384, Echelon 2 = 423,           Echelon 3 = 448, Echelon 4 = 479, Echelon 5 = 510,           Echelon 6 = 547, Echelon 7 = 579 ;
+
+(2) Emploi accessible dans la limite de 20 p. 100 de l'effectif des sous-bibliothécaires principaux ou sous-archivistes et sous-archivistes principaux où au moins un emploi est ouvert aux agents bénéficiant de l'ancienneté minimum requise par l'arrêté du 5 novembre 1959 modifié relatif aux conditions d'avancement de grade des agents.
 
 EMPLOI : Sous-bibliothécaire principal (1) :
 
@@ -68,29 +70,19 @@ ECHELONS (INDICES BRUTS) : Echelon 1 = 418, Echelon 2 = 441,           Echelon 3
 
 EMPLOI : Sous-bibliothécaire :
 
-- 1er décembre 1972 :
+- 1er Août 1990 :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 243, Echelon 2 = 259,           Echelon 3 = 273, Echelon 4 = 289, Echelon 5 = 302 ;
+ECHELONS (INDICES BRUTS) : Echelon 1 = 280, Echelon 2 = 294,           Echelon 3 = 306, Echelon 4 = 321, Echelon 5 = 333 ;
 
-Echelon 6 = 319, Echelon 7 = 330, Echelon 8 = 350,           Echelon 9 = 370, Echelon 10 = 400, Echelon 11 = 430,           Echelon exceptionnel = 455 (2) ;
+Echelon 6 = 347, Echelon 7 = 366, Echelon 8 = 379,           Echelon 9 = 395, Echelon 10 = 430, Echelon 11 = 453,           Echelon 12 ([*) = 474 ;
 
-- 1er juillet 1973 :
+- 1er août 1991 :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 243, Echelon 2 = 259,           Echelon 3 = 273, Echelon 4 = 289, Echelon 5 = 302,           Echelon 6 = 319, Echelon 7 = 339, Echelon 8 = 358,           Echelon 9 = 377, Echelon 10 = 412, Echelon 11 = 436,           Echelon 12 = 459 ;
+ECHELONS (INDICES BRUTS) : Echelon 1 = 289, Echelon 2 = 299,           Echelon 3 = 311, Echelon 4 = 326, Echelon 5 = 339,           Echelon 6 = 352, Echelon 7 = 371, Echelon 8 = 381,           Echelon 9 = 395, Echelon 10 = 430, Echelon 11 = 453,           Echelon 12 (*]) = 474 ;
 
-- 1er juillet 1974 :
+- 1er août 1992 :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 249, Echelon 2 = 265,           Echelon 3 = 280, Echelon 4 = 295, Echelon 5 = 308,           Echelon 6 = 324, Echelon 7 = 343, Echelon 8 = 363,           Echelon 9 = 381, Echelon 10 = 418, Echelon 11 = 440,           Echelon 12 = 461 ;
-
-- 1er juillet 1975 :
-
-ECHELONS (INDICES BRUTS) : Echelon 1 = 259, Echelon 2 = 274,           Echelon 3 = 289, Echelon 4 = 304, Echelon 5 = 316,           Echelon 6 = 332, Echelon 7 = 351, Echelon 8 = 370,           Echelon 9 = 388, Echelon 10 = 423, Echelon 11 = 446,           Echelon 12 = 467 ;
-
-- 1er juillet 1976 :
-
-ECHELONS (INDICES BRUTS) : Echelon 1 = 267, Echelon 2 = 283,           Echelon 3 = 297, Echelon 4 = 312, Echelon 5 = 324,           Echelon 6 = 340, Echelon 7 = 358, Echelon 8 = 377,           Echelon 9 = 395, Echelon 10 = 430, Echelon 11 = 453,           Echelon 12 = 474 ;
-
-à compter du 1er septembre 1987 ECHELONS (INDICES BRUTS) : Echelon 1 = 274, Echelon 2 = 289,           Echelon 3 = 301, Echelon 4 = 315, Echelon 5 = 328,           Echelon 6 = 342, Echelon 7 = 360, Echelon 8 = 377,           Echelon 9 = 395, Echelon 10 = 430, Echelon 11 = 453,           Echelon 12 = 474 ; (2) Echelon exceptionnel accessible à 20 p. 100 [*pourcentage*] de l'effectif ou à un agent et dans tous les cas après trois ans de fonctions au moins à l'échelon terminal.
+ECHELONS (INDICES BRUTS) : Echelon 1 = 298, Echelon 2 = 309,           Echelon 3 = 321, Echelon 4 = 336, Echelon 5 = 345,           Echelon 6 = 360, Echelon 7 = 379, Echelon 8 = 389,           Echelon 9 = 395, Echelon 10 = 430, Echelon 11 = 453,           Echelon 12 ([*) = 474 ; (*]) Echelon exceptionnel.
 
 EMPLOI : Employé principal de bibliothèque (groupe IV de rémunération) :
 

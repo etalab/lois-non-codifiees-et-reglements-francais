@@ -66,24 +66,14 @@ ECHELONS (INDICES BRUTS) : Echelon 1 = 418, Echelon 2 = 441,           Echelon 3
 
 EMPLOI : Sous-archiviste :
 
-- 1er décembre 1972 :
+- 1er Août 1990 :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 243, Echelon 2 = 259,           Echelon 3 = 273, Echelon 4 = 289, Echelon 5 = 302,           Echelon 6 = 319, Echelon 7 = 330, Echelon 8 = 350,           Echelon 9 = 370, Echelon 10 = 400, Echelon 11 = 430,           Echelon exceptionnel = 455 (4) ;
+ECHELONS (INDICES BRUTS) : Echelon 1 = 280, Echelon 2 = 294,           Echelon 3 = 306, Echelon 4 = 321, Echelon 5 = 333,           Echelon 6 = 347, Echelon 7 = 366, Echelon 8 = 379,           Echelon 9 = 395, Echelon 10 = 430, Echelon 11 = 453,           Echelon 12 = 474 ([*) ;           (*]) Echelon exceptionnel
 
-- 1er juillet 1973 :
+- 1er Août 1991 :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 243, Echelon 2 = 259,           Echelon 3 = 273, Echelon 4 = 289, Echelon 5 = 302,           Echelon 6 = 319, Echelon 7 = 339, Echelon 8 = 358,           Echelon 9 = 381, Echelon 10 = 418, Echelon 11 = 440,           Echelon 12 = 459 ;
+ECHELONS (INDICES BRUTS) : Echelon 1 = 289, Echelon 2 = 299,           Echelon 3 = 311, Echelon 4 = 326, Echelon 5 = 339,           Echelon 6 = 352, Echelon 7 = 371, Echelon 8 = 381,           Echelon 9 = 395, Echelon 10 = 430, Echelon 11 = 453,           Echelon 12 = 474 ([*) ;           (*]) Echelon exceptionnel
 
-- 1er juillet 1974 :
+- 1er Août 1992 :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 249, Echelon 2 = 265,           Echelon 3 = 280, Echelon 4 = 295, Echelon 5 = 308,           Echelon 6 = 324, Echelon 7 = 343, Echelon 8 = 363,           Echelon 9 = 377, Echelon 10 = 412, Echelon 11 = 436,           Echelon 12 = 461 ;
-
-- 1er juillet 1975 :
-
-ECHELONS (INDICES BRUTS) : Echelon 1 = 259, Echelon 2 = 274,           Echelon 3 = 289, Echelon 4 = 304, Echelon 5 = 316,           Echelon 6 = 332, Echelon 7 = 351, Echelon 8 = 370,           Echelon 9 = 388, Echelon 10 = 423, Echelon 11 = 446,           Echelon 12 = 467 ;
-
-- 1er juillet 1976 :
-
-ECHELONS (INDICES BRUTS) : Echelon 1 = 267, Echelon 2 = 283,           Echelon 3 = 297, Echelon 4 = 312, Echelon 5 = 324,           Echelon 6 = 340, Echelon 7 = 358, Echelon 8 = 377,           Echelon 9 = 395, Echelon 10 = 430, Echelon 11 = 453,           Echelon 12 = 474 ;
-
-à compter  du 1er septembre 1987 ECHELONS (INDICES BRUTS) : Echelon 1 = 274, Echelon 2 = 289,           Echelon 3 = 301, Echelon 4 = 315, Echelon 5 = 328,           Echelon 6 = 342, Echelon 7 = 360, Echelon 8 = 377,           Echelon 9 = 395, Echelon 10 = 430, Echelon 11 = 453,           Echelon 12 = 474 ; (4) Echelon exceptionnel accessible à 20 p. 100 [*pourcentage*] de l'effectif ou à un agent et dans tous les cas après trois ans de fonctions à l'échelon terminal normal.
+ECHELONS (INDICES BRUTS) : Echelon 1 = 298, Echelon 2 = 309,           Echelon 3 = 321, Echelon 4 = 336, Echelon 5 = 345,           Echelon 6 = 360, Echelon 7 = 379, Echelon 8 = 389,           Echelon 9 = 395, Echelon 10 = 430, Echelon 11 = 453,           Echelon 12 = 474 ([*) ;           (*]) Echelon exceptionnel

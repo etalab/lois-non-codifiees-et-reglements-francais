@@ -40,11 +40,17 @@ ECHELONS (INDICES BRUTS) : Echelon 1 = 379, Echelon 2 = 420,           Echelon 3
 
 EMPLOI : Laborantin et manipulateur d'électroradiologie :
 
-- 1er juillet 1976 :
+-  A compter du 1er aôut 1990 :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 283, Echelon 2 = 297,           Echelon 3 = 312, Echelon 4 = 324, Echelon 5 = 340,           Echelon 6 = 358, Echelon 7 = 377, Echelon 8 = 395,           Echelon 9 = 430, Echelon 10 = 460,           Echelon exceptionnel = (2) 480
+ECHELONS (INDICES BRUTS) : Echelon 1 = 294, Echelon 2 = 306,           Echelon 3 = 321, Echelon 4 = 333, Echelon 5 = 347,           Echelon 6 = 366, Echelon 7 = 379, Echelon 8 = 395,           Echelon 9 = 430, Echelon 10 = 460,           Echelon 12 ([*) = 480.           (*]) Echelon exceptionnel.
 
-à compter du 1er septembre 1987 ECHELONS (INDICES BRUTS) : Echelon 1 = 289, Echelon 2 = 301,           Echelon 3 = 315, Echelon 4 = 328, Echelon 5 = 342,           Echelon 6 = 360, Echelon 7 = 377, Echelon 8 = 395,           Echelon 9 = 430, Echelon 10 = 460,           Echelon exceptionnel = (2) 480 (2) Echelon exceptionnel réservé aux laborantins et manipulateurs d'électroradiologie titulaires d'un diplôme d'Etat d'infirmier ou de l'un des diplômes ou titres prévus à l'arrêté du 13 août 1969 ayant une ancienneté minimum de trois ans dans le 10ème échelon.
+- A compter du 1er août 1991 :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 299, Echelon 2 = 311,           Echelon 3 = 326, Echelon 4 = 339, Echelon 5 = 352,           Echelon 6 = 371, Echelon 7 = 381, Echelon 8 = 395,           Echelon 9 = 430, Echelon 10 = 460,           Echelon 12 ([*) = 480.           (*]) Echelon exceptionnel.
+
+- A compter du 1er août 1992 :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 309, Echelon 2 = 321,           Echelon 3 = 336, Echelon 4 = 345, Echelon 5 = 360,           Echelon 6 = 379, Echelon 7 = 389, Echelon 8 = 395,           Echelon 9 = 430, Echelon 10 = 460,           Echelon 12 ([*) = 480.           (*]) Echelon exceptionnel.
 
 EMPLOI : Aide de laboratoire et d'électroradiologie :
 
@@ -74,15 +80,15 @@ EMPLOI : Assistante sociale chef (2) :
 
 - 1er juillet 1976. ECHELONS (INDICES BRUTS : Echelon 1 = 461, Echelon 2 = 498,           Echelon 3 = 527, Echelon 4 = 559, Echelon 5 = 593,           Echelon 6 = 625. (2) Emploi accessible à 20 p. 100 [*pourcentage*] de l'effectif des assistantes sociales chefs et assistantes sociales.
 
-EMPLOI : Assistante sociale (1) (2) :
+EMPLOI : Assistante sociale :
 
-- 1er juillet 1976 :
+ECHELON DE STAGE : 294            à compter du 1er aôut 1990 :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 312, Echelon 2 = 330,           Echelon 3 = 359, Echelon 4 = 384, Echelon 5 = 423,           Echelon 6 = 453, Echelon 7 = 485, Echelon 8 = 520,           Echelon 9 = 551, Echelon 10 = 593.
+ECHELONS (INDICES BRUTS) : Echelon 1 = 321, Echelon 2 = 340,           Echelon 3 = 367, Echelon 4 = 386, Echelon 5 = 423,           Echelon 6 = 453, Echelon 7 = 485, Echelon 8 = 520,           Echelon 9 = 551, Echelon 10 = 593.
 
-à compter du 1er septembre 1987 ECHELONS (INDICES BRUTS) : Echelon 1 = 289, Echelon 2 = 315,           Echelon 3 = 334, Echelon 4 = 362, Echelon 5 = 384,           Echelon 6 = 423, Echelon 7 = 453, Echelon 8 = 485,           Echelon 9 = 520, Echelon 10 = 551, Echelon 11 = 593 (1) Pour les assistantes sociales, voir arrêté du 3 janvier 1966. (2) Aux termes de l'arrêté du 16 juillet 1974, échelle indiciaire pour les assistantes sociales stagiaires est fixée comme suit :
+ECHELON DE STAGE : 299            à compter du 1er août 1991 ECHELONS (INDICES BRUTS) : Echelon 1 = 326, Echelon 2 = 344,           Echelon 3 = 373, Echelon 4 = 389, Echelon 5 = 423,           Echelon 6 = 453, Echelon 7 = 485, Echelon 8 = 520,           Echelon 9 = 551, Echelon 10 = 593.
 
-au 1er décembre 1977 : 255 ; au 1er juillet 1973 : 255 ; au 1er juillet 1974 : 262 ; au 1er juillet 1975 : 273 ; au 1er juillet 1976 : 283.
+ECHELON DE STAGE : 309            à compter du 1er août 1992 ECHELONS (INDICES BRUTS) : Echelon 1 = 336, Echelon 2 = 352,           Echelon 3 = 380, Echelon 4 = 398, Echelon 5 = 423,           Echelon 6 = 453, Echelon 7 = 485, Echelon 8 = 520,           Echelon 9 = 551, Echelon 10 = 593.
 
 EMPLOI : Inspecteur de salubrité principal (3) (4)                   (ancien régime) :
 
@@ -118,21 +124,33 @@ EMPLOI : Agent de désinfection :
 
 EMPLOI : Directrice de crèche (1) :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 350, Echelon 2 = 367,           Echelon 3 = 390, Echelon 4 = 415, Echelon 5 = 438,           Echelon 6 = 472, Echelon 7 = 501, Echelon 8 = 533.
+à compter du 1er aôut 1990 ECHELONS (INDICES BRUTS) : Echelon 1 = 368, Echelon 2 = 373,           Echelon 3 = 394, Echelon 4 = 415, Echelon 5 = 438,           Echelon 6 = 472, Echelon 7 = 501, Echelon 8 = 533.
 
-à compter du 1er septembre 1987 ECHELONS (INDICES BRUTS) : Echelon 1 = 353, Echelon 2 = 367,           Echelon 3 = 390, Echelon 4 = 415, Echelon 5 = 438,           Echelon 6 = 472, Echelon 7 = 501, Echelon 8 = 533
+à compter du 1er aôut 1991 ECHELONS (INDICES BRUTS) : Echelon 1 = 371, Echelon 2 = 385,           Echelon 3 = 394, Echelon 4 = 415, Echelon 5 = 438,           Echelon 6 = 472, Echelon 7 = 501, Echelon 8 = 533
+
+à compter du 1er aôut 1992 ECHELONS (INDICES BRUTS) : Echelon 1 = 371, Echelon 2 = 385,           Echelon 3 = 394, Echelon 4 = 415, Echelon 5 = 438,           Echelon 6 = 472, Echelon 7 = 501, Echelon 8 = 533.
 
 EMPLOI : Puéricultrice diplômée d'Etat :
 
-à compter du 1er septembre 1987 ECHELONS (INDICES BRUTS) : Echelon 1 = 289, Echelon 2 = 301,           Echelon 3 = 315, Echelon 4 = 328, Echelon 5 = 342,           Echelon 6 = 360, Echelon 7 = 377, Echelon 8 = 395           Echelon 9 = 430, Echelon 10 = 460, Echelon 11 = 480
+à compter du 1er aôut 1990 ECHELONS (INDICES BRUTS) : Echelon 1 = 294, Echelon 2 = 306,           Echelon 3 = 321, Echelon 4 = 333, Echelon 5 = 347,           Echelon 6 = 366, Echelon 7 = 379, Echelon 8 = 395           Echelon 9 = 430, Echelon 10 = 460, Echelon 11 = 480
 
-EMPLOI : Puéricultrice (2) :
+à compter du 1er aôut 1991 ECHELONS (INDICES BRUTS) : Echelon 1 = 299, Echelon 2 = 311,           Echelon 3 = 326, Echelon 4 = 339, Echelon 5 = 362,           Echelon 6 = 371, Echelon 7 = 381, Echelon 8 = 395           Echelon 9 = 430, Echelon 10 = 460, Echelon 11 = 480
 
-- 1er juillet 1976 :
+à compter du 1er aôut 1992 ECHELONS (INDICES BRUTS) : Echelon 1 = 309, Echelon 2 = 321,           Echelon 3 = 336, Echelon 4 = 345, Echelon 5 = 360,           Echelon 6 = 379, Echelon 7 = 389, Echelon 8 = 395           Echelon 9 = 430, Echelon 10 = 460, Echelon 11 = 480
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 283, Echelon 2 = 297,           Echelon 3 = 312, Echelon 4 = 324, Echelon 5 = 340,           Echelon 6 = 358, Echelon 7 = 377, Echelon 8 = 395,           Echelon 9 = 418, Echelon 10 = 441, Echelon 11 = 465.
+EMPLOI : Puéricultrice :
 
-à compter du 1er septembre 1987 ECHELONS (INDICES BRUTS) : Echelon 1 = 289, Echelon 2 = 301,           Echelon 3 = 315, Echelon 4 = 328, Echelon 5 = 342,           Echelon 6 = 360, Echelon 7 = 377, Echelon 8 = 395,           Echelon 9 = 418, Echelon 10 = 441, Echelon 11 = 465. (2) Emploi d'extinction. Echelle indiciaire fixée pour les puéricultrices en fonction non titulaires du diplôme d'Etat de puéricultrice.
+- à compter du 1er aôut 1990 :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 294, Echelon 2 = 306,           Echelon 3 = 321, Echelon 4 = 333, Echelon 5 = 347,           Echelon 6 = 366, Echelon 7 = 379, Echelon 8 = 395,           Echelon 9 = 418, Echelon 10 = 441, Echelon 11 = 465.
+
+à compter du 1er août 1991 :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 299, Echelon 2 = 311,           Echelon 3 = 326, Echelon 4 = 339, Echelon 5 = 362,           Echelon 6 = 371, Echelon 7 = 381, Echelon 8 = 396,           Echelon 9 = 418, Echelon 10 = 441, Echelon 11 = 465.
+
+à compter du 1er août 1992 :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 309, Echelon 2 = 321,           Echelon 3 = 336, Echelon 4 = 345, Echelon 5 = 360,           Echelon 6 = 379, Echelon 7 = 389, Echelon 8 = 395,           Echelon 9 = 418, Echelon 10 = 441, Echelon 11 = 465.
 
 EMPLOI : Auxiliaire de puériculture (3) (groupe III)                   à compter du 1er janvier 1984 :
 
@@ -150,17 +168,21 @@ Lorsque l'agent est recruté directement dans cet emploi, le 1er échelon sera d
 
 EMPLOI : Infirmière :
 
-- 1er juillet 1976 :
+à compter du 1er août 1990 :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 267, Echelon 2 = 283,           Echelon 3 = 297, Echelon 4 = 312, Echelon 5 = 324,           Echelon 6 = 340, Echelon 7 = 358, Echelon 8 = 377,           Echelon 9 = 395, Echelon 10 = 430, Echelon 11 = 460,           Echelon exceptionnel = (4) 474.
+ECHELONS (INDICES BRUTS) : Echelon 1 = 280, Echelon 2 = 294,           Echelon 3 = 306, Echelon 4 = 321, Echelon 5 = 333,           Echelon 6 = 347, Echelon 7 = 366, Echelon 8 = 379,           Echelon 9 = 396, Echelon 10 = 430, Echelon 11 = 460,           Echelon 12 ([*) 474.           (*]) Echelon exceptionnel.
 
-à compter du 1er septembre 1987 ECHELONS (INDICES BRUTS) : Echelon 1 = 274, Echelon 2 = 289,           Echelon 3 = 301, Echelon 4 = 315, Echelon 5 = 328,           Echelon 6 = 342, Echelon 7 = 360, Echelon 8 = 377,           Echelon 9 = 395, Echelon 10 = 430, Echelon 11 = 460,           Echelon exceptionnel = (4) 474. (4) Echelon exceptionnel accessible aux infirmières titulaires du diplôme d'Etat ayant une ancienneté de quatre ans dans l'échelon terminal normal.
+à compter du 1er août 1991 :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 289, Echelon 2 = 299,           Echelon 3 = 311, Echelon 4 = 326, Echelon 5 = 339,           Echelon 6 = 352, Echelon 7 = 371, Echelon 8 = 381,           Echelon 9 = 395, Echelon 10 = 430, Echelon 11 = 460,           Echelon 12 ([*) 474.           (*]) Echelon exceptionnel.
+
+à compter du 1er août 1992 :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 280, Echelon 2 = 284,           Echelon 3 = 306, Echelon 4 = 321, Echelon 5 = 333,           Echelon 6 = 347, Echelon 7 = 366, Echelon 8 = 379,           Echelon 9 = 395, Echelon 10 = 430, Echelon 11 = 460,           Echelon exceptionnel = (4) 474.
 
 EMPLOI : Monitrice de jardins d'enfants :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 243, Echelon 2 = 265,           Echelon 3 = 285, Echelon 4 = 309, Echelon 5 = 324,           Echelon 6 = 342, Echelon 7 = 360, Echelon 8 = 381,           Echelon 9 = 410, Echelon 10 = 440.
-
-Echelon exceptionnel = (1) 453. (1) Echelon exceptionnel réservé aux titulaires du diplôme d'Etat d'éducateur de jeunes enfants ayant une ancienneté minimum de trois ans dans le 10ème échelon.
+ECHELONS (INDICES BRUTS) : Echelon 1 = 243, Echelon 2 = 265,           Echelon 3 = 285, Echelon 4 = 309, Echelon 5 = 324,           Echelon 6 = 342, Echelon 7 = 360, Echelon 8 = 381,           Echelon 9 = 410, Echelon 10 = 440.           Echelon exceptionnel = (1) 453.
 
 EMPLOI : Secrétaire médical principal (2) (groupe VI)                   à compter du 1er janvier 1982 :
 
