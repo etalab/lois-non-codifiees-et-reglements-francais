@@ -1,7 +1,5 @@
 # Article 3
 
-Les constitutions de gages régies par la présente loi sont faites dans les formes ci-après :
-
 Il est tenu, dans chaque greffe de tribunal de commerce, un registre à souche coté et paraphé, dont le volant et la souche portent chacun, d'après les déclarations de l'emprunteur, les indications suivantes :
 
 1° Les noms, professions et domiciles des parties ;
@@ -17,5 +15,3 @@ Il est tenu, dans chaque greffe de tribunal de commerce, un registre à souche c
 6° La date de la notification de l'acte extrajudiciaire adressé au propriétaire, à l'usufruitier ou à leur mandataire légal, et celle de leur réponse ;
 
 7° Le montant du loyer annuel de l'hôtel et la justification que les loyers énumérés à l'article 2 ont été acquittés.
-
-Le volant contenant les mentions ci-dessus constitue le warrant hôtelier.
