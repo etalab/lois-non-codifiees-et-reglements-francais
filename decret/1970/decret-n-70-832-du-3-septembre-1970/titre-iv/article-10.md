@@ -1,6 +1,6 @@
 # Article 10
 
-Les sous-lieutenants de port relevant du décret du 28 avril 1928 sont reclassés dans les échelons de la classe normale du grade de sous-lieutenant de port conformément au tableau ci-après :
+Les lieutenants de port relevant du décret du 28 avril 1928 sont reclassés dans les échelons de la classe normale du grade de lieutenant de port conformément au tableau ci-après :
 
 <table>
 <tbody>
@@ -22,7 +22,7 @@ Les sous-lieutenants de port relevant du décret du 28 avril 1928 sont reclassé
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Sous-lieutenant de port de 4e classe</p>
+<p>Lieutenant de port de 4e classe</p>
 </td>
 <td valign="top" width="151">
 <p align="center">1er échelon</p>
@@ -33,7 +33,7 @@ Les sous-lieutenants de port relevant du décret du 28 avril 1928 sont reclassé
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Sous-lieutenant de port de 3e classe</p>
+<p>Lieutenant de port de 3e classe</p>
 </td>
 <td valign="top" width="151">
 <p align="center">2e échelon</p>
@@ -44,7 +44,7 @@ Les sous-lieutenants de port relevant du décret du 28 avril 1928 sont reclassé
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Sous-lieutenant de port de 2e classe</p>
+<p>Lieutenant de port de 2e classe</p>
 </td>
 <td valign="top" width="151">
 <p align="center">3e échelon</p>
@@ -55,7 +55,7 @@ Les sous-lieutenants de port relevant du décret du 28 avril 1928 sont reclassé
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Sous-lieutenant de port de 1re classe</p>
+<p>Lieutenant de port de 1re classe</p>
 </td>
 <td valign="top" width="151">
 <p align="center">4e échelon</p>
@@ -67,4 +67,4 @@ Les sous-lieutenants de port relevant du décret du 28 avril 1928 sont reclassé
 </tbody>
 </table>
 
-Les sous-lieutenants de port reclassés en application des dispositions du présent article conservent dans la classe normale du grade de sous-lieutenant de port l'ancienneté de service qu'ils avaient acquise dans leur ancien grade.
+Les lieutenants de port reclassés en application des dispositions du présent article conservent dans la classe normale du grade de lieutenant de port l'ancienneté de service qu'ils avaient acquise dans leur ancien grade.
