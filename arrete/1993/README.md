@@ -474,7 +474,6 @@
 - [Arrêté du 15 juillet 1993 (ECOS9350020A)](arrete-du-15-juillet-1993-ecos9350020a)
 - [Arrêté du 15 juillet 1993 (INDP9320351A)](arrete-du-15-juillet-1993-indp9320351a)
 - [Arrêté du 15 juillet 1993 (MENP9305453A)](arrete-du-15-juillet-1993-menp9305453a)
-- [Arrêté du 15 juillet 1993 (SPSS9302060A)](arrete-du-15-juillet-1993-spss9302060a)
 - [Arrêté du 15 juin 1993 (ECOC9300025A)](arrete-du-15-juin-1993-ecoc9300025a)
 - [Arrêté du 15 juin 1993 (ECOC9300071A)](arrete-du-15-juin-1993-ecoc9300071a)
 - [Arrêté du 15 juin 1993 (ECOC9300080A)](arrete-du-15-juin-1993-ecoc9300080a)
