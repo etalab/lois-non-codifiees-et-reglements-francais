@@ -68,4 +68,6 @@ cd) Un membre assurant la représentation de l'enseignement agricole désigné p
 
 Des membres suppléants dont le nombre est égal au double de celui des titulaires, à l'exception du membre visé au 3° cc du présent article pour lequel il n'y a qu'un suppléant, sont désignés dans les mêmes conditions que les membres titulaires.
 
+Pour les membres visés au 2° (e) du présent article, lorsque le candidat à l'élection au siège à pourvoir est inscrit en dernière année du cycle d'études, à l'exception du cycle de détermination, ses suppléants doivent être inscrits dans une classe de niveau inférieur.
+
 Les membres titulaires et les membres suppléants autres que ceux qui sont mentionnés au 1° (c) du présent article sont nommés par arrêté du ministre chargé de l'éducation.
