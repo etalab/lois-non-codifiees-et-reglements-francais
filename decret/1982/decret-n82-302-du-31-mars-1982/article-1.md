@@ -1,0 +1,3 @@
+# Article 1
+
+Jusqu'au 31 décembre 1983, les ouvriers des établissements industriels de l'Etat qui comptent trente-sept années et demie de services salariés effectifs, dont vingt-cinq liquidables au titre du régime des pensions des ouvriers des établissements industriels de l'Etat, peuvent sur leur demande et sous réserve de l'intérêt du service cesser par anticipation leur activité et obtenir la jouissance immédiate de leur pension dès l'âge de cinquante-sept ans ou, s'ils ont effectivement accompli quinze ans au moins dans un emploi comportant des risques d'insalubrité, dès l'âge de cinquante-deux ans.
