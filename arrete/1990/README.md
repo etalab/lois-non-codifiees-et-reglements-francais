@@ -54,7 +54,6 @@
 - [Arrêté du 2 juillet 1990 (AGRS9001394A)](arrete-du-2-juillet-1990-agrs9001394a)
 - [Arrêté du 2 juillet 1990 (BUDR9005035A)](arrete-du-2-juillet-1990-budr9005035a)
 - [Arrêté du 2 juillet 1990 (INTE9000287A)](arrete-du-2-juillet-1990-inte9000287a)
-- [Arrêté du 2 mars 1990 (COPC9000022A)](arrete-du-2-mars-1990-copc9000022a)
 - [Arrêté du 2 mars 1990 (MCCA9000131A)](arrete-du-2-mars-1990-mcca9000131a)
 - [Arrêté du 2 mars 1990 (SPSG9000350A)](arrete-du-2-mars-1990-spsg9000350a)
 - [Arrêté du 2 mars 1990 (SPSG9000351A)](arrete-du-2-mars-1990-spsg9000351a)
