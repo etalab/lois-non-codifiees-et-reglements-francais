@@ -740,7 +740,6 @@
 - [Arrêté du 21 janvier 1998 (ECOL9800006A)](arrete-du-21-janvier-1998-ecol9800006a)
 - [Arrêté du 21 janvier 1998 (EQUA9800106A)](arrete-du-21-janvier-1998-equa9800106a)
 - [Arrêté du 21 janvier 1998 (INTC9700426A)](arrete-du-21-janvier-1998-intc9700426a)
-- [Arrêté du 21 janvier 1998 (MEST9711659A)](arrete-du-21-janvier-1998-mest9711659a)
 - [Arrêté du 21 juillet 1998 (AGRS9801412A)](arrete-du-21-juillet-1998-agrs9801412a)
 - [Arrêté du 21 juillet 1998 (INTC9800316A)](arrete-du-21-juillet-1998-intc9800316a)
 - [Arrêté du 21 juillet 1998 (MESH9822360A)](arrete-du-21-juillet-1998-mesh9822360a)
