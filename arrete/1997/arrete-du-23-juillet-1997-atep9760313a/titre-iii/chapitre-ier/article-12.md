@@ -1,0 +1,3 @@
+# Article 12
+
+Les réservoirs de stockage, leurs supportages et les canalisations raccordées jusqu'au second organe d'isolement compris doivent continuer à assurer leur fonction après un séisme, conformément aux dispositions des articles 5 et 6 de l'arrêté ministériel du 10 mai 1993 fixant les règles parasismiques applicables aux installations classées pour la protection de l'environnement. A cet effet, le comportement des équipements cités ci-dessus doit être évalué pour les installations nouvelles et pour les installations existantes dans le cadre de l'étude préconisée au titre de l'article 56 du présent arrêté.

@@ -1,0 +1,3 @@
+# Article 44
+
+Les matériels importants pour la sécurité, définis par l'étude des dangers, font l'objet de spécifications précises, de procédures de qualification et d'essais en rapport avec leurs utilisations dans les conditions de fonctionnement normales et accidentelles. Les paramètres significatifs de la sécurité des installations définis dans l'étude des dangers sont mesurés et enregistrés en continu. La liste des équipements et paramètres importants pour la sécurité et éventuellement les informations faisant l'objet d'un enregistrement sont tenues à la disposition de l'inspecteur des installations classées.
