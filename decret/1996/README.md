@@ -494,6 +494,7 @@
 - [Décret n°98-1158 du 16 décembre 1998 (MESG9811154D)](decret-n98-1158-du-16-decembre-1998-mesg9811154d)
 - [Décret n°2002-85 du 17 janvier 2002 (INTC0100335D)](decret-n2002-85-du-17-janvier-2002-intc0100335d)
 - [Décret n°96-1098 du 17 décembre 1996 (PRMX9601627D)](decret-n96-1098-du-17-decembre-1996-prmx9601627d)
+- [Décret n°96-1108 du 17 décembre 1996 (TAST9611564D)](decret-n96-1108-du-17-decembre-1996-tast9611564d)
 - [Décret n°96-336 du 17 avril 1996 (COPC9500015D)](decret-n96-336-du-17-avril-1996-copc9500015d)
 - [Décret n°96-40 du 17 janvier 1996 (DEFF9502263D)](decret-n96-40-du-17-janvier-1996-deff9502263d)
 - [Décret n°96-41 du 17 janvier 1996 (TASG9511275D)](decret-n96-41-du-17-janvier-1996-tasg9511275d)

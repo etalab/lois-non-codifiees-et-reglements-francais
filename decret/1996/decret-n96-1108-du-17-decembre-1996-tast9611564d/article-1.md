@@ -1,0 +1,3 @@
+# Article 1
+
+L'Office de protection contre les rayonnements ionisants est autorisé à utiliser le numéro d'inscription au répertoire national d'identification des personnes physiques dans un traitement automatisé d'informations nominatives relatif à la surveillance de l'exposition aux rayonnements ionisants des personnes qui y sont ou qui y ont été exposées professionnellement ainsi que de toutes celles qui, à quelque titre que ce soit, ont été amenées à pénétrer dans une zone contrôlée au sens de l'article 23 du décret du 2 octobre 1986 susvisé ou de l'article 15 du décret du 28 avril 1975 susvisé.
