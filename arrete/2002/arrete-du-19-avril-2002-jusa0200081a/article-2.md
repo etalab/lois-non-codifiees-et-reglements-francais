@@ -6,7 +6,7 @@ La durée hebdomadaire du travail est fixée par service ou partie de service ou
 
 Les horaires quotidiens de travail peuvent être soit identiques tous les jours, soit comporter un horaire réduit pour l'un des jours de la semaine, sous réserve des nécessités de service et sans préjudice de la mise en place d'un dispositif d'horaires variables.
 
-Afin que la durée de travail des agents, sur l'année, corresponde à une durée annuelle de travail effectif fixée à 1 600 heures en application de l'article 1er du décret précité, le choix des durées hebdomadaires s'accompagne de la mise en place dans les services de jours d'aménagement et de réduction du temps de travail dits "ARTT" .
+Afin que la durée de travail des agents, sur l'année, corresponde à une durée annuelle de travail effectif fixée à 1 607 heures en application de l'article 1er du décret précité, le choix des durées hebdomadaires s'accompagne de la mise en place dans les services de jours d'aménagement et de réduction du temps de travail dits "ARTT" .
 
 Les personnels bénéficient alors de jours de repos conformément au tableau ci-dessous :
 
