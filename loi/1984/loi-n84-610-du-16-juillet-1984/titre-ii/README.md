@@ -1,15 +1,6 @@
 # Titre II : Les formations et les professions.
 
-- [Article 43](article-43.md)
-- [Article 43-2](article-43-2.md)
-- [Article 45](article-45.md)
 - [Article 45-1](article-45-1.md)
-- [Article 46](article-46.md)
-- [Article 46-1](article-46-1.md)
-- [Article 47](article-47.md)
-- [Article 47-1](article-47-1.md)
-- [Article 48-1](article-48-1.md)
-- [Article 49](article-49.md)
 - [Article 49-1](article-49-1.md)
 - [Article 49-1 A](article-49-1-a.md)
 - [Article 50](article-50.md)

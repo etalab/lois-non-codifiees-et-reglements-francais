@@ -166,7 +166,7 @@ Sont abrogés, sous réserve des dispositions de l'article 8 :
 
 82° La loi n° 84-52 du 26 janvier 1984 sur l'enseignement supérieur ;
 
-83° Le deuxième alinéa de l'article 1er, les articles 2 à 6, 9, 10, 27, le premier alinéa de l'article 28, le deuxième alinéa de l'article 36, les articles 40 et 43 à 49 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives ;
+83° Le quatrième alinéa de l'article 1er, les articles 2 à 6, 9, 10, 27, le premier alinéa de l'article 28, le deuxième alinéa de l'article 36, les articles 40, 43, 43-2, 44, 45, 46 à 49 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives ;
 
 84° Les articles 3 et 4 de la loi n° 84-834 du 13 septembre 1984 relative à la limite d'âge dans la fonction publique et le secteur public ;
 
