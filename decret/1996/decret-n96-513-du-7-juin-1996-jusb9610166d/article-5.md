@@ -14,6 +14,8 @@ Pour un motif autre que disciplinaire ; en ce cas, une indemnité de licenciemen
 
 Par la démission de l'assistant de justice adressée par lettre recommandée ; en ce cas, l'intéressé est tenu de respecter un préavis d'une durée de quinze jours.
 
-Deux mois avant l'échéance du premier engagement, l'assistant de justice est informé de son éventuel renouvellement. Il dispose alors d'un délai de quinze jours pour faire connaître, le cas échéant, son acceptation. S'il n'a pas répondu dans ce délai, il est présumé y renoncer.
+Deux mois avant l'échéance du premier engagement, l'assistant de justice est informé de son éventuel renouvellement. Il dispose alors d'un délai de quinze jours pour faire connaître, le cas échéant, son acceptation.S'il n'a pas répondu dans ce délai, il est présumé y renoncer.
 
-Il bénéficie de congés annuels d'une durée égale à cinq fois ses obligations hebdomadaires de service effectuées.
+L'engagement peut être renouvelé une seconde fois, dans les mêmes conditions.
+
+L'assistant de justice bénéficie de congés annuels d'une durée égale à cinq fois ses obligations hebdomadaires de service effectuées.
