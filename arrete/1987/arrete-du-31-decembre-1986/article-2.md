@@ -1,3 +1,3 @@
 # Article 2
 
-Le produit de la taxe, à hauteur du montant fixé à l'article 1er, sous déduction des frais exposés par la Caisse nationale de l'énergie, sera utilisé pour contribuer au financement du fonds de modernisation des détaillants en carburant.
+Le directeur de la production et des échanges, le directeur du budget et le directeur général de la concurrence, de la consommation et de la répression des fraudes sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

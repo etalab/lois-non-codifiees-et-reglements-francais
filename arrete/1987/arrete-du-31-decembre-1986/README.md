@@ -1,4 +1,4 @@
-# Arrêté du 31 décembre 1986 fixant le taux de la taxe parafiscale sur certains produits pétroliers perçue au profit de la Caisse nationale de l'énergie
+# Arrêté du 31 décembre 1986 relatif au financement du centre technique interprofessionnel Etablissement national technique pour l'amélioration de la viticulture (Entav)
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
