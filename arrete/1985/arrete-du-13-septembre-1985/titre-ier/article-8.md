@@ -12,4 +12,4 @@ Le paiement des gains ou des enjeux revenant aux parieurs présumés avoir commi
 
 Le ministre de l'agriculture peut, lorsqu'il estime que les circonstances exigent une enquête, décider de suspendre le paiement des paris pour une durée n'excédant pas un mois.
 
-Si une plainte en justice est déposée, les enjeux et les gains concernés par la plainte sont conservés en attente d'une décision de justice devenue définitive.
+Si une plainte en justice est déposée, les enjeux et les gains concernés par la plainte sont conservés en attente d'une décision de justice devenue définitive, les sommes en attente ne bénéficiant d'aucun intérêt.

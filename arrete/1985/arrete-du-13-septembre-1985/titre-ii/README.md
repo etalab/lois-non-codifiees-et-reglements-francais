@@ -12,4 +12,3 @@
 - [Chapitre XI : Pari quarté](chapitre-xi)
 - [Chapitre XII : Pari quartet](chapitre-xii)
 - [Chapitre XII bis : Pari "quarté plus"](chapitre-xii-bis)
-- [Chapitre XIII : Pari "Grand 7"](chapitre-xiii)

@@ -12,6 +12,6 @@ En cas de distorsion, pour quelque cause que ce soit, entre les caractéristique
 
 De même, la responsabilité du pari mutuel urbain ne saurait être engagée au titre du programme et des résultats des courses communiqués par le serveur vocal interactif du pari mutuel urbain dans le cas où, par suite de distorsion, pour quelque raison que ce soit, non imputable au pari mutuel urbain et aux sociétés de courses, les éléments relatifs à ces données diffusées par le serveur vocal interactif diffèrent du programme et des résultats officiels.
 
-Le montant des gains ou remboursement relatifs à chacun des paris engagés par le parieur sont portés au crédit de son compte, le lendemain de chaque réunion.
+Le montant des gains ou remboursements relatifs à chacun des paris engagés par le parieur est porté au crédit de son compte.
 
 Le règlement des sommes dont le retrait est demandé par le parieur sur son solde créditeur est fait par chèque.

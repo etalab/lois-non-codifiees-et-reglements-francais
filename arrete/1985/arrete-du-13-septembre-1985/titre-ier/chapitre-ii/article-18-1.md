@@ -8,8 +8,6 @@ Dans le cas où une tirelire est constituée au titre du pari quinté plus , les
 
 Pour les paris tiercé et quarté plus , le montant de la tirelire constituée lors d'une réunion cet ajouté à la masse à partager affectée au calcul du rapport dans l'ordre exact du type de pan correspondant organisé la semaine suivante le même jour que celui où cette tirelire a été constituée. Dans le cas où une tirelire est constituée au titre du pari "Grand 7", les dispositions de l'article 95, paragraphe 4, sont applicables.
 
-Dans le cas où une tirelire est constituée sur une réunion donnée et où il n'est pas organisé, selon le cas, de pari tiercé ou quarté plus la semaine suivante, le même jour que celui où cette tirelire a été constituée, son montant est ajouté à la masse à partager affectée au calcul du rapport dans l'ordre exact du premier pari tiercé ou quarté plus , selon le cas, organisé après la journée sur laquelle il aurait normalement été reporté.
-
 Pour tous les autres types de paris, le montant de la tirelire constituée pour le type de pari considéré est ajouté à la masse à partager lors de la journée suivante sur la première course donnant lieu à l'organisation du même type de pari.
 
 Si plusieurs réunions sont organisées lors de la journée suivante, la tirelire est distribuée sur la première course courue au titre de ces réunions et donnant lieu à l'enregistrement du type de pari considéré.

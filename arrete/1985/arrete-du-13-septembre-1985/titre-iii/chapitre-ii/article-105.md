@@ -8,6 +8,6 @@ Ce numéro de compte et ce code sont strictement personnels et le pari mutuel ur
 
 Le compte est considéré comme ouvert lorsque le parieur a retourné au pari mutuel urbain l'imprimé spécial d'ouverture de compte courant et a fait un versement initial à titre de provision dont le montant minimum est porté à sa connaissance lors de la demande d'ouverture de compte.
 
-Sur simple décision du pari mutuel urbain, les versements par monnaie scripturale, susceptibles d'être rejetés par la banque tirée, pourront n'être portés au crédit du compte considéré qu'après les délais de rejet légaux correspondant à la réglementation bancaire.
+Les versements par monnaie scripturale ne seront portés au crédit du compte considéré qu'après les délais de rejet légaux correspondant à la réglementation bancaire.
 
 Les sommes déposées en compte courant ou portées au crédit de ce compte courant ne bénéficient d'aucun intérêt.
