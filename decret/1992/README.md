@@ -104,6 +104,7 @@
 - [Décret n°92-495 du 5 juin 1992 (EQUS9200203D)](decret-n92-495-du-5-juin-1992-equs9200203d)
 - [Décret n°92-507 du 5 juin 1992 (EQUT9200094D)](decret-n92-507-du-5-juin-1992-equt9200094d)
 - [Décret n°92-510 du 5 juin 1992 (SANP9201271D)](decret-n92-510-du-5-juin-1992-sanp9201271d)
+- [Décret n°92-517 du 5 juin 1992 (SANH9200985D)](decret-n92-517-du-5-juin-1992-sanh9200985d)
 - [Décret n°88-519 du 5 mai 1988 (MENF8800577D)](decret-n88-519-du-5-mai-1988-menf8800577d)
 - [Décret n°92-418 du 5 mai 1992 (EQUM9201448D)](decret-n92-418-du-5-mai-1992-equm9201448d)
 - [Décret n°84-431 du 6 juin 1984](decret-n84-431-du-6-juin-1984)
