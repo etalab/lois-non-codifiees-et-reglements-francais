@@ -9,6 +9,5 @@
 - [Article 56](article-56.md)
 - [Article 57](article-57.md)
 - [Article 59](article-59.md)
-- [C. Pourvois en cassation](c)
 - [A. Cour d'assises](a)
 - [B. Police correctionnelle et simple police](b)
