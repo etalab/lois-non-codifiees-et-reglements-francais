@@ -8,15 +8,15 @@ Le nombre des sections régionales est fixé à sept :
 
 - section régionale Bretagne-Sud ;
 
-- section régionale Ré-Centre-Ouest ;
+- section régionale Pays de la Loire ;
 
-- section régionale Marennes-Oléron ;
+- section régionale Poitou-Charentes ;
 
 - section régionale Arcachon-Aquitaine ;
 
 - section régionale Méditerranée.
 
-Les limites de la circonscription territoriale de chaque section régionale, son siège et les circonscriptions électorales qui y sont rattachées, ainsi que le nombre de membres du bureau, sont fixés par arrêté du ministre chargé des pêches maritimes et des cultures marines. Ce nombre ne peut être supérieur à quarante.
+Les limites de la circonscription territoriale de chaque section régionale, son siège et les circonscriptions électorales qui y sont rattachées, ainsi que le nombre de membres du bureau, sont fixés par arrêté du ministre chargé des pêches maritimes et des cultures marines. Ce nombre ne peut être supérieur à soixante.
 
 Le bureau de la section régionale de la conchyliculture est composé :
 
