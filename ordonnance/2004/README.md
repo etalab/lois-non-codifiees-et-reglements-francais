@@ -36,6 +36,7 @@
 - [Ordonnance n° 2004-1374 du 20 décembre 2004 (DEFX0400190R)](ordonnance-n-2004-1374-du-20-decembre-2004-defx0400190r)
 - [Ordonnance n° 2004-164 du 20 février 2004 (JUSX0300196R)](ordonnance-n-2004-164-du-20-fevrier-2004-jusx0300196r)
 - [Ordonnance n° 2004-178 du 20 février 2004 (MCCX0300157R)](ordonnance-n-2004-178-du-20-fevrier-2004-mccx0300157r)
+- [Ordonnance n°2004-1382 du 20 décembre 2004 (ECOX0400291R)](ordonnance-n2004-1382-du-20-decembre-2004-ecox0400291r)
 - [Ordonnance n° 2004-1127 du 21 octobre 2004 (ECOX0400187R)](ordonnance-n-2004-1127-du-21-octobre-2004-ecox0400187r)
 - [Ordonnance n° 2004-1129 du 21 octobre 2004 (JUSX0400167R)](ordonnance-n-2004-1129-du-21-octobre-2004-jusx0400167r)
 - [Ordonnance n° 2004-728 du 22 juillet 2004 (DOMX0400095R)](ordonnance-n-2004-728-du-22-juillet-2004-domx0400095r)
