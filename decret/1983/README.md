@@ -16,6 +16,7 @@
 - [Décret n°82-973 du 17 novembre 1982](decret-n82-973-du-17-novembre-1982)
 - [Décret n°82-987 du 17 novembre 1982](decret-n82-987-du-17-novembre-1982)
 - [Décret n°83-207 du 17 mars 1983](decret-n83-207-du-17-mars-1983)
+- [Décret n°83-28 du 18 janvier 1983](decret-n83-28-du-18-janvier-1983)
 - [Décret n°83-29 du 19 janvier 1983](decret-n83-29-du-19-janvier-1983)
 - [Décret n°84-196 du 19 mars 1984](decret-n84-196-du-19-mars-1984)
 - [Décret n°84-197 du 19 mars 1984](decret-n84-197-du-19-mars-1984)
