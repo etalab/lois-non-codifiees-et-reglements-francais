@@ -1,0 +1,3 @@
+# Article 7
+
+Sont également nommés au choix dans le corps des attachés commerciaux, dans la limite du sixième des nominations prononcées en application des articles 5 et 6, les fonctionnaires civils du ministère de l'économie et des finances appartenant à un corps classé dans la catégorie B, inscrits sur une liste d'aptitude et après avis de la commission administrative paritaire du corps d'accueil. Les intéressés doivent être âgés de quarante ans au moins au 1er janvier de l'année de la nomination et compter, à la même date, neuf années de services publics, dont cinq au moins de services civils effectifs à la direction des relations économiques extérieures.
