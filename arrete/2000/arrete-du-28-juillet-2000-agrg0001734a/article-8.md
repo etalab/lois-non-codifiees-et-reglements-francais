@@ -1,0 +1,3 @@
+# Article 8
+
+L'arrêté du 16 décembre 1970 fixant les conditions auxquelles est subordonné l'agrément des laboratoires chargés d'effectuer les prélèvements et analyses en vue du paiement du lait de vache en fonction de sa composition et de sa qualité et l'arrêté du 5 juillet 1994 relatif à la commission scientifique et technique chargée de contrôler l'application des méthodes d'analyse du lait de vache sont abrogés. L'arrêté du 2 mai 1985 définissant les modalités techniques selon lesquelles sont prélevés et analysés les échantillons des laits livrés par les producteurs aux fins de la détermination de leur composition et de leur qualité est abrogé dans ses dispositions relatives au lait de vache.
