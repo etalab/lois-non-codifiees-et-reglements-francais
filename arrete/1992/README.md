@@ -1,6 +1,5 @@
 # 1992
 
-- [Arrêté du 1 août 1985](arrete-du-1-aout-1985)
 - [Arrêté du 1 août 1990 (MENK9070115A)](arrete-du-1-aout-1990-menk9070115a)
 - [Arrêté du 1 avril 1992 (AGRG9200468A)](arrete-du-1-avril-1992-agrg9200468a)
 - [Arrêté du 1 avril 1992 (AGRS9200274A)](arrete-du-1-avril-1992-agrs9200274a)
@@ -49,7 +48,6 @@
 - [Arrêté du 2 janvier 1992 (INTB9200050A)](arrete-du-2-janvier-1992-intb9200050a)
 - [Arrêté du 2 janvier 1992 (SANH9102698A)](arrete-du-2-janvier-1992-sanh9102698a)
 - [Arrêté du 2 janvier 1992 (SANH9102700A)](arrete-du-2-janvier-1992-sanh9102700a)
-- [Arrêté du 2 janvier 1992 (SANH9102702A)](arrete-du-2-janvier-1992-sanh9102702a)
 - [Arrêté du 2 juillet 1991 (SPSS9101561A)](arrete-du-2-juillet-1991-spss9101561a)
 - [Arrêté du 2 juillet 1992 (ECOZ9200026A)](arrete-du-2-juillet-1992-ecoz9200026a)
 - [Arrêté du 2 juillet 1992 (MERP9200118A)](arrete-du-2-juillet-1992-merp9200118a)
@@ -1293,5 +1291,5 @@
 - [Arrêté du 31 mars 1992 (PTTR9200184A)](arrete-du-31-mars-1992-pttr9200184a)
 - [Arrêté du 31 mars 1992 (RESY9200039A)](arrete-du-31-mars-1992-resy9200039a)
 - [Arrêté du 31 mars 1992 (SANH9200864A)](arrete-du-31-mars-1992-sanh9200864a)
-- [Arrêté du 31 mars 1992 (SPSS9200875A)](arrete-du-31-mars-1992-spss9200875a)
+- [Arrêté du 31 mars 1992 (SPSs9200875A)](arrete-du-31-mars-1992-spss9200875a)
 - [Arrêté du 1er décembre 1992 (INDM9200968A)](arrete-du-1er-decembre-1992-indm9200968a)
