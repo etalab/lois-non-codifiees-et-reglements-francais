@@ -1,3 +1,0 @@
-# Article 57
-
-Lorsque le syndic s'est opposé, dans les conditions prévues à l'article 20 de la loi du 10 juillet 1965, au paiement du prix de vente d'un lot ou d'une fraction de lot, pour une créance inférieure au montant de ce prix, les effets de l'opposition ainsi formée peuvent être limités, par décision du juge de l'exécution au montant des sommes restant dues au syndicat par l'ancien propriétaire ; les règles de procédure prévues au chapitre II du décret du 31 juillet 1992 instituant de nouvelles règles relatives aux procédures civiles d'exécution pour l'application de la loi du 9 juillet 1991 portant réforme des procédures civiles d'exécution sont applicables.

@@ -13,3 +13,5 @@ Sont notifiés au plus tard en même temps que l'ordre du jour :
 5° Le projet de résolution lorsque l'assemblée est appelée à statuer sur l'une des questions visées aux articles 18 (alinéa 2), 25 a et b, 30 (alinéas 1er et 2), 35 et 37 (alinéas 3 et 4) et 39 de la loi du 10 juillet 1965, ou à autoriser, s'il y a lieu, le syndic à introduire une demande en justice ;
 
 6° L'avis rendu par le conseil syndical lorsque sa consultation est obligatoire, en application du deuxième alinéa de l'article 21 de la loi du 10 juillet 1965.
+
+7° Les conclusions du rapport de l'administrateur provisoire lorsqu'il en a été désigné un par le président du tribunal de grande instance en application des dispositions de l'article 29-1 de la loi du 10 juillet 1965 précitée et si l'assemblée est appelée à statuer sur une question dont la mention à l'ordre du jour résulte de ces conclusions.

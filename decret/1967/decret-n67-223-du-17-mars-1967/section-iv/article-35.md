@@ -10,4 +10,6 @@ Le syndic peut exiger le versement :
 
 4° De provisions spéciales destinées à permettre l'exécution de décisions de l'assemblée générale, comme celles de procéder à la réalisation des travaux prévus aux chapitres III et IV de la loi du 10 juillet 1965, dans les conditions fixées par décisions de ladite assemblée.
 
+5° De provisions spéciales éventuellement décidées par l'assemblée générale en application de l'article 18 de la loi du 10 juillet 1965 modifiée en vue de faire face aux travaux d'entretien ou de conservation des parties communes et des éléments d'équipement commun susceptibles d'être nécessaires dans les trois années à échoir et non encore décidés.
+
 L'assemblée générale décide, s'il y a lieu, du mode de placement des fonds ainsi recueillis.
