@@ -56,6 +56,7 @@
 - [Arrêté du 7 février 1992 (BUDR9205008A)](arrete-du-7-fevrier-1992-budr9205008a)
 - [Arrêté du 7 février 1992 (ECOT9120188A)](arrete-du-7-fevrier-1992-ecot9120188a)
 - [Arrêté du 7 février 1992 (PTTS9200051A)](arrete-du-7-fevrier-1992-ptts9200051a)
+- [Arrêté du 7 janvier 1992 (DEFP9201145A)](arrete-du-7-janvier-1992-defp9201145a)
 - [Arrêté du 7 janvier 1992 (MENT9102967A)](arrete-du-7-janvier-1992-ment9102967a)
 - [Arrêté du 8 août 1985](arrete-du-8-aout-1985)
 - [Arrêté du 8 février 1988 (PTTT8800141A)](arrete-du-8-fevrier-1988-pttt8800141a)
