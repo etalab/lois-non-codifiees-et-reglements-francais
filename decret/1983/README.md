@@ -129,6 +129,7 @@
 - [Décret n°82-1143 du 29 décembre 1982](decret-n82-1143-du-29-decembre-1982)
 - [Décret n°82-1176 du 29 décembre 1982](decret-n82-1176-du-29-decembre-1982)
 - [Décret n°82-562 du 29 juin 1982](decret-n82-562-du-29-juin-1982)
+- [Décret n°83-251 du 29 mars 1983](decret-n83-251-du-29-mars-1983)
 - [Décret n°84-808 du 29 août 1984](decret-n84-808-du-29-aout-1984)
 - [Décret n°82-1162 du 30 décembre 1982](decret-n82-1162-du-30-decembre-1982)
 - [Décret n°82-1213 du 30 décembre 1982](decret-n82-1213-du-30-decembre-1982)
