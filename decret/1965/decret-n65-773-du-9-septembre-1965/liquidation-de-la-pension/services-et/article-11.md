@@ -23,3 +23,7 @@ Cette disposition est étendue aux agents du sexe féminin dont la pension a ét
 II - S'ajoute également aux services effectifs :
 
 Pour les agents des réseaux souterrains des égouts et du corps des identificateurs de l'institut médico-légal de la préfecture de police ayant accompli au moins dix ans de services, selon le cas, dans les réseaux souterrains ou dans le corps précité, dont cinq années consécutives lors de leur admission à la retraite, une bonification de 50 p. 100 [*pourcentage, taux*] du temps effectivement passé dans lesdits services, sans que cette bonification puisse être supérieure à dix années.
+
+III - Pour les sapeurs-pompiers professionnels admis à la retraite à compter [*age*] de cinquante-cinq ans qui ont accompli trente années de services effectifs pris en compte dans la constitution de leurs droits à pension, dont quinze en qualité de sapeurs-pompiers professionnels, une bonification du cinquième du temps de service qu'ils ont effectivement accompli en qualité de sapeurs-pompiers professionnels, sans que cette bonification puisse dépasser cinq ans.    Cet avantage est accordé aux sapeurs-pompiers professionnels radiés des cadres pour invalidité imputable au service.
+
+Cette bonification ne peut avoir pour effet de porter le nombre des annuités liquidables dans la pension au-delà du maximum prévu à l'alinéa 1er de l'article 13 du présent décret.
