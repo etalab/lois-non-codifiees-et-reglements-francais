@@ -273,6 +273,7 @@
 - [Décret n°89-710 du 28 septembre 1989 (MENX8900104D)](decret-n89-710-du-28-septembre-1989-menx8900104d)
 - [Décret n°2002-435 du 29 mars 2002 (INTM0200002D)](decret-n2002-435-du-29-mars-2002-intm0200002d)
 - [Décret n°2002-640 du 29 avril 2002 (MESO0210090D)](decret-n2002-640-du-29-avril-2002-meso0210090d)
+- [Décret n°85-382 du 29 mars 1985](decret-n85-382-du-29-mars-1985)
 - [Décret n°2001-379 du 30 avril 2001 (INTA0100112D)](decret-n2001-379-du-30-avril-2001-inta0100112d)
 - [Décret n°2001-384 du 30 avril 2001 (MESS0120747D)](decret-n2001-384-du-30-avril-2001-mess0120747d)
 - [Décret n°2001-680 du 30 juillet 2001 (INTE0100183D)](decret-n2001-680-du-30-juillet-2001-inte0100183d)
