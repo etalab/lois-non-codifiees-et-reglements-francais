@@ -1,0 +1,3 @@
+# Article 1
+
+Les personnels du lycée privé hôtelier de la chambre de commerce et d'industrie de l'Aisne implanté à Soissons, du lycée professionnel privé de la chambre de commerce et d'industrie de l'Aisne implanté à Saint-Quentin et de l'école technique privée du bassin de Lorraine (Mont-Saint-Martin, Meurthe-et-Moselle) qui remplissent les conditions exigées à l'article 108 de la loi du 30 décembre 1995 susvisée peuvent, sous réserve de satisfaire aux dispositions de l'article 5 de la loi du 13 juillet 1983 susvisée, et s'ils en font la demande dans un délai de six mois à compter de la date de publication du présent décret, être intégrés dans des corps de fonctionnaires relevant du ministère chargé de l'éducation nationale dans les conditions fixées ci-dessous.

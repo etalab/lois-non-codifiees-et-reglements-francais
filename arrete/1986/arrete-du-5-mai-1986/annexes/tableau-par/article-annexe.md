@@ -66,6 +66,10 @@ Département du Jura
 
 3° Grand lac de Clairvaux.
 
+Lac d'Ilay.
+
+Lac du val.
+
 Département de la Loire-Atlantique
 
 1° Lac de Grandlieu ;
