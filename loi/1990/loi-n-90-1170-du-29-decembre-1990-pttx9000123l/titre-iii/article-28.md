@@ -14,16 +14,20 @@ II. - Sans préjudice de l'application du code des douanes, sera puni d'une amen
 
 En cas de condamnation, le tribunal pourra, en outre, prononcer la confiscation des moyens de cryptologie.
 
-III. - Outre les officiers et agents de police judiciaire et les agents des douanes dans leur domaine de compétence, les agents habilités à cet effet par le Premier ministre et assermentés dans des conditions fixées par décret en Conseil d'Etat peuvent rechercher et constater par procès-verbal les infractions aux dispositions du présent article et des textes pris pour son application. Leurs procès-verbaux sont transmis dans les cinq jours au procureur de la République.
+III. - Outre les officiers et agents de police judiciaire agissant conformément aux dispositions du code de procédure pénale et, dans leur domaine de compétence, les agents des douanes agissant conformément aux dispositions du code des douanes, les agents habilités à cet effet par le Premier ministre et assermentés dans des conditions fixées par décret en Conseil d'Etat peuvent rechercher et constater par procès-verbal les infractions aux dispositions du présent article et des textes pris pour son application.
 
-Ils peuvent accéder aux locaux, terrains ou moyens de transport à usage professionnel, demander la communication de tous documents professionnels et en prendre copie, recueillir, sur convocation ou sur place, les renseignements et justifications.
+Les agents habilités par le Premier ministre visés à l'alinéa précédent peuvent accéder aux locaux, terrains ou moyens de transport à usage professionnel en vue de rechercher et de constater les infractions, demander la communication de tous documents professionnels et en prendre copie, recueillir, sur convocation ou sur place, les renseignements et justifications. Les agents ne peuvent accéder à ces locaux que pendant leurs heures d'ouverture lorsqu'ils sont ouverts au public et, dans les autres cas, qu'entre 8 heures et 20 heures. Ils ne peuvent accéder aux locaux qui servent pour partie de domicile aux intéressés.
 
-Ils peuvent procéder, dans ces mêmes lieux, à la saisie des matériels visés au paragraphe I sur autorisation judiciaire donnée par ordonnance du président du tribunal de grande instance dans le ressort duquel sont situés les matériels, ou d'un juge délégué par lui.
+Le procureur de la République est préalablement informé des opérations envisagées en vue de la recherche des infractions, par les agents visés au deuxième alinéa. Il peut s'opposer à ces opérations. Les procès-verbaux lui sont transmis dans les cinq jours suivant leur établissement. Une copie en est également remise à l'intéressé.
+
+Les agents habilités par le Premier ministre visés au deuxième alinéa peuvent, dans les mêmes lieux et les mêmes conditions de temps que ceux visés au même alinéa du présent paragraphe, procéder à la saisie des matériels visés au paragraphe I sur autorisation judiciaire donnée par ordonnance du président du tribunal de grande instance dans le ressort duquel sont situés les matériels, ou d'un juge délégué par lui.
 
 La demande doit comporter tous les éléments d'information de nature à justifier la saisie. Celle-ci s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée.
 
-Les matériels saisis sont immédiatement inventoriés. L'inventaire est annexé au procès-verbal dressé sur les lieux. Les originaux du procès-verbal et de l'inventaire sont transmis au juge qui a ordonné la saisie.
+Les matériels saisis sont immédiatement inventoriés. L'inventaire est annexé au procès-verbal dressé sur les lieux. Les originaux du procès-verbal et de l'inventaire sont transmis, dans les cinq jours suivant leur établissement, au juge qui a ordonné la saisie.
 
-Le président du tribunal de grande instance ou le juge délégué par lui pourra d'office à tout moment ou sur la demande de l'intéressé ordonner mainlevée de la saisie.
+Le président du tribunal de grande instance ou le juge délégué par lui peut d'office à tout moment ou sur la demande de l'intéressé ordonner mainlevée de la saisie.
+
+Sera puni d'un emprisonnement d'un à trois mois et d'une amende de 2 000 F à 200 000 F, ou de l'une de ces deux peines seulement, quiconque aura, sans raison valable, refusé de fournir les informations ou documents ou fait obstacle au déroulement des enquêtes mentionnées au présent paragraphe.
 
 IV. - Les autorisations de fourniture, d'exportation ou d'utilisation de moyens ou de prestations de cryptologie délivrées avant la date de publication de la présente loi conservent leurs effets jusqu'à l'expiration du terme prévu.
