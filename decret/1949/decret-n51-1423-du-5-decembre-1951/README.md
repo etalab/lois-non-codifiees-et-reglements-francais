@@ -3,3 +3,4 @@
 - [Article 1](article-1.md)
 - [CHAPITRE II : Règles applicables à certains fonctionnaires et agents.](chapitre-ii)
 - [CHAPITRE III : Dispositions transitoires](chapitre-iii)
+- [CHAPITRE PREMIER : Règles générales.](chapitre-premier)
