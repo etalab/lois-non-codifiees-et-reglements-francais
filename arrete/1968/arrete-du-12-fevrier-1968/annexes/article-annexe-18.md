@@ -1,14 +1,16 @@
-# Article Annexe 18
+# Article ANNEXE 18
 
-EMPLOIS.
+Emplois.
 
-Secrétaire général des villes de 10.000 à 80.000 habitants.
+Secrétaire général des villes de 5.000 habitants à 80.000 habitants.
 
 Secrétaire général adjoint des villes de 20.000 à 400.000 habitants.
 
 Directeur des services administratifs.
 
-Durée d'ancienneté dans chaque échelon. :============================================================:
+Durée d'ancienneté dans chaque échelon.
+
+==============================================================
 
 <table>
 <tr>
@@ -63,20 +65,16 @@ Durée d'ancienneté dans chaque échelon. :====================================
 <td> : 8ème échelon   :                     :                     :</td>
 </tr>
 <tr>
-<td> :                :  ---------------    :  -----------------  :</td>
-</tr>
-<tr>
-<td> :                :                     :                     :</td>
+<td> :                :   -------------     :   --------------    :</td>
 </tr>
 <tr>
 <td> :      TOTAL     :   16 ans 6 mois     :   13 ans.           :</td>
 </tr>
-<tr>
-<td> :============================================================:</td>
-</tr>
 </table>
 
-Attaché communal de 2ème classe. :============================================================:
+==============================================================                 Attaché communal de 2ème classe.
+
+==============================================================
 
 <table>
 <tr>
@@ -137,15 +135,11 @@ Attaché communal de 2ème classe. :============================================
 <td> : 8ème échelon   :                     :                     :</td>
 </tr>
 <tr>
-<td> :                :  ---------------    :  -----------------  :</td>
-</tr>
-<tr>
-<td> :                :                     :                     :</td>
+<td> :                :   -------------     :   --------------    :</td>
 </tr>
 <tr>
 <td> :      TOTAL     :   14 ans            :   11 ans.           :</td>
 </tr>
-<tr>
-<td> :============================================================:</td>
-</tr>
 </table>
+
+==============================================================

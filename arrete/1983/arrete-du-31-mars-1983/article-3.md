@@ -1,3 +1,3 @@
 # Article 3
 
-Le présent arrêté est applicable dans les départements d'outre-mer, sous réserve des dispositions particulières qui ont été prises ou seront prises par arrêté des commissaires de la République de ces départements.
+Les dispositions des arrêtés n° 72-75/P du 28 décembre 1972 et n° 76-125/P du 23 décembre 1976 cessent d'être applicables.

@@ -1,11 +1,15 @@
 # Article 1
 
-Sont entérinées par le présent arrêté les conventions nationales suivantes dont le texte est joint en annexe au présent arrêté :
+Les taux limites de marque brute, applicables aux ventes des spécialités vétérinaires et des produits définis par l'article
 
-Convention en date du 16 mars 1983 souscrite par la fédération française du négoce du bois ;
+L. 611 du code de la santé publique sont fixés, taxe comprise, comme suit :
 
-Convention en date du 16 mars 1983 souscrite par la fédération nationale des chambres syndicales des distributeurs ensembliers en équipements sanitaires, chauffage et canalisation et la fédération nationale des négociants en matériaux de construction ;
+Grossiste : 14,62 p. 100 ;
 
-Convention en date du 16 mars 1983 souscrite par la fédération des syndicats de négociants techniques ;
+Détaillant s'approvisionnant auprès du grossiste ou importateur :
 
-Convention en date du 16 mars 1983 souscrite par le syndicat général des commerces et industries du caoutchouc et des plastiques.    Les dispositions de ces conventions sont applicables à toutes les entreprises exerçant les activités couvertes par les conventions.
+35,77 p. 100 ;
+
+Détaillant s'approvisionnant directement auprès du fabricant :
+
+45,19 p. 100.

@@ -1,10 +1,12 @@
-# Article Annexe 17
+# Article ANNEXE 17
 
-EMPLOI.
+Emploi.
 
-Secrétaire général des villes de 2.000 habitants à 10.000 habitants.
+Secrétaire général des villes de 2.000 habitants à 5.000 habitants.
 
-Durée d'ancienneté dans chaque échelon. :============================================================:
+Durée d'ancienneté dans chaque échelon.
+
+==============================================================
 
 <table>
 <tr>
@@ -38,7 +40,7 @@ Durée d'ancienneté dans chaque échelon. :====================================
 <td> :                :                     :                     :</td>
 </tr>
 <tr>
-<td> : 5ème échelon   :    3 ans.           :    2 ans 6 mois.    :</td>
+<td> : 5ème échelon   :    3 ans            :    2 ans 6 mois.    :</td>
 </tr>
 <tr>
 <td> :                :                     :                     :</td>
@@ -59,15 +61,11 @@ Durée d'ancienneté dans chaque échelon. :====================================
 <td> : 8ème échelon   :                     :                     :</td>
 </tr>
 <tr>
-<td> :                :  ---------------    :  -----------------  :</td>
-</tr>
-<tr>
-<td> :                :                     :                     :</td>
+<td> :                :   -------------     :   --------------    :</td>
 </tr>
 <tr>
 <td> :      TOTAL     :   20 ans 6 mois     :   17 ans.           :</td>
 </tr>
-<tr>
-<td> :============================================================:</td>
-</tr>
 </table>
+
+==============================================================

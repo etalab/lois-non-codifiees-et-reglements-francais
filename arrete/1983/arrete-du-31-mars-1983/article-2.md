@@ -1,3 +1,11 @@
 # Article 2
 
-Le non-respect de ces conventions constitue une pratique de prix illicite au sens de l'article 36 de l'ordonnance n° 45-1483 du 30 juin 1945 relative aux prix.
+Le prix de vente, toutes taxes comprises, des produits visés à l'article 1er ne peut dépasser celui qui résulte de l'application, au prix d'achat hors taxes, des coefficients multiplicateurs suivants :
+
+Grossiste : 1,3891.
+
+Détaillant s'approvisionnant auprès du grossiste ou importateur :
+
+1,8465.
+
+Détaillant s'approvisionnant auprès du fabricant : 2,1638.
