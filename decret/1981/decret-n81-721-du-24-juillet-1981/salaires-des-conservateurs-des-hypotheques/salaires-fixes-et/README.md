@@ -1,0 +1,3 @@
+# SALAIRES FIXES ET MINIMUM DE PERCEPTION
+
+- [Article 6](article-6.md)
