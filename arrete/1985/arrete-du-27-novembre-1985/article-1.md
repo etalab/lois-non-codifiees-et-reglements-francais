@@ -1,27 +1,132 @@
 # Article 1
 
-La liste nationale d'aptitude aux fonctions de praticien conseil chargé du contrôle médical du régime agricole de protection sociale comprend trois sections :
+Pour l'élection des administrateurs des caisses du régime général de sécurité sociale, le coût du papier et les frais d'impression des circulaires, bulletins de vote et affiches sont remboursés aux candidats dans le limite des tarifs hors taxes fixés dans le tableau suivant :
 
-Médecine ;
+----------------------------------
 
-Chirurgie dentaire ;
+<table>
+<tr>
+<td> :                  : PREMIER     :</td>
+</tr>
+<tr>
+<td> :   DOCUMENTS      : MILLE       :</td>
+</tr>
+<tr>
+<td> :                  : (en francs) :</td>
+</tr>
+<tr>
+<td> :------------------:-------------:</td>
+</tr>
+<tr>
+<td> : 1° Circulaires : :             :</td>
+</tr>
+<tr>
+<td> : - impression     :             :</td>
+</tr>
+<tr>
+<td> :   recto          :    617,84   :</td>
+</tr>
+<tr>
+<td> : - impression     :             :</td>
+</tr>
+<tr>
+<td> :   recto verso    :    865,68   :</td>
+</tr>
+<tr>
+<td> : 2° Bulletins de  :             :</td>
+</tr>
+<tr>
+<td> :    vote          :    515,25   :</td>
+</tr>
+<tr>
+<td> :                  :-------------:</td>
+</tr>
+<tr>
+<td> :                  : Les 10      :</td>
+</tr>
+<tr>
+<td> :                  : premières   :</td>
+</tr>
+<tr>
+<td> :                  : (en francs) :</td>
+</tr>
+<tr>
+<td> :                  :-------------:</td>
+</tr>
+<tr>
+<td> : 3° Affiches :    :             :</td>
+</tr>
+<tr>
+<td> : - grand format   :   1579,20   :</td>
+</tr>
+<tr>
+<td> : - petit format   :    403,44   :</td>
+</tr>
+</table>
 
-Pharmacie.
+--------------------------------------------------------------------
 
-En vue de l'inscription dans chacune de ces sections, il est procédé à un concours, à la date arrêtée par le ministre de l'agriculture, après consultation du conseil central d'administration de la mutualité sociale agricole et publiée au moins deux mois [*délai*], avant la date des épreuves.
+<table>
+<tr>
+<td> :                  :             :</td>
+</tr>
+<tr>
+<td> :                  :    MILLE    :</td>
+</tr>
+<tr>
+<td> :   DOCUMENTS      :   SUIVANT   :</td>
+</tr>
+<tr>
+<td> :                  : (en francs) :</td>
+</tr>
+<tr>
+<td> :------------------:-------------:</td>
+</tr>
+<tr>
+<td> : 1° Circulaires : :             :</td>
+</tr>
+<tr>
+<td> : - impression     :             :</td>
+</tr>
+<tr>
+<td> :   recto          :    111,81   :</td>
+</tr>
+<tr>
+<td> : - impression     :             :</td>
+</tr>
+<tr>
+<td> :   recto verso    :    119,88   :</td>
+</tr>
+<tr>
+<td> : 2° Bulletins de  :             :</td>
+</tr>
+<tr>
+<td> :    vote          :     94,52   :</td>
+</tr>
+<tr>
+<td> :                  :-------------:</td>
+</tr>
+<tr>
+<td> :                  : L'unité     :</td>
+</tr>
+<tr>
+<td> :                  : supplément. :</td>
+</tr>
+<tr>
+<td> :                  : (en francs) :</td>
+</tr>
+<tr>
+<td> :                  :-------------:</td>
+</tr>
+<tr>
+<td> : 3° Affiches :    :             :</td>
+</tr>
+<tr>
+<td> : - grand format   :      1,55   :</td>
+</tr>
+<tr>
+<td> : - petit format   :      0,51   :</td>
+</tr>
+</table>
 
-Ce concours comporte :
-
-1° Deux épreuves écrites anonymes d'admissibilité :
-
-La première (coefficient 2), d'une durée de trois heures portant sur une ou plusieurs questions d'ordre technique médico-social faisant appel aux connaissances propres à la discipline professionnelle des candidats ;
-
-La deuxième (coefficient 2), d'une durée de trois heures portant sur la rédaction d'une note de synthèse en partant d'écrits d'intérêt général en rapport avec les législations de sécurité sociale ou de santé publique, l'organisation des professions médicales en France et leur rôle dans la vie du pays et l'économie de la santé.
-
-Chacune de ces deux épreuves sera notée sur 20.
-
-Sera considéré comme éliminatoire, avant application des coefficients, un total des notes inférieur à 20 points.
-
-2° Une épreuve orale d'admission (coefficient 3) d'une durée maximale de vingt minutes, au cours de laquelle le candidat fera un exposé portant sur son curriculum vitae, ses titres et ses travaux, les motifs de sa candidature et sa conception du rôle de praticien conseil.
-
-Les sujets des épreuves sont choisis par le jury prévu à l'article 4 du présent arrêté. En ce qui concerne les questions d'ordre technique, il effectue son choix sur proposition des praticiens participant au jury.
+----------------------------------

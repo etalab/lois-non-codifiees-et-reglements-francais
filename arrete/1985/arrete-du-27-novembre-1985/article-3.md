@@ -1,5 +1,3 @@
 # Article 3
 
-Tout candidat ayant échoué à un concours ne peut se représenter avant un délai de douze mois.
-
-Tout candidat ayant subi trois échecs est éliminé définitivement.
+Les préfets sont chargés de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

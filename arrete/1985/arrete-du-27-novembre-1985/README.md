@@ -1,20 +1,7 @@
-# Arrêté du 27 novembre 1985 fixant les conditions d'inscription sur les listes d'aptitude prévues aux articles 11 et 12 du décret n° 69-671 du 19 juin 1969 modifié relatif au contrôle médical du régime agricole de protection sociale.
+# Arrêté du 27 novembre 1985 fixant les modalités de remboursement du coût du papier et des frais d'impression exposés pour l'élection des administrateurs des caisses du régime général de sécurité sociale.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
-- [Article 6](article-6.md)
-- [Article 7](article-7.md)
-- [Article 8](article-8.md)
-- [Article 9](article-9.md)
-- [Article 10](article-10.md)
-- [Article 11](article-11.md)
-- [Article 12](article-12.md)
-- [Article 13](article-13.md)
-- [Article 14](article-14.md)
-- [Article 15](article-15.md)
-- [Article 16](article-16.md)
-- [Article 17](article-17.md)
-- [Article 18](article-18.md)
