@@ -2,6 +2,7 @@
 
 - [Arrêté du 2 mai 2002 (DEFP0201370A)](arrete-du-2-mai-2002-defp0201370a)
 - [Arrêté du 4 mai 2001 (ECOB0130019A)](arrete-du-4-mai-2001-ecob0130019a)
+- [Arrêté du 5 décembre 2000 (ATEN0090435A)](arrete-du-5-decembre-2000-aten0090435a)
 - [Arrêté du 5 septembre 2001 (INTC0100526A)](arrete-du-5-septembre-2001-intc0100526a)
 - [Arrêté du 6 août 2001 (EQUZ0101265A)](arrete-du-6-aout-2001-equz0101265a)
 - [Arrêté du 6 décembre 2002 (PRMX0200182A)](arrete-du-6-decembre-2002-prmx0200182a)
