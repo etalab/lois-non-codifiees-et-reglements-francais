@@ -6,7 +6,7 @@ Sous-direction A : études et animation
 
 Bureau A 1. - Etudes économiques et information générale :
 
-analyse et prévisions des prix ; conjoncture ; documentation économique générale ; information sur les activités de la direction générale et information des consommateurs ; organisation des ateliers et colloques.
+analyse et prévisions des prix ; conjoncture ; documentation économique générale en liaison avec le bureau G 2 et l'Ecole nationale de la concurrence, de la consommation et de la répression des fraudes ; information sur les activités de la direction générale et information des consommateurs ; organisation des ateliers et colloques ; animation et pilotage des réflexions à mener sur l'accueil des publics, développement et suivi de la mise en oeuvre de la politique de l'accueil.
 
 Bureau A 2. - Politique générale de la consommation et vie associative : tutelle sur l'Institut national de la consommation (INC) ; secrétariat du Conseil national de la consommation (CNC) et du groupe interministériel de la consommation (GIC) ; suivi de l'activité des associations de consommateurs, des centres techniques régionaux de la consommation et des comités départementaux ; subventions et conventions financières ; agrément pour l'action civile.
 
@@ -14,7 +14,7 @@ Bureau A 3. - Animation des services déconcentrés : programmation et pilotage 
 
 Sous-direction B : concurrence et affaires juridiques
 
-Bureau B 1. - Politique de la concurrence et pratiques anticoncurrentielles : contentieux du titre III de l'ordonnance du 1er décembre 1986 au Conseil de la concurrence, à la cour d'appel de Paris et à la Cour de cassation ; relations avec la commission de l'Union européenne et les autorités de concurrence étrangères ; contentieux des articles 85 à 90 du traité de l'Union européenne ; OCDE, CNUCED et OMC.
+Bureau B 1. - Politique de la concurrence et pratiques anticoncurrentielles : contentieux du titre III de l'ordonnance du 1er décembre 1986 au Conseil de la concurrence, à la cour d'appel de Paris et à la Cour de cassation ; relations avec la commission de l'Union européenne et les autorités de concurrence étrangères ; contentieux des articles 81 à 90 du traité de l'Union européenne ; OCDE, CNUCED et OMC.
 
 Bureau B 2. - Affaires juridiques et contentieux : contentieux du titre IV de l'ordonnance du 1er décembre 1986 et du livre II du code de la consommation ; contentieux des pouvoirs d'enquête ; procédures de l'article 48 de l'ordonnance du 1er décembre 1986 ; droit des marques ; contentieux administratif ; BOCCRF ; recherche juridique et jurisprudence ; conditions juridiques de communication des documents ; avis juridiques.
 
@@ -22,13 +22,13 @@ Bureau B 3. - Concentrations et aides : concentrations nationales et communautai
 
 Bureau B 4. - Marchés publics et délégations de services publics :
 
-concurrence dans les marchés publics ; favoritisme ; suivi de la réglementation et de la jurisprudence ; relations avec la Commission centrale des marchés (CCM) ; délégations de services publics ; loi sur la maîtrise d'oeuvre publique ; groupements d'achat ; secrétariat de la commission consultative des indices matières (COCIM).
+concurrence dans les marchés publics ; favoritisme ; suivi de la réglementation et de la jurisprudence ; relations avec la direction des affaires juridiques ; délégations de services publics ; loi sur la maîtrise d'oeuvre publique ; groupements d'achat ; secrétariat de la commission consultative des indices matières (COCIM).
 
 Sous-direction C : protection du consommateur
 
 Bureau C 1. - Droit de la consommation : suivi du droit national et communautaire de la consommation ; pratiques commerciales réglementées par le code de la consommation ; réseau d'alerte de l'OCDE sur les pratiques commerciales ; relations des consommateurs avec les banques et crédit à la consommation ; surendettement ; responsabilité du fait des produits ; emploi de la langue française ; procédures de règlement des litiges de la consommation.
 
-Bureau C 2. - Sécurité : affaires générales et coordination en matière de sécurité des produits alimentaires, des produits industriels et des services (relations avec les organismes scientifiques d'expertise) ; secrétariat de la commission de technologie alimentaire (relations avec la commission de la sécurité des consommateurs [CSC]) ; point de contact des réseaux d'alerte européens et nationaux ;
+Bureau C 2. - Réseaux d'alerte et sécurité : affaires générales et coordination en matière de sécurité des produits alimentaires, des produits industriels et des services (relations avec les organismes scientifiques d'expertise) ; secrétariat de la commission de technologie alimentaire (relations avec la commission de la sécurité des consommateurs [CSC]) ; point de contact des réseaux d'alerte européens et nationaux ; relations avec l'Agence française de sécurité sanitaire des aliments pour les matières relevant de sa compétence ;
 
 Suivi des travaux nationaux et internationaux en matière d'hygiène et de sécurité dans les domaines alimentaires et non alimentaires suivants :
 
@@ -37,5 +37,3 @@ Suivi des travaux nationaux et internationaux en matière d'hygiène et de sécu
 - préparations chimiques dangereuses, aérosols, produits cosmétiques, réactifs de laboratoire.
 
 Bureau C 3. - Loyauté : coordination et suivi des questions générales relatives à la loyauté des produits et services et des questions européennes et internationales (Codex, OMC) relatives à la libre circulation des marchandises et au contrôle du marché ; actions nationales et internationales de valorisation et de maîtrise de qualité : normalisation, certification, assurance qualité, appellations d'origine, labels, chartes professionnelles ; étiquetage des produits, allégations, métrologie ; participation à la définition et au suivi de la politique générale en matière de qualité et sécurité des produits et services.
-
-Bureau C 4. - Laboratoires : animation et coordination scientifique des activités des laboratoires ; assurance qualité, accréditation et agrément des laboratoires ; méthodes d'analyses ; plan de charge, rationalisation, organisation, suivi et évaluation des activités des laboratoires, notamment à partir de la comptabilité analytique ; études et recherches.

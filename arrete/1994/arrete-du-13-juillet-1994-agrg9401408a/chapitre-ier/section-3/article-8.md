@@ -29,3 +29,5 @@ Pendant les six mois précédant la collecte d'embryons, les femelles donneuses 
 2° Pour le point 2 e : certificat du vétérinaire sanitaire de l'élevage d'origine.
 
 3° Pour les points 3 et 4 : certificat du vétérinaire de l'équipe.
+
+6. Des dérogations au point 2 a ci-dessus peuvent être accordées au cas par cas, après avis motivé du directeur des services vétérinaires, par la directrice générale de l'alimentation, en fonction des intérêts zootechniques à préserver.

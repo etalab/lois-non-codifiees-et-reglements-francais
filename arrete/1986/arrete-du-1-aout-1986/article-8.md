@@ -26,11 +26,11 @@ Haute-Savoie, Vosges.
 
 2. Pour la chasse du mouflon :
 
-- la chasse en battue ou traque, sauf dans les départements suivants : Alpes-Maritimes, Aveyron, Cantal, Dordogne, Gard, Hérault, Puy-de-Dôme, Haute-Savoie, Vosges ;
+- la chasse en battue ou traque, sauf dans les départements suivants : Alpes-Maritimes, Aveyron, Cantal, Dordogne, Gard, Hérault, Puy-de-Dôme, Vosges ;
 
 - l'emploi des chiens, sauf dans les départements suivants :
 
-Aveyron, Dordogne, Gard, Hérault, Puy-de-Dôme, Savoie, Haute-Savoie, Vosges.
+Aveyron, Dordogne, Gard, Hérault, Puy-de-Dôme, Savoie, Vosges.
 
 III. - La chasse du lapin peut être pratiquée à l'aide du furet. Toutefois son emploi est soumis à une autorisation individuelle délivrée par le préfet dans les départements suivants :
 

@@ -2,7 +2,7 @@
 
 En vue d'échanges intracommunautaires, les embryons issus de fécondation in vivo doivent :
 
-a) Provenir de femelles donneuses satisfaisant aux conditions sanitaires fixées à l'article 8 du présent arrêté ;
+a) Provenir de femelles donneuses satisfaisant aux conditions sanitaires fixées aux points 1 à 5 de l'article 8 ci-dessus ;
 
 b) Avoir été collectés et traités dans les conditions fixées à l'article 6 du présent arrêté par une équipe de transplantation embryonnaire agréée ;
 

@@ -2,54 +2,36 @@
 
 La liste des entreprises publiques et sociétés nationales prévue à l'article 1er du présent décret est établie comme suit :
 
-1. Ministère de l'économie et des finances :
+Banque de France ;
 
-Banque de France.
+Caisse centrale de réassurance ;
 
-Caisse centrale de réassurance.
+Caisse des dépôts-développement ;
 
-Caisse des dépôts-développement.
+CDC Finance - CDC Ixis ;
 
-Compagnie financière Hervet.
+CNP Assurances SA ;
 
-Crédit d'équipement des petites et moyennes entreprises.
+Entreprise minière et chimique ;
 
-Crédit lyonnais.
+GIAT Industries ;
 
-La Française des jeux.
+La Française des jeux ;
 
-Société centrale des Assurances générales de France.
+SNPE ;
 
-Société centrale du Groupe des assurances nationales.
+Société Air France ;
 
-Société marseillaise de crédit.
+Société concessionnaire française pour la construction et l'exploitation du tunnel routier sous le Mont-Blanc ;
 
-CNP Assurances SA.
+Société des autoroutes du sud de la France ;
 
-2. Ministère de la défense :
+Société des autoroutes du nord et de l'est de la France ;
 
-Aérospatiale.
+Société des autoroutes Paris-Rhin-Rhône ;
 
-G.I.A.T. Industries.
+Société française du tunnel routier du Fréjus ;
 
-Société nationale d'études et de construction de moteurs d'aviation.
+Société nationale d'étude et de construction de moteurs d'aviation ;
 
-Société nationale des poudres et explosifs.
-
-3. Ministère de l'équipement, du logement, des transports et du tourisme :
-
-Compagnie générale maritime.
-
-Groupe Air France S.A.
-
-4. Ministère de l'industrie, de la poste et des télécommunications :
-
-Compagnie des machines Bull.
-
-Entreprise minière et chimique.
-
-Entreprise de recherches et d'activités pétrolières.
-
-Régie nationale des usines Renault.
-
-Thomson S.A..
+Société nationale immobilière.
