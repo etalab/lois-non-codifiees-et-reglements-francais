@@ -4,7 +4,7 @@ La définition et le tarif de cession des produits sanguins labiles autres que l
 
 Sang humain total (unité adulte, unité enfant et unité pédiatrique) : 447,30 F ;
 
-Concentré de globules rouges humains (unité adulte, unité enfant et unité pédiatrique) : 531,99 F ;
+Concentré de globules rouges humains (unité adulte, unité enfant, unité pédiatrique) : 544,60 F ;
 
 Concentré unitaire de granulocytes d'aphérèse : 4 571,99 F ;
 

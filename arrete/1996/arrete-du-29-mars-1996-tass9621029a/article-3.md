@@ -4,11 +4,11 @@ La définition et le tarif de cession des plasmas pour fractionnement sont les s
 
 Plasma pour fractionnement dit de catégorie 1 provenant de plasmaphérèse, le litre : 509,15 F
 
-Plasma pour fractionnement dit de catégorie 1 provenant de déplasmatisation de sang total, le litre : 376,30 F
+Plasma pour fractionnement dit de catégorie 1 provenant de déplasmatisation de sang total, le litre : 326,72 F ;
 
 Plasma pour fractionnement dit de catégorie 2, le litre :
 
-376,30 F
+326,72 F.
 
 Plasma pour fractionnement dit de catégorie 3, le litre : 95,15 F
 
