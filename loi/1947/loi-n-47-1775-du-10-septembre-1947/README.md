@@ -4,6 +4,7 @@
 - [Titre II : De l'organisation et de l'administration des coopératives.](titre-ii)
 - [Titre II bis.](titre-ii-bis)
 - [Titre II ter : Certificats coopératifs d'investissement.](titre-ii-ter)
-- [Titre II quater : Certificats coopératifs d'associés.](titre-ii-quater)
+- [Titre II quater : Certificats coopératifs d'investissement.](titre-ii-quater)
+- [Titre II quinquies : Certificats coopératifs d'associés](titre-ii-quinquies)
 - [Titre III : Contrôle et sanctions.](titre-iii)
 - [Titre IV : Dispositions diverses.](titre-iv)
