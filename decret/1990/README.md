@@ -55,6 +55,7 @@
 - [Décret n°90-38 du 11 janvier 1990 (ECOA9000009D)](decret-n90-38-du-11-janvier-1990-ecoa9000009d)
 - [Décret n°90-54 du 11 janvier 1990 (MCCX9000003D)](decret-n90-54-du-11-janvier-1990-mccx9000003d)
 - [Décret n°89-662 du 12 septembre 1989 (INDD8900533D)](decret-n89-662-du-12-septembre-1989-indd8900533d)
+- [Décret n°90-132 du 12 février 1990 (INDH9000031D)](decret-n90-132-du-12-fevrier-1990-indh9000031d)
 - [Décret n°90-42 du 12 janvier 1990 (BUDZ9000002D)](decret-n90-42-du-12-janvier-1990-budz9000002d)
 - [Décret n°90-52 du 12 janvier 1990 (ECOT8950506D)](decret-n90-52-du-12-janvier-1990-ecot8950506d)
 - [Décret n°90-53 du 12 janvier 1990 (TEFT9003006D)](decret-n90-53-du-12-janvier-1990-teft9003006d)

@@ -50,6 +50,8 @@
 - [Arrêté du 11 décembre 1989 (RESY8900378A)](arrete-du-11-decembre-1989-resy8900378a)
 - [Arrêté du 11 janvier 1990 (ECOZ8900034A)](arrete-du-11-janvier-1990-ecoz8900034a)
 - [Arrêté du 11 janvier 1990 (EQUT9000150A)](arrete-du-11-janvier-1990-equt9000150a)
+- [Arrêté du 12 février 1990 (INDH9000032A)](arrete-du-12-fevrier-1990-indh9000032a)
+- [Arrêté du 12 février 1990 (INDH9000033A)](arrete-du-12-fevrier-1990-indh9000033a)
 - [Arrêté du 12 janvier 1990 (EQUA9000107A)](arrete-du-12-janvier-1990-equa9000107a)
 - [Arrêté du 12 mars 1990 (MENE9000469A)](arrete-du-12-mars-1990-mene9000469a)
 - [Arrêté du 12 mars 1990 (SPSG9000671A)](arrete-du-12-mars-1990-spsg9000671a)
