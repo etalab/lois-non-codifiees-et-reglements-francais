@@ -1,6 +1,6 @@
 # Article 11
 
-Le crématorium est soumis à une visite de conformité par un organisme de certification agréé par le ministre chargé de la santé. L'attestation de conformité de l'installation de crémation est délivrée au gestionnaire du crématorium par la direction départementale des affaires sanitaires et sociales (D.D.A.S.S.) pour une durée de six ans, au vu de ce rapport de visite.
+Le crématorium est soumis à une visite de conformité par un bureau de contrôle agréé par le ministre chargé de la santé. L'attestation de conformité de l'installation de crémation est délivrée au gestionnaire du crématorium par la direction départementale des affaires sanitaires et sociales (D.D.A.S.S.) pour une durée de six ans, au vu de ce rapport de visite.
 
 La durée de l'attestation de conformité des crématoriums et des fours de crémation en activité ou autorisés à la date de publication du présent décret est limitée à cinq ans pour tenir compte de la période transitoire prévue à l'article 10 du présent décret.
 

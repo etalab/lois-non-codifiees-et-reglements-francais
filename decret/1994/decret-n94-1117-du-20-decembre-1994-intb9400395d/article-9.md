@@ -2,9 +2,7 @@
 
 Le crématorium doit être pourvu de moyens de secours contre l'incendie.
 
-Le local contenant le ou les fours de crémation ainsi que la salle d'introduction du cercueil sont isolés des locaux adjacents par des parois fixes ou mobiles coupe-feu de degré deux heures du point de vue de leur comportement au feu.
-
-Le local contenant le ou les fours de crémation ainsi que la salle d'introduction du cercueil sont pourvus en parties haute et basse d'orifices d'aération donnant directement sur l'extérieur du crématorium et placés de façon opposée, d'une surface au moins égale à 16 décimètres carrés par orifice, cette valeur s'appliquant pour un seul four de crémation.
+Le local contenant le four de crémation ainsi que la salle d'introduction du cercueil sont séparés des locaux adjacents par des parois fixes de degré coupe-feu deux heures, par des parois mobiles de degré coupe-feu une heure, le vitrage éventuel de la salle de présentation visuelle étant de degré coupe-feu une heure.    Le local contenant le ou les fours de crémation ainsi que la salle d'introduction du cercueil sont pourvus en parties haute et basse d'orifices d'aération donnant directement sur l'extérieur du crématorium et placés de façon opposée, d'une surface au moins égale à 16 décimètres carrés par orifice, cette valeur s'appliquant pour un seul four de crémation.
 
 Dans le cas où le pulvérisateur de calcius n'est pas intégré au four de crémation, il doit être équipé d'un dispositif d'aspiration des poussières.
 
