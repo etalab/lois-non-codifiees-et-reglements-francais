@@ -7,5 +7,3 @@ Sous réserve des mentions spécifiques figurant dans l'annexe du présent arrê
 - assistant animateur, les titulaires des diplômes mentionnés au tableau B ;
 
 - accompagnateur ou animateur, les titulaires des diplômes mentionnés au tableau C.
-
-Les titulaires des diplômes mentionnés au tableau D peuvent prendre le titre attribué par le diplôme équivalent.
