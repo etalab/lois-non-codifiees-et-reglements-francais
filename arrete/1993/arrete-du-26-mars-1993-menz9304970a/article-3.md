@@ -2,11 +2,11 @@
 
 Les candidats doivent déposer avant le 1er juin de chaque année auprès d'une université comportant une unité de formation et de recherche (U.F.R.) médicale, odontologique ou pharmaceutique un dossier comportant les pièces suivantes :
 
-- fiche d'état civil ;
+- copie de leur pièce d'identité ;
 
 - curriculum vitae détaillé ;
 
-- copie certifiée conforme de (des) diplôme(s) obtenu(s) ;
+- copie de (des) diplôme(s) obtenu(s) ;
 
 - liste des titres et travaux scientifiques, avec éventuellement les tirés à part des travaux les plus significatifs ;
 

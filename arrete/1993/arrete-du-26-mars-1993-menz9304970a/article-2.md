@@ -38,4 +38,22 @@ Toutefois, les élèves des écoles normales supérieures citées ci-dessus peuv
 
 - Ecole supérieure de physique et de chimie industrielles de la ville de Paris ;
 
+Ecole supérieure d'électricité ;
+
+Ecole nationale supérieure des télécommunications ;
+
+Ecole nationale supérieure des télécommunications de Bretagne ;
+
+Ecole nationale supérieure des mines de Nancy (INP de Lorraine) ;
+
+Ecole des hautes études industrielles de Lille ;
+
+Ecole nationale supérieure des ingénieurs en arts chimiques et technologiques (INP Toulouse) ;
+
+Ecole nationale supérieure d'électrochimie et d'électrométallurgie (INP Grenoble) ;
+
+Ecole nationale supérieure d'informatique et de mathématiques appliquées (INP Grenoble) ;
+
+Ecole nationale supérieure de physique (INP Grenoble).
+
 - soit appartenir aux corps des enseignants-chercheurs de l'enseignement supérieur et exercer ses activités d'enseignement dans une unité de formation et de recherche de médecine, de pharmacie ou d'odontologie.

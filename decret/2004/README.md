@@ -128,6 +128,8 @@
 - [Décret n°2004-1294 du 26 novembre 2004 (EQUA0401199D)](decret-n2004-1294-du-26-novembre-2004-equa0401199d)
 - [Décret n°2004-1295 du 26 novembre 2004 (EQUA0401315D)](decret-n2004-1295-du-26-novembre-2004-equa0401315d)
 - [Décret n°2004-81 du 26 janvier 2004 (INTA0400017D)](decret-n2004-81-du-26-janvier-2004-inta0400017d)
+- [Décret n°2004-85 du 26 janvier 2004 (EQUP0301770D)](decret-n2004-85-du-26-janvier-2004-equp0301770d)
+- [Décret n°2004-86 du 26 janvier 2004 (EQUR0301437D)](decret-n2004-86-du-26-janvier-2004-equr0301437d)
 - [Décret n°2005-1048 du 26 août 2005 (EQUA0500746D)](decret-n2005-1048-du-26-aout-2005-equa0500746d)
 - [Décret n°2005-1049 du 26 août 2005 (EQUA0500747D)](decret-n2005-1049-du-26-aout-2005-equa0500747d)
 - [Décret n°2004-189 du 27 février 2004 (SANS0420646D)](decret-n2004-189-du-27-fevrier-2004-sans0420646d)
