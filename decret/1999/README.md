@@ -485,6 +485,7 @@
 - [Décret n°99-945 du 16 novembre 1999 (PRMG9970616D)](decret-n99-945-du-16-novembre-1999-prmg9970616d)
 - [Décret n°99-946 du 16 novembre 1999 (PRMG9970614D)](decret-n99-946-du-16-novembre-1999-prmg9970614d)
 - [Décret n°99-952 du 16 novembre 1999 (MESG9922810D)](decret-n99-952-du-16-novembre-1999-mesg9922810d)
+- [Décret n°80-351 du 16 mai 1980](decret-n80-351-du-16-mai-1980)
 - [Décret n°2000-265 du 17 mars 2000 (MENF0000158D)](decret-n2000-265-du-17-mars-2000-menf0000158d)
 - [Décret n°78-774 du 17 juillet 1978](decret-n78-774-du-17-juillet-1978)
 - [Décret n°98-611 du 17 juillet 1998 (INTM9800004D)](decret-n98-611-du-17-juillet-1998-intm9800004d)
