@@ -83,6 +83,7 @@
 - [Décret n°83-479 du 10 juin 1983](decret-n83-479-du-10-juin-1983)
 - [Décret n°83-487 du 10 juin 1983](decret-n83-487-du-10-juin-1983)
 - [Décret n°83-509 du 10 juin 1983](decret-n83-509-du-10-juin-1983)
+- [Décret n°83-975 du 10 novembre 1983](decret-n83-975-du-10-novembre-1983)
 - [Décret n°83-744 du 11 août 1983](decret-n83-744-du-11-aout-1983)
 - [Décret n°83-89 du 11 février 1983](decret-n83-89-du-11-fevrier-1983)
 - [Décret n°86-1035 du 11 septembre 1986](decret-n86-1035-du-11-septembre-1986)
