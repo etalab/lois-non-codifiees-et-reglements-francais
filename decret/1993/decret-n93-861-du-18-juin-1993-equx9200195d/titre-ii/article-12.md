@@ -1,0 +1,5 @@
+# Article 12
+
+Pour l'exercice des missions visées à l'article 2, deuxième alinéa, ci-dessus, les représentants de l'Etat en métropole, dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon disposent des services territoriaux de Météo-France pour la part de leur activité qui intéresse la région, le département ou la collectivité territoriale.
+
+En Polynésie française, en Nouvelle-Calédonie, à Wallis et Futuna et à Mayotte, Météo-France exerce les missions prévues à l'article 2 ci-dessus. L'établissement peut, en outre, à la demande des territoires de Polynésie française ou de Nouvelle-Calédonie, recevoir compétence pour exercer le fonctionnement partiel ou total des services territoriaux de la météorologie dans les conditions prévues aux articles 40 à 43 de la loi du 6 septembre 1984 susvisée en ce qui concerne la Polynésie française, et dans le cadre des compétences que le territoire a reçues dans ce domaine aux termes de l'article 9 (18°) de la loi du 9 novembre 1988 susvisée en ce qui concerne la Nouvelle-Calédonie.
