@@ -12,8 +12,10 @@ d) Ont été soumis en vue de leur stabilisation à un abaissement de températu
 
 Pendant l'opération de congélation il est interdit d'utiliser en contact direct avec les produits des fluides frigorigènes autres que ceux dont la liste et les conditions d'emploi sont fixées par arrêté pris dans les formes prévues à l'article 1er du décret du 15 avril 1912 susvisé.
 
-e) Ont été maintenues à une température égale ou inférieure à - 18 °C depuis la surgélation jusqu'à la remise au consommateur final ou l'utilisation par les restaurants, hôpitaux, cantines et autres collectivités similaires. Toutefois, cette température peut, pendant le transport et pendant la conservation dans les meubles de vente, subir de brèves variations en hausse n'excédant pas 3 °C.
+e) Ont été maintenus, en tous points, à une température inférieure ou égale à - 18 °C depuis la surgélation jusqu'à la remise au consommateur final ou l'utilisation par les restaurants, hôpitaux, cantines et autres collectivités similaires. Toutefois, cette température peut, pendant le transport et pendant la conservation dans les meubles de vente, subir de brèves variations en hausse n'excédant pas 3 °C.
 
-Des arrêtés du ministre de l'agriculture et du ministre de la santé publique et de la population, contresignés, s'il y a lieu, par le ministre chargé de la marine marchande, préciseront les conditions techniques de surgélation et de conservation applicables à chaque catégorie de produits visés par le présent décret.
+Des arrêtés conjoints du ministre chargé de la santé, du ministre chargé de la consommation, du ministre chargé de l'industrie et du ministre chargé de l'agriculture déterminent :
 
-Ces mêmes arrêtés pourront imposer l'utilisation, dans les denrées soumises à la surgélation et jusqu'au moment de la vente au détail, de dispositifs techniques destinés à contrôler le respect des règles fixées ci-dessus.
+1. Les conditions techniques de surgélation et de conservation applicables à chaque catégorie de produits visés par le présent décret ;
+
+2. Les dispositifs techniques et les méthodes qui doivent être utilisés par les agents chargés du contrôle pour vérifier le respect des règles de température.
