@@ -161,7 +161,6 @@
 - [Décret n°2001-1180 du 12 décembre 2001 (ECOP0100802D)](decret-n2001-1180-du-12-decembre-2001-ecop0100802d)
 - [Décret n°2001-1181 du 12 décembre 2001 (ECOC0100147D)](decret-n2001-1181-du-12-decembre-2001-ecoc0100147d)
 - [Décret n°2001-1191 du 12 décembre 2001 (PRMX0105239D)](decret-n2001-1191-du-12-decembre-2001-prmx0105239d)
-- [Décret n°2001-1195 du 12 décembre 2001 (AGRS0101428D)](decret-n2001-1195-du-12-decembre-2001-agrs0101428d)
 - [Décret n°2001-1206 du 12 décembre 2001 (ATEE0190010D)](decret-n2001-1206-du-12-decembre-2001-atee0190010d)
 - [Décret n°2001-618 du 12 juillet 2001 (MCCK0100208D)](decret-n2001-618-du-12-juillet-2001-mcck0100208d)
 - [Décret n°2001-619 du 12 juillet 2001 (MCCK0100209D)](decret-n2001-619-du-12-juillet-2001-mcck0100209d)
