@@ -581,6 +581,7 @@
 - [Arrêté du 30 décembre 1987 (EQUC8701110A)](arrete-du-30-decembre-1987-equc8701110a)
 - [Arrêté du 30 mars 1988 (ECOC8800002A)](arrete-du-30-mars-1988-ecoc8800002a)
 - [Arrêté du 30 mars 1988 (TRST8800086A)](arrete-du-30-mars-1988-trst8800086a)
+- [Arrêté du 30 septembre 1988 (PRME8861169A)](arrete-du-30-septembre-1988-prme8861169a)
 - [Arrêté du 30 mai 1988 (ASEX8810446A)](arrete-du-30-mai-1988-asex8810446a)
 - [Arrêté du 30 mai 1988 (ECOL8800098J)](arrete-du-30-mai-1988-ecol8800098j)
 - [Arrêté du 30 mai 1988 (ECOR8803054A)](arrete-du-30-mai-1988-ecor8803054a)

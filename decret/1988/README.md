@@ -130,6 +130,7 @@
 - [Décret n°88-901 du 30 août 1988 (SPSS8801058D)](decret-n88-901-du-30-aout-1988-spss8801058d)
 - [Décret n°88-903 du 30 août 1988 (SPSP8801124D)](decret-n88-903-du-30-aout-1988-spsp8801124d)
 - [Décret n°88-911 du 30 août 1988 (MCCF8800489D)](decret-n88-911-du-30-aout-1988-mccf8800489d)
+- [Décret n°88-940 du 30 septembre 1988 (PRME8861170D)](decret-n88-940-du-30-septembre-1988-prme8861170d)
 - [Décret n°87-1160 du 31 décembre 1987 (ECOT8811012D)](decret-n87-1160-du-31-decembre-1987-ecot8811012d)
 - [Décret n°87-1167 du 31 décembre 1987 (RESY8800001D)](decret-n87-1167-du-31-decembre-1987-resy8800001d)
 - [Décret n°88-904 du 31 août 1988 (ECOA8800042D)](decret-n88-904-du-31-aout-1988-ecoa8800042d)
