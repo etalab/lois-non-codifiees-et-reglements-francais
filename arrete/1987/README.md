@@ -555,6 +555,7 @@
 - [Arrêté du 28 janvier 1987 (ECOM8710013A)](arrete-du-28-janvier-1987-ecom8710013a)
 - [Arrêté du 28 janvier 1987 (PTTT8700065A)](arrete-du-28-janvier-1987-pttt8700065a)
 - [Arrêté du 28 juillet 1987 (INTB8700280A)](arrete-du-28-juillet-1987-intb8700280a)
+- [Arrêté du 28 septembre 1987 (RESP8700648A)](arrete-du-28-septembre-1987-resp8700648a)
 - [Arrêté du 28 mai 1986](arrete-du-28-mai-1986)
 - [Arrêté du 29 août 1987 (EQUS8700863A)](arrete-du-29-aout-1987-equs8700863a)
 - [Arrêté du 29 avril 1987](arrete-du-29-avril-1987)
