@@ -1,11 +1,7 @@
 # Article 4
 
-Si la personne handicapée est hospitalisée pour une durée supérieure à un mois dans un établissement de soins /A/ou dans un établissement appartenant à la catégorie prévue à l'article 46 de la loi susvisée du 30 juin 1975/A/DECR.1211 26-12-1978//, le versement de l'allocation aux adultes handicapés est maintenu lorsque le bénéficiaire a deux enfants à sa charge au sens de l'article L. 285 du code de la sécurité sociale [*condition*].
+Si le bénéficiaire de l'allocation aux adultes handicapés est hospitalisé dans un établissement de soins pendant plus de soixante jours [*durée*] le montant de l'allocation est réduit de 20 p. 100 si l'allocataire est marié, de 50 p. 100 s'il est célibataire, veuf ou divorcé.
 
-L'allocation est réduite :
+Toutefois, aucune réduction n'est faite lorsque l'allocataire a au moins un enfant [*nombre*] ou un ascendant à sa charge au sens de l'article L. 285 du code de la sécurité sociale.
 
-D'un cinquième, si l'allocataire a un enfant ou un ou plusieurs ascendants à sa charge ;
-
-De deux cinquièmes, si l'allocataire est marié sans enfant, ni ascendant à sa charge ;
-
-De trois cinquièmes dans tous les autres cas [*montant*].
+La réduction de l'allocation n'est opérée que pendant les périodes où la personne handicapée est effectivement acueillie dans l'établissement à l'exclusion des périodes de suspension de prise en charge.
