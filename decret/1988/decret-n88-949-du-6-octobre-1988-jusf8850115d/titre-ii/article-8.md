@@ -1,6 +1,6 @@
 # Article 8
 
-Le directeur régional de l'éducation surveillée informe le préfet des modifications et changements qui ont été portés à sa connaissance, conformément aux dispositions des articles 6 et 7 du présent décret.
+Le directeur régional de la protection judiciaire de la jeunesse informe le préfet des modifications et changements qui ont été portés à sa connaissance, conformément aux dispositions des articles 6 et 7 du présent décret.
 
 Le préfet prend le cas échéant, après avis du juge des enfants et du président du conseil général, un arrêté modificatif de l'habilitation accordée ou un arrêté mettant fin à celle-ci.
 

@@ -180,5 +180,6 @@
 - [Arrêté du 31 janvier 1990 (BUDD9070000A)](arrete-du-31-janvier-1990-budd9070000a)
 - [Arrêté du 31 janvier 1990 (BUDR9005007A)](arrete-du-31-janvier-1990-budr9005007a)
 - [Arrêté du 31 janvier 1990 (SPSS9000274A)](arrete-du-31-janvier-1990-spss9000274a)
+- [Arrêté du 31 janvier 1990 (SPSS9000362A)](arrete-du-31-janvier-1990-spss9000362a)
 - [Arrêté du 31 janvier 1991 (SANH9002527A)](arrete-du-31-janvier-1991-sanh9002527a)
 - [Arrêté du 31 juillet 1989 (PRME8961363A)](arrete-du-31-juillet-1989-prme8961363a)
