@@ -23,6 +23,7 @@
 - [Arrêté du 7 mai 1984](arrete-du-7-mai-1984)
 - [Arrêté du 8 décembre 1983](arrete-du-8-decembre-1983)
 - [Arrêté du 8 février 1984](arrete-du-8-fevrier-1984)
+- [Arrêté du 8 juin 1984](arrete-du-8-juin-1984)
 - [Arrêté du 8 mars 1984](arrete-du-8-mars-1984)
 - [Arrêté du 9 avril 1984](arrete-du-9-avril-1984)
 - [Arrêté du 9 février 1984](arrete-du-9-fevrier-1984)

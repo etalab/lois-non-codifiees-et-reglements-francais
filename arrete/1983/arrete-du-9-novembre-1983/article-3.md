@@ -1,3 +1,3 @@
 # Article 3
 
-Les salaires de référence composés par des rémunérations en tout ou partie afférentes à des périodes de travail postérieures au 1er juin 1981 et intégralement antérieures au 1er juin 1982 sont revalorisés de 8,96 p. 100.
+Les dispositions de l'arrêté n° 82-117/A du 21 décembre 1982 demeurent applicables jusqu'au 10 juin 1984.

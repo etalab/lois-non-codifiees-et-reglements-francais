@@ -1,4 +1,4 @@
-# Arrêté du 9 novembre 1983 RELATIF AU TAUX DE L'ALLOCATION MENTIONNEE A L'ARTICLE 14 DU DECRET 897 DU 18 NOVEMBRE 1980 ET AUX MODALITES DE REVALORISATION DU SALAIRE DE REFERENCE DES ALLOCATIONS.
+# Arrêté du 9 novembre 1983 relatif aux marges de distribution des produits sidérurgiques
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
