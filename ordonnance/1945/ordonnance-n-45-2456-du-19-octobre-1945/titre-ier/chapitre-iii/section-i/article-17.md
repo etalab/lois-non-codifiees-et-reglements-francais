@@ -1,0 +1,3 @@
+# Article 17
+
+Les sociétés mutualistes peuvent recevoir des dons et legs mobiliers et immobiliers. L'acceptation de ces libéralités est autorisée par arrêté du ministre du travail et de la sécurité sociales. Toutefois, les dons et legs n'excédant pas la limite fixée par arrêté du ministre du travail et de la sécurité sociale, sont autorisés, par arrêté du préfet du département du siège de la société gratifiée. Dans tous les cas ou les dons et legs donnent lieu à réclamation des familles, l'autorisation de les accepter est donnée, par décret rendu en conseil d'Etat. Le décret ou l'arrêté d'autorisation pourra prescrire l'aliénation de tout ou partie des éléments compris dans la libéralité.
