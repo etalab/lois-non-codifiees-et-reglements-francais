@@ -6,7 +6,7 @@ Par dérogation aux dispositions de l'article précédent :
 
 a) Le détachement des fonctionnaires appartenant au corps des administrateurs civils ;
 
-b) Les détachements prononcés au titre de l'article 14 (4°, b et 5°).
+b) Les détachements prononcés au titre de l'article 14 (4°, b, 5° et 14°).
 
 2° Est prononcé par arrêté conjoint du Premier ministre et des ministres intéressés le détachement au titre de l'article 14 (7°) ;
 
