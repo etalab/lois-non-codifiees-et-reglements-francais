@@ -10,4 +10,8 @@ S'agissant des travailleurs non salariés non agricoles, les revenus professionn
 
 Les périodes au cours desquelles l'intéressé n'a pas perçu un revenu normal, notamment les périodes de suspension du contrat de travail ou de l'activité, les périodes de chômage partiel et celles qui ont donné lieu au versement des indemnités journalières de la sécurité sociale, ne sont pas prises en compte pour la détermination des revenus de référence.
 
+Compte tenu de la neutralisation des périodes précitées, notamment pour un salarié n'ayant pas perçu de rémunération au sens du présent article depuis plusieurs années, le revenu annuel de référence est revalorisé.
+
+Cette revalorisation est effectuée en utilisant les coefficients de majoration applicables aux salaires et cotisations servant de base au calcul des pensions ou rentes servies par le régime général d'assurance vieillesse de la sécurité sociale.
+
 Les compléments de rémunération versés à l'occasion d'une activité salariée (indemnités, primes et gratifications de toute nature) sont retenus pour la fraction afférente à la période de référence et pris en compte dans le montant des revenus d'activité servant de base au calcul de l'allocation de préparation à la retraite, à l'exclusion des indemnités liées à la rupture du contrat de travail.
