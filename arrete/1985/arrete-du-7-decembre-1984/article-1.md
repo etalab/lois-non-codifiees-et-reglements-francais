@@ -16,9 +16,7 @@ Le "bevis for bestaet jordemodereksamen" (formation du type 1 ou 3) délivré pa
 
 - H, ou à défaut de cette dernière, l'attestation I, dans le cas d'une formation de type 3.
 
-Grèce
-
-"Le Ptyxio Maiaw hj Maieythj" certifié conforme par le ministère de la santé et de la prévoyance (formation type I).
+Grèce    "Le Ptyxio Maiaw hj Maieythj" certifié conforme par le ministère de la santé et de la prévoyance (formation type I).
 
 ou
 
@@ -50,16 +48,12 @@ République fédérale d'Allemagne
 
 - H ou, à défaut de cette dernière, l'attestation I dans le cas d'une formation de type 3.
 
-2. Les attestations des autorités compétentes de la République fédérale d'Allemagne sanctionnant l'équivalence des titres de formation délivrés après le 8 mai 1945 par les autorités compétentes de la République démocratique allemande avec le titre sus-indiqué, accompagnés des attestations mentionnées ci-dessus.
-
 Royaume-Uni
 
-Un "Statement of registration as a Midwife", dans la partie 10 du registre tenu par le "United Kingdom Central Council for Nursing, Midwifery ans Health Visiting" (formation du type 1 ou du type 4) délivré postérieurement au 31 décembre 1985, dans le cas d'une formation du type 1 et dans ce cas, il sera accompagné des attestations A, B et C ; postérieurement à la date du 30 juin 1985, dans le cas d'une formation du type 4 et, dans ce cas, il sera accompagné des attestations A, B, E et H ou, à défaut de cette dernière, de l'attestation I.
+Un "Statement of registration as a Midwife", dans la partie 10 du registre tenu par le "United Kingdom Central Council for Nursing, Midwifery and Health Visiting" (formation du type 1 ou du type 4) délivré postérieurement au 31 décembre 1985, dans le cas d'une formation de type 1 et dans ce cas, il sera accompagné des attestations A, B et C ; postérieurement à la date du 30 juin 1985, dans le cas d'une formation du type 4 et, dans ce cas, il sera accompagné des attestations A, B, E et H ou, à défaut de cette dernière, de l'attestation I.
 
 Espagne
 
-Le diplôme "matrona" ou "asistente obstétrico-(matrona)" ou "enfermeria obstrétrica-ginecologica" délivré par le ministère de l'éducation et de la science accompagné des attestations A, B et H ou à défaut de cette dernière de l'attestation I dans le cas d'une formation du type 3 ou du type 4. Dans ce dernier cas, le diplôme sera en outre accompagné de l'attestation E.
-
-Portugal
+Le diplôme "matrona" ou "asistente obstétrico-(matrona)" ou "enfermeria obstrétrica-ginecologica" délivré par le ministère de l'éducation et de la science accompagné des attestations A, B et H ou à défaut de cette dernière de l'attestation I dans le cas d'une formation du type 3 ou du type 4. Dans ce dernier cas, le diplôme sera en outre accompagné de l'attestation E.    Portugal
 
 Le diplôme de "enfermeiro especialista em enfermagem de saude e obstétrica" délivré postérieurement au 1er janvier 1986 par les écoles reconnues par l'Etat et enregistré par l'autorité compétente, accompagné des attestations A, B et H ou à défaut de cette dernière de l'attestation I dans le cas d'une formation du type 3 ou du type 4. Dans ce dernier cas, le diplôme sera en outre accompagné de l'attestation E.

@@ -8,11 +8,9 @@ Allemagne
 
 2° Le certificat d'examen d'Etat de médecin délivré par les autorités compétentes après le 30 juin 1988 et l'attestation certifiant l'exercice de l'activité de médecin au cours d'une période de stage ("ARZT im Praktikum") ;
 
-3° Les attestations des autorités compétentes de la République fédérale d'Allemagne sanctionnant l'équivalence des titres de formation délivrés à partir du 8 mai 1945 par les autorités compétentes de la République démocratique allemande avec les titres énumérés au paragraphe 1° et 2° ci-dessus.
-
 France
 
-Diplôme d'université de docteur en médecine, dans la mesure où celui-ci sanctionne le même cycle de formation que celui prévu pour le diplôme d'Etat de docteur en médecine.
+Diplôme d'université de docteur en médecine, dans la mesure où celui-ci sanctionne le même cycle de formation que celui prévu par le diplôme d'Etat de docteur en médecine.
 
 Grèce
 
