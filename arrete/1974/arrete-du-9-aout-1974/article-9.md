@@ -1,0 +1,3 @@
+# Article 9
+
+Par dérogation aux dispositions de l'article précédent, les employeurs et travailleurs indépendants [*non-salariés*] sont dispensés du paiement des cotisations d'allocations familiales s'ils apportent la preuve qu'ils se sont trouvés dans l'impossibilité de poursuivre leur activité pour un motif indépendant de leur volonté et étranger à la nature même de la profession exercée, notamment pour raison de santé ou en cas d'appel ou de rappel sous les drapeaux ou de sinistre [*exonération*]. Ils doivent, en outre, justifier de la fermeture de leur entreprise au cours de la période d'inactivité.
