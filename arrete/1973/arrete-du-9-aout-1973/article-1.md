@@ -1,19 +1,7 @@
 # Article 1
 
-Pour l'application du décret n° 68-1021 du 24 novembre 1968 il faut entendre par :
+Conformément aux dispositions prévues à l'article 5 (1°) du décret du 12 août 1970 susvisé, à défaut des diplômes ou titres requis pour se présenter au certificat d'aptitude au professorat de l'enseignement du second degré ou au professorat de l'enseignement technique, les candidats au premier des deux concours de recrutement des conseillers principaux d'éducation doivent justifier de l'un des diplômes suivants :
 
-1° France.
+Doctorat du troisième cycle de l'enseignement supérieur ;
 
-La France continentale, la Corse, les départements d'outre-mer et, à l'exception du territoire français des Afars et des Issas, les territoires d'outre-mer. La principauté de Monaco est assimilée à la France.
-
-2° Etranger.
-
-Les pays autres que ceux compris dans la France telle que définie au 1° ci-dessus. Toutefois, les Etats dont l'institut d'émission est lié au Trésor français par un compte d'opérations sont assimilés à la France. Le condominium des Nouvelles-Hébrides est assimilé à l'étranger.
-
-3° Résidents.
-
-Les personnes physiques ayant leur résidence habituelle en France et les personnes morales françaises ou étrangères pour leurs établissements en France. Il est précisé que les personnes physiques de nationalité étrangère, à l'exception des fonctionnaires étrangers en poste en France, acquièrent la qualité de résident lorsqu'elles sont établies en France depuis deux ans.
-
-4° Non-résidents.
-
-Les personnes physiques ayant leur résidence habituelle à l'étranger et les personnes morales françaises ou étrangères pour leurs établissements à l'étranger. Il est précisé que les personnes physiques de nationalité française, à l'exception des fonctionnaires français en poste à l'étranger, acquièrent la qualité de non-résident lorsqu'elles sont établies à l'étranger depuis deux ans.
+Maîtrise de sciences de l'éducation.
