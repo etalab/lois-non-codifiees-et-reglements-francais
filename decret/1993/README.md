@@ -26,6 +26,7 @@
 - [Décret n°93-194 du 10 février 1993 (INTA9220329D)](decret-n93-194-du-10-fevrier-1993-inta9220329d)
 - [Décret n°93-195 du 10 février 1993 (INTA9220330D)](decret-n93-195-du-10-fevrier-1993-inta9220330d)
 - [Décret n°93-317 du 10 mars 1993 (SANH9300170D)](decret-n93-317-du-10-mars-1993-sanh9300170d)
+- [Décret n°73-364 du 12 mars 1973](decret-n73-364-du-12-mars-1973)
 - [Décret n°93-201 du 12 février 1993 (BUDF9200045D)](decret-n93-201-du-12-fevrier-1993-budf9200045d)
 - [Décret n°59-1193 du 13 octobre 1959](decret-n59-1193-du-13-octobre-1959)
 - [Décret n°93-1103 du 14 septembre 1993 (MENF9305536D)](decret-n93-1103-du-14-septembre-1993-menf9305536d)
