@@ -1,3 +1,3 @@
 # Article 3
 
-Le produit de la redevance est rattaché selon la procédure des fonds de concours au chapitre 34-11 (Protection et prévention sanitaire, matériel et fonctionnement technique) du budget du ministère de la santé.
+Le produit des redevances mentionnées à l'article 1er est rattaché selon la procédure des fonds de concours pour dépenses d'intérêt public au budget de la solidarité, de la santé et de la protection sociale selon les modalités fixées par arrêté conjoint du ministre chargé du budget et du ministre chargé de la santé.
