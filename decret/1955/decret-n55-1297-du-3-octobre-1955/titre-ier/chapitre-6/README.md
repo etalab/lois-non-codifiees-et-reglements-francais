@@ -1,0 +1,6 @@
+# CHAPITRE 6 : DISPOSITIONS TRANSITOIRES ET DIVERSES.
+
+- [Article 37](article-37.md)
+- [Article 38](article-38.md)
+- [Article 39](article-39.md)
+- [Article 41](article-41.md)
