@@ -1,3 +1,0 @@
-# Article 39
-
-Avant le 31 décembre 1968, le ministre de l'éducation nationale établira, après consultation des diverses catégories d'intéressés, une liste provisoire des unités d'enseignement et de recherche destinées à constituer les différentes universités. Les collèges électoraux des différentes catégories seront convoqués par les recteurs sur la base de cette liste provisoire en vue d'élire leurs délégués. La détermination des collèges électoraux, les modalités des scrutins et les dispositions nécessaires afin d'en assurer la régularité et la représentativité, notamment en ce qui concerne le quorum, seront fixées par décret, conformément aux dispositions prévues au titre III de la présente loi.
