@@ -1,104 +1,39 @@
 # Article 1
 
-Les salaires forfaitaires servant de base au calcul des contributions des armateurs, des cotisations et des pensions des marins du commerce, de la pêche et de la plaisance sont modifiés en application de l'article L. 42 du code des pensions de retraite des marins et, pour compter du 1er janvier 1987, conformément au tableau ci-après :
+La liste des centres et instituts dont les stages ou sessions ouvrent droit au congé pour formation syndicale prévu à l'article 41 (7°) de la loi du 9 janvier 1986 susvisée pour les fonctionnaires et à l'article L. 451-1 du code du travail pour les agents non titulaires des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée et fixée comme suit :
 
-<table>
-<tbody>
-<tr>
-<td>:----------:------------------:</td>
-</tr>
-<tr>
-<td>:CATEGORIES: SALARIES :</td>
-</tr>
-<tr>
-<td>: : FORFAITAIRES :</td>
-</tr>
-<tr>
-<td>: :(base de calcul :</td>
-</tr>
-<tr>
-<td>: :des contributions,:</td>
-</tr>
-<tr>
-<td>: :cotisations et :</td>
-</tr>
-<tr>
-<td>: :pensions) :</td>
-</tr>
-<tr>
-<td>: :(en francs). :</td>
-</tr>
-<tr>
-<td>:-------:----------:----------:</td>
-</tr>
-<tr>
-<td>: : Par an :Par mois :</td>
-</tr>
-<tr>
-<td>:-------:----------:----------:</td>
-</tr>
-<tr>
-<td>: 1 : 49 076,40: 4 089,70 :</td>
-</tr>
-<tr>
-<td>: 2 : 61 342,26: 5 111,86 :</td>
-</tr>
-<tr>
-<td>: 3 : 73 607,96: 6 134,00 :</td>
-</tr>
-<tr>
-<td>: 4 : 81 328,12: 6 777,34 :</td>
-</tr>
-<tr>
-<td>: 5 : 86 883,86: 7 240,32 :</td>
-</tr>
-<tr>
-<td>: 6 : 89 943,11: 7 495,26 :</td>
-</tr>
-<tr>
-<td>: 7 : 95 606,19: 7 967,18 :</td>
-</tr>
-<tr>
-<td>: 8 :100 693,06: 8 391,09 :</td>
-</tr>
-<tr>
-<td>: 9 :105 291,18: 8 774,27 :</td>
-</tr>
-<tr>
-<td>:10 :111 968,04: 9 330,67 :</td>
-</tr>
-<tr>
-<td>:11 :124 187,24:10 348,94 :</td>
-</tr>
-<tr>
-<td>:12 :132 199,94:11 016,66 :</td>
-</tr>
-<tr>
-<td>:13 :143 109,95:11 925,83 :</td>
-</tr>
-<tr>
-<td>:14 :154 020,10:12 835,01 :</td>
-</tr>
-<tr>
-<td>:15 :166 120,64:13 843,39 :</td>
-</tr>
-<tr>
-<td>:16 :178 937,80:14 911,48 :</td>
-</tr>
-<tr>
-<td>:17 :194 600,92:16 216,74 :</td>
-</tr>
-<tr>
-<td>:18 :214 577,94:17 881,50 :</td>
-</tr>
-<tr>
-<td>:19 :236 329,31:19 694,11 :</td>
-</tr>
-<tr>
-<td>:20 :259 789,27:21 649,11 :</td>
-</tr>
-<tr>
-<td>:-------:---------------------:</td>
-</tr>
-</tbody>
-</table>
+Centre confédéral d'éducation ouvrière de la confédération générale du travail (CGT), 263, rue de Paris, 93516 Montreuil ;
+
+Institut confédéral d'études et de formation syndicale de la confédération française démocratique du travail (CFDT), 4, bd de la Villette, 75955 PARIS CEDEX 19 ;
+
+Centre de formation de militants syndicalistes et centre d'éducation ouvrière de la confédération générale du travail Force ouvrière (CGT-FO), 198, av. du Maine, 75680 PARIS CEDEX 14 ;
+
+Institut syndical de formation de la confédération française des travailleurs chrétiens (CFTC), 13, rue des Ecluses-Saint-Martin, 75483 PARIS CEDEX 10 ;
+
+Centre de formation syndicale de la confédération française de l'encadrement CGC, 30, rue de Gramont, 75002 Paris ;
+
+Institut de formation syndicale de la fédération générale autonome des fonctionnaires (FGAF), 19, bd de Sébastopol, Paris (1er) ;
+
+Institut du travail de l'université de Strasbourg III, 39, av. de la Forêt-Noire, 67000 Strabourg ;
+
+Institut des sciences sociales du travail de l'université de Paris I, 37, av. du Président-Franklin-Roosevelt, 92330 Sceaux ;
+
+Centre de culture ouvrière (C.C.O.), 51, rue Jacques-Cable, 94130 Nogent-sur-Marne ;
+
+Institut régional d'éducation ouvrière Nord-Pas-de-Calais (I.R.E.O.) de la faculté des sciences juridiques politiques et sociales, rue de Lille, B.P. 169, 59653 Villeneuve-d'Ascq ;
+
+Institut d'étude sociale de l'université des sciences sociales de Grenoble, domaine universitaire de Saint-Martin-d'Hères 47 X, 38040 GRENOBLE CEDEX ;
+
+Institut régional du travail de l'université d'Aix-Marseille II, 12, traverse Saint-Pierre, 13100 Aix-en-Provence ;
+
+Centre d'éducation ouvrière de l'université Lumière-Lyon-II, 86, rue Pasteur, 69365 LYON CEDEX 07 ;
+
+Institut du travail de l'université de Nancy, 13, place Carnot, C.O. 120, 54037 NANCY CEDEX ;
+
+Institut du travail de l'université de Bordeaux, 1, av. Duguit, 33604 Pessac ;
+
+Institut régional d'éducation ouvrière de Picardie, 3, place Louis-Dewailly, 80000 Amiens ;
+
+Institut du travail de l'université de Saint-Etienne, 2, rue Tréfilerie, 42023 SAINT-ETIENNE CEDEX ;
+
+Institut des sciences sociales du travail de l'université de Haute-Bretagne, 6, av. Gaston-Berger, 35043 RENNES CEDEX ;

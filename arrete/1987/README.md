@@ -1,6 +1,7 @@
 # 1987
 
 - [Arrêté du 5 janvier 1987](arrete-du-5-janvier-1987)
+- [Arrêté du 6 janvier 1987](arrete-du-6-janvier-1987)
 - [Arrêté du 6 octobre 1986 (DEFC8701012A)](arrete-du-6-octobre-1986-defc8701012a)
 - [Arrêté du 9 mars 1987 (DEFP8701108A)](arrete-du-9-mars-1987-defp8701108a)
 - [Arrêté du 9 octobre 1986](arrete-du-9-octobre-1986)
@@ -31,3 +32,4 @@
 - [Arrêté du 30 décembre 1986 (AGRM8700392A)](arrete-du-30-decembre-1986-agrm8700392a)
 - [Arrêté du 30 décembre 1986 (AGRS8700002A)](arrete-du-30-decembre-1986-agrs8700002a)
 - [Arrêté du 31 décembre 1986](arrete-du-31-decembre-1986)
+- [Arrêté du 31 décembre 1986 (ASES8700027A)](arrete-du-31-decembre-1986-ases8700027a)

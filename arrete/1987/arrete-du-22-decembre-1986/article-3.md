@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur de la sécurité sociale est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française et prendra effet au 1er janvier 1987.
+L'arrêté du 22 octobre 1982 modifié relatif aux subventions proportionnelles allouées aux exploitants des salles d'art et d'essai est abrogé.

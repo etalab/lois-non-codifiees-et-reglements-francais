@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur du budget et le directeur de l'Etablissement national des invalides de la marine sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+La présente liste est arrêtée pour la période du 1er janvier 1987 au 31 décembre 1987, qui sert également de référence pour la détermination des droits au congé pour formation syndicale.
