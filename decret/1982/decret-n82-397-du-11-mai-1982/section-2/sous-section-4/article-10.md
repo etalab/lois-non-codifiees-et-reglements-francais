@@ -9,3 +9,5 @@ Le comité présente ses observations sur le rapport annuel mentionné au 2° ci
 Dans un délai d'un mois à compter de sa présentation au comité d'entreprise, il en adresse un exemplaire, accompagné des observations du comité, à l'inspecteur du travail.
 
 Un arrêté fixe le modèle de ce rapport annuel.
+
+3° Le médecin du travail assiste, avec voix consultative, aux réunions du comité d'entreprise dont l'ordre du jour comporte des questions relatives à l'organisation et au fonctionnement du service médical du travail.

@@ -4,7 +4,7 @@ Indépendamment des obligations résultant des règlements pris en application d
 
 Sont notamment visés par ces dispositions :
 
-Les salariés affectés aux travaux déterminés par l'arrêté mentionné à l'article 30 ;
+Les salariés affectés aux travaux déterminés par l'arrêté mentionné au 1° (b) du troisième alinéa du II de l'article 30 ;
 
 Les salariés qui viennent de changer d'activité ou de migrer, pendant une période de dix-huit mois à compter de leur nouvelle affectation ;
 

@@ -2,7 +2,7 @@
 
 Les accidents du travail, les maladies professionnelles, les congés de maternité, les absences d'au moins vingt et un jours pour cause de maladies ou d'accidents non professionnels, les absences répétées pour raisons de santé doivent être portées à la connaissance du médecin du travail [*informations obligatoires*].
 
-Sous réserve des dispositions des articles L. 122-32-4 et L. 122-32-5 du code du travail, le médecin du travail décide s'il y a lieu de procéder à un examen médical lors de la reprise du travail.
+Sous réserve des dispositions des articles L. 122-24-4, L. 122-32-4 et L. 122-32-5 du code du travail, le médecin du travail décide s'il y a lieu de procéder à un examen médical lors de la reprise du travail.
 
 Cet examen a pour objet :
 

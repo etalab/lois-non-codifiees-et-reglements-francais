@@ -4,7 +4,7 @@ Le médecin du travail est obligatoirement associé :
 
 A l'étude de toute nouvelle technique ayant des incidences sur les conditions de travail et de sécurité ;
 
-A la formation à la sécurité prévue à l'article L. 231-3-1 du code du travail et à celle des personnes mentionnées à l'article 20 du présent décret.
+A la formation et à l'information en matière de sécurité prévues aux articles L. 231-3-1 et L. 231-3-2 du code du travail ainsi qu'à la formation des personnes mentionnées à l'article 20 du présent décret.
 
 Il est consulté :
 
