@@ -1,0 +1,3 @@
+# Article 148
+
+En vue de permettre le calcul du tarif journalier mentionné au 2° de l'article 145, le préfet notifie au président du conseil général le montant du forfait global notifié à l'établissement, et à défaut le montant du forfait qu'il envisage de retenir, au plus tard huit jours avant l'expiration du délai mentionné au I de l'article 35.
