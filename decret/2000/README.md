@@ -105,6 +105,8 @@
 - [Décret n°2000-654 du 10 juillet 2000 (AGRS9902609D)](decret-n2000-654-du-10-juillet-2000-agrs9902609d)
 - [Décret n°2000-671 du 10 juillet 2000 (AGRS0000899D)](decret-n2000-671-du-10-juillet-2000-agrs0000899d)
 - [Décret n°2003-113 du 10 février 2003 (DEFP0301036D)](decret-n2003-113-du-10-fevrier-2003-defp0301036d)
+- [Décret n°2000-878 du 11 septembre 2000 (ECOT0036920D)](decret-n2000-878-du-11-septembre-2000-ecot0036920d)
+- [Décret n°2000-880 du 11 septembre 2000 (MAEX0000123D)](decret-n2000-880-du-11-septembre-2000-maex0000123d)
 - [Décret n°2000-884 du 11 septembre 2000 (ATEG0080046D)](decret-n2000-884-du-11-septembre-2000-ateg0080046d)
 - [Décret n°2000-885 du 11 septembre 2000 (ATEG0080075D)](decret-n2000-885-du-11-septembre-2000-ateg0080075d)
 - [Décret n°2000-886 du 11 septembre 2000 (ATEG0080076D)](decret-n2000-886-du-11-septembre-2000-ateg0080076d)
