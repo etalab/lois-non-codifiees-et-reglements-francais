@@ -12,4 +12,4 @@ Les groupements de producteurs reconnus peuvent bénéficier de priorités et d'
 
 Le ministre de l'agriculture peut, par arrêté, suspendre ou retirer la reconnaissance octroyée, lorsqu'il constate que les conditions ci-dessus ne sont plus satisfaites, ou que la gestion technique ou financière est défectueuse ou que les règlements sur le commerce, la qualité des produits et la police sanitaire ne sont pas respectés.
 
-Les arrêtés prévus au présent article sont pris après avis d'une commission technique contituée au plan national.
+Les arrêtés prévus au présent article sont pris après avis du conseil supérieur d'orientation de l'économie agricole et alimentaire.
