@@ -18,21 +18,13 @@ Un entretien avec le jury à partir d'un texte de portée générale, tiré au s
 
 C. - Epreuve facultative
 
-Les candidats peuvent demander à passer une épreuve facultative d'admission soit de langue, soit de traitement automatisé de l'information, soit d'éducation physique et sportive. Ils expriment ce choix au moment de l'inscription au concours en précisant l'épreuve qu'ils souhaitent subir.
+Les candidats peuvent demander à passer une épreuve facultative d'admission soit de langue, soit de traitement automatisé de l'information. Ils expriment ce choix au moment de l'inscription au concours en précisant l'épreuve qu'ils souhaitent subir.
 
 Seuls sont pris en compte pour l'admission les points supérieurs à la moyenne. Le programme de ces épreuves est fixé par arrêté du ministre chargé des collectivités locales.
 
-L'épreuve de langue est une épreuve écrite, à choisir parmi les langues suivantes : allemand, anglais, espagnol, italien, portugais, néerlandais, russe ou arabe moderne (durée : une heure ; coefficient 1).
+L'épreuve de langue est une épreuve écrite, à choisir parmi les langues suivantes : allemand, anglais, espagnol, italien, portugais, grec moderne, néerlandais, russe ou arabe moderne (durée : une heure ; coefficient 1).
 
 L'épreuve de traitement automatisé de l'information est d'une durée d'une heure et affectée du coefficient 1.
-
-L'épreuve d'éducation physique et sportive affectée du coefficient 1 comprend au choix du candidat et selon son sexe :
-
-- soit une course de vitesse sur une distance de 100 mètres (hommes) ou de 60 mètres (femmes) ;
-
-- soit un saut en hauteur ;
-
-- soit un grimper à la corde.
 
 2° Concours interne
 
@@ -60,23 +52,15 @@ Un commentaire sur un dossier succinct remis au candidat, après un choix préal
 
 C. - Epreuve facultative
 
-Les candidats peuvent demander à passer une épreuve facultative d'admission soit de langue, soit de traitement automatisé de l'information, soit d'éducation physique et sportive.
+Les candidats peuvent demander à passer une épreuve facultative d'admission soit de langue, soit de traitement automatisé de l'information.
 
 Ils expriment ce choix au moment de l'inscription au concours en précisant l'épreuve qu'ils souhaitent subir.
 
 Seuls sont pris en compte pour l'admission les points supérieurs à la moyenne. Le programme de ces épreuves est fixé par arrêté du ministre chargé des collectivités locales.
 
-L'épreuve de langue est une épreuve écrite à choisir parmi les langues suivantes : allemand, anglais, espagnol, italien, portugais, néerlandais, russe ou arabe moderne (durée : une heure ; coefficient 1).
+L'épreuve de langue est une épreuve écrite à choisir parmi les langues suivantes : allemand, anglais, espagnol, italien, portugais, grec moderne, néerlandais, russe ou arabe moderne (durée : une heure ; coefficient 1).
 
 L'épreuve facultative de traitement automatisé de l'information est d'une durée d'une heure et affectée du coefficient 1.
-
-L'épreuve d'éducation physique et sportive (coefficient 1) comprend au choix du candidat et selon son sexe :
-
-- soit une course de vitesse sur une distance de 100 mètres (hommes) ou de 60 mètres (femmes) ;
-
-- soit un saut en hauteur ;
-
-- soit un grimper à la corde.
 
 3° Du troisième concours.
 
@@ -94,18 +78,10 @@ L'épreuve d'admission du troisième concours comprend un entretien ayant pour p
 
 C. - Epreuve facultative
 
-Les candidats peuvent demander, au moment de l'inscription au concours, à passer une épreuve facultative d'admission soit de langue, soit de traitement automatisé de l'information, soit d'éducation physique et sportive (coefficient 1).
+Les candidats peuvent demander, au moment de l'inscription au concours, à passer une épreuve facultative d'admission soit de langue, soit de traitement automatisé de l'information (coefficient 1).
 
-L'épreuve de langue est une épreuve écrite à choisir parmi les langues suivantes : allemand, anglais, espagnol, italien, portugais, néerlandais, russe ou arabe moderne (durée : une heure).
+L'épreuve de langue est une épreuve écrite à choisir parmi les langues suivantes : allemand, anglais, espagnol, italien, portugais, grec moderne, néerlandais, russe ou arabe moderne (durée : une heure).
 
 L'épreuve facultative de traitement automatisé de l'information est d'une durée d'une heure.
-
-L'épreuve d'éducation physique et sportive comprend au choix du candidat et selon son sexe :
-
-- soit une course de vitesse sur une distance de 100 mètres (hommes) ou de 60 mètres (femmes) ;
-
-- soit un saut en hauteur ;
-
-- soit un grimper à la corde.
 
 Les points excédant la note 10 à l'épreuve facultative s'ajoutent au total des notes obtenues aux épreuves obligatoires et sont valables uniquement pour l'admission.
