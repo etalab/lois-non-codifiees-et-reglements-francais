@@ -2,7 +2,7 @@
 
 Les ressources de l'établissement comprennent notamment :
 
-Les subventions, avances, fonds de concours ou participations qui lui sont attribués par l'Etat, les collectivités locales, établissements publics et sociétés nationales, ainsi que par toutes personnes publiques ou privées intéressées ;
+Les subventions, avances, honoraires, fonds de concours ou participations qui lui sont attribués par l'Etat, les collectivités locales, les établissements publics et sociétés nationales, ainsi que par toute personne publique ou privée intéressée ;
 
 Les subventions qu'il peut solliciter au lieu et place des collectivités locales, établissements publics et sociétés nationales intéressées, en exécution des conventions passées avec ceux-ci ;
 
