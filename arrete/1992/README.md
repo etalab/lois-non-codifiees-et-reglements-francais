@@ -355,6 +355,7 @@
 - [Arrêté du 13 mai 1992 (JUSB9210147A)](arrete-du-13-mai-1992-jusb9210147a)
 - [Arrêté du 13 mai 1992 (PRMA9200020A)](arrete-du-13-mai-1992-prma9200020a)
 - [Arrêté du 13 mai 1992 (PRMX9210142A)](arrete-du-13-mai-1992-prmx9210142a)
+- [Arrêté du 14 août 1992 (DEFD9201718A)](arrete-du-14-aout-1992-defd9201718a)
 - [Arrêté du 14 août 1992 (SANH9202064A)](arrete-du-14-aout-1992-sanh9202064a)
 - [Arrêté du 14 août 1992 (SANH9202066A)](arrete-du-14-aout-1992-sanh9202066a)
 - [Arrêté du 14 août 1992 (SANH9202067A)](arrete-du-14-aout-1992-sanh9202067a)
@@ -882,4 +883,4 @@
 - [Arrêté du 31 mars 1992 (PTTR9200184A)](arrete-du-31-mars-1992-pttr9200184a)
 - [Arrêté du 31 mars 1992 (RESY9200039A)](arrete-du-31-mars-1992-resy9200039a)
 - [Arrêté du 31 mars 1992 (SANH9200864A)](arrete-du-31-mars-1992-sanh9200864a)
-- [Arrêté du 31 mars 1992 (SPSs9200875A)](arrete-du-31-mars-1992-spss9200875a)
+- [Arrêté du 31 mars 1992 (SPSS9200875A)](arrete-du-31-mars-1992-spss9200875a)
