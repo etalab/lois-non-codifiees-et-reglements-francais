@@ -6,6 +6,7 @@
 - [Loi n° 82-1171 du 31 décembre 1982](loi-n-82-1171-du-31-decembre-1982)
 - [Loi n° 82-1173 du 31 décembre 1982](loi-n-82-1173-du-31-decembre-1982)
 - [Loi n° 83-1 du 3 janvier 1983](loi-n-83-1-du-3-janvier-1983)
+- [Loi n° 83-1109 du 21 décembre 1983](loi-n-83-1109-du-21-decembre-1983)
 - [Loi n° 83-25 du 19 janvier 1983](loi-n-83-25-du-19-janvier-1983)
 - [Loi n° 83-332 du 22 avril 1983](loi-n-83-332-du-22-avril-1983)
 - [Loi n° 83-337 du 23 avril 1983](loi-n-83-337-du-23-avril-1983)
