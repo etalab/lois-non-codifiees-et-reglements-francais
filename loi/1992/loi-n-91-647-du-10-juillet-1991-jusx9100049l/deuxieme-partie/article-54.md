@@ -1,3 +1,0 @@
-# Article 54
-
-Il est créé dans chaque département un conseil départemental de l'aide juridique chargé d'évaluer les besoins d'accès au droit, de déterminer et mettre en oeuvre une politique d'aide à l'accès au droit, d'en fixer le domaine, l'étendue et les effets, d'évaluer la qualité du fonctionnement des services organisés à cette occasion, de rechercher et recevoir les fonds de toute nature destinés au financement de sa politique, de répartir les fonds ainsi reçus. Le conseil départemental de l'aide juridique établit chaque année un rapport sur l'aide juridictionnelle et sur l'aide à l'accès au droit dans le département.
