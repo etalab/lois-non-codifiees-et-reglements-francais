@@ -1,6 +1,6 @@
 # Article 2
 
-Dans chaque école ou centre de formation visé à l'article 1er du présent arrêté, le directeur est assisté d'un conseil technique qui est consulté sur toutes questions relatives à la formation des élèves. Le directeur soumet au conseil technique pour avis :
+Dans chaque institut de formation visé à l'article 1er du présent arrêté, le directeur est assisté d'un conseil technique qui est consulté sur toutes questions relatives à la formation des étudiants. Le directeur soumet au conseil technique pour avis :
 
 - compte tenu du programme officiel, le projet pédagogique, les objectifs de formation, l'organisation générale des études, des travaux dirigés, des travaux pratiques et des stages, les recherches pédagogiques ;
 
@@ -22,4 +22,4 @@ Le directeur de l'école porte à la connaissance du conseil technique :
 
 - les budgets approuvés ainsi que le compte administratif en fin d'exercice ;
 
-- la liste des élèves admis en première année.
+- la liste des étudiants admis en première année.

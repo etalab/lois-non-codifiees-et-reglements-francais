@@ -1,8 +1,8 @@
 # Article 3
 
-Le directeur de l'école ou du centre de formation prononce, après avis du conseil technique, l'exclusion d'un élève pour inaptitudes théoriques ou pratiques au cours de la scolarité. Le directeur de l'école saisit le conseil technique au moins quinze jours avant sa réunion [*délai*]. Il communique à chaque membre du conseil technique un rapport motivé et le dossier scolaire de l'élève.
+Le directeur de l'institut peut, après avis du conseil technique, décider du redoublement d'un étudiant ou prononcer son exclusion pour inaptitude théorique ou pratique au cours de la scolarité. Il doit saisir le conseil technique au moins quinze jours avant la date de sa réunion. Il communique à chaque membre le dossier scolaire de l'étudiant accompagné d'un rapport motivé. L'étudiant reçoit communication de son dossier dans les mêmes conditions. Le conseil technique entend l'étudiant qui peut être assisté d'une personne de son choix.
 
-Le directeur sollicite l'avis du conseil technique sur les redoublements et l'informe des demandes d'admission d'élèves en cours de formation.
+Le directeur informe le conseil technique des demandes d'admission d'étudiants en cours de formation.
 
 Il sollicite l'avis du conseil technique sur les mutations d'élèves à l'occasion d'un redoublement. Les membres du conseil reçoivent alors communication du dossier de l'élève, accompagné d'un rapport motivé établi par le directeur. Ce dernier ne peut prononcer la mutation que si l'élève est assuré de son inscription dans un autre établissement.
 
