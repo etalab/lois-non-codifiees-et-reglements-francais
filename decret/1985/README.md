@@ -228,6 +228,8 @@
 - [Décret n°85-556 du 29 mai 1985](decret-n85-556-du-29-mai-1985)
 - [Décret n°85-569 du 29 mai 1985](decret-n85-569-du-29-mai-1985)
 - [Décret n°85-805 du 30 juillet 1985](decret-n85-805-du-30-juillet-1985)
+- [Décret n°85-820 du 30 juillet 1985](decret-n85-820-du-30-juillet-1985)
+- [Décret n°85-821 du 30 juillet 1985](decret-n85-821-du-30-juillet-1985)
 - [Décret n°85-560 du 30 mai 1985](decret-n85-560-du-30-mai-1985)
 - [Décret n°85-565 du 30 mai 1985](decret-n85-565-du-30-mai-1985)
 - [Décret du 31 décembre 1984](decret-du-31-decembre-1984)
