@@ -131,6 +131,7 @@
 - [Décret n°77-539 du 27 mai 1977](decret-n77-539-du-27-mai-1977)
 - [Décret n°77-540 du 27 mai 1977](decret-n77-540-du-27-mai-1977)
 - [Décret n°76-1304 du 28 décembre 1976](decret-n76-1304-du-28-decembre-1976)
+- [Décret n°77-1208 du 28 octobre 1977](decret-n77-1208-du-28-octobre-1977)
 - [Décret n°77-176 du 28 février 1977](decret-n77-176-du-28-fevrier-1977)
 - [Décret n°77-307 du 28 mars 1977](decret-n77-307-du-28-mars-1977)
 - [Décret n°77-333 du 28 mars 1977](decret-n77-333-du-28-mars-1977)
