@@ -97,7 +97,6 @@
 - [Décret n°95-261 du 3 mars 1995 (MAEJ9530012D)](decret-n95-261-du-3-mars-1995-maej9530012d)
 - [Décret n°95-264 du 3 mars 1995 (MAEJ9530015D)](decret-n95-264-du-3-mars-1995-maej9530015d)
 - [Décret n°95-265 du 3 mars 1995 (MAEJ9530016D)](decret-n95-265-du-3-mars-1995-maej9530016d)
-- [Décret n°95-355 du 3 avril 1995 (ECOT9526135D)](decret-n95-355-du-3-avril-1995-ecot9526135d)
 - [Décret n°95-7 du 3 janvier 1995 (RESR9401919D)](decret-n95-7-du-3-janvier-1995-resr9401919d)
 - [Décret n°95-8 du 3 janvier 1995 (SPSS9403821D)](decret-n95-8-du-3-janvier-1995-spss9403821d)
 - [Décret n°95-830 du 3 juillet 1995 (JUSC9520537D)](decret-n95-830-du-3-juillet-1995-jusc9520537d)
