@@ -16,4 +16,4 @@ L'étudiant qui n'a pas obtenu une note moyenne au moins égale à 10 sur 20 aux
 
 Pour être admis en troisième année, l'étudiant doit obtenir après les épreuves de rattrapage un total de points au moins égal à 60 sur 120 aux épreuves théoriques et remplir les autres conditions définies aux deux premiers alinéas du présent article.
 
-L'étudiant qui, à l'issue des épreuves de rattrapage, ne satisfait pas à l'ensemble des conditions définies aux deux premiers alinéas dudit article peut être autorisé à redoubler la première année par le directeur de l'institut de formation en soins infirmiers après avis du conseil technique. Il perd le bénéfice de l'ensemble des évaluations réalisées au cours de la deuxième année qu'il avait effectuée.
+L'étudiant qui, à l'issue des épreuves de rattrapage, ne satisfait pas à l'ensemble des conditions définies aux deux premiers alinéas dudit article peut être autorisé à redoubler la deuxième année par le directeur de l'institut de formation en soins infirmiers après avis du conseil technique. Il perd le bénéfice de l'ensemble des évaluations réalisées au cours de la deuxième année qu'il avait effectuée.
