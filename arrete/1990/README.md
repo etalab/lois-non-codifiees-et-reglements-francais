@@ -42,6 +42,7 @@
 - [Arrêté du 18 décembre 1989 (SPSP8902755A)](arrete-du-18-decembre-1989-spsp8902755a)
 - [Arrêté du 18 décembre 1989 (SPSS8902724A)](arrete-du-18-decembre-1989-spss8902724a)
 - [Arrêté du 18 décembre 1989 (SPSS8902734A)](arrete-du-18-decembre-1989-spss8902734a)
+- [Arrêté du 18 janvier 1990 (BUDF9020277A)](arrete-du-18-janvier-1990-budf9020277a)
 - [Arrêté du 18 juin 1990 (MENF9000808A)](arrete-du-18-juin-1990-menf9000808a)
 - [Arrêté du 19 avril 1990 (MENF9000812A)](arrete-du-19-avril-1990-menf9000812a)
 - [Arrêté du 19 décembre 1989 (LOGC8900036A)](arrete-du-19-decembre-1989-logc8900036a)
