@@ -96,6 +96,10 @@ Retrait et reconstitution des points sur les permis de conduire.
 
 Alinéa 3 de l'article R. 258.
 
+2 Délivrance des certificats d'immatriculation des cyclomoteurs à deux roues.
+
+Article R. 322-12-1.
+
 Arrêté du 1er décembre 1959 modifié portant application du décret n° 55-1366 du 18 octobre 1955 portant réglementation générale des épreuves et compétitions sportives sur la voie publique
 
 1
