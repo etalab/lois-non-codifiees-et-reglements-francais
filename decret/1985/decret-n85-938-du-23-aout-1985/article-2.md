@@ -1,6 +1,6 @@
 # Article 2
 
-Les demandeurs doivent être informés dans un délai de quatre mois à compter de leur demande initiale [*point de départ*] :
+Les personnes doivent être informées dans un délai de deux mois après s'être adressées au service [*point de départ*] :
 
 1° De la procédure de l'adoption et de la procédure administrative préalable fixée par le présent décret ;
 
