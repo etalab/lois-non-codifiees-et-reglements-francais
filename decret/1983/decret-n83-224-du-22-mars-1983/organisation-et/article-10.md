@@ -6,7 +6,7 @@ Il défère à la chambre régionale des comptes les opérations présumées con
 
 Il est tenu informé de l'exécution des travaux de la chambre régionale des comptes.
 
-Il présente des conclusions écrites sur les rapports qui lui sont communiqués, avec pièces à l'appui. Lui sont obligatoirement communiqués les rapports concernant le contrôle des actes budgétaires, les décisions sur la compétence, les amendes, les quitus, les débets, les comptabilités de fait et les révisions. Les autres rapports lui sont communiqués soit sur sa demande, soit par décision du président de la chambre ou du président de la section.
+Il présente des conclusions écrites sur les rapports qui lui sont communiqués, avec pièces à l'appui. Lui sont obligatoirement communiqués les rapports concernant les demandes d'inscriptions d'office d'une dépense obligatoire en application de la loi du 2 mars 1982, les décisions sur la compétence, les amendes, les quitus, les débets, les comptabilités de fait et les révisions. Les autres rapports lui sont communiqués soit sur sa demande, soit par décision du président de la chambre ou du président de la section.
 
 Le commissaire du Gouvernement peut assister aux séances de la chambre et des sections et y présenter des observations orales. Il est présent dans les commissions ou comités constitués au sein de la chambre.
 
