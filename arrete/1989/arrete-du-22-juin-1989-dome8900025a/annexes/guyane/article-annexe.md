@@ -2,7 +2,7 @@
 
 Chambre de commerce et d'industrie de Guyane.
 
-Chambre des métiers de Guyane.
+Chambre de métiers et de l'artisanat de Guyane.
 
 Chambre d'agriculture de Guyane.
 

@@ -22,7 +22,7 @@ a) Informations pouvant être transmises au répertoire informatique géré par 
 
 - régime d'imposition aux taxes sur le chiffre d'affaires, aux taxes sur les salaires ;
 
-- indication du numéro d'inscription à une chambre des métiers ;
+- indication du numéro d'inscription à une chambre de métiers et de l'artisanat ;
 
 - assujettissement à la taxe d'apprentissage et à la participation des employeurs au financement de la formation professionnelle continue ;
 

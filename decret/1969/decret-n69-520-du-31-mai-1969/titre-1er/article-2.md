@@ -1,6 +1,6 @@
 # Article 2
 
-- Ouvrent la possibilité d'une participation de l'Etat aux dépenses de transport engagées pour assurer leur fréquentation :
+Ouvrent la possibilité d'une participation de l'Etat aux dépenses de transport engagées pour assurer leur fréquentation :
 
 Les établissements d'enseignement public relevant du ministère de l'éducation nationale dispensant un enseignement de premier degré (à l'exclusion de l'enseignement maternel) ou de second degré ;
 
@@ -16,6 +16,6 @@ Les établissements d'enseignement privé, reconnus aux termes du décret n° 63
 
 Les établissements d'enseignement technique privés reconnus par l'Etat au titre des dispositions de l'article 73 du code de l'enseignement technique et les écoles créées et administrées par les chambres de commerce et d'industrie suivant les dispositions de l'article 10 de la loi du 25 juillet 1919 (à l'exclusion de ceux dispensant un enseignement supérieur).
 
-Les cours professionnels dont la fréquentation est obligatoire aux termes de l'article 90 du code de l'enseignement technique, organisés soit par les collectivités locales, soit par les chambres de commerce et d'industrie, soit par les chambres de métiers, soit par des organismes professionnels ou des associations privées qui ont passé avec l'Etat une convention de coopération pour l'organisation de la formation professionnelle.
+Les cours professionnels dont la fréquentation est obligatoire aux termes de l'article 90 du code de l'enseignement technique, organisés soit par les collectivités locales, soit par les chambres de commerce et d'industrie, soit par les chambres de métiers et de l'artisanat, soit par des organismes professionnels ou des associations privées qui ont passé avec l'Etat une convention de coopération pour l'organisation de la formation professionnelle.
 
 Sont exclus du bénéfice de la participation de l'Etat les élèves soumis au régime de la sécurité sociale des étudiants.

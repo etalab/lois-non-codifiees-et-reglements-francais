@@ -10,6 +10,6 @@ Demeurent exclues de la présente réglementation les taxes ou cotisations perç
 
 3° Les barreaux ainsi que les ordres, chambres ou conseils concernant les professions libérales institués par la loi et la caisse nationale des barreaux créée par la loi n° 48-50 du 12 janvier 1948 ;
 
-4° Les chambres départementales et régionales d'agriculture ainsi que leurs assemblées des présidents, les chambres de commerce et d'industrie et les chambres de métiers qui restent soumises aux régimes particuliers de contrôle financier institués par leur législation propre.
+4° Les chambres départementales et régionales d'agriculture ainsi que leurs assemblées des présidents, les chambres de commerce et d'industrie et les chambres de métiers et de l'artisanat qui restent soumises aux régimes particuliers de contrôle financier institués par leur législation propre.
 
 Le présent décret ne modifie pas le régime applicable à la redevance prévu par les décrets n° 60-1469 du 29 décembre 1960 modifié et n° 74-1131 du 30 décembre 1974 pour droit d'usage des appareils récepteurs de télévision.

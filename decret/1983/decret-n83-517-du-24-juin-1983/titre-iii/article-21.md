@@ -12,4 +12,4 @@ Les dépenses de l'établissement public sont constituées :
 
 2° Des frais de fonctionnement.
 
-Un arrêté du ministre chargé de l'artisanat détermine, après avis de l'assemblée permanente des chambres de métiers, le montant et les modalités des reversements effectués par l'établissement public aux fonds d'assurance formation des chambres de métiers jusqu'au 31 décembre 1998.
+Un arrêté du ministre chargé de l'artisanat détermine, après avis de l'assemblée permanente des chambres de métiers et de l'artisanat, le montant et les modalités des reversements effectués par l'établissement public aux fonds d'assurance formation des chambres de métiers et de l'artisanat jusqu'au 31 décembre 1998.

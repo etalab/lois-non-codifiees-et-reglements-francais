@@ -1,6 +1,6 @@
 # Article 84
 
-Lorsque la commission départementale d'évaluation [*des réquisitions*] est chargée d'examiner des dossiers de réquisitions immobilières ou de réquisitions de services comportant des prestations immobilières, elle est composée de douze [*nombre*] membres, savoir :
+Lorsque la commission départementale d'évaluation est chargée d'examiner des dossiers de réquisitions immobilières ou de réquisitions de services comportant des prestations immobilières, elle est composée de douze membres, savoir :
 
 Un membre de l'administration préfectorale, président.
 
@@ -18,7 +18,7 @@ Le président de la chambre de commerce et d'industrie ou son délégué.
 
 Le président de la chambre d'agriculture ou son délégué.
 
-Le président de la chambre des métiers ou son délégué.
+Le président de la chambre de métiers et de l'artisanat ou son délégué.
 
 Le président de la chambre des notaires ou son délégué.
 

@@ -40,7 +40,7 @@ L'article 347 de l'annexe III au code général des impôts est ainsi rédigé :
 
 " - soixante, en ce qui concerne les représentants des contribuables désignés par la chambre de commerce et d'industrie ;
 
-" - quinze, en ce qui concerne les représentants désignés par la chambre des métiers et par les organisations ou organismes professionnels regroupant les titulaires de revenus non commerciaux.
+" - quinze, en ce qui concerne les représentants désignés par la chambre de métiers et de l'artisanat et par les organisations ou organismes professionnels regroupant les titulaires de revenus non commerciaux.
 
 " 3. Pour les départements de plus d'un million d'habitants, la majoration visée au deuxième alinéa du 2 est fixée à trente.
 

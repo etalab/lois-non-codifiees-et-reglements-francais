@@ -1,6 +1,6 @@
 # Article 1
 
-Le collège des professionnels du Conseil national de la consommation est composé de [*composition - nombre*] :
+Le collège des professionnels du Conseil national de la consommation est composé de :
 
 a)Quatre représentants du secteur de l'agriculture, dont un représentant de l'assemblée permanente des chambres d'agriculture ;
 
@@ -14,7 +14,7 @@ c)Deux représentants du secteur de l'artisanat dont :
 
 Un représentant du secteur de l'artisanat proposé par l'union professionnelle des artisans ;
 
-Un représentant de l'assemblée permanente des chambres de métiers.
+Un représentant de l'assemblée permanente des chambres de métiers et de l'artisanat.
 
 d) Quatre représentants du secteur des autres services dont :
 

@@ -2,7 +2,7 @@
 
 Conformément à l'article 19 du décret du 10 juin 1983 susvisé, toute personne peut se faire délivrer un extrait des inscriptions figurant au dossier d'une personne immatriculée.
 
-Toute personne peut également se faire délivrer par le président de la chambre de métiers :
+Toute personne peut également se faire délivrer par le président de la chambre de métiers et de l'artisanat :
 
 Un certificat d'immatriculation, de non-immatriculation ou de radiation d'une personne déterminée ;
 

@@ -2,7 +2,7 @@
 
 Le fonds de répartition prévu à l'article 5 de la loi du 23 décembre 1982 susvisée est administré par un conseil d'administration de quatorze membres comprenant :
 
-1° Quatre représentants de l'assemblée permanente des chambres de métiers ;
+1° Quatre représentants de l'assemblée permanente des chambres de métiers et de l'artisanat ;
 
 2° Quatre représentants de l'union professionnelle artisanale ;
 

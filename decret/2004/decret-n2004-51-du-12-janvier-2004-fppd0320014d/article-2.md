@@ -12,7 +12,7 @@ c) Des représentants des communes situées dans le massif, proposés par l'Asso
 
 2° D'un collège de représentants des activités économiques ; il comprend :
 
-a) Des représentants des chambres d'agriculture, des chambres de commerce et d'industrie et des chambres de métiers ayant en tout ou partie le massif pour ressort, proposés par chacune des chambres consulaires, dans la limite de trois sièges pour chacune d'elles ;
+a) Des représentants des chambres d'agriculture, des chambres de commerce et d'industrie et des chambres de métiers et de l'artisanat ayant en tout ou partie le massif pour ressort, proposés par chacune des chambres consulaires, dans la limite de trois sièges pour chacune d'elles ;
 
 b)   Des représentants des organisations syndicales représentatives des secteurs de l'agriculture et de la sylviculture, de l'industrie, du sport ou du tourisme ayant en tout ou partie le massif pour ressort, proposés par ces organisations dans la limite de deux sièges pour chacun de ces trois secteurs ;
 

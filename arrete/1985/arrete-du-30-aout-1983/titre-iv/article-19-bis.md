@@ -10,7 +10,7 @@ c) Les jugements ayant décidé que les dettes de la personne morale seront supp
 
 d) Les jugements prononçant la faillite personnelle ou l'interdiction prévue à l'article 192 de la loi du 25 janvier 1985 précitée en cas de clôture pour extinction du passif, relèvement total des déchéances ou amnistie.
 
-II - Pour l'application du paragraphe I ci-dessus, l'assujetti doit remettre au président de la chambre de métiers :
+II - Pour l'application du paragraphe I ci-dessus, l'assujetti doit remettre au président de la chambre de métiers et de l'artisanat :
 
 1° En cas d'exécution du plan de continuation et d'apurement collectif du passif, une attestation du commissaire à l'exécution du plan ;
 

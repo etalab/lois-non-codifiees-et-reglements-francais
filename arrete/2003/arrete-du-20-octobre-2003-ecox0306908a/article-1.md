@@ -12,7 +12,7 @@ Le président de l'association française Investissements en capital-risque ou s
 
 Le président de l'Association des maires de France ou son représentant ;
 
-Le président de l'assemblée permanente des chambres de métiers ou son représentant ;
+Le président de l'assemblée permanente des chambres de métiers et de l'artisanat ou son représentant ;
 
 Le président de l'Association des régions de France ou son représentant ;
 

@@ -22,7 +22,7 @@ A. - Cas des demandes émanant d'une commune ou d'un groupement de communes pour
 
 Si le bien relève d'une entreprise industrielle, agricole, commerciale ou artisanale, le dossier comprend en outre :
 
-9° Une attestation de la chambre d'agriculture, de la chambre de commerce et d'industrie ou de la chambre des métiers indiquant la nature de l'activité exercée, le régime juridique de l'entreprise et le nombre de salariés employés par l'entreprise à la date du sinistre.
+9° Une attestation de la chambre d'agriculture, de la chambre de commerce et d'industrie ou de la chambre de métiers et de l'artisanat indiquant la nature de l'activité exercée, le régime juridique de l'entreprise et le nombre de salariés employés par l'entreprise à la date du sinistre.
 
 B. - Cas des demandes émanant du propriétaire, de l'exploitant ou du gestionnaire de terrains et constructions pour la réalisation de mesures de prévention imposées par un plan de prévention des risques naturels prévisibles approuvé :
 
@@ -44,7 +44,7 @@ Si un mandataire pour le dépôt du dossier est désigné :
 
 Si le bien relève d'une entreprise industrielle, agricole, commerciale ou artisanale, le dossier comprend en outre :
 
-8° Une attestation de la chambre d'agriculture, de la chambre de commerce et d'industrie ou de la chambre des métiers indiquant la nature de l'activité exercée, le régime juridique de l'entreprise et le nombre de salariés employés par l'entreprise à la date du sinistre.
+8° Une attestation de la chambre d'agriculture, de la chambre de commerce et d'industrie ou de la chambre de métiers et de l'artisanat indiquant la nature de l'activité exercée, le régime juridique de l'entreprise et le nombre de salariés employés par l'entreprise à la date du sinistre.
 
 Si les travaux sont exécutés par un exploitant ou un gestionnaire locataire du bien :
 

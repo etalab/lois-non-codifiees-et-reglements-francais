@@ -2,7 +2,7 @@
 
 Chambre de commerce et d'industrie de Nouvelle-Calédonie.
 
-Chambre des métiers de Nouvelle-Calédonie.
+Chambre de métiers et de l'artisanat de Nouvelle-Calédonie.
 
 Chambre d'agriculture de Nouvelle-Calédonie.
 

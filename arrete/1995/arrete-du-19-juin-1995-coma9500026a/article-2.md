@@ -1,6 +1,6 @@
 # Article 2
 
-Les organisations syndicales affiliées aux confédérations et fédérations précitées désirant figurer sur les listes départementales des organisations syndicales ayant qualité d'électeur aux chambres de métiers devront adresser leur demande, accompagnée des justifications prévues par l'article 4 du décret du 19 novembre 1959 susvisé, au préfet de département, dans les trente jours qui suivent la publication du présent arrêté.
+Les organisations syndicales affiliées aux confédérations et fédérations précitées désirant figurer sur les listes départementales des organisations syndicales ayant qualité d'électeur aux chambres de métiers et de l'artisanat devront adresser leur demande, accompagnée des justifications prévues par l'article 4 du décret du 19 novembre 1959 susvisé, au préfet de département, dans les trente jours qui suivent la publication du présent arrêté.
 
 Leur affiliation à une organisation représentative sera certifiée par les confédérations et fédérations énumérées à l'article 1er.
 

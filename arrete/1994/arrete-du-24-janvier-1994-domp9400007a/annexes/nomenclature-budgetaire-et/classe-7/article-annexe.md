@@ -286,7 +286,7 @@
 
 7772.4  Contribution des patentes (C.C.I.).
 
-7772.5  Contribution des patentes (chambres des métiers).
+7772.5  Contribution des patentes (chambres de métiers et de l'artisanat).
 
 7773.0   Contribution foncière immeubles bâtis et non bâtis.
 

@@ -1,6 +1,6 @@
 # Article 2
 
-La commission régionale des qualifications est renouvelée après chaque élection partielle des membres des chambres de métiers.
+La commission régionale des qualifications est renouvelée après chaque élection partielle des membres des chambres de métiers et de l'artisanat.
 
 En cas de décès ou de démission d'un membre de la commission en cours de mandat, il est désigné un remplaçant qui siège pour la durée du mandat restant à courir.
 

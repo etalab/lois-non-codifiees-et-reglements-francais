@@ -1,6 +1,6 @@
 # Article 2
 
-Le registre tenu par les chambres de métiers d'Alsace et de la Moselle *Alsace-Lorraine*, ci-après dénommé Le Registre, est constitué par :
+Le registre tenu par les chambres de métiers et de l'artisanat d'Alsace et de la Moselle, ci-après dénommé Le Registre, est constitué par :
 
 1° Le registre chronologique visé à l'article 1er, où sont enregistrées de la même manière les demandes et déclarations relatives aux personnes demandant leur immatriculation au registre ou déjà immatriculées, quelle que soit la section concernée ;
 

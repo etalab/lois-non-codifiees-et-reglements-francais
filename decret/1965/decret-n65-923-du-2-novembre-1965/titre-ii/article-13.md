@@ -42,12 +42,12 @@ Aux candidats justifiant de sept années de pratique professionnelle.
 
 La situation des candidats au regard des conditions d'ancienneté fixées ci-dessus est appréciée au 1er janvier de l'année du concours.
 
-Le nombre des emplois offerts aux premiers concours ne peut être inférieur à 75 p. 100 ni supérieur à 85 p. 100 du nombre total des emplois à pourvoir.
+Le nombre des emplois offerts aux premiers concours ne peut être inférieur à 75 % ni supérieur à 85 % du nombre total des emplois à pourvoir.
 
 Les emplois offerts dans ces limites qui n'auraient pu être pourvus peuvent être ajoutés aux emplois offerts aux seconds concours.
 
 Les concours ont lieu dans les centres désignés par décision du recteur de l'académie.
 
-L'appréciation des épreuves de chaque concours est assurée par un jury de cinq membres comprenant notamment un membre de l'enseignement technique ou d'une chambre des métiers et un ouvrier professionnel titulaire d'un emploi de la spécialité des postulants.
+L'appréciation des épreuves de chaque concours est assurée par un jury de cinq membres comprenant notamment un membre de l'enseignement technique ou d'une chambre de métiers et de l'artisanat et un ouvrier professionnel titulaire d'un emploi de la spécialité des postulants.
 
-Le nombre des candidats inscrits sur la liste d'admission prévue au cinquième alinéa de l'article 6 du décret du 23 septembre 1975 ne peut excéder de plus de 50 p. 100 le nombre des places mises aux concours.
+Le nombre des candidats inscrits sur la liste d'admission prévue au cinquième alinéa de l'article 6 du décret du 23 septembre 1975 ne peut excéder de plus de 50 % le nombre des places mises aux concours.

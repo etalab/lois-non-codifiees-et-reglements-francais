@@ -2,7 +2,7 @@
 
 Chambre de commerce et d'industrie.
 
-Chambre des métiers.
+Chambre de métiers et de l'artisanat.
 
 Chambre d'agriculture.
 

@@ -1,6 +1,6 @@
 # Article 9 quater
 
-I. - La section spéciale du répertoire des métiers et du registre tenu par les chambres de métiers d'Alsace et de la Moselle où sont immatriculées les sociétés coopératives artisanales comprend séparément :
+I. - La section spéciale du répertoire des métiers et du registre tenu par les chambres de métiers et de l'artisanat d'Alsace et de la Moselle où sont immatriculées les sociétés coopératives artisanales comprend séparément :
 
 1° Un registre chronologique identique aux registres visés aux articles 1er (1°) et 2 (2°) ;
 

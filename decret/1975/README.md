@@ -45,6 +45,7 @@
 - [Décret n°75-306 du 28 avril 1975](decret-n75-306-du-28-avril-1975)
 - [Décret n°75-62 du 28 janvier 1975](decret-n75-62-du-28-janvier-1975)
 - [Décret n°75-675 du 28 juillet 1975](decret-n75-675-du-28-juillet-1975)
+- [Décret n°75-811 du 28 août 1975](decret-n75-811-du-28-aout-1975)
 - [Décret n°75-996 du 28 octobre 1975](decret-n75-996-du-28-octobre-1975)
 - [Décret n°75-543 du 30 juin 1975](decret-n75-543-du-30-juin-1975)
 - [Décret n°75-60 du 30 janvier 1975](decret-n75-60-du-30-janvier-1975)

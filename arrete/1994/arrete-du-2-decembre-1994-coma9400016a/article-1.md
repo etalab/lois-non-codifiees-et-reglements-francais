@@ -1,6 +1,6 @@
 # Article 1
 
-Sont seules susceptibles de donner lieu à immatriculation au répertoire des métiers ou au registre tenu par les chambres de métiers d'Alsace et de Moselle les activités appartenant aux classes, groupes ou parties de groupe d'activités de la nomenclature approuvée par le décret du 2 octobre 1992 susvisé désignés ci-après :
+Sont seules susceptibles de donner lieu à immatriculation au répertoire des métiers ou au registre tenu par les chambres de métiers et de l'artisanat d'Alsace et de Moselle les activités appartenant aux classes, groupes ou parties de groupe d'activités de la nomenclature approuvée par le décret du 2 octobre 1992 susvisé désignés ci-après :
 
 01.4 B Réalisation et entretien de plantations ornementales.
 

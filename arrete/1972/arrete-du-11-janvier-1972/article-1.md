@@ -8,6 +8,6 @@ Les stages de l'Association nationale pour la formation professionnelle des adul
 
 Les stages organisés en application d'une convention prévoyant l'aide de l'Etat, ainsi que les autres stages subventionnés par l'Etat ;
 
-Les stages organisés par les chambres de commerce et d'industrie, les chambres de métiers et les chambres d'agriculture ;
+Les stages organisés par les chambres de commerce et d'industrie, les chambres de métiers et de l'artisanat et les chambres d'agriculture ;
 
 Les stages agréés par l'Etat en vue de la rémunération des stagiaires.

@@ -1,0 +1,3 @@
+# Article 64-1
+
+Le directeur de l'organisme contractant est tenu de faire connaître son intention de passer un marché négocié par la publication, dans les conditions prévues à l'article 3, d'un avis d'information dont le modèle est fixé par arrêté du ministre chargé de l'économie et des finances. La date d'envoi de l'avis d'information doit être antérieure de quinze jours au moins à l'engagement de la consultation écrite. Toutefois, ces dispositions ne s'appliquent ni aux marchés négociés passés en application des 3° et 4° l'article 65, de l'article 66 ou de l'article 68 IV, ni aux marchés négociés d'un montant inférieur au seuil prévu au 1° de l'article 123 du code des marchés publics.
