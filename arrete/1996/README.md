@@ -439,7 +439,6 @@
 - [Arrêté du 12 septembre 1996 (DEFT9601930A)](arrete-du-12-septembre-1996-deft9601930a)
 - [Arrêté du 12 septembre 1996 (DOMP9600049A)](arrete-du-12-septembre-1996-domp9600049a)
 - [Arrêté du 12 septembre 1996 (ECOU9600026A)](arrete-du-12-septembre-1996-ecou9600026a)
-- [Arrêté du 12 septembre 1996 (MIPP9600315A)](arrete-du-12-septembre-1996-mipp9600315a)
 - [Arrêté du 13 août 1996 (AGRS9601930A)](arrete-du-13-aout-1996-agrs9601930a)
 - [Arrêté du 13 août 1996 (COMK9604004A)](arrete-du-13-aout-1996-comk9604004a)
 - [Arrêté du 13 août 1996 (MENF9601807A)](arrete-du-13-aout-1996-menf9601807a)
