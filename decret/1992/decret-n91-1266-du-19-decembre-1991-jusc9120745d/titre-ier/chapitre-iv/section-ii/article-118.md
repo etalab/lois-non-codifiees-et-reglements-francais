@@ -4,7 +4,7 @@ Le montant de la provision initiale prévue à l'article 28 de la loi du 10 juil
 
 Le montant des ajustements versés en cours d'année est également fixé par arrêté du garde des sceaux, ministre de la justice.
 
-La liquidation de la dotation due à chaque barreau est effectuée en fin d'année à partir d'un état récapitulatif des missions achevées. Cet état est établi par la caisse des règlements pécuniaires des avocats et, après certification de sa régularité et de sa sincérité par le commissaire aux comptes, est visé par le bâtonnier.
+La liquidation de la dotation due à chaque barreau est effectuée en fin d'année à partir d'un état récapitulatif des missions achevées. Cet état est établi par la caisse des règlements pécuniaires des avocats et, après certification de sa régularité et de sa sincérité par le commissaire aux comptes, est visé par le bâtonnier. Après liquidation de la dotation due, la part de la dotation non utilisée est constatée à la fin de chaque année. Elle est reprise dans la comptabilité de l'année suivante.
 
 Le solde correspondant à la différence entre le montant des provisions versées et celui de la dotation due au titre des missions achevées tel qu'il résulte de l'état liquidatif est déduit de la provision initiale de l'exercice suivant.
 

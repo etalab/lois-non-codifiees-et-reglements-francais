@@ -1,6 +1,12 @@
 # Article 34
 
-Un décret en Conseil d'Etat détermine les conditions de nomination aux emplois de secrétaire général et de secrétaire général adjoint de la ville de Paris ainsi qu'à ceux de directeur général, directeur, chef de service, directeur adjoint, sous-directeur et ingénieur général des administrations parisiennes.
+" Un décret en Conseil d'Etat détermine les conditions de nomination aux emplois de :
+
+" - secrétaire général et secrétaire général adjoint de la ville de Paris ;
+
+" - directeur général et directeur général adjoint des services administratifs du département de Paris ;
+
+" - directeur général, directeur, chef de service, directeur adjoint, sous-directeur et ingénieur général des administrations parisiennes. "
 
 Un décret en Conseil d'Etat fixe les statuts particuliers des corps d'administrateurs et d'attachés d'administration de la ville de Paris.
 

@@ -22,8 +22,6 @@ Hérisson d'Algérie (Erinaceus algirus).
 
 Musaraigne aquatique (Neomys fodiens).
 
-Musaraigne de Miller (Neomys anomalus).
-
 Rongeurs.
 
 - Sciuridés :
