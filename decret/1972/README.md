@@ -17,6 +17,7 @@
 - [Décret n°72-903 du 14 septembre 1972](decret-n72-903-du-14-septembre-1972)
 - [Décret n°75-267 du 15 avril 1975](decret-n75-267-du-15-avril-1975)
 - [Décret n°71-1149 du 17 décembre 1971](decret-n71-1149-du-17-decembre-1971)
+- [Décret n°72-289 du 17 avril 1972](decret-n72-289-du-17-avril-1972)
 - [Décret n°72-151 du 18 février 1972](decret-n72-151-du-18-fevrier-1972)
 - [Décret n°73-899 du 18 septembre 1973](decret-n73-899-du-18-septembre-1973)
 - [Décret n°72-208 du 20 mars 1972](decret-n72-208-du-20-mars-1972)
