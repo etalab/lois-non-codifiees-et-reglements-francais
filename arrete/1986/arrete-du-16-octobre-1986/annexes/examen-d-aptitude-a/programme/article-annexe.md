@@ -1,79 +1,93 @@
 # Article Annexe
 
-Epreuves d'admissibilité.
+I. - Epreuves d'admissibilité.
 
 Première épreuve : Droit civil et commercial.
 
-- Principes généraux.
+Principes généraux ;
 
-- Droit des structures de l'entreprise (fonds de commerce, sociétés...).
+Droit des obligations et des contrats ;
 
-- Droit de l'entreprise en difficulté.
+Droit des sûretés ;
 
-- Régimes matrimoniaux, successions, incapacités, absence, droit de la copropriété.
+Droit des structures de l'entreprise (commerçants, fonds de commerce, bail commercial, registre du commerce et des sociétés, centre de formalités des entreprises, sociétés civiles et commerciales) ;
 
-- Techniques juridiques de financement, sûretés.
+Droit de l'entreprise et de l'exploitation agricole en difficulté (prévention, redressement, liquidation) ;
 
-Deuxième épreuve : Gestion et comptabilité.
+Protection des incapables (majeurs, mineurs) ;
 
-- Comptabilité générale et analytique.
+Régimes matrimoniaux, successions ;
 
-- Analyse et gestion financières.
+Droit de la copropriété ;
 
-- Rôle de la politique commerciale.
+Techniques juridiques de financement.
 
-- Gestion des ressources humaines.
+Deuxième épreuve :
 
-- Initiation à l'informatisation de la gestion des entreprises.
+a) Option commerciale : comptabilité et gestion des entreprises :
 
-Epreuves d'admission.
+Comptabilité ;
+
+Analyse et gestion financières ;
+
+Rôle de la politique commerciale ;
+
+Gestion des ressources humaines ;
+
+Initiation à l'informatisation des entreprises ;
+
+b) Option civile : gestion des patrimoines :
+
+Gestion des patrimoines mobiliers et immobiliers.
+
+II. - Epreuves d'admission.
 
 Première épreuve : Economie.
 
-- Principaux aspects de la vie économique.
+Principaux aspects de la vie économique et financière.
 
-- Economie de l'entreprise.
+Deuxième épreuve : Droit pénal, procédure pénale, procédure civile.
 
-- Institutions financières.
+Organisation judiciaire ;
 
-- Fonctions économiques de l'Etat.
+Principes généraux de la procédure pénale, de la procédure civile et commerciale ;
 
-Deuxième épreuve : Droit pénal, procédure pénale et procédure civile.
+Droit pénal des affaires ;
 
-- Principes généraux du droit pénal.
-
-- Droit pénal des affaires.
-
-- Principes généraux de la procédure pénale.
-
-- Principes généraux de la procédure civile et commerciale.
+Règles de procédures propres au redressement et à la liquidation judiciaires des entreprises.
 
 Troisième épreuve : Droit fiscal.
 
-- Principes généraux.
+Principes généraux ;
 
-- Fiscalité des personnes physiques.
+Fiscalité des personnes physiques ;
 
-- Fiscalité des entreprises.
+Fiscalité des entreprises ;
 
-- Fiscalité immobilière et plus-values.
+Fiscalité immobilière et plus-values ;
 
-- Obligations déclaratives ; pouvoirs de l'administration fiscale ; contentieux de l'impôt.
+Obligations déclaratives : pouvoirs de l'administration fiscale, contentieux de l'impôt.
 
 Quatrième épreuve : Droit social.
 
-- Relations individuelles de travail.
+Relations individuelles de travail ;
 
-- Rémunération du travail.
+Rémunération du travail ;
 
-- Institutions représentatives du personnel et négociations collectives.
+Institutions représentatives du personnel et négociations collectives ;
 
-- Applications particulières du droit du travail aux entreprises en difficulté.
+Applications particulières du droit du travail aux entreprises en difficulté ;
 
-- Procédure prud'homale.
+Procédure prud'homale ;
 
-- Principes généraux de la sécurité sociale et de la prévoyance.    Cinquième épreuve : Réglementation professionnelle et gestion du cabinet.
+Principes généraux de la sécurité sociale et de la prévoyance.
 
-- Obligations légales et usages de la profession.
+Cinquième épreuve : Réglementation professionnelle et gestion du cabinet.
 
-- Organisation des cabinets.
+Obligations légales et usages de la profession ;
+
+Organisation des cabinets ;
+
+Informatique ;
+
+Responsabilité professionnelle.

@@ -4,7 +4,7 @@ Tout candidat qui souhaite se présenter aux épreuves de l'examen d'aptitude, a
 
 Le dossier de candidature comprend :
 
-1° Une requête de l'intéressé ;
+1° Une requête de l'intéressé précisant s'il choisit l'option civile, l'option commerciale, ou les deux.
 
 2° Une fiche individuelle d'état civil et de nationalité française ;
 
