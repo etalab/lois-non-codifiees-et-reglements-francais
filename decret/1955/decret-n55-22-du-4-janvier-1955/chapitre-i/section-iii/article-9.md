@@ -4,7 +4,7 @@ Toute réquisition de copie, extrait ou certificat, déposée en application de 
 
 pour les personnes physiques, les nom et prénoms dans l'ordre de l'état civil, et les date et lieu de naissance ;
 
-pour les personnes morales, leur dénomination, ainsi que les autres éléments d'identification prévus au premier alinéa de l'article 6.
+pour les personnes morales, leur dénomination, ainsi que les autres éléments d'identification prévus au 1 de l'article 6.
 
 La réquisition se rapportant à un immeuble déterminé doit comporter la désignation individuelle dudit immeuble, telle qu'elle est définie par décret. Toutefois, les conservateurs sont fondés à accepter les réquisitions dans lesquelles certains des éléments de cette désignation feraient défaut ; dans ce cas, ils ne sont pas responsables des erreurs résultant de l'insuffisance de la désignation.
 

@@ -8,4 +8,4 @@
 
 4. Lorsqu'une formalité de nature à produire des effets opposables aux tiers en vertu de l'article précédent, et la publicité d'un commandement valant saisie sont requises le même jour relativement au même immeuble, le rang des formalités est réglé, quel que soit l'ordre qui résulte du registre susvisé, d'après les dates, d'une part, du titre exécutoire mentionné dans le commandement, d'autre part, du titre de la formalité concurrente ; lorsque les titres sont de la même date, la publicité du commandement valant saisie est réputée d'un rang préférable.
 
-5. En toute hypothèse, l'inscription d'hypothèque requise par un créancier légalement dispensé de la représentation d'un titre est réputée d'un rang antérieur à celui de toute autre formalité requise le même jour.
+5. En toute hypothèse, les inscriptions de séparations de patrimoine prévues par l'article 2111 du code civil, dans le cas visé au deuxième alinéa de l'article 2113 du même code ainsi que celles des hypothèses légales prévues à l'article 2121 (1°, 2° et 3°) du code civil sont réputées d'un rang antérieur à celui de toute autre formalité requise le même jour.
