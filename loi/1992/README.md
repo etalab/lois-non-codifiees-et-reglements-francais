@@ -33,6 +33,7 @@
 - [Loi n° 92-1179 du 2 novembre 1992 (ECOX9250046L)](loi-n-92-1179-du-2-novembre-1992-ecox9250046l)
 - [Loi n° 92-125 du 6 février 1992 (INTX9000102L)](loi-n-92-125-du-6-fevrier-1992-intx9000102l)
 - [Loi n° 92-1279 du 8 décembre 1992 (SANX9100161L)](loi-n-92-1279-du-8-decembre-1992-sanx9100161l)
+- [Loi n° 92-1283 du 11 décembre 1992 (AGRX9100211L)](loi-n-92-1283-du-11-decembre-1992-agrx9100211l)
 - [Loi n° 92-190 du 26 février 1992 (INTX9100178L)](loi-n-92-190-du-26-fevrier-1992-intx9100178l)
 - [Loi n° 92-3 du 3 janvier 1992 (ENVX9100061L)](loi-n-92-3-du-3-janvier-1992-envx9100061l)
 - [Loi n° 92-427 du 9 mai 1992 (MAEX9100164L)](loi-n-92-427-du-9-mai-1992-maex9100164l)
