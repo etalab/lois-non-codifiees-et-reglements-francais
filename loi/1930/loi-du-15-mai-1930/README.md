@@ -1,3 +1,0 @@
-# Loi du 15 mai 1930 relative à l'assainissement d'office et au classement d'office des voies privées de Paris.
-
-- [Article 3](article-3.md)
