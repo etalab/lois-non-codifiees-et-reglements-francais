@@ -171,6 +171,7 @@
 - [Décret n°88-229 du 9 mars 1988 (FPPX8800030D)](decret-n88-229-du-9-mars-1988-fppx8800030d)
 - [Décret n°88-230 du 9 mars 1988 (ENVN8700287D)](decret-n88-230-du-9-mars-1988-envn8700287d)
 - [Décret n°88-234 du 9 mars 1988 (MAEJ8830013D)](decret-n88-234-du-9-mars-1988-maej8830013d)
+- [Décret n°88-753 du 9 juin 1988 (COPX8800069D)](decret-n88-753-du-9-juin-1988-copx8800069d)
 - [Décret n°88-692 du 9 mai 1988 (ECOP8800105D)](decret-n88-692-du-9-mai-1988-ecop8800105d)
 - [Décret n°88-694 du 9 mai 1988 (COMK8806003D)](decret-n88-694-du-9-mai-1988-comk8806003d)
 - [Décret n°88-696 du 9 mai 1988 (JUSA8800058D)](decret-n88-696-du-9-mai-1988-jusa8800058d)
