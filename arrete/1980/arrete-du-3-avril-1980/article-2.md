@@ -1,7 +1,3 @@
 # Article 2
 
-Pour l'application de l'article 33 du décret du 10 août 1966 susvisé, les taux des indemnités de première mise et d'entretien de bicyclette sur le territoire métropolitain de la France sont les suivants :
-
-1° Indemnité de première mise               560 F.
-
-2° Indemnité d'entretien                     16 F.
+Les infirmiers et infirmières intégrés dans l'emploi d'ergothérapeute en application de l'article 35 du décret n° 80-253 du 3 avril 1980 susvisé sont reclassés dans leur nouvel emploi conformément au tableau II annexé au présent arrêté.

@@ -50,6 +50,7 @@
 - [Décret n°80-102 du 24 janvier 1980](decret-n80-102-du-24-janvier-1980)
 - [Décret n°80-297 du 24 avril 1980](decret-n80-297-du-24-avril-1980)
 - [Décret n°80-298 du 24 avril 1980](decret-n80-298-du-24-avril-1980)
+- [Décret n°80-314 du 24 avril 1980](decret-n80-314-du-24-avril-1980)
 - [Décret n°79-332 du 25 avril 1979](decret-n79-332-du-25-avril-1979)
 - [Décret n°80-172 du 25 février 1980](decret-n80-172-du-25-fevrier-1980)
 - [Décret n°80-177 du 25 février 1980](decret-n80-177-du-25-fevrier-1980)
