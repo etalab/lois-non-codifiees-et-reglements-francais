@@ -49,28 +49,28 @@ Bo Immeubles collectifs et maisons individuelles.
 <td> :---------------:-------------:</td>
 </tr>
 <tr>
-<td> :  I et I'      :   203 835   :</td>
+<td> :  I et I'      :   208 930   :</td>
 </tr>
 <tr>
-<td> :  I bis        :   249 970   :</td>
+<td> :  I bis        :   256 220   :</td>
 </tr>
 <tr>
-<td> :  II           :   288 445   :</td>
+<td> :  II           :   295 655   :</td>
 </tr>
 <tr>
-<td> :  III          :   378 280   :</td>
+<td> :  III          :   387 735   :</td>
 </tr>
 <tr>
-<td> :  IV           :   473 090   :</td>
+<td> :  IV           :   484 915   :</td>
 </tr>
 <tr>
-<td> :  V            :   569 330   :</td>
+<td> :  V            :   583 565   :</td>
 </tr>
 <tr>
-<td> :  VI           :   665 625   :</td>
+<td> :  VI           :   682 265   :</td>
 </tr>
 <tr>
-<td> :  VII          :   761 960  :</td>
+<td> :  VII          :   781 010  :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -97,28 +97,28 @@ Bo Immeubles collectifs et maisons individuelles.
 <td> :---------------:-------------:</td>
 </tr>
 <tr>
-<td> :  I            :   124 980   :</td>
+<td> :  I            :   128 105   :</td>
 </tr>
 <tr>
-<td> :  I bis        :   203 260   :</td>
+<td> :  I bis        :   208 340   :</td>
 </tr>
 <tr>
-<td> :  II           :   261 965   :</td>
+<td> :  II           :   268 515   :</td>
 </tr>
 <tr>
-<td> :  III          :   311 580   :</td>
+<td> :  III          :   319 370   :</td>
 </tr>
 <tr>
-<td> :  IV           :   358 415   :</td>
+<td> :  IV           :   367 375   :</td>
 </tr>
 <tr>
-<td> :  V            :   414 370   :</td>
+<td> :  V            :   424 730   :</td>
 </tr>
 <tr>
-<td> :  VI           :   455 650   :</td>
+<td> :  VI           :   467 040   :</td>
 </tr>
 <tr>
-<td> :  VII          :   511 620   :</td>
+<td> :  VII          :   524 410   :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -131,9 +131,9 @@ VALEURS DE bo
 
 A partir du 1er juillet 1995
 
-IMMEUBLES collectifs (en francs) : 3.770
+IMMEUBLES collectifs (en francs) : 3.865
 
-MAISONS individuelles (en francs) : 3.970.
+MAISONS individuelles (en francs) : 4.070.
 
 7.2. Coefficients de pondération du prix de référence de base Bâtiment et honoraires
 
@@ -172,13 +172,13 @@ VALEURS DES GARAGES
 <td> :---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  48.045 :</td>
+<td> : I       :  48.525 :</td>
 </tr>
 <tr>
-<td> : II      :  43.885 :</td>
+<td> : II      :  44.325 :</td>
 </tr>
 <tr>
-<td> : III     :  41.575 :</td>
+<td> : III     :  41.990 :</td>
 </tr>
 <tr>
 <td> :-------------------:</td>
@@ -202,13 +202,13 @@ VALEURS DES GARAGES
 <td> :---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  33.855 :</td>
+<td> : I       :  34.195 :</td>
 </tr>
 <tr>
-<td> : II      :  30.775 :</td>
+<td> : II      :  31.085 :</td>
 </tr>
 <tr>
-<td> : III     :  29.265 :</td>
+<td> : III     :  29.560 :</td>
 </tr>
 <tr>
 <td> :-------------------:</td>

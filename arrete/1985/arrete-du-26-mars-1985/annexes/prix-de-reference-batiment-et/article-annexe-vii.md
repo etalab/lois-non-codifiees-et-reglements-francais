@@ -22,29 +22,27 @@
 
 " d1 Base = 0,135 pour les maisons individuelles.
 
-" VII.1.2. - Majoration complémentaire déterminée en fonction de la cotation de la rubrique 1 " Protection contre les bruits émis à l'intérieur du bâtiment " de la méthode Qualitel.
+VII.1.2. - Majoration complémentaire déterminée en fonction de la cotation de la rubrique 1 ( Protection contre les bruits émis à l'intérieur du bâtiment ) de la méthode Qualitel.
 
-" A la majoration de base définie au paragraphe VII.1.1 ci-dessus, peut s'ajouter une majoration complémentaire M1 déterminée en fonction du nombre total de points obtenus à la rubrique 1 " Protection contre les bruits émis à l'intérieur du bâtiment " de la méthode Qualitel.
+A la majoration de base définie au paragraphe VII.1.1 ci-dessus, peut s'ajouter une majoration complémentaire M1 déterminée en fonction du nombre total de points obtenus à la rubrique 1 ( Protection contre les bruits émis à l'intérieur du bâtiment ) conformément à la note  d'information publiée en janvier 1996 par Qualitel.
 
-" La majoration complémentaire M1 est donnée par la formule :
+Pour les immeubles collectifs et les maisons individuelles la majoration complementaire M1 est donnée par la formule:
 
-" M1 =(0,334 U - 2,68)/100 pour les immeubles collectifs
+M1 =(1,66 + 0,334 U )/100
 
-" et par la formule :
+où U est égal à la plus petite des valeurs X et (Xo + 2), X étant la moyenne des cotations T des logements et Xo la plus petite des cotations.
 
-" M1 =( 0,3 U - 1,8)/ 100 pour les maisons individuelles
+VII.1.3. - Majoration complémentaire déterminée en fonction de la cotation de la rubrique m ( Protection contre les bruits émis à l'extérieur du bâtiment ) de la méthode Qualitel.
 
-" où U est égal à la plus petite des valeurs X et (Xo + 2), X étant la moyenne des cotations T des logements et Xo la plus petite des cotations.
+A la majoration de base définie au paragraphe VII.1.1 ci-dessus peut s'ajouter une majoration complémentaire M2 déterminée en fonction de la cotation de la rubrique m ( Protection contre les bruits émis à l'extérieur du bâtiment ) de la méthode Qualitel.
 
-" VII.1.3. - Majoration complémentaire déterminée en fonction de la cotation de la rubrique m " Protection contre les bruits émis à l'extérieur du bâtiment " de la méthode Qualitel.
+La majoration complémentaire M2 est donnée par la formule :
 
-" A la majoration de base définie au paragraphe VII.1.1 ci-dessus peut s'ajouter une majoration complémentaire M2 déterminée en fonction de la cotation de la rubrique m " Protection contre les bruits émis à l'extérieur du bâtiment " de la méthode Qualitel.
+M2 = ( 1,5 N30 + 2 N35 + 2,5 N40))/100 N
 
-" La majoration complémentaire M2 est donnée par la formule :
+où N30, N35, N40 représentent le nombre de logements dont l'isolement de façade requis en application  de l'article 3 de l'arrêté du 6 octobre 1978 est respectivement égal à 30 dB (A), 35 dB (A) et 40 dB (A) , et dont l'isolement effectif de façade est respectivement de 35 dB (A), 40 dB (A) et 45 dB (A) pour l'obtention de la note 5 à la rubrique m de la méthode Qualitel,N étant le nombre total de logements.
 
-" M2 = ((NIc + 1,5 N30 + 2 N35 + 2,5 N40))/100 N
-
-" où NIc, N30, N35, N40 représentent le nombre de logements ayant obtenu la note 5 à la rubrique m de la méthode Qualitel et dont l'isolement de façade requis est respectivement égal à Ic (isolement courant), 30 dB (A), 35 dB (A) et 40 dB (A), N étant le nombre total de logements. Pour l'application de cette formule, les logements présentant des isolements requis multiples sont pris en compte au titre de l'isolement requis le plus important.
+Pour l'application de cette formule, les logements presentant des isolements requis multiples sont pris en compte au titre de isolement requis le plus important.
 
 " VII.1.4. - Majoration complémentaire déterminée en fonction de la cotation de la rubrique q " Coût d'entretien des façades et des toitures " de la méthode Qualitel et des tables d'investissements établies par le C.S.T.B. et publiées par l'association Qualitel.
 
@@ -119,9 +117,9 @@
 <tr>
 <td> :-----------------------------:</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td/>
+</tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -183,3 +181,13 @@
 " Dans les formules ci-dessus, NA représente le nombre de logements ayant obtenu la note 3 à la rubrique e de la méthode Qualitel, ce nombre ne devant pas être inférieur à 20 p. 100 des logements de l'opération, N étant le nombre total de logements.
 
 " VII-2. - d 2 dépend de la présence de conduits de fumée dans les logements : si chaque logement bénéficie de la présence d'un conduit de fumée, d 2 = 0,005. "
+
+VII-2.2. d"2 : bruits extérieurs.
+
+d"2 est donné par la formule :
+
+d" = (2S30 + 4S35 + 5 (S40 + S45)) / 100S.
+
+formule dans laquelle S30, S35, S40 et S45 représentent les surfaces de façades pour lesquelles il existe un niveau d'isolation réglementaire en application de l'arrêté du 6 octobre 1978 respectivement égal à 30, 35, 40 ou 45 dB (A), S étant la surface totale de façades.
+
+La surface des façades des logements pour lesquels l'arrêté du 6 octobre 1978 ne demande pas explicitement un isolement supérieur à l'isolement courant n'est pas prise en compte dans le terme S°30.
