@@ -1,4 +1,4 @@
-# Arrêté du 28 février 1985 instituant un certificat d'aptitude aux fonctions de directeur d'établissement social
+# Décret n°85-347 du 19 mars 1985 relatif à une convention sur l'aménagement du temps de travail et la modernisation.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

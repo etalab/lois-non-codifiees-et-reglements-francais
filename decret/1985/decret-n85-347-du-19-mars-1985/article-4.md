@@ -1,0 +1,3 @@
+# Article 4
+
+L'aide est accordée, dans des conditions fixées par arrêté interministériel, pendant une durée maximale de trois ans pour chaque salarié concerné par la convention en fonction de l'engagement sur l'emploi et de l'ampleur de la réduction du temps de travail. Son montant dégressif est calculé sur la base de chaque heure de réduction de la durée hebdomadaire du travail, conforme aux conditions posées par le présent décret, dans la limite de cinq heures. Sauf dérogation résultant d'un accord-cadre de branche entre l'Etat et les employeurs, ne sont prises en compte que les heures au-dessous de trente-neuf heures.

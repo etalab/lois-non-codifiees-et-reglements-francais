@@ -1,3 +1,11 @@
 # Article 1
 
-Les chiffres de la population totale, de la population municipale et de la population comptée à part publiés au décret du 31 décembre 1982, complétés et modifiés le cas échéant par le décret du 2 février 1983 et par l'arrêté du 29 décembre 1983, sont, en ce qui concerne les communes limitativement énumérées au tableau ci-joint modifiés et arrêtés conformément aux indications qui figurent aux colonnes d, e et f dudit tableau.
+Il est constitué un certificat d'aptitude aux fonctions de directeur d'établissement social se substituant aux certificats suivants :
+
+- certificat d'aptitude aux fonctions de directeur de centres d'aide par le travail ;
+
+- certificat d'aptitude aux fonctions de directeur de foyers de l'enfance et d'instituts médico-éducatifs ;
+
+- certificat d'aptitude aux fonctions de directeur d'établissements d'enfants inadaptés.
+
+Ce certificat est décerné au nom du ministre des affaires sociales et de la solidarité nationale par le directeur de l'Ecole nationale de la santé publique.
