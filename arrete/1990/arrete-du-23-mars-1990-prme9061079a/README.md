@@ -6,7 +6,6 @@
 - [CHAPITRE IV : Absence d'opposition.](chapitre-iv)
 - [CHAPITRE V : Document de suivi et certificat de réception du déchet.](chapitre-v)
 - [CHAPITRE VI : Formalités de dédouanement.](chapitre-vi)
-- [CHAPITRE VII : Cas des déchets contenant des métaux non ferreux et destinés à un recyclage, une réutilisation ou une valorisation.](chapitre-vii-cas)
 - [CHAPITRE VIII : Dispositions diverses.](chapitre-viii)
 - [Article 21](article-21.md)
 - [Annexes](annexes)
