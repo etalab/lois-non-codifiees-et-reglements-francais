@@ -773,6 +773,7 @@
 - [Arrêté du 19 mars 1996 (MENH9600246A)](arrete-du-19-mars-1996-menh9600246a)
 - [Arrêté du 19 mars 1996 (TASP9621039A)](arrete-du-19-mars-1996-tasp9621039a)
 - [Arrêté du 19 mars 1996 (TASS9621004A)](arrete-du-19-mars-1996-tass9621004a)
+- [Arrêté du 19 novembre 1996 (EQUT9601549A)](arrete-du-19-novembre-1996-equt9601549a)
 - [Arrêté du 19 novembre 1996 (MCCF9600647A)](arrete-du-19-novembre-1996-mccf9600647a)
 - [Arrêté du 19 novembre 1996 (MCCF9600648A)](arrete-du-19-novembre-1996-mccf9600648a)
 - [Arrêté du 19 novembre 1996 (MCCF9600649A)](arrete-du-19-novembre-1996-mccf9600649a)
