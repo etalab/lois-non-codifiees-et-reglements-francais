@@ -1,4 +1,4 @@
-# Arrêté du 31 mai 1985 relatif à l'ouverture anticipée du droit à la retraite pour certains personnels des houillères de bassin
+# Arrêté du 31 mai 1985 relatif à l'homologation des produits de marquage de chaussées
 
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
