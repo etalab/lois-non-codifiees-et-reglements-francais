@@ -1,0 +1,3 @@
+# Article 1
+
+Les biens immobiliers apportés par l'Etablissement public à caractère industriel et commercial des Houillères du bassin du Nord et du Pas-de-Calais, dont le siège est à Douai, à l'Etablissement public à caractère industriel et commercial des Houillères du bassin de Lorraine, dont le siège est à Freyming-Merlebach, en application du décret n° 92-1392 du 30 décembre 1992, sont composés des terrains locaux et bâtiments utilisés pour les activités de la centrale électrique d'Hornaing, situés dans les communes d'Hornaing, de Warlaing et d'Hélesmes, dans le département du Nord, tels qu'indiqués dans l'état descriptif parcellaire annexé au présent arrêté.
