@@ -78,7 +78,6 @@
 - [Arrêté du 3 juin 1998 (ECOI9800390A)](arrete-du-3-juin-1998-ecoi9800390a)
 - [Arrêté du 3 juin 1998 (ECOI9800391A)](arrete-du-3-juin-1998-ecoi9800391a)
 - [Arrêté du 3 juin 1998 (ECOI9800392A)](arrete-du-3-juin-1998-ecoi9800392a)
-- [Arrêté du 3 juin 1998 (ECOI9800523A)](arrete-du-3-juin-1998-ecoi9800523a)
 - [Arrêté du 3 juin 1998 (MENR9801558A)](arrete-du-3-juin-1998-menr9801558a)
 - [Arrêté du 3 juin 1998 (MENS9801599A)](arrete-du-3-juin-1998-mens9801599a)
 - [Arrêté du 3 mars 1997 (FCEC9700037A)](arrete-du-3-mars-1997-fcec9700037a)

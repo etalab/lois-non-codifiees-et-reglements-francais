@@ -703,7 +703,6 @@
 - [Arrêté du 21 janvier 1997 (DOMP9700006A)](arrete-du-21-janvier-1997-domp9700006a)
 - [Arrêté du 21 janvier 1997 (ECOT9713908A)](arrete-du-21-janvier-1997-ecot9713908a)
 - [Arrêté du 21 janvier 1997 (TASO9710127A)](arrete-du-21-janvier-1997-taso9710127a)
-- [Arrêté du 21 juillet 1997 (ECOI9700444A)](arrete-du-21-juillet-1997-ecoi9700444a)
 - [Arrêté du 21 mars 1997 (ECOT9710299A)](arrete-du-21-mars-1997-ecot9710299a)
 - [Arrêté du 21 mars 1997 (MCCK9600705A)](arrete-du-21-mars-1997-mcck9600705a)
 - [Arrêté du 21 mars 1997 (MCCK9600706A)](arrete-du-21-mars-1997-mcck9600706a)

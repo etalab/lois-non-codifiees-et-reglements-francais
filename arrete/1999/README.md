@@ -327,7 +327,6 @@
 - [Arrêté du 14 mai 1999 (ECOT9920028A)](arrete-du-14-mai-1999-ecot9920028a)
 - [Arrêté du 14 mai 1999 (PRMX9903507A)](arrete-du-14-mai-1999-prmx9903507a)
 - [Arrêté du 15 avril 1999 (AGRB9900125A)](arrete-du-15-avril-1999-agrb9900125a)
-- [Arrêté du 15 avril 1999 (ECOI9900230A)](arrete-du-15-avril-1999-ecoi9900230a)
 - [Arrêté du 15 avril 1999 (EQUZ9900326A)](arrete-du-15-avril-1999-equz9900326a)
 - [Arrêté du 15 avril 1999 (MESO9910652A)](arrete-du-15-avril-1999-meso9910652a)
 - [Arrêté du 15 avril 1999 (MESP9921298A)](arrete-du-15-avril-1999-mesp9921298a)
