@@ -2,7 +2,7 @@
 
 Les conseillers d'éducation populaire et de jeunesse sont recrutés par la voie de deux concours distincts ouverts :
 
-1° Le premier, aux candidats âgés de trente ans au plus, titulaires d'un diplôme sanctionnant le deuxième cycle de l'enseignement supérieur ou de titres ou diplômes dont la liste est fixée par arrêté conjoint du ministre de la jeunesse et des sports et du ministre chargé de la fonction publique ;
+1° Le premier, aux candidats, titulaires d'un diplôme sanctionnant le deuxième cycle de l'enseignement supérieur ou de titres ou diplômes dont la liste est fixée par arrêté conjoint du ministre de la jeunesse et des sports et du ministre chargé de la fonction publique ;
 
 2° Le second, aux fonctionnaires ou agents de l'Etat, des collectivités territoriales ou des établissements publics qui en dépendent, justifiant de cinq ans de services publics effectifs en cette qualité.
 
