@@ -1,15 +1,9 @@
 # Article 2
 
-Constitue une falsification au sens de la loi du 1er août 1905 l'addition au "lait fermenté" de tout produit étranger, à l'exception des produits ci-après :
+La dénomination yaourt ou yoghourt est réservée au lait fermenté frais obtenu, selon les usages loyaux et constants, par le développement des seules bactéries lactiques thermophiles spécifiques dites lactobacillus bulgaricus et streptococcus thermophilus, qui doivent être ensemencées simultanément et se trouver vivantes dans le produit mis en vente à raison d'au moins 100 millions de bactéries par gramme.
 
-Le sucre (saccharose) ;
+Le lait utilisé pour la fabrication du yaourt ou yoghourt ne peut avoir fait l'objet d'une reconstitution. Toutefois, il peut être additionné de lait en poudre, écrémé ou non, à la dose maximale de 5 grammes de poudre pour 100 grammes de lait utilisé.
 
-Les matières colorantes autorisées ;
+Le yaourt ou yoghourt ne doit faire l'objet après coagulation du lait d'aucun traitement autre que la réfrigération, et éventuellement le brassage.
 
-Les matières aromatiques naturelles ;
-
-Les pulpes ou jus de fruits, le miel ou la confiture, à la condition que le "lait fermenté" proprement dit entre au moins dans une proportion de 70 % en poids du produit mis en vente.
-
-Un arrêté conjoint du ministre de l'agriculture et du ministre de la santé publique fixera, en tant que de besoin, les conditions de préparation et d'utilisation des produits d'addition visés au présent article.
-
-De même constitue une falsification, au sens de la loi précitée, la soustraction au "lait fermenté" d'un élément constitutif du lait mis en oeuvre, notamment l'égouttage du coagulum.
+La quantité d'acide lactique libre contenue dans le yaourt ou yoghourt ne doit pas être inférieure à 0,8 gramme pour 100 grammes lors de la vente au consommateur.

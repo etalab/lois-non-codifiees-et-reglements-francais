@@ -1,25 +1,15 @@
 # Article 3
 
-Les récipients dans lesquels le "lait fermenté" est mis en vente doivent être soigneusement obturés. Ces récipients ou leur dispositif de fermeture doivent être revêtus des indications suivantes :
+Constitue une falsification au sens de la loi du 1er août 1905 l'addition au "lait fermenté" de tout produit étranger, à l'exception des produits ci-après :
 
-1° Le nom ou la raison sociale du fabricant ainsi que son adresse, ou le numéro d'identification de l'atelier de fabrication, dans les conditions définies par arrêté du ministre de l'agriculture ;
+Le sucre (saccharose) ;
 
-2° La dénomination "lait fermenté" ou le nom consacré par l'usage du type de "lait fermenté" en caractères d'au moins 4 mm de hauteur ;
+Les matières colorantes autorisées ;
 
-3° La contenance en centilitres ;
+Les matières aromatiques naturelles ;
 
-4° La date limite de consommation dans les conditions fixées par arrêté conjoint du ministre de l'agriculture et du ministre de la santé publique ;
+Les pulpes ou jus de fruits, le miel ou la confiture, à la condition que le "lait fermenté" proprement dit entre au moins dans une proportion de 70 % en poids du produit mis en vente.
 
-5° La nature et la quantité de lait en poudre ajouté si cette addition est supérieure à 5 grammes de poudre pour 100 grammes de lait utilisé ;
+Un arrêté conjoint du ministre de l'agriculture et du ministre de la santé publique fixera, en tant que de besoin, les conditions de préparation et d'utilisation des produits d'addition visés au présent article.
 
-6° La mention "tenir au frais" ;
-
-7° La mention "maigre" faisant suite à la dénomination de vente, inscrite en caractères identiques, si la teneur en matière grasse du produit, calculée sur la partie lactée, est inférieure à 1 % en poids ;
-
-8° A titre facultatif, la mention "gras", accompagnant la dénomination de vente, si la teneur en matière grasse, calculée sur la partie lactée, est au moins égale à 3 % en poids ;
-
-9° Suivant le cas, la mention "sucré", "vanillé", ou le nom de la matière aromatique utilisée, si le "lait fermenté" est sucré ou aromatisé ;
-
-10° Le nom de la matière colorante utilisée ou la mention "colorant naturel", si le "lait fermenté" a fait l'objet d'une addition de matière colorante autorisée ;
-
-11° En cas d'adjonction de pulpes ou jus de fruits, de miel ou de confiture, la mention de cet additif jointe à la détermination de vente.
+De même constitue une falsification, au sens de la loi précitée, la soustraction au "lait fermenté" d'un élément constitutif du lait mis en oeuvre, notamment l'égouttage du coagulum.
