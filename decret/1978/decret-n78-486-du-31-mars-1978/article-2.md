@@ -10,7 +10,7 @@ Le directeur régional des affaires sanitaires et sociales ou le directeur régi
 
 Les directeurs des organismes de sécurité sociale des divers régimes chargés du recouvrement des cotisations dans le département.
 
-Si la personne dont la situation doit être examinée est débitrice de cotisations envers les caisses de mutualité sociale agricole et les organismes visés à l'article 1106-9 du code rural, la commission s'adjoint le directeur du travail, chef du service régional de l'inspection du travail et de la protection sociale agricole.
+Si la personne dont la situation doit être examinée est débitrice de cotisations envers les caisses de mutualité sociale agricole et les organismes visés à l'article 1106-9 du code rural, la commission s'adjoint le directeur du travail, chef du service régional de l'inspection du travail, de l'emploi et de la politique sociale agricole.
 
 Si le redevable est débiteur envers l'administration des douanes et droits indirects et dans la mesure où les droits et taxes en cause sont recouvrés par cette administration suivant les modalités fixées par le code général des impôts, la commission s'adjoint le directeur régional des douanes.
 
