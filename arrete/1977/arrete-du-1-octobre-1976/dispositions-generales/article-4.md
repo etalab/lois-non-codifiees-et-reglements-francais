@@ -1,6 +1,6 @@
 # Article 4
 
-Les caisses régionales d'assurance maladie des travailleurs salariés déterminent le taux net de cotisation applicable, d'une part, à chaque établissement dont l'effectif habituel de salariés est au moins égal à trois cents, d'autre part, à chaque établissement d'une même entreprise lorsque l'effectif global habituel de salariés de ladite entreprise est au moins égal à trois cents, en additionnant les trois éléments définis ci-après :
+Les caisses régionales d'assurance maladie des travailleurs salariés déterminent le taux net de cotisation, dit Taux réel, applicable soit à l'entreprise qui ne comporte qu'un seul établissement et dont l'effectif habituel de salariés est au moins égal à trois cents, soit à chaque établissement d'une même entreprise lorsque l'effectif global habituel de salariés de ladite entreprise est au moins égal à trois cents. Le taux réel est obtenu par l'addition des trois éléments suivants.
 
 1. Le taux brut calculé d'après le rapport de la valeur du risque propre à l'établissement, non compris le risque des accidents du trajet visés à l'article L. 415-1 du code de la sécurité sociale et les frais de rééducation professionnelle visés à l'article L. 434-1. dudit code, à la masse totale des salaires payés au personnel au cours des trois dernières années connues, ces salaires n'étant retenus que dans la limite du maximum soumis à cotisation.
 

@@ -1,0 +1,3 @@
+# Article 6 bis
+
+Les caisses régionales d'assurance maladie peuvent accorder les ristournes prévues à l'article 1er de l'arrêté du 16 septembre 1977 relatif à l'attribution de ristournes sur la cotisation ou à l'imposition de cotisations supplémentaires en matière d'accidents du travail, pendant une période maximale de trois années consécutives, aux établissements dont le taux de cotisation mixte, résultant d'un changement du mode de tarification, devient égal ou supérieur au double du taux notifié à ces établissements l'année précédente. Ces dispositions sont également applicables aux établissements qui cotisent sur la base d'un taux réel et dont l'effectif habituel de salariés est inférieur à 300.
