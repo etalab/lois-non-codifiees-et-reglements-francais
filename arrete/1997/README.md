@@ -786,7 +786,6 @@
 - [Arrêté du 25 juin 1997 (ECOT9710304A)](arrete-du-25-juin-1997-ecot9710304a)
 - [Arrêté du 25 juin 1997 (EQUS9700321A)](arrete-du-25-juin-1997-equs9700321a)
 - [Arrêté du 25 juin 1997 (MCCF9700539A)](arrete-du-25-juin-1997-mccf9700539a)
-- [Arrêté du 25 juin 1997 (MCCF9700541A)](arrete-du-25-juin-1997-mccf9700541a)
 - [Arrêté du 25 mars 1997 (BUDB9640033A)](arrete-du-25-mars-1997-budb9640033a)
 - [Arrêté du 25 mars 1997 (ECOT9751577A)](arrete-du-25-mars-1997-ecot9751577a)
 - [Arrêté du 25 mars 1997 (EQUH9600952A)](arrete-du-25-mars-1997-equh9600952a)
