@@ -80,6 +80,7 @@
 - [Décret n°2002-333 du 11 mars 2002 (MENF0200102D)](decret-n2002-333-du-11-mars-2002-menf0200102d)
 - [Décret n°2002-334 du 11 mars 2002 (MENF0200103D)](decret-n2002-334-du-11-mars-2002-menf0200103d)
 - [Décret n°2002-57 du 11 janvier 2002 (ECOP0100343D)](decret-n2002-57-du-11-janvier-2002-ecop0100343d)
+- [Décret n°2001-130 du 12 février 2001 (INTA0100021D)](decret-n2001-130-du-12-fevrier-2001-inta0100021d)
 - [Décret n°2001-38 du 12 janvier 2001 (FPPA0000145D)](decret-n2001-38-du-12-janvier-2001-fppa0000145d)
 - [Décret n°2001-39 du 12 janvier 2001 (FPPA0000146D)](decret-n2001-39-du-12-janvier-2001-fppa0000146d)
 - [Décret n°2001-632 du 12 juillet 2001 (INTC0100170D)](decret-n2001-632-du-12-juillet-2001-intc0100170d)
