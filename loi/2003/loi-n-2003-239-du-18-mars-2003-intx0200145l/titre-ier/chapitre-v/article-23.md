@@ -8,6 +8,8 @@ I. - Sont inscrits dans le fichier des personnes recherchées au titre des déci
 
 3° Les interdictions prononcées en application des dispositions des 1°, 2°, 3° et 11° de l'article 131-6 du code pénal relatif aux peines alternatives à l'emprisonnement ;
 
+3° bis Lorsqu'elle est prononcée à titre de peine complémentaire, l'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de conduire n'est pas exigé ;
+
 4° L'interdiction d'exercer certaines activités prononcée en application des articles 131-27 et 131-28 du code pénal ;
 
 5° L'interdiction du territoire français prononcée en application de l'article 131-30 du code pénal ;

@@ -20,4 +20,6 @@ L'exécution de ces missions est assurée par l'Etat, les collectivités territo
 
 Les modalités des relations entre les autorités publiques et les entreprises de transport public varient en fonction du mode de transport et de la nature des activités selon qu'il s'agit notamment de transports de personnes ou de marchandises. Dans le cadre des dispositions de la loi, la liberté de gestion des entreprises privées est garantie par l'Etat.
 
-Sont considérés comme des transports publics [*définition*] tous les transports de personnes ou de marchandises, à l'exception des transports qu'organisent pour leur propre compte des personnes publiques ou privées.
+Sont considérés comme des transports publics tous les transports de personnes ou de marchandises, à l'exception des transports qu'organisent pour leur propre compte des personnes publiques ou privées.
+
+Sont considérées comme des transports de marchandises les opérations de transport effectuées dans le cadre d'un déménagement.
