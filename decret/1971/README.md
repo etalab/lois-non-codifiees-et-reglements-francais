@@ -18,6 +18,7 @@
 - [Décret n°71-289 du 9 avril 1971](decret-n71-289-du-9-avril-1971)
 - [Décret n°71-847 du 13 octobre 1971](decret-n71-847-du-13-octobre-1971)
 - [Décret n°71-292 du 14 avril 1971](decret-n71-292-du-14-avril-1971)
+- [Décret n°71-365 du 14 mai 1971](decret-n71-365-du-14-mai-1971)
 - [Décret du 15 avril 1971](decret-du-15-avril-1971)
 - [Décret n°71-136 du 15 février 1971](decret-n71-136-du-15-fevrier-1971)
 - [Décret n°71-766 du 16 septembre 1971](decret-n71-766-du-16-septembre-1971)
