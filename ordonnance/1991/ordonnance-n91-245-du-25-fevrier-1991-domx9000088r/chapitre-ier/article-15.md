@@ -1,3 +1,0 @@
-# Article 15
-
-Pour l'application de l'antépénultième et de l'avant-dernier alinéa de l'article 416 du code pénal, la référence à " l'article L. 123-1 du code du travail " est remplacée par la référence aux " dispositions de la législation du travail en vigueur localement en matière d'égalité professionnelle entre les femmes et les hommes ", la référence aux " articles L. 323-1 à L. 323-8-8 du code du travail " est remplacée par la référence aux " dispositions de la législation du travail en vigueur localement concernant l'obligation d'emploi des travailleurs handicapés, des mutilés de guerre et assimilés " et la référence au " titre IV du livre II du code du travail " est remplacée par la référence aux " dispositions relatives à la médecine du travail ".

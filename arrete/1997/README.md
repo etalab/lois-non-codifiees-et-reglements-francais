@@ -456,7 +456,6 @@
 - [Arrêté du 13 mai 1997 (EQUE9700522A)](arrete-du-13-mai-1997-eque9700522a)
 - [Arrêté du 13 mai 1997 (INTA9700189A)](arrete-du-13-mai-1997-inta9700189a)
 - [Arrêté du 13 mai 1997 (INTA9700190A)](arrete-du-13-mai-1997-inta9700190a)
-- [Arrêté du 13 mai 1997 (JUSG9760031A)](arrete-du-13-mai-1997-jusg9760031a)
 - [Arrêté du 14 août 1997 (ECOS9750029A)](arrete-du-14-aout-1997-ecos9750029a)
 - [Arrêté du 14 août 1997 (EQUP9700958A)](arrete-du-14-aout-1997-equp9700958a)
 - [Arrêté du 14 août 1997 (MESS9722629A)](arrete-du-14-aout-1997-mess9722629a)

@@ -18,7 +18,6 @@
 - [Décret n°2000-749 du 1 août 2000 (MESS0022074D)](decret-n2000-749-du-1-aout-2000-mess0022074d)
 - [Décret n°2000-750 du 1 août 2000 (MESS0022075D)](decret-n2000-750-du-1-aout-2000-mess0022075d)
 - [Décret n°2000-751 du 1 août 2000 (JUSG0060019D)](decret-n2000-751-du-1-aout-2000-jusg0060019d)
-- [Décret n°2000-752 du 1 août 2000 (JUSG0060020D)](decret-n2000-752-du-1-aout-2000-jusg0060020d)
 - [Décret n°2000-753 du 1 août 2000 (MENF0001551D)](decret-n2000-753-du-1-aout-2000-menf0001551d)
 - [Décret n°2000-754 du 1 août 2000 (ATEN0080071D)](decret-n2000-754-du-1-aout-2000-aten0080071d)
 - [Décret n°2000-755 du 1 août 2000 (ATEN0080072D)](decret-n2000-755-du-1-aout-2000-aten0080072d)

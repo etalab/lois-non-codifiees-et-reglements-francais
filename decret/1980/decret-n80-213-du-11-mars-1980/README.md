@@ -2,6 +2,5 @@
 
 - [Article 1](article-1.md)
 - [Titre I : Dispositions spéciales aux territoires d'outre-mer.](titre-i)
-- [Titre III : Dispositions particulières à la collectivité territoriale de Mayotte.](titre-iii)
 - [Titre IV : Dispositions communes.](titre-iv)
 - [Article 15](article-15.md)

@@ -68,7 +68,6 @@
 - [Loi n° 96-948 du 31 octobre 1996 (MAEX9600006L)](loi-n-96-948-du-31-octobre-1996-maex9600006l)
 - [Loi n° 96-985 du 12 novembre 1996 (TASX9600026L)](loi-n-96-985-du-12-novembre-1996-tasx9600026l)
 - [Loi n° 96-987 du 14 novembre 1996 (AVIX9600044L)](loi-n-96-987-du-14-novembre-1996-avix9600044l)
-- [Loi n°96-1 du 2 janvier 1996 (JUSX9500111L)](loi-n96-1-du-2-janvier-1996-jusx9500111l)
 - [Loi n°96-1077 du 11 décembre 1996 (MJSX9601748L)](loi-n96-1077-du-11-decembre-1996-mjsx9601748l)
 - [Loi n°96-151 du 26 février 1996 (EQUX9500055L)](loi-n96-151-du-26-fevrier-1996-equx9500055l)
 - [Loi n°96-299 du 10 avril 1996 (MIPX9500148L)](loi-n96-299-du-10-avril-1996-mipx9500148l)

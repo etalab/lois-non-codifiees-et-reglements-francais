@@ -111,7 +111,6 @@
 - [Décret n°99-726 du 3 août 1999 (FPPA9910013D)](decret-n99-726-du-3-aout-1999-fppa9910013d)
 - [Décret n°99-759 du 3 septembre 1999 (MENF9901756D)](decret-n99-759-du-3-septembre-1999-menf9901756d)
 - [Décret n°99-760 du 3 septembre 1999 (MENF9901757D)](decret-n99-760-du-3-septembre-1999-menf9901757d)
-- [Décret n°99-761 du 3 septembre 1999 (INTM9900025D)](decret-n99-761-du-3-septembre-1999-intm9900025d)
 - [Décret n°99-336 du 3 mai 1999 (ECOT9926237D)](decret-n99-336-du-3-mai-1999-ecot9926237d)
 - [Décret n°99-337 du 3 mai 1999 (ECOF9900013D)](decret-n99-337-du-3-mai-1999-ecof9900013d)
 - [Décret n°99-338 du 3 mai 1999 (MESP9921159D)](decret-n99-338-du-3-mai-1999-mesp9921159d)

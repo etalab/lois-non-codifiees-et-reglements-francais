@@ -688,7 +688,6 @@
 - [Décret n°98-644 du 22 juillet 1998 (MESS9821161D)](decret-n98-644-du-22-juillet-1998-mess9821161d)
 - [Décret n°98-645 du 22 juillet 1998 (MESA9822267D)](decret-n98-645-du-22-juillet-1998-mesa9822267d)
 - [Décret n°98-843 du 22 septembre 1998 (INTM9800013D)](decret-n98-843-du-22-septembre-1998-intm9800013d)
-- [Décret n°98-844 du 22 septembre 1998 (INTM9800014D)](decret-n98-844-du-22-septembre-1998-intm9800014d)
 - [Décret n°98-849 du 22 septembre 1998 (ECOT9851709D)](decret-n98-849-du-22-septembre-1998-ecot9851709d)
 - [Décret n°98-856 du 22 septembre 1998 (DEFP9801832D)](decret-n98-856-du-22-septembre-1998-defp9801832d)
 - [Décret n°98-858 du 22 septembre 1998 (MESP9822066D)](decret-n98-858-du-22-septembre-1998-mesp9822066d)

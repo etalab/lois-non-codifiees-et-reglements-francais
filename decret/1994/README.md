@@ -7,7 +7,6 @@
 - [Décret n°94-113 du 1 février 1994 (MAEJ9430002D)](decret-n94-113-du-1-fevrier-1994-maej9430002d)
 - [Décret n°94-181 du 1 mars 1994 (TEFT9400092D)](decret-n94-181-du-1-mars-1994-teft9400092d)
 - [Décret n°94-182 du 1 mars 1994 (JUSC9420137D)](decret-n94-182-du-1-mars-1994-jusc9420137d)
-- [Décret n°94-183 du 1 mars 1994 (JUSC9420139D)](decret-n94-183-du-1-mars-1994-jusc9420139d)
 - [Décret n°94-187 du 1 mars 1994 (ENVN9310106D)](decret-n94-187-du-1-mars-1994-envn9310106d)
 - [Décret n°94-194 du 1 mars 1994 (ACVA9310104D)](decret-n94-194-du-1-mars-1994-acva9310104d)
 - [Décret n°94-261 du 1 avril 1994 (MENF9400565D)](decret-n94-261-du-1-avril-1994-menf9400565d)
