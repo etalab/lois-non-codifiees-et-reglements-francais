@@ -4,4 +4,6 @@ En cas de transformation d'un établissement privé à caractère sanitaire ou s
 
 Les limites d'âge pour l'accès aux corps et emplois régis par le présent titre ne sont pas opposables aux personnels mentionnés à l'alinéa ci-dessus.
 
-Les services accomplis dans le secteur privé par les personnels mentionnés au premier alinéa ci-dessus peuvent être pris en compte au titre de l'avancement dans le corps ou l'emploi de recrutement.
+Les services accomplis dans le secteur privé par les personnels mentionnés au premier alinéa ci-dessus peuvent être pris en compte pour le classement et au titre de l'avancement dans le corps ou l'emploi de recrutement.
+
+Les dispositions du présent article sont applicables en cas de transformation ou de transfert survenus depuis le 1er janvier 1985.
