@@ -2,5 +2,6 @@
 
 - [Article 1](article-1.md)
 - [Titre Ier : Indemnités pour travaux dangereux, insalubres ou particulièrement pénibles.](titre-ier)
+- [Titre II : Primes pour services rendus.](titre-ii)
 - [Titre III : Dispositions diverses.](titre-iii)
 - [Article 8](article-8.md)
