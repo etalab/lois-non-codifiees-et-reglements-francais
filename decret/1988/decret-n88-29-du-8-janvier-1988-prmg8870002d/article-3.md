@@ -1,0 +1,5 @@
+# Article 3
+
+Dans chaque administration ou service, les emplois de sténodactylographe seront pourvus par la voie d'une liste d'aptitude sur laquelle pourront être inscrits, après avis de la commission administrative paritaire compétente, les fonctionnaires de cette administration ou de ce service appartenant à un corps classé en catégorie C ou appartenant à un corps comportant l'exercice de fonctions de bureau et classé en catégorie D. Les intéressés doivent justifier d'au moins neuf ans de services publics et être titulaires du certificat d'aptitude professionnelle de sténodactylographe ou d'un des diplômes figurant sur une liste fixée par arrêté du ministre chargé de la fonction publique.
+
+Les emplois qui resteraient vacants à l'issue de cette sélection au choix seront pourvus par la voie d'un examen professionnel ouvert aux fonctionnaires appartenant à un corps classé en catégorie C ou appartenant à un corps comportant l'exercice de fonctions de bureau et classé en catégorie D justifiant d'au moins trois ans de services publics.
