@@ -1,5 +1,6 @@
 # Décret n°64-142 du 13 février 1964 portant statut particulier du corps des inspecteurs généraux des postes et télécommunications.
 
+- [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 7](article-7.md)
