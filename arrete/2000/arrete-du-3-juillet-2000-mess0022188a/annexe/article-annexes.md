@@ -194,7 +194,7 @@ Cornille, 29, rue M.-Bourderiez, 59492 Villeneuve-d'Ascq : de 1957 à 1997 ;
 
 Eternit, établissement de Prouvy-Thiant, 59224 Haulchin-Thiant : de 1922 à 1997 ;
 
-Flertex, 59220 Rouvignies : de 1960 à 1996 ;
+Ferodo/Valéo/Sime industrie/Flertex, 79, boulevard Anatole-France, 59410 Anzin, puis ZI n° 2, 59300 Valenciennes : de 1960 à 1996 ;
 
 HGD/Norsolor/Atochem, 62880 Vendin-le-Vieil : de 1973 au 30 juin 1981 ;
 
@@ -370,6 +370,8 @@ LISTE COMPLEMENTAIRE D'ETABLISSEMENTS AYANT FABRIQUE DES MATERIAUX CONTENANT DE 
 
 Alsace
 
+Alstom Power, 34, rue d'Aspach, BP 29, 68701 Cernay Cedex, de 1962 à 1993 ;
+
 Babcock Sacom, 11, rue de Berne, 68110 Illzach : de 1929 à 1996 ;
 
 Isolations Th. debus SA., 9, rue de Picardie, 67116 Reichstett : de 1971 à 1987 ; - 3, rue principale, 67300 Schiltigheim : de 1960 à 1987 ;
@@ -416,7 +418,11 @@ Société européenne de produits réfractaires, rue Beausoleil, BP 2, 47500 Mon
 
 Société européenne de propulsion par réaction (SEP), Les Cinq-Chemins, 33187 Le Haillan Cedex, de 1964 à 1992 ;
 
-Société générale de produits réfractaires, rue Beausoleil, BP 2, 47500 Monsempron, Libos, de 1960 à 1973.
+Société générale de produits réfractaires, rue Beausoleil, BP 2, 47500 Monsempron, Libos, de 1960 à 1973 ;
+
+SNPE, avenue de Gay-Lussac, 33167 Saint-Médard-en-Jalles, de 1972 à 1992 ;
+
+SNPE / société CELERG, 33167 Saint-Médard-en-Jalles, de 1993 à 1997.
 
 Wanner Isofi/Technis, rond-point de Mourenx, BP 14, 64170 Lacq : de 1997 à 1999.
 
@@ -425,6 +431,10 @@ Auvergne
 Bosch Systèmes de freinage, 176, route de Lyon, 03400 Yseure : de 1969 à 1972 ;
 
 Carborundum France/SEPR/SGPR Etablissement d'Ambert, ZI, 63600 Ambert : de 1968 à 1977 ;
+
+Compagnie des signaux de l'entreprise électrique (CSEE), caserne Dombrowski, 15, avenue Archon-Desperouses, 63200 Riom, de 1950 à 1991, puis CS Mecatronic, caserne Dombrowski, 15, avenue Archon-Desperouses, 63200 Riom, de 1991 à 1994 ;
+
+Compagnie des signaux de l'entreprise électrique (CSEE), rue de l'Ambème, 63200 Riom, de 1977 à 1997 ;
 
 Soma Europe-Transmissions/Sog David/Sonomev (Société nouvelle de mécanique du Velay), Oudreych, 43200 Lapte : de 1972 à 1996.
 
@@ -478,13 +488,15 @@ Mérand SA, ZI de la Turbanière, 35530 Brécé : de 1951 à 1993.
 
 Queguiner Matériaux, ZA Le Vern, 29400 Landivisiau : de 1971 à 1998 ;
 
+SA CAPIC, 69, avenue des Sports, ZI de l'Hippodrome, 29195 Quimper Cedex, de 1962 à 1993 ;
+
+SA CAPIC, 7, Hent-Kamm, 29000 Quimper, de 1962 à 1993.
+
 SA Launay, rue de Bellevue, 56220 Malansac : de 1963 à 1994 ;
 
 Samua, Saint-Eloi, 22540 Louargat : de 1976 à 1986 ;
 
-SARL Fours Ripoche, puis Ateliers de chaudronnerie lorientais réunis (groupe CECF : Compagnie européenne de constructions de fours), puis Société d'applications électrotechniques :
-
-- ZI de kerpont, 56850 Caudan : de 1968 à 1988 ;
+SARL Fours Ripoche, puis Ateliers de chaudronnerie lorientais réunis (groupe CECF : Compagnie européenne de constructions de fours), puis Société d'applications électrotechniques, ZI de kerpont, 56850 Caudan : de 1968 à 1988 ;
 
 Sérupa, route de Rennes, 22230 Merdrignac : de 1974 à 1998 ;
 
@@ -548,8 +560,6 @@ Ile-de-France
 
 Allied Signal, 10, rue Blanqui, puis 13, rue Dieumegard, 93400 Saint-Ouen : de 1990 à 1994 ;
 
-Alsthom Power Boiler, établissement  chantier , 19-21, avenue Morane-Saulnier, 78140 Vélizy : de 1956 à 1996 ;
-
 Arpin, 25 à 29, quai des Grésillons, 92000 Gennevilliers : depuis sa création jusqu'en 1996 ;
 
 Bendix/DBA/Allied Signal/Bosch systèmes de freinage, 124-126, rue de Stalingrad, 93700 Drancy : de 1951 à 1996.
@@ -561,6 +571,8 @@ Caourep, 10, avenue de la Grande-Armée, 75017 Paris, puis 20, rue Hauteville, 7
 Carel Fouche Industries, 22, place de Seine, tour Neptune, 92086 Paris-La Défense Cedex, puis GEC Alsthom Transport, 22, place de Seine, tour Neptune, 92086 Paris-La Défense Cedex, de 1913 à 1996 ;
 
 CECF (fours Ripoche), 1, rue des Marais : de 1950 à 1990 ;
+
+CEM Alsthom, 55, avenue Jean-Jaurès, 93350 Le Bourget, de sa création à 1984 ;
 
 Chausson thermique, 92600 Asnières-sur-Seine : de 1960 à mai 1987 ;
 
@@ -618,17 +630,19 @@ Société Isolfeu, 15, rue de Chabrol, 75010 Paris : de 1944 à 1966 ;
 
 Société Isoméca, zone industrielle, RN 19, 77370 Nangis : de 1968 à 1992.
 
-Société J.I.F./Meillor SA, 4, rue Alexandre, 92230 Gennevilliers, puis rue du Compas, puis 2, avenue de l'Ile-de-France, 95310 Saint-Ouen-L'Aumône : de 1952 à 1995.
+Société J.I.F./Meillor SA, 4, rue Alexandre, 92230 Gennevilliers, puis rue du Compas, puis 2, avenue de l'Ile-de-France, 95310 Saint-Ouen-L'Aumône : de 1952 à 1995 ;
 
-Stotnet, 16, rue François-Guibert, 75015 Paris : de 1947 à 1974.
+Stein Industrie, puis GEC Alstom, établissement "chantier, 19-21, avenue Morane-Saulnier, 78140 Vélizy, de 1956 à 1996 ;
 
-Technisol, zone industrielle, 91420 Morangis : de 1962 à 1998.
+Stotnet, 16, rue François-Guibert, 75015 Paris : de 1947 à 1974 ;
+
+Technisol, zone industrielle, 91420 Morangis : de 1962 à 1998 ;
 
 Trouvay Cauvin, 183 rue Ordener, 75882 Paris Cedex 18 : de 1929 à 1969 ;
 
 Tunzini/Tunzini Wanner, 41, rue des trois-Fontanot, 92024 Nanterre cedex : de 1964 à 1996 ;
 
-Valeo, puis Chaussons service, rue des Oziers, ZA du Vert-Galant, 95310 Saint-Ouen-l'Aumône : de 1978 à 1996.
+Valeo, puis Chaussons service, rue des Oziers, ZA du Vert-Galant, 95310 Saint-Ouen-l'Aumône : de 1978 à 1996 ;
 
 Vaysse, 385, rue de Vaugirard, 75015 Paris : de 1974 à 1987.
 
@@ -654,11 +668,15 @@ Feyel SA, 76, avenue André-Malraux, 57000 Metz, puis 8, avenue Louis-le-Débonn
 
 Furgoni, 10, rue Joliot-Curie, 57250 moyeuvre-Grande : de 1960 à 1987 ;
 
-Le Laboratoire métallurgique, 29-33, rue de Rombas, 57140 Woippy : de 1936 à 1978.
+Le Laboratoire métallurgique, 29-33, rue de Rombas, 57140 Woippy : de 1936 à 1978 ;
+
+Manoir industries division Gerlach, route de Guerstling, 57320 Bouzonville, de 1968 à 1995 ;
 
 SNIFI/EFI, Les Quarres, BP 44, 57130 Ancy-sur-Moselle, de 1966 à 1992.
 
 Société Construction Maintenance industrielle (CMI), 1, rue du général-Mangin, 57000 Metz : de 1970 à 1979 ;
+
+Société lorraine des anciens établissements De Dietrich et compagnie de Lunéville, de 1948 à 1964, puis CIMT, de 1964 à 1970, puis Trailor, 9, avenue de la Libération, 54300 Lunéville, de 1970 à 1992 ;
 
 Vosgisol, 57, rue Chanzy, 88500 Mirecourt : de 1973 à 1984 ;
 
@@ -678,7 +696,11 @@ CDF Chimie, usine de Mazingarbe, 62670 Mazingarbe : de 1946 à 1972.
 
 Courtaulds SA-Courtimmo, pont du Leu, 62231 Coquelles : de 1926 à 1991 ;
 
+DITECHNA, 2, rue de l'Albeck, ZI de Petite-Synthe, 59640 Dunkerque, de 1971 à 1982 ;
+
 Ducellier et Cie puis Valéo, route de Montreuil, 62630 Etaples : de 1971 à 1992 ;
+
+Entreprise Damette / Sockeel A et J, 45, rue de la Sous-Préfecture, 59190 Hazebrouck, de 1961 à 1976 ;
 
 Entreprise générale d'isolation Poujaud, rue Gabriel-Péri, ZI de la Samaritaine, BP 53, 59430 Saint-Pol-sur-Mer : de 1977 à 1987 ; Poujaud SA : depuis 1987 ;
 
@@ -698,7 +720,13 @@ Forgeval, 29 chemin des alliés, 59300 Valenciennes : jusqu'en 2000 ;
 
 Khol, 367, avenue de Saint-Exupéry, 62100 Calais : de 1966 à 1991 ;
 
+Le Joint ADJI, boulevard Gambetta, 59200 Tourcoing, puis ZA Les Champs, rue Norbert-Segard, 59223 Roncq, de 1988 à 1996 ;
+
+MAGNESIA, 215 G, route de Saint-Omer, 62100 Calais, de 1933 à 1996 ;
+
 Marles Kuhlman/Produits chimiques ugine Kuhlmann (PCUK)/Atochem/ICI France SA, 62920 Chocques : de 1960 à 1985 ;
+
+Matériel de cuisson Delrue, 103, rue du Levant, 59200 Tourcoing, de 1947 à 1988 ;
 
 Mineur Becourt, Avenue des bureaux, 59610 Fourmies : de 1912 à 1982 ;
 
@@ -832,7 +860,13 @@ SNIFI/EFI, agence Savenay, 44260 Donges, de 1974 à 1982, puis agence ZI Bonne-N
 
 Société des chaudronneries de l'Ouest, 13, rue du Bois-Fleuri, 44118 La Chevrolière : de 1974 à 1996 ;
 
-Valeo/Ferodo/SAMP, 72210 La Suze-sur-Sarthe : de 1960 à 1992.
+Valéo Thermique Moteur, 130, route de Mayenne, 53003 Laval, de 1954 à 1988 ;
+
+Valeo/Ferodo/SAMP, 72210 La Suze-sur-Sarthe : de 1960 à 1992 ;
+
+Warner Electric Europe / Collins & Tournadre  Tourco , 7, rue de Champfleur, 49182 Saint-Barthélemy-d'Anjou, de 1970 à 1996 ;
+
+Warner, route de Spay, BP 17, 72700 Allonnes, de 1965 à 1996.
 
 Picardie
 
@@ -862,6 +896,8 @@ Etablissements DBA/Bendix/Honeywelle/Allied Signal, centre de distribution d'All
 
 Etablissements DBA/Bendix/Honeywelle/Allied Signal, Tille, 60000 Beauvais : de 1981 à 1987 ;
 
+Fichet Serrurerie Bâtiment, 80460 Oust-Marest, de 1969 à 1977 ;
+
 Frendo/Fren J./Fren Brex SA/Roulunds Codan, Z.I. d'Angean, 60240 Chaumont-en-Vexin : de 1975 à 1997.
 
 Gurit Essex, Dow Automotive, ZI du Nord, route d'Amiens, 60130 Saint-Just-en-Chaussée, de 1977 à 1983.
@@ -888,6 +924,8 @@ Valeo/Allied Signal, centre de Mortefontaine, 60128 Plailly : de 1989 à 1996.
 
 Poitou-Charentes
 
+CELERG Sud, établissement d'Angoulême, 16017 Angoulême, de 1995 à 1999 ;
+
 Entreprise Langer Michel et compagnie/Société Langer Michel et compagnie : usine de Saint-Germain-de-Longehaume, 50, route de Nantes, 79700 Mauléon : depuis sa création à 1986 ;
 
 Entreprise SARL Bire, 8 rue des Cèdres, 79370 Celles-sur-Belle : de 1990 à 1997 ;
@@ -896,9 +934,13 @@ Etablissements Doizon, 79290 Bouille-Loretz : de 1944 à 1990 ;
 
 Fast puis Alta, 90 rue des Lacs, BP 14, 79290 Argenton-l'Eglise : de 1990 à 1997 ;
 
+Poujoulat SA, BP 01, Saint-Symphorien, 79270 Frontenay-Rohan-Rohan, de 1963 à 1995 ;
+
 Guillemin puis Idéal Guillemin, 90 rue des Lacs, BP 14, 79290 Argenton-l'Eglise : de 1947 à 1990 ;
 
-Société Cogem/SA Eno/SN Eno, 88, rue de Bellune, 79025 Niort Cedex 9 : de 1967 à 1982.
+Société Cogem/SA Eno/SN Eno, 88, rue de Bellune, 79025 Niort Cedex 9 : de 1967 à 1982 ;
+
+SNPE, établissement d'Angoulême, 16017 Angoulême, de 1975 à 1996.
 
 Provence-Alpes-Côte d'Azur
 
@@ -968,7 +1010,7 @@ Fonderies et ateliers du Rhône, 45, rue de la Cité, 69425 Lyon : de 1940 à 19
 
 Fours et Brûleurs Rey, 18, rue du Vercors, 42100 Saint-Etienne : de 1943 à 1996 ;
 
-Genevet, rue Barthélemy-Thimonier, ZI de Bonrert, 42300 Mably, de 1939 à 1992 ;
+Genevet : rue Barthélémy-Thimonier, ZI de Bonrert, 42300 Mably, jusqu'en 1996  ;
 
 Jacquemard/Luchaire/Rhonatec/Isofreins, 4, rue de Dunkerque, 42100 Saint-Etienne : de 1953 à 1992 ;
 
@@ -980,18 +1022,26 @@ JST/Vatech, 84, avenue Paul-Santy, 69008 Lyon : de 1949 à 1988 ;
 
 Pavailler Equipement, Pavailler BVP, 555, rue Benoît-Frachon, 26800 Portes-lès-Valence, de 1950 à 1996 ;
 
+Prost, puis Prost Lafarge groupe CEC, puis Lafarge réfractaire, puis Piral SA, zone industrielle, 07210 Alissas, de 1969 à 1980 ;
+
 Silisol/Omerin, division Silisol SAS, 8, rue Bossuet, puis 11, allée du Couchant, ZI du Bevey, 42100 Saint-Etienne : de 1960 à 1996 ;
 
 SNIFI/EFI, rue Thomas, BP 38, 69320 Feyzin, de 1971 à 1981 ;
 
+ociété de Paris et du Rhône, de 1915 à 1986, puis EEM, de 1986 à 1987, puis Valéo EEM, de 1987 à 1989, 36, avenue Jean-Mermoz, 69355 Lyon ;
+
+Société de Paris et du Rhône, de 1972 à 1986, puis EEM, de 1986 à 1987, puis Valéo EEM, de 1987 à 1991, rue Saint-Honoré, 38300 Bourgoin ;
+
 Socamel Rescaset, chemin d'Allivet Renage, 38148 Rives, de 1960 à 1996 ;
 
-Société Soma Europe Transmission/Valeo/Société Rockwell S.A./Société Meritor International, 24, rue Scheurer-Kestner, puis 17, rue des Aciéries, 42029 Saint-Etienne, puis 24, rue Scheurer-Kestner, 42007 Saint-Etienne, puis 4, rue Jean-Servanton, 42042 Saint-Etienne : de 1962 à 1998.
+Société Soma Europe Transmission/Valeo/Société Rockwell S.A./Société Meritor International, 24, rue Scheurer-Kestner, puis 17, rue des Aciéries, 42029 Saint-Etienne, puis 24, rue Scheurer-Kestner, 42007 Saint-Etienne, puis 4, rue Jean-Servanton, 42042 Saint-Etienne : de 1962 à 1998 ;
 
 Société Usifor, 11, rue des Coopérateurs, 42042 Saint-Etienne : de 1960 à 1982 ;
 
 SOMDIS, chemin d'Allivet, Renage, 38148 Rives : d'avril 1978 à 1984 ;
 
-Synflor/Gerflor, 69100 Villeurbanne, puis zone industrielle rue du Bois-des-Lots, 26130 Saint-Paul-Trois-Châteaux : de 1972 à 1980.
+Synflor/Gerflor, 69100 Villeurbanne, puis zone industrielle rue du Bois-des-Lots, 26130 Saint-Paul-Trois-Châteaux : de 1972 à 1980 ;
 
-Thermal Ceramics, BP 4, 42680 Saint-Marcellin-en-Forez : de 1957 à 1974.
+Thermal Ceramics, BP 4, 42680 Saint-Marcellin-en-Forez : de 1957 à 1974 ;
+
+Valéo EEM, rue du Revolay, 38291 Saint-Quentin-Fallavier, de 1989 à 1996.
