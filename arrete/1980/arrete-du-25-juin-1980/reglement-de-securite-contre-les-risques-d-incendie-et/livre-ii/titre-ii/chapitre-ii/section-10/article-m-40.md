@@ -9,3 +9,15 @@ Matières et liquides inflammables et alcools
 Aucun transvasement ne peut être effectué dans les locaux recevant du public.
 
 Le poids de ces produits est limité dans les conditions définies à l'article M 42 ci-après.
+
+§ 3. L'utilisation de solvants halogénés est autorisée dans les ateliers de nettoyage à sec de vêtements, inclus ou non dans des centres commerciaux, sous réserve de respecter les prescriptions générales de la réglementation des installations classées pour la protection de l'environnement et les prescriptions particulières suivantes :
+
+a) Réaliser une ventilation mécanique permanente dans l'ensemble du local, l'air étant rejeté par un conduit spécial non raccordable aux conduits des autres locaux ;
+
+b) Les postes de pré-nettoyage et repassage seront situés à proximité des ventilateurs d'extraction de l'air de l'atelier ;
+
+c) Ne pas procéder à un nettoyage manuel des effets avec des solvants halogénés ;
+
+d) Ne pas stocker de solvants halogénés ;
+
+e) Souscrire un contrat d'entretien des machines de traitement suivant les instructions du constructeur.

@@ -18,7 +18,9 @@ Exploitation recevant de 301 à 700 personnes : 750 kilogrammes ;
 
 Exploitation recevant 300 personnes et au-dessous : 500 kilogrammes.
 
-§ 2. Les quantités cumulées par exploitation des liquides inflammables de 1re catégorie et alcools dont le titre est supérieur à 60° GL, avec celles des liquides inflammables de 2e catégorie et alcools dont le titre est supérieur à 40° GL mais inférieur ou égal à 60° GL, sont limitées à :
+§ 2. Le volume total des liquides inflammables de 1re catégorie et alcools dont le titre est supérieur à 60° GL cumulé avec celui des liquides inflammables de 2e catégorie et alcools dont le titre est supérieur à 40 ° GL mais inférieur ou égal à 60° GL est limité à 3000 litres pour l'ensemble de la surface de vente.
+
+Les quantités cumulées par exploitation des liquides inflammables de 1re catégorie et alcools dont le titre est supérieur à 60° GL, avec celles des liquides inflammables de 2e catégorie et alcools dont le titre est supérieur à 40° GL mais inférieur ou égal à 60° GL, sont limitées dans les centres commerciaux à :
 
 - 3 000 litres pour les exploitations recevant plus de 1 500 personnes ;
 

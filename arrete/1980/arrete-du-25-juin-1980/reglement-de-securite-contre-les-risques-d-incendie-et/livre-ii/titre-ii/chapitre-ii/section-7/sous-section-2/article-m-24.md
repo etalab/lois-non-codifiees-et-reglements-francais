@@ -14,10 +14,10 @@ Généralités
 
 § 4. Dans les centres commerciaux :
 
-a) Les exploitations recevant plus de 700 personnes, les mails et les parties communes de l'ensemble du centre doivent comporter un éclairage de sécurité répondant aux dispositions du paragraphe 2 ci-dessus ;
+a) Les exploitations du type M recevant plus de 700 personnes, les mails et les parties communes de l'ensemble du centre doivent comporter un éclairage de sécurité répondant aux dispositions du paragraphe 2 ci-dessus ;
 
-b) Les autres exploitations doivent comporter un éclairage de sécurité répondant aux dispositions du paragraphe 3 ci-dessus. Toutefois dans les locaux de vente recevant moins de 100 personnes, l'éclairage de sécurité peut être limité à la seule fonction de balisage telle que définie à l'article EC 7 (§ 2) ;
+b) Les autres exploitations du type M doivent comporter un éclairage de sécurité répondant aux dispositions du paragraphe 3 ci-dessus. Toutefois dans les locaux de vente recevant moins de 100 personnes, l'éclairage de sécurité peut être limité à la seule fonction de balisage telle que définie à l'article EC 7 (§ 2) premier alinéa ;
 
-c) Les exploitations placées sous une même direction peuvent utiliser la même source centrale pour l'éclairage de sécurité ;
+c) Les exploitations de tous les types placées sous une même direction administrative et commerciale peuvent utiliser la même source centrale pour l'éclairage de sécurité ;
 
 d) La source centrale d'une grande surface peut être confondue avec celle du mail et des parties communes lorsque la sécurité de l'ensemble est placée sous la responsabilité unique du directeur de la grande surface.
