@@ -1,9 +1,3 @@
 # Article 3
 
-L'immunisation est considérée comme valablement acquise lorsque l'intéressé a subi :
-
-1° Une série complète d'injections, y compris l'injection de rappel, de chacun des vaccins antityphoparatyphoïdique, antidiphtérique et antitétanique, effectuées depuis moins de cinq ans ;
-
-2° Une vaccination antipoliomyélitique complète comprenant la primovaccination et le premier rappel de vaccination et effectuée depuis moins de cinq ans.
-
-La première vaccination antipoliomyélitique de même que le premier rappel de vaccination peuvent être effectués indifféremment par injection au moyen d'un vaccin inactivé ou par voie orale au moyen d'un vaccin vivant atténué.
+Tout organisme de contrôle qui, à l'occasion des visites complètes, constate qu'un appareil de l'espèce non modifié est utilisé au-delà de la date indiquée à l'article 2 (§ 3) du présent arrêté est tenu d'en informer par écrit le directeur régional de l'industrie et de recherche territorialement compétent dans un délai d'un mois.
