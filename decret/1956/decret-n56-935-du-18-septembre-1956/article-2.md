@@ -4,7 +4,7 @@ L'administrateur supérieur dirige l'action des services de l'Etat dans le terri
 
 Il détermine les circonscriptions administratives du territoire.
 
-Dans le cadre des lois, décrets, règlements et des instructions qu'il a reçues du Gouvernement, il communique avec les représentants de la République dans les départements et territoires français d'outre-mer, dans les territoires placés sous la tutelle de la France, dans les États et territoires sous protectorat français ou associés à la République et dans les pays étrangers, de même qu'il communique avec les autorités de ces derniers.
+Dans le cadre des lois, décrets, règlements et des instructions qu'il a reçues du Gouvernement, il communique avec les représentants de la République dans les départements et régions d'outre-mer, dans les collectivités d'outre-mer régies par l'article 74 de la Constitution, en Nouvelle-Calédonie et dans les pays étrangers, de même qu'il communique avec les autorités de ces derniers.
 
 Il négocie avec ces mêmes autorités ou représentants toutes conventions, notamment à caractère commercial, dans la limite des instructions gouvernementales, et les conclut sous réserve de l'approbation par le Gouvernement.
 
