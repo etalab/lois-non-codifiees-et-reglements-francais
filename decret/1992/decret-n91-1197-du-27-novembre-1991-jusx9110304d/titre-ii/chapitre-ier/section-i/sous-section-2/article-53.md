@@ -16,7 +16,9 @@ Les membres du jury, à l'exception de ceux qui sont mentionnés au 4°, ne peuv
 
 Au cas où le nombre des candidats le justifie, plusieurs jurys peuvent être constitués.
 
-Les épreuves d'admission autres que les épreuves de langues sont subies devant trois examinateurs désignés par le président du jury dans chacune des catégories mentionnées aux 1°, 2° et 3°. Toutefois, les épreuves orales dont certains candidats peuvent être dispensés en application de l'article 54 sont subies devant un examinateur désigné par le président du jury dans l'une des catégories mentionnées aux 1°, 2° et 3°.
+Les épreuves d'admission, à l'exception des épreuves de langue et de l'épreuve portant sur la protection des libertés et des droits fondamentaux, sont subies devant un examinateur désigné par le président du jury dans l'une des catégories mentionnées aux 1°, 2° et 3°.
+
+L'épreuve portant sur la protection des libertés et des droits fondamentaux est subie devant trois examinateurs désignés par le président du jury dans chacune des catégories mentionnées aux 1°, 2° et 3°.
 
 Les épreuves de langues sont subies devant un examinateur désigné par le président du jury dans la catégorie mentionnée au 4°.
 
