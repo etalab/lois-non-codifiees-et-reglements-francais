@@ -1,63 +1,53 @@
 # Article 9
 
-Les différentes commissions
+Différentes commissions.
 
-Les commissions d'examens de la marine marchande sont les suivantes :
+" Les commissions d'examen de la marine marchande sont les suivantes :
 
-a) La commission générale chargée de faire passer les examens pour l'obtention des certificats, diplômes et brevets ci-après :
+" a) La commission générale chargée de faire passer les examens pour l'obtention des certificats, diplômes et brevets ci-après :
 
-1° Diplôme d'élève officier de la marine marchande ;
+"  1° Le certificat d'admissibilité en deuxième année du cycle de formation des capitaines de 1re classe de la navigation maritime ;
 
-2° Diplôme d'études supérieures de la marine marchande ;
+"  2° Le certificat d'admissibilité en troisième année du cycle de formation des capitaines de 1re classe de la navigation maritime ;
 
-3° Diplôme d'élève officier de 2e classe de la navigation maritime ;
+"  3° Le diplôme d'élève officier de la marine marchande ;
 
-4° Diplôme de capitaine de 2e classe de la navigation maritime, partie théorique ;
+"  4° Le diplôme d'études supérieures de la marine marchande ;
 
-5° Diplôme de capitaine de 2e classe de la navigation maritime ;
+"  5° Le certificat d'admissibilité en deuxième année du cycle de formation des capitaines de 2e classe de la navigation maritime ;
 
-6° Diplôme d'élève chef de quart ;
+"  6° Le diplôme d'élève officier de 2e classe de la navigation maritime ;
 
-7° Brevet de chef de quart ;
+"  7° Le diplôme de capitaine de 2e classe de la navigation maritime ;
 
-8° Brevet d'officier technicien de la marine marchande ;
+"  8° Le brevet de chef de quart ;
 
-9° Brevet de commissaire de la marine marchande ;
+"  9° Le brevet de capitaine côtier ;
 
-10° Brevet de capitaine de pêche ;
+" 10° Le brevet d'officier mécanicien de 3e classe ;
 
-11° Brevet de capitaine côtier ;
+" 11° Le diplôme de radioélectronicien de la marine marchande ;
 
-12° Diplôme de radio-électronicien de la marine marchande ;
+" 12° Le brevet de commissaire de la marine marchande ;
 
-13° Brevet d'officier mécanicien de 3e classe ;
+" 13° Le brevet de capitaine de pêche ;
 
-14° Brevet d'officier mécanicien de 3e classe électromotoriste ;
+" 14° Le certificat d'admissibilité en deuxième année du cycle de formation des officiers mécaniciens à la pêche ;
 
-15° Certificat d'admissibilité en deuxième année du cycle de formation des officiers techniciens de la marine marchande ;
+" 15° Le brevet d'officier mécanicien à la pêche.
 
-16° Certificat d'admissibilité en deuxième année du cycle de formation des capitaines de 1re classe de la navigation maritime ;
+" b) Des commissions spéciales chargées de faire passer les examens pour l'obtention des brevets, certificats et permis ci-après :
 
-17° Certificat d'admissibilité en troisième année du cycle de formation des capitaines de 1re classe de la navigation maritime ;
+"  1° Le brevet de lieutenant de pêche ;
 
-18° Certificat d'admissibilité en deuxième année du cycle de formation des capitaines de 2e classe de la navigation maritime, provenance officier chef de quart (ancien régime) ;
+"  2° Le brevet de patron de pêche ;
 
-19° Certificat d'admissibilité en deuxième année d'études du cycle de formation des capitaines de 2e classe de la navigation maritime ;
+"  3° Le certificat de motoriste à la pêche ;
 
-20° Certificat d'aptitude à l'essai manuel;
+"  4° Le certificat de capacité ;
 
-21° Brevet d'officier mécanicien de pêche;
+"  5° Le permis de conduire les moteurs ;
 
-22° Certificat d'admissibilité en deuxième année d'officier mécanicien à la pêche.    b) Des commissions spéciales chargées de faire passer les examens pour l'obtention des brevets, certificats et permis ci-après :
+"  6° Le certificat d'aptitude à la conduite des moteurs des navires conchylicoles.
 
-1° Brevet de lieutenant de pêche ;
-
-2° Brevet de patron de pêche ;
-
-3° Certificat de motoriste à la pêche ;
-
-4° Certificat de capacité ;
-
-5° Permis de conduire les moteurs.
-
-c) Des commissions locales chargées de faire passer les examens pour l'obtention des titres de formation professionnelle maritime faisant l'objet des chapitres III et IV du décret n° 85-379 du 27 mars 1985 relatif à la délivrance des titres de formation professionnelle maritime.
+" c) Des commissions locales chargées de faire passer les examens pour l'obtention des titres de formation professionnelle maritime faisant l'objet des chapitres III et IV du décret n° 91-1187 du 20 novembre 1991 susvisé. "

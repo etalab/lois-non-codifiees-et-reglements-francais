@@ -8,4 +8,4 @@ Il envoie au chef du quartier intéressé les titres énumérés à l'article 37
 
 Il transmet immédiatement au directeur régional des affaires maritimes  les dossiers des candidats qui ont acquis le droit aux brevets, diplômes ou certificats ainsi que tous les dossiers concernant les candidats étrangers auxquels ne s'appliqueraient pas les deux derniers alinéas de l'article 3 ci-dessus.
 
-Il délivre un relevé des notes obtenues aux candidats refusés qui en font la demande.
+Il délivre un relevé des notes obtenues aux candidats qui en font la demande.

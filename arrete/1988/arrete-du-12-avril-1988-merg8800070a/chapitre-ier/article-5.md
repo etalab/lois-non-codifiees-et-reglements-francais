@@ -2,7 +2,7 @@
 
 Demande d'inscription des candidats étrangers
 
-" Les candidats de nationalité étrangère qui ne sont pas ressortissants d'un Etat membre de la Communauté économique européenne sont tenus de produire les pièces n°s 1, 4, 5, 6 et 7 prévues à l'article précédent, ainsi qu'une fiche individuelle d'état civil. "
+" Les candidats de nationalité étrangère autres que les ressortissants d'un Etat membre de l'Union européenne sont tenus de produire des pièces n°s 1, 4, 5, 6, 7 et 8 prévues à l'article 4 précédent et une fiche individuelle d'état civil ou tout autre document en tenant lieu. "
 
 Ceux d'entre eux qui proviennent des écoles nationales de la marine marchande mentionnent dans leur demande la date de la décision ministérielle leur accordant l'admission dans ces écoles.
 

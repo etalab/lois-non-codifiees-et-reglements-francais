@@ -34,6 +34,8 @@ D'un diplôme d'études universitaires générales (D.E.U.G.), mention Sciences 
 
 D'un des brevets de techniciens supérieur (B.T.S.) suivants :
 
+Maitenance industrielle ;
+
 Conception des produits industriels ;
 
 Productique ;
@@ -45,6 +47,8 @@ Electrotechnique ;
 Electronique, maintenance et exploitation des matériels aéronautiques ;
 
 D'un des diplômes universitaires de technologie (D.U.T.) suivants :
+
+Maitenance industrielle ;
 
 Génie électrique et informatique industrielle ;
 
