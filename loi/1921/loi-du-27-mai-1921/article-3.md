@@ -1,7 +1,5 @@
 # Article 3
 
-Le capital-actions entièrement souscrit sera couvert par les collectivités ou établissements publics intéressés, les industries ou les particuliers. Le capital-obligations sera constitué par des obligations qui devront être amorties en cinquante années au maximum à partir du 1er janvier qui suivra la fin des travaux que le service d'obligations considérées aura payés.
-
 L'Etat garantit l'intérêt et l'amortissement du capital des obligations souscrit avant le 1<sup>er</sup> janvier 1993 dans les conditions suivantes :
 
 Le capital-actions pour toute section dont l'exploitation normale sera commencée depuis un an ne recevra aucune rémunération les années où la garantie accordée par l'Etat aux obligations aura fonctionné.
@@ -21,7 +19,3 @@ L'eau à prélever sur les canaux industriels ou navigables en vue des irrigatio
 L'énergie destinée aux mêmes usages et aux autres usages agricoles sera payée par les associations ainsi que par les groupements agricoles qui seront reconnus d'utilité générale par décrets délibérés en conseil d'Etat et rendus sur la proposition du ministre des travaux publics, à l'accord avec le ministre de l'agriculture, à des prix réduits fixés par le cahier des charges.
 
 Un règlement d'administration publique fixera la composition du conseil d'administration de la société concessionnaire sans qu'il soit tenu compte des dispositions de la loi du 16 novembre 1940 sur les sociétés anonymes. Il déterminera, notamment, le mode de représentation de l'Etat, des intérêts généraux liés à l'équipement du Rhône, des actionnaires et du personnel de la société.
-
-Le président du conseil d'administration sera désigné par l'Etat parmi les membres de ce conseil.
-
-Les représentants, au conseil d'administration, de l'Etat, des intérêts généraux liés à l'équipement du Rhône, du personnel de la société ainsi que ceux des collectivités et établissements publics autorisés à prendre une participation au capital social de la société ne sont pas tenus d'être personnellement propriétaires d'actions de la société. Les représentants de l'Etat, des intérêts généraux liés à l'équipement du Rhône et ceux du personnel sont également dispensés de déposer, en garantie de leur gestion, des actions de la société.
