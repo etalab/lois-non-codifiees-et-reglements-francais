@@ -2,7 +2,6 @@
 
 - [Arrêté du 1 août 1996 (AGRM9601702A)](arrete-du-1-aout-1996-agrm9601702a)
 - [Arrêté du 1 août 1996 (AGRM9601703A)](arrete-du-1-aout-1996-agrm9601703a)
-- [Arrêté du 1 août 1996 (MCCF9600444A)](arrete-du-1-aout-1996-mccf9600444a)
 - [Arrêté du 1 août 1996 (MIPP9600284A)](arrete-du-1-aout-1996-mipp9600284a)
 - [Arrêté du 1 août 1996 (TASH9622903A)](arrete-du-1-aout-1996-tash9622903a)
 - [Arrêté du 1 avril 1996 (JUSG9660024A)](arrete-du-1-avril-1996-jusg9660024a)
