@@ -705,6 +705,7 @@
 - [Décret n°97-981 du 21 octobre 1997 (MENF9701978D)](decret-n97-981-du-21-octobre-1997-menf9701978d)
 - [Décret n°98-755 du 21 août 1998 (MENF9801752D)](decret-n98-755-du-21-aout-1998-menf9801752d)
 - [Décret n°85-260 du 22 février 1985](decret-n85-260-du-22-fevrier-1985)
+- [Décret n°95-1040 du 22 septembre 1995 (SANG9502474D)](decret-n95-1040-du-22-septembre-1995-sang9502474d)
 - [Décret n°95-1058 du 22 septembre 1995 (SPSS9502390D)](decret-n95-1058-du-22-septembre-1995-spss9502390d)
 - [Décret n°95-184 du 22 février 1995 (PRMX9500649D)](decret-n95-184-du-22-fevrier-1995-prmx9500649d)
 - [Décret n°95-186 du 22 février 1995 (INTX9500661D)](decret-n95-186-du-22-fevrier-1995-intx9500661d)
