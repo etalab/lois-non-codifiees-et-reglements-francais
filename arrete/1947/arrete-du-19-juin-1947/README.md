@@ -9,4 +9,5 @@
 - [ASSURANCE MATERNITE](assurance-maternite)
 - [EXAMENS DE SANTE.](examens-de-sante)
 - [PENALITES.](penalites)
+- [PRESTATIONS EN NATURE](prestations-en-nature)
 - [PRESTATIONS SUPPLEMENTAIRES.](prestations-supplementaires)

@@ -1,5 +1,6 @@
 # Arrêté du 13 janvier 1967 relatif aux mesures financières relatives à la lutte contre la brucellose dans les espèces bovine, ovine et caprine
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
