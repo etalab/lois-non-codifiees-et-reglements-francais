@@ -16,6 +16,7 @@
 - [Décret n°72-1120 du 14 décembre 1972](decret-n72-1120-du-14-decembre-1972)
 - [Décret n°72-1158 du 14 décembre 1972](decret-n72-1158-du-14-decembre-1972)
 - [Décret n°72-1038 du 16 novembre 1972](decret-n72-1038-du-16-novembre-1972)
+- [Décret n°71-1149 du 17 décembre 1971](decret-n71-1149-du-17-decembre-1971)
 - [Décret n°72-289 du 17 avril 1972](decret-n72-289-du-17-avril-1972)
 - [Décret n°72-879 du 19 septembre 1972](decret-n72-879-du-19-septembre-1972)
 - [Décret n°72-208 du 20 mars 1972](decret-n72-208-du-20-mars-1972)

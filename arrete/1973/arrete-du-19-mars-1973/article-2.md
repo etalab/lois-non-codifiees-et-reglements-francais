@@ -1,3 +1,11 @@
 # Article 2
 
-Pour les allocataires accédant à la propriété d'un logement construit ou achevé à dater du 1er septembre 1948 ou situé dans des habitations à loyer modéré [*HLM*] achevées à dater du 3 septembre 1947, si l'acte de prêt a acquis date certaine antérieurement au 30 juin 1972, la mensualité maximale de remboursement prise en considération pour le calcul de l'allocation de logement, lorsqu'il s'agit d'une personne seule, est fixée aux cinq sixièmes des plafonds prévus pour les ménages sans enfant, à l'article 1er (paragraphe III, 2° A) de l'arrêté du 29 juin 1972 susvisé.
+A compter des dates et suivant les modalités fixées ci-après, sont interdites la fabrication, la mise en vente, la vente et l'installation des appareils ci-dessus définis s'ils présentent des caractéristiques de construction et de fonctionnement moins bonnes, du point de vue de l'utilisation de l'énergie et de la lutte contre la pollution atmosphérique, que celles définies à l'article 2.1 de ladite norme NF D 35.385, à l'exclusion des dispositions concernant :
+
+Les caractéristiques dimensionnelles de la buse et du réservoir (par. 2.11) ;
+
+La qualité du revêtement extérieur (par. 2.1216) ;
+
+La qualité du nickelage et du chromage (par. 2.1217).
+
+La conformité des appareils à ces prescriptions est constatée par les essais prévus aux chapitres 2.2 et 2.3 de ladite norme.

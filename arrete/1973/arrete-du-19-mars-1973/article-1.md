@@ -1,3 +1,3 @@
 # Article 1
 
-Pour les allocataires accédant à la propriété d'un logement construit ou achevé avant le 1er septembre 1948, ou situé dans des habitations à loyer modéré achevées avant le 3 septembre 1947, si l'acte de prêt a acquis date certaine antérieurement au 30 juin 1972, la mensualité maximale de remboursement prise en considération pour le calcul de l'allocation de logement, lorsqu'il s'agit d'une personne seule, est fixée aux cinq sixièmes des plafonds prévus pour les ménages sans enfant, à l'article 1er (par. III, 1° a), de l'arrêté du 29 juin 1972 relatif aux plafonds de loyer à prendre en considération pour le calcul des allocations de logement.
+Les dispositions du présent arrêté s'appliquent aux poêles métalliques à combustible liquide définis à l'article 1.1 de la norme NF D 35.385.

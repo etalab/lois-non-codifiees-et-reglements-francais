@@ -1,4 +1,4 @@
-# Arrêté du 19 mars 1973 FIXANT LES PLAFONDS DE LOYER A PRENDRE EN CONSIDERATION POUR LE CALCUL DE L'ALLOCATION DE LOGEMENT AUX PERSONNES AGEES, AUX INFIRMES ET AUX JEUNES TRAVAILLEURS SALARIES.
+# Arrêté du 19 mars 1973 relatif aux poêles métalliques à combustible liquide
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

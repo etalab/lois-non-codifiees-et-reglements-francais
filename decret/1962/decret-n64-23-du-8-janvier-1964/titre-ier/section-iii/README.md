@@ -8,3 +8,5 @@
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
 - [Article 15](article-15.md)
+- [Article 16](article-16.md)
+- [Les sous-ingénieurs dessinateurs promus au grade d'ingénieur dessinateur sont classés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient précédemment](les-sous-ingenieurs-dessinateurs-promus-au)

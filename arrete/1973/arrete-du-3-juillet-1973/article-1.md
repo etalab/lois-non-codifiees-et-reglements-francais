@@ -1,0 +1,3 @@
+# Article 1
+
+Sont considérées comme travailleurs occasionnels [*définition*] pour l'application des articles 1031 et 1157 du Code rural susvisés les personnes qui, n'exerçant pas habituellement la profession de salarié agricole et n'ayant pas accompli, à titre d'activité principale ou accessoire, un travail agricole salarié ou assimilé pendant au moins 120 heures au cours du mois précédant la date du début du travail occasionnel ou pendant au moins 200 heures au cours de l'avant-dernier ou du dernier trimestre précédant cette date, occupent un emploi salarié agricole ne dépassant pas dix jours ouvrables consécutifs [*durée*].
