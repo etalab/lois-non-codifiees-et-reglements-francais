@@ -1,0 +1,5 @@
+# Article 1
+
+Seuls ont droit à l'appellation contrôlée "Morgon" les vins rouges qui, répondant aux conditions ci-après, ont été récoltés sur une partie du territoire de la commune de Villié-Morgon, à l'exception des parcelles situées sur des alluvions modernes et non destinées à la culture de la vigne, d'après les usages locaux. Des experts nommés par le comité directeur du comité national des appellations d'origine délimiteront cette aire de production et en reporterons les limites sur le plan cadastral de la commune intéressée. Le plan, établi par leurs soins, sera, après approbation du comité national, déposé à la mairie de Villié-Morgon avant le 15 décembre 1936.
+
+Les vins produits respectivement sur chacun des climats, parties de communes ou lieux dits, compris dans l'aire de production, auront le droit d'adjoindre à l'appellation contrôlée "Morgon" le nom de leur climat d'origine, à la condition que ce nom soit placé après celui de l'appellation contrôlée, imprimé en caractères identiques, et que ces vins répondent aux prescriptions particulières prévues à l'article 3.
