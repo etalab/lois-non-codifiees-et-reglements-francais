@@ -1,3 +1,3 @@
 # Article 4
 
-Le directeur de la qualité et de la sécurité industrielles est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Des arrêtés du ministre de l'industrie et de la recherche détermineront les conditions de conformité aux normes des appareils d'utilisation du gaz et des accessoires d'installation.
