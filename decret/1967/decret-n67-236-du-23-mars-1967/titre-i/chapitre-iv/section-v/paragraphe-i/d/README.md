@@ -1,5 +1,6 @@
 # d) Options de souscription ou d'achat d'actions.
 
+- [Article 174-8](article-174-8.md)
 - [Article 174-9](article-174-9.md)
 - [Article 174-10](article-174-10.md)
 - [Article 174-11](article-174-11.md)
