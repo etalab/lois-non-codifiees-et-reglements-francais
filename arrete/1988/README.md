@@ -527,6 +527,7 @@
 - [Arrêté du 23 novembre 1987 (MERR8700184A)](arrete-du-23-novembre-1987-merr8700184a)
 - [Arrêté du 23 novembre 1988 (INTF8800447A)](arrete-du-23-novembre-1988-intf8800447a)
 - [Arrêté du 23 novembre 1988 (MENU8802296A)](arrete-du-23-novembre-1988-menu8802296a)
+- [Arrêté du 23 novembre 1988 (PRME8861194A)](arrete-du-23-novembre-1988-prme8861194a)
 - [Arrêté du 23 septembre 1988 (SPSP8801438A)](arrete-du-23-septembre-1988-spsp8801438a)
 - [Arrêté du 23 septembre 1988 (SPSS8801445A)](arrete-du-23-septembre-1988-spss8801445a)
 - [Arrêté du 24 décembre 1987 (ENVQ8700270A)](arrete-du-24-decembre-1987-envq8700270a)

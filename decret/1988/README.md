@@ -93,6 +93,7 @@
 - [Décret n°88-981 du 13 octobre 1988 (SPSH8801530D)](decret-n88-981-du-13-octobre-1988-spsh8801530d)
 - [Décret n°88-1039 du 14 novembre 1988 (INTD8800204D)](decret-n88-1039-du-14-novembre-1988-intd8800204d)
 - [Décret n°88-1040 du 14 novembre 1988 (INTD8800205D)](decret-n88-1040-du-14-novembre-1988-intd8800205d)
+- [Décret n°88-1120 du 14 décembre 1988 (MAEJ8830079D)](decret-n88-1120-du-14-decembre-1988-maej8830079d)
 - [Décret n°88-238 du 14 mars 1988 (INTB8800070D)](decret-n88-238-du-14-mars-1988-intb8800070d)
 - [Décret n°88-242 du 14 mars 1988 (INTB8800069D)](decret-n88-242-du-14-mars-1988-intb8800069d)
 - [Décret n°88-244 du 14 mars 1988 (INTB8800067D)](decret-n88-244-du-14-mars-1988-intb8800067d)
