@@ -1,5 +1,6 @@
 # 1995
 
+- [Loi n° 94-1162 du 29 décembre 1994 (BUDX9400125L)](loi-n-94-1162-du-29-decembre-1994-budx9400125l)
 - [Loi n° 95-116 du 4 février 1995 (SPSX9400133L)](loi-n-95-116-du-4-fevrier-1995-spsx9400133l)
 - [Loi n° 95-125 du 8 février 1995 (JUSX9400050L)](loi-n-95-125-du-8-fevrier-1995-jusx9400050l)
 - [Loi n° 95-126 du 8 février 1995 (INTX9400548L)](loi-n-95-126-du-8-fevrier-1995-intx9400548l)
