@@ -8,4 +8,4 @@ Au fur et à mesure qu'ils sont terminés, les carnets ne comprenant plus que le
 
 En fin de saison, les casinos remettent également au percepteur les carnets non encore commencés ou non terminés. Les carnets neufs sont repris contre restitution du reçu donné par le directeur ou un membre du comité de direction. Tout carnet commencé est payé intégralement comme s'il était terminé, mais il peut être rendu à l'établissement et utilisé par lui au commencement de la saison suivante.
 
-En cas de perte ou de détournement de tickets, le casino est tenu de payer, outre le prix des carnets, le montant du prélèvement progressif correspondant à la valeur nominale des tickets non représentés.
+En cas de perte ou de détournement de tickets, le casino est tenu de payer, outre le prix des carnets, le montant des prélèvements progressif et proportionnel correspondant à la valeur nominale des tickets non représentés.

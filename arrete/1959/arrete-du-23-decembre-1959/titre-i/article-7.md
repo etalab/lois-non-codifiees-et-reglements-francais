@@ -8,7 +8,7 @@ Lorsqu'elle concerne les jeux de contre-partie autres que la boule et le vingt-t
 
 2° Une déclaration aux termes de laquelle l'établissement s'engage à supporter les frais de contrôle afférents à la surveillance spéciale de ces jeux ;
 
-3° La balance ou la situation des comptes de la comptabilité commerciale de l'établissement, vérifiée et certifiée conforme par le receveur des finances ou le trésorier principal et, en outre, s'il s'agit d'une société par actions, le procès-verbal de la dernière assemblée générale des actionnaires [*sociétés de jeux*] ;
+3° La balance ou la situation des comptes de la comptabilité commerciale de l'établissement, visée par les comptables du Trésor et, en outre, s'il s'agit d'une société par actions, le procès-verbal de la dernière assemblée générale des actionnaires [*sociétés de jeux*] ;
 
 4° Un certificat du comptable du Trésor constatant que le casino a acquitté la totalité des impôts et taxes exigibles à son nom, ainsi que les redevances dont il est tenu envers la commune où cet établissement a son siège ;
 

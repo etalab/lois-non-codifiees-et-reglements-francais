@@ -13,3 +13,5 @@ Lorsqu'un joueur gagne un gros lot dit jack-pot ou des lots cumulés dépassant 
 Le registre et le bon sont ensuite signés par le caissier et le membre du comité.
 
 En outre, le carnet de comptabilité de la machine concernée prévu à l'article 69-24 est annoté du paiement effectué.
+
+Un registre des jackpots progressifs est tenu. Il est renseigné chaque jour à la clôture des jeux du montant affiché des différents jackpots progressifs.

@@ -1,0 +1,3 @@
+# Article 15
+
+Les fonctionnaires civils appartenant à un corps ou à un cadre d'emplois ou occupant un emploi classé dans la catégorie C ou D ou d'un niveau équivalent sont nommés dans le grade d'attaché à un échelon déterminé en appliquant, à la date de leur nomination comme stagiaire, les modalités fixées à l'article 14 ci-dessus à la fraction de l'ancienneté qui aurait été prise en compte, en application de l'article 3 du décret n° 94-1016 du 18 novembre 1994 fixant les dispositions statutaires communes applicables, à divers corps de la catégorie B, pour leur classement dans l'un des corps régis par ce même décret.

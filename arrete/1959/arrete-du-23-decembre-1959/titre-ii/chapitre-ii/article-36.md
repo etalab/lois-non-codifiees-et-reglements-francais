@@ -2,13 +2,13 @@
 
 Affichage.
 
-Le directeur responsable est tenu d'afficher, de manière visible, à l'entrée des salles de jeux  [*formalités - publicité*] :
+Le directeur responsable est tenu d'afficher, de manière visible, à l'entrée des salles de jeux  *formalités - publicité* :
 
 A. - 1° L'avis suivant :
 
 Ne peuvent être admis dans les salles de jeux des casinos :
 
-- les mineurs même émancipés  [*âge*] ;
+- les mineurs même émancipés  *âge* ;
 
 - les fonctionnaires ou militaires en uniforme ;
 
@@ -18,7 +18,7 @@ Ne peuvent être admis dans les salles de jeux des casinos :
 
 B. - A l'entrée des salles autres que celles affectées à la boule et au vingt-trois ou à la boule, au vingt-trois et aux machines à sous ou à l'un de ces jeux seulement l'avis suivant :
 
-Les cartes d'admission des salles où sont pratiqués le baccara, l'écarté, la roulette, le trente-et-quarante, la roulette américaine, le black-jack, le craps, la roulette anglaise et le punto banco, assujetties au droit de timbre prévu à l'article 945 du code général des impôts, ne peuvent être délivrées gratuitement ou à un prix réduit. Elles ne doivent être remises qu'à des personnes justifiant de leur identité par la présentation de la carte nationale d'identité, d'un passeport ou d'une autre pièce délivrée par l'autorité administrative, comportant une photographie, l'état civil et la signature du titulaire [*mentions obligatoires - conditions*].
+Les cartes d'admission des salles où sont pratiqués le baccara, l'écarté, la roulette, le trente-et-quarante, la roulette américaine, le black-jack, le craps, la roulette anglaise, le punto banco et le stud poker de casino, assujetties au droit de timbre prévu à l'article 945 du code général des impôts, ne peuvent être délivrées gratuitement ou à prix réduit.
 
 Le directeur responsable est tenu de faire imprimer au verso des cartes d'admission dans les salles de jeux l'avis suivant :
 
@@ -28,7 +28,7 @@ Le directeur responsable est tenu d'apposer :
 
 Dans la salle affectée à la boule et au vingt-trois :
 
-A. Une affiche [*mentions obligatoires*] :
+A. Une affiche *mentions obligatoires* :
 
 1° Indiquant que :
 
@@ -36,7 +36,7 @@ Les jeux ne peuvent être pratiqués qu'argent comptant. Tout enjeu sur parole e
 
 Les mises ne peuvent être représentées que par des jetons ou plaques fournis par l'établissement.
 
-Le change des jetons ou plaques d'une valeur inférieure ou égale à 50 F [*francs - montant*] pour la boule et à 100 F pour le vingt-trois peut être effectué aux tables de jeux par les soins du croupier. Le change des jetons ou plaques d'une valeur supérieure à 50 F pour la boule et à 100 F pour le vingt-trois ainsi que le change des espèces doivent s'effectuer à une caisse spéciale.
+Le change des jetons ou plaques d'une valeur inférieure ou égale à 500 F à la boule et au vingt-trois peut être effectué aux tables de jeux par les soins du croupier. Le change des jetons ou plaques d'une valeur supérieure à 500 F ainsi que le change des espèces doivent s'effectuer à une caisse spéciale.
 
 2° Reproduisant les dispositions suivantes :
 
@@ -76,7 +76,7 @@ Dans tous les cas, le joueur gagnant conserve sa mise.
 
 Le maximum des mises s'applique par cylindre à chaque joueur considéré isolément.
 
-B. - Un avis précisant le taux minimum et maximum des mises et le montant des avances, et indiquant [*mentions obligatoires*] : "Les avances de caisse de même que l'encaisse restant en fin de partie sont comptées ostensiblement devant le public et assez lentement pour que les assistants puissent suivre l'opération dans tous ses détails. La somme reconnue est appelée à haute voix et inscrite immédiatement au carnet d'avances. Toute personne présente peut demander communication de ce carnet pour s'assurer que les sommes portées correspondent exactement aux sommes appelées."
+B. - Un avis précisant le taux minimum et maximum des mises et le montant des avances, et indiquant [*mentions obligatoires* : "Les avances de caisse de même que l'encaisse restant en fin de partie sont comptées ostensiblement devant le public et assez lentement pour que les assistants puissent suivre l'opération dans tous ses détails. La somme reconnue est appelée à haute voix et inscrite immédiatement au carnet d'avances. Toute personne présente peut demander communication de ce carnet pour s'assurer que les sommes portées correspondent exactement aux sommes appelées."
 
 Dans les salles affectées aux jeux de cercle et aux jeux de contrepartie :
 
@@ -88,15 +88,17 @@ Par des billets de banque et des pièces de monnaies français ;
 
 Par des jetons ou plaques fournis par l'établissement à ses risques et périls (décret du 22 décembre 1959).
 
-B. - Une affiche portant les prescriptions suivantes [*mentions obligatoires*] :
+B. - Une affiche portant les prescriptions suivantes *]mentions obligatoires* :
 
 Jeux de cercles.
 
-Aux jeux dits de cercle, la somme en banque ne doit comprendre que des jetons ou plaques. Les mises des pontes peuvent être représentées par des billets de banque mais l'échange en devient obligatoire en cas de perte. Il ne peut être procédé à aucune opération de change à table. Le change s'effectue soit à la caisse, soit, pour les joueurs assis à table, par l'intermédiaire d'un employé chargé exclusivement de cette fonction, possesseur d'une caisse contenant une somme fixée à l'avance par la direction, et qui se tient debout devant le croupier, et reproduisant l'article 60 du présent arrêté.       C. - Une affiche :
+Aux jeux dits de cercle, la somme en banque ne doit comprendre que des jetons ou plaques. Les mises des pontes peuvent être représentées par des billets de banque mais l'échange en devient obligatoire en cas de perte. Il ne peut être procédé à aucune opération de change à table. Le change s'effectue soit à la caisse, soit, pour les joueurs assis à table, par l'intermédiaire d'un employé chargé exclusivement de cette fonction, possesseur d'une caisse contenant une somme fixée à l'avance par la direction, et qui se tient debout devant le croupier, et reproduisant l'article 60 du présent arrêté.
+
+C. - Une affiche :
 
 1. Portant les prescriptions suivantes :
 
-Jeux de contrepartie : roulette, trente-et-quarante, roulette américaine, black-jack, craps, roulette anglaise et punto banco, et reproduisant les deux premiers paragraphes de l'article 39 du présent arrêté.
+Jeux de contrepartie : roulette, trente-et-quarante, roulette américaine, black-jack, craps, roulette anglaise, punto banco et le stud poker de casino et reproduisant les deux premiers paragraphes de l'article 39 du présent arrêté.
 
 2. Reproduisant les dispositions de l'article 53 du présent arrêté et les extraits suivants de l'article 56 : "Le jeu du trente-et-quarante se joue avec six jeux de 52 cartes. Les cartes doivent être d'un tarotage à teinte unie et de même couleur. Les joueurs ne peuvent faire usage que des combinaisons suivantes qui rapportent l'équivalent de la mise :
 
@@ -116,13 +118,13 @@ Pendant la durée des opérations de paiement, les cartes doivent demeurer sur l
 
 Lorsque les deux rangées de cartes forment le même point le coup est nul sauf lorsqu'à ces deux rangées, il est de 31. Dans ce cas (refait) les dispositions de l'article 54 relatives au zéro de la roulette s'appliquent.
 
-Les enjeux égaux ou supérieurs à 50 F [*francs*] peuvent être assurés contre le "refait" moyennant le versement de 1 p. 100 [*pourcentage*] du montant de la mise, versement effectué lors du dépôt de l'enjeu.
+Les enjeux égaux ou supérieurs à 50 F *francs* peuvent être assurés contre le "refait" moyennant le versement de 1 p. 100 *pourcentage* du montant de la mise, versement effectué lors du dépôt de l'enjeu.
 
 3. Reproduisant les dispositions de l'article 57-1 du présent arrêté.
 
 4. Reproduisant les dispositions suivantes :
 
-Le jeu du black-jack se joue avec six jeux de 52 cartes [*nombre*], trois d'une couleur et trois de l'autre.
+Le jeu du black-jack se joue avec six jeux de 52 cartes *nombre*, trois d'une couleur et trois de l'autre.
 
 Après leur comptée et leur vérification, le croupier retourne les cartes qui sont divisées en plusieurs tas dont chacun est mélangé et coupé deux fois.
 
@@ -136,25 +138,25 @@ Des joueurs debout peuvent miser sur la main d'un joueur assis, avec l'accord de
 
 Chacune des mains d'un même joueur est considérée individuellement et suit l'ordre normal de distribution et de demande des cartes.
 
-5. Reproduisant, outre les règlements particuliers à l'établissement pour l'entrée des joueurs ou tireurs dans le jeu, les extraits suivants des articles 57-6 et 57-7 du présent arrêté : "Le jeu du craps se joue avec deux dés de couleurs différentes. A chaque séance, trois paires de dés en parfait état et différentes de celles utilisées lors de la précédente séance sont mises à la disposition de chaque table. Le stickman préposé aux dés est chargé d'en vérifier le bon état en tant que de besoin en cours de partie, de les passer aux joueurs et est seul habilité à faire les différentes annonces nécessitées par le déroulement du jeu. Les dés sont proposés successivement aux joueurs en partant, en début de partie, de celui qui se trouve à gauche des croupiers, puis dans le sens des aiguilles d'une montre. Si un joueur refuse son tour, les dés passent au joueur suivant dans l'ordre prévu. Le stickman passe les dés au joueur au moyen de sa canne et doit éviter de les toucher, sauf pour les examiner ou les ramasser lorsqu'ils sont tombés de la table. Le joueur qui lance les dés, ou tireur, doit les jeter immédiatement après l'annonce du "Rien ne va plus" et ne doit ni les frotter ni les garder dans la main. Un cornet transparent peut être utilisé pour le lancer. Les dés sont lancés de telle manière qu'ils s'immobilisent dans la partie de la table opposée à la place d'où ils ont été jetés après que l'un au moins ait frappé le bord opposé au joueur. Ils doivent rouler et non glisser et, pour être valables, être immobilisés à plat sur le tapis. En cas de dés cassés, superposés, à cheval ou arrêtés sur un jeton ou tombés de la table et à chaque fois que le lancer n'a pas été régulier, le manieur de canne annonce "Coup nul". Le chef de table peut retirer à un joueur son tour de jeter les dés s'il viole de façon répétée les règles du lancer.
-
-6. Reproduisant les dispositions des deux premiers paragraphes de l'article 53 et les articles 57-10, 57-11 et 57-12 du présent arrêté concernant le jeu de la roulette anglaise ;
+5. Reproduisant, outre les règlements particuliers à l'établissement pour l'entrée des joueurs ou tireurs dans le jeu, les extraits suivants des articles 57-6 et 57-7 du présent arrêté : "Le jeu du craps se joue avec deux dés de couleurs différentes. A chaque séance, trois paires de dés en parfait état et différentes de celles utilisées lors de la précédente séance sont mises à la disposition de chaque table. Le stickman préposé aux dés est chargé d'en vérifier le bon état en tant que de besoin en cours de partie, de les passer aux joueurs et est seul habilité à faire les différentes annonces nécessitées par le déroulement du jeu. Les dés sont proposés successivement aux joueurs en partant, en début de partie, de celui qui se trouve à gauche des croupiers, puis dans le sens des aiguilles d'une montre. Si un joueur refuse son tour, les dés passent au joueur suivant dans l'ordre prévu. Le stickman passe les dés au joueur au moyen de sa canne et doit éviter de les toucher, sauf pour les examiner ou les ramasser lorsqu'ils sont tombés de la table. Le joueur qui lance les dés, ou tireur, doit les jeter immédiatement après l'annonce du "Rien ne va plus" et ne doit ni les frotter ni les garder dans la main. Un cornet transparent peut être utilisé pour le lancer. Les dés sont lancés de telle manière qu'ils s'immobilisent dans la partie de la table opposée à la place d'où ils ont été jetés après que l'un au moins ait frappé le bord opposé au joueur. Ils doivent rouler et non glisser et, pour être valables, être immobilisés à plat sur le tapis. En cas de dés cassés, superposés, à cheval ou arrêtés sur un jeton ou tombés de la table et à chaque fois que le lancer n'a pas été régulier, le manieur de canne annonce "Coup nul". Le chef de table peut retirer à un joueur son tour de jeter les dés s'il viole de façon répétée les règles du lancer.    6. Reproduisant les dispositions des deux premiers paragraphes de l'article 53 et les articles 57-10, 57-11 et 57-12 du présent arrêté concernant le jeu de la roulette anglaise ;
 
 7. Reproduisant les dispositions de l'article 57-13 du présent arrêté concernant le jeu du punto banco ;
+
+7 bis. Reproduisant les dispositions des articles 57-15, 57-16 et 57-17 du présent arrêté concernant le jeu de stud poker de casino.
 
 8. Reproduisant l'avis suivant :
 
 Aux jeux de contrepartie, les avances de caisse, de même que l'encaisse restant en fin de partie, sont comptées ostensiblement devant le public et assez lentement pour que tous les assistants puissent suivre l'opération dans tous ses détails. La somme reconnue est appelée à haute voix et inscrite immédiatement dans le carnet d'avances. Toute personne présente peut demander communication de ce carnet pour s'assurer que les sommes portées correspondent exactement aux sommes appelées.
 
-D. Une affiche de grande dimension portant le texte suivant [*mentions obligatoires*] :
+D. Une affiche de grande dimension portant le texte suivant *mentions obligatoires* :
 
 Avis au public.
 
 Sous peine de renvoi immédiat, il est interdit aux valets de pied, à tout autre employé du casino, de marquer des places à l'avance aux tables de jeu.
 
-En principe, les places assises sont réservées aux joueurs présents au moment du commencement de la partie. Ce n'est qu'à titre exceptionnel que le casino est en droit de décider que les joueurs pourront, en dehors de toute intervention des valets de pied ou des autres employés, se faire inscrire, soit à la caisse, soit à un guichet spécial, pour avoir une place réservée à certaines tables déterminées. Dans ce cas, la liste des places retenues est remise au changeur de la table, qui marque les places par des morceaux de carton portant le nom du jour intéressé. Les places non occupées un quart d'heure au plus tard après le commencement de la partie [*délai*] seront attribuées, dans l'ordre d'inscription, aux joueurs présents figurant à la suite sur la liste.
+En principe, les places assises sont réservées aux joueurs présents au moment du commencement de la partie. Ce n'est qu'à titre exceptionnel que le casino est en droit de décider que les joueurs pourront, en dehors de toute intervention des valets de pied ou des autres employés, se faire inscrire, soit à la caisse, soit à un guichet spécial, pour avoir une place réservée à certaines tables déterminées. Dans ce cas, la liste des places retenues est remise au changeur de la table, qui marque les places par des morceaux de carton portant le nom du jour intéressé. Les places non occupées un quart d'heure au plus tard après le commencement de la partie *délai* seront attribuées, dans l'ordre d'inscription, aux joueurs présents figurant à la suite sur la liste.
 
-Le directeur responsable est tenu d'indiquer à chaque table de roulette, de trente-et-quarante, de roulette américaine, de black-jack et de craps le numéro de la table et d'apposer un avis précisant, sous forme de tableau, le montant de l'encaisse, le taux minimum des mises et leur taux maximum aux différentes chances [*information - mentions obligatoires*].
+Le directeur responsable est tenu d'indiquer à chaque table de roulette, de trente-et-quarante, de roulette américaine, de black-jack, de craps, de roulette anglaise, de punto banco et de stud poker de casino le numéro de la table et d'apposer un avis précisant, sous forme de tableau, le montant de l'encaisse, le taux minimal des mises et leur taux maximal aux différentes chances. De plus, pour chaque table de punto banco, il est tenu de préciser le minimum et le maximum des mises ainsi que les tableaux de tirage.
 
 Dans toutes les salles où sont exploitées les machines à sous :
 
@@ -166,7 +168,7 @@ Toute machine à sous comporte une plaque d'identification visible de l'extérie
 
 Les machines à sous peuvent être installées dans les salles de jeux existantes, ou dans des locaux spécialement aménagés permettant d'assurer la sécurité de ces jeux et dont les conditions d'accès sont celles prévues à l'article 14 du décret du 22 décembre 1959 modifié.
 
-Elles doivent être équipées de monnayeurs comparateurs électroniques susceptibles d'accueillir en mises simples ou en mises multiples, soit des pièces d'au moins 1 franc, soit des jetons de valeur identique.
+Elles doivent être équipées de monnayeurs comparateurs électroniques susceptibles d'accueillir en mises simples ou en mises multiples soit des pièces d'au moins 1 F, soit des jetons de valeur identique. Elles peuvent également être équipées d'un dispositif permettant de recevoir en mises simples ou multiples une carte de paiement précréditée d'au moins 1 F.
 
 La valeur unitaire des mises, les combinaisons gagnantes et le montant des paiements s'y rapportant sont affichés sur la façade de la machine.
 
@@ -174,6 +176,10 @@ Les gains sont délivrés soit directement, en pièces de monnaies ou en jetons 
 
 Les opérations de change s'effectuent soit à cette caisse, soit auprès des caisses secondaires et de changeurs itinérants spécialement affectés à cette tâche. Aucune opération de change de fausses pièces ou de monnaies étrangères provenant de la machine ne peut être effectuée à la demande du joueur par les changeurs ou caissiers.
 
-Les machines à sous ne peuvent être exploitées que si les autres jeux autorisés sont ouverts à la clientèle. Toutefois, lorsque les machines sont exploitées dans des locaux distincts, leur horaire d'ouverture peut être autonome. Les horaires de fermeture sont ceux prévus pour les autres jeux autorisés.
+Les machines à sous ne peuvent être exploitées que si les autres jeux autorisés sont ouverts à la clientèle. Toutefois, elles peuvent avoir des horaires d'ouverture autonomes :
+
+- lorsqu'elles sont exploitées dans des locaux distincts ;
+
+- lorsqu'elles sont exploitées dans la salle de boule et de vingt-trois à condition que ces deux jeux soient protégés de la clientèle tant qu'ils ne sont pas ouverts.
 
 Les fonctionnaires de la sous-direction des courses et des jeux du ministère de l'intérieur ou ses représentants dans les départements, ainsi que les fonctionnaires du ministère des finances sont chargés du contrôle et de la sincérité du fonctionnement de ces jeux.

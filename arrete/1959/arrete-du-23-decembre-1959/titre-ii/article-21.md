@@ -6,7 +6,7 @@ Le directeur responsable du casino est tenu [*formalités obligations*] :
 
 1° De porter à la connaissance du receveur des finances ou du trésorier principal et du percepteur, dans les quarante-huit heures de la notification de l'arrêté d'autorisation du ministre de l'intérieur [*délai*], les heures d'ouverture et de fermeture des salles de jeux, telles qu'elles sont fixées par cet arrêté ;
 
-2° De préciser au comptable du Trésor, chef de poste, avant le commencement de la saison, les heures auxquelles commencera effectivement, dans les limites de celles fixées par l'arrêté, chacune des séances des jeux de boule, de vingt-trois, de roulette, de trente-et-quarante, de roulette américaine, de black-jack, de craps, de banque ouverte, de roulette anglaise, de punto banco, de machines à sous, et d'aviser le même comptable vingt-quatre heures au moins à l'avance de toute modification apportée aux heures précédemment indiquées [*information - délai minimum*].
+2° De préciser au comptable du Trésor, chef de poste, avant le début de la saison, les heures auxquelles commencera effectivement, dans les limites de celles fixées par l'arrêté, chacune des séances de jeux autorisés, et d'aviser le même comptable, vingt-quatre heures au moins à l'avance, de toute modification apportée aux heures précédemment indiquées.
 
 3° D'informer le receveur des finances ou le trésorier principal, au commencement de chaque saison et quarante-huit heures au moins à l'avance [*délai minimum*], du jour exact où les jeux commenceront à fonctionner ;
 

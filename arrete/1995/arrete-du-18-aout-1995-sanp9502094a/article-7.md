@@ -1,6 +1,6 @@
 # Article 7
 
-Le jury des épreuves de sélection, nommé par le préfet de région, comprend, outre le directeur régional des affaires sanitaires et sociales ou son représentant, président :
+Le jury des épreuves de sélection, nommé par le préfet de région, comprend, outre le directeur régional des affaires sanitaires et sociales ou le médecin inspecteur régional de la santé, président :
 
 1° Le directeur de l'institut ou son représentant ;
 

@@ -10,4 +10,4 @@ Des pédicures-podologues.
 
 Les sujets des épreuves écrites sont tirés au sort par le président du jury parmi une liste de sujets élaborés par le jury.
 
-Les épreuves écrites font l'objet d'une double correction.
+Les épreuves écrites font l'objet d'une double correction et les épreuves pratiques d'une double évaluation.

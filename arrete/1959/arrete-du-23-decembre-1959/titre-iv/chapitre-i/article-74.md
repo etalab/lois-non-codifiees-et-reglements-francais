@@ -4,7 +4,7 @@ Registre de contrôle.
 
 Les comptes des jeux sont tenus par séance et, pour chaque séance, par table pour les jeux de cercle et par caisse pour les jeux de contrepartie et totalisés par journée.
 
-L'administration du casino décrit ces comptes sans interligne sur un registre de contrôle conforme au modèle 12 [*formalités - conditions de forme*].
+L'administration du casino décrit ces comptes sans interligne sur un registre de contrôle conforme au modèle 12 *formalités - conditions de forme*.
 
 Le registre modèle 12 retrace les résultats donnés par :
 
@@ -35,6 +35,8 @@ Craps ;
 Roulette anglaise ;
 
 Punto blanco.
+
+stud poker de casino.
 
 c) Le montant des frais de contrôle des jeux de contre-partie autres que la boule et le vingt-trois.
 

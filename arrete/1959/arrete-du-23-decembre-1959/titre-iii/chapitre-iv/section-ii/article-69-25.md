@@ -10,7 +10,9 @@ Ces résultats sont consignés sur un état mensuel, certifié par le membre du 
 
 - le numéro constructeur de la machine ;
 
-- les montants affichés par les cinq compteurs.
+- les montants affichés par les huit compteurs ;
+
+- les montants des deux compteurs supplémentaires pour les machines équipées pour les cartes de paiement précréditées.
 
 L'état mensuel de détermination de l'assiette du prélèvement visé à l'article 75 est servi à cette occasion.
 

@@ -4,7 +4,7 @@ Documents comptables relatifs aux machines à sous.
 
 Les paiements, par caisse, d'avances à la machine ou de gains aux joueurs ne sont pas comptabilisés au jour le jour, mais retranscrits sur des bons traités comme valeurs de caisse, conformément aux dispositions des articles 69-20 et 69-21.
 
-Un carnet de comptabilité est ouvert pour chaque machine. Il enregistre au jour le jour, les avances à la machine et les gains payés par caisse, et, à chaque comptée, le montant de celle-ci.
+Un carnet de comptabilité est ouvert pour chaque machine. Il enregistre au jour le jour les avances à la machine et les gains payés par caisse et à chaque comptée le montant distinct de la comptée physique et de la comptée électronique.
 
 Il permet d'établir, par machine, lors de chaque comptée, le produit réel des jeux réalisé entre deux comptées, soit le montant de la comptée diminué des avances à la machine et des gains payés par caisse.
 
