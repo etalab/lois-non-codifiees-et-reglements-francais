@@ -5,7 +5,6 @@
 - [Boissons](boissons)
 - [Dispositions générales](dispositions-generales)
 - [Denrées congelées et surgelées](denrees-congelees-et)
-- [La restauration collective](la-restauration-collective)
 - [Produits de la mer et d'eau douce](produits-de-la-mer-et)
 - [Aliments non traditionnels](aliments-non)
 - [Produits laitiers](produits-laitiers)
