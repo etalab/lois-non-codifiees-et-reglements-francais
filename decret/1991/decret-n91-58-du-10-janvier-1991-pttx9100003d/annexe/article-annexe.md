@@ -1,6 +1,6 @@
 # Article Annexe
 
-(Classement prenant effet du 1er juillet 1992)
+(Classement prenant effet du 1er avril 1998)
 
 <table>
 <tbody>
@@ -164,10 +164,10 @@
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Agent d'exploitation du service général</p>
+<p>Agent d'exploitation</p>
 </td>
 <td valign="top" width="151">
-<p align="center">274-474</p>
+<p align="center">279-474</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -176,7 +176,7 @@
 <p>Assistant administratif</p>
 </td>
 <td valign="top" width="151">
-<p align="center">249-449</p>
+<p align="center">267-449</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -243,7 +243,7 @@
 <p>Contremaître</p>
 </td>
 <td valign="top" width="151">
-<p align="center">249-449</p>
+<p align="center">267-449</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -252,7 +252,7 @@
 <p>Ouvrier d'état</p>
 </td>
 <td valign="top" width="151">
-<p align="center">232-365</p>
+<p align="center">252-365</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -319,7 +319,7 @@
 <p>Dessinateur</p>
 </td>
 <td valign="top" width="151">
-<p align="center">249-449</p>
+<p align="center">267-449</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -339,7 +339,7 @@
 <p>Chef surveillant</p>
 </td>
 <td valign="top" width="151">
-<p align="center">232-365</p>
+<p align="center">252-365</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -348,7 +348,7 @@
 <p>Agent de service</p>
 </td>
 <td valign="top" width="151">
-<p align="center">232-365</p>
+<p align="center">252-365</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -357,7 +357,7 @@
 <p>Agent des services techniques de 2e classe</p>
 </td>
 <td valign="top" width="151">
-<p align="center">232-365</p>
+<p align="center">252-365</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -395,7 +395,7 @@
 <p>Mécanicien dépanneur</p>
 </td>
 <td valign="top" width="151">
-<p align="center">249-449</p>
+<p align="center">267-449</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -690,7 +690,7 @@
 <p>Agent d'exploitation</p>
 </td>
 <td valign="top" width="151">
-<p align="center">249-449</p>
+<p align="center">267-449</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -699,7 +699,7 @@
 <p>Préposé</p>
 </td>
 <td valign="top" width="151">
-<p align="center">249-449</p>
+<p align="center">267-449</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -773,7 +773,7 @@
 <p align="left">C - Conducteur d'automobiles de 1re catégorie</p>
 </td>
 <td valign="top" width="151">
-<p align="center">249-449</p>
+<p align="center">267-449</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -831,7 +831,7 @@
 <p>Agent d'exploitation</p>
 </td>
 <td valign="top" width="151">
-<p align="center">249-449</p>
+<p align="center">267-449</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
