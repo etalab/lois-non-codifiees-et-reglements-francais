@@ -2,7 +2,7 @@
 
 Sont autorisés, à titre général, les règlements à destination de l'étranger afférents aux opérations dont la liste suit :
 
-1° Paiements résultant de la livraison de marchandises ;
+1° Paiements résultants de la livraison de marchandises ;
 
 2° Remboursements de trop-perçus ;
 
@@ -46,7 +46,7 @@ Sont autorisés, à titre général, les règlements à destination de l'étrang
 
 22° Frais d'installation de résidents s'installant à l'étranger ;
 
-23° Transfert des avoirs de résidents qui acquièrent la qualité de non-résidents, et transfert des avoirs de rapatriés ;
+23° Transfert des avoirs de rapatriés ;
 
 24° Successions ;
 

@@ -1,0 +1,5 @@
+# Article 1
+
+Pour ouvrir droit à la prise en charge prévue par l'ordonnance du 16 janvier 1982 susvisée [*condition*], les embauches doivent résulter d'un accord ou, à défaut, d'une décision sur la réduction à trente-sept heures au moins avant le 1er janvier 1983 [*date limite*] ou à trente-six heures au moins avant le 1er septembre 1983 de la durée hebdomadaire effective moyenne du travail. Cet accord peut s'appliquer à tout ou partie du personnel.
+
+Conformément à l'article L. 311-2 du code du travail, l'employeur doit déposer les offres d'emplois correspondantes à l'Agence nationale pour l'emploi. Il doit recruter par priorité des jeunes âgés de moins de vingt-six ans ou des femmes veuves ou divorcées non remariées, séparées judiciairement, célibataires assumant la charge d'au moins un enfant ou bénéficiaires de l'allocation de parent isolé en vertu des articles L. 545 à L. 549 du code de la sécurité sociale, ou des demandeurs d'emploi bénéficiant ou ayant bénéficié d'une allocation de chômage, sous contrat à durée indéterminée.
