@@ -1,6 +1,11 @@
 # 1972
 
+- [Décret n°72-350 du 2 mai 1972](decret-n72-350-du-2-mai-1972)
+- [Décret n°72-352 du 2 mai 1972](decret-n72-352-du-2-mai-1972)
+- [Décret n°72-353 du 2 mai 1972](decret-n72-353-du-2-mai-1972)
 - [Décret n°71-1129 du 3 décembre 1971](decret-n71-1129-du-3-decembre-1971)
+- [Décret n°72-354 du 3 mai 1972](decret-n72-354-du-3-mai-1972)
+- [Décret n°72-387 du 4 mai 1972](decret-n72-387-du-4-mai-1972)
 - [Décret n°72-212 du 6 mars 1972](decret-n72-212-du-6-mars-1972)
 - [Décret n°72-827 du 6 septembre 1972](decret-n72-827-du-6-septembre-1972)
 - [Décret n°76-5 du 6 janvier 1976](decret-n76-5-du-6-janvier-1976)
@@ -40,6 +45,7 @@
 - [Décret n°72-798 du 25 août 1972](decret-n72-798-du-25-aout-1972)
 - [Décret n°72-871 du 25 septembre 1972](decret-n72-871-du-25-septembre-1972)
 - [Décret n°53-914 du 26 septembre 1953](decret-n53-914-du-26-septembre-1953)
+- [Décret n°72-349 du 26 avril 1972](decret-n72-349-du-26-avril-1972)
 - [Décret n°72-334 du 27 avril 1972](decret-n72-334-du-27-avril-1972)
 - [Décret n°73-417 du 27 mars 1973](decret-n73-417-du-27-mars-1973)
 - [Décret n°73-418 du 27 mars 1973](decret-n73-418-du-27-mars-1973)
