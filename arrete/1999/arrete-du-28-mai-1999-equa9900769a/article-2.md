@@ -16,7 +16,7 @@ I. - Pour l'aérogare Sud, limitation à quatre prestataires pour les services s
 
 - déplacement de l'avion (catégorie 5.6).
 
-II. - Pour l'aérogare Ouest, limitation à deux prestataires pour chacun des services suivants :
+II. - Pour l'aérogare Ouest, limitation à trois prestataires pour chacun des services  suivants  :
 
 - assistance bagages (catégorie 3) ;
 
