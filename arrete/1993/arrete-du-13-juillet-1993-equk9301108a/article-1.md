@@ -1,0 +1,3 @@
+# Article 1
+
+Les engrais simples au nitrate d'ammonium, de type A. 1 et A. 2 de la classe 5.1 du règlement pour le transport et la manutention des matières dangereuses dans les ports maritimes, ne peuvent être embarqués et débarqués dans les ports maritimes, que si ces matières sont conformes aux normes fixées par la directive du 15 juillet 1980 susvisée et transportées en sacs d'une capacité maximale de 55 kilogrammes ou en grands récipients pour vrac, d'une contenance maximale de 500 kilogrammes, répondant aux prescriptions du code maritime international des marchandises dangereuses (code IMDG).
