@@ -10,6 +10,6 @@ Toutefois, les candidats qui s'inscrivent, au titre d'une même session, à la f
 
 Les maîtres reçus au concours mentionné au présent article accèdent définitivement à l'échelle de rémunération des professeurs de lycée professionnel du deuxième grade à l'issue d'une période probatoire d'une année scolaire, selon des modalités fixées par arrêté du ministre chargé de l'éducation nationale. Ils sont classés dans l'échelle de rémunération des professeurs de lycée professionnel du deuxième grade dès le début de la période probatoire, selon les modalités fixées à l'article 10 du présent décret.
 
-Les maîtres dont la période probatoire n'a pas été jugée satisfaisante peuvent être autorisés, par décision du ministre, à accomplir une nouvelle période d'une année scolaire, au terme de laquelle ils sont soit admis définitivement à l'échelle de rémunération des professeurs de lycée professionnel du deuxième grade, soit replacés dans leur échelle de rémunération d'origine.
+Les maîtres dont la période probatoire n'a pas été jugée satisfaisante peuvent être autorisés, par décision du recteur, à accomplir une nouvelle période d'une année scolaire, au terme de laquelle ils sont soit admis définitivement à l'échelle de rémunération des professeurs de lycée professionnel du deuxième grade, soit replacés dans leur échelle de rémunération d'origine.
 
 Cette deuxième période probatoire n'est pas prise en compte pour l'avancement d'échelon.
