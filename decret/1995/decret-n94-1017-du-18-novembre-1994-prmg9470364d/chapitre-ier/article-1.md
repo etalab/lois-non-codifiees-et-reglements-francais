@@ -6,6 +6,8 @@ Les dispositions du décret du 18 novembre 1994 susvisé et celles du présent d
 
 - secrétaires administratifs d'administration centrale.
 
+Les secrétaires administratifs d'administration centrale des services généraux du Premier ministre peuvent être affectés dans les établissements publics administratifs placés sous la tutelle du Premier ministre.
+
 2. Corps des services déconcentrés des administrations de l'Etat ou d'établissements publics administratifs de l'Etat :
 
 a) Corps des services déconcentrés des administrations de l'Etat :

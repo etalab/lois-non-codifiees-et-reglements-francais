@@ -1,0 +1,9 @@
+# Article 18
+
+Toutes les procédures en cours devant les tribunaux du contentieux de l'incapacité à la date de publication du présent décret sont transférées, en l'état, aux tribunaux du contentieux de l'incapacité tels qu'institués par l'article 35 de la loi n° 2002-73 du 17 janvier 2002 de modernisation sociale, désormais compétents, sans qu'il y ait lieu de renouveler les actes, formalités et jugements intervenus antérieurement à cette date, à l'exception des convocations, citations et assignations données aux parties et aux témoins à fin de comparution personnelle.
+
+Les archives et minutes des secrétariats des tribunaux du contentieux de l'incapacité existant à la date de publication du présent décret sont transférées aux secrétariats des tribunaux du contentieux de l'incapacité tels qu'institués par l'article 35 de la loi n° 2002-73 du 17 janvier 2002 de modernisation sociale.
+
+Toutes les procédures en cours devant les sections de la Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail à la date de publication du présent décret sont transférées à la Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail telle qu'instituée par l'article 35 de la loi n° 2002-73 du 17 janvier 2002 et réparties par son président entre les sections prévues à l'article R. 143-15 du code de la sécurité sociale, sans qu'il y ait lieu de renouveler aucun acte, formalité ou jugement intervenus antérieurement à cette date.
+
+Les archives et minutes du secrétariat de la Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail existant à la date de publication du présent décret sont transférées au secrétariat de la Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail telle qu'instituée par l'article 35 de la loi n° 2002-73 du 17 janvier 2002.

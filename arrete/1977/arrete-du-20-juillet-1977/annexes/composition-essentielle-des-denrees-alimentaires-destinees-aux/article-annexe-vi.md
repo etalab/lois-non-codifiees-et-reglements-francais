@@ -40,7 +40,7 @@ La teneur en fibres alimentaires doit être de 10 g au minimum et de 30 g au max
 
 Pour la ration journalière complète, les produits considérés doivent apporter au moins 100 % des quantités de vitamines et des minéraux mentionnés dans le tableau II.
 
-Seules peuvent être utilisées les substances d'apport autorisées par l'arrêté du 4 août 1986 susvisé et selon les conditions d'emploi indiquées.
+Seules peuvent être utilisées les substances d'apport mentionnées à l'annexe III de l'arrêté du 5 juin 2003 et selon les conditions d'emploi qui y sont fixées.
 
 II. - Produits présentés comme remplaçant un ou plusieurs des repas constituant la ration journalière
 
@@ -74,7 +74,7 @@ L'indice chimique de la protéine doit en tout état de cause être au moins ég
 
 Les substituts de repas pour contrôle du poids doivent apporter, par repas, au moins 30 % des quantités de vitamines et de sels minéraux cités dans le tableau II et au moins 500 mg de potassium.
 
-Les substances d'apport de ces vitamines et sels minéraux sont celles autorisées par l'arrêté du 4 août 1986 susvisé et selon les conditions d'emploi indiquées.
+Les substances d'apport de ces vitamines et sels minéraux sont celles autorisées à l'annexe III de l'arrêté du 5 juin 2003 et dans les conditions d'emploi qui y sont fixées.
 
 III. - En-cas hypocaloriques appauvris en glucides ou en lipides
 
@@ -90,7 +90,7 @@ Les laits concentrés, les laits en poudre et les laits fermentés peuvent être
 
 3.3. Vitamines et sels minéraux
 
-Seules peuvent être utilisées les substances d'apport autorisées par l'arrêté du 4 août 1986 susvisé et selon les conditions d'emploi indiquées.
+Seules peuvent être utilisées les substances autorisées à l'annexe III de l'arrêté du 5 juin 2003 dans les conditions qui sont fixées.
 
 TABLEAU I
 

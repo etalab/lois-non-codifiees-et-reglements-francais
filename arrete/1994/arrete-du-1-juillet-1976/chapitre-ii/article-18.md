@@ -16,7 +16,7 @@ f) Dans le cas des préparations pour nourrissons et des préparations de suite,
 
 1 bis. L'étiquetage peut comporter les indications suivantes :
 
-a) La quantité moyenne des nutriments mentionnés à l'article 4, paragraphe 2.1, de l'arrêté du 4 août 1986 susvisé, lorsque cette indication n'est pas couverte par les dispositions du paragraphe 1, point e, du présent article, exprimée sous forme numérique, pour 100 millilitres du produit prêt à l'emploi ;
+a) La quantité moyenne des nutriments mentionnés à l'annexe I de l'arrêté du 5 juin 2003, lorsque cette indication n'est pas couverte par les dispositions du paragraphe 1, point e, du présent article, exprimée sous forme numérique, pour 100 millilitres du produit prêt à l'emploi ;
 
 b) Pour les préparations de suite, en plus des informations numériques, des données concernant les vitamines et les minéraux figurant à l'annexe VIII exprimées en pourcentage des valeurs de référence qui sont données, pour 100 millilitres du produit prêt à l'emploi, pour autant que les quantités présentes soient au moins égales à 15 % des valeurs de référence.
 
