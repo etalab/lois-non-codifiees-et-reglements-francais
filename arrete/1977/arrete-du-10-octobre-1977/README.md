@@ -1,4 +1,4 @@
-# Arrêté du 10 octobre 1977 FIXANT LE REGIME DE REMUNERATION DES AGENTS TITULAIRES SUIVANT LES ACTIONS DE FORMATION ORGANISEES A L'INITIATIVE DES OFFICES PUBLICS D'HABITATIONS A LOYER MODERE *HLM* ET DES OFFICES PUBLICS D'AMENAGEMENT ET DE CONSTRUCTION EN VUE DE LA FORMATION PROFESSIONNELLE CONTINUE DE LEURS AGENTS SOUMIS AU STATUT FIXE PAR LE DECRET N. 54-1023 DU 13 OCTOBRE 1954 MODIFIE OU QUI SUIVENT DES COURS DE PREPARATION AUX CONCOURS ADMINISTRATIFS.
+# Arrêté du 10 octobre 1977 relatif à la protection contre les risques d'incendie et de panique dans les établissements recevant du public relevant du ministère du travail
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -6,4 +6,3 @@
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
-- [Article 7](article-7.md)

@@ -1,13 +1,29 @@
 # Article 3
 
-Pendant la phase d'étude d'un projet de construction, de transformation ou d'aménagement et jusqu'à la date déterminée au dernier alinéa du présent article, l'application des dispositions destinées à garantir la sécurité contre les risques d'incendie et de panique est assurée par le directeur de l'Association nationale pour la formation professionnelle des adultes.
+Pour assurer l'application des dispositions destinées à garantir la sécurité contre les risques d'incendie et de panique, les fonctionnaires désignés à l'article 2 doivent notamment :
 
-Ce directeur doit :
+1° En ce qui concerne la construction
 
-- saisir la commission de sécurité compétente et lui soumettre le projet ainsi que toute modification décidée par le maître de l'ouvrage ;
+Saisir la commission de sécurité compétente et lui soumettre le projet ainsi que toute modification pouvant intervenir en cours de travaux ;
 
-- arrêter les prescriptions de sécurité après avis de la commission de sécurité ;
+Arrêter les prescriptions de sécurité après avis de la commission de sécurité ;
 
-- notifier les prescriptions au maître d'œuvre et à tous services ou personnes concernés.
+Notifier ces prescriptions au maître d'oeuvre et la tous services ou personnes intéressées ;
 
-La phase d'étude prend fin soit dès la notification de l'ordre de service de commencement d'exécution du chantier de construction, soit dès l'envoi du bon de travaux prescrivant l'exécution.
+Veiller à la réalisation des travaux conformément à ces décisions ;
+
+Faire procéder en cours d'exécution aux vérifications jugées nécessaires et, avant la réception de l'ouvrage, à une visite de contrôle destinée à constater la conformité des travaux avec les dispositions arrêtées.
+
+2° En cours d'exploitation
+
+Veiller à ce que les locaux, installations et équipements soient maintenus et entretenus en conformité avec les dispositions réglementaires ;
+
+Saisir la commission de sécurité compétente de tous projets de travaux et aménagements ;
+
+Arrêter le programme des visites périodiques et faire procéder aux contrôles inopinés et vérifications techniques ;
+
+Veiller à la bonne exécution des prescriptions imposées après avis de la commission de sécurité ;
+
+Prendre toutes mesures de prévention et de sauvegarde telles qu'elles sont définies au règlement de sécurité ainsi que, le cas échéant, toutes mesures d'urgence propres à assurer la sécurité des personnes ;
+
+Communiquer au préfet la liste des fonctionnaires chargés de suivre dans chaque établissement l'application des mesures prises.
