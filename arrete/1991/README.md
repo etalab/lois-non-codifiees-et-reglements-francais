@@ -637,7 +637,6 @@
 - [Arrêté du 20 novembre 1991 (SPSS9102548A)](arrete-du-20-novembre-1991-spss9102548a)
 - [Arrêté du 20 novembre 1991 (SPSS9102646A)](arrete-du-20-novembre-1991-spss9102646a)
 - [Arrêté du 20 septembre 1991 (AGRH9102118A)](arrete-du-20-septembre-1991-agrh9102118a)
-- [Arrêté du 20 septembre 1991 (BUDL9100155A)](arrete-du-20-septembre-1991-budl9100155a)
 - [Arrêté du 20 septembre 1991 (ECOT9120166A)](arrete-du-20-septembre-1991-ecot9120166a)
 - [Arrêté du 20 septembre 1991 (ECOT9120181A)](arrete-du-20-septembre-1991-ecot9120181a)
 - [Arrêté du 20 septembre 1991 (INTD9100435A)](arrete-du-20-septembre-1991-intd9100435a)
