@@ -1,6 +1,6 @@
 # Article 7
 
-Le conseil d'administration se réunit sur la convocation de son président, aussi souvent que le service de la régie l'exige, et au moins dix fois par an. Il peut, en outre, se réunir exceptionnellement à la demande des deux tiers de ses membres.
+Le conseil d'administration se réunit en séance ordinaire sur convocation de son président et examine toute question inscrite à l'ordre du jour par le président ou le conseil statuant à la majorité simple. Toutefois le tiers au moins des membres du conseil d'administration peut, en indiquant l'ordre du jour de la séance, convoquer le conseil si celui-ci ne s'est pas réuni depuis plus de deux mois.
 
 Le conseil ne peut valablement délibérer que si la moitié au moins de ses membres assiste à la séance.
 
