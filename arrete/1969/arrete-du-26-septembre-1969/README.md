@@ -1,4 +1,4 @@
-# Arrêté du 26 septembre 1969 relatif à la notation des sapeurs-pompiers professionnels de tous grades
+# Arrêté du 26 septembre 1969 relatif aux visites réglementaires des appareils à vapeur
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
