@@ -1,0 +1,5 @@
+# Article 2
+
+I. - Lorsque la société CNP-Assurances SA a proposé, en application de l'article 101 de la loi du 2 juillet 1998 susvisée, un contrat de travail à un fonctionnaire mis à sa disposition et lorsque cette proposition est acceptée, le fonctionnaire est placé sur sa demande en position de détachement, en position hors cadres ou en position de disponibilité dans les conditions de droit commun, sauf dérogations résultant du présent décret.
+
+II. - Au cours de chaque période de détachement ou de mise en position hors cadres, le fonctionnaire placé dans l'une de ces positions peut à tout moment solliciter sa réintégration dans les services de la Caisse des dépôts et consignations. Jusqu'à ce qu'intervienne sa réintégration, il demeure rémunéré par la société CNP-Assurances SA. La réintégration intervient de droit au plus tard à l'expiration de la période de détachement ou de mise en position hors cadres et, si le fonctionnaire le demande, dans les limites de sa résidence administrative ou, pour le fonctionnaire exerçant ses fonctions en région Ile-de-France, dans les limites de cette région.

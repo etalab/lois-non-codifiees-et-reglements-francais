@@ -2,6 +2,4 @@
 
 La liste électorale est arrêtée par le directeur général du Centre national de la recherche scientifique. Elle peut être consultée par tout intéressé au siège du Centre national de la recherche scientifique ou de ses délégations régionales. Mention de cette disposition est faite au Journal officiel de la République française.
 
-Les réclamations contre la liste doivent être présentées au président de la commission électorale dans les quinze jours suivant la publication de cette mention faite au Journal officiel de la République française.
-
-Les rectifications décidées sont portées à la connaissance des intéressés dans les mêmes formes.
+Les réclamations contre la liste et contre les décisions individuelles de rattachement à une section sont présentées au président de la commission électorale dans un délai de quinze jours francs suivant la publication de cette mention. La commission électorale statue sur ces réclamations et notifie ses décisions aux intéressés. La liste électorale rectificative est arrêtée par le directeur général du Centre national de la recherche scientifique. Elle peut être consultée par toute personne intéressée au siège de cet établissement ou de ses délégations régionales. Mention de cette dernière disposition est faite au Journal officiel de la République française.
