@@ -1,3 +1,3 @@
 # Article 4
 
-Les agents visés à l'article 1er du présent arrêté occupant un emploi de monitrice d'enseignement ménager, de chef de section et de directrice de pouponnière, maison maternelle et hôtel maternel sont reclassés dans les échelles indiciaires prévues par le présent arrêté dans des conditions fixées par le tableau figurant en annexe II au présent arrêté.
+Le laboratoire de l'union technique de l'automobile, du motocycle et du cycle (UTAC), autodrome de Linas-Monthléry, est agréé pour effectuer les contrôles visés à l'article 3 du présent arrêté ; ces contrôles sont à la charge du demandeur.

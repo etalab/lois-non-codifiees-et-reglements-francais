@@ -1,3 +1,3 @@
 # Article 1
 
-Les échelles indiciaires applicables au personnel d'éducation et d'encadrement ainsi qu'aux directrices de pouponnières, hôtels maternels et maisons maternelles, régis par le décret n° 62-1198 du 3 octobre 1962 modifié, sont fixées conformément au tableau figurant en annexe I au présent arrêté.
+Au sens du présent arrêté, on entend par ancien cahier des charges [*définition*] les annexes de l'arrêté du 2 janvier 1975 relatif à la réception CEE (Communauté économique européenne) des véhicules en ce qui concerne la limitation des émissions de gaz polluants en provenance des moteurs à allumage commandé, et par nouveau cahier des charges les annexes de l'arrêté cité ci-dessus modifiées par l'arrêté du 16 janvier 1975 [*les cahiers des charges font l'objet du tome III du code de la route*].

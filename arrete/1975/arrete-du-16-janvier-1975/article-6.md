@@ -1,3 +1,3 @@
 # Article 6
 
-L'arrêté du 14 septembre 1972 relatif à l'attribution d'une indemnité forfaitaire de sujétion à certains personnels des établissements relevant des services départementaux de l'aide sociale à l'enfance est abrogé à compter du 1er juillet 1974.
+Les véhicules en circulation ayant un kilométrage d'au moins 3000 km pourront être soumis à des contrôles ayant pour but de vérifier que la teneur en monoxyde de carbone des gaz d'échappement émis au régime de ralenti ne dépasse pas 4,5 p. 100 et constitués par des essais du type II.
