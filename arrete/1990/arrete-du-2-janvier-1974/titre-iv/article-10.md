@@ -1,3 +1,0 @@
-# Article 10
-
-Le directeur général des douanes et droits indirects peut consentir des dérogations, pour les essences et le gazole, aux règles énoncées à l'article 6 et à l'article 9 (b et c) ci-dessus, dans la limite des possibilités de contrôle de ces opérations et aux conditions qu'il détermine, afin de permettre l'avitaillement en franchise des bateaux attachés à des ports éloignés de tout établissement fournisseur de produits pétroliers en franchise des droits et taxes. De la même façon, des dérogations peuvent être accordées, pour le gazole, afin de faire face à des contraintes d'ordre économique.

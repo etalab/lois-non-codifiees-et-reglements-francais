@@ -677,7 +677,6 @@
 - [Décret n°2004-384 du 29 avril 2004 (ECOP0400232D)](decret-n2004-384-du-29-avril-2004-ecop0400232d)
 - [Décret n°97-1263 du 29 décembre 1997 (MCCT9700891D)](decret-n97-1263-du-29-decembre-1997-mcct9700891d)
 - [Décret n°2003-1036 du 30 octobre 2003 (SOCS0323965D)](decret-n2003-1036-du-30-octobre-2003-socs0323965d)
-- [Décret n°2003-1038 du 30 octobre 2003 (ECOX0300140D)](decret-n2003-1038-du-30-octobre-2003-ecox0300140d)
 - [Décret n°2003-1043 du 30 octobre 2003 (ECOA0330001D)](decret-n2003-1043-du-30-octobre-2003-ecoa0330001d)
 - [Décret n°2003-1053 du 30 octobre 2003 (JUSC0320617D)](decret-n2003-1053-du-30-octobre-2003-jusc0320617d)
 - [Décret n°2003-1054 du 30 octobre 2003 (EQUK0300826D)](decret-n2003-1054-du-30-octobre-2003-equk0300826d)

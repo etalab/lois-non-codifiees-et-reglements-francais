@@ -42,7 +42,6 @@
 - [Arrêté du 2 décembre 1990 (AGRR9002483A)](arrete-du-2-decembre-1990-agrr9002483a)
 - [Arrêté du 2 février 1978](arrete-du-2-fevrier-1978)
 - [Arrêté du 2 février 1990 (JUSX9010039A)](arrete-du-2-fevrier-1990-jusx9010039a)
-- [Arrêté du 2 janvier 1974](arrete-du-2-janvier-1974)
 - [Arrêté du 2 janvier 1990 (BUDR9005001A)](arrete-du-2-janvier-1990-budr9005001a)
 - [Arrêté du 2 janvier 1990 (BUDR9005002A)](arrete-du-2-janvier-1990-budr9005002a)
 - [Arrêté du 2 janvier 1990 (EQUA8901400A)](arrete-du-2-janvier-1990-equa8901400a)
