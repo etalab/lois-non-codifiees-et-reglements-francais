@@ -10,4 +10,6 @@ Les éléments à prendre en compte pour la détermination du prix des logements
 
 - le coût des prestations diverses que le bénéficiaire n'aura pu réaliser lui-même dans la limite d'un montant M2.
 
-Les montants M0, M1 et M2 sont fixés par arrêté préfectoral sans pouvoir dépasser respectivement 25 000 F/logement pour M1 et 40 000 F/logement pour M2.
+Les montants M0, M1 et M2 sont fixés par arrêté préfectoral sans pouvoir dépasser respectivement 3 971  pour M1 et 6 354  pour M2.
+
+Ces montants sont révisés chaque année, le 1er janvier, en fonction de la variation de la moyenne associée à l'indice du coût de la construction du deuxième trimestre de l'année précédente.

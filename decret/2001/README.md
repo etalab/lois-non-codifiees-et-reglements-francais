@@ -114,6 +114,7 @@
 - [Décret n°2001-630 du 16 juillet 2001 (ECOI0100278D)](decret-n2001-630-du-16-juillet-2001-ecoi0100278d)
 - [Décret n°2001-631 du 16 juillet 2001 (ECOT0151956D)](decret-n2001-631-du-16-juillet-2001-ecot0151956d)
 - [Décret n°2001-649 du 16 juillet 2001 (ECOD0170012D)](decret-n2001-649-du-16-juillet-2001-ecod0170012d)
+- [Décret n°2001-944 du 16 octobre 2001 (DEFD0102136D)](decret-n2001-944-du-16-octobre-2001-defd0102136d)
 - [Décret n°2002-87 du 16 janvier 2002 (MENF0102415D)](decret-n2002-87-du-16-janvier-2002-menf0102415d)
 - [Décret n°2001-1204 du 17 décembre 2001 (MAEA0120366D)](decret-n2001-1204-du-17-decembre-2001-maea0120366d)
 - [Décret n°2001-626 du 17 juillet 2001 (ECOI0120184D)](decret-n2001-626-du-17-juillet-2001-ecoi0120184d)
