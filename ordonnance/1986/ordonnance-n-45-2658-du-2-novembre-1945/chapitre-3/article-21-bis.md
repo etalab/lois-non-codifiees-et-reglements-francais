@@ -1,13 +1,17 @@
 # Article 21 bis
 
-I. - Le tribunal ne peut prononcer, que par une décision spécialement motivée au regard de la gravité de l'infraction, l'interdiction du territoire français prévue par les articles 19, 21, 27 et 33 à l'encontre :
+I. - Les infractions prévues au I de l'article 21 sont punies de dix ans d'emprisonnement et de 750 000 Euros d'amende :
 
-1° D'un condamné étranger père ou mère d'un enfant français résidant en France, à condition qu'il exerce, même partiellement, l'autorité parentale à l'égard de cet enfant ou qu'il subvienne effectivement à ses besoins ;
+1° Lorsqu'elles sont commises en bande organisée ;
 
-2° D'un condamné étranger marié depuis au moins un an avec un conjoint de nationalité française, à condition que ce mariage soit antérieur aux faits ayant entraîné sa condamnation, que la communauté de vie n'ait pas cessé et que le conjoint ait conservé la nationalité française ;
+2° Lorsqu'elles sont commises dans des circonstances qui exposent directement les étrangers à un risque immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente ;
 
-3° D'un condamné étranger qui justifie qu'il réside habituellement en France depuis qu'il a atteint au plus l'âge de dix ans ;
+3° Lorsqu'elles ont pour effet de soumettre les étrangers à des conditions de vie, de transport, de travail ou d'hébergement incompatibles avec la dignité de la personne humaine ;
 
-4° D'un condamné étranger qui justifie qu'il réside régulièrement en France depuis plus de quinze ans.
+4° Lorsqu'elles sont commises au moyen d'une habilitation ou d'un titre de circulation en zone réservée d'un aérodrome ou d'un port ;
 
-II. - L'interdiction du territoire français prévue par les articles 19, 21, 27 et 33 n'est pas applicable à l'encontre du condamné étranger mineur de dix-huit ans.
+5° Lorsqu'elles ont comme effet, pour des mineurs étrangers, de les éloigner de leur milieu familial ou de leur environnement traditionnel.
+
+II. - Outre les peines complémentaires prévues au II de l'article 21, les personnes physiques condamnées au titre des infractions visées au I du présent article encourent également la peine complémentaire de confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
+
+III. - Les étrangers condamnés au titre de l'un des délits prévus au I encourent également l'interdiction définitive du territoire français, dans les conditions prévues par les articles 131-30 à 131-30-2 du code pénal.

@@ -1,0 +1,3 @@
+# Article 91
+
+Les dispositions prévues à l'article 18 et au 3° de l'article 46 de la présente loi entreront en vigueur le 1er janvier 2004. Toutefois, les dispositions de l'article 12 ter de l'ordonnance n° 45-2658 du 2 novembre 1945 précitée telle que modifiée par la loi n° 98-349 du 11 mai 1998 relative à l'entrée et au séjour des étrangers en France et au droit d'asile resteront en vigueur pour ce qui concerne les demandes d'asile territorial déposées en application de l'article 13 de la loi n° 52-893 du 25 juillet 1952 relative au droit d'asile dans sa rédaction issue de la loi n° 98-349 du 11 mai 1998 précitée.

@@ -1,5 +1,6 @@
 # Décret n°69-810 du 12 août 1969 relatif à l'organisation de la profession et au statut professionnel des commissaires aux comptes.
 
+- [Titre préliminaire : Du Haut Conseil du commissariat aux comptes](titre-preliminaire)
 - [Article 1](article-1.md)
 - [Titre Ier : Etablissement de la liste des commissaires aux comptes](titre-ier)
 - [Titre II : Organisation professionnelle](titre-ii)
