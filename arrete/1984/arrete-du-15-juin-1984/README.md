@@ -1,4 +1,4 @@
-# Arrêté du 15 juin 1984 relatif à l'application du décret n° 84-465 du 15 juin 1984 portant définition du logement convenable attribué aux instituteurs par les communes.
+# Arrêté du 15 juin 1984 relatif à la répartition des cotisations des assurances maladie, maternité, invalidité, décès et de l'assurance des accidents du travail et des maladies professionnelles pour 1983.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,75 +1,29 @@
 # Article 1
 
-La composition minimale et la surface habitable minimale du logement convenable mentionnées à l'article 2 du décret du 15 juin 1984 susvisé sont fixées somme suit :
+Pour l'année 1983 les ressources des fonds nationaux de la gestion administrative, du contrôle médical, de la prévention des accidents du travail et des maladies professionnelles, et de l'action sanitaire et sociale sont prélevées sur les recettes de chaque gestion par décision du conseil d'administration de la caisse nationale de l'assurance maladie des travailleurs salariés sans pouvoir excéder les pourcentages ci-après :
 
-COMPOSITION MINIMALE DU LOGEMENT :
+1° Au profit du Fonds national de la gestion administrative.
 
-1 pièce principale avec coin cuisine, cabinet de toilette, placard, cabinet d'aisance, raccordement aux réseaux divers.
+6,66 p. 100 des cotisations des assurances maladie, maternité et éventuellement invalidité décès des régimes énumérés aux alinéas a, b, d, e, f, g, de l'article 2 du décret n° 67-1230 du 22 décembre 1967 ;
 
-SURFACE HABITABLE : 27 mètres carrés.
+9,24 p. 100 des prestations versées au titre du régime des étudiants ;
 
-NOMBRE DE PERSONNES LOGEES : 1.
+9,47 p. 100 des cotisations encaissées au titre des accidents du travail et des maladies professionnelles (assurance obligatoire, totalité ou partie des risques, assurance volontaire et assurance personnelle).
 
-COMPOSITION MINIMALE DU LOGEMENT :
+2° Au profit du Fonds national du contrôle médical.
 
-1 pièce principale, plus : cuisine, salle d'eau, cabinet d'aisance, dégagement et volumes de rangement.
+0,61 p. 100 des cotisations des assurances maladie, maternité et éventuellement invalidité décès des régimes énumérés aux alinéas a, b, d, e, f, g de l'article 2 du décret n° 67-1230 du 22 décembre 1967 ;
 
-SURFACE HABITABLE : 27 mètres carrés.
+1,60 p. 100 des prestations versées au titre du régime des étudiants ;
 
-NOMBRE DE PERSONNES LOGEES : 1.
+1,98 p. 100 des cotisations encaissées au titre des accidents du travail et des maladies professionnelles (assurance obligatoire, totalité ou partie des risques assurance volontaire et assurance personnelle).
 
-COMPOSITION MINIMALE DU LOGEMENT :
+3° Au profit du Fonds national de la prévention des accidents du travail et des maladies professionnelles.
 
-2 pièces principales, plus : cuisine, salle d'eau, cabinet d'aisance, dégagement et volumes de rangement.
+1,82 p. 100 des cotisations encaissées au titre des accidents du travail et des maladies professionnelles (assurance obligatoire, totalité ou partie des risques assurance volontaire et assurance personnelle).
 
-SURFACE HABITABLE : 41 mètres carrés.
+4° Au profit du Fonds national d'action sanitaire et sociale.
 
-NOMBRE DE PERSONNES LOGEES : 2.
+Aucun prélèvement ne sera effectué en 1983 au profit de ce fonds dont les dépenses seront financées par un prélèvement de même montant sur l'excèdent cumulé constaté du Fonds national d'action sanitaire et sociale.
 
-COMPOSITION MINIMALE DU LOGEMENT :
-
-3 pièces principales, plus : cuisine, salle d'eau, cabinet d'aisance, dégagement et volumes de rangement.
-
-SURFACE HABITABLE : 54 mètres carrés.
-
-NOMBRE DE PERSONNES LOGEES : 3.
-
-COMPOSITION MINIMALE DU LOGEMENT :
-
-4 pièces principales, plus : cuisine, salle d'eau, cabinet d'aisance, dégagement et volumes de rangement.
-
-SURFACE HABITABLE : 66 mètres carrés.
-
-NOMBRE DE PERSONNES LOGEES : 4.
-
-COMPOSITION MINIMALE DU LOGEMENT :
-
-5 pièces principales, plus : cuisine, salle d'eau, cabinet d'aisance, dégagement et volumes de rangement.
-
-SURFACE HABITABLE : 79 mètres carrés.
-
-NOMBRE DE PERSONNES LOGEES : 5.
-
-COMPOSITION MINIMALE DU LOGEMENT :
-
-6 pièces principales, plus : cuisine, salle d'eau, cabinet d'aisance, dégagement et volumes de rangement.
-
-SURFACE HABITABLE : 89 mètres carrés.
-
-NOMBRE DE PERSONNES LOGEES : 6.
-
-COMPOSITION MINIMALE DU LOGEMENT :
-
-7 pièces principales, plus : cuisine, salle d'eau, cabinet d'aisance, dégagement et volumes de rangement.
-
-SURFACE HABITABLE : 103 mètres carrés.
-
-NOMBRE DE PERSONNES LOGEES : 7.
-
-COMPOSITION MINIMALE DU LOGEMENT :
-
-Par pièce principale en plus.
-
-SURFACE HABITABLE : + 12 mètres carrés par PERSONNE LOGEE en plus.
-
-Pour les maisons individuelles bénéficiant d'annexes d'au moins 25 mètres carrés, en sous-sol ou en comble, les surfaces habitables minimales susmentionnées sont, dans la limite de 4 mètres carrés au maximum, diminuées de l'emprise de l'escalier conduisant aux combles ou de la surface de la trémie de l'escalier conduisant au sous-sol.
+Pour l'application des dispositions ci-dessus, la contribution visée à l'article L. 580 du code de la sécurité sociale est assimilée à des cotisations.

@@ -27,3 +27,5 @@ Il présente chaque année au conseil d'administration un rapport d'activité ai
 Il préside le comité financier national prévu à l'article 20 ;
 
 Il peut assister aux séances du comité scientifique et des comités techniques.
+
+Le commissaire de la République est ordonnateur secondaire des aides au logement consenties par l'Agence française pour la maîtrise de l'énergie en application de l'article 5 de la loi n° 82-669 du 3 aout 1982 portant création du fonds spécial de grands travaux. Dans ce cas les dépenses sont assignées sur la caisse du trésorier-payeur général.
