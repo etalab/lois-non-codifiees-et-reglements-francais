@@ -1,6 +1,6 @@
 # Article 5
 
-I. - Peuvent être inscrits sur la liste d'aptitude prévue au 2° de l'article 3 les membres du cadre d'emplois des contrôleurs territoriaux de travaux justifiant au 1er janvier de l'année de l'examen d'au moins dix ans de services effectifs, en position d'activité ou de détachement dans un emploi technique d'une collectivité territoriale, de l'Etat ou de leurs établissements publics administratifs, dont cinq années au moins dans le cadre d'emplois des contrôleurs territoriaux de travaux, et qui ont été admis à un examen professionnel.
+I. - Peuvent être inscrits sur la liste d'aptitude prévue au 2° de l'article 3 les membres du cadre d'emplois des contrôleurs territoriaux de travaux justifiant au 1er janvier de l'année de l'examen d'au moins cinq ans de services effectifs accomplis dans le cadre d'emplois des contrôleurs territoriaux de travaux, et qui ont été admis à un examen professionnel.
 
 L'examen dont les modalités sont fixées par arrêté du ministre chargé des collectivités territoriales comporte une épreuve d'entretien avec le jury portant principalement sur l'expérience professionnelle de l'intéressé.
 
