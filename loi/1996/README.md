@@ -21,6 +21,8 @@
 - [Loi n° 96-369 du 3 mai 1996 (INTX9400080L)](loi-n-96-369-du-3-mai-1996-intx9400080l)
 - [Loi n° 96-370 du 3 mai 1996 (INTX9400179L)](loi-n-96-370-du-3-mai-1996-intx9400179l)
 - [Loi n° 96-376 du 6 mai 1996 (TASX9500181L)](loi-n-96-376-du-6-mai-1996-tasx9500181l)
+- [Loi n° 96-392 du 13 mai 1996 (JUSX9400059L)](loi-n-96-392-du-13-mai-1996-jusx9400059l)
+- [Loi n° 96-393 du 13 mai 1996 (JUSX9601472L)](loi-n-96-393-du-13-mai-1996-jusx9601472l)
 - [Loi n° 96-62 du 29 janvier 1996 (JUSX9500134L)](loi-n-96-62-du-29-janvier-1996-jusx9500134l)
 - [Loi n° 96-63 du 29 janvier 1996 (TASX9500159L)](loi-n-96-63-du-29-janvier-1996-tasx9500159l)
 - [Loi n° 96-64 du 29 janvier 1996 (MAEX9400017L)](loi-n-96-64-du-29-janvier-1996-maex9400017l)
