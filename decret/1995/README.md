@@ -87,6 +87,7 @@
 - [Décret n°95-282 du 13 mars 1995 (JUSE9540009D)](decret-n95-282-du-13-mars-1995-juse9540009d)
 - [Décret n°95-49 du 13 janvier 1995 (INDA9401091D)](decret-n95-49-du-13-janvier-1995-inda9401091d)
 - [Décret n°95-58 du 13 janvier 1995 (DEFD9401861D)](decret-n95-58-du-13-janvier-1995-defd9401861d)
+- [Décret n°93-69 du 14 janvier 1993 (MENF9204458D)](decret-n93-69-du-14-janvier-1993-menf9204458d)
 - [Décret n°95-158 du 15 février 1995 (SPSS9500079D)](decret-n95-158-du-15-fevrier-1995-spss9500079d)
 - [Décret n°95-159 du 15 février 1995 (SPSS9500084D)](decret-n95-159-du-15-fevrier-1995-spss9500084d)
 - [Décret n°95-161 du 15 février 1995 (JUSC9520000D)](decret-n95-161-du-15-fevrier-1995-jusc9520000d)
