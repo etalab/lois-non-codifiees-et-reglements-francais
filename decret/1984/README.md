@@ -145,7 +145,6 @@
 - [Décret n°84-625 du 17 juillet 1984](decret-n84-625-du-17-juillet-1984)
 - [Décret n°84-628 du 17 juillet 1984](decret-n84-628-du-17-juillet-1984)
 - [Décret n°84-630 du 17 juillet 1984](decret-n84-630-du-17-juillet-1984)
-- [Décret n°84-640 du 17 juillet 1984](decret-n84-640-du-17-juillet-1984)
 - [Décret n°84-642 du 17 juillet 1984](decret-n84-642-du-17-juillet-1984)
 - [Décret n°84-643 du 17 juillet 1984](decret-n84-643-du-17-juillet-1984)
 - [Décret n°84-648 du 17 juillet 1984](decret-n84-648-du-17-juillet-1984)
