@@ -44,7 +44,6 @@
 - [Décret n°75-891 du 23 septembre 1975](decret-n75-891-du-23-septembre-1975)
 - [Décret n°75-1084 du 24 novembre 1975](decret-n75-1084-du-24-novembre-1975)
 - [Décret n°75-109 du 24 février 1975](decret-n75-109-du-24-fevrier-1975)
-- [Décret n°75-983 du 24 octobre 1975](decret-n75-983-du-24-octobre-1975)
 - [Décret n°75-1250 du 26 décembre 1975](decret-n75-1250-du-26-decembre-1975)
 - [Décret n°75-205 du 26 mars 1975](decret-n75-205-du-26-mars-1975)
 - [Décret n°75-848 du 26 août 1975](decret-n75-848-du-26-aout-1975)
