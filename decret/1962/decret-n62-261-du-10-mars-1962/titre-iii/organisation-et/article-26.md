@@ -1,5 +1,5 @@
 # Article 26
 
-Les préfets et les délégués régionaux peuvent proposer aux rapatriés non salariés leur reclassement dans une profession identique ou dans une autre profession non salariée ainsi que leur reconversion dans un emploi salarié.
+Le ministre de l'intérieur peut inscrire les rapatriés non salariés sur une liste professionnelle correspondant à une activité différente de celle exercée outre-mer.
 
-Les préfets et les délégués régionaux peuvent subordonner les reclassements qu'ils proposent à un stage préalable dans un établissement de formation professionnelle ou une entreprise.
+Le changement de catégorie professionnelle est, s'il y a lieu, subordonné à l'accomplissement par le rapatrié d'un stage de formation professionnelle.
