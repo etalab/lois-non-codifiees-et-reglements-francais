@@ -27,7 +27,6 @@
 - [Décret n°84-580 du 4 juillet 1984](decret-n84-580-du-4-juillet-1984)
 - [Décret n°84-882 du 4 octobre 1984](decret-n84-882-du-4-octobre-1984)
 - [Décret n°85-169 du 4 février 1985](decret-n85-169-du-4-fevrier-1985)
-- [Décret du 5 septembre 1984](decret-du-5-septembre-1984)
 - [Décret n°84-1087 du 5 décembre 1984](decret-n84-1087-du-5-decembre-1984)
 - [Décret n°84-13 du 5 janvier 1984](decret-n84-13-du-5-janvier-1984)
 - [Décret n°84-254 du 5 avril 1984](decret-n84-254-du-5-avril-1984)
