@@ -1,3 +1,0 @@
-# Article 7
-
-Conformément à l'article 218 (alinéa 3) de la loi susvisée du 24 juillet 1966, les sociétés inscrites à la date du 24 juillet 1966 au tableau de l'ordre des experts comptables et des comptables agréés peuvent, quelle que soit leur forme, être inscrites sur la liste des commissaires aux comptes et y rester aussi longtemps qu'elles figurent audit tableau sous réserve du respect des règles professionnelles des commissaires aux comptes, et seulement si trois quarts au moins [*proportion*] des membres de l'ordre des experts comptables et des comptables agréés qui composent ces sociétés sont inscrits sur la liste des commissaires aux comptes, par application des articles 2 à 5 [*accès à la profession*].

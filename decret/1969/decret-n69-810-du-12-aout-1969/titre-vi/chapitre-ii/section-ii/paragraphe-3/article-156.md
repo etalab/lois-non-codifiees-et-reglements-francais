@@ -1,9 +1,5 @@
 # Article 156
 
-A la diligence du cessionnaire, un exemplaire de l'acte de cession de parts, s'il est sous seing privé, ou une expédition de cet acte, s'il a été établi en la forme authentique, est déposé au siège de la compagnie régionale dont la société est membre [*formalités*].
+La publicité de la cession des parts est accomplie conformément aux dispositions de l'article 52 du décret du 3 juillet 1978 précité. Dans le cas prévu au troisième alinéa de l'article 150, la publicité de la cession est accomplie par le dépôt, dans les mêmes conditions, de deux copies certifiées conformes de la sommation adressée au cédant, accompagnées de la justification de la sommation ou de la signification de cette sommation [*formalités - documents joints*].
 
-Jusqu'à ce dépôt, la cession de parts sociales est inopposable aux tiers qui peuvent toutefois s'en prévaloir.
-
-Dans le cas où il y a lieu à réduction du capital social, en application de l'article 21 de la loi du 29 novembre 1966, un exemplaire ou une expédition de l'acte modifiant les statuts est déposé au siège de la compagnie régionale, pour être versé au dossier de la société.
-
-Tout intéressé peut obtenir du conseil régional, la délivrance à ses frais d'un extrait de l'acte de cession [*communication*] contenant seulement les indications prévues à l'article 137 [*information du public*].
+En outre, un des originaux ou une expédition de l'acte de cession des parts et, éventuellement, de l'acte modifiant les statuts de la société doit être transmis pour information à la commission régionale d'inscription.

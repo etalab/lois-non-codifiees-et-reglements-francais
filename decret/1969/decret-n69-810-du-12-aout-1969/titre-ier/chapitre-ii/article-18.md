@@ -8,4 +8,4 @@ Le recours devant la commission nationale est ouvert dans le délai d'un mois à
 
 3° Au président du conseil régional, sur décision du bureau, contre toute décision d'inscription d'un candidat sur la liste [*qualité pour agir*].
 
-En outre le recours à la commission nationale est ouvert au procureur général, au conseil régional ou à tout intéressé contre les décisions prises par la commission [*régionale*] à l'occasion de la révision annuelle de la liste dans le délai d'un mois de la publication de ces décisions au Bulletin officiel des annonces [*civiles et*] commerciales conformément au dernier alinéa de l'article 14.
+En outre le recours à la commission nationale est ouvert avant le 15 mars [*date*]  au procureur général, aux présidents du conseil national et du conseil régional ou à tout intéressé contre les décisions prises par la commission régionale à l'occasion de la révision annuelle de la liste.

@@ -1,3 +1,3 @@
 # Article 121
 
-Lorsque deux ou plusieurs commissaires [*aux comptes - pluralité*] sont en fonctions dans la même société, le montant global de leurs honoraires [*calcul*] est égal à la somme résultant de l'application du barème, majorée de 20 p. 100 [*pourcentage*].
+Lorsqu'au cours de la procédure d'alerte l'appréciation par le commissaire aux comptes du caractère satisfaisant de la réponse des dirigeants ou des décisions prises par eux rend nécessaires des diligences particulières, le nombre d'heures prévu par le programme de travail peut être augmenté au plus d'un tiers [*proportion maximum*].

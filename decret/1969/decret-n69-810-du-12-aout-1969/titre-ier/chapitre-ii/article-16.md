@@ -1,21 +1,15 @@
 # Article 16
 
-La commission nationale [*d'inscription*] est composée de sept membres [*nombre*] :
+La commission nationale d'inscription des commissaires aux comptes est composée  de huit membres [*nombre*] qui sont nommés par le garde des sceaux. Elle comprend :
 
-1° Un conseiller à la Cour de cassation, président ;
+1° Un conseiller à la Cour de cassation ;
 
-2° Un conseiller maître à la Cour des comptes ;
+2° Un magistrat de la Cour des comptes ;
 
-3° Un professeur des facultés de droit et des sciences économiques ;
+3° Un professeur de droit, de sciences économiques ou de gestion ;    4° Une personne qualifiée dans le domaine de la gestion des entreprises ;
 
-4° Un membre de l'inspection générale des finances ;
+5° Un  membre des tribunaux de commerce ;
 
-5° Le président de la conférence générale des présidents et membres des tribunaux de commerce ;
+6° Deux commissaires aux comptes proposés par le Conseil national des commissaires aux comptes.
 
-6° Deux commissaires aux comptes.
-
-Les membres de la commission nationale, ainsi que leurs suppléants en nombre égal et choisis dans les mêmes catégories, sont nommés par arrêté du garde des sceaux, ministre de la justice.
-
-Les commissaires aux comptes sont désignés par le conseil national dans les conditions prévues à l'article 54 (alinéa 3).
-
-Des rapporteurs peuvent être adjoints à la commission nationale par arrêté du garde des sceaux, ministre de la justice.
+7° Le représentant désigné par le ministre chargé de l'économie.    Les suppléants sont nommés dans les mêmes conditions.

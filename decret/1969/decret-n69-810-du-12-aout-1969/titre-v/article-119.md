@@ -1,7 +1,5 @@
 # Article 119
 
-Les travaux accomplis par les commissaires aux comptes dans l'exercice de leurs fonctions donnent lieu au versement d'honoraires par la société [*rémunération*].
+Les travaux du ou des commissaires aux comptes font l'objet d'un programme de travail établi par écrit. Celui-ci tient compte de la forme juridique de l'entreprise, de la nature de ses activités ainsi qu'éventuellement du contrôle exercé par l'autorité publique.
 
-Les frais de déplacement et de séjour engagés par les commissaires aux comptes dans l'exercice de leurs fonctions sont remboursés par la société.
-
-Les commissaires aux comptes peuvent recevoir des rémunérations de la société pour des missions temporaires, d'objet limité, et entrant dans le cadre de leurs fonctions, dès lors que ces missions leur sont confiées par la société à la demande d'une autorité publique.
+Ce programme décrit les diligences estimées nécessaires aux cours de l'exercice compte tenu des prescriptions légales et des pratiques usuelles ; il indique le nombre d'heures de travail affectées à l' accomplissement de ces diligences et les honoraires correspondants. Le programme de travail est versé au dossier prévu à l'article 66 ci-dessus.

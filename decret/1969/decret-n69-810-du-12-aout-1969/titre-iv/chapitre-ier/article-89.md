@@ -12,4 +12,4 @@ La chambre de discipline peut décider que la décision prononçant la répriman
 
 L'avertissement et la réprimande peuvent être assortis de la peine complémentaire de l'inéligibilité pendant dix ans au plus, aux chambres, conseils, commissions et autres organismes institués par le présent décret.
 
-La suspension est assortie de la peine complémentaire de l'inéligibilité pendant dix ans aux mêmes organismes.
+La suspension peut être générale ou limitée à une ou plusieurs formes ou catégories d'entreprises. Dans tous les cas,  elle est assortie de la peine complémentaire de l'inéligibilité pendant dix ans aux organismes mentionnés au deuxième alinéa.

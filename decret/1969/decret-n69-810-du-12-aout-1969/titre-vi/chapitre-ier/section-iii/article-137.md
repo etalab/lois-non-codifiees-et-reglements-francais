@@ -1,7 +1,3 @@
 # Article 137
 
-Dans le délai de quinze jours qui suit la publication au Bulletin officiel des annonces [*civiles et*] commerciales de la liste sur laquelle la société est inscrite, un exemplaire des statuts est déposé par un gérant au siège de la compagnie régionale dont la société est membre, pour être versé au dossier de la société [*formalités*].
-
-Jusqu'à ce dépôt, les dispositions des statuts sont inopposables aux tiers qui peuvent toutefois s'en prévaloir.
-
-Tout intéressé peut obtenir du conseil régional la délivrance [*communication*] à ses frais d'un extrait des statuts contenant, à l'exclusion de toutes autres indications, l'identité des associés, l'adresse du siège social, la raison sociale, la durée pour laquelle la société est constituée, les clauses relatives aux pouvoirs et à la responsabilité des associés et à la dissolution de la société [*information du public*].
+Par dérogation aux articles 22, 24 et 26 du décret n° 78-704 du 3 juillet 1978 relatif à l'application de la loi n° 78-9 du 4 janvier 1978 modifiant le titre IX du livre III du Code civil, la société est dispensée d'insérer dans un journal d'annonces légales les avis prévus auxdits articles.

@@ -1,3 +1,3 @@
 # Article 6
 
-Les sociétés civiles professionnelles de commissaires aux comptes sont inscrites sur la liste par la commission régionale [*accès à la profession*] lorsqu'elles sont constituées en conformité avec les dispositions de la loi susvisée du 29 novembre 1966 et du titre VI du présent décret.
+Les sociétés de commissaires aux comptes mentionnées au deuxième alinéa de l'article 218 de la loi n° 66-537 du 24 juillet 1966 modifiée sur les sociétés commerciales sont inscrites par la commission régionale d'inscription instituée par l'article 219-1 de ladite loi.

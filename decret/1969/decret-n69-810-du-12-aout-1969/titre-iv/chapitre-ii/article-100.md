@@ -1,5 +1,5 @@
 # Article 100
 
-La commission nationale d'inscription est constituée en chambre nationale de discipline pour statuer [*compétence*] sur l'appel des décisions des chambres régionales de discipline [*recours*].
+Les fonctions du ministère public auprès de la chambre nationale de discipline sont exercées par un commissaire du Gouvernement et son suppléant désignés par le garde des sceaux, après avis du procureur général près la Cour de cassation, parmi les avocats de cette juridiction.
 
-Un commissaire du gouvernement et un commissaire du gouvernement suppléant auprès de la chambre nationale de discipline sont désignés par arrêté du garde des sceaux, ministre de la justice.
+La chambre nationale de discipline est assistée du rapporteur général et des rapporteurs mentionnés à l'article 16-1 du présent décret. Son secrétariat est assuré par le secrétaire de la commission nationale d'inscription.

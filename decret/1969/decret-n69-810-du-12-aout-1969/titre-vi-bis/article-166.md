@@ -1,5 +1,3 @@
 # Article 166
 
-Tout associé qui a été condamné à la peine disciplinaire de la suspension pour une durée égale ou supérieure à trois mois peut être contraint, par l'unanimité des autres associés, de se retirer de la société [*sanctions - effets de la suspension - exclusion*].
-
-Ses parts sociales sont alors cédées dans les conditions prévues à l'article 151 (alinéa 2).
+Le siège des sociétés de commissaires aux comptes doit être fixé dans le ressort de la compagnie régionale qui compte le plus grand nombre d'actionnaires ou d'associés inscrits sur la liste de la cour d'appel. Si deux ou plusieurs compagnies régionales comptent le même nombre d'actionnaires ou associés, le siège peut être fixé au choix des actionnaires ou associés dans l'une de celles ci.

@@ -1,9 +1,3 @@
 # Article 101
 
-Peuvent interjeter appel des décisions de la chambre régionale de discipline [*qualité pour agir*] :
-
-Le procureur général près la cour d'appel ;
-
-Le syndic de la chambre régionale [*pouvoirs*], soit d'office, soit sur l'injonction qui lui en est faite par le président de la compagnie régionale ou le président de la compagnie nationale ;
-
-L'intéressé, en cas de condamnation.
+Dans un délai d'un mois à compter de la notification qui leur est faite, le commissaire du Gouvernement, le procureur général près la cour d'appel, le président de la compagnie nationale ou de la compagnie régionale à laquelle appartient le commissaire aux comptes et, en cas de condamnation, le commissaire aux comptes interessé peuvent interjeter appel de la décision de la chambre régionale [*qualité pour agir*].

@@ -5,7 +5,7 @@
 - [Titre II : Organisation professionnelle](titre-ii)
 - [Titre III : Droits et obligations des commissaires aux comptes.](titre-iii)
 - [Titre IV : Discipline](titre-iv)
-- [Titre V : Honoraires et tarifs.](titre-v)
+- [Titre V : Programme de travail et rémunération.](titre-v)
 - [Titre VI : Sociétés civiles professionnelles de commissaires aux comptes.](titre-vi)
 - [Titre VI bis : Sociétés de commissaires aux comptes autres que les sociétés civiles professionnelles.](titre-vi-bis)
 - [Titre VI ter : Dispositions communes à toutes les sociétés de commissaires aux comptes](titre-vi-ter)

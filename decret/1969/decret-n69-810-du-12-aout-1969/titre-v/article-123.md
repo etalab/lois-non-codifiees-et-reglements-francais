@@ -1,3 +1,5 @@
 # Article 123
 
-A la demande du commissaire aux comptes, la société peut verser des honoraires dont le montant est supérieur à celui résultant de l'application du barème [*dépassement*].
+Le montant de la vacation horaire est fixé d'un commun accord entre le ou les commissaires aux comptes ou la personne morale.
+
+Les frais de déplacement et de séjour engagés par les commissaires aux comptes dans l'exercice de leurs fonctions sont remboursés par la personne morale.

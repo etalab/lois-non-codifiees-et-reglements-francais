@@ -1,4 +1,4 @@
-# Titre V : Honoraires et tarifs.
+# Titre V : Programme de travail et rémunération.
 
 - [Article 119](article-119.md)
 - [Article 120](article-120.md)

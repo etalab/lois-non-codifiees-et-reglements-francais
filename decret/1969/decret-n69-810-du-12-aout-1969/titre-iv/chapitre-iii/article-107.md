@@ -1,3 +1,5 @@
 # Article 107
 
-En cas de suspension à temps [*effets*], le président de la compagnie régionale doit informer aussitôt les sociétés dans lesquelles le commissaire suspendu exerce ses fonctions [*formalités*].    Si la société n'est pas pourvue d'un commissaire [*aux comptes*] suppléant et à défaut de réunion de l'assemblée des associés ou des actionnaires dans le délai de deux mois, la société est habilitée à demander au président du tribunal de commerce, statuant sur requête, la désignation d'un commissaire qui exercera ses fonctions dans la société en remplacement du commissaire suspendu. Celui-ci ne reprendra ses fonctions qu'après l'assemblée appelée à statuer sur les comptes [*annuels*] de la société, qui suivra l'expiration de la période de suspension, à moins que ladite assemblée ne l'ait entre temps régulièrement relevé de ses fonctions.
+Dès qu'une décision de suspension est devenue définitive, le président de la compagnie régionale informe les entreprises auprès desquelles l'exercice de la mission du commissaire aux comptes est suspendu [*effets - formalités*].
+
+La suspension est un des cas d'empêchement pour l'application de l'article 223 de la loi du 24 juillet 1966 précitée.

@@ -1,5 +1,5 @@
 # Article 178
 
-Le liquidateur convoque les associés ou leurs ayants droit en fin de liquidation pour statuer sur le compte définitif, se faire délivrer quitus et constater la clôture de la liquidation.
+L'actionnaire ou l'associé auquel il est temporairement interdit d'exercer ses fonctions, en application de l'article 112 conserve pendant la durée de l'interdiction, sa qualité d'actionnaire ou d'associé, avec tous les droits et obligations qui en découlent ; il ne perçoit dans ce cas que la rémunération de ses parts de capital.
 
-L'assemblée de clôture statue aux conditions prévues pour l'approbation des comptes annuels. Si elle ne peut délibérer ou refuse d'approuver les comptes du liquidateur, le tribunal de commerce du lieu du siège social statue à la demande du liquidateur ou de tout intéressé.
+Le commissaire aux comptes membre de l'organe de gestion de direction, d'administration ou de surveillance d'une société de commissaires aux comptes, ne peut pas exercer ses fonctions au sein de l'un de ces organes pendant la durée de la mesure d'interdiction temporaire qui le frappe.

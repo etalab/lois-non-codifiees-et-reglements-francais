@@ -1,43 +1,21 @@
 # Article 120
 
-Le montant des honoraires, pour un exercice social, est proportionnel à la somme résultant du montant du bilan, augmenté du montant du compte d'exploitation générale et diminué de la valeur des stocks à la clôture de l'exercice [*calcul*].
+Les diligences estimées nécessaires à l'exécution du programme de travail doivent comporter pour un exercice, en fonction du montant du bilan de la personne morale, augmenté du montant des produits d'exploitation et des produits financiers, hors T.V.A., un nombre d'heures de travail normalement compris entre les chiffres suivants :
 
-Il est fixé selon le barème suivant :
+Montant total du bilan et des produits d'exploitation et des produits financiers, hors taxes, et nombre normal d'heures de travail :
 
-Montant du bilan (1) :
+- jusqu'à 2 millions : 20 à 35.
 
-- jusqu'à 300.000 F ; taux pour 1.000 F : forfait invariable ; total pour chaque tranche ; 1.800 F.
+- de 2 à 5 millions : 30 à 50.
 
-- de 300.000 F à 1 million de francs ; taux pour 1.000 F : 0,30 ; total pour chaque tranche ; 210 F.
+- de 5 à 10 millions : 40 à 60.
 
-- de 1 million à 3 millions de francs ; taux pour 1.000 F : 0,20 ; total pour chaque tranche : 400 F.
+- de 10 à 20 millions : 50 à 80.
 
-- de 3 millions à 10 millions de francs ; taux pour 1.000 F :
+- de 20 à 50 millions : 70 à 120.
 
-0,10 ; total pour chaque tranche : 700 F.
+- de 50 à 100 millions : 100 à 200.
 
-- de 10 millions à 30 millions de francs ; taux pour 1.000 F ; 0,06 ; total pour chaque tranche : 1.200 F.
+- de 100 à 300 millions : 180 à 360.
 
-- de 30 millions à 100 millions de francs ; taux pour 1.000 F :
-
-0,03 ; total pour chaque tranche ; 2.100 F.
-
-- de 100 millions à 300 millions de francs ; taux pour 1.000 F ; 0,025 ; total pour chaque tranche : 5.000 F.
-
-- de 300 millions à 1,5 milliard de francs ; taux pour 1.000 F :
-
-0,010 ; total pour chaque tranche : 12.000 F.
-
-- de 1,5 milliard à 3 milliards de francs ; taux pour 1.000 F :
-
-0,007 ; total pour chaque tranche ; 10.500 F.
-
-- de 3 milliards à 4,5 milliards de francs ; taux pour 1.000 F :
-
-0,003 ; total pour chaque tranche ; 4.500 F.
-
-- au-delà de 4,5 milliards de francs ; taux pour 1.000 F :
-
-0,002.
-
-(1) : plus montant du compte d'exploitation générale, moins valeur des stocks à la clôture de l'exercice.
+- de 300 à 800 millions : 300 à 700.
