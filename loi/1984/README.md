@@ -26,6 +26,7 @@
 - [Loi n° 84-609 du 16 juillet 1984](loi-n-84-609-du-16-juillet-1984)
 - [Loi n° 84-622 du 17 juillet 1984](loi-n-84-622-du-17-juillet-1984)
 - [Loi n° 84-7 du 3 janvier 1984](loi-n-84-7-du-3-janvier-1984)
+- [Loi n° 84-741 du 1 août 1984](loi-n-84-741-du-1-aout-1984)
 - [Loi n°83-660 du 21 juillet 1983](loi-n83-660-du-21-juillet-1983)
 - [Loi n°84-1 du 2 janvier 1984](loi-n84-1-du-2-janvier-1984)
 - [Loi n°84-4 du 3 janvier 1984](loi-n84-4-du-3-janvier-1984)
@@ -33,4 +34,5 @@
 - [Loi n°84-512 du 29 juin 1984](loi-n84-512-du-29-juin-1984)
 - [Loi n°84-52 du 26 janvier 1984](loi-n84-52-du-26-janvier-1984)
 - [Loi n°84-610 du 16 juillet 1984](loi-n84-610-du-16-juillet-1984)
+- [Loi n°84-743 du 1 août 1984](loi-n84-743-du-1-aout-1984)
 - [Loi n°84-9 du 4 janvier 1984](loi-n84-9-du-4-janvier-1984)
