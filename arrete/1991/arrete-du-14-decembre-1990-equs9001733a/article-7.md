@@ -2,15 +2,11 @@
 
 Pour dispenser l'enseignement, l'établissement doit :
 
-1° Délivrer une formation initiale d'une durée minimum de vingt heures. Dans tous les cas, le volume de conduite effective par élève ne doit pas être inférieur à quinze heures.
+1° Délivrer une formation initiale comprenant un volume minimal de conduite effective en circulation sur la voie publique ne pouvant être inférieur à vingt heures par élève.
 
-La préparation à l'épreuve théorique générale de l'examen du permis de conduire qui doit être assurée pendant cette période n'est pas incluse dans ces vingt heures.
+Toutefois, certains éléments de la formation initiale, notamment les contenus prévus à la première étape du livret d'apprentissage, peuvent être enseignés en dehors de la circulation.
 
-Par élève, la durée d'une leçon de conduite au volant ne peut excéder deux heures consécutives par jour. En outre, l'interruption entre deux leçons de conduite au volant doit être au moins égale au double de la durée de la leçon précédente.
-
-Certains éléments de la formation initiale, notamment les contenus prévus à la première étape du programme de formation, peuvent être enseignés en dehors de la circulation.
-
-Dans ce cas, la conduite effective en circulation sur la voie publique ne peut être inférieure à douze heures par élève.
+Par élève, la durée d'une leçon de conduite au volant ne peut excéder deux heures consécutives. En outre, l'interruption entre deux leçons de conduite au volant doit être au moins égale à la durée de la leçon précédente.
 
 2° Procéder aux évaluations prévues dans le livret d'apprentissage. Ces évaluations visent, d'une part, à valider séparément les objectifs pédagogiques contenus dans chaque étape de la formation et, d'autre part, à valider de façon globale chaque étape que comporte la formation initiale.
 

@@ -9,3 +9,5 @@ Trois fonctionnaires ou anciens fonctionnaires ;
 Six agents de direction ou agents comptables des organismes des divers régimes de sécurité sociale.
 
 Le jury peut s'adjoindre des examinateurs spécialisés pour certaines matières.
+
+Des correcteurs peuvent être désignés pour participer avec les membres du jury à la correction des trois épreuves obligatoires d'admissibilité. Ils délibèrent avec le jury avec voix consultative pour l'attribution de notes des épreuves qu'ils ont corrigées.

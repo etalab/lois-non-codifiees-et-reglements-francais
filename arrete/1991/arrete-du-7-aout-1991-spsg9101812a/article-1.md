@@ -58,6 +58,10 @@ Commission nationale du contentieux de la tarification sanitaire et sociale.
 
 Commissions interrégionales de la tarification sanitaire et sociale (loi n° 90-86 du 23 janvier 1990 et décret n° 90-359 du 11 avril 1990 précité).
 
+Comité national de l'organisation sanitaire et sociale :
+
+section sanitaire (décret n° 91-1410 du 31 décembre 1991 ; articles R. 712-18 et R. 712-19 du code de la santé publique) ; collège national d'experts (décret n° 91-1411 du 31 décembre 1991 ; article D. 712-4 du code de la santé publique).
+
 Direction de la sécurité sociale
 
 Commission fixant les conditions d'inscription sur la liste d'aptitude aux emplois de direction et d'agent comptable des caisses relevant des organisations autonomes d'assurance vieillesse des travailleurs non salariés des professions artisanales, industrielles et commerciales et des caisses du régime d'assurance maladie et maternité des travailleurs salariés des professions non agricoles.
@@ -110,7 +114,9 @@ Direction de la population et des migrations
 
 Conseil national des populations immigrées.
 
-(Décret n° 84-640 du 17 juillet 1984 instituant le Conseil national des populations immigrées. - Décret n° 85-455 du 23 avril 1985 modifiant le décret précité. - Arrêté du 17 juin 1989 portant nomination du Conseil national des populations immigrées.)
+(Décret n° 84-640 du 17 juillet 1984 instituant le Conseil
+
+national des populations immigrées. - Décret n° 85-455 du 23 avril 1985 modifiant le décret précité. - Arrêté du 17 juin 1989 portant nomination du Conseil national des populations immigrées.)
 
 Direction générale de la santé
 
