@@ -1,0 +1,3 @@
+# Article 6
+
+Outre les congés non rémunérés accordés en vue de favoriser la formation de cadres et d'animateurs pour la jeunesse prévus par le 8° de l'article 57 de la loi du 26 janvier 1984 précitée et les congés pour formation syndicale accordés dans les conditions prévues par le décret n° 85-552 du 22 mai 1985, l'agent non titulaire en activité peut bénéficier d'un congé pour formation professionnelle dans les conditions prévues par le décret n° 85-1076 du 9 octobre 1985 pris pour l'application des articles 4, 5 et 6 de la loi n° 84-594 du 12 juillet 1984 et relatif à l'exercice du droit à la formation des agents de la fonction publique territoriale.
