@@ -1,6 +1,6 @@
 # Article 23
 
-Les candidats reçus au concours institué à l'article 20 ci-dessus sont nommés en qualité de conseillers d'orientation-psychologues stagiaires par arrêté du ministre chargé de l'éducation.
+Les candidats reçus aux concours institués aux l'articles 20 et 22-1 ci-dessus sont nommés en qualité de conseillers d'orientation-psychologues stagiaires par arrêté du ministre chargé de l'éducation.
 
 Ceux qui possèdent déjà la qualité de fonctionnaire titulaire de l'Etat ou des collectivités territoriales ou des établissements publics qui en dépendent sont placés en position de détachement pour la durée du stage.
 
