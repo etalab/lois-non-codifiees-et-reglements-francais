@@ -363,6 +363,7 @@
 - [Décret n°2002-74 du 11 janvier 2002 (ECOB0160010D)](decret-n2002-74-du-11-janvier-2002-ecob0160010d)
 - [Décret n°2002-76 du 11 janvier 2002 (JUSC0120749D)](decret-n2002-76-du-11-janvier-2002-jusc0120749d)
 - [Décret n°2002-77 du 11 janvier 2002 (JUSC0120752D)](decret-n2002-77-du-11-janvier-2002-jusc0120752d)
+- [Décret n°2002-931 du 11 juin 2002 (JUSC0220160D)](decret-n2002-931-du-11-juin-2002-jusc0220160d)
 - [Décret n°91-351 du 11 avril 1991 (ECOZ9100021D)](decret-n91-351-du-11-avril-1991-ecoz9100021d)
 - [Décret n°92-239 du 11 mars 1992 (ECOM9200049D)](decret-n92-239-du-11-mars-1992-ecom9200049d)
 - [Décret n°2001-230 du 12 mars 2001 (INTM0100006D)](decret-n2001-230-du-12-mars-2001-intm0100006d)
