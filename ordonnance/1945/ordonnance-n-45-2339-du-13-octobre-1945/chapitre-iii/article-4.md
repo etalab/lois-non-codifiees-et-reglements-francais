@@ -14,7 +14,7 @@ Tout directeur d'une entreprise de spectacles doit remplir les conditions suivan
 
 6° Offrir des garanties artistiques considérées comme suffisantes par la commission de la licence visée à l'alinéa 7° ci-dessous ;
 
-7° Etre titulaire d'une licence temporaire et définitive délivrée par arrêté motivé du ministre de l'éducation nationale après avis d'une commission dont la composition et le fonctionnement seront fixés par un décret.
+7° Etre titulaire d'une licence temporaire et définitive délivrée par arrêté motivé après avis d'une commission dont la composition et le fonctionnement seront fixés par un décret.
 
 L'entreprise de spectacles qui serait dirigée par une personne qui ne posséderait pas la licence définitive ou dont la licence temporaire serait arrivée à expiration sera fermée dans les conditions prévues à l'alinéa de l'article 5.
 
