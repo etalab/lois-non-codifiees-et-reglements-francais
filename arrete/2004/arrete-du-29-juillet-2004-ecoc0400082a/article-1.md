@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé au sein de la direction générale de la concurrence, de la consommation et de la répression des fraudes un traitement automatisé d'informations nominatives dénommé messagerie électronique et annuaire professionnel. Le traitement permet à tout agent de la DGCCRF de trouver dans un annuaire l'adresse de messagerie d'un autre agent de la direction (recherché par son nom, sa fonction ou son service d'appartenance) afin d'échanger des documents et des messages. Tout agent pourra lui-même recevoir des messages et des documents en provenance d'autres systèmes de messagerie extérieurs à la DGCCRF.

@@ -60,7 +60,9 @@ Médecins-conseils régionaux adjoints (à l'exception de ceux des régions de L
 
 Echelle 135 :
 
-Praticiens-conseils chefs de service responsables d'une mission d'intérêt national à l'échelon national du service médical ;
+Praticiens-conseils chefs de service responsables d'une mission d'intérêt national à l'échelon national du service médical,
+
+Médecins-conseils régionaux des départements d'outre-mer,
 
 Médecins-conseils régionaux adjoints des régions de Lille, Lyon et Marseille ;
 
@@ -68,7 +70,7 @@ Echelle 140 :
 
 Médecin-conseil régional adjoint de la région de Paris ;
 
-Médecins-conseils régionaux (à l'exception de ceux des régions de Lille, Lyon, Marseille et Paris) ;
+Médecins-conseils régionaux (à l'exception de ceux des départements d'outre-mer, des régions de Lille, Lyon, Marseille et Paris) ;
 
 Echelle 143 : médecins-conseils régionaux des régions de Lille, Lyon et Marseille ;
 
