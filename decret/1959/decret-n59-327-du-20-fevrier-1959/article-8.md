@@ -4,6 +4,4 @@ Les personnes formulant une demande sur le fondement du code des pensions milita
 
 1° Les dispositions de ce décret relatives aux conditions de ressources, de nationalité et de séjour ne sont pas applicables ;
 
-2° L'article 119 de ce décret n'est pas applicable ;
-
-La contribution de l'Etat à la rétribution des avocats qui prêtent leurs concours au bénéficiaire de l'aide juridictionnelle est déterminée en fonction du produit de l'unité de valeur mentionnée à l'article 90 de ce décret et d'un coefficient égal à 20.
+2° L'article 119 de ce décret n'est pas applicable.

@@ -526,6 +526,10 @@ I- VIII.8. Assistance d'un prévenu devant le tribunal correctionnel ou le tribu
 
 II- 8 (3) (4)
 
+I- VIII.9. Assistance d'une personne faisant l'objet de la procédure de comparution sur reconnaissance préalable de culpabilité.
+
+II- 5 (3)
+
 I- PROCÉDURES : IX. - Procédures contraventionnelles
 
 II- COEFFICIENTS
@@ -540,9 +544,9 @@ II- COEFFICIENTS
 
 I- X.1. Assistance d'un prévenu devant la chambre des appels correctionnels
 
-II- 8 (3)
+II- 8 (3) (4)
 
-I- X.2. Assistance d'un prévenu pour les appels des ordonnances du juge d'instruction et du juge des libertés et de la détention (5) et autres procédures devant la chambre de l'instruction (y compris extradition)
+I- X.2. Assistance d'un prévenu pour les appels des ordonnances du juge d'instruction et du juge des libertés et de la détention (5) et autres procédures devant la chambre de l'instruction (y compris extradition et procédures de remise résultant de l'exécution d'un mandat d'arrêt européen)
 
 II- 5
 
@@ -550,27 +554,19 @@ Les missions d'assistance pour les phases d'instruction et de jugement devant le
 
 Les prestations devant la chambre de l'instruction et les tribunaux des forces armées sont rétribuées de la même façon que pour la phase procédurale à l'occasion de laquelle ils sont amenés à statuer.
 
-I- PROCÉDURES : XI. - Procédure d'application des peines
+I- PROCÉDURES : XI. - Procédures d'application des peines
 
 II- COEFFICIENTS
 
-I- XI.1. Assistance d'un condamné pour un débat contradictoire devant le juge de l'application des peines ou le juge des enfants statuant en matière d'application des peines
+I- XI.1. Assistance d'un condamné devant le juge de l'application des peines ou le juge des enfants statuant en matière d'application des peines, le tribunal de l'application des peines ou le tribunal pour enfants statuant en matière d'application des peines
 
 II- 4 (6)
 
-I- XI.2. Représentation d'un condamné pour un débat contradictoire devant la chambre des appels correctionnels statuant en matière d'application des peines
+I- XI.2. Représentation d'un condamné devant la chambre de l'application des peines de la cour d'appel, son président ou la chambre spéciale des mineurs
 
 II- 4 (6)
 
-I- XI.3. Assistance d'un condamné pour un débat contradictoire devant la juridiction régionale de la libération conditionnelle
-
-II- 4 (6)
-
-I- XI.4. Représentation d'un condamné pour un débat contradictoire devant la juridiction nationale de la libération conditionnelle
-
-II- 4
-
-I- XI.5. Assistance d'un condamné lors du recueil de son consentement pour le placement sous surveillance électronique
+I- XI.3. Assistance d'un condamné lors du recueil de son consentement pour le placement sous surveillance électronique
 
 II- 2
 
@@ -596,17 +592,15 @@ I- XIV.1. Affaires au fond
 
 II- 20 (8)
 
-I- XIV.2. Référé suspension et référé fiscal
+I- XIV.2. Référé fiscal
 
 II- 6
 
-I- XIV.3. Référé liberté et référé provision
+I- XIV.3. Référé suspension, référé liberté, référé conservatoire
 
 II- 8
 
-I- XIV.4. Référé conservatoire
-
-II- 4
+I- XIV.4. Autres référés et procédures spéciales de suspension. II- 4
 
 I- XIV.5. Difficulté d'exécution d'une décision
 
@@ -620,9 +614,17 @@ PROCÉDURES : XV. - Commission des recours des réfugiés
 
 COEFFICIENTS : 8
 
-PROCÉDURES : XVI. - Autres juridictions administratives, sauf Conseil d'Etat
+PROCÉDURES : XVI. - Assistance d'un requérant devant le tribunal départemental des pensions ou la cour régionale des pensions et les autres juridictions administratives, sauf le Conseil d'Etat.
 
-COEFFICIENTS : 14
+COEFFICIENTS : -
+
+I- XVI.1 Assistance d'un requérant devant le tribunal départemental des pensions ou la cour régionale des pensions
+
+II- 20
+
+I- XVI.2 Autres juridictions administratives
+
+II- 14
 
 I- PROCÉDURES : XVII. - Commissions administratives
 
