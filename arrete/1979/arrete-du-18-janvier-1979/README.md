@@ -1,4 +1,4 @@
-# Arrêté du 18 janvier 1979 fixant la liste des diplômes, titres ou qualifications ouvrant accès aux concours sur épreuves pour le recrutement des manipulateurs d'électroradiologie et à l'échelon exceptionnel de l'emploi de manipulateur d'électroradiologie des établissements relevant du Livre IX du code de la santé publique.
+# Arrêté du 18 janvier 1979 fixant la liste des diplômes, titres ou qualifications ouvrant accès aux concours sur épreuves pour le recrutement des laborantins et à l'échelon exceptionnel de l'emploi de laborantin dans les établissements relevant du Livre IX du code de la santé publique.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

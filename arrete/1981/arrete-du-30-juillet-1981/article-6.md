@@ -1,0 +1,3 @@
+# Article 6
+
+Les autorisations visées à l'article 2 du présent arrêté permettent la pratique de la chasse au vol pendant la période où la chasse est ouverte. Elles permettent en outre la mise en condition et l'entraînement des oiseaux depuis la date de la clôture générale de la chasse jusqu'au 30 avril à condition que cet entraînement soit effectué sans chien et sur des animaux d'espèces classées nuisibles dans le département considéré et à partir du 1er juillet jusqu'à la date d'ouverture de la chasse à condition que cet entraînement soit effectué soit sur du gibier d'élevage marqué, soit sur des oiseaux classés nuisibles dans le département.
