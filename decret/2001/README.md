@@ -46,6 +46,8 @@
 - [Décret n°98-844 du 22 septembre 1998 (INTM9800014D)](decret-n98-844-du-22-septembre-1998-intm9800014d)
 - [Décret n°2001-660 du 23 juillet 2001 (MAEF0110036D)](decret-n2001-660-du-23-juillet-2001-maef0110036d)
 - [Décret n°2001-661 du 23 juillet 2001 (MCCT0100335D)](decret-n2001-661-du-23-juillet-2001-mcct0100335d)
+- [Décret n°2001-664 du 24 juillet 2001 (INTC0100178D)](decret-n2001-664-du-24-juillet-2001-intc0100178d)
+- [Décret n°2001-665 du 24 juillet 2001 (INTB0100189D)](decret-n2001-665-du-24-juillet-2001-intb0100189d)
 - [Décret n°71-708 du 25 août 1971](decret-n71-708-du-25-aout-1971)
 - [Décret n°91-247 du 25 février 1991 (DOMX9100024D)](decret-n91-247-du-25-fevrier-1991-domx9100024d)
 - [Décret n°96-1027 du 26 novembre 1996 (DOMP9600026D)](decret-n96-1027-du-26-novembre-1996-domp9600026d)
