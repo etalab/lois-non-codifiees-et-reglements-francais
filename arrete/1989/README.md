@@ -330,6 +330,7 @@
 - [Arrêté du 18 octobre 1989 (SPSH8901943A)](arrete-du-18-octobre-1989-spsh8901943a)
 - [Arrêté du 18 septembre 1989 (AGRR8901774A)](arrete-du-18-septembre-1989-agrr8901774a)
 - [Arrêté du 18 septembre 1989 (ECOT8916074A)](arrete-du-18-septembre-1989-ecot8916074a)
+- [Arrêté du 18 septembre 1989 (PTTT8900878A)](arrete-du-18-septembre-1989-pttt8900878a)
 - [Arrêté du 18 mai 1989 (MCCB8900142A)](arrete-du-18-mai-1989-mccb8900142a)
 - [Arrêté du 19 avril 1989 (DEFD8901368A)](arrete-du-19-avril-1989-defd8901368a)
 - [Arrêté du 19 avril 1989 (SPSH8900939A)](arrete-du-19-avril-1989-spsh8900939a)

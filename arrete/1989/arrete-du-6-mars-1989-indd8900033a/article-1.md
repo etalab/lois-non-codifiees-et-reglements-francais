@@ -4,9 +4,7 @@ La taxe parafiscale instituée par l'article 1er du décret n° 89-146 du 6 mars
 
 1° Pâtes, papiers et cartons fabriqués et consommés en France :
 
-Pâtes à papiers (n°s 47.01 à 47.06 inclus du tarif des douanes) :
-
-0,2 p. 100 [*pourcentage*] ;
+Pâtes à papiers marchandes (n°s 47.01 à 47.06 inclus du tarif des douanes) : 0,2 p. 100 [*pourcentage*] ;
 
 Papier journal (n° 48.01 du tarif des douanes) : 0,15 p. 100 ;
 
