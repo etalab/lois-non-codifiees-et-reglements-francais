@@ -1,0 +1,3 @@
+# Article 6
+
+Lorsque la commission de conciliation instituée par l'article 4 de l'ordonnance susvisée du 30 décembre 1958 se réunit pour régler des difficultés nées à l'occasion de la mise en oeuvre des dispositions relatives à l'enseignement de la biologie dispense aux étudiants en pharmacie dans le laboratoire du centre hospitalier régional faisant partie du centre hospitalière et universitaire ou à l'occasion de l'élaboration de la liste des laboratoires de biologie du centre hospitalier régional susceptibles d'être places totalement ou partiellement en dehors du centre hospitalier et universitaire en application de l'article 2 de la loi susvisée du 7 juillet 1971, les dispositions de l'article 3 de ladite loi sont applicables.
