@@ -571,7 +571,6 @@
 - [Arrêté du 27 juillet 1988 (SPSS8801070A)](arrete-du-27-juillet-1988-spss8801070a)
 - [Arrêté du 27 octobre 1988 (SPSG8801620A)](arrete-du-27-octobre-1988-spsg8801620a)
 - [Arrêté du 27 octobre 1988 (SPSS8801615A)](arrete-du-27-octobre-1988-spss8801615a)
-- [Arrêté du 27 septembre 1988 (SPSP8801521A)](arrete-du-27-septembre-1988-spsp8801521a)
 - [Arrêté du 27 mai 1988 (JUSC8820357A)](arrete-du-27-mai-1988-jusc8820357a)
 - [Arrêté du 28 avril 1988 (ASES8800693A)](arrete-du-28-avril-1988-ases8800693a)
 - [Arrêté du 28 avril 1988 (INTA8800168A)](arrete-du-28-avril-1988-inta8800168a)
