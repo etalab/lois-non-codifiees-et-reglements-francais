@@ -6,6 +6,6 @@ Les taux collectif, mixte ou réel sont applicables aux établissements nouvelle
 
 Le nombre de salariés des établissements nouvellement créés à prendre en compte à l'expiration de la première, de la deuxième et de la troisième année suivant l'année de création pour déterminer leur mode de tarification et, le cas échéant, celui des établissements existants de l'entreprise dont ils relèvent, correspond respectivement au tiers, aux deux tiers et à la totalité de l'effectif de ces établissements.
 
-En cas d'application des taux réel et mixte ci-dessus, les taux applicables aux établissements nouvellement créés sont déterminés en tenant compte notamment des résultats statistiques qui leur sont propres et afférents aux années civiles, complètes ou non, écoulées depuis leur création.
+En cas d'application des taux réel et mixte ci-dessus, les taux applicables aux établissements nouvellement créés sont déterminés en tenant compte notamment des résultats statistiques qui leur sont propres et afférents aux années civiles connues, complètes ou non, écoulées depuis leur création.
 
 Les dispositions de l'article 8 ci-dessus s'appliquent aux établissements nouvellement créés dès la deuxième année civile qui suit l'année de création.

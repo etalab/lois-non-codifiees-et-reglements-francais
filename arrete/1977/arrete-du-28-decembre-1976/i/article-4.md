@@ -10,9 +10,9 @@ a) Des capitaux représentatifs des rentes attribuées, en premier règlement d�
 
 b) Des capitaux correspondant aux accidents mortels dont le caractère professionnel a été reconnu au cours de la même période, que la victime ait laissé ou non des ayants droit,
 
-et la masse totale des salaires payés au personnel, ces salaires étant ceux définis à l'article L. 120 du code de la sécurité sociale.
+et la masse totale des salaires payés au personnel, ces salaires étant ceux définis à l'article L. 120 du code de la sécurité sociale.     c) Des indemnités en capital attribuées au cours de la même période.
 
-Les capitaux visés au paragraphe a ci-dessus, qui comprennent les frais d'appareillage, sont évalués forfaitairement à trente fois le montant annuel des rentes. Les capitaux visés au paragraphe b, réserve faite, sont évalués forfaitairement à dix-huit fois le montant du salaire minimum défini à l'article L. 452 du code de la sécurité sociale.
+Les éléments visés aux a, b et c ci-dessus sont pris en compte dans les conditions fixées pour le régime général de la sécurité sociale par le 1° de l'article 4 de l'arrêté du 1er octobre 1976.
 
 3° Une majoration forfaitaire correspondant à la couverture des accidents du trajet et fixée en pourcentage des salaires.
 

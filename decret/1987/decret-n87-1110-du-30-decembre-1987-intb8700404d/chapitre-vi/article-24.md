@@ -1,0 +1,5 @@
+# Article 24
+
+Les fonctionnaires intégrés dans les grades d'agent administratif ou d'agent administratif qualifié qui avaient été recrutés avant la publication du présent décret dans les emplois de receveur, de téléphoniste ou de téléphoniste principal et qui continuent d'exercer ces fonctions, conservent à titre personnel la possibilité d'avancer, à partir du grade d'agent administratif qualifié, après au moins six ans de services effectifs dans les fonctions précitées, au grade défini à l'article précédent, avec éventuel classement au groupe supérieur de rémunération dans les conditions prévues à l'article 4 du décret n° 87-1107 du 30 décembre 1987.
+
+Les bénéficiaires de ces dispositions ne doivent pas représenter un effectif supérieur à 25 p. 100 de l'effectif global des agents administratifs qualifiés mentionnés à l'alinéa précédent, qui exercent des fonctions de receveur ou de téléphoniste et des fonctionnaires qui, antérieurement à leur intégration, exerçaient les fonctions de receveur principal ou de chef de standard. Lorsque cet effectif est inférieur à quatre, une nomination peut être prononcée.

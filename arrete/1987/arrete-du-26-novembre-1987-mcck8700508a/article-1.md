@@ -1,0 +1,3 @@
+# Article 1
+
+Il est institué, auprès du Centre national de la cinématographie, une commission chargée de donner un avis au ministre de la culture et de la communication sur l'octroi de dérogations aux délais de diffusion des oeuvres cinématographiques prévus pour les services de télévision diffusés en clair par voie hertzienne ou par satellite, y compris ceux qui sont assurés par les sociétés nationales de programme, pour les services de télévision comportant des programmes soumis à des conditions d'accès particulières et qui sont financés par un abonnement propre au service et pour les services de télévision distribués par câble.

@@ -1,3 +1,3 @@
 # Article 8
 
-Le directeur de la sécurité sociale au ministère des affaires sociales et de l'emploi est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le directeur des personnels d'enseignement supérieur est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

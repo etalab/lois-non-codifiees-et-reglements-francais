@@ -1,0 +1,3 @@
+# Article 37
+
+Par dérogation aux dispositions de l'article 34, les receveurs spéciaux des offices publics d'habitations à loyer modéré de 3 000 à 5 000 logements sont intégrés dans le grade de rédacteur chef. A cette fin, il est créé à la base du grade de rédacteur chef trois échelons provisoires dotés respectivement des indices bruts 267, 307 et 344 et au sommet de ce grade un échelon terminal provisoire doté de l'indice brut 597. Les durées minimales et maximales d'ancienneté dans les échelons provisoires créés à la base du grade sont respectivement de 1 an et de 1 an 6 mois pour le 1er échelon provisoire et de 1 an 6 mois et de 2 ans pour chacun des deux autres échelons provisoires.

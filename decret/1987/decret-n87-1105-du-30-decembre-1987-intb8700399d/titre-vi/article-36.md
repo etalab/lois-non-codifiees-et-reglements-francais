@@ -1,0 +1,3 @@
+# Article 36
+
+Par dérogation aux dispositions de l'article 34, les receveurs spéciaux des offices publics d'habitations à loyer modéré de 1 500 à 3 000 logements et les directeurs des offices publics d'habitations à loyer modéré de 300 à 800 logements sont intégrés dans le grade de rédacteur chef. A cette fin, il est créé à la base du grade de rédacteur chef trois échelons provisoires dotés respectivement des indices bruts 267, 307 et 344. Les durées minimales et maximales d'ancienneté dans ces échelons provisoires sont respectivement de 1 an et de 1 an 6 mois pour le premier échelon provisoire et de 1 an 6 mois et de 2 ans pour chacun des deux autres échelons provisoires.

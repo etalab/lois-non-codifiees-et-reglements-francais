@@ -1,0 +1,3 @@
+# Article 24
+
+L'intégration des fonctionnaires pour la constitution initiale du cadre d'emplois intervient à l'échelon du grade comportant un indice égal ou immédiatement supérieur à celui dont bénéficie le fonctionnaire dans son grade ou emploi d'origine. Les fonctionnaires conservent à cette occasion, dans la limite de la durée maximale de services exigée pour l'accès à l'échelon supérieur de leur nouveau grade, l'ancienneté d'échelon acquise dans leur précédent grade lorsque l'avantage qui résulte de leur intégration est inférieur à celui qu'ils auraient retiré d'un avancement d'échelon dans leur ancien grade ou emploi.

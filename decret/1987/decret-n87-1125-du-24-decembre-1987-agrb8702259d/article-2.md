@@ -1,0 +1,5 @@
+# Article 2
+
+La taxe est assise [*assiette, base d'imposition*] sur les ventes hors taxes des produits mentionnés à l'alinéa 2 de l'article 1er du décret du 26 mars 1964 et réalisées au cours du dernier exercice connu ramené à douze mois. Pour les producteurs soumis au régime du forfait agricole, à défaut de déclaration du montant global des ventes réalisées, le montant des ventes imposables est fixé forfaitairement, pour une année, à quatre fois le montant obtenu en multipliant le salaire minimum de croissance mensuel au 1er janvier de cette année par le nombre de mois de travail accomplis dans l'entreprise par les personnes salariées ou non salariées, affectées de façon permanente ou occasionnelle, directement ou indirectement, aux activités de production horticole.
+
+Le taux maximum de la taxe est de 1,5 p. 1000 du montant desdites ventes. Un arrêté des ministres chargés de l'économie, du budget et de l'agriculture fixe le taux de la taxe effectivement perçue dans la limite ainsi définie.

@@ -256,9 +256,7 @@ Traitement interdit sur végétaux pendant la floraison.
 
 SILICATE DE METHOXY-ETHYLMERCURE - Poudre (max. 1,5 % de mercure métal) :
 
-Traitement interdit, sauf sur semences de céréales, de colza, de lin, de tournesol et de betterave.
-
-TETRACHLORVINPHOS - Poudre mouillable (max. 25 %) ; granulés
+Traitement interdit, sauf sur semences de céréales.    TETRACHLORVINPHOS - Poudre mouillable (max. 25 %) ; granulés
 
 (max. 5 %) :
 
@@ -268,13 +266,11 @@ Traitement interdit sur végétaux pendant la floraison.
 
 THIOMETON - Liquide (max. 25 %) :
 
-Traitement interdit sur cultures légumières.
+Traitement interdit sur cultures légumières pendant les quinze jours précédant la récolte ;
 
-Traitement interdit sur cultures fruitières et betteravières pendant les vingt et un jours précédant la récolte.
+Traitement interdit sur cultures fruitières et betteravières pendant les vingt et un jours précédant la récolte ;
 
-Traitement interdit sur végétaux pendant la floraison.
-
-TOXAPHENE - Liquide (max. 90 %) :
+Traitement interdit sur végétaux pendant la floraison ".    TOXAPHENE - Liquide (max. 90 %) :
 
 Traitement interdit pendant les vingt et un jours précédant la récolte.
 
