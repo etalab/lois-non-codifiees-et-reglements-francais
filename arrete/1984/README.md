@@ -141,7 +141,6 @@
 - [Arrêté du 24 septembre 1984](arrete-du-24-septembre-1984)
 - [Arrêté du 25 février 1984](arrete-du-25-fevrier-1984)
 - [Arrêté du 25 janvier 1984](arrete-du-25-janvier-1984)
-- [Arrêté du 25 juin 1984](arrete-du-25-juin-1984)
 - [Arrêté du 25 octobre 1983](arrete-du-25-octobre-1983)
 - [Arrêté du 25 octobre 1984](arrete-du-25-octobre-1984)
 - [Arrêté du 26 décembre 1983](arrete-du-26-decembre-1983)
