@@ -6,4 +6,4 @@ Sous réserve des dispositions du dernier alinéa du présent article, les agent
 
 Les agents bénéficiant, au cours de la période durant laquelle ils sont autorisés à travailler à temps partiel, d'un congé de maladie recouvrent, au terme de cette période, les droits des agents exerçant leurs fonctions à temps plein, s'ils sont maintenus en congé de maladie au-delà de ce terme.
 
-L'autorisation d'accomplir un service à temps partiel est suspendue pendant la durée des congés pour couches et allaitement ou pour adoption. Les bénéficiaires de tels congés sont, en conséquence, rétablis, pendant la durée de ces congés, dans les droits des agents exerçant leurs fonctions à temps plein.
+L'autorisation d'accomplir un service à temps partiel est suspendue pendant la durée du congé pour maternité, du congé pour adoption et du congé de paternité. Les bénéficiaires de tels congés sont, en conséquence, rétablis, pendant la durée de ces congés, dans les droits des agents exerçant leurs fonctions à temps plein.

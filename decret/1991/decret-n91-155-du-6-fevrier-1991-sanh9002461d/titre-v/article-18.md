@@ -2,7 +2,7 @@
 
 Pour l'agent contractuel employé de manière continue justifiant d'une ancienneté minimale d'un an à la date de la naissance ou de l'arrivée au foyer d'un enfant qui n'a pas encore atteint l'âge de la fin de l'obligation scolaire confié en vue de son adoption, le congé parental est accordé de droit sur sa demande :
 
-1° A la mère après un congé pour maternité ou au père après la naissance et jusqu'au troisième anniversaire de l'enfant ;
+1° A la mère après un congé pour maternité ou au père après la naissance ou après un congé de paternité et jusqu'au troisième anniversaire de l'enfant ;
 
 2° A la mère ou au père jusqu'à l'expiration d'un délai de trois ans à compter de l'arrivée au foyer d'un enfant adopté ou confié en vue de son adoption, et âgé de moins de trois ans ;
 
@@ -10,7 +10,7 @@ Pour l'agent contractuel employé de manière continue justifiant d'une ancienne
 
 Le congé parental peut être demandé à l'occasion de chaque naissance ou de chaque adoption.
 
-La demande de congé parental doit être présentée un mois avant le début du congé demandé [*délai*].
+La demande de congé parental doit être présentée un mois avant le début du congé demandé.
 
 Le congé parental est accordé par périodes de six mois renouvelables par tacite reconduction pour prendre fin au plus tard au terme des périodes indiquées aux 1°, 2° et 3° du premier alinéa du présent article. L'agent qui souhaite écourter son congé parental doit en avertir son administration par lettre recommandée, un mois avant l'expiration de la période de six mois en cours.
 
