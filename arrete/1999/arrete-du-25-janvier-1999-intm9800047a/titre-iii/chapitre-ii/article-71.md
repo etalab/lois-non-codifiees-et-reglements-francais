@@ -1,0 +1,3 @@
+# Article 71
+
+Prérogatives des agents du ministère de l'intérieur et du ministère de l'économie, des finances et de l'industrie. - Les fonctionnaires du ministère de l'intérieur et ceux du ministère de l'économie, des finances et de l'industrie possèdent les mêmes prérogatives et les mêmes droits de contrôle. Les uns comme les autres ont qualité aussi bien pour veiller à la stricte observation de toutes les dispositions des décisions d'autorisation et du présent arrêté que pour faire porter leurs investigations sur tel ou tel point de la gestion des établissements ou du fonctionnement des jeux.
