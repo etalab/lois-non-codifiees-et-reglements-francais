@@ -69,6 +69,7 @@
 - [Arrêté du 29 juillet 1977](arrete-du-29-juillet-1977)
 - [Arrêté du 29 juin 1977](arrete-du-29-juin-1977)
 - [Arrêté du 29 novembre 1976](arrete-du-29-novembre-1976)
+- [Arrêté du 30 août 1977](arrete-du-30-aout-1977)
 - [Arrêté du 30 décembre 1976](arrete-du-30-decembre-1976)
 - [Arrêté du 30 juillet 1976](arrete-du-30-juillet-1976)
 - [Arrêté du 30 juillet 1977](arrete-du-30-juillet-1977)
