@@ -7,6 +7,7 @@
 - [TITRE IV : Classe préparatoire aux écoles nationales vétérinaires.](titre-iv)
 - [TITRE V : Filière mathématique et technologie.](titre-v)
 - [TITRE VI : Filière technologie et biologie.](titre-vi)
+- [TITRE VI bis : Filière E.N.S. de Cachan Section C Arts-création industrielle](titre-vi-bis)
 - [TITRE VII : Dispositions communes.](titre-vii)
 - [TITRE VIII : Dispositions finales.](titre-viii)
 - [Annexes](annexes)

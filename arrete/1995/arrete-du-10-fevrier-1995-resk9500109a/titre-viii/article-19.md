@@ -1,24 +1,26 @@
 # Article 19
 
-Les dispositions définies dans le présent arrêté entrent en vigueur à compter de la rentrée de l'année scolaire 1995-1996 pour la première année d'études et de la rentrée de l'année scolaire 1996-1997 pour la seconde année d'études, à l'exception des classes de mathématique et technologie (M.T.) et de technologie et biologie (T.B.), mises en place à titre transitoire ainsi qu'il suit :
+Les dispositions du présent arrêté entrent en vigueur à compter de la rentrée de l'année scolaire 1995-1996 pour les classes de première année et de la rentrée de l'année scolaire 1996-1997 pour les classes de seconde année, à l'exception des classes suivantes :
 
-Classes de mathématique et technologie (M.T.) :
+Classes préparatoires à l'Ecole normale supérieure de Cachan, section C, département Arts-création industrielle : les dispositions concernant ces classes entrent en vigueur à compter de l'année scolaire 1996-1997 pour la première et la seconde années d'études ;
 
-Année scolaire 1995-1996 : classe de première année ;
+Classes de mathématiques et technologie (MT) : classes mises en place à titre transitoire ainsi qu'il suit :
 
-Année scolaire 1996-1997 : classes de première et de seconde année ;
+- année scolaire 1995-1996 : classe de première année ;
 
-Année scolaire 1997-1998 : classe de seconde année ;
+- année scolaire 1996-1997 : classes de première et de seconde années ;
 
-Année scolaire 1998-1999 : classe de seconde année réservée aux redoublants.
+- année scolaire 1997-1998 : classe de seconde année ;
 
-Classes de technologie et biologie (T.B.) ;
+- année scolaire 1998-1999 : classe de seconde année réservée aux redoublants ;
 
-Années scolaires 1995-1996 et 1996-1997 : classes de première et seconde année ;
+Classes de technologie et biologie (TB) : classes mises en place à titre transitoire ainsi qu'il suit :
 
-Année scolaire 1997-1998 : classe de seconde année ;
+- années scolaires 1995-1996 et 1996-1997 : classes de première et seconde années ;
 
-Année scolaire 1998-1999 : classe de seconde année réservée aux redoublants.
+- année scolaire 1997-1998 : classe de seconde année ;
+
+- année scolaire 1998-1999 : classe de seconde année réservée aux redoublants.
 
 Toutefois, les travaux d'initiative personnelle encadrés sont mis en place dans les classes concernées des lycées relevant du ministre chargé de l'éducation à compter de la rentrée de l'année scolaire 1995-1996 pour la première année et à compter de la rentrée de l'année scolaire 1996-1997 pour la seconde année.
 

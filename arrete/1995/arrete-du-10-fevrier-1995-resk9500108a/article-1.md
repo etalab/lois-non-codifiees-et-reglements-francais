@@ -49,3 +49,11 @@ Classe de technologie et biologie (TB), créée à titre transitoire, dans les c
 2. Classe préparatoire accessible aux titulaires de diplômes obtenus après deux années d'études supérieures : classe de technologie industrielle pour techniciens supérieurs (ATS).
 
 L'organisation de ces classes est fixée par arrêté pris en application de l'article 11 du décret susvisé.
+
+Classe de première année :
+
+Classe préparatoire à l'Ecole normale supérieure de Cachan, section C, département Arts-création industrielle ;
+
+Classe de seconde année :
+
+Classe préparatoire à l'Ecole normale supérieure de Cachan, section C, département Arts-création industrielle.
