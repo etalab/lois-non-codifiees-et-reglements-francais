@@ -6,6 +6,6 @@ Il n'y a pas ouverture d'établissement en cas de changement d'exploitant pour q
 
 Les prestations de services, notamment la restauration, ne sont pas considérées comme des ventes au détail. Lorsqu'un établissement réalise à la fois des ventes au détail de marchandises en l'état et une autre activité, le chiffre d'affaires à prendre en considération au titre de la taxe d'aide est celui des ventes au détail en l'état, dès lors que les deux activités font l'objet de comptes distincts.
 
-La surface de vente à prendre en considération pour l'assiette de la taxe d'aide est la surface totale des locaux clos et couverts de l'établissement, destinés à la vente au détail, où la clientèle est autorisée à accéder en vue d'effectuer ses achats, y compris la surface au sol des vitrines d'exposition et les espaces internes de circulation et de présentation.
+Pour les établissements visés au quatrième alinéa de l'article 3 de la loi du 13 juillet 1972 susvisée, la surface de vente à prendre en compte pour le calcul de la taxe est majorée de 70 mètres carrés par position de ravitaillement.
 
 Lorsque la surface de vente est créée ou modifiée en cours d'exercice, le chiffre d'affaires annuel au mètre carré à prendre en compte est calculé au prorata du temps d'ouverture de ces surfaces.
