@@ -1,3 +1,3 @@
 # Article 15
 
-Lorsqu'un prélèvement total de capture ou un quota de pêche est épuisé, la poursuite de la pêche de l'espèce ou du groupe d'espèces par les pêcheurs concernés est interdite.
+Lorsqu'un quota ou un sous-quota de capture est épuisé, la poursuite de la pêche de l'espèce ou du groupe d'espèces par les pêcheurs concernés est interdite.

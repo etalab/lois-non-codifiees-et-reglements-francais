@@ -10,7 +10,7 @@ Sera puni de l'amende prévue pour les contraventions de la 5e classe quiconque,
 
 4. Ne se conformera pas aux obligations de marquage ou de tri des captures ;
 
-5. Procédera à des transformations physiques ou chimiques interdites des produits de la mer pour la production de farine, d'huile ou de produits similaires ;
+5. Procédera, à bord du navire de pêche, à toute transformation physique ou chimique des poissons, à l'exception de leurs déchets, pour la production de farine, d'huile ou de produits similaires ;
 
 6. Procédera à toute opération interdite de mutilation, de préparation ou de transformation ;
 
@@ -18,7 +18,7 @@ Sera puni de l'amende prévue pour les contraventions de la 5e classe quiconque,
 
 8. Ne se conformera pas aux obligations relatives au signalement et à l'identification des engins de pêche ou les aura effacés ou masqués ;
 
-9. N'aura pas respecté les obligations relatives à la communication d'informations lors de l'entrée, de la présence et de la sortie de la zone économique européenne prévues par le règlement C.E.E. n° 3531/85 susvisé ;
+9. N'aura pas respecté les obligations relatives à la communication d'informations lors de l'entrée, de la présence ou de la sortie des zones où s'appliquent des limitations de l'effort de pêche ou de capacité au sens du règlement n° 685/95 du Conseil du 27 mars 1995, y compris l'entrée et la sortie à partir des ports situés à l'intérieur de ces zones ;
 
 10. N'aura pas respecté les obligations relatives aux facilités qui doivent être accordées pour les inspections aux agents chargés du contrôle des pêches prévues par les règlements C.E.E. n° 1382/87 et 2847/93 susvisés ;
 
