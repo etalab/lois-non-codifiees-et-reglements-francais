@@ -1,0 +1,3 @@
+# Article 20
+
+Lorsque l'épandage des boues d'une même unité de traitement d'eaux usées, soumis à autorisation au titre de la rubrique 5.4.0 (1°) de la nomenclature annexée au décret n° 93-743 du 29 mars 1993 susvisé, est réalisé dans trois départements ou plus, la procédure d'instruction de la demande d'autorisation conduite au titre des articles 3 à 8 du décret n° 93-742 du 29 mars 1993 susvisé est conduite indépendamment dans chaque département concerné. Toutefois, la demande d'autorisation mentionne l'ensemble des éléments énumérés à l'article 19 et l'avis du préfet ou des préfets coordonnateurs de bassin est requis.
