@@ -1,6 +1,8 @@
 # 1992
 
 - [Décret du 1 juillet 1992 (PREX9210576D)](decret-du-1-juillet-1992-prex9210576d)
+- [Décret n°92-1059 du 1 octobre 1992 (INTB9200420D)](decret-n92-1059-du-1-octobre-1992-intb9200420d)
+- [Décret n°92-1060 du 1 octobre 1992 (RESY9200332D)](decret-n92-1060-du-1-octobre-1992-resy9200332d)
 - [Décret n°92-340 du 1 avril 1992 (ECOC9200033D)](decret-n92-340-du-1-avril-1992-ecoc9200033d)
 - [Décret n°92-341 du 1 avril 1992 (ECOT9226058D)](decret-n92-341-du-1-avril-1992-ecot9226058d)
 - [Décret n°92-343 du 1 avril 1992 (VILM9100035D)](decret-n92-343-du-1-avril-1992-vilm9100035d)
