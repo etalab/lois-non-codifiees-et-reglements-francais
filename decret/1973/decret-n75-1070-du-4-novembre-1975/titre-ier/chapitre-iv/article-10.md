@@ -1,0 +1,7 @@
+# Article 10
+
+Les fonctionnaires détachés dans un emploi d'intendant des établissements d'enseignement supérieur agricole et vétérinaire sont maintenus en position de détachement dans l'emploi d'intendant prévu au présent titre. Ils sont reclassés, compte tenu de la situation qu'ils avaient acquise dans l'ancien emploi, à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient précédemment. Ils conservent, dans la limite de la durée moyenne du temps requis pour obtenir un avancement d'échelon, l'ancienneté d'échelon précédemment acquise lorsque leur reclassement leur procure une augmentation d'indice inférieure à celle qui aurait résulté d'un avancement d'échelon dans leur ancien emploi ou, pour ceux qui avaient atteint l'échelon le plus élevé, lorsque cette augmentation est inférieure à celle qui résultait d'une promotion à cet échelon le plus élevé.
+
+Après trois années de services en position de détachement dans ancien emploi et dans le nouveau, les dispositions du second alinéa de l'article 8 ci-dessus leur sont applicables.
+
+Ceux qui justifient, à la date d'entrée en vigueur du présent décret, de la condition d'ancienneté prévue à l'article 8 susvisé peuvent demander immédiatement leur intégration dans le corps des intendants des établissements d'enseignement relevant du ministère de l'agriculture ; dans ce cas, leur intégration est prononcée après avis d'une commission spéciale constituée par arrêté du ministre de l'agriculture.
