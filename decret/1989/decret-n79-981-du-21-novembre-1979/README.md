@@ -1,9 +1,7 @@
 # Décret n°79-981 du 21 novembre 1979 portant réglementation de la récupération des huiles usagées.
 
 - [Article 1](article-1.md)
-- [TITRE I : Dispositions générales](titre-i)
 - [Article 2](article-2.md)
-- [TITRE II : Contenu et modalités de mise en oeuvre des plans départementaux de ramassage des huiles usagées](titre-ii)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
