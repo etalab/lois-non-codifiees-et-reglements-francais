@@ -39,6 +39,7 @@
 - [Décret n°85-1081 du 8 octobre 1985](decret-n85-1081-du-8-octobre-1985)
 - [Décret n°85-684 du 8 juillet 1985](decret-n85-684-du-8-juillet-1985)
 - [Décret n°85-844 du 8 août 1985](decret-n85-844-du-8-aout-1985)
+- [Décret n°85-862 du 8 août 1985](decret-n85-862-du-8-aout-1985)
 - [Décret n°85-1074 du 9 octobre 1985](decret-n85-1074-du-9-octobre-1985)
 - [Décret n°85-1076 du 9 octobre 1985](decret-n85-1076-du-9-octobre-1985)
 - [Décret n°85-1102 du 9 octobre 1985](decret-n85-1102-du-9-octobre-1985)
