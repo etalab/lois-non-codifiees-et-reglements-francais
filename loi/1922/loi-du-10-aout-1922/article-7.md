@@ -1,0 +1,3 @@
+# Article 7
+
+Chaque année, les contrôleurs des dépenses engagées établissent un rapport d'ensemble relatif au budget du dernier exercice écoulé, exposant les résultats de leurs opérations et les propositions qu'ils ont à présenter. Ces rapports sont dressés par chapitre budgétaire et par ligne de recettes. Ils sont, ainsi que les suites données aux observations et propositions qui y sont formulées, communiqués par les contrôleurs des dépenses engagées au ministre de l'économie et des finances et aux ministres intéressés et, par l'intermédiaire du ministre de l'économie et des finances, à la Cour des comptes et aux commissions financières des deux Chambres.
