@@ -1,0 +1,3 @@
+# Article 1
+
+Les tarifs applicables, dans les établissements d'hospitalisation publics et privés participant au service public hospitalier, aux examens et soins concernant les malades externes, qu'ils soient malades payants, assurés sociaux, bénéficiaires des lois sur les accidents du travail et les maladies professionnelles, bénéficiaires des lois d'aide sociale ou de l'article L. 115 du code des pensions militaires, ainsi que les militaires et marins traités au titre des articles L. 719 et L. 720 du code de la santé publique, sont égaux aux tarifs fixés en application des articles L. 162-5, L. 162-6, L. 162-9 et L. 162-14 du code de la sécurité sociale.

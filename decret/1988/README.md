@@ -12,6 +12,7 @@
 - [Décret n°88-123 du 4 février 1988 (INTA8800028D)](decret-n88-123-du-4-fevrier-1988-inta8800028d)
 - [Décret n°88-125 du 4 février 1988 (PRMX8800007D)](decret-n88-125-du-4-fevrier-1988-prmx8800007d)
 - [Décret n°88-132 du 4 février 1988 (BUDR8701266D)](decret-n88-132-du-4-fevrier-1988-budr8701266d)
+- [Décret n°88-210 du 4 mars 1988 (EQUP8700329D)](decret-n88-210-du-4-mars-1988-equp8700329d)
 - [Décret n°88-25 du 4 janvier 1988 (AGRS8702223D)](decret-n88-25-du-4-janvier-1988-agrs8702223d)
 - [Décret n°88-122 du 5 février 1988 (COMA8800002D)](decret-n88-122-du-5-fevrier-1988-coma8800002d)
 - [Décret n°88-124 du 5 février 1988 (ASEA8701924D)](decret-n88-124-du-5-fevrier-1988-asea8701924d)
