@@ -1,0 +1,5 @@
+# Article 6
+
+Les issues et graisses alimentaires autres que celles présentées à l'état frais, réfrigéré ou congelé, les conserves et préparations à base de viandes ou d'abats ainsi que les extraits de viandes destinés à la consommation humaine doivent être accompagnés d'un certificat de salubrité conforme au modèle D qui est publié en annexe au présent arrêté.
+
+Lorsque les denrées susvisées ont été préparées à partir d'animaux domestiques des espèces indiquées à l'article 1er ou de volailles de basse-cour, ces animaux doivent avoir été abattus dans les abattoirs agréés, conformément aux dispositions des articles 1 et 4 ci-dessus ; la préparation de ces denrées doit en outre se faire dans des établissements satisfaisant aux normes publiées en annexe du présent arrêté. Ces établissements doivent avoir fait l'objet d'une autorisation d'exportation vers la France, accordée par les autorités vétérinaires compétentes du pays d'origine, et avoir reçu en outre l'agrément du service vétérinaire du ministère français de l'agriculture ; leur liste sera publiée au Journal officiel sous forme d'avis aux importateurs.
