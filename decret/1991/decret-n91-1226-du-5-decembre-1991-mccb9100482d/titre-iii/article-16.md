@@ -1,6 +1,6 @@
 # Article 16
 
-La mesure de déclaration d'utilité publique mentionnée à l'article 11 de la loi du 1er décembre 1989 précitée est prise après consultation du Conseil supérieur de la recherche archéologique par le ministre chargé de la culture.
+La mesure de déclaration d'utilité publique mentionnée à l'article 11 de la loi du 1er décembre 1989 précitée est prise après consultation du Conseil national de la recherche archéologique par le ministre chargé de la culture.
 
 Le ministre notifie au propriétaire du bien culturel maritime, par lettre recommandée avec demande d'avis de réception, son intention d'acquérir le bien ainsi que le montant de son offre.
 
