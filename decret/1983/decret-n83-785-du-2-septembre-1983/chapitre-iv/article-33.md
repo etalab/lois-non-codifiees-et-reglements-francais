@@ -1,0 +1,7 @@
+# Article 33
+
+Les dispositions des articles 2 à 5 et 9 à 22 du présent décret sont applicables à l'ensemble des internes titulaires en fonctions ou recrutés au cours de l'année universitaire 1982-1983 en application des dispositions des décrets du 22 août 1973 et du 14 juin 1962 susvisés. Toutefois, les émoluments forfaitaires mensuels mentionnés au 1 de l'article 9 du présent décret varient en fonction de l'ancienneté des intéressés et de la catégorie statutaire à laquelle ils appartiennent. Les dispositions des articles 2 à 6 et 9 à 22 du présent décret sont applicables aux internes recrutés en application des dispositions des décrets n° 84-141 du 27 février 1984 relatif aux modalités des concours de l'internat en médecine A, B et en psychiatrie organisés au cours de l'année universitaire 1983-1984, n° 84-872 du 28 septembre 1984 relative aux modalités applicables à titre transitoire à l'internat en psychiatrie des établissements d'hospitalisation publics et de l'arrêté du 10 mai 1984 relatif au concours de l'internat en médecine du Centre national d'ophtalmologie des Quinze-Vingts.
+
+Les internes relevant du présent article peuvent consacrer à leur formation universitaire trois demi-journées hebdomadaires. Cette durée est portée à cinq demi-journées pour répondre aux exigences de préparation des certificats d'études spéciales ou de toute autre diplôme de troisième cycle accessible aux intéressés.
+
+La mise en disponibilité prévue à l'article 22 du présent décret est prononcée par l'autorité investie du pouvoir de nomination.

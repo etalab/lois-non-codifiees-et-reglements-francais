@@ -1,0 +1,3 @@
+# Article 137 bis
+
+Nonobstant toutes dispositions contraires dans les statuts particuliers régissant les corps de l'Etat soumis à la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat et dans les statuts particuliers régissant les corps et emplois de la fonction publique territoriale soumis à la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, les fonctionnaires appartenant à la fonction publique de la Nouvelle-Calédonie pourront être détachés dans des corps et emplois de l'Etat ou des collectivités territoriales de niveau équivalent à ceux auxquels ils appartiennent et y être intégrés.

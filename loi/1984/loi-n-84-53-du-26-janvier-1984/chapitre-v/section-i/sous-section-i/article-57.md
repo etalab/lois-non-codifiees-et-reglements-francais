@@ -33,3 +33,13 @@ Sur demande de l'intéressé, l'administration a la faculté, après avis du com
 7° Au congé pour formation syndicale avec traitement d'une durée maximum de douze jours ouvrables par an ;
 
 8° Au congé d'une durée de six jours ouvrables par an accordé, sur sa demande, au fonctionnaire de moins de vingt-cinq ans, pour participer aux activités des organisations de jeunesse et d'éducation populaire, des fédérations et des associations sportives et de plein air légalement constituées, destinées à favoriser la préparation, la formation ou le perfectionnement de cadres et animateurs. Ce congé non rémunéré peut être pris en une ou deux fois, à la demande du bénéficiaire. La durée du congé est assimilée à une période de travail effectif. Elle ne peut être imputée sur la durée du congé annuel. Ce congé ne peut se cumuler avec celui qui est prévu au 7° ci-dessus qu'à concurrence de douze jours ouvrables pour une même année.
+
+9° Aux congés prévus par l'article 41 de la loi du 19 mars 1928. Le bénéfice de ces congés est étendu à tous les fonctionnaires territoriaux atteints d'infirmités contractées ou aggravées au cours d'une guerre ou d'une expédition déclarée campagne de guerre ayant ouvert droit à pension au titre du livre Ier du code des pensions militaires d'invalidité et des victimes de la guerre.
+
+Bénéficient du même congé les fonctionnaires atteints d'infirmités ayant ouvert droit à pension du code des pensions militaires d'invalidité et des victimes de la guerre au titre :
+
+- du titre III du livre II de ce code relatif aux victimes civiles des faits de guerre ;
+
+- de la loi n° 55-1074 du 6 août 1955 relative aux avantages accordés aux personnels militaires participant au maintien de l'ordre dans certaines circonstances, complétée par l'ordonnance n° 59-261 du 4 février 1959 modifiant certaines dispositions du code des pensions militaires d'invalidité et des victimes de la guerre ;
+
+- et de la loi n° 59-901 du 31 juillet 1959 relative à la réparation des dommages physiques subis en métropole par les personnes de nationalité française, par suite des événements qui se déroulent en Algérie.

@@ -1,0 +1,3 @@
+# Article 25
+
+Dans un délai maximal d'un mois à compter de la première réunion des conseils d'administration des centres régionaux et national de formation, le centre de formation des personnels communaux reverse à chaque centre de formation une fraction du produit de la cotisation afférente à l'exercice 1986. Les modalités de calcul de la dotation [*autorité compétente*] ainsi attribuée à chaque centre de formation sont déterminées par la commission chargée du transfert des biens, droits et obligations du centre de formation des personnels communaux mentionnée à l'article 29 de la loi n° 84-594 du 12 juillet 1984 précitée.
