@@ -64,7 +64,7 @@ b) Les articles 4 et 5 ;
 
 a) La dernière phrase du 4° de l'article 3 ;
 
-b) Le premier alinéa de l'article 6 et, au second alinéa du même article, les phrases et mots suivants : " Il est chargé de veiller à la cohérence scientifique et à l'unité des procédures du dépôt légal. Il peut rendre des avis et formuler des recommandations sur toutes questions relatives au dépôt légal. Il est associé à la définition des modalités d'exercice de " ;
+b) Paragraphe abrogé ;
 
 9° Le dernier alinéa de l'article 6 de la loi n° 96-590 du 2 juillet 1996 relative à la Fondation du patrimoine ;
 
