@@ -1,0 +1,3 @@
+# Article 7
+
+Pendant une période de deux ans à compter de la publication du présent décret, les candidats recrutés en application des dispositions de l'article 4 du décret susvisé du 6 mars 1967, tel qu'il a été modifié par l'article 2 ci-dessus, seront nommés administrateurs financiers de 2e classe et classés au 3e échelon, s'ils sont âgés de vingt-neuf ans au moins et comptent au moins cinq ans de fonctions d'analyse ou de contrôle, administrateurs financiers de 2e classe et classés au 2e échelon, s'ils sont âgés de vingt-huit ans au moins et comptent au moins quatre ans de fonctions d'analyse ou de contrôle.
