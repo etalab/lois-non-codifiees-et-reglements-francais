@@ -228,7 +228,6 @@
 - [Arrêté du 11 juillet 1989 (EQUT8900689A)](arrete-du-11-juillet-1989-equt8900689a)
 - [Arrêté du 11 juillet 1989 (PTTT8900245A)](arrete-du-11-juillet-1989-pttt8900245a)
 - [Arrêté du 11 juillet 1989 (PTTT8900247A)](arrete-du-11-juillet-1989-pttt8900247a)
-- [Arrêté du 11 juillet 1989 (PTTT8900666A)](arrete-du-11-juillet-1989-pttt8900666a)
 - [Arrêté du 11 juillet 1989 (SPSP8901504A)](arrete-du-11-juillet-1989-spsp8901504a)
 - [Arrêté du 11 juillet 1989 (SPSS8901615A)](arrete-du-11-juillet-1989-spss8901615a)
 - [Arrêté du 11 octobre 1989 (DOME8900028A)](arrete-du-11-octobre-1989-dome8900028a)
