@@ -141,6 +141,7 @@
 - [Arrêté du 30 décembre 1988 (SPSH8900102A)](arrete-du-30-decembre-1988-spsh8900102a)
 - [Arrêté du 30 mars 1989 (SPSS8900129A)](arrete-du-30-mars-1989-spss8900129a)
 - [Arrêté du 31 décembre 1988 (BUDB8840083A)](arrete-du-31-decembre-1988-budb8840083a)
+- [Arrêté du 31 janvier 1989 (RESY8900037A)](arrete-du-31-janvier-1989-resy8900037a)
 - [Arrêté du 31 janvier 1989 (SPSH8900211A)](arrete-du-31-janvier-1989-spsh8900211a)
 - [Arrêté du 31 janvier 1989 (SPSS8900220A)](arrete-du-31-janvier-1989-spss8900220a)
 - [Arrêté du 31 janvier 1989 (TEFT8903125A)](arrete-du-31-janvier-1989-teft8903125a)

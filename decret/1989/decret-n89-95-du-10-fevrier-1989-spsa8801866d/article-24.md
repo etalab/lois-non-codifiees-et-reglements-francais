@@ -1,0 +1,3 @@
+# Article 24
+
+Le ministre des affaires étrangères [*autorité compétente*] peut à tout moment modifier ou retirer l'habilitation mentionnée au deuxième alinéa de l'article 100-1 du code de la famille et de l'aide sociale si l'évolution de la situation dans un pays ne permet plus d'envisager l'adoption d'enfants originaires de celui-ci par des ressortissants français, si l'oeuvre ne présente plus les garanties suffisantes pour les enfants, leurs parents ou les futurs adoptants ou si elle perd dans un département l'autorisation prévue au premier alinéa de l'article 100-1 du code de la famille et de l'aide sociale.
