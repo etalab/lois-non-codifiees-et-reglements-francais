@@ -116,6 +116,7 @@
 - [Décret n°80-598 du 30 juillet 1980](decret-n80-598-du-30-juillet-1980)
 - [Décret n°80-599 du 30 juillet 1980](decret-n80-599-du-30-juillet-1980)
 - [Décret n°80-600 du 30 juillet 1980](decret-n80-600-du-30-juillet-1980)
+- [Décret n°80-608 du 30 juillet 1980](decret-n80-608-du-30-juillet-1980)
 - [Décret n°80-99 du 30 janvier 1980](decret-n80-99-du-30-janvier-1980)
 - [Décret n°79-1228 du 31 décembre 1979](decret-n79-1228-du-31-decembre-1979)
 - [Décret n°80-606 du 31 juillet 1980](decret-n80-606-du-31-juillet-1980)
