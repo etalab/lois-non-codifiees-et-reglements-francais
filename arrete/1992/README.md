@@ -427,7 +427,6 @@
 - [Arrêté du 11 juin 1992 (SPSS9201468A)](arrete-du-11-juin-1992-spss9201468a)
 - [Arrêté du 11 mars 1992 (JUSF9150100A)](arrete-du-11-mars-1992-jusf9150100a)
 - [Arrêté du 11 mars 1992 (MENT9200426A)](arrete-du-11-mars-1992-ment9200426a)
-- [Arrêté du 11 mars 1992 (PTTR9200153A)](arrete-du-11-mars-1992-pttr9200153a)
 - [Arrêté du 11 septembre 1992 (ECOZ9209441A)](arrete-du-11-septembre-1992-ecoz9209441a)
 - [Arrêté du 11 septembre 1992 (ENVN9250300A)](arrete-du-11-septembre-1992-envn9250300a)
 - [Arrêté du 11 septembre 1992 (PTTS9200462A)](arrete-du-11-septembre-1992-ptts9200462a)
