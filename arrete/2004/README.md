@@ -374,6 +374,7 @@
 - [Arrêté du 27 janvier 2005 (JUSF0450139A)](arrete-du-27-janvier-2005-jusf0450139a)
 - [Arrêté du 27 juillet 2005 (INTE0500440A)](arrete-du-27-juillet-2005-inte0500440a)
 - [Arrêté du 27 novembre 2003 (DEFD0302348A)](arrete-du-27-novembre-2003-defd0302348a)
+- [Arrêté du 28 avril 2004 (EQUI0400300A)](arrete-du-28-avril-2004-equi0400300a)
 - [Arrêté du 28 avril 2004 (JUSB0410116A)](arrete-du-28-avril-2004-jusb0410116a)
 - [Arrêté du 28 décembre 2003 (DOMG0300064A)](arrete-du-28-decembre-2003-domg0300064a)
 - [Arrêté du 28 juin 2005 (AGRM0501473A)](arrete-du-28-juin-2005-agrm0501473a)
