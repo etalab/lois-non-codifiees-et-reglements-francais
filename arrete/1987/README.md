@@ -378,7 +378,6 @@
 - [Arrêté du 19 août 1987 (PRMX8798373A)](arrete-du-19-aout-1987-prmx8798373a)
 - [Arrêté du 19 décembre 1986 (AGRP8700045A)](arrete-du-19-decembre-1986-agrp8700045a)
 - [Arrêté du 19 décembre 1986 (EQUP8700003A)](arrete-du-19-decembre-1986-equp8700003a)
-- [Arrêté du 19 février 1987 (AGRS8700520A)](arrete-du-19-fevrier-1987-agrs8700520a)
 - [Arrêté du 19 février 1987 (ASES8700324A)](arrete-du-19-fevrier-1987-ases8700324a)
 - [Arrêté du 19 février 1987 (DEFE8701092A)](arrete-du-19-fevrier-1987-defe8701092a)
 - [Arrêté du 19 février 1987 (MENU8700118A)](arrete-du-19-fevrier-1987-menu8700118a)
