@@ -14,6 +14,7 @@
 - [Loi n° 97-1019 du 28 octobre 1997 (DEFX9700094L)](loi-n-97-1019-du-28-octobre-1997-defx9700094l)
 - [Loi n° 97-1026 du 10 novembre 1997 (ECOX9700095L)](loi-n-97-1026-du-10-novembre-1997-ecox9700095l)
 - [Loi n° 97-103 du 5 février 1997 (MAEX9600090L)](loi-n-97-103-du-5-fevrier-1997-maex9600090l)
+- [Loi n° 97-1051 du 18 novembre 1997 (AGRX9600072L)](loi-n-97-1051-du-18-novembre-1997-agrx9600072l)
 - [Loi n° 97-135 du 13 février 1997 (EQUX9600118L)](loi-n-97-135-du-13-fevrier-1997-equx9600118l)
 - [Loi n° 97-206 du 10 mars 1997 (MAEX9600108L)](loi-n-97-206-du-10-mars-1997-maex9600108l)
 - [Loi n° 97-210 du 11 mars 1997 (TASX9600116L)](loi-n-97-210-du-11-mars-1997-tasx9600116l)
