@@ -45,6 +45,7 @@
 - [Décret n°78-445 du 24 mars 1978](decret-n78-445-du-24-mars-1978)
 - [Décret n°78-509 du 24 mars 1978](decret-n78-509-du-24-mars-1978)
 - [Décret n°78-498 du 28 mars 1978](decret-n78-498-du-28-mars-1978)
+- [Décret n°78-729 du 28 juin 1978](decret-n78-729-du-28-juin-1978)
 - [Décret n°78-473 du 29 mars 1978](decret-n78-473-du-29-mars-1978)
 - [Décret n°78-474 du 29 mars 1978](decret-n78-474-du-29-mars-1978)
 - [Décret n°78-477 du 29 mars 1978](decret-n78-477-du-29-mars-1978)

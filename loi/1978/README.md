@@ -6,6 +6,7 @@
 - [Loi n° 78-653 du 22 juin 1978](loi-n-78-653-du-22-juin-1978)
 - [Loi n° 78-654 du 22 juin 1978](loi-n-78-654-du-22-juin-1978)
 - [Loi n° 78-688 du 5 juillet 1978](loi-n-78-688-du-5-juillet-1978)
+- [Loi n° 78-727 du 11 juillet 1978](loi-n-78-727-du-11-juillet-1978)
 - [Loi n° 78-9 du 4 janvier 1978](loi-n-78-9-du-4-janvier-1978)
 - [Loi n°77-1455 du 29 décembre 1977](loi-n77-1455-du-29-decembre-1977)
 - [Loi n°78-22 du 10 janvier 1978](loi-n78-22-du-10-janvier-1978)
