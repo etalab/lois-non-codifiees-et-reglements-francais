@@ -1,5 +1,6 @@
 # 1988
 
+- [Arrêté du 1 août 1988 (AGRA8801074A)](arrete-du-1-aout-1988-agra8801074a)
 - [Arrêté du 1 avril 1988 (BUDF8800003A)](arrete-du-1-avril-1988-budf8800003a)
 - [Arrêté du 1 décembre 1987 (EQUC8701067A)](arrete-du-1-decembre-1987-equc8701067a)
 - [Arrêté du 1 juin 1987 (ASET8703409A)](arrete-du-1-juin-1987-aset8703409a)
@@ -25,6 +26,8 @@
 - [Arrêté du 2 mai 1988 (ECOZ8800012A)](arrete-du-2-mai-1988-ecoz8800012a)
 - [Arrêté du 2 mai 1988 (MDSC8800197A)](arrete-du-2-mai-1988-mdsc8800197a)
 - [Arrêté du 2 mai 1988 (MERG8800077A)](arrete-du-2-mai-1988-merg8800077a)
+- [Arrêté du 3 août 1988 (BUDB8860048A)](arrete-du-3-aout-1988-budb8860048a)
+- [Arrêté du 3 août 1988 (COMA8800029A)](arrete-du-3-aout-1988-coma8800029a)
 - [Arrêté du 3 février 1988 (BUDR8803022A)](arrete-du-3-fevrier-1988-budr8803022a)
 - [Arrêté du 3 février 1988 (BUDR8803023A)](arrete-du-3-fevrier-1988-budr8803023a)
 - [Arrêté du 3 février 1988 (TRSA8800084A)](arrete-du-3-fevrier-1988-trsa8800084a)
@@ -448,6 +451,7 @@
 - [Arrêté du 27 décembre 1987 (ECOT8720053A)](arrete-du-27-decembre-1987-ecot8720053a)
 - [Arrêté du 27 janvier 1988 (ECOT8820042A)](arrete-du-27-janvier-1988-ecot8820042a)
 - [Arrêté du 27 janvier 1988 (INTD8800038A)](arrete-du-27-janvier-1988-intd8800038a)
+- [Arrêté du 27 juillet 1983](arrete-du-27-juillet-1983)
 - [Arrêté du 27 juillet 1988 (ECOM8800241A)](arrete-du-27-juillet-1988-ecom8800241a)
 - [Arrêté du 27 juillet 1988 (ECOM8800242A)](arrete-du-27-juillet-1988-ecom8800242a)
 - [Arrêté du 27 juillet 1988 (PTTT8800559A)](arrete-du-27-juillet-1988-pttt8800559a)

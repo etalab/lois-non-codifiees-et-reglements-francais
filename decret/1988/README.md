@@ -71,6 +71,7 @@
 - [Décret n°87-361 du 27 mai 1987 (AGRS8700949D)](decret-n87-361-du-27-mai-1987-agrs8700949d)
 - [Décret n°88-849 du 28 juillet 1988 (MCCB8800452D)](decret-n88-849-du-28-juillet-1988-mccb8800452d)
 - [Décret n°88-854 du 28 juillet 1988 (ECOC8800072D)](decret-n88-854-du-28-juillet-1988-ecoc8800072d)
+- [Décret n°88-1286 du 29 juillet 1988 (AGRS8801286D)](decret-n88-1286-du-29-juillet-1988-agrs8801286d)
 - [Décret n°88-794 du 29 juin 1988 (ASEX8800086D)](decret-n88-794-du-29-juin-1988-asex8800086d)
 - [Décret n°88-850 du 29 juillet 1988 (ECOX8810673D)](decret-n88-850-du-29-juillet-1988-ecox8810673d)
 - [Décret n°88-855 du 29 juillet 1988 (TEFT8803635D)](decret-n88-855-du-29-juillet-1988-teft8803635d)
