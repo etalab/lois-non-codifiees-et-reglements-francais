@@ -4,7 +4,15 @@ Les techniciens des services culturels et des Bâtiments de France sont recruté
 
 1° Par la voie d'un concours externe ou d'un concours interne dans les conditions ci-après :
 
-a) Un concours externe est ouvert, pour chacune des spécialités mentionnées à l'article 3 ci-dessus, aux candidats âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours, titulaires du baccalauréat ou d'un titre ou diplôme reconnu équivalent et figurant sur une liste fixée par arrêté conjoint des ministres chargés respectivement de la fonction publique, de la culture et de l'équipement, ainsi qu'aux candidats titulaires d'un diplôme délivré dans un des Etats membres de la Communauté européenne et assimilé au baccalauréat ;
+a) Un concours externe est ouvert, pour chacune des spécialités mentionnées à l'article 3, aux candidats âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours.
+
+Les candidats doivent :
+
+1. Soit être titulaires du baccalauréat ou d'un diplôme reconnu équivalent, figurant sur une liste fixée par arrêté conjoint du ministre chargé de la fonction publique et du ministre chargé de la culture ;
+
+2. Soit être titulaires d'un diplôme délivré dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen et dont l'assimilation avec l'un des diplômes prévus à l'alinéa précédent a été reconnue par la commission prévue par le décret n° 94-741 du 30 août 1994 relatif à l'assimilation, pour l'accès aux concours de la fonction publique de l'Etat, des diplômes délivrés dans d'autres Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, modifié par le décret n° 98-485 du 12 juin 1998.
+
+Les personnes qui atteignent l'âge limite pendant une année au titre de laquelle aucun concours n'est ouvert dans la spécialité dans laquelle elles auraient été candidates peuvent faire acte de candidature au concours suivant.
 
 b) Le concours interne est ouvert, pour chaque spécialité, aux fonctionnaires et agents publics de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, aux militaires ainsi qu'aux agents en fonctions dans une organisation internationale intergouvernementale à la date de clôture des inscriptions, comptant au moins quatre ans de services publics au 1er janvier de l'année au titre de laquelle est organisé le concours.
 

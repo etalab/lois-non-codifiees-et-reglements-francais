@@ -2,9 +2,13 @@
 
 Dans chaque corps, le recrutement s'effectue par la voie d'un concours externe, d'un concours interne et par liste d'aptitude dans les conditions fixées aux paragraphes 1, 2 et 3 ci-dessous. Dans le corps des ingénieurs des services culturels et du patrimoine, les concours sont ouverts par spécialités.
 
-1. Le concours externe est ouvert aux candidats âgés de trente-cinq ans au plus au 1er janvier de l'année du concours, titulaires d'une licence ou d'un diplôme national sanctionnant un second cycle d'études supérieures ou d'un diplôme, titre ou certificat de même niveau figurant sur une liste fixée par arrêté conjoint du ministre dont relèvent les membres du corps et du ministre chargé de la fonction publique.
+1.  Le concours externe est ouvert aux candidats âgés de trente-cinq ans au plus au 1er janvier de l'année du concours et titulaires d'un des diplômes suivants :
 
-Le concours est ouvert aux candidats remplissant les conditions d'âge et titulaires d'un diplôme délivré dans un des Etats membres de la Communauté européenne ou d'un autre Etat de l'Espace économique européen et dont l'assimilation avec un diplôme de deuxième cycle de l'enseignement supérieur pour l'application du présent décret aura été reconnue par la commission prévue par le décret du 30 août 1994 susvisé.
+a) Licence ou diplôme national sanctionnant un second cycle d'études supérieures ;
+
+b) Diplôme, titre ou certificat de même niveau figurant sur une liste fixée par arrêté conjoint du ministre dont relèvent les membres du corps et du ministre chargé de la fonction publique ;
+
+c) Diplôme délivré dans un des Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen et dont l'assimilation avec l'un des diplômes prévus précédemment a été reconnue par la commission prévue par le décret du 30 août 1994 relatif à l'assimilation, pour l'accès aux concours de la fonction publique de l'Etat, des diplômes délivrés dans d'autres Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, modifié par le décret n° 98-485 du 12 juin 1998.
 
 La limite d'âge supérieure mentionnée ci-dessus s'entend sans préjudice de l'application des dispositions en vigueur en matière de report des âges limites.
 

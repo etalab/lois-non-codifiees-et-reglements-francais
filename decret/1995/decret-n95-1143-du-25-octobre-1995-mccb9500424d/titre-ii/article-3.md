@@ -4,7 +4,11 @@ Les secrétaires de documentation sont recrutés :
 
 1° Par la voie d'un concours externe et d'un concours interne dans les conditions ci-après :
 
-a) Un concours externe est ouvert aux candidats titulaires du baccalauréat ou d'un titre ou diplôme dont la liste est fixée par arrêté conjoint des ministres chargés de la culture, de l'architecture et de la fonction publique ainsi qu'aux candidats titulaires d'un diplôme délivré dans un des Etats membres de la Communauté européenne et assimilé au baccalauréat ;
+a) Un concours externe est ouvert aux candidats qui remplissent l'une des deux conditions suivantes :
+
+1.  Soit être titulaires du baccalauréat ou d'un titre ou diplôme dont la liste est fixée par arrêté conjoint du ministre chargé de la fonction publique et du ministre chargé de la culture et de l'architecture ;
+
+2.  Soit être titulaires d'un diplôme délivré dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen et dont l'assimilation avec l'un des diplômes prévus à l'alinéa précédent a été reconnue par la commission prévue par le décret n° 94-741 du 30 août 1994 relatif à l'assimilation, pour l'accès aux concours de la fonction publique de l'Etat, des diplômes délivrés dans d'autres Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, modifié par le décret n° 98-485 du 12 juin 1998.
 
 b) Un concours interne est ouvert aux fonctionnaires et agents publics de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, aux militaires ainsi qu'aux agents en fonctions dans une organisation internationale intergouvernementale à la date de clôture des inscriptions comptant au moins quatre ans de services publics au 1er janvier de l'année au titre de laquelle est organisé le concours.
 
