@@ -55,6 +55,8 @@
 - [Décret n°99-103 du 17 février 1999 (EQUP9900034D)](decret-n99-103-du-17-fevrier-1999-equp9900034d)
 - [Décret n°99-499 du 17 juin 1999 (INTC9900118D)](decret-n99-499-du-17-juin-1999-intc9900118d)
 - [Décret n°99-204 du 18 mars 1999 (MENF9900383D)](decret-n99-204-du-18-mars-1999-menf9900383d)
+- [Décret n°99-37 du 19 janvier 1999 (ECOT9894695D)](decret-n99-37-du-19-janvier-1999-ecot9894695d)
+- [Décret n°99-38 du 19 janvier 1999 (ATEN9860101D)](decret-n99-38-du-19-janvier-1999-aten9860101d)
 - [Décret n°98-1167 du 21 décembre 1998 (INTA9800300D)](decret-n98-1167-du-21-decembre-1998-inta9800300d)
 - [Décret n°99-41 du 21 janvier 1999 (MESH9920088D)](decret-n99-41-du-21-janvier-1999-mesh9920088d)
 - [Décret n°99-652 du 21 juillet 1999 (ATEN9970016D)](decret-n99-652-du-21-juillet-1999-aten9970016d)
