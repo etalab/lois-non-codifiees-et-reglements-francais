@@ -6,96 +6,77 @@ Les caractéristiques techniques minimales sont fixées ainsi qu'il suit :
 
 Les surfaces habitables minimales des logements et leur composition sont fixées ainsi qu'il suit :
 
-<table>
-<tbody>
-<tr>
-<td align="center">
-<p>TYPES </p>
-<p>de logements </p>
-</td>
-<td align="center" colspan="2">COMPOSITIONS DES LOGEMENTS <br/>
-</td>
-<td align="center">
-<p>SURFACES </p>
-<p>habitables </p>
-<p>minimales </p>
-<p>(m²) </p>
-</td>
-</tr>
-<tr>
-<td align="center">I <br/>
-</td>
-<td align="left" colspan="2">
-<p>1 pièce principale avec cabinet de toilette, </p>
-<p>placard, w.-c., douche, raccordement aux </p>
-<p>réseaux divers. </p>
-</td>
-<td align="center"> 16</td>
-</tr>
-<tr>
-<td align="center">I bis <br/>
-</td>
-<td align="left">1 pièce principale <br/>
-</td>
-<td align="center" rowspan="8">
-<p>Voir </p>
-<p>article 2.2 </p>
-</td>
-<td align="center"> 27</td>
-</tr>
-<tr>
-<td align="center">II <br/>
-</td>
-<td align="left">2 pièces principales <br/>
-</td>
-<td align="center">41 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">III <br/>
-</td>
-<td align="left">3 pièces principales <br/>
-</td>
-<td align="center"> 54</td>
-</tr>
-<tr>
-<td align="center">IV <br/>
-</td>
-<td align="left">4 pièces principales <br/>
-</td>
-<td align="center"> 66</td>
-</tr>
-<tr>
-<td align="center">V <br/>
-</td>
-<td align="left">5 pièces principales <br/>
-</td>
-<td align="center">79 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"> VI</td>
-<td align="left">6 pièces principales <br/>
-</td>
-<td align="center">89 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">VII</td>
-<td align="left">7 pièces principales <br/>
-</td>
-<td align="center"> 103</td>
-</tr>
-<tr>
-<td align="center">Type &gt; VII <br/>
-</td>
-<td align="left">Par pièce principale en plus <br/>
-</td>
-<td align="center">12 <br/>
-</td>
-</tr>
-</tbody>
-</table>
+TYPE de logement : I
+
+COMPOSITION DE LOGEMENT :
+
+1 pièce principale avec coin cuisine, cabinet de toilette, placard, w.-c., douche, raccordement aux réseaux divers.
+
+SURFACE habitable minimale (m2) : 16
+
+TYPE de logement : I bis
+
+COMPOSITION DE LOGEMENT :
+
+1 pièce principale (Voir article 2.2)
+
+SURFACE habitable minimale (m2) : 27
+
+TYPE de logement : II
+
+COMPOSITION DE LOGEMENT :
+
+2 pièces principales (Voir article 2.2)
+
+SURFACE habitable minimale (m2) : 41
+
+TYPE de logement : III
+
+COMPOSITION DE LOGEMENT :
+
+3 pièces principales (Voir article 2.2)
+
+SURFACE habitable minimale (m2) : 54
+
+TYPE de logement : IV
+
+COMPOSITION DE LOGEMENT :
+
+4 pièces principales (Voir article 2.2)
+
+SURFACE habitable minimale (m2) : 66
+
+TYPE de logement : V
+
+COMPOSITION DE LOGEMENT :
+
+5 pièces principales (Voir article 2.2)
+
+SURFACE habitable minimale (m2) : 79
+
+TYPE de logement : VI
+
+COMPOSITION DE LOGEMENT :
+
+6 pièces principales (Voir article 2.2)
+
+SURFACE habitable minimale (m2) : 89
+
+TYPE de logement : VII
+
+COMPOSITION DE LOGEMENT :
+
+7 pièces principales (Voir article 2.2)
+
+SURFACE habitable minimale (m2) : 103
+
+TYPE de logement : Type supérieur à VII
+
+COMPOSITION DE LOGEMENT :
+
+Par pièce principale en plus
+
+SURFACE habitable minimale (m2) : 12
 
 Le préfet peut accorder des dérogations aux surfaces minimales ci-dessus en fonction de la structure de l'immeuble.
 
