@@ -103,7 +103,6 @@
 - [Décret n°99-718 du 3 août 1999 (ECOT9994746D)](decret-n99-718-du-3-aout-1999-ecot9994746d)
 - [Décret n°99-719 du 3 août 1999 (EQUT9900718D)](decret-n99-719-du-3-aout-1999-equt9900718d)
 - [Décret n°99-72 du 3 février 1999 (ECOU9800009D)](decret-n99-72-du-3-fevrier-1999-ecou9800009d)
-- [Décret n°99-720 du 3 août 1999 (MJSK9970059D)](decret-n99-720-du-3-aout-1999-mjsk9970059d)
 - [Décret n°99-721 du 3 août 1999 (MENS9901448D)](decret-n99-721-du-3-aout-1999-mens9901448d)
 - [Décret n°99-724 du 3 août 1999 (EQUH9900632D)](decret-n99-724-du-3-aout-1999-equh9900632d)
 - [Décret n°99-726 du 3 août 1999 (FPPA9910013D)](decret-n99-726-du-3-aout-1999-fppa9910013d)
