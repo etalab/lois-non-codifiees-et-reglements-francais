@@ -572,6 +572,7 @@
 - [Arrêté du 23 décembre 1998 (ECOI9801127A)](arrete-du-23-decembre-1998-ecoi9801127a)
 - [Arrêté du 23 décembre 1998 (MESP9824114A)](arrete-du-23-decembre-1998-mesp9824114a)
 - [Arrêté du 23 décembre 1998 (MESS9824099A)](arrete-du-23-decembre-1998-mess9824099a)
+- [Arrêté du 23 décembre 1999 (ECOM9960899A)](arrete-du-23-decembre-1999-ecom9960899a)
 - [Arrêté du 23 février 1998 (ATEE9870093A)](arrete-du-23-fevrier-1998-atee9870093a)
 - [Arrêté du 23 février 1999 (INTC9900104A)](arrete-du-23-fevrier-1999-intc9900104a)
 - [Arrêté du 23 février 1999 (INTE9900099A)](arrete-du-23-fevrier-1999-inte9900099a)
