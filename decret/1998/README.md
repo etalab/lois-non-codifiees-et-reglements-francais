@@ -423,6 +423,7 @@
 - [Décret n°98-717 du 18 août 1998 (INTA9800219D)](decret-n98-717-du-18-aout-1998-inta9800219d)
 - [Décret n°98-723 du 18 août 1998 (MCCB9800387D)](decret-n98-723-du-18-aout-1998-mccb9800387d)
 - [Décret n°98-744 du 18 août 1998 (DEFP9801566D)](decret-n98-744-du-18-aout-1998-defp9801566d)
+- [Décret n°98-839 du 18 septembre 1998 (MAEC9800088D)](decret-n98-839-du-18-septembre-1998-maec9800088d)
 - [Décret n°98-88 du 18 février 1998 (MESP9820015D)](decret-n98-88-du-18-fevrier-1998-mesp9820015d)
 - [Décret n°98-89 du 18 février 1998 (JUSB9710475D)](decret-n98-89-du-18-fevrier-1998-jusb9710475d)
 - [Décret n°98-90 du 18 février 1998 (MENX9700157D)](decret-n98-90-du-18-fevrier-1998-menx9700157d)
