@@ -489,7 +489,6 @@
 - [Arrêté du 14 avril 2003 (ECOT0314335A)](arrete-du-14-avril-2003-ecot0314335a)
 - [Arrêté du 14 avril 2003 (ECOT0314336A)](arrete-du-14-avril-2003-ecot0314336a)
 - [Arrêté du 14 avril 2003 (MENS0300823A)](arrete-du-14-avril-2003-mens0300823a)
-- [Arrêté du 14 février 2003 (BUDD0370001A)](arrete-du-14-fevrier-2003-budd0370001a)
 - [Arrêté du 14 février 2003 (EQUS0300363A)](arrete-du-14-fevrier-2003-equs0300363a)
 - [Arrêté du 14 février 2003 (INTE0300096A)](arrete-du-14-fevrier-2003-inte0300096a)
 - [Arrêté du 14 janvier 2003 (CPTE0300017A)](arrete-du-14-janvier-2003-cpte0300017a)
