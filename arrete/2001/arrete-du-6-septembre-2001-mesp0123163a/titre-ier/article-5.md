@@ -2,7 +2,7 @@
 
 Parmi les deux modules optionnels, le premier doit être évalué en deuxième année, le second en troisième année.
 
-Chacun de ces modules est noté sur dix points.
+Chacun de ces modules est noté sur vingt points.
 
 L'évaluation est assurée par un enseignant de l'institut de formation dont relève l'étudiant ou par toute autre personne ayant participé à l'enseignement du module concerné.
 
