@@ -5,3 +5,5 @@ La liste des emplois correspondant à l'échelon fonctionnel prévue à l'articl
 - inspecteur principal chargé de la coordination des activités des inspecteurs concernant la validation des formations, les examens, les relations avec les jurys ;
 
 - inspecteur principal chargé de la coordination des activités des inspecteurs en matière de projets pédagogiques des établissements.
+
+- inspecteur principal chargé de la coordination des activités des inspecteurs dans le domaine de la formation professionnelle.
