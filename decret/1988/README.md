@@ -260,8 +260,6 @@
 - [Décret n°88-1214 du 30 décembre 1988 (BUDB8860093D)](decret-n88-1214-du-30-decembre-1988-budb8860093d)
 - [Décret n°88-1220 du 30 décembre 1988 (EQUP8800570D)](decret-n88-1220-du-30-decembre-1988-equp8800570d)
 - [Décret n°88-1221 du 30 décembre 1988 (INDE8800932D)](decret-n88-1221-du-30-decembre-1988-inde8800932d)
-- [Décret n°88-1223 du 30 décembre 1988 (TRST8800614D)](decret-n88-1223-du-30-decembre-1988-trst8800614d)
-- [Décret n°88-1224 du 30 décembre 1988 (TRST8800615D)](decret-n88-1224-du-30-decembre-1988-trst8800615d)
 - [Décret n°88-1226 du 30 décembre 1988 (MERP8800032D)](decret-n88-1226-du-30-decembre-1988-merp8800032d)
 - [Décret n°88-1227 du 30 décembre 1988 (MERP8800033D)](decret-n88-1227-du-30-decembre-1988-merp8800033d)
 - [Décret n°88-1228 du 30 décembre 1988 (MERP8800034D)](decret-n88-1228-du-30-decembre-1988-merp8800034d)

@@ -392,7 +392,6 @@
 - [Arrêté du 18 avril 1989 (SPSH8900711A)](arrete-du-18-avril-1989-spsh8900711a)
 - [Arrêté du 18 avril 1989 (SPSH8900713A)](arrete-du-18-avril-1989-spsh8900713a)
 - [Arrêté du 18 décembre 1989 (AGRR8902633A)](arrete-du-18-decembre-1989-agrr8902633a)
-- [Arrêté du 18 décembre 1989 (MERE8900230A)](arrete-du-18-decembre-1989-mere8900230a)
 - [Arrêté du 18 janvier 1989 (BUDZ8900001A)](arrete-du-18-janvier-1989-budz8900001a)
 - [Arrêté du 18 janvier 1989 (MENL8802570A)](arrete-du-18-janvier-1989-menl8802570a)
 - [Arrêté du 18 juillet 1988 (AGRS8801289A)](arrete-du-18-juillet-1988-agrs8801289a)
