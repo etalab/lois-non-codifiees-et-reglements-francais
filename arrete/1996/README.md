@@ -1199,7 +1199,6 @@
 - [Arrêté du 28 mars 1996 (AGRG9600686A)](arrete-du-28-mars-1996-agrg9600686a)
 - [Arrêté du 28 mars 1996 (AGRH9600711A)](arrete-du-28-mars-1996-agrh9600711a)
 - [Arrêté du 28 mars 1996 (ECOB9670001A)](arrete-du-28-mars-1996-ecob9670001a)
-- [Arrêté du 28 mars 1996 (JUSA9600089A)](arrete-du-28-mars-1996-jusa9600089a)
 - [Arrêté du 28 mars 1996 (MENP9600723A)](arrete-du-28-mars-1996-menp9600723a)
 - [Arrêté du 28 novembre 1995 (DEFP9502240A)](arrete-du-28-novembre-1995-defp9502240a)
 - [Arrêté du 28 novembre 1995 (EQUT9501793A)](arrete-du-28-novembre-1995-equt9501793a)
