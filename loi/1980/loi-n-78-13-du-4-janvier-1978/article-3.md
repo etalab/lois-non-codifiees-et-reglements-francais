@@ -1,0 +1,3 @@
+# Article 3
+
+Sont considérées, au sens de la présente loi, comme petites ou moyennes entreprises quel que soit leur statut juridique, les entreprises dont le chiffre d'affaires annuel ne dépasse pas 200 millions de francs hors taxes ou dont l'effectif n'excède pas 500 salariés. Le plafond de chiffre d'affaires ci-dessus peut être modifié par décret en Conseil d'Etat, en fonction des variations des circonstances économiques. Ne peuvent cependant bénéficier des dispositions de la présente loi les entreprises constituées sous forme de société dont la moitié du capital social au moins est détenue par une ou plusieurs sociétés ne répondant pas à la définition précitée de la petite ou moyenne entreprise.
