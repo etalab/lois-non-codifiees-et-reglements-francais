@@ -18,6 +18,7 @@
 - [Décret n°2000-1300 du 26 décembre 2000 (AGRP0002534D)](decret-n2000-1300-du-26-decembre-2000-agrp0002534d)
 - [Décret n°2000-383 du 26 avril 2000 (DEFP0001226D)](decret-n2000-383-du-26-avril-2000-defp0001226d)
 - [Décret n°2000-1165 du 27 novembre 2000 (AGRP0000344D)](decret-n2000-1165-du-27-novembre-2000-agrp0000344d)
+- [Décret n°2000-162 du 28 février 2000 (INTB0000044D)](decret-n2000-162-du-28-fevrier-2000-intb0000044d)
 - [Décret n°2000-376 du 28 avril 2000 (INTD0000109D)](decret-n2000-376-du-28-avril-2000-intd0000109d)
 - [Décret n°2000-456 du 29 mai 2000 (ECOX0004146D)](decret-n2000-456-du-29-mai-2000-ecox0004146d)
 - [Décret n°2000-286 du 30 mars 2000 (EQUX0000059D)](decret-n2000-286-du-30-mars-2000-equx0000059d)
