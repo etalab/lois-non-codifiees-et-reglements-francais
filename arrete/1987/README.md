@@ -608,6 +608,7 @@
 - [Arrêté du 30 mars 1987 (INDB8700228A)](arrete-du-30-mars-1987-indb8700228a)
 - [Arrêté du 30 mars 1987 (MCCG8700133A)](arrete-du-30-mars-1987-mccg8700133a)
 - [Arrêté du 30 mars 1987 (TRSA8700125A)](arrete-du-30-mars-1987-trsa8700125a)
+- [Arrêté du 30 septembre 1987 (BUDR8703118A)](arrete-du-30-septembre-1987-budr8703118a)
 - [Arrêté du 31 août 1987 (ASEH8701236A)](arrete-du-31-aout-1987-aseh8701236a)
 - [Arrêté du 31 août 1987 (RESB8700534A)](arrete-du-31-aout-1987-resb8700534a)
 - [Arrêté du 31 décembre 1986](arrete-du-31-decembre-1986)
