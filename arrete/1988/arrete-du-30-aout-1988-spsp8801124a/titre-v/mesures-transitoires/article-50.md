@@ -1,6 +1,6 @@
 # Article 50
 
-Le candidat dépose chaque année [*périodicité*] avant le 15 janvier [*date limite*] et ce jusqu'au 15 janvier 1992 à la direction régionale des affaires sanitaires et sociales de la région sanitaire siège de l'école de son choix un dossier de candidature comprenant [*documents obligatoires*]:
+Le candidat dépose chaque année avant le 31 mars et ce jusqu'au 31 mars 1994 à la direction régionale des affaires sanitaires et sociales de la région sanitaire siège de l'école de son choix un dossier de candidature comprenant :
 
 - un curriculum vitae ;
 

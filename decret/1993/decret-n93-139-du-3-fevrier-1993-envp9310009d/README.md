@@ -1,4 +1,4 @@
-# Titre Ier : Des conditions générales d'admission.
+# Décret n°93-139 du 3 février 1993 relatif aux plans d'élimination des déchets ménagers et assimilés
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -9,4 +9,4 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
-- [Article 9 bis](article-9-bis.md)
+- [Article 10](article-10.md)

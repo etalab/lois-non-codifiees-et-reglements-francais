@@ -28,4 +28,6 @@ En cas d'égalité de points, le classement est établi en fonction des notes ob
 
 Une liste complémentaire peut être établie. Les candidats inscrits sur cette liste justifient d'un total de points égal ou supérieur à 30 points, sans note éliminatoire.
 
+Lorsque, dans une école, la liste complémentaire établie à l'issue des épreuves d'admission n'a pas permis de pourvoir l'ensemble des places offertes, le directeur de l'école concernée peut faire appel à des candidats inscrits sur la liste complémentaire d'autres écoles restés sans affectation à l'issue de la procédure d'admission dans celles-ci. Ces candidats sont admis dans les écoles dans l'ordre d'arrivée de leur demande d'inscription et dans la limite des places disponibles. Cette procédure d'affectation des candidats dans les écoles ne peut être utilisée que pour l'année scolaire au titre de laquelle les épreuves d'admission ont été organisées dans celles-ci.
+
 (1) voir fin du texte.

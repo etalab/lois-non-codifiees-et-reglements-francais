@@ -6,7 +6,7 @@ Il est présidé par le médecin inspecteur régional de la santé, président, 
 
 Il comprend :
 
-- un médecin praticien hospitalier ;
+- un médecin exerçant dans un établissement de santé public ou privé.
 
 - le directeur de l'école de puéricultrices ou son représentant, moniteur ;
 
