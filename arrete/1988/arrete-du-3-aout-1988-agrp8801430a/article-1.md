@@ -1,0 +1,3 @@
+# Article 1
+
+Les résultats officiels d'un reproducteur de l'espèce bovine, ayant fait l'objet d'un agrément pour l'utilisation en monte publique artificielle en France, sont constitués par l'intégralité des résultats le concernant présentés comme tels à la commission de surveillance du programme ou des programmes de mise à l'épreuve ayant émis la proposition d'agrément le concernant. Ces résultats sont mis à jour, le cas échéant, par les derniers résultats d'indexation publiés ultérieurement et conjointement par l'Institut technique de l'élevage bovin et l'Institut national de la recherche agronomique.

@@ -8,16 +8,16 @@ Le jury nommé par arrêté du ministre chargé de la santé comprend [*composit
 
 - le directeur de l'Ecole nationale de la santé publique ou son représentant ;
 
-- un inspecteur général des affaires sociales ;
+- un médecin, inspecteur général des affaires sociales ;
 
-- un professeur médecin de l'Ecole nationale de la santé publique ;
+- deux médecins inspecteurs de la santé en fonctions dans les services extérieurs ;
 
-- deux médecins inspecteurs occupant les fonctions de médecins inspecteurs régionaux ;
-
-- deux membres du corps enseignant hospitalo-universitaire.
+- trois membres du corps enseignant hospitalo-universitaire.
 
 Sont en outre adjoints au jury :
 
-a) Pour l'épreuve d'exercices physiques, un ou plusieurs professeurs d'éducation physique du ministère de l'éducation nationale ;
+a) Pour l'épreuve d'exercices physiques, un ou plusieurs professeurs d'éducation physique ;
 
 b) Pour l'épreuve portant sur le traitement automatisé de l'information, un ou plusieurs examinateurs spécialisés.
+
+c) Pour l'épreuve de langue étrangère, plusieurs examinateurs spécialisés.

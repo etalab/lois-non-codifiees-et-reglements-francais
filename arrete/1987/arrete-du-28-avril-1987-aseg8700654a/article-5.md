@@ -4,24 +4,30 @@ Le concours sur épreuves comporte deux épreuves écrites d'admissibilité et d
 
 I. Epreuves écrites d'admissibilité
 
-1. Composition sur une question portant sur l'hygiène générale, l'hygiène du milieu, les pollutions de l'environnement, l'épidémiologie générale, l'épidémiologie et la prophylaxie des maladies infectieuses et parasitaires (durée une heure trente ; coefficient 1).
+1. Rédaction d'une note de synthèse à partir d'un dossier de santé publique remis au candidat (durée : quatre heures ; coefficient 4).
 
-2. Composition sur une question portant sur la médecine préventive et sociale, l'éducation sanitaire, les structures sanitaires, l'organisation et les structures hospitalières, la législation sanitaire et la sécurité sociale (durée une heure trente ; coefficient 1).
+2. Composition écrite sur des questions de santé publique (durée :
 
-Les épreuves écrites sont éliminatoires. Peuvent seuls être admis à se présenter aux épreuves d'admission les candidats ayant obtenu pour chacune des deux épreuves écrites une note au moins égale à 6 sur 20 et pour l'ensemble des épreuves écrites un total de points fixé par le jury, et qui ne peut en aucun cas être inférieur à 20.
+trois heures ; coefficient 3).
+
+Les épreuves écrites sont éliminatoires. Peuvent seuls être admis à se présenter aux épreuves d'admission les candidats ayant obtenu pour chacune des deux épreuves écrites une note au moins égale à 6 sur 20 et pour l'ensemble des épreuves écrites un total de points fixé par le jury, et qui ne peut en aucun cas être inférieur à 70.
 
 II. Epreuves d'admission
 
-1. Interrogation sur des questions portant sur l'ensemble du programme fixé pour les épreuves écrites (durée quinze minutes ; préparation quinze minutes ; coefficient 1).
+1. Interrogation sur des questions de santé publique (durée :
 
-2. Une épreuve sur titres portant sur l'appréciation des titres hospitaliers et universitaires, des travaux scientifiques et des activités de santé publique du candidat. Les dossiers des candidats sont présentés par des rapporteurs, membres du jury (coefficient 2).
+quinze minutes ; préparation : quinze minutes ; coefficient 3).
 
-3. Un exposé du candidat portant sur ses travaux et suivi d'une discussion entre les membres du jury et l'intéressé qui pourra être interrogé sur ses travaux de recherche, ses activités de santé publique antérieures éventuelles et sur toutes les autres questions en rapport avec les fonctions qu'il postule (durée quinze minutes ; coefficient 1).
+2. Une épreuve portant sur l'appréciation des titres hospitaliers et universitaires et des travaux de santé publique du candidat. Les dossiers des candidats sont présentés par des rapporteurs, membres du jury (coefficient 5).
 
-4. Une épreuve d'exercices physiques dont les modalités d'organisation figurent en annexe (1) (coefficient 1).
+3. Un exposé du candidat portant sur ses travaux et suivi d'une discussion avec les membres du jury qui pourra porter, en outre, sur toute autre question en rapport avec les fonctions postulées (durée maximum : quinze minutes ; coefficient 3).
 
-En outre, les candidats peuvent demander lors de leur inscription à subir, en cas d'admissibilité, une épreuve orale facultative portant sur le traitement automatisé de l'information (durée vingt minutes ; préparation vingt minutes ; coefficient 1).
+4. Une épreuve d'exercices physiques dont les modalités d'organisation figurent en annexe (coefficient 1) (1).    En outre, les candidats peuvent demander, lors de leur inscription, à subir une ou plusieurs des épreuves facultatives ci-après :
 
-La note obtenue pour cette épreuve ne peut entrer en ligne de compte en vue de l'admission que pour la partie excédant la note 10 sur 20.
+- une épreuve écrite de langue étrangère consistant en la traduction sans dictionnaire (sauf pour l'arabe) d'un texte rédigé dans l'une des langues suivantes : allemand, anglais, arabe, espagnol, italien, portugais ou russe (durée : une heure trente ; coefficient 1) ;
 
-(1) Cette annexe peut être obtenue sur simple demande adressée au ministère des affaires sociales et de l'emploi (direction de l'administration générale, du personnel et du budget, sous-direction du recrutement et de la formation professionnelle, bureau R.F./1), 1, place de Fontenoy, 75700 Paris.
+- une épreuve orale portant sur le traitement automatisé de l'information (durée : vingt minutes ; préparation : vingt minutes ; coefficient 1).
+
+Les notes obtenues sur épreuves facultatives ne peuvent entrer en ligne de compte en vue de l'admission que pour la partie excédant la note 10 sur 20.
+
+(1) Cette annexe peut être obtenue sur simple demande adressée au ministère de la solidarité, de la santé et de la protection sociale (direction de l'administration générale, du personnel et du budget, sous-direction de l'organisation des ressources humaines, bureau R.H. 4), 1, place de Fontenoy, 75700 Paris.
