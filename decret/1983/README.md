@@ -15,6 +15,7 @@
 - [Décret n°83-714 du 2 août 1983](decret-n83-714-du-2-aout-1983)
 - [Décret n°83-76 du 2 février 1983](decret-n83-76-du-2-fevrier-1983)
 - [Décret n°83-785 du 2 septembre 1983](decret-n83-785-du-2-septembre-1983)
+- [Décret n°83-791 du 2 septembre 1983](decret-n83-791-du-2-septembre-1983)
 - [Décret n°83-357 du 2 mai 1983](decret-n83-357-du-2-mai-1983)
 - [Décret n°83-358 du 2 mai 1983](decret-n83-358-du-2-mai-1983)
 - [Décret n°83-359 du 2 mai 1983](decret-n83-359-du-2-mai-1983)
