@@ -635,7 +635,6 @@
 - [Arrêté du 23 mai 1990 (RESZ9000041A)](arrete-du-23-mai-1990-resz9000041a)
 - [Arrêté du 23 mai 1990 (RESZ9000043A)](arrete-du-23-mai-1990-resz9000043a)
 - [Arrêté du 23 mai 1990 (RESZ9000044A)](arrete-du-23-mai-1990-resz9000044a)
-- [Arrêté du 23 mai 1990 (SPSP9001100A)](arrete-du-23-mai-1990-spsp9001100a)
 - [Arrêté du 24 août 1990 (DEFD9001878A)](arrete-du-24-aout-1990-defd9001878a)
 - [Arrêté du 24 août 1990 (DEFD9001879A)](arrete-du-24-aout-1990-defd9001879a)
 - [Arrêté du 24 août 1990 (ECOT9013371A)](arrete-du-24-aout-1990-ecot9013371a)
