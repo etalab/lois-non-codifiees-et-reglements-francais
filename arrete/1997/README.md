@@ -748,7 +748,6 @@
 - [Arrêté du 21 novembre 1997 (ECOE9700013A)](arrete-du-21-novembre-1997-ecoe9700013a)
 - [Arrêté du 21 novembre 1997 (EQUT9701772A)](arrete-du-21-novembre-1997-equt9701772a)
 - [Arrêté du 21 novembre 1997 (MAEF9710029A)](arrete-du-21-novembre-1997-maef9710029a)
-- [Arrêté du 21 octobre 1996](arrete-du-21-octobre-1996)
 - [Arrêté du 21 octobre 1997 (AGRE9702183A)](arrete-du-21-octobre-1997-agre9702183a)
 - [Arrêté du 21 octobre 1997 (MENF9701983A)](arrete-du-21-octobre-1997-menf9701983a)
 - [Arrêté du 21 octobre 1997 (MENL9703067A)](arrete-du-21-octobre-1997-menl9703067a)
