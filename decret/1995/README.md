@@ -855,8 +855,6 @@
 - [Décret n°95-338 du 24 mars 1995 (BUDR9401228D)](decret-n95-338-du-24-mars-1995-budr9401228d)
 - [Décret n°95-446 du 24 avril 1995 (SPSS9500878D)](decret-n95-446-du-24-avril-1995-spss9500878d)
 - [Décret n°95-448 du 24 avril 1995 (BUDF9500005D)](decret-n95-448-du-24-avril-1995-budf9500005d)
-- [Décret n°95-469 du 24 avril 1995 (INTB9500093D)](decret-n95-469-du-24-avril-1995-intb9500093d)
-- [Décret n°95-470 du 24 avril 1995 (INTB9500094D)](decret-n95-470-du-24-avril-1995-intb9500094d)
 - [Décret n°95-471 du 24 avril 1995 (INTB9500095D)](decret-n95-471-du-24-avril-1995-intb9500095d)
 - [Décret n°95-472 du 24 avril 1995 (INTB9500096D)](decret-n95-472-du-24-avril-1995-intb9500096d)
 - [Décret n°95-478 du 24 avril 1995 (BUDB9560015D)](decret-n95-478-du-24-avril-1995-budb9560015d)

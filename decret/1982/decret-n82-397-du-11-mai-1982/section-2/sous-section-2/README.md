@@ -1,3 +1,0 @@
-# SOUS-SECTION 2 : ASSOCIATIONS DE MEDECINE DU TRAVAIL
-
-- [Article 4](article-4.md)

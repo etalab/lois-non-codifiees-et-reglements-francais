@@ -379,7 +379,6 @@
 - [Décret n°94-312 du 14 avril 1994 (BUDF9420686D)](decret-n94-312-du-14-avril-1994-budf9420686d)
 - [Décret n°94-42 du 14 janvier 1994 (JUSC9321010D)](decret-n94-42-du-14-janvier-1994-jusc9321010d)
 - [Décret n°94-800 du 14 septembre 1994 (RESK9400362D)](decret-n94-800-du-14-septembre-1994-resk9400362d)
-- [Décret n°94-802 du 14 septembre 1994 (INTE9400345D)](decret-n94-802-du-14-septembre-1994-inte9400345d)
 - [Décret n°94-815 du 14 septembre 1994 (ECOT9451365D)](decret-n94-815-du-14-septembre-1994-ecot9451365d)
 - [Décret n°94-887 du 14 octobre 1994 (DEFX9400135D)](decret-n94-887-du-14-octobre-1994-defx9400135d)
 - [Décret n°94-888 du 14 octobre 1994 (MENX9400082D)](decret-n94-888-du-14-octobre-1994-menx9400082d)

@@ -1,3 +1,0 @@
-# SOUS-SECTION 1 : SECTIONS DE MEDECINE DU TRAVAIL
-
-- [Article 3](article-3.md)
