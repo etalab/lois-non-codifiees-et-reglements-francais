@@ -1258,6 +1258,5 @@
 - [Arrêté du 31 mai 1997 (INTE9700230A)](arrete-du-31-mai-1997-inte9700230a)
 - [Arrêté du 31 mai 1997 (MENU9701625A)](arrete-du-31-mai-1997-menu9701625a)
 - [Arrêté du 31 mai 1997 (TASE9710792A)](arrete-du-31-mai-1997-tase9710792a)
-- [Arrêté du 31 mai 1997 (TASH9721619A)](arrete-du-31-mai-1997-tash9721619a)
 - [Arrêté du 31 mai 1997 (TASS9721614A)](arrete-du-31-mai-1997-tass9721614a)
 - [Arrêté (MENL9702265A)](arrete-menl9702265a)
