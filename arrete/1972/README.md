@@ -33,7 +33,6 @@
 - [Arrêté du 14 avril 1972](arrete-du-14-avril-1972)
 - [Arrêté du 15 mars 1972](arrete-du-15-mars-1972)
 - [Arrêté du 15 septembre 1972](arrete-du-15-septembre-1972)
-- [Arrêté du 16 mars 1972](arrete-du-16-mars-1972)
 - [Arrêté du 16 octobre 1972](arrete-du-16-octobre-1972)
 - [Arrêté du 17 novembre 1972](arrete-du-17-novembre-1972)
 - [Arrêté du 17 mai 1972](arrete-du-17-mai-1972)
