@@ -4,17 +4,9 @@ Le conseil d'administration du centre d'études de l'emploi comprend :
 
 1° Un président nommé pour trois ans par décret, sur proposition conjointe du ministre chargé de l'emploi et du ministre chargé de la recherche ; ses fonctions sont renouvelables ;
 
-2° Quatre membres de droit :
+2° Un membre de droit : le directeur du centre d'études et de recherches sur les qualifications ou son suppléant nommément désigné.
 
-- le délégué à l'emploi ;
-
-- le directeur de l'animation de la recherche, des études et des statistiques au ministère du travail, de l'emploi et de la formation professionnelle.
-
-- le directeur général de la recherche et de la technologie au ministère chargé de la recherche ;
-
-- le directeur général de l'Agence nationale pour l'emploi.
-
-Ces membres de droit peuvent se faire représenter par un suppléant nommément désigné.
+Trois représentants de l'Etat, désignés pour trois ans, dont deux nommés par arrêté du ministre chargé de l'emploi et un nommé par arrêté du ministre chargé de la recherche ; un membre suppléant est nommément désigné pour chaque représentant de l'Etat par arrêté du ministre concerné.
 
 3° Quatre personnalités nommées pour trois ans par arrêté conjoint du ministre chargé de l'emploi et du ministre chargé de la recherche, et choisies en raison de leur compétence dans le domaine de l'emploi ;
 
@@ -22,7 +14,7 @@ Ces membres de droit peuvent se faire représenter par un suppléant nommément 
 
 Le mandat des membres nommés et élus du conseil d'administration est renouvelable.
 
-Les membres décédés, démissionnaires ou qui n'exercent plus les fonctions en raison desquelles ils ont été élus doivent être remplacés. Dans ce cas, le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui des membres qu'ils remplacent.
+Les membres décédés, démissionnaires ou qui n'exercent plus les fonctions en raison desquelles ils ont été nommés ou élus doivent être remplacés. Dans ce cas, le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui des membres qu'ils remplacent.
 
 Les fonctions de membre du conseil d'administration sont gratuites. Elles ouvrent droit aux indemnités de déplacement et de séjour prévus par le décret du 10 août 1966 susvisé.
 

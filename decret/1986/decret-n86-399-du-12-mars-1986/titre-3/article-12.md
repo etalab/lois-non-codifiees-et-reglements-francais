@@ -4,8 +4,6 @@ Il est institué une commission chargée de procéder à l'évaluation des perso
 
 - le président du conseil scientifique ;
 
-- le chef de la mission Animation de la recherche à la direction de l'animation de la recherche, des études et des statistiques du ministère du travail, de l'emploi et de la formation professionnelle ;
-
 - deux membres élus pour deux ans par et parmi les personnels chercheurs du centre, selon des modalités fixées par décision du directeur ;
 
 - quatre membres, dont deux élus, désignés par les ministres de tutelle du centre après avis du président du conseil scientifique, et choisis au sein de celles des sections du Comité national du Centre national de la recherche scientifique dont la compétence correspond aux domaines d'activité du centre d'études de l'emploi.

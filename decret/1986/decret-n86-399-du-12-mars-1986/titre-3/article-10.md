@@ -2,28 +2,24 @@
 
 Le conseil scientifique comprend :
 
-1° Sept membres de droit :
+1° Neuf personnalités, désignées après avis du directeur de l'établissement, choisies en raison de leur compétence scientifique dans les domaines intéressant le centre ;
 
-- le commissaire au Plan ;
+2° Quatre personnalités désignées, respectivement, sur proposition :
 
-- le président de la mission scientifique et technique au ministère chargé de la recherche ;
+- du commissaire au Plan ;
 
-- le directeur de la prévision au ministère chargé de l'économie ;
+- du directeur général du Centre national de la recherche scientifique ;
 
-- le directeur général du Centre national de la recherche scientifique ;
+- du directeur général de l'Institut national de la statistique et des études économiques ;
 
-- le directeur général de l'Institut national de la statistique et des études économiques ;
-
-- le directeur de l'animation de la recherche, des études et des statistiques au ministère du travail, de l'emploi et de la formation professionnelle ;
-
-- le directeur des études de l'Agence nationale pour l'emploi.
-
-Ces membres de droit peuvent se faire représenter.
-
-2° Six personnalités choisies en raison de leur compétence scientifique dans les domaines intéressant le centre et nommées par arrêté conjoint du ministre chargé de l'emploi et du ministre chargé de la recherche ;
+- du directeur général de l'Agence nationale pour l'emploi ;
 
 3° Trois membres élus par les personnels du centre selon des modalités définies par arrêté conjoint du ministre chargé de l'emploi et du ministre chargé de la recherche.
 
-Le mandat des membres nommés et élus du conseil scientifique est renouvelable.
+Les personnalités mentionnées aux 1° et 2° ci-dessus sont nommées par arrêté conjoint du ministre chargé de l'emploi et du ministre chargé de la recherche.
 
-Le président du conseil scientifique est nommé par arrêté conjoint du ministre chargé de l'emploi et du ministre chargé de la recherche parmi les personnalités mentionnées au 2° ci-dessus.
+Le président, choisi parmi les personnalités mentionnées au 1° ci-dessus, est nommé par arrêté conjoint du ministre chargé de l'emploi et du ministre chargé de la recherche.
+
+Le mandat des membres nommés et élus du conseil scientifique est d'une durée de trois ans, renouvelable.
+
+Les membres décédés, démissionnaires ou qui n'exercent plus les fonctions en raison desquelles ils ont été nommés ou élus doivent être remplacés. Dans ce cas, le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui des membres qu'ils remplacent.
