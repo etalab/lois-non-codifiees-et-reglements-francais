@@ -7,3 +7,5 @@ Le contrat emploi-solidarité est conclu pour une durée minimale de trois mois.
 2° Une personne âgée de cinquante ans ou plus inscrite comme demandeur d'emploi pendant douze mois durant les dix-huit mois qui ont précédé la date d'embauche ;
 
 3° Une personne mentionnée au 5° de l'article 1er sans emploi depuis au moins un an.
+
+4° Une personne mentionnée au 6° de l'article 1er.

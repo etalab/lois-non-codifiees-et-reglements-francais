@@ -24,11 +24,13 @@ i) Les modalités de l'aide de l'Etat au titre de la rémunération ;
 
 j) Les modalités de contrôle de l'application de la convention.
 
-Lorsque l'Etat concourt à la prise en charge d'une formation organisée par l'employeur au titre de l'article L. 322-4-10, il est précisé dans la convention ou dans un avenant conclu ultérieurement [*contenu*] :
+Lorsque l'Etat concourt à la prise en charge d'une formation au titre de l'article L. 322-4-10 du code du travail, il est précisé dans la convention ou dans un avenant conclu ultérieurement :
 
 a) La nature de cette formation, sa durée et les modalités de son organisation ;
 
-b) Le montant et les modalités de sa prise en charge par l'Etat.
+b) Les modalités selon lesquelles les associations spécialement agréées à cette fin par le préfet de département contribuent à l'organisation de cette formation ;
+
+c) Le montant et les modalités de sa prise en charge par l'Etat.
 
 La convention prend effet à compter de la date d'embauche du salarié.
 

@@ -12,4 +12,6 @@ Peuvent bénéficier de contrats emploi-solidarité, en application de l'article
 
 5° Les bénéficiaires de l'allocation de revenu minimum d'insertion ainsi que leur conjoint ou concubin ;
 
-6° A titre exceptionnel, des personnes ne remplissant pas toutes les conditions prévues aux 1° à 5° ci-dessus et rencontrant des difficultés particulières d'accès à l'emploi.
+6° Les travailleurs reconnus handicapés par la commission technique d'orientation et de reclassement professionnel et les autres bénéficiaires de l'obligation d'emploi instituée par l'article L. 323-1 du code du travail.
+
+7° A titre exceptionnel, des personnes ne remplissant pas les conditions prévues aux 1° à 6° ci-dessus et rencontrant des difficultés particulières d'accès à l'emploi.

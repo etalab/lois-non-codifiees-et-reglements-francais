@@ -2,7 +2,7 @@
 
 Le montant minimum du cautionnement auquel sont astreints les comptables des organismes visés à l'article 1er ci-dessus est fixé en fonction des recettes et des dépenses annuelles de ces organismes, conformément au barème suivant :
 
-Dépenses annuelles (en francs) / cautionnement miniumum (en francs    Moins de 100 millions : 80.000 F.
+Dépenses et recettes annuelles (en francs) /    Cautionnement minimum (en francs)    Moins de 100 millions : 80.000 F.
 
 De 100 à 500 millions : 100.000 F.
 
