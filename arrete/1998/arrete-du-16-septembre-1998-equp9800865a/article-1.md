@@ -2,10 +2,8 @@
 
 Les taux moyens annuels de la prime spécifique allouée aux délégués au permis de conduire et à la sécurité routière sont fixés comme suit :
 
-=============================================
+Délégués principaux au permis de conduire et à la sécurité routière de 1re classe : 5 311 euros ;
 
-Vous pouvez consulter le tableau dans le JO
+Délégués principaux au permis de conduire et à la sécurité routière de 2e classe : 5 387 euros ;
 
-n° 220 du 23/09/1998 page 14532
-
-=============================================
+Délégués au permis de conduire et à la sécurité routière : 3 521 euros.

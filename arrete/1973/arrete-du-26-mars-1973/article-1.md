@@ -42,7 +42,7 @@ Directeur du musée du Louvre, mentionné dans le décret n° 68-563 du 20 juin 
 
 Inspecteur principal des beaux-arts.
 
-Directeur régional des affaires culturelles mentionné dans le décret n° 78-956 du 13 septembre 1978 ;
+Directeur régional des affaires culturelles mentionné dans le décret n° 2003-598 du 1er juillet 2003 ;
 
 Directeur de la manufacture nationale de Sèvres mentionné dans le décret n° 63-424 du 22 avril 1963 ;
 
@@ -106,7 +106,7 @@ Commissaire contrôleur chef de brigade du contrôle des assurances, mentionné 
 
 Directeur régional des impôts, mentionné dans le décret n° 68-1236 du 30 décembre 1968.
 
-Chef de centre des impôts, mentionné dans le décret n° 68-1237 du 30 décembre 1968.
+Chef d'établissement des impôts, mentionné dans le décret n° 68-1237 du 30 décembre 1968.
 
 Chef des services techniques de l'Imprimerie nationale, mentionné dans le décret n° 69-794 du 7 août 1969.
 
@@ -280,6 +280,6 @@ Ministère de l'industrie et du commerce extérieur :
 
 Chef de mission du ministère de l'industrie et du commerce extérieur mentionné dans le décret n° 92-213 du 4 mars 1992.
 
-[* Les mots chef d'établissement sont substitués à ceux de :
+Ministère des affaires sociales et de la solidarité nationale :
 
-receveur ou chef de centre, par l'article 1er du décret n° 91-70 du 17 janvier 1991. *]
+Directeur du fonds de financement de la protection complémentaire de la couverture universelle du risque maladie mentionné dans le décret n° 2003-432 du 13 mai 2003 relatif aux conditions de nomination et d'avancement dans l'emploi de directeur du fonds de financement de la protection complémentaire de la couverture universelle du risque maladie.

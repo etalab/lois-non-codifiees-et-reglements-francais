@@ -8,8 +8,6 @@ Décret n° 76-818 du 24 août 1976 modifié relatif aux conditions de désignat
 
 Décret n° 76-1133 du 9 décembre 1976 modifié relatif aux emplois de directeur départemental et de directeur régional de la jeunesse, des sports et des loisirs.
 
-Décret n° 78-956 du 13 septembre 1978 fixant les conditions de nomination et d'avancement dans l'emploi de directeur régional des affaires culturelles.
-
 Décret n° 79-102 du 31 janvier 1979 modifié relatif à l'emploi de directeur régional de la concurrence et de la consommation.
 
 Décret n° 79-108 du 31 janvier 1979 modifié relatif à l'emploi de directeur interrégional des douanes et droits indirects.
@@ -35,3 +33,5 @@ Décret n° 2000-439 du 23 mai 2000 portant création du statut d'emploi de dél
 Décret n° 2000-748 du 1er août 2000 relatif aux règles de nomination et d'avancement applicables aux emplois de directeur régional et départemental du travail, de l'emploi et de la formation professionnelle et de directeur du travail, de l'emploi et de la formation professionnelle des départements d'outre-mer.
 
 Décret n° 2002-725 du 30 avril 2002 relatif aux statuts d'emploi de directeur régional et de directeur fonctionnel des services pénitentiaires.
+
+Décret n° 2003-598 du 1er juillet 2003. fixant les conditions de nomination et d'avancement dans l'emploi de directeur régional des affaires culturelles.

@@ -18,6 +18,8 @@ Les sous-directeurs, adjoints aux sous-directeurs et les chefs de bureau.
 
 Les inspecteurs généraux de la police nationale, les contrôleurs généraux de la police nationale et les fonctionnaires du corps de conception et de direction de la police nationale.
 
+Les commandants de police chefs de services ou d'unités organiques de la police nationale dont la liste est fixée par arrêté du ministre chargé de l'intérieur.
+
 Le médecin-chef de la police nationale, son adjoint, ainsi que les médecins inspecteurs régionaux de la police nationale.
 
 Le responsable du service de soutien psychologique opérationnel.
@@ -26,10 +28,12 @@ Dans les services territoriaux
 
 1° Les contrôleurs généraux de la police nationale et les fonctionnaires du corps de conception et de direction de la police nationale.
 
-2° Les fonctionnaires autres que ceux cités au 1° ci-dessus et qui occupent l'un des emplois suivants :
+2° Les fonctionnaires, autres que ceux cités au 1° ci-dessus et qui occupent l'un des emplois suivants :
 
-En sécurité publique : les chefs de circonscription de sécurité publique, d'une part, ainsi que les chefs de service de gestion opérationnelle et les chefs de secrétariat des officiers du ministère public appartenant au corps des attachés de la police nationale, d'autre part ;
+Dans les directions et services actifs de la police nationale autres que la sécurité publique : les commandants de police chefs de services ou d'unités organiques de la police nationale dont la liste est fixée par arrêté du ministre chargé de l'intérieur ;
+
+En sécurité publique : les commandants de police chefs de circonscription de sécurité publique, d'une part, ainsi que les chefs de service de gestion opérationnelle et les chefs de secrétariat des officiers du ministère public appartenant au corps des attachés de la police nationale, d'autre part ;
 
 En police judiciaire : les directeurs et chefs de service de laboratoire de la police scientifique ;
 
-A la direction de la formation de la police nationale : les adjoints aux directeurs d'école, dès lors qu'ils appartiennent au corps des attachés de la police nationale.
+A la direction de la formation de la police nationale : les adjoints aux directeur d'école, dès lors qu'ils appartiennent au corps des attachés de la police nationale.

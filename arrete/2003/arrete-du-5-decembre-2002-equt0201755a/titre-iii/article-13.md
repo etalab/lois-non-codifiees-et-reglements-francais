@@ -1,0 +1,3 @@
+# Article 13
+
+Dispositions relatives aux récipients destinés au transport de gaz comprimés, liquéfiés ou dissous sous pression de la classe 2. - Les récipients sous pression transportables, construits conformément aux dispositions du décret du 18 janvier 1943 modifié et des textes pris pour son application, qui n'ont pas fait l'objet de la réévaluation de la conformité mentionnée à l'article 6 du décret n° 2001-386 du 3 mai 2001 relatif aux équipements sous pression transportables peuvent continuer à être utilisés pour le transport après le 1er janvier 2003. Un arrêté du ministre chargé de l'industrie précisera les règles applicables à l'exploitation de ces récipients.

@@ -1,0 +1,3 @@
+# Article 24
+
+Les représentants des personnels de direction de 1re et 2e catégorie à la commission consultative paritaire sont maintenus en fonctions jusqu'à l'expiration de leur mandat et au plus tard jusqu'à la fin de l'année qui suit celle de la publication du présent décret. Les représentants des 2e et 3e classes de la 2e catégorie exercent les compétences des représentants de la nouvelle 2e classe. Les représentants de la 1re catégorie, 2e classe, et de la 2e catégorie, 1re classe, exercent les compétences des représentants de la nouvelle 1re classe. Les représentants de la 1re catégorie, 1re classe, exercent les compétences des représentants de la nouvelle hors-classe.

@@ -1,6 +1,6 @@
 # Article 2
 
-L'indemnité forfaitaire mensuelle est attribuée aux auditeurs de justice en cours de scolarité et aux anciens auditeurs de justice en position d'activité qui, avant d'accéder à l'Ecole nationale de la magistrature, ont pendant huit ans :
+L'indemnité forfaitaire mensuelle est attribuée aux auditeurs de justice pendant la durée de leur formation initiale  qui, avant d'accéder à l'Ecole nationale de la magistrature, ont pendant huit ans :
 
 1° Accompli des services en tant que fonctionnaire ou agent public en position d'activité ou de détachement ; au sens de l'article 17, 2° de l'ordonnance du 22 décembre 1958 susvisée ;
 

@@ -1,5 +1,17 @@
 # Article 7
 
-Les dispositions du présent décret entrent en application le 1er janvier 1993.
+A titre transitoire, et à compter du 1er janvier 2003, les auditeurs de justice et anciens auditeurs de justice en position d'activité, ayant débuté leur scolarité à l'Ecole nationale de la magistrature depuis moins de sept ans et remplissant les conditions fixées par l'article 2, bénéficient, pour les seules années restant à courir, de l'indemnité forfaitaire mensuelle dont le montant est égal à la valeur annuelle brute (indemnité de résidence exclue) des points indiciaires énumérés ci-après :
 
-A cette date, les auditeurs de justice et anciens auditeurs de justice en position d'activité, ayant débuté leur scolarité à l'Ecole nationale de la magistrature depuis moins de sept ans, bénéficient de l'indemnité forfaitaire mensuelle pour les seules années restant à courir et conformément aux taux prévus pour ces années par l'article 3.
+Première année : 10 ;
+
+Deuxième année : 8,8 ;
+
+Troisième année : 7,6 ;
+
+Quatrième année : 6,4 ;
+
+Cinquième année : 5,3 ;
+
+Sixième année : 4,3 ;
+
+Septième année : 3,5.

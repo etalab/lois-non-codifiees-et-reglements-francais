@@ -1,0 +1,3 @@
+# Article 5
+
+Les titulaires d'un contrat d'apprentissage, en application de l'article L. 115-1 du code du travail, ou d'un contrat de qualification, en application de l'article L. 981-1 du même code, sont regardés, dans le cadre de la formation en alternance, comme titulaires du diplôme prévu à l'article 43 de la loi du 16 juillet 1984 susvisée, à condition d'avoir satisfait à la validation, sous l'autorité d'un tuteur conformément aux dispositions des articles L. 117-4 et R. 981-10 du code du travail, de la qualification intégrée au diplôme mentionnée au 2° de l'article 1er du présent décret.

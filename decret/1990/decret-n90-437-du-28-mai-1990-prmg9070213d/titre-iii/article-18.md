@@ -12,7 +12,7 @@ Lorsque la mutation mentionnée aux 1° et 2° du présent article est prononcé
 
 a) Par une nomination dans un autre corps de même catégorie ou de catégorie supérieure au sens de l'article 29 de la loi du 11 janvier 1984 susvisée ;
 
-b) Pour le magistrat, par une nomination à un groupe de fonctions hiérarchiquement supérieur ou à un emploi classé hors hiérarchie ;
+b) Pour les magistrats, par une nomination à un emploi classé hors hiérarchie ;
 
 c) Pour l'agent de la fonction publique territoriale, par une nomination dans un corps de même catégorie ou de catégorie supérieure de la fonction publique de l'Etat, prononcée dans les conditions prévues à l'article 19 de la loi du 11 janvier 1984 susvisée.
 
@@ -30,4 +30,4 @@ b) A un emploi conduisant à pension d'une administration de l'Etat qui est norm
 
 7° Par une affectation, à l'issue d'un congé de formation, prononcée dans le cadre des dispositions du deuxième alinéa de l'article 17 du décret du 14 juin 1985 susvisé, du fonctionnaire affecté, lors de sa reprise de fonctions, dans une résidence différente de celle où il exerçait ses fonctions lors de sa mise en congé et sous réserve que ce changement d'affectation n'ait pas lieu sur sa demande ;
 
-8° Par l'accomplissement des obligations statutaires de mobilité prévues par les dispositions de l'article 1er du décret du 21 mars 1997 susvisé et de l'article 9 du décret du 22 décembre 1958 susvisé.
+8° Par l'accomplissement des obligations statutaires de mobilité prévues par les dispositions de l'article 39, alinéas 2 et 3, de l'ordonnance du 22 décembre 1958 susvisée, de l'article 13 (2°) du décret du 9 mai 1995 modifié portant statut particulier du corps de conception et de direction de la police nationale et de l'article 1er du décret du 21 mars 1997 relatif à la mobilité des fonctionnaires des corps recrutés par la voie de l'Ecole nationale d'administration et des administrateurs des postes et télécommunications.

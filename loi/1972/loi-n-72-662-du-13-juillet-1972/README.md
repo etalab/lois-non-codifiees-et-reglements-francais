@@ -10,4 +10,5 @@
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Titre V : Dispositions diverses et dispositions transitoires.](titre-v)
+- [Titre VI : Dispositions diverses et dispositions transitoires.](titre-vi)
 - [Annexes](annexes)

@@ -10,7 +10,7 @@ Le contrat précise :
 
 4° La date et le numéro d'inscription au tableau de l'ordre des médecins ou de l'ordre des pharmaciens ;
 
-5° Le service, le département ou la structure où le praticien adjoint contractuel exerce ses fonctions, la nature des fonctions occupées ainsi que les obligations de service qui lui incombent en ce qui concerne son exercice à temps plein ou à temps partiel ainsi que sa participation au service des gardes et astreintes ;
+5° Le service, le département ou la structure où le praticien adjoint contractuel exerce ses fonctions, la nature des fonctions occupées ainsi que les obligations de service qui lui incombent en ce qui concerne son exercice à temps plein ou à temps partiel, notamment celles qui découlent du III de l'article 11 ;
 
 6° La date de prise de fonctions du praticien, la durée du contrat et, le cas échéant, la durée de la période d'essai ;
 

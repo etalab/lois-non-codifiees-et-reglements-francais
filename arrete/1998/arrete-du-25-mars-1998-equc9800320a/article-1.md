@@ -10,13 +10,13 @@ Su
 
 c) Le prix au mètre carré applicable au logement selon la zone géographique dans laquelle il est situé :
 
-Zone 1 : 35 F/m2 ;
+Zone 1 : 7,36 Euros/m2 ;
 
-Zone 1 bis : 41 F/m2 ;
+Zone 1 bis : 7,82 Euros/m2 ;
 
-Zone 2 : 31 F/m2 ;
+Zone 2 : 6,45 Euros/m2 ;
 
-Zone 3 : 28 F/m2.
+Zone 3 : 5,99 Euros/m2.
 
 Les zones 1, 2 et 3 sont définies dans l'arrêté du 5 mai 1995 relatif aux subventions de l'Etat et aux prêts pour la construction, l'acquisition et l'amélioration des logements locatifs aidés.
 

@@ -5,3 +5,4 @@
 - [Chapitre III : Rémunération et couverture des risques.](chapitre-iii)
 - [Chapitre IV : Notation et discipline.](chapitre-iv)
 - [Chapitre V : Reconversion.](chapitre-v)
+- [Chapitre VI : Aptitude médicale au service.](chapitre-vi)
