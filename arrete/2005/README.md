@@ -49,6 +49,7 @@
 - [Arrêté du 24 décembre 2004 (AGRA0402573A)](arrete-du-24-decembre-2004-agra0402573a)
 - [Arrêté du 27 décembre 2005 (DOMA0500054A)](arrete-du-27-decembre-2005-doma0500054a)
 - [Arrêté du 27 juillet 2004 (EQUS0401066A)](arrete-du-27-juillet-2004-equs0401066a)
+- [Arrêté du 28 décembre 2004 (FPPA0400169A)](arrete-du-28-decembre-2004-fppa0400169a)
 - [Arrêté du 29 décembre 2005 (MCCB0500873A)](arrete-du-29-decembre-2005-mccb0500873a)
 - [Arrêté du 29 juin 2005 (DEFP0500720A)](arrete-du-29-juin-2005-defp0500720a)
 - [Arrêté du 30 décembre 2004 (AGRB0402527A)](arrete-du-30-decembre-2004-agrb0402527a)
