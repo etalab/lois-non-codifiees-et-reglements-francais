@@ -31,6 +31,7 @@
 - [Décret n°81-25 du 8 janvier 1981](decret-n81-25-du-8-janvier-1981)
 - [Décret n°81-353 du 8 avril 1981](decret-n81-353-du-8-avril-1981)
 - [Décret n°81-448 du 8 mai 1981](decret-n81-448-du-8-mai-1981)
+- [Décret n°81-460 du 8 mai 1981](decret-n81-460-du-8-mai-1981)
 - [Décret n°81-476 du 8 mai 1981](decret-n81-476-du-8-mai-1981)
 - [Décret n°80-802 du 9 octobre 1980](decret-n80-802-du-9-octobre-1980)
 - [Décret n°81-359 du 9 avril 1981](decret-n81-359-du-9-avril-1981)
