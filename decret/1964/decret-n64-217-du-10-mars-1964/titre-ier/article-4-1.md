@@ -1,0 +1,11 @@
+# Article 4-1
+
+Les concours créés à l'article 4 sont ouverts aux candidats remplissant les conditions de titres et de diplômes pour se présenter aux concours externes correspondants de l'enseignement public.
+
+Au titre d'une même session, un candidat ne peut s'inscrire dans une même section, simultanément :
+
+- au concours pour l'accès à une liste d'aptitude et au concours externe correspondant de l'enseignement public ;
+
+- au concours pour l'accès à une liste d'aptitude et au concours d'accès à l'échelle de rémunération correspondant.
+
+Les candidats au concours pour l'accès à une liste d'aptitude subissent les mêmes épreuves et devant le même jury que les candidats de la section ou éventuellement de l'option correspondante du concours externe de l'enseignement public.

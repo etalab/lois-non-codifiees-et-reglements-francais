@@ -1,6 +1,6 @@
 # Article 12
 
-Les ateliers dans lesquels est effectuée la fabrication de viandes hachées, de préparations de viandes et de morceaux de moins de cent grammes doivent répondre aux dispositions générales prévues à l'arrêté ministériel du 18 juillet 1977 modifié (chapitre IV) et comporter :
+Les ateliers dans lesquels est effectuée la fabrication de viandes hachées, de préparations de viandes et de morceaux de moins de 100 grammes doivent répondre aux dispositions générales de l'arrêté ministériel du 17 mars 1992 relatif aux conditions auxquelles doivent satisfaire les établissements se livrant à la préparation et à la mise sur le marché de viandes d'animaux de boucherie découpées, désossées ou non (titre Ier "Conditions d'installation et d'équipements"), et comporter :
 
 1° Un ou plusieurs locaux ou enceintes spécialement affectés à l'entreposage de viandes réfrigérées, congelées ou surgelées destinées à la préparation de ces produits ;
 

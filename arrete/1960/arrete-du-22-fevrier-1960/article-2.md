@@ -1,47 +1,49 @@
 # Article 2
 
-Cette commission est composée comme suit :
+La commission mentionnée à l'article précédent est composée des membres suivants :
 
-Président :
+1° Représentants de l'Etat.
 
-Représentants de l'administration.
+Le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
-1° Ministère de l'agriculture.
+Le directeur général de l'alimentation ou son représentant ;
 
-Le chef du service de la répression des fraudes ou son représentant ainsi qu'un inspecteur général et le directeur du laboratoire central du même service.
+Le directeur général de la santé ou son représentant ;
 
-Le directeur des services vétérinaires ou son représentant, ainsi que les chefs des services de la santé animale et de l'inspection sanitaire et qualitative des denrées d'origine animale.
+Le directeur de la pharmacie et du médicament ou son représentant.
 
-Le directeur de la production, des marchés et des échanges extérieurs ou son représentant.
+2° Personnalités scientifiques.
 
-Le directeur général de l'institut national de la recherche agronomique ou son représentant.
+a) Au titre de leurs fonctions :
 
-2° Ministère de la santé publique.
+Le président du Conseil supérieur d'hygiène publique de France ou son représentant ;
 
-Le directeur général de la santé ou son représentant.
+Le directeur général de l'Institut national de la recherche agronomique ou son représentant ;
 
-Le chef du service central de la pharmacie et des médicaments ou son représentant.
+Le directeur du Centre national de coordination des études et recherches sur la nutrition et l'alimentation ou son représentant.
 
-Un pharmacien inspecteur de la santé.
+b) En tant que personnalités qualifiées et membres consultants :
 
-Le directeur général de l'institut national de la santé et de la recherche médicale ou son représentant.
+Les membres désignés par arrêté du ministre de l'économie et des finances, du ministre de l'agriculture et de la forêt et du ministre de la santé et de l'action humanitaire ;
 
-3° Ministère de l'économie et des finances.
+Le président de la commission et le vice-président sont nommés parmi les personnalités qualifiées dans les conditions prévues à l'alinéa précédent.
 
-Le directeur général des douanes et des droits indirects ou son représentant.
+3° Représentant des consommateurs.
 
-Personnalités scientifiques.
+Un représentant des associations de consommateurs désigné par décision du ministre chargé de la consommation.
 
-Représentants des professions intéressées.
+4° Représentants des professionnels.
 
-Le président du syndicat national des industries de l'alimentation animale ou son représentant.
+Ils ne seront associés que pour les questions de portée générale.
 
-Le président de l'association professionnelle des fabricants de compléments pour l'alimentation animale ou son représentant.
+Le président du Syndicat national des industriels de la nutrition animale ou son représentant ;
 
-Le président du syndicat national des coopératives préparant des aliments composés ou son représentant.
+Le président de l'association professionnelle des fabricants de compléments pour l'alimentation animale ou son représentant ;
 
-Le président du syndicat national des producteurs d'additifs alimentaires ou son représentant.
+Le président du Syndicat national des coopératives de production et d'alimentation animale ou son représentant ;
 
-Le président de la fédération nationale des syndicats d'exploitants agricoles ou son représentant.
+Le président du Syndicat national des producteurs d'additifs alimentaires ou son représentant ;
+
+Le président de la Fédération nationale des syndicats d'exploitants agricoles ou son représentant ;
 
 Le président de l'assemblée permanente des chambres d'agriculture ou son représentant.

@@ -4,7 +4,7 @@
 - [Titre Ier : Estampillage sanitaire dans les abattoirs.](titre-ier)
 - [Article 2](article-2.md)
 - [Titre II : Estampilles et marques sanitaires dans les ateliers de découpage.](titre-ii)
-- [Titre III : Estampillage sanitaire dans les ateliers de préparation de viandes hachées à l'avance crues ou précuites conditionnées, ou de produits à base de viandes hachées à l'avance crues ou précuites conditionnés.](titre-iii)
+- [Titre III : Estampillage sanitaire dans les ateliers de préparation de viandes hachées à l'avance, de morceaux de moins de 100 grammes et de préparations de viandes.](titre-iii)
 - [Titre V : Estampilles particulières.](titre-v)
 - [Titre VI : Dispositions générales.](titre-vi)
 - [Titre VII : Estampillage sanitaire dans les ateliers de fabrication des viandes hachées, des préparations de viandes et des morceaux de moins de cent grammes destinés à l'exportation vers les Etats membres de la C.E.E..](titre-vii)

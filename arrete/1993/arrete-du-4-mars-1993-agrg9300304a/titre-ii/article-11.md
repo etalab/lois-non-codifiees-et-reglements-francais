@@ -1,0 +1,5 @@
+# Article 11
+
+Sans préjudice des autorisations prévues par l'arrêté du 20 avril 1990 relatif aux modalités de commercialisation de certaines espèces de gibier, les abattoirs ou ateliers de découpe préparant des viandes de gibier d'élevage doivent être approuvés par le préfet, sur proposition du directeur des services vétérinaires. Les établissements désirant vendre des viandes de gibier d'élevage hors du territoire national doivent être agréés par le ministère de l'agriculture et du développement rural, qui en établit la liste. Cette liste d'établissements agréés pour les échanges intracommunautaires de viandes fraîches de gibier d'élevage est publiée au Journal officiel de la République française.
+
+Lorsque le directeur des services vétérinaires constate des manquements à l'hygiène, le ministère de l'agriculture et du développement rural suspend l'agrément et peut fixer un délai pour remédier à ces manquements. Si le responsable de l'établissement ne remédie pas aux manquements au terme de ce délai, l'agrément est retiré.

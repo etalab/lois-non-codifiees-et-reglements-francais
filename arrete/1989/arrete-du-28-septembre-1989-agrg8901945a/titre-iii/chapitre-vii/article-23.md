@@ -8,10 +8,10 @@ Depuis le moment de leur préparation jusqu'à celui de leur utilisation ou de l
 
 Le délai de consommation à partir du conditionnement ne devra pas excéder :
 
-- neuf mois pour les viandes hachées, les préparations de viandes et les morceaux de moins de cent grammes surgelés ;
+- neuf mois pour les viandes hachées, les préparations de viandes (hormis les préparations de viandes hachées) et les morceaux de moins de 100 grammes congelés ou surgelés ;
 
-- six mois pour les préparations de viandes hachées surgelées ;    - le surlendemain pour les viandes hachés, les préparations de viandes hachées réfrigérées lorsqu'elles sont préparées dans un atelier situé hors du lieu de vente. Toutefois, par décision ministérielle, le délai de consommation ci-dessus pourra être prolongé ;
+- six mois pour les préparations de viandes hachées congelées ou surgelées ;
+
+- le surlendemain pour les viandes hachés, les préparations de viandes hachées réfrigérées lorsqu'elles sont préparées dans un atelier situé hors du lieu de vente. Toutefois, par décision ministérielle, le délai de consommation ci-dessus pourra être prolongé ;
 
 - la journée de préparation pour les viandes hachées et les préparations de viandes hachées à l'avance réfrigérées lorsqu'elles sont préparées sur le lieu de vente.
-
-Pour les autres préparations de viandes ainsi que les morceaux de moins de cent grammes réfrigérés ce délai de consommation ne devra pas exéder six jours. Toutefois, par décision ministérielle, le délai de consommation ci-dessus pourra être prolongé.
