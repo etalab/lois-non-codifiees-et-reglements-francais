@@ -6,7 +6,11 @@ Sont soumis à déclaration préalable :
 
 2° Par dérogation aux articles 34 et 34-1 de la présente loi :
 
-a) l'exploitation des réseaux qui desservent moins de 100 foyers et qui ne distribuent que des services de radiodiffusion sonore et de télévision diffusés par voie hertzienne et normalement reçus dans la zone. L'arrêté ministériel prévu à l'article 34 fixe les conditions dans lesquelles ces réseaux sont soumis aux spécifications techniques d'ensemble visées à cet article ;
+a) L'exploitation des réseaux qui desservent moins de cent foyers et qui ne distribuent que des services de radiodiffusion sonore et de télévision diffusés par voie hertzienne terrestre et par satellite, et normalement reçus dans la zone, ainsi que l'exploitation des réseaux qui ne distribuent que des services de radiodiffusion sonore et de télévision diffusés par voie hertzienne terrestre et normalement reçus dans la zone. L'exploitation peut alors être assurée par toute personne morale.
+
+Toutefois, lorsque ces réseaux sont situés dans une zone desservie par un réseau autorisé en application de l'article 34, ils ne peuvent faire l'objet d'une exploitation sous le régime de la déclaration préalable que dans le cas où une offre de raccordement au réseau autorisé a été précédemment rejetée soit par l'assemblée générale des copropriétaires dans les conditions prévues au j de l'article 25 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis, soit par les locataires saisis par le bailleur dans les conditions prévues à l'article 42 de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière.
+
+L'arrêté ministériel prévu à l'article 34 fixe les conditions particulières dans lesquelles ces réseaux sont soumis aux spécifications techniques d'ensemble visées à cet article.
 
 b) les services de communication audiovisuelle internes à une entreprise ou à un service public.
 

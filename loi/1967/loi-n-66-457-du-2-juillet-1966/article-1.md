@@ -2,14 +2,10 @@
 
 Le propriétaire d'un immeuble ne peut, nonobstant toute convention contraire, même antérieurement conclue, s'opposer, sans motif sérieux et légitime, à l'installation, à l'entretien ou au remplacement, aux frais d'un ou plusieurs locataires ou occupants de bonne foi, d'une antenne extérieure réceptrice de radiodiffusion.
 
-Il ne peut, dans les mêmes conditions, s'opposer au raccordement d'un locataire ou occupant de bonne foi à un réseau distribuant par câble des services de radiodiffusion sonore ou de télévision.
-
-L'offre de raccordement, faite par le propriétaire :
-
-- soit à une antenne collective,
-
-- soit à un réseau interne à l'immeuble raccordé à un réseau câblé, fournissant un service collectif dont le contenu et la tarification sont définis par un accord collectif pris en application de l'article 42 de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière, et répondant, dans les deux cas, aux spécifications techniques d'ensemble fixées par l'arrêté interministériel prévu à l'article 34 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, constitue, notamment, un motif sérieux et légitime de s'opposer à l'installation ou au remplacement d'une antenne individuelle.
+L'offre, faite par le propriétaire, de raccordement soit à une antenne collective, soit à un réseau interne à l'immeuble raccordé à un réseau câblé qui fournissent un service collectif dont le contenu et la tarification sont définis par un accord collectif pris en application de l'article 42 de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière et répondant, dans les deux cas, aux spécifications techniques d'ensemble fixées par l'arrêté interministériel prévu à l'article 34 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, constitue, notamment, un motif sérieux et légitime de s'opposer à l'installation ou au remplacement d'une antenne individuelle.
 
 Dans les mêmes conditions, l'offre faite par le propriétaire de raccordement à un réseau interne d'immeuble permettant d'accéder à l'ensemble des services de radiodiffusion sonore et de télévision distribués par un réseau câblé constitue un motif sérieux et légitime de s'opposer au raccordement individuel d'un locataire ou d'un occupant de bonne foi audit réseau câblé.
 
 Toutefois, le propriétaire d'un immeuble ne peut s'opposer, sans motif sérieux et légitime, à l'installation, au remplacement ou à l'entretien des antennes individuelles, émettrices et réceptrices, nécessaires au bon fonctionnement de stations du service amateur agréées par le ministère des postes et télécommunications conformément à la réglementation en vigueur. Les bénéficiaires sont responsables, chacun en ce qui le concerne, des travaux d'installation, d'entretien ou de remplacement et des conséquences que pourrait comporter la présence des antennes en cause.
+
+Les modalités de remplacement d'une antenne collective par un réseau interne raccordé au réseau câblé sont déterminées par un accord collectif pris en application de l'article 42 de la loi n° 86-1290 du 23 décembre 1986 précitée.
