@@ -87,6 +87,7 @@
 - [Décret n°77-253 du 17 mars 1977](decret-n77-253-du-17-mars-1977)
 - [Décret n°77-650 du 17 juin 1977](decret-n77-650-du-17-juin-1977)
 - [Décret n°77-80 du 17 janvier 1977](decret-n77-80-du-17-janvier-1977)
+- [Décret n°77-949 du 17 août 1977](decret-n77-949-du-17-aout-1977)
 - [Décret n°77-508 du 18 mai 1977](decret-n77-508-du-18-mai-1977)
 - [Décret n°77-521 du 18 mai 1977](decret-n77-521-du-18-mai-1977)
 - [Décret n°77-524 du 18 mai 1977](decret-n77-524-du-18-mai-1977)
