@@ -174,6 +174,7 @@
 - [Arrêté du 6 août 1991 (TEFE9103871A)](arrete-du-6-aout-1991-tefe9103871a)
 - [Arrêté du 6 décembre 1990 (INDD9000550A)](arrete-du-6-decembre-1990-indd9000550a)
 - [Arrêté du 6 décembre 1991 (AGRR9101447A)](arrete-du-6-decembre-1991-agrr9101447a)
+- [Arrêté du 6 décembre 1991 (MENF9102757A)](arrete-du-6-decembre-1991-menf9102757a)
 - [Arrêté du 6 février 1991 (ENVN9161083A)](arrete-du-6-fevrier-1991-envn9161083a)
 - [Arrêté du 6 février 1991 (ENVN9161084A)](arrete-du-6-fevrier-1991-envn9161084a)
 - [Arrêté du 6 février 1991 (ENVN9161085A)](arrete-du-6-fevrier-1991-envn9161085a)
