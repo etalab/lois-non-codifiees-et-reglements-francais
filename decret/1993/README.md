@@ -686,6 +686,7 @@
 - [Décret n°93-1016 du 25 août 1993 (SPSS9302139D)](decret-n93-1016-du-25-aout-1993-spss9302139d)
 - [Décret n°93-113 du 25 janvier 1993 (MENZ9203811D)](decret-n93-113-du-25-janvier-1993-menz9203811d)
 - [Décret n°93-114 du 25 janvier 1993 (JUSD9230037D)](decret-n93-114-du-25-janvier-1993-jusd9230037d)
+- [Décret n°93-1186 du 25 octobre 1993 (ECOT9351298D)](decret-n93-1186-du-25-octobre-1993-ecot9351298d)
 - [Décret n°93-245 du 25 février 1993 (ENVN9310005D)](decret-n93-245-du-25-fevrier-1993-envn9310005d)
 - [Décret n°93-248 du 25 février 1993 (TEFE9300195D)](decret-n93-248-du-25-fevrier-1993-tefe9300195d)
 - [Décret n°93-249 du 25 février 1993 (TEFE9300227D)](decret-n93-249-du-25-fevrier-1993-tefe9300227d)
