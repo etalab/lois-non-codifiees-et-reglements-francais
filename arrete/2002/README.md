@@ -35,6 +35,7 @@
 - [Arrêté du 2 juillet 2002 (AGRG0201469A)](arrete-du-2-juillet-2002-agrg0201469a)
 - [Arrêté du 2 juillet 2003 (EQUI0200467A)](arrete-du-2-juillet-2003-equi0200467a)
 - [Arrêté du 2 octobre 2002 (SANG0222367A)](arrete-du-2-octobre-2002-sang0222367a)
+- [Arrêté du 2 septembre 2002 (DEVG0210316A)](arrete-du-2-septembre-2002-devg0210316a)
 - [Arrêté du 2 mai 2002 (AGRA0200692A)](arrete-du-2-mai-2002-agra0200692a)
 - [Arrêté du 2 mai 2002 (AGRA0200701A)](arrete-du-2-mai-2002-agra0200701a)
 - [Arrêté du 2 mai 2002 (AGRR0200833A)](arrete-du-2-mai-2002-agrr0200833a)
