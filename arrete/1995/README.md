@@ -1013,7 +1013,6 @@
 - [Arrêté du 22 décembre 1994 (SANH9503949A)](arrete-du-22-decembre-1994-sanh9503949a)
 - [Arrêté du 22 décembre 1995 (BUDF9520895A)](arrete-du-22-decembre-1995-budf9520895a)
 - [Arrêté du 22 décembre 1995 (ECOT9520021A)](arrete-du-22-decembre-1995-ecot9520021a)
-- [Arrêté du 22 décembre 1995 (INDD9501250A)](arrete-du-22-decembre-1995-indd9501250a)
 - [Arrêté du 22 février 1995 (BUDP9500001A)](arrete-du-22-fevrier-1995-budp9500001a)
 - [Arrêté du 22 février 1995 (DEFP9501229A)](arrete-du-22-fevrier-1995-defp9501229a)
 - [Arrêté du 22 février 1995 (EQUS9500396A)](arrete-du-22-fevrier-1995-equs9500396a)
