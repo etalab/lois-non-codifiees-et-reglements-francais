@@ -1,4 +1,5 @@
-# Arrêté du 10 août 1984 modifiant un précédent arrêté relatif au calcul de l'aide personnalisée au logement *APL* attribuée aux personnes résidant dans un logement-foyer.
+# Arrêté du 10 août 1984 portant délégation de pouvoirs du ministre de la défense à certaines autorités militaires en matière de participation des armées à des activités ne relevant pas de leurs missions spécifiques
 
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
