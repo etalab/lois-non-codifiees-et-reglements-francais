@@ -1,0 +1,3 @@
+# Article 5
+
+Pour les communes de la métropole et des départements d'outre-mer dont le potentiel fiscal par habitant est inférieur à la moyenne de leur groupe démographique, la majoration de la part principale de dotation globale d'équipement prévue à l'article 15 du décret du 18 février 1983 susvisé, est proportionnelle au produit des sommes perçues au titre de cette part par l'écart entre le potentiel fiscal moyen par habitant des communes du même groupe démographique et le potentiel fiscal par habitant de la commune divisé par le potentiel fiscal moyen par habitant des communes du même groupe démographique.
