@@ -1,17 +1,3 @@
 # Article 3
 
-Compte tenu des prix directeurs de campagne, constatés à l'article 1er ci-dessus, et des taux de conversion, constatés à l'article 2 ci-dessus, le tarif de la taxe de protection sanitaire et d'organisation des marchés des viandes pour l'année civile 1986 s'établit comme suit en francs par kilogramme net :
-
-- pour les gros bovins à 0,098 ;
-
-- pour les veaux à 0,114 ;
-
-- pour les espèces chevalines, asine et leurs croisements à 0,066 ;
-
-- pour les ovins à 0,062 ;
-
-- pour les caprins à 0,053 ;
-
-- pour les porcins à 0,078 ;
-
-- pour les volailles à 0,013.
+Le présent arrêté sera publié au Journal officiel de la République française.
