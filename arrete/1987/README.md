@@ -75,7 +75,6 @@
 - [Arrêté du 4 juin 1987](arrete-du-4-juin-1987)
 - [Arrêté du 4 juin 1987 (EQUR8700580A)](arrete-du-4-juin-1987-equr8700580a)
 - [Arrêté du 4 juin 1987 (PTTA8700426A)](arrete-du-4-juin-1987-ptta8700426a)
-- [Arrêté du 4 juin 1987 (TRST8700207A)](arrete-du-4-juin-1987-trst8700207a)
 - [Arrêté du 4 mars 1987 (ASES8700393A)](arrete-du-4-mars-1987-ases8700393a)
 - [Arrêté du 4 novembre 1987 (BUDR8703127A)](arrete-du-4-novembre-1987-budr8703127a)
 - [Arrêté du 4 novembre 1987 (ECOT8723012A)](arrete-du-4-novembre-1987-ecot8723012a)
