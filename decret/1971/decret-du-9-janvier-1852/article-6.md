@@ -24,4 +24,6 @@ Sera puni d'une amende de 3000 à 150000 F quiconque aura, en infraction aux rè
 
 11° colporté, exposé à la vente, vendu sous quelque forme que ce soit, acheté en connaissance de cause les produits de la pêche sous-marine ou à pied pratiquée à titre non professionnel ;
 
-12° formé ou immergé sans autorisation une exploitation de cultures marines, un établissement permanent de capture ou une structure artificielle ; ces exploitations, établissements ou structures formés ou immergés sans autorisation seront détruites aux frais du condamné.
+12° formé ou immergé sans autorisation une exploitation de cultures marines, un établissement permanent de capture ou une structure artificielle ; ces exploitations, établissements ou structures formés ou immergés sans autorisation seront détruites aux frais du condamné ;
+
+13° jeté, déversé ou laissé écouler, directement ou indirectement en mer ou dans la partie des cours d'eau, canaux ou plans d'eau où les eaux sont salées, des substances ou organismes nuisibles pour la conservation ou la reproduction des mammifères marins, poissons, crustacés, coquillages, mollusques ou végétaux, ou de nature à les rendre impropres à la consommation.

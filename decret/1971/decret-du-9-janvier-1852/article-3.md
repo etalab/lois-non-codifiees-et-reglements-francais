@@ -1,6 +1,6 @@
 # Article 3
 
-La pêche maritime s'exerce conformément aux règlements de la Communauté économique européenne et notamment ceux relatifs au régime de conservation et de gestion des ressources.
+La pêche maritime s'exerce conformément aux règlements de la communauté économique européenne et notamment ceux relatifs au régime de conservation et de gestion des ressources.
 
 Toutefois, lorsque la mise en application effective de ces règlements l'exige ou le permet ou lorsque la pêche s'exerce dans des eaux ou par des activités ne relevant pas du champ d'application de ces règlements, des décrets en Conseil d'Etat fixent les conditions dans lesquelles peuvent être prises les mesures suivantes :
 
@@ -20,10 +20,16 @@ Toutefois, lorsque la mise en application effective de ces règlements l'exige o
 
 8° L'énoncé des conditions d'exécution d'opérations accessoires de la pêche à bord des navires ;
 
-9° La prohibition de la mise en vente, de l'achat, et du transport des produits dont la pêche est interdite ; 10° Le classement des gisements naturels coquilliers et de la définition de leurs conditions d'exploitation ; 11° La définition des conditions de récolte des végétaux marins ; 12° La délimitation de réserves ou de cantonnements interdits à toute pêche ou la définition des restrictions de pêche destinées à favoriser l'implantation des structures artificielles aux fins d'exploitation et de mise en valeur des ressources biologiques ;
+9° La prohibition de la mise en vente, de l'achat, et du transport des produits dont la pêche est interdite ;
+
+10° Le classement des gisements naturels coquilliers et de la définition de leurs conditions d'exploitation ;
+
+11° La définition des conditions de récolte des végétaux marins ;
+
+12° La délimitation de réserves ou de cantonnements interdits à toute pêche ou la définition des restrictions de pêche destinées à favoriser l'implantation des structures artificielles aux fins d'exploitation et de mise en valeur des ressources biologiques ;
 
 13° La détermination des conditions générales d'installation et d'exploitation des établissements de cultures marines, des établissements permanents de capture et des structures artificielles ;
 
-14° La détermination des conditions de reconstitution des ressources de pêche et d'enrichissement ou de repeuplement des fonds ;
+14° La détermination des conditions de conservation, de reproduction, de reconstitution des ressources de pêche et d'enrichissement ou de repeuplement des fonds ;
 
 Enfin, et généralement, toutes mesures d'ordre et de précaution propres à assurer la conservation des ressources et à régler l'exercice de la pêche.

@@ -6,7 +6,7 @@ Des décrets en Conseil d'Etat déterminent :
 
 2. Les conditions dans lesquelles peuvent être réglementées la mise en vente et la diffusion de certains produits susceptibles de donner naissance à des déversements qui ont fait l'objet d'une interdiction ou d'une réglementation en vertu du 1. ci-dessus ou d'accroître leur nocivité ou d'aggraver leur nuisance ;
 
-3. Les conditions dans lesquelles sont effectués les contrôles des caractéristiques physiques, chimiques, biologiques et bactériologiques des eaux réceptrices et des déversements, et notamment les conditions dans lesquelles il sera procédé aux prélèvements et aux analyses d'échantillons ;
+3. Les conditions dans lesquelles sont effectués les contrôles des caractéristiques physiques, chimiques, biologiques et bactériologiques des eaux réceptrices et des déversements, et notamment les conditions dans lesquelles il sera procédé aux prélèvements et aux analyses d'échantillons. Les frais des mesures de contrôle du respect des conditions mises à l'autorisation sont à la charge du bénéficiaire de l'autorisation ;
 
 4. Les cas et conditions dans lesquels l'administration peut prendre, en raison du péril qui pourrait en résulter pour la sécurité ou la salubrité publiques, toutes mesures immédiatement exécutoires en vue de faire cesser le trouble.
 
