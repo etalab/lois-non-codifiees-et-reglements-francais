@@ -12,4 +12,4 @@ Ils peuvent obtenir la dispense de la scolarité. Ils doivent figurer en rang ut
 
 Ces étudiants s'inscrivent en première année dans les conditions prévues par la réglementation pour l'inscription dans cette année d'études. Ils peuvent être dispensés de la scolarité de la première année.
 
-S'ils figurent en rang utile sur la liste de classement établie à l'issue de la première année, ils peuvent obtenir la dispense de la scolarité des années suivantes jusqu'à la troisième comprise. Ils doivent alors subir un examen de vérification des connaissances correspondant aux années d'études sur lesquelles porte la dispense de scolarité.
+S'ils figurent en rang utile sur la liste de classement établie à l'issue des épreuves sanctionnant la première année d'études, ils peuvent obtenir la dispense de la scolarité des années suivantes jusqu'à la quatrième comprise. Ils doivent cependant subir un examen de vérification des connaissances correspondant aux années d'études sur lesquelles porte la dispense de scolarité.
