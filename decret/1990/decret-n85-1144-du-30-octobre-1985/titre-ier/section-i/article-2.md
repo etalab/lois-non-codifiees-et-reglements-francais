@@ -32,11 +32,15 @@ Une personne travaillant sur l'exploitation ne peut être prise en compte pour p
 
 b) Procure au moment de la demande un revenu du travail par unité de travail humain inférieur au revenu de référence défini à l'article 6 ci-dessous ;
 
+c) Ne supporte pas au moment de la demande un endettement excessif. A cette fin, le projet décrit la situation financière de l'exploitation, appréciée notamment par le rapport existant entre la charge annuelle de remboursement en capital et intérêts des prêts à long et moyen terme et l'excédent brut d'exploitation. Un arrêté conjoint des ministres chargés de l'économie et de l'agriculture fixe les modalités d'application du présent alinéa.
+
 6° Faire la démonstration que les investissements prévus dans le plan :
 
 a) Répondent aux conditions fixées dans l'article 2, 1er paragraphe, c, du règlement C.E.E. n° 797-85 du conseil du 12 mars 1985 susvisé ;
 
 b) Ne porteront pas le revenu du travail par unité de travail humain au-delà de 120 p. 100 du revenu de référence défini à l'article 6 du présent décret.
+
+c) N'induiront pas un endettement excessif. Un arrêté conjoint des ministres chargés de l'économie et de l'agriculture fixe les modalités d'application du présent alinéa.
 
 Pour l'application des paragraphes 5 et 6 du présent article le revenu du travail est calculé en prenant en compte trois unités de travail humain au plus pour l'exploitation ;
 
