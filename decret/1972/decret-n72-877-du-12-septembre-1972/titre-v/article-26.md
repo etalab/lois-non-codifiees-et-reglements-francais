@@ -2,6 +2,8 @@
 
 Les agents titulaires ou stagiaires placés dans l'une des positions prévues à l'article L. 848 du code de la santé publique et occupant à la date de publication du présent décret l'un des emplois énumérés ci-dessous seront reclassés ainsi qu'il est indiqué ci-après dans les conditions prévues par l'article 21 (dernier alinéa) ci-dessus :
 
+Les aides-ouvriers dans les emplois d'ouvriers professionnels de 3e catégorie.
+
 Les manoeuvres de force et les manoeuvres, dans des emplois de manoeuvres.
 
 Les conducteurs de véhicules poids lourds, dans des emplois de conducteurs d'automobile de 1re catégorie.
