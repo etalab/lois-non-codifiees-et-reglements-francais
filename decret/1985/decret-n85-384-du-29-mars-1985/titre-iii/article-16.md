@@ -6,7 +6,7 @@ Il est créé dans chaque région sanitaire une commission paritaire régionale,
 
 a) Le directeur régional des affaires sanitaires et sociales ou son représentant ;
 
-b) Le médecin inspecteur régional de la santé ou son représentant. Toutefois, lorsque le médecin inspecteur régional de la santé a saisi la commission dans le cadre des attributions qui lui sont dévolues par l'article L. 714-29 du code de la santé publique susvisé, il est suppléé par un médecin inspecteur régional d'une région voisine ;
+b) Le médecin inspecteur régional de la santé ou son représentant ou, pour la discipline pharmaceutique, le pharmacien inspecteur régional de la santé ou son représentant. Toutefois, lorsque le médecin ou le pharmacien inspecteur régional de la santé a saisi le conseil d'administration de l'établissement dans le cadre des attributions qui lui sont dévolues par l'article L. 6152-3 du code de la santé publique et que le préfet a saisi la commission paritaire régionale, il est suppléé par un médecin ou un pharmacien inspecteur régional d'une région voisine ;
 
 c) Un médecin inspecteur départemental de la santé ou son suppléant ayant la même qualité ;
 

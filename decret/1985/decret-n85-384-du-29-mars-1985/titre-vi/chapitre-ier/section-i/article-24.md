@@ -1,8 +1,8 @@
 # Article 24
 
-Les praticiens régis par le présent décret ont la responsabilité de la permanence médicale des soins, conjointement avec les autres membres du corps médical de l'établissement.
+Les médecins, biologistes et odontologistes régis par le présent décret ont la responsabilité de la permanence médicale des soins, conjointement avec les autres membres du corps médical de l'établissement. Les pharmaciens régis par le présent décret ont la responsabilité de l'organisation de la permanence pharmaceutique, conjointement avec les autres pharmaciens de l'établissement.
 
-A ce titre ils doivent en particulier :
+Ils doivent en particulier :
 
 a) Participer à l'ensemble de l'activité du service ou du département;
 
