@@ -1,7 +1,15 @@
 # Article 14
 
-Les concours ouvrant l'accès aux cadres des personnels titulaires de l'Etat et des collectivités locales ne pourront être organisés, à compter de la promulgation de la présente loi, que dans les conditions suivantes :
+A compter de la promulgation de la présente loi et jusqu'à une date qui sera fixée par décret pris sur le rapport du ministre chargé de la fonction publique, du ministre du budget et du ministre des affaires économiques, les concours ouvrant l'accès aux corps et cadres des personnels titulaires de l'Etat et des collectivités locales, conformément aux statuts particuliers régissant ces personnels, ne pourront être organisés que dans les conditions suivantes :
 
-a) Pour les personnels de l'Etat, en vertu d'un décret contresigné par le ministre intéressé, le ministre des finances et des affaires économiques et le secrétaire d'Etat à la fonction publique et à la réforme administrative, qui fixera notamment le nombre des emplois à pourvoir ;
+a) Pour les personnels de l'Etat, en vertu d'un arrêté du ministre intéressé pris après avis du contrôleur des dépenses engagées et contresigné par le ministre chargé de la fonction publique ;
 
-b) Pour les personnels des collectivités locales (départements, communes de plus de 50 000 habitants et communes de plus de 10 000 habitants et désignées par arrêté du ministre de l'intérieur), en vertu de délibérations du conseil général ou du conseil municipal approuvées par arrêté du préfet, pris après avis du trésorier payeur général, et fixant notamment le nombre des emplois à pourvoir.
+b) Pour les personnels des collectivités locales (départements et communes de plus de 50 000 habitants), en vertu de délibérations du conseil général ou du conseil municipal, approuvées par arrêté du préfet pris sur avis conforme du trésorier-payeur général ;
+
+Les uns et les autres de ces arrêtés devront mentionner, notamment :
+
+- Le nombre des emplois à pourvoir ;
+
+- Le nombre des emplois réservés aux fonctionnaires dégagés des cadres autrement que sur leur demande en application des lois n°46-195 du 15 février 1946 et n° 47-1680 du 3 septembre 1947 modifiées et des décrets pris pour leur application.
+
+Les arrêtés susvisés fixeront, le cas échéant, les modalités suivant lesquelles ces fonctionnaires seront reclassés dans leur nouveau cadre, par dérogation aux règles statutaires de recrutement.
