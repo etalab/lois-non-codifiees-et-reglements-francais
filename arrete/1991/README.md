@@ -348,7 +348,6 @@
 - [Arrêté du 12 décembre 1991 (MENN9102976A)](arrete-du-12-decembre-1991-menn9102976a)
 - [Arrêté du 12 juillet 1991 (MEND9101446A)](arrete-du-12-juillet-1991-mend9101446a)
 - [Arrêté du 12 juillet 1991 (SPSP9101584A)](arrete-du-12-juillet-1991-spsp9101584a)
-- [Arrêté du 12 juillet 1991 (SPSS9101589A)](arrete-du-12-juillet-1991-spss9101589a)
 - [Arrêté du 12 juin 1991 (PTTS9100156A)](arrete-du-12-juin-1991-ptts9100156a)
 - [Arrêté du 12 juin 1991 (SPSS9101277A)](arrete-du-12-juin-1991-spss9101277a)
 - [Arrêté du 12 juin 1991 (SPSS9101278A)](arrete-du-12-juin-1991-spss9101278a)

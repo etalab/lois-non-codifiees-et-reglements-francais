@@ -224,7 +224,6 @@
 - [Arrêté du 7 décembre 1994 (BUDR9405027A)](arrete-du-7-decembre-1994-budr9405027a)
 - [Arrêté du 7 décembre 1994 (RESK9401858A)](arrete-du-7-decembre-1994-resk9401858a)
 - [Arrêté du 7 décembre 1994 (SPSG9402970A)](arrete-du-7-decembre-1994-spsg9402970a)
-- [Arrêté du 7 février 1994 (BUDD9470002A)](arrete-du-7-fevrier-1994-budd9470002a)
 - [Arrêté du 7 février 1994 (SANH9400480A)](arrete-du-7-fevrier-1994-sanh9400480a)
 - [Arrêté du 7 février 1994 (SANP9400484A)](arrete-du-7-fevrier-1994-sanp9400484a)
 - [Arrêté du 7 janvier 1994 (ECOT9326097A)](arrete-du-7-janvier-1994-ecot9326097a)
