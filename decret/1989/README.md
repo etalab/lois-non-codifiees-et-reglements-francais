@@ -129,6 +129,7 @@
 - [Décret n°89-380 du 9 juin 1989 (EQUP8900073D)](decret-n89-380-du-9-juin-1989-equp8900073d)
 - [Décret n°89-825 du 9 novembre 1989 (MENF8902352D)](decret-n89-825-du-9-novembre-1989-menf8902352d)
 - [Décret n°89-830 du 9 novembre 1989 (DOMX8900153D)](decret-n89-830-du-9-novembre-1989-domx8900153d)
+- [Décret n°89-833 du 9 novembre 1989 (MENX8900122D)](decret-n89-833-du-9-novembre-1989-menx8900122d)
 - [Décret n°90-47 du 9 janvier 1990 (MCCB8900543D)](decret-n90-47-du-9-janvier-1990-mccb8900543d)
 - [Décret n°88-690 du 9 mai 1988 (PRMJ8860045D)](decret-n88-690-du-9-mai-1988-prmj8860045d)
 - [Décret n°88-700 du 9 mai 1988 (MCCB8800300D)](decret-n88-700-du-9-mai-1988-mccb8800300d)
