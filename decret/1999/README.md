@@ -81,6 +81,7 @@
 - [Décret n°99-900 du 25 octobre 1999 (JUSE9940214D)](decret-n99-900-du-25-octobre-1999-juse9940214d)
 - [Décret n°99-903 du 25 octobre 1999 (JUSE9940264D)](decret-n99-903-du-25-octobre-1999-juse9940264d)
 - [Décret n°99-963 du 25 novembre 1999 (MESG9922549D)](decret-n99-963-du-25-novembre-1999-mesg9922549d)
+- [Décret n°99-55 du 26 janvier 1999 (ATEP9860072D)](decret-n99-55-du-26-janvier-1999-atep9860072d)
 - [Décret n°99-430 du 26 mai 1999 (DEFP9901402D)](decret-n99-430-du-26-mai-1999-defp9901402d)
 - [Décret n°98-1204 du 28 décembre 1998 (ECOI9801029D)](decret-n98-1204-du-28-decembre-1998-ecoi9801029d)
 - [Décret n°98-1206 du 28 décembre 1998 (ECOT9810356D)](decret-n98-1206-du-28-decembre-1998-ecot9810356d)
