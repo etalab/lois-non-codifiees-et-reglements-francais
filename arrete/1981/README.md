@@ -95,7 +95,6 @@
 - [Arrêté du 28 septembre 1981](arrete-du-28-septembre-1981)
 - [Arrêté du 30 décembre 1980](arrete-du-30-decembre-1980)
 - [Arrêté du 30 décembre 1981](arrete-du-30-decembre-1981)
-- [Arrêté du 30 juillet 1981](arrete-du-30-juillet-1981)
 - [Arrêté du 30 mars 1981](arrete-du-30-mars-1981)
 - [Arrêté du 30 novembre 1981](arrete-du-30-novembre-1981)
 - [Arrêté du 30 octobre 1981](arrete-du-30-octobre-1981)
