@@ -1,0 +1,8 @@
+# Décret n°62-382 du 3 avril 1962 RELATIF A CERTAINES DISPOSITIONS STATUTAIRES CONCERNANT LES AIDES-ASTRONOMES DES OBSERVATOIRES ET AIDES-PHYSICIENS DES INSTITUTS DE PHYSIQUE DU GLOBE ET LES ASSISTANTS DES OBSERVATOIRES ET DES INSTITUTS DE PHYSIQUE DU GLOBE
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
