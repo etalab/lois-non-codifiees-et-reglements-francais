@@ -52,6 +52,7 @@
 - [Décret n°91-116 du 28 janvier 1991 (MENG9002981D)](decret-n91-116-du-28-janvier-1991-meng9002981d)
 - [Décret n°97-544 du 28 mai 1997 (JUSD9730073D)](decret-n97-544-du-28-mai-1997-jusd9730073d)
 - [Décret n°97-1254 du 29 décembre 1997 (INTM9700014D)](decret-n97-1254-du-29-decembre-1997-intm9700014d)
+- [Décret n°69-765 du 30 juillet 1969](decret-n69-765-du-30-juillet-1969)
 - [Décret n°93-1146 du 30 septembre 1993 (DOMP9300030D)](decret-n93-1146-du-30-septembre-1993-domp9300030d)
 - [Décret n°93-1147 du 30 septembre 1993 (DOMP9300031D)](decret-n93-1147-du-30-septembre-1993-domp9300031d)
 - [Décret n°93-1425 du 31 décembre 1993 (JUSC9320854D)](decret-n93-1425-du-31-decembre-1993-jusc9320854d)
