@@ -661,7 +661,6 @@
 - [Arrêté du 14 octobre 1994 (BUDL9400120A)](arrete-du-14-octobre-1994-budl9400120a)
 - [Arrêté du 14 octobre 1995 (DEFT9502117A)](arrete-du-14-octobre-1995-deft9502117a)
 - [Arrêté du 14 septembre 1995 (MJSK9570124A)](arrete-du-14-septembre-1995-mjsk9570124a)
-- [Arrêté du 14 septembre 1995 (MJSK9570125A)](arrete-du-14-septembre-1995-mjsk9570125a)
 - [Arrêté du 15 décembre 1994 (BUDR9407024A)](arrete-du-15-decembre-1994-budr9407024a)
 - [Arrêté du 15 décembre 1994 (INDP9401478A)](arrete-du-15-decembre-1994-indp9401478a)
 - [Arrêté du 15 décembre 1995 (ECOT9520020A)](arrete-du-15-decembre-1995-ecot9520020a)

@@ -302,7 +302,6 @@
 - [Arrêté du 15 septembre 1987 (PRMJ8760066A)](arrete-du-15-septembre-1987-prmj8760066a)
 - [Arrêté du 15 mai 1987 (ASES8700739A)](arrete-du-15-mai-1987-ases8700739a)
 - [Arrêté du 16 avril 1987](arrete-du-16-avril-1987)
-- [Arrêté du 16 décembre 1986](arrete-du-16-decembre-1986)
 - [Arrêté du 16 décembre 1986 (AGRS8700047A)](arrete-du-16-decembre-1986-agrs8700047a)
 - [Arrêté du 16 décembre 1986 (ECOZ8700001A)](arrete-du-16-decembre-1986-ecoz8700001a)
 - [Arrêté du 16 décembre 1987 (PRMA8701033A)](arrete-du-16-decembre-1987-prma8701033a)

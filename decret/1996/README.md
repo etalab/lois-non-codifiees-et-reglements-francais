@@ -895,7 +895,6 @@
 - [Décret n°96-289 du 29 mars 1996 (ECOP9500415D)](decret-n96-289-du-29-mars-1996-ecop9500415d)
 - [Décret n°96-290 du 29 mars 1996 (ENVN9640022D)](decret-n96-290-du-29-mars-1996-envn9640022d)
 - [Décret n°96-361 du 29 avril 1996 (AGRS9600478D)](decret-n96-361-du-29-avril-1996-agrs9600478d)
-- [Décret n°96-374 du 29 avril 1996 (EQUA9600533D)](decret-n96-374-du-29-avril-1996-equa9600533d)
 - [Décret n°96-375 du 29 avril 1996 (TASP9620612D)](decret-n96-375-du-29-avril-1996-tasp9620612d)
 - [Décret n°96-67 du 29 janvier 1996 (PRMX9600002D)](decret-n96-67-du-29-janvier-1996-prmx9600002d)
 - [Décret n°96-70 du 29 janvier 1996 (AGRS9502477D)](decret-n96-70-du-29-janvier-1996-agrs9502477d)
