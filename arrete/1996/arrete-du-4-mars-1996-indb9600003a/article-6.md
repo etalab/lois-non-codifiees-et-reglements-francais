@@ -1,0 +1,3 @@
+# Article 6
+
+Est considérée comme présomption de preuve de la conformité aux normes étrangères visées à l'article 5 ci-avant la présentation d'un certificat de conformité délivré par un organisme français ou étranger agréé par le ministre chargé de la sécurité du gaz sur la base des critères généraux concernant les organismes procédant à la certification des produits fixés par la norme NF EN 45011. La certification réalisée par cet organisme doit comprendre notamment un ou plusieurs essais de type effectués par un laboratoire répondant aux exigences figurant aux articles 3 et 4 du présent arrêté ainsi que des visites de contrôle sur les lieux de fabrication.
