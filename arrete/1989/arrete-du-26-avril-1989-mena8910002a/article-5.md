@@ -2,11 +2,11 @@
 
 Les sous-directions de la direction de la programmation et du développement universitaire prévues à l'article 3 de l'arrêté susvisé du 26 avril 1989 sont organisées comme suit :
 
-A. -La sous-direction des constructions et de l'aménagement des campus comprend :
+A. - La sous-direction des constructions et de l'aménagement des campus comprend, outre la mission d'aménagement des sites universitaires :
 
-Le bureau des constructions ;
+- le bureau des constructions ;
 
-Le bureau de l'aménagement des campus, du patrimoine et du logement des étudiants.
+- le bureau de la programmation immobilière.
 
 B. -La sous-direction de la programmation et des contrats comprend :
 
