@@ -71,7 +71,7 @@
 <td> :     Surfaces égales ou supérieures  :</td>
 </tr>
 <tr>
-<td> :     à 20 ares : 2 F l'are.          :</td>
+<td> :     à 20 ares : 2,06 F l'are.       :</td>
 </tr>
 <tr>
 <td> :  - Moules : surfaces inférieures    :</td>
@@ -92,7 +92,7 @@
 <td> : TAXE SUR LA LONGUEUR                :</td>
 </tr>
 <tr>
-<td> :  (moules) : 1 F par mètre           :</td>
+<td> :                     : 1 F par mètre :</td>
 </tr>
 <tr>
 <td> :=====================================:</td>
@@ -125,22 +125,22 @@
 <td> :       de 5 ares.                    :</td>
 </tr>
 <tr>
-<td> :    - de  5 à  25 ares :  57 F       :</td>
+<td> :    -     5 ares       :  50 F       :</td>
 </tr>
 <tr>
-<td> :    - de 25 à  50 ares : 114 F       :</td>
+<td> :    - de  6 à  25 ares :  58,71 F    :</td>
 </tr>
 <tr>
-<td> :    - de 50 à  75 ares : 170 F       :</td>
+<td> :    - de 25 à  50 ares : 117,42 F    :</td>
 </tr>
 <tr>
-<td> :    - de 75 à 100 ares               :</td>
+<td> :    - de 50 à  75 ares : 175,10 F    :</td>
 </tr>
 <tr>
-<td> :             (ou 1 ha) : 227 F       :</td>
+<td> :    - de 75 à 100 ares : 233,81 F    :</td>
 </tr>
 <tr>
-<td> :    - Au-dessus de 1 ha : 57 F       :</td>
+<td> :    - Au-dessus de 1 ha : 58,71 F    :</td>
 </tr>
 <tr>
 <td> :       par hectare ou partie         :</td>
@@ -164,8 +164,7 @@
 <td> :  (moules) :                         :</td>
 </tr>
 <tr>
-<td>
-<br/>   :  - 22,75 F par tranche de 100    :</td>
+<td> :  - 23,43 F par tranche de 100       :</td>
 </tr>
 <tr>
 <td> :    mètres jusqu'à 1.000 mètres ;    :</td>
@@ -174,10 +173,10 @@
 <td> :         Au-dessus de 1.000 mètres   :</td>
 </tr>
 <tr>
-<td> :  - 45,50 F par 1.000 mètres         :</td>
+<td> :  - 46,86 F par 1.000 mètres         :</td>
 </tr>
 <tr>
-<td> :         supplémentaires ou fraction :</td>
+<td> :         supplémentaires et fraction :</td>
 </tr>
 <tr>
 <td> :         de 1.000 mètres             :</td>
@@ -236,9 +235,11 @@
 <tr>
 <td> :  - Moules : 0,40 F par are          :</td>
 </tr>
-<tr>
-<td> --------------------------------------:</td>
-</tr>
+</table>
+
+--------------------------------------:
+
+<table>
 <tr>
 <td> : TAXE SUR LA LONGUEUR:               :</td>
 </tr>
@@ -270,10 +271,10 @@
 <td> :  - Huîtres ou autres coquillages   :</td>
 </tr>
 <tr>
-<td> :             389 F par hectare       :</td>
+<td> :             400,67 F par hectare    :</td>
 </tr>
 <tr>
-<td> :  - Moules : 389 F par hectare       :</td>
+<td> :  - Moules : 400,67 F par hectare    :</td>
 </tr>
 <tr>
 <td> :-------------------------------------:</td>
@@ -282,7 +283,7 @@
 <td> : TAXE SUR LA LONGUEUR                :</td>
 </tr>
 <tr>
-<td> :  (moules) : 162,20 F par tranche de :</td>
+<td> :  (moules) : 167,06 F par tranche de :</td>
 </tr>
 <tr>
 <td> :                       1.000 mètres  :</td>
@@ -312,7 +313,7 @@
 <td> :  - Huîtres ou autres coquillages   :</td>
 </tr>
 <tr>
-<td> :             2,84 F par are avec un  :</td>
+<td> :             2,92 F par are avec un  :</td>
 </tr>
 <tr>
 <td> :    minimum de perception de 100 F   :</td>
@@ -324,7 +325,7 @@
 <td> :    supérieures à 10 ares.           :</td>
 </tr>
 <tr>
-<td> :  - Moules : 2,84 F par are avec un  :</td>
+<td> :  - Moules : 2,92 F par are avec un  :</td>
 </tr>
 <tr>
 <td> :    minimum de perception de 100 F   :</td>
