@@ -2,6 +2,7 @@
 
 - [Loi n° 76-1286 du 31 décembre 1976](loi-n-76-1286-du-31-decembre-1976)
 - [Loi n° 77-1447 du 28 décembre 1977](loi-n-77-1447-du-28-decembre-1977)
+- [Loi n° 78-1 du 2 janvier 1978](loi-n-78-1-du-2-janvier-1978)
 - [Loi n° 78-1170 du 16 décembre 1978](loi-n-78-1170-du-16-decembre-1978)
 - [Loi n° 78-1183 du 20 décembre 1978](loi-n-78-1183-du-20-decembre-1978)
 - [Loi n° 78-1239 du 29 décembre 1978](loi-n-78-1239-du-29-decembre-1978)
