@@ -245,6 +245,7 @@
 - [Décret n°93-839 du 10 juin 1993 (MENX9300076D)](decret-n93-839-du-10-juin-1993-menx9300076d)
 - [Décret n° 93-853 du 11 juin 1993 (MJSK9370075D)](decret-n-93-853-du-11-juin-1993-mjsk9370075d)
 - [Décret n°93-1006 du 11 août 1993 (ENVE9310055D)](decret-n93-1006-du-11-aout-1993-enve9310055d)
+- [Décret n°93-1156 du 11 octobre 1993 (MENX9300129D)](decret-n93-1156-du-11-octobre-1993-menx9300129d)
 - [Décret n°93-198 du 11 février 1993 (MENL9204555D)](decret-n93-198-du-11-fevrier-1993-menl9204555d)
 - [Décret n°93-200 du 11 février 1993 (INTB9300046D)](decret-n93-200-du-11-fevrier-1993-intb9300046d)
 - [Décret n°93-202 du 11 février 1993 (SPSS9300152D)](decret-n93-202-du-11-fevrier-1993-spss9300152d)
