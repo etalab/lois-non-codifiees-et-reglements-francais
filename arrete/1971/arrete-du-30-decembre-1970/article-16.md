@@ -1,6 +1,6 @@
 # Article 16
 
-§ 1 L'allocation de retraite est normalement liquidée à l'âge de soixante-cinq ans. Cependant elle peut faire l'objet d'une anticipation, au plus tôt à cinquante-cinq ans. Dans ce cas, le total des points de retraite est affecté des coefficients de réduction ci-après :
+Paragraphe 1. L'allocation de retraite est normalement liquidée à l'âge de soixante-cinq ans. Cependant elle peut faire l'objet d'une anticipation, au plus tôt à cinquante-cinq ans. Dans ce cas, le total des points de retraite est affecté des coefficients de réduction ci-après.
 
 A cinquante-cinq ans, les points effectivement inscrits au compte de l'intéressé sont affectés du coefficient 0,43 ;
 
@@ -16,27 +16,27 @@ Toutefois, ce coefficient de réduction n'est pas applicable :
 
 2° Aux anciens déportés et internés âgés de soixante ans au moins et titulaires soit de la carte de déporté ou interné de la résistance, soit de la carte de déporté ou interné politique ;
 
-3° Aux anciens combattants et prisonniers de guerre qui bénéficient d'une pension de vieillesse du régime général de sécurité sociale ou du régime agricole des assurances sociales liquidée entre soixante et soixante-cinq ans dans les conditions prévues par la loi n° 73-1051 du 21 novembre 1973 et par le décret n° 74-428 du 15 mai 1974 ;
+3° Aux anciens combattants et prisonniers de guerre qui bénéficient d'une pension de vieillesse du régime général de sécurité sociale ou du régime agricole des assurances sociales liquidée entre soixante et soixante-cinq ans dans les conditions prévues aux articles L. 351-8, D. 351-2 du code de la sécurité sociale et L. 742-3 du code rural ;
 
-4° Aux mères de famille qui bénéficient d'une pension de vieillesse du régime général de sécurité sociale entre soixante et soixante-cinq ans dans les conditions prévues par l'article L. 332 du code de la sécurité sociale ;
+4° Aux mères de famille qui bénéficient d'une pension de vieillesse du régime général de sécurité sociale entre soixante et soixante-cinq ans dans les conditions prévues par l'article L. 351-8 du code de la sécurité sociale ;
 
 5° Lorsqu'un agent bénéficiaire du régime est licencié de son emploi dans l'intérêt du service entre soixante-trois et soixante-cinq ans ;
 
-6° a) A compter du 1er juillet 1982 aux agents visés aux articles L. 351-16 et L. 351-17 du code du travail remplissant les conditions fixées par l'article 9, alinéa 2, de l'ordonnance du 26 mars 1982 susvisée ;
+6° a) Aux agents et anciens agents admis à faire liquider leur retraite au régime général en application de l'article L. 351-1-1 du code de la sécurité sociale ;
 
-b) A compter du 1er juillet 1982, aux anciens agents remplissant les conditions fixées par l'article 9, alinéa 3, de l'ordonnance du 26 mars 1982 susvisée ;
+b) Aux agents et anciens agents handicapés admis à faire liquider leur retraite au régime général en application de l'article L. 351-1-3 du code de la sécurité sociale ;
 
-c) A compter du 1er avril 1983, aux agents ou anciens agents justifiant d'une durée d'assurance susceptible de les faire bénéficier au titre du régime général ou du régime d'assurances sociales agricoles d'une pension au taux plein dans les conditions définies par l'article L. 331 du code de la sécurité sociale ;
+c) A compter du 1er avril 1983, aux agents ou anciens agents justifiant d'une durée d'assurance susceptible de les faire bénéficier au titre du régime général ou du régime d'assurances sociales agricoles d'une pension au taux plein dans les conditions définies par l'article L. 351-1 du code de la sécurité sociale ;
 
 d) Aux personnels admis en cessation anticipée d'activité au titre des ordonnances n° 82-108 du 30 janvier 1982 et n° 82-297 du 31 mars 1982.
 
-§ 2 A compter du 1er avril 1983, les agents ou anciens agents âgés de soixante à soixante-cinq ans justifiant d'une durée d'assurance, au sens de l'ordonnance du 26 mars 1982 susvisée, comprise entre trente-deux ans et demi et trente-sept ans et demi peuvent également faire liquider leur retraite par anticipation.
+Paragraphe 2. Les agents ou anciens agents âgés de soixante à soixante-cinq ans à la date d'effet de la liquidation de leur allocation et justifiant d'une durée d'assurance inférieure à celle déterminée en application du troisième alinéa de l'article L. 351-1 du code de la sécurité sociale peuvent également faire liquider leur retraite par anticipation.
 
-Dans ce cas, le total des points de retraite est affecté des coefficients de réduction prévus au paragraphe Ier, en assimilant à l'âge de soixante-cinq ans l'âge auquel l'intéressé aurait effectivement compté trentre-sept années et demie d'assurance.
+Dans ce cas, le total des points de retraite est affecté des coefficients de réduction prévus au paragraphe 1 en assimilant à l'âge de soixante-cinq ans l'âge auquel l'intéressé aurait effectivement accompli la durée d'assurance fixée en application de l'article L. 351-1 précité.
 
 Toutefois, le total des points de retraite ainsi calculé ne pourra être inférieur à celui qui aurait été obtenu après application du coefficient d'abattement correspondant à l'âge de l'intéressé.
 
-§ 3. Lorsque, à partir du 1er octobre 1989, l'agent bénéficie de la retraite progressive en application du titre II de la loi n° 88-16 du 5 janvier 1988, l'Ircantec procède à une liquidation provisoire de la pension et sert une fraction de celle-ci jusqu'à la liquidation définitive.
+Paragraphe 3.  Lorsque, à partir du 1er octobre 1989, l'agent bénéficie de la retraite progressive en application des articles L. 351-15 et L. 351-16 du code de la sécurité sociale l'Ircantec procède à une liquidation provisoire de la pension et sert une fraction de celle-ci jusqu'à la liquidation définitive.
 
 La fraction de pension servie par l'Ircantec est fixée à :
 

@@ -10,7 +10,15 @@ III. - Le montant de la taxe par installation est égal au produit d'une imposit
 
 CATEGORIE
 
-Réacteurs nucléaires de production d'énergie (par tranche)
+Réacteurs nucléaires de production d'énergie autres que ceux consacrés à titre principal à la recherche (par tranche)
+
+Imposition forfaitaire : 2 088 000 euros
+
+Coefficient multiplicateur : 1 à 4
+
+CATEGORIE
+
+Réacteurs nucléaires de production d'énergie consacrés à titre principal à la recherche
 
 Imposition forfaitaire : 1 180 000 euros
 

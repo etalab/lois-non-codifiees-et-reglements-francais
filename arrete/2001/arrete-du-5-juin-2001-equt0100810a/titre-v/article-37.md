@@ -1,6 +1,8 @@
 # Article 37
 
-Dérogations concernant des transports de petites quantités ou des transports locaux. - Sous réserve de l'autorisation de la Commission des Communautés européennes, des dispositions moins strictes que celles contenues dans l'annexe I peuvent être prises par arrêté du ministre compétent, après avis de la CITMD :
+Dérogations concernant des transports de petites quantités ou des transports locaux.
+
+Sous réserve de l'autorisation de la Commission des Communautés européennes, des dispositions moins strictes que celles contenues dans l'annexe I peuvent être prises par arrêté du ministre compétent, après avis de la CITMD :
 
 - pour des transports limités au territoire national et portant seulement sur des petites quantités de marchandises dangereuses, à l'exception de matières moyennement et hautement radioactives ;
 

@@ -1,6 +1,6 @@
 # Article 6
 
-A. - Doit donner lieu à une déclaration auprès de la préfecture dans un délai de quinze jours suivant sa mutation, le non-maintien en circulation d'un véhicule par son nouveau propriétaire.
+A. - Doit donner lieu à une déclaration auprès de la préfecture dans un délai d'un mois suivant sa mutation, le non-maintien en circulation d'un véhicule par son nouveau propriétaire.
 
 Cette déclaration peut être établie soit sur un imprimé (disponible en préfecture) appelé "Demande d'annulation de carte grise", dont le modèle figure en annexe IV du présent arrêté, soit sur papier libre.
 

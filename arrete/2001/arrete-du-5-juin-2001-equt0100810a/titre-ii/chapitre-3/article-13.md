@@ -1,8 +1,8 @@
 # Article 13
 
-Consignes de sécurité pour les transports en citernes et en vrac :
+Consignes de sécurité pour les transports en citernes et en vrac.
 
-1. Contenu des consignes
+1. Contenu des consignes.
 
 Le transport de matières dangereuses en citernes et en vrac dans des grands conteneurs, wagons et petits conteneurs donne lieu à l'utilisation de consignes précisant :
 
@@ -14,12 +14,8 @@ Le transport de matières dangereuses en citernes et en vrac dans des grands con
 
 - les mesures à prendre en cas d'épandage dans l'eau ou sur le sol ou en cas de diffusion de la matière dans l'air.
 
-2. Exploitation des consignes
+2. Exploitation des consignes.
 
-Le transporteur ferroviaire doit se constituer une collection complète des consignes soit en utilisant des fiches écrites, soit en se servant d'une banque de données informatisée.
+Le transporteur ferroviaire doit disposer d'une collection des consignes correspondant aux marchandises dangereuses qu'il transporte soit en utilisant des fiches écrites, soit en se servant d'une banque de données informatisée. Le gestionnaire de l'infrastructure doit disposer d'une collection complète des consignes.
 
-Le transporteur ferroviaire prend toutes dispositions nécessaires pour que :
-
-- ses postes de commandement disposent des consignes, ou aient accès à leur contenu ;
-
-- chaque catégorie d'agents soit en mesure de respecter celles des recommandations qui figurent dans ces consignes et dont l'application lui incombe.
+Le transporteur ferroviaire et le gestionnaire de l'infrastructure prennent toutes dispositions nécessaires pour que chaque catégorie d'agents soit en mesure de respecter celles des recommandations qui figurent dans ces consignes et dont l'application lui incombe.

@@ -2,9 +2,9 @@
 
 Avis d'expédition au ministère chargé de l'industrie, au ministère chargé de l'environnement et au ministère chargé de l'intérieur pour certaines matières radioactives.
 
-1. L'avis préalable stipulé au 5.1.5.2.4 est adressé par l'expéditeur au ministère chargé de l'industrie et au ministère chargé de l'environnement (DGSNR) ainsi qu'au ministère chargé de l'intérieur (direction de la défense et de la sécurité civile - COGIC) avec copie au transporteur.
+1. L'avis préalable stipulé au 5.1.5.2.4 est adressé par l'expéditeur au ministère chargé de l'industrie et au ministère chargé de l'environnement (DGSNR), ainsi qu'au ministère chargé de l'intérieur (direction de la défense et de la sécurité civiles - COGIC) avec copie au transporteur et au gestionnaire de l'infrastructure.
 
-2. Le transporteur ferroviaire prend les dispositions utiles pour que toutes les gares du parcours soient avisées de la circulation de telles expéditions.
+2. Le gestionnaire de l'infrastructure prend les dispositions utiles pour que toutes les gares du parcours soient avisées de la circulation de telles expéditions.
 
 3. L'avis préalable prévu au paragraphe 1 doit parvenir 7 jours ouvrables au moins avant l'expédition. Les renseignements sont adressés par télécopie ou télex.
 
@@ -40,4 +40,4 @@ d) Les noms, adresses et numéros d'appel téléphoniques :
 
 - du (des) sous-traitant(s).
 
-5. Les transports intéressant la défense nationale et les transports relevant de la loi du 25 juillet 1980 (n° 80-572) peuvent faire l'objet, dans certains cas, d'accords particuliers avec la direction de la défense et de la sécurité civiles.
+5. Les transports intéressant la défense nationale et les transports relevant de la loi du 25 juillet 1980 (80-572) peuvent faire l'objet, dans certains cas, d'accords particuliers avec la direction de la défense et de la sécurité civiles.

@@ -1,6 +1,8 @@
 # Article 39
 
-Dérogations pour des transports ponctuels. - Selon les attributions précisées à l'article 3, le ministre chargé des transports ou le ministre chargé de l'industrie et le ministre chargé de l'environnement peut (peuvent), après avis de la CITMD, accorder des dérogations aux prescriptions du présent arrêté, pour des transports ponctuels de marchandises dangereuses qui sont soit interdits par le présent arrêté, soit effectués dans des conditions différentes de celles prévues par le présent arrêté, dans la mesure où il s'agit d'opérations de transport clairement définies et limitées dans le temps.
+Dérogations pour des transports ponctuels.
+
+Selon les attributions précisées à l'article 3, le ministre chargé des transports ou le ministre chargé de l'industrie et le ministre chargé de l'environnement peut (peuvent), après avis de la CITMD, accorder des dérogations aux prescriptions du présent arrêté pour des transports ponctuels de marchandises dangereuses qui sont soit interdits par le présent arrêté, soit effectués dans des conditions différentes de celles prévues par le présent arrêté, dans la mesure où il s'agit d'opérations de transport clairement définies et limitées dans le temps.
 
 Le demandeur doit, quatre mois avant la date souhaitée d'entrée en vigueur de la dérogation, adresser au ministre compétent une demande faisant apparaître de façon claire et synthétique :
 

@@ -1,0 +1,5 @@
+# Article 55
+
+Les avantages spéciaux prévus au 4° du I de l'article 15 du présent décret sont accordés aux fonctionnaires détachés hors d'Europe lorsque cette position est prévue par le statut qui leur est applicable.
+
+Les avantages spéciaux attachés à l'accomplissement des services actifs ou de la catégorie active sont maintenus en faveur des fonctionnaires détachés dans un emploi classé en catégorie active pour exercer des fonctions de même nature que celles assumées dans le cadre d'origine ainsi qu'en faveur des fonctionnaires détachés pour exercer des fonctions de membre du Gouvernement, un mandat électif ou syndical, qui n'ont pas changé de catégorie durant leur détachement. Ces mêmes avantages sont maintenus en faveur des fonctionnaires qui bénéficient d'un détachement hors d'Europe, lorsque cette position est prévue au statut qui leur est applicable, soit dans les administrations des collectivités d'outre-mer ou de Nouvelle-Calédonie, soit auprès d'un service français de coopération technique ou culturelle, soit auprès d'Etats étrangers ou d'organisations internationales.

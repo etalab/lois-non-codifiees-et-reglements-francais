@@ -1,0 +1,3 @@
+# Article 2
+
+Pour les installations électriques du domaine HTA (haute tension A) entrant dans le domaine d'application de la norme NF C 13-100 fixant les règles de sécurité relatives aux installations des postes de livraison établis à l'intérieur d'un bâtiment et alimentés par un réseau de distribution publique HTA (jusqu'à 33 kV), norme homologuée par la décision du directeur général de l'AFNOR du 20 mars 2001, les modalités pratiques d'application des différentes mesures de protection contre les effets thermiques en service normal et en cas de surintensités faisant l'objet de l'article 41 du décret du 14 novembre 1988 susvisé doivent répondre aux dispositions des chapitres 42 et 43 de la norme NF C 13-100.

@@ -1,6 +1,6 @@
 # Article 4
 
-Le régime d'assurance vieillesse complémentaire des vétérinaires est établi par les statuts de la section professionnelle des vétérinaires, approuvés par le ministre du travail et de la sécurité sociale et le ministre du budget.
+Le régime d'assurance vieillesse complémentaire des vétérinaires est établi par les statuts de la section professionnelle des vétérinaires.
 
 Les avantages prévus par ce régime d'assurance vieillesse ne pourront être garantis que dans la limite des ressources qui y seront effectuées en exécution du présent décret.
 

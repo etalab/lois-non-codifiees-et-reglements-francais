@@ -1,6 +1,6 @@
 # Article 1
 
-Objet du présent arrêté :
+Objet du présent arrêté.
 
 1. Le présent arrêté a pour objet de compléter les dispositions du règlement RID visé à l'article 2 et, le cas échéant, de définir les règles spécifiques aux transports de marchandises dangereuses effectués en France par chemin de fer, que ces transports soient nationaux ou internationaux. Il comporte deux annexes : l'annexe I, qui est le RID proprement dit, et l'annexe II.
 
@@ -39,3 +39,5 @@ a) Aux transports exclus par les 1.1.3.1, 1.1.3.2 et 1.1.3.3 ;
 b) Aux transports des matières dangereuses qui sont chargées dans des engins de transport pour servir à leur fonctionnement et à leurs divers mécanismes, chauffage, production de froid, éclairage et signalisation (et notamment les pétards pour signaux d'arrêts), ou qui sont emportées par les conducteurs et convoyeurs dans le même but ;
 
 c) Aux transports effectués entièrement sur des voies ferrées dans le périmètre d'une entreprise, lesquels sont néanmoins soumis aux dispositions de l'article 15.
+
+d) aux transports de marchandises dangereuses de la classe 7 exclus 2.2.7.1.2

@@ -1,0 +1,3 @@
+# Article 5
+
+Le chef d'état-major des armées, le délégué général pour l'armement, la secrétaire générale pour l'administration, les chefs d'état-major de l'armée de terre, de la marine, de l'armée de l'air, le directeur général de la gendarmerie nationale, le directeur général de la sécurité extérieure, le directeur de la protection et de la sécurité de la défense, le directeur central du service de santé des armées et le directeur central du service des essences des armées sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

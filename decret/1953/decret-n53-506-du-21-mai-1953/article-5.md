@@ -1,6 +1,6 @@
 # Article 5
 
-Le régime d'assurance vieillesse complémentaire des experts comptables et comptables agréés est établi par les statuts de la section professionnelle des experts comptables et comptables agréés approuvés par le ministre de la sécurité sociale et le ministre de l'économie et des finances.
+Le régime d'assurance vieillesse complémentaire des experts comptables et comptables agréés est établi par les statuts de la section professionnelle des experts comptables et comptables agréés.
 
 Les avantages prévus par ce régime d'assurance vieillesse ne peuvent être garantis que dans la limite des ressources qui y sont affectées en exécution du présent décret.
 

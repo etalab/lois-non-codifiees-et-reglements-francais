@@ -1,6 +1,6 @@
 # Article 3
 
-B. - Elèves ingénieurs
+B.-Elèves ingénieurs
 
 Les élèves ingénieurs sont admis :
 
@@ -38,20 +38,24 @@ Le nombre de places offertes est fixé chaque année par arrêté du ministre ch
 
 Aucun candidat inscrit dans la même année au concours visé en a ne peut être admis sur titres en première année.
 
-2° En deuxième année :
+2° En deuxième année
 
-Sur titres, pour les trois catégories suivantes de candidats :
+Sur titres, pour les deux catégories suivantes de candidats :
 
-a) Candidats français et étrangers diplômés de l'Ecole polytechnique et sortis de cette école depuis moins d'un an au 1er janvier de l'année de dépôt de leur candidature ;
+a) Candidats français titulaires soit d'une maîtrise de deuxième cycle des études universitaires sanctionnant une formation scientifique fondamentale, soit du diplôme d'une école assurant une formation scientifique suffisante pour leur permettre de suivre avec profit l'ensemble des enseignements, soit de titres jugés équivalents.
 
-b) Candidats français titulaires soit d'une maîtrise de deuxième cycle des études universitaires sanctionnant une formation scientifique fondamentale, soit du diplôme d'une école assurant une formation scientifique suffisante pour leur permettre de suivre avec profit l'ensemble des enseignements, soit de titres jugés équivalents.
+Les candidats doivent être âgés de vingt-cinq ans au plus au 1er janvier de l'année dans laquelle est présentée leur candidature ;
 
-Les candidats doivent être âgés de vingt-cinq ans au plus au 1er janvier de l'année dans laquelle est présentée leur candidature, cette limite d'âge étant reculée, le cas échéant, du temps passé au titre du service national ;
+b) Candidats étrangers, sans limite d'âge, titulaires de titres universitaires identiques à ceux qui sont requis des candidats français ou de titres jugés suffisants pour leur permettre de suivre avec profit l'ensemble des enseignements de l'école.
 
-c) Candidats étrangers, sans limite d'âge, titulaires de titres universitaires identiques à ceux qui sont requis des candidats français ou de titres jugés suffisants pour leur permettre de suivre avec profit l'ensemble des enseignements de l'école.
+Le jury d'admission sur titres peut prendre en compte les résultats d'examens probatoires organisés pour vérifier le niveau dans certaines disciplines des candidats visés en a et b.
 
-Le jury d'admission sur titres peut prendre en compte les résultats d'examens probatoires organisés pour vérifier le niveau dans certaines disciplines des candidats visés en b et c.
+Le jury arrête le classement conditionnel des candidats non encore titulaires du diplôme requis ou du titre admis en équivalence à la date de sa réunion.L'admission définitive de ces candidats ne peut être prononcée que si le diplôme ou le titre est obtenu dans le cadre de la session normale d'examens, au plus tard à une date fixée par le règlement du concours sur titres.
 
-Le jury arrête le classement conditionnel des candidats non encore titulaires du diplôme requis ou du titre admis en équivalence à la date de sa réunion. L'admission définitive de ces candidats ne peut être prononcée que si le diplôme ou le titre est obtenu dans le cadre de la session normale d'examens, au plus tard à une date fixée par le règlement du concours sur titres.
+Les nombres de places dans les catégories visées en a et b sont fixés chaque année par arrêté du ministre chargé des télécommunications sur proposition du directeur de l'école.
 
-Les nombres de places dans les catégories visées en a, b et c sont fixés chaque année par arrêté du ministre chargé des télécommunications, sur proposition du directeur de l'école.
+3° En troisième année
+
+Sur titres, candidats français et étrangers diplômés de l'Ecole polytechnique visés à l'article 5, alinéa b, du décret n° 2001-622 du 12 juillet 2001 relatif à la formation des élèves de l'Ecole polytechnique, sortis de cette école depuis moins d'un an au 1er janvier de l'année de dépôt de leur candidature.
+
+Le nombre de places est fixé par arrêté du ministre chargé des télécommunications sur proposition du directeur de l'école.

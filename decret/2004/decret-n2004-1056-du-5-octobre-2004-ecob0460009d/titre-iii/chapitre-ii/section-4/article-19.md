@@ -1,0 +1,5 @@
+# Article 19
+
+I. - Le montant de la pension mentionnée au 2° de l'article 3 ne peut, en cas d'invalidité n'ouvrant pas droit à la législation sur les accidents du travail, être inférieur au montant de la pension d'invalidité attribuée au titre du régime général de sécurité sociale si se trouvent remplies toutes les conditions exigées à cet effet par ce régime.
+
+II. - A la pension mentionnée au 2° de l'article 3 peut s'ajouter la majoration pour assistance constante d'une tierce personne prévue par le régime général de sécurité sociale lorsque les conditions fixées par ce régime pour l'obtention de cet avantage sont remplies. L'âge avant lequel les conditions d'attribution doivent être remplies est celui fixé à l'article R. 355-1 du code de la sécurité sociale. La majoration est accordée sur demande de l'intéressé, après avis de la commission de réforme, quelle que soit la date à laquelle la pension lui a été concédée. Elle n'est pas cumulable à concurrence de son montant avec toute autre prestation ayant le même objet.

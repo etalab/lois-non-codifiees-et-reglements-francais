@@ -32,7 +32,7 @@ d) En cas de changement de propriétaire :
 
 - le certificat de cession ;
 
-- une attestation d'inscription ou de non-inscription de gage de moins d'un mois et un certificat de non-opposition au transfert du certificat d'immatriculation de moins de deux mois établis par la préfecture qui a délivré la précédente carte grise (sauf pour les véhicules démunis de carte grise) ;
+- Alinéa supprimé
 
 e) Un certificat 846 A délivré par les douanes s'il s'agit d'un véhicule provenant d'un Etat tiers à l'Union européenne ; un justificatif fiscal délivré par la recette des impôts s'il s'agit d'un véhicule provenant d'un Etat membre de l'Union européenne. Cette pièce n'est pas à produire pour les véhicules visés au titre III du code de la route et pour les remorques et semi-remorques ;
 

@@ -4,9 +4,9 @@ Toute demande d'établissement d'une carte grise ou de modification de celle-ci 
 
 a) De mise en circulation d'un véhicule neuf ;
 
-b) De changement de propriétaire avec maintien du véhicule en circulation (à présenter dans les 15 jours suivant la date de mutation indiquée sur le certificat d'immatriculation et le certificat de cession) ;
+b) De changement de propriétaire avec maintien du véhicule en circulation (à présenter dans le mois suivant la date de mutation indiquée sur le certificat d'immatriculation et le certificat de cession) ;
 
-c) De transformation d'un véhicule (à présenter dans les 15 jours qui suivent cette transformation) ;
+c) De transformation d'un véhicule (à présenter dans le mois suivant cette transformation) ;
 
 d) De changement de domicile (à présenter dans les trente jours qui suivent ce changement de domicile),
 

@@ -1,0 +1,13 @@
+# Décret n°2004-1056 du 5 octobre 2004 relatif au régime des pensions des ouvriers des établissements industriels de l'Etat
+
+- [TITRE II : CONSTITUTION DU DROIT À PENSION](titre-ii)
+- [TITRE III : MODALITÉS DE LIQUIDATION DE LA PENSION](titre-iii)
+- [TITRE IV : DATE DE LIQUIDATION DE LA PENSION.](titre-iv)
+- [TITRE VI : PENSIONS DES AYANTS CAUSE.](titre-vi)
+- [TITRE VII : CONCESSION ET RÉVISION DE LA PENSION.](titre-vii)
+- [TITRE VIII : RETENUES POUR PENSION.](titre-viii)
+- [TITRE IX : CESSATION OU REPRISE DE SERVICE, COORDINATION AVEC LE RÉGIME DE SÉCURITÉ SOCIALE.](titre-ix)
+- [TITRE X : DISPOSITIONS RELATIVES AUX SAISIES ET AUX CUMULS.](titre-x)
+- [TITRE XI : MESURES D'APPLICATION ET DISPOSITIONS TRANSITOIRES.](titre-xi)
+- [Article 53](article-53.md)
+- [Annexes](annexes)

@@ -96,6 +96,8 @@ En cas de location d'une durée égale ou supérieure à deux ans ou d'un contra
 
 Pour l'application du présent arrêté, il conviendra de se référer à la notion de domicile ci-dessus définie.
 
+Les conditions particulières de délivrance des cartes grises de cyclomoteurs à deux roues sont soumises aux dispositions de l'article 25 du présent arrêté.
+
 2.5. Pour les véhicules neufs ou d'occasion devant subir une réception à titre isolé, la convocation de la direction régionale de l'industrie et de la recherche, appelée service des mines dans le présent arrêté, vaut autorisation de circuler le jour de cette réception lorsque les véhicules en cause ne sont couverts par aucune immatriculation.
 
 2.6.1. Les certificats 846 A sont délivrés par les services des douanes pour des véhicules neufs ou d'occasion acquis dans un Etat tiers à l'Union européenne.
@@ -108,7 +110,7 @@ Dans le cas où les plaques d'origine ont été retirées ou invalidées par les
 
 2.6.2. Les certificats fiscaux dénommés "certificat d'acquisition d'un véhicule terrestre à moteur en provenance de la C.E.E. par un assujetti identifié à la T.V.A." ou "certificat d'acquisition d'un véhicule terrestre à moteur en provenance de la C.E.E. par une personne non identifiée à la T.V.A.", sont délivrés par les services des impôts pour des véhicules neufs ou d'occasion acquis dans un autre Etat de l'Union européenne, à l'exception des véhicules visés au titre III du code de la route (Tracteurs agricoles et forestiers, engins spéciaux), les remorques et semi-remorques. Ces certificats ont pour but uniquement de certifier que les véhicules remplissent les conditions exigées par la réglementation fiscale pour pouvoir être immatriculés dans une série normale et ne peuvent valoir certificat d'immatriculation.
 
-Dans l'attente de l'accomplissement des formalités d'immatriculation, les certificats fiscaux permettent de faire circuler les véhicules provenant d'un autre Etat membre de l'Union européenne sous couvert de l'immatriculation de l'Etat membre en question, pendant un délai de quinze jours à compter de la date de leur établissement.
+Dans l'attente de l'accomplissement des formalités d'immatriculation, les certificats fiscaux permettent de faire circuler les véhicules provenant d'un autre Etat membre de l'Union européenne sous couvert de l'immatriculation de l'Etat membre en question, pendant un délai d'un mois à compter de la date de leur établissement.
 
 Pour les véhicules devant subir une réception à titre isolé, ce délai est porté à quatre mois. Cette prorogation n'est accordée qu'à une personne physique ou morale non professionnelle de l'automobile.
 

@@ -1,6 +1,6 @@
 # Article 9
 
-Tout acquéreur d'un véhicule déjà immatriculé doit demander l'établissement d'une carte grise à son nom avant toute nouvelle cession même si cette dernière intervient dans le délai de quinze jours fixé par l'article R. 113 du code de la route.
+Tout acquéreur d'un véhicule déjà immatriculé doit demander l'établissement d'une carte grise à son nom avant toute nouvelle cession même si cette dernière intervient dans le délai d'un mois fixé par l'article R. 113 du code de la route.
 
 Cette obligation ne s'impose pas dans les cas suivants :
 

@@ -1,6 +1,8 @@
 # Article 23
 
-Transports intéressant le ministère chargé de la défense. - Le présent arrêté est applicable au transport des marchandises dangereuses intéressant le ministère chargé de la défense, hors dispositions particulières définies par instruction interministérielle conjointe du ministre chargé de la défense et, selon les attributions précisées à l'article 3, du ministre chargé des transports ou du ministre chargé de l'industrie et du ministre chargé de l'environnement.
+Transports intéressant le ministère chargé de la défense.
+
+Le présent arrêté est applicable au transport des marchandises dangereuses intéressant le ministère chargé de la défense, hors dispositions particulières définies par instruction interministérielle conjointe du ministre chargé de la défense et, selon les attributions précisées à l'article 3, du ministre chargé des transports de l'Autorité de sûreté nucléaire.
 
 Ces dispositions particulières tiennent compte des missions entraînant des contraintes propres au ministère chargé de la défense en ce qui concerne notamment :
 
@@ -8,7 +10,7 @@ Ces dispositions particulières tiennent compte des missions entraînant des con
 
 - les prescriptions relatives aux colis des marchandises appartenant aux forces armées ;
 
-- les mentions à porter dans le document de transport ; celui-ci doit porter en outre l'indication suivante : "Transport effectué selon l'article 23 de l'arrêté RID".
+- les mentions à porter dans le document de transport ; celui-ci doit porter en outre l'indication suivante : Transport effectué selon l'article 23 de l'arrêté RID ;
 
 - les dispositions relatives au transport prévues par le présent arrêté et dont les modalités d'application sont prises en compte au sein des forces armées ;
 

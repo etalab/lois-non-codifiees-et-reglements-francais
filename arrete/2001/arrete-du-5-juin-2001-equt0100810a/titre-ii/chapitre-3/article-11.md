@@ -12,8 +12,8 @@ L'expéditeur doit porter dans la déclaration de chargement, outre les mentions
 
 - et, s'il s'agit d'un transport autorisé en application des dispositions du 1.5.1, les mentions éventuellement prévues par la dérogation et les références de cette dérogation.
 
-La déclaration de chargement de matières dangereuses est établie sur un document désigné dans l'annexe I par le terme : lettre de voiture et qui doit être :
+La déclaration de chargement de matières dangereuses est établie sur un document désigné dans l'annexe I par le terme lettre de voiture et qui doit être :
 
 - en trafic international, la lettre de voiture ;
 
-- en trafic intérieur à la France, le contrat de transport ou le bordereau de suivi, prévu par l'arrêté du 4 janvier 1985 relatif au contrôle des circuits d'élimination de déchets générateurs de nuisance.
+- en trafic intérieur à la France, le contrat de transport ou le bordereau de suivi prévu par l'arrêté du 4 janvier 1985 relatif au contrôle des circuits d'élimination de déchets générateurs de nuisance.

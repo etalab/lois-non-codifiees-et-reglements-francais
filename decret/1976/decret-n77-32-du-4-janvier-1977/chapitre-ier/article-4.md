@@ -10,7 +10,7 @@ Administrateur de 1re classe : cinq échelons ;
 
 Administrateur principal : trois échelons ;
 
-Administrateur en chef de 2e classe : trois échelons ;
+Administrateur en chef de 2e classe : quatre échelons ;
 
 Administrateur en chef de 1re classe : deux échelons et un échelon exceptionnel ;
 

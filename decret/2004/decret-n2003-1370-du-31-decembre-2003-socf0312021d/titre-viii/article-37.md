@@ -1,0 +1,7 @@
+# Article 37
+
+Les agents statutaires du niveau d'emplois IV B peuvent demander à être temporairement déchargés de leur responsabilité. Cette demande adressée par la voie hiérarchique au directeur général doit être motivée.
+
+Le directeur général, après avis de la commission paritaire nationale compétente, peut décider de placer l'agent concerné dans le niveau d'emploi immédiatement inférieur. Dans cette situation, l'agent est classé à l'échelon de base doté d'un indice égal ou, à défaut, immédiatement supérieur avec conservation de son ancienneté d'échelon dans la limite de la durée du temps à passer dans l'échelon d'accueil. Si l'intéressé bénéficiait d'un indice de rémunération supérieur à l'indice afférent au dernier échelon de base du niveau d'emploi dans lequel il est provisoirement placé, le directeur général, après avis de la commission paritaire nationale compétente, peut décider de lui maintenir, à titre exceptionnel, son indice antérieur jusqu'à ce que, par suite d'un accès aux échelons exceptionnels, il détienne un indice au moins égal.
+
+L'agent provisoirement déchargé de sa responsabilité peut demander à ce que sa situation soit réexaminée. Le directeur général, après avis de la commission paritaire nationale compétente, peut décider de replacer l'intéressé dans sa situation d'origine. Il est alors classé à l'échelon doté d'un indice égal ou, à défaut, immédiatement supérieur avec conservation de son ancienneté d'échelon dans la limite de la durée du temps à passer dans cet échelon.

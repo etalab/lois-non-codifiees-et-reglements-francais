@@ -4,7 +4,7 @@ A. - La vente d'un véhicule de démonstration donne lieu, sous les réserves du
 
 Avant de remettre la carte grise à l'acquéreur, le négociant vendeur doit y porter la mention "vendu le" (date de la transaction), suivie de sa signature.
 
-Une carte grise gratuite revêtue de la mention "vendu le" suivie de la signature du vendeur est également valable pour la circulation du véhicule pendant une durée de 15 jours après la date indiquée comme étant celle de la transaction.
+Une carte grise gratuite revêtue de la mention "vendu le" suivie de la signature du vendeur est également valable pour la circulation du véhicule pendant une durée d'un mois après la date indiquée comme étant celle de la transaction.
 
 B. - En cas de changement d'affectation d'un véhicule de démonstration avant l'expiration du délai minimal de trois mois prévu à l'article 29 ci-dessus, le titulaire de la carte grise gratuite devra préalablement à ce changement d'affectation (même s'il s'agit d'une vente à un autre négociant) faire établir sur remise de cette carte et contre paiement des taxes correspondantes, une nouvelle carte grise à son nom.
 

@@ -16,4 +16,6 @@ Une nouvelle bonification indiciaire, dont le montant est pris en compte et soum
 
 6° Agents exerçant des fonctions d'accueil pendant au moins deux heures en soirée ou la nuit dans un centre d'hébergement et de réadaptation sociale ou un centre d'accueil public recevant des populations à risques : 20 points majorés ;
 
-7° Cadres socio-éducatifs exerçant leurs fonctions dans un établissement social et médico-social et encadrant une équipe pluridisciplinaire d'au moins cinq agents : 13 points majorés.
+7° Cadres socio-éducatifs exerçant leurs fonctions dans un établissement social et médico-social et encadrant une équipe pluridisciplinaire d'au moins cinq agents : 13 points majorés ;
+
+8° Agents exerçant les fonctions de permanencier auxiliaire de régulation médicale et affectés dans les services d'aide médicale urgente : 20 points majorés.

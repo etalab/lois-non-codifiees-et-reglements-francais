@@ -2,7 +2,7 @@
 
 La correction des épreuves d'admissibilité est organisée de manière à préserver l'anonymat de chaque candidat.
 
-Chaque composition est examinée par deux correcteurs et reçoit une note de 0 à 20. Cette note est affectée du coefficient 2.
+Chaque composition est examinée par deux correcteurs et reçoit une note de 0 à 20. Cette note est affectée d'un coefficient 1.
 
 L'admissibilité est prononcée par le jury au vu de la moyenne des notes obtenues par le candidat si celle-ci est égale ou supérieure à 10 sur 20.
 

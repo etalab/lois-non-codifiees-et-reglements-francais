@@ -1,0 +1,5 @@
+# Article 26
+
+Par dérogation aux dispositions de l'article 22 du décret du 17 janvier 1986 susvisé, les agents mentionnés à l'article 1er, employés de manière continue depuis au moins trois ans, peuvent obtenir, sous réserve des nécessités du service, un congé sans rémunération pour convenances personnelles pour une durée maximale de trois ans renouvelable une fois. La demande de congé indiquant la date de début et la durée de celui-ci est formulée au moins un mois à l'avance par lettre recommandée.
+
+Les agents qui en font la demande par lettre recommandée dans un délai de deux mois avant l'expiration du congé en cours, sont, à l'issue de celui-ci et après avis de la commission paritaire compétente, réintégrés dans leur emploi ou, à défaut, dans un autre emploi vacant de même niveau, dans la mesure permise par les nécessités du service. A défaut de demande présentée dans le délai susmentionné, les agents sont considérés comme démissionnaires. L'agent qui refuse trois propositions de réemploi est licencié.

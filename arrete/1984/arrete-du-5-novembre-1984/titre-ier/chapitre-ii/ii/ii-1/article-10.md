@@ -18,7 +18,7 @@ En cas de cession à titre gratuit, la précédente carte grise revêtue de la m
 
 4. Une pièce justificative de son identité et une déclaration de domicile et, le cas échéant, celles du locataire (cf. annexe VI).
 
-5.  Un certificat de non-opposition au transfert du certificat d'immatriculation et une attestation d'inscription ou de non-inscription de gage établis depuis moins d'un mois par le préfet qui a délivré la précédente carte grise ou par le préfet compétent pour délivrer la nouvelle, ou par voie électronique lorsque la demande est présentée par l'intermédiaire du site internet du ministère de l'intérieur.
+5. (Supprimé)
 
 10.A. - II. - Cas particulier d'un véhicule tombé dans une succession
 
@@ -32,7 +32,9 @@ Pour obtenir l'immatriculation du véhicule à son nom, l'héritier ou l'un des 
 
 4. En cas de cohéritiers, une lettre de désistement de tous les autres héritiers en faveur de celui qui demande l'immatriculation du véhicule ou un certificat du notaire constatant leur accord pour attribuer le véhicule à l'un d'entre eux.
 
-5.  Un certificat de non-opposition au transfert du certificat d'immatriculation et une attestation d'inscription ou de non-inscription de gage établis depuis moins d'un mois par le préfet qui a délivré la précédente carte grise ou par le préfet compétent pour délivrer la nouvelle, ou par voie électronique lorsque la demande est présentée par l'intermédiaire du site internet du ministère de l'intérieur.
+5. (Supprimé)
+
+6. (Supprimé)
 
 Avant toute revente à un tiers, un véhicule tombé dans une succession doit être immatriculé au nom de l'héritier ou d'un des héritiers sauf si cette revente intervient dans un délai n'excédant pas trois mois suivant le décès du titulaire de la carte grise ou sauf si, depuis le décès du titulaire, le véhicule n'a pas circulé sur les voies ouvertes à la circulation publique. Dans ce dernier cas, l'acquéreur devra joindre en sus des pièces visées aux paragraphes 1 à 3 ci-dessus :
 
@@ -42,7 +44,7 @@ Avant toute revente à un tiers, un véhicule tombé dans une succession doit ê
 
 3° Une attestation sur l'honneur de l'héritier qui avait la garde juridique du véhicule certifiant que ce dernier n'a pas circulé depuis le décès du titulaire de la carte grise.
 
-4°  Un certificat de non-opposition au transfert du certificat d'immatriculation et une attestation d'inscription ou de non-inscription de gage établis depuis moins d'un mois par le préfet qui a délivré la précédente carte grise ou par le préfet compétent pour délivrer la nouvelle, ou par voie électronique lorsque la demande est présentée par l'intermédiaire du site internet du ministère de l'intérieur.
+4° (Supprimé)
 
 10.A. - III. - Cas particulier de véhicules vendus aux enchères publiques ou faisant l'objet d'une décision judiciaire déterminant leur propriété
 
@@ -58,7 +60,7 @@ Un procès-verbal de réception à titre isolé délivré par la direction régi
 
 Si le véhicule a été vendu comme " épave " ou " impropre à la circulation ", l'acquéreur devra fournir, même s'il est en possession de la carte grise, un procès-verbal de réception à titre isolé.
 
-4.  Un certificat de non-opposition au transfert du certificat d'immatriculation et une attestation d'inscription ou de non-inscription de gage établis depuis moins d'un mois par le préfet qui a délivré la précédente carte grise ou par le préfet compétent pour délivrer la nouvelle, ou par voie électronique lorsque la demande est présentée par l'intermédiaire du site internet du ministère de l'intérieur.
+4. (Supprimé)
 
 10.B. - La mutation a lieu d'un département à un autre
 
@@ -132,21 +134,7 @@ b) Pour les véhicules précédemment immatriculés dans un Etat tiers à l'Unio
 
 4. Un certificat de dédouanement 846 A, délivré par les services des douanes pour les véhicules immatriculés dans un Etat tiers à l'Union européenne.
 
-c) Pour les véhicules précédemment immatriculés dans les départements ainsi que les territoires d'outre-mer et les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, les pièces à fournir sont :
-
-1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire, accompagnée d'une pièce justificative d'identité et d'une déclaration de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
-
-2. Le certificat d'immatriculation ;
-
-3.  Un certificat de non-opposition au transfert du certificat d'immatriculation et une attestation d'inscription ou de non-inscription de gage établis depuis moins d'un mois par le préfet qui a délivré la précédente carte grise ou par le préfet compétent pour délivrer la nouvelle, ou par voie électronique lorsque la demande est présentée par l'intermédiaire du site internet du ministère de l'intérieur.
-
-4. Abrogé.
-
-5. Un certificat de dédouanement 846 A délivré par l'administration des douanes ;
-
-6. S'il y a eu vente, le certificat de cession (ou la facture) ;
-
-7. Pour les véhicules provenant des territoires d'outre-mer et des collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, un procès-verbal de réception à titre isolé, s'il ne peut être produit une attestation de l'administration territoriale concernée précisant que le véhicule a été à l'origine immatriculé au vu d'un certificat de conformité national ou communautaire.
+c) (Supprimé)
 
 10.D. - Cas des véhicules précédemment immatriculés dans la série spéciale FFECSA (Forces françaises et élément civil stationnés en Allemagne).
 

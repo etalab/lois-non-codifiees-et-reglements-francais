@@ -9,3 +9,5 @@ Lorsque la période de cotisation est inférieure à une année, les points sont
 Le montant de la prestation annuelle est égal au produit du nombre total de points de retraite multiplié par la valeur donnée au point de retraite.
 
 La valeur du point de retraite est fixée à 102 F.
+
+Les dispositions des alinéas précédents ne sont pas applicables aux médecins bénéficiaires des prestations supplémentaires de vieillesse exerçant une activité médicale libérale dans le cadre de la convention, qui ne peuvent obtenir aucun nouveau droit à retraite au titre des cotisations versées.

@@ -1,0 +1,7 @@
+# Article 12
+
+Par dérogation aux dispositions de l'article 2, les personnes reconnues travailleurs handicapés par la commission d'orientation et de reclassement professionnel prévue à l'article L. 323-11 du code du travail, et dont le handicap a été jugé compatible avec l'emploi postulé, peuvent être recrutées en qualité d'agent sous contrat à durée déterminée, pour une période d'une durée égale à la durée de la période de stage prévue pour chaque niveau d'emplois à l'article 14. Les candidats doivent satisfaire à la condition de diplôme ou d'expérience professionnelle prévue à l'article 13 pour le recrutement dans le niveau d'emplois considéré.
+
+A l'issue du contrat, l'aptitude professionnelle de l'agent est appréciée par le directeur général au vu du dossier de l'intéressé et après un entretien de celui-ci avec un jury désigné par l'autorité chargée du recrutement. Si l'agent est déclaré apte à l'exercice des fonctions, il est engagé. Si, sans s'être révélé inapte, il n'a pas fait preuve des capacités professionnelles suffisantes, le contrat peut être renouvelé une seule fois pour une durée égale à celle du contrat initial. Si, à l'issue du contrat initial ou de son renouvellement, l'appréciation de l'aptitude de l'agent révèle des capacités professionnelles insuffisantes, le contrat n'est pas renouvelé.
+
+Si l'intéressé est recruté, la durée initiale de son contrat à durée déterminée est prise en compte pour son avancement.

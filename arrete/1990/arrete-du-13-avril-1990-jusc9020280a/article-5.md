@@ -1,7 +1,9 @@
 # Article 5
 
-Les épreuves d'admissibilité comprennent :
+Les épreuves d'admissibilité comprennent trois épreuves écrites, d'une durée de trois heures chacune, portant respectivement sur :
 
-1° Une note de synthèse rédigée en cinq heures à partir d'un dossier relatif au droit civil et au droit commercial et des affaires ou à l'une de ces deux matières seulement ;
+- le droit de la famille (personnes et patrimoine) ;
 
-2° Une composition, qui peut être de caractère pratique, rédigée en trois heures sur un sujet relevant des mêmes matières.
+- le droit des obligations et des biens ;
+
+- le droit commercial et le droit des affaires.

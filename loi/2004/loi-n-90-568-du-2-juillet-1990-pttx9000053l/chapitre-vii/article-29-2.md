@@ -1,0 +1,3 @@
+# Article 29-2
+
+Durant une période transitoire, liée à la présence de fonctionnaires dans l'entreprise, les pouvoirs nécessaires à la nomination et à la gestion des fonctionnaires présents dans l'entreprise sont conférés au président de France Télécom désigné par le conseil d'administration. Toutefois, le pouvoir de prononcer les sanctions disciplinaires du quatrième groupe, prévues à l'article 66 de la loi n° 84-16 du 11 janvier 1984 précitée, appartient au ministre chargé des télécommunications qui l'exerce sur proposition du président de France Télécom et après avis de la commission administrative paritaire siégeant au conseil de discipline.

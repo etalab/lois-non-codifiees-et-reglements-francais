@@ -1,0 +1,11 @@
+# Article 7
+
+Il est établi, pour chaque fonctionnaire, une fiche de notation comprenant :
+
+1° Une appréciation générale du chef de service investi du pouvoir de notation.
+
+L'appréciation générale est arrêté sur la base de critères visant à apprécier, en tenant compte de la spécificité des missions et des métiers, le professionnalisme et la technicité, les qualités personnelles et relationnelles ainsi que les capacités d'initiative, d'adaptation et d'organisation du travail du fonctionnaire.
+
+Elle tient compte de l'évaluation du fonctionnaire ;
+
+2° Une note chiffrée définitive, fixée entre 0 et 25 points, établie en cohérence avec l'appréciation générale et fixée par le chef de service dans les conditions prévues aux articles 8 et 9 du présent arrêté.

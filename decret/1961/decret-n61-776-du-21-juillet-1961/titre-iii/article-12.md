@@ -20,6 +20,8 @@ D'une majoration pour les heures effectuées au titre de la voltige aérienne.
 
 Le taux horaire de base, les coefficients et les majorations qui l'affectent sont fixés par arrêté conjoint du ministre du budget et du ministre chargé de l'aviation civile.
 
+Le taux horaire de base est revalorisé en fonction de l'évolution de la valeur du point d'indice servant au calcul des traitements dans la fonction publique.
+
 En outre le taux horaire de base est affecté du coefficient 0,75 pour les mécaniciens navigants.
 
 Les pilotes et mécaniciens navigants perçoivent un minimum garanti de prime de vol correspondant à quarante-cinq heures mensuelles au taux horaire de base affecté des coefficients habituellement appliqués à chacun d'eux.
