@@ -1,5 +1,6 @@
 # 1984
 
+- [Loi n° 83-1179 du 29 décembre 1983](loi-n-83-1179-du-29-decembre-1983)
 - [Loi n° 84-46 du 24 janvier 1984](loi-n-84-46-du-24-janvier-1984)
 - [Loi n° 84-53 du 26 janvier 1984](loi-n-84-53-du-26-janvier-1984)
 - [Loi n° 84-594 du 12 juillet 1984](loi-n-84-594-du-12-juillet-1984)
