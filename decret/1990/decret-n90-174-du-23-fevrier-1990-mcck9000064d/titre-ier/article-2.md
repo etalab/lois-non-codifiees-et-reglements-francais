@@ -12,6 +12,6 @@ L'avis de l'assemblée plénière n'est toutefois pas nécessaire si la personne
 
 Les débats de la commission ne sont pas publics.
 
-L'assemblée plénière de la commission ne siège valablement que si treize membres au moins sont présents. Les membres de la commission ne peuvent pas déléguer leur voix. Ils sont tenus au secret professionnel et ne peuvent faire, sous quelque forme que ce soit, aucun compte rendu des délibérés de la commission. Les votes ont lieu au scrutin secret. Toutefois, en cas de partage égal des voix, le président doit faire connaître le sens de son vote et sa voix est prépondérante.
+L'assemblée plénière de la commission ne siège valablement que si quatorze membres au moins sont présents. Les membres de la commission ne peuvent pas déléguer leur voix. Ils sont tenus au secret professionnel et ne peuvent faire, sous quelque forme que ce soit, aucun compte rendu des délibérés de la commission. Les votes ont lieu au scrutin secret. Toutefois, en cas de partage égal des voix, le président doit faire connaître le sens de son vote et sa voix est prépondérante.
 
 Les membres des commissions et des sous-commissions ne peuvent siéger lorsqu'ils ont un intérêt direct ou indirect dans une oeuvre cinématographique.
