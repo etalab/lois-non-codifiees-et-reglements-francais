@@ -39,7 +39,7 @@ dioxines et furannes (teneur en O2 de 10 %)
 <p>Poussières totales</p>
 </td>
 <td valign="top" width="307">
-<p>30 mg/m3 (moyenne journalière) (*)</p>
+<p align="center">30 mg/m3 (moyenne journalière) (*)</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@ dioxines et furannes (teneur en O2 de 10 %)
 <p>Chlorure d'hydrogène (HCI)</p>
 </td>
 <td valign="top" width="307">
-<p>10 mg/m3 (moyenne journalière) (*)</p>
+<p align="center">10 mg/m3 (moyenne journalière) (*)</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ dioxines et furannes (teneur en O2 de 10 %)
 <p>Fluorure d'hydrogène (HF)</p>
 </td>
 <td valign="top" width="307">
-<p>1 mg/m3 (moyenne journalière) (*)</p>
+<p align="center">1 mg/m3 (moyenne journalière) (*)</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ dioxines et furannes (teneur en O2 de 10 %)
 <p>NOx pour les installations existantes</p>
 </td>
 <td valign="top" width="307">
-<p>800 mg/m3, (moyenne journalière) (*)</p>
+<p align="center">800 mg/m3, (moyenne journalière) (*)</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ dioxines et furannes (teneur en O2 de 10 %)
 <p>NOx pour les installations nouvelles</p>
 </td>
 <td valign="top" width="307">
-<p>500 mg/mn3 (1)</p>
+<p align="center">500 mg/mn3 (1)</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ dioxines et furannes (teneur en O2 de 10 %)
 <p>Cd + TI</p>
 </td>
 <td valign="top" width="307">
-<p>0,05 mg/m3</p>
+<p align="center">0,05 mg/m3</p>
 </td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ dioxines et furannes (teneur en O2 de 10 %)
 <p>Hg</p>
 </td>
 <td valign="top" width="307">
-<p>0,5 mg/m3</p>
+<p align="center">0,5 mg/m3</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +95,7 @@ dioxines et furannes (teneur en O2 de 10 %)
 <p>Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V</p>
 </td>
 <td valign="top" width="307">
-<p>0,5 mg/m3</p>
+<p align="center">0,5 mg/m3</p>
 </td>
 </tr>
 <tr>
@@ -103,13 +103,13 @@ dioxines et furannes (teneur en O2 de 10 %)
 <p>Dioxines et furannes</p>
 </td>
 <td valign="top" width="307">
-<p>0,1 ng/m3</p>
+<p align="center">0,1 ng/m3</p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="614">
-<p>(*) Les moyennes sur une demi-heure ne sont nécessaires que pour calculer les moyennes journalières.</p>
-<p>(1) Pour l'application des valeurs limites d'émission de NOx, les cimenteries existantes qui commencent à incinérer des déchets après la date de parution au Journal officiel du présent arrêté ne doivent pas être considérées comme des installations nouvelles. Seules sont considérées comme nouvelles les cimenteries dont l'activité principale est autorisée après la date de parution au Journal officiel du présent arrêté.</p>
+<p align="left">(*) Les moyennes sur une demi-heure ne sont nécessaires que pour calculer les moyennes journalières.</p>
+<p align="left">(1) Pour l'application des valeurs limites d'émission de NOx, les cimenteries existantes qui commencent à incinérer des déchets après la date de parution au Journal officiel du présent arrêté ne doivent pas être considérées comme des installations nouvelles. Seules sont considérées comme nouvelles les cimenteries dont l'activité principale est autorisée après la date de parution au Journal officiel du présent arrêté.</p>
 </td>
 </tr>
 </tbody>
@@ -144,7 +144,7 @@ C pour SO2 et COT (teneur en O2 de 10 %)
 <p>SO2</p>
 </td>
 <td valign="top" width="307">
-<p>50mg/m3 (moyenne journalière) (*)</p>
+<p align="center">50mg/m3 (moyenne journalière) (*)</p>
 </td>
 </tr>
 <tr>
@@ -152,24 +152,26 @@ C pour SO2 et COT (teneur en O2 de 10 %)
 <p>COT</p>
 </td>
 <td valign="top" width="307">
-<p>10mg/m3 (moyenne journalière) (*)</p>
+<p align="center">10mg/m3 (moyenne journalière) (*)</p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="614">
-<p>* Les moyennes sur une demi-heure ne sont nécessaires que pour calucler les moyennes journalières</p>
+<p align="left">* Les moyennes sur une demi-heure ne sont nécessaires que pour calucler les moyennes journalières</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Toutefois, sur certains sites, les matières premières (calcaires, argiles, etc.) mises en oeuvre peuvent contenir des minéraux soufrés de nature à provoquer des émissions d'oxydes de soufre difficiles à capter, ou, de par leur composition, ne pas jouer le rôle de captation des produits soufrés présents dans le combustible. Pour chacun de ces cas particuliers, après justification à l'aide d'une étude technique réalisée par l'exploitant, une valeur spécifique est définie dans l'arrêté d'autorisation. Cette valeur limite, en moyenne journalière, ne peut toutefois dépasser :
+L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente dans les cas où le COT et le SO2 ne proviennent pas de l'incinération de déchets.
 
-- 1 020 mg/m³ lorsque le débit massique en oxydes de soufre est supérieur ou égal à 200 kg/h ;
+Ainsi, sur certains sites, les matières premières (calcaires, argiles, etc.) mises en oeuvre peuvent contenir des minéraux soufrés de nature à provoquer des émissions d'oxydes de soufre difficiles à capter ou, de par leur composition, ne pas jouer le rôle de captation des produits soufrés présents dans le combustible. Pour chacun de ces cas particuliers, après justification à l'aide d'une étude technique réalisée par l'exploitant, une valeur spécifique est définie dans l'arrêté d'autorisation. Cette valeur limite, en moyenne journalière, ne peut toutefois dépasser :
 
-- 1 620 mg/m³ lorsque le débit massique en oxydes de soufre est inférieur à 200 kg/h.
+1 020 mg/m³ lorsque le débit massique en oxydes de soufre est supérieur ou égal à 200 kg/h ;
 
-Dans ce cas néanmoins, la teneur en soufre dans les déchets à l'entrée du four devra être limitée à 5 000 mg/kg. Cette limite est portée à 8 000 mg/kg en ce qui concerne les huiles usagées.
+1 620 mg/m³ lorsque le débit massique en oxydes de soufre est inférieur à 200 kg/h.
+
+Dans ce cas néanmoins, la teneur en soufre dans les déchets dangereux à l'entrée du four devra être limitée à 5 000 mg/kg. Cette limite est portée à 8 000 mg/kg en ce qui concerne les huiles usagées.
 
 Pour les substances organiques à l'état de gaz ou de vapeur, exprimées en carbone organique total, une mesure à l'émission est réalisée lorsque l'installation n'incinère pas de déchets, pour déterminer la valeur moyenne sur une période de trente jours des moyennes journalières.
 
@@ -189,25 +191,24 @@ C procédé pour les combustibles solides (moyennes journalières exprimées en 
 <tbody>
 <tr>
 <td valign="top" width="123">
-<p>PARAMETRE</p>
+<p align="center">PARAMETRE</p>
 </td>
 <td valign="top" width="123">
-<p>P&lt;50 MW</p>
+<p align="center">P &lt; 50 MW</p>
 </td>
 <td valign="top" width="123">
-<p>50&lt;P&lt;100 MW</p>
+<p align="center">50 &lt; P &lt; 100 MW</p>
 </td>
 <td valign="top" width="123">
-<p>100&lt;P&lt;300 MW</p>
+<p align="right">100 &lt; P &lt; 300 MW</p>
 </td>
 <td valign="top" width="123">
-<p>&gt;300 MW</p>
+<p align="center">&gt; 300 MW</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="123">
-<p>SO<sub>2</sub>
-</p>
+<p>SO<sub>2</sub> :</p>
 </td>
 <td valign="top" width="123"/>
 <td valign="top" width="123"/>
@@ -220,13 +221,13 @@ C procédé pour les combustibles solides (moyennes journalières exprimées en 
 </td>
 <td valign="top" width="123"/>
 <td valign="top" width="123">
-<p>850</p>
+<p align="center">850</p>
 </td>
 <td valign="top" width="123">
-<p>850 à 200 (décroissance linéaire)</p>
+<p align="center">850 à 200 (décroissance linéaire)</p>
 </td>
 <td valign="top" width="123">
-<p>200</p>
+<p align="center">200</p>
 </td>
 </tr>
 <tr>
@@ -235,13 +236,13 @@ C procédé pour les combustibles solides (moyennes journalières exprimées en 
 </td>
 <td valign="top" width="123"/>
 <td valign="top" width="123">
-<p>Ou taux de désulfuration ³ 90 %</p>
+<p align="center">ou taux de désulfuration ≥ 90 %</p>
 </td>
 <td valign="top" width="123">
-<p>Ou taux de désulfuration ³ 92 %</p>
+<p align="center">ou taux de désulfuration ≥ 92 %</p>
 </td>
 <td valign="top" width="123">
-<p>Ou taux de désulfuration ³ 95 %</p>
+<p align="center">ou taux de désulfuration ≥ 95 %</p>
 </td>
 </tr>
 <tr>
@@ -250,13 +251,13 @@ C procédé pour les combustibles solides (moyennes journalières exprimées en 
 </td>
 <td valign="top" width="123"/>
 <td valign="top" width="123">
-<p>400</p>
+<p align="center">400</p>
 </td>
 <td valign="top" width="123">
-<p>300</p>
+<p align="center">300</p>
 </td>
 <td valign="top" width="123">
-<p>200</p>
+<p align="center">200</p>
 </td>
 </tr>
 <tr>
@@ -264,16 +265,16 @@ C procédé pour les combustibles solides (moyennes journalières exprimées en 
 <p>Poussières </p>
 </td>
 <td valign="top" width="123">
-<p>50 </p>
+<p align="center">50 </p>
 </td>
 <td valign="top" width="123">
-<p>50 </p>
+<p align="center">50 </p>
 </td>
 <td valign="top" width="123">
-<p>30</p>
+<p align="center">30</p>
 </td>
 <td valign="top" width="123">
-<p>30</p>
+<p align="center">30</p>
 </td>
 </tr>
 </tbody>
@@ -291,19 +292,19 @@ Par biomasse, on entend une matière végétale d'origine agricole ou forestièr
 <tbody>
 <tr>
 <td valign="top" width="123">
-<p>PARAMETRE</p>
+<p align="center">PARAMETRE</p>
 </td>
 <td valign="top" width="123">
-<p>P&lt;50 MW</p>
+<p align="center">P &lt; 50 MW</p>
 </td>
 <td valign="top" width="123">
-<p>50&lt;P&lt;100 MW</p>
+<p align="center">50 &lt; P &lt; 100 MW</p>
 </td>
 <td valign="top" width="123">
-<p>100&lt;P&lt;300 MW</p>
+<p align="center">100 &lt; P &lt; 300 MW</p>
 </td>
 <td valign="top" width="123">
-<p>&gt;300 MW</p>
+<p align="center">&gt; 300 MW</p>
 </td>
 </tr>
 <tr>
@@ -313,13 +314,13 @@ Par biomasse, on entend une matière végétale d'origine agricole ou forestièr
 </td>
 <td valign="top" width="123"/>
 <td valign="top" width="123">
-<p>200</p>
+<p align="center">200</p>
 </td>
 <td valign="top" width="123">
-<p>200</p>
+<p align="center">200</p>
 </td>
 <td valign="top" width="123">
-<p>200</p>
+<p align="center">200</p>
 </td>
 </tr>
 <tr>
@@ -328,13 +329,13 @@ Par biomasse, on entend une matière végétale d'origine agricole ou forestièr
 </td>
 <td valign="top" width="123"/>
 <td valign="top" width="123">
-<p>350</p>
+<p align="center">350</p>
 </td>
 <td valign="top" width="123">
-<p>300</p>
+<p align="center">300</p>
 </td>
 <td valign="top" width="123">
-<p>300</p>
+<p align="center">300</p>
 </td>
 </tr>
 <tr>
@@ -342,16 +343,16 @@ Par biomasse, on entend une matière végétale d'origine agricole ou forestièr
 <p>Poussières </p>
 </td>
 <td valign="top" width="123">
-<p>50 </p>
+<p align="center">50 </p>
 </td>
 <td valign="top" width="123">
-<p>50 </p>
+<p align="center">50 </p>
 </td>
 <td valign="top" width="123">
-<p>30</p>
+<p align="center">30</p>
 </td>
 <td valign="top" width="123">
-<p>30</p>
+<p align="center">30</p>
 </td>
 </tr>
 </tbody>
@@ -365,19 +366,19 @@ C procédé pour les combustibles liquides (moyennes journalières exprimées en
 <tbody>
 <tr>
 <td valign="top" width="123">
-<p>PARAMETRE</p>
+<p align="center">PARAMETRE</p>
 </td>
 <td valign="top" width="123">
-<p>P&lt;50 MW</p>
+<p align="center">P &lt; 50 MW</p>
 </td>
 <td valign="top" width="123">
-<p>50&lt;P&lt;100 MW</p>
+<p align="center">50 &lt; P &lt; 100 MW</p>
 </td>
 <td valign="top" width="123">
-<p>100&lt;P&lt;300 MW</p>
+<p align="center">100 &lt; P &lt; 300 MW</p>
 </td>
 <td valign="top" width="123">
-<p>&gt;300 MW</p>
+<p align="center">&gt; 300 MW</p>
 </td>
 </tr>
 <tr>
@@ -387,13 +388,13 @@ C procédé pour les combustibles liquides (moyennes journalières exprimées en
 </td>
 <td valign="top" width="123"/>
 <td valign="top" width="123">
-<p>850</p>
+<p align="center">850</p>
 </td>
 <td valign="top" width="123">
-<p>850 à 200 (décroissance linéaire)</p>
+<p align="center">850 à 200 (décroissance linéaire)</p>
 </td>
 <td valign="top" width="123">
-<p>200</p>
+<p align="center">200</p>
 </td>
 </tr>
 <tr>
@@ -402,13 +403,13 @@ C procédé pour les combustibles liquides (moyennes journalières exprimées en
 </td>
 <td valign="top" width="123"/>
 <td valign="top" width="123">
-<p>400</p>
+<p align="center">400</p>
 </td>
 <td valign="top" width="123">
-<p>300</p>
+<p align="center">300</p>
 </td>
 <td valign="top" width="123">
-<p>200</p>
+<p align="center">200</p>
 </td>
 </tr>
 <tr>
@@ -416,16 +417,16 @@ C procédé pour les combustibles liquides (moyennes journalières exprimées en
 <p>Poussières </p>
 </td>
 <td valign="top" width="123">
-<p>50 </p>
+<p align="center">50 </p>
 </td>
 <td valign="top" width="123">
-<p>50 </p>
+<p align="center">50 </p>
 </td>
 <td valign="top" width="123">
-<p>30</p>
+<p align="center">30</p>
 </td>
 <td valign="top" width="123">
-<p>30</p>
+<p align="center">30</p>
 </td>
 </tr>
 </tbody>
@@ -448,7 +449,7 @@ HCl, HF
 <p>Chlorure d'hydrogène (HCI)</p>
 </td>
 <td valign="top" width="307">
-<p>10mg/m3 (moyenne journalière) (*)</p>
+<p align="center">10mg/m3 (moyenne journalière) (*)</p>
 </td>
 </tr>
 <tr>
@@ -456,7 +457,7 @@ HCl, HF
 <p>Fluorure d'hydrogène (HF)</p>
 </td>
 <td valign="top" width="307">
-<p>1mg/m3 (moyenne journalière) (*)</p>
+<p align="center">1mg/m3 (moyenne journalière) (*)</p>
 </td>
 </tr>
 <tr>
@@ -484,7 +485,7 @@ Métaux, dioxines
 <p>Cd+TI</p>
 </td>
 <td valign="top" width="307">
-<p>0,05 mg/m3</p>
+<p align="center">0,05 mg/m3</p>
 </td>
 </tr>
 <tr>
@@ -492,7 +493,7 @@ Métaux, dioxines
 <p>Hg</p>
 </td>
 <td valign="top" width="307">
-<p>0,05 mg/m3</p>
+<p align="center">0,05 mg/m3</p>
 </td>
 </tr>
 <tr>
@@ -500,7 +501,7 @@ Métaux, dioxines
 <p>Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V</p>
 </td>
 <td valign="top" width="307">
-<p>0,5 mg/m3</p>
+<p align="center">0,5 mg/m3</p>
 </td>
 </tr>
 <tr>
@@ -508,7 +509,7 @@ Métaux, dioxines
 <p>Dioxines et furannes</p>
 </td>
 <td valign="top" width="307">
-<p>0,1 ng/m3</p>
+<p align="center">0,1 ng/m3</p>
 </td>
 </tr>
 </tbody>
@@ -539,7 +540,7 @@ III. - Dispositions applicables aux secteurs industriels non visés aux points I
 <p>Chlorure d'hydrogène (HCI)</p>
 </td>
 <td valign="top" width="307">
-<p>10mg/m3 (moyenne journalière) (*)</p>
+<p align="center">10mg/m3 (moyenne journalière) (*)</p>
 </td>
 </tr>
 <tr>
@@ -547,7 +548,7 @@ III. - Dispositions applicables aux secteurs industriels non visés aux points I
 <p>Fluorure d'hydrogène (HF)</p>
 </td>
 <td valign="top" width="307">
-<p>1mg/m3 (moyenne journalière) (*)</p>
+<p align="center">1mg/m3 (moyenne journalière) (*)</p>
 </td>
 </tr>
 <tr>
@@ -575,7 +576,7 @@ Métaux, dioxines
 <p>Cd+TI</p>
 </td>
 <td valign="top" width="307">
-<p>0,05 mg/m3</p>
+<p align="center">0,05 mg/m3</p>
 </td>
 </tr>
 <tr>
@@ -583,7 +584,7 @@ Métaux, dioxines
 <p>Hg</p>
 </td>
 <td valign="top" width="307">
-<p>0,05 mg/m3</p>
+<p align="center">0,05 mg/m3</p>
 </td>
 </tr>
 <tr>
@@ -591,7 +592,7 @@ Métaux, dioxines
 <p>Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V</p>
 </td>
 <td valign="top" width="307">
-<p>0,5 mg/m3</p>
+<p align="center">0,5 mg/m3</p>
 </td>
 </tr>
 <tr>
@@ -599,7 +600,7 @@ Métaux, dioxines
 <p>Dioxines et furannes</p>
 </td>
 <td valign="top" width="307">
-<p>0,1 ng/m3</p>
+<p align="center">0,1 ng/m3</p>
 </td>
 </tr>
 </tbody>
