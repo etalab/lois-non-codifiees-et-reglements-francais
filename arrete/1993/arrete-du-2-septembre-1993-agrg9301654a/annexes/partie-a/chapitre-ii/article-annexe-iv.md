@@ -1,261 +1,139 @@
 # Article Annexe IV
 
-12. Végétaux de Fragaria L., Prunus L., Rubus L., destinés à la plantation, à l'exception des semences.
+20. Végétaux d'Humulus lupulus L. destinés à la plantation, à l'exception des semences.
+
+Constatation officielle qu'aucun symptôme de Verticillium albo-atrum Reinke and Berthold et de Verticillium dahliae Klebahn n'a été observé sur le houblon du lieu de production depuis le début de la dernière période complète de végétation.
+
+21. Végétaux de Dendranthema (D.C.) Des Moul., Dianthus L. et Pelargonium L'Herit. ex-Ait., destinés à la plantation, à l'exception des semences.
 
 Constatation officielle :
 
-a) Que les végétaux proviennent de régions exemptes des organismes nuisibles déterminés, ou
+a) Qu'aucun signe d'Heliothis armigera Hübner, ou de Spodoptera littoralis (Boisd.) n'a été observé sur le lieu de production depuis le début de la dernière période complète de végétation, ou
 
-b) Qu'aucun symptôme de maladies causées par les organismes nuisibles déterminés n'a été observé sur le lieu de production ou dans ses environs immédiats depuis le début de la dernière période complète de végétation.
+b) Que les végétaux ont subi un traitement approprié contre les organismes susmentionnés.
 
-Les organismes nuisibles déterminés sont :
+22.1. Végétaux de Dendranthema (D.C.) Des Moul., destinés à la plantation, à l'exception des semences.
 
-pour Fragaria L. :
+Sans préjudice des exigences applicables aux végétaux visés au point 21 de la partie A II de l'annexe IV, constatation officielle :
 
-Phytophthora fragariae Hickman var fragariae ;
+a) Que les végétaux sont issus de la troisième génération au plus de matériel qui s'est révélé exempt du viroïde nanifiant du chrysanthème (Chrysanthemum stunt viroid) lors de tests virologiques ou proviennent directement de matériels dont un échantillon représentatif d'au moins 10 p. 100 s'est révélé exempt de ce même organisme lors d'un examen officiel effectué au moment de la floraison ;
 
-Virus de la mosaïque de l'arabette ;
+b) Que les végétaux et boutures proviennent d'établissements :
 
-Raspberry ringspot virus ;
+qui n'ont montré aucun symptôme de Puccinia horiana Hennings lors d'une inspection officielle effectuée au moins une fois par mois durant les trois mois précédant l'expédition et qu'aucun symptôme de ce même organisme n'a été connu dans les environs immédiats au cours des trois mois précédant la commercialisation, ou
 
-Strawberry crinkle virus ;
+que le lot a subi un traitement approprié contre le Puccinia horiana Hennings ;
 
-Strawberry latent ringspot virus ;
+c) Que, dans le cas de boutures non racinées, aucun symptôme de Didymella ligulicola (Baker, Dimock et Davis) v. Arx n'a été observé sur ces dernières ou sur les végétaux dont elles proviennent, ou encore, dans le cas des boutures racinées, qu'aucun de ces mêmes symptômes n'a été observé sur ces dernières ou dans le milieu d'enracinement.
 
-Strawberry mild yellow Edge virus ;
+22.2. Végétaux de Dianthus L., destinés à la plantation, à l'exception des semences.
 
-Tomato black ring virus (virus des anneaux noirs de la tomate) ;
+Sans préjudice des exigences applicables aux végétaux visés au point 21 de la partie A II de l'annexe IV, constatation officielle :
 
-Xanthomonas fragariae Kennedy et King ;
+que les végétaux proviennent directement de pieds mères qui se sont révélés exempts de Erwinia chrysanthemi pv. dianthicola (Hellmers) Dickey, Pseudomonas caryophylli (Burkholder) Starr et Burkholder et de Phialophora cinerescens (Wollenw.) Van Beyma lors de tests officiellement agréés, effectués au moins une fois pendant les deux dernières années ;
 
-pour Prunus L. :
+qu'aucun symptôme des organismes nuisibles susmentionnés n'a été observé sur les végétaux.
 
-Mycoplasme de l'enroulement chlorotique de l'abricotier ;
+23. Bulbes de Tulipa L. et narcissus L., à l'exception de ceux dont l'emballage ou tout autre élément doit prouver qu'ils sont destinés à la vente directe à des consommateurs finals non impliqués dans la profession de fleur coupée.
 
-Xanthomonas campestris pv. pruni (Smith) Dye ;
+Constatation officielle qu'aucun symptôme de Ditylenchus dipsaci (Kühn) Filipjev n'a été observé sur les végétaux depuis le début de la dernière période complète de végétation.
 
-pour Prunus persica (L.) Batsch :
+24. Végétaux de Apium graveolens L., Argyranthemum spp., Aster spp., Brassica spp., Capsicum annuum L., Cucumis spp., Dendranthema (D.C.) Des Moul., Dianthus L. et hybrides, Exacum spp., Gerbera Cass., Gypsophila L., lactuca spp., Leucanthemum L., Lupinus L., Lycopersicon lycopersicum (L.) Karsten ex-Farw., Solanum melongena L., Spinacia L., Tanacetum L. et Verbena L., destinés à la plantation, à l'exception des semences.
 
-Pseudomonas syringae pv. persicae (Prunier et al.) Young et al. ;
+Sans préjudice des exigences applicables aux végétaux visés aux points 21, 22.1 ou 22.2 de la partie A II de l'annexe IV, constatation officielle :
 
-pour Rubus L. :
+que les végétaux proviennent d'une région connue comme exempte de Liriomyza bryoniae (Kaltenbach), Liriomyza huidobrensis (Blanchard) et de Liriomyza trifolii (Burgess), ou
 
-Virus de la mosaïque de l'arabette ;
+qu'aucun signe de Liriomyza bryoniae (Kaltenbach), Liriomyza huidobrensis (Blanchard) et de Liriomyza trifolii (Burgess) n'a été observé sur le lieu de production lors d'inspections officielles effectuées au moins une fois par mois durant les trois mois précédant la récolte, ou
 
-Raspberry ringspot virus ;
+que juste avant la commercialisation, les végétaux ont été inspectés puis déclarés exempts de signes des organismes nuisibles déterminés, et soumis à un traitement approprié visant à éradiquer Liriomyza bryoniae (Kaltenbach), Liriomyza huidobrensis (Blanchard) et de Liriomyza trifolii (Burgess).
 
-Strawberry latent ringspot virus ;
+25. Végétaux racinés, plantés ou destinés à être plantés, cultivés en plein air.
 
-Virus des anneaux noirs de la tomate (Tomato black ring virus).
+Le lieu de production est exempt de Clavibacter michiganensis ssp. sepedonicus (Spieckermann et Kotthoff) Davis et al., Globodera pallida (Stone) Behrens, Globodera rostochiensis (Wollenweber) Behrens et Synchytrium endobioticum (Schilbersky) Percival.
 
-13. Végétaux de Cydonia Mill., et Pyrus L., destinés à la plantation, à l'exception des semences, originaires de pays dans lesquels l'existence du mycoplasme du dépérissement du poirier est connue.
-
-Sans préjudice des exigences applicables aux végétaux visés au point 9 de la partie A II de l'annexe IV, constatation officielle que :
-
-a) Les végétaux proviennent de régions exemptes du mycoplasme du dépérissement du poirier, ou
-
-b) Les végétaux du lieu de production et de ses environs immédiats qui ont montré des symptômes laissant présumer une contamination par le mycoplasme du dépérissement du poirier ont été enlevés au cours des trois dernières périodes complètes de végétation.
-
-14. Végétaux de Fragaria L., destinés à la plantation, à l'exception des semences.
-
-Sans préjudice des exigences applicables aux végétaux visés au point 12 de la partie A II de l'annexe IV, constatation officielle :
-
-a) Que les végétaux proviennent de régions exemptes d'aphelenchoïdes besseyi Christie, ou
-
-b) Qu'aucun symptôme d'aphelenchoïdes besseyi Christie n'a été observé sur les végétaux du lieu de production depuis le début de la dernière période complète de végétation, ou
-
-c) Dans le cas des végétaux en culture tissulaire, que ces derniers proviennent de végétaux satisfaisant aux dispositions du point b ou ont subi des tests nématologiques officiels suivant des méthodes appropriées à l'issue desquels ils se sont révélés exempts d'aphelenchoïdes besseyi Christie.
-
-15. Végétaux de Malus Mill. destinés à la plantation, à l'exception des semences.
-
-Sans préjudice des exigences applicables aux végétaux visés au point 9 de la partie A II de l'annexe IV, constatation officielle :
-
-a) Que les végétaux proviennent de régions exemptes de mycoplasme de la prolifération du pommier, ou
-
-b) aa) Que les végétaux, à l'exception des plants issus de semis :
-
-ont été officiellement certifiés dans le cadre d'un schéma de certification exigeant qu'ils proviennent en ligne directe de matériels maintenus dans des conditions appropriées et soumis à des tests officiels concernant au moins le mycoplasme de la prolifération du pommier et utilisant des indicateurs appropriés ou des méthodes équivalentes, au cours desquels ils se sont révélés exempts de cet organisme nuisible, ou
-
-proviennent en ligne directe de matériels maintenus dans des conditions appropriées et soumis, lors des six dernières périodes complètes de végétation, à au moins un test officiel concernant au moins le mycoplasme de la prolifération du pommier et utilisant des indicateurs appropriés ou des méthodes équivalentes, au cours duquel ils se sont révélés exempts de cet organisme nuisible ;
-
-bb) Qu'aucun symptôme de maladie causée par le mycoplasme de la prolifération du pommier n'a été observé sur les végétaux du lieu de production ou sur les végétaux sensibles de ses environs immédiats depuis le début des trois dernières périodes complètes de végétation.
-
-16. Végétaux des espèces suivantes de Prunus L. destinés à la plantation, à l'exception des semences :
-
-Prunus amygdalus Batsch ;
-
-Prunus armeniaca L. ;
-
-Prunus blireiana Andre ;
-
-Prunus brigantina Vill. ;
-
-Prunus cerasifera Ehrh. ;
-
-Prunus cistena Hansen ;
-
-Prunus curdica Fenzl et Fritsch ;
-
-Prunus domestica ssp. domestica L. ;
-
-Prunus domestica ssp. insititia (L.) C.K. Schneid ;
-
-Prunus domestica ssp. italica (Borkh.) Hegi ;
-
-Prunus glandulosa Thunb. ;
-
-Prunus holosericea Batal. ;
-
-Prunus hortulana Bailey ;
-
-Prunus japonica Thunb. ;
-
-Prunus mandshurica (Maxim.) Koehne ;
-
-Prunus maritima Marsh. ;
-
-Prunus mume Sieb. et Zucc. ;
-
-Prunus nigra Ait. ;
-
-Prunus persica (L.) Batsch ;
-
-Prunus salicina L. ;
-
-Prunus sabirica L. ;
-
-Prunus simonii Carr. ;
-
-Prunus spinosa L. ;
-
-Prunus tomentosa Thunb. ;
-
-Prunus triloba Lindl. ;
-
-autres espèces de Prunus L. sensibles au virus de la Sharka.
-
-Sans préjudice des exigences applicables aux végétaux visés au point 12 de la partie A II de l'annexe IV, constatation officielle :
-
-a) Que les végétaux proviennent de régions exemptes du virus de la Sharka, ou
-
-b) aa) Que les végétaux, à l'exception des plants issus de semis :
-
-ont été certifiés officiellement dans le cadre d'un schéma de certification exigeant qu'ils proviennent en ligne directe de matériels maintenus dans des conditions appropriées et soumis à des tests officiels concernant au moins le virus de la Sharka et utilisant des indicateurs appropriés ou des méthodes équivalentes, au cours desquels ils se sont révélés exempts de cet organisme nuisible, ou
-
-proviennent en ligne directe de matériels maintenus dans des conditions appropriées et soumis, lors des trois dernières périodes complètes de végétation, à au moins un test officiel concernant au moins le virus de la Sharka et utilisant les indicateurs appropriés ou des méthodes équivalentes, au cours duquel ils se sont révélés exempts de cet organisme ;
-
-bb) Qu'aucun symptôme de maladie causée par le virus de la Sharka n'a été observé sur les végétaux du lieu de production ou sur les végétaux sensibles de ses environs immédiats depuis le début des trois dernières périodes complètes de végétation ;
-
-cc) Que les végétaux du lieu de production qui ont montré des symptômes de maladies causées par d'autres virus ou agents pathogènes analogues ont été enlevés.
-
-17. (supprimé).
-
-18. Végétaux de Vitis L., à l'exception des fruits et semences.
-
-Constatation officielle qu'aucun symptôme de Flavescence dorée et de Xylophilus ampelinus (Panagopoulos) Willems et al. n'a été observé sur les pieds mères du lieu de production depuis le début des deux dernières périodes complètes de végétation.
-
-19.1. Tubercules de Solanum tuberosum L., destinés à la plantation.
+26. Végétaux de Beta vulgaris L. destinés à la plantation, à l'exception des semences.
 
 Constatation officielle :
 
-a) Que les dispositions communautaires relatives à la lutte contre Synchytrium endobioticum (Schilbersky) Percival ont été respectées ;
+a) Que les végétaux proviennent de régions connues comme exemptes du Beef leaf curl virus, ou
 
-b) Que les tubercules proviennent d'une région exempte de Clavibacter michiganensis spp. sepedonicus (Spieckermann et Kotthoff) David et al. ou que les dispositions communautaires relatives à la lutte contre cet organisme ont été respectées et
+b) Que l'apparition du Beet leaf curl virus n'a pas été connue sur le lieu de production et qu'aucun symptôme de sa présence n'a été observé sur ce même lieu ou dans ses environs immédiats depuis le début de la dernière période complète de végétation.
 
-c) Que les tubercules proviennent d'un champ exempt de Globodera rostochiensis (Wollenweber) Behrens et Globodera pallida (Stone) Behrens.
+27. Semences d'Helianthus annuus L.
 
-d) aa) Que les tubercules proviennent de régions connues comme exemptes de Pseudomonas solanacearum (Smith) Smith.
+Constatation officielle :
 
-ou
+a) Que les semences proviennent de régions connues comme exemptes de Plasmopara halstedii (Farlow) Berl. et de Toni, ou
 
-bb) Que, dans les régions où l'existence de Pseudomonas solanacearum (Smith) Smith est connue, les tubercules proviennent d'un lieu de production déclaré exempt de Pseudomonas solanacearum (Smith) Smith ou considéré comme tel par suite de la mise en oeuvre d'un programme approprié visant à l'éradication de Pseudomonas solanacearum (Smith) Smith.
+b) Que les semences autres que celles produites sur des variétés résistant à toutes les races de Plasmopara halstedii (Farlow) Berl. et Toni présentes sur le lieu de production ont été soumises à un traitement approprié contre cet organisme.
 
-et
+27.1 Végétaux de Lycopersicon lycopersicum L. Karsten ex Farw., destinés à la plantation, à l'exception des semences : sans préjudice des exigences applicables aux végétaux visés aux points 19.6 et 24 de la partie A, chapitre II de l'annexe IV, constatation officielle :
 
-e) Que les tubercules proviennent de zones où l'existence de Meloidogyne chitwoodi Golden et al. (toutes populations) et de Meloidogyne fallax Karssen est inconnue, ou
+a) Que les végétaux proviennent de zones connues comme exemptes de Tomato Yellow Leaf Curl Virus, ou
 
-Dans les zones où l'existence de Meloidogyne chitwoodi Golden et al. (toutes populations) et de Meloidogyne fallax Karssen est connue ;
+b) Qu'aucun symptôme de Tomato Yellow Leaf Curl Virus n'a été observé sur les végétaux durant une période appropriée, et
 
-- que les tubercules proviennent d'un lieu de production qui a été déclaré exempt de Meloidogyne chitwoodi Golden et al. (toutes populations), et de Meloidogyne fallax Karssen, sur la base d'une étude annuelle de cultures hôtes, par inspection visuelle de plantes hôtes à des moments appropriés et par inspection visuelle tant à l'extérieur que par coupage des tubercules après récolte de pommes de terre cultivées sur le lieu de production ; ou
+aa) Que les végétaux proviennent de zones connues comme exemptes de Bemisia tabaci Genn., ou
 
-- qu'après récolte les tubercules ont été échantillonnés au hasard et, soit contrôlés quant à la présence de symptômes après recours à une méthode appropriée pour les induire, soit testés en laboratoire, qu'ils ont été inspectés visuellement à l'extérieur et par coupage des tubercules, à des moments appropriés et, dans tous les cas, au moment de la fermeture des emballages ou conteneurs avant commercialisation, conformément aux dispositions de la directive 66/403/CEE relatives à la fermeture, et qu'aucun symptôme de Meloidogyne chitwoodi Golden et al. (toutes populations) et de Meloidogyne fallax Karssen n'a été observé.
+bb) Que le lieu de production a été déclaré exempt de Bemisia tabaci Genn. lors d'inspections officielles effectuées au moins une fois par mois durant les trois mois précédant l'expédition, ou
 
-19.2. Tubercules de Solanum tuberosum L., destinés à la plantation, à l'exception des variétés officiellement admises dans un ou plusieurs Etats membres en vertu de la directive n° 70-457 C.E.E.
+c) Qu'aucun symptôme du Tomato Yellow Leaf Curl Virus n'a été observé sur le lieu de production et que le lieu de production a été soumis à un traitement et un régime de suivi adéquats visant à garantir l'absence de Bemisia tabaci Genn..
 
-Sans préjudice des exigences applicables aux tubercules visés au point 19.1 de la partie A II de l'annexe IV, constatation officielle que les tubercules :
+28. Semences de Lycopersicon lycopersicum (L.) Karsten ex-Farw.
 
-appartiennent à des sélections avancées (cette indication doit être notée d'une manière adéquate sur le document d'accompagnement) ;
+Constatation officielle que les semences ont été obtenues au moyen d'une méthode appropriée d'extraction à l'acide ou d'une méthode équivalente définie conformément à la procédure prévue à l'article 16 bis, et
 
-ont été produits dans la Communauté, et
+a) Que les semences proviennent de régions où l'existence de Clavibacter michiganensis ssp. michiganensis (Smith) Davis et al. ou de Xanthomonas campestris pv. vesicatoria (Doidge) Dye n'est pas connue, ou
 
-proviennent en ligne directe de matériels maintenus dans des conditions appropriées et soumis dans la Communauté à des tests officiels de quarantaine selon des méthodes appropriées, au cours desquels ils se sont révélés exempts d'organismes nuisibles.
+b) Qu'aucun symptôme de maladies causées par ces organismes nuisibles n'a été observé sur les végétaux du lieu de production pendant leur dernière période complète de végétation, ou
 
-19.3. Végétaux d'espèces stolonifères ou à tubercules de Solanum L. ou leurs hybrides destinés à la plantation, à l'exception des tubercules de Solanum tuberosum L. visés au point 19.1 ou 19.2 de la partie A II de l'annexe IV et des matériels de préservation de culture stockés dans des banques de gènes ou des collections génétiques.
+c) Que les semences ont été soumises à un test officiel concernant au moins les organismes susvisés, effectué à l'aide de méthodes appropriées sur un échantillon représentatif et se sont révélées exemptes de ces organismes.
 
-a) Les végétaux doivent être demeurés en quarantaine et avoir été déclarés exempts d'organismes nuisibles lors des tests effectués pendant cette période ;
+29.1. Semences de Medicago sativa L..
 
-b) Les tests de quarantaine visés sous a) doivent :
+Constatation officielle :
 
-aa) Etre supervisés par l'organisme officiel de protection de végétaux de l'Etat membre concerné et réalisés par le personnel scientifique spécialisé de celui-ci ou de tout autre organisme officiellement agréé ;
+a) Qu'aucun symptôme de Ditylenchus dipsaci (Kühn) Filipjev n'a été observé sur le lieu de production depuis le début de la dernière période complète de végétation et qu'aucun Ditylenchus dipsaci (Kühn) Filipjev n'a été trouvé après un test en laboratoire sur un échantillon représentatif, ou
 
-bb) Etre réalisés sur un site possédant les infrastructures adéquates pour contenir les organismes nuisibles et conserver les matériels, y compris les plantes indicatrices, de manière à éliminer tout risque de propagation de ces mêmes organismes ;
+b) Qu'une fumigation a été effectuée avant la commercialisation.
 
-cc) Consister, pour chaque matériel :
+29.2. Semences de Medicago sativa L..
 
-en un examen visuel à intervalles réguliers pendant la durée complète d'au moins une période de végétation, en fonction de la nature du matériel et de son stade de développement durant le programme, afin de déceler les symptômes de maladies causées par des organismes nuisibles ;
+Sans préjudice des exigences applicables aux végétaux visés au point 29.1 de la partie A II de l'annexe IV, constatation officielle :
 
-en une série d'examens à réaliser selon des méthodes adéquates à présenter au Comité visé à l'article 16 bis pour déceler au moins :
+a) Que les semences proviennent de régions connues comme exemptes de Clavibacter michiganensis ssp. insidiosus Davis et al. ; ou
 
-dans le cas de tous les matériels de pommes de terre :
+b)
 
-Andean potato latent virus ;
+que l'apparition de Clavibacter michiganensis ssp. insidiosus Davis et al. n'a été connue ni dans l'exploitation ni dans ses environs immédiats depuis le début des dix dernières années, et
 
-Arracha virus B, oca strain ;
+que la culture appartient à une variété reconnue comme très résistante à Clavibacter michiganensis ssp. insidiosus Davis et al., ou
 
-Potato black ringspot virus ;
+qu'elle n'avait pas encore entamé sa quatrième période complète de végétation depuis le semis lorsque la semence a été récoltée et que la culture n'a pas donné plus d'une récolte de semences auparavant, ou
 
-Potato spindle tuber viroid ;
+que la teneur en matière inerte, déterminée conformément aux règles applicables à la certification des semences commercialisées dans la Communauté, ne dépasse pas 0,1 p. 100 en poids ;
 
-Potato virus T ;
+qu'aucun symptôme de Clavibacter michiganensis ssp. insidiosus Davis et al. n'a été observé sur le lieu de production ou dans une culture adjacente de Medicago sativa L. pendant la dernière ou, le cas échéant, les deux dernières périodes complètes de végétation ;
 
-Andean potato mottle virus ;
+que la culture a été effectuée sur un champ où aucune culture de Medicago sativa L. n'a été effectuée pendant les trois années précédant l'ensemencement.
 
-les virus communs A, M, S, V, X et Y (y compris Y°, Yn et Yc) de la pomme de terre et le Potato leaf roll virus ;
+30. Semences de Phaseolus L..
 
-Clavibacter michiganensis spp. sepedonicus (Spieckermann et Kotthoff) Davis et al. ;
+Constatation officielle :
 
-Pseudomonas solanacearum (Smith) Smith., dans le cas des semences (graines) de pommes de terre, les virus et organismes analogues visés aux points aa) à ee) ;
+a) Que les semences proviennent de régions connues comme exemptes de Xanthomonas campestris pv phaseoli (Smith) Dye ou
 
-dd) Permettre, par la réalisation de tests, d'identifier les organismes nuisibles à l'origine des autres symptômes observés lors de l'examen visuel ;
+b) Qu'un échantillon représentatif des semences a été testé et s'est révélé exempt de Xanthomonas campestris pv. phaseoli (Smith) Dye.
 
-a) Tout matériel qui n'a pas été déclaré exempt des organismes nuisibles visés au point c) lors des tests qui y sont également décrits doit être immédiatement détruit ou soumis à un traitement permettant d'éliminer ceux-ci ;
+31.1. Fruits de Citrus L., Fortunella Swingle, Poncirus Raf. et leurs hybrides.
 
-d) Toute organisation ou organisme de recherche détenant ce matériel doit en spécifier la nature au service officiel de protection des végétaux de l'Etat membre concerné.
+L'emballage doit porter une marque d'origine appropriée.
 
-19.4. Végétaux d'espèces stolonifères ou à tubercules de Solanum L. ou leurs hybrides destinés à la plantation conservés dans des banques de gènes ou des collections génétiques.
+31.2. Fruits de :
 
-Toute organisation ou organisme de recherche détenant ce matériel doit en spécifier la nature au service officiel de protection des végétaux de l'Etat membre concerné.
+Citrus L. à l'exception de fruits de Citrus clementina hort. ex Tanaka ;
 
-19.5. Tubercules de Solanum tuberosum L., à l'exception de ceux visés aux points 19.1, 19.2, 19.3 ou 19.4 de la partie A II de l'annexe IV.
+Fortunella Swingle, Poncirus Raf., et leurs hybrides.
 
-Un numéro d'enregistrement sur l'emballage ou sur le véhicule (en cas de transport en vrac) doit prouver que les pommes de terre ont été cultivées par un producteur officiellement enregistré ou proviennent de centres collectifs de stockage ou d'expédition officiellement enregistrés et situés dans la région de production et indiquer que les tubercules sont exempts de Pseudomonas solanacearum (Smith) Smith et que :
-
-a) Les dispositions communautaires relatives à la lutte contre Synchytrium endobioticum (Schilbersky) Percival, et
-
-b) Le cas échéant, contre Clavibacter michiganensis ssp. sepedonicus (Spieckermann et Kotthoff) Davis et al., sont respectées.
-
-19.6. Végétaux de Solanaceae destinés à la plantation, à l'exception des semences, et de ceux visés aux points 19.4 ou 19.5 de la partie A II de l'annexe IV.
-
-Sans préjudice des exigences applicables aux végétaux visés aux points 19.1, 19.2 et 19.3 de la partie A II de l'annexe IV, si nécessaire, constatation officielle :
-
-a) Que les végétaux proviennent de régions exemptes du mycoplasme du stolbur de la pomme de terre, ou
-
-b) Qu'aucun symptôme de mycoplasme du stolbur de la pomme de terre n'a été observé sur les végétaux du lieu de production depuis le début de la dernière période complète de végétation.
-
-19.7. Végétaux de Capsicum annuum L., Lycopersicon (L.) Karsten ex Farw., Musa L., Nicotiana L. et Solanum melongena L. destinés à la plantation à l'exception des semences.
-
-Sans préjudice des exigences applicables aux végétaux visés au point 19.6 de la partie A, chapitre II de l'annexe IV, le cas échéant, constatation officielle :
-
-a) Que les végétaux proviennent de régions connues comme exemptes de Pseudomonas solanacearum (Smith) Smith, ou
-
-b) Qu'aucun symptôme de Pseudomonas solanacearum (Smith) Smith n'a été observé sur les lieux de production depuis le début de la dernière période complète de végétation.
+Sans préjudice des exigences applicables aux fruits à l'annexe IV, partie A, point 31.1, les fruits seront exempts de feuilles et de pédoncules.

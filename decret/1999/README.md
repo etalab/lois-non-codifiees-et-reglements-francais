@@ -535,6 +535,8 @@
 - [Décret n°99-828 du 21 septembre 1999 (MJSK9970075D)](decret-n99-828-du-21-septembre-1999-mjsk9970075d)
 - [Décret n°99-887 du 21 octobre 1999 (INTA9900237D)](decret-n99-887-du-21-octobre-1999-inta9900237d)
 - [Décret n°99-889 du 21 octobre 1999 (ECOR9904558D)](decret-n99-889-du-21-octobre-1999-ecor9904558d)
+- [Décret n°99-910 du 21 octobre 1999 (PRMG9970239D)](decret-n99-910-du-21-octobre-1999-prmg9970239d)
+- [Décret n°99-911 du 21 octobre 1999 (PRMG9970174D)](decret-n99-911-du-21-octobre-1999-prmg9970174d)
 - [Décret n°99-396 du 21 mai 1999 (MJSK9970025D)](decret-n99-396-du-21-mai-1999-mjsk9970025d)
 - [Décret n°99-408 du 21 mai 1999 (EQUA9900177D)](decret-n99-408-du-21-mai-1999-equa9900177d)
 - [Décret n°99-409 du 21 mai 1999 (EQUA9900178D)](decret-n99-409-du-21-mai-1999-equa9900178d)
