@@ -2,4 +2,5 @@
 
 - [Titre Ier : De l'exécution forcée des jugements et autres actes et des mesures conservatoires.](titre-ier)
 - [Titre II : De l'astreinte en matière civile.](titre-ii)
+- [Titre III bis : De la publication des débats et des jugements en matière civile.](titre-iii-bis)
 - [Titre IV : Dispositions diverses.](titre-iv)
