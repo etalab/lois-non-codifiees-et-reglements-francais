@@ -1,6 +1,6 @@
 # Article 41
 
-A compter du 1er août 1995 et pendant une période transitoire de deux ans, les personnels de direction de la 4e classe mentionnés à l'article 40 ci-dessus sont reclassés, sur leur demande, et sans que puisse être remise en cause leur affectation, dans la 2e classe du corps des directeurs d'établissements sanitaires et sociaux régi par le titre Ier du présent décret.
+A compter du 1er août 1995 et jusqu'au 1er avril 1998, les personnels de direction de la 4e classe mentionnés à l'article 40 ci-dessus sont reclassés, sur leur demande, et sans que puisse être remise en cause leur affectation, dans la 2e classe du corps des directeurs d'établissements sanitaires et sociaux régi par le titre Ier du présent décret.
 
 Les reclassements s'effectuent conformément au tableau de reclassement ci-après :
 
