@@ -1,0 +1,3 @@
+# Article 1
+
+Le montant global des indemnités attribuées aux personnels de direction, d'intendance, d'administration et de service des lycées et collèges qui, en dehors de leurs heures normales de service, apportent leur concours au fonctionnement des cours et centres de perfectionnement conduisant à la promotion sociale et à l'exécution des conventions de formation continue, des conventions portant création de centres de formation d'apprentis et de toutes autres conventions susceptibles d'être conclues pour l'organisation d'activités à caractère culturel, social ou socio-éducatif compatibles avec le fonctionnement du service public, ne peut excéder, dans chaque établissement, un plafond annuel déterminé conformément à l'article 2 ci-dessous.

@@ -1,0 +1,3 @@
+# Article 3
+
+La prise en compte des droits validables dans les régimes complémentaires de retraite ouverts au titre de la période d'apprentissage s'effectue, pour les apprentis visés par la loi n. 79-13 du 3 janvier 1979, dans les conditions prévues par un accord passé entre les organisations professionnelles nationales les plus représentatives des employeurs et des salariés, rendu obligatoire en application des dispositions soit de l'ordonnance n. 59-238 du 4 février 1959 relative aux régimes de retraites complémentaires, soit de l'article 1050 du code rural, et étendu conformément aux dispositions de la loi n. 72-1223 du 29 décembre 1972 portant généralisation de la retraite complémentaire au profit des salariés et anciens salariés.

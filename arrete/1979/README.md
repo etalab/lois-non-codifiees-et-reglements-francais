@@ -76,6 +76,7 @@
 - [Arrêté du 27 décembre 1979](arrete-du-27-decembre-1979)
 - [Arrêté du 27 juin 1979](arrete-du-27-juin-1979)
 - [Arrêté du 27 mars 1979](arrete-du-27-mars-1979)
+- [Arrêté du 27 septembre 1979](arrete-du-27-septembre-1979)
 - [Arrêté du 28 août 1979](arrete-du-28-aout-1979)
 - [Arrêté du 28 février 1979](arrete-du-28-fevrier-1979)
 - [Arrêté du 28 juin 1979](arrete-du-28-juin-1979)
