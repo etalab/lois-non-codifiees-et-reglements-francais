@@ -1,6 +1,6 @@
 # Article 2
 
-Les titulaires des autorisations délivrées en application de l'article L. 33-2 du code des postes et télécommunications, autres que ceux visés aux articles 3 bis et 4 du présent décret, sont assujettis au paiement d'une redevance de mise à disposition de fréquences radioélectriques et d'une redevance de gestion.
+Les titulaires des autorisations délivrées en application de l'article L. 33-2 du code des postes et télécommunications, autres que ceux visés aux articles 2 bis, 3 bis et 4 du présent décret, sont assujettis au paiement d'une redevance de mise à disposition de fréquences radioélectriques et d'une redevance de gestion.
 
 A. - La redevance de mise à disposition
 
@@ -370,7 +370,7 @@ e) Les liaisons de télécommande utilisant un système d'accusé de réception,
 
 i) Les liaisons à bande latérale unique (BLU) utilisant des fréquences inférieures à 26 MHz sont assujetties à une redevance annuelle de 2 600 F pour chaque liaison unilatérale et de 5 200 F pour chaque liaison bilatérale.
 
-j) Les liaisons fixes bilatérales utilisant des fréquences supérieures à 1 GHz sont soumises à une redevance annuelle, par liaison, calculée en fonction de la largeur (L) de bande et de la bande de fréquence (BF) utilisée, selon le barème suivant (redevance exprimée en francs) :
+j) Les liaisons fixes bilatérales utilisant des fréquences supérieures à 1 GHz sont soumises à une redevance annuelle, par liaison, calculée en fonction de la largeur (L) de bande et de la bande de fréquences (BF) utilisée, selon le barème suivant (redevance exprimée en francs) multiplié par le coefficient "a" défini au b du A de l'article 1 bis du présent décret et divisé par 208 millions :
 
 <table>
 <tbody>

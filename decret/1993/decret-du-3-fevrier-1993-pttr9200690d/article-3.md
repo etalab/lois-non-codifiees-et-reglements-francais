@@ -16,50 +16,42 @@ Tableau 6
 <tbody>
 <tr>
 <td width="340">
-<p align="center">PORTÉE MAXIMALE<br/>du relais de rattachement<br/>(en km)</p>
+<p align="center">NOMBRE DE LIAISONS</p>
 </td>
 <td width="340">
-<p align="center">REDEVANCE<br/>par liaison terminale<br/>(en francs)</p>
+<p align="center">COEFFICIENT APPLICABLE<br/>au montant de la redevance de mise<br/>à disposition de fréquences radioélectriques</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">2</p>
+<p>Jusqu'à la 10e</p>
 </td>
 <td valign="top" width="340">
-<p align="center">285</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="340">
-<p align="left">5</p>
-</td>
-<td valign="top" width="340">
-<p align="center">540</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">10</p>
+<p>De la 11e à la 40e</p>
 </td>
 <td valign="top" width="340">
-<p align="center">750</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="340">
-<p align="left">30</p>
-</td>
-<td valign="top" width="340">
-<p align="center">1 125</p>
+<p align="center">0,75</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">50</p>
+<p>De la 41e à la 80e</p>
 </td>
 <td valign="top" width="340">
-<p align="center">1 850</p>
+<p align="center">0,5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Au-delà de la 81e</p>
+</td>
+<td valign="top" width="340">
+<p align="center">0,25</p>
 </td>
 </tr>
 </tbody>
@@ -85,7 +77,7 @@ Les services d'incendie et de secours ;
 
 Les personnes morales de droit public ou privé assurant des missions de sécurité civile dans des conditions fixées par arrêté du ministre chargé des télécommunications, pris après avis des ministres chargés de la sécurité civile et du budget.
 
-e) Les liaisons fixes bilatérales utilisant des fréquences supérieures à 1 GHz sont soumises à une redevance annuelle, par liaison, calculée en fonction de la largeur (L) de bande et de la bande de fréquences (BF) utilisée, selon le barème suivant (redevance exprimée en francs) :
+e) Les liaisons fixes bilatérales utilisant des fréquences supérieures à 1 GHz sont soumises à une redevance annuelle, par liaison, calculée en fonction de la largeur (L) de bande et de la bande de fréquences (BF) utilisée, selon le barème suivant (redevance exprimée en francs) multiplié par le coefficient "a" défini au b du A de l'article 1 bis du présent décret et divisé par 208 millions :
 
 <table>
 <tbody>
@@ -351,7 +343,7 @@ Par exception, les liaisons fixes utilisant la bande 23,5-23,6 GHz donnent lieu 
 
 2 300 F pour une voie vidéo.
 
-Pour les liaisons fixes unilatérales, la redevance est égale à 50 p. 100 de celle prévue pour les liaisons fixes bilatérales.
+Pour les liaisons fixes unilatérales, la redevance est égale à 50 % de celle prévue pour les liaisons fixes bilatérales.
 
 B. - La redevance de gestion
 
@@ -361,10 +353,10 @@ C. - Réseaux autorisés après appel à candidatures
 
 Les réseaux radioélectriques indépendants à usage partagé utilisant la technique dite à ressources partagées qui ont été autorisés à la suite d'un appel à candidatures et qui ne sont pas la transformation de réseaux radioélectriques indépendants déjà autorisés bénéficient d'une réduction des redevances de mise à disposition de fréquences radioélectriques et de gestion pour les quatre premières années, à compter de la date d'autorisation, dans les conditions suivantes :
 
-- première année : 100 p. 100 ;
+- première année : 100 % ;
 
-- deuxième année : 75 p. 100 ;
+- deuxième année : 75 % ;
 
-- troisième année : 50 p. 100 ;
+- troisième année : 50 % ;
 
-- quatrième année : 25 p. 100.
+- quatrième année : 25 %.
