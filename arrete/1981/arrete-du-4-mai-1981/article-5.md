@@ -1,5 +1,11 @@
 # Article 5
 
-Pour les engagements pris, le prestataire de services qui a effectué la ventilation prévue à l'article 2 et a inséré dans le contrat lui-même, ou le document en tenant lieu, une clause formelle et explicite rappelant les dispositions du présent arrêté peut aviser le souscripteur de l'augmentation qui résulte de l'article 4 ci-dessus et doit procéder à cet avis par lettre adressée au moins trente jours avant la date fixée pour le départ ; passé ce délai, la somme totale qui devra être effectivement payée ne peut plus subir aucune modification.
+Les installations, quelle qu'en soit la dénomination, destinée à l'accueil habituel de mineurs de plus de quatorze ans, et dont la capacité d'hébergement est inférieure ou égale à dix-neuf personnes, sont soumises au seul article 12 de l'arrêté du 25 février 1977 modifié. En conséquence, toutes les dispositions doivent être prises pour :
 
-Lorsque l'augmentation du prix total à payer par le souscripteur dépasse 3 p. 100, il doit lui être indiqué par cet avis q'une option lui est offerte entre l'acceptation de l'augmentation et la résiliation du contrat, comportant le remboursement immédiat de toutes les sommes versées, et que s'il choisit de résilier le contrat il doit faire connaître cette décision au prestataire de services dans un délai de sept jours.
+Que les établissements et les lieux d'hébergement soient situés dans les zones salubres et réputées non dangereuses ;
+
+Que l'eau destinée à la consommation soit potable ;
+
+Que soient assurés des moyens suffisants pour le maintien de la propreté corporelle ;
+
+Que les déchets, eaux et matières usées soient collectés et évacués sans qu'il puisse en résulter de risques pour la santé et l'environnement.

@@ -1,5 +1,3 @@
 # Article 4
 
-La révision prévue à l'article précédent ne peut intervenir qu'au cas où la répercussion de la hausse du coût de transport sur le prix total de la prestation aurait pour effet d'augmenter ce prix total de plus de 3 p. 100.
-
-Elle ne peut dépasser, en pourcentage, le pourcentage de hausse résultant de cette répercussion, diminué de trois points.
+La surveillance sanitaire et médicale des séjours est soumise aux seuls articles 25 à 35 de l'arrêté du 25 février 1977 modifié relatif aux conditions sanitaires. Un des membres de l'équipe d'encadrement doit être au minimum titulaire du brevet national de secourisme et le directeur doit veiller à la possibilité de recourir aux moyens d'urgence.

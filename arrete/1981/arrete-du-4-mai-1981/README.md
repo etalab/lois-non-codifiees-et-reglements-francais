@@ -1,4 +1,4 @@
-# Arrêté du 4 mai 1981 relatif à la publicité des prix des voyages et séjours
+# Arrêté du 4 mai 1981 relatif aux séjours de vacances collectives de mineurs de plus de quatorze ans.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

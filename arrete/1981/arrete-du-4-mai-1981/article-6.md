@@ -1,3 +1,3 @@
 # Article 6
 
-Lorsqu'une révision est intervenue dans les conditions fixées à l'article 4, le prestataire de services doit en assurer la diffusion par un matériel publicitaire approprié.
+L'effectif du personnel d'encadrement, directeur compris, par rapport au nombre des mineurs présents, ne doit pas être inférieur à un pour douze. Chacun des membres de l'encadrement doit être majeur. Le directeur doit être âgé au minimum de vingt et un ans.

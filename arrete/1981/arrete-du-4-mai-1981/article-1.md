@@ -1,3 +1,3 @@
 # Article 1
 
-Les dispositions de l'arrêté n° 77-105/P du 2 septembre 1977 sont applicables aux conditions d'exécution des voyages et séjours, sous réserve des dispositions suivantes.
+Les séjours de vacances collectives de mineurs de plus de quatorze ans qui réunissent moins de quarante participants sont organisés conformément aux prescriptions du présent arrêté.
