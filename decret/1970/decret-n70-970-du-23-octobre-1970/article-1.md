@@ -32,4 +32,6 @@ Canton de Villefranche-d'Albigeois : Bellegarde, Cambon, Cunac, Marsal, Mouzieys
 
 Seuls ont droit à l'appellation contrôlée "Gaillac premières côtes" les vins blancs qui, répondant aux conditions ci-après énumérées, ont été récoltés sur le territoire des communes de Bernac, Broze, Cahuzac-sur-Vère, Castanet, Cestayrols, Gaillac, Fayssac, Labastide-de-Lévis, Lisle-sur-Tarn, Montels et Senouillac, à l'exception des terrains qui, par la nature de leur sol ou leur situation, sont impropres à produire le vin de l'appellation.
 
-Le tracé de l'aire de production ainsi déterminé sera reporté sur le plan cadastral des communes intéressées par les experts désignés par le comité directeur de l'institut national des appellations d'origine et les plans établis par leurs soins seront, après approbation par l'institut national des appellations d'origine, déposés à la mairie des communes intéressées.
+Pour avoir droit à l'appellation contrôlée "Gaillac", les vins doivent être issus de vendanges récoltées dans l'aire de production délimitée par parcelles ou parties de parcelles, telle qu'elle a été approuvée par le Comité national de l'Institut national des appellations d'origine des vins et eaux-de-vie, lors de sa réunion du 19 mai 1984 sur proposition de la commission d'experts désignée à cet effet.
+
+Les plans de délimitation sont déposés à la mairie des communes intéressées.
