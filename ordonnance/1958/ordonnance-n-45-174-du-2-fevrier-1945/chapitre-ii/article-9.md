@@ -15,5 +15,3 @@ Lorsque l'instruction sera achevée, le juge d'instruction, sur réquisition du 
 Si le mineur a des coauteurs ou complices majeurs ces derniers seront, en cas de poursuites correctionnelles, renvoyés devant la juridiction compétente suivant le droit commun ; la cause concernant le mineur sera disjointe pour être jugée conformément aux dispositions de la présente ordonnance. En cas de poursuites pour infraction qualifiée crime, il sera procédé à l'égard de toutes les personnes mises en examen conformément aux dispositions de l'article 181 du code de procédure pénale ; le juge d'instruction pourra, soit renvoyer tous les accusés âgés de seize ans au moins devant la Cour d'assises des mineurs, soit disjoindre les poursuites concernant les majeurs et renvoyer ceux-ci devant la cour d'assises de droit commun ; les mineurs âgés de moins de seize ans seront renvoyés devant le tribunal pour enfants.
 
 L'ordonnance sera rédigée dans les formes du droit commun.
-
-Au cas de renvoi devant la Cour d'assises des mineurs, le juge d'instruction pourra décerner une ordonnance de prise de corps contre les accusés mineurs.

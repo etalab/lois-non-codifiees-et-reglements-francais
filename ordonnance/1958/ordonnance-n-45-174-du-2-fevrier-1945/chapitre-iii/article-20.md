@@ -18,7 +18,7 @@ Les dispositions des alinéas 1er, 2, 4 et 5 de l'article 14 s'appliqueront à l
 
 Après l'interrogatoire des accusés, le président de la cour d'assises des mineurs pourra, à tout moment, ordonner que l'accusé mineur se retire pendant tout ou partie de la suite des débats.
 
-Sous réserve des dispositions de la présente ordonnance, il sera procédé, en ce qui concerne les mineurs âgés de seize ans au moins, accusés de crime, conformément aux dispositions des articles 191 à 218 et 231 à 380 du code de procédure pénale.
+Sous réserve des dispositions de la présente ordonnance, il sera procédé, en ce qui concerne les mineurs âgés de seize ans au moins, accusés de crime, conformément aux dispositions des articles 191 à 218 et 231 à 379-1 du code de procédure pénale.
 
 Si l'accusé a moins de dix-huit ans, le président posera, à peine de nullité, les deux questions suivantes :
 
