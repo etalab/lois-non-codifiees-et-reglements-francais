@@ -8,12 +8,6 @@ a) Sur les règlements établis par les chambres départementales du ressort de 
 
 b) Sur les suppressions d'offices d'huissier de justice dans le ressort.
 
-Elle désigne :
-
-c) Les huissiers chargés de faire partie de la commission d'examen ;
-
-d) Le délégué appelé à faire partie de la chambre nationale.
-
 La chambre régionale établit son budget et en répartit les charges entre les chambres départementales du ressort.
 
 Elle est chargée de vérifier la tenue de la comptabilité dans les études d'huissier de justice du ressort.

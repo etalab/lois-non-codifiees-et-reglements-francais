@@ -4,7 +4,7 @@ Nul ne peut être nommé clerc d'huissier de justice habilité à procéder aux 
 
 1° Etre titulaire soit du diplôme de l'Ecole nationale de procédure de la chambre nationale des huissiers de justice, soit d'un diplôme national sanctionnant deux années d'études universitaires de droit, soit du diplôme universitaire de technologie des carrières juridiques et judiciaires ;
 
-2° Justifier de cinq années de cléricature au sein d'un office d'huissier de justice ;
+2° Justifier de cinq années de cléricature dont trois années dans les fonctions de principal clerc d'huissier de justice ou dans des activités professionnelles comportant des responsabilités équivalentes dans un office d'huissier de justice.
 
 3° Etre habilité dans les conditions prévues à l'article 2 ;
 

@@ -4,12 +4,4 @@ Sans préjudice de dispositions spéciales les huissiers de justice peuvent, apr
 
 Administrateur d'immeubles ;
 
-Agent d'assurances ;
-
-Correspondant de caisse d'épargne ;
-
-Correspondant ou secrétaire de caisse de crédit agricole ou de mutuelle agricole ;
-
-Correspondant de sociétés d'auteurs ;
-
-Secrétaire de coopérative agricole.
+Agent d'assurances.
