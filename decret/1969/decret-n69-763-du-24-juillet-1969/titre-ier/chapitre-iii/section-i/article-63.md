@@ -1,5 +1,5 @@
 # Article 63
 
-La société est en état de liquidation [*ouverture - date*] dès que la décision judiciaire prononçant sa nullité est définitive, ou dès sa dissolution pour quelque cause que ce soit.
+Lorsqu'une société est en état de liquidation, sa personnalité morale subsiste pour les besoins de la liquidation jusqu'à la clôture de celle-ci.
 
-La personnalité morale de la société subsiste pour les besoins de la liquidation jusqu'à la clôture de celle-ci [*personnalité morale - durée*].
+Sa raison sociale est obligatoirement suivie de la mention société en liquidation.

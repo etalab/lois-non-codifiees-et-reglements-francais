@@ -1,7 +1,7 @@
 # Article 87
 
-La demande de l'intéressé, adressée au garde des sceaux, ministre de la justice, est, à peine de forclusion, remise au procureur de la République près le tribunal de grande instance dans le ressort duquel la société avait son siège [*social*], dans le délai de deux mois suivant la notification prévue à l'article 86 (alinéa 2) [*procédure*].    Le procureur de la République invite la chambre de discipline à fournir son avis sur l'opportunité de la création d'un office dans le département considéré [*consultations*].
+La demande de l'intéressé, adressée au garde des sceaux, ministre de la justice, est remise au procureur de la République près le tribunal de grande instance dans le ressort duquel la société a son siège. Elle est accompagnée de toutes pièces justificatives.
 
-Cet avis est recueilli et transmis au garde des sceaux, ministre de la justice, conformément aux dispositions de l'article 7 (alinéa 2) et de l'article 8.
+Le procureur de la République saisit la chambre de discipline de la compagnie par lettre recommandée avec demande d'avis de réception et l'invite à lui faire parvenir son avis motivé sur la demande.
 
-Dans les quinze jours suivant sa saisine, la chambre de discipline informe la chambre nationale des commissaires-priseurs de la demande de création d'office formulée par le commissaire-priseur.
+Si, quarante-cinq jours après sa saisine, la chambre n'a pas adressé au procureur de la République l'avis qui lui a été demandé, elle est réputée avoir émis un avis favorable.

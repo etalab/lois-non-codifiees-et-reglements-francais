@@ -2,8 +2,8 @@
 
 Les dispositions réglementaires relatives à la prestation de serment sont applicables aux commissaires-priseurs associés.
 
-La société entre en fonctions [*délai*] dès la prestation de serment de l'un des associés.
+La société ne peut entrer en fonction qu'après la prestation de serment de tous ses membres. Ceux-ci n'ont le droit d'instrumenter qu'à compter du jour où ils ont prêté serment.
 
-Tout commissaire-priseur associé n'a le droit d'exercer ses fonctions qu'à compter du jour de sa prestation de serment.
+L'associé qui a déjà prêté serment en qualité de commissaire-priseur n'a pas à renouveler son serment.
 
-S'il ne prête pas serment dans le mois suivant la publication de l'arrêté prévu à l'article 5 (alinéa 1), il peut être déchu [*sanctions*], par arrêté du garde des sceaux, ministre de la justice, de sa qualité de commissaire-priseur associé et ses parts sociales sont cédées dans les conditions fixées à l'article 32 du présent décret.
+Tout associé qui n'a pas prêté serment dans le mois suivant la publication de l'arrêté prévu au premier alinéa de l'article 5 peut, sauf cas de force majeure, être déchu par arrêté du garde des sceaux, ministre de la justice, de sa qualité d'associé et ses parts sociales sont cédées dans les conditions fixées à l'article 32.

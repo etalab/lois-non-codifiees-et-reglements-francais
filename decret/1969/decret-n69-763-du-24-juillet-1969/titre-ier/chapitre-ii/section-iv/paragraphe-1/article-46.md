@@ -1,3 +1,3 @@
 # Article 46
 
-Tout [*commissaire-priseur*] associé ne peut être membre que d'une seule société civile professionnelle de commissaire-priseur et ne peut exercer la profession de commissaire-priseur à titre individuel [*cumul de fonctions : non*].
+Tout associé ne peut être membre que d'une seule société civile professionnelle de commissaires-priseurs et ne peut exercer ses fonctions ni à titre individuel ni en qualité de membre d'une société d'exercice libéral.

@@ -4,4 +4,6 @@ L'associé destitué est déchu de sa qualité de commissaire-priseur associé e
 
 Ses parts sociales sont cédées dans les conditions fixées à l'article 32.
 
+Les dispositions des premier et deuxième alinéas de l'article 57 sont applicables en cas de destitution.
+
 Les effets de la destitution de la société sont régis par l'article 77.

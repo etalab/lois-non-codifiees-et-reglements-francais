@@ -5,3 +5,5 @@ Chaque [*commissaire-priseur*] associé participe avec voix consultative aux ass
 Pour la détermination du nombre des membres devant composer les organismes professionnels, chaque associé compte pour une unité.
 
 Si eu égard notamment aux effectifs, il est impossible de constituer une chambre de discipline sans déroger aux dispositions qui précèdent, le garde des sceaux, ministre de la justice, peut autoriser plusieurs [*nombre*] membres d'une même société à faire partie de cette chambre.
+
+Par dérogation aux dispositions des articles 9 (3e alinéa), 28 (4e alinéa) et 30 (3e alinéa) du décret n° 45-120 du 19 décembre 1945, le commissaire-priseur démissionnaire membre d'un organisme professionnel, nommé commissaire-priseur associé, continue l'exercice de ses fonctions jusqu'à l'expiration de son mandat, sauf si le siège de la société est situé hors du ressort de cet organisme ou de l'organisme dont il tient son mandat.
