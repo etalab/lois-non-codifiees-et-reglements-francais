@@ -10,4 +10,6 @@ Périnéorraphie simple ou suture d'épisiotomie ;
 
 Délivrance artificielle ;
 
-Révision utérine isolée.
+Révision utérine isolée ;
+
+Séances préparatoires à l'accouchement par la méthode psycho-prophylactique.
