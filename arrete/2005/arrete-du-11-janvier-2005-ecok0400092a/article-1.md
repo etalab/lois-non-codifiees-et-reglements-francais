@@ -22,8 +22,8 @@ Responsable des consignations département Agence bancaire et consignations.
 
 Retraites
 
-Chef du service clients de l'établissement d'Angers.
+Directeur des prestations aux clients IRCANTEC.
 
-Responsable du centre de contacts de l'établissement d'Angers.
+Directeur de la qualité et des relations clients.
 
 Responsable des affaires générales et juridiques de l'établissement de Bordeaux.
