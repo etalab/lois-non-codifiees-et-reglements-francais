@@ -4,7 +4,6 @@
 - [Titre II : Recrutement, mutations](titre-ii)
 - [Titre III : Rémunération](titre-iii)
 - [Titre IV : Notation et avancement](titre-iv)
-- [Titre V : Discipline.](titre-v)
 - [Titre VI : Positions.](titre-vi)
 - [Titre VII : Cessation définitive des fonctions.](titre-vii)
 - [Article 125](article-125.md)
