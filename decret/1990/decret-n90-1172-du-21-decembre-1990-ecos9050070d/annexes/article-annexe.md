@@ -1,37 +1,11 @@
 # Article ANNEXE
 
-TABLEAU I-C
+Nota. - Les tableaux 2 et 3 annexés au décret n° 90-1172 du 21 décembre 1990 authentifiant les résultats du recensement de 1990 sont reproduits dans un volume intitulé Population de la France :
 
-Population de la collectivité territoriale de Saint-Pierre-et-Miquelon (1)
+régions, départements, arrondissements, cantons, communes, actuellement en cours d'impression et des fascicules départementaux que l'on pourra se procurer à l'Institut national de la statistique et des études économiques (observatoires économiques régionaux).
 
-COMMUNE DE : Miquelon-Langlade
+Ces tableaux donnent respectivement :
 
-POPULATION totale (avec doubles comptes) : 709
+Tableau 2 : la population et le nombre de communes des arrondissements et cantons (avec rappel de la population en 1982) (seule la population par arrondissement figure dans les fascicules des départements d'outre-mer).
 
-POPULATION municipale : 697
-
-POPULATION comptée à part : 12
-
-POPULATION (sans doubles comptes dans la population comptée à part) : 697
-
-COMMUNE DE : Saint-Pierre
-
-POPULATION totale (avec doubles comptes) : 5 683
-
-POPULATION municipale : 5 579
-
-POPULATION comptée à part : 104
-
-POPULATION (sans doubles comptes dans la population comptée à part) : 5 580
-
-- TOTAL :
-
-- POPULATION totale (avec doubles comptes) : 6 392
-
-- POPULATION municipale : 6 276
-
-- POPULATION comptée à part : 116
-
-- POPULATION (sans doubles comptes dans la population comptée à part) : 6 277
-
-(1) Le département d'outre-mer de Saint-Pierre-et-Miquelon a été érigé en collectivité territoriale par la loi n° 85-595 du 11 juin 1985.
+Tableau 3 : la population des communes (ainsi que le rappel de 1982).
