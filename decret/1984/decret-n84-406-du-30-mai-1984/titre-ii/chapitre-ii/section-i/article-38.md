@@ -2,9 +2,9 @@
 
 Sont mentionnés d'office au registre :
 
-1° Les mesures d'incapacité ou d'interdiction d'exercer une activité commerciale ou professionnelle de gérer, d'administrer ou de diriger une personne morale résultant d'une décision judiciaire ou administrative ;
+1° Les mesures d'incapacité ou d'interdiction d'exercer une activité commerciale ou professionnelle, de gérer, d'administrer ou de diriger une personne morale résultant d'une décision juridictionnelle passée en force de chose jugée ou d'une décision administrative définitive ;
 
-2° Les décisions de réhabilitation, de relevé d'incapacité ou mesures d'amnistie faisant disparaître cette incapacité ou interdiction ;
+2° (supprimé).
 
 3° Les décisions judiciaires prononçant la dissolution ou la nullité de la personne morale ;
 
