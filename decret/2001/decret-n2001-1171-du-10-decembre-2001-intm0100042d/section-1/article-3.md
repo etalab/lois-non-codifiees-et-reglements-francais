@@ -12,6 +12,6 @@ L'agrément précise les modalités, notamment :
 
 4° D'information des intéressés sur leurs obligations en termes d'insertion, sur les conditions de suspension ou de radiation, ainsi que sur les sanctions pénales en cas de manquement à leurs obligations, conformément à l'article L. 522-12 du code de l'action sociale et des familles ;
 
-5° Des comptes rendus que les organismes agréés doivent fournir au préfet.
+5° Des comptes rendus que les organismes agréés doivent fournir au président du conseil général.
 
 Aucun paiement ni aucun remboursement ne peut être exigé du demandeur, au titre de l'instruction de sa demande d'allocation, par l'organisme agréé.

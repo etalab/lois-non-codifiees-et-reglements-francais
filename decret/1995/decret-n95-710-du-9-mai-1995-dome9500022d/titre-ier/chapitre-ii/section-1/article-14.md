@@ -1,6 +1,6 @@
 # Article 14
 
-Outre les matières énumérées à l'article 522-4 du code de l'action sociale et des familles, le conseil d'administration délibère sur les matières suivantes :
+Outre les matières énumérées à l'article L. 522-4 et à l'article L. 522-18 du code de l'action sociale et des familles, le conseil d'administration délibère sur les matières suivantes :
 
 1° Les modalités générales de la participation en nature ou financière prévue à l'article 50 du présent décret ;
 
@@ -10,11 +10,11 @@ Outre les matières énumérées à l'article 522-4 du code de l'action sociale 
 
 4° La convention de coopération avec l'Agence nationale pour l'emploi, prévue à l'article 3 ci-dessus ;
 
-5° Les conventions passées en application de l'article 263-7 du code de l'action sociale et des familles ;
+5° (Paragraphe abrogé)
 
-6° Le montant de la participation de l'agence à la réalisation de logements sociaux pour les bénéficiaires du revenu minimum d'insertion et notamment à celle de logements locatifs très sociaux ;
+6° (Paragraphe abrogé)
 
-7° Le rapport annuel d'activité, qui rend compte des actions entreprises, de l'utilisation des crédits et des résultats obtenus dans le cadre de l'exécution du programme départemental d'insertion, du programme annuel de tâches d'utilité sociale et des conventions en vigueur parmi celles mentionnées aux 4° et 5° ci-dessus. Un rapport d'étape est transmis aux ministres chargés de l'outre-mer, des affaires sociales et du budget avant le 31 décembre de l'année considérée ; le rapport définitif est transmis aux mêmes destinataires avant le 1er juillet de l'année suivante ;
+7° Le rapport annuel d'activité, qui rend compte des actions entreprises, de l'utilisation des crédits et des résultats obtenus dans le cadre de l'exécution du programme départemental d'insertion, du programme annuel de tâches d'utilité sociale et de la convention mentionnée au 4° ci-dessus ;
 
 8° Le compte financier ;
 

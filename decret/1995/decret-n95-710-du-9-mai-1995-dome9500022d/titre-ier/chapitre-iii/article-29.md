@@ -2,9 +2,9 @@
 
 Les ressources de chaque agence comprennent notamment :
 
-1° La contribution de l'Etat au financement des actions d'insertion prévue au premier alinéa de l'article 522-9 du code de l'action sociale et des familles, à l'exception de la part de cette contribution affectée au logement social ;
+1° La contribution du département au financement des actions d'insertion mentionnées à l'article L. 522-15 du code de l'action sociale et des familles ;
 
-2° Le versement du département correspondant au crédit prévu à l'article 522-15 du code de l'action sociale et des familles ;
+2° Les crédits départementaux nécessaires à la mise en oeuvre des attributions mentionnées à l'article L. 522-18 du même code ;
 
 3° La participation financière de l'Etat aux contrats d'insertion par l'activité ;
 

@@ -15,5 +15,3 @@ Le projet de programme départemental d'insertion prend notamment en compte :
 4° Le rapport prévu au troisième alinéa de l'article 6 du décret du 20 janvier 1989 susvisé ;
 
 5° Les informations issues du dispositif d'évaluation des actions menées.
-
-Sont annexés au programme départemental d'insertion les projets d'utilisation de la part des crédits affectée par l'Etat au financement du logement social.

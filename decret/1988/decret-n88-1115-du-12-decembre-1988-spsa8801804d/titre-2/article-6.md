@@ -1,6 +1,6 @@
 # Article 6
 
-Le préfet désigne l'organisme agréé auquel l'allocation est mandatée par l'organisme payeur.
+Le président du conseil général désigne l'organisme agréé auquel l'allocation est mandatée par l'organisme payeur.
 
 Sa décision précise, en accord avec le bénéficiaire, la durée de la mesure ainsi que les principales modalités du reversement de l'allocation.
 

@@ -4,9 +4,9 @@ Un comité d'orientation est placé auprès du directeur. Celui-ci détermine le
 
 Le comité d'orientation est composé des membres suivants :
 
-- deux représentants des organisations syndicales de salariés, à raison d'un membre pour chacune des deux organisations les plus représentées au conseil économique et social régional, désignés conjointement par le préfet et le président du conseil général sur proposition de ces organisations ; en cas d'égalité de sièges au conseil économique et social régional, la préférence est accordée à celle des organisations ayant obtenu le plus grand nombre de suffrages lors des plus récentes élections au conseil de prud'hommes du département ;
+- deux représentants des organisations syndicales de salariés, à raison d'un membre pour chacune des deux organisations les plus représentées au conseil économique et social régional, désignés par le président du conseil général sur proposition de ces organisations ; en cas d'égalité de sièges au conseil économique et social régional, la préférence est accordée à celle des organisations ayant obtenu le plus grand nombre de suffrages lors des plus récentes élections au conseil de prud'hommes du département ;
 
-- deux représentants des organisations professionnelles d'employeurs désignés conjointement par le préfet et le président du conseil général sur proposition de celles de ces organisations qui sont représentées au conseil économique et social régional ;
+- deux représentants des organisations professionnelles d'employeurs désignés par le président du conseil général sur proposition de celles de ces organisations qui sont représentées au conseil économique et social régional ;
 
 - le président de chaque chambre de commerce et d'industrie dans le département ou son représentant ;
 

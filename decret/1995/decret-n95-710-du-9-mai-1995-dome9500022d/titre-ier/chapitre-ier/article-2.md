@@ -1,6 +1,6 @@
 # Article 2
 
-Outre les missions prévues aux deuxième, troisième et quatrième alinéas de l'article 522-1 du code de l'action sociale et des familles, l'agence d'insertion exerce, en application du cinquième alinéa du même article, les attributions dévolues au conseil départemental d'insertion par l'article 263-4 du code de l'action sociale et des familles.
+Outre les missions prévues aux premier et deuxième alinéas de l'article 522-1 du code de l'action sociale et des familles, l'agence d'insertion exerce, en application du quatrième alinéa du même article, les attributions dévolues au conseil départemental d'insertion par l'article 263-4 du code de l'action sociale et des familles.
 
 En vue de favoriser l'insertion sociale et professionnelle des bénéficiaires du revenu minimum d'insertion, elle affecte à l'exécution de tâches d'utilité sociale ceux d'entre eux avec lesquels elle a signé le contrat d'insertion par l'activité institué par l'article 522-8 du code de l'action sociale et des familles.
 
