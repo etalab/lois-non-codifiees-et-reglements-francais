@@ -2,7 +2,6 @@
 
 - [Article 1](article-1.md)
 - [TITRE Ier : ORGANISATION BUDGÉTAIRE](titre-ier)
-- [TITRE II : PRÉPARATION ET VOTE DU BUDGET](titre-ii)
 - [TITRE III : EXÉCUTION DU BUDGET](titre-iii)
 - [TITRE IV : COMPTABILITÉ.](titre-iv)
 - [TITRE V : DISPOSITIONS TRANSITOIRES ET FINALES.](titre-v)
