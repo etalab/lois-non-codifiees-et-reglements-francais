@@ -1,6 +1,6 @@
 # Article 10
 
-Les bulletins de vote sont de format 210 x 297 mm.
+Les bulletins de vote [*mentions*] sont de format 210 x 297 mm.
 
 Sur une première ligne, chaque bulletin indique le nombre de voix auquel il donne droit (1 voix, 10 voix, 100 voix).
 

@@ -6,6 +6,6 @@ Celui-ci vérifie que la liste des candidats du premier collège est régulière
 
 Les listes devront comporter dans l'ordre de présentation des candidats leurs nom, prénoms et la qualité de chacun d'entre eux. Est annexé à ces listes l'ensemble des déclarations individuelles de candidatures. Chaque déclaration individuelle doit être signée par le candidat.
 
-Les listes de candidats du premier collège font l'objet d'une publicité par voie d'affichage à la préfecture de la région d'Ile-de-France et dans les préfectures et sous-préfectures des départements trente et un jours au moins avant la date du scrutin.
+Les listes de candidats du premier collège font l'objet d'une publicité par voie d'affichage à la          préfecture de la région d'Ile-de-France, préfecture de Paris et dans les préfectures et sous-préfectures des départements trente et un jours au moins avant la date du scrutin.
 
-Les listes de candidats des deuxième, troisième et quatrième collèges font l'objet d'une publicité dans le même délai par voie d'affichage dans les préfectures de région et à la préfecture de la région d'Ile-de-France.
+Les listes de candidats des deuxième, troisième et quatrième collèges font l'objet d'une publicité dans le même délai par voie d'affichage dans les préfectures de région et à la          préfecture de la région d'Ile-de-France, préfecture de Paris.

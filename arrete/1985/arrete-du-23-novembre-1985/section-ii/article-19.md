@@ -1,6 +1,6 @@
 # Article 19
 
-Les commissions interdépartementales mentionnées aux articles 70 et 77 du décret n° 85-643 du 26 juin 1985 modifié comprennent :
+Les commissions interdépartementales mentionnées aux articles 70 et 77 du décret n° 85-643 du 26 juin 1985 modifié comprennent [*composition*] :
 
 - deux maires ;
 
@@ -18,7 +18,7 @@ Pour chaque membre est nommé un suppléant.
 
 Le commissaire de la République ou son représentant préside la commission qu'il a constituée.
 
-Les réclamations aux fins d'inscription ou de radiation devront être adressées au plus tard cinquante-trois jours avant la date du scrutin :
+Les réclamations aux fins d'inscription ou de radiation [*délai*] devront être adressées au plus tard cinquante-trois jours avant la date du scrutin :
 
 - à la commission siégeant à la préfecture du Val-de-Marne pour le centre interdépartemental de la petite couronne ;
 

@@ -1,6 +1,6 @@
 # Article 20
 
-En ce qui concerne l'élection des représentants des maires, les listes de candidats sont établies par les soins des candidats. Elles devront comporter dans l'ordre de présentation des candidatures les nom, prénoms et la qualité de chacun des candidats. Est annexé à ces listes l'ensemble des déclarations individuelles. Chaque déclaration individuelle doit être signée par le candidat. Les documents seront adressés sous pli recommandé avec accusé de réception trente-cinq jours au plus tard avant la date du scrutin :
+En ce qui concerne l'élection des représentants des maires, les listes [*mentions*] de candidats sont établies par les soins des candidats. Elles devront comporter dans l'ordre de présentation des candidatures les nom, prénoms et la qualité de chacun des candidats. Est annexé à ces listes l'ensemble des déclarations individuelles. Chaque déclaration individuelle doit être signée par le candidat. Les documents seront adressés sous pli recommandé avec accusé de réception trente-cinq jours au plus tard avant la date du scrutin :
 
 - au commissaire de la République du département du Val-de-Marne pour l'élection des représentants des communes au conseil d'administration du centre interdépartemental de gestion de la petite couronne de la région d'Ile-de-France ;
 

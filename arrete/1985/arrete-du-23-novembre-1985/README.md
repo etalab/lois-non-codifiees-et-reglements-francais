@@ -1,4 +1,4 @@
-# Arrêté du 23 novembre 1985 fixant les modalités d'organisation des élections pour la constitution initiale des conseils d'administration des centres de gestion de la fonction publique territoriale.
+# Arrêté du 23 novembre 1985 fixant la date des élections aux conseils d'administration des centres de formation de la fonction publique territoriale.
 
 - [Article 1](article-1.md)
 - [SECTION I : Elections aux conseils d'administration des centres départementaux de gestion.](section-i)

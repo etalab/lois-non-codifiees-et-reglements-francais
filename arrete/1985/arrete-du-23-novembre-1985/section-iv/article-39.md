@@ -10,4 +10,4 @@ Un représentant de chacune des listes de candidats peut assister au dépouillem
 
 Les résultats de l'ensemble des collèges sont proclamés par la commission nationale mentionnée à l'article 30 du présent arrêté six jours après le dépouillement au plus tard.
 
-Ces résultats sont affichés, aussitôt après la proclamation à la préfecture de la région d'Ile-de-France et dans les préfectures de chaque département.
+Ces résultats sont affichés, aussitôt après la proclamation à la          préfecture de la région d'Ile-de-France, préfecture de Paris et dans les préfectures de chaque département.
