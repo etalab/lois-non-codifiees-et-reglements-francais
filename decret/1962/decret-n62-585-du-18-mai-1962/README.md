@@ -1,4 +1,4 @@
-# Décret n°52-73 du 16 janvier 1952 portant réorganisation de l'inspection générale de l'aviation civile.
+# Décret n°62-585 du 18 mai 1962 relatif au groupement national interprofessionnel des semences, graines et plants (G.N.I.S.)
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -9,3 +9,7 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
+- [Article 10](article-10.md)
+- [Article 11](article-11.md)
+- [Article 12](article-12.md)
+- [Article 13](article-13.md)

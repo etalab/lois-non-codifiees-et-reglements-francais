@@ -18,6 +18,7 @@
 - [Décret n°65-1147 du 15 décembre 1965](decret-n65-1147-du-15-decembre-1965)
 - [Décret n°62-569 du 15 mai 1962](decret-n62-569-du-15-mai-1962)
 - [Décret n°63-957 du 17 septembre 1963](decret-n63-957-du-17-septembre-1963)
+- [Décret n°62-585 du 18 mai 1962](decret-n62-585-du-18-mai-1962)
 - [Décret n°62-197 du 19 février 1962](decret-n62-197-du-19-fevrier-1962)
 - [Décret n°62-1389 du 23 novembre 1962](decret-n62-1389-du-23-novembre-1962)
 - [Décret n°63-1313 du 24 décembre 1963](decret-n63-1313-du-24-decembre-1963)
