@@ -5,3 +5,5 @@ Les pouvoirs publics consultent, en tant que de besoin, le Conseil national de l
 Le Conseil national de la consommation comporte des collèges ayant voix délibérative qui émettent, ensemble ou séparément, de leur propre initiative ou à la demande du ministre chargé de la consommation, des avis sur les questions intéressant la consommation de biens et de services publics ou privés.
 
 Le Conseil national de la consommation peut être saisi par les pouvoirs publics pour avis des projets ou propositions de lois et de règlements susceptibles d'avoir une incidence sur la consommation ainsi que sur les conditions d'application de ces textes.
+
+Pour l'application des articles 1er et 28 de l'ordonnance du 1er décembre 1986 susvisée, le Conseil national de la consommation est consulté en sa formation plénière.
