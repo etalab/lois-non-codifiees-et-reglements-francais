@@ -8,7 +8,7 @@ Le président, le secrétaire perpétuel et le trésorier perpétuel de l'Acadé
 
 Le président de la section de l'intérieur du Conseil d'Etat ou son représentant ;
 
-Le président de la 1re chambre de la Cour des comptes ou son représentant ;
+Le président de la sixième chambre de la Cour des comptes ou son représentant ;
 
 Les directeurs généraux, les directeurs, le chef du service des haras, des courses et de l'équitation et le chef du service de la communication du ministère chargé de l'agriculture ou leurs représentants ;
 
