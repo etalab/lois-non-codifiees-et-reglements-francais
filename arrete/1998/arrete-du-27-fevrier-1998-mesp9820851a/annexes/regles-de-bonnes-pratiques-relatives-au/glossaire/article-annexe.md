@@ -28,7 +28,7 @@ On entend par "documentation" l'ensemble des documents descriptifs de l'organisa
 
 Médecin anesthésiste-réanimateur
 
-Il peut s'agir soit d'un médecin spécialiste en anesthésiologie-réanimation chirurgicale, soit d'un médecin qualifié spécialiste en anesthésie-réanimation, soit d'un médecin compétent qualifié en anesthésie-réanimation, soit d'un médecin titulaire du diplôme d'études spécialisées complémentaires de réanimation médicale.
+Il peut s'agir soit d'un médecin qualifié spécialiste ou compétent en anesthésie-réanimation, soit d'un médecin qualifié spécialiste en anesthésiologie-réanimation chirurgicale.
 
 Médecin coordonnateur hospitalier
 
