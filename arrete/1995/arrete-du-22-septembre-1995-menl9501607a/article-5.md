@@ -30,6 +30,20 @@ a) Dans l'établissement, les catégories d'informations nominatives enregistré
 
 - enseignement religieux dispensé dans les établissements publics locaux d'enseignement des seuls départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
 
+En outre, pour la gestion des bourses de collège, les catégories d'informations nominatives enregistrées sont les suivantes :
+
+- revenu fiscal de référence du responsable de l'élève pour l'année N - 2 ;
+
+- nombre d'enfants mineurs ou infirmes du responsable de l'élève pour l'année N - 2 ;
+
+- nombre d'enfants majeurs célibataires rattachés au foyer fiscal du responsable de l'élève pour l'année N - 2 ;
+
+- taux et montant annuel de la bourse des collèges allouée aux familles ;
+
+- option offerte aux familles de non-déductibilité du montant de la bourse des frais de pension ou de demi-pension ;
+
+- code monnaie de paiement (euros ou francs).
+
 b) Au niveau académique, les catégories d'informations nominatives utilisées sont les suivantes :
 
 - nom, prénom, sexe, date de naissance, département de naissance, commune de naissance, code orphelin (O, N) ;
