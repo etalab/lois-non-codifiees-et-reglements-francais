@@ -1,0 +1,3 @@
+# Article 10
+
+Pour les intégrations avec effet au 1er juin 1988 des manoeuvres spécialisés, manoeuvres de force et manoeuvres au grade d'aide agent technique prévues au chapitre VI du décret n° 88-554 du 6 mai 1988 et des porteurs des services d'inhumation dans le grade d'agent de salubrité prévues au chapitre V du décret n° 88-553 du 6 mai 1988, il est fait application des modalités de classement définies à l'article 5 du décret n° 87-1107 du 30 septembre 1987 précité. Les porteurs qui avaient bénéficié d'un classement dans le groupe supérieur de rémunération sont classés dans leur grade d'intégration au groupe supérieur de rémunération.

@@ -1,0 +1,7 @@
+# Article 34
+
+Les fonctionnaires remplissant les conditions pour être inscrits à un tableau d'avancement ne peuvent prendre part aux délibérations de la commission administrative paritaire lorsque celle-ci est appelée à délibérer sur ce tableau d'avancement.
+
+Dans le même cas, lorsque tous les représentants du personnel relevant d'un groupe remplissent les conditions pour être inscrits au tableau d'avancement, il est fait application de la procédure de tirage au sort dans les conditions prévues au b de l'article 23 pour désigner des représentants parmi les fonctionnaires du groupe correspondant n'ayant pas vocation à être inscrits audit tableau. En cas de refus de siéger des représentants désignés par le sort, cette commission est valablement composée des seuls représentants titulaires et suppléants du personnel relevant du groupe hiérarchique supérieur et d'un nombre égal de représentants de la collectivité ou de l'établissement public. Les suppléants ont alors voix délibérative.
+
+Dans l'hypothèse où il n'existe aucun représentant du personnel relevant du groupe dans lequel est classé le grade auquel le tableau donne accès, la commission administrative paritaire est complétée par des représentants du groupe supérieur. En l'absence d'un tel groupe, la commission est composée des seuls représentants titulaires et suppléants relevant du groupe dans lequel est classé le grade ou emploi d'origine et d'un nombre égal de représentants de la collectivité ou de l'établissement public. Les suppléants ont alors voix délibérative.
