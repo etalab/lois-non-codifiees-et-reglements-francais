@@ -356,7 +356,6 @@
 - [Décret n°93-1167 du 14 octobre 1993 (SPSS9302355D)](decret-n93-1167-du-14-octobre-1993-spss9302355d)
 - [Décret n°93-1168 du 14 octobre 1993 (SPSS9302356D)](decret-n93-1168-du-14-octobre-1993-spss9302356d)
 - [Décret n°93-1302 du 14 décembre 1993 (SPSS9302305D)](decret-n93-1302-du-14-decembre-1993-spss9302305d)
-- [Décret n°93-1305 du 14 décembre 1993 (PRMX9301052D)](decret-n93-1305-du-14-decembre-1993-prmx9301052d)
 - [Décret n°93-230 du 14 février 1993 (BUDF9300012D)](decret-n93-230-du-14-fevrier-1993-budf9300012d)
 - [Décret n°93-46 du 14 janvier 1993 (AGRP9202331D)](decret-n93-46-du-14-janvier-1993-agrp9202331d)
 - [Décret n°93-51 du 14 janvier 1993 (TEFC9300001D)](decret-n93-51-du-14-janvier-1993-tefc9300001d)
