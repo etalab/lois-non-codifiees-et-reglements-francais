@@ -1,5 +1,5 @@
 # Article 1
 
-Le minimum de sommes à collecter par exercice, prévu au second alinéa de l'article R. 313-28 du code susvisé, par les associations mentionnées à l'article R. 313-9 (2°, a) est fixé à 460 000 euros.
+Les organismes admis à recevoir les versements des employeurs assujettis à la participation obligatoire à l'effort de construction au titre de l'article R. 313-9 (2°, b) du code de la construction et de l'habitation sont définis comme suit :
 
-Ce montant est porté à 1 525 000 euros pour les associations dont le siège social est situé dans la région Ile-de-France.
+a) Les chambres de commerce et d'industrie, les services ou groupements interconsulaires constitués par les chambres de commerce et d'industrie.

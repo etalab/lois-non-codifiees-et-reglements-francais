@@ -4,4 +4,3 @@
 - [Titre II : Des sociétés professionnelles.](titre-ii)
 - [Titre III : Des établissements professionnels.](titre-iii)
 - [Titre IV : Dispositions diverses.](titre-iv)
-- [Article 15](article-15.md)

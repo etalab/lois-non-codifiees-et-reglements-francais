@@ -1,5 +1,0 @@
-# Article 1
-
-La composition et les caractéristiques des pièces commémoratives de 100 F en or, de 10 F en argent et de 1 F en argent définies par le présent arrêté sont fixées conformément au tableau figurant en annexe.
-
-Elles sont frappées par la direction des Monnaies et médailles pour le compte de l'Etat.

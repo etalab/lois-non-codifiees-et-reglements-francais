@@ -402,7 +402,6 @@
 - [Décret n°2001-993 du 25 octobre 2001 (EQUT0101452D)](decret-n2001-993-du-25-octobre-2001-equt0101452d)
 - [Décret n°71-708 du 25 août 1971](decret-n71-708-du-25-aout-1971)
 - [Décret n°91-247 du 25 février 1991 (DOMX9100024D)](decret-n91-247-du-25-fevrier-1991-domx9100024d)
-- [Décret n°2000-1315 du 26 décembre 2000 (ECOI0020409D)](decret-n2000-1315-du-26-decembre-2000-ecoi0020409d)
 - [Décret n°2001-1120 du 26 novembre 2001 (MESS0123368D)](decret-n2001-1120-du-26-novembre-2001-mess0123368d)
 - [Décret n°2001-1123 du 26 novembre 2001 (DEFP0102111D)](decret-n2001-1123-du-26-novembre-2001-defp0102111d)
 - [Décret n°2001-671 du 26 juillet 2001 (MESP0121280D)](decret-n2001-671-du-26-juillet-2001-mesp0121280d)

@@ -233,7 +233,6 @@
 - [Décret n°99-89 du 8 février 1999 (FPPX9803365D)](decret-n99-89-du-8-fevrier-1999-fppx9803365d)
 - [Décret n°99-928 du 8 novembre 1999 (AGRM9901326D)](decret-n99-928-du-8-novembre-1999-agrm9901326d)
 - [Décret n°99-1041 du 9 décembre 1999 (ECOR9906034D)](decret-n99-1041-du-9-decembre-1999-ecor9906034d)
-- [Décret n°99-175 du 9 mars 1999 (MESG9920246D)](decret-n99-175-du-9-mars-1999-mesg9920246d)
 - [Décret n°99-176 du 9 mars 1999 (MAEF9810037D)](decret-n99-176-du-9-mars-1999-maef9810037d)
 - [Décret n°99-481 du 9 juin 1999 (ATEN9970034D)](decret-n99-481-du-9-juin-1999-aten9970034d)
 - [Décret n°99-482 du 9 juin 1999 (PRMX9900035D)](decret-n99-482-du-9-juin-1999-prmx9900035d)

@@ -3,4 +3,3 @@
 - [Titre Ier : Dispositions générales](titre-ier)
 - [Titre II : Dispositions particulières portant adaptation de la législation française à l'article 17 de la convention des Nations unies contre le trafic illicite des stupéfiants et substances psychotropes faite à Vienne le 20 décembre 1988](titre-ii)
 - [Titre III : Dispositions diverses](titre-iii)
-- [Article 8](article-8.md)

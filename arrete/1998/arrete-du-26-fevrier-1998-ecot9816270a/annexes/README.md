@@ -1,3 +1,0 @@
-# Annexes
-
-- [Désignation.](designation)

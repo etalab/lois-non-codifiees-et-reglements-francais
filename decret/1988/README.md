@@ -257,7 +257,6 @@
 - [Décret n°88-939 du 29 septembre 1988 (SPSX8810822D)](decret-n88-939-du-29-septembre-1988-spsx8810822d)
 - [Décret n°77-1113 du 30 septembre 1977](decret-n77-1113-du-30-septembre-1977)
 - [Décret n°88-1077 du 30 novembre 1988 (SPSX8810021D)](decret-n88-1077-du-30-novembre-1988-spsx8810021d)
-- [Décret n°88-1079 du 30 novembre 1988 (SPSX8810022D)](decret-n88-1079-du-30-novembre-1988-spsx8810022d)
 - [Décret n°88-1081 du 30 novembre 1988 (SPSX8810025D)](decret-n88-1081-du-30-novembre-1988-spsx8810025d)
 - [Décret n°88-1083 du 30 novembre 1988 (SPSX8810027D)](decret-n88-1083-du-30-novembre-1988-spsx8810027d)
 - [Décret n°88-1084 du 30 novembre 1988 (SPSX8810028D)](decret-n88-1084-du-30-novembre-1988-spsx8810028d)

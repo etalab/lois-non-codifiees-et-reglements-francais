@@ -12,7 +12,6 @@
 - [Arrêté du 5 décembre 2000 (MESH0023712A)](arrete-du-5-decembre-2000-mesh0023712a)
 - [Arrêté du 5 décembre 2000 (MESH0023714A)](arrete-du-5-decembre-2000-mesh0023714a)
 - [Arrêté du 5 décembre 2000 (MESH0023715A)](arrete-du-5-decembre-2000-mesh0023715a)
-- [Arrêté du 6 décembre 2000 (ECOP0001043A)](arrete-du-6-decembre-2000-ecop0001043a)
 - [Arrêté du 6 juillet 2000 (EQUH0001194A)](arrete-du-6-juillet-2000-equh0001194a)
 - [Arrêté du 6 novembre 2000 (AGRG0002259A)](arrete-du-6-novembre-2000-agrg0002259a)
 - [Arrêté du 6 novembre 2000 (AGRP0002321A)](arrete-du-6-novembre-2000-agrp0002321a)

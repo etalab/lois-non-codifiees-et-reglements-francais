@@ -1,3 +1,0 @@
-# Article 1
-
-Le montant de la redevance prévue à l'article 20 de la loi du 4 janvier 1993 susvisée, pour toute demande d'inscription ou de modification d'inscription d'un médicament, visé à l'article L. 601 du code de la santé publique sur la liste des spécialités pharmaceutiques remboursables, prévue à l'article R. 163-2 du code de la sécurité sociale ou sur la liste des médicaments pris en charge et utilisés par les collectivités publiques, dans les conditions mentionnées aux articles L. 618 et suivants du code de la santé publique, est fixé, à compter du 1er janvier 1994, à 15 000 F pour les demandes initiales d'inscription et 3 000 F pour les demandes de modification d'inscription.
