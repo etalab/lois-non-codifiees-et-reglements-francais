@@ -1,6 +1,6 @@
 # Article 16
 
-Sous réserve des dispositions des articles L. 809 (6e et 7e alinéas) et L. 811 (2e alinéa) du code de la santé publique et des dispositions du dernier alinéa de l'article 5 ci-dessus, les candidats autres que les élèves infirmiers et élèves infirmières stagiaires visés au troisième alinéa de l'article 6 qui précède, nommés dans les emplois d'infirmier et infirmière spécialisés, d'infirmier et infirmière, de sage-femme, de puéricultrice ou de masseur-kinésithérapeute, doivent effectuer un stage d'une durée d'un an à l'issue duquel ils sont titularisés si leurs notes professionnelles sont jugées satisfaisantes.
+Sous réserve des dispositions des articles L. 809 (6e et 7e alinéas) et L. 811 (2e alinéa) du code de la santé publique et des dispositions du dernier alinéa de l'article 5 ci-dessus, les candidats autres que les élèves infirmiers et élèves infirmières stagiaires visés au troisième alinéa de l'article 6 qui précède, nommés dans les emplois d'infirmier et infirmière spécialisés, d'infirmier et infirmière, de sage-femme, d'orthophoniste, d'aide-orthoptiste, de diététicien, de puéricultrice ou de masseur-kinésithérapeute, doivent effectuer un stage d'une durée d'un an à l'issue duquel ils sont titularisés si leurs notes professionnelles sont jugées satisfaisantes.
 
 Pendant la durée du stage, les intéressés sont classés au 1er échelon de leur emploi.
 
