@@ -239,6 +239,7 @@
 - [Arrêté du 17 janvier 1989 (SPSH8900100A)](arrete-du-17-janvier-1989-spsh8900100a)
 - [Arrêté du 17 janvier 1989 (TEFT8903070A)](arrete-du-17-janvier-1989-teft8903070a)
 - [Arrêté du 17 janvier 1989 (TEFT8903071A)](arrete-du-17-janvier-1989-teft8903071a)
+- [Arrêté du 17 juillet 1989 (RESY8900247A)](arrete-du-17-juillet-1989-resy8900247a)
 - [Arrêté du 17 juillet 1989 (SPSX8910195A)](arrete-du-17-juillet-1989-spsx8910195a)
 - [Arrêté du 17 novembre 1988 (INDF8800609A)](arrete-du-17-novembre-1988-indf8800609a)
 - [Arrêté du 17 mai 1989 (EQUT8900453A)](arrete-du-17-mai-1989-equt8900453a)
