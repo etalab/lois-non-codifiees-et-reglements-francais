@@ -165,6 +165,7 @@
 - [Décret n°98-462 du 10 juin 1998 (FPPX9800088D)](decret-n98-462-du-10-juin-1998-fppx9800088d)
 - [Décret n°98-464 du 10 juin 1998 (MAEJ9830054D)](decret-n98-464-du-10-juin-1998-maej9830054d)
 - [Décret n°98-465 du 10 juin 1998 (MAEJ9830048D)](decret-n98-465-du-10-juin-1998-maej9830048d)
+- [Décret n°98-469 du 10 juin 1998 (EQUP9800161D)](decret-n98-469-du-10-juin-1998-equp9800161d)
 - [Décret n°99-495 du 10 juin 1999 (ECOP9900216D)](decret-n99-495-du-10-juin-1999-ecop9900216d)
 - [Décret n°97-713 du 11 juin 1997 (MCCX9700080D)](decret-n97-713-du-11-juin-1997-mccx9700080d)
 - [Décret n°98-157 du 11 mars 1998 (ATEE9860018D)](decret-n98-157-du-11-mars-1998-atee9860018d)
