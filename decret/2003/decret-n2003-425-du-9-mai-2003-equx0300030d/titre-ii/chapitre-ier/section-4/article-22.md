@@ -1,0 +1,5 @@
+# Article 22
+
+Au fur et à mesure de la réalisation des travaux, des experts ou organismes qualifiés agréés, désignés par le maître d'ouvrage, doivent vérifier, au besoin par des visites sur place, et attester de la conformité de la réalisation au dossier préliminaire de sécurité prévu à l'article 16 et, le cas échéant, aux prescriptions énoncées dans la décision d'approbation de ce dossier. Ils établissent à la fin des travaux un rapport de sécurité sur les points sur lesquels portait leur mission.
+
+Les rapports de sécurité établis par les experts ou organismes qualifiés comprennent les conclusions des vérifications effectuées, les attestations de conformité de la réalisation au dossier préliminaire de sécurité et l'évaluation, au regard de l'objectif de sécurité mentionné à l'article 5, des incidences des modifications du système présenté dans le dossier de sécurité par rapport au dossier préliminaire de sécurité, ainsi, le cas échéant, que les éventuelles observations et recommandations qu'ils jugent utile de formuler.

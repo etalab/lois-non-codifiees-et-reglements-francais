@@ -1,0 +1,3 @@
+# ANNEXE VIII : CRITÈRES MINIMAUX POUR L'HABILITATION DES ORGANISMES NOTIFIÉS.
+
+- [Article Annexe VIII](article-annexe-viii.md)

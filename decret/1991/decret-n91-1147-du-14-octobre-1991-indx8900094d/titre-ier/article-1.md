@@ -20,6 +20,8 @@ h) Ouvrages de transport ou de distribution de vapeur d'eau, d'eau surchauffée,
 
 i) Ouvrages d'assainissement.
 
-Ces travaux et les distances à prendre en compte sont définis aux annexes I à VII du présent décret.
+j) Ouvrages souterrains destinés à la circulation de véhicules de transport public guidé.
+
+Ces travaux et les distances à prendre en compte sont définis aux annexes I à VII bis du présent décret.
 
 Le présent décret ne s'applique pas aux travaux agricoles de préparation superficielle du sol.

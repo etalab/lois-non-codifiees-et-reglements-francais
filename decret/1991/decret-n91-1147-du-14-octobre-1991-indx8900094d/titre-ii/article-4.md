@@ -1,6 +1,6 @@
 # Article 4
 
-Toute personne physique ou morale de droit public ou de droit privé, qui envisage la réalisation sur le territoire d'une commune de travaux énumérés aux annexes I à VII du présent décret, doit, au stade de l'élaboration du projet, se renseigner auprès de la mairie de cette commune sur l'existence et les zones d'implantation éventuelles des ouvrages définis à l'article 1er.
+Toute personne physique ou morale de droit public ou de droit privé, qui envisage la réalisation sur le territoire d'une commune de travaux énumérés aux annexes I à VII bis du présent décret, doit, au stade de l'élaboration du projet, se renseigner auprès de la mairie de cette commune sur l'existence et les zones d'implantation éventuelles des ouvrages définis à l'article 1er.
 
 Une demande de renseignements doit être adressée à chacun des exploitants d'ouvrages qui ont communiqué leur adresse à la mairie, dès lors que les travaux envisagés se situent dans une zone définie par le plan établi à cet effet, par l'exploitant concerné et déposé par lui auprès de la mairie en application de l'article 3.
 
