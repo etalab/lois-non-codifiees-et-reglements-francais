@@ -20,4 +20,4 @@ Activités commerciales ;
 
 Activités à caractère spécifiquement intellectuel ;
 
-Exercice des arts plastiques et création d'oeuvres originales telles que définies par l'article 71 de l'annexe III du Code général des impôts.
+Exercice des arts plastiques et création d'oeuvres originales telles que définies par l'article 2 du décret n° 95-172 du 17 février 1995 relatif à la définition des biens d'occasion, des oeuvres d'art, des objets de collection et d'antiquité pour l'application des dispositions relatives à la taxe sur la valeur ajoutée.
