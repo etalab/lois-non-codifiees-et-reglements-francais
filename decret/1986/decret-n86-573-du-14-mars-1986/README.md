@@ -1,5 +1,6 @@
 # Décret n°86-573 du 14 mars 1986 portant statut des gardes de la chasse et de la faune sauvage.
 
+- [CHAPITRE Ier : Dispositions générales et missions.](chapitre-ier)
 - [CHAPITRE II : Recrutement et formation.](chapitre-ii)
 - [CHAPITRE III : Affectations.](chapitre-iii)
 - [CHAPITRE IV : Incompatibilités.](chapitre-iv)
