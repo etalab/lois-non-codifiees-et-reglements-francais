@@ -8,7 +8,6 @@
 - [Chapitre V : Valeurs limites d'émissions](chapitre-v)
 - [Chapitre VI : Conditions de rejet](chapitre-vi)
 - [Chapitre VII : Surveillance des émissions](chapitre-vii)
-- [Chapitre VIII : Bilan environnement.](chapitre-viii)
 - [Chapitre IX : Surveillance des effets sur l'environnement](chapitre-ix)
 - [Chapitre X : Modalités d'application](chapitre-x)
 - [Annexes](annexes)
