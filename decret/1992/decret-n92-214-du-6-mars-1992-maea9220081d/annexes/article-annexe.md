@@ -2,86 +2,108 @@
 
 Fonctions exercées pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
 
-Secrétaire de direction ou soumise à des contraintes et obligations de service particulières.
+Secrétaire de direction ou soumise à des contraintes et obligations de service particulières ;
 
-Chef de centre d'archives et de documentation.
+Chef de centre d'archives et de documentation ;
 
-Agent chargé de fonctions de reprographie.
+Agent chargé de fonctions de reprographie ;
 
-Technicien audiovisuel.
+Technicien audiovisuel ;
 
-Ouvrier professionnel spécialisé dans les techniques et matériels de sécurité.
+Ouvrier professionnel spécialisé dans les techniques et matériels de sécurité ;
 
-Agent chargé d'actions et de stages de formation professionnelle au service du personnel.
+Agent chargé d'actions et de stages de formation professionnelle ;
 
-Agent chargé de la mise à jour du fichier informatique du service du personnel.
+Agent chargé de fonctions de gestion ;
 
-Agent de gestion au service des immeubles et des affaires générales.
+Responsable de magasin d'approvisionnement ;
 
-Responsable du magasin d'approvisionnement au service des immeubles et des affaires générales.
+Régulateur automobile ;
 
-Régulateur automobile.
+Adjoint au chef de garage ;
 
-Adjoint au chef de garage.
+Chauffeur de véhicule de transport en commun ;
 
-Chauffeur de véhicule de transport en commun.
+Huissier à la salle de contrôle d'accès aux bâtiments du Quai d'Orsay ;
 
-Huissier à la salle de contrôle d'accès aux bâtiments du Quai d'Orsay.
+Agent chargé de l'émission, du suivi, du recouvrement des recettes ;
 
-Agent chargé de l'émission, du suivi, du recouvrement des recettes.
+Agent chargé de la gestion des prestations facultatives et d'action sociale ;
 
-Agent chargé de la gestion des prestations facultatives et d'action sociale.
+Coordonnateurs-visas ;
 
-Agent spécialisé au service du chiffre, des communications et du traitement de l'information.
+Agent chargé de fonctions de microfilmage ;
 
-Agent spécialisé à la sous-direction de la valise diplomatique.
+Agent exerçant des fonctions de gestion budgétaire et comptable ;
 
-Agent du courrier et du fichier central à la sous-direction de l'état civil.
+Agent responsable de classement et de gestion d'archives ;
 
-Chef de section à la sous-direction de l'état civil.
+Agent chargé de fonctions d'accueil ;
 
-Agent chargé du photostat à la sous-direction de l'état civil.
+Agent chargé d'encadrer des personnels d'exécution ;
 
-Chef de section géographique (visas) au service des étrangers en France.
+Agent spécialisé, chargé de fonctions techniques ;
 
-Coordonnateur (visas) au service des étrangers en France.
+Agent exerçant des fonctions de gestion budgétaire et comptable ;
 
-Agent chargé du microfilmage à la direction des archives et de la documentation.
+Agent responsable de classement et de gestion d'archives ;
 
-Agent exerçant des fonctions de gestion budgétaire et comptable.
+Agent chargé de fonctions d'accueil ;
 
-Agent responsable de classement et de gestion d'archives.
+Agent chargé d'encadrer des personnels d'exécution ;
 
-Agent chargé de fonctions d'accueil.
+Agent spécialisé, chargé de fonctions techniques ;
 
-Agent chargé d'encadrer des personnels d'exécution.
+Agent spécialisé dans la saisie informatique ;
 
-Agent spécialisé, chargé de fonctions techniques.
+Agent chargé de la coordination comptable ;
 
-Agent exerçant des fonctions de gestion budgétaire et comptable.
+Chef d'une division à caractère technique ;
 
-Agent responsable de classement et de gestion d'archives.
+Chef de centre chargé des transmissions diplomatiques ;
 
-Agent chargé de fonctions d'accueil.
+Chef de bureau dans une direction de gestion ;
 
-Agent chargé d'encadrer des personnels d'exécution.
+Formateur ;
 
-Agent spécialisé, chargé de fonctions techniques.
+Agent chargé de dossiers techniques ;
 
-Agent spécialisé dans la saisie informatique.
+Chef d'atelier ;
 
-Agent chargé de la coordination comptable.
+Agent d'encadrement coordonnateur ;
 
-Chef d'une division à caractère technique.
+Agent exerçant des fonctions de gestion budgétaire et comptable ;
 
-Chef de centre chargé des transmissions diplomatiques.
+Agent responsable de classement et de gestion d'archives ;
 
-Chef de bureau dans une direction de gestion.
+Agent chargé de fonctions d'accueil ;
 
-Formateur.
+Agent chargé d'encadrer des personnels d'exécution ;
 
-Agent chargé de dossiers techniques.
+Agent spécialisé, chargé de fonctions techniques ;
 
-Chef d'atelier.
+Agent spécialisé dans la saisie informatique ;
 
-Agent d'encadrement coordonnateur.
+Agent chargé de la coordination comptable ;
+
+Chef d'une division à caractère technique ;
+
+Chef de centre chargé des transmissions diplomatiques ;
+
+Chef de bureau dans une direction de gestion ;
+
+Formateur ;
+
+Agent chargé de dossiers techniques ;
+
+Chef d'atelier ;
+
+Agent d'encadrement coordonnateur ;
+
+Agent responsable d'un projet informatique ;
+
+Responsable d'une antenne du chiffre ;
+
+Agent chargé du suivi des questions de formation ;
+
+Chauffeur de véhicule de transport du courrier.
