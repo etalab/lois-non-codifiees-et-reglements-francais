@@ -2,8 +2,34 @@
 
 Les disponibilités de la caisse de retraite et de prévoyance sont placées [*organisation financière*] :
 
-1° Sans limitation : en valeurs de l'Etat français ou en valeurs jouissant de sa garantie ; en obligations des postes, télégraphes et téléphones ; en valeurs de la caisse autonome d'amortissement, de la caisse autonome de la défense nationale, de la caisse nationale de crédit agricole ; en titres d'emprunts de la Société nationale des chemins de fer français et des grands réseaux de chemins de fer ; en obligations ou bons du Crédit national, du Crédit foncier de France et du Crédit foncier et communal d'Alsace et de Lorraine ;
+1° Sans limitation :
 
-2° Dans la proportion de 25 p. 100 au plus de l'actif placé : en obligations ou en bons des départements, communes, syndicats de communes, territoires et pays d'outre-mer, en prêts à ces collectivités, en valeurs reçues en garantie d'avances par la Banque de France autres que celles déjà visées à l'alinéa précédent ;
+En valeurs d'Etat ou jouissant de la garantie de l'Etat.
 
-3° Dans la proportion de 15 p. 100 au plus de l'actif placé : en achat d'immeubles bâtis et entièrement achevés, sis dans les villes de plus de 100.000 habitants et dans le département de la Seine, en prêts en première hypothèse sur des immeubles remplissant les mêmes conditions dans la limite maximum de 50 p. 100 de la valeur de l'immeuble.
+En obligations et bons du Crédit national.
+
+En obligations de la caisse autonome de la reconstruction.
+
+En obligations et bons de chemins de fer d'intérêt général.
+
+En obligations foncières, communales ou maritimes du Crédit foncier.
+
+En obligations et bons des départements, communes, syndicats de communes, établissements publics et départements d'outre-mer.
+
+En obligations jouissant de la garantie de ces collectivités ou établissements.
+
+En obligations et bons de la caisse nationale du crédit agricole ou de la caisse centrale de crédit coopératif.
+
+En toutes autres obligations reçues en garantie d'avances par la Banque de France.
+
+2° Dans la limite de 25 p. 100 de l'actif :
+
+En achat d'immeubles urbains bâtis situés en France métropolitaine dans les communes de plus de 50.000 habitants ou dans le département de la Seine, ainsi qu'en prêts en première hypothèque sur des immeubles remplissant les mêmes conditions, sans que l'ensemble des hypothèques inscrites en premier rang, sur un même immeuble, puisse excéder 50 p. 100 de sa valeur estimative.
+
+Avec l'autorisation du ministre du travail, en tous autres immeubles bâtis ou non bâtis, situés en France métropolitaine et, dans la limite de 50 p. 100 de la valeur estimative, en prêts hypothécaires sur de tels immeubles.
+
+En prêts aux départements, communes, syndicats de communes, établissements publics et départements d'outre-mer, et en prêts jouissant de la garantie de ces collectivités ou établissements.
+
+3° Dans la limite de 20 p. 100 de l'actif :
+
+En valeurs figurant sur la liste prévue par l'article 20 (7°) du code de la mutualité.
