@@ -4,4 +4,3 @@
 - [Chapitre II : Formalités préalables à la mise en oeuvre des traitements automatisés d'informations nominatives](chapitre-ii)
 - [Chapitre III : Dispositions transitoires](chapitre-iii)
 - [Article 28](article-28.md)
-- [FORMALITES PREALABLES A LA MISE EN OEUVRE DES TRAITEMENTS AUTOMATISES D'INFORMATIONS NOMINATIVES](formalites-prealables-a)
