@@ -1,0 +1,3 @@
+# Article 1
+
+Une nouvelle bonification indiciaire dont le montant est pris en compte et soumis à cotisation pour le calcul de la pension de retraite est versée mensuellement, à raison de leurs fonctions, aux militaires infirmiers et techniciens des hôpitaux des armées nommés dans l'un des grades ou occupant l'un des emplois déterminés par les décrets des 6 novembre 1990, 3 février 1992, 19 janvier 1993, 14 février 1994, 1er septembre 1994, 31 janvier 1996, 5 février 1997, 25 octobre 2001 et 2 mai 2002 susvisés pris pour les membres des corps de la fonction publique hospitalière qui leur sont désignés comme corps homologues dans le tableau de l'article 2 du décret du 20 décembre 2002 susvisé.
