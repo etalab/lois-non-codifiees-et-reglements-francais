@@ -1,4 +1,4 @@
-# Organisation et fonctionnement financier des organismes de crédit maritime mutuel.
+# Organisation et fonctionnement financier des organisme de crédit maritime mutuel.
 
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)

@@ -7,4 +7,4 @@
 - [Article 27](article-27.md)
 - [Article 28](article-28.md)
 - [Commission supérieure du crédit maritime mutuel.](commission-superieure-du-credit-maritime-mutuel)
-- [Organisation et fonctionnement financier des organismes de crédit maritime mutuel.](organisation-et)
+- [Organisation et fonctionnement financier des organisme de crédit maritime mutuel.](organisation-et)
