@@ -1,0 +1,3 @@
+# TITRE II : DISPOSITIONS RELATIVES AUX CHARGÉS DE RECHERCHE.
+
+- [Article 6](article-6.md)
