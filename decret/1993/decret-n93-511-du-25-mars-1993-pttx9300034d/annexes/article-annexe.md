@@ -10,7 +10,9 @@ OBSERVATIONS
 
 I. - EXPLOITANT PUBLIC LA POSTE
 
-Cadre supérieur de second niveau : 427-966
+Cadre supérieur de second niveau : 427-966 (1015) (HE A)
+
+Echelons fonctionnels.
 
 Cadre supérieur de premier niveau : 379-904
 
@@ -42,7 +44,9 @@ Agent professionnel: 244-365
 
 II. - EXPLOITANT PUBLIC FRANCE TELECOM
 
-Cadre supérieur de second niveau : 427-966
+Cadre supérieur de second niveau : 427-966 (1015) (HE A)
+
+Echelons fonctionnels.
 
 Cadre supérieur de premier niveau : 379-904
 
