@@ -1,0 +1,5 @@
+# Article 18
+
+Chaque épreuve est notée de 0 à 20. La durée maximale et le coefficient de chacune des épreuves de l'examen professionnel sont fixés dans le tableau ci-dessous :
+
+Vous pouvez consulter le tableau dans le JO n° 222 du 25/09/2001 page 15148 à 15149
