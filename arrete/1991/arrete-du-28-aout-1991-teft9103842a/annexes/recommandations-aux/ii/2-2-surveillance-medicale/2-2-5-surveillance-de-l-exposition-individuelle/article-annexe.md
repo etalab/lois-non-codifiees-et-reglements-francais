@@ -30,7 +30,7 @@ Ces examens doivent être conduits en respectant notamment les conditions minima
 
 En cas d'incident ou si, pour une raison quelconque, le médecin du travail est fondé à craindre une exposition interne significative, il pourra faire procéder spécialement à des mesures anthropogammamétriques et/ou à des analyses radiotoxicologiques pour pouvoir en évaluer la nature et l'importance.
 
-C'est, en particulier, pour ces examens spécialisés que le médecin du travail peut faire appel au service central de protection contre les rayonnements ionisants.
+C'est, en particulier, pour ces examens spécialisés que le médecin du travail peut faire appel à l'Office de protection contre les rayonnements ionisants.
 
 2.2.5.2. Surveillance en cas d'exposition exceptionnelle :
 

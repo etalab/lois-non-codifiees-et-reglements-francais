@@ -4,4 +4,4 @@ I. - Les sources non scellées doivent être stockées dans des récipients appr
 
 Ne doivent être prélevées sur les stocks que les quantités de substances radioactives indispensables à l'exécution des travaux envisagés.
 
-II. - En cas de cessation d'emploi définitive, les sources doivent être, dans les plus brefs délais, soit renvoyées au fournisseur, soit enlevées par un organisme désigné par l'inspecteur du travail après avis technique du service central de protection contre les rayonnements ionisants. La commission interministérielle des radioéléments artificiels en est tenue informée.
+II. - En cas de cessation d'emploi définitive, les sources doivent être, dans les plus brefs délais, soit renvoyées au fournisseur, soit enlevées par un organisme désigné par l'inspecteur du travail après avis technique de l'Office de protection contre les rayonnements ionisants. La commission interministérielle des radioéléments artificiels en est tenue informée.

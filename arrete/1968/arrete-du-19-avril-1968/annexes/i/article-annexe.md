@@ -6,4 +6,4 @@ Par contre, le contrôle prévu par l'article 25 du décret du 15 mars 1967 cons
 
 Les présentes directives sont destinées à permettre la mise en oeuvre de techniques de dosimétrie individuelle significatives, à la fois suffisamment élaborées pour être reproductibles et archivables à l'échelon national, et suffisamment simples pour être applicables en routine sans restriction par tous les utilisateurs.
 
-Dans les cas particuliers où le service médical et le service de contrôle physique attachés à l'entreprise se heurteraient à des difficultés d'interprétation, ils pourraient s'adresser au service central de protection contre les rayonnements ionisants pour les résoudre.
+Dans les cas particuliers où le service médical et le service de contrôle physique attachés à l'entreprise se heurteraient à des difficultés d'interprétation, ils pourraient s'adresser à l'Office de protection contre les rayonnements ionisants pour les résoudre.

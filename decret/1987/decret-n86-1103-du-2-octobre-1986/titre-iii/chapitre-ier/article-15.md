@@ -12,4 +12,4 @@ Les objets contaminés ou activés, introduits dans un établissement et provena
 
 En cas de cessation d'emploi définitive de source de rayonnements ionisants, l'employeur est tenu d'en faire la déclaration à l'inspecteur du travail et au service de prévention de l'organisme de sécurité sociale compétent ; s'il s'agit de radio-éléments artificiels, une déclaration de cessation d'emploi doit en outre être faite à la commission interministérielle des radioéléments artificiels.
 
-L'inspecteur du travail transmet au service central de protection contre les rayonnement ionisants les déclarations et informations dont il est destinataire en vertu du présent article.
+L'inspecteur du travail transmet à l'Office de protection contre les rayonnement ionisants les déclarations et informations dont il est destinataire en vertu du présent article.

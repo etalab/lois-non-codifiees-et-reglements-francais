@@ -6,7 +6,7 @@ Manipulation d'appareils générateurs de rayons X pour la radiographie et la ra
 
 Manipulation d'appareils de radiographie industrielle gamma et de radioscopie industrielle gamma.
 
-II - Le directeur régional du travail et de l'emploi ou le chef du service régional de l'inspection du travail, de l'emploi et de la politique sociale agricoles [*autorité compétente*] peut autoriser l'employeur, après avis du service central de protection contre les rayonnements ionisants, du médecin du travail, du comité d'hygiène et de sécurité et des conditions de travail de l'établissement, ou à défaut des délégués du personnel, à confier l'utilisation d'un appareil générateur de rayons X à des opérateurs non certifiés lorsque les conditions suivantes sont remplies :
+II - Le directeur régional du travail et de l'emploi ou le chef du service régional de l'inspection du travail, de l'emploi et de la politique sociale agricoles [*autorité compétente*] peut autoriser l'employeur, après avis de l'Office de protection contre les rayonnements ionisants, du médecin du travail, du comité d'hygiène et de sécurité et des conditions de travail de l'établissement, ou à défaut des délégués du personnel, à confier l'utilisation d'un appareil générateur de rayons X à des opérateurs non certifiés lorsque les conditions suivantes sont remplies :
 
 - le générateur est installé dans un local à protection totale sur toutes les parois et conformément aux dispositions de l'article 44 du décret du 2 octobre 1986 susvisé ;
 

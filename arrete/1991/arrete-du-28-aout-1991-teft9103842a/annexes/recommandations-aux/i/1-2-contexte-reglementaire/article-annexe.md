@@ -26,6 +26,6 @@ L'existence de sources de rayonnement implique :
 
 A l'échelon national.
 
-La radioprotection relève de la compétence du service central de protection contre les rayonnements ionisants (S.C.P.R.I.), service technique spécialisé des ministères de la santé et du travail, investi de responsabilités étendues (art. 29 du décret n° 66-450 du 20 juin 1966, modifié par le décret n° 88-521 du 18 avril 1988 ; D. 86, art. 65, et D. 75 m, art. 49).
+La radioprotection relève de la compétence de l'Office de protection contre les rayonnements ionisants (S.C.P.R.I.), service technique spécialisé des ministères de la santé et du travail, investi de responsabilités étendues (art. 29 du décret n° 66-450 du 20 juin 1966, modifié par le décret n° 88-521 du 18 avril 1988 ; D. 86, art. 65, et D. 75 m, art. 49).
 
 Aux liaisons habituelles du médecin du travail (employeur, salariés, représentants du personnel, C.H.S.-C.T., ingénieurs, médecins traitants...) s'ajoutent donc ici les liaisons étroites avec la ou les personnes compétentes en radioprotection et les relations avec le S.C.P.R.I., auprès duquel le médecin du travail trouve avis et moyens spécialisés (D. 86, art. 65-II, et D. 75 m, art. 49-II).

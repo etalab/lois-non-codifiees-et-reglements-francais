@@ -4,4 +4,4 @@ Au cours de la période d'agrément, les personnes ou organismes agréés ne peu
 
 Les organismes agréés sont, en outre, tenus d'informer les ministres de tout changement survenant parmi leurs administrateurs ou leur personnel de direction.
 
-Les personnes ou organismes agréés sont également tenus de fournir les mêmes informations au service central de protection contre les rayonnements ionisants.
+Les personnes ou organismes agréés sont également tenus de fournir les mêmes informations à l'Office de protection contre les rayonnements ionisants.

@@ -2,7 +2,7 @@
 
 Sont confirmés les arrêtés ci-après énumérés pour l'application du décret n° 86-1103 du 2 octobre 1986 relatif à la protection des travailleurs contre les dangers des rayonnements ionisants :
 
-- l'arrêté du 18 avril 1968 approuvant les méthodes de contrôle élaborées par le service central de protection contre les rayonnements ionisants ;
+- l'arrêté du 18 avril 1968 approuvant les méthodes de contrôle élaborées par l'Office de protection contre les rayonnements ionisants ;
 
 - l'arrêté du 19 avril 1968 précisant les conditions d'utilisation des dosimètres individuels destinés au contrôle des équivalents de dose reçus par les travailleurs directement affectés à des travaux sous rayonnements et exposés au risque d'irradiation externe ;
 

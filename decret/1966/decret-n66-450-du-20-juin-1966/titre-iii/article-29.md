@@ -1,6 +1,6 @@
 # Article 29
 
-Le service central de protection contre les rayonnements ionisants [*attributions*] est chargé de pratiquer toutes mesures, analyses ou dosages permettant la détermination de la radioactivité ou des rayonnements ionisants dans les divers milieux où leur présence peut présenter un risque pour la santé de la population ou celle des travailleurs. Il contrôle l'observation des prescriptions réglementaires de radioprotection.
+L'Office de protection contre les rayonnements ionisants [*attributions*] est chargé de pratiquer toutes mesures, analyses ou dosages permettant la détermination de la radioactivité ou des rayonnements ionisants dans les divers milieux où leur présence peut présenter un risque pour la santé de la population ou celle des travailleurs. Il contrôle l'observation des prescriptions réglementaires de radioprotection.
 
 Il propose aux ministres concernés toutes mesures susceptibles d'améliorer la radioprotection et donne son avis technique sur les projets de textes réglementaires ou d'accords internationaux entrant dans le champ d'application du présent décret.
 

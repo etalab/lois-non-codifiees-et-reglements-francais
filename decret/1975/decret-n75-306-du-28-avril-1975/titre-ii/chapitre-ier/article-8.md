@@ -14,7 +14,7 @@ f) La vérification de l'efficacité de ces consignes ;
 
 g) La vérification périodique du bon fonctionnement de tous les appareils de mesure utilisés pour la protection collective contre les rayonnements ionisants ;
 
-h) L'élaboration et l'application des mesures prévues en cas d'accident, notamment d'accident de criticité, et l'information immédiate du service médical du travail de l'établissement et du service central de protection contre les rayonnements ionisants.
+h) L'élaboration et l'application des mesures prévues en cas d'accident, notamment d'accident de criticité, et l'information immédiate du service médical du travail de l'établissement et de l'Office de protection contre les rayonnements ionisants.
 
 PAR. II - Les matériels, les procédés et l'organisation du travail doivent être conçus de telle sorte que les expositions professionnelles individuelles et collectives soient maintenues aussi bas qu'il est raisonnablement possible en dessous des limites prescrites par le présent décret. A cette fin, les postes de travail exposés font l'objet d'une analyse dont la périodicité est fonction du niveau d'exposition.
 

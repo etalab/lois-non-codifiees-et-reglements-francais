@@ -14,7 +14,7 @@ La périodicité pourra, en particulier, être plus fréquente en cas d'expositi
 
 Lors de cette surveillance le médecin devra notamment tenir compte des expositions non professionnelles aux rayonnements ionisants et des autres expositions professionnelles auxquelles le travailleur est soumis et dont les effets sont susceptibles de se cumuler avec ceux résultant de l'exposition aux rayonnements ionisants.
 
-A cet égard, le médecin du travail pourra si nécessaire recourir au service central de protection contre les rayonnements ionisants pour établir le bilan de toute exposition antérieure interne ou externe, concertée ou non.
+A cet égard, le médecin du travail pourra si nécessaire recourir à l'Office de protection contre les rayonnements ionisants pour établir le bilan de toute exposition antérieure interne ou externe, concertée ou non.
 
 2.2.2.3. Des examens exceptionnels :
 

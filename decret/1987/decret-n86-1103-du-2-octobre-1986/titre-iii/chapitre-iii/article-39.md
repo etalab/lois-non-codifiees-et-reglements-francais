@@ -14,6 +14,6 @@ Ce dossier médical spécial doit contenir [*contenu*] :
 
 Le dossier médical spécial et le dossier médical ordinaire doivent être conservés pendant la durée de la vie de l'intéressé, et, en tout cas, pendant au moins trente ans après la fin de la période d'exposition aux rayonnements par le médecin du travail [*période*].
 
-Si l'entreprise vient à disparaître ou si le travailleur vient à changer d'entreprise, l'ensemble du dossier est transmis soit au médecin du travail de la nouvelle entreprise, soit au service médical du service central de protection contre les rayonnements ionisants, à charge pour celui-ci de l'adresser, le cas échéant, à la demande du travailleur, au médecin du travail désormais compétent.
+Si l'entreprise vient à disparaître ou si le travailleur vient à changer d'entreprise, l'ensemble du dossier est transmis soit au médecin du travail de la nouvelle entreprise, soit au service médical de l'Office de protection contre les rayonnements ionisants, à charge pour celui-ci de l'adresser, le cas échéant, à la demande du travailleur, au médecin du travail désormais compétent.
 
 L'ensemble du dossier est communiqué, sur sa demande, au médecin-inspecteur du travail, et, à la demande du travailleur, au médecin désigné par lui.

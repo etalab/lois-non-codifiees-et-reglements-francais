@@ -2,7 +2,9 @@
 
 PAR. I - Doivent être régulièrement tenus à jour des documents mentionnant pour chaque établissement [*formalités*] :
 
-1° Les caractéristiques de chaque installation nucléaire de base définies pour chaque type d'installation par arrêté pris dans les conditions fixées à l'article 50 ci-après ;    Les générateurs électriques de rayonnements ionisants, et les appareils utilisant des sources radioactives scellées, quel qu'en soit l'usage, lorsque leur activité dépasse des seuils fixés par arrêté pris dans les conditions fixées à l'article 54 ci-après ;
+1° Les caractéristiques de chaque installation nucléaire de base définies pour chaque type d'installation par arrêté pris dans les conditions fixées à l'article 50 ci-après ;
+
+Les générateurs électriques de rayonnements ionisants, et les appareils utilisant des sources radioactives scellées, quel qu'en soit l'usage, lorsque leur activité dépasse des seuils fixés par arrêté pris dans les conditions fixées à l'article 54 ci-après ;
 
 2° Les modifications apportées aux installations et à leurs dispositifs de protection susceptibles d'entraîner ou de laisser prévoir une aggravation des risques d'exposition ;
 
@@ -22,4 +24,4 @@ PAR. II - Sans préjudice de l'application des dispositions de la loi du 25 juil
 
 Les objets contaminés ou activés, introduits dans un établissement et provenant d'opérations de fabrication, de contrôle ou de maintenance effectués dans un autre établissement doivent être traités comme des substances radioactives.
 
-PAR. III - Ces documents et cette comptabilité sont tenus à la disposition du comité d'hygiène, de sécurité et des conditions de travail ou à défaut des délégués du personnel, de l'inspecteur du travail et des agents du service central de protection contre les rayonnements ionisants.
+PAR. III - Ces documents et cette comptabilité sont tenus à la disposition du comité d'hygiène, de sécurité et des conditions de travail ou à défaut des délégués du personnel, de l'inspecteur du travail et des agents de l'Office de protection contre les rayonnements ionisants.

@@ -6,4 +6,4 @@ Le contrôle de la "dose absorbée" consiste essentiellement à mesurer le temps
 
 Toutefois, ce contrôle doit être complété, une fois au moins au début de chaque campagne, par une mesure directe de la "dose absorbée" effectués selon les méthodes décrites en annexe.
 
-Les étalonnages sont effectués en liaison avec le service central de protection contre les rayonnements ionisants.
+Les étalonnages sont effectués en liaison avec l' Office de protection contre les rayonnements ionisants.

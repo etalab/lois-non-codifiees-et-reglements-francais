@@ -6,4 +6,4 @@ a) De la date du début des essais précédant la mise en service de l'installat
 
 b) De la date de mise en service de l'installation.
 
-PAR. II - L'inspecteur du travail en informe immédiatement le service central de protection contre les rayonnements ionisants.
+PAR. II - L'inspecteur du travail en informe immédiatement l'Office de protection contre les rayonnements ionisants.
