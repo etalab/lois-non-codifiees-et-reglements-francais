@@ -30,35 +30,35 @@ Les étalons déjà admis à la monte publique avant la parution du présent arr
 
 3. Elevage de chevaux de selle :
 
-3.1. Etalons de pur sang et trotteur français :
+31. Etalons de pur sang, trotteur français, arabe, anglo-arabe et selle français :
 
-- soit avoir obtenu un avis favorable de la commission nationale des étalons en vue de l'élevage de chevaux de selle ;
+- soit avoir obtenu un indice génétique sur performances propres supérieur ou égal à 125 en compétitions équestres ;
 
-- soit avoir obtenu un indice génétique sur performances propres supérieur ou égal à 125 en concours de sauts d'obstacles, concours complet d'équitation ou dressage.
+- soit avoir été classé dans les quatre premiers d'une course plate de groupe I, II ou III ;
 
-3.2. Etalons arabe, anglo-arabe et selle français :
+- soit avoir été classé dans les quatre premiers d'une course à obstacles figurant sur une liste publiée par le service des haras, des courses et de l'équitation, sur proposition de la société des steeple chases de France ;
 
-Soit avoir obtenu un avis favorable dans un concours national d'étalons ;
+- soit avoir obtenu un avis favorable d'une commission nationale d'admission à la monte publique.
 
-Soit avoir obtenu un double sans-faute dans les épreuves de sauts d'obstacles du cycle classique à la finale nationale des chevaux de quatre ans ;
+La présentation des candidats étalons à cette commission est une présentation en main et montée aux trois allures.
 
-Soit avoir obtenu un indice génétique sur performances propres supérieur ou égal à 125 en concours de sauts d'obstacles, concours complet d'équitation ou dressage ;
+Peuvent être dispensés de la présentation montée sur demande justifiée de leurs propriétaires :
 
-Soit avoir obtenu en courses les références suivantes :
+- les étalons de pur sang ayant déjà fait la monte et n'ayant pas été montés depuis un an au moins ;
 
-- pour un étalon arabe, avoir gagné une course figurant sur une liste publiée par le service des haras ou avoir été trois fois deuxième de telles courses ;
+- les étalons souffrant d'une affection accidentelle rendant cette présentation impossible.
 
-- pour un étalon anglo-arabe ou selle français, avoir obtenu au moins les performances correspondant au niveau A des références de courses de la catégorisation des juments destinées à l'élevage des chevaux de selle pour le tirage au sort des étalons nationaux ;
+32. Etalons arabes :
 
-Soit, pour les étalons arabes uniquement, en raid équestre d'endurance :
+- soit avoir gagné une course figurant sur une liste publiée par le service des haras, des courses et de l'équitation ou avoir été trois fois deuxième de telles courses.
+
+- soit en raid équestre d'endurance :
 
 - ou avoir couru à quatre ans une épreuve qualificative ou à cinq ans une épreuve régionale à une moyenne non inférieure de plus de 1 kilomètre à l'heure à la vitesse plafond de l'épreuve ;
 
 - ou à six ans ou plus avoir gagné une épreuve nationale ou avoir été classé la même année dans deux épreuves nationales avec une vitesse moyenne supérieure ou égale à 10 kilomètres à l'heure.
 
-4. Elevage poney et élevage des races :
-
-étrangères reconnues en France
+4. Elevage poney et élevage des races étrangères reconnues en France :
 
 Avoir obtenu un avis favorable de la commission spéciale de la race mandatée par l'association agréée par le ministre de l'agriculture pour la tenue du livre généalogique de cette race. Cet avis peut être obtenu lors d'un concours d'étalons ou à défaut lors d'une visite spéciale.
 

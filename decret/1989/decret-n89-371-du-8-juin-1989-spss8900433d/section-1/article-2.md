@@ -1,0 +1,5 @@
+# Article 2
+
+Les cotisations prévues à l'article 1106-6 du code rural, dues par les bénéficiaires de l'allocation de revenu minimum d'insertion qui mettent en valeur une exploitation dont le revenu cadastral est inférieur au seuil de la première tranche de revenu cadastral déterminé par le décret prévu à l'alinéa 2 de l'article précité, sont égales [*calcul*] au produit du montant des cotisations minima fixées par ce décret par le chiffre exprimant le rapport entre le revenu cadastral de l'exploitation et celui correspondant au seuil de la première tranche de revenu cadastral.
+
+Les cotisations dues par ces personnes au titre du financement des frais de gestion, de contrôle médical et d'action sanitaire et sociale de l'assurance mentionnée à l'article 1er sont égales au produit du montant de ces cotisations fixées par le décret mentionné à l'alinéa précédent, par le chiffre exprimant le rapport entre le revenu cadastral de l'exploitation et celui correspondant au seuil de la première tranche de revenu cadastral.

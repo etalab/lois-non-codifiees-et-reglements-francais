@@ -1,0 +1,3 @@
+# Article 13
+
+Une eau de source est une eau d'origine souterraine microbiologiquement saine et protégée contre les risques de pollution, apte à la consommation humaine sans traitement ni adjonction autres que ceux autorisés pour cette eau en application de l'article 14. Elle doit satisfaire aux exigences de qualité définies par les dispositions réglementaires prises en application de l'article L. 25-1 du code de la santé publique. Elle doit être introduite au lieu de son émergence, telle qu'elle sort du sol, dans des récipients de livraison au consommateur ou dans des canalisations l'amenant directement dans ces récipients.
