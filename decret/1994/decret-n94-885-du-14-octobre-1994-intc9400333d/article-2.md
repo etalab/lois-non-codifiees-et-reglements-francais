@@ -1,0 +1,3 @@
+# Article 2
+
+La direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins est une direction active de la direction générale de la police nationale. Elle est chargée de veiller au respect des textes relatifs à la circulation transfrontière et d'animer et de coordonner l'action des services de la police nationale en matière de lutte contre les infractions liées à l'entrée et au séjour des étrangers en France. Elle est également chargée de la coopération internationale opérationnelle dans les domaines de sa compétence. Elle concourt à la sûreté des moyens de transport internationaux et à la police aéronautique. Elle participe à la mise en oeuvre des mesures de sécurité sur les réseaux ferrés.
