@@ -1,30 +1,32 @@
 # Article 4
 
-Le conseil d'administration est composé de vingt-sept membres :
+Le conseil d'administration est composé de vingt-huit membres :
 
 a) Un conseiller d'Etat, président, désigné sur proposition du vice-président du Conseil d'Etat.
 
-b) Dix membres de droit :
+b) Onze membres de droit :
 
-- le directeur général de la police nationale ;
+Le directeur général de la police nationale ;
 
-- le préfet de police ;
+Le préfet de police ;
 
-- le directeur de l'administration de la police nationale ;
+Le directeur de l'administration de la police nationale ;
 
-- le directeur, chef de l'inspection générale de la police nationale ;
+Le directeur, chef de l'inspection générale de la police nationale ;
 
-- le directeur central de la police judiciaire ;
+Le directeur central de la police judiciaire ;
 
-- le directeur central de la surveillance du territoire ;
+Le directeur de la surveillance du territoire ;
 
-- le directeur central de la sécurité publique ;
+Le directeur central de la sécurité publique ;
 
-- le directeur central du contrôle de l'immigration et de la lutte contre l'emploi des clandestins ;
+Le directeur central de la police aux frontières ;
 
-- le directeur central des renseignements généraux ;
+Le directeur central des renseignements généraux ;
 
-- le chef du service central des compagnies républicaines de sécurité.
+Le directeur de la formation de la police nationale ;
+
+Le chef du service central des compagnies républicaines de sécurité.
 
 c) Six personnalités désignées par le ministre de l'intérieur :
 

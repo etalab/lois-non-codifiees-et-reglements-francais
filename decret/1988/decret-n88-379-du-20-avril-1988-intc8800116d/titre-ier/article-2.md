@@ -1,6 +1,6 @@
 # Article 2
 
-L'Ecole nationale supérieure de la police a pour mission d'assurer la formation initiale et continue du corps des commissaires de police.
+L'Ecole nationale supérieure de la police a pour mission d'assurer la formation initiale et continue des fonctionnaires du corps de conception et de direction de la police nationale.
 
 Elle peut également :
 
