@@ -41,3 +41,5 @@ e) Au titre des personnes qualifiées :
 - un représentant de la fédération nationale des sociétés d'économie mixte de construction, d'aménagement et de rénovation (F.N.S.E.M.) ;
 
 - un représentant de l'assemblée permanente des chambres de commerce et d'industrie (A.P.C.C.I.).
+
+" ... le directeur général de l'Agence nationale pour la participation des employeurs à l'effort de construction (A.N.P.E.E.C.). "

@@ -28,6 +28,8 @@
 - [Décret n°95-40 du 6 janvier 1995 (ENVE9420053D)](decret-n95-40-du-6-janvier-1995-enve9420053d)
 - [Décret n°96-173 du 6 mars 1996 (JUSF9650013D)](decret-n96-173-du-6-mars-1996-jusf9650013d)
 - [Décret n°95-567 du 6 mai 1995 (SPSG9500984D)](decret-n95-567-du-6-mai-1995-spsg9500984d)
+- [Décret n°95-122 du 7 février 1995 (SPSS9500323D)](decret-n95-122-du-7-fevrier-1995-spss9500323d)
+- [Décret n°95-123 du 7 février 1995 (SPSS9500353D)](decret-n95-123-du-7-fevrier-1995-spss9500353d)
 - [Décret n°95-14 du 7 janvier 1995 (PRMX9400112D)](decret-n95-14-du-7-janvier-1995-prmx9400112d)
 - [Décret n°94-481 du 8 juin 1994 (ECOT9494247D)](decret-n94-481-du-8-juin-1994-ecot9494247d)
 - [Décret n°95-18 du 9 janvier 1995 (DEFD9402152D)](decret-n95-18-du-9-janvier-1995-defd9402152d)
