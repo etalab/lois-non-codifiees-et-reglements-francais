@@ -8,6 +8,7 @@
 - [Décret n°47-817 du 9 mai 1947](decret-n47-817-du-9-mai-1947)
 - [Décret n°47-1047 du 12 juin 1947](decret-n47-1047-du-12-juin-1947)
 - [Décret n°47-232 du 16 janvier 1947](decret-n47-232-du-16-janvier-1947)
+- [Décret n°47-1343 du 18 juillet 1947](decret-n47-1343-du-18-juillet-1947)
 - [Décret du 19 avril 1947](decret-du-19-avril-1947)
 - [Décret n°47-753 du 19 avril 1947](decret-n47-753-du-19-avril-1947)
 - [Décret n°47-233 du 23 janvier 1947](decret-n47-233-du-23-janvier-1947)
@@ -16,3 +17,4 @@
 - [Décret n°47-561 du 27 mars 1947](decret-n47-561-du-27-mars-1947)
 - [Décret du 28 février 1947](decret-du-28-fevrier-1947)
 - [Décret du 28 juin 1947](decret-du-28-juin-1947)
+- [Décret n°47-1347 du 28 juin 1947](decret-n47-1347-du-28-juin-1947)
