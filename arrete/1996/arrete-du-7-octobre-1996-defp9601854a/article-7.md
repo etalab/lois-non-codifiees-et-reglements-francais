@@ -1,0 +1,3 @@
+# Article 7
+
+Une convention, passée entre le ministère de la défense et la collectivité ou l'organisme d'accueil, précise les modalités de la mise à disposition, notamment dans les domaines de l'administration et de la gestion ainsi qu'en matière de rémunération et de remboursement de charges. Les ouvriers mis à disposition demeurent toutefois administrés par une autorité désignée par le ministère de la défense, qui assure vis-à-vis des intéressés les actes de gestion normalement dévolus aux directeurs d'établissement. Cette autorité est le correspondant du ministère, de la collectivité ou de l'organisme d'accueil.
