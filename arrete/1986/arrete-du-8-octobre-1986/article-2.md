@@ -78,7 +78,7 @@ Pour l'Italie : Provincia ;
 
 Pour le Luxembourg : - ;
 
-Pour les Pays-Bas : Provincie ;
+Pour les Pays-Bas : R.V.V.-Kring ;
 
 Pour le Portugal continental : Distrito et pour le reste du territoire : Regialo Autonoma ;
 

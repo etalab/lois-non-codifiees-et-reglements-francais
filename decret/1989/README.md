@@ -342,6 +342,8 @@
 - [Décret n°89-693 du 21 septembre 1989 (TOUR8904534D)](decret-n89-693-du-21-septembre-1989-tour8904534d)
 - [Décret n°89-699 du 21 septembre 1989 (INTB8900229D)](decret-n89-699-du-21-septembre-1989-intb8900229d)
 - [Décret n°89-852 du 21 novembre 1989 (EQUP8900845D)](decret-n89-852-du-21-novembre-1989-equp8900845d)
+- [Décret n°89-854 du 21 novembre 1989 (SPSS8901211D)](decret-n89-854-du-21-novembre-1989-spss8901211d)
+- [Décret n°89-855 du 21 novembre 1989 (SPSS8901210D)](decret-n89-855-du-21-novembre-1989-spss8901210d)
 - [Décret n°91-580 du 21 juin 1991 (AGRA9100718D)](decret-n91-580-du-21-juin-1991-agra9100718d)
 - [Décret n°88-889 du 22 août 1988 (TEFT8803687D)](decret-n88-889-du-22-aout-1988-teft8803687d)
 - [Décret n°89-113 du 22 février 1989 (INTA8900030D)](decret-n89-113-du-22-fevrier-1989-inta8900030d)
