@@ -1,6 +1,6 @@
 # Article 3
 
-Sont dispensés de la condition de diplôme prévue en 6° de l'article 1er et peuvent être dispensés par décision du garde des sceaux, ministre de la justice, prise après avis du bureau du Conseil national des greffiers des tribunaux de commerce, de l'examen prévu au 8° de l'article 1er :
+Sont dispensés de la condition de diplôme prévue en 6° de l'article 1er et peuvent être dispensés par décision du procureur général près la cour d'appel dans le ressort de laquelle est établi leur domicile, prise après avis du bureau du Conseil national des greffiers des tribunaux de commerce, de l'examen prévu au 8° de l'article 1er :
 
 1° Les anciens magistrats de l'ordre judiciaire régis par l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature ;
 

@@ -1,6 +1,6 @@
 # Article 4
 
-Peuvent être dispensés de l'examen d'aptitude professionnelle et d'une partie de la durée du stage par décision du garde des sceaux, ministre de la justice, prise après avis du bureau de la chambre nationale des avoués, sans toutefois que la durée de ce stage, qui est alors nécessairement accompli auprès d'un avoué, puisse être inférieure à un an :
+Peuvent être dispensés de l'examen d'aptitude professionnelle et d'une partie de la durée du stage par décision du procureur général près la cour d'appel dans le ressort de laquelle est établi leur domicile, prise après avis du bureau de la chambre nationale des avoués, sans toutefois que la durée de ce stage, qui est alors nécessairement accompli auprès d'un avoué, puisse être inférieure à un an :
 
 1° (paragraphe abrogé) ;
 

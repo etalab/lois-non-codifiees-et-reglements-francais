@@ -1,7 +1,7 @@
 # Article 5
 
-La durée de pratique professionnelle prévue à l'article précédent est fixée par le garde des sceaux, ministre de la justice. Elle ne peut être inférieure à un an.
+La durée de pratique professionnelle prévue à l'article précédent est fixée par le procureur général près la cour d'appel dans le ressort de laquelle est établi leur domicile. Elle ne peut être inférieure à un an.
 
-Le garde des sceaux, ministre de la justice, peut décider qu'il y a lieu à un contrôle des connaissances techniques sous la forme d'un examen dont il fixe le programme et les modalités.
+Le procureur général près la cour d'appel peut, après avis du bureau du Conseil supérieur du notariat, décider qu'il y a lieu de faire subir à l'intéressé un examen de contrôle des connaissances techniques.
 
-Le garde des sceaux, ministre de la justice, consulte préalablement le bureau du conseil supérieur du notariat.
+Le programme et les modalités de cet examen sont arrêtés par le garde des sceaux, ministre de la justice, qui consulte préalablement le bureau du Conseil supérieur du notariat.

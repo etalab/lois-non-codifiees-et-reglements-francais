@@ -1,6 +1,6 @@
 # Article 2
 
-Peuvent être dispensés de l'examen professionnel et de tout ou partie du stage par décision du garde des sceaux, ministre de la justice, prise après avis du bureau de la chambre nationale des huissiers de justice ;
+Peuvent être dispensés de l'examen professionnel et de tout ou partie du stage par décision du procureur général près la cour d'appel dans le ressort de laquelle est établi leur domicile, prise après avis du bureau de la chambre nationale des huissiers de justice ;
 
 1° Les anciens magistrats de l'ordre judiciaire régis par l'ordonnance n° 58-1270 du 22 décembre 1958 ainsi que les anciens présidents et conseillers des tribunaux administratifs ;
 

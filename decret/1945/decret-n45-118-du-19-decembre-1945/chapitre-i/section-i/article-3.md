@@ -1,6 +1,6 @@
 # Article 3
 
-Sont dispensés de l'examen d'aptitude professionnelle, et peuvent être dispensés d'une partie de la durée du stage par décision du garde des sceaux, ministre de la justice, prise après avis du bureau de la chambre nationale des avoués, sans que, toutefois, la durée de ce stage, qui est alors nécessairement accompli auprès d'un avoué, puisse être inférieure à six mois :
+Sont dispensés de l'examen d'aptitude professionnelle, et peuvent être dispensés d'une partie de la durée du stage par décision du procureur général près la cour d'appel dans le ressort de laquelle est établi leur domicile, prise après avis du bureau de la chambre nationale des avoués, sans que, toutefois, la durée de ce stage, qui est alors nécessairement accompli auprès d'un avoué, puisse être inférieure à six mois :
 
 1° Les magistrats et anciens magistrats de l'ordre judiciaire régis par l'ordonnance n° 58-1270 du 22 décembre 1958 ainsi que les membres et anciens membres du corps des tribunaux administratifs et des cours administratives d'appel ;
 

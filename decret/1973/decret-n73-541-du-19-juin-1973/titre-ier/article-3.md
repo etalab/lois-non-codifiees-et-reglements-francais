@@ -1,6 +1,6 @@
 # Article 3
 
-Sont dispensés des conditions de diplômes prévues au 5° de l'article 2 et peuvent être dispensés de tout ou partie du stage et de certaines épreuves de l'examen d'accès au stage et de l'examen d'aptitude à la profession de commissaire-priseur par décision du garde des sceaux, ministre de la justice, prise après avis du bureau de la chambre nationale des commissaires-priseurs :
+Sont dispensés des conditions de diplômes prévues au 5° de l'article 2 et peuvent être dispensés de tout ou partie du stage et de certaines épreuves de l'examen d'accès au stage et de l'examen d'aptitude à la profession de commissaire-priseur par décision du procureur général dans le ressort de laquelle est établi leur domicile, prise après avis du bureau de la chambre nationale des commissaires-priseurs :
 
 1° Les anciens magistrats de l'ordre judiciaire régis par l'ordonnance n° 53-1270 du 22 décembre 1953 ;
 
