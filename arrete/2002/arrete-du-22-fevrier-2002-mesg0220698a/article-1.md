@@ -20,7 +20,7 @@ Pour le ministère de l'emploi et de la solidarité et les établissements publi
 </tr>
 <tr>
 <td>
-<p>Infirmiers et infirmières, contrôleurs de 2e classe de l'INSEE dont l'indice brut est au plus égal à 380.</p>
+<p>Infirmiers et infirmières de classe normale, contrôleurs de 2e classe de l'INSEE dont l'indice brut est au plus égal à 380.</p>
 </td>
 <td>
 <p>Agents du premier grade de la catégorie B.</p>
