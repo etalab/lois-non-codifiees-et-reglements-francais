@@ -4,4 +4,4 @@ La seconde classe du grade d'administrateur comprend sept échelons [*compositio
 
 La 1re classe du grade d'administrateur comprend six échelons.
 
-Le grade d'administrateur hors classe comprend six échelons.
+Le grade d'administrateur hors classe comprend sept échelons.

@@ -10,7 +10,7 @@ bruts
 
 Administrateur hors classe
 
-6er échelon1 hors échelle A 5er échelon 1 015
+7e échelon 3 hors échelle A 6er échelon 1 hors échelle A 5er échelon 1 015
 
 4er échelon  966
 

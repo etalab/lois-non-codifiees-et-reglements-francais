@@ -25,7 +25,10 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <td> : hors classe    :        :       :</td>
 </tr>
 <tr>
-<td> : 6ème échelon   :   -    :   -   :</td>
+<td> : 7ème échelon   :   -    :   -   :</td>
+</tr>
+<tr>
+<td> : 6ème échelon   : 3 ans  : 3 ans :</td>
 </tr>
 <tr>
 <td> : 5ème échelon   : 4 ans  : 3 ans :</td>
