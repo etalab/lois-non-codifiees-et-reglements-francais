@@ -99,6 +99,7 @@
 - [Arrêté du 23 octobre 1986](arrete-du-23-octobre-1986)
 - [Arrêté du 24 décembre 1986](arrete-du-24-decembre-1986)
 - [Arrêté du 24 mars 1987 (ACVA8710010A)](arrete-du-24-mars-1987-acva8710010a)
+- [Arrêté du 25 juillet 1986](arrete-du-25-juillet-1986)
 - [Arrêté du 26 décembre 1986](arrete-du-26-decembre-1986)
 - [Arrêté du 26 janvier 1987](arrete-du-26-janvier-1987)
 - [Arrêté du 26 janvier 1987 (AGRP8700004A)](arrete-du-26-janvier-1987-agrp8700004a)

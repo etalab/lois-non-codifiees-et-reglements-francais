@@ -1,0 +1,63 @@
+# Article Annexe IV
+
+I. - Origine.
+
+Pays d'origine : ....
+
+Ministère compétent : ....
+
+Service : ....
+
+II. - Identification des denrées.
+
+Espèce :
+
+Nom commercial (1) : ....
+
+Nom scientifique : ....
+
+Mode de conservation : ....
+
+Nature de l'emballage : ....
+
+Marques commerciales figurant sur les emballages : ....
+
+Nombre de colis : ....
+
+Poids net : ....
+
+III. - Provenance des denrées.
+
+Nom de l'expéditeur : ....
+
+Adresse de l'expéditeur : ....
+
+IV. - Destination des denrées.
+
+De (lieu d'expédition) : ....
+
+Les denrées sont expédiées à (lieu de destination) : ....
+
+Le (date d'expédition) : ....
+
+Par wagon, camion, avion, bateau (2) : ....
+
+Nom et adresse du destinataire : ....
+
+V. - Renseignements concernant la salubrité.
+
+Je soussigné (nom et titre) : ....
+
+Vétérinaire ou inspecteur officiel certifie que les denrées désignée ci-dessus :
+
+1. Ont été reconnues propres à la consommation humaine au regard des critères de salubrité en vigueur en France.
+
+2. Ont été capturées, préparées, manipulées, conditionnées et expédiées, suivant les dispositions réglementaires en vigueur en France.
+
+Fait à ..., le ....
+
+Cachet officiel et signature.
+
+(1) Indiquer le nom commercial dans la langue du pays d'origine et dans la langue française.
+
+(2) Rayer la mention inutile ; pour les wagons et les camions, indiquer le numéro d'immatriculation : pour les avions, le numéro de vol ; pour les bateaux, le nom du bateau.
