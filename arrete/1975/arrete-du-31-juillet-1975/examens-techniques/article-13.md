@@ -4,7 +4,7 @@ Sont considérées comme nulles les épreuves subies par un candidat dans les ca
 
 1° Pendant la période où le candidat est privé du droit de conduire par une décision d'annulation ou de suspension d'un permis antérieur ou d'interdiction de solliciter un permis ;
 
-2° Sur de fausses indications d'identité, substitution ou tentative de substitution de personnes à l'examen, en cas de demandes simultanées dans plusieurs départements ou de demandes d'obtention d'une catégorie de permis déjà acquise par équivalence ;
+2° Sur de fausses indications d'identité, substitution ou tentative de substitution de personnes à l'examen, en cas de demandes simultanées dans le même département ou dans plusieurs départements ou de demandes d'obtention d'une catégorie de permis déjà acquise par équivalence ; "
 
 3° Sur de fausses déclarations lorsque la conversion d'un permis de conduire militaire en permis de conduire civil de la même catégorie a déjà été obtenue ou est en instance d'obtention ;
 

@@ -1,4 +1,4 @@
-# Arrêté du 28 décembre 1966 fixant les caractéristiques du supercarburant
+# Arrêté du 28 décembre 1966 fixant les caractéristiques de l'essence
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
