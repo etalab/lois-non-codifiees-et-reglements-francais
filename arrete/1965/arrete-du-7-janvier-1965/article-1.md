@@ -4,4 +4,6 @@ La liste des diplômes ou brevets de spécialisation prévue par les décrets n�
 
 1) Le certificat d'aptitude aux fonctions d'aide-dermatologiste ;
 
-2) Le certificat d'aptitude aux fonctions d'aide-anesthésiste.
+2) Le certificat d'aptitude aux fonctions d'aide-anesthésiste ;
+
+3) Certificat d'aptitude aux fonctions d'infirmier de salle d'opération.
