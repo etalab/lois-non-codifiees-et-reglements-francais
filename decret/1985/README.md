@@ -258,6 +258,7 @@
 - [Décret n°85-1125 du 23 octobre 1985](decret-n85-1125-du-23-octobre-1985)
 - [Décret n°85-1129 du 23 octobre 1985](decret-n85-1129-du-23-octobre-1985)
 - [Décret n°85-1135 du 23 octobre 1985](decret-n85-1135-du-23-octobre-1985)
+- [Décret n°85-1141 du 23 octobre 1985](decret-n85-1141-du-23-octobre-1985)
 - [Décret n°85-356 du 23 mars 1985](decret-n85-356-du-23-mars-1985)
 - [Décret n°85-447 du 23 avril 1985](decret-n85-447-du-23-avril-1985)
 - [Décret n°85-448 du 23 avril 1985](decret-n85-448-du-23-avril-1985)
