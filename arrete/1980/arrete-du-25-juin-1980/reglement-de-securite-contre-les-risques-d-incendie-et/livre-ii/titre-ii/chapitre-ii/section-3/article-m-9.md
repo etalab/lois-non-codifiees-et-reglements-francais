@@ -22,7 +22,7 @@ c) Groupe de plus de dix caisses : un dégagement à chacune de ses extrémités
 
 Un seul tourniquet par ligne de caisses peut être pris en compte dans le nombre des dégagements normaux. Toutefois, la largeur libre minimale après effacement doit être de 0,90 mètre ou de 1,20 mètre pour compter respectivement pour une ou deux unités de passage.
 
-§ 4. Chaque groupe de caisses doit comporter un ou plusieurs passages rectilignes de 0,60 mètre de large, praticables aux handicapés :
+§ 4. Chaque groupe de caisses doit comporter un ou plusieurs passages rectilignes de 0,90 mètre de large, praticables aux handicapés :
 
 - de 1 à 20 caisses : un passage ;
 

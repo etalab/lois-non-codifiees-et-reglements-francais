@@ -21,3 +21,9 @@ c) Ne pas procéder à un nettoyage manuel des effets avec des solvants halogén
 d) Ne pas stocker de solvants halogénés ;
 
 e) Souscrire un contrat d'entretien des machines de traitement suivant les instructions du constructeur.
+
+§ 4. Par dérogation à l'article CH 35, l'utilisation d'un mélange d'alcool éthylique (éthanol) et d'eau est autorisé comme fluide frigoporteur dans les magasins de commerce alimentaire. Les canalisations de transport de ce fluide doivent être métalliques.
+
+Les mélanges comportant une proportion d'éthanol inférieure ou égale à 35 p. 100 sont autorisés sans limitation de quantité.
+
+Les mélanges comportant une proportion d'éthanol comprise entre 35 et 65 p. 100 sont autorisés, sous réserve que chaque circuit de réfrigération ne contienne pas plus de 3 000 litres. Cette quantité n'est pas cumulable avec celles des produits destinés à la vente, définies à l'article M 42.
