@@ -1,10 +1,10 @@
 # Article 27
 
-I. - La nouvelle bonification indiciaire des fonctionnaires instituée à compter du 1er août 1990 est attribuée pour certains emplois comportant une responsabilité ou une technicité particulières dans des conditions fixées par décret.
+I. - La nouvelle bonification indiciaire des fonctionnaires et des militaires instituée à compter du 1er août 1990 est attribuée pour certains emplois comportant une responsabilité ou une technicité particulières dans des conditions fixées par décret.
 
 II. - Elle est prise en compte pour le calcul de la pension de retraite dans les conditions fixées ci-après, et elle est soumise à une cotisation pour la vieillesse.
 
-III. - Les fontionnaires de l'Etat, admis à faire valoir leurs droits à la retraite à compter du 1er août 1990 et titulaires d'une pension servie en application du code des pensions civiles et militaires de retraite, ayant perçu, au cours de leur carrière, la nouvelle bonification indiciaire précitée, ont droit à un supplément de pension s'ajoutant à la pension liquidée en application des dispositions dudit code.
+III. - Les fontionnaires de l'Etat et les militaires admis à faire valoir leurs droits à la retraite à compter du 1er août 1990 et titulaires d'une pension servie en application du code des pensions civiles et militaires de retraite, ayant perçu, au cours de leur carrière, la nouvelle bonification indiciaire précitée, ont droit à un supplément de pension s'ajoutant à la pension liquidée en application des dispositions dudit code.
 
 Les conditions de jouissance et de réversion de ce supplément sont identiques à celles de la pension elle-même.
 
