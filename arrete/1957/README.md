@@ -16,4 +16,3 @@
 - [Arrêté du 18 avril 1957](arrete-du-18-avril-1957)
 - [Arrêté du 24 décembre 1957](arrete-du-24-decembre-1957)
 - [Arrêté du 25 septembre 1957](arrete-du-25-septembre-1957)
-- [Arrêté du 27 décembre 1956](arrete-du-27-decembre-1956)
