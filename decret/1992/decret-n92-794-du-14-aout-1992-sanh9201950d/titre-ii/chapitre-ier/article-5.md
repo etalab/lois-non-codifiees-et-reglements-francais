@@ -10,17 +10,21 @@ Pour un groupe comprenant de 21 à 200 agents :
 
 Deux titulaires, deux suppléants.
 
-Pour un groupe comprenant de 201 à 1 000 agents :
+Pour un groupe comprenant de 201 à 500 agents :
 
 Trois titulaires, trois suppléants.
 
-Pour un groupe comprenant de 1 001 à 3 000 agents :
+Pour un groupe comprenant de 501 à 1 000 agents :
 
 Quatre titulaires, quatre suppléants.
 
-Pour un groupe comprenant plus de 3 000 agents :
+Pour un groupe comprenant de 1 001 à 2 000 agents :
 
 Cinq titulaires, cinq suppléants.
+
+Pour un groupe comprenant plus de 2 000 agents :
+
+Six titulaires, six suppléants.
 
 Si un groupe d'une commission administrative paritaire comporte moins de quatre agents il n'est pas élu de représentant pour ce groupe.
 
