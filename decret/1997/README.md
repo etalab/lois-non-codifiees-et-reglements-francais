@@ -795,6 +795,7 @@
 - [Décret n°97-1004 du 30 octobre 1997 (AGRP9701639D)](decret-n97-1004-du-30-octobre-1997-agrp9701639d)
 - [Décret n°97-1005 du 30 octobre 1997 (AGRG9701717D)](decret-n97-1005-du-30-octobre-1997-agrg9701717d)
 - [Décret n°97-1006 du 30 octobre 1997 (AGRH9701785D)](decret-n97-1006-du-30-octobre-1997-agrh9701785d)
+- [Décret n°97-1007 du 30 octobre 1997 (INTC9700292D)](decret-n97-1007-du-30-octobre-1997-intc9700292d)
 - [Décret n°97-437 du 30 avril 1997 (TASE9710328D)](decret-n97-437-du-30-avril-1997-tase9710328d)
 - [Décret n°97-438 du 30 avril 1997 (TASE9710329D)](decret-n97-438-du-30-avril-1997-tase9710329d)
 - [Décret n°97-453 du 30 avril 1997 (MENF9700835D)](decret-n97-453-du-30-avril-1997-menf9700835d)
