@@ -34,6 +34,7 @@
 - [Décret n°73-89 du 19 janvier 1973](decret-n73-89-du-19-janvier-1973)
 - [Décret n°73-91 du 19 janvier 1973](decret-n73-91-du-19-janvier-1973)
 - [Décret n°73-200 du 21 février 1973](decret-n73-200-du-21-fevrier-1973)
+- [Décret n°73-502 du 21 mai 1973](decret-n73-502-du-21-mai-1973)
 - [Décret n°73-176 du 22 février 1973](decret-n73-176-du-22-fevrier-1973)
 - [Décret n°73-224 du 22 février 1973](decret-n73-224-du-22-fevrier-1973)
 - [Décret n°73-184 du 23 février 1973](decret-n73-184-du-23-fevrier-1973)
