@@ -1,9 +1,3 @@
 # Article 4
 
-Les superficies maxima visées à l'article 188-1 du Code rural sont fixées à six fois la surface minimum d'installation, soit (en hectares) :
-
-Pays de Bray, Picardie verte, Noyonnais : 180
-
-Clermontois, vallée de l'Oise, plateau Picard, Soissonnais, vallée de l'Automne, pays de Thelle : 240
-
-Valois, Multien, Vexin : 300.
+Tout cumul ou toute réunion d'exploitations ou de fonds agricoles, quelle que soit la superficie des exploitations considérées et quelles que soient les catégories des terres, la nature des cultures et le type d'exploitation, est soumis à autorisation préalable.

@@ -1,137 +1,147 @@
 # Article 3
 
-Les coefficients d'équivalence et les seuils d'application valant abattement à la base, applicables aux élevages ne nécessitant pas l'utilisation du sol agricole sont fixés comme suit :
+Les coefficients d'équivalence et les seuils d'application valant abattement à la base applicables aux élevages ne nécessitant pas l'utilisation du sol agricole sont fixés comme suit :
 
-PAYS DE BRAY, PICARDIE VERTE, NOYONNAIS
+Régions pyrénéenne et sous-pyrénéenne
 
-NATURE DE L'ELEVAGE :
+NATURE DE L'ELEVAGE
 
 I. Aviculture et cuniculiculture
 
-Equivalence en ares pour 1 m2 de clapier ou de poulailler
+Equivalence en ares par mètre carré de poulailler ou de clapier
 
-Poules pondeuses : 2,6 a
+Poules pondeuses : 1,4 a
 
-Poulets de chair : 1,3 a
+Poulets de chair : 0,7 a
 
-Dindons : 1,3 a
+Pintades, dindons et canards : 0,7 a
 
-Pintades : 1,3 a
+Lapins : 3,5 a
 
-Lapins : 6,5 a
-
-NATURE DE L'ELEVAGE :
+NATURE DE L'ELEVAGE
 
 II. Elevages porcin et bovin
 
 Equivalence en hectares par animal
 
-Truies mères (naisseurs) : 0,4 ha
+Truies (naisseurs) : 0,20 ha
 
-Truies (naisseurs-engraisseurs) : 0,8 ha
+Truies (naisseurs engraisseurs) : 0,40 ha
 
-Porcs à l'engrais : 0,033 ha
+Porcs à l'engrais  : 0,017 ha
 
-Veaux en batterie : 0,065 ha
+Veaux en batterie  : 0,039 ha
 
-Vaches laitières tenues par un laitier nourrisseur : 1 ha
+NATURE DE L'ELEVAGE
 
-Apiculture (ruches) : 25
+III. Elevages divers
 
-CLERMONTOIS, VALLEE DE L'OISE, PLATEAU PICARD, SOISSONNAIS, VALLEE DE L'AUTOMNE, PAYS DE THELLE
+Apiculture (équivalence pour 1 ha) : 25 ruches
 
-NATURE DE L'ELEVAGE :
+PLAINE DE L'ARIEGE
+
+NATURE DE L'ELEVAGE
 
 I. Aviculture et cuniculiculture
 
-Equivalence en ares pour 1 m2 de clapier ou de poulailler
+Equivalence en ares par mètre carré de poulailler ou de clapier
 
-Poules pondeuses : 3,6 a
+Poules pondeuses : 1,9 a
 
-Poulets de chair : 1,8 a
+Poulets de chair : 0,95 a
 
-Dindons : 1,8 a
+Pintades, dindons et canards : 0,95 a
 
-Pintades : 1,8 a
+Lapins : 4,7 a
 
-Lapins : 9,0 a
-
-NATURE DE L'ELEVAGE :
+NATURE DE L'ELEVAGE
 
 II. Elevages porcin et bovin
 
 Equivalence en hectares par animal
 
-Truies mères (naisseurs) : 0,5 ha
+Truies (naisseurs) : 0,28 ha
 
-Truies (naisseurs-engraisseurs) : 1 ha
+Truies (naisseurs engraisseurs) : 0,56 ha
 
-Porcs à l'engrais : 0,04 ha
+Porcs à l'engrais  : 0,023 ha
 
-Veaux en batterie : 0,09 ha
+Veaux en batterie  : 0,047 ha
 
-Vaches laitières tenues par un laitier nourrisseur : 1 ha
+NATURE DE L'ELEVAGE
 
-Apiculture (ruches) : 25
+III. Elevages divers
 
-VALOIS, MULTIEN, VEXIN
+Apiculture (équivalence pour 1 ha) : 25 ruches
 
-NATURE DE L'ELEVAGE :
+COTEAUX DE L'ARIEGE
+
+NATURE DE L'ELEVAGE
 
 I. Aviculture et cuniculiculture
 
-Equivalence en ares pour 1 m2 de clapier ou de poulailler
+Equivalence en ares par mètre carré de poulailler ou de clapier
 
-Poules pondeuses : 4,4 a
+Poules pondeuses : 2,3 a
 
-Poulets de chair : 2,2 a
+Poulets de chair : 1,16 a
 
-Dindons : 2,2 a
+Pintades, dindons et canards : 1,16 a
 
-Pintades : 2,2 a
+Lapins :  5,8 a
 
-Lapins : 10,8 a
-
-NATURE DE L'ELEVAGE :
+NATURE DE L'ELEVAGE
 
 II. Elevages porcin et bovin
 
 Equivalence en hectares par animal
 
-Truies mères (naisseurs) : 0,65 ha
+Truies (naisseurs) : 0,35 ha
 
-Truies (naisseurs-engraisseurs) : 1,3 ha
+Truies (naisseurs engraisseurs) : 0,70 ha
 
-Porcs à l'engrais : 0,054 ha
+Porcs à l'engrais  : 0,029 ha
 
-Veaux en batterie : 0,108 ha
+Veaux en batterie  : 0,058 ha
 
-Vaches laitières tenues par un laitier nourrisseur : 1 ha
+NATURE DE L'ELEVAGE
 
-Apiculture (ruches) : 25
+III. Elevages divers
 
-SEUILS D'APPLICATION VALANT ABATTEMENT A LA BASE
+Apiculture (équivalence pour 1 ha) : 25 ruches
+
+Seuils d'application valant abattement à la base
+
+NATURE DE L'ELEVAGE
 
 I. Aviculture et cuniculiculture
 
-Poules pondeuses : 75 m2
+Equivalence en ares par mètre carré de poulailler ou de clapier
 
-Poulets de chair : 150 m2
+Poules pondeuses : 75 m2 de poulailler
 
-Dindons : 150 m2
+Poulets de chair : 150 m2 de poulailler
 
-Pintades : 150 m2
+Pintades, dindons et canards : 150 m2 de poulailler
 
-Lapins : 30 m2
+Lapins : 30 m2 de clapier
 
-NATURE DE L'ELEVAGE :
+NATURE DE L'ELEVAGE
 
 II. Elevages porcin et bovin
 
-Truies mères (naisseurs) : 5
+Equivalence en hectares par animal
 
-Truies (naisseurs-engraisseurs) : 2,5
+Truies (naisseurs) : 5 truies
 
-Porcs à l'engrais : 60 porcs (an)
+Truies (naisseurs engraisseurs) : 2,5 truies
 
-Veaux en batterie : 30 veaux (an)
+Porcs à l'engrais  : 60 porcs par an
+
+Veaux en batterie  : 30 veaux par an
+
+NATURE DE L'ELEVAGE
+
+III. Elevages divers
+
+Apiculture (équivalence pour 1 ha) : 25 ruches
