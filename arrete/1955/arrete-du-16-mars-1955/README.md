@@ -1,4 +1,4 @@
-# Arrêté du 16 mars 1955 relatif à l'interdiction de la divagation des chiens
+# Arrêté du 16 mars 1955 relatif à la publicité aérienne
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

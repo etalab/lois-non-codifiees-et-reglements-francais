@@ -1,3 +1,3 @@
 # Article 3
 
-L'arrêté ministériel du 19 février 1949 relatif à la divagation des chiens est abrogé.
+Toute modification à l'inscription devra faire l'objet d'une nouvelle demande adressée dans la même forme.
