@@ -1,23 +1,21 @@
 # Article 17
 
-Les jurys des concours sont nommés par arrêté du président du Centre national de la fonction publique territoriale sur la base d'une liste dressée chaque année par le conseil d'orientation et après avis du conseil d'administration du Centre national de la fonction publique territoriale.
+Les membres du jury de chaque niveau de concours sont nommés par arrêté du président du Centre national de la fonction publique territoriale. Ils sont choisis sur une liste établie chaque année ou mise à jour en tant que de besoin par le conseil d'administration, après avis du conseil d'orientation du Centre national de la fonction publique territoriale.
 
-Le jury de chaque concours comprend, outre le président, neuf membres ainsi répartis :
+Le jury de chaque concours comprend au moins :
 
-a) Trois fonctionnaires territoriaux de catégorie A, dont deux au moins du grade d'ingénieur en chef de 1re catégorie ou d'ingénieur subdivisionnaire, suivant le concours ;
+a) Trois fonctionnaires territoriaux de catégorie A, dont un au moins du grade d'ingénieur en chef de 1re catégorie ou d'ingénieur en chef ou d'ingénieur subdivisionnaire, suivant le concours ;
 
 b) Trois personnalités qualifiées dont au moins un membre de l'enseignement supérieur ;
 
-c) Trois élus locaux, dont au moins un pour les régions ou pour les départements.
+c) Trois élus locaux.
+
+L'arrêté prévu au premier alinéa du présent article désigne parmi les membres de chaque jury un président et le remplaçant de ce dernier pour le cas où il serait dans l'impossibilité de poursuivre sa mission.
 
 Pour chacun des deux niveaux de recrutement des ingénieurs territoriaux, le président et deux membres de chacun de ces jurys sont communs au jury du concours externe et au jury du concours interne.
 
-L'arrêté prévu au premier alinéa du présent article désigne pour chaque jury le remplaçant du président dans le cas où celui-ci serait dans l'impossibilité de poursuivre sa mission.
+En vue de la correction des épreuves d'admissibilité et d'admission, les jurys peuvent, compte tenu notamment du nombre des candidats, se constituer en groupes d'examinateurs, dans les conditions fixées par l'article 44 de la loi du 26 janvier 1984 susvisée.
 
-En cas de partage égal des voix, la voix du président est prépondérante.
-
-En fonction de la nature particulière des épreuves, des examinateurs spéciaux peuvent être nommés par arrêté du président du Centre national de la fonction publique territoriale.
-
-Les correcteurs sont désignés par arrêté du président du Centre national de la fonction publique territoriale pour participer avec les membres du jury à la correction des épreuves. Ils délibèrent avec le jury avec voix consultative pour noter les épreuves qu'ils ont corrigées.
+Des correcteurs peuvent être désignés par arrêté du président du Centre national de la fonction publique territoriale pour participer, sous l'autorité du jury, à la correction des épreuves.
 
 Les épreuves écrites sont anonymes ; chaque composition est corrigée par deux correcteurs.

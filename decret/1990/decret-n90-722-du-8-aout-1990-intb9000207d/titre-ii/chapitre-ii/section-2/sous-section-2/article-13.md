@@ -1,35 +1,9 @@
 # Article 13
 
-Les épreuves d'admissibilité du concours interne pour le recrutement des ingénieurs subdivisionnaires territoriaux comprennent :
+Les épreuves d'admissibilité du concours interne de recrutement des ingénieurs subdivisionnaires territoriaux comportent :
 
-1° Une épreuve écrite de mathématiques appliquées (durée :
+1° Une épreuve écrite de mathématiques appliquées et de physique appliquée (durée : quatre heures ; coefficient 3).
 
-trois heures ; coefficient 2) ;
+2° La rédaction d'une note à partir d'un dossier portant sur la spécialité choisie par le candidat, au moment de son inscription, parmi l'une de celles figurant au 2° de l'article 4 du présent décret (durée : quatre heures ; coefficient 3).
 
-2° Une épreuve écrite de physique appliquée (durée :
-
-trois heures ; coefficient 2) ;
-
-3° La rédaction d'une note à partir d'un dossier portant sur l'option choisie par le candidat lors de son inscription, parmi la liste figurant à l'article 7 du présent décret, faisant appel à l'expérience professionnelle du candidat (durée : quatre heures ; coefficient 3) ;
-
-4° L'établissement d'un projet ou étude portant sur l'une des spécialités suivantes choisies par le candidat lors de son inscription (durée : huit heures ; coefficient 7) :
-
-- eau et assainissement ;
-
-- bâtiment ;
-
-- espaces verts, de sports et de loisirs ;
-
-- voirie et équipements ;
-
-- déplacements ;
-
-- centre technique-usines ;
-
-- traitement automatisé de l'information et réseaux ;
-
-- urbanisme ;
-
-- hygiène et prévention des risques ;
-
-- organisation et méthodes de gestion.
+3° L'établissement d'un projet ou étude portant sur l'une des options, choisie par le candidat lors de son inscription, au sein de la spécialité dans laquelle il concourt (durée : huit heures ; coefficient 7).

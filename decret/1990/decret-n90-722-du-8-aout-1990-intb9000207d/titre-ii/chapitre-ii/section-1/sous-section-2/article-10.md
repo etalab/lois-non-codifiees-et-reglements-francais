@@ -1,11 +1,9 @@
 # Article 10
 
-Les épreuves d'admission comportent :
+Les épreuves d'admission du concours interne de recrutement des ingénieurs en chef territoriaux de 1re catégorie comportent :
 
-1° Une conversation avec le jury portant sur l'expérience professionnelle du candidat et les missions de l'ingénieur en chef territorial de 1re catégorie (durée : quarante minutes ; coefficient 5) ;
+1° Un entretien, à partir de l'expérience professionnelle du candidat, permettant de vérifier son aptitude à résoudre les problèmes techniques ou d'encadrement les plus fréquemment rencontrés par un ingénieur en chef, sa capacité d'adaptation ainsi que son aptitude à exprimer une analyse critique, structurée et argumentée (durée : quarante minutes ; coefficient 5) ;
 
-2° Une épreuve écrite facultative de langue vivante étrangère consistant en la traduction, sans dictionnaire, d'un texte rédigé dans l'une des langues suivantes, au choix du candidat : allemand, anglais, espagnol, italien, russe, arabe (durée : deux heures ; coefficient 1).
+2° Une épreuve écrite facultative de langue vivante étrangère consistant en la traduction, sans dictionnaire, d'un texte rédigé dans l'une des langues suivantes, choisie par le candidat au moment de son inscription : allemand, anglais, arabe moderne, chinois, danois, espagnol, grec moderne, hébreu, italien, japonais, néerlandais, polonais, portugais et russe (durée : deux heures ; coefficient 1).
 
-Pour cette épreuve, seuls sont pris en compte les points supérieurs à la moyenne ;
-
-3° Une épreuve facultative d'exercices physiques. Seuls sont pris en compte les points supérieurs à la moyenne (coefficient 1).
+Pour cette épreuve, seuls sont pris en compte les points au-dessus de la moyenne.
