@@ -27,4 +27,5 @@
 - [Décret n°97-1254 du 29 décembre 1997 (INTM9700014D)](decret-n97-1254-du-29-decembre-1997-intm9700014d)
 - [Décret n°93-1146 du 30 septembre 1993 (DOMP9300030D)](decret-n93-1146-du-30-septembre-1993-domp9300030d)
 - [Décret n°93-1147 du 30 septembre 1993 (DOMP9300031D)](decret-n93-1147-du-30-septembre-1993-domp9300031d)
+- [Décret n°93-1425 du 31 décembre 1993 (JUSC9320854D)](decret-n93-1425-du-31-decembre-1993-jusc9320854d)
 - [Décret n°97-776 du 31 juillet 1997 (ECOS9750014D)](decret-n97-776-du-31-juillet-1997-ecos9750014d)
