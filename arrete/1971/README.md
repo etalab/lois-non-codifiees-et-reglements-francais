@@ -21,7 +21,6 @@
 - [Arrêté du 17 mars 1971](arrete-du-17-mars-1971)
 - [Arrêté du 19 octobre 1971](arrete-du-19-octobre-1971)
 - [Arrêté du 20 novembre 1969](arrete-du-20-novembre-1969)
-- [Arrêté du 20 octobre 1971](arrete-du-20-octobre-1971)
 - [Arrêté du 23 août 1971](arrete-du-23-aout-1971)
 - [Arrêté du 24 septembre 1971](arrete-du-24-septembre-1971)
 - [Arrêté du 25 janvier 1971](arrete-du-25-janvier-1971)
