@@ -1,5 +1,3 @@
 # Article 8
 
-Dans les établissements où s'exerce le commerce de détail des vins de liqueur, de vermouths et des apéritifs à base de vin, il doit être apposé, d'une manière apparente, sur les récipients, emballages, casiers ou fûts, une inscription indiquant la dénomination sous laquelle le produit est mis en vente.
-
-L'indication du mot "vermouth" est obligatoire pour les produits ayant bénéficié des dispositions de l'article 91 de la loi du 13 juillet 1925.
+Les dispositions du décret n° 84-1147 du 7 décembre 1984 portant application de la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de services, en ce qui concerne l'étiquetage et la présentation des denrées alimentaires, sont applicables aux produits qui font l'objet du présent décret.
