@@ -1,11 +1,15 @@
 # Article 3
 
-Les destinataires des informations enregistrées sont :
+Les destinataires des informations nominatives ainsi enregistrées sont :
 
-- les personnels habilités du ministère de la défense (anciens combattants),
+- les personnels habilités du ministère de la défense ;
 
-et, dans le respect de la loi du 3 janvier 1979 susvisée :
+- les familles et les ayants droit des personnes inhumées ;
+
+- les chercheurs, les scientifiques et les historiens,
+
+et, dans le respect des dispositions du livre II du code du patrimoine :
 
 - le public (visiteurs des nécropoles, demandes de renseignements sur la localisation d'une tombe) ;
 
-- les chercheurs et les historiens.
+- le site internet dédié aux sépultures de guerre.

@@ -8,4 +8,4 @@ Les catégories d'informations enregistrées sont celles relatives :
 
 - à la localisation de la sépulture.
 
-La durée de conservation des informations nominatives ainsi enregistrées est celle de la mission confiée au ministère de la défense (anciens combattants) en vertu des dispositions de l'article L. 498 du code susvisé.
+La durée de conservation des informations nominatives ainsi enregistrées est celle de la mission confiée au ministère de la défense en vertu des dispositions de l'article L. 498 du code des pensions militaires d'invalidité et des victimes de la guerre.
