@@ -11,7 +11,6 @@
 - [Arrêté du 17 avril 1967](arrete-du-17-avril-1967)
 - [Arrêté du 18 septembre 1967](arrete-du-18-septembre-1967)
 - [Arrêté du 19 janvier 1967](arrete-du-19-janvier-1967)
-- [Arrêté du 19 juillet 1967](arrete-du-19-juillet-1967)
 - [Arrêté du 21 août 1967](arrete-du-21-aout-1967)
 - [Arrêté du 22 décembre 1967](arrete-du-22-decembre-1967)
 - [Arrêté du 23 juin 1967](arrete-du-23-juin-1967)
