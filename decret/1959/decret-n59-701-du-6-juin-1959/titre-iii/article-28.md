@@ -1,3 +1,0 @@
-# Article 28
-
-Jusqu'à l'établissement des listes sur lesquelles doivent être choisis les commissaires enquêteurs et les membres des commissions d'enquêtes et au plus tard le premier jour du sixième mois suivant la publication du présent décret, le préfet procède à leur désignation dans les conditions fixées par l'article 34 du décret du 2 mai 1936 portant règlement d'administration publique relatif à la procédure d'enquête préalable à la déclaration d'utilité publique, étendu à l'Algérie par l'article 20 de la loi du 31 décembre 1940 autorisant la perception des droits, produits et revenus applicables au budget de l'Algérie pour l'exercice 1941.

@@ -1,3 +1,0 @@
-# Article 29
-
-Par dérogation à l'article 27 ci-dessus, en ce qui concerne les aménagements hydro-électriques soumis au régime de la concession par application de la loi du 16 octobre 1919, étendue à l'Algérie par celle du 18 avril 1924, les dispositions du décret n° 53-551 du 1er juin 1953 sont maintenues provisoirement en vigueur. Un règlement d'administration publique ultérieur, pris dans le délai de six mois de la publication du présent décret sur le rapport des ministres intéressés, précisera les conditions d'instruction de la demande de concession pour les mettre en harmonie avec les dispositions du présent décret.

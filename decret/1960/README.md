@@ -26,6 +26,7 @@
 - [Décret n°60-1154 du 18 octobre 1960](decret-n60-1154-du-18-octobre-1960)
 - [Décret n°60-1362 du 19 décembre 1960](decret-n60-1362-du-19-decembre-1960)
 - [Décret n°60-1390 du 19 décembre 1960](decret-n60-1390-du-19-decembre-1960)
+- [Décret n°60-619 du 20 juin 1960](decret-n60-619-du-20-juin-1960)
 - [Décret n°60-389 du 22 avril 1960](decret-n60-389-du-22-avril-1960)
 - [Décret n°60-390 du 22 avril 1960](decret-n60-390-du-22-avril-1960)
 - [Décret n°60-1271 du 24 novembre 1960](decret-n60-1271-du-24-novembre-1960)

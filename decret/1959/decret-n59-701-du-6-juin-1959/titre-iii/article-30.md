@@ -1,3 +1,0 @@
-# Article 30
-
-Par dérogation à l'article 27 ci-dessus, les dispositions de la loi du 2 février 1941 et de l'arrêté d'application du 14 juin 1949 relatifs à la restauration des sols en Algérie, en tant qu'elles sont relatives à l'enquête préalable à la déclaration d'utilité publique, sont maintenues provisoirement en vigueur. Un règlement d'administration publique, pris dans le délai de six mois de la publication du présent décret sur le rapport des ministres intéressés, précisera les conditions de l'établissement des périmètres de restauration pour mettre ces conditions en harmonie avec les dispositions du présent décret.
