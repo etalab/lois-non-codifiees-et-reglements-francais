@@ -335,6 +335,8 @@
 - [Décret n°98-315 du 27 avril 1998 (ECOX9800035D)](decret-n98-315-du-27-avril-1998-ecox9800035d)
 - [Décret n°98-60 du 27 janvier 1998 (AGRE9702400D)](decret-n98-60-du-27-janvier-1998-agre9702400d)
 - [Décret n°92-872 du 28 août 1992 (INTB9200384D)](decret-n92-872-du-28-aout-1992-intb9200384d)
+- [Décret n°98-316 du 28 avril 1998 (ECOT9851675D)](decret-n98-316-du-28-avril-1998-ecot9851675d)
+- [Décret n°98-318 du 28 avril 1998 (AGRG9800163D)](decret-n98-318-du-28-avril-1998-agrg9800163d)
 - [Décret n°98-52 du 28 janvier 1998 (MESP9723639D)](decret-n98-52-du-28-janvier-1998-mesp9723639d)
 - [Décret n°98-58 du 28 janvier 1998 (ECOA9730014D)](decret-n98-58-du-28-janvier-1998-ecoa9730014d)
 - [Décret n°98-779 du 28 août 1998 (ECOI9800608D)](decret-n98-779-du-28-aout-1998-ecoi9800608d)
