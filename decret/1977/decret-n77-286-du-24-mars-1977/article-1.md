@@ -1,0 +1,7 @@
+# Article 1
+
+Les emplois de sous-directeur du département de Paris sont réservés aux administrateurs du département de Paris qui justifient de huit années de service depuis leur nomination dans le corps dont six années de services effectifs en qualité d'administrateur du département de Paris et qui ont satisfait à l'obligation de mobilité prévue par le décret n° 77-256 du 18 mars 1977 relatif au statut particulier des administrateurs du département de Paris.
+
+Les fonctionnaires de l'Etat, placés en position de détachement dans un emploi d'administrateur du département de Paris, peuvent être nommés au même titre que les administrateurs du département de Paris sous réserve qu'ils justifient de huit années d'ancienneté dans leur corps, dont deux au moins auprès du département de Paris. Cette disposition s'applique également, dans les mêmes conditions, aux fonctionnaires de l'Etat intégrés, après détachement, dans le corps des administrateurs du département de Paris.
+
+Toutefois, dans la limite du quart de l'effectif, le préfet peut nommer aux emplois mentionnés au premier alinéa des fonctionnaires du département de Paris, de l'Etat ou des agents des collectivités locales appartenant à un corps ou titulaires d'un emploi dont l'échelle indiciaire comporte un indice terminal supérieur à l'indice brut 1015. Les intéressés doivent justifier de huit années de services publics effectifs dans un tel corps ou dans un tel emploi.
