@@ -180,7 +180,6 @@
 - [Arrêté du 6 décembre 1993 (ECOC9300179A)](arrete-du-6-decembre-1993-ecoc9300179a)
 - [Arrêté du 6 décembre 1994 (ECOC9410260A)](arrete-du-6-decembre-1994-ecoc9410260a)
 - [Arrêté du 6 décembre 1994 (ECOC9410261R)](arrete-du-6-decembre-1994-ecoc9410261r)
-- [Arrêté du 6 décembre 1994 (EQUS9401857A)](arrete-du-6-decembre-1994-equs9401857a)
 - [Arrêté du 6 décembre 1994 (RESM9401780A)](arrete-du-6-decembre-1994-resm9401780a)
 - [Arrêté du 6 janvier 1994 (BUDR9405001A)](arrete-du-6-janvier-1994-budr9405001a)
 - [Arrêté du 6 janvier 1994 (BUDR9405002A)](arrete-du-6-janvier-1994-budr9405002a)
