@@ -1,16 +1,18 @@
 # Article 39
 
-Le Conseil national des barreaux comprend une commission de la formation professionnelle présidée par le président du conseil national ou par un membre du conseil qu'il délègue et composée ainsi qu'il suit [*composition*] :
+Le Conseil national des barreaux comprend une commission de la formation professionnelle présidée par le président du conseil national ou par un membre du conseil qu'il délègue et composée ainsi qu'il suit :
 
 1° Six avocats élus par le conseil national en son sein ;
 
 2° Deux magistrats désignés par arrêté du garde des sceaux, ministre de la justice ;
 
-3° Deux membres de l'enseignement supérieur, désignés dans les mêmes formes, sur proposition du ministre chargé des universités.    Des suppléants, en nombre égal, sont désignés dans les mêmes conditions.
+3° Deux membres de l'enseignement supérieur, désignés dans les mêmes formes, sur proposition du ministre chargé des universités. Des suppléants, en nombre égal, sont désignés dans les mêmes conditions.
 
-La commission ne peut valablement statuer que si huit au moins de ses membres sont présents [*quorum*].
+La durée des fonctions des magistrats et des membres de l'enseignement supérieur est de trois ans, renouvelable une fois.
 
-En cas de partage égal des voix, celle du président est prépondérante [*conditions de majorité*].
+La commission ne peut valablement statuer que si huit au moins de ses membres sont présents.
+
+En cas de partage égal des voix, celle du président est prépondérante.
 
 La commission peut s'adjoindre, avec voix consultative, des personnalités qualifiées en matière de formation.
 
