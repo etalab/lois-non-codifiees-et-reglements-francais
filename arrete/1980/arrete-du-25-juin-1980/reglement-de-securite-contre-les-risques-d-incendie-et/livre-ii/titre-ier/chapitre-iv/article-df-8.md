@@ -1,19 +1,9 @@
 # Article DF 8
 
-Vérifications techniques
+Désenfumage des compartiments
 
-§ 1. Les installations de désenfumage doivent être vérifiées dans les conditions prévues à la section II du chapitre Ier du présent titre.
+Les compartiments, tels que définis à l'article CO 25, lorsqu'ils sont autorisés par les dispositions particulières propres à chaque type d'établissement, sont désenfumés dans les conditions suivantes :
 
-§ 2. La périodicité des visites est de un an. Les vérifications concernent :
+- si le compartiment comporte des cloisons toute hauteur (de plancher bas à plancher haut), les circulations, quelle que soit leur longueur, sont désenfumées ainsi que les locaux définis à l'article DF 7 ;
 
-- le fonctionnement des dispositifs de commandes manuelles et automatiques ;
-
-- le fonctionnement des bouches, exutoires et ouvrants de désenfumage ;
-
-- le fonctionnement des transmissions et signalisations ;
-
-- l'arrêt des ventilations mécaniques permanentes ;
-
-- la fermeture des éléments mobiles de compartimentage et le fonctionnement des ventilateurs de désenfumage ;
-
-- les mesures de pression, de débit et de vitesse.
+- si le compartiment est traité en plateau paysager, ou avec des cloisons partielles, l'ensemble du volume est désenfumé selon les modalités prévues pour les locaux.

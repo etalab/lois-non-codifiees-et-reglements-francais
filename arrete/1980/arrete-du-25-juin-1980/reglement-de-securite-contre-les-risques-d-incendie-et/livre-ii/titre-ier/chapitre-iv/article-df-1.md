@@ -2,8 +2,8 @@
 
 Objet du désenfumage
 
-Le désenfumage a pour objet d'extraire des locaux incendiés une partie des fummées et gaz de combustion afin de :
+Le désenfumage a pour objet d'extraire, en début d'incendie, une partie des fumées et des gaz de combustion afin de maintenir praticables les cheminements destinés à l'évacuation du public. Ce désenfumage peut concourir également à :
 
-- rendre praticables les cheminements utilisés pour l'évacuation du public et l'intervention des secours;
+- limiter la propagation de l'incendie ;
 
-- limiter la propagation de l'incendie en évacuant vers l'extérieur chaleur, gaz et imbrûlés.
+- faciliter l'intervention des secours.
