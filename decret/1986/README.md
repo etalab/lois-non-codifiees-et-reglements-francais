@@ -275,7 +275,6 @@
 - [Décret n°86-552 du 14 mars 1986](decret-n86-552-du-14-mars-1986)
 - [Décret n°86-553 du 14 mars 1986](decret-n86-553-du-14-mars-1986)
 - [Décret n°86-555 du 14 mars 1986](decret-n86-555-du-14-mars-1986)
-- [Décret n°86-559 du 14 mars 1986](decret-n86-559-du-14-mars-1986)
 - [Décret n°86-562 du 14 mars 1986](decret-n86-562-du-14-mars-1986)
 - [Décret n°86-564 du 14 mars 1986](decret-n86-564-du-14-mars-1986)
 - [Décret n°86-565 du 14 mars 1986](decret-n86-565-du-14-mars-1986)
