@@ -4,7 +4,7 @@ La délégation de pouvoirs prévue à l'article 10 du décret du 14 février 19
 
 I. - Dans les armées :
 
-1. Commandant de corps d'armée ;
+1. 1. Commandant de corps d'armée ;
 
 Commandant de la force d'action rapide ;
 
