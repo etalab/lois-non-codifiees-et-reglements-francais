@@ -120,7 +120,7 @@ ii) Les tissus suivants provenant d'animaux ayant pu être exposés à un risque
 
 - la tête entière, la moelle épinière ainsi que les viscères thoraciques et abdominaux des ovins et caprins abattus dans le cadre des dispositions de l'arrêté du 28 mars 1997 fixant les mesures de police sanitaire relatives à la tremblante ovine et caprine (1) ;
 
-- la tête entière, comprenant l'encéphale, les yeux et les amygdales, mais à l'exclusion de la langue et des muscles masséters, des ovins et caprins nés ou élevés au Royaume-Uni, quel que soit leur âge.
+- (alinéa supprimé).
 
 iii) Les abats suivants :
 

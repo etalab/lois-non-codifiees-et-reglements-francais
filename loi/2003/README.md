@@ -9,6 +9,7 @@
 - [Loi n° 2003-400 du 30 avril 2003 (MENX0300020L)](loi-n-2003-400-du-30-avril-2003-menx0300020l)
 - [Loi n° 2003-47 du 17 janvier 2003 (SOCX0200137L)](loi-n-2003-47-du-17-janvier-2003-socx0200137l)
 - [Loi n° 2003-475 du 4 juin 2003 (MAEX0306419L)](loi-n-2003-475-du-4-juin-2003-maex0306419l)
+- [Loi n° 2003-478 du 5 juin 2003 (DEFX0306626L)](loi-n-2003-478-du-5-juin-2003-defx0306626l)
 - [Loi n° 2003-6 du 3 janvier 2003 (SOCX0200158L)](loi-n-2003-6-du-3-janvier-2003-socx0200158l)
 - [Loi n° 2003-7 du 3 janvier 2003 (JUSX0000084L)](loi-n-2003-7-du-3-janvier-2003-jusx0000084l)
 - [Loi n° 2003-73 du 27 janvier 2003 (DEFX0200133L)](loi-n-2003-73-du-27-janvier-2003-defx0200133l)

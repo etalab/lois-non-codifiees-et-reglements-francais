@@ -1,0 +1,7 @@
+# Article 2
+
+Les ouvriers de la société nationale GIAT Industries régis par le décret n° 90-582 du 9 juillet 1990 relatif aux droits et garanties prévus à l'article 6 b de la loi n° 89-924 du 23 décembre 1989 autorisant le transfert à une société nationale des établissements industriels dépendant du Groupement industriel des armements terrestres (GIAT) peuvent être recrutés sur leur demande en qualité d'agent non titulaire de droit public par l'une des collectivités publiques ou un établissement public à caractère administratif mentionnés à l'article 2 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires.
+
+En cette qualité, ils bénéficient d'un engagement à durée indéterminée, des dispositions légales et réglementaires régissant les agents non titulaires de la fonction publique dont relève la collectivité ou l'établissement public qui les recrute ainsi que, dans des conditions fixées par un décret en Conseil d'Etat, des dispositions réglementaires régissant ces mêmes agents.
+
+Dans cette situation, ils peuvent demander à conserver, à titre personnel, le bénéfice du maintien de prestations de pensions identiques à celles qui sont servies aux ouvriers sous statut du ministère de la défense. Le montant des cotisations afférentes au risque vieillesse sera identique à celui mis à la charge des ouvriers sous statut du ministère de la défense. Les conditions d'application du présent alinéa sont précisées par un décret en Conseil d'Etat.

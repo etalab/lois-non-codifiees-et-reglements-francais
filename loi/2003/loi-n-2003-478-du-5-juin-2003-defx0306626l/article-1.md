@@ -1,0 +1,3 @@
+# Article 1
+
+Les fonctionnaires, les agents sous contrat et les ouvriers de l'Etat mis à la disposition de l'entreprise nationale DCN en application de l'article 78 de la loi de finances rectificative pour 2001 (n° 2001-1276 du 28 décembre 2001) sont électeurs et éligibles au conseil d'administration ou au conseil de surveillance, ainsi qu'aux instances représentatives du personnel prévues par le code du travail. Ils bénéficient des droits reconnus aux salariés par les articles 5, 7 à 13, 15 à 28, 37, 40-1 et 40-2 de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public, les titres II et III du livre IV, ainsi que le chapitre VI du titre III du livre II du code du travail.

@@ -4,7 +4,7 @@ Les émoluments des personnels visés à l'article 2 sont versés par l'AEFE en 
 
 A. - Pour les personnels expatriés
 
-a) Le traitement brut soumis à retenue pour pension civile correspondant à l'indice hiérarchique que les agents détiennent dans leur corps d'origine à la date du début de contrat. Cet indice ne peut être modifié avant le renouvellement éventuel du contrat. Pour les personnels relevant des décrets du 26 janvier 1983 et du 11 avril 1988 susvisé, l'indice d'échelon dans le grade est complété par la bonification indiciaire soumise à retenue pour pension attachée à la catégorie d'établissement d'affectation déterminée par arrêté du ministre des affaires étrangères et du ministre chargé du budget.
+a) Le traitement brut soumis à retenue pour pension civile correspondant à l'indice hiérarchique que les agents détiennent dans leur corps d'origine à la date du début de contrat. Cet indice ne peut être modifié avant le renouvellement éventuel du contrat. Pour les personnels relevant des décrets du 26 janvier 1983 et du 11 avril 1988 susvisés, l'indice d'échelon dans le grade est complété par la bonification indiciaire soumise à retenue pour pension attachée à la catégorie d'établissement d'affectation déterminée par arrêté du ministre des affaires étrangères et du ministre chargé du budget.
 
 b) L'indemnité de suivi et d'orientation des élèves en faveur des personnels enseignants du second degré prévue par le décret du 15 janvier 1993 susvisé.
 
@@ -58,7 +58,7 @@ Le classement des personnels résidents entre les différents groupes de l'indem
 
 e) Le cas échéant, un avantage familial attribué en lieu et place des avantages familiaux accordés aux personnels en service en France. L'avantage familial est attribué quel que soit le lieu de résidence des enfants, déduction faite des avantages de même nature dont peut bénéficier l'agent, son conjoint, au titre des mêmes enfants et qui sont dus au titre de la législation ou de la réglementation française ou de tout accord communautaire ou international.
 
-Pour le calcul de l'avantage familial, il est fait application des dispositions relatives aux majorations familiales attribuées aux personnels expatriés dans les conditions fixées à l'article 4 (A, e), alinéas 2 à 5, du présent décret, après abattement de 60 % des coefficients par pays fixés au A du tableau annexé à l'arrêté prévu à l'alinéa 3 de ce même article.
+Pour le calcul de l'avantage familial, il est fait application des dispositions relatives aux majorations familiales attribuées aux personnels expatriés dans les conditions fixées à l'article 4 (A, e), alinéas 2 à 6, du présent décret, après abattement de 60 % des coefficients par pays fixés au A du tableau annexé à l'arrêté prévu à l'alinéa 3 de ce même article.
 
 f) Les rémunérations supplémentaires tenant compte des obligations hebdomadaires maximales d'enseignement, telles qu'elles sont définies par les statuts particuliers de ces fonctionnaires et par les décrets du 25 mai 1950 susvisés.
 
