@@ -50,4 +50,6 @@ Il ne peut pas être fait appel [*interdiction d'emploi*] à des salariés sous 
 
 - travaux exposant à l'inhalation de poussières de lin ;
 
-- travaux de désinsectisation des bois (pulvérisation du produit, trempage du bois, empilage ou sciage des bois imprégnés, traitement des charpentes en place), des grains lors de leur stockage.
+- travaux de désinsectisation des bois (pulvérisation du produit, trempage du bois, empilage ou sciage des bois imprégnés, traitement des charpentes en place), des grains lors de leur stockage ;
+
+- tous travaux susceptibles d'entraîner une exposition aux rayonnements ionisants dès lors qu'ils sont effectués dans des zones où le débit de dose horaire est susceptible d'être supérieur à 2 millisievert.
