@@ -4,16 +4,22 @@ Des personnes physiques remplissant les conditions requises pour exercer la prof
 
 Une ou plusieurs de ces personnes peuvent également constituer, avec une personne physique titulaire d'un office de notaire, une société civile professionnelle qui peut être nommée :
 
-Soit dans cet office dont le siège peut, le cas échéant, être immédiatement transféré à l'intérieur du même département ;
+a) Dans cet office ;
 
-Soit, ledit office pouvant être supprimé ou pourvu d'un nouveau titulaire, dans un autre office existant ou créé dans le même département.
+b) Ledit office pouvant être supprimé ou pourvu d'un nouveau titulaire, dans un autre office existant dans le même département ;    c) Dans un office de notaire créé dans le même département.
 
-Des personnes physiques titulaires d'offices de notaire situés soit dans le même département, soit dans des départements différents mais dans un canton limitrophe du canton ou de la commune où l'une d'elles est établie, peuvent constituer entre elles ou avec une ou plusieurs personnes physiques remplissant les conditions requises pour exercer la profession de notaire, une société civile professionnelle qui peut être nommée :
+Des personnes physiques titulaires d'offices de notaire situés soit dans le même département, soit dans des départements différents, mais dans un canton limitrophe du canton ou de la commune où l'une d'elles est établie, peuvent constituer entre elles ou avec une ou plusieurs personnes physiques remplissant les conditions requises pour exercer la profession de notaire une société civile professionnelle qui peut être nommée :
 
-Soit dans l'office dont l'un des associés est titulaire, en remplacement de cet associé, les offices dont les autres associés ou certains d'entre eux sont titulaires pouvant être supprimés ou pourvus d'un nouveau titulaire ;
+a) Dans l'office dont l'un des associés est titulaire, en remplacement de cet associé ;
 
-Soit dans un office existant situé dans le même département, ou dans un département différent mais dans le canton ou la commune où l'un des associés est établi, les offices dont les associés ou certains d'entre eux sont titulaires pouvant être supprimés ou pourvus d'un nouveau titulaire ;
+b) Dans un office existant, situé dans le département où se trouvent tous les offices dont les associés sont titulaires ;
 
-Soit dans un office de notaire créé dans le même département, ou dans un département différent mais dans le canton ou la commune où l'un des associés est établi, les offices dont les associés ou certains d'entre eux sont titulaires pouvant être supprimés ou pourvus d'un nouveau titulaire.
+c) Si les offices dont les associés sont titulaires sont situés dans des départements différents, dans un office existant dans le canton où la commune où l'un des associés est établi ;
 
-Par dérogation aux dispositions de l'alinéa précédent, les notaires résidant dans le ressort des cours d'appel de Besançon et de Nancy ne peuvent constituer des sociétés civiles professionnelles avec les notaires résidant dans le ressort de la cour d'appel de Colmar.
+d) Dans un office de notaire créé dans le département où sont situés tous les offices dont les associés sont titulaires ;
+
+e) Si les offices dont les associés sont titulaires sont situés dans des départements différents, dans un office de notaire créé dans le canton ou la commune où l'un des associés est établi.
+
+Dans les cas prévus au deuxième alinéa, a et b, au troisième alinéa, a et b, l'office auquel est nommée la société peut être immédiatement transféré à l'intérieur du département.
+
+Dans les cas prévus au troisième alinéa, les offices dont les associés ou certains d'entre eux sont titulaires, autres que celui auquel la société est nommée, peuvent être supprimés ou pourvus d'un nouveau titulaire.
