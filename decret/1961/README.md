@@ -24,6 +24,7 @@
 - [Décret n°61-467 du 10 juin 1961](decret-n61-467-du-10-juin-1961)
 - [Décret n°61-29 du 11 janvier 1961](decret-n61-29-du-11-janvier-1961)
 - [Décret n°61-33 du 11 janvier 1961](decret-n61-33-du-11-janvier-1961)
+- [Décret n°61-1145 du 13 octobre 1961](decret-n61-1145-du-13-octobre-1961)
 - [Décret n°61-602 du 13 juin 1961](decret-n61-602-du-13-juin-1961)
 - [Décret n°61-604 du 13 juin 1961](decret-n61-604-du-13-juin-1961)
 - [Décret n°61-605 du 13 juin 1961](decret-n61-605-du-13-juin-1961)
