@@ -3,6 +3,7 @@
 - [Titre 1er : Du stage](titre-1er)
 - [Article 1](article-1.md)
 - [Titre II : Du diplôme d'expertise comptable.](titre-ii)
+- [Titre III : De la commission consultative pour la formation professionnelle des experts-comptables.](titre-iii)
 - [Titre IV : Dispositions transitoires et diverses.](titre-iv)
 - [Article 33](article-33.md)
 - [Annexes](annexes)
