@@ -1,5 +1,6 @@
 # 2002
 
+- [Décret n°95-569 du 6 mai 1995 (SPSH9501452D)](decret-n95-569-du-6-mai-1995-spsh9501452d)
 - [Décret n°90-601 du 11 juillet 1990 (MCCB9000404D)](decret-n90-601-du-11-juillet-1990-mccb9000404d)
 - [Décret n°79-979 du 13 novembre 1979](decret-n79-979-du-13-novembre-1979)
 - [Décret n°95-402 du 13 avril 1995 (SPSS9403399D)](decret-n95-402-du-13-avril-1995-spss9403399d)
