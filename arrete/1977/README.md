@@ -4,6 +4,7 @@
 - [Arrêté du 2 décembre 1976](arrete-du-2-decembre-1976)
 - [Arrêté du 8 décembre 1976](arrete-du-8-decembre-1976)
 - [Arrêté du 10 décembre 1976](arrete-du-10-decembre-1976)
+- [Arrêté du 16 décembre 1976](arrete-du-16-decembre-1976)
 - [Arrêté du 18 janvier 1977](arrete-du-18-janvier-1977)
 - [Arrêté du 19 janvier 1977](arrete-du-19-janvier-1977)
 - [Arrêté du 21 décembre 1976](arrete-du-21-decembre-1976)
