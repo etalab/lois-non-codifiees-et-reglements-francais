@@ -15,6 +15,7 @@
 - [Décret n°75-713 du 4 août 1975](decret-n75-713-du-4-aout-1975)
 - [Décret n°75-831 du 4 septembre 1975](decret-n75-831-du-4-septembre-1975)
 - [Décret n°78-529 du 4 avril 1978](decret-n78-529-du-4-avril-1978)
+- [Décret n°75-1024 du 5 novembre 1975](decret-n75-1024-du-5-novembre-1975)
 - [Décret n°75-847 du 5 septembre 1975](decret-n75-847-du-5-septembre-1975)
 - [Décret n°75-851 du 5 septembre 1975](decret-n75-851-du-5-septembre-1975)
 - [Décret n°75-315 du 5 mai 1975](decret-n75-315-du-5-mai-1975)
