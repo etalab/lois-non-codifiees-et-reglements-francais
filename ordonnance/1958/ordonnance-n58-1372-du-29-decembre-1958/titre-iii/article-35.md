@@ -1,9 +1,0 @@
-# Article 35
-
-1. Les entreprises et les personnes morales qui souscrivent au capital initial des sociétés immobilières conventionnées visées par l'ordonnance n° 58-876 du 24 septembre 1958 ou à leurs augmentations de capital peuvent, à la condition de renoncer, dans le délai d'un an, à pratiquer l'amortissement exceptionnel de 50 p. 100 prévu à l'article 5 2° de ladite ordonnance, faire abstraction, pour la détermination de leur bénéfice imposable, des revenus nets des actions desdites sociétés figurant à leur actif, dans la mesure où ces revenus sont exemptés de la taxe proportionnelle en application de l'article 5 4° de la même ordonnance.
-
-2. (paragraphe abrogé).
-
-3. Les entreprises et personnes morales qui souscrivent au capital initial des sociétés immobilières conventionnées visées par l'ordonnance n° 58-876 du 24 septembre 1958 ou à leurs augmentations de capital peuvent, si elles effectuent, dans le délai d'un an, la renonciation prévue au paragraphe 1 ci-dessus, pratiquer un amortissement exceptionnel de 25 p. 100 de la nature de celui qui est prévu à l'article 5 2° de ladite ordonnance, à la condition que les revenus nets annuels des actions desdites sociétés figurant à leur actif, exemptés de la taxe proportionnelle en application de l'article 5 4° de la même ordonnance, soient inférieurs ou au maximum égaux à 3,50 p. 100 du capital souscrit.
-
-Si la condition susvisée n'est pas remplie, l'amortissement exceptionnel de 25 p. 100 sera réintégré dans les bénéfices imposables de l'exercice au cours duquel il a été pratiqué, nonobstant les dispositions de l'article 1966 du code général des impôts. Dans ce cas, les intérêts de retard prévus aux articles 6 et 7 du décret n° 55-467 du 30 avril 1955 seront exigibles à compter du premier jour du mois suivant celui où la déduction a été opérée indûment, sans que la limitation fixée par le dernier alinéa de l'article 7 précité puisse trouver son application.
