@@ -1,7 +1,3 @@
 # Article 1
 
-Il est institué sur le plan national un brevet professionnel des professions immobilières comportant deux options :
-
-A. - Administrateur de biens et syndic de copropriété.
-
-B. - Agent immobilier et mandataire en vente de fonds de commerce.
+L'utilisation en agriculture des substances vénéneuses H.E.O.D., H.H.D.N., heptachlore et chlordane est interdite.
