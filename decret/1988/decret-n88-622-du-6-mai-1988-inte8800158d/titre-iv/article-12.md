@@ -1,6 +1,6 @@
 # Article 12
 
-Les plans de recours spécialisées sont établis pour faire face aux risques technologiques qui n'ont pas fait l'objet d'un plan particulier d'intervention ou aux risques liés à un accident ou à un sinistre de nature à porter atteinte à la vie ou à l'intégralité des personnes, aux biens ou à l'environnement.
+Les plans de recours spécialisées sont établis pour faire face aux risques technologiques qui n'ont pas fait l'objet d'un plan particulier d'intervention ou aux risques liés à un accident ou à un sinistre de nature à porter atteinte à la vie ou à l'intégrité des personnes, aux biens ou à l'environnement.
 
 Pour chaque type de risque particulier, le plan de secours spécialisé est préparé par le préfet en liaison avec les services et les organismes dont les moyens peuvent être mis en oeuvre.
 

@@ -20,10 +20,16 @@ f) Une unité de production de matières radioactives à usage militaire ;
 
 g) Une unité de fabrication, d'assemblage ou de mise en oeuvre d'éléments intégrant des matières radioactives à usage militaire.
 
-2° Les installations classées définies par le décret prévu à l'article 7-1 de la loi n° 76-663 du 19 juillet 1976 susvisée ;
+2° Les installations classées définies par le décret prévu au IV de l'article L. 515-8 du code de l'environnement ;
 
-3° Les stockages souterrains de gaz toxiques ou de gaz comprimés ou liquéfiés mentionnés aux décrets n° 62-1296 du 6 novembre 1962 et n° 65-72 du 13 janvier 1965 susvisés ;
+3° Les stockages souterrains de gaz combustible, d'hydrocarbures liquides ou liquéfiés, ou de produits chimiques de base à destination industrielle prévus respectivement par le décret du 6 novembre 1962 susvisé, le décret du 13 janvier 1965 susvisé et la loi n° 70-1324 du 31 décembre 1970 ;
 
 4° Les aménagements hydrauliques qui comportent à la fois un réservoir d'une capacité égale ou supérieure à quinze millions de mètres cubes et un barrage ou une digue d'une hauteur d'au moins vingt mètres au-dessus du point le plus bas du sol naturel ;
 
 5° Les lieux de transit et d'activités présentant des dangers ou des inconvénients graves au sens de l'article 1er de la loi du 19 juillet 1976 précitée.
+
+Pour les installations visées au 2° ou 3° ci-dessus, si une partie du territoire d'un Etat voisin peut être affectée par l'évolution prévisible ou constatée des effets au-delà des frontières d'un accident entraînant un danger grave pour la santé de l'homme ou pour l'environnement, le préfet, lorsqu'il entreprend la préparation d'un plan particulier d'intervention, communique aux autorités de cet Etat les éléments d'appréciation du risque dont il dispose et recueille leurs observations. Il informe le ministre des affaires étrangères de cette communication.
+
+Pour les mêmes installations, le préfet peut, par arrêté motivé, décider qu'un plan particulier d'intervention n'est pas nécessaire, au vu d'une part de l'étude de danger démontrant l'absence, en toute circonstance, de danger grave pour la santé de l'homme ou pour l'environnement à l'extérieur de l'établissement, d'autre part du rapport établi par l'autorité de contrôle, dans le cadre de la procédure d'autorisation prévue par les décrets des 6 novembre 1962 et 13 janvier 1965 susvisés et le décret n° 77-1133 du 21 septembre 1977.
+
+Si la situation géographique de l'installation mentionnée à l'alinéa précédent le justifie, le préfet communique cette décision aux autorités de l'Etat voisin dans les conditions mentionnées au quinzième alinéa du présent article.

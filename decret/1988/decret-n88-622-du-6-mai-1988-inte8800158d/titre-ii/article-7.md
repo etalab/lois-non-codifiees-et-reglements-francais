@@ -17,3 +17,7 @@ a) La diffusion de l'alerte auprès des populations voisines ;
 b) L'interruption de la circulation sur les infrastructures de transport et l'éloignement des personnes au voisinage du site ;
 
 c) L'interruption des réseaux et canalisations publics au voisinage du site.
+
+6° Les modalités d'alerte et d'information des autorités d'un Etat voisin mentionnées au quinzième alinéa de l'article 6 ;
+
+7° Les conditions de la remise en état et du nettoyage de l'environnement après un accident l'ayant gravement endommagé survenu dans les installations visées aux 2° et 3° de l'article 6.
