@@ -77,6 +77,7 @@
 - [Décret n°86-227 du 18 février 1986](decret-n86-227-du-18-fevrier-1986)
 - [Décret n°86-228 du 18 février 1986](decret-n86-228-du-18-fevrier-1986)
 - [Décret n°86-232 du 18 février 1986](decret-n86-232-du-18-fevrier-1986)
+- [Décret n°86-233 du 18 février 1986](decret-n86-233-du-18-fevrier-1986)
 - [Décret n°86-84 du 18 janvier 1986](decret-n86-84-du-18-janvier-1986)
 - [Décret n°85-1346 du 19 décembre 1985](decret-n85-1346-du-19-decembre-1985)
 - [Décret n°85-1369 du 20 décembre 1985](decret-n85-1369-du-20-decembre-1985)
