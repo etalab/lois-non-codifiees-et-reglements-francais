@@ -1,6 +1,6 @@
 # Article 3
 
-Ce service, organisé en cinq bureaux, exerce les missions suivantes :
+Ce service, organisé en six bureaux, exerce les missions suivantes :
 
 - assurer le contrôle de l'avancement du programme, définir et mettre en oeuvre une politique d'accompagnement du changement, réaliser les actions de communication correspondantes ;
 
