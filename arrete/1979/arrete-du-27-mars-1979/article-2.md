@@ -12,9 +12,9 @@ Lors de l'essai, le véhicule doit être muni de pneumatiques neufs de la plus g
 
 Le rapport de démultiplication qui doit être utilisé lors de l'essai est celui conduisant à la vitesse maximale du véhicule et la commande d'alimentation en carburant doit être poussée à fond ;
 
-Pour tenir compte des erreurs diverses, inhérentes en particulier au procédé de mesure et à l'augmentation du régime du moteur à sa charge partielle, il est toléré que la vitesse ainsi mesurée dépasse de 10 p 100 la valeur de 25 kilomètres/heure.
+Pour tenir compte des erreurs diverses, inhérentes en particulier au procédé de mesure et à l'augmentation du régime du moteur à sa charge partielle, il est toléré que la vitesse ainsi mesurée dépasse de 10 p 100 la valeur de la vitesse maximale par construction fixée à l'article R. 138 du code de la route.
 
-Lors de la vérification théorique, on doit s'assurer que la vitesse maximale V, calculée selon la formule ci-après, ne dépasse pas de plus de 5 p. 100 la valeur de 25 kilomètres/heure :
+Lors de la vérification théorique, on doit s'assurer que la vitesse maximale V, calculée selon la formule ci-après, ne dépasse pas de plus de 5 p. 100 la valeur de la vitesse maximale par construction fixée à l'article R. 138 du code de la route  :
 
 V = 0,06 D n R
 
