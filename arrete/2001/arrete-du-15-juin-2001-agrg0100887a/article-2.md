@@ -1,0 +1,3 @@
+# Article 2
+
+Sans préjudice des dispositions de l'arrêté du 10 novembre 2000 susvisé, les produits d'origine animale destinés à l'alimentation des animaux de compagnie visés à l'annexe de l'arrêté du 6 juin 1994 susvisé, y compris les aliments composés et les prémélanges comportant des ingrédients d'origine animale, ne peuvent être importés que s'ils sont accompagnés du certificat sanitaire ou de salubrité ou, le cas échéant, du document commercial prévu à l'article 5 de l'arrêté du 6 juin 1994 complété par l'attestation prévue à l'annexe du présent arrêté et visée par un vétérinaire officiel du pays de provenance.

@@ -1,0 +1,3 @@
+# Article 3
+
+Sans préjudice des dispositions des arrêtés du 25 septembre 1995, du 11 mars 1996, du 10 novembre 2000 susvisés, les produits d'origine animale destinés à l'alimentation des animaux de compagnie visés à l'annexe de l'arrêté du 6 juin 1994 susvisé, y compris les aliments composés et les prémélanges comportant des ingrédients d'origine animale, provenant d'un autre Etat membre de la Communauté européenne et ayant le statut de marchandises communautaires ne peuvent être introduits que s'ils sont accompagnés du certificat sanitaire ou de salubrité ou, le cas échéant, du document commercial complété par par l'attestation prévue à l'annexe du présent arrêté.

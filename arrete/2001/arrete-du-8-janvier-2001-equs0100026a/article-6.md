@@ -50,7 +50,7 @@ Pour les véhicules dont le PTAC n'excède pas 3 500 kilogrammes :
 
 - un dispositif de double commande d'accélération, neutralisable lorsque le véhicule est utilisé pour les épreuves de l'examen du permis de conduire ;
 
-- deux rétroviseurs intérieurs réglés pour l'élève et l'enseignant, un rétroviseur latéral extérieur gauche réglé pour être utilisé par l'élève et deux rétroviseurs latéraux extérieurs droits, l'un réglé pour l'élève et l'autre pour l'enseignant ;
+- deux rétroviseurs intérieurs réglés pour l'élève et l'enseignant, un rétroviseur latéral extérieur gauche réglé pour être utilisé par l'élève, un rétroviseur latéral extérieur droit réglé pour être utilisé par l'élève et un deuxième rétroviseur ou dispositif de rétrovision équivalent latéral extérieur droit, réglé pour l'enseignant ;
 
 - un dispositif de double commande d'avertisseur sonore, de feux (position, croisement, route) et d'indicateur de changement de direction à portée immédiate de l'enseignant.
 

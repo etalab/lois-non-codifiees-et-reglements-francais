@@ -6,6 +6,8 @@ Le montant de base de cet abonnement est fixé comme suit (tarifs en francs) :
 
 Pour des livraisons mensuelles : 225 000 ;
 
-Pour des livraisons hebdomadaires : 325 000.
+Pour des livraisons hebdomadaires : 325 000 ;
+
+Le montant de base de cet abonnement pour des livraisons quotidiennes est fixé à 49. 546 euros.
 
 A la demande de l'abonné, un fichier de calage peut être fourni gratuitement chaque année. Toute demande supplémentaire est facturée pour un montant de 1 000 F.
