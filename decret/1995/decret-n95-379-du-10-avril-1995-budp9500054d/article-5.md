@@ -1,0 +1,5 @@
+# Article 5
+
+Sous l'autorité des agents de catégorie A, les contrôleurs des impôts participent à tous les travaux de la direction générale des impôts, et notamment à l'assiette, au recouvrement, au contrôle et au contentieux de l'impôt. Ils peuvent effectuer des opérations de vérification et disposent du droit de communication auprès des administrations publiques et des entreprises privées. Ils participent aux opérations domaniales ainsi qu'aux opérations de publicité des actes et décisions concernant les droits immobiliers et la conservation des hypothèques et privilèges. Ils réalisent également des contrôles de l'application des réglementations à caractère économique entrant dans les attributions de la direction générale des impôts. Ils peuvent être chargés de fonctions d'encadrement ou, dans un poste comptable, des fonctions de fondé de pouvoir. Ils peuvent également être nommés régisseurs d'avances et de recettes dans des conditions fixées par arrêtés ministériels.
+
+La gestion de certains postes comptables des impôts peut leur être confiée.
