@@ -10,6 +10,7 @@
 - [Arrêté du 6 février 1981](arrete-du-6-fevrier-1981)
 - [Arrêté du 6 janvier 1981](arrete-du-6-janvier-1981)
 - [Arrêté du 7 avril 1981](arrete-du-7-avril-1981)
+- [Arrêté du 8 avril 1981](arrete-du-8-avril-1981)
 - [Arrêté du 8 janvier 1981](arrete-du-8-janvier-1981)
 - [Arrêté du 9 février 1981](arrete-du-9-fevrier-1981)
 - [Arrêté du 9 mars 1981](arrete-du-9-mars-1981)
