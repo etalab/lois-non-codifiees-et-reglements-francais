@@ -14,7 +14,7 @@ En cas d'accession à la propriété, l'allocataire doit justifier des obligatio
 
 4° Une déclaration sur l'honneur indiquant le total des ressources perçues au cours de l'année précédente par le requérant et par toutes personnes vivant ou ayant vécu à son foyer dans les conditions déterminées à l'article 2 (I) ci-dessus.
 
-Cette déclaration doit comporter l'indication des revenus imposables tels qu'ils ont été déclarés à l'administration fiscale au titre de l'année civile antérieure, abondés, le cas échéant, des majorations prévues à l'article 2, paragraphe IV, du présent décret.
+Cette déclaration doit comporter l'indication des revenus imposables tels qu'ils ont été déclarés à l'administration fiscale au titre de l'année civile antérieure.
 
 II - Les justifications prévues aux 1er, 3° et 4° du paragraphe I ci-dessus doivent être renouvelées chaque année avant le 1er juillet.
 
@@ -26,4 +26,4 @@ Dans le cas prévu à l'article 17 ci-dessous, les changements survenus au cours
 
 III - Tout déménagement doit être déclaré à l'organisme ou au service payeur dans le délai de six mois. La déclaration doit être accompagnée des justifications nécessaires à la revision de l'allocation de logement.
 
-IV - L'allocataire qui entend se prévaloir des dispositions de l'article 42-1 ci-dessous doit produire toutes justifications des changements survenus au cours de la période de paiement dans la situation de ses ressources [*chômage*].
+IV - L'allocataire qui entend se prévaloir des dispositions de l'article 12 du décret n° 85-475 du 26 avril 1985 doit produire toutes justifications des changements survenus au cours de la période de paiement dans la situation de ses ressources [*chômage*].
