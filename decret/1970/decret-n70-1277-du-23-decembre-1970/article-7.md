@@ -1,6 +1,6 @@
 # Article 7
 
-Par. 1 - Les cotisations sont assises sur l'ensemble des rémunérations brutes, à l'exclusion des éléments à caractère familial, des indemnités représentatives de frais et des prestations familiales, augmenté le cas échéant de la valeur représentative des avantages en nature selon le barème appliqué par la sécurité sociale. L'assiette de cotisation ainsi déterminée est toutefois limitée à 4,75 fois le plafond fixé pour les cotisations de retraite du régime général des assurances sociales.
+Par. 1 - Les cotisations sont assises sur l'ensemble des rémunérations brutes, à l'exclusion des éléments à caractère familial, des indemnités représentatives de frais et des prestations familiales, augmenté le cas échéant de la valeur représentative des avantages en nature selon le barème appliqué par la sécurité sociale. L'assiette de cotisation ainsi déterminée est toutefois limitée à 4,75 fois le plafond fixé pour les cotisations de retraite du régime général des assurances sociales. A compter du 1er janvier 1992, cette limite est portée à huit fois ce plafond.
 
 Les cotisations à l'I.R.C.A.N.T.E.C. sont calculées comme suit :
 
@@ -32,9 +32,7 @@ Toutefois, en cas de congé accordé pour cause de maladie, de maternité ou d'a
 
 Par. 5 - A l'expiration de chaque année civile, les employeurs doivent procéder à une régularisation pour tenir compte de l'ensemble des rémunérations payées à chaque agent telles qu'elles figurent sur la déclaration prévue à l'article 6 bis et du taux de cotisation correspondant aux tranches de rémunération visées au paragraphe 1 ci-dessus.
 
-La différence éventuelle entre le montant des
-
-cotisations ainsi déterminées et le montant de celles qui ont été précédemment versées au titre de l'année considérée fait l'objet d'un versement complémentaire : celui-ci est effectué dans le délai fixé à l'article 6 bis.
+La différence éventuelle entre le montant des cotisations ainsi déterminées et le montant de celles qui ont été précédemment versées au titre de l'année considérée fait l'objet d'un versement complémentaire : celui-ci est effectué dans le délai fixé à l'article 6 bis.
 
 Par. 6 - Les collectivités relevant du champ d'application de l'Ircantec doivent s'assurer, au moyen des déclarations qui leur sont faites par leurs agents en application de l'article 149, par. 1, du décret n° 46-1378 du 8 juin 1946, que ceux-ci ne sont pas susceptibles d'être ressortissants du régime au titre d'une autre activité professionnelle exercée concomitamment.
 
