@@ -1,0 +1,5 @@
+# Article 10
+
+Les lieutenants ou enseignes de vaisseau de 1re classe promus au grade de capitaine ou lieutenants de vaisseau alors qu'ils étaient au 4e ou au 5e échelon du grade de lieutenant ou enseignes de vaisseau de 1re classe sont classés à l'échelon du grade de capitaine ou lieutenants de vaisseau comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils avaient atteint. Ils y conservent, dans la limite de deux ans, l'ancienneté acquise au dernier échelon atteint dans le grade de lieutenant ou enseignes de vaisseau de 1re classe.
+
+Les capitaines ou lieutenants de vaisseau promus au grade de commandant ou capitaine de corvette alors qu'ils étaient au 4e échelon ou 5e échelon du grade de capitaine ou lieutenants de vaisseau du grade de capitaine ou lieutenants de vaisseau sont classés à l'échelon du grade de commandant ou capitaine de corvette comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils avaient atteint. Ils y conservent, dans la limite de deux ans, l'ancienneté acquise au dernier échelon atteint dans le grade de capitaine ou lieutenant de vaisseau.
