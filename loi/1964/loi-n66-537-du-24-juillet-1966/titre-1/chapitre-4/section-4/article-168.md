@@ -10,4 +10,4 @@ Tout actionnaire a droit, dans les conditions et délais déterminés par décre
 
 4° Du montant global, certifié exact par les commissaires aux comptes, des rémunérations versées aux personnes les mieux rémunérées, le nombre de ces personnes étant de dix ou de cinq selon que l'effectif du personnel excède ou non deux cents salariés.
 
-5° Du montant global, certifié par les commissaires aux comptes des sommes ouvrant droit aux déductions fiscales visées à l'article 238 bis AA du Code général des impôts ainsi que de la liste des actions nominatives de parrainage, de mécénat et des dons effectués à des associations de financement électorales ou mandataires financiers prévus par l'article L. 52-4 du code électoral ou à un ou plusieurs partis ou groupements politiques, conformément aux dispositions de l'article 11 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique.
+5° Du montant global, certifié par les commissaires aux comptes des sommes ouvrant droit aux déductions fiscales visées à l'article 238 bis AA du Code général des impôts ainsi que de la liste des actions nominatives de parrainage, de mécénat.

@@ -6,4 +6,4 @@ Les statuts d'une association agréée en qualité d'association de financement 
 
 1° La définition de la circonscription territoriale à l'intérieur de laquelle l'association exerce ses activités ;
 
-2° L'engagement d'ouvrir un compte bancaire ou postal unique pour y déposer tous les dons reçus en vue du financement d'un parti politique et de dresser un état récapitulatif annuel, des dons effectués par des personnes morales au 31 décembre de chaque année, qui est transmis [*délai*] dans les trois mois à l'autorité administrative.
+2° L'engagement d'ouvrir un compte bancaire ou postal unique pour y déposer tous les dons reçus en vue du financement d'un parti politique.
