@@ -507,6 +507,8 @@
 - [Décret n°98-1041 du 18 novembre 1998 (MCCB9800752D)](decret-n98-1041-du-18-novembre-1998-mccb9800752d)
 - [Décret n°98-1042 du 18 novembre 1998 (MCCB9800753D)](decret-n98-1042-du-18-novembre-1998-mccb9800753d)
 - [Décret n°98-1043 du 18 novembre 1998 (ATEP9860020D)](decret-n98-1043-du-18-novembre-1998-atep9860020d)
+- [Décret n°98-1047 du 18 novembre 1998 (MCCB9800547D)](decret-n98-1047-du-18-novembre-1998-mccb9800547d)
+- [Décret n°98-1048 du 18 novembre 1998 (FPPX9800123D)](decret-n98-1048-du-18-novembre-1998-fppx9800123d)
 - [Décret n°98-182 du 18 mars 1998 (AGRM9800448D)](decret-n98-182-du-18-mars-1998-agrm9800448d)
 - [Décret n°98-184 du 18 mars 1998 (ATEP9860024D)](decret-n98-184-du-18-mars-1998-atep9860024d)
 - [Décret n°98-197 du 18 mars 1998 (FPPA9810005D)](decret-n98-197-du-18-mars-1998-fppa9810005d)
