@@ -8,22 +8,18 @@ groupe 7 ;
 
 - administrateur civil de 2e classe : groupe 8 ;
 
-- chef de service administratif, inspecteur principal d'études des transmissions : groupe 13 ;
+- attaché de service administratif du 8e au 12e échelon, inspecteur principal adjoint des transmissions, inspecteur des transmissions du 8e au 12e échelon, ingénieur d'études et de fabrications de 1re et 2e classe : groupe 14 ;
 
-- attaché de service administratif de 1re classe, ingénieur d'études et de fabrications de 1re et 2e classe, inspecteur principal adjoint des transmissions, inspecteur central des transmissions :
+- attaché de service administratif du 1er au 7e échelon, inspecteur des transmissions du 1er au 7e échelon, ingénieur d'études et de fabrications de 3e classe, conseiller(ère) technique de service social : groupe 15 ;
 
-groupe 14 ;
-
-- ingénieur d'études et de fabrications de 3e classe, attaché de service administratif de 2e classe, inspecteur des transmissions :
-
-groupe 15 ;
+- secrétaire administratif de classe exceptionnelle, secrétaire administratif en chef, secrétaire administratif chef de section, contrôleur des transmissions de classe exceptionnelle, contrôleur divisionnaire des transmissions, contrôleur chef de section des transmissions, technicien supérieur d'études et de fabrications de 1re et 2e classe, assistant(e) de service social principal(e), assistant (2) de service social : groupe 16 ;
 
 - technicien supérieur d'études et de fabrications de 1re et 2e classe, secrétaire administratif en chef, secrétaire administratif chef de section, contrôleur divisionnaire des transmissions, contrôleur chef de section des transmissions, assistant(e) de service social : groupe 16 ;
 
-- secrétaire administratif, technicien supérieur d'études et de fabrications de 3e classe, contrôleur des transmissions : groupe 18 ;
+- adjoint administratif principal de 1re et 2e classe, adjoint administratif, agent principal des transmissions et de l'électronique de 1re et 2e classe, agent des transmissions et de l'électronique, agent technique principal de l'électronique, agent technique de l'électronique, maître ouvrier principal, maître ouvrier, ouvrier professionnel principal : groupe 24 ;
 
-- adjoint administratif, maître ouvrier, ouvrier professionnel de 1re catégorie, agent technique de l'électronique, agent des transmissions et de l'électronique : groupe 24 ;
+- agent administratif de 1re classe, agent des services techniques de 1re classe, ouvrier professionnel : groupe 25 ;
 
-- ouvrier professionnel de 2e catégorie : groupe 25 ;
+- agent administratif de 2e classe, agent des services techniques de 2e classe : groupe 26.
 
 - agent administratif des services déconcentrés, ouvrier professionnel de 3e catégorie, agent de service des services déconcentrés : groupe 26.

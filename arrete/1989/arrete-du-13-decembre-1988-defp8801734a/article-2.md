@@ -4,6 +4,12 @@ Les situations prévues à l'article 17 du décret du 28 mars 1967 susvisé dans
 
 - la présence au poste ;
 
-- les congés administratifs, de maladie, pour couches et allaitement et pour obligations militaires ;
+- l'instance d'affectation ;
 
-- l'appel par ordre.
+- l'appel par ordre ;
+
+- l'appel spécial ;
+
+- les congés administratifs, de maladie, de maternité ou d'adoptio et pour obligations militaires.
+
+Seuls les agents titulaires peuvent être appelés par ordre et, s'ils ne sont pas en position de détachement, être placés à l'étranger en congé de longue maladie ou de longue durée.

@@ -1,3 +1,13 @@
 # Article 2
 
-Tous les personnels visés par le présent arrêté peuvent être placés dans les différentes situations énumérées à l'article 17 du décret du 28 mars 1967 modifié.
+Les situations prévues à l'article 17 du décret du 28 mars 1967 susvisé dans lesquelles peuvent être placés les agents visés par le présent arrêté sont les suivantes :
+
+Présence au poste ;
+
+Instance d'affectation ;
+
+Congé (administratif, de maladie, de maternité ou d'adoption  et pour obligations militaires) ;
+
+Intérim.
+
+Les chefs de mission et les conseillers de mission peuvent en outre être placés en situation d'appel par ordre.

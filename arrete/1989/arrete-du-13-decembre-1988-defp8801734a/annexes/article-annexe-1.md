@@ -4,8 +4,6 @@ NOMBRE DE JOURS DE CONGE PAR MOIS DE SERVICE A L'ETRANGER
 
 Trois jours et demi par mois de service
 
-Allemande (République démocratique).
-
 Allemagne (République fédérale d'; hors zone de stationnement des forces françaises).
 
 Andorre.
@@ -56,13 +54,19 @@ Quatre jours par mois de service
 
 Afrique du Sud.
 
+Bosnie-Herzégovine ;
+
 Canada.
 
 Costa Rica.
 
 Côte d'Ivoire.
 
+Croatie ;
+
 Etats-Unis.
+
+Macédoine (ex-République yougoslave de) ;
 
 Maroc.
 
@@ -72,9 +76,11 @@ Sénégal.
 
 Seychelles.
 
+Slovénie.
+
 Tunisie.
 
-Yougoslavie.
+Yougoslavie (Rép. fédérale de).
 
 Quatre jours et demi par mois de service
 
@@ -88,7 +94,13 @@ Arabie Saoudite.
 
 Argentine.
 
+Arménie ;
+
 Australie.
+
+Azerbaïdjan ;
+
+Bahamas ;
 
 Bahreïn.
 
@@ -99,6 +111,8 @@ Barbade.
 Bélize.
 
 Bénin.
+
+Biélorussie ;
 
 Birmanie.
 
@@ -146,11 +160,15 @@ Emirats arabes unis.
 
 Equateur.
 
+Estonie ;
+
 Fidji.
 
 Gabon.
 
 Gambie.
+
+Géorgie ;
 
 Ghana.
 
@@ -178,13 +196,21 @@ Japon.
 
 Jordanie.
 
+Kazakhstan ;
+
 Kenya.
+
+Kirghizistan ;
 
 Koweït.
 
 Lesotho.
 
+Lettonie ;
+
 Libéria.
+
+Lituanie ;
 
 Madagascar.
 
@@ -200,6 +226,8 @@ Mauritanie.
 
 Mexique.
 
+Moldavie ;
+
 Namibie.
 
 Nauru.
@@ -211,6 +239,8 @@ Niger.
 Nouvelle-Zélande.
 
 Oman.
+
+Ouzbékistan ;
 
 Pakistan.
 
@@ -230,9 +260,13 @@ Qatar.
 
 Roumanie.
 
+Russie ;
+
 Rwanda.
 
-Saint-Vincent.
+Saint-Christophe et Nieves ;
+
+Saint-Vincent et Grenadines.
 
 Sainte-Hélène.
 
@@ -243,6 +277,8 @@ Salomon (îles).
 Sierra Léone.
 
 Singapour.
+
+Slovaquie ;
 
 Somalie.
 
@@ -256,11 +292,13 @@ Swaziland.
 
 Syrie.
 
+Tadjikistan ;
+
 Taïwan.
 
 Tanzanie.
 
-Tchécoslovaquie.
+Tchèque (République) ;
 
 Thaïlande.
 
@@ -270,11 +308,13 @@ Tonga.
 
 Trinité et Tobago.
 
+Turkménistan ;
+
 Tuvalu.
 
 Turquie.
 
-U.R.S.S.
+Ukraine ;
 
 Uruguay.
 
@@ -282,9 +322,7 @@ Vanuatu.
 
 Vénézuela.
 
-Yémen (République arabe).
-
-Yémen (République démocratique et populaire).
+Yémen.
 
 Zaïre.
 
@@ -299,6 +337,8 @@ Angola.
 Cambodge.
 
 Cap-Vert (îles du).
+
+Erythrée.
 
 Ethiopie.
 

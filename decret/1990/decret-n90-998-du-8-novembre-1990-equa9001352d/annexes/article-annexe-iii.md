@@ -16,19 +16,13 @@ Biarritz-Bayonne-Anglet.
 
 Brest-Guipavas.
 
-Caen-Carpiquet.
-
 Calvi - Sainte-Catherine.
-
-Cannes-Mandelieu.
 
 Carcassonne-Salvaza.
 
 Chambéry - Aix-les-Bains.
 
 Châteauroux-Déols.
-
-Cherbourg-Maupertus.
 
 Deauville - Saint-Gatien.
 
@@ -40,8 +34,6 @@ Grenoble - Saint-Geoirs.
 
 La Rochelle-Laleu.
 
-Le Havre-Octeville.
-
 Le Touquet-Paris-Plage.
 
 Limoges-Bellegarde.
@@ -50,7 +42,7 @@ Lyon-Bron.
 
 Melun-Villaroche.
 
-Nancy-Essey.
+Metz-Nancy-Lorraine.
 
 Poitiers-Biard.
 
@@ -71,8 +63,6 @@ Tarbes-Ossun-Lourdes.
 Toussus-le-Noble.
 
 Troyes-Barberey.
-
-Valence-Chabeuil.
 
 Aérodromes situés outre-mer
 

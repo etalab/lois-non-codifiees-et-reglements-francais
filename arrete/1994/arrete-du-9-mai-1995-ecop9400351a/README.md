@@ -1,0 +1,3 @@
+# Arrêté du 9 mai 1995 modifiant l'arrêté du 24 avril 1972 relatif aux conditions d'application, aux agents contractuels du ministère de l'économie et des finances en service à l'étranger, des dispositions du décret n° 67-290 du 28 mars 1967 modifié fixant les modalités de calcul des émoluments des personnels de l'Etat et des établissements publics de l'Etat à caractère administratif en service à l'étranger et du décret n° 69-697 du 18 juin 1969 fixant le statut des agents contractuels de l'Etat et des établissements publics de l'Etat à caractère administratif de nationalité française en service à l'étranger
+
+- [Article 5](article-5.md)

@@ -1,5 +1,6 @@
 # Décret n°68-503 du 30 mai 1968 portant statut particulier des professeurs de chaires supérieures des établissements classiques, modernes et techniques.
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)

@@ -48,13 +48,13 @@ Comores.
 
 Congo.
 
-Costa Rica.
-
 Côte d'Ivoire.
 
 Djibouti.
 
 Emirats arabes unis.
+
+Erythrée.
 
 Ethiopie.
 
@@ -76,6 +76,8 @@ Guinée équatoriale.
 
 Guyana.
 
+Haïti.
+
 Honduras.
 
 Inde.
@@ -87,6 +89,8 @@ Iran.
 Irak.
 
 Kenya.
+
+Kiribati.
 
 Koweït.
 
@@ -113,6 +117,8 @@ Mali.
 Maurice.
 
 Mauritanie.
+
+Mexique (Mexico seulement).
 
 Mongolie.
 
@@ -152,13 +158,15 @@ Roumanie.
 
 Rwanda.
 
-Saint-Vincent.
+Saint-Vincent et Grenadines.
 
 Saint-Thomas et Prince.
 
 Salomon (îles).
 
 Salvador.
+
+Samoa occidentales.
 
 Sénégal.
 
@@ -176,6 +184,8 @@ Surinam.
 
 Swaziland.
 
+Taïwan.
+
 Tanzanie.
 
 Tchad.
@@ -192,9 +202,7 @@ Vanuatu.
 
 Viet-Nam.
 
-Yémen (République arabe).
-
-Yémen (République démocratique et populaire).
+Yémen.
 
 Zaïre.
 
@@ -202,79 +210,131 @@ Zambie.
 
 Zimbabwe.
 
+Quinze mois
+
+Arménie.
+
+Australie.
+
+Azerbaïdjan.
+
+Biélorussie.
+
+Brésil.
+
+Corée (République de).
+
+Costa Rica.
+
+Géorgie.
+
+Hong-kong.
+
+Japon.
+
+Kazakhstan.
+
+Kirghizistan.
+
+Macao.
+
+Moldavie.
+
+Nouvelle-Zélande.
+
+Ouzbékistan.
+
+Singapour.
+
+Tadjikistan.
+
+Turkménistan.
+
+Ukraine.
+
 Vingt mois
 
 Afrique du Sud.
+
+Algérie.
 
 Antigue et Barbude.
 
 Argentine.
 
-Australie.
+Bahamas.
 
 Barbade.
 
-Brésil.
+Bosnie-Herzégovine.
 
 Bulgarie.
 
+Canada.
+
 Chili.
 
-Corée (République de).
+Croatie.
 
 Cuba.
 
 Dominicaine (République).
 
+Dominique.
+
+Egypte.
+
 Equateur.
+
+Estonie.
+
+Etats-Unis.
 
 Grenade.
 
-Haïti.
-
-Hong-Kong.
-
 Islande.
+
+Israël.
 
 Jamaïque.
 
-Japon.
-
 Jordanie.
 
-Mexique.
+Lettonie.
 
-Nouvelle-Zélande.
+Lituanie.
+
+Macédoine (ex-République yougoslave de).
+
+Mexique (sauf Mexico).
 
 Pologne.
 
 Porto Rico.
 
+Russie.
+
+Saint-Christophe et Nieves.
+
 Sainte-Hélène.
 
 Sainte-Lucie.
 
-Singapour.
+Slovénie.
 
 Syrie.
-
-Taïwan.
 
 Trinité et Tobago.
 
 Uruguay.
 
-U.R.S.S..
-
 Vénézuela.
+
+Yougoslavie (Rép. fédérale de).
 
 Trente mois
 
-Algérie.
-
 Allemagne (République fédérale d'; hors zone de stationnement des forces françaises).
-
-Allemagne (République démocratique).
 
 Andorre.
 
@@ -282,17 +342,11 @@ Autriche.
 
 Belgique.
 
-Canada.
-
 Chypre.
 
 Danemark.
 
-Egypte.
-
 Espagne.
-
-Etats-Unis.
 
 Finlande.
 
@@ -303,8 +357,6 @@ Grèce.
 Hongrie.
 
 Irlande.
-
-Israël.
 
 Italie.
 
@@ -324,14 +376,16 @@ Portugal.
 
 Royaume-Uni.
 
+Saint-Siège.
+
+Slovaquie.
+
 Suède.
 
 Suisse.
 
-Tchécoslovaquie.
+Tchèque (République).
 
 Tunisie.
 
 Turquie.
-
-Yougoslavie.
