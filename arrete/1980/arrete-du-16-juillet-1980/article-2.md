@@ -1,6 +1,6 @@
 # Article 2
 
-Ouvrent également droit à l'exercice en France de la profession d'infirmier/ère aux ressortissants des Etats membres de la Communauté économique européenne les diplômes, certificats et titres suivants d'infirmier/ère responsable des soins généraux, délivrés par lesdits Etats, à condition qu'ils soient accompagnés d'une attestation de l'Etat membre ayant délivré le diplôme, le certificat ou le titre confirmant que le bénéficiaire a rempli toutes les conditions de formation prévues par les obligations communautaires :
+Ouvrent également droit à l'exercice en France de la profession d'infirmier/ère aux ressortissants des Etats membres de la Communauté européenne ou autres Etats parties à l'accord sur l'Espace économique européen les diplômes, certificats et titres suivants d'infirmier/ère responsable des soins généraux, délivrés par lesdits Etats, à condition qu'ils soient accompagnés d'une attestation de l'Etat membre ayant délivré le diplôme, le certificat ou le titre confirmant que le bénéficiaire a rempli toutes les conditions de formation prévues par les obligations communautaires :
 
 Danemark
 
@@ -35,3 +35,23 @@ Espagne
 Portugal
 
 "Diploma do curso de enfermagem geral" délivré par les écoles reconnues par l'Etat et enregistré par l'autorité compétente.
+
+Autriche
+
+Le Diplom in der allgemeinen Krankenpflege (diplôme d'infirmier[ère] en soins généraux) délivré par les écoles d'infirmiers(ères) reconnues par l'Etat.
+
+Finlande
+
+Le diplôme de sairaanhoitaja/sjukskötare ou de terveydenhoitaja/hälsovMrdare, délivré par une école d'infirmiers(ères).
+
+Islande
+
+Le projf ij hjujkrunarfroum fraj Hajskojla Ijslands (diplôme délivré par le département de soins infirmiers de la faculté de médecine de l'université d'Islande).
+
+Norvège
+
+Le bevis for bestMtt sykepleiereksamen (diplôme d'infirmier[ère] en soins généraux), délivré par une école d'infirmiers(ères).
+
+Suède
+
+Le diplôme de sjuksköterska (certificat universitaire d'infirmier[ère] en soins généraux), délivré par une école supérieure d'infirmiers(ères).

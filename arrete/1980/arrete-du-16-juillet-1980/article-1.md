@@ -1,6 +1,6 @@
 # Article 1
 
-La liste des diplômes, certificats et autres titres d'infirmier/ère responsable des soins généraux visée à l'article L. 474 du code de la santé publique délivrés conformément aux obligations communautaires par les Etats membres de la Communauté économique européenne et ouvrant droit à l'exercice de la profession d'infirmier/ère en France aux ressortissants desdits Etats membres, est établie comme suit :
+La liste des diplômes, certificats et autres titres d'infirmier/ère responsable des soins généraux visée à l'article L. 474 du code de la santé publique délivrés conformément aux obligations communautaires par les Etats membres de la Communauté européenne ou autres Etats parties à l'accord sur l'Espace économique européen et ouvrant droit à l'exercice de la profession d'infirmier/ère en France aux ressortissants desdits Etats membres, est établie comme suit :
 
 Belgique
 
