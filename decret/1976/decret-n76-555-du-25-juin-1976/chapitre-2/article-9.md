@@ -22,13 +22,13 @@ LO représente le loyer minimum défini à l'article 3 ci-dessus et au II ci-apr
 
 II. - Le loyer minimum annuel est obtenu par l'application aux ressources annuelles nettes du foyer définies aux articles 3 et 4 ci-dessus des pourcentages suivants :
 
-0 p. 100 pour la tranche de ressources inférieure ou égale à 6.270 F ;
+0 p. 100 pour la tranche de ressources inférieure ou égale à 6.675 F ;
 
-15 p. 100 pour la tranche de ressources comprise entre 6.270 F et 12.540 F ;
+15 p. 100 pour la tranche de ressources comprise entre 6.675 F et 13.350 F ;
 
-26 p. 100 pour la tranche de ressources comprise entre 12.540 F et 25. 080 F ;
+26 p. 100 pour la tranche de ressources comprise entre 13.350 F et 26.700 F ;
 
-36 p. 100 pour la tranche de ressources supérieure à 25.080 F.
+36 p. 100 pour la tranche de ressources supérieure à 26.700 F.
 
 Les limites inférieures et supérieures de chacune de ces tranches sont affectées des coefficients ou nombres de parts ci-après :
 
@@ -54,10 +54,10 @@ R
 
 K = 0,9 - -------------
 
-162.160 x N
+170.265 x N
 
 R représente les ressources imposables déterminées conformément       à l'article 4 ci-dessus,
 
 N représente le nombre de parts déterminé conformément au II       ci-dessus.
 
-IV. - Lorsque le montant de l'allocation de logement ainsi calculé est inférieur à 30 F par mois, il n'est pas procédé à son versement.
+IV. - Lorsque le montant de l'allocation de logement ainsi calculé est inférieur à 40 F par mois, il n'est pas procédé à son versement.
