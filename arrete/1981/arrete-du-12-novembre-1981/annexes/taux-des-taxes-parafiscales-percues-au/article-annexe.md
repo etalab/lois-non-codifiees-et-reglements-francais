@@ -17,7 +17,7 @@
 <td> : TAXE SUR LA SUPERFICIE              :</td>
 </tr>
 <tr>
-<td> :  - Huîtres ou autres coquillages :  :</td>
+<td> :  - Huîtres ou autres coquillages   :</td>
 </tr>
 <tr>
 <td> :             120 F par hectare       :</td>
@@ -59,28 +59,31 @@
 <td> : TAXE SUR LA SUPERFICIE              :</td>
 </tr>
 <tr>
-<td> :  - Huîtres ou autres coquillages :  :</td>
+<td> :  - Huîtres ou autres coquillages : :</td>
 </tr>
 <tr>
-<td> :     200 F par hectare avec un       :</td>
+<td> :     Surfaces inférieures à 20 ares  :</td>
 </tr>
 <tr>
-<td> :     minimum de perception de 200 F  :</td>
+<td> :     10 F l'are.                     :</td>
 </tr>
 <tr>
-<td> :     par établissement et par        :</td>
+<td> :     Surfaces égales ou supérieures  :</td>
 </tr>
 <tr>
-<td> :     détenteur ou codétenteur        :</td>
+<td> :     à 20 ares : 2 F l'are.          :</td>
 </tr>
 <tr>
-<td> :  - Moules : 100 F par hectare avec  :</td>
+<td> :  - Moules : surfaces inférieures    :</td>
 </tr>
 <tr>
-<td> :     un minimum de 100 F par         :</td>
+<td> :     à 10 ares : 10 F l'are.         :</td>
 </tr>
 <tr>
-<td> :     établissement                   :</td>
+<td> :     Surfaces égales ou supérieures  :</td>
+</tr>
+<tr>
+<td> :     à 10 ares : 1 F l'are.          :</td>
 </tr>
 <tr>
 <td> :-------------------------------------:</td>
@@ -113,7 +116,7 @@
 <td> : TAXE SUR LA SUPERFICIE              :</td>
 </tr>
 <tr>
-<td> :  - Huîtres ou autres coquillages :  :</td>
+<td> :  - Huîtres ou autres coquillages : :</td>
 </tr>
 <tr>
 <td> :    - Pas de perception au-dessous   :</td>
@@ -122,22 +125,22 @@
 <td> :       de 5 ares.                    :</td>
 </tr>
 <tr>
-<td> :    - de  5 à  25 ares :  50 F       :</td>
+<td> :    - de  5 à  25 ares :  57 F       :</td>
 </tr>
 <tr>
-<td> :    - de 25 à  50 ares : 100 F       :</td>
+<td> :    - de 25 à  50 ares : 114 F       :</td>
 </tr>
 <tr>
-<td> :    - de 50 à  75 ares : 150 F       :</td>
+<td> :    - de 50 à  75 ares : 170 F       :</td>
 </tr>
 <tr>
 <td> :    - de 75 à 100 ares               :</td>
 </tr>
 <tr>
-<td> :             (ou 1 ha) : 200 F       :</td>
+<td> :             (ou 1 ha) : 227 F       :</td>
 </tr>
 <tr>
-<td> :    - Au-dessus de 1 ha : 50 F       :</td>
+<td> :    - Au-dessus de 1 ha : 57 F       :</td>
 </tr>
 <tr>
 <td> :       par hectare ou partie         :</td>
@@ -149,7 +152,7 @@
 <td> :  - Moules : 60 p. 100 du tarif      :</td>
 </tr>
 <tr>
-<td> :     huîtres ou autres coquillages   :</td>
+<td> :     huîtres ou autres coquillages  :</td>
 </tr>
 <tr>
 <td> :-------------------------------------:</td>
@@ -161,16 +164,17 @@
 <td> :  (moules) :                         :</td>
 </tr>
 <tr>
-<td> :  - 20 F par tranche de 100 mètres,  :</td>
+<td>
+<br/>   :  - 22,75 F par tranche de 100    :</td>
 </tr>
 <tr>
-<td> :         jusqu'à 1.000 mètres        :</td>
+<td> :    mètres jusqu'à 1.000 mètres ;    :</td>
 </tr>
 <tr>
-<td> :         Au-dessus de 1.000 mètres : :</td>
+<td> :         Au-dessus de 1.000 mètres   :</td>
 </tr>
 <tr>
-<td> :  - 40 F par 1.000 mètres            :</td>
+<td> :  - 45,50 F par 1.000 mètres         :</td>
 </tr>
 <tr>
 <td> :         supplémentaires ou fraction :</td>
@@ -200,13 +204,46 @@
 <td> : TAXE SUR LA SUPERFICIE              :</td>
 </tr>
 <tr>
+<td> :  - Huîtres ou autres coquillages   :</td>
+</tr>
+<tr>
+<td> :     Moins de 2 ares : néant.        :</td>
+</tr>
+<tr>
+<td> :     De 2 à 25 ares : 20 F.          :</td>
+</tr>
+<tr>
+<td> :     De 25 à 50 ares : 40 F.         :</td>
+</tr>
+<tr>
+<td> :     De 50 à 75 ares : 60 F.         :</td>
+</tr>
+<tr>
+<td> :     De 75 à 100 ares : 80 F.        :</td>
+</tr>
+<tr>
+<td> :     Au-dessus de 1 hectare : 20 F   :</td>
+</tr>
+<tr>
+<td> :     par hectare ou partie d'hectare :</td>
+</tr>
+<tr>
+<td> :     supplémentaire.                 :</td>
+</tr>
+<tr>
 <td> :                                     :</td>
 </tr>
 <tr>
 <td> :  - Moules : 0,40 F par are          :</td>
 </tr>
 <tr>
-<td> :                                     :</td>
+<td> --------------------------------------:</td>
+</tr>
+<tr>
+<td> : TAXE SUR LA LONGUEUR:               :</td>
+</tr>
+<tr>
+<td> :    40 F par tranche de 1.000 mètres :</td>
 </tr>
 <tr>
 <td> :=====================================:</td>
@@ -230,13 +267,13 @@
 <td> : TAXE SUR LA SUPERFICIE              :</td>
 </tr>
 <tr>
-<td> :  - Huîtres ou autres coquillages :  :</td>
+<td> :  - Huîtres ou autres coquillages   :</td>
 </tr>
 <tr>
-<td> :             343 F par hectare       :</td>
+<td> :             389 F par hectare       :</td>
 </tr>
 <tr>
-<td> :  - Moules : 343 F par hectare       :</td>
+<td> :  - Moules : 389 F par hectare       :</td>
 </tr>
 <tr>
 <td> :-------------------------------------:</td>
@@ -245,7 +282,7 @@
 <td> : TAXE SUR LA LONGUEUR                :</td>
 </tr>
 <tr>
-<td> :  (moules) : 40 F par tranche de     :</td>
+<td> :  (moules) : 162,20 F par tranche de :</td>
 </tr>
 <tr>
 <td> :                       1.000 mètres  :</td>
@@ -272,25 +309,34 @@
 <td> : TAXE SUR LA SUPERFICIE              :</td>
 </tr>
 <tr>
-<td> :  - Huîtres ou autres coquillages :  :</td>
+<td> :  - Huîtres ou autres coquillages   :</td>
 </tr>
 <tr>
-<td> :             2,50 F par are          :</td>
+<td> :             2,84 F par are avec un  :</td>
 </tr>
 <tr>
-<td> :  - Moules : 2,50 F par are          :</td>
+<td> :    minimum de perception de 100 F   :</td>
 </tr>
 <tr>
-<td> :-------------------------------------:</td>
+<td> :    pour les surfaces égales ou      :</td>
 </tr>
 <tr>
-<td> : TAXE SUR LA LONGUEUR                :</td>
+<td> :    supérieures à 10 ares.           :</td>
 </tr>
 <tr>
-<td> :  (moules) : 143 F par tranche de    :</td>
+<td> :  - Moules : 2,84 F par are avec un  :</td>
 </tr>
 <tr>
-<td> :                       1.000 mètres  :</td>
+<td> :    minimum de perception de 100 F   :</td>
+</tr>
+<tr>
+<td> :    pour les surfaces égales ou      :</td>
+</tr>
+<tr>
+<td> :   supérieures à 10 ares.            :</td>
+</tr>
+<tr>
+<td> :=====================================:</td>
 </tr>
 <tr>
 <td> :=====================================:</td>
@@ -299,10 +345,7 @@
 
 <table>
 <tr>
-<td>:=====================================:</td>
-</tr>
-<tr>
-<td> :             DESIGNATION :           :</td>
+<td>:             DESIGNATION :           :</td>
 </tr>
 <tr>
 <td> :             Méditerranée            :</td>
@@ -314,10 +357,7 @@
 <td> : TAXE SUR LA SUPERFICIE              :</td>
 </tr>
 <tr>
-<td> :  - Huîtres ou autres coquillages    :</td>
-</tr>
-<tr>
-<td> :  - Moules                           :</td>
+<td> :  - Huîtres ou autres coquillages :  - Moules                           :</td>
 </tr>
 <tr>
 <td> :                                     :</td>
@@ -348,45 +388,6 @@
 </tr>
 <tr>
 <td> :                       2 F par are   :</td>
-</tr>
-<tr>
-<td> :=====================================:</td>
-</tr>
-<tr>
-<td> :=====================================:</td>
-</tr>
-<tr>
-<td> :             DESIGNATION :           :</td>
-</tr>
-<tr>
-<td> :          Marennes - Oléron          :</td>
-</tr>
-<tr>
-<td> :-------------------------------------:</td>
-</tr>
-<tr>
-<td> : TAXE SUR LA SUPERFICIE              :</td>
-</tr>
-<tr>
-<td> :  - Huîtres ou autres coquillages :  :</td>
-</tr>
-<tr>
-<td> :             343 F par hectare       :</td>
-</tr>
-<tr>
-<td> :  - Moules : 343 F par hectare       :</td>
-</tr>
-<tr>
-<td> :-------------------------------------:</td>
-</tr>
-<tr>
-<td> : TAXE SUR LA LONGUEUR                :</td>
-</tr>
-<tr>
-<td> :  (moules) : 40 F par tranche de     :</td>
-</tr>
-<tr>
-<td> :                       1.000 mètres  :</td>
 </tr>
 <tr>
 <td> :=====================================:</td>

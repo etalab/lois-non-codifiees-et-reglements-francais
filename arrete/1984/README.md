@@ -61,6 +61,7 @@
 - [Arrêté du 18 mai 1984](arrete-du-18-mai-1984)
 - [Arrêté du 19 avril 1984](arrete-du-19-avril-1984)
 - [Arrêté du 19 décembre 1983](arrete-du-19-decembre-1983)
+- [Arrêté du 19 juin 1984](arrete-du-19-juin-1984)
 - [Arrêté du 19 mars 1984](arrete-du-19-mars-1984)
 - [Arrêté du 20 avril 1984](arrete-du-20-avril-1984)
 - [Arrêté du 20 décembre 1983](arrete-du-20-decembre-1983)
