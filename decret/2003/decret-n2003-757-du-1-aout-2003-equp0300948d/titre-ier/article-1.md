@@ -8,4 +8,4 @@ Le temps de présence des personnels affectés en service continu aux missions d
 
 1 700 heures, par an et par agent, pour les personnels embarqués à bord d'une vedette régionale des affaires maritimes, ces heures étant réparties sur un maximum de 110 jours par an.
 
-Ces durées sont équivalentes à une durée de travail effectif de 1 600 heures, calculée en tenant compte des bonifications pour travail de nuit, de dimanche et de jour férié.
+Ces durées sont équivalentes à une durée de travail effectif de 1 607 heures, calculée en tenant compte des bonifications pour travail de nuit, de dimanche et de jour férié.

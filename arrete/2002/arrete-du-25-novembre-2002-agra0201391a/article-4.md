@@ -6,9 +6,9 @@ Les caractéristiques des cycles de travail applicables sont les suivantes :
 
 de travail dans le cycle
 
-a) Cycle hebdomadaire : le temps de travail, sur la base d'une durée annuelle de travail effectif de 1 600 heures, est compris entre 35 heures par semaine et 38 h 30 avec 20 jours par an d'aménagement et de réduction du temps de travail, ou
+a) Cycle hebdomadaire : le temps de travail, sur la base d'une durée annuelle de travail effectif de 1 607 heures, est compris entre 35 heures par semaine et 38 h 30 avec 20 jours par an d'aménagement et de réduction du temps de travail, ou
 
-b) Cycle plurihebdomadaire de deux à quatre semaines : le temps de travail est compris entre 31 heures et 39 heures par semaine avec un équilibre permettant de fixer le temps de travail effectif individuel à 1 600 heures par an avec au maximum 20 jours par an d'aménagement et de réduction du temps de travail.
+b) Cycle plurihebdomadaire de deux à quatre semaines : le temps de travail est compris entre 31 heures et 39 heures par semaine avec un équilibre permettant de fixer le temps de travail effectif individuel à 1 607 heures par an avec au maximum 20 jours par an d'aménagement et de réduction du temps de travail.
 
 2. Le nombre minimum de jours travaillés dans la semaine
 
