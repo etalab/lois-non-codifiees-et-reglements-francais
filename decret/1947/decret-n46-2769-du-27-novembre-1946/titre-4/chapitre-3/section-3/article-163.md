@@ -2,7 +2,7 @@
 
 Les pensions d'invalidité sont concédées à titre temporaire. Elles sont suspendues, révisées, supprimées ou rétablies dans les conditions suivantes :
 
-1° a) Le titulaire d'une pension d'invalidité est tenu de se soumettre à toute visite médicale demandée par l'organisme qui sert les prestations d'assurance maladie ou par l'union régionale ; s'il refuse de subir cette visite, sa pension est suspendue immédiatement.
+1° a) Le titulaire d'une pension d'invalidité est tenu de se soumettre à toute visite médicale demandée par l'organisme qui sert les prestations d'assurance maladie ou par la Caisse autonome nationale ; s'il refuse de subir cette visite, sa pension est suspendue immédiatement.
 
 b) Si l'examen médical subi permet de constater que, par suite de l'amélioration de son état de santé, le titulaire d'une pension d'invalidité générale a recouvré une capacité générale de gain supérieure à 50 p. 100, le service de la pension est suspendu à compter du jour de la décision du médecin-conseil régional, qui intervient sans délai après l'examen médical.
 
@@ -20,11 +20,11 @@ d) Les dispositions des articles L. 341-10, L. 341-12 et L. 341-14 du code de la
 
 e) La suppression des pensions d'invalidité générale ou professionnelle est prononcée après avis du médecin-conseil régional à l'expiration du délai de deux ans qui suit la date de suspension.
 
-f) En cas de rechute, le paiement de la pension d'invalidité générale ou professionnelle est repris à compter de la date de la constatation médicale faite par le médecin-conseil régional après examen par un médecin-conseil exerçant auprès de l'union régionale.
+f) En cas de rechute, le paiement de la pension d'invalidité générale ou professionnelle est repris à compter de la date de la constatation médicale faite par le médecin-conseil régional après examen par un médecin-conseil exerçant auprès de la Caisse autonome nationale.
 
 Si un assuré reprend le travail après la suppression de sa pension d'invalidité, il est considéré comme ayant rempli, durant les deux années précédant la suppression de cette pension, la condition de travail effectif requise pour bénéficier des prestations d'invalidité.
 
-2° Les organismes qui assurent le service des prestations en nature de l'assurance maladie prêtent leur concours à l'union régionale pour le contrôle de l'état de santé du bénéficiaire d'une pension d'invalidité en vue du maintien, de la suspension, de la révision, de la suppression ou du rétablissement de cette pension. Ils transmettent au médecin-conseil régional tous les renseignements, parvenus à leur connaissance, qui leur paraissent de nature à influer sur la situation du titulaire d'une pension d'invalidité.
+2° Les organismes qui assurent le service des prestations en nature de l'assurance maladie prêtent leur concours à la Caisse autonome nationale pour le contrôle de l'état de santé du bénéficiaire d'une pension d'invalidité en vue du maintien, de la suspension, de la révision, de la suppression ou du rétablissement de cette pension. Ils transmettent au médecin-conseil régional tous les renseignements, parvenus à leur connaissance, qui leur paraissent de nature à influer sur la situation du titulaire d'une pension d'invalidité.
 
 3° Les décisions du médecin-conseil régional visées au présent article sont communiquées sans délai à la caisse autonome nationale.
 

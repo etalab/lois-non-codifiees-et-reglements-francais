@@ -1,6 +1,6 @@
 # Article 177
 
-La caisse autonome nationale adresse une notification d'attribution à chaque titulaire d'une pension visée au présent titre sur laquelle sont indiqués les délais et voies de recours.
+_Le service des pensions minières à la Caisse des dépôts et consignations (1)_ adresse une notification d'attribution à chaque titulaire d'une pension visée au présent titre sur laquelle sont indiqués les délais et voies de recours.
 
 Lorsque l'orphelin est mineur, la notification est délivrée à son représentant légal ou judiciaire.
 

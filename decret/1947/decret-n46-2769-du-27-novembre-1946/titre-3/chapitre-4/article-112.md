@@ -8,6 +8,6 @@ Le Fonds national d'action sanitaire et sociale comprend cinq sections comptable
 
 3° Accidents du travail et maladies professionnelles ;
 
-4° Famille et enfance ;
+4° Paragraphe abrogé ;
 
 5° Service social.

@@ -1,17 +1,11 @@
 # Article 98
 
-La Caisse autonome nationale de la sécurité sociale dans les mines gère les fonds énumérés ci-après :
+Sous réserve des dispositions du dernier alinéa de l'article 15, la Caisse autonome nationale assure la gestion :
 
-1° Le Fonds national de l'assurance vieillesse et invalidité ;
+1° Des branches énumérées à l'article 1er bis ;
 
-2° Le Fonds national de l'assurance maladie, maternité et congé de paternité et décès ;
+2° Des fonds de gestion administrative et d'action sanitaire et sociale ;
 
-3° Le Fonds national des accidents du travail et des maladies professionnelles ;
+3° Du Fonds national de prévention et de promotion de la santé ;
 
-4° Le Fonds minier des prestations familiales ;
-
-5° Le Fonds national de l'action sanitaire et sociale ;
-
-6° Le Fonds national de la gestion administrative.
-
-Chaque fonds doit être équilibré en recettes et en dépenses.
+4° Du Fonds national de modernisation des oeuvres.

@@ -1,41 +1,39 @@
 # Article 99
 
-Le Fonds national de l'assurance vieillesse et invalidité comprend en recettes :
+I. - Les ressources de la branche vieillesse et invalidité sont constituées par :
 
-1° Les cotisations prévues à l'article 90 ainsi que le produit des pénalités et majorations de retard y afférentes ;
+1° Les cotisations prévues à l'article 90 ainsi que les produits des pénalités et majorations de retard y afférentes ;
 
-2° Les versements de compensation effectués en application de l'article L. 134-1 du code de la sécurité sociale ;
+2° Les versements de compensation en application de l'article L. 134-1 du code de la sécurité sociale ;
 
 3° Une subvention du budget de l'Etat ;
 
 4° Une fraction du produit de la redevance prévue par l'article 31 du code minier ;
 
-5° Les sommes versées par le Fonds national de solidarité prévu à l'article L. 815-1 du code de la sécurité sociale ;
+5° Les remboursements effectués par le Fonds de solidarité vieillesse créé à l'article L. 135-1 du code de la sécurité sociale ;
 
-6° Les sommes versées par le Fonds spécial d'allocation vieillesse prévu à l'article L. 814-5 du code de la sécurité sociale ;
+6° Les remboursements du Fonds spécial d'invalidité visé à l'article L. 815-3-1 du code de la sécurité sociale ;
 
-7° Le produit des recours contre tiers ;
+7° Les produits des recours contre tiers ;
 
-8° La fraction des intérêts créditeurs et des produits nets des placements prévus aux articles 122 et 124 ainsi que les produits du patrimoine du régime ;
+8° La fraction des intérêts créditeurs et des produits nets de placements prévus aux articles 122 et 124 ainsi que les produits relevant du patrimoine du régime ;
 
-9° Les contributions prévues par les dispositions législatives et réglementaires en vigueur.
+9° Le cas échéant, le solde excédentaire de la section "vieillesse" du Fonds national d'action sanitaire et sociale ;
 
-Il comprend en dépenses :
+10° Tous produits ou contributions prévus par des dispositions législatives ou réglementaires.
 
-1° Les sommes nécessaires au paiement des prestations d'assurance vieillesse et invalidité dues au titre du présent régime ;
+II. - Les dépenses de la branche vieillesse et invalidité sont constituées par :
 
-2° Les versements effectués au titre des articles L. 814-2, L. 815-2 et L. 815-3 du code de la sécurité sociale ;
+1° Les prestations d'assurance vieillesse et invalidité dues au titre du présent régime _et servies par la Caisse des dépôts et consignations (1)_ ;
 
-3° Les versements effectués au titre de l'article L. 814-5 du code de la sécurité sociale ;
+2° Les versements effectués au titre des articles L. 814-2, L. 815-2, L. 815-3 et L. 815-4 du code de la sécurité sociale ;
 
-4° Un versement au Fonds national de l'assurance maladie, maternité et décès égal, au maximum, à 6,8 p. 100 des avantages mentionnés au a du 3° de l'article 91 ;
+3° Un versement au titre des charges de fonctionnement et des dépenses en capital du budget de gestion administrative engagées pour la gestion de l'assurance vieillesse invalidité ;
 
-5° Un versement au même fonds égal, au maximum, à 2,8 p. 100 des avantages mentionnés au b du 3° de l'article 91 ;
+4° La fraction des intérêts débiteurs prévus à l'article 123 ainsi que les charges afférentes à la gestion du patrimoine du régime ;
 
-6° Un versement au même fonds destiné à couvrir les dépenses afférentes à l'assurance décès prévue à l'article 198 ;
+5° Un versement au titre des charges de fonctionnement et des dépenses en capital de la section "vieillesse" du Fonds national d'action sanitaire et sociale ;
 
-7° Un versement au fonds national d'action sanitaire et sociale et au Fonds national de la gestion administrative en application des articles 103 et 104 ;
+6° Un versement au titre des charges de fonctionnement et des dépenses en capital de la section "service social" du Fonds national d'action sanitaire et sociale ;
 
-8° La fraction des intérêts débiteurs prévus par l'article 123 ainsi que les charges afférentes au patrimoine du régime ;
-
-9° Les charges imputables au fonds en application des dispositions législatives et réglementaires en vigueur.
+7° Les charges diverses en application des dispositions législatives et réglementaires.

@@ -4,4 +4,4 @@ Le montant de l'allocation au décès est, au 1er juillet 1992, de 13 224,21 F, 
 
 L'allocation au décès donne lieu à un versement unique. Son montant est revalorisé comme il est dit à l'article 181.
 
-L'organisme compétent pour recevoir les demandes, examiner le droit des intéressés, fixer le montant et servir l'allocation au décès est la société de secours minière d'affiliation.
+L'organisme compétent pour recevoir les demandes, examiner le droit des intéressés, fixer le montant et servir l'allocation au décès est la Caisse autonome nationale.

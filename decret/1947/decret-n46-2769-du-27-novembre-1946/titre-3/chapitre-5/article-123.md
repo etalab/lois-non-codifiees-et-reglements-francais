@@ -4,4 +4,4 @@ La Caisse des dépôts et consignations peut accorder des avances de trésorerie
 
 Une convention entre les deux organismes prévoit le plafond et les conditions de rémunération de cette avance.
 
-Les intérêts débiteurs sont répartis entre les fonds visés à l'article 98 (1° à 4°) au prorata des cotisations revenant à chacun d'entre eux.
+Les intérêts débiteurs sont répartis entre les branches et l'ensemble des oeuvres et établissements au vu du suivi de la trésorerie réalisé conformément au premier alinéa de l'article 116.

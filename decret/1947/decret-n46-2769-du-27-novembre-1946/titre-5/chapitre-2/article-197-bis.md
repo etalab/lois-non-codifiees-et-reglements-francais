@@ -4,4 +4,4 @@ Après la naissance de son enfant et dans un délai de quatre mois, le père sal
 
 Durant ce congé, le père reçoit une indemnité journalière dans les conditions fixées à l'article L. 331-8 du code de la sécurité sociale.
 
-Les dispositions des deuxième et troisième alinéas de l'article 197 sont applicables.
+Les dispositions des premier et deuxième alinéas de l'article 197 sont applicables.

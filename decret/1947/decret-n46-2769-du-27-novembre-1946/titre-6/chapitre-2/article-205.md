@@ -4,11 +4,13 @@ Les dispositions des titres Ier et III à VIII du livre IV du code de la sécuri
 
 1° Que, en ce qui concerne les délégués à la sécurité des ouvriers mineurs, le rôle conféré à l'employeur est assuré par l'exploitant dans l'établissement duquel l'accident est survenu ;
 
-2° Que l'organisme de sécurité sociale compétent est l'union régionale dans la circonscription de laquelle se trouve la société de secours minière à laquelle est affilié le ressortissant. Toutefois :
+2° Que l'organisme compétent est la Caisse autonome nationale qui peut déléguer cette mission à la caisse régionale dans le ressort de laquelle réside l'affilié. Toutefois :
 
-a) En ce qui concerne la gestion du risque d'incapacité temporaire, l'union régionale peut charger une ou plusieurs sociétés de secours minières de sa circonscription d'exercer pour son compte et sous sa direction une partie des opérations ; dans ce cas, l'union régionale conserve la reconnaissance de l'origine professionnelle de l'accident ou de la maladie, la détermination des droits de la victime et de ses ayants droit, tant directement qu'à la suite d'un recours amiable, l'exercice du contrôle administratif, l'engagement des recours contre les tiers responsables et le suivi du contentieux technique et général de la sécurité sociale ;
+a) La reconnaissance de l'origine professionnelle de l'accident ou de la maladie et l'exercice du contrôle médical sont de la compétence du médecin conseil exerçant auprès de la caisse régionale dans le ressort duquel réside l'affilié ;
 
-b) Pour le service des prestations aux affiliés qui résident hors de toute circonscription de société de secours minière, l'union régionale peut, en accord avec la caisse primaire compétente, confier à celle-ci le service des prestations.
+b) Le service des prestations peut être assuré pour le compte de la Caisse autonome nationale, sur proposition de son conseil d'administration, par la Caisse primaire d'assurance maladie correspondant au lieu de résidence ; des ententes sont conclues à cette fin entre les organismes concernés. Un arrêté du ministre chargé de la sécurité sociale fixe les modalités d'application des dispositions du présent alinéa.
+
+L'organisme compétent reçoit des assurés les demandes de prestations, examine leurs droits, calcule le montant des prestations et verse celles-ci.
 
 3° Que, pour l'application du 1° de l'article D. 461-27, le médecin-conseil régional mentionné à l'article R. 315-3 du code de la sécurité sociale est remplacé par le médecin-conseil régional de l'union régionale ou son représentant mentionné à l'article 214, lorsque la demande est présentée par un affilié du régime minier ;
 

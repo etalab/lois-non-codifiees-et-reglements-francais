@@ -1,5 +1,7 @@
 # Article 156
 
-L'intéressé est examiné par l'un des médecins-conseils exerçant auprès de l'union régionale, comme il est dit à l'article L. 341-3 du code de la sécurité sociale.
+L'état d'invalidité générale est apprécié par un médecin-conseil dans les conditions énoncées à l'article L. 341-3 du code de la sécurité sociale.
 
-Au vu des résultats de cet examen, le médecin-conseil régional apprécie sans délai si les conditions prévues aux 1° des articles 147 et 151 sont remplies et, en cas d'invalidité professionnelle, fixe le taux de déclassement. Il transmet son rapport à la caisse autonome nationale.
+Le médecin-conseil statue également sur le taux d'invalidité professionnelle prévue aux articles 147 et 151, pour l'attribution de cette prestation.
+
+Le rapport médical est conservé par le médecin-conseil. Un formulaire de liaison précisant les références nécessaires à l'identification de l'assuré sur lequel le médecin-conseil indique sa décision sur la reconnaissance de l'invalidité et le taux d'incapacité est transmis au service des pensions du régime minier _à la Caisse des dépôts et consignations (1)._
