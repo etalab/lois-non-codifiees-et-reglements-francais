@@ -1,5 +1,5 @@
 # Article 10
 
-Pour les bateaux armés à l'année, un acompte sur les cotisations est exigible après six mois d'armement [*durée*]. L'autorité maritime établit un décompte provisoire, le notifie au débiteur et le versement doit être effectué dans les quinze jours [*délai*] suivant l'avertissement, sous peine des sanctions prévues à l'article 11.
+Les armateurs ou propriétaires sont tenus, au moment de la délivrance des rôles d'équipage, de faire connaître, sous la foi du serment, si les bâtiments sont assurés et auprès de quelles compagnies. Ils souscriront alors une subrogation éventuelle au profit de l'établissement national des invalides de la marine sur le montant de l'indemnité en cas de perte du bateau.
 
-Lors du décompte définitif, au désarmement du navire, le montant de l'acompte est déduit du total des droits constatés pour la période d'armement.
+En cas de modification ou de cessation de l'assurance en cours d'armement, les armateurs ou propriétaires sont tenus à la déclarer.

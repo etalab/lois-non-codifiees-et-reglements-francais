@@ -1,7 +1,5 @@
 # Article 9
 
-Pour le personnel bénéficiant des dispositions de l'article 8, paragraphe 2, ou de l'article 9, paragraphes 13 et 14, de la loi du 12 avril 1941, les employeurs remettent à l'administration des affaires maritimes, dans les quinze premiers jours de chaque trimestre civil, une déclaration nominative des salaires des personnes ayant accompli, pendant le trimestre précédent, les services valables pour la pension de retraite et pour l'assurance par la caisse de prévoyance.
+En cas de non-versement des cotisations et contributions ou des acomptes dans les délais normaux prévus aux articles précédents, l'administration maritime peut refuser la délivrance d'un nouveau rôle d'équipage ou retirer le rôle déjà délivré.
 
-Le recouvrement des cotisations est effectué dans les conditions et sous les sanctions prévues à l'article précédent.
-
-Des conventions peuvent toutefois être conclues entre le ministre chargé de la marine marchande et les armateurs intéressés en vue du recouvrement des cotisations selon une période différente.
+La même sanction peut être appliquée en cas de non-versement des cotisations exigibles au profit de la caisse nationale d'allocations familiales des marins du commerce ou de la caisse nationale d'allocations familiales de la pêche maritime.
