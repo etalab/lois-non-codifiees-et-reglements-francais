@@ -10,8 +10,6 @@ Les matériaux et objets en matière plastique mentionnés à l'alinéa précéd
 
 - les résines époxydes ;
 
-- les produits obtenus par fermentation bactérienne ;
-
 - les adhésifs et promoteurs d'adhésion ;
 
 - les encres d'imprimerie.
