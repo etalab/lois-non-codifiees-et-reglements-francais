@@ -299,6 +299,7 @@
 - [Arrêté du 28 février 1990 (LOGC8900037A)](arrete-du-28-fevrier-1990-logc8900037a)
 - [Arrêté du 28 février 1990 (LOGC9000030A)](arrete-du-28-fevrier-1990-logc9000030a)
 - [Arrêté du 28 mars 1990 (CPTP9000004A)](arrete-du-28-mars-1990-cptp9000004a)
+- [Arrêté du 28 mars 1990 (ECOC9000031A)](arrete-du-28-mars-1990-ecoc9000031a)
 - [Arrêté du 28 mars 1990 (SPSH9000748A)](arrete-du-28-mars-1990-spsh9000748a)
 - [Arrêté du 28 mars 1990 (SPSS9000802A)](arrete-du-28-mars-1990-spss9000802a)
 - [Arrêté du 28 mars 1990 (SPSS9000803A)](arrete-du-28-mars-1990-spss9000803a)
