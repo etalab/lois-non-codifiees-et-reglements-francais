@@ -1,5 +1,13 @@
 # Article 6
 
-Chaque personne imposable du ménage doit produire l'avis d'imposition qui lui a été délivré par le directeur des impôts pour l'acquit de l'impôt sur le revenu au titre de l'année visée à l'article 5 au directeur départemental de l'équipement lors du dépôt de la demande de prime.
+La demande d'autorisation pour les plates-formes visées à l'article précédent est à adresser au préfet, ou au préfet maritime lorsque la plate-forme est située dans le domaine maritime, en quatre exemplaires par la personne physique ou morale de droit privé qui désire utiliser la plate-forme. Elle doit préciser les nom et prénoms ou désignation et l'adresse du demandeur et doit être accompagnée d'un dossier comportant les pièces suivantes :
 
-Les candidats non imposables à l'impôt sur le revenu doivent produire un avis de non-imposition délivré par le directeur des impôts.
+- feuille ou assemblage de feuilles de la carte de la France au 1/50 000 indiquant l'emplacement de la plate-forme ;
+
+- un extrait du plan cadastral précisant les limites domaniales de la plate-forme ;
+
+- une notice précisant les caractéristiques d'utilisation de la plate-forme et indiquant ses dimensions, ses dégagements et les mesures de sécurité prévues ;
+
+- une déclaration de la personne ayant la jouissance de la plate-forme ou de l'autorité administrative compétente donnant l'accord sur l'utilisation envisagée.
+
+Il est délivré récépissé de la demande.
