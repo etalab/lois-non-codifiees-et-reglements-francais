@@ -1212,7 +1212,6 @@
 - [Arrêté du 30 avril 1997 (TASS9721616A)](arrete-du-30-avril-1997-tass9721616a)
 - [Arrêté du 30 décembre 1996 (DEFP9701013A)](arrete-du-30-decembre-1996-defp9701013a)
 - [Arrêté du 30 décembre 1996 (DEFP9701014A)](arrete-du-30-decembre-1996-defp9701014a)
-- [Arrêté du 30 décembre 1996 (EQUB9601770A)](arrete-du-30-decembre-1996-equb9601770a)
 - [Arrêté du 30 décembre 1996 (EQUS9601603A)](arrete-du-30-decembre-1996-equs9601603a)
 - [Arrêté du 30 décembre 1996 (INTC9700001A)](arrete-du-30-decembre-1996-intc9700001a)
 - [Arrêté du 30 décembre 1996 (JUSA9700002A)](arrete-du-30-decembre-1996-jusa9700002a)
