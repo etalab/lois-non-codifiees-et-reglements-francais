@@ -23,3 +23,5 @@ Pour les décisions devenues définitives à la suite du rejet d'un pourvoi en c
 3° La mise en recouvrement des condamnations prononcées par ordonnances pénales est effectuée dans les conditions et selon les modalités fixées par les articles R. 48, R. 48-1 et R. 48-2 du code de procédure pénale.
 
 4° La mise en recouvrement des amendes forfaitaires majorées est effectuée dans les conditions et selon les modalités prévues par les articles R. 49-5 et R. 49-6 du code de procédure pénale.
+
+Les amendes forfaitaires émises pour des contraventions constatées en application de l'article L. 130-9 du code de la route, qui n'ont pas été payées et n'ont pas fait l'objet d'une requête en procédure pénale, sont majorées. Les titres exécutoires sont signés par l'officier du ministère public du lieu de constatation de l'infraction, et transmis à chaque comptable principal du trésor dont dépend le domicile du contrevenant.
