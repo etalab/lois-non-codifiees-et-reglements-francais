@@ -8,6 +8,6 @@ La déclaration est produite auprès de l'administration des douanes sur support
 
 - pour les autres opérations, le mois au cours duquel a eu lieu le mouvement de marchandises.
 
-Lorsque la déclaration est produite sur support papier, elle est obligatoirement établie sur les formulaires C.E.R.F.A. n° 30-2943 ou n° 30-2944 intitulés "Déclaration d'échanges de biens entre Etats membres de la CEE". Des dérogations peuvent être accordées aux entreprises remplissant les conditions déterminées par arrêté.
+Lorsque la déclaration est produite sur support papier, elle est obligatoirement établie sur les formulaires CERFA intitulés "Déclaration d'échanges de biens entre Etats membres de la CEE" ou "Déclaration simplifiée d'échanges de biens entre Etats membres de la CEE". Des dérogations peuvent être accordées aux entreprises remplissant les conditions déterminées par arrêté.
 
 La déclaration est souscrite, datée et signée par la personne mentionnée à l'article 1er ou par la tierce personne mandatée expressément à cet effet.
