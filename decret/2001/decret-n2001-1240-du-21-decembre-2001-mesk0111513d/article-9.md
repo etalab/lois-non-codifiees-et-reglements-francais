@@ -1,0 +1,3 @@
+# Article 9
+
+La ministre de l'emploi et de la solidarité, la garde des sceaux, ministre de la justice, le ministre de l'intérieur, le ministre de l'éducation nationale, le ministre des affaires étrangères, le ministre de la défense, le ministre de l'équipement, des transports et du logement, le secrétaire d'Etat à l'outre-mer, la secrétaire d'Etat au logement, le secrétaire d'Etat au tourisme et la secrétaire d'Etat aux droits des femmes et à la formation professionnelle sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
