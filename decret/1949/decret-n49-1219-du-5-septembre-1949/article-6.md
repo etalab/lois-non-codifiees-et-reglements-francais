@@ -1,3 +1,11 @@
 # Article 6
 
-Le ministre de la défense nationale est chargé de l'application du présent décret qui sera publié au Journal officiel de la République française.
+La médaille de la gendarmerie nationale sera, suivant la qualité de l'action récompenser, accompagnée d'une citation à l'ordre :
+
+- de la gendarmerie avec palme de bronze ;
+
+- du corps d'armée avec étoile de vermeil ;
+
+- de la division avec étoile d'argent ;
+
+- de la brigade ou du régiment avec étoile de bronze.

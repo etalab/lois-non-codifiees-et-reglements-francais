@@ -1,3 +1,3 @@
 # Article 2
 
-La médaille de la gendarmerie natiopnale comporte une seule classe ; elle est accordée sans traitement.
+Une brève citation rappelle, avec précision, le comportement du bénéficiaire à l'occasion des faits ayant motivé l'attribution de la décoration.
