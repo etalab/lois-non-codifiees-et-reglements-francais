@@ -729,6 +729,7 @@
 - [Décret n°2002-1272 du 18 octobre 2002 (EQUB0201217D)](decret-n2002-1272-du-18-octobre-2002-equb0201217d)
 - [Décret n°2002-1273 du 18 octobre 2002 (AGRP0202063D)](decret-n2002-1273-du-18-octobre-2002-agrp0202063d)
 - [Décret n°2002-1283 du 18 octobre 2002 (INDI0220198D)](decret-n2002-1283-du-18-octobre-2002-indi0220198d)
+- [Décret n°2002-1358 du 18 novembre 2002 (SANH0223509D)](decret-n2002-1358-du-18-novembre-2002-sanh0223509d)
 - [Décret n°2002-210 du 18 février 2002 (JUSC0220045D)](decret-n2002-210-du-18-fevrier-2002-jusc0220045d)
 - [Décret n°2002-215 du 18 février 2002 (ECOI0200038D)](decret-n2002-215-du-18-fevrier-2002-ecoi0200038d)
 - [Décret n°2002-216 du 18 février 2002 (JUSB0210059D)](decret-n2002-216-du-18-fevrier-2002-jusb0210059d)
