@@ -1,0 +1,3 @@
+# Article 81
+
+Pour l'exécution des contrats d'assurance souscrits par l'association nationale des syndics administrateurs judiciaires de France, par la compagnie des administrateurs judiciaires liquidateurs de sociétés près le tribunal de commerce de Paris, ou par la compagnie des administrateurs judiciaires et séquestres près le tribunal de grande instance de Paris, afférents aux procédures ouvertes avant l'entrée en vigueur de la loi n° 85-99 du 25 janvier 1985, ainsi que pour l'exécution des contrats de retraite collectifs souscrits antérieurement à la date d'entrée en vigueur de cette loi par tout ou partie de ses membres, la caisse de garantie est substituée de plein droit à ces associations ou compagnie [*mesures d'application*].

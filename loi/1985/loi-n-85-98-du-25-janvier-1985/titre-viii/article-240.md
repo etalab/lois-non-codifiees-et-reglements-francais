@@ -1,0 +1,9 @@
+# Article 240
+
+Les dispositions de la présente loi ne sont applicables qu'aux procédures ouvertes après leur entrée en vigueur [*mesures d'application - dispositions transitoires*].
+
+Toutefois, lorsqu'une procédure de règlement judiciaire régie par la loi n° 67-563 du 13 juillet 1967 précitée est convertie en liquidation des biens après l'entrée en vigueur de la présente loi, le tribunal peut, dans un seul et même jugement, à la demande du procureur de la République, si des cessions à forfait sont envisagées, décider que les dispositions de la présente loi relatives à la cession d'entreprise sont applicables à l'exception de celles du troisième alinéa de l'article 92. A cet effet, il nomme un administrateur chargé de soumettre au tribunal le projet de plan de cession et d'assurer provisoirement la gestion. Le syndic exerce les fonctions dévolues au représentant des créanciers. Si le plan de cession est rejeté, les dispositions du titre III de la présente loi sont applicables à cette procédure, à l'exception de celles des articles 169 et 170.
+
+Dans les procédures de règlement judiciaire ou de liquidation des biens en cours, après l'entrée en vigueur de la présente loi, toute somme perçue par le syndic dans l'exercice de ses fonctions et pour le compte des créanciers ou du débiteur qu'il assiste ou représente est immédiatement versée en compte de dépôt à la Caisse des dépôts et consignations ou sur les comptes bancaires ou postaux de l'entreprise en règlement judiciaire ou liquidation des biens. En cas de retard, le syndic doit, pour les sommes qu'il n'a pas versées, un intérêt dont le taux est égal aux taux de l'intérêt légal majoré de cinq points.
+
+Les dispositions du quatrième alinéa de l'article 195 s'appliquent aux faillites personnelles et aux autres sanctions prononcées en application des articles 105 à 109 de la loi n° 67-563 du 13 juillet 1967 précitée, dès l'entrée en vigueur de la présente loi.

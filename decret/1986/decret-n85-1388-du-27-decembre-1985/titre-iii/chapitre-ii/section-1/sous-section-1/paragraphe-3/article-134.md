@@ -1,0 +1,3 @@
+# Article 134
+
+Les enchères peuvent être faites sans ministère d'avocat. Si aucune enchère n'atteint le montant de la mise à prix, le notaire constate l'offre la plus élevée et peut adjuger le bien à titre provisoire pour le montant de cette offre. Le juge-commissaire qui a fixé la mise à prix, saisi à la requête du notaire ou de tout intéressé peut, soit déclarer l'adjudication définitive et la vente réalisée, soit ordonner qu'une nouvelle vente aura lieu suivant l'une des formes prescrites par l'article 154 de la loi du 25 janvier 1985. Si la nouvelle vente est une vente aux enchères, il fixe le délai de la nouvelle vente sans que ce délai puisse être inférieur à quinze jours, la mise à prix ainsi que les modalités de publicité.

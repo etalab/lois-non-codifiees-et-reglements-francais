@@ -1,0 +1,7 @@
+# Article 58
+
+Les administrateurs judiciaires et les mandataires liquidateurs [*attributions - obligations*] tiennent pour chaque affaire une comptabilité spéciale de l'ensemble des mouvements qui affectent les comptes ouverts à la Caisse des dépôts et consignations en vertu de leur mandat judiciaire ainsi que des opérations liées à ces mouvements.
+
+Leur comptabilité arrêtée au 31 décembre fait l'objet d'un contrôle annuel effectué par un commissaire aux comptes choisi par le mandataire de justice sur une liste établie, après avis de la compagnie régionale des commissaires aux comptes compétente, par le magistrat chargé de l'inspection. Ces mandataires de justice font parvenir chaque année au magistrat chargé de l'inspection, au procureur de la République près le tribunal de grande instance dans le ressort duquel se situe leur domicile professionnel et au commissaire du Gouvernement placé auprès de la caisse de garantie une attestation de la vérification de leur comptabilité délivrée par un commissaire aux comptes.
+
+A défaut par le mandataire de justice d'avoir adressé avant le 15 mars au magistrat chargé de l'inspection, l'attestation prévue à l'alinéa précédent ou si celle-ci fait apparaître des manquements ou des irrégularités, ce magistrat en informe le commissaire du Gouvernement auprès de la commission compétente, aux fins de poursuites disciplinaires éventuelles [*sanctions*].

@@ -1,0 +1,3 @@
+# Article 110
+
+Les anciens syndics et administrateurs judiciaires, les anciens administrateurs judiciaires liquidateurs de sociétés et les administrateurs judiciaires en matière civile qui n'auront pas demandé à être inscrits sur une liste pourront poursuivre jusqu'à leur achèvement les missions qu'ils avaient reçues antérieurement à l'entrée en vigueur de la loi n° 85-98 du 25 janvier 1985 à moins que les activités professionnelles qu'ils exerceront postérieurement à cette date soient incompatibles avec un mandat de justice. Dans ce cas, leurs dossiers seront répartis par la juridiction comme il est dit aux articles 9 et 24 de la loi n° 85-99 du 25 janvier 1985.

@@ -10,10 +10,12 @@ C - L'indication du pays d'origine pour les bananes étrangères, ou du nom du d
 
 D - La catégorie de classement ;
 
-E - Pour les fruits désignés à l'alinéa 3 de l'article 5 ci-dessus, l'indication correspondante "Mûr d'arrivage" ou "Bananes reconditionnées".
+E - Pour les fruits désignés aux deuxième et troisième alinéas de l'article 5, l'indication correspondante "mûr d'arrivage" ou "tout venant".
+
+F - Facultativement, les conditions à respecter pour l'entreposage, les manipulations, le transport et la vente au détail.
 
 Les factures et bons de transport établis aux stades antérieurs à l'arrivée en mûrisserie doivent reproduire toutes les indications ci-dessus. Ils doivent en outre comporter le nom du navire transporteur, sa date d'arrivée et le port de débarquement.
 
-Les factures et bons de transport accompagnant les lots désignés au deuxième alinéa de l'article 5 du présent texte doivent porter la mention "Tout venant".
+Les factures et bons de transport accompagnant les lots désignés aux deuxième et troisième alinéas de l'article 5 doivent porter la mention "mûr d'arrivage" ou "Tout venant".
 
 Lorsque les bananes sont présentées à la vente au détail, les indications prévues aux points C et D du présent article doivent figurer de façon très apparente, soit sur une étiquette, soit sur une pancarte.

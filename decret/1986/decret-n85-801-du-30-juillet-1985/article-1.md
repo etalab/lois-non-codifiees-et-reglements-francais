@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé un établissement public industriel et commercial qui prend le nom de "Union des groupements d'achats publics" placé sous la tutelle du ministre chargé de l'économie, des finances et du budget et du ministre chargé de l'éducation nationale. Cet établissement a pour objet d'acheter et de céder des produits et services destinés aux personnes publiques et aux organismes de statut privé assurant une mission de service public, d'apporter à ces personnes et organismes l'assistance technique dont ils peuvent avoir besoin en matière d'équipement et d'approvisionnement et d'apporter son concours à des opérations d'exportation d'intérêt général.

@@ -1,0 +1,3 @@
+# Article 8
+
+Lorsque, en application de l'article 70 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises, la décision arrêtant ou modifiant le plan de continuation de l'entreprise prononce l'inaliénabilité temporaire de biens mobiliers d'équipement du débiteur et est passée en force de chose jugée, le débiteur ou, à défaut, le commissaire à l'exécution du plan demande l'inscription de la mesure d'inaliénabilité sur le registre prévu à l'article premier du décret du 28 août 1909 pris pour l'application des lois du 17 mars et 1er avril 1909 sur la vente et le nantissement des fonds de commerce.

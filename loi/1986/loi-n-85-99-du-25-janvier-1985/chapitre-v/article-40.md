@@ -1,0 +1,3 @@
+# Article 40
+
+Par dérogation aux dispositions des articles 9 et 24, les professionnels âgés de plus de cinquante-cinq ans et inscrits sur une liste de syndics ou d'administrateurs judiciaires à la date d'entrée en vigueur de la présente loi pourront continuer à figurer sur la liste des administrateurs judiciaires ou sur l'une des listes de mandataires liquidateurs jusqu'à l'âge de soixante-dix ans. Lesdits professionnels âgés de plus de cinquante ans et de moins de cinquante-cinq ans à la date d'entrée en vigueur de la présente loi pourront continuer à figurer sur l'une des listes précitées pendant une durée de quinze ans.

@@ -1,0 +1,16 @@
+# Décret n°85-1388 du 27 décembre 1985 relatif au redressement et à la liquidation judiciaires des entreprises
+
+- [Article 1](article-1.md)
+- [Titre Ier : Régime général du redressement judiciaire](titre-ier)
+- [Article 2](article-2.md)
+- [Titre II : Procédure simplifiée.](titre-ii)
+- [Article 3](article-3.md)
+- [Titre III : Liquidation judiciaire](titre-iii)
+- [Article 4](article-4.md)
+- [Titre IV : Voies de recours.](titre-iv)
+- [Article 5](article-5.md)
+- [Titre V : Dispositions particulières aux personnes morales et à leurs dirigeants.](titre-v)
+- [Titre VI : Dispositions diverses.](titre-vi)
+- [Titre VII : Dispositions transitoires.](titre-vii)
+- [Titre VIII : Dispositions finales.](titre-viii)
+- [Article 200](article-200.md)

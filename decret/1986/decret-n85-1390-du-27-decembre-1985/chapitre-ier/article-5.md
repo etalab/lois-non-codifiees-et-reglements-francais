@@ -1,0 +1,3 @@
+# Article 5
+
+Lorsque l'administrateur judiciaire est assisté d'un expert en diagnostic d'entreprise pour l'établissement du bilan économique et social, le président du tribunal saisi, sur proposition du juge commissaire, peut affecter la rémunération de l'administrateur judiciaire prévue aux articles 3 et 4 d'un coefficient compris entre 0,6 et 0,9. Il en est de même lorsque ce bilan a été établi par l'expert en diagnostic d'entreprise au cours de la procédure de règlement amiable ayant précédé l'ouverture de la procédure de redressement judiciaire dans le cas prévu à l'article 5 de la loi n° 85-98 du 25 janvier 1985 [*pouvoirs du juge*].

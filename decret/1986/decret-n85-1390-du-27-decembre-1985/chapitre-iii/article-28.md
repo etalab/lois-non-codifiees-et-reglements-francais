@@ -1,0 +1,3 @@
+# Article 28
+
+La décision arrêtant, conformément aux dispositions de l'article 27 les émoluments des administrateurs judiciaires, commissaires à l'exécution du plan, représentants des créanciers et liquidateurs, est dans les quinze jours de sa date notifiée au ministère public, à la partie débitrice, et selon le cas à l'administrateur judiciaire ou au mandataire liquidateur concerné par le greffier en chef de la juridiction, par lettre recommandée avec demande d'avis de réception [*conditions de forme - information*]. La lettre de notification indique le délai et les modalités selon lesquelles la contestation peut être portée devant le président du tribunal de grande instance territorialement compétent [*recours*].

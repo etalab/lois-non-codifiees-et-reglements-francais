@@ -1,0 +1,3 @@
+# Article 111
+
+Après l'audition en chambre du conseil des parties et des personnes mentionnées à l'article 6 de la loi du 25 janvier 1985, le tribunal ouvre la procédure en ordonnant l'enquête prévue à l'article 140 de la loi précitée. Le tribunal peut indiquer aux parties présentes la date de l'audience à laquelle il sera statué sur le rapport d'enquête conformément à l'article 142 de cette même loi. Cette indication tient lieu de convocation. Les personnes qui ne sont pas présentes ou représentées sont averties de la date de cette audience par les soins du greffier [*information*]. Le rapport d'enquête du juge-commissaire peut être présenté oralement.

@@ -12,7 +12,7 @@ Toutefois, les employeurs sont exonérés totalement ou partiellement de cette o
 
 - ou bien ils justifient avoir versé des fonds à cette fin à un organisme de mutualisation.
 
-II - Les employeurs assujettis à la participation au financement de la formation professionnelle continue doivent s'acquitter d'une partie de leurs obligations en effectuant au Trésor public, au plus tard le 15 septembre, un versement égal à 0,2 p. 100 du montant, entendu au sens des articles 235 ter E et suivants du code général des impôts, des salaires versés au cours de l'année précédente, majorés d'un taux de 5 p. 100 en 1985. Cette cotisation est établie et recouvrée selon les mêmes modalités et sous les mêmes garanties et sanctions que la participation des employeurs au financement de la formation professionnelle continue.
+II - Les employeurs assujettis à la participation au financement de la formation professionnelle continue doivent s'acquitter d'une partie de leurs obligations en effectuant au Trésor public, au plus tard le 15 septembre, un versement égal à 0,2 p. 100 du montant, entendu au sens des articles 235 ter E et suivants du code général des impôts, des salaires versés au cours de l'année précédente, majorés d'un taux de 3,4 p. 100 en 1986. Cette cotisation est établie et recouvrée selon les mêmes modalités et sous les mêmes garanties et sanctions que la participation des employeurs au financement de la formation professionnelle continue.
 
 Toutefois, les employeurs sont exonérés totalement ou partiellement de cette obligation lorsqu'ils ont consenti des dépenses pour des actions de formation alternée de jeunes au titre des articles L. 980-2 et L. 980-6 du code du travail, ou des stages d'initiation à la vie professionnelle mentionnés à l'article L. 980-9 du même code, et qu'ils se trouvent dans l'un des deux cas suivants :
 
@@ -24,7 +24,7 @@ Toutefois, les employeurs sont exonérés totalement ou partiellement de cette o
 
 - ou bien ils justifient avoir versé des fonds à cette fin à un organisme de mutualisation.
 
-III - Dans les cas mentionnés aux paragraphes I et II ci-dessus, les dépenses sont évaluées forfaitairement à 375 F par jeune et par mois de présence en entreprise pour les stages. Elles sont fixées à 46 F par heure de formation pour les contrats d'adaptation à l'emploi et à 25 F par heure de formation pour les contrats de qualification. Pour ces derniers, lorsque le temps de formation excède 25 p. 100 des horaires faits, les dépenses sont fixées à 40 F par heure supplémentaire.
+III - Dans les cas mentionnés aux paragraphes I et II ci-dessus, les dépenses sont évaluées forfaitairement à 375 F par jeune et par mois de présence en entreprise pour les stages. Elles sont fixées à 50 F par heure de formation pour les contrats d'adaptation à l'emploi et pour les contrats de qualification.
 
 Ces montants sont applicables, que les dépenses aient été exposées par les employeurs eux-mêmes ou par l'organisme collecteur auquel ils ont versé les sommes correspondant à leur obligation légale de financement. Dans ce dernier cas, les employeurs sont réputés s'être acquittés de leur obligation à concurrence des versements effectués, sans préjudice des dépenses qu'ils auront éventuellement exposées pour l'organisation directe des actions de formation des jeunes mentionnées dans la présente loi.
 
@@ -34,7 +34,7 @@ IV - Les organismes collecteurs chargés de recueillir des fonds dans les condit
 
 Leur activité de mutualisation est subordonnée à un agrément de l'Etat.
 
-A défaut de pouvoir justifier une affectation des fonds conforme à celle définie aux paragraphes I et II ci-dessus, les organismes collecteurs sont tenus de procéder au versement des sommes correspondantes au Trésor public.
+A défaut de pouvoir justifier une affectation des fonds conforme à celle définie aux paragraphes I et II ci-dessus, les organismes collecteurs sont tenus de procéder au versement des sommes correspondantes au Trésor public, ou, dans le cas des branches pour lesquelles il existe des dispositions légales et règlementaires imposant par ailleurs des efforts spécifiques pour la formation des jeunes, déductibles du 1,1 p. 100 de la formation continue, d'affecter les fonds issus du 0,2 p. 100 à des actions destinées à la formation continue de jeunes salariés de moins de vingt-six ans, pour un montant et dans des conditions définies par un accord conclu annuellement, au niveau de la branche, entre les organisations professionnelles et syndicales et l'Etat.
 
 V - L'exonération mentionnée au paragraphe I porte sur les dépenses engagées entre le 1er janvier et le 31 décembre de l'année précédant celle au cours de laquelle la cotisation est exigible.
 

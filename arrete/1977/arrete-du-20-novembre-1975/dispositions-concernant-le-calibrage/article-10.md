@@ -16,7 +16,7 @@ CATEGORIES :
 
 Extra : 17 cm (1)
 
-I : 16 cm (1)
+I : 15 cm (1)
 
 II : 15 cm (1).
 
@@ -28,9 +28,11 @@ Extra : 34 mm pour les fruits de 17 à 20 cm.
 
 35 mm pour les fruits de plus de 20 cm.
 
-I : 32 mm pour les fruits de 16 à 20 cm.
+I : 31 mm pour les fruits de 15 à 17 cm.
 
-34 mm pour les fruits de plus de 20 cm.
+32 mm pour les fruits de plus de 17 à 20 cm inclus.
+
+33 mm pour les fruits de plus de 20 cm.
 
 II : 30 mm pour les fruits de 15 à 17 cm.
 

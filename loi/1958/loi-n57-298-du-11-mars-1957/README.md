@@ -8,5 +8,6 @@
 - [De la procédure.](de-la-procedure)
 - [Des droits des auteurs.](des-droits-des-auteurs)
 - [Du contrat d'édition.](du-contrat-d-edition)
+- [Du contrat de production audiovisuelle.](du-contrat-de-production-audiovisuelle)
 - [Du contrat de représentation.](du-contrat-de-representation)
 - [Sanctions.](sanctions)
