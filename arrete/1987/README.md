@@ -751,7 +751,6 @@
 - [Arrêté du 30 juin 1987 (MCCE8700302A)](arrete-du-30-juin-1987-mcce8700302a)
 - [Arrêté du 30 juin 1987 (MCCE8700304A)](arrete-du-30-juin-1987-mcce8700304a)
 - [Arrêté du 30 juin 1987 (MERE8700097A)](arrete-du-30-juin-1987-mere8700097a)
-- [Arrêté du 30 juin 1987 (MERR8700101A)](arrete-du-30-juin-1987-merr8700101a)
 - [Arrêté du 30 juin 1987 (MERR8700102A)](arrete-du-30-juin-1987-merr8700102a)
 - [Arrêté du 30 juin 1987 (PTTT8700452A)](arrete-du-30-juin-1987-pttt8700452a)
 - [Arrêté du 30 juin 1987 (PTTT8700453A)](arrete-du-30-juin-1987-pttt8700453a)
