@@ -97,6 +97,7 @@
 - [Arrêté du 6 février 1990 (SPSN9000305A)](arrete-du-6-fevrier-1990-spsn9000305a)
 - [Arrêté du 6 février 1990 (TOUR9004511A)](arrete-du-6-fevrier-1990-tour9004511a)
 - [Arrêté du 6 juillet 1990 (AGRG9000881A)](arrete-du-6-juillet-1990-agrg9000881a)
+- [Arrêté du 6 juin 1990 (DEFD9001632A)](arrete-du-6-juin-1990-defd9001632a)
 - [Arrêté du 6 mars 1990 (ECOC9000013A)](arrete-du-6-mars-1990-ecoc9000013a)
 - [Arrêté du 6 mars 1990 (SPSS9000511A)](arrete-du-6-mars-1990-spss9000511a)
 - [Arrêté du 6 mars 1990 (SPSS9000512A)](arrete-du-6-mars-1990-spss9000512a)
