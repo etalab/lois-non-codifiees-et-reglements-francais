@@ -2,4 +2,5 @@
 
 - [Article 1](article-1.md)
 - [TITRE III : Déclaration préalable des projets de travaux dans les site inscrits à l'inventaire.](titre-iii)
+- [Commission départementale des sites](commission-departementale-des-sites)
 - [Commission supérieure des sites](commission-superieure-des-sites)
