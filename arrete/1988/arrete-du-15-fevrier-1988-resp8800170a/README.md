@@ -1,4 +1,4 @@
-# Décret n°83-371 du 4 mai 1983 portant création du Haut Comité du thermalisme et du climatisme
+# Arrêté du 15 février 1988 fixant les conditions d'inscription sur les listes électorales et les modalités des élections de représentants des maîtres de conférences, maîtres-assistants et chefs de travaux dans les commissions de spécialistes
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -15,3 +15,5 @@
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
 - [Article 15](article-15.md)
+- [Article 16](article-16.md)
+- [Article 17](article-17.md)

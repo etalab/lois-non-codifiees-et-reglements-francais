@@ -1,4 +1,4 @@
-# Décret n°83-371 du 4 mai 1983 portant création du Haut Comité du thermalisme et du climatisme
+# Décret n°88-146 du 15 février 1988 relatif aux commissions de spécialistes de l'enseignement supérieur
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -14,4 +14,3 @@
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
-- [Article 15](article-15.md)
