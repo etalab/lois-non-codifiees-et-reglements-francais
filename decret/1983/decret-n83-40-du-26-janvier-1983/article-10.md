@@ -30,7 +30,7 @@ Paragraphe 5. Des modalités de contrôle différentes complétant ou se substit
 
 Paragraphe 6. Le bulletin de paie, ou un document mensuel annexé au bulletin de paie, doit préciser le total cumulé des heures supplémentaires effectuées et des repos compensateurs ou récupérateurs acquis par le salarié depuis le début de l'année civile.
 
-Le bulletin de paie, ou le document mensuel annexé mentionné au précédent alinéa, doit comporter obligatoirement, pour les personnels de conduite affectés, dans les transports routiers de marchandises, à des services leur faisant obligation de prendre au moins six repos journaliers par mois hors du domicile, et, pour les personnels de conduite affectés, dans les entreprises de déménagement, à des services leur faisant obligation de prendre au moins quarante repos journaliers par an hors du domicile, sans préjudice des dispositions de l'article R. 143-2 et des articles D. 212-18 à D. 212-20 et D. 212-23 du code du travail, après régularisation éventuelle le mois suivant, compte tenu du délai nécessaire à leur connaissance effective :
+Le bulletin de paie, ou le document mensuel annexé mentionné au précédent alinéa, doit comporter obligatoirement, pour les personnels de conduite affectés, dans les transports routiers de marchandises, à des services leur faisant obligation de prendre au moins six repos journaliers par mois hors du domicile, et, pour les personnels roulants affectés, dans les entreprises de déménagement, à des services leur faisant obligation de prendre au moins quarante repos journaliers par an hors du domicile sans préjudice des dispositions de l'article R. 143-2 et des articles D. 212-18 à D. 212-20 et D. 212-23 du code du travail, après régularisation éventuelle le mois suivant, compte tenu du délai nécessaire à leur connaissance effective :
 
 - la durée des temps de conduite ;
 
@@ -42,4 +42,4 @@ Le bulletin de paie, ou le document mensuel annexé mentionné au précédent al
 
 - les informations relatives aux repos compensateurs ou récupérateurs acquis en fonction des durées de temps de service effectuées.
 
-Le bulletin de paie, ou le document mensuel annexé, établi pour les conducteurs qui ont effectué dans le mois considéré des services en double équipage, visés au paragraphe 5 de l'article 5 du présent décret, doit mentionner l'intégralité des temps passés par ces conducteurs au service de leur employeur, avant prise en compte du coefficient de 50 p. 100 visé audit paragraphe.
+Le bulletin de paie, ou le document mensuel annexé, établi par les conducteurs qui ont effectué dans le mois considéré des services en double équipage, visés au paragraphe 5 de l'article 5 du présent décret, doit mentionner l'intégralité des temps passés par ces conducteurs au service de leur employeur, avant prise en compte du coefficient de 50 p. 100 visé audit paragraphe.
