@@ -1,6 +1,6 @@
 # Article 1
 
-Jusqu'au 31 décembre 2001, les fabricants relevant du centre technique de la conservation des produits agricoles sont redevables annuellement envers celui-ci, dans les conditions déterminées ci-après, d'une taxe assise sur le montant des ventes réalisées par eux et portant sur les fabrications suivantes :
+Jusqu'au 31 décembre 2003, les fabricants relevant du centre technique de la conservation des produits agricoles sont redevables annuellement envers celui-ci, dans les conditions déterminées ci-après, d'une taxe assise sur le montant des ventes réalisées par eux et portant sur les fabrications suivantes :
 
 Catégorie 1 :
 
