@@ -6,19 +6,11 @@ Attribution de la nouvelle bonification indiciaire
 
 au Conseil économique et social
 
-DÉFINITION DE L'EMPLOI
+DÉFINITION DE L'EMPLOI justifiant de l'obtention de la nouvelle bonification indiciaire.
 
-justifiant de l'obtention
+NIVEAU DE L'EMPLOI justifiant de l'obtention de la nouvelle bonification indiciaire
 
-de la nouvelle bonification indiciaire
-
-NIVEAU DE L'EMPLOI
-
-justifiant de l'obtention
-
-de la nouvelle bonification indiciaire
-
-1° Responsable du service de la documentation.
+1° Responsable du service interieur, du bureau du materiel et des travaux.
 
 Emploi administratif du niveau de la catégorie A.
 
@@ -63,5 +55,43 @@ Emploi administratif du niveau de la catégorie C.
 Emploi administratif du niveau de la catégorie C.
 
 12° Adjoint au chef de garage.
+
+Emploi technique du niveau de la catégorie C.
+
+13. Agent responsable du bureau des voyages.
+
+Emploi administratif du niveau de la catégorie B ou C.
+
+14. Agent responsable du service des archives et de la distribution.
+
+Emploi administratif du niveau de la catégorie B ou C.
+
+15. Agent responsable de la maintenance informatique.
+
+Emploi administratif du niveau de la catégorie B ou C.
+
+16. Agent responsable de l'atelier de composition.
+
+Emploi administratif du niveau de la catégorie B ou C.
+
+17. Agent responsable du secrétariat d'un directeur.
+
+Emploi administratif du niveau de la catégorie B ou C.
+
+18. Agent responsable des dossiers des membres du conseil.
+
+Emploi administratif du niveau de la catégorie C.
+
+19. Agent responsable de la paie des membres du conseil.
+
+Emploi administratif du niveau de la catégorie C.
+
+20. Agent responsable de la buvette.
+
+Emploi technique du niveau de la catégorie C.
+
+21. Agent responsable du système de chauffage et de la
+
+climatisation.
 
 Emploi technique du niveau de la catégorie C.
