@@ -10,11 +10,11 @@ Décret n° 65-323 du 23 avril 1965 modifié relatif au statut particulier des s
 
 Décret n° 67-493 du 22 juin 1967 modifié relatif au statut particulier des secrétaires en chef de préfecture.
 
+Décret n° 68-478 du 29 mai 1968 modifié relatif au statut particulier des secrétaires techniques de la caisse des dépôts et consignations.
+
 Section 6 du décret n° 69-222 du 6 mars 1969 modifié relatif au statut particulier des agents diplomatiques et consulaires en ce qui concerne le corps des secrétaires de chancellerie.
 
 Décret n° 70-902 du 2 octobre 1970 modifié relatif au statut particulier des secrétaires administratifs et des chefs de section du ministère de l'équipement et du logement.
-
-Décret n° 71-374 du 14 mai 1971 modifié relatif au statut particulier des secrétaires techniques de la Caisse des dépôts et consignations.
 
 Décret n° 72-952 du 19 octobre 1972 modifié relatif au statut particulier des secrétaires administratifs des services déconcentrés du ministère de la défense nationale.
 
