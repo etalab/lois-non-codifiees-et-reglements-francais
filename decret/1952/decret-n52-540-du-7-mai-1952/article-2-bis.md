@@ -24,7 +24,7 @@ Marseille - Golfe de Fos.
 
 Fort-de-France.
 
-En 18ème catégorie lorsqu'ils relèvent des stations de :
+Nouméa.    En 18ème catégorie lorsqu'ils relèvent des stations de :
 
 Calais.
 
@@ -60,8 +60,6 @@ La Réunion.
 
 La Guyane.
 
-Nouméa.
-
 Papeete.
 
 Djibouti.
@@ -74,4 +72,4 @@ II - Les fonctions de pilote exercées dans un port français à titre accessoir
 
 III - Les marins rémunérés par un employeur français exerçant en haute mer, à titre d'activité principale, le pilotage des navires français ou étrangers, sont classés en 18ème catégorie.
 
-IV - Les marins exerçant, à titre d'activité principale, les fonctions de pilote dans un port étranger et qui sont admis, en application de la législation interne française ou d'accords internationaux en matière de sécurité sociale applicables aux gens de mer, à demeurer affiliés au régime de sécurité sociale des marins français sont classés conformément aux dispositions du dernier alinéa de l'article 2 du présent décret.
+IV - Les marins exerçant, à titre d'activité principale, les fonctions de pilote dans un port étranger et qui sont admis,en application de la législation interne française ou d'accords internationaux en matière de sécurité sociale applicables aux gensde mer, à demeurer affiliés au régime de sécurité sociale des marins français sont classés conformément aux dispositions du dernier alinéa de l'article 2 du présent décret.
