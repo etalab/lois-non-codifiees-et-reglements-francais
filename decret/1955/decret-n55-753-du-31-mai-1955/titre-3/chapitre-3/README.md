@@ -4,6 +4,7 @@
 - [Article 28 bis](article-28-bis.md)
 - [Article 28 ter](article-28-ter.md)
 - [Article 29](article-29.md)
+- [Article 29-1](article-29-1.md)
 - [Article 30](article-30.md)
 - [Article 31](article-31.md)
 - [Article 32](article-32.md)
