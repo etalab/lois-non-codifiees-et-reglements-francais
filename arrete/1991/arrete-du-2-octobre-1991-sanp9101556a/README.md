@@ -2,5 +2,4 @@
 
 - [TITRE Ier : Des études préparatoires.](titre-ier)
 - [TITRE II : Du diplôme d'Etat.](titre-ii)
-- [TITRE III : Des dispositions transitoires.](titre-iii)
 - [Article 26](article-26.md)

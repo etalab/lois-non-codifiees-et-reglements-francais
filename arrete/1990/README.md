@@ -65,7 +65,6 @@
 - [Arrêté du 2 octobre 1990 (SPSG9002135A)](arrete-du-2-octobre-1990-spsg9002135a)
 - [Arrêté du 2 octobre 1990 (SPSG9002140A)](arrete-du-2-octobre-1990-spsg9002140a)
 - [Arrêté du 2 octobre 1990 (SPSH9002072A)](arrete-du-2-octobre-1990-spsh9002072a)
-- [Arrêté du 2 octobre 1990 (SPSH9002073A)](arrete-du-2-octobre-1990-spsh9002073a)
 - [Arrêté du 2 octobre 1990 (SPSS9002139A)](arrete-du-2-octobre-1990-spss9002139a)
 - [Arrêté du 2 octobre 1990 (TEFT9003858A)](arrete-du-2-octobre-1990-teft9003858a)
 - [Arrêté du 2 mai 1990 (ECOP9000247A)](arrete-du-2-mai-1990-ecop9000247a)
