@@ -1,0 +1,5 @@
+# Article 4
+
+Les dispositions de la présente loi sont applicables aux titulaires de rentes constituées à la Caisse nationale de retraites en application d'un règlement de retraites privées et qui ne bénéficient en sus de leur rente d'aucun avantage soit de la part d'une institution de retraites d'entreprise ou interentreprise visées à l'article 18 de l'ordonnance du 4 octobre 1945, soit d'un régime de retraite institué par une disposition législative ou réglementaire.    La majoration susceptible de leur être attribuée sera, le cas échéant, diminuée des compléments et rentes ou secours viagers attribués à leur profit par leur employeur ou les institutions sociales de l'entreprise. Elle sera également diminuée, le cas échéant, de l'allocation aux vieux travailleurs salariés, de l'allocation temporaire prévue par la loi du 13 septembre 1946 ou de la pension de vieillesse de la loi du 17 janvier 1948, d'une rente ou pension au titre des assurances sociales.
+
+L'arrêté prévu à l'article 16 de la présente loi fixera les justifications à produire.
