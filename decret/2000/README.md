@@ -136,6 +136,7 @@
 - [Décret n°2000-695 du 24 juillet 2000 (ECOB0060008D)](decret-n2000-695-du-24-juillet-2000-ecob0060008d)
 - [Décret n°2000-696 du 24 juillet 2000 (MESS0021522D)](decret-n2000-696-du-24-juillet-2000-mess0021522d)
 - [Décret n°2000-704 du 25 juillet 2000 (AGRB0000165D)](decret-n2000-704-du-25-juillet-2000-agrb0000165d)
+- [Décret du 26 juillet 2000 (AGRP0000729D)](decret-du-26-juillet-2000-agrp0000729d)
 - [Décret n°2000-571 du 26 juin 2000 (INTE0000115D)](decret-n2000-571-du-26-juin-2000-inte0000115d)
 - [Décret n°2000-572 du 26 juin 2000 (EQUP0000216D)](decret-n2000-572-du-26-juin-2000-equp0000216d)
 - [Décret n°2000-573 du 26 juin 2000 (EQUP0000215D)](decret-n2000-573-du-26-juin-2000-equp0000215d)
