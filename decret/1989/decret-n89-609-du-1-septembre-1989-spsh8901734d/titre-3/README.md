@@ -11,7 +11,6 @@
 - [Article 60-II](article-60-ii.md)
 - [Article 60-III](article-60-iii.md)
 - [Article 61](article-61.md)
-- [Article 62](article-62.md)
 - [Article 62-1](article-62-1.md)
 - [Article 62-2](article-62-2.md)
 - [Article 63](article-63.md)

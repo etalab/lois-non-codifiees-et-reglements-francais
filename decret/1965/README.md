@@ -32,7 +32,6 @@
 - [Décret n°65-28 du 13 janvier 1965](decret-n65-28-du-13-janvier-1965)
 - [Décret n°65-692 du 13 août 1965](decret-n65-692-du-13-aout-1965)
 - [Décret n°65-72 du 13 janvier 1965](decret-n65-72-du-13-janvier-1965)
-- [Décret n°65-338 du 14 avril 1965](decret-n65-338-du-14-avril-1965)
 - [Décret n°66-788 du 14 octobre 1966](decret-n66-788-du-14-octobre-1966)
 - [Décret n°66-789 du 14 octobre 1966](decret-n66-789-du-14-octobre-1966)
 - [Décret n°65-1103 du 15 décembre 1965](decret-n65-1103-du-15-decembre-1965)
