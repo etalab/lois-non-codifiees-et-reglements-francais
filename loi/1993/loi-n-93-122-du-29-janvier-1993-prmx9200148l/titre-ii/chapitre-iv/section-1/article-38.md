@@ -1,5 +1,7 @@
 # Article 38
 
+Une délégation de service public est un contrat par lequel une personne morale de droit public confie la gestion d'un service public dont elle a la responsabilité à un délégataire public ou privé, dont la rémunération est substantiellement liée aux résultats de l'exploitation du service. Le délégataire peut être chargé de construire des ouvrages ou d'acquérir des biens nécessaires au service.
+
 Les délégations de service public des personnes morales de droit public sont soumises par l'autorité délégante à une procédure de publicité permettant la présentation de plusieurs offres concurrentes, dans des conditions prévues par un décret en Conseil d'Etat.
 
 La collectivité publique dresse la liste des candidats admis à présenter une offre après examen de leurs garanties professionnelles et financières et de leur aptitude à assurer la continuité du service public et l'égalité des usagers devant le service public.

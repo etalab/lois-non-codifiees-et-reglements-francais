@@ -4,6 +4,7 @@
 - [Loi n° 2001-1062 du 15 novembre 2001 (INTX0100032L)](loi-n-2001-1062-du-15-novembre-2001-intx0100032l)
 - [Loi n° 2001-1066 du 16 novembre 2001 (MESX0004437L)](loi-n-2001-1066-du-16-novembre-2001-mesx0004437l)
 - [Loi n° 2001-111 du 6 février 2001 (JUSX0004033L)](loi-n-2001-111-du-6-fevrier-2001-jusx0004033l)
+- [Loi n° 2001-1168 du 11 décembre 2001 (ECOX0100063L)](loi-n-2001-1168-du-11-decembre-2001-ecox0100063l)
 - [Loi n° 2001-152 du 19 février 2001 (ECOX0000121L)](loi-n-2001-152-du-19-fevrier-2001-ecox0000121l)
 - [Loi n° 2001-337 du 19 avril 2001 (MAEX9900137L)](loi-n-2001-337-du-19-avril-2001-maex9900137l)
 - [Loi n° 2001-338 du 19 avril 2001 (MAEX0000031L)](loi-n-2001-338-du-19-avril-2001-maex0000031l)

@@ -2,11 +2,7 @@
 
 Le collège des professionnels du Conseil national de la consommation est composé de [*composition - nombre*] :
 
-a) Trois représentants du secteur de l'agriculture dont :
-
-Deux représentants des producteurs agricoles proposés l'un par la Fédération nationale des syndicats d'exploitants agricoles et l'autre par la Confédération nationale de la mutualité, de la coopération et du crédit agricole ;
-
-Un représentant de l'assemblée permanente des chambres d'agriculture.
+a) Trois représentants du secteur de l'agriculture ;
 
 b) Douze représentants du secteur de l'industrie, du commerce et des grandes entreprises de services soumises à la concurrence dont :
 

@@ -1,11 +1,17 @@
 # Article 1
 
-La Compagnie nationale du Rhône, outre les missions dont elle est investie en vertu de la loi du 27 mai 1921 modifiée, est chargée, dans les conditions qui seront définies par un avenant à la concession générale consentie en vertu de cette loi :
+La Compagnie nationale du Rhône a notamment pour mission, dans le cadre de la concession générale accordée par l'Etat, de produire et de commercialiser de l'électricité par utilisation de la puissance hydraulique, de favoriser l'utilisation du Rhône comme voie navigable en poursuivant son aménagement et de contribuer à l'irrigation, à l'assainissement et aux autres usages agricoles.
 
-de la construction du canal à grand gabarit allant de Laperrière sur la Saône à Niffer sur le grand canal d'Alsace, de l'aménagement de la Saône de Laperrière à Lyon ;
+Un cahier des charges définit et précise les missions d'intérêt général qui lui sont confiées. Ce cahier des charges est approuvé par décret après avis des conseils généraux et régionaux concernés. Ces avis sont réputés favorables à l'issue d'un délai de quatre mois à compter de la transmission du projet de cahier des charges aux conseils généraux et aux conseils régionaux intéressés.
 
-de l'exploitation et de l'entretien de l'ensemble de la liaison fluviale du Rhône au Rhin.
+La Compagnie générale du Rhône est une société anonyme dont la majorité du capital social et des droits de vote est détenue par des collectivités territoriales ainsi que par d'autres personnes morales de droit public ou des entreprises appartenant au secteur public.
 
-A la demande des collectivités publiques et selon les modalités qui sont définies dans l'acte de concession, la compagnie peut participer à l'aménagement et à la gestion d'équipements annexes, liés à cette exploitation.
+Elle est dotée d'un conseil de surveillance et d'un directoire conformément aux dispositions de l'article L. 225-57 à L. 225-93 du code de commerce.
 
-Les départements, les communes et leurs groupements, ainsi que les établissements publics régionaux intéressés par les opérations visées au présent article seront consultés sur l'implantation des ouvrages dont le canal nécessite la construction.
+Les dispositions législatives relatives aux sociétés anonymes lui sont applicables sous réserve des dispositions suivantes :
+
+1 Le président du directoire est nommé par décret sur proposition du conseil de surveillance ;
+
+2 Le conseil de surveillance comprend notamment des membres élus par le personnel salarié ainsi que des représentants de l'Etat nommés par décret. Ces membres ne sont pas tenus d'être personnellement propriétaires d'actions de la compagnie ;
+
+3 Les modifications des statuts sont adoptés par l'assemblée générale extraordinaire convoquée à cet effet par le conseil de surveillance.

@@ -4,3 +4,4 @@
 - [CHAPITRE II : Organisation de l'agence d'insertion](chapitre-ii)
 - [CHAPITRE II bis : Dispositions financières et comptables.](chapitre-ii-bis)
 - [CHAPITRE III : Dispositions financières et comptables.](chapitre-iii)
+- [CHAPITRE IV : Dispositions relatives aux contrats et actions d'insertion](chapitre-iv)
