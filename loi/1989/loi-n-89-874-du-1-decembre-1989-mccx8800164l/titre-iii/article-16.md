@@ -1,3 +1,0 @@
-# Article 16
-
-Quiconque aura sciemment aliéné ou acquis un bien culturel maritime enlevé du domaine public maritime ou du fond de la mer dans la zone contiguë en infraction aux dispositions des articles 3, 4, 7 et 8 de la présente loi sera puni d'un emprisonnement d'un mois à deux ans et d'une amende de 500 F à 30 000 F ou de l'une de ces deux peines [*sanction*] . Le montant de l'amende pourra être porté au double du prix de la vente du bien. La juridiction pourra, en outre, ordonner la publication par voie de presse de sa décision aux frais du condamné, sans que le coût maximal de cette publication puisse excéder celui de l'amende encourue.
