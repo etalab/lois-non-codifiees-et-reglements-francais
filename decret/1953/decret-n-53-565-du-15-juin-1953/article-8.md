@@ -1,0 +1,3 @@
+# Article 8
+
+Les membres du personnel en fonctions à l'école centrale lyonnaise pourront être intégrés dans les cadres définis à l'article 1er, après avis de l'inspection générale de l'enseignement technique et, le cas échéant, après avis des commissions paritaires compétentes. Les intéressés qui seront intégrés, le seront en qualité de stagiaires à un échelon comportant un traitement égal ou immédiatement supérieur à celui qu'ils percevaient au 31 décembre 1952, sous réserve toutefois, le cas échéant, d'un reclassement en fonction du temps de service déjà accompli ; ils ne pourront être titularisés qu'après un stage de deux ans.
