@@ -1,5 +1,7 @@
 # Article 8
 
-La commission consultative d'exploitation se réunit, à l'initiative de son  président, au moins trois fois par an.
+Le conseil d'administration se réunit sur convocation de son président qui en  fixe l'ordre du jour. Il se réunit au moins deux fois par an. Il se réunit  également à la demande du ministre chargé de la culture ou de la moitié de ses  membres.
 
-Elle est obligatoirement  convoquée par son président à la demande du directeur du théâtre et des  spectacles, du directeur de l'administration générale, ou du fonctionnaire  chargé du contrôle financier.
+Le conseil d'administration ne peut valablement délibérer que si la  moitié au moins des membres sont présents. Si le quorum n'est pas atteint, le  conseil est de nouveau convoqué avec le même ordre du jour dans un délai de huit  jours. Il délibère alors valablement quel que soit le nombre des membres  présents.
+
+Les délibérations sont prises à la majorité des votants. En cas de  partage égal des voix, la voix du président est prépondérante.

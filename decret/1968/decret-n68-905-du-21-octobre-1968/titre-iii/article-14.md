@@ -14,8 +14,6 @@ En dehors des périodes réservées pour les représentations organisées par le
 
 4° Le produit de la concession à des tiers de divers services liés à l'exploitation des salles de spectacles : bars, vestiaire, programmes, etc.
 
-Liberté est laissée au directeur de traiter avec des tiers l'exploitation desdits services. Les conventions conclues à cet effet sont soumises à l'avis de la commission consultative d'exploitation, au visa du fonctionnaire chargé du contrôle financier et à l'approbation du ministre des affaires culturelles.
-
 5° Les legs, libéralités et fonds de concours de toute nature.
 
 6° La subvention . de fonctionnement fixée, chaque année, par la loi de finances.

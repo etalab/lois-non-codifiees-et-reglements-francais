@@ -1,13 +1,5 @@
 # Article 18
 
-Le Théâtre de France est soumis au contrôle financier de l'État institué par l'article 1°er du décret du 25 octobre 1935.
+Le Théâtre national de l'Odéon est soumis au contrôle économique et financier de  l'Etat prévu par le décret n° 55-733 du 26 mai 1955 modifié relatif au contrôle  économique et financier de l'Etat.
 
-Le fonctionnaire chargé du contrôle financier a entrée avec voix consultative aux séances des conseils, comités ou commissions qui viendraient à être constitués à la demande de l'administration ou sur l'initiative du directeur.
-
-Il est obligatoirement consulté au sujet des projets de textes, mesures ou décisions concernant le Théâtre de France et soumis au contreseing ou à l'avis du ministre de l'économie et des finances.
-
-Pour l'exécution de sa mission, le fonctionnaire chargé du contrôle financier peut, à tout moment, demander communication ou prendre connaissance sur place de tous documents, pièces ou justifications détenus par les services du théâtre.
-
-Tout projet de convention financière, marché ou commande, mesure ou décision ayant une répercussion financière d'un montant au moins égal à 50.000 F doit être soumis, pour visa préalable, au fonctionnaire chargé du contrôle financier.
-
-Il en est de même de toute décision fixant le statut, les effectifs, les rémunérations ou indemnités de toute nature des différentes catégories de personnel, à l'exception du personnel artistique.
+Les modalités d'exercice de ce contrôle  sont précisées par arrêté conjoint du ministre chargé de la culture et du  ministre chargé de l'économie et des finances.
