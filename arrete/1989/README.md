@@ -180,7 +180,6 @@
 - [Arrêté du 10 janvier 1989 (TEFT8903024A)](arrete-du-10-janvier-1989-teft8903024a)
 - [Arrêté du 10 juillet 1989 (AGRS8901231A)](arrete-du-10-juillet-1989-agrs8901231a)
 - [Arrêté du 10 juillet 1989 (PTTP8900663A)](arrete-du-10-juillet-1989-pttp8900663a)
-- [Arrêté du 10 juillet 1989 (SPSP8901489A)](arrete-du-10-juillet-1989-spsp8901489a)
 - [Arrêté du 10 juillet 1989 (SPSP8901521A)](arrete-du-10-juillet-1989-spsp8901521a)
 - [Arrêté du 10 mars 1986](arrete-du-10-mars-1986)
 - [Arrêté du 10 mars 1989 (INTE8900133A)](arrete-du-10-mars-1989-inte8900133a)
