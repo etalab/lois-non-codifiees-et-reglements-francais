@@ -1202,7 +1202,6 @@
 - [Arrêté du 29 décembre 1993 (ENVR9320493A)](arrete-du-29-decembre-1993-envr9320493a)
 - [Arrêté du 29 décembre 1993 (EQUA9301821A)](arrete-du-29-decembre-1993-equa9301821a)
 - [Arrêté du 29 décembre 1993 (EQUA9301822A)](arrete-du-29-decembre-1993-equa9301822a)
-- [Arrêté du 29 décembre 1993 (EQUB9301947A)](arrete-du-29-decembre-1993-equb9301947a)
 - [Arrêté du 29 décembre 1994 (BUDF9420796A)](arrete-du-29-decembre-1994-budf9420796a)
 - [Arrêté du 29 décembre 1994 (RESK9401408A)](arrete-du-29-decembre-1994-resk9401408a)
 - [Arrêté du 29 décembre 1994 (RESK9401678A)](arrete-du-29-decembre-1994-resk9401678a)
