@@ -22,4 +22,4 @@ b) Les médecins conseils régionaux adjoints.
 
 4° a) Le médecin conseil national ;
 
-b) Le médecin conseil national adjoint.
+b) Les deux médecins conseils nationaux adjoints.
