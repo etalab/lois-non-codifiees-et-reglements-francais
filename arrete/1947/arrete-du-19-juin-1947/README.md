@@ -1,0 +1,8 @@
+# Arrêté du 19 juin 1947 FIXANT LE REGLEMENT INTERIEUR MODELE PROVISOIRE DES CAISSES PRIMAIRES D'ASSURANCE MALADIE POUR LE SERVICE DES PRESTATIONS.
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [ASSURANCE DECES.](assurance-deces)
+- [ASSURANCE MALADIE](assurance-maladie)
+- [ASSURANCE MATERNITE](assurance-maternite)
+- [EXAMENS DE SANTE.](examens-de-sante)
