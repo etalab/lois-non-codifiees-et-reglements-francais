@@ -691,6 +691,7 @@
 - [Arrêté du 23 janvier 1995 (INDG9500061A)](arrete-du-23-janvier-1995-indg9500061a)
 - [Arrêté du 23 janvier 1995 (MJSK9570011A)](arrete-du-23-janvier-1995-mjsk9570011a)
 - [Arrêté du 23 janvier 1995 (SPSA9500345A)](arrete-du-23-janvier-1995-spsa9500345a)
+- [Arrêté du 23 juin 1995 (JUSG9560032A)](arrete-du-23-juin-1995-jusg9560032a)
 - [Arrêté du 23 mars 1995 (AGRB9401502A)](arrete-du-23-mars-1995-agrb9401502a)
 - [Arrêté du 23 mars 1995 (AGRB9401503A)](arrete-du-23-mars-1995-agrb9401503a)
 - [Arrêté du 23 mars 1995 (INTD9500150A)](arrete-du-23-mars-1995-intd9500150a)
