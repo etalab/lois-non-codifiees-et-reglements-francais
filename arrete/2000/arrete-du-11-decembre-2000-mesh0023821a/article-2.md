@@ -1,29 +1,29 @@
 # Article 2
 
-La liste des emplois fonctionnels de sous-directeur des services centraux de l'Assistance publique-hôpitaux de Paris bénéficiaires d'une nouvelle bonification indiciaire (second niveau : 60 points majorés), conformément aux dispositions de l'article 1er du décret no 2000-235 du 13 mars 2000 susvisé, est fixée comme suit :
+La liste des emplois fonctionnels de sous-directeur des services centraux de l'Assistance publique-hôpitaux de Paris bénéficiaires d'une nouvelle bonification indiciaire (second niveau : 60 points majorés), conformément aux dispositions de l'article 1er du décret n° 2000-235 du 13 mars 2000 susvisé, est fixée comme suit :
 
-- conseiller technique auprès du directeur général ;
+-Directeur exécutif du groupement hospitalier universitaire Est ;
 
-- délégué pour les relations avec les associations à la direction générale ;
+-Directeur exécutif du groupement hospitalier universitaire Ouest ;
 
-- délégué à la coordination des politiques d'achat à la direction générale ;
+-Directeur exécutif du groupement hospitalier universitaire Sud ;
 
-- rapporteur général du plan stratégique de l'Assistance publique-hôpitaux de Paris ;
+-Directeur exécutif du groupement hospitalier universitaire Nord ;
 
-- rapporteur général adjoint du plan stratégique de l'Assistance publique-hôpitaux de Paris ;
+-Directeur de l'hôpital Bicêtre ;
 
-- chef de cabinet du directeur général ;
+-Directeur de l'hôpital Henri Mondor ;
 
-- adjoint au directeur des finances à la direction générale ;
+-Directeur de l'hôpital Tenon ;
 
-- directeur de l'hôpital Tenon ;
+-Directeur du groupe hospitalier La Pitié-Salpêtrière ;
 
-- directeur du groupe hospitalier La Pitié-La Salpêtrière ;
+-Directeur de l'hôpital européen Georges Pompidou ;
 
-- directeur de l'hôpital Bicêtre ;
+-Directeur de l'hôpital Bichat ;
 
-- directeur de l'hôpital Beaujon ;
+-Directeur de l'hôpital Emile Roux ;
 
-- directeur de l'hôpital européen Georges-Pompidou ;
+-Adjoint au directeur de la politique médicale à la direction générale ;
 
-- directeur de l'hôpital Henri-Mondor.
+-Délégué à la stratégie à la direction générale.
