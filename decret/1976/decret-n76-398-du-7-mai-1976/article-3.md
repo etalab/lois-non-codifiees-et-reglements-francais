@@ -2,10 +2,6 @@
 
 L'examen porte sur les matières ci-après :
 
-Connaissance et sauvegarde du gibier et de la faune sauvage ;
+Connaissance et sauvegarde du gibier et de la faune sauvage ;     Lois et règlements concernant la police de la chasse ;     Emplois des armes et munitions et règles de sécurité.    " La session de formation pratique porte notamment sur la connaissance et le maniement des armes et des munitions ainsi que sur les règles de sécurité.
 
-Lois et règlements concernant la police de la chasse ;
-
-Emplois des armes et munitions et règles de sécurité.
-
-Un arrêté du ministre chargé de la chasse précise le nombre, le programme et les modalités des épreuves.
+" Un arrêté du ministre chargé de la chasse précise le nombre, le programme et les modalités des épreuves de l'examen et le contenu et les modalités d'organisation de la session de formation pratique. "
