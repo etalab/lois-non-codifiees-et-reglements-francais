@@ -10,6 +10,6 @@ a) Les emballages (caisses, cartons...) doivent répondre à toutes les règles 
 
 Ils ne doivent pas être réutilisés pour l'emballage de viande sauf s'ils sont en matériaux résistant à la corrosion faciles à nettoyer, et s'ils ont été au préalable nettoyés et désinfectés.
 
-b) Lorsque, le cas échéant, les viandes fraîches découpées ou les abats sont conditionnés, cette opération doit être effectuée aussitôt après la découpe, et d'une manière conforme aux règles d'hygiène.
+b) A l'exception des morceaux de lard et de poitrine de porc, les viandes découpées et les abats sont dans tous les cas pourvus d'un conditionnement de protection, sauf s'ils sont transportés pendus. Lorsque les viandes fraîches découpées ou les abats sont conditionnés, cette opération est effectuée aussitôt après la découpe et d'une manière conforme aux règles d'hygiène. Toutefois, dans le cadre de la dérogation prévue à l'article 16 d, d'autres dispositions peuvent être autorisées.
 
-A l'exception des morceaux de lard, de poitrine, les viandes découpées et les abats doivent être, dans tous les cas, pourvus d'un conditionnement de protection, sauf s'ils sont transportés pendus.    Ces conditionnements doivent être transparents et incolores, et répondre, en outre, aux conditions indiquées au point a premier et deuxième tiret. Ils ne peuvent être réutilisés pour le conditionnement des viandes.
+Les conditionnements sont transparents et incolores, et répondent aux conditions du a du présent article, premier et deuxième tirets. Ils ne peuvent être réutilisés pour le conditionnement des viandes.

@@ -8,7 +8,7 @@ b) L'emballage et le conditionnement sont placés immédiatement après leur fab
 
 c) Les locaux de stockage des matériaux d'emballage doivent être exempts de poussière et de vermine, et être privés de toute liaison atmosphérique avec des locaux contenant des substances susceptibles de contaminer la viande fraîche ; les emballages ne peuvent être entreposés à même le sol ;
 
-d) Les emballages sont assemblés, dans des conditions hygiéniques, avant leur introduction dans le local ;
+d) Les emballages sont assemblés dans des conditions hygiéniques, avant leur introduction dans le local. En cas d'utilisation d'euroboxes, celles-ci sont nettoyées et désinfectées préalablement à leur introduction dans le local.
 
 e) Les emballages sont introduits, dans des conditions hygiéniques, dans le local, et utilisés sans délai. Ils ne peuvent être manipulés par le personnel chargé de manipuler la viande fraîche ;
 

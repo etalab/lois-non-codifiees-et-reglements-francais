@@ -10,4 +10,16 @@ Sans préjudice des dispositions du décret du 21 juillet 1971 pris pour l'appli
 
 - avoir fait l'objet d'une inspection sanitaire favorable.
 
-La marque de salubrité figure sur une étiquette fixée à l'emballage ou imprimée sur l'emballage et portant un numéro de série. Cette étiquette est conforme aux dispositions de l'arrêté ministériel du 15 mai 1974 relatif à l'estampillage sanitaire des viandes de boucherie et des produits à base de viande, et est placée de façon à être détruite à l'ouverture de l'emballage. Lorsque les morceaux coupés et les abats sont conditionnés conformément à la deuxième phrase du point a) de l'article 18, l'étiquette susvisée est fixée sur le conditionnement.
+Le marquage de salubrité est effectué par l'exploitant de l'établissement à ses frais sous la surveillance du vétérinaire inspecteur. A cet effet, ce dernier supervise :
+
+- le marquage de salubrité ;
+
+- les marques et le matériel de conditionnement lorsque ceux-ci ont déjà été revêtus de la marque de salubrité.
+
+La marque de salubrité est appliquée sur l'étiquette fixée sur l'emballage ou imprimée sur l'emballage de telle manière qu'elle se déchire au moment où l'emballage est ouvert. Cette exigence s'applique également en cas d'utilisation d'euroboxes selon les règles prévues au a de l'article 18 du présent arrêté. Il est admis que la marque ne se déchire pas uniquement lorsque l'emballage lui-même est détruit à l'ouverture.
+
+Lorsque les viandes ou les abats sont dans un conditionnement conforme aux exigences de la deuxième phrase du a  de l'article 18 du présent arrêté, l'étiquette visée ci-dessus peut être fixée sur celui-ci.
+
+Lorsque les viandes fraîches sont conditionnées en unité de vente au consommateur, la marque de salubrité de l'établissement conditionneur figure sur l'enveloppe superficielle. Cependant les dimensions de cette marque peuvent être réduites.
+
+Lorsque les viandes sont réemballées dans un atelier différent de celui où elles sont conditionnées, le conditionnement est revêtu de la marque de salubrité de l'atelier de découpe qui l'a effectué, et l'emballage est revêtu de la marque de salubrité du centre d'emballage.

@@ -1,3 +1,3 @@
-# Modèle de certificat de salubrité relatif aux viandes fraîches (1) visées à l'article 21 (3e tiret).
+# Modèle de certificat de salubrité relatif aux viandes fraîches destinées à un autre état membre après transit par un pays tiers ou provenant d'une zone à restriction.
 
 - [Article Annexe II](article-annexe-ii.md)

@@ -5,5 +5,3 @@ a) Les viandes fraîches doivent être introduites dans les locaux de travail au
 b) Les viandes entrant dans un local de découpe doivent être vérifiées et, au besoin, parées. Le poste de travail où cette tâche est effectuée doit être équipé d'installations appropriées et d'un éclairage suffisant.
 
 c) Le découpage est exécuté de façon que soit évitée toute souillure des viandes. Les éclats d'os et les caillots de sang doivent être éliminés. Les viandes provenant du découpage et non destinées à la consommation humaine sont recueillies au fur et à mesure dans les équipements, récipients ou locaux prévus à cet effet.
-
-d) Les abats ne peuvent être découpés en tranches, à l'exception des foies d'animaux de l'espèce bovine, lorsqu'ils sont découpés dans un atelier de découpe conforme aux prescriptions du présent arrêté.

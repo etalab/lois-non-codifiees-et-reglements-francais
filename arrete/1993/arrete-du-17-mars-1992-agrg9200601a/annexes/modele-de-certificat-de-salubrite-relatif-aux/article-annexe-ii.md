@@ -44,13 +44,19 @@ Nom et adresse du destinataire : ......
 
 IV. - Attestation de salubrité.
 
-Le soussigné, vétérinaire officiel, certifie que les viandes désignées ci-avant ont été obtenues dans les conditions de production et de contrôle prévues par la directive C.E.E. n° 64-433 :
+Le soussigné, vétérinaire officiel, certifie que les viandes désignées ci-avant ont été obtenues dans les conditions de production et de contrôle prévues par la directive 64/433/CEE :
 
-- dans un abattoir situé dans une région ou zone à restriction (4) ;
-
-- dans un atelier de découpe situé dans une région ou une zone à restriction (4) ;
+- dans un abattoir situé dans une région ou une zone à restriction (4) ;
 
 - sont destinées à un Etat membre après transit par un pays tiers (4).
+
+En outre, pour les viandes destinées à la Finlande ou à la Suède :
+
+- le test visé à l'article 5, paragraphe 3, point a, de la directive 64/433/CEE a été effectué (4) ;
+
+- les viandes sont destinées à la transformation (4) ;
+
+- les viandes proviennent d'un établissement soumis à un programme tel que visé à l'article 5, paragraphe 3, point c, de la directive 64/433/CEE (4).
 
 (1) Viandes fraîches : selon la directive mentionnée au point IV du présent certificat, toutes les parties propres à la consommation humaine d'animaux domestiques qui appartiennent aux espèces bovines, porcine, ovine et caprine, ainsi que des solipèdes n'ayant subi aucun traitement de nature à assurer leur conservation ; toutefois, les viandes traitées par le froid sont à considérer comme fraîches.
 

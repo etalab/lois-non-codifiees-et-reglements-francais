@@ -1,6 +1,6 @@
 # Article 5
 
-Dans les abattoirs non agréés et non inscrits au plan d'équipement, l'estampillage des viandes doit être effectué à l'aide de l'estampille dite "locale". Cette estampille présente les caractéristiques suivantes :
+Dans les abattoirs non agréés pour la mise sur le marché communautaire et non inscrits au plan national d'équipement en abattoirs, l'estampillage des viandes est effectué à l'aide de la marque de salubrité présentant les caractéristiques suivantes :
 
 Cachet dessinant un cercle de 35 mm de diamètre, à l'intérieur duquel s'inscrit un deuxième cercle de 25 mm de diamètre. Dans la couronne ainsi délimitée, à une distance de 1 mm de la bordure externe du cachet, en lettre majuscules, parfaitement lisibles, en relief, est portée la mention Inspection sanitaire.
 
