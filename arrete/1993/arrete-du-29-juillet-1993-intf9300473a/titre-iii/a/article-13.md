@@ -26,4 +26,6 @@ récompenses attribuées pour acte de courage, de dévouement, ou à la suite d'
 
 9. Les remboursements forfaitaires de frais de police ;
 
-10. Les honoraires des avocats et les menues dépenses de contentieux dans la limite de 5 000 F par opération.
+10. Les honoraires des avocats et les menues dépenses de contentieux dans la limite de 5 000 F par opération ;
+
+11. Le paiement de taxes à des ambassades ou consulats contre délivrance de laissez-passer.
