@@ -152,6 +152,7 @@
 - [Décret n°2002-89 du 16 janvier 2002 (MCCX0100136D)](decret-n2002-89-du-16-janvier-2002-mccx0100136d)
 - [Décret n°2002-90 du 16 janvier 2002 (MCCB0200030D)](decret-n2002-90-du-16-janvier-2002-mccb0200030d)
 - [Décret n°2001-1203 du 17 décembre 2001 (MESG0122746D)](decret-n2001-1203-du-17-decembre-2001-mesg0122746d)
+- [Décret n°2002-1175 du 17 septembre 2002 (PRMX0205869D)](decret-n2002-1175-du-17-septembre-2002-prmx0205869d)
 - [Décret n°2002-75 du 17 janvier 2002 (ECOI0100704D)](decret-n2002-75-du-17-janvier-2002-ecoi0100704d)
 - [Décret n°2002-78 du 17 janvier 2002 (INTC0100358D)](decret-n2002-78-du-17-janvier-2002-intc0100358d)
 - [Décret n°2002-82 du 17 janvier 2002 (MESF0111613D)](decret-n2002-82-du-17-janvier-2002-mesf0111613d)
