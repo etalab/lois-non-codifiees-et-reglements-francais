@@ -629,7 +629,6 @@
 - [Arrêté du 20 août 1991 (TEFT9103898A)](arrete-du-20-aout-1991-teft9103898a)
 - [Arrêté du 20 décembre 1990 (INDA9000889A)](arrete-du-20-decembre-1990-inda9000889a)
 - [Arrêté du 20 décembre 1990 (PTTT9001021A)](arrete-du-20-decembre-1990-pttt9001021a)
-- [Arrêté du 20 décembre 1990 (SANH9002566A)](arrete-du-20-decembre-1990-sanh9002566a)
 - [Arrêté du 20 décembre 1990 (SPSS9002557A)](arrete-du-20-decembre-1990-spss9002557a)
 - [Arrêté du 20 décembre 1990 (SPSS9002597A)](arrete-du-20-decembre-1990-spss9002597a)
 - [Arrêté du 20 décembre 1990 (TEFE9004091A)](arrete-du-20-decembre-1990-tefe9004091a)
