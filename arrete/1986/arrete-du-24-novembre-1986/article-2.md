@@ -1,3 +1,5 @@
 # Article 2
 
-Le directeur de la Caisse nationale de garantie des ouvriers dockers, le directeur des ports et de la navigation maritimes, le délégué à l'emploi, le directeur général de la concurrence, de la consommation et de la répression des fraudes et le directeur du budget sont chargés, chacun pour ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le tarif des immunoglobulines antitétaniques (Gamma TS antitétaniques, nouvelle appellation : Gamma-tétanos) est fixé ainsi qu'il suit :
+
+Dose de 2 ml    78,90 F Dose de 4 ml   157,80 F

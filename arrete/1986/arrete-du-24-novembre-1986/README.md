@@ -1,4 +1,4 @@
-# Arrêté du 24 novembre 1986 relatif au mode de fixation de l'indemnité de garantie des ouvriers dockers
+# Arrêté du 24 novembre 1986 fixant le tarif des produits sanguins déposés dans les officines de pharmacie
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
