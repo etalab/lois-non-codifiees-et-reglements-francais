@@ -20,7 +20,7 @@ II. - Chaque commission de visite de mise en service comprend :
 
 a) Le chef du centre de sécurité des navires ou son délégué, président ;
 
-b) Des inspecteurs de la sécurité des navires et du travail maritime dans les conditions ci-dessous :
+b) Des inspecteurs de la sécurité des navires et de la prévention des risques professionnels maritimes dans les conditions ci-dessous :
 
 - pour les navires autres que de plaisance d'une longueur égale ou supérieure à 12 mètres et les navires de plaisance d'une longueur égale ou supérieure à 18 mètres : deux inspecteurs. Toutefois, pour la visite de mise en service d'un navire autre qu'un navire à passagers, ce nombre peut être ramené à un sur décision du chef de centre de sécurité ;
 

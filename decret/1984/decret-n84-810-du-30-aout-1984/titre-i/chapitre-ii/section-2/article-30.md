@@ -1,6 +1,6 @@
 # Article 30
 
-I. - Toute visite effectuée en application des articles précédents fait l'objet d'un rapport qui désigne nommément soit les membres de la commission, soit, dans le cas d'une visite spéciale ou inopinée, l'inspecteur de la sécurité des navires et du travail maritime et mentionne sommairement toutes les constatations faites au cours de la visite ainsi que les observations et les prescriptions qui en découlent.
+I. - Toute visite effectuée en application des articles précédents fait l'objet d'un rapport qui désigne nommément soit les membres de la commission, soit, dans le cas d'une visite spéciale ou inopinée, l'inspecteur de la sécurité des navires et de la prévention des risques professionnels maritimes et mentionne sommairement toutes les constatations faites au cours de la visite ainsi que les observations et les prescriptions qui en découlent.
 
 Les prescriptions doivent faire référence aux dispositions en vertu desquelles elles sont formulées.
 

@@ -10,4 +10,4 @@ III. - Les navires français possédant la première cote d'une société de cla
 
 Cette dispense porte sur les points qui ont fait l'objet d'examens, de constatations ou d'épreuves sanctionnés par l'attribution au navire d'une attestation de la société de classification.
 
-IV. - Les commissions de visite, les inspecteurs de la sécurité des navires et du travail maritime, branche technique, conservent le droit de procéder à tout contrôle dans le domaine couvert par la dispense. Ils peuvent demander également la communication des rapports établis dans le cadre de l'attribution du franc-bord ou de la classification par les experts des sociétés à l'armateur, au capitaine ou à la société de classification.
+IV. - Les commissions de visite, les inspecteurs de la sécurité des navires et de la prévention des risques professionnels maritimes, branche technique, conservent le droit de procéder à tout contrôle dans le domaine couvert par la dispense. Ils peuvent demander également la communication des rapports établis dans le cadre de l'attribution du franc-bord ou de la classification par les experts des sociétés à l'armateur, au capitaine ou à la société de classification.

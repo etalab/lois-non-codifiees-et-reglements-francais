@@ -10,7 +10,7 @@ b) Le chef du bureau de la réglementation de la sécurité des navires ou son r
 
 c) Le chef du bureau de contrôle des navires ou son représentant ;
 
-d) L'inspecteur de la sécurité des navires et du travail maritime ou de l'ingénieur ayant instruit le dossier examiné.
+d) L'inspecteur de la sécurité des navires et de la prévention des risques proffessionnels maritimes ou de l'ingénieur ayant instruit le dossier examiné.
 
 II. - Des membres nommés, à savoir :
 
