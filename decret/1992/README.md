@@ -942,7 +942,6 @@
 - [Décret n°87-873 du 29 octobre 1987 (INTX8798555D)](decret-n87-873-du-29-octobre-1987-intx8798555d)
 - [Décret n°92-1049 du 29 septembre 1992 (INDB9200777D)](decret-n92-1049-du-29-septembre-1992-indb9200777d)
 - [Décret n°92-1051 du 29 septembre 1992 (SPSA9202351D)](decret-n92-1051-du-29-septembre-1992-spsa9202351d)
-- [Décret n°92-411 du 29 avril 1992 (PRMX9210122D)](decret-n92-411-du-29-avril-1992-prmx9210122d)
 - [Décret n°92-412 du 29 avril 1992 (COPX9210119D)](decret-n92-412-du-29-avril-1992-copx9210119d)
 - [Décret n°92-563 du 29 juin 1992 (INTD9200241D)](decret-n92-563-du-29-juin-1992-intd9200241d)
 - [Décret n°92-571 du 29 juin 1992 (TEFT9204915D)](decret-n92-571-du-29-juin-1992-teft9204915d)
