@@ -194,6 +194,7 @@
 - [Décret n°84-56 du 25 janvier 1984](decret-n84-56-du-25-janvier-1984)
 - [Décret n°84-57 du 25 janvier 1984](decret-n84-57-du-25-janvier-1984)
 - [Décret n°84-65 du 25 janvier 1984](decret-n84-65-du-25-janvier-1984)
+- [Décret n°84-729 du 25 juillet 1984](decret-n84-729-du-25-juillet-1984)
 - [Décret n°84-396 du 25 mai 1984](decret-n84-396-du-25-mai-1984)
 - [Décret n°84-207 du 26 mars 1984](decret-n84-207-du-26-mars-1984)
 - [Décret n°84-233 du 26 mars 1984](decret-n84-233-du-26-mars-1984)
