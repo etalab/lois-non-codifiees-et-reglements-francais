@@ -1,0 +1,5 @@
+# Article 2
+
+Un livret de formation est délivré par l’Ecole nationale de ski et d’alpinisme à l’issue de l’examen probatoire du diplôme d’aspirant guide ; il a une validité limitée à cinq ans mais peut être prorogé de deux ans maximum aux motifs de service national, d’arrêt de maladie ou d’accident entraînant une incapacité fonctionnelle d’au moins six mois, grossesse ou lorsque son titulaire est en échec à l’examen du stage d’alpinisme Guide de haute montagne.
+
+Le candidat aspirant guide doit suivre l’intégralité de la formation conduisant au diplôme d’aspirant guide du brevet d’Etat d’alpinisme et satisfaire aux évaluations correspondantes dans les deux années suivant l’obtention du livret de formation défini à l’alinéa précédent : il peut être accordé une prorogation d’une année maximum aux motifs de service national, d’arrêt de maladie ou d’accident entraînant une incapacité fonctionnelle d’au moins six mois, de grossesse ou lorsque le candidat aspirant guide a échoué à l’examen du stage d’alpinisme Aspirant guide.
