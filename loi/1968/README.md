@@ -9,6 +9,7 @@
 - [Loi n° 68-690 du 31 juillet 1968](loi-n-68-690-du-31-juillet-1968)
 - [Loi n° 68-696 du 31 juillet 1968](loi-n-68-696-du-31-juillet-1968)
 - [Loi n° 68-917 du 24 octobre 1968](loi-n-68-917-du-24-octobre-1968)
+- [Loi n° 68-943 du 30 octobre 1968](loi-n-68-943-du-30-octobre-1968)
 - [Loi n°67-545 du 7 juillet 1967](loi-n67-545-du-7-juillet-1967)
 - [Loi n°68-688 du 31 juillet 1968](loi-n68-688-du-31-juillet-1968)
 - [Loi n°68-918 du 24 octobre 1968](loi-n68-918-du-24-octobre-1968)
