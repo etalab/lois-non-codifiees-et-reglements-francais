@@ -5,5 +5,5 @@
 - [Titre II : adjoints techniques](titre-ii)
 - [Titre III : dessinateurs](titre-iii)
 - [Titre IV : dispositions communes](titre-iv)
-- [Titre V : dispositions transitoires](titre-v)
+- [Titre V : dispositions communes](titre-v)
 - [Article 24](article-24.md)
