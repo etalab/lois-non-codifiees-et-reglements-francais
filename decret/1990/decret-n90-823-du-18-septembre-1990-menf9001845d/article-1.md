@@ -1,0 +1,3 @@
+# Article 1
+
+Les membres fonctionnaires déchargés totalement ou partiellement de service et les membres non fonctionnaires du Conseil national des programmes perçoivent, à raison de leur participation aux travaux du conseil, une indemnité forfaitaire non soumise à retenue pour pension dont les taux mensuels sont fixés par arrêté du ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, du ministre d'Etat, ministre de la fonction publique et des réformes administratives, et du ministre délégué auprès du ministre d'Etat, ministre de l'économie, des finances et du budget, chargé du budget.
