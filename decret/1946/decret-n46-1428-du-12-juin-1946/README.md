@@ -1,8 +1,6 @@
 # Décret n°46-1428 du 12 juin 1946 prévoyant des mesures transitoires pour l'application dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle du nouveau régime de sécurité sociale.
 
-- [Article 3](article-3.md)
 - [Article 4](article-4.md)
-- [Article 5](article-5.md)
 - [Article 10](article-10.md)
 - [Article 15](article-15.md)
 - [Article 16](article-16.md)
