@@ -1,8 +1,8 @@
 # Article 37
 
-Les travaux de pratique professionnelle sont effectués, sous le contrôle du centre de formation professionnelle, auprès d'un notaire. Ils peuvent aussi, à la demande du stagiaire et pour six mois au maximum [*durée*], être effectués :
+Les travaux de pratique professionnelle sont effectués, sous le contrôle du centre de formation professionnelle, auprès d'un notaire. Ils peuvent aussi, à la demande du stagiaire et pour six mois au maximum, être effectués :
 
-1° Auprès d'un avocat, d'un conseil juridique, d'un expert comptable ou d'un commissaire aux comptes ;
+1° Auprès d'un avocat, d'un huissier de justice, d'un avoué, d'un administrateur judiciaire, d'un mandataire judiciaire à la liquidation des entreprises, d'un expert-comptable ou d'un commissaire aux comptes ;
 
 2° Auprès d'une administration publique ou dans le service juridique ou fiscal d'une entreprise ;
 

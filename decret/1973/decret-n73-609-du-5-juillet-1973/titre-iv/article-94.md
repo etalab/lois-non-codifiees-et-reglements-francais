@@ -15,3 +15,5 @@ Il est institué un centre national de l'enseignement professionnel notarial cha
 Le centre national peut passer toutes conventions utiles en application de la loi susvisée du 16 juillet 1971.
 
 6° Organiser l'enseignement professionnel en vue de la préparation à l'examen de contrôle des connaissances prévu aux articles 5 et 7, soit directement, soit par convention avec d'autres organismes d'enseignement ou de formation, publics ou privés.
+
+7° Délivrer les certificats de spécialisation dans les conditions prévues à la section VII du chapitre II du titre Ier.

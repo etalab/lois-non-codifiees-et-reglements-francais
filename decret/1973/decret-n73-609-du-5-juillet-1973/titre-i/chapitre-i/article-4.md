@@ -18,7 +18,7 @@ Sont dispensés de la condition de l'article 3 (6°) sous réserve d'une certain
 
 8° Les anciens fonctionnaires de la catégorie A ou les personnes assimilées au fonctionnaires de cette catégorie ayant exercé pendant au moins cinq ans [*durée*] des activités juridiques ou fiscales dans une administration ou un service public.
 
-9° Les personnes ayant accompli huit années au moins d'exercice professionnel dans le service juridique ou fiscal d'une entreprise publique ou privée employant au moins trois juristes.
+9° Les personnes ayant accompli huit années au moins d'exercice professionnel dans le service juridique ou fiscal d'une entreprise publique ou privée employant au moins trois juristes ou dans un centre de recherches, d'information et de documentation notariale.
 
 10° Les anciens syndics et administrateurs judiciaires, les anciens administrateurs judiciaires et mandataires liquidateurs ayant exercé leurs fonctions pendant deux ans au moins.
 
