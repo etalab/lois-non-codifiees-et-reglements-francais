@@ -6,7 +6,7 @@ Les informations fournies par les caisses et traitées par le S.E.S.I. sont, out
 
 - le sexe, l'année, le mois et le département de naissance, le statut matrimonial et le département de résidence de l'individu prestataire ;
 
-- les caractéristiques professionnelles de la personne qui a généré les droits à retraite dans l'organisme (durée d'affiliation, catégorie socioprofessionnelle) ;
+- les caractéristiques professionnelles de la personne qui a généré les droits à retraite dans l'organisme (durée d'affiliation, catégorie socioprofessionnelle, le calendrier et le montant des cotisations et des revenus d'activité au cours des dix dernières années précédant la date de l'échantillon, pour les personnes relevant de la CANCAVA et de l'ORGANIC) ;
 
 - la nature et le montant des avantages versés.
 
