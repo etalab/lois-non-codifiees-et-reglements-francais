@@ -18,7 +18,6 @@
 - [Décret n°55-1126 du 19 août 1955](decret-n55-1126-du-19-aout-1955)
 - [Décret n°55-1226 du 19 septembre 1955](decret-n55-1226-du-19-septembre-1955)
 - [Décret n°55-604 du 20 mai 1955](decret-n55-604-du-20-mai-1955)
-- [Décret n°55-662 du 20 mai 1955](decret-n55-662-du-20-mai-1955)
 - [Décret n°55-771 du 21 mai 1955](decret-n55-771-du-21-mai-1955)
 - [Décret n°55-622 du 22 mai 1955](decret-n55-622-du-22-mai-1955)
 - [Décret n°55-723 du 22 mai 1955](decret-n55-723-du-22-mai-1955)
