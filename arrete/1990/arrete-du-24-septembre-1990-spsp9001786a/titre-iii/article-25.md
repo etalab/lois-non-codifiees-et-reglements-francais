@@ -6,4 +6,4 @@ Le jury de l'examen est présidé par le médecin inspecteur régional de la san
 
 des médecins dont au moins un médecin spécialiste qualifié en rééducation et réadaptation fonctionnelles et un psychiatre ;
 
-des ergothérapeutes, dont au moins un tiers ne sont pas enseignants à l'école.
+des ergothérapeutes, dont au moins un tiers ne sont pas enseignants à l'institut de formation en ergothérapie.

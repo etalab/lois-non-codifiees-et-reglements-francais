@@ -4,6 +4,6 @@ En cas d'échec à la première session du diplôme d'Etat, le candidat peut se 
 
 En cas d'échec à cette deuxième session, le candidat peut se présenter en candidat libre consécutivement aux quatre sessions suivantes.
 
-Pendant cette période, le directeur de l'école peut accorder le bénéfice d'un complément de formation au candidat qui en fait la demande.
+Pendant cette période, le directeur de l'institut de formation en ergothérapie peut accorder le bénéfice d'un complément de formation au candidat qui en fait la demande.
 
 En cas d'échec à ces sessions, le candidat ne peut plus se présenter aux épreuves du diplôme d'Etat.
