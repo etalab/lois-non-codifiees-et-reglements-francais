@@ -1,7 +1,13 @@
 # Article 46
 
-Lorsque les sommes insaisissables proviennent d'une créance à échéance non périodique, le titulaire du compte peut demander que soit laissée à sa disposition le montant de celles-ci, déduction faite des sommes venues en débit du compte depuis le jour où la créance y a été inscrite.
+Lorsqu'un compte a fait l'objet d'une saisie, son titulaire peut demander au tiers saisi la mise à disposition immédiate, dans la limite du solde créditeur du compte au jour de réception de la demande, d'une somme à caractère alimentaire d'un montant au plus égal à celui du revenu mensuel minimum d'insertion pour un allocataire.
 
-La mise à disposition ne peut avoir lieu avant l'expiration du délai de quinze jours pour la régularisation des opérations en cours. Si à cette date le solde disponible au compte n'est pas suffisant pour mettre à la disposition de son titulaire l'intégralité des sommes demandées par lui à raison de leur insaisissabilité, le complément est retenu par le tiers saisi sur les sommes indisponibles à la même date. Le tiers saisi informe le créancier de cette retenue au moment de sa demande en paiement.
+La demande doit être présentée dans les quinze jours suivant la saisie.
 
-Les sommes ainsi retenues sont mises à la disposition du titulaire du compte si le créancier saisissant déclare ne pas s'y opposer ou s'il n'élève aucune contestation dans les quinze jours qui suivent sa demande en paiement. A tout moment, le titulaire du compte peut saisir le juge de l'exécution pour lui demander, le créancier entendu ou appelé, la mise à disposition des sommes retenues sur justification de leur caractère insaisissable.
+En cas de pluralité de comptes, la demande ne peut être présentée que sur un seul compte.
+
+En cas de pluralité de titulaires d'un compte, le ou les co-titulaires ne peuvent présenter qu'une seule demande.
+
+Il ne peut être présentée qu'une seule demande pour une même saisie.
+
+Une autre demande peut être formée en cas de nouvelle saisie à l'expiration d'un délai d'un mois à compter de la précédente demande.

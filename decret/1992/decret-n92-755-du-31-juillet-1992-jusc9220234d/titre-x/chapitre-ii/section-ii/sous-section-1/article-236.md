@@ -12,4 +12,6 @@ Cet acte contient, à peine de nullité :
 
 4° La désignation de la juridiction devant laquelle seront portées les autres contestations, notamment celles relatives à l'exécution de la saisie ;
 
-5° La reproduction des articles 210 à 219.
+5° La reproduction des articles 210 à 219 ;
+
+6° L'indication, en cas de saisie de compte, que le titulaire du compte peut demander au tiers saisi, dans les 15 jours suivant la saisie, la mise à disposition d'une somme d'un montant au plus égal au revenu minimum d'insertion pour un allocataire, dans la limite du solde créditeur du compte au jour de la réception de la demande.

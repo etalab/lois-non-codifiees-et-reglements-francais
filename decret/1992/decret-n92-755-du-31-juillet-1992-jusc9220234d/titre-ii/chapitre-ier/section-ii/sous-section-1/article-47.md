@@ -1,5 +1,5 @@
 # Article 47
 
-Lorsqu'un compte alimenté par des rémunérations du travail fait l'objet d'une procédure de paiement direct sur le fondement de la loi du 2 janvier 1973 relative au paiement direct de la pension alimentaire, le tiers saisi laisse en toute hypothèse à la disposition du débiteur, sans qu'aucune demande soit nécessaire, la somme fixée à l'article R. 145-3 du code du travail en application de l'article L. 145-4 du même code.
+Lorsque les sommes insaisissables proviennent de créances à échéance périodique, telles que rémunérations du travail, pensions de retraite, sommes payées à titre d'allocations familiales ou d'indemnités de chômage, le titulaire du compte peut, sur justification de l'origine des sommes, en demander la mise à disposition immédiate, déduction faite des opérations venues en débit du compte depuis le dernier versement de la créance insaisissable.
 
-En cas de pluralité de comptes, cette somme est imputée sur un seul d'entre eux.
+Si, à l'expiration du délai de quinze jours prévu à l'article 47 de la loi du 9 juillet 1991 pour la régularisation des opérations en cours, le montant des sommes demandées par le débiteur en raison de leur insaisissabilité excède le solde qui demeure disponible au compte, le complément est prélevé sur les sommes indisponibles à ce jour. Le tiers saisi informe le créancier de ce prélèvement au moment de sa demande en paiement ; à peine d'irrecevabilité, ce dernier dispose d'un délai de quinze jours pour contester cette imputation.
