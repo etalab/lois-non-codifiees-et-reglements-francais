@@ -4,6 +4,7 @@
 - [Décret n°79-169 du 2 mars 1979](decret-n79-169-du-2-mars-1979)
 - [Décret n°79-178 du 2 mars 1979](decret-n79-178-du-2-mars-1979)
 - [Décret n°79-31 du 2 janvier 1979](decret-n79-31-du-2-janvier-1979)
+- [Décret n°79-530 du 3 juillet 1979](decret-n79-530-du-3-juillet-1979)
 - [Décret n°79-607 du 3 juillet 1979](decret-n79-607-du-3-juillet-1979)
 - [Décret n°78-993 du 4 octobre 1978](decret-n78-993-du-4-octobre-1978)
 - [Décret n°79-124 du 5 février 1979](decret-n79-124-du-5-fevrier-1979)
