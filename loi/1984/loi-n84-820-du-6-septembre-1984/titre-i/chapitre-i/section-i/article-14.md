@@ -1,0 +1,3 @@
+# Article 14
+
+Le membre du gouvernement du territoire qui a la qualité d'agent public au moment de son élection ou de sa nomination est placé en dehors du cadre de l'administration ou du corps auquel il appartient dans les conditions prévues par le statut qui le régit. Sous réserve des dispositions de l'article 13, il est, à l'expiration de son mandat, réintégré à sa demande, éventuellement en surnombre, dans le cadre ou le corps auquel il appartenait avant son entrée au gouvernement du territoire. Il est de même si, tout en étant régi par un statut de droit privé, il est employé par une entreprise ou une société appartenant au secteur public.
