@@ -34,6 +34,7 @@
 - [Arrêté du 12 mars 1976](arrete-du-12-mars-1976)
 - [Arrêté du 12 octobre 1976](arrete-du-12-octobre-1976)
 - [Arrêté du 14 avril 1976](arrete-du-14-avril-1976)
+- [Arrêté du 14 décembre 1976](arrete-du-14-decembre-1976)
 - [Arrêté du 15 juillet 1975](arrete-du-15-juillet-1975)
 - [Arrêté du 15 juillet 1976](arrete-du-15-juillet-1976)
 - [Arrêté du 15 octobre 1976](arrete-du-15-octobre-1976)
