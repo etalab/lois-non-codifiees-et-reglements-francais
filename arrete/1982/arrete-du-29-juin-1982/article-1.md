@@ -1,3 +1,11 @@
 # Article 1
 
-L'agence centrale des organismes de sécurité sociale reverse avant le 1er juillet de chaque année au fonds de compensation et de garantie pour le service des prestations en cas de maladie, longue maladie, maternité et décès de la caisse autonome nationale de la sécurité sociale dans les mines 4,887 p. 100 du montant total des cotisations d'assurance maladie perçues au cours de l'année civile précédente sur les avantages de retraites complémentaires. Elle reverse 0,053 p. 100 de ce montant à la société mutualiste La Neptune.
+Pour l'application des dispositions de la loi du 12 juillet 1937 susvisée, sont assimilés aux organismes énumérés à l'article 1er (par. 1) de cette loi les organismes professionnels ci-après :
+
+Le centre national de l'enseignement notarial, les centres régionaux de formation professionnelles et les écoles de notariat prévus par le décret du 5 juillet 1973 susvisé ;
+
+Le fonds d'assurance formation des travailleurs intellectuels salariés (F.A.F.T.I.S.) pour le personnel attaché à la section autonome notariale créée par l'accord du 17 décembre 1973 formant l'annexe III de la convention collective du notariat du 13 octobre 1975 ;
+
+L'institut national de la formation notariale (Inafon) prévu à l'annexe de la convention collective précitée ;
+
+Les syndicats et fédérations de clercs et employés de notaires pour les membres de leur personnel administratif ayant quitté un emploi dans le notariat pour exercer cette activité.

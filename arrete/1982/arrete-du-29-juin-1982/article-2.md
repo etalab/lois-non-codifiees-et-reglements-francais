@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur de la sécurité sociale est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le présent arrêté prendra effet à la date de publication au Journal officiel de la République française du décret instituant une cotisation complémentaire sur les salaires à la charge des organismes assimilés.

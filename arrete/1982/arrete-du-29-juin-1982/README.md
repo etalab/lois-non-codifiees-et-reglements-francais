@@ -1,4 +1,5 @@
-# Arrêté du 29 juin 1982 relatif à la part de la cotisation d'assurance maladie assise sur les avantages de retraite complémentaire devant être reversée au régime d'assurance maladie des mines et à celui de la Compagnie générale des eaux.
+# Arrêté du 29 juin 1982 fixant la liste des organismes professionnels assimilés pour l'application de la loi du 12 juillet 1937 modifiée instituant une caisse de retraite et de prévoyance des clercs et employés de notaires.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
+- [Article 3](article-3.md)
