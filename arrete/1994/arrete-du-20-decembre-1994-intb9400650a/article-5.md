@@ -1,3 +1,3 @@
 # Article 5
 
-A l'issue de la période de formation, le président du Centre national de la fonction publique territoriale délivre une attestation certifiant que le fonctionnaire a suivi la formation prévue à l'article 2.
+A l'issue de cette formation, le président du Centre national de la fonction publique territoriale établit une attestation portant sur l'assiduité et le comportement de l'agent lors de cette formation ainsi que sur le nombre de jours de formation effectué. Il transmet cette attestation au maire et au préfet concernés.

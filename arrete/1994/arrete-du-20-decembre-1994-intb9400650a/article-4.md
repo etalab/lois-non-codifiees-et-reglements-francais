@@ -1,3 +1,3 @@
 # Article 4
 
-A la réception des demandes mentionnées à l'article 3, le Centre national de la fonction publique territoriale informe l'autorité territoriale du calendrier de la formation ; celle-ci le notifie aux fonctionnaires territoriaux concernés.
+Le Centre national de la fonction publique territoriale informe le maire concerné du calendrier de la formation. Celui-ci le notifie aux fonctionnaires territoriaux concernés.
