@@ -34,7 +34,6 @@
 - [Décret n°71-918 du 10 novembre 1971](decret-n71-918-du-10-novembre-1971)
 - [Décret n°71-981 du 10 décembre 1971](decret-n71-981-du-10-decembre-1971)
 - [Décret n°71-688 du 11 août 1971](decret-n71-688-du-11-aout-1971)
-- [Décret n°71-570 du 13 juillet 1971](decret-n71-570-du-13-juillet-1971)
 - [Décret n°71-638 du 13 juillet 1971](decret-n71-638-du-13-juillet-1971)
 - [Décret n°71-847 du 13 octobre 1971](decret-n71-847-du-13-octobre-1971)
 - [Décret n°71-989 du 13 décembre 1971](decret-n71-989-du-13-decembre-1971)
