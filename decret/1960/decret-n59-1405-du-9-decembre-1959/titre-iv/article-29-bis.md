@@ -1,0 +1,9 @@
+# Article 29 bis
+
+Les agents contractuels justifiant de cinq années d'ancienneté professionnelle pourront, à l'intérieur d'un même groupe de catégories, accéder à la catégorie immédiatement supérieure à celle dans laquelle ils sont classés dans une limite calculée sur la base des recrutements effectués l'année précédente dans la catégorie postulée par l'application des coefficients suivants : un neuvième pour l'accès aux catégories 2 A, 3 A, 1 B, 1 B bis et 1 D (premier groupe) et un sixième pour l'accès aux autres catégories. Les pourcentages non utilisés pendant une année sont reportés sur l'année suivante.
+
+Pour l'application de ces dispositions, la hors-catégorie A et la première catégorie D (deuxième groupe) ne sont pas considérées comme catégories supérieures respectivement à la première catégorie A et à la première catégorie D (premier groupe). La catégorie 3 B est considérée comme la catégorie supérieure à 5 B ; en outre, les agents appartenant à la catégorie 6 D bis ou 6 D peuvent accéder à la catégorie 4 D dans la limite du sixième des recrutements effectués l'année précédente dans la catégorie 5 D.
+
+Par ailleurs, les agents appartenant aux catégories 1 B et 1 B bis pourront, dans les mêmes conditions, accéder à la catégorie 3 A, les anciennetés acquises respectivement dans les catégories 1 B et 1 B bis s'additionnant pour l'appréciation de l'ancienneté requise.
+
+Aucun agent ne pourra bénéficier, au cours de sa carrière, de plus de deux franchissements de catégorie accordés dans les conditions prévues par le présent article. Au cas où le premier franchissement aurait donné lieu à un changement de groupe, il ne pourrait y avoir de second franchissement. Toutefois, à l'intérieur du groupe B, les agents pourront bénéficier de trois franchissements de catégorie. Le passage de la catégorie 1 B bis à la catégorie 1 B n'est pas pris en considération pour l'application du présent alinéa.
