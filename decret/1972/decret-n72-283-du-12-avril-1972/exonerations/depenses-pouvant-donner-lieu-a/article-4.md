@@ -1,0 +1,3 @@
+# Article 4
+
+Tout assujetti à la taxe d'apprentissage peut obtenir, sur sa demande, une exonération totale ou partielle de cette taxe, en considération des dépenses réellement exposées par lui au cours de l'année d'imposition en vue de favoriser les premières formations technologiques et professionnelles, et notamment l'apprentissage, soit directement, soit par l'intermédiaire des chambres de commerce et d'industrie, des chambres de métiers, des chambres d'agriculture ou, sous réserve d'avoir été agréés à cet effet conformément aux dispositions de l'article 7 ci-après, des syndicats, groupements professionnels ou associations dès lors que les uns et les autres consacrent une partie de leurs ressources au but ci-dessus défini.
