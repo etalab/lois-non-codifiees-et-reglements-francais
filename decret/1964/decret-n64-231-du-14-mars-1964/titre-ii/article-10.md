@@ -26,6 +26,6 @@ Elle est assistée de quatre fonctionnaires :
 
 - un représentant du ministre des postes et télécommunications ;
 
-- un représentant du ministre chargé de l'information.
+- un représentant du ministre chargé de la communication.
 
-La commission nationale de contrôle est installée au plus tard 48 heures [*date limite*] avant le jour de l'ouverture de la campagne électorale.
+La commission nationale de contrôle est installée immédiatement aprés la publication du décret portant convocation des électeurs pour l'élection du Président de la République.
