@@ -1,6 +1,6 @@
 # Article 145
 
-Une allocation spéciale est attribuée aux personnes qui, travaillant à la mine et justifiant de trente années de service à la mine, en font la demande.
+Une allocation spéciale est attribuée aux personnes qui, travaillant à la mine, justifient de trente années de services à la mine.
 
 Pour vingt années au fond, le montant annuel de l'allocation s'élève à 694 F pour les affiliés n'ayant pas atteint l'âge de cinquante ans et à 1 040,80 F à partir de cet âge.
 

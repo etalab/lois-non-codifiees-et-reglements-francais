@@ -1,6 +1,6 @@
 # Article 92
 
-Les cotisations dues au titre des accidents du travail et des maladies professionnelles sont assises sur les rémunérations ou gains perçus par les personnes visées aux articles 2 à 5 et 8 ter du présent décret et les salariés visés à l'article 2 du décret du 8 novembre 1966 susvisé.
+Les cotisations dues au titre des accidents du travail et des maladies professionnelles sont assises sur les rémunérations ou gains perçus par les personnes visées aux articles 2 à 5 et 8 ter du présent décret et les salariés visés à l'article 18 du décret n° 75-8 du 6 janvier 1975 précité.
 
 Elle sont à la charge exclusive de l'employeur.
 

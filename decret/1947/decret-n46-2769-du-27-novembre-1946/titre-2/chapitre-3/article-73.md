@@ -6,4 +6,4 @@ Le directeur de la caisse autonome nationale est nommé par décret rendu sur le
 
 Les directeurs et les agents comptables des organismes mentionnés à l'article 10 exercent leurs fonctions dans les conditions prévues par les articles D. 253-4 à D. 253-7, D. 253-9 à D. 253-13 et D. 253-64 à D. 253-83 du code de la sécurité sociale.
 
-L'intérim des fonctions d'agent comptable des unions régionales et des sociétés de secours minières est assuré dans les conditions prévues par l'article D. 253-14 du code de la sécurité sociale.
+L'intérim des fonctions d'agent comptable des organismes mentionnés à l'article 10 est assuré dans les conditions prévues par l'article D. 253-14 du code de la sécurité sociale.

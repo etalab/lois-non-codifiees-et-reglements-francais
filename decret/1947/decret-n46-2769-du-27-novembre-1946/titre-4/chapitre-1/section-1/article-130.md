@@ -18,4 +18,4 @@ II. - Pour l'application du I du présent article, des conventions sont passées
 
 - les modalités selon lesquelles le partenaire conventionnel de la caisse autonome nationale rembourse à celle-ci la totalité des sommes afférentes aux pensions, y compris les accessoires, qu'elle aura liquidées et servies jusqu'à l'âge normal de l'ouverture du droit à pension des bénéficiaires.
 
-La durée de validité de ces conventions ne peut excéder un an, sauf si le nombre de bénéficiaires potentiels n'excède pas trois cents. Les conventions ne deviennent applicables qu'après avoir été approuvées par les arrêtés mentionnés au I du présent article.
+Les conventions ne deviennent applicables qu'après avoir été approuvées par les arrêtés mentionnés au I du présent article.

@@ -2,7 +2,7 @@
 
 Des cotisations d'assurance maladie, maternité, décès sont dues :
 
-1°   Au titre des personnes visées aux articles 2 à 5, 6 bis et 8 ter du présent décret, à l'article 2 du décret du 8 novembre 1966 susvisé et aux articles 2 à 4 du décret du 6 janvier 1975 susvisé ; elles sont assises sur leurs rémunérations ou gains et à la charge des employeurs et des salariés ; leur taux est de 12,70 p. 100, soit respectivement 11,95 p. 100 et 0,75 p. 100 ;
+1° Au titre des personnes visées aux articles 2 à 5, 6 bis et 8 ter du présent décret et aux articles 2 à 4 et 18 du décret n° 75-8 du 6 janvier 1975 précité ; elles sont assises sur leurs rémunérations ou gains et à la charge des employeurs et des salariés ; leur taux est de 12,70 p. 100, soit respectivement 11,95 p. 100 et 0,75 p. 100 ;
 
 2° Par les personnes visées à l'article 14 du décret du 6 janvier 1975 susvisé ; elles sont supportées et calculées comme indiqué audit article ; leur taux est de 12,70 p. 100 ;
 
@@ -10,13 +10,13 @@ Des cotisations d'assurance maladie, maternité, décès sont dues :
 
 Sous réserve des dispositions de l'alinéa ci-après, le taux de ces cotisations est :
 
-a) De 0,50 % pour :
+De 0,50 % pour  :
 
-- les pensions de vieillesse, les pensions d'invalidité et les pensions de veuve prévues au titre IV du présent décret ainsi que leurs avantages accessoires, à l'exception de ceux mentionnés aux articles 139 et 141 du présent décret ;
+- les pensions de vieillesse, les pensions d'invalidité et les pensions de réversion prévues au titre IV du présent décret ainsi que leurs avantages accessoires, à l'exception de ceux mentionnés aux articles 139 et 141 du présent décret ;
 
-- les prestations prévues aux articles 130 et 146 du présent décret ;
+- les prestations prévues aux articles 130 et 146 du présent décret et l'indemnité conventionnelle de cessation anticipée d'activité mentionnée au b du 4° de l'article 132 ;
 
-- les allocations anticipées de retraite visées par le protocole d'accord relatif à la conversion en date du 26 janvier 1989 entre Charbonnages de France et les houillères de bassin, d'une part, et les organisations syndicales, d'autre part ;
+- les allocations anticipées de retraite visées par le protocole d'accord relatif à la conversion en date du 26 janvier 1989 entre Charbonnages de France et les Houillères de bassin, d'une part, et les organisations syndicales, d'autre part ;
 
 b) De 1,70 % pour les avantages mentionnés au deuxième alinéa de l'article L. 131-2 du code de la sécurité sociale qui sont servis aux assurés relevant du présent décret, sans préjudice des dispositions du a ci-dessus ;
 
@@ -26,7 +26,7 @@ Pour les personnes qui relèvent du deuxième alinéa de l'article L. 131-7-1 du
 
 a) Par dérogation aux dispositions du 3° de l'article D. 711-5 dudit code, de 3,30 % pour :
 
-- les pensions de vieillesse, les pensions d'invalidité et les pensions de veuve prévues au titre IV du présent décret ainsi que leurs avantages accessoires, à l'exception de ceux mentionnés aux articles 139 et 141 du présent décret ;
+- les pensions de vieillesse, les pensions d'invalidité et les pensions de réversion prévues au titre IV du présent décret ainsi que leurs avantages accessoires, à l'exception de ceux mentionnés aux articles 139 et 141 du présent décret ;
 
 - les prestations prévues aux articles 130 et 146 du présent décret ;
 

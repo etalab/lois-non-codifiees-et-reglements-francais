@@ -1,4 +1,4 @@
-# Chapitre 4 : Pensions de veuves
+# Chapitre 4 : Pensions de réversion
 
 - [Article 166](article-166.md)
 - [Article 167](article-167.md)

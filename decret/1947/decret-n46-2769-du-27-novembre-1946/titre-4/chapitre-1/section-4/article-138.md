@@ -8,4 +8,4 @@ A condition d'avoir été occupé dans les travaux du fond jusqu'aux trois derni
 
 - soit pour une durée égale à la moitié ou à la totalité des services préalables au fond selon que l'affilié a accompli moins de dix ans ou de dix à dix-neuf ans de services au fond.
 
-Lorsque l'affilié bénéficie d'un congé charbonnier de fin de carrière, à condition qu'il ait été occupé au fond jusqu'aux trois derniers mois précédant ledit congé, cette période de congé est validée dans les mêmes conditions que celles mentionnées à l'alinéa précédent.
+Lorsque l'affilié bénéficie d'un congé charbonnier de fin de carrière ou d'un congé de conversion, à condition qu'il ait été occupé au fond jusqu'aux trois derniers mois précédant ledit congé, cette période de congé est validée dans les mêmes conditions que celles mentionnées à l'alinéa précédent.

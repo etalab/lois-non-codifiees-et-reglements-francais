@@ -20,7 +20,7 @@ d) Allocation d'attente, déduction faite des périodes susceptibles d'être pri
 
 a) Les périodes pendant lesquelles l'affilié a bénéficié, postérieurement au 30 juin 1984, de l'ouverture anticipée du droit à pension de retraite en application de l'article 130 ;
 
-b) Les périodes mentionnées aux 2° et 3° de l'article L. 351-3 du code de la sécurité sociale ;
+b) Les périodes mentionnées aux 2° et 3° de l'article L. 351-3 du code de la sécurité sociale ainsi que les périodes de perception de l'indemnité de cessation anticipée d'activité prévue par l'accord du 22 mai 1997 relatif à l'avenir du personnel des mines de potasse d'Alsace, antérieures au cinquante-cinquième anniversaire de l'affilié ;
 
 5° Les périodes d'études passées dans les écoles techniques et d'apprentissage et dans les écoles d'ingénieurs après l'âge de seize ans, dans la limite d'une durée de trois ans et à raison d'un trimestre par tranche de cinq trimestres de services, sous réserve :
 
@@ -32,4 +32,4 @@ b) Les périodes mentionnées aux 2° et 3° de l'article L. 351-3 du code de la
 
 Les services et emplois mentionnés au présent paragraphe s'entendent de ceux visés, d'une part, aux 1° et 2° du présent article, à l'exclusion des services accomplis au sein ou auprès des entreprises ou organismes relevant du présent régime dans des fonctions administratives, médicales ou paramédicales et, d'autre part, à l'article 8 du présent décret et à l'article 11 de la loi du 21 décembre 1973 susvisée ;
 
-6° Les périodes pendant lesquelles l'assuré a effectué son service national légal ou a été présent sous les drapeaux par suite de mobilisation ou comme volontaire en temps de guerre, si ces périodes n'ont pas été prises en compte pour l'attribution d'une pension ; toutefois, les périodes de service national légal accomplies par les assurés ne justifiant pas de soixante trimestres validés au titre du présent régime ne sont prises en compte qu'en cas d'affiliation préalable audit régime.
+6° Les périodes pendant lesquelles l'assuré a effectué son service national légal ou a été présent sous les drapeaux par suite de mobilisation ou comme volontaire en temps de guerre, si ces périodes n'ont pas été prises en compte pour l'attribution d'une pension ; toutefois, les périodes de service national légal accomplies par les assurés ne justifiant pas de soixante trimestres validés au titre du présent régime ne sont prises en compte qu'en cas d'affiliation préalable audit régime sauf pour ceux qui étaient occupés dans une exploitation minière ou assimilée à la date de la maladie ou de l'accident à la suite duquel ils sont décédés ou devenus invalides.

@@ -12,6 +12,6 @@ Sont également affiliés au régime ci-dessus visé [*champ d'application caté
 
 Ces travaux seront définis par arrêté du ministre chargé des mines, après avis du conseil d'administration de la caisse autonome nationale.
 
-L'entreprise des mines ou de recherches de mines dont il s'agit assure l'affiliation desdits travailleurs.
+L'entreprise de mines ou de recherches de mines dont il s'agit accomplit les démarches nécessaires à l'affiliation desdites personnes auprès de la caisse autonome nationale, de la société de secours minière et de l'union régionale dont elles relèvent.
 
 Les employés de coopératives ne peuvent prétendre au bénéfice du présent article que pour une période maximum de cinq années.
