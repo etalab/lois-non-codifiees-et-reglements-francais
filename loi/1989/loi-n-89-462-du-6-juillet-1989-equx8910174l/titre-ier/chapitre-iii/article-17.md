@@ -10,7 +10,7 @@ a) Le loyer :
 
 b) Le loyer des logements vacants ou faisant l'objet d'une première location qui ne sont pas visés au a ci-dessus est fixé par référence aux loyers habituellement constatés dans le voisinage pour des logements comparables dans les conditions définies à l'article 19, s'il est supérieur au dernier loyer exigé du précédent locataire.
 
-Les dispositions de l'alinéa précédent sont applicables pendant une durée de cinq ans à compter de la date de la publication de la présente loi. Avant l'expiration de ce délai, le Gouvernement présentera au Parlement un rapport d'exécution permettant d'établir la comparaison entre l'évolution des loyers des logements vacants selon qu'ils relèvent du a ou du b du présent article.
+Les dispositions de l'alinéa précédent sont applicables jusqu'au 31 juillet 1997. Avant cette date, le Gouvernement présentera au Parlement un rapport d'exécution permettant d'établir la comparaison entre l'évolution des loyers des logements vacants selon qu'ils relèvent du a ou du b du présent article.
 
 Toutefois, le Gouvernement présentera au Parlement, dans un délai d'un an à compter de la promulgation de la loi n° 92-722 du 29 juillet 1992 portant adaptation de la loi n° 88-1088 du 1er décembre 1988 relative au minimum d'insertion et relative à la lutte contre la pauvreté et l'exclusion sociale et professionnelle, un rapport d'information sur les logements vacants dans les agglomérations de plus de 200 000 habitants au sens du recensement général de la population, spécifiant, entre autres, les motifs et la durée de la vacance.
 
@@ -38,6 +38,8 @@ La révision éventuelle résultant du d ci-dessous s'applique à chaque valeur 
 
 d) Lorsque le contrat de location prévoit la révision du loyer, celle-ci intervient chaque année à la date convenue entre les parties ou, à défaut, au terme de chaque année du contrat.
 
-L'augmentation du loyer qui en résulte ne peut excéder la variation de l'indice national mesurant le coût de la construction publié par l'Institut national de la statistique et des études économiques. A défaut de clause contractuelle fixant la date de référence, cette date est celle du dernier indice publié à la date de signature du contrat de location.
+L'augmentation du loyer qui en résulte ne peut excéder la variation de la moyenne sur quatre trimestres de l'indice national mesurant le coût de la construction publié par l'Institut national de la statistique et des études économiques. A défaut de clause contractuelle fixant la date de référence, cette date est celle du dernier indice publié à la date de signature du contrat de location.
+
+La moyenne mentionnée ci-dessus est celle de l'indice du coût de la construction à la date de référence et des indices des trois trimestres qui la précèdent.
 
 e) Lorsque les parties sont convenues, par une clause expresse, de travaux d'amélioration du logement que le bailleur fera exécuter, le contrat de location ou un avenant à ce contrat fixe la majoration du loyer consécutive à la réalisation de ces travaux.

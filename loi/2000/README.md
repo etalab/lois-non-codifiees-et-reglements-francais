@@ -1,6 +1,9 @@
 # 2000
 
 - [Loi n° 2000-108 du 10 février 2000 (ECOX9800166L)](loi-n-2000-108-du-10-fevrier-2000-ecox9800166l)
+- [Loi n° 2000-1207 du 13 décembre 2000 (INTX0000028L)](loi-n-2000-1207-du-13-decembre-2000-intx0000028l)
+- [Loi n° 2000-1208 du 13 décembre 2000 (EQUX9900145L)](loi-n-2000-1208-du-13-decembre-2000-equx9900145l)
+- [Loi n° 2000-1209 du 13 décembre 2000 (MESX0004381L)](loi-n-2000-1209-du-13-decembre-2000-mesx0004381l)
 - [Loi n° 2000-121 du 16 février 2000 (PARX9903608L)](loi-n-2000-121-du-16-fevrier-2000-parx9903608l)
 - [Loi n° 2000-175 du 2 mars 2000 (MESX9903791L)](loi-n-2000-175-du-2-mars-2000-mesx9903791l)
 - [Loi n° 2000-230 du 13 mars 2000 (JUSX9900020L)](loi-n-2000-230-du-13-mars-2000-jusx9900020l)

@@ -8,9 +8,9 @@ Les secteurs locatifs sont les suivants :
 
 - logements appartenant aux sociétés d'économie mixte, aux sociétés immobilières à participation majoritaire de la Caisse des dépôts et consignations, aux collectivités publiques, aux sociétés filiales d'un organisme collecteur de la contribution des employeurs à l'effort de construction et aux filiales de ces organismes autres que celles mentionnées à l'alinéa ci-dessus ;
 
-- logements appartenant aux entreprises d'assurance, aux sociétés immobilières créées en application de l'ordonnance n° 58-876 du 24 septembre 1958 relative aux sociétés immobilières conventionnées, aux sociétés immobilières d'investissement créées en application de la loi n° 63-254 du 15 mars 1963 portant réforme de l'enregistrement, du timbre et de la fiscalité immobilière, aux établissements de crédit et aux filiales de ces organismes autres que celles mentionnées aux deux alinéas ci-dessus ;
+- logements appartenant aux entreprises d'assurance, aux établissements de crédit et aux filiales de ces organismes et aux personnes morales autres que celles mentionnées aux deux alinéas précédents ;
 
-- logements appartenant aux autres catégories de bailleurs.
+- logements appartenant aux bailleurs personnes physiques et aux sociétés civiles immobilières constituées exclusivement entre parents et alliés jusqu'au quatrième degré inclus.
 
 Ces accords portent notamment sur les suppléments de loyers pour les organismes d'habitations à loyer modéré, la maîtrise de l'évolution des charges récupérables, la grille de vétusté, l'amélioration et l'entretien des logements et des parties communes, les locaux résidentiels à usage commun.
 

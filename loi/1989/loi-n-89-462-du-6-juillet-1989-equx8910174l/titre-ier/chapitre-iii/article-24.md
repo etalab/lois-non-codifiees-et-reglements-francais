@@ -13,3 +13,5 @@ Si le locataire se libère dans le délai et selon les modalités fixés par le 
 Le commandement de payer reproduit, à peine de nullité, les dispositions des alinéas précédents ainsi que du premier alinéa de l'article 6 de la loi n° 90-449 du 31 mai 1990 visant la mise en oeuvre du droit au logement, en mentionnant la faculté pour le locataire de saisir le fonds de solidarité pour le logement dont l' adresse est précisée.
 
 Lorsque les obligations résultant d'un contrat de location conclu en application du présent titre sont garanties par un cautionnement, le commandement de payer est signifié à la caution dans un délai de quinze jours à compter de la signification du commandement au locataire. A défaut, la caution ne peut être tenue au paiement des pénalités ou intérêts de retard.
+
+Les dispositions du deuxième alinéa sont applicables aux assignations tendant au prononcé de la résiliation du bail lorsqu'elle est motivée par l'existence d'une dette locative du preneur.

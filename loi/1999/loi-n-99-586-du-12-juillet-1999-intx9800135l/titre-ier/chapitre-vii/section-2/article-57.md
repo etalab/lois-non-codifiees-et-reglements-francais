@@ -81,3 +81,9 @@ La dissolution est prononcée par décret en conseil des ministres.
 Un décret en Conseil d'Etat détermine, sous réserve du droit des tiers, les conditions dans lesquelles la communauté est liquidée ; il fixe notamment les conditions dans lesquelles s'opère le transfert des biens, droits et obligations, après l'avis d'une commission dont la composition est fixée par arrêté du ministre de l'intérieur et qui comprend notamment des maires et des conseillers généraux.
 
 Les personnels de la communauté sont répartis entre les communes membres ou leurs éventuels organismes de coopération, après avis des commissions administratives paritaires compétentes, sans qu'il puisse être procédé à un dégagement des cadres et en tenant compte de leurs droits acquis. Les communes ou leurs éventuels organismes de coopération attributaires supportent les charges financières correspondantes. Un décret en Conseil d'Etat fixe les conditions et les modalités de cette répartition.
+
+G. - Retrait d'une commune :
+
+Le troisième alinéa de l'article L. 5211-19 du code général des collectivités territoriales ne s'applique pas aux cas de retrait d'une commune d'une communauté de villes pour adhérer à une communauté d'agglomération ou à un établissement public de coopération intercommunale qui a décidé de se transformer en communauté d'agglomération.
+
+En cas de refus du conseil communautaire, ce retrait peut être autorisé par le représentant de l'Etat dans les conditions prévues à l'article L. 5214-26 du même code.

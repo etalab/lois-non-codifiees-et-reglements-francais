@@ -18,3 +18,4 @@
 - [Loi n° 82-939 du 4 novembre 1982](loi-n-82-939-du-4-novembre-1982)
 - [Loi n°82-471 du 7 juin 1982](loi-n82-471-du-7-juin-1982)
 - [Loi n°82-6 du 7 janvier 1982](loi-n82-6-du-7-janvier-1982)
+- [Loi n°82-684 du 4 août 1982](loi-n82-684-du-4-aout-1982)
