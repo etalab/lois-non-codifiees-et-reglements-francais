@@ -52,8 +52,6 @@ Responsable de la réglementation paie.
 
 Chargé de gestion statutaire ou financière au niveau fédéral dans le domaine administratif ou informatique.
 
-Responsable du service comptabilité-finance de la mutuelle de la Caisse des dépôts et consignations.
-
 Aide documentaliste spécialisé au niveau fédéral.
 
 Secrétaire du conseil d'administration de la Caisse nationale de retraite des agents des collectivités locales (C.N.R.A.C.L.) ;
@@ -69,8 +67,6 @@ Chargé de clientèle exerçant des responsabilités particulières dans le doma
 Responsable de groupe de gestion fonctionnel ;
 
 Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche Caisse de retraites de Bordeaux (B.C.R.B.) ;
-
-Responsable d'une unité administrative chargé d'un projet informatique ;
 
 Responsable comptable et/ou budgétaire au niveau fédéral ;
 
@@ -120,9 +116,7 @@ Responsable de la fonction correspondant informatique ou de la fonction correspo
 
 Responsable d'une équipe médicale au niveau fédéral ;
 
-Concepteur maquéttiste de documents d'information pour l'association comité social d'établissement et vacances loisirs ;
-
-A compter du 1er août 1997, sont rajoutés les emplois suivants :
+A COMPTER DU 1ER AOÛT 1997, SONT RAJOUTES LES EMPLOIS SUIVANTS :
 
 Actuaire responsable de l'unité inventaire du portefeuille de la CNP Assurances ;
 
@@ -136,14 +130,22 @@ Assistant de gestion statutaire et/ou financière des personnels au niveau d'une
 
 Chargé d'étude pour l'établissement du bilan social du Groupe ou de la CNP Assurances.
 
-A compter du 1er août 1998, sont ajoutés les emplois suivants :
+A COMPTER DU 1ER AOÛT 1998, SONT AJOUTES LES EMPLOIS SUIVANTS :
 
-- chef d'unité opérationnelle ou fonctionnelle dans le domaine des assurances ou responsable du service aux assurés B ;
+chef d'unité opérationnelle ou fonctionnelle dans le domaine des assurances ou responsable du service aux assurés B ;
 
-- agent ayant un pouvoir de décision, d'animation et de coordination du niveau d'un responsable d'unité ou assistant d'un chef de service ;
+agent ayant un pouvoir de décision, d'animation et de coordination du niveau d'un responsable d'unité ou assistant d'un chef de service ;
 
-- responsable de l'exploitation d'un restaurant de l'Association de gestion des restaurants (AGR) ;
+responsable de l'exploitation d'un restaurant de l'Association de gestion des restaurants (AGR) ;
 
-- responsable de l'accueil téléphonique ou gestionnaire de l'autocommutateur à la branche Caisses de retraites de Bordeaux ;
+responsable de l'accueil téléphonique ou gestionnaire de l'autocommutateur à la branche Caisses de retraites de Bordeaux ;
 
-- responsable du service aux assurés A ou responsable production A ou responsable activités transversales.
+responsable du service aux assurés A ou responsable production A ou responsable activités transversales.
+
+A COMPTER DU 1ER AOÛT 1999, SONT AJOUTES LES EMPLOIS SUIVANTS :
+
+Directeur de centre de loisirs ;
+
+Assistant de gestion d'un secteur d'activité comportant une technicité et une responsabilité particulière dans le domaine bancaire ;
+
+Responsable audiovisuel.
