@@ -1,9 +1,9 @@
 # Article 9
 
-L'élément de base de l'administration au sein des armées est la formation administrative.
+L'élément de base de l'administration au sein des armées, de la gendarmerie et des services de soutien interarmées est la formation administrative.
 
-Les formations administratives sont les corps de troupe, unités, bases ou établissements administrés comme tels.
+Les formations administratives sont les corps de troupe de l'armée de terre, les formations autonomes de la marine, les bases aériennes de l'armée de l'air, les légions de gendarmerie et les organismes administrés comme tels. D'autres organismes ou formations peuvent leur être administrativement rattachés.
 
-Les chefs de corps, les commandants d'unité, les commandants de base ou les chefs d'établissement sont responsables de l'administration intérieure de leur formation.
+Les commandants de formation administrative sont responsables de l'administration intérieure de leur formation.
 
-La responsabilité de certaines tâches administratives peut être exercée au profit des formations administratives par des organismes dont les attributions sont fixées par le ministre chargé des armées.
+La responsabilité de certaines tâches administratives peut être exercée au profit des formations administratives par des organismes dont les attributions sont fixées par le ministre de la défense.
