@@ -38,6 +38,7 @@
 - [Décret n°82-248 du 12 mars 1982](decret-n82-248-du-12-mars-1982)
 - [Décret n°82-400 du 12 mai 1982](decret-n82-400-du-12-mai-1982)
 - [Décret n°82-404 du 13 mai 1982](decret-n82-404-du-13-mai-1982)
+- [Décret n°82-407 du 13 mai 1982](decret-n82-407-du-13-mai-1982)
 - [Décret n°81-408 du 15 avril 1981](decret-n81-408-du-15-avril-1981)
 - [Décret n°81-409 du 15 avril 1981](decret-n81-409-du-15-avril-1981)
 - [Décret n°81-410 du 15 avril 1981](decret-n81-410-du-15-avril-1981)
