@@ -1,7 +1,5 @@
 # Article 55-6
 
-Par. Ier. Chaque assuré peut demander, à partir de son soixantième anniversaire [*âge minimum*], la liquidation d'une pension de vieillesse dans les conditions [*d'attribution*] prévues aux paragraphes 1er, 2 et 2 bis de l'article 1er bis du décret n° 51-727 du 6 juin 1951.
+L'assuré âgé de plus de soixante-cinq ans et qui ne justifie pas de 150 trimestres d'assurance dans le régime des assurances sociales agricoles bénéficie, en application de l'article 1er bis (par. 9) du décret n° 51-727 du 6 juin 1951, d'une majoration de sa durée d'assurance dans ce régime égale à 2,5 p. 100 par trimestre postérieur à son soixante-cinquième anniversaire sans que cette majoration puisse avoir pour effet de porter au-delà de 150 trimestres sa durée d'assurance.
 
-Par. 2. - L'assuré indique la date à compter de laquelle il désire entrer en jouissance de sa pension. Cette date, nécessairement le premier jour d'un mois civil, ne peut être antérieure ni au dépôt de la demande, ni au soixantième anniversaire de l'intéressé. Si l'assuré ne fixe pas l'entrée en jouissance de sa pension, celle-ci prend effet [*par défaut*] du premier jour du mois civil [*point de départ*] suivant la réception de la demande par la caisse de mutualité sociale agricole.
-
-L'entrée en jouissance de la pension allouée pour inaptitude au travail ne peut être fixée à une date antérieure au premier jour du mois civil suivant la date à partir de laquelle l'inaptitude a été reconnue.
+Le nombre total de trimestres d'assurance obtenu en application de l'alinéa précédent est éventuellement arrondi au chiffre immédiatement supérieur, sans pouvoir excéder 150.
