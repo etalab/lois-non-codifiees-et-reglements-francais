@@ -1,0 +1,3 @@
+# Article 63
+
+Dans les zones de revitalisation rurale mentionnées à l'article 42, l'Etat peut conclure avec les collectivités territoriales compétentes des contrats particuliers s'insérant dans les contrats de plan Etat-région prévus à l'article 11 de la loi n° 82-653 du 29 juillet 1982 portant réforme de la planification. Ces contrats ont pour objet de renforcer l'action publique dans les territoires ruraux les plus défavorisés, en assurant la convergence des interventions publiques, en accroissant l'engagement des partenaires publics, et en adaptant les actions à la spécificité des situations locales. Ces contrats sont conclus pour la durée du plan. Toutefois, si la situation l'exige, ils peuvent être mis en oeuvre pour une durée inférieure.

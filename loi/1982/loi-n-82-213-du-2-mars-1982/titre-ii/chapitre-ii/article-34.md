@@ -8,7 +8,7 @@ Il est seul habilité à s'exprimer au nom de l'Etat devant le conseil général
 
 Le représentant de l'Etat dans le département a la charge des intérêts nationaux, du respect des lois, de l'ordre public et, dans les conditions fixées par la présente loi, du contrôle administratif. S'il n'en est disposé autrement par la présente loi, il exerce les compétences précédemment dévolues au préfet de département en tant que délégué du Gouvernement dans le département. Il est assisté, à cet effet, dans le département, d'un secrétaire général et, le cas échéant, de délégués dans les arrondissements du représentant de l'Etat.
 
-Dans les conditions prévues par la présente loi, il veille à l'exercice régulier de leurs compétences par les autorités du département et des communes.
+Dans les conditions prévues par la présente loi, il veille à l'exercice régulier de leurs compétences par les autorités du département et des communes. Le délégué dans l'arrondissement du représentant de l'Etat dans le département exerce, par délégation, tout ou partie des attributions dévolues à ce dernier. A ce titre, il anime et coordonne l'action des services de l'Etat dans l'arrondissement.
 
 II. - Sur leur demande, le président du conseil général et les maires reçoivent du représentant de l'Etat dans le département les informations nécessaires à l'exercice de leurs attributions.
 

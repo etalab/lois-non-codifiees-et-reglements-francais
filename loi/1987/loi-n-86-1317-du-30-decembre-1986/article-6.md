@@ -30,6 +30,8 @@ a) Les communes qui remplissent, au titre de l'année précédente, les conditio
 
 b) Les communes qui ont bénéficié, au titre de l'année précédente, d'une attribution du Fonds de solidarité des communes de la région d'Ile-de-France institué par l'article 14 de la loi n° 91-429 du 13 mai 1991 précitée.
 
+En 1995, la compensation versée aux communes progresse comme l'indice prévisionnel du prix de la consommation des ménages (hors tabac) figurant dans la projection économique annexée au projet de loi de finances. La différence avec le montant résultant de l'application du quatrième alinéa est affectée au fonds national de péréquation institué à l'article 1648 B bis du code général des impôts.
+
 Alinéa modificateur
 
 IV bis. - A compter de 1992, la dotation prévue au premier alinéa du IV est majorée afin de compenser, dans les conditions ci-après, la perte de recettes qui résulte, chaque année, pour les collectivités locales et leurs groupements dotés d'une fiscalité propre créés avant le 1er janvier 1987, des dispositions de l'article 1469 A bis et du dernier alinéa du II de l'article 1478 du code général des impôts.
@@ -54,4 +56,4 @@ Pour les groupements dont les bases de taxe professionnelle par habitant sont su
 
 Les recettes fiscales s'entendent, pour l'application du présent paragraphe, du produit des rôles généraux de la taxe d'habitation, de la taxe foncière sur les propriétés bâties, de la taxe foncière sur les propriétés non bâties, de la taxe professionnelle et de la taxe départementale sur le revenu émis l'année précédente au profit de la collectivité ou du groupement, majoré du montant des compensations qui lui ont été versées, la même année, en application des IV et IV bis du présent article ainsi que de l'article 21 de la loi de finances pour 1992 (n° 91-1322 du 30 décembre 1991).
 
-V Paragraphe modificateur.
+V Paragraphe modificateur

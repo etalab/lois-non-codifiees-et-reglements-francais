@@ -1,0 +1,3 @@
+# Article 122
+
+Sous réserve des droits nés de décisions de justice passées en force de chose jugée, les décisions individuelles de perception des droits d'écolage institués par la loi de finances pour l'exercice 1951 (n° 51-598 du 24 mai 1951) et par la loi n° 90-588 du 6 juillet 1990 portant création de l'Agence pour l'enseignement français à l'étranger sont validées en tant que leur illégalité serait contestée par le moyen tiré de l'absence d'arrêtés pris pour l'application de l'article 48 de la loi n° 51-598 du 24 mai 1951 précitée et de l'article 3 de la loi n° 90-588 du 6 juillet 1990 précitée ou de l'absence de l'un de ces deux textes.

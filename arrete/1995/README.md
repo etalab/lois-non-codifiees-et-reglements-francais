@@ -34,6 +34,7 @@
 - [Arrêté du 5 mai 1995 (ACVA9510016A)](arrete-du-5-mai-1995-acva9510016a)
 - [Arrêté du 5 mai 1995 (ACVA9510018A)](arrete-du-5-mai-1995-acva9510018a)
 - [Arrêté du 5 mai 1995 (SPSS9501463A)](arrete-du-5-mai-1995-spss9501463a)
+- [Arrêté du 6 décembre 1994 (AGRG9402345A)](arrete-du-6-decembre-1994-agrg9402345a)
 - [Arrêté du 6 décembre 1994 (ENVP9430427A)](arrete-du-6-decembre-1994-envp9430427a)
 - [Arrêté du 6 février 1996 (AGRA9502511A)](arrete-du-6-fevrier-1996-agra9502511a)
 - [Arrêté du 6 janvier 1995 (ENVN9430428A)](arrete-du-6-janvier-1995-envn9430428a)

@@ -5,6 +5,8 @@
 - [Loi n° 94-624 du 21 juillet 1994 (LOGX9400039L)](loi-n-94-624-du-21-juillet-1994-logx9400039l)
 - [Loi n° 95-1 du 2 janvier 1995 (JUSX9400074L)](loi-n-95-1-du-2-janvier-1995-jusx9400074l)
 - [Loi n° 95-101 du 2 février 1995 (ENVX9400049L)](loi-n-95-101-du-2-fevrier-1995-envx9400049l)
+- [Loi n° 95-115 du 4 février 1995 (INTX9400057L)](loi-n-95-115-du-4-fevrier-1995-intx9400057l)
+- [Loi n° 95-116 du 4 février 1995 (SPSX9400133L)](loi-n-95-116-du-4-fevrier-1995-spsx9400133l)
 - [Loi n° 95-2 du 2 janvier 1995 (AGRX9400058L)](loi-n-95-2-du-2-janvier-1995-agrx9400058l)
 - [Loi n° 95-65 du 19 janvier 1995 (INTX9400550L)](loi-n-95-65-du-19-janvier-1995-intx9400550l)
 - [Loi n° 95-66 du 20 janvier 1995 (INTX9400061L)](loi-n-95-66-du-20-janvier-1995-intx9400061l)
