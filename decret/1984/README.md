@@ -293,7 +293,6 @@
 - [Décret n°84-310 du 27 avril 1984](decret-n84-310-du-27-avril-1984)
 - [Décret n°84-522 du 27 juin 1984](decret-n84-522-du-27-juin-1984)
 - [Décret n°84-535 du 27 juin 1984](decret-n84-535-du-27-juin-1984)
-- [Décret n°84-62 du 27 janvier 1984](decret-n84-62-du-27-janvier-1984)
 - [Décret n°84-63 du 27 janvier 1984](decret-n84-63-du-27-janvier-1984)
 - [Décret n°83-1018 du 28 novembre 1983](decret-n83-1018-du-28-novembre-1983)
 - [Décret n°84-1042 du 28 novembre 1984](decret-n84-1042-du-28-novembre-1984)
