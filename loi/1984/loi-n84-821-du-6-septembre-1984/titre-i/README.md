@@ -8,5 +8,6 @@
 - [Article 6](article-6.md)
 - [Chapitre VI - Des conseils de pays.](chapitre-vi)
 - [Article 32](article-32.md)
+- [Article 36](article-36.md)
 - [Article 37](article-37.md)
 - [Article 53](article-53.md)
