@@ -29,7 +29,6 @@
 - [Décret n°66-239 du 18 avril 1966](decret-n66-239-du-18-avril-1966)
 - [Décret n°66-866 du 18 novembre 1966](decret-n66-866-du-18-novembre-1966)
 - [Décret n°66-900 du 18 novembre 1966](decret-n66-900-du-18-novembre-1966)
-- [Décret n°66-450 du 20 juin 1966](decret-n66-450-du-20-juin-1966)
 - [Décret n°66-270 du 22 avril 1966](decret-n66-270-du-22-avril-1966)
 - [Décret n°66-447 du 22 juin 1966](decret-n66-447-du-22-juin-1966)
 - [Décret n°65-1139 du 23 décembre 1965](decret-n65-1139-du-23-decembre-1965)

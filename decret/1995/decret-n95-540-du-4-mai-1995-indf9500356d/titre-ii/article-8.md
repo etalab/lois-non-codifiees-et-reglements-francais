@@ -14,7 +14,7 @@ Cette demande, remise en sept exemplaires, comprend :
 
 S'il y a lieu, ce document indique également, compte tenu des variations saisonnières et climatiques, les incidences de l'opération sur la qualité de l'air, les odeurs, la santé ou la sécurité publique, la production agricole, la conservation des constructions et monuments, ou sur le caractère des sites, et plus généralement sur toutes les composantes de l'environnement. Les incidences indirectes, telles que les retombées d'aérosols ou de poussières ou leurs dépôts doivent également être indiquées.
 
-Les transferts de radionucléides par les différents vecteurs, notamment les chaînes alimentaires et les sédiments aquatiques, sont évalués.
+Les transferts de radionucléides par les différents vecteurs, notamment les chaînes alimentaires et les sédiments aquatiques, sont évalués. Sont évalués les transferts de radionucléides par les différents vecteurs, notamment les chaînes alimentaires et les sédiments aquatiques, et font l'objet d'une estimation les doses auxquelles la population est soumise au niveau du groupe de référence.
 
 Le document précise, s'il y a lieu, les mesures compensatoires ou correctives envisagées et la compatibilité du projet avec le schéma directeur ou le schéma d'aménagement et de gestion des eaux et avec les objectifs de qualité des eaux prévus par le décret du 19 décembre 1991 susvisé.
 

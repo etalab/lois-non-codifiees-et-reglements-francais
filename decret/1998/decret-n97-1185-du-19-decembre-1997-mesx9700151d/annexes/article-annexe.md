@@ -42,6 +42,24 @@ Art. R. 665-27.
 
 Art. R. 665-28.
 
+5
+
+Dérogation individuelle à l'interdiction d'addition intentionnelle de radionucléides artificiels et naturels, y compris lorsqu'ils sont obtenus par activation, dans les biens de consommation et les produits de construction (conjointement, selon le cas, avec le ministre chargé de la consommation ou le ministre chargé de la construction).
+
+R. 43-2-III
+
+6
+
+Agrément des laboratoires pour la réalisation d'analyses de la radioactivité de l'environnement (conjointement avec le ministre de l'environnement).
+
+R. 43-6
+
+7
+
+Agrément des organismes de contrôle des règles de radioprotection (conjointement avec le ministre du travail).
+
+R. 43-38
+
 Code de la sécurité sociale
 
 1
@@ -388,11 +406,29 @@ En cas de nécessité impérieuse pour la santé publique, autorisation à un pr
 
 Art. R. 5126.
 
-11
+11.1
 
-Autorisations d'importation, d'exportation, de détention, de cession, de mise sur le marché et d'utilisation de radioéléments artificiels destinés à la médecine ou à la biologie humaine à l'exception de ceux contenus ou entrant dans la fabrication des médicaments.
+Agrément des organismes chargés de la mesure des activités volumiques en radon dans les établissements recevant du public.
 
-Art. R. 5234.
+R. 43-10
+
+11.2
+
+Autorisation pour la fabrication, l'importation, l'exportation de radionucléides, de produits ou dispositifs en contenant, destinés à la médecine, à l'art dentaire, à la biologie humaine et à la recherche biomédicale, ainsi que pour leur détention en vue de leur distribution.
+
+R. 43-13
+
+11.3
+
+Autorisation pour l'utilisation et la détention en vue de leur utilisation, de radionucléides, de produits ou dispositifs en contenant, à des fins médicales, d'analyse biologique ou de recherche biomédicale, et l'utilisation des appareils électriques émettant des rayons X à des fins thérapeutiques, y compris l'utilisation d'accélérateurs, et à des fins de diagnostic lorsqu'ils figurent sur la liste des matériels lourds définis à l'article L. 6122-14.
+
+R. 43-19
+
+11.4
+
+Autorisation pour les applications autres que celles destinées à la médecine, à l'art dentaire, à la biologie humaine et à la recherche biomédicale.
+
+R. 43-22
 
 12
 
@@ -496,11 +532,7 @@ Annulation de décisions des conseils d'administration des organismes régionaux
 
 Art. R. 151-1.
 
-4
-
-Agrément des appareils et installations utilisant des rayonnements ionisants utilisés à des fins médicales.
-
-Art. R. 162-53 et article 1er de l'arrêté du 23 avril 1969 modifié relatif à l'agrément des appareils et installations utilisant des rayonnements ionisants à des fins médicales.
+4 (rubrique supprimée)
 
 5
 
