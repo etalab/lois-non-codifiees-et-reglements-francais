@@ -23,6 +23,7 @@
 - [Arrêté du 19 mars 1968](arrete-du-19-mars-1968)
 - [Arrêté du 20 avril 1968](arrete-du-20-avril-1968)
 - [Arrêté du 20 juin 1968](arrete-du-20-juin-1968)
+- [Arrêté du 21 juin 1968](arrete-du-21-juin-1968)
 - [Arrêté du 21 mars 1968](arrete-du-21-mars-1968)
 - [Arrêté du 22 avril 1968](arrete-du-22-avril-1968)
 - [Arrêté du 23 avril 1968](arrete-du-23-avril-1968)
