@@ -294,8 +294,6 @@ Désignation des organismes habilités à mettre en oeuvre la procédure d'éval
 
 Art. 16
 
-Mesures prises les ministres chargés des transports et de l'industrie
-
 Décret n° 2003-426 du 9 mai 2003 relatif à la mise sur le marché des constituants et sous-systèmes assurant la sécurité des remontées mécaniques
 
 1.
@@ -303,6 +301,14 @@ Décret n° 2003-426 du 9 mai 2003 relatif à la mise sur le marché des constit
 Habilitation des organismes à évaluer la conformité des constituants et sous-systèmes des remontées mécaniques
 
 Article 15
+
+Décret n° 2005-276 du 24 mars 2005 relatif à l'interopérabilité des systèmes ferroviaires transeuropéens conventionnel et à grande vitesse.
+
+1
+
+Habilitation des organismes mettant en oeuvre la procédure d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants d'interopérabilité et la procédure de vérification "CE" des sous-systèmes.
+
+Article 16
 
 Mesure prise par les ministres chargés de l'industrie, de l'équipement et du logement.
 
@@ -459,6 +465,20 @@ relatif à la sécurité des transports publics guidés
 Agrément des experts et organismes qualifiés
 
 Article 7
+
+Décret n° 2005-276 du 24 mars 2005 relatif à l'interopérabilité des systèmes ferroviaires transeuropéens conventionnel et à grande vitesse.
+
+1
+
+Dérogation aux spécifications techniques d'interopérabilité du système ferroviaire transeuropéen conventionnel.
+
+Article 9
+
+2
+
+Refus de transmission à la Commission européenne d'une demande de dérogation aux spécifications techniques d'interopérabilité du système ferroviaire transeuropéen conventionnel.
+
+Article 10
 
 I. - Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991, 95-18 et 95-19 du 19 juin 1995.
 
