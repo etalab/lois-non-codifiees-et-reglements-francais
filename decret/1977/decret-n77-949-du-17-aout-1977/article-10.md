@@ -16,4 +16,4 @@ Les mesures de prévention et de protection mises en oeuvre ;
 
 Le cas échéant, la nature des matériels de protection individuels mis à la disposition du personnel.
 
-Une copie de cette déclaration est adressée au service de prévention de la caisse régionale d'assurance maladie.
+Une copie de cette déclaration est adressée au service de prévention des organismes de sécurité sociale compétents.
