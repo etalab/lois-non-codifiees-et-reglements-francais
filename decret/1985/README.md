@@ -85,6 +85,7 @@
 - [Décret n°85-51 du 16 janvier 1985](decret-n85-51-du-16-janvier-1985)
 - [Décret n°84-644 du 17 juillet 1984](decret-n84-644-du-17-juillet-1984)
 - [Décret n°85-64 du 17 janvier 1985](decret-n85-64-du-17-janvier-1985)
+- [Décret n°80-470 du 18 juin 1980](decret-n80-470-du-18-juin-1980)
 - [Décret n°85-241 du 18 février 1985](decret-n85-241-du-18-fevrier-1985)
 - [Décret n°85-268 du 18 février 1985](decret-n85-268-du-18-fevrier-1985)
 - [Décret n°85-270 du 18 février 1985](decret-n85-270-du-18-fevrier-1985)
