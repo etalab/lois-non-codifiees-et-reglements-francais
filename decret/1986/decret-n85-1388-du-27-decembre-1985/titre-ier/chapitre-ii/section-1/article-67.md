@@ -1,6 +1,6 @@
 # Article 67
 
-Outre les indications prévues à l'article 51 de la loi du 25 janvier 1985, la déclaration de créance contient :
+Outre les indications prévues à l'article L. 621-44 du code de commerce, la déclaration de créance contient :
 
 1° Les éléments de nature à prouver l'existence et le montant de la créance si elle ne résulte pas d'un titre ; à défaut, une évaluation de la créance si son montant n'a pas encore été fixé ;
 

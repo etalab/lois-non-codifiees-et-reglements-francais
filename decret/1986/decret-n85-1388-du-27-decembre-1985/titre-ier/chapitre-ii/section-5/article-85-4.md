@@ -1,6 +1,6 @@
 # Article 85-4
 
-Pour l'application de l'article 115-1 de la loi du 25 janvier 1985, la demande en restitution est faite par le propriétaire du bien par lettre recommandée avec demande d'avis de réception au mandataire de justice mentionné à l'article 121-1 de la même loi.
+Pour l'application de l'article L. 621-116 du code de commerce, la demande en restitution est faite par le propriétaire du bien par lettre recommandée avec demande d'avis de réception au mandataire de justice mentionné à l'article L. 621-123 du même code.
 
 A défaut d'accord du mandataire dans le délai d'un mois à compter de la réception de la demande ou en cas de contestation, le juge-commissaire peut être saisi à la diligence du propriétaire afin qu'il soit statué sur les droits de ce dernier. Même en l'absence de demande préalable en restitution, le juge-commissaire peut également être saisi à cette même fin par le mandataire de justice.
 

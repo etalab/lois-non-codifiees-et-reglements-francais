@@ -1,5 +1,5 @@
 # Article 79
 
-Dans les cas prévus à l'article L. 814-5 du code de commerce, les modalités de l'assurance sont fixées, après avis du commissaire du Gouvernement, par accord entre l'administrateur judiciaire non inscrit et la caisse de garantie.
+Les garanties dont doivent justifier l'administrateur judiciaire non inscrit sur la liste nationale, désigné dans les conditions prévues par le deuxième alinéa de l'article L. 811-2 et le mandataire judiciaire au redressement et à la liquidation des entreprises non inscrit sur la liste nationale, désigné dans les conditions prévues par le premier alinéa du II de l'article L. 812-2, doivent être au moins équivalentes à celles prévues à l'article 78.
 
-Les contrats d'assurance prévus à l'alinéa précédent doivent garantir l'administrateur judiciaire non inscrit de toute réclamation présentée à l'assureur même postérieurement à la date d'expiration du contrat.
+Lorsque l'assurance a été souscrite par l'intermédiaire de la Caisse de garantie, ses modalités en sont fixées, après avis du commissaire du Gouvernement, par accord entre le professionnel non inscrit et la caisse.

@@ -1,6 +1,6 @@
 # Article 138
 
-L'autorisation de vente de gré à gré d'un ou plusieurs immeubles, donnée en application de l'article 154 de la loi du 25 janvier 1985, détermine le prix de chaque immeuble et les conditions essentielles de la vente.
+L'autorisation de vente de gré à gré d'un ou plusieurs immeubles, donnée en application de l'article L. 622-16 du code de commerce, détermine le prix de chaque immeuble et les conditions essentielles de la vente.
 
 L'ordonnance est notifiée conformément au premier alinéa de l'article 126.
 

@@ -1,7 +1,3 @@
 # Article 53
 
-Les dispositions des articles 22 à 29 relatives à la procédure disciplinaire devant la commission nationale pour les administrateurs judiciaires sont applicables à la procédure disciplinaire devant la commission nationale pour les mandataires liquidateurs.
-
-Toutefois, pour l'application de l'article 25, le mandataire liquidateur peut se faire assister par un avocat et, s'il le désire, par un mandataire liquidateur.
-
-Le commissaire du Gouvernement adresse au ministre de la justice, dans les quinze jours de la notification qui lui en est faite, copie de toute décision rendue par la commission de discipline.
+Les dispositions des articles 22 à 29-6 relatives à la procédure disciplinaire devant la commission nationale et à la procédure de suspension provisoire devant le tribunal de grande instance des administrateurs judiciaires sont applicables aux mandataires judiciaires au redressement et à la liquidation des entreprises.

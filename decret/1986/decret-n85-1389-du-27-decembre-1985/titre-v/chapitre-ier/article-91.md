@@ -10,4 +10,6 @@ Le commissaire du Gouvernement fait procéder à une enquête par les procureurs
 
 La décision est notifiée à l'intéressé par lettre recommandée avec demande d'avis de réception.
 
-La décision de la commission qui rejette la demande tendant à l'attribution de l'honorariat est susceptible de recours dans les conditions prévues, selon le cas, aux articles 19 et 20, ou 49 et 50.    Le retrait de l'honorariat peut être prononcé par la commission sur la demande du commissaire du Gouvernement, selon les modalités prévues aux alinéas 4 à 6.
+La décision de la commission qui rejette la demande tendant à l'attribution de l'honorariat est susceptible de recours dans les conditions prévues, aux articles 19 et 20.
+
+Le retrait de l'honorariat peut être prononcé par la commission sur la demande du commissaire du Gouvernement, selon les modalités prévues aux alinéas 4 à 6.

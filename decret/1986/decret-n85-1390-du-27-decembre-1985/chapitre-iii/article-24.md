@@ -1,3 +1,7 @@
 # Article 24
 
-La moitié [*proportion*] de la provision prévue à l'article 22 est versée par l'entreprise au commissaire à l'exécution du plan dans le mois qui suit la date du jugement arrêtant le plan de continuation ou de cession, l'autre moitié à l'issue de la première période d'un an consécutive au jugement précité [*délai*]. Le solde de la rémunération est versé lors de la reddition des comptes du commissaire à l'exécution du plan selon les modalités prévues à l'article 27 [*date*].
+En cas de nécessité, par dérogation aux dispositions de l'article 22, le président du tribunal fixe, sur proposition du juge-commissaire, le montant d'acomptes à valoir sur la rémunération du représentant des créanciers et du liquidateur.
+
+Ces acomptes sont fixés sur justification de l'accomplissement des diligences au titre desquelles leur droit à rémunération est acquis et au vu d'un compte provisoire détaillé de leurs émoluments.
+
+Le montant total des acomptes ne peut excéder les deux tiers de la rémunération due au représentant des créanciers et au liquidateur. Il ne peut être autorisé plus d'un acompte par semestre.

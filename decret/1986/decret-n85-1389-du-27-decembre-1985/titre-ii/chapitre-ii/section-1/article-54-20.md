@@ -1,3 +1,3 @@
 # Article 54-20
 
-Les contrôles occasionnels sont effectués de manière inopinée.
+Les contrôles occasionnels peuvent être effectués de manière inopinée.

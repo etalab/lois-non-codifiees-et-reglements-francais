@@ -1,6 +1,6 @@
 # Article 6
 
-La déclaration de cessation des paiements ou d'inexécution des engagements financiers d'un règlement amiable est déposée par le débiteur au greffe du tribunal compétent [*publicité*].
+La déclaration de cessation des paiements ou d'inexécution des engagements financiers d'un règlement amiable est déposée par le débiteur au greffe du tribunal compétent.
 
 A cette déclaration sont jointes, outre les comptes annuels du dernier exercice, les pièces ci-après, établies à la date de la déclaration :
 
@@ -8,7 +8,7 @@ A cette déclaration sont jointes, outre les comptes annuels du dernier exercice
 
 2° Une situation de trésorerie datant de moins de trois mois ;
 
-3° Le nombre des salariés et le montant du chiffre d'affaires tels qu'ils sont définis à l'article 1er du décret n° 85-1387 du 27 décembre 1985 pris pour l'application des articles 2 et 7 de la loi n° 85-98 du 25 janvier 1985 ;
+3° Le nombre des salariés et le montant du chiffre d'affaires tels qu'ils sont définis à l'article 1er du décret n° 85-1387 du 27 décembre 1985 pris pour l'application des articles L. 620-2 et L. 621-5 du code de commerce ;
 
 4° L'état chiffré des créances et des dettes avec l'indication des noms et du domicile des créanciers et, pour les salariés, le montant global des sommes impayées ;
 

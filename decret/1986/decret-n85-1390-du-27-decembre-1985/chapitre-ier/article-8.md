@@ -1,6 +1,6 @@
 # Article 8
 
-Le commissaire à l'exécution du plan reçoit pour ses fonctions de contrôle et de surveillance, y compris celle consistant à s'assurer du respect par le locataire-gérant des engagements prévus par l'article 95 de la loi n° 85-98 du 25 janvier 1985, une rémunération calculée selon le taux de base prévu à l'article 3.
+Le commissaire à l'exécution du plan reçoit pour ses fonctions de contrôle et de surveillance, y compris celle consistant à s'assurer du respect par le locataire-gérant des engagements prévus par l'article L. 621-98 du code de commerce, une rémunération calculée selon le taux de base prévu à l'article 3.
 
 Les diligences nécessaires à l'exercice de ces fonctions font l'objet d'un programme prévisionnel de travail annuel remis par le commissaire à l'exécution du plan au juge commissaire.
 

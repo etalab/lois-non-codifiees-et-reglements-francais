@@ -6,7 +6,7 @@ Une personne physique ne peut être inscrite sur une liste d'experts que si elle
 
 2° N'avoir pas été l'auteur de faits de même nature ayant donné lieu à une sanction disciplinaire ou administrative de destitution, radiation, révocation, de retrait d'agrément ou d'autorisation.
 
-3° N'avoir pas été frappé de faillite personnelle ou d'une autre sanction en application du titre VI de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises ou, dans le régime antérieur à cette loi, en application du titre II de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la faillite personnelle et les banqueroutes.
+3° N'avoir pas été frappé de faillite personnelle ou d'une autre sanction en application du chapitre V du titre II du livre VI du code de commerce ou, dans le régime antérieur, en application du titre II de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la faillite personnelle et les banqueroutes.
 
 4° Exercer ou avoir exercé pendant un temps suffisant une profession ou une activité en rapport avec sa spécialité ;
 

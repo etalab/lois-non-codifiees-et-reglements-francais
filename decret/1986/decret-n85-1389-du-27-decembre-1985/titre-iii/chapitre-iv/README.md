@@ -1,3 +1,6 @@
-# Chapitre IV : Inscription sur les listes d'administrateurs judiciaires et de mandataires liquidateurs des personnes exerçant dans les territoires d'outre-mer.
+# Chapitre IV : Bureaux annexes
 
-- [Article 82](article-82.md)
+- [Article 82-1](article-82-1.md)
+- [Article 82-2](article-82-2.md)
+- [Article 82-3](article-82-3.md)
+- [Article 82-4](article-82-4.md)

@@ -8,4 +8,4 @@ Le premier président de la cour d'appel ou le premier président de la Cour de 
 
 Les décisions prises en application du présent article sont des mesures d'administration judiciaire et ne sont susceptibles d'aucun recours. Ces décisions s'imposent aux parties et à la juridiction de renvoi désignée.
 
-Dans l'attente de la décision du premier président, le tribunal peut désigner un administrateur judiciaire, sous l'autorité d'un juge commis temporairement à cet effet, pour accomplir, notamment, les diligences prévues à l'article 26 de la loi du 25 janvier 1985. Le tribunal peut également ordonner, à titre de mesures provisoires, l'inventaire des biens et l'apposition des scellés.
+Dans l'attente de la décision du premier président, le tribunal peut désigner un administrateur judiciaire, sous l'autorité d'un juge commis temporairement à cet effet, pour accomplir, notamment, les diligences prévues à l'article L. 621-16 du code de commerce. Le tribunal peut également ordonner, à titre de mesures provisoires, l'inventaire des biens et l'apposition des scellés.

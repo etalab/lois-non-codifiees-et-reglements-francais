@@ -2,11 +2,11 @@
 
 Le contrôle est effectué par trois contrôleurs :
 
-1° Deux administrateurs judiciaires ou mandataires judiciaires à la liquidation des entreprises, selon le cas, figurant sur la liste prévue à l'article 54-18 et n'exerçant pas leur activité dans le même ressort de cour d'appel que le professionnel contrôlé ;
+1° Deux administrateurs judiciaires ou mandataires judiciaires à la liquidation des entreprises, selon le cas, figurant sur la liste prévue à l'article 54-18 et n'exerçant pas leur activité dans le même ressort de cour d'appel que le professionnel contrôlé, dont l'un peut être remplacé, dans le cas d'un contrôle occasionnel, par l'une des personnes spécialement habilitées à cette fin ;
 
-2° Un commissaire aux comptes figurant sur la liste prévue au deuxième alinéa de l'article 58, qui ne peut être celui habituellement chargé du contrôle de la comptabilité du professionnel.
+2° Un commissaire aux comptes figurant sur une liste établie pour six ans par le garde des sceaux, ministre de la justice, sur proposition du Conseil national des administrateurs judiciaires et des mandataires judiciaires au redressement et à la liquidation des entreprises après avis de la Compagnie nationale des commissaires aux comptes, qui ne peut être celui habituellement chargé du contrôle de la comptabilité du professionnel.
 
-Ces contrôleurs sont désignés dans le cas d'un contrôle biennal par le président du conseil national et dans le cas d'un contrôle occasionnel par l'autorité qui a prescrit celui-ci.
+Ces contrôleurs sont désignés dans le cas d'un contrôle triennal par le président du conseil national et dans le cas d'un contrôle occasionnel par l'autorité qui a prescrit celui-ci.
 
 Un arrêté du ministre de la justice fixe l'étendue minimale des vérifications auxquelles les contrôleurs doivent procéder.
 

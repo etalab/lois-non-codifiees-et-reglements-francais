@@ -1,3 +1,3 @@
 # Article 23
 
-La moitié [*proportion*] de la provision prévue à l'article précédent est versée par l'entreprise à l'administrateur judiciaire à l'issue du premier mois de la période d'observation, l'autre moitié à l'issue du troisième mois de cette période [*délai*]. Le solde de la rémunération est versé lors de la reddition des comptes de l'administrateur judiciaire selon les modalités prévues à l'article 27 [*date*].
+En cas de nécessité, par dérogation aux dispositions de l'article 22, le président du tribunal fixe, sur proposition du juge-commissaire, le montant de la provision à valoir sur la rémunération de l'administrateur judiciaire et du commissaire à l'exécution du plan. Cette provision ne peut excéder la moitié du montant des droits auxquels l'administrateur peut prétendre au titre de l'article 3 ou la moitié du montant des droits auxquels le commissaire à l'exécution du plan peut prétendre au titre de l'article 8.

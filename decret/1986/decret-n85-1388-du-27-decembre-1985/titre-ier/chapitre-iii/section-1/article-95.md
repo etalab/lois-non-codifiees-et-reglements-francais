@@ -1,6 +1,6 @@
 # Article 95
 
-Les demandes présentées en application de l'article 68 de la loi du 25 janvier 1985 sont faites par déclaration au greffe du débiteur ou du cessionnaire [*publicité*].
+Les demandes présentées en application de l'article L. 621-69 du code de commerce sont faites par déclaration au greffe du débiteur ou du cessionnaire.
 
 Le greffier convoque en chambre du conseil, par lettre recommandée avec demande d'avis de réception le demandeur, les représentants du comité d'entreprise ou à défaut des délégués du personnel qui sont désignés conformément à l'article 12. Il avise de la date de l'audience le procureur de la République ainsi que le commissaire à l'exécution du plan.
 

@@ -4,11 +4,11 @@ Les propositions de l'administrateur ou du débiteur selon le cas, relatives aux
 
 La lettre contient :
 
-1° L'indication qu'une action a été introduite en application de l'article 23 de la loi du 25 janvier 1985 ou, le cas échéant, le dispositif de la décision rendue ;
+1° L'indication qu'une action a été introduite en application de l'article L. 621-59 du code de commerce ou, le cas échéant, le dispositif de la décision rendue ;
 
 2° L'indication de la manière soit individuelle, soit collective, dont la réponse doit être reçue ;
 
-3° La reproduction des dispositions de la deuxième phrase du deuxième alinéa de l'article 24 de la loi du 25 janvier 1985.
+3° La reproduction des dispositions de la deuxième phrase du deuxième alinéa de l'article L. 621-60 du code de commerce.
 
 Sont joints à cette lettre :
 

@@ -1,6 +1,6 @@
 # Article 56
 
-Les magistrats inspecteurs régionaux peuvent effectuer des inspections soit d'office, soit à la demande du commissaire du Gouvernement compétent ou du magistrat coordonnateur. Le magistrat coordonnateur peut également effectuer des inspections soit d'office, soit à la demande du commissaire du Gouvernement compétent.
+Les magistrats inspecteurs régionaux effectuent des inspections à la demande du commissaire du Gouvernement compétent ou du magistrat coordonnateur. Ils peuvent également en effectuer d'office. Le magistrat coordonnateur peut, d'office, effectuer toute inspection.
 
 Le magistrat qui procède à une inspection peut demander à un ou plusieurs administrateurs judiciaires ou mandataires judiciaires à la liquidation des entreprises de l'assister pendant l'inspection. Il peut aussi solliciter le concours des inspections générales de l'Etat.
 

@@ -1,6 +1,6 @@
 # Article 3
 
-Pour l'élaboration du bilan économique et social prévu à l'article 18 de la loi n° 85-98 du 25 janvier 1985 et du plan de redressement prévu aux articles 18 et 143 (alinéa 2) de la même loi, les administrateurs judiciaires reçoivent une rémunération exprimée en taux de base dont le montant est fixé à 69 euros.
+Pour l'élaboration du bilan économique et social prévu à l'article L. 621-54 du code de commerce et du plan de redressement prévu aux articles L. 621-54 et L. 621-139 (alinéa 2) du même code, les administrateurs judiciaires reçoivent une rémunération exprimée en taux de base dont le montant est fixé à 69 euros.
 
 Les diligences nécessaires à l'élaboration des documents précités font l'objet d'un programme prévisionnel de travail remis par l'administrateur judiciaire au juge commissaire. La rémunération de ces diligences est normalement comprise pour la durée de la période d'observation dans les limites prévues dans le barème suivant :
 
@@ -28,4 +28,4 @@ Le nombre de salariés employés au cours de l'exercice précédant l'ouverture 
 
 Si le nombre de taux de base prévu au barème ci-dessus apparaît insuffisant en considération du travail à exécuter, l'administrateur judiciaire peut, sur justifications particulières et après avis du juge commissaire, demander au président du tribunal saisi d'arrêter une rémunération comprise dans la tranche supérieure.
 
-Si le nombre de taux de base apparaît au juge commissaire excessif en considération du travail à exécuter, celui-ci propose au président du tribunal saisi d'arrêter une rémunération comprise dans la tranche inférieure [*pouvoirs*].
+Si le nombre de taux de base apparaît au juge commissaire excessif en considération du travail à exécuter, celui-ci propose au président du tribunal saisi d'arrêter une rémunération comprise dans la tranche inférieure.

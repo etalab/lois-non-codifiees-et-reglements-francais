@@ -1,6 +1,6 @@
 # Article 7
 
-Lorsqu'il y a lieu à cession [*de l'entreprise*] en application de l'article 81 de la loi n° 85-98 du 25 janvier 1985, il est alloué à l'administrateur judiciaire un droit proportionnel calculé sur le montant total du prix de cession :
+Lorsqu'il y a lieu à cession en application de l'article L. 621-83 du code de commerce, il est alloué à l'administrateur judiciaire un droit proportionnel calculé sur le montant total du prix de cession :
 
 Tranche de 0 à 15.245 euros : 5 p. 100 ;
 
@@ -16,7 +16,11 @@ Au-delà de 457.350 et jusqu'à 762.245 euros : 0,50 p. 100 ;
 
 Au-delà de 762.245 et jusqu'à 1.524.490 euros : 0,30 p. 100 ;
 
-Au-delà de 1.524.490 et jusqu'à 7.622.450 euros : 0,20 p. 100 ;<RL    Au delà de 7.622.450 euros : 0,10 p. 100 [*pourcentage*].
+Au-delà de 1.524.490 et jusqu'à 7.622.450 euros :
+
+0,20 p. 100 ;
+
+Au delà de 7.622.450 euros : 0,10 p. 100.
 
 Le droit ainsi obtenu est majoré dans les proportions suivantes, en fonction des montants comparés du prix total de cession et du passif admis :
 
