@@ -45,6 +45,7 @@
 - [Arrêté du 9 mars 1987 (COPB8700006A)](arrete-du-9-mars-1987-copb8700006a)
 - [Arrêté du 9 mars 1987 (DEFP8701108A)](arrete-du-9-mars-1987-defp8701108a)
 - [Arrêté du 9 mars 1987 (DEFP8701147A)](arrete-du-9-mars-1987-defp8701147a)
+- [Arrêté du 9 mars 1987 (MENL8700143A)](arrete-du-9-mars-1987-menl8700143a)
 - [Arrêté du 9 mars 1987 (RESP8700042K)](arrete-du-9-mars-1987-resp8700042k)
 - [Arrêté du 9 octobre 1986](arrete-du-9-octobre-1986)
 - [Arrêté du 9 septembre 1987 (AGRS8701615A)](arrete-du-9-septembre-1987-agrs8701615a)
