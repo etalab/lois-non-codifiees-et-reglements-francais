@@ -1,6 +1,6 @@
 # Article 9
 
-Une chambre de compensation, ayant le statut d'établissement de crédit, enregistre chaque opération et en garantie la bonne fin. A cet effet, chaque opération doit lui être notifiée par la personne mentionnée à l'article 8 qui en assure la négociation. A défaut, l'opération est nulle de plein droit.
+Une chambre de compensation, ayant le statut d'établissement de crédit, enregistre chaque opération et en garantit la bonne fin. A cet effet, chaque opération doit lui être notifiée par la personne qui, conformément à l'article 8, en a désigné le négociateur. A défaut, l'opération est nulle de plein droit.
 
 La chambre de compensation assure la surveillance des positions, l'appel des marges et, le cas échéant, la liquidation d'office des positions.
 

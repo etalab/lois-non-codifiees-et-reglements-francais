@@ -1,3 +1,3 @@
 # Article 8
 
-Les agents de change, les établissements de crédit définis à l'article 1er de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit et les établissements mentionnés aux articles 69 et 99 de ladite loi ont seuls qualité pour négocier les contrats à terme d'instruments financiers.
+Les agents de change, les établissements de crédit définis à l'article 1er de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit, les établissements mentionnés aux articles 69 et 99 de la même loi et la Caisse des dépôts et consignations ont seuls qualité pour participer à la compensation des contrats négociés sur le marché à terme d'instruments financiers et en désigner les négociateurs, lesquels doivent répondre à des qualités définies par le règlement général du marché et opèrent sous la responsabilité et le contrôle de la personne qui les a désignés.
