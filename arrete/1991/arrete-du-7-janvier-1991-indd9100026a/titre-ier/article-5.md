@@ -2,7 +2,7 @@
 
 5.1. Sous réserve des dispositions prévues à l'article 15, le résultat de chaque mesure égale ou supérieure à la valeur prédéterminée par le dispositif sélecteur de vitesses doit rester affiché tant qu'il n'y a pas intervention de l'opérateur. Après effacement du résultat, et sauf dans le cas d'un enregistrement de celui-ci, la mesure suivante ne doit pouvoir être effectuée avant un délai de trois secondes.
 
-5.2. Lorsque le cinémomètre est utilisé dans un véhicule en mouvement, il ne doit permettre de mesurer la vitesse des véhicules que lorsque ceux-ci se rapprochent du véhicule porteur.
+5.2. Lorsque le cinémomètre est installé dans un véhicule en mouvement, il ne doit permettre de mesurer la vitesse que des véhicules se déplaçant dans le même sens que le véhicule porteur. Après sélection du mode de fonctionnement, le cinémomètre peut mesurer soit la vitesse des véhicules se rapprochant du véhicule porteur, soit la vitesse des véhicules dont le véhicule porteur s'éloigne. Les deux modes de fonctionnement ne peuvent être utilisés simultanément.
 
 Lorsque le cinémomètre est utilisé à poste fixe, il ne doit permettre de mesurer simultanément la vitesse des véhicules dans les deux sens de circulation que si, pour le sens de rapprochement au moins, un dispositif de prise de vue est raccordé au cinémomètre.
 
