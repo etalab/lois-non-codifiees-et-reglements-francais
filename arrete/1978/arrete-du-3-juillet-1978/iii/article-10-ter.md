@@ -8,4 +8,4 @@ Pour l'application de l'article R. 351-21-3 :
 
 - le coefficient y est fixé à 0,038 ;
 
-- le montant auquel le produit yR ne peut être inférieur est fixé à 1 447 F du 1er juillet 2001 au 31 décembre 2001 et à 220,59 Euros à compter du 1er janvier 2002.
+- le montant auquel le produit yR ne peut être inférieur est fixé à 234,12 euros.
