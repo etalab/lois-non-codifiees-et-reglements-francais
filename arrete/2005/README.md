@@ -52,6 +52,7 @@
 - [Arrêté du 17 décembre 2004 (SOCA0423378A)](arrete-du-17-decembre-2004-soca0423378a)
 - [Arrêté du 17 février 2005 (SANH0520600A)](arrete-du-17-fevrier-2005-sanh0520600a)
 - [Arrêté du 17 février 2005 (SANH0520601A)](arrete-du-17-fevrier-2005-sanh0520601a)
+- [Arrêté du 17 janvier 2005 (BUDL0500007A)](arrete-du-17-janvier-2005-budl0500007a)
 - [Arrêté du 17 janvier 2005 (DEFD0401453A)](arrete-du-17-janvier-2005-defd0401453a)
 - [Arrêté du 17 janvier 2005 (DEFD0401455A)](arrete-du-17-janvier-2005-defd0401455a)
 - [Arrêté du 17 janvier 2005 (DEVN0540030A)](arrete-du-17-janvier-2005-devn0540030a)
