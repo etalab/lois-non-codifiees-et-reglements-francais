@@ -1,5 +1,3 @@
 # Article 7
 
-Les règles d'organisation générale des concours, la nature et le programme des épreuves sont fixés par arrêté conjoint des ministres chargés respectivement de la fonction publique, du travail, de l'agriculture et des transports.
-
-Les conditions d'organisation des concours et la composition du jury sont fixées par arrêté conjoint des ministres chargés respectivement du travail, de l'agriculture et des transports.
+Lorsque l'application du 2° de l'article 4 ne permet aucune nomination, le nombre de postes offerts chaque année au titre de la promotion interne est calculé en appliquant la proportion du cinquième des nominations à 3,5 % de l'effectif budgétaire du corps considéré au 1er janvier de l'année au titre de laquelle sont prononcées les nominations.

@@ -1,11 +1,9 @@
 # Article 2
 
-Le corps des contrôleurs du travail comprend trois grades :
+Le corps des contrôleurs du travail comprend les trois grades suivants :
 
-- contrôleur du travail de classe normale ;
+- contrôleurs du travail de classe normale, comprenant 12 échelons ;
 
-- contrôleur du travail de classe supérieure ;
+- contrôleurs du travail de classe supérieure, comprenant 6 échelons ;
 
-- contrôleur du travail de classe exceptionnelle.
-
-Le nombre des emplois de contrôleurs du travail de classe supérieure ne peut comprendre plus de 25 % de l'effectif total des deux premiers grades.
+- contrôleurs du travail de classe exceptionnelle, comprenant 5 échelons.

@@ -1,7 +1,11 @@
 # Article 18
 
-A titre transitoire et jusqu'au 31 décembre 1996, le nombre des emplois de contrôleurs du travail de classe supérieure, par rapport à l'effectif des deux premiers grades, est fixé ainsi qu'il suit :
+Peuvent être détachés dans le corps des contrôleurs du travail, après avis de la commission administrative paritaire, les fonctionnaires civils appartenant à un corps ou à un cadre d'emplois classé dans la catégorie B dont l'indice terminal est au moins égal à l'indice terminal du corps des contrôleurs du travail.
 
-- à compter du 1er août 1995 et jusqu'au 31 juillet 1996 : 8 % ;
+Le détachement est prononcé, à équivalence de grade, à l'échelon doté d'un indice égal ou, à défaut, immédiatement supérieur à celui détenu par l'intéressé dans son corps ou cadre d'emplois d'origine.
 
-- à compter du 1er août 1996 et jusqu'au 31 décembre 1996 : 15 %.
+Dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon supérieur, les fonctionnaires détachés conservent l'ancienneté d'échelon acquise dans leur corps ou cadre d'emplois d'origine lorsque l'augmentation de traitement consécutive à leur détachement est inférieure ou égale à celle que leur aurait procurée un avancement d'échelon dans ce corps ou cadre d'emplois.
+
+Dans la même limite, les fonctionnaires détachés alors qu'ils ont atteint le dernier échelon de leur grade conservent leur ancienneté lorsque le détachement leur procure une augmentation de traitement inférieure ou égale à celle ayant résulté de l'élévation audit échelon.
+
+Les fonctionnaires détachés dans le corps des contrôleurs du travail concourent pour les avancements de grade et d'échelon avec l'ensemble des fonctionnaires relevant de ce corps.
