@@ -6,7 +6,9 @@ Cet établissement public exerce des actions, notamment d'orientation et d'anima
 
 - la prévention et la lutte contre la pollution de l'air ;
 
-- la limitation de la production de déchets, leur élimination, leur récupération et leur valorisation et la prévention de la pollution des sols ;
+- la limitation de la production de déchets, leur élimination, leur récupération et leur valorisation la protection des sols et la remise en état des sites pollués.
+
+" - le réaménagement et la surveillance d'une installation de stockage de déchets ultimes autorisée après la date de publication de la loi n° 92-646 du 13 juillet 1992 relative à l'élimination des déchets ainsi qu'aux installations classées pour la protection de l'environnement, lorsque ces opérations sont rendues nécessaires du fait d'une défaillance ou d'une insuffisance des garanties de l'exploitant ; ".
 
 - la réalisation d'économies d'énergie et de matières premières et le développement des énergies renouvelables, notamment d'origine végétale ;
 
