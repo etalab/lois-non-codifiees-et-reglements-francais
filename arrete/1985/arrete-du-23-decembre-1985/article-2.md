@@ -1,5 +1,7 @@
 # Article 2
 
-Les conditions d'admission au bénéfice de ce contingent sont celles déterminées par l'arrêté du 17 décembre 1969 fixant les conditions générales d'importation de contingents prévus par le tarif des douanes.
+Le taux de conversion de l'ECU en francs français pour les échanges en vigueur au 15 novembre 1985 est de :
 
-Par exception aux dispositions de l'article 2 de ce texte, les demandes d'imputation devront être présentées en cinq exemplaires, dont quatre seront transmis à la direction générale des douanes et droits indirects par le ministère du redéploiement industriel et du commerce extérieur.
+- 7,105 90 francs pour 1 ECU pour le secteur de la viande de porc ;
+
+- 7,000 89 francs pour 1 ECU pour les secteurs de la viande bovine, de la viande ovine et de la viande de volaille.

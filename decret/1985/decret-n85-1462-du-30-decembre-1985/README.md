@@ -1,0 +1,17 @@
+# Décret n°85-1462 du 30 décembre 1985 relatif aux statuts particuliers de certaine corps de fonctionnaires de physique nucléaire de l'Institut national de physique nucléaire et de physique des particules du Centre national de la recherche scientifique
+
+- [Article 1](article-1.md)
+- [Chapitre Ier : Dispositions générales.](chapitre-ier)
+- [Chapitre II : Dispositions relatives aux corps des ingénieurs principaux de physique nucléaire](chapitre-ii)
+- [Chapitre III : Dispositions relatives au corps des ingénieurs de physique nucléaire](chapitre-iii)
+- [Chapitre IV : Dispositions relatives au corps des techniciens principaux de physique nucléaire](chapitre-iv)
+- [Chapitre V : Dispositions relatives au corps des techniciens de physique nucléaire](chapitre-v)
+- [Chapitre VI : Dispositions relatives au corps des techniciens d'atelier de physique nucléaire](chapitre-vi)
+- [Chapitre VII : Définitions relatives au corps des techniciens d'études de physique nucléaire](chapitre-vii)
+- [Chapitre VIII : Dispositions relatives au corps des préparateurs](chapitre-viii)
+- [Chapitre IX : Dispositions relatives au corps des prototypistes](chapitre-ix)
+- [Chapitre X : Dispositions relatives au corps des ouvriers professionnels](chapitre-x)
+- [Chapitre XI : Dispositions relatives à la titularisation.](chapitre-xi)
+- [Chapitre XII : Dispositions relatives à l'accès aux corps de physique nucléaire.](chapitre-xii)
+- [Chapitre XIII : Dispositions diverses.](chapitre-xiii)
+- [Article 59](article-59.md)

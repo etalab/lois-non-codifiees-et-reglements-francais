@@ -1,3 +1,3 @@
 # Article 5
 
-Le directeur de la sécurité et de la circulation routières est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Chaque comité régional statue sur la demande de réduction et informe la caisse de congés payés chargée du recouvrement du taux applicable à l'entreprise ou à l'établissement. Ce taux s'applique au 1er janvier de l'année suivant la décision.

@@ -1,3 +1,0 @@
-# Article Annexe art. 51
-
-Lorsque l'organisme ne s'acquitte pas ou s'acquitte mal des obligations qui lui incombent, notamment en cas de retards importants non justifiés dans la mise en oeuvre des procédures visées à l'article 14, alinéa 1, de la présente convention ou en cas d'absence d'un suivi de l'action des huissiers auxquels l'organisme a recours, le conseil d'administration de la caisse peut appliquer à l'organisme une action selon les modalités visées à l'article 52 de la présente convention. La pénalité ne peut dépasser 10 p. 100 du montant total des remises de gestion visées à l'article 41 de la présente convention.

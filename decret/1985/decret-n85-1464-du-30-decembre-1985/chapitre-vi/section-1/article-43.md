@@ -1,0 +1,9 @@
+# Article 43
+
+Les agents non titulaires en fonctions à l'Institut scientifique et technique des pêches maritimes (I.S.T.P.M.) à la date de publication du décret du 5 juin 1984 susvisé et qui occupent à cette date un emploi permanent à temps complet inscrit au budget de cet institut ont droit à être titularisés dans l'un des corps régis par le présent décret, sous réserve :
+
+1° D'être en fonctions à la date de publication du présent décret ou de bénéficier à cette date d'un congé en application de l'un des décrets du 26 mars 1975, du 15 juillet 1980 et du 22 juillet 1982 susvisés ;
+
+2° D'avoir été recrutés sur un contrat à durée indéterminée ou d'avoir accompli dans un emploi de l'établissement des services effectifs d'une durée au moins équivalente à deux ans de service à temps complet à la date de la titularisation ;
+
+3° De remplir les conditions énumérées à l'article 5 de la loi du 13 juillet 1983 susvisée.

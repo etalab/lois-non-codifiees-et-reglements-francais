@@ -1,0 +1,11 @@
+# Article 22
+
+En ce qui concerne les établissements mentionnés à l'article 1er exploités par une personne privée, les frais financiers, les dotations aux comptes d'amortissement et aux comptes de provisions ainsi que, le cas échéant, les dotations annuelles au fonds de roulement et les annuités des emprunts contractés en vue de la constitution de ce fonds ne peuvent être pris en compte dans le calcul de la dotation globale de financement que dans les cas suivants :
+
+1° Si l'organisme gestionnaire est une fondation, une société mutualiste, une association reconnue d'utilité publique, une congrégation ;
+
+2° S'il s'agit d'une association privée, à condition que ses statuts prévoient, en cas de cessation de l'activité de l'établissement, la dévolution à une collectivité publique ou à un établissement privé poursuivant un but similaire de l'ensemble du patrimoine affecté audit établissement. Le commissaire de la République a qualité pour approuver ou provoquer la désignation de l'attributaire ou pour procéder, le cas échéant, lui-même à cette désignation ;
+
+3° Si, à défaut des dispositions statutaires ci-dessus, l'organisme gestionnaire s'engage, en cas de cessation d'activité, à verser à un établissement public ou privé poursuivant un but similaire et éventuellement à une collectivité publique, le fonds de roulement et les provisions non employées ainsi qu'une somme correspondant à la plus-value immobilière résultant des dépenses couvertes par la dotation globale ou antérieurement par le prix de journée ; le service des domaines procède à l'évaluation de cette plus-value. Le commissaire de la République intervient dans les mêmes conditions qu'au 2° ci-dessus.
+
+En cas de transformation ou de modification dans le fonctionnement de l'établissement, le commissaire de la République apprécie s'il y a lieu d'imposer le versement ci-dessus, et dans quelle mesure.

@@ -1,5 +1,11 @@
 # Article 4
 
-Les commissaires de la République [*autorité compétente*] fixent par arrêté préfectoral la date de mise en application du présent arrêté dans leur département [*modalités d'application*].
+Les demandes de réduction de taux de cotisation doivent comporter les pièces suivantes [*documents obligatoires*] :
 
-Toutefois, cette date ne peut être antérieure au 1er septembre 1985 ni postérieure au 31 décembre 1985 [*date d'entrée en vigueur*].
+1. Attestation d'existence d'un C.H.S.C.T. dans l'entreprise ou l'établissement concerné, signée conjointement par le président et le secrétaire du C.H.S.C.T. ;
+
+2. Rapport annuel faisant le bilan de la situation en matière d'hygiène, de sécurité et des conditions de travail, en application de l'article L. 236-4 ;
+
+3. Taux de fréquence et taux de gravité des accidents du travail de l'établissement concerné pour les trois dernières années ;
+
+4. Tout autre élément justificatif de l'activité du C.H.S.C.T. que le chef d'entreprise voudra présenter.

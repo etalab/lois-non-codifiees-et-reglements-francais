@@ -231,6 +231,7 @@
 - [Arrêté du 30 août 1985](arrete-du-30-aout-1985)
 - [Arrêté du 30 avril 1985](arrete-du-30-avril-1985)
 - [Arrêté du 30 décembre 1984](arrete-du-30-decembre-1984)
+- [Arrêté du 30 décembre 1985](arrete-du-30-decembre-1985)
 - [Arrêté du 30 janvier 1985](arrete-du-30-janvier-1985)
 - [Arrêté du 30 juillet 1985](arrete-du-30-juillet-1985)
 - [Arrêté du 30 novembre 1984](arrete-du-30-novembre-1984)

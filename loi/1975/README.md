@@ -1,5 +1,6 @@
 # 1975
 
+- [Loi n° 74-1118 du 27 décembre 1974](loi-n-74-1118-du-27-decembre-1974)
 - [Loi n° 75-1188 du 20 décembre 1975](loi-n-75-1188-du-20-decembre-1975)
 - [Loi n° 75-1220 du 26 décembre 1975](loi-n-75-1220-du-26-decembre-1975)
 - [Loi n° 75-1242 du 27 décembre 1975](loi-n-75-1242-du-27-decembre-1975)

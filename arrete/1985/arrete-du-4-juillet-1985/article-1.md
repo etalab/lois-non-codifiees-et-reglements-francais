@@ -1,3 +1,3 @@
 # Article 1
 
-Les dispositions du présent arrêté s'appliquent aux véhicules automobiles visés au titre II du code de la route, mis en circulation depuis plus de cinq ans [*durée d'utilisation*], d'un poids total [*maximum*] autorisé en charge n'excédant pas 3,5 tonnes et faisant l'objet d'une mutation [*vente*] ou d'un changement de locataire dans le cas d'un véhicule en location de longue durée ou avec option d'achat, à l'exception des véhicules de collection au sens de l'article 23 de l'arrêté du 5 novembre 1984 relatif à l'immatriculation des véhicules [*champ d'application*].
+Le taux de cotisation des entreprises affiliées à l'organisme professionnel d'hygiène, de sécurité et des conditions de travail pour l'année 1986 est fixé à 0,11 p. 100 du montant des salaires versés par l'employeur, y compris le montant des indemnités de congés payés pour lesquelles une cotisation est perçue par les caisses de congés payés instituées dans la branche.

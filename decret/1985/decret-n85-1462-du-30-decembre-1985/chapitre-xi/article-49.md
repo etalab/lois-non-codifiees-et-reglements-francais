@@ -1,0 +1,3 @@
+# Article 49
+
+Les agents non titulaires de nationalité étrangère non dispensés de la condition de nationalité en application du 3° de l'article précédent, mais qui remplissent, à la date de publication du présent décret les autres conditions énumérées à cet article ont, s'ils acquièrent la nationalité française avant le 1er janvier 1991, droit à être titularisés dans les conditions fixées au présent titre, dans l'un des corps de techniciens principaux, de techniciens de physique nucléaire, de techniciens d'atelier, de techniciens d'études, de préparateurs, de prototypistes et d'ouvriers professionnels.
