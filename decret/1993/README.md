@@ -130,8 +130,6 @@
 - [Décret n°93-1072 du 7 septembre 1993 (MAEJ9330032D)](decret-n93-1072-du-7-septembre-1993-maej9330032d)
 - [Décret n°93-1073 du 7 septembre 1993 (ECOT9391048D)](decret-n93-1073-du-7-septembre-1993-ecot9391048d)
 - [Décret n°93-1075 du 7 septembre 1993 (RESK9300976D)](decret-n93-1075-du-7-septembre-1993-resk9300976d)
-- [Décret n°93-1151 du 7 octobre 1993 (DOMP9300032D)](decret-n93-1151-du-7-octobre-1993-domp9300032d)
-- [Décret n°93-1152 du 7 octobre 1993 (DOMP9300033D)](decret-n93-1152-du-7-octobre-1993-domp9300033d)
 - [Décret n°93-1159 du 7 octobre 1993 (INTC9300520D)](decret-n93-1159-du-7-octobre-1993-intc9300520d)
 - [Décret n°93-1161 du 7 octobre 1993 (MAEJ9330037D)](decret-n93-1161-du-7-octobre-1993-maej9330037d)
 - [Décret n°93-1162 du 7 octobre 1993 (MAEJ9330038D)](decret-n93-1162-du-7-octobre-1993-maej9330038d)

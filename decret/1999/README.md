@@ -867,7 +867,6 @@
 - [Décret n°98-1308 du 29 décembre 1998 (MESN9823940D)](decret-n98-1308-du-29-decembre-1998-mesn9823940d)
 - [Décret n°99-1143 du 29 décembre 1999 (MESP9923931D)](decret-n99-1143-du-29-decembre-1999-mesp9923931d)
 - [Décret n°99-1144 du 29 décembre 1999 (MESA9923495D)](decret-n99-1144-du-29-decembre-1999-mesa9923495d)
-- [Décret n°99-1145 du 29 décembre 1999 (MESF9911631D)](decret-n99-1145-du-29-decembre-1999-mesf9911631d)
 - [Décret n°99-1146 du 29 décembre 1999 (MESS9923926D)](decret-n99-1146-du-29-decembre-1999-mess9923926d)
 - [Décret n°99-1147 du 29 décembre 1999 (MESP9923939D)](decret-n99-1147-du-29-decembre-1999-mesp9923939d)
 - [Décret n°99-1148 du 29 décembre 1999 (MESA9923650D)](decret-n99-1148-du-29-decembre-1999-mesa9923650d)

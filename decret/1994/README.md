@@ -161,7 +161,6 @@
 - [Décret n°94-36 du 6 janvier 1994 (INTF9300605D)](decret-n94-36-du-6-janvier-1994-intf9300605d)
 - [Décret n°94-564 du 6 juillet 1994 (SPSS9400776D)](decret-n94-564-du-6-juillet-1994-spss9400776d)
 - [Décret n°94-584 du 6 juillet 1994 (BUDF9420705D)](decret-n94-584-du-6-juillet-1994-budf9420705d)
-- [Décret n°94-598 du 6 juillet 1994 (AGRG9400645D)](decret-n94-598-du-6-juillet-1994-agrg9400645d)
 - [Décret n°94-792 du 6 septembre 1994 (AGRS9401579D)](decret-n94-792-du-6-septembre-1994-agrs9401579d)
 - [Décret n°95-1201 du 6 novembre 1995 (ACVE9550016D)](decret-n95-1201-du-6-novembre-1995-acve9550016d)
 - [Décret n°95-124 du 6 février 1995 (ACVE9550002D)](decret-n95-124-du-6-fevrier-1995-acve9550002d)
