@@ -127,6 +127,7 @@
 - [Arrêté du 6 juillet 1999 (PRMX9903642A)](arrete-du-6-juillet-1999-prmx9903642a)
 - [Arrêté du 6 juillet 1999 (PRMX9903644A)](arrete-du-6-juillet-1999-prmx9903644a)
 - [Arrêté du 6 septembre 1999 (ATEE9980280A)](arrete-du-6-septembre-1999-atee9980280a)
+- [Arrêté du 6 septembre 1999 (DEFE9901894A)](arrete-du-6-septembre-1999-defe9901894a)
 - [Arrêté du 6 mai 1999 (MESH9921529A)](arrete-du-6-mai-1999-mesh9921529a)
 - [Arrêté du 7 avril 1999 (DEFD9901400A)](arrete-du-7-avril-1999-defd9901400a)
 - [Arrêté du 7 avril 1999 (ECOB9830076A)](arrete-du-7-avril-1999-ecob9830076a)

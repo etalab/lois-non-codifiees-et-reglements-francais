@@ -522,6 +522,7 @@
 - [Décret n°99-627 du 22 juillet 1999 (ECOI9900274D)](decret-n99-627-du-22-juillet-1999-ecoi9900274d)
 - [Décret n°99-628 du 22 juillet 1999 (EQUU9900577D)](decret-n99-628-du-22-juillet-1999-equu9900577d)
 - [Décret n°99-631 du 22 juillet 1999 (MESS9920460D)](decret-n99-631-du-22-juillet-1999-mess9920460d)
+- [Décret n°99-829 du 22 septembre 1999 (PRMX9903758D)](decret-n99-829-du-22-septembre-1999-prmx9903758d)
 - [Décret du 23 juin 1999 (HRUX9903527D)](decret-du-23-juin-1999-hrux9903527d)
 - [Décret n°70-1285 du 23 décembre 1970](decret-n70-1285-du-23-decembre-1970)
 - [Décret n°98-1052 du 23 novembre 1998 (PRMX9803131D)](decret-n98-1052-du-23-novembre-1998-prmx9803131d)
