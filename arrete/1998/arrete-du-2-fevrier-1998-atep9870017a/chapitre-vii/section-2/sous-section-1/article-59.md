@@ -18,9 +18,25 @@ Si le flux horaire dépasse 5 kg/h, mais est inférieur ou égal à 50 kg/h, une
 
 6° Fluor et composés du fluor : si le flux horaire dépasse 5 kg/h, la mesure en permanence des émissions gazeuses de fluor et composés du fluor est réalisée, ainsi que la mesure en permanence des poussières totales. Une mesure journalière du fluor contenu dans les poussières est faite sur un prélèvement représentatif effectué en continu.
 
-7° Composés organiques : si le flux horaire de composés organiques à l'exclusion du méthane dépasse 20 kg/h, ou si le flux horaire de composés organiques visés à l'annexe III dépasse 2 kg/h, la mesure en permanence des émissions de l'ensemble des composés non méthaniques est réalisée.
+7° Composés organiques volatils :
 
-Dans le cas où le flux horaire de composés visés à l'annexe III dépasse 2 kg/h, des mesures périodiques de chacun des composés présents seront effectuées afin d'établir une corrélation entre la mesure de l'ensemble des composés non méthaniques et les espèces effectivement présentes.
+La surveillance en permanence des émissions de l'ensemble des COV, à l'exclusion du méthane, est réalisée si, sur l'ensemble de l'installation, l'une des conditions suivantes est remplie :
+
+- le flux horaire maximal de COV, à l'exclusion du méthane exprimé en carbone total, dépasse :
+
+- 15 kg/h dans le cas général ;
+
+- 10 kg/h si un équipement d'épuration des gaz chargés en COV est nécessaire pour respecter les valeurs limites d'émission canalisées ;
+
+- le flux horaire maximal de COV à l'exclusion du méthane, visés à l'annexe III, ou présentant une phase de risque R 45, R 46, R 49, R 60 ou R 61, ou les composés halogénés présentant une phase de risque R 40, dépasse 2 kg/h (exprimé en somme des composés).
+
+Toutefois, cette surveillance en permanence peut être remplacée par le suivi d'un paramètre représentatif, corrélé aux émissions. Cette corrélation devra être confirmée périodiquement par une mesure des émissions.
+
+Dans les autres cas, des prélèvements instantanés sont réalisés.
+
+Dans le cas où le flux horaire de COV visés dans le tableau de l'annexe III ou présentant des phases de risque R 45, R 46, R 49, R 60 ou R 61 ou les composés halogénés étiquetés R 40 dépasse 2 kg/h sur l'ensemble de l'installation, des mesures périodiques de chacun des COV présents seront effectuées afin d'établir une corrélation entre la mesure de l'ensemble des COV non méthaniques et les espèces effectivement présentes.
+
+Lorsque l'installation est équipée d'un oxydateur, la conformité aux valeurs limites d'émissions en NOx, méthane et CO prévues au a du point 7 de l'article 27 doit être vérifiée une fois par an, en marche continue et stable.
 
 8° Métaux, métalloïdes et composés divers (gazeux et particulaires) :
 
