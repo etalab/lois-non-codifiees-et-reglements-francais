@@ -1102,7 +1102,6 @@
 - [Arrêté du 28 novembre 1997 (MESP9723747A)](arrete-du-28-novembre-1997-mesp9723747a)
 - [Arrêté du 28 octobre 1975](arrete-du-28-octobre-1975)
 - [Arrêté du 28 octobre 1997 (AGRB9701794A)](arrete-du-28-octobre-1997-agrb9701794a)
-- [Arrêté du 28 octobre 1997 (AGRB9701795A)](arrete-du-28-octobre-1997-agrb9701795a)
 - [Arrêté du 28 octobre 1997 (AGRB9701796A)](arrete-du-28-octobre-1997-agrb9701796a)
 - [Arrêté du 28 octobre 1997 (ECOI9700695A)](arrete-du-28-octobre-1997-ecoi9700695a)
 - [Arrêté du 28 octobre 1997 (ECOT9791075A)](arrete-du-28-octobre-1997-ecot9791075a)
