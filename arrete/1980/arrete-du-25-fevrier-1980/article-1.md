@@ -1,3 +1,5 @@
 # Article 1
 
-Les échelles indiciaires applicables aux personnels d'encadrement et de surveillance des écoles de cadres et des écoles et centres préparant aux professions paramédicales relevant des établissements d'hospitalisation publics sont fixées conformément au tableau annexe au présent arrêté, qui détermine également la durée moyenne des services que doit accomplir, dans chaque échelon, un agent de valeur moyenne pour avoir accès à l'échelon supérieur.
+L'addition de stéaroyl-2-lactylate de calcium comme substance antirassissante est autorisée, à la dose maximale de 0,5 p. 100 par rapport à la farine, dans la fabrication des pains de mie et des pains spéciaux préemballés contenant des matières grasses ou du sucre.
+
+L'addition de stéaroyl-2-lactylate de sodium comme agent émulsifiant est autorisée, à la dose maximale de 0,5 p. 100 par rapport à la farine, dans les articles de pâtisserie industrielle préemballés à base de pâte battue aux oeufs tels que génoises, cakes, savarins, gâteaux roulés, gâteaux de savoie, madeleines et quatre-quarts.
