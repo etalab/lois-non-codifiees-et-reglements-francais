@@ -5,3 +5,4 @@
 - [Loi n° 88-1202 du 30 décembre 1988 (AGRX8800119L)](loi-n-88-1202-du-30-decembre-1988-agrx8800119l)
 - [Loi n° 88-16 du 5 janvier 1988 (ASEX8700175L)](loi-n-88-16-du-5-janvier-1988-asex8700175l)
 - [Loi n° 88-227 du 11 mars 1988 (INTX8800003L)](loi-n-88-227-du-11-mars-1988-intx8800003l)
+- [Loi n°88-23 du 7 janvier 1988 (JUSX8700196L)](loi-n88-23-du-7-janvier-1988-jusx8700196l)
