@@ -131,7 +131,6 @@
 - [Décret n°77-1296 du 25 novembre 1977](decret-n77-1296-du-25-novembre-1977)
 - [Décret n°77-1297 du 25 novembre 1977](decret-n77-1297-du-25-novembre-1977)
 - [Décret n°77-1298 du 25 novembre 1977](decret-n77-1298-du-25-novembre-1977)
-- [Décret n°77-1299 du 25 novembre 1977](decret-n77-1299-du-25-novembre-1977)
 - [Décret n°77-1300 du 25 novembre 1977](decret-n77-1300-du-25-novembre-1977)
 - [Décret n°77-138 du 27 janvier 1977](decret-n77-138-du-27-janvier-1977)
 - [Décret n°77-140 du 27 janvier 1977](decret-n77-140-du-27-janvier-1977)
