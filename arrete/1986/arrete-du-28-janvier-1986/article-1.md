@@ -1,13 +1,17 @@
 # Article 1
 
-Il est institué une commission permanente de la nomenclature générale des actes professionnels qui, à la demande du ministre chargé de la sécurité sociale, donne un avis sur [*attributions*] :
+L'état statistique et financier, mentionné à l'article 5 du décret susvisé, établi chaque année par les organismes de mutualisation agréés par l'Etat au titre des formations professionnelles en alternance, comporte les informations suivantes :
 
-- la cotation provisoire et l'inscription à la nomenclature des actes qui apportent une amélioration du service médical ou une économie dans le coût du traitement ainsi que les prescriptions de nature à faciliter le contrôle médical de certains actes ;
+1. La dénomination, l'adresse, le statut, le champ d'intervention territorial et professionnel de l'organisme ;
 
-- les révisions de cotations ;
+2. La répartition par taille d'entreprise du nombre d'entreprises et de salariés couverts par l'organisme ainsi que du montant des contributions perçues au titre de la cotisation complémentaire de 0,1 p. 100 à la taxe d'apprentissage d'une part, et de la contribution de 0,2 p. 100 à l'obligation de participer au développement de la formation professionnelle continue, d'autre part ;
 
-- l'interprétation de la nomenclature ;
+3. La répartition par taille d'entreprise du nombre de contrats de qualification, du nombre de contrats d'adaptation et de stages d'initiation à la vie professionnelle dont le financement a été assuré par l'organisme ;
 
-- toute question scientifique, économique, financière ou statistique intéressant la cotation des actes ou les conditions d'application de la nomenclature.
+4. La répartition par domaine de formation, par niveau de formation, par durée de formation et par type de sanction des actions réalisées en application de contrats de qualification et de contrats d'adaptation dont le financement a été assuré par l'organisme ;
 
-Les avis relatifs aux nouvelles cotations comportent une approche économique de la valeur de l'acte et une estimation des dépenses correspondantes à la charge des régimes obligatoires d'assurance maladie.
+5. La répartition par âge et par sexe du nombre de jeunes accueillis dans le cadre de contrats de qualification, de contrats d'adaptation et de stages d'initiation à la vie professionnelle dont le financement a été assuré par l'organisme ;
+
+6. Le nombre d'heures de formation réalisées en application de contrats de qualification et de contrats d'adaptation dont le financement a été assuré par l'organisme ;
+
+7. Le montant des produits et des charges comptabilisés au cours d'une année civile donnée ventilés par nature et par destination.
