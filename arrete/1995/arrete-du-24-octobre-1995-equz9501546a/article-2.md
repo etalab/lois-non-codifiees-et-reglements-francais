@@ -1,0 +1,5 @@
+# Article 2
+
+Le comité constitue une instance de concertation entre ses membres. Il contribue à la cohérence d'ensemble de la politique d'aménagement et à la prise en compte par les différents services, dans les politiques sectorielles qu'ils conduisent, des orientations fixées par le ministre en matière d'aménagement et de développement du territoire, notamment dans le cadre de la préparation des directives territoriales d'aménagement.
+
+Dans ce cadre, le comité est associé à l'élaboration du projet de schéma national d'aménagement et de développement du territoire. Il propose les adaptations nécessaires à la politique de recherche et de formation du ministère dans le domaine de l'aménagement, ainsi que les conditions d'une évaluation de la planification locale par rapport aux objectifs nationaux d'aménagement du territoire. Il examine à la demande d'un de ses membres toute question relative à l'aménagement et présentant une importance stratégique pour le développement économique et social ou la préservation du patrimoine.
