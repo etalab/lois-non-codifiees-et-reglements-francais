@@ -1,6 +1,5 @@
 # Annexes
 
-- [Liste des diplômes donnant accès aux emplois d'ingénieur, d'architecte et de directeur des services techniques communaux dans les conditions prévues aux annexes II, III, IV et V.](liste-des-diplomes-donnant-acces-aux)
 - [Chef d'équipe des travaux de voirie communaux.](chef-d-equipe-des-travaux-de-voirie-communaux)
 - [Conducteur d'automobile.](conducteur-d-automobile)
 - [Dessinateur.](dessinateur)
