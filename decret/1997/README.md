@@ -575,7 +575,6 @@
 - [Décret du 22 août 1997 (ECOC9700104D)](decret-du-22-aout-1997-ecoc9700104d)
 - [Décret n°97-1167 du 22 décembre 1997 (JUSC9720784D)](decret-n97-1167-du-22-decembre-1997-jusc9720784d)
 - [Décret n°97-1168 du 22 décembre 1997 (ECOT9751636D)](decret-n97-1168-du-22-decembre-1997-ecot9751636d)
-- [Décret n°97-1171 du 22 décembre 1997 (INTA9700361D)](decret-n97-1171-du-22-decembre-1997-inta9700361d)
 - [Décret n°97-384 du 22 avril 1997 (MENU9700433D)](decret-n97-384-du-22-avril-1997-menu9700433d)
 - [Décret n°97-385 du 22 avril 1997 (MENU9700432D)](decret-n97-385-du-22-avril-1997-menu9700432d)
 - [Décret n°97-386 du 22 avril 1997 (MENU9700434D)](decret-n97-386-du-22-avril-1997-menu9700434d)
