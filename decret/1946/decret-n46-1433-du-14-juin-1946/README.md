@@ -10,6 +10,5 @@
 - [TITRE IX : DELEGUES DU PERSONNEL](titre-ix)
 - [TITRE X](titre-x)
 - [TITRE XI](titre-xi)
-- [TITRE XII](titre-xii)
 - [TITRE XIII](titre-xiii)
 - [ANNEXES](annexes)
