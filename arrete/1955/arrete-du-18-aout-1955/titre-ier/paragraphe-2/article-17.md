@@ -1,7 +1,3 @@
 # Article 17
 
-Si une remorque est destinée au transport de personnes, son installation de freinage doit comporter un deuxième dispositif de freinage actionné par la commande du frein de secours du véhicule tracteur et dont la transmission sera indépendante de celle du dispositif principal.
-
-L'obligation définie à l'alinéa précédent s'applique aux remorques utilisées à d'autres fins que le transport de personnes, lorsqu'elles sont attelées à un tracteur tel que la prescription énoncée au dernier alinéa de l'article 23 ci-après n'est pas réalisée par le seul dispositif de secours du véhicule tracteur,
-
-Dans tous les cas, ce dispositif de freinage devra satisfaire à la condition d'efficacité définie ci-après aux articles 35 et 36.
+Les remorques dont le poids total en charge dépasse 3,5 tonnes ansi que celles destinées au transport de personnes doivent comporter un deuxième dispositif de freinage, actionné par la commande de frein de secours du véhicule tracteur et dont la transmission soit indépendante de celle du dispositif principal. Ce dispositif doit agir sur des roues ou trains de roulement portant en charge normalement répartie à l'arrêt au moins 40% du poids porté par l'ensemble des roues ou trains de roulement du véhicule ; il devra satisfaire à la condition d'efficacité définie aux articles 35 et 36 ci-après.
