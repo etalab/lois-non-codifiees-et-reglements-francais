@@ -1,13 +1,17 @@
 # Article 2
 
-La cotisation de référence assure l'acquisition de 18 points de retraite annuels.
+Le régime d'assurance vieillesse complémentaire institué par le présent décret comporte :
 
-Toutefois, chaque assujetti peut, dans les conditions fixées par les statuts prévus à l'article 4 ci-après, acquitter, sur sa demande :
+a) Une cotisation forfaitaire portant attribution de six points de retraite ;
 
-- soit une cotisation majorée correspondant à l'acquisition de 24 points de retraite ;
+b) Une cotisation proportionnelle assise sur les revenus professionnels non salariés déclarés conformément aux modalités retenues pour la cotisation proportionnelle du régime de l'allocation vieillesse de base.
 
-- soit une cotisation minorée correspondant à l'acquisition de 12 points de retraite lorsque ses revenus professionnels non salariés sont inférieurs à un montant fixé, chaque année, par le conseil d'administration de la section professionnelle des chirurgiens-dentistes.
+L'assiette de cette cotisation est comprise entre un minimum et un maximum.
 
-Les statuts fixent également les conditions dans lesquelles des dispenses de cotisations peuvent être accordées dans les premières années d'activité professionnelle ou en cas d'infortune ou d'incapacité d'exercice de la profession.
+Le versement de la cotisation proportionnelle porte attribution, annuellement, d'un nombre de points supplémentaires variable, obtenu en divisant le montant de cette cotisation par le coût d'acquisition d'un point de retraite, attribué au titre de la cotisation forfaitaire.
 
-Le montant de la cotisation définie au premier alinéa du présent article est fixé dans les conditions prévues au deuxième alinéa de l'article L. 644-1 du code de la sécurité sociale.
+La valeur du point de la cotisation forfaitaire, le taux de la cotisation proportionnelle et les limites de l'assiette de la cotisation proportionnelle sont fixés chaque année par décret, sur le rapport du ministre chargé de la sécurité sociale et du ministre chargé du budget, sur proposition du conseil d'administration de la section professionnelle des chirurgiens-dentistes.
+
+Les statuts prévus à l'article 3 ci-après fixent les conditions dans lesquelles des exonérations, des dispenses, des réductions ou des reports de cotisations peuvent être accordés dans les premières années d'activité professionnelle ou en cas d'insuffisance de revenus ou d'incapacité d'exercice.
+
+Les statuts fixent également les conditions dans lesquelles les assujettis volontaires cotisent et acquièrent des points.
