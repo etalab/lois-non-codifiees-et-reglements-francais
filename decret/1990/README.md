@@ -633,6 +633,7 @@
 - [Décret n°83-52 du 26 janvier 1983](decret-n83-52-du-26-janvier-1983)
 - [Décret n°90-100 du 26 janvier 1990 (LOGC9000002D)](decret-n90-100-du-26-janvier-1990-logc9000002d)
 - [Décret n°90-101 du 26 janvier 1990 (LOGC9000003D)](decret-n90-101-du-26-janvier-1990-logc9000003d)
+- [Décret n°90-1051 du 26 novembre 1990 (AGRS9002173D)](decret-n90-1051-du-26-novembre-1990-agrs9002173d)
 - [Décret n°90-108 du 26 janvier 1990 (MAEJ9030000D)](decret-n90-108-du-26-janvier-1990-maej9030000d)
 - [Décret n°90-274 du 26 mars 1990 (SPSP9000016D)](decret-n90-274-du-26-mars-1990-spsp9000016d)
 - [Décret n°90-279 du 26 mars 1990 (MAEJ9030025D)](decret-n90-279-du-26-mars-1990-maej9030025d)
