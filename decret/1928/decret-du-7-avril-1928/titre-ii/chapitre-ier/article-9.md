@@ -1,0 +1,3 @@
+# Article 9
+
+Le juge de paix connaît en matière civile de toutes actions purement personnelles ou mobilières en dernier ressort jusqu'à la valeur de 600 fr. et, à charge d'appel, jusqu'à la valeur de 1.500 fr..
