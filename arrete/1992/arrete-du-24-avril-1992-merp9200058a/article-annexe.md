@@ -26,7 +26,7 @@
 </td>
 <td>Boulogne-sur-Mer (Pas de Calais)</td>
 <td>
-<p align="center">26</p>
+<p align="center">30</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +152,8 @@
 <td>Groupe des ports situés sur le littoral de la région de la Réunion</td>
 <td>Le Port (Réunion)</td>
 <td>
-<p align="center">23</p>
+<p align="center">31</p>
+<br/>
 </td>
 </tr>
 </tbody>
