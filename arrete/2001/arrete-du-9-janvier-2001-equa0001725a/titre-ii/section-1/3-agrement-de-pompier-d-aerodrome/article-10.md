@@ -12,15 +12,17 @@ I. - Sous réserve des dispositions prévues à l'article 11 du présent arrêt�
 
 Peuvent toutefois bénéficier, sur proposition de leur employeur, d'une décision de validation par le préfet de tout ou partie de leur formation antérieure les agents répondant à l'une des conditions ci-après :
 
-- avoir reçu une formation de sapeurs-pompiers auxiliaires ;
+- être titulaire de la mention complémentaire "sécurité civile et d'entreprise" ;
 
-- avoir servi dans un corps de sapeurs-pompiers civil ou militaire ;
+- avoir, depuis moins de deux ans :
 
-- être titulaire du brevet de cadet de sapeurs-pompiers depuis moins de deux ans ;
+- reçu une formation de sapeur-pompier auxiliaire ;
 
-- être titulaire du certificat d'aptitude professionnelle d'agent de prévention et de sécurité " mention complémentaire secours à personne, lutte contre l'incendie et protection de l'environnement " ;
+- ou obtenu le brevet de cadet de sapeur-pompier ;
 
-- avoir perdu leur agrément de pompier d'aérodrome dans le cadre de l'article 12.
+- ou servi dans un corps civil de sapeurs-pompiers ;
+
+- ou exercé une activité militaire ou civile de pompier et justifier d'une formation spécifique à cet effet.
 
 Ces diverses pièces justificatives sont présentées au préfet territorialement compétent pour délivrer l'agrément suivant un dossier type défini par la direction générale de l'aviation civile.
 

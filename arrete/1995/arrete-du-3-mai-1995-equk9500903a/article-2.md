@@ -8,6 +8,6 @@ b) Une photographie d'identité ;
 
 c) Un timbre fiscal correspondant au droit de délivrance ;
 
-d) Une fiche d'état civil ou une photocopie d'une pièce d'identité ;
+d) Une photocopie d'une pièce d'identité ;
 
 e) Une copie du diplôme professionnel ou toute pièce officielle justifiant la demande d'une équivalence.

@@ -2,7 +2,7 @@
 
 I. - Sous réserve des dispositions prévues à l'article 11, l'agrément prévu à l'article D. 213-1-6 du code de l'aviation civile en vue d'exercer la fonction de chef de manoeuvre du service de sauvetage et de lutte contre l'incendie des aéronefs est délivré, au terme d'une année probatoire, à toute personne répondant à l'une des conditions suivantes :
 
-- avoir été officier ou sous-officier d'un corps civil ou militaire de sapeurs-pompiers depuis moins de deux ans ;
+- avoir été, depuis moins de deux ans, officier ou sous-officier d'un corps civil de sapeurs-pompiers ou dans un service ou une unité militaire de sécurité incendie ;
 
 - posséder, depuis au moins deux ans, l'agrément de pompier sur un aérodrome de niveau de protection supérieur ou égal à 6.
 

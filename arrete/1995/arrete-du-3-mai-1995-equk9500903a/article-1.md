@@ -2,7 +2,7 @@
 
 En application de l'article 7 du décret du 21 octobre 1992 susvisé, les personnels appartenant aux catégories suivantes ou les titulaires de brevets, diplômes ou certificats énumérés ci-après peuvent obtenir par équivalence la carte Mer, le permis Mer côtier ou le permis Mer hauturier.
 
-I. - Marine marchande
+I. - MARINE MARCHANDE
 
 a) Permis mer hauturier
 
@@ -90,6 +90,18 @@ Attestation de succès à l'examen pour l'obtention du brevet de chef de quart.
 
 Brevet de patron Plaisance à la voile.
 
+Attestation de réussite aux épreuves du module 2 de l'examen pour l'obtention du brevet de patron de petite navigation.
+
+Elèves des cycles de formation des officiers de 1re et de 2e classe de la marine marchande titulaires, au minimum, du certificat d'admissibilité en deuxième année.
+
+certificat de matelot à la passerelle.
+
+Brevet d'études professionnelles maritimes de marin du commerce.
+
+Brevet d'études professionnelles maritimes pêche.
+
+Tout titre de formation professionnelle maritime permettant ou ayant permis d'exercer des fonctions principales, au niveau opérationnel ou de direction dans les services pont (tableaux I et II de l'article 7 du décret du 25 mai 1999 susvisé) ou polyvalent (tableau figurant à l'article 9 du décret du 25 mai 1999 susvisé).
+
 b) Permis Mer côtier
 
 Officier mécanicien de 1re classe.
@@ -108,6 +120,16 @@ Certificat de motoriste à la pêche.
 
 Certificat d'aptitude à la conduite des moteurs des navires conchylicoles.
 
+Brevet d'études professionnelles maritimes de mécanicien.
+
+Certificat de mécanicien de quart à la machine.
+
+Certificat d'aptitude professionnelle maritime de matelot.
+
+Certificat d'initiation nautique.
+
+Tout titre de formation professionnelle maritime permettant, ou ayant permis, d'exercer des fonctions principales au niveau opérationnel ou de direction dans le service machine d'un navire (tableau figurant à l'article 8 du décret du 25 mai 1999 susvisé).
+
 c) Carte Mer
 
 Tous titres de formation professionnelle maritime permettant d'être porté au rôle d'équipage d'un navire.
@@ -116,7 +138,7 @@ Certificat de canotier breveté.
 
 Brevet d'aptitude à l'exploitation des embarcations et radeaux de sauvetage.
 
-II. - Personnels civils de l'Etat
+II. - PERSONNELS CIVILS DE L'ETAT
 
 A. - Personnels relevant du ministère chargé de la mer
 
@@ -136,9 +158,7 @@ Techniciens du contrôle des établissements de pêche ;
 
 Syndics des gens de mer.
 
-B. - Personnels relevant du ministère chargé du budget
-
-direction générale des douanes
+B. - Personnels relevant du ministère chargé du budget direction générale des douanes
 
 Permis Mer hauturier
 
@@ -146,7 +166,7 @@ Brevet de chef de quart ou de navigateur.
 
 Certificat de conducteur de vedette.
 
-III. - Marine nationale
+III. - MARINE MARCHANDE
 
 a) Permis Mer hauturier
 
@@ -182,6 +202,8 @@ Officiers d'administration des affaires maritimes issus du centre de formation d
 
 Officiers mariniers pilotes de la flotte.
 
+Stagiaires étrangers ayant suivi avec succès une formation de chef du quart à l'Ecole navale.
+
 b) Carte Mer
 
 Elèves de l'Ecole navale.
@@ -193,3 +215,13 @@ Officiers mariniers de la spécialité d'hydrographe.
 Officiers mariniers et personnel des équipages titulaires du brevet supérieur de météorologiste-océanographe, du brevet d'aptitude technique de timonier, du brevet élémentaire de manoeuvrier ou de manoeuvrier de direction de port.
 
 Le personnel ayant appartenu aux corps et spécialités mentionnés ci-dessus et ayant changé de corps, de spécialité ou quitté le service actif bénéficie des mêmes facilités.
+
+IV. GENDARMERIE NATIONALE
+
+a) Permis Mer hauturier :
+
+Certificat Pilote embarcations gendarmerie (PEG).
+
+b) Permis Mer côtier :
+
+Attestation d'aptitude à la conduite des embarcations légères de la gendarmerie.
