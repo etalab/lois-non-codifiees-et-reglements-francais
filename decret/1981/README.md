@@ -10,4 +10,5 @@
 - [Décret n°81-1026 du 16 novembre 1981](decret-n81-1026-du-16-novembre-1981)
 - [Décret n°81-1031 du 16 novembre 1981](decret-n81-1031-du-16-novembre-1981)
 - [Décret n°81-1028 du 18 novembre 1981](decret-n81-1028-du-18-novembre-1981)
+- [Décret n°81-1043 du 18 novembre 1981](decret-n81-1043-du-18-novembre-1981)
 - [Décret n°81-989 du 30 octobre 1981](decret-n81-989-du-30-octobre-1981)
