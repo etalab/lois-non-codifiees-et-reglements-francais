@@ -356,6 +356,7 @@
 - [Décret n°99-226 du 23 mars 1999 (DEFX9903487D)](decret-n99-226-du-23-mars-1999-defx9903487d)
 - [Décret n°99-228 du 23 mars 1999 (AGRH9801949D)](decret-n99-228-du-23-mars-1999-agrh9801949d)
 - [Décret n°99-230 du 23 mars 1999 (PRMX9900031D)](decret-n99-230-du-23-mars-1999-prmx9900031d)
+- [Décret n°99-516 du 23 juin 1999 (DEFP9901094D)](decret-n99-516-du-23-juin-1999-defp9901094d)
 - [Décret n°98-1197 du 24 décembre 1998 (EQUP9801231D)](decret-n98-1197-du-24-decembre-1998-equp9801231d)
 - [Décret n°98-750 du 24 août 1998 (MCCK9800157D)](decret-n98-750-du-24-aout-1998-mcck9800157d)
 - [Décret n°99-130 du 24 février 1999 (MCCK9800773D)](decret-n99-130-du-24-fevrier-1999-mcck9800773d)
