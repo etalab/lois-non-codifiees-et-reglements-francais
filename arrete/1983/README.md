@@ -57,7 +57,6 @@
 - [Arrêté du 9 mai 1983](arrete-du-9-mai-1983)
 - [Arrêté du 10 août 1983](arrete-du-10-aout-1983)
 - [Arrêté du 10 février 1983](arrete-du-10-fevrier-1983)
-- [Arrêté du 10 janvier 1983](arrete-du-10-janvier-1983)
 - [Arrêté du 10 juin 1983](arrete-du-10-juin-1983)
 - [Arrêté du 10 novembre 1983](arrete-du-10-novembre-1983)
 - [Arrêté du 10 septembre 1983](arrete-du-10-septembre-1983)
