@@ -76,7 +76,7 @@ Poser à bord des bateaux de plaisance des moteurs hors bord et leurs commandes.
 
 des circuits électriques des bateaux de plaisance
 
-Dépanner les circuits électriques à bord des bateaux de plaisance.
+Dépanner les circuits électriques de bord des bateaux de plaisance.
 
 Procéder à l'extension d'installations électriques dans des bateaux de plaisance.
 
