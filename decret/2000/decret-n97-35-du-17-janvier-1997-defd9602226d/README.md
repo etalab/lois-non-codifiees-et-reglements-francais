@@ -3,3 +3,4 @@
 - [TITRE Ier : LE DÉLÉGUÉ GÉNÉRAL POUR L'ARMEMENT.](titre-ier)
 - [TITRE II : LA DÉLÉGATION GÉNÉRALE POUR L'ARMEMENT](titre-ii)
 - [TITRE III : DISPOSITIONS DIVERSES.](titre-iii)
+- [Article 29](article-29.md)
