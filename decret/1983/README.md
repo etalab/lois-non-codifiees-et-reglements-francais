@@ -253,6 +253,8 @@
 - [Décret n°83-564 du 30 juin 1983](decret-n83-564-du-30-juin-1983)
 - [Décret n°83-565 du 30 juin 1983](decret-n83-565-du-30-juin-1983)
 - [Décret n°83-775 du 30 août 1983](decret-n83-775-du-30-aout-1983)
+- [Décret n°83-872 du 30 septembre 1983](decret-n83-872-du-30-septembre-1983)
+- [Décret n°83-873 du 30 septembre 1983](decret-n83-873-du-30-septembre-1983)
 - [Décret n°83-437 du 30 mai 1983](decret-n83-437-du-30-mai-1983)
 - [Décret n°82-1228 du 31 décembre 1982](decret-n82-1228-du-31-decembre-1982)
 - [Décret n°82-1229 du 31 décembre 1982](decret-n82-1229-du-31-decembre-1982)
