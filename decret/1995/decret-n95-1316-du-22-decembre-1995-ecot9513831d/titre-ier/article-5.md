@@ -16,4 +16,6 @@ Les décisions du conseil d'administration de l'Etablissement public de financem
 
 - à la modification des conventions de garantie conclues entre la Société de participation Banque industrie S.N.C. et la Caisse des dépôts et consignations ainsi qu'entre ladite société et Thomson CSF.
 
+- aux transactions.
+
 Les autres délibérations du conseil d'administration sont exécutoires de plein droit.
