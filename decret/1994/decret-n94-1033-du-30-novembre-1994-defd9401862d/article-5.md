@@ -1,0 +1,3 @@
+# Article 5
+
+Pour les opérations, travaux ou activités concernant des installations ou enceintes relevant du ministre de la défense et entrant dans le cadre d'opérations secrètes intéressant la défense nationale, les dispositions des articles 3 à 9, 11, 12, 16, 24, 25 et 30 (alinéa 2) du décret n° 93-742 du 29 mars 1993 susvisé et celles des articles 7, 14, 20 et 32 du même décret qui sont relatives à la consultation du conseil départemental d'hygiène ne sont pas applicables. L'instruction du dossier est poursuivie par l'autorité militaire compétente et l'autorisation est délivrée par décret pris sur proposition du ministre de la défense.

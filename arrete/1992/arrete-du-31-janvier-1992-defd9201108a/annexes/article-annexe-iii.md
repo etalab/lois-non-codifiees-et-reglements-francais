@@ -4,6 +4,16 @@ Surveillance administrative et technique des formations de l'armée de l'air
 
 1. Autorités responsables de la surveillance administrative et technique
 
+1. Autorités responsables de la surveillance administrative et technique :
+
+- commandant de la défense aérienne et des opérations aériennes ;
+
+- commandant des forces aériennes stratégiques ;
+
+- commandant organique y compris commandant de région aérienne ;
+
+- directeur central de service.
+
 Commandant spécialisé ;
 
 Commandant de région aérienne ;

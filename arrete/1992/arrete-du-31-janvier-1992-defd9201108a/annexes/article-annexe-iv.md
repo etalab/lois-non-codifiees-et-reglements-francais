@@ -6,9 +6,9 @@ Surveillance administrative et technique des formations de la gendarmerie nation
 
 Le directeur général de la gendarmerie nationale.
 
-2. Autorités pouvant recevoir délégation de signature de l'autorité ci-dessus désignée
+2. Autorités pouvant recevoir délégation de signature de autorité ci-dessus désignée
 
-Inspecteur technique de la gendarmerie nationale et commissaires détachés pour emploi auprès de lui ;
+Inspecteur technique de la gendarmerie nationale et commissaires détachés pour emploi auprès de lui ; ou commissaire résident en circonscription
 
 Directeurs centraux des services interarmées et des services des armées ;
 
@@ -16,7 +16,7 @@ Directeurs, ou chefs, locaux de service.
 
 3. Domaines pouvant faire l'objet d'une délégation de signature
 
-3.1. En ce qui concerne l'inspecteur technique de la gendarmerie nationale et les commissaires détachés pour emploi auprès de lui, les domaines autres que ceux visés aux paragraphes 3.2 et 3.3 ci-après, relevant de leurs attributions.
+3.1. En ce qui concerne l'inspecteur technique de la gendarmerie nationale et les commissaires détachés pour emploi auprès de lui, ou commissaire résident en circonscription les domaines autres que ceux visés aux paragraphes 3.2 et 3.3 ci-après, relevant de leurs attributions.
 
 3.2. En ce qui concerne les directeurs locaux du commissariat de l'armée de terre pour les formations de gendarmerie en métropole et les directeurs locaux des commissariats pour les formations de gendarmerie outre-mer :
 
