@@ -1,6 +1,6 @@
 # Article Annexe IX
 
-IX-1 Valeurs de Bv et de Cv jusqu'au 30 juin 1989
+Valeurs de Bo et de Co jusqu'au 30 juin 1989
 
 <table>
 <tr>
@@ -16,7 +16,7 @@ IX-1 Valeurs de Bv et de Cv jusqu'au 30 juin 1989
 <td> :   de    :-------------------:</td>
 </tr>
 <tr>
-<td> :logements:   Bv    :    Cv   :</td>
+<td> :logements:   Bo    :    Co   :</td>
 </tr>
 <tr>
 <td> :         : (en F)  : (en F)  :</td>
@@ -25,34 +25,28 @@ IX-1 Valeurs de Bv et de Cv jusqu'au 30 juin 1989
 <td> :---------:-------------------:</td>
 </tr>
 <tr>
-<td> : 1       :  90.320 :  19.480 :</td>
+<td> : 1       :  79.120 :   9.670 :</td>
 </tr>
 <tr>
-<td> : 1 bis   : 170.770 :  32.485 :</td>
+<td> : 1 bis   : 149.610 :  16.145 :</td>
 </tr>
 <tr>
-<td> : 2       : 204.095 :  47.455 :</td>
+<td> : 2       : 178.765 :  23.595 :</td>
 </tr>
 <tr>
-<td> : 3       : 240.330 :  61.915 :</td>
+<td> : 3       : 210.540 :  30.775 :</td>
 </tr>
 <tr>
-<td> : 4       : 274.005 :  75.340 :</td>
+<td> : 4       : 240.020 :  37.435 :</td>
 </tr>
 <tr>
-<td> : 5       : 312.845 :  90.845 :</td>
+<td> : 5       : 274.070 :  45.150 :</td>
 </tr>
 <tr>
-<td> : 6       : 341.340 : 102.185 :</td>
+<td> : 6       : 299.025 :  50.805 :</td>
 </tr>
 <tr>
-<td> : 7       : 380.210 : 117.670 :</td>
-</tr>
-<tr>
-<td> : Pièce   :         :         :</td>
-</tr>
-<tr>
-<td> : suppl.  :  36.230 :  14.445 :</td>
+<td> : 7       : 330.065 :  58.515 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -85,38 +79,32 @@ IX-1 Valeurs de Bv et de Cv jusqu'au 30 juin 1989
 <td> : 1       :       0 :       0 :</td>
 </tr>
 <tr>
-<td> : 1 bis   : 170.770 :  34.905 :</td>
+<td> : 1 bis   : 149.610 :  24.130 :</td>
 </tr>
 <tr>
-<td> : 2       : 204.095 :  50.995 :</td>
+<td> : 2       : 178.765 :  35.270 :</td>
 </tr>
 <tr>
-<td> : 3       : 240.330 :  66.555 :</td>
+<td> : 3       : 210.540 :  46.025 :</td>
 </tr>
 <tr>
-<td> : 4       : 274.005 :  80.965 :</td>
+<td> : 4       : 240.020 :  55.990 :</td>
 </tr>
 <tr>
-<td> : 5       : 312.845 :  97.610 :</td>
+<td> : 5       : 274.070 :  67.510 :</td>
 </tr>
 <tr>
-<td> : 6       : 341.340 : 109.810 :</td>
+<td> : 6       : 299.025 :  75.950 :</td>
 </tr>
 <tr>
-<td> : 7       : 380.210 : 126.470 :</td>
-</tr>
-<tr>
-<td> : Pièce   :         :         :</td>
-</tr>
-<tr>
-<td> : suppl.  :  36.230 :  15.530 :</td>
+<td> : 7       : 330.065 :  87.475 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
 </table>
 
-Valeurs de Bv et de Cv à partir du 1er juillet 1989
+Valeurs de Bo et de Co à partir du 1er juillet 1989
 
 <table>
 <tr>
@@ -132,7 +120,7 @@ Valeurs de Bv et de Cv à partir du 1er juillet 1989
 <td> :   de    :-------------------:</td>
 </tr>
 <tr>
-<td> :logements:   Bv    :    Cv   :</td>
+<td> :logements:   Bo    :    Co   :</td>
 </tr>
 <tr>
 <td> :         : (en F)  : (en F)  :</td>
@@ -141,34 +129,28 @@ Valeurs de Bv et de Cv à partir du 1er juillet 1989
 <td> :---------:-------------------:</td>
 </tr>
 <tr>
-<td> : 1       :  91.290 :  19.690 :</td>
+<td> : 1       :  79.975 :   9.775 :</td>
 </tr>
 <tr>
-<td> : 1 bis   : 172.610 :  32.835 :</td>
+<td> : 1 bis   : 151.225 :  16.320 :</td>
 </tr>
 <tr>
-<td> : 2       : 206.290 :  47.965 :</td>
+<td> : 2       : 180.695 :  23.850 :</td>
 </tr>
 <tr>
-<td> : 3       : 242.915 :  62.580 :</td>
+<td> : 3       : 212.810 :  31.105 :</td>
 </tr>
 <tr>
-<td> : 4       : 276.960 :  76.150 :</td>
+<td> : 4       : 242.610 :  37.840 :</td>
 </tr>
 <tr>
-<td> : 5       : 316.215 :  91.820 :</td>
+<td> : 5       : 277.025 :  45.635 :</td>
 </tr>
 <tr>
-<td> : 6       : 345.020 : 103.290 :</td>
+<td> : 6       : 302.245 :  51.350 :</td>
 </tr>
 <tr>
-<td> : 7       : 384.305 : 118.940 :</td>
-</tr>
-<tr>
-<td> : Pièce   :         :         :</td>
-</tr>
-<tr>
-<td> : suppl.  :  36.620 :  14.605 :</td>
+<td> : 7       : 336.655 :  59.145 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -189,7 +171,7 @@ Valeurs de Bv et de Cv à partir du 1er juillet 1989
 <td> :   de    :-------------------:</td>
 </tr>
 <tr>
-<td> :logements:   Bv    :    Cv   :</td>
+<td> :logements:   Bo    :    Co   :</td>
 </tr>
 <tr>
 <td> :         : (en F)  : (en F)  :</td>
@@ -201,31 +183,25 @@ Valeurs de Bv et de Cv à partir du 1er juillet 1989
 <td> : 1       :       0 :       0 :</td>
 </tr>
 <tr>
-<td> : 1 bis   : 172.610 :  35.280 :</td>
+<td> : 1 bis   : 151.225 :  24.390 :</td>
 </tr>
 <tr>
-<td> : 2       : 206.290 :  51.545 :</td>
+<td> : 2       : 180.695 :  35.650 :</td>
 </tr>
 <tr>
-<td> : 3       : 242.915 :  67.270 :</td>
+<td> : 3       : 212.810 :  46.525 :</td>
 </tr>
 <tr>
-<td> : 4       : 276.960 :  81.840 :</td>
+<td> : 4       : 242.610 :  56.595 :</td>
 </tr>
 <tr>
-<td> : 5       : 316.215 :  98.660 :</td>
+<td> : 5       : 277.025 :  68.235 :</td>
 </tr>
 <tr>
-<td> : 6       : 345.020 : 110.990 :</td>
+<td> : 6       : 302.245 :  76.770 :</td>
 </tr>
 <tr>
-<td> : 7       : 384.305 : 127.835 :</td>
-</tr>
-<tr>
-<td> : Pièce   :         :         :</td>
-</tr>
-<tr>
-<td> : suppl.  :  36.620 :  15.695 :</td>
+<td> : 7       : 336.655 :  88.415 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -253,13 +229,13 @@ Par emplacement individuel de stationnement dans un garage enterré ou incorpor�
 <td> :---------:---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  45.065 :  45.550 :</td>
+<td> : I       :  39.420 :  39.845 :</td>
 </tr>
 <tr>
-<td> : II      :  41.170 :  41.615 :</td>
+<td> : II      :  36.015 :  36.405 :</td>
 </tr>
 <tr>
-<td> : III     :  39.000 :  39.420 :</td>
+<td> : III     :  34.110 :  34.480 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -285,13 +261,13 @@ Par emplacement individuel de stationnement dans un garage enterré ou incorpor�
 <td> :---------:---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  31.765 :  32.105 :</td>
+<td> : I       :  27.785 :  28.085 :</td>
 </tr>
 <tr>
-<td> : II      :  28.880 :  29.190 :</td>
+<td> : II      :  25.265 :  25.535 :</td>
 </tr>
 <tr>
-<td> : III     :  27.435 :  27.730 :</td>
+<td> : III     :  24.005 :  24.260 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
