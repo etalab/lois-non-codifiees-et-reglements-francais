@@ -6,7 +6,7 @@ Le certificat d'agrément est délivré à l'issue d'une procédure qui se déro
 
 L'année suivant la récolte, pour les vins revendiqués en appellation d'origine contrôlée "Château-Chalon", l'Institut national des appellations d'origine délivre un certificat d'aptitude à l'élaboration de vin à appellation d'origine contrôlée "Château-Chalon" après un examen analytique et organoleptique favorable sous réserve qu'il n'ait pas été constaté le non-respect des conditions de production.
 
-La procédure d'examen analytique et organoleptique se déroule dans les mêmes conditions que celles prévues par le décret du 19 octobre 1974 susvisé et par l'arrêté du 20 novembre 1974 pris en application.
+La procédure d'examen analytique et organoleptique se déroule dans les mêmes conditions que celles prévues par le décret n° 2001-1163 du 7 décembre 2001 et par l'arrêté du 7 décembre 2001 pris en application.
 
 Si les vins ne sont pas déclarés aptes à l'élaboration de l'appellation d'origine contrôlée "Château-Chalon", l'Institut national des appellations d'origine notifie à l'intéressé une décision définitive de non-agrément de ces vins en appellation "Château-Chalon".
 
