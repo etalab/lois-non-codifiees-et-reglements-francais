@@ -1,9 +1,0 @@
-# Article 10-1
-
-I. - Lorsque la commune d'implantation fait partie d'un département d'une densité de population qui est au plus égale à 1 000 habitants au kilomètre carré, la commission compétente pour statuer sur la demande d'autorisation est tenue, si l'établissement ou l'ensemble commercial est situé en tout ou partie à une distance n'excédant pas 5 kilomètres de la limite d'un autre département, de solliciter l'avis de la commission de ce dernier département avant de prendre sa décision. Cette distance est portée à 10 kilomètres dans le cas où la surface de vente de l'établissement ou de l'ensemble commercial, déterminée en tenant compte, le cas échéant, de la surface de vente déjà existante, atteint ou dépasse 5 000 mètres carrés.
-
-" Toutefois, les dispositions de l'alinéa ci-dessus ne sont pas applicables dans le cas où l'autorisation est demandée pour un établissement ou en ensemble commercial d'une surface de vente inférieure à 5 000 mètres carrés qui doit être implantée en tout ou partie dans une commune de plus de 40 000 habitants.
-
-" II. - Lorsque la commune d'implantation fait partie d'un département, autre que Paris, d'une densité de population supérieure à 1 000 habitants au kilomètre carré, la commission compétente pour statuer sur la demande d'autorisation est tenue, si cette commune est située à la limite d'un autre département, de solliciter l'avis de la commission de ce dernier département, avant de prendre sa décision.
-
-" III. - Lorsque l'autorisation est demandée pour un projet à réaliser sur le territoire de la ville de Paris, la commission compétente pour statuer ne peut, si le projet doit être implanté dans un arrondissement situé à la limite administrative de la ville, prendre sa décision qu'après avoir sollicité l'avis de la commission de tout département qui est limitrophe de cet arrondissement. "
