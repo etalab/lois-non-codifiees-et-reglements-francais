@@ -1,6 +1,6 @@
 # Article 13
 
-Le fait de contrevenir aux dispositions des articles 2 à 8, 10 et 14 est puni de l'amende prévue pour les contraventions de la 5e classe.
+Le fait de contrevenir aux dispositions des articles 2 à 8-1 et 10 est puni de l'amende prévue pour les contraventions de la 5e classe.
 
 Le fait de faciliter sciemment, par aide ou assistance, la préparation ou la commission des infractions prévues à l'alinéa précédent est puni de la même peine.
 
