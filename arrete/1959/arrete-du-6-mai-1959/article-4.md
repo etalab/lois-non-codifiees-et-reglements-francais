@@ -1,5 +1,7 @@
 # Article 4
 
-En ce qui concerne les personnels de direction des hôpitaux et hospices publics de plus de 50 lits, une note chiffrée provisoire est fixée par le préfet après avis du directeur départemental de la population et de l'aide sociale et du directeur départemental de la santé et, en ce qui concerne les directeurs adjoints, directeurs des établissements annexes et sous-directeurs, après avis du directeur général ou du directeur de l'établissement.
+En ce qui concerne le personnel de direction des établissements d'hospitalisation, de soins et de cure publics, une note chiffrée provisoire est fixée par le préfet après avis du directeur départemental de l'action sanitaire et sociale et du médecin inspecteur départemental de la santé ainsi que du directeur général ou du directeur, pour le personnel de direction qui leur est subordonné, à savoir : chefs de services centraux et chefs de services centraux adjoints dans les administrations hospitalières de Paris, Lyon et Marseille, directeurs généraux adjoints et directeurs adjoints, directeurs d'établissements annexes, attachés de direction, chargés des services économiques.
 
-La note chiffrée définitive est fixée par le ministre de la santé publique et de la population après péréquation éventuelle des notes chiffrées provisoires, sur la proposition conjointe du directeur général de la santé publique et du directeur de l'administration générale, du personnel et du budget.
+S'agissant des assistants, la note chiffrée provisoire qui leur est attribuée est fixée par le directeur général ou le directeur de l'établissement dans lequel chacun d'eux est affecté.
+
+La note chiffrée définitive est fixée par le ministre de la santé publique et de la sécurité sociale après péréquation éventuelle des notes chiffrées provisoires.
