@@ -58,7 +58,6 @@
 - [Décret n°79-1092 du 12 décembre 1978](decret-n79-1092-du-12-decembre-1978)
 - [Décret n°78-1308 du 13 décembre 1978](decret-n78-1308-du-13-decembre-1978)
 - [Décret n°79-319 du 13 avril 1979](decret-n79-319-du-13-avril-1979)
-- [Décret n°79-618 du 13 juillet 1979](decret-n79-618-du-13-juillet-1979)
 - [Décret n°79-619 du 13 juillet 1979](decret-n79-619-du-13-juillet-1979)
 - [Décret n°79-630 du 13 juillet 1979](decret-n79-630-du-13-juillet-1979)
 - [Décret n°79-979 du 13 novembre 1979](decret-n79-979-du-13-novembre-1979)
