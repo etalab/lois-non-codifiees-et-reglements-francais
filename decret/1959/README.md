@@ -25,6 +25,7 @@
 - [Décret n°59-327 du 20 février 1959](decret-n59-327-du-20-fevrier-1959)
 - [Décret n°59-328 du 20 février 1959](decret-n59-328-du-20-fevrier-1959)
 - [Décret du 21 novembre 1958](decret-du-21-novembre-1958)
+- [Décret n°59-449 du 21 mars 1959](decret-n59-449-du-21-mars-1959)
 - [Décret n°58-1284 du 22 décembre 1958](decret-n58-1284-du-22-decembre-1958)
 - [Décret n°59-178 du 22 janvier 1959](decret-n59-178-du-22-janvier-1959)
 - [Décret n°58-1303 du 23 décembre 1958](decret-n58-1303-du-23-decembre-1958)
