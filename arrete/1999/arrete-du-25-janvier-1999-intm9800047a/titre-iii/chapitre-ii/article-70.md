@@ -8,7 +8,7 @@ Agents chargés de la surveillance. - Les seuls fonctionnaires qui ont qualité,
 
 3° Les inspecteurs des finances ;
 
-4° Le trésorier-payeur général, le comptable du Trésor trésorier municipal ou leurs fondés de pouvoirs.
+4° Le trésorier-payeur général, le payeur du territoire, le comptable du Trésor trésorier municipal ou leurs fondés de pouvoirs.
 
 En outre, le ministre de l'intérieur et le ministre de l'économie, des finances et de l'industrie peuvent, par décision spéciale, déléguer cette mission à d'autres fonctionnaires relevant de leur département.
 

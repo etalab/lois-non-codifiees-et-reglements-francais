@@ -1,0 +1,3 @@
+# Article 1
+
+La durée de la formation des personnes mentionnées à l'article 1er du décret du 27 mai 1999 susvisé est de cinq jours, comprenant deux jours d'enseignement théorique suivis de trois jours d'enseignement clinique dans un service prenant en charge des patients trachéotomisés. L'organisation de ces enseignements est confiée au directeur de l'institut de formation en soins infirmiers compétent, en collaboration avec l'infirmier général, directeur du service de soins infirmiers, de l'établissement d'accueil, s'il s'agit d'un établissement public de santé, ou avec la personne remplissant des fonctions équivalentes, s'il s'agit d'un établissement de santé privé.
