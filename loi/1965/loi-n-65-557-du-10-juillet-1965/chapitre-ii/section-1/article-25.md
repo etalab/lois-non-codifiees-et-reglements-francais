@@ -30,4 +30,4 @@ k) L'autorisation permanente accordée à la police ou à la gendarmerie nationa
 
 l) L'installation ou la modification d'un réseau de distribution d'électricité public destiné à alimenter en courant électrique les emplacements de stationnement des véhicules, notamment pour permettre la charge des accumulateurs de véhicules électriques.
 
-A défaut de décision prise dans les conditions de majorité prévues au présent article, une nouvelle assemblée générale statue dans les conditions prévues à l'article 24.
+m) L'installation de compteurs d'eau froide divisionnaires.
