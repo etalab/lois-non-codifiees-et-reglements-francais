@@ -15,24 +15,9 @@ ECHELON :   INDICES    : DUREE
 <tr>
 <td>         :      :       : ANC</td>
 </tr>
-<tr>
-<td> --------:------:-------:------</td>
-</tr>
-<tr>
-<td> Ech (1) :      :       :</td>
-</tr>
-<tr>
-<td> except  : 500  :  390  :</td>
-</tr>
-<tr>
-<td> 7 éch   : 455  :  360  :</td>
-</tr>
-<tr>
-<td>         :      :       :</td>
-</tr>
 </table>
 
-6 éch   : 416  :  331  : 4 ans 5 éch   : 380  :  305  : 4 ans 4 éch   : 340  :  280  : 4 ans 3 éch   : 315  :  260  : 3 ans 2 éch   : 290  :  245  : 2 ans 1 éch   : 275  :  234  : 1 an ==============================   EMPLOIS : Préparateurs en pharmacie (cadre d'extinction), laborantins et manipulateurs d'électroradiologie :
+--------:------:-------:------ Ech (1) :      :       : except  :  500 :  390  : 7 éch   :  455 :  360  : 6 éch   :  416 :  331  : 4 ans 5 éch   :  380 :  305  : 4 ans 4 éch   :  340 :  280  : 4 ans 3 éch   :  315 :  260  : 3 ans 2 éch   :  290 :  245  : 2 ans 1 éch   :  275 :  234  : 1 an ==============================   EMPLOIS : Préparateurs en pharmacie (cadre d'extinction), laborantins et manipulateurs d'électroradiologie :
 
 ==============================
 
@@ -47,7 +32,7 @@ ECHELON :   INDICES    : DUREE
 </tr>
 </table>
 
---------:------:-------:------ Ech (2) :      :       : except  : 415  :  330  : 6 éch   : 390  :  315  : 3 ans 5 éch   : 360  :  294  : 3 ans 4 éch   : 335  :  275  : 3 ans 3 éch   : 315  :  260  : 3 ans 2 éch   : 290  :  245  : 2 ans 1 éch   : 275  :  234  : 2 ans ==============================   EMPLOIS : Surveillants chefs des services de laboratoire et surveillants chefs des services d'électroradiologie :
+--------:------:-------:------ Ech (2) :      :       : except  : 415  :  330  : 6 éch   : 390  :  315  : 3 ans 5 éch   : 365  :  295  : 3 ans 4 éch   : 340  :  280  : 3 ans 3 éch   : 315  :  260  : 3 ans 2 éch   : 290  :  245  : 2 ans 1 éch   : 275  :  234  : 2 ans ==============================   EMPLOIS : Surveillants chefs des services de laboratoire et surveillants chefs des services d'électroradiologie :
 
 ==============================
 
