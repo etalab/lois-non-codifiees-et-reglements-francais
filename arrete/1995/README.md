@@ -709,7 +709,6 @@
 - [Arrêté du 16 février 1995 (ECOC9400174A)](arrete-du-16-fevrier-1995-ecoc9400174a)
 - [Arrêté du 16 février 1995 (INDE9401518A)](arrete-du-16-fevrier-1995-inde9401518a)
 - [Arrêté du 16 février 1995 (MJSK9470078A)](arrete-du-16-fevrier-1995-mjsk9470078a)
-- [Arrêté du 16 février 1995 (SPSH9500415A)](arrete-du-16-fevrier-1995-spsh9500415a)
 - [Arrêté du 16 janvier 1995 (AGRG9500079A)](arrete-du-16-janvier-1995-agrg9500079a)
 - [Arrêté du 16 janvier 1995 (BUDD9530006A)](arrete-du-16-janvier-1995-budd9530006a)
 - [Arrêté du 16 janvier 1995 (COPC9400108A)](arrete-du-16-janvier-1995-copc9400108a)
