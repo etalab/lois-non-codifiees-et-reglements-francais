@@ -82,7 +82,6 @@
 - [Décret n°80-533 du 15 juillet 1980](decret-n80-533-du-15-juillet-1980)
 - [Décret n°80-813 du 15 octobre 1980](decret-n80-813-du-15-octobre-1980)
 - [Décret n°80-280 du 16 avril 1980](decret-n80-280-du-16-avril-1980)
-- [Décret n°80-477 du 16 juin 1980](decret-n80-477-du-16-juin-1980)
 - [Décret n°80-31 du 17 janvier 1980](decret-n80-31-du-17-janvier-1980)
 - [Décret n°80-33 du 17 janvier 1980](decret-n80-33-du-17-janvier-1980)
 - [Décret n°80-441 du 17 juin 1980](decret-n80-441-du-17-juin-1980)
