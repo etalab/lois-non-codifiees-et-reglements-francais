@@ -22,6 +22,7 @@
 - [Décret n°93-292 du 8 mars 1993 (SPSG9203059D)](decret-n93-292-du-8-mars-1993-spsg9203059d)
 - [Décret n°93-293 du 8 mars 1993 (SPSG9203060D)](decret-n93-293-du-8-mars-1993-spsg9203060d)
 - [Décret n°93-294 du 8 mars 1993 (SPSG9203061D)](decret-n93-294-du-8-mars-1993-spsg9203061d)
+- [Décret n° 92-36 du 9 janvier 1992 (MENX9200005D)](decret-n-92-36-du-9-janvier-1992-menx9200005d)
 - [Décret n°91-891 du 9 septembre 1991 (MENF9101455D)](decret-n91-891-du-9-septembre-1991-menf9101455d)
 - [Décret n°92-28 du 9 janvier 1992 (MENN9102861D)](decret-n92-28-du-9-janvier-1992-menn9102861d)
 - [Décret n°92-29 du 9 janvier 1992 (MENN9102862D)](decret-n92-29-du-9-janvier-1992-menn9102862d)
