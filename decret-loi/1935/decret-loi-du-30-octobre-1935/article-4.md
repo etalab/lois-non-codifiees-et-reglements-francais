@@ -1,5 +1,3 @@
 # Article 4
 
-L'établissement de servitudes de visibilité ouvrira au profit du propriétaire droit à une indemnité compensatrice du dommage direct, matériel et certain en résultant.
-
-Cette indemnité sera, à défaut d'entente amiable, fixée par le tribunal d'instance sur le dire d'experts choisis par les parties et, en cas de désaccord, d'un tiers expert nommé par le tribunal d'instance.
+Les agents chargés du contrôle financier sont régulièrement convoqués aux séances du conseil d'administration et aux assemblées générales. Des décrets contresignés par le ministre des finances et le ministre intéressé fixeront les conditions dans lesquelles ils pourront s'opposer aux décisions du conseil d'administration qui leur paraîtraient porter atteinte aux intérêts financiers et aux droits de l'Etat, tels que ces droits résultent des conventions.

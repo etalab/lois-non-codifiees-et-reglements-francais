@@ -1,3 +1,3 @@
 # Article 7
 
-Le président du conseil, ministre des affaires étrangères, le garde des sceaux, ministre de la justice, le ministre de l'intérieur et le ministre des travaux publics sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel et soumis à la ratification des Chambres, conformément à la loi du 8 juin 1935.
+Les agents chargés du contrôle financier et les fonctionnaires de l'inspection générale des finances chargés des vérifications prévues à l'article 6 ci-dessus ont tous pouvoirs d'investigation, sur pièces et sur place, pour l'examen des écritures, du bilan et des comptes.
