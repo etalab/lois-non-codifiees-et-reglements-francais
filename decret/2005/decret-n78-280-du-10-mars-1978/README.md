@@ -3,3 +3,4 @@
 - [Titre Ier : Organisation et fonctionnement.](titre-ier)
 - [Titre II : Dispositions financières et comptables.](titre-ii)
 - [Titre III : Dispositions diverses.](titre-iii)
+- [Article 24](article-24.md)

@@ -35,3 +35,5 @@ ou toute autre question de son choix.
 Lorsque l'avis du ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales est requis ou sollicité, celui-ci peut saisir pour avis simple la Commission nationale des fonds opérationnels (CNFO) visée à l'article 15.
 
 Les avis de la CNFO sont transmis au directeur des politiques économique et internationale (DPEI), qui prend une décision publiée au Bulletin officiel du ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales.
+
+Les programmes opérationnels mis en oeuvre en 2005 sont approuvés par le préfet de département au plus tard le 3 janvier 2005.
