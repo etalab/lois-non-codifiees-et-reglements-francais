@@ -1,10 +1,10 @@
 # Article 57
 
-I. - Le compte d'affectation spéciale ouvert dans les écritures du Trésor et intitulé : "Soutien financier de l'industrie cinématographique et de l'industrie des programmes audiovisuels" a pour ordonnateur principal le ministre chargé de la culture.
+I. - Le compte d'affectation spéciale ouvert dans les écritures du Trésor et intitulé : "Soutien financier de l'industrie cinématographique et de l'industrie audiovisuelle" a pour ordonnateur principal le ministre chargé de la culture.
 
 II. - Ce compte comporte deux sections :
 
-1° La première section concerne les opérations relatives au soutien financier de l'industrie cinématographique. Elle retrace :
+1°  La première section concerne les opérations relatives au soutien financier de l'industrie cinématographique. Elle retrace :
 
 a) En recettes :
 
@@ -24,7 +24,7 @@ b) En dépenses :
 
 - les dépenses diverses ou accidentelles.
 
-2° La deuxième section concerne les opérations relatives au soutien financier de l'industrie des programmes audiovisuels, à l'exclusion des oeuvres cinématographiques, destinés aux services de télévision soumis à la taxe et au prélèvement prévus à l'article 36 de la loi de finances pour 1984 (n° 83-1179 du 29 décembre 1983). Elle retrace :
+2°  La deuxième section concerne les opérations relatives au soutien financier de l'industrie audiovisuelle :
 
 a) En recettes :
 

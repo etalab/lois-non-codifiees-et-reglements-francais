@@ -2,11 +2,13 @@
 
 I. - Le montant du droit départemental d'enregistrement ou de la taxe départementale de publicité foncière applicable aux acquisitions d'immeubles ou de fractions d'immeubles mentionnés aux articles 710 et 711 du code général des impôts, ainsi que celui de la taxe additionnelle régionale mentionnée à l'article 1599 sexies du même code applicable aux mêmes biens, sont réduits de 35 p. 100 pour les mutations constatées par un acte authentique signé entre le 1er juillet 1995 et le 31 décembre 1996.
 
+Toutefois, la réduction de 35 p. 100 mentionnée au précédent alinéa s'applique aux mutations constatées par acte authentique passé postérieurement au 31 décembre 1996 et au plus tard le 1er février 1997 si l'accord des parties a été formalisé par un avant-contrat ayant acquis date certaine avant le 1er janvier 1997.
+
 II. Paragraphe modificateur
 
-III. - a) Les pertes de recettes résultant pour les départements et les régions de l'application du I sont compensées, selon les modalités définies aux b et c, par une majoration à due concurrence du prélèvement sur les recettes de l'Etat au titre de la compensation d'exonérations relatives à la fiscalité locale.
+III. - a) Les pertes de recettes résultant pour les départements et les régions de l'application du premier alinéa du I sont compensées, selon les modalités définies aux b et c, par une majoration à due concurrence du prélèvement sur les recettes de l'Etat au titre de la compensation d'exonérations relatives à la fiscalité locale.
 
-b) La compensation des pertes de recettes résultant de l'application du I est égale, pour chaque collectivité concernée, à la différence entre :
+b) La compensation des pertes de recettes résultant de l'application du premier alinéa du I est égale, pour chaque collectivité concernée, à la différence entre :
 
 - le montant des droits déterminés en appliquant à un pourcentage des bases taxées en 1994, multipliées par 1,5, les taux en vigueur au cours de la période du 1er juillet 1995 au 31 décembre 1996, d'une part,
 
@@ -25,3 +27,17 @@ c) Deux acomptes sont versés sur la compensation définie au b dans un délai c
 - l'acompte dû au titre de 1996 est égal à 17,5 p. 100 des droits effectivement constatés en 1994.
 
 Il est procédé, avant le 15 mars 1997, à la régularisation du montant de la compensation lorsque l'application des dispositions du b entraîne un produit différent du montant global des acomptes définis ci-dessus.
+
+Lorsque l'application des dispositions du b entraîne un produit différent du montant global des acomptes définis ci-dessus, il est procédé à une régularisation. Celle-ci est effectuée à hauteur du tiers de son montant avant le 15 mars 1997 et pour le reliquat en 1998.
+
+IV. - a) Les pertes de recettes résultant pour les départements et les régions de l'application du second alinéa du I sont compensées, selon les modalités définies aux b et c, par une majoration à due concurrence du prélèvement sur les recettes de l'Etat au titre de la compensation d'exonérations relatives à la fiscalité locale.
+
+b) La compensation des pertes de recettes résultant de l'application du second alinéa du I est égale, pour chaque collectivité concernée, à la différence entre :
+
+- le montant des droits déterminés en appliquant à un pourcentage des bases taxées au cours de la période du 1er janvier 1994 au 1er février 1994 les taux en vigueur en janvier 1997, d'une part ;
+
+- et le montant des droits effectivement constatés au cours de la période du 1er janvier 1997 au 1er février 1997, d'autre part.
+
+Le pourcentage mentionné ci-dessus est celui défini aux trois derniers alinéas du b du III.
+
+c) Les sommes dues par l'Etat sont versées avant le 15 mars de l'année suivant celle où est déterminé le montant de la compensation définie au b.

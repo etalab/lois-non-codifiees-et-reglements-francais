@@ -1,12 +1,16 @@
 # Article 45
 
-I. - Les demandeurs ou les titulaires d'autorisations relatives à des réseaux de télécommunications visés aux articles L. 33-1 et L. 33-2 du code des postes et télécommunications sont assujettis au paiement d'une taxe de constitution de dossier, forfaitaire et non remboursable, dans les conditions suivantes :
+I. Les demandeurs ou les titulaires d'autorisations relatives à des réseaux et services de télécommunications visés aux articles L. 33-1, L. 33-2 et L. 34-1 du code des postes et télécommunications et délivrées à compter du 29 juillet 1996 sont assujettis au paiement d'une taxe de constitution de dossier, forfaitaire et non remboursable, dans les conditions suivantes :
 
-A. - Réseaux radioélectriques ouverts au public, visés à l'article L. 33-1 du code des postes et télécommunications.
+A. - Réseaux ouverts au public, visés à l'article L. 33-1 du code des postes et télécommunications.
 
-1° La taxe est fixée à 40 000 F pour les réseaux à couverture nationale et à 25 000 F pour les autres réseaux.
+1° La taxe est fixée à 500 000 F pour les réseaux à couverture nationale, 100 000 F pour les réseaux couvrant tout ou partie d'une unité urbaine d'au plus 200 000 habitants, 200 000 F pour les autres réseaux.
+
+Lorsque les autorisations sont délivrées à l'issue d'une procédure d'appel à candidatures décidée en application du V de l'article L. 33-1 du code des postes et télécommunications, ces montants sont respectivemement fixés à 1 000 000 F, 200 000 F et 400 000 F.
 
 2° Elle est due lors de la délivrance de l'autorisation.
+
+3° Pour les autorisations délivrées avant le 15 janvier 1997, la taxe est due au 15 janvier 1997.
 
 B. - Réseaux radioélectriques indépendants à usage privé, visés à l'article L. 33-2 du code des postes et télécommunications.
 
@@ -44,11 +48,19 @@ E. - Réseaux indépendants filaires, visés à l'article L. 33-2 du code des po
 
 La taxe est fixée selon le barème suivant :
 
-(tableau non reproduit, voir JO du 31/12/1991 page 17285).
+(tableau non reproduit).
 
 Elle est due lors de la délivrance de l'autorisation.
 
-II. - Les frais exceptionnels occasionnés par le brouillage d'une fréquence radioélectrique régulièrement utilisée ou par la non-conformité des installations visées au I du présent article donnent lieu au paiement d'une taxe forfaitaire d'un montant de 1 000 F par intervention ; cette taxe est due par la personne responsable.
+F. - Fourniture du service téléphonique au public, visée à l'article L. 34-1 du code des postes et télécommunications.
+
+1° La taxe est fixée à 200 000 F.
+
+2° Elle est due lors de la délivrance de l'autorisation.
+
+3° Pour les autorisations délivrées avant le 15 janvier 1997, la taxe est due au 15 janvier 1997.
+
+II. - Les frais exceptionnels occasionnés par le brouillage d'une fréquence radioélectrique régulièrement utilisée ou par la non-conformité des installations visées au I du présent article donnent lieu au paiement d'une taxe forfaitaire d'un montant de 1 500 F par intervention ; cette taxe est due par la personne responsable.
 
 III. - Les livraisons en France de postes émetteurs-récepteurs fonctionnant sur les canaux banalisés, dits postes C.B., sont soumises au paiement d'une taxe forfaitaire de 250 F.
 
@@ -81,3 +93,21 @@ V. - L'agrément des équipements terminaux, des installations radioélectriques
 2° La demande d'admission des installateurs en télécommunications et en radiocommunications, prévue à l'article L. 34-9 du code des postes et télécommunications, donne lieu à la perception d'une taxe de constitution de dossier d'un montant de 1 000 F par dossier déposé.
 
 VI. Sauf en ce qui concerne la taxe forfaitaire prévue au premier alinéa du III, le recouvrement et le contentieux des taxes visées au présent article sont suivis par les comptables du Trésor selon les modalités fixées aux articles 80 à 95 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique dans leur rédaction en vigueur à la date de promulgation de la présente loi.
+
+VII. - Les titulaires d'autorisations relatives à des réseaux et services de télécommunications visés aux articles L. 33-1 et L. 34-1 du code des postes et télécommunications, et délivrées à compter du 29 juillet 1996, sont assujettis au paiement d'une taxe de gestion et de contrôle de l'autorisation, dans les conditions suivantes :
+
+A. - Réseaux ouverts au public, visés à l'article L. 33-1 du code des postes et télécommunications.
+
+1° Le montant annuel est fixé à 1 000 000 F pour les réseaux à couverture nationale, 200 000 F pour les réseaux couvrant tout ou partie d'une unité urbaine d'au plus 200 000 habitants, 400 000 F pour les autres réseaux. Le montant correspondant à la première année d'autorisation est calculé prorata temporis à compter de la date de délivrance de l'autorisation.
+
+2° Pour un exploitant qui figure sur la liste prévue au 7° de l'article L. 36-7 du code des postes et télécommunications, le montant de la taxe est fixé à 2 000 000 F pour un réseau à couverture nationale, 400 000 F pour un réseau couvrant tout ou partie d'une unité urbaine d'au plus 200 000 habitants, 800 000 F pour un autre réseau.
+
+3° La taxe est due, pendant toute la durée de l'autorisation, au 1er décembre de chaque année.
+
+B. - Fourniture du service téléphonique au public, visée à l'article L. 34-1 du code des postes et télécommunications.
+
+1° Le montant annuel est fixé à 400 000 F. Le montant correspondant à la première année d'autorisation est calculé prorata temporis à compter de la date de délivrance de l'autorisation.
+
+2° La taxe est due, pendant toute la durée de l'autorisation, au 1er décembre de chaque année.
+
+C. - Un exploitant redevable des taxes prévues au A et au B du présent VII n'acquitte que celle dont le montant est le plus élevé.
