@@ -5,6 +5,4 @@
 - [Budget de l'établissement](budget-de-l-etablissement)
 - [Dispositions générales.](dispositions-generales)
 - [Le contrôle économique et financier.](le-controle-economique-et)
-- [La comptabilité](la-comptabilite)
-- [Le compte financier annuel.](le-compte-financier-annuel)
 - [Organisation financière](organisation-financiere)

@@ -27,7 +27,3 @@ a) Les dépenses effectuées sous forme d'avances, de prêts, de garanties, de s
 b) Les dépenses éventuelles résultant de l'application des conventions prévues à l'article 11 ;
 
 c) Les dépenses de fonctionnement et d'équipement de l'office.
-
-Le directeur de l'office établit chaque année, pour l'année suivante, une prévision des dépenses et des recettes de l'office au titre des opérations à effectuer par application de la politique agricole commune. Cet état est soumis au conseil de direction, qui en délibère.
-
-Les dépenses et les recettes afférentes aux opérations réalisées par application de la politique agricole commune sont exécutées au titre des opérations de trésorerie de l'office et retracées dans un compte distinct.

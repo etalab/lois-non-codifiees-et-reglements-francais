@@ -4,8 +4,6 @@ Le conseil central peut déléguer au comité permanent toutes attributions qui 
 
 La fixation du prix à la production et du prix de rétrocession des céréales métropolitaines énumérées à l'article 1er ;
 
-Le taux des taxes et cotisations à la charge des producteurs ;
-
-L'établissement du programme général d'équilibre des ressources et des besoins.
+Le taux des taxes et cotisations à la charge des producteurs.
 
 Les attributions ainsi réservées au conseil central ne peuvent faire l'objet de la procédure d'approbation par le commissaire du Gouvernement et le contrôleur d'Etat, prévue à l'article précédent.
