@@ -245,7 +245,6 @@
 - [Décret n°82-452 du 28 mai 1982](decret-n82-452-du-28-mai-1982)
 - [Décret n°82-453 du 28 mai 1982](decret-n82-453-du-28-mai-1982)
 - [Décret n°82-454 du 28 mai 1982](decret-n82-454-du-28-mai-1982)
-- [Décret n°82-458 du 28 mai 1982](decret-n82-458-du-28-mai-1982)
 - [Décret n°82-462 du 28 mai 1982](decret-n82-462-du-28-mai-1982)
 - [Décret du 29 octobre 1982](decret-du-29-octobre-1982)
 - [Décret n°82-111 du 29 janvier 1982](decret-n82-111-du-29-janvier-1982)
