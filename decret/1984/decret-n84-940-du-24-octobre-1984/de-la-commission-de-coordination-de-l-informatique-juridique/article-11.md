@@ -32,9 +32,7 @@ Cinq membres de droit :
 
 - le directeur de la délégation à l'information, à la communication et à la culture scientifique et technique ;
 
-Un représentant désigné par l'organisme de diffusion défini à l'article 2 ;
-
-Un représentant désigné par l'organisme de distribution défini à l'article 3 ;
+Un représentant du concessionnaire mentionné à l'article 2.
 
 Deux représentants des administrations, juridictions, établissements publics associés à la production des bases et banques de données juridiques, désignés par arrêté du Premier ministre ;
 

@@ -6,8 +6,6 @@ Six représentants, désignés par arrêté du Premier ministre des administrati
 
 Six représentants, désignés par arrêté du Premier ministre, des utilisateurs publics et privés desdites bases et banques de données ;
 
-Un membre désigné par l'organisme de diffusion défini à l'article 2 ;
-
-Un membre désigné par l'organisme de distribution défini à l'article 3 ;
+Un représentant du concessionnaire mentionné à l'article 2.
 
 Deux personnalités qualifiées désignées par arrêté du Premier ministre.
