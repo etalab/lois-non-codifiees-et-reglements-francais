@@ -26,7 +26,7 @@ Le programme des opérations comprendra :
 
 2° L'amélioration et, au besoin, la création de ports fluviaux correspondants avec, quand il y aura lieu, leurs raccordements aux voies ferrées d'intérêt général et local ;
 
-3° La délimitation des périmètres irrigables, la fixation des quantités d'eau et d'énergie nécessaires pour les desservir, la détermination des points de prise et la construction des canaux primaires d'amenée des eaux et des stations de pompage ;
+3° La délimitation des périmètres irrigables, la fixation des quantités d'eau et d'énergie nécessaires pour les desservir, la détermination des points de prise et la construction des canaux primaires d'amenée des eaux et des stations de pompage d'irrigation, la détermination des périmètres à assainir, la fixation des quantités d'énergie nécessaires pour ce service, la construction des canaux principaux d'évacuation des eaux et des stations de pompage d'assainissement ;
 
 4° L'évaluation des réserves d'énergie à prévoir pour les utilisations autres que les irrigations ;
 

@@ -1,6 +1,12 @@
 # Article 1
 
-L'aménagement du Rhône entre la frontière suisse et la mer sera réalisé au triple point de vue de l'utilisation de la puissance hydraulique, de la navigation, de l'irrigation et des autres emplois agricoles.
+L'aménagement du Rhône entre la frontière suisse et la mer sera réalisé au triple point de vue :
+
+1° De l'utilisation de la puissance hydraulique ;
+
+2° De la navigation ;
+
+3° De l'irrigation, de l'assainissement et des autres emplois agricoles.
 
 En vue de cet aménagement, le fleuve est divisé en six sections comprises :
 

@@ -2,6 +2,10 @@
 
 Les dépenses totales pour la réalisation des travaux définis à l'article 2 ci-dessus seront couvertes au moyen d'actions et d'obligations, le montant du capital-obligations autorisé ne pouvant à aucun moment dépasser les neuf dixièmes des capitaux versés.
 
+Toutefois, pendant une période de deux ans, à compter de la date de publication de la présente ordonnance, il pourra être dérogé à la disposition ci-dessus par arrêtés conjoints des ministres des finances, de l'économie nationale, de la production industrielle, de l'agriculture et des travaux publics et des transports
+
+La société concessionnaire, dans un délai de deux ans à partir de la date de ces arrêtés, devra prendre toutes mesures pour se conformer aux dispositions du premier alinéa du présent article.
+
 Le capital-actions entièrement souscrit sera couvert par les collectivités ou établissements publics intéressés, les industries ou les particuliers. Le capital-obligations sera constitué par des obligations qui devront être amorties en cinquante années au maximum à partir du 1er janvier qui suivra la fin des travaux que le service d'obligations considérées aura payés.
 
 L'Etat garantit l'intérêt et l'amortissement du capital obligations dans les conditions suivantes :
@@ -24,6 +28,10 @@ L'énergie destinée aux mêmes usages et aux autres usages agricoles sera payé
 
 Le ministre de l'agriculture, dans la limite des crédits qui lui sont ouverts chaque année par la loi de finances, pourra accorder aux associations agricoles des subventions en vue de faciliter la réalisation des entreprises envisagées lorsque le prix de l'énergie sera trop élevé pour le permettre.
 
-Les statuts fixeront la composition du conseil d'administration de la société unique ou des sociétés qui auront été substituées aux concessionnaires après autorisation et, en particulier, le mode de représentation de l'Etat, celui des collectivités ou des établissements publics intéressés, les modalités du concours financier de ces derniers, les dispositions prises pour la liquidation de la dette de garantie s'il en reste en fin de concession.
+Les statuts fixeront la composition du conseil d'administration de la société concessionnaire, sans qu'il soit tenu compte des dispositions de la loi provisoirement applicable du 16 novembre 1940 sur les sociétés anonymes ; ils détermineront notamment, le mode de représentation de l'Etat, des collectivités ou des établissements publics et du personnel de la société ; les modalités du concours financier des collectivités ou établissements publics ; les dispositions prises pour la liquidation de la dette de garantie, s'il en reste en fin de concession.
 
-Les représentants de l'Etat, des départements et des communes devront comprendre ensemble au moins les deux tiers des membres du conseil d'administration et ceux de l'Etat seul les deux cinquièmes. Le président du conseil d'administration sera désigné par l'Etat parmi ses représentants.
+Les représentants de l'Etat, des départements et des communes devront comprendre au moins les deux tires, et ceux de l'Etat seul, les deux cinquièmes des membres du conseil d'administration, abstraction faite des représentants du personnel.
+
+Le Président du Conseil d'administration sera désigné par l'Etat parmi ses représentants.
+
+Par dérogation à la loi du 24 juillet 1867, les représentants du personnel de la société au conseil d'administration seront dispensés de posséder et dépose, en garantie de leur gestion des actions de la société.
