@@ -2,7 +2,7 @@
 
 L'enregistrement d'un pari entraîne la remise au parieur, après versement de son enjeu, d'un récépissé permettant de déterminer tous les éléments du pari engagé, constituant justificatif et dont l'acceptation implique la conformité au pari demandé.
 
-Les enjeux sont réglés en espèces et au comptant ou par débit d'un compte.
+Les enjeux sont réglés en espèces et au comptant ou par débit d'un compte. Dans les postes d'enregistrement connectés au système informatique central du pari mutuel urbain fonctionnant en temps réel et aux guichets des hippodromes connectés à ce système, offrant ce service, les enjeux peuvent également être réglés par "chèque PMU" ou "chèque pari mutuel".
 
 Les enjeux peuvent également être réglés par carte bancaire dans les postes d'enregistrement visés aux articles 97 et 98 du présent arrêté et habilités par le Pari mutuel urbain à accepter ce mode de règlement.
 
