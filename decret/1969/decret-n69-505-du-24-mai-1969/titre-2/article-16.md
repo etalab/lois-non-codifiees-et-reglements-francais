@@ -1,6 +1,6 @@
 # Article 16
 
-Le médecin conseil national et le médecin conseil national adjoint sont nommés par arrêté du ministre d'Etat chargé des affaires sociales pris après consultation du haut comité médical de la sécurité sociale.
+Le médecin conseil national et les deux médecins conseils nationaux adjoints sont nommés par arrêté du ministre d'Etat chargé des affaires sociales pris après consultation du haut comité médical de la sécurité sociale.
 
 L'accession de médecins n'appartenant pas au corps des praticiens conseils du service national du contrôle médical du régime général de sécurité sociale à ces emplois n'entraîne pas leur titularisation dans le corps.
 
