@@ -1,11 +1,9 @@
 # Article 1
 
-Les chefs d'établissements soumis aux prescriptions du décret du 14 novembre 1962 [*nouvellement décret 88-1056 du 14 novembre 1988*], dont les installations électriques comportent des appareils où il est fait usage de plus de vingt-cinq litres de diélectrique combustible par cuve, bac, réservoir ou par groupe de tels récipients communicants, sont autorisés à déroger [*condition préalable*] aux dispositions du paragraphe 3 de l'article 42 sous réserve :
+Les agents des cadres administratifs des communes membres d'une communauté urbaine chargés, en application des dispositions de l'article 1er du décret susvisé, de préparer la mise en place des services de la communauté peuvent à ce titre percevoir une indemnité forfaitaire spéciale dont le montant individuel ne pourra, pour la totalité de la période considérée, excéder la moitié du taux annuel maximum de l'indemnité forfaitaire pour travaux supplémentaires prévue pour leur grade par l'arrêté du 14 juin 1968.
 
-1° Qu'aucune matière ou objet inflammable ne soit entreposé à proximité des appareils considérés ;
+Les agents des cadres techniques des communes pourront, pour le même objet, percevoir une indemnité forfaitaire dont le taux  maximum ne pourra excéder les sommes ci-après :
 
-2° Que des récipients remplis de sable propre et sec soient disposés à proximité desdits appareils.
+Directeur général ou directeur des services techniques et ingénieur en chef ou ingénieur principal : 1.500 F ;
 
-3° Qu'un certain nombre d'autres mesures compensatrices particulières selon les types de locaux (ou d'emplacements) où se trouve installé le ou les appareils considérés et selon les catégories d'appareils en cause soient mises en oeuvre dans les conditions fixées à l'annexe A pour les installations existantes et à l'annexe B pour les installations nouvelles.
-
-Ces diverses mesures compensatrices sont définies à l'annexe C.
+Ingénieur subdivisionnaire : 1.100 F.

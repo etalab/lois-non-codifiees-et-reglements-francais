@@ -1,3 +1,3 @@
 # Article 2
 
-Cette dérogation est accordée pour une durée de cinq ans.
+Le directeur général des collectivités locales est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
