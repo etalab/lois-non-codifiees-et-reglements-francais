@@ -1,0 +1,7 @@
+# Article 3
+
+I. - Sauf dans le cas des sociétés de gestion de portefeuille, l'autorité chargée de l'approbation du programme d'activité notifie sa décision au requérant et à l'autorité d'agrément, par lettre recommandée avec demande d'avis de réception ou remise contre récépissé, dans un délai de trois mois au plus après sa saisine. L'autorité d'agrément notifie sa décision au requérant selon les mêmes modalités et en informe simultanément l'autorité ayant approuvé le programme d'activité dans un délai de trois mois au plus après réception, par elle, de la décision prise par la ou les autorités chargées de l'approbation du programme d'activité.
+
+Dans le cas des sociétés de gestion de portefeuille, la Commission des opérations de bourse notifie sa décision au requérant par lettre recommandée avec demande d'avis de réception ou remise contre récépissé dans un délai de trois mois au plus après sa saisine.
+
+II. - Dans le cas où des éléments complémentaires d'information ont été demandés au requérant, en application du troisième alinéa du I de l'article 2 du présent décret, ou aux autorités compétentes d'un autre Etat partie à l'accord sur l'Espace économique européen, en application du premier alinéa du II du même article, le délai d'agrément ou d'approbation prévu par les articles 12 à 15 de la loi du 2 juillet 1996 susvisée est suspendu jusqu'à réception de ces éléments complémentaires.
