@@ -1,0 +1,3 @@
+# Article 1
+
+Pour les aérodromes mentionnés au I de l'article 1609 quatervicies A du code général des impôts, les prescriptions applicables aux dispositifs de mesure de bruit et de suivi des trajectoires des aéronefs, définies par l'Autorité de contrôle des nuisances sonores aéroportuaires, sont homologuées et annexées au présent arrêté (annexes non reproduites, voir JO du 6 août 2004). La conformité de ces dispositifs à ces prescriptions est attestée par un expert. Cet expert est désigné par l'exploitant de l'aérodrome concerné sur avis conforme de l'Autorité de contrôle des nuisances sonores aéroportuaires.

@@ -1,0 +1,3 @@
+# Article 2
+
+Après consultation de la commission consultative de l'environnement concernée, l'exploitant de chacun des aérodromes mentionnés à l'article 1er du présent arrêté soumet à l'Autorité de contrôle des nuisances sonores aéroportuaires, dans un délai de six mois à compter de la date de publication du présent arrêté, la configuration de son dispositif de mesure de bruit et de suivi des trajectoires, notamment le nombre et l'emplacement des stations de mesure de bruit, ainsi que les procédures relatives à l'exploitation de ce dispositif. Ces procédures peuvent s'appuyer sur un protocole signé entre les services de l'aviation civile et l'exploitant de l'aérodrome concerné.
