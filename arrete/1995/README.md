@@ -1341,7 +1341,6 @@
 - [Arrêté du 28 novembre 1995 (MCCE9500690A)](arrete-du-28-novembre-1995-mcce9500690a)
 - [Arrêté du 28 septembre 1995 (MCCH9500544A)](arrete-du-28-septembre-1995-mcch9500544a)
 - [Arrêté du 28 septembre 1995 (REFB9500530A)](arrete-du-28-septembre-1995-refb9500530a)
-- [Arrêté du 28 septembre 1995 (SANS9502946A)](arrete-du-28-septembre-1995-sans9502946a)
 - [Arrêté du 29 août 1995 (DEFP9501950A)](arrete-du-29-aout-1995-defp9501950a)
 - [Arrêté du 29 août 1995 (MENA9501756A)](arrete-du-29-aout-1995-mena9501756a)
 - [Arrêté du 29 décembre 1994 (AGRG9500002A)](arrete-du-29-decembre-1994-agrg9500002a)
