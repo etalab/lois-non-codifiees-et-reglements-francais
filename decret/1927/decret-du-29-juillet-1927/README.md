@@ -5,6 +5,7 @@
 - [Chapitre III : Concessions simples conformes à un cahier des charges type](chapitre-iii)
 - [Chapitre IV : Dérogations aux cahiers des charges-type des concessions.](chapitre-iv)
 - [Chapitre V : Concessions avec déclaration d'utilité publique](chapitre-v)
+- [Chapitre VI : Approbation des projets d'exécution](chapitre-vi)
 - [Chapitre VII : Servitudes](chapitre-vii)
 - [Chapitre VIII : Exécution et réception des travaux, mise en service](chapitre-viii)
 - [Chapitre IX : Police et sécurité de l'exploitation](chapitre-ix)
