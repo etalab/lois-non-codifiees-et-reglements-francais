@@ -9,6 +9,7 @@
 - [6° Brucelloses professionnelles](6-brucelloses-professionnelles)
 - [7° Tularémie professionnelle](7-tularemie-professionnelle)
 - [8° Sulfocarbonisme professionnel](8-sulfocarbonisme-professionnel)
+- [25° Dermatoses professionnelles consécutives à l'emploi de lubrifiants et de fluides de refroidissement](25-dermatoses-professionnelles-consecutives-a)
 - [16° Affections professionnelles dues aux bacilles tuberculeux](16-affections-professionnelles-dues-aux)
 - [15° Mycoses cutanées, périonyxis et onyxis d'origine professionnelle](15-mycoses-cutanees-perionyxis-et)
 - [14° Affections causées par les ciments](14-affections-causees-par)
