@@ -1,0 +1,5 @@
+# Article 46
+
+Les autocars ne comportant pas de places debout peuvent comporter un siège basculant ou pliant, dit "siège de convoyeur", offrant une place assise dans le passage d'accès à la porte de service située à l'avant et à droite du véhicule. Ce siège, réservé à un membre d'équipage, doit être maintenu de façon automatique tant en position d'utilisation qu'en position escamotée ; dans le cas où la conception d'un tel siège est susceptible de favoriser l'éjection vers l'avant, le maintien doit être assuré à l'aide d'un verrouillage. Lorsque ce siège est verrouillé en position d'utilisation, toute personne, y compris le conducteur, désirant utiliser la porte de service, que ce soit pour entrer dans le véhicule ou pour sortir, doit pouvoir provoquer le déverrouillage et le retour automatique en position escamotée (siège non chargé) par action sur une commande clairement identifiée, facilement accessible de couleur rouge.
+
+Par dérogation aux dispositions de l'article 26 du présent arrêté, les conditions réglementaires d'accès à la porte de service avant droite peuvent n'être vérifiées que lorsque le siège du convoyeur est en position escamotée.

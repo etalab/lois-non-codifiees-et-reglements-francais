@@ -1,0 +1,3 @@
+# Article 41
+
+Les véhicules de transport en commun de personnes à étage doivent répondre, pris dans leur ensemble, aux dispositions des articles du présent arrêté relatifs à la protection contre l'incendie et les risques divers, aux règles particulières d'équipement, aux règles d'aménagement intérieur et des issues, ainsi qu'à la capacité de transport ; le compartiment inférieur, supposé limité à son plafond, doit également répondre à l'ensemble des dispositions du présent arrêté applicables à un véhicule isolé. Toutefois, dans le cas des véhicules pouvant transporter des passagers debout, la hauteur de son allée pourra ne pas excéder 180 cm.
