@@ -24,6 +24,7 @@
 - [Ordonnance du 13 décembre 1944](ordonnance-du-13-decembre-1944)
 - [Ordonnance n° 45-1546 du 13 juillet 1945](ordonnance-n-45-1546-du-13-juillet-1945)
 - [Ordonnance n° 45-2339 du 13 octobre 1945](ordonnance-n-45-2339-du-13-octobre-1945)
+- [Ordonnance n°45-68 du 16 janvier 1945](ordonnance-n45-68-du-16-janvier-1945)
 - [Ordonnance n° 45-993 du 17 mai 1945](ordonnance-n-45-993-du-17-mai-1945)
 - [Ordonnance n° 45-2405 du 18 octobre 1945](ordonnance-n-45-2405-du-18-octobre-1945)
 - [Ordonnance n° 45-2410 du 18 octobre 1945](ordonnance-n-45-2410-du-18-octobre-1945)
