@@ -108,7 +108,6 @@
 - [Arrêté du 4 août 2003 (ECOP0300120A)](arrete-du-4-aout-2003-ecop0300120a)
 - [Arrêté du 4 août 2003 (ECOP0300148A)](arrete-du-4-aout-2003-ecop0300148a)
 - [Arrêté du 4 août 2003 (ECOP0300286A)](arrete-du-4-aout-2003-ecop0300286a)
-- [Arrêté du 4 août 2003 (ECOP0300619A)](arrete-du-4-aout-2003-ecop0300619a)
 - [Arrêté du 4 août 2003 (ECOP0300620A)](arrete-du-4-aout-2003-ecop0300620a)
 - [Arrêté du 4 août 2003 (ECOT0391189A)](arrete-du-4-aout-2003-ecot0391189a)
 - [Arrêté du 4 août 2003 (EQUK0301189A)](arrete-du-4-aout-2003-equk0301189a)
