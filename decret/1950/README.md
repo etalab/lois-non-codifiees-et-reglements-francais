@@ -32,6 +32,7 @@
 - [Décret n°50-738 du 24 juin 1950](decret-n50-738-du-24-juin-1950)
 - [Décret n°50-1348 du 27 octobre 1950](decret-n50-1348-du-27-octobre-1950)
 - [Décret n°50-381 du 27 mars 1950](decret-n50-381-du-27-mars-1950)
+- [Décret n°50-1475 du 28 novembre 1950](decret-n50-1475-du-28-novembre-1950)
 - [Décret n°50-259 du 28 février 1950](decret-n50-259-du-28-fevrier-1950)
 - [Décret n°50-813 du 29 juin 1950](decret-n50-813-du-29-juin-1950)
 - [Décret n°50-815 du 29 juin 1950](decret-n50-815-du-29-juin-1950)
