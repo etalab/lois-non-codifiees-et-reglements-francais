@@ -3,6 +3,7 @@
 - [Décret n°86-1078 du 1 octobre 1986](decret-n86-1078-du-1-octobre-1986)
 - [Décret n°86-1220 du 1 décembre 1986](decret-n86-1220-du-1-decembre-1986)
 - [Décret n°86-1224 du 1 décembre 1986](decret-n86-1224-du-1-decembre-1986)
+- [Décret n°86-1226 du 1 décembre 1986](decret-n86-1226-du-1-decembre-1986)
 - [Décret n°86-1008 du 2 septembre 1986](decret-n86-1008-du-2-septembre-1986)
 - [Décret n°86-1009 du 2 septembre 1986](decret-n86-1009-du-2-septembre-1986)
 - [Décret n°86-729 du 2 mai 1986](decret-n86-729-du-2-mai-1986)
