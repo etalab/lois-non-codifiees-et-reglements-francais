@@ -5,4 +5,5 @@
 - [Loi n°64-696 du 10 juillet 1964](loi-n64-696-du-10-juillet-1964)
 - [Loi n°64-697 du 10 juillet 1964](loi-n64-697-du-10-juillet-1964)
 - [Loi n°64-701 du 10 juillet 1964](loi-n64-701-du-10-juillet-1964)
+- [Loi n°64-706 du 10 juillet 1964](loi-n64-706-du-10-juillet-1964)
 - [Loi n°66-537 du 24 juillet 1966](loi-n66-537-du-24-juillet-1966)
