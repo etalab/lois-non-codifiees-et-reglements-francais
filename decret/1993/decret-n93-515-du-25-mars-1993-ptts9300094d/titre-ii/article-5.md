@@ -12,13 +12,13 @@ a) Pour l'accès au grade de cadre de premier niveau de La Poste :
 
 - aux fonctionnaires de La Poste titulaires des grades suivants :
 
-surveillant en chef, contrôleur divisionnaire, chef technicien, chef dessinateur, chef de travaux du service automobile, conducteur-chef du transbordement de 1re classe ;
+surveillant en chef, contrôleur divisionnaire, chef technicien, chef dessinateur, chef de travaux du service automobile, conducteur-chef du transbordement de 1re classe, chef d'établissement de 3e classe, vérificateur principal de la distribution et de l'acheminement, sous-prote ;
 
 b) Pour l'accès au grade de cadre de premier niveau de France Télécom :
 
 - aux cadres d'exploitation et aux agents de maîtrise de France Télécom,
 
-- aux fonctionnaires de France Télécom titulaires des grades suivants : surveillant en chef, contrôleur divisionnaire, chef technicien, chef dessinateur, chef de travaux du service automobile, chef de district, chef de secteur.
+- aux fonctionnaires de France Télécom titulaires des grades suivants : surveillant en chef, contrôleur divisionnaire, chef technicien, chef dessinateur, chef de travaux du service automobile, chef de district, chef de secteur, chef d'établissement de 3e classe.
 
 Les candidats mentionnés aux a et b ci-dessus doivent justifier de trois années de services civils effectifs dans l'un ou l'autre de ces grades.
 
