@@ -1,6 +1,6 @@
 # Article 7
 
-Pour remplir sa mission auprès des pilotes, il incombe à un organisme AFIS, en fonction des règles fixées par le directeur régional de l'aviation civile ou son représentant :
+Pour remplir sa mission auprès des pilotes, il incombe à un organisme AFIS, en fonction des règles fixées par le directeur ou chef des services d'Etat de l'aviation civile ou son représentant :
 
 - de choisir la ou les pistes en service, notamment en fonction du vent, orienter le té en conséquence lorsqu'il existe et afficher l'information correspondante sur le système de panneaux mis en place à cet effet ;
 
