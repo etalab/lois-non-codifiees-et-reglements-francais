@@ -6,8 +6,12 @@ Ces prescriptions tiennent compte notamment, d'une part, de l'efficacité des te
 
 Pour les installations soumises à des règles techniques fixées par un arrêté ministériel pris en application de l'article 7 de la loi du 19 juillet 1976, l'arrêté d'autorisation peut créer des modalités d'application particulières de ces règles.
 
+L'arrêté d'autorisation fixe, s'il y a lieu, les prescriptions de nature à réduire ou à prévenir les pollutions à longue distance ainsi que les pollutions transfrontières.
+
+Sans préjudice des articles 38 et 39 du présent décret, l'arrêté d'autorisation fixe les conditions d'exploitation de l'installation en période de démarrage, de dysfonctionnement ou d'arrêt momentané.
+
 L'arrêté d'autorisation fixe les moyens d'analyses et de mesures nécessaires au contrôle de l'installation et à la surveillance de ses effets sur l'environnement, ainsi que les conditions dans lesquelles les résultats  de ces analyses et mesures sont portés à la connaissance de l'inspection des installations classées et du service chargé de la police des eaux.
 
-L'arrêté peut prévoir, après consultation des services départementaux d'incendie et de secours, l'obligation d'établir un plan d'opération interne en cas de sinistre. Le plan d'opération interne définit les mesures d'organisation, les méthodes d'intervention et les moyens nécessaires que l'exploitant doit mettre en oeuvre pour protéger le personnel, les populations et l'environnement.
+L'arrêté peut prévoir, après consultation des services départementaux d'incendie et de secours, l'obligation d'établir un plan d'opération interne en cas de sinistre. Le plan d'opération interne définit les mesures d'organisation, les méthodes d'intervention et les moyens nécessaires que l'exploitant doit mettre en oeuvre pour protéger le personnel, les populations et l'environnement. Dans le cas des installations figurant sur la liste prévue à l'article 7-1 de la loi du 19 juillet 1976 susvisée, le plan d'opération interne est obligatoire et est établi avant la mise en service ; il est mis à jour et testé à des intervalles n'excédant pas trois ans.
 
 L'arrêté fixe également les mesures d'urgence qui incombent à l'exploitant sous le contrôle de l'autorité de police et les obligations de celui-ci en matière d'information et d'alerte des personnes susceptibles d'être affectées par un accident, quant aux dangers encourus, aux mesures de sécurité et au comportement à adopter.
