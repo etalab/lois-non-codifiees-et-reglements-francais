@@ -1,5 +1,7 @@
 # Article 1
 
-Les produits mentionnés à l'article 1er de la loi du 2 novembre 1943 susvisée doivent être mis sur le marché et conservés dans leur contenant ou emballage d'origine.
+Les fonctions de maître et de maîtresse d'internat de lycée, de collège ou de cours secondaires sont des fonctions essentiellement temporaires dont la durée est rigoureusement limitée, conformément aux dispositions de l'article 2.
 
-Ces contenants et emballages doivent être conformes aux dispositions de l'article 4 du décret du 29 décembre 1988 susvisé ou de l'article R. 5156 du code de la santé publique.
+Les maîtres et maîtresses d'internat sont tous tenus de poursuivre des études orientées vers l'acquisition d'une profession.
+
+A égalité de titres une priorité sera accordée aux candidats aux carrières de l'enseignement.
