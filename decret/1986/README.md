@@ -534,7 +534,6 @@
 - [Décret n°86-889 du 30 juillet 1986](decret-n86-889-du-30-juillet-1986)
 - [Décret n°86-896 du 30 juillet 1986](decret-n86-896-du-30-juillet-1986)
 - [Décret n°86-900 du 30 juillet 1986](decret-n86-900-du-30-juillet-1986)
-- [Décret n°86-901 du 30 juillet 1986](decret-n86-901-du-30-juillet-1986)
 - [Décret n°86-916 du 30 juillet 1986](decret-n86-916-du-30-juillet-1986)
 - [Décret n°86-925 du 30 juillet 1986](decret-n86-925-du-30-juillet-1986)
 - [Décret n°86-926 du 30 juillet 1986](decret-n86-926-du-30-juillet-1986)
