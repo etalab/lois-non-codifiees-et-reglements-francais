@@ -721,7 +721,6 @@
 - [Arrêté du 20 octobre 1997 (DEFB9702106A)](arrete-du-20-octobre-1997-defb9702106a)
 - [Arrêté du 20 mai 1997 (BUDF9700009A)](arrete-du-20-mai-1997-budf9700009a)
 - [Arrêté du 20 mai 1997 (EQUG9700796A)](arrete-du-20-mai-1997-equg9700796a)
-- [Arrêté du 20 mai 1997 (EQUK9700936A)](arrete-du-20-mai-1997-equk9700936a)
 - [Arrêté du 20 mai 1997 (FCEC9700091A)](arrete-du-20-mai-1997-fcec9700091a)
 - [Arrêté du 20 mai 1997 (MENN9701179A)](arrete-du-20-mai-1997-menn9701179a)
 - [Arrêté du 20 mai 1997 (MIPG9700094A)](arrete-du-20-mai-1997-mipg9700094a)
