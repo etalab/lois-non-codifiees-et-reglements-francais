@@ -527,6 +527,8 @@
 - [Décret n°2004-861 du 24 août 2004 (AGRX0400080D)](decret-n2004-861-du-24-aout-2004-agrx0400080d)
 - [Décret n°2004-862 du 24 août 2004 (AGRF0401661D)](decret-n2004-862-du-24-aout-2004-agrf0401661d)
 - [Décret n°2004-863 du 24 août 2004 (DOMB0400020D)](decret-n2004-863-du-24-aout-2004-domb0400020d)
+- [Décret n°2004-864 du 24 août 2004 (ECOP0400513D)](decret-n2004-864-du-24-aout-2004-ecop0400513d)
+- [Décret n°2004-865 du 24 août 2004 (ECOT0320039D)](decret-n2004-865-du-24-aout-2004-ecot0320039d)
 - [Décret n°84-139 du 24 février 1984](decret-n84-139-du-24-fevrier-1984)
 - [Décret n°2004-443 du 24 mai 2004 (DEFP0400286D)](decret-n2004-443-du-24-mai-2004-defp0400286d)
 - [Décret n°2004-444 du 24 mai 2004 (DEFP0400288D)](decret-n2004-444-du-24-mai-2004-defp0400288d)

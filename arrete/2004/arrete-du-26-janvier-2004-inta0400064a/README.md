@@ -8,6 +8,7 @@
 - [Section III : Direction de l'évaluation de la performance, et des affaires financières et immobilières.](section-iii)
 - [Article 4](article-4.md)
 - [Section IV : Direction des systèmes d'information et de communication.](section-iv)
+- [Article 4-1](article-4-1.md)
 - [Section V : Le centre d'études et de prospective.](section-v)
 - [Section VI : Le service de la communication.](section-vi)
 - [Article 30](article-30.md)
