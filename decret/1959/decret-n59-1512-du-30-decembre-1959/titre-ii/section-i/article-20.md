@@ -4,7 +4,7 @@ Lorsque les subventions sont utilisées au règlement des créances privilégié
 
 Les sommes recouvrées par l'Etat pourront être réglées dans la limite de 1 % du devis du film.
 
-Les salaires et rémunérations énumérés au paragraphe II, 2°, de l'article 63 du Code de l'industrie cinématographique pourront être réglés dans la limite, pour chaque titulaire d'une créance de cet ordre, de 0,50 % du devis du film. Cette limite ne peut toutefois être inférieure à 7500 F.
+Les salaires et rémunérations énumérés au paragraphe II, 2°, de l'article 63 du Code de l'industrie cinématographique pourront être réglés dans la limite, pour chaque titulaire d'une créance de cet ordre, de 0,50 % du devis du film. Cette limite ne peut toutefois être inférieure à 1140 euros.
 
 Les versements et cotisations visés au paragraphe II, 3°, pourront être réglés dans la limite calculée, pour l'ensemble desdits versements et cotisations, de 2 % du devis du film.
 
