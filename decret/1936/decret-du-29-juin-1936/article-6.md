@@ -6,7 +6,7 @@ La pesée des raisins est obligatoire sur le lieu de pressurage.
 
 Ce carnet doit être rempli au fur et à mesure des mises en oeuvre avec indication de la date et de l'heure du début de chaque opération. Il doit être tenu sur place à la disposition des agents du service de la direction générale de la concurrence, de la consommation et de la répression des fraudes et de ceux de la direction générale des douanes et droits indirects, qui peuvent effectuer librement toutes les opérations de contrôle.
 
-Les bourbes résultant du pressurage dont l'inscription sur le carnet de pressoir est obligatoire sont extraites dans une proportion comprise entre 2 et 4 p. 100 de la quantité de moût débourbé à laquelle s'applique l'appellation d'origine contrôlée "Champagne". Elles font l'objet d'un épandage ou d'un envoi en distillerie avant le 15 décembre de l'année suivant celle de la récolte.
+Les bourbes résultant du pressurage dont l'inscription sur le carnet de pressoir est obligatoire sont extraites dans une proportion comprise entre 2 et 4 p. 100 de la quantité de moût débourbé à laquelle s'applique l'appellation d'origine contrôlée "Champagne". Elles font l'objet d'un épandage ou d'un envoi en distillerie avant le 15 décembre de l'année de la récolte.
 
 Les moûts obtenus en fin de pressurage, au-delà du rendement maximum au pressurage autorisé, appelés "rebêches", sont séparés de la cuvée et de la taille. Les vins de rebêche ne peuvent en aucun cas prétendre à l'appellation d'origine contrôlée "Champagne".
 

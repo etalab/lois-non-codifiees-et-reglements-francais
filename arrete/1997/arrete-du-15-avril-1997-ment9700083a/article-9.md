@@ -1,0 +1,3 @@
+# Article 9
+
+L'arrêté du 9 février 1993 modifié fixant les modalités du classement des conservateurs stagiaires ayant satisfait aux obligations de scolarité de l'Ecole nationale supérieure des sciences de l'information et des bibliothèques et la composition du jury chargé de ce classement est maintenu en vigueur en ce qui concerne les conservateurs stagiaires recrutés en 1994 et 1995 par la voie des concours prévus à l'article 4 du décret n° 92-26 du 9 janvier 1992 susvisé. Il sera abrogé à la date de publication du dernier arrêté conférant le diplôme de conservateur des bibliothèques à des élèves des promotions 1994-1996 et 1995-1997, et au plus tard le 31 décembre 1999.
