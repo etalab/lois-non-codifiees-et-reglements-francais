@@ -1,8 +1,8 @@
 # Article 2
 
-Le comité de la caisse comprend :
+Le comité de la caisse comprend [*composition*] :
 
-1° Dans les communes autres que Paris.
+1° Pour les caisses des écoles autres que celles qui sont visées aux 2° et 3° ci-dessous.
 
 Le maire, président ;
 
@@ -16,26 +16,38 @@ Trois membres élus par les sociétaires réunis en assemblée générale ou par
 
 Le conseil municipal peut, par délibération motivée, porter le nombre de ses représentants à un chiffre plus élevé, sans toutefois excéder le tiers des membres de l'assemblée municipale. Dans ce cas, les sociétaires peuvent désigner autant de représentants supplémentaires que le conseil municipal en désigne en plus de l'effectif normal.
 
-2° A Paris.
+2° A Paris et dans les arrondissements ou groupes d'arrondissements de Lyon et Marseille où est instituée une caisse des écoles.
 
-Dans chaque arrondissement, un nombre égal :
+Dans chaque arrondissement ou groupe d'arrondissements ;
 
-a) De représentants du conseil de Paris ;
+a) Des représentants de la commune ;
 
-b) De membres élus par les sociétaires dans les conditions prévues à l'article 2 bis du décret modifié du 12 septembre 1960 susvisé ;
+b) Des membres élus par les sociétaires dans les conditions prévues à l'article 2 bis du présent décret ;
 
-c) De membres de droit et de personnalités désignées.
+c) Des membres de droit et des personnalités désignées.
 
-Les représentants du conseil de Paris sont :
+Le nombre des membres de chacune des trois catégories prévues ci-dessus est égal au tiers du nombre des membres du conseil d'arrondissement sans toutefois pouvoir excéder douze ; lorsque ce tiers n'est pas un nombre entier le nombre des membres est porté au nombre entier supérieur.
 
-Le maire de Paris ou son représentant, président ;
+Les représentants de la commune sont le maire d'arrondissement, président, et les membres du conseil d'arrondissement désignés par celui-ci.
 
-Les conseillers élus dans l'arrondissement ou le groupe d'arrondissements.
+Sont membres de droit les membres de l'Assemblée nationale élus dans les circonscriptions de l'arrondissement ou du groupe d'arrondissements et les inspecteurs et inspectrices départementaux de l'éducation nationale chargés de l'inspection des écoles de l'arrondissement ou du groupe d'arrondissements.
 
-Sont membres de droit :
+Les personnalités désignées sont choisies pour moitié par le maire d'arrondissement et pour moitié par le commissaire de la République du département ; toutefois, lorsque le nombre de personnalités à désigner est un nombre impair, le maire d'arrondissement prononce une désignation de plus que le commissaire de la République.
 
-Les membres de l'Assemblée nationale élus par les circonscriptions de l'arrondissement ;
+3° Pour les caisses des écoles des communes associées mentionnées à l'article 66-I de la loi du 31 décembre 1982 susvisée, et des autres communes associées où le conseil municipal a décidé de faire application des articles 66-II et 22 de cette loi.
 
-Les inspecteurs et inspectrices départementaux de l'éducation nationale de l'arrondissement.
+Dans chacune de ces communes associées :
 
-Les personnalités désignées sont choisies pour moitié par le préfet et par le maire de Paris ; toutefois lorsque le nombre de personnalités à désigner est un nombre impair le maire de Paris prononce une désignation de plus que le préfet.
+a) Des représentants de la commune ;
+
+b) Des membres élus par les sociétaires dans les conditions prévues à l'article 2 bis du présent décret ;
+
+c) Des membres de droit et des personnalités désignées.
+
+Le nombre des membres de chacune des trois catégories prévues ci-dessus est égal au tiers du nombre des membres du conseil consultatif ou de la commission consultative sans toutefois pouvoir excéder dix ; lorsque ce tiers n'est pas un nombre entier le nombre des membres est porté au nombre entier supérieur.
+
+Les représentants de la commune sont le maire délégué, président, et les membres du conseil consultatif ou de la commission consultative désignés par celui-ci.
+
+Sont membres de droit les inspecteurs et inspectrices départementaux de l'éducation nationale chargés de l'inspection des écoles de la commune associée.
+
+Les personnalités désignées sont choisies pour moitié par le maire délégué et pour moitié par le commissaire de la République du département ; toutefois, lorsque le nombre de personnalités à désigner est un nombre impair, le maire délégué prononce une désignation de plus que le commissaire de la République.
