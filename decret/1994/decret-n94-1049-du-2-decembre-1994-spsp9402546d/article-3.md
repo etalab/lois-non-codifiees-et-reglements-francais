@@ -1,6 +1,6 @@
 # Article 3
 
-Sous réserve des dispositions de l'ar- ticle L.  761-14-1 du code de la santé publique, le contrôle de qualité des analyses de biologie médicale est exécuté au plan technique par l'Agence du médicament.
+Sous réserve des dispositions de l'ar- ticle L.  761-14-1 du code de la santé publique, le contrôle de qualité des analyses de biologie médicale est exécuté au plan technique par l'Agence française de sécurité sanitaire des produits de santé.
 
 Celle-ci est chargée notamment :
 

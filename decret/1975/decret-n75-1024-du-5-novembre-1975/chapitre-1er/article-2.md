@@ -6,7 +6,7 @@ a) Le directeur général de la santé ou son représentant ;
 
 - le directeur des hôpitaux ou son représentant ;
 
-- le directeur de l'Agence du médicament ou son représentant ;
+- le directeur de l'Agence française de sécurité sanitaire des produits de santé ou son représentant ;
 
 - le ministre chargé de l'agriculture ou son représentant ;
 

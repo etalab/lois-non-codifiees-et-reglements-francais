@@ -1,6 +1,6 @@
 # Article 4
 
-L'Agence du médicament constitue et tient à jour le fichier des laboratoires publics ou privés soumis aux dispositions du chapitre Ier du titre III du livre VII du code de la santé publique. Pour chaque laboratoire, ce fichier comporte :
+L'Agence française de sécurité sanitaire des produits de santé constitue et tient à jour le fichier des laboratoires publics ou privés soumis aux dispositions du chapitre Ier du titre III du livre VII du code de la santé publique. Pour chaque laboratoire, ce fichier comporte :
 
 a) Un numéro de code destiné à assurer l'anonymat des opérations de contrôle ;
 
