@@ -478,7 +478,6 @@
 - [Décret n°2000-802 du 25 août 2000 (ECOI0000386D)](decret-n2000-802-du-25-aout-2000-ecoi0000386d)
 - [Décret n°2000-803 du 25 août 2000 (MESS0021536D)](decret-n2000-803-du-25-aout-2000-mess0021536d)
 - [Décret n°2000-807 du 25 août 2000 (DEFD0001926D)](decret-n2000-807-du-25-aout-2000-defd0001926d)
-- [Décret n°2000-808 du 25 août 2000 (DEFD0001927D)](decret-n2000-808-du-25-aout-2000-defd0001927d)
 - [Décret n°2000-809 du 25 août 2000 (DEFD0001925D)](decret-n2000-809-du-25-aout-2000-defd0001925d)
 - [Décret n°2000-811 du 25 août 2000 (ECOI0000363D)](decret-n2000-811-du-25-aout-2000-ecoi0000363d)
 - [Décret n°2000-834 du 25 août 2000 (MESS0021827D)](decret-n2000-834-du-25-aout-2000-mess0021827d)
