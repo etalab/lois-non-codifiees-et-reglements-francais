@@ -5,6 +5,7 @@
 - [Décret n°68-335 du 5 avril 1968](decret-n68-335-du-5-avril-1968)
 - [Décret n°68-382 du 5 avril 1968](decret-n68-382-du-5-avril-1968)
 - [Décret n°68-217 du 8 février 1968](decret-n68-217-du-8-fevrier-1968)
+- [Décret n°68-440 du 13 mai 1968](decret-n68-440-du-13-mai-1968)
 - [Décret n°68-244 du 15 mars 1968](decret-n68-244-du-15-mars-1968)
 - [Décret n°68-259 du 15 mars 1968](decret-n68-259-du-15-mars-1968)
 - [Décret n°68-253 du 19 mars 1968](decret-n68-253-du-19-mars-1968)
