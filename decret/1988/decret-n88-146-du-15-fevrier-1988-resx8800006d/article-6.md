@@ -1,9 +1,11 @@
 # Article 6
 
-Pour l'application des dispositions du dernier alinéa du II de l'article 3 et de l'article 5 ci-dessus, sont assimilés aux professeurs, maîtres de conférences, maîtres-assistants ou chefs de travaux, des enseignants et des chercheurs appartenant aux catégories de personnels mentionnées ci-après et figurant sur une liste fixée par arrêté du ministre chargé de l'enseignement supérieur :
+Pour l'application des dispositions des articles 3, 4, 5, 7, 8 et 9 du présent décret, sont assimilés aux professeurs et aux maîtres de conférences les enseignants et les chercheurs appartenant aux catégories de personnels mentionnées ci-après :
 
-1° Personnels titulaires d'autres corps de l'enseignement supérieur ;
+1° Personnels titulaires d'autres corps de l'enseignement supérieur, de rang au moins égal à celui de professeur des universités ou à celui de maître de conférences, figurant sur une liste fixée par arrêté du ministre chargé de l'enseignement supérieur ;
 
-2° Chercheurs titulaires des corps du Centre national de la recherche scientifique, de l'Institut national de la recherche agronomique, de l'Institut national de la santé et de la recherche médicale, de l'Institut français de recherche scientifique pour le développement en coopération (O.R.S.T.O.M.).
+2° Personnels détachés dans un corps d'enseignants-chercheurs ;
 
-Cet arrêté fixe la répartition de ces corps entre les catégories de personnels mentionnées à l'alinéa précédent.
+3° Chercheurs titulaires relevant du décret n° 83-1260 du 30 décembre 1983 fixant les dispositions statutaires communes aux corps des fonctionnaires des établissements publics, scientifiques et technologiques ; pour l'application des articles 3 et 4 ci-dessus, le chef de l'établissement public d'enseignement supérieur concerné doit, en outre, attester qu'ils ont effectivement enseigné dans son établissement au cours d'une période et pendant une durée déterminées par arrêté du ministre chargé de l'enseignement supérieur.
+
+Un arrêté du ministre chargé de l'enseignement supérieur détermine les conditions d'assimilation de ces chercheurs soit aux professeurs, soit aux maîtres de conférences.
