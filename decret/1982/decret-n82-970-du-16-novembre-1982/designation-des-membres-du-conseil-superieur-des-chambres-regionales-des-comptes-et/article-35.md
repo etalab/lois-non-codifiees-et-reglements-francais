@@ -4,4 +4,4 @@ Les opérations électorales se déroulent publiquement dans les locaux des cham
 
 Les électeurs ne peuvent rayer, ni le nom du candidat ni celui de son suppléant.
 
-Le vote peut avoir lieu par correspondance dans les conditions fixées par le ministre de l'économie et des finances sur proposition du conseil supérieur des chambres régionales des comptes.
+Le vote peut avoir lieu par correspondance dans les conditions fixées par [*autorité compétente*] le premier président de la Cour des comptes, aprés avis du Conseil supérieur des chambres régionales des comptes.

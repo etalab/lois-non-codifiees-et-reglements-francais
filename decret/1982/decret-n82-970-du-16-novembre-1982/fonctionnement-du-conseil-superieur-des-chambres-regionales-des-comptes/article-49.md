@@ -6,9 +6,9 @@ Le conseil supérieur établit son règlement intérieur, qui détermine notamme
 
 1° Les conditions de fixation de l'ordre du jour ;
 
-2° L'organisation des travaux du conseil supérieur en matière d'avancement, d'inscription sur la liste, d'aptitude aux fonctions de président de chambre régionale et de discipline ;
+2° L'organisation des travaux du Conseil supérieur en matière d'avancement, d'inscription sur la liste d'aptitude aux fonctions de président de chambre régionale des comptes, de notation et de discipline.
 
-3° La procédure d'examen des propositions d'affectations et de mutations soumises au conseil supérieur par le ministre de l'économie et des finances ;
+3° La procédure d'examen des propositions d'affectations et de mutations soumises au conseil supérieur par [*autorité compétente*] le premier président de la Cour des comptes.
 
 4° Les modalités selon lesquelles le conseil se prononce sur l'organisation et le fonctionnement des chambres régionales des comptes.
 

@@ -1,6 +1,6 @@
 # Article 29
 
-Pour l'accomplissement des opérations électorales, les électeurs peuvent être répartis en sections de vote créées par arrêté du ministre de l'économie et des finances sur proposition du président du conseil supérieur des chambres régionales des comptes.
+Pour l'accomplissement des opérations électorales, les électeurs peuvent être répartis en sections de vote créées par décision [*autorité compétente*] du premier président de la Cour des comptes.
 
 La liste des électeurs appelés à voter dans une section de vote est arrêtée par les soins du président de la chambre régionale auprès duquel est placée cette section. Elle est affichée dans la section de vote quinze jours au moins avant la date fixée pour le scrutin.
 

@@ -1,3 +1,3 @@
 # Article 27
 
-Les présidents de section et les conseillers hors classe inscrits sur la liste d'aptitude aux fonctions de président des chambres régionales des comptes doivent suivre un stage d'une durée maximum de trois mois, pouvant s'effectuer en une ou plusieurs périodes, notamment à la Cour des comptes ou auprès d'organismes publics à compétence financière.
+Les magistrats des chambres régionales des comptes nommés conseillers référendaires de 1ère classe à la Cour des comptes en application de l'article 21 de la loi du 10 juillet 1982 susvisée sont classés dans leur grade à l'échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur corps d'origine.
