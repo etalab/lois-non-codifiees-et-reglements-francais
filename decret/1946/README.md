@@ -16,3 +16,4 @@
 - [Décret n°46-1246 du 28 mai 1946](decret-n46-1246-du-28-mai-1946)
 - [Décret n°46-1247 du 28 mai 1946](decret-n46-1247-du-28-mai-1946)
 - [Décret n°46-1262 du 29 mai 1946](decret-n46-1262-du-29-mai-1946)
+- [Décret n°46-1574 du 30 juin 1946](decret-n46-1574-du-30-juin-1946)
