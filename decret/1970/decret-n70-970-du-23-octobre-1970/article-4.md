@@ -1,17 +1,25 @@
 # Article 4
 
-Les appellations contrôlées définies par le présent décret ne seront accordées que dans les limites des rendements par hectare de vigne en production, ci-dessous spécifiées :
+Seuls peuvent prétendre à l'une des appellations d'origine contrôlées mentionnées ci-après les vins répondant aux conditions du décret n° 74-872 du 19 octobre 1974 relatif au rendement des vignobles produisant des vins à appellation d'origine contrôlée.
 
-Gaillac (vins blancs) et Gaillac mousseux : 60 hectolitres, par hectare de vigne en production ;
+Le rendement de base visé à l'article 1er de ce décret est fixé conformément aux indications portées dans le tableau ci-après. Le pourcentage prévu à son article 3 est fixé à 20 p. 100.
 
-Gaillac (vins rouges et rosés) : 55 hectolitres, par hectare de vigne en production ;
+Appellations et rendement de base :
 
-Gaillac premières côtes : 45 hectolitres, par hectare de vigne en production.
+Gaillac (vins blancs) : 60.
 
-Ces limites peuvent être modifiées chaque année, suivant la quantité et la qualité de la récolte, par décision du comité directeur de l'institut national des appellations d'origine des vins et eaux-de-vie homologuée par arrêté du ministre de l'agriculture, après consultation d'une commission de cinq membres nommés par l'institut national des appellations d'origine sur la proposition du syndicat de défense le plus représentatif de l'appellation considérée adoptée par une assemblée générale dudit syndicat.
+Gaillac, assortie du qualificatif doux (vins blancs) : 45.
 
-Les augmentations du rendement de base ne sont accordées qu'en année exceptionnelle où qualité et quantité se présentent simultanément.
+Gaillac Premières Côtes : 45.
 
-Les quantités excédentaires sont déclassées. Toutefois, des dérogations individuelles peuvent être accordées par l'institut national des appellations d'origine après vérification de la qualité de la récolte, et des conditions de production. Les demandes devront être présentées avant le 15 décembre de l'année de la récolte.
+Gaillac (vins rouges et rosés) : 55.
 
-Les jeunes vignes ne peuvent entrer dans le décompte de la surface plantée qu'à partir de la quatrième feuille (celle-ci comprise), après greffage sur place ou après mise en place des racinés-greffés.
+Gaillac mousseux, méthode deuxième fermentation en bouteille :
+
+60.
+
+Gaillac mousseux, méthode gaillacoise (brut ou demi-sec) : 60.
+
+Gaillac mousseux, méthode gaillacoise assortie du qualificatif doux : 45.
+
+Le bénéfice de l'une de ces appellations d'origine contrôlées ne peut être accordé aux vins provenant des jeunes vignes qu'à partir de la troisième année suivant celle au cours de laquelle la plantation a été réalisée en place avant le 31 août.
