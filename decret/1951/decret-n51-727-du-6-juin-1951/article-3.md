@@ -12,8 +12,6 @@ Sont également prises en considération, en vue de l'ouverture du droit à pens
 
 PAR. 1ER BIS - Conformément aux dispositions de l'article 3 de la loi n° 73-1051 du 21 novembre 1973, toute période de mobilisation ou de captivité est, sans condition préalable, assimilée à une période d'assurance pour la liquidation des pensions ou rentes de vieillesse.
 
-PAR. 2 - Les pensions ou rentes de vieillesse et les pensions d'invalidité et les pensions de veuf ou de veuve sont payables trimestriellement [*périodicité*] et à terme échu aux dates fixées par arrêté du ministre de l'Agriculture.
-
-Elles sont arrondies, y compris, le cas échéant, les majorations et bonifications, au multiple de 2 F immédiatement supérieur.
+PAR. 2 - Les pensions ou rentes de vieillesse et les pensions d'invalidité et les pensions de veuf ou de veuve ainsi que leurs majorations et accessoires sont payables mensuellement et à terme échu aux dates fixées par l'arrêté pris en application de l'article R. 355-2 du code de la sécurité sociale.
 
 Elles sont cessibles et saisissables dans toutes les mêmes conditions et limites que les salaires. Toutefois, elles le sont dans la limite de 90 p. 100 au profit des établissements hospitaliers et des caisses d'assurances sociales pour le payement des frais d'hospitalisation. L'application des dispositions du présent alinéa ne peut avoir pour effet de réduire les arrérages trimestriels des pensions d'invalidité à une somme inférieure au quart du minimum fixé par l'article 9 (par. 4) modifié du décret du 30 octobre 1935.

@@ -36,17 +36,13 @@ Toute partie de mois n'est pas prise en considération.
 
 Les dispositions du e ci-dessus s'appliquent à tous les anciens combattants pour leur durée de service actif passé sous les drapeaux.
 
-Par. 3 - Le service de la pension de vieillesse attribuée ou revisée au titre de l'inaptitude au travail peut être suspendu lorsque le titulaire, âgé de moins de soixante-cinq ans, exerce une activité professionnelle lui procurant des revenus dépassant un chiffre déterminé par voie réglementaire [*cumul emploi retraite*].
+Par. 3 - Le service de la pension de vieillesse attribuée ou révisée au titre de l'inaptitude au travail peut être suspendu lorsque le titulaire, n'ayant pas atteint l'âge fixé en application du a du paragraphe 2 du présent article, exerce une activité professionnelle lui procurant des revenus dépassant un montant déterminé [*cumul emploi retraite*].
 
-La pension de vieillesse au taux plein est assortie, le cas échéant, d'une majoration permettant de porter cette prestation à un montant minimum tenant compte de la durée d'assurance et fixé par décret.
+La pension de vieillesse au taux plein est assortie, le cas échéant, d'une majoration permettant de porter cette prestation à un montant minimum tenant compte de la durée d'assurance et fixé par décret.    La bonification pour enfants, la majoration pour conjoint à charge et la rente des retraites ouvrières et paysannes prévues aux paragraphes 5 et 6 du présent article et à l'article L. 350 du code de la sécurité sociale s'ajoutent à ce montant minimum [*décret du 11 janvier 1984 art. 1*].    Par. 4 - Lorsque le montant de la pension est inférieur à un minimum, un versement forfaitaire unique [*capital*] est substitué à la pension, dans les conditions fixées par voie réglementaire.
 
-La bonification pour enfants, la majoration pour conjoint à charge et la rente des retraites ouvrières et paysannes prévues aux paragraphes 5 et 6 du présent article et à l'article L. 350 du code de la sécurité sociale s'ajoutent à ce montant minimum [*décret du 11 janvier 1984 art. 1*].
+Par. 5 - La pension prévue aux paragraphes 1er et 2 ci-dessus est assortie d'une majoration pour tout assuré de l'un ou l'autre sexe ayant eu un nombre minimum d'enfants.
 
-Par. 4 - Lorsque le montant de la pension est inférieur à un minimum, un versement forfaitaire unique [*capital*] est substitué à la pension, dans les conditions fixées par voie réglementaire.
-
-Par. 5 - La pension [*de retraite*] prévue aux paragraphes 1er et 2 ci-dessus est augmentée d'une bonification d'un dixième pour tout assuré de l'un ou de l'autre sexe ayant eu au moins trois enfants [*nombre, majoration*].
-
-Ouvrent également droit à cette bonification les enfants élevés dans les conditions prévues à l'article 2 (par. 1er-II, 2ème alinéa) ci-dessous.
+Ouvrent également droit à cette majoration les enfants élevés dans les conditions prévues à l'article 2 (§ 1er, II, 2e alinéa) ci-dessous.
 
 Par. 6 - La pension prévue aux paragraphes 1er et 2 ci-dessus est assortie d'une majoration lorsque le conjoint à charge du titulaire atteint l'âge fixé par voie réglementaire et n'est pas bénéficiaire d'un avantage au titre d'une législation de sécurité sociale.    Par. 7 - Les femmes assurées ayant élevé un ou plusieurs enfants dans les conditions prévues à l'article 2 (par. 1er-II, 2ème alinéa) ci-dessous bénéficient d'une majoration de leur durée d'assurance égale à deux années supplémentaires par enfant élevé dans lesdites conditions.
 

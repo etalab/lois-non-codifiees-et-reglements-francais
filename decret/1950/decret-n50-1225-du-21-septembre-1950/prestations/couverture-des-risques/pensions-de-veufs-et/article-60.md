@@ -10,15 +10,17 @@ Lorsque l'assuré est décédé après soixante-cinq ans, à 52 p. 100 de la pen
 
 PAR. 2 - Les dispositions de l'article 56 ci-dessus sont applicables aux demandes de pension de veufs ou de veuves prévues par l'article 2 du décret susvisé du 6 juin 1951. Le veuf qui sollicite la pension prévue au paragraphe 1er dudit article 2 doit déposer sa demande au plus tard dans un délai de douze mois à compter de la date du décès de l'assurée ou de la pensionnée [*point de départ*].
 
-PAR. 3 - L'entrée en jouissance de la pension prévue au paragraphe 1er de l'article 2 du décret n° 51-727 du 6 juin 1951 est fixée soit au lendemain du décès de l'assuré, si la demande est présentée dans le délai d'un an, soit au premier jour du mois suivant la date de réception de la demande ou la date à compter de laquelle la veuve est reconnue invalide postérieurement au dépôt de la demande [*date, point de départ*].
+PAR. 3 - L'entrée en jouissance de la pension prévue au paragraphe 1er de l'article 2 du décret n° 51-727 du 6 juin 1951 est fixée soit au premier jour du mois qui suit le décès de l'assuré, si la demande est présentée dans le délai d'un an, soit au premier jour du mois suivant la date de réception de la demande ou la date à compter de laquelle la veuve est reconnue invalide postérieurement au dépôt de la demande [*date, point de départ*].
 
-PAR. 4 - La date d'entrée en jouissance de la pension prévue à l'article 2 (paragraphes 2, 3 et 4) du décret n° 51-727 du 6 juin 1951 est fixée :
+PAR. 4 - La date d'entrée en jouissance de la pension mentionnée à l'article 2 (§ 2, 3 et 4) du décret n° 51-727 du 6 juin 1951 est fixée :
 
-Soit au lendemain du décès, si la demande est déposée dans le délai d'un an, ou au lendemain de la disparition si la demande est déposée dans le délai d'un an suivant la période de douze mois écoulée depuis la disparition ;
+1° Au premier jour du mois suivant celui au cours duquel l'assuré est décédé, si la demande est déposée dans le délai d'un an suivant le décès ;
 
-Soit au premier jour du mois suivant la date de réception de la demande.
+2° Au premier jour du mois suivant celui au cours duquel l'assuré a disparu, si la demande est déposée dans le délai d'un an suivant la période de douze mois écoulée depuis la disparition ;
 
-Cette date ne peut toutefois être antérieure au cinquante-cinquième anniversaire du requérant.
+3° Au premier jour du mois suivant la date de réception de la demande, si celle-ci est déposée après l'expiration du délai d'un an mentionnée aux 1° et 2° ci-dessus.
+
+Cette date ne peut toutefois être antérieure au premier jour du mois suivant le cinquante-cinquième anniversaire du conjoint survivant ou divorcé.
 
 PAR. 5 - Le délai d'un an prévu au paragraphe 3 de l'article 2 du décret n° 51-727 du 6 juin 1951 en cas de disparition court à dater soit de la première échéance non acquittée lorsque le disparu était titulaire d'une pension soit, dans le cas contraire, du jour de la déclaration de la disparition aux autorités de police [*absence, point de départ*].
 
