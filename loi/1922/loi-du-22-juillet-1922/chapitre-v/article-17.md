@@ -1,24 +1,14 @@
 # Article 17
 
-Lorsqu'un agent, employé ou ouvrier, quittera le service en dehors des causes spécifiées ci-dessus, il aura droit à ses versements personnels qui seront employés de la manière suivante :
+A partir du 1er janvier 1927, lorsqu'un agent, employé ou ouvrier, quittera le service en dehors des causes spécifiées ci-dessus, ses droits seront ainsi liquidés :
 
-La caisse autonome versera :
+S'il a au moins quinze ans d'affiliation, il aura droit à une pension de retraite différée jusqu'à ce qu'il ait atteint la limite d'âge de son emploi. Toutefois, pour la femme employée au réseau qui quittera ses fonctions en même temps que son mari mis à la retraite d'office à la limite d'âge, les quinze années d'affiliation ne seront pas exigées pourvu qu'elle ait quinze années de service.
 
-1° A la caisse des retraites ouvrières et paysannes une somme égale aux annuités majorées des intérêts nécessaires que l'agent et l'exploitant auraient versées à cette caisse, si l'agent n'avait pas été affilié à la caisse autonome ;
+S'il a moins de quinze ans d'affiliation, ses versements personnels seront capitalisés par la caisse autonome mutuelle, dans les mêmes conditions de taux que les versements supplémentaires prévus à l'article 13 de la loi du 22 juillet 1922, pour lui constituer à l'âge de 60 ans une rente à capital aliéné.
 
-2° A la caisse nationale des retraites pour la vieillesse, pour lui constituer une retraite à l'âge de cinquante-cinq ans, le surplus de ses versements personnels :
+En cas de fermeture d'un réseau ou de licenciement de tout ou partie du personnel, l'agent dont l'emploi aura été supprimé et qui relève de la période transitoire aura droit à une retraite différée, calculée sur les bases de l'ancien article 19, modifié par l'article 14 de la présente loi, s'il a au moins vingt ans de services.
 
-Sans intérêts, s'il a moins de dix ans de service ;
-
-Majorés des intérêts de 1 p. 100, s'il a de dix à quinze ans de service ;
-
-Majorés des intérêts de 2 p. 100, s'il a de quinze à vingt ans de service ;
-
-Majorés des intérêts de 3 p. 100, s'il a de vingt ans de service et au-dessus.
-
-En ce qui concerne le décompte de la période des versements donnant droit aux subventions de l'Etat, la somme versée en vertu du paragraphe 1er (alinéa 1°) ci-dessus comptera pour un nombre d'annuités égal à celui des versements faits par l'agent à la caisse autonome.
-
-Il sera délivré à l'agent deux livrets, un pour la retraite ouvrière et paysanne, et un autre pour la caisse nationale des retraites pour la vieillesse, livrets qui seront sa propriété personnelle et où figureront les sommes portées à son compte, calculées comme il est indiqué ci-dessus.
+L'article 3 de la loi du 15 janvier 1925 est applicable aux pensions liquidées à cette date.
 
 Un agent pourra passer d'une compagnie dans une autre et continuera à être affilié au régime des retraites de la caisse autonome, mais ce, sous la double condition de faire partie du cadre permanent de la nouvelle compagnie et de subir un stage d'un an avec versements ne comptera pas dans la durée de service exigée pour la retraite.
 

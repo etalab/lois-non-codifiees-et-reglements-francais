@@ -13,3 +13,7 @@ Les placements de la caisse autonome seront effectués sur sa propre désignatio
 Le compte courant ouvert par la caisse des dépôts et consignations au profit de la caisse autonome des retraites des agents des chemins de fer secondaires produira un intérêt égal à celui du compte courant de la caisse des dépôts et consignations au Trésor.
 
 Un règlement d'administration publique, rendu sur la proposition des ministres des travaux publics, des finances et du travail, après avis de la commission de surveillance de la caisse des dépôts et consignations, déterminera les mesures d'exécution relatives à la gestion financière.
+
+La caisse aura toutefois la faculté d'acquérir et de posséder des immeubles en vue de l'installation de ses services.
+
+Elle pourra, en outre, affecter un capital, au plus égal à un dixième de l'actif du fonds de réserve, à l'acquisition de propriétés bâties dans les villes de la métropole de plus de 1000.000 habitants.

@@ -1,8 +1,6 @@
 # Article 13
 
-Le taux de la pension, pour tous agents réunissant les conditions d'âge et de durée de service indiquées au premier paragraphe de l'article 12, ne pourra être inférieur à un soixantième, par année de versement, du montant du salaire moyen des six dernières années.
-
-Toutefois, pour un agent du service roulant qui, dans les cinq années précédant sa mise à la retraite, serait dans un autre service, la retraite ne pourrait être inférieure à celle calculée sur la base du salaire moyen des six dernières années dans le service roulant.
+Le taux de la pension pour tous les agents réunissant les conditions d'âge et de durée d'affiliation indiquées au premier paragraphe de l'article 12 ne pourra être inférieur à un cinquantième, par année d'affiliation, du montant du salaire moyen des trois dernières années. Toutefois, pour un agent du service roulant qui, dans les cinq années précédant sa mise à la retraite, serait dans un autre service, la retraite ne pourrait être inférieure à celle calculée sur la base du salaire moyen des trois dernières années dans le service roulant.
 
 Les agents et les exploitants possèdent le droit d'améliorer les retraites au moyen de versements supplémentaires qui seront portés sur un livret spécial à chaque agent et lui constitueront ainsi une superretraite.
 
