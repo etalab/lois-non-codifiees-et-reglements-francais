@@ -1,0 +1,15 @@
+# Article 5
+
+Le préfet de région peut soumettre les dossiers qui lui sont adressés à l'avis d'une commission consultative régionale qu'il préside et qui est composée en nombre égal :
+
+a) De représentants du ministre de l'équipement, du logement, des transports et de la mer ;
+
+b) De représentants des associations de formation professionnelle liées par une convention avec le ministre de l'équipement, du logement, des transports et de la mer ;
+
+c) De représentants des organisations professionnelles de commissionnaires de transport les plus représentatives sur le plan national ; ceux-ci, lorsqu'ils sont appelés à siéger, doivent avoir qualité pour apprécier la qualification des candidats.
+
+Les commissions comprennent également des membres suppléants, à raison d'un par membre titulaire.
+
+Les membres suppléants ne peuvent siéger que lorsqu'ils remplacent les membres titulaires.
+
+Les membres des commissions sont nommés pour trois ans par arrêté du préfet de région, sur proposition des administrations et organisations concernées.
