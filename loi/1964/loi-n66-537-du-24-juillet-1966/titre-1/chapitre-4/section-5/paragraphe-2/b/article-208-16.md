@@ -2,7 +2,9 @@
 
 Les actions souscrites par les salariés dans les conditions définies aux articles précédents sont obligatoirement nominatives. Elles sont incessibles pendant cinq ans à dater de leur souscription.
 
-Elles ne peuvent, avant l'expiration de ce délai, être transférées ou converties en titres au porteur, sauf en application de l'article 281 ci-après ou dans les cas visés à l'article 208-15 ci-dessus.
+Elles ne peuvent, avant l'expiration de ce délai, être transmises ou converties en titres au porteur, sauf application de l'article 281 ci-après ou dans les cas prévus à l'article 208-15 ci-dessus.
+
+Elles peuvent être également transmises ou converties en titres au porteur au profit des salariés bénéficiaires d'un congé pour la création d'entreprises prévu à l'article L. 122-32-12 du Code du travail.
 
 Les droits d'attribution afférents à ces actions et les actions gratuites obtenues sur présentation de ces droits sont négociables ou cessibles à la même date que les actions qui ont donné droit à cette attribution. Toutefois, les droits d'attribution formant rompus sont immédiatement négociables ainsi que les actions gratuites obtenues sur présentation de droits d'attribution régulièrement négociés.
 
