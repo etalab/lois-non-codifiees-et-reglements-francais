@@ -48,7 +48,6 @@
 - [Arrêté du 4 avril 1990 (LOGC9000008A)](arrete-du-4-avril-1990-logc9000008a)
 - [Arrêté du 4 avril 1990 (PTTP9000323A)](arrete-du-4-avril-1990-pttp9000323a)
 - [Arrêté du 4 décembre 1989 (SPSS8902731A)](arrete-du-4-decembre-1989-spss8902731a)
-- [Arrêté du 4 janvier 1990 (SPSH9000026A)](arrete-du-4-janvier-1990-spsh9000026a)
 - [Arrêté du 4 septembre 1990 (ACVP9020027A)](arrete-du-4-septembre-1990-acvp9020027a)
 - [Arrêté du 4 mai 1982](arrete-du-4-mai-1982)
 - [Arrêté du 5 avril 1990 (AGRP9000605A)](arrete-du-5-avril-1990-agrp9000605a)
