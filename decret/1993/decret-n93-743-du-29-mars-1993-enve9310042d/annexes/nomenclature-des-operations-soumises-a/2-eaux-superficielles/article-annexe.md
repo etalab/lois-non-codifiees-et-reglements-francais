@@ -4,11 +4,11 @@ Au sens du présent titre, la largeur du lit mineur d'un cours d'eau correspond 
 
 Au sens du présent titre, le débit de référence du cours d'eau s'entend comme le débit moyen mensuel sec de récurrence 5 ans ci-après dénommé le débit.
 
-2.1.0. A l'exception des prélèvements faisant l'objet d'une convention avec l'attributaire du débit affecté prévu par l'article 15 de la loi sur l'eau, prélèvement et installations et ouvrages permettant le prélèvement, y compris par dérivation, dans un cours d'eau, dans sa nappe d'accompagnement ou dans un plan d'eau ou canal alimenté par ce cours d'eau ou cette nappe :
+2.1.0. A l'exception des prélèvements faisant l'objet d'une convention avec l'attributaire du débit affecté prévu par l'article L. 214-9 du code de l'environnement, prélèvements et installations et ouvrages permettant le prélèvement, y compris par dérivation, dans un cours d'eau, dans sa nappe d'accompagnement ou dans un plan d'eau ou canal alimenté par ce cours d'eau ou cette nappe :
 
-1° D'un débit total égal ou supérieur à 5 p. 100 du débit ou à défaut du débit global d'alimentation du canal ou du plan d'eau A
+1° D'une capacité totale maximale supérieure ou égale à 1 000 m3/heure ou à 5 % du débit du cours d'eau ou, à défaut, du  débit  global  d'alimentation  du  canal  ou  du  plan  d'eau :  A ;
 
-2° D'un débit total compris entre 2 et 5 p. 100 du débit ou à défaut du débit global d'alimentation du canal ou du plan d'eau D
+2° D'une capacité totale maximale comprise entre 400 et 1 000 m3/heure ou entre 2 et 5 % du débit du cours d'eau ou, à défaut, du débit global d'alimentation du canal ou du plan d'eau :  D.
 
 2.1.1. A l'exception des prélèvements faisant l'objet d'une convention avec l'attributaire du débit affecté prévu par l'article 15 de la loi sur l'eau, prélèvements et installations et ouvrages permettant le prélèvement, dans un cours d'eau, sa nappe d'accompagnement ou un plan d'eau ou canal alimenté par ce cours d'eau ou cette nappe, lorsque le débit du cours d'eau en période d'étiage résulte, pour plus de moitié, d'une réalimentation artificielle. Toutefois, en ce qui concerne la Seine et la Loire, il n'y a lieu à autorisation que lorsque la capacité du prélèvement est supérieure à 80 m3/h A
 
@@ -80,13 +80,13 @@ D
 
 2.3.1. Installations ou activités à l'origine d'un effluent correspondant à au moins une des caractéristiques suivantes :
 
-1° Si le débit de référence est inférieur à 0,5 m3/s ou si le rejet s'effectue dans une zone mentionnée au 1° de la rubrique 2.3.0 :
+1° Si le débit de référence est inférieur à 0,5 m3/s :
 
 a) Apport au milieu aquatique de plus de 5 t/jour de sels dissous A
 
 b) Apport au milieu aquatique de 1 à 5 t/jour de sels dissous D
 
-2° Si le débit est supérieur ou égal à 0,5 m3/s et si le rejet s'effectue hors d'une zone mentionnée au 1° de la rubrique 2.3.0 :
+2° Si le débit est supérieur ou égal à 0,5 m3/s :
 
 a) Apport au milieu aquatique de plus de 20 t/jour de sels dissous A
 
@@ -120,9 +120,7 @@ D
 
 A
 
-2° Surface soustraite supérieure à 400 m2 et inférieure à 1 000 m2
-
-D
+2° Surface soustraite supérieure à 400 m2 et inférieure à 1 000 m2 D
 
 3° Surface soustraite inférieure à 400 m2 mais fraction de la largeur du lit majeur occupée par l'ouvrage supérieure ou égale à 20 %
 
@@ -152,7 +150,7 @@ b) Sur une longueur supérieure ou égale à 50 m et inférieure à 200 m
 
 D
 
-2.6.0. En dehors des voies navigables, curage ou dragage des cours d'eau ou étangs, hors " vieux fonds vieux bords ", et à l'exclusion des dragages visés à la rubrique 3.4.0, le volume des boues ou matériaux retiré au cours d'une année étant :
+2.6.0. En dehors des voies navigables, curage ou dragage des cours d'eau ou étangs, hors vieux fonds vieux bords, et à l'exclusion des dragages visés à la rubrique 3.4.0, le volume des boues ou matériaux retiré au cours d'une année étant :
 
 1° Supérieur ou égal à 5 000 m3
 
