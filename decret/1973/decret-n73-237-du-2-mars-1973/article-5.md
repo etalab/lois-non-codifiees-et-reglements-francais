@@ -2,7 +2,7 @@
 
 En tout temps :
 
-Des liaisons sont établies entre, d'une part, les préfets des zones de défense et les commandants désignés de ces zones et, d'autre part, les préfets maritimes afin d'assurer la cohérence des plans, de coordonner la recherche et l'acheminement des renseignements, de tenir à jour la situation des moyens utilisables pour la défense maritime du territoire et de préparer la coordination de leur emploi ;
+Des liaisons sont établies entre, d'une part, les préfets des zones de défense et les commandants désignés de ces zones et, d'autre part, les commandants de région maritime afin d'assurer la cohérence des plans, de coordonner la recherche et l'acheminement des renseignements, de tenir à jour la situation des moyens utilisables pour la défense maritime du territoire et de préparer la coordination de leur emploi ;
 
 Les moyens navals des formations militaires qui n'appartiennent pas à la marine ainsi que ceux des administrations opérant en mer participent à la défense maritime du territoire en faisant parvenir au commandement maritime, qui peut les orienter à cet effet, les renseignements intéressant la défense qu'ils recueilleraient.
 
