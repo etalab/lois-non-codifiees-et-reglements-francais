@@ -8,4 +8,4 @@ La demande de concession de transport de gaz combustibles est adressée au minis
 
 3° Un projet de cahier des charges.
 
-4° Les pièces nécessaires au déroulement de l'enquête publique énumérées à l'article 9-I ou, le cas échéant, à l'article 17.
+4° Les pièces nécessaires au déroulement de l'enquête publique énumérées à l'article 9-I ou, le cas échéant, à l'article 17 ainsi qu'une étude de sécurité analysant et exposant les risques que peut présenter l'ouvrage et ceux qu'il encourt du fait de son environnement. Cette étude définit et justifie les mesures prises pour réduire la probabilité d'occurrence et les effets des accidents, déterminées par le demandeur et sous sa responsabilité. Elle précise notamment les dispositions prises au stade de la conception, de la construction et de l'exploitation de l'ouvrage. Elle indique en outre les principes selon lesquels sera établi le plan de surveillance et d'intervention relatif à l'ouvrage prévu à l'article 32 ci-après.

@@ -5,5 +5,5 @@
 - [TITRE III : Régime de l'autorisation.](titre-iii)
 - [TITRE IV : Régime de la déclaration.](titre-iv)
 - [TITRE V : Etablissement, aménagement et exploitation des ouvrages.](titre-v)
-- [TITRE VI : Dispositions diverses.](titre-vi)
+- [TITRE VII : Dispositions diverses.](titre-vii)
 - [Article 45](article-45.md)
