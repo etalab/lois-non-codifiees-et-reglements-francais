@@ -185,7 +185,6 @@
 - [Décret n°92-632 du 6 juillet 1992 (EQUA9200874D)](decret-n92-632-du-6-juillet-1992-equa9200874d)
 - [Décret n°92-769 du 6 août 1992 (TEFT9205108D)](decret-n92-769-du-6-aout-1992-teft9205108d)
 - [Décret n°92-770 du 6 août 1992 (MAEX9200115D)](decret-n92-770-du-6-aout-1992-maex9200115d)
-- [Décret n°92-771 du 6 août 1992 (INTX9200128D)](decret-n92-771-du-6-aout-1992-intx9200128d)
 - [Décret n°92-772 du 6 août 1992 (INTX9200127D)](decret-n92-772-du-6-aout-1992-intx9200127d)
 - [Décret n°92-773 du 6 août 1992 (INTX9200126D)](decret-n92-773-du-6-aout-1992-intx9200126d)
 - [Décret n°92-783 du 6 août 1992 (SANH9201439D)](decret-n92-783-du-6-aout-1992-sanh9201439d)
