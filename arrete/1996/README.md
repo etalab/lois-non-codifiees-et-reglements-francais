@@ -23,6 +23,7 @@
 - [Arrêté du 9 février 1996 (MAEA9620068A)](arrete-du-9-fevrier-1996-maea9620068a)
 - [Arrêté du 9 janvier 1995 (ENVP9430388A)](arrete-du-9-janvier-1995-envp9430388a)
 - [Arrêté du 9 janvier 1996 (ACVM9640003A)](arrete-du-9-janvier-1996-acvm9640003a)
+- [Arrêté du 10 janvier 1996 (EQUA9600084A)](arrete-du-10-janvier-1996-equa9600084a)
 - [Arrêté du 10 janvier 1996 (EQUZ9600050A)](arrete-du-10-janvier-1996-equz9600050a)
 - [Arrêté du 10 janvier 1996 (TASH9620133A)](arrete-du-10-janvier-1996-tash9620133a)
 - [Arrêté du 10 janvier 1996 (TASH9620135A)](arrete-du-10-janvier-1996-tash9620135a)
