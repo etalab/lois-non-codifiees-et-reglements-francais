@@ -12,4 +12,3 @@
 - [Article Tableau VII quater](article-tableau-vii-quater.md)
 - [Article Tableau VIII](article-tableau-viii.md)
 - [Article Tableau IX](article-tableau-ix.md)
-- [Article Tableau X](article-tableau-x.md)
