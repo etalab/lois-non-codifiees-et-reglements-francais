@@ -1,14 +1,12 @@
 # Article 97-1
 
-Jusqu'au 31 décembre 2002, les praticiens hospitaliers peuvent accéder, sur leur demande et sous réserve des nécessités de la continuité et du fonctionnement du service, au bénéfice du congé de fin d'exercice s'ils remplissent les conditions suivantes :
+Les praticiens hospitaliers nés entre le 1er janvier 1943 et le 31 décembre 1946 peuvent accéder, sur leur demande et sous réserve des nécessités de la continuité et du fonctionnement du service, au congé de fin d'exercice s'ils remplissent les conditions suivantes :
 
 1° Etre en position d'activité ou en détachement au titre des 1°, 2°, 7° et 8° de l'article 47 du présent décret ;
 
-2° Etre âgé de cinquante-huit ans au moins ;
+2° Ne pas bénéficier d'un congé non rémunéré ;
 
-3° Ne pas bénéficier d'un congé non rémunéré ;
-
-4° Justifier de cent soixante trimestres validés au titre des régimes de base obligatoires d'assurance vieillesse et avoir accompli au moins vingt-cinq années de services militaires ou civils effectifs en qualité de fonctionnaire ou d'agent public.
+3° Justifier de cent soixante trimestres validés au titre des régimes de base obligatoires d'assurance vieillesse et avoir accompli au moins vingt-cinq années de services militaires ou civils effectifs en qualité de fonctionnaire ou d'agent public.
 
 La condition d'âge n'est pas opposable aux praticiens qui justifient de cent soixante-douze trimestres validés au titre des régimes mentionnés ci-dessus et de quinze années de services militaires ou civils effectifs en qualité de fonctionnaire ou d'agent public.
 
