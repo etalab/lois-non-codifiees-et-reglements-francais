@@ -28,7 +28,7 @@ Toutefois une ristourne de 100 F est accordée sur le prix de l'alcool dit modif
 
 5° Alcools destinés à être dénaturés :
 
-Pour usages réactionnels (prix de base : 206,50 F ; complément de prix : 23,50 F) : 230 F.
+Pour usages réactionnels (prix de base : 243,50 F ; complément de prix : 23,50 F) : 267 F.
 
 Pour les autres usages industriels (prix de base : 210 F ; complément de prix : 40 F) : 250 F ;
 
