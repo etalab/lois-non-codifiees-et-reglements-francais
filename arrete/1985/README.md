@@ -14,6 +14,7 @@
 - [Arrêté du 11 décembre 1984](arrete-du-11-decembre-1984)
 - [Arrêté du 11 janvier 1985](arrete-du-11-janvier-1985)
 - [Arrêté du 11 octobre 1983](arrete-du-11-octobre-1983)
+- [Arrêté du 12 janvier 1984](arrete-du-12-janvier-1984)
 - [Arrêté du 12 novembre 1984](arrete-du-12-novembre-1984)
 - [Arrêté du 12 octobre 1983](arrete-du-12-octobre-1983)
 - [Arrêté du 15 mai 1985](arrete-du-15-mai-1985)
