@@ -7,4 +7,3 @@
 - [Chapitre V : Dispositions relatives à l'écoulement des eaux, aux plantations, à l'élagage, et au curage de fossés](chapitre-v)
 - [Chapitre VI : Dispositions diverses](chapitre-vi)
 - [Article 22](article-22.md)
-- [Annexes](annexes)

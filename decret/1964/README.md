@@ -40,7 +40,6 @@
 - [Décret n°64-346 du 18 avril 1964](decret-n64-346-du-18-avril-1964)
 - [Décret n°64-863 du 19 août 1964](decret-n64-863-du-19-aout-1964)
 - [Décret n°64-355 du 20 avril 1964](decret-n64-355-du-20-avril-1964)
-- [Décret n°64-865 du 20 août 1964](decret-n64-865-du-20-aout-1964)
 - [Décret n°64-853 du 21 août 1964](decret-n64-853-du-21-aout-1964)
 - [Décret n°64-436 du 21 mai 1964](decret-n64-436-du-21-mai-1964)
 - [Décret n°64-1333 du 22 décembre 1964](decret-n64-1333-du-22-decembre-1964)
