@@ -79,3 +79,5 @@ Pour les cyclomoteurs et les motocyclettes, la mention " moto-école " doit appa
 5° Pour l'enseignement de la conduite en circulation sur cyclomoteurs, motocyclettes, tricycles à moteur dont la puissance n'excède pas 15 kilowatts et dont le poids à vide n'excède pas 550 kilogrammes et quadricycles lourds à moteur, un dispositif de type homologué permettant une liaison permanente (radio) est obligatoire entre l'enseignant et chaque élève, lorsque l'enseignant n'est pas à bord du véhicule.
 
 6° Les véhicules à embrayage automatique dont le PTAC n'excède pas 3 500 kilogrammes servant à l'enseignement doivent répondre aux conditions susvisées, à l'exception de l'obligation du double dispositif de débrayage.
+
+7° Pour les personnes handicapées de l'appareil locomoteur, lorsque l'enseignement pratique est dispensé à bord d'un véhicule fourni par elles-mêmes et spécialement adapté à leur handicap, l'équipement du véhicule doit répondre aux conditions susvisées au b (3°) de cet article. L'aménagement du véhicule est quant à lui soumis à l'avis du délégué à la formation du conducteur.

@@ -19,3 +19,5 @@ Tout exploitant d'un établissement d'enseignement de la conduite des véhicules
 - l'arrêté portant l'agrément de l'établissement ;
 
 - le nom et qualité du directeur pédagogique, le cas échéant.
+
+3° Procéder aux inscriptions individuelles des élèves uniquement dans ce local, à l'exclusion de tout autre lieu.

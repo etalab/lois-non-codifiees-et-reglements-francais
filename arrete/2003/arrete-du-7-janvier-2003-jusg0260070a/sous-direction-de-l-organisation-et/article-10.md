@@ -1,0 +1,3 @@
+# Article 10
+
+Le bureau de l'organisation des services est chargé de favoriser l'adaptation des structures et des modes de fonctionnement des services déconcentrés aux orientations qui leur sont données. Il conçoit et met en oeuvre des schémas d'organisation innovants visant à améliorer la prise en charge des personnes placées sous main de justice, les conditions de travail des agents et la sécurité des services. Il contribue à l'adaptation des services et des méthodes de travail aux évolutions de l'institution. Il élabore les projets d'organisation et évalue les besoins en emplois des nouvelles structures. Il fournit un appui aux responsables des services déconcentrés dans l'organisation du service des agents.

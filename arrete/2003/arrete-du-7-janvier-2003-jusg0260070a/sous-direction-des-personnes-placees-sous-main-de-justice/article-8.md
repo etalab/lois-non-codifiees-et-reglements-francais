@@ -1,0 +1,3 @@
+# Article 8
+
+Le bureau de l'action juridique et du droit pénitentiaire participe à l'élaboration des normes relatives aux compétences, à l'organisation et à l'activité des services pénitentiaires. Il contribue à l'élaboration du droit et de la politique d'exécution des peines et mesures privatives et restrictives de liberté en liaison avec la direction des affaires criminelles et des grâces. Il conduit les études juridiques et conseille les services. Il instruit les dossiers contentieux concernant les détenus et les probationnaires en liaison avec la direction de l'administration générale et de l'équipement et avec le service des affaires européennes et internationales.

@@ -1,0 +1,3 @@
+# Article 5
+
+Le bureau des études, de la prospective et des méthodes est chargé de conduire des réflexions d'ensemble concernant l'administration pénitentiaire et son évolution. Il conduit les études générales et prospectives ; il prépare les analyses stratégiques de la direction ; il réalise les études statistiques. Il élabore et évalue les méthodes d'accompagnement et de prise en charge des personnes placées sous main de justice. A ce titre, il élabore et évalue les méthodes de travail dans les services pénitentiaires d'insertion et de probation et favorise le développement des alternatives à l'incarcération.

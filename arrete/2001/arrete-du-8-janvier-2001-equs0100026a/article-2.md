@@ -38,6 +38,8 @@ c) Pour les moyens de l'établissement :
 
 14° La justification de la propriété ou de la location du ou des véhicules d'enseignement ainsi que, pour chacun d'eux, l'attestation d'assurance couvrant sans limite les dommages pouvant résulter d'accidents causés aux tiers dans les conditions prévues par l'article L. 211-1 du code des assurances.
 
+Le demandeur est exonéré de la justification de la propriété ou de la location pour les tricycles à moteur dont la puissance n'excède pas 15 kilowatts et dont le poids à vide n'excède pas 550 kilogrammes, les quadricycles lourds à moteur et les véhicules utilisés par les personnes handicapées de l'appareil locomoteur, lorsque ces véhicules sont fournis par les élèves inscrits dans l'établissement.
+
 d) Pour les enseignants de la conduite :
 
 15° La photocopie de l'autorisation d'enseigner en cours de validité des enseignants attachés à l'établissement.

@@ -4,7 +4,7 @@ Le préfet complète le dossier du demandeur par l'extrait du casier judiciaire 
 
 Il peut faire procéder aux enquêtes nécessaires pour vérifier la conformité du local et des moyens de l'établissement à la réglementation.
 
-Il recueille l'avis de la commission départementale de la sécurité routière, qui doit être rendu dans un délai de trois mois à compter de la date de réception du dossier complet de la demande d'agrément.
+Il recueille l'avis de la commission départementale de la sécurité routière, qui doit être rendu dans un délai de deux mois à compter de la date de réception du dossier complet de la demande d'agrément.
 
 Le préfet délivre l'agrément pour une durée de cinq ans lorsque toutes les conditions sont remplies.
 

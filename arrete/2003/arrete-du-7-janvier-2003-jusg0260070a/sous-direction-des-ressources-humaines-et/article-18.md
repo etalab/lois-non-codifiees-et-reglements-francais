@@ -1,0 +1,3 @@
+# Article 18
+
+Le bureau du suivi personnalisé des carrières est chargé, à partir du référentiel des métiers pénitentiaires, d'identifier les compétences et aptitudes des agents exerçant ou appelés à exercer des fonctions de responsabilité au sein des équipes de direction des établissements et services déconcentrés de l'administration pénitentiaire. Il leur propose des projets professionnels pouvant comporter la mise en oeuvre de bilans de compétence ou des formations d'adaptation. Il contribue à l'utilisation, par ces personnels, des techniques modernes de gestion. Il est associé à la préparation des mouvements destinés à pourvoir les postes visés au premier alinéa.

@@ -1,0 +1,3 @@
+# Article 3
+
+La sous-direction des personnes placées sous main de justice est chargée d'élaborer, de veiller à la mise en oeuvre et d'évaluer les politiques de prise en charge des personnes confiées à l'administration pénitentiaire au titre d'une mesure judiciaire privative ou restrictive de liberté. Elle conduit les réflexions concernant l'institution pénitentiaire et son évolution. Elle élabore les normes relatives à l'exécution des décisions judiciaires en liaison avec la direction des affaires criminelles et des grâces. Elle conduit les politiques d'insertion professionnelle ainsi que les politiques sociales en milieu carcéral et en milieu ouvert, en liaison avec les services publics et associations compétents.

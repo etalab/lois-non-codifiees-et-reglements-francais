@@ -1,0 +1,3 @@
+# Article 4
+
+La sous-direction de l'organisation et du fonctionnement des services déconcentrés est chargée de conseiller les services déconcentrés, d'orienter et d'évaluer leur action. Elle veille à l'organisation des différents services, à l'adaptation des structures, à l'exécution du programme immobilier et à la mise en oeuvre du schéma directeur informatique de l'administration pénitentiaire. Elle répartit entre les services déconcentrés les moyens nécessaires à leur fonctionnement, à l'exception des crédits de rémunérations. Elle consolide et diffuse les informations de gestion nécessaires à la conduite des services. Elle assure la tutelle de l'Ecole nationale d'administration pénitentiaire dans les domaines de l'exercice de ses missions.

@@ -1,0 +1,3 @@
+# Article 11
+
+Le bureau des équipements est chargé de répartir entre les services déconcentrés les crédits d'équipement correspondant aux orientations qui leur sont données et de suivre l'emploi de ces crédits. En liaison avec la direction de l'administration générale et de l'équipement, il participe à l'élaboration du programme général de gestion du patrimoine du ministère de la justice et conduit l'élaboration des programmes d'équipement pénitentiaires ; il suit leur réalisation. Il détermine les orientations de maintenance des installations. Il participe à la définition des normes de sécurité alimentaire et d'incendie et veille à leur mise en oeuvre et à leur respect dans les services déconcentrés.
