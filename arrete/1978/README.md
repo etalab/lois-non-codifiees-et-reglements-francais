@@ -40,7 +40,6 @@
 - [Arrêté du 15 mars 1978](arrete-du-15-mars-1978)
 - [Arrêté du 15 novembre 1978](arrete-du-15-novembre-1978)
 - [Arrêté du 15 septembre 1978](arrete-du-15-septembre-1978)
-- [Arrêté du 16 août 1978](arrete-du-16-aout-1978)
 - [Arrêté du 16 juin 1975](arrete-du-16-juin-1975)
 - [Arrêté du 16 mars 1978](arrete-du-16-mars-1978)
 - [Arrêté du 16 novembre 1978](arrete-du-16-novembre-1978)
