@@ -2,7 +2,7 @@
 
 En cas d'infraction à ses décisions, le bureau exécutif du comité interprofessionnel et le commissaire du Gouvernement pourront proposer aux autorités habilitées à statuer, comme indiqué ci-après, les sanctions suivantes :
 
-1° Amendes, dont le montant pourra atteindre au maximum 500 fois le coût de la carte professionnelle de l'intéressé par infraction commise ;
+1° Amendes, dont le montant pourra atteindre au maximum, par infraction commise, 10000 fois le dernier prix fixé par arrêté préfectoral pour le kilogramme de raisin du cru classé à 100 p. 100, toutes primes comprises ;
 
 2° Retrait de la carte professionnelle pour une durée égale ou inférieure à un mois ;
 
