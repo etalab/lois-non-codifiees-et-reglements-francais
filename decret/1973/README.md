@@ -102,6 +102,7 @@
 - [Décret n°73-428 du 27 mars 1973](decret-n73-428-du-27-mars-1973)
 - [Décret n°73-433 du 27 mars 1973](decret-n73-433-du-27-mars-1973)
 - [Décret n°76-215 du 27 février 1976](decret-n76-215-du-27-fevrier-1976)
+- [Décret n°72-1266 du 28 décembre 1972](decret-n72-1266-du-28-decembre-1972)
 - [Décret n°73-1101 du 28 novembre 1973](decret-n73-1101-du-28-novembre-1973)
 - [Décret n°73-1202 du 28 décembre 1973](decret-n73-1202-du-28-decembre-1973)
 - [Décret n°73-1237 du 28 décembre 1973](decret-n73-1237-du-28-decembre-1973)
