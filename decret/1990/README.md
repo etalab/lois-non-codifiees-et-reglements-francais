@@ -543,7 +543,6 @@
 - [Décret n°90-751 du 22 août 1990 (PTTA9000610D)](decret-n90-751-du-22-aout-1990-ptta9000610d)
 - [Décret n°90-763 du 22 août 1990 (RESY9000167D)](decret-n90-763-du-22-aout-1990-resy9000167d)
 - [Décret n°90-80 du 22 janvier 1990 (AGRS9000039D)](decret-n90-80-du-22-janvier-1990-agrs9000039d)
-- [Décret n°90-82 du 22 janvier 1990 (PRMX8900173D)](decret-n90-82-du-22-janvier-1990-prmx8900173d)
 - [Décret n°90-426 du 22 mai 1990 (MENF9000619D)](decret-n90-426-du-22-mai-1990-menf9000619d)
 - [Décret n°90-428 du 22 mai 1990 (MENF9000782D)](decret-n90-428-du-22-mai-1990-menf9000782d)
 - [Décret n°90-434 du 22 mai 1990 (TEFF9003442D)](decret-n90-434-du-22-mai-1990-teff9003442d)
