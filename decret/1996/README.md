@@ -47,6 +47,7 @@
 - [Décret n°96-181 du 6 mars 1996 (TASS9523514D)](decret-n96-181-du-6-mars-1996-tass9523514d)
 - [Décret n°96-93 du 6 février 1996 (TASS9523513D)](decret-n96-93-du-6-fevrier-1996-tass9523513d)
 - [Décret n°96-95 du 6 février 1996 (MAEA9520569D)](decret-n96-95-du-6-fevrier-1996-maea9520569d)
+- [Décret n°96-378 du 6 mai 1996 (JUSD9630040D)](decret-n96-378-du-6-mai-1996-jusd9630040d)
 - [Décret du 7 février 1996 (HRUX9601355D)](decret-du-7-fevrier-1996-hrux9601355d)
 - [Décret n°95-911 du 7 août 1995 (AGRA9501096D)](decret-n95-911-du-7-aout-1995-agra9501096d)
 - [Décret n°96-100 du 7 février 1996 (AGRB9502451D)](decret-n96-100-du-7-fevrier-1996-agrb9502451d)

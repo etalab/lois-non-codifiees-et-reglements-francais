@@ -1,0 +1,3 @@
+# Article 4
+
+Lorsque les opérations de chargement et de déchargement, impliquant les mêmes entreprises, revêtent un caractère répétitif, c'est-à-dire lorsqu'elles portent sur des produits ou substances de même nature, et qu'elles sont effectuées sur les mêmes emplacements, selon le même mode opératoire, mettant en oeuvre les mêmes types de véhicules et de matériels de manutention, un seul protocole de sécurité est établi, préalablement à la première opération. Il reste applicable aussi longtemps que les employeurs concernés considèrent que les conditions de déroulement des opérations n'ont subi aucune modification significative, dans l'un quelconque de leurs éléments constitutifs.
