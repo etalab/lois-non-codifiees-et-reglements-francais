@@ -8,4 +8,6 @@ Le sapeur-pompier volontaire victime d'un accident survenu ou atteint d'une mala
 
 3° A une allocation ou une rente en cas d'invalidité permanente.
 
-En outre, il ouvre droit pour ses ayants cause aux prestations prévues par la présente loi.
+En outre, il ouvre droit pour ses ayants cause aux prestations prévues par la présente loi ;
+
+4° Au bénéfice des emplois réservés en application de l'article L. 393 du code des pensions militaires d'invalidité et des victimes de la guerre.
