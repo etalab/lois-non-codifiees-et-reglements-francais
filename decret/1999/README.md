@@ -379,7 +379,6 @@
 - [Décret n°99-1044 du 14 décembre 1999 (MESF9911632D)](decret-n99-1044-du-14-decembre-1999-mesf9911632d)
 - [Décret n°99-1045 du 14 décembre 1999 (MESS9923696D)](decret-n99-1045-du-14-decembre-1999-mess9923696d)
 - [Décret n°99-1047 du 14 décembre 1999 (ECOF9900025D)](decret-n99-1047-du-14-decembre-1999-ecof9900025d)
-- [Décret n°99-1048 du 14 décembre 1999 (ECOI9900537D)](decret-n99-1048-du-14-decembre-1999-ecoi9900537d)
 - [Décret n°99-1050 du 14 décembre 1999 (JUSD9930178D)](decret-n99-1050-du-14-decembre-1999-jusd9930178d)
 - [Décret n°99-1052 du 14 décembre 1999 (ECOF9900023D)](decret-n99-1052-du-14-decembre-1999-ecof9900023d)
 - [Décret n°99-1067 du 14 décembre 1999 (INTM9900050D)](decret-n99-1067-du-14-decembre-1999-intm9900050d)
