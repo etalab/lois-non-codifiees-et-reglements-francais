@@ -199,6 +199,7 @@
 - [Arrêté du 16 janvier 1992 (MERR9200022A)](arrete-du-16-janvier-1992-merr9200022a)
 - [Arrêté du 16 janvier 1992 (SANH9200179A)](arrete-du-16-janvier-1992-sanh9200179a)
 - [Arrêté du 16 janvier 1992 (TEFT9204335A)](arrete-du-16-janvier-1992-teft9204335a)
+- [Arrêté du 16 mars 1992 (ECOC9200043A)](arrete-du-16-mars-1992-ecoc9200043a)
 - [Arrêté du 16 mars 1992 (INDM9200247A)](arrete-du-16-mars-1992-indm9200247a)
 - [Arrêté du 17 décembre 1987 (ENVP8700226A)](arrete-du-17-decembre-1987-envp8700226a)
 - [Arrêté du 17 décembre 1991 (DEFP9102366A)](arrete-du-17-decembre-1991-defp9102366a)
