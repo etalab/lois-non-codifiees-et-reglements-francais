@@ -22,7 +22,7 @@ II. - Pour l'aérogare CDG 2, limitation à trois prestataires pour chacun des s
 
 - déplacement de l'avion (catégorie 5.6).
 
-III. - Pour l'ensemble des terminaux A, B, D et F de l'aérogare CDG 2, limitation à deux prestataires pour l'assistance bagages (catégorie 3).
+III. - Pour l'ensemble des terminaux A, B, D et F de l'aérogare CDG 2, limitation à  trois prestataires pour l'assistance bagages (catégorie 3).
 
 IV. - Pour l'aérogare CDG 2, limitation à deux prestataires pour le transport  des passagers entre l'avion et l'aérogare (catégorie 5.4). En plus de ces deux  prestataires, Aéroports de Paris peut réaliser de tels transports au moyen de  véhicules à élévation de cabine, dits "aérobus".
 
