@@ -6,6 +6,7 @@
 - [Arrêté du 6 avril 1970](arrete-du-6-avril-1970)
 - [Arrêté du 14 novembre 1969](arrete-du-14-novembre-1969)
 - [Arrêté du 15 mars 1972](arrete-du-15-mars-1972)
+- [Arrêté du 18 avril 1966](arrete-du-18-avril-1966)
 - [Arrêté du 19 janvier 1966](arrete-du-19-janvier-1966)
 - [Arrêté du 22 mars 1966](arrete-du-22-mars-1966)
 - [Arrêté du 24 janvier 1966](arrete-du-24-janvier-1966)
