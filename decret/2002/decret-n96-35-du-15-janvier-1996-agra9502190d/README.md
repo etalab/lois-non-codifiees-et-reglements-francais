@@ -2,3 +2,4 @@
 
 - [TITRE Ier : DISPOSITIONS GÉNÉRALES.](titre-ier)
 - [TITRE II : RECRUTEMENT.](titre-ii)
+- [Article 10](article-10.md)

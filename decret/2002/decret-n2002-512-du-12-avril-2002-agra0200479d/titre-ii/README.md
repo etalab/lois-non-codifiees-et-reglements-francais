@@ -1,0 +1,3 @@
+# TITRE II : DISPOSITIONS TRANSITOIRES.
+
+- [Article 12](article-12.md)
