@@ -802,7 +802,6 @@
 - [Décret n°96-685 du 26 juillet 1996 (AGRS9601342D)](decret-n96-685-du-26-juillet-1996-agrs9601342d)
 - [Décret n°96-69 du 26 janvier 1996 (TASS9523421D)](decret-n96-69-du-26-janvier-1996-tass9523421d)
 - [Décret n°96-749 du 26 août 1996 (ECOT9620018D)](decret-n96-749-du-26-aout-1996-ecot9620018d)
-- [Décret n°96-848 du 26 septembre 1996 (ECOT9626164D)](decret-n96-848-du-26-septembre-1996-ecot9626164d)
 - [Décret n°96-856 du 26 septembre 1996 (TASH9622891D)](decret-n96-856-du-26-septembre-1996-tash9622891d)
 - [Décret n°96-859 du 26 septembre 1996 (EQUM9600802D)](decret-n96-859-du-26-septembre-1996-equm9600802d)
 - [Décret n°96-1022 du 27 novembre 1996 (ECOX9600130D)](decret-n96-1022-du-27-novembre-1996-ecox9600130d)
