@@ -291,6 +291,7 @@
 - [Arrêté du 19 janvier 1999 (ECOT9810361A)](arrete-du-19-janvier-1999-ecot9810361a)
 - [Arrêté du 19 janvier 1999 (ECOT9810362A)](arrete-du-19-janvier-1999-ecot9810362a)
 - [Arrêté du 19 janvier 1999 (MAEA9920042A)](arrete-du-19-janvier-1999-maea9920042a)
+- [Arrêté du 19 juillet 1999 (MESG9920757A)](arrete-du-19-juillet-1999-mesg9920757a)
 - [Arrêté du 19 mars 1999 (DEFP9901346A)](arrete-du-19-mars-1999-defp9901346a)
 - [Arrêté du 19 mars 1999 (EQUA9900268A)](arrete-du-19-mars-1999-equa9900268a)
 - [Arrêté du 19 mars 1999 (EQUA9900276A)](arrete-du-19-mars-1999-equa9900276a)
