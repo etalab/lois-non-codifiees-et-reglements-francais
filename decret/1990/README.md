@@ -382,6 +382,7 @@
 - [Décret n°93-413 du 15 mars 1993 (DEFP9202188D)](decret-n93-413-du-15-mars-1993-defp9202188d)
 - [Décret n°90-400 du 15 mai 1990 (JUSA9000072D)](decret-n90-400-du-15-mai-1990-jusa9000072d)
 - [Décret n°90-413 du 15 mai 1990 (PRME9061258D)](decret-n90-413-du-15-mai-1990-prme9061258d)
+- [Décret n°90-1025 du 16 novembre 1990 (AGRS9000855D)](decret-n90-1025-du-16-novembre-1990-agrs9000855d)
 - [Décret n°90-150 du 16 février 1990 (LOGC9000016D)](decret-n90-150-du-16-fevrier-1990-logc9000016d)
 - [Décret n°90-151 du 16 février 1990 (LOGC9000019D)](decret-n90-151-du-16-fevrier-1990-logc9000019d)
 - [Décret n°90-152 du 16 février 1990 (LOGC9000021D)](decret-n90-152-du-16-fevrier-1990-logc9000021d)
