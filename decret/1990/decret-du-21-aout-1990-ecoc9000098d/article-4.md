@@ -2,15 +2,11 @@
 
 1. Taille :
 
-La dénomination "vin destiné à l'élaboration de Crémant de Limoux" est réservée aux vins provenant de vignes taillées conformément aux dispositions suivantes :
+La dénomination "Vin destiné à l'élaboration de Crémant de Limoux" est réservée aux vins provenant de vignes taillées conformément aux dispositions suivantes :
 
-a) Pour les cépages mauzac et chenin :
+- soit une taille Guyot simple comportant une baguette à 8 yeux maximum plus 1 ou 2 coursons à 2 yeux francs ;
 
-Est autorisée soit une taille courte à six coursons à deux yeux francs, soit une taille à cinq coursons à deux yeux francs et un courson à quatre yeux francs maximum.
-
-b) Pour le cépage chardonnay :
-
-Est autorisée soit une taille guyot simple comportant une baguette à dix yeux maximum plus un ou deux coursons à deux yeux francs, soit une taille guyot double comportant deux baguettes à six yeux maximum plus deux coursons à deux yeux francs.
+- soit une taille courte à 6 coursons à 2 yeux francs.
 
 2. Densité de plantation :
 

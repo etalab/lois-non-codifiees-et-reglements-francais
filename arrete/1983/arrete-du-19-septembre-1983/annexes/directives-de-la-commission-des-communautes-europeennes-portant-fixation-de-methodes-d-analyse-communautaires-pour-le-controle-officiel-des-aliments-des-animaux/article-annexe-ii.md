@@ -122,9 +122,7 @@ matières grasses brutes
 
 olaquindox.
 
-Directive (C.E.) n° 98/88 C.E. du 13 novembre 1998 (Journal officiel des communautés européennes n° L. 318 du 27 novembre 1998)
-
-identification et estimation, par examen microscopique, des constituants d'origine animale.
+Directive 2003/126/CE de la Commission du 23 décembre 2003 (Journal officiel de l'Union européenne n° L 339 du 24 décembre 2003) relative à la méthode d'analyse applicable en matière d'identification des constituants d'origine animale pour le contrôle officiel des aliments pour animaux.
 
 Directive 1999/27/CE du 20 avril 1999 (Journal officiel des Communautés européennes n° L 118) :
 

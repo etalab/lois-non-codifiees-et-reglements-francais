@@ -1,9 +1,9 @@
 # Article 2
 
-La dénomination "Vin destiné à l'élaboration de blanquette de Limoux" ne peut être appliquée qu'à des vins produits dans l'aire de production délimitée à l'intérieur du territoire des communes suivantes :
+L'aire géographique de production des vins de base est constituée par le territoire des communes suivantes dans le département de l'Aude :
 
-Alet, Ajac, Antugnac, Bouriège, Campagne-sur-Aude, Cassaignes, Castelreng, Cépie, Conilhac-de-la-montagne, Couiza, Cournanel, Coustaussa, La Digne-d'Amont, La Digne-d'Aval, Espéraza, Fa, Festes-et-Saint-André, Gaja-et-Villedieu, Gardie, Ladern-sur-Lauquet, La Serpent, Limoux, Loupia, Luc-sur-Aude, Magrie, Malras, Montazels, Pauligne, Peyrolles, Pieusse, Pomas, Roquetaillade, Rouffiac-d'Aude, Saint-Couat-du-Razès, Saint-Hilaire, Saint-Polycarpe, Serres, Toureilles, Vendémies, Villar-Saint-Anselme, Villebazy et Villelongue-d'Aude.
+Ajac, Alet, Antugnac, Bouriège, Campagne-sur-Aude, Cassaignes, Castelreng, Cépie, Conilhac-de-la-Montagne, Couiza, Cournanel, Coustaussa, La Digne-d'Amont, La Digne-d'Aval, Espéraza, Fa, Festes-et-Saint-André, Gaja-et-Villedieu, Gardie, Ladern-sur-Lauquet, La Serpent, Limoux, Loupia, Luc-sur-Aude, Magrie, Malras, Montazels, Pauligne, Peyrolles, Pieusse, Pomas, Roquetaillade, Rouffiac-d'Aude, Saint-Couat-du-Razès, Saint-Hilaire, Saint-Polycarpe, Serres, Tourreilles, Vendémies, Villar-Saint-Anselme, Villebazy et Villelongue-d'Aude.
 
-Des experts désignés par le comité directeur de l'institut national des appellations d'origine des vins et eaux-de-vie délimitent l'aire de production ainsi désignée. Les plans établis par les experts sont, après mise à l'enquête et approbation du comité national de l'institut national des appellations d'origine, déposés à la mairie de chacune des communes intéressées.
+Les vins de base sont issus de raisins récoltés dans l'aire géographique sur une aire délimitée par parcelles ou parties de parcelle telle qu'elle a été approuvée par le comité national de l'Institut national des appellations d'origine lors de sa séance du 12 février 1992 sur proposition de la commission d'experts désignée à cet effet.
 
-Les plans déposés en application de l'article 1er du décret du 21 février 1959 modifié demeurent en vigueur tant que de nouveaux plans, établis en application de l'alinéa ci-dessus, n'auront pas été déposés en mairie.
+L'aire parcellaire ainsi délimitée est reportée sur les plans cadastraux déposés à la mairie des communes concernées.
