@@ -6,7 +6,7 @@ Si l'empêchement définitif d'un représentant titulaire ne résulte pas d'une 
 
 Si l'empêchement définitif d'un représentant suppléant ne résulte pas d'une démission, ou si sa démission a été remise à titre individuel pour cas de force majeure et acceptée par l'exploitant public, il est remplacé par le premier candidat non élu de la même liste.
 
-Lorsqu'une liste se trouve dans l'impossibilité de pourvoir, dans les conditions prévues aux deux alinéas précédents, aux sièges de membres titulaires ou de membres suppléants auxquels elle a droit dans un grade, il est procédé au renouvellement général de la commission.
+Lorsqu'une liste se trouve dans l'impossibilité de pourvoir dans les conditions prévues aux deux alinéas précédents aux sièges de membres titulaires ou de membres suppléants auxquels elle a droit dans un grade, il est procédé à un renouvellement général de la commission pour la durée du mandat restant à courir.
 
 En cas de démission de représentants du personnel pour d'autres causes que celles de force majeure, les sièges laissés vacants par des titulaires sont attribués à leurs suppléants ou, si ces derniers ont également démissionné, selon la procédure prévue au dernier alinéa du b de l'article 21 ; les sièges laissés vacants par des suppléants nommés titulaires ou ayant démissionné sont attribués selon la même procédure.
 
