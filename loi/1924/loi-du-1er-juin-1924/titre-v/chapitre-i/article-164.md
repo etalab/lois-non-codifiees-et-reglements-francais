@@ -1,0 +1,3 @@
+# Article 164
+
+A partir de la notification de l'ordonnance d'exécution forcée, le débiteur et le tiers détenteur sont considérés comme séquestres judiciaires des immeubles saisis. Toutefois, le tribunal d'exécution peut, à la requête d'un intéressé, commettre un tiers pour l'administration générale ou pour la perception des revenus et fruits des immeubles. Il peut également faire défense aux locataires et fermiers de payer au débiteur ou au tiers détenteur. Sitôt que l'une ou l'autre décision aura été notifiée aux locataires ou fermiers, ceux-ci ne peuvent plus se libérer qu'en payant à l'administrateur, aux créanciers désignés par lui, ou à la caisse des consignations.

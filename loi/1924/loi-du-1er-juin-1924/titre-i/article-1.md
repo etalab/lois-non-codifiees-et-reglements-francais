@@ -58,7 +58,7 @@ La loi du 3 juillet 1861 sur les ventes publiques de marchandises en gros autori
 
 La loi du 31 août 1870 concernant les marchandises déposées dans les magasins généraux ;
 
-La loi du 30 décembre 1906 sur les ventes au déballage ;
+La loi du 30 décembre 1906 sur les ventes au déballage (1) ;
 
 i) En matière d'effets de commerce et de titres négociables ;
 
@@ -104,7 +104,7 @@ La loi du 4 mars 1889 sur la liquidation judiciaire ;
 
 Les lois des 30 décembre 1903 (art. 1er, 3 et 5), 23 mars 1908 (art. 3), 5 août 1916 sur la réhabilitation ;
 
-La loi du 28 avril 1916 appliquant l'article 463 du code pénal à l'infraction prévue à l'article 597 du code de commerce ;
+La loi du 28 avril 1916 pour l'infraction prévue à l'article 597 du code de commerce ;
 
 m) Les conventions internationales passées entre la France et les pays étrangers sur les matières visées par les lois ci-dessus énumérées, en tant qu'elles ont été légalement mises en vigueur.
 
@@ -128,6 +128,6 @@ Ne sont pas mis en vigueur :
 
 2° L'article 91 de la loi de finances du 28 avril 1816 relatif au droit de présentation des officiers ministériels et de leurs héritiers ou ayants cause ;
 
-3° La loi du 28 avril 1816, article 89, et la loi du 18 juin 1843 sur les commissaires-priseurs. Les fonctions attribuées aux commissaires-priseurs par les lois françaises seront exercées par les huissiers ou les notaires ;
+3° La loi du 28 avril 1816, article 89, et la loi du 18 juin 1843 sur les commissaires-priseurs. Les fonctions attribuées aux commissaires-priseurs judiciaires par les lois françaises seront exercées par les huissiers ou les notaires ;
 
 4° Les dispositions visées à l'article 2 de la loi portant introduction de la législation civile française dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, en tant qu'elles concernent les matières commerciales.
