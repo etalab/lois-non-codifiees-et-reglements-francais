@@ -23,6 +23,7 @@
 - [Arrêté du 4 janvier 1983](arrete-du-4-janvier-1983)
 - [Arrêté du 4 mars 1983](arrete-du-4-mars-1983)
 - [Arrêté du 4 novembre 1982](arrete-du-4-novembre-1982)
+- [Arrêté du 4 novembre 1983](arrete-du-4-novembre-1983)
 - [Arrêté du 4 mai 1983](arrete-du-4-mai-1983)
 - [Arrêté du 5 août 1983](arrete-du-5-aout-1983)
 - [Arrêté du 5 juillet 1983](arrete-du-5-juillet-1983)
