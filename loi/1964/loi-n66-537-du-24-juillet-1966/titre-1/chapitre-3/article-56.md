@@ -2,7 +2,7 @@
 
 Le rapport de gestion, l'inventaire et les comptes annuels établis par les gérants, sont soumis à l'approbation des associés réunis en assemblée [*attributions*], dans le délai de six mois à compter de la clôture de l'exercice.
 
-A cette fin, les documents visés à l'alinéa précédent, ainsi que le texte des résolutions proposées et, le cas échéant, le rapport des commissaires aux comptes, sont communiqués aux associés dans les conditions et délais déterminés par décret [*information*].
+A cette fin, les documents visés à l'alinéa précédent, le texte des résolutions proposées ainsi que le cas échéant, le rapport des commissaires aux comptes,les comptes consolidés et le rapport sur la gestion du groupe sont communiqués aux associés dans les conditions et délais déterminés par décret [*information*].
 
 Toute délibération, prise en violation des dispositions du présent alinéa et du décret pris pour son application, peut être annulée [*sanctions*].
 
