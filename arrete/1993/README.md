@@ -332,7 +332,6 @@
 - [Arrêté du 11 mars 1993 (MERG9300043A)](arrete-du-11-mars-1993-merg9300043a)
 - [Arrêté du 11 mars 1993 (MERR9300048A)](arrete-du-11-mars-1993-merr9300048a)
 - [Arrêté du 11 mars 1993 (TEFF9300338A)](arrete-du-11-mars-1993-teff9300338a)
-- [Arrêté du 11 octobre 1993 (DEFD9302069A)](arrete-du-11-octobre-1993-defd9302069a)
 - [Arrêté du 11 octobre 1993 (MCCK9300310A)](arrete-du-11-octobre-1993-mcck9300310a)
 - [Arrêté du 11 mai 1993 (BUDR9305015A)](arrete-du-11-mai-1993-budr9305015a)
 - [Arrêté du 11 mai 1993 (ECOC9300079A)](arrete-du-11-mai-1993-ecoc9300079a)
