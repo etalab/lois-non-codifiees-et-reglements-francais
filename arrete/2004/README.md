@@ -484,7 +484,6 @@
 - [Arrêté du 31 décembre 2003 (SANH0420068A)](arrete-du-31-decembre-2003-sanh0420068a)
 - [Arrêté du 31 décembre 2003 (SANP0420086A)](arrete-du-31-decembre-2003-sanp0420086a)
 - [Arrêté du 31 décembre 2003 (SANS0324995A)](arrete-du-31-decembre-2003-sans0324995a)
-- [Arrêté du 31 décembre 2003 (SOCF0312023A)](arrete-du-31-decembre-2003-socf0312023a)
 - [Arrêté du 31 décembre 2003 (SOCF0312110A)](arrete-du-31-decembre-2003-socf0312110a)
 - [Arrêté du 31 mars 2005 (PRMX0407778A)](arrete-du-31-mars-2005-prmx0407778a)
 - [Arrêté du 31 octobre 2003 (SOCS0324335A)](arrete-du-31-octobre-2003-socs0324335a)
