@@ -92,6 +92,8 @@
 - [Décret n°98-84 du 16 février 1998 (ECOT9891078D)](decret-n98-84-du-16-fevrier-1998-ecot9891078d)
 - [Décret n°98-85 du 16 février 1998 (ECOF9810010D)](decret-n98-85-du-16-fevrier-1998-ecof9810010d)
 - [Décret n°98-86 du 16 février 1998 (DEFP9801031D)](decret-n98-86-du-16-fevrier-1998-defp9801031d)
+- [Décret n°98-98 du 16 février 1998 (MAEJ9830007D)](decret-n98-98-du-16-fevrier-1998-maej9830007d)
+- [Décret n°98-99 du 16 février 1998 (DEFP9801101D)](decret-n98-99-du-16-fevrier-1998-defp9801101d)
 - [Décret du 17 février 1998 (ECOC9700223D)](decret-du-17-fevrier-1998-ecoc9700223d)
 - [Décret du 17 février 1998 (ECOC9700224D)](decret-du-17-fevrier-1998-ecoc9700224d)
 - [Décret n°87-554 du 17 juillet 1987 (INTX8700074D)](decret-n87-554-du-17-juillet-1987-intx8700074d)
