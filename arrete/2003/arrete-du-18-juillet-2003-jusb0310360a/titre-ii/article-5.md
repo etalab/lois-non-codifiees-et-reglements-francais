@@ -98,7 +98,7 @@ La classification des infractions.
 
 La tentative, la complicité, le concours d'infractions, le non-cumul des peines.
 
-Les faits justificatifs, les excuses, les circonstances atténuantes.
+Les faits justificatifs.
 
 Les circonstances aggravantes.
 

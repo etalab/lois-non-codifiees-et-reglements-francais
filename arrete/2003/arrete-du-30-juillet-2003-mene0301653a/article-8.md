@@ -1,0 +1,3 @@
+# Article 8
+
+Les correspondances entre les épreuves et unités des baccalauréats professionnels " conduite et gestion de l'exploitation agricole ", " productions horticoles ", " travaux paysagers ", " agroéquipement ", " technicien conseil-vente en animalerie ", " productions aquacoles ", " conduite et gestion de l'élevage canin et félin ", " gestion et conduite de chantiers forestiers ", " technicien conseil-vente en produits horticoles et de jardinage ", " technicien vente et conseil-qualité en produits alimentaires " et le baccalauréat professionnel " technicien vente et conseil-qualité en vins et spiritueux " régi par le présent arrêté sont fixées à l'annexe IV du présent arrêté.

@@ -1,10 +1,10 @@
 # Article 3
 
-Décisions et avis de l'autorité compétente :
+Décisions et avis de l'autorité compétente.
 
 1. Lorsque le présent arrêté ou son annexe requiert une décision de l'autorité compétente française ou la délivrance d'un certificat par cette autorité, cette autorité compétente est le ministre chargé des transports, sauf pour les transports de matières radioactives et fissiles à usage civil, pour lesquels le ministre chargé de l'industrie et le ministre chargé de l'environnement exercent conjointement les attributions de l'autorité compétente.
 
-2. Pour ce qui concerne les transports nationaux et les transports internationaux ayant leur origine en France, lorsque l'annexe au présent arrêté requiert une décision de l'autorité compétente ou la délivrance d'un certificat par cette autorité, le ministre chargé des transports est compétent, à l'exclusion des transports de matières radioactives et fissiles à usage civil pour lesquels le ministre chargé de l'industrie et le ministre chargé de l'écologie et du développement durable exercent conjointement les attributions de l'autorité compétente.
+2. Pour ce qui concerne les transports nationaux et les transports internationaux ayant leur origine en France, lorsque l'annexe au présent arrêté requiert une décision de l'autorité compétente ou la délivrance d'un certificat par cette autorité, le ministre chargé des transports est compétent, à l'exclusion des transports de matières radioactives et fissiles à usage civil, pour lesquels le ministre chargé de l'industrie et le ministre chargé de l'écologie et du développement durable exercent conjointement les attributions de l'autorité compétente.
 
 3. Les dispositions relatives à la notification des transports des matières dangereuses de la classe 7 mentionnées au 5.1.5.2.4 s'appliquent selon les modalités définies à l'article 12 du présent arrêté.
 
@@ -14,15 +14,17 @@ Décisions et avis de l'autorité compétente :
 
 - les certificats de classification (9.1.0.88, 9.2.0.88, 9.3.1.8, 9.3.2.8, 9.3.3.8) ;
 
-- jusqu'au 31 décembre 2003, les certificats d'agréments de modèles de colis de type B(U)-85 ne transportant pas de matières radioactives faiblement dispersables ou de matières fissiles, mentionnés au 1.6.6.2.2 de l'ADR ;
+- les certificats d'agrément de modèles de colis de type B(U)-85 ne transportant pas de matières radioactives faiblement dispersables ou de matières fissiles, mentionnés au 1.6.6.2 de l'ADR (jusqu'au 31 décembre 2003) ;
 
-- les certificats d'agréments de modèles de colis de type B(U)-96 ne transportant pas de matières radioactives faiblement dispersables ou de matières fissiles, mentionnés au 6.4.23.4 de l'ADR ;
+- les certificats d'agrément de modèles de colis de type B(U)-96 ne transportant pas de matières radioactives faiblement dispersables ou de matières fissiles, mentionnés au 6.4.22.2 de l'ADR ;
 
-- les certificats d'agréments de modèles de colis de type C-96 ne transportant pas de matières fissiles, mentionnés au 6.4.23.4 de l'ADR ;
+- les certificats d'agrément de modèles de colis de type C-96 ne transportant pas de matières fissiles, mentionnés au 6.4.22.2 de l'ADR ;
 
-- les certificats d'agréments de matières radioactives sous forme spéciale, mentionnés aux 1.6.6.3 et 6.4.23.8 de l'ADR ;
+- les certificats d'agrément de matières radioactives sous forme spéciale, mentionnés au 6.4.22.5 de l'ADR ;
 
-- les attestations de formation pour le transport des marchandises dangereuses reprises 8.2.2.8 ;
+- les certificats d'agrément des modèles de colis contenant 0,1 kg ou plus d'hexafluorure d'uranium, mentionnés au 6.4.22.1.b de l'ADR (après le 31 décembre 2003) ;
+
+- les attestations de formation pour le transport des marchandises dangereuses reprises au 8.2.2.8 ;
 
 - les fiches de contrôle valables des extincteurs, des flexibles et des systèmes d'assèchement ;
 
