@@ -1,0 +1,71 @@
+# Article Annexe 7
+
+EMPLOI                  Adjoint technique chef.
+
+Durée d'ancienneté dans chaque échelon. :============================================================:
+
+<table>
+<tr>
+<td> :    ECHELONS    :    DUREE MAXIMUM    :    DUREE MINIMUM    :</td>
+</tr>
+<tr>
+<td> :----------------:---------------------:---------------------:</td>
+</tr>
+<tr>
+<td> : 1er échelon    :    2 ans            :    1 an 6 mois.     :</td>
+</tr>
+<tr>
+<td> :                :                     :                     :</td>
+</tr>
+<tr>
+<td> : 2ème échelon   :    2 ans            :    1 an 6 mois.     :</td>
+</tr>
+<tr>
+<td> :                :                     :                     :</td>
+</tr>
+<tr>
+<td> : 3ème échelon   :    3 ans            :    2 ans 3 mois.    :</td>
+</tr>
+<tr>
+<td> :                :                     :                     :</td>
+</tr>
+<tr>
+<td> : 4ème échelon   :    3 ans            :    2 ans 3 mois.    :</td>
+</tr>
+<tr>
+<td> :                :                     :                     :</td>
+</tr>
+<tr>
+<td> : 5ème échelon   :    3 ans            :    2 ans 3 mois.    :</td>
+</tr>
+<tr>
+<td> :                :                     :                     :</td>
+</tr>
+<tr>
+<td> : 6ème échelon   :    3 ans            :    2 ans 3 mois.    :</td>
+</tr>
+<tr>
+<td> :                :                     :                     :</td>
+</tr>
+<tr>
+<td> : 7ème échelon   :    4 ans            :    3 ans.           :</td>
+</tr>
+<tr>
+<td> :                :                     :                     :</td>
+</tr>
+<tr>
+<td> : 8ème échelon   :                     :                     :</td>
+</tr>
+<tr>
+<td> :                :  ---------------    :  -----------------  :</td>
+</tr>
+<tr>
+<td> :                :                     :                     :</td>
+</tr>
+<tr>
+<td> :      TOTAL     :   20 ans            :   15 ans.           :</td>
+</tr>
+<tr>
+<td> :============================================================:</td>
+</tr>
+</table>
