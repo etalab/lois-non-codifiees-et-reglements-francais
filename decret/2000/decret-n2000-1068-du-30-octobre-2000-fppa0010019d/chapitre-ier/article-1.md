@@ -1,6 +1,6 @@
 # Article 1
 
-Les épreuves d'admissibilité du concours externe et du concours interne de recrutement pour l'accès au cadre d'emplois des adjoints administratifs territoriaux comprennent :
+Les épreuves d'admissibilité du concours externe, du concours interne et du troisième concours de recrutement pour l'accès au cadre d'emplois des adjoints administratifs territoriaux comprennent :
 
 1° Une épreuve de français comportant :
 
