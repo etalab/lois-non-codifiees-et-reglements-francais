@@ -1,3 +1,3 @@
 # Article 7
 
-Le présent décret entrera en vigueur le premier jour du cinquième mois suivant la date de sa publication en ce qui concerne les moteurs relevant de la rubrique 85-01-330, et le premier jour du septième mois suivant cette date en ce qui concerne les autres moteurs.
+Les dispositions du présent décret ne sont applicables qu'aux moteurs électriques polyphasés et à leurs pièces constitutives visés respectivement aux articles 1er et 3 dudit décret, importés d'un Etat n'appartenant pas à la Communauté économique européenne.
