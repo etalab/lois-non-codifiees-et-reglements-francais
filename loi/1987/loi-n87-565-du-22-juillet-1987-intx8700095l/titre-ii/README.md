@@ -1,3 +1,0 @@
-# TITRE II : PROTECTION DE LA FORET CONTRE L'INCENDIE ET PREVENTION DES RISQUES MAJEURS
-
-- [CHAPITRE III : Défense de la forêt contre l'incendie.](chapitre-iii)

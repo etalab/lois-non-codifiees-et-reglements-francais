@@ -4,4 +4,4 @@ Lorsque l'accident s'est produit ou que la maladie a été contractée à l'occa
 
 1° Au service départemental d'incendie et de secours du département dans lequel a eu lieu l'opération ;
 
-2° A l'Etat si l'opération a été effectuée sur le territoire d'un Etat étranger, à la demande du Gouvernement dans les conditions prévues au quatrième alinéa de l'article 13 de la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection de la forêt contre l'incendie et à la prévention des risques majeurs.
+2° A l'Etat si l'opération a été effectuée sur le territoire d'un Etat étranger, à la demande du Gouvernement dans les conditions prévues au dernier alinéa de l'article 27 de la loi n° 2004-811 du 13 août 2004 de modernisation de la sécurité civile.

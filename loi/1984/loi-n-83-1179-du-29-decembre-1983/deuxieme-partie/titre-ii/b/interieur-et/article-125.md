@@ -12,11 +12,13 @@ Ces dispositions prennent effet au 1er janvier 1983, dans des conditions fixées
 
 III. Les sapeurs-pompiers professionnels de tous grades des services d'incendie et de secours, bénéficient à compter de l'âge de cinquante-cinq ans et sous certaines conditions, notamment d'une durée minimale de service susceptible d'être prise en compte dans la constitution de leurs droits à pension du régime de retraite des agents des collectivités locales et d'une durée de quinze ans de service effectif en qualité de sapeur-pompier professionnel, d'une bonification du temps du service accompli pour la liquidation de leur pension de retraite dans la limite de cinq annuités.
 
-Cet avantage est également accordé aux sapeurs-pompiers professionnels radiés des cadres pour invalidité imputable au service ainsi qu'aux sapeurs-pompiers professionnels reclassés pour difficulté opérationnelle et aux sapeurs-pompiers professionnels admis au bénéfice d'un congé pour difficulté opérationnelle.
+Cet avantage est également accordé aux sapeurs-pompiers professionnels radiés des cadres pour invalidité imputable au service ainsi qu'aux sapeurs-pompiers professionnels reclassés pour raison opérationnelle et aux sapeurs-pompiers professionnels admis au bénéfice d'un congé pour raison opérationnelle.
 
-Les années de service effectuées dans le cadre du reclassement ou du congé pour difficulté opérationnelle mentionnées à l'alinéa précédent n'ouvrent pas droit à la bonification.
+Cet avantage est en outre accordé, sous réserve de l'application du 1° de l'article L. 4 du code des pensions civiles et militaires de retraite, aux anciens sapeurs-pompiers professionnels ayant perdu cette qualité à la suite d'un accident de service ou d'une maladie professionnelle, lorsqu'ils font valoir leurs droits à retraite. Dans ce cas, il n'est pas fait application des conditions de durée minimale de service et de durée de service effectif en qualité de sapeur-pompier professionnel mentionnées au premier alinéa.
 
-Les années passées en congé pour difficulté opérationnelle sont prises en compte au titre de la durée minimale de service ouvrant droit au bénéfice de la bonification.
+Les années de service effectuées dans le cadre du reclassement ou du congé pour raison opérationnelle mentionnées à l'alinéa précédent n'ouvrent pas droit à la bonification.
+
+Les années passées en congé pour raison opérationnelle sont prises en compte au titre de la durée minimale de service ouvrant droit au bénéfice de la bonification.
 
 Cette bonification ne peut avoir pour effet de porter à plus de trente-sept annuités et demie la durée des services effectifs pris en compte dans la pension, sans préjudice des dispositions communes relatives aux bonifications de service sous un plafond global de quarante annuités.
 

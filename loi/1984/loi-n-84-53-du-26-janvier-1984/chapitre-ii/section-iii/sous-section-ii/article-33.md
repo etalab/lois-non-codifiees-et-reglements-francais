@@ -1,6 +1,6 @@
 # Article 33
 
-Les comités techniques paritaires sont consultés pour avis sur les questions relatives [*attributions*] :
+Les comités techniques paritaires sont consultés pour avis sur les questions relatives :
 
 1° A l'organisation des administrations intéressées ;
 
@@ -14,6 +14,8 @@ Les comités techniques paritaires sont consultés pour avis sur les questions r
 
 Si l'importance des effectifs et la nature des risques professionnels le justifient, des comités d'hygiène et de sécurité locaux ou spéciaux sont créés par décision de l'organe délibérant des collectivités ou établissements. Ils peuvent également être créés si l'une de ces conditions est réalisée.
 
-" L'autorité territoriale présente au moins tous les deux ans au comité technique paritaire un rapport sur l'état de la collectivité, de l'établissement ou du service auprès duquel il a été créé. Ce rapport indique les moyens budgétaires et en personnel dont dispose cette collectivité, cet établissement ou ce service. Il dresse notamment le bilan des recrutements et des avancements, des actions de formation et des demandes de travail à temps partiel. La présentation de ce rapport donne lieu à un débat. "
+En application des dispositions de l'article 67 de la loi n° 2004-811 du 13 août 2004 de modernisation de la sécurité civile, un comité d'hygiène et de sécurité est créé dans chaque service départemental d'incendie et de secours par décision de l'organe délibérant, sans condition d'effectifs.
+
+L'autorité territoriale présente au moins tous les deux ans au comité technique paritaire un rapport sur l'état de la collectivité, de l'établissement ou du service auprès duquel il a été créé. Ce rapport indique les moyens budgétaires et en personnel dont dispose cette collectivité, cet établissement ou ce service. Il dresse notamment le bilan des recrutements et des avancements, des actions de formation et des demandes de travail à temps partiel. La présentation de ce rapport donne lieu à un débat.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
