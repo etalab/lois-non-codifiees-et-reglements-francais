@@ -1,3 +1,0 @@
-# Article 174-18
-
-Le montant des options de souscription ou d'achat d'actions ouvertes à un même salarié ne peut excéder à la date à laquelle les options sont consenties et compte tenu le cas échéant des options dont il bénéficiait déjà, ni le double du salaire annuel qui peut être évalué soit d'après le salaire de l'année civile écoulée tel qu'il est déclaré à l'administration fiscale, soit d'après la rémunération minimale prévue à cette date par le contrat de travail, ni dix fois le montant du plafond retenu pour la détermination du montant maximum des cotisations de sécurité sociale et d'allocations familiales.

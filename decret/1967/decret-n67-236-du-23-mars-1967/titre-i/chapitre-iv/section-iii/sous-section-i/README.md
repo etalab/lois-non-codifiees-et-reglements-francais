@@ -5,7 +5,6 @@
 - [Article 79](article-79.md)
 - [Article 80](article-80.md)
 - [Article 81](article-81.md)
-- [Article 82](article-82.md)
 - [Article 83](article-83.md)
 - [Article 83-1](article-83-1.md)
 - [Article 84](article-84.md)
@@ -19,4 +18,3 @@
 - [Article 92](article-92.md)
 - [Article 93](article-93.md)
 - [Article 94](article-94.md)
-- [Article 95](article-95.md)
