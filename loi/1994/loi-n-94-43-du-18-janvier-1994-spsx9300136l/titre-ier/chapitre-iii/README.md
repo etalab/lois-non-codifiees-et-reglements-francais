@@ -3,3 +3,4 @@
 - [Section 1 : Publicité pour les médicaments et certains produits à usage humain.](section-1)
 - [Section 2 : Médicaments homéopathiques à usage humain.](section-2)
 - [Section 3 : Exercice de la profession de pharmacien.](section-3)
+- [Article 14](article-14.md)

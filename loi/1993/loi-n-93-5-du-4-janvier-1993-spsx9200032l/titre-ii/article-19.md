@@ -1,6 +1,6 @@
 # Article 19
 
-Pour l'exécution de l'enregistrement et du contrôle de qualité des réactifs destinés aux analyses de biologie médicale et des réactifs mentionnés au 2° de l'article L. 512 du code de la santé publique, il est institué une redevance au profit de l'Agence du médicament.
+Pour l'exécution de l'enregistrement et du contrôle de qualité des réactifs destinés aux analyses de biologie médicale et des réactifs mentionnés au 2° de l'article L. 512 du code de la santé publique, il est institué une redevance au profit de l'Agence française de sécurité sanitaire des produits de santé.
 
 Cette redevance est due par tout fabricant ou importateur de réactifs de laboratoire destinés aux analyses de biologie médicale et des réactifs mentionnés au 2° de l'article L. 512 du code de la santé publique lors du dépôt du dossier, soit dans le cadre d'une demande initiale, soit dans le cadre d'une modification ou d'un renouvellement.
 

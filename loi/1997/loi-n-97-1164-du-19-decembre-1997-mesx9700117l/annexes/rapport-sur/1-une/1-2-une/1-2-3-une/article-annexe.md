@@ -1,6 +1,6 @@
 # Article Annexe
 
-Après la réforme de l'organisation sanitaire en 1992 et au début de l'année 1993 - qui a vu notamment la création du Réseau national de santé publique, de l'Agence du médicament et de l'Agence française du sang -, le Gouvernement souhaite franchir une nouvelle étape pour tenir compte de l'évolution de notre système de santé et pour que l'Etat s'organise afin de conduire une politique active de prévention du risque.
+Après la réforme de l'organisation sanitaire en 1992 et au début de l'année 1993 - qui a vu notamment la création du Réseau national de santé publique, de l'Agence française de sécurité sanitaire des produits de santé et de l'Agence française du sang -, le Gouvernement souhaite franchir une nouvelle étape pour tenir compte de l'évolution de notre système de santé et pour que l'Etat s'organise afin de conduire une politique active de prévention du risque.
 
 Le renforcement de la veille et de la sécurité sanitaire passe d'abord par la mise en place de trois institutions nouvelles :
 
