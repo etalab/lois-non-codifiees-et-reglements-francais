@@ -928,7 +928,6 @@
 - [Décret n°95-223 du 24 février 1995 (JUSC9520062D)](decret-n95-223-du-24-fevrier-1995-jusc9520062d)
 - [Décret n°95-226 du 24 février 1995 (EQUA9500190D)](decret-n95-226-du-24-fevrier-1995-equa9500190d)
 - [Décret n°95-338 du 24 mars 1995 (BUDR9401228D)](decret-n95-338-du-24-mars-1995-budr9401228d)
-- [Décret n°95-442 du 24 avril 1995 (SPSS9500982D)](decret-n95-442-du-24-avril-1995-spss9500982d)
 - [Décret n°95-446 du 24 avril 1995 (SPSS9500878D)](decret-n95-446-du-24-avril-1995-spss9500878d)
 - [Décret n°95-448 du 24 avril 1995 (BUDF9500005D)](decret-n95-448-du-24-avril-1995-budf9500005d)
 - [Décret n°95-469 du 24 avril 1995 (INTB9500093D)](decret-n95-469-du-24-avril-1995-intb9500093d)
