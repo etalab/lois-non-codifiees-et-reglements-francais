@@ -2,7 +2,7 @@
 
 Les élèves professeurs techniques adjoints sont recrutés :
 
-Soit au concours parmi les candidats âgés de dix-huit ans au moins et de trente ans au plus justifiant du brevet de technicien agricole ou de titres ou diplômes jugés équivalents et figurant sur une liste fixée par arrêté conjoint du ministre de l'agriculture et du ministre chargé de la fonction publique;
+Soit au concours parmi les candidats âgés de dix-huit ans au moins et de quarante ans au plus justifiant du brevet de technicien agricole ou de titres ou diplômes jugés équivalents et figurant sur une liste fixée par arrêté conjoint du ministre de l'agriculture et du ministre chargé de la fonction publique;
 
 Soit sur épreuves de sélection professionnelle parmi les fonctionnaires âgés de moins de quarante-cinq ans appartenant à l'un des corps du personnel enseignant des collèges d'enseignement agricole.
 
