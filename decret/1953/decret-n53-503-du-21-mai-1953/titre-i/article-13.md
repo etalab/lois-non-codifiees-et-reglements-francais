@@ -1,0 +1,5 @@
+# Article 13
+
+En vue de s'assurer de la régularité du fonctionnement des institutions de prévoyance, le ministre de l'agriculture peut faire procéder à toutes vérifications sur pièces et sur place. Un arrêté concerté du ministre de l'agriculture, et du ministre de l'économie et des finances pourra fixer les conditions dans lesquelles lesdites institutions seront soumises au contrôle de l'inspection générale des finances, des trésoriers-payeurs généraux, des receveurs particuliers des finances et, à Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, du receveur central des finances de la Seine.
+
+Les institutions de prévoyance sont tenues de fournir au ministre de l'agriculture, dans les six premiers mois de chaque année, un état des recettes et des dépenses effectuées au cours de l'année précédente, un état de la situation financière au 31 décembre de ladite année et, le cas échéant, tous états permettant d'apprécier l'équilibre des charges assumées et des ressources correspondantes. Ces états sont conformes aux modèles fixés par arrêtés du ministre de l'agriculture.
