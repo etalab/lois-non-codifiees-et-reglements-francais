@@ -1,0 +1,3 @@
+# Article 29
+
+Les directeurs d'études de l'Ecole des hautes études en sciences sociales et de l'Ecole pratique des hautes études, en activité ou maintenus en fonctions en application de la loi n° 86-1304 du 23 décembre 1986 relative à la limite d'âge et aux modalités de recrutement de certains fonctionnaires civils de l'Etat, à la date du 28 septembre 1989, peuvent bénéficier de promotions dans les différents grades des corps de directeurs d'études régis par les décrets n° 89-709 et n° 89-710 du 28 septembre 1989, à compter du 30 décembre 1988, dès lors qu'ils remplissaient à cette dernière date les conditions d'ancienneté requises.
