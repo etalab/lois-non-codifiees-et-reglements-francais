@@ -941,7 +941,6 @@
 - [Arrêté du 26 mai 1997 (MAEA9720289A)](arrete-du-26-mai-1997-maea9720289a)
 - [Arrêté du 26 mai 1997 (MCCK9700301A)](arrete-du-26-mai-1997-mcck9700301a)
 - [Arrêté du 26 mai 1997 (MENL9701495A)](arrete-du-26-mai-1997-menl9701495a)
-- [Arrêté du 26 mai 1997 (MIPP9700117A)](arrete-du-26-mai-1997-mipp9700117a)
 - [Arrêté du 26 mai 1997 (TASO9710629A)](arrete-du-26-mai-1997-taso9710629a)
 - [Arrêté du 27 août 1997 (ECOD9750006A)](arrete-du-27-aout-1997-ecod9750006a)
 - [Arrêté du 27 décembre 1996 (AGRS9602778A)](arrete-du-27-decembre-1996-agrs9602778a)
