@@ -22,7 +22,7 @@ e) De concourir à la modernisation des théâtres cinématographiques ;
 
 f) De concourir à l'effort consenti par les exploitants de salles d'art et d'essai pour une programmation de qualité ;
 
-g) D'accorder des primes d'encouragement à l'animation des petites et moyennes salles de spectacles cinématographiques.
+g)D'accorder des primes d'encouragement à l'animation et à la diffusion cinématographiques.
 
 III - A accorder un soutien à la production française de qualité ainsi qu'à la création et à la modernisation de théâtres cinématographiques implantés dans les zones géographiques dont les agglomérations sont insuffisamment équipées en salles de spectacles cinématographiques.
 
