@@ -80,7 +80,6 @@
 - [Décret n°70-79 du 27 janvier 1970](decret-n70-79-du-27-janvier-1970)
 - [Décret n°70-982 du 27 octobre 1970](decret-n70-982-du-27-octobre-1970)
 - [Décret n° 70-839 du 28 août 1970](decret-n-70-839-du-28-aout-1970)
-- [Décret n°69-825 du 28 août 1969](decret-n69-825-du-28-aout-1969)
 - [Décret n° 70-107 du 29 janvier 1970](decret-n-70-107-du-29-janvier-1970)
 - [Décret n° 70-878 du 29 septembre 1970](decret-n-70-878-du-29-septembre-1970)
 - [Décret n° 70-104 du 30 janvier 1970](decret-n-70-104-du-30-janvier-1970)
