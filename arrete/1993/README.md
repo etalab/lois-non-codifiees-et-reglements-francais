@@ -539,6 +539,7 @@
 - [Arrêté du 23 février 1993 (SPSS9300550A)](arrete-du-23-fevrier-1993-spss9300550a)
 - [Arrêté du 23 février 1993 (SPSS9300551A)](arrete-du-23-fevrier-1993-spss9300551a)
 - [Arrêté du 23 juin 1993 (ECOT9310182A)](arrete-du-23-juin-1993-ecot9310182a)
+- [Arrêté du 23 juin 1993 (MENF9305388A)](arrete-du-23-juin-1993-menf9305388a)
 - [Arrêté du 23 juin 1993 (SPSS9301746A)](arrete-du-23-juin-1993-spss9301746a)
 - [Arrêté du 23 mars 1993 (AGRG9300435A)](arrete-du-23-mars-1993-agrg9300435a)
 - [Arrêté du 23 mars 1993 (DEFM9301385A)](arrete-du-23-mars-1993-defm9301385a)
