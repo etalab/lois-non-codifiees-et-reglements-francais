@@ -91,6 +91,7 @@
 - [Décret n°90-80 du 22 janvier 1990 (AGRS9000039D)](decret-n90-80-du-22-janvier-1990-agrs9000039d)
 - [Décret n°90-82 du 22 janvier 1990 (PRMX8900173D)](decret-n90-82-du-22-janvier-1990-prmx8900173d)
 - [Décret n°90-88 du 23 janvier 1990 (BUDF8900012D)](decret-n90-88-du-23-janvier-1990-budf8900012d)
+- [Décret n°90-98 du 23 janvier 1990 (MENN8902170D)](decret-n90-98-du-23-janvier-1990-menn8902170d)
 - [Décret n°91-704 du 23 juillet 1991 (INTC9100270D)](decret-n91-704-du-23-juillet-1991-intc9100270d)
 - [Décret n°91-705 du 23 juillet 1991 (INTC9100272D)](decret-n91-705-du-23-juillet-1991-intc9100272d)
 - [Décret n°90-92 du 24 janvier 1990 (MENN8902941D)](decret-n90-92-du-24-janvier-1990-menn8902941d)
