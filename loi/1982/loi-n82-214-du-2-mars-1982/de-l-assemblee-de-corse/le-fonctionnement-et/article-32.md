@@ -1,6 +1,6 @@
 # Article 32
 
-Le bureau est composé du président, de quatre à dix vice-présidents [*nombre*] et éventuellement d'un ou plusieurs autres membres. Le nombre des membres du bureau est fixé par le règlement intérieur. L'assemblée peut déléguer l'exercice d'une partie de ses attributions au bureau, à l'exception de celles mentionnées aux deuxième, troisième et quatrième alinéas de l'article 27.
+L'assemblée peut déléguer l'exercice d'une partie de ses attributions au bureau, à l'exception de celles mentionnées aux deuxième, troisième et quatrième alinéas de l'article 27.
 
 Les fonctions de membre du bureau de l'Assemblée de Corse sont incompatibles avec la présidence ou la direction d'une agence ou d'une institution spécialisée mentionnée à l'article 2 de la présente loi.
 
