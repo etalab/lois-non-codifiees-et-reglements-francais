@@ -1,0 +1,3 @@
+# Article 1
+
+Peuvent avoir accès dans les services municipaux sociaux et d'hygiène aux emplois de directeur et de directeur adjoint de laboratoire d'analyses médicales, de directeur de laboratoire d'analyses chimiques, d'ingénieur chimiste, de laborantin, de manipulateur d'électroradiologie, d'assistante sociale, d'infirmière, de directrice de crèche, de puéricultrice, d'auxiliaire de puéricultrice, d'aide de laboratoire et d'aide d'électroradiologie les candidats qui réunissent non seulement les conditions générales de recrutement prévues par le statut du personnel des communes et des établissements publics communaux, mais encore celles fixées pour chacun de ces emplois par les annexes du présent arrêté.
