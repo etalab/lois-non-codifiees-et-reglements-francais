@@ -24,7 +24,7 @@ Pour les employeurs qui ne sont pas redevables de la taxe d'apprentissage, en ap
 
 Cette cotisation est établie et recouvrée selon les mêmes modalités et sous les mêmes garanties et sanctions que la participation des employeurs au financement de la formation professionnelle continue.
 
-Toutefois, les employeurs sont exonérés totalement ou partiellement de cette obligation lorsqu'ils ont consenti des dépenses au titre des contrats d'insertion en alternance institué à l'article L. 981-1 du code du travail et qu'ils sont dans l'une de deux situations suivantes :
+Toutefois, les employeurs sont exonérés totalement ou partiellement de cette obligation lorsqu'ils ont consenti des dépenses au titre des contrats d'insertion en alternance institué à l'article  L. 981-1 du code du travail et qu'ils sont dans l'une de deux situations suivantes :
 
 1° Lorsqu'ils entrent dans le champ d'application d'un accord collectif, au sens du livre 1er du code du travail, professionnel ou interprofessionnel, qui prévoit la réalisation de telles actions et le versement des fonds correspondants à des organismes de mutualisation.
 
@@ -36,7 +36,9 @@ Toutefois, les employeurs sont exonérés totalement ou partiellement de cette o
 
 Le versement des fonds à un organisme de mutualisation doit être effectué avant le 1er mars de l'année suivant celle au titre de laquelle est due la participation.
 
-III - Pour l'application des paragraphes I et II ci-dessus, les employeurs qui ont effectué des versements à des organismes de mutualisation sont réputés s'être acquittés de leurs obligations à concurrence des versements effectués, sans préjudice des dépenses qu'ils auront éventuellement exposées pour l'organisation directe des actions de formation des jeunes mentionnées dans la présente loi. Les employeurs qui ont engagé des dépenses leur ayant permis de réaliser directement des actions de formation pour les jeunes sont réputés s'être acquittés de leurs obligations à raison de 60 F par heure de formation pour les contrats de qualification, et de 50 F par heure pour les contrats d'orientation et les contrats d'adaptation à l'emploi.    Ces taux ne s'appliquent qu'aux contrats conclus à compter du 1er janvier 1992.
+III Pour l'application des paragraphes I et II ci-dessus, les employeurs qui ont effectué des versements à des organismes de mutualisation sont réputés s'être acquittés de leurs obligations à concurrence des versements effectués, sans préjudice des dépenses qu'ils auront éventuellement exposées pour l'organisation directe des actions de formation des jeunes mentionnées dans la présente loi. Les employeurs qui ont engagé des dépenses leur ayant permis de réaliser directement des actions de formation pour les jeunes sont réputés s'être acquittés de leurs obligations à raison de 60 F par heure de formation pour les contrats de qualification, et de 50 F par heure pour les contrats d'orientation et les contrats d'adaptation à l'emploi.
+
+Ces taux ne s'appliquent qu'aux contrats conclus à compter du 1er janvier 1992.
 
 Le contrôle des dépenses est assuré par le service de l'Etat chargé de la formation professionnelle.
 
@@ -58,7 +60,11 @@ Toutefois, dans le cas des branches visées à l'alinéa précédent, l'affectat
 
 Un accord conclu au niveau de la branche entre les organisations professionnelles d'employeurs et les organisations syndicales de salariés du travail temporaire et l'Etat peut prévoir qu'une partie des fonds recueillis dans les conditions prévues aux I bis et II est affectée au financement d'actions de formation ayant pour objet de permettre à des salariés intérimaires de moins de vingt-six ans d'acquérir une qualification professionnelle dans le cadre du contrat prévu à l'article L. 124-21 du code du travail.
 
+permettre à des salariés intérimaires de moins de vingt-six ans d'acquérir une qualification professionnelle dans le cadre du contrat prévu à l'article L. 124-21 du code du travail.
+
 IV bis - Les organismes collecteurs paritaires à compétence nationale et professionnelle visés à l'article L. 961-12 du Code du travail, à l'exception de ceux correspondant à des secteurs professionnels pour lesquels il existe une taxe parafiscale affectée au développement de la formation professionnelle des jeunes ou un accord de branche conclu, avant le 5 juillet 1994, en application du 3e du IV, reversent 35 % du montant des contributions qu'ils ont reçues des employeurs visés à l'article L. 951-1 du Code du travail, dans le respect de la décision d'attribution des employeurs, aux organismes collecteurs paritaires à compétence nationale ou régionale et interprofessionnelle visés à l'article L. 961-12 du Code du travail. Les modalités du reversement sont définies par décret en Conseil d'Etat.
+
+IV ter - Les organismes paritaires collecteurs agréés peuvent t prendre en charge, dans la limite d'un plafond mensuel et d'une durée maximale fixés par décret, des coûts liés à l'exercice de la fonction tutorale engagés par des entreprises pour de jeunes salariés de moins de vingt-six ans, sans qualification professionnelle reconnue, ayant conclu l'un des contrats visés aux articles L. 322-4-2 et L. 981-7 du code du travail ou bénéficiant d'une mesure arrêtée par la région et inscrite au plan régional de développement des formations professionnelles des jeunes.
 
 V - L'exonération mentionnée au paragraphe I porte sur les dépenses engagées entre le 1er janvier et le 31 décembre de l'année précédant celle au cours de laquelle la cotisation est exigible.
 

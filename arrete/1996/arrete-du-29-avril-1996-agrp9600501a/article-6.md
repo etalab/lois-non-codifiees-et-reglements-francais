@@ -1,0 +1,3 @@
+# Article 6
+
+Le directeur général de l'administration au ministère de l'intérieur, le directeur général de la concurrence, de la consommation et de la répression des fraudes au ministère de l'économie et des finances, le directeur général de l'administration, le directeur des affaires financières et économiques et le directeur de la production et des échanges au ministère de l'agriculture, de la pêche et de l'alimentation et le directeur de l'Office national interprofessionnel des viandes, de l'élevage et de l'aviculture sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
