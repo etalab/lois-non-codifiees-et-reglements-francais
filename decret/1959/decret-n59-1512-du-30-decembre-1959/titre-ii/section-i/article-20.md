@@ -1,6 +1,6 @@
 # Article 20
 
-Lorsque les subventions sont utilisées au règlement des créances privilégiées d'un film de référence, conformément aux dispositions de l'article 68 du Code de l'industrie cinématographique, elles sont versées dans les conditions et limites fixées ci-après :
+Lorsque les subventions sont utilisées au règlement des créances privilégiées d'une oeuvre cinématographique de réinvestissement, conformément aux dispositions de l'article 68 du Code de l'industrie cinématographique, elles sont versées dans les conditions et limites fixées ci-après :
 
 Les sommes recouvrées par l'Etat pourront être réglées dans la limite de 1 % du devis du film.
 
