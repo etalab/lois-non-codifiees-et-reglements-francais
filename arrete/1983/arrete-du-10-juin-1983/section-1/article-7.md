@@ -1,0 +1,3 @@
+# Article 7
+
+Les informations nominatives contenues dans les fichiers mentionnés dans les articles 2, 3 et 4 du présent arrêté pour chaque assuré sont les suivantes [*mentions obligatoires*] : nom patronymique, prénoms, nom marital, date et lieu de naissance, adresse, collège électoral, commune de rattachement pour les résidents à l'étranger, code régime de sécurité sociale et code "ouverture des droits" utilisés seulement par les caisses primaires d'assurance maladie. Afin de permettre l'exercice du droit d'accès prévu à l'article 14, sont également mentionnées les informations suivantes concernant l'employeur ou l'organisme recenseur : le numéro SIRET éventuellement complété d'un identifiant interne, le nom et l'adresse.
