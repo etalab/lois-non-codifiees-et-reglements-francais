@@ -1,6 +1,6 @@
 # Article 2
 
-Les propriétaires des immeubles mentionnés au premier alinéa de l'article 1er doivent rechercher la présence de flocages contenant de l'amiante dans les immeubles construits avant le 1er janvier 1980. Ils doivent également rechercher la présence de calorifugeages contenant de l'amiante dans les immeubles construits avant le 29 juillet 1996 et la présence de faux plafonds contenant de l'amiante dans les immeubles construits avant le 1er juillet 1997.
+Les propriétaires des immeubles mentionnés au premier alinéa de l'article 1er doivent rechercher la présence de flocages contenant de l'amiante dans les immeubles dont le permis de construire a été délivré avant le 1er janvier 1980. Ils doivent également rechercher la présence de calorifugeages contenant de l'amiante dans les immeubles dont le permis de construire a été délivré avant le 29 juillet 1996 et la présence de faux plafonds contenant de l'amiante dans les immeubles dont le permis de construire a été délivré avant le 1er juillet 1997.
 
 Pour répondre à ces obligations de recherche, les propriétaires font appel à un contrôleur technique, au sens du code de la construction et de l'habitation, ou à un technicien de la construction ayant contracté une assurance professionnelle pour ce type de mission afin qu'il procède à une recherche de la présence de flocages, de calorifugeages ou de faux plafonds.
 
