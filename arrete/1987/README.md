@@ -44,6 +44,7 @@
 - [Arrêté du 22 juin 1987 (ASES8700923A)](arrete-du-22-juin-1987-ases8700923a)
 - [Arrêté du 22 mai 1987 (MERG8700077A)](arrete-du-22-mai-1987-merg8700077a)
 - [Arrêté du 23 décembre 1986](arrete-du-23-decembre-1986)
+- [Arrêté du 23 janvier 1987](arrete-du-23-janvier-1987)
 - [Arrêté du 23 octobre 1986](arrete-du-23-octobre-1986)
 - [Arrêté du 24 décembre 1986](arrete-du-24-decembre-1986)
 - [Arrêté du 24 mars 1987 (ACVA8710010A)](arrete-du-24-mars-1987-acva8710010a)
