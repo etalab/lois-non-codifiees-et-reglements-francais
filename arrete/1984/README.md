@@ -25,6 +25,7 @@
 - [Arrêté du 4 mai 1984](arrete-du-4-mai-1984)
 - [Arrêté du 5 avril 1984](arrete-du-5-avril-1984)
 - [Arrêté du 5 décembre 1983](arrete-du-5-decembre-1983)
+- [Arrêté du 5 décembre 1984](arrete-du-5-decembre-1984)
 - [Arrêté du 5 janvier 1984](arrete-du-5-janvier-1984)
 - [Arrêté du 5 juillet 1984](arrete-du-5-juillet-1984)
 - [Arrêté du 5 mars 1984](arrete-du-5-mars-1984)
