@@ -1,19 +1,7 @@
-# Arrêté du 22 février 1974 relatif aux conditions d'agrément pour les vérifications réglementaires prévus dans les établissements recevant du public
+# Arrêté du 22 février 1974 relatif aux caractéristiques techniques et aux prix des logements bénéficiant de primes à la construction convertibles en bonifications d'intérêt
 
-- [Article 1](article-1.md)
 - [I - Dispositions relatives aux surfaces](i)
-- [Article 2](article-2.md)
 - [II - Prix applicables aux opérations réalisées avec le bénéfice de prêts spéciaux immédiats](ii)
-- [Article 3](article-3.md)
 - [III - Prix applicable aux opérations réalisées avec le bénéfice de prêts immobiliers conventionnés.](iii)
-- [Article 4](article-4.md)
 - [IV - Dispositions finales.](iv)
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)
-- [Article 7](article-7.md)
-- [Article 8](article-8.md)
-- [Article 9](article-9.md)
-- [Article 10](article-10.md)
-- [Article 11](article-11.md)
 - [Annexes](annexes)
-- [Article Execution](article-execution.md)
