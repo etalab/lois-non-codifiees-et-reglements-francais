@@ -1,9 +1,9 @@
 # Article 16
 
-Le jury de l'examen est désigné par le préfet du département siège de l'examen, sur proposition du médecin inspecteur régional de la santé, président. Il comprend :
+Le jury de l'examen est désigné par le préfet du département siège de l'examen, sur proposition du médecin inspecteur régional de la santé, président.
 
-Des directeurs, des professeurs et des moniteurs d'écoles agréées pour la préparation du diplôme d'Etat de laborantin d'analyses médicales ;
+Il comprend :
 
-Des directeurs et des laborantins de laboratoires d'analyses médicales,
+Des directeurs, des professeurs, des moniteurs d'écoles agréées pour la préparation au diplôme d'Etat de manipulateur d'électroradiologie ;
 
-de telle façon que les trois quarts au moins du total des membres appartiennent au personnel des écoles.
+Des médecins, dont trois électroradiologistes au moins.
