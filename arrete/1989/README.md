@@ -342,7 +342,6 @@
 - [Arrêté du 17 février 1989 (PRME8961320A)](arrete-du-17-fevrier-1989-prme8961320a)
 - [Arrêté du 17 février 1989 (PRME8961321A)](arrete-du-17-fevrier-1989-prme8961321a)
 - [Arrêté du 17 février 1989 (SPSS8900382A)](arrete-du-17-fevrier-1989-spss8900382a)
-- [Arrêté du 17 février 1989 (SPSS8900383A)](arrete-du-17-fevrier-1989-spss8900383a)
 - [Arrêté du 17 janvier 1989 (MENU8802182A)](arrete-du-17-janvier-1989-menu8802182a)
 - [Arrêté du 17 janvier 1989 (MENU8802277A)](arrete-du-17-janvier-1989-menu8802277a)
 - [Arrêté du 17 janvier 1989 (MENU8802481A)](arrete-du-17-janvier-1989-menu8802481a)
