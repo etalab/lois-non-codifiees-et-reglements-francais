@@ -8,7 +8,7 @@ Elle est composée :
 
 - du vice-président du jury ;
 
-- du président du conseil scientifique et pédagogique ou son représentant ;
+- du président du conseil scientifique du concours d'internat en médecine ou son représentant ;
 
 - du ministre chargé de la santé ou son représentant.
 

@@ -15,5 +15,3 @@ Ils doivent adresser à cette dernière, par lettre recommandée avec accusé de
 5° a) Pour le candidat installé en France, une attestation du (ou des) conseil(s) de l'ordre des médecins ;
 
 b) Pour le candidat exerçant ou ayant exercé dans un autre Etat, une attestation établie par le ministre chargé de la santé du pays où il exerce ou a exercé son activité ;
-
-6° Une attestation de non-binationalité incluant une nationalité autre que celles de la Principauté d'Andorre ou d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen.

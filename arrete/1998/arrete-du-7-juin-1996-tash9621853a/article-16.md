@@ -1,10 +1,10 @@
 # Article 16
 
-Le jury se compose de neuf membres, dont au moins cinq professeurs des universités - praticiens hospitaliers. Cinq de ses membres sont des enseignants titulaires relevant de la 46e section, 2e sous-section, du Conseil national des universités. Les autres membres du jury relèvent d'autres sous-sections de ce conseil.
+Le jury se compose de neuf membres, professeurs des universités-praticiens hospitaliers et maîtres de conférences des universités-praticiens hospitaliers relevant de la 46e section, 2e sous-section, du Conseil national des universités. Ce jury se compose d'au moins cinq professeurs des universités-praticiens hospitaliers.
 
 Afin que le responsable du Centre national des concours d'internat puisse procéder au tirage au sort des membres du jury titulaires et suppléants, chaque direction régionale des affaires sanitaires et sociales responsable de l'inscription aux concours d'internat en médecine organisés en application de l'arrêté du 5 mai 1988 susvisé lui adresse chaque année, les noms de trois enseignants, dont au moins un professeur des universités - praticien hospitalier relevant de la 46e section, 2e sous-section, du Conseil national des universités, proposés par le coordonnateur de médecine du travail et une liste de trois enseignants titulaires ne faisant pas partie des jurys des concours précités.
 
-Chaque membre du jury relevant de la 46e section, 2e sous-section, du Conseil national des universités doit provenir d'une circonscription différente, parmi celles mentionnées à l'article 2 de l'arrêté du 26 juillet 1983 susvisé.
+Chaque membre du jury doit provenir d'une circonscription différente, parmi celles mentionnées à l'article 2 de l'arrêté du 26 juillet 1983 susvisé.
 
 Après tirage au sort des membres titulaires, il est procédé dans les mêmes conditions à un second tirage au sort désignant un nombre égal de membres suppléants.
 
