@@ -1,23 +1,15 @@
 # Article 21
 
-La liste générale des objets mobiliers et des documents d'archives privées classés telle qu'elle a été prévue par l'article 17 de la loi du 31 décembre 1913 mentionne [*contenu*]:
+La liste générale des objets mobiliers classés prévue par l'article 17 de la loi du 31 décembre 1913 susvisée comprend :
 
-1° La nature de ces objets ;
+1° La dénomination et les principales caractéristiques de ces objets ;
 
-2° Le lieu où ils sont déposés ;
+2° L'indication de l'immeuble et de la commune où ils sont déposés ;
 
-3° Le nom et le domicile de leur propriétaire, et, s'il y a lieu, le nom de l'affectataire ou celui du propriétaire de l'immeuble où ils sont déposés ;
+3° La qualité de leur propriétaire et, s'il y a lieu, de l'affectataire ;
 
-4° La date de la décision portant classements.
+4° La date de la décision de leur classement.
 
-Cette liste ne sera communiquée qu'aux personnes qui en auront fait la demande écrite soit à Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, au ministère des affaires culturelles, soit, dans les départements, au préfet, au moins huit jours à l'avance, en apportant la justification de l'intérêt qu'elles ont à en prendre connaissance.
+Cette liste est saisie dans une base de données informatisée, établie et mise à jour par les services du ministère chargé de la culture et librement consultable sur le site internet de celui-ci.
 
-La communication de cette liste aura lieu sans déplacement :
-
-1° A Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, au ministère des affaires culturelles sous le contrôle et la surveillance d'un délégué du chef de service pour les objets d'arts, et aux archives nationales pour les documents ;
-
-2° Dans les autres départements, à la préfecture ou aux archives sous le contrôle et la surveillance de l'archiviste départemental.
-
-Il ne peut être pris ni copie, ni pour les documents d'archives, photographie, de tout ou partie de la liste, sans l'autorisation spéciale du ministre des affaires culturelles.
-
-La direction des archives de France communique à chaque ministre intéressé un extrait, pour ce qui le concerne, de la liste générale prévue au présent article et lui donne, dans les mêmes conditions, avis de toute modification apportée à cette liste.
+En outre, le dossier relatif à un objet mobilier classé est consultable, sur rendez-vous, dans les services de documentation centraux ou déconcentrés du ministère chargé de la culture. Copie des pièces de ce dossier peut être délivrée soit sur place, soit sur demande, dans les conditions fixées par l'article 4 de la loi n° 78-753 du 17 juillet 1978 et par le décret n° 2001-493 du 6 juin 2001. Toutefois, si l'objet classé appartient à une personne privée, la consultation et la délivrance d'une copie des données nominatives et des données afférentes à la propriété qui figurent au dossier ne sont possibles qu'après autorisation écrite du propriétaire.
