@@ -20,6 +20,7 @@
 - [Arrêté du 15 mars 1979](arrete-du-15-mars-1979)
 - [Arrêté du 16 janvier 1979](arrete-du-16-janvier-1979)
 - [Arrêté du 16 mars 1979](arrete-du-16-mars-1979)
+- [Arrêté du 16 mai 1979](arrete-du-16-mai-1979)
 - [Arrêté du 17 août 1978](arrete-du-17-aout-1978)
 - [Arrêté du 18 janvier 1979](arrete-du-18-janvier-1979)
 - [Arrêté du 19 janvier 1979](arrete-du-19-janvier-1979)
