@@ -2,7 +2,7 @@
 
 Les ressortissants actifs de la CARPIMKO sont redevables de la cotisation minimum obligatoire de la classe B.
 
-La cotisation annuelle de la classe B ouvre droit à huit points de retraite [*nombre*].
+La cotisation annuelle de la classe B ouvre droit à huit points de retraite.
 
 Pour la période antérieure au 1er janvier 1984, chaque cotisation annuelle de la classe minimum obligatoire des régimes de retraite complémentaire mentionnés à l'article 2 ci-dessus ouvrent droit :
 

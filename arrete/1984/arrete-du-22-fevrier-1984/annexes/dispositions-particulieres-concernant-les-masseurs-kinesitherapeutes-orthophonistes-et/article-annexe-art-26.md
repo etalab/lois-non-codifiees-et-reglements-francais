@@ -1,6 +1,6 @@
 # Article ANNEXE ART. 26
 
-A la date d'entrée en vigueur des présents statuts, les affiliés appartenant ou ayant appartenu au régime des masseurs-kinésithérapeutes, orthophonistes et orthoptistes bénéficient d'un supplément de points qui sera fonction du nombre de points acquis par les cotisations réellement versées au 31 décembre 1982, les points acquis par rachat étant exclus pour le calcul de cette attribution [*nombre - bonification*].
+A la date d'entrée en vigueur des présents statuts, les affiliés appartenant ou ayant appartenu au régime des masseurs-kinésithérapeutes, orthophonistes et orthoptistes bénéficient d'un supplément de points qui sera fonction du nombre de points acquis par les cotisations réellement versées au 31 décembre 1982, les points acquis par rachat étant exclus pour le calcul de cette attribution.
 
 Ces points seront attribués de la façon suivante :
 

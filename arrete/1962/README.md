@@ -31,7 +31,6 @@
 - [Arrêté du 27 novembre 1962](arrete-du-27-novembre-1962)
 - [Arrêté du 28 février 1962](arrete-du-28-fevrier-1962)
 - [Arrêté du 28 juillet 1962](arrete-du-28-juillet-1962)
-- [Arrêté du 28 juin 1961](arrete-du-28-juin-1961)
 - [Arrêté du 28 septembre 1962](arrete-du-28-septembre-1962)
 - [Arrêté du 29 octobre 1962](arrete-du-29-octobre-1962)
 - [Arrêté du 30 novembre 1963](arrete-du-30-novembre-1963)
