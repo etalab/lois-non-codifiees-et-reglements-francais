@@ -363,6 +363,7 @@
 - [Arrêté du 22 janvier 1988 (ASEH8800117A)](arrete-du-22-janvier-1988-aseh8800117a)
 - [Arrêté du 22 janvier 1988 (INDA8800027A)](arrete-du-22-janvier-1988-inda8800027a)
 - [Arrêté du 22 janvier 1988 (MCCK8800043A)](arrete-du-22-janvier-1988-mcck8800043a)
+- [Arrêté du 22 juillet 1988 (INTC8800297A)](arrete-du-22-juillet-1988-intc8800297a)
 - [Arrêté du 22 juillet 1988 (JUSC8820505A)](arrete-du-22-juillet-1988-jusc8820505a)
 - [Arrêté du 22 juin 1988 (AGRS8801120A)](arrete-du-22-juin-1988-agrs8801120a)
 - [Arrêté du 22 juin 1988 (ASES8800861A)](arrete-du-22-juin-1988-ases8800861a)
