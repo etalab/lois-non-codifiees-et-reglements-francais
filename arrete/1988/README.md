@@ -76,6 +76,7 @@
 - [Arrêté du 18 janvier 1988 (ECOT8711016A)](arrete-du-18-janvier-1988-ecot8711016a)
 - [Arrêté du 18 janvier 1988 (INTG8800023A)](arrete-du-18-janvier-1988-intg8800023a)
 - [Arrêté du 18 novembre 1987 (INTE8700373A)](arrete-du-18-novembre-1987-inte8700373a)
+- [Arrêté du 19 février 1988 (ASEH8800094A)](arrete-du-19-fevrier-1988-aseh8800094a)
 - [Arrêté du 19 janvier 1988 (ASEP8800103A)](arrete-du-19-janvier-1988-asep8800103a)
 - [Arrêté du 19 janvier 1988 (ECOT8711017A)](arrete-du-19-janvier-1988-ecot8711017a)
 - [Arrêté du 19 janvier 1988 (ECOT8750067A)](arrete-du-19-janvier-1988-ecot8750067a)
