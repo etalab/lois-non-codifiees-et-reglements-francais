@@ -1,4 +1,4 @@
-# Arrêté du 4 juillet 1980 relatif au seuil prévu par le décret n° 79-518 du 29 juin 1979 relatif aux concessions d'endigage et d'utilisation des dépendances du domaine public maritime maintenues dans ce domaine en dehors des ports.
+# Arrêté du 4 juillet 1980 MODIFICATION DES CONDITIONS D'EXONERATION DE L'IMPOT SUR LES SPECTACLES DES JOURNALISTES MEMBRES DE LA CRITIQUE SPORTIVE.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
