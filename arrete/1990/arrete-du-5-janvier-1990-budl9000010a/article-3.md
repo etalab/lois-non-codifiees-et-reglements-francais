@@ -2,9 +2,7 @@
 
 Les informations traitées sont les suivantes :
 
-Nom, prénom, date et lieu de naissance, situation de famille, adresse et complément d'adresse du contribuable, le cas échéant, état civil et adresse du représentant légal, du mandataire ou de l'héritier ;
-
-Nom de naissance, prénom, date de naissance, lieu de naissance du conjoint ou concubin ;
+Nom, prénom, date et lieu de naissance, situation fiscale, adresse et complément d'adresse du ou des contribuables - conjoints, partenaires d'un pacte civil de solidarité, concubins - ; le cas échéant, état civil et adresse du représentant légal, du mandataire ou des héritiers ;
 
 Renseignements relatifs à la qualification des biens professionnels exonérés ;
 

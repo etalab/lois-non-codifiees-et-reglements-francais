@@ -8,6 +8,6 @@ La situation de l'emploi dans la profession demandée par un ressortissant étra
 
 3° Jeunes étrangers dont l'âge est compris entre quatorze et seize ans qui accomplissent, durant les vacances scolaires, des travaux saisonniers dans le cadre de la loi n° 72-1168 du 23 décembre 1972 et du décret n° 73-533 du 18 juin 1973 pris pour son application ;
 
-4° Enseignants et chercheurs de nationalité étrangère venant en France pour une durée qui ne peut excéder trois ans, dans le cadre d'échanges organisés à des fins culturelles et scientifiques ;
+4° (paragraphe supprimé).
 
 5° Stagiaires professionnels.

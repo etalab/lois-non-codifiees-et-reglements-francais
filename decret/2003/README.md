@@ -25,6 +25,7 @@
 - [Décret n°2002-1429 du 4 décembre 2002 (MENF0202613D)](decret-n2002-1429-du-4-decembre-2002-menf0202613d)
 - [Décret n°2003-94 du 4 février 2003 (INDI0200855D)](decret-n2003-94-du-4-fevrier-2003-indi0200855d)
 - [Décret n°2003-95 du 4 février 2003 (DOMA0300001D)](decret-n2003-95-du-4-fevrier-2003-doma0300001d)
+- [Décret n°2003-96 du 5 février 2003 (FPPA0210025D)](decret-n2003-96-du-5-fevrier-2003-fppa0210025d)
 - [Décret n°2004-12 du 5 janvier 2004 (JUSA0300397D)](decret-n2004-12-du-5-janvier-2004-jusa0300397d)
 - [Décret n°90-1100 du 5 décembre 1990 (AGRX9000183D)](decret-n90-1100-du-5-decembre-1990-agrx9000183d)
 - [Décret du 6 janvier 2003 (AGRP0202190D)](decret-du-6-janvier-2003-agrp0202190d)
