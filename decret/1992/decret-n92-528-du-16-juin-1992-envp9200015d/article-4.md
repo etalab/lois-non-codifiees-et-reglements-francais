@@ -41,3 +41,5 @@ Cette commission est présidée par le président de la mission ; elle comprend 
 Toute personne invitée par le président de la mission interministérielle de l'effet de serre peut assister aux réunions de la commission.
 
 La commission interministérielle de l'effet de serre est réunie à l'initiative de son président.
+
+Les ministres représentés au sein de la commission interministérielle de l'effet de serre peuvent faire appel à la mission interministérielle de l'effet de serre dans le cadre de ses compétences.

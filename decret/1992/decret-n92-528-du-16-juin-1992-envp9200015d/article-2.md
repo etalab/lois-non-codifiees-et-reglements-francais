@@ -1,6 +1,6 @@
 # Article 2
 
-La mission interministérielle de l'effet de serre est chargée d'animer, de coordonner et d'organiser, en concertation avec les associations et les partenaires économiques et sociaux, la préparation et la réalisation du programme d'action contre l'effet de serre pour ce qui concerne ses aspects intérieurs ; elle assiste également le ministère des affaires étrangères dans le cadre des négociations internationales relatives à l'effet de serre.
+La mission interministérielle de l'effet de serre est chargée d'assurer, de coordonner et d'organiser, en concertation avec les associations, les partenaires économiques et sociaux, la préparation et la réalisation du programme français de prévention de changement de climat. Elle prépare les positions à défendre dans la négociation internationale et assiste le ministère des affaires étrangères dans le déroulement de ces négociations. Elle participe aux groupes d'experts techniques traitant de ce sujet au niveau communautaire et international.
 
 A cet effet, les travaux de la mission portent notamment sur :
 
