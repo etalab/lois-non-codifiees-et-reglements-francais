@@ -41,3 +41,4 @@
 - [Arrêté du 27 février 1973](arrete-du-27-fevrier-1973)
 - [Arrêté du 27 mars 1973](arrete-du-27-mars-1973)
 - [Arrêté du 28 décembre 1972](arrete-du-28-decembre-1972)
+- [Arrêté du 29 juin 1973](arrete-du-29-juin-1973)
