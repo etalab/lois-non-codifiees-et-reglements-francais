@@ -17,6 +17,7 @@
 - [Article 11-4](article-11-4.md)
 - [Article 11-5](article-11-5.md)
 - [Article 11-6](article-11-6.md)
+- [Article 11-7](article-11-7.md)
 - [Article 12](article-12.md)
 - [Article 12-1](article-12-1.md)
 - [Article 13](article-13.md)

@@ -1,3 +1,5 @@
 # Article 1
 
-Quiconque pratique ou fait pratiquer le démarchage au domicile d'une personne physique, à sa résidence ou à son lieu de travail pour proposer la vente, la location ou la location-vente de marchandises ou objets quelconques ou pour offrir des prestations de services, est soumis aux dispositions du présent texte.
+Est soumis aux dispositions de la présente loi quiconque pratique ou fait pratiquer le démarchage, au domicile d'une personne physique, à sa résidence ou à son lieu de travail, même à sa demande, afin de lui proposer l'achat, la vente, la location, la location-vente ou la location avec option d'achat de biens ou la fourniture de services.
+
+Est également soumis aux dispositions de la présente loi le démarchage dans les lieux non destinés à la commercialisation du bien ou du service proposé et notamment l'organisation par un commerçant ou à son profit de réunions ou d'excursions afin de réaliser les opérations définies à l'alinéa précédent.

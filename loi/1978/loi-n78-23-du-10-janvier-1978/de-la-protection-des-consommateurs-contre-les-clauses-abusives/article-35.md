@@ -6,4 +6,6 @@ De telles clauses abusives, stipulées en contradiction avec les dispositions qu
 
 Ces dispositions sont applicables aux contrats quels que soient leur forme ou leur support. Il en est ainsi notamment des bons de commande, factures, bons de garantie, bordereaux ou bons de livraison, billets, tickets contenant des stipulations ou des références à des conditions générales préétablies.
 
+Les professionnels vendeurs ou prestataires de services doivent remettre à toute personne intéressée qui en fait la demande un exemplaire des conventions qu'ils proposent habituellement.
+
 Les décrets ci-dessus peuvent, en vue d'assurer l'information du contractant non-professionnel ou consommateur, réglementer la présentation des écrits constatant les contrats visés au premier alinéa.
