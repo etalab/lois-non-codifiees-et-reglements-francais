@@ -23,6 +23,7 @@
 - [Décret n°65-690 du 10 août 1965](decret-n65-690-du-10-aout-1965)
 - [Décret n°64-226 du 11 mars 1964](decret-n64-226-du-11-mars-1964)
 - [Décret n°64-955 du 11 septembre 1964](decret-n64-955-du-11-septembre-1964)
+- [Décret du 13 octobre 1964](decret-du-13-octobre-1964)
 - [Décret n°64-142 du 13 février 1964](decret-n64-142-du-13-fevrier-1964)
 - [Décret n°64-852 du 13 août 1964](decret-n64-852-du-13-aout-1964)
 - [Décret n°64-231 du 14 mars 1964](decret-n64-231-du-14-mars-1964)
