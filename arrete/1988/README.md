@@ -585,6 +585,7 @@
 - [Arrêté du 30 mai 1988 (ASEX8810446A)](arrete-du-30-mai-1988-asex8810446a)
 - [Arrêté du 30 mai 1988 (ECOL8800098J)](arrete-du-30-mai-1988-ecol8800098j)
 - [Arrêté du 30 mai 1988 (ECOR8803054A)](arrete-du-30-mai-1988-ecor8803054a)
+- [Arrêté du 31 août 1988 (ECOA8700108A)](arrete-du-31-aout-1988-ecoa8700108a)
 - [Arrêté du 31 août 1988 (INTF8800343A)](arrete-du-31-aout-1988-intf8800343a)
 - [Arrêté du 31 août 1988 (SPSP8801374A)](arrete-du-31-aout-1988-spsp8801374a)
 - [Arrêté du 31 décembre 1987 (AGRS8800020A)](arrete-du-31-decembre-1987-agrs8800020a)
