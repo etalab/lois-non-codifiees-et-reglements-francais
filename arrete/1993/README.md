@@ -181,7 +181,6 @@
 - [Arrêté du 6 mai 1993 (ECOT9320002A)](arrete-du-6-mai-1993-ecot9320002a)
 - [Arrêté du 7 août 1993 (TEFE9300930A)](arrete-du-7-aout-1993-tefe9300930a)
 - [Arrêté du 7 décembre 1993 (AGRM9302351A)](arrete-du-7-decembre-1993-agrm9302351a)
-- [Arrêté du 7 janvier 1993 (BUDD9250024A)](arrete-du-7-janvier-1993-budd9250024a)
 - [Arrêté du 7 janvier 1993 (JUSC9320005A)](arrete-du-7-janvier-1993-jusc9320005a)
 - [Arrêté du 7 janvier 1993 (JUSC9320006A)](arrete-du-7-janvier-1993-jusc9320006a)
 - [Arrêté du 7 janvier 1993 (JUSC9320007A)](arrete-du-7-janvier-1993-jusc9320007a)
