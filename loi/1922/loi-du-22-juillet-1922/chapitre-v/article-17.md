@@ -12,7 +12,7 @@ En cas de fermeture d'un réseau ou de licenciement de tout ou partie du personn
 
 En cas de licenciement du personnel dans un réseau (en totalité ou en partie) pour cause de compression ou de transformation du service, les agents réunissant au moins quinze années de service ont droit à une pension proportionnelle différée dont l'entrée en jouissance sera reportée au plus tôt à la limite d'âge normale de leur catégorie d'emploi. Les pouvoirs concédants prendront à leur charge la triple contribution prescrite par la loi pour la constitution des retraites pendant la période de temps nécessaire pour parfaire le minimum de vingt ans de service.
 
-Les agents licenciés avant d'avoir atteint quinze ans de service peuvent demander le remboursement, avec les intérêts simples calculés à 5 p. 100, les sommes versées par eux à la caisse autonome mutuelle des retraites.
+Les agents licenciés avant d'avoir atteint quinze ans de service peuvent demander le remboursement, avec les intérêts simples, des sommes versées par eux à la caisse autonome mutuelle. Ces intérêts seront calculés à un taux fixé chaque année par le conseil d'administration et déterminé d'après le taux moyen des placements effectués par ladite caisse au cours de l'année précédente.
 
 Un agent pourra passer d'une compagnie dans une autre et continuera à être affilié au régime des retraites de la caisse autonome, mais ce, sous la double condition de faire partie du cadre permanent de la nouvelle compagnie et de subir un stage d'un an avec versements ne comptera pas dans la durée de service exigée pour la retraite.
 
