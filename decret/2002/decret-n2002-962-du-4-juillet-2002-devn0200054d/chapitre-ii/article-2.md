@@ -1,0 +1,3 @@
+# Article 2
+
+Le ministre chargé de la protection de la nature désigne parmi les préfets de la Haute-Saône, du territoire de Belfort et des Vosges celui qui exerce les pouvoirs conférés au préfet par le présent décret.
