@@ -40,13 +40,7 @@ Commandant de formation administrative de la gendarmerie nationale ;
 
 Commandant des écoles de la gendarmerie nationale.
 
-III. - Direction des centres d'expérimentations nucléaires :
-
-Commandant de base du centre d'expérimentations du Pacifique ;
-
-Directeur des travaux et services.
-
-IV. - Service de santé des armées :
+III. - Service de santé des armées :
 
 Directeur, ou chef, local de service ;
 
@@ -56,7 +50,7 @@ Directeur, commandant, ou chef d'école, d'institut ou de centre ;
 
 Chef du service de protection radiologique des armées.
 
-V. - Service des essences des armées :
+IV. - Service des essences des armées :
 
 Directeur local du service ;
 
@@ -64,7 +58,7 @@ Commandant du centre d'instruction du service des essences des armées ;
 
 Directeur du laboratoire du service des essences des armées.
 
-VI. - Délégation générale pour l'armement (- hors compte de commerce : pour tous les matériels : - en compte de commerce : pour les matériels approvisionnés sur crédits budgétaires) :
+V. - Délégation générale pour l'armement (- hors compte de commerce : pour tous les matériels : - en compte de commerce : pour les matériels approvisionnés sur crédits budgétaires) :
 
 Directeur d'établissement;
 
@@ -74,4 +68,4 @@ Directeur d'école;
 
 Chef du service de la surveillance industrielle de l'armement.
 
-VII. - Directeurs d'organisme ou d'établissement relevant directement d'une direction ou d'un service central.
+VI. - Directeurs d'organisme ou d'établissement relevant directement d'une direction ou d'un service central.
