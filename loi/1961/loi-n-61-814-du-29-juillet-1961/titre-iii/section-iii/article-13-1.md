@@ -1,6 +1,6 @@
 # Article 13-1
 
-Sont applicables à l'élection des membres de l'assemblée territoriale de Wallis-et-Futuna les dispositions du titre Ier, à l'exception de ses chapitres III et IV, du premier alinéa de l'article L. 66 et de l'article L. 118-3, du code électoral, sous réserve des dispositions des articles ci-après, et de l'article 6 de la loi n° 85-691 du 10 juillet 1985 relative à l'élection des députés et des sénateurs dans les territoires d'outre-mer.
+Sont applicables à l'élection des membres de l'assemblée territoriale de Wallis-et-Futuna les dispositions du titre Ier du livre Ier, à l'exception de ses chapitres III et IV, du premier alinéa de l'article L. 66 et de l'article L. 118-3, du code électoral, sous réserve des dispositions des articles ci-après, et de l'article 6 de la loi n° 85-691 du 10 juillet 1985 relative à l'élection des députés et des sénateurs dans les territoires d'outre-mer.
 
 Pour l'application des dispositions susmentionnées du code électoral à Wallis-et-Futuna, il y a lieu de lire :
 
