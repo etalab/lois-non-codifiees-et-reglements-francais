@@ -249,3 +249,39 @@ Les modifications de l'environnement technique, économique et politique et l'é
 L'évolution des formes de conflits.
 
 Les nouvelles formes d'organisation du travail.
+
+IV. - Questions relatives à la politique de la ville et au développement local.
+
+Notions essentielles sur les politiques publiques de développement territorial et, notamment, l'intervention des collectivités territoriales et de leurs partenaires publics et privés, dans les secteurs du développement des territoires (développement rural et développement urbain) : aspects juridiques, financiers, outils et problématiques.
+
+Notions générales sur les politiques sectorielles relatives à l'éducation, à la jeunesse, au logement, à la sécurité, à la prévention, à l'environnement, aux transports : aspects juridiques, financiers, outils et problématiques.
+
+Les politiques d'aide à l'emploi et notamment à l'emploi des jeunes.
+
+Approche des phénomènes urbains et politique de la ville :
+
+a) Approche sociologique :
+
+Histoire des mouvements sociaux ;
+
+Les rapports sociaux dans la ville : exclusion, intégration.
+
+b) Approche géographique et urbanistique :
+
+Démographie : évolution de la population urbaine ;
+
+Les villes contemporaines : organisation et fonctions ;
+
+Politiques d'urbanisme et tendances actuelles de l'urbanisation.
+
+c) Approche globale :
+
+La notion de développement local ;
+
+Le développement social urbain ;
+
+Les tendances actuelles des politiques culturelles et sociales dans l'approche des phénomènes urbains.
+
+d) Les acteurs de la ville :
+
+L'Etat, les collectivités locales, les mouvements associatifs, les entreprises, les habitants ; organisation, rôle et stratégies.

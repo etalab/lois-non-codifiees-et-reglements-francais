@@ -1,6 +1,6 @@
 # Article ANNEXE III
 
-I. - Pour la spécialité administration générale
+I. - Pour la spécialité administration générale et la spécialité urbanisme.
 
 Finances publiques
 
@@ -215,6 +215,10 @@ Ordonnancement des tâches ;
 Détermination des coûts administratifs et leur minimisation ;
 
 Contrôle du travail administratif.
+
+Droit public
+
+Même programme que pour la deuxième épreuve d'admissibilité du concours externe et du troisième concours.
 
 II. - Pour la spécialité Gestion
 
