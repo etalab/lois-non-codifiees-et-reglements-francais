@@ -43,7 +43,6 @@
 - [Décret n°90-2 du 2 janvier 1990 (INTB8900374D)](decret-n90-2-du-2-janvier-1990-intb8900374d)
 - [Décret n°90-202 du 2 mars 1990 (MICT9000132D)](decret-n90-202-du-2-mars-1990-mict9000132d)
 - [Décret n°90-292 du 2 avril 1990 (AGRS9000725D)](decret-n90-292-du-2-avril-1990-agrs9000725d)
-- [Décret n°90-295 du 2 avril 1990 (MCCB9000156D)](decret-n90-295-du-2-avril-1990-mccb9000156d)
 - [Décret n°90-4 du 2 janvier 1990 (AGRR8902643D)](decret-n90-4-du-2-janvier-1990-agrr8902643d)
 - [Décret n°90-5 du 2 janvier 1990 (SPSS8902551D)](decret-n90-5-du-2-janvier-1990-spss8902551d)
 - [Décret n°90-681 du 2 août 1990 (ECOZ9000060D)](decret-n90-681-du-2-aout-1990-ecoz9000060d)
