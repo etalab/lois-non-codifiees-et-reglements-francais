@@ -14,7 +14,7 @@ Le conseil d'administration délibère sur :
 
 6. Les emprunts ;
 
-7. La participation de l'établissement à des groupements d'intérêt public et à des groupements européens d'intérêt économique ;
+7. La participation à des organismes dotés de la personnalité morale ;
 
 8. Les acquisitions, aliénations, échanges, locations, baux, constructions et grosses réparations d'immeubles ;
 
@@ -28,4 +28,4 @@ Le conseil d'administration délibère sur :
 
 Le conseil d'administration se prononce en outre sur les questions qui lui sont soumises par son président, le directeur général, le ministre chargé de l'équipement et le ministre chargé de la recherche.
 
-En ce qui concerne les matières énumérées aux 5, 8, 9 et 12, le conseil peut déléguer une partie de ses pouvoirs au directeur général. Celui-ci lui rend compte, lors de sa prochaine séance, des décisions qu'il a prises en vertu de cette délégation.
+En ce qui concerne les matières énumérées aux 5, 7, 8, 9 et 12, le conseil peut déléguer une partie de ses pouvoirs au directeur général. Celui-ci lui rend compte, lors de sa prochaine séance, des décisions qu'il a prises en vertu de cette délégation.
