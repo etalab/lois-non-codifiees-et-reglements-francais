@@ -1,0 +1,5 @@
+# Article 2
+
+A défaut de renseignements et de justifications suffisants, la caisse primaire de sécurité sociale ou la direction régionale procède à toutes les vérifications utiles. A cet effet, elles peuvent demander aux personnes susceptibles d'être immatriculées dans l'assurance obligatoire susvisée ou éventuellement, à leur représentant légal, communication de toutes pièces d'identité ou d'état civil ; elles peuvent aussi demander toutes précisions nécessaires sur la nationalité, l'état civil, la résidence et la situation de famille des intéressés.
+
+Au cas où des personnes leur paraissant susceptibles d'être assujetties obligatoirement à l'assurance n'auraient pas fait l'objet des déclarations prévues à l'article 1er (paragraphes 1er et 2) du décret du 31 décembre 1946, la caisse primaire de sécurité sociale peut, soit de son propre chef, soit à la diligence du directeur régional de la sécurité sociale, effectuer toutes recherches utiles sur la situation de ces personnes en vue de leur immatriculation. Elle provoque, à cet effet, les explications des intéressés ou de leur représentant légal.
