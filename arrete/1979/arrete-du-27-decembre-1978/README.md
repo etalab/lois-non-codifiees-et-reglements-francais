@@ -1,4 +1,4 @@
-# Arrêté du 27 décembre 1978 FIXANT LES TAUX DU REMBOURSEMENT FORFAITAIRE A VERSER PAR LES EMPLOYEURS DU COMMERCE, DE L'INDUSTRIE ET D'ACTIVITES DIVERSES UTILISANT DE LA MAIN-D'OEUVRE ETRANGERE PERMANENTE OU SAISONNIERE INTRODUITE PAR L'OFFICE NATIONAL D'IMMIGRATION.
+# Arrêté du 27 décembre 1978 relatif à la réception CEE (communauté économique européenne) des tracteurs agricoles ou forestiers à roues en ce qui concerne les émissions de polluants provenant des moteurs Diesel destinés à la propulsion des tracteurs agricoles ou forestiers à roues
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
