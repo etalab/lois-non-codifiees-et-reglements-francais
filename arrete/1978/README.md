@@ -28,6 +28,7 @@
 - [Arrêté du 11 octobre 1977](arrete-du-11-octobre-1977)
 - [Arrêté du 11 mai 1978](arrete-du-11-mai-1978)
 - [Arrêté du 12 juillet 1978](arrete-du-12-juillet-1978)
+- [Arrêté du 13 décembre 1978](arrete-du-13-decembre-1978)
 - [Arrêté du 13 juillet 1978](arrete-du-13-juillet-1978)
 - [Arrêté du 13 novembre 1978](arrete-du-13-novembre-1978)
 - [Arrêté du 13 octobre 1978](arrete-du-13-octobre-1978)
