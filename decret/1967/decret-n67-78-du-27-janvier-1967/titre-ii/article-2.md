@@ -2,9 +2,9 @@
 
 Pour l'application du présent décret, il faut entendre par :
 
-1° France : la France continentale, la Corse, les départements d'outre-mer et, à l'exception de la Côte française des Somalis, les territoires d'outre-mer. La Principauté de Monaco est assimilée à la France.
+1° France : la France métropolitaine, les départements d'outre-mer, les territoires d'outre-mer et les collectivités territoriales à statut particulier de Mayotte et Saint-Pierre-et-Miquelon. La Principauté de Monaco est assimilée à la France.
 
-2° Etranger : les pays autres que ceux compris dans la France telle que définie au 1° ci-dessus. Toutefois, les relations avec les Etats dont l'institut d'émission est lié au Trésor français par un compte d'opérations font l'objet de dispositions spéciales à l'article 7. Le condominium des Nouvelles-Hébrides est assimilé à l'étranger.
+2° Etranger : les pays autres que ceux compris dans la France telle que définie au 1° ci-dessus. Toutefois, les relations avec les Etats dont l'institut d'émission est lié au Trésor français par un compte d'opérations font l'objet de dispositions spéciales à l'article 7.
 
 3° Investissements directs :
 

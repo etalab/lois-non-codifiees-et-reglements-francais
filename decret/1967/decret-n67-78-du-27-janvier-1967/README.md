@@ -3,5 +3,4 @@
 - [Titre I : Entrée en vigueur des dispositions de la loi n° 66-1008 du 28 décembre 1966.](titre-i)
 - [Titre II : Définitions.](titre-ii)
 - [Titre III : Opérations avec l'étranger soumises à déclaration ou à autorisation](titre-iii)
-- [Titre IV : Importation et exportation de l'or.](titre-iv)
 - [Titre V : Dispositions générales.](titre-v)
