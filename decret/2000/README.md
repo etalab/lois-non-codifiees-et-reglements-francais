@@ -249,6 +249,7 @@
 - [Décret n°2000-690 du 17 juillet 2000 (ECOI0000184D)](decret-n2000-690-du-17-juillet-2000-ecoi0000184d)
 - [Décret n°2000-691 du 17 juillet 2000 (AGRS0000834D)](decret-n2000-691-du-17-juillet-2000-agrs0000834d)
 - [Décret n°2000-692 du 17 juillet 2000 (ATEN0080054D)](decret-n2000-692-du-17-juillet-2000-aten0080054d)
+- [Décret n°95-1115 du 17 octobre 1995 (ENVP9530043D)](decret-n95-1115-du-17-octobre-1995-envp9530043d)
 - [Décret n°2000-1019 du 18 octobre 2000 (AGRS0001819D)](decret-n2000-1019-du-18-octobre-2000-agrs0001819d)
 - [Décret n°2000-1027 du 18 octobre 2000 (PRMX0000126D)](decret-n2000-1027-du-18-octobre-2000-prmx0000126d)
 - [Décret n°2000-1030 du 18 octobre 2000 (EQUX0000154D)](decret-n2000-1030-du-18-octobre-2000-equx0000154d)
