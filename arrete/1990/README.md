@@ -160,7 +160,6 @@
 - [Arrêté du 6 février 1990 (BUDF9000005A)](arrete-du-6-fevrier-1990-budf9000005a)
 - [Arrêté du 6 février 1990 (FPPA9000020A)](arrete-du-6-fevrier-1990-fppa9000020a)
 - [Arrêté du 6 février 1990 (SPSN9000305A)](arrete-du-6-fevrier-1990-spsn9000305a)
-- [Arrêté du 6 février 1990 (TOUR9004511A)](arrete-du-6-fevrier-1990-tour9004511a)
 - [Arrêté du 6 juillet 1990 (AGRG9000879A)](arrete-du-6-juillet-1990-agrg9000879a)
 - [Arrêté du 6 juillet 1990 (AGRG9000881A)](arrete-du-6-juillet-1990-agrg9000881a)
 - [Arrêté du 6 juillet 1990 (BUDL9000126A)](arrete-du-6-juillet-1990-budl9000126a)

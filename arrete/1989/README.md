@@ -118,7 +118,6 @@
 - [Arrêté du 7 août 1989 (AGRR8901513A)](arrete-du-7-aout-1989-agrr8901513a)
 - [Arrêté du 7 août 1989 (SPSA8910329A)](arrete-du-7-aout-1989-spsa8910329a)
 - [Arrêté du 7 avril 1989 (BUDZ8900005A)](arrete-du-7-avril-1989-budz8900005a)
-- [Arrêté du 7 avril 1989 (EQUV8900264A)](arrete-du-7-avril-1989-equv8900264a)
 - [Arrêté du 7 décembre 1988 (TEFT8804178A)](arrete-du-7-decembre-1988-teft8804178a)
 - [Arrêté du 7 décembre 1989 (BUDR8905056A)](arrete-du-7-decembre-1989-budr8905056a)
 - [Arrêté du 7 février 1989 (CPTP8900001A)](arrete-du-7-fevrier-1989-cptp8900001a)

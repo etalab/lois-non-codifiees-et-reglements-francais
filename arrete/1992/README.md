@@ -201,7 +201,6 @@
 - [Arrêté du 6 février 1992 (DEFC9201133A)](arrete-du-6-fevrier-1992-defc9201133a)
 - [Arrêté du 6 février 1992 (DEFD9201131A)](arrete-du-6-fevrier-1992-defd9201131a)
 - [Arrêté du 6 février 1992 (EQUG9200225A)](arrete-du-6-fevrier-1992-equg9200225a)
-- [Arrêté du 6 février 1992 (MERG9200030A)](arrete-du-6-fevrier-1992-merg9200030a)
 - [Arrêté du 6 février 1992 (MERP9200029A)](arrete-du-6-fevrier-1992-merp9200029a)
 - [Arrêté du 6 janvier 1992 (AGRE9200040A)](arrete-du-6-janvier-1992-agre9200040a)
 - [Arrêté du 6 janvier 1992 (BUDR9205001A)](arrete-du-6-janvier-1992-budr9205001a)
