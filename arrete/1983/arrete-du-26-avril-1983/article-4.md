@@ -51,5 +51,3 @@ Directeur adjoint et agent comptable de caisses et unions de recouvrement de qua
 Sous-directeur et secrétaire général de caisses et unions de recouvrement de troisième et quatrième catégorie.
 
 L'emploi de directeur de centre de traitement de l'information est considéré relever de la classe afférente à l'emploi de directeur adjoint de la caisse adhérente la plus élevée, sauf exception prévue par décision ministérielle.
-
-Peuvent en outre être inscrits sur la liste d'aptitude, dans les conditions précisées à l'article 7-IV, certains fonctionnaires de l'Etat.

@@ -1,0 +1,5 @@
+# Article 15
+
+Les organismes doivent obligatoirement faire connaître avant le 1er avril de chaque année [*date limite, périodicité*] à la direction de la sécurité sociale, par l'intermédiaire des unions régionales - pour les sociétés de secours minières - puis des directions régionales des affaires sanitaires et sociales, les vacances d'emploi de direction et d'agent comptable à prévoir au cours de l'année civile suivante. Les mêmes renseignements sont adressés, dans les mêmes délais, par l'intermédiaire des unions régionales, à la Caisse autonome nationale de la sécurité sociale dans les mines. Toutes modifications à ces prévisions doivent être portées à la connaissance de la direction de la sécurité sociale et de la Caisse autonome nationale de la sécurité sociale dans les mines au fur et à mesure qu'elles se produisent.
+
+La liste des emplois vacants est tenue à la disposition des organismes et des candidats éventuels à la direction de la sécurité sociale et au siège des directions régionales des affaires sanitaires et sociales et à celui de la Caisse autonome nationale de la sécurité sociale dans les mines.
