@@ -18,9 +18,9 @@ Un site permanent (c'est-à-dire pour une durée supérieure à un an) utilisé 
 
 - des installations où les déchets sont déchargés afin de permettre leur préparation à un transport ultérieur en vue d'une valorisation, d'un traitement ou d'une élimination en un endroit différent.
 
-Installation nouvelle : une installation autorisée après la date de publication du présent arrêté ;
+Installation nouvelle : une installation autorisée après le 2 mars 2002 ;
 
-Installation existante : une installation autorisée avant la date de publication du présent arrêté et dont l'exploitation se poursuit à cette date ;
+Installation existante : une installation autorisée avant le 2 mars 2002 et dont l'exploitation se poursuit à cette date  ;
 
 Installation collective : une installation qui reçoit les déchets de plusieurs producteurs de déchets ou les déchets d'une ou plusieurs collectivités territoriales ;
 

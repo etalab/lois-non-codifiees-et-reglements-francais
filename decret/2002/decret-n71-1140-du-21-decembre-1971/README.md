@@ -3,3 +3,5 @@
 - [TITRE 1 : Dispositions générales.](titre-1)
 - [Titre II : Organisation administrative.](titre-ii)
 - [TITRE III : Organisation financière.](titre-iii)
+- [TITRE IV : Dispositions transitoires.](titre-iv)
+- [Article 21](article-21.md)

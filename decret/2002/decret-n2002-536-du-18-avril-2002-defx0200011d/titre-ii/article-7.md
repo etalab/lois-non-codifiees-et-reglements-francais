@@ -1,0 +1,3 @@
+# Article 7
+
+Le décret en conseil des ministres prévu au troisième alinéa de l'article 32 de la loi du 22 octobre 1999 susvisée peut décider d'appliquer le service de défense à des services et à des entreprises ne figurant pas sur les listes établies par les arrêtés visés à l'article 1er du présent décret et de maintenir dans leur emploi, quel qu'il soit, les personnels de ces services et de ces entreprises qui sont soumis aux obligations du service de défense s'ils n'ont pas à répondre à une affectation militaire. Cette mesure entraîne l'affectation collective de défense desdits personnels pour toute la durée de la mise en oeuvre du service de défense.
