@@ -269,6 +269,7 @@
 - [Arrêté du 12 janvier 1996 (INTE9600027A)](arrete-du-12-janvier-1996-inte9600027a)
 - [Arrêté du 12 juillet 1996 (BUDD9640004A)](arrete-du-12-juillet-1996-budd9640004a)
 - [Arrêté du 12 juillet 1996 (EQUA9600807A)](arrete-du-12-juillet-1996-equa9600807a)
+- [Arrêté du 12 juillet 1996 (MCCB9600405A)](arrete-du-12-juillet-1996-mccb9600405a)
 - [Arrêté du 12 juillet 1996 (TASP9620896A)](arrete-du-12-juillet-1996-tasp9620896a)
 - [Arrêté du 12 juillet 1996 (TASS9622710A)](arrete-du-12-juillet-1996-tass9622710a)
 - [Arrêté du 12 juin 1996 (DEFT9601555A)](arrete-du-12-juin-1996-deft9601555a)
