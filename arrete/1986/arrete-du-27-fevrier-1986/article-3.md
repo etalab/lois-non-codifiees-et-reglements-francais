@@ -1,5 +1,3 @@
 # Article 3
 
-En cas de partage des voix, le président de la commission a voix prépondérante [*conditions de majorité*].
-
-Le secrétariat de la commission est assuré par le Centre national de la cinématographie.
+Les catégories d'informations nominatives traitées concernent l'identité, l'adresse et le numéro de téléphone. Les informations transmises sous leur responsabilité par les entreprises sont restituées à l'issue du traitement à un représentant dûment habilité.

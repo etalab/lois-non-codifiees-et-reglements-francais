@@ -1,3 +1,3 @@
 # Article 2
 
-L'arrêté du 25 novembre 1920 est abrogé.
+Le directeur général du Centre national de la cinématographie, le directeur du budget et le directeur du Trésor sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

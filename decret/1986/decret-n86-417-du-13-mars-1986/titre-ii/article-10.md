@@ -1,0 +1,3 @@
+# Article 10
+
+Le concours interne est ouvert aux candidats âgés de moins de trente-six ans au 1er janvier de l'année du concours [*limite d'âge*], s'ils justifient au 31 décembre de cette même année de cinq ans au moins de services effectifs dans un emploi de fonctionnaire ou d'agent de l'Etat, des collectivités territoriales ou d'un établissement public, compte non tenu des périodes de stage ou de formation dans une école ou un établissement ouvrant accès à un corps de la fonction publique. Il est ouvert dans les mêmes conditions aux agents en fonction dans une organisation internationale intergouvernementale.

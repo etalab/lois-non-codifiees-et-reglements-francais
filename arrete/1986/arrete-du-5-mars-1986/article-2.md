@@ -1,3 +1,3 @@
 # Article 2
 
-Les préfets, commissaires de la République des départements intéressés, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+A la fin de chaque semestre, les opérations relatives aux produits encaissés et aux dépenses payées du fonds de soutien des rentes sont retracées dans le budget de l'Etat.

@@ -1,47 +1,21 @@
 # Article 1
 
-Les associations, dont l'objet est la gestion de réseaux de mesure de la pollution atmosphérique, visées par l'article 5 du décret du 7 juin 1985 susvisé sont les suivantes :
+Peuvent être commissionnés par le ministre chargé de la pêche en eau douce en vue de la recherche et de la constatation des infractions aux dispositions du titre II du livre III du code rural et des textes pris pour son application les fonctionnaires et agents dont la liste est fixée ainsi qu'il suit :
 
-Association pour la gestion du réseau automatique de surveillance de la pollution atmosphérique dans la région d'Aix-Marseille (Air-maraix) ;
+1° a) Les gardes-pêche du Conseil supérieur de la pêche ;
 
-Association interdépartementale pour la gestion du réseau de mesure de la pollution atmosphérique et d'alerte en région d'Ile-de-France (Airparif) ;
+b) Les agents du Conseil supérieur de la pêche désignés par le directeur général dudit conseil.
 
-Association pour la mise en oeuvre du réseau d'étude, de mesure et d'alarme pour la prévention de la pollution atmosphérique en Basse-Seine (zone de l'estuaire) (Alpa) ;
+2° a) Les ingénieurs du génie rural, des eaux et des forêts ;
 
-Association pour la mesure et la prévention de la pollution atmosphérique et l'étude des déchets industriels en Languedoc-Roussillon (Ampadilr) ;
+b) Les ingénieurs des travaux forestiers de l'Etat ;
 
-Association pour la mesure et le contrôle de la pollution atmosphérique dans l'estuaire de la Loire (Ampael) ;
+c) Les techniciens des travaux forestiers, les chefs de districts forestiers et les agents forestiers de l'Etat ou de l'Office national des forêts détachés auprès de l'Etat ;
 
-Association pour la mise en oeuvre d'un réseau de mesures continues et de surveillance de la pollution atmosphérique dans l'agglomération de la Rochelle (Ampalr) ;
+d) Les ingénieurs des travaux ruraux, les techniciens du génie rural et les agents désignés par les chefs des services chargés de la police de la pêche en eau douce.
 
-Association pour la mise en oeuvre du réseau d'étude et d'alarme pour la prévention de la pollution atmosphérique dans la communauté urbaine de Dunkerque (Aremad) ;
+3° a) Les ingénieurs des ponts et chaussées ;
 
-Association pour la mise en oeuvre du réseau d'étude, de mesure et d'alerte pour la prévention de la pollution atmosphérique dans la zone Lille-Roubaix-Tourcoing (Aremalrt) ;
+b) Les ingénieurs des travaux publics de l'Etat ;
 
-Association pour la mise en oeuvre du réseau de mesure de la pollution atmosphérique du pays de Montbéliard (Arpam) ;
-
-Association pour le contrôle de la pollution atmosphérique
-
-dans la région grenobloise (Ascoparg) ;
-
-Association de surveillance de la pollution tmosphérique en Alsace (Aspa) ;
-
-Association pour la surveillance de la qualité de l'air dans l'agglomération bisontine (Asqab) ;
-
-Association pour la surveillance de la qualité de l'air en Picardie (Asqap) ;
-
-Association pour l'étude et la mesure des polluants (Emp) ;
-
-Comité de coordination pour le contrôle de la pollution atmosphérique dans la région lyonnaise (Coparly) ;
-
-Association pour l'étude, la surveillance et la prévention de la pollution atmosphérique dans l'agglomération caennaise (Espac) ;
-
-Association pour l'étude et la surveillance de la pollution dans la région de Carling (Espol) ;
-
-Association pour la mise en oeuvre du réseau d'étude, de la mesure et d'alarme pour la prévention de la pollution atmosphérique en Basse-Seine (zone rouennaise) (Remappa) ;
-
-Association pour la mise en oeuvre du réseau de surveillance de la pollution de Dijon (Resupadi) ;
-
-Association pour l'exploitation du réseau de mesures de la qualité de l'environnement des vallées de la Fensch, de l'Orne et de la Moselle proche (Aerfom) ;
-
-Association lyonnaise pour la protection de l'atmosphère (Alpolair).
+c) Les techniciens des travaux publics de l'Etat, les conducteurs et les agents des travaux publics de l'Etat désignés par les chefs des services chargés de la police de la pêche en eau douce.

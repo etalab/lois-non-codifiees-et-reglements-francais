@@ -1,11 +1,3 @@
 # Article 3
 
-Les méthodes d'essais normalisées suivantes doivent être utilisées pour déterminer les spécifications énoncées à l'article 2 :
-
-- indice d'octane recherche ISO 5164 ou NF M 07026 ;
-
-- indice d'octane moteur ISO 5163 ou NF M 07026 ;
-
-- teneur en plomb ASTM D 3237 ou M 07026 ;
-
-- teneur en benzène ASTM D. 2267 ou 07062.
+Le directeur général du développement régional et de l'environnement industriel et technologique, le directeur de l'administration générale et le directeur de la qualité et de la sécurité industrielles au ministère du redéploiement industriel et du commerce extérieur sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française et qui prendra effet trente jours après sa date de publication.

@@ -1,0 +1,7 @@
+# Article 20
+
+A l'issue de la période de formation ou du cycle de perfectionnement, les élèves sont affectés par le président du Centre national de gestion [*autorité compétente*] dans une collectivité ou un établissement après accord de l'autorité territoriale en qualité d'administrateur territorial stagiaire dans les conditions prévues aux 1er et 2ème alinéas de l'article 45 de la loi du 26 janvier 1984 et au 1er alinéa de l'article 46 de la même loi.
+
+La titularisation des intéressés dans le corps des administrateurs territoriaux est décidée par l'autorité territoriale investie du pouvoir de nomination. La titularisation ne peut intervenir qu'à l'issue de leur stage. Sous réserve des dispositions du 2ème alinéa de l'article 46 de la loi du 26 janvier 1984, la durée du stage est égale à six mois. Ce stage peut être renouvelé une fois par l'autorité territoriale. Si, à l'issue du stage, la titularisation n'est pas prononcée, l'administrateur stagiaire est, soit licencié, s'il n'avait pas préalablement la qualité de fonctionnaire, soit, s'il avait cette qualité, réintégré dans son corps ou son emploi d'origine.
+
+Le fonctionnaire titularisé issu d'un concours est placé à l'échelon du grade d'administrateur territorial de 2ème classe correspondant à l'ancienneté acquise depuis le début de la formation, sans qu'il soit tenu compte du renouvellement de la période de formation prévu à l'article 18 ni du renouvellement du stage prévu à l'alinéa précédent.

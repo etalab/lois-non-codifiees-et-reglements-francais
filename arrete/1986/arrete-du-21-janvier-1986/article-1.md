@@ -1,3 +1,3 @@
 # Article 1
 
-Il est interdit de détenir en vue de la vente, de mettre en vente ou de vendre sous le nom de "supercarburant sans plomb" un produit ne présentant pas la composition et les caractéristiques fixées par l'article 2 ci-après.
+Le montant des taxes de vérification primitive des instruments neufs ou réparés est fixé conformément au tableau annexé au présent arrêté.

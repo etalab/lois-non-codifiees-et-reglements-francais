@@ -1,4 +1,4 @@
-# Arrêté du 5 mars 1986 relatif au chiffre de la population à prendre en considération dans certaines communes pour la création d'officines de pharmacie par application des dispositions des articles L. 571 et L. 572 du code de la santé publique
+# Arrêté du 5 mars 1986 relatif au fonds de soutien des rentes
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

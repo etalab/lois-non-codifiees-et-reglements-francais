@@ -1,0 +1,3 @@
+# Article 9
+
+A titre exceptionnel, les candidats qui ne remplissent pas une des conditions de diplôme prévues à l'article 8 ci-dessus, mais ont une formation d'un niveau suffisant, peuvent être autorisés à se présenter au concours externe par une commission présidée par un conseiller d'Etat ou un conseiller maître à la Cour des comptes et comprenant six membres, dont deux élus locaux, deux professeurs de l'enseignement supérieur et deux fonctionnaires territoriaux. Les membres de la commission sont nommés pour une durée de trois ans par arrêté du ministre chargé des collectivités territoriales. Cette commission examine le dossier des candidats. Elle peut entendre les candidats si elle le juge utile.

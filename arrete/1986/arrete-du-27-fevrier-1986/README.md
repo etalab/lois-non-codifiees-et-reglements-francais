@@ -1,4 +1,4 @@
-# Arrêté du 27 février 1986 relatif aux modalités d'organisation et de fonctionnement de la commission prévue à l'article 10 du décret n° 86-175 du 6 février 1986 relatif au soutien financier de l'Etat à l'industrie des programmes audiovisuels.
+# Arrêté du 27 février 1986 portant création d'un traitement automatisé relatif au marquage des fichiers de clientèle des entreprises.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

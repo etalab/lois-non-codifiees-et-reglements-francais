@@ -1,4 +1,4 @@
-# Arrêté du 7 mars 1986 relatif au paiement des traitements de la Légion d'honneur et de la médaille militaire
+# Arrêté du 7 mars 1986 relatif à la répartition du soutien financier de l'Etat à l'industrie des programmes audiovisuels.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
