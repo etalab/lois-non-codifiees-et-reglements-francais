@@ -1,0 +1,3 @@
+# Article 2
+
+Est considérée comme présomption de preuve de la conformité de la détermination des puissances thermiques annoncées par une méthode décrite dans la norme française figurant en annexe la présence sur le corps de chauffe de la marque nationale NF de conformité aux normes, apposée dans les conditions fixées par le règlement particulier correspondant, et la présentation de la décision d'admission à la marque NF, délivrée par l'Afnor ou, à défaut, la présentation d'une attestation d'agrément en cours de validité délivrée par le ministre chargé de l'industrie, après avis du directeur général de l'Afnor et après un contrôle technique réalisé selon les modalités prévues à l'article 3.

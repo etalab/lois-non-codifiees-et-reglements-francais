@@ -1,0 +1,3 @@
+# Article 4
+
+Est considérée comme présomption de preuve de la conformité de la détermination des puissances thermiques annoncées par une méthode décrite dans une norme étrangère figurant en annexe la présentation d'un certificat de conformité délivré par un organisme agréé par le ministre chargé de l'industrie, après un contrôle technique dont les modalités sont définies par la décision d'agrément de cet organisme. Ce certificat peut notamment être délivré lorsque la conformité à la norme pertinente est constatée dans le cadre du système de certification national auquel appartient l'organisme.

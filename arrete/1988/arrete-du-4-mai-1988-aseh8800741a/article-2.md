@@ -1,0 +1,5 @@
+# Article 2
+
+Les assistants associés peuvent être appelés, en tant que de besoin, à collaborer au service de garde en effectuant des gardes sur place dans le cadre de leur service d'affectation, en appui des gardes ou des astreintes à domicile effectuées par les personnels médicaux du service statutairement habilités à participer au service de gardes et astreintes, et sous leur responsabilité.
+
+L'exercice de cette activité peut donner lieu à récupération dans les conditions prévues par l'arrêté du 29 décembre 1982, modifié, relatif aux gardes des internes et des étudiants en médecine désignés pour occuper provisoirement un poste d'interne, ou le cas échéant, à indemnisation sur la base des taux fixés pour l'indemnisation sur la base des taux fixés pour l'indemnisation des permanences à l'hôpital effectuées par les internes de 3e et de 4e année figurant à l'article 1er de l'arrêté susvisé du 29 décembre 1982, relatif à l'indemnisation des gardes effectuées par les internes et les étudiants désignés pour occuper provisoirement un poste d'interne des établissements d'hospitalisation publics autre que les hôpitaux locaux.
