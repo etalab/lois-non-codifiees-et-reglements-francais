@@ -1,9 +1,7 @@
 # Article 31
 
-Le budget de chaque agence d'insertion est présenté et voté par chapitre. Il comporte une section de fonctionnement et une section des opérations en capital.
+Le budget de l'agence est proposé par le directeur et voté par le conseil d'administration.
 
-Chacune de ces sections est également présentée selon la répartition suivante :
+Il est établi en section de fonctionnement et en section d'investissement, tant en recettes qu'en dépenses.
 
-a) Le budget des services propres à l'agence, qui regroupe les dépenses relatives auxdits services ;
-
-b) L'enveloppe budgétaire attribuée à chaque commission locale d'insertion et aux cellules d'appui mises en place auprès de la commission intéressée.
+Le budget de l'agence est présenté en chapitres et articles, conformément à la nomenclature par nature établie par arrêté conjoint du ministre chargé des collectivités locales et du ministre chargé du budget. Cet arrêté fixe également la liste des chapitres et des articles.

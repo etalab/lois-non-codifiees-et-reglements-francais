@@ -1,6 +1,6 @@
 # Article 5
 
-La durée du mandat des membres du conseil d'administration mentionnés aux 2° et 3° de l'article 4 est de trois ans, renouvelable une fois.
+La durée du mandat des membres du conseil d'administration autres que les membres de droit est de trois ans, renouvelable une fois.
 
 Tout membre qui perd la qualité au titre de laquelle il a été nommé cesse de faire partie du conseil. Il est remplacé dans un délai de deux mois. En ce cas, le mandat du nouveau membre expire à la date à laquelle aurait dû prendre fin celui de son prédécesseur.
 

@@ -1,3 +1,3 @@
 # Article 32
 
-Le budget, préparé par le directeur, est présenté au conseil d'administration de l'agence qui en délibère au plus tard le 1er novembre de l'année précédant celle pour laquelle il est établi.
+Les crédits sont votés par chapitres et, si le conseil d'administration en décide ainsi, par article. Toutefois, hors les cas où le conseil d'administration a spécifié que les crédits sont spécialisés par article, le directeur peut effectuer des virements d'article à article à l'intérieur du même chapitre.

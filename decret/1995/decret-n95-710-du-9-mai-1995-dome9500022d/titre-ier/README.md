@@ -2,4 +2,4 @@
 
 - [CHAPITRE Ier : Dispositions générales.](chapitre-ier)
 - [CHAPITRE II : Dispositions financières et comptables.](chapitre-ii)
-- [CHAPITRE III : Dispositions relatives au personnel des agences d'insertion.](chapitre-iii)
+- [CHAPITRE II bis : Dispositions financières et comptables.](chapitre-ii-bis)

@@ -1,6 +1,6 @@
 # Article 25
 
-Le programme annuel de tâches d'utilité sociale est préparé par le directeur de l'agence d'insertion, qui le soumet aux coprésidents du conseil d'administration au plus tard le 10 mars de l'année pour laquelle il est établi.
+Le programme annuel de tâches d'utilité sociale est préparé par le directeur de l'agence d'insertion, qui le soumet au conseil d'administration au plus tard le 10 mars de l'année pour laquelle il est établi.
 
 Ce programme évalue les besoins en tâches d'utilité sociale à satisfaire dans le département. Pour chaque besoin recensé, le programme précise :
 

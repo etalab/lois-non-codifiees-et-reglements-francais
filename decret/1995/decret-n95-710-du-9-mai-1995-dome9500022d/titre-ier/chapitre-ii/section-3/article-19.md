@@ -16,8 +16,6 @@ Le comité d'orientation est composé des membres suivants :
 
 - le président de la chambre départementale d'agriculture ou son représentant ;
 
-- le directeur de la caisse d'allocations familiales du département ou son représentant ;
-
 - le président du conseil économique et social régional ou son représentant ;
 
 - la déléguée régionale aux droits des femmes ou son représentant.

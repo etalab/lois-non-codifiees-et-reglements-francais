@@ -1,3 +1,3 @@
 # Article 7
 
-La liste nominative des membres titulaires et suppléants du conseil d'administration est publiée au Recueil des actes administratifs de la préfecture et à celui du département.
+La liste nominative des membres titulaires et suppléants du conseil d'administration est publiée au Recueil des actes administratifs du département.
