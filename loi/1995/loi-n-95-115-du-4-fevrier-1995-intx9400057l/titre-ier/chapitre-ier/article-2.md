@@ -8,7 +8,7 @@ La politique d'aménagement et de développement durable du territoire repose su
 
 - l'organisation d'agglomérations favorisant leur développement économique, l'intégration des populations, la solidarité dans la répartition des activités, des services et de la fiscalité locale ainsi que la gestion maîtrisée de l'espace ;
 
-- le soutien des territoires en difficulté, notamment les territoires ruraux en déclin, certains territoires de montagne, les territoires urbains déstructurés ou très dégradés cumulant des handicaps économiques et sociaux, certaines zones littorales, les zones en reconversion, les régions insulaires et les départements d'outre-mer-régions ultrapériphériques françaises.
+- le soutien des territoires en difficulté, notamment les territoires ruraux en déclin, certains territoires de montagne, les territoires urbains déstructurés ou très dégradés cumulant des handicaps économiques et sociaux, certaines zones littorales, les zones en reconversion, les régions insulaires et les départements d'outre-mer-régions ultrapériphériques françaises et des pays mentionnés au treizième alinéa de l'article 22.
 
 Afin de concourir à la réalisation de chacun de ces choix stratégiques ainsi qu'à la cohésion de ces territoires, l'Etat assure :
 

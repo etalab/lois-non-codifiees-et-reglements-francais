@@ -6,7 +6,7 @@ a) Les personnes morales mentionnées aux 1° et 2° de l'article premier de la 
 
 b) Les personnes morales dont la moitié au moins du capital est, directement ou par une personne interposée, détenue par les personnes morales mentionnées aux 1° et 2° de l'article 1er et qui ont pour vocation d'apporter leur concours aux maîtres d'ouvrage, à condition qu'elles n'aient pas une activité de maître d'oeuvre ou d'entrepreneur pour le compte de tiers ;
 
-c) Les organismes privés d'habitations à loyer modéré mentionnés à l'article L. 411-2 du code de la construction et de l'habitation, mais seulement au profit d'autres organismes d'habitations à loyer modéré ainsi que pour les ouvrages liés à une opération de logements aidés ;
+c) Les organismes privés d'habitations à loyer modéré mentionnés à l'article L. 411-2 du code de la construction et de l'habitation, pour la réalisation d'ouvrages de bâtiment dans le cadre d'une action ou opération d'aménagement ou pour la réalisation d'ouvrages de bâtiment au profit d'autres organismes d'habitations à loyer modéré ainsi que pour les opérations de logements réglementés et les ouvrages qui leur sont liés ;
 
 d) Les sociétés d'économie mixte locales régies par la loi n° 83-597 du 7 juillet 1983 relative aux sociétés d'économie mixte locales ;
 

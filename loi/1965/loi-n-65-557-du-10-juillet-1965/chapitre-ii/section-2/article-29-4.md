@@ -1,3 +1,5 @@
 # Article 29-4
 
-Les dispositions de la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises et de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises ne sont pas applicables aux syndicats de copropriétaires.
+Sur le rapport de l'administrateur provisoire précisant les conditions matérielles, juridiques et financières mentionnées à l'article 28 et consignant l'avis des copropriétaires, le président du tribunal de grande instance, statuant comme en matière de référé, peut prononcer aux conditions qu'il fixe la division si d'autres mesures ne permettent pas le rétablissement du fonctionnement normal de la copropriété.
+
+Le président du tribunal de grande instance statuant comme en matière de référé désigne, pour chaque syndicat des copropriétaires né de la division, la personne chargée de convoquer l'assemblée générale en vue de la désignation d'un syndic.

@@ -1,6 +1,6 @@
 # Article 40
 
-I. - Les dispositions des articles 8, 10 à 12, 15 à 20, du premier alinéa de l'article 22, des cinq premiers alinéas de l'article 23 ne sont pas applicables aux logements appartenant aux organismes d'habitations à loyer modéré et ne faisant pas l'objet d'une convention passée en application de l'article L. 351-2 du code de la construction et de l'habitation. Les dispositions de l'article 14 sont applicables à la condition que le bénéficiaire du transfert du contrat remplisse les conditions d'attribution dudit logement.
+I. - Les dispositions des articles 8, 10 à 12, 15 à 19, du premier alinéa de l'article 20, du premier alinéa de l'article 22, des cinq premiers alinéas de l'article 23 ne sont pas applicables aux logements appartenant aux organismes d'habitations à loyer modéré et ne faisant pas l'objet d'une convention passée en application de l'article L. 351-2 du code de la construction et de l'habitation. Les dispositions de l'article 14 sont applicables à la condition que le bénéficiaire du transfert du contrat remplisse les conditions d'attribution dudit logement.
 
 Toutefois, les dispositions des deuxième et troisième alinéas du paragraphe I de l'article 15 leur sont applicables lorsque le congé émane du locataire.
 
@@ -12,7 +12,7 @@ Toutefois, les dispositions des deuxième et troisième alinéas du paragraphe I
 
 Les dispositions de l'article 14 leur sont applicables à la condition que le bénéficiaire du transfert remplisse les conditions d'attribution desdits logements.
 
-En outre, les dispositions de l'article 16, des paragraphes a, b, c et d de l'article 17, des articles 18 à 20 et des cinq premiers alinéas de l'article 23 ne sont pas applicables aux logements régis par une convention conclue en application de l'article L. 353-14 du code de la construction et de l'habitation.
+En outre, les dispositions de l'article 16, des paragraphes a, b, c et d de l'article 17, des articles 18 et 19, du premier alinéa de l'article 20 et des cinq premiers alinéas de l'article 23 ne sont pas applicables aux logements régis par une convention conclue en application de l'article L. 353-14 du code de la construction et de l'habitation.
 
 IV. - Les dispositions des cinq premiers alinéas de l'article 23 ne sont pas applicables aux logements dont les conditions sont réglementées en contrepartie de primes ou prêts spéciaux à la construction consentis par le Crédit foncier de France ou la Caisse centrale de coopération économique.
 

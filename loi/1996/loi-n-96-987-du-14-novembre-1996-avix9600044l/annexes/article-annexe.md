@@ -22,7 +22,9 @@ Charleville-Mézières : Ronde Couture ;
 
 Chenôve : Le Mail ;
 
-Clichy-sous-Bois/Montfermeil : grands ensembles du haut et du bas Clichy et de Montfermeil ;
+Clichy-sous-Bois/Montfermeil : grands ensembles du haut et du bas
+
+Clichy et de Montfermeil ;
 
 Creil/Montataire : plateau Rouher ;
 
@@ -30,7 +32,7 @@ Dreux/Saint-Gemme-Moronval : plateau Est : Chamards, Croix Tiénac, Lièvre d'Or
 
 Garges-lès-Gonesse/Sarcelles : Dame Blanche Nord et Ouest, La Muette, Lochères ;
 
-Grigny/Viry-Châtillon : La Grande Borne ;
+Grigny/Viry-Châtillon : La Grande Borne et le village de    Grigny ;
 
 La Seyne-sur-Mer : ZUP de Berthe ;
 

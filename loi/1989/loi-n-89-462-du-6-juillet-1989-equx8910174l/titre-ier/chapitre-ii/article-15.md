@@ -8,7 +8,7 @@ Pendant le délai de préavis, le locataire n'est redevable du loyer et des char
 
 A l'expiration du délai de préavis, le locataire est déchu de tout titre d'occupation des locaux loués.
 
-II. - Lorsqu'il est fondé sur la décision de vendre le logement, le congé doit, à peine de nullité, indiquer le prix et les conditions de la vente projetée. Le congé vaut offre de vente au profit du locataire : l'offre est valable pendant les deux premiers mois du délai de préavis.
+II. - Lorsqu'il est fondé sur la décision de vendre le logement, le congé doit, à peine de nullité, indiquer le prix et les conditions de la vente projetée. Le congé vaut offre de vente au profit du locataire : l'offre est valable pendant les deux premiers mois du délai de préavis. Les dispositions de l'article 46 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis ne sont pas applicables au congé fondé sur la décision de vendre le logement.
 
 A l'expiration du délai de préavis, le locataire qui n'a pas accepté l'offre de vente est déchu de plein droit de tout titre d'occupation sur le local.
 
@@ -21,6 +21,8 @@ Le locataire qui accepte l'offre ainsi notifiée dispose, à compter de la date 
 Les termes des cinq alinéas précédents sont reproduits à peine de nullité dans chaque notification.
 
 Ces dispositions ne sont pas applicables aux actes intervenant entre parents jusqu'au troisième degré inclus, sous la condition que l'acquéreur occupe le logement pendant une durée qui ne peut être inférieure à deux ans à compter de l'expiration du délai de préavis, ni aux actes portant sur les immeubles mentionnés au deuxième alinéa de l'article 1er de la loi n° 53-286 du 4 avril 1953 modifiant la loi n° 48-1360 du 1er septembre 1948 portant modification et codification de la législation relative aux rapports des bailleurs et locataires ou occupants de locaux d'habitation ou à usage professionnel.
+
+Dans les cas de congés pour vente prévus à l'article 11-1, l'offre de vente au profit du locataire est dissociée du congé.
 
 III. - Le bailleur ne peut s'opposer au renouvellement du contrat en donnant congé dans les conditions définies au paragraphe I ci-dessus à l'égard de tout locataire âgé de plus de soixante-dix ans et dont les ressources annuelles sont inférieures à une fois et demie le montant annuel du salaire minimum de croissance, sans qu'un logement correspondant à ses besoins et à ses possibilités lui soit offert dans les limites géographiques prévues à l'article 13 bis de la loi n° 48-1360 du 1er septembre 1948 précitée.
 
