@@ -163,6 +163,7 @@
 - [Décret n°2003-1139 du 26 novembre 2003 (SPRK0370173D)](decret-n2003-1139-du-26-novembre-2003-sprk0370173d)
 - [Décret n°2003-1292 du 26 décembre 2003 (EQUP0301724D)](decret-n2003-1292-du-26-decembre-2003-equp0301724d)
 - [Décret n°2003-160 du 26 février 2003 (SANP0320261D)](decret-n2003-160-du-26-fevrier-2003-sanp0320261d)
+- [Décret n°2003-174 du 26 février 2003 (MENS0300389D)](decret-n2003-174-du-26-fevrier-2003-mens0300389d)
 - [Décret n°2003-602 du 26 juin 2003 (FPPA0300048D)](decret-n2003-602-du-26-juin-2003-fppa0300048d)
 - [Décret n°2003-603 du 26 juin 2003 (FPPA0300045D)](decret-n2003-603-du-26-juin-2003-fppa0300045d)
 - [Décret n°2003-604 du 26 juin 2003 (FPPA0300049D)](decret-n2003-604-du-26-juin-2003-fppa0300049d)
