@@ -4,7 +4,7 @@ Dans le présent cahier des charges, il est fait usage de termes qui sont entend
 
 L'exploitant ou permissionnaire
 
-Il s'agit de la société Montenay, autorisée par le ministre chargé des télécommunications par l'arrêté dont ce cahier des charges est l'annexe, à établir et exploiter un réseau radioélectrique à ressources partagées (3 RP) ouvert aux tiers sur la zone de Bordeaux.
+Il s'agit de la société R.M.S. Aquitaine, autorisée par le ministre chargé des télécommunications par l'arrêté dont ce cahier des charges est l'annexe, à établir et exploiter un réseau radioélectrique à ressources partagées (3 RP) ouvert aux tiers sur la zone de Bordeaux.
 
 Le réseau
 
