@@ -18,3 +18,4 @@
 - [Décret n°80-1143 du 30 décembre 1980](decret-n80-1143-du-30-decembre-1980)
 - [Décret n°80-1145 du 30 décembre 1980](decret-n80-1145-du-30-decembre-1980)
 - [Décret n°80-1150 du 30 décembre 1980](decret-n80-1150-du-30-decembre-1980)
+- [Décret n°80-1155 du 31 décembre 1980](decret-n80-1155-du-31-decembre-1980)
