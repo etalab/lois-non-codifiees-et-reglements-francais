@@ -120,8 +120,6 @@ Paris-VII.
 
 Paris-VIII.
 
-Paris-IX.
-
 Paris-X.
 
 Paris-XI.

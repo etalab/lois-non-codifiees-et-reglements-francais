@@ -31,3 +31,5 @@ Muséum national d'histoire naturelle ;
 Observatoire de Paris ;
 
 Palais de la Découverte.
+
+Université de technologie en sciences des organisations et de la décision de Paris-Dauphine.
