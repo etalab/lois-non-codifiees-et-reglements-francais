@@ -41,6 +41,7 @@
 - [Décret n°92-882 du 1 septembre 1992 (MENT9200282D)](decret-n92-882-du-1-septembre-1992-ment9200282d)
 - [Décret n°92-886 du 1 septembre 1992 (TEFF9205179D)](decret-n92-886-du-1-septembre-1992-teff9205179d)
 - [Décret du 2 mars 1992 (JUSC9220001D)](decret-du-2-mars-1992-jusc9220001d)
+- [Décret du 2 septembre 1992 (DEFD9201721D)](decret-du-2-septembre-1992-defd9201721d)
 - [Décret n°90-544 du 2 juillet 1990 (MENK9070013D)](decret-n90-544-du-2-juillet-1990-menk9070013d)
 - [Décret n°91-341 du 2 avril 1991 (MAEA9020362D)](decret-n91-341-du-2-avril-1991-maea9020362d)
 - [Décret n°92-1 du 2 janvier 1992 (SPSS9102647D)](decret-n92-1-du-2-janvier-1992-spss9102647d)
