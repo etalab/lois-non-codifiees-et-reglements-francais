@@ -312,7 +312,9 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tbody>
 </table>
 
-b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés : <table>
+b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés :
+
+<table>
 <tbody>
 <tr>
 <td width="227">
@@ -466,7 +468,9 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tbody>
 </table>
 
-b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés : <table>
+b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés :
+
+<table>
 <tbody>
 <tr>
 <td width="227">
@@ -543,7 +547,9 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 
 Les mensualités de référence pour les logements occupés par leur propriétaire et financés par les prêts prévus par les articles R. 331-32 à R. 331-62 sont fixées comme suit lorsque la date de signature du contrat de prêt mentionné sur le certificat prévu à l'article 2 (3°) de l'arrêté du 22 août 1986 modifié susvisé est intervenue après le 30 juin 1990 :
 
-a) Logements neufs construits ou acquis par l'accédant à la propriété : <table>
+a) Logements neufs construits ou acquis par l'accédant à la propriété :
+
+<table>
 <tbody>
 <tr>
 <td width="227">
@@ -774,7 +780,9 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tbody>
 </table>
 
-b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés : <table>
+b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés :
+
+<table>
 <tbody>
 <tr>
 <td width="227">
@@ -928,7 +936,9 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tbody>
 </table>
 
-b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés : <table>
+b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés :
+
+<table>
 <tbody>
 <tr>
 <td width="227">
@@ -1001,4 +1011,160 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </td>
 </tr>
 </tbody>
-</table>.
+</table>
+
+Les mensualités de référence pour les logements occupés par leur propriétaire et financés par les prêts prévus par les articles R. 331-32 à R. 331-62 sont fixées comme suit lorsque la date de signature du contrat de prêt mentionné sur le certificat prévu à l'article 2 (3°) de l'arrêté du 22 août 1986 modifié relatif à la fixation des justifications nécessaires à l'attribution de l'aide personnalisée au logement et à son renouvellement est intervenue après la date de publication du présent arrêté [*27 novembre 1994*] :
+
+a) Logements neufs construits ou acquis par l'accédant à la propriété :
+
+<table>
+<tbody>
+<tr>
+<td width="227">
+<p align="center">DÉSIGNATION</p>
+</td>
+<td width="151">
+<p align="center">ZONE 1<br/>(en francs)</p>
+</td>
+<td width="151">
+<p align="center">ZONE 2<br/>(en francs)</p>
+</td>
+<td width="151">
+<p align="center">ZONE 3<br/>(en francs)</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Bénéficiaire isolé</p>
+</td>
+<td width="151">
+<p align="center">1 840</p>
+</td>
+<td width="151">
+<p align="center">1 642</p>
+</td>
+<td width="151">
+<p align="center">1 532</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Ménage sans personne à charge</p>
+</td>
+<td width="151">
+<p align="center">2 220</p>
+</td>
+<td width="151">
+<p align="center">1 977</p>
+</td>
+<td width="151">
+<p align="center">1 837</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
+</td>
+<td width="151">
+<p align="center">2 600</p>
+</td>
+<td width="151">
+<p align="center">2 312</p>
+</td>
+<td width="151">
+<p align="center">2 142</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Par personne supplémentaire à charge</p>
+</td>
+<td width="151">
+<p align="center">380</p>
+</td>
+<td width="151">
+<p align="center">335</p>
+</td>
+<td width="151">
+<p align="center">305</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou logements existants acquis et améliorés :
+
+<table>
+<tbody>
+<tr>
+<td width="227">
+<p align="center">DÉSIGNATION</p>
+</td>
+<td width="151">
+<p align="center">ZONE 1<br/>(en francs)</p>
+</td>
+<td width="151">
+<p align="center">ZONE 2<br/>(en francs)</p>
+</td>
+<td width="151">
+<p align="center">ZONE 3<br/>(en francs)</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Bénéficiaire isolé</p>
+</td>
+<td width="151">
+<p align="center">1 481</p>
+</td>
+<td width="151">
+<p align="center">1 320</p>
+</td>
+<td width="151">
+<p align="center">1 233</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Ménage sans personne à charge</p>
+</td>
+<td width="151">
+<p align="center">1 787</p>
+</td>
+<td width="151">
+<p align="center">1 589</p>
+</td>
+<td width="151">
+<p align="center">1 479</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
+</td>
+<td width="151">
+<p align="center">2 093</p>
+</td>
+<td width="151">
+<p align="center">1 858</p>
+</td>
+<td width="151">
+<p align="center">1 725</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Par personne supplémentaire à charge</p>
+</td>
+<td width="151">
+<p align="center">306</p>
+</td>
+<td width="151">
+<p align="center">269</p>
+</td>
+<td width="151">
+<p align="center">246</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -6,4 +6,4 @@ Le coefficient prévu par l'article R. 351-21-2 est fixé à :
 
 0,0215 dans le cas des logements améliorés par leur propriétaire occupant, lorsque la signature du contrat de prêt est postérieure au 30 juin 1987 ;
 
-0,0273 dans les autres cas.
+0,028 2 dans les autres cas.

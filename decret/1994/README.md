@@ -635,6 +635,8 @@
 - [Décret n°94-1012 du 23 novembre 1994 (MAEF9410046D)](decret-n94-1012-du-23-novembre-1994-maef9410046d)
 - [Décret n°94-1013 du 23 novembre 1994 (DEFP9401757D)](decret-n94-1013-du-23-novembre-1994-defp9401757d)
 - [Décret n°94-1014 du 23 novembre 1994 (AGRE9401380D)](decret-n94-1014-du-23-novembre-1994-agre9401380d)
+- [Décret n°94-1018 du 23 novembre 1994 (LOGC9400073D)](decret-n94-1018-du-23-novembre-1994-logc9400073d)
+- [Décret n°94-1019 du 23 novembre 1994 (ACVA9410111D)](decret-n94-1019-du-23-novembre-1994-acva9410111d)
 - [Décret n°94-174 du 23 février 1994 (PRMX9300200D)](decret-n94-174-du-23-fevrier-1994-prmx9300200d)
 - [Décret n°94-248 du 23 mars 1994 (MAEJ9430018D)](decret-n94-248-du-23-mars-1994-maej9430018d)
 - [Décret n°94-249 du 23 mars 1994 (MAEJ9430022D)](decret-n94-249-du-23-mars-1994-maej9430022d)
