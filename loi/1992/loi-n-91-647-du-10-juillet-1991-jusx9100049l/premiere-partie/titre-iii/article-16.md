@@ -1,8 +1,8 @@
 # Article 16
 
-Chaque bureau ou section de bureau d'aide juridictionnelle prévus à l'article 13 est présidé, selon le cas, par un magistrat du siège du tribunal de grande instance ou de la cour d'appel ou un membre du tribunal administratif ou de la cour administrative d'appel. Ils peuvent également être présidés par un magistrat ou un membre honoraire de ces juridictions.
+Chaque bureau ou section de bureau d'aide juridictionnelle prévus à l'article 13 est présidé, selon le cas, par un magistrat du siège du tribunal de grande instance ou de la cour d'appel ou un membre du tribunal administratif ou de la cour administrative d'appel. Ils peuvent également être présidés par un magistrat ou un membre honoraire de ces juridictions. Le greffier en chef du tribunal de grande instance ou de la cour d'appel, selon les cas, est vice-président du bureau ou de la section chargés d'examiner les demandes d'aide juridictionnelle relatives aux instances portées devant les juridictions de première instance de l'ordre judiciaire et la cour d'assises ou devant la cour d'appel.
 
-Le bureau établi près la Cour de cassation est présidé par un magistrat du siège de cette cour en activité ou honoraire. Il comporte en plus deux membres choisis par la Cour de cassation.
+Le bureau établi près la Cour de cassation est présidé par un magistrat du siège de cette cour en activité ou honoraire. Le greffier en chef en est vice-président. Il comporte en plus deux membres choisis par la Cour de cassation.
 
 Le bureau établi près le Conseil d'Etat est présidé par un membre du Conseil d'Etat en activité ou honoraire. Il comporte en plus deux membres choisis par le Conseil d'Etat ou, lorsque la demande concerne le tribunal des conflits, un membre choisi par le Conseil d'Etat et un membre choisi par la Cour de cassation.
 
