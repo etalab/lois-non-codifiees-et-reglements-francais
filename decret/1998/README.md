@@ -531,7 +531,6 @@
 - [Décret n°92-1322 du 18 décembre 1992 (EQUX9200219D)](decret-n92-1322-du-18-decembre-1992-equx9200219d)
 - [Décret n°93-398 du 18 mars 1993 (INTB9300128D)](decret-n93-398-du-18-mars-1993-intb9300128d)
 - [Décret n°97-860 du 18 septembre 1997 (JUSX9700096D)](decret-n97-860-du-18-septembre-1997-jusx9700096d)
-- [Décret n°98-1036 du 18 novembre 1998 (MESF9811103D)](decret-n98-1036-du-18-novembre-1998-mesf9811103d)
 - [Décret n°98-1037 du 18 novembre 1998 (ECOD9800586D)](decret-n98-1037-du-18-novembre-1998-ecod9800586d)
 - [Décret n°98-1039 du 18 novembre 1998 (EQUT9801256D)](decret-n98-1039-du-18-novembre-1998-equt9801256d)
 - [Décret n°98-104 du 18 février 1998 (MAEJ9830009D)](decret-n98-104-du-18-fevrier-1998-maej9830009d)
