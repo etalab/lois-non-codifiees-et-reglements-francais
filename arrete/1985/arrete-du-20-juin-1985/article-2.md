@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur du Trésor et du chef du service juridique et technique de l'information sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le lactose hydrolysé utilisé conformément aux dispositions de l'article 1er doit provenir de matières premières d'origine laitière telles que le lait liquide écrémé ou non, le lait partiellement ou totalement déshydraté, le babeurre, les jus lactosés, les lactosérums, les concentrés de protéines laitières. Ces matières premières ne doivent pas renfermer de nitrates en proportion supérieure à 50 milligrammes par kilogramme par rapport à l'extrait sec.

@@ -1,0 +1,3 @@
+# Article 15
+
+A défaut d'accord pour une catégorie d'ouvrages dans un délai de six mois à compter de la publication du décret prévu à l'article 16 *point de départ*, ou, à défaut d'accord dans les trois mois suivant la dénonciation d'un accord en vigueur, un décret en Conseil d'Etat fixe pour cette catégorie d'ouvrages les dispositions applicables. Ce décret prend en compte les accords partiels intervenus. Sa durée d'application *maximum* est limitée à trois ans. Si aucun accord n'a été conclu trois mois avant l'expiration de ce délai, un nouveau décret peut être pris pour une nouvelle période qui est au maximum de trois ans à compter de la date d'expiration du précédent décret.

@@ -2,5 +2,6 @@
 
 - [Titre Ier : Dispositions générales.](titre-ier)
 - [Titre II : De l'organisation et de l'administration des coopératives.](titre-ii)
+- [Titre II bis.](titre-ii-bis)
 - [Titre III : Contrôle et sanctions.](titre-iii)
 - [Titre IV : Dispositions diverses.](titre-iv)

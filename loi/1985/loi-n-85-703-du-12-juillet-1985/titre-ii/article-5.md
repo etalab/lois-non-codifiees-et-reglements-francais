@@ -1,0 +1,3 @@
+# Article 5
+
+Les préférences accordées par le code des marchés publics aux artisans satisfaisant aux dispositions du code de l'artisanat et, en ce qui concerne les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, aux artisans acquittant la taxe pour frais de chambre de métiers, ainsi qu'aux sociétés coopératives d'artisans et aux sociétés coopératives d'artistes inscrites sur une liste établie par le ministre chargé de l'artisanat, sont applicables aux ressortissants jouissant d'un statut professionnel comparable établis dans les Etats membres de la Communauté économique européenne et aux sociétés coopératives ressortissants de ces Etats membres présentant des caractéristiques comparables et inscrites sur une lite établie par le ministre chargé de l'artisanat.
