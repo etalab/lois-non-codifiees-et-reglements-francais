@@ -1,0 +1,3 @@
+# Article 18
+
+Dès la publication au Journal officiel de la République française de l'avis d'enquête, le préfet procède à la consultation des chefs des services civils et de l'autorité militaire intéressés. Il leur transmet à cette fin les pièces énumérées au quatrième alinéa de l'article 16 ci-dessus. Trente jours au plus tard après réception de ces pièces, les chefs des services consultés lui font connaître leur avis et précisent les contraintes existant sur la zone en cause qui seraient de nature à affecter l'exploitation. A défaut de réponse dans ce délai, les avis sont réputés favorables. Dans les mêmes conditions, le préfet procède à la consultation des maires des communes sur le territoire desquelles porte en tout ou partie la concession sollicitée.

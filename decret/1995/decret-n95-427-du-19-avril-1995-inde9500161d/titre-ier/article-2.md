@@ -1,0 +1,7 @@
+# Article 2
+
+Sont soumis à l'avis du Conseil général des mines les projets de décision relatifs à l'institution, à la prolongation, à l'extension, à la mutation, à l'amodiation, à la fusion, à la renonciation et au retrait des titres miniers.
+
+Lorsqu'il s'agit d'un titre portant sur une substance intéressant l'énergie atomique, la demande est soumise pour avis au Comité de l'énergie atomique, avant l'envoi du dossier au Conseil général des mines. A défaut de réponse dans un délai d'un mois suivant sa saisine, l'avis du Comité de l'énergie atomique est réputé favorable.
+
+Lorsqu'il s'agit d'un titre portant, en tout ou partie, sur le fond de la mer, la demande est soumise pour avis à l'Institut français pour l'exploitation de la mer (Ifremer), qui dispose d'un mois pour se prononcer. Cet avis, les résultats de la consultation des chefs des services civils et de l'autorité militaire intéressés et, s'il s'agit d'une concession, les résultats de l'enquête font l'objet, avant l'envoi du dossier au Conseil général des mines, d'une consultation écrite des ministres chargés des affaires étrangères, du budget, de la défense nationale, de l'environnement, des pêches maritimes, des ports maritimes et des télécommunications. Ces ministres disposent d'un mois pour se prononcer. Si, dans ce délai, un avis défavorable à l'octroi du titre a été formulé, le ministre chargé des mines convoque, sous sa présidence ou celle de son représentant, une conférence interministérielle qui dispose à son tour d'un mois pour se prononcer.
