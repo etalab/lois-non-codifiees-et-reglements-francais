@@ -1,4 +1,4 @@
-# Article 2
+# Article 10
 
 Les ristournes sont accordées soit à l'initiative de la caisse de mutualité sociale agricole, soit à la demande de l'employeur. La caisse soumet pour avis ses propositions de ristournes, accompagnées d'un rapport motivé, à l'examen du comité d'hygiène et de sécurité ou à défaut des délégués du personnel, du directeur régional du travail et de la protection sociale agricoles et du comité technique régional compétent ou de la commission paritaire permanente constituée à cet effet.
 

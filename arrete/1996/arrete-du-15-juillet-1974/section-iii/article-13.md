@@ -1,4 +1,4 @@
-# Article 5
+# Article 13
 
 Les caisses de mutualité sociale agricole peuvent imposer à tout employeur une cotisation supplémentaire pour tenir compte des risques exceptionnels présentés par l'exploitation ou entreprise, révélés notamment par une infraction constatée en application de l'article 611-10 du code du travail ou résultant d'une inobservation des mesures de prévention prescrites en application des articles 5 (alinéas 1er et 3) et 8 (alinéa 1er) du décret susvisé du 11 septembre 1973 et dont l'exécution relève ou non de la procédure d'injonction.
 

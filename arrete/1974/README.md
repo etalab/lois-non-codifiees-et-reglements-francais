@@ -26,7 +26,6 @@
 - [Arrêté du 10 janvier 1974](arrete-du-10-janvier-1974)
 - [Arrêté du 13 février 1974](arrete-du-13-fevrier-1974)
 - [Arrêté du 14 mai 1974](arrete-du-14-mai-1974)
-- [Arrêté du 15 juillet 1974](arrete-du-15-juillet-1974)
 - [Arrêté du 15 juillet 2004 (MENE0401650A)](arrete-du-15-juillet-2004-mene0401650a)
 - [Arrêté du 15 mai 1974](arrete-du-15-mai-1974)
 - [Arrêté du 16 mai 1974](arrete-du-16-mai-1974)

@@ -1,4 +1,4 @@
-# Section III : Dispositions communes.
+# Section III : Cotisations supplémentaires.
 
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)

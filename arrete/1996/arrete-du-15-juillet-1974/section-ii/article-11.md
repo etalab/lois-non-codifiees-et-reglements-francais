@@ -1,4 +1,4 @@
-# Article 3
+# Article 11
 
 Les ristournes sont allouées à compter du premier jour du mois civil qui suit la décision de la caisse de mutualité sociale agricole sous forme d'une réduction de cotisation dont le montant ne pourra excéder 25 p. 100.
 

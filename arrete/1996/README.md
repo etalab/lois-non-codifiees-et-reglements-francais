@@ -65,6 +65,7 @@
 - [Arrêté du 15 janvier 1996 (JUSG9560076A)](arrete-du-15-janvier-1996-jusg9560076a)
 - [Arrêté du 15 janvier 1996 (MENF9600063A)](arrete-du-15-janvier-1996-menf9600063a)
 - [Arrêté du 15 janvier 1996 (MENN9503056A)](arrete-du-15-janvier-1996-menn9503056a)
+- [Arrêté du 15 juillet 1974](arrete-du-15-juillet-1974)
 - [Arrêté du 16 décembre 1997 (JUSH9770034A)](arrete-du-16-decembre-1997-jush9770034a)
 - [Arrêté du 16 janvier 1996 (TASS9620351A)](arrete-du-16-janvier-1996-tass9620351a)
 - [Arrêté du 16 octobre 1995 (SANS9502261A)](arrete-du-16-octobre-1995-sans9502261a)
