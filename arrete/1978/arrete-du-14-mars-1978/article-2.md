@@ -1,25 +1,25 @@
 # Article 2
 
-Le comité est composé de neuf membres dont six ont voix délibérative et trois voix consultative.
+Le comité est composé de neuf membres [*nombre*] dont six ont voix délibérative et trois voix consultative.
 
 Les membres ayant voix délibérative sont :
 
-- Le directeur du trésor ou son représentant ;
+- le directeur du Trésor ou son représentant ;
 
-- Le directeur du budget ou son représentant ;
+- le directeur du Budget ou son représentant ;
 
-- Le directeur général des impôts ou son représentant ;
+- le directeur général des Impôts ou son représentant ;
 
-- Le directeur général de l'industrie ou son représentant ;
+- le directeur général de l'Industrie ou son représentant ;
 
-- Le directeur des mines ou son représentant ;
+- le directeur des Mines ou son représentant ;
 
-- Le directeur de la prévention des pollutions et nuisances ou son représentant ;
+- le directeur de la Prévention des pollutions et nuisances ou son représentant ;
 
 Les membres ayant voix consultative sont :
 
-- Le président de la société anonyme Natexis ou toute société qu'elle contrôle au sens de l'article L. 233-3 du code de commerce. ou son représentant ;
+- le président de la société anonyme Natexis ou toute société qu'elle contrôle au sens de l'article 355-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales ou son représentant ;
 
-- Le directeur de l'agence pour les économies d'énergie ou son représentant ;
+- le directeur de l'Agence pour les économies d'énergie ou son représentant ;
 
-- Le directeur de l'agence nationale pour la récupération des déchets ou son représentant.
+- le directeur de l'Agence nationale pour la récupération des déchets ou son représentant.

@@ -1,6 +1,6 @@
 # Article 6
 
-Les actions [*valeurs mobilières*], les certificats, les droits ou bons mentionnés au a de l'article 1er ci-dessus sont déposés chez les intermédiaires agréés ci-après désignés :
+Les actions, les certificats, les droits ou bons mentionnés au a de l'article 1er ci-dessus sont déposés chez les intermédiaires agréés ci-après désignés :
 
 La Banque de France ;
 
@@ -16,7 +16,7 @@ La caisse centrale de crédit coopératif ;
 
 Les banques populaires ;
 
-La banque française du commerce extérieur ;
+La société anonyme Natexis ou toute société qu'elle contrôle au sens de l'article 355-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales ;
 
 La caisse centrale de crédit mutuel, pour ses opérations et pour celles des caisses fédérales ;
 
