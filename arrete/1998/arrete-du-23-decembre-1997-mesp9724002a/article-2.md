@@ -8,6 +8,8 @@ Concentré de globules rouges humains homologue (unité adulte, unité enfant et
 
 Concentré de globules rouges humains homologue déleucocyté (unité adulte, unité enfant et unité pédiatrique) : 954,45 F ;
 
+Concentré unitaire de granulocytes d'aphérèse : 2 797,15 F ;
+
 Concentré de plaquettes standard : 196,05 F ;
 
 Concentré de plaquettes d'aphérèse :
