@@ -1,6 +1,6 @@
 # Article 228
 
-Tout licenciement envisagé par l'administrateur, l'employeur ou le liquidateur, selon le cas, du représentant des salariés mentionné aux articles 10 et 139 est obligatoirement soumis au comité d'entreprise [*attributions*], qui donne un avis sur le projet de licenciement.
+Tout licenciement envisagé par l'administrateur, l'employeur ou le liquidateur, selon le cas, du représentant des salariés mentionné aux articles 10, 139 et 148-1 est obligatoirement soumis au comité d'entreprise [*attributions*], qui donne un avis sur le projet de licenciement.
 
 Le licenciement ne peut intervenir que sur autorisation de l'inspecteur du travail dont dépend l'établissement. Lorsqu'il n'existe pas de comité d'entreprise dans l'établissement, l'inspecteur du travail est saisi directement.
 

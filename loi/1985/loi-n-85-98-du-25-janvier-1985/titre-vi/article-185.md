@@ -1,6 +1,6 @@
 # Article 185
 
-Lorsqu'une procédure de redressement judiciaire est ouverte, les dispositions du présent titre sont applicables [*champ d'application*] :
+Lorsqu'une procédure de redressement judiciaire ou de liquidation judiciaire est ouverte, les dispositions du présent titre sont applicables [*champ d'application*] :
 
 1° Aux personnes physiques exerçant la profession de commerçant, d'artisan ou d'agriculteur ;
 

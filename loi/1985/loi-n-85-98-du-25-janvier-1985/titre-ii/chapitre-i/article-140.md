@@ -1,5 +1,5 @@
 # Article 140
 
-La période d'observation s'ouvre par une période d'enquête limitée à trente jours [*durée*] renouvelable une fois par ordonnance du président du tribunal à la demande du débiteur, du procureur de la République ou du juge-commissaire.
+La durée maximale de la période d'observation, qui peut être renouvelée une fois par décision motivée du tribunal qui statue, soit à la demande du débiteur, du procureur de la République ou de l'administrateur, s'il en a été nommé un, soit d'office, est fixée par décret en Conseil d'Etat. Lorsqu'il s'agit d'une exploitation agricole, le tribunal peut proroger la durée de la période d'observation jusqu'au terme de l'année culturale en cours compte tenu des usages spécifiques aux productions concernées.
 
-Le juge-commissaire, avec le concours du débiteur et l'assistance éventuelle d'un expert de son choix, est chargé de procéder à une enquête afin de dresser un rapport sur la situation économique et sociale de l'entreprise et sur ses perspectives de redressement. Les constatations de l'expert sont consignées dans le rapport du juge.    Le juge-commissaire dispose des pouvoirs prévus à l'article 19.
+Le juge-commissaire dispose des pouvoirs prévus à l'article 19.

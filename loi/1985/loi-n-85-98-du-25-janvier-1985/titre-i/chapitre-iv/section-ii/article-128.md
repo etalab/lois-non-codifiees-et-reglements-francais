@@ -1,6 +1,6 @@
 # Article 128
 
-Les créances résultant d'un contrat de travail sont garanties en cas d'ouverture d'une procédure de redressement judiciaire :
+Les créances résultant d'un contrat de travail sont garanties en cas d'ouverture d'une procédure de redressement judiciaire ou de liquidation judiciaire :
 
 1° Par le privilège établi par les articles L. 143-10, L. 143-11, L. 742-15 du code du travail, pour les causes et montants définis auxdits articles [*superprivilège des salariés*] ;
 

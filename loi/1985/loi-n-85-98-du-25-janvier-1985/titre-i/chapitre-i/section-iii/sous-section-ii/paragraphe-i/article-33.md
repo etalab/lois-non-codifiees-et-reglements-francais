@@ -1,6 +1,6 @@
 # Article 33
 
-Le jugement ouvrant la procédure emporte, de plein droit, interdiction de payer toute créance née antérieurement au jugement d'ouverture.
+Le jugement ouvrant la procédure emporte, de plein droit, interdiction de payer toute créance née antérieurement au jugement d'ouverture. Cette interdiction ne fait pas obstacle au paiement par compensation de créances connexes.
 
 Le juge-commissaire peut autoriser le chef d'entreprise ou l'administrateur à faire un acte de disposition étranger à la gestion courante de l'entreprise, à consentir une hypothèque ou un nantissement ou à compromettre ou transiger.
 

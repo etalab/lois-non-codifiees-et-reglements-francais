@@ -5,3 +5,5 @@ Le sous-traitant a une action directe contre le maître de l'ouvrage si l'entrep
 Toute renonciation à l'action directe est réputée non écrite.
 
 Cette action directe subsiste même si l'entrepreneur principal est en état de liquidation des biens, de règlement judiciaire ou de suspension provisoire des poursuites.
+
+Les dispositions du deuxième alinéa de l'article 1799-1 du code civil sont applicables au sous-traitant qui remplit les conditions édictées au présent article.

@@ -2,7 +2,7 @@
 
 Lorsque les fonds disponibles du débiteur n'y peuvent suffire immédiatement, le Trésor public, sur ordonnance du juge-commissaire ou du président du tribunal, fait l'avance des frais et débours, y compris les frais de signification et de publicité afférents [*charge des frais*] :
 
-- aux décisions qui interviennent au cours de la procédure de redressement judiciaire rendues dans l'intérêt collectif des créanciers ou du débiteur ;
+- aux décisions qui interviennent au cours de la procédure de redressement judiciaire ou de liquidation judiciaire rendues dans l'intérêt collectif des créanciers ou du débiteur ;
 
 - à l'exercice des actions tendant à conserver ou à reconstituer le patrimoine du débiteur ou exercées dans l'intérêt collecif des créanciers ;
 

@@ -1,6 +1,6 @@
 # Article 141
 
-Pendant cette période, l'activité est poursuivie par le débiteur sauf s'il apparaît nécessaire au tribunal de nommer un administrateur qui peut être soit l'expert mentionné à l'article 140, soit un administrateur judiciaire, soit toute personne qualifiée. Dans ce cas, le débiteur est soit dessaisi et représenté par l'administrateur, soit assisté par celui-ci [*attributions*].
+Pendant cette période, l'activité est poursuivie par le débiteur sauf s'il apparaît nécessaire au tribunal de nommer un administrateur qui peut être soit un administrateur judiciaire, soit toute personne qualifiée. Dans ce cas, le débiteur est soit dessaisi et représenté par l'administrateur, soit assisté par celui-ci [*attributions*].
 
 En l'absence d'administrateur :
 

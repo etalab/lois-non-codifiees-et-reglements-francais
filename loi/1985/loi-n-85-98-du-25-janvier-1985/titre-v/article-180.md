@@ -4,4 +4,4 @@ Lorsque le redressement judiciaire ou la liquidation judiciaire d'une personne m
 
 L'action se prescrit par trois ans à compter du jugement qui arrête le plan de redressement ou, à défaut, du jugement qui prononce la liquidation judiciaire [*délai de prescription*].
 
-Les sommes versées par les dirigeants en application de l'alinéa 1er entrent dans le patrimoine du débiteur et sont affectées en cas de continuation de l'entreprise selon les modalités prévues par le plan d'apurement du passif. En cas de liquidation, ces sommes sont réparties entre tous les créanciers au marc le franc.
+Les sommes versées par les dirigeants en application de l'alinéa 1er entrent dans le patrimoine du débiteur et sont affectées en cas de continuation de l'entreprise selon les modalités prévues par le plan d'apurement du passif. En cas de cession ou de liquidation, ces sommes sont réparties entre tous les créanciers au marc le franc.

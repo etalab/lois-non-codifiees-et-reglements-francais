@@ -1,5 +1,7 @@
 # Article 10-3
 
-Le commissaire aux comptes demande par écrit des explications aux administrateurs qui sont tenus de répondre, dans les conditions et délais fixés par décret en Conseil d'Etat, sur tout fait de nature à compromettre la continuité de l'exploitation qu'il a relevé à l'occasion de sa mission [*procédure d'alerte*]. La réponse est communiquée au comité d'entreprise [*information*].
+Lorsque le commissaire aux comptes relève, à l'occasion de l'exercice de sa mission, des faits de nature à compromettre la continuité de l'exploitation du groupement, il en informe les administrateurs, dans des conditions qui sont fixées par décret en Conseil d'Etat. Ceux-ci sont tenus de lui répondre sous quinze jours. La réponse est communiquée au comité d'entreprise. Le commissaire aux comptes en informe le président du tribunal.
 
-En cas d'inobservation de ces dispositions ou si, en dépit des décisions prises, il constate que la continuité de l'exploitation demeure compromise, le commissaire aux comptes établit un rapport spécial. Il peut demander que ce rapport soit adressé aux membres du groupement ou qu'il soit présenté à la prochaine assemblée. Ce rapport est communiqué au comité d'entreprise.
+En cas d'inobservation de ces dispositions, ou s'il constate qu'en dépit des décisions prises la continuité de l'exploitation demeure compromise, le commissaire aux comptes établit un rapport spécial et invite par écrit les administrateurs à faire délibérér la prochaine assemblée générale sur les faits relevés. Ce rapport est communiqué au comité d'entreprise.
+
+Si, à l'issue de la réunion de l'assemblée générale, le commissaire aux comptes constate que les décisions prises ne permettent pas d'assurer la continuité de l'exploitation, il informe de ses démarches le président du tribunal et lui en communique les résultats.

@@ -6,4 +6,4 @@ La cession a pour but d'assurer le maintien d'activités susceptibles d'exploita
 
 Elle peut être totale ou partielle. Dans ce dernier cas, elle porte sur un ensemble d'éléments d'exploitation qui forment une ou plusieurs branches complètes et autonomes d'activités.
 
-En l'absence de plan de continuation de l'entreprise, les biens non compris dans le plan de cession sont vendus selon les modalités prévues au titre III.
+En l'absence de plan de continuation de l'entreprise, les biens non compris dans le plan de cession sont vendus et les droits et actions du débiteur sont exercés par le commissaire à l'exécution du plan selon les modalités prévues au titre III.

@@ -1,7 +1,9 @@
 # Article 35
 
-Pour la mise en oeuvre de mesures de redressement, les dirigeants des entreprises commerciales ou artisanales dont les comptes prévisionnels font apparaître des besoins qui ne peuvent être couverts par un financement adapté aux possibilités de l'entreprise peuvent demander au président du tribunal de commerce de nommer un conciliateur.
+Sans préjudice du pouvoir du président du tribunal de commerce de désigner un mandataire ad hoc dont il détermine la mission, il est institué une procédure de règlement amiable ouverte à toute entreprise commerciale ou artisanale qui, sans être en cessation de paiements, éprouve une difficulté juridique, économique ou financière ou des besoins ne pouvant être couverts par un financement adapté aux possibilités de l'entreprise.
 
-Les dirigeants de toute autre entreprise ayant une activité économique peuvent demander au président du tribunal de grande instance la nomination d'un conciliateur dans les conditions prévues à l'alinéa précédent.
+Le président du tribunal de commerce est saisi par une requête du représentant de l'entreprise, qui expose sa situation financière, économique et sociale, les besoins de financement ainsi que les moyens d'y faire face.
 
-Le conciliateur [*attributions*] a pour mission de favoriser le redressement notamment par la conclusion d'un accord entre le débiteur et les principaux créanciers de celui-ci sur des délais de paiement ou de remises de dettes.
+Outre les pouvoirs qui lui sont attribués par le second alinéa de l'article 34, le président du tribunal peut charger un expert de son choix d'établir un rapport sur la situation économique, sociale et financière de l'entreprise et, nonobstant toute disposition législative ou réglementaire contraire, obtenir des établissements bancaires ou financiers tout renseignement de nature à donner une exacte information sur la situation économique et financière de l'entreprise.
+
+Le président du tribunal ouvre le règlement amiable et désigne un conciliateur pour une période n'excédant pas trois mois mais qui peut être prorogée d'un mois au plus à la demande de ce dernier.

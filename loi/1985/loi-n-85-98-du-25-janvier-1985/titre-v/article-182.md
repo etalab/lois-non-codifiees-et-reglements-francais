@@ -1,6 +1,6 @@
 # Article 182
 
-En cas de redressement judiciaire d'une personne morale, le tribunal peut ouvrir une procédure de redressement judiciaire à l'égard de tout dirigeant de droit ou de fait, rémunéré ou non, contre lequel peut être relevé un des faits ci-après :
+En cas de redressement judiciaire ou de liquidation judiciaire d'une personne morale, le tribunal peut ouvrir une procédure de redressement judiciaire à l'égard de tout dirigeant de droit ou de fait, rémunéré ou non, contre lequel peut être relevé un des faits ci-après :
 
 1° Avoir disposé des biens de la personne morale comme des siens propres ;
 
@@ -14,8 +14,10 @@ En cas de redressement judiciaire d'une personne morale, le tribunal peut ouvrir
 
 6° Avoir détourné ou dissimulé tout ou partie de l'actif ou frauduleusement augmenté le passif de la personne morale.
 
-En cas de redressement judiciaire prononcé en application du présent article, le passif comprend, outre le passif personnel, celui de la personne morale.
+7° Avoir tenu une comptabilité manifestement incomplète ou irrégulière au regard des dispositions légales.
 
-La date de la cessation des paiements est celle fixée par le jugement d'ouverture du redressement judiciaire de la personne morale.
+En cas de redressement judiciaire ou de liquidation judiciaire prononcé en application du présent article, le passif comprend, outre le passif personnel, celui de la personne morale.
+
+La date de la cessation des paiements est celle fixée par le jugement d'ouverture du redressement judiciaire ou de la liquidation judiciaire de la personne morale.
 
 L'action se prescrit par trois ans à compter du jugement qui arrête le plan de redressement de l'entreprise ou, à défaut, du jugement qui prononce la liquidation judiciaire [*extension de faillite - délai de prescription*].

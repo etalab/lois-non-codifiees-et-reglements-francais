@@ -1,3 +1,5 @@
 # Article 27
 
-Le juge-commissaire [*pouvoirs*] peut prescrire l'inventaire des biens de l'entreprise et l'apposition des scellés.
+Il est procédé à l'inventaire des biens de l'entreprise dès l'ouverture de la procédure.
+
+L'absence d'inventaire ne fait pas obstacle à l'exercice des actions en revendication ou en restitution.

@@ -4,4 +4,8 @@ Dans le jugement d'ouverture, le tribunal désigne le juge-commissaire et deux m
 
 L'administrateur peut demander la désignation d'un ou plusieurs experts.
 
-Aucun parent ou allié jusqu'au quatrième degré inclusivement du chef d'entreprise ou des dirigeants, s'il s'agit d'une personne morale, ne peut être désigné à l'une des fonctions prévues au présent article [*incompatibilités*].
+Aucun parent ou allié jusqu'au quatrième degré inclusivement du chef d'entreprise ou des dirigeants, s'il s'agit d'une personne morale, ne peut être désigné à l'une des fonctions prévues au présent article, [*incompatibilités*] sauf dans les cas où cette disposition empêche la désignation d'un représentant des salariés.
+
+Lorsqu'aucun représentant des salariés ne peut être désigné, un procès-verbal de carence est établi par le chef d'entreprise.
+
+En l'absence de comité d'entreprise ou de délégué du personnel, le représentant des salariés exerce les fonctions dévolues à ces institutions par les dispositions du titre premier.
