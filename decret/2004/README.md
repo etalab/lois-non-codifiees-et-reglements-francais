@@ -18,6 +18,7 @@
 - [Décret n°2004-205 du 3 mars 2004 (INTF0400046D)](decret-n2004-205-du-3-mars-2004-intf0400046d)
 - [Décret n°2004-208 du 3 mars 2004 (BUDR0403007D)](decret-n2004-208-du-3-mars-2004-budr0403007d)
 - [Décret n°2004-491 du 3 juin 2004 (INTC0400122D)](decret-n2004-491-du-3-juin-2004-intc0400122d)
+- [Décret n°89-73 du 3 février 1989 (SPSX8910066D)](decret-n89-73-du-3-fevrier-1989-spsx8910066d)
 - [Décret n°2003-1163 du 4 décembre 2003 (MCCB0300819D)](decret-n2003-1163-du-4-decembre-2003-mccb0300819d)
 - [Décret n°2004-108 du 4 février 2004 (SANP0324626D)](decret-n2004-108-du-4-fevrier-2004-sanp0324626d)
 - [Décret n°2004-117 du 4 février 2004 (MCCB0300927D)](decret-n2004-117-du-4-fevrier-2004-mccb0300927d)
