@@ -1026,7 +1026,6 @@
 - [Arrêté du 26 août 1994 (BUDD9470007A)](arrete-du-26-aout-1994-budd9470007a)
 - [Arrêté du 26 août 1994 (ECOT9426124A)](arrete-du-26-aout-1994-ecot9426124a)
 - [Arrêté du 26 août 1994 (INDD9400856A)](arrete-du-26-aout-1994-indd9400856a)
-- [Arrêté du 26 août 1994 (INTC9400426A)](arrete-du-26-aout-1994-intc9400426a)
 - [Arrêté du 26 août 1994 (SPSH9402808A)](arrete-du-26-aout-1994-spsh9402808a)
 - [Arrêté du 26 avril 1994 (ECOT9410209A)](arrete-du-26-avril-1994-ecot9410209a)
 - [Arrêté du 26 avril 1994 (INDA9400520A)](arrete-du-26-avril-1994-inda9400520a)
