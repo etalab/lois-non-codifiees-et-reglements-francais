@@ -1,18 +1,10 @@
 # Article 17
 
-Sous réserve des dispositions de l'article 19 du présent décret, aucun fromage ne peut être détenu ou transporté en vue de la vente, mis en vente ou vendu qu'accompagné des indications suivantes :
+Outre les mentions prévues par les dispositions du décret n° 84-1147 du 7 décembre 1984 portant application de la loi du 1er août 1905 sur les fraudes et et falsifications en matière de produits ou de services, en ce qui concerne l'étiquetage et la présentation des denrées alimentaires,l'étiquetage des fromages doit comporter les indications suivantes :
 
-La dénomination du fromage ;
+- en ce qui concerne les produits fabriqués en France, l'indication du lieu de fabrication par la mention du département ou de la région ;
 
-Les noms et adresse du fabricant, cette mention pouvant être remplacée par l'indication d'un numéro d'immatriculation dans les conditions prévues par arrêté ministériel ;
-
-Le lieu de fabrication (département ou région) du produit ;
-
-La teneur en matière grasse minimum pour 100 grammes de fromage ramené à l'état sec ; cette indication sera donnée par la formule :
-
-"X... pour cent de matière grasse".
-
-Sous réserve des dispositions de l'article 18 ci-après, les indications relatives au lieu de fabrication du fromage et à sa teneur en matière grasse seront inscrites en caractères apparents de dimensions au moins égales aux deux tiers de celles des caractères de la dénomination et de même apparence typographique.
+- la teneur en matière grasse  minimale pour 100 grammes de fromage ramené à l'état sec ; cette indication sera donnée par la formule : "X p. 100 de matière grasse".
 
 Les indications relatives à la teneur en matière grasse et au lieu de fabrication ne sont pas exigibles en ce qui concerne les fromages ayant droit à une appellation d'origine.
 

@@ -1,7 +1,5 @@
 # Article 1
 
-Pour l'année 1985, les taux de la contribution des exploitants agricoles assurés contre les accidents du travail au titre de l'article 1234-19 du code rural à percevoir pour alimenter le fonds commun des accidents du travail agricole sont fixés comme suit :
+La déclaration de ressources à prendre en compte pour l'attribution ou le renouvellement d'une allocation ou d'une prestation à caractère familial ou social doit être conforme pour l'année 1984 au modèle n° S. 7123g annexé au présent arrêté (1). Ce modèle a été enregistré par le CERFA sous le n° 60-3722.
 
-1° Taxe sur les primes ou cotisations d'assurance couvrant la totalité ou une partie des rentes, avec garantie totale ou partielle des autres indemnités et frais : 65 p. 100.
-
-2° Taxe sur les primes ou cotisations d'assurance couvrant la totalité ou une partie des rentes, avec l'exclusion de la garantie des autres indemnités et frais : 87 p. 100.
+(1) Le modèle de cet imprimé est disponible auprès des organismes et des services de prestations familiales.
