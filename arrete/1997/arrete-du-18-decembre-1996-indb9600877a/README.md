@@ -7,4 +7,3 @@
 - [Titre V : Jaugeage.](titre-v)
 - [Titre VI : Organismes agréés.](titre-vi)
 - [Titre VII : Dispositions diverses.](titre-vii)
-- [Article 31](article-31.md)
