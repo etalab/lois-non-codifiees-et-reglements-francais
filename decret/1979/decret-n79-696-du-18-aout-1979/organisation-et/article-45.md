@@ -1,45 +1,49 @@
 # Article 45
 
-Le conseil d'administration de l'établissement public est composé de trente-huit membres [*nombre*], soit :
+Le conseil d'administration de l'établissement public est composé de quarante-trois membres dont :
 
-a) Sept fonctionnaires nommés sur proposition de chacun des ministres intéressés représentant respectivement :
+" 1. Neuf fonctionnaires nommés sur proposition des ministres intéressés et représentant respectivement :
 
-Le ministre chargé de l'aménagement du territoire ;
+" Le ministre chargé de la protection de la nature ;
 
-Le ministre chargé des collectivités locales ;
+" Le ministre chargé de l'aménagement du territoire ;
 
-Le ministre chargé des armées ;
+" Le ministre de l'intérieur ;
 
-Le ministre chargé de l'urbanisme ;
+" Le ministre chargé de l'agriculture ;
 
-Le ministre chargé de l'agriculture ;
+" Le ministre chargé de la défense ;
 
-Le ministre chargé de l'industrie et des mines ;
+" Le ministre chargé de l'urbanisme ;
 
-Le ministre chargé de la jeunesse, des sports et du tourisme.
+" Le ministre chargé de la culture ;
 
-b) Dix-huit conseillers généraux et maires nommés sur proposition des préfets des Alpes-Maritimes et des Alpes-de-Haute-Provence, soit :
+" Le ministre chargé de la jeunesse et des sports ;
 
-Cinq conseillers généraux désignés par le conseil général des Alpes-Maritimes et neuf maires des communes de ce département visées à l'article 1er du présent décret ;
+" Le ministre chargé du tourisme.
 
-Deux conseillers généraux désignés par le conseil général des Alpes-de-Haute-Provence et deux maires des communes de ce département visées à l'article 1er du présent décret.
+" 2. Dix-neuf représentants des collectivités territoriales et locales :
 
-c) Treize personnalités dont :
+" a) Un représentant du conseil régional de la région Provence-Alpes-Côte d'Azur ;
 
-Deux représentants du conseil national de la protection de la nature ;
+" b) Cinq représentants du conseil général des Alpes-Maritimes et deux représentants du conseil général des Alpes-de-Haute-Provence ;
 
-Un représentant du muséum national d'histoire naturelle ;
+" c) Onze maires de communes ayant une partie de leur territoire comprise dans le parc national, dont neuf pour le département des Alpes-Maritimes et deux pour le département des Alpes-de-Haute-Provence, élus respectivement par l'ensemble des maires des communes de chaque département ayant une partie de leur territoire comprise dans le parc.
 
-Un représentant de l'office national des forêts ;
+" 3. Quatorze personnalités nommées comme suit :
 
-Un représentant du club alpin français ;
+" a) Trois personnalités choisies par le ministre chargé de la protection de la nature ;
 
-Deux représentants d'associations de protection de la nature et de l'environnement ;
+" b) Deux personnalités sur proposition du Conseil national de la protection de la nature, dont une appartenant au milieu de la recherche scientifique ;
 
-Un représentant des activités agricoles locales ;
+" c) Une personnalité sur proposition de l'Office national des forêts ;
 
-Un représentant des intérêts cynégétiques locaux.
+" d) Sur proposition du préfet des Alpes-Maritimes, après avis du préfet des Alpes-de-Haute-Provence :
 
-Le ministre chargé des parcs nationaux peut appeler à siéger avec voix consultative au conseil d'administration dix personnalités au plus qu'il choisit notamment parmi les représentants des activités agricoles, pastorales et forestières, des intérêts halieutiques et cynégétiques, des associations de protection de la nature et de l'environnement et des activités sportives et touristiques.
+" i) Six personnalités à raison de trois par département, respectivement compétentes en matière de protection de la nature, d'agriculture et d'activités de plein air ;
 
-Le ministre de l'intérieur désigne un commissaire du Gouvernement parmi les préfets des Alpes-Maritimes et des Alpes-de-Haute-Provence.
+" ii) Deux personnalités respectivement compétentes en matière de chasse et de pêche.
+
+" 4. Un représentant du personnel élu par l'ensemble du personnel permanent du parc.
+
+" Le préfet des Alpes-Maritimes, commissaire du Gouvernement, le préfet des Alpes-de-Haute-Provence, le directeur de la protection de la nature, le président du comité scientifique du parc, le directeur du parc et le contrôleur financier, ou leurs représentants, assistent aux séances du conseil d'administration avec voix consultative. "
