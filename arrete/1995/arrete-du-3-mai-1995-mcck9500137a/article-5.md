@@ -1,6 +1,6 @@
 # Article 5
 
-Les aides sont accordées par décision du ministre chargé de la culture après avis d'une commission.
+Les aides sont accordées par le directeur général du Centre national de la cinématographie après avis d'une commission.
 
 Cette commission comprend, outre le directeur général du Centre national de la cinématographie ou son représentant, président, quatre personnalités choisies en raison de leur compétence et nommées par arrêté du ministre chargé de la culture pour une durée d'un an renouvelable.
 
