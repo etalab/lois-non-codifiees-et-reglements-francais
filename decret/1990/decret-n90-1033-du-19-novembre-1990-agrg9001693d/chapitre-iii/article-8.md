@@ -8,8 +8,8 @@ a) Le contrôleur général des services vétérinaires chargé d'inspection int
 
 b) Le directeur des services vétérinaires d'un département limitrophe sous réserve que le vétérinaire intéressé n'y détienne pas de mandat, désigné par le préfet en accord avec le préfet de ce département ;
 
-c) Trois vétérinaires sanitaires élus pour six ans par un collège formé de l'ensemble des vétérinaires sanitaires du département selon des modalités arrêtées par le ministre de l'agriculture, qui peuvent être remplacés par des suppléants élus dans les mêmes conditions.
+c) Trois vétérinaires désignés pour une durée de six ans par tirage au sort selon des modalités fixées par arrêté du ministre chargé de l'agriculture ;
 
-Le directeur des services vétérinaires du département rapporte l'affaire avec voix consultative.
+Le directeur des services vétérinaires du département rapporte l'affaire avec voix délibérative.
 
 La commission peut entendre toute personne dont l'audition lui paraît nécessaire.

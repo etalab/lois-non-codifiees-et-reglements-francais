@@ -1,5 +1,3 @@
 # Article 2
 
-Le mandat sanitaire peut être attribué soit pour l'ensemble du département, soit seulement pour une partie. Lorsqu'un vétérinaire a sollicité plusieurs mandats dans des départements différents, il ne peut s'en voir attribuer plus de quatre, à condition au surplus que les circonscriptions considérées soient limitrophes.
-
-Le détenteur d'un mandat sanitaire doit avoir son domicile professionnel dans le département au titre duquel il est mandaté ou, en cas de pluralité de mandats, dans un des départements pour lesquels il est mandaté.
+Le mandat sanitaire habilite son titulaire à exécuter toutes opérations de prophylaxie collective dirigées par l'Etat, toutes opérations de surveillance et de police sanitaire ainsi que toutes missions particulières prescrites par le ministre chargé de l'agriculture dès lors que celles-ci sont en rapport avec les opérations susmentionnées ; il ne peut être restreint à des interventions spécifiques.

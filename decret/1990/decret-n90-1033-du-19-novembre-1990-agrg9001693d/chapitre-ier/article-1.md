@@ -9,3 +9,5 @@ a) Une copie conforme de l'inscription au tableau de l'ordre des vétérinaires 
 b) Un extrait de casier judiciaire datant de moins de trois mois ;
 
 c) L'engagement, d'une part, de respecter les prescriptions techniques édictées par le ministre de l'agriculture et ses représentants pour l'exécution des opérations mentionnées au premier alinéa du présent article ainsi que les tarifs de rémunération y afférents, et, d'autre part, de rendre compte aux services vétérinaires de l'exécution des missions et des difficultés éventuellement rencontrées à cette occasion.
+
+Le mandat sanitaire est attribué pour l'ensemble du département dans lequel le vétérinaire a établi son domicile professionnel ; des mandats sanitaires peuvent, en outre, être attribués, sur demande du vétérinaire, pour un ou plusieurs départements limitrophes du précédent.
