@@ -16,4 +16,5 @@
 - [Dénonciation de la convention par l'organisme prêteur.](denonciation-de-la-convention-par)
 - [Remboursements anticipés.](remboursements-anticipes)
 - [Renseignements statistiques.](renseignements-statistiques)
+- [Taux d'intérêt maxima.](taux-d-interet-maxima)
 - [Taux d'intérêt maxima (hors assurance).](taux-d-interet-maxima-hors-assurance)
