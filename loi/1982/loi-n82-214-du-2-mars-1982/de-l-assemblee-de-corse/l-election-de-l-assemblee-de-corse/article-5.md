@@ -4,7 +4,7 @@ L'élection a lieu à la représentation proportionnelle, suivant la règle de l
 
 Les sièges sont attribués aux candidats d'après l'ordre de présentation sur chaque liste.
 
-Toutefois, sont seules admises à la répartition des sièges les listes ayant obtenu un nombre de suffrages au moins égal au total des suffrages exprimés divisé par le nombre de sièges à pourvoir.
+Jusqu'à la publication de la loi fixant les règles de l'élection des membres de l'ensemble des conseils régionaux, sont seules admises à la répartition des sièges les listes ayant obtenu un nombre de suffrages au moins égal à 5 p. 100 des suffrages exprimés.
 
 Au cas où il ne reste qu'un seul siège à attribuer, si plusieurs listes ont la même moyenne, le siège revient à la liste qui a obtenu le plus grand nombre de suffrages.
 
