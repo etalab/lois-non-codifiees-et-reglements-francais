@@ -4,4 +4,4 @@ Pour l'application du 2° de l'article 3 du décret n° 87-190 du 20 mars 1987 s
 
 1. Navires utilisés exclusivement à des travaux maritimes ou à des activités d'exploitation pétrolière, qui ne sont pas exploités dans la zone économique exclusive ou sur le plateau continental français ;
 
-2. Navires de commerce exploités en transport à la demande, à l'exclusion des navires effectuant des liaisons entre ports de France métropolitaine ou entre ports des départements d'outre-mer. "
+2° Les navires de commerce exploités en transport à la demande ou en transport de ligne régulière, à l'exception des navires transporteurs de passagers et des navires faisant des touchées exclusivement dans les ports de France métropolitaine.

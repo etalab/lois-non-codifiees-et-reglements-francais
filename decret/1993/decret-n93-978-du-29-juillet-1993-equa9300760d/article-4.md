@@ -1,0 +1,3 @@
+# Article 4
+
+Les techniciens d'études et de travaux de l'aviation civile et de la Météorologie nationale qui, à la date de leur intégration dans le corps des techniciens des études et de l'exploitation de l'aviation civile, perçoivent une indemnité différentielle basée sur les rémunérations ouvrières et reçoivent une rémunération globale supérieure à celle qui résulte de leur classement dans le corps des techniciens des études et de l'exploitation de l'aviation civile conservent à titre personnel le bénéfice des dispositions du décret n° 82-464 du 2 juin 1982 relatif à l'octroi d'une indemnité différentielle à certains techniciens d'études et de travaux de l'aviation civile et de la Météorologie nationale.
