@@ -66,6 +66,7 @@
 - [Décret n°68-414 du 3 mai 1968](decret-n68-414-du-3-mai-1968)
 - [Décret n°2000-385 du 3 mai 2000 (DEFD0001363D)](decret-n2000-385-du-3-mai-2000-defd0001363d)
 - [Décret n°2002-828 du 3 mai 2002 (MENF0200402D)](decret-n2002-828-du-3-mai-2002-menf0200402d)
+- [Décret n°2000-1 du 4 janvier 2000 (MCCB9900821D)](decret-n2000-1-du-4-janvier-2000-mccb9900821d)
 - [Décret n°2000-1177 du 4 décembre 2000 (DEFX0000161D)](decret-n2000-1177-du-4-decembre-2000-defx0000161d)
 - [Décret n°2000-1178 du 4 décembre 2000 (DEFD0002365D)](decret-n2000-1178-du-4-decembre-2000-defd0002365d)
 - [Décret n°2000-1179 du 4 décembre 2000 (DEFD0002364D)](decret-n2000-1179-du-4-decembre-2000-defd0002364d)
