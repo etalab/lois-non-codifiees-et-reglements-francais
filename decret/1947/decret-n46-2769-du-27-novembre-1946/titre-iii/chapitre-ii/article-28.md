@@ -10,4 +10,4 @@ Le conseil s'adjoint, en outre, avec voix délibérative, deux praticiens choisi
 
 Il est institué auprès du conseil d'administration un comité technique composé par parties égales de représentants des organisations professionnelles de travailleurs et d'employeurs et chargé de l'assister dans la gestion des risques d'accidents du travail et de maladie professionnelle.
 
-L'ingénieur en chef des mines ou son représentant assiste, avec voix délibérative, aux séances du comité technique.
+Le directeur régional des affaires sanitaires et sociales et le  directeur régional de l'industrie et de la recherche ou leurs  représentants assistent aux séances du comité technique avec voix  consultatives.
