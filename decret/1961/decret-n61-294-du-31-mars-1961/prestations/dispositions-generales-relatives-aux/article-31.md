@@ -1,11 +1,11 @@
 # Article 31
 
-Sous réserve des dispositions des conventions internationales, lorsque les soins sont dispensés hors de France [*à l'étranger*] aux assurés ou à leurs ayants droit, les prestations correspondantes des assurances maladie et maternité ne sont pas servies [*attributions*].
+Sous réserve des dispositions des conventions internationales, lorsque les soins sont dispensés hors de France [*à l'étranger*] aux assurés ou à leurs ayants droit, les prestations correspondantes des assurances maladie et maternité ne sont pas servies.
 
-Toutefois, les assureurs :
+Cependant les caisses de mutualité sociale agricole ou les autres organismes assureurs pourront [*attributions*] :
 
-Pourront après avis favorable [*condition préalable*] des services de contrôle médical, procéder au remboursement forfaitaire des soins dispensés hors de France aux assurés et à leurs ayants droit tombés malades au cours d'un déplacement à l'étranger, d'une durée de moins de trois mois, sans que ledit remboursement puisse excéder celui qui aurait été alloué si les intéressés avaient reçu en France les soins appropriés ;
+1. Procéder au remboursement forfaitaire des soins dispensés hors de France aux assurés non salariés agricoles et aux membres de leur famille qui sont tombés malades inopinément, sans que celui-ci puisse excéder le montant du remboursement qui aurait été alloué si les intéressés avaient reçu les soins en France.
 
-Pourront, à titre exceptionnel et après avis favorable des services de contrôle médical, procéder au remboursement forfaitaire de soins dispensés hors de France aux assurés et à leurs ayants droit lorsqu'il est établi qu'ils ne pouvaient recevoir sur le territoire français les soins appropriés à leur état.
+2. Lorsque les malades assurés non salariés agricoles ou ayants droit d'assurés non salariés agricoles ne pourront recevoir en France les soins appropriés à leur état, la caisse centrale de secours mutuels agricoles pourra, après autorisation conjointe du ministre de l'agriculture et du ministre de la santé, conclure toute convention avec les établissements de soins étrangers qualifiés, en vue de fixer les conditions de séjour des intéressés dans lesdits établissements ainsi que les modalités de remboursement des soins dispensés.
 
-Les conditions de séjour des intéressés dans les établissements de soins étrangers qualifiés et les modalités de remboursement des soins qui ne pourraient pas être dispensés sur le territoire français pourront être fixées par voie de conventions internationales.
+3. Indépendamment des cas prévus au paragraphe 2 ci-dessus, les caisses de mutualité sociale agricole ou les autres organismes assureurs pourront, à titre exceptionnel et après avis favorable du contrôle médical, procéder au remboursement forfaitaire des soins dispensés en dehors de la France à un assuré non salarié agricole ou ayant droit d'assuré non salarié agricole, lorsque celui-ci aura établi qu'il ne pouvait recevoir sur le territoire français les soins appropriés à son état.

@@ -1,3 +1,3 @@
 # Article 65
 
-Le versement du capital décès est fait exclusivement au conjoint survivant non séparé de corps ou à défaut aux descendants. Néanmoins, si le de cujus ne laisse ni conjoint ni survivant, ni descendant, le capital revient aux ascendants qui étaient au jour du décès à la charge de l'assuré [*bénéficiaire*].
+En cas de pluralité de personnes pouvant se prévaloir du droit de priorité prévu à l'article 1038 du code rural, le capital est versé par ordre de préférence au conjoint, aux enfants, aux ascendants [*bénéficiaires prioritaires*].
