@@ -1,6 +1,6 @@
 # Article 97-1
 
-Jusqu'au 31 juillet 1998, les praticiens hospitaliers peuvent accéder, sur leur demande et sous réserve des nécessités de la continuité et du fonctionnement du service, au bénéfice du congé de fin d'exercice s'ils remplissent les conditions suivantes :
+Jusqu'au 31 décembre 1999, les praticiens hospitaliers peuvent accéder, sur leur demande et sous réserve des nécessités de la continuité et du fonctionnement du service, au bénéfice du congé de fin d'exercice s'ils remplissent les conditions suivantes :
 
 1° Etre en position d'activité ou en détachement au titre des 1°, 2°, 7° et 8° de l'article 47 du présent décret ;
 
