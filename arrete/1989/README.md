@@ -106,6 +106,7 @@
 - [Arrêté du 6 septembre 1989 (MENN8902038A)](arrete-du-6-septembre-1989-menn8902038a)
 - [Arrêté du 6 septembre 1989 (MENN8902039A)](arrete-du-6-septembre-1989-menn8902039a)
 - [Arrêté du 6 septembre 1989 (MENN8902040A)](arrete-du-6-septembre-1989-menn8902040a)
+- [Arrêté du 6 septembre 1989 (MENN8902120A)](arrete-du-6-septembre-1989-menn8902120a)
 - [Arrêté du 6 septembre 1989 (SPSM8901856A)](arrete-du-6-septembre-1989-spsm8901856a)
 - [Arrêté du 7 août 1989 (AGRA8901494A)](arrete-du-7-aout-1989-agra8901494a)
 - [Arrêté du 7 août 1989 (AGRR8901513A)](arrete-du-7-aout-1989-agrr8901513a)
