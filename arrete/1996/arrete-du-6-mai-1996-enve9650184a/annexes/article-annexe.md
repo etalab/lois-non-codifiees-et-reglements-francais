@@ -80,6 +80,8 @@ vers le milieu hydraulique superficiel
 
 1° Lit filtrant drainé à flux vertical.
 
+a) Lit à massif de sable.
+
 Il comporte un épandage dans un massif de sable propre rapporté formant un sol reconstitué tel que décrit dans la présente annexe.
 
 A la base du lit filtrant, un drainage doit permettre d'effectuer la reprise des effluents filtrés pour les diriger vers le milieu hydraulique superficiel ; les drains doivent être, en plan, placés de manière alternée avec les tuyaux distributeurs.
@@ -87,6 +89,20 @@ A la base du lit filtrant, un drainage doit permettre d'effectuer la reprise des
 La surface des lits filtrants drainés à flux vertical doit être au moins égale à 5 mètres carrés par pièce principale, avec une surface minimale totale de 20 mètres carrés.
 
 Dans le cas où la nappe phréatique est trop proche, l'épandage doit être établi à la partie supérieure d'un tertre réalisé au-dessus du sol en place.
+
+b) Lit à massif de zéolite.
+
+Ce dispositif peut être utilisé pour les habitations de 5 pièces principales au plus. Il doit être placé à l'aval d'un prétraitement constitué d'une fosse septique toutes eaux de 5 mètres cubes au moins.
+
+La surface minimale du filtre doit être de 5 mètres carrés. Il comporte un matériau filtrant à base de zéolite naturelle du type chabasite, placé dans une coque étanche. Il se compose de deux couches : une de granulométrie fine (0,5-2 mm) en profondeur et une de granulométrie plus grossière (2-5 mm) en surface. Le filtre a une épaisseur minimale de 50 cm après tassement.
+
+Le système d'épandage et de répartition de l'effluent est bouclé et noyé dans une couche de gravier roulé. Il est posé sur un géotextile adapté destiné à assurer la diffusion de l'effluent.
+
+Le réseau de drainage est noyé dans une couche de gravier roulé, protégée de la migration de zéolite par une géogrille. L'épaisseur de cette couche est de 15 cm au moins.
+
+L'aération du filtre est réalisée par des cheminées d'aération.
+
+Ce dispositif ne peut être utilisé lorsque des usages sensibles, telles la conchyliculture ou la baignade existent à proximité du rejet.
 
 2° Lit filtrant drainé à flux horizontal.
 

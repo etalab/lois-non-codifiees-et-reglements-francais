@@ -1,0 +1,3 @@
+# Article 6
+
+Dans les exploitations productrices de plants de tomates, le lot de plants déclaré contaminé est détruit en totalité par incinération ou par enfouissement selon les recommandations de la direction régionale de l'agriculture et de la forêt (service régional de la protection des végétaux) de la région concernée. Tout propriétaire ou exploitant de serres de production de plants de tomates est tenu de mettre en oeuvre les mesures de prophylaxie décidées par la direction régionale de l'agriculture et de la forêt (service régional de la protection des végétaux) de la région concernée. Un lot de plants est défini par les caractéristiques suivantes : un lot de semence et une date de semis.
