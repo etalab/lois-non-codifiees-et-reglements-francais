@@ -14,7 +14,7 @@ Cette autorisation n'est pas accordée dans les cas figurant au a du II et au pr
 
 4° Les armes, les éléments d'arme, les munitions ou les éléments de munition des catégories 5, 7 et 8, les armes nommément désignées de la 6e catégorie ne peuvent, sous réserve des dispositions du 5° ci-dessous, être acquis et détenus par des mineurs que s'ils ont plus de seize ans, s'ils sont autorisés par la personne exerçant l'autorité parentale et s'ils satisfont en outre à l'une des conditions suivantes lorsqu'il s'agit d'armes de la 5e, 6e ou 7e catégorie :
 
-a) Etre titulaire du permis de chasser.
+a) Etre titulaire du permis de chasser qui doit être revêtu du visa et de la validation de l'année en cours ou de l'année précédente et qui doit être présenté lors de l'acquisition.
 
 b) Etre titulaire d'une licence d'une fédération sportive ayant reçu, au titre de l'article 17 de la loi du 16 juillet 1984 susvisée, délégation du ministre chargé des sports pour la pratique du tir, du ball-trap ou des armes blanches. Ces armes, éléments d'arme, munitions ou éléments de munition ne peuvent être cédés à des mineurs que dans les mêmes conditions.
 
