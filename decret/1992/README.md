@@ -1044,7 +1044,6 @@
 - [Décret n°92-297 du 30 mars 1992 (MENN9200514D)](decret-n92-297-du-30-mars-1992-menn9200514d)
 - [Décret n°92-298 du 30 mars 1992 (MENN9200513D)](decret-n92-298-du-30-mars-1992-menn9200513d)
 - [Décret n°92-303 du 30 mars 1992 (ECOS9200006D)](decret-n92-303-du-30-mars-1992-ecos9200006d)
-- [Décret n°92-304 du 30 mars 1992 (BUDZ9200007D)](decret-n92-304-du-30-mars-1992-budz9200007d)
 - [Décret n°92-306 du 30 mars 1992 (BUDF9220507D)](decret-n92-306-du-30-mars-1992-budf9220507d)
 - [Décret n°92-318 du 30 mars 1992 (MCCK9200025D)](decret-n92-318-du-30-mars-1992-mcck9200025d)
 - [Décret n°92-327 du 30 mars 1992 (SANP9102800D)](decret-n92-327-du-30-mars-1992-sanp9102800d)
