@@ -1,3 +1,3 @@
 # Article 3
 
-Nonobstant les informations diffusées par ailleurs par chacune des autorités en cause, des communiqués du président du comité portent à la connaissance du public les informations que le comité jugerait utiles de diffuser.
+Les agents pouvant prétendre aux majorations familiales bénéficient du montant défini à l'article 2 ci-dessus lorsqu'ils sont dans les positions suivantes : en fonction dans l'Etat de service, en congé annuel pendant les premiers quatre-vingt-dix jours, en position de maintien par ordre dans l'Etat de service, en congé de maladie si celui-ci est pris dans l'Etat de service.

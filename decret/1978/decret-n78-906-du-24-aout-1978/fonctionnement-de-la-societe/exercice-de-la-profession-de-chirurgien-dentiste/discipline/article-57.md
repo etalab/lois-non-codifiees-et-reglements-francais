@@ -1,0 +1,5 @@
+# Article 57
+
+L'associé frappé d'une mesure comportant directement ou entraînant indirectement l'interdiction temporaire d'exercer l'art dentaire, ou l'interdiction temporaire de dispenser des soins aux assurés sociaux, peut être contraint de se retirer de la société par décision des autres associés prise à la majorité renforcée prévue par les statuts [*contenu*] en excluant les associés ayant fait l'objet d'une sanction pour les mêmes faits ou pour des faits connexes. Dans le cas où l'exclusion n'est pas prononcée, l'intéressé conserve la qualité d'associé, mais sa participation aux bénéfices résultant de l'application de l'article 23 (alinéa 2) est réduite au prorata de la durée de la période d'interdiction.
+
+L'associé radié du tableau ou exclu de la société, conformément aux dispositions de l'alinéa précédent, doit céder ses parts dans les conditions prévues à l'article 29. A compter du jour où la décision de radiation est devenue définitive ou de la décision d'exclusion prise par les autres associés [*effets*], il perd les droits attachés à la qualité d'associé, à l'exception des rémunérations afférentes à ses apports en capital.

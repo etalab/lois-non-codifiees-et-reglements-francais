@@ -1,0 +1,3 @@
+# Article 1
+
+Les conseils d'administration des caisses de mutualité sociale agricole ou les commissions de recours gracieux prévues à l'article 1er du décret n° 58-1291 du 22 décembre 1958 modifié ayant reçu délégation à cet effet, les conseils d'administration des organismes d'assurance habilités à gérer l'AMEXA ou les personnes désignées par les responsables de ces organismes peuvent accorder la remise gracieuse des majorations de retard instituées à l'article 4 du décret n° 65-47 du 15 janvier 1965 modifié et à l'article 15 du décret n° 76-1282 du 29 décembre 1976 et pour ces dernières dans les limites et conditions prévues aux articles 18 et 19 dudit décret [*organismes compétents*].

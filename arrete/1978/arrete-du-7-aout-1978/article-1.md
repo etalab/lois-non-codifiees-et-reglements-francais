@@ -1,3 +1,3 @@
 # Article 1
 
-Il est créé un comité de surveillance des offres publiques en bourse habilité à évoquer toutes questions suscitées par le déroulement des offres publiques en bourse.
+Les agents de coopération culturelle, scientifique et technique qui ont souscrit un contrat sous le régime du décret n° 78-571 du 25 avril 1978 bénéficient dans les conditions fixées à l'article 12 du décret précité des majorations familiales pour chacun de leurs enfants à charge.

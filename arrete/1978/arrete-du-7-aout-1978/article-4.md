@@ -1,3 +1,3 @@
 # Article 4
 
-Le directeur du Trésor est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Lorsque les agents concernés sont en congé au-delà du quatre-vingt-dixième jour, en congé de maladie en France après congé annuel, en instance d'affectation ou en stage hors la période de congé annuel, le montant des majorations familiales est calculé par référence au montant des prestations familiales accordées aux fonctionnaires en service à Paris.
