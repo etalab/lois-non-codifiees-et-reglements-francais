@@ -43,6 +43,7 @@
 - [Décret n°2000-33 du 11 janvier 2000 (MESP9923730D)](decret-n2000-33-du-11-janvier-2000-mesp9923730d)
 - [Décret n°2000-660 du 11 juillet 2000 (DEFP0001571D)](decret-n2000-660-du-11-juillet-2000-defp0001571d)
 - [Décret n°2000-23 du 12 janvier 2000 (MESH9924027D)](decret-n2000-23-du-12-janvier-2000-mesh9924027d)
+- [Décret n°2000-36 du 12 janvier 2000 (INTM0000053D)](decret-n2000-36-du-12-janvier-2000-intm0000053d)
 - [Décret n°2000-24 du 13 janvier 2000 (INTC0000010D)](decret-n2000-24-du-13-janvier-2000-intc0000010d)
 - [Décret n°2000-26 du 13 janvier 2000 (ECOT0014072D)](decret-n2000-26-du-13-janvier-2000-ecot0014072d)
 - [Décret n°2000-1107 du 14 novembre 2000 (MENF0002155D)](decret-n2000-1107-du-14-novembre-2000-menf0002155d)
