@@ -348,6 +348,8 @@
 - [Décret n°2004-569 du 18 juin 2004 (FPPA0400063D)](decret-n2004-569-du-18-juin-2004-fppa0400063d)
 - [Décret n°2004-574 du 18 juin 2004 (AGRF0401027D)](decret-n2004-574-du-18-juin-2004-agrf0401027d)
 - [Décret n°2004-599 du 18 juin 2004 (DEVO0420031D)](decret-n2004-599-du-18-juin-2004-devo0420031d)
+- [Décret n°2004-815 du 18 août 2004 (SOCF0410983D)](decret-n2004-815-du-18-aout-2004-socf0410983d)
+- [Décret n°2004-816 du 18 août 2004 (SOCF0410984D)](decret-n2004-816-du-18-aout-2004-socf0410984d)
 - [Décret n°86-1053 du 18 septembre 1986](decret-n86-1053-du-18-septembre-1986)
 - [Décret n°2004-420 du 18 mai 2004 (INDI0402885D)](decret-n2004-420-du-18-mai-2004-indi0402885d)
 - [Décret n°2004-421 du 18 mai 2004 (INTD0400115D)](decret-n2004-421-du-18-mai-2004-intd0400115d)
