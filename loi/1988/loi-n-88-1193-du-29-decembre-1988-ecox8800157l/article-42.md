@@ -2,6 +2,8 @@
 
 I. - A compter du 1er janvier 1997, les attributions du fonds de compensation pour la taxe sur la valeur ajoutée sont déterminées en appliquant, aux dépenses réelles d'investissement définies par décret en Conseil d'Etat, un taux de compensation forfaitaire égal au taux normal de la taxe sur la valeur ajoutée prévu à l'article 278 du code général des impôts, calculé en dedans du prix et arrondi à la troisième décimale inférieure, diminué de 0,905 point.
 
+Les attributions du fonds de compensation pour la taxe sur la valeur ajoutée versées au titre des dépenses d'investissement effectuées par les communautés de communes et les communautés de villes à compter du 1er août 1995 sont calculées sur la base du taux normal de la taxe sur la valeur ajoutée fixé, à compter de la même date, par l'article 278 du code général des impôts.
+
 II. - Demeure applicable en 1986, 1987 et 1988 sans modification, le taux sur la base duquel ont été calculées les attributions du fonds de compensation pour la taxe sur la valeur ajoutée au bénéfice des collectivités et établissements visés à l'article 54 modifié de la loi de finances pour 1977 (n° 76-1232 du 29 décembre 1976).
 
 III. Les immobilisations cédées ou mises à disposition au profit d'un tiers ne figurant pas au nombre des collectivités ou établissements bénéficiaires du fonds de compensation pour la taxe sur la valeur ajoutée ne peuvent donner lieu à une attribution dudit fonds.
