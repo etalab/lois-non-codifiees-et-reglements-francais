@@ -2,7 +2,7 @@
 
 La commission est appelée à formuler un avis :
 
-1° Sur les projets de marchés de travaux, fournitures ou services d'un montant supérieur à 6 millions de francs lorsqu'ils font l'objet d'une procédure d'adjudications ou d'appel d'offres et à 1,2 million de francs lorsqu'ils sont des marchés négociés ; ces seuils pourront être modifiés par arrêté conjoint du ministre chargé de la sécurité sociale, et du ministre de l'économie et des finances ;
+1° Sur les projets de marchés de travaux, fournitures ou services d'un montant supérieur à 4 millions de francs lorsqu'ils font l'objet d'une procédure d'adjudications ou d'appel d'offres et à 1 million de francs lorsqu'ils sont des marchés négociés ; ces seuils pourront être modifiés par arrêté conjoint du ministre chargé de la sécurité sociale, et du ministre de l'économie et des finances ;
 
 2° Sur les projets de marchés au sujet desquels elle est consultée par les caisses ;
 
@@ -10,11 +10,11 @@ La commission est appelée à formuler un avis :
 
 5° Sur les cahiers types des clauses administratives particulières concernant les opérations soumises à autorisations de programme ;
 
-6° Sur les dossiers d'appel à la concurrence établis avant que soit engagée la procédure d'adjudication, lorsque le prix maximum fixé par le directeur de l'organisme contractant est supérieur à 6 millions de francs ;
+6° Sur les dossiers d'appel à la concurrence établis avant que soit engagée la procédure d'adjudication, lorsque le prix maximum fixé par le directeur de l'organisme contractant est supérieur à 4 millions de francs ;
 
-7° Sur le recours à la procédure du marché négocié et avant l'engagement de négociation pour les projets de marchés qui se réfèrent à l'un des cas visés au 2° de l'article 66 lorsque l'estimation proposée par le directeur de l'organisme contractant excède 1,2 million de francs ;
+7° Sur le recours à la procédure du marché négocié et avant l'engagement de négociation pour les projets de marchés qui se réfèrent à l'un des cas visés au 2° de l'article 66 lorsque l'estimation proposée par le directeur de l'organisme contractant excède 1 million de francs ;
 
-8° Sur les projets de marchés qui ont pour objet des prestations intellectuelles et qui contiennent des clauses relatives à des droits de propriété industrielle ou intellectuelle pour un montant supérieur à 1,2 million de francs ;
+8° Sur les projets de marchés qui ont pour objet des prestations intellectuelles et qui contiennent des clauses relatives à des droits de propriété industrielle ou intellectuelle pour un montant supérieur à 1 million de francs ;
 
 9° Sur les projets de convention fixant, en vue de marchés à passer, les modalités de détermination des prix d'une catégorie de prestations ;
 
@@ -22,4 +22,4 @@ La commission est appelée à formuler un avis :
 
 Le ministre chargé de la sécurité sociale peut consulter la commission sur toute question entrant dans le champ d'application du présent arrêté.
 
-La commission est tenue de signaler au ministre chargé de la sécurité sociale, les irrégularités ou fautes graves qu'elle a relevées lors de l'examen d'un projet de marché ou d'avenant, ou dont elle aurait connaissance, notamment le fractionnement des marchés intentionnellement opéré afin de soustraire ces projets à son examen. Pour ce faire la commission est informée par les organismes nationaux de toute opération dont le montant total est supérieur à 25 millions de francs.
+La commission est tenue de signaler au ministre chargé de la sécurité sociale, les irrégularités ou fautes graves qu'elle a relevées lors de l'examen d'un projet de marché ou d'avenant, ou dont elle aurait connaissance, notamment le fractionnement des marchés intentionnellement opéré afin de soustraire ces projets à son examen. Pour ce faire la commission est informée par les organismes nationaux de toute opération dont le montant total est supérieur à 20 millions de francs.

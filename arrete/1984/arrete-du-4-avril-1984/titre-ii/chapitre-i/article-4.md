@@ -6,4 +6,4 @@ A l'appui des candidatures, des soumissions ou des offres déposées par les can
 
 2° Une déclaration fournissant les renseignements énumérés dans un modèle de déclaration établi par arrêté du ministre de l'économie et des finances pour l'application de l'article 41 du code des marchés publics ;
 
-3° Les documents et justifications prévus par l'article 175 du code de la famille relatif à l'aide à certaines catégories d'aveugles et de handicapés.
+3° Les documents et justifications prévus par l'article 175 du code de la famille relatif à l'aide à certaines catégories d'aveugles et de handicapés et par l'article L. 437-2 du code du travail relatif aux attributions du comité d'entreprise.

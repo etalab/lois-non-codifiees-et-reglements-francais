@@ -7,5 +7,3 @@ L'acte d'engagement est signé par le directeur de l'organisme ou par son repré
 Après signature de l'acte d'engagement, le marché est notifié au titulaire par les soins du directeur de l'organisme de sécurité sociale soit par remise au destinataire contre récépissé, soit par lettre recommandée avec demande d'avis de réception postal. La date de notification est la date du récépissé ou celle de réception de l'avis.
 
 Le marché prend effet à cette date.
-
-Dans un délai de trente jours à compter de la notification du marché, le directeur de l'organisme contractant porte à la connaissance du public le nom du titulaire ainsi que le montant du marché par un avis d'attribution publié dans les conditions prévues à l'article 3. Toutefois cette disposition ne s'applique pas aux marchés d'un montant inférieur au seuil prévu au 1° de l'article 123 du code des marchés publics.
