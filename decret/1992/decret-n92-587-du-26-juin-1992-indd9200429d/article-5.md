@@ -6,9 +6,9 @@ Peuvent seuls être munis du marquage "CE" les appareils qui satisfont à l'une 
 
 Cette conformité est attestée par une déclaration "CE" de conformité définie à l'article 7 du présent décret.
 
-Le fabricant ou son mandataire établi sur le territoire de l'un des Etats membres de la Communauté, ou, à défaut, toute personne qui met l'appareil sur le marché communautaire doit tenir la déclaration "CE" de conformité à la disposition des agents chargés des contrôles pendant dix ans suivant la mise sur le marché de l'appareil.
+Le fabricant ou son mandataire établi sur le territoire d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord instituant l'Espace économique européen ou, à défaut, par le responsable de la première mise sur le marché, ou, à défaut, toute personne qui met l'appareil sur le marché communautaire doit tenir la déclaration "CE" de conformité à la disposition des agents chargés des contrôles pendant dix ans suivant la mise sur le marché de l'appareil.
 
-2. A défaut de normes telles que définies au paragraphe 1 ci-dessus, ou s'ils ne respectent pas tout ou partie de ces normes, les appareils sont conformes à un modèle défini dans un dossier technique de construction élaboré par le fabricant ou son mandataire établi sur le territoire de l'un des Etats membres de la Communauté.
+2. A défaut de normes telles que définies au paragraphe 1 ci-dessus, ou s'ils ne respectent pas tout ou partie de ces normes, les appareils sont conformes à un modèle défini dans un dossier technique de construction élaboré par le fabricant ou son mandataire établi sur le territoire d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord instituant l'Espace économique européen ou, à défaut, par le responsable de la première mise sur le marché.
 
 Ce dossier doit :
 
@@ -20,4 +20,4 @@ Ce dossier doit :
 
 La conformité des appareils au modèle décrit dans le dossier technique de construction est attestée par une déclaration "CE" de conformité définie à l'article 7 du présent décret.
 
-Le fabricant ou son mandataire établi sur le territoire de l'un des Etats membres de la Communauté, ou, à défaut, toute personne qui met un appareil sur le marché communautaire doit tenir le dossier technique de construction et la déclaration "CE" de conformité à la disposition des agents chargés des contrôles pendant dix ans suivant la mise sur le marché des appareils.
+Le fabricant ou son mandataire établi sur le territoire d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord instituant l'Espace économique européen ou, à défaut, par le responsable de la première mise sur le marché, ou, à défaut, toute personne qui met un appareil sur le marché communautaire doit tenir le dossier technique de construction et la déclaration "CE" de conformité à la disposition des agents chargés des contrôles pendant dix ans suivant la mise sur le marché des appareils.

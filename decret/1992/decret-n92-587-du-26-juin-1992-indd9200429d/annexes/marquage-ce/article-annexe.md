@@ -1,7 +1,9 @@
 # Article Annexe
 
-Le marquage "CE" est composé du sigle "CE", figurant ci-dessous, et du millésime de l'année au cours de laquelle le marquage a été apposé.
+Le marquage "CE" de conformité est constitué des initiales "CE" selon le graphisme ci-dessous :
 
-(cliché non reproduit, voir au Journal officiel).
+Les différents éléments de ce marquage doivent avoir sensiblement la même dimension verticale, laquelle ne peut être inférieure à 5 mm.
 
-Pour les appareils visés à l'article 6, ce marquage doit être complété par le sigle distinctif de l'organisme ayant délivré l'attestation "CE" de type.
+Lorsqu'un appareil est soumis à d'autres réglementations transposant des directives prévoyant l'apposition du marquage "CE", cette apposition indique la conformité de l'appareil à l'ensemble de ces réglementations.
+
+Toutefois, lorsque certaines de ces réglementations prévoient une période pour que les fabricants se mettent en conformité avec les nouvelles dispositions réglementaires, le marquage CE indique la conformité aux seules réglementations appliquées par le fabricant ; les références des directives qui constituent la base légale de celles des réglementations dont il est fait application doivent alors être inscrites sur les documents d'accompagnement des appareils.
