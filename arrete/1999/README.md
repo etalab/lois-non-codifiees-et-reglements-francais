@@ -94,7 +94,6 @@
 - [Arrêté du 4 février 1999 (MESP9920450A)](arrete-du-4-fevrier-1999-mesp9920450a)
 - [Arrêté du 4 janvier 1999 (ECOS9850062A)](arrete-du-4-janvier-1999-ecos9850062a)
 - [Arrêté du 4 janvier 1999 (MESP9920128A)](arrete-du-4-janvier-1999-mesp9920128a)
-- [Arrêté du 4 juin 1999 (ECOX9900078A)](arrete-du-4-juin-1999-ecox9900078a)
 - [Arrêté du 4 novembre 1998 (MENF9802820A)](arrete-du-4-novembre-1998-menf9802820a)
 - [Arrêté du 4 octobre 1999 (FPPA9900125A)](arrete-du-4-octobre-1999-fppa9900125a)
 - [Arrêté du 4 octobre 1999 (MENP9901817A)](arrete-du-4-octobre-1999-menp9901817a)
