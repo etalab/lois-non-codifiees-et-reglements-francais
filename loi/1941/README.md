@@ -12,4 +12,3 @@
 - [Loi n°1941-10-04 du 4 octobre 1941](loi-n1941-10-04-du-4-octobre-1941)
 - [Loi n°41-1585 du 11 avril 1941](loi-n41-1585-du-11-avril-1941)
 - [Loi n°41-1814 du 24 avril 1941](loi-n41-1814-du-24-avril-1941)
-- [Loi n°41-2532 du 13 juin 1941](loi-n41-2532-du-13-juin-1941)
