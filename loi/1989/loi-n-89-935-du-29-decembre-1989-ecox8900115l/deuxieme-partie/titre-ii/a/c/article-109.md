@@ -1,12 +1,8 @@
 # Article 109
 
-I. - Il est institué un plan d'épargne populaire qui ouvre droit, moyennant des versements à un compte ouvert ou au titre d'un contrat d'assurance sur la vie conclu auprès d'un organisme mentionné à l'article 1er de la loi n° 87-416 du 17 juin 1987 sur l'épargne, au remboursement des sommes versées et de leurs produits capitalisés ou au paiement d'une rente viagère.
+I. (Alinéas abrogés).
 
-Le plan d'épargne populaire ouvre droit, sous certaines conditions, à des avantages fiscaux et, pour les plans ouverts avant le 22 septembre 1993, à une prime d'épargne.
-
-Il peut être ouvert un plan par contribuable ou par chacun des époux soumis à une imposition commune.
-
-Les versements sont limités à 600 000 F par plan.
+Les versements sont limités à 600 000 F par plan (1).
 
 II. - Les versements effectués par le titulaire du plan dont le domicile fiscal est situé en France et dont la cotisation d'impôt au titre des revenus de l'avant-dernière année n'excède pas la limite mentionnée au 1 bis de l'article 1657 du code général des impôts ouvrent droit, pendant les sept premières années, ou pendant les dix premières années lorsqu'un contrat d'assurance vie à primes périodiques a été souscrit dans le cadre du plan d'épargne populaire avant le 5 septembre 1996, à une prime égale au quart de leur montant annuel, sans pouvoir excéder 1 500 F par an.
 
@@ -18,7 +14,7 @@ Toutefois, le titulaire d'un plan d'épargne populaire ayant souscrit un contrat
 
 Le versement après huit ans des produits capitalisés, de la rente viagère et de la prime d'épargne n'est pas soumis à l'impôt sur le revenu.
 
-III. - Tout retrait de fonds entraîne la clôture du plan. Le plan est clos au décès du titulaire.
+III. - (Alinéa abrogé).
 
 En cas de retrait de fonds avant huit ans, les produits sont soumis à l'impôt sur le revenu et la prime n'est pas versée, sauf s'il intervient à la suite du décès du titulaire ou dans les deux ans du décès du conjoint soumis à imposition commune ou de l'un des événements suivants survenu à l'un d'entre eux :
 
@@ -40,7 +36,7 @@ Cette disposition s'applique sans limitation de durée dans les situations menti
 
 Cette opération de transfert ne constitue pas un retrait au sens de l'article 91 du code général des impôts.
 
-VII. Paragraphe modificateur
+VII. - Paragraphe modificateur
 
 VIII. - Un décret en Conseil d'Etat précise les opérations éligibles relevant du code de la mutualité, du titre III du livre VII du code de la sécurité sociale ou de l'article 1050 du code rural et les modalités d'application du présent article, notamment les obligations déclaratives des contribuables et des intermédiaires.
 

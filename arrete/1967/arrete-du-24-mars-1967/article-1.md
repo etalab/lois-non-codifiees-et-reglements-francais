@@ -7,3 +7,5 @@ Sont également admis au nombre des bénéficiaires des primes de service les an
 En ce qui concerne le personnel médical, seuls peuvent percevoir la prime de service les médecins des hôpitaux psychiatriques départementaux et interdépartementaux et les médecins des services antituberculeux qui, pour l'application des dispositions de l'article 25 de la loi du 31 juillet 1968, ont demandé à conserver le bénéfice de leur statut antérieur.
 
 Le bénéfice des primes de service est étendu aux personnels mentionnés au premier alinéa de l'établissement public départemental de Saint-Pierre-et-Miquelon.
+
+Le bénéfice des primes de service est étendu aux personnels occupant les emplois suivants de l'Assistance publique-hôpitaux de Paris : directeur général, secrétaire général et directeur d'administration centrale.

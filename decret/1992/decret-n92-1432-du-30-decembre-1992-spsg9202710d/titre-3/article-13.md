@@ -2,136 +2,274 @@
 
 La durée moyenne et la durée minimale du temps passé dans chaque échelon des différents grades sont fixées comme suit :
 
-Grades et échelons :
-
-Pharmacien général de santé publique
-
-3e échelon
-
-Durée moyenne : -
-
-Durée minimale: -
-
-2e échelon
-
-Durée moyenne : 2 ans
-
-Durée minimale: 1 an 6 mois
-
-1er échelon
-
-Durée moyenne : 2 ans
-
-Durée minimale: 1 an 6 mois
-
-Grades et échelons :
-
-Pharmacien inspecteur en chef de santé publique
-
-Echelon exceptionnel
-
-Durée moyenne : -
-
-Durée minimale: -
-
-5e échelon
-
-Durée moyenne : -
-
-Durée minimale: -
-
-4e échelon
-
-Durée moyenne : 2 ans
-
-Durée minimale: 1 an 6 mois
-
-3e échelon
-
-Durée moyenne : 2 ans
-
-Durée minimale: 1 an 6 mois
-
-2e échelon
-
-Durée moyenne : 2 ans
-
-Durée minimale: 1 an 6 mois
-
-1er échelon
-
-Durée moyenne : 2 ans
-
-Durée minimale: 1 an 6 mois
-
-Grades et échelons :
-
-Pharmacien inspecteur de santé publique
-
-11e échelon
-
-Durée moyenne : -
-
-Durée minimale: -
-
-10e échelon
-
-Durée moyenne : 2 ans
-
-Durée minimale: 1 an 6 mois
-
-9e échelon
-
-Durée moyenne : 2 ans
-
-Durée minimale: 1 an 6 mois
-
-8e échelon
-
-Durée moyenne : 2 ans
-
-Durée minimale: 1 an 6 mois
-
-7e échelon
-
-Durée moyenne : 2 ans
-
-Durée minimale: 1 an 6 mois
-
-6e échelon
-
-Durée moyenne : 2 ans
-
-Durée minimale: 1 an 6 mois
-
-5e échelon
-
-Durée moyenne : 1 an 6 mois
-
-Durée minimale: 1 an 6 mois
-
-4e échelon
-
-Durée moyenne : 1 an 6 mois
-
-Durée minimale: 1 an 6 mois
-
-3e échelon
-
-Durée moyenne : 1 an 6 mois
-
-Durée minimale: 1 an 6 mois
-
-2e échelon
-
-Durée moyenne : 1 an
-
-Durée minimale: 1 an 6 mois
-
-1er échelon
-
-Durée moyenne : 1 an
-
-Durée minimale: 1 an 6 mois
-
-L'avancement aux différents échelons et l'avancement de grade sont prononcés par arrêté du ministre chargé de la santé.
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="center">GRADES ET ECHELONS</p>
+</td>
+<td align="left" colspan="2" valign="middle">
+<p align="center">DUREE</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<p align="center">Moyenne</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Minimale</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<i>Pharmacien général de santé publique :</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<i>Pharmacien inspecteur en chef de santé publique :</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<i>Pharmacien inspecteur de santé publique :</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">9e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">8e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 6 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 6 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 6 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an</p>
+</td>
+</tr>
+</tbody>
+</table>

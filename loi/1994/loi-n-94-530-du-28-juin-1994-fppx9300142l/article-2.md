@@ -6,6 +6,6 @@ Cet avis tient compte des fonctions antérieurement exercées par l'intéressé,
 
 L'avis du chef de corps est communiqué à l'intéressé sur sa demande.
 
-Les dispositions précédentes ne s'appliquent ni aux nominations aux grades de conseiller d'Etat et de maître des requêtes prononcées en application de la loi n° 86-14 du 6 janvier 1986 fixant les règles garantissant l'indépendance des membres des tribunaux administratifs et cours administratives d'appel ni aux nominations au grade de conseiller référendaire prononcées en application des articles L. 221-2 et L. 122-4 du code des juridictions financières.
+Les dispositions précédentes ne s'appliquent ni aux nominations aux grades de conseiller d'Etat et de maître des requêtes prononcées en application des articles L. 233-1 et suivants du code de justice administrative ni aux nominations au grade de conseiller référendaire prononcées en application des articles L. 221-2 et L. 122-4 du code des juridictions financières.
 
 II.  (paragraphe modificateur).

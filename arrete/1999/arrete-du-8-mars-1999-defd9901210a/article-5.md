@@ -1,6 +1,6 @@
 # Article 5
 
-La sous-direction du contentieux exerce les attributions définies à l'article 23 du décret du 8 mars 1999 susvisé.
+Sous réserve de la participation des services du commissariat, évoquée à l'article 1er du présent arrêté, la sous-direction du contentieux exerce les attributions définies à l'article 23 du décret du 8 mars 1999 susvisé.
 
 A ce titre, elle est notamment chargée :
 

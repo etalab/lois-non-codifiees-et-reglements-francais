@@ -1,0 +1,3 @@
+# Article 12
+
+Les reconnaissances de consignation délivrées à Paris par le caissier, et dans les départements par les préposés de la caisse, énonceront sommairement les arrêts, jugements, actes ou causes qui donnent lieu auxdites consignations ; et dans le cas où les deniers consignés proviendraient d'un emprunt, et qu'il y aurait lieu à opérer une subrogation en faveur du prêteur, il sera fait mention expresse de la déclaration faite par le déposant, conformément à l'article 1250 du Code civil, laquelle produira le même effet de subrogation que si elle était passée devant notaire. Le timbre et l'enregistrement seront aux frais de celui qui consigne, s'il est débiteur, ou prélevés sur la somme, s'il la dépose à un autre titre.

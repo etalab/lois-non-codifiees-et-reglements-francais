@@ -11,3 +11,5 @@ La direction des affaires juridiques comprend, outre la division des affaires p�
 - la mission centrale de liaison pour l'assistance aux armées étrangères ;
 
 - la mission de codification.
+
+Les directions régionales du commissariat de l'armée de terre, les directions locales du commissariat de la marine et les directions du commissariat de l'air en région aérienne assurent, pour le compte de la direction des affaires juridiques, la défense devant les tribunaux administratifs du ministère de la défense.

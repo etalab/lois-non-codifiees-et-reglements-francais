@@ -4,9 +4,7 @@ I. - A compter d'une date qui sera fixée par décret, le service de l'émission
 
 Les billets de la caisse centrale de coopération économique en circulation à cette date seront pris en charge par la Banque de France dans les conditions fixées par une convention entre ces deux établissements.
 
-II. - Les signes monétaires ayant cours légal et pouvoir libératoire dans la métropole ont cours légal et pouvoir libératoire à Saint-Pierre-et-Miquelon.
-
-Leur mise en circulation sera assurée par l'institut d'émission d'outre-mer qui agira, dans ce domaine, en tant que correspondant de la Banque de France à Saint-Pierre et Miquelon dans les conditions fixées par une convention entre ces deux établissements.
+II. - Leur mise en circulation sera assurée par l'institut d'émission d'outre-mer qui agira, dans ce domaine, en tant que correspondant de la Banque de France à Saint-Pierre et Miquelon dans les conditions fixées par une convention entre ces deux établissements.
 
 III. - Le décret prévu au paragraphe I fixera la date à laquelle seront privés du cours légal et du pouvoir libératoire les signes monétaires libellés en francs CFA spécialement émis pour le territoire des îles Saint-Pierre et Miquelon.
 

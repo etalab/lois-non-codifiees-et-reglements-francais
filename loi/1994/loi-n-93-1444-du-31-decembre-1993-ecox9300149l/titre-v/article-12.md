@@ -1,22 +1,6 @@
 # Article 12
 
-I. La pension est l'opération par laquelle une personne morale, un fonds commun de placement ou un fonds commun de créances cède en pleine propriété à une autre personne morale, à un fonds commun de placement ou à un fonds commun de créances, moyennant un prix convenu, des valeurs, titres ou effets définis ci-après et par laquelle le cédant et le cessionnaire s'engagent respectivement et irrévocablement, le premier à reprendre les valeurs, titres ou effets, le second à les rétrocéder pour un prix et à une date convenus.
-
-Les valeurs, titres ou effets mentionnés ci-dessus sont :
-
-1° Les valeurs mobilières inscrites à la cote officielle d'un marché français ou étranger ;
-
-2° Les valeurs inscrites à la cote du second marché ou qui, inscrites au hors-cote, répondent aux conditions du décret mentionné au 1° de l'article 163 octies du code général des impôts ;
-
-3° Les titres de créances négociables sur un marché réglementé français ou étranger ;
-
-3° bis. Les parts de fonds communs de créances qui n'ont pas fait l'objet d'une admission aux négociations sur un marché réglementé.
-
-4° Les effets publics ou privés.
-
-Toutefois, seuls les établissements de crédit peuvent prendre ou mettre en pension les effets privés.
-
-Les parties peuvent également convenir de remises complémentaires, en pleine propriété, de valeurs, titres ou effets ou de sommes d'argent, pour tenir compte de l'évolution de la valeur des titres ou des effets mis en pension.
+I. (abrogé).
 
 II. La pension porte sur des valeurs, titres ou effets, qui ne sont pas susceptibles de faire l'objet, pendant toute la durée de l'opération de pension, du détachement d'un droit à dividende, ouvrant droit à l'avoir fiscal mentionné à l'article 158 bis du code général des impôts ou au crédit d'impôt prévu au b du 1 de l'article 220 du même code ou du paiement d'un intérêt soumis à la retenue à la source prévue au 1 de l'article 119 bis ou à l'article 1678 bis du code général des impôts ou ouvrant droit à un crédit d'impôt prévu au b du 1 de l'article 220 du même code. L'amortissement, le tirage au sort conduisant au remboursement, l'échange, la conversion ou l'exercice d'un bon de souscription mettent fin à l'opération de pension.
 
@@ -32,9 +16,7 @@ Cette convention cadre, lorsqu'une des parties fait l'objet d'une des procédure
 
 Les dispositions du présent paragraphe sont applicables nonobstant toute disposition législative contraire.
 
-VI. La rémunération du cessionnaire, quelle qu'en soit la forme, constitue un revenu de créance et est traitée sur le plan comptable et fiscal comme des intérêts.
-
-Lorsque la durée de la pension couvre la date de paiement des revenus attachés aux valeurs, titres ou effets donnés en pension, le cessionnaire les reverse au cédant qui les comptabilise parmi les produits de même nature. Ces reversements sont soumis chez le cédant au même régime fiscal que les revenus de valeurs, titres ou effets donnés en pension.
+VI. (abrogé).
 
 VII. La pension entraîne, chez le cédant, d'une part, le maintien à l'actif de son bilan des valeurs, titres ou effets mis en pension et, d'autre part, l'inscription au passif du bilan du montant de sa dette vis-à-vis du cessionnaire ; ces valeurs, titres ou effets et cette dette sont individualisés à une rubrique spécifique dans la comptabilité du cédant. En outre, le montant des valeurs, titres ou effets mis en pension, ventilé selon la nature des actifs concernés, doit figurer dans les documents annexés aux comptes annuels.
 

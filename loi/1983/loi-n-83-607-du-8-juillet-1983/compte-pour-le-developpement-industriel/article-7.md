@@ -1,6 +1,6 @@
 # Article 7
 
-Les dépôts visés à l'article 5 servent au financement des petites et moyennes entreprises.
+(Alinéa abrogé).
 
 Par dérogation à l'alinéa précédent, les dépôts susmentionnés peuvent également permettre, dans la limite de 10 p. 100, appréciée établissement par établissement, de l'encours des comptes visés à l'article 5, le financement entre la date d'entrée en vigueur de la loi n° 96-209 du 14 mars 1996 et le 31 décembre 1998, des dépenses nouvelles d'équipement des collectivités locales et de leurs groupements, lorsque ces dépenses sont destinées à accompagner le développement ou l'implantation des petites et moyennes entreprises.
 

@@ -1,6 +1,10 @@
 # Article 128
 
-I. à VI. Paragraphes modificateurs
+I. à IV. Paragraphes modificateurs
+
+V. (abrogé)
+
+VI. Paragraphe modificateur
 
 VII. - Les établissements gestionnaires de plans d'épargne populaire, qui seraient dans l'incapacité de produire les pièces justificatives prévues contractuellement dans un délai de trois mois à compter de la demande formulée par les services ou les corps de contrôle compétents, devront reverser à l'Etat les primes pour lesquelles les pièces justificatives font défaut, ainsi que leurs intérêts capitalisés.
 

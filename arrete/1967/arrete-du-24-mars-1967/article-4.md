@@ -11,3 +11,9 @@ Par décision du président de la commission administrative, sur proposition du 
 Par décision du directeur général ou du directeur dans les autres établissements.
 
 Le montant de la prime attribuée par décision du préfet pour les personnels notés à l'échelon national est déterminé conformément aux directives du ministre des affaires sociales.
+
+En ce qui concerne l'Assistance publique-hôpitaux de Paris, la prime de service est attribuée, conformément aux directives du ministre chargé de la santé, par décision :
+
+- du ministre chargé de la santé, pour l'emploi de directeur général ;
+
+- du directeur général, pour les emplois de l'Assistance publique-hôpitaux de Paris visés à l'article 1er du présent arrêté et les personnels de direction relevant de son autorité.

@@ -4,4 +4,4 @@ Toutefois, à titre dérogatoire, pour tenir compte de l'ampleur particulière d
 
 Dans le cas d'une commission d'enquête, le nombre de vacations peut être différent pour chaque membre de cette commission.
 
-Le montant unitaire de la vacation, hors taxe sur la valeur ajoutée, est fixé à 200 F.
+Le montant unitaire de la vacation, hors taxe sur la valeur ajoutée, est fixé à 38,10 euros.

@@ -24,6 +24,6 @@ V. (paragraphe modificateur).
 
 VI. - La présente loi ne fait pas obstacle au maintien des conventions collectives en vigueur à la date de publication de la présente loi.
 
-VII. - Les marchés de valeurs mobilières et les marchés à terme fondés sur la loi du 28 mars 1885 précitée et la loi n° 88-70 du 22 janvier 1988 précitée, fonctionnant régulièrement à la date de publication de la présente loi, sont reconnus comme des marchés réglementés au sens de l'article 41 de la présente loi.
+VII. - (abrogé).
 
 VIII. - Les appellations de "société de bourse" et d'"agent des marchés interbancaires" ne peuvent être utilisées que par les personnes agréées en cette qualité à la date de publication de la présente loi.

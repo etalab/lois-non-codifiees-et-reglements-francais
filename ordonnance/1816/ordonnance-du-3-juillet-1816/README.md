@@ -1,13 +1,6 @@
-# Ordonnance du 3 juillet 1816 autorisant la Caisse des dépôts et consignations à recevoir les dépôts volontaires des particuliers.
+# Ordonnance du 3 juillet 1816 relative aux attributions de la Caisse des dépôts et consignations créée par la loi du 28 avril 1816.
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)
-- [Article 7](article-7.md)
-- [Article 8](article-8.md)
-- [Article 9](article-9.md)
-- [Article 10](article-10.md)
-- [Article 11](article-11.md)
+- [Section I : Des sommes qui doivent être versées dans la Caisse des dépôts et consignations.](section-i)
+- [Section II : Obligations des officiers ministériels ou autres tenus de faire des versements à la Caisse des dépôts et consignations.](section-ii)
+- [Section III : Obligations de la Caisse des dépôts et consignations et de ses préposés.](section-iii)
+- [Section IV : Dispositions transitoires.](section-iv)

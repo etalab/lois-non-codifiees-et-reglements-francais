@@ -10,11 +10,13 @@ Le balisage : balisage de jour uniquement ; balisage des plages ; balisage laté
 
 La signalisation : avis météo de jour (avis de grand frais et coup de vent) ; huit signaux phoniques de manoeuvre et d'avertissement ; trois signalisations des plongeurs sous-marins et distance de sécurité ; signaux de détresse (signaux pyrotechniques de détresse, pavillons N et C, mouvements des bras, son continu, miroir de signalisation) ; trois signaux de trafic portuaire (messages principaux) ; pictogrammes.
 
-Savoir prendre la météo.
+Savoir prendre la météo, connaissance de l'echelle anémométrique Beaufort.
 
 Règles de la pratique du ski nautique.
 
 Notions d'autonomie en carburant.
+
+Protection de l'environnement : rejets, précautions à prendre en matière de mouillage, peintures anti-salissures ; protection de la ressource halieutique : interdiction de vente et d'achat du poisson provenant de la pêche de loisir, réglementation de la pêche sous-marine.
 
 2.2. Le programme de l'épreuve pratique de la carte Mer est le suivant :
 
