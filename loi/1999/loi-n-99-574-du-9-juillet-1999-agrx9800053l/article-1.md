@@ -24,6 +24,8 @@ I. - La politique agricole prend en compte les fonctions économique, environnem
 
 - la préservation des ressources naturelles et de la biodiversité, et l'entretien des paysages, l'équilibre économique des exploitations ne devant pas être mis en péril par les obligations qui en découlent, notamment en matière de préservation de la faune sauvage, sans qu'il en résulte des charges supplémentaires pour l'Etat ;
 
+- l'entretien des cours d'eau et la prévention des inondations et de l'érosion des sols ;
+
 - la poursuite d'actions d'intérêt général au profit de tous les usagers de l'espace rural ;
 
 - la promotion et le renforcement d'une politique de la qualité et de l'identification de produits agricoles ;
