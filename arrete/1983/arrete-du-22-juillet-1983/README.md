@@ -1,4 +1,4 @@
-# Arrêté du 22 juillet 1983 modifiant la clause type de réduction-majoration des primes en assurance automobile
+# Arrêté du 22 juillet 1983 RELATIF AUX MODALITES D'APPLICATION DU DECRET N° 83-670 DU 22 JUILLET 1983 RELATIF AUX INDEMNITES DE FRAIS ANNEXES A LA FORMATION DE CERTAINS STAGIAIRES DE FORMATION PROFESSIONNELLE.
 
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
