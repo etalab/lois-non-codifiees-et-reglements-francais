@@ -12,7 +12,11 @@ Peuvent être exécutés par des auxiliaires médicaux qualifiés et uniquement 
 
 5° Pulvérisations de substances médicamenteuses par appareils pulvérisateurs à vapeur.
 
-6° Injections sous-cutanées, intradermiques, intramusculaires.
+6° Injections sous-cutanées, intradermiques, intramusculaires, à l'exclusion des injections de vaccin visées à l'article 3 (8°) du présent arrêté. Toutefois :
+
+a) Les injections hypodermiques destinées à la sérothérapie antitoxique devront être effectuées selon la méthode de Besredka et suivies d'une surveillance immédiate des suites de l'injection ;
+
+b) La poursuite des injections d'allergène en vue d'un traitement d'hyposensibitisation spécifique sera effectuée en application d'une ordonnance précisant, pour chaque injection, la dose requise et la date à laquelle elle doit être effectuée. L'infirmière devra assurer la surveillance immédiate des suites de chaque injection.
 
 7° Injections et perfusions intraveineuses, au niveau des membres seulement et à l'exclusion des perfusions de sang de plasma sanguin et de tout produit d'origine humaine visées à l'article 3 du présent arrêté.
 
@@ -58,4 +62,4 @@ Des courants de moyenne et basse fréquence.
 
 25° Rééducation de la parole et du langage.
 
-26° Audiométrie subjective tonale et vocale (prise d'un audio-gramme), à l'exclusion de l'audiométrie prothétique (faite dans un but de sélection et de contrôle des appareils de prothèse auditive) dont l'usage est libre de prescription médicale.
+26° Audiométrie prothétique.
