@@ -3,5 +3,5 @@
 - [Titre 1er : Conditions d'autorisation et d'agrément](titre-1er)
 - [Article 1](article-1.md)
 - [Titre Ier : Conditions d'autorisation et d'agrément](titre-ier)
-- [Titre II : Conditions de fonctionnement](titre-ii)
+- [Titre II : Condition de fonctionnement](titre-ii)
 - [Titre III : Dispositions diverses](titre-iii)

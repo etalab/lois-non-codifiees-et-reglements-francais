@@ -16,6 +16,7 @@
 - [Décret n°75-1241 du 12 décembre 1975](decret-n75-1241-du-12-decembre-1975)
 - [Décret n°75-150 du 13 mars 1975](decret-n75-150-du-13-mars-1975)
 - [Décret n°75-779 du 13 août 1975](decret-n75-779-du-13-aout-1975)
+- [Décret n°75-354 du 13 mai 1975](decret-n75-354-du-13-mai-1975)
 - [Décret n°75-1166 du 15 décembre 1975](decret-n75-1166-du-15-decembre-1975)
 - [Décret n°75-1198 du 16 décembre 1975](decret-n75-1198-du-16-decembre-1975)
 - [Décret n°75-1199 du 16 décembre 1975](decret-n75-1199-du-16-decembre-1975)
