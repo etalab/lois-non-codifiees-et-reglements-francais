@@ -81,6 +81,7 @@
 - [Arrêté du 8 janvier 2001 (EQUS0100028A)](arrete-du-8-janvier-2001-equs0100028a)
 - [Arrêté du 8 janvier 2001 (EQUS0100029A)](arrete-du-8-janvier-2001-equs0100029a)
 - [Arrêté du 8 janvier 2001 (MENF0003104A)](arrete-du-8-janvier-2001-menf0003104a)
+- [Arrêté du 8 juin 2001 (AGRP0101144A)](arrete-du-8-juin-2001-agrp0101144a)
 - [Arrêté du 8 mars 2001 (ECOD0170003A)](arrete-du-8-mars-2001-ecod0170003a)
 - [Arrêté du 9 avril 2001 (AGRG0100096A)](arrete-du-9-avril-2001-agrg0100096a)
 - [Arrêté du 9 avril 2001 (ECOD0170008A)](arrete-du-9-avril-2001-ecod0170008a)

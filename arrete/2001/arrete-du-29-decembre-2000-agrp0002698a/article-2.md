@@ -4,7 +4,19 @@ L'indemnisation, octroyée dans le cadre du programme communautaire d'achat pour
 
 Les montants d'indemnisation applicables, en fonction des catégories et des classes, sont les suivants :
 
-1. Pour les vaches et les taureaux :
+1. - Pour les taureaux :
+
+Classe E : 14,25 F/kg ;
+
+Classe U : 14,25 F/kg ;
+
+Classe R : 13,90 F/kg ;
+
+Classe O : 13,10 F/kg ;
+
+Classe P : 12,30 F/kg.
+
+1. - Pour les vaches :
 
 Classe E : 18,80 F/kg ;
 
