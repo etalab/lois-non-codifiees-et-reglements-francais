@@ -1,7 +1,5 @@
 # Article 20
 
-L'importation d'eaux autres que minérales naturelles et l'importation de glace alimentaire d'origine hydrique, lorsqu'elles sont conditionnées ou préparées dans un Etat membre de la C.E.E., sont soumises à déclaration auprès du ministre chargé de la santé.
+La création et la modification d'installations collectives, publiques ou privées, d'adduction ou de distribution d'eau, l'utilisation d'eau prélevée dans le milieu naturel et réservée à l'usage personnel d'une famille, ainsi que les réseaux particuliers alimentés par une distribution publique qui peuvent présenter un risque pour la santé publique sont soumis à déclaration auprès du directeur départemental des affaires sanitaires et sociales.
 
-L'importation d'eaux autres que minérales naturelles et l'importation de glace alimentaire d'origine hydrique, lorsqu'elles sont conditionnées ou préparées dans un pays tiers, sont soumises à autorisation du ministre chargé de la santé.
-
-Un arrêté du ministre chargé de la santé et du ministre chargé des douanes [*autorités compétentes*] détermine les conditions dans lesquelles la déclaration ou la demande d'autorisation est établie et instruite.
+Un arrêté des ministres chargés de la santé et de la construction, pris après avis du Conseil supérieur d'hygiène publique de France [*autorités compétentes*], fixe les catégories de réseaux particuliers pour lesquels la déclaration est obligatoire.
