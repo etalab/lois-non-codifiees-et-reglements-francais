@@ -1,6 +1,6 @@
 # Article 10
 
-Les dossiers de candidature doivent être adressés sous pli recommandé ou déposés au ministère chargé de la santé (direction des hôpitaux) avant la date de clôture des inscriptions. L'arrêté portant ouverture des concours fixe chaque année cette date, entre le quarante-cinquième et le soixantième jour avant la date des épreuves d'admissibilité.
+Les dossiers de candidature doivent être adressés sous pli recommandé ou déposés au ministère chargé de la santé (direction des hôpitaux) avant la date de clôture des inscriptions. L'arrêté portant ouverture des concours fixe chaque année cette date entre le quatre-vingt-quinzième et le cent quinzième jour avant la date des épreuves d'admissibilité.
 
 Ces dossiers comprennent [*contenu*] :
 

@@ -401,6 +401,7 @@
 - [Décret n°92-794 du 14 août 1992 (SANH9201950D)](decret-n92-794-du-14-aout-1992-sanh9201950d)
 - [Décret n°92-799 du 14 août 1992 (DEFD9201717D)](decret-n92-799-du-14-aout-1992-defd9201717d)
 - [Décret n°92-92 du 14 janvier 1992 (MJSK9170149D)](decret-n92-92-du-14-janvier-1992-mjsk9170149d)
+- [Décret n°92-989 du 14 septembre 1992 (SPSS9201562D)](decret-n92-989-du-14-septembre-1992-spss9201562d)
 - [Décret n°91-479 du 14 mai 1991 (JUSG9160022D)](decret-n91-479-du-14-mai-1991-jusg9160022d)
 - [Décret n°91-367 du 15 avril 1991 (DEFP9101200D)](decret-n91-367-du-15-avril-1991-defp9101200d)
 - [Décret n°91-369 du 15 avril 1991 (EQUS9100390D)](decret-n91-369-du-15-avril-1991-equs9100390d)
