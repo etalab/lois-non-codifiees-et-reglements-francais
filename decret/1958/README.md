@@ -8,5 +8,6 @@
 - [Décret n°58-430 du 11 avril 1958](decret-n58-430-du-11-avril-1958)
 - [Décret n°58-434 du 11 avril 1958](decret-n58-434-du-11-avril-1958)
 - [Décret n°58-28 du 14 janvier 1958](decret-n58-28-du-14-janvier-1958)
+- [Décret n°58-436 du 14 avril 1958](decret-n58-436-du-14-avril-1958)
 - [Décret n°58-441 du 14 avril 1958](decret-n58-441-du-14-avril-1958)
 - [Décret n°59-575 du 24 avril 1959](decret-n59-575-du-24-avril-1959)
