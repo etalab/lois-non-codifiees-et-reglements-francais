@@ -67,7 +67,6 @@
 - [Décret n°68-642 du 9 juillet 1968](decret-n68-642-du-9-juillet-1968)
 - [Décret n°82-474 du 9 juin 1982](decret-n82-474-du-9-juin-1982)
 - [Décret n°82-491 du 9 juin 1982](decret-n82-491-du-9-juin-1982)
-- [Décret n°82-492 du 9 juin 1982](decret-n82-492-du-9-juin-1982)
 - [Décret n°82-703 du 9 août 1982](decret-n82-703-du-9-aout-1982)
 - [Décret n°82-770 du 9 septembre 1982](decret-n82-770-du-9-septembre-1982)
 - [Décret n°82-954 du 9 novembre 1982](decret-n82-954-du-9-novembre-1982)
