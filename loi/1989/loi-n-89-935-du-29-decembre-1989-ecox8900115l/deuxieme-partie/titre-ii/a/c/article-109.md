@@ -2,7 +2,7 @@
 
 I. - Il est institué un plan d'épargne populaire qui ouvre droit, moyennant des versements à un compte ouvert ou au titre d'un contrat d'assurance sur la vie conclu auprès d'un organisme mentionné à l'article 1er de la loi n° 87-416 du 17 juin 1987 sur l'épargne, au remboursement des sommes versées et de leurs produits capitalisés ou au paiement d'une rente viagère.
 
-Le plan d'épargne populaire ouvre droit, sous certaines conditions, à des avantages fiscaux et à une prime d'épargne.
+Le plan d'épargne populaire ouvre droit, sous certaines conditions, à des avantages fiscaux et, pour les plans ouverts avant le 22 septembre 1993, à une prime d'épargne.
 
 Il peut être ouvert un plan par contribuable ou par chacun des époux soumis à une imposition commune.
 
