@@ -1,0 +1,3 @@
+# Article 11
+
+Les dispositions des titres II, III et IV ci-dessous, relatives aux formations supérieures et aux établissements qui relèvent de l'autorité ou du contrôle du ministre de l'éducation nationale, peuvent être étendues par décret en Conseil d'Etat, en totalité ou en partie, avec, le cas échéant, les adaptations nécessaires, aux secteurs de formations et aux établissements d'enseignement supérieur qui relèvent de l'autorité ou du contrôle d'autres ministres, après concertation avec toutes les parties concernées. L'extension sera subordonnée à l'avis conforme des conseils d'administration des établissements concernés et à l'accord de leurs ministres de tutelle.

@@ -1,5 +1,3 @@
 # Article 5
 
-Toute propagande antinataliste est interdite. Toute publicité commerciale concernant les contraceptifs est interdite, sauf dans les publications réservées aux médecins et aux pharmaciens.
-
-Un décret en Conseil d'Etat détermine les mesures d'application du présent article.
+Toute publicité, sous quelque forme que ce soit, relative aux préservatifs et aux autres contraceptifs, est soumise aux dispositions de l'article L. 551 du code de la santé publique.
