@@ -1,6 +1,6 @@
 # Article 10
 
-Les listes de candidats doivent être présentées par une organisation professionnelle ou syndicale dont les statuts sont régis par le code du travail.
+Les listes de candidats sont présentées par les organisations professionnelles ou syndicales ayant pour objet social de défendre les droits et intérêts des personnes constituant le collège concerné et dont les statuts sont régis par le code du travail.
 
 Les listes sont déposées auprès de la commission électorale, à partir de la date de clôture de la liste des électeurs, quarante jours au moins avant le jour du scrutin.
 
@@ -12,4 +12,4 @@ Chaque liste doit faire l'objet d'une déclaration effectuée par un mandataire 
 
 La déclaration doit mentionner la date de l'élection, le comité, le collège ou la catégorie, ainsi que le nom de l'organisation présentant la liste. Ele ne doit comporter aucune autre mention.
 
-La déclaration est accompagnée en annexe, pour chaque candidat, d'une attestation d'inscription sur la liste électorale délivrée par le chef du quartier des affaires maritimes du siège du comité.
+La déclaration est accompagnée en annexe, pour chaque candidat, d'une attestation d'inscription sur la liste électorale délivrée par le directeur départemental ou interdépartemental des affaires maritimes du siège du comité.
