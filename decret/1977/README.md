@@ -53,6 +53,8 @@
 - [Décret n° 77-497 du 10 mai 1977](decret-n-77-497-du-10-mai-1977)
 - [Décret n°77-36 du 11 janvier 1977](decret-n77-36-du-11-janvier-1977)
 - [Décret n°77-41 du 11 janvier 1977](decret-n77-41-du-11-janvier-1977)
+- [Décret n°77-961 du 11 août 1977](decret-n77-961-du-11-aout-1977)
+- [Décret n°77-962 du 11 août 1977](decret-n77-962-du-11-aout-1977)
 - [Décret n°77-493 du 11 mai 1977](decret-n77-493-du-11-mai-1977)
 - [Décret n°77-494 du 11 mai 1977](decret-n77-494-du-11-mai-1977)
 - [Décret n°77-44 du 12 janvier 1977](decret-n77-44-du-12-janvier-1977)

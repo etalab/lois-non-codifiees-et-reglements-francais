@@ -1,0 +1,5 @@
+# Article 111
+
+Le fonctionnaire qui cesse ses fonctions avant la date fixée par le directeur général pour accepter la démission peut faire l'objet d'une sanction disciplinaire.
+
+S'il a droit à pension, il peut subir une retenue correspondant au plus à la rémunération des services non effectués ; cette retenue est répartie sur les premiers versements qui lui sont faits à ce titre à concurrence d'un cinquième du montant de ces versements.
