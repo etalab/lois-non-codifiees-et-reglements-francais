@@ -5,4 +5,3 @@
 - [Chapitre III : Avancement.](chapitre-iii)
 - [Chapitre IV : Dispositions diverses.](chapitre-iv)
 - [Article 34](article-34.md)
-- [Annexes](annexes)
