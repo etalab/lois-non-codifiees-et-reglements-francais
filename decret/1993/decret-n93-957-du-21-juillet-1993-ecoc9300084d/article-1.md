@@ -1,0 +1,3 @@
+# Article 1
+
+Les dispositions des articles 1er, 2, 3 et 4, à l'exception du 4 de cet article, 5, à l'exception du 2 de cet article, 6, à l'exception du 4 de cet article, 7, à l'exception du 3 de cet article, 8, à l'exception du 9 de cet article, 11 et des annexes 1 et 2 du règlement (C.E.E.) n° 1601-91 susvisé constituent, sans préjudice des dispositions transitoires prévues par ledit règlement et par le règlement (C.E.E.) n° 3664-91 susvisé, les mesures d'exécution prévues aux articles L. 214-1, L. 215-1 et L. 215-4 du code de la consommation , il en est de même des dispositions ayant le même objet des règlements communautaires qui les modifieraient ou qui seraient pris pour leur application, dans la mesure où elles entrent dans les prévisions desdits articles.
