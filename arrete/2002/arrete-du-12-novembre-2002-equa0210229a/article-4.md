@@ -1,0 +1,3 @@
+# Article 4
+
+Pour les ingénieurs électroniciens des systèmes de la sécurité aérienne recrutés par examen professionnel qui ne possèdent pas déjà une qualification technique, le stage conduit à la délivrance d'une qualification technique par le directeur de la navigation aérienne après avis favorable d'un jury habilité. Elle est délivrée après vérification de l'aptitude de l'agent à assurer les fonctions qui lui seront confiées et après le suivi obligatoire de modules de stage validés par le directeur de la navigation aérienne. Le nombre de modules ne peut être inférieur à six et la durée totale de stage inférieure à seize semaines.

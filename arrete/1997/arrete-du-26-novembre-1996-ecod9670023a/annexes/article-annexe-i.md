@@ -1,23 +1,35 @@
 # Article ANNEXE I
 
-LISTE DES DECHETS ET RESIDUS D'HYDROCARBURES VISES PAR LE PRESENT ARRETE
+LISTE DES DECHETS D'HUILES ET RESIDUS D'HYDROCARBURES VISES PAR LE PRESENT ARRETE
 
-CODE nomenclature douanière - DESIGNATION DES PRODUITS
+CODE - nomenclature douanière
 
 2707.99.99
 
+DESIGNATION DES PRODUITS
+
 Résidus issus des craqueurs catalytiques et autres produits similaires non solides ; huiles de pyrolyse.
 
-2710.00.21 à 78
+CODE - nomenclature douanière
 
-Hydrocarbures répondant seulement aux normes douanières et fiscales des huiles minérales, à l'exception des positions tarifaires correspondant à des traitements définis ou des transformations chimiques.
+2710.91.00 et 2710.99.00
+
+DESIGNATION DES PRODUITS
+
+Déchets d'huiles non solides, à l'exclusion des huiles lubrifiantes usagées.
+
+CODE - nomenclature douanière
 
 2713.90.90
 
+DESIGNATION DES PRODUITS
+
 Résidus non solides des huiles de pétrole ou de minéraux bitumeux.
 
-3824.90.90
+CODE - nomenclature douanière
 
-Déchets d'hydrocarbures.
+3825.90.00
 
-La déclaration fiscale d'accompagnement de déchets et résidus d'hydrocarbures faisant l'objet de l'annexe II est enregistrée sous le numéro C.E.R.F.A. 10 329* 01.
+DESIGNATION DES PRODUITS
+
+Déchets non solides contenant des huiles de pétrole ou de minéraux bitumeux à titre non principal.
