@@ -1,0 +1,3 @@
+# Article 20-1
+
+Pendant une période de six mois à compter de la publication du décret n° 2004-371 du 27 avril 2004 modifiant le présent décret, la commission examine la situation des intermédiaires du sport, régulièrement déclarés à l'autorité administrative compétente conformément aux dispositions de l'article 7 de la loi n° 92-652 du 13 juillet 1992 et des décrets n° 93-88 du 15 janvier 1993 et n° 93-393 du 18 mars 1993 pris pour son application, et détenteurs d'une licence délivrée, à la suite d'un examen organisé par une fédération sportive, pour apprécier si les intéressés peuvent être dispensés de tout ou partie de l'examen écrit prévu à l'article 8.
