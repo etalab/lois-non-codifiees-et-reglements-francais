@@ -199,7 +199,6 @@
 - [Arrêté du 19 avril 2002 (MESG0221046A)](arrete-du-19-avril-2002-mesg0221046a)
 - [Arrêté du 19 décembre 2000 (MCCB0000831A)](arrete-du-19-decembre-2000-mccb0000831a)
 - [Arrêté du 19 janvier 2001 (AGRA0100133A)](arrete-du-19-janvier-2001-agra0100133a)
-- [Arrêté du 19 janvier 2001 (ECOB0160001A)](arrete-du-19-janvier-2001-ecob0160001a)
 - [Arrêté du 19 janvier 2001 (ECOD0070037A)](arrete-du-19-janvier-2001-ecod0070037a)
 - [Arrêté du 19 juillet 2001 (PRMX0104982A)](arrete-du-19-juillet-2001-prmx0104982a)
 - [Arrêté du 19 mars 2001 (ECOD0170005A)](arrete-du-19-mars-2001-ecod0170005a)
