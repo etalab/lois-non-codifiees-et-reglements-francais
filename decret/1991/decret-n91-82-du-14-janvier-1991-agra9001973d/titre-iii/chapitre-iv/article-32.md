@@ -1,0 +1,3 @@
+# Article 32
+
+Peuvent être inscrits au tableau d'avancement à la 1re classe les attachés de 2e classe qui comptent au moins trois ans d'ancienneté au 8e échelon de la 2e classe et qui ont accompli au moins treize ans de services effectifs dans leur grade ou dans un corps, cadre d'emplois ou emploi de catégorie A. La durée du service national vient, le cas échéant, en déduction de ces treize années. L'ancienneté éventuellement acquise dans un corps, cadre d'emplois ou emploi de catégorie B au-delà de douze ans est également admise en déduction. Ces déductions ne peuvent toutefois avoir pour effet de réduire à moins de trois ans la durée des services effectivement accomplis dans un corps, cadre d'emplois ou emploi de catégorie A.

@@ -1,0 +1,3 @@
+# Article 4
+
+En ce qui concerne les établissements nationaux dépendant du ministère du travail, de l'emploi et de la formation professionnelle, en l'absence de dispositions propres à chacun d'eux, la composition des bureaux d'adjudication et des commissions d'ouverture des plis est celle prévue à l'article 2, du présent arrêté, lorsque l'établissement est situé à Paris, et celle de l'article 3 dans tous les autres cas. L'agent comptable de l'établissement siège avec voix délibérative. Le directeur ou chef de service dont relève l'opération est le responsable de la tutelle financière de l'établissement.
