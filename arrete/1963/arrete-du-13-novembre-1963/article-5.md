@@ -2,10 +2,10 @@
 
 Le financement du régime est assuré par :
 
-Des cotisations mises à la charge des gérants en fonctions et prélevées sur les remises allouées pour la vente des tabacs.
+- des cotisations mises à la charge des gérants en fonctions et prélevées sur les remises allouées pour la vente des tabacs ;
 
-Une participation du fonds des redevances des débits de tabac égale au double de la cotisation des gérants ;
+- une participation du fonds des redevances des débits de tabac ;
 
-Les produits financiers procurés par le placement des ressources du régime ;
+- les produits financiers procurés par le placement des ressources du régime ;
 
-Des recettes diverses.
+- des recettes diverses.

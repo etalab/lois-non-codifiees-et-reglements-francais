@@ -1,0 +1,3 @@
+# Article 1
+
+La liste des renseignements dont la déclaration peut être demandée par l'administration des impôts en application de l'article 29 de la loi n° 90-669 du 30 juillet 1990 figure sur les deux modèles d'imprimés annexés au présent arrêté. Ces modèles concernent, pour les premier et second groupes définis à l'article 3-I de la loi susvisée, d'une part, les maisons individuelles affectées à l'habitation et leurs dépendances, d'autre part, les appartements situés dans un immeuble collectif affectés à l'habitation et leurs dépendances. Les renseignements doivent être fournis par les propriétaires sur le modèle correspondant au local concerné.
