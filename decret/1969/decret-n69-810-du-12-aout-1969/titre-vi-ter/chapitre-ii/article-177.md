@@ -1,7 +1,3 @@
 # Article 177
 
-Le liquidateur représente la société pendant la liquidation.
-
-Il dispose des pouvoirs les plus étendus pour réaliser l'actif, régler le passif, rembourser aux associés ou à leurs ayants droit le montant de leur apport et répartir entre eux, conformément aux dispositions des statuts [*contenu*], l'actif net résultant de la liquidation.
-
-Les pouvoirs du liquidateur peuvent être précisés par la décision judiciaire ou la décision des associés qui l'a nommé.
+L'actionnaire ou associé radié de la liste cesse d'exercer son activité professionnelle de commissaire aux comptes à compter du jour où la décision prononçant la radiation est définitive. Lorsqu'il s'agit d'une société civile professionnelle, ses parts sociales sont cédées dans les conditions fixées à l'article 150. Lorsqu'il s'agit d'une autre société de commissaires aux comptes, l'actionnaire ou l'associé dispose d'un délai de six mois à compter du jour où la radiation est devenue définitive, pour céder tout ou partie de ses parts ou actions afin de maintenir la part de capital détenue par les commissaires aux comptes.
