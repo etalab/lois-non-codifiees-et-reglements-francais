@@ -23,3 +23,5 @@ d) Plus de 100 personnes :
 Par deux dégagements jusqu'à 500 personnes, augmentés d'un dégagement par 500 personnes ou fraction de 500 personnes au-dessus des 500 premières. La largeur des dégagements doit être calculée à raison d'une unité de passage pour 100 personnes ou fraction de 100 personnes ; au-dessous de 501 personnes, le nombre d'unités de passage est majoré d'une unité.
 
 § 2. A chaque niveau l'effectif à prendre en compte pour calculer le nombre et la largeur des escaliers desservant ce niveau doit cumuler l'effectif admis à ce niveau avec ceux des niveaux situés au-dessus pour les niveaux en surélévation, ou avec ceux des niveaux en dessous pour les niveaux en sous-sol.
+
+§ 3. Dans les niveaux recevant un effectif d'handicapés physiques circulant en fauteuil roulant égal ou supérieur à 10 % de l'effectif total du public le nombre et la largeur des dégagements horizontaux peuvent être augmentés, après avis de la commission consultative départementale de la protection civile.

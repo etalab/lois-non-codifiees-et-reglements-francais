@@ -4,11 +4,11 @@ Affichage du plan de l'établissement
 
 Un plan schématique, sous forme de pancarte inaltérable, doit être apposé à chaque entrée de bâtiment de l'établissement pour faciliter l'intervention des sapeurs-pompiers.
 
-Le plan doit avoir les caractéristiques des plans d'intervention définies à la norme NF S 60-303 du 20 septembre 1987 relative aux plans et consignes de protection contre l'incendie.
+Le plan doit avoir les caractéristiques des plans d'intervention définies à la norme NF S 60-303 relative aux plans et consignes de protection contre l'incendie.
 
 Il doit représenter au minimum le sous-sol, le rez-de-chaussée, chaque étage ou l'étage courant de l'établissement.
 
-Doivent y figurer, outre les dégagements, les espaces d'attente sécurisés et les cloisonnements principaux, l'emplacement :
+Doivent y figurer, outre les dégagements et les cloisonnements principaux, l'emplacement :
 
 - des divers locaux techniques et autres locaux à risques particuliers ;
 

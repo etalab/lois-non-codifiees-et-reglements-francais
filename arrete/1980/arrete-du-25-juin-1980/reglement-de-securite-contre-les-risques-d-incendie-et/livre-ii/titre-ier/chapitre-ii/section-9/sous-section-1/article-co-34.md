@@ -49,9 +49,3 @@ Porte équipée d'un dispositif destiné à la ramener automatiquement à sa pos
 Porte à fermeture automatique :
 
 Porte équipée d'un ferme-porte et d'un dispositif qui peut la maintenir en position d'ouverture et la libère au moment du sinistre, dans les conditions prévues à l'article CO 47.
-
-§ 6. Espace d'attente sécurisé :
-
-Zone à l'abri des fumées, des flammes et du rayonnement thermique :
-
-Une personne, quel que soit son handicap, doit pouvoir s'y rendre et, si elle ne peut poursuivre son chemin, y attendre son évacuation grâce à une aide extérieure.
