@@ -211,7 +211,6 @@
 - [Arrêté du 7 juillet 1994 (ECOZ9400008A)](arrete-du-7-juillet-1994-ecoz9400008a)
 - [Arrêté du 7 juillet 1994 (MEND9401248A)](arrete-du-7-juillet-1994-mend9401248a)
 - [Arrêté du 7 juin 1994 (AGRM9400633A)](arrete-du-7-juin-1994-agrm9400633a)
-- [Arrêté du 7 juin 1994 (COMA9400009A)](arrete-du-7-juin-1994-coma9400009a)
 - [Arrêté du 7 juin 1994 (ECOC9400069A)](arrete-du-7-juin-1994-ecoc9400069a)
 - [Arrêté du 7 juin 1994 (EQUA9400741A)](arrete-du-7-juin-1994-equa9400741a)
 - [Arrêté du 7 juin 1994 (EQUA9401065A)](arrete-du-7-juin-1994-equa9401065a)

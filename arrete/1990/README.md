@@ -692,7 +692,6 @@
 - [Arrêté du 26 juillet 1990 (AGRS9001613A)](arrete-du-26-juillet-1990-agrs9001613a)
 - [Arrêté du 26 juillet 1990 (PTTR9000607A)](arrete-du-26-juillet-1990-pttr9000607a)
 - [Arrêté du 26 juin 1990 (BUDF9000012A)](arrete-du-26-juin-1990-budf9000012a)
-- [Arrêté du 26 juin 1990 (COMA9000008A)](arrete-du-26-juin-1990-coma9000008a)
 - [Arrêté du 26 juin 1990 (RESY9000186A)](arrete-du-26-juin-1990-resy9000186a)
 - [Arrêté du 26 mars 1990 (BUDR9005020A)](arrete-du-26-mars-1990-budr9005020a)
 - [Arrêté du 26 mars 1990 (MCCG9000240A)](arrete-du-26-mars-1990-mccg9000240a)

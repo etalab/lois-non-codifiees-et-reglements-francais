@@ -22,7 +22,6 @@
 - [Décret n°86-313 du 3 mars 1986](decret-n86-313-du-3-mars-1986)
 - [Décret n°86-319 du 3 mars 1986](decret-n86-319-du-3-mars-1986)
 - [Décret n°86-4 du 3 janvier 1986](decret-n86-4-du-3-janvier-1986)
-- [Décret n°86-5 du 3 janvier 1986](decret-n86-5-du-3-janvier-1986)
 - [Décret n°86-6 du 3 janvier 1986](decret-n86-6-du-3-janvier-1986)
 - [Décret n°86-691 du 3 avril 1986](decret-n86-691-du-3-avril-1986)
 - [Décret n°86-692 du 3 avril 1986](decret-n86-692-du-3-avril-1986)

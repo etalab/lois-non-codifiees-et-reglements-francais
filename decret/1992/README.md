@@ -358,7 +358,6 @@
 - [Décret n°91-660 du 11 juillet 1991 (EQUA9100103D)](decret-n91-660-du-11-juillet-1991-equa9100103d)
 - [Décret n°92-1290 du 11 décembre 1992 (AGRD9202321D)](decret-n92-1290-du-11-decembre-1992-agrd9202321d)
 - [Décret n°92-1294 du 11 décembre 1992 (ECOT9213557D)](decret-n92-1294-du-11-decembre-1992-ecot9213557d)
-- [Décret n°92-1295 du 11 décembre 1992 (COMA9200027D)](decret-n92-1295-du-11-decembre-1992-coma9200027d)
 - [Décret n°92-1296 du 11 décembre 1992 (BUDB9260063D)](decret-n92-1296-du-11-decembre-1992-budb9260063d)
 - [Décret n°92-133 du 11 février 1992 (MENN9200073D)](decret-n92-133-du-11-fevrier-1992-menn9200073d)
 - [Décret n°92-134 du 11 février 1992 (ECOX9210017D)](decret-n92-134-du-11-fevrier-1992-ecox9210017d)

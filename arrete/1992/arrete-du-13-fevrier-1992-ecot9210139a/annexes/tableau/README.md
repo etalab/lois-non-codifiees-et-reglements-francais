@@ -1,3 +1,0 @@
-# Tableau d'activité et de résultats du ..... semestre 19...
-
-- [Article Annexe I](article-annexe-i.md)
