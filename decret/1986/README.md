@@ -27,7 +27,6 @@
 - [Décret n°86-182 du 4 février 1986](decret-n86-182-du-4-fevrier-1986)
 - [Décret n°86-297 du 4 mars 1986](decret-n86-297-du-4-mars-1986)
 - [Décret n°86-306 du 4 mars 1986](decret-n86-306-du-4-mars-1986)
-- [Décret n°86-157 du 5 février 1986](decret-n86-157-du-5-fevrier-1986)
 - [Décret n°86-169 du 5 février 1986](decret-n86-169-du-5-fevrier-1986)
 - [Décret n°86-172 du 5 février 1986](decret-n86-172-du-5-fevrier-1986)
 - [Décret n°86-192 du 5 février 1986](decret-n86-192-du-5-fevrier-1986)
