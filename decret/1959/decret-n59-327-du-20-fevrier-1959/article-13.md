@@ -8,11 +8,11 @@ Elle est composée :
 
 2° De deux conseillers à la cour d'appel.
 
-Chaque année, dans la première quinzaine du mois de décembre, le premier président de la cour d'appel désigne le président et les deux assesseurs titulaires de la cour régionale des pensions. Il désigne également trois assesseurs suppléants choisis parmi les conseillers à la cour d'appel.
+Chaque année, dans la première quinzaine du mois de décembre, le premier président de la cour d'appel désigne le président et les deux assesseurs titulaires de la cour régionale des pensions. Il désigne également trois assesseurs suppléants choisis parmi les conseillers à la cour d'appel. Le premier président de la cour d'appel peut présider lui-même la cour régionale des pensions chaque fois qu'il le juge utile.
 
 Lorsqu'un magistrat désigné pour faire partie de la cour régionale des pensions cesse de siéger à la cour d'appel, il est remplacé dans ses fonctions à la cour régionale par ordonnance du premier président.
 
-En cas d'empêchement temporaire, le président de la cour régionale des pensions est remplacé par le plus ancien des assesseurs titulaires et les assesseurs titulaires par les assesseurs suppléants dans l'ordre de leur ancienneté.
+Les fonctions de président de la cour régionale des pensions peuvent également être exercées, le cas échéant, par le plus ancien des assesseurs titulaires et celles d'assesseurs titulaires par les assesseurs suppléants dans l'ordre d'ancienneté.
 
 Si néanmoins la cour régionale est dans l'impossibilité de se constituer, le premier président peut exceptionnellement désigner d'autres magistrats de la cour d'appel, pour siéger à une audience d'autres magistrats de la cour d'appel, pour siéger à une audience déterminée.
 
