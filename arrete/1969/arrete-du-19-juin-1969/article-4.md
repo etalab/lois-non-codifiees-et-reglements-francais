@@ -1,3 +1,3 @@
 # Article 4
 
-La commission est réunie en séance ordinaire une fois par trimestre à la diligence du président. Elle est convoquée en séance extraordinaire lorsque la majorité des membres le demande.
+Lors de sa première réunion, la commission procède à l'élection de son bureau comprenant un président et deux vice-présidents. La composition de ce bureau élu, pour deux ans, est communiquée au ministre de l'économie et des finances et au ministre des affaires sociales dès son élection.
