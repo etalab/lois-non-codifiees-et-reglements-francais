@@ -701,7 +701,6 @@
 - [Décret n°98-1182 du 23 décembre 1998 (MENF9802883D)](decret-n98-1182-du-23-decembre-1998-menf9802883d)
 - [Décret n°98-1183 du 23 décembre 1998 (MENF9802884D)](decret-n98-1183-du-23-decembre-1998-menf9802884d)
 - [Décret n°98-1184 du 23 décembre 1998 (MAEA9820425D)](decret-n98-1184-du-23-decembre-1998-maea9820425d)
-- [Décret n°98-1190 du 23 décembre 1998 (EQUX9800174D)](decret-n98-1190-du-23-decembre-1998-equx9800174d)
 - [Décret n°98-1191 du 23 décembre 1998 (MCCX9800169D)](decret-n98-1191-du-23-decembre-1998-mccx9800169d)
 - [Décret n°98-1195 du 23 décembre 1998 (PRMX9800124D)](decret-n98-1195-du-23-decembre-1998-prmx9800124d)
 - [Décret n°98-1198 du 23 décembre 1998 (FPPA9800235D)](decret-n98-1198-du-23-decembre-1998-fppa9800235d)
