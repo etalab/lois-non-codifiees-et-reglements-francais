@@ -1,6 +1,5 @@
 # Annexes
 
-- [Article Annexe 1 A](article-annexe-1-a.md)
 - [Article Annexe 6](article-annexe-6.md)
 - [Agent d'enquête.](agent-d-enquete)
 - [Agent de bureau dactylographe](agent-de-bureau-dactylographe)
