@@ -12,6 +12,8 @@ I. - Dans le cas des concessions de substances autres que les hydrocarbures liqu
 
 4° L'indication de toute modification significative des mesures relatives à l'écoulement superficiel ou souterrain des eaux et à leur qualité ;
 
-5° L'indication des travaux dont la réalisation a été de nature à mettre en communication les différentes nappes aquifères.
+5° L'indication des travaux dont la réalisation a été de nature à mettre en communication les différentes nappes aquifères ;
+
+6° L'indication, en vue de l'application des dispositions des articles 91 à 93 du code minier, des conditions de l'arrêt des travaux ainsi que l'estimation de son coût ; sauf changement des conditions d'exploitation ou fait nouveau de nature à influer sur les conditions et modalités de l'arrêt des travaux, cette indication est fournie tous les cinq ans.
 
 II. - Dans le cas des concessions d'hydrocarbures liquides ou gazeux : la présentation des travaux réalisés en vue d'éviter la mise en communication des réservoirs aquifères traversés au cours des forages.

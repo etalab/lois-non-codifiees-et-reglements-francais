@@ -14,4 +14,6 @@ Les demandeurs d'une autorisation présentée au titre des articles 3 et 4 const
 
 6° Un mémoire exposant la compatibilité du projet avec la protection de la sécurité publique ;
 
-7° Le document de sécurité et de santé prévu à l'article 31.
+7° Le document de sécurité et de santé prévu à l'article 31 ;
+
+8° Un document indiquant, à titre prévisionnel, en vue de l'application des dispositions des articles 91 à 93 du code minier, les conditions de l'arrêt des travaux ainsi que l'estimation de son coût.
