@@ -1,5 +1,0 @@
-# Article 56
-
-Toutes facilités sont données aux membres du comité pour exercer leurs fonctions. Ils reçoivent communication des convocations et de toutes pièces et documents nécessaires à l'accomplissement de leur mission au plus tard quinze jours avant la date de la séance, sauf cas exceptionnel justifié par l'urgence.
-
-Une autorisation d'absence est accordée aux représentants du personnel, titulaires et suppléants, au sein des comités, ainsi qu'aux experts appelés à prendre part aux séances de ces comités en application du second alinéa de l'article 37 pour leur permettre de participer aux réunions des comités sur simple présentation de leur convocation. La durée de cette autorisation est calculée en tenant compte des délais de route, de la durée prévisible de la réunion et augmentée d'un temps égal à cette durée, au moins équivalent à une demi-journée, afin de leur permettre d'assurer la préparation et le compte rendu dans les meilleures conditions. Les membres titulaires et suppléants des comités ainsi que les experts convoqués sont indemnisés de leurs frais de déplacement et de séjour dans les conditions fixées par la réglementation en vigueur.

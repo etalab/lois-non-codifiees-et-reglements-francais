@@ -1,3 +1,0 @@
-# Article 17
-
-Lorsque les résultats de la surveillance sanitaire ou ceux des autocontrôles révèlent l'occurrence d'une contamination exceptionnelle, ou lorsque apparaît une circonstance risquant d'augmenter le risque sanitaire, la surveillance de la zone de production concernée est renforcée, notamment par la recherche d'agents pathogènes. Le nombre de points, la fréquence de prélèvements ainsi que les paramètres suivis sont adaptés à la nature du risque mis en évidence ou présumé. La fréquence des mesures des paramètres microbiologiques et phytoplanctoniques est augmentée sans toutefois être supérieure à une semaine.
