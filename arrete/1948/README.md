@@ -1,5 +1,6 @@
 # 1948
 
+- [Arrêté du 9 juin 1948](arrete-du-9-juin-1948)
 - [Arrêté du 10 mai 1948](arrete-du-10-mai-1948)
 - [Arrêté du 15 mars 1948](arrete-du-15-mars-1948)
 - [Arrêté du 20 janvier 1948](arrete-du-20-janvier-1948)
