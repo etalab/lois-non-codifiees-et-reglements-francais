@@ -6,7 +6,7 @@ I. - Concours externe visé au 1° de l'article 7 du décret n° 91-839 du 2 sep
 
 a) Epreuves écrites d'admissibilité :
 
-1° Une dissertation sur un sujet portant, au choix du candidat, soit sur l'histoire européenne, soit sur l'histoire de l'art européen, soit sur l'anthropologie préhistorique et historique de l'Europe (durée : cinq heures ; coefficient 3) ; ".
+1° Une dissertation sur un sujet portant, au choix du candidat, soit sur l'histoire européenne, soit sur l'histoire de l'art européen, soit sur l'archéologie préhistorique et historique européenne, soit sur l'ethnologie européenne (durée : cinq heures ; coefficient 3) ;
 
 2° Une note de commentaires et de synthèse portant sur un sujet d'histoire des civilisations européennes choisi en veillant à l'équilibre entre les différentes spécialités de la conservation, faite à partir d'un dossier pouvant notamment comprendre des textes, des photographies d'objets, de monuments ou de sites, des relevés et des plans (durée : cinq heures ; coefficient 3) ;
 
