@@ -1,0 +1,5 @@
+# Article 14-1
+
+I - L'affectation d'un fonctionnaire de l'Etat titulaire ou stagiaire soumis au présent décret dans un service du territoire est prononcée par arrêté de l'autorité de l'Etat investie du pouvoir de nomination après avis du ministre du territoire dont relève ce service. Cet arrêté est notifié au ministre du territoire en vue de l'application des dispositions du deuxième alinéa de l'article 1er de la loi du 11 juillet 1966 précitée et, notamment, de l'affectation de ce fonctionnaire par l'autorité territoriale compétente sur un poste déterminé.
+
+II - En ce qui concerne les fonctionnaires de l'Etat visés au I, la titularisation, la cessation progressive d'activité, la cessation définitive de fonctions, le déplacement dans l'une des positions énumérées aux articles 41 à 54 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat sont prononcés par l'autorité de l'Etat investie du pouvoir de nomination ou l'autorité de l'Etat ayant reçu délégation de cette dernière.

@@ -12,8 +12,4 @@ Sous réserve des dispositions de l'article 4 ci-après, délégation permanente
 
 5° Agents contractuels employés ou recrutés dans les conditions définies aux articles 4 et 6 de la loi du 11 janvier 1984 susvisée.
 
-6° Médecins contractuels de santé scolaire régis par le décret du 27 mars 1973 susvisé.
-
-7° Médecins contractuels, conseillers techniques des recteurs d'académie.
-
-8° Médecins contractuels de prévention.
+9. Agents contractuels recrutés en application de l'article 27 de la loi du 11 janvier 1984 susvisée.
