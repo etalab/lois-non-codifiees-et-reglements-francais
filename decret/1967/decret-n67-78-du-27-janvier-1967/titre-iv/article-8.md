@@ -1,5 +1,5 @@
 # Article 8
 
-L'importation et l'exportation de l'or en provenance et à destination de l'étranger sont libres, sous réserve de la remise au bureau de douane d'entrée ou de sortie d'une déclaration d'importation ou d'exportation préalablement visée par la Banque de France.
+L'achat d'or à l'étranger suivi d'importation et l'exportation consécutive à la vente d'or à l'étranger sont libres.
 
-Dans les départements et territoires d'outre-mer, les déclarations d'importation ou d'exportation sont visées par la caisse centrale de coopération économique.
+Les importations et exportations d'or s'effectuent sous le régime des importations et exportations de marchandises.
