@@ -1,0 +1,3 @@
+# Article 2
+
+Les arrêtés et décisions d'ouverture des concours fixent, pour chaque concours, le nombre de postes offerts au recrutement, leur répartition par branche d'activité professionnelle et emplois types pour les concours externes, leur répartition par branche d'activité professionnelle et, le cas échéant, par emploi type ou par regroupement de branches d'activité professionnelle pour les concours internes et la date limite de retrait et de dépôt des dossiers de candidature. Une décision du directeur général du CNRS fixe la date et le lieu de déroulement des épreuves ainsi que la liste des candidats admis à concourir.
