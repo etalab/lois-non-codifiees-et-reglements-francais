@@ -15,3 +15,5 @@ d) Eventuellement, les méthodes culturales et les pratiques de vinification.
 L'aire de production mentionnée ci-dessus est délimitée par une commission d'experts désignés par l'Institut national des appellations d'origine des vins et eaux-de-vie.
 
 Les plans ainsi établis sont, après approbation de l'Institut mentionné à l'alinéa précédent, déposés dans les mairies des communes intéressées.
+
+Toute dérogation à l'obligation de vinification à l'intérieur de l'aire de production ne peut être accordée par la direction générale de la concurrence, de la consommation et de la répression des fraudes que sur proposition de l'Institut national des appellations d'origine des vins et eaux-de-vie, après avis du syndicat de défense de l'appellation concernée donné sous quinzaine suivant la requête de l'intéressé.
