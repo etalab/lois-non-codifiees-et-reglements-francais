@@ -50,6 +50,7 @@
 - [Décret n°2001-917 du 4 octobre 2001 (DEFD0101964D)](decret-n2001-917-du-4-octobre-2001-defd0101964d)
 - [Décret n°2001-926 du 4 octobre 2001 (ECOT0114163D)](decret-n2001-926-du-4-octobre-2001-ecot0114163d)
 - [Décret n°2001-928 du 4 octobre 2001 (MESP0123148D)](decret-n2001-928-du-4-octobre-2001-mesp0123148d)
+- [Décret n°2000-389 du 4 mai 2000 (JUSX0000039D)](decret-n2000-389-du-4-mai-2000-jusx0000039d)
 - [Décret n°2001-1015 du 5 novembre 2001 (MESH0123603D)](decret-n2001-1015-du-5-novembre-2001-mesh0123603d)
 - [Décret n°2001-1016 du 5 novembre 2001 (MEST0111432D)](decret-n2001-1016-du-5-novembre-2001-mest0111432d)
 - [Décret n°2001-1017 du 5 novembre 2001 (JUSA0100340D)](decret-n2001-1017-du-5-novembre-2001-jusa0100340d)
