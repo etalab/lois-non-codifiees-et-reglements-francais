@@ -31,6 +31,8 @@
 - [Décret n°98-17 du 8 janvier 1998 (EQUP9701402D)](decret-n98-17-du-8-janvier-1998-equp9701402d)
 - [Décret n°98-18 du 8 janvier 1998 (MENH9702927D)](decret-n98-18-du-8-janvier-1998-menh9702927d)
 - [Décret n°98-19 du 8 janvier 1998 (MENL9703264D)](decret-n98-19-du-8-janvier-1998-menl9703264d)
+- [Décret n°98-27 du 8 janvier 1998 (MENU9703678D)](decret-n98-27-du-8-janvier-1998-menu9703678d)
+- [Décret n°98-28 du 8 janvier 1998 (ECOM9740757D)](decret-n98-28-du-8-janvier-1998-ecom9740757d)
 - [Décret n°99-617 du 8 juillet 1999 (EQUA9900471D)](decret-n99-617-du-8-juillet-1999-equa9900471d)
 - [Décret n°99-619 du 8 juillet 1999 (EQUA9900468D)](decret-n99-619-du-8-juillet-1999-equa9900468d)
 - [Décret n°97-1150 du 9 décembre 1997 (ECOB9710057D)](decret-n97-1150-du-9-decembre-1997-ecob9710057d)
