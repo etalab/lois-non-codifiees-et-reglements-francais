@@ -90,9 +90,9 @@ La valeur limite de flux spécifique pour les rejets de poussières émises par 
 
 Pour les gaz de rejets des fours à cuve, lors de la fusion de cuivre électrolytique, les émissions de cuivre et de ses composés, exprimées en cuivre, ne dépassent pas 10 mg/m3.
 
-12°Abrogé
+12° Abrogé
 
-13° Polymérisation du chlorure de vinyle (homopolymères et copolymères) : les dispositions du troisième tiret du 12° de l'article 27 sont remplacées par les dispositions suivantes :
+13° Polymérisation du chlorure de vinyle (homopolymères et copolymères) : les dispositions du troisième tiret du 12° de l'article 27 et du c du 7 de l'article 27 sont remplacées par les dispositions suivantes :
 
 La teneur résiduelle en chlorure de vinyle, avant séchage, ne doit pas dépasser les valeurs suivantes, en moyenne mensuelle :
 
@@ -390,11 +390,11 @@ Revêtement d'autobus neufs.
 
 34° Extraction d'huiles végétales et de graisses animales et activités de raffinage d'huile végétale (toute activité d'extraction d'huile végétale à partir de graines et d'autres matières végétales, le traitement de résidus secs destinés à la production d'aliments pour animaux, la purification de graisses et d'huiles végétales dérivées de graines, de matière végétale et/ou de matières animales) : si la consommation de solvants est supérieure à 10 tonnes par an, les dispositions du premier alinéa du a du 7° de l'article 27 sont remplacées par les dispositions suivantes :
 
-"La valeur limite d'émission totale des émissions de COV non méthanique figure dans le tableau ci-dessous pour différents types de produits traité.
+La valeur limite d'émission totale des émissions de COV non méthanique figure dans le tableau ci-dessous pour différents types de produits traité.
 
-TYPE DE PRODUIT TRAITÉ
+TYPE DE MATIERE TRAITEE
 
-VALEUR LIMITE D'ÉMISSION totale de COV par tonne de produit extrait ou raffiné
+VALEUR LIMITE D'ÉMISSION totale de COV par tonne de matière traitée
 
 Graisse animale
 
@@ -437,3 +437,15 @@ Autres graines et autres matières végétales
 Si la consommation de solvants est supérieure à 25 tonnes par an, le total des émissions de COV ne doit pas dépasser 75 grammes par mètre carré de produit fabriqué."
 
 Par exception aux prescriptions ci-dessus, pour les activités de revêtement du cuir dans l'ameublement et de certains produits en cuir utilisés comme petits articles de consommation tels que les sacs, les ceintures, les portefeuilles, etc., si la consommation de solvants est supérieure à 10 tonnes par an, le total des émissions de COV ne doit pas dépasser 150 grammes par mètre carré de produit fabriqué.
+
+36° Nettoyage de surfaces
+
+(Toute activité de nettoyage ou de dégraissage de surfaces utilisant des liquides organohalogénés ou des solvants organiques. Une activité de nettoyage constituée de plusieurs étapes se déroulant avant et après une autre activité est considérée comme une seule activité.)
+
+Si la consommation de solvants est supérieure à 2 tonnes par an, les dispositions du premier alinéa du a du 7° de l'article 27 sont remplacées par les dispositions suivantes :
+
+La valeur limite exprimée en carbone total de la concentration globale de l'ensemble des composés organiques volatils à l'exclusion du méthane est de 75 mg/m3. Le flux annuel des émissions diffuses de ces composés ne doit en outre pas dépasser 20 % de la quantité de solvants utilisée ; ce taux est ramené à 15 % si la consommation de solvants est supérieure à 10 tonnes par an.
+
+Si la consommation de solvants à phrase de risque R 45, R 46, R 49, R 60, R 61 ou halogénés étiquetés R 40 est supérieure à 1 tonne par an, les dispositions du deuxième alinéa du c du 7° de l'article 27 sont remplacées par les dispositions suivantes :
+
+La valeur limite de la concentration globale des solvants à phrase de risque R 45, R 46, R 49, R 60, R 61, exprimée en masse de la somme des différents composés, est de 2 mg/m3. La valeur limite de la concentration globale des solvants halogénés étiquetés R 40, exprimée en masse de la somme des différents composés, est de 20 mg/m3. Le flux annuel des émissions diffuses de ces solvants ne doit en outre pas dépasser 15 % de la quantité de solvants utilisée ; ce taux est ramené à 10 % si la consommation de solvants est supérieure à 5 tonnes par an.

@@ -22,13 +22,13 @@ b) Protoxyde d'azote : l'arrêté préfectoral d'autorisation fixe, lorsque l'in
 
 Dans le cas des unités de fabrication de l'acide phosphorique, de phosphore et d'engrais phosphatés, ces valeurs sont portées à 10 mg/m3.
 
-7o Composés organiques volatils :
+7° Composés organiques volatils :
 
 a) Rejet total de composés organiques volatils à l'exclusion du méthane :
 
 Si le flux horaire total dépasse 2 kg/h, la valeur limite exprimée en carbone total de la concentration globale de l'ensemble des composés est de 110 mg/m3. L'arrêté préfectoral fixe, en outre, une valeur limite annuelle des émissions diffuses sur la base des meilleures techniques disponibles à un coût économiquement acceptable.
 
-Dans le cas de l'utilisation d'une technique d'oxydation pour l'élimination COV, la valeur limite d'émission en COV exprimée en carbone total est de 20 mg/m3 si le rendement d'épuration est supérieur à 98 %. La teneur en oxygène de référence pour la vérification de la conformité aux valeurs limites d'émission est celle mesurée dans les effluents en sortie d'équipement d'oxydation. Dans le cadre de l'étude d'impact prévue à l'article 3.4 du décret du 21 septembre 1977 susvisé, l'exploitant examine notamment la possibilité d'installer un dispositif de récupération secondaire d'énergie. En outre, l'exploitant s'assurera du respect des valeurs limites d'émission définies ci-dessous pour les oxydes d'azote (NOx), le monoxyde de carbone (CO) et le méthane (CH4) :
+Dans le cas de l'utilisation d'une technique d'oxydation pour l'élimination COV, la valeur limite d'émission en COV exprimée en carbone total est de 20 mg/m3 ou 50 mg/m3 si le rendement d'épuration est supérieur à 98 %. La teneur en oxygène de référence pour la vérification de la conformité aux valeurs limites d'émission est celle mesurée dans les effluents en sortie d'équipement d'oxydation. Dans le cadre de l'étude d'impact prévue à l'article 3.4 du décret du 21 septembre 1977 susvisé, l'exploitant examine notamment la possibilité d'installer un dispositif de récupération secondaire d'énergie. En outre, l'exploitant s'assurera du respect des valeurs limites d'émission définies ci-dessous pour les oxydes d'azote (NOx), le monoxyde de carbone (CO) et le méthane (CH4) :
 
 NOx (1) (en équivalent NO2) : 100 mg/m3 ;
 
@@ -36,7 +36,7 @@ CH4 : 50 mg/m3 ;
 
 CO : 100 mg/m3.
 
-Ces valeurs limites relatives à l'oxydation sont également applicables aux installations visées aux 19o à 35o de l'article 30 du présent arrêté, sauf si les valeurs limites spécifiées par les 19o à 35o de l'article 30 du présent arrêté sont plus sévères.
+Ces valeurs limites relatives à l'oxydation sont également applicables aux installations visées aux 19° à 35° de l'article 30 du présent arrêté, sauf si les valeurs limites spécifiées par les 19° à 36° de l'article 30 du présent arrêté sont plus sévères.
 
 b) Composés organiques volatils visés à l'annexe III :
 
@@ -52,9 +52,9 @@ Pour les émissions des composés organiques volatils halogénés étiquetés R 
 
 Le préfet peut accorder une dérogation aux prescriptions des deux précédents alinéas, si l'exploitant démontre, d'une part, qu'il fait appel aux meilleures techniques disponibles à un coût économique acceptable et, d'autre part, qu'il n'y a pas lieu de craindre de risque significatif pour la santé humaine et l'environnement.
 
-d) Les installations dans lesquelles sont exercées deux ou plusieurs des activités visées par les 19o à 35o de l'article 30 du présent arrêté sont tenues de respecter les exigences prévues pour les substances indiquées au point c ci-dessus et, pour les autres substances :
+d) Les installations dans lesquelles sont exercées deux ou plusieurs des activités visées par les 19° à 35° de l'article 30 du présent arrêté sont tenues de respecter les exigences prévues pour les substances indiquées au point c ci-dessus et, pour les autres substances :
 
-- de respecter les dispositions des 19o à 35o de l'article 30 du présent arrêté, pour chaque activité prise individuellement ;
+- de respecter les dispositions des 19° à 36° de l'article 30 du présent arrêté, pour chaque activité prise individuellement ;
 
 - ou d'atteindre un niveau total d'émission ne dépassant pas celui qui aurait été atteint en application du tiret ci-dessus.
 
@@ -70,7 +70,11 @@ Les installations, ou parties d'installations, dans lesquelles sont notamment mi
 
 f) Dérogation aux valeurs limites d'émissions :
 
-Pour les installations visées aux 19o à 35o de l'article 30, des dérogations peuvent être accordées aux valeurs limites d'émissions diffuses de COV, si l'exploitant démontre le caractère acceptable des risques pour la santé humaine ou l'environnement et qu'il fait appel aux meilleures techniques disponibles.
+Pour les installations visées aux 19° à 36° de l'article 30, des dérogations peuvent être accordées aux valeurs limites d'émissions diffuses de COV, si l'exploitant démontre le caractère acceptable des risques pour la santé humaine ou l'environnement et qu'il fait appel aux meilleures techniques disponibles.
+
+(1) Une dérogation à cette valeur pourra être accordée si les effluents à traiter contiennent des composés azotés (amines, amides ...).
+
+(2) Des guides techniques seront établis par le ministère chargé de l'environnement en concertation avec les professions concernées pour aider à la mise en place de tel schéma.
 
 8o Métaux et composés de métaux (gazeux et particulaires) :
 

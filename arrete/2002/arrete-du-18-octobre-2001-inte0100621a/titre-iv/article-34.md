@@ -1,3 +1,21 @@
 # Article 34
 
-A compter du 1er janvier 2002 et pour une durée de cinq ans, les unités de valeur de formation de chef de colonne, de chef de centre de secours principal, de chef de site et de chef de groupement, et par dérogation aux dispositions des articles 24, 25 et 27, peuvent être obtenues par validation des acquis professionnels par la commission de validation.
+La commission de validation de zone est présidée par le préfet de zone ou son représentant.
+
+Outre le président, elle comprend 7 membres nommés par le préfet de zone :
+
+- l'officier de sapeurs-pompiers ayant en charge la formation au sein de l'état-major de zone ;
+
+- un représentant du CNFPT ;
+
+- un président de conseil d'administration d'un service départemental d'incendie et de secours ;
+
+- un directeur départemental des services d'incendie et de secours ;
+
+- un responsable d'un centre de formation départemental ;
+
+- un représentant d'officiers de sapeurs-pompiers professionnels, membre de la commission administrative paritaire nationale, de catégorie A ;
+
+- un représentant d'officiers de sapeurs-pompiers professionnels, membre de la commission administrative paritaire nationale, de catégorie B.
+
+En cas d'égalité des voix, la voix du président est prépondérante.

@@ -1,0 +1,5 @@
+# Article 10
+
+Pour les concours d'accès au corps des professeurs, les jurys comprennent de 4 à 8 membres dont les trois quarts au moins sont des professeurs des écoles d'architecture, des professeurs des universités ou assimilés, ou des chercheurs de rang au moins égal à celui des postes à pourvoir ; les autres membres sont choisis parmi des personnalités qualifiées pour leurs compétences ou leurs travaux dans les domaines liés à la discipline ou au groupe de disciplines de rattachement de cette dernière.
+
+Pour les concours d'accès au corps des maîtres-assistants, les jurys comprennent de 4 à 14 membres dont la moitié au moins sont des maîtres-assistants des écoles d'architecture, des maîtres de conférences des universités ou assimilés, ou des chercheurs de rang au moins égal à celui des postes à pourvoir ; les autres membres sont choisis parmi des personnalités qualifiées pour leurs compétences ou leurs travaux dans les domaines liés à la discipline ou au groupe de disciplines de rattachement de cette dernière.

@@ -19,3 +19,5 @@ Outre le président, elle comprend :
 - un directeur départemental des services d'incendie et de secours ;
 
 - trois professeurs de l'enseignement supérieur.
+
+- un représentant d'officiers de sapeurs-pompiers professionnels, membre de la commission administrative paritaire nationale, de catégorie A..

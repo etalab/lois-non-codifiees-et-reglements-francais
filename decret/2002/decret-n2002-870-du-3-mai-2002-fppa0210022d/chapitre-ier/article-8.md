@@ -1,0 +1,3 @@
+# Article 8
+
+Les agents remplissant les conditions fixées par le 1° de l'article 5 de la loi du 13 juillet 1983 susvisée, qui avaient auparavant la qualité d'agent d'une organisation internationale intergouvernementale sont classés lors de leur titularisation à un échelon du grade initial déterminé en prenant en compte, sur la base des durées maximales fixées par les statuts particuliers du cadre d'emplois d'accueil, les services accomplis en qualité d'agent d'une organisation internationale intergouvernementale à raison des trois quarts de leur durée pour les services accomplis dans un emploi de niveau au moins équivalent à celui de la catégorie B et de la moitié pour les services accomplis dans un emploi de niveau inférieur.

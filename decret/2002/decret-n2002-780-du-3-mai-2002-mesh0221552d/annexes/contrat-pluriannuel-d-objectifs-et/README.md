@@ -1,0 +1,3 @@
+# CONTRAT PLURIANNUEL D'OBJECTIFS ET DE MOYENS.
+
+- [Article ANNEXE](article-annexe.md)

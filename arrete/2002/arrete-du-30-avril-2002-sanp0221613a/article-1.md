@@ -1,0 +1,3 @@
+# Article 1
+
+Il est institué auprès du ministre chargé de la santé un "Comité national technique de l'échographie de dépistage anténatal". Ce Comité a pour mission d'émettre des avis ou recommandations sur les questions relevant de l'échographie de dépistage anténatal, en particulier sur la mise en place d'une politique d'assurance de qualité de l'échographie de dépistage et le développement d'une stratégie d'information du public sur l'intérêt et les limites actuelles des techniques de l'échographie de dépistage anténatal. Le comité peut être consulté par le ministre chargé de la santé sur toute question concernant l'échographie de dépistage anténatal.

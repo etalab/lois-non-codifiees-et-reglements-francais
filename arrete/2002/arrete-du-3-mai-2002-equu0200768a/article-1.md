@@ -1,0 +1,3 @@
+# Article 1
+
+Pour les opérations réalisées dans les conditions fixées au septième alinéa de l'article L. 421-1 et au quatrième alinéa de l'article L. 422-2 du code de la construction et de l'habitation, les ressources des acquéreurs occupants doivent être inférieures ou égales à 130 % des plafonds mentionnés à la première phase de l'article R. 331-12 du même code ; toutefois 10 % au maximum des logements peuvent être vendus à des personnes dont les ressources sont inférieures ou égales à 150 % de ces mêmes plafonds. Ces conditions sont appréciées pour les ventes réalisées par un même organisme durant une année civile.

@@ -1,21 +1,9 @@
 # Article 35
 
-La commission de validation est présidée par le directeur de la défense et de la sécurité civiles ou son représentant.
+Par dérogation à l'article 40, la formation des capitaines nommés dans le cadre des dispositions de l'article 4 du décret n° 90-853 du 25 septembre 1990 susvisé et n'ayant pas encore suivi leur formation initiale d'application à la date de parution du présent arrêté est constituée de la façon suivante :
 
-Outre le président, elle comprend :
+- pour les capitaines issus du concours interne : acquisition des UV GOC 4 et INC 3 ;
 
-- de droit :
+- pour les capitaines issus du concours externe : formation initiale d'application de lieutenant de sapeur-pompier conformément à l'article 18 du présent arrêté et acquisition des UV GOC 4 et INC 3.
 
-- le chef du bureau de la formation et des associations de sécurité civile de la direction de la défense et de la sécurité civiles ;
-
-- le directeur de l'Ecole nationale supérieure des officiers de sapeurs-pompiers ;
-
-- nommés par le directeur de la défense et de la sécurité civiles :
-
-- un représentant du CNFPT ;
-
-- un président de conseil d'administration d'un service départemental d'incendie et de secours ;
-
-- un directeur départemental des services d'incendie et de secours ;
-
-- trois professeurs de l'enseignement supérieur.
+Le jury chargé d'attribuer le diplôme de l'ENSOSP mention "Formation initiale des capitaines de sapeurs-pompiers professionnels" est celui prévu à l'article 19 de l'arrêté du 18 octobre 2001 susvisé.

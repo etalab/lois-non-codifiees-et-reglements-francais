@@ -1,0 +1,3 @@
+# Article 17
+
+Jusqu'à la constitution de la commission administrative paritaire du corps des agents spécialisés de police technique et scientifique de la police nationale mentionné à l'article 1er ci-dessus, qui interviendra dans un délai d'un an au plus à compter de la publication du présent décret, les représentants du personnel à la commission administrative paritaire du corps des aides techniques des laboratoires de la police technique et scientifique régi par les dispositions du décret n° 92-151 du 19 février 1992, en fonctions à la date de publication du présent décret, exercent les compétences dévolues aux représentants du nouveau corps.

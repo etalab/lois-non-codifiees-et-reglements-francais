@@ -1,0 +1,3 @@
+# Article 1
+
+Le ministère de l'économie, des finances et de l'industrie comprend des services à l'étranger dont la mission est d'informer l'Etat, les collectivités publiques et les entreprises sur l'ensemble des questions économiques, commerciales et financières internationales et de défendre et promouvoir dans ces domaines les intérêts de la France à l'étranger. Ces services comprennent des missions économiques ainsi que des services attachés à l'administrateur auprès d'une institution financière internationale, à la délégation permanente auprès de l'Organisation mondiale du commerce ou à une représentation permanente auprès d'une organisation internationale.

@@ -1,0 +1,27 @@
+# Article ANNEXE I
+
+(en euros)
+
+ZONE GÉOGRAPHIQUE : Zone I bis
+
+NEUF : 3 300
+
+ANCIEN : 2 700
+
+ZONE GÉOGRAPHIQUE : Zone I
+
+NEUF : 2 380
+
+ANCIEN : 1 950
+
+ZONE GÉOGRAPHIQUE : Zone II
+
+NEUF : 1 900
+
+ANCIEN : 1 280
+
+ZONE GÉOGRAPHIQUE : Zone III
+
+NEUF : 1 680
+
+ANCIEN : 1 140

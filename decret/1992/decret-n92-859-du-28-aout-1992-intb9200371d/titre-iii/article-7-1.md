@@ -1,0 +1,3 @@
+# Article 7-1
+
+Les puéricultrices bénéficient d'une bonification d'ancienneté de dix-huit mois lors de leur nomination dans le cadre d'emplois. Toutefois, le fonctionnaire ayant appartenu au cadre d'emplois des infirmiers territoriaux antérieurement à son recrutement dans le cadre d'emplois des puéricultrices territoriales ne peut bénéficier de cette bonification que s'il n'a pas bénéficié de celle prévue par l'article 7 du statut particulier du cadre d'emplois des infirmiers territoriaux ou, s'il a déjà bénéficié de ladite bonification, à concurrence seulement de la différence entre la durée de la bonification prévue par le présent cadre d'emplois et celle de la bonification antérieurement obtenue.

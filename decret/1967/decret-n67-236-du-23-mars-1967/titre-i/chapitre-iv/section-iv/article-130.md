@@ -14,9 +14,11 @@ Les sociétés faisant publiquement appel à l'épargne sont tenues, avant la r�
 
 6° Le texte des projets de résolution qui seront présentés à l'assemblée par le conseil d'administration ou la direction, selon le cas ;
 
-7° Les lieux où doivent être déposées les actions dans les conditions prévues à l'article 136.
+7° Les lieux où doivent être transmis un certificat constatant l'indisponibilité des actions au porteur inscrites en compte ou, à défaut de clause statutaire, une attestation d'inscription en compte.
 
 8° Sauf dans les cas où la société adresse à tous ses actionnaires un formulaire de vote par correspondance, les lieux et les conditions dans lesquels peuvent être obtenus ces formulaires.
+
+9° L'existence et l'adresse du site mentionné à l'article 119.
 
 Lorsque la société a émis des actions à dividende prioritaire sans droit de vote, les avis publiés doivent également mentionner l'obligation de soumettre les résolutions à l'avis, à l'accord ou à l'approbation de l'assemblée spéciale des titulaires d'actions à dividende prioritaire sans droit de vote.
 
