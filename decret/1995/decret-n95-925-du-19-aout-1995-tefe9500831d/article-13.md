@@ -11,3 +11,5 @@ Cette personne a pour mission :
 Elle consacre à cette mission au moins cent heures durant la première année du contrat.
 
 L'aide au tutorat est accordée exclusivement pour l'embauche d'une personne inscrite comme demandeur d'emploi depuis au moins deux ans ou d'une personne bénéficiaire du revenu minimum d'insertion sans emploi depuis deux ans. Son montant forfaitaire est fixé à 3 500 F par bénéficiaire du tutorat. L'aide est versée à la fin du douzième mois du contrat.
+
+Cette aide n'est pas cumulable avec la prise en charge par les organismes paritaires collecteurs agréés citée au IV ter de l'article 30 de la loi de finances pour 1985 (n° 84-1208 du 29 décembre 1984).
