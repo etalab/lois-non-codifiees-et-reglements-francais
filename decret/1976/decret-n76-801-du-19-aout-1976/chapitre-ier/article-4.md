@@ -10,7 +10,7 @@ Commissaire capitaine : cinq échelons ;
 
 Commissaire commandant : trois échelons ;
 
-Commissaire lieutenant-colonel : trois échelons ;
+Commissaire lieutenant-colonel : quatre échelons ;
 
 Commissaire colonel : deux échelons et deux échelons exceptionnels ;
 
