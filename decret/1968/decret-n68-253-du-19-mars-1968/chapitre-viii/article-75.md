@@ -1,15 +1,15 @@
 # Article 75
 
-En contrepartie des dépenses de gestion qu'il expose pour exécuter la convention passée avec la caisse mutuelle régionale, chaque organisme conventionné reçoit des remises de gestion comprenant [*financement*] :
+En contrepartie des dépenses de gestion qu'il expose pour exécuter la convention passée avec la caisse mutuelle régionale, chaque organisme conventionné reçoit chaque année des remises de gestion calculées en tenant compte des effectifs d'assurés et de bénéficiaires dont il assure la gestion. La valeur annuelle de ces remises R est déterminée selon la formule suivante :
 
-1° Au titre du recouvrement des cotisations :
+R = K (A + 1,3 B), où    K est l'unité de base exprimée en francs ;
 
-a) Une somme fixe par assuré dont l'organisme est chargé de recouvrer les cotisations ;
+A est le nombre moyen corrigé d'assurés, les assurés cotisants comptant pour 1 et les assurés non cotisants comptant pour 0,5 ;
 
-b) La totalité des majorations de retard encaissées, sous réserve des dispositions du troisième alinéa de l'article 27 ci-dessus.
+B est le nombre moyen corrigé de bénéficiaires, les bénéficiaires âgés de plus de soixante-cinq ans comptant pour 1,71 et les autres bénéficiaires pour 0,79.
 
-2° Au titre du service des prestations :
+Un arrêté conjoint du ministre chargé de la sécurité sociale et du ministre chargé du budget fixe la date à laquelle ces effectifs sont déterminés.
 
-Une somme fixe par personne protégée ; cette somme est majorée pour les enfants et pour les personnes âgées mentionnés respectivement aux cinquième et sixième alinéas du paragraphe II de l'article 8 de la loi susvisée du 12 juillet 1966.
+Chaque année, un arrêté conjoint du ministre chargé de la sécurité sociale et du ministre chargé du budget fixe la valeur prévisionnelle de l'unité de base au titre d'une année est fixé par arrêté conjoint des mêmes ministres au cours du premier trimestre de l'année suivante.
 
-Un arrêté conjoint du ministre des affaires sociales et du ministre de l'économie et des finances, pris après avis du conseil d'administration de la caisse nationale, fixe le montant des éléments de la remise de gestion prévus au 1°-a et au 2° ci-dessus, ainsi que les modalités suivant lesquelles les organismes conventionnés perçoivent les sommes en cause.
+Des acomptes égaux au sixième du total annuel des remises de gestion, calculé sur la base de la valeur prévisionnelle de l'unité de base, sont versés aux organismes conventionnés par les caisses mutuelles régionales le 20 janvier, le 20 mars, le 20 mai, le 20 juillet, le 20 septembre et le 20 novembre.
