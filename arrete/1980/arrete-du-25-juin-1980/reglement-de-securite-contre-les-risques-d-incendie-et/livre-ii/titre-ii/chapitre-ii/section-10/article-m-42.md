@@ -39,3 +39,7 @@ Aucun transvasement ne doit être effectué en présence du public.
 § 3. Le poids total par exploitation des récipients pleins de peinture à base de liquide inflammable est limité à 10 000 kilogrammes quelle que soit la catégorie de l'établissement.
 
 Ces quantités peuvent être doublées si l'établissement est protégé par une installation fixe d'extinction automatique à eau. Aucun transvasement ne doit être effectué en présence du public.
+
+§ 4. Un système d'extinction automatique ponctuel à poudre, équipé d'une rampe de diffusion et comportant un bac de rétention, doit être installé dans les établissements ou exploitations présentant plus de 500 litres de liquides inflammables de 1re catégorie ou d'alcools dont le titre est supérieur à 60 °, à l'exception des cosmétiques.
+
+Chaque présentation au public doit être fractionnée en éléments superposables protégés chacun par le système d'extinction automatique défini ci-dessus.

@@ -16,11 +16,7 @@ Dans tous les cas, la fermeture de ces portes doit être asservie soit à un dé
 
 § 3. Lorsque les réserves sont protégées par une installation fixe d'extinction automatique à eau, les volumes définis au paragraphe 2 ci-dessus peuvent être portés respectivement à 5 000 mètres cubes et 10 000 mètres cubes.
 
-§ 4. Dans le cas d'un établissement à simple rez-de-chaussée non protégé par une installation fixe d'extinction automatique à eau, la capacité unitaire des réserves peut être portée à 5 000 mètres cubes lorsque les conditions ci-après sont simultanément réalisées :
-
-- les structures principales du bâtiment des réserves sont conçues conformément à l'article CO 7 (§ 1) ;
-
-- l'isolement entre les surfaces de vente et les réserves est réalisé par une paroi en matériaux incombustibles et CF de degré deux heures. Cette paroi doit dépasser de 1 mètre la couverture de la surface de vente, sauf dans le cas où les éléments de couverture sont PF de degré une demi-heure sur une largeur de quatre mètres, mesurée horizontalement de part et d'autre de cette paroi.
+§ 4. Dans le cas d'un établissement à simple rez-de-chaussée non protégé par une installation fixe d'extinction automatique à eau, la capacité unitaire des réserves peut être portée à 5 000 mètres cubes lorsque l'isolement entre les surfaces de vente et les réserves est réalisé par une paroi en matéraux incombustibles et CF de degré deux heures. Cette paroi doit dépasser de 1 mètre la couverture de la surface de vente, sauf dans le cas où les éléments de couverture sont PF de degré une demi-heure sur une largeur de quatre mètres, mesurée horizontalement de part et d'autre de cette paroi.
 
 § 5. Dans le cas d'un établissement à simple rez-de-chaussée et protégé en totalité par un réseau de détection automatique, la capacité unitaire des réserves peut être portée à 10 000 mètres cubes lorsque les conditions suivantes sont simultanément remplies :
 
