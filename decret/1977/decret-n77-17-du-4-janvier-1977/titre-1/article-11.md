@@ -1,8 +1,6 @@
 # Article 11
 
-Les titulaires du brevet national de secourisme pourront, à la suite d'examens complémentaires, obtenir les mentions :
-
-Spécialiste en ranimation ;
+Les titulaires du brevet national des premiers secours pourront, à la suite d'examens complémentaires, obtenir les mentions :
 
 Secouriste routier ;
 
@@ -14,7 +12,7 @@ Secouriste rural ;
 
 Sauveteur aquatique.
 
-Pour les deux premières spécialisations, des arrêtés pris par le ministre d'Etat, ministre de l'intérieur, et le ministre de la santé préciseront le programme, les conditions d'admission, de préparation, de déroulement des épreuves qui comporteront obligatoirement une partie théorique et une partie pratique.
+Pour la première spécialisation, des arrêtés pris par le ministre d'Etat, ministre de l'intérieur, et le ministre de la santé préciseront le programme, les conditions d'admission, de préparation, de déroulement des épreuves qui comporteront obligatoirement une partie théorique et une partie pratique.
 
 Pour les autres spécialisations, les arrêtés seront pris par le ministre d'Etat, ministre de l'intérieur, après avis du ministre de la santé.
 
