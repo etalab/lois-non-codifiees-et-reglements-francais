@@ -3,6 +3,7 @@
 - [Décret n°46-1378 du 8 juin 1946](decret-n46-1378-du-8-juin-1946)
 - [Décret n°46-659 du 11 avril 1946](decret-n46-659-du-11-avril-1946)
 - [Décret n°46-1428 du 12 juin 1946](decret-n46-1428-du-12-juin-1946)
+- [Décret n°46-1432 du 14 juin 1946](decret-n46-1432-du-14-juin-1946)
 - [Décret n°46-1433 du 14 juin 1946](decret-n46-1433-du-14-juin-1946)
 - [Décret n°46-734 du 16 avril 1946](decret-n46-734-du-16-avril-1946)
 - [Décret n°46-448 du 18 mars 1946](decret-n46-448-du-18-mars-1946)
