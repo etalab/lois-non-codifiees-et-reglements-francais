@@ -1,0 +1,3 @@
+# Article 2
+
+Peuvent demander leur inscription sur cette liste les maîtres-assistants appartenant à l'un des corps régis par les décrets des 11 septembre 1964, 17 mai 1966 et 12 février 1976 susvisés, justifiant de six années de services accomplis dans un établissement d'enseignement supérieur du ministère de l'agriculture et de la pêche ou partiellement dans un établissement de recherche relevant du ministre de l'agriculture et de la pêche ou dans un établissement d'enseignement ou de recherche relevant du ministre chargé de l'enseignement supérieur. Dans le cas où le candidat aurait fait des travaux de recherche dans un autre laboratoire, une équivalence pourra lui être accordée par la commission prévue à l'article 3.

@@ -1,0 +1,7 @@
+# Article 7
+
+Le paiement du montant correspondant à l'accès à une section élémentaire pour un mois donné est exigible lors de la première demande de réservation de capacité d'infrastructure sur cette section élémentaire au cours du mois considéré. Ce montant reste dû si le demandeur renonce à une offre raisonnable qui lui est proposée en réponse à sa demande de réservation, ou si le ou les sillons réservés n'ont pas été utilisés ou n'ont été utilisés que partiellement. En cas de réservation pour une utilisation quotidienne, les paiements sont effectués mensuellement, le premier jour de chaque mois de cette utilisation.
+
+Le paiement du montant correspondant à la réservation est exigible le jour de l'acceptation par le demandeur de la proposition d'attribution de sillon. En cas de non-utilisation d'un sillon réservé qui lui est signalée avec un préavis minimum de quatre jours, Réseau ferré de France accorde une réfaction de 50 % du montant de la réservation correspondante. Le montant correspondant à la réservation n'est pas dû en cas d'indisponibilité complète d'un sillon du fait de Réseau ferré de France. En cas de réservation pour une utilisation quotidienne, les paiements sont effectués mensuellement, le premier jour de chaque mois de cette utilisation.
+
+Le paiement du montant correspondant à la circulation est exigible le jour du début de la circulation. En cas de circulation quotidienne, les paiements sont effectués mensuellement, le premier jour du mois suivant les circulations en cause.
