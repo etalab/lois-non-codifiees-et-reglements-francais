@@ -8,6 +8,8 @@ A ce coefficient sera appliqué un abattement de :
 
 0,25 pour une maison individuelle achevée depuis moins de dix ans.
 
-Le coefficient d'entretien ne pourra, sauf accord des parties, excéder 1,70 que si le local comprend au minimum les éléments d'équipement suivants : installation électrique permettant un éclairage normal, W. C. particulier avec effet d'eau, cuisine avec poste d'eau et vidange, salle d'eau.
+En ce qui concerne les locataires ou occupants acquittant antérieurement au 1er janvier 1961 un loyer déterminé selon le régime de la surface corrigée, le nouveau coefficient n'est applicable que s'il dépasse d'au moins 0,15 le coefficient appliqué à la date du 31 décembre 1960.
 
-Pour l'application du présent article ne pourront être pris en considération que les travaux et installations qui n'ont pas été effectués aux frais du locataire ou occupant ou ne sont pas restés à sa charge.
+Lorsque la surface corrigée a été déterminée une première fois par l'application de ce coefficient elle peut être ultérieurement majorée par l'application d'un nouveau coefficient d'entretien si celui-ci dépasse d'au moins 0,15 le coefficient précédent.
+
+Pour l'application du présent article, ne pourront être pris en considération que les travaux qui n'ont pas été effectués aux frais du locataire ou occupant ou ne sont pas restés à sa charge.
