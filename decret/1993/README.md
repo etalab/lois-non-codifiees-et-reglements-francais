@@ -143,6 +143,7 @@
 - [Décret n°94-197 du 7 mars 1994 (TEFO9400069D)](decret-n94-197-du-7-mars-1994-tefo9400069d)
 - [Décret n°93-810 du 7 mai 1993 (INTC9300253D)](decret-n93-810-du-7-mai-1993-intc9300253d)
 - [Décret n°93-818 du 7 mai 1993 (MAEJ9330013D)](decret-n93-818-du-7-mai-1993-maej9330013d)
+- [Décret n°93-1153 du 8 octobre 1993 (AGRS9301670D)](decret-n93-1153-du-8-octobre-1993-agrs9301670d)
 - [Décret n°93-180 du 8 février 1993 (INTD9300012D)](decret-n93-180-du-8-fevrier-1993-intd9300012d)
 - [Décret n°93-192 du 8 février 1993 (JUSC9221102D)](decret-n93-192-du-8-fevrier-1993-jusc9221102d)
 - [Décret n°93-193 du 8 février 1993 (JUSE9240078D)](decret-n93-193-du-8-fevrier-1993-juse9240078d)
