@@ -1,0 +1,7 @@
+# Article 6
+
+Au plus tard le 31 décembre 2002, les organismes présentent à la commission de contrôle mentionnée à l'article L. 510-1 du code de la mutualité un rapport de solvabilité global qui définit les modalités selon lesquelles ils répartissent sur la période visée à l'article 2 les effets des dispositions de l'article R. 222-16 du code de la mutualité sur le calcul de la provision mathématique théorique. Ce rapport précise notamment, par période de trois ans, la méthode de calcul des provisions mathématiques utilisée, et les prévisions en matière de rendement des actifs, ainsi que les équilibres prospectifs de mutualisation intergénération. Il fait l'objet de rapports de suivi présentés annuellement à la commission de contrôle.
+
+A l'issue de la période visée à l'article 2, les organismes présentent à la commission de contrôle mentionnée à l'article L. 510-1 du code de la mutualité pour chacune des deux périodes visées à l'article 4 un rapport quinquennal de solvabilité qui définit les engagements en matière d'augmentation de la fraction provisionnée de la valeur de service et indique notamment les prévisions en matière de rendement des actifs, ainsi que les équilibres prospectifs de mutualisation intergénération. Il fait l'objet de rapports de suivi présentés annuellement à la commission de contrôle.
+
+Pour l'application du présent décret, la nature et la périodicité des informations que les organismes doivent communiquer à la commission de contrôle peuvent être précisées par arrêté du ministre chargé de la mutualité.
