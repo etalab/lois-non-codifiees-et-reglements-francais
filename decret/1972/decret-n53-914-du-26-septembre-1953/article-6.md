@@ -1,9 +1,9 @@
 # Article 6
 
-Dans les procédures et instructions des requêtes visées à l'article 1er, les certificats de vie, de non-divorce, de non-séparation de corps sont remplacés par une fiche d'état civil établie dans les conditions prévues à l'article 3.
+Dans les procédures et instructions mentionnées à l'article 1er du présent décret, lorsque la justification de l'état civil est requise par une disposition législative ou réglementaire :
 
-Les certificats de célibat et de non-remariage sont remplacés par une attestation sur l'honneur.
+" - la présentation d'une fiche d'état civil vaut production du certificat de vie, du certificat de non-divorce ou du certificat de non-séparation de corps ;
 
-Il en est de même des certificats de domicile et de résidence,
+" - la justification du célibat ou du non-remariage est établie par une attestation sur l'honneur ;
 
-sauf en ce qui concerne les procédures d'établissement de la carte nationale d'identité et du passeport. Dans ces procédures, il appartient au demandeur d'apporter la preuve de son domicile ou de sa résidence.
+" - la preuve du domicile et de la résidence est établie par tous moyens, notamment par la production d'un titre de propriété, d'un certificat d'imposition ou de non-imposition, d'une quittance de loyer, d'assurance du logement, de gaz, d'électricité ou de téléphone. "

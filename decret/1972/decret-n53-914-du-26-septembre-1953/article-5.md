@@ -1,5 +1,3 @@
 # Article 5
 
-Les dispositions des articles précédents ne font pas obstacle à l'application des règles visées à l'article 70 du Code civil. Elles ne sont pas applicables aux procédures de naturalisation ou de délivrance d'un certificat de nationalité.
-
-Elles n'excluent pas, le cas échéant, l'obligation pour l'intéressé de produire d'autres justifications d'état civil ou de nationalité, lorsque celles-ci sont nécessaires pour l'application de dispositions législatives ou réglementaires spéciales, notamment en matière de pensions, de registre du commerce et de recrutement des fonctionnaires et agents des administrations, services, établissements, organismes ou caisses visés à l'article 1er.
+Les dispositions des articles précédents ne sont pas applicables dans les cas où des dispositions législatives ou réglementaires imposent la production de copies de l'acte de naissance ou de mariage. Elles ne sont pas non plus applicables dans le cas prévu à l'article 70 du code civil, ni dans les procédures d'acquisition de la nationalité française ou de délivrance d'un certificat de nationalité française. "

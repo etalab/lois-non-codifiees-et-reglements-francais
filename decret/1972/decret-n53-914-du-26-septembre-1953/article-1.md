@@ -1,6 +1,6 @@
 # Article 1
 
-Dans les procédures et instructions conduites par les administrations, services et établissements publics ou par les entreprises, les organismes et les caisses contrôlés par l'Etat :
+Dans les procédures et instructions conduites par les administrations, services et établissements publics ou par les entreprises, caisses et organismes contrôlés par l'Etat, lorsque la justification de l'état civil d'une personne est requise par les dispositions législatives ou réglementaires :
 
 a) La présentation du livret de famille régulièrement tenu à jour tient lieu de remise de présentation, selon le cas :
 

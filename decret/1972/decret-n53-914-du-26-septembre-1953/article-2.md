@@ -1,3 +1,5 @@
 # Article 2
 
-Dans les procédures et instructions mentionnées à l'article, les nom et prénoms, la date et le lieu de naissance et, s'il y a lieu, la filiation peuvent être enregistrés au vu d'un extrait de l'acte de naissance de l'intéressé quelle que soit la date de la délivrance de cet extrait.
+Aucune production ou remise de pièces d'état civil ne peut être exigée en dehors des cas prévus par les lois et règlements.
+
+" Sauf dispositions législatives ou réglementaires contraires, les pièces d'état civil exigées pour les procédures et instructions mentionnées à l'article 1er du présent décret sont reçues quelle que soit la date de leur délivrance ; elles sont restituées sans délai à l'intéressé, et en tout état de cause dès l'achèvement desdites procédures. "
