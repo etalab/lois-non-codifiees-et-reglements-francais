@@ -6,6 +6,7 @@
 - [Décret n°2001-197 du 1 mars 2001 (AGRR0100147D)](decret-n2001-197-du-1-mars-2001-agrr0100147d)
 - [Décret n°2001-97 du 1 février 2001 (MEST0110001D)](decret-n2001-97-du-1-fevrier-2001-mest0110001d)
 - [Décret n°2001-98 du 1 février 2001 (MENS0003384D)](decret-n2001-98-du-1-fevrier-2001-mens0003384d)
+- [Décret n°92-882 du 1 septembre 1992 (MENT9200282D)](decret-n92-882-du-1-septembre-1992-ment9200282d)
 - [Décret n°2001-1000 du 2 novembre 2001 (PRMD0150011D)](decret-n2001-1000-du-2-novembre-2001-prmd0150011d)
 - [Décret n°2001-1005 du 2 novembre 2001 (JUSE0140022D)](decret-n2001-1005-du-2-novembre-2001-juse0140022d)
 - [Décret n°2001-101 du 2 février 2001 (ECOP0100023D)](decret-n2001-101-du-2-fevrier-2001-ecop0100023d)
