@@ -1,0 +1,5 @@
+# Article 3
+
+Il est institué auprès de la commission un comité technique interministériel qui l'assiste dans son travail. Ce comité est composé des représentants permanents que chaque ministre désigne à cet effet. Ces hauts fonctionnaires de rang égal à celui de directeur d'administration centrale ou de chef de service pourront choisir un agent de leur administration comme suppléant. Le nom du titulaire et celui de son suppléant sont notifiés au secrétariat de la commission.
+
+Le comité technique interministériel se réunit au moins une fois par an sous la présidence du président de la commission. Celui-ci peut inviter certains de ses membres au réunions de la commission en fonction de l'ordre du jour. Ce comité est chargé de tenir la commission informée des projets et études élaborés au sein de leur administration en matière d'organisation documentaire et de création de périodiques. La commission l'informe de son activité au moins une fois par an et prend son avis sur les mesures interministérielles qu'elle envisage de proposer au Premier ministre.
