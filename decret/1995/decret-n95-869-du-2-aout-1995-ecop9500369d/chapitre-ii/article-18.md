@@ -8,7 +8,7 @@ Dans la limite de l'ancienneté moyenne exigée à l'article 19 ci-dessous pour 
 
 Les candidats nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade ou classe conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant d'une élévation audit échelon.
 
-II. - Les fonctionnaires appartenant à un corps ou à un cadre d'emploi classé dans la catégorie B ou de même niveau, sont, sous réserve des dispositions du sixième alinéa du présent paragraphe, nommés dans le grade d'inspecteur du Trésor public à un échelon déterminé en prenant en compte, sur la base des durées moyennes fixées à l'article 19 ci-dessous pour chaque avancement d'échelon, leur ancienneté dans cette catégorie dans les conditions définies aux alinéas suivants.
+II. - Les fonctionnaires appartenant à un corps ou à un cadre d'emploi classé dans la catégorie B ou de même niveau, sont nommés dans le grade d'inspecteur du Trésor public à un échelon déterminé en prenant en compte, sur la base des durées moyennes fixées à l'article 19 ci-dessous pour chaque avancement d'échelon, leur ancienneté dans cette catégorie dans les conditions définies aux alinéas suivants.
 
 Cette ancienneté correspond à la durée de la carrière nécessaire pour accéder au grade et à l'échelon que les fonctionnaires intéressés ont atteints à la date de leur nomination comme inspecteur, augmentée, le cas échéant, de l'ancienneté acquise dans cet échelon à cette date.
 
@@ -28,87 +28,7 @@ L'application des dispositions qui précèdent ne peut pas avoir pour effet :
 
 - de lui conférer une situation plus favorable que celle des agents qui, titulaires d'une ancienneté au moins égale à la sienne, ont été promus de catégorie B en catégorie A avant le 1er août 1993.
 
-Les agents huissiers du Trésor sont nommés dans le grade d'inspecteur du Trésor public dans les conditions prévues par le tableau ci-après. Toutefois, ceux d'entre eux qui ont occupé antérieurement un emploi dans un autre corps classé dans la catégorie B peuvent demander que la totalité de leur ancienneté de service soit prise en compte dans les conditions fixées ci-dessus pour l'emploi antérieurement occupé.
-
-ÉCHELONS
-
-dans le grade d'agent
-
-huissier du Trésor
-
-SITUATION NOUVELLE
-
-dans le grade
-
-d'inspecteur du Trésor public
-
-Echelons
-
-Ancienneté dans l'échelon
-
-10e échelon
-
-8e
-
-Sans ancienneté.
-
-9e échelon
-
-8e
-
-Sans ancienneté.
-
-8e échelon
-
-8e
-
-Sans ancienneté.
-
-7e échelon
-
-7e
-
-Ancienneté conservée.
-
-6e échelon
-
-6e
-
-Ancienneté conservée.
-
-5e échelon
-
-5e
-
-Quatre cinquièmes de l'ancienneté acquise.
-
-4e échelon
-
-4e
-
-Quatre cinquièmes de l'ancienneté acquise.
-
-3e échelon
-
-3e
-
-Quatre cinquièmes de l'ancienneté acquise.
-
-2e échelon
-
-2e
-
-Moitié de l'ancienneté acquise.
-
-1er échelon
-
-1er
-
-Moitié de l'ancienneté acquise.
-
 Nonobstant les modalités précitées de prise en compte de l'ancienneté, les fonctionnaires visés au II du présent article qui, après avoir possédé antérieurement la qualité d'inspecteur stagiaire ou d'inspecteur du Trésor public, ont été reversés dans un corps de catégorie B, ne peuvent, lors d'une nouvelle nomination en catégorie A, être placés dans une situation plus favorable que celle qui aurait été la leur, compte tenu des durées normales de stage et des durées moyennes d'avancement d'échelon fixées par le présent statut, s'ils avaient été titularisés dans le grade d'inspecteur du Trésor public ou s'ils n'avaient jamais cessé d'appartenir aux personnels de la catégorie A du Trésor public.
-
-Les anciens agents huissiers du Trésor stagiaires ou titulaires nommés dans le corps des contrôleurs du Trésor public qui accèdent au grade d'inspecteur du Trésor public ne peuvent être placés dans une situation plus favorable que celle qui aurait été la leur, compte tenu de la durée normale du stage et des durées moyennes d'avancement fixées par le décret n° 69-560 du 6 juin 1969 modifié fixant le statut particulier des agents huissiers du Trésor, s'ils avaient été titularisés dans le corps des agents huissiers du Trésor ou s'ils n'avaient jamais cessé d'appartenir à ce corps.
 
 III. - Les fonctionnaires appartenant à un corps ou à un cadre d'emploi classé dans les catégories C et D ou de même niveau sont nommés dans le grade d'inspecteur du Trésor public à un échelon déterminé en appliquant les modalités fixées par le II ci-dessus à la fraction de l'ancienneté qui aurait été prise en compte, en application de l'article 3 du décret du 18 novembre 1994 susvisé, pour leur classement dans l'un des corps régis par ce même décret.
 

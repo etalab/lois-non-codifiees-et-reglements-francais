@@ -8,4 +8,4 @@ Des nominations aux grades de receveur-percepteur du Trésor public, de trésori
 
 - proportion de 1/4 pour la nomination au grade de receveur des finances de 1re catégorie.
 
-Ces nominations, qui ont effet pour l'ancienneté du 31 décembre de chaque année, sont prononcées dans l'ordre du tableau d'avancement. Elles ne comptent pas dans les tours d'origine. Toutefois, l'affectation ultérieure dans une fonction correspondant à son grade d'un fonctionnaire nommé à titre personnel compte pour un tour.
+Ces nominations, qui prennent effet au 31 décembre de chaque année, sont prononcées dans l'ordre du tableau d'avancement. Elles ne comptent pas dans les tours d'origine. Toutefois, l'affectation ultérieure dans une fonction correspondant à son grade d'un fonctionnaire nommé à titre personnel compte pour un tour.
