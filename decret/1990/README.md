@@ -488,7 +488,6 @@
 - [Décret n°90-864 du 21 septembre 1990 (MAEJ9030068D)](decret-n90-864-du-21-septembre-1990-maej9030068d)
 - [Décret n°90-865 du 21 septembre 1990 (MAEJ9030069D)](decret-n90-865-du-21-septembre-1990-maej9030069d)
 - [Décret n°94-237 du 21 mars 1994 (FPPA9400007D)](decret-n94-237-du-21-mars-1994-fppa9400007d)
-- [Décret n°89-1011 du 22 décembre 1989 (ECOC8900112D)](decret-n89-1011-du-22-decembre-1989-ecoc8900112d)
 - [Décret n°89-1015 du 22 décembre 1989 (SPSH8902477D)](decret-n89-1015-du-22-decembre-1989-spsh8902477d)
 - [Décret n°89-1018 du 22 décembre 1989 (MERP8900039D)](decret-n89-1018-du-22-decembre-1989-merp8900039d)
 - [Décret n°89-933 du 22 décembre 1989 (BUDB8910059D)](decret-n89-933-du-22-decembre-1989-budb8910059d)

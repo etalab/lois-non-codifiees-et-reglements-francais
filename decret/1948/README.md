@@ -18,7 +18,6 @@
 - [Décret n°47-1619 du 23 août 1947](decret-n47-1619-du-23-aout-1947)
 - [Décret n°48-1671 du 26 octobre 1948](decret-n48-1671-du-26-octobre-1948)
 - [Décret n°48-1366 du 27 août 1948](decret-n48-1366-du-27-aout-1948)
-- [Décret n°48-599 du 27 mars 1948](decret-n48-599-du-27-mars-1948)
 - [Décret du 28 avril 1948](decret-du-28-avril-1948)
 - [Décret n°48-1233 du 28 juillet 1948](decret-n48-1233-du-28-juillet-1948)
 - [Décret n°51-655 du 28 mai 1951](decret-n51-655-du-28-mai-1951)

@@ -81,7 +81,6 @@
 - [Décret n°2003-620 du 4 juillet 2003 (MCCT0300520D)](decret-n2003-620-du-4-juillet-2003-mcct0300520d)
 - [Décret n°2003-847 du 4 septembre 2003 (MAEX0300099D)](decret-n2003-847-du-4-septembre-2003-maex0300099d)
 - [Décret n°2003-849 du 4 septembre 2003 (EQUX0300098D)](decret-n2003-849-du-4-septembre-2003-equx0300098d)
-- [Décret n°2003-112 du 5 février 2003 (AGRR0300124D)](decret-n2003-112-du-5-fevrier-2003-agrr0300124d)
 - [Décret n°2003-485 du 5 juin 2003 (ECOS0350007D)](decret-n2003-485-du-5-juin-2003-ecos0350007d)
 - [Décret n°2003-411 du 5 mai 2003 (INTC0300083D)](decret-n2003-411-du-5-mai-2003-intc0300083d)
 - [Décret n°2003-428 du 5 mai 2003 (JUSD0330014D)](decret-n2003-428-du-5-mai-2003-jusd0330014d)
