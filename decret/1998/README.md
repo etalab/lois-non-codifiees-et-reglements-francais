@@ -245,7 +245,6 @@
 - [Décret n°98-904 du 8 octobre 1998 (AGRP9801286D)](decret-n98-904-du-8-octobre-1998-agrp9801286d)
 - [Décret n°98-905 du 8 octobre 1998 (MESH9822627D)](decret-n98-905-du-8-octobre-1998-mesh9822627d)
 - [Décret n°98-906 du 8 octobre 1998 (MESH9822911D)](decret-n98-906-du-8-octobre-1998-mesh9822911d)
-- [Décret n°98-920 du 8 octobre 1998 (INTM9800022D)](decret-n98-920-du-8-octobre-1998-intm9800022d)
 - [Décret n°99-617 du 8 juillet 1999 (EQUA9900471D)](decret-n99-617-du-8-juillet-1999-equa9900471d)
 - [Décret n°99-619 du 8 juillet 1999 (EQUA9900468D)](decret-n99-619-du-8-juillet-1999-equa9900468d)
 - [Décret du 9 février 1998 (ECOC9700225D)](decret-du-9-fevrier-1998-ecoc9700225d)

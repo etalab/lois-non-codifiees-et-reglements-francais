@@ -947,8 +947,6 @@
 - [Arrêté du 22 août 1995 (EQUT9501057A)](arrete-du-22-aout-1995-equt9501057a)
 - [Arrêté du 22 août 1995 (EQUT9501058A)](arrete-du-22-aout-1995-equt9501058a)
 - [Arrêté du 22 août 1995 (MCCB9500447A)](arrete-du-22-aout-1995-mccb9500447a)
-- [Arrêté du 22 août 1995 (REFB9500467A)](arrete-du-22-aout-1995-refb9500467a)
-- [Arrêté du 22 août 1995 (REFB9500468A)](arrete-du-22-aout-1995-refb9500468a)
 - [Arrêté du 22 août 1995 (REFB9500469A)](arrete-du-22-aout-1995-refb9500469a)
 - [Arrêté du 22 août 1995 (REFB9500470A)](arrete-du-22-aout-1995-refb9500470a)
 - [Arrêté du 22 août 1995 (REFB9500471A)](arrete-du-22-aout-1995-refb9500471a)
