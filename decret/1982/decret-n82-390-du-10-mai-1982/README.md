@@ -5,6 +5,7 @@
 - [DECISIONS DE L'ETAT EN MATIERE D'INVESTISSEMENTS PUBLICS.](decisions-de-l-etat-en-matiere-d-investissements-publics)
 - [DES POUVOIRS DU COMMISSAIRE DE LA REPUBLIQUE.](des-pouvoirs-du-commissaire-de-la-republique)
 - [Des pouvoirs du commissaire de la République de région.](des-pouvoirs-du-commissaire-de-la-republique-de-region)
+- [DES POUVOIRS DU préfet.](des-pouvoirs-du-prefet)
 - [DES POUVOIRS DU PREFET DE REGION.](des-pouvoirs-du-prefet-de-region)
 - [DISPOSITIONS DIVERSES](dispositions-diverses)
 - [DES COMPETENCES DU préfet DE REGION EN MATIERE DE DEVELOPPEMENT ECONOMIQUE ET SOCIAL ET EN MATIERE D'AMENAGEMENT DU TERRITOIRE.](des-competences-du-prefet-de-region-en-matiere-de-developpement-economique-et)
