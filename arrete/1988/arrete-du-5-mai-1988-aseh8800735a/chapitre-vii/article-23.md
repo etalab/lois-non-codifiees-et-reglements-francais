@@ -44,9 +44,9 @@ a) La validation de la totalité des enseignements théoriques mentionnant, le c
 
 b) La validation de l'ensemble des stages hospitaliers du deuxième cycle des études médicales, à l'exception de celle du dernier quadrimestre ;
 
-c) Les attestations de prise de fonctions pendant les six mois qui précèdent le concours ;
+c) Une attestation précisant que le candidat a effectué sept mois de stages hospitaliers, du mois d'octobre de l'année qui précède celle du concours au mois d'avril de l'année du concours ;
 
-2. Pour les candidats résidents ou internes concourant au titre du a du 2° de l'article 18 du décret du 7 avril 1988 : une attestation de prise de fonctions au titre du semestre au cours duquel est organisé le concours (semestre de mai à octobre).
+2. Pour les candidats résidents ou internes concourant au titre du a du 2° de l'article 18 du décret du 7 avril 1988 susvisé : les attestations de prise de fonctions depuis le 1er novembre de l'année qui précède celle du concours.
 
 3. Pour les candidats concourant au titre du b du 2° de l'article 18 du décret du 7 avril 1988 susvisé :
 
