@@ -31,6 +31,7 @@
 - [Décret n°92-381 du 1 avril 1992 (MJSK9270015D)](decret-n92-381-du-1-avril-1992-mjsk9270015d)
 - [Décret n°92-383 du 1 avril 1992 (MAEJ9230009D)](decret-n92-383-du-1-avril-1992-maej9230009d)
 - [Décret n°92-384 du 1 avril 1992 (MAEJ9230015D)](decret-n92-384-du-1-avril-1992-maej9230015d)
+- [Décret n°92-479 du 1 juin 1992 (SPSS9201044D)](decret-n92-479-du-1-juin-1992-spss9201044d)
 - [Décret du 2 mars 1992 (JUSC9220001D)](decret-du-2-mars-1992-jusc9220001d)
 - [Décret n°90-544 du 2 juillet 1990 (MENK9070013D)](decret-n90-544-du-2-juillet-1990-menk9070013d)
 - [Décret n°91-341 du 2 avril 1991 (MAEA9020362D)](decret-n91-341-du-2-avril-1991-maea9020362d)

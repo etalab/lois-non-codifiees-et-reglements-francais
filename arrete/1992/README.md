@@ -402,6 +402,7 @@
 - [Arrêté du 22 novembre 1991 (JUSC9120992A)](arrete-du-22-novembre-1991-jusc9120992a)
 - [Arrêté du 22 novembre 1991 (JUSC9120993A)](arrete-du-22-novembre-1991-jusc9120993a)
 - [Arrêté du 22 octobre 1985](arrete-du-22-octobre-1985)
+- [Arrêté du 22 mai 1992 (AGRP9200917A)](arrete-du-22-mai-1992-agrp9200917a)
 - [Arrêté du 22 mai 1992 (MENT9202092A)](arrete-du-22-mai-1992-ment9202092a)
 - [Arrêté du 22 mai 1992 (MENT9202093A)](arrete-du-22-mai-1992-ment9202093a)
 - [Arrêté du 22 mai 1992 (MENT9202094A)](arrete-du-22-mai-1992-ment9202094a)
@@ -600,4 +601,4 @@
 - [Arrêté du 31 mars 1992 (PTTR9200184A)](arrete-du-31-mars-1992-pttr9200184a)
 - [Arrêté du 31 mars 1992 (RESY9200039A)](arrete-du-31-mars-1992-resy9200039a)
 - [Arrêté du 31 mars 1992 (SANH9200864A)](arrete-du-31-mars-1992-sanh9200864a)
-- [Arrêté du 31 mars 1992 (SPSS9200875A)](arrete-du-31-mars-1992-spss9200875a)
+- [Arrêté du 31 mars 1992 (SPSs9200875A)](arrete-du-31-mars-1992-spss9200875a)
