@@ -8,8 +8,10 @@ Il comprend :
 
 - le centre d'exploitation des transmissions de Paris ;
 
-- le centre d'exploitation informatique Beauvau :
+- le centre d'exploitation informatique Beauvau ;
 
 - le centre d'exploitation informatique de Levallois ;
+
+- le centre d'exploitation informatique du Val-Maubuée ;
 
 - le bureau de l'équipement des services de l'administration centrale.

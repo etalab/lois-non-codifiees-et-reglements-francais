@@ -425,3 +425,4 @@
 - [Arrêté du 31 janvier 1990 (SPSS9000362A)](arrete-du-31-janvier-1990-spss9000362a)
 - [Arrêté du 31 janvier 1991 (SANH9002527A)](arrete-du-31-janvier-1991-sanh9002527a)
 - [Arrêté du 31 juillet 1989 (PRME8961363A)](arrete-du-31-juillet-1989-prme8961363a)
+- [Arrêté du 31 mai 1990 (ECOT9023049A)](arrete-du-31-mai-1990-ecot9023049a)
