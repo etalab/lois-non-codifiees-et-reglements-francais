@@ -1,103 +1,198 @@
 # Article 8
 
-Les lieutenants de port en fonctions à la date du présent décret sont reclassés conformément au tableau ci-après :
-
-I = SITUATION ancienne : Classe fonctionnelle
-
-II = SITUATION nouvelle : Classe fonctionnelle
-
-III = ANCIENNETÉ CONSERVÉE dans la limite de la durée de l'échelon
+Les lieutenants de port sont reclassés conformément au tableau ci-après :
 
 <table>
+<tbody>
 <tr>
-<td> :---:--:---------------------:</td>
+<td width="114">
+<p align="center">
+<strong>SITUATION<br/>
+</strong>ancienne</p>
+</td>
+<td width="113">
+<p align="center">
+<strong>SITUATION</strong>
+<br/>nouvelle</p>
+</td>
+<td width="189">
+<p align="center">
+<strong>ANCIENNETE CONSERVEE</strong>
+<br/>dans la limite<br/>de la durée de l'échelon</p>
+</td>
 </tr>
 <tr>
-<td> : I :II:         III         :</td>
+<td width="114">
+<p align="center">Classe<br/>fonctionnelle</p>
+</td>
+<td width="113">
+<p align="center">Classe<br/>fonctionnelle</p>
+</td>
+<td width="189">
+<br/>
+</td>
 </tr>
 <tr>
-<td> :---:--:---------------------:</td>
+<td valign="top" width="114">
+<p>4e échelon :</p>
+</td>
+<td valign="top" width="113"/>
+<td valign="top" width="189"/>
 </tr>
 <tr>
-<td> :4e+:5e:Ancienneté acq - 1 an:</td>
+<td valign="top" width="114">
+<p>- après 1 an </p>
+</td>
+<td valign="top" width="113">
+<p>5e échelon</p>
+</td>
+<td valign="top" width="189">
+<p>Ancienneté acquise moins 1 an</p>
+</td>
 </tr>
 <tr>
-<td> :4e-:4e:Ancienneté acq + 1 an:</td>
+<td valign="top" width="114">
+<p>- avant 1 an </p>
+</td>
+<td valign="top" width="113">
+<p>4e échelon</p>
+</td>
+<td valign="top" width="189">
+<p>Ancienneté acquise plus 1 an</p>
+</td>
 </tr>
 <tr>
-<td> :3e :4e:1/3 Ancienneté acquis:</td>
+<td valign="top" width="114">
+<p>3e échelon</p>
+</td>
+<td valign="top" width="113">
+<p>4e échelon</p>
+</td>
+<td valign="top" width="189">
+<p>1/3 de l'ancienneté acquise</p>
+</td>
 </tr>
 <tr>
-<td> :2e+:3e:Ancienneté acquis X 2:</td>
+<td valign="top" width="114">
+<p>2e échelon :</p>
+</td>
+<td valign="top" width="113"/>
+<td valign="top" width="189"/>
 </tr>
 <tr>
-<td> :2e-:2e:Ancienneté acquis X 2:</td>
+<td valign="top" width="114">
+<p>- après 1 an</p>
+</td>
+<td valign="top" width="113">
+<p>3e échelon</p>
+</td>
+<td valign="top" width="189">
+<p>Deux fois l'ancienneté acquise</p>
+</td>
 </tr>
 <tr>
-<td> :1er:1e: Ancienneté acquise  :</td>
+<td valign="top" width="114">
+<p>- avant 1 an</p>
+</td>
+<td valign="top" width="113">
+<p>2e échelon</p>
+</td>
+<td valign="top" width="189">
+<p>Deux fois l'ancienneté acquise</p>
+</td>
 </tr>
 <tr>
-<td> :---:--:---------------------:</td>
+<td valign="top" width="114">
+<p>1er échelon</p>
+</td>
+<td valign="top" width="113">
+<p>1er échelon</p>
+</td>
+<td valign="top" width="189">
+<p>Ancienneté acquise</p>
+</td>
 </tr>
 <tr>
-<td/>
+<td valign="top" width="114">
+<p>Classe normale</p>
+</td>
+<td valign="top" width="113">
+<p>Classe normale</p>
+</td>
+<td valign="top" width="189"/>
 </tr>
 <tr>
-<td> 4+ = 4e échelon après 1 an</td>
+<td valign="top" width="114">
+<p>4e échelon</p>
+</td>
+<td valign="top" width="113">
+<p>5e échelon</p>
+</td>
+<td valign="top" width="189">
+<p>Ancienneté acquise</p>
+</td>
 </tr>
 <tr>
-<td> 4- = 4e échelon avant 1 an</td>
+<td valign="top" width="114">
+<p>3e échelon :</p>
+</td>
+<td valign="top" width="113"/>
+<td valign="top" width="189"/>
 </tr>
 <tr>
-<td> 2+ = 2e échelon après 1 an</td>
+<td valign="top" width="114">
+<p>- après 2 ans</p>
+</td>
+<td valign="top" width="113">
+<p>4e échelon</p>
+</td>
+<td valign="top" width="189">
+<p>Ancienneté acquise moins 2 ans</p>
+</td>
 </tr>
 <tr>
-<td> 2- = 2e échelon avant 1 an</td>
+<td valign="top" width="114">
+<p>- avant 2 ans</p>
+</td>
+<td valign="top" width="113">
+<p>3e échelon</p>
+</td>
+<td valign="top" width="189">
+<p>Ancienneté acquise</p>
+</td>
 </tr>
 <tr>
-<td/>
+<td valign="top" width="114">
+<p>2e échelon</p>
+</td>
+<td valign="top" width="113">
+<p>2e échelon</p>
+</td>
+<td valign="top" width="189">
+<p>2/3 de l'ancienneté acquise</p>
+</td>
 </tr>
 <tr>
-<td> I = SITUATION ancienne : Classe normale</td>
+<td valign="top" width="114">
+<p>1er échelon</p>
+</td>
+<td valign="top" width="113">
+<p>1er échelon</p>
+</td>
+<td valign="top" width="189">
+<p>2/3 de l'ancienneté acquise</p>
+</td>
 </tr>
 <tr>
-<td> II = SITUATION nouvelle : Classe normale</td>
+<td valign="top" width="114">
+<p>Stage</p>
+</td>
+<td valign="top" width="113">
+<p>Stage</p>
+</td>
+<td valign="top" width="189"/>
 </tr>
-<tr>
-<td> III = ANCIENNETÉ CONSERVÉE dans la limite de la durée de l'échelon</td>
-</tr>
-<tr>
-<td/>
-</tr>
-<tr>
-<td> :---:--:---------------------:</td>
-</tr>
-<tr>
-<td> : I :II:         III         :</td>
-</tr>
-<tr>
-<td> :---:--:---------------------:</td>
-</tr>
-<tr>
-<td> :4e :5e: Ancienneté acquise  :</td>
-</tr>
-<tr>
-<td> :3e+:4e:Ancienneté acq - 2 an:</td>
-</tr>
-<tr>
-<td> :3e-:3e: Ancienneté acquise  :</td>
-</tr>
-<tr>
-<td> :2e :2e:2/3 Ancienneté acquis:</td>
-</tr>
-<tr>
-<td> :1er:1e:2/3 Ancienneté acquis:</td>
-</tr>
-<tr>
-<td> :---:--:---------------------:</td>
-</tr>
+</tbody>
 </table>
-
-I = Stage II = Stage  3+ = 3e échelon après 2 ans 3- = 3e échelon avant 2 ans
 
 Les fonctionnaires ayant accédé au corps des officiers de port adjoints dans les quatre ans précédant la date de publication du présent décret peuvent demander, dans un délai de six mois à compter de cette date, l'application des dispositions de l'article 7 (2°) du décret du 3 septembre 1970 susvisé tel que modifié par le présent décret.
