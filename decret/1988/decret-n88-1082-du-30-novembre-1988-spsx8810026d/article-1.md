@@ -16,7 +16,9 @@ A compter du 1er août 1990 : 220-309
 
 A compter du 1er août 1991 : 220-328
 
-A compter du 1er août 1994 : 220-343
+A compter du 1er juillet 1994 : 224-328
+
+A compter du 1er août 1994 : 224-343
 
 Echelle 3
 
