@@ -699,7 +699,6 @@
 - [Arrêté du 24 janvier 1990 (SPSX9010640A)](arrete-du-24-janvier-1990-spsx9010640a)
 - [Arrêté du 24 juillet 1990 (SPSS9001530A)](arrete-du-24-juillet-1990-spss9001530a)
 - [Arrêté du 24 novembre 1989 (JUSD8930104A)](arrete-du-24-novembre-1989-jusd8930104a)
-- [Arrêté du 24 octobre 1990 (BUDL9000173A)](arrete-du-24-octobre-1990-budl9000173a)
 - [Arrêté du 24 octobre 1990 (ECOT9023058A)](arrete-du-24-octobre-1990-ecot9023058a)
 - [Arrêté du 24 octobre 1990 (SPSS9001836A)](arrete-du-24-octobre-1990-spss9001836a)
 - [Arrêté du 24 septembre 1990 (SPSH9001951A)](arrete-du-24-septembre-1990-spsh9001951a)
