@@ -284,7 +284,6 @@
 - [Arrêté du 10 février 1992 (MCCB9200054A)](arrete-du-10-fevrier-1992-mccb9200054a)
 - [Arrêté du 10 février 1992 (MCCK9100641A)](arrete-du-10-fevrier-1992-mcck9100641a)
 - [Arrêté du 10 février 1992 (MENN9200368A)](arrete-du-10-fevrier-1992-menn9200368a)
-- [Arrêté du 10 février 1992 (SANH9200396A)](arrete-du-10-fevrier-1992-sanh9200396a)
 - [Arrêté du 10 février 1992 (SANH9200397A)](arrete-du-10-fevrier-1992-sanh9200397a)
 - [Arrêté du 10 février 1992 (SANH9200398A)](arrete-du-10-fevrier-1992-sanh9200398a)
 - [Arrêté du 10 février 1992 (SANH9200399A)](arrete-du-10-fevrier-1992-sanh9200399a)
@@ -1085,4 +1084,4 @@
 - [Arrêté du 31 mars 1992 (PTTR9200184A)](arrete-du-31-mars-1992-pttr9200184a)
 - [Arrêté du 31 mars 1992 (RESY9200039A)](arrete-du-31-mars-1992-resy9200039a)
 - [Arrêté du 31 mars 1992 (SANH9200864A)](arrete-du-31-mars-1992-sanh9200864a)
-- [Arrêté du 31 mars 1992 (SPSS9200875A)](arrete-du-31-mars-1992-spss9200875a)
+- [Arrêté du 31 mars 1992 (SPSs9200875A)](arrete-du-31-mars-1992-spss9200875a)
