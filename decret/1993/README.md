@@ -154,6 +154,7 @@
 - [Décret n°93-1161 du 7 octobre 1993 (MAEJ9330037D)](decret-n93-1161-du-7-octobre-1993-maej9330037d)
 - [Décret n°93-1162 du 7 octobre 1993 (MAEJ9330038D)](decret-n93-1162-du-7-octobre-1993-maej9330038d)
 - [Décret n°93-1286 du 7 décembre 1993 (ECOT9351039D)](decret-n93-1286-du-7-decembre-1993-ecot9351039d)
+- [Décret n°93-1290 du 7 décembre 1993 (DOMP9300038D)](decret-n93-1290-du-7-decembre-1993-domp9300038d)
 - [Décret n°93-21 du 7 janvier 1993 (JUSB9210428D)](decret-n93-21-du-7-janvier-1993-jusb9210428d)
 - [Décret n°93-837 du 7 juin 1993 (BUDF9200037D)](decret-n93-837-du-7-juin-1993-budf9200037d)
 - [Décret n°93-887 du 7 juillet 1993 (ENVN9310078D)](decret-n93-887-du-7-juillet-1993-envn9310078d)
