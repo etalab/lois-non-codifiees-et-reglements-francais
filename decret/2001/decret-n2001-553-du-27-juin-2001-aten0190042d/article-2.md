@@ -4,7 +4,7 @@ I. - Les dispositions de la section 3 du chapitre Ier du titre II du livre II du
 
 II. - Les fédérations départementales des chasseurs réunissent, avant le 31 décembre 2001, une assemblée générale extraordinaire, afin de mettre leurs statuts en conformité avec les dispositions du présent décret et du nouveau modèle de statuts fixé par arrêté du ministre chargé de la chasse.
 
-Les conseils d'administration des fédérations départementales des chasseurs restent en place dans leur composition actuelle jusqu'au 30 juin 2003. En 2003, leurs conseils d'administration sont renouvelés en totalité et la fraction renouvelable en 2006 est tirée au sort.
+Les conseils d'administration des fédérations départementales des chasseurs restent en place dans leur composition actuelle jusqu'au 30 juin 2004. En 2004, leurs conseils d'administration sont renouvelés en totalité et la fraction renouvelable en 2007 est tirée au sort.
 
 Dans les fédérations des chasseurs qui n'ont pas pris les dispositions nécessaires à la clôture au 30 juin 2001 de leur exercice comptable de l'année civile 2001, cet exercice n'est pas modifié ; leur exercice comptable de l'année 2002 est clos le 30 juin 2002.
 
