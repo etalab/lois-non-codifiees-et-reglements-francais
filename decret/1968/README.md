@@ -78,7 +78,6 @@
 - [Décret n°68-399 du 29 avril 1968](decret-n68-399-du-29-avril-1968)
 - [Décret n°68-786 du 29 août 1968](decret-n68-786-du-29-aout-1968)
 - [Décret n°68-92 du 29 janvier 1968](decret-n68-92-du-29-janvier-1968)
-- [Décret n°68-955 du 29 octobre 1968](decret-n68-955-du-29-octobre-1968)
 - [Décret n°69-904 du 29 septembre 1969](decret-n69-904-du-29-septembre-1969)
 - [Décret n°68-485 du 29 mai 1968](decret-n68-485-du-29-mai-1968)
 - [Décret n°68-401 du 30 avril 1968](decret-n68-401-du-30-avril-1968)
