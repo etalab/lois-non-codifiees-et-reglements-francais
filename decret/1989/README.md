@@ -205,6 +205,7 @@
 - [Décret n°90-262 du 20 mars 1990 (COMA8900009D)](decret-n90-262-du-20-mars-1990-coma8900009d)
 - [Décret n°90-647 du 20 juillet 1990 (INTC9000170D)](decret-n90-647-du-20-juillet-1990-intc9000170d)
 - [Décret n°92-453 du 20 mai 1992 (ACVA9210046D)](decret-n92-453-du-20-mai-1992-acva9210046d)
+- [Décret n°87-278 du 21 avril 1987 (AGRS8700730D)](decret-n87-278-du-21-avril-1987-agrs8700730d)
 - [Décret n°89-109 du 21 février 1989 (MAEJ8930006D)](decret-n89-109-du-21-fevrier-1989-maej8930006d)
 - [Décret n°89-112 du 21 février 1989 (MAEJ8930009D)](decret-n89-112-du-21-fevrier-1989-maej8930009d)
 - [Décret n°89-114 du 21 février 1989 (MAEJ8930007D)](decret-n89-114-du-21-fevrier-1989-maej8930007d)
