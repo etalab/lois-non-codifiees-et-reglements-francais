@@ -10,7 +10,7 @@ Soit que le montant des cotisations dues au titre des assurances maladie, matern
 
 2. Les conditions d'ouverture du droit auxdites prestations sont également remplies si, à la date d'ouverture du droit aux prestations, l'assuré justifie avoir occupé un emploi salarié ou assimilé pendant au moins 200 heures au cours du trimestre civil ou des trois mois précédents ou pendant au moins 120 heures au cours du mois civil ou du mois précédent.
 
-3. Sans préjudice de l'application de l'article L. 253 du code de la sécurité sociale, est présumé avoir rempli les conditions prévues pour avoir droit ou ouvrir droit aux prestations en nature des assurances maladie et maternité pour la période qui, après la fin de l'année civile de référence, va du 1er avril au 31 mars, l'assuré social qui justifie :
+3. Sans préjudice de l'application de l'article L. 253 du code de la sécurité sociale, est présumé avoir rempli les conditions prévues pour avoir droit ou ouvrir droit aux prestations en nature des assurances maladie et maternité pour la période qui, après la fin de l'année civile de référence, va du 1er juillet au 30 juin, l'assuré social qui justifie :
 
 Soit avoir occupé un emploi salarié pendant au moins 1.200 heures au cours d'une année civile ;
 
