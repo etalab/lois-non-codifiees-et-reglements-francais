@@ -1,3 +1,3 @@
 # Article 1
 
-Afin de permettre le recensement des voix attribuées aux organisations syndicales candidates pour être représentées au Conseil supérieur de la fonction publique territoriale, la date limite de réception et de centralisation des votes des agents en fonctions dans les régions, prévue par l'article 36 du décret n° 84-346 du 10 mai 1984, est fixée au 5 juillet 1984.
+En application de l'article 3 de l'arrêté du 3 janvier 1966 susvisé, le présent arrêté fixe les garanties particulières d'hygiène, de technique et de sécurité des salles où sont pratiqués le judo et l'aïkido.
