@@ -31,7 +31,6 @@
 - [Décret n°59-1437 du 18 décembre 1959](decret-n59-1437-du-18-decembre-1959)
 - [Décret n°59-863 du 18 juillet 1959](decret-n59-863-du-18-juillet-1959)
 - [Décret n°59-878 du 18 juillet 1959](decret-n59-878-du-18-juillet-1959)
-- [Décret n°59-885 du 18 juillet 1959](decret-n59-885-du-18-juillet-1959)
 - [Décret n°59-1201 du 19 octobre 1959](decret-n59-1201-du-19-octobre-1959)
 - [Décret n°59-1209 du 19 octobre 1959](decret-n59-1209-du-19-octobre-1959)
 - [Décret n°59-1315 du 19 novembre 1959](decret-n59-1315-du-19-novembre-1959)
