@@ -8,9 +8,7 @@ Permanence à l'hôpital pendant une nuit :
 
 Interne de troisième et quatrième année : 309
 
-Interne de première et deuxième année : 247
-
-Etudiant désigné pour occuper provisoirement un poste d'interne :
+Interne de première et deuxième année et résident en médecine : 247 Etudiant désigné pour occuper provisoirement un poste d'interne :
 
 203
 
@@ -18,8 +16,6 @@ Permanence à l'hôpital pendant la journée d'un dimanche ou d'un jour férié 
 
 Interne de troisième et quatrième année : 309
 
-Interne de première et deuxième année : 247
-
-Etudiant désigné pour occuper provisoirement un poste d'interne :
+Interne de première et deuxième année et résident en médecine : 247 Etudiant désigné pour occuper provisoirement un poste d'interne :
 
 203
