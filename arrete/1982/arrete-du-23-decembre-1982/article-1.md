@@ -1,0 +1,3 @@
+# Article 1
+
+Sont entérinés par le présent arrêté, d'une part, l'avenant à l'engagement professionnel du 10 mars 1971 souscrit auprès de la direction générale de la concurrence et de la consommation et de la direction des ports et de navigation maritimes le 1er décembre 1982 par l'Union nationale des industries de la manutention dans les ports français concernant les tarifs de chargement et de déchargement des navires dans les ports maritimes et, d'autre part, l'avenant à l'engagement professionnel du 21 septembre 1972 souscrit le 7 décembre 1982 auprès des directions précitées par la Fédération des agents consignataires de navires et agents maritimes de France concernant les opérations complémentaires à l'embarquement et au débarquement des marchandises.

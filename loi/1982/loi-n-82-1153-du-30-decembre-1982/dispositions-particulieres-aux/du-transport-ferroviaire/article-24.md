@@ -1,0 +1,7 @@
+# Article 24
+
+I. - La Société nationale des chemins de fer français est dotée de l'autonomie de gestion. Un cahier des charges approuvé par décret en Conseil d'Etat, l'établissement public entendu, fixe ses droits et obligations, les modalités de son fonctionnement, les règles d'harmonisation des conditions d'exploitation prévues à l'article 3, la définition de son équilibre d'exploitation et les conditions d'exécution du service public. Un contrat de plan passé entre l'Etat et la Société nationale des chemins de fer français dans les conditions de la loi n° 82-653 du 29 juillet 1982 portant réforme de la planification détermine les objectifs assignés à l'entreprise et au groupe dans le cadre de la planification nationale et les moyens à mettre en oeuvre pour les atteindre.
+
+II. - L'Etat apporte son concours financier au fonctionnement et au développement de la Société nationale des chemins de fer français en raison de la contribution essentielle du transport ferroviaire à la vie économique et sociale de la nation, du rôle qui lui est assigné dans la mise en oeuvre du droit au transport et de ses avantages en ce qui concerne la sécurité et l'énergie.
+
+Ce concours tient compte des responsabilités spécifiques confiées à l'entreprise en matière d'infrastructures et des objectifs d'assainissement progressif de sa situation financière. Il l'incite à développer ses activités ainsi qu'à améliorer sa gestion, sa productivité et ses résultats financiers. Ses modalités sont définies notamment par le cahier des charges.

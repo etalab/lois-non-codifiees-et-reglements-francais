@@ -1,0 +1,17 @@
+# Loi n° 82-1152 du 30 décembre 1982 de finances rectificative pour 1982
+
+- [Article 11](article-11.md)
+- [Article 12](article-12.md)
+- [Article 14](article-14.md)
+- [Article 15](article-15.md)
+- [Article 20](article-20.md)
+- [Article 22](article-22.md)
+- [Article 23](article-23.md)
+- [Article 24](article-24.md)
+- [Article 26](article-26.md)
+- [Article 28](article-28.md)
+- [Article 29](article-29.md)
+- [Article 30](article-30.md)
+- [Article 31](article-31.md)
+- [Article 32](article-32.md)
+- [Article 35](article-35.md)

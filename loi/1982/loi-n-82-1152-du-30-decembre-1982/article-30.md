@@ -1,0 +1,3 @@
+# Article 30
+
+La taxe de protection sanitaire et d'organisation des marchés des viandes créée par la loi n° 77-646 du 24 juin 1977 frappe à l'importation les viandes, préparées ou non, des animaux mentionnés à l'article 2 de cette loi. Elle est due par l'importateur ou par le déclarant en douane lors du dédouanement pour la mise à la consommation. Elle est perçue par le service des douanes. Elle est recouvrée suivant les mêmes règles et sous les mêmes garanties qu'en matière de droit de douane. Les contraventions sont punies, les poursuites effectuées et les instances instruites et jugées comme en matière de douane et par les tribunaux compétents en cette matière.

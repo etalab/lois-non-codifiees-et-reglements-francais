@@ -1,3 +1,3 @@
 # Article 1
 
-L'arrêté du 1er octobre 1976 relatif à la tarification des risques d'accidents du travail et de maladies professionnelles est applicable au risque professionnel des sportifs professionnels compte tenu des dispositions particulières visées à l'article 2 ci-dessous.
+Le montant de l'imposition forfaitaire annuelle sur les pylônes est fixé pour 1983 à 1.771 F en ce qui concerne les pylônes supportant des lignes électriques dont la tension est comprise entre 200 et 350 kilovolts et à 3.543 F en ce qui concerne les pylônes supportant des lignes électriques dont la tension est supérieure à 350 kilovolts.
