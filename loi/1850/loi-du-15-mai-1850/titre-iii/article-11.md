@@ -1,0 +1,3 @@
+# Article 11
+
+Aucune demande de crédits extraordinaires ne pourra être introduite devant l'Assemblée législative, si ce n'est pour des dépenses urgentes et n'ayant pu être prévues ni réglées dans le budget de l'exercice ...
