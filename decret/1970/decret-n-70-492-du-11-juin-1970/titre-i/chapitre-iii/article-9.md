@@ -1,7 +1,9 @@
 # Article 9
 
-En matière de transport de gaz il n'est pas procédé aux consultations des maires et services intéressés prévues par les articles 7 et 8 ci-dessus lorsque les consultations prévues par les articles 8 à 14 du décret du 23 janvier 1964 portant règlement d'administration publique en ce qui concerne le régime des transports de gaz combustibles ont eu lieu.
+Lorsque l'ouvrage est établi sous le régime de la concession, le préfet du département intéressé, ou, le cas échéant, le préfet coordonnateur transmet, avec son avis, les pièces de l'instruction administrative et, le cas échéant, de l'enquête publique au ministre chargé du gaz.
 
-De même, pour les travaux faisant l'objet de notification, il n'est pas nécessaire de procéder à la consultation des services intéressés lorsque celle-ci a eu lieu en application des articles 28 et 29 du décret du 23 janvier 1964.
+La déclaration d'utilité publique est prononcée par arrêté de ce ministre ou lorsqu'il est fait application des dispositions des articles L. 123-8 et R. 123-35-3 du code de l'urbanisme, par arrêté conjoint du ministre chargé du gaz et du ministre chargé de l'urbanisme.
 
-Les maires et les services intéressés sont avisés lors de l'enquête de concession ou d'autorisation de transport de gaz que cette consultation concerne également la demande de déclaration d'utilité publique de l'opération envisagée. Il en est de même lors de la consultation des services intéressés prévue pour les notifications.
+Lorsque l'ouvrage en cause est établi sous le régime de l'autorisation, la déclaration d'utilité publique est prononcée par arrêté du préfet. Si l'ouvrage doit être implanté sur le territoire de plusieurs départements, la déclaration d'utilité publique est prononcée par arrêté conjoint des préfets des départements intéressés ou, en cas de désaccord, par un arrêté ministériel ou interministériel pris dans les conditions fixées à l'alinéa précédent.
+
+En ce qui concerne les ouvrages de transport de gaz soumis au régime de la déclaration en application du décret n° 85-1108 du 15 octobre 1985, la déclaration d'utilité publique est prononcée par arrêté ministériel ou interministériel dans les conditions fixées au premier alinéa du présent article lorsque la canalisation se rattache à un ouvrage concédé ou pour lequel une demande de concession a été déposée ou fait l'objet des déclarations prévues aux c et d du 2° de l'article 2 du décret précité. Dans les autres cas, elle est prononcée dans les conditions fixées au second alinéa du présent article.
