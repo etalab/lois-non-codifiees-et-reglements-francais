@@ -1,0 +1,3 @@
+# Article 2
+
+Les personnels enseignants et d'éducation affectés dans les collèges, lycées et lycées professionnels et chargés d'assurer le suivi des élèves de première année ou de deuxième année d'institut universitaire de formation des maîtres accomplissant des stages de pratique accompagnée dans les collèges, lycées et lycées professionnels perçoivent pour cinq heures de stage effectuées par groupe d'élèves une indemnité dont le montant est fixé à 104 p. 100 du taux de l'indemnité de vacation allouée pour les épreuves orales des différents examens ou concours au personnel examinateur classé dans le groupe II prévu par l'article 14 du décret du 12 juin 1956 modifié susvisé.

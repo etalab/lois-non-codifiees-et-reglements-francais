@@ -51,6 +51,7 @@
 - [Décret n°94-481 du 8 juin 1994 (ECOT9494247D)](decret-n94-481-du-8-juin-1994-ecot9494247d)
 - [Décret n°95-145 du 8 février 1995 (EQUL9400557D)](decret-n95-145-du-8-fevrier-1995-equl9400557d)
 - [Décret n°95-148 du 8 février 1995 (ENVN9530002D)](decret-n95-148-du-8-fevrier-1995-envn9530002d)
+- [Décret n°92-216 du 9 mars 1992 (MENZ9102856D)](decret-n92-216-du-9-mars-1992-menz9102856d)
 - [Décret n°95-146 du 9 février 1995 (TEFE9500030D)](decret-n95-146-du-9-fevrier-1995-tefe9500030d)
 - [Décret n°95-156 du 9 février 1995 (RESK9500118D)](decret-n95-156-du-9-fevrier-1995-resk9500118d)
 - [Décret n°95-18 du 9 janvier 1995 (DEFD9402152D)](decret-n95-18-du-9-janvier-1995-defd9402152d)

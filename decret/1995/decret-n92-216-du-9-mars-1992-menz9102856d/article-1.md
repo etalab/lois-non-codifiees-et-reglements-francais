@@ -1,0 +1,3 @@
+# Article 1
+
+Les personnels enseignants  et d'éducation affectés dans les collèges, lycées et lycées professionnels et chargés d'assurer le suivi des stagiaires de deuxième année d'institut universitaire de formation des maîtres accomplissant des stages en responsabilité dans les collèges, lycées et lycées professionnels perçoivent, par stagiaire et par semaine, une indemnité dont le montant est fixé à 90 p. 100 du taux de l'indemnité de vacation allouée pour les épreuves orales des différents examens ou concours au personnel examinateur classé dans le groupe II prévu par l'article 14 du décret du 12 juin 1956 modifié susvisé.
