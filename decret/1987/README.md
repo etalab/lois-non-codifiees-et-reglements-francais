@@ -4,7 +4,6 @@
 - [Décret n°87-368 du 1 juin 1987 (MERP8700020D)](decret-n87-368-du-1-juin-1987-merp8700020d)
 - [Décret n°87-473 du 1 juillet 1987 (PRMJ8760043D)](decret-n87-473-du-1-juillet-1987-prmj8760043d)
 - [Décret n°87-477 du 1 juillet 1987 (EQUC8700173D)](decret-n87-477-du-1-juillet-1987-equc8700173d)
-- [Décret n°87-479 du 1 juillet 1987](decret-n87-479-du-1-juillet-1987)
 - [Décret n°87-482 du 1 juillet 1987 (ASEH8700988D)](decret-n87-482-du-1-juillet-1987-aseh8700988d)
 - [Décret n°87-734 du 1 septembre 1987 (MAEJ8730043D)](decret-n87-734-du-1-septembre-1987-maej8730043d)
 - [Décret n°87-735 du 1 septembre 1987 (MAEJ8730044D)](decret-n87-735-du-1-septembre-1987-maej8730044d)

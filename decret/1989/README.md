@@ -56,7 +56,6 @@
 - [Décret n°89-367 du 5 juin 1989 (MAEJ8930054D)](decret-n89-367-du-5-juin-1989-maej8930054d)
 - [Décret n°89-368 du 5 juin 1989 (MAEJ8930051D)](decret-n89-368-du-5-juin-1989-maej8930051d)
 - [Décret n°89-638 du 5 septembre 1989 (SPSS8901470D)](decret-n89-638-du-5-septembre-1989-spss8901470d)
-- [Décret n°89-639 du 5 septembre 1989 (SPSS8901471D)](decret-n89-639-du-5-septembre-1989-spss8901471d)
 - [Décret n°89-640 du 5 septembre 1989 (SPSS8901526D)](decret-n89-640-du-5-septembre-1989-spss8901526d)
 - [Décret n°89-643 du 5 septembre 1989 (PRMG8970260D)](decret-n89-643-du-5-septembre-1989-prmg8970260d)
 - [Décret n°90-324 du 5 avril 1990 (MENF8903011D)](decret-n90-324-du-5-avril-1990-menf8903011d)
