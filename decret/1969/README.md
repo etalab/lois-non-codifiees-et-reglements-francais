@@ -31,3 +31,4 @@
 - [Décret n°68-1089 du 29 novembre 1968](decret-n68-1089-du-29-novembre-1968)
 - [Décret n°69-773 du 30 juillet 1969](decret-n69-773-du-30-juillet-1969)
 - [Décret n°69-92 du 30 janvier 1969](decret-n69-92-du-30-janvier-1969)
+- [Décret n°69-294 du 31 mars 1969](decret-n69-294-du-31-mars-1969)

@@ -1,11 +1,3 @@
 # Article 3
 
-L'indemnité prévue à l'article 1er du présent arrêté est fixée à 100.000 F [*montant*] en cas de mort ou d'invalidité permanente totale.
-
-Elle est calculée proportionnellement au taux d'invalidité en cas d'incapacité permanente partielle au moins égale à 10 p. 100 [*pourcentage*].
-
-Le taux d'invalidité est fixé :
-
-1° En ce qui concerne les agents titulaires, par l'autorité dont dépend ou dépendait la victime, après avis de la commission de réforme compétente ;
-
-2° En ce qui concerne les auxiliaires et contractuels, dans les conditions déterminées par la législation sur les accidents du travail.
+Le directeur général du Travail et de l'Emploi est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
