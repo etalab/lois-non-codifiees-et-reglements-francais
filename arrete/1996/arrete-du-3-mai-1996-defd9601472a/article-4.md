@@ -1,0 +1,3 @@
+# Article 4
+
+Les pouvoirs et attributions dévolus au préfet par les articles 2 (3e alinéa), 3 (4e alinéa) dans les situations prévues aux 2° et 3° du même article, 3-1, 8 (2e alinéa), 9, 10, 16, 17-I, 18 et 30 du décret du 3 janvier 1989 susvisé sont exercés, pour les services et organismes dépendant de l'autorité ou placés sous la tutelle du ministre de la défense, par l'autorité militaire territorialement compétente (commandant de circonscription militaire de défense, commandant d'arrondissement maritime ou commandant de région aérienne) ou par l'autorité fonctionnelle dans le cas de la délégation générale pour l'armement (directeurs centraux) qui statuent par décision particulière.

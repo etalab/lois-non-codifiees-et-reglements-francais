@@ -34,6 +34,7 @@
 - [Arrêté du 3 avril 1996 (ENVP9650134A)](arrete-du-3-avril-1996-envp9650134a)
 - [Arrêté du 3 janvier 1996 (EQUA9501902A)](arrete-du-3-janvier-1996-equa9501902a)
 - [Arrêté du 3 novembre 1995 (SANS9503257A)](arrete-du-3-novembre-1995-sans9503257a)
+- [Arrêté du 3 mai 1996 (DEFD9601472A)](arrete-du-3-mai-1996-defd9601472a)
 - [Arrêté du 3 mai 1996 (TASA9620025A)](arrete-du-3-mai-1996-tasa9620025a)
 - [Arrêté du 3 mai 1996 (TASH9621416A)](arrete-du-3-mai-1996-tash9621416a)
 - [Arrêté du 4 avril 1995 (TEFT9500399A)](arrete-du-4-avril-1995-teft9500399a)
