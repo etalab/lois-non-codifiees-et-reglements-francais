@@ -411,6 +411,7 @@
 - [Décret n°95-418 du 13 avril 1995 (EQUS9500410D)](decret-n95-418-du-13-avril-1995-equs9500410d)
 - [Décret n°95-49 du 13 janvier 1995 (INDA9401091D)](decret-n95-49-du-13-janvier-1995-inda9401091d)
 - [Décret n°95-58 du 13 janvier 1995 (DEFD9401861D)](decret-n95-58-du-13-janvier-1995-defd9401861d)
+- [Décret n°95-840 du 13 juillet 1995 (INDH9500671D)](decret-n95-840-du-13-juillet-1995-indh9500671d)
 - [Décret n°93-69 du 14 janvier 1993 (MENF9204458D)](decret-n93-69-du-14-janvier-1993-menf9204458d)
 - [Décret n°95-176 du 14 février 1995 (AGRP9402413D)](decret-n95-176-du-14-fevrier-1995-agrp9402413d)
 - [Décret n°95-185 du 14 février 1995 (SPSA9503823D)](decret-n95-185-du-14-fevrier-1995-spsa9503823d)

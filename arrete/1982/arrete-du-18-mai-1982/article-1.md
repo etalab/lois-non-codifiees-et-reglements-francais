@@ -4,7 +4,7 @@ Les commissions chargées de l'ouverture des plis contenant les offres relatives
 
 Service des personnels et de la gestion :
 
-Le chef de service, président, ou son représentant ;
+Service des affaires financières : le chef de service, président, ou son représentant ;
 
 Le fonctionnaire ayant préparé l'appel d'offres.
 
