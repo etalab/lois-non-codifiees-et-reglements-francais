@@ -1,4 +1,4 @@
-# Arrêté du 9 novembre 1984 fixant les conditions d'émission des obligations PTT 1984
+# Arrêté du 9 novembre 1984 fixant le coefficient de revalorisation des pensions de vieillesse du régime des clercs et employés de notaires.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
