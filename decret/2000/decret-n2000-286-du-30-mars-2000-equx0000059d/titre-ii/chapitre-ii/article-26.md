@@ -1,0 +1,7 @@
+# Article 26
+
+Saisi par un rapport technique de la Société nationale des chemins de fer français agissant dans le cadre de la mission générale rappelée à l'article 22, accompagné d'un avis de Réseau ferré de France concernant un manquement grave ou répété dans l'application des dispositions du règlement de sécurité de l'exploitation du réseau ferré national ou des règles de sécurité et de maintenance mentionnées dans le dossier de sécurité, le ministre chargé des transports peut, après mise en demeure adressée à l'exploitant et respect d'une procédure contradictoire, suspendre en tout ou partie l'autorisation mentionnée à l'article 12 jusqu'à ce que les mesures nécessaires pour remédier à ce manquement aient été mises en oeuvre. Il peut également, selon la même procédure, retirer partiellement ou totalement ladite autorisation.
+
+En cas de risque grave ou imminent pour la sécurité, la Société nationale des chemins de fer français agissant dans le cadre de la mission générale rappelée à l'article 22 peut décider d'immobiliser un convoi à titre conservatoire. Elle en informe immédiatement Réseau ferré de France et le ministre chargé des transports qui peut alors prononcer la suspension de l'autorisation mentionnée à l'article 12 pour une période maximale de trois mois et engager la procédure mentionnée à l'alinéa précédent.
+
+Les décisions de suspension ou de retrait prises par le ministre chargé des transports sont portées à la connaissance de Réseau ferré de France.

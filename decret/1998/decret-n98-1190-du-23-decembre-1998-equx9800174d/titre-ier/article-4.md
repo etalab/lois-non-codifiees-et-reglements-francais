@@ -1,5 +1,0 @@
-# Article 4
-
-1° Chacune des entreprises ferroviaires, mentionnées aux articles 1er et 2, doit, pour exercer les droits prévus à ces mêmes articles, détenir une licence en cours de validité, régulièrement délivrée par l'autorité compétente de l'Etat membre de la Communauté européenne où elle est établie, correspondant aux types de transport effectués et un certificat de sécurité en cours de validité délivré dans les conditions prévues à l'article 15 ci-dessous. Elle emprunte le réseau ferré national pour y assurer les services sur les lignes mentionnées audit certificat de sécurité, sous réserve d'avoir obtenu l'attribution de sillons dans les conditions fixées aux articles 21 et 22 du présent décret.
-
-2° Lorsque les droits mentionnés aux articles 1er et 2 sont exercés par un regroupement international doté de la personnalité juridique, ce regroupement est soumis aux mêmes obligations qu'une entreprise ferroviaire, sauf si les entreprises ferroviaires qui le composent satisfont à ces obligations. Si le regroupement international n'est pas doté de la personnalité juridique, lesdites obligations sont imposées aux entreprises ferroviaires qui le composent.

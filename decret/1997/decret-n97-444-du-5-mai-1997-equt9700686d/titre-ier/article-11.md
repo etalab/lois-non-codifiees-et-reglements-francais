@@ -4,7 +4,7 @@ Dans le cadre des objectifs et principes de gestion du réseau ferré national d
 
 Ces missions comportent en particulier :
 
-- l'établissement du système d'organisation de l'ensemble des circulations ferroviaires sur le réseau, dit "graphique de circulation" ;
+- La conduite des études techniques d'exécution nécessaires à l'instruction des demandes de sillons dans les conditions prévues à l'article 21 du décret n° 2003-194 du 7 mars 2003 relatif à l'utilisation de réseau ferré national.
 
 - la gestion opérationnelle de ces circulations, et les mesures propres à assurer leur fluidité, leur régularité et leur acheminement en toute sécurité, ainsi que la mise en oeuvre des dispositions nécessaires pour assurer le rétablissement de la situation normale en cas de perturbation de la circulation ;
 
