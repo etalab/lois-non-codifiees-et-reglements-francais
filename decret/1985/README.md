@@ -9,6 +9,7 @@
 - [Décret n°85-1175 du 12 novembre 1985](decret-n85-1175-du-12-novembre-1985)
 - [Décret n°85-1106 du 15 octobre 1985](decret-n85-1106-du-15-octobre-1985)
 - [Décret n°85-1362 du 17 décembre 1985](decret-n85-1362-du-17-decembre-1985)
+- [Décret n°85-923 du 21 août 1985](decret-n85-923-du-21-aout-1985)
 - [Décret n°85-1148 du 24 octobre 1985](decret-n85-1148-du-24-octobre-1985)
 - [Décret n°85-1145 du 28 octobre 1985](decret-n85-1145-du-28-octobre-1985)
 - [Décret n°85-1146 du 28 octobre 1985](decret-n85-1146-du-28-octobre-1985)
