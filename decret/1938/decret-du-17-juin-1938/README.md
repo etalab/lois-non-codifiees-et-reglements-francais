@@ -1,17 +1,11 @@
-# Décret du 17 juin 1938 relatif à la modification des limites des affaires maritimes.
+# Décret du 17 juin 1938 RELATIF A LA REORGANISATION ET A L'UNIFICATION DU REGIME D'ASSURANCE DES MARINS
 
-- [Article 1](article-1.md)
 - [TITRE IER : DISPOSITIONS GENERALES](titre-ier)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
+- [TITRE 2 : ASSURANCE DES MARINS EN CAS D'ACCIDENT PROFESSIONNEL](titre-2)
+- [TITRE 3 : ASSURANCES DES MARINS ET DE LEURS FAMILLES EN CAS DE MATERNITE](titre-3)
 - [TITRE 4 : ASSURANCE DES MARINS EN CAS D'INVALIDITE RESULTANT D'UN ACCIDENT NON PROFESSIONNEL OU D'UNE MALADIE](titre-4)
-- [Article 5](article-5.md)
 - [TITRE 5 : DISPOSITIONS COMMUNES AUX ASSURANCES ACCIDENT, MALADIE ET INVALIDITE](titre-5)
-- [Article 6](article-6.md)
 - [TITRE 6 : DISPOSITIONS TRANSITOIRES](titre-6)
-- [Article 7](article-7.md)
 - [TITRE 7 : DISPOSITIONS DIVERSES](titre-7)
-- [Article 8](article-8.md)
 - [TITRE 8 : DISPOSITIONS CONCERNANT L'ORGANISATION ET LE REGIME FINANCIER DE L'ETABLISSEMENT NATIONAL DES INVALIDES DE LA MARINE](titre-8)
 - [Article Rapport](article-rapport.md)

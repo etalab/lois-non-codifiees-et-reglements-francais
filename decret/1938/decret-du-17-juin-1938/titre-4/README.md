@@ -1,3 +1,5 @@
 # TITRE 4 : ASSURANCE DES MARINS EN CAS D'INVALIDITE RESULTANT D'UN ACCIDENT NON PROFESSIONNEL OU D'UNE MALADIE
 
-- [Article 49](article-49.md)
+- [Article 44](article-44.md)
+- [Article 45](article-45.md)
+- [Article 47](article-47.md)
