@@ -1,14 +1,14 @@
 # Article 95
 
-Les charges visées à l'article précédent sont compensées par le transfert d'impôts d'Etat et par l'attribution d'une dotation générale de décentralisation.
+Les charges visées à l'article précédent sont compensées par le transfert d'impôts d'Etat et par l'attribution d'une dotation générale de décentralisation. Toutefois, s'agissant de la vignette représentative du paiement de la taxe différentielle sur les véhicules à moteur ou de la taxe spéciale sur les voitures particulières d'une puissance fiscale supérieure à 16 CV, la répartition du produit de ces impôts affectés à cette compensation, calculé au taux en vigueur à la date du transfert des compétences, entre les collectivités territoriales concernées est effectuée en multipliant, pour chaque catégorie de véhicules, le produit encaissé en 1983 par le rapport entre le nombre de véhicules ayant donné lieu au paiement de ces taxes en 1984 et le nombre de ceux ayant donné lieu à leur paiement en 1983.
+
+A cet effet, interviendra en 1985 la régularisation du montant des transferts de ressources pris en compte en 1984 dans la compensation financière des charges nouvelles résultant pour les collectivités territoriales des transferts de compétence réalisés en 1984, sous forme de diminution des transferts de ressources dus en 1985 à ces collectivités.
 
 Dans le cas où, l'année d'un transfert de compétences, le produit des impôts affectés à cette compensation, calculé aux taux en vigueur à la date du transfert de compétences est supérieur, pour une collectivité donnée, au montant des charges qui résultent du transfert de compétences, tel qu'il est constaté dans l'arrêté interministériel mentionné à l'article précédent, il est procédé l'année même aux ajustements nécessaires.
 
-A cette fin, le produit des impôts revenant à la collectivité concernée est diminué de la différence entre le produit calculé sur la base des taux en vigueur à la date du transfert et le montant des charges visé ci-dessus.
+A cette fin, le produit des impôts revenant à la collectivité concernée est diminué, au profit du budget général, de la différence entre le produit calculé sur la base des taux en vigueur à la date du transfert et le montant des charges visé ci-dessus ainsi que la moitié du supplément de ressources fiscales résultant des dispositions de l'article 14 de la loi de finances pour 1984 n° 83-1179  du 29 décembre 1983.
 
 Pour les années ultérieures, le montant de cet ajustement évolue dans les conditions définies à l'article 102 de la loi n° 82-213 du 2 mars 1982 précitée. Il est modifié, en tant que de besoin, pour tenir compte des accroissements de charges résultant de nouveaux transferts de compétences.
-
-Le montant de l'ajustement est affecté à la dotation générale de décentralisation dans des conditions fixées par décret en Conseil d'Etat.
 
 Les crédits précédemment ouverts au budget de l'Etat pour les investissements exécutés ou subventionnés par l'Etat au titre des ports maritimes de commerce et de pêche font l'objet d'un concours particulier au sein de la dotation générale de décentralisation. Ils sont répartis, dans les conditions définies par décret en Conseil d'Etat, entre les départements qui réalisent des travaux d'investissement ou participent à leur financement, au titre des compétences qui leur sont transférées en vertu du premier alinéa de l'article 6 de la loi n° 83-663 du 22 juillet 1983 complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.
 
