@@ -8,8 +8,6 @@ II. - Tout contrat de transport public de marchandises doit comporter des clause
 
 A défaut de convention écrite définissant les rapports entre les parties au contrat sur les matières mentionnées à l'alinéa précédent, les clauses de contrats types s'appliquent de plein droit. Ces contrats types sont établis par décret, après avis des organismes professionnels concernés et du conseil national des transports.
 
-III. - Les prix et tarifs sont établis de telle sorte que les coûts économiques réels du transport soient supportés par les entreprises ou personnes pour le compte desquelles il a été exécuté.    A cette fin, des règles tarifaires peuvent être établies par l'Etat en concertation avec les entreprises, les organismes professionnels et les usagers.
-
-Les règles applicables aux opérations d'acheminement de marchandises exportées ou importées, à destination ou en provenance des ports maritimes, tiennent compte des conditions spécifiques de ces opérations, lorsqu'elles s'intègrent dans une chaîne de transport international.
+III. - [*supprimé*]
 
 IV. - La rémunération des auxiliaires de transport est fixée en fonction des services effectivement rendus. Elle est supportée par ceux qui en bénéficient.
