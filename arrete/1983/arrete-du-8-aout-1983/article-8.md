@@ -1,5 +1,5 @@
 # Article 8
 
-Les épreuves sont notées de 0 à 20. Toute note égale ou inférieure à 5 sur 20 maintenue après délibération du jury est éliminatoire. Chaque note est multipliée par son coefficient, tel qu'il est fixé aux articles 4 et 5 ci-dessus. La somme des produits ainsi obtenus forme le total des points pour l'ensemble des épreuves.
+Est considérée comme oeuvre cinématographique permettant le réinvestissement des sommes inscrites au compte du distributeur, au titre du soutien financier de l'Etat à la distribution d'oeuvres cinématographiques, l'oeuvre dont le ou les distributeurs participent participent au financement de sa production, par des avances remboursables exclusivement sur les recettes, à raison d'un montant au moins égal à 10 % de son coût global.
 
-Pour le concours ouvert aux titulaires du baccalauréat, aucun candidat ne peut être déclaré admissible aux épreuves de la deuxième série s'il n'a obtenu au moins la moyenne aux épreuves de la première série; aucun candidat ne peut être déclaré admissible à l'épreuve de la troisième série s'il n'a obtenu au moins la moyenne à l'ensemble des épreuves des deux premières séries.
+Est considérée comme oeuvre cinématographique de référence ouvrant droit au bénéfice du soutien financier de l'Etat à la distribution d'oeuvres cinématographiques l'oeuvre dont le ou les distributeurs ont participé au financement de sa production, par des avances remboursables exclusivement sur les recettes, à raison d'un montant au moins égal à 10 % de son coût global.

@@ -1,9 +1,5 @@
 # Article 5
 
-Les épreuves du concours ouvert aux candidats justifiant de services d'instituteur suppléant prévu à l'article 4 (2°) du décret du 22 août 1978 susvisé sont fixées comme suit :
+Le montant du chiffre d'affaires pris en compte pour l'application des dispositions de l'article 1er du présent arrêté est, pour chaque entreprise de distribution, celui qui a été réalisé au cours de l'exercice qui précède l'établissement de la liste annuelle prévue à l'article 3 ci-dessus. Ne peuvent faire l'objet d'une inscription sur la liste que les entreprises de distribution qui ont exercé leur activité pendant un exercice complet.
 
-1° Une épreuve consistant en un commentaire oral prenant appui sur une fiche aide-mémoire suivi d'un entretien avec le jury. Ce commentaire portera, au choix du candidat, soit sur une expérience pédagogique qu'il a vécue lui-même au cours des suppléances effectuées, soit sur des textes ou documents d'ordre pédagogique proposés par le jury (durée : quarante-cinq minutes pour la préparation et la rédaction de la fiche, trente minutes pour le commentaire et l'entretien ; coefficient 4) ;
-
-2° Une épreuve écrite consistant en la traduction, sans dictionnaire, d'un texte rédigé en tahitien (durée de l'épreuve : une heure ; coefficient 1) ;
-
-3° Une épreuve orale consistant en un entretien en langues polynésiennes avec le jury à partir d'un texte ou d'un document portant sur un sujet d'ordre général (durée de l'épreuve : trente minutes pour la préparation, quinze minutes pour l'entretien ; coefficient 1).
+Il convient d'entendre par chiffre d'affaires le montant annuel des parts de recettes, telles que définies à l'article 4 ci-dessus, encaissé par les entreprises de distribution en contrepartie de concessions des droits de représentation publique d'oeuvres cinématographiques en salles. Toutefois, s'agissant des entreprises de distribution visées à l'article suivant, le chiffre d'affaires pris en compte pour l'application du présent arrêté est celui qui résulte des facturations effectuées directement et pour son propre compte par chaque entreprise concernée.

@@ -1,4 +1,4 @@
-# Arrêté du 8 août 1983 fixant les modalités d'organisation des concours de recrutement des élèves instituteurs de la Polynésie française
+# Arrêté du 8 août 1983 portant application des dispositions des articles 5 ter et 5 quater du décret du 16 juin 1959 modifié relatives aux taux majorés de soutien financier de l'Etat aux distributeurs d'oeuvres cinématographiques.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
