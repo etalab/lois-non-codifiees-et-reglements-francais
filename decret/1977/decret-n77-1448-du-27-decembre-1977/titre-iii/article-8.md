@@ -6,23 +6,23 @@ I. - Lorsque le décès est imputable à un accident survenu au cours de l'exéc
 
 a) Avec un ou plusieurs enfants à charge : montant égal à quatre fois la solde budgétaire annuelle correspondant :
 
-- lorsque le défunt était officier ou assimilé, à l'indice brut 525 ;
+- lorsque le défunt était officier ou assimilé, à l'indice brut 635 ;
 
-- lorsqu'il était non-officier ou assimilé, à l'indice brut 380.
+- lorsqu'il était non-officier ou assimilé, à l'indice brut 467.
 
 b) Sans enfants à charge : montant égal à quatre fois la solde budgétaire annuelle correspondant :
 
-- lorsque le défunt était officier ou assimilé, à l'indice brut 360 ;
+- lorsque le défunt était officier ou assimilé, à l'indice brut 455 ;
 
-- lorsqu'il était non-officier ou assimilé, à l'indice brut 260.
+- lorsqu'il était non-officier ou assimilé, à l'indice brut 332.
 
 2° Enfants à charge
 
-Montant égal à deux fois la solde budgétaire annuelle correspondant à l'indice brut 485. Ces allocations sont majorées de 50 p. 100 pour les orphelins de père et de mère et pour les orphelins dont le père ou la mère survivant n'a pas droit à une allocation personnelle ; dans ce dernier cas, le total des allocations des orphelins ne peut être supérieur au total des allocations qui auraient pu être attribuées aux orphelins et à l'époux survivant si celui-ci avait eu droit à l'allocation.
+Montant égal à deux fois la solde budgétaire annuelle correspondant à l'indice brut 585. Ces allocations sont majorées de 50 p. 100 pour les orphelins de père et de mère et pour les orphelins dont le père ou la mère survivant n'a pas droit à une allocation personnelle ; dans ce dernier cas, le total des allocations des orphelins ne peut être supérieur au total des allocations qui auraient pu être attribuées aux orphelins et à l'époux survivant si celui-ci avait eu droit à l'allocation.
 
 3° Ascendants
 
-Montant égal à quatre cinquièmes de la solde budgétaire annuelle correspondant à l'indice brut 485.
+Montant égal à quatre cinquièmes de la solde budgétaire annuelle correspondant à l'indice brut 585.
 
 II. - Lorsque l'infirmité contractée en service aérien entraîne la mise à la retraite dans les conditions définies aux articles 5 et 7 du présent décret, il est versé à l'intéressé :
 
