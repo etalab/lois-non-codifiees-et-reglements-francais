@@ -2,7 +2,7 @@
 
 La gestion administrative, comptable et financière de l'Etablissement public de financement et de restructuration est assurée par l'Etat, dans les conditions définies par une convention entre les deux parties.
 
-Le directeur du Trésor est l'ordonnateur principal de l'Etablissement public de financement et de restructuration. Il exerce toutes les compétences qui ne sont pas attribuées à une autre autorité, et notamment :
+Le président du conseil d'administration est l'ordonnateur principal de l'Etablissement public de financement et de restructuration. Il exerce toutes les compétences qui ne sont pas attribuées à une autre autorité, et notamment :
 
 - prépare et exécute les délibérations du conseil d'administration, auquel il rend compte de sa gestion ;
 
@@ -11,3 +11,5 @@ Le directeur du Trésor est l'ordonnateur principal de l'Etablissement public de
 - prépare le budget et l'exécute ;
 
 - conclut au nom de l'établissement les marchés publics et les contrats.
+
+En cas d'absence ou d'empêchement, il peut déléguer ses pouvoirs à l'un des membres du conseil d'administration.
