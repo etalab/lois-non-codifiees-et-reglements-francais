@@ -193,6 +193,7 @@
 - [Décret n°96-528 du 14 juin 1996 (AGRG9601180D)](decret-n96-528-du-14-juin-1996-agrg9601180d)
 - [Décret n°96-531 du 14 juin 1996 (TASP9620968D)](decret-n96-531-du-14-juin-1996-tasp9620968d)
 - [Décret n°96-532 du 14 juin 1996 (TASS9621420D)](decret-n96-532-du-14-juin-1996-tass9621420d)
+- [Décret n°96-533 du 14 juin 1996 (MENF9600792D)](decret-n96-533-du-14-juin-1996-menf9600792d)
 - [Décret n°96-402 du 14 mai 1996 (INTA9600103D)](decret-n96-402-du-14-mai-1996-inta9600103d)
 - [Décret n°96-411 du 14 mai 1996 (ACVX9600028D)](decret-n96-411-du-14-mai-1996-acvx9600028d)
 - [Décret n°96-412 du 14 mai 1996 (ACVX9600053D)](decret-n96-412-du-14-mai-1996-acvx9600053d)
