@@ -1,17 +1,7 @@
 # Article 12
 
-Les agriculteurs bénéficiant de la priorité d'attribution prévue au premier alinéa de l'article 10 de la loi n° 62-933 du 8 août 1962 modifiée ont la possibilité de présenter leur candidature auprès de plusieurs sociétés d'aménagement foncier et d'établissement rural à la suite des appels publics de candidatures prévus à l'article 14 bis du présent décret. Toutefois, si après avoir dûment posé leur candidature à l'attribution d'un bien, ils en refusent l'acquisition, ils se retrouvent dans la situation de droit commun en concurrence avec d'autres candidats éventuels.
+Les biens sont attribués par les sociétés d'aménagement foncier et d'établissement rural aux candidats, personnes physiques ou morales, capables d'en assurer la gestion et la mise en valeur avec les plus grandes chances de succès et pour lesquels l'intervention de ces sociétés présente le plus d'intérêt tant du point de vue économique que social, compte tenu notamment de leur situation familiale, de leur capacité financière d'acquérir le bien et de le gérer, de l'existence de revenus non agricoles, de leurs compétences professionnelles et de leurs qualités personnelles.
 
-Hors le cas cité ci-dessus, les exploitations sont attribuées de préférence par les sociétés d'aménagement foncier et d'établissement rural aux candidats dont l'installation présente les plus grandes chances de succès du fait, en particulier, de leur situation familiale, de leur expérience professionnelle et de leurs qualités personnelles et offre le plus d'intérêt au point de vue social en raison des difficultés qu'ils éprouvent pour poursuivre leur exploitation ou s'installer, ce qui vise notamment :
+Tout candidat doit s'engager à respecter les clauses d'un cahier des charges établi éventuellement par la société d'aménagement foncier et d'établissement rural.
 
-Les jeunes agriculteurs ;
-
-Les salariés, aides familiaux ou associés d'exploitation, désireux de s'installer à leur compte ;
-
-Les chefs d'exploitation évincés du fait de partages ;
-
-Les agriculteurs privés de leur exploitation à la suite d'expropriation pour cause d'utilité publique et ne relevant pas des dispositions prévues au premier alinéa du présent article ou, sans faute de leur part, privés de leur exploitation, du fait de l'exercice du droit de reprise par le propriétaire ;
-
-Les agriculteurs disposant d'une superficie insuffisante du fait de partages successoraux ou de l'exercice du droit de reprise par le propriétaire ;
-
-Les agriculteurs cédant leur exploitation trop petite à une société d'aménagement foncier et d'établissement rural, en vue d'obtenir l'attribution d'une nouvelle exploitation.
+Les sociétés d'aménagement foncier et d'établissement rural peuvent céder ces biens à des personnes qui s'engagent à les louer, par bail rural, à des preneurs, personnes physiques ou morales, ayant reçu l'agrément de la société et l'accord des commissaires du Gouvernement, à condition que l'opération permette l'amélioration des exploitations, l'installation d'agriculteurs ou le maintien de ceux-ci sur leur exploitation.
