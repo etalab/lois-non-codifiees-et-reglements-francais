@@ -2,6 +2,8 @@
 
 Le contrat de location proposé en application de l'article 28 doit, à peine de nullité, reproduire les dispositions des articles 25 et 28 à 33.
 
+Le bailleur notifie, à peine de nullité de la proposition de contrat, la liste des références ayant servi à déterminer le prix proposé. Les éléments constitutifs de ces références sont fixés par décret, après avis de la Commission nationale de concertation.
+
 Dans un délai de deux mois à compter de la réception de la proposition du bailleur, le locataire ou l'occupant de bonne foi fait, le cas échéant, connaître au bailleur, en présentant les justifications, qu'il remplit les conditions de l'article 29.
 
 Dans le même délai, le locataire ou occupant de bonne foi qui ne peut se prévaloir des conditions de l'article 29 fait connaître au bailleur son acceptation ou son refus du contrat de location ainsi que, le cas échéant, le montant des travaux dont il demande le remboursement en application de l'article 32.

@@ -1,16 +1,16 @@
 # Article 4
 
-I. - Les médecins âgés de soixante ans au moins, relevant de l'un des régimes mentionnés aux articles L. 722-1 et L. 722-1-1 du code de la sécurité sociale et qui cessent définitivement toute activité médicale, salariée ou non salariée, au cours d'une période de deux ans à compter de l'entrée en vigueur de la convention ou du décret mentionnés au paragraphe III du présent article [*point de départ*], peuvent bénéficier d'une allocation visant à leur garantir un revenu de remplacement jusqu'à leur soixante-cinquième anniversaire [*âge limite*], à condition :
+I. - Les médecins âgés de soixante ans au moins relevant de l'un des régimes mentionnés aux articles L. 722-1 et L. 722-1-1 du code de la sécurité sociale et qui cessent définitivement toute activité médicale, salariée ou non salariée, au cours d'une période de deux ans à compter de l'entrée en vigueur de la convention ou du décret mentionnés au paragraphe III du présent article [*point de départ*], peuvent bénéficier du versement d'une allocation visant à leur garantir, au plus tard jusqu'à leur soixante-cinquième anniversaire [*date limite*], un revenu de remplacement, à condition de ne pas bénéficier à la date de la demande d'allocation ou pendant leur service :
 
-1° De ne pas bénéficier d'un avantage de vieillesse ou de retraite ou de ne pas faire valoir leur droit à un tel avantage [*non cumul*] :
+1° D'un avantage de retraite d'un montant supérieur à la moitié du montant de l'allocation visée à l'article L. 811-1 du code de la sécurité sociale ; ne peuvent pas prétendre au bénéfice de ces dispositions les médecins titulaires d'un avantage de retraite servi par la caisse autonome de retraite des médecins français, quel que soit son montant ;
 
-2° De ne pas bénéficier d'un avantage du régime d'assurance invalidité mentionné à l'article L. 644-2 du code de la sécurité sociale ;
-
-3° De ne bénéficier ni des dispositions du deuxième alinéa de l'article L. 643-2 ni de celles de l'article L. 643-3 du même code.
+2° D'un avantage du régime d'assurance invalidité mentionné à l'article L. 644-2 ou des dispositions de l'article L. 643-2 du code de la sécurité sociale ; les personnes qui, au titre de leurs durées de captivité ou de services militaires en temps de guerre, peuvent bénéficier des dispositions de l'article L. 643-3 du code de la sécurité sociale, sont admises à percevoir l'allocation de cessation d'activité jusqu'à l'âge auquel elles peuvent faire valoir leurs droits à retraite à taux plein en application dudit article.
 
 Cette allocation est fonction, dans la limite d'un plafond, des revenus que les intéressés tiraient antérieurement de l'activité qu'ils exerçaient dans les conditions fixées par les articles L. 722-1 et L. 722-1-1 du code de la sécurité sociale.
 
-II. - Le financement de cette allocation est assuré par une cotisation qui est à la charge :
+Le service de l'allocation cesse au premier jour du trimestre civil suivant la date à laquelle l'intéressé ne remplit plus les conditions fixées au présent paragraphe.
+
+II. - Le financement de cette allocation est assuré par une cotisation qui est à la charge [*financière*] :
 
 1° Des médecins en exercice relevant de l'un des régimes mentionnés aux articles L. 722-1 et L. 722-1-1 du code de la sécurité sociale ;
 
