@@ -1,4 +1,4 @@
-# Arrêté du 27 novembre 1985 fixant les modalités de remboursement du coût du papier et des frais d'impression exposés pour l'élection des administrateurs des caisses du régime général de sécurité sociale.
+# Arrêté du 27 novembre 1985 fixant pour l'année 1985 les taux de l'indemnité de responsabilité attribuée aux personnels de direction énumérés par l'article L. 792 (1°, 2° et 3°) du code de la santé publique.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,3 @@
 # Article 2
 
-L'arrêté du 25 août 1983 est abrogé.
+Le directeur des hôpitaux est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

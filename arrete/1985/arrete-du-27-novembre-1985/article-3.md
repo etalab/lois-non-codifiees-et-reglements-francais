@@ -1,3 +1,3 @@
 # Article 3
 
-Les préfets sont chargés de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le montant de la dotation générale de décentralisation mentionnée à l'article 2 ci-dessus est fixé à 7.834.005.311 F au titre de 1984.
