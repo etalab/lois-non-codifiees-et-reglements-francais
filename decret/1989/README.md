@@ -30,7 +30,6 @@
 - [Décret n°89-813 du 2 novembre 1989 (MAEJ8930099D)](decret-n89-813-du-2-novembre-1989-maej8930099d)
 - [Décret n°89-814 du 2 novembre 1989 (MAEJ8930100D)](decret-n89-814-du-2-novembre-1989-maej8930100d)
 - [Décret n°89-815 du 2 novembre 1989 (MAEJ8930102D)](decret-n89-815-du-2-novembre-1989-maej8930102d)
-- [Décret n°89-816 du 2 novembre 1989 (INDD8900569D)](decret-n89-816-du-2-novembre-1989-indd8900569d)
 - [Décret n°89-818 du 2 novembre 1989 (INDD8900810D)](decret-n89-818-du-2-novembre-1989-indd8900810d)
 - [Décret n°89-821 du 2 novembre 1989 (SPSH8901842D)](decret-n89-821-du-2-novembre-1989-spsh8901842d)
 - [Décret n°89-283 du 2 mai 1989 (MAEJ8930038D)](decret-n89-283-du-2-mai-1989-maej8930038d)

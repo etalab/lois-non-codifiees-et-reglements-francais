@@ -832,7 +832,6 @@
 - [Décret n°94-661 du 27 juillet 1994 (SPSP9401313D)](decret-n94-661-du-27-juillet-1994-spsp9401313d)
 - [Décret n°94-662 du 27 juillet 1994 (JUSC9420453D)](decret-n94-662-du-27-juillet-1994-jusc9420453d)
 - [Décret n°94-666 du 27 juillet 1994 (SPSH9401973D)](decret-n94-666-du-27-juillet-1994-spsh9401973d)
-- [Décret n°94-836 du 27 septembre 1994 (INDD9400917D)](decret-n94-836-du-27-septembre-1994-indd9400917d)
 - [Décret n°94-848 du 27 septembre 1994 (ECOT9420020D)](decret-n94-848-du-27-septembre-1994-ecot9420020d)
 - [Décret n°94-857 du 27 septembre 1994 (MICT9400027D)](decret-n94-857-du-27-septembre-1994-mict9400027d)
 - [Décret n°94-929 du 27 octobre 1994 (SPSH9402064D)](decret-n94-929-du-27-octobre-1994-spsh9402064d)

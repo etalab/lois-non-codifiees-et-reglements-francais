@@ -618,7 +618,6 @@
 - [Décret n°92-149 du 17 février 1992 (BUDZ9200004D)](decret-n92-149-du-17-fevrier-1992-budz9200004d)
 - [Décret n°92-150 du 17 février 1992 (COMC9200001D)](decret-n92-150-du-17-fevrier-1992-comc9200001d)
 - [Décret n°92-245 du 17 mars 1992 (JUSA9200057D)](decret-n92-245-du-17-mars-1992-jusa9200057d)
-- [Décret n°92-251 du 17 mars 1992 (JUSC9121073D)](decret-n92-251-du-17-mars-1992-jusc9121073d)
 - [Décret n°92-252 du 17 mars 1992 (SANP9200537D)](decret-n92-252-du-17-mars-1992-sanp9200537d)
 - [Décret n°92-52 du 17 janvier 1992 (AGRB9102045D)](decret-n92-52-du-17-janvier-1992-agrb9102045d)
 - [Décret n°92-53 du 17 janvier 1992 (AGRB9102226D)](decret-n92-53-du-17-janvier-1992-agrb9102226d)

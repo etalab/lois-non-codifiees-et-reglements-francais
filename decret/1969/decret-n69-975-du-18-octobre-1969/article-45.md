@@ -1,3 +1,0 @@
-# Article 45
-
-Le ministre d'Etat chargé de la défense nationale, le garde des sceaux, ministre de la justice, le ministre des affaires étrangères, le ministre de l'économie et des finances, le ministre délégué auprès du Premier ministre, chargé des départements et territoires d'outre-mer, le ministre du développement industriel et scientifique, le ministre de la santé et de la sécurité sociale, le secrétaire d'Etat à l'économie et aux finances et le secrétaire d'Etat à la moyenne et petite industrie et à l'artisanat sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
