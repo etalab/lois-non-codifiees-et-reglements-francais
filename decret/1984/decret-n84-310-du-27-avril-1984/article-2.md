@@ -1,3 +1,0 @@
-# Article 2
-
-Pour bénéficier de l'aide publique à la réinsertion, les personnes répondant aux conditions fixées à l'article 1er du présent décret doivent avoir exercé en France une activité professionnelle salariée à caractère permanent, en vertu d'un titre en cours de validité et non en raison d'un régime de libre circulation ou d'assimilation au national [*conditions d'attribution*]. Ces personnes ne peuvent, d'autre part, prétendre à cette aide si elles ont qualité soit pour obtenir de plein droit une autorisation de travail en raison de leur situation personnelle, soit pour obtenir à nouveau la délivrance d'un titre de séjour au titre du regroupement familial.
