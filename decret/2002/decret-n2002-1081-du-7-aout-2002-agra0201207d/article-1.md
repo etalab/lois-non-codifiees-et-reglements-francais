@@ -1,0 +1,3 @@
+# Article 1
+
+Sans préjudice des recrutements effectués en application du décret n° 94-1017 du 18 novembre 1994 susvisé, des recrutements dans le corps des secrétaires administratifs des services déconcentrés du ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales peuvent être organisés, à titre exceptionnel, pour une durée de trois ans à compter de la date de publication du présent décret, à concurrence de contingents fixés par arrêté conjoint des ministres chargés de l'agriculture, de la fonction publique et de l'économie et des finances, dans la limite des emplois budgétaires ouverts à cet effet en loi de finances.
