@@ -1,6 +1,6 @@
 # Article 3
 
-Pour les activités de collecte autres que la production de protéines animales transformées et de produits sanguins, les ateliers de collecte de matières premières animales ou d'origine animale et de fabrication d'aliments pour animaux de compagnie doivent comporter au minimum, en fonction des opérations réalisées :
+Pour les activités de collecte autres que la production de graisses fondues, de protéines animales transformées et de produits sanguins, les ateliers de collecte de matières premières animales ou d'origine animale et de fabrication d'aliments pour animaux de compagnie doivent comporter au minimum, en fonction des opérations réalisées :
 
 a) Un local frigorifique d'entreposage réservé aux matières premières, dont la température est maintenue entre 0 et + 7 °C ;
 
@@ -28,4 +28,6 @@ l) Un local ou un emplacement réservé au nettoyage du matériel, des bacs et d
 
 m) Un local pour le stockage des déchets ;
 
-n) Une aire de lavage et de désinfection des véhicules servant au transport des matières premières, le cas éhéant.
+n) Une aire de lavage et de désinfection des véhicules servant au transport des matières premières, le cas éhéant;
+
+o) [*supprimé*]
