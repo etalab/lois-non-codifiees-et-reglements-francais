@@ -10,11 +10,11 @@ a) Pour les classements CR 1, C 1, C 2 :
 
 - le laboratoire de la Régie autonome des transports parisiens (R.A.T.P.) ;
 
-b) Pour les essais C de nappes (NF C 32-072 ou document d'harmonisation Cenelec HD 405-3 S 1) :
+b) Pour les essais de la norme EN 50266-2-4 :
 
 - le Centre national de prévention et de protection, établissement de Vernon (C.N.P.P.) ;
 
-c) Pour les essais fumées (normes NF C 32-073-1 et NF C 32-073-2 ou documents d'harmonisation Cenelec HD 606-1 S 1 et HD 606-2 S 1) :
+c)  Pour les essais des normes NF EN 50268-1 et NF EN 50268-2 :
 
 - le laboratoire de la Régie autonome des transports parisiens (R.A.T.P.).
 
