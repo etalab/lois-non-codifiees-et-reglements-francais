@@ -300,7 +300,6 @@
 - [Décret n°90-478 du 12 juin 1990 (AGRG9001196D)](decret-n90-478-du-12-juin-1990-agrg9001196d)
 - [Décret n°90-480 du 12 juin 1990 (INTD9000067D)](decret-n90-480-du-12-juin-1990-intd9000067d)
 - [Décret n°90-481 du 12 juin 1990 (EQUU9000239D)](decret-n90-481-du-12-juin-1990-equu9000239d)
-- [Décret n°90-482 du 12 juin 1990 (AGRP9000676D)](decret-n90-482-du-12-juin-1990-agrp9000676d)
 - [Décret n°90-52 du 12 janvier 1990 (ECOT8950506D)](decret-n90-52-du-12-janvier-1990-ecot8950506d)
 - [Décret n°90-53 du 12 janvier 1990 (TEFT9003006D)](decret-n90-53-du-12-janvier-1990-teft9003006d)
 - [Décret n°90-607 du 12 juillet 1990 (TEFT9003614D)](decret-n90-607-du-12-juillet-1990-teft9003614d)
