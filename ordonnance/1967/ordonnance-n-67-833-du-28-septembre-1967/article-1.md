@@ -1,5 +1,5 @@
 # Article 1
 
-Il est institué une commission des opérations de bourse qui est chargée de contrôler l'information des porteurs de valeurs mobilières et du public sur les sociétés qui font publiquement appel à l'épargne et sur les valeurs émises par ces sociétés ainsi que de veiller au bon fonctionnement des bourses de valeurs [*attributions*].
+Il est institué une Commission des opérations de bourse chargée de veiller à la protection de l'épargne investie en valeurs mobilières ou tous autres placements donnant lieu à appel public à l'épargne, à l'information des investisseurs et au bon fonctionnement des marchés de valeurs mobilières ou de produits financiers cotés [*attributions*].    Ne sont pas soumis au contrôle de la commission les marchés d'instruments créés en représentation des opérations de banque ou de bons ou billets à court terme négociables visés par l'article 1er et le 4° de l'article 12 de la loi n° 84-46 du 24 janvier 1984 et les marchés placés sous la surveillance de la Banque de France en application de la loi n° 73-7 du 3 janvier 1973.
 
-Les frais de fonctionnement de la commission sont pris en charge par l'Etat.
+La commission perçoit sur les personnes publiques ou privées des redevances, dans la mesure où ces personnes physiques ou privées rendent nécessaire ou utile l'intervention de la commission ou dans la mesure où elles y trouvent leur intérêt. Un décret en Conseil d'Etat fixe les modalités d'application du présent alinéa.
