@@ -545,6 +545,7 @@
 - [Arrêté du 17 mars 1994 (MENL9400500A)](arrete-du-17-mars-1994-menl9400500a)
 - [Arrêté du 17 mars 1994 (MENL9400502A)](arrete-du-17-mars-1994-menl9400502a)
 - [Arrêté du 17 mars 1994 (RESM9400431A)](arrete-du-17-mars-1994-resm9400431a)
+- [Arrêté du 17 octobre 1994 (BUDF9400019A)](arrete-du-17-octobre-1994-budf9400019a)
 - [Arrêté du 17 mai 1994 (AGRG9400931A)](arrete-du-17-mai-1994-agrg9400931a)
 - [Arrêté du 17 mai 1994 (SPSS9401428A)](arrete-du-17-mai-1994-spss9401428a)
 - [Arrêté du 18 août 1994 (AGRS9401638A)](arrete-du-18-aout-1994-agrs9401638a)
