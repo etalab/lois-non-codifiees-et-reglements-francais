@@ -1,3 +1,0 @@
-# OPERATIONS A CARACTERE DEFINITIF.
-
-- [Article 33](article-33.md)

@@ -1,5 +1,0 @@
-# Article 1
-
-Les travailleurs atteints de l'une des maladies énumérées au tableau de la silicose et de l'asbestose professionnelles qui, ayant fait constater pour la première fois leur état avant le 1er janvier 1947, ont obtenu une indemnité de changement d'emploi ou une rente d'incapacité permanente, peuvent obtenir en cas d'aggravation, dont la première constatation médicale est postérieure à l'expiration des délais prévus à l'article 10 de l'ordonnance du 2 août 1945, une nouvelle fixation   des réparations s'il est établi, par ordonnance sans appel du président du tribunal de grande instance du lieu de la dernière exposition au risque (le fonds commun des accidents du travail survenus dans la métropole entendu), que l'aggravation donnerait lieu à une nouvelle fixation des indemnités en vertu des dispositions de la loi du 30 octobre 1946 sur la prévention et la réparation des accidents du travail et des maladies professionnelles, si cette loi était applicable.
-
-Les dispositions de l'alinéa précédent sont applicables aux ayants droit, en cas de décès de la victime par suite des conséquences de la maladie professionnelle.

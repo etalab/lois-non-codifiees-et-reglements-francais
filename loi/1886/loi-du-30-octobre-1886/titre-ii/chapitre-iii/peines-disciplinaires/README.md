@@ -1,3 +1,0 @@
-# Peines disciplinaires
-
-- [Récompenses.](recompenses)

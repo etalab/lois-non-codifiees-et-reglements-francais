@@ -1,3 +1,0 @@
-# Article 4
-
-Dans le délai d'un an, à partir de la promulgation de la présente loi, les biens mobiliers et immobiliers des menses, fabriques, conseils presbytéraux, consistoires et autres établissements publics du culte seront, avec toutes les charges et obligations qui les grèvent et avec leur affectation spéciale, transférés par les représentants légaux de ces établissements aux associations qui, en se conformant aux règles d'organisation générale du culte dont elles se proposent d'assurer l'exercice, se seront légalement formées, suivant les prescriptions de l'article 19, pour l'exercice de ce culte dans les anciennes circonscriptions desdits établissements.

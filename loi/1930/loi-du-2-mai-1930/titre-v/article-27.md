@@ -1,3 +1,0 @@
-# Article 27
-
-Un règlement d'administration publique contresigné du ministre des finances et du ministre des affaires culturelles déterminera les détails d'application de la présente loi, et notamment la composition et le mode d'élection des membres, autres que les membres de droit, des commissions prévues aux articles 1er et 3, ainsi que les dispositions spéciales relatives à la commission des monuments naturels et des sites du département de Paris et de la région parisienne , les attributions de la section permanente des commissions départementales et les indemnités de déplacement qui pourront être allouées aux membres des différentes commissions.

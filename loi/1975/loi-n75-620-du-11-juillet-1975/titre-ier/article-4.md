@@ -1,5 +1,0 @@
-# Article 4
-
-Tous les enfants reçoivent dans les collèges une formation secondaire. Celle-ci succède sans discontinuité à la formation primaire en vue de donner aux élèves une culture accordée à la société de leur temps. Elle repose sur un équilibre des disciplines intellectuelles, artistiques, manuelles, physiques et sportives et permet de révéler les aptitudes et les goûts. Elle constitue le support de formations générales ou professionnelles ultérieures, que celles-ci la suivent immédiatement ou qu'elles soient donnés dans le cadre de l'éducation permanente.
-
-Les collèges dispensent un enseignement commun, réparti sur quatre niveaux successifs. Les deux derniers peuvent comporter aussi des enseignements complémentaires dont certains préparent à une formation professionnelle ; ces derniers peuvent comporter des stages contrôlés par l'Etat et accomplis auprès de professionnels agréés. La scolarité correspondant à ces deux niveaux et comportant obligatoirement l'enseignement commun peut être accomplie dans des classes préparatoires rattachées à un établissement de formation professionnelle.

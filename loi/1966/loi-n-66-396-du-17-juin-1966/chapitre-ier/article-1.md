@@ -1,3 +1,0 @@
-# Article 1
-
-Sont amnistiées de plein droit les condamnations définitives pour crimes ou délits commis en relation directe avec les événements d'Algérie ainsi que pour crimes ou délits constituant une entreprise individuelle ou collective tendant à empêcher l'exercice de l'autorité de l'Etat ou à substituer à cette autorité une autorité illégale, ou commis en relation directe avec une telle entreprise, si les auteurs de ces infractions ont été punis d'une peine d'amende avec ou sans sursis ou d'une peine d'emprisonnement avec sursis, assortie ou non d'une amende, ou si, condamnés à une peine privative de liberté, ils ont été libérés avant la date de promulgation de la présente loi.

@@ -1,3 +1,0 @@
-# Article 2
-
-Par un crédit prévisionnel de 10 milliards imputable tant sur les crédits ouverts par la loi n° 51-1486 du 31 décembre 1951 relative au développement des crédits affectés aux dépenses de fonctionnement des services civils pour l'exercice 1952 (anciens combattants et victimes de la guerre) que sur des crédits à ouvrir sur des exercices ultérieurs, il est alloué aux prisonniers de la guerre 1939-1945 ou à leurs ayants cause un pécule de 400 frs par mois de capacité, dont les conditions d'attribution seront fixées par arrêté du ministre des anciens combattants et victimes de la guerre, du ministre des finances et des affaires économiques et du secrétaire d'Etat au budget.

@@ -1,3 +1,0 @@
-# Article 16
-
-Dans toutes dispositions législatives et notamment aux articles 177, 194, 197, 207, 209, 221 à 223, 397, 714 et 716 et à l'intitulé du chapitre Ier du titre II du live V du code de procédure pénale, ainsi qu'aux articles 26 et 31 de la loi n° 63-23 du 15 janvier 1963 fixant la composition, les règles de fonctionnement et la procédure de la cour de sûreté de l'Etat, les mots "préventivement détenus" sont remplacés par les mots "provisoirement détenus", les mots "détention préventive" sont remplacés par les mots "détentions provisoire" et les mots "liberté provisoire" sont remplacés par le mot "liberté".

@@ -1,5 +1,0 @@
-# Article 9
-
-S'il existe à la fois une veuve ayant droit à pension dans les conditions de l'article 8 et des enfants d'un ou de plusieurs autres lits, ou des enfants naturels reconnus, âgés de moins de seize ans, la pension prévue à l'article précédent est partagée entre eux et la veuve.
-
-Pour le calcul de leurs droits respectifs, la pension est partagée également et par tête entre tous les enfants et la veuve, cette dernière ayant droit à deux parts. La part de chacun des enfants des précédents lits ou des enfants naturels est inscrite à son nom ; celles des enfants de la veuve forment avec les deux parts de la veuve la pension de celle-ci. En aucun cas, la pension de la veuve ne peut être inférieure à la moitié de la pension totale. Quand il y a lieu à l'application de cette dernière règle, l'autre moitié de la pension totale est partagée entre les enfants des autres lits ou les enfants naturels. Les parts des enfants qui décèdent ou atteignent l'âge de seize ans accroissent la part de la veuve.

@@ -1,3 +1,0 @@
-# EXONERATION DES SALAIRES VERSES AUX APPRENTIS.
-
-- [Article 4](article-4.md)

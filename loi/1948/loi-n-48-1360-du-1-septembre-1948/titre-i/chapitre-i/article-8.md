@@ -1,3 +1,0 @@
-# Article 8
-
-Le maintien dans les lieux est accordé aux personnes morales occupant des locaux à usage professionnel ainsi qu'aux personnes morales exerçant une activité désintéressée, notamment aux associations déclarées et aux syndicats professionnels si ces personnes remplissent les conditions prévues à l'article 4. Toutefois, le droit au maintien dans les lieux, reconnu aux personnes morales exerçant une activité désintéressée ne sera en aucun cas opposable au propriétaire de nationalité française qui veut habiter par lui-même son immeuble ou le faire habiter par son conjoint, ses ascendants ou descendants, ou par ceux de son conjoint.

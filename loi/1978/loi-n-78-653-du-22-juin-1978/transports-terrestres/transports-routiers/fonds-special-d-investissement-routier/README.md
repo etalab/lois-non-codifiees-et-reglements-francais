@@ -1,3 +1,0 @@
-# FONDS SPECIAL D'INVESTISSEMENT ROUTIER.
-
-- [Article 5](article-5.md)

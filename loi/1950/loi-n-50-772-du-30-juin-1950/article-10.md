@@ -1,3 +1,0 @@
-# Article 10
-
-Des règlements à intervenir dans un délai de six mois à compter de la promulgation de la présente loi fixeront les détails d'application des dispositions ci-dessus. Ils abrogeront expressément toutes dispositions antérieure contraires à la présente loi, notamment celles des décrets n° 48-1646 du 20 octobre 1948, n° 48-1817 du 30 novembre 1948, n° 49-529 du 15 avril 1949, n° 49-1026 du 27 juillet 1949, n° 49-1029 du 27 juillet 1949, n° 49-1622 du 28 décembre 1949, n° 40-1624 du 28 décembre 1949, n° 49-1677 du 28 décembre 1949, relatives à l'origine des fonctionnaires pour ha détermination des droits au congé administratif, aux allocations familiales et à la majoration dite indemnité de dépaysement.

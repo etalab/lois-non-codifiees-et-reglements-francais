@@ -1,3 +1,0 @@
-# Article 59
-
-Les travaux de recherches et d'exploitation des mines, minières et carrières soumis aux dispositions du Code minier, les travaux de recherche et d'exploitation des stockages souterrains de gaz soumis aux dispositions de l'ordonnance n° 58-1132 du 25 novembre 1958, les travaux de recherche et d'exploitation des stockages souterrains d'hydrocarbures liquides ou liquéfiés soumis aux dispositions de l'ordonnance n° 58-1332 du 23 décembre 1958, sont dispensés des déclarations, autorisations, mesures de transformation et limitation prévues par les articles 40, 47, 48 et 49 ci-dessus, mais sont soumis aux dispositions de la présente loi non contraires aux textes qui les régissent.

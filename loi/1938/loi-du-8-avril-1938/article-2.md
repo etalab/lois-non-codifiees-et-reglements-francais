@@ -1,5 +1,0 @@
-# Article 2
-
-Le nombre des délégués à la sécurité est fixé à trois titulaires (deux ouvriers de fabrication et un ouvrier professionnel) et deux suppléants (un ouvrier de fabrication et un ouvrier professionnel) par établissement principal. Pour les centres de ravitaillement en essence, le nombre des délégués sera limité à un titulaire et un suppléant (ouvriers professionnels ou manoeuvres). Les délégués sont élus pour deux ans par tout le personnel ouvrier et employé de l'établissement et, le cas échéant, ses annexes, au scrutin secret, parmi les ouvriers en fonction comptant au moins cinq ans   de services effectifs dans l'établissement ou dans des établissements de même catégorie.
-
-Pour les établissements ayant moins de cinq ans d'existence ou réouverts depuis moins de cinq ans, les premiers délégués seront élus parmi les ouvriers en fonction comptant au moins six mois de services effectifs dans l'établissement ; aux élections suivantes, et jusqu'à ce que le régime normal visé au-dessus puisse être appliqué, les délégués seront élus parmi ceux comptant au moins deux ans de services effectifs.

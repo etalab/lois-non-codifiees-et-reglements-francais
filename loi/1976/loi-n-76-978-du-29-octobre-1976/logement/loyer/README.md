@@ -1,3 +1,0 @@
-# LOYER
-
-- [PRIX.](prix)

@@ -1,3 +1,0 @@
-# Article 2
-
-Les ingénieurs des ponts et chaussées et les agents placés sous leurs ordres ne reçoivent aucune rémunération, à titre soit d'honoraires ou de vacations, soit de frais de voyage et de séjour, à la charge des communes, associations ou particuliers intéressés, lorsque leur déplacement et leurs opérations ont pour objet les vérifications ou constatations à faire, dans l'intérêt public, pour assurer l'exécution des lois et règlements généraux ou particuliers. Il n'est pas dérogé par la présente loi aux dispositions spéciales d'après lesquelles sont réglés les frais relatifs au contrôle et à la surveillance des transports publics concédés.

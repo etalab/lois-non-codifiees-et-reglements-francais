@@ -1,3 +1,0 @@
-# Article 3
-
-L'emploi du mot "bronze", même précédé ou suivi d'une autre appellation et servant à désigner une matière ne correspondant pas à la composition spécifiée à l'article 1er, de même que l'incorporation du mot "bronze" dans une appellation quelconque et l'emploi de toutes indications ou signes susceptibles de tromper l'acheteur sur la nature et la qualité substantielle de la matière mise en vente, est interdit en toutes circonstances et sous quelque forme que ce soit, notamment sur les emballages, étiquettes, papiers de commerce, factures, catalogues, prospectus, prix courant en tout autre moyen de publicité en général.

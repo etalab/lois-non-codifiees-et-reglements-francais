@@ -1,5 +1,0 @@
-# Article 68
-
-Il est institué dans chaque région un comité des prêts comportant une majorité d'élus régionaux, départementaux et communaux désignés respectivement par la région, les départements et les communes. Ce comité déterminera les orientations générales des prêts à consentir par la caisse des dépôts et consignations et par la caisse d'aide à l'équipement des collectivités locales pour les équipements publics des établissements publics régionaux, des collectivités locales et de leurs groupements. Il peut être consulté sur les décisions d'attribution des prêts relatifs aux équipements d'intérêt régional dans des conditions fixées par un décret en Conseil d'Etat qui précisera en outre l'organisation de ces comités.
-
-Lorsque l'une des collectivités publiques mentionnées à l'alinéa précédent n'a pas pu obtenir de la caisse des dépôts et consignations ou de la caisse d'aide à l'équipement des collectivités locales le prêt sollicité, elle peut en référer au comité régional des prêts. Celui-ci peut demander à la caisse concernée un nouvel examen de la demande.

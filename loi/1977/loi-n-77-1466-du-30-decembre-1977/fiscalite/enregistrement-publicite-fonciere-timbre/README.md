@@ -1,3 +1,0 @@
-# ENREGISTREMENT, PUBLICITE FONCIERE, TIMBRE
-
-- [EXONERATION DE DROITS D'ENREGISTREMENT POUR CERTAINS TRANSFERTS DE BIENS, DROITS ET OBLIGATIONS.](exoneration-de-droits-d-enregistrement-pour-certains-transferts-de-biens-droits-et)

@@ -1,4 +1,0 @@
-# TAXE PROFESSIONNELLE - FINANCEMENT DES ACTIONS DE FORMATION CONTINUE.
-
-- [Article 20](article-20.md)
-- [Article 67](article-67.md)

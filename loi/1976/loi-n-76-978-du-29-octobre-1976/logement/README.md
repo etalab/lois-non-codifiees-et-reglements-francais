@@ -1,3 +1,0 @@
-# LOGEMENT
-
-- [LOYER](loyer)

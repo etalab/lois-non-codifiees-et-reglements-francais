@@ -1,5 +1,0 @@
-# Article 71
-
-Les loyers des locaux visés à l'article précédent seront, à compter du 1er janvier 1949, déterminés conformément aux dispositions du présent titre.
-
-Toutefois, lorsque la part des dépenses de reconstruction, d'amélioration ou de réparation restant à la charge des propriétaires dépasse en moyenne 30 F par pièce principale, telle que ladite pièce principale est définie par les textes pris en application de l'article 3 de l'ordonnance du 11 octobre 1945, les propriétaires sont autorisés à percevoir en sus du loyer fixé comme il est dit ci-dessus, une majoration de loyer pouvant atteindre au plus l'intérêt calculé au taux de 6 p. 100 des sommes correspondant à la quote-part des dépenses de reconstruction, de réparation ou d'amélioration, laissées à leur charge ou non encore remboursées par l'Etat au titre des dommages de guerre. Dans ce cas, la majoration autorisée de l'ensemble des loyers doit être répartie entre toutes les personnes qui habitent l'immeuble au prorata du nombre de pièces principales qu'elles occupent. Cependant, en cas d'amélioration, cette répartition ne joue qu'à l'égard des personnes qui ont bénéficié des travaux exécutés.

@@ -1,5 +1,0 @@
-# Article 3
-
-Sous réserve des dispositions transitoires prévues ci-après, sont abrogées les dispositions du code des pensions civiles et militaires de retraite (partie législative) en vigueur avant la date d'effet de la présente loi, à l'exception de celles des articles L. 8, deux derniers alinéas, L. 9, premier alinéa et 1°, L. 18, premier alinéa, 1°, premier alinéa du 2° et le 3°, L. 19, L. 20, L. 21, L. 22, L. 23, dernier alinéa, L. 56, quatrième et cinquième alinéas, L. 69, L. 70, L. 73, première phrase, L. 75, L. 95, L. 96, L. 97, L. 101, L. 104, deuxième alinéa, L. 105, L. 106, L. 107, L. 108, L. 109, L. 110, L. 111-1, L. 112, L. 112 bis, L. 113, L. 114, L. 117, L. 117 bis, L. 118, L. 118 bis, L. 121, L. 122, L. 122 bis, L. 123, L. 126, L. 127, premier et deuxième alinéas, L. 131, L. 134, L. 137, L. 138, L. 145, L. 146, L. 149, L. 150, L. 151, L. 152, L. 153, L. 155, L. 157, L. 158, L. 159, L. 160, L. 161, qui feront l'objet de textes réglementaires prenant effet au 1er décembre 1964.
-
-Est également abrogé l'article 31 de la loi n° 53-285 du 4 avril 1953.

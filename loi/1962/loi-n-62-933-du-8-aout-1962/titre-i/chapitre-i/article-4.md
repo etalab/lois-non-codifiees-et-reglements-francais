@@ -1,3 +1,0 @@
-# Article 4
-
-Pourront être cédés de gré à gré, dans les conditions fixées par décret en Conseil d'Etat, à des personnes de droit privé ou de droit public, et sous condition que les cessionnaires les utilisent aux fins prescrites par le cahier des charges annexé à l'acte de cession, les terrains nus ou bâtis, expropriés en vue de permettre la construction d'habitations individuelles ou collectives avec leurs installations annexes à l'intérieur des secteurs de construction définis à l'article 4 du décret n° 58-1463 du 31 décembre 1958 ou des périmètres de construction définis à l'article 5-1 du même décret modifié par le décret n° 62-460 du 13 avril 1962, sur avis de la commission départementale de l'aménagement foncier.

@@ -1,5 +1,0 @@
-# Article 3
-
-Les institutions gérant l'assurance invalidité dans les conditions prévues au chapitre IV, titre II du livre III du code de la sécurité sociale et à l'article 1039 du code rural ainsi que les institutions gérant le même risque qui relèvent des régimes spéciaux visés à l'article 3 du titre 1er du livre Ier du code de la sécurité sociale, sont tenues d'avancer les arrérages des pensions d'invalidité au montant fixé par les régimes français pour un même degré d'invalidité, en faveur des personnes de nationalité française, résidant en France, titulaires de droits acquis ou éventuels auprès d'institutions algériennes poursuivant le même objet, au titre des services accomplis en Algérie avant le 1er juillet 1962, lorsque les intéressés ne bénéficient pas des avantages auxquels ils peuvent prétendre de la part desdites institutions.
-
-Le rattachement au régime français correspondant s'effectuera en fonction du régime de sécurité sociale qui était applicable en Algérie aux services accomplis sur ce territoire.

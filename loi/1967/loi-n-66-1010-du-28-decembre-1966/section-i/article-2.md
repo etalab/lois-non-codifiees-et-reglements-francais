@@ -1,3 +1,0 @@
-# Article 2
-
-En cas d'indexation totale ou partielle du prêt dans les conditions prévues par les textes en vigueur, le taux effectif global est apprécié sans tenir compte des majorations des prestations dues par l'emprunteur, résultant de variations de l'indice postérieures à la date de la remise des fonds prêtés. Dans ce cas, le taux effectif moyen pris comme référence est celui qui est demandé pour des opérations de même nature comportant des risques analogues, mais non indexées. Ce prêt est usuraire si son taux effectif global est supérieur, soit au taux effectif moyen ainsi défini, soit au taux moyen de rendement, visé au troisième alinéa de l'article 1er, majoré des deux tiers.

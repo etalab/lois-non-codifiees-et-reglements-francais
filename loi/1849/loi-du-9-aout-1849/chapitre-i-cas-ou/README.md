@@ -1,3 +1,0 @@
-# CHAPITRE I : CAS OU L'ETAT DE SIEGE PEUT ETRE DECLARE.
-
-- [Article 1](article-1.md)

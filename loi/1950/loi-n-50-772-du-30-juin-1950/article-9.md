@@ -1,3 +1,0 @@
-# Article 9
-
-Dans un délai de six mois, il sera procédé, suivant le cas, par décret pris sur le rapport du ministre de la France d'outre-mer, du ministre chargé de la fonction publique et du ministre des finances, ou par arrêté du haut commissaire ou chef de territoire soumis à l'approbation préalable du ministre de la France d'outre-mer, à toutes les modifications de la réglementation en vigueur qui seraient nécessaires pour assurer la conformité de cette réglementation aux prescriptions de la présente loi, de telle façon que le total des dépenses de personnel à la charge de chacun des différents budgets intéressés ne puisse s'en trouver augmenté pendant la durée de l'exercice courant.

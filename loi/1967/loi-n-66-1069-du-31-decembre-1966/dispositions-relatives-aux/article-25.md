@@ -1,5 +1,0 @@
-# Article 25
-
-Il ne peut être fait appel à des personnels extérieurs aux personnels des communes, des syndicats de communes ou des districts inclus dans la communauté dont tout ou partie des services sont transférés, pour pourvoir les emplois de la communauté qu'à défaut de candidats issus des personnels desdits communes, syndicats et districts. Dans tous les cas et quels que soient les grades ou emplois concernés, les qualifications exigées devront être conformes à celles prévues par les dispositions du statut général du personnel communal défini par la loi du 28 avril 1952 et par les textes subséquents.
-
-Dans le cas ou, après constitution des services de la communauté et réorganisation consécutive des services des communes, un certain nombre d'agents se trouveraient non pourvus d'emplois, ils seraient maintenus en surnombre dans leur cadre d'origine jusqu'à leur reclassement éventuel en priorité dans l'un des emplois vacants similaires de la communauté ou des communes du département, sous réserve qu'ils remplissent les conditions d'aptitude nécessaires.

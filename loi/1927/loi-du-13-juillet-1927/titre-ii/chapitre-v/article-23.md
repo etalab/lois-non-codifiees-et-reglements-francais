@@ -1,5 +1,0 @@
-# Article 23
-
-Les militaires appelés sont affectés, selon les ordres du ministre chargé de la défense nationale, aux divers corps de troupe ou formations ; ils y reçoivent l'instruction correspondant à cette affectation et y assurent le service dans les conditions fixées par les règlements en vigueur. Ils ne peuvent, s'ils appartiennent au service armé, être utilisés à l'extérieur du corps qu'accidentellement, lorsque l'intérêt public l'exige, et par unités encadrées. Pendant les périodes de présence dans les unités d'instruction, aucune recrue ne peut être enlevée à l'instruction pour être employée ailleurs qu'au dressage technique spécial de l'arme ou de la spécialité.
-
-Les militaires appelés demeurent affectés pendant toute la durée du service actif aux unités dans lesquelles ils ont été incorporés et instruits. A leur passage dans la disponibilité et la première réserve, ils restent, dans la mesure du possible, affectés à ces unités ou à l'une de celles qui en dérivent à la mobilisation.

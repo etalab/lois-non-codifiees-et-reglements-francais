@@ -1,3 +1,0 @@
-# LIVRE II : CONTROLE DE L'APPLICATION DE LA LEGISLATION ET DE LA REGLEMENTATION DU TRAVAIL
-
-- [Inspection du travail.](inspection-du-travail)

@@ -1,3 +1,0 @@
-# Article 4
-
-A peine de nullité l'objet des sociétés coopératives de messageries de presse est limité aux seules opérations de distribution et de groupage des journaux et publications périodiques, édités par les associés de la société coopérative. Toutefois, cette limitation ne fait pas obstacle à l'accomplissement des opérations commerciales relatives à l'utilisation des divers éléments du matériel qu'elles emploient à cet effet. Si les sociétés coopératives décident de confier l'exécution de certaines opérations matérielles à des entreprises commerciales, elles devront s'assurer une participation majoritaire dans la direction de ces entreprises, leur garantissant l'impartialité de cette gestion et la surveillance de leurs comptabilités.

@@ -1,5 +1,0 @@
-# Article 71
-
-La convention collective doit être écrite en langue française à peine de nullité. Le chef de groupe de territoires, de territoire non groupé ou sous tutelle détermine par arrêtés, pris après avis de la commission consultative du travail, les conditions dans lesquelles sont déposées, publiées et traduites les conventions collectives, ainsi que les conditions dans lesquelles s'effectuent les adhésions prévues au dernier paragraphe de l'article précédent. Ces arrêtés seront soumis à l'approbation du ministre de la France d'outre-mer.
-
-Les conventions collectives sont applicables, sauf stipulation contraire, à partir du jour qui suit leur dépôt dans les conditions et aux lieux qui seront indiqués par les arrêtés susvisés. Si la décision du ministre de la France d'outre-mer n'est pas intervenue à l'expiration du délai de trois mois à compter de la date des arrêtés susvisés, ces textes seront considérés comme approuvés et le chef de territoire ou le chef de fédération les publiera sans délai au Journal officiel local.

@@ -1,3 +1,0 @@
-# TRAVAIL
-
-- [SALAIRES.](salaires)

@@ -1,5 +1,0 @@
-# Article 10
-
-Les porteurs de parts de fondateur ou de parts bénéficiaires ne peuvent contester la dissolution anticipée de la société lorsque celle-ci a lieu à la suite de pertes absorbant le quart au moins du capital social, après imputation préalable des réserves.
-
-Si la dissolution anticipée est proposée en dehors du cas de perte ci-dessus prévu par suite de fusion ou pour toute autre cause, la proposition de dissolution anticipée sera soumise à une assemblée générale des porteurs de parts, réunie conformément à l'article 6. Si l'assemblée approuve la dissolution, toute action des porteurs de parts est éteinte, de ce chef, contre la société. Au cas contraire, la décision de l'assemblée générale des actionnaires portant dissolution anticipée n'en est pas moins valable dans ses effets, mais les porteurs de parts conservent, à l'égard de la société, une action éventuelle en dommages-intérêts, qu'ils ne peuvent exercer que collectivement, par l'organe de leurs représentants, et qui doit être engagée, sous peine de forclusion, dans les six mois qui suivront la date de l'assemblée générale des actionnaires prononçant la dissolution anticipée.

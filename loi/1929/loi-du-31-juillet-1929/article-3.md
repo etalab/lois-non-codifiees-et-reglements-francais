@@ -1,3 +1,0 @@
-# Article 3
-
-En cas d'infraction aux règlements d'administration prévus à l'article 1er de la présente loi, les agents chargés de son application, avant de dresser procès-verbal, mettent les chefs d'exploitation en demeure de se conformer auxdits règlements. La mise en demeure [*formalités*] indique les contraventions constatées et fixe un délai à l'expiration duquel ces contraventions devront avoir disparu. Ce délai, qui ne pourra en aucun cas être inférieur à trois mois ni supérieur à six, devra être fixé en tenant compte des circonstances à partir du minimum établi pour chaque cas par les règlements d'administration publique.

@@ -1,3 +1,0 @@
-# Article 21
-
-Le conseil de l'ensemble urbain, constitué dans les conditions prévues au a) de l'article 20 de la présente loi, cesse de plein droit d'exercer ses fonctions quatre mois après [*délai*] la création de l'ensemble urbain pour être remplacé par un conseil dont les membres sont désignés dans les conditions fixées au b) dudit article, lorsque à l'expiration du délai mentionné ci-dessus il n'a pas, de son fait, passé la convention [*avec l'un des organismes mentionnés à l'article 78-1 du code de l'urbanisme et de l'habitation, devenu C.URB. L321-1*] visée à l'article 10 de la présente loi.

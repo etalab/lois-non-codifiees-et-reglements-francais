@@ -1,3 +1,0 @@
-# Article 2
-
-Les dispositions des articles 69 et 69 a du livre 1er du Code du travail ne s'appliquent pas aux comptables de l'Etat, des départements, des communes et des établissements charitables, qui versent d'office à la Caisse des dépôts et consignations les retenues effectuées sur les appointements ou traitements civils ou militaires, en vertu d'oppositions. Mais la Caisse des dépôts et consignations fera remettre au greffier, sur la demande de celui-ci et par l'intermédiaire du percepteur, les sommes nécessaires aux répartitions de ces oppositions, lorsque le siège du greffe ne sera pas à la résidence d'un préposé de la Caisse des dépôts et consignations.

@@ -1,3 +1,0 @@
-# Article 2
-
-Lorsque après remboursement des dettes sociales, y compris les avances de toute nature consenties par l'Etat et la chambre syndicale, des frais de liquidation et de la fraction libérée des parts sociales, la dissolution ou la liquidation d'une banque populaire fait apparaître un excédent d'actif, le montant de cet excédent est versé au fonds collectif de garantie instituée par l'article 6 de la loi du 13 août 1936. Toutefois, la chambre syndicale peut avec l'agrément du ministre de l'économie et des finances, lui donner pour tout ou partie une autre affectation conforme aux intérêts du crédit populaire.

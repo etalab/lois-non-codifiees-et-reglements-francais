@@ -1,3 +1,0 @@
-# Article 19
-
-Pour la mise en oeuvre de leur mission de formation continue, les établissements scolaires publics s'associent en groupement d'établissements, sous réserve de conditions locales particulières définies par décret. A cette fin, les établissements peuvent constituer, pour une durée déterminée, un groupement d'intérêt public. Les dispositions de l'article 21 de la loi n° 82-610 du 15 juillet 1982 d'orientation et de programmation pour la recherche et le développement technologique de la France lui sont applicables. Toutefois, le directeur du groupement d'intérêt public est nommé par le ministre de l'éducation nationale. Le groupement d'intérêt public ainsi constitué est soumis aux règles du droit et de la comptabilité publics.

@@ -1,3 +1,0 @@
-# TITRE VI : DE LA FORMATION PROFESSIONNELLE CONTINUE.
-
-- [Article 74](article-74.md)

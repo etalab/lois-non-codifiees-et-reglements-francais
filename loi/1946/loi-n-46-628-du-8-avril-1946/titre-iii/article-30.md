@@ -1,3 +1,0 @@
-# Article 30
-
-Chaque année, trois mois au plus tard après les avis reçus de la chambre des comptes prévue à l'article 29, et, en tout état de cause, avant le 31 décembre qui suit la clôture de l'exercice précédent, le ministre chargé de la production industrielle dépose, sur le bureau du Parlement, un rapport sur la situation de l'Electricité et du Gaz de France. Les rapports et les comptes des conseils d'administration, des commissaires aux comptes, les avis de la chambre des comptes, les décisions prises sur ces comptes rendus par les organismes qualifiés pour donner quitus seront annexés à ce rapport.

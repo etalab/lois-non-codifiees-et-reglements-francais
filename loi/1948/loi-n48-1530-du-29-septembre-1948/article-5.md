@@ -1,3 +1,0 @@
-# Article 5
-
-Les détails des conditions dans lesquelles les fonctionnaires des ponts et chaussées peuvent être autorisés à donner leur concours aux collectivités et établissements publics énumérés au premier alinéa de l'article 3 ci-dessus, ainsi que le mode de rémunération de ces fonctionnaires pour ces travaux supplémentaires, seront réglés par des arrêtés concertés du ministre chargé de la fonction publique, du ministre des travaux publics, des transports et du tourisme, du ministre des finances et des affaires économiques et du ministre de qui relèvent les collectivités ou organismes intéressés.

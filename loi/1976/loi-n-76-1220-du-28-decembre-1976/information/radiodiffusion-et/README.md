@@ -1,3 +1,0 @@
-# RADIODIFFUSION ET TELEVISION
-
-- [REDEVANCES POUR LES USAGERS](redevances-pour-les-usagers)

@@ -1,5 +1,0 @@
-# Article 5
-
-Toute personne visée à l'article 1er ci-dessus qui, en dehors des cas prévus aux articles précédents, aura enfreint les règles relatives à l'exécution des recettes et des dépenses de l'Etat ou des collectivités, établissements et organismes visés à l'article 1er ou à la gestion des biens leur appartenant ou qui, chargée de la tutelle desdites collectivités, desdits établissements ou organismes, aura donné son approbation aux décisions incriminées, sera passible d'une amende dont le minimum ne pourra être inférieur à 100 francs et dont le maximum pourra atteindre le montant du traitement ou salaire brut annuel qui lui était alloué à la date del'infraction.
-
-Lorsque les faits incriminés constituent une gestion occulte au sens du paragraphe XI de l'article 60 de la loi n° 63-156 du 23 février 1963, la Cour des comptes peut déférer à la Cour de discipline budgétaire et financière les comptables de fait quand leurs agissements ont entraîné des infractions prévues par la présente loi.

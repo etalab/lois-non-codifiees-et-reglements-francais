@@ -1,5 +1,0 @@
-# Article 11
-
-La communauté urbaine est substituée de plein droit, pour l'exercice de ses compétences, aux communes, syndicats ou districts préexistants constitués entre tout ou partie des communes qui la composent. Elle est également substituée pour l'exercice de ces seules compétences aux communes qui en font partie lorsque celles-ci sont groupées avec des communes extérieures à la communauté ; cette disposition n'entraîne aucune modification quant aux attributions et au périmètre des syndicats de communes ou des districts intéressés.
-
-Dans le cas où la totalité des attributions préalablement exercées par un district ou un syndicat sont transférées à la communauté urbaine, le district ou syndicat se trouve dissous de plein droit lorsque celui-ci ne comprend pas de communes extérieures à la communauté. Des décrets en Conseil d'Etat fixent, sauf accord amiable et sous la réserve des droits des tiers, les conditions dans lesquelles s'opère la cessation d'activité des syndicats ou districts et leur liquidation.

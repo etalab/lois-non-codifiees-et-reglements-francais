@@ -1,5 +1,0 @@
-# Article 2
-
-Lorsque le plan de répartition des biens de presse a prévu l'attribution des biens sinistrés, la reconstitution desdits biens est poursuivie par la Société nationale des entreprises de presse dans les conditions fixées par la loi n° 46-2389 du 28 octobre 1946 sur les dommages de guerre, les dépenses excédant l'indemnité versée par l'Etat étant supportées par l'entreprise au profit et à la demande de laquelle la reconstitution est effectuée.
-
-Dans les contrats de vente passés conformément à l'article 8 de la loi du 2 août 1954 qui interviendront postérieurement à la promulgation de la présente loi, le prix des biens reconstitués, comportera deux parts : la première égale à la valeur vénale des biens sinistrés avant reconstitution, la seconde à 60 p. 100 du montant de l'indemnité de reconstitution. Cette seconde part est également payable dans les conditions fixées à l'article 10 de la loi du 2 août 1954, la première annuité étant exigible dès la fixation définitive par le ministère de la reconstruction et du logement de l'indemnité de reconstitution.

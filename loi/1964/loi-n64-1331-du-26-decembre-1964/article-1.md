@@ -1,3 +1,0 @@
-# Article 1
-
-Sera puni d'une amende de 500000 F à 5000000 F et d'un emprisonnement de un à cinq ans, ou de l'une de ces deux peines seulement, et, en cas de récidive, du double de ces peines, tout capitaine d'un bâtiment français soumis aux dispositions de la Convention internationale pour la prévention de la pollution des eaux de la mer par les hydrocarbures, signée à Londres le 12 mai 1954, et de ses modificatifs, qui se sera rendu coupable d'infraction aux dispositions de l'article 3 de ladite convention relatif aux interdictions de rejet à la mer d'hydrocarbures ou de mélanges d'hydrocarbures [*sanctions*].

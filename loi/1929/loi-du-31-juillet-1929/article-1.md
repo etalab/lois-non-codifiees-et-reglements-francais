@@ -1,5 +1,0 @@
-# Article 1
-
-Des règlements d'administration publique, pris, sur la proposition du ministre de l'agriculture dans les dix-huit mois [*délai*] qui suivront la promulgation de la présente loi, après avis des chambres d'agriculture et du conseil supérieur d'hygiène publique de France, détermineront par régions agricoles, et, s'il y a lieu, par natures d'exploitations, les conditions générales de salubrité auxquelles doit satisfaire le logement des salariés dans les exploitations agricoles, notamment en ce qui concerne l'aération, la ventilation, l'éclairage, le couchage, les moyens d'ablution, etc.. Ils prescriront, en particulier, les mesures propres à supprimer les gardiens de nuit au contact direct des animaux dans les écuries ou les étables, ainsi qu'à réaliser le logement du personnel célibataire dans des locaux séparés d'après les sexes et la mise à sa disposition de lits individuels.
-
-Sont exemptés [*dérogation*] les dispositions de la présente loi les locaux temporairement utilisés pour l'habitation dans les exploitations pastorales en montagne.

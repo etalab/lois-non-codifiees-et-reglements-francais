@@ -1,3 +1,0 @@
-# DISPOSITIONS COMMUNES
-
-- [DISPOSITIONS FINANCIERES](dispositions-financieres)

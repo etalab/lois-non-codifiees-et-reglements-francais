@@ -1,3 +1,0 @@
-# Article 4
-
-Le décret en Conseil d'Etat visé à l'article L. 212-4-4 du code du travail détermine également les conditions dans lesquelles les salariés à temps partiel entrent en compte dans l'effectif du personnel des entreprises ou établissements dont ils relèvent, en vue de l'application à ces entreprises ou établissements des obligations légales relatives au versement transport créé par la loi n° 71-559 du 12 juillet 1971, modifiée par les lois n° 73-640 du 11 juillet 1973 et n° 75-580 du 5 juillet 1975, à la participation des employeurs à l'effort de construction prévue par l'article L. 313-1 du code de la construction et de l'habitation, ainsi qu'à la périodicité de versement des cotisations de sécurité sociale.

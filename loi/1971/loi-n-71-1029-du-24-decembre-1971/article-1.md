@@ -1,3 +1,0 @@
-# Article 1
-
-En cas de destruction totale ou partielle ou de disparition, par suite d'un sinistre ou de tout autre fait, du registre des privilèges et nantissements sur fonds de commerce, du registre des nantissements de matériel et d'outillage, du registre des warrants, du registre de publicité des droits réels sur les bateaux de navigation fluviale, du registre de publicité des créances privilégiées du Trésor public, du registre de publicité du privilège de la sécurité sociale ou des documents assurant la publicité des contrats de crédit-bail en matière mobilière, quel que soit le greffe dans lequel ces registres ou documents étaient ou sont conservés, il est procédé à leur reconstitution par une commission spécialement constituée à cet effet.

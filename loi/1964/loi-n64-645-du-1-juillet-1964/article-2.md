@@ -1,5 +1,0 @@
-# Article 2
-
-Le locataire doit [*obligations - formalités*], avant de procéder aux travaux, notifier son intention à son propriétaire par lettre recommandée avec demande d'avis de réception [*conditions de forme*]. Un plan d'exécution et un devis descriptif et estimatif des travaux projetés sont joints à cette notification.
-
-Dans le cas prévu au deuxième alinéa de l'article précédent, le propriétaire dispose d'un délai de deux mois pour informer dans la même forme le locataire de son acceptation ou de son refus. Le défaut de réponse est réputé valoir accord [*tacite*].

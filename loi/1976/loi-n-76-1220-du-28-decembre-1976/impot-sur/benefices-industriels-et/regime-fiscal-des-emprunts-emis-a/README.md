@@ -1,3 +1,0 @@
-# REGIME FISCAL DES EMPRUNTS EMIS A L'ETRANGER.
-
-- [Article 5](article-5.md)

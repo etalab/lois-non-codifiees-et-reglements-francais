@@ -1,3 +1,0 @@
-# Article 2
-
-Les mesures prescrites par les règlements d'administration publique visés à l'article premier de la présente loi devront être réalisées dans un délai d'un an, courant de la publication desdits règlements, pour les exploitations agricoles comportant plus de 100 hectares [*surface*] des terres labourables et de prairies, dans un délai de deux ans pour les exploitations agricoles comportant de 50 à 100 hectares [*taille de l'exploitation*] de terres labourables et de prairies, dans un délai de trois ans, pour les exploitations de moins de 50 hectares de terres labourables et de prairies.

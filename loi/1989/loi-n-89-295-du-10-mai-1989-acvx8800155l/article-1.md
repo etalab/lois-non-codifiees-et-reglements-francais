@@ -1,3 +1,0 @@
-# Article 1
-
-Toute personne voulant faire reconnaître ses droits à la qualité de combattant volontaire de la Résistance définie par l'article L. 262 du code des pensions militaires d'invalidité et des victimes de la guerre qui n'avait pas présenté une demande dans les délais antérieurement impartis et qui ne remplit pas les conditions nécessaires pour bénéficier de la réouverture des délais prévue par l'article 1er du décret n° 75-725 du 6 août 1975, auquel l'article 18 de la loi n° 86-76 du 17 janvier 1986 portant diverses dispositions d'ordre social a donné valeur législative, peut présenter une telle demande à compter de la date d'entrée en vigueur de la présente loi.

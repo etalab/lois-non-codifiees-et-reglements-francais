@@ -1,5 +1,0 @@
-# Article 27
-
-Au cas où la Cour de discipline budgétaire et financière n'aurait pas été saisie ou n'aurait relevé aucune infraction susceptible de donner lieu aux sanctions prévues à la présente loi, les ministres ou autorités responsables sont tenus d'engager l'action disciplinaire contre les agents mentionnés à l'article 1er ci-dessus dont la faute aura été relevée soit par la Cour des comptes dans un référé, dans un rapport annuel ou dans une communication faite au Parlement en application de l'article 47 de la Constitution et de l'article 10 de la loi n° 67-483 du 22 juin 1967, relative à la Cour des comptes, soit par la commission de vérification des comptes des entreprises publiques dans les rapports et communications prévus par l'article 58 de la loi n° 48-24 du 6 janvier 1948, chaque fois que cette faute aura entraîné un dépassement de crédit ou causé un préjudice à l'une des collectivités visées à l'article 1er ci-dessus. "
-
-Les sanctions prises à la suite de la procédure instituée par le présent article seront portées à la connaissance du Parlement.

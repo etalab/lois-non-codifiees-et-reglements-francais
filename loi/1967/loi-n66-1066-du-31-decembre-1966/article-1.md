@@ -1,3 +1,0 @@
-# Article 1
-
-La déclaration d'utilité publique d'une ligne de transport public au moyen de véhicules guidés sur coussins d'air (aérotrains) confère à la collectivité publique, à l'établissement public ou à leur concessionnaire, sans préjudice du droit de recourir éventuellement à l'expropriation, celui d'établir à demeure, dans les terrains privés non attenants aux habitations et non b^atis ni fermés de murs ou autres cl^otures équivalentes, les pyl^ones de soutien des plates-formes de guidage nécessaires à la circulation de ces véhicules. Une hauteur minimum de 4,75 mètres devra ^etre réservée entre ladite plate-forme et le sol.

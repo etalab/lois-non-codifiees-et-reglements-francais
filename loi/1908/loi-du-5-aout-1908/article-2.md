@@ -1,3 +1,0 @@
-# Article 2
-
-Tous syndicats, formés conformément à la loi du 21 mars 1884 pour la défense des intérêts généraux de l'agriculture ou de la viticulture ou du commerce et trafic des boissons, eaux-de-vie naturelles, alcools de fruits, denrées alimentaires, produits agricoles, engrais, produits médicamenteux, marchandises quelconques, pourront exercer sur tout le territoire de la France et d'outre-mer, les droits reconnus à la partie civile par les articles 388, 85 à 89 du code de procédure pénale, relativement aux faits de fraudes et falsifications prévues par les lois en vigueur, ou recourir, s'ils le préfèrent, à l'action ordinaire devant le tribunal civil, en vertu des articles 1382 et suivants du code civil.

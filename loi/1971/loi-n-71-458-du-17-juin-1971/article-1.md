@@ -1,3 +1,0 @@
-# Article 1
-
-Il est crée un corps des ingénieurs des études et de l'exploitation de l'aviation civile, qui participent notamment à la direction des services ou subdivisions de services désignés dans les conditions prévues à l'article 4 de la loi n° 64-650 du 2 juillet 1964 et assurent l'encadrement des officiers contrôleurs de la circulation aérienne ou des électroniciens de la sécurité aérienne. Ce corps est régi par un statut spécial fixé par décret en Conseil d'Etat, après consultation du comité technique paritaire intéressé. Ce statut peut déroger aux dispositions de l'ordonnance n° 59-244 du 4 février 1959 portant statut général des fonctionnaires.

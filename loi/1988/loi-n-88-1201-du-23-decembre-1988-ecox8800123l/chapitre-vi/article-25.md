@@ -1,9 +1,0 @@
-# Article 25
-
-Dans des conditions et limites fixées par décret en Conseil d'Etat, l'actif d'un organisme de placement collectif en valeurs mobilières comprend des valeurs mobilières françaises ou étrangères, négociées ou non sur un marché réglementé, ainsi qu'à titre accessoire, des liquidités. Les S.I.C.A.V. peuvent posséder les immeubles nécessaires à leur fonctionnement.
-
-Un organisme de placement collectif en valeurs mobilières ne peut employer en titres d'un même émetteur plus de 5 p. 100 de ses actifs. Un décret en Conseil d'Etat fixe les cas et les catégories de titres pour lesquels il peut être dérogé à cette limite.
-
-Un organisme de placement collectif en valeurs mobilières peut procéder à des prêts et emprunts de titres et à des emprunts d'espèces dans la limite d'une fraction de ses actifs. S'agissant des emprunts en espèces, cette limite ne peut être supérieure à 10 p. 100 des actifs.
-
-Un organisme de placement collectif en valeurs mobilières ne peut détenir plus de 10 p. 100 d'une même catégorie de valeurs mobilières d'un même émetteur. Un décret en Conseil d'Etat fixe les catégories de valeurs mobilières ainsi que les conditions dans lesquelles il peut être dérogé à cette limite.

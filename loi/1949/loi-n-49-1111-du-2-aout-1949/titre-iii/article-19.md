@@ -1,5 +1,0 @@
-# Article 19
-
-L'assuré agricole titulaire d'une rente allouée en vertu de la législation sur les accidents du travail, qui ne peut justifier des conditions requises par l'article 4 de la loi du 1er février 1943 et qui ne peut reprendre son travail en raison de sa blessure, a droit et ouvre droit, sans participation aux frais, aux prestations en nature des assurances maladie et maternité, à condition, toutefois, que la rente corresponde à une incapacité de travail au moins égale à 66,66 % et que l'accident soit survenu postérieurement au 31 décembre 1946.
-
-Il a droit au versement à son compte d'assurances sociales agricoles de la cotisation forfaitaire visée à l'article 22, paragraphe 3, du décret en Conseil d'Etat du 24 mars 1936, pris pour l'application du décret-loi du 30 octobre 1935 sur les assurances sociales agricoles. Cette cotisation, qui est à la charge de l'employeur ou de l'assureur substitué, fait, dans tous les cas, l'objet d'une mention spéciale dans les clauses de la police accidents du travail.

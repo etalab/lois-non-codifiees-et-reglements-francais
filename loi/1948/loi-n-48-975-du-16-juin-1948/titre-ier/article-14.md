@@ -1,5 +1,0 @@
-# Article 14
-
-En cas de faute grave ou de carence du président ou de l'administrateur délégué mentionné à l'article 9, alinéa 3, le ministre de l'équipement et du logement peut, par arrêté motivé, suspendre l'intéressé jusqu'à la prochaine assemblée générale ordinaire : le conseil d'administration désigne dans un délai de quinze jours celui de ses membres auquel sont transférés les pouvoirs du président ou de l'administrateur délégué suspendu.
-
-En cas d'irrégularités graves dans la gestion ou de carence du conseil d'administration, le ministre de l'équipement et du logement peut, par arrêté motivé, dessaisir le conseil d'administration et désigner un administrateur auquel est transféré de plein droit l'ensemble des pouvoirs dudit conseil d'administration. La mission de cet administrateur prend fin, soit à la désignation d'un nouveau conseil d'administration par l'assemblée générale convoquée à sa diligence dans un délai de soixante jours, soit à la dissolution de l'organisme si celui-ci est entré dans la phase d'achèvement de son activité au sens des dispositions du décret n° 56-1298 du 20 décembre 1956.

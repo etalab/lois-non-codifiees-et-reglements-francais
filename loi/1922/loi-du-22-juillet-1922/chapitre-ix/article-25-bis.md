@@ -1,3 +1,0 @@
-# Article 25 bis
-
-La caisse autonome mutuelle de retraites des agents des chemins de fer secondaires d'intérêt général, des chemins de fer d'intérêt local et des tramways peut conclure des accords de coordination avec tout autre régime de retraites visé à l'article 3, à l'article 4 du code de la sécurité sociale ou fonctionnant en application de l'article 1050 du code rural. Ces accords n'entrent en vigueur qu'après approbation par arrêté du ministre des travaux publics et des transports, du ministre du travail, du ministre des finances et des affaires économiques et, le cas échéant, du ministre de l'agriculture.

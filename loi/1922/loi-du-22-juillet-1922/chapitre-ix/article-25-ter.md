@@ -1,3 +1,0 @@
-# Article 25 ter
-
-Les agents tributaires de la caisse autonome mutuelle de retraites ou leurs ayants droit qui peuvent prétendre à une pension de cet organisme en application d'un protocole de coordination approuvé dans les conditions fixées à l'article 25 bis doivent rembourser à la caisse autonome mutuelle de retraites les sommes perçues par eux en application des articles 14 (2°), 15 (1°), 17 (3° et 5°) et 18 (6°) de la présente loi. Le montant de ce reversement est imputé sur les premiers arrérages de la pension, dans les conditions fixées par un règlement intérieur établi par le conseil d'administration de la caisse.

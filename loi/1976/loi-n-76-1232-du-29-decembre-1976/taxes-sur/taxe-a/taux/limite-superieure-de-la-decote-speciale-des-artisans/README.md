@@ -1,3 +1,0 @@
-# LIMITE SUPERIEURE DE LA DECOTE SPECIALE DES ARTISANS.
-
-- [Article 6](article-6.md)

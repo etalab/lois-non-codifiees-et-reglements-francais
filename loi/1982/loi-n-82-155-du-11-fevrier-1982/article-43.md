@@ -1,3 +1,0 @@
-# Article 43
-
-Les obligations convertibles en actions émises par une société nationalisée cessent d'être convertibles à la date de publication de la présente loi. Leur porteur peut, dans un délai de trois mois à compter de la publication du décret prévu à l'article 41, opter pour la transformation de ces titres en obligations de la caisse nationale de l'industrie ou de la caisse nationale des banques, telles qu'elles sont définies par les articles 4, 15, 16 et 32 de la présente loi. Ce délai d'option est porté au 30 septembre 1982 pour les banques mentionnées à l'article 12-II-b. La transformation s'effectue sur la base du taux de conversion défini par le contrat d'émission.

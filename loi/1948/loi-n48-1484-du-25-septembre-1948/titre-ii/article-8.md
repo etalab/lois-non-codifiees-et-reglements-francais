@@ -1,5 +1,0 @@
-# Article 8
-
-Les personnes visées à l'article 1er ci-dessus ne sont passibles d'aucune sanction si elles peuvent exciper d'un ordre écrit, joint aux pièces de dépenses ou de recettes et préalablement donné à la suite d'un rapport particulier à chaque affaire par leur supérieur hiérarchique ou par la personne légalement habilitée à donner un tel ordre dont la responsabilité se substituera dans ce cas à la leur, ou par le ministre compétent, personnellement. "
-
-Les dispositions de l'alinéa précédent s'appliquent aux fonctionnaires et agents des collectivités locales et de leurs groupements qui peuvent exciper d'un ordre écrit émanant de leur supérieur hiérarchique ou de la personne légalement habilitée à donner un tel ordre, du maire ou du président élu des groupements susvisés, donné dans les conditions prévues audit alinéa. Si l'ordre émane du supérieur hiérarchique ou de la personne légalement habilitée à donner un tel ordre, la responsabilité de ces derniers se substituera à celle du subordonné. "
