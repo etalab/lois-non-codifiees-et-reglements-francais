@@ -1,0 +1,7 @@
+# Article Annexe
+
+28.1. Accords de coopération sans structure. Les conseils en propriété industrielle sont libres de choisir les correspondants étrangers avec lesquelles ils souhaitent collaborer pour répondre aux besoins de leurs clients.
+
+28.2. Accords de coopération avec structure. Les conseils en propriété industrielle qui le souhaitent peuvent constituer une société civile de moyens (S.C.M.), un groupement d'intérêt économique (G.I.E.) ou groupement européen d'intérêt économique (G.E.I.E.) avec une ou plusieurs personnes habilitées à exercer à l'étranger une profession similaire ou voisine.
+
+Le conseil en propriété industrielle peut participer à la S.C.M., au G.I.E. ou au G.E.I.E. à titre de personne physique, ou par l'intermédiaire d'une société dûment inscrite sur la liste des sociétés de conseils en propriété industrielle conformément à la loi.    Une S.C.M., un G.I.E. ou un G.E.I.E. auquel participe un conseil en propriété industrielle ne peut avoir qu'un objet civil et doit respecter les règles légales et déontologiques relatives aux conditions d'exercice de la profession de conseil en propriété industrielle. Il ne peut avoir pour objet que de faciliter ou développer l'activité professionnelle de ses membres à l'exclusion de tout exercice en commun. L'activité de la S.C.M., du G.I.E. ou du G.E.I.E. doit se rattacher à l'activité économique de ses membres et ne peut avoir qu'un caractère auxiliaire par rapport à celle-ci. Il ne peut exercer lui-même la ou les professions de ses membres.
