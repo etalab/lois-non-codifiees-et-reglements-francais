@@ -1,6 +1,7 @@
 # 1967
 
 - [Arrêté du 3 janvier 1967](arrete-du-3-janvier-1967)
+- [Arrêté du 5 janvier 1967](arrete-du-5-janvier-1967)
 - [Arrêté du 8 juillet 1968](arrete-du-8-juillet-1968)
 - [Arrêté du 10 janvier 1967](arrete-du-10-janvier-1967)
 - [Arrêté du 13 janvier 1967](arrete-du-13-janvier-1967)
