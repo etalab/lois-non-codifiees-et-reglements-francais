@@ -338,7 +338,6 @@
 - [Décret n°95-147 du 10 février 1995 (BUDB9510012D)](decret-n95-147-du-10-fevrier-1995-budb9510012d)
 - [Décret n°95-157 du 10 février 1995 (SPSH9500322D)](decret-n95-157-du-10-fevrier-1995-spsh9500322d)
 - [Décret n°95-23 du 10 janvier 1995 (SPSH9403937D)](decret-n95-23-du-10-janvier-1995-spsh9403937d)
-- [Décret n°95-269 du 10 mars 1995 (INTX9500026D)](decret-n95-269-du-10-mars-1995-intx9500026d)
 - [Décret n°95-27 du 10 janvier 1995 (INTB9400474D)](decret-n95-27-du-10-janvier-1995-intb9400474d)
 - [Décret n°95-270 du 10 mars 1995 (DEFX9500025D)](decret-n95-270-du-10-mars-1995-defx9500025d)
 - [Décret n°95-271 du 10 mars 1995 (MAEX9500024D)](decret-n95-271-du-10-mars-1995-maex9500024d)
