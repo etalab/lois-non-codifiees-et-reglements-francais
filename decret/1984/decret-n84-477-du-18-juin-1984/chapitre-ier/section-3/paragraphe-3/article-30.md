@@ -1,3 +1,5 @@
 # Article 30
 
-Pour l'élection des délégués cantonaux et de leurs suppléants des premier et troisième collèges mentionnés à l'article 1006, quatrième et cinquième alinéas, du code rural, la déclaration de candidature est obligatoire. Celle-ci doit être déposée dans les conditions fixées à l'article 29, deuxième alinéa, ci-dessus.
+Les déclarations de candidature doivent comporter les mentions [*obligatoires*] et attestations figurant à l'article 24, ainsi que l'indication du collège dans lequel chaque candidat se présente. Chaque suppléant établit une déclaration comportant les mêmes indications.
+
+Les déclarations de candidature doivent être conformes à un modèle fixé par arrêté du ministre chargé de l'agriculture.
