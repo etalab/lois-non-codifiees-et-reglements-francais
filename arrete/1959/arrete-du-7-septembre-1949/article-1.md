@@ -40,8 +40,6 @@ Les produits industriels simples désignés ci-après échappent, conformément 
 
 - Sulfate ferreux neige pour usage agricole.
 
-- Sulfure de carbone.
-
 - Sulfate de cuivre gros cristaux.
 
 - Sulfate de cuivre menus cristaux.
@@ -56,6 +54,4 @@ Les produits industriels simples désignés ci-après échappent, conformément 
 
 - Formol.
 
-- Tétrachlorure de carbone.
-
-- Trichloréthylène.
+- Chlorate de sodium.

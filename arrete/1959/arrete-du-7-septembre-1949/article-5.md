@@ -219,17 +219,7 @@ Utilisé pour la destruction des mousses dans les prairies. S'épand sur le sol 
 
 Sulfate ferreux neige pour usage agricole
 
-Utilisé pour la destruction des mousses dans les prairies. S'épand sur le sol à raison de 300 kg par hectare. Lorsque les mousses sont détruites, les arracher par hersage.
-
-Sulfure de carbone
-
-Utilisé pour la désinfection des sols à la dose de 25 à 50 cm3 par mètre carré.
-
-Précautions à prendre : en raison des dangers d'inflammabilité et d'explosions du sulfure de carbone, n'employer celui-ci qu'en plein air et éviter toute production de flamme au moment des traitements, ne pas respirer les vapeurs du produit.
-
-Conserver le produit dans son emballage d'origine et le détenir séparé de tout aliment ou boisson et en dehors de tout local d'habitation.
-
-Sulfate de cuivre gros cristaux
+Utilisé pour la destruction des mousses dans les prairies. S'épand sur le sol à raison de 300 kg par hectare. Lorsque les mousses sont détruites, les arracher par hersage.               Sulfate de cuivre gros cristaux
 
 Produit anticryptogamique utilisé principalement pour la préparation de la bouillie bordelaise et de la bouillie bourguignonne.
 
@@ -281,22 +271,34 @@ Pour la désinfection des semences, utiliser une solution dans l'eau à 0,25 %.
 
 Précautions à prendre : conserver le produit dans son emballage d'origine et le détenir séparé des denrées alimentaires. Le produit étant très irritant pour la peau et les muqueuses, éviter de respirer les vapeurs et utiliser des gants imperméables lors des manipulations.
 
-Tétrachlorure de carbone
+Chlorate de sodium
 
-Utilisé pour la destruction des insectes des grains entreposés à la dose de 300 g par m3 de récipient, la durée d'exposition étant de 24 heures.
+" Utilisé pour le désherbage des zones non cultivées (allées de parcs, jardins, trottoirs) à la dose de 250 kg par hectare, pour la destruction des fougères en prairies à la dose de 400 kg par hectare et en forêts à la dose de 150 kg par hectare, et pour le désherbage total à la dose de 350 kg par hectare.
 
-Précautions à prendre : au cours de la détention, conserver le produit dans son emballage d'origine hermétiquement clos, dans des locaux fermés à clef ne servant pas à l'habitation et ne contenant aucun aliment ou boisson.
+" Utilisé pour le défanage de la pomme de terre à la dose de 20 à 30 kg par hectare.
 
-Au cours de l'emploi, le port du masque est obligatoire pour tous les manipulateurs qui sont exposés aux vapeurs du produit de fumigation. Opérer la désinsectisation en vase clos ou dans une cellule de silo ou chambre hermétiquement close. Ventiler énergiquement et longuement les grains pour évacuer les vapeurs toxiques après action de celles-ci. Ne pas fumer au cours des opérations.
+" Risques : peut exploser en mélange avec des matières combustibles. Nocif par inhalation et par ingestion.
 
-Après l'emploi, les récipients qui contiennent encore des produits utilisables doivent être refermés. Se laver les mains et le visage avant de prendre toute nourriture.
+" Précautions à prendre :
 
-Trichloréthylène
+" Au cours de la détention :
 
-Utilisé pour la destruction des insectes des grains entreposés à la dose de 300 g par m3 de récipient, la durée d'exposition étant de 24 heures.
+" - conserver uniquement dans le récipient d'origine ;
 
-Précautions à prendre : au cours de la détention, conserver le produit dans son emballage d'origine hermétiquement clos dans les locaux ne servant pas à l'habitation et à l'écart des denrées alimentaires.
+" - conserver hors de la portée des enfants, à l'écart des aliments et boissons, y compris ceux pour animaux ;
 
-Au cours de l'emploi, opérer la désinfection en vase clos ou dans une cellule de silo ou chambre hermétiquement close. Ventiler énergiquement et longuement les grains pour évacuer les vapeurs après action de celles-ci. Pendant toutes les opérations, éviter de respirer les vapeurs, ne pas fumer.
+" - conserver à l'écart de toute source d'ignition ;
 
-Après l'emploi, refermer avec soins les récipients encore utilisables.
+" Au cours de l'emploi :
+
+" - ne pas manger, ne pas boire et ne pas fumer pendant l'utilisation ;
+
+" - enlever immédiatement tout vêtement souillé ou éclaboussé ;
+
+" - en cas de malaise, consulter un médecin (si possible, lui montrer l'étiquette) ;
+
+" Après emploi :
+
+" - refermer soigneusement les récipients encore utilisables ; se laver les mains avant de prendre toute nourriture ;
+
+" - ne se débarrasser de ce produit et de son récipient qu'en prenant toute précaution d'usage. "

@@ -1,0 +1,3 @@
+# Article 63
+
+Il est organisé chaque année un concours d'internat propre à la circonscription des départements d'outre-mer ouvert pour le nombre de postes fixé par arrêté des ministres chargés des universités et de la santé. La candidature à ce concours n'est pas prise en considération pour la limitation du nombre de concours auxquels un candidat est autorisé à se présenter au titre d'une même année lorsque le nombre de postes mis au concours dans cette circonscription est inférieur à 2 p. 100 [*pourcentage*] du total des postes mis au concours la même année dans l'ensemble des circonscriptions.

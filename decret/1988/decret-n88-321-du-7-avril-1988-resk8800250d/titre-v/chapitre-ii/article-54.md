@@ -1,0 +1,3 @@
+# Article 54
+
+Toutes les dispositions pédagogiques prévues par le présent décret pour l'obtention d'un diplôme d'études spécialisées sont applicables aux assistants à l'exclusion du changement de discipline mentionné à l'article 32 du présent décret et sous réserve des dispositions de l'article 55 ci-dessous. Les assistants relèvent, pour toute leur formation dans le cadre du troisième cycle spécialisé, des unités de formation et de recherche de la circonscription dans laquelle ils ont été nommés. Ils reçoivent en outre une formation spécifique dans les hôpitaux d'instruction des armées. Il en est de même pour les diplômes d'études spécialisées complémentaires.
