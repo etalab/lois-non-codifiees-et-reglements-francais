@@ -2,33 +2,35 @@
 
 II. - Jusqu'au 4 janvier 1995 sont seules applicables, au lieu et place des procédures du présent décret, les règles de procédure instituées, dans les domaines qu'ils concernent, par :
 
-a) [*abrogé*]
+a) ABROGE
 
-b) Le code des ports maritimes en tant qu'il soumet les travaux portuaires à autorisation préalable délivrée par l'Etat ;
+b) ABROGE
 
 c) Le décret du 28 mars 1957 susvisé ;
 
-d) [*abrogé*]
+d) ABROGE
 
-e) [*abrogé*]
+e) ABROGE
 
-f) [*supprimé*]
+f) SUPPRIME
 
 g) Le décret du 20 décembre 1979 susvisé ;
 
 h) Le décret du 7 mai 1980 en tant qu'il concerne d'autres domaines que la police des mines.
 
-i) [*supprimé*];
+i) SUPRIME;
 
-k) [*supprimé*]
+k) SUPRIME
 
-j) [*supprimé*]
+j) SUPRIME
 
 Lorsque ces décrets prévoient des procédures d'autorisation ou de déclaration, les actes délivrés en application de ces textes valent autorisation ou déclaration au titre de la loi du 3 janvier 1992 susvisée.
 
 III. - Le présent décret est applicable aux opérations, trava ux ou activités concernant des installations ou des enceintes relevant du ministre de la défense ou soumises à des règles de protection du secret de la défense nationale, sous réserve des dispositions du décret n° 94-1033 du 30 novembre 1994.
 
 Il est également applicable aux installations, ouvrages, travaux ou activités soumis à autorisation par la loi du 16 octobre 1919 relative à l'utilisation de l'énergie hydraulique, sous réserve des dispositions du décret n° 95-1204 du 6 novembre 1995.
+
+Il est également applicable aux travaux portuaires soumis à autorisation préalable au titre du code des ports maritimes, sous réserve des dispositions spécifiques prévues par ce code.
 
 IV. - Sont seules applicables, au lieu et place des dispositions du présent décret, les règles instituées, dans les domaines qu'ils concernent, par :
 
