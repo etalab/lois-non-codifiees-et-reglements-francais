@@ -2,11 +2,9 @@
 
 Les cycles de formation initiale de l'Ecole nationale des sciences géographiques sont sanctionnés par :
 
-a) Cycle de formation initiale des ingénieurs géographes :
+a)    Cycle de formation initiale des ingénieurs géographes :
 
-- diplôme d'ingénieur du corps des ingénieurs géographes, si les élèves sont destinés à l'Institut géographique national ;
-
-- diplôme d'ingénieur civil géographe, s'ils ne sont pas destinés à l'Institut géographique national.
+- diplôme d'ingénieur diplômé de l'Ecole nationale des sciences géographiques, spécialité géographe.
 
 b) Cycle de formation initiale des ingénieurs des travaux géographiques et cartographiques de l'Etat :
 

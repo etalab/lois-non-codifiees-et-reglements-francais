@@ -1,0 +1,3 @@
+# Article 3
+
+Dès que le dossier est complet, le préfet compétent communique le dossier de demande d'agrément pour avis à la direction régionale de l'industrie, de la recherche et de l'environnement (DRIRE) et à la délégation régionale de l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME). Ces avis sont émis dans un délai de quinze jours. Le préfet compétent transmet aux préfets des départements où le demandeur compte effectuer le seul ramassage des pneumatiques un exemplaire du dossier de demande d'agrément ainsi que des avis rendus par la DRIRE et par la délégation régionale de l'ADEME. Les préfets concernés peuvent communiquer leur avis dans un délai de vingt jours.

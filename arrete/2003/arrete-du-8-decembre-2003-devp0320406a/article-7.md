@@ -1,0 +1,3 @@
+# Article 7
+
+La reprise gratuite des pneumatiques usagés par les distributeurs à l'occasion de la vente des pneumatiques neufs aux utilisateurs privés et professionnels s'entend du service de tenue à disposition des collecteurs agréés desdits pneumatiques usagés ; il résulte des dispositions combinées des articles 5, 6 et 7 du décret du 24 décembre 2002 susvisé que cette gratuité n'interdit aucunement, aux libres choix individuels de chaque acteur de la filière, de répercuter les coûts de collecte et d'élimination des pneumatiques usagés, selon des modalités conformes aux droits national et européen.

@@ -1,0 +1,7 @@
+# Article 8
+
+Le préfet qui a accordé l'agrément saisit la DRIRE de tout manquement porté à sa connaissance à l'une des obligations mises à la charge du collecteur par les cahiers des charges. La DRIRE effectue dans le délai d'un mois une proposition sur le retrait ou le maintien de l'agrément. Le cas échéant, le préfet avise l'intéressé de la proposition de retrait d'agrément, en en précisant les motifs. Celui-ci dispose d'un mois pour présenter par écrit ses observations qui sont transmises à la DRIRE et à la délégation régionale de l'ADEME qui émettent un avis dans le délai d'un mois. Au vu de ces avis, le préfet peut retirer l'agrément par arrêté motivé. Cet arrêté est notifié à l'intéressé et soumis aux formalités de publicité prévues à l'article 4 du présent arrêté.
+
+Si l'agrément a été délivré pour l'ensemble des opérations de collecte, le préfet qui a accordé l'agrément informe les préfets des départements où le collecteur effectue le seul ramassage de pneumatiques de la proposition de retrait de l'agrément. Il leur soumet, pour avis, les observations du collecteur et les avis rendus par la DRIRE et l'ADEME. Ces préfets peuvent rendre un avis dans le délai d'un mois. Ils sont avisés du retrait de l'agrément.
+
+Si l'agrément a été délivré pour le ramassage seulement, le préfet informe le préfet du département d'implantation de l'installation de tri et de regroupement où le collecteur déposait les pneumatiques ramassés que ce collecteur n'est plus agréé.
