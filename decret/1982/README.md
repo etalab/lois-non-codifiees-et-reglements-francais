@@ -61,6 +61,7 @@
 - [Décret n°82-494 du 10 juin 1982](decret-n82-494-du-10-juin-1982)
 - [Décret n°82-716 du 10 août 1982](decret-n82-716-du-10-aout-1982)
 - [Décret n°82-717 du 10 août 1982](decret-n82-717-du-10-aout-1982)
+- [Décret n°82-774 du 10 septembre 1982](decret-n82-774-du-10-septembre-1982)
 - [Décret n°82-389 du 10 mai 1982](decret-n82-389-du-10-mai-1982)
 - [Décret n°82-390 du 10 mai 1982](decret-n82-390-du-10-mai-1982)
 - [Décret n°82-393 du 10 mai 1982](decret-n82-393-du-10-mai-1982)
