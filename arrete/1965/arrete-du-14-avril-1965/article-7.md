@@ -8,9 +8,9 @@ Quatre épreuves pratiques (durée totale : 10 heures ; pour chaque épreuve : c
 
 Ces épreuves portent sur des matières différentes, tirées au sort parmi celles-ci qui figurent au programme faisant l'objet de l'annexe I au présent arrêté. La répartition du temps devant être consacré à chaque épreuve est fixé par le jury.
 
-Trois épreuves orales (pour chaque épreuve : durée 10 minutes ; coefficient 1).
+Trois épreuves orales (pour chaque épreuve : durée 10 minutes ; coefficient 1 ).
 
-Ces épreuves portent sur des matières différentes, non tirées au sort lors des épreuves écrites.
+Ces épreuves portent sur des matières différentes, non tirées au sort lors des épreuves pratiques.
 
 II. - Concours prévu à l'article 13 (2°) du décret n° 68-97 du 19 janvier 1968 susvisé.
 
