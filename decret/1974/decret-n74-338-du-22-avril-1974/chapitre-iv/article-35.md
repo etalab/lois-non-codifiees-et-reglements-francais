@@ -1,0 +1,5 @@
+# Article 35
+
+Les militaires en position bon cadres peuvent être réintégrés sur leur demande dans leur corps d'appartenance. Dans ce cas, ils sont à nouveau inscrits sur la liste d'ancienneté, à une place qui tient compte de la déduction du temps passé dans cette position.
+
+Dans le cas où ils ne pourraient prétendre à pension au titre du régime de retraite auquel ils ont été affiliés pendant leur mise hors cadres, ils peuvent, dans les trois mois suivant leur réintégration, solliciter la prise en compte au titre du code des pensions civiles et militaires de retraite, de la période considérée, sous réserve du versement par les intéressés de la retenue de prévue à l'article L. 61 du code des pensions civiles et militaires de retraite correspondant à ladite période, calculée sur la solde attachée au grade qu'ils détiennent et du versement par la collectivité ou l'organisme auprès duquel ils ont été placés en position hors-cadre de la contribution d'exigée dans les conditions prévues aux articles 55 et 67 du statut général.
