@@ -2,6 +2,7 @@
 
 - [Titre Ier : Investissements directs à l'étranger.](titre-ier)
 - [Titre II : Investissements directs en France.](titre-ii)
+- [Titre II bis : Modalités d'établissement des déclarations relatives aux investissements directs.](titre-ii-bis)
 - [Titre III : Emission, exposition, mise en vente, introduction sur le marché en France de valeurs mobilières étrangères.](titre-iii)
 - [Titre IV : Emprunts à l'étranger.](titre-iv)
 - [Titre V : Importation et exportation de l'or.](titre-v)

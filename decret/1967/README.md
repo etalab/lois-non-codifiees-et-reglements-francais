@@ -54,6 +54,7 @@
 - [Décret n°67-539 du 26 juin 1967](decret-n67-539-du-26-juin-1967)
 - [Décret n°67-540 du 26 juin 1967](decret-n67-540-du-26-juin-1967)
 - [Décret n°67-432 du 26 mai 1967](decret-n67-432-du-26-mai-1967)
+- [Décret n°67-78 du 27 janvier 1967](decret-n67-78-du-27-janvier-1967)
 - [Décret n°67-956 du 27 octobre 1967](decret-n67-956-du-27-octobre-1967)
 - [Décret n°67-966 du 27 octobre 1967](decret-n67-966-du-27-octobre-1967)
 - [Décret n°67-976 du 27 octobre 1967](decret-n67-976-du-27-octobre-1967)
