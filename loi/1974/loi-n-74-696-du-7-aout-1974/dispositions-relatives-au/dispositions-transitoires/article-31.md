@@ -1,0 +1,15 @@
+# Article 31
+
+La répartition des personnels pris en charge par les divers établissements et sociétés est effectuée, compte tenu des besoins de ces organismes, par décision du président directeur général de l'Office, après avis d'une commission présidée par un membre des juridictions administratives et comprenant les représentants de l'établissement public et des sociétés, de l'O.R.T.F. ainsi que les représentants du personnel désignés par les organismes syndicales représentatives.
+
+Sous réserve des dispositions des articles 27 à 30, les personnels non affectés dans l'un de ces organismes pourront, s'ils en font la demande avant le 31 décembre 1974, être reclassés dans une administration de l'Etat, d'une autre collectivité publique, des établissements ou entreprises publics. Les agents statutaires remplissant les conditions fixées à l'article 16 de l'ordonnance n° 59-244 du 4 février 1959 relative au statut général des fonctionnaires, reclassés dans une administration de l'Etat, pourront être nommés, nonobstant toutes dispositions législatives ou réglementaires, dans des corps de fonctionnaires dont la liste sera établie par décret en Conseil d'Etat, sous réserve de justifier de dix ans au moins de service public. Les intéressés pourront bénéficier d'une reconstitution de carrière prenant en compte, dans des conditions fixées par décret en Conseil d'Etat, les services qu'ils ont accomplis en qualité d'agent statutaire et d'agent contractuel de l'Etat depuis leur reclassement.
+
+S'ils ne présentent pas cette demande, une indemnité de licenciement leur est automatiquement attribuée au 31 décembre 1974. Cette indemnité est égale à celle qui était prévue par les statuts qui leur étaient applicables. Pour les agents ayant au moins cinq ans de service au 31 décembre 1974, cette indemnité n'est pas inférieure à un an de traitement.
+
+Les agents qui présentent une demande de reclassement continuent à percevoir leur traitement jusqu'à la date à laquelle ils sont reclassés et, au plus tard, jusqu'au 30 juin 1975.
+
+Des propositions de reclassement tenant compte de leurs qualifications professionnelles leur seront faites. Les agents qui auraient refusé trois propositions seront licenciés et percevront automatiquement l'indemnité de licenciement.
+
+Les agents qui, ayant présenté cette demande, n'ont pas été reclassés au 1er juillet 1975, se voient automatiquement attribuer une indemnité de licenciement conformément aux dispositions de l'alinéa 3 du présent article, déduction faite des émoluments versés en application de l'alinéa 4.
+
+Les dispositions des articles 27, 29, 30 et 31 ne sont pas applicables, sauf demande expresse de leur part, aux agents déportés et internés de la Résistance, aux agents déportés et internés politiques, aux agents titulaires de la carte du combattant volontaire de la Résistance, aux agents dont les services de la Résistance ont été validés par la loi n° 51-1124 du 26 septembre 1951, aux agents ayant appartenu aux forces françaises libres, aux anciens combattants titulaires de la Croix de guerre et aux grands invalides de guerre.
