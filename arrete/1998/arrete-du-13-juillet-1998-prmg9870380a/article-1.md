@@ -1,13 +1,15 @@
 # Article 1
 
-La délégation interministérielle à la réforme de l'Etat comprend cinq missions placées sous l'autorité directe du délégué :
+Le délégué interministériel à la réforme de l'Etat est assisté d'un directeur. Le directeur, adjoint au délégué interministériel à la réforme de l'Etat, assiste celui-ci pour l'ensemble de ses attributions. Il le supplée en cas d'absence ou d'empêchement.
 
-- la mission service à l'usager et management public ;
+La délégation interministérielle à la réforme de l'Etat comprend cinq missions :
 
-- la mission fonctionnement, organisation et déconcentration de l'Etat ;
+- la mission "service à l'usager et management public" ;
 
-- la mission utilisation des nouvelles technologies de l'information et de la communication par l'administration ;
+- la mission "fonctionnement, organisation et déconcentration de l'Etat" ;
 
-- la mission administrations régaliennes, économiques et financières ;
+- la mission "utilisation des nouvelles technologies de l'information et de la communication par l'administration" ;
 
-- la mission administrations sociales, culturelles, scientifiques et techniques.
+- la mission "administrations régaliennes, économiques et financières" ;
+
+- la mission "administrations sociales, culturelles, scientifiques et techniques".
