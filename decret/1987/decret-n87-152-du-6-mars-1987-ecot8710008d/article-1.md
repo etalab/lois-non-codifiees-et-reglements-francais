@@ -1,3 +1,3 @@
 # Article 1
 
-Le gouverneur de la Banque de France, président du conseil d'administration de la Caisse d'amortissement de la dette publique, est suppléé, en cas d'empêchement, par un sous-gouverneur de la Banque de France.
+Les membres du conseil d'administration sont désignés par arrêté du ministre chargé de l'économie pris, en ce qui concerne le membre du Conseil d'Etat, celui de la Cour des comptes et celui de l'inspection générale des finances, sur proposition respectivement du vice-président du Conseil d'Etat, du premier président de la Cour des comptes et du chef de service de l'inspection générale des finances.
