@@ -18,7 +18,6 @@
 - [Arrêté du 1 mars 1995 (SANP9500716A)](arrete-du-1-mars-1995-sanp9500716a)
 - [Arrêté du 1 mars 1995 (SPSG9500756A)](arrete-du-1-mars-1995-spsg9500756a)
 - [Arrêté du 1 mars 1995 (SPSS9500757A)](arrete-du-1-mars-1995-spss9500757a)
-- [Arrêté du 1 septembre 1995 (EQUA9501422A)](arrete-du-1-septembre-1995-equa9501422a)
 - [Arrêté du 2 août 1995 (ECOL9500050A)](arrete-du-2-aout-1995-ecol9500050a)
 - [Arrêté du 2 août 1995 (ECOP9500377A)](arrete-du-2-aout-1995-ecop9500377a)
 - [Arrêté du 2 août 1995 (EQUB9501223A)](arrete-du-2-aout-1995-equb9501223a)
