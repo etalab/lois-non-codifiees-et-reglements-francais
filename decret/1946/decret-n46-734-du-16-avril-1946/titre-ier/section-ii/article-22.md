@@ -1,0 +1,3 @@
+# Article 22
+
+Ce contrôle est assuré au moins semestriellement. L'inspecteur social de la population consigne sur le carnet visé à l'article 20 le détail de ses visites ainsi que les remarques auxquelles elles auront donné lieu. Il adresse, en outre, un rapport d'inspection au ministre de la justice et au juge des enfants ou, à Paris, au président du tribunal pour enfants. Les frais résultant de ces déplacements sont compris dans les dépenses de contrôle sur place des lois d'assistance et remboursés aux fonctionnaires de l'inspection sociale de la population par le ministère de la justice dans les conditions prévues par les textes en vigueur.
