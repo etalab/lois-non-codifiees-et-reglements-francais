@@ -1,0 +1,3 @@
+# Article 2
+
+Les comités professionnels de développement économique ont pour objet d'organiser l'évolution des structures productives pour assurer leur compétitivité, de contribuer au financement d'actions d'intérêt collectif manifeste, n'entravant pas la concurrence et facilitant cette évolution, d'accroître la productivité, d'améliorer l'adaptation aux besoins du marché, de procéder à toutes études concernant les domaines d'activité intéressés et d'en diffuser les résultats au sein de la profession et de favoriser toutes initiatives présentant un intérêt évident pour l'ensemble de la profession.
