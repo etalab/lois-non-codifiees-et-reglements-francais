@@ -112,6 +112,8 @@
 - [Décret n°82-211 du 24 février 1982](decret-n82-211-du-24-fevrier-1982)
 - [Décret n°82-262 du 24 mars 1982](decret-n82-262-du-24-mars-1982)
 - [Décret n°82-264 du 24 mars 1982](decret-n82-264-du-24-mars-1982)
+- [Décret n°77-1295 du 25 novembre 1977](decret-n77-1295-du-25-novembre-1977)
+- [Décret n°77-1301 du 25 novembre 1977](decret-n77-1301-du-25-novembre-1977)
 - [Décret n°82-200 du 25 février 1982](decret-n82-200-du-25-fevrier-1982)
 - [Décret n°82-220 du 25 février 1982](decret-n82-220-du-25-fevrier-1982)
 - [Décret n°82-223 du 25 février 1982](decret-n82-223-du-25-fevrier-1982)

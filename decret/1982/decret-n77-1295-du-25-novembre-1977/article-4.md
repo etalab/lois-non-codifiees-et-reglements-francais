@@ -1,0 +1,7 @@
+# Article 4
+
+Afin de prévenir la disparition d'espèces [*animales non domestiques et végétales non cultivées*] figurant sur la liste prévue à l'article 4 de la loi du 10 juillet 1976, le préfet peut fixer, par arrêté, les mesures tendant à favoriser, sur tout ou partie du territoire d'un département à l'exclusion du domaine public maritime où les mesures relèvent du ministre chargé des pêches maritimes, la conservation des biotopes tels que mares, marécages, marais, haies, bosquets, landes, dunes, pelouses ou toutes autres formations naturelles, peu exploitées par l'homme, dans la mesure ou ces biotopes ou formations sont nécessaires à l'alimentation, à la reproduction, au repos ou à la survie de ces espèces.
+
+Les arrêtés préfectoraux mentionnés à l'alinéa précédent sont pris après avis de la commission départementale des sites siégeant en formation de protection de la nature ainsi que de la chambre départementale d'agriculture. Lorsque de tels biotopes sont situés sur des terrains soumis au régime forestier, l'avis du directeur régional de l'office national des forêts est requis.
+
+Le préfet peut interdire, dans les mêmes conditions, les actions pouvant porter atteinte d'une manière indistincte à l'équilibre biologique des milieux et notamment l'écobuage, le brûlage des chaumes, le brûlage ou le broyage des végétaux sur pied, la destruction des talus et des haies, l'épandage de produits antiparasitaires [*autorité compétente*].
