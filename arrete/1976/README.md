@@ -50,6 +50,7 @@
 - [Arrêté du 22 juin 1976](arrete-du-22-juin-1976)
 - [Arrêté du 23 juillet 1976](arrete-du-23-juillet-1976)
 - [Arrêté du 23 juin 1976](arrete-du-23-juin-1976)
+- [Arrêté du 24 août 1976](arrete-du-24-aout-1976)
 - [Arrêté du 24 février 1976](arrete-du-24-fevrier-1976)
 - [Arrêté du 24 juin 1976](arrete-du-24-juin-1976)
 - [Arrêté du 25 août 1976](arrete-du-25-aout-1976)
