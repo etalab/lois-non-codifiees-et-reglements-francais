@@ -24,6 +24,8 @@
 - [Décret n°88-825 du 18 juillet 1988 (EXTX8800106D)](decret-n88-825-du-18-juillet-1988-extx8800106d)
 - [Décret n°88-826 du 18 juillet 1988 (SDFX8800101D)](decret-n88-826-du-18-juillet-1988-sdfx8800101d)
 - [Décret n°88-827 du 18 juillet 1988 (ACVX8800093D)](decret-n88-827-du-18-juillet-1988-acvx8800093d)
+- [Décret n°88-829 du 19 juillet 1988 (JUSB8810212D)](decret-n88-829-du-19-juillet-1988-jusb8810212d)
+- [Décret n°88-830 du 20 juillet 1988 (INTB8800231D)](decret-n88-830-du-20-juillet-1988-intb8800231d)
 - [Décret n°88-768 du 21 juin 1988 (TRST8800299D)](decret-n88-768-du-21-juin-1988-trst8800299d)
 - [Décret n°88-766 du 22 juin 1988 (ECOF8800007D)](decret-n88-766-du-22-juin-1988-ecof8800007d)
 - [Décret n°88-771 du 22 juin 1988 (JUSC8820430D)](decret-n88-771-du-22-juin-1988-jusc8820430d)

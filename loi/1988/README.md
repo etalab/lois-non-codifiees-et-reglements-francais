@@ -22,6 +22,7 @@
 - [Loi n° 88-809 du 12 juillet 1988 (MAEX8800022L)](loi-n-88-809-du-12-juillet-1988-maex8800022l)
 - [Loi n° 88-813 du 13 juillet 1988 (INTX8800100L)](loi-n-88-813-du-13-juillet-1988-intx8800100l)
 - [Loi n° 88-82 du 22 janvier 1988 (DOMX8700150L)](loi-n-88-82-du-22-janvier-1988-domx8700150l)
+- [Loi n° 88-828 du 20 juillet 1988 (JUSX8800077L)](loi-n-88-828-du-20-juillet-1988-jusx8800077l)
 - [Loi n°87-962 du 30 novembre 1987 (JUSX8700168L)](loi-n87-962-du-30-novembre-1987-jusx8700168l)
 - [Loi n°88-20 du 6 janvier 1988 (CLRX8700051L)](loi-n88-20-du-6-janvier-1988-clrx8700051l)
 - [Loi n°88-21 du 6 janvier 1988 (CCLX8700197L)](loi-n88-21-du-6-janvier-1988-cclx8700197l)
