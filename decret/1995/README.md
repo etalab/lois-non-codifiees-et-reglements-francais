@@ -1012,7 +1012,6 @@
 - [Décret n°95-486 du 27 avril 1995 (INTX9500051D)](decret-n95-486-du-27-avril-1995-intx9500051d)
 - [Décret n°95-489 du 27 avril 1995 (RESX9500028D)](decret-n95-489-du-27-avril-1995-resx9500028d)
 - [Décret n°95-490 du 27 avril 1995 (RESX9500029D)](decret-n95-490-du-27-avril-1995-resx9500029d)
-- [Décret n°95-491 du 27 avril 1995 (SPSP9501276D)](decret-n95-491-du-27-avril-1995-spsp9501276d)
 - [Décret n°95-505 du 27 avril 1995 (SPSS9500656D)](decret-n95-505-du-27-avril-1995-spss9500656d)
 - [Décret n°95-508 du 27 avril 1995 (JUSG9560024D)](decret-n95-508-du-27-avril-1995-jusg9560024d)
 - [Décret n°95-509 du 27 avril 1995 (DEFP9501331D)](decret-n95-509-du-27-avril-1995-defp9501331d)
