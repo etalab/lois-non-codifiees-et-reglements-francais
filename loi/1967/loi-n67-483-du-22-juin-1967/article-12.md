@@ -1,5 +1,0 @@
-# Article 12
-
-Les observations, les suggestions d'amélioration ou de réforme portant sur la gestion des services, organismes et entreprises visés à l'article 1er de la présente loi font l'objet de communications de la Cour des comptes aux ministres ou aux autorités administratives compétentes dans les conditions fixées par décret.
-
-A la suite du contrôle d'une entreprise publique visée au A de l'article 6 bis de la présente loi, la Cour des comptes adresse aux ministres intéressés un rapport particulier dans lequel elle expose ses observations sur les comptes, l'activité, la gestion et les résultats de l'entreprise. Elle y exprime notamment son avis sur la qualité de la gestion de celle-ci ainsi que sur la régularité et la sincérité des comptes et propose, le cas échéant, les redressements qu'elle estime devoir leur être apportés. Elle établit et communique dans les mêmes conditions un rapport particulier à chaque fois qu'elle décide de vérifier les comptes et la gestion d'un des organismes ou d'une des entreprises, soumis à son contrôle, qui relèvent du B de l'article 6 bis.
