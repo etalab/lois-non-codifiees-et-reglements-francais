@@ -1,0 +1,5 @@
+# Article 7
+
+Le décret n° 86-316 du 3 mars 1986 portant création du directoire de la sécurité des systèmes d'information, le décret n° 86-318 du 3 mars 1986 portant création du service central de la sécurité des systèmes d'information, le décret n° 87-354 du 25 mai 1987 relatif au centre d'études supérieures de la sécurité des systèmes d'information, le décret n° 87-864 du 26 octobre 1987 relatif aux conditions de nomination et d'avancement dans l'emploi de chef du service central de la sécurité des systèmes d'information, le décret n° 87-865 du 26 octobre 1987 relatif aux conditions de nomination et d'avancement dans les emplois d'adjoint du délégué interministériel pour la sécurité des systèmes d'information et le premier alinéa de l'article 3 du décret n° 96-67 du 29 janvier 1996 sont abrogés.
+
+Dans les textes réglementaires où il est fait mention du service central de la sécurité des systèmes d'information, la référence à la direction centrale de la sécurité des systèmes d'information est substituée à la référence à ce service.
