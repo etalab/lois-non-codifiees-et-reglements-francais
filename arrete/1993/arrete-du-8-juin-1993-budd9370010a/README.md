@@ -5,7 +5,6 @@
 - [CHAPITRE II : Obligations des fournisseurs.](chapitre-ii)
 - [CHAPITRE III : Obligations des distributeurs.](chapitre-iii)
 - [CHAPITRE IV : Obligations des utilisateurs.](chapitre-iv)
-- [CHAPITRE V : Autres prescriptions.](chapitre-v)
 - [CHAPITRE V : Cas particuliers](chapitre-v-cas)
 - [CHAPITRE VI : Autres dispositions](chapitre-vi)
 - [Article 16](article-16.md)
