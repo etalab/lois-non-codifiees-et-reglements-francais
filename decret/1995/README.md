@@ -215,6 +215,7 @@
 - [Décret n°95-1204 du 6 novembre 1995 (ENVE9530017D)](decret-n95-1204-du-6-novembre-1995-enve9530017d)
 - [Décret n°95-1205 du 6 novembre 1995 (ENVE9530018D)](decret-n95-1205-du-6-novembre-1995-enve9530018d)
 - [Décret n°95-1207 du 6 novembre 1995 (EQUP9500998D)](decret-n95-1207-du-6-novembre-1995-equp9500998d)
+- [Décret n°95-1271 du 6 décembre 1995 (ECOT9551582D)](decret-n95-1271-du-6-decembre-1995-ecot9551582d)
 - [Décret n°95-1272 du 6 décembre 1995 (ENVN9530088D)](decret-n95-1272-du-6-decembre-1995-envn9530088d)
 - [Décret n°95-13 du 6 janvier 1995 (DOME9400034D)](decret-n95-13-du-6-janvier-1995-dome9400034d)
 - [Décret n°95-137 du 6 février 1995 (SPSH9403144D)](decret-n95-137-du-6-fevrier-1995-spsh9403144d)
