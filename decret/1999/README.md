@@ -340,6 +340,8 @@
 - [Décret n°99-875 du 13 octobre 1999 (AGRS9901679D)](decret-n99-875-du-13-octobre-1999-agrs9901679d)
 - [Décret n°99-876 du 13 octobre 1999 (ATEG9970043D)](decret-n99-876-du-13-octobre-1999-ateg9970043d)
 - [Décret n°99-877 du 13 octobre 1999 (ATEG9970044D)](decret-n99-877-du-13-octobre-1999-ateg9970044d)
+- [Décret n°99-878 du 13 octobre 1999 (MENX9900103D)](decret-n99-878-du-13-octobre-1999-menx9900103d)
+- [Décret n°99-879 du 13 octobre 1999 (MENF9902201D)](decret-n99-879-du-13-octobre-1999-menf9902201d)
 - [Décret n°99-880 du 13 octobre 1999 (MENF9901943D)](decret-n99-880-du-13-octobre-1999-menf9901943d)
 - [Décret n°99-94 du 13 février 1999 (ECOT9851764D)](decret-n99-94-du-13-fevrier-1999-ecot9851764d)
 - [Décret n°98-365 du 13 mai 1998 (MESG9820750D)](decret-n98-365-du-13-mai-1998-mesg9820750d)
