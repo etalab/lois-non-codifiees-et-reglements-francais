@@ -10,4 +10,4 @@ A peine de révocation de ses fonctions à l'Entreprise minière et chimique et 
 
 Les dispositions qui précèdent ne sont pas applicables aux conventions portant sur des opérations courantes et conclues à des conditions normales avec des clients ou fournisseurs de l'établissement.
 
-A la fin de chaque exercice, le contrôleur d'Etat présente aux ministres intéressés un rapport général sur les conventions qui ont été autorisées durant cet exercice, par application du présent article.
+A la fin de chaque exercice, le chef de la mission de contrôle économique et financier présente aux ministres intéressés un rapport général sur les conventions qui ont été autorisées durant cet exercice, par application du présent article.
