@@ -1,125 +1,203 @@
 # Article 7
 
-Les critères microbiologiques relatifs aux laits fermentés (yaourts, kéfir, etc.), aux laits gélifiés, aux fromages frais pasteurisés, aux crèmes fraîches pasteurisées, aux glaces et crèmes glacées, aux caséines et caséinates sont les suivants :
+Les produits visés au présent article doivent être exempts de micro-organismes ou toxines à des niveaux dangereux pour la santé publique. En outre, les critères microbiologiques et biochimiques applicables aux laits de consommation ou aux produits laitiers non revêtus d'une estampille de salubrité communautaire, d'une part, et, d'autre part, aux laits de consommation ou aux produits laitiers revêtus d'une marque de salubrité communautaire jusqu'à leur date limite de consommation (DLC) sont les suivants :
 
-Laits fermentés (yaourts, kéfir).
+DÉSIGNATION
 
-Micro-organismes aérobies 30 degrés C (par gramme) :
+MICRO-ORGANISMES
 
-Coliformes 30 degrés C (par gramme) : 10
+aérobies à 30 °C
 
-Coliformes fécaux (par gramme) : 1
+(par gramme)
 
-Staphylococcus aureus (par gramme) :
+COLIFORMES
 
-Salmonella dans 25 grammes : Absence.
+à 30 °C
 
-Acidité exprimée en acide lactique dans la partie non grasse : -.
+(par gramme)
+
+COLIFORMES
+
+fécaux
+
+(par gramme)
+
+ESCHERICHIA COLI
+
+(par gramme) (1)
+
+STAPHYLOCOCCUS
+
+aureus
+
+(par gramme)
+
+SALMONELLA
+
+dans 25 grammes
+
+PHOSPHATASE
+
+ACIDITÉ
+
+exprimée
+
+en acide lactique (pour mille)
+
+dans la partie
+
+non grasse
+
+Lait pasteurisé conditionné jusqu'à J + 4.
+
+30 000
+
+10
+
+Absence
+
+dans 1 ml
+
+10
+
+Absence
+
+dans 250 ml
+
+Négative
+
+Lait pasteurisé conditionné à la date de péremption (2).
+
+102
+
+Absence
+
+dans 1 ml
+
+10
+
+Absence
+
+dans 250 ml
+
+Négative
+
+Entre 1,4 et 1,8
+
+Produits liquides à base de laits non traités thermiquement.
+
+10
+
+1
+
+Absence
+
+Produits liquides à base de laits traités thermiquement et fermentés, laits fermentés (notamment yaourts, kéfir).
+
+10
+
+1
+
+Absence
 
 Laits gélifiés et laits emprésurés aromatisés.
 
-Micro-organismes 30 degrés C (par gramme) : 10 puissance 3
+103
 
-Coliformes 30 degrés C (par gramme) : 10
+10
 
-Coliformes fécaux (par gramme) : 1
+1
 
-Staphylococcus aureus (par gramme) :
+Absence
 
-Salmonella dans 25 grammes : Absence.
+Beurre cru.
 
-Acidité exprimée en acide lactique dans la partie non grasse : -.
+102
 
-Fromages frais pasteurisés.
+Absence
 
-Micro-organismes aérobies 30 degrés C (par gramme) :
+Positive
 
-Coliformes 30 degrés C (par gramme) : 10
+Beurre pasteurisé, corps gras à base de matière grasse butyrique, beurre concentré.
 
-Coliformes fécaux (par gramme) : 1
+10
 
-Staphylococcus aureus (par gramme) : 10
+10
 
-Salmonella dans 25 grammes : Absence.
+Absence
 
-Acidité exprimée en acide lactique dans la partie non grasse :
+Négative
 
-Crèmes de consommation pasteurisées.
+Crème crue.
 
-Micro-organismes 30 degrés C (par gramme) : 3.10 puissance 4    Phosphatase négative.
+104 (3)
 
-Coliformes 30 degrés C (par gramme) : Conditionnée 10 vrac 100
+102
 
-Coliformes fécaux (par gramme) : 1
+Absence
 
-Staphylococcus aureus (par gramme) : 10
+Positive
 
-Salmonella dans 25 grammes : Absence.
+Crème pasteurisée.
 
-Acidité exprimée en acide lactique dans la partie non grasse :
+30 000 (4)
 
-supérieure ou égale à 2,5
+10
+
+103 (3)
+
+10
+
+Absence
+
+Négative
+
+4 (5)
+
+2,5 (4)
+
+Fromages non affinés aux laits traités thermiquement.
+
+10
+
+1
+
+10
+
+Absence
+
+Caséines et caséinates (6).
+
+30 000
+
+et flore thermophile
+
+5 x 103
+
+Absence
+
+dans 0,1 g
 
 Glaces et crèmes glacées.
 
-Micro-organismes aérobies 30 degrés C (par gramme) : 3.10 puissance 5
+3 x 105
 
-Coliformes 30 degrés C (par gramme) : 10 puissance 2
+102
 
-Coliformes fécaux (par gramme) : 1
+1
 
-Staphylococcus aureus (par gramme) : 10
+10
 
-Salmonella dans 25 grammes : Absence.
+Absence
 
-Acidité exprimée en acide lactique dans la partie grasse :
+(1) Dénombrement selon la norme expérimentale de l'AFNOR V 08-053 " Microbiologie alimentaire-Dénombrement des Escherichia coli -glucoronidase positive par comptage des colonies à 44 °C-Méthode de routine ".
 
-Caséines et caséinates (1).
+(2) Doit être stable à l'ébullition.
 
-Micro-organismes aérobies 30 degrés C (par gramme) :
+(3) Le dépassement de ces normes doit entraîner dans tous les cas une révision de la mise en oeuvre des méthodes de surveillance et de contrôle des points critiques appliquées dans l'établissement de transformation. Le directeur des services vétérinaires est informé des procédures correctives introduites dans le système de surveillance de la production pour empêcher la répétition de tels dépassements.
 
-3.10 puissance 4 et flore thermophile 5.10 puissance 3
+(4) Ne s'applique pas aux crèmes maturées.
 
-Coliformes 30 degrés C (par gramme) : Absence dans 0,1 gramme.
+(5) S'applique uniquement aux crèmes maturées.
 
-Coliformes fécaux (par gramme) :
-
-Staphylococcus aureus (par gramme) :
-
-Salmonella dans 25 grammes :
-
-Acidité exprimée en acide lactique dans la partie non grasse : -.    (1) Journal officiel des Communautés européennes du 31 janvier 1973, règlement 455/73.
-
-Les critères relatifs au lait d'un même producteur, destiné à un traitement thermique ou à la transformation au moment de la collecte, sont les suivants :
-
-Critères (lait au moment de la collecte).
-
-Micro-organismes aérobies mésophiles (par millilitre) : (1) 500.000 (3)
-
-Notes (1) (2) : 2 ou 3 (3)
-
-Cellules somatiques (par millilitre) : 750.000 (4).
-
-Camemberts à base de lait cru destinés au traitement ionisant.
-
-Listéria monocytogènes : absence dans 25 grammes, n = 5, c = 0.    Salmonella spp. : absence dans 25 grammes, n = 5, c = 0.
-
-Escherichia coli (par gramme) : m = 10 puissance 4, M = 10 puissance 5, n = 5, c = 2.
-
-Staphylococcus aureus (par gramme) : m = 10 puissance 4, M = 10 puissance 5, n = 5, c = 2.
-
-Camemberts à base de lait cru après traitement ionisant.
-
-Listéria monocytogènes : absence dans 50 grammes, n = 5, c = 0.    Salmonella spp. : absence dans 50 grammes, n = 5, c = 0.
-
-Escherichia coli (par gramme) : m = 10 puissance 2, M = 10 puissance 3, n = 5, c = 2.
-
-Staphylococcus aureus (par gramme) : m = 10 puissance 2, M = 10 puissance 3, n = 5, c = 2.
-
-(1) Les méthodes d'analyse employées pour ces critères sont celles décrites à l'annexe II de l'arrêté du 16 décembre 1970 modifié cité ci-dessus.
-
-(2) Ce critère concerne les laits encore soumis aux méthodes de réduction, énoncées au paragraphe A de l'annexe II de l'arrêté du 16 décembre 1970 modifié, réglementant les modalités techniques de prélèvement et d'analyse des échantillons des laits livrés par les producteurs aux fins de détermination de la composition et de la qualité.
-
-(3) Ces critères doivent être satisfaits au cours d'au moins un examen de laboratoire sur les autres derniers réalisés et séparés de quinze jours au plus.
-
-(4) Ces critères doivent être satisfaits au cours d'au moins un examen de laboratoire sur les quatre derniers réalisés et séparés d'un mois au plus.
+(6) Journal officiel des Communautés européennes du 11 octobre 1990, règlement (CEE) n° 2921/90.
