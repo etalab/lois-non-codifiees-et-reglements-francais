@@ -1,0 +1,5 @@
+# Article 3
+
+Les éléments mobiles des machines et appareils autres que ceux qui sont mentionnés au premier alinéa de l'article R. 233-93, qui concourent à l'exécution du travail et qui, du fait de leur mouvement relatif, de la vitesse ou de l'énergie mise en jeu, peuvent provoquer des accidents, notamment par choc, sectionnement, écrasement, doivent être conçus, construits, disposés, commandés de façon que ces éléments mobiles soient inaccessibles pendant leur fonctionnement. A défaut, ils doivent être munis de protecteurs ou dispositifs de protection assurant une sécurité équivalente.
+
+Toutefois, lorsque certains de ces éléments mobiles ne peuvent être rendus inaccessibles pour tout ou partie pendant leur fonctionnement compte tenu des opérations à effectuer et nécessitent l'intervention de l'opérateur, ces éléments mobiles doivent, dans la mesure de ce qui est techniquement possible, être munis de protecteurs ou dispositifs de protection. Ceux-ci doivent limiter l'accessibilité et interdire notamment l'accès aux parties des éléments non utilisés pour le travail.

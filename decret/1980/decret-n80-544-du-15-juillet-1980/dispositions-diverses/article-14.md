@@ -1,0 +1,5 @@
+# Article 14
+
+Les dispositions du présent décret s'appliquent à compter du premier jour du neuvième mois suivant sa publication au Journal officiel de la République française [*date*] aux machines et appareils neufs mentionnés à l'article premier ci-dessus exposés, mis en vente, vendus, importés, loués, cédés à quelque titre que ce soit ou utilisés.
+
+Toutefois le délai indiqué à l'alinéa précédent peut être prolongé pour certaines dispositions s'appliquant à certaines catégories de machines ou d'appareils sur demande présentée dans les quatre mois [*délai*] suivant la publication du présent décret par arrêté, selon le cas, du ministre chargé du travail après avis du conseil supérieur de la prévention des risques professionnels ou du ministre de l'agriculture, après avis de la commission nationale d'hygiène et de sécurité du travail en agriculture. L'arrêté, fixant l'un et l'autre cas après avis des organisations professionnelles intéressées doit prescrire des mesures assurant des conditions de sécurité équivalentes.

@@ -1,0 +1,5 @@
+# Article 2
+
+Les dispositions du présent décret s'appliquent à compter du premier jour du neuvième mois suivant sa publication au Journal officiel de la République française, aux machines et appareils neufs mentionnés à l'article R. 233-84 et qui sont exposés, mis en vente, vendus, importés, loués, cédés à quelque titre que ce soit ou utilisés.
+
+Toutefois le délai indiqué à l'alinéa précédent peut être prolongé pour certaines dispositions s'appliquant à certaines catégories de machines ou d'appareils, sur demande présentée dans les quatre mois de la publication du présent décret, [*point de départ*], selon le cas par arrêté du ministre chargé du travail après avis du conseil supérieur de la prévention des risques professionnels, ou par arrêté du ministre de l'agriculture après avis de la commission nationale d'hygiène et de sécurité du travail en agriculture. L'arrêté, fixant l'un et l'autre cas, après avis des organisations professionnelles intéressées, doit prescrire des mesures assurant des conditions de sécurité équivalentes.
