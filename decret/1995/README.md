@@ -412,6 +412,7 @@
 - [Décret n°95-58 du 13 janvier 1995 (DEFD9401861D)](decret-n95-58-du-13-janvier-1995-defd9401861d)
 - [Décret n°95-840 du 13 juillet 1995 (INDH9500671D)](decret-n95-840-du-13-juillet-1995-indh9500671d)
 - [Décret n°95-842 du 13 juillet 1995 (MENU9501271D)](decret-n95-842-du-13-juillet-1995-menu9501271d)
+- [Décret n°95-843 du 13 juillet 1995 (ECOX9500943D)](decret-n95-843-du-13-juillet-1995-ecox9500943d)
 - [Décret n°93-69 du 14 janvier 1993 (MENF9204458D)](decret-n93-69-du-14-janvier-1993-menf9204458d)
 - [Décret n°95-176 du 14 février 1995 (AGRP9402413D)](decret-n95-176-du-14-fevrier-1995-agrp9402413d)
 - [Décret n°95-185 du 14 février 1995 (SPSA9503823D)](decret-n95-185-du-14-fevrier-1995-spsa9503823d)
