@@ -1,0 +1,3 @@
+# Article 14
+
+Lorsqu'ils sont issus des concours organisés en application de l'article 5 ci-dessus, les agents des collectivités territoriales et des organisations internationales intergouvernementales sont titularisés en application de l'article 8 ci-dessus et classés dans le grade d'attaché, en tenant compte des services accomplis auprès des collectivités territoriales ou des organisations internationales intergouvernementales ; en application des modalités prévues aux articles 10 à 12 ci-dessus, selon le niveau de l'emploi qu'ils occupaient précédemment s'il s'agit d'agents titulaires, et à l'article 13 s'il s'agit d'agents non titulaires.
