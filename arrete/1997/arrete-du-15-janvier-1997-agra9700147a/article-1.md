@@ -12,7 +12,7 @@ Chef de l'arrondissement équipement rural de Draguignan (Var) ;
 
 Chef du service équipement rural de l'Oise ;
 
-Chef du service équipement rural du Morbihan ;
+Chef du service équipements collectifs ruraux de la Loire-Atlantique ;
 
 Adjoint au directeur départemental de l'agriculture et de la forêt de la Seine Maritime ;
 
