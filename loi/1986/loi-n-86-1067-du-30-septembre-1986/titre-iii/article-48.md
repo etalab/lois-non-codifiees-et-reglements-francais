@@ -1,6 +1,6 @@
 # Article 48
 
-Un cahier des charges fixé par décret définit les obligations de chacune des sociétés nationales de programme, et notamment celles qui sont liées à leur mission éducative, culturelle et sociale.
+Un cahier des charges fixé par décret définit les obligations de la société mentionnée à l'article 45 et de chacune des sociétés nationales de programme, et notamment celles qui sont liées à leur mission éducative, culturelle et sociale.
 
 Le Conseil supérieur de l'audiovisuel est saisi pour avis par le Gouvernement des dispositions des cahiers des charges. Cet avis motivé est publié au Journal officiel de la République française ainsi que le rapport de présentation du décret.
 

@@ -92,6 +92,7 @@
 - [Décret n°94-81 du 26 janvier 1994 (MAEF9310027D)](decret-n94-81-du-26-janvier-1994-maef9310027d)
 - [Décret n°94-85 du 26 janvier 1994 (BUDF9320634D)](decret-n94-85-du-26-janvier-1994-budf9320634d)
 - [Décret n°94-86 du 26 janvier 1994 (LOGC9300027D)](decret-n94-86-du-26-janvier-1994-logc9300027d)
+- [Décret n°94-92 du 26 janvier 1994 (AGRS9302026D)](decret-n94-92-du-26-janvier-1994-agrs9302026d)
 - [Décret n°95-502 du 26 avril 1995 (AGRA9500605D)](decret-n95-502-du-26-avril-1995-agra9500605d)
 - [Décret n°91-321 du 27 mars 1991 (MENT9001668D)](decret-n91-321-du-27-mars-1991-ment9001668d)
 - [Décret n°93-1023 du 27 août 1993 (SPSS9302211D)](decret-n93-1023-du-27-aout-1993-spss9302211d)
@@ -132,4 +133,5 @@
 - [Décret n°93-1448 du 31 décembre 1993 (JUSB9310495D)](decret-n93-1448-du-31-decembre-1993-jusb9310495d)
 - [Décret n°93-1449 du 31 décembre 1993 (JUSX9301216D)](decret-n93-1449-du-31-decembre-1993-jusx9301216d)
 - [Décret n°93-1450 du 31 décembre 1993 (AGRS9302292D)](decret-n93-1450-du-31-decembre-1993-agrs9302292d)
+- [Décret n°94-91 du 31 janvier 1994 (INDP9400061D)](decret-n94-91-du-31-janvier-1994-indp9400061d)
 - [Décret n°95-364 du 31 mars 1995 (DEFP9501165D)](decret-n95-364-du-31-mars-1995-defp9501165d)

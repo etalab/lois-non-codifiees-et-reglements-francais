@@ -23,3 +23,4 @@
 - [Article 42-9](article-42-9.md)
 - [Article 42-10](article-42-10.md)
 - [Article 42-11](article-42-11.md)
+- [Article 42-12](article-42-12.md)

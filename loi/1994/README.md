@@ -13,3 +13,4 @@
 - [Loi n° 94-43 du 18 janvier 1994 (SPSX9300136L)](loi-n-94-43-du-18-janvier-1994-spsx9300136l)
 - [Loi n° 94-44 du 18 janvier 1994 (INTX9300132L)](loi-n-94-44-du-18-janvier-1994-intx9300132l)
 - [Loi n° 94-66 du 24 janvier 1994 (BUDX9300095L)](loi-n-94-66-du-24-janvier-1994-budx9300095l)
+- [Loi n° 94-88 du 1 février 1994 (MICX9300166L)](loi-n-94-88-du-1-fevrier-1994-micx9300166l)
