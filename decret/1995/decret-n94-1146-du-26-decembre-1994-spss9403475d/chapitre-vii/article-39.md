@@ -8,6 +8,6 @@ Sont considérées comme autorités compétentes pour l'application du présent 
 
 Sont considérés comme organismes de liaison pour l'application du présent décret :
 
-- en ce qui concerne le territoire métropolitain et les départements d'outre-mer : le centre de sécurité sociale des travailleurs migrants ;
+- en ce qui concerne le territoire métropolitain et les départements d'outre-mer : le centre des liaisons européennes et internationales de sécurité sociale ;
 
 - en ce qui concerne le territoire de la Polynésie française : la caisse de prévoyance sociale de la Polynésie française.
