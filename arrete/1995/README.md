@@ -368,7 +368,6 @@
 - [Arrêté du 9 août 1995 (ECOL9500060A)](arrete-du-9-aout-1995-ecol9500060a)
 - [Arrêté du 9 août 1995 (ECOL9500061A)](arrete-du-9-aout-1995-ecol9500061a)
 - [Arrêté du 9 août 1995 (ECOL9500062A)](arrete-du-9-aout-1995-ecol9500062a)
-- [Arrêté du 9 août 1995 (INTC9500433A)](arrete-du-9-aout-1995-intc9500433a)
 - [Arrêté du 9 avril 1995 (DEFD9501393A)](arrete-du-9-avril-1995-defd9501393a)
 - [Arrêté du 9 décembre 1994 (ENVE9430407A)](arrete-du-9-decembre-1994-enve9430407a)
 - [Arrêté du 9 décembre 1994 (RESK9402052A)](arrete-du-9-decembre-1994-resk9402052a)

@@ -240,7 +240,6 @@
 - [Arrêté du 8 décembre 1997 (AGRA9702149A)](arrete-du-8-decembre-1997-agra9702149a)
 - [Arrêté du 8 décembre 1997 (ATEP9760549A)](arrete-du-8-decembre-1997-atep9760549a)
 - [Arrêté du 8 décembre 1997 (EQUP9701766A)](arrete-du-8-decembre-1997-equp9701766a)
-- [Arrêté du 8 décembre 1997 (EQUS9701855A)](arrete-du-8-decembre-1997-equs9701855a)
 - [Arrêté du 8 décembre 1997 (EQUT9701843A)](arrete-du-8-decembre-1997-equt9701843a)
 - [Arrêté du 8 décembre 1997 (INTD9700568A)](arrete-du-8-decembre-1997-intd9700568a)
 - [Arrêté du 8 janvier 1997 (DEFL9701062A)](arrete-du-8-janvier-1997-defl9701062a)
