@@ -466,7 +466,6 @@
 - [Décret n°85-1507 du 31 décembre 1985](decret-n85-1507-du-31-decembre-1985)
 - [Décret n°85-1509 du 31 décembre 1985](decret-n85-1509-du-31-decembre-1985)
 - [Décret n°85-1510 du 31 décembre 1985](decret-n85-1510-du-31-decembre-1985)
-- [Décret n°85-1519 du 31 décembre 1985](decret-n85-1519-du-31-decembre-1985)
 - [Décret n°85-1530 du 31 décembre 1985](decret-n85-1530-du-31-decembre-1985)
 - [Décret n°85-1531 du 31 décembre 1985](decret-n85-1531-du-31-decembre-1985)
 - [Décret n°85-1534 du 31 décembre 1985](decret-n85-1534-du-31-decembre-1985)
