@@ -1,6 +1,6 @@
 # Article 11
 
-Un mandataire de chaque liste doit verser à la caisse des dépôts et consignations un cautionnement de 100.000 F [*montant*].
+Un mandataire de chaque liste doit verser à la caisse des dépôts et consignations un cautionnement de 15 000 euros.
 
 Le cautionnement est remboursé aux listes qui ont obtenu au moins 5 p. 100 des suffrages exprimés [*pourcentage*].
 
