@@ -80,10 +80,6 @@ ST/PAA/TPA/STP/1062 Interface réseau analogique des systèmes de commutation pr
 
 40 DRG 12 - 1992
 
-ST/PAA/TPA/STP/1063 Interface de poste d'usager des systèmes de commutation privés.
-
-46 DRG 18 - 1992
-
 ST/PAA/TPA/STP/1064 Raccordement numérique entre une installation privée temporelle et un autocommutateur de réseau public.
 
 41 DRG 13 - 1992

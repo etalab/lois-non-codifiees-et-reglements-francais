@@ -1,4 +1,4 @@
-# Arrêté du 25 septembre 1995 relatif aux conditions sanitaires régissant les échanges intracommunautaires de certains produits d'origine animale
+# Décret n°96-788 du 11 septembre 1996 relatif au Fonds de réorientation et de modernisation de la médecine libérale
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -9,4 +9,4 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
-- [Annexes](annexes)
+- [Article 10](article-10.md)
