@@ -16,10 +16,10 @@ La compétence du Conseil d'Etat, telle qu'elle est fixée par les articles 2 (a
 
 7° Les appels contre les décisions rendues en premier ressort par les juridictions administratives, dans tous les cas où la loi n'en dispose pas autrement ;
 
-8° Les recours en cassation contre les décisions en dernier ressort par les juridictions administratives.
+8° Les recours en cassation contre les décisions en dernier ressort par les juridictions administratives ;
 
-9° Les recours en annulation dirigés contre les décisions administratives des organismes collégiaux à compétence nationale.
+9° Les recours en annulation dirigés contre les décisions administratives des organismes collégiaux à compétence nationale ;
 
-10° Les pourvois dirigés contre les décisions prises par les tribunaux administratifs en application de l'article L. 316-5 du Code des communes.
+10° Les pourvois dirigés contre les décisions prises par les tribunaux administratifs en application des articles L. 2132-5 et L. 5211-58 du code général des collectivités territoriales.
 
 En outre, le Conseil d'Etat reste juge de droit commun du contentieux administratif, autre que le contentieux local, né dans les territoires soumis à la juridiction des conseils du contentieux administratif, ou concernant les droits des fonctionnaires des cadres généraux du ministère chargé des départements et territoires de la France d'outre-mer.
