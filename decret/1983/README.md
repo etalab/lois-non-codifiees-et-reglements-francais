@@ -3,6 +3,7 @@
 - [Décret n°83-588 du 1 juillet 1983](decret-n83-588-du-1-juillet-1983)
 - [Décret n°84-894 du 1 octobre 1984](decret-n84-894-du-1-octobre-1984)
 - [Décret n°84-895 du 1 octobre 1984](decret-n84-895-du-1-octobre-1984)
+- [Décret n°83-153 du 2 mars 1983](decret-n83-153-du-2-mars-1983)
 - [Décret n°83-68 du 2 février 1983](decret-n83-68-du-2-fevrier-1983)
 - [Décret n°83-70 du 2 février 1983](decret-n83-70-du-2-fevrier-1983)
 - [Décret n°83-76 du 2 février 1983](decret-n83-76-du-2-fevrier-1983)
