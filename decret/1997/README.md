@@ -361,6 +361,7 @@
 - [Décret n°97-59 du 23 janvier 1997 (INTA9700019D)](decret-n97-59-du-23-janvier-1997-inta9700019d)
 - [Décret n°97-61 du 23 janvier 1997 (DEFX9600153D)](decret-n97-61-du-23-janvier-1997-defx9600153d)
 - [Décret n°97-522 du 23 mai 1997 (ECOT9751581D)](decret-n97-522-du-23-mai-1997-ecot9751581d)
+- [Décret n°97-523 du 23 mai 1997 (MJSK9770046D)](decret-n97-523-du-23-mai-1997-mjsk9770046d)
 - [Décret n°96-1133 du 24 décembre 1996 (TAST9611675D)](decret-n96-1133-du-24-decembre-1996-tast9611675d)
 - [Décret n°97-162 du 24 février 1997 (MIPP9700028D)](decret-n97-162-du-24-fevrier-1997-mipp9700028d)
 - [Décret n°97-163 du 24 février 1997 (AGRS9700228D)](decret-n97-163-du-24-fevrier-1997-agrs9700228d)
