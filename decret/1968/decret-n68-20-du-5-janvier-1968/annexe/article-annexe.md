@@ -614,13 +614,13 @@ FIXANT LES  CONDITIONS D'APPLICATION DE LA LOI N° 66-496 DU 11 JUILLET 1966 REL
 </td>
 <td/>
 <td>
-<p> Techniciens des études et de l'exploitation de </p>
-<p>l'aviation civile.<br/>
-</p>
+<br/>
+<p>Techniciens supérieurs des études et de l'exploitation </p>
+<p>de l'aviation civile. </p>
 </td>
 <td>
-<p> Techniciens des études et de l'exploitation de </p>
-<p>l'aviation civile.</p>
+<p>Techniciens supérieurs des études et de</p>
+<p>l'exploitation de l'aviation civile.</p>
 </td>
 </tr>
 <tr>
