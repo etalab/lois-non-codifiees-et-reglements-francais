@@ -24,9 +24,11 @@ Nancy, nombre de collèges : 1
 
 Nantes, nombre de collèges : 1
 
+Rennes, nombre de collèges : 1
+
 Paris, nombre de collèges : 1
 
-Caen, nombre de collèges : 1
+Rouen, nombre de collèges : 1
 
 Toulouse, nombre de collèges : 1
 
