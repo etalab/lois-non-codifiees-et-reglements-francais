@@ -94,6 +94,7 @@
 - [Décret n°85-1394 du 27 décembre 1985](decret-n85-1394-du-27-decembre-1985)
 - [Décret n°85-1395 du 27 décembre 1985](decret-n85-1395-du-27-decembre-1985)
 - [Décret n°85-1400 du 27 décembre 1985](decret-n85-1400-du-27-decembre-1985)
+- [Décret n°85-1402 du 27 décembre 1985](decret-n85-1402-du-27-decembre-1985)
 - [Décret n°85-915 du 27 août 1985](decret-n85-915-du-27-aout-1985)
 - [Décret n°85-1145 du 28 octobre 1985](decret-n85-1145-du-28-octobre-1985)
 - [Décret n°85-1146 du 28 octobre 1985](decret-n85-1146-du-28-octobre-1985)

@@ -1,4 +1,4 @@
-# Arrêté du 19 décembre 1985 du 19 décembre 1985 fixant le plafond de ressources de l'année 1984 applicable en 1986 pour l'octroi des majorations aux rentes viagères constituées à compter du 1er janvier 1979
+# Arrêté du 19 décembre 1985 portant création d'une commission consultative de la création artistique compétente en matière de photographie
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
