@@ -1,3 +1,3 @@
 # Article 4
 
-Le secrétariat général de la commission électorale est assuré par le secrétariat commun défini à l'article 32 du décret du 24 novembre 1982 modifié susvisé.
+Un délégué pour les élections désigné par le directeur général du Centre national de la recherche scientifique assiste la commission électorale pour la conduite des élections et en assure le secrétariat.
