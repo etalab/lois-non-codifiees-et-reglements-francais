@@ -1,5 +1,7 @@
 # Article 2
 
-Les préfets peuvent autoriser dans les cours d'eau de 1re catégorie à grand débit qu'ils désigneront l'emploi comme appât, mais sans amorçage, des asticots des espèces de diptères brachycères observées en France.
+Les spécialités contenant de l'aldicarbe, matière inscrite au tableau A des substances vénéneuses, doivent être des granulés, fortement colorés, à odeur répulsive prononcée et dont la concentration en aldicarbe ne doit pas dépasser cinq pour cent.
 
-Demeure dans tous les cas interdit dans les cours d'eau de 1re catégorie l'emploi des larves de diptères brachycères d'espèces étrangères ou de leurs imitations artificielles, notamment celles appartenant aux genres Calliphora, Lucilia et Ophyra.
+Elles doivent avoir reçu l'autorisation de vente prévue par la loi validée et modifiée du 2 novembre 1943.
+
+Elles doivent être conditionnées dans des emballages rigides à l'intérieur de chacun desquels adhérera une enveloppe étanche pourvue d'une prédécoupe à proximité de l'un de ses coins de telle sorte que, sans que soit affectée la résistance mécanique de sa soudure, il soit possible de procéder à son ouverture sans faire usage d'un instrument.
