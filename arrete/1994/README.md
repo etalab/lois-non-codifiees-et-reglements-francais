@@ -291,7 +291,6 @@
 - [Arrêté du 8 mars 1994 (BUDR9407016A)](arrete-du-8-mars-1994-budr9407016a)
 - [Arrêté du 8 mars 1994 (COPC9400008A)](arrete-du-8-mars-1994-copc9400008a)
 - [Arrêté du 8 mars 1994 (ECOM9460078A)](arrete-du-8-mars-1994-ecom9460078a)
-- [Arrêté du 8 mars 1994 (INDP9400326A)](arrete-du-8-mars-1994-indp9400326a)
 - [Arrêté du 8 septembre 1994 (ACVP9420020A)](arrete-du-8-septembre-1994-acvp9420020a)
 - [Arrêté du 8 septembre 1994 (BUDR9405021A)](arrete-du-8-septembre-1994-budr9405021a)
 - [Arrêté du 8 septembre 1994 (DEFT9401907A)](arrete-du-8-septembre-1994-deft9401907a)
