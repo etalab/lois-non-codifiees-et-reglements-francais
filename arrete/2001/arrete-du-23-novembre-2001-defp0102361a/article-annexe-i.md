@@ -14,15 +14,15 @@ Les dates limites indiquées dans les procédures de préinscription et d'envoi 
 
 Le dossier d'inscription comprend les documents suivants :
 
-1o Une photocopie de la carte nationale d'identité ou du passeport du candidat ;
+1° Une photocopie de la carte nationale d'identité ou du passeport du candidat ;
 
-2o Un certificat médical délivré au candidat par le médecin de son choix attestant son aptitude à subir dans leur totalité les épreuves d'éducation physique et sportives du concours ;
+2° Un certificat médical délivré au candidat par le médecin de son choix attestant son aptitude à subir dans leur totalité les épreuves d'éducation physique et sportives du concours ;
 
-3o Un certificat de participation à la journée d'appel de préparation à la défense ou un certificat de recensement, suivant l'âge du candidat ;
+3° Un certificat de participation à la journée d'appel de préparation à la défense ou un certificat de recensement, suivant l'âge du candidat ;
 
-4o Le règlement des droits d'inscription dont le montant est fixé par arrêté conjoint du ministre de la défense et du ministre chargé du budget ;
+4° Le règlement des droits d'inscription dont le montant est fixé par arrêté conjoint du ministre de la défense et du ministre chargé du budget ;
 
-5o Une déclaration signée du candidat suivant le modèle donné à l'annexe II du présent arrêté.
+5° Une déclaration signée du candidat suivant un modèle établi annuellement par le directeur général de l'Ecole polytechnique.
 
 Les candidats sont personnellement responsables de l'exactitude de tous les renseignements donnés.
 

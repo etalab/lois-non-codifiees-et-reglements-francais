@@ -12,6 +12,6 @@ Les épreuves écrites se déroulent dans des centres d'examen fixés chaque ann
 
 Les épreuves orales ainsi que les épreuves d'éducation physique et sportives ont lieu dans la région parisienne.
 
-Pour la filière MP, le concours comporte deux options, MP-informatique et MP-sciences industrielles, donnant lieu à deux classements distincts des candidats selon l'option qu'ils ont choisie au moment de leur inscription au concours.
+Pour la filière MP, le concours comporte deux options, MP-informatique et MP physique et sciences de l'ingénieur, donnant lieu à deux classements distincts des candidats selon l'option qu'ils ont choisie au moment de leur inscription au concours.
 
 Pour la filière PC, le concours est organisé en commun avec l'Ecole supérieure de physique et de chimie industrielles de la ville de Paris.

@@ -68,7 +68,7 @@ B. - Programme scientifique
 
 I. - Dispositions relatives à l'ensemble des épreuves
 
-Pour les épreuves écrites et orales de mathématiques, de physique, de chimie, de sciences industrielles ou d'informatique, et les épreuves pratiques de physique ou de chimie, le programme de chacune des filières MP et PC est celui des classes préparatoires MP* et PC*.
+Pour les épreuves écrites et orales de mathématiques, de physique, de chimie, de physique et sciences de l'ingénieur ou d'informatique, et les épreuves pratiques de physique ou de chimie, le programme de chacune des filières MP et PC est celui des classes préparatoires MP* et PC*.
 
 Il s'agit des programmes de deuxième année en vigueur au 1er janvier de l'année du concours, et de ceux de première année en vigueur au 1er janvier de l'année précédente, définis par le Bulletin officiel de l'éducation nationale.
 
@@ -76,9 +76,15 @@ Il est entendu que les candidats devront connaître les notions du programme du 
 
 Dans l'une et l'autre des filières MP et PC, les épreuves orales scientifiques, ainsi que les épreuves de travaux pratiques, pourront faire appel à l'utilisation d'un ordinateur équipé, entre autres, des logiciels de calcul formel figurant sur la liste publiée par circulaire du ministre de l'éducation nationale. L'examinateur donnera toute indication utile pour le bon emploi du matériel et du logiciel associé.
 
-II. - Physique
+II. - Epreuves de physique
 
-Les épreuves de physique de la filière MP pourront comporter des questions utilisant certaines connaissances inscrites au programme de chimie.
+et de physique et sciences de l'ingénieur
+
+L'épreuve de physique de l'option physique et sciences de l'ingénieur de la filière MP portera sur l'ensemble du programme de physique de cette filière.
+
+L'épreuve de physique et sciences de l'ingénieur de l'option physique et sciences de l'ingénieur de la filière MP portera sur l'ensemble des programmes de physique et de sciences industrielles de cette filière.
+
+Les épreuves de physique et de physique et sciences de l'ingénieur de la filière MP pourront comporter des questions utilisant certaines connaissances inscrites au programme de chimie.
 
 III. - Epreuve d'analyse de documents scientifiques
 
