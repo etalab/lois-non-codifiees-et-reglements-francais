@@ -8,4 +8,6 @@
 
 Le préfet se prononce, après avis de la commission départementale d'orientation de l'agriculture, sur l'éligibilité de la demande au regard des conditions prévues à l'article 2 et sur les projets de cession des terres libérées.
 
+Le silence gardé pendant plus de six mois par le préfet sur la demande de préretraite vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.
+
 Les cessions sont soumises à autorisation préalable du préfet et la nouvelle exploitation ainsi constituée ne doit pas excéder le seuil fixé par le schéma directeur départemental des structures. Ce seuil est compris entre 0,5 et 1,5 fois l'unité de référence définie à l'article L. 312-5 du code rural.

@@ -1,0 +1,17 @@
+# Décret n°2001-612 du 9 juillet 2001 relatif aux déclarations de surface et à la gestion et au contrôle du régime de soutien aux producteurs de certaines cultures arables et de riz
+
+- [Article 14](article-14.md)
+- [Article 15](article-15.md)
+- [Transfert des superficies éligibles au régime de soutien.](transfert-des-superficies-eligibles-au)
+- [Accès aux paiements à la surface sur la base des rendements obtenus par irrigation.](acces-aux)
+- [Conditions environnementales pour l'accès aux paiements à la surface sur la base des rendements obtenus par irrigation.](conditions-environnementales-pour-l-acces-aux)
+- [Octroi des aides spécifiques pour le blé dur.](octroi-des-aides-specifiques-pour-le-ble-dur)
+- [Constatation des dépassements.](constatation-des-depassements)
+- [Dispositions générales.](dispositions-generales)
+- [Entretien des parcelles retirées de la production.](entretien-des-parcelles-retirees-de-la-production)
+- [Forme et date limite de dépôt des déclarations de surface.](forme-et)
+- [Plan de régionalisation, superficies de base et superficies maximales garanties.](plan-de-regionalisation-superficies-de-base-et)
+- [Lin et chanvre destinés à la production de fibres.](lin-et)
+- [Normes usuelles.](normes-usuelles)
+- [Retrait volontaire des terres de la production.](retrait-volontaire-des-terres-de-la-production)
+- [Surfaces fourragères.](surfaces-fourrageres)
