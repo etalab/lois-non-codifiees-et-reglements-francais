@@ -1,5 +1,6 @@
 # 1972
 
+- [Loi n° 70-1284 du 31 décembre 1970](loi-n-70-1284-du-31-decembre-1970)
 - [Loi n° 71-1112 du 31 décembre 1971](loi-n-71-1112-du-31-decembre-1971)
 - [Loi n° 71-1130 du 31 décembre 1971](loi-n-71-1130-du-31-decembre-1971)
 - [Loi n° 71-424 du 10 juin 1971](loi-n-71-424-du-10-juin-1971)

@@ -1,0 +1,16 @@
+# REGLEMENT TYPE DES SYSTEMES FEDERAUX DE GARANTIE DES MUTUELLES (1) (1) Ce règlement type est également applicable aux unions de mutuelles.
+
+- [Article Annexe, article 1](article-annexe-article-1.md)
+- [Article Annexe, article 2](article-annexe-article-2.md)
+- [Article Annexe, article 3](article-annexe-article-3.md)
+- [Article Annexe, article 4](article-annexe-article-4.md)
+- [Article Annexe, article 5](article-annexe-article-5.md)
+- [Article Annexe, article 6](article-annexe-article-6.md)
+- [Article Annexe, article 7](article-annexe-article-7.md)
+- [Article Annexe, article 8](article-annexe-article-8.md)
+- [Article Annexe, article 9](article-annexe-article-9.md)
+- [Article Annexe, article 10](article-annexe-article-10.md)
+- [Article Annexe, article 11](article-annexe-article-11.md)
+- [Article Annexe, article 12](article-annexe-article-12.md)
+- [Article Annexe, article 13](article-annexe-article-13.md)
+- [Article Annexe, article 14](article-annexe-article-14.md)

@@ -18,7 +18,7 @@ Un sur une liste de trois noms présentés par l'association nationale des porte
 
 Toutefois, lorsque la participation de l'Etat dans le capital social est inférieure à 25 % le nombre des administrateurs désignés par le ministre des finances est ramené à trois ; ces administrateurs sont choisis dans les conditions prévues aux alinéas 6, 7 et 8 du présent article, les neuf autres administrateurs sont élus par l'assemblée générale des actionnaires.
 
-Lorsque la participation de l'Etat est inférieure à 5 % du capital social, les dispositions du présent article cessent de recevoir application. La société est alors soumise aux dispositions du titre II de la présente ordonnance et à celles de la loi du 24 juillet 1966 sur les sociétés commerciales.
+Lorsque la participation de l'Etat est inférieure à 5 % du capital social, les dispositions du présent article cessent de recevoir application. La société est alors soumise aux dispositions du titre II de la présente ordonnance et à celles du code de commerce.
 
 Les administrateurs désignés par le ministre de l'économie et des finances resteront en place jusqu'à la première assemblée générale suivant la date à laquelle la participation de l'Etat sera devenue inférieure à 5 %.
 

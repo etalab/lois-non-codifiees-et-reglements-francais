@@ -12,7 +12,7 @@ Les droits pouvant être attachés à une action spécifique sont les suivants :
 
 L'institution de cette action produit ses effets de plein droit.    Hormis les cas où l'indépendance nationale est en cause, l'action spécifique peut à tout moment être définitivement transformée en action ordinaire par décret.
 
-II. - Pour les entreprises visées au présent titre ou leurs filiales, dont l'activité principale relève des articles 55, 56 et 223 du traité instituant la Communauté européenne, les participations excédant 5 p. 100 prises par des personnes physiques ou morales étrangères ou sous contrôle étranger, au sens de l'article 355-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, agissant seules ou de concert, sont soumises à l'agrément du ministre chargé de l'économie.
+II. - Pour les entreprises visées au présent titre ou leurs filiales, dont l'activité principale relève des articles 55, 56 et 223 du traité instituant la Communauté européenne, les participations excédant 5 p. 100 prises par des personnes physiques ou morales étrangères ou sous contrôle étranger, au sens de l'article L. 233-3 du code de commerce, agissant seules ou de concert, sont soumises à l'agrément du ministre chargé de l'économie.
 
 III. - Lorsque des prises de participation ont été effectuées en méconnaissance des dispositions du 1° du I ou du II du présent article, le ou les détenteurs des participations acquises irrégulièrement ne peuvent pas exercer les droits de vote correspondants et doivent céder ces titres dans un délai de trois mois.
 

@@ -1,0 +1,3 @@
+# Article 1
+
+Par dérogation aux dispositions de l'article 55 (1) de la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises et jusqu'au 31 décembre 1991, les sociétés à responsabilité limitée dont le capital social serait inférieur au montant minimal prévu par le premier alinéa de l'article L. 223-2 du code de commerce pourront être dissoutes à la demande de tout intéressé ou du ministère public. Le tribunal pourra accorder un délai maximal de six mois pour régulariser la situation ; il ne pourra prononcer la dissolution si, au jour où il statue sur le fond, la régularisation a eu lieu.

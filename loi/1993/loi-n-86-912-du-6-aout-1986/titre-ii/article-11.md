@@ -12,7 +12,7 @@ Le taux de rabais sur le prix de cession ne peut être supérieur à 20 % du pri
 
 Les délais totaux de paiement ne peuvent excéder trois ans.
 
-Les titres proposés par l'Etat sont cédés directement aux personnes mentionnées au premier alinéa ou, le cas échéant, à l'entreprise, à charge pour elle de les rétrocéder à ces mêmes personnes dans le délai d'un an sans modification du rabais et des délais de paiement éventuels. Lorsqu'un rabais a été prévu, il s'applique au cours de bourse au jour de la rétrocession. Durant ce délai, ces titres ne sont pas pris en compte pour déterminer le plafond de 10 % prévu par l'article 217-3 de la loi n° 66-537 du 24 juillet 1966 précitée et les droits de vote des titres ainsi détenus par la société sont suspendus.
+Les titres proposés par l'Etat sont cédés directement aux personnes mentionnées au premier alinéa ou, le cas échéant, à l'entreprise, à charge pour elle de les rétrocéder à ces mêmes personnes dans le délai d'un an sans modification du rabais et des délais de paiement éventuels. Lorsqu'un rabais a été prévu, il s'applique au cours de bourse au jour de la rétrocession. Durant ce délai, ces titres ne sont pas pris en compte pour déterminer le plafond de 10 % prévu par l'article L. 225-210 du code de commerce et les droits de vote des titres ainsi détenus par la société sont suspendus.
 
 Lorsque la somme des demandes des personnes mentionnées à l'alinéa premier et de l'entreprise est inférieure à 10 %, le ministre chargé de l'économie peut proposer à nouveau les titres non acquis, dans les six mois, aux personnes visées à l'alinéa premier aux mêmes conditions préférentielles. Lorsqu'un rabais a été prévu, il s'applique au cours de bourse au jour de la cession.
 

@@ -14,7 +14,7 @@ d) Pour un délit puni par des lois spéciales, des peines prévues aux articles
 
 e) Pour soustractions commises par dépositaires publics, extorsions de fonds ou valeurs, banqueroute, atteinte au crédit de l'Etat ou infraction à la législation sur les changes ;
 
-f) Par application des dispositions du titre II de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, de l'article 15 de la loi n° 66-1010 du 28 décembre 1966 relative à l'usure, aux prêts d'argent et à certaines opérations de démarchage et de publicité, de l'article L. 313-5 du code de la consommation, de l'article 10 de la loi n° 72-6 du 3 janvier 1972 relative au démarchage financier et à des opérations de placement et d'assurance ou de l'article 40 de la loi n° 83-1 du 3 janvier 1983 sur le développement des investissements et la protection de l'épargne ;
+f) Par application des dispositions du titre II de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales (1), de l'article 15 de la loi n° 66-1010 du 28 décembre 1966 relative à l'usure, aux prêts d'argent et à certaines opérations de démarchage et de publicité, de l'article L. 313-5 du code de la consommation, de l'article 10 de la loi n° 72-6 du 3 janvier 1972 relative au démarchage financier et à des opérations de placement et d'assurance ou de l'article 40 de la loi n° 83-1 du 3 janvier 1983 sur le développement des investissements et la protection de l'épargne ;
 
 g) Pour recel des choses obtenues à la suite de ces infractions ;
 

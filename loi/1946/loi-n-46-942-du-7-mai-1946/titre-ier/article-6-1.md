@@ -8,7 +8,7 @@ Sous réserve des règles ci-après, ces sociétés peuvent prendre les formes s
 
 2° Sociétés d'exercice libéral régies par la loi n° 90-1258 du 31 décembre 1990 ;
 
-3° Sociétés anonymes ou sociétés à responsabilité limitée régies par la loi n° 66-537 du 24 juillet 1966 modifiée dans les conditions prévues à l'article 6-2.
+3° Sociétés anonymes ou sociétés à responsabilité limitée régies par la loi n° 66-537 du 24 juillet 1966 (1) modifiée dans les conditions prévues à l'article 6-2.
 
 Ces sociétés peuvent se placer sous le régime de la coopération prévu par la loi n° 47-1775 du 10 septembre 1947, ainsi que par les lois particulières régissant les différentes formes de coopératives et notamment la loi n° 78-763 du 19 juillet 1978.
 

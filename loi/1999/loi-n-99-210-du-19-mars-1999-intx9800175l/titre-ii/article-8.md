@@ -6,7 +6,7 @@ I. - Le congrès, les assemblées de province ou les organes délibérants de le
 
 Les prises de participation sont subordonnées aux conditions suivantes :
 
-1° La société revêt la forme de société anonyme régie par la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, sous réserve des dispositions du présent article ;
+1° La société revêt la forme de société anonyme régie par le code de commerce, sous réserve des dispositions du présent article ;
 
 2° La Nouvelle-Calédonie, les provinces et leurs établissements publics détiennent, séparément ou à plusieurs, plus de la moitié du capital de ces sociétés et des voix dans les organes délibérants.
 
@@ -16,7 +16,7 @@ Les collectivités territoriales étrangères qui participent au capital de soci
 
 II. - La participation au capital social des actionnaires autres que la Nouvelle-Calédonie, les provinces et leurs établissements publics ne peut être inférieure à 20 %.
 
-III. - Par dérogation aux dispositions de l'article 71 de la loi n° 66-537 du 24 juillet 1966 précitée, le capital social doit être au moins égal à 1 500 000 F pour les sociétés ayant dans leur objet la construction d'immeubles à usage d'habitation, de bureaux ou de locaux industriels, destinés à la vente ou à la location, et à 1 000 000 F pour celles ayant dans leur objet l'aménagement.
+III. - Par dérogation aux dispositions de l'article L. 224-2 du code précité, le capital social doit être au moins égal à 1 500 000 F pour les sociétés ayant dans leur objet la construction d'immeubles à usage d'habitation, de bureaux ou de locaux industriels, destinés à la vente ou à la location, et à 1 000 000 F pour celles ayant dans leur objet l'aménagement.
 
 IV. - Les sociétés d'économie mixte peuvent intervenir pour des personnes qui ne participent pas à leur capital.
 

@@ -2,7 +2,7 @@
 
 I. - Dans le délai de trois mois à compter de la publication de la présente loi, la Caisse centrale des caisses d'épargne et de prévoyance :
 
-- modifie ses statuts en vue de sa transformation en société anonyme à directoire et conseil de surveillance régie par les articles 118 à 150 de la loi n° 66-537 du 24 juillet 1966 précitée ;
+- modifie ses statuts en vue de sa transformation en société anonyme à directoire et conseil de surveillance régie par les articles L. 225-57 à L. 225-93 du code de commerce ;
 
 - désigne son conseil de surveillance et son directoire pour une durée initiale s'achevant le 31 décembre 2003. La nomination du président de ce directoire est soumise à un agrément du ministre chargé de l'économie.
 
@@ -10,7 +10,7 @@ A l'expiration de ce délai, la Caisse centrale des caisses d'épargne et de pr�
 
 II. - A la date de la désignation du conseil de surveillance et du directoire :
 
-- la société mentionnée au I prend le nom de Caisse nationale des caisses d'épargne et de prévoyance et est substituée au Centre national des caisses d'épargne et de prévoyance comme organe central au sens des articles 20, 21 et 22 de la loi n° 84-46 du 24 janvier 1984 précitée ;
+- la société mentionnée au I prend le nom de Caisse nationale des caisses d'épargne et de prévoyance et est substituée au Centre national des caisses d'épargne et de prévoyance comme organe central au sens des articles L. 511-30, L. 511-31 et L. 511-32 du code monétaire et financier ;
 
 - le Centre national des caisses d'épargne et de prévoyance est dissous. Ses biens, droits et obligations sont intégralement transférés à la Caisse nationale des caisses d'épargne et de prévoyance. Par exception, certains biens, droits et obligations du Centre national des caisses d'épargne et de prévoyance peuvent, sur décision de la Caisse nationale des caisses d'épargnes et de prévoyance, être apportés à la Fédération nationale des caisses d'épargne et de prévoyance en proportion des missions conférées à cette dernière par l'article 15 ;
 

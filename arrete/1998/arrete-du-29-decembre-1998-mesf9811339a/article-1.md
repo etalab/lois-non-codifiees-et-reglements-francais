@@ -70,7 +70,7 @@ e) Pour les personnes mentionnées au 5° de l'article R. 351-42 du code du trav
 
 2. Et reconnues handicapées : l'attestation délivrée par la CDES ou la COTOREP, ou toute pièce justifiant de la qualité de travailleur handicapé au sens de l'article L. 323-3.
 
-f) Pour les personnes visées au troisième alinéa de l'article L. 351-24 du code du travail : une copie du jugement d'ouverture à l'une des procédures de redressement prévue par la loi n° 85-98 du 25 janvier 1985 ; ou, à défaut, et, selon les cas, une attestation du liquidateur, de l'administrateur judiciaire ou du juge commissaire, conformément aux procédures prévues aux articles 137 et suivants de la loi susvisée.
+f) Pour les personnes visées au troisième alinéa de l'article L. 351-24 du code du travail : une copie du jugement d'ouverture à l'une des procédures de redressement prévue par le code de commerce ; ou, à défaut, et, selon les cas, une attestation du liquidateur, de l'administrateur judiciaire ou du juge commissaire, conformément aux procédures prévues aux articles L. 621-133 et suivants du code susvisé.
 
 III. - Pour les sociétés :
 

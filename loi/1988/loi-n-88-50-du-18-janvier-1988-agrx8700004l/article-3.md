@@ -1,0 +1,3 @@
+# Article 3
+
+Jusqu'à la première réunion du conseil d'administration qui suit la première assemblée générale de la société prévue à l'article 1er, le directeur général de cette dernière est le directeur général de la caisse nationale de crédit agricole désigné dans les conditions prévues avant la promulgation de la présente loi. Dans un délai de deux mois à compter de la promulgation de la présente loi, il recueille auprès des ministres chargés de l'économie et de l'agriculture l'approbation de l'Etat sur les statuts, dès qu'ils ont été établis par le conseil d'administration ; il en assure aussitôt la publication et procède aux formalités d'immatriculation de la société au registre du commerce et des sociétés.

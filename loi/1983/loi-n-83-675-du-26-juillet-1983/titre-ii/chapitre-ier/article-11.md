@@ -8,4 +8,4 @@ Le mandat de membre du conseil d'administration ou de surveillance représentant
 
 Un membre de conseil d'administration ou de surveillance ne peut appartenir simultanément à plus de quatre conseils dans les entreprises visées aux 1, 2 et 3 de l'article 1er. Tout membre de conseil d'administration ou de surveillance qui, lorsqu'il accède à un nouveau mandat, se trouve en infraction avec les dispositions du présent alinéa, doit, dans les trois mois, se démettre de l'un de ses mandats. A défaut et à l'expiration de ce délai, il est réputé s'être démis de son nouveau mandat.
 
-Les dispositions des articles 95 et 130 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales ne sont pas applicables aux membres des conseils d'administration ou de surveillance des entreprises mentionnées à l'article 1er, nommés par décret.
+Les dispositions des articles L. 225-25 et L. 225-72 du code de commerce ne sont pas applicables aux membres des conseils d'administration ou de surveillance des entreprises mentionnées à l'article 1er, nommés par décret.

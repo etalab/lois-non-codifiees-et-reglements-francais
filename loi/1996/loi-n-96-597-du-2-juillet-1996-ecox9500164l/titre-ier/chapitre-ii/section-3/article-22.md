@@ -12,7 +12,7 @@ c) Pour violation des dispositions des articles 432-11, 433-1 à 433-3, 441-1, 4
 
 d) Pour soustractions commises par dépositaires publics, extorsion de fonds ou valeurs, banqueroute, atteinte au crédit de l'Etat ou infraction à la législation sur les changes ;
 
-e) Par application des dispositions du titre II de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, des articles 6 et 15 de la loi n° 66-1010 du 28 décembre 1966 relative à l'usure, aux prêts d'argent et à certaines opérations de démarchage et de publicité ;
+e) Par application des dispositions du titre II de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales (1), des articles L. 313-5 du code de la consommation et l'article L. 353-1 du code monétaire et financier ;
 
 f) Pour recel des choses obtenues à la suite de ces infractions ;
 
@@ -24,6 +24,6 @@ h) Ou par application du titre VI de la présente loi ;
 
 3° S'il a fait l'objet d'une condamnation prononcée par une juridiction étrangère et passée en force de chose jugée, constituant d'après la loi française une condamnation pour l'un des crimes ou délits mentionnés au présent article. Le tribunal correctionnel du domicile du condamné apprécie, à la requête du ministère public, la régularité et la légalité de cette décision, et statue en chambre du conseil, l'intéressé dûment appelé, sur l'application en France de l'interdiction ;
 
-4° Si une mesure de faillite personnelle ou d'interdiction prévue à l'article 108 de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes a été prononcée à son égard ou s'il a été déclaré en état de faillite par une juridiction étrangère quand le jugement déclaratif a été déclaré exécutoire en France et s'il n'a pas été réhabilité ;
+4° Si une mesure de faillite personnelle ou d'interdiction prévue à l'article 108 de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes (2) a été prononcée à son égard ou s'il a été déclaré en état de faillite par une juridiction étrangère quand le jugement déclaratif a été déclaré exécutoire en France et s'il n'a pas été réhabilité ;
 
 5° S'il a fait l'objet d'une mesure de destitution de fonctions d'officier ministériel en vertu d'une décision judiciaire.

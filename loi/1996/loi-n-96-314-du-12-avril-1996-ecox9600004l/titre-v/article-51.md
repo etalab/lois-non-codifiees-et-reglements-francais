@@ -8,6 +8,6 @@ Un ou plusieurs représentants de l'Etat peuvent être nommés au conseil d'admi
 
 Leur nombre est fixé par décret et ne peut excéder six ni le tiers des membres du conseil d'administration ou de surveillance.
 
-Les dispositions des articles 95 et 130 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales ne sont pas applicables à ces représentants, qui ne sont pas pris en compte pour la détermination du nombre minimal et du nombre maximal de membres du conseil d'administration et du conseil de surveillance, fixés par les articles 89 et 129 de la même loi.
+Les dispositions des articles L. 225-25 et L. 225-72 du code de commerce ne sont pas applicables à ces représentants, qui ne sont pas pris en compte pour la détermination du nombre minimal et du nombre maximal de membres du conseil d'administration et du conseil de surveillance, fixés par les articles L. 225-17 et L.225-69 du même code.
 
 Le mandat de ces représentants est gratuit, sans préjudice de remboursement par l'entreprise des frais exposés pour l'exercice dudit mandat.

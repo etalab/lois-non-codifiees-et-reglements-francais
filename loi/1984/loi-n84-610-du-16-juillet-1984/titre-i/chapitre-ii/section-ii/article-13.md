@@ -4,7 +4,7 @@ Le capital de la société d'économie mixte sportive locale et de la société 
 
 Les membres élus des organes de direction de ces sociétés ne peuvent recevoir, au titre de leurs fonctions, que le remboursement des frais justifiés.
 
-Le bénéfice, au sens de l'article 346 de la loi n° 66-537 du 24 juillet 1966 précitée, de la société d'économie mixte sportive locale, de l'entreprise unipersonnelle sportive à responsabilité limitée et de la société anonyme à objet sportif est affecté à la constitution de réserves qui ne peuvent donner lieu à aucune distribution.
+Le bénéfice, au sens de l'article L. 232-11 du code de commerce, de la société d'économie mixte sportive locale, de l'entreprise unipersonnelle sportive à responsabilité limitée et de la société anonyme à objet sportif est affecté à la constitution de réserves qui ne peuvent donner lieu à aucune distribution.
 
 L'association sportive doit détenir au moins un tiers du capital social et des droits de vote à l'assemblée générale de la société à objet sportif concernée.
 

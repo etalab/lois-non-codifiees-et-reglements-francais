@@ -54,7 +54,7 @@ Ces dispositions ne s'appliquent pas en cas d'invalidité correspondant au class
 
 VI. - Les avantages prévus au I et au IV ci-dessus cessent de s'appliquer à compter de l'année au cours de laquelle l'une des conditions fixées au présent article n'est plus satisfaite.
 
-VII. - Le I bis de l'article 163 bis C du code général des impôts s'applique dans les mêmes conditions aux actions de la société rachetée acquises par les salariés en application des articles 208-1 à 208-8-2 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales et qui sont apportées à la société nouvelle.
+VII. - Le I bis de l'article 163 bis C du code général des impôts s'applique dans les mêmes conditions aux actions de la société rachetée acquises par les salariés en application des articles L. 225-177 à L. 225-186 du code de commerce et qui sont apportées à la société nouvelle.
 
 VIII. - Les souscriptions au capital de la société nouvelle qui ont ouvert droit au bénéfice d'une autre déduction du revenu, d'une réduction ou d'un crédit d'impôt ne peuvent bénéficier des avantages prévus au I.
 
