@@ -132,6 +132,7 @@
 - [Décret n°92-44 du 10 janvier 1992 (ENVN9161997D)](decret-n92-44-du-10-janvier-1992-envn9161997d)
 - [Décret n° 92-235 du 11 mars 1992 (BUDB9120009D)](decret-n-92-235-du-11-mars-1992-budb9120009d)
 - [Décret n°90-926 du 11 octobre 1990 (PRMX9000159D)](decret-n90-926-du-11-octobre-1990-prmx9000159d)
+- [Décret n°91-660 du 11 juillet 1991 (EQUA9100103D)](decret-n91-660-du-11-juillet-1991-equa9100103d)
 - [Décret n°92-133 du 11 février 1992 (MENN9200073D)](decret-n92-133-du-11-fevrier-1992-menn9200073d)
 - [Décret n°92-134 du 11 février 1992 (ECOX9210017D)](decret-n92-134-du-11-fevrier-1992-ecox9210017d)
 - [Décret n°92-135 du 11 février 1992 (SPSS9200001D)](decret-n92-135-du-11-fevrier-1992-spss9200001d)
