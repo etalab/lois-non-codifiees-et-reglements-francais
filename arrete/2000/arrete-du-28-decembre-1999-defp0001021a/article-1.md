@@ -16,4 +16,14 @@ La liste des emplois de conseiller pour les affaires administratives du ministè
 
 - Adjoint au chef de la division personnel civil de l'état-major de la région terre sud-est Lyon ;
 
-- Chef du bureau interarmées du logement en région Ile-de-France à la sous-direction du patrimoine de la direction de la mémoire, du patrimoine et des archives.
+- Chef du bureau interarmées du logement en région Ile-de-France à la sous-direction du patrimoine de la direction de la mémoire, du patrimoine et des archives ;
+
+- Conseiller spécial pour les affaires immobilières et les impressions au secrétariat général pour l'administration, service des moyens généraux ;
+
+- Adjoint au chef de la division personnel civil de l'état-major de la région terre Nord-Ouest ;
+
+- Adjoint au chef de la division personnel civil de l'état-major de la région terre Sud-Ouest ;
+
+- Directeur du bureau du service national de Versailles ;
+
+- Directeur du bureau du service national de Toulouse.
