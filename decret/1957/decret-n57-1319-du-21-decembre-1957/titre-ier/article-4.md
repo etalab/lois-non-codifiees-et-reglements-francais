@@ -10,7 +10,7 @@ Ils servent d'intermédiaire entre les usagers et leur bureau d'attache pour les
 
 Ils effectuent le relevage, le redressage et le timbrage des correspondances ainsi que les travaux d'ordre intérieur.
 
-Les préposés assurent la manipulation, l'échange, le transbordement et, éventuellement, du transport des dépêches. Ils participent, à ce titre, à la conduite et au petit entretien des véhicules du transbordement.
+Les préposés assurent la manipulation, l'échange, le transbordement et, éventuellement, de l'acheminement. Ils participent, à ce titre, à la conduite et au petit entretien des véhicules du transbordement.
 
 Ils prennent part à l'ouverture, à la confection et à la fermeture des dépêches.
 

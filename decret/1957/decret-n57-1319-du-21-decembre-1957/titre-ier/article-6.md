@@ -1,6 +1,6 @@
 # Article 6
 
-Les préposés conducteurs sont chargés, outre leur participation aux travaux préparatoires à la distribution et aux travaux d'ordre intérieur, de l'exécution des tournées de distribution, de relevage et de transport des dépêches assurées à l'aide de voitures automobiles.
+Les préposés conducteurs sont chargés, outre leur participation aux travaux préparatoires à la distribution et aux travaux d'ordre intérieur, de l'exécution des tournées de distribution, de relevage et de l'acheminement assurées à l'aide de voitures automobiles.
 
 Ils assurent l'entretien courant de ces véhicules.
 
