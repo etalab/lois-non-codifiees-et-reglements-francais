@@ -1,4 +1,0 @@
-# DES ORGANISMES DE SECURITE SOCIALE
-
-- [DU PERSONNEL DES ORGANISMES DE SECURITE SOCIALE.](du-personnel-des-organismes-de-securite-sociale)
-- [DE L'ADMINISTRATION ET DU FONCTIONNEMENT.](de-l-administration-et)
