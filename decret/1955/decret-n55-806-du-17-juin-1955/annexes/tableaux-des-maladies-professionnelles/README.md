@@ -23,6 +23,7 @@
 - [20° Affections provoquées par les rayonnements ionisants](20-affections-provoquees-par)
 - [21° Affections professionnelles provoquées par les dérivés halogénés suivants des hydrocarbures aliphatiques : dichlorométhane (chlorure de méthylène), trichlorométhane (chloroforme), tribromométhane (bromoforme), dichloro-1-2 éthane, dibromo-1-2-éthane, trichloro-1-1-1-éthane (méthylchloroforme), dichloro-1-1-éthylène asymétrique, dichloro-1-2 éthylène (dichloréthylène symétrique), trichloréthylène, tétrachloréthylène (perchloréthylène), dichloro-1-2-propane, chloropropylène (chlorure d'allyle), chloro-2-butadiène-1-3 (chloroprène).](21-affections-professionnelles-provoquees-par)
 - [26° Maladies professionnelles engendrées par la chlorpromazine](26-maladies-professionnelles-engendrees-par)
+- [29° Affections professionnelles provoquées par les vibrations et chocs transmis par certaines machines-outils, outils et objets.](29-affections-professionnelles-provoquees-par)
 - [35° Affections provoquées par les goudrons de houille, brais de houille et huiles anthracéniques](35-affections-provoquees-par)
 - [36° Affections professionnelles provoquées par les bois](36-affections-professionnelles-provoquees-par)
 - [40° Intoxication professionnelle par l'oxyde de carbone](40-intoxication-professionnelle-par)
