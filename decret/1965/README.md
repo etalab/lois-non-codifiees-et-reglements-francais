@@ -45,3 +45,4 @@
 - [Décret n°65-622 du 27 juillet 1965](decret-n65-622-du-27-juillet-1965)
 - [Décret n°65-655 du 28 juillet 1965](decret-n65-655-du-28-juillet-1965)
 - [Décret n°65-659 du 28 juillet 1965](decret-n65-659-du-28-juillet-1965)
+- [Décret du 30 novembre 1965](decret-du-30-novembre-1965)
