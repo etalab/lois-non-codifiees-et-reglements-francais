@@ -123,7 +123,6 @@
 - [Décret n°83-922 du 20 octobre 1983](decret-n83-922-du-20-octobre-1983)
 - [Décret n°83-1116 du 21 décembre 1983](decret-n83-1116-du-21-decembre-1983)
 - [Décret n°83-128 du 21 février 1983](decret-n83-128-du-21-fevrier-1983)
-- [Décret n°83-220 du 21 mars 1983](decret-n83-220-du-21-mars-1983)
 - [Décret n°83-242 du 21 mars 1983](decret-n83-242-du-21-mars-1983)
 - [Décret n°83-32 du 21 janvier 1983](decret-n83-32-du-21-janvier-1983)
 - [Décret n°83-324 du 21 avril 1983](decret-n83-324-du-21-avril-1983)
