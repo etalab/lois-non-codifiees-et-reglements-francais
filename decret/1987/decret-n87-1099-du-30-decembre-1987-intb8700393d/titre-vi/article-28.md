@@ -17,3 +17,5 @@ Sont intégrés en qualité de titulaires dans le cadre d'emplois des attachés 
 8° Les chefs de service des caisses de crédit municipal ;
 
 9° Les directeurs de service administratif des villes.
+
+" Sont également intégrés les directeurs des caisses de crédit municipal de catégories C et D nommés en application du décret n° 81-389 du 24 avril 1981 modifié. "
