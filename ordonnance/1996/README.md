@@ -1,7 +1,6 @@
 # 1996
 
 - [Ordonnance n°96-782 du 5 septembre 1996 (DOMX9600091R)](ordonnance-n96-782-du-5-septembre-1996-domx9600091r)
-- [Ordonnance n°96-1122 du 20 décembre 1996 (DOMX9600135R)](ordonnance-n96-1122-du-20-decembre-1996-domx9600135r)
 - [Ordonnance n° 96-344 du 24 avril 1996 (TASX9600032R)](ordonnance-n-96-344-du-24-avril-1996-tasx9600032r)
 - [Ordonnance n° 96-345 du 24 avril 1996 (TASX9600042R)](ordonnance-n-96-345-du-24-avril-1996-tasx9600042r)
 - [Ordonnance n° 96-346 du 24 avril 1996 (TASX9600043R)](ordonnance-n-96-346-du-24-avril-1996-tasx9600043r)
