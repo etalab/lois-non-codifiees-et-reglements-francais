@@ -4,3 +4,4 @@
 - [Conditions générales.](conditions-generales)
 - [Forme](forme)
 - [Inscriptions](inscriptions)
+- [Stabilité de la fabrication.](stabilite-de-la-fabrication)
