@@ -1,3 +1,7 @@
 # Article 11
 
-Les agents communaux ayant atteint au moins le 7ème échelon de l'échelle 1, promus ou recrutés au groupe III, perçoivent pendant toute la durée où ils demeurent classés dans ce groupe la rémunération afférente à l'échelon immédiatement supérieur à celui dans lequel ils sont rangés.
+Le jury procède à l'élection du président par un scrutin à deux tours à bulletins secrets. La majorité absolue est requise au premier tour.
+
+En cas d'égalité des voix au deuxième tour, le praticien hospitalier d'anesthésie-réanimation originaire du centre hospitalier régional et universitaire concerné le plus âgé assure la présidence.
+
+Le jury ne peut valablement siéger que si au moins quatre membres (pour le jury de six) et cinq membres (pour le jury de neuf) sont présents au début des épreuves. Tout membre qui cesse de siéger en cours d'épreuves ne peut reprendre sa place.

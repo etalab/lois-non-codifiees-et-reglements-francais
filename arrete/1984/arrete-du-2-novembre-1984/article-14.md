@@ -1,3 +1,5 @@
 # Article 14
 
-Le directeur général des collectivités au ministère de l'intérieur est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française et prendra effet au 1er janvier 1984.
+Le président du jury assure la police générale du concours et prend toutes dispositions pour assurer la régularité des opérations. Il désigne parmi les membres du jury un secrétaire chargé de la rédaction des procès-verbaux de séances.
+
+Il transmet au médecin inspecteur régional de la santé les propositions d'admission auxquelles sont joints les procès-verbaux et les conclusions écrites des rapporteurs.
