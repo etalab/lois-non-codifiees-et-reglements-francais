@@ -24,6 +24,7 @@
 - [Arrêté du 7 décembre 1984](arrete-du-7-decembre-1984)
 - [Arrêté du 7 février 1985](arrete-du-7-fevrier-1985)
 - [Arrêté du 7 janvier 1985](arrete-du-7-janvier-1985)
+- [Arrêté du 7 juin 1985](arrete-du-7-juin-1985)
 - [Arrêté du 7 mars 1985](arrete-du-7-mars-1985)
 - [Arrêté du 7 mars 1986](arrete-du-7-mars-1986)
 - [Arrêté du 7 mai 1985](arrete-du-7-mai-1985)
