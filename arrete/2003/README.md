@@ -741,7 +741,6 @@
 - [Arrêté du 21 juillet 2003 (BUDR0305003A)](arrete-du-21-juillet-2003-budr0305003a)
 - [Arrêté du 21 juillet 2003 (SPRK0370141A)](arrete-du-21-juillet-2003-sprk0370141a)
 - [Arrêté du 21 juin 2004 (PRMG0407432A)](arrete-du-21-juin-2004-prmg0407432a)
-- [Arrêté du 21 mars 2003 (AGRG0300615A)](arrete-du-21-mars-2003-agrg0300615a)
 - [Arrêté du 21 mars 2003 (BUDF0300004A)](arrete-du-21-mars-2003-budf0300004a)
 - [Arrêté du 21 mars 2003 (DEVP0320101A)](arrete-du-21-mars-2003-devp0320101a)
 - [Arrêté du 21 mars 2003 (INTC0300146A)](arrete-du-21-mars-2003-intc0300146a)
