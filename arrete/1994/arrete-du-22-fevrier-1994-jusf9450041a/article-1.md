@@ -1,0 +1,3 @@
+# Article 1
+
+Conformément à l'article 44 de la loi du 25 juillet 1985 susvisée, les fonctionnaires appartenant au corps des psychologues de la protection judiciaire de la jeunesse régi par le décret du 12 mars 1981 susvisé et les psychologues contractuels exerçant leurs fonctions dans les services déconcentrés de la protection judiciaire de la jeunesse et de l'administration pénitentiaire à la date d'entrée en vigueur du décret du 22 mars 1990 susvisé et ceux qui ont été recrutés avant la date du 1er janvier 1993 sont autorisés à faire usage professionnel du titre de psychologue dans le cadre de l'exercice desdites fonctions.
