@@ -1,6 +1,6 @@
 # Article 14
 
-Pour l'application de l'article 89 de la loi du 26 janvier 1984 susvisée, les trois premiers alinéas sont rédigés comme suit :
+Pour l'application de l'article 89 de la loi du 26 janvier 1984 susvisée, les seize premiers alinéas sont rédigés comme suit :
 
 " Les sanctions disciplinaires sont réparties en quatre groupes.
 
