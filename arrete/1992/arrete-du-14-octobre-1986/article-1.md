@@ -1,3 +1,0 @@
-# Article 1
-
-Pour ceux des personnels en fonctions dans les départements de la Guadeloupe, de la Guyane et de la Martinique et qui sont affectés dans les services administratifs des inspections académiques, les établissements d'enseignement public du premier degré, les établissements publics du second degré, les écoles normales primaires, les écoles normales nationales d'apprentissage, les écoles régionales du premier degré et les établissements régionaux d'enseignement adapté, les inspecteurs d'académie, directeurs des services départementaux de l'éducation des départements considérés reçoivent délégation permanente des pouvoirs du ministre de l'éducation nationale pour prendre les décisions relatives à l'octroi des congés bonifiés.
