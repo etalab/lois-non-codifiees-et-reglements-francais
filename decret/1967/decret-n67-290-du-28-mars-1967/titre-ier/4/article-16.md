@@ -1,0 +1,5 @@
+# Article 16
+
+Les cotisations de sécurité sociale des fonctionnaires ou magistrats en service à l'étranger sont déterminées dans les conditions définies aux articles R. 761-11 et R. 761-15 du code de la sécurité sociale. Les retenues pour pensions de retraite sont calculées dans les conditions définies par l'article L. 61 du code des pensions civiles et militaires de retraite. Pour les personnels de l'Etat non titulaires mentionnés aux articles L. 761-3 et L. 761-4 du code de la sécurité sociale, les cotisations de sécurité sociale ainsi que les cotisations dues à l'institution de retraite complémentaire des agents non titulaires de l'Etat et des collectivités sont déterminées respectivement dans les conditions fixées à l'article D. 761-8 du code de la sécurité sociale et par le décret n° 70-1277 du 23 décembre 1970.
+
+Les personnels non titulaires en service à l'étranger peuvent, lorsqu'ils ne relèvent pas d'un régime français de sécurité sociale, bénéficier des régimes locaux de sécurité sociale et subir, à ce titre, les retenues pour cotisations prévues par des réglementations étrangères.
