@@ -1,3 +1,0 @@
-# Article 10
-
-Les marchandises visées au présent décret en provenance de l'étranger ne peuvent être détenues en vue de la vente, mises en vente ou vendues sur le marché français que si dans leur pays d'origine sont en vigueur, en matière d'irradiation, des prescriptions assurant à l'acheteur des garanties reconnues équivalentes à celles qui résultent des dispositions du présent décret et si elles satisfont aux articles 5 à 8 ci-dessus. Un arrêté conjoint du ministre de l'agriculture et du ministre de la santé publique et de la sécurité sociale pris dans les conditions fixées à l'article 3 ci-dessus fixe la liste des marchandises et des pays remplissant cette condition.
