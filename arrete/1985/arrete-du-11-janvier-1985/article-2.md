@@ -1,3 +1,3 @@
 # Article 2
 
-Les dispositions de l'article 1er ci-dessus s'appliquent notamment aux services d'enseignement assurés dans les cours de vacances et les cours post-scolaires et aux services de surveillance des cantines scolaires situées ou non dans l'enceinte de l'école, des garderies d'enfants et des récréations qui, à l'issue des cours réglementaires de l'après-midi, précèdent les études surveillées.
+Le directeur des relations du travail au ministère du travail, de l'emploi et de la formation professionnelle, le directeur des transports terrestres au ministère de l'urbanisme, du logement et des transports et le directeur des affaires sociales au ministère de l'agriculture sont chargés, chacun en ce qui les concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
