@@ -53,3 +53,4 @@
 - [Décret n°72-1068 du 30 novembre 1972](decret-n72-1068-du-30-novembre-1972)
 - [Décret n°72-1087 du 30 novembre 1972](decret-n72-1087-du-30-novembre-1972)
 - [Décret n°72-556 du 30 juin 1972](decret-n72-556-du-30-juin-1972)
+- [Décret n°72-806 du 31 août 1972](decret-n72-806-du-31-aout-1972)
