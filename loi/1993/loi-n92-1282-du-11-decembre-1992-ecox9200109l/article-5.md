@@ -1,6 +1,6 @@
 # Article 5
 
-Les dispositions de la présente loi ne sont pas applicables aux contrats définis à l'article 4 lorsqu'ils sont passés :
+Les dispositions de la présente loi ne sont pas applicables aux contrats définis à l'article 4, aux I, II et III de l'article 4-1 et à l'article 4-2 lorsqu'ils sont passés :
 
 1° Pour l'achat d'eau par les personnes dont l'activité est de produire ou de distribuer l'eau ;
 
@@ -8,9 +8,9 @@ Les dispositions de la présente loi ne sont pas applicables aux contrats défin
 
 3° Par les personnes dont l'activité est définie au 5° de l'article 2 lorsque ces contrats leur permettent d'assurer des services de télécommunications qui peuvent être offerts par d'autres organismes dans la même aire géographique et dans des conditions similaires ;
 
-4° Pour des fournitures ou des travaux déclarés secrets ou lorsque la livraison ou l'exécution doit s'accompagner de mesures particulières de sécurité ou lorsque la protection des intérêts essentiels de l'Etat l'exige ;
+4° Pour des fournitures, des travaux ou des services déclarés secrets ou lorsque la livraison ou l'exécution doit s'accompagner de mesures particulières de sécurité ou lorsque la protection des intérêts essentiels de l'Etat l'exige ;
 
-5° En vertu de la procédure spécifique d'une organisation internationale ou d'un accord international conclu en relation avec le stationnement de troupes et concernant des entreprises d'un Etat membre ou non membre de la Communauté européenne ou d'un accord international conclu avec un ou plusieurs Etats non membres de la Communauté européenne et portant sur des fournitures ou des travaux destinés à la réalisation ou à l'exploitation en commun d'un ouvrage par les Etats signataires de l'accord ;
+5° En vertu de la procédure spécifique d'une organisation internationale ou d'un accord international conclu en relation avec le stationnement de troupes et concernant des entreprises d'un Etat membre ou non membre de la Communauté européenne ou d'un accord international conclu avec un ou plusieurs Etats non membres de la Communauté européenne et portant sur des fournitures, des travaux ou des services destinés à la réalisation ou à l'exploitation en commun d'un ouvrage par les Etats signataires de l'accord ;
 
 6° A des fins de vente ou de location à des tiers de fournitures ou d'ouvrages qui peuvent être librement vendus ou loués par d'autres organismes dans des conditions identiques ;
 

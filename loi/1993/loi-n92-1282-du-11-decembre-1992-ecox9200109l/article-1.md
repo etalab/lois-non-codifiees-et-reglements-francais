@@ -1,6 +1,6 @@
 # Article 1
 
-Est soumise à des mesures de publicité ainsi qu'à des procédures de mise en concurrence définies par décret en Conseil d'Etat la passation des contrats de fournitures et de travaux, dont le montant est égal ou supérieur à des seuils fixés par arrêté du ministre chargé de l'économie et des finances et que se proposent de conclure avec un fournisseur ou un entrepreneur, lorsqu'ils exercent les activités mentionnées à l'article 2, les organismes suivants :
+Est soumise à des mesures de publicité ainsi qu'à des procédures de mise en concurrence définies par décret en Conseil d'Etat la passation des contrats de fournitures, de travaux et, dans les conditions définies à l'article 4-1, des contrats de services, dont le montant est égal ou supérieur à des seuils fixés par arrêté du ministre chargé de l'économie et que se proposent de conclure, avec un fournisseur, un entrepreneur ou un prestataire de services, lorsqu'ils exercent les activités mentionnées à l'article 2, les organismes suivants :
 
 1° Les groupements de droit privé formés entre des collectivités publiques ;
 
