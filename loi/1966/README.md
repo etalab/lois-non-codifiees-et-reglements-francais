@@ -10,6 +10,7 @@
 - [Loi n° 66-455 du 2 juillet 1966](loi-n-66-455-du-2-juillet-1966)
 - [Loi n° 66-474 du 5 juillet 1966](loi-n-66-474-du-5-juillet-1966)
 - [Loi n° 66-492 du 9 juillet 1966](loi-n-66-492-du-9-juillet-1966)
+- [Loi n° 66-500 du 11 juillet 1966](loi-n-66-500-du-11-juillet-1966)
 - [Loi n° 66-509 du 12 juillet 1966](loi-n-66-509-du-12-juillet-1966)
 - [Loi n° 66-774 du 18 octobre 1966](loi-n-66-774-du-18-octobre-1966)
 - [Loi n°66-378 du 15 juin 1966](loi-n66-378-du-15-juin-1966)
