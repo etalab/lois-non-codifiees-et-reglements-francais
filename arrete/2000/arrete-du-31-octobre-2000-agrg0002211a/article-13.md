@@ -8,4 +8,6 @@ Les indemnités prévues à l'article 12 ci-dessus ne sont pas attribuées dans 
 
 3° Animal vendu selon le mode dit "sans garantie" ou vendu à un prix jugé abusivement bas par le directeur des services vétérinaires ;
 
-4° Toute circonstance faisant apparaître une intention abusive de l'éleveur afin de détourner la réglementation de son objet.
+4° Animal non vacciné conformément aux dispositions de l'article 8 précité ;
+
+5° Toute circonstance faisant apparaître une intention abusive de l'éleveur de détourner la réglementation de son objet.
