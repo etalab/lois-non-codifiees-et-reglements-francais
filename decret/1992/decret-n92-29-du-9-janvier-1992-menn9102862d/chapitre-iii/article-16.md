@@ -1,3 +1,0 @@
-# Article 16
-
-Peuvent être inscrits au tableau d'avancement en vue d'une promotion à la 1re classe les bibliothécaires de 2e classe comptant au moins deux ans d'ancienneté dans le 6e échelon et ayant accompli onze ans et six mois de services effectifs dans un corps ou un emploi de la catégorie A. La durée du service militaire obligatoire ou du service national actif effectivement accompli vient, le cas échéant, en déduction des onze ans et six mois de services effectifs ; il en est de même de la fraction qui excède la douzième année de l'ancienneté déterminée à l'article 11 ci-dessus. Ces déductions ne peuvent toutefois avoir pour effet de réduire à moins de deux ans la durée des services effectivement accomplis dans un corps de catégorie A.
