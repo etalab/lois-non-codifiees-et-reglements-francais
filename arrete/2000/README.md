@@ -27,7 +27,6 @@
 - [Arrêté du 8 novembre 2000 (JUSB0010336A)](arrete-du-8-novembre-2000-jusb0010336a)
 - [Arrêté du 9 juin 2000 (AGRG0001080A)](arrete-du-9-juin-2000-agrg0001080a)
 - [Arrêté du 9 novembre 2000 (ATEN0090368A)](arrete-du-9-novembre-2000-aten0090368a)
-- [Arrêté du 10 novembre 2000 (AGRG0002253A)](arrete-du-10-novembre-2000-agrg0002253a)
 - [Arrêté du 10 novembre 2000 (AGRG0002552A)](arrete-du-10-novembre-2000-agrg0002552a)
 - [Arrêté du 10 novembre 2000 (MCCB0000709A)](arrete-du-10-novembre-2000-mccb0000709a)
 - [Arrêté du 10 octobre 2000 (EQUA0001600A)](arrete-du-10-octobre-2000-equa0001600a)
