@@ -4,4 +4,5 @@
 - [Titre I : Indemnités d'enseignement applicables dans tous les cas autres que celui de la préparation à un concours ou examen.](titre-i)
 - [Article 2](article-2.md)
 - [TITRE II : Indemnités pour enseignement donné pour la préparation aux différents concours ou examens de la fonction publique.](titre-ii)
+- [TITRE III : Indemnité pour participation aux travaux des différents jurys de concours ou d'examens de l'Etat.](titre-iii)
 - [Dispositions communes aux titres Ier, II et III.](dispositions-communes-aux)
