@@ -353,6 +353,7 @@
 - [Arrêté du 15 juin 2004 (ECOT0410498A)](arrete-du-15-juin-2004-ecot0410498a)
 - [Arrêté du 15 juin 2004 (SANH0422092A)](arrete-du-15-juin-2004-sanh0422092a)
 - [Arrêté du 15 novembre 2004 (JUSG0460102A)](arrete-du-15-novembre-2004-jusg0460102a)
+- [Arrêté du 16 août 2004 (INTE0400657A)](arrete-du-16-aout-2004-inte0400657a)
 - [Arrêté du 16 avril 2004 (ECOT0495132A)](arrete-du-16-avril-2004-ecot0495132a)
 - [Arrêté du 16 février 2004 (DEFC0400169A)](arrete-du-16-fevrier-2004-defc0400169a)
 - [Arrêté du 16 février 2004 (MENE0400260A)](arrete-du-16-fevrier-2004-mene0400260a)
