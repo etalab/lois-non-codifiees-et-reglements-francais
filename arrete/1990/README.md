@@ -302,6 +302,7 @@
 - [Arrêté du 13 mars 1990 (PTTP9000260A)](arrete-du-13-mars-1990-pttp9000260a)
 - [Arrêté du 13 mars 1990 (TEFF9003288A)](arrete-du-13-mars-1990-teff9003288a)
 - [Arrêté du 13 novembre 1990 (INDD9000776A)](arrete-du-13-novembre-1990-indd9000776a)
+- [Arrêté du 14 août 1990 (AGRS9001776A)](arrete-du-14-aout-1990-agrs9001776a)
 - [Arrêté du 14 août 1990 (MERG9000141A)](arrete-du-14-aout-1990-merg9000141a)
 - [Arrêté du 14 août 1990 (PTTT9000660A)](arrete-du-14-aout-1990-pttt9000660a)
 - [Arrêté du 14 août 1990 (PTTT9000661A)](arrete-du-14-aout-1990-pttt9000661a)
