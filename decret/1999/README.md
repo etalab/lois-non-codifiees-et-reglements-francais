@@ -228,6 +228,8 @@
 - [Décret n°99-288 du 13 avril 1999 (AGRA9900615D)](decret-n99-288-du-13-avril-1999-agra9900615d)
 - [Décret n°99-289 du 13 avril 1999 (AGRA9900614D)](decret-n99-289-du-13-avril-1999-agra9900614d)
 - [Décret n°99-290 du 13 avril 1999 (AGRA9900616D)](decret-n99-290-du-13-avril-1999-agra9900616d)
+- [Décret n°99-593 du 13 juillet 1999 (DEFP9901622D)](decret-n99-593-du-13-juillet-1999-defp9901622d)
+- [Décret n°99-594 du 13 juillet 1999 (ATEN9970042D)](decret-n99-594-du-13-juillet-1999-aten9970042d)
 - [Décret n°99-787 du 13 septembre 1999 (MESO9910824D)](decret-n99-787-du-13-septembre-1999-meso9910824d)
 - [Décret n°99-788 du 13 septembre 1999 (MESO9910826D)](decret-n99-788-du-13-septembre-1999-meso9910826d)
 - [Décret n°99-876 du 13 octobre 1999 (ATEG9970043D)](decret-n99-876-du-13-octobre-1999-ateg9970043d)
