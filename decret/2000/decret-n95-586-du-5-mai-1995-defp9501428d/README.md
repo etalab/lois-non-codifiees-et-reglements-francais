@@ -2,3 +2,4 @@
 
 - [TITRE Ier : Dispositions d'organisation générale.](titre-ier)
 - [TITRE II : Dispositions pédagogiques.](titre-ii)
+- [Article 18](article-18.md)

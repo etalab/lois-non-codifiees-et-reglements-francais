@@ -4,3 +4,4 @@
 - [TITRE II : Dispositions relatives aux établissements du second degré.](titre-ii)
 - [TITRE III : Services d'hébergement des établissements du second degré.](titre-iii)
 - [TITRE IV : Dispositions diverses.](titre-iv)
+- [Article 38](article-38.md)
