@@ -59,7 +59,6 @@
 - [Décret n°80-1008 du 11 décembre 1980](decret-n80-1008-du-11-decembre-1980)
 - [Décret n°80-198 du 11 mars 1980](decret-n80-198-du-11-mars-1980)
 - [Décret n°80-204 du 11 mars 1980](decret-n80-204-du-11-mars-1980)
-- [Décret n°80-213 du 11 mars 1980](decret-n80-213-du-11-mars-1980)
 - [Décret n°80-428 du 11 juin 1980](decret-n80-428-du-11-juin-1980)
 - [Décret n°80-548 du 11 juillet 1980](decret-n80-548-du-11-juillet-1980)
 - [Décret n°80-560 du 11 juillet 1980](decret-n80-560-du-11-juillet-1980)
