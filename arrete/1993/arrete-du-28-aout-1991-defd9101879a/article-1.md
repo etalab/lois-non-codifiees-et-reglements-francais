@@ -12,7 +12,9 @@ Ces fonctions sont les suivantes :
 
 - commandant de circonscription militaire de défense ;
 
-- commandant des écoles de l'armée de terre ;
+- commandant des organismes de formation de l'armée de terre.
+
+- commandant des forces françaises stationnées en Allemagne.
 
 - commandant supérieur dans les départements et territoires d'outre-mer ;
 

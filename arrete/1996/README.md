@@ -539,6 +539,7 @@
 - [Arrêté du 17 juillet 1996 (MENN9602698A)](arrete-du-17-juillet-1996-menn9602698a)
 - [Arrêté du 17 juillet 1996 (MIPP9600266A)](arrete-du-17-juillet-1996-mipp9600266a)
 - [Arrêté du 17 juin 1996 (AGRE9601209A)](arrete-du-17-juin-1996-agre9601209a)
+- [Arrêté du 17 juin 1996 (DEFP9601573A)](arrete-du-17-juin-1996-defp9601573a)
 - [Arrêté du 17 juin 1996 (ECOT9610278A)](arrete-du-17-juin-1996-ecot9610278a)
 - [Arrêté du 17 juin 1996 (MENN9601733A)](arrete-du-17-juin-1996-menn9601733a)
 - [Arrêté du 17 juin 1996 (MENP9601586A)](arrete-du-17-juin-1996-menp9601586a)
