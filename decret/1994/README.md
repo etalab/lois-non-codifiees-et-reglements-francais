@@ -606,7 +606,6 @@
 - [Décret n°94-730 du 22 août 1994 (INTB9400308D)](decret-n94-730-du-22-aout-1994-intb9400308d)
 - [Décret n°94-737 du 22 août 1994 (INDP9400777D)](decret-n94-737-du-22-aout-1994-indp9400777d)
 - [Décret n°94-822 du 22 septembre 1994 (ECOT9410218D)](decret-n94-822-du-22-septembre-1994-ecot9410218d)
-- [Décret n°94-826 du 22 septembre 1994 (RESK9400442D)](decret-n94-826-du-22-septembre-1994-resk9400442d)
 - [Décret n°94-830 du 22 septembre 1994 (SPSH9402294D)](decret-n94-830-du-22-septembre-1994-spsh9402294d)
 - [Décret n°94-831 du 22 septembre 1994 (SPSH9402295D)](decret-n94-831-du-22-septembre-1994-spsh9402295d)
 - [Décret n°94-837 du 22 septembre 1994 (BUDB9460022D)](decret-n94-837-du-22-septembre-1994-budb9460022d)

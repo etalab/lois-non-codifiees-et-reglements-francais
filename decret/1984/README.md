@@ -144,7 +144,6 @@
 - [Décret n°84-45 du 18 janvier 1984](decret-n84-45-du-18-janvier-1984)
 - [Décret n°84-468 du 18 juin 1984](decret-n84-468-du-18-juin-1984)
 - [Décret n°84-469 du 18 juin 1984](decret-n84-469-du-18-juin-1984)
-- [Décret n°84-470 du 18 juin 1984](decret-n84-470-du-18-juin-1984)
 - [Décret n°84-477 du 18 juin 1984](decret-n84-477-du-18-juin-1984)
 - [Décret n°83-1111 du 19 décembre 1983](decret-n83-1111-du-19-decembre-1983)
 - [Décret n°84-1141 du 19 décembre 1984](decret-n84-1141-du-19-decembre-1984)

@@ -967,7 +967,6 @@
 - [Arrêté du 29 novembre 2004 (SOCF0412389A)](arrete-du-29-novembre-2004-socf0412389a)
 - [Arrêté du 29 octobre 2004 (DEFP0401098A)](arrete-du-29-octobre-2004-defp0401098a)
 - [Arrêté du 30 août 2004 (DEVP0430114A)](arrete-du-30-aout-2004-devp0430114a)
-- [Arrêté du 30 août 2004 (MENF0401621A)](arrete-du-30-aout-2004-menf0401621a)
 - [Arrêté du 30 avril 2004 (DEVP0430124A)](arrete-du-30-avril-2004-devp0430124a)
 - [Arrêté du 30 avril 2004 (MENA0400885A)](arrete-du-30-avril-2004-mena0400885a)
 - [Arrêté du 30 avril 2004 (SOCU0410659A)](arrete-du-30-avril-2004-socu0410659a)

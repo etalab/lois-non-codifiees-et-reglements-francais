@@ -39,7 +39,6 @@
 - [Loi n° 92-1314 du 18 décembre 1992 (MAEX9200035L)](loi-n-92-1314-du-18-decembre-1992-maex9200035l)
 - [Loi n° 92-1317 du 18 décembre 1992 (MAEX9200106L)](loi-n-92-1317-du-18-decembre-1992-maex9200106l)
 - [Loi n° 92-1318 du 18 décembre 1992 (MAEX9200122L)](loi-n-92-1318-du-18-decembre-1992-maex9200122l)
-- [Loi n° 92-1341 du 23 décembre 1992 (TOUX9210573L)](loi-n-92-1341-du-23-decembre-1992-toux9210573l)
 - [Loi n° 92-190 du 26 février 1992 (INTX9100178L)](loi-n-92-190-du-26-fevrier-1992-intx9100178l)
 - [Loi n° 92-3 du 3 janvier 1992 (ENVX9100061L)](loi-n-92-3-du-3-janvier-1992-envx9100061l)
 - [Loi n° 92-427 du 9 mai 1992 (MAEX9100164L)](loi-n-92-427-du-9-mai-1992-maex9100164l)

@@ -676,7 +676,6 @@
 - [Décret n°99-534 du 25 juin 1999 (MESS9921801D)](decret-n99-534-du-25-juin-1999-mess9921801d)
 - [Décret n°99-743 du 25 août 1999 (EQUS9900985D)](decret-n99-743-du-25-aout-1999-equs9900985d)
 - [Décret n°99-900 du 25 octobre 1999 (JUSE9940214D)](decret-n99-900-du-25-octobre-1999-juse9940214d)
-- [Décret n°99-903 du 25 octobre 1999 (JUSE9940264D)](decret-n99-903-du-25-octobre-1999-juse9940264d)
 - [Décret n°99-906 du 25 octobre 1999 (FPPA9910018D)](decret-n99-906-du-25-octobre-1999-fppa9910018d)
 - [Décret n°99-963 du 25 novembre 1999 (MESG9922549D)](decret-n99-963-du-25-novembre-1999-mesg9922549d)
 - [Décret n°99-964 du 25 novembre 1999 (AGRS9902255D)](decret-n99-964-du-25-novembre-1999-agrs9902255d)
