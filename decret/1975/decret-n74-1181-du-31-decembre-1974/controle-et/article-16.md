@@ -1,0 +1,3 @@
+# Article 16
+
+Les conditions dans lesquelles doit être effectuée l'étude [*préliminaire*] visée à l'article 4 ci-dessus, les règles générales applicables à la fixation des limites et des modalités de rejet, aux choix des mesures de surveillance de l'environnement et aux modalités de contrôle par le service central de protection contre les rayonnements ionisants sont fixées par arrêtés conjoints du ministre de l'intérieur, du ministre de l'équipement, du ministre de l'agriculture, du ministre de la qualité de la vie, du ministre de la santé, du ministre de l'industrie et de la recherche et du secrétaire d'Etat aux transports.

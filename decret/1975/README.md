@@ -15,3 +15,4 @@
 - [Décret n°76-142 du 29 janvier 1976](decret-n76-142-du-29-janvier-1976)
 - [Décret n°75-60 du 30 janvier 1975](decret-n75-60-du-30-janvier-1975)
 - [Décret n°75-683 du 30 juillet 1975](decret-n75-683-du-30-juillet-1975)
+- [Décret n°74-1181 du 31 décembre 1974](decret-n74-1181-du-31-decembre-1974)
