@@ -14,6 +14,7 @@
 - [Décret n°89-1 du 2 janvier 1989 (MENU8802576D)](decret-n89-1-du-2-janvier-1989-menu8802576d)
 - [Décret n°89-140 du 2 mars 1989 (SPSH8801878D)](decret-n89-140-du-2-mars-1989-spsh8801878d)
 - [Décret n°89-20 du 2 janvier 1989 (BUDB8820023D)](decret-n89-20-du-2-janvier-1989-budb8820023d)
+- [Décret n°89-351 du 2 juin 1989 (ECOA8900038D)](decret-n89-351-du-2-juin-1989-ecoa8900038d)
 - [Décret n°89-533 du 2 août 1989 (MENF8901207D)](decret-n89-533-du-2-aout-1989-menf8901207d)
 - [Décret n°89-283 du 2 mai 1989 (MAEJ8930038D)](decret-n89-283-du-2-mai-1989-maej8930038d)
 - [Décret n°89-285 du 2 mai 1989 (MAEJ8930041D)](decret-n89-285-du-2-mai-1989-maej8930041d)
