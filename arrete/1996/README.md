@@ -266,7 +266,6 @@
 - [Arrêté du 8 mars 1996 (BUDZ9600005A)](arrete-du-8-mars-1996-budz9600005a)
 - [Arrêté du 8 mars 1996 (BUDZ9600006A)](arrete-du-8-mars-1996-budz9600006a)
 - [Arrêté du 8 mars 1996 (FCEC9600049A)](arrete-du-8-mars-1996-fcec9600049a)
-- [Arrêté du 8 novembre 1996 (AGRG9602413A)](arrete-du-8-novembre-1996-agrg9602413a)
 - [Arrêté du 8 novembre 1996 (DEFD9602129A)](arrete-du-8-novembre-1996-defd9602129a)
 - [Arrêté du 8 novembre 1996 (ECOT9620042A)](arrete-du-8-novembre-1996-ecot9620042a)
 - [Arrêté du 8 novembre 1996 (ECOT9651550A)](arrete-du-8-novembre-1996-ecot9651550a)
