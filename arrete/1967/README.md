@@ -6,7 +6,6 @@
 - [Arrêté du 7 février 1967](arrete-du-7-fevrier-1967)
 - [Arrêté du 8 juin 1967](arrete-du-8-juin-1967)
 - [Arrêté du 8 novembre 1967](arrete-du-8-novembre-1967)
-- [Arrêté du 13 janvier 1967](arrete-du-13-janvier-1967)
 - [Arrêté du 13 novembre 1967](arrete-du-13-novembre-1967)
 - [Arrêté du 13 septembre 1967](arrete-du-13-septembre-1967)
 - [Arrêté du 17 avril 1967](arrete-du-17-avril-1967)

@@ -1,4 +1,0 @@
-# AIDE SOCIALE AUX INFIRMES, AVEUGLES ET GRANDS INFIRMES
-
-- [Article 16](article-16.md)
-- [DISPOSITIONS GENERALES.](dispositions-generales)
