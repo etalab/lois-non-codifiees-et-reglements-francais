@@ -1,4 +1,3 @@
 # Loi du 14 janvier 1939 portant réorganisation des théâtres lyriques nationaux.
 
-- [Article 2](article-2.md)
 - [Article 5](article-5.md)
