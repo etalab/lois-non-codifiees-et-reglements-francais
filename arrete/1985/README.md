@@ -1,6 +1,7 @@
 # 1985
 
 - [Arrêté du 1 décembre 1984](arrete-du-1-decembre-1984)
+- [Arrêté du 2 janvier 1985](arrete-du-2-janvier-1985)
 - [Arrêté du 3 janvier 1985](arrete-du-3-janvier-1985)
 - [Arrêté du 4 janvier 1985](arrete-du-4-janvier-1985)
 - [Arrêté du 5 novembre 1985](arrete-du-5-novembre-1985)
@@ -12,6 +13,7 @@
 - [Arrêté du 10 janvier 1985](arrete-du-10-janvier-1985)
 - [Arrêté du 10 octobre 1983](arrete-du-10-octobre-1983)
 - [Arrêté du 11 décembre 1984](arrete-du-11-decembre-1984)
+- [Arrêté du 11 janvier 1985](arrete-du-11-janvier-1985)
 - [Arrêté du 11 octobre 1983](arrete-du-11-octobre-1983)
 - [Arrêté du 12 novembre 1984](arrete-du-12-novembre-1984)
 - [Arrêté du 12 octobre 1983](arrete-du-12-octobre-1983)
