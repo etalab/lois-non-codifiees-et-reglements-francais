@@ -18,3 +18,4 @@
 - [Loi n°66-379 du 15 juin 1966](loi-n66-379-du-15-juin-1966)
 - [Loi n°66-400 du 18 juin 1966](loi-n66-400-du-18-juin-1966)
 - [Loi n°66-458 du 2 juillet 1966](loi-n66-458-du-2-juillet-1966)
+- [Loi n°66-935 du 17 décembre 1966](loi-n66-935-du-17-decembre-1966)
