@@ -1,19 +1,15 @@
 # Article 15
 
-Le ministre chargé de la santé soumet la demande accompagnée du dossier à l'avis d'une commission présidée par un inspecteur général des affaires sociales et composée ainsi qu'il suit :
+Le préfet de région soumet la demande accompagnée du dossier à l'avis d'une commission présidée par le directeur régional des affaires sanitaires et sociales et composée ainsi qu'il suit :
 
-- le directeur général de la santé ou son représentant ;
+1° Un médecin inspecteur de la santé ;
 
-- le directeur des hôpitaux ou son représentant ;
+2° Un directeur d'établissement hospitalier public ;
 
-- le directeur de la sécurité sociale ou son représentant ;
+3° Un directeur d'établissement hospitalier privé ;
 
-- un directeur d'établissement hospitalier public ;
+4° Deux médecins participant aux activités de prélèvements et de transplantations.
 
-- un directeur d'établissement hospitalier prive ;
-
-- six médecins.
-
-Les directeurs d'établissement hospitalier et les médecins sont désignés pour trois ans par le ministre chargé de la santé. Pour les membres nommés à titre personnel, un suppléant est désigné dans les mêmes conditions.
+Les membres de la commission sont désignés pour trois ans par le préfet de région. Chaque membre est assisté d'un suppléant nommé dans les mêmes conditions, qui ne peut siéger qu'en l'absence du titulaire.
 
 La commission peut procéder ou faire procéder à toutes auditions, investigations ou vérifications de nature à éclairer l'avis qu'elle est appelée à donner.
