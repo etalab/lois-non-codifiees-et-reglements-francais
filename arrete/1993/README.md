@@ -1243,7 +1243,6 @@
 - [Arrêté du 30 décembre 1992 (ACVA9210141A)](arrete-du-30-decembre-1992-acva9210141a)
 - [Arrêté du 30 décembre 1992 (AGRP9200692A)](arrete-du-30-decembre-1992-agrp9200692a)
 - [Arrêté du 30 décembre 1992 (BUDB9260075A)](arrete-du-30-decembre-1992-budb9260075a)
-- [Arrêté du 30 décembre 1992 (ENVP9250403A)](arrete-du-30-decembre-1992-envp9250403a)
 - [Arrêté du 30 décembre 1992 (INTD9300029A)](arrete-du-30-decembre-1992-intd9300029a)
 - [Arrêté du 30 décembre 1992 (MENZ9204611A)](arrete-du-30-decembre-1992-menz9204611a)
 - [Arrêté du 30 décembre 1992 (SANP9203356A)](arrete-du-30-decembre-1992-sanp9203356a)

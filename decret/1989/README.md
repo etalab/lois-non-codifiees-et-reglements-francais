@@ -486,4 +486,3 @@
 - [Décret n°89-606 du 31 août 1989 (SPSS8901353D)](decret-n89-606-du-31-aout-1989-spss8901353d)
 - [Décret n°89-618 du 31 août 1989 (MICT8900490D)](decret-n89-618-du-31-aout-1989-mict8900490d)
 - [Décret n°89-648 du 31 août 1989 (PRME8961504D)](decret-n89-648-du-31-aout-1989-prme8961504d)
-- [Décret n°89-649 du 31 août 1989 (PRME8961505D)](decret-n89-649-du-31-aout-1989-prme8961505d)

@@ -109,7 +109,6 @@
 - [Arrêté du 5 mai 1988 (ASEP8800336A)](arrete-du-5-mai-1988-asep8800336a)
 - [Arrêté du 5 mai 1988 (INTF8800186A)](arrete-du-5-mai-1988-intf8800186a)
 - [Arrêté du 5 mai 1988 (MAEA8820094A)](arrete-du-5-mai-1988-maea8820094a)
-- [Arrêté du 5 mai 1988 (MAEA8820095A)](arrete-du-5-mai-1988-maea8820095a)
 - [Arrêté du 5 mai 1988 (MCLB8800178A)](arrete-du-5-mai-1988-mclb8800178a)
 - [Arrêté du 6 avril 1988 (STFP8800516A)](arrete-du-6-avril-1988-stfp8800516a)
 - [Arrêté du 6 décembre 1988 (SPSH8801812A)](arrete-du-6-decembre-1988-spsh8801812a)
