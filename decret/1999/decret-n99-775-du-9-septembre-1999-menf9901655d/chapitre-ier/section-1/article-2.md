@@ -1,0 +1,3 @@
+# Article 2
+
+Les agents non titulaires de nationalité étrangère non dispensés de la condition de nationalité, en application du 3° de l'article précédent, qui remplissent à la date de publication du présent décret les autres conditions énumérées à cet article ont, s'ils acquièrent la nationalité française ou celle d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen dans les cinq ans suivant la date de publication du présent décret, droit à être titularisés dans les conditions fixées au présent chapitre dans l'un des corps de technicien de la recherche ou d'adjoint technique de la recherche.
