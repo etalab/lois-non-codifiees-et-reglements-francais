@@ -1,6 +1,7 @@
 # Décret n°55-1226 du 19 septembre 1955 portant règlement d'administration publique relatif aux conditions de nomination et d'avancement dans les emplois de chef de service, de directeur adjoint et de sous-directeur des administrations centrales de l'Etat.
 
 - [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 2 quinquies](article-2-quinquies.md)
 - [Article 2 sextiès](article-2-sexties.md)
 - [Article 3](article-3.md)
