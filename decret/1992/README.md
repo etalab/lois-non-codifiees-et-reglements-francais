@@ -624,6 +624,7 @@
 - [Décret n°89-780 du 20 octobre 1989 (SPSG8901530D)](decret-n89-780-du-20-octobre-1989-spsg8901530d)
 - [Décret n°91-1292 du 20 décembre 1991 (ECOC9100108D)](decret-n91-1292-du-20-decembre-1991-ecoc9100108d)
 - [Décret n°92-1162 du 20 octobre 1992 (MENL9203347D)](decret-n92-1162-du-20-octobre-1992-menl9203347d)
+- [Décret n°92-1163 du 20 octobre 1992 (PRMG9270595D)](decret-n92-1163-du-20-octobre-1992-prmg9270595d)
 - [Décret n°92-152 du 20 février 1992 (INTC9200029D)](decret-n92-152-du-20-fevrier-1992-intc9200029d)
 - [Décret n°92-155 du 20 février 1992 (BUDL9100215D)](decret-n92-155-du-20-fevrier-1992-budl9100215d)
 - [Décret n°92-158 du 20 février 1992 (TEFT9104217D)](decret-n92-158-du-20-fevrier-1992-teft9104217d)
