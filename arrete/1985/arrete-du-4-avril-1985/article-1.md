@@ -1,5 +1,7 @@
 # Article 1
 
-L'agrément institué par l'article 79 de la loi de finances pour 1985 susvisée au profit des fondations ou associations d'intérêt général et à caractère culturel est délivré par le directeur régional des impôts sur proposition du préfet de région.
+Sont abrogés à compter du 1er janvier 1989 :
 
-Si l'affaire est évoquée au niveau ministériel, l'agrément est délivré conjointement par le ministre de l'économie, des finances et du budget et par le ministre de la culture.
+- les alinéas 2 et 3 de l'article 68 du règlement intérieur annexé à l'arrêté du 8 juin 1951 susvisé modifié ;
+
+- l'arrêté du 28 juin 1961 modifié relatif aux dépenses de soins d'urgence aux victimes d'accidents du travail.
