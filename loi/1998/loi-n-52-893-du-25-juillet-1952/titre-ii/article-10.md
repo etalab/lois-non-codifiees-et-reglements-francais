@@ -1,19 +1,5 @@
 # Article 10
 
-L'examen de la demande d'admission au titre de l'asile présentée à l'intérieur du territoire français relève du représentant de l'Etat dans le département et, à Paris, du préfet de police.
+L'étranger admis à séjourner en France bénéficie du droit à s'y maintenir jusqu'à la notification de la décision de l'Office français de protection des réfugiés et apatrides ou, si un recours a été formé, jusqu'à la notification de la décision de la commission des recours. Il dispose d'un délai d'un mois à compter de la notification du refus de renouvellement ou du retrait de son autorisation de séjour pour quitter volontairement le territoire français.
 
-L'admission ne peut être refusée au seul motif que l'étranger est démuni des documents et des visas mentionnés à l'article 5 de l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France.
-
-Sous réserve du respect des dispositions de l'article 33 de la Convention de Genève du 28 juillet 1951 précitée, modifiée par le protocole de New York du 31 janvier 1967, l'admission en France d'un demandeur d'asile ne peut être refusée que si :
-
-1° L'examen de la demande d'asile relève de la compétence d'un autre Etat, en application des stipulations de la Convention de Dublin du 15 juin 1990 relative à la détermination de l'Etat responsable de l'examen d'une demande d'asile présentée auprès d'un Etat membre des Communautés européennes, ou du chapitre VII du titre II de la convention signée à Schengen le 19 juin 1990, ou d'engagements identiques à ceux prévus par la Convention de Dublin souscrits avec d'autres Etats conformément à la déclaration annexée au procès-verbal de la conférence de signature de la convention du 15 juin 1990, à compter de leur entrée en vigueur ;
-
-2° Le demandeur d'asile a la nationalité d'un pays pour lequel ont été mises en oeuvre les dispositions de l'article 1er C 5 de la convention de Genève du 28 juillet 1951 précitée ;
-
-3° La présence en France de l'étranger constitue une menace grave pour l'ordre public ;
-
-4° La demande d'asile repose sur une fraude délibérée ou constitue un recours abusif aux procédures d'asile ou n'est présentée qu'en vue de faire échec à une mesure d'éloignement prononcée ou imminente. Constitue, en particulier, un recours abusif aux procédures d'asile la présentation frauduleuse de plusieurs demandes d'admission au séjour au titre de l'asile sous des identités différentes.
-
-Les dispositions du présent article ne font pas obstacle au droit souverain de l'Etat d'accorder l'asile à toute personne qui se trouverait néanmoins dans l'un des cas mentionnés aux 1° à 4° du présent article.
-
-Dans le cas où l'admission au séjour lui a été refusée pour l'un des motifs visés aux 2° à 4° du présent article, le demandeur d'asile peut saisir l'Office français de protection des réfugiés et apatrides d'une demande de reconnaissance de la qualité de réfugié.
+L'étranger présent sur le territoire français dont la demande d'asile entre dans l'un des cas visés aux 2° à 4° de l'article 8  bénéficie du droit à se maintenir en France jusqu'à la notification de la décision de l'Office français de protection des réfugiés et apatrides, lorsqu'il s'agit d'une décision de rejet. En conséquence, aucune mesure d'éloignement mentionnée aux articles 19, 22, 23 ou 26 de l'ordonnance n° 45-2658 du 2 novembre 1945 ne peut être mise à exécution avant la décision de l'office. En cas de reconnaissance de la qualité de réfugié ou d'octroi de la protection subsidiaire, le préfet abroge l'arrêté de reconduite à la frontière qui a, le cas échéant, été pris. Il délivre sans délai au réfugié la carte de résident prévue au 10° de l'article 15 de l'ordonnance n° 45-2658 du 2 novembre 1945 précitée et au bénéficiaire de la protection subsidiaire la carte de séjour temporaire prévue à l'article 12 ter de cette ordonnance.

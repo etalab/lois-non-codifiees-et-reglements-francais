@@ -1,15 +1,27 @@
 # Article 5
 
-Il est institué une commission des recours [*organisme compétent*] composée d'un membre du Conseil d'Etat, président, désigné par le vice-président du Conseil d'Etat, d'un représentant du haut commissaire des Nations Unies pour les réfugiés et d'un représentant du conseil de l'office.
+I. - Il est institué une commission des recours des réfugiés, juridiction administrative, placée sous l'autorité d'un président, membre du Conseil d'Etat, désigné par le vice-président du Conseil d'Etat.
 
-Cette commission est chargée [*attribution*] :
+La commission comporte des sections comprenant chacune :
 
-a) De statuer sur les recours formulés par les étrangers et les apatrides auxquels l'office aurait refusé de reconnaître la qualité de réfugié ;
+1° Un président nommé soit :
 
-b) D'examiner les requêtes qui lui sont adressées par les réfugiés tombant sous le coup d'une des mesures prévues par les articles 31 [*situation irrégulière*], 32 et 33 [*expulsion et refoulement*] de la convention du 28 juillet 1951 et de formuler un avis quant au maintien ou à l'annulation de ces mesures. En cette matière, le recours est suspensif d'exécution.
+a) Par le vice-président du Conseil d'Etat parmi les membres du Conseil d'Etat ou du corps des tribunaux administratifs et des cours administratives d'appel ;
 
-Le droit de recours doit être exercé dans le délai d'un mois dans les cas visés au paragraphe a et dans le délai d'une semaine dans les cas visés au paragraphe b.
+b) Par le premier président de la Cour des comptes parmi les magistrats de la Cour des comptes et des chambres régionales des comptes.
 
-Les intéressés pourront présenter leurs explications à la commission des recours et s'y faire assister d'un conseil.    La commission des recours siège en sections dans la composition prévue au premier alinéa du présent article. Toutefois la présidence des sections peut également être assurée par des magistrats de la Cour des comptes, en activité ou honoraires, désignés par le premier président de cette cour et par des membres du corps des tribunaux administratifs et des cours administratives d'appel, en activité ou honoraires, ayant au moins le grade de conseiller hors classe désignés par le vice-président du Conseil d'Etat.
+Les membres des corps visés aux a et b peuvent être en activité ou honoraires ;
 
-La commission des recours n'est pas compétente pour connaître des demandes présentées par un demandeur d'asile à l'égard duquel le représentant de l'Etat dans le département ou, à Paris, le préfet de police, fait application du 1° de l'article 10 de la présente loi.
+c) Par le garde des sceaux, ministre de la justice, parmi les magistrats du siège en activité et les magistrats honoraires de l'ordre judiciaire ;
+
+2° Une personnalité qualifiée de nationalité française, nommée par le haut-commissaire des Nations unies pour les réfugiés sur avis conforme du vice-président du Conseil d'Etat ;
+
+3° Une personnalité qualifiée nommée par le vice-président du Conseil d'Etat sur proposition de l'un des ministres représentés au conseil d'administration de l'office.
+
+II. - La commission des recours des réfugiés statue sur les recours formés contre les décisions de l'office prises en application du II et du IV de l'article 2.
+
+III. - La commission des recours des réfugiés examine les requêtes qui lui sont adressées par les réfugiés visés par l'une des mesures prévues par les articles 31, 32 et 33 de la convention du 28 juillet 1951 susmentionnée et formule un avis quant au maintien ou à l'annulation de ces mesures. En cette matière, le recours est suspensif d'exécution. Dans ce cas, le droit au recours doit être exercé dans le délai d'une semaine.
+
+IV. - Les intéressés peuvent présenter leurs explications à la commission des recours et s'y faire assister d'un conseil et d'un interprète.
+
+V. - Le président et les présidents de section peuvent, par ordonnance, régler les affaires dont la nature ne justifie pas l'intervention d'une formation collégiale. A ce titre, ils peuvent donner acte des désistements, constater qu'il n'y a pas lieu de statuer sur un recours et rejeter les recours entachés d'une irrecevabilité manifeste non susceptible d'être couverte en cours d'instance. Ils peuvent également statuer sur les demandes qui ne présentent aucun élément sérieux susceptible de remettre en cause les motifs de la décision du directeur général de l'office.
