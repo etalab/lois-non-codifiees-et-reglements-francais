@@ -1,57 +1,185 @@
 # Article 1
 
-L'échelonnement indiciaire applicable au cadre d'emplois des administrateurs est fixé ainsi qu'il suit :
+L'échelonnement indiciaire applicable au cadre d'emplois des administrateurs territoriaux est fixé ainsi qu'il suit :
 
-Indices
-
-bruts
-
--
-
-Administrateur hors classe
-
-7e échelon 3 hors échelle A 6er échelon 1 hors échelle A 5er échelon 1 015
-
-4er échelon  966
-
-3er échelon  901
-
-2er échelon  852
-
-1er échelon  801
-
-Administrateur 1re classe
-
-6er échelon  966
-
-5er échelon  901
-
-4er échelon  852
-
-3er échelon  801
-
-2er échelon  750
-
-1er échelon  701
-
-2e classe
-
-7er échelon  750
-
-6er échelon  701
-
-5er échelon  655
-
-4er échelon  588
-
-3er échelon  528
-
-2er échelon  471
-
-1er échelon  427
-
-Elève :
-
-2e échelon          427
-
-1er échelon         395
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<strong>ECHELONS</strong>
+</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">
+<strong>INDICES BRUTS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="2" valign="middle">
+<p align="center">
+<i>Administrateur hors classe</i>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">HEB</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">HEA</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1015</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">966</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">901</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">852</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">801</p>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="2" valign="middle">
+<p align="center">
+<i>Administrateur</i>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">9e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">966</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">8e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">901</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">852</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">801</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">750</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">701</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">655</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">588</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">528</p>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="2" valign="middle">
+<p align="center">
+<i>Elève</i>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">427</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">395</p>
+</td>
+</tr>
+</tbody>
+</table>
