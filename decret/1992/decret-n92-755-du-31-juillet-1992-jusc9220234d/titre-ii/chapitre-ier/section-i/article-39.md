@@ -33,3 +33,5 @@ Les animaux d'appartement ou de garde ;
 Les animaux destinés à la subsistance du saisi, ainsi que les denrées nécessaires à leur élevage ;
 
 Les instruments de travail nécessaires à l'exercice personnel de l'activité professionnelle.
+
+Un poste téléphonique permettant l'accès au service téléphonique fixe.
