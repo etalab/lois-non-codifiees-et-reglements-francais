@@ -1,0 +1,3 @@
+# Article 6
+
+Le ministre d'Etat, garde des sceaux, ministre de la justice, le ministre des affaires étrangères, le ministre de l'économie, le ministre de l'industrie, des postes et télécommunications et du commerce extérieur, le ministre des entreprises et du développement économique, chargé des petites et moyennes entreprises et du commerce et de l'artisanat, le ministre de la culture et de la francophonie, le ministre du budget, le ministre de l'agriculture et de la pêche et le ministre des départements et territoires d'outre-mer sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
