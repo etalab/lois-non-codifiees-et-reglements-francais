@@ -112,6 +112,7 @@
 - [Décret n°96-95 du 6 février 1996 (MAEA9520569D)](decret-n96-95-du-6-fevrier-1996-maea9520569d)
 - [Décret n°96-968 du 6 novembre 1996 (EQUP9600742D)](decret-n96-968-du-6-novembre-1996-equp9600742d)
 - [Décret n°96-975 du 6 novembre 1996 (TASO9611165D)](decret-n96-975-du-6-novembre-1996-taso9611165d)
+- [Décret n°96-986 du 6 novembre 1996 (ACVI9630016D)](decret-n96-986-du-6-novembre-1996-acvi9630016d)
 - [Décret n°98-22 du 6 janvier 1998 (DEFP9702198D)](decret-n98-22-du-6-janvier-1998-defp9702198d)
 - [Décret n°96-378 du 6 mai 1996 (JUSD9630040D)](decret-n96-378-du-6-mai-1996-jusd9630040d)
 - [Décret n°98-347 du 6 mai 1998 (ECOP9800091D)](decret-n98-347-du-6-mai-1998-ecop9800091d)
