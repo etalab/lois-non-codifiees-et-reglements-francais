@@ -1,5 +1,6 @@
 # Décret n°78-305 du 15 mars 1978 instituant des commissions régionales et une commission nationale des conseils juridiques
 
+- [Article 2](article-2.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 8](article-8.md)
