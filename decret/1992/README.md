@@ -101,6 +101,7 @@
 - [Décret n°92-764 du 3 août 1992 (JUSC9220482D)](decret-n92-764-du-3-aout-1992-jusc9220482d)
 - [Décret n°92-778 du 3 août 1992 (AGRA9200977D)](decret-n92-778-du-3-aout-1992-agra9200977d)
 - [Décret n°92-8 du 3 janvier 1992 (TEFX9110356D)](decret-n92-8-du-3-janvier-1992-tefx9110356d)
+- [Décret n°92-910 du 3 septembre 1992 (INTB9200399D)](decret-n92-910-du-3-septembre-1992-intb9200399d)
 - [Décret n°88-524 du 3 mai 1988 (PTTA8700867D)](decret-n88-524-du-3-mai-1988-ptta8700867d)
 - [Décret n°88-599 du 3 mai 1988 (JUSB8810108D)](decret-n88-599-du-3-mai-1988-jusb8810108d)
 - [Décret du 4 mars 1992 (SANH9200561D)](decret-du-4-mars-1992-sanh9200561d)
