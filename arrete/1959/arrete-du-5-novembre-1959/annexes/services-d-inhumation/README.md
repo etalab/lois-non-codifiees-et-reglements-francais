@@ -1,3 +1,3 @@
-# Personnel des services techniques
+# Services d'inhumation.
 
 - [Article Annexe](article-annexe.md)
