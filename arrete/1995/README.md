@@ -211,6 +211,7 @@
 - [Arrêté du 25 janvier 1995 (MENE9500086A)](arrete-du-25-janvier-1995-mene9500086a)
 - [Arrêté du 26 janvier 1995 (EQUS9500183A)](arrete-du-26-janvier-1995-equs9500183a)
 - [Arrêté du 26 janvier 1995 (INTB9500052A)](arrete-du-26-janvier-1995-intb9500052a)
+- [Arrêté du 26 janvier 1995 (RESM9500104A)](arrete-du-26-janvier-1995-resm9500104a)
 - [Arrêté du 27 décembre 1994 (AGRS9402494A)](arrete-du-27-decembre-1994-agrs9402494a)
 - [Arrêté du 27 décembre 1994 (DEFB9501023A)](arrete-du-27-decembre-1994-defb9501023a)
 - [Arrêté du 27 décembre 1994 (DEFD9402069A)](arrete-du-27-decembre-1994-defd9402069a)

@@ -1,0 +1,3 @@
+# Article 10
+
+S'il s'agit d'une reprise effectuée soit par rachat d'actions en vue de la réalisation d'un plan de continuation, dans le cas où l'entreprise est en état de redressement judiciaire, soit par rachat d'actifs après redressement judiciaire ou liquidation judiciaire, le nombre des emplois pouvant donner lieu à la prime est calculé sur la base des effectifs de l'entreprise au moment de la reprise et de leur évolution dans le cadre d'un programme de trois ans. Seuls les investissements nouveaux, à l'exclusion des actifs appartenant à l'entreprise ou à des sociétés liées à celle-ci, sont pris en compte.

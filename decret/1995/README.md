@@ -30,6 +30,7 @@
 - [Décret n°95-141 du 6 février 1995 (MAEJ9530002D)](decret-n95-141-du-6-fevrier-1995-maej9530002d)
 - [Décret n°95-142 du 6 février 1995 (MAEJ9530003D)](decret-n95-142-du-6-fevrier-1995-maej9530003d)
 - [Décret n°95-144 du 6 février 1995 (MAEJ9530005D)](decret-n95-144-du-6-fevrier-1995-maej9530005d)
+- [Décret n°95-149 du 6 février 1995 (INTL9500028D)](decret-n95-149-du-6-fevrier-1995-intl9500028d)
 - [Décret n°95-17 du 6 janvier 1995 (DEFD9401920D)](decret-n95-17-du-6-janvier-1995-defd9401920d)
 - [Décret n°95-38 du 6 janvier 1995 (SPSS9402954D)](decret-n95-38-du-6-janvier-1995-spss9402954d)
 - [Décret n°95-40 du 6 janvier 1995 (ENVE9420053D)](decret-n95-40-du-6-janvier-1995-enve9420053d)
