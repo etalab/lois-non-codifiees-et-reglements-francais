@@ -4,4 +4,4 @@ Pour l'élection des représentants du personnel, le collège est constitué de 
 
 1° Occuper un emploi permanent d'une collectivité ou d'un établissement mentionné à l'article 2 de la loi du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale dont le siège est situé dans le ressort du centre de formation ;
 
-2° Etre en position d'activité auprès de la collectivité ou de l'établissement au sens des articles 56 à 63 de la loi du 26 janvier précitée.
+2° Etre en position d'activité auprès de la collectivité ou de l'établissement au sens des articles 56 à 63 de la loi du 26 janvier précitée.    Les dispositions de l'alinéa précédent s'appliquent aux agents des offices publics d'aménagement et de construction ayant la qualité de fonctionnaires régis par la loi n° 84-53 du 26 janvier 1984 précitée.
