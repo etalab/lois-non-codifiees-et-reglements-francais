@@ -2,7 +2,7 @@
 
 Les ressources du comité comprennent notamment :
 
-1. Le produit des taxes parafiscales instituées à son profit ;
+1. Le produit de la taxe parafiscale instituée à son profit ;
 
 2. Les subventions ;
 
