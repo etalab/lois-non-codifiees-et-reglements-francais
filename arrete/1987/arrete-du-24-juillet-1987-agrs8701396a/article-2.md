@@ -2,7 +2,7 @@
 
 Pour l'application du présent arrêté :
 
-a) Sont considérées comme travailleurs occasionnels [*définition*] les personnes qui occupent un emploi salarié agricole pendant une durée n'excédant pas par année civile quarante jours ouvrés consécutifs ou non, à condition de bénéficier :
+a) Sont considérées comme travailleurs occasionnels [*définition*] les personnes qui occupent un emploi salarié agricole pendant une durée n'excédant pas par année civile soixante jours ouvrés consécutifs ou non, à condition de bénéficier :
 
 - soit des prestations de l'assurance maladie d'un régime obligatoire de sécurité sociale autre que celui des assurances sociales agricoles, à titre personnel ou en qualité d'ayant droit ;
 
