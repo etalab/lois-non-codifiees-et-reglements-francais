@@ -1,0 +1,3 @@
+# Article 1
+
+Est organisé, en application de l'article 113 de la loi du 2 juillet 1998 susvisée, un recrutement exceptionnel de quinze inspecteurs du travail, par voie de concours sur épreuves ouvert aux candidats n'ayant pas la qualité d'agents publics, âgés de cinquante ans au plus à la date d'ouverture du concours et justifiant à cette même date avoir exercé pendant quinze années au moins une activité professionnelle dans une entreprise, une organisation syndicale ou une organisation professionnelle, dont cinq années dans les fonctions de cadre, au sens des conventions collectives du travail applicables, ou dans des fonctions de responsabilité équivalente.

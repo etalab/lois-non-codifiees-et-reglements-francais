@@ -269,6 +269,7 @@
 - [Arrêté du 18 janvier 1999 (ECOT9920004A)](arrete-du-18-janvier-1999-ecot9920004a)
 - [Arrêté du 18 janvier 1999 (INTD9900039A)](arrete-du-18-janvier-1999-intd9900039a)
 - [Arrêté du 18 juin 1999 (AGRA9901265A)](arrete-du-18-juin-1999-agra9901265a)
+- [Arrêté du 18 juin 1999 (JUSB9910242A)](arrete-du-18-juin-1999-jusb9910242a)
 - [Arrêté du 18 juin 1999 (MESP9921882A)](arrete-du-18-juin-1999-mesp9921882a)
 - [Arrêté du 18 mars 1999 (DEFP9901326A)](arrete-du-18-mars-1999-defp9901326a)
 - [Arrêté du 18 mars 1999 (MENE9900514A)](arrete-du-18-mars-1999-mene9900514a)
