@@ -32,6 +32,7 @@
 - [Arrêté du 2 mars 1988 (TRSA8800250A)](arrete-du-2-mars-1988-trsa8800250a)
 - [Arrêté du 2 novembre 1988 (BUDL8800184A)](arrete-du-2-novembre-1988-budl8800184a)
 - [Arrêté du 2 novembre 1988 (BUDR8805003A)](arrete-du-2-novembre-1988-budr8805003a)
+- [Arrêté du 2 novembre 1988 (ECOC8800014A)](arrete-du-2-novembre-1988-ecoc8800014a)
 - [Arrêté du 2 novembre 1988 (INTD8800424A)](arrete-du-2-novembre-1988-intd8800424a)
 - [Arrêté du 2 mai 1988 (AGRS8800845A)](arrete-du-2-mai-1988-agrs8800845a)
 - [Arrêté du 2 mai 1988 (ASES8800597A)](arrete-du-2-mai-1988-ases8800597a)
