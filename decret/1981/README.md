@@ -33,6 +33,7 @@
 - [Décret n°81-317 du 7 avril 1981](decret-n81-317-du-7-avril-1981)
 - [Décret n°81-322 du 7 avril 1981](decret-n81-322-du-7-avril-1981)
 - [Décret n°81-334 du 7 avril 1981](decret-n81-334-du-7-avril-1981)
+- [Décret n°81-769 du 7 août 1981](decret-n81-769-du-7-aout-1981)
 - [Décret n°81-443 du 7 mai 1981](decret-n81-443-du-7-mai-1981)
 - [Décret n°81-25 du 8 janvier 1981](decret-n81-25-du-8-janvier-1981)
 - [Décret n°81-353 du 8 avril 1981](decret-n81-353-du-8-avril-1981)
