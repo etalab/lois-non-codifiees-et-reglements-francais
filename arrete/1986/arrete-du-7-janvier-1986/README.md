@@ -1,4 +1,4 @@
-# Arrêté du 7 janvier 1986 portant dérogation à l'article 114 (alinéa 7) du décret n° 65-48 du 8 janvier 1965 relatif aux planchers des échafaudages fixes
+# Arrêté du 7 janvier 1986 autorisant le travail sous tension, en isolé, sur certaines installations électriques autres qu'à T.B.T.S.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,3 @@
 # Article 2
 
-Le bord des planchers ne doit pas être éloigné de plus de 40 centimètres de la construction.
+Les ouvriers habilités à se voir confier un travail dans les conditions de l'article 1er ci-dessus doivent avoir reçu une formation appropriée et être inscrits sur une liste particulière.

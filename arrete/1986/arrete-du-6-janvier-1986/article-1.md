@@ -1,3 +1,3 @@
 # Article 1
 
-Les dispositions des quatrième alinéa, cinquième alinéa, avant-dernier paragraphe, et sixième alinéa de l'article 6 du décret n° 73-46 du 9 janvier 1973 susvisé s'appliquent au coupon d'Etat 7 % 1973 payable le 16 janvier 1986.
+Le taux de la retenue prévue à l'article 3 du décret susvisé est fixé à 15 % de la rémunération visée à l'article 2 du  décret n° 67-600 du 23 juillet 1967 modifié relatif au régime de rémunération des magistrats et fonctionnaires de l'Etat en service dans les territoires d'outre-mer.

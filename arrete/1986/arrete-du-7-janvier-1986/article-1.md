@@ -1,3 +1,3 @@
 # Article 1
 
-Par dérogation à l'article 114 (alinéa 7) du décret du 8 janvier 1965 susvisé, le bord des planchers des échafaudages fixes peut, lors de travaux d'isolation ou de revêtement de façades, être éloigné de plus de 20 centimètres de la construction, sous réserve toutefois de l'observation des conditions définies aux articles 2 à 4 du présent arrêté.
+Par dérogation à l'article 15-6, deuxième alinéa, du règlement susvisé, un travail sous tension sur une installation autre qu'à T.B.T.S. peut être confié à un ouvrier isolé, lorsqu'il s'agit d'installations de téléphone, télétransmission et signalisation des puits et bures, sous réserve que la tension maximale susceptible d'être atteinte ne dépasse pas 127 volts.
