@@ -320,6 +320,7 @@
 - [Décret n°2001-352 du 20 avril 2001 (AGRA0100442D)](decret-n2001-352-du-20-avril-2001-agra0100442d)
 - [Décret n°2001-353 du 20 avril 2001 (MESH0120778D)](decret-n2001-353-du-20-avril-2001-mesh0120778d)
 - [Décret n°2001-361 du 20 avril 2001 (DEFM0101217D)](decret-n2001-361-du-20-avril-2001-defm0101217d)
+- [Décret n°2001-530 du 20 juin 2001 (PRMX0104891D)](decret-n2001-530-du-20-juin-2001-prmx0104891d)
 - [Décret n°93-1334 du 20 décembre 1993 (RESM9300956D)](decret-n93-1334-du-20-decembre-1993-resm9300956d)
 - [Décret n°93-1335 du 20 décembre 1993 (RESM9300954D)](decret-n93-1335-du-20-decembre-1993-resm9300954d)
 - [Décret n°2001-170 du 21 février 2001 (AGRS0100183D)](decret-n2001-170-du-21-fevrier-2001-agrs0100183d)
