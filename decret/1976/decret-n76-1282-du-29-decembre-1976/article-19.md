@@ -1,7 +1,11 @@
 # Article 19
 
-Par dérogation aux dispositions des articles 17 et 18 et pour l'application du troisième alinéa de l'article 24 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises, le conseil d'administration ou la commission de recours amiable peut accorder une remise totale ou partielle des majorations de retard afférentes aux cotisations échues et non réglées. Cette remise n'est pas subordonnée au versement préalable desdites cotisations. Elle est acquise lorsque le tribunal arrête le plan de continuation de l'entreprise en application du chapitre II du titre 1er de la loi du 25 janvier 1985 précitée, sous réserve des dispositions de l'article 80 de la même loi.
+Par dérogation aux dispositions des articles 17 et 18 du présent décret, l'employeur dont l'entreprise fait l'objet d'un examen par la commission départementale des chefs des services financiers et des représentants des organismes de sécurité sociale dans le cadre d'une reprise ou d'une restructuration financière peut bénéficier d'une remise intégrale ou partielle des majorations de retard afférentes aux cotisations exigibles et non réglées, dans les conditions suivantes :
 
-Les décisions afférentes aux remises de majorations de retard doivent être communiquées au représentant des créanciers dans le délai de quarante-cinq jours de la réception de la lettre du représentant des créanciers mentionnée à l'article 42 du décret n° 85-1388 du 27 décembre 1985 relatif au redressement et à la liquidation judiciaires des entreprises.
+1° La demande de remise est recevable même si les cotisations patronales n'ont pas été intégralement réglées. La décision du conseil d'administration ou, par délégation, de la commission de recours amiable accordant la remise peut être prise avant le paiement desdites cotisations patronales ; toutefois, cette remise ne sera acquise qu'après leur paiement ;
 
-Le défaut de réponse du conseil d'administration ou de la commission de recours amiable dans les délais impartis vaut rejet des demandes [*refus tacite*].
+2° La décision de remise est soumise par l'organisme de recouvrement à l'approbation conjointe du trésorier-payeur général et du préfet de région ;
+
+3° Le paiement des cotisations s'effectue dans les conditions fixées par le plan d'apurement adopté par la commission départementale des chefs des services financiers et des représentants des organismes de sécurité sociale pour l'examen de la situation des débiteurs retardataires ou, le cas échéant, par anticipation sur l'exécution du plan.
+
+Lorsque le plan d'apurement n'est pas respecté, les majorations de retard sont calculées et notifiées selon les modalités prévues aux articles 15 et 16 du présent décret. Les demandes de remise sont traitées dans les conditions prévues aux articles 17 et 18 du présent décret.
