@@ -1,0 +1,3 @@
+# Article 14
+
+Le 30 octobre 1998, la commission administrative opère toutes les rectifications régulièrement ordonnées à la liste des électeurs à la suite de recours formés en application de l'article 13. Elle inscrit en outre les personnes qui, du fait d'une décision intervenue après le 30 septembre 1998, justifient remplir, à la date du 30 octobre, les conditions requises pour participer à la consultation du 8 novembre. Le maire transmet cette liste rectifiée au haut-commissaire. La minute de la liste des électeurs reste déposée au secrétariat de la mairie. Tout électeur peut en prendre connaissance, la recopier et la reproduire, à ses frais, à la mairie, ou dans les services du haut-commissaire pour l'ensemble des communes de la Nouvelle-Calédonie.
