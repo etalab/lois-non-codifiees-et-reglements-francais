@@ -61,4 +61,3 @@
 - [Décret n°59-909 du 31 juillet 1959](decret-n59-909-du-31-juillet-1959)
 - [Décret n°59-930 du 31 juillet 1959](decret-n59-930-du-31-juillet-1959)
 - [Décret n°59-936 du 31 juillet 1959](decret-n59-936-du-31-juillet-1959)
-- [Décret n°59-962 du 31 juillet 1959](decret-n59-962-du-31-juillet-1959)

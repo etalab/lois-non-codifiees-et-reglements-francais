@@ -5,3 +5,4 @@
 - [Section 2 : Dispositions complémentaires pour les travaux souterrains de recherche ou d'exploitation de substances radioactives](section-2)
 - [Section 3 : Dispositions complémentaires pour les travaux à ciel ouvert de recherche ou d'exploitation de substances radioactives](section-3)
 - [Section 4 : Dispositions complémentaires pour les installations de surface et les dépendances légales des exploitations de substances radioactives](section-4)
+- [Section 5 : Dispositions complémentaires pour les travaux souterrains autres que ceux de recherche ou d'exploitation de substances radioactives](section-5)

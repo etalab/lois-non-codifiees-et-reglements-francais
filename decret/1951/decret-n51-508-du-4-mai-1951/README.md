@@ -7,7 +7,6 @@
 - [Titre V : Machines du fond, machines d'extraction et cables](titre-v)
 - [Titre VI : Travail au fond](titre-vi)
 - [Titre IX : Eclairage](titre-ix)
-- [Titre X : Explosifs](titre-x)
 - [Titre XI](titre-xi)
 - [Titre XIII : Hygiène et sauvetage](titre-xiii)
 - [Titre XV : Dispositions diverses.](titre-xv)

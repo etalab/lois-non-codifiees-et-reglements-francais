@@ -1,3 +1,0 @@
-# Article 197
-
-A l'expiration des délais de retour au chantier définis par l'article précédent et avant la remise en place du personnel, le chef de chantier ou le préposé au tir procède à la reconnaissance du chantier avec le concours d'un aide. Au cours de cette reconnaissance, il sonde avec précaution le toit et les parements ; il vérifie les effets du tir, il constate les ratés éventuels, repère les trous ayant fait canon et les fonds de trous, récolte avec précaution en vue de leur destruction les explosifs dont il constaterait la présence dans les déblais. Il fait exécuter les purges nécessaires.
