@@ -24,4 +24,5 @@
 - [Décret n°83-1249 du 30 décembre 1983](decret-n83-1249-du-30-decembre-1983)
 - [Décret n°83-1253 du 30 décembre 1983](decret-n83-1253-du-30-decembre-1983)
 - [Décret n°83-1260 du 30 décembre 1983](decret-n83-1260-du-30-decembre-1983)
+- [Décret n°83-1263 du 30 décembre 1983](decret-n83-1263-du-30-decembre-1983)
 - [Décret n°83-1252 du 31 décembre 1983](decret-n83-1252-du-31-decembre-1983)
