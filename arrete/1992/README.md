@@ -795,7 +795,6 @@
 - [Arrêté du 21 avril 1992 (ACVC9200015A)](arrete-du-21-avril-1992-acvc9200015a)
 - [Arrêté du 21 avril 1992 (INDA9200333A)](arrete-du-21-avril-1992-inda9200333a)
 - [Arrêté du 21 décembre 1992 (BUDD9230003A)](arrete-du-21-decembre-1992-budd9230003a)
-- [Arrêté du 21 décembre 1992 (EQUA9201603A)](arrete-du-21-decembre-1992-equa9201603a)
 - [Arrêté du 21 décembre 1992 (JUSE9240089A)](arrete-du-21-decembre-1992-juse9240089a)
 - [Arrêté du 21 décembre 1992 (MENN9204470A)](arrete-du-21-decembre-1992-menn9204470a)
 - [Arrêté du 21 décembre 1992 (TEFT9205570A)](arrete-du-21-decembre-1992-teft9205570a)
