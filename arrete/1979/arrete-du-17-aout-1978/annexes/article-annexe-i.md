@@ -158,11 +158,15 @@ Division de l'espace aérien : notions élémentaires sur les différentes parti
 
 Notions sur les procédures d'aérodrome.
 
+Notions sur les trajectoires IFR aux abords des aérodromes, phraséologie à l'usage de la circulation aérienne générale, expression et compréhension.
+
 3.2.3. Règles de vol à vue :
 
 Conditions météorologiques de vol à vue ;
 
 Règles de vol à vue : vol VFR dans les zones de contrôle, niveau minimal de survol.
+
+Règles de sécurité anti-abordage.
 
 3.2.4. Règles particulières :
 
@@ -181,3 +185,29 @@ Lecture et utilisation de la carte en vol.
 3.3.3: Carte de radionavigation vol à vue au 1/1 000 000 : particularités, utilisation par le pilote de planeur.
 
 3.3.4. Cartes d'aérodrome (VAL) : objet, présentation, renseignements portés, utilisation.
+
+4. Performance humaine et ses limites.
+
+4.1. Physiologie de base adaptée au vol à voile :
+
+Concepts ;
+
+Effets de la pression partielle ;
+
+Vision ;
+
+Audition ;
+
+Vol et santé ;
+
+Intoxications.
+
+4.2. Psychologie de base adaptée au vol à voile :
+
+Processus d'information ;
+
+Processus central de décision ;
+
+Stress ;
+
+Jugement et prise de décision.

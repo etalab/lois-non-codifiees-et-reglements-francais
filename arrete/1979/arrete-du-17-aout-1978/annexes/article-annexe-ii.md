@@ -32,4 +32,8 @@ Manœuvres de sécurité liées au mode de lancement ;
 
 Utilisation des aérofreins ;
 
-Prise de terrain et atterrissage.
+Prise de terrain et atterrissage ;
+
+Règles de sécurité anti-abordage ;
+
+Précision d'atterrissage.
