@@ -1,0 +1,3 @@
+# Article 1
+
+Les entreprises de transport public routier de marchandises ou de location de véhicules industriels avec conducteur destinés au transport de marchandises, immatriculées au registre du commerce et des sociétés ou au répertoire des métiers, doivent, pour exercer leur activité, être également inscrites au registre des transporteurs et des loueurs tenu par le préfet de la région où elles ont leur siège. Pour les entreprises étrangères établies en France, le lieu d'inscription est celui de leur établissement principal. L'inscription au registre des transporteurs et des loueurs est soumise à des conditions d'honorabilité professionnelle, de capacité financière et de capacité professionnelle.
