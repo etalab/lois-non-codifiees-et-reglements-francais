@@ -4,6 +4,6 @@ Pendant la période d'interdiction spécifique de la pêche du brochet, la pêch
 
 1° A la pêche du saumon dans les cours d'eau ou parties de cours d'eau classés comme cours d'eau à saumon ;
 
-2° A certains plans d'eau désignés par arrêté du commissaire de la République.
+2° A certains cours d'eau, canaux et plans d'eau désignés par arrêté du commissaire de la République.
 
-Pendant la période d'interdiction spécifique de la pêche du brochet, l'emploi de l'épervier, de l'araignée, des lignes de fond ainsi que des nasses et verveux, à l'exception des nasses anguillères et des bosselles à anguilles, est interdit dans les eaux classées dans la 2e catégorie sauf pour la pêche d'autres espèces pratiquée par les membres des associations agréées de pêcheurs professionnels en eau douce.
+Pendant la période d'interdiction spécifique de la pêche du brochet, l'emploi de l'épervier, ainsi que des nasses et verveux, à l'exception des nasses anguillères et des bosselles à anguilles, est interdit dans les eaux classées dans la 2e catégorie sauf pour la pêche d'autres espèces pratiquée par les membres des associations agréées de pêcheurs professionnels en eau douce.
