@@ -12,10 +12,10 @@ Certificat d'infirmière de sanatorium délivré par l'école du sanatorium de C
 
 Les titulaires d'un des certificats précités peuvent être également employés dans établissements ou services ci-après :
 
-Service de phtisiologie des établissements  hospitaliers ;
+Service de phtisiologie des établissements hospitaliers ;
 
 Centres départementaux de phtisiologie
 
 Dispensaires antituberculeux.
 
-Ces certificats sont, en outre, validés pour l'exercice de la profession d'infirmière dans les établissements d'hospitalisation, de soins ou de cure publics et privés reconvertis ou en voie de reconversion lorsque leurs titulaires justifient au 31 décembre 1976 de cinq années d'exercice de la profession accomplies après la délivrance de l'un de ces titres.
+Ces certificats sont, en outre, validés pour l'exercice de la profession d'infirmier ou d'infirmière dans les établissements d'hospitalisation, de soins ou de cure publics et privés, sous réserve de l'accomplissement d'un stage de trois mois dans un service hospitalier agréé à cet effet par le médecin inspecteur régional de la santé.
