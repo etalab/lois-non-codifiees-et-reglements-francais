@@ -111,7 +111,6 @@
 - [Arrêté du 4 mars 2002 (EQUA0200243A)](arrete-du-4-mars-2002-equa0200243a)
 - [Arrêté du 4 mars 2002 (MENP0200525A)](arrete-du-4-mars-2002-menp0200525a)
 - [Arrêté du 4 mai 1995 (MCCE9500238A)](arrete-du-4-mai-1995-mcce9500238a)
-- [Arrêté du 5 avril 2002 (AGRG0200682A)](arrete-du-5-avril-2002-agrg0200682a)
 - [Arrêté du 5 avril 2002 (AGRG0200683A)](arrete-du-5-avril-2002-agrg0200683a)
 - [Arrêté du 5 avril 2002 (DEFP0201492A)](arrete-du-5-avril-2002-defp0201492a)
 - [Arrêté du 5 avril 2002 (ECOL0200031A)](arrete-du-5-avril-2002-ecol0200031a)
