@@ -399,6 +399,7 @@
 - [Arrêté du 30 mars 1989 (ECOC8900046A)](arrete-du-30-mars-1989-ecoc8900046a)
 - [Arrêté du 30 mars 1989 (RESZ8800920A)](arrete-du-30-mars-1989-resz8800920a)
 - [Arrêté du 30 mars 1989 (SPSS8900129A)](arrete-du-30-mars-1989-spss8900129a)
+- [Arrêté du 30 octobre 1989 (BUDF8900008A)](arrete-du-30-octobre-1989-budf8900008a)
 - [Arrêté du 30 mai 1989 (INDD8900411A)](arrete-du-30-mai-1989-indd8900411a)
 - [Arrêté du 31 décembre 1988 (BUDB8840083A)](arrete-du-31-decembre-1988-budb8840083a)
 - [Arrêté du 31 janvier 1989 (RESY8900037A)](arrete-du-31-janvier-1989-resy8900037a)

@@ -1,0 +1,5 @@
+# Article 23
+
+Le Conseil national de l'enseignement supérieur et de la recherche statue en appel et en premier ressort sur les décisions disciplinaires prises par les instances universitaires compétentes à l'égard des enseignants-chercheurs, enseignants et usagers. Il exerce, à leur égard, les compétences définies par la loi du 17 juillet 1908 sur le relèvement des interdictions, exclusions ou suspensions prononcées par les juridictions disciplinaires de l'éducation nationale.
+
+Le Conseil national de l'enseignement supérieur et de la recherche [*composition*] statuant en matière disciplinaire comprend des représentants des enseignants-chercheurs et des représentants des usagers. Lorsqu'il statue à l'égard d'enseignants, la formation compétente ne comprend que des enseignants-chercheurs d'un rang égal ou supérieur à celui de la personne déférée devant elle. La composition, les modalités de désignation des membres des formations compétentes à l'égard des enseignants et des usagers et leur fonctionnement sont fixés par décret en Conseil d'Etat.

@@ -1,5 +1,6 @@
 # 1989
 
+- [Loi n° 88-1028 du 9 novembre 1988 (PRMX8800115L)](loi-n-88-1028-du-9-novembre-1988-prmx8800115l)
 - [Loi n° 88-1240 du 30 décembre 1988 (MAEX8800029L)](loi-n-88-1240-du-30-decembre-1988-maex8800029l)
 - [Loi n° 88-1241 du 30 décembre 1988 (MAEX8800056L)](loi-n-88-1241-du-30-decembre-1988-maex8800056l)
 - [Loi n° 88-1242 du 30 décembre 1988 (MAEX8800057L)](loi-n-88-1242-du-30-decembre-1988-maex8800057l)
@@ -49,6 +50,7 @@
 - [Loi n° 89-469 du 10 juillet 1989 (EQUX8900038L)](loi-n-89-469-du-10-juillet-1989-equx8900038l)
 - [Loi n° 89-473 du 10 juillet 1989 (JUSX8900063L)](loi-n-89-473-du-10-juillet-1989-jusx8900063l)
 - [Loi n° 89-474 du 10 juillet 1989 (SPSX8900059L)](loi-n-89-474-du-10-juillet-1989-spsx8900059l)
+- [Loi n° 89-488 du 10 juillet 1989 (TEFX8900058L)](loi-n-89-488-du-10-juillet-1989-tefx8900058l)
 - [Loi n°73-6 du 3 janvier 1973](loi-n73-6-du-3-janvier-1973)
 - [Loi n°86-14 du 6 janvier 1986](loi-n86-14-du-6-janvier-1986)
 - [Loi n°89-377 du 13 juin 1989 (JUSX8800150L)](loi-n89-377-du-13-juin-1989-jusx8800150l)
@@ -56,3 +58,5 @@
 - [Loi n°89-468 du 10 juillet 1989 (MCCX8800035L)](loi-n89-468-du-10-juillet-1989-mccx8800035l)
 - [Loi n°89-470 du 10 juillet 1989 (PMPX8900032L)](loi-n89-470-du-10-juillet-1989-pmpx8900032l)
 - [Loi n°89-475 du 10 juillet 1989 (MPAX8900022L)](loi-n89-475-du-10-juillet-1989-mpax8900022l)
+- [Loi n°89-486 du 10 juillet 1989 (MENX8900049L)](loi-n89-486-du-10-juillet-1989-menx8900049l)
+- [Loi n°89-487 du 10 juillet 1989 (FAMX8900034L)](loi-n89-487-du-10-juillet-1989-famx8900034l)
