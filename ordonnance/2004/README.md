@@ -22,6 +22,8 @@
 - [Ordonnance n° 2004-570 du 17 juin 2004 (AGRX0400098R)](ordonnance-n-2004-570-du-17-juin-2004-agrx0400098r)
 - [Ordonnance n° 2004-164 du 20 février 2004 (JUSX0300196R)](ordonnance-n-2004-164-du-20-fevrier-2004-jusx0300196r)
 - [Ordonnance n° 2004-178 du 20 février 2004 (MCCX0300157R)](ordonnance-n-2004-178-du-20-fevrier-2004-mccx0300157r)
+- [Ordonnance n° 2004-728 du 22 juillet 2004 (DOMX0400095R)](ordonnance-n-2004-728-du-22-juillet-2004-domx0400095r)
+- [Ordonnance n° 2004-729 du 22 juillet 2004 (DOMX0400043R)](ordonnance-n-2004-729-du-22-juillet-2004-domx0400043r)
 - [Ordonnance n° 2004-602 du 24 juin 2004 (SOCX0400037R)](ordonnance-n-2004-602-du-24-juin-2004-socx0400037r)
 - [Ordonnance n° 2004-603 du 24 juin 2004 (SOCX0400086R)](ordonnance-n-2004-603-du-24-juin-2004-socx0400086r)
 - [Ordonnance n° 2004-604 du 24 juin 2004 (JUSX0400082R)](ordonnance-n-2004-604-du-24-juin-2004-jusx0400082r)
