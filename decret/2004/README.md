@@ -14,6 +14,7 @@
 - [Décret n°2003-852 du 3 septembre 2003 (MCCB0300517D)](decret-n2003-852-du-3-septembre-2003-mccb0300517d)
 - [Décret n°2004-491 du 3 juin 2004 (INTC0400122D)](decret-n2004-491-du-3-juin-2004-intc0400122d)
 - [Décret n°2004-1056 du 5 octobre 2004 (ECOB0460009D)](decret-n2004-1056-du-5-octobre-2004-ecob0460009d)
+- [Décret n°2004-11 du 5 janvier 2004 (DOMB0300028D)](decret-n2004-11-du-5-janvier-2004-domb0300028d)
 - [Décret n°2004-119 du 5 février 2004 (AGRA0302334D)](decret-n2004-119-du-5-fevrier-2004-agra0302334d)
 - [Décret n°2004-676 du 5 juillet 2004 (JUSB0410286D)](decret-n2004-676-du-5-juillet-2004-jusb0410286d)
 - [Décret n°2005-155 du 5 février 2005 (AGRF0402131D)](decret-n2005-155-du-5-fevrier-2005-agrf0402131d)
