@@ -787,7 +787,6 @@
 - [Arrêté du 24 février 1998 (ECOS9850009A)](arrete-du-24-fevrier-1998-ecos9850009a)
 - [Arrêté du 24 février 1998 (ECOS9850010A)](arrete-du-24-fevrier-1998-ecos9850010a)
 - [Arrêté du 24 février 1998 (ECOS9850011A)](arrete-du-24-fevrier-1998-ecos9850011a)
-- [Arrêté du 24 juillet 1998 (AGRA9801000A)](arrete-du-24-juillet-1998-agra9801000a)
 - [Arrêté du 24 juillet 1998 (ECOR9805009A)](arrete-du-24-juillet-1998-ecor9805009a)
 - [Arrêté du 24 juillet 1998 (ECOT9851705A)](arrete-du-24-juillet-1998-ecot9851705a)
 - [Arrêté du 24 juillet 1998 (EQUH9800868A)](arrete-du-24-juillet-1998-equh9800868a)

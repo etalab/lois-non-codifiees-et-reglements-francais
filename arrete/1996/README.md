@@ -101,7 +101,6 @@
 - [Arrêté du 4 janvier 1996 (TASF9610010A)](arrete-du-4-janvier-1996-tasf9610010a)
 - [Arrêté du 4 juillet 1996 (AGRS9601378A)](arrete-du-4-juillet-1996-agrs9601378a)
 - [Arrêté du 4 juillet 1996 (AGRS9601379A)](arrete-du-4-juillet-1996-agrs9601379a)
-- [Arrêté du 4 juillet 1996 (EQUS9600776A)](arrete-du-4-juillet-1996-equs9600776a)
 - [Arrêté du 4 juillet 1996 (EQUS9600811A)](arrete-du-4-juillet-1996-equs9600811a)
 - [Arrêté du 4 juillet 1996 (FCEC9600131A)](arrete-du-4-juillet-1996-fcec9600131a)
 - [Arrêté du 4 juin 1996 (ECOR9605010A)](arrete-du-4-juin-1996-ecor9605010a)

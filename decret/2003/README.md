@@ -403,7 +403,6 @@
 - [Décret n°2003-779 du 21 août 2003 (INTA0300172D)](decret-n2003-779-du-21-aout-2003-inta0300172d)
 - [Décret n°2003-781 du 21 août 2003 (ECOS0350032D)](decret-n2003-781-du-21-aout-2003-ecos0350032d)
 - [Décret n°2003-787 du 21 août 2003 (BUDF0300022D)](decret-n2003-787-du-21-aout-2003-budf0300022d)
-- [Décret n°2003-793 du 21 août 2003 (AGRB0301463D)](decret-n2003-793-du-21-aout-2003-agrb0301463d)
 - [Décret n°2003-797 du 21 août 2003 (DEFP0301497D)](decret-n2003-797-du-21-aout-2003-defp0301497d)
 - [Décret n°2003-807 du 21 août 2003 (MAEA0320275D)](decret-n2003-807-du-21-aout-2003-maea0320275d)
 - [Décret n°2004-78 du 21 janvier 2004 (SANS0424638D)](decret-n2004-78-du-21-janvier-2004-sans0424638d)

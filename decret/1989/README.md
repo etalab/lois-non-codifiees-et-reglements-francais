@@ -344,7 +344,6 @@
 - [Décret n°89-788 du 24 octobre 1989 (INDH8900605D)](decret-n89-788-du-24-octobre-1989-indh8900605d)
 - [Décret n°90-694 du 24 juillet 1990 (MENK9070069D)](decret-n90-694-du-24-juillet-1990-menk9070069d)
 - [Décret n°90-695 du 24 juillet 1990 (MENK9070070D)](decret-n90-695-du-24-juillet-1990-menk9070070d)
-- [Décret n°90-89 du 24 janvier 1990 (AGRA8902380D)](decret-n90-89-du-24-janvier-1990-agra8902380d)
 - [Décret n°90-90 du 24 janvier 1990 (AGRA8902379D)](decret-n90-90-du-24-janvier-1990-agra8902379d)
 - [Décret n°90-91 du 24 janvier 1990 (AGRA8902381D)](decret-n90-91-du-24-janvier-1990-agra8902381d)
 - [Décret n°89-265 du 25 avril 1989 (PRME8961244D)](decret-n89-265-du-25-avril-1989-prme8961244d)
