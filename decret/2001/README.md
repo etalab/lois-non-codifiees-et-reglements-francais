@@ -247,6 +247,7 @@
 - [Décret n°2001-63 du 18 janvier 2001 (ATEP0080077D)](decret-n2001-63-du-18-janvier-2001-atep0080077d)
 - [Décret n°2001-873 du 18 septembre 2001 (ATEG0190059D)](decret-n2001-873-du-18-septembre-2001-ateg0190059d)
 - [Décret n°2001-427 du 18 mai 2001 (JUSE0140009D)](decret-n2001-427-du-18-mai-2001-juse0140009d)
+- [Décret n°2001-431 du 18 mai 2001 (JUSB0110161D)](decret-n2001-431-du-18-mai-2001-jusb0110161d)
 - [Décret du 19 avril 2001 (AGRP0100602D)](decret-du-19-avril-2001-agrp0100602d)
 - [Décret du 19 janvier 2001 (AGRP0001779D)](decret-du-19-janvier-2001-agrp0001779d)
 - [Décret du 19 janvier 2001 (AGRP0001832D)](decret-du-19-janvier-2001-agrp0001832d)
