@@ -2,11 +2,7 @@
 
 I. - 1. Les sommes versées sur un plan d'épargne en actions reçoivent un ou plusieurs des emplois suivants :
 
-a) Actions ou certificats d'investissement de sociétés et certificats coopératifs d'investissement, lorsqu'ils sont inscrits à la cote officielle ou à celle du second marché ou lorsque, traités au marché hors cote d'une bourse de valeurs française, ils répondent aux conditions du décret mentionné au 1° de l'article 163 octies du code général des impôts ;
-
-b) Actions ou certificats d'investissement de sociétés et titres de capital de sociétés régies par la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération ne répondant pas aux conditions prévues au a, parts de sociétés à responsabilité limitée, lorsqu'ils sont souscrits à l'occasion d'une opération de constitution ou d'augmentation effective du capital en numéraire, à l'exclusion des titres souscrits à l'occasion d'un prêt ;
-
-c) Droits ou bons de souscription ou d'attribution attachés aux actions mentionnées aux a et b ci-dessus ;
+a) Actions ou certificats d'investissement de sociétés et certificats coopératifs d'investissement ;    b) Parts de sociétés à responsabilité limitée et titres de capital de sociétés régies par la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération ;    c) Droits ou bons de souscription ou d'attribution attachés aux actions mentionnées aux a et b ci-dessus ;
 
 d) Actions de sociétés d'investissement à capital variable qui emploient plus de 60 p. 100 de leurs actifs en titres et droits mentionnés aux a, b et c ci-dessus ;
 
