@@ -1,5 +1,6 @@
 # Décret n°78-1292 du 29 décembre 1978 relatif au barème du prélèvement supplémentaire progressif sur les gains réalisés au pari mutuel.
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
