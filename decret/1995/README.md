@@ -159,7 +159,6 @@
 - [Décret n°95-574 du 5 mai 1995 (INTB9500076D)](decret-n95-574-du-5-mai-1995-intb9500076d)
 - [Décret n°95-582 du 5 mai 1995 (JUSB9510144D)](decret-n95-582-du-5-mai-1995-jusb9510144d)
 - [Décret n°95-585 du 5 mai 1995 (DEFP9501427D)](decret-n95-585-du-5-mai-1995-defp9501427d)
-- [Décret n°95-593 du 5 mai 1995 (ECOT9551419D)](decret-n95-593-du-5-mai-1995-ecot9551419d)
 - [Décret n°95-600 du 5 mai 1995 (EQUS9400353D)](decret-n95-600-du-5-mai-1995-equs9400353d)
 - [Décret n°95-601 du 5 mai 1995 (EQUT9500261D)](decret-n95-601-du-5-mai-1995-equt9500261d)
 - [Décret n°95-602 du 5 mai 1995 (EQUT9500262D)](decret-n95-602-du-5-mai-1995-equt9500262d)

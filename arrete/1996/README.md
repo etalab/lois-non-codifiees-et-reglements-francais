@@ -73,7 +73,6 @@
 - [Arrêté du 3 juillet 1996 (INTA9600316A)](arrete-du-3-juillet-1996-inta9600316a)
 - [Arrêté du 3 juin 1996 (DEFB9601517A)](arrete-du-3-juin-1996-defb9601517a)
 - [Arrêté du 3 juin 1996 (DOMP9500079A)](arrete-du-3-juin-1996-domp9500079a)
-- [Arrêté du 3 juin 1996 (EQUK9600755A)](arrete-du-3-juin-1996-equk9600755a)
 - [Arrêté du 3 juin 1996 (JUSA9600152A)](arrete-du-3-juin-1996-jusa9600152a)
 - [Arrêté du 3 juin 1996 (JUSA9600168A)](arrete-du-3-juin-1996-jusa9600168a)
 - [Arrêté du 3 novembre 1995 (SANS9503257A)](arrete-du-3-novembre-1995-sans9503257a)

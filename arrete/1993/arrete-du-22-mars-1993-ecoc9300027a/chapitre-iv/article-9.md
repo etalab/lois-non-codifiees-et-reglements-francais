@@ -1,5 +1,0 @@
-# Article 9
-
-Depuis les opérations d'épluchage, de coupage ou de toute autre opération touchant à l'intégrité des produits et jusqu'à la dernière opération de préparation, les produits doivent être maintenus dans des conditions propres à limiter le développement des micro-organismes pathogènes ou la formation de toxines.
-
-Depuis la fin de la préparation, ou à partir de leur conditionnement pour ceux qui sont conditionnés, les produits mentionnés à l'article 1er doivent être entreposés rapidement à une température de + 4 °C maximum. Ces produits, jusqu'à leur remise au consommateur final, doivent être maintenus en tous points du circuit à une température de conservation comprise entre + 1 °C et + 4 °C.    Toutefois, lorsque ces produits sont exposés pour leur consommation immédiate, il est admis de les soustraire à la température mentionnée à l'alinéa précédent dans la mesure où leur température n'excède pas 10 °C et pour une période de courte durée. Dans ce cas, l'approvisionnement est effectué en quantités aussi réduites que possible au fur et à mesure des besoins du service et les produits ne peuvent être réentreposés au froid.

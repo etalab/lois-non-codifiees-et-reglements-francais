@@ -587,4 +587,3 @@
 - [Arrêté du 31 mars 1988 (ECOT8813087A)](arrete-du-31-mars-1988-ecot8813087a)
 - [Arrêté du 31 mars 1988 (EQUP8800256A)](arrete-du-31-mars-1988-equp8800256a)
 - [Arrêté du 31 mars 1988 (INDG8800246A)](arrete-du-31-mars-1988-indg8800246a)
-- [Arrêté du 31 octobre 1988 (SPSP8801757A)](arrete-du-31-octobre-1988-spsp8801757a)
