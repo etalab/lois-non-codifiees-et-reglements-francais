@@ -563,7 +563,6 @@
 - [Arrêté du 27 avril 1988 (ASEP8800684A)](arrete-du-27-avril-1988-asep8800684a)
 - [Arrêté du 27 avril 1988 (ASEX8810290A)](arrete-du-27-avril-1988-asex8810290a)
 - [Arrêté du 27 avril 1988 (MDSC8800172A)](arrete-du-27-avril-1988-mdsc8800172a)
-- [Arrêté du 27 avril 1988 (PTTT88008A)](arrete-du-27-avril-1988-pttt88008a)
 - [Arrêté du 27 avril 1988 (RESF8800686A)](arrete-du-27-avril-1988-resf8800686a)
 - [Arrêté du 27 décembre 1987 (ECOT8720053A)](arrete-du-27-decembre-1987-ecot8720053a)
 - [Arrêté du 27 janvier 1988 (ECOT8820042A)](arrete-du-27-janvier-1988-ecot8820042a)
