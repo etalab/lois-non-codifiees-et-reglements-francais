@@ -24,7 +24,6 @@
 - [Arrêté du 1 octobre 1997 (ATEN9760426A)](arrete-du-1-octobre-1997-aten9760426a)
 - [Arrêté du 1 octobre 1997 (MESP9723099A)](arrete-du-1-octobre-1997-mesp9723099a)
 - [Arrêté du 1 septembre 1997 (AGRA9701154A)](arrete-du-1-septembre-1997-agra9701154a)
-- [Arrêté du 1 septembre 1997 (DEFD9701872A)](arrete-du-1-septembre-1997-defd9701872a)
 - [Arrêté du 1 septembre 1997 (MAEC9710066A)](arrete-du-1-septembre-1997-maec9710066a)
 - [Arrêté du 2 avril 1997 (BUDL9700040A)](arrete-du-2-avril-1997-budl9700040a)
 - [Arrêté du 2 avril 1997 (DEFG9701358A)](arrete-du-2-avril-1997-defg9701358a)
