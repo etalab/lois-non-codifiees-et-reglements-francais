@@ -29,3 +29,5 @@ Diplôme d'Etat d'assistant ou d'assistante du service social.
 Diplôme d'Etat de masseur-kinésithérapeute.
 
 Certificat de capacité d'aide-orthoptiste.
+
+Titre d'ancien élève de l'école militaire interarmes de Coëtquidan, admis aux examens de sortie.
