@@ -738,7 +738,6 @@
 - [Décret n°90-277 du 28 mars 1990 (TEFT9003290D)](decret-n90-277-du-28-mars-1990-teft9003290d)
 - [Décret n°90-282 du 28 mars 1990 (TEFG9003294D)](decret-n90-282-du-28-mars-1990-tefg9003294d)
 - [Décret n°90-522 du 28 juin 1990 (LOGC9000052D)](decret-n90-522-du-28-juin-1990-logc9000052d)
-- [Décret n°90-524 du 28 juin 1990 (AGRB9000955D)](decret-n90-524-du-28-juin-1990-agrb9000955d)
 - [Décret n°90-525 du 28 juin 1990 (AGRB9000954D)](decret-n90-525-du-28-juin-1990-agrb9000954d)
 - [Décret n°90-526 du 28 juin 1990 (SPSS9000711D)](decret-n90-526-du-28-juin-1990-spss9000711d)
 - [Décret n°90-529 du 28 juin 1990 (MENK9070009D)](decret-n90-529-du-28-juin-1990-menk9070009d)

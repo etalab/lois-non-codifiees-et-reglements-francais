@@ -494,7 +494,6 @@
 - [Arrêté du 17 février 1992 (INTF9200101A)](arrete-du-17-fevrier-1992-intf9200101a)
 - [Arrêté du 17 janvier 1992 (AGRB9102046A)](arrete-du-17-janvier-1992-agrb9102046a)
 - [Arrêté du 17 janvier 1992 (AGRB9102047A)](arrete-du-17-janvier-1992-agrb9102047a)
-- [Arrêté du 17 janvier 1992 (AGRB9102227A)](arrete-du-17-janvier-1992-agrb9102227a)
 - [Arrêté du 17 janvier 1992 (AGRB9102228A)](arrete-du-17-janvier-1992-agrb9102228a)
 - [Arrêté du 17 janvier 1992 (AGRH9200030A)](arrete-du-17-janvier-1992-agrh9200030a)
 - [Arrêté du 17 janvier 1992 (INTX9210008A)](arrete-du-17-janvier-1992-intx9210008a)
@@ -986,4 +985,4 @@
 - [Arrêté du 31 mars 1992 (PTTR9200184A)](arrete-du-31-mars-1992-pttr9200184a)
 - [Arrêté du 31 mars 1992 (RESY9200039A)](arrete-du-31-mars-1992-resy9200039a)
 - [Arrêté du 31 mars 1992 (SANH9200864A)](arrete-du-31-mars-1992-sanh9200864a)
-- [Arrêté du 31 mars 1992 (SPSS9200875A)](arrete-du-31-mars-1992-spss9200875a)
+- [Arrêté du 31 mars 1992 (SPSs9200875A)](arrete-du-31-mars-1992-spss9200875a)
