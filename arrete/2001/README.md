@@ -220,7 +220,6 @@
 - [Arrêté du 11 juin 2001 (EQUS0100891A)](arrete-du-11-juin-2001-equs0100891a)
 - [Arrêté du 11 juin 2001 (MENA0101056A)](arrete-du-11-juin-2001-mena0101056a)
 - [Arrêté du 11 octobre 2001 (MENF0102033A)](arrete-du-11-octobre-2001-menf0102033a)
-- [Arrêté du 11 mai 2001 (AGRS0100904A)](arrete-du-11-mai-2001-agrs0100904a)
 - [Arrêté du 11 mai 2001 (AGRS0100905A)](arrete-du-11-mai-2001-agrs0100905a)
 - [Arrêté du 12 avril 2001 (INTD0100209A)](arrete-du-12-avril-2001-intd0100209a)
 - [Arrêté du 12 décembre 2000 (ATEN0090478A)](arrete-du-12-decembre-2000-aten0090478a)
