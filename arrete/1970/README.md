@@ -48,6 +48,5 @@
 - [Arrêté du 26 juin 1970](arrete-du-26-juin-1970)
 - [Arrêté du 26 mai 1970](arrete-du-26-mai-1970)
 - [Arrêté du 27 avril 1971](arrete-du-27-avril-1971)
-- [Arrêté du 27 novembre 1970](arrete-du-27-novembre-1970)
 - [Arrêté du 29 juillet 1970](arrete-du-29-juillet-1970)
 - [Arrêté du 29 juin 1970](arrete-du-29-juin-1970)
