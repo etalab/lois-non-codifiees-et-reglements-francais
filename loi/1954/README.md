@@ -6,3 +6,4 @@
 - [Loi n° 54-751 du 19 août 1954](loi-n-54-751-du-19-aout-1954)
 - [Loi n° 54-781 du 2 août 1954](loi-n-54-781-du-2-aout-1954)
 - [Loi n° 54-782 du 2 août 1954](loi-n-54-782-du-2-aout-1954)
+- [Loi n° 54-916 du 16 septembre 1954](loi-n-54-916-du-16-septembre-1954)
