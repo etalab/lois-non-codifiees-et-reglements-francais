@@ -2,7 +2,7 @@
 
 La direction de la nature et des paysages élabore et suit l'application des règles relatives :
 
-I. A la conservation et à la réhabilitation du patrimoine naturel, des paysages et de la diversité biologique en assurant la gestion et la préservation des milieux naturels, de la faune et de la flore sauvages, des écosystèmes et des paysages ; elle traite des questions relatives aux parcs nationaux, aux parcs naturels régionaux, aux réserves naturelles et aux conservatoires botaniques nationaux ;
+I. - A la conservation et à la réhabilitation du patrimoine naturel, des paysages et de la diversité biologique en assurant la gestion et la préservation des sites, des milieux naturels, de la faune et de la flore sauvages et des écosystèmes. Elle traite des questions relatives aux parcs nationaux, aux parcs naturels régionaux, aux réserves naturelles et aux conservatoires botaniques nationaux ; elle conçoit et met en oeuvre les règles applicables à la publicité et aux enseignes et aux préenseignes.
 
 II. Aux orientations de la collecte et de l'exploitation des données correspondantes pour lesquelles elle assure la coordination interministérielle nécessaire ;
 
@@ -10,9 +10,9 @@ III. A la prise en compte de l'environnement et du paysage dans les décisions p
 
 IV. A l'exercice de la chasse et au contrôle de l'utilisation et du commerce national ou international des espèces animales et végétales sauvages.
 
-Elle assure le secrétariat du comité interministériel des parcs nationaux, de la Commission nationale des parcs régionaux, du Conseil national de la protection de la nature et du Conseil national de la chasse et de la faune sauvage.
+Elle assure le secrétariat du comité interministériel des parcs nationaux, du Conseil national de la protection de la nature, de la Commission supérieure des sites, perspectives et paysages, de la Commission nationale du débat public et du Conseil national de la chasse et de la faune sauvage.
 
-Elle contribue, dans ses domaines de compétence, à l'application de la législation relative à la protection du littoral et de la montagne.
+Elle contribue, dans ses domaines de compétence, à l'application de la législation relative à la protection du littoral et de la montagne et aux actions tendant à l'insertion des réseaux électriques et de télécommunications dans l'environnement.
 
 Elle assure la tutelle de l'Office national de la chasse, du conservatoire de l'espace littoral et des rivages lacustres, des parcs nationaux et de l'Office national des forêts.
 

@@ -1,0 +1,7 @@
+# Article 2
+
+Les sociétés et l'établissement public relevant du titre III de la loi du 30 septembre 1986 susvisée font connaître à la Société française de production et de création audiovisuelles ainsi qu'au secrétariat permanent de la Commission nationale de la mobilité les emplois disponibles susceptibles de permettre le reclassement à titre prioritaire d'agents de ladite société et de ses filiales, jusqu'à l'expiration de la période de quinze mois courant à compter de la cession par l'Etat au secteur privé de la majorité du capital de la société.
+
+La Société française de production et de création audiovisuelles porte immédiatement à la connaissance de ses agents et des agents de ses filiales les emplois disponibles qui lui ont été notifiés et qui correspondent à leurs qualifications. Lesdits agents doivent se porter candidat à un emploi auprès de l'entreprise concernée dans un délai de trois semaines à compter de la date où la Société française de production et de création audiovisuelles les a avertis. L'entreprise examine en priorité ces candidatures et informe de sa décision les intéressés dans les trente jours courant à compter de la fin du délai accordé pour se porter candidat. Elle peut prolonger en tant que de besoin le délai dont elle dispose pour prendre sa décision dans la limite de trente jours supplémentaires.
+
+Les emplois non pourvus à l'issue des délais prévus à l'alinéa précédent peuvent faire l'objet de la procédure de mobilité instituée par le décret du 21 juin 1983 susvisé.
