@@ -8,7 +8,7 @@
 
 4° Autorisations relatives aux ouvrages utilisant l'énergie hydraulique dont la puissance maximale brute totale est inférieure ou égale à 500 kW, à l'exception des demandes de changement de titulaire, des changements de destination de l'énergie ou des avenants ne modifiant pas la consistance ou le mode de fonctionnement des ouvrages ;
 
-5° Travaux de recherches de mines soumis à déclaration ; travaux de recherches de carrières soumis à autorisation ; travaux d'exploitation de carrières et déchets de carrières, de haldes et terrils de mines soumis à autorisation sans enquête publique en vertu de l'article 106 du code minier.
+5° Travaux de recherches de mines soumis à déclaration ; travaux de recherches de carrières soumis à autorisation ; travaux d'exploitation de carrières et déchets de carrières, de haldes et terrils de mines soumis à autorisation sans enquête publique en vertu de l'article 106 du code minier ; travaux réalisés dans le cadre de l'autorisation d'exploitation mentionnée à l'article 21 du code minier ;
 
 6° Travaux de défrichement soumis aux dispositions du code forestier, à l'exclusion de ceux qui ont pour objet des opérations d'urbanisation ou d'implantation industrielle ainsi que des cas prévus à l'article L. 130-1, alinéa 4, du code de l'urbanisme ;
 
