@@ -1,3 +1,0 @@
-# Article 2
-
-Il est institué auprès du ministre chargé des sports une commission nationale de l'emploi et des formations en activités physiques et sportives comprenant des représentants de l'administration, des employeurs et des personnels techniques. Cette commission suit l'évolution du marché de l'emploi dans le secteur des activités physiques et sportives. Elle fait toute proposition pour adapter les qualifications à cette évolution. Elle est saisie pour avis de toute création d'un nouveau diplôme en application du présent décret et peut être consultée sur toute modification des compétences attestées par ces diplômes ou de leurs modalités de délivrance.

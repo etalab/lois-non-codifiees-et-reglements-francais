@@ -8,4 +8,6 @@ Le directeur régional de la jeunesse et des sports par délégation du ministre
 
 3° Agrée et contrôle les stages pédagogiques organisés pour les candidats mentionnés au 2° et 3° de l'article 6 ci-dessus ;
 
-4° Autorise les sportifs de niveau régional à suivre la formation spéciale mentionnée au 4° de l'article 6 dans les conditions prévues au même article.
+4° Agrée et contrôle les formations en unités de compétences capitalisables assurées par des organismes de formation autres que ceux cités au 5° ci-après ;
+
+5° Etablit avec les établissements publics nationaux d'enseignement ou de formation des conventions relatives à l'organisation et à la mise en oeuvre de formations en unités de compétences capitalisables.
