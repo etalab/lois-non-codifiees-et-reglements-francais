@@ -1,0 +1,3 @@
+# Article 33
+
+Lorsque le candidat nommé à un office créé est déclaré démissionnaire, en application de l'article 45 de l'ordonnance n° 45-1418 du 28 juin 1945 relative à la discipline des notaires et de certains officiers ministériels, l'office peut être proposé par le garde des sceaux, ministre de la justice, à un autre candidat faisant l'objet d'une proposition de la commission prévue à l'article 27 ; à défaut d'acceptation de l'intéressé, ou s'il ne retient aucun des candidats, le garde des sceaux, ministre de la justice, peut ouvrir une nouvelle procédure dans les conditions prévues aux articles 29 et 31.
