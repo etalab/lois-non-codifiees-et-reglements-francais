@@ -1,6 +1,7 @@
 # 1958
 
 - [Ordonnance n° 58-917 du 7 octobre 1958](ordonnance-n-58-917-du-7-octobre-1958)
+- [Ordonnance n° 58-930 du 9 octobre 1958](ordonnance-n-58-930-du-9-octobre-1958)
 - [Ordonnance n° 58-896 du 23 septembre 1958](ordonnance-n-58-896-du-23-septembre-1958)
 - [Ordonnance n° 58-592 du 24 septembre 1958](ordonnance-n-58-592-du-24-septembre-1958)
 - [Ordonnance n° 58-881 du 24 septembre 1958](ordonnance-n-58-881-du-24-septembre-1958)
