@@ -84,51 +84,55 @@ Cours d'eau, canaux et plans d'eau de 1re catégorie
 
 Tous les corps d'eau, canaux et plans d'eau non classés en 2e catégorie.
 
-61 Département de l'Orne
+Département de l'Orne (61)
 
 Cours d'eau, canaux et plans d'eau de 2e catégorie
 
-1° L'Orne, dans sa partie comprise entre le lieudit Vandel (commune de Macé) et le pont de la Villette sur le chemin vicinal de Ménil-Jean à Giel, et à l'aval du barrage du bassin de compensation E.D.F. de Saint-Philbert.
+1° L'Orne dans sa partie comprise entre le lieudit Vandel (commune de Macé) et le pont de la Villette sur le chemin vicinal de Ménil-Jean à Giel et à l'aval du barrage du bassin de compensation E.D.F. de Saint-Philbert.
 
-2° Le Don, en amont de sa confluence avec l'Orne.
+La retenue de Rabodanges : queue de la retenue aval du barrage dit de " la Scierie " (commune de Putanges-Pont-Ecrepin) et barrage E.D.F. de Rabodanges (communes de Rabodanges et de Saint-Aubert-sur-Orne).
 
-3° L'Ure, à l'aval du pont du Haras des Tuileries (communes de Silly-en-Gouffern et de Sai).
+Le bassin de compensation de Saint-Philbert : queue de la retenue à hauteur du lieudit Blot, ancien seuil (communes de Saint-Philbert-sur-Orne [61] et Les Isles-Bardel [14]), barrage E.D.F. de Saint-Philbert (communes de Saint-Philbert-sur-Orne [61] et Les Isles-Bardel [14]).
 
-4° La Baize, à l'aval du pont de Mauvaisville (communes d'Argentan et de Sarceaux).
+2° Le Don en amont de sa confluence avec l'Orne.
+
+3° L'Ure à l'aval du pont du haras des Tuileries (communes de Silly-en-Gouffern et de Sai).
+
+4° La Baize à l'aval du pont de Mauvaisville (communes d'Argentan et de Sarceaux).
 
 5° Le marais du Grand Haze (communes de Briouze et de Bellou-en-Houlme) et les ruisseaux de ceinture :
 
-- le Val de Breuil : dans sa partie comprise entre le lieudit Auruche et le pont du chemin départemental n° 21 (commune de Briouze et de Bellou-en-Houlme),
+- le Val de Breuil : dans sa partie comprise entre le lieudit Auruche, pont du chemin départemental n° 21 (communes de Briouze et de Bellou-en-Houlme) ;
 
-- la source Philippe : dans sa partie comprise entre le lieudit Beausens, pont du chemin départemental n° 21 (communes de Briouze et du Ménil-de-Briouze) au lieudit les Clos Moreaux, pont du chemin départemental n° 21 (commune de Briouze).
+- la source Philippe : dans sa partie comprise entre le lieudit Beausens, pont du chemin départemental n° 21 (communes de Briouze et du Ménil-de-Briouze) au lieudit Les Clos Moreaux, point du chemin départemental n° 21 (commune de Briouze).
 
-6° Le lac de retenue de Landisacq sur le Visance, affluent de la Vère.
+6° Le lac de retenue de Landisacq sur le Visance (affluent de la Vère).
 
 7° La Sarthe, en aval du confluent avec l'Hoëne et ses affluents :
 
-- l'Erine ;
+L'Erine ;
 
-- la Pervenche et son affluent le ruisseau du Bolnoë ;
+La Pervenche et son affluent le ruisseau de Bolnoë ;
 
-- la Tanche et ses affluents ;
+La Tanche et ses affluents ;
 
-- la Vesone, en aval du moulin de Neuilly-le-Bisson ;
+La Vesone, en aval du moulin de Neuilly-le-Bisson ;
 
-- les ruisseaux du Sourtoir et de Noël.
+Les ruisseaux du " Sourtoir " et de " Noël ".
 
-8° L'Huisne, en aval du pont de chemin du fer de la ligne Paris-Brest, près de Condé-sur-Huisne.
+8° L'Huisne, en aval du pont de chemin de fer de la ligne Paris-Brest, près de Condé-sur-Huisne.
 
-9° La Même, en aval du pont de Buat sur le chemin départemental n° 21 (commune de Saint-Germain-de-la-Coudre).
+9° La Même, en aval du pont de Buat, sur le chemin départemental n° 21 (commune de Saint-Germain-de-la-Coudre).
 
-10° La Mayenne, à l'aval du pont de Couterne sur le chemin départemental n° 34.
+10° La Mayenne, à l'aval du pont de Couterne, sur le chemin départemental n° 34.
 
 11° Les ruisseaux de Quince et de Ménil-Roulle, en amont de leur confluence avec la Mayenne.
 
-12° La Maure et son affluent le ruisseau de Fimbrune, du plan d'eau communal de la Ferté-Macé (inclus) à l'étang de la vallée de la Cour.
+12° La Maure et son affluent le ruisseau de Fimbrune, du plan d'eau communal de La Ferté-Macé (inclus) à l'étang de la Vallée de la Cour.
 
 13° La Varenne, entre le confluent de l'Egrenne et le moulin de la Brouttière (commune de Couesmes-en-Froulay).
 
-14° L'Egrenne, en aval du chemin départemental 907 (commune de la Haute-Chapelle) à sa confluence avec la Varenne.
+14° L'Egrenne, en aval du pont du chemin départemental n° 907 (commune de La Haute-Chapelle) à sa confluence avec la Varenne.
 
 15° La Pisse et ses affluents.
 

@@ -340,25 +340,21 @@ Cours d'eau, canaux et plans d'eau de 2e catégorie
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
 
-Département de Meurthe-et-Moselle
+Département de Meurthe-et-Moselle (54)
 
 Cours d'eau, canaux et plans d'eau de 1re catégorie
 
-(Salmonidés dominants)
+1° Les affluents de la Moselle : la Sainte-Anne, le ruisseau d'Esch, le ruisseau de Trey.
 
-1° Les affluents de la Moselle : la Sainte-Anne, le ruisseau d'Esch, le ruisseau de Trey ;
+2° Les sous-affluents de la Moselle : la Rochotte (affluent de la Bouvade), le Grand-Fontaine et le Soiron (affluents du Rupt-de-Mad), le Conroy, le Woigot en amont du moulin de Dolhain (affluents de l'Orne).
 
-2° Les sous-affluents de la Moselle : la Rochotte (affluent de la Bouvade) ; le Grand-Fontaine et le Soiron (affluents du Rypt-de-Mad) ; le Conroy ; le Woigot, en amont du moulin de Dolhain ;
+3° Les affluents de la Meurthe : La Plaine à l'exception du lac de Pierre-Percée ou Vieux-Pré ; les ruisseaux de Val et de Châtillon, la Vezouze en amont du moulin de Saint-Martin et son affluent la Verdurette, la Brème (sous-affluent de la Vezouze), les Grands-Faings, la Moncelle et les Templiers, le Champigneulles ou Belle-Fontaine.
 
-3° Les affluents de la Meurthe : la Plaine, les ruisseaux du Val et de Châtillon, le Vezouze, en amont du moulin de Saint-Martin et son affluent la Verdurette, le Champigneulles ;
+4° L'Aroffe (affluent de la Meuse) ; les affluents et sous-affluents de la Chiers : la Moulaine en amont de la passerelle de la Maison-Blanche (commune d'Herserange), la Crusnes, le Dorlon, la Basse-Vire, le Cussigny, le Coulmy à l'exception du plan d'eau du Crassier, le Pariveau.
 
-4° L'Aroffe (affluent de la Meuse) ; les affluents et sous-affluents de la Chiers ; la Moulaine, en amont de la passerelle du lieudit la Maison Blanche (commune d'Herserange) ; la Crusnes ; le Dorlon ; la Basse Vire ; le Cussigny ; le Coulmy à l'exception du plan d'eau du Grassier ; le Pariveau ;
-
-5° Les affluents et sous-affluents des cours d'eau ou portions de cours d'eau désignés ci-dessus.
+5° Les affluents et sous-affluents des cours d'eau ou sections de cours d'eau désignés ci-dessus.
 
 Cours d'eau, canaux et plans d'eau de 2e catégorie
-
-(Cyprinidés dominants)
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
 
@@ -420,9 +416,7 @@ c) Le Scheidgraben, affluent de la Blind ;
 
 5° Le Muhlbach de Diebolsheim, dans sa section comprise entre l'Ichert et le Brunnwasser ;
 
-6° Le Muhlbach de Daubensand et le Brunnwasser jusqu'à leur
-
-débouché dans le contre-canal de drainage à Gerstheim ;
+6° Le Muhlbach de Daubensand et le Brunnwasser jusqu'à leur débouché dans le contre-canal de drainage à Gerstheim ;
 
 7° La Zembs en amont de son passage sous le canal du Rhône au Rhin ;
 
@@ -634,9 +628,7 @@ Cours d'eau, canaux et plans d'eau de 1re catégorie :
 
 10° Le Montimont ;
 
-11° Le Dadou, en amont du barrage des mines de Peyrebrune, à l'exception du lac de retenue de Rassisse, depuis la queue de la retenue de la Mouline jusqu'au barrage proprement dit, le Castelfranc et le Lézert, à l'exception de la retenue du barrage de la Bancalié, les affluents du Dadou se jetant dans le lac de retenue de
-
-Rassisse ;
+11° Le Dadou, en amont du barrage des mines de Peyrebrune, à l'exception du lac de retenue de Rassisse, depuis la queue de la retenue de la Mouline jusqu'au barrage proprement dit, le Castelfranc et le Lézert, à l'exception de la retenue du barrage de la Bancalié, les affluents du Dadou se jetant dans le lac de retenue de Rassisse ;
 
 12° Le Sor en amont du pont de la R.D. 45 (communes de Sorèze, Durfort, Revel et Garrevaques), l'Orival et le Melzic en amont du pont sur la R.D. 85, de Dourgne à Revel, le Tauroix en amont du pont de la métairie d'En-Lanet (commune de Dourgne), le Sant en amont du pont de Verdalle (R.D. 85), la Bernazobre en amont du pont du Trégas (R.D. 60) ;
 
