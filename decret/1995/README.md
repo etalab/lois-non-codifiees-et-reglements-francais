@@ -98,6 +98,7 @@
 - [Décret n°95-365 du 5 avril 1995 (SPSS9500768D)](decret-n95-365-du-5-avril-1995-spss9500768d)
 - [Décret n°95-37 du 5 janvier 1995 (LOGC9400082D)](decret-n95-37-du-5-janvier-1995-logc9400082d)
 - [Décret n°95-382 du 5 avril 1995 (AGRG9500174D)](decret-n95-382-du-5-avril-1995-agrg9500174d)
+- [Décret n°95-832 du 5 juillet 1995 (JUSB9510179D)](decret-n95-832-du-5-juillet-1995-jusb9510179d)
 - [Décret n°95-552 du 5 mai 1995 (PRMX9500033D)](decret-n95-552-du-5-mai-1995-prmx9500033d)
 - [Décret n°95-553 du 5 mai 1995 (PRMX9500771D)](decret-n95-553-du-5-mai-1995-prmx9500771d)
 - [Décret n°95-554 du 5 mai 1995 (SPSH9500911D)](decret-n95-554-du-5-mai-1995-spsh9500911d)
