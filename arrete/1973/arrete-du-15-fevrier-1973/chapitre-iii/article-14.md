@@ -20,41 +20,73 @@ au cas où dans le cadre de cette demi-astreinte opérationnelle les praticiens 
 
 D'une astreinte de sécurité de nuit, de dimanche ou jour férié dans les disciplines qui ne donnent lieu qu'à des appels peu fréquents;
 
-D'appels exceptionnels. Les disciplines dans lesquelles, les appels sont exceptionnels ne donnent pas lieu à une liste de garde.
+D'appels exceptionnels. Les disciplines dans lesquelles, les appels sont exceptionnels ne donnent pas lieu à une liste de garde.    Art. 1er. -     L'article 14 (2°, A) de l'arrêté du 15 février 1973 modifié susvisé est remplacé par les dispositions suivantes :
 
-2° Indemnisation des participations au service de garde :
+2° Indemnisation des participations au service de garde
 
 A. - Ces participations sont indemnisées sur la base de taux forfaitaires communs à tous les praticiens concernés quelle que soit la catégorie à laquelle ils appartiennent.
 
 Ces taux ainsi que les limites des plafonds qui évoluent en fonction de l'évolution des traitements de la fonction publique sont fixés ainsi qu'il suit :
 
-Taux à compter du 1er-12-90 (en francs)
-
 1. Service de garde sur place
 
-Garde : 1 052.
+Garde
 
-Demi-garde : 526.
+Taux (en francs) à compter du 1er août 1991  : 1057
+
+Taux (en francs) à compter du 1er novembre 1991 : 1068
+
+Demi-garde
+
+Taux (en francs) à compter du 1er août 1991  : 529
+
+Taux (en francs) à compter du 1er novembre 1991 : 534
 
 2. Service de garde par astreinte
 
 Astreinte opérationnelle
 
-a) Indemnité forfaitaire de base par demi-astreinte : 131,5.
+a) Indemnité forfaitaire de base par demi-astreinte.
 
-b) Indemnité due pour chaque appel : 131,5. Le montant cumulé des indemnités perçues ne peut excéder par demi-astreinte : 526.
+Taux (en francs) à compter du 1er août 1991  : 132
+
+Taux (en francs) à compter du 1er novembre 1991 : 133,5
+
+b) Indemnité due pour chaque appel
+
+Taux (en francs) à compter du 1er août 1991  : 132
+
+Taux (en francs) à compter du 1er novembre 1991 : 133,5
+
+Le montant cumulé des indemnités perçues ne peut excéder par demi-astreinte.
 
 Astreinte de sécurité
 
-a) Indemnité forfaitaire de base : 131,5.
+a) Indemnité forfaitaire de base.
+
+Taux (en francs) à compter du 1er août 1991  : 132
+
+Taux (en francs) à compter du 1er novembre 1991 : 133,5
 
 Le montant cumulé des indemnités forfaitaires de base ne peut excéder :
 
-- pour quatre semaines : 1 052.
+- pour quatre semaines.
 
-- pour cinq semaines : 1 315.
+Taux (en francs) à compter du 1er août 1991  : 1056
 
-b) Indemnité due pour chaque appel : 131,5.
+Taux (en francs) à compter du 1er novembre 1991 : 1068
+
+- pour cinq semaines.
+
+Taux (en francs) à compter du 1er août 1991  : 1320
+
+Taux (en francs) à compter du 1er novembre 1991 : 1335
+
+b) Indemnité due pour chaque appel.
+
+Taux (en francs) à compter du 1er août 1991  : 132
+
+Taux (en francs) à compter du 1er novembre 1991 : 133,5
 
 Les indemnités versées au titre d'une astreinte de sécurité ne peuvent excéder le taux fixé pour une garde.
 
@@ -62,13 +94,25 @@ Appels exceptionnels
 
 a) Ils ne donnent lieu à aucune indemnité forfaitaire.
 
-b) Indemnité due pour chaque appel : 131,5.
+b) Indemnité due pour chaque appel.
+
+Taux (en francs) à compter du 1er août 1991  : 132
+
+Taux (en francs) à compter du 1er novembre 1991 : 133,5
 
 Pour un même praticien, le montant cumulé des indemnités perçues pour ses participations au service de garde sous forme de permanence à l'hôpital ou de garde par astreinte à domicile ne peut excéder :
 
-- pour quatre semaines : 10 520.
+- pour quatre semaines.
 
-- pour cinq semaines : 13 150.
+Taux (en francs) à compter du 1er août 1991  : 10570
+
+Taux (en francs) à compter du 1er novembre 1991 : 10680
+
+- pour cinq semaines.
+
+Taux (en francs) à compter du 1er août 1991  : 13213
+
+Taux (en francs) à compter du 1er novembre 1991 : 13350
 
 Les indemnités perçues dans le cadre des interventions hors service normal prévues au deuxième alinéa de l'article 3 de l'arrêté du 15 février 1973 modifié ne sont pas comptées dans ce plafond.
 

@@ -88,6 +88,7 @@
 - [Décret n°91-1140 du 4 novembre 1991 (ENVG9161938D)](decret-n91-1140-du-4-novembre-1991-envg9161938d)
 - [Décret n°91-12 du 4 janvier 1991 (PTTA9000998D)](decret-n91-12-du-4-janvier-1991-ptta9000998d)
 - [Décret n°91-1219 du 4 décembre 1991 (DOMP9100040D)](decret-n91-1219-du-4-decembre-1991-domp9100040d)
+- [Décret n°91-1220 du 4 décembre 1991 (PRMG9170440D)](decret-n91-1220-du-4-decembre-1991-prmg9170440d)
 - [Décret n°91-13 du 4 janvier 1991 (PTTA9001004D)](decret-n91-13-du-4-janvier-1991-ptta9001004d)
 - [Décret n°91-137 du 4 février 1991 (PRMZ9105012D)](decret-n91-137-du-4-fevrier-1991-prmz9105012d)
 - [Décret n°91-138 du 4 février 1991 (PRMZ9105011D)](decret-n91-138-du-4-fevrier-1991-prmz9105011d)
