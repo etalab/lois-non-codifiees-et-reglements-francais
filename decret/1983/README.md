@@ -166,6 +166,7 @@
 - [Décret n°83-513 du 22 juin 1983](decret-n83-513-du-22-juin-1983)
 - [Décret n°83-670 du 22 juillet 1983](decret-n83-670-du-22-juillet-1983)
 - [Décret n°83-838 du 22 septembre 1983](decret-n83-838-du-22-septembre-1983)
+- [Décret n°83-840 du 22 septembre 1983](decret-n83-840-du-22-septembre-1983)
 - [Décret n° 82-1120 du 23 décembre 1982](decret-n-82-1120-du-23-decembre-1982)
 - [Décret n°82-1102 du 23 décembre 1982](decret-n82-1102-du-23-decembre-1982)
 - [Décret n°83-132 du 23 février 1983](decret-n83-132-du-23-fevrier-1983)
