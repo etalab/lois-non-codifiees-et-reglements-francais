@@ -1,21 +1,29 @@
 # Article 5
 
-Les jurys des deux concours et de l'examen professionnel sont nommés chaque année par le ministre chargé de la sécurité civile et composés ainsi qu'il suit :
+Les jurys des deux concours et de l'examen professionnel comprennent douze membres répartis en trois collèges égaux, conformément aux dispositions du décret du 31 juillet 2000 susvisé, nommés chaque année par arrêté du ministre chargé de la défense et de la sécurité civiles. Ils sont composés ainsi qu'il suit :
 
-- le directeur de la sécurité civile ou un fonctionnaire de l'Etat appartenant à l'un des corps recrutés par la voie de l'Ecole nationale d'administration ayant une compétence affirmée dans le domaine de la sécurité civile : président ;
+Personnalités qualifiées :
 
-- trois officiers dont deux choisis parmi les membres de l'inspection de la sécurité civile ou parmi les directeurs départementaux des services d'incendie et de secours ;.
+- président : le directeur de la défense et de la sécurité civiles ou, en cas d'empêchement, son représentant ;
 
-- deux élus locaux, membres de la commission administrative paritaire nationale compétente à l'égard des lieutenants de sapeurs-pompiers professionnels ;
+- vice-président : le chef du bureau des statuts et du management à la direction de la défense et de la sécurité civiles ou, en cas d'empêchement, un autre chef de bureau en fonction à la direction de la défense et de la sécurité civiles ;
 
-- un administrateur civil ou un sous-préfet ou un conseiller de tribunal administratif désigné par le directeur de la sécurité civile ;
+- un professeur de l'enseignement supérieur ;
 
-- deux enseignants de l'enseignement supérieur ;
+- un représentant du Centre national de la fonction publique territoriale proposé par le président de ce centre.
 
-- le directeur de l'Institut national d'études de la sécurité civile ou son représentant, choisi parmi les officiers de cet établissement ayant au moins le grade de commandant ;
+Elus locaux :
 
-- un représentant du Centre national de la fonction publique territoriale ;
+- un élu, représentant du Centre national de la fonction publique territoriale, membre de la commission administrative paritaire compétente à l'égard du cadre d'emplois des lieutenants de sapeurs-pompiers professionnels ;
 
-- deux représentants du personnel, membres de la commission administrative paritaire nationale compétente à l'égard des lieutenants de sapeurs-pompiers professionnels désignés par tirage au sort parmi ces représentants.
+- deux élus, membres du conseil d'administration d'un service départemental d'incendie et de secours proposés par le président de l'association des présidents de services d'incendie et de secours ;
 
-En cas de partage égal des voix, la voix du président est prépondérante.
+- un élu non membre du conseil d'administration d'un service départemental d'incendie et de secours.
+
+Fonctionnaires territoriaux :
+
+- deux officiers de sapeurs-pompiers professionnels détenant au moins le grade de commandant, dont un exerçant ou ayant exercé les fonctions de directeur départemental des services d'incendie et de secours ;
+
+- deux représentants du personnel, membres de la commission administrative paritaire compétente à l'égard du cadre d'emplois des lieutenants de sapeurs-pompiers professionnels, désignés par tirage au sort.
+
+En cas de partage égal des voix, la voix du président du jury est prépondérante.
