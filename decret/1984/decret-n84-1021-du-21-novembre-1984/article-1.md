@@ -1,0 +1,3 @@
+# Article 1
+
+La contribution des régions, des départements, des communes et de leurs groupements ou établissements publics administratifs non hospitaliers au fonds de compensation des cessations progressives d'activité créé par l'article 6 de la loi du 3 janvier 1984 précitée est due à compter du 1er janvier 1984. Elle est calculée sur l'assiette des cotisations à la Caisse nationale de retraite des agents des collectivités locales. Elle est recouvrée par cette institution pour le compte du fonds de compensation selon les mêmes modalités que les cotisations perçues au titre de ce régime de retraite et reversée au fonds qui rembourse les frais de gestion engagés pour son compte.
