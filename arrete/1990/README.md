@@ -896,7 +896,6 @@
 - [Arrêté du 30 novembre 1990 (BUDR9004024A)](arrete-du-30-novembre-1990-budr9004024a)
 - [Arrêté du 30 novembre 1990 (BUDR9004025A)](arrete-du-30-novembre-1990-budr9004025a)
 - [Arrêté du 30 novembre 1990 (MAEA9020452A)](arrete-du-30-novembre-1990-maea9020452a)
-- [Arrêté du 30 novembre 1990 (SPSS9002496A)](arrete-du-30-novembre-1990-spss9002496a)
 - [Arrêté du 30 octobre 1985](arrete-du-30-octobre-1985)
 - [Arrêté du 30 octobre 1989 (PRME8961080A)](arrete-du-30-octobre-1989-prme8961080a)
 - [Arrêté du 30 octobre 1989 (PRME8961084A)](arrete-du-30-octobre-1989-prme8961084a)
