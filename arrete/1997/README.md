@@ -772,8 +772,6 @@
 - [Arrêté du 22 mai 1997 (TAST9710730A)](arrete-du-22-mai-1997-tast9710730a)
 - [Arrêté du 23 avril 1997 (DEFA9701481A)](arrete-du-23-avril-1997-defa9701481a)
 - [Arrêté du 23 avril 1997 (DEFA9701482A)](arrete-du-23-avril-1997-defa9701482a)
-- [Arrêté du 23 avril 1997 (ECOU9600018A)](arrete-du-23-avril-1997-ecou9600018a)
-- [Arrêté du 23 avril 1997 (ECOU9600019A)](arrete-du-23-avril-1997-ecou9600019a)
 - [Arrêté du 23 avril 1997 (FPPA9710069A)](arrete-du-23-avril-1997-fppa9710069a)
 - [Arrêté du 23 avril 1997 (TASE9710621A)](arrete-du-23-avril-1997-tase9710621a)
 - [Arrêté du 23 décembre 1996 (AGRA9601747A)](arrete-du-23-decembre-1996-agra9601747a)

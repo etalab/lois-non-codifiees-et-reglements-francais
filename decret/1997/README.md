@@ -578,7 +578,6 @@
 - [Décret n°97-1175 du 23 décembre 1997 (MESH9723109D)](decret-n97-1175-du-23-decembre-1997-mesh9723109d)
 - [Décret n°97-1176 du 23 décembre 1997 (MESG9711493D)](decret-n97-1176-du-23-decembre-1997-mesg9711493d)
 - [Décret n°97-1316 du 23 décembre 1997 (MCCB9700846D)](decret-n97-1316-du-23-decembre-1997-mccb9700846d)
-- [Décret n°97-398 du 23 avril 1997 (ECOU9600003D)](decret-n97-398-du-23-avril-1997-ecou9600003d)
 - [Décret n°97-399 du 23 avril 1997 (ENVE9750015D)](decret-n97-399-du-23-avril-1997-enve9750015d)
 - [Décret n°97-402 du 23 avril 1997 (EQUU9700503D)](decret-n97-402-du-23-avril-1997-equu9700503d)
 - [Décret n°97-429 du 23 avril 1997 (ECOU9700002D)](decret-n97-429-du-23-avril-1997-ecou9700002d)
