@@ -1,0 +1,3 @@
+# Article 12
+
+Une commission permanente dont la composition est fixée par arrêté conjoint du ministre chargé de l'économie, des finances et du budget et du ministre de l'agriculture est chargée de suivre les affaires courantes. Elle peut demander à entendre des personnalités qualifiées ou des professionnels de la production ou du commerce. Le comité national peut, avec l'accord du commissaire du Gouvernement, déléguer par une habilitation expresse certaines de ses attributions à la commission, à l'exclusion de celles concernant la fixation des conditions de production des vins et eaux-de-vie d'appellation et de celles concernant ses attributions financières.

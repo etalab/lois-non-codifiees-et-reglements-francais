@@ -187,6 +187,7 @@
 - [Décret n°87-295 du 29 avril 1987 (ASES8700602D)](decret-n87-295-du-29-avril-1987-ases8700602d)
 - [Décret n°87-296 du 29 avril 1987 (ASES8700603D)](decret-n87-296-du-29-avril-1987-ases8700603d)
 - [Décret n°87-45 du 29 janvier 1987 (INTB8700014D)](decret-n87-45-du-29-janvier-1987-intb8700014d)
+- [Décret n°87-358 du 29 mai 1987 (AGRP8700919D)](decret-n87-358-du-29-mai-1987-agrp8700919d)
 - [Décret n°86-1357 du 30 décembre 1986](decret-n86-1357-du-30-decembre-1986)
 - [Décret n°86-1366 du 30 décembre 1986](decret-n86-1366-du-30-decembre-1986)
 - [Décret n°86-1368 du 30 décembre 1986](decret-n86-1368-du-30-decembre-1986)
