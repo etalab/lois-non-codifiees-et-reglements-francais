@@ -294,7 +294,6 @@
 - [Décret n°87-298 du 23 avril 1987 (AGRS8700799D)](decret-n87-298-du-23-avril-1987-agrs8700799d)
 - [Décret n°87-32 du 23 janvier 1987 (MENL8700013D)](decret-n87-32-du-23-janvier-1987-menl8700013d)
 - [Décret n°87-772 du 23 septembre 1987 (ASEN8700908D)](decret-n87-772-du-23-septembre-1987-asen8700908d)
-- [Décret n°87-773 du 23 septembre 1987 (ASEM8701271D)](decret-n87-773-du-23-septembre-1987-asem8701271d)
 - [Décret n°87-787 du 23 septembre 1987 (MENG8700459D)](decret-n87-787-du-23-septembre-1987-meng8700459d)
 - [Décret n°87-869 du 23 octobre 1987 (MAEJ8730049D)](decret-n87-869-du-23-octobre-1987-maej8730049d)
 - [Décret n°87-870 du 23 octobre 1987 (MAEJ8730050D)](decret-n87-870-du-23-octobre-1987-maej8730050d)
