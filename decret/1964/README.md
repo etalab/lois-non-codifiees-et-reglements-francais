@@ -13,7 +13,6 @@
 - [Décret n°64-1220 du 5 décembre 1964](decret-n64-1220-du-5-decembre-1964)
 - [Décret n°64-212 du 5 mars 1964](decret-n64-212-du-5-mars-1964)
 - [Décret n°64-836 du 5 août 1964](decret-n64-836-du-5-aout-1964)
-- [Décret n°64-417 du 5 mai 1964](decret-n64-417-du-5-mai-1964)
 - [Décret n°64-4 du 6 janvier 1964](decret-n64-4-du-6-janvier-1964)
 - [Décret n°64-317 du 9 avril 1964](decret-n64-317-du-9-avril-1964)
 - [Décret n°64-949 du 9 septembre 1964](decret-n64-949-du-9-septembre-1964)
