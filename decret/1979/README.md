@@ -3,7 +3,6 @@
 - [Décret n°79-433 du 1 juin 1979](decret-n79-433-du-1-juin-1979)
 - [Décret n°79-856 du 1 octobre 1979](decret-n79-856-du-1-octobre-1979)
 - [Décret n°79-169 du 2 mars 1979](decret-n79-169-du-2-mars-1979)
-- [Décret n°79-178 du 2 mars 1979](decret-n79-178-du-2-mars-1979)
 - [Décret n°79-292 du 2 avril 1979](decret-n79-292-du-2-avril-1979)
 - [Décret n°79-31 du 2 janvier 1979](decret-n79-31-du-2-janvier-1979)
 - [Décret n°79-932 du 2 novembre 1979](decret-n79-932-du-2-novembre-1979)
