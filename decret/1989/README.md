@@ -335,7 +335,6 @@
 - [Décret n°89-937 du 22 décembre 1989 (ECOA8900121D)](decret-n89-937-du-22-decembre-1989-ecoa8900121d)
 - [Décret n°89-941 du 22 décembre 1989 (TEFT8903978D)](decret-n89-941-du-22-decembre-1989-teft8903978d)
 - [Décret n°89-942 du 22 décembre 1989 (AGRG8902160D)](decret-n89-942-du-22-decembre-1989-agrg8902160d)
-- [Décret n°89-943 du 22 décembre 1989 (AGRG8902161D)](decret-n89-943-du-22-decembre-1989-agrg8902161d)
 - [Décret n°89-947 du 22 décembre 1989 (RESY8900420D)](decret-n89-947-du-22-decembre-1989-resy8900420d)
 - [Décret n°89-988 du 22 décembre 1989 (JUSC8920907D)](decret-n89-988-du-22-decembre-1989-jusc8920907d)
 - [Décret n°89-991 du 22 décembre 1989 (EQUP8901149D)](decret-n89-991-du-22-decembre-1989-equp8901149d)
