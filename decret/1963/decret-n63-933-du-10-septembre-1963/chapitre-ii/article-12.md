@@ -1,0 +1,3 @@
+# Article 12
+
+Les chefs de travaux sont chargés, sous l'autorité des professeurs de disciplines correspondant à leur enseignement, de préparer, assurer et contrôler l'exécution des travaux dans les matières sur lesquelles porte leur enseignement pratique. Ils rédigent les feuilles nécessaires aux élèves pour cet enseignement. Ils indiquent aux élèves, sur le plan des applications pratiques industrielles, l'objet des travaux correspondant à l'exposé théorique des cours et donnent toutes explications utiles sur le matériel et les procédés employés. Ils conseillent les élèves et surveillent l'exécution de leurs travaux et portent une appréciation sur les comptes rendus. Ils peuvent être appelés à participer à des visites d'usines et à des voyages d'études.
