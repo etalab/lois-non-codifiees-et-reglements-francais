@@ -1,0 +1,3 @@
+# Article 3
+
+L'établissement ou la modification, dans les zones ci-dessus définies, de digues, remblais, dépôts de matières encombrantes, excavations effectuées pour l'extraction de matériaux, clôtures, plantations, constructions, murs, haies ou de tous autres ouvrages susceptibles de faire obstacle à l'écoulement des eaux ou de restreindre d'une manière sensible le champ des inondations doit faire l'objet de la déclaration préalable prescrite par l'article 50 du code du domaine public fluvial et de la navigation intérieure et prévue à l'article 7 du décret du 20 octobre 1937 susvisé, sauf les exceptions énumérées à l'article 4 ci-dessous.

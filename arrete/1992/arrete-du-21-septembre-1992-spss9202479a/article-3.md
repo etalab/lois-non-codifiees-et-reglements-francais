@@ -10,9 +10,7 @@ Chaque commission régionale visée à l'article 1er du présent arrêté compre
 
 - le directeur du centre régional des oeuvres universitaires et scolaires concerné ou son représentant ;
 
-- un représentant de la section régionale de la Mutuelle nationale des étudiants de France ;
-
-- un représentant de la section locale de la mutuelle étudiante membre de l'Union nationale des sociétés étudiantes mutualistes régionales, dite U.S.E.M. ;
+- un représentant de la section locale de chaque société mutualiste étudiante habilitée, dans l'académie considérée, à gérer les prestations des assurances sociales des étudiants ;
 
 - un représentant de chacune des deux associations étudiantes qui, parmi les plus représentatives au niveau national, au sens de l'article 13 de la loi n° 89-436 du 10 juillet 1989 susvisée, ont obtenu le plus de voix aux élections au conseil d'administration du centre régional des oeuvres universitaires et scolaires de l'académie concernée.
 
