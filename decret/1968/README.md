@@ -1,6 +1,7 @@
 # 1968
 
 - [Décret n°68-23 du 3 janvier 1968](decret-n68-23-du-3-janvier-1968)
+- [Décret n°68-30 du 3 janvier 1968](decret-n68-30-du-3-janvier-1968)
 - [Décret n°68-857 du 3 octobre 1968](decret-n68-857-du-3-octobre-1968)
 - [Décret n°68-593 du 4 juillet 1968](decret-n68-593-du-4-juillet-1968)
 - [Décret n°68-1099 du 5 décembre 1968](decret-n68-1099-du-5-decembre-1968)
