@@ -1,0 +1,3 @@
+# Article 4
+
+Les services et établissements qui relevaient de l'autorité ou de la tutelle du ministre de l'urbanisme, du logement et des transports par application du décret mentionné à l'article 2 et qui correspondent aux attributions transférées au secrétaire d'Etat à la mer sont placés sous l'autorité ou la tutelle de celui-ci. Il en est ainsi notamment de la direction des gens de mer et de l'administration générale, la direction des pêches maritimes et des cultures marines, la direction de la flotte de commerce, la direction des ports et de la navigation maritimes, la direction de l'établissement national des invalides de la marine, la mission de la recherche.

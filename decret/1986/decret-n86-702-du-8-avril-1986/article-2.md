@@ -1,0 +1,9 @@
+# Article 2
+
+Monsieur Pierre Méhaignerie, ministre de l'équipement, du logement, de l'aménagement du territoire et des transports, exerce en outre, par délégation du Premier ministre :
+
+1° Les attributions relatives à l'aménagement du territoire et à l'action régionale dévolues au Premier ministre par les décrets du 14 février 1963 et du 10 mai 1982 susvisés. Pour l'application du décret du 21 janvier 1983 susvisé, il est chargé de la planification décentralisée conjointement avec le ministre délégué auprès du Premier ministre, chargé de la fonction publique et du Plan, et en liaison avec le ministre de l'intérieur. Pour l'exercice de ces attributions, le ministre de l'équipement, du logement, de l'aménagement du territoire et des transports dispose de la délégation à l'aménagement du territoire et à l'action régionale. Il peut présider, par délégation du Premier ministre, le comité interministériel pour les problèmes d'action régionale et d'aménagement du territoire ;
+
+2° Les attributions relatives à la prévention des risques majeurs d'origine naturelle ou technologique. Il a pour mission d'apprécier ces risques, de définir, en liaison avec les ministres compétents, les moyens de les prévenir et de proposer les mesures propres à en atténuer les effets. Pour l'exercice de ces attributions, il dispose de la délégation aux risques majeurs. Il reçoit le concours des départements ministériels intéressés et fait appel, en particulier, au service compétent de la direction de la défense et de la sécurité civile au ministère de l'intérieur et au service compétent de la direction de la qualité et de la sécurité industrielles au ministère de l'industrie, des P. et T. et du tourisme.
+
+Le ministre de l'équipement, du logement, de l'aménagement du territoire et des transports siège au comité interministériel de la sécurité nucléaire.
