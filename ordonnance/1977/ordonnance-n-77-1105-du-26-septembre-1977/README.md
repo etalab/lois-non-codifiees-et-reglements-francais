@@ -4,6 +4,6 @@
 - [Défense contre les eaux](defense-contre-les-eaux)
 - [Code des postes et télécommunications](code-des-postes-et)
 - [Intervention des fonctionnaires des ponts et chaussées](intervention-des-fonctionnaires-des-ponts-et)
-- [Voirie et circulation routière](voirie-et)
+- [Voirie et circulation](voirie-et)
 - [Ports maritimes](ports-maritimes)
 - [Régime des eaux](regime-des-eaux)
