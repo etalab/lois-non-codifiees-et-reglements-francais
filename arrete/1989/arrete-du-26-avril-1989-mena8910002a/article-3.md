@@ -10,8 +10,6 @@ Le bureau du second cycle et des diplômes d'études supérieures spécialisées
 
 Le bureau des formations de santé ;
 
-Le bureau de la formation des maîtres et des écoles normales supérieures.
-
 B. - La sous-direction des enseignements technologiques comprend :
 
 Le bureau des écoles d'ingénieurs et des formations technologiques longues ;
@@ -27,3 +25,9 @@ Le bureau des bourses et de l'action sociale ;
 Le bureau de l'information, de l'accueil, de l'orientation et de l'insertion professionnelle ;
 
 Le bureau de la formation permanente.
+
+D. - La sous-direction de la formation initiale des maîtres comprend :
+
+- le bureau de l'organisation générale et de la réglementation ;
+
+- le bureau des contenus d'enseignement et des certifications.

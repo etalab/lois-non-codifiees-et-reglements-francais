@@ -12,19 +12,17 @@ B. -La sous-direction de la programmation et des contrats comprend :
 
 Le bureau des études prévisionnelles et de la programmation ;
 
-Le bureau du fonds d'innovation et de modernisation ;
-
 Le bureau des contrats d'établissement ;
 
 Le bureau des méthodes et de l'analyse des moyens.
 
-C. -La sous-direction des établissements comprend :
+C. - La sous-direction des établissements comprend :
 
-Le bureau des affaires juridiques et statutaires ;
+- le bureau des affaires juridiques et statutaires ;
 
-Le bureau de la gestion financière et comptable ;
+- le bureau de la réglementation et de la gestion financière et comptable ;
 
-Le bureau des réglementations financières.
+- le bureau de la modernisation de la gestion des établissements.
 
 D. -La sous-direction des bibliothèques comprend :
 

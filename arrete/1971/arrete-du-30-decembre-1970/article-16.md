@@ -1,6 +1,6 @@
 # Article 16
 
-L'allocation de retraite est normalement liquidée à l'âge de soixante-cinq ans. Cependant elle peut faire l'objet d'une anticipation, au plus tôt à cinquante-cinq ans. Dans ce cas, le total des points de retraite est affecté des coefficients de réduction ci-après :
+§ 1 L'allocation de retraite est normalement liquidée à l'âge de soixante-cinq ans. Cependant elle peut faire l'objet d'une anticipation, au plus tôt à cinquante-cinq ans. Dans ce cas, le total des points de retraite est affecté des coefficients de réduction ci-après :
 
 A cinquante-cinq ans, les points effectivement inscrits au compte de l'intéressé sont affectés du coefficient 0,43 ;
 
@@ -30,8 +30,20 @@ c) A compter du 1er avril 1983, aux agents ou anciens agents justifiant d'une du
 
 d) Aux personnels admis en cessation anticipée d'activité au titre des ordonnances n° 82-108 du 30 janvier 1982 et n° 82-297 du 31 mars 1982.
 
-II - A compter du 1er avril 1983, les agents ou anciens agents âgés de soixante à soixante-cinq ans justifiant d'une durée d'assurance, au sens de l'ordonnance du 26 mars 1982 susvisée, comprise entre trente-deux ans et demi et trente-sept ans et demi peuvent également faire liquider leur retraite par anticipation.
+§ 2 A compter du 1er avril 1983, les agents ou anciens agents âgés de soixante à soixante-cinq ans justifiant d'une durée d'assurance, au sens de l'ordonnance du 26 mars 1982 susvisée, comprise entre trente-deux ans et demi et trente-sept ans et demi peuvent également faire liquider leur retraite par anticipation.
 
 Dans ce cas, le total des points de retraite est affecté des coefficients de réduction prévus au paragraphe Ier, en assimilant à l'âge de soixante-cinq ans l'âge auquel l'intéressé aurait effectivement compté trentre-sept années et demie d'assurance.
 
 Toutefois, le total des points de retraite ainsi calculé ne pourra être inférieur à celui qui aurait été obtenu après application du coefficient d'abattement correspondant à l'âge de l'intéressé.
+
+§ 3. Lorsque, à partir du 1er octobre 1989, l'agent bénéficie de la retraite progressive en application du titre II de la loi n° 88-16 du 5 janvier 1988, l'Ircantec procède à une liquidation provisoire de la pension et sert une fraction de celle-ci jusqu'à la liquidation définitive.
+
+La fraction de pension servie par l'Ircantec est fixée à :
+
+30 p. 100 lorsque la durée de travail à temps partiel est au plus égale à 80 p. 100 et au moins égale à 60 p. 100 de la durée de travail à temps complet ;
+
+50 p. 100 lorsque la durée de travail à temps partiel est inférieure à 60 p. 100 et au moins égale à 40 p. 100 de la durée de travail à temps complet ;
+
+70 p. 100 lorsque la durée de travail à temps partiel est inférieure à 40 p. 100 de la durée de travail à temps complet.
+
+Lors de la liquidation définitive, il est tenu compte du nombre de points de retraite acquis par cotisations au régime depuis la liquidation provisoire.
