@@ -4,9 +4,13 @@ En application du V de l'article 10 de la loi du 17 janvier 2003 susvisée, la r
 
 I. - Lorsque l'employeur remplit les conditions prévues au I de cet article 10, le coefficient de la réduction est ainsi déterminé :
 
-(formule non reproduite)
+1. Pour les gains et rémunérations versés entre le 1er juillet 2003 et le 31 décembre 2004 :
 
-La GMR horaire est obtenue en divisant la garantie de rémunération prévue à l'article 32 de la loi du 19 janvier 2000 susvisée que perçoit un salarié dont la durée du travail a été réduite à trente-cinq heures par semaine au 1er janvier 2000, dans une entreprise où la durée collective antérieurement applicable était de 169 heures par mois, par 151,67 heures. Cette garantie, arrondie à deux décimales au centième d'euro le plus proche, est prise en compte pour sa valeur la plus élevée en vigueur au cours de la période d'emploi rémunérée.
+(Formule non reproduite)
+
+2. Pour les gains et rémunérations versés entre le 1er janvier et le 30 juin 2005 :
+
+(Formule non reproduite)
 
 Si le résultat obtenu par application de cette formule est supérieur à 0,260, il est pris en compte pour une valeur égale à 0,260.
 
@@ -40,9 +44,9 @@ En outre, pour ceux de ces personnels roulants marchandises dont la durée des t
 
 Lorsque la durée des temps de service est inférieure à trente-cinq heures par semaine, le montant de cette majoration est réduit selon le rapport entre la durée des temps de service calculée sur le mois et cinquante-deux douzièmes de trente-cinq heures.
 
-V. - En application des IV et VI de cet article 10, lorsque le bénéfice de la réduction prévue à l'article L. 241-13 précité est cumulé avec celui de l'allégement mentionné aux articles 39 ou 39-1 de la loi du 20 décembre 1993 susvisée, de l'aide prévue à l'article 3 de la loi du 13 juin 1998 susvisée, de l'exonération prévue aux deux premiers alinéas de l'article L. 322-12 du code du travail, de la réduction prévue par l'article L. 241-14 du code de la sécurité sociale ou de plusieurs de ces mesures, sont d'abord appliqués :
+V. - En application des IV et VI de cet article 10, lorsque le bénéfice de la réduction prévue à l'article L. 241-13 précité est cumulé avec celui de l'allégement mentionné aux articles 39 ou 39-1 de la loi du 20 décembre 1993 susvisée, de l'exonération prévue aux deux premiers alinéas de l'article L. 322-12 du code du travail, de la réduction prévue par l'article L. 241-14 du code de la sécurité sociale ou de plusieurs de ces mesures, sont d'abord appliqués :
 
-1. L'allégement mentionné aux articles 39 ou 39-1 susvisés ou l'aide prévue à l'article 3 de la loi du 13 juin 1998 susvisée ;
+1. L'allégement mentionné aux articles 39 ou 39-1 susmentionnés ;
 
 2. L'exonération prévue aux deux premiers alinéas de l'article L. 322-12 du code du travail ;
 
