@@ -1,5 +1,0 @@
-# Article 18
-
-Sous réserve des dispositions de l'article 25 ci-dessous, les délibérations du conseil d'administration sont exécutoires dans un délai de quinze jours suivant la réception des procès-verbaux par le ministre chargé de l'enseignement supérieur, à moins que celui-ci n'en ait autorisé l'exécution immédiate.
-
-Dans ce délai, le ministre peut s'opposer à l'exécution d'une délibération et demander au conseil de délibérer à nouveau. Il peut procéder à l'annulation d'une délibération qui lui paraîtrait entachée d'irrégularité dans le délai d'un mois à compter de la date à laquelle il a signalé son opposition. Si aucune décision n'intervient dans ce délai, l'opposition est levée de plein droit.
