@@ -1,0 +1,3 @@
+# Article 3
+
+Le ministre de la consommation dispose en tant que de besoin des services centraux et extérieurs relevant de la direction de la qualité du ministère de l'agriculture et de la direction générale de la concurrence et de la consommation du ministère de l'économie et des finances ; il dispose également en tant que de besoin de la direction de la qualité et de la sécurité industrielle du ministère de l'industrie ainsi que du commissariat à la normalisation. Il peut faire appel, avec l'accord des ministres intéressés, aux organismes scientifiques et techniques dont le concours lui est nécessaire.
