@@ -129,6 +129,7 @@
 - [Décret n°82-896 du 15 octobre 1982](decret-n82-896-du-15-octobre-1982)
 - [Décret n°82-960 du 15 novembre 1982](decret-n82-960-du-15-novembre-1982)
 - [Décret n°82-961 du 15 novembre 1982](decret-n82-961-du-15-novembre-1982)
+- [Décret n°82-1055 du 16 décembre 1982](decret-n82-1055-du-16-decembre-1982)
 - [Décret n°82-167 du 16 février 1982](decret-n82-167-du-16-fevrier-1982)
 - [Décret n°82-253 du 16 mars 1982](decret-n82-253-du-16-mars-1982)
 - [Décret n°82-340 du 16 avril 1982](decret-n82-340-du-16-avril-1982)

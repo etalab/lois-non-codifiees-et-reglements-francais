@@ -77,6 +77,7 @@
 - [Arrêté du 15 octobre 1982](arrete-du-15-octobre-1982)
 - [Arrêté du 15 septembre 1982](arrete-du-15-septembre-1982)
 - [Arrêté du 16 décembre 1981](arrete-du-16-decembre-1981)
+- [Arrêté du 16 décembre 1982](arrete-du-16-decembre-1982)
 - [Arrêté du 16 février 1982](arrete-du-16-fevrier-1982)
 - [Arrêté du 16 mars 1982](arrete-du-16-mars-1982)
 - [Arrêté du 16 novembre 1982](arrete-du-16-novembre-1982)
