@@ -1,31 +1,39 @@
 # Article Annexe I
 
-Semences de céréales ne devant être commercialisées que dans les catégories de prébase, semences de base et semences certifiées,
+Semences de céréales ne devant être commercialisées que dans les catégories de prébase, semences de base et semences certifiées, telles qu'elles sont définies par les règlements techniques cités à l'article 2 :
 
-telles qu'elles sont définies par les règlements techniques cités à l'article 2 :
+- avoine (Avena sativa L.) ;
 
-- avoine (Aven Sativa L.)
+- avoine nue (Avena nuda L.) ;
 
-- blé dur (Triticum Durum, Desf.) ;
+- avoine maigre ou rude (Avena strigosa Schreb.) ;
 
-- blé tendre (froment) (Triticum aestivum L., emend, Fiori et Pasl) ;
+- blé dur (Triticum durum Desf.) ;
 
-- maïs, à l'exception du pop-corn et maïs sucré (Zea maïs L. partim ) ;
+- blé tendre (froment) (Triticum aestivum L.) ;
 
-- orge (Hordeum Vulgare L.) ;
+- épeautre (Triticum spelta L.) ;
 
-- riz (Oryza Saliva L.) ;
+- maïs, à l'exception du pop-corn et maïs sucré (Zea mays L. " partim ") ;
 
-- Sarrasin (Fagopyrum Esculentum)
+- orge (Hordeum vulgare L.) ;
 
-- seigle (Secale Cereale L.) ;
+- riz (Oryza sativa L.) ;
 
-- sorgho (Sorghum Bicolor "L." , Moench) ;
+- sarrasin (Fagopyrum esculentum Moench) ;
 
-- sorgho du Soudan (Sorghum Sundanese "piper", Stapf) ;
+- seigle (Secale cereale L.) ;
 
-- hybride résultant du croisement entre le sorgho et le sorgho du Soudan (Sorghum Bicolor "L.". Moench X (Sorghum Sundanese
+- sorgho (Sorghum bicolor " L. " Moench) ;
 
-"piper", Stapf)
+- sorgho du Soudan (Sorghum sudanense " Piper " Stapf) ;
 
-- triticale (X Triticosecale, Wittm).
+- hybride résultant du croisement entre le sorgho bicolore et le sorgho du Soudan (Sorghum bicolor " L. " Moench × Sorghum sudanense " Piper " Stapf) ;
+
+- triticale (× Triticosecale Wittm. ex A. Camus).
+
+Semences de céréales ne devant être commercialisées que dans la catégorie semences sans aucun qualificatif :
+
+- seigle des montagnes (Secale montanum Guss.) ;
+
+- hybride résultant du croisement du seigle des montagnes avec le seigle (Secale montanum Guss. × Secale cereale L.).
