@@ -400,7 +400,6 @@
 - [Décret n°90-232 du 15 mars 1990 (EQUG9000149D)](decret-n90-232-du-15-mars-1990-equg9000149d)
 - [Décret n°90-493 du 15 juin 1990 (ECOC9000054D)](decret-n90-493-du-15-juin-1990-ecoc9000054d)
 - [Décret n°90-58 du 15 janvier 1990 (ECOX9010021D)](decret-n90-58-du-15-janvier-1990-ecox9010021d)
-- [Décret n°90-64 du 15 janvier 1990 (SPSS8902683D)](decret-n90-64-du-15-janvier-1990-spss8902683d)
 - [Décret n°93-1099 du 15 septembre 1993 (DEFP9301832D)](decret-n93-1099-du-15-septembre-1993-defp9301832d)
 - [Décret n°93-413 du 15 mars 1993 (DEFP9202188D)](decret-n93-413-du-15-mars-1993-defp9202188d)
 - [Décret n°90-400 du 15 mai 1990 (JUSA9000072D)](decret-n90-400-du-15-mai-1990-jusa9000072d)

@@ -309,7 +309,6 @@
 - [Arrêté du 14 octobre 1987 (RESP8700684A)](arrete-du-14-octobre-1987-resp8700684a)
 - [Arrêté du 14 octobre 1987 (RESP8700685A)](arrete-du-14-octobre-1987-resp8700685a)
 - [Arrêté du 14 septembre 1987 (ENVX8798459A)](arrete-du-14-septembre-1987-envx8798459a)
-- [Arrêté du 14 mai 1987 (AGRG8700924A)](arrete-du-14-mai-1987-agrg8700924a)
 - [Arrêté du 14 mai 1987 (AGRS8700961A)](arrete-du-14-mai-1987-agrs8700961a)
 - [Arrêté du 14 mai 1987 (ASEG8700749A)](arrete-du-14-mai-1987-aseg8700749a)
 - [Arrêté du 14 mai 1987 (BUDZ8700002A)](arrete-du-14-mai-1987-budz8700002a)

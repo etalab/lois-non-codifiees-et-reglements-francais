@@ -497,7 +497,6 @@
 - [Arrêté du 24 décembre 1987 (ENVQ8700270A)](arrete-du-24-decembre-1987-envq8700270a)
 - [Arrêté du 24 février 1978](arrete-du-24-fevrier-1978)
 - [Arrêté du 24 février 1988 (AGRE8800480A)](arrete-du-24-fevrier-1988-agre8800480a)
-- [Arrêté du 24 février 1988 (AGRG8800470A)](arrete-du-24-fevrier-1988-agrg8800470a)
 - [Arrêté du 24 février 1988 (DEFC8801136A)](arrete-du-24-fevrier-1988-defc8801136a)
 - [Arrêté du 24 février 1988 (TRSA8800144A)](arrete-du-24-fevrier-1988-trsa8800144a)
 - [Arrêté du 24 mars 1988 (MCCK8800184A)](arrete-du-24-mars-1988-mcck8800184a)
