@@ -79,3 +79,4 @@
 - [Décret n°88-1274 du 30 décembre 1988 (AGRS8802274D)](decret-n88-1274-du-30-decembre-1988-agrs8802274d)
 - [Décret n°88-1276 du 30 décembre 1988 (SPSS8801763D)](decret-n88-1276-du-30-decembre-1988-spss8801763d)
 - [Décret n°89-197 du 30 mars 1989 (SPSS8900128D)](decret-n89-197-du-30-mars-1989-spss8900128d)
+- [Décret n°89-49 du 30 janvier 1989 (TEFF8903100D)](decret-n89-49-du-30-janvier-1989-teff8903100d)
