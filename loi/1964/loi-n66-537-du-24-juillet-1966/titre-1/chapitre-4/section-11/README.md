@@ -1,7 +1,6 @@
 # Section 11 : Société par actions simplifiée.
 
 - [Article 262-1](article-262-1.md)
-- [Article 262-2](article-262-2.md)
 - [Article 262-3](article-262-3.md)
 - [Article 262-4](article-262-4.md)
 - [Article 262-5](article-262-5.md)
