@@ -2,6 +2,7 @@
 
 - [Section I : Congés de longue durée pour maladie.](section-i)
 - [Section II : congés pour raisons de santé et congés de longue maladie d'une durée supérieure à six mois.](section-ii)
+- [Section III : Congés exceptionnels d'une durée supérieure à six mois.](section-iii)
 - [Section IV : Disponibilité.](section-iv)
 - [Section V : Congé du personnel navigant.](section-v)
 - [Section VI : Retrait d'emploi.](section-vi)
