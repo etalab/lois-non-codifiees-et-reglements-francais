@@ -124,7 +124,6 @@
 - [Décret n°85-534 du 15 mai 1985](decret-n85-534-du-15-mai-1985)
 - [Décret n°85-51 du 16 janvier 1985](decret-n85-51-du-16-janvier-1985)
 - [Décret n°85-719 du 16 juillet 1985](decret-n85-719-du-16-juillet-1985)
-- [Décret n°84-644 du 17 juillet 1984](decret-n84-644-du-17-juillet-1984)
 - [Décret n°85-64 du 17 janvier 1985](decret-n85-64-du-17-janvier-1985)
 - [Décret n°85-730 du 17 juillet 1985](decret-n85-730-du-17-juillet-1985)
 - [Décret n°85-734 du 17 juillet 1985](decret-n85-734-du-17-juillet-1985)
