@@ -1,0 +1,3 @@
+# Article 15
+
+La position de référence d'un récipient-mesure est la position qu'il occupe lors des opérations de jaugeage, tous les compartiments étant remplis, lorsque le berceau du récipient ou le véhicule sur lequel il est fixé ou l'ensemble du tracteur et de la semi-remorque sur laquelle il est fixé repose sur une surface plane et horizontale.    Pour les citernes, si elles possèdent au moins un compartiment de longueur supérieure à un mètre, la position de référence est repérée par tout moyen approprié solidaire du récipient. Ce dispositif doit permettre de repérer les positions d'utilisation.

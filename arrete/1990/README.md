@@ -741,6 +741,7 @@
 - [Arrêté du 28 mars 1990 (SPSS9000802A)](arrete-du-28-mars-1990-spss9000802a)
 - [Arrêté du 28 mars 1990 (SPSS9000803A)](arrete-du-28-mars-1990-spss9000803a)
 - [Arrêté du 28 septembre 1990 (AGRS9002040A)](arrete-du-28-septembre-1990-agrs9002040a)
+- [Arrêté du 28 septembre 1990 (INDD9000680A)](arrete-du-28-septembre-1990-indd9000680a)
 - [Arrêté du 29 décembre 1989 (AGRS8902664A)](arrete-du-29-decembre-1989-agrs8902664a)
 - [Arrêté du 29 décembre 1989 (INDA8901023A)](arrete-du-29-decembre-1989-inda8901023a)
 - [Arrêté du 29 décembre 1989 (INDD8901057A)](arrete-du-29-decembre-1989-indd8901057a)
