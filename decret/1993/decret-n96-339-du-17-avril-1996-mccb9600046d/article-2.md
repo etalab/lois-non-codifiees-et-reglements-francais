@@ -4,7 +4,7 @@ L'administrateur général de l'Etablissement public du musée du Louvre est nom
 
 Peuvent être nommés administrateur général de l'Etablissement public du musée du Louvre :
 
-1° Les fonctionnaires titulaires justifiant de huit années d'ancienneté au moins dans l'un des corps recrutés par la voie de l'Ecole nationale d'administration et ayant satisfait à l'obligation de mobilité prévue par le décret n° 97-274 du 21 mars 1997 ;
+1° Les fonctionnaires titulaires justifiant de huit années d'ancienneté au moins dans l'un des corps recrutés par la voie de l'Ecole nationale d'administration et ayant satisfait à l'obligation de mobilité prévue par le décret n° 2004-708 du 16 juillet 2004 ;
 
 2° Les membres du corps de l'inspection générale de l'administration des affaires culturelles ;
 

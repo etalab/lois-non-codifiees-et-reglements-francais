@@ -22,7 +22,7 @@ e) Par une nomination dans un autre corps de même catégorie ou de catégorie s
 
 f) Par une réintégration à l'expiration d'un congé de longue maladie ou de longue durée, conformément aux dispositions de l'article 46 du décret n° 86-442 du 14 mars 1986 relatif, notamment, au régime des congés de maladie des fonctionnaires ;
 
-g) Par l'accomplissement des obligations statutaires de mobilité prévues par les dispositions de l'article 39, alinéas 2 et 3, de l'ordonnance du 22 décembre 1958 susvisée et par les dispositions de l'article 1er du décret n° 97-274 du 21 mars 1997 relatif à la mobilité des fonctionnaires des corps recrutés par la voie de l'Ecole nationale de l'administration et des administrateurs des postes et télécommunications ;
+g) Par l'accomplissement des obligations statutaires de mobilité prévues par les dispositions de l'article 39, alinéas 2 et 3, de l'ordonnance du 22 décembre 1958 susvisée et par les dispositions de l'article 1er du décret n°2004-708 du 16 juillet 2004 relatif à la mobilité des fonctionnaires des corps recrutés par la voie de l'Ecole nationale de l'administration et des administrateurs des postes et télécommunications ;
 
 h) Par un retour au lieu de la résidence habituelle reconnu indispensable en raison de l'état de santé de l'agent par le comité médical prévu par le décret n° 86-442 du 14 mars 1986 ;
 

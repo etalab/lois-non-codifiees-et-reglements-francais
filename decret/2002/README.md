@@ -79,6 +79,7 @@
 - [Décret n°2002-400 du 25 mars 2002 (MESF0210302D)](decret-n2002-400-du-25-mars-2002-mesf0210302d)
 - [Décret n°2002-598 du 25 avril 2002 (MESH0220700D)](decret-n2002-598-du-25-avril-2002-mesh0220700d)
 - [Décret n°2002-628 du 25 avril 2002 (MCCX0200050D)](decret-n2002-628-du-25-avril-2002-mccx0200050d)
+- [Décret n°2002-611 du 26 avril 2002 (ECOP0200248D)](decret-n2002-611-du-26-avril-2002-ecop0200248d)
 - [Décret n°2002-616 du 26 avril 2002 (MESF0210488D)](decret-n2002-616-du-26-avril-2002-mesf0210488d)
 - [Décret n°2002-633 du 26 avril 2002 (PRMX0200017D)](decret-n2002-633-du-26-avril-2002-prmx0200017d)
 - [Décret n°54-538 du 26 mai 1954](decret-n54-538-du-26-mai-1954)

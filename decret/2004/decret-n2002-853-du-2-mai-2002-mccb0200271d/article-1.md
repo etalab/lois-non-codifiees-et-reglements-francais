@@ -4,7 +4,7 @@ L'administrateur général de l'Etablissement public du musée et du domaine nat
 
 Peuvent être nommés dans l'emploi d'administrateur général :
 
-1° Les fonctionnaires titulaires justifiant de huit ans d'ancienneté au moins dans l'un des corps recrutés par la voie de l'Ecole nationale d'administration et ayant satisfait à l'obligation de mobilité prévue par le décret du 21 mars 1997 susvisé ;
+1° Les fonctionnaires titulaires justifiant de huit ans d'ancienneté au moins dans l'un des corps recrutés par la voie de l'Ecole nationale d'administration et ayant satisfait à l'obligation de mobilité prévue par le décret du 16 juillet 2004 susvisé ;
 
 2° Les membres du corps de l'inspection générale des affaires culturelles ;
 
