@@ -264,6 +264,8 @@
 - [Arrêté du 24 février 1987 (BUDB8730004A)](arrete-du-24-fevrier-1987-budb8730004a)
 - [Arrêté du 24 mars 1987 (ACVA8710010A)](arrete-du-24-mars-1987-acva8710010a)
 - [Arrêté du 24 mars 1987 (ASEP8700509A)](arrete-du-24-mars-1987-asep8700509a)
+- [Arrêté du 24 mars 1987 (MENF8700210A)](arrete-du-24-mars-1987-menf8700210a)
+- [Arrêté du 24 mars 1987 (MENF8700211A)](arrete-du-24-mars-1987-menf8700211a)
 - [Arrêté du 24 mars 1987 (REST8700109A)](arrete-du-24-mars-1987-rest8700109a)
 - [Arrêté du 25 février 1987 (ASET8703155A)](arrete-du-25-fevrier-1987-aset8703155a)
 - [Arrêté du 25 février 1987 (DEFP8701163A)](arrete-du-25-fevrier-1987-defp8701163a)
