@@ -192,7 +192,7 @@ La liste des commissions prévues à l'article 3 du décret du 28 mai 1990 susvi
 
 95° Groupe élevage informatique (GELI) ;
 
-96° Commission centrale des rentes à allouer par suite d'accidents du travail ou de maladie professionnelle ;
+96° La commission de réparation en matière d'accidents du travail et de maladies professionnelles survenus aux agents non titulaires du ministère chargé de l'agriculture ;
 
 97° Commission interministérielle de coordination des contrôles (ACOFA) ;
 
