@@ -103,7 +103,6 @@
 - [Décret n°79-1119 du 21 décembre 1979](decret-n79-1119-du-21-decembre-1979)
 - [Décret n°79-262 du 21 mars 1979](decret-n79-262-du-21-mars-1979)
 - [Décret n°79-263 du 21 mars 1979](decret-n79-263-du-21-mars-1979)
-- [Décret n°79-823 du 21 septembre 1979](decret-n79-823-du-21-septembre-1979)
 - [Décret n°79-989 du 21 novembre 1979](decret-n79-989-du-21-novembre-1979)
 - [Décret n°79-405 du 21 mai 1979](decret-n79-405-du-21-mai-1979)
 - [Décret n°79-246 du 22 mars 1979](decret-n79-246-du-22-mars-1979)
