@@ -4,8 +4,8 @@ I - Sous réserve de l'application des articles 31-2 à 31-5 du présent décret
 
 En cas de concubinage, il est tenu compte du total des revenus imposables correspondant aux ressources perçues par chacun des concubins durant l'année de référence.
 
-II - Les ressources définies ci-dessus sont diminuées d'un abattement forfaitaire lorsque les deux conjoints ou concubins exercent une activité professionnelle productrice de revenus et que chacun de ces revenus a été au moins égal, pendant l'année de référence, à six fois la base mensuelle de calcul des allocations familiales en vigueur au 1er juillet de ladite année.
+II - Les ressources définies ci-dessus sont diminuées d'un abattement forfaitaire lorsque les deux conjoints ou concubins exercent une activité professionnelle productrice de revenus et que chacun de ces revenus a été au moins égal, pendant l'année de référence, à douze fois la base mensuelle de calcul des allocations familiales en vigueur au 1er juillet de ladite année.
 
-Cet abattement est de 5.600 F pour les revenus de l'année 1976. Il est revalorisé chaque année par application du coefficient de revalorisation visé à l'article 30-1 ci-dessus.
+Cet abattement est de 22.076 F pour les revenus de l'année 1983. Il est revalorisé chaque année par application du coefficient de revalorisation visé à l'article 30-1 ci-dessus.
 
 Un abattement d'un montant identique est opéré sur les ressources de la personne seule qui assume la charge du ou des enfants.
