@@ -10,4 +10,6 @@ L'Etablissement public du musée et du domaine national de Versailles a pour mis
 
 4° D'assurer l'étude scientifique de ses collections, de l'architecture des bâtiments et des jardins ;
 
-5° De concourir à l'éducation, la formation et la recherche dans le domaine de l'histoire, de l'histoire de l'art et de la muséographie.
+5° De concourir à l'éducation, la formation et la recherche dans le domaine de l'histoire, de l'histoire de l'art de la muséographie, de la musique et des autres arts de la scène ;.
+
+6° D'assurer la vie musicale dans les châteaux, le musée et le domaine ; à cet effet, il peut notamment s'associer avec le centre de musique baroque de Versailles dans les conditions prévues à l'article 5.

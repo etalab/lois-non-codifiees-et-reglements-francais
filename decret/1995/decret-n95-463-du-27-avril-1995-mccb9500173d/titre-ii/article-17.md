@@ -10,7 +10,7 @@ Notamment :
 
 3°Il approuve le rapport annuel d'activité ;
 
-4°Il délibère sur la politique tarifaire de l'établissement et fixe les droits d'entrée et les tarifs des prestations annexes ;
+4° Il délibère sur la politique tarifaire de l'établissement et fixe les droits d'entrée, les tarifs des prestations annexes ainsi que, par dérogation aux articles L. 30 et R. 55 du code du domaine de l'Etat, les redevances dues à raison des autorisations temporaires d'occupation des immeubles remis en dotation à l'établissement public ;
 
 5°Il vote le budget et ses modifications dans les conditions prévues à l'article 18 ci-après ;
 
@@ -20,7 +20,7 @@ Notamment :
 
 8°Il accepte ou refuse les dons et legs autres que ceux consistant en oeuvres destinées à prendre place dans les collections du musée ;
 
-9° Il approuve les concessions ;
+9° Il approuve les concessions et les conventions d'association passées en application du deuxième alinéa de l'article 5.
 
 10° Il approuve les prises, extensions et cessions de participation et les créations de filiales ;
 

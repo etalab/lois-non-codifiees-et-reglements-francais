@@ -8,4 +8,6 @@ Les dépenses de l'établissement comprennent :
 
 - les frais de travaux d'aménagement, d'entretien et de grosses réparations ;
 
+- les subventions éventuelles aux organismes associés ;
+
 - le versement à la Réunion des musées nationaux mentionné à l'article 23 du présent décret et, de façon générale, toutes dépenses nécessaires à l'activité de l'établissement.

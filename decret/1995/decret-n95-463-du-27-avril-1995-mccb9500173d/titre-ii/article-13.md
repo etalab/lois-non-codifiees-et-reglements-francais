@@ -1,6 +1,6 @@
 # Article 13
 
-Le conseil d'administration comprend, outre son président, dix-sept membres :
+Le conseil d'administration comprend, outre le président de l'établissement, dix-sept membres :
 
 1°Six représentants de l'Etat :
 

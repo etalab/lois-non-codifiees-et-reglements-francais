@@ -2,6 +2,8 @@
 
 Dans la limite des missions définies à l'article 2 du présent décret, l'établissement public peut concéder des activités et délivrer des autorisations d'occupation de son domaine à des personnes publiques ou privées.
 
+Il peut s'associer avec les organismes qui contribuent à la réalisation de ses missions et au développement de ses ressources et de ses activités. Les conventions d'association fixent notamment les modalités selon lesquelles les activités de ces divers organismes sont coordonnées avec celles de l'établissement public et les modalités selon lesquelles ces organismes participent aux services communs et, le cas échéant, les modalités selon lesquelles l'établissement public leur attribue des subventions.
+
 Il peut passer toutes conventions pour l'utilisation des espaces susceptibles d'accueillir des manifestations culturelles.
 
 Il peut assurer des prestations de services à titre onéreux. Il peut prendre des participations financières et créer des filiales.

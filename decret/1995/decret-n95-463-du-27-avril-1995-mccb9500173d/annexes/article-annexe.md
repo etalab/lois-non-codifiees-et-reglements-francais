@@ -1,16 +1,12 @@
 # Article ANNEXE
 
-RELATIVE AUX IMMEUBLES DU DOMAINE
-
-DE VERSAILLES VISÉS À L'ARTICLE 8 DU DÉCRET
+RELATIVE AUX IMMEUBLES DU DOMAINE DE VERSAILLES VISÉS À L'ARTICLE 7, ALINÉA 2 DU DÉCRET
 
 Les immeubles du domaine de Versailles devant être affectés également au ministère chargé de la culture et de la francophonie sont les suivants :
 
 DÉSIGNATION
 
-RÉFÉRENCE
-
-cadastrale
+RÉFÉRENCE cadastrale
 
 Camp des Matelots
 
@@ -50,7 +46,7 @@ Ancienne ferme des haras et dépendances
 
 BX 8, 91, 145, 147 ;
 
-BX 27, 30 à 33, 35, 80.
+BY 27, 30 à 33, 35, 80.
 
 Potager du Roi
 
