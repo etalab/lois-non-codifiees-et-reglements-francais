@@ -6,6 +6,8 @@ ACB/Alsthom Fluides et Mécaniques :
 
 - boulevard de la Prairie-au-Duc, 44945 Nantes Cedex 9 : de 1945 à 1997.
 
+Atelier marine Service, SARL Calloch, Diesel marine, zone artisanale de la Marjolaine, 44420 La Turballe, de sa création à 1992.
+
 Ateliers Bollore, 14, rue du Grand-Lin, Le Croisic, de sa création à 1995.
 
 Ateliers constructions de Nantes (ACN), 10, rue des Usines, 44100 Nantes, de sa création à 1991.
@@ -82,6 +84,8 @@ Entreprise Alain, 30, rue du Capitaine-Hervouet la rivière , 44000 Nantes : de 
 
 Entreprise Le Bot, 49, rue Albert-Thomas, 44600 Saint-Nazaire : de 1964 à 1969.
 
+Entreprise Renaud P.-Louis, rue des Parcs, 44490 Le Croisic, de sa création à 1969.
+
 ERBOS :
 
 - Cale Crucy, 44100 Nantes : de 1960 à 1982.
@@ -115,6 +119,8 @@ Hériaud : 85110 Les Sables-d'Olonne, de 1946 à 1995.
 Isopeint :
 
 - 2, rue Fidèle-Simon, 44600 Saint-Nazaire : de 1972 à 1980.
+
+Le Chantier naval François, 44490 Le Croisic, de sa création à 1976.
 
 Leroux et Lotz :
 
@@ -172,7 +178,7 @@ SAFEN :
 
 SERIM, quai des Frégates, 44600 Saint-Nazaire : de sa création à 1982.
 
-Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Nantes-Saint-Nazaire, 9, quai des Côteaux, BP 7, 44640 Le Pellerin. Siège social 18, quai Ernest-Renaud, BP 18609, 44186 Nantes Cedex 4 : de 1945 à 1998.
+Service technique de l'outillage des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Nantes - Saint-Nazaire, 9, quai des Coteaux, BP 7, 44640 Le Pellerin. Siège social : 18, quai Ernest-Renaud, BP 18609, 44186 Nantes Cedex 4, de 1945 à 2002.
 
 SIDES :
 
@@ -206,7 +212,11 @@ SNI/SNMI/ARNI/Nantaise Maritime :
 
 - 8, rue René-Cassin, 44600 Saint-Nazaire : de 1960 à 1997, puis 44800 Saint-Herblain : de 1970 à 1995.
 
+Société Apy, 7, rue du Bois-Savary, 44600 Saint-Nazaire, de sa création à 1984.
+
 Société ATRM (ateliers turballais de réparation navale), chemin de la Marjolaine, La Turballe, depuis sa création à 1996.
+
+Société Metra, 39, rue de la Matte, 44600 Saint-Nazaire, puis 71, rue Henri-Gautier, 44550 Montoir-de-Bretagne, de 1989 à 1995.
 
 Société nazairienne de mécanique, 87, rue Henri-Gautier, 44550 Montoir-de-Bretagne, de sa création à 1982.
 
@@ -246,9 +256,7 @@ ACMP (Ateliers et chantiers de Marseille Provence) :
 
 - 2, boulevard des Bassins-Cap-Pinède, 13002 Marseille : de 1980 à 1988.
 
-ACOREM :
-
-- rue Léo-Lagrange, ZI Toulon-Est, 83062 La Garde : de 1980 à 1997.
+ACOREM, rue Léo-Lagrange, ZI Toulon Est, 83062 La Garde, ZI Les Négaloux, 83140 Six-Fours-les-Plages, de 1978 à 1997.
 
 Agius Vincent, puis atelier Agius, 6-8, rue Fort-Notre-Dame, 13007 Marseille : à partir de 1960.
 
@@ -382,9 +390,7 @@ Chaudronnerie Joly :
 
 - Le Collet de Lebre, 3, rue Chabaud, 13180 Gignac : de 1984 à 1994.
 
-Chaudronnerie seynoise :
-
-- ZI, camp Laurent, 1659, avenue Robert-Brun, 83500 La Seyne-sur-Mer : de 1975 à 1987.
+Chaudronnerie seynoise/Nouvelle Chaudronnerie seynoise, ZI Camp Laurent, 1659, avenue Robert-Brun, 83500 La Seyne-sur-Mer, de 1975 à 2001.
 
 Chaudronnerie tuyauterie Provence Corse (CTPC), 1, rue Reine-Elisabeth, 13001 Marseille : de 1983 à 1986.
 
@@ -574,9 +580,7 @@ Etudes et réalisations techniques et comptables de Provence Route de Gardanne, 
 
 Européenne de services techniques, 5-7, La Canebière, 13001 Marseille, de 1970 à 1976.
 
-Evers Isolation :
-
-- chemin de la Bassaguet, 83140 Six-Fours-les-Plages : depuis sa création.
+Evers Isolation, puis Société Aris, chemin Bassaguet, 83140 Six-Fours-les-Plages, depuis sa création.
 
 EVM (Entreprise varoise de montage), extension Plein Sud, bureau n° 8, 13600 La Ciotat : de 1971 à 1975.
 
@@ -627,6 +631,8 @@ Isotec :
 I Tech, 151, avenue des Aygalades, 13015 Marseille, de 1976 à 2000.
 
 Jean Quaranta, 21, rue Forest, 13007 Marseille : de 1957 à 1973, puis Jean Quaranta, 38, rue Perlet, 13007 Marseille : de 1973 à 1979, puis société Jean Quaranta, 38, rue Perlet, 13007 Marseille : de 1979 à 1994.
+
+La Phocéenne du froid, 86, boulevard de Bonnes-Grâces, 13003 Marseille, de 1979 à 1990.
 
 Leroux et Lotz :
 
@@ -705,6 +711,8 @@ MTC, bâtiment Primindus/CTIM (chaudronnerie, tuyauterie, industrie mindus, plan
 NAFCO-Toulon Arsenal :
 
 - BP 40, 83000 Toulon : depuis sa création.
+
+NC Satti, 154, avenue Roger-Salengro, 13003 Marseille, de 1948 à 1968.
 
 Nautech (Nautical Technologies), Port autonome de Marseille, forme III, 13003 Marseille : depuis 1996.
 
@@ -790,7 +798,7 @@ SAMIC/SPRS/SNPRS :
 
 SARL CTIM ZI d'Avon 13120 Gardanne Depuis 1994.
 
-SARL Industrie marine 40, quai Hoche, 83140 Six-Fours De 1969 à 1983.
+SARL Industrie marine, 40, quai Hoche, 83500 La Seyne-sur-Mer, de 1969 à 1983.
 
 SARL SERBIM/SERBIM Industries :
 
@@ -910,7 +918,7 @@ SNM :
 
 - chemin des Négadoux, 83140 Six-Fours : de 1982 à 1992.
 
-Société anonyme Vaugrenier Industrie (SAVI), puis Société nouvelle des établissements SAVI (SNES), 1580, avenue Aristide-Briand, quartier Lagoubran, 83500 La Seyne-sur-Mer : de 1988 à 1990.
+Société anonyme Vaugrenier Industrie/Société nouvelle des établissements SAVI (SNES), 1580, avenue Aristide-Briand, quartier Lagoubran, 83500 La Seyne-sur-Mer, de 1985 à 1990.
 
 Société CARFOS :
 
@@ -951,6 +959,8 @@ Société maritime de soudure. 1, rue du Capitaine-Badille, La Ciotat. De 1960 �
 Société marseillaise de rectification :
 
 - 11, rue Auphen, 13003 Marseille : de 1987 à 1994.
+
+Société marseillaise d'études, de conseil et d'assistance (SMECA), 3, boulevard Bernardo, et enceinte portuaire, forme n° 3, 13015 Marseille, de 1983 à 1990.
 
 Société marseillaise du froid :
 
@@ -998,9 +1008,7 @@ SOMAC :
 
 - enceinte portuaire, porte 4, Mourepiane, BP 133, 13016 Marseille : depuis 1993.
 
-SOMEC, Société de montage et de chaudronnerie :
-
-- RN 08, ZI La Gorgues, 83330 Le Beausset : de 1974 à 1987.
+SOMEC (Société de montage et de chaudronnerie), RN 08, ZI La Gorgues, 83330 Le Beausset : de 1974 à 2001.
 
 SOMECAR (Société méditerranéenne de carénage)/SOMECAR/Coating :
 

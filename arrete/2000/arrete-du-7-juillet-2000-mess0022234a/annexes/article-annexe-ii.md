@@ -6,7 +6,7 @@ Aquitaine
 
 Alain Le Marc 33750 Camarsac : Travailleurs indépendant, de 1982 à 1986.
 
-AMA, puis Chantiers AMA, 10, avenue de l'Adour, 64600 Anglet : depuis sa création à 1989.
+AMA/Chantiers AMA/SAREM, 10, avenue de l'Adour, 64600 Anglet, depuis sa création.
 
 Aquitaine marine 162, quai de Brazza, 33100 Bordeaux : De 1985 à 1986.
 
@@ -104,6 +104,8 @@ Entreprise industrielle :
 
 - rue des Claires, BP 21, 50120 Equeurdreville : depuis 1985.
 
+Entreprise Jean Mazurien, rue du Port, 50400 Granville, de 1969 à 1980.
+
 GIMT (Générale industrielle de maintenance de travaux) :
 
 - 42, rue du Président-Loubet, 50100 Cherbourg : de 1974 à 1979, de 1986 à 1991.
@@ -178,6 +180,8 @@ SA Réparation navale mécanique Sorenam/Sorenam Industrie/Sorenam Normandie
 
 - rue Dumont-Durville, 14000 Caen, et CD 80, 14370 Moult : depuis 1966.
 
+Société de mécanique marine et industrielle granvillaise (SMMIG), rue de la Gare, 50350 Donville-les-Bains, puis port de Hérel, 50400 Granville, de 1970 à 1996.
+
 Sonectro/Thomson/CSF, 4-6, avenue Louis-Lumière, 50103 Cherbourg : de 1968 à 1997.
 
 TEAT (Travaux et applications techniques), arsenal de Cherbourg, 50100 Cherbourg : depuis sa création.
@@ -194,7 +198,7 @@ UIE/NUIE (Union industrielle et d'entreprise) BP 173, 50104 Cherbourg Cedex et l
 
 Bourgogne
 
-Atelier et chantiers navals de Chalon-sur-Saône/COMEF/Saône Peinture, rue Marc-Séguin, depuis 1949.
+Atelier et chantiers navals de Chalon-sur-Saône/COMEF/Saône Peinture/SAS chantier naval chalonnais, rue Marc-Séguin, depuis 1949.
 
 M. Goncalves Joseph, 71160 Digoin : jusqu'en 1986.
 
@@ -270,6 +274,8 @@ Ateliers mécaniques lorientais :
 
 Atelier motonautique, Port-la-Forêt, 29940 La Forêt-Fouessant : depuis 1977.
 
+Atelier Priol/SARL Leon, 186, rue Pierre-Semard, 29760 Saint-Guénolé, Penmarc'h, de 1966 à 1987.
+
 Les Ateliers normands, puis SARL Ateliers normands, puis SA Ateliers normands, 56290 Port-Louis, puis lieudit Saint-Goustan, 56400 Auray, puis lieudit Locmalo, 56290 Port-Louis, puis 24, boulevard Jean-Pierre-Calloch, 56100 Lorient : depuis 1930.
 
 Atlantic Technologie :
@@ -281,6 +287,8 @@ ATO Series Sobrecar, 18, rue Saint-Pierre, 56100 Lorient : depuis 1970.
 Ato/Sobrecar :
 
 - ZI portuaire, 29200 Brest : de 1970 à 1995.
+
+Barillec SA, ZI du Moros, 29110 Concarneau : de 1957 à 1992
 
 SARL Bastide :
 
@@ -326,11 +334,17 @@ Chantier nautique Combe SARL :
 
 - ZA de Pen Man Bihan, 56570 Locmiquelic : depuis 1985.
 
+Chantier de Cornouaille, port de Douarnenez, 29100 Douarnenez, de 1943 à 1983
+
 Chantier naval des Baux :
 
 - Brest : de 1945 à 1996.
 
+Chantier naval Ernest Sibiril, 21, rue La Motte-Picquet, BP 6, 29660 Carentec, depuis 1961.
+
 Chantier naval Herbert-Heraud, puis Chantiers de Bretagne-Sud, Le Pont-Lorois, 56550 Belz : de 1953 à 1991.
+
+Chantier naval Hyppolyte Le Bars, 13, rue du Port, 29900 Concarneau, de sa création à 1985.
 
 Chantiers de la Haute-Seine, rue des Voeux-de-Saint-Georges, 94290 Villeneuve-le-Roi : depuis sa création à 1995.
 
@@ -406,11 +420,15 @@ EGTIM :
 
 EITOM, rue Poullaouec, puis SARL EITOM, rue Alain-Colas, 29200 Brest : depuis 1973.
 
-Entreprise Barillec, ZI du Moros, 29110 Concarneau : de 1957 à 1984
+Electronique de navigation, 4, rue de Malakoff, puis 15, quai Est, 29900 Concarneau, de 1976 à 1993.
+
+Entreprise André Picault, 1, boulevard J.-P.-Calloch, 56100 Lorient, de 1944 à 1984.
 
 Entreprise Boulay-Froid maritime, puis SARL Concarnoise de froid, 89, avenue A.-Le Lay, 29110 Concarneau : depuis 1963.
 
-Entreprise Bretagne hydraulique ZAC de Troyalac'h, BP 5, 29563 Quimper Cedex 9. De 1989 à 1992
+Entreprise Bretagne hydraulique ZAC de Troyalac'h, BP 5, 29563 Quimper Cedex 9. De 1989 à 1995
+
+Entreprise Carras, 5, quai Jacques-de-Thezac, 29770 Audierne, de 1977 à 1994.
 
 Entreprise Jean Guerizec Boulevard de la Compagnie des Indes, 56290 Port-Louis. De 1950 à 1984.
 
@@ -484,7 +502,11 @@ FCC Vergoz :
 
 Finistérienne de construction et de réparation navale, ZI du Moros, 29110 Concarneau : depuis 1995.
 
+Forge marine Bescou Francis, Le Styvel, 29129 Camaret-sur-Mer, de 1968 à 1987.
+
 Forge marine Félix Cossec, 20, rue Jean-Jaurès, 29740 Lesconil : de 1954 à 1985.
+
+Forge marine Guillou Marcel/Forge marine Guillou/Forge marine Guillou Serge, 218, rue Lucien-Larnicol, 29760 Saint-Guénolé, Penmarc'h, depuis 1959.
 
 Forge marine Le Douguet, rue des Primevères, 29740 Lesconil : depuis 1986.
 
@@ -544,6 +566,10 @@ Larzul :
 
 - rue de Pennmarch, 29730 Le Guilvinec : de 1948 à 1989.
 
+Lastenet André, quai Théphany, 29570 Camaret-sur-Mer, de 1987 à 1990.
+
+Lastenet Pierre, 5, rue du Styvel, 29570 Camaret-sur-Mer, de 1964 à 1987.
+
 Laudren Electricité :
 
 - 25, rue de la Fraternité, 29200 Brest, puis 60, rue Trudaine, 56600 Lanester : depuis 1953.
@@ -551,6 +577,12 @@ Laudren Electricité :
 Lefloc'h Corentin, puis Les forges de Loctudy. 18, rue du Port, 29125 Loctudy, puis Terre Plein du Port, 29125 Loctudy : Depuis 1960
 
 Le Floch Lucien, 1, quai du Pourquoi-Pas, 56100 Lorient : de 1966 à 1995.
+
+Le Gall René, Bellevue, 29350 Moëlan-sur-Mer, de 1956 à 1995.
+
+Le Got André, 13, rue de l'Harteloire, 29200 Brest, de 1977 à 1990.
+
+Le Queau François/SARL Le Queau François/Le Queau François, ZA du Guirric, BP 99, 29120 Pont-l'Abbé, depuis 1977.
 
 Léon Glehen/Chantiers navals de Pors-Moro, Pors-Moro, 29120 Pont-Labbé : de 1957 à 1992
 
@@ -609,6 +641,10 @@ SARL Diesel Marine Bretagne :
 SARL Diesel Marine Bretagne : de 1981 à 1985, puis Meca Diesel, 7, rue du Professeur-Legendre, 29110 Concarneau : depuis 1985.
 
 SARL Le Bras Jean-Paul, pont de la Corde, 29670 Henvic : de 1972 à 1997.
+
+SARL Gueguen Pierre, 33, avenue de la Perrière, 56100 Lorient, de 1962 à 1987.
+
+SARL Saint-Gué Electronique/SA Saint-Gué Electronique, 53, rue de la Joie, 29760 Saint-Guénolé, Penmarc'h, de 1983 à 1996.
 
 Metabois :
 
@@ -692,13 +728,13 @@ SCAM (Société concarnoise d'ateliers mécaniques) :
 
 - ZI du Moros, 29900 Concarneau : de 1950 à 1996.
 
-SCOp Chaudronnerie de l'Iroise 14, impasse des Alouettes, 29100 Pouillan-sur-Mer. Depuis 1990.
+SCOP Chaudronnerie de l'Iroise 14, impasse des Alouettes, 29100 Pouillan-sur-Mer. Depuis 1990.
+
+SCOP navale de Cornouaille, place Victor-Salez, port de Tréboul, 29100 Douarnenez, depuis 1984.
 
 SDO, puis SNDO, terre-plein du Port, 29730 Le Guilvinec : depuis 1982.
 
-SEITHA :
-
-- 13, rue Maupertuis, ZI de Kergonan, 29200 Brest : depuis sa création.
+SEITHA, 13, rue Maupertuis, ZI de Kergonan, 29200 Brest, puis 5, rue Robert-Schuman, ZAC de Kerjean, 29480 Le Relecq Kerhuon, depuis sa création.
 
 SELF-SAPELEC :
 
@@ -802,6 +838,8 @@ Société des ateliers mécaniques André Le Pen :
 
 - 16, rue Henri-Estier, 56100 Lorient : de 1962 à 1993.
 
+Société Electro Diesel Auto Marine (SEDAM), 77, avenue de la Perrière, puis 1, rue Henri-Estier, puis 33, rue Ingénieur-Verrière, 56100 Lorient, depuis 1972.
+
 Société EMC/Société nouvelle EMC, 8, rue de Penmarc'h, et 8, rue du Général-de-Gaulle, 29730 Le Guilvinec : de 1989 à 1993.
 
 Société études et réalisations industrielles :
@@ -858,11 +896,9 @@ SOFREG :
 
 - rue Amiral-Nicol, 29200 Brest : de 1980 à 1997.
 
-SOLORPEC :
+SOLORPEC, 10, boulevard Jean-Pierre-Calloch, 56100 Lorient, depuis 1969, puis rue Maurice-Le Léon, port de pêche, 56100 Lorient, à partir de 2003.
 
-- 10, boulevard Jean-Pierre-Calloch, 56100 Lorient : depuis 1969.
-
-SOLORPEC/SLPN, 42, quai de la Douane, 29200 Brest, 3, rue Alain-Colas, 29200 Brest : de 1979 à 2003, puis rue Maurice-le-Léon, 56100 Lorient : à partir de 2003.
+SOLORPEC/SLPN, 42, quai de la Douane, puis 3, rue Alain-Colas, puis 485, rue Alain-Colas, 29200 Brest, depuis 1979.
 
 SONOCAR, 13, place Napoléon-III, 29200 Brest : de 1980 à 1990.
 
@@ -914,7 +950,7 @@ Techniques navales, rue Tritschler, 29200 Brest : de sa création à 1998.
 
 TMT puis TMT Atlantique,21, avenue de l'Amiral-Melchior, puis 21, avenue de l'Amiral Melchior, 56000 Lorient, depuis 1959.
 
-Timolor, 13, rue P.-Martin, 29200 Brest : depuis sa création jusqu'en 2000, puis Timolor, 32, rue Ingénieur-Verrière, 56100 Lorient : à partir de 2000.
+TIMOLOR, 7, rue du Docteur-Roux, 56100 Lorient, puis ZA de Lann-Gazec, rue des Frères-Lumière, 56600 Lanester, puis 32, rue Ingénieur-Verrière, 56100 Lorient, depuis sa création.
 
 Timo Lor SARL :
 
@@ -994,6 +1030,10 @@ Caillard Normandie/AFO (Ateliers français de l'Ouest) :
 
 CGT/CGM/SPIN/CMA-CGM/ARNO/COGER/SIREN (Société industrielle de réparation et d'entretien de navires), rue Bellot, BP 534, 76068 Le Havre, quai de l'Europe, 76600 Le Havre, et route du Môle-Central, 76600 Le Havre : depuis 1955, puis SORENI, route du Môle-Central, 76600 Le Havre : à partir du 1er novembre 2001.
 
+Chambre de commerce et d'industrie de Dieppe, 4, boulevard du Général-de-Gaulle, 76374 Dieppe Cedex,
+
+de 1956 à 1986.
+
 Chantier de Normandie/Chantiers réunis Dubigeon Normandie/AFO/ARNO/Ateliers de la Manche/Manche industrie marine/Manche SA :
 
 - 76200 Dieppe : depuis 1919.
@@ -1033,6 +1073,8 @@ Demolin, 29-33, rue des Magasins-Généraux, 76600 Le Havre : depuis 1970.
 Depittre Métabois :
 
 - 828, rue A.-Briand, 76650 Petit-Couronne : depuis 1960.
+
+EMRI (Etudes, maintenance, réalisations industrielles), rue du Maréchal-Foch, 76850 Le Trait, de 1987 à 1994.
 
 Etablissement G. Buquet et Cie, quai Sadi-Carnot, 76400 Fécamp, depuis 1959.
 
@@ -1075,6 +1117,10 @@ Lambert et Mesnager, 53-57, rue de la Vallée, 76600 Le Havre : de 1960 à 1990.
 Lassarat Peintures :
 
 - 14, rue Eugène-Thépot, 76600 Le Havre : depuis 1967.
+
+Lethuillier SA, quai de la Moselle, 76600 Le Havre, de 1978 à 1996.
+
+Lethuillier SARL, rue du Calvaire, 76700 Harfleur, de 1979 à 1983
 
 Lozai 20, rue Etienne-Dolet, 76140 Le Petit-Quevilly, la darse des docks flottants, 76650 Petit-Couronne : depuis 1935.
 
@@ -1120,6 +1166,8 @@ Construction métallique Mouquet, chemin vicinal n° 5, hameau de Sotteville, 76
 
 SARM société auxiliaire de réparation mécanique. 107, boulevard de Strasbourg, puis 19, rue du Pont-V, 76600 Le Havre. Depuis sa création jusqu'à 1997.
 
+SATREMT, route nationale 15, 76700 Gonfreville, puis rue du Calvaire, 76700 Harfleur, puis quai de Moselle, 76600 Le Havre, depuis 1966.
+
 Saunier-Duval :
 
 - route nationale 15, 76700 Harfleur : depuis 1958.
@@ -1136,7 +1184,7 @@ SERMI :
 
 - 76600 Le Havre : depuis 1960.
 
-Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard Boisguilbert, BP 4075, 76100 Rouen : de 1947 à 1997.
+Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard , BP 4075, 76100 Rouen : de 1947 à 1997.
 
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome du Havre, 76600 Le Havre : depuis 1947.
 
@@ -1181,6 +1229,8 @@ TRAVISOL/NORISOLEC/ISOMARBAT :
 UIE (plate-forme) :
 
 - 76600 Le Havre : de 1970 à 1978.
+
+Union industrielle, hameau de Crétot, 76110 Goderville, de 1980 à 1983.
 
 Union maritime, 10, quai Bois-Guilbert, 76000 Rouen, de 1960 à 1969.
 
@@ -1305,6 +1355,12 @@ BURG Industrie 6, rue de Méric, 57000 Metz. De 1992 à 1994.
 DHIM, 21, rue du Général-Gauchois, 57150 Creutzwald, de 1970 à 1976.
 
 Société Construction maintenance industrielle (CMI), 1, rue du Général-Mangin, 57000 Metz : de 1970 à 1975.
+
+Martinique
+
+Delattre-Levivier, agence des Antilles/SA Delattre-Levivier Martinique/Delattre-Levivier Martinique SA,
+
+bassin de radoub, 97200 Fort-de-France, depuis 1970.
 
 Nord - Pas-de-Calais
 
@@ -1719,6 +1775,8 @@ Société dunkerquoise de remorquage et de sauvetage Les Abeilles :
 - 2, quai du Départ, 59140 Dunkerque : depuis 1970.
 
 Société Dutilleul Jean-Pierre (SDJP). 140, avenue Sarraz-Bournet, 62480 Le Portel. De 1984 à 1988.
+
+Société européenne de mécanique, rue Vancauwenberghe, ZI de Petite Synthe, 59640 Dunkerque, Petite-Synthe, de 1989 à 1993.
 
 SERMIN/Société d'exploitation des établissements SERMIN/Société nouvelle SERMIN :
 
