@@ -51,3 +51,23 @@ Portugal
 Royaume-Uni
 
 Certificate of completion of specialist training (certificat de formation spécialisée), délivré par l'autorité compétente habilitée à cet effet.
+
+Autriche
+
+Facharztdiplom (diplôme de médecin spécialiste), délivré par les autorités compétentes.
+
+Finlande
+
+Todistus erikoislääkärin oikeudesta/bevis om specialisträttigheten (certificat de médecin spécialiste), délivré par les autorités compétentes.
+
+Islande
+
+Sérfroileyfi (certificat de médecin spécialiste), délivré par le ministère de la santé.
+
+Norvège
+
+Bevis for tillatelse til à benytte spesialisttittelen (certificat conférant le droit d'utiliser le titre de spécialiste), délivré par les autorités compétentes.
+
+Suède
+
+Bevis om specialistkompetens som läkare av socialstyrelsen (certificat conférant le droit d'utiliser le titre de spécialiste), délivré par le Conseil national de la santé et du bien-être.

@@ -12,7 +12,9 @@ Allemagne : Pathologie.
 
 Belgique : Anatomie pathologique/pathologische anatomie.
 
-Danemark : Patologisk anatomi og histologi eller vaevsundersogelse.<DA Espagne : Anatomia patologica.
+Danemark : Patologisk anatomi og histologi eller vaevsundersogelse.
+
+Espagne : Anatomia patologica.
 
 Grèce : Pavologikh anatomikh.
 
@@ -27,6 +29,16 @@ Pays-Bas : Pathologische anatomie.
 Portugal : Anatomia patologica.
 
 Royaume-Uni : Morbid anatomy and histopathology.
+
+Autriche : Pathologie.
+
+Finlande : patologia, patologi.
+
+Islande : Lifframeinafroi.
+
+Norvège : patologi.
+
+Suède : klinisk patologi.
 
 France
 
@@ -54,6 +66,16 @@ Portugal : Anestesiologia.
 
 Royaume-Uni : Anesthetics.
 
+Autriche : Anästhesiologie.
+
+Finlande : anestesiologia, anestesiologi.
+
+Islande : svfingalkningar.
+
+Norvège : anestesiologi.
+
+Suède : anestesiologi.
+
 France
 
 Biologie médicale (rubrique européenne : "Biologie clinique").
@@ -65,6 +87,8 @@ Espagne : Analisis clinicos.
 Italie : Patologia diagnostica di laboratorio.
 
 Portugal : Patologia clinica.
+
+Autriche : Medizinische Biologie.
 
 France : chirurgie générale (rubrique européenne : Chirurgie générale ;
 
@@ -90,6 +114,16 @@ Portugal : cirurgia geral ;
 
 Royaume-Uni : general surgery.
 
+Autriche : Chirurgie.
+
+Finlande : kirurgia, kirurgi.
+
+Islande : almennar skurolkningar.
+
+Norvège : genereill kirurgi.
+
+Suède : allmän kirurgi.
+
 France
 
 Chirurgie infantile (rubrique européenne : "Chirurgie pédiatrique").
@@ -103,6 +137,14 @@ Italie : Chirurgia pediatrica.
 Luxembourg : Chirurgie pédiatrique.
 
 Royaume-Uni : Paediatric surgery.
+
+Finlande : lastenkirurgia, barnkirurgi.
+
+Islande : barnaskurolkningar.
+
+Norvège : barnekirurgi.
+
+Suède : barnkirurgi.
 
 France
 
@@ -130,7 +172,7 @@ Grèce : Sruopedinkh.
 
 Irlande : Orthopaedic surgery.
 
-ItalieOrtopedia e traumatologia.
+Italie : Ortopedia e traumatologia.
 
 Luxembourg : Orthopédie.
 
@@ -139,6 +181,16 @@ Pays-Bas : Orthopedie.
 Portugal : Ortopedia.
 
 Royaume-Uni : Orthopaedic surgery.
+
+Autriche : Orthopädie und orthopädische Chirurgie.
+
+Finlande : ortopedia ja traumatologia, ortopedi och tramatologi.
+
+Islande : bklunarskurolkningar.
+
+Norvège : ortopedisk kirurgi.
+
+Suède : ortopedisk kirurgi.
 
 France
 
@@ -164,6 +216,16 @@ Portugal : Cirugia plastica.
 
 Royaume-Uni : Plastic surgery.
 
+Autriche : Phatische Chirurgie.
+
+Finlande : plastiikkakirurgia, plastikkirurgi.
+
+Islande : ltalkningar.
+
+Norvège : plastikkirurgi.
+
+Suède : plastikkirurgi.
+
 France Chirurgie thoracique et cardio-vasculaire (rubrique européenne : "Chirurgie thoracique").
 
 Belgique : Chirurgie thoracique - heelkunde op de thorax.
@@ -185,6 +247,14 @@ Pays-Bas : Cardio-pulmonale chirurgie.
 Portugal : Cirurgia toracica.
 
 Royaume-Uni : Thoracic surgery.
+
+Finlande : thorax-ja verisuonikirurgia, thorax-och kärlkirurgi.
+
+Islande : brjojstholsskurolkningar.
+
+Norvège : thoraxkirurgi.
+
+Suède : thoraxkirurgi.
 
 France
 
@@ -212,6 +282,16 @@ Portugal : Urologia.
 
 Royaume-Uni : Urology.
 
+Autriche : Urologie.
+
+Finlande : urologia, urologi.
+
+Islande : bvagfraskurolkningar.
+
+Norvège : urologi.
+
+Suède : urologisk kirurgi.
+
 France
 
 Chirurgie vasculaire (rubrique européenne : "Chirurgie des vaisseaux").
@@ -224,6 +304,10 @@ Luxembourg : Chirurgie cardio-vasculaire.
 
 Pays-Bas : Chirurgie vanbloedvaten.
 
+Islande : oskurolkningar.
+
+Norvège : karkirurgi.
+
 France
 
 Chirurgie viscérale (rubrique européenne : "Chirurgie gastro-entérologique").
@@ -233,6 +317,10 @@ Belgique : Chirurgie abdominale - keelkunde op het abdomen.
 Danemark : Kirurgisk gastroenterologi eller kirurgiske mave-tarmsygdomme.
 
 Italie : Chirurgia dell'apparato digerente.
+
+Finlande : gastroenterologia, gastroenterologi.
+
+Norvège : gastroenterologisk kirurgi.
 
 France
 
@@ -258,6 +346,16 @@ Pays-Bas : Dermatologie en venerologie.
 
 Portugal : Dermatovenereologia.
 
+Autriche : haut- und Geschlechtkrankheiten.
+
+Finlande : iho- ja sukupuolitaudit, hud- och könssjukdomar.
+
+Islande : hujo-og kynsjujkdojmalkningar.
+
+Norvège : hud- og veneriske sykdommer.
+
+Suède : hudsjukdomar och veneriska sjukdomar (dermatologi och venerologi).
+
 France
 
 Endocrinologie - maladies métaboliques (rubrique européenne :
@@ -273,6 +371,14 @@ Italie : Endocrinolia.
 Luxembourg : Endocrinologie, maladies du métabolisme et de la nutrition.
 
 Royaume-Uni : Endocrinology and diabetes mellitus.
+
+Finlande : endokrinologia, endokrinologi.
+
+Islande : efnaskipta- og innkirtlalkningar.
+
+Norvège : endokrinologi.
+
+Suède : endokrina sjukdomar.
 
 France
 
@@ -299,6 +405,14 @@ Pays-Bas : Gastro-enterologie.
 Portugal : Gastro-enterologia.
 
 Royaume-Uni : Gastroenterology.
+
+Finlande : gastroenterologia-gastroenterologie.
+
+Islande : meltingarloekningar.
+
+Norvège : fordoyel sessykdommer.
+
+Suède : matsmältningsorganens medicinska sjukdomar (medicinsk gastro-enterologi).
 
 France
 
@@ -328,6 +442,28 @@ Portugal : Ginecologia e obstetricia.
 
 Royaume-Uni : Obstetrics and gynaecology.
 
+Autriche : Frauenheilkunde und Geburtshilfe.
+
+Finlande : naistentaudit ja synnytykset, kvinnosjukdomar och förlossingar.
+
+Islande : Kvenlkningar.
+
+Norvège : Fodselshjelp og kvinnesykdommer.
+
+Suède : kvinnosjukdomar och förlossningar (gynekologi och obstetrik).
+
+France
+
+Hématologie :
+
+Finlande : kliininen hematologia, klinisk hematologi.
+
+Islande : blojomenafroi.
+
+Norvège : blodsykdommer.
+
+Suède : hematologi.
+
 France
 
 Médecine interne (rubrique européenne : "Médecine interne").
@@ -354,6 +490,16 @@ Portugal : Medicina interna.
 
 Royaume-Uni : General medicine.
 
+Autriche  : Innere Medizin.
+
+Finlande : sisätaudit, inremedicin.
+
+Islande : lyflkningar.
+
+Norvège : indremedisin.
+
+Suède : allmän internmedicin.
+
 France
 
 Médecine nucléaire (rubrique européenne : "Médecine nucléaire").
@@ -373,6 +519,10 @@ Pays-Bas : Nucleaire geneeskunde.
 Portugal : Medicina nuclear.
 
 Royaume-Uni : Nuclear medicine.
+
+Autriche : Nuklearmedizin.
+
+Finlande : isotooppitutkimuskset, isotopundersökningar.
 
 France
 
@@ -394,6 +544,16 @@ Portugal : Medicina do trabalho.
 
 Royaume-Uni : Occupational medicine.
 
+Autriche : Arbeitsmedizin.
+
+Finlande : työterveyshuolto, företagshälsovard.
+
+Islande : atvinnulkningar.
+
+Norvège : yrkesmedisin.
+
+Suède : yrkesmedicin.
+
 France
 
 Néphrologie (rubrique européenne : "Maladies rénales").
@@ -407,6 +567,14 @@ Italie : Nefrologia.
 Luxembourg : Néphrologie.
 
 Royaume-Uni : Renal diseases.
+
+Finlande : nefrologia, nefrologi.
+
+Islande : nrnalkningar.
+
+Norvège : nyresykdommer.
+
+Suède : medicinska njursjukdomar (nefrologi).
 
 France Neurochirurgie (rubrique européenne : "Neurochirurgie").
 
@@ -431,6 +599,16 @@ Pays-Bas : Neurochirurgie.
 Portugal : Neurocirurgia.
 
 Royaume-Uni : Neurological surgery.
+
+Autriche : Neurochirurgie.
+
+Finlande : neurokirurgia, neurokirurgi.
+
+Islande : taugaskurolkningar.
+
+Norvège : nevrokirurgi.
+
+Suède : neurokirurgi.
 
 France
 
@@ -458,6 +636,16 @@ Portugal : Neurologia.
 
 Royaume-Uni : Neurology.
 
+Autriche : Neurologie.
+
+Finlande : neurologia, neurologi.
+
+Islande : taugalkningar.
+
+Norvège : nevrologi.
+
+Suède : nervsjukdomar (neurologi).
+
 France
 
 Oncologie, option Radiothérapie (rubrique européenne :
@@ -484,6 +672,14 @@ Portugal : Radioterapia.
 
 Royaume-Uni : Radiotherapy.
 
+Autriche : Radiologie-Strahlentherapie.
+
+Finlande : syöpätaudit ja sädehoito, cancersjukdomar och radioterapi.
+
+Norvège : onkologi.
+
+Suède : tumörsjukdomar (allmän onkologi).
+
 France
 
 Ophtalmologie (rubrique européenne : "Ophtalmologie").
@@ -509,6 +705,16 @@ Pays-Bas : Oogheelkunde.
 Portugal : Oftalmologia.
 
 Royaume-Uni : Ophtalmology.
+
+Autriche : Augenheilkunde.
+
+Finlande : silmätaudit, ögonsjukdomar.
+
+Islande : augnlkningar.
+
+Norvège : oyesykdommer.
+
+Suède : ögonsjukdomar (oftalmologi).
 
 France
 
@@ -538,6 +744,16 @@ Portugal : Otorrinolaringologia.
 
 Royaume-Uni : Otolaryngology.
 
+Autriche : Hals-, Nasen-und Ohrenkrankheiten.
+
+Finlande : korva-, nenä- ja kurkkutaudit, öron-, näs- och strupsjukdomar.
+
+Islande : hàls-, nef- og eynalkningar.
+
+Norvège : ore-nese-halssykdommer.
+
+Suède : öron-, näs- och halssjukdomar (oto-rhino-laryngologi).
+
 France
 
 Pathologie cardio-vasculaire (rubrique européenne :
@@ -563,6 +779,14 @@ Pays-Bas : Cardiologie.
 Portugal : Cardiologia.
 
 Royaume-Uni : Cardio-vasculardiseases.
+
+Finlande : kardiologia, kardiologi.
+
+Islande : hjartalkningar.
+
+Norvège : hjertesykdommer.
+
+Suède : hjärtsjukdomar.
 
 France
 
@@ -590,6 +814,16 @@ Portugal : Pediatra.
 
 Royaume-Uni : Paediatrics.
 
+Autriche : Kinderheilkunde.
+
+Finlande : lastentaudit, barnsjukdomar.
+
+Islande : barnalkningar.
+
+Norvège : barnesykdommer.
+
+Suède : barnaajlderns invärtes sjukdomar (pediatrik).
+
 France
 
 Pneumologie (rubrique européenne : "Médecine des voies respiratoires").
@@ -615,6 +849,16 @@ Pays-Bas : Longziekten en tuberculose.
 Portugal : Pneumologia.
 
 Royaume-Uni : Respiratory Medecine.
+
+Autriche : Lungenkrankheiten.
+
+Finlande : keuhkosairaudet, lungsjukdomar.
+
+Islande : lungnalkningar.
+
+Norvège : lungesykdommer.
+
+Suède : lungsjukdomar (pneumologi).
 
 France
 
@@ -642,6 +886,16 @@ Portugal : Psiquiatria.
 
 Royaume-Uni : Psychiatry.
 
+Autriche : Psychiatrie.
+
+Finlande : psykiatria, psykiatri.
+
+Finlande : geolkningar.
+
+Norvège : psykiatri.
+
+Suède : allmän psykiatri.
+
 France
 
 Radio-diagnostic et imagerie médicale (rubrique européenne :
@@ -668,6 +922,12 @@ Portugal : Radiodiagnostico.
 
 Royaume-Uni : Diagnostic radiology.
 
+Autriche : Radiologie-Diagnostik.
+
+Finlande : radiologia, radiologi.
+
+Suède : röntgendiagnostik.
+
 France
 
 Rééducation et réadaptation fonctionnelles (rubrique européenne : "Physiothérapie").
@@ -687,6 +947,16 @@ Luxembourg : Rééducation et réadaptation fonctionnelles.
 Pays-Bas : Revalidatie.
 
 Portugal : Fisiatria.
+
+Autriche : Physikalische Medizin.
+
+Finlande : fysiatria, fysiatri.
+
+Islande : orku- og endurhfingarlkningar.
+
+Norvège : fysikalsk medisin og rehabilitering.
+
+Suède : medicinsk rehabilitering.
 
 France
 
@@ -712,6 +982,14 @@ Portugal : Reumatologia.
 
 Royaume-Uni : Rheumatology.
 
+Finlande : reumatologia, reumatologi.
+
+Islande : gigtlkningar.
+
+Norvège : revmatologi.
+
+Suède : reumatiska sjukdomar.
+
 France
 
 Santé publique et médecine sociale (rubrique européenne :
@@ -721,3 +999,11 @@ Santé publique et médecine sociale (rubrique européenne :
 Irlande : Community medicine.
 
 Royaume-Uni : Community medicine.
+
+Autriche : Sozialmedizin.
+
+Finlande : terveydenhuolto, hälsovard.
+
+Islande : embttislkningar.
+
+Norvège : samfunnsmedisin.

@@ -1,0 +1,3 @@
+# Article 26
+
+Les responsables des établissements mentionnés à l'article 1er ne doivent accepter aucun ingrédient, matière première, produit intermédiaire ou produit fini dont ils savent ou auraient pu estimer, en tant que professionnel et sur la base des éléments d'information en leur possession, qu'ils sont contaminés par des parasites, des micro-organismes pathogènes, par des substances toxiques ou qu'ils contiennent des corps étrangers, de manière telle qu'ils resteraient impropres à la consommation même après le triage et les autres opérations de préparation ou de transformation hygiéniquement réalisées.

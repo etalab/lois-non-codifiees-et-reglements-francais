@@ -333,6 +333,8 @@
 - [Décret n°95-730 du 10 mai 1995 (DEFP9501495D)](decret-n95-730-du-10-mai-1995-defp9501495d)
 - [Décret n°95-732 du 10 mai 1995 (MAEJ9530041D)](decret-n95-732-du-10-mai-1995-maej9530041d)
 - [Décret n°95-735 du 10 mai 1995 (JUSB9510158D)](decret-n95-735-du-10-mai-1995-jusb9510158d)
+- [Décret n°95-737 du 10 mai 1995 (INTA9500138D)](decret-n95-737-du-10-mai-1995-inta9500138d)
+- [Décret n°95-738 du 10 mai 1995 (ENVN9530036D)](decret-n95-738-du-10-mai-1995-envn9530036d)
 - [Décret n°95-386 du 11 avril 1995 (BUDX9410021D)](decret-n95-386-du-11-avril-1995-budx9410021d)
 - [Décret n°95-39 du 11 janvier 1995 (SPSS9403764D)](decret-n95-39-du-11-janvier-1995-spss9403764d)
 - [Décret n°95-42 du 11 janvier 1995 (LOGC9400083D)](decret-n95-42-du-11-janvier-1995-logc9400083d)
