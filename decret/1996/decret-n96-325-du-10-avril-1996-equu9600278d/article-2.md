@@ -1,6 +1,6 @@
 # Article 2
 
-Cet établissement est chargé de procéder, sur le territoire des communes de Buchelay, Mantes-la-Jolie et Mantes-la-Ville, à toutes opérations de restructuration urbaine de nature à favoriser une politique de développement social urbain ainsi qu'à toutes opérations d'aménagement liées au développement économique et urbain.
+Cet établissement est chargé de procéder, sur le territoire des communes de Buchelay, Chanteloup-les-Vignes, Guerville, Limay, Magnanville, Mantes-la-Jolie, Mantes-la-Ville, Porcheville, Rolleboise et Rosny-sur-Seine à toutes opérations de renouvellement urbain ou de restructuration urbaine de nature à favoriser une politique de développement social urbain ainsi qu'à toutes opérations d'aménagement liées au développement économique et urbain.
 
 Pour l'accomplissement de sa mission, cet établissement est notamment habilité :
 

@@ -1,6 +1,6 @@
 # Article 9
 
-La durée du mandat des administrateurs est de trois ans. Toutefois, le mandat de ceux d'entre eux qui sont désignés par les collectivités territoriales et par le district prend fin de plein droit à expiration du mandat qu'ils exercent au sein de ces collectivités et du district.
+La durée du mandat des administrateurs est de trois ans. Toutefois, le mandat de ceux d'entre eux qui sont désignés par les collectivités territoriales et par la communauté d'agglomération prend fin de plein droit à expiration du mandat qu'ils exercent au sein de ces collectivités et de la communauté d'agglomération.
 
 Le mandat d'administrateur est renouvelable.
 

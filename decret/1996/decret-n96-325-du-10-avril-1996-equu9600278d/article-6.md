@@ -1,31 +1,33 @@
 # Article 6
 
-L'établissement est administré par un conseil d'administration de quatorze membres comprenant :
+L'établissement est administré par un conseil de dix-huit membres composé comme suit :
 
-1° Sept membres représentant l'Etat, désignés à raison de :
+1° Neuf membres représentant l'Etat, désignés à raison de :
 
-- deux membres par le ministre chargé de l'urbanisme ;
+a) Deux membres par le ministre chargé de l'urbanisme ;
 
-- un membre par le ministre chargé du budget ;
+b) Deux membres par le ministre chargé de la ville ;
 
-- un membre par le ministre chargé de l'économie ;
+c) Un membre par le ministre chargé du budget ;
 
-- un membre par le ministre chargé de la ville ;
+d) Un membre par le ministre chargé de l'économie ;
 
-- un membre par le ministre chargé du logement ;
+e) Un membre par le ministre chargé du logement ;
 
-- un membre par le ministre chargé des collectivités locales ;
+f) Un membre par le ministre chargé des collectivités locales ;
 
-2° Sept membres représentant les collectivités territoriales, répartis comme suit :
+g) Un membre par le ministre chargé des transports ;
 
-- le président du conseil régional d'Ile-de-France ou son représentant ;
+2° Neuf membres représentant les collectivités territoriales et l'établissement public de coopération intercommunale intéressés ;
 
-- deux représentants du département des Yvelines, désignés en son sein par le conseil général de ce département ;
+a) Le président du conseil régional d'Ile-de-France ou son représentant désigné par lui au sein du conseil régional ;
 
-- un représentant du district urbain du Mantois, désigné en son sein par le conseil d'administration du district ;
+b) Deux représentants du département des Yvelines désignés en son sein par le conseil général de ce département ;
 
-- un représentant des communes de Buchelay, Mantes-la-Jolie et Mantes-la-Ville, désigné en son sein par le conseil municipal de chacune de ces communes.
+c) Un représentant de la commune de Limay désigné en son sein par le conseil municipal de cette commune ;
 
-Le préfet de la région Ile-de-France, le préfet du département des Yvelines, ou leur représentant, le contrôleur d'Etat ainsi que le secrétaire général des villes nouvelles et le délégué interministériel à la ville assistent de plein droit aux réunions du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
+d) Un représentant de la commune de Chanteloup-les-Vignes désigné en son sein par le conseil municipal de cette commune ;
 
-Le directeur régional de l'équipement, le directeur départemental de l'équipement, ou leur représentant, et l'agent comptable ont accès aux réunions du conseil d'administration.
+e) Quatre représentants de la communauté d'agglomération de Mantes-en-Yvelines, désignés en son sein par le conseil de la communauté d'agglomération.
+
+Le préfet des Yvelines constate, par arrêté publié au recueil des actes administratifs de la préfecture, la composition nominative du conseil d'administration.
