@@ -1,7 +1,7 @@
 # Article 2
 
-Lorsque le médecin est appelé auprès d'un tubiste victime d'un accident, il doit se rendre d'urgence auprès de lui pour lui donner des soins correspondant au type d'accident dont il est victime ou veiller à l'application de tels soins.
+Chaque élément de caisson doit être muni de dispositifs de sécurité afin d'éviter toute élévation accidentelle de la pression intérieure de l'élément ; les dispositifs ne peuvent être en aucun cas des pastilles de sécurité.
 
-Dans un accident de décompression, il lui est rappelé que le danger majeur pour la victime réside dans le retard ou l'insuffisance de la recompression, que cette recompression ne constitue qu'une partie du traitement et doit être complétée par une réanimation et l'application d'une médicamentation.
+Ils doivent être montés sur une tubulure placée à l'extérieur de l'élément. Une vanne à fermeture rapide doit être placée sur cette tubulure entre l'élément du caisson et la soupape tarée.
 
-Il doit en outre éviter de recourir à un caisson de recompression sans sas qui ne permet en aucun cas de traiter convenablement la victime. Seul le caisson de recompression à sas permet de dispenser les soins nécessaires pendant la recompression et toute la durée de la décompression thérapeutique.
+Les diamètres et les résistances de ces dispositifs doivent être tels qu'en aucun cas la pression dans l'élément du caisson ne puisse excéder de plus de 20 p. 100 la valeur de la pression de service.

@@ -1,4 +1,4 @@
-# Arrêté du 1 octobre 1974 fixant les conditions auxquelles doivent satisfaire les caissons de recompression ainsi que leurs modalités d'utilisation.
+# Arrêté du 30 septembre 1974 relatif aux conditions, modalités de qualification des scaphandriers et conditions de leur formation professionnelle.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,4 +8,3 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Article 9](article-9.md)
