@@ -1,8 +1,8 @@
 # Article 15
 
-I. - Est puni de l'amende prévue pour les contraventions de la cinquième classe [*sanctions pénales*]:
+I. - Est puni de l'amende prévue pour les contraventions de la cinquième classe :
 
-1° Le fait de ne pas adresser au préfet les pièces justificatives prévues à l'article 5 dans le délai imparti par cet article ;
+1° Le fait de ne pas afficher le récépissé de déclaration de la vente en liquidation dans les conditions prévues à l'article 3 ;
 
 2° Le fait de ne pas mentionner dans toute publicité relative à une opération de liquidation les indications exigées à l'article 6 ;
 

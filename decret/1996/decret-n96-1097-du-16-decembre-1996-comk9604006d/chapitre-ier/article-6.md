@@ -1,3 +1,5 @@
 # Article 6
 
-Toute publicité relative à une opération de liquidation ne peut porter que sur les produits inscrits à l'inventaire fourni à l'appui de la demande d'autorisation. Elle mentionne la date de délivrance de l'autorisation préfectorale expresse ou, s'il s'agit d'une autorisation implicite, la date de réception de la demande portée sur l'accusé de réception prévu à l'article 2 et la référence de ce document, ainsi que la nature des marchandises sur lesquelles porte l'opération si celle-ci ne concerne pas la totalité des produits de l'établissement.
+La publicité relative à une vente en liquidation ne peut porter que sur les produits inscrits à l'inventaire fourni en annexe à la déclaration préalable mentionnée à l'article 1er.
+
+L'arrêté mentionné à l'article 1er précise également les informations qui doivent figurer dans cette publicité et les modalités de son organisation.

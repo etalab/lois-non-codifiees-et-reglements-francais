@@ -1,11 +1,7 @@
 # Article 5
 
-Dans les six mois à compter de l'obtention de l'autorisation, le bénéficiaire adresse au préfet :
+Le report de la date de la vente en liquidation indiquée dans la déclaration mentionnée à l'article 1er doit faire l'objet d'une information préalable du préfet par lettre recommandée avec demande d'avis de réception, comportant la justification de ce changement.
 
-En cas de cessation d'activité, soit un certificat de radiation du registre du commerce et des sociétés, soit un extrait du même registre justifiant que l'établissement commercial n'est plus exploité ;
+Tout report de cette date supérieur à deux mois donne lieu à une nouvelle déclaration dans les conditions prévues à l'article 1er.
 
-En cas de suspension saisonnière d'activité, une attestation sur l'honneur du chef d'entreprise ou de l'un des dirigeants sociaux confirmant la fermeture de l'établissement pendant une période d'au moins cinq mois ;
-
-En cas de changement d'activité, un extrait du registre du commerce et des sociétés mentionnant le changement d'activité ;
-
-En cas de modification substantielle des conditions d'exploitation, les factures relatives aux travaux réalisés ou toutes autres pièces justificatives.
+Dès qu'il en a connaissance, le déclarant est tenu d'informer le préfet par lettre recommandée avec demande d'avis de réception de toute modification de l'événement motivant la liquidation mentionné au deuxième alinéa de l'article L. 310-1 du code de commerce.
