@@ -1,0 +1,3 @@
+# Article 4-2
+
+Les contrats mentionnés à l'article 4 et aux I, II et III de l'article 4-1 peuvent prendre la forme d'accords-cadres ayant pour objet de fixer le contenu des contrats particuliers à passer au cours d'une période donnée et notamment les prix et, le cas échéant, les quantités envisagées. Ces accords sont conclus pour les fournitures, les travaux ou chaque catégorie de services, dans les mêmes conditions que les contrats susvisés. Un décret en Conseil d'Etat précise, en tant que de besoin, les conditions auxquelles est subordonnée la conclusion de ces accords, de manière à éviter qu'il y soit recouru de façon abusive avec effet d'empêcher, de restreindre ou de fausser la concurrence.
