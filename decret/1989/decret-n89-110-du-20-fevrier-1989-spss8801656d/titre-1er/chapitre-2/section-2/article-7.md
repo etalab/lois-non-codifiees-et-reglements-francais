@@ -1,0 +1,3 @@
+# Article 7
+
+Pour la mise en oeuvre de l'article 6 de la loi susvisée, les articles R. 351-1 (à l'exception du membre de phrase : " au titre de la législation sur les assurances sociales " et des mots : " rente ou allocation aux vieux travailleurs salariés "), R. 351-2, R. 351-3 (1°), R. 351-4, R. 351-5 (1er alinéa), R. 351-6, R. 351-7 et R. 351-38 du code de la sécurité sociale sont applicables à Saint-Pierre-et-Miquelon. La référence au régime général figurant dans les articles R. 351-6 et R. 351-7 est remplacée par la référence au régime local. Il appartient à la caisse de prévoyance sociale de faire la demande prévue à l'article R. 351-38 du code de la sécurité sociale auprès des autres régimes.
