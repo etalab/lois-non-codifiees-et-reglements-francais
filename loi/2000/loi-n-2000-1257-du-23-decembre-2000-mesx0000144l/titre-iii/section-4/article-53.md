@@ -50,9 +50,9 @@ Le fonds intervient devant les juridictions civiles, y compris celles du content
 
 Si le fait générateur du dommage a donné lieu à des poursuites pénales, le juge civil n'est pas tenu de surseoir à statuer jusqu'à décision définitive de la juridiction répressive.
 
-VII. - Le fonds est financé par une contribution de l'Etat, dans les conditions fixées par la loi de finances, et par une contribution de la branche accidents du travail et maladies professionnelles du régime général de la sécurité sociale dont le montant est fixé chaque année par la loi de financement de la sécurité sociale, sur la base d'un rapport d'activité du fonds établi par son conseil d'administration et transmis au Parlement et au Gouvernement.
+VII. - Le fonds est financé par une contribution de l'Etat, dans les conditions fixées par la loi de finances, et par une contribution de la branche accidents du travail et maladies professionnelles du régime général de la sécurité sociale dont le montant est fixé chaque année par la loi de financement de la sécurité sociale, sur la base d'un rapport d'activité du fonds établi par son conseil d'administration et transmis au Parlement et au Gouvernement chaque année avant le 1er juillet.
 
-VIII. - [*Paragraphe modificateur*]
+VIII. - Paragraphe modificateur.
 
 Les dispositions de l'alinéa précédent ne remettent pas en cause la compétence juridictionnelle pour connaître, en appel ou en cassation, des décisions rendues avant la date de publication du décret mentionné au X du présent article par les commissions instituées par l'article 706-4 du code de procédure pénale.
 
