@@ -555,7 +555,6 @@
 - [Arrêté du 25 novembre 1988 (TRSA8800389A)](arrete-du-25-novembre-1988-trsa8800389a)
 - [Arrêté du 25 novembre 1988 (TRSA8800390A)](arrete-du-25-novembre-1988-trsa8800390a)
 - [Arrêté du 25 octobre 1988 (AGRG8801949A)](arrete-du-25-octobre-1988-agrg8801949a)
-- [Arrêté du 26 août 1988 (AGRG8801544A)](arrete-du-26-aout-1988-agrg8801544a)
 - [Arrêté du 26 août 1988 (AGRG8801545A)](arrete-du-26-aout-1988-agrg8801545a)
 - [Arrêté du 26 avril 1988 (ASEP8800720A)](arrete-du-26-avril-1988-asep8800720a)
 - [Arrêté du 26 avril 1988 (ASES8800738A)](arrete-du-26-avril-1988-ases8800738a)
