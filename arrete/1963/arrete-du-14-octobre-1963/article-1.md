@@ -6,9 +6,7 @@ Pour chacune de ces catégories est calculé un prix de revient théorique globa
 
 Ce prix théorique global de référence est divisé par la surface corrigée totale des logements de la catégorie considérée.
 
-Le résultat de ce calcul est affecté des pourcentages figurant au tableau ci-après :
-
-CATEGORIE DE LOGEMENTS :
+Le résultat de ce calcul est affecté des pourcentages figurant au tableau ci-après : CATEGORIE DE LOGEMENTS :
 
 Programme social de relogement
 
@@ -50,4 +48,4 @@ TAUX minimum : 6
 
 TAUX maximum : 7,9.
 
-Les valeurs minima et maxima obtenues sont révisées le 1er juillet de chaque année, en fonction des variations de l'indice du coût de la construction publié par l'I.N.S.E.E. entre l'indice du quatrième trimestre de l'année de révision et l'indice du quatrième trimestre de l'année antérieure à l'année précédant l'année de révision.
+Les valeurs minima et maxima obtenues sont révisées le 1er juillet de chaque année en fonction des variations de la moyenne sur quatre trimestres de l'indice du coût de la construction publié par l'I.N.S.E.E. Cette moyenne est celle de l'indice à la date de référence et des indices des trois trimestres qui la précèdent. La date de référence de l'indice est celle du quatrième trimestre de l'année précédente.

@@ -1,0 +1,3 @@
+# Article 1
+
+En application des dispositions du troisième alinéa de l'article R. 382-27 du code de la sécurité sociale, les cotisations dues au titre de l'assurance maladie maternité et de l'assurance veuvage et la contribution sociale généralisée à la charge d'un artiste-auteur ne sont pas précomptées si l'intéressé présente à la personne physique ou morale de laquelle il perçoit sa rémunération une attestation délivrée par l'organisme agréé compétent et conforme au modèle ministériel "Revenus artistiques imposables au titre de s bénéfices non commerciaux - attestation annuelle (millésime)", homologué sous le numéro S. 2062.
