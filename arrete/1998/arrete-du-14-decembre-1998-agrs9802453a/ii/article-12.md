@@ -1,0 +1,3 @@
+# Article 12
+
+Peuvent également solliciter leur inscription sur la liste d'aptitude des médecins-conseils chefs de service les médecins qui ont exercé au moins pendant cinq ans les fonctions de médecin-conseil du contrôle médical des régimes agricoles de protection sociale agricole et ayant participé au stage de perfectionnement prévu à l'article 11 ci-dessus qui, au moment du dépôt de leur demande d'inscription, occupent des fonctions de médecin du travail auprès d'une caisse de mutualité sociale agricole ou d'une association spécialisée créée en application de l'article 1000-2 du code rural.

@@ -403,6 +403,8 @@
 - [Décret n°98-369 du 13 mai 1998 (EQUH9701764D)](decret-n98-369-du-13-mai-1998-equh9701764d)
 - [Décret n°98-371 du 13 mai 1998 (MCCB9800066D)](decret-n98-371-du-13-mai-1998-mccb9800066d)
 - [Décret n°98-383 du 13 mai 1998 (MESP9821585D)](decret-n98-383-du-13-mai-1998-mesp9821585d)
+- [Décret n°98-1127 du 14 décembre 1998 (AGRS9802082D)](decret-n98-1127-du-14-decembre-1998-agrs9802082d)
+- [Décret n°98-1128 du 14 décembre 1998 (AGRP9801898D)](decret-n98-1128-du-14-decembre-1998-agrp9801898d)
 - [Décret n°98-31 du 14 janvier 1998 (MCCX9802497D)](decret-n98-31-du-14-janvier-1998-mccx9802497d)
 - [Décret n°98-35 du 14 janvier 1998 (MCCK9700704D)](decret-n98-35-du-14-janvier-1998-mcck9700704d)
 - [Décret n°98-43 du 14 janvier 1998 (ECOB9760045D)](decret-n98-43-du-14-janvier-1998-ecob9760045d)

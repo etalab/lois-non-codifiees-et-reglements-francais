@@ -8,3 +8,4 @@
 - [2. Stupéfiants antidouleurs et autres antidouleurs.](2-stupefiants-antidouleurs-et)
 - [3. Cortisone et autres corticoïdes par voie générale.](3-cortisone-et)
 - [6. Diurétiques et produits masquants.](6-diuretiques-et)
+- [Nouvelle liste des classes de substances interdites et méthodes interdites](nouvelle-liste-des-classes-de-substances-interdites-et)
