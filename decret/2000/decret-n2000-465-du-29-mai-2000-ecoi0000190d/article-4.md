@@ -1,6 +1,6 @@
 # Article 4
 
-Pour les demandes d'indemnité respectant les conditions mentionnées à l'article 3 du présent décret, le préfet fait procéder, sans délai et aux frais de l'Etat, à une expertise. A cette fin il mandate un ou plusieurs experts compétents en matière immobilière, figurant sur la liste des experts agréés auprès de la cour d'appel ; ces derniers peuvent se faire assister par des personnes compétentes dans d'autres domaines.
+Pour les demandes d'indemnité respectant les conditions mentionnées à l'article 3 du présent décret, le préfet fait procéder, dans le délai d'un mois et aux frais de l'Etat, à une expertise. A cette fin il mandate un ou plusieurs experts compétents en matière immobilière, figurant sur la liste des experts agréés auprès de la cour d'appel dans le ressort de laquelle est situé l'immeuble ; ces derniers peuvent se faire assister par des personnes compétentes dans d'autres domaines.
 
 Pour chaque immeuble concerné, les experts ont pour mission :
 
