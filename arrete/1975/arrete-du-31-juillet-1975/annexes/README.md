@@ -6,4 +6,3 @@
 - [Article ANNEXE](article-annexe.md)
 - [MODALITES PRATIQUES DE L'EXAMEN DU PERMIS DE CONDUIRE DE LA CATEGORIE A  5. Les conditions administratives.](modalites-pratiques-de-l-examen-du-permis-de-conduire-de-la-categorie-a)
 - [Procédure radio à utiliser lors des épreuves en circulation : des permis de conduire moto](procedure-radio-a)
-- [PIÈCES JOINTES (1).](pieces-jointes-1)
