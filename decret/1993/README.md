@@ -880,6 +880,7 @@
 - [Décret n°93-127 du 27 janvier 1993 (MENT9204175D)](decret-n93-127-du-27-janvier-1993-ment9204175d)
 - [Décret n°93-128 du 27 janvier 1993 (MENN9203905D)](decret-n93-128-du-27-janvier-1993-menn9203905d)
 - [Décret n°93-129 du 27 janvier 1993 (MENN9203906D)](decret-n93-129-du-27-janvier-1993-menn9203906d)
+- [Décret n°93-1338 du 27 décembre 1993 (PRMG9370724D)](decret-n93-1338-du-27-decembre-1993-prmg9370724d)
 - [Décret n°93-523 du 27 mars 1993 (FPPA9300019D)](decret-n93-523-du-27-mars-1993-fppa9300019d)
 - [Décret n°93-524 du 27 mars 1993 (FPPA9300021D)](decret-n93-524-du-27-mars-1993-fppa9300021d)
 - [Décret n°93-525 du 27 mars 1993 (FPPA9300022D)](decret-n93-525-du-27-mars-1993-fppa9300022d)
