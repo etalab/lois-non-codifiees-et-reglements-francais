@@ -136,6 +136,7 @@
 - [Décret n°2003-978 du 9 octobre 2003 (MENF0301853D)](decret-n2003-978-du-9-octobre-2003-menf0301853d)
 - [Décret n°2003-979 du 9 octobre 2003 (ECOP0300507D)](decret-n2003-979-du-9-octobre-2003-ecop0300507d)
 - [Décret n°2003-982 du 9 octobre 2003 (AGRP0301650D)](decret-n2003-982-du-9-octobre-2003-agrp0301650d)
+- [Décret n°90-126 du 9 février 1990 (INTA9000027D)](decret-n90-126-du-9-fevrier-1990-inta9000027d)
 - [Décret n°2003-420 du 9 mai 2003 (JUSB0310203D)](decret-n2003-420-du-9-mai-2003-jusb0310203d)
 - [Décret n°2003-423 du 9 mai 2003 (PRMX0306614D)](decret-n2003-423-du-9-mai-2003-prmx0306614d)
 - [Décret n°2003-425 du 9 mai 2003 (EQUX0300030D)](decret-n2003-425-du-9-mai-2003-equx0300030d)
