@@ -1,5 +1,7 @@
 # Article 9
 
-La demande de secours exceptionnel de résorption du surendettement n'est instruite par la commission qu'après que celle-ci s'est assurée que le demandeur a formé une demande de traitement de règlement de sa situation de surendettement en application du chapitre Ier du titre III du livre III du code de la consommation et que celle-ci est recevable.
+La commission d'aide instruit le dossier en vue de l'attribution éventuelle d'un secours.
 
-Le secours exceptionnel de résorption du surendettement ne peut être accordé par le ministre chargé des rapatriés que si ce surendettement résulte d'engagements contractés avant le 1er janvier 1994 et dans le seul cas où des mesures de règlement de la situation de surendettement ont été décidées en application du code de la consommation.
+La proposition de secours est prise par le préfet, sur l'avis de ladite commission, et transmise à la commission de surendettement des particuliers, seule compétente pour traiter de la situation de surendettement des personnes physiques.
+
+Le secours ne peut être accordé par le préfet que si ce surendettement résulte d'engagements contractés avant le 1er janvier 1994 et dans le seul cas où la situation de surendettement a été réglée dans le cadre d'un plan conventionnel de redressement amiable négocié par la commission de surendettement des particuliers.

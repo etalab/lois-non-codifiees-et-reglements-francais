@@ -1,7 +1,11 @@
 # Article 8
 
-La demande de secours exceptionnel de résorption du surendettement visé à l'article 9 de la loi du 11 juin 1994 susvisée est instruite par la commission des secours exceptionnels, qui émet un avis.
+La demande de secours exceptionnel de résorption du surendettement visé à l'article 9 de la loi du 11 juin 1994 susvisée est instruite par la commission d'aide au désendettement immobilier des anciens membres des formations supplétives et assimilés, qui siège dans chaque département.
 
-La commission des secours exceptionnels siégeant auprès du service central des rapatriés est composée d'un représentant du ministre de l'intérieur, d'un représentant des ministres de l'économie et du budget et d'un représentant du ministre chargé des rapatriés.
+Sont membres de droit, le préfet ou son représentant, le trésorier-payeur général ou son représentant, l'assistante sociale du département.
 
-Le secrétariat de cette commission est assuré par le service central des rapatriés.
+Sont nommés par arrêté préfectoral, un représentant de la communauté des Français musulmans rapatriés et son suppléant.
+
+La commission est présidée par le préfet, qui a voix prépondérante.
+
+Le secrétariat est assuré par les services de la préfecture.
