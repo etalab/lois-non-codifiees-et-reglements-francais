@@ -1068,6 +1068,7 @@
 - [Décret n°93-1270 du 29 novembre 1993 (EQUU9301163D)](decret-n93-1270-du-29-novembre-1993-equu9301163d)
 - [Décret n°93-1277 du 29 novembre 1993 (MENF9305938D)](decret-n93-1277-du-29-novembre-1993-menf9305938d)
 - [Décret n°93-1281 du 29 novembre 1993 (MCCB9300321D)](decret-n93-1281-du-29-novembre-1993-mccb9300321d)
+- [Décret n°93-1284 du 29 novembre 1993 (AGRE9302078D)](decret-n93-1284-du-29-novembre-1993-agre9302078d)
 - [Décret n°93-131 du 29 janvier 1993 (ENEA9300059D)](decret-n93-131-du-29-janvier-1993-enea9300059d)
 - [Décret n°93-132 du 29 janvier 1993 (ENEH9300060D)](decret-n93-132-du-29-janvier-1993-eneh9300060d)
 - [Décret n°93-141 du 29 janvier 1993 (LOGC9200014D)](decret-n93-141-du-29-janvier-1993-logc9200014d)

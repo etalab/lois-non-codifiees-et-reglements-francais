@@ -7,4 +7,7 @@
 - [Article 42-5](article-42-5.md)
 - [Article 42-6](article-42-6.md)
 - [Article 42-7](article-42-7.md)
+- [Article 42-7-1](article-42-7-1.md)
 - [Article 42-8](article-42-8.md)
+- [Article 42-9](article-42-9.md)
+- [Article 42-13](article-42-13.md)
