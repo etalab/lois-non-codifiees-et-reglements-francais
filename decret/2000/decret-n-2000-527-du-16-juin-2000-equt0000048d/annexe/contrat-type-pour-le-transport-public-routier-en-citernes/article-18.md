@@ -12,4 +12,4 @@ En cas de refus de la marchandise ou de carence du destinataire, le donneur d'or
 
 Sauf si l'empêchement à la livraison est imputable au transporteur, le donneur d'ordre rembourse au transporteur les dépenses justifiées consécutives aux instructions données ou aux mesures prises en application des alinéas précédents. Ces dépenses sont facturées séparément, conformément aux dispositions de l'article 19 ci-après.
 
-En outre, le transporteur perçoit du donneur d'ordre un complément de rémunération pour frais d'immobilisation du véhicule et/ou de l'équipage, et pour les opérations de manutention accomplies, facturé séparément, conformément aux dispositions de l'article 20.
+En outre, le transporteur perçoit du donneur d'ordre un complément de rémunération pour frais d'immobilisation du véhicule et/ou de l'équipage, et pour les opérations de manutention accomplies, facturé séparément, conformément aux dispositions de l'article 19.

@@ -22,7 +22,7 @@ Lorsqu'il y a rendez-vous, un retard de trente minutes est admis par rapport à 
 
 En cas de rendez-vous manqué, ce sont les durées prévues pour "les autres cas" qui sont applicables, majorées de quinze minutes.
 
-Les durées définies aux a, b et c ci-dessus sont suspendues jusqu'à l'heure du rendez-vous ou jusqu'à l'heure du début de la plage horaire convenue par les parties. En l'absence de rendez-vous ou de plage horaire, si ces durées ne sont pas écoulées à 18 heures ou à l'heure de fermeture de l'établissement, elles sont suspendues jusqu'à 8 heures ou jusqu'à l'heure d'ouverture de l'établissement du premier jour ouvrable qui suit.
+Les durées définies aux a, b et c ci-dessus sont suspendues jusqu'à l'heure du rendez-vous ou jusqu'à l'heure du début de la plage horaire convenue par les parties. En l'absence de rendez-vous ou de plage horaire, si ces durées ne sont pas écoulées à 18 heures ou à l'heure de fermeture de l'établissement, elles sont suspendues jusqu'à 8 heures ou jusqu'à l'heure d'ouverture de l'établissement du premier jour ouvrable qui suit sauf si ce délai est incompatible avec la bonne conservation de la marchandise.
 
 En cas de citerne contenant des produits différents, les délais sont augmentés d'un quart d'heure par produit à partir du deuxième dans la limite d'une heure. En cas de chargement ou de déchargement de marchandises dangereuses, les délais visés aux a, b et c ci-dessus sont augmentés d'un quart d'heure pour satisfaire aux obligations mentionnées à l'article 10.
 

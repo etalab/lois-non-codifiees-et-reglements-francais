@@ -24,4 +24,4 @@ En cas de préjudice prouvé résultant d'un retard à la livraison du fait du t
 
 Le donneur d'ordre a toujours la faculté de faire une déclaration d'intérêt spécial à la livraison, qui a pour effet de substituer le montant de cette déclaration au plafond de l'indemnité fixé à l'alinéa précédent.
 
-Sans préjudice de l'indemnité fixée aux deux alinéas précédents, les pertes ou avaries à la marchandise résultant d'un retard sont indemnisées conformément aux dispositions de l'article 24 ci-dessus.
+Sans préjudice de l'indemnité fixée aux deux alinéas précédents, les pertes ou avaries à la marchandise résultant d'un retard sont indemnisées conformément aux dispositions de l'article 23 ci-dessus.

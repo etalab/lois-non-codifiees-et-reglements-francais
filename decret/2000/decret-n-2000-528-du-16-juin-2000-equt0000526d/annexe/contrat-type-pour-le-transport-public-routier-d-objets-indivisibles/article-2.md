@@ -42,6 +42,14 @@ Par prise en charge, on entend la remise physique de la marchandise au transport
 
 Par livraison, on entend la remise physique de la marchandise au destinataire ou à son représentant qui l'accepte.
 
-2.10. Durée de mise à disposition du véhicule.
+2.10. Livraison contre remboursement.
+
+Par livraison contre remboursement, on entend le mandat accessoire du contrat de transport donné par le donneur d'ordre au transporteur qui l'accepte, de se faire remettre concomitamment à la livraison une somme grevant la marchandise. La stipulation d'une livraison contre remboursement ne vaut pas déclaration de valeur.
+
+2.11. Durée de mise à disposition du véhicule.
 
 Par durée de mise à disposition du véhicule, on entend le délai qui s'écoule entre le moment où le véhicule est identifié à son arrivée sur les lieux de chargement ou de déchargement ou dans l'aire d'attente et celui où il est prêt à quitter ces lieux après émargement des documents de transport.
+
+2.12. Laissé pour compte.
+
+Par laissé pour compte, on entend l'envoi dont le destinataire a refusé de prendre livraison pour quelque motif que ce soit et qui est laissé à la disposition du transporteur par le donneur d'ordre, lequel l'analyse en perte totale.

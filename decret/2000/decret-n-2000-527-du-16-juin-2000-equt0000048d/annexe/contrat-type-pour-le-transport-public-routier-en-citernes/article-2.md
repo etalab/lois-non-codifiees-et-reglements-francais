@@ -45,3 +45,7 @@ Par livraison contre remboursement, on entend le mandat accessoire du contrat de
 2.11. Durée de mise à disposition du véhicule.
 
 Par durée de mise à disposition du véhicule, on entend le délai qui s'écoule entre le moment où le véhicule est identifié à son arrivée sur les lieux de chargement ou de déchargement ou dans l'aire d'attente et celui où il est prêt à quitter ces lieux après émargement des documents de transport.
+
+2.12. Laissé pour compte.
+
+Par laissé pour compte, on entend l'envoi dont le destinataire a refusé de prendre livraison pour quelque motif que ce soit et qui est laissé à la disposition du transporteur par le donneur d'ordre, lequel l'analyse en perte totale.
