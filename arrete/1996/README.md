@@ -576,7 +576,6 @@
 - [Arrêté du 14 mai 1996 (TASP9621481A)](arrete-du-14-mai-1996-tasp9621481a)
 - [Arrêté du 14 mai 1996 (TAST9610752A)](arrete-du-14-mai-1996-tast9610752a)
 - [Arrêté du 14 mai 1996 (TAST9610753A)](arrete-du-14-mai-1996-tast9610753a)
-- [Arrêté du 15 avril 1996 (COMC9600002A)](arrete-du-15-avril-1996-comc9600002a)
 - [Arrêté du 15 avril 1996 (DEFT9601412A)](arrete-du-15-avril-1996-deft9601412a)
 - [Arrêté du 15 avril 1996 (DOMP9600028A)](arrete-du-15-avril-1996-domp9600028a)
 - [Arrêté du 15 avril 1996 (ECOT9610268A)](arrete-du-15-avril-1996-ecot9610268a)
