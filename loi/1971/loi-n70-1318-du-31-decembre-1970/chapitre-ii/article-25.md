@@ -2,7 +2,7 @@
 
 Le personnel des établissements d'hospitalisation publics comprend :
 
-1° Des agents titulaires ou stagiaires, y compris les pharmaciens à temps plein, soumis aux dispositions du livre IX du Code de la santé publique ;
+1° Des agents titulaires ou stagiaires, soumis aux dispositions du livre IX du Code de la santé publique ;
 
 2° A titre exceptionnel ou temporaire, des agents contractuels ;
 
