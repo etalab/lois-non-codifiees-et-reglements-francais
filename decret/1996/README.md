@@ -821,7 +821,6 @@
 - [Décret n°96-864 du 27 septembre 1996 (MENN9602144D)](decret-n96-864-du-27-septembre-1996-menn9602144d)
 - [Décret n°96-866 du 27 septembre 1996 (BUDD9650005D)](decret-n96-866-du-27-septembre-1996-budd9650005d)
 - [Décret n°95-1407 du 28 décembre 1995 (AGRP9502120D)](decret-n95-1407-du-28-decembre-1995-agrp9502120d)
-- [Décret n°95-1408 du 28 décembre 1995 (AGRG9502410D)](decret-n95-1408-du-28-decembre-1995-agrg9502410d)
 - [Décret n°95-1409 du 28 décembre 1995 (AVIC9503474D)](decret-n95-1409-du-28-decembre-1995-avic9503474d)
 - [Décret n°96-1035 du 28 novembre 1996 (MIPP9600369D)](decret-n96-1035-du-28-novembre-1996-mipp9600369d)
 - [Décret n°96-1043 du 28 novembre 1996 (MENU9603176D)](decret-n96-1043-du-28-novembre-1996-menu9603176d)
