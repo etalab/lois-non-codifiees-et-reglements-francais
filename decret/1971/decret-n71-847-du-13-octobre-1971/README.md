@@ -2,6 +2,5 @@
 
 - [Article 1](article-1.md)
 - [TITRE I : Personnels des enseignements général, technique et professionnel](titre-i)
-- [TITRE II : Personnels d'inspection.](titre-ii)
 - [TITRE III : Personnels de l'orientation professionnelle.](titre-iii)
 - [TITRE IV : Dispositions diverses.](titre-iv)
