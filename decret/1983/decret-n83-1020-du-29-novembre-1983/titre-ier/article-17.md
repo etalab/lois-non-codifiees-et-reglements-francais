@@ -4,7 +4,7 @@ Pour l'application du troisième alinéa de l'article 10 du code de commerce rel
 
 1° En ce qui concerne le bilan et le compte de résultat établis par les personnes physiques et personnes morales ayant la qualité de commerçant, le total du bilan est fixé 900 000 F, le montant net du chiffre d'affaires à 1 800 000 F et le nombre moyen de salariés permanents employés au cours de l'exercice à sept ;
 
-2° En ce qui concerne l'annexe établie par les personnes morales ayant la qualité de commerçant, le total du bilan est fixé à 5 000 000 F, le montant net du chiffre d'affaires à 10 000 000 F et le nombre moyen de salariés permanents employés au cours de l'exercice à cinquante.
+2° En ce qui concerne l'annexe établie par les personnes morales ayant la qualité de commerçant, le total du bilan est fixé à 10 millions de francs, le montant  net du chiffre d'affaires à 20 millions de francs et le nombre moyen de salariés permanents employés au cours de l'exercice à 50.
 
 Le total du bilan est égal à la somme des montants nets des éléments d'actif.
 

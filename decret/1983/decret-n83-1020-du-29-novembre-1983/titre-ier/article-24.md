@@ -1,6 +1,6 @@
 # Article 24
 
-Outre les informations rendues obligatoires par la loi n° 83-353 du 30 avril 1983, les articles 8 à 23 ci-dessus, l'article 13 du décret n° 71-524 du 1er juillet 1971 et l'article 12 du décret n° 72-665 du 4 juillet 1972, l'annexe doit comporter toutes les informations d'importance significative sur la situation patrimoniale et financière et sur le résultat de l'entreprise. Sous réserve des dispositions de l'article 26, ces informations portent notamment sur les points suivants :
+Outre les informations obligatoires prévues par les articles 9 à 15 du code de commerce, la loi n° 66-537 modifiée du 24 juillet 1966 sur les sociétés commerciales,  les articles 8 à 23 ci-dessus, l'article 13 du décret n° 71-524 du 1er juillet 1971 et l'article 12 du décret n° 72-665 du 4 juillet 1972, l'annexe doit comporter toutes les informations d'importance significative sur la situation patrimoniale et financière et sur le résultat de l'entreprise. Sous réserve des dispositions de l'article 26, ces informations portent notamment sur les points suivants :
 
 1. Les modes et méthodes d'évaluation appliqués aux divers postes du bilan et du compte de résultat ;
 

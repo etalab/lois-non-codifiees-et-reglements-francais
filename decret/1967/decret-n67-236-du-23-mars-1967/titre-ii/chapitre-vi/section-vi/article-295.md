@@ -8,4 +8,4 @@ Dans les quatre mois de la clôture de l'exercice et quinze jours au moins avant
 
 3. Le projet d'affectation du résultat ;
 
-4. Les comptes consolidés annexés aux comptes annuels, s'ils sont disponibles.
+4. Les comptes consolidés, s'ils sont disponibles.

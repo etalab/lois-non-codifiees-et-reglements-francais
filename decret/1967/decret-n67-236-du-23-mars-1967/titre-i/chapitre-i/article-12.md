@@ -1,7 +1,7 @@
 # Article 12
 
-Les comptes annuels, le rapport de gestion, et texte des résolutions proposées sont adressées aux associés, quinze jours au moins avant la réunion de l'assemblée prévue par l'article 16 de la loi sur les sociétés commerciales.
+Pour l'application du deuxième alinéa de l'article 17-1 de la loi sur les sociétés commerciales relatif à la désignation d'un commissaire aux comptes, le total du bilan est fixé à dix millions de francs, le montant hors taxe du chiffre d'affaires à vingt millions de francs et le nombre moyen de salariés à cinquante. Le total du bilan, le montant hors taxe du chiffre d'affaires et le nombre moyen de salariés sont déterminés conformément aux alinéas 2, 3 et 4 de l'article 17 du décret n° 83-1020 du 29 novembre 1983.
 
-Pendant le délai de quinze jours qui précède l'assemblée, l'inventaire est tenu, au siège social, à la disposition des associés, qui peuvent en prendre copie.
+La société n'est plus tenue de désigner un commissaire aux comptes dès lors qu'elle n'a pas dépassé les chiffres fixés pour deux de ces trois critères pendant les deux exercices précédant l'expiration du mandat du commissaire aux comptes.
 
-Les dispositions du présent article ne sont pas applicables lorsque tous les associés sont gérants.
+Dans le cas prévu au troisième alinéa de l'article 17-1 de la loi sur les sociétés commerciales, le commissaire aux comptes est désigné par ordonnance du président du tribunal de commerce statuant en la forme des référés.

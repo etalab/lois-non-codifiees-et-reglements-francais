@@ -16,7 +16,17 @@ a) Les nom, prénom usuel et âge des candidats, leurs références professionne
 
 b) Les emplois ou fonctions occupés dans la société par les candidats et le nombre d'actions de la société dont ils sont titulaires ou porteurs ;
 
-6° S'il s'agit de l'assemblée générale ordinaire prévue à l'article 157 de la loi sur les sociétés commerciales, le bilan, le compte de résultat, l'annexe, le cas échéant, les observations du conseil de surveillance, les rapports des commissaires aux comptes prévus aux articles 103 alinéa 3 et 145 alinéa 3 de ladite loi et à l'article 193 ci-dessous ainsi qu'un tableau présenté conformément au modèle annexé au présent décret et faisant apparaître les les résultats de la société au cours de chacun des cinq derniers exercices ou de chacun des exercices clos depuis la constitution de la société "ou l'absorption par celle-ci d'une autre société" si leur nombre est inférieur à cinq ;
+6° S'il s'agit de l'assemblée générale ordinaire prévue à l'article 157 de la loi sur les sociétés commerciales :
+
+a) Les comptes annuels, les comptes consolidés, le rapport sur la gestion du groupe, un tableau des affectations de résultat précisant notamment l'origine des sommes dont la distribution est proposée ;
+
+b) Un tableau faisant apparaître les résultats de la société au cours de chacun des cinq derniers exercices ou de chacun des exercices clos depuis la constitution de la société ou l'absorption par celle-ci d'une autre société si leur nombre est inférieur à cinq ;
+
+c) Les rapports des commissaires aux comptes  prévus aux articles 103 alinéa 3, 145 alinéa 3, 230-1 et 340-2 de la loi sur les sociétés commerciales et à l'article 193 ci-dessous ;
+
+d) Les observations du conseil de surveillance, s'il y a lieu ;
+
+e) Les sociétés mentionnées aux articles 294 à 298 adressent également aux actionnaires l'inventaire des valeurs mobilières détenues en portefeuille à la clôture de l'exercice ;
 
 7° S'il s'agit d'une assemblée générale ordinaire prévue à l'article 157-1 de la loi sur les sociétés commerciales, le rapport des commissaires visés audit article ;
 
