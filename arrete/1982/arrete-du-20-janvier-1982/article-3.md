@@ -1,11 +1,7 @@
 # Article 3
 
-Sont agréés, à titre précaire et révocable, les organismes suivants pour procéder à des mesures d'intensité globale et à des analyses spectrales des bruits en milieu de travail, pour une période [*durée*] d'un an, à dater du 1er janvier 1982 [*point de départ*] :
+Pour les spécimens sauvages poussant sur le territoire national des espèces citées à l'annexe II, le ramassage ou la récolte, l'utilisation, le transport, la cession à titre gratuit ou onéreux sont soumis à autorisation du ministre chargé de la protection de la nature après avis du comité permanent du conseil national de la protection de la nature.
 
-Bureau d'études acoustiques (Betip), 11, rue Condorcet, 92140 Clamart.
+Cette autorisation vaut autorisation de transport et devra être présentée à toute requête des agents habilités à constater les infractions aux dispositions de la loi n° 76-629 susvisée.
 
-M. Bourguine (Michel), 7 bis, boulevard Louis-Blanc, B.P. 60, 30104 Ales Cedex.
-
-M. Collignon (Olivier), 34, avenue Jean-Perrot, 38100 Grenoble.
-
-Techniques et études de constructions industrialisées (T.E.C.I.), 19, rue Broca, 75240 Paris Cedex 05.
+Les formulaires de demande d'autorisation sont à retirer au ministère chargé de la protection de la nature (direction de la protection de la nature).
