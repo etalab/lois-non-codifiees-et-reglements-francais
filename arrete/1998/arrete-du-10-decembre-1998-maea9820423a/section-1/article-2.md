@@ -8,7 +8,7 @@ La direction générale de l'administration est composée :
 
 - la sous-direction de la gestion des emplois et des carrières ;
 
-- la sous-direction de la formation, des affaires juridiques et sociales et des concours ;
+- la sous-direction de la formation, des concours, des affaires juridiques et sociales ;
 
 - la sous-direction des personnels culturels et de coopération ;
 
