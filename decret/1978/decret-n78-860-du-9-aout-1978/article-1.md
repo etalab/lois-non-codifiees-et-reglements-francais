@@ -1,0 +1,7 @@
+# Article 1
+
+Sont rendus applicables aux établissements d'enseignement privés de la Nouvelle-Calédonie dans les conditions précisées aux articles suivants :
+
+La loi susvisée n° 59-1557 du 31 décembre 1959, modifiée par la loi n° 71-400 du 1er juin 1971 et par la loi susvisée n° 77-1285 du 25 novembre 1977, à l'exception de son article 8 ;
+
+1158   Les décrets susvisés n° 60-385 du 22 avril 1960 ; n° 60-388 du 22 avril 1960 ; n° 60-389 du 22 avril 1960, modifié par les décrets n° 70-793 du 9 septembre 1970 et n° 78-247 du 8 mars 1978 ; n° 60-390 du 22 avril 1960, modifié par les décrets n° 70-794 du 9 septembre 1970 et n° 78-248 du 8 mars 1978, à l'exception de son article 1er ; n° 60-745 du 28 juillet 1960, modifié par les décrets n° 64-217 du 10 mars 1964, n° 70-795 du 9 septembre 1970 et n° 78-249 du 8 mars 1978 ; n° 60-746 du 28 juillet 1960, modifié par les décrets n° 64-217 du 10 mars 1964, n° 70-796 du 9 septembre 1970, n° 75-841 du 9 septembre 1975 et n° 78-250 du 8 mars 1978 ; n° 61-246 du 15 mars 1961, à l'exception de son article 6 ; n° 64-217 du 10 mars 1964, modifié par les décrets n° 65-274 du 12 avril 1965, n° 66-664 du 3 septembre 1966, n° 70-797 du 9 septembre 1970 et n° 78-251 du 8 mars 1978, à l'exception de son article 14 ; n° 66-665 du 3 septembre 1966 ; n° 70-1135 du 8 décembre 1970 ; n° 72-23 du 10 janvier 1972 ; n° 78-252 du 8 mars 1978 ; n° 78-253 du 8 mars 1978 ; n° 78-404 du 17 mars 1978 et n° 78-405 du 17 mars 1978.
