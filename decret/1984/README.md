@@ -135,7 +135,6 @@
 - [Décret n°84-695 du 17 juillet 1984](decret-n84-695-du-17-juillet-1984)
 - [Décret n°84-705 du 17 juillet 1984](decret-n84-705-du-17-juillet-1984)
 - [Décret n°84-706 du 17 juillet 1984](decret-n84-706-du-17-juillet-1984)
-- [Décret n°84-710 du 17 juillet 1984](decret-n84-710-du-17-juillet-1984)
 - [Décret n°84-738 du 17 juillet 1984](decret-n84-738-du-17-juillet-1984)
 - [Décret n°84-932 du 17 octobre 1984](decret-n84-932-du-17-octobre-1984)
 - [Décret n°84-935 du 17 octobre 1984](decret-n84-935-du-17-octobre-1984)
