@@ -1,0 +1,3 @@
+# Article 11
+
+En ce qui concerne les officiers de sapeurs-pompiers professionnels, les décisions mentionnées au premier alinéa de l'article 40, au deuxième alinéa de l'article 41, aux articles 51, 64, 76, 80, 89, au septième alinéa de l'article 90, au deuxième alinéa de l'article 91 et à l'article 96 de la loi n° 84-53 du 26 janvier 1984 sont prononcées par les autorités investies du pouvoir de nomination prévues par les dispositions de l'article 56 de la loi n° 82-213 du 2 mars 1982 et celles de l'article 17 de la loi n° 87-565 du 22 juillet 1987 et des articles 18 et 22 du décret n° 88-623 du 6 mai 1988.
