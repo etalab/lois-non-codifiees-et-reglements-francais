@@ -1,0 +1,3 @@
+# Article 3
+
+L'organisme d'examen élabore des procédures pour l'élaboration des questionnaires pour les épreuves écrites et les modalités d'examen de l'épreuve orale, la désignation des jurys, la correction des épreuves, la communication des résultats aux candidats et la procédure de révision éventuelle. Ces procédures indiquent aussi les objectifs poursuivis par chaque épreuve et notamment la nature et l'étendue des connaissances ou compétence que celle-ci est destinée à vérifier. Ces procédures et modalités d'examen seront soumises et devront être approuvées par l'administration. Elles seront communiquées aux candidats lors de leur inscription. Les questionnaires pourront être transmis à l'administration à sa demande.
