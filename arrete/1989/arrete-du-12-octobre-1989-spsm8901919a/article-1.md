@@ -2,7 +2,7 @@
 
 En application du décret n° 89-739 du 12 octobre 1989 susvisé, il est organisé chaque année et à compter de l'année universitaire 1991-1992 un concours d'internat en pharmacie dans le cadre des circonscriptions telles qu'elles sont définies par l'article 53 de la loi du 12 novembre 1968 modifiée susvisée, dont les modalités sont décrites ci-après.
 
-L'organisation des épreuves nationales d'admissibilité est placée sous la responsabilité d'un préfet de région désigné conjointement par le ministre chargé de l'éducation nationale et le ministre chargé de la santé. Les épreuves se déroulent en un lieu unique choisi par le préfet susmentionné.
+L'organisation des épreuves nationales d'admissibilité est placée sous la responsabilité du ministre chargé de la santé, qui choisit le lieu unique où se déroulent les épreuves.
 
 Les épreuves d'admission se déroulent dans sept centres examen situés dans les circonscriptions mentionnées au premier alinéa du présent article dont les préfets de région sont chargés de l'organisation matérielle des épreuves désignées ci-après. Ils peuvent se faire assister, en tant que de besoin, par les médecins inspecteurs régionaux de la santé et les pharmaciens inspecteurs régionaux de la santé concernés.
 

@@ -14,7 +14,7 @@ Urne 4 - Les noms de deux membres sont tirés au sort parmi les noms de biologis
 
 Après désignation des membres titulaires, il est procédé au tirage au sort des membres suppléants en nombre au moins égal à celui des titulaires et selon la même procédure.
 
-Les opérations de tirage au sort sont organisées par le directeur régional des affaires sanitaires et sociales visé à l'article 1er du présent arrêté.
+Les opérations de tirage au sort sont organisées par les directeurs des directions régionales des affaires sanitaires et sociales visés à l'article 1er du présent arrêté.
 
 Le tirage au sort des jurys a lieu au maximum quinze jours avant la date fixée pour le début des épreuves.
 

@@ -20,4 +20,4 @@ Une déclaration sur l'honneur par laquelle il s'engage à se conformer au règl
 
 Un extrait n° 3 du casier judiciaire datant de moins de trois mois.
 
-La liste des candidats autorisés à concourir est arrêtée par le préfet de région responsable de l'organisation des épreuves d'admissibilité et est affichée au siège de chaque direction régionale des affaires sanitaires et sociales visée à l'article 1er.
+La liste des candidats autorisés à concourir est arrêtée par le ministre chargé de la santé et est affichée au Centre national des concours de l'internat et au siège de chaque direction régionale des affaires sanitaires et sociales visée à l'article 1er.

@@ -22,6 +22,7 @@
 - [Décret n°98-785 du 1 septembre 1998 (EQUU9800120D)](decret-n98-785-du-1-septembre-1998-equu9800120d)
 - [Décret n°98-786 du 1 septembre 1998 (AGRS9801521D)](decret-n98-786-du-1-septembre-1998-agrs9801521d)
 - [Décret n°98-880 du 1 octobre 1998 (ECOT9820071D)](decret-n98-880-du-1-octobre-1998-ecot9820071d)
+- [Décret n°98-886 du 1 octobre 1998 (MENF9802098D)](decret-n98-886-du-1-octobre-1998-menf9802098d)
 - [Décret n°92-1128 du 2 octobre 1992 (RESY9200447D)](decret-n92-1128-du-2-octobre-1992-resy9200447d)
 - [Décret n°98-1 du 2 janvier 1998 (ECOT9710320D)](decret-n98-1-du-2-janvier-1998-ecot9710320d)
 - [Décret n°98-122 du 2 mars 1998 (ECOP9800009D)](decret-n98-122-du-2-mars-1998-ecop9800009d)

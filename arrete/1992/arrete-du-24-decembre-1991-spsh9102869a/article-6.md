@@ -52,6 +52,6 @@ Deuxième et troisième épreuves. - La correction de l'épreuve d'exercices d'a
 
 Quatrième épreuve. - La correction de l'épreuve rédactionnelle est effectuée, en double correction indépendante, par deux membres du jury. Une divergence des notes au-delà d'un seuil fixé au préalable par le jury appelle une nouvelle double correction. Le président affecte la note retenue.
 
-Cinquième épreuve. - La correction de l'épreuve de dossiers est effectuée par le jury qui établit une grille de correction. Chaque dossier est corrigé en double correction indépendante. La note est déterminée par la moyenne des deux corrections. Si elles divergent au-delà d'un seuil fixé au préalable par le jury, une nouvelle double correction est réalisée et le président affecte la note retenue.
+Pour l'épreuve d'étude de dossiers, un sujet comportant deux dossiers est fourni au jury par le conseil scientifique du Centre national des concours de l'internat.
 
 Des propositions de réponses pour les épreuves un, deux et cinq sont transmises au jury par le Centre national des concours d'internat. Le jury peut décider d'annuler une ou plusieurs questions si elles lui paraissent ne pas devoir être prises en compte. Pour les épreuves un et deux cette annulation ne peut intervenir qu'au moment de la délibération.

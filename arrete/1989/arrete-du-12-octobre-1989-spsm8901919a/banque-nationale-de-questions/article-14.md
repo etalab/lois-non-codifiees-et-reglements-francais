@@ -4,4 +4,4 @@ Conformément aux dispositions de l'article 4 ci-dessus, il est créé au Centre
 
 Cette banque comprend des questions à choix multiple (Q.C.M.), des exercices d'application et des dossiers thérapeutiques et biologiques.
 
-La constitution de cette banque est assurée par le conseil scientifique et pédagogique du C.N.C.I.. La gestion de cette banque est assurée par l'unité administrative du C.N.C.I..
+La constitution de cette banque est assurée par le conseil scientifique et pédagogique du C.N.C.I..

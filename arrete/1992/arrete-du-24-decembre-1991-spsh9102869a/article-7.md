@@ -14,11 +14,9 @@ Quatrième urne. - Les noms de deux membres sont tirés au sort parmi les noms d
 
 Après désignation des membres titulaires, il est procédé au tirage au sort des membres suppléants en nombre au moins égal à celui des titulaires et selon la même procédure.
 
-Les opérations de tirage au sort sont organisées par le directeur régional des affaires sanitaires et sociales visé à l'article 1er du présent arrêté.
+Les opérations de tirage au sort sont organisées par le ministre chargé de la santé.
 
 Le tirage au sort des jurys a lieu au maximum quinze jours avant la date fixée pour le début des épreuves.
-
-Les candidats doivent être informés par un avis affiché au siège de la direction régionale des affaires sanitaires et sociales au moins quinze jours à l'avance des lieu, date et heure de ces tirages au sort afin de pouvoir y assister. En cas de besoin, le directeur régional des affaires sanitaires et sociales organisateur peut limiter le nombre des candidats admis à assister au tirage au sort sans que le nombre retenu puisse être supérieur à cinq. Le cas échéant, un tirage au sort détermine ceux des candidats présents qui peuvent assister au tirage au sort des membres du jury.
 
 Nul ne peut siéger dans le courant de la même année dans le jury prévu par le présent arrêté et dans le jury défini par l'arrêté du 12 octobre 1989 susvisé.
 
