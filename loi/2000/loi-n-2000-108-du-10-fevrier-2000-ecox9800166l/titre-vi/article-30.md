@@ -8,6 +8,6 @@ La commission peut employer des fonctionnaires en position d'activité ou de dé
 
 La commission perçoit, le cas échéant, des rémunérations pour services rendus.
 
-La commission propose au ministre chargé de l'énergie, lors de l'élaboration du projet de loi de finances, les crédits nécessaires, outre les ressources mentionnées à l'alinéa précédent, à l'accomplissement de ses missions. Ces crédits sont inscrits au budget général de l'Etat. Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne sont pas applicables à leur gestion. Le président de la commission est ordonnateur des recettes et des dépenses. La commission est soumise au contrôle de la Cour des comptes.
+La Commission de régulation de l'énergie dispose de la personnalité morale et de l'autonomie financière. Son budget est arrêté par le collège sur proposition du directeur général. Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne lui sont pas applicables.
 
 Pour l'accomplissement des missions qui sont confiées à la Commission de régulation de l'énergie, le président de la commission a qualité pour agir en justice.
