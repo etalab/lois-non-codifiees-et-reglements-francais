@@ -1,34 +1,20 @@
 # Article 2
 
-Les intermédiaires agréés [*définition*] mentionnés aux 1 et 5 de l'article 66 de la loi du 29 décembre 1982 susvisée sont :
+Les intermédiaires agréés mentionnés aux 1 et 5 de l'article 66 de la loi du 29 décembre 1982 susvisée sont :
 
-1° Les agents de change ;
+1° La Banque de France ;
 
-La Banque française du commerce extérieur ;
+La Caisse des dépôts et consignations ;
 
-La Banque de France ;
+Les établissements de crédit ;
 
-Les banques inscrites ;
+Les agents de change ;
 
-La Caisse centrale des banques populaires et les banques populaires agréées par elle ;
-
-La Caisse centrale de crédit coopératif ;
-
-La Caisse centrale du Crédit mutuel et les caisses fédérales du Crédit mutuel ;
-
-La Caisse des dépôts et consignations pour ses opérations et pour celles des caisses d'épargne réalisées dans le cadre de leurs statuts ;
-
-La Caisse nationale de Crédit agricole et les caisses régionales de Crédit agricole mutuel ;
-
-Le Crédit foncier communal d'Alsace et de Lorraine ;
-
-Le Crédit foncier de France ;
-
-Les établissements financiers autorisés à effectuer des opérations sur titres.
+Les établissements visés à l'article 99 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit.
 
 2° Les entreprises gérant des valeurs acquises dans le cadre de la législation sur les plans d'épargne d'entreprise ou de l'actionnariat des salariés ;
 
-Les sociétés dont les actions ne sont pas cotées ou ne sont pas assimilées à des actions cotées pour la souscription de celles-ci ;
+Les sociétés dont les actions ne ne sont pas cotées ou ne sont pas assimilées à des actions cotées pour la souscription de celles-ci ;
 
 Les sociétés à responsabilité limitée pour la souscription de leurs parts ;
 
