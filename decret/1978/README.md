@@ -47,6 +47,7 @@
 - [Décret n°78-457 du 17 mars 1978](decret-n78-457-du-17-mars-1978)
 - [Décret n°78-774 du 17 juillet 1978](decret-n78-774-du-17-juillet-1978)
 - [Décret n°78-609 du 17 mai 1978](decret-n78-609-du-17-mai-1978)
+- [Décret n°78-1016 du 18 octobre 1978](decret-n78-1016-du-18-octobre-1978)
 - [Décret n°78-831 du 19 juillet 1978](decret-n78-831-du-19-juillet-1978)
 - [Décret n°78-353 du 20 mars 1978](decret-n78-353-du-20-mars-1978)
 - [Décret n°78-394 du 20 mars 1978](decret-n78-394-du-20-mars-1978)
