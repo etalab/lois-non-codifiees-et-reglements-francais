@@ -16,7 +16,7 @@ Caisse autonome nationale de sécurité sociale dans les mines :
 
 1,64 p. 100 ;
 
-Assurance maladie des marins salariés du commerce de la pêche et de la plaisance : 0,42 p. 100 ;
+Assurance maladie des marins salariés du commerce de la pêche et de la plaisance : 0,41 p. 100 ;
 
 Régie autonome des transports parisiens : 0,28 p. 100 ;
 

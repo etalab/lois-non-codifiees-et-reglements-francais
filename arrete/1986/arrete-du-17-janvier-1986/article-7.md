@@ -1,13 +1,3 @@
 # Article 7
 
-Le remplacement des représentants de l'administration, titulaires et suppléants, venant à cesser leurs fonctions au cours de la période de quatre  années susvisée s'effectue dans les conditions définies aux articles 3 et 6 ci-dessus.
-
-Le remplacement des représentants du personnel se trouvant dans l'impossibilité d'exercer leurs fonctions s'effectue dans les conditions ci-après :
-
-S'il s'agit d'un représentant titulaire, le premier suppléant de la liste au titre de laquelle il a été élu est nommé titulaire et remplacé par le premier candidat non élu de la même liste ;
-
-S'il s'agit d'un représentant suppléant, il est remplacé par le premier candidat non élu de la même liste.
-
-Le mandat des membres remplaçants expire lors du renouvellement de la commission consultative paritaire.
-
-Lorsqu'une liste se trouve dans l'impossibilité de pourvoir, dans les conditions prévues aux trois alinéas précédents, aux sièges de membres titulaires ou de membres suppléants auxquels elle a droit, l'organisation syndicale ayant présenté la liste désigne son représentant parmi les agents contractuels relevant de la commission, éligibles au moment où se fait la désignation, pour la durée du mandat restant à courir.
+Les modalités prévues à l'article 2 ne sont pas applicables dans le cas où une fédération regrouperait, au niveau national, toutes les associations départementales ou interdépartementales agréées de pêcheurs professionnels en eau douce. Cette fédération sera habilitée à désigner, dans les conditions prévues aux articles 3 et 4, les représentants de ces associations au conseil d'administration du Conseil supérieur de la pêche. Le président de cette fédération fait connaître au ministre chargé de la pêche en eau douce le nom des représentants que les associations départementales ou interdépartementales agréées de pêcheurs professionnels en eau douce proposent pour les représenter au conseil d'administration du conseil supérieur de la pêche.
