@@ -487,7 +487,6 @@
 - [Décret n°94-410 du 17 mai 1994 (INDA9400433D)](decret-n94-410-du-17-mai-1994-inda9400433d)
 - [Décret n°94-411 du 17 mai 1994 (EQUK9400834D)](decret-n94-411-du-17-mai-1994-equk9400834d)
 - [Décret n°94-412 du 17 mai 1994 (BUDD9450006D)](decret-n94-412-du-17-mai-1994-budd9450006d)
-- [Décret n°94-413 du 17 mai 1994 (BUDF9410042D)](decret-n94-413-du-17-mai-1994-budf9410042d)
 - [Décret n°94-436 du 17 mai 1994 (MAEX9430025D)](decret-n94-436-du-17-mai-1994-maex9430025d)
 - [Décret n°89-902 du 18 décembre 1989 (MENT8902456D)](decret-n89-902-du-18-decembre-1989-ment8902456d)
 - [Décret n°94-1016 du 18 novembre 1994 (PRMG9470363D)](decret-n94-1016-du-18-novembre-1994-prmg9470363d)
