@@ -86,6 +86,7 @@
 - [Décret n°98-442 du 5 juin 1998 (INTE9800121D)](decret-n98-442-du-5-juin-1998-inte9800121d)
 - [Décret n°98-443 du 5 juin 1998 (ECOP9800257D)](decret-n98-443-du-5-juin-1998-ecop9800257d)
 - [Décret n°98-445 du 5 juin 1998 (ATEN9860050D)](decret-n98-445-du-5-juin-1998-aten9860050d)
+- [Décret n°98-454 du 5 juin 1998 (MAEA9820047D)](decret-n98-454-du-5-juin-1998-maea9820047d)
 - [Décret n°98-5 du 5 janvier 1998 (MESG9711541D)](decret-n98-5-du-5-janvier-1998-mesg9711541d)
 - [Décret n°98-6 du 5 janvier 1998 (DEFC9750027D)](decret-n98-6-du-5-janvier-1998-defc9750027d)
 - [Décret n°98-7 du 5 janvier 1998 (EQUX9700169D)](decret-n98-7-du-5-janvier-1998-equx9700169d)
