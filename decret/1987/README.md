@@ -239,7 +239,6 @@
 - [Décret n°87-852 du 19 octobre 1987 (MENL8700630D)](decret-n87-852-du-19-octobre-1987-menl8700630d)
 - [Décret du 20 janvier 1948](decret-du-20-janvier-1948)
 - [Décret n°87-184 du 20 mars 1987 (INTF8700088D)](decret-n87-184-du-20-mars-1987-intf8700088d)
-- [Décret n°87-190 du 20 mars 1987 (MERG8700012D)](decret-n87-190-du-20-mars-1987-merg8700012d)
 - [Décret n°87-196 du 20 mars 1987 (ECOP8700089D)](decret-n87-196-du-20-mars-1987-ecop8700089d)
 - [Décret n°87-30 du 20 janvier 1987](decret-n87-30-du-20-janvier-1987)
 - [Décret n°87-682 du 20 août 1987 (ECOX8798377D)](decret-n87-682-du-20-aout-1987-ecox8798377d)
