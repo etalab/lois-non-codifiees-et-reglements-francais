@@ -1155,7 +1155,6 @@
 - [Arrêté du 28 décembre 1992 (SPSS9203347A)](arrete-du-28-decembre-1992-spss9203347a)
 - [Arrêté du 28 décembre 1992 (SPSS9203349A)](arrete-du-28-decembre-1992-spss9203349a)
 - [Arrêté du 28 décembre 1992 (SPSS9203350A)](arrete-du-28-decembre-1992-spss9203350a)
-- [Arrêté du 28 décembre 1992 (TEFT9300029A)](arrete-du-28-decembre-1992-teft9300029a)
 - [Arrêté du 28 décembre 1993 (FPPA9300159A)](arrete-du-28-decembre-1993-fppa9300159a)
 - [Arrêté du 28 décembre 1993 (INDD9300955A)](arrete-du-28-decembre-1993-indd9300955a)
 - [Arrêté du 28 décembre 1993 (INDD9300956A)](arrete-du-28-decembre-1993-indd9300956a)
