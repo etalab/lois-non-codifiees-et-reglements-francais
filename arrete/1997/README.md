@@ -1218,7 +1218,6 @@
 - [Arrêté du 30 mai 1997 (AGRG9701032A)](arrete-du-30-mai-1997-agrg9701032a)
 - [Arrêté du 30 mai 1997 (AGRP9602452A)](arrete-du-30-mai-1997-agrp9602452a)
 - [Arrêté du 30 mai 1997 (AGRP9701100A)](arrete-du-30-mai-1997-agrp9701100a)
-- [Arrêté du 30 mai 1997 (BUDB9720001A)](arrete-du-30-mai-1997-budb9720001a)
 - [Arrêté du 30 mai 1997 (DEFP9701557A)](arrete-du-30-mai-1997-defp9701557a)
 - [Arrêté du 30 mai 1997 (DOME9700021A)](arrete-du-30-mai-1997-dome9700021a)
 - [Arrêté du 30 mai 1997 (ECOD9770012A)](arrete-du-30-mai-1997-ecod9770012a)
