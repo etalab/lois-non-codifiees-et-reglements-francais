@@ -62,6 +62,7 @@
 - [Décret n°62-120 du 27 janvier 1962](decret-n62-120-du-27-janvier-1962)
 - [Décret n°62-1409 du 27 novembre 1962](decret-n62-1409-du-27-novembre-1962)
 - [Décret n°62-858 du 27 juillet 1962](decret-n62-858-du-27-juillet-1962)
+- [Décret n°62-1472 du 28 novembre 1962](decret-n62-1472-du-28-novembre-1962)
 - [Décret n°62-1140 du 29 septembre 1962](decret-n62-1140-du-29-septembre-1962)
 - [Décret n°62-729 du 29 juin 1962](decret-n62-729-du-29-juin-1962)
 - [Décret n°61-1168 du 30 octobre 1961](decret-n61-1168-du-30-octobre-1961)
