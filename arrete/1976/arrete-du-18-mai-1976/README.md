@@ -1,4 +1,4 @@
-# Arrêté du 18 mai 1976 pris en application de l'article 29 du décret du 31 décembre 1941, modifié par le décret n° 76-435 du 18 mai 1976 et relatif aux opérations de surveillance en cas de transport de corps sans mise en bière hors de la commune du décès.
+# Arrêté du 18 mai 1976 FIXANT LES MODALITES D'APPLICATION DES ARTICLES 1ER A 6 DU DECRET 76-451 DU 18 MAI 1976.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

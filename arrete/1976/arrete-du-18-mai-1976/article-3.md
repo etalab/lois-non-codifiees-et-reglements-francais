@@ -1,3 +1,5 @@
 # Article 3
 
-Il appartient, avant le transport de corps, aux fonctionnaires de police, désignés par l'article 473 du code de l'administration communale, de remplir l'étiquette et de procéder à la pose du bracelet et au plombage de ce dernier.
+L'état annuel mentionné à l'article L. 920-5 du code du travail est établi conformément aux modèles joints en annexe I, II, III et IV du présent arrêté.
+
+Cet état, établi en double exemplaire est adressé au préfet territorialement compétent pour recevoir la déclaration d'existence.

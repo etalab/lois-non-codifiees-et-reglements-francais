@@ -1,15 +1,5 @@
 # Article 2
 
-Le bracelet prévu à l'article 1er est constitué de fils métalliques torsadés, coupés à la dimension nécessaire, comportant une étiquette à oeillet, de 90 sur 48 mm.
+Les déclarations rectificatives ou de cessation d'activité visées à l'article 5 du décret n. 76-451 du 18 mai 1976 doivent être adressées aux préfets compétents pour recevoir les déclarations d'existence dans les conditions fixées à l'article précédent.
 
-Cette étiquette mentionne :
-
-Les nom, qualité, signature du fonctionnaire chargé de l'opération ;
-
-L'indication et le sceau du service auquel il appartient (mairie ou commissariat de police) ;
-
-Les nom, prénom, âge de la personne décédée ;
-
-La date et l'heure du décès et la mise sous scellés ainsi que le lieu de fermeture du cercueil ;
-
-La fermeture du bracelet est obtenue par plombage à l'aide d'une pince spéciale.
+Dans le cas où la modification porte sur le transfert du siège social ou de l'établissement dans un autre département, outre la déclaration rectificative prévue à l'alinéa précédent, une nouvelle déclaration d'existence doit être adressée au préfet territorialement compétent.
