@@ -531,7 +531,6 @@
 - [Arrêté du 27 janvier 1988 (INTD8800038A)](arrete-du-27-janvier-1988-intd8800038a)
 - [Arrêté du 27 juillet 1988 (AGRS8801454A)](arrete-du-27-juillet-1988-agrs8801454a)
 - [Arrêté du 27 juillet 1988 (BUDD8850002A)](arrete-du-27-juillet-1988-budd8850002a)
-- [Arrêté du 27 juillet 1988 (ECOM8800241A)](arrete-du-27-juillet-1988-ecom8800241a)
 - [Arrêté du 27 juillet 1988 (ECOM8800242A)](arrete-du-27-juillet-1988-ecom8800242a)
 - [Arrêté du 27 juillet 1988 (ECOM8800248A)](arrete-du-27-juillet-1988-ecom8800248a)
 - [Arrêté du 27 juillet 1988 (PTTT8800559A)](arrete-du-27-juillet-1988-pttt8800559a)
