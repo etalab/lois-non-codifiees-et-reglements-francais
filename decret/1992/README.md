@@ -13,6 +13,7 @@
 - [Décret n°92-41 du 3 janvier 1992 (RESY9100244D)](decret-n92-41-du-3-janvier-1992-resy9100244d)
 - [Décret n°92-8 du 3 janvier 1992 (TEFX9110356D)](decret-n92-8-du-3-janvier-1992-tefx9110356d)
 - [Décret n°92-565 du 4 juin 1992 (EQUP9200341D)](decret-n92-565-du-4-juin-1992-equp9200341d)
+- [Décret n°84-431 du 6 juin 1984](decret-n84-431-du-6-juin-1984)
 - [Décret n°92-12 du 6 janvier 1992 (MAEC9100015D)](decret-n92-12-du-6-janvier-1992-maec9100015d)
 - [Décret n°92-13 du 6 janvier 1992 (TEFT9104237D)](decret-n92-13-du-6-janvier-1992-teft9104237d)
 - [Décret n°92-18 du 6 janvier 1992 (TEFE9104240D)](decret-n92-18-du-6-janvier-1992-tefe9104240d)
