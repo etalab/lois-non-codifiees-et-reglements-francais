@@ -1,0 +1,3 @@
+# Article 1
+
+Délégation permanente des pouvoirs du ministre chargé de l'éducation est donnée aux recteurs d'académie pour prononcer les sanctions disciplinaires mentionnées au troisième alinéa de l'article 12 du décret du 7 octobre 1994 susvisé à l'égard des conseillers principaux d'éducation stagiaires, des professeurs agrégés de l'enseignement du second degré stagiaires, des professeurs certifiés stagiaires, des professeurs d'éducation physique et sportive stagiaires, des conseillers d'orientation-psychologues stagiaires et des professeurs de lycée professionnel stagiaires du deuxième grade.

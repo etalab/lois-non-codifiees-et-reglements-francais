@@ -22,13 +22,11 @@ Un professeur élu parmi les membres de la 42e section du Conseil national des u
 
 Sous-section 03
 
-Prévention, épidémiologie,
+Prévention, épidémiologie, économie de la santé,
 
-économie de la santé, odontologie légale
+odontologie légale
 
-Un professeur élu parmi les membres de la 40e section du Conseil national des universités ;
-
-Un professeur élu parmi les membres de la 46e section du Conseil national des universités.
+Deux professeurs élus parmi les membres de la 46e section du Conseil national des universités.
 
 57e section
 
