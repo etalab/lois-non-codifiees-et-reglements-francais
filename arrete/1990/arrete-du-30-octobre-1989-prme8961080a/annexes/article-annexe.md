@@ -1,16 +1,16 @@
 # Article ANNEXE
 
-Département de l'Ain (01)
+Département de l'Ain
 
-Cours d'eau, canaux et plans d'eau de 2e catégorie :
+Cours d'eau, canaux et plans d'eau de 2e catégorie
 
 1° Le Rhône ;
 
-2° Les affluents du Rhône en aval du confluent de l'Ain ;
+2° Les affluents du Rhône, en aval du confluent de l'Ain ;
 
-3° Le Jourdan en aval du pont de la R.D. 992 (commune de Culoz) ;
+3° Le Jourdan, en aval du pont de la R.D. 992 (commune de Culoz) ;
 
-4° La Valserine en aval du pont de Coupy ;
+4° La Valserine, en aval du pont de Coupy ;
 
 5° La Saône ;
 
@@ -18,17 +18,17 @@ Cours d'eau, canaux et plans d'eau de 2e catégorie :
 
 7° Le canal du Pont-de-Vaux ;
 
-8° L'Ain entre le confluent de l'Oignin et le barrage Convert (commune de Pont-d'Ain) ;
+8° L'Ain, entre le confluent de l'Oignin et le barrage Convert (commune de Pont-d'Ain) ;
 
-9° Les affluents de la rive droite de l'Ain, sauf le Suran en amont du pont de Chavuyssiat-le-Grand et en aval du pont de Fromente ; le Longevent ;
+9° Les affluents de la rive droite de l'Ain, sauf le Suran, en amont du pont de Chavuyssiat-le-Grand et en aval du pont de Fromente ; le Longevent ;
 
-10° Les lacs : de Sylans, de Nantua (y compris le bras du lac), de Divonne-les-Bains ;
+10° Les lacs de Sylans, de Nantua (y compris le bras du lac), de Divonne-les-Bains et du Coiselet ;
 
 11° L'Oiselon, dit Ruisseau des Agneloux, en aval du pont de la R.N. 75, plan d'eau de Longeville (communes de Pont-d'Ain et d'Ambronay), exutoire dudit plan d'eau jusqu'à sa confluence avec la rivière l'Ain ;
 
-12° La retenue hydroélectrique de Moux délimitée en amont sur l'Oignin par l'usine hydroélectrique des Trablettes et sur l'Anconnans par le pont de la R.D. 13 (face aval), en aval par le barrage de la retenue (face amont) (communes d'Izernore, de Samognat et de Matafelon-Granges).
+12° La retenue hydroélectrique de Moux, délimitée en amont sur l'Oignin par l'usine hydroélectrique des Trablettes et sur l'Anconnans par le pont de la R.D. 13 (face aval), en aval par le barrage de la retenue (face amont) (communes d'Izernore, de Samognat et de Matafelon-Granges).
 
-Cours d'eau, canaux et plans d'eau de 1re catégorie :
+Cours d'eau, canaux et plans d'eau de 1re catégorie
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 2e catégorie.
 
