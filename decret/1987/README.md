@@ -70,6 +70,7 @@
 - [Décret n°87-86 du 10 février 1987 (AGRD8700236D)](decret-n87-86-du-10-fevrier-1987-agrd8700236d)
 - [Décret n°87-173 du 11 mars 1987 (MAEJ8730013D)](decret-n87-173-du-11-mars-1987-maej8730013d)
 - [Décret n°87-174 du 11 mars 1987 (MAEJ8730014D)](decret-n87-174-du-11-mars-1987-maej8730014d)
+- [Décret n°87-376 du 11 juin 1987 (DOMX8700019D)](decret-n87-376-du-11-juin-1987-domx8700019d)
 - [Décret n°87-91 du 11 février 1987 (AGRF8700273D)](decret-n87-91-du-11-fevrier-1987-agrf8700273d)
 - [Décret n°87-318 du 11 mai 1987 (INDD8700295D)](decret-n87-318-du-11-mai-1987-indd8700295d)
 - [Décret n°87-321 du 11 mai 1987 (JUSB8710193D)](decret-n87-321-du-11-mai-1987-jusb8710193d)
