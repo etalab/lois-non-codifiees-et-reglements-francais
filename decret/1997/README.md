@@ -288,6 +288,7 @@
 - [Décret n°98-482 du 17 juin 1998 (JUSF9850033D)](decret-n98-482-du-17-juin-1998-jusf9850033d)
 - [Décret n°88-401 du 18 avril 1988 (RESY8800491D)](decret-n88-401-du-18-avril-1988-resy8800491d)
 - [Décret n°96-1112 du 18 décembre 1996 (JUSC9620870D)](decret-n96-1112-du-18-decembre-1996-jusc9620870d)
+- [Décret n°96-1136 du 18 décembre 1996 (FCEC9600201D)](decret-n96-1136-du-18-decembre-1996-fcec9600201d)
 - [Décret n°97-154 du 18 février 1997 (AGRP9700148D)](decret-n97-154-du-18-fevrier-1997-agrp9700148d)
 - [Décret n°97-244 du 18 mars 1997 (TASO9710247D)](decret-n97-244-du-18-mars-1997-taso9710247d)
 - [Décret n°97-249 du 18 mars 1997 (BUDB9750007D)](decret-n97-249-du-18-mars-1997-budb9750007d)
