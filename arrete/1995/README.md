@@ -1,6 +1,7 @@
 # 1995
 
 - [Arrêté du 1 février 1995 (ECOT9510226A)](arrete-du-1-fevrier-1995-ecot9510226a)
+- [Arrêté du 2 février 1995 (EQUL9400944A)](arrete-du-2-fevrier-1995-equl9400944a)
 - [Arrêté du 2 janvier 1995 (AGRG9500003A)](arrete-du-2-janvier-1995-agrg9500003a)
 - [Arrêté du 2 janvier 1995 (AGRG9500104A)](arrete-du-2-janvier-1995-agrg9500104a)
 - [Arrêté du 2 janvier 1995 (EQUA9500029A)](arrete-du-2-janvier-1995-equa9500029a)
