@@ -85,7 +85,6 @@
 - [Arrêté du 3 décembre 1990 (SPSA9002468A)](arrete-du-3-decembre-1990-spsa9002468a)
 - [Arrêté du 3 décembre 1990 (TEFE9004028A)](arrete-du-3-decembre-1990-tefe9004028a)
 - [Arrêté du 3 février 1993 (SANH9202687A)](arrete-du-3-fevrier-1993-sanh9202687a)
-- [Arrêté du 3 janvier 1990 (BUDZ9000001A)](arrete-du-3-janvier-1990-budz9000001a)
 - [Arrêté du 3 janvier 1990 (RESY8900414A)](arrete-du-3-janvier-1990-resy8900414a)
 - [Arrêté du 3 juillet 1990 (AGRA9001123A)](arrete-du-3-juillet-1990-agra9001123a)
 - [Arrêté du 3 juillet 1990 (AGRB9000331A)](arrete-du-3-juillet-1990-agrb9000331a)
