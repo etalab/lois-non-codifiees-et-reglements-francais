@@ -1,5 +1,15 @@
 # Article 1
 
-L'équivalence prise en compte pour la détermination des durées de travail exigées pour l'ouverture du droit à l'allocation de base et à l'allocation spéciale des personnels enseignants non titulaires relevant des collectivités locales s'établit comme suit:
+Les licences de pêche dans les eaux françaises du lac Léman sont de quatre types :
 
-Une heure de cours équivaut à trois heures de travail.
+1re catégorie : Grande pêche ;
+
+2ème catégorie : Petite pêche (avec sardinières, sans sardinières) ;
+
+3ème catégorie : Pêche aux lignes.
+
+Les licences, nominatives et individuelles, sont valables pour l'année en cours et prennent fin, quelle que soit la date de leur délivrance, au 31 décembre suivant.
+
+Il ne sera pas délivré, pour chaque année, plus de quatre-vingt-dix licences de 1re catégorie et plus de soixante licences de 2è catégorie (avec ou sans sardinières), à raison d'une licence au plus de l'un ou l'autre de ces types par pêcheur.
+
+Le nombre des licences de 3ème catégorie n'est pas limité.

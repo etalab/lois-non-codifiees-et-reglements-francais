@@ -1,0 +1,3 @@
+# Article 10
+
+Toute infraction aux dispositions du présent arrêté pour laquelle aucune sanction n'est prévue par les lois ou règlements sur la pêche fluviale donnera lieu au paiement d'une somme qui sera fixée par le directeur départemental de l'agriculture ou son délégué, à titre de clause pénale civile, en sus des frais et sans préjudice des actions pénales et civiles qui pourront être intentées devant les tribunaux compétents. Le montant de cette somme sera compris entre le minimum et le maximum prévus pour contravention aux clauses du cahier des charges générales de location du droit de pêche dans les eaux domaniales, en vigueur au moment des faits (actuellement 100 à 2000 F).

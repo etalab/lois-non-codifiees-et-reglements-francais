@@ -24,6 +24,7 @@
 - [Décret n°82-903 du 20 octobre 1982](decret-n82-903-du-20-octobre-1982)
 - [Décret n°82-904 du 20 octobre 1982](decret-n82-904-du-20-octobre-1982)
 - [Décret n°82-1089 du 21 décembre 1982](decret-n82-1089-du-21-decembre-1982)
+- [Décret n°82-71 du 22 janvier 1982](decret-n82-71-du-22-janvier-1982)
 - [Décret n°82-72 du 22 janvier 1982](decret-n82-72-du-22-janvier-1982)
 - [Décret du 24 décembre 1981](decret-du-24-decembre-1981)
 - [Décret n°82-1028 du 26 novembre 1982](decret-n82-1028-du-26-novembre-1982)
