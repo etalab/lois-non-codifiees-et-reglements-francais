@@ -1,0 +1,3 @@
+# Article 32
+
+Par dérogation aux articles 21 et 22, pendant une durée de trois ans à compter de la date d'effet du présent décret, seuls peuvent être promus au grade de chargé d'études documentaires principal de 2e classe, au choix, après inscription au tableau d'avancement établi après avis de la commission administrative paritaire, les chargés d'études documentaires comptant, au 31 décembre de l'année au titre de laquelle le tableau d'avancement est établi, au moins dix ans de services effectifs dans un corps de fonctionnaires de l'Etat de catégorie A ou de même niveau et ayant atteint le 10e échelon de ce grade depuis au moins un an.

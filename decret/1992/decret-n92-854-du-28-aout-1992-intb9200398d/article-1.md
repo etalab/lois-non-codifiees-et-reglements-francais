@@ -16,10 +16,18 @@ Psychologue hors classe
 </tr>
 <tr>
 <td valign="top" width="454">
+<p>7e échelon</p>
+</td>
+<td valign="top" width="227">
+<p align="center">966</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="454">
 <p>6e échelon</p>
 </td>
 <td valign="top" width="227">
-<p align="center">901</p>
+<p align="center">910</p>
 </td>
 </tr>
 <tr>
@@ -27,7 +35,7 @@ Psychologue hors classe
 <p>5e échelon</p>
 </td>
 <td valign="top" width="227">
-<p align="center">840</p>
+<p align="center">850</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +43,7 @@ Psychologue hors classe
 <p>4e échelon</p>
 </td>
 <td valign="top" width="227">
-<p align="center">773</p>
+<p align="center">780</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +51,7 @@ Psychologue hors classe
 <p>3e échelon</p>
 </td>
 <td valign="top" width="227">
-<p align="center">720</p>
+<p align="center">726</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +59,7 @@ Psychologue hors classe
 <p>2e échelon</p>
 </td>
 <td valign="top" width="227">
-<p align="center">667</p>
+<p align="center">672</p>
 </td>
 </tr>
 <tr>

@@ -1,10 +1,10 @@
 # Article 11
 
-Les agents non titulaires sont nommés dans le grade d'ingénieur d'études et de fabrications de 3e classe [*troisième classe*] à un échelon déterminé en prenant en compte, sur la base des durées moyennes de services fixées à l'article 13 ci-après pour chaque avancement d'échelon, une fraction de l'ancienneté de services qu'ils ont acquise à la date de leur nomination comme stagiaire dans les conditions suivantes :
+Les agents non titulaires sont nommés dans le grade d'ingénieur d'études et de fabrications à un échelon déterminé en prenant en compte, sur la base des durées moyennes de services fixées à l'article 13 ci-après pour chaque avancement d'échelon, une fraction de l'ancienneté de services qu'ils ont acquise à la date de leur nomination comme stagiaire dans les conditions suivantes :
 
 a) Les services accomplis dans un emploi du niveau de la catégorie A sont retenus à raison de la moitié jusqu'à douze ans et des trois quarts au-delà de douze ans ;
 
-b) Les services accomplis dans un emploi du niveau de la catégorie B sont retenus à raison de six seizièmes pour la fraction comprise entre sept ans et seize ans et à raison de neuf seizièmes pour l'ancienneté acquise au-delà de seize ans ;
+b) Les services accomplis dans un emploi du niveau de la catégorie B ne sont pas retenus en ce qui concerne les sept premières années ; ils sont pris en compte à raison de six seizièmes pour la fraction comprise entre sept ans et seize ans et à raison de neuf seizièmes pour l'ancienneté acquise au-delà de seize ans ;
 
 c) Les services accomplis dans un emploi du niveau des catégories C et D sont retenus à raison de six seizièmes de leur durée excédant dix ans.
 

@@ -2,5 +2,6 @@
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Recrutement.](chapitre-ii)
+- [Chapitre III : Avancement.](chapitre-iii)
 - [Chapitre IV : Dispositions spéciales et transitoires.](chapitre-iv)
 - [Article 22](article-22.md)

@@ -42,7 +42,7 @@ Ingénieur subdivisionnaire
 
 (+) : Echelon créé à compter du 1er août 1993.
 
-Ingénieur principal
+Ingénieurs principaux
 
 !--------!--------!
 
@@ -52,19 +52,23 @@ Ingénieur principal
 
 !--------!--------!
 
-!  7e    !   801  !
+!  9e    !   966  !
 
-!  6e    !   771  !
+!  8e    !   916  !
 
-!  5e    !   710  !
+!  7e    !   864  !
 
-!  4e    !   659  !
+!  6e    !   811  !
 
-!  3e    !   596  !
+!  5e    !   759  !
 
-!  2e    !   537  !
+!  4e    !   701  !
 
-! 1er    !   486  !
+!  3e    !   641  !
+
+!  2e    !   593  !
+
+! 1er    !   541  !
 
 !--------!--------!
 

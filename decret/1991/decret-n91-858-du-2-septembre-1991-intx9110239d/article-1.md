@@ -16,19 +16,22 @@ L'échelonnement indiciaire applicable aux professeurs territoriaux d'enseigneme
 <td> :---------------:------------:</td>
 </tr>
 <tr>
-<td> : 6e  échelon   :     901    :</td>
+<td> : 7e  échelon   :     966    :</td>
 </tr>
 <tr>
-<td> : 5e  échelon   :     840    :</td>
+<td> : 6e  échelon   :     910    :</td>
 </tr>
 <tr>
-<td> : 4e  échelon   :     773    :</td>
+<td> : 5e  échelon   :     850    :</td>
 </tr>
 <tr>
-<td> : 3e  échelon   :     720    :</td>
+<td> : 4e  échelon   :     780    :</td>
 </tr>
 <tr>
-<td> : 2e  échelon   :     667    :</td>
+<td> : 3e  échelon   :     726    :</td>
+</tr>
+<tr>
+<td> : 2e  échelon   :     672    :</td>
 </tr>
 <tr>
 <td> : 1er échelon   :     587    :</td>

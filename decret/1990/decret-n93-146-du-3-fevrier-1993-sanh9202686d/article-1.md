@@ -6,7 +6,7 @@ Indices bruts :
 
 - ingénieur subdivisionnaire : 379-750 ;
 
-- ingénieur principal : 486-801 ;
+- ingénieur principal : 541-966 ;
 
 - ingénieur en chef de 2e classe : 450-771 ;
 

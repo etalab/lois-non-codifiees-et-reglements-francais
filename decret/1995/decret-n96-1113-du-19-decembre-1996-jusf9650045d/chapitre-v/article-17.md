@@ -1,6 +1,6 @@
 # Article 17
 
-Peuvent être placés en position de détachement dans le corps des professeurs techniques de la protection judiciaire de la jeunesse les fonctionnaires titulaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, appartenant à un corps, cadre d'emplois ou emploi classé dans la catégorie A dont l'indice terminal est au moins égal à l'indice 780 brut, justifiant de l'un des titres ou diplômes requis des candidats au concours externe prévu au 1° de l'article 4 du présent décret.
+Peuvent être placés en position de détachement dans le corps des professeurs techniques de la protection judiciaire de la jeunesse les fonctionnaires titulaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, appartenant à un corps, cadre d'emplois ou emploi classé dans la catégorie A dont l'indice terminal est au moins égal à l'indice 780 brut, justifiant de l'un des titres ou diplômes requis des candidats au concours externe prévu à l'article 4 du présent décret.
 
 Le détachement est prononcé, après avis de la commission administrative paritaire, à équivalence de grade, à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont l'intéressé bénéficiait dans son corps, cadre d'emplois ou emploi d'origine.
 

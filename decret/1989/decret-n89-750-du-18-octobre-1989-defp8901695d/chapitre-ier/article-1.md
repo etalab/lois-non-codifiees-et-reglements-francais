@@ -1,8 +1,8 @@
 # Article 1
 
-Il est créé au ministère de la défense un corps d'ingénieurs d'études et de fabrications, classé dans la catégorie A prévue à l'article 29 de la loi du 11 janvier 1984 susvisée.
+I. - Les ingénieurs d'études et de fabrications constituent un corps classé dans la catégorie A prévue à l'article 29 de la loi du 11 janvier 1984 susvisée. Ses membres sont nommés et titularisés par arrêté du ministre de la défense.
 
-Les ingénieurs d'études et de fabrications [*attributions*] sont, sous l'autorité du responsable du service où ils exercent leurs activités, chargés de préparer, diriger et contrôler les travaux scientifiques, techniques ou industriels effectués dans les établissements et arsenaux et services du ministère de la défense. Ils organisent le travail du service dont ils ont la charge et en assurent l'encadrement.
+II. - Les ingénieurs d'études et de fabrications [*attributions*] sont, sous l'autorité du responsable du service où ils exercent leurs activités, chargés de préparer, diriger et contrôler les travaux scientifiques, techniques ou industriels effectués dans les établissements et arsenaux et services du ministère de la défense. Ils organisent le travail du service dont ils ont la charge et en assurent l'encadrement.
 
 Ils peuvent aussi être chargés de missions de surveillance industrielle en usine.
 

@@ -80,54 +80,142 @@ Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
 
 Ingénieur en chef
 
-7e  échelon : indice brut : 801
-
-6e  échelon : indice brut : 771
-
-5e  échelon : indice brut : 710
-
-4e  échelon : indice brut : 659
-
-3e  échelon : indice brut : 596
-
-2e  échelon : indice brut : 537
-
-1er échelon : indice brut : 486
+<table>
+<tr>
+<td> :------------------------:</td>
+</tr>
+<tr>
+<td> :  ECHELON : INDICE BRUT :</td>
+</tr>
+<tr>
+<td> :----------:-------------:</td>
+</tr>
+<tr>
+<td> :    9e    :     966     :</td>
+</tr>
+<tr>
+<td> :    8e    :     916     :</td>
+</tr>
+<tr>
+<td> :    7e    :     864     :</td>
+</tr>
+<tr>
+<td> :    6e    :     811     :</td>
+</tr>
+<tr>
+<td> :    5e    :     759     :</td>
+</tr>
+<tr>
+<td> :    4e    :     701     :</td>
+</tr>
+<tr>
+<td> :    3e    :     641     :</td>
+</tr>
+<tr>
+<td> :    2e    :     593     :</td>
+</tr>
+<tr>
+<td> :    1er   :     541     :</td>
+</tr>
+<tr>
+<td> :------------------------:</td>
+</tr>
+</table>
 
 Ingénieur en chef de 1re catégorie
 
 2e classe
 
-8e  échelon : indice brut : 771
-
-7e  échelon : indice brut : 732
-
-6e  échelon : indice brut : 681
-
-5e  échelon : indice brut : 635
-
-4e  échelon : indice brut : 581
-
-3e  échelon : indice brut : 530
-
-2e  échelon : indice brut : 480
-
-1er échelon : indice brut : 450
+<table>
+<tr>
+<td> :------------------------:</td>
+</tr>
+<tr>
+<td> :  ECHELON : INDICE BRUT :</td>
+</tr>
+<tr>
+<td> :----------:-------------:</td>
+</tr>
+<tr>
+<td> :    8e    :     771     :</td>
+</tr>
+<tr>
+<td> :    7e    :     732     :</td>
+</tr>
+<tr>
+<td> :    6e    :     681     :</td>
+</tr>
+<tr>
+<td> :    5e    :     635     :</td>
+</tr>
+<tr>
+<td> :    4e    :     581     :</td>
+</tr>
+<tr>
+<td> :    3e    :     530     :</td>
+</tr>
+<tr>
+<td> :    2e    :     480     :</td>
+</tr>
+<tr>
+<td> :    1er   :     450     :</td>
+</tr>
+<tr>
+<td> :------------------------:</td>
+</tr>
+</table>
 
 1re classe
 
-4e  échelon : indice brut : 966
-
-3e  échelon : indice brut : 901
-
-2e  échelon : indice brut : 830
-
-1er échelon : indice brut : 750
+<table>
+<tr>
+<td> :------------------------:</td>
+</tr>
+<tr>
+<td> :  ECHELON : INDICE BRUT :</td>
+</tr>
+<tr>
+<td> :----------:-------------:</td>
+</tr>
+<tr>
+<td> :    4e    :     966     :</td>
+</tr>
+<tr>
+<td> :    3e    :     901     :</td>
+</tr>
+<tr>
+<td> :    2e    :     830     :</td>
+</tr>
+<tr>
+<td> :    1er   :     750     :</td>
+</tr>
+<tr>
+<td> :------------------------:</td>
+</tr>
+</table>
 
 Hors classe
 
-3e  échelon : indice brut : HEA
-
-2e  échelon : indice brut : 1015
-
-1er échelon : indice brut : 946
+<table>
+<tr>
+<td> :------------------------:</td>
+</tr>
+<tr>
+<td> :  ECHELON : INDICE BRUT :</td>
+</tr>
+<tr>
+<td> :----------:-------------:</td>
+</tr>
+<tr>
+<td> :    3e    :     HEA     :</td>
+</tr>
+<tr>
+<td> :    2e    :    1015     :</td>
+</tr>
+<tr>
+<td> :    1er   :     946     :</td>
+</tr>
+<tr>
+<td> :------------------------:</td>
+</tr>
+</table>

@@ -33,13 +33,24 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 </tr>
 <tr>
 <td valign="top" width="378">
+<p>7e échelon</p>
+</td>
+<td valign="top" width="151">
+<p align="center">-</p>
+</td>
+<td valign="top" width="151">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
 <p>6e échelon</p>
 </td>
 <td valign="top" width="151">
-<p align="center">-</p>
+<p align="center">3 ans 1 mois</p>
 </td>
 <td valign="top" width="151">
-<p align="center">-</p>
+<p align="center">2 ans 11 mois</p>
 </td>
 </tr>
 <tr>
@@ -47,10 +58,10 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <p>5e échelon</p>
 </td>
 <td valign="top" width="151">
-<p align="center">4 ans 4 mois</p>
+<p align="center">3 ans 1 mois</p>
 </td>
 <td valign="top" width="151">
-<p align="center">4 ans</p>
+<p align="center">2 ans 11 mois</p>
 </td>
 </tr>
 <tr>
@@ -58,10 +69,10 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <p>4e échelon</p>
 </td>
 <td valign="top" width="151">
-<p align="center">2 ans 9 mois</p>
+<p align="center">2 ans 7 mois</p>
 </td>
 <td valign="top" width="151">
-<p align="center">2 ans 6 mois</p>
+<p align="center">2 ans 5 mois</p>
 </td>
 </tr>
 <tr>
@@ -69,10 +80,10 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <p>3e échelon</p>
 </td>
 <td valign="top" width="151">
-<p align="center">2 ans 9 mois</p>
+<p align="center">2 ans 7 mois</p>
 </td>
 <td valign="top" width="151">
-<p align="center">2 ans 6 mois</p>
+<p align="center">2 ans 5 mois</p>
 </td>
 </tr>
 <tr>
@@ -80,10 +91,10 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <p>2e échelon</p>
 </td>
 <td valign="top" width="151">
-<p align="center">2 ans 9 mois</p>
+<p align="center">2 ans 7 mois</p>
 </td>
 <td valign="top" width="151">
-<p align="center">2 ans 6 mois</p>
+<p align="center">2 ans 5 mois</p>
 </td>
 </tr>
 <tr>
@@ -91,10 +102,10 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <p>1er échelon</p>
 </td>
 <td valign="top" width="151">
-<p align="center">2 ans 9 mois</p>
+<p align="center">2 ans 7 mois</p>
 </td>
 <td valign="top" width="151">
-<p align="center">2 ans 6 mois</p>
+<p align="center">2 ans 5 mois</p>
 </td>
 </tr>
 <tr>

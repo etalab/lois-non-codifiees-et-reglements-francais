@@ -3,5 +3,6 @@
 - [CHAPITRE 1er : Organisation de l'administration des monnaies et médailles.](chapitre-1er)
 - [CHAPITRE II : Dispositions générales relatives au statut particulier des fonctionnaires techniques de l'administration des monnaies et médailles.](chapitre-ii)
 - [CHAPITRE III : Recrutement.](chapitre-iii)
+- [CHAPITRE IV : Avancement.](chapitre-iv)
 - [CHAPITRE V : Dispositions transitoires.](chapitre-v)
 - [Article 31](article-31.md)

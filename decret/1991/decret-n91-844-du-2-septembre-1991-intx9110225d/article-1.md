@@ -40,25 +40,22 @@ L'échelonnement indiciaire applicable au cadre d'emplois des attachés territor
 <td> :---------------:            :</td>
 </tr>
 <tr>
-<td> : 7e  échelon   :     593    :</td>
+<td> : 6e  échelon   :     593    :</td>
 </tr>
 <tr>
-<td> : 6e  échelon   :     550    :</td>
+<td> : 5e  échelon   :     550    :</td>
 </tr>
 <tr>
-<td> : 5e  échelon   :     510    :</td>
+<td> : 4e  échelon   :     510    :</td>
 </tr>
 <tr>
-<td> : 4e  échelon   :     465    :</td>
+<td> : 3e  échelon   :     465    :</td>
 </tr>
 <tr>
-<td> : 3e  échelon   :     423    :</td>
+<td> : 2e  échelon   :     423    :</td>
 </tr>
 <tr>
-<td> : 2e  échelon   :     379    :</td>
-</tr>
-<tr>
-<td> : 1er échelon   :     340    :</td>
+<td> : 1er échelon   :     379    :</td>
 </tr>
 <tr>
 <td> :----------------------------:</td>

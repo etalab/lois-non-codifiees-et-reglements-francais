@@ -106,16 +106,13 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <td> :----------------------------:</td>
 </tr>
 <tr>
-<td> : 7e  échelon        -       :</td>
-</tr>
-<tr>
-<td> : 6e  échelon   3 ans 1 mois :</td>
+<td> : 6e  échelon                :</td>
 </tr>
 <tr>
 <td> : 5e  échelon   3 ans 1 mois :</td>
 </tr>
 <tr>
-<td> : 4e  échelon   2 ans 1 mois :</td>
+<td> : 4e  échelon   3 ans 1 mois :</td>
 </tr>
 <tr>
 <td> : 3e  échelon   2 ans 1 mois :</td>
@@ -124,7 +121,7 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <td> : 2e  échelon   2 ans 1 mois :</td>
 </tr>
 <tr>
-<td> : 1er échelon         -      :</td>
+<td> : 1er échelon   2 ans 1 mois :</td>
 </tr>
 <tr>
 <td> :----------------------------:</td>
@@ -136,16 +133,13 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <td> :----------------------------:</td>
 </tr>
 <tr>
-<td> : 7e  échelon        -       :</td>
-</tr>
-<tr>
-<td> : 6e  échelon  2 ans 11 mois :</td>
+<td> : 6e  échelon                :</td>
 </tr>
 <tr>
 <td> : 5e  échelon  2 ans 11 mois :</td>
 </tr>
 <tr>
-<td> : 4e  échelon  1 an  11 mois :</td>
+<td> : 4e  échelon  2 ans 11 mois :</td>
 </tr>
 <tr>
 <td> : 3e  échelon  1 an  11 mois :</td>

@@ -1,7 +1,55 @@
 # Article 17
 
-Les promotions visées au présent chapitre sont prononcées à l'échelon du nouveau grade doté d'un indice égal ou, à défaut, immédiatement supérieur à celui dont les intéressés bénéficient dans leur précédent grade.
+Les directeurs promus directeurs principaux de 2e classe sont classés conformément au tableau ci-après :
 
-En outre, dans la limite de la durée moyenne exigée pour l'avancement à l'échelon immédiatement supérieur, ceux-ci conservent l'ancienneté qu'ils avaient acquise dans leur ancien échelon lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancien grade.
+SITUATION ANCIENNE (échelons)
 
-Les fonctionnaires promus alors qu'ils avaient atteint l'échelon le plus élevé de leur précédent grade conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant d'une élévation audit échelon.
+dans le grade de directeur
+
+SITUATION NOUVELLE DANS LE GRADE (échelons)
+
+de directeur principal de 2e classe
+
+Ancienneté conservée
+
+<table>
+<tr>
+<td> :----:---:-----------------:</td>
+</tr>
+<tr>
+<td> : I  : II:        III      :</td>
+</tr>
+<tr>
+<td> :----:---:-----------------:</td>
+</tr>
+<tr>
+<td> : 12 : 6 : Sans ancienneté :</td>
+</tr>
+<tr>
+<td> : 11 : 5 :3/4 de l'anc acq :</td>
+</tr>
+<tr>
+<td> : 10 : 4 :5/6 de l'anc acq :</td>
+</tr>
+<tr>
+<td> :  9 : 3 :1/2 de l'anc acq :</td>
+</tr>
+<tr>
+<td> :    :   : majoré de 1 an  :</td>
+</tr>
+<tr>
+<td> :  8 : 3 :1/3 de l'anc acq :</td>
+</tr>
+<tr>
+<td> :  7 : 2 :5/6 de l'anc acq :</td>
+</tr>
+<tr>
+<td> :  6 : 1 : anc acq au dela :</td>
+</tr>
+<tr>
+<td> :    :   :  de 1 an 6 mois :</td>
+</tr>
+<tr>
+<td> :----:---:-----------------:</td>
+</tr>
+</table>

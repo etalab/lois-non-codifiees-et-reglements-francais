@@ -49,7 +49,15 @@ L'avancement d'échelon des professeurs certifiés de l'enseignement agricole ho
 <p>Du 5e au 6e</p>
 </td>
 <td valign="top" width="151">
-<p align="center">4ans</p>
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p>Du 6e au 7e</p>
+</td>
+<td valign="top" width="151">
+<p align="center">3 ans</p>
 </td>
 </tr>
 </tbody>

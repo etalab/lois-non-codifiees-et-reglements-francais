@@ -1,205 +1,161 @@
 # Article 19
 
-Pour la constitution initiale du corps, les ingénieurs ingénieur techniciens d'études et de fabrications en fonctions à la date d'effet du présent décret sont intégrés dans le corps des ingénieurs d'études et de fabrications.
+Les ingénieurs d'études et de fabrications de 1re, 2e et 3e classe en fonctions au 1er août 1996 sont reclassés à cette date conformément aux dispositions ci-après :
 
-Ils sont reclassés dans ce corps dans les conditions prévues au tableau suivant :
+SITUATION ANCIENNE : Ingénieur d'études et de fabrications de 1re classe
 
-- SITUATION
+4e échelon : après 3 ans
 
-Dans le corps des ingénieurs techniciens d'études et de fabrications (décret n° 76-313 du 7 avril 1976 modifié)
-
-- Ingénieur technicien d'études et de fabrications de 1re classe
-
-3e échelon
-
-Dans le corps des ingénieurs d'études et de fabrications
-
-- Ingénieur d'études et de fabrications de 1re classe
-
-3e échelon
-
-Ancienneté conservée dans la limite de 3 ans
-
-Dans le corps des ingénieurs techniciens d'études et de fabrications (décret n° 76-313 du 7 avril 1976 modifié)
-
-- Ingénieur technicien d'études et de fabrications de 1re classe
-
-2e échelon
-
-Dans le corps des ingénieurs d'études et de fabrications
-
-- Ingénieur d'études et de fabrications de 1re classe
-
-2e échelon
-
-Moitié de l'ancienneté acquise.
-
-Dans le corps des ingénieurs techniciens d'études et de fabrications (décret n° 76-313 du 7 avril 1976 modifié)
-
-- Ingénieur technicien d'études et de fabrications de 1re classe
-
-1er échelon
-
-Dans le corps des ingénieurs d'études et de fabrications
-
-- Ingénieur d'études et de fabrications de 1re classe
-
-1er échelon
-
-2/3 de l'ancienneté acquise.
-
-Dans le corps des ingénieurs techniciens d'études et de fabrications (décret n° 76-313 du 7 avril 1976 modifié)
-
-- Ingénieur technicien d'études et de fabrications de 2e classe
-
-4e échelon
-
-Dans le corps des ingénieurs d'études et de fabrications
-
-- Ingénieur d'études et de fabrications de 2e classe
-
-4e échelon
-
-Ancienneté conservée.
-
-Dans le corps des ingénieurs techniciens d'études et de fabrications (décret n° 76-313 du 7 avril 1976 modifié)
-
-- Ingénieur technicien d'études et de fabrications de 2e classe
-
-3e échelon
-
-Dans le corps des ingénieurs d'études et de fabrications
-
-- Ingénieur d'études et de fabrications de 2e classe
-
-3e échelon
-
-3/4 de l'ancienneté acquise.
-
-Dans le corps des ingénieurs techniciens d'études et de fabrications (décret n° 76-313 du 7 avril 1976 modifié)
-
-- Ingénieur technicien d'études et de fabrications de 1re classe
-
-2e échelon
-
-Dans le corps des ingénieurs d'études et de fabrications
-
-- Ingénieur d'études et de fabrications de 2e classe
-
-2e échelon
-
-Ancienneté conservée.
-
-Dans le corps des ingénieurs techniciens d'études et de fabrications (décret n° 76-313 du 7 avril 1976 modifié)
-
-- Ingénieur technicien d'études et de fabrications de 1re classe
-
-1er échelon
-
-Dans le corps des ingénieurs d'études et de fabrications
-
-- Ingénieur d'études et de fabrications de 1re classe
-
-1er échelon
-
-Ancienneté conservée.
-
-Dans le corps des ingénieurs techniciens d'études et de fabrications (décret n° 76-313 du 7 avril 1976 modifié)
-
-- Ingénieur technicien d'études et de fabrications de 3e classe
-
-7e échelon
-
-Dans le corps des ingénieurs d'études et de fabrications
-
-- Ingénieur d'études et de fabrications de 3e classe
-
-7e échelon
-
-Ancienneté conservée.
-
-Dans le corps des ingénieurs techniciens d'études et de fabrications (décret n° 76-313 du 7 avril 1976 modifié)
-
-- Ingénieur technicien d'études et de fabrications de 3e classe
+SITUATION NOUVELLE : Ingénieur divisionnaire d'études et de fabrications
 
 6e échelon
 
-Dans le corps des ingénieurs d'études et de fabrications
+ANCIENNETÉ CONSERVÉE : Ancienneté acquise au-delà de 3 ans dans la limite de 6 mois.
 
-- Ingénieur d'études et de fabrications de 3e classe
+SITUATION ANCIENNE : Ingénieur d'études et de fabrications de 1re classe
+
+4e échelon : avant 3 ans
+
+SITUATION NOUVELLE : Ingénieur divisionnaire d'études et de fabrications
+
+5e échelon
+
+ANCIENNETÉ CONSERVÉE : Ancienneté acquise dans la limite de 3 ans.
+
+SITUATION ANCIENNE : Ingénieur d'études et de fabrications de 1re classe
+
+3e échelon
+
+SITUATION NOUVELLE : Ingénieur divisionnaire d'études et de fabrications
+
+4e échelon
+
+ANCIENNETÉ CONSERVÉE : Ancienneté acquise.
+
+SITUATION ANCIENNE : Ingénieur d'études et de fabrications de 1re classe
+
+2e échelon
+
+SITUATION NOUVELLE : Ingénieur divisionnaire d'études et de fabrications
+
+3e échelon
+
+ANCIENNETÉ CONSERVÉE : Ancienneté acquise majorée de 1 an.
+
+SITUATION ANCIENNE : Ingénieur d'études et de fabrications de 1re classe
+
+1er échelon
+
+SITUATION NOUVELLE : Ingénieur divisionnaire d'études et de fabrications
+
+3e échelon
+
+ANCIENNETÉ CONSERVÉE : Moitié de l'ancienneté acquise.
+
+SITUATION ANCIENNE : Ingénieur d'études et de fabrications de 2e classe
+
+4e échelon
+
+SITUATION NOUVELLE : Ingénieur d'études et de fabrications
+
+8e échelon
+
+ANCIENNETÉ CONSERVÉE : Ancienneté acquise majorée de 2 ans dans la limite de 4 ans.
+
+SITUATION ANCIENNE : Ingénieur d'études et de fabrications de 2e classe
+
+3e échelon
+
+SITUATION NOUVELLE : Ingénieur d'études et de fabrications
+
+8e échelon
+
+ANCIENNETÉ CONSERVÉE : Ancienneté acquise minorée de 1 an.
+
+SITUATION ANCIENNE : Ingénieur d'études et de fabrications de 2e classe
+
+2e échelon
+
+SITUATION NOUVELLE : Ingénieur d'études et de fabrications
+
+7e échelon
+
+ANCIENNETÉ CONSERVÉE : Ancienneté acquise majorée de 1 an.
+
+SITUATION ANCIENNE : Ingénieur d'études et de fabrications de 2e classe
+
+1er échelon
+
+SITUATION NOUVELLE : Ingénieur d'études et de fabrications
+
+7e échelon
+
+ANCIENNETÉ CONSERVÉE : Moitié de l'ancienneté acquise.
+
+SITUATION ANCIENNE : Ingénieur d'études et de fabrications de 3e classe
+
+7e échelon
+
+SITUATION NOUVELLE : 7e échelon
+
+ANCIENNETÉ CONSERVÉE : Sans ancienneté.
+
+SITUATION ANCIENNE : Ingénieur d'études et de fabrications de 3e classe
 
 6e échelon
 
-3/4 de l'ancienneté acquise.
+SITUATION NOUVELLE : 6e échelon
 
-Dans le corps des ingénieurs techniciens d'études et de fabrications (décret n° 76-313 du 7 avril 1976 modifié)
+ANCIENNETÉ CONSERVÉE : Ancienneté acquise majorée de 6 mois.
 
-- Ingénieur technicien d'études et de fabrications de 3e classe
-
-5e échelon
-
-Dans le corps des ingénieurs d'études et de fabrications
-
-- Ingénieur d'études et de fabrications de 3e classe
+SITUATION ANCIENNE : Ingénieur d'études et de fabrications de 3e classe
 
 5e échelon
 
-Ancienneté conservée.
+SITUATION NOUVELLE : 5e échelon
 
-Dans le corps des ingénieurs techniciens d'études et de fabrications (décret n° 76-313 du 7 avril 1976 modifié)
+ANCIENNETÉ CONSERVÉE : Ancienneté acquise majorée de 1 an.
 
-- Ingénieur technicien d'études et de fabrications de 3e classe
-
-4e échelon
-
-Dans le corps des ingénieurs d'études et de fabrications
-
-- Ingénieur d'études et de fabrications de 2e classe
+SITUATION ANCIENNE : Ingénieur d'études et de fabrications de 3e classe
 
 4e échelon
 
-Ancienneté conservée.
+SITUATION NOUVELLE : 4e échelon
 
-Dans le corps des ingénieurs techniciens d'études et de fabrications (décret n° 76-313 du 7 avril 1976 modifié)
+ANCIENNETÉ CONSERVÉE : Ancienneté acquise majorée de 6 mois.
 
-- Ingénieur technicien d'études et de fabrications de 3e classe
-
-3e échelon
-
-Dans le corps des ingénieurs d'études et de fabrications
-
-- Ingénieur d'études et de fabrications de 3e classe
+SITUATION ANCIENNE : Ingénieur d'études et de fabrications de 3e classe
 
 3e échelon
 
-Ancienneté conservée.
+SITUATION NOUVELLE : 3e échelon
 
-Dans le corps des ingénieurs techniciens d'études et de fabrications (décret n° 76-313 du 7 avril 1976 modifié)
+ANCIENNETÉ CONSERVÉE : Ancienneté acquise majorée de 6 mois.
 
-- Ingénieur technicien d'études et de fabrications de 3e classe
+SITUATION ANCIENNE : Ingénieur d'études et de fabrications de 3e classe
 
-2e échelon
+2e échelon : après 18 mois
 
-Dans le corps des ingénieurs d'études et de fabrications
+SITUATION NOUVELLE : 3e échelon
 
-- Ingénieur d'études et de fabrications de 3e classe
+ANCIENNETÉ CONSERVÉE : Ancienneté acquise minorée de 18 mois.
 
-2e échelon
+SITUATION ANCIENNE : Ingénieur d'études et de fabrications de 3e classe
 
-Ancienneté conservée.
+2e échelon : avant 18 mois
 
-Dans le corps des ingénieurs techniciens d'études et de fabrications (décret n° 76-313 du 7 avril 1976 modifié)
+SITUATION NOUVELLE : 2e échelon
 
-- Ingénieur technicien d'études et de fabrications de 3e classe
+ANCIENNETÉ CONSERVÉE : Ancienneté conservée.
 
-1er échelon
-
-Dans le corps des ingénieurs d'études et de fabrications
-
-- Ingénieur d'études et de fabrications de 3e classe
+SITUATION ANCIENNE : Ingénieur d'études et de fabrications de 3e classe
 
 1er échelon
 
-Ancienneté conservée.
+SITUATION NOUVELLE : 1er échelon
 
-Les services effectués dans le corps des ingénieurs techniciens d'études et de fabrications sont assimilés à des services effectués dans le corps des ingénieurs d'études et de fabrications.
+ANCIENNETÉ CONSERVÉE : Ancienneté conservée.
+
+Les services accomplis par ces agents dans leur grade d'origine sont assimilés à des services accomplis dans leur grade d'accueil.
+
+La situation au 1er août 1996 des ingénieurs d'études et de fabrications mentionnés dans le présent article ne peut être moins favorable en ce qui concerne tant l'échelon que l'ancienneté dans cet échelon que celle qui aurait été la leur s'ils avaient été promus dans ce grade par la voie du choix ou par concours au 1er août 1996 et classés dans celui-ci en application des dispositions de l'article 10 bis ci-dessus.

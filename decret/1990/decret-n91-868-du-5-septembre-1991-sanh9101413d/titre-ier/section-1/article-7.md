@@ -8,74 +8,202 @@ Ingénieur en chef de 1re catégorie :
 
 Hors classe
 
-3e  échelon.
-
-2e  échelon : ancienneté moyenne : 3 ans
-
-1er échelon : ancienneté moyenne : 2 ans
+<table>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> : GRADES ET :   ANCIENNETE    :</td>
+</tr>
+<tr>
+<td> :  ECHELONS :     MOYENNE     :</td>
+</tr>
+<tr>
+<td> :-----------:-----------------:</td>
+</tr>
+<tr>
+<td> :    3e     :        -        :</td>
+</tr>
+<tr>
+<td> :    2e     :      3 ans      :</td>
+</tr>
+<tr>
+<td> :    1er    :      2 ans      :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+</table>
 
 1re classe
 
-4e  échelon.
-
-3e  échelon : ancienneté moyenne : 2 ans 6 mois
-
-2e  échelon : ancienneté moyenne : 2 ans 6 mois
-
-1er échelon : ancienneté moyenne : 2 ans
+<table>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> : GRADES ET :   ANCIENNETE    :</td>
+</tr>
+<tr>
+<td> :  ECHELONS :     MOYENNE     :</td>
+</tr>
+<tr>
+<td> :-----------:-----------------:</td>
+</tr>
+<tr>
+<td> :    4e     :        -        :</td>
+</tr>
+<tr>
+<td> :    3e     :   2 ans 6 mois  :</td>
+</tr>
+<tr>
+<td> :    2e     :   2 ans 6 mois  :</td>
+</tr>
+<tr>
+<td> :    1er    :      2 ans      :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+</table>
 
 2e classe
 
-8e  échelon.
-
-7e  échelon : ancienneté moyenne : 3 ans
-
-6e  échelon : ancienneté moyenne : 2 ans 6 mois
-
-5e  échelon : ancienneté moyenne : 2 ans 6 mois
-
-4e  échelon : ancienneté moyenne : 2 ans 6 mois
-
-3e  échelon : ancienneté moyenne : 2 ans
-
-2e  échelon : ancienneté moyenne : 2 ans
-
-1er échelon : ancienneté moyenne : 1 an 6 mois
+<table>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> : GRADES ET :   ANCIENNETE    :</td>
+</tr>
+<tr>
+<td> :  ECHELONS :     MOYENNE     :</td>
+</tr>
+<tr>
+<td> :-----------:-----------------:</td>
+</tr>
+<tr>
+<td> :    8e     :        -        :</td>
+</tr>
+<tr>
+<td> :    7e     :      3 ans      :</td>
+</tr>
+<tr>
+<td> :    6e     :   2 ans 6 mois  :</td>
+</tr>
+<tr>
+<td> :    5e     :   2 ans 6 mois  :</td>
+</tr>
+<tr>
+<td> :    4e     :   2 ans 6 mois  :</td>
+</tr>
+<tr>
+<td> :    3e     :      2 ans      :</td>
+</tr>
+<tr>
+<td> :    2e     :      2 ans      :</td>
+</tr>
+<tr>
+<td> :    1er    :    1 an 6 mois  :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+</table>
 
 Ingénieur en chef
 
-7e  échelon.
-
-6e  échelon : ancienneté moyenne : 2 ans 6 mois
-
-5e  échelon : ancienneté moyenne : 2 ans 6 mois
-
-4e  échelon : ancienneté moyenne : 2 ans 6 mois
-
-3e  échelon : ancienneté moyenne : 2 ans
-
-2e  échelon : ancienneté moyenne : 2 ans
-
-1er échelon : ancienneté moyenne : 1 an 6 mois
+<table>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> : GRADES ET :   ANCIENNETE    :</td>
+</tr>
+<tr>
+<td> :  ECHELONS :     MOYENNE     :</td>
+</tr>
+<tr>
+<td> :-----------:-----------------:</td>
+</tr>
+<tr>
+<td> :    9e     :        -        :</td>
+</tr>
+<tr>
+<td> :    8e     :      4 ans      :</td>
+</tr>
+<tr>
+<td> :    7e     :   3 ans 6 mois  :</td>
+</tr>
+<tr>
+<td> :    6e     :      3 ans      :</td>
+</tr>
+<tr>
+<td> :    5e     :   2 ans 6 mois  :</td>
+</tr>
+<tr>
+<td> :    4e     :   2 ans 6 mois  :</td>
+</tr>
+<tr>
+<td> :    3e     :   2 ans 6 mois  :</td>
+</tr>
+<tr>
+<td> :    2e     :      2 ans      :</td>
+</tr>
+<tr>
+<td> :    1er    :    1 an 6 mois  :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+</table>
 
 Ingénieur subdivisionnaire
 
-10e  échelon.
-
-9e  échelon : ancienneté moyenne : 3 ans 6 mois
-
-8e  échelon : ancienneté moyenne : 3 ans 6 mois
-
-7e  échelon : ancienneté moyenne : 3 ans
-
-6e  échelon : ancienneté moyenne : 3 ans
-
-5e  échelon : ancienneté moyenne : 3 ans
-
-4e  échelon : ancienneté moyenne : 3 ans
-
-3e  échelon : ancienneté moyenne : 3 ans
-
-2e  échelon : ancienneté moyenne : 2 an 6 mois
-
-1er échelon : ancienneté moyenne : 1 an
+<table>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> : GRADES ET :   ANCIENNETE    :</td>
+</tr>
+<tr>
+<td> :  ECHELONS :     MOYENNE     :</td>
+</tr>
+<tr>
+<td> :-----------:-----------------:</td>
+</tr>
+<tr>
+<td> :   10e     :        -        :</td>
+</tr>
+<tr>
+<td> :    9e     :   3 ans 6 mois  :</td>
+</tr>
+<tr>
+<td> :    8e     :   3 ans 6 mois  :</td>
+</tr>
+<tr>
+<td> :    7e     :      3 ans      :</td>
+</tr>
+<tr>
+<td> :    6e     :      3 ans      :</td>
+</tr>
+<tr>
+<td> :    5e     :      3 ans      :</td>
+</tr>
+<tr>
+<td> :    4e     :      3 ans      :</td>
+</tr>
+<tr>
+<td> :    3e     :      3 ans      :</td>
+</tr>
+<tr>
+<td> :    2e     :   2 ans 6 mois  :</td>
+</tr>
+<tr>
+<td> :    1er    :      1 an       :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+</table>

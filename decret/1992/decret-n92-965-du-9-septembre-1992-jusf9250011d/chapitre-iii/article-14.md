@@ -1,53 +1,129 @@
 # Article 14
 
-La durée du temps passé dans chacun des échelons des grades mentionnés à l'article 1er du présent décret est fixée comme suit :
+La durée moyenne et la durée minimale du temps passé dans chacun des échelons des grades et classes mentionnés à l'article 2 du présent décret sont fixées comme suit :
 
-GRADE ET CLASSE
+I = GRADES, CLASSES et échelons :
 
-ÉCHELON
+Directeur principal de 1re classe
 
-DURÉE
+II = DUREE Moyenne
 
-Moyenne Minimale
+III = DUREE Minimale
 
-Directeur hors classe
+<table>
+<tr>
+<td> :----:---------:--------------:</td>
+</tr>
+<tr>
+<td> :  I :    II   :      III     :</td>
+</tr>
+<tr>
+<td> :----:---------:--------------:</td>
+</tr>
+<tr>
+<td> : 3e : 3 ans   : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> : 2e : 3 ans   : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> : 1e :2 ans 6ms: 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> :----:---------:--------------:</td>
+</tr>
+</table>
 
-4e--
+I = GRADES, CLASSES et échelons :
 
-3e 3 ans 2 ans 3 mois
+Directeur principal de 2e classe
 
-2e 3 ans 2 ans 3 mois
+II = DUREE Moyenne
 
-1er 3 ans 2 ans 3 mois
+III = DUREE Minimale
 
-Directeur de 1re classe 6e--
+<table>
+<tr>
+<td> :----:---------:--------------:</td>
+</tr>
+<tr>
+<td> :  I :    II   :      III     :</td>
+</tr>
+<tr>
+<td> :----:---------:--------------:</td>
+</tr>
+<tr>
+<td> : 5e : 3 ans   : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> : 4e :2 ans 6ms: 2 ans        :</td>
+</tr>
+<tr>
+<td> : 3e :2 ans 6ms: 2 ans        :</td>
+</tr>
+<tr>
+<td> : 2e :2 ans 6ms: 2 ans        :</td>
+</tr>
+<tr>
+<td> : 1e :   1 an  : 1 an         :</td>
+</tr>
+<tr>
+<td> :----:---------:--------------:</td>
+</tr>
+</table>
 
-5e 3 ans 2 ans 3 mois
+I = GRADES, CLASSES et échelons :
 
-4e 3 ans 2 ans 3 mois
+Directeur
 
-3e 3 ans 2 ans 3 mois
+II = DUREE Moyenne
 
-2e 3 ans 2 ans 3 mois
+III = DUREE Minimale
 
-1er 3 ans 2 ans 3 mois
-
-Directeur de 2e classe 9e--
-
-9e--
-
-8e 3 ans 2 ans 3 mois
-
-7e 3 ans 2 ans 3 mois
-
-6e 3 ans 2 ans 3 mois
-
-5e 2 ans 1 an  6 mois
-
-4e 2 ans 1 an  6 mois
-
-3e 2 ans 1 an  6 mois
-
-2e 2 ans 1 an  6 mois
-
-1er 1 an 1 an 6 mois
+<table>
+<tr>
+<td> :----:---------:--------------:</td>
+</tr>
+<tr>
+<td> :  I :    II   :      III     :</td>
+</tr>
+<tr>
+<td> :----:---------:--------------:</td>
+</tr>
+<tr>
+<td> :11e : 4 ans   : 3 ans        :</td>
+</tr>
+<tr>
+<td> :10e : 3 ans   : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> : 9e : 3 ans   : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> : 8e : 3 ans   : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> : 7e : 3 ans   : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> : 6e :2 ans 6ms: 2 ans        :</td>
+</tr>
+<tr>
+<td> : 5e : 2 ans   : 1 an  6 mois :</td>
+</tr>
+<tr>
+<td> : 4e : 2 ans   : 1 an  6 mois :</td>
+</tr>
+<tr>
+<td> : 3e : 2 ans   : 1 an  6 mois :</td>
+</tr>
+<tr>
+<td> : 2e : 1 an    : 1 an         :</td>
+</tr>
+<tr>
+<td> : 1e : 1 an    : 1 an         :</td>
+</tr>
+<tr>
+<td> :----:---------:--------------:</td>
+</tr>
+</table>

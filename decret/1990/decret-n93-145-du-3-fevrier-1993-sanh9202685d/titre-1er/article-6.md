@@ -40,15 +40,19 @@ Ingénieur en chef 2e classe :
 
 Ingénieur principal :
 
-7e échelon ;
+9e échelon : - ;
 
-6e échelon : 2 ans 6 mois ;
+8e échelon : 4 ans ;
+
+7e échelon : 3 ans 6 mois ;
+
+6e échelon : 3 ans ;
 
 5e échelon : 2 ans 6 mois ;
 
-4e échelon : 2 ans 6 Mois ;
+4e échelon : 2 ans 6 mois ;
 
-3e échelon : 2 ans ;
+3e échelon : 2 ans 6 mois ;
 
 2e échelon : 2 ans ;
 

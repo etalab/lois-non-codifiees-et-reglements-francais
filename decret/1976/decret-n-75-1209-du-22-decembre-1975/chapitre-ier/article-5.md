@@ -10,7 +10,7 @@ Capitaine : cinq échelons et un échelon spécial ;
 
 Chef d'escadron : trois échelons ;
 
-Lieutenant-colonel : trois échelons et un échelon spécial ;
+Lieutenant-colonel : trois échelons et deux échelons spéciaux ;
 
 Colonel : deux échelons et un échelon exceptionnel ;
 

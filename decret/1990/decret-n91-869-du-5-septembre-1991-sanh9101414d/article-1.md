@@ -6,7 +6,7 @@ Indices bruts :
 
 - ingénieur subdivisionnaire : 379, 750 ;
 
-- ingénieur en chef : 486, 801 ;
+- ingénieur en chef : 541,966 ;
 
 - ingénieur en chef de 1re catégorie de seconde classe : 450, 771 ;
 

@@ -1,5 +1,13 @@
 # Article 7
 
-Les ingénieurs d'études et de fabrications stagiaires ne peuvent être titularisés [*conditions*] qu'après avoir accompli un stage d'une durée de [*minimum*] dix-huit mois, dont les douze premiers comportent une formation d'adaptation à l'emploi dont les modalités sont définies par arrêté du ministre de la défense. A l'issue du stage, les stagiaires dont la manière de servir a été jugée satisfaisante sont titularisés. Les autres sont, après avis de la commission administrative paritaire, soit autorisés à accomplir un nouveau et dernier stage pratique d'une durée maximum de six mois, soit licenciés, soit réintégrés dans leur ancien corps ou, s'agissant de fonctionnaires des collectivités territoriales, dans leur ancien cadre d'emplois ou emploi avec l'ancienneté qu'ils auraient acquise s'ils y étaient demeurés, soit remis à la disposition de leur administration d'origine.
+Les ingénieurs d'études et de fabrications stagiaires accomplissent un stage d'une durée d'un an comportant une formation d'adaptation à l'emploi dont les modalités sont définies par arrêté du ministre de la défense.
 
-Lors de la titularisation, la durée du stage est prise en compte pour l'avancement d'échelon dans la limite de dix-huit mois.
+Pendant la durée du stage, les stagiaires qui avaient précédemment la qualité de fonctionnaire ou d'agent non titulaire peuvent opter entre le traitement auquel ils auraient eu droit dans leur corps, cadre d'emplois ou emploi d'origine et celui afférent à l'échelon du stage. Cette disposition ne peut toutefois avoir pour effet d'assurer aux intéressés un traitement supérieur à celui auquel ils auraient eu droit s'ils avaient été classés en application des articles 9 à 11 ci-après.
+
+A l'issue du stage, les stagiaires dont la manière de servir a été jugée satisfaisante sont titularisés.
+
+Les stagiaires qui ne sont pas titularisés à l'issue du stage peuvent être autorisés, après avis de la commission administrative paritaire, à effectuer un stage complémentaire d'une durée maximale d'un an.
+
+Les stagiaires qui ne sont pas autorisés à effectuer un stage complémentaire ou dont le stage complémentaire n'a pas donné satisfaction sont soit licenciés, s'ils n'avaient pas auparavant la qualité de fonctionnaire, soit réintégrés dans leurs corps, cadre d'emplois ou emploi d'origine.
+
+La durée du stage est prise en compte pour l'avancement d'échelon dans la limite d'un an.

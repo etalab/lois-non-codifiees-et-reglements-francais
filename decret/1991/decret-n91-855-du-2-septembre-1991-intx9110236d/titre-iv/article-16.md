@@ -3,185 +3,266 @@
 La durée maximale et la durée minimale du temps passé dans chacun des échelons des grades sont fixées ainsi qu'il suit :
 
 <table>
+<tbody>
 <tr>
-<td> :----------------------------:</td>
+<td rowspan="2" width="138">
+<p align="center">GRADE ET ECHELONS</p>
+</td>
+<td colspan="2" width="240">
+<p align="center">DUREE</p>
+</td>
 </tr>
 <tr>
-<td> :      Grade et échelons     :</td>
+<td width="120">
+<p align="center">Maximale</p>
+</td>
+<td width="119">
+<p align="center">Minimale</p>
+</td>
 </tr>
 <tr>
-<td> :                            :</td>
+<td colspan="3" width="378">
+<p align="center">Directeur d'établissement d'enseignement artistique de 2e catégorie</p>
+</td>
 </tr>
 <tr>
-<td> :----------------------------:</td>
+<td width="138">
+<p>10e échelon</p>
+</td>
+<td width="120">
+<p align="center">-</p>
+</td>
+<td width="119">
+<p align="center">-</p>
+</td>
 </tr>
 <tr>
-<td> : Directeur d'établissement  :</td>
+<td width="138">
+<p>9e échelon</p>
+</td>
+<td width="120">
+<p align="center">3 ans 6 mois</p>
+</td>
+<td width="119">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> : d'enseignement artistique  :</td>
+<td width="138">
+<p>8e échelon</p>
+</td>
+<td width="120">
+<p align="center">3 ans 6 mois</p>
+</td>
+<td width="119">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> :      de 2e catégorie       :</td>
+<td width="138">
+<p>7e échelon</p>
+</td>
+<td width="120">
+<p align="center">3 ans 6 mois</p>
+</td>
+<td width="119">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> :----------------------------:</td>
+<td width="138">
+<p>6e échelon</p>
+</td>
+<td width="120">
+<p align="center">3 ans 6 mois</p>
+</td>
+<td width="119">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> :        Durée maximale      :</td>
+<td width="138">
+<p>5e échelon</p>
+</td>
+<td width="120">
+<p align="center">3 ans 6 mois</p>
+</td>
+<td width="119">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> :----------------------------:</td>
+<td width="138">
+<p>4e échelon</p>
+</td>
+<td width="120">
+<p align="center">3 ans</p>
+</td>
+<td width="119">
+<p align="center">2 ans 6 mois</p>
+</td>
 </tr>
 <tr>
-<td> : 9e  échelon         -      :</td>
+<td width="138">
+<p>3e échelon</p>
+</td>
+<td width="120">
+<p align="center">3 ans</p>
+</td>
+<td width="119">
+<p align="center">2 ans 6 mois</p>
+</td>
 </tr>
 <tr>
-<td> : 8e  échelon   3 ans 6 mois :</td>
+<td width="138">
+<p>2e échelon</p>
+</td>
+<td width="120">
+<p align="center">3 ans</p>
+</td>
+<td width="119">
+<p align="center">2 ans 6 mois</p>
+</td>
 </tr>
 <tr>
-<td> : 7e  échelon   3 ans 6 mois :</td>
+<td width="138">
+<p>1er échelon</p>
+</td>
+<td width="120">
+<p align="center">1 an 6 mois</p>
+</td>
+<td width="119">
+<p align="center">1 an</p>
+</td>
 </tr>
-<tr>
-<td> : 6e  échelon   3 ans 6 mois :</td>
-</tr>
-<tr>
-<td> : 5e  échelon   3 ans 6 mois :</td>
-</tr>
-<tr>
-<td> : 4e  échelon   3 ans        :</td>
-</tr>
-<tr>
-<td> : 3e  échelon   3 ans        :</td>
-</tr>
-<tr>
-<td> : 2e  échelon   3 ans        :</td>
-</tr>
-<tr>
-<td> : 1er échelon   1 an  6 mois :</td>
-</tr>
-<tr>
-<td> :----------------------------:</td>
-</tr>
-<tr>
-<td> :        Durée minimale      :</td>
-</tr>
-<tr>
-<td> :----------------------------:</td>
-</tr>
-<tr>
-<td> : 9e  échelon         -      :</td>
-</tr>
-<tr>
-<td> : 8e  échelon   3 ans        :</td>
-</tr>
-<tr>
-<td> : 7e  échelon   3 ans        :</td>
-</tr>
-<tr>
-<td> : 6e  échelon   3 ans        :</td>
-</tr>
-<tr>
-<td> : 5e  échelon   3 ans        :</td>
-</tr>
-<tr>
-<td> : 4e  échelon   2 ans 6 mois :</td>
-</tr>
-<tr>
-<td> : 3e  échelon   2 ans 6 mois :</td>
-</tr>
-<tr>
-<td> : 2e  échelon   2 ans 6 mois :</td>
-</tr>
-<tr>
-<td> : 1er échelon   1 an         :</td>
-</tr>
-<tr>
-<td> :----------------------------:</td>
-</tr>
+</tbody>
 </table>
+
+.
+
+.
 
 <table>
+<tbody>
 <tr>
-<td>: Directeur d'établissement  :</td>
+<td rowspan="2" width="138">
+<p align="center">GRADE ET ECHELONS</p>
+</td>
+<td colspan="2" width="240">
+<p align="center">DUREE</p>
+</td>
 </tr>
 <tr>
-<td> : d'enseignement artistique  :</td>
+<td width="120">
+<p align="center">Maximale</p>
+</td>
+<td width="119">
+<p align="center">Minimale</p>
+</td>
 </tr>
 <tr>
-<td> :     de 1re catégorie       :</td>
+<td colspan="3" width="378">
+<p align="center">Directeur d'établissement d'enseignement artistique de 1re catégorie</p>
+</td>
 </tr>
 <tr>
-<td> :----------------------------:</td>
+<td width="138">
+<p>9e échelon</p>
+</td>
+<td width="120">
+<p align="center">-</p>
+</td>
+<td width="119">
+<p align="center">-</p>
+</td>
 </tr>
 <tr>
-<td> :        Durée maximale      :</td>
+<td width="138">
+<p>8e échelon</p>
+</td>
+<td width="120">
+<p align="center">3 ans 6 mois</p>
+</td>
+<td width="119">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> :----------------------------:</td>
+<td width="138">
+<p>7e échelon</p>
+</td>
+<td width="120">
+<p align="center">3 ans 6 mois</p>
+</td>
+<td width="119">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> : 8e  échelon         -      :</td>
+<td width="138">
+<p>6e échelon</p>
+</td>
+<td width="120">
+<p align="center">3 ans 6 mois</p>
+</td>
+<td width="119">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> : 7e  échelon   3 ans 6 mois :</td>
+<td width="138">
+<p>5e échelon</p>
+</td>
+<td width="120">
+<p align="center">3 ans 6 mois</p>
+</td>
+<td width="119">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> : 6e  échelon   3 ans 6 mois :</td>
+<td width="138">
+<p>4e échelon</p>
+</td>
+<td width="120">
+<p align="center">3 ans</p>
+</td>
+<td width="119">
+<p align="center">2 ans 6 mois</p>
+</td>
 </tr>
 <tr>
-<td> : 5e  échelon   3 ans 6 mois :</td>
+<td width="138">
+<p>3e échelon</p>
+</td>
+<td width="120">
+<p align="center">3 ans</p>
+</td>
+<td width="119">
+<p align="center">2 ans 6 mois</p>
+</td>
 </tr>
 <tr>
-<td> : 4e  échelon   3 ans        :</td>
+<td width="138">
+<p>2e échelon</p>
+</td>
+<td width="120">
+<p align="center">3 ans</p>
+</td>
+<td width="119">
+<p align="center">2 ans 6 mois</p>
+</td>
 </tr>
 <tr>
-<td> : 3e  échelon   3 ans        :</td>
+<td width="138">
+<p>1er échelon</p>
+</td>
+<td width="120">
+<p align="center">1 an 6 mois</p>
+</td>
+<td width="119">
+<p align="center">1 an</p>
+</td>
 </tr>
-<tr>
-<td> : 2e  échelon   3 ans        :</td>
-</tr>
-<tr>
-<td> : 1er échelon   1 an  6 mois :</td>
-</tr>
-<tr>
-<td> :----------------------------:</td>
-</tr>
-<tr>
-<td> :        Durée minimale      :</td>
-</tr>
-<tr>
-<td> :----------------------------:</td>
-</tr>
-<tr>
-<td> : 8e  échelon         -      :</td>
-</tr>
-<tr>
-<td> : 7e  échelon   3 ans        :</td>
-</tr>
-<tr>
-<td> : 6e  échelon   3 ans        :</td>
-</tr>
-<tr>
-<td> : 5e  échelon   3 ans        :</td>
-</tr>
-<tr>
-<td> : 4e  échelon   2 ans 6 mois :</td>
-</tr>
-<tr>
-<td> : 3e  échelon   2 ans 6 mois :</td>
-</tr>
-<tr>
-<td> : 2e  échelon   2 ans 6 mois :</td>
-</tr>
-<tr>
-<td> : 1er échelon   1 an         :</td>
-</tr>
-<tr>
-<td> :----------------------------:</td>
-</tr>
+</tbody>
 </table>
-
-Un échelon exceptionnel, doté de l'indice brut 1015 pour les directeurs d'établissements d'enseignement artistique de 1re catégorie, et de l'indice brut 950 pour les directeurs d'établissement d'enseignement artistique de 2e catégorie, est accessible aux directeurs des établissements d'enseignement artistique les plus importants compte tenu de l'effectif des élèves et du personnel enseignant, du nombre des spécialités enseignées et du niveau des enseignements. La liste de ces établissements est fixée par arrêté du ministre chargé de la culture.
-
-" Les durées d'avancement du 9e échelon du grade de directeur de 2e catégorie et du 8e échelon du grade de directeur de 1re catégorie pour avancer aux échelons exceptionnels sont de trois ans six mois en durée maximale et de trois ans en durée minimale. "

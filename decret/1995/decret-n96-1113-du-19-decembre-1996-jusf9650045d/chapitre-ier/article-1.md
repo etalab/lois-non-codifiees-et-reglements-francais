@@ -6,6 +6,6 @@ Ce corps comprend deux grades :
 
 - le grade de professeur technique de classe normale divisé en onze échelons ;
 
-- le grade de professeur technique hors classe divisé en six échelons.
+- le grade de professeur technique hors classe divisé en sept échelons.
 
 Le nombre des emplois de professeurs techniques hors classe ne peut excéder 15 p. 100 de l'effectif budgétaire du corps.

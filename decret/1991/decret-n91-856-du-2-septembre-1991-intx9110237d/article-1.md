@@ -19,10 +19,7 @@ L'échelonnement indiciaire applicable aux directeurs d'établissements territor
 <td> :---------------:------------:</td>
 </tr>
 <tr>
-<td> : Echelon       :            :</td>
-</tr>
-<tr>
-<td> : exceptionnel  :    1015    :</td>
+<td> : 9e  échelon   :    1015    :</td>
 </tr>
 <tr>
 <td> : 8e  échelon   :     950    :</td>
@@ -58,7 +55,7 @@ L'échelonnement indiciaire applicable aux directeurs d'établissements territor
 <td> : Directeurs de :   indices  :</td>
 </tr>
 <tr>
-<td> :   première    :    bruts   :</td>
+<td> :   seconde     :    bruts   :</td>
 </tr>
 <tr>
 <td> :  catégorie    :            :</td>
@@ -67,10 +64,7 @@ L'échelonnement indiciaire applicable aux directeurs d'établissements territor
 <td> :---------------:------------:</td>
 </tr>
 <tr>
-<td> : Echelon       :            :</td>
-</tr>
-<tr>
-<td> : exceptionnel  :     950    :</td>
+<td> : 10e échelon   :     985    :</td>
 </tr>
 <tr>
 <td> : 9e  échelon   :     920    :</td>

@@ -1,0 +1,5 @@
+# Article 22
+
+Peuvent également être nommés, au choix, chargé d'études documentaires principal de 2e classe, dans la limite du sixième des promotions prononcées au titre de l'article 21 ci-dessus, après inscription au tableau d'avancement établi après avis de la commission administrative paritaire, les chargés d'études documentaires comptant au moins un an dans le 10e échelon de leur grade et justifiant au 31 décembre de l'année au titre de laquelle le tableau d'avancement est établi d'au moins dix ans de services effectifs dans un corps, un cadre d'emplois ou un emploi de catégorie A ou de même niveau.
+
+Lorsque le nombre des chargés d'études documentaires promus chargé d'études documentaires principal au titre d'une année donnée n'est pas un multiple de six, le reste est ajouté au nombre des chargés d'études documentaires principaux promus l'année suivante en application de l'article 20 pour le calcul des nominations à prononcer en application du présent article, au titre de cette nouvelle année.

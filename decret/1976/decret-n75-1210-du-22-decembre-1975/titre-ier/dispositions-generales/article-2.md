@@ -8,4 +8,4 @@ Officier de 1ère classe : cinq échelons et un échelon spécial ;
 
 Officier principal : trois échelons ;
 
-Officier en chef : trois échelons et un échelon spécial.
+Officier en chef : trois échelons et deux échelons spéciaux.

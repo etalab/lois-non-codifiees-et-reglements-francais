@@ -42,21 +42,25 @@ Seconde classe :
 
 - 1er échelon : 450.
 
-Ingénieur en chef :
+Ingénieur en chef ; indices bruts
 
-- 7e échelon : 801 ;
+- 9e échelon : 966 ;
 
-- 6e échelon : 771 ;
+- 8e échelon : 916 ;
 
-- 5e échelon : 710 ;
+- 7e échelon : 864 ;
 
-- 4e échelon : 659 ;
+- 6e échelon : 811 ;
 
-- 3e échelon : 596 ;
+- 5e échelon : 759 ;
 
-- 2e échelon : 537 ;
+- 4e échelon : 701 ;
 
-- 1er échelon : 486.
+- 3e échelon : 641 ;
+
+- 2e échelon : 593 ;
+
+- 1er échelon : 541.
 
 Ingénieur subdivisionnaire :
 

@@ -1,6 +1,6 @@
 # Article 3
 
-Les directeurs de 2e classe sont recrutés par la voie de deux concours distincts :
+Les directeurs sont recrutés par la voie de deux concours distincts :
 
 1° Un concours externe ouvert aux personnes âgées de quarante-cinq ans au plus au 1er janvier de l'année du concours, titulaires d'une licence ou d'un diplôme reconnu équivalent par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de la fonction publique.
 

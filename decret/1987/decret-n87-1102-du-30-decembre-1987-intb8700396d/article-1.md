@@ -1,10 +1,10 @@
 # Article 1
 
-L'échelonnement indiciaire applicable aux emplois mentionnés à l'article 1er du décret n° 87-1101 du 30 décembre 1987 est fixé ainsi qu'il suit :
+L'échelonnement indiciaire applicable aux emplois mentionnés à l'article 1er du décret n° 87-1101 du 30 décembre 1987 est fixé  ainsi qu'il suit :
 
 EMPLOIS :
 
-Secrétaire général de ville ou directeur d'office public d'H.L.M :
+Secrétaire général de communes ou directeur d'office public d'H.L.M:
 
 - de plus de 400.000 habitants.
 
@@ -20,7 +20,7 @@ Secrétaire général de ville ou directeur d'office public d'H.L.M :
 
 EMPLOIS :
 
-Secrétaire général de ville ou directeur d'office public d'H.L.M :
+Secrétaire général de communes ou directeur d'office public d'H.L.M:
 
 - de 150.000 à 400.000 habitants
 
@@ -42,7 +42,7 @@ Secrétaire général de ville ou directeur d'office public d'H.L.M :
 
 EMPLOIS :
 
-Secrétaire général de ville ou directeur d'office public d'H.L.M :
+Secrétaire général de communes ou directeur d'office public d'H.L.M:
 
 - de plus de 20.000 logements
 
@@ -64,7 +64,7 @@ Secrétaire général de ville ou directeur d'office public d'H.L.M :
 
 EMPLOIS :
 
-Secrétaire général de ville ou directeur d'office public d'H.L.M :
+Secrétaire général de communes ou directeur d'office public d'H.L.M:
 
 - de 80.000 à 150.000 habitants
 
@@ -86,7 +86,7 @@ Secrétaire général de ville ou directeur d'office public d'H.L.M :
 
 EMPLOIS :
 
-Secrétaire général de ville ou directeur d'office public d'H.L.M :
+Secrétaire général de communes ou directeur d'office public d'H.L.M:
 
 - de 15.000 à 20.000 logements
 
@@ -108,7 +108,7 @@ Secrétaire général de ville ou directeur d'office public d'H.L.M :
 
 EMPLOIS :
 
-Secrétaire général de ville ou directeur d'office public d'H.L.M :
+Secrétaire général de communes ou directeur d'office public d'H.L.M:
 
 - de 40.000 à 80.000 habitants
 
@@ -120,19 +120,19 @@ Secrétaire général de ville ou directeur d'office public d'H.L.M :
 
 3 : 775
 
-4 : 815
+4 : 820
 
-5 : 855
+5 : 865
 
-6 : 895
+6 : 910
 
-7 : 940
+7 : 955
 
-8 : 985
+8 : 1015
 
 EMPLOIS :
 
-Secrétaire général de ville ou directeur d'office public d'H.L.M :
+Secrétaire général de communes ou directeur d'office public d'H.L.M :
 
 - de 10.000 à 15.000 logements
 
@@ -156,7 +156,7 @@ Secrétaire général de ville ou directeur d'office public d'H.L.M :
 
 EMPLOIS :
 
-Secrétaire général de ville ou directeur d'office public d'H.L.M :
+Secrétaire général de communes ou directeur d'office public d'H.L.M :
 
 - de 20.000 à 40.000 habitants
 
@@ -182,7 +182,7 @@ Secrétaire général de ville ou directeur d'office public d'H.L.M :
 
 EMPLOIS :
 
-Secrétaire général de ville ou directeur d'office public d'H.L.M :
+Secrétaire général de communes ou directeur d'office public d'H.L.M :
 
 - de 10.000 à 20.000 habitants
 
@@ -208,7 +208,7 @@ Secrétaire général de ville ou directeur d'office public d'H.L.M :
 
 EMPLOIS :
 
-Secrétaire général de ville ou directeur d'office public d'H.L.M :
+Secrétaire général de communes ou directeur d'office public d'H.L.M :
 
 - de 5.000 à 10.000 habitants
 
@@ -232,7 +232,7 @@ Secrétaire général de ville ou directeur d'office public d'H.L.M :
 
 EMPLOIS :
 
-Secrétaire général adjoint de ville
+Secrétaire général adjoint de communes
 
 - de plus de 400.000 habitants
 
@@ -256,7 +256,7 @@ Secrétaire général adjoint de ville
 
 EMPLOIS :
 
-Secrétaire général adjoint de ville
+Secrétaire général adjoint de communes
 
 - de 150.000 à 400.000 habitants
 
@@ -276,11 +276,11 @@ Secrétaire général adjoint de ville
 
 7 : 955
 
-8 : 1.000
+8 : 1.015
 
 EMPLOIS :
 
-Secrétaire général adjoint de ville
+Secrétaire général adjoint de communes
 
 - de 40.000 à 150.000 habitants
 
@@ -300,7 +300,7 @@ Secrétaire général adjoint de ville
 
 7 : 940
 
-8 : 985 9 : 1015 Secrétaire général adjoint de ville
+8 : 985 9 : 1015 Secrétaire général adjoint de communes
 
 - de 20.000 à 40.000 habitants
 
