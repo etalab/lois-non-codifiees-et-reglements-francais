@@ -536,7 +536,6 @@
 - [Arrêté du 27 novembre 2001 (DEFP0102359A)](arrete-du-27-novembre-2001-defp0102359a)
 - [Arrêté du 27 novembre 2001 (MESG0123867A)](arrete-du-27-novembre-2001-mesg0123867a)
 - [Arrêté du 27 septembre 2001 (EQUS0101405A)](arrete-du-27-septembre-2001-equs0101405a)
-- [Arrêté du 28 août 2001 (INTE0100529A)](arrete-du-28-aout-2001-inte0100529a)
 - [Arrêté du 28 août 2001 (MJSK0170062A)](arrete-du-28-aout-2001-mjsk0170062a)
 - [Arrêté du 28 décembre 2000 (INTB0000803A)](arrete-du-28-decembre-2000-intb0000803a)
 - [Arrêté du 28 décembre 2000 (MENE0003244A)](arrete-du-28-decembre-2000-mene0003244a)
