@@ -1,13 +1,9 @@
 # Article 100
 
-Les assesseurs peuvent être récusés [*motifs de récusation*] :
+La juridiction territorialement compétente pour connaître des différends qui peuvent s'élever à l'occasion du contrat de travail est celle dans le ressort de laquelle est effectué le travail.
 
-1° Quand ils ont un intérêt personnel à la contestation, le seul fait d'être affiliés à une organisation syndicale ne constituant pas cet intérêt personnel ;
+Toutefois, après la rupture du contrat de travail, le salarié dont le domicile est situé dans un lieu du territoire de la République autre que celui où a été effectué le travail peut saisir la juridiction du lieu de son domicile.
 
-2° Quand ils sont parents ou alliés d'une des parties jusqu'au degré de cousin germain inclusivement ;
+Lorsque, après la rupture de son contrat de travail, le salarié saisit la juridiction du lieu de son domicile pour connaître d'un différend né à l'occasion de ce contrat, les dispositions applicables au règlement du litige sont celles qui ont régi le contrat de travail de l'intéressé.
 
-3° Si, dans l'année qui a précédé la récusation, il y a eu action judiciaire, pénale ou civile entre eux et l'une des parties ou son conjoint ou ses parents ou alliés en ligne directe ;
-
-4° S'ils ont donné un avis écrit dans l'affaire ;
-
-5° S'ils sont employeurs ou salariés de l'une des parties en cause.
+Toute clause qui, directement ou indirectement, déroge aux dispositions qui précèdent est réputée non écrite.

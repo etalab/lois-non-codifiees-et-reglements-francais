@@ -1,5 +1,9 @@
 # Article 100
 
-Le tribunal territorialement compétent est celui du lieu de travail. Toutefois, pour les litiges nés de la rupture du contrat de travail, le salarié dont la résidence habituelle est située en métropole, dans un département d'outre-mer ou un territoire d'outre-mer autre que celui du lieu de travail aura le choix entre le tribunal de cette résidence et celui du lieu de travail.
+La juridiction territorialement compétente pour connaître des différends qui peuvent s'élever à l'occasion du contrat de travail est celle dans le ressort de laquelle est effectué le travail.
+
+Toutefois, après la rupture du contrat de travail, le salarié dont le domicile est situé dans un lieu du territoire de la République autre que celui où a été effectué le travail peut saisir la juridiction du lieu de son domicile.
+
+Lorsque, après la rupture de son contrat de travail, le salarié saisit la juridiction du lieu de son domicile pour connaître d'un différend né à l'occasion de ce contrat, les dispositions applicables au règlement du litige sont celles qui ont régi le contrat de travail de l'intéressé.
 
 Toute clause qui, directement ou indirectement, déroge aux dispositions qui précèdent est réputée non écrite.
