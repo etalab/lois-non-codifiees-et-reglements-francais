@@ -1,5 +1,5 @@
 # Article 21
 
-Seules les personnes régulièrement autorisées pourront, sur présentation de l'autorisation ou du récépissé de la déclaration prévue par l'article 2 du présent décret, se porter acquéreurs dans les ventes publiques des matériels classés dans les catégories 1, 2, 3, 4 et 6.
+Seules les personnes satisfaisant aux prescriptions de l'article 2 peuvent se porter acquéreur dans les ventes publiques des matériels de guerre, armes et munitions et de leurs éléments des 1re, 2e, 3e, 4e catégories ainsi que des armes de 6e catégorie énumérées par décret en Conseil d'Etat.
 
 La vente de ces mêmes matériels par les brocanteurs est interdite.

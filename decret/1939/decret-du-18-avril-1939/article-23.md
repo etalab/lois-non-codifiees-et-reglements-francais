@@ -1,6 +1,6 @@
 # Article 23
 
-L'autorité administrative pourra retirer l'autorisation prévue au troisième alinéa de l'article 2 ci-dessus à tout individu ayant commis un manquement aux dispositions du présent décret ou des décrets et arrêtés d'application, ou à la législation du travail.
+L'autorité administrative pourra retirer l'autorisation prévue au I de l'article 2 ci-dessus à tout individu ayant commis un manquement aux dispositions du présent décret ou des décrets et arrêtés d'application, ou à la législation du travail.
 
 La même sanction pourra être prise à l'encontre de tout individu ayant encouru une condamnation pour crime ou à plus de trois mois d'emprisonnement, avec ou sans sursis, pour l'une des infractions énumérées par un décret d'application.
 
