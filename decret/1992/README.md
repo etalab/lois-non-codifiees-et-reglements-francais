@@ -446,7 +446,6 @@
 - [Décret n°87-100 du 13 février 1987 (EQUP8700126D)](decret-n87-100-du-13-fevrier-1987-equp8700126d)
 - [Décret n°88-350 du 13 avril 1988 (EQUP8800108D)](decret-n88-350-du-13-avril-1988-equp8800108d)
 - [Décret n°92-1154 du 13 octobre 1992 (ECOT9213618D)](decret-n92-1154-du-13-octobre-1992-ecot9213618d)
-- [Décret n°92-1155 du 13 octobre 1992 (ECOT9213619D)](decret-n92-1155-du-13-octobre-1992-ecot9213619d)
 - [Décret n°92-1209 du 13 novembre 1992 (ENVE9200061D)](decret-n92-1209-du-13-novembre-1992-enve9200061d)
 - [Décret n°92-1210 du 13 novembre 1992 (SANH9202490D)](decret-n92-1210-du-13-novembre-1992-sanh9202490d)
 - [Décret n°92-1211 du 13 novembre 1992 (SANH9202198D)](decret-n92-1211-du-13-novembre-1992-sanh9202198d)

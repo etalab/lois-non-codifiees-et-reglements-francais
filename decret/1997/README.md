@@ -795,7 +795,6 @@
 - [Décret n°97-195 du 27 février 1997 (AGRA9700032D)](decret-n97-195-du-27-fevrier-1997-agra9700032d)
 - [Décret n°97-196 du 27 février 1997 (AGRB9601534D)](decret-n97-196-du-27-fevrier-1997-agrb9601534d)
 - [Décret n°97-197 du 27 février 1997 (AGRB9601535D)](decret-n97-197-du-27-fevrier-1997-agrb9601535d)
-- [Décret n°97-284 du 27 mars 1997 (EQUM9702118D)](decret-n97-284-du-27-mars-1997-equm9702118d)
 - [Décret n°97-287 du 27 mars 1997 (MJSX9600157D)](decret-n97-287-du-27-mars-1997-mjsx9600157d)
 - [Décret n°97-288 du 27 mars 1997 (DEFP9701290D)](decret-n97-288-du-27-mars-1997-defp9701290d)
 - [Décret n°97-293 du 27 mars 1997 (TASP9720041D)](decret-n97-293-du-27-mars-1997-tasp9720041d)
