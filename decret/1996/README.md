@@ -410,7 +410,6 @@
 - [Décret n°96-350 du 24 avril 1996 (PRMX9600029D)](decret-n96-350-du-24-avril-1996-prmx9600029d)
 - [Décret n°96-352 du 24 avril 1996 (BUDF9500012D)](decret-n96-352-du-24-avril-1996-budf9500012d)
 - [Décret n°96-353 du 24 avril 1996 (ECOT9610263D)](decret-n96-353-du-24-avril-1996-ecot9610263d)
-- [Décret n°96-354 du 24 avril 1996 (AGRS9600750D)](decret-n96-354-du-24-avril-1996-agrs9600750d)
 - [Décret n°96-363 du 24 avril 1996 (EQUU9600216D)](decret-n96-363-du-24-avril-1996-equu9600216d)
 - [Décret n°96-365 du 24 avril 1996 (AGRP9502499D)](decret-n96-365-du-24-avril-1996-agrp9502499d)
 - [Décret n°96-54 du 24 janvier 1996 (JUSC9520945D)](decret-n96-54-du-24-janvier-1996-jusc9520945d)
