@@ -4,11 +4,15 @@ Engage la responsabilité de son auteur et l'oblige à réparer le préjudice ca
 
 1. De pratiquer, à l'égard d'un partenaire économique, ou d'obtenir de lui des prix, des délais de paiement, des conditions de vente ou des modalités de vente ou d'achat discriminatoires et non justifiés par des contreparties réelles en créant, de ce fait, pour ce partenaire, un désavantage ou un avantage dans la concurrence ;
 
-2. De refuser de satisfaire aux demandes des acheteurs de produits ou aux demandes de prestations de service, lorsque ces demandes ne présentent aucun caractère anormal, qu'elles sont faites de bonne foi et que le refus n'est pas justifié par les dispositions de l'article 10 ;
+2. (paragraphes supprimés).
 
-La demande d'un acheteur est présumée présenter un caractère anormal au sens de l'alinéa précédent lorsqu'il est établi que cet acheteur procède à l'une ou l'autre des pratiques déloyales visées par les articles 32 à 37 du présent titre.
+3. D'obtenir ou de tenter d'obtenir un avantage, condition préalable à la passation de commandes, sans l'assortir d'un engagement écrit sur un volume d'achat proportionné et, le cas échéant, d'un service demandé par le fournisseur et ayant fait l'objet d'un accord écrit ;
 
-3. De subordonner la vente d'un produit ou la prestation d'un service soit à l'achat concomitant d'autres produits, soit à l'achat d'une quantité imposée, soit à la prestation d'un autre service.
+4. D'obtenir ou de tenter d'obtenir, sous la menace d'une rupture brutale des relations commerciales, des prix, des délais de paiement, des modalités de vente ou des conditions de coopération commerciale manifestement dérogatoires aux conditions générales de vente ;
+
+5. De rompre brutalement, même partiellement, une relation commerciale établie, sans préavis écrit tenant compte des relations commerciales antérieures ou des usages reconnus par des accords interprofessionnels. Les dispositions précédentes ne font pas obstacle à la faculté de résiliation sans préavis, en cas d'inexécution par l'autre partie de ses obligations ou de force majeure ;
+
+6. De participer directement ou indirectement à la violation de l'interdiction de revente hors réseau faite au distributeur lié par un accord de distribution sélective ou exclusive exempté au titre des règles applicables du droit de la concurrence.
 
 L'action est introduite devant la juridiction civile ou commerciale compétente par toute personne justifiant d'un intérêt, par le parquet, par le ministre chargé de l'économie ou par le président du Conseil de la concurrence, lorsque ce dernier constate, à l'occasion des affaires qui relèvent de sa compétence, une pratique mentionnée au présent article.
 

@@ -10,10 +10,8 @@ La communication prévue au premier alinéa s'effectue par tout moyen conforme a
 
 Les conditions dans lesquelles un distributeur ou un prestataire de services se fait rémunérer par ses fournisseurs, en contrepartie de services spécifiques, doivent faire l'objet d'un contrat écrit en double exemplaire détenu par chacune des deux parties.
 
-Toute infraction aux dispositions visées ci-dessus sera punie d'une amende de 100.000 F.    Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal [*sanctions pénales*].
+Toute infraction aux dispositions visées ci-dessus sera punie d'une amende de 100.000 F.
 
-Les peines encourues par les personnes morales sont :
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal [*sanctions pénales*].
 
-1° L'amende, suivant les modalités prévues par l'article 131-38 dudit code ;
-
-2° La peine, mentionnée au 5° de l'article 131-39 dudit code, d'exclusion des marchés publics pour une durée de cinq ans au plus.
+La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par l'article 131-38 dudit code.
