@@ -86,7 +86,11 @@ Médecine polyvalente gériatrique.
 
 16   Endocrinologie et maladies métaboliques.
 
-56   Epidémio, éco. santé, prévention, hyg. hosp. biostat., info.méd. 20   Gastro-entérologie et hépatologie.
+56   Epidémiologie, économie de la santé, prévention, biostatistique, information médicale.
+
+Hygiène hospitalière.
+
+20   Gastro-entérologie et hépatologie.
 
 21   Hématologie clinique.
 

@@ -114,7 +114,13 @@ L'urne des personnels enseignants et hospitaliers est commune pour les spéciali
 
 Les personnels enseignants et hospitaliers constituant l'urne de la spécialité explorations fonctionnelles sont ceux de la discipline Physiologie.
 
-Les jurys de la spécialité hygiène hospitalière sont constitués pour moitié par tirage au sort dans les urnes de bactériologie-virologie et pour moitié par tirage au sort dans les urnes d'épidémiologie, économie de la santé, prévention, hygiène hospitalière, biostatistique, informatique médicale.
+Les jurys de la spécialité Hygiène hospitalière sont constitués :
+
+Par tiers par tirage au sort dans l'urne épidémiologie, économie de la santé, prévention ;
+
+Par tiers par tirage au sort dans l'urne maladies infectieuses, maladies tropicales ;
+
+Par tiers par tirage au sort dans les urnes bactériologie, virologie, hygiène.
 
 Le tirage au sort du jury de chirurgie maxillo-faciale est effectué avant celui de stomatologie. Le tirage au sort du jury de biophysique est effectué avant celui du jury de médecine nucléaire.
 
