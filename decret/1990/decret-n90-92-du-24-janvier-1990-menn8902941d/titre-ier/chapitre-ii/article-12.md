@@ -4,8 +4,14 @@ Le jury apprécie les titres universitaires, les travaux de recherche, les fonct
 
 Pour chaque dossier, le président désigne deux rapporteurs qui déposent chacun un rapport écrit. Le jury examine les rapports et entend les rapporteurs.
 
-Chaque candidat fait ensuite devant le jury un exposé oral sur ses travaux, suivi immédiatement d'une discussion avec les membres du jury.
+Chaque candidat fait ensuite devant le jury une présentation orale de ses travaux, suivie d'une discussion avec les membres du jury et d'un exposé destiné à apprécier ses aptitudes didactiques dont le thème, fixé par le jury, est en rapport avec ses travaux personnels.
 
-Le jury arrête par ordre alphabétique la liste des candidats admis, qui comprend au maximum un nombre de noms égal à celui des postes à pourvoir augmenté de deux ou, si le nombre des postes à pourvoir est inférieur à trois, augmenté d'un nom.
+Dans certaines disciplines dont la liste est fixée par arrêté conjoint des ministres chargés de l'enseignement supérieur et de la santé, le candidat doit également satisfaire à une épreuve pédagogique pratique adaptée à la discipline dans laquelle il concourt.
+
+Les modalités d'organisation et la durée des épreuves mentionnées aux deux alinéas précédents sont fixées par arrêté conjoint des ministres chargés de l'enseignement supérieur et de la santé.
+
+Dans le cas où la discipline hospitalière de l'emploi diffère de la discipline universitaire, un candidat ne peut être inscrit sur la liste d'admission qu'avec l'accord de la sous-section du Conseil national des universités compétente pour la discipline hospitalière.
+
+Le jury arrête par ordre alphabétique la liste des candidats admis.
 
 La liste est publiée au Journal officiel de la République française.

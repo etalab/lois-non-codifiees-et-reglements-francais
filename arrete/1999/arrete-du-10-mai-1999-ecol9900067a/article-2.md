@@ -1,0 +1,3 @@
+# Article 2
+
+Ces traitements peuvent être mis en oeuvre sur des micro-ordinateurs autonomes ou en réseau local installés dans les services cités à l'article 1er. Ils peuvent avoir pour fonctions le suivi des réclamations, des demandes de renseignements, des demandes de dégrèvement, des demandes de sursis de paiement et des instances juridictionnelles introduites par les contribuables relevant du service, la gestion des remboursements de crédits de taxe sur la valeur ajoutée aux entreprises étrangères, la gestion des plafonnements de taxe professionnelle qui sont fonction de la valeur ajoutée et la gestion des demandes d'admission en non-valeur.
