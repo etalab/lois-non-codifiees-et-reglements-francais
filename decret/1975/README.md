@@ -22,6 +22,7 @@
 - [Décret n°75-936 du 13 octobre 1975](decret-n75-936-du-13-octobre-1975)
 - [Décret n°75-354 du 13 mai 1975](decret-n75-354-du-13-mai-1975)
 - [Décret n°73-314 du 14 mars 1973](decret-n73-314-du-14-mars-1973)
+- [Décret n°75-770 du 14 août 1975](decret-n75-770-du-14-aout-1975)
 - [Décret n°75-1166 du 15 décembre 1975](decret-n75-1166-du-15-decembre-1975)
 - [Décret n°75-360 du 15 mai 1975](decret-n75-360-du-15-mai-1975)
 - [Décret n°75-1195 du 16 décembre 1975](decret-n75-1195-du-16-decembre-1975)
