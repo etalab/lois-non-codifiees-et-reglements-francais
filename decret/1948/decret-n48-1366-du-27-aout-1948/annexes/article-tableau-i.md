@@ -1,5 +1,0 @@
-# Article Tableau I
-
-TARIF DE L'INDEMNITE POUR FRAIS DE REPRESENTATION
-
-(non reproduit)
