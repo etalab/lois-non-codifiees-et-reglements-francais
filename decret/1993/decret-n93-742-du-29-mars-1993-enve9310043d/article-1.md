@@ -22,9 +22,9 @@ h) Le décret du 7 mai 1980 susvisé ;
 
 i) Le décret du 15 avril 1981 susvisé ;
 
-j) [*supprimé*]
+k) [*supprimé*]
 
-k) Le décret du 3 janvier 1989 susvisé.
+j) [*supprimé*]
 
 Lorsque ces décrets prévoient des procédures d'autorisation ou de déclaration, les actes délivrés en application de ces textes valent autorisation ou déclaration au titre de la loi du 3 janvier 1992 susvisée.
 
@@ -35,3 +35,5 @@ IV. - Sont seules applicables, au lieu et place des dispositions du présent dé
 a) Le décret n° 94-894 du 13 octobre 1994 relatif à la concession et à la déclaration d'utilité publique des ouvrages utilisant l'énergie hydraulique.
 
 b) Les dispositions des titres II et III du livre Ier nouveau du code rural.
+
+c) Le décret 89-3 du 3 janvier 1989 modifié relatif aux eaux destinées à la consommation humaine, à l'exclusion des eaux minérales naturelles.

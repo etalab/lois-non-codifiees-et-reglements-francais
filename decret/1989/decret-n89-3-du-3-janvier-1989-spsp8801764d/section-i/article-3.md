@@ -10,7 +10,7 @@ Sur demande de la personne publique ou privée qui assure la distribution d'eau,
 
 4° Lorsqu'il ne peut être fait appel qu'à une ressource en eau superficielle dont la qualité ne respecte pas les limites de qualité des eaux brutes fixées à l'annexe III du présent décret et qu'il ne peut être envisagé un traitement approprié pour obtenir une eau de la qualité définie à l'annexe I-1.
 
-Dans les situations définies aux 1° et 2° ci-dessus, les dérogations ne peuvent en aucun cas porter sur les paramètres concernant les substances toxiques ou sur les paramètres microbiologiques ni entraîner un risque pour la santé publique. Les dérogations prévues au 2° sont accordées pour une durée limitée.
+Dans les situations définies aux 1° et 2° ci-dessus, les dérogations ne peuvent en aucun cas porter sur les paramètres concernant les substances toxiques, sur les paramètres microbiologiques ou sur les pesticides et produits apparentés ni entraîner un risque pour la santé publique. Les dérogations prévues au 2° sont accordées pour une durée limitée.
 
 Dans les situations définies aux 3° et 4°, les dérogations sont accordées pour une période de temps limitée et ne doivent présenter aucun risque inacceptable pour la santé publique.
 

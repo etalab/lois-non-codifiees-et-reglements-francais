@@ -11,3 +11,5 @@ Le préfet peut imposer à l'exploitant des analyses complémentaires dans les c
 4° Une dérogation est accordée en application de l'article 3 du présent décret ;
 
 5° Certaines personnes présentent des troubles ou les symptômes d'une maladie pouvant provenir des eaux distribuées.
+
+Lorsque les matériaux mis en oeuvre dans les installations de distribution existantes et la qualité des eaux placées à leur contact sont par nature incompatibles, de telle sorte que les exigences de qualité définies au paragraphe D de l'annexe I-1 du présent décret risquent de ne pas être satisfaites, le préfet peut ordonner la réalisation d'analyses complémentaires, à la charge du ou des propriétaires desdites installations.

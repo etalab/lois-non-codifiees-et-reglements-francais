@@ -3,5 +3,4 @@
 - [Section I : Dispositions générales.](section-i)
 - [Section III : Dispositions relatives aux distributions collectives, publiques et privées.](section-iii)
 - [Section IV : Dispositions relatives aux eaux conditionnées autres que les eaux minérales naturelles et à la glace alimentaire d'origine hydrique.](section-iv)
-- [Section V : Dispositions particulières.](section-v)
 - [Article 38](article-38.md)
