@@ -11,6 +11,7 @@
 - [Décret n°73-462 du 4 mai 1973](decret-n73-462-du-4-mai-1973)
 - [Décret n°73-124 du 5 février 1973](decret-n73-124-du-5-fevrier-1973)
 - [Décret n°73-132 du 5 février 1973](decret-n73-132-du-5-fevrier-1973)
+- [Décret n°73-613 du 5 juillet 1973](decret-n73-613-du-5-juillet-1973)
 - [Décret n°73-243 du 6 mars 1973](decret-n73-243-du-6-mars-1973)
 - [Décret n°73-317 du 6 mars 1973](decret-n73-317-du-6-mars-1973)
 - [Décret n°73-250 du 7 mars 1973](decret-n73-250-du-7-mars-1973)
