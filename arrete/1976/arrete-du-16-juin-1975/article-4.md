@@ -1,3 +1,3 @@
 # Article 4
 
-Les superficies maxima des cumuls visées à l'article 188-1 du Code rural sont fixées à 2,5 fois les superficies minimum d'installation, soit respectivement pour les régions citées à l'article premier ci-dessus : 50 hectares, 62 hectares, 38 hectares.
+La superficie maximum des cumuls visée à l'article 188-1 du Code rural est fixée à 60 hectares pour l'ensemble du département de la Vendée.
