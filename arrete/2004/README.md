@@ -116,6 +116,7 @@
 - [Arrêté du 8 janvier 2004 (AGRP0400182A)](arrete-du-8-janvier-2004-agrp0400182a)
 - [Arrêté du 8 janvier 2004 (BUDD0370012A)](arrete-du-8-janvier-2004-budd0370012a)
 - [Arrêté du 8 janvier 2004 (MAEF0310097A)](arrete-du-8-janvier-2004-maef0310097a)
+- [Arrêté du 8 juin 2004 (AGRP0401330A)](arrete-du-8-juin-2004-agrp0401330a)
 - [Arrêté du 8 juin 2004 (ECOF0400123A)](arrete-du-8-juin-2004-ecof0400123a)
 - [Arrêté du 8 juin 2004 (ECOP0400071A)](arrete-du-8-juin-2004-ecop0400071a)
 - [Arrêté du 8 juin 2004 (MENF0400813A)](arrete-du-8-juin-2004-menf0400813a)
