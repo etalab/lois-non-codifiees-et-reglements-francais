@@ -12,10 +12,12 @@ Chaque examen comporte une seule session par an.
 
 L'autorisation de poursuivre les études en vue du certificat d'études cliniques spéciales mention Orthodontie est prononcée par le directeur de l'U.F.R. d'odontologie après avis du responsable de la formation, compte tenu des notes obtenues au test d'aptitude et du dossier du candidat.
 
+Nul ne peut être autorisé à se présenter plus de quatre fois au test d'aptitude.
+
 2° Examens de fin de première, de deuxième et de troisième année.
 
 Ces examens comportent des épreuves théoriques et pratiques dont les modalités sont définies par le conseil de l'unité de formation et de recherche après approbation par le président de l'université. Pour être admis à s'inscrire dans l'année d'étude supérieure, les candidats doivent avoir obtenu la moitié du maximum des points.
 
 Les candidats n'ayant pas satisfait aux conditions précisées au précédent alinéa accomplissent à nouveau la scolarité de première, de deuxième ou de troisième année ; le bénéfice de leur succès à l'examen subi à la fin du premier trimestre de la première année leur reste définitivement acquis.
 
-Les candidats ayant été admis au premier examen de la première année ne peuvent prendre plus de deux inscriptions successives pour chacune des trois premières années d'études.
+Les candidats ayant été admis au premier examen de la première année ne peuvent prendre plus de deux inscriptions pour chacune des trois premières années d'études.

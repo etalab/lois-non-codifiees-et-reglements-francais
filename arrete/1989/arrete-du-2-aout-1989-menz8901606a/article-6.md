@@ -12,16 +12,18 @@ Chaque examen comporte une seule session par an.
 
 L'autorisation de poursuivre les études en vue du diplôme d'études supérieures de chirurgie buccale est prononcée par le directeur de l'U.F.R. d'odontologie après avis du responsable de la formation, compte tenu des notes obtenues au test d'aptitude et du dossier du candidat.
 
+Nul ne peut être autorisé à se présenter plus de quatre fois au test d'aptitude.
+
 2° Examens de fin de première et de deuxième année :
 
 Ces examens comportent :
 
-1. Des épreuves écrites anonymes portant sur l'enseignement théorique et dirigé :
+1. Des épreuves écrites anonymes portant sur l'enseignement théorique et dirigé ;
 
-2. Une épreuve clinique :
+2. Une épreuve clinique ;
 
 3. Une épreuve de pratique chirurgicale.
 
 Pour être admis à s'inscrire dans l'année supérieure, les candidats doivent avoir obtenu la moitié du maximum des points.
 
-Les candidats n'ayant pas satisfait aux conditions précisées au précédent alinéa accomplissent à nouveau la scolarité de première ou de deuxième année ; le bénéfice du succès à l'examen subi à la fin du premier trimestre de la première année leur reste définitivement acquis. Les candidats ayant été admis à cet examen ne peuvent prendre plus de deux inscriptions successives pour chacune des deux premières années d'études.
+Les candidats n'ayant pas satisfait aux conditions précisées au précédent alinéa accomplissent à nouveau la scolarité de première ou de deuxième année ; le bénéfice du succès à l'examen subi à la fin du premier trimestre de la première année leur reste définitivement acquis. Les candidats ayant été admis à cet examen ne peuvent prendre plus de deux inscriptions pour chacune des deux premières années d'études.
