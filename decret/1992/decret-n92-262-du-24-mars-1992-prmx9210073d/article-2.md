@@ -8,7 +8,7 @@ a) D'un représentant de chacun des dix ministres suivants :
 
 - le ministre chargé de l'économie et des finances ;
 
-- le ministre chargé de la ville et de l'aménagement du territoire ;
+- le ministre chargé de l'équipement ;
 
 - le ministre de la justice ;
 
@@ -20,7 +20,7 @@ a) D'un représentant de chacun des dix ministres suivants :
 
 - le ministre chargé du travail, de l'emploi et de la formation professionnelle ;
 
-- le ministre chargé de l'équipement et du logement ;
+- le ministre chargé du logement ;
 
 - le ministre chargé du commerce et de l'artisanat.
 
