@@ -474,7 +474,6 @@
 - [Arrêté du 13 juillet 1994 (AGRG9401408A)](arrete-du-13-juillet-1994-agrg9401408a)
 - [Arrêté du 13 juillet 1994 (EQUE9400993A)](arrete-du-13-juillet-1994-eque9400993a)
 - [Arrêté du 13 juillet 1994 (MENA9401276A)](arrete-du-13-juillet-1994-mena9401276a)
-- [Arrêté du 13 juillet 1994 (MJSK9470118A)](arrete-du-13-juillet-1994-mjsk9470118a)
 - [Arrêté du 13 juin 1994 (ECOS9450016A)](arrete-du-13-juin-1994-ecos9450016a)
 - [Arrêté du 13 juin 1994 (ECOT9410212A)](arrete-du-13-juin-1994-ecot9410212a)
 - [Arrêté du 13 juin 1994 (ENVN9430207A)](arrete-du-13-juin-1994-envn9430207a)
