@@ -1,9 +1,5 @@
 # Article 4
 
-Sans préjudice des règles applicables au permis de construire, toute personne physique ou morale qui se propose de recevoir d'une manière habituelle, sur un terrain lui appartenant ou dont elle a la jouissance, plus de 20 campeurs ou de 6 abris de camping à la fois soit à titre gratuit, soit à titre onéreux, est tenue d'en demander l'autorisation au préfet du département sur lequel est situé le terrain qui prend alors la dénomination de terrain de camping aménagé.
-
-Toutefois des dérogations concernant le nombre de campeurs et d'abris de camping à partir duquel les autorisations doivent être demandées peuvent être décidées par le préfet après avis de la commission départementale de l'Action touristique.
-
 Un décret déterminera :
 
 1° les conditions auxquelles cette autorisation sera accordée d'une manière temporaire ou permanente et pourra être suspendue ou retirée ;
