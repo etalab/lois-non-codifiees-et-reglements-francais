@@ -7,6 +7,7 @@
 - [Décret n°2003-16 du 2 janvier 2003 (AGRR0200056D)](decret-n2003-16-du-2-janvier-2003-agrr0200056d)
 - [Décret n°2003-300 du 2 avril 2003 (JUSJ0390012D)](decret-n2003-300-du-2-avril-2003-jusj0390012d)
 - [Décret n°2003-301 du 2 avril 2003 (BUDR0360102D)](decret-n2003-301-du-2-avril-2003-budr0360102d)
+- [Décret n°2003-304 du 2 avril 2003 (SOCS0320421D)](decret-n2003-304-du-2-avril-2003-socs0320421d)
 - [Décret n°2004-954 du 2 septembre 2004 (DEFP0400931D)](decret-n2004-954-du-2-septembre-2004-defp0400931d)
 - [Décret n°2004-955 du 2 septembre 2004 (DEFP0400932D)](decret-n2004-955-du-2-septembre-2004-defp0400932d)
 - [Décret n°2000-381 du 2 mai 2000 (ECOI0000168D)](decret-n2000-381-du-2-mai-2000-ecoi0000168d)
