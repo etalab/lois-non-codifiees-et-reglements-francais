@@ -9,6 +9,5 @@
 - [Article EF 10](article-ef-10.md)
 - [Article EF 11](article-ef-11.md)
 - [Article EF 12](article-ef-12.md)
-- [Article EF12](article-ef12.md)
 - [Article EF 13](article-ef-13.md)
 - [Article EF14](article-ef14.md)

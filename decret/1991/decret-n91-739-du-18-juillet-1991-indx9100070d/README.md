@@ -3,4 +3,3 @@
 - [Titre Ier : Des chambres de commerce et d'industrie](titre-ier)
 - [Titre II : Des chambres régionales de commerce et d'industrie.](titre-ii)
 - [Titre IV : Dispositions communes](titre-iv)
-- [Titre V : Dispositions transitoires et finales.](titre-v)
