@@ -1,109 +1,59 @@
-# Article Annexe
+# Article ANNEXE
 
-TABLEAU I
+1. Corps de métropole
 
-Ingénieur de l'école polytechnique.
+Veste
 
-Ingénieur civil des ponts et chaussées (école nationale des ponts et chaussées).
+En tissu de nuance bleu marine clair ; entièrement doublée ; devants de forme droite avec bas arrondi ; deux boutons réglementaires ; boutonnières passepoilées ; première boutonnière à 6 cm au-dessus de la taille, écart de 11 cm entre les deux boutonnières ; revers à cran aigu ; couture bretelle de l'épaule allant jusqu'en bas ; petit côté ; deux poches plaquées avec rabat une pointe ; une poche poitrine côté gauche plaquée avec rabat une pointe ; pattes d'épaules cousues dans les têtes de manches ; surpiqre des devants, du col, des poches et des pattes d'épaules à 1 cm des bords ; manches montées en deux morceaux avec ouverture de 6 cm au bas de la manche ; dos étroit, une fente médiane de 22 cm. Attributs : deux boutons sapeurs-pompiers de 22 mm devant, un bouton sapeur-pompier de 12 mm sur chaque patte d'épaule, en plaqué argent (pour les officiers et adjudants) ou chromés (pour les sous-officiers, caporaux et sapeurs), estampés en relief d'une grenade et portant en exergue " sapeurs-pompiers " ; col avec l'insigne distinctif général ; une paire de pattes d'épaules amovible en velours noir avec une boutonnière.
 
-Ingénieur civil des mines (école nationale supérieure des mines de Paris et école nationale supérieure des mines de Saint-Etienne).
+Jupe
 
-Ingénieur des arts et manufactures (école centrale des arts et manufactures).
+Même tissu que la veste ; entièrement doublée ; de forme évasée ; le devant en un morceau avec un pli creux au milieu (arrêtement à hauteur des hanches) ; le dos en deux morceaux, fermeture à glissière au milieu ; ceinture de 2,5 cm de haut ; fermeture par agrafe.
 
-Ingénieur de l'école supérieure d'électricité.
+Pantalon
 
-Ingénieur de l'école centrale de Lyon.
+Même tissu que la veste ; sans poche ni doublure ; fermeture à glissière devant ; ceinture de 2,5 cm en gros grain retourné à l'intérieur ; fermeture par agrafe.
 
-Ingénieur civil de l'école nationale supérieure des télécommunications.
+Chemisier
 
-Ingénieur de l'école nationale supérieure de l'aéronautique et de l'espace.
+En tissu de nuance bleu ciel ; col avec pied de col, deux pointes ; pattes d'épaules ; deux poches poitrine avec pli Watteau et rabat une pointe ; poignets simples un bouton.
 
-Ingénieur diplômé de l'école navale.
+Toque
 
-Ingénieur de l'école nationale supérieure des techniques avancées.
+Même tissu que l'uniforme ; comprend une calotte de forme bombée et un bandeau en forme de 5,5 cm de haut sur le devant et 9,5 cm derrière.
 
-Ingénieur civil de la métallurgie et des mines de l'école nationale supérieure de la métallurgie et de l'industrie des mines de Nancy.
+Calot
 
-Ingénieur de l'école nationale du génie rural des eaux et des forêts.
+Même tissu que l'uniforme ; modèle armée de l'air.
 
-Ingénieur de l'armée de terre (option bâtiment et travaux publics) de l'école supérieure du génie militaire de Versailles.
+Cravate
 
-Ingénieur de l'école spéciale des travaux publics, du bâtiment et de l'industrie (toutes options).
+De couleur bleu marine.
 
-Ingénieur de l'école nationale supérieure d'arts et métiers (anciennement écoles nationales des arts et métiers d'Aix-en-Provence, Angers, Bordeaux, Châlons-sur-Marne, Cluny, Lille).
+Gants
 
-Ingénieur de l'école nationale supérieure des arts et industries de Strasbourg (ex-école nationale d'ingénieurs de Strasbourg).
+a) Tenues dites " de service " et " de ville ", tous grades : en cuir noir.
 
-Ingénieur de l'école nationale supérieure de géologie appliquée et de prospection minière de Nancy.
+b) Tenue de cérémonie, tous grades : de couleur blanche.
 
-Diplôme d'architecte.
+Chaussures
 
-Ingénieur de l'école nationale supérieure d'hydraulique de Grenoble.
+a) Tenue dite " de service ", tous grades : chaussures basses, noires, modèle trotteur, talons de 6 cm.
 
-Ingénieur de l'école nationale supérieure d'électronique et de radio-électricité de Grenoble.
+b) Tenue dite " de ville ", tous grades : chaussures basses, noires, modèle escarpin, talons de 6 cm.
 
-Ingénieur de l'école nationale supérieure d'électrotechnique et de génie physique de Grenoble.
+Manteau
 
-Ingénieur de l'école nationale supérieure d'informatique et de mathématiques appliquées de Grenoble.
+En tissu de nuance bleu marine clair ; forme croisée ; trois boutons réglementaires ; une fente dos ; petits côtés ; manches montées ; poches raglan ; pattes d'épaules ; écusson sur le col avec l'insigne distinctif général.
 
-Ingénieur de l'institut industriel du Nord de la France.
+2. Corps d'outre-mer
 
-Ingénieur électronicien de l'E.N.R.E.A. de l'école nationale de radiotechnique et d'électricité appliquée de Clichy (délivré jusqu'en juin 1975).
+Mêmes dispositions que pour les corps de métropole avec les aménagements suivants :
 
-Ingénieur de l'école nationale supérieure de l'électronique et de ses applications.
+Tissu
 
-Ingénieur de l'école nationale supérieure d'électricité et de mécanique de Nancy (ex-institut électrotechnique de Nancy).
+Toile blanche.
 
-Ingénieur de l'école nationale supérieure d'électronique et d'électromécanique de Caen.
+Veste et jupe
 
-Ingénieur de l'école nationale supérieure de mécanique et d'aérotechnique de Poitiers.
-
-Ingénieur de l'école nationale supérieure d'électrotechnique, d'électronique, d'informatique et d'hydraulique de Toulouse.
-
-Ingénieur de l'école nationale supérieure de mécanique de Nantes.
-
-Ingénieur de l'institut national des sciences appliquées de Lyon (I.N.S.A.).
-
-Ingénieur de l'institut national des sciences appliquées de Toulouse (I.N.S.A.).
-
-Ingénieur de l'institut national des sciences appliquées de Rennes (I.N.S.A.).
-
-Ingénieur de l'institut catholique d'arts et métiers de Lille.
-
-Ingénieur de l'école catholique d'arts et métiers de Lyon.
-
-Ingénieur du conservatoire national des arts et métiers (C.N.A.M.).
-
-Ingénieur diplômé d'Etat (D.P.E.) du conservatoire national des arts et métiers.
-
-Ingénieur diplômé, titulaire en outre du diplôme de l'institut d'études économiques et juridiques appliquées à la construction et à l'habitation du conservatoire national des arts et métiers (I.C.H.).
-
-Ingénieur de l'école des hautes études industrielles de Lille.
-
-Ingénieur diplômé de l'école nationale d'ingénieurs des travaux publics de l'Etat (diplôme délivré depuis 1968).
-
-Ingénieur agronome.
-
-Diplôme d'agronomie approfondie (horticulture et mise en valeur du paysage) délivré depuis 1973 par l'école nationale supérieure d'horticulture de Versailles.
-
-Diplôme de l'école nationale supérieure d'horticulture de Versailles, délivré depuis 1977.
-
-Ingénieur de l'école nationale supérieure d'électronique et de radio-électricité de Bordeaux.
-
-Ingénieur physicien de l'école supérieure de physique et de chimie industrielles de la ville de Paris.
-
-Ingénieur des techniques de l'équipement rural (école nationale des ingénieurs des travaux ruraux et des techniques sanitaires de Strasbourg).
-
-Ingénieur de l'école supérieure d'ingénieurs de Marseille (anciennement école d'ingénieurs de Marseille, école d'électricité industrielle de Marseille et école de radio-électricité et d'électronique de la chambre de commerce et d'industrie de Marseille).
-
-Ingénieur de l'école de l'air.
-
-Ingénieur diplômé de l'école des ingénieurs de la préfecture de Paris, devenue école des ingénieurs de la ville de Paris (diplôme délivré depuis 1969).
-
-Ingénieur de l'école nationale de l'aviation civile.
-
-Ingénieur du génie sanitaire de l'école nationale de la santé publique de Rennes.
-
-Ingénieur de l'école spéciale militaire de Saint-Cyr (option sciences).
-
-Ingénieur de l'école universitaire d'ingénieurs de l'université de Lille-I.
+Supprimer la doublure.

@@ -50,6 +50,8 @@
 - [Décret n°80-218 du 20 mars 1980](decret-n80-218-du-20-mars-1980)
 - [Décret n°80-164 du 21 février 1980](decret-n80-164-du-21-fevrier-1980)
 - [Décret n°80-215 du 21 mars 1980](decret-n80-215-du-21-mars-1980)
+- [Décret n°80-366 du 21 mai 1980](decret-n80-366-du-21-mai-1980)
+- [Décret n°80-372 du 21 mai 1980](decret-n80-372-du-21-mai-1980)
 - [Décret n°80-282 du 22 avril 1980](decret-n80-282-du-22-avril-1980)
 - [Décret n°80-288 du 22 avril 1980](decret-n80-288-du-22-avril-1980)
 - [Décret n°80-96 du 23 janvier 1980](decret-n80-96-du-23-janvier-1980)
