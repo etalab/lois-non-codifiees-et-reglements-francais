@@ -14,7 +14,6 @@
 - [Arrêté du 2 décembre 1988 (TEFT8804150A)](arrete-du-2-decembre-1988-teft8804150a)
 - [Arrêté du 2 février 1988 (ASES8800212A)](arrete-du-2-fevrier-1988-ases8800212a)
 - [Arrêté du 2 février 1988 (BUDF8700009A)](arrete-du-2-fevrier-1988-budf8700009a)
-- [Arrêté du 2 février 1988 (DEFM8801056A)](arrete-du-2-fevrier-1988-defm8801056a)
 - [Arrêté du 2 février 1988 (PRMG8805007A)](arrete-du-2-fevrier-1988-prmg8805007a)
 - [Arrêté du 2 février 1988 (REFC8800005A)](arrete-du-2-fevrier-1988-refc8800005a)
 - [Arrêté du 2 juin 1988 (AGRG8801110A)](arrete-du-2-juin-1988-agrg8801110a)
