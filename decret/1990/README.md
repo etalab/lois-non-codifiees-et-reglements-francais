@@ -257,6 +257,7 @@
 - [Décret n°90-82 du 22 janvier 1990 (PRMX8900173D)](decret-n90-82-du-22-janvier-1990-prmx8900173d)
 - [Décret n°90-426 du 22 mai 1990 (MENF9000619D)](decret-n90-426-du-22-mai-1990-menf9000619d)
 - [Décret n°90-428 du 22 mai 1990 (MENF9000782D)](decret-n90-428-du-22-mai-1990-menf9000782d)
+- [Décret n°90-434 du 22 mai 1990 (TEFF9003442D)](decret-n90-434-du-22-mai-1990-teff9003442d)
 - [Décret n°90-174 du 23 février 1990 (MCCK9000064D)](decret-n90-174-du-23-fevrier-1990-mcck9000064d)
 - [Décret n°90-179 du 23 février 1990 (MENL9000312D)](decret-n90-179-du-23-fevrier-1990-menl9000312d)
 - [Décret n°90-263 du 23 mars 1990 (ECOT9020139D)](decret-n90-263-du-23-mars-1990-ecot9020139d)
