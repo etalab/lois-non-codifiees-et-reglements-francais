@@ -1,0 +1,3 @@
+# Article 22
+
+Le directeur de l'école prononce, après avis du conseil technique, soit un redoublement, soit un arrêt de la formation pour les élèves qui n'ont pas validé un ou plusieurs stages et/ou un ou plusieurs modules et/ou une ou plusieurs mises en situation professionnelle. Le directeur de l'école saisit le conseil technique au moins quinze jours avant sa réunion. Il transmet à chaque membre du conseil technique un rapport motivé et communique le dossier scolaire de chaque élève. Les élèves reçoivent communication de leur dossier dans les mêmes conditions. Ils sont alors entendus par le conseil technique et peuvent être assistés d'une personne de leur choix.

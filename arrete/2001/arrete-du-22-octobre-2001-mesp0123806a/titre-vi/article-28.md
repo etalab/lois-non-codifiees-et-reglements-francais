@@ -1,0 +1,3 @@
+# Article 28
+
+Le préfet de région délivre aux candidats déclarés admis le diplôme d'Etat d'infirmier de bloc opératoire. Il délivre aux candidats visés à l'article 9 du présent arrêté une attestation de réussite aux épreuves visées à l'article 24 du présent arrêté. Cette attestation, dont le modèle figure en annexe III du présent arrêté, mentionne que son titulaire ne peut exercer en France ni la profession d'infirmier ni la profession d'infirmier de bloc opératoire. Elle peut toutefois être échangée contre le diplôme d'Etat d'infirmier de bloc opératoire dès que les intéressés remplissent les conditions exigées pour exercer la profession d'infirmier ou de sage-femme en France.
