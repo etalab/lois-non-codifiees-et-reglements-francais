@@ -199,6 +199,7 @@
 - [Décret n°90-632 du 13 juillet 1990 (MAEJ9030049D)](decret-n90-632-du-13-juillet-1990-maej9030049d)
 - [Décret n°90-633 du 13 juillet 1990 (MAEJ9030050D)](decret-n90-633-du-13-juillet-1990-maej9030050d)
 - [Décret n°90-636 du 13 juillet 1990 (PTTA9000381D)](decret-n90-636-du-13-juillet-1990-ptta9000381d)
+- [Décret n°90-648 du 13 juillet 1990 (RESY9000049D)](decret-n90-648-du-13-juillet-1990-resy9000049d)
 - [Décret n°90-142 du 14 février 1990 (SPSX9010059D)](decret-n90-142-du-14-fevrier-1990-spsx9010059d)
 - [Décret n°90-143 du 14 février 1990 (SPSN9000193D)](decret-n90-143-du-14-fevrier-1990-spsn9000193d)
 - [Décret n°90-144 du 14 février 1990 (DEFF8901816D)](decret-n90-144-du-14-fevrier-1990-deff8901816d)

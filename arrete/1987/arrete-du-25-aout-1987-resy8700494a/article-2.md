@@ -164,7 +164,9 @@ Technicien assistant(e) social(e) ;
 
 Technicien gestion des stocks ;
 
-Technicien de service collectif.
+Technicien de service collectif ;
+
+Technicien en gestion scientifique et technique.
 
 Adjoints techniques
 
@@ -184,7 +186,9 @@ Adjoint technique gestionnaire approvisionnement ;
 
 Adjoint technique conducteur ;
 
-Adjoint technique de service collectif.
+Adjoint technique de service collectif ;
+
+Adjoint technique en gestion scientifique et technique.
 
 Agents techniques
 
