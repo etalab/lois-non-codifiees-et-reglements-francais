@@ -1,11 +1,13 @@
 # Article 2
 
-Le montant des droits prévus à l'article 1er (alinéa 1) ci-dessus sera réduit de 50 p. 100 :
+Le montant des droits prévus aux paragraphe 1er et 3 de l'article 1er ci-dessus est modulé selon le classement toxicologique du produit agricole, conformément à l'annexe III de la directive communautaire n° 67-548 C.E.E., et notamment en fonction des risques qu'il peut faire courir aux applicateurs et à l'environnement.
 
-- pour le renouvellement d'une homologation ;
+La modulation sera effectuée en quatre catégories, selon le barème suivant :
 
-- pour une demande d'homologation qui modifie une formulation en vue de réduire les risques pour l'utilisateur ou l'environnement, et notamment pour les produits autorisés en jardins d'amateur ;
+1re catégorie : produits très toxiques, toxiques, cancérigènes, tératogènes et mutagènes (R 26, R 27, R 28, R 23, R 24, R 25, R 40, R 45, R 46 et R 47), droit majoré d'un coefficient 5 ;
 
-- pour une demande d'homologation qui concerne un produit dont la ou toutes les matières actives ont reçu une autorisation d'emploi depuis plus de quinze ans.
+2e catégorie : produits nocifs, irritants et corrosifs (R 20, R 21, R 22, R 36, R 37, R 38, R 34, R 35, R 41, R 42 et R 43), droit majoré d'un coefficient 3 ;
 
-Pour bénéficier du taux réduit, la demande doit être accompagnée d'une note justifiant son appartenance à l'un des trois alinéas précédents. Le comité d'homologation juge de la validité de cette justification et réclame, le cas échéant, les droits à taux plein.
+3e catégorie : produits ne rentrant pas dans le classement toxicologique, droit non majoré (coefficient 1) ;
+
+4e catégorie : produits non classés, considérés comme non accumulables dans l'environnement, droit minoré par un coefficient 0,5.
