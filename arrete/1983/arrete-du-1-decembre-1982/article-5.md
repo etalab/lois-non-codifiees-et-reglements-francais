@@ -1,0 +1,3 @@
+# Article 5
+
+Le directeur de la réglementation et du contentieux au ministère de l'intérieur et de la décentralisation, le directeur des transports terrestres, le directeur général à l'aviation civile au ministère des transports, le directeur général des douanes et droits indirects au ministère de l'économie et des finances, le directeur de la qualité au ministère de l'agriculture, le directeur de la protection de la nature au ministère de l'environnement, le directeur de la flotte de commerce et de l'équipement naval au ministère de la mer sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
