@@ -7,6 +7,8 @@
 - [Décret n°72-27 du 10 janvier 1972](decret-n72-27-du-10-janvier-1972)
 - [Décret n°72-37 du 11 janvier 1972](decret-n72-37-du-11-janvier-1972)
 - [Décret n°72-38 du 11 janvier 1972](decret-n72-38-du-11-janvier-1972)
+- [Décret n°72-136 du 14 février 1972](decret-n72-136-du-14-fevrier-1972)
+- [Décret n°72-137 du 14 février 1972](decret-n72-137-du-14-fevrier-1972)
 - [Décret n°72-903 du 14 septembre 1972](decret-n72-903-du-14-septembre-1972)
 - [Décret n°75-267 du 15 avril 1975](decret-n75-267-du-15-avril-1975)
 - [Décret n°71-1149 du 17 décembre 1971](decret-n71-1149-du-17-decembre-1971)
