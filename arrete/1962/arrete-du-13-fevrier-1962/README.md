@@ -1,7 +1,4 @@
-# Arrêté du 13 février 1962 relatif au classement indiciaire de certains emplois du personnel des établissements d'hospitalisation, de soins ou de cure publics.
+# Arrêté du 13 février 1962 relatif aux taux de l'indemnité de responsabilité susceptible d'être allouée aux agents des établissements d'hospitalisation, de soins ou de cure publics chargés d'une régie de recettes ou de dépenses et montant de leur cautionnement.
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Annexes](annexes)
