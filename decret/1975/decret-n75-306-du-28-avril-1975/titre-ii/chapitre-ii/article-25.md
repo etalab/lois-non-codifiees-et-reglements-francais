@@ -1,6 +1,6 @@
 # Article 25
 
-I. - Les travailleurs appartenant à la catégorie A doivent faire l'objet d'une surveillance individuelle de l'exposition.
+I. - Les travailleurs appartenant à la catégorie A, au sens de l'article 3 du décret n° 86-1103 du 2 octobre 1986 relatif à la protection des travailleurs contre les rayonnements ionisants doivent faire l'objet d'une surveillance individuelle de l'exposition.
 
 S'il s'agit d'une exposition externe, l'évaluation des équivalents de doses reçus doit être assurée au moyen de dosimètres relevés mensuellement ; s'il s'agit d'une exposition interne, cette évaluation s'effectue en application de l'annexe IV du décret du 2 octobre 1986 susvisé, par référence aux limites d'incorporation annuelles ou aux limites dérivées de concentration dans l'air et, si nécessaire, sur prescription du médecin du travail, par mesure de la charge corporelle ou de l'activité radioactive des excreta. Un arrêté des ministres chargés du travail et de l'agriculture [*autorité compétente*] fixe les modalités techniques d'application du présent alinéa.
 
