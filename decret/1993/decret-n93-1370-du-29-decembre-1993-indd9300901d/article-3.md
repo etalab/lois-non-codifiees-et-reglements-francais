@@ -410,19 +410,15 @@ e) Activités relevant du Centre technique des industries aérauliques et thermi
 
 25.24. Articles divers en matières plastiques, pour les matériels aérauliques et thermiques.
 
-28.22.Radiateurs et chaudières pour le chauffage central, pour les radiateurs en acier, y compris convecteurs et plinthes chauffantes, à l'exclusion des radiateurs moulés, pour les chaudières en acier et parties de chaudières, quelle que soit l'énergie primaire utilisée, y compris :
+28.22. Radiateurs et chaudières pour le chauffage central, pour les radiateurs, en acier ou moulés, y compris convecteurs et plinthes chauffantes, pour les chaudières en acier quelle que soit l'énergie utilisée, pour les chaudières à éléments moulés à brûleur atmosphérique à gaz et pour les parties de chaudières, y compris :
 
-les corps de chauffe de chaudières utilisées pour le chauffage des locaux ;
+- les corps de chauffe de chaudières utilisées pour le chauffage des locaux ;
 
-les chaudières mixtes avec dispositif de production d'eau chaude incorporé ou juxtaposé ;
+- les chaudières mixtes avec dispositif de production d'eau chaude incorporé ou juxtaposé ;
 
-les chaudières et chaudières mixtes de type mural à gaz,
+- les chaudières et chaudières mixtes de type mural à gaz,
 
-à l'exclusion :
-
-des chaudières à éléments moulés ;
-
-des produits mentionnés au paragraphe a.
+à l'exclusion des produits mentionnés au paragraphe a.
 
 28.30. Produits de la chaudronnerie, pour les gaines de ventilation, distribution et dépoussiérage de l'air.
 
