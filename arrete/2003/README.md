@@ -1013,7 +1013,6 @@
 - [Arrêté du 27 juin 2003 (SOCF0310835A)](arrete-du-27-juin-2003-socf0310835a)
 - [Arrêté du 27 juin 2003 (SOCT0310872A)](arrete-du-27-juin-2003-soct0310872a)
 - [Arrêté du 27 juin 2003 (SPRK0370087A)](arrete-du-27-juin-2003-sprk0370087a)
-- [Arrêté du 27 mars 2003 (AGRP0300702A)](arrete-du-27-mars-2003-agrp0300702a)
 - [Arrêté du 27 mars 2003 (EQUS0300354A)](arrete-du-27-mars-2003-equs0300354a)
 - [Arrêté du 27 mars 2003 (EQUS0300579A)](arrete-du-27-mars-2003-equs0300579a)
 - [Arrêté du 27 octobre 2003 (BUDD0370019A)](arrete-du-27-octobre-2003-budd0370019a)
