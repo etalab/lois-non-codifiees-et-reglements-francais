@@ -16,8 +16,8 @@ II. - Dans le cas de graisses d'origine animale destinées à l'alimentation ani
 
 - graisses issues de la transformation des os de ruminants destinés à la production de gélatine ;
 
-- graisses obtenues à partir de farines de viande, de farines d'os et de farines de viande osseuse, issues de mammifères ;
+- graisses obtenues à partir de farines de viande, de farines d'os et de farines de viande osseuse, issues de mammifères autres que ceux appartenant à l'espèce porcine ;
 
 - graisses contenant ou préparées à partir de tissus osseux de ruminants et non visées aux alinéas ci-dessus ;
 
-- autres graisses de ruminants, à l'exception des seuls tissus adipeux de bovins collectés à l'abattoir avant fente de la colonne vertébrale".
+- autres graisses de ruminants, à l'exception des seuls tissus adipeux de ruminants collectés à l'abattoir avant fente de la colonne vertébrale".
