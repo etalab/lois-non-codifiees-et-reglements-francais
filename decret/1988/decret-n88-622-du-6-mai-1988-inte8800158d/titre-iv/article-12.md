@@ -6,4 +6,6 @@ Pour chaque type de risque particulier, le plan de secours spécialisé est pré
 
 Le ou les maires des communes intéressées disposent d'un délai de deux mois pour faire parvenir leur avis sur le projet qui leur a été soumis. A défaut d'un avis dans ce délai, le préfet arrête le plan. Celui-ci est notifié aux maires, services, organismes et organisations professionnelles intéressés.
 
+Les plans de secours spécialisés établis pour les installations susceptibles d'engendrer une situation d'urgence radiologique font l'objet des mesures d'information définies à l'article 9 du présent décret.
+
 Des exercices d'application du plan sont organisés à la demande du préfet.
