@@ -4,20 +4,12 @@ Les experts comptables sont admis également à constituer, pour l'exercice de l
 
 1° Avoir pour objet [*social*] l'exercice de la profession d'expert comptable ;
 
-2° Avoir un capital versé d'au moins 10.000 F ;
+2° [*abrogé*].
 
-3° Comprendre parmi leurs actionnaires ou propriétaires de parts, au moins trois experts comptables [*nombre*] inscrits au tableau de l'ordre ;
+3° Comprendre parmi leurs actionnaires ou propriétaires de parts [*associés*] au moins trois [*nombre*] experts comptables inscrits au tableau de l'ordre ;
 
 4° Justifier que la majorité de leurs actions ou de leurs parts sociales est détenue par des experts comptables ;
 
 5° Choisir respectivement leur président ou leur directeur général, leurs gérants [*dirigeants - définition*] ou leurs fondés de pouvoirs parmi les associés experts comptables ;
 
-6° Avoir, s'il s'agit de sociétés par actions, leurs actions sous la forme nominative et, dans tous les cas, subordonner l'admission de tout nouvel associé à l'autorisation préalable, soit du conseil d'administration, soit des propriétaires de parts ;
-
-7° Communiquer aux conseils de l'ordre dont elles relèvent la liste de leurs associés, ainsi que toute modification apportée à cette liste ; tenir les mêmes renseignements à la disposition des pouvoirs publics et de tous tiers intéressés ;
-
-8° N'être sous la dépendance, même indirecte, d'aucune personne ou d'aucun groupement d'intérêt ;
-
-9° Ne pas prendre de participations financières dans les entreprises industrielles, commerciales, agricoles ou bancaires, ni dans les sociétés civiles ;
-
-10° Etre reconnus comme pouvant exercer la profession d'expert comptable et inscrites au tableau par le conseil de l'ordre, chargé d'examiner si les neuf conditions précédentes sont remplies.
+6° Avoir, s'il s'agit de sociétés par actions, leurs actions sous la forme nominative et subordonner l'admission de tout nouvel actionnaire à l'agrément préalable du conseil d'administration ou du conseil de surveillance ; subordonner, s'il s'agit de sociétés à responsabilité limitée, à l'autorisation préalable des porteurs de parts, l'agrément d'un nouvel associé en cas de transmission de parts sociales ou celui d'un associé n'exerçant pas la profession susvisée, en cas de cession de parts.
