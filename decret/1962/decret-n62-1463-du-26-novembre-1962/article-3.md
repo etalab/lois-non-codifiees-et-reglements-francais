@@ -1,3 +1,0 @@
-# Article 3
-
-Sont considérées comme liquidations, au sens de la loi du 30 décembre 1966, les ventes accompagnées ou précédées de publicité présentant un caractère réellement ou apparemment occasionnel ou exceptionnel, annoncées comme tendant à l'écoulement accéléré de la totalité ou d'une partie des marchandises d'une entreprise à la suite de la décision de cesser un commerce, d'en modifier la structure ou les conditions d'exploitation, que cette décision soit volontaire ou qu'elle intervienne sous forme d'une vente forcée rendue nécessaire par un événement indépendant de la volonté du propriétaire.

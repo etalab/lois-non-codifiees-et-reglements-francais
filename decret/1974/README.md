@@ -23,7 +23,6 @@
 - [Décret n°74-583 du 14 juin 1974](decret-n74-583-du-14-juin-1974)
 - [Décret n°74-431 du 14 mai 1974](decret-n74-431-du-14-mai-1974)
 - [Décret n°74-58 du 15 janvier 1974](decret-n74-58-du-15-janvier-1974)
-- [Décret n°74-429 du 15 mai 1974](decret-n74-429-du-15-mai-1974)
 - [Décret n°74-434 du 15 mai 1974](decret-n74-434-du-15-mai-1974)
 - [Décret n°74-436 du 15 mai 1974](decret-n74-436-du-15-mai-1974)
 - [Décret n°74-442 du 15 mai 1974](decret-n74-442-du-15-mai-1974)
