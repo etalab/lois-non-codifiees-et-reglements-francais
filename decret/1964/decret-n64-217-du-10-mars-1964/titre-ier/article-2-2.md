@@ -2,7 +2,7 @@
 
 Le remplacement des maîtres contractuels et des documentalistes contractuels est assuré dans les cas suivants :
 
-a) Congé parental ;
+a) Congé parental et congé de présence parentale ;
 
 b) Congé pour élever un enfant de moins de huit ans ;
 
