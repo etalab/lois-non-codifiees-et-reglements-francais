@@ -5,3 +5,7 @@ Les mesures de publicité prévues à l'article 2 (alinéas 2 et 3 ci-dessus) so
 L'arrêté prononçant l'inscription est en outre publié dans ces communes, pendant une durée qui ne peut être inférieure à un mois, par voie d'affichage à la mairie et tous autres endroits habituellement utilisés pour l'affichage des actes publics ; l'accomplissement de ces mesures de publicité est certifié par le maire, qui en informe aussitôt le préfet.
 
 L'arrêté prononçant l'inscription est ensuite publié au Recueil des actes administratifs du département. Il prend effet à la date de cette publication.
+
+En Corse, les mesures de publicité de la délibération prononçant l'inscription sont accomplies à la diligence du président du conseil exécutif, dans les conditions définies aux deuxième et troisième alinéas de l'article 2 et aux premier et deuxième alinéas du présent article.
+
+La délibération de l'Assemblée de Corse prononçant l'inscription est publiée au recueil des actes administratifs de la collectivité territoriale et prend effet à la date de cette publication.
