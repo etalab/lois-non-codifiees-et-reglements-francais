@@ -2,7 +2,7 @@
 
 I. (Paragraphe modificateur)
 
-II. - En cas d'opération donnant lieu à l'application du III, l'Etat est autorisé à céder gratuitement ou à des conditions préférentielles aux salariés de la société Air France qui auront consenti à des réductions de leur salaire des actions de cette société dans la limite de 6 % de son capital. Si les demandes des salariés excèdent cette limite, le ministre chargé de l'économie fixe par arrêté les conditions de leur réduction.
+II. - En cas d'opération donnant lieu à l'application du III, l'Etat est autorisé à céder gratuitement ou à des conditions préférentielles aux salariés de la société Air France qui auront consenti à des réductions de leur salaire des actions de cette société dans la limite de 6 % de son capital existant au 9 avril 2003. Si les demandes des salariés excèdent cette limite, le ministre chargé de l'économie fixe par arrêté les conditions de leur réduction.
 
 La société Air France rembourse à l'Etat le coût résultant pour ce dernier de la mise en oeuvre de l'alinéa précédent, en tenant compte notamment de l'augmentation de valeur de la participation de l'Etat pouvant résulter des réductions de salaire. Ce coût est déterminé selon des critères fixés par décret en Conseil d'Etat.
 
@@ -15,6 +15,8 @@ Sous réserve des dispositions de l'article 150-0 D du code général des impôt
 Les dispositions du premier alinéa de l'article L. 443-2 du code du travail ne sont pas applicables aux opérations régies par le présent II.
 
 Les avantages résultant de l'application des dispositions du présent II et du III sont cumulables. Lesdites dispositions sont sans influence sur les droits antérieurement acquis par les salariés de la société Air France au titre du présent article.
+
+En cas d'opération donnant lieu à l'apport de tout ou partie de l'actif de la société Air France à une autre société, titulaire d'une licence d'exploitation de transporteur aérien, dont elle détient la majorité du capital social et des droits de vote, les dispositions du présent II sont applicables aux salariés de la société bénéficiaire des apports.
 
 Un décret détermine les conditions d'application du présent II, et notamment le délai, qui ne peut excéder cinq ans, pendant lequel tout ou partie des actions visées au présent II sont incessibles.
 
