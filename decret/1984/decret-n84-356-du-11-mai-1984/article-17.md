@@ -1,0 +1,3 @@
+# Article 17
+
+L'office est substitué au fonds d'orientation et de régularisation des marchés agricoles pour l'ensemble de ses attributions relatives aux départements d'outre-mer. Toutefois, le fonds assure l'exécution de l'ensemble des interventions relevant des compétences transférées à l'office pendant un délai qui ne pourra excéder six mois à compter de la publication du présent décret et qui prendra fin à une date qui sera fixée par décision conjointe du ministre de l'économie, des finances et du budget du ministre de l'intérieur et de la décentralisation, du ministre de l'agriculture et du ministre chargé des départements d'outre-mer.
