@@ -1,11 +1,9 @@
 # Article 1
 
-Les superficies minimum d'installation en polyculture visées à l'article 188-3 du code rural sont fixées ainsi qu'il suit pour le département des Hautes-Alpes (en hectares) :
+Les superficies minima d'installation en polyculture visées à l'article 188-3 du Code rural sont fixées ainsi qu'il suit pour le département de la Vienne (en hectares) :
 
-Queyras, Haut Embrunais, Oisans, Briançonnais,
+Brandes et Brennes : 28
 
-Embrunais : 16
+Confins granitiques du Limousin : 28 ha
 
-Champsaur et Capençais : 21
-
-Reste du département : 28
+Reste du département : 22.
