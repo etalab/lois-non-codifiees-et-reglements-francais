@@ -11,3 +11,4 @@
 - [Décret n° 70-138 du 17 février 1970](decret-n-70-138-du-17-fevrier-1970)
 - [Décret n°69-83 du 27 janvier 1969](decret-n69-83-du-27-janvier-1969)
 - [Décret n°69-773 du 30 juillet 1969](decret-n69-773-du-30-juillet-1969)
+- [Décret n°69-92 du 30 janvier 1969](decret-n69-92-du-30-janvier-1969)
