@@ -44,7 +44,6 @@
 - [Décret n°88-601 du 6 mai 1988 (JUSD8830039D)](decret-n88-601-du-6-mai-1988-jusd8830039d)
 - [Décret n°88-622 du 6 mai 1988 (INTE8800158D)](decret-n88-622-du-6-mai-1988-inte8800158d)
 - [Décret n°88-623 du 6 mai 1988 (INTE8800170D)](decret-n88-623-du-6-mai-1988-inte8800170d)
-- [Décret n°88-625 du 6 mai 1988 (INTB8800172A)](decret-n88-625-du-6-mai-1988-intb8800172a)
 - [Décret n°88-646 du 6 mai 1988 (RESM8800453D)](decret-n88-646-du-6-mai-1988-resm8800453d)
 - [Décret n°88-651 du 6 mai 1988 (RESP8800547D)](decret-n88-651-du-6-mai-1988-resp8800547d)
 - [Décret n°88-659 du 6 mai 1988 (ASEP8800683D)](decret-n88-659-du-6-mai-1988-asep8800683d)

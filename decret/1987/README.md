@@ -362,7 +362,6 @@
 - [Décret n°87-221 du 27 mars 1987 (STFP8700279D)](decret-n87-221-du-27-mars-1987-stfp8700279d)
 - [Décret n°87-225 du 27 mars 1987 (ACVP8720011D)](decret-n87-225-du-27-mars-1987-acvp8720011d)
 - [Décret n°87-226 du 27 mars 1987 (BUDB8720001D)](decret-n87-226-du-27-mars-1987-budb8720001d)
-- [Décret n°87-228 du 27 mars 1987 (INTB8700085D)](decret-n87-228-du-27-mars-1987-intb8700085d)
 - [Décret n°87-231 du 27 mars 1987 (ASET8703132D)](decret-n87-231-du-27-mars-1987-aset8703132d)
 - [Décret n°87-232 du 27 mars 1987 (ASET8703225D)](decret-n87-232-du-27-mars-1987-aset8703225d)
 - [Décret n°87-289 du 27 avril 1987 (STFS8700644D)](decret-n87-289-du-27-avril-1987-stfs8700644d)
