@@ -12,6 +12,7 @@
 - [Décret n°72-582 du 4 juillet 1972](decret-n72-582-du-4-juillet-1972)
 - [Décret n°72-583 du 4 juillet 1972](decret-n72-583-du-4-juillet-1972)
 - [Décret n°72-589 du 4 juillet 1972](decret-n72-589-du-4-juillet-1972)
+- [Décret n°72-607 du 4 juillet 1972](decret-n72-607-du-4-juillet-1972)
 - [Décret n°72-355 du 4 mai 1972](decret-n72-355-du-4-mai-1972)
 - [Décret n°72-387 du 4 mai 1972](decret-n72-387-du-4-mai-1972)
 - [Décret n°72-212 du 6 mars 1972](decret-n72-212-du-6-mars-1972)
