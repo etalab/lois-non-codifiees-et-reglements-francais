@@ -1,0 +1,3 @@
+# Article 57
+
+La commission prévue à l'alinéa 7 de l'article 91 de la Constitution exercera les attributions conférées au Conseil constitutionnel par l'article 58 de la Constitution, conformément aux dispositions de l'ordonnance du 7 novembre 1958 portant loi organique relative à l'élection du Président de la République, et les attributions conférées à ce même Conseil par l'article 59 de la Constitution, conformément aux dispositions du titre II de la présente ordonnance, à l'exception des dispositions prévoyant la création de sections au sein du Conseil, jusqu'à l'installation du Conseil constitutionnel.
