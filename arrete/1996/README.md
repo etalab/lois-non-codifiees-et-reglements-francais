@@ -418,7 +418,6 @@
 - [Arrêté du 12 août 1996 (ECOR9605012A)](arrete-du-12-aout-1996-ecor9605012a)
 - [Arrêté du 12 août 1996 (ECOR9605013A)](arrete-du-12-aout-1996-ecor9605013a)
 - [Arrêté du 12 août 1996 (MENH9602484A)](arrete-du-12-aout-1996-menh9602484a)
-- [Arrêté du 12 août 1996 (MENH9602898A)](arrete-du-12-aout-1996-menh9602898a)
 - [Arrêté du 12 avril 1996 (MCCI9600292A)](arrete-du-12-avril-1996-mcci9600292a)
 - [Arrêté du 12 avril 1996 (MENU9601080A)](arrete-du-12-avril-1996-menu9601080a)
 - [Arrêté du 12 avril 1996 (MENU9601111A)](arrete-du-12-avril-1996-menu9601111a)
