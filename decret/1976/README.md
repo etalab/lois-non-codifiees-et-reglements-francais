@@ -10,6 +10,7 @@
 - [Décret n°76-993 du 2 novembre 1976](decret-n76-993-du-2-novembre-1976)
 - [Décret n°76-493 du 3 juin 1976](decret-n76-493-du-3-juin-1976)
 - [Décret n°76-494 du 3 juin 1976](decret-n76-494-du-3-juin-1976)
+- [Décret n° 77-33 du 4 janvier 1977](decret-n-77-33-du-4-janvier-1977)
 - [Décret n°76-1004 du 4 novembre 1976](decret-n76-1004-du-4-novembre-1976)
 - [Décret n°76-306 du 5 avril 1976](decret-n76-306-du-5-avril-1976)
 - [Décret n°76-342 du 6 avril 1976](decret-n76-342-du-6-avril-1976)

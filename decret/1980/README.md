@@ -12,6 +12,7 @@
 - [Décret n°80-73 du 10 janvier 1980](decret-n80-73-du-10-janvier-1980)
 - [Décret n°80-128 du 12 février 1980](decret-n80-128-du-12-fevrier-1980)
 - [Décret n°80-131 du 12 février 1980](decret-n80-131-du-12-fevrier-1980)
+- [Décret n°80-143 du 12 février 1980](decret-n80-143-du-12-fevrier-1980)
 - [Décret n°80-22 du 14 janvier 1980](decret-n80-22-du-14-janvier-1980)
 - [Décret n°80-31 du 17 janvier 1980](decret-n80-31-du-17-janvier-1980)
 - [Décret n°80-33 du 17 janvier 1980](decret-n80-33-du-17-janvier-1980)
