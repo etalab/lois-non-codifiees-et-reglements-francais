@@ -1,3 +1,3 @@
 # Article 4
 
-Le directeur de l'administration générale au ministère de la recherche et de l'industrie et le directeur de la comptabilité publique au ministère de l'économie et des finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les ordonnateurs secondaires visés à l'article 1er (1° et 2°) assignent leurs dépenses et leurs recettes sur les agents comptables régionaux des P.T.T., comptables principaux du budget annexe.

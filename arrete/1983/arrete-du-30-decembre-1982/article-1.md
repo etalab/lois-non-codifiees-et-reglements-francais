@@ -1,13 +1,67 @@
 # Article 1
 
-A compter du 1er septembre 1982 [*date*], le taux de la taxe est fixé comme suit :
+En application des dispositions de l'article 2 du décret n° 82-636 du 21 juillet 1982 susvisé :
 
-0,43 F par quintal de fruits à cidre et à poiré ;
+1° Le   préfet de région est, dans la limite de sa circonscription, ordonnateur secondaire du budget annexe des postes et télécommunications pour l'exécution des dépenses relatives à l'activité des services suivants :
 
-0,57 F par hectolitre de cidre et de poiré ou par hectolitre de moûts        de pommes et de poires ;
+Services régionaux de province :
 
-10,80 F par hectolitre d'alcool pur pour les calvados et les         eaux-de-vie de cidre et de poiré ;
+La direction régionale des postes ;
 
-10,80 F par hectolitre d'alcool pur pour les alcools de cidre et de         poiré réservés à l'Etat.
+La direction régionale des télécommunications.
 
-Elle est supportée par l'acheteur et le vendeur chacun pour moitié.
+Services régionaux de la région d'Ile-de-France :
+
+La direction des postes de Paris ;
+
+La direction des postes d'Ile-de-France-Ouest ;
+
+La direction des postes d'Ile-de-France-Est ;
+
+La direction des centres régionaux ;
+
+La direction des télécommunications d'Ile-de-France ;
+
+La direction du matériel de transport ;
+
+La direction des services sociaux communs.
+
+Services infrarégionaux :
+
+Les directions départementales des postes ;
+
+Les directions opérationnelles des télécommunications.
+
+Le service des postes et le service des télécommunications dans chaque département d'outre-mer.
+
+2° Le chef de service chargé de la direction régionale des postes est ordonnateur secondaire du budget annexe des postes et télécommunications pour l'exécution des recettes relatives à l'activité des services suivants :
+
+La direction régionale des postes ;
+
+Les directions départementales des postes qui lui sont rattachées.
+
+Le chef de service chargé de la direction régionale des télécommunications est ordonnateur secondaire du budget annexe des postes et télécommunications pour l'exécution des recettes relatives à l'activité des services suivants :
+
+La direction régionale des télécommunications ;
+
+Les directions opérationnelles des télécommunications qui lui sont rattachées.
+
+En ce qui concerne la région d'Ile-de-France, les chefs de service sont ordonnateurs secondaires du budget annexe des postes et télécommunications pour l'exécution des recettes relatives à l'activité des services suivants :
+
+La direction des postes de Paris ;
+
+La direction des postes d'Ile-de-France-Ouest ;
+
+La direction des postes d'Ile-de-France-Est ;
+
+La direction des centres régionaux ;
+
+La direction des télécommunications d'Ile-de-France ;
+
+La direction du matériel de transport ;
+
+La direction des services sociaux communs.
+
+Les chefs de service chargés de la direction des postes d'Ile-de-France-Ouest, de la direction des postes d'Ile-de-France-Est et de la direction des télécommunications d'Ile-de-France sont également ordonnateurs secondaires pour l'exécution des recettes des directions départementales des postes et des directions opérationnelles des télécommunications qui leur sont respectivement rattachées.
+
+Les chefs de service chargés respectivement du service des postes et du service des télécommunications dans chaque département d'outre-mer sont ordonnateurs secondaires du budget annexe des postes et télécommunications pour l'exécution des recettes relatives à l'activité de leur service.

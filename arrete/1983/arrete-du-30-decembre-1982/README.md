@@ -1,4 +1,4 @@
-# Arrêté du 30 décembre 1982 FIXANT LE TAUX DE LA TAXE PARAFISCALE PERCUE AU PROFIT DU COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES.
+# Arrêté du 30 décembre 1982 relatif au règlement de comptabilité pour la désignation des ordonnateurs secondaires et de leurs délégués.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,3 @@
 # Article 3
 
-Le délégataire visé à l'article 2 peut subdéléguer sa signature à l'adjoint du directeur interdépartemental de l'industrie et au secrétaire général de la direction interdépartementale de l'industrie.
+Les chefs de service délégataires visés à l'article 2 (1°, 2°, 3° et 4°) peuvent, dans la limite de leurs attributions, subdéléguer leur signature à un ou plusieurs de leurs subordonnés, agents de catégorie A ou assimilés.
