@@ -221,6 +221,8 @@
 - [Décret n°91-668 du 14 juillet 1991 (DEFX9100123D)](decret-n91-668-du-14-juillet-1991-defx9100123d)
 - [Décret n°91-676 du 14 juillet 1991 (DEFX9100124D)](decret-n91-676-du-14-juillet-1991-defx9100124d)
 - [Décret n°91-786 du 14 août 1991 (MCCB9100456D)](decret-n91-786-du-14-aout-1991-mccb9100456d)
+- [Décret n°91-790 du 14 août 1991 (SANH9101466D)](decret-n91-790-du-14-aout-1991-sanh9101466d)
+- [Décret n°91-791 du 14 août 1991 (SANH9101256D)](decret-n91-791-du-14-aout-1991-sanh9101256d)
 - [Décret n°91-82 du 14 janvier 1991 (AGRA9001973D)](decret-n91-82-du-14-janvier-1991-agra9001973d)
 - [Décret du 14 mai 1991 (ECOC9100038D)](decret-du-14-mai-1991-ecoc9100038d)
 - [Décret n°91-440 du 14 mai 1991 (ECOT9192000D)](decret-n91-440-du-14-mai-1991-ecot9192000d)
