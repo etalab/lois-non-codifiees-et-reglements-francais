@@ -90,7 +90,6 @@
 - [Arrêté du 5 septembre 1989 (ECOC8900079A)](arrete-du-5-septembre-1989-ecoc8900079a)
 - [Arrêté du 5 septembre 1989 (SPSM8901858A)](arrete-du-5-septembre-1989-spsm8901858a)
 - [Arrêté du 5 septembre 1989 (SPSP8901766A)](arrete-du-5-septembre-1989-spsp8901766a)
-- [Arrêté du 5 mai 1989 (AGRS8900807A)](arrete-du-5-mai-1989-agrs8900807a)
 - [Arrêté du 6 avril 1989 (TOUR8904509A)](arrete-du-6-avril-1989-tour8904509a)
 - [Arrêté du 6 avril 1989 (TOUR8904515A)](arrete-du-6-avril-1989-tour8904515a)
 - [Arrêté du 6 décembre 1989 (MENZ8902851A)](arrete-du-6-decembre-1989-menz8902851a)
