@@ -1,3 +1,3 @@
 # Article 27
 
-Le règlement particulier de chaque brevet de technicien supérieur fixe notamment la liste, la nature et le coefficient des différentes évaluations sanctionnant l'acquisition des unités et, lorsqu'il s'agit d'épreuves ponctuelles, leur durée. Il précise les modalités du contrôle en cours de formation prévu à l'article 22 du présent décret ainsi que la durée des périodes de formation en milieu professionnel exigée pour se présenter à l'examen.
+Le règlement particulier de chaque spécialité de brevet de technicien supérieur fixe la liste, la nature et le coefficient des évaluations sanctionnant l'acquisition des unités et, pour les épreuves ponctuelles, leur durée. Il précise les modalités de l'examen lorsqu'il est organisé sous forme de validation d'unités capitalisables prévue à l'article 23 du présent décret, ainsi que la durée des stages de formation exigés pour se présenter à l'examen.
