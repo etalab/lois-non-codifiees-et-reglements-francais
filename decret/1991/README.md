@@ -674,6 +674,8 @@
 - [Décret n°93-133 du 29 janvier 1993 (SANH9202744D)](decret-n93-133-du-29-janvier-1993-sanh9202744d)
 - [Décret n°91-507 du 29 mai 1991 (JUSA9100109D)](decret-n91-507-du-29-mai-1991-jusa9100109d)
 - [Décret n°91-1000 du 30 septembre 1991 (DEFM9101806D)](decret-n91-1000-du-30-septembre-1991-defm9101806d)
+- [Décret n°91-1004 du 30 septembre 1991 (DEFD9101865D)](decret-n91-1004-du-30-septembre-1991-defd9101865d)
+- [Décret n°91-1005 du 30 septembre 1991 (INTA9100400D)](decret-n91-1005-du-30-septembre-1991-inta9100400d)
 - [Décret n°91-113 du 30 janvier 1991 (ECOA9000068D)](decret-n91-113-du-30-janvier-1991-ecoa9000068d)
 - [Décret n°91-829 du 30 août 1991 (INTD9100299D)](decret-n91-829-du-30-aout-1991-intd9100299d)
 - [Décret n°91-833 du 30 août 1991 (MAEG9140002D)](decret-n91-833-du-30-aout-1991-maeg9140002d)
