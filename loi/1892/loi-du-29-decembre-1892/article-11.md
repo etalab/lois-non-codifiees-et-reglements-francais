@@ -1,0 +1,3 @@
+# Article 11
+
+Avant qu'il soit procédé au règlement de l'indemnité, le propriétaire figurant dans l'instance ou dûment appelé est tenu de mettre lui-même en cause ou de faire connaître à la partie adverse, soit par la demande introductive d'instance, soit dans un délai de quinzaine à compter de l'assignation qui lui est donnée, les fermiers, les locataires, les colons partiaires, ceux qui ont des droits d'usufruit ou d'usage tels qu'ils sont réglés par le Code civil et ceux qui peuvent réclamer des servitudes résultant des titres mêmes du propriétaire ou d'autres actes dans lesquels il serait intervenu : sinon il reste seul chargé envers eux des indemnités que ces derniers pourront réclamer.
