@@ -14,7 +14,7 @@ Pour bénéficier de cet avantage, les agents mobilisés devront avoir appartenu
 
 Pour couvrir la caisse autonome mutuelle des charges résultant du paragraphe ci-dessus, les autorités concédantes, Etat, départements ou communes, verseront chaque année à ladite caisse une subvention équivalente à 1 p. 100 du salaire du personnel en activité.
 
-Sous les mêmes conditions de présence antérieure au réseau, les agents demeurés dans les régions envahies bénéficieront de tout ou partie des années de guerre dans le calcul du minimum de quinze ans d'affiliation exigé pour l'obtention de leur retraite, sans cependant que lesdites années de guerre donnent lieu à l'attribution de soixante quinzièmes.
+Sous les mêmes conditions de présence antérieure au réseau, les agents demeurés dans les régions envahies bénéficieront de tout ou partie des années de guerre dans les calculs du minimum de quinze ans d'affiliation exigé pour l'obtention de leur retraite.
 
 Les intéressés devront d'ailleurs justifier de leurs droits dans les formes qui seront prescrites par la caisse autonome mutuelle.
 

@@ -1,6 +1,6 @@
 # Article 7
 
-Les versements de l'exploitant seront de 6 p. 100 des salaires jusqu'au maximum fixé de 18.000 F par agent et par an. Ils seront portés à 6,5 % au 1er janvier 1930 et à 7 % au 1er janvier 1933.
+Les versements de l'exploitant seront effectués jusqu'au maximum fixé de 24.000 F par agent et par an.
 
 Cette charge patronale sera portée au compte des dépenses d'exploitation de chaque entreprise.
 

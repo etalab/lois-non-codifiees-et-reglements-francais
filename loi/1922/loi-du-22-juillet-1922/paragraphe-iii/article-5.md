@@ -1,6 +1,6 @@
 # Article 5
 
-Tous les salariés seront soumis aux charges et bénéficieront des avantages des retraites, mais les salaires supérieurs à 18.000 F ne seront comptés que pour ce chiffre.
+Tous les salariés seront soumis aux charges et bénéficieront des avantages des retraites, mais les salaires supérieurs à 24.000 F ne seront comptés que pour ce chiffre.
 
 Pour bénéficier de cette disposition, les agents qui avaient déjà dépassé le taux de 12.000 F au 1er janvier 1923, ou qui l'ont dépassé depuis cette date, devront, ainsi que leurs employeurs, verser rétroactivement à la caisse autonome mutuelle les retenues correspondantes.
 
