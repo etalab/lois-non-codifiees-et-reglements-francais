@@ -1,94 +1,116 @@
 # Article Annexe
 
-ADMINISTRATION CENTRALE ET SERVICES DECONCENTRES COMMUNS
+ADMINISTRATION CENTRALE ET SERVICES DECONCENTRES COMMUNS.
 
-FONCTION EXERCEE POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
+Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire.
 
 Accueil standard.
 
-Moniteur bureautique et informatique.
-
-Assistante coordinatrice chargée de l'encadrement des assistants sociaux du personnel.
-
-Assistant de gestion.
-
-Hôtesse d'accueil.
-
-Agent de sécurité.
-
-Coordinateur de service social chargé de l'organisation de l'accueil au ministère ;
-
-Secrétaire du comité médical ministériel ;
-
-Régisseur de recettes et d'avances.
-
-Agent exerçant des fonctions d'accueil et d'aide aux usagers de bibliothèques ou de centres de documentation ;
-
-Agent responsable du suivi des procédures de marchés publics dans les antennes régionales d'équipement ;
-
-Agent responsable de contentieux internationaux ;
-
-Assistant de service social du personnel assurant des fonctions de coordination régionale ;
-
-Agent chargé de l'organisation des instances de concertation et du suivi des relations sociales ;
-
-Agent responsable des commissions administratives paritaires et du suivi des décisions.
-
-marchés informatiques.
-
-Agent chargé du secrétariat de la Commission nationale d'inscription et Chambre nationale de discipline des commissaires aux comptes ;
-
-Agent chargé du suivi des dossiers de négociation en matière pénale droit européen et international ;
-
-Agent chargé de la préparation et de l'organisation de la commission de secours.
-
-Agent chargé de l'élaboration, de la conception et du suivi des marchés informatiques.
+Agent chargé de l'organisation d'actions en matière sociale.
 
 Agent chargé du contrôle ou de l'exécution des marchés informatiques.
 
-Secrétaire de direction.
+Agent de sécurité.
 
-Agent chargé de l'organisation d'actions en matière sociale.
+Assistant de gestion.
+
+Assistante coordinatrice chargée de l'encadrement des assistants sociaux du personnel.
+
+Moniteur bureautique et informatique.
+
+Régisseur de recettes et d'avances.
 
 Responsable d'une cellule financière ou comptable.
 
-DIRECTION DE L'ADMINISTRATION PÉNITENTIAIRE
+Secrétaire de direction.
 
-FONCTION EXERCEE POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
+Secrétaire du comité médical ministériel.
 
-Référent technique à l'administration centrale ;
+Agent chargé de l'élaboration, de la conception et du suivi des marchés auprès d'une personne responsable des marchés ;
+
+Agent exerçant des fonctions d'accueil et d'aide aux usagers de bibliothèques ou de centres de documentation ;
+
+Agent responsable de contentieux internationaux ;
+
+Agent responsable du suivi des procédures de marchés publics dans les antennes régionales d'équipement ;
+
+A compter du 1er août 1996 :
+
+Agent chargé de l'organisation des instances de concertation et du suivi des relations sociales ;
+
+Agent responsable des commissions administratives paritaires et du suivi des décisions ;
+
+Assistant de service social du personnel assurant des fonctions de coordination régionale ;
+
+A compter du 1er janvier 2001 :
+
+Agent chargé de la préparation et de l'organisation des secours ;
+
+Agent chargé du secrétariat de la commission nationale d'inscription et Chambre nationale de discipline des commissaires aux comptes ;
+
+Agent chargé du suivi des dossiers de négociation en matière pénale, en droit européen et international ;
+
+DIRECTION DE L'ADMINISTRATION PENITENTIAIRE.
+
+Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire.
 
 Chef de département en direction régionale ;
 
-Chef d'unité en direction régionale ;
-
-Chef d'unité à la mission outre-mer ;
-
-Responsable d'un service de logistique à Fresnes, Fleury, la Santé et les Baumettes ;
-
-Responsable des services administratifs dans les établisements autonomes ;
-
-Chef de service administratif ou technique dans les établissements autonomes ;
-
-Chef de greffe dans les établissements de Fresnes, Fleury, la Santé et les Baumettes ;
+Chef de détention ;
 
 Chef de greffe dans les autres établissements ;
 
-Chef de détention ;
+Chef de greffe dans les établissements de Fresnes, Fleury, la Santé et les Baumettes ;
 
-Responsable de l'encadrement en détention ;
+Chef de service administratif ou technique dans les établissements autonomes ;
+
+Chef d'unité à la mission outre-mer ;
+
+Chef d'unité en direction régionale ;
+
+Adjoint aux inspecteurs des services pénitentiaires.
+
+Assistant de gestion.
+
+Responsable du maintien des liens familiaux.
+
+Responsable de l'exécution des peines et des greffes.
+
+Responsable de l'unité de liaison police-pénitentiaire.
+
+Chargé de l'organisation des services pénitentiaires d'insertion et de probation.
+
+Responsable de la maintenance et supports logiciels.
+
+Responsable de l'analyse et de l'évaluation des besoins des services déconcentrés.
+
+Responsable de la prévention des risques professionnels.
+
+Expert fonctionnel en gestion prévisionnelle des emplois et des compétences.
+
+Expert fonctionnel au bureau de l'organisation des services.
 
 Responsable de l'encadrement du travail pénitentiaire ;
 
+Responsable de l'encadrement en détention ;
+
 Responsable des ateliers du service national du travail en milieu pénitentiaire ;
+
+Responsable des services administratifs dans les établissements autonomes ;
+
+Responsable d'un service de logistique à Fresnes, Fleury, la Santé et les Baumettes.
 
 Technicien chargé de maintenance ;
 
 Technicien chef de cuisine.
 
-Adjoint au directeur des services pénitentiaires d'insertion et de probation ;
+La catégorie gestionnaire unique est supprimée à compter du 1er août 1996.
+
+Adjoint au directeur des services pénitentiaires d'insertion et de probation.
 
 Référent technique à l'administration centrale.
+
+Ajouté par le décret n° 2002-727 du 30 avril 2002 :
 
 Directeur des services pénitentiaires, chef de la maison centrale d'Arles ;
 
@@ -190,7 +212,7 @@ Directeur des services pénitentiaires, chef du centre pénitentiaire d'Aiton ;
 
 Directeur des services pénitentiaires, chef du centre pénitentiaire de Châteauroux ;
 
-Directeur des services pénitentiaires, chef du centre pénitentiaire de Laon ;
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Laon;
 
 Directeur des services pénitentiaires, chef du centre pénitentiaire de Maubeuge ;
 
@@ -220,157 +242,189 @@ Directeur des services pénitentiaires, adjoint à la mission des services péni
 
 Directeur des services pénitentiaires, chef de cabinet à l'administration centrale.
 
-SERVICES JUDICIAIRES
+SERVICES JUDICIAIRES.
 
-FONCTION EXERCEE POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE (1)
+Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire.
 
-Greffier en chef, chef de greffe.
-
-Greffier, chef de greffe.
-
-Greffier en chef à la mission d'inspection des greffes.
-
-Formateur régional.
-
-Délégué à la formation informatique.
+(l) Greffier en chef, chef de greffe.
 
 Délégué à la formation informatique adjoint.
 
-Maître de conférences à l'Ecole nationale des greffes.
+Délégué à la formation informatique.
 
 Directeur de la formation permanente et informatique à l'Ecole nationale des greffes.
+
+Formateur régional.
+
+Greffier en chef à la mission d'inspection des greffes.
+
+Greffier, chef de greffe.
+
+Maître de conférences à l'Ecole nationale des greffes.
+
+Secrétaire général adjoint à l'Ecole nationale des greffes.
 
 Sous-directeur de la formation initiale et de la recherche à l'Ecole nationale des greffes.
 
 Sous-directeur de la formation permanente à l'Ecole nationale des greffes.
 
-Secrétaire général adjoint à l'Ecole nationale des greffes.
+A compter du 1er août 1995 :
 
-Régisseur d'avances et de recettes dont le montant de la régie est supérieur à 400 000 F.
+Assistant de gestion adjoint chargé de fonctions particulières à la Cour de cassation.
 
-Greffier placé.
+Assistant de gestion chargé de fonctions particulières à la Cour de cassation.
 
-Greffier en chef mis à disposition ou affecté à l'administration centrale ou à l'Ecole nationale des greffes chargé de développement, d'implantation et de formation en matière informatique au profit des juridictions.
+Assistant informatique adjoint chargé de fonctions particulières à la Cour de cassation.
 
-Greffier mis à disposition ou affecté à l'administration centrale ou à l'Ecole nationale des greffes chargé de développement, d'implantation et de formation en matière informatique au profit des juridictions.
+Assistant informatique chargé de fonctions particulières à la Cour de cassation.
+
+Chef de service chargé de fonctions particulières à la Cour de cassation.
 
 Greffier d'audience correctionnelle collégiale dans un tribunal de grande instance.
 
 Greffier d'instruction dans un cabinet d'instruction d'un tribunal de grande instance.
 
-Chef de service chargé de fonctions particulières à la Cour de cassation.
-
-Assistant informatique chargé de fonctions particulières à la Cour de cassation.
-
-Assistant informatique adjoint chargé de fonctions particulières à la Cour de cassation.
-
-Assistant de gestion chargé de fonctions particulières à la Cour de cassation.
-
-Assistant de gestion adjoint chargé de fonctions particulières à la Cour de cassation.
+Greffier en chef mis à disposition ou affecté à l'administration centrale ou à l'Ecole nationale des greffes chargé de développement, d'implantation et de formation en matière informatique au profit des juridictions.
 
 Greffier en chef, délégué à la gestion budgétaire.
 
+Greffier mis à disposition ou affecté à l'administration centrale ou à l'Ecole nationale des greffes chargé de développement, d'implantation et de formation en matière informatique au profit des juridictions.
+
+Greffier placé.
+
+Régisseur d'avances et de recettes dont le montant de l'avance est supérieur à 400 000 F.
+
+A compter du 1er août 1995 :
+
 Greffier responsable du centre de préarchivage de Paris ;
 
-Greffier responsable de l'audiovisuel Ecole nationale des greffes ;
+Greffier responsable de l'audiovisuel Ecole nationale des greffes.
 
 Moniteur Ecole nationale des greffes.
 
+A compter du 1er août 1996 :
+
 Greffier en chef, coordonnateur du service administratif régional de la cour d'appel.
 
-Responsable de la gestion budgétaire adjoint ;
+(1) Les fonctions exercées par des greffiers en chef nommés sur des emplois du premier grade et classés dans 1es Ire et 2e catégories ne sont pas bonifiées.
+
+A compter du 1er janvier 2000 :
 
 Adjoint et agent administratifs placés.
 
-Responsable chargé des ressources humaines ;
+Responsable de la gestion budgétaire adjoint.
 
-Responsable chargé des ressources humaines adjoint ;
+A compter du 1er janvier 2001 :
 
 Greffier d'assises.
 
-(1) Les fonctions exercées par des greffiers en chef nommés sur des emplois du premier grade et classés dans les 1re et 2e catégories ne sont pas bonifiées.
+Responsable chargé des ressources humaines adjoint.
 
-PROTECTION JUDICIAIRE DE LA JEUNESSE (services déconcentrés)
+Responsable chargé des ressources humaines.
 
-Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
+Secrétaire de direction.
 
-Régisseur d'avances et de recettes .
+Responsable des commissions administratives paritaires et du suivi des décisions.
 
-Directeur responsable d'un département et d'un centre d'action éducative ou foyer d'action éducative.
+Moniteur bureautique et informatique.
 
-Correspondant informatique.
+Adjoint du chef du bureau de la gestion des personnels.
 
-Responsable Informatique national.
+A compter du 1er janvier 2002 :
 
-Agent autre que directeur chargé de la direction d'un établissement ou d'un service.
+Responsable des relations internationales au service de la communication et des relations internationales.
 
-Agent assurant seul l'accueil secrétariat dans un établissement multifonctionnel ;
+Adjoint du responsable des commissions administratives paritaires et du suivi des décisions.
 
-Directeur de foyer dans un département-ville ;
+Adjoint du responsable des transfèrements nationaux, interna- tionaux et extraditions.
 
-Chef de service éducatif et éducateur dans les foyers des départements-ville ;
+PROTECTION JUDICIAIRE DE LA JEUNESSE.
 
-Personnels de catégorie C dans les foyers des départements-ville.
+(Services déconcentrés).
 
-Responsable national référents techniques ;
-
-Correspondant informatique régional.
-
-Directeur responsable de formation ou d'études au Centre national de formation et d'études ;
-
-Educateur remplaçant ;
-
-Personnel de service social chargé des fonctions de référent technique régional ;
-
-Agent exerçant ses fonctions dans un centre éducatif renforcé.
+Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire.
 
 Directeur d'établissement ou service :
 
-- de plus de 70 agents ;
+- établissement de plus de 35 agents ;
 
-- de plus de 35 agents.
+- établissement de plus de 70 agents ;
+
+Régisseur d'avances et de recettes.
+
+Agent assurant seul l'accueil secrétariat dans un établissement multifonctionnel.
+
+Agent autre que directeur chargé de la direction d'un établissement ou d'un service.
 
 Agent technique d'éducation, veilleur de nuit dans un établissement non pourvu d'un logement de fonction occupé par un directeur ou un éducateur ;
 
-Agent autre que directeur chargé des fonctions de directeur départemental ;
+Chef de service éducatif et éducateur dans les foyers des départements-ville ;
 
-Responsable de filière au Centre national de formation et d'études et responsable de pôle régional ;
+Correspondant informatique régional.
 
-Régisseur de recettes ;
+Correspondant informatique.
+
+Directeur de foyer dans un département-ville ;
+
+Directeur responsable d'un département et d'un centre d'action éducative ou éducative.
+
+Personnels de catégorie C dans les foyers des départements-ville.
+
+Responsable Informatique national.
+
+Responsable national référents techniques ;
+
+A compter du 1er janvier 2000 ;
+
+Agent exerçant ses fonctions dans un centre éducatif renforcé.
+
+Directeur responsable de formation ou d'études au centre national de formation et d'études.
+
+Educateur remplaçant.
+
+Personnel de service social chargé des fonctions de référent technique régional.
+
+Agent autre que directeur chargé des fonctions de directeur départemental.
 
 Chef de projet exerçant ses fonctions dans un centre éducatif renforcé.
 
-GRANDE CHANCELLERIE DE LA LÉGION D'HONNEUR
+Régisseur de recettes.
 
-FONCTION EXERCEE POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
+Responsable de filière au Centre national de formation et d'études et responsable de pôle régional.
 
-Chef du bureau chargé de la gestion informatisée des membres des ordres nationaux.
+GRANDE CHANCELLERIE DE LA LEGION D'HONNEUR.
 
-Adjoint au système informatique des ordres nationaux.
-
-Gestionnaire des dossiers des membres des ordres nationaux.
-
-Responsable du matériel et de la comptabilité Matériel.
-
-Responsable de la paie et de la comptabilité des personnels.
-
-Agent d'accueil et de sécurité.
-
-Adjoint au responsable du budget.
-
-Adjoint au chef du bureau de gestion de la Légion d'honneur.
-
-Secrétaire au cabinet du grand chancelier.
-
-Fondé de pouvoir de l'agence comptable ;
-
-Responsable de la comptabilité et du secrétariat du service Bâtiments ;
-
-Adjoint au chef du bureau chargé du service Proposition de la Légion d'honneur ;
+Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire.
 
 Adjoint au chef du bureau chargé du service Gestion de l'ordre national du Mérite ;
 
-Responsable de l'entretien du palais et des services techniques ;
+Adjoint au chef du bureau chargé du service proposition de la Légion d'honneur ;
+
+Adjoint au chef du bureau de gestion de la Légion d'honneur.
+
+Adjoint au responsable du budget.
+
+Adjoint au système informatique des ordres nationaux.
+
+Agent d'accueil et de sécurité.
+
+Chargé des affaires générales et des interventions.
+
+Chef du bureau chargé de la gestion informatisée des membres des ordres nationaux.
+
+Fondé de pouvoir de l'agence comptable ;
+
+Gestionnaire des dossiers des membres des ordres nationaux.
+
+Responsable de la comptabilité et du secrétariat du service Bâtiments.
+
+Responsable de la paie et de la comptabilité des personnels.
+
+Responsable de l'entretien du palais et des services techniques.
+
+Responsable du matériel et de la comptabilité Matériel.
+
+Secrétaire au cabinet du grand chancelier.
 
 Secrétaire du grand chancelier de la Légion d'honneur ;
 
@@ -378,43 +432,53 @@ Secrétaire en poste auprès du secrétaire général ;
 
 Secrétaire en poste auprès du secrétaire général adjoint ;
 
-Chargé des affaires générales et des interventions.
+A compter du 1er août 1995 :
+
+Adjoint au chef de bureau de la médaille militaire.
+
+Adjoint au chef de bureau des maisons d'éducation.
+
+Responsable des autorisations de port des ordres étrangers.
+
+Responsable des décorations françaises données aux étrangers.
 
 Responsable des marchés et du contrôle de gestion ;
 
-Responsable des décorations françaises données aux étrangers ;
-
-Responsable des autorisations de port des ordres étrangers ;
-
-Adjoint au chef de bureau des maisons d'éducation ;
-
-Adjoint au chef de bureau de la médaille militaire.
+A compter du 1er août 1996 :
 
 Adjoint au chef de bureau chargé du contingent du grand chancelier ;
 
 Adjoint au chef de bureau chargé du service des propositions de l'ordre national du Mérite ;
 
-Responsable du service intérieur ;
-
 Coursier ;
-
-Responsable de l'administration des élèves dans les maisons d'éducation ;
 
 Responsable de la gestion et du suivi du compte courant de la grande chancellerie.
 
-MAISONS D'ÉDUCATION DE LA LÉGION D'HONNEUR
+Responsable de l'administration des élèves dans les maisons d'éducation.
 
-FONCTION EXERCEE POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
+Responsable du service intérieur.
+
+MAISONS D'EDUCATION DE LA LEGION D'HONNEUR.
+
+Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire.
 
 Agent chef des agents d'entretien.
 
+Agent d'accueil et de sécurité.
+
 Chef cuisinier (Les Loges).
 
-Agent d'accueil et de sécurité.
+Chef cuisinier de la maison d'éducation de Saint-Denis ;
+
+Chef d'équipe d'ouvriers d'entretien de la maison d'éducation de Saint-Denis.
+
+Chef d'équipe d'ouvriers d'entretien de la maison d'éducation des Loges.
 
 Chef magasinier.
 
-Responsable de l'entretien (Saint-Denis).
+Infirmière de la maison d'éducation de Saint-Denis.
+
+Infirmière responsable de la maison d'éducation des Loges.
 
 Responsable de la gestion de la maison d'éducation de Saint-Denis.
 
@@ -422,37 +486,29 @@ Responsable de la gestion de la maison d'éducation des Loges.
 
 Responsable de la gestion des personnels des maisons d'éducation.
 
-Chef d'équipe d'ouvriers d'entretien de la maison d'éducation de Saint-Denis.
+Responsable de la lingerie de la maison d'éducation de Saint-Denis.
 
-Chef d'équipe d'ouvriers d'entretien de la maison d'éducation des Loges.
+Responsable de la lingerie de la maison d'éducation des Loges.
 
-Infirmière responsable de la maison d'éducation des Loges.
+Responsable de l'entretien (Saint-Denis).
 
-Chef cuisinier de la maison d'éducation de Saint-Denis ;
-
-Responsable de l'entretien des jardins de la maison d'éducation des Loges ;
-
-Infirmière de la maison d'éducation de Saint-Denis ;
-
-Veilleur de nuit de la maison d'éducation des Loges ;
-
-Responsable de la lingerie de la maison d'éducation des Loges ;
-
-Responsable de la lingerie de la maison d'éducation de Saint-Denis ;
+Responsable de l'entretien des jardins de la maison d'éducation des Loges.
 
 Secrétaire en poste auprès de la surintendante de la maison d'éducation de Saint-Denis ;
 
 Secrétaire en poste auprès de l'intendante générale de la maison d'éducation des Loges.
 
-Veilleur de nuit de la maison d'éducation de Saint-Denis ;
+Veilleur de nuit de la maison d'éducation des Loges ;
 
-Responsable des traitements, Saint-Denis ;
+A compter du 1er août 1995 :
 
 Responsable des traitements, Les Loges ;
 
+Responsable des traitements, Saint-Denis ;
+
 Secrétaire d'intendance, Les Loges.
 
-Secrétariat intendance, Saint-Denis ;
+Veilleur de nuit de la maison d'éducation de Saint-Denis.
 
 Secrétariat censeur, Les Loges ;
 
@@ -460,4 +516,6 @@ Secrétariat censeur, Saint-Denis ;
 
 Secrétariat des inspectrices, Les Loges ;
 
-Secrétariat des inspectrices, Saint-Denis.
+Secrétariat des inspectrices, Saint-Denis ;
+
+Secrétariat intendance, Saint-Denis.
