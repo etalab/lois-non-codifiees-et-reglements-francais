@@ -12,4 +12,5 @@
 - [Loi n° 46-994 du 11 mai 1946](loi-n-46-994-du-11-mai-1946)
 - [Loi n°46-1055 du 15 mai 1946](loi-n46-1055-du-15-mai-1946)
 - [Loi n°46-1071 du 17 mai 1946](loi-n46-1071-du-17-mai-1946)
+- [Loi n°46-1153 du 22 mai 1946](loi-n46-1153-du-22-mai-1946)
 - [Loi n°46-936 du 7 mai 1946](loi-n46-936-du-7-mai-1946)
