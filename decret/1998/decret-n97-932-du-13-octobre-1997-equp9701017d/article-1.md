@@ -1,0 +1,3 @@
+# Article 1
+
+Sans préjudice des recrutements effectués en application du décret du 1er août 1990 susvisé, sont organisés des recrutements exceptionnels d'adjoints administratifs des services déconcentrés du ministère chargé de l'équipement, au titre des années 1997, 1998 et 1999, ainsi que des recrutements exceptionnels d'adjoints administratifs d'administration centrale de ce même ministère, au titre des années 1998 et 1999, à concurrence de contingents qui sont fixés par arrêté conjoint du ministre chargé de l'équipement, du ministre chargé de la fonction publique et du ministre chargé de l'économie et des finances, dans la limite des emplois budgétaires ouverts à cet effet par la loi de finances.
