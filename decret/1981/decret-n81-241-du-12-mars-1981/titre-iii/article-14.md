@@ -1,5 +1,3 @@
 # Article 14
 
-Les inspecteurs généraux de l'administration nommés au tour extérieur ne peuvent être placés en position de service détaché qu'après avoir accompli au moins un an de services dans leur corps.
-
-Pendant cette année, les inspecteurs généraux nommés au tour extérieur ne peuvent recevoir aucune affectation administrative permanente en dehors de leurs tâches de contrôle et doivent rester à la disposition du chef du service de l'inspection générale de l'administration.
+Les inspecteurs généraux de l'administration nommés en application des I et II de l'article 11 du présent décret ne peuvent être mis à disposition, ni être placés en position de service détaché ou de disponibilité en application des dispositions des articles 44, 45 et 46 du décret du 16 septembre 1985 susmentionné, qu'après avoir accompli au moins deux années de services dans le corps consacrés à des missions accomplies sous l'autorité directe du chef du service.
