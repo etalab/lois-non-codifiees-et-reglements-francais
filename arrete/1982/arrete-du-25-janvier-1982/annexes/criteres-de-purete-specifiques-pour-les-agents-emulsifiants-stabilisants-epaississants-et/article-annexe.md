@@ -1,143 +1,59 @@
 # Article Annexe
 
-E 450 (a, i) Diphosphate disodique :
+E 422 Glycérol :
 
-Description : poudre ou granulés blancs.
+Description : liquide clair, incolore, hygroscopique et sirupeux, d'une saveur sucrée donnant en même temps une sensation de chaleur sur la langue.
 
-Teneur : pas moins de 95 % de NA2H2P2O7.
+Teneur : pas moins de 98 p. 100 de glycérol (C3H8O3).
 
-Teneur en P2O5 : pas moins de 63 % et pas plus de 64 %.
+Poids spécifique (25/25 °C) : pas moins de 1,257.
 
-Matières volatiles : pas plus de 0,5 %, déterminées par dessiccation à 105 °C, pendant quatre heures.
+Indice de réfraction /n/ 20 / D : 1,471 - 1,474.
 
-pH d'une solution à 1 % : pas moins de 3,7 et pas plus de 4,4.
+Composés d'acroléine, de glucose et d'ammonium : chauffer un mélange de 5 ml de glycérol et de 5 ml d'une solution d'hydroxyde de potassium (1/10) à 60 °C pendant cinq minutes. Le mélange ne vire pas au jaune et n'émet aucune odeur d'ammoniac.
 
-Matières insolubles dans l'eau : pas plus de 0,6 %.
+Butane triols : pas plus de 0,2 p. 100.
 
-Fluorures : pas plus de 10 mg par kilogramme, exprimés en F.
+Composés chlorés : pas plus de 0,003 p. 100 exprimés en Cl.
 
-E 450 (a, ii) Diphosphate trisodique :
+Acides gras et esters acides gras : pas plus de 0,1 p. 100, exprimés en acide butyrique.
 
-Description : poudre ou granulés blancs. Se présente sous forme anhydre ou sous forme de monohydrate.
+Cendres sulfatées : pas plus de 0,1 p. 100, déterminés après calcination à 800 plus ou moins 25 °C.
 
-Teneur : pas moins de 95 % de NA3HP2O7 ou de Na3HP2O7H2O.
+E 440 (a) Pectine :
 
-Teneur en P2O5 : pas moins de 57,5 % et pas plus de 58,5 % pour le sel anhydre. Pas moins de 53,6 % et pas plus de 54,6 % pour le monohydrate.
+Description chimique : la pectine est constituée essentiellement par les esters méthyliques partiels de l'acide polygalacturonique ainsi que par leurs sels de sodium, de potassium, de calcium ou d'ammonium. La pectine est obtenue à partir de plantes comestibles, appropriées, généralement d'agrumes ou de pommes, par extraction aqueuse éventuellement suivie d'une précipitation. Les seuls agents de précipitation organiques autorisés sont le méthanol, l'éthanol et l'isopropanol.
 
-pH d'une solution à 1 % pas moins de 6,7 et pas plus de 7,3.
+Description : poudre blanche, jaune clair, gris clair ou brun clair.
 
-Matières volatiles : pas plus de 0,5 %, déterminées par dessiccation à 105 °C, pendant quatre heures.
+Acide galacturonique : pas moins de 65 p. 100 calculé sur la matière exempte de cendres et de matières volatiles, déterminé après lavage à l'acide et à l'alcool.
 
-Matières insolubles dans l'eau : pas plus de 0,2 %.
+Matières volatiles : pas plus de 12 p. 100, déterminées par dessiccation à 105 °C, pendant deux heures.
 
-Fluorures : pas plus de 10 mg par kilogrammes, exprimés en F.
+Cendres insolubles dans l'acide chlorhydrique (environ 3 N) : pas plus de 1 p. 100.
 
-E 450 (a, iii) Diphosphate tétrasodique :
+Teneur en méthanol, éthanol, sopropanol libres : pas plus de 1 p. 100 de la matière sèche, séparément ou ensemble.
 
-Description : poudre blanche, cristalline ou granulée. Se présente sous forme anhydre ou sous forme de décahydrate.
+Résidu d'anhydride : pas plus de 50 mg par kilogramme de matière sèche.
 
-Teneur : pas moins de 95 % de Na4P2O7 ou de Na4P2O710H2O.
+Teneur en azote : pas plus de 0,5 p. 100, déterminée après lavage à l'acide et à l'alcool (Kjeldahl).
 
-Teneur en P2O5 :
+E 440 (b) Pectine amidée :
 
-Pas moins de 52,5 % et pas plus de 54 % pour le sel anhydre ;
+Description chimique : la pectine amidée est constituée essentiellement pas les esters méthyliques partiels et par des amides de l'acide polygalacturonique ainsi que de leurs sels de sodium, de potassium, de calcium ou d'ammonium. La pectine amidée est obtenue à partir de plantes comestibles appropriées, généralement d'agrumes ou de pommes, par extraction aqueuse et traitement ammoniacal en milieu alcalin. Les seuls agents de précipitation organiques autorisés sont le méthanol, l'éthanol et l'isopropanol.
 
-Pas moins de 31,5 % et pas plus de 32,5 % pour le décahydrate.
+Description : poudre blanche, jaune clair, gris clair ou brun clair.
 
-Perte à la calcination : pas plus de 0,5 p. 100 pour le sel anhydre, pas moins de 38 % et pas plus de 42 % pour le décahydrate, déterminée par calcination à 550 °C pendant trente minutes.
+Degré d'amidation : pas plus de 25 p. 100 de l'ensemble des groupements carboxyles.
 
-pH d'une solution à 1 % : pas moins de 9,9 et pas plus de 10,7.
+Acide galacturonique : pas moins de 65 p. 100 calculé sur la matière exempte de cendres et de matières volatiles, déterminé après lavage à l'acide et à l'alcool.
 
-Matières insolubles dans l'eau : pas plus de 0,2 %.
+Matières volatiles : pas plus de 12 p. 100, déterminées par dessiccation à 105 °C, pendant deux heures.
 
-Fluorures : pas plus de 10 mg par kilogramme, exprimés en F.
+Cendres insolubles dans l'acide chlorhydrique (environ 3 N) : pas plus de 1 p. 100.
 
-E 450 (a, iv) Diphosphates tétrapotassique :
+Teneur en méthanol, éthanol et isopropanol libres : pas plus de 1 p. 100 de la matière sèche, séparément ou ensemble.
 
-Description : cristaux incolores ou poudre blanche très hygroscopique.
+Résidus d'anydride sulfureux : pas plus de 50 mg par kilogramme de matière sèche.
 
-Teneur : pas moins de 95 % de K4P2O7.
-
-Teneur en P2O5 : pas moins de 42 % et pas plus de 43,7 %.
-
-Perte à la calcination : pas plus de 2 %, déterminée par dessiccation à 105 °C pendant quatre heures, suivie d'une calcination à 550 °C pendant trente minutes.
-
-pH d'une solution à 1 % : pas moins de 10,0 et pas plus de 10,7.
-
-Matières insolubles dans l'eau : pas plus de 0,2 %.
-
-FLuorures : pas plus de 10 mg par kilogramme, exprimés en F.
-
-E 450 (b, i) Triphosphate pentasodique :
-
-Description : granulés ou poudre, blancs et légèrement hygroscopiques. Se présente sous forme anhydre ou sous forme d'hexahydrate.
-
-Teneur : pas moins de 85 % de Na5P3O10 6H2O, le reste étant constitué essentiellement par d'autres polyphosphates de sodium de la série E 450.
-
-Teneur en P2O5 :
-
-Pas moins de 56 % et pas plus de 58 % pour le sel anhydre ;
-
-Pas moins de 43 % et pas plus de 45 % pour l'hexahydrate.
-
-Perte à la calcination : pas plus de 0,5 % pour le sel anhydre et pas plus de 23,5 % pour l'hexahydrate, déterminée par dessiccation à 105 °C pendant quatre heures, suivie d'une calcination à 550 °C pendant trente minutes.
-
-pH d'une solution à 1 % : pas moins de 9,3 et pas plus de 10,1.
-
-Matières insolubles dans l'eau : pas plus de 0,2 %.
-
-Fluorures : pas plus de 10 mg par kilogramme, exprimés en F.
-
-E 450 (b, ii) Triphosphate pentapotassique :
-
-Description : poudre blanche, très hygroscopique.
-
-Teneur : pas moins de 85 % de K5P3O10, le reste étant constitué essentiellement par d'autres polyphosphates de potassium de la série E 450.
-
-Teneur en P2O5 : pas moins de 46,5 % et pas plus de 48 %.
-
-Perte à la calcination : calculée sur la base de la teneur en P2O5, pas plus de 0,5 %, déterminée par dessiccation à 105 °C pendant quatre heures, suivie d'une calcination à 550 °C pendant trente minutes.
-
-pH d'une solution à 1 % : pas moins de 9,3 et pas plus de 10,1.
-
-Matières insolubles dans l'eau : pas plus de 2 %.
-
-Fluorures : pas plus de 10 mg par kilogramme, exprimés en F.
-
-E 450 (c, i) Polyphosphate de sodium :
-
-Description chimique : mélanges hétérogènes de sels de sodium d'acides polyphosphoriques linéaires condensés, de formule générale H(n+2) PnO(3n+1) dans laquelle n n'est pas inférieur à 2.
-
-Description : poudre ou cristaux, fins et blancs, ou paillettes incolores vitreuses.
-
-Teneur en P2O5 : pas moins de 59,5 % et pas plus de 70 % dans la matière calcinée.
-
-Perte à la calcination : pas plus de 2 %, déterminée par dessiccation à 105 °C pendant quatre heures, suivie d'une calcination à 550 °C pendant trente minutes.
-
-pH d'une solution à 1 % : pas moins de 3,6 et pas plus de 9-0.
-
-Matières insolubles dans l'eau : pas plus de 0,2 % (1).
-
-Fluorures : pas plus de 10 mg par kilogramme, exprimés en F.
-
-Phosphates cycliques : pas plus de 8 %.
-
-E 450 (c, ii) Polyphosphate de potassium :
-
-Description chimique : mélanges hétérogènes de sels de potassium d'acides polyphosphoriques linéaires condensés, de formule générale H(n+2) PnO(3n+1) dans laquelle n n'est pas inférieure à 2.
-
-Description : poudre ou cristaux, fins et blancs, ou paillettes incolores vitreuses.
-
-Teneur en P2O5 : pas moins de 53,5 % et pas plus de 61,5 % dans la matière calcinée.
-
-Perte à la calcination : pas plus de 2 %, déterminée par dessiccation à 105 °C pendant quatre heurs, suivie d'une calcination à 550 °C pendant trente minutes.
-
-pH d'une solution à 1 % : pas plus de 7,8 (1).
-
-Matières insolubles dans l'eau : pas plus de 0,2 % (1).
-
-Fluorures : pas plus de 10 mg par kilogramme, exprimés en F.
-
-Phosphates cycliques : pas plus de 8 %.
-
-(1) Détermination qui requiert une méthode d'analyse spéciale.
+Teneur en azote : pas plus de 2,5 p. 100, déterminée après lavage à l'acide et à l'alcool (Kjeldahl).

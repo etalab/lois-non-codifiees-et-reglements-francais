@@ -1,0 +1,3 @@
+# Article 8
+
+Les taux de cotisations prévus à l'article 2 du décret du 8 juin 1973 susvisé sont applicables aux établissements nouvellement créés durant l'année de leur création et l'année civile suivante, quel que soit leur effectif. A l'issue de cette période, les effectifs pris en compte pour déterminer le mode de tarification selon les dispositions prévues à l'article 3 du présent arrêté correspondent à l'expiration de la première, de la deuxième et de la troisième année suivant l'année de création, respectivement au tiers, aux deux tiers et à la totalité de l'effectif des établissement nouvellement créés.
