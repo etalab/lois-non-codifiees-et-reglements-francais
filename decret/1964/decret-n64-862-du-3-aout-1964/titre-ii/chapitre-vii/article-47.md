@@ -44,9 +44,7 @@ Un représentant du commissaire général du Plan d'équipement et de la product
 
 Un représentant de l'assemblée permanente des chambres d'agriculture.
 
-Un représentant de la fédération nationale des syndicats d'exploitants agricoles.
-
-Un représentant du centre national des jeunes agriculteurs.
+Deux représentants désignés parmi les personnalités proposées par chacune des organisations syndicales d'exploitants agricoles à vocation générale habilitées en application de l'article 3 du décret n° 90-187 du 28 février 1990.
 
 Un représentant de la confédération nationale de la mutualité, de la coopération et du crédit agricole.
 
@@ -60,6 +58,6 @@ Deux représentants de la commission nationale vétérinaire choisis parmi ses m
 
 Deux représentants des comités consultatifs de l'économie de l'élevage, de l'équipement des exploitations en matière d'élevage, du développement et des animaux de basse-cour choisis parmi leurs membres professionnels.
 
-Un représentant des comités consultatifs des équidés et des élevages spéciaux choisis parmi leurs membres professionnels.
+Un représentant du comité consultatif des élevages spéciaux choisi parmi ses membres professionnels.
 
 Deux à quatre personnalités choisies en raison de leur compétence technique, sociale, économique ou juridique.
