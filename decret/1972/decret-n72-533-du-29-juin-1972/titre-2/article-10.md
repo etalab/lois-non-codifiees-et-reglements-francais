@@ -1,0 +1,3 @@
+# Article 10
+
+Pour l'application des articles 3 et 9 ci-dessus, le loyer principal effectivement payé est pris en considération dans la limite d'un plafond mensuel auquel s'ajoute, au titre des dépenses de chauffage, une majoration forfaitaire mensuelle variable avec la taille de la famille. Les montants dudit plafond mensuel et de ladite majoration forfaitaire sont fixés par arrêté concerté des ministres chargés de l'économie et des finances, de l'équipement et du logement, de l'agriculture et de la santé publique et de la sécurité sociale [*modalité de calcul de l'allocation logement - détermination du taux*].
