@@ -4,7 +4,7 @@ Le bureau de vote national est composé d'un président et de deux assesseurs d�
 
 Le bureau de vote national se réunit à la diligence du directeur des hôpitaux dès réception des résultats régionaux et au plus tard vingt-cinq jours après la date du scrutin [*délai*].
 
-Il procède [*attributions*] dans un premier temps aux opérations de dépouillement des votes exprimés par les praticiens placés en position de détachement et par les praticiens en fonctions dans les départements d'outre-mer.
+Il procède dans un premier temps aux opérations de dépouillement des votes exprimés par les praticiens placés en position de détachement.
 
 Le président détermine ensuite et proclame les résultats définitifs en calculant :
 

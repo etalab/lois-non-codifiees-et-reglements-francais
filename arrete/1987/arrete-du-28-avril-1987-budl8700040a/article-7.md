@@ -16,4 +16,8 @@ les agents habilités des organismes gestionnaires des retraites du régime gén
 
 - code imposable ou non imposable au sens de l'article 1657 I bis du code général des impôts ;
 
-- code imposable ou non imposable au sens de l'article 199 septies-0 A du code précité.
+- code imposable ou non imposable au sens de l'article 199 septies-0 A du code précité ;
+
+montant du revenu de référence ;
+
+nombre de parts.
