@@ -1,0 +1,3 @@
+# Article 1
+
+En application de l'article 5 du décret du 21 juillet 1971 susvisé, afin de permettre aux services vétérinaires de vérifier, à tous les stades de leur commercialisation, la conformité aux normes sanitaires des oeufs en coquille destinés à la consommation humaine, les centres d'emballage agréés, conformément au règlement n° 95-69 du 17 janvier 1969 de la Commission des communautés européennes, doivent être en mesure d'indiquer l'origine des oeufs qu'ils conditionnent. A cet effet, ils tiennent à jour un registre détaillé des livraisons, quelle que soit leur origine, avec le nom et l'adresse de chaque producteur, le nombre d'oeufs ou leur poids et la date de livraison. Ce registre doit être présenté à toute réquisition des agents des services vétérinaires.

@@ -1,3 +1,3 @@
 # Article 7
 
-Vérifications : L'exploitant doit vérifier, à une périodicité qu'il détermine en fonction des circonstances et au plus égale à un an, que les personnes visées à l'article 4, paragraphe 1, sont en mesure d'appliquer les règles à suivre pour leur mise à l'abri.
+Dossier technique d'aérage : La personne physique chargée de la direction technique des travaux rassemble les dispositions prises pour assurer l'aérage de l'exploitation et les études techniques justifiant, le cas échéant, ces dispositions, dans un dossier dit Dossier technique d'aérage.

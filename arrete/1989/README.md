@@ -28,6 +28,7 @@
 - [Arrêté du 2 juin 1989 (SPSS8901185A)](arrete-du-2-juin-1989-spss8901185a)
 - [Arrêté du 2 mars 1989 (ECOX8910059A)](arrete-du-2-mars-1989-ecox8910059a)
 - [Arrêté du 2 mars 1989 (ECOX8910060A)](arrete-du-2-mars-1989-ecox8910060a)
+- [Arrêté du 2 novembre 1989 (AGRG8902163A)](arrete-du-2-novembre-1989-agrg8902163a)
 - [Arrêté du 2 novembre 1989 (PTTT8900995A)](arrete-du-2-novembre-1989-pttt8900995a)
 - [Arrêté du 2 novembre 1989 (TEFE8903815A)](arrete-du-2-novembre-1989-tefe8903815a)
 - [Arrêté du 2 octobre 1989 (ECOC8900106A)](arrete-du-2-octobre-1989-ecoc8900106a)
