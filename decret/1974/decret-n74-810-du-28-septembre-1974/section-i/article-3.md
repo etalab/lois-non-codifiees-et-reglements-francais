@@ -8,4 +8,4 @@ La cotisation mentionnée à l'alinéa précédent est assise pour partie dans l
 
 3 - A titre provisoire, en application du paragraphe 2 ci-dessus, le taux de la cotisation due sur les revenus procurés par l'exercice d'une ou plusieurs activités non-salariées non-agricoles est fixé à 11,55 % dont 3,10 % dans la limite du plafond et 8,45 % dans la limite de cinq fois le plafond.
 
-A titre provisoire, le taux de la cotisation due sur les pensions ou allocations versées par une ou des organisations autonomes d'allocation de vieillesse visées à l'article 2 ci-dessus est fixée à 5 % dans la limite de cinq fois le plafond.
+4 - A titre provisoire, le taux de la cotisation due sur les allocations ou pensions visées au paragraphe 2 de l'article 2 ci-dessus est fixé à 3 % dans la limite de cinq fois le plafond de la sécurité sociale.
