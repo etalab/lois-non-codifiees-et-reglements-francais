@@ -1022,7 +1022,6 @@
 - [Arrêté du 29 avril 1998 (ECOI9800385A)](arrete-du-29-avril-1998-ecoi9800385a)
 - [Arrêté du 29 décembre 1994 (INTB9400628A)](arrete-du-29-decembre-1994-intb9400628a)
 - [Arrêté du 29 décembre 1997 (ECOI9800031A)](arrete-du-29-decembre-1997-ecoi9800031a)
-- [Arrêté du 29 décembre 1997 (EQUA9701651A)](arrete-du-29-decembre-1997-equa9701651a)
 - [Arrêté du 29 décembre 1997 (MENL9703397A)](arrete-du-29-decembre-1997-menl9703397a)
 - [Arrêté du 29 décembre 1998 (DEFD9801664A)](arrete-du-29-decembre-1998-defd9801664a)
 - [Arrêté du 29 décembre 1998 (ECOT9851768A)](arrete-du-29-decembre-1998-ecot9851768a)
