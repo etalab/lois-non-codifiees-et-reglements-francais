@@ -1,0 +1,15 @@
+# CONTRAT TYPE APPLICABLE AUX TRANSPORTS PUBLICS ROUTIERS DE MARCHANDISES EXÉCUTÉS PAR DES SOUS-TRAITANTS
+
+- [Assurances](assurances)
+- [Champ d'application du contrat](champ-d-application-du-contrat)
+- [Définitions](definitions)
+- [Durée du contrat de sous-traitance, reconduction et résiliation](duree-du-contrat-de-sous-traitance-reconduction-et)
+- [Facturation et modalités de paiement](facturation-et)
+- [Moyens de transport et organisation du service](moyens-de-transport-et)
+- [Objet du contrat](objet-du-contrat)
+- [Obligations de l'opérateur de transport](obligations-de-l-operateur-de-transport)
+- [Obligations du sous-traitant](obligations-du-sous-traitant)
+- [Personnel de conduite](personnel-de-conduite)
+- [Prix](prix)
+- [Respect des diverses réglementations](respect-des-diverses-reglementations)
+- [Responsabilité](responsabilite)

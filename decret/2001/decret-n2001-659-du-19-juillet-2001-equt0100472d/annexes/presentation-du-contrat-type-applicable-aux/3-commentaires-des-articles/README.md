@@ -1,0 +1,15 @@
+# 3. Commentaires des articles
+
+- [Durée du contrat de sous-traitance ; reconduction ; résiliation](duree-du-contrat-de-sous-traitance)
+- [Assurances](assurances)
+- [Champ d'application du contrat](champ-d-application-du-contrat)
+- [Définitions](definitions)
+- [Facturation et modalités de paiement](facturation-et)
+- [Moyens de transport et organisation du service](moyens-de-transport-et)
+- [Objet du contrat](objet-du-contrat)
+- [Obligations de l'opérateur de transport](obligations-de-l-operateur-de-transport)
+- [Obligations du sous-traitant](obligations-du-sous-traitant)
+- [Personnel de conduite](personnel-de-conduite)
+- [Prix](prix)
+- [Respect des diverses réglementations](respect-des-diverses-reglementations)
+- [Responsabilité](responsabilite)
