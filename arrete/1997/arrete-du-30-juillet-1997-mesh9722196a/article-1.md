@@ -1,0 +1,7 @@
+# Article 1
+
+Lorsque la composition du jury des concours prévus à l'article 8 de la loi du 16 décembre 1996 susvisée n'est pas fixée pour les concours d'accès aux corps figurant en annexe du décret du 25 avril 1997 susvisé, le jury est composé comme suit :
+
+1° Un directeur, chef d'un établissement mentionné à l'article 2 de la loi du 9 janvier 1986 susvisée ou son représentant appartenant à la catégorie A, désigné après tirage au sort par le directeur départemental des affaires sanitaires et sociales du département dans lequel est ouvert un concours, parmi les directeurs chefs d'établissement du département ou, le cas échéant, de la région, président ;
+
+2° Deux fonctionnaires hospitaliers de catégorie A, si le corps donnant lieu à recrutement est classé dans la catégorie B ou deux fonctionnaires hospitaliers de catégorie A ou B, si le corps donnant lieu à recrutement est classé dans la catégorie C. Au moins un de ces deux fonctionnaires membres du jury relève de la même filière professionnelle que celle pour laquelle le concours est ouvert. Ils sont en fonction dans un des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée situé dans le département dans lequel est ouvert un concours ou, le cas échéant, dans la région ; ils sont désignés après tirage au sort par le directeur départemental des affaires sanitaires et sociales du département parmi les fonctionnaires proposés par les établissements du département ou, le cas échéant, de la région.
