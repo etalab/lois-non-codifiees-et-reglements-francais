@@ -170,7 +170,6 @@
 - [Décret n°93-45 du 11 janvier 1993 (MAEJ9230077D)](decret-n93-45-du-11-janvier-1993-maej9230077d)
 - [Décret n°93-48 du 11 janvier 1993 (DOME9300026D)](decret-n93-48-du-11-janvier-1993-dome9300026d)
 - [Décret n°93-851 du 11 juin 1993 (ECOZ9300006D)](decret-n93-851-du-11-juin-1993-ecoz9300006d)
-- [Décret n°93-815 du 11 mai 1993 (DOMP9300017D)](decret-n93-815-du-11-mai-1993-domp9300017d)
 - [Décret n°73-364 du 12 mars 1973](decret-n73-364-du-12-mars-1973)
 - [Décret n°93-201 du 12 février 1993 (BUDF9200045D)](decret-n93-201-du-12-fevrier-1993-budf9200045d)
 - [Décret n°93-204 du 12 février 1993 (MENL9304147D)](decret-n93-204-du-12-fevrier-1993-menl9304147d)
