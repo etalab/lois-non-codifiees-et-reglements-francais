@@ -11,5 +11,6 @@
 - [Arrêté du 18 juin 1959](arrete-du-18-juin-1959)
 - [Arrêté du 20 mai 1959](arrete-du-20-mai-1959)
 - [Arrêté du 21 avril 1959](arrete-du-21-avril-1959)
+- [Arrêté du 22 juillet 1959](arrete-du-22-juillet-1959)
 - [Arrêté du 27 février 1959](arrete-du-27-fevrier-1959)
 - [Arrêté du 28 avril 1959](arrete-du-28-avril-1959)
