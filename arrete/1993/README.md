@@ -976,7 +976,6 @@
 - [Arrêté du 26 avril 1993 (INDP9320193A)](arrete-du-26-avril-1993-indp9320193a)
 - [Arrêté du 26 avril 1993 (JUSF9350022A)](arrete-du-26-avril-1993-jusf9350022a)
 - [Arrêté du 26 février 1993 (AGRS9300302A)](arrete-du-26-fevrier-1993-agrs9300302a)
-- [Arrêté du 26 février 1993 (COPC9300003A)](arrete-du-26-fevrier-1993-copc9300003a)
 - [Arrêté du 26 février 1993 (INDA9300216A)](arrete-du-26-fevrier-1993-inda9300216a)
 - [Arrêté du 26 février 1993 (RESY9300114A)](arrete-du-26-fevrier-1993-resy9300114a)
 - [Arrêté du 26 février 1993 (SPSS9300624A)](arrete-du-26-fevrier-1993-spss9300624a)
