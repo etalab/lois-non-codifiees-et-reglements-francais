@@ -1,0 +1,3 @@
+# Article 15
+
+Les dispositions de l'arrêté du 3 mars 1997 fixant les conditions d'organisation des concours et examens professionnels de recrutement dans les services déconcentrés de la direction générale des douanes et droits indirects et celles de l'arrêté du 3 mars 1997 fixant les conditions d'organisation des concours et examens professionnels de recrutement dans les services déconcentrés de la direction générale de la concurrence, de la consommation et de la répression des fraudes ne sont plus applicables pour le recrutement des personnels des laboratoires du ministère de l'économie, des finances et de l'industrie.
