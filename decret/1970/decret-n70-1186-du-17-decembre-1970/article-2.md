@@ -6,6 +6,4 @@ Les aides-soignants ;
 
 Les élèves aides-soignants ;
 
-Les agents des services hospitaliers de 1re catégorie ;
-
-Les agents des services hospitaliers de 2e catégorie.
+Les agents des services hospitaliers.

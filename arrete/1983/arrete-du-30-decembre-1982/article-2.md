@@ -1,0 +1,3 @@
+# Article 2
+
+En application des dispositions des décrets n° 82-389 (art. 17) et 82-390 (art. 16) du 10 mai 1982 susvisés, le   préfet de région peut donner délégation de signature en ce qui concerne sa compétence d'ordonnateur secondaire du budget du ministère de la formation professionnelle au délégué régional à la formation professionnelle en ce qui concerne l'exécution des recettes et des dépenses du service de la délégation régionale à la formation professionnelle, et notamment pour l'utilisation des crédits de formation professionnelle inscrits au budget des services généraux du Premier ministre.

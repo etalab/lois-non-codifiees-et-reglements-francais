@@ -28,4 +28,4 @@ Emplois classés dans les groupes de rémunération IV, V et VI prévus par l'ar
 
 Groupe V :
 
-Emplois classés dans les groupes de rémunération I, II et III de l'arrêté du 25 mai 1970.
+Emplois classés dans l'échelle 1 et le groupe III de rémunération de l'arrêté modifié du 25 mai 1970.

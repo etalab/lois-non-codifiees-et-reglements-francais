@@ -1,0 +1,5 @@
+# Article 14
+
+Des autorisations spéciales d'absence sont également accordées, pour les besoins de l'activité syndicale ministérielle et interministérielle, aux représentants syndicaux mandatés pour participer aux congrès ou aux réunions statutaires d'organismes directeurs des organisations syndicales d'un autre niveau que ceux indiqués à l'article précédent. Ces autorisations sont délivrées dans la limite d'un contingent global d'autorisations spéciales d'absence déterminé, chaque année, par département ministériel à raison d'une journée d'autorisation spéciale d'absence pour 1.000 journées de travail effectuées par les agents du département ministériel considéré, ce contingent étant réparti entre les organisations syndicales compte tenu de leur représentativité.
+
+Un arrêté conjoint du ministre chargé de la fonction publique, du ministre de l'éducation nationale et du ministre chargé du budget détermine les adaptations nécessaires et fixe les modalités d'application du présent article aux agents relevant du ministère de l'éducation nationale.

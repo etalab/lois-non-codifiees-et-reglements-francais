@@ -1,0 +1,3 @@
+# Article 4
+
+Le garde des sceaux, ministre de l'intérieur, le ministre délégué à l'économie et aux finances, le ministre de l'équipement et de l'aménagement du territoire et le ministre de la santé et de la sécurité sociale sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

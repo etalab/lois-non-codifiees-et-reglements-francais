@@ -1,0 +1,13 @@
+# Article 2
+
+La taxe est assise sur les sommes hors taxe sur la valeur ajoutée payées par les annonceurs pour la diffusion de leurs messages publicitaires à destination du territoire français. Elle est perçue par l'institut national de la communication audiovisuelle [*INCA*] auprès des personnes qui assurent la régie de ces messages publicitaires.
+
+Un arrêté du ministre de l'économie et des finances, du ministre chargé du budget et du ministre chargé de la communication fixe le tarif d'imposition par paliers des recettes mensuelles perçues par les régies assujetties dans les limites suivantes :
+
+I - Publicité radiodiffusée.
+
+Jusqu'à 1 million                          3.750 F    De 1 à 2 millions                         11.000    De 2 à 3 millions                         18.800    De 3 à 5 millions                         31.000    De 5 à 7 millions                         49.400    De 7 à 10 millions                        70.700    De 10 à 15 millions                      104.000    De 15 à 20 millions                      150.800    De 20 à 30 millions                      215.300    De 30 à 40 millions                      301.600    De 40 à 50 millions                      405.600    De 50 à 60 millions                      499.200    De 60 à 70 millions                      592.800    De 70 à 80 millions                      686.400    De 80 à 90 millions                      780.000    De 90 à 100 millions                     873.600    De 100 à 110 millions                  1.050.000    De 110 à 120 millions                  1.150.000    De 120 à 130 millions                  1.250.000    De 130 à 140 millions                  1.350.000    Au-dessus de 140 millions              1.450.000.
+
+II - Publicité télévisée.
+
+Jusqu'à 1 million                          4.700 F    De 1 à 2 millions                         14.100    De 2 à 5 millions                         32.800    De 5 à 10 millions                        83.200    De 10 à 20 millions                      191.400    De 20 à 40 millions                      435.800    De 40 à 60 millions                      858.000    De 60 à 80 millions                    1.341.600    De 80 à 100 millions                   1.731.600    De 100 à 120 millions                  2.142.400    De 140 à 160 millions                  2.964.000    De 160 à 180 millions                  3.380.000    De 180 à 200 millions                  3.796.000    De 200 à 220 millions                  4.200.000    De 220 à 240 millions                  4.600.000    De 240 à 260 millions                  5.000.000    De 260 à 280 millions                  5.400.000    Au-dessus de 280 millions              5.800.000.

@@ -1,0 +1,4 @@
+# Arrêté du 15 juillet 1982 RELATIF A LA VENTE DES TIMBRES MOBILES FISCAUX ET DES PAPIERS TIMBRES PAR LES COMPTABLES DIRECTS DU TRESOR.
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)

@@ -1,6 +1,6 @@
 # Article ANNEXE I
 
-Emplois classés dans le groupe I. ===============================================================
+Emplois classés dans l'échelle 1 de rémunération ===============================================================
 
 <table>
 <tr>

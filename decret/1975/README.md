@@ -1,5 +1,6 @@
 # 1975
 
+- [Décret n°77-1020 du 1 septembre 1977](decret-n77-1020-du-1-septembre-1977)
 - [Décret n°75-1109 du 2 décembre 1975](decret-n75-1109-du-2-decembre-1975)
 - [Décret du 3 mars 1975](decret-du-3-mars-1975)
 - [Décret n°75-142 du 3 mars 1975](decret-n75-142-du-3-mars-1975)
@@ -41,6 +42,7 @@
 - [Décret n°75-848 du 26 août 1975](decret-n75-848-du-26-aout-1975)
 - [Décret n°75-1105 du 28 novembre 1975](decret-n75-1105-du-28-novembre-1975)
 - [Décret n°75-675 du 28 juillet 1975](decret-n75-675-du-28-juillet-1975)
+- [Décret n°75-996 du 28 octobre 1975](decret-n75-996-du-28-octobre-1975)
 - [Décret n°75-1290 du 29 décembre 1975](decret-n75-1290-du-29-decembre-1975)
 - [Décret n°75-1288 du 30 décembre 1975](decret-n75-1288-du-30-decembre-1975)
 - [Décret n°75-543 du 30 juin 1975](decret-n75-543-du-30-juin-1975)

@@ -5,10 +5,10 @@
 <td>:=================================:</td>
 </tr>
 <tr>
-<td> :  GROUPES   :     ECHELONS       :</td>
+<td> : ECHELLE ou :     ECHELONS       :</td>
 </tr>
 <tr>
-<td> :            :  (indices bruts)   :</td>
+<td> :  GROUPES   :  (indices bruts)   :</td>
 </tr>
 <tr>
 <td> :------------:--------------------:</td>
@@ -20,10 +20,7 @@
 <td> :            :------:------:------:</td>
 </tr>
 <tr>
-<td> : Groupe I   :  204 : 206  : 212  :</td>
-</tr>
-<tr>
-<td> : Groupe II  :  209 : 215  : 222  :</td>
+<td> : Echelle 1  :  204 : 215  : 222  :</td>
 </tr>
 <tr>
 <td> : Groupe III :  220 : 226  : 232  :</td>
@@ -53,10 +50,10 @@
 <td>:=================================:</td>
 </tr>
 <tr>
-<td> :  GROUPES   :     ECHELONS       :</td>
+<td> : ECHELLE ou :     ECHELONS       :</td>
 </tr>
 <tr>
-<td> :            :  (indices bruts)   :</td>
+<td> :  GROUPES   :  (indices bruts)   :</td>
 </tr>
 <tr>
 <td> :------------:--------------------:</td>
@@ -68,10 +65,7 @@
 <td> :            :------:------:------:</td>
 </tr>
 <tr>
-<td> : Groupe I   :  219 :      :      :</td>
-</tr>
-<tr>
-<td> : Groupe II  :  229 : 236  : 242  :</td>
+<td> : Echelle 1  :  229 : 236  : 242  :</td>
 </tr>
 <tr>
 <td> : Groupe III :  238 : 247  : 256  :</td>
@@ -101,10 +95,10 @@
 <td>:=================================:</td>
 </tr>
 <tr>
-<td> :  GROUPES   :     ECHELONS       :</td>
+<td> : ECHELLE ou :     ECHELONS       :</td>
 </tr>
 <tr>
-<td> :            :  (indices bruts)   :</td>
+<td> :  GROUPES   :  (indices bruts)   :</td>
 </tr>
 <tr>
 <td> :------------:--------------------:</td>
@@ -116,10 +110,7 @@
 <td> :            :------:------:------:</td>
 </tr>
 <tr>
-<td> : Groupe I   :      :      :      :</td>
-</tr>
-<tr>
-<td> : Groupe II  :  250 : 259  :      :</td>
+<td> : Echelle 1  :  250 : 259  :      :</td>
 </tr>
 <tr>
 <td> : Groupe III :  262 : 267  : 274  :</td>
@@ -149,10 +140,10 @@
 <td>:=================================:</td>
 </tr>
 <tr>
-<td> :  GROUPES   :     ECHELONS       :</td>
+<td> : ECHELLE ou :     ECHELONS       :</td>
 </tr>
 <tr>
-<td> :            :  (indices bruts)   :</td>
+<td> :  GROUPES   :  (indices bruts)   :</td>
 </tr>
 <tr>
 <td> :------------:--------------------:</td>
@@ -164,10 +155,7 @@
 <td> :            :--------------------:</td>
 </tr>
 <tr>
-<td> : Groupe I   :                    :</td>
-</tr>
-<tr>
-<td> : Groupe II  :                    :</td>
+<td> : Echelle 1  :                    :</td>
 </tr>
 <tr>
 <td> : Groupe III :        282         :</td>
