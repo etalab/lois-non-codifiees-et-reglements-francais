@@ -2,7 +2,7 @@
 
 Les épreuves d'admission du concours externe et du concours interne sont les suivantes :
 
-1° Une conversation avec le jury débutant par le commentaire d'un texte à caractère culturel (durée : trente minutes au maximum avec préparation de même durée ; coefficient 3) ;
+1° Une conversation avec le jury débutant par le commentaire d'un texte à caractère culturel pour les spécialités Archéologie, Archives, Inventaire, Musées, ou d'un texte à caractère scientifique et technique pour la spécialité Patrimoine scientifique, technique et naturel (durée : trente minutes au maximum avec préparation de même durée ; coefficient 3) ;
 
 2° Une interrogation orale portant au choix du candidat, exprimé au moment de l'inscription, sur l'une des options suivantes :
 
@@ -11,6 +11,8 @@ Les épreuves d'admission du concours externe et du concours interne sont les su
 - médiation culturelle ;
 
 - histoire des institutions de la France.
+
+- conservation scientifique et technique ".
 
 (Durée : trente minutes maximum avec préparation de même durée ; coefficient 2).
 

@@ -4,7 +4,7 @@ Les épreuves d'admissibilité du concours externe pour le recrutement des attac
 
 " 1° Une composition portant sur un sujet d'ordre général relatif aux grands problèmes politiques, économiques, culturels ou sociaux du monde contemporain depuis 1945 (durée : quatre heures ; coefficient 3) ;
 
-" 2° Une composition de droit public ou d'économie générale (durée : trois heures ; coefficient 3) ;
+" 2° Une composition sur un sujet portant, au choix du candidat lors de l'inscription, soit sur le droit public, soit sur l'économie générale (durée : trois heures ; coefficient 3) ; ".
 
 " I. - Pour les candidats ayant choisi la spécialité Administration générale :
 

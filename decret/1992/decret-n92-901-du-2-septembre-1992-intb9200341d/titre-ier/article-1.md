@@ -1,6 +1,6 @@
 # Article 1
 
-Les candidats au concours externe d'accès au cadre d'emplois des attachés territoriaux de conservation du patrimoine qui comprend quatre spécialités : Archéologie, Archives, Inventaire, Musées doivent être titulaires :
+Les candidats au concours externe d'accès au cadre d'emplois des attachés territoriaux de conservation du patrimoine qui comprend cinq spécialités : Archéologie, Archives, Inventaire, Musées Patrimoine scientifique, technique et naturel doivent être titulaires :
 
 1° D'un diplôme national ou reconnu ou visé par l'Etat sanctionnant une formation d'une durée totale au moins égale à trois années d'études supérieures après le baccalauréat ; ou
 
