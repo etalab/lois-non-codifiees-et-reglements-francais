@@ -1,0 +1,3 @@
+# Article 10
+
+A titre provisoire et pour compter du 1er août 1953, il est attribué aux fonctionnaires de l'Etat en service dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion, un complément temporaire à la majoration de traitement instituée par l'article 3 de la loi sus-visée du 3 avril 1950. Le taux de ce complément est fixé à 5 % du traitement indiciaire de base. Dans le département de la Réunion le complément dont il s'agit est payé à sa contre-valeur en monnaie locale, d'après la parité en vigueur pendant la période sur laquelle porte la liquidation.
