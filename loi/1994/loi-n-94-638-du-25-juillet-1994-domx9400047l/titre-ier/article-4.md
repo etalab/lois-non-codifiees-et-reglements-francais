@@ -10,4 +10,4 @@ Le coût pour les organismes sociaux de cette exonération est pris en charge pa
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent paragraphe.
 
-II. - Les dispositions du I sont applicables pendant cinq ans à compter de la publication du décret en Conseil d'Etat susmentionné.
+II. - Les dispositions du I sont applicables jusqu'au 31 décembre 2000.

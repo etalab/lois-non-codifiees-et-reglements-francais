@@ -12,23 +12,7 @@ A. - Réseaux ouverts au public, visés à l'article L. 33-1 du code des postes 
 
 4° Lorsque les autorisations sont délivrées à l'issue d'une procédure d'appel à candidatures décidée en application du V de l'article L. 33-1 du code des postes et télécommunications, le montant résultant de l'application des dispositions du 1° ci-dessus est multiplié par deux.
 
-B. - Réseaux radioélectriques indépendants à usage privé, visés à l'article L. 33-2 du code des postes et télécommunications.
-
-1° La taxe est fixée à 1 000 F par dossier déposé.
-
-2° Toutefois, cette taxe est fixée à 300 F pour les systèmes de transmission de données, téléalarme, télémesure et télécommande dont la puissance est inférieure ou égale à 100 mW et pour les dispositifs de recherche de personnes utilisés à l'intérieur d'une même propriété. Elle est réduite à 150 F lorsqu'il s'agit de systèmes utilisant des fréquences prédéterminées.
-
-3° La taxe instituée au 1° est réduite à 500 F lorsque l'autorisation est demandée pour une durée au plus égale à deux mois.
-
-4° Toute demande de modification d'un réseau est soumise à une taxe d'un montant de 500 F par dossier déposé. Elle ne s'applique pas aux réseaux définis au 2° ci-dessus.
-
-5° Les taxes visées ci-dessus sont dues lors du dépôt du dossier.
-
-C. - Réseaux radioélectriques indépendants à usage partagé visés à l'article L. 33-2 du code des postes et télécommunications.
-
-1° La taxe est fixée à 3 000 F.
-
-2° Elle est due lors du dépôt du dossier.
+B. et C. (Abrogés)
 
 D. - Réseaux radioélectriques indépendants utilisant des capacités de satellites, autorisés au titre de l'article L. 33-2 du code des postes et télécommunications, qu'ils soient à usage privé ou à usage partagé.
 
@@ -48,7 +32,7 @@ E. - Réseaux indépendants filaires, visés à l'article L. 33-2 du code des po
 
 La taxe est fixée selon le barème suivant :
 
-(tableau non reproduit).
+(tableau non reproduit)
 
 Elle est due lors de la délivrance de l'autorisation.
 
@@ -98,8 +82,10 @@ VI. Sauf en ce qui concerne la taxe forfaitaire prévue au premier alinéa du II
 
 VII. - Les titulaires d'autorisations relatives à des réseaux et services de télécommunications visés aux articles L. 33-1 et L. 34-1 du code des postes et télécommunications, et délivrées à compter du 29 juillet 1996, sont assujettis au paiement d'une taxe de gestion et de contrôle de l'autorisation, dans les conditions suivantes :
 
-1° Le montant annuel de la taxe est égal au double du montant résultant de l'application des dispositions du 1° du A et du 1° du F du I du présent article ;
+1° Le montant annuel de la taxe est égal au montant résultant de l'application des dispositions du 1° du A et du 1° du F du I du présent article ;
 
 2° Pour un opérateur qui figure sur la liste prévue au 7° de l'article L. 36-7 du code des postes et télécommunications, le montant annuel résultant des dispositions du 1° du présent VII est multiplié par deux ;
 
 3° La taxe est due, pendant toute la durée de l'autorisation, au 1er décembre de chaque année. Le montant correspondant à la première année d'autorisation est calculé prorata temporis à compter de la date de délivrance de l'autorisation.
+
+VIII. - Les titulaires d'autorisations délivrées en application des articles L. 33-1 ou L. 34-1 du code des postes et télécommunications relatives à des réseaux ou services de télécommunications à caractère expérimental autorisés pour une durée inférieure à trois ans sont exonérés des taxes prévues aux A et F du I et au VII du présent article.
