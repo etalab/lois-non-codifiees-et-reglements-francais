@@ -1,4 +1,4 @@
-# Arrêté du 11 octobre 1985 relatif à la fixation du taux de prélèvement pour frais d'assiette et de perception de la taxe instituée au profit de l'Association nationale pour le développement agricole pour être versée au Fonds national de développement agricole
+# Arrêté du 11 octobre 1985 fixant le contenu et les règles d'utilisation des documents et du suivi nécessaire à l'application des dispositions de l'article 22 du décret n° 85-968 relatif aux appareils de radiographie gamma industrielle
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

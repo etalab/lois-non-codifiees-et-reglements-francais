@@ -1,3 +1,3 @@
 # Article 1
 
-Le gain annuel minimum prévu à l'article 1234-22 du code rural est fixé à 36.238 F pour la période du 1er janvier au 31 décembre 1986.
+Les appareils portatifs de radiographie industrielle utilisant le rayonnement gamma de marque CGR ou HBS, type GAM 80 et GAM 120, ne doivent pas être utilisés au-delà du 31 décembre 1989 et doivent pour être utilisés, satisfaire aux prescriptions des articles ci-après.  Toutefois, les appareils satisfaisant aux prescriptions des articles ci-après et rendus conformes à la norme NF M 60-551 (publication 1983) peuvent être utilisés au-delà de cette date.

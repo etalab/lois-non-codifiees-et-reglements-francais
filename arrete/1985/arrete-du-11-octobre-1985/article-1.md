@@ -1,3 +1,5 @@
 # Article 1
 
-Le taux du prélèvement représentant les frais d'assiette et de perception à opérer sur les recouvrements de la taxe perçue sur les céréales et le riz au profit de l'Association nationale pour le développement agricole pour être versée au Fonds national de développement agricole est fixé, à compter du 1er août 1985, à 3 p. 100.
+Le contenu du carnet de suivi attribué à chaque projecteur est fixé à l'annexe I du présent arrêté.
+
+Le contenu de la fiche de suivi attribuée à chaque accessoire (télécommande, gaine d'éjection, dispositif d'irradiation) est fixé à l'annexe II du présent arrêté.
