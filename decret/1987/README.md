@@ -1,5 +1,7 @@
 # 1987
 
+- [Décret n°87-366 du 1 juin 1987 (MENU8700182D)](decret-n87-366-du-1-juin-1987-menu8700182d)
+- [Décret n°87-368 du 1 juin 1987 (MERP8700020D)](decret-n87-368-du-1-juin-1987-merp8700020d)
 - [Décret n°87-138 du 2 mars 1987](decret-n87-138-du-2-mars-1987)
 - [Décret n°87-146 du 2 mars 1987 (MAEJ8730010D)](decret-n87-146-du-2-mars-1987-maej8730010d)
 - [Décret n°87-148 du 2 mars 1987 (ASES8700357D)](decret-n87-148-du-2-mars-1987-ases8700357d)
@@ -16,8 +18,10 @@
 - [Décret n°87-237 du 3 avril 1987 (ASEE8703261D)](decret-n87-237-du-3-avril-1987-asee8703261d)
 - [Décret n°87-247 du 3 avril 1987 (MAEJ8730016D)](decret-n87-247-du-3-avril-1987-maej8730016d)
 - [Décret n°87-248 du 3 avril 1987](decret-n87-248-du-3-avril-1987)
+- [Décret n°87-367 du 3 juin 1987 (ASEP8700806D)](decret-n87-367-du-3-juin-1987-asep8700806d)
 - [Décret n°87-60 du 3 février 1987 (PTTT8700082D)](decret-n87-60-du-3-fevrier-1987-pttt8700082d)
 - [Décret n°87-140 du 4 mars 1987 (ECOZ8700013D)](decret-n87-140-du-4-mars-1987-ecoz8700013d)
+- [Décret n°87-364 du 4 juin 1987 (MCCT8700254D)](decret-n87-364-du-4-juin-1987-mcct8700254d)
 - [Décret n°87-64 du 4 février 1987](decret-n87-64-du-4-fevrier-1987)
 - [Décret n°87-1 du 5 janvier 1987](decret-n87-1-du-5-janvier-1987)
 - [Décret n°87-153 du 5 mars 1987](decret-n87-153-du-5-mars-1987)
