@@ -1,0 +1,5 @@
+# Article 2
+
+Les centres hospitaliers régionaux dans lesquels existe un centre antipoison à la date de publication du présent décret, qu'il aient ou non été inscrits avant cette date sur la liste établie en application de l'article L. 711-9 du code de la santé publique, disposent d'un délai de six mois à compter de la date de publication de l'arrêté mentionné à l'article R. 711-6-24 du même code pour déposer, auprès du préfet de la région dans laquelle ils sont situés, leur demande d'inscription sur la liste des centres hospitaliers régionaux comportant un centre antipoison.
+
+Les centres hospitaliers régionaux ayant déposé leur demande dans ce délai pourront continuer à faire fonctionner leur centre antipoison jusqu'à l'intervention de la décision du ministre chargé de la santé ; en cas de décision ministérielle de refus d'inscription, qui pourra être expresse ou résulter de la non-inscription sur la liste dans le délai d'un an suivant la publication de l'arrêté mentionné à l'article R. 711-6-24 du code de la santé publique, le centre antipoison devra cesser son activité.
