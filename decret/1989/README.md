@@ -483,7 +483,6 @@
 - [Décret n°89-428 du 29 juin 1989 (EQUA8900666D)](decret-n89-428-du-29-juin-1989-equa8900666d)
 - [Décret n°89-429 du 29 juin 1989 (EQUA8900668D)](decret-n89-429-du-29-juin-1989-equa8900668d)
 - [Décret n°89-430 du 29 juin 1989 (EQUA8900665D)](decret-n89-430-du-29-juin-1989-equa8900665d)
-- [Décret n°89-438 du 29 juin 1989 (TEFX8900087D)](decret-n89-438-du-29-juin-1989-tefx8900087d)
 - [Décret n°89-594 du 29 août 1989 (AGRB8901607D)](decret-n89-594-du-29-aout-1989-agrb8901607d)
 - [Décret n°89-595 du 29 août 1989 (AGRB8901610D)](decret-n89-595-du-29-aout-1989-agrb8901610d)
 - [Décret n°89-596 du 29 août 1989 (AGRB8901612D)](decret-n89-596-du-29-aout-1989-agrb8901612d)
