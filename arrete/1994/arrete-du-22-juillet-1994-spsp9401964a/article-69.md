@@ -1,0 +1,3 @@
+# Article 69
+
+En cas d'inaptitude physique ou psychologique d'un élève mettant en danger la sécurité des patients, le directeur de l'école peut suspendre immédiatement la scolarité de l'élève. Il adresse aussitôt un rapport motivé au médecin inspecteur de santé publique de la direction départementale des affaires sanitaires et sociales. Si les éléments contenus dans ce rapport le justifient, le médecin inspecteur peut demander un examen médical effectué par un médecin agréé. Le directeur de l'école, en accord avec le médecin inspecteur, et, le cas échéant, sur les conclusions écrites du médecin agréé, prend toute disposition propre à garantir la sécurité des patients.

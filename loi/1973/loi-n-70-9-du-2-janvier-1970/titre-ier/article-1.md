@@ -13,3 +13,5 @@ Les dispositions de la présente loi s'appliquent aux personnes physiques ou mor
 5° L'achat, la vente de parts sociales non négociables lorsque l'actif social comprend un immeuble ou un fonds de commerce ;
 
 6° La gestion immobilière.
+
+7° A l'exclusion des publications par voie de presse, la vente de listes ou de fichiers relatifs à l'achat, la vente, la location ou sous-location en nu ou en meublé d'immeubles bâtis ou non bâtis.
