@@ -39,6 +39,7 @@
 - [Arrêté du 22 juin 1992 (INDB9200556A)](arrete-du-22-juin-1992-indb9200556a)
 - [Arrêté du 23 mars 1993 (SPSG9300990A)](arrete-du-23-mars-1993-spsg9300990a)
 - [Arrêté du 24 décembre 1992 (EQUT9201730A)](arrete-du-24-decembre-1992-equt9201730a)
+- [Arrêté du 24 décembre 1992 (MENE9204199A)](arrete-du-24-decembre-1992-mene9204199a)
 - [Arrêté du 24 décembre 1992 (SPSS9203302A)](arrete-du-24-decembre-1992-spss9203302a)
 - [Arrêté du 24 juin 1993 (TEFO9300687A)](arrete-du-24-juin-1993-tefo9300687a)
 - [Arrêté du 24 mars 1994 (INTC9400221A)](arrete-du-24-mars-1994-intc9400221a)
