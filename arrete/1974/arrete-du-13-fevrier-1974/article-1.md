@@ -1,3 +1,3 @@
 # Article 1
 
-Le directeur d'un parc naturel régional est désigné par l'organisme chargé de la réalisation et de la gestion du parc en référence à une liste d'agrément établie par le ministre de la protection de la nature et de l'environnement.
+On entend par véhicule, au sens du présent arrêté, tout véhicule à moteur destiné à circuler sur route, ayant au moins quatre roues et à une vitesse maximale par construction supérieure à 25 km/h, à l'exception des véhicules qui se déplacent sur rails, des tracteurs et machines agricoles, ainsi que des engins de travaux publics [*définition*].
