@@ -1,43 +1,7 @@
 # Article 20
 
-La commission technique du musée de prévention des accidents du travail et d'hygiène industrielle est nommée pour quatre ans par le ministre de l'instruction publique et des beaux-arts.
+Le musée national des techniques est un service du Conservatoire national des arts et métiers. Il a pour mission de conserver et d'accroître le patrimoine national illustrant le progrès des sciences et des techniques par la collecte, l'entretien et le classement des objets, machines, maquettes et documents. Il contribue aussi au développement de la recherche historique et à la formation culturelle, scientifique et technique des jeunes et des adultes.
 
-Elle comprend :
+Il entre également dans ses fonctions d'étudier et de favoriser la création de musées scientifiques et techniques sur toute l'étendue du territoire national.
 
-Un membre du conseil d'administration, président ;
-
-Un représentant du sous-secrétaire d'Etat de l'enseignement technique et un chef de service désigné par le sous-secrétaire d'Etat de la marine marchande ;
-
-Le directeur du travail au ministère du travail ;
-
-Un représentant du département de la marine ;
-
-Le professeur de la chaire de machines au conservatoire ;
-
-Le directeur de l'école centrale des arts et manufactures ;
-
-Un membre de la chambre de commerce de Paris ;
-
-Deux représentants du conseil municipal de Paris ;
-
-Trois membres choisis parmi les armateurs, les constructeurs de navires ou les grandes associations maritimes ;
-
-Quatre représentants de l'association des industriels de France contre les accidents du travail ;
-
-Un représentant de l'association parisienne des propriétaires d'appareils à vapeur ;
-
-Un représentant de l'association amicale des ingénieurs électriciens et du syndicat professionnel des industries électriques ;
-
-Un représentant du comité central des houillères de France ;
-
-Un représentant du groupe des chambres syndicales de la ville de Paris et du département de la Seine (industries du bâtiment).
-
-Cessent de faire partie de la commission technique, les représentants d'associations qui cesseraient de contribuer au fonctionnement et à l'entretien du musée.
-
-La commission dispose d'un secrétaire choisi dans le personnel du conservatoire.
-
-La commission technique du musée de prévention des accidents du travail et d'hygiène industrielle est consultée sur toutes les questions relatives à l'organisation et au fonctionnement de ce musée.
-
-Elle établit, au mois de janvier, pour être transmis au conseil d'administration, un rapport sur le fonctionnement du musée pendant l'année précédente.
-
-Elle se réunit sur la convocation de son président.
+Les activités du musée national des techniques sont définies par le conseil d'administration du C. N. A. M. après avis d'une commission technique dont la composition est fixée par arrêté du directeur du Conservatoire national des arts et métiers soumis à l'approbation du conseil d'administration.
