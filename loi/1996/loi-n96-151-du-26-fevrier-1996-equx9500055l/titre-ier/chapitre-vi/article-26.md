@@ -6,4 +6,6 @@ Sont immatriculés, à la demande de l'armateur, dans le ressort du territoire d
 
 2° Les autres navires appartenant à des classes définies par voie réglementaire, en fonction de leurs caractéristiques techniques ou de leur mode d'exploitation, à condition qu'ils ne fassent pas de touchées exclusivement dans les ports de France métropolitaine.
 
-Les marins embarqués sur les navires immatriculés dans le territoire des Terres australes et antarctiques françaises doivent être français dans une proportion minimale définie par voie réglementaire en fonction des caractéristiques techniques des navires ou de leur mode d'exploitation. Le capitaine ainsi que l'officier chargé de sa suppléance doivent être français.
+L'équipage des navires immatriculés dans le territoire des Terres australes et antarctiques françaises doit être composé d'une proportion minimale de marins embarqués de nationalité française. Cette proportion est fixée par décret en Conseil d'Etat, en fonction notamment des caractéristiques techniques des navires ou de leur mode d'exploitation. Le capitaine ainsi que l'officier chargé de sa suppléance doivent figurer parmi les marins embarqués de nationalité française.
+
+Toutefois, un accord entre le chef d'entreprise et les organisations syndicales représentatives dans l'entreprise ou, à défaut, les délégués du personnel peut fixer une proportion différente de celle mentionnée ci-dessus, dans des conditions et dans des limites fixées par décret en Conseil d'Etat.
