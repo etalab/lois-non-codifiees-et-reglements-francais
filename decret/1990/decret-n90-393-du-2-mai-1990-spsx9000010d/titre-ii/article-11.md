@@ -2,7 +2,7 @@
 
 I. - Les promotions aux grades d'inspecteur ou d'inspecteur général intervenant respectivement au titre du I des articles 8 et 9 ci-dessus sont prononcées par le Premier ministre sur proposition des ministres chargés de la sécurité sociale, de la santé, de l'action sociale, de la famille, du travail, de l'emploi et de la formation professionnelle.
 
-Les nominations intervenant au titre du III de l'article 9 ci-dessus sont prononcées après avis de la commission prévue à l'article 8 de la loi du 13 septembre 1984 susvisée.
+Les nominations intervenant au titre du III de l'article 9 ci-dessus sont prononcées dans les conditions prévues au I de l'article 2 de la loi n°94-530 du 28 juin 1994 relative à certaines modalités de nomination dans la fonction publique de l'Etat et aux modalités d'accès de certains fonctionnaires ou anciens fonctionnaires à des fonctions privées.
 
 II. - Lorsqu'elles concernent des fonctionnaires ou agents publics, les nominations prévues aux articles 8 et 9 ci-dessus sont prononcées à l'échelon du grade comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont les intéressés bénéficiaient dans le précédent emploi, à la date de la nomination.
 
