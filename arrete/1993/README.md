@@ -915,7 +915,6 @@
 - [Arrêté du 24 août 1993 (ECOC9300129A)](arrete-du-24-aout-1993-ecoc9300129a)
 - [Arrêté du 24 août 1993 (MENP9305658A)](arrete-du-24-aout-1993-menp9305658a)
 - [Arrêté du 24 décembre 1992 (BUDB9267585A)](arrete-du-24-decembre-1992-budb9267585a)
-- [Arrêté du 24 décembre 1992 (EQUT9201730A)](arrete-du-24-decembre-1992-equt9201730a)
 - [Arrêté du 24 décembre 1992 (MENE9204199A)](arrete-du-24-decembre-1992-mene9204199a)
 - [Arrêté du 24 décembre 1992 (SPSS9203302A)](arrete-du-24-decembre-1992-spss9203302a)
 - [Arrêté du 24 décembre 1993 (BUDF9300034A)](arrete-du-24-decembre-1993-budf9300034a)
