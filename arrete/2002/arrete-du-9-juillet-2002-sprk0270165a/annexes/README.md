@@ -6,4 +6,5 @@
 - [Article Annexe IV](article-annexe-iv.md)
 - [Article Annexe V](article-annexe-v.md)
 - [Article Annexe VII](article-annexe-vii.md)
+- [Article Annexe VIII](article-annexe-viii.md)
 - [Article Annexes VI](article-annexes-vi.md)

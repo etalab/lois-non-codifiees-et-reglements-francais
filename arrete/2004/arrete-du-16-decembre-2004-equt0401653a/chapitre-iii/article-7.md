@@ -1,0 +1,3 @@
+# Article 7
+
+Les dispositions du présent arrêté s'appliquent aux installations dont le dossier d'autorisation d'engagement des travaux ou, le cas échéant, le dossier préliminaire de sécurité a été déposé postérieurement au 31 décembre 2004. Toutefois, dans le cas d'une modification substantielle, l'application des règles techniques et de sécurité relatives à la protection du personnel d'exploitation contenues dans le document mentionné à l'article 6 est obligatoire uniquement lorsque la demande d'autorisation des travaux de l'installation initiale est intervenue postérieurement à la date précitée.

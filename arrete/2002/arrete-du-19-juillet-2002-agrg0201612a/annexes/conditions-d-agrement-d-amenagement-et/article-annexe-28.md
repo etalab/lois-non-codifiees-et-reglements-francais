@@ -6,7 +6,7 @@ b) Dans les locaux d'hébergement des animaux, les plafonds et les murs doivent 
 
 c) Des locaux séparés doivent être prévus pour assurer l'entreposage et la conservation appropriés de la nourriture des animaux, à l'abri des insectes, des rongeurs et de tous micro-organismes indésirables.
 
-d) Les locaux de nettoyage et de lavage doivent être suffisamment spacieux pour contenir les matériels nécessaires à la décontamination, au nettoyage et à la désinfection des matériels et des locaux.
+d) Les locaux doivent être suffisamment spacieux pour contenir les matériels nécessaires à la décontamination, au nettoyage et à la désinfection des matériels de transports et des locaux.
 
 e) Des dispositions doivent être prises pour assurer l'élimination rapide des cadavres et des déchets d'animaux. En cas de stockage intermédiaire, celui-ci doit être réalisé dans des conditions hygiéniques.
 
@@ -14,7 +14,7 @@ f) Un plan de nettoyage et de désinfection de l'établissement doit être prév
 
 g) Le responsable des locaux doit :
 
-- tenir à jour et à la disposition des services vétérinaires le registre des entrées indiquant les origines et les provenances des animaux importés, les quantités, les dates d'arrivage des lots d'animaux importés, les dates de sortie de l'établissement des lots concernés ;
+- tenir à jour et à la disposition des services vétérinaires le registre des entrées ou tout autre dispositif permettant de renseigner les informations suivantes : origines et provenances des animaux importés, quantités, dates d'arrivage des lots d'animaux importés, dates de sortie de l'établissement des lots concernés ;
 
 - désinfecter, par dénaturation avant rejet, l'eau ayant servi au transport des animaux par un moyen adapté permettant de prévenir tout danger d'introduction d'agents pathogènes dans le milieu naturel ;
 
@@ -22,4 +22,6 @@ g) Le responsable des locaux doit :
 
 - maintenir les animaux importés isolés des autres animaux présents dans l'établissement pendant une durée minimale de 48 heures ;
 
-- désinfecter, avant rejet, l'eau ayant servi à l'isolement des poissons importés.
+- désinfecter, avant rejet, l'eau ayant servi à l'isolement des poissons importés ;
+
+- pour les crustacés et leurs produits appartenant à l'ordre des décapodes vivants en eau de mer, saumâtre ou douce : maintenir les animaux importés isolés des autres animaux présents dans l'établissement pendant une durée de 48 heures.

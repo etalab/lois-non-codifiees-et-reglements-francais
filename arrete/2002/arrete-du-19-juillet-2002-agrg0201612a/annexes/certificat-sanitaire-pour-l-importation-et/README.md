@@ -1,4 +1,4 @@
-# Certificat sanitaire pour l'importation et le transit sur le territoire métropolitain et dans les départements d'outre-mer des poissons, des mollusques, de leurs gamètes et des crustacés (à l'exclusion des mollusques et crustacés marins) destinés à des établissements d'aquaculture, en provenance des pays tiers.
+# Certificat sanitaire pour l'importation et le transit en France des oiseaux de compagnie en provenance des pays tiers faisant l'objet d'un mouvement dépourvu de tout caractère commercial.
 
 - [Article Annexe 3](article-annexe-3.md)
 - [Article Annexe 4](article-annexe-4.md)
@@ -9,3 +9,4 @@
 - [Article Annexe 22](article-annexe-22.md)
 - [Article Annexe 24](article-annexe-24.md)
 - [Article Annexe 25](article-annexe-25.md)
+- [Article Annexe 27 bis](article-annexe-27-bis.md)

@@ -2,6 +2,8 @@
 
 a) Pour pouvoir être importés, les animaux et certains de leurs produits tels que définis à l'article 1er du présent arrêté doivent être accompagnés des certificats sanitaires ou des documents d'accompagnement conformes aux modèles présentés en annexe du présent arrêté et, en tant que de besoin, des résultats des analyses requises.
 
+En cas de transit, les animaux doivent être accompagnés des documents ou certificats sanitaires exigés par l'autorité compétente des pays de destination. Ces documents doivent être rédigés dans la langue officielle de l'Etat membre dans lequel est effectuée l'inspection à la frontière ou être accompagnés d'une traduction certifiée dans cette langue.
+
 b) Une dérogation à cette disposition peut être accordée aux animaux des établissements de présentation au public à caractère mobile pour les animaux initialement originaires du territoire métropolitain et des départements d'outre-mer ayant été exportés temporairement, pendant une période n'excédant pas soixante jours, dans des pays tiers en provenance desquels les importations des animaux des espèces correspondantes sont autorisées. Ces animaux doivent être accompagnés d'un document officiel de chaque autorité compétente des pays tiers concernés précisant que les animaux :
 
 - ont été inspectés lors de leur introduction sur le territoire ;

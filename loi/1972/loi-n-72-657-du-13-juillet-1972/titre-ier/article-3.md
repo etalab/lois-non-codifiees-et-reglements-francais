@@ -16,6 +16,8 @@ Lorsque le chiffre d'affaires au mètre carré est compris entre 1 500 et 12 000
 
 Lorsque l'établissement a également une activité de vente au détail de carburants, sauf si son activité principale est la vente ou la réparation de véhicules automobiles, cette formule est remplacée par la formule suivante : 11,39 euros + (0,002 31 x (CA/S - 1 500)) euros.
 
+Les dispositions des septième et huitième alinéas du présent article sont applicables à la taxe exigible à compter du 1er février 2004.
+
 Un décret prévoira, par rapport aux taux ci-dessus, des réductions pour les professions dont l'exercice requiert des superficies de vente anormalement élevées ou, en fonction de leur chiffre d'affaires au mètre carré, pour les établissements dont la surface des locaux de vente destinés à la vente au détail est comprise entre 400 et 600 mètres carrés.
 
 La taxe additionnelle ne s'applique pas aux établissements dont le chiffre d'affaires annuel est inférieur à 460000 euros.

@@ -1,0 +1,4 @@
+# TITRE II : DISPOSITIONS PERMANENTES
+
+- [I. - MESURES CONCERNANT LA FISCALITÉ.](i)
+- [II  - Autres dispositions.](ii)

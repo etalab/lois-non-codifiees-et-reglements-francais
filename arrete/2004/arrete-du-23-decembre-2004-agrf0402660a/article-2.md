@@ -1,0 +1,9 @@
+# Article 2
+
+Pour les conjoints, les aides familiaux et les associés d'exploitation, les cotisations sont calculées en pourcentage de celles dues par les chefs d'exploitation ou d'entreprise agricole selon les modalités suivantes :
+
+1° Pour les conjoints participant à la mise en valeur de l'exploitation ou de l'entreprise agricole au sens de l'article L. 732-34 du code rural, pour les conjoints collaborateurs à titre exclusif, pour les conjoints collaborateurs dont le nombre d'heures de travail salarié effectué en dehors de l'exploitation et apprécié sur l'année n'excède pas la moitié de la durée légale du travail prévue à l'article 3 du décret du 7 avril 2000 susvisé, pour les aides familiaux et les associés d'exploitation, quelle que soit la catégorie de risque, le montant de la cotisation s'établit à 38,48 % de celle prévue au 1° de l'article 1er ci-dessus, lorsque le chef d'exploitation ou d'entreprise agricole exerce son activité à titre principal, et à 76,96 % de la cotisation prévue au 2° de l'article 1er ci-dessus lorsque le chef d'exploitation ou d'entreprise agricole exerce son activité à titre secondaire.
+
+2° Pour les conjoints collaborateurs dont le nombre d'heures de travail salarié effectué en dehors de l'exploitation et apprécié sur l'année est supérieur à la moitié de la durée légale du travail prévue à l'article 3 du décret du 7 avril 2000 susvisé, quelle que soit la catégorie de risque, le montant de la cotisation s'établit à 19,24 % de celle prévue au 1° de l'article 1er ci-dessus, lorsque le chef d'exploitation ou d'entreprise agricole exerce son activité à titre principal, et à 38,48 % de la cotisation prévue au 2° de l'article 1er ci-dessus lorsque le chef d'exploitation ou d'entreprise agricoles exerce son activité à tire secondaire.
+
+Le montant des cotisations exigibles pour l'année 2005 est fixé pour la période du 1er janvier au 31 décembre 2005.

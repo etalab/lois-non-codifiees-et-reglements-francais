@@ -14,13 +14,15 @@ III - La responsabilité pécuniaire des comptables publics s'étend à toutes l
 
 Cette responsabilité s'étend aux opérations des comptables publics placés sous leur autorité et à celles des régisseurs et dans la limite des contrôles qu'ils sont tenus d'exercer, aux opérations des comptables publics et des correspondants centralisés dans leur comptabilité ainsi qu'aux actes des comptables de fait, s'ils ont eu connaissance de ces actes et ne les ont pas signalés à leurs supérieurs hiérarchiques.
 
-Elle ne peut être mise en jeu à raison de la gestion de leurs prédécesseurs que pour les opérations prises en charge sans réserve lors de la remise de service ou qui n'auraient pas été contestées par le comptable entrant, dans un délai fixé par l'un des décrets prévus au paragraphe XII ci-après [*Décret 64-1022 du 29 septembre 1964 Article 17 : délai fixé à 6 mois*].
+Elle ne peut être mise en jeu à raison de la gestion de leurs prédécesseurs que pour les opérations prises en charge sans réserve lors de la remise de service ou qui n'auraient pas été contestées par le comptable entrant, dans un délai fixé par l'un des décrets prévus au paragraphe XII ci-après *Décret 64-1022 du 29 septembre 1964 Article 17 : délai fixé à 6 mois*.
 
 IV - La responsabilité pécuniaire prévue ci-dessus se trouve engagée dès lors qu'un déficit ou un manquant en deniers ou en valeurs a été constaté, qu'une recette n'a pas été recouvrée, qu'une dépense a été irrégulièrement payée ou que, par la faute du comptable public, l'organisme public a dû procéder à l'indemnisation d'un autre organisme public ou d'un tiers.
 
 V - La responsabilité pécuniaire d'un comptable public ne peut être mise en jeu que par le ministre dont il relève, le ministre de l'économie et des finances ou le juge des comptes.
 
-Le premier acte de la mise en jeu de la responsabilité ne peut plus intervenir au-delà du 31 décembre de la dixième année suivant celle au cours de laquelle le comptable a produit ses comptes au juge des comptes ou, lorsqu'il n'est pas tenu à cette obligation, celle au cours de laquelle il a produit les justifications de ses opérations.
+Le premier acte de la mise en jeu de la responsabilité ne peut plus intervenir au-delà du 31 décembre de la sixième année suivant celle au cours de laquelle le comptable a produit ses comptes au juge des comptes ou, lorsqu'il n'est pas tenu à cette obligation, celle au cours de laquelle il a produit les justifications de ses opérations.
+
+Dès lors qu'aucune charge provisoire ou définitive n'a été notifiée dans ce délai à son encontre, le comptable est déchargé de sa gestion au titre de l'exercice concerné. Dans le cas où le comptable est sorti de fonction au cours dudit exercice et si aucune charge définitive n'existe ou ne subsiste à son encontre dans le même délai pour l'ensemble de sa gestion, il est réputé quitte de cette gestion.
 
 VI - Le comptable public dont la responsabilité pécuniaire est engagée ou mise en jeu a l'obligation de verser immédiatement de ses deniers personnels une somme égale, soit au montant de la perte de recette subie, de la dépense payée à tort ou de l'indemnité mise, de son fait, à la charge de l'organisme public intéressé, soit, dans le cas où il en tient la comptabilité matière, à la valeur du bien manquant.
 

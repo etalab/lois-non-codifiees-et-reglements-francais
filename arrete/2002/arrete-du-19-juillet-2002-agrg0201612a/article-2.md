@@ -30,4 +30,8 @@ l) Animal domestique : tout animal détenu ou destiné à être détenu par l'ho
 
 m) Animal de compagnie : sans préjudice des dispositions relatives à la protection de la nature, tout animal détenu ou destiné à être détenu par l'homme pour son agrément : les chiens, les chats, les furets, les invertébrés (sauf les abeilles et les crustacés), les poissons tropicaux décoratifs, les amphibiens, les reptiles, les oiseaux de toutes espèces (sauf les volailles visées par les directives 90/539/CEE et 92/65/CEE), les rongeurs et les lagomorphes ;
 
-n) Vétérinaire officiel : tout vétérinaire désigné par l'autorité centrale d'un pays tiers chargé de garantir le respect des exigences du présent arrêté ou désigné par toute autre autorité à laquelle ladite autorité centrale a délégué cette tâche.
+n) Vétérinaire officiel : tout vétérinaire désigné par l'autorité centrale d'un pays tiers chargé de garantir le respect des exigences du présent arrêté ou désigné par toute autre autorité à laquelle ladite autorité centrale a délégué cette tâche ;
+
+o) Poissons tropicaux d'ornement : poissons d'ornement destinés à être détenus de façon permanente en aquarium qui vivent dans les eaux chaudes des tropiques et qui ne sont pas capables de survivre dans les eaux communautaires (eaux froides) ;
+
+p) Mollusques d'ornement : mollusques destinés à être détenus de façon permanente en aquarium et qui ne sont pas capables de survivre dans les eaux communautaires.

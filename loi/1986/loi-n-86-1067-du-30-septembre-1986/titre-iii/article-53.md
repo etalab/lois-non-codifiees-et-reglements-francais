@@ -20,7 +20,7 @@ II. - Le conseil d'administration de la société France Télévisions approuve 
 
 Les conseils d'administration des sociétés France 2, France 3, France 5 et Réseau France outre-mer et de chacune des filiales mentionnées au dernier alinéa du I de l'article 44 sont consultés, chacun en ce qui le concerne, sur le projet de contrat d'objectifs et de moyens mentionné à l'alinéa précédent, ainsi que sur l'exécution annuelle de celui-ci.
 
-Le président de la société France Télévisions présente chaque anné devant les commissions chargées des affaires culturelles de l'Assemblée nationale et du Sénat un rapport sur l'exécution du contrat d'objectifs et de moyens de la société.
+Le président de la société France Télévisions présente chaque année devant les commissions chargées des affaires culturelles et des finances de l'Assemblée nationale et du Sénat un rapport sur l'exécution du contrat d'objectifs et de moyens de la société.
 
 Les conseils d'administration de l'Institut national de l'audiovisuel et des sociétés Radio France et Radio France Internationale, ainsi que l'organe compétent de la société ARTE-France, approuvent leurs contrats d'objectifs et de moyens respectifs et délibèrent sur leur exécution annuelle.
 
@@ -32,7 +32,7 @@ IV. - Le montant des ressources publiques allouées à la société France Tél�
 
 A cette fin, le conseil d'administration de la société France Télévisions approuve un état prévisionnel des recettes et des dépense de cette société et de ses filiales pour chaque exercice. Il approuve également, après consultation des conseils d'administration des sociétés concernées, les modifications apportées, le cas échéant, en cours d'exercice, à la répartition du montant des ressources publiques allouées par la loi de finances à la société France Télévisions.
 
-V. - Les exonérations de redevance audiovisuelle décidées pour des motifs sociaux donnent lieu à remboursement intégral du budget général de l'Etat [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-433 DC du 27 juillet 2000].
+V. - Les exonérations de redevance audiovisuelle décidées pour des motifs sociaux donnent lieu à remboursement intégral du budget général de l'Etat "Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-433 DC du 27 juillet 2000".
 
 Ce remboursement est calculé sur le fondement des exonérations en vigueur à la date de publication de la loi n° 2000-719 du 1er août 2000 précitée ainsi que celles qui pourraient intervenir postérieurement.
 

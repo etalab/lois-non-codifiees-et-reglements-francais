@@ -1,6 +1,6 @@
 # Article Annexe 27
 
-Pays tiers d'expédition : ...
+Numéro de permis CITES export (si nécessaire).
 
 1. Identification des animaux.
 
@@ -12,25 +12,15 @@ Les animaux visés ci-dessus sont expédiés de ... (établissement d'origine, a
 
 nature, numéro d'immatriculation, numéro du vol ou le nom selon le cas, nom et adresse de l'exportateur ou de l'importateur, nom et adresse des locaux de première destination.
 
-Je soussigné, vétérinaire officiel, certifie que :
+3. Attestation sanitaire.
+
+Je soussigné, vétérinaire praticien, certifie que :
 
 a) Les animaux décrits ci-dessus ont été examinés le jour de leur chargement et ne présentent aucun signe clinique de maladie ou de suspicion de maladie infectieuse ou contagieuse à l'homme ou à l'animal et ont été jugés aptes au transport ;
 
-b) Que les oiseaux :
+b) Les mammifères décrits ci-dessus ont été soumis à au moins un traitement contre les parasites internes et externes le ..., au cours des 40 jours précédant l'exportation avec le(s) produit(s) suivant(s) : ... (préciser les molécules actives et les doses de produit utilisées).
 
-- ont été vaccinés contre la maladie de Newcastle le ..., avec le vaccin inactivé suivant : ...
-
-- ont fait l'objet, dans les 10 jours précédant l'expédition, d'un test de dépistage des anticorps avec résultats négatifs pour la recherche des infections suivantes :
-
-- Salmonella pullorum gallinarum pour les poules, dindes, pintades, cailles, faisans, perdrix et canards ;
-
-- Salmonella arizonae et Mycoplasma gallisepticum pour les dindes ;
-
-- influenza aviaire pour toutes les espèces ;
-
-c) Les animaux décrits ci-dessus ont été soumis à au moins un traitement contre les parasites internes et externes le ..., au cours des 40 jours précédant l'exportation avec le(s) produit(s) suivant(s) : ... (préciser les molécules actives et les doses de produit utilisées).
-
-que j'ai reçu du propriétaire ou de son représentant une déclaration attestant que jusqu'à leur expédition sur le territoire français les animaux décrits dans le présent certificat ne seront pas en contact avec des animaux ne présentant pas un statut sanitaire équivalent.
+c) Que j'ai reçu du propriétaire ou de son représentant une déclaration attestant que jusqu'à leur expédition sur le territoire français les animaux décrits dans le présent certificat ne seront pas en contact avec des animaux ne présentant pas un statut sanitaire équivalent.
 
 Ce certificat est valable 10 jours à compter de sa date de signature.
 

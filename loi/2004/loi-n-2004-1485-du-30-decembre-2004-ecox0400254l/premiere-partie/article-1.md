@@ -1,0 +1,19 @@
+# Article 1
+
+I. - A., B., II. : paragraphes modificateurs
+
+I. -  C. - La dotation prévue au premier alinéa du IV de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986) est majorée d'un montant global de 30 millions d'euros versés, chaque année, à hauteur de 25 %, de 2004 à 2007.
+
+III. - Pour le calcul de la compensation prévue par le II du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), les compléments de bases nettes imposables au titre de 1999 afférents aux salaires imposés par voie de rôles supplémentaires donnent lieu à un complément de compensation à compter de l'année suivant celle de la mise en recouvrement desdits rôles. Les dégrèvements contentieux prononcés au titre de 1999 afférents aux salaires imposés donnent lieu à une minoration de la compensation à compter de l'année qui suit celle de la décision du dégrèvement.
+
+IV. - Pour le calcul de la compensation prévue par le B de l'article 26 de la loi de finances pour 2003 (n° 2002-1575 du 30 décembre 2002), les compléments de bases nettes imposables au titre de 2003, afférents aux recettes visées au premier alinéa du 2° de l'article 1467 du code général des impôts, imposés par voie de rôles supplémentaires, donnent lieu à un complément de compensation à compter de l'année suivant celle de la mise en recouvrement desdits rôles. Les dégrèvements contentieux prononcés au titre de 2003 afférents aux recettes imposées donnent lieu à une minoration de la compensation à compter de l'année qui suit celle de la décision du dégrèvement.
+
+V. - A. - A compter de 2005, la compensation prévue au III de l'article 9 de la loi de finances pour 1993 (n° 92-1376 du 30 décembre 1992) est calculée à partir des pertes de recettes constatées dans les rôles généraux de l'année courante et dans les rôles supplémentaires d'imposition émis au cours de l'année précédente. Le bénéficiaire de cette compensation est la collectivité territoriale qui bénéficie, au titre de l'année courante, du rôle général de taxe foncière sur les propriétés non bâties ou de taxe spéciale d'équipement additionnelle à la taxe foncière sur les propriétés non bâties en ce qui concerne la région d'Ile-de-France.
+
+B. - La compensation prévue au III de l'article 9 de la loi de finances pour 1993 précitée est majorée d'un montant de 655 000 Euros en 2004.
+
+VI. - A. - A compter de 2005, la compensation prévue au III de l'article 2 de la loi n° 94-1131 du 27 décembre 1994 portant statut fiscal de la Corse est calculée à partir des pertes de recettes constatées dans les rôles généraux de l'année courante et dans les rôles supplémentaires d'imposition émis au cours de l'année précédente. Le bénéficiaire de cette compensation est la commune ou l'établissement public de coopération intercommunale doté d'une fiscalité propre qui bénéficie du rôle général de taxe professionnelle au titre de l'année courante ainsi que la collectivité territoriale de Corse et les départements de la Corse-du-Sud et de la Haute-Corse.
+
+B. - La compensation prévue au III de l'article 2 de la loi n° 94-1131 du 27 décembre 1994 précitée est majorée d'un montant de 332 000 Euros en 2004.
+
+VII. - Sous réserve des décisions de justice passées en force de chose jugée, les dotations versées en application du II de l'article 13, du II de l'article 14 et du II de l'article 18 de la loi de finances rectificative pour 1982 (n° 82-540 du 28 juin 1982), du II du D de l'article 44 de la loi de finances pour 1999 précitée, du II du B de l'article 26 de la loi de finances pour 2003 précitée, du III de l'article 9 de la loi de finances pour 1993 précitée et du III de l'article 2 de la loi n° 94-1131 du 27 décembre 1994 précitée sont réputées régulières en tant que leur légalité serait contestée sur le fondement de l'absence de prise en compte des pertes de recettes comprises dans les rôles supplémentaires.

@@ -4,19 +4,21 @@ I. - Les ressources attribuées au titre des transferts de compétences prévus 
 
 Ces ressources sont composées d'une part du produit de la taxe intérieure de consommation sur les produits pétroliers. Cette part est obtenue, pour l'ensemble des départements, par application d'une fraction du tarif de la taxe intérieure de consommation sur les produits pétroliers aux quantités de carburants vendues sur l'ensemble du territoire national.
 
-La fraction de tarif mentionnée à l'alinéa précédent est calculée de sorte qu'appliquée aux quantités de carburants vendues sur l'ensemble du territoire en 2003, elle conduise à un produit égal au montant des dépenses exécutées par l'Etat en 2003 au titre de l'allocation de revenu minimum d'insertion et de l'allocation de revenu de solidarité. Jusqu'à la connaissance des montants définitifs des quantités et dépenses susmentionnées, cette fraction est fixée à :
+La fraction de tarif mentionnée à l'alinéa précédent, calculée de sorte qu'appliquée aux quantités de carburants vendues sur l'ensemble du territoire en 2003 elle conduise à un produit égal au montant des dépenses exécutées par l'Etat en 2003 au titre de l'allocation de revenu minimum d'insertion et de l'allocation de revenu de solidarité, s'élève à :
 
-- 12,36 euros par hectolitre s'agissant des supercarburants sans plomb ;
+- 12,50 Euros par hectolitre s'agissant des supercarburants sans plomb ;
 
-- 13,34 euros par hectolitre s'agissant du supercarburant sans plomb contenant un additif améliorant les caractéristiques antirécession de soupape ou tout autre additif reconnu de qualité équivalente dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ;
+- 13,56 Euros par hectolitre s'agissant du supercarburant sans plomb contenant un additif améliorant les caractéristiques antirécession de soupape ou tout autre additif reconnu de qualité équivalente dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ;
 
-- 8,21 euros par hectolitre s'agissant du gazole présentant un point d'éclair inférieur à 120 °C.
-
-Le niveau de cette fraction est modifié par une prochaine loi de finances afférente à l'année 2004. Cette modification tient compte du coût supplémentaire résultant pour les départements, d'une part, de la création d'un revenu minimum d'activité, et, d'autre part, de l'augmentation du nombre d'allocataires du revenu minimum d'insertion résultant de la limitation de la durée de versement de l'allocation de solidarité spécifique.
+- 8,31 Euros par hectolitre s'agissant du gazole présentant un point d'éclair inférieur à 120 °C.
 
 Le niveau définitif de cette fraction est arrêté par la plus prochaine loi de finances après la connaissance des montants définitifs de dépenses exécutées par les départements en 2004 au titre de l'allocation de revenu minimum d'insertion et du revenu minimum d'activité. Il tient compte du coût supplémentaire résultant pour les départements, d'une part, de la création d'un revenu minimum d'activité, et, d'autre part, de l'augmentation du nombre d'allocataires du revenu minimum d'insertion résultant de la limitation de la durée de versement de l'allocation de solidarité spécifique.
 
-Chaque département reçoit un pourcentage de la part du produit de la taxe intérieure de consommation sur les produits pétroliers mentionnée au deuxième alinéa. Ce pourcentage est égal, pour chaque département, au montant des dépenses exécutées par l'Etat en 2003 au titre de l'allocation de revenu minimum d'insertion et de l'allocation de revenu de solidarité dans ce département, rapporté au montant total de ces dépenses dans l'ensemble des départements. Ces pourcentages sont constatés par un arrêté conjoint du ministre de l'intérieur et du ministre chargé du budget. Jusqu'à la connaissance des montants définitifs de dépenses exécutées par l'Etat en 2003 au titre de l'allocation de revenu minimum d'insertion, ces pourcentages sont fixés provisoirement par un arrêté conjoint du ministre de l'intérieur et du ministre chargé du budget.
+Chaque département reçoit un pourcentage de la part du produit de la taxe intérieure de consommation sur les produits pétroliers mentionnée au deuxième alinéa. Ce pourcentage est égal, pour chaque département, au montant des dépenses exécutées par l'Etat en 2003 au titre de l'allocation de revenu minimum d'insertion et de l'allocation de revenu de solidarité dans ce département, rapporté au montant total de ces dépenses dans l'ensemble des départements.
+
+Ces pourcentages sont fixés comme suit :
+
+(Tableau non reproduit)
 
 A compter de l'année 2006, le Gouvernement remet tous les trois ans au Parlement, au plus tard le jour du dépôt du projet de loi de finances de l'année, un rapport relatif :
 
@@ -25,5 +27,9 @@ A compter de l'année 2006, le Gouvernement remet tous les trois ans au Parlemen
 - au bilan de la gestion administrative et financière de ces politiques publiques par chaque département, sous la forme d'indicateurs annuels de résultats harmonisés et renseignés par des informations transmises par les conseils généraux ;
 
 - à l'analyse des variations annuelles selon les départements du nombre des allocataires du revenu minimum d'insertion, des allocataires du revenu de solidarité et des bénéficiaires du revenu minimum d'activité.
+
+Si le produit affecté globalement aux départements en vertu des fractions de tarif qui leurs sont attribuées par la loi de finances représente un montant annuel inférieur au montant des dépenses exécutées par l'Etat en 2003 au titre de l'allocation de revenu minimum d'insertion et de l'allocation de revenu de solidarité, la différence fait l'objet d'une attribution d'une part correspondante du produit de la taxe intérieure de consommation sur les produits pétroliers revenant à l'Etat.
+
+Cette part de produit est répartie entre les départements selon les pourcentages mentionnés aux alinéas précédents.
 
 II. - Paragraphe modificateur.

@@ -1,0 +1,4 @@
+# Loi n° 2004-1484 du 30 décembre 2004 de finances pour 2005 (1).
+
+- [PREMIÈRE PARTIE : CONDITIONS GÉNÉRALES DE L'ÉQUILIBRE FINANCIER](premiere-partie)
+- [DEUXIÈME PARTIE : MOYENS DES SERVICES ET DISPOSITIONS SPÉCIALES](deuxieme-partie)

@@ -1,0 +1,5 @@
+# Article 115
+
+I. - Il est ouvert au compte spécial du Trésor n° 904-06 Opérations commerciales des domaines, créé par l'article 10 de la loi n° 49-310 du 8 mars 1949 relative aux comptes spéciaux du Trésor, une subdivision intitulée Opérations réalisées en application des décisions de justice. Elle est destinée à retracer les recettes et les dépenses afférentes aux opérations réalisées qui sont liées aux remises effectuées en application de décisions de justice, à l'exception des opérations effectuées dans le cadre de la lutte contre les stupéfiants et des remises décidées en cours d'instruction en application de l'article 99-2 du code de procédure pénale.
+
+II. - Sur la base de la situation provisoire au 30 septembre de chaque année, le ministre chargé du budget est autorisé à reverser, au profit du budget général, les excédents de trésorerie disponibles, au-delà de quatre mois de recettes, des subdivisions Ventes mobilières, Gestion d'immeubles domaniaux confiés provisoirement à l'administration des domaines et Opérations réalisées en application des décisions de justice du compte spécial du Trésor n° 904-06 précité.
