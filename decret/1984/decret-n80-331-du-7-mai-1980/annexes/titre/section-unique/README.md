@@ -1,5 +1,7 @@
-# Section unique : Travaux souterrains
+# Section unique : Tous travaux et installations
 
-- [Chapitre III : Objectifs et responsabilités dans l'organisation de l'aérage](chapitre-iii)
-- [Chapitre IV : Etablissement et permanence du courant d'air](chapitre-iv)
+- [Chapitre Ier : Dispositions générales](chapitre-ier)
+- [Chapitre II : Personnel](chapitre-ii)
+- [Chapitre III : Mise à disposition, choix, utilisation et maintenance](chapitre-iii)
+- [Chapitre IV : Vérifications](chapitre-iv)
 - [Chapitre V : Suivi de l'aérage](chapitre-v)

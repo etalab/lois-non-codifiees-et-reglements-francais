@@ -16,11 +16,11 @@ Le chef d'établissement certifie, en outre, que les concurrents ont suivi norma
 
 5. Le nombre des concurrents est fixé comme il suit pour chaque division :
 
-- de deux à quinze élèves : deux ;
+De deux à quinze élèves : 1 ;
 
-- de seize à trente élèves : quatre ;
+De seize à trente élèves : 2 ;
 
-- au-delà de trente élèves : cinq ;
+Au-delà de trente élèves : 3.
 
 6. Lorsque les élèves de divisions différentes qui concourent pour certaines compositions sont réunis pour les cours correspondants, ils sont considérés comme ne formant qu'une seule division ;
 

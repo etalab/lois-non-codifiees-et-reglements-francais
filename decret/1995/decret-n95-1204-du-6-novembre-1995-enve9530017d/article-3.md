@@ -1,0 +1,7 @@
+# Article 3
+
+Dans les trente jours au plus tard qui suivent l'avis de réception de la demande régulière et complète et avant la décision de mise à l'enquête publique prévue à l'article 4, premier alinéa, du décret n° 93-742 du 29 mars 1993 susvisé, le préfet provoque, par voie de conférence, l'avis des services concernés sur la demande d'autorisation et d'éventuelles demandes en concurrence ; en cas d'absence de réponse dans le délai de deux mois, l'avis des services est réputé favorable à la mise à l'enquête. Le préfet peut rejeter la demande à ce stade par arrêté motivé.
+
+Si des demandes concurrentes ont été présentées, seule peut être mise à l'enquête la demande que le préfet estime devoir assurer, notamment la meilleure utilisation des eaux, tant en ce qui concerne l'aspect énergétique que la prise en compte des intérêts mentionnés aux articles 1er et 2 de la loi du 3 janvier 1992 sur l'eau.
+
+D'autres demandes en concurrence peuvent être présentées ultérieurement. Elles doivent être adressées au plus tard dans le mois qui suit la clôture de l'enquête. Elles sont instruites avant l'établissement du rapport sur la demande d'autorisation et sur les résultats de l'enquête prévu à l'article 7 du décret n° 93-742 du 29 mars 1993 susvisé. Le préfet rejette les demandes non retenues par des arrêtés motivés. Une deuxième et dernière enquête publique est prescrite par le préfet s'il juge qu'une demande concurrente est meilleure que celle qui a fait l'objet de la première enquête publique.

@@ -1,0 +1,3 @@
+# Article 10
+
+Lorsque le bénéfice de l'autorisation est transmis à une autre personne que celle qui était mentionnée au dossier de demande d'autorisation, la notification au préfet prévue à l'article 35 du décret n° 93-742 du 29 mars 1993 susvisé doit être accompagnée des pièces justifiant les capacités techniques et financières du bénéficiaire et établissant qu'il remplit les conditions de nationalité prescrites par l'article 26 de la loi du 16 octobre 1919 susvisée et l'article 1er du décret du 12 mai 1970 susvisé. Le préfet en donne acte ou signifie son refus motivé dans le délai de deux mois.

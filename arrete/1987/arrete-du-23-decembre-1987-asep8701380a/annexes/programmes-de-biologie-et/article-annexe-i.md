@@ -42,7 +42,7 @@ B. - Points issus de terminale scientifique
 
 Régulation des taux d'hormones sexuelles.
 
-5. Histoire et évaluation de la terre et des êtres vivants
+5. Histoire et évolution de la Terre et des êtres vivants
 
 Evolution biologique et changement de l'environnement : la lignée humaine.
 
