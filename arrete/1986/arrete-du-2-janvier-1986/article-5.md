@@ -1,3 +1,3 @@
 # Article 5
 
-Chaque lot destiné à la France sera individualisé et stocké dans des locaux ayant subi une désinfection appropriée. Les bâtiments, conteneurs, matériels de triage, d'emballage ou de manutention, véhicules et tous les objets susceptibles d'avoir été en contact avec des pommes de terre, devront être désinfectés avant d'être mis en contact avec des lots de pommes de terre soumis à l'agrément du service de la protection des végétaux de France.
+Sur chaque groupe électrogène de soudage construit conformément au type attesté par un examen C.E.E. de type, doit figurer de façon bien visible et indélébile une mention indiquant le niveau de puissance acoustique en décibels pondéré A par rapport à 1 pW, garanti par le fabricant et déterminé dans les conditions prévues au deuxième alinéa de l'article 3 du présent arrêté ainsi que la marque (epsilon). Le modèle d'une telle mention figure en annexe V.

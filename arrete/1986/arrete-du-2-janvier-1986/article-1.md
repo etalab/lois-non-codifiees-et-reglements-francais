@@ -1,3 +1,5 @@
 # Article 1
 
-En complément des dispositions prévues aux articles 1, 2, 3, 4 et 7 de l'arrêté du 11 décembre 1979 relatif aux conditions sanitaires à l'importation de pommes de terre, l'importation sous tous régimes douaniers autres que le transit de frontière à frontière sans rupture de charge, dans le territoire douanier, des tubercules de pommes de terre destinés à l'ensemencement, à la consommation ou à des usages industriels (n° 07-01 A du tarif des douanes), originaires ou en provenance du Danemark, est autorisée sous réserve d'agrément dans le pays d'origine et d'obtention préalable d'une autorisation technique d'importation délivrée par le ministère de l'agriculture de France (service de la protection des végétaux).
+Les dispositions du présent arrêté sont applicables aux groupes électrogènes de soudage utilisés sur les chantiers de travaux, publics ou non [*champ d'application*].
+
+Au sens du présent arrêté, on entend par "groupes électrogènes de soudage" tout appareil rotatif débitant un courant de soudage [*définition*].

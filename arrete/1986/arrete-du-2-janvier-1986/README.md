@@ -1,4 +1,4 @@
-# Arrêté du 2 janvier 1986 fixant les conditions sanitaires à l'importation de pommes de terre originaires ou en provenance du Danemark
+# Arrêté du 2 janvier 1986 relatif à la limitation du niveau sonore des bruits aériens émis par les groupes électrogènes de soudage
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -9,6 +9,8 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
-- [Article 10](article-10.md)
 - [Article Annexe](article-annexe.md)
-- [Annexes](annexes)
+- [Certificat de conformité CEE d'un groupe électrogène de soudage examiné](certificat-de-conformite-cee)
+- [Modèle d'attestation d'examen C.E.E. de type d'un groupe électrogène de soudage](modele-d-attestation-d-examen-c-e-e-de-type-d-un-groupe-electrogene-de-soudage)
+- [Méthode de mesure de bruit aérien émis par les groupes électrogènes de soudage](methode-de-mesure-de-bruit-aerien-emis-par)
+- [Modèle de fiche de renseignements concernant un type de groupe électrogène de soudage à fournir en vue de son examen C.E.E. de type](modele-de-fiche-de-renseignements-concernant-un)
