@@ -1,0 +1,6 @@
+# TITRE III : DISPOSITIONS PROPRES AUX CENTRES DE SOINS, D'ENSEIGNEMENT ET DE RECHERCHE DENTAIRES DES CENTRES HOSPITALIERS ET UNIVERSITAIRES.
+
+- [Article 9](article-9.md)
+- [Article 10](article-10.md)
+- [Article 11](article-11.md)
+- [Article 12](article-12.md)

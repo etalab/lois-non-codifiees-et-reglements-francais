@@ -18,13 +18,11 @@ Le "bevis for bestaet jordemodereksamen" (formation du type 1 ou 3) délivré pa
 
 Grèce
 
-[*Texte original caractères helléniques non reproduit, voir J.O. du 6 janvier 1985 page 195.*]
-
-Le diplôme de sage-femme certifié conforme par le ministère des services sociaux ou de la santé et de la prévoyance (formation type 1).
+"Le Ptyxio Maiaw hj Maieythj" certifié conforme par le ministère de la santé et de la prévoyance (formation type I).
 
 ou
 
-Le diplôme de l'Ecole supérieure des cadres de santé et de prévoyance sociale, secteur sage-femme, délivré par le Katee (formation de type 1), délivrés postérieurement à la date du 31 décembre 1943, accompagnés des attestations A, B et C.
+"Le Ptyxio Anvthjzaw Sxolhjw Stelexvjn Ygeiaw Kai Koinvnikhjw Projnoiaw Tmhjmataw Maieytikhjw, délivré soit par la faculté des cadres de santé et de prévoyance sociale, section obstétrique, des centres d'enseignement supérieur technique et professionnel, soit par les établissements d'enseignement, technologique et professionnel du ministère de l'éducation nationale et des affaires religieuses, postérieurement à la date du 31 décembre 1943, accompagnés des attestations A, B et C."
 
 Irlande
 
@@ -40,9 +38,11 @@ Le "diplôme de sage-femme" (formation du type 3) délivré par le ministère de
 
 Pays-Bas
 
-Le "vroedvrouwdiploma" (formation du type 1) délivré par la commission d'examen désignée par l'Etat, postérieurement à la date du 31 mai 1977, accompagné des attestations A, B et C.    République fédérale d'Allemagne
+Le "diploma van verlos Kundige" (formation du type 1) délivré par la commission d'examen désignée par l'Etat, postérieurement à la date du 31 mai 1977, accompagné des attestations A, B et C.
 
-1. Le "Hebammenprüfungszeugnis" (formation du type 1, 2 ou 3) délivré par le jury d'examen nommé par l'Etat, postérieurement à la date du 31 décembre 1985, accompagné des attestations A et B, ainsi que des attestations :
+République fédérale d'Allemagne
+
+1. Le "Zeugnis über die staatliche Prüfung für Hebammen und Entbindungspfleger" (formation du type 1, 2 ou 3) délivré par le jury d'examen nommé par l'Etat, postérieurement à la date du 31 décembre 1985, accompagné des attestations A et B, ainsi que des attestations :
 
 - C dans le cas d'une formation de type 1 ;
 
@@ -54,12 +54,12 @@ Le "vroedvrouwdiploma" (formation du type 1) délivré par la commission d'exame
 
 Royaume-Uni
 
-Le "certificate of admission to the Roll of Midwives" (formation du type 1 ou du type 4) délivré en Angleterre et au Pays de Galles par le Central Midwives Board for England and Wales, en Ecosse par le Central Midwives Board for Scotland et en Irlande du Nord par le Northern Ireland Council for Nurses and Midwives, postérieurement à la date du 31 décembre 1985 dans le cas d'une formation du type 1 et dans ce cas, il sera accompagné des attestations A, B et C ; postérieurement à la date du 30 juin 1985 dans le cas d'une formation du type 4 et, dans ce cas, il sera accompagné des attestations A, B, E et H ou, à défaut de cette dernière, de l'attestation I.
+Un "Statement of registration as a Midwife", dans la partie 10 du registre tenu par le "United Kingdom Central Council for Nursing, Midwifery ans Health Visiting" (formation du type 1 ou du type 4) délivré postérieurement au 31 décembre 1985, dans le cas d'une formation du type 1 et dans ce cas, il sera accompagné des attestations A, B et C ; postérieurement à la date du 30 juin 1985, dans le cas d'une formation du type 4 et, dans ce cas, il sera accompagné des attestations A, B, E et H ou, à défaut de cette dernière, de l'attestation I.
 
 Espagne
 
-Le diplôme de "asistencia obstétrica" délivré par le ministère de l'éducation et de la science postérieurement au 1er janvier 1986, accompagné des attestations A, B et H ou à défaut de cette dernière de l'attestation I dans le cas d'une formation du type 3 ou du type 4. Dans ce dernier cas, le diplôme sera en outre accompagné de l'attestation E.
+Le diplôme "matrona" ou "asistente obstétrico-(matrona)" ou "enfermeria obstrétrica-ginecologica" délivré par le ministère de l'éducation et de la science accompagné des attestations A, B et H ou à défaut de cette dernière de l'attestation I dans le cas d'une formation du type 3 ou du type 4. Dans ce dernier cas, le diplôme sera en outre accompagné de l'attestation E.
 
 Portugal
 
-Le diplôme de "enfermeiro especialista em enfermagem de saude materna e obstétrica" délivré postérieurement au 1er janvier 1986 par les écoles reconnues par l'Etat et enregistré par l'autorité compétente, accompagné des attestations A, B et H ou à défaut de cette dernière de l'attestation I dans le cas d'une formation du type 3 ou du type 4. Dans ce dernier cas, le diplôme sera en outre accompagné de l'attestation E.
+Le diplôme de "enfermeiro especialista em enfermagem de saude e obstétrica" délivré postérieurement au 1er janvier 1986 par les écoles reconnues par l'Etat et enregistré par l'autorité compétente, accompagné des attestations A, B et H ou à défaut de cette dernière de l'attestation I dans le cas d'une formation du type 3 ou du type 4. Dans ce dernier cas, le diplôme sera en outre accompagné de l'attestation E.
