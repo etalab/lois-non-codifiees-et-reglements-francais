@@ -10,4 +10,4 @@ Les fonctionnaires mentionnés aux 1° et 2° du présent article conservent, da
 
 Les services qu'ils ont accomplis dans leur ancien emploi ou cadre d'emplois sont assimilés à des services accomplis dans le corps des ingénieurs du génie sanitaire.
 
-Les fonctionnaires qui ont atteint un indice supérieur à l'indice de l'échelon terminal de leur grade d'intégration sont intégrés à l'échelon terminal de ce grade mais conservent, à titre personnel, leur rémunération antérieure.
+Les fonctionnaires qui ont atteint un indice supérieur à l'indice de l'échelon terminal de leur grade d'intégration sont intégrés à l'échelon terminal de ce grade mais conservent, à titre personnel, leur indice antérieur.
