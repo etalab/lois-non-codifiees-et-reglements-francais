@@ -1,4 +1,4 @@
-# CHAPITRE V : Congés pour maternité, adoption et pour raisons de santé.
+# CHAPITRE V : Congés pour maternité, adoption, paternité et pour raisons de santé.
 
 - [Article 28](article-28.md)
 - [Article 29](article-29.md)

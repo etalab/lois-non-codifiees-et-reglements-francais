@@ -4,7 +4,7 @@
 - [CHAPITRE II : Avancement et rémunération.](chapitre-ii)
 - [CHAPITRE III : Protection sociale.](chapitre-iii)
 - [CHAPITRE IV : Congé annuel - Congé pour formation.](chapitre-iv)
-- [CHAPITRE V : Congés pour maternité, adoption et pour raisons de santé.](chapitre-v)
+- [CHAPITRE V : Congés pour maternité, adoption, paternité et pour raisons de santé.](chapitre-v)
 - [CHAPITRE VI : Congés non rémunérés pour raisons familiales ou personnelles.](chapitre-vi)
 - [CHAPITRE VII : Conditions de réemploi.](chapitre-vii)
 - [CHAPITRE VIII : Travail à temps réduit.](chapitre-viii)
