@@ -1,0 +1,5 @@
+# Article 9
+
+Les vins pour lesquels, aux termes du présent décret, est revendiquée l'appellation d'origine contrôlée "Bouzeron" et qui sont présentés sous ladite appellation d'origine ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation susvisée soit inscrite et accompagnée de la mention "appellation contrôlée", le tout en caractères très apparents.
+
+La mention du nom du cépage sur l'étiquette est interdite sur le même champ visuel que celui du nom de l'appellation et des autres mentions obligatoires. Toutefois, pendant un délai de cinq ans à dater de la parution du présent décret, cette mention sera autorisée si elle est indiquée juste en dessous du nom de l'appellation et en caractères dont les dimensions aussi bien en hauteur qu'en largeur ne dépassent pas la moitié de celles des caractères du nom de l'appellation.

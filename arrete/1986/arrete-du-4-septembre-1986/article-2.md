@@ -2,19 +2,15 @@
 
 Les approbations prévues à l'article 85 du décret du 28 septembre 1979 susvisé sont données : [*autorité compétente*]    2.1. En ce qui concerne les établissements ou organismes relevant du délégué général pour l'armement, par les autorités ci-après désignées, chacune pour ses établissements ou organismes :
 
-- le directeur des armements terrestres ;
+- le directeur des systèmes d'armes ;
 
 - le directeur des constructions navales ;
 
-- le directeur des constructions aéronautiques ;
+- le directeur des centres d'expertise et d'essais ;
 
-- le directeur des recherches, études et techniques ;
+- le chef du service de la maintenance aéronautique,
 
-- le directeur des engins.
-
-Pour ceux de ces établissements ou organismes qui ne relèvent d'aucun des directeurs ci-dessus désignés, ces approbations sont données par le chef du service des poudres et explosifs de la direction des engins.
-
-Les autorités susvisées peuvent, avant de donner leur approbation, demander l'avis de l'inspecteur de l'armement pour les poudres et explosifs.
+les autorités susvisées peuvent demander, avant de donner leur approbation, l'avis de l'inspecteur de l'armement pour les poudres et explosifs.
 
 2.2. En ce qui concerne les établissements ou organismes relevant du chef d'état-major de l'armée de terre, par le directeur central du matériel de l'armée de terre, après consultation du contrôle technique du matériel de l'armée de terre.
 

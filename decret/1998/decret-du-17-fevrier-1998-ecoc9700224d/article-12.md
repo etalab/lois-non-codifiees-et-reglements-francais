@@ -1,0 +1,5 @@
+# Article 12
+
+Les vins de la récolte de 1996 revendiqués sur la déclaration de récolte en appellation d'origine contrôlée "Anjou Villages" produits dans la limite du rendement butoir de l'appellation d'origine contrôlée "Anjou Villages Brissac" et élaborés selon toutes les prescriptions du présent décret peuvent être admis au bénéfice de l'appellation d'origine contrôlée "Anjou Villages Brissac" dès lors qu'ils obtiennent le certificat d'agrément prévu à l'article 9 ci-dessus. Les producteurs concernés devront en faire la demande auprès des services de l'Institut national des appellations d'origine dans les deux mois qui suivent la publication du présent décret.
+
+Les marchands en gros qui détiennent des vins à appellation d'origine contrôlée "Anjou Villages" de la récolte de 1996 susceptibles d'être admis au bénéfice de l'appellation d'origine contrôlée "Anjou Villages Brissac" peuvent bénéficier de ces dispositions, mais, dans ce cas, les prélèvements seront effectués par les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes.
