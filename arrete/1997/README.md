@@ -545,7 +545,6 @@
 - [Arrêté du 15 mai 1997 (TASO9710635A)](arrete-du-15-mai-1997-taso9710635a)
 - [Arrêté du 16 avril 1997 (BUDD9770986A)](arrete-du-16-avril-1997-budd9770986a)
 - [Arrêté du 16 avril 1997 (JUSC9720262A)](arrete-du-16-avril-1997-jusc9720262a)
-- [Arrêté du 16 décembre 1996 (EQUA9601747A)](arrete-du-16-decembre-1996-equa9601747a)
 - [Arrêté du 16 décembre 1996 (INTA9600555A)](arrete-du-16-decembre-1996-inta9600555a)
 - [Arrêté du 16 décembre 1996 (INTD9700003A)](arrete-du-16-decembre-1996-intd9700003a)
 - [Arrêté du 16 décembre 1997 (INTB9700596A)](arrete-du-16-decembre-1997-intb9700596a)
