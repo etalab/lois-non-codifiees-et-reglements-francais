@@ -20,8 +20,8 @@ Du 8e échelon de l'échelle E 3 au 9e échelon de l'échelle ES 1 avec conserva
 
 3. - Agents classés dans les échelles ES 1 à ME 2 comprise.
 
-Du 9e échelon de l'échelle du grade ou du 7e échelon de l'échelle ES 3 bis au 8e échelon de l'échelle immédiatement supérieure avec conservation de l'ancienneté acquise dans l'échelon.
+Du 9e échelon de l'échelle du grade ou du 5e échelon de l'échelle ES 3 bis au 8e échelon de l'échelle immédiatement supérieure avec conservation de l'ancienneté acquise dans l'échelon.
 
-Du 10e échelon de l'échelle du grade ou du 8e échelon de l'échelle ES 3 bis au 9e échelon de l'échelle immédiatement supérieure avec conservation, dans la limite de quatre ans, de l'ancienneté acquise dans l'échelon.
+Du 10e échelon de l'échelle du grade ou du 6e échelon de l'échelle ES 3 bis au 9e échelon de l'échelle immédiatement supérieure avec conservation, dans la limite de quatre ans, de l'ancienneté acquise dans l'échelon.
 
 L'application des dispositions qui précèdent n'a pas pour effet de modifier le grade des intéressés.
