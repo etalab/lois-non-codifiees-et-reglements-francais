@@ -2,6 +2,7 @@
 
 - [Titre Ier : Dispositions générales](titre-ier)
 - [Titre II : traitements et soldes](titre-ii)
+- [Article 3](article-3.md)
 - [Titre III : Indemnité de résidence](titre-iii)
 - [Titre IV : supplément familial de traitement](titre-iv)
 - [Titre V : dispositions finales](titre-v)
