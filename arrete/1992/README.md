@@ -235,7 +235,6 @@
 - [Arrêté du 6 novembre 1992 (SPSA9202962A)](arrete-du-6-novembre-1992-spsa9202962a)
 - [Arrêté du 6 octobre 1992 (EQUS9201427A)](arrete-du-6-octobre-1992-equs9201427a)
 - [Arrêté du 6 mai 1992 (DEFT9201454A)](arrete-du-6-mai-1992-deft9201454a)
-- [Arrêté du 6 mai 1992 (INTE9200221A)](arrete-du-6-mai-1992-inte9200221a)
 - [Arrêté du 6 mai 1992 (SANH9201059A)](arrete-du-6-mai-1992-sanh9201059a)
 - [Arrêté du 6 mai 1992 (SANP9201068A)](arrete-du-6-mai-1992-sanp9201068a)
 - [Arrêté du 7 août 1992 (AGRP9201490A)](arrete-du-7-aout-1992-agrp9201490a)
