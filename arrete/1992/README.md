@@ -131,7 +131,6 @@
 - [Arrêté du 3 mars 1992 (SPSS9200632A)](arrete-du-3-mars-1992-spss9200632a)
 - [Arrêté du 3 mars 1992 (SPSS9200633A)](arrete-du-3-mars-1992-spss9200633a)
 - [Arrêté du 3 novembre 1992 (INTE9200528A)](arrete-du-3-novembre-1992-inte9200528a)
-- [Arrêté du 3 novembre 1992 (MERF9200176A)](arrete-du-3-novembre-1992-merf9200176a)
 - [Arrêté du 3 septembre 1992 (ACVE9250016A)](arrete-du-3-septembre-1992-acve9250016a)
 - [Arrêté du 4 août 1992 (SANP9202022A)](arrete-du-4-aout-1992-sanp9202022a)
 - [Arrêté du 4 août 1992 (SANP9202023A)](arrete-du-4-aout-1992-sanp9202023a)
