@@ -106,6 +106,6 @@ Minimale : 2 ans.
 
 (1) L'indice correspondant au 6ème échelon du grade d'adjudant est porté à 499 à compter du 1er août 1993.
 
-Dans les corps, le nombre des sergents et adjudants professionnels ne peut excéder le quart de l'effectif total des sapeurs-pompiers de la collectivité ou de l'établissement public. Dans ce cadre, l'effectif des sapeurs-pompiers volontaires à prendre en considération ne peut excéder la moitié de l'effectif des sapeurs-pompiers professionnels de la collectivité ou de l'établissement public.
+Dans chaque collectivité ou établissement public d'emploi, le nombre de sous-officiers professionnels est au plus égal au quart d'un effectif de référence de sapeurs-pompiers non officiers comprenant l'ensemble des professionnels ainsi que le nombre des volontaires limité à celui des professionnels.
 
 Le nombre des adjudants de sapeurs-pompiers professionnels ne peut excéder celui des sergents professionnels.

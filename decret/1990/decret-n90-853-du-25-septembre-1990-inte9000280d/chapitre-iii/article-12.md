@@ -10,6 +10,6 @@ La durée de carrière est calculée sur la base :
 
 2. Lorsqu'il y a lieu, de l'ancienneté en catégorie B qu'il est nécessaire d'acquérir au minimum dans le ou les grades inférieurs pour accéder au grade détenu, en tenant compte pour les avancements d'échelons de la durée statutaire maximale.
 
-L'ancienneté retenue ainsi déterminée n'est pas prise en compte en ce qui concerne les cinq premières années ; elle est prise en compte à raison de la moitié pour la fraction comprise entre cinq ans et douze ans et des trois quarts pour l'ancienneté excédant douze ans.
+L'ancienneté ainsi déterminée n'est pas retenue en ce qui concerne les quatre premières années ; elle est prise en compte à raison des deux tiers pour la fraction comprise entre quatre et dix ans et des trois quarts pour la fraction excédant dix ans.
 
 L'application des dispositions qui précèdent ne peut avoir pour effet de placer un fonctionnaire dans une situation plus favorable que celle qui aurait été la sienne si, préalablement à sa nomination dans le cadre d'emplois, il avait été promu au grade supérieur dans son cadre d'emplois ou corps d'origine.
