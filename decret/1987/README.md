@@ -1,6 +1,5 @@
 # 1987
 
-- [Décret n°87-366 du 1 juin 1987 (MENU8700182D)](decret-n87-366-du-1-juin-1987-menu8700182d)
 - [Décret n°87-368 du 1 juin 1987 (MERP8700020D)](decret-n87-368-du-1-juin-1987-merp8700020d)
 - [Décret n°87-473 du 1 juillet 1987 (PRMJ8760043D)](decret-n87-473-du-1-juillet-1987-prmj8760043d)
 - [Décret n°87-477 du 1 juillet 1987 (EQUC8700173D)](decret-n87-477-du-1-juillet-1987-equc8700173d)
