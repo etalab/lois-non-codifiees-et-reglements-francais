@@ -1,5 +1,3 @@
 # Article 1
 
-Les dispositions du présent arrêté sont applicables aux groupes électrogènes de soudage utilisés sur les chantiers de travaux, publics ou non [*champ d'application*].
-
-Au sens du présent arrêté, on entend par "groupes électrogènes de soudage" tout appareil rotatif débitant un courant de soudage [*définition*].
+La liste des espèces migratrices de poissons, par bassin ou sous-bassin, présentes dans certains cours d'eau classés au titre de l'article 411 du code rural s'établit conformément à l'annexe jointe au présent arrêté.
