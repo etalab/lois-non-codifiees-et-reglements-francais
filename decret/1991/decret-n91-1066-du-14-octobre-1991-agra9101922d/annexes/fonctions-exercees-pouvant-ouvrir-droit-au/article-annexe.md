@@ -1,97 +1,115 @@
 # Article ANNEXE
 
-ANNEXE I
+TABLEAU I.A
 
-1° Fonctions exercées dans les services déconcentrés du ministère de l'agriculture et de la pêche :
+Date d'effet : 1er janvier 2000
 
-Chef de dépôt d'étalons au service des haras, des courses et de l'équitation ;
+Fonctions exercées dans les services déconcentrées du ministère de l'agriculture et de la pêche pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
-Responsable d'un centre de congélation ou d'un centre de transfert d'embryons au service des haras, des courses et de l'équitation ;
+1. Chef de service d'administration générale dans les directions régionales de l'agriculture et de la forêt ;
 
-Manipulateur d'échographe au service des haras, des courses et de l'équitation ;
+2. Chef de service d'administration générale dans les directions départementales de l'agriculture et de la forêt, les directions de l'agriculture et de la forêt dans les départements d'outre-mer ou la direction du service d'Etat de l'agriculture, de la forêt et de la pêche à Mayotte ;
 
-Chef d'équipe et adjoint à un chef d'équipe de l'inventaire forestier national ;
+3. Responsable de la gestion comptable au sein des directions régionales ou départementales de l'agriculture et de la forêt ;
 
-Contrôleur technique dans les services interrégionaux de l'inventaire forestier national ;
+4. Responsable de la gestion comptable ou de la paye dans les directions de l'agriculture et de la forêt dans les départements d'outre-mer ou à la direction du service d'Etat de l'agriculture, de la forêt et de la pêche à Mayotte ;
 
-Responsable d'un atelier de photo-interprétation dans les services interrégionaux de l'inventaire forestier national ;
+5. Responsable de la gestion des personnels au sein des directions régionales ou départementales de l'agriculture et de la forêt ;
 
-Vérificateur technique dans les services interrégionaux de l'inventaire forestier national ;
+6. Responsable des procédures administratives liées à la gestion des aides à l'agriculture au sein des directions départementales de l'agriculture et de la forêt traitant les volumes de dossiers les plus importants ;
 
-Technicien des services vétérinaires ou préposé sanitaire titulaire, responsable d'une équipe de contrôle sanitaire d'un abattoir d'une capacité annuelle supérieure à :
+7. Délégué régional de formation ;
+
+8. Chef d'échelon au département de santé des forêts ;
+
+9. Technicien, adjoint à un chef d'échelon au département de santé des forêts ;
+
+10. Secrétaire d'échelon au département de santé des forêts ;
+
+11. Chef du service d'administration générale et responsable de la formation initiale et continue à l'Institut national de formation du ministère chargé de l'agriculture (INFOMA) ;
+
+12. Responsable de la gestion comptable à l'Institut national de formation du ministère chargé de l'agriculture (INFOMA) ;
+
+13. Technicien du ministère chargé de l'agriculture, chargé d'enseignement à l'Institut national de formation du ministère chargé de l'agriculture (INFOMA) ;
+
+14. Contrôleur de pépinière ;
+
+15. Responsable d'un centre de congélation ou d'un centre de transfert d'embryons aux Haras nationaux ;
+
+16. Chef de dépôt d'étalons aux Haras nationaux ;
+
+17. Manipulateur d'échographe aux Haras nationaux ;
+
+18. Contrôleur technique dans les services interrégionaux de l'Inventaire forestier national (IFN) ;
+
+19. Responsable d'un atelier de photo-interprétation dans les services interrégionaux de l'Inventaire forestier national (IFN) ;
+
+20. Vérificateur technique dans les services interrégionaux de l'Inventaire forestier national (IFN) ;
+
+21. Chef d'équipe et adjoint à un chef d'équipe de l'Inventaire forestier national (IFN) ;
+
+22. Technicien des services vétérinaires ou préposé sanitaire titulaire, responsable d'une équipe de contrôle sanitaire d'un abattoir d'une capacité annuelle supérieure à :
 
 15 000 tonnes pour les abattoirs de volailles ;
 
 40 000 tonnes pour les abattoirs de porcs ou de veaux ;
 
-20 000 tonnes pour les abattoirs de bovins et de toutes autres espèces ;
+20 000 tonnes pour les abattoirs de bovins et de toutes autres espèces.
 
-Chef de service régional d'administration générale dans les directions régionales de l'agriculture et de la forêt ;
+TABLEAU I.B
 
-Chef de service d'administration générale dans les directions départementales de l'agriculture et de la forêt, les directions de l'agriculture et de la forêt dans les départements d'outre-mer ou la direction du service d'Etat de l'agriculture, de la forêt et de la pêche à Mayotte ;
+Date d'effet : 1er janvier 2001
 
-Responsable de la gestion comptable au sein des directions régionales ou départementales de l'agriculture et de la forêt ;
+Fonctions exercées dans les services déconcentrés du ministère de l'agriculture et de la pêche pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
-Responsable de la gestion comptable ou de la paye dans les directions de l'agriculture et de la forêt dans les départements d'outre-mer ou la direction du service d'Etat de l'agriculture, de la forêt et de la pêche à Mayotte ;
+23. Assistant de service social chargé de responsabilités importantes.
 
-Responsable de la gestion des personnels au sein des directions régionales ou départementales de l'agriculture et de la forêt déterminées en fonction de l'importance des effectifs ;
+TABLEAU II
 
-Responsable des procédures administratives liées à la gestion des aides à l'agriculture au sein des directions départementales de l'agriculture et de la forêt traitant les volumes de dossiers les plus importants ;
+Date d'effet : 1er janvier 2000
 
-Délégué régional pour la formation continue chargé de l'application de l'accord-cadre sur la formation continue des agents du ministère de l'agriculture et de la pêche ;
+Fonctions exercées dans les établissements d'enseignement technique agricole ou d'enseignement supérieur agricole et vétérinaire pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
-Chef d'échelon au département de santé des forêts ;
+I. - Etablissements d'enseignement supérieur agricole et vétérinaire :
 
-Technicien, adjoint à un chef d'échelon au département de santé des forêts ;
+1. Responsable d'un service administratif, comptable, logistique ou technique ou du service de la formation continue dans les établissements d'enseignement supérieur agricole et vétérinaire (à l'exception des personnels détachés sur statut d'emploi) ;
 
-Secrétaire d'échelon au département de santé des forêts ;
+2. Responsable d'un service commun interécoles ;
 
-Chef du service d'administration générale et responsable de la formation initiale et continue au Centre de formation de personnels du ministère de l'agriculture (C.F.P.M.A.) ;
+3. Responsable technique ou logistique dans les établissements d'enseignement supérieur agricole et vétérinaire (encadrement, équipements scientifiques lourds ou dangereux, ateliers).
 
-Responsable de la gestion comptable au Centre de formation de personnels du ministère de l'agriculture (C.F.P.M.A.) ;
+II. - Etablissements d'enseignement technique agricole :
 
-Contrôleur de pépinière.
+1. Responsable de la gestion dans les établissements publics locaux et nationaux d'enseignement technique agricole (lycées, lycées professionnels) ;
 
-DATE D'EFFET : 1er AOÛT 1996
+2. Directeur de centre de formation professionnelle et de promotion agricoles ;
 
-Fonctions exercées pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
+3. Responsable d'une exploitation agricole ou d'un atelier technologique dans un établissement public local ou national d'enseignement technique agricole ;
 
-Fonctions exercées dans les établissements d'enseignement technique agricole et dans les établissements d'enseignement supérieur agricole et vétérinaire :
+4. Infirmières des établissements publics d'enseignement technique agricole logées par nécessité absolue de service ;
 
-1° Etablissements d'enseignement supérieur agricole et vétérinaire :
+5. Responsable de la gestion d'un centre important constitutif d'un établissement public local d'enseignement agricole ;
 
-- responsable d'un service commun interécoles ;
+6. Responsable de cuisine des établissements d'enseignement agricole.
 
-- responsable d'un service administratif, comptable, logistique ou technique ou du service de la formation continue dans les établissements d'enseignement supérieur agricole et vétérinaire (à l'exception des personnels détachés sur statut d'emploi) ;
+TABLEAU III
 
-- responsable technique ou logistique dans les établissements d'enseignement supérieur agricole et vétérinaire (encadrement, équipements scientifiques lourds ou dangereux, ateliers) ;
+Date d'effet : 1er janvier 2001
 
-2° Etablissements d'enseignement technique agricole :
+Fonctions exercées à l'administration centrale du ministère de l'agriculture et de la pêche pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
-- infirmières des établissements publics d'enseignement technique agricole logées par nécessité absolue de service ;
+1. Chargé de mission ou chef de bureau :
 
-- responsable de la gestion d'un centre important constitutif d'un établissement public local d'enseignement agricole.
+Agent chargé de mission auprès d'un directeur, d'un chef de service ou d'un sous-directeur, ou chef de bureau ;
 
-ANNEXE II
+2. Adjoint à un chef de bureau ou expert de catégorie A :
 
-3° Administration centrale :
+Adjoint à un chef de bureau exerçant des responsabilités d'encadrement dans un bureau de taille importante ou responsable d'un projet ou d'un dossier intéressant plusieurs directions, services ou sous-directions, ou cadre confirmé exerçant des fonctions requérant une grande expérience dans un domaine technique ou juridique et appelé, à ce titre, à représenter le ministère auprès d'autres administrations, de juridictions ou d'instances internationales, ou exerçant des fonctions d'encadrement d'un effectif important et/ou requérant une expérience de spécialiste en matière de gestion de personnel, ou dans un domaine logistique, administratif, financier ou informatique.
 
-Agent chargé de mission auprès d'un directeur, d'un chef de service ou d'un sous-directeur ;
+3. Assistant ou expert de catégorie B :
 
-Chef de bureau ;
+Agent exerçant des fonctions d'assistant auprès de cadres chargés de fonctions particulièrement importantes ou des fonctions requérant une bonne expérience en matière de gestion de personnel, ou dans un domaine logistique, administratif, financier ou informatique et appelé à former d'autres agents, assister les cadres dans leurs fonctions ou à encadrer un effectif important.
 
-Adjoint à un chef de bureau exerçant des responsabilités d'encadrement dans un bureau de taille importante ou responsable d'un projet ou d'un dossier intéressant plusieurs directions, services ou sous-directions ;
+4. Secrétaire ou expert de catégorie C :
 
-Cadre confirmé exerçant des fonctions requérant une grande expérience dans un domaine technique ou juridique et appelé, à ce titre, à représenter le ministère auprès d'autres administrations, de juridictions ou d'instances internationales, ou exerçant des fonctions d'encadrement d'un effectif important et/ou requérant une expérience de spécialiste en matière de gestion de personnel, ou dans un domaine logistique, administratif, financier ou informatique ;
-
-Agent exerçant des fonctions requérant une bonne expérience en matière de gestion de personnel ou dans un domaine logistique, administratif, technique, juridique, financier ou informatique et appelé à former d'autres agents, assister les cadres dans leurs fonctions ou encadrer un effectif important ;
-
-Secrétaire exerçant des fonctions d'assistant auprès de cadres chargés de fonctions particulièrement importantes ;
-
-Responsable de la préparation des dossiers des conseils européens des ministres de l'agriculture, en fonctions à la direction de la production et des échanges ;
-
-Responsable du courrier ayant un affranchissement autonome ;
-
-Chef de standard téléphonique ;
-
-Responsable des parcs automobiles du ministère.
+Agent exerçant des fonctions de secrétariat soit auprès de cadres chargés de fonctions importantes, soit, seul, auprès d'un chef de bureau, soit dans un bureau présentant un effectif important ou ayant des missions contraignantes, ou agent exerçant des fonctions autonomes en matière de gestion de personnel, ou dans un domaine logistique, administratif, financier, informatique ou technique.
