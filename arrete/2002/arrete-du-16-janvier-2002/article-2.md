@@ -14,7 +14,7 @@ Le jury, commun aux deux concours, est nommé par arrêté du ministre chargé d
 
 - un membre de l'enseignement supérieur.
 
-Des correcteurs ou examinateurs spécialisés, nommés par arrêté du ministre chargé de la santé, peuvent être adjoints au jury. Ces correcteurs ou examinateurs peuvent délibérer avec le jury avec voix consultative.
+Le jury peut être constitué en sous-jurys. Des correcteurs ou examinateurs spécialisés, nommés par arrêté du ministre chargé de la santé, peuvent être adjoints au jury. Ces correcteurs ou examinateurs peuvent délibérer avec le jury avec voix consultative.
 
 La présidence du jury est exercée par le directeur de l'hospitalisation et de l'organisation des soins ou, en cas d'absence ou d'empêchement de celui-ci, par un membre du jury désigné par arrêté du ministre chargé de la santé.
 

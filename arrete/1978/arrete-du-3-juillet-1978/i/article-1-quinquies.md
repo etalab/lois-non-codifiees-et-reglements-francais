@@ -1,4 +1,4 @@
-# Article 7
+# Article 1 quinquiès
 
 Pour l'application du III de l'article R. 351-7 :
 
