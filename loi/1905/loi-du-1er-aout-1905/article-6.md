@@ -1,9 +1,9 @@
 # Article 6
 
-Les objets dont les vente, usage ou détention constituent le délit, s'ils appartiennent encore au vendeur ou détenteur seront confisqués ; les poids et autres instruments de pesage, mesurage ou dosage, faux ou inexacts, devront être aussi confisqués et, de plus, seront brisés.
+Les marchandises objets ou appareils s'ils appartiennent encore au vendeur ou au détenteur, dont les ventes, usage ou détention constituent le délit, pourront être confisqués ; les poids et autres instruments de pesage, mesurage ou dosage, faux ou inexacts, devront être confisqués et détruits.
 
-Si les objets confisqués sont utilisables, le tribunal pourra les mettre à la disposition de l'administration, pour être attribués aux établissements d'assistance publique.
+Si les marchandises, objets ou appareils confisqués sont utilisables, le Tribunal pourra les mettre à la disposition de l'administration pour être attribués aux établissements d'intérêt général.
 
-S'ils sont inutilisables ou nuisibles, les objets seront détruits ou répandus aux frais du condamné.
+S'ils sont inutilisables ou nuisibles, ces marchandises, objets ou appareils seront détruits aux frais du condamné.
 
-Le tribunal pourra ordonner que la destruction ou effusion aura lieu devant l'établissement ou le domicile du condamné.
+En cas de non-lieu ou d'acquittement, si les marchandises, objets ou appareils ont été reconnus dangereux pour l'homme ou l'animal, le juge ordonne à l'autorité qui en a pratiqué la saisie de les faire détruire ou de leur faire donner une utilisation à laquelle ils demeurent propres.
