@@ -1,7 +1,5 @@
 # Chapitre III : Accès à la fonction publique territoriale
 
-- [Section I : Accès au corps.](section-i)
-- [Section II : Recrutement direct.](section-ii)
 - [Article 34](article-34.md)
 - [Article 35](article-35.md)
 - [Article 36](article-36.md)
