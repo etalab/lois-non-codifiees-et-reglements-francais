@@ -722,7 +722,6 @@
 - [Arrêté du 16 mars 1995 (EQUV9500418A)](arrete-du-16-mars-1995-equv9500418a)
 - [Arrêté du 16 mars 1995 (MAEA9520120A)](arrete-du-16-mars-1995-maea9520120a)
 - [Arrêté du 16 mars 1995 (MCCE9500151A)](arrete-du-16-mars-1995-mcce9500151a)
-- [Arrêté du 16 mars 1995 (SPSS9500886A)](arrete-du-16-mars-1995-spss9500886a)
 - [Arrêté du 16 octobre 1995 (ECOR9501201A)](arrete-du-16-octobre-1995-ecor9501201a)
 - [Arrêté du 16 octobre 1995 (JUSD9530031A)](arrete-du-16-octobre-1995-jusd9530031a)
 - [Arrêté du 16 octobre 1995 (PRMX9501047A)](arrete-du-16-octobre-1995-prmx9501047a)
