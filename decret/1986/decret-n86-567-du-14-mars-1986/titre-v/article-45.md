@@ -12,15 +12,9 @@ c) Le transport n'est que l'accessoire et le complément du travail ou de l'acti
 
 Un arrêté du ministre chargé des transports fixe les conditions dans lesquelles sont exécutés ces transports.
 
-2. Transports exécutés sur une distance ne dépassant pas 100 kilomètres calculée par rapport à la commune dans laquelle ce transport a son origine :
+" 2. Transports exécutés sur une distance ne dépassant pas 100 kilomètres, calculée par rapport à la commune dans laquelle ce transport a son origine :
 
-- au moyen de véhicules et appareils agricoles définis par le A de l'article R. 138 du Code de la route ;
-
-- à titre occasionnel et gracieux, pour les besoins d'une exploitation agricole, au moyen de véhicules appartenant à une autre exploitation agricole, lorsque ces exploitations sont toutes deux situées dans un même canton ou dans deux cantons limitrophes ;
-
-- pour la collecte du lait lorsque cette activité est le complément d'une activité agricole ;
-
-- pour le débardage du bois en grumes entre le lieu d'abattage et le lieu d'exploitation.
+" - au moyen de véhicules et appareils agricoles définis par le A de l'article R. 138 du code de la route, pour les besoins d'une exploitation agricole. "
 
 3. Transports exécutés dans le cadre des groupements d'entreprises agricoles dans les conditions suivantes :
 

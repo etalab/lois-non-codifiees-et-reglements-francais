@@ -2,9 +2,9 @@
 
 L'adaptation de la capacité nationale de transport aux besoins des usagers est réalisée selon les orientations générales arrêtées par le ministre chargé des transports, au vu d'un rapport établi par le Conseil national des transports après consultation des comités régionaux des transports.
 
-Dans le cadre ainsi déterminé, chaque commissaire de la République de région, informé des besoins de l'économie régionale par le comité régional des transports, arrête les références à utiliser afin d'apprécier les demandes formulées par les entreprises.
+Dans le cadre ainsi déterminé, chaque Préfet de région, informé des besoins de l'économie régionale par le comité régional des transports, arrête les références à utiliser afin d'apprécier les demandes formulées par les entreprises.
 
-Les autorisations de transport sont délivrées par le commissaire de la République de région, aux entreprises de transport ainsi qu'aux coopératives ou groupements d'entreprises mentionnés à l'article 3 du présent décret, qui en font la demande et qui, conformément aux références définies à l'alinéa précédent, justifient :
+Les autorisations de transport sont délivrées par le Préfet de région, aux entreprises de transport ainsi qu'aux coopératives ou groupements d'entreprises mentionnés à l'article 3 du présent décret, qui en font la demande et qui, conformément aux références définies à l'alinéa précédent, justifient :
 
 a) De leur activité passée en transport intérieur et international et de besoins de capacité de transport liés au développement attendu de leurs activités ;
 
