@@ -1,0 +1,5 @@
+# Article 1
+
+Les ingénieurs du génie sanitaire régis par le décret n° 90-973 du 30 octobre 1990 portant statut particulier du corps des ingénieurs du génie sanitaire et ayant atteint au moins le 3e échelon du grade d'ingénieur en chef peuvent être nommés sur un emploi d'ingénieur hors classe du génie sanitaire dans la limite des emplois créés à cet effet à l'administration centrale du ministère de la santé ou dans l'une des directions régionales ou départementales des affaires sanitaires et sociales de ce ministère ; la liste de ces emplois est fixée, compte tenu des sujétions et des responsabilités particulières qu'ils impliquent, par arrêté conjoint des ministres chargés respectivement de la santé, de la fonction publique et du budget.
+
+Peuvent également être nommés à ces emplois les ingénieurs titulaires appartenant à un corps de la fonction publique de l'Etat ou à un cadre d'emplois de la fonction publique territoriale et ayant un grade doté d'un indice brut terminal au moins égal à celui de l'emploi d'ingénieur hors classe du génie sanitaire.

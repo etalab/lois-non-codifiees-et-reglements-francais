@@ -1,0 +1,3 @@
+# Article 3
+
+Les ingénieurs nommés en qualité d'ingénieur hors classe du génie sanitaire sont détachés de leur corps ou cadre d'emplois d'origine. Ils sont classés à l'échelon comportant un indice immédiatement supérieur à celui dont ils bénéficiaient précédemment. Dans la limite de l'ancienneté exigée à l'article 2 ci-dessus pour une promotion à l'échelon supérieur, ils conservent leur ancienneté d'échelon si leur nomination leur procure un gain indiciaire qui n'est pas supérieur à celui qui aurait résulté d'un avancement d'échelon ou qui a résulté de leur promotion au dernier échelon de leur précédent grade.

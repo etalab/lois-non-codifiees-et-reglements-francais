@@ -1,35 +1,15 @@
 # Article 3
 
-Le comité de gestion est constitué de seize membres :
+La sous-direction des actions économiques, sociales et réglementaires comprend :
 
-" a) Sept membres représentant l'Etat :
+-le centre d'analyses stratégiques et de prévision ;
 
-" - le directeur de l'eau et de la prévention des pollutions et des risques, ou son représentant ;
+-le bureau du développement des entreprises ;
 
-" - le directeur général de la concurrence, de la consommation et de la répression des fraudes, ou son représentant ;
+-le bureau des exportations ;
 
-" - le directeur du budget, ou son représentant ;
+-le bureau des ressources humaines ;
 
-" - le directeur général des douanes et droit indirects, ou son représentant ;
+-le bureau des marchés et de la réglementation ;
 
-" - le directeur des hydrocarbures, ou son représentant ;
-
-" - le directeur général de la santé, ou son représentant ;
-
-" - le directeur du commerce intérieur, ou son représentant ;
-
-" b) Le président de l'Agence nationale pour la récupération et l'élimination des déchets, président du comité de gestion ;
-
-" c) Un membre représentant les entreprises de collecte des huiles usagées ;
-
-" d) Deux membres représentant les entreprises agréées d'élimination des huiles usagées ;
-
-" e) Un membre représentant les utilisateurs d'huiles régénérées ;
-
-" f) Deux membres représentant les entreprises soumises à la taxe parafiscale ;
-
-" g) Un membre représentant les détenteurs d'huiles usagées ;
-
-" h) Un membre représentant les consommateurs.
-
-" Les membres du comité de gestion sont nommés par arrêté conjoint du ministre chargé de l'industrie et du ministre chargé de l'environnement. "
+-le bureau de la gestion automatisée des marchés et des indicateurs économiques.
