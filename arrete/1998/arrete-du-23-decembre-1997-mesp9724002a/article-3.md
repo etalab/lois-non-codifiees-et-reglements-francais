@@ -2,56 +2,86 @@
 
 La définition et le tarif de cession des plasmas pour fractionnement sont les suivants :
 
-En francs
+En euros
 
 Plasma pour fractionnement dit de catégorie 1 provenant de plasmaphérèse, le litre
 
-1 188,21
+158,76
 
 Plasma pour fractionnement dit de catégorie 1 provenant de déplasmatisation de sang total, le litre
 
-334,56
+63,90
 
 Plasma  pour  fractionnement  dit  de  catégorie  2,  le litre
 
-334,56
+63,90
 
 Plasma  pour  fractionnement  dit  de  catégorie  3,  le litre
 
-97,43
+19,43
 
 Majoration du litre pour spécificité "antitétanique" :
 
-- concentration en anticorps supérieure à 20 UI par ml
+- concentration en anticorps supérieure à 20 UI par ml appliquée au :
 
-669,26
+-plasma de catégorie 1 provenant de plasmaphérèse
 
-- concentration en anticorps entre 8 et 20 UI par ml
+211,75
 
-412,39
+-plasma de catégorie 1 provenant de déplasmatisation de sang total
+
+136,33
+
+-plasma de catégorie 2
+
+136,33
+
+- concentration en anticorps entre 8 et 20 UI par ml, appliquée au :
+
+-plasma de catégorie 1 provenant de plasmaphérèse
+
+160,51
+
+-plasma de catégorie 1 provenant de déplasmatisation de sang total
+
+85,10
+
+plasma de catégorie 2
+
+85,10
 
 Majoration du litre pour spécificité "anti-D" (uniquement sur plasma dit de catégorie 3) :
 
 - concentration en anticorps de 1 microgramme/ml
 
-992,88
+198,05
 
 - par microgramme supplémentaire par ml jusqu'à 39 microgrammes
 
-191,80
+38,26
 
 Majoration du litre pour spécificité "anti-HBs" :
 
-- concentration en anticorps supérieure à 20 UI par ml
+- concentration en anticorps supérieure à 20 UI par ml appliquée au :
 
-956,04
+plasma de catégorie 1 provenant de plasmaphérèse
+
+268,95
+
+plasma de catégorie 1 provenant de déplasmatisation de sang total
+
+193,54
+
+plasma de catégorie 2
+
+193,54
 
 Majoration du litre pour spécificité "anti-zona-varicelle" :
 
 - concentration en anticorps supérieure à 20 UI par ml
 
-909,93
+181,51
 
 - concentration en anticorps comprise entre 10 et 20 UI par ml
 
-528,84
+105,49
