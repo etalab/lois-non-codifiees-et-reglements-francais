@@ -234,7 +234,6 @@
 - [Arrêté du 12 décembre 1988 (TRSS8800624A)](arrete-du-12-decembre-1988-trss8800624a)
 - [Arrêté du 12 décembre 1989 (BUDB8960074A)](arrete-du-12-decembre-1989-budb8960074a)
 - [Arrêté du 12 janvier 1989 (DEFD8901020A)](arrete-du-12-janvier-1989-defd8901020a)
-- [Arrêté du 12 janvier 1989 (DEFD8901021A)](arrete-du-12-janvier-1989-defd8901021a)
 - [Arrêté du 12 janvier 1989 (MENU8900086A)](arrete-du-12-janvier-1989-menu8900086a)
 - [Arrêté du 12 juillet 1989 (INTX8910187A)](arrete-du-12-juillet-1989-intx8910187a)
 - [Arrêté du 12 juillet 1989 (INTX8910188A)](arrete-du-12-juillet-1989-intx8910188a)
