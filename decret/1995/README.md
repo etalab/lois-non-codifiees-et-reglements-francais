@@ -13,7 +13,6 @@
 - [Décret n°95-749 du 1 juin 1995 (PRMX9500069D)](decret-n95-749-du-1-juin-1995-prmx9500069d)
 - [Décret n°95-750 du 1 juin 1995 (ECOX9500077D)](decret-n95-750-du-1-juin-1995-ecox9500077d)
 - [Décret n°95-751 du 1 juin 1995 (MAEX9500075D)](decret-n95-751-du-1-juin-1995-maex9500075d)
-- [Décret n°95-752 du 1 juin 1995 (PARX9500070D)](decret-n95-752-du-1-juin-1995-parx9500070d)
 - [Décret n°95-753 du 1 juin 1995 (TEFX9500078D)](decret-n95-753-du-1-juin-1995-tefx9500078d)
 - [Décret n°95-754 du 1 juin 1995 (DEVX9500076D)](decret-n95-754-du-1-juin-1995-devx9500076d)
 - [Décret n°95-755 du 1 juin 1995 (SANX9500082D)](decret-n95-755-du-1-juin-1995-sanx9500082d)
