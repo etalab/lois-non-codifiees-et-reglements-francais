@@ -394,6 +394,7 @@
 - [Arrêté du 21 février 1996 (FCEC9600030A)](arrete-du-21-fevrier-1996-fcec9600030a)
 - [Arrêté du 21 février 1996 (FCEC9600036A)](arrete-du-21-fevrier-1996-fcec9600036a)
 - [Arrêté du 21 février 1996 (TASS9620627A)](arrete-du-21-fevrier-1996-tass9620627a)
+- [Arrêté du 21 juin 1996 (BUDF9600023A)](arrete-du-21-juin-1996-budf9600023a)
 - [Arrêté du 21 mars 1996 (AGRG9600632A)](arrete-du-21-mars-1996-agrg9600632a)
 - [Arrêté du 21 mars 1996 (AGRG9600633A)](arrete-du-21-mars-1996-agrg9600633a)
 - [Arrêté du 21 mars 1996 (EQUP9600377A)](arrete-du-21-mars-1996-equp9600377a)
