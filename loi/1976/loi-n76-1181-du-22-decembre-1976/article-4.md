@@ -6,6 +6,6 @@ Un décret en Conseil d'Etat détermine :
 
 2° Les modalités selon lesquelles le refus ou l'autorisation visé à l'article 2 ci-dessus doit être exprimé.
 
-3° Les conditions que doivent remplir les établissements hospitaliers pour être autorisés à effectuer les prélèvements visés à l'article 2 et être inscrits sur une liste arrêtée par le ministre de la santé.
+3° Les conditions que doivent remplir les établissements hospitaliers pour être autorisés à effectuer les prélèvements visés à l'article 2 et être inscrits sur une liste arrêtée par le représentant de l'Etat dans la région.
 
 4° Les procédures et les modalités selon lesquelles la mort doit être constatée.

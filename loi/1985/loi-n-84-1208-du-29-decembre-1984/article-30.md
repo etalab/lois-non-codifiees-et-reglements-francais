@@ -2,7 +2,7 @@
 
 I - Les employeurs passibles de la taxe d'apprentissage doivent acquitter, avant le 6 avril de chaque année, une cotisation égale à 0,1 p. 100 du montant des salaires retenus pour l'assiette de cette taxe. La cotisation est établie et recouvrée suivant les mêmes modalités et sous les mêmes garanties et sanctions que la taxe d'apprentissage. Les cotisations inférieures à 100 F ne sont pas exigibles.
 
-Toutefois, les employeurs sont exonérés totalement ou partiellement de cette obligation lorsqu'ils ont consenti des dépenses pour des actions de formation de jeunes au titre de l'ordonnance n° 82-273 du 26 mars 1982, des articles L. 980-2 et L. 980-6 du code du travail, ou des stages d'initiation à la vie professionnelle mentionnés à l'article L. 980-9 du même code, et qu'ils sont dans l'une des deux situations suivantes :
+Toutefois, les employeurs sont exonérés totalement ou partiellement de cette obligation lorsqu'ils ont consenti des dépenses au titre des contrats d'insertion en alternance mentionnés aux articles L. 981-1, L981-6 et L981-7 du code du travail et qu'ils sont dans l'une des deux situations suivantes :
 
 1° Lorsqu'ils entrent dans le champ d'application d'un accord collectif, au sens du livre 1er du code du travail, professionnel ou interprofessionnel, qui prévoit la réalisation de telles actions et le versement des fonds correspondants à des organismes de mutualisation.
 
@@ -12,9 +12,9 @@ Toutefois, les employeurs sont exonérés totalement ou partiellement de cette o
 
 - ou bien ils justifient avoir versé des fonds à cette fin à un organisme de mutualisation.
 
-II - Les employeurs assujettis à la participation au financement de la formation professionnelle continue doivent s'acquitter d'une partie de leurs obligations en effectuant au Trésor public, au plus tard le 15 septembre, un versement égal à 0,2 p. 100 du montant, entendu au sens des articles 235 ter E et suivants du code général des impôts, des salaires versés au cours de l'année précédente, majorés du taux d'évolution du salaire moyen par tête tel qu'il ressort des hypothèses économiques associées au projet de loi de finances. Cette cotisation est établie et recouvrée selon les mêmes modalités et sous les mêmes garanties et sanctions que la participation des employeurs au financement de la formation professionnelle continue.
+II - Les employeurs assujettis à la participation au financement de la formation professionnelle continue doivent s'acquitter d'une partie de leurs obligations en effectuant au Trésor public, au plus tard le 15 septembre, un versement égal à 0,3 p. 100 u montant entendu au sens des articles 235 ter E et suivants du code général des impôts, des salaires versés au cours de l'année précédente, majorés du taux d'évolution du salaire moyen par tête tel qu'il ressort des hypothèses économiques associées au projet de loi de finances. Cette cotisation est établie et recouvrée selon les mêmes modalités et sous les mêmes garanties et sanctions que la participation des employeurs au financement de la formation professionnelle continue.
 
-Toutefois, les employeurs sont exonérés totalement ou partiellement de cette obligation lorsqu'ils ont consenti des dépenses pour des actions de formation alternée de jeunes au titre des articles L. 980-2 et L. 980-6 du code du travail, ou des stages d'initiation à la vie professionnelle mentionnés à l'article L. 980-9 du même code, et qu'ils se trouvent dans l'un des deux cas suivants :
+Toutefois, les employeurs sont exonérés totalement ou partiellement de cette obligation lorsqu'ils ont consenti des dépenses au titre des contrats d'insertion en alternance mentionnés aux articles L. 981-1, L981-6 et L981-7 du code du travail et qu'ils sont dans l'une des deux situations suivantes :
 
 1° Lorsqu'ils entrent dans le champ d'application d'un accord collectif, au sens du livre 1er du code du travail, professionnel ou interprofessionnel, qui prévoit la réalisation de telles actions et le versement des fonds correspondants à des organismes de mutualisation.
 
@@ -24,9 +24,7 @@ Toutefois, les employeurs sont exonérés totalement ou partiellement de cette o
 
 - ou bien ils justifient avoir versé des fonds à cette fin à un organisme de mutualisation.
 
-III - Dans les cas mentionnés aux paragraphes I et II ci-dessus, les dépenses sont évaluées forfaitairement à 375 F par jeune et par mois de présence en entreprise pour les stages. Elles sont fixées à 50 F par heure de formation pour les contrats d'adaptation à l'emploi et pour les contrats de qualification.
-
-Ces montants sont applicables, que les dépenses aient été exposées par les employeurs eux-mêmes ou par l'organisme collecteur auquel ils ont versé les sommes correspondant à leur obligation légale de financement. Dans ce dernier cas, les employeurs sont réputés s'être acquittés de leur obligation à concurrence des versements effectués, sans préjudice des dépenses qu'ils auront éventuellement exposées pour l'organisation directe des actions de formation des jeunes mentionnées dans la présente loi.
+III - Pour l'application des paragraphes I et II ci-dessus, les employeurs qui ont effectués des versements à des organismes de mutualisation sont réputés s'être acquittés de leurs obligations à concurrence des versements effectués, sans préjudice des dépenses qu'ils auront éventuellement exposées pour l'organisation directe des actions de formation des jeunes mentionnées dans la présente loi. Les employeurs qui ont engagé des dépenses leur ayant permis de réaliser directement des actions de formation des jeunes sont réputés s'être acquittés  de leurs obligations à raison de cinquante francs par heure de formation pour les contrats d'orientation et pour les contrats d'adaptation à l'emploi et de soixante francs par heure de formation pour les contrats de qualification.
 
 Le contrôle des dépenses est assuré par le service de l'Etat chargé de la formation professionnelle.
 
@@ -34,7 +32,11 @@ IV - Les organismes collecteurs chargés de recueillir des fonds dans les condit
 
 Leur activité de mutualisation est subordonnée à un agrément de l'Etat.
 
-A défaut de pouvoir justifier une affectation des fonds conforme à celle définie aux paragraphes I et II ci-dessus, les organismes collecteurs sont tenus de procéder au versement des sommes correspondantes au Trésor public, ou, dans le cas des branches pour lesquelles il existe des dispositions légales et règlementaires imposant par ailleurs des efforts spécifiques pour la formation des jeunes, déductibles du 1,1 p. 100 de la formation continue, d'affecter les fonds issus du 0,2 p. 100 à des actions destinées à la formation continue de jeunes salariés de moins de vingt-six ans, pour un montant et dans des conditions définies par un accord conclu annuellement, au niveau de la branche, entre les organisations professionnelles et syndicales et l'Etat.
+Les fonds recueillis par les organismes collecteurs sont affectés    1° A la prise en charge de dépenses pour des actions de formation des jeunes au titre des contrats d'insertion en alternance sur la base des forfaits horaires fixés au III ci-dessus. Toutefois, le montant pris en charge peut faire l'objet d'une modulation en fonction de la nature et du coût de la formation dans des conditions fixées par décret ;
+
+2° A la prise en charge de dépenses pour des actions de formation des tuteurs au titre des contrats d'insertion en alternance, dans la limite d'un plafond horaire et d'une durée maximale fixés par décret pour chaque salarié ou employeur de moins de dix salariés ayant bénéficié d'une formation spécifique relative à l'exercice de la fonction de tuteur.
+
+A défaut de pouvoir justifier une affectation des fonds conforme à celle définie aux trois alinéas précédents, les organismes collecteurs sont tenus de procéder au versement des sommes correspondantes au Trésor public, ou, dans le cas des branches pour lesquelles il existe des dispositions légales et règlementaires imposant par ailleurs des efforts spécifiques pour la formation des jeunes, déductibles du 1,1 p. 100 de la formation continue, d'affecter les fonds issus du 0,2 p. 100 à des actions destinées à la formation continue de jeunes salariés de moins de vingt-six ans, pour un montant et dans des conditions définies par un accord conclu annuellement, au niveau de la branche, entre les organisations professionnelles et syndicales et l'Etat.
 
 V - L'exonération mentionnée au paragraphe I porte sur les dépenses engagées entre le 1er janvier et le 31 décembre de l'année précédant celle au cours de laquelle la cotisation est exigible.
 

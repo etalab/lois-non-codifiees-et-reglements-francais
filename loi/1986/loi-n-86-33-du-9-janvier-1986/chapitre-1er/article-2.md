@@ -12,8 +12,6 @@ Les dispositions du présent titre [*champ d'application*] s'appliquent aux pers
 
 5° Etablissements publics ou à caractère public pour mineurs ou adultes handicapés ou inadaptés, à l'exception des établissements nationaux et des établissements d'enseignement ou d'éducation surveillée ;
 
-6° Centres d'hébergement et de réadaptation sociale, publics ou à caractère public, mentionnés à l'article 185 du code de la famille et de l'aide sociale ;
+6° Centres d'hébergement et de réadaptation sociale, publics ou à caractère public, mentionnés à l'article 185 du code de la famille et de l'aide sociale.
 
-7° Thermes nationaux d'Aix-les-Bains.
-
-Les dispositions du présent titre ne s'appliquent pas aux médecins, biologistes, pharmaciens et odontologistes mentionnés au 3° de l'article 25 de la loi n° 70-1318 du 31 décembre 1970 susvisée.
+Les dispositions du présent titre ne s'appliquent pas aux médecins, biologistes, pharmaciens et odontologistes mentionnés au 3° de l'article 25 de la loi n° 70-1318 du 31 décembre 1970.

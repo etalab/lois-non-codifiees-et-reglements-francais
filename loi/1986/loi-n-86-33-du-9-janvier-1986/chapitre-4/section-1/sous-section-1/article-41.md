@@ -16,6 +16,8 @@ Dans le cas visé à l'alinéa précédent, l'imputation au service de la maladi
 
 L'établissement ou la collectivité dont il relève est subrogé dans les droits éventuels du fonctionnaire victime d'un accident provoqué par un tiers jusqu'à concurrence du montant des charges qu'il a supportées ou supporte du fait de cet accident ;
 
+L'établissement ou la collectivité est admis à poursuivre directement contre le responsable du dommage ou son assureur le remboursement des charges patronales afférentes aux rémunérations maintenues ou versées audit fonctionnaire pendant la période d'indisponibilité de celui-ci par dérogation aux dispositions de l'article 2 de l'ordonnance n° 59-76 du 7 janvier 1959 relative aux actions en réparation civile de l'Etat et de certaines autres personnes publiques.
+
 3° A des congés de longue maladie d'une durée maximale de trois ans dans les cas où il est constaté que la maladie met l'intéressé dans l'impossibilité d'exercer ses fonctions, rend nécessaires un traitement et des soins prolongés et présente un caractère invalidant et de gravité confirmée. Le fonctionnaire conserve l'intégralité de son traitement pendant un an ; le traitement est réduit de moitié pendant les deux années qui suivent. L'intéressé conserve, en outre, ses droits à la totalité du supplément familial de traitement et de l'indemnité de résidence.
 
 Le fonctionnaire qui a obtenu un congé de longue maladie ne peut bénéficier d'un autre congé de cette nature s'il n'a pas auparavant repris l'exercice de ses fonctions pendant un an.
