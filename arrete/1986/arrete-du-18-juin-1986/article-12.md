@@ -10,10 +10,8 @@ Le président assure la police du concours et prend toute mesure nécessaire pou
 
 Si le nombre des candidats est supérieur à trente, le jury peut décider de constituer des groupes de rapporteurs comprenant un représentant de chaque catégorie pour procéder à l'audition des candidats, chaque groupe de rapporteurs présentant ensuite ses conclusions devant le jury plénier.
 
-Le jury établit la liste d'admission à chaque catégorie de concours dans la limite maximum du nombre de postes à pourvoir.
+Le jury dresse la liste d'aptitude par ordre alphabétique pour chaque discipline ou spécialité et chaque catégorie de concours. Il peut établir une liste complémentaire.
 
-Il peut établir une liste complémentaire.
+Le nombre d'inscrits sur la liste d'aptitude ne peut être supérieur au nombre de places ouvertes au concours. Toutefois, lorsque le jury décide de ne pas inscrire sur la liste d'aptitude établie au titre d'une catégorie de concours le nombre de candidats correspondant au nombre de places, il peut reporter les places non pourvues sur l'autre catégorie de concours de la même discipline ou spécialité.
 
-Les candidats sont proposés pour l'admission par le jury, par ordre décroissant de leur total de points dans la limite maximum du nombre de postes offerts aux concours. Le jury peut s'il le désire établir des listes complémentaires.
-
-Si des postes d'une catégorie de concours ne peuvent être tous pourvus par le nombre de candidats proposés par le jury, il peut décider de reporter un nombre d'inscriptions équivalent sur l'autre concours.
+Les listes d'aptitude sont valables dans la région au titre de laquelle elles ont été établies, pendant trois années à compter de leur publication au Journal officiel de la République française.

@@ -1,39 +1,49 @@
 # Article 13
 
-Les épreuves [*notation*] sont décomposées en admissibilité et admission, pour ce qui concerne le concours A (sur épreuves et titres) et admission seulement pour le concours B (sur titres) [*composition*].    Admissibilité : biologie, chirurgie, médecine, odontologie (cotée sur 60, épreuves écrites).    Epreuve théorique anonyme (durée : deux heures, cotée de 0 à 30).    Epreuve anonyme de connaissances pratiques (durée : deux heures, cotée de 0 à 30).    Admissibilité : psychiatrie (cotée sur 60, épreuves écrites).    Epreuve théorique anonyme (durée : une heure, cotée de 0 à 30).    Epreuves anonymes de connaissances pratiques :
+Les épreuves prévues à l'article 7 du décret n° 85-384 du 29 mars 1985 modifié susvisé sont les suivantes :
 
-Psychiatrie infanto-juvénile (durée : deux heures, cotée de 0 à 10).    Expertise médico-légale, législation, réglementation applicables au fonctionnement des hôpitaux ainsi qu'aux malades mentaux (durée :
+- une évaluation des titres et travaux cotée sur 30 points ;
 
-deux heures, cotée de 0 à 20).    Les copies font l'objet d'une double correction par des groupes de deux membres désignés à cet effet par le jury en son sein.    Chaque épreuve anonyme donnera lieu à l'établissement de deux sujets parmi lesquels un sera tiré au sort au moment de l'écrit.
+- l'appréciation des services rendus cotée sur 50 points ;
 
-Admission (cotée sur 120).    L'admission consiste pour le concours A en une épreuve pratique d'exercice (cotée sur 60) et une épreuve de titres (cotée sur 60).    Pour le concours B, une épreuve de titres.
+- une épreuve anonyme de connaissances pratiques cotée sur 60 points.
 
-Epreuve pratique d'exercice    Biologie, chirurgie, médecine, psychiatrie, odontologie.
+Les épreuves prévues à l'article 8 du décret n° 85-384 du 29 mars 1985 modifié susvisé sont les suivantes :
 
-Elle consiste, au choix du jury, en l'une des modalités suivantes :
+- une évaluation des titres et travaux cotée sur 60 points ;
 
-Interprétation et commentaire d'examens biologiques ; démarche diagnostique et / ou thérapeutique ; examen clinique ; cas clinique sur dossier (durée : deux heures ; cotée de 0 à 60).
+- l'appréciation des services rendus cotée sur 80 points.
 
-L'épreuve pratique se décompose de la manière suivante :
+L'épreuve anonyme de connaissance pratiques comporte plusieurs parties comprenant chacune un énoncé (éventuellement accompagné de tracés, de données iconographiques ou audiovisuelles), suivi d'une ou de plusieurs questions appelant des réponses rédactionnelles. La décomposition suivante est appliquée :
 
-Réalisation ou prise de connaissance d'examens biologiques, examen d'un dossier ou d'un cas clinique (durée : quarante minutes) ; une période de réflexion (durée : quarante minutes) ; un exposé relatif au cas examiné, suivi d'un entretien avec le jury (durée : quarante minutes).
+Biologie
 
-Epreuve de titres    Titres hospitaliers : diplômes ; nature et durée des fonctions exercées.
+1. Interprétation et commentaire d'un ou plusieurs examens biologiques ou d'une ou plusieurs explorations fonctionnelles (durée : une heures ; cotée de 0 à 30).
 
-Concours A (cotée de 0 à 20).
+2. Exposé critique des différentes méthodologies d'une exploration biologique ou fonctionnelle (durée : une heure ; cotée de 0 à 30).
 
-Concours B (cotée de 0 à 40).
+Médecine, chirurgie, odontologie,
 
-Titres universitaires : diplômes ; nature et durée des fonctions exercées ; publications.
+radiologie et imagerie médicale
 
-Concours A (cotée de 0 à 20).
+1. Conduite à tenir devant un cas urgent et/ou conduite pratique face à un ou plusieurs problèmes diagnostiques (durée : une heure ; cotée de 0 à 30).
 
-Concours B (cotée de 0 à 40).
+2. Démarche diagnostique et/ou thérapeutique (durée :
 
-Titres scientifiques : diplômes ; publications ; interventions ; nature et durée des fonctions exercées.
+une heure ; cotée de 0 à 30).
 
-Concours A (cotée de 0 à 20).
+Psychiatrie
 
-Concours B (cotée de 0 à 40).
+1. Psychiatrie d'adultes (durée : 3 heures ; cotée de 0 à 20).
+
+2. Psychiatrie infanto-juvénile (durée : deux heures ; cotée de 0 à 20).
+
+3. Une ou plusieurs questions portant sur l'expertise médico-légale, la législation et la réglementation applicables au fonctionnement des hôpitaux psychiatriques ainsi qu'aux malades mentaux (durée : deux heures ; cotée de 0 à 20).
+
+Les copies font l'objet d'une double correction par des groupes de deux membres désignées à cet effet par le jury en son sein.
+
+Chaque épreuve anonyme donnera lieu à l'établissement de deux sujets parmi lesquels un sera tiré au sort au moment de l'écrit.
+
+L'épreuve d'évaluation des titres et travaux et l'appréciation des services rendus s'effectue de la façon suivante :
 
 Le candidat fait devant le jury un exposé concernant son cursus, suivi éventuellement d'un entretien. La durée maximale de cette entrevue est de trente minutes.

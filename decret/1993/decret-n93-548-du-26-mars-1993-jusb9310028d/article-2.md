@@ -1,0 +1,3 @@
+# Article 2
+
+Lorsque, faute de propositions en nombre suffisant, par l'autorité compétente, concernant des emplois répondant aux caractéristiques mentionnées à l'article 1er, lorsque le fonctionnaire n'accepte aucun des postes qui lui sont offerts, ou lorsqu'il n'a pas fait connaître son choix au secrétariat de la commission quinze jours avant la date à laquelle le détachement doit prendre fin, la commission décide de l'emploi auquel est nommé le fonctionnaire ; elle en informe l'autorité compétente qui procède à la nomination du fonctionnaire, dans les conditions prévues par le statut particulier du corps dans lequel il est réintégré.

@@ -1,6 +1,6 @@
 # Article 9
 
-Un jury, commun aux deux catégories de concours, est établi, au niveau de la région sanitaire où sont localisés les postes vacants, pour chaque spécialité mise au recrutement. Si le nombre de candidats est inférieur ou égal à trente, la composition du jury est la suivante :
+Un jury, commun aux deux catégories de concours, est constitué au niveau de la ou des région(s) sanitaire(s) où sont localisés les postes vacants, pour chaque spécialité mise au recrutement. Si le nombre de candidats est inférieur ou égal à trente, la composition du jury est la suivante :
 
 Deux membres du personnel enseignant et hospitalier titulaires (régis par le décret n° 84-135 du 24 février 1985 ou par les décrets n° 81-61 du 27 janvier 1981 et n° 65-803 du 22 septembre 1965) ;
 

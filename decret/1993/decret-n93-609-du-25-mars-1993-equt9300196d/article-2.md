@@ -1,0 +1,3 @@
+# Article 2
+
+Sans préjudice de l'application des dispositions de l'article 6 du décret du 16 août 1985 modifié susvisé et de l'article 5 du décret du 14 mars 1986 modifié susvisé pour des faits commis sur le territoire français ou dans un Etat n'appartenant pas à la Communauté européenne, l'honorabilité se prouve par la présentation d'un document délivré par une autorité judiciaire ou administrative compétente de l'Etat d'origine ou de provenance du requérant, attestant que cette personne y satisfait aux conditions d'honorabilité telles qu'elles sont définies par la directive (C.E.E.) n° 74-561 et la directive (C.E.E.) n° 74-562 susvisées. Lors de sa présentation, ce document ne devra pas avoir été délivré depuis plus de trois mois.

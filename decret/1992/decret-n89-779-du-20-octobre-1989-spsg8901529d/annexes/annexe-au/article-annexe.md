@@ -121,3 +121,35 @@ CORPS, CADRE D'EMPLOI ou emploi territorial :
 CORPS ET GRADE de la fonction publique de l'Etat :
 
 - Infirmier ou infirmière du corps interministériel.
+
+CORPS, CADRE D'EMPLOI ou emploi territorial :
+
+- Conseiller socio-éducatif (personnel titulaire du diplôme d'assistant de service social).
+
+CORPS ET GRADE de la fonction publique de l'Etat :
+
+- Conseiller technique de service social commun au ministère des affaires sociales et de l'intégration et au ministère du travail, de l'emploi et de la formation professionnelle.
+
+CORPS, CADRE D'EMPLOI ou emploi territorial :
+
+- Secrétaire médico-social chef.
+
+CORPS ET GRADE de la fonction publique de l'Etat :
+
+- Secrétaire administratif en chef des affaires sanitaires et sociales.
+
+CORPS, CADRE D'EMPLOI ou emploi territorial :
+
+- Secrétaire médico-social principal.
+
+CORPS ET GRADE de la fonction publique de l'Etat :
+
+- Secrétaire administratif chef de section des affaires sanitaires et sociales.
+
+CORPS, CADRE D'EMPLOI ou emploi territorial :
+
+- Secrétaire médico-social.
+
+CORPS ET GRADE de la fonction publique de l'Etat :
+
+- Secrétaire administratif des affaires sanitaires et sociales.

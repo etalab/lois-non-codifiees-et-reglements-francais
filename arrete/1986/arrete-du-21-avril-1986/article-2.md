@@ -1,6 +1,6 @@
 # Article 2
 
-Cette formation est placée sous la tutelle du ministère de l'éducation nationale [*autorité compétente*] , qui délivre une attestation conforme au modèle figurant en annexe au présent arrêté [*non reproduit*].
+" Cette formation initiale est placée sous la tutelle du ministère de l'éducation nationale qui délivre une attestation conforme à l'annexe I au présent arrêté. "
 
 Elle peut être organisée directement par ce ministère ou confiée par lui à des formateurs qualifiés.
 

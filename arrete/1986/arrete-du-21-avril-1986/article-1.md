@@ -1,6 +1,8 @@
 # Article 1
 
-La formation au contrôle technique des véhicules gravement accidentés prévue par l'article R. 294-5 du code de la route comprend : [*contenu*]    a) Un enseignement théorique portant sur :
+La formation initiale au contrôle technique des véhicules gravement accidentés prévue par l'article R. 294-5 du code de la route comprend : [*contenu*]
+
+a) Un enseignement théorique portant sur :
 
 - le rôle de l'expert dans le cadre de la procédure administrative ;
 

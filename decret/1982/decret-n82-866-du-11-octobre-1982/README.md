@@ -2,4 +2,5 @@
 
 - [Titre II bis: Dispositions relatives aux sections des conseils économiques et sociaux régionaux](titre-ii-bis)
 - [Composition des comités économiques et sociaux](composition-des-comites-economiques-et)
+- [Dispositions transitoires et diverses.](dispositions-transitoires-et)
 - [Fonctionnement des comités économiques et sociaux](fonctionnement-des-comites-economiques-et)

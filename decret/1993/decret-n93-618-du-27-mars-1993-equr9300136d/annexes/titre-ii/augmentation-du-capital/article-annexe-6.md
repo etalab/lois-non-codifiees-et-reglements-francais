@@ -1,0 +1,5 @@
+# Article Annexe, 6
+
+Le capital social peut, sous réserve des stipulations de la loi du 24 juillet 1966 et du décret du 23 mars 1967, être augmenté en une ou plusieurs fois, en vertu d'une délibération de l'assemblée générale des actionnaires prise dans les conditions fixées à l'article 43 ci-après et sous réserve que les actions de la catégorie A représentent toujours au moins 34 p. 100 du capital et que le total des actions de catégories A et C représentent au moins 51 p. 100 du capital.
+
+En cas d'augmentation du capital par émission d'actions payables en numéraire, les titulaires des actions créées antérieurement à cette augmentation de capital auront, conformément aux dispositions législatives en vigueur, un droit de préférence pour la souscription des actions nouvellement émises au prorata du capital possédé. Les conditions dans lesquelles est exercé ce droit sont déterminées par le conseil d'administration. Ceux des porteurs d'actions qui n'ont pas un nombre suffisant de titres pour obtenir une action dans la nouvelle émission peuvent se réunir pour exercer leur droit sans qu'il puisse jamais de ce fait résulter de souscription indivise.
