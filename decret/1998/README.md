@@ -252,7 +252,6 @@
 - [Décret n°99-617 du 8 juillet 1999 (EQUA9900471D)](decret-n99-617-du-8-juillet-1999-equa9900471d)
 - [Décret n°99-619 du 8 juillet 1999 (EQUA9900468D)](decret-n99-619-du-8-juillet-1999-equa9900468d)
 - [Décret du 9 février 1998 (ECOC9700225D)](decret-du-9-fevrier-1998-ecoc9700225d)
-- [Décret n°97-1150 du 9 décembre 1997 (ECOB9710057D)](decret-n97-1150-du-9-decembre-1997-ecob9710057d)
 - [Décret n°97-1151 du 9 décembre 1997 (AGRA9702150D)](decret-n97-1151-du-9-decembre-1997-agra9702150d)
 - [Décret n°98-1012 du 9 novembre 1998 (INTB9800276D)](decret-n98-1012-du-9-novembre-1998-intb9800276d)
 - [Décret n°98-1013 du 9 novembre 1998 (INTB9800277D)](decret-n98-1013-du-9-novembre-1998-intb9800277d)
