@@ -1,0 +1,5 @@
+# Article 12
+
+Le praticien incriminé ou mis en cause est convoqué à l'audience, par lettre recommandée avec demande d'avis de réception du président du conseil régional, dans un délai de huitaine. L'autorité ou la personne qui a saisi le conseil régional est convoquée dans les mêmes délais et les mêmes formes. Ce délai est augmenté, s'il y a lieu, conformément aux articles 643 et 644 du nouveau code de procédure civile, si le praticien est domicilié en dehors de la circonscription de l'ordre où il exerce sa profession. La convocation indique aux personnes en cause le délai pendant lequel elles pourront, elles ou leurs défenseurs, prendre connaissance du dossier au siège du conseil régional. Lorsque l'autorité qui a saisi le conseil est le ministre chargé de la santé, le préfet, le procureur de la République ou le directeur départemental de l'action sanitaire et sociale, elle peut se faire représenter et peut formuler ses observations par écrit.
+
+Les personnes en cause sont en outre invitées par la convocation à faire connaître dans un délai de huit jours, si elles font choix d'un défenseur, et, dans ce cas, les nom et adresse de celui-ci.

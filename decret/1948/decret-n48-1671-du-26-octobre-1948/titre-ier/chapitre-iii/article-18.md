@@ -1,0 +1,3 @@
+# Article 18
+
+Les membres du conseil peuvent être récusés pour les motifs énumérés à l'article 8-1 de l'ordonnance n° 58-1273 du 22 décembre 1958. La demande de récusation doit être présentée dans un délai de trois jours avant le début de l'audience. Ne peuvent siéger les membres du conseil qui ont entre eux ou avec le médecin, le chirurgien dentiste ou la sage-femme intéressé, une parenté ou une alliance jusqu'au quatrième degré, les membres du conseil régional qui ont individuellement ou collectivement des intérêts professionnels communs entre eux ou avec le praticien intéressé, tout membre qui serait l'auteur de la dénonciation à l'origine de la poursuite disciplinaire.
