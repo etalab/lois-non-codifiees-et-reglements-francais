@@ -1,14 +1,12 @@
 # Article 8
 
-Il est institué auprès de l'administration centrale du ministère de la défense un conseil de discipline supérieur composé comme suit :
+Il est institué, auprès de l'administration centrale du ministère de la défense, un conseil de discipline supérieur composé comme suit :
 
-- le directeur de la fonction militaire et du personnel civil -;
+- le directeur de la fonction militaire et du personnel civil ou son représentant, président ;
 
-- le directeur des personnels et des affaires générales de l'armement ou son représentant,
+- le directeur des ressources humaines de la délégation générale pour l'armement ou son représentant, membre ;
 
-qui ont respectivement vocation à présider la séance dudit conseil selon que l'agent à statut ouvrier dont le cas est examiné relève soit d'un état-major ou service commun, soit de la délégation générale pour l'armement ;
-
-- quatre officiers ou fonctionnaires de catégorie A en fonctions à l'administration centrale désignés par le directeur de la fonction militaire et des relations sociales, membres ;
+- trois officiers ou fonctionnaires de catégorie A en fonctions à l'administration centrale désignés par le directeur de la fonction militaire et du personnel civil, membres ;
 
 - cinq agents à statut ouvrier, membres.
 
