@@ -531,7 +531,6 @@
 - [Arrêté du 28 mars 1988 (TRSA8800090A)](arrete-du-28-mars-1988-trsa8800090a)
 - [Arrêté du 28 novembre 1988 (JUSB8810369A)](arrete-du-28-novembre-1988-jusb8810369a)
 - [Arrêté du 28 octobre 1988 (SPSA8801625A)](arrete-du-28-octobre-1988-spsa8801625a)
-- [Arrêté du 28 octobre 1988 (TRSA8800582A)](arrete-du-28-octobre-1988-trsa8800582a)
 - [Arrêté du 28 septembre 1988 (BUDR8803092A)](arrete-du-28-septembre-1988-budr8803092a)
 - [Arrêté du 28 septembre 1988 (INDA8800697A)](arrete-du-28-septembre-1988-inda8800697a)
 - [Arrêté du 28 septembre 1988 (RESY8800864A)](arrete-du-28-septembre-1988-resy8800864a)
