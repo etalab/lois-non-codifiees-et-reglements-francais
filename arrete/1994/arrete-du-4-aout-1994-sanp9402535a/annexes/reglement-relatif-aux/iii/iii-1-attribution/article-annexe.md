@@ -32,6 +32,8 @@ Pour certains malades, il est indispensable de délivrer des produits transform�
 
 Le tableau [*non reproduit*], présenté ci-dessous, bien que non exhaustif, représente les situations les plus fréquentes.
 
+15 novembre 1993, du 5 avril 1994 et du 4 août 1994 portant homologation de règlements de l'Agence française du sang    En cas de présence d'anticorps irréguliers anti-érythrocytaires dans le concentré de globules rouges ou de plaquettes, le responsable du service de distribution en informe le médecin prescripteur. Ils décident ensemble de la conduite à tenir en ce qui concerne le produit, à savoir les transformations éventuelles. Concernant le patient, ils s'assurent que le receveur n'a pas reçu de concentré de globules rouges portant l'antigène correspondant dans les deux mois précédents et ils prennent les mesures nécessaires pour qu'il n'en reçoive pas dans les deux mois suivants, dans le respect des règles de compatibilité immunologique.
+
 III.1.1. Attribution de concentrés érythrocytaires
 
 En règle générale, la transfusion de concentrés érythrocytaires obéit à la transfusion isogroupe dans les systèmes ABO Rh D. Cette règle ne peut être transgressée qu'en tenant compte des anticorps du système ABO.

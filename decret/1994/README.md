@@ -237,6 +237,7 @@
 - [Décret n°94-870 du 10 octobre 1994 (SPSC9402690D)](decret-n94-870-du-10-octobre-1994-spsc9402690d)
 - [Décret n°94-871 du 10 octobre 1994 (AGRG9401490D)](decret-n94-871-du-10-octobre-1994-agrg9401490d)
 - [Décret n°94-873 du 10 octobre 1994 (ENVN9420056D)](decret-n94-873-du-10-octobre-1994-envn9420056d)
+- [Décret n°94-884 du 10 octobre 1994 (JUSC9420876D)](decret-n94-884-du-10-octobre-1994-jusc9420876d)
 - [Décret n°95-1094 du 10 octobre 1995 (SANG9502158D)](decret-n95-1094-du-10-octobre-1995-sang9502158d)
 - [Décret n°95-1095 du 10 octobre 1995 (SANG9502160D)](decret-n95-1095-du-10-octobre-1995-sang9502160d)
 - [Décret n°95-50 du 10 janvier 1995 (AGRA9402305D)](decret-n95-50-du-10-janvier-1995-agra9402305d)

@@ -4,7 +4,7 @@ La mise en place des bonnes pratiques de distribution repose sur l'ensemble du p
 
 I.1. Fonctions/Responsabilités
 
-Au sein de l'établissement de transfusion sanguine, l'activité de distribution des produits sanguins labiles doit être placée sous l'autorité d'un docteur en médecine au sens de l'article L. 536 du C.S.P. ou d'un pharmacien au sens de l'article L. 514 du C.S.P., titulaire de la capacité en technologie transfusionnelle ou du diplôme universitaire de transfusion sanguine ou titulaire d'un titre ou diplôme reconnu équivalent. Dans tous les cas, l'activité de conseil transfusionnel relève de la compétence d'un docteur en médecine.
+Au sein de l'établissement de transfusion sanguine, l'activité de distribution des produits sanguins labiles doit être placée sous l'autorité d'un docteur en médecine au sens de l'article L. 356 du C.S.P. ou d'un pharmacien au sens de l'article L. 514 du C.S.P., titulaire de la capacité en technologie transfusionnelle ou du diplôme universitaire de transfusion sanguine ou titulaire d'un titre ou diplôme reconnu équivalent. Dans tous les cas, l'activité de conseil transfusionnel relève de la compétence d'un docteur en médecine.
 
 Les fonctions et responsabilités du responsable du service recouvrent les domaines suivants :
 

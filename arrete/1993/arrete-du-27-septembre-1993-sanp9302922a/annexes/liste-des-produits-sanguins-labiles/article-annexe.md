@@ -144,7 +144,9 @@ Section 4. Transformations des produits de base
 
 4.2.3. Concentré de plaquettes d'aphérèse phénotypé ;
 
-4.2.4. Plasma frais congelé sécurisé par quarantaine.
+4.2.4. Plasma frais congelé sécurisé par quarantaine ;
+
+4.2.5. Concentré de granulocytes d'aphérèse.
 
 4.3. Réduction du volume (cette transformation ne s'applique qu'aux produits de base homologues) :
 
@@ -244,10 +246,12 @@ Section 4. Transformations des produits de base
 
 4.10. Viro-atténuation par traitement physico-chimique (cette transformation ne s'applique qu'aux produits de base homologues) :
 
-4.10.1. Plasma frais congelé viro-atténué par solvant-détergent.
+4.10.1. Plasma frais congelé viro-atténué par solvant-détergent ;
+
+4.11. Sang reconstitué à usage pédiatrique.
 
 Section 5. Produits préparés exclusivement sous la responsabilité du Centre de transfusion sanguine des armées
 
 5.1. Produits homologues :
 
-5.1.1. Plasma cryodesséché viro-atténué.
+5.1.1. Plasma cryodesséché sécurisé.
