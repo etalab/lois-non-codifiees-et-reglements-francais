@@ -2,7 +2,7 @@
 
 Le règlement technique définit son propre champ d'application et comporte :
 
-1° Les caractéristiques de composition, de fonctionnement ou d'usage retenues pour décrire les produits ou les biens, les valeurs limites de ces caractéristiques exigées pour la délivrance du certificat, et, le cas échéant, les modalités retenues pour classer ces produits ou ces biens en fonction de leurs caractéristiques d'usage.
+1° Les caractéristiques de composition, de fonctionnement ou d'usage retenues pour décrire les produits ou les biens et, le cas échéant, les caractéristiques relatives à leur qualité écologique, les valeurs limites des caractéristiques éventuellement exigées pour la délivrance du certificat et, le cas échéant, les modalités retenues pour classer ces produits ou ces biens en fonction de leurs caractéristiques.
 
 2° La nature et le mode de présentation des informations portées à la connaissance des utilisateurs par le certificat ;
 
