@@ -1,5 +1,11 @@
 # Article 2
 
-L'arrêté préfectoral mentionné à l'article précédent est pris sur proposition du directeur départemental de l'agriculture après avis de la commission départementale des sites siégeant en formation de protection de la nature ainsi que de la chambre d'agriculture.
+Sont interdits dans les conditions déterminées par le décret du 25 novembre 1977 susvisé la mutilation, la naturalisation des reptiles suivants ou, qu'ils soient vivants ou morts, le transport, le colportage, l'utilisation, la mise en vente, la vente ou l'achat des spécimens détruits, capturés ou enlevés sur tout le territoire national :
 
-Lorsque le ramassage doit s'effectuer sur les terrains domaniaux soumis au régime forestier, l'avis du chef de centre de gestion de l'office national des forêts est requis.
+REPTILES                              Ophidiens.
+
+Vipéridés :
+
+Vipère aspic (Vipera aspis) ;
+
+Vipère peliade (Vipera berus).
