@@ -15,6 +15,7 @@
 - [Arrêté du 13 avril 1971](arrete-du-13-avril-1971)
 - [Arrêté du 14 janvier 1971](arrete-du-14-janvier-1971)
 - [Arrêté du 15 janvier 1971](arrete-du-15-janvier-1971)
+- [Arrêté du 16 décembre 1970](arrete-du-16-decembre-1970)
 - [Arrêté du 17 août 1971](arrete-du-17-aout-1971)
 - [Arrêté du 17 mars 1971](arrete-du-17-mars-1971)
 - [Arrêté du 19 octobre 1971](arrete-du-19-octobre-1971)
