@@ -14,30 +14,12 @@ Le solde éventuel du prix de cession déduction faite de l'indemnité due au ti
 
 A la date de la résiliation de la concession, les biens appartenant à l'Etat qui étaient jusqu'alors concédés sont transférés après avoir été, le cas échéant, déclassés.
 
-Le bénéficiaire du transfert est, à la même date, réputé autorisé au titre du V jusqu'à ce qu'il lui soit délivré de nouvelles autorisations, dans un délai qui ne peut excéder dix-huit mois à compter de la publication du décret mentionné au V. Les dispositions du cahier des charges annexé à la concession de transport en cours, à la date d'entrée en vigueur de la présente loi, demeurent applicables jusqu'à la date de délivrance aux bénéficiaires de ces nouvelles autorisations (1).
+Le bénéficiaire du transfert est, à la même date, réputé autorisé au titre de l'article 25 de la loi n° 2003-8 du 3 janvier 2003 relative aux marchés du gaz et de l'électricité et au service public de l'énergie jusqu'à ce qu'il lui soit délivré de nouvelles autorisations, dans un délai qui ne peut excéder dix-huit mois à compter de la publication du décret mentionné au I de ce même article. Les dispositions du cahier des charges annexé à la concession de transport en cours, à la date d'entrée en vigueur de la présente loi, demeurent applicables jusqu'à la date de délivrance aux bénéficiaires de ces nouvelles autorisations (1).
 
-III. - Dans les cas autres que celui prévu au deuxième alinéa du II, la concession est maintenue jusqu'à ce que l'autorisation mentionnée au V ait été délivrée à un nouvel exploitant par le ministre chargé de l'énergie. La concession est alors résiliée et l'ancien concessionnaire perçoit l'indemnité due au titre de la résiliation anticipée mentionnée au dernier alinéa du I et fixée en application du troisième alinéa du II. Les biens appartenant à l'Etat sont cédés au nouvel exploitant au prix fixé en application du II après avoir été, le cas échéant, déclassés (1).
+III. - Dans les cas autres que celui prévu au deuxième alinéa du II, la concession est maintenue jusqu'à ce que l'autorisation mentionnée à l'article 25 de la loi n° 2003-8 du 3 janvier 2003 précitée ait été délivrée à un nouvel exploitant par le ministre chargé de l'énergie. La concession est alors résiliée et l'ancien concessionnaire perçoit l'indemnité due au titre de la résiliation anticipée mentionnée au dernier alinéa du I et fixée en application du troisième alinéa du II. Les biens appartenant à l'Etat sont cédés au nouvel exploitant au prix fixé en application du II après avoir été, le cas échéant, déclassés (1).
 
 IV. - Les décisions prises en application des I, II et III peuvent faire l'objet d'un recours de plein contentieux devant le Conseil d'Etat.
 
-V. - La construction et l'exploitation des canalisations de transport de gaz naturel sont soumises à autorisation délivrée après enquête publique par l'autorité administrative compétente.
-
-Un décret en Conseil d'Etat fixe les conditions dans lesquelles l'autorisation précitée peut être délivrée ou refusée et les cas où, en raison de la nature ou de l'importance limitée des travaux projetés, ces derniers peuvent être réalisés sans enquête publique préalable.
-
-Cette autorisation est délivrée en fonction :
-
-- des capacités techniques, économiques et financières du demandeur ;
-
-- de la compatibilité de son projet avec les principes et les missions de service public, notamment la protection de l'environnement ;
-
-- de la sécurité et de la sûreté des canalisations de transport de gaz naturel, ainsi que des réseaux ou installations qui leur sont raccordés.
-
-L'autorisation est incessible et nominative. Elle confère à son titulaire le droit d'occuper le domaine public. Les travaux d'installation des ouvrages de transport de gaz naturel ont le caractère de travaux publics.
-
-Tout bénéficiaire d'une autorisation de transport de gaz naturel exerce ses missions dans les conditions fixées par cette autorisation et le cahier des charges qui y est annexé.
-
-Les servitudes énumérées à l'article 35 de la loi n° 46-628 du 8 avril 1946 sur la nationalisation de l'électricité et du gaz et la servitude de passage mentionnée à l'article 12 de la loi du 15 juin 1906 sur les distributions d'énergie s'appliquent aux travaux déclarés d'utilité publique à la demande du pétitionnaire de l'autorisation de transport. Dans les articles 10 et 12 de la loi du 15 juin 1906 précitée et l'article L. 113-5 du code de la voirie routière, après le mot : "concession", sont insérés les mots : "ou autorisation de transport de gaz naturel" et, après le mot :
-
-"concessionnaire", sont insérés les mots : "ou titulaire d'une autorisation de transport de gaz naturel".
+V. (Paragraphe abrogé).
 
 VI. - A compter du 30 septembre 2002, tout ouvrage de transport appartenant à l'Etat destiné à relever du régime de la distribution publique de gaz sera, après déclassement, transféré en pleine propriété à titre gratuit à l'autorité concédante concernée (1).
