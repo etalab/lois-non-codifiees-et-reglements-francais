@@ -2,5 +2,4 @@
 
 - [Titre Ier : Rentes constituées auprès des compagnies d'assurances.](titre-ier)
 - [Titre II : Rentes constituées à la caisse nationale des retraites pour la vieillesse.](titre-ii)
-- [Titre III : Rentes constituées entre particuliers.](titre-iii)
 - [Titre IV : Dispositions générales.](titre-iv)
