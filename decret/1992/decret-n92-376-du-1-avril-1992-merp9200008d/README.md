@@ -6,6 +6,6 @@
 - [Chapitre II : Conditions d'éligibilité et déclarations de candidatures.](chapitre-ii)
 - [Article 3](article-3.md)
 - [Chapitre III : Préparation et déroulement des opérations électorales.](chapitre-iii)
-- [Chapitre IV : Contentieux.](chapitre-iv)
-- [Chapitre V : Dispositions diverses.](chapitre-v)
+- [Chapitre IV : Elections partielles.](chapitre-iv)
+- [Chapitre V : Contentieux.](chapitre-v)
 - [Article 21](article-21.md)

@@ -1,6 +1,6 @@
 # Article 15
 
-Le vote a lieu par correspondance. Les bulletins peuvent également être déposés auprès de la commission électorale par l'électeur, ou par son mandataire, le jour du scrutin.
+Le vote a lieu par correspondance. Les bulletins peuvent également être déposés auprès de la commission électorale par l'électeur le jour du scrutin.
 
 Dans le cas de vote par correspondance, les bulletins sont adressés par la poste, de telle façon qu'ils parviennent à la commission au plus tard le jour du scrutin.
 
