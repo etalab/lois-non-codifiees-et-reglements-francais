@@ -1,0 +1,7 @@
+# Article ANNEXE
+
+Fonctions exercées pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
+
+Responsable de la maintenance bureautique ;
+
+Responsable de la fonction bureautique P.A.O. (publication assistée par ordinateur).

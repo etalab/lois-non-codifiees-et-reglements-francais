@@ -1,5 +1,5 @@
 # Article 8
 
-Le ministre de l'équipement, du logement, de l'aménagement du territoire et des transports préside la commission de l'informatique et de la bureautique.
+Le ministre chargé de l'équipement préside la commission de l'informatique et de la bureautique.
 
-Il est assisté du directeur de l'administration générale, vice-président, qui le supplée en cas d'absence ou d'empêchement.
+Il est assisté du directeur du personnel et des services, vice-président, qui le supplée en cas d'absence ou d'empêchement.

@@ -24,7 +24,7 @@ Sous-commission A (Mer) :
 
 - le secrétaire permanent ou son représentant.
 
-- Le président de la sous-commission A est désigné par le secrétaire d'Etat à la mer.
+- Le président de la sous-commission A est désigné par le ministre chargé de la mer.
 
 Sous-commission B (Aviation civile et météorologie) :
 
@@ -42,35 +42,37 @@ Sous-commission B (Aviation civile et météorologie) :
 
 - le secrétaire permanent ou son représentant.
 
-Le président de la sous-commission B est désigné par le ministre délégué auprès du ministre de l'équipement, du logement, de l'aménagement du territoire et des transports, chargé des transports.
+Le président de la sous-commission B est désigné par le ministre des transports.
 
 Sous-commission C (Environnement) :
 
 - le chef de la mission d'inspection spécialisée de l'environnement ou son représentant ;
 
-- le chef de la division des affaires générales ou son représentant ;
+- le directeur des ressources humaines, des moyens et de la qualité de la vie ;
 
-- le délégué à la qualité de la vie ou son représentant ;
+- le directeur de l'eau ou son représentant ;
 
-- le directeur de la prévention des pollutions ou son représentant ;
+- le directeur de la prévention des pollutions et des risques ou son représentant ;
 
-- le directeur de la protection de la nature ou son représentant ;
+- le directeur de la nature et des paysages ou son représentant ;
 
-- le chef du service de la recherche, des études et du traitement de l'information sur l'environnement ou son représentant ;
+- le directeur de la recherche et des affaires économiques et internationales ou son représentant ;
 
-- un représentant des services déconcentrés désigné par le président de la sous-commission C ;
+- deux représentants des services déconcentrés désignés par le président de la sous-commission C ;
 
-- deux représentants des établissements sous tutelle désigné par
+- quatre représentants des établissements sous tutelle désigné par
 
 le président de la sous-commission C ;
 
 - le secrétaire permanent ou son représentant.
 
-Le président de la sous-commission C est désigné par le ministre délégué auprès du ministère de l'équipement, du logement, de l'aménagement du territoire et des transports, chargé de l'environnement.
+le responsable chargé de l'informatique et de la bureautique au ministère de l'environnement ;
+
+Le président de la sous-commission C est désigné par le ministre chargé de l'environnement.
 
 Sous-commission D (Equipement) :
 
-- le directeur du personnel ou son représentant ;
+- le directeur des affaires financières et de l'administration générale ;
 
 - le directeur des routes ou son représentant ;
 
@@ -82,14 +84,20 @@ Sous-commission D (Equipement) :
 
 - le directeur de l'architecture et de l'urbanisme ou son représentant ;
 
-- le directeur de la construction ou son représentant ;
+- le directeur de l'habitat et de la construction ou son représentant ;
 
 - le directeur du C.E.T.E. de Lyon ou son représentant ;
 
 - le directeur régional de l'équipement de la région Aquitaine ou son représentant ;
 
-- le directeur départemental de l'équipement du Puy-de-Dôme ;
+- le directeur départemental de l'équipement de la Nièvre ;
 
 - le secrétaire permanent ou son représentant.
 
-Le directeur de l'administration générale préside la sous-commission D.
+- le directeur du personnel et des services préside la sous-commission D.
+
+- le directeur de la recherche et des affaires scientifiques et techniques ;
+
+- le chef du service de l'information et de la communication ;
+
+- le directeur départemental de l'équipement du Bas-Rhin ;
