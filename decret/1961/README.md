@@ -1,5 +1,6 @@
 # 1961
 
+- [Décret n°61-859 du 1 août 1961](decret-n61-859-du-1-aout-1961)
 - [Décret n°61-1103 du 3 octobre 1961](decret-n61-1103-du-3-octobre-1961)
 - [Décret n°61-708 du 3 juillet 1961](decret-n61-708-du-3-juillet-1961)
 - [Décret n°61-9 du 3 janvier 1961](decret-n61-9-du-3-janvier-1961)
@@ -54,5 +55,6 @@
 - [Décret n°61-294 du 31 mars 1961](decret-n61-294-du-31-mars-1961)
 - [Décret n°61-295 du 31 mars 1961](decret-n61-295-du-31-mars-1961)
 - [Décret n°61-303 du 31 mars 1961](decret-n61-303-du-31-mars-1961)
+- [Décret n°61-858 du 31 juillet 1961](decret-n61-858-du-31-juillet-1961)
 - [Décret n°61-544 du 31 mai 1961](decret-n61-544-du-31-mai-1961)
 - [Décret n°61-545 du 31 mai 1961](decret-n61-545-du-31-mai-1961)
