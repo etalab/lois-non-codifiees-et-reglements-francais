@@ -60,20 +60,22 @@ Ingénieur en chef :
 
 Ingénieur subdivisionnaire :
 
-- 9e échelon : 701 ;
+-10e échelon : 750 ;
 
-- 8e échelon : 659 ;
+- 9e échelon : 710 ;
 
-- 7e échelon : 612 ;
+- 8e échelon : 668 ;
 
-- 6e échelon : 579 ;
+- 7e échelon : 621 ;
 
-- 5e échelon : 528 ;
+- 6e échelon : 588 ;
 
-- 4e échelon : 482 ;
+- 5e échelon : 540 ;
 
-- 3e échelon : 448 ;
+- 4e échelon : 492 ;
 
-- 2e échelon : 420 ;
+- 3e échelon : 458 ;
+
+- 2e échelon : 430 ;
 
 - 1er échelon : 379.
