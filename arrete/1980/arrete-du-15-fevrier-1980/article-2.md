@@ -1,5 +1,3 @@
 # Article 2
 
-Les catégories d'opérations auxquelles cette procédure s'applique sont les suivantes :
-
-Constructions neuves réalisées pour l'administration centrale, les services déconcentrés et les établissements publics du ministère du travail et de la participation, ainsi que pour les organismes placés sous sa tutelle et subventionnés sur le budget de l'Etat.
+Le laboratoire de l'union technique de l'automobile, du motocycle et du cycle (U.T.A.C.), autodrome de Linas-Montlhéry, 91-Linas-Montlhéry, est agréé pour effectuer les essais permettant le contrôle des prescriptions du règlement n° 40 susvisé. Les essais sont à la charge du demandeur.
