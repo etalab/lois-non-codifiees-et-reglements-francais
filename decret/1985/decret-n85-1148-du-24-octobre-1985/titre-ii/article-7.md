@@ -1,8 +1,8 @@
 # Article 7
 
-Pour l'application des dispositions législatives et réglementaires se référant au traitement de l'indice 100 prévu par le décret du 10 juillet 1948 susvisé, ce traitement est constitué par le traitement afférent à l'indice majoré 152 (indice brut 100).
+Pour l'application des dispositions législatives et réglementaires se référant au traitement de l'indice 100 prévu par le décret du 10 juillet 1948 susvisé, ce traitement est constitué par le traitement afférent à l'indice majoré 154 (indice brut 100).
 
-Par dérogation à l'alinéa précédent, ce même traitement est constitué par le traitement afférent à l'indice majoré 196 (indice brut 175) dans les cas suivants :
+Par dérogation à l'alinéa précédent, ce même traitement est constitué par le traitement afférent à l'indice majoré 198 (indice brut 175) dans les cas suivants :
 
 Application des articles L. 17, L. 22, L. 28, L. 50 (alinéa 2) en vigueur avant le 25 décembre 1973 et L 86 (3°) du code des pensions civiles et militaires de retraite, de l'article L. 40 de l'ancien code des pensions civiles et militaires de retraite annexé au décret n° 51-590 du 23 mai 1951 ;
 
