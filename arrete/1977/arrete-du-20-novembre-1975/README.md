@@ -5,7 +5,5 @@
 - [Article 2](article-2.md)
 - [Article 19](article-19.md)
 - [Dispositions concernant la présentation.](dispositions-concernant-la-presentation)
-- [Dispositions concernant le calibrage.](dispositions-concernant-le-calibrage)
-- [Dispositions concernant le marquage.](dispositions-concernant-le-marquage)
 - [Dispositions concernant les tolérances.](dispositions-concernant-les-tolerances)
 - [Dispositions finales.](dispositions-finales)

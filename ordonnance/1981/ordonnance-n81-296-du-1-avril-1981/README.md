@@ -2,4 +2,3 @@
 
 - [Titre Ier : Régime fiscal.](titre-ier)
 - [Article 5](article-5.md)
-- [REGIME DOUANIER](regime-douanier)
