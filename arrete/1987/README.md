@@ -312,7 +312,6 @@
 - [Arrêté du 16 janvier 1987 (ECOT8710003A)](arrete-du-16-janvier-1987-ecot8710003a)
 - [Arrêté du 16 janvier 1987 (ECOT8720005A)](arrete-du-16-janvier-1987-ecot8720005a)
 - [Arrêté du 16 janvier 1987 (ECOT8733001A)](arrete-du-16-janvier-1987-ecot8733001a)
-- [Arrêté du 16 juillet 1987 (ASEP8701091A)](arrete-du-16-juillet-1987-asep8701091a)
 - [Arrêté du 16 juillet 1987 (MENF8700438A)](arrete-du-16-juillet-1987-menf8700438a)
 - [Arrêté du 16 juillet 1987 (MENL8700248A)](arrete-du-16-juillet-1987-menl8700248a)
 - [Arrêté du 16 juin 1987 (ECOP8700225A)](arrete-du-16-juin-1987-ecop8700225a)
