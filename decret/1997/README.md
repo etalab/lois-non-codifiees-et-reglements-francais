@@ -1023,7 +1023,6 @@
 - [Décret du 31 mai 1997 (FCEC9700085D)](decret-du-31-mai-1997-fcec9700085d)
 - [Décret du 31 mai 1997 (FCEC9700086D)](decret-du-31-mai-1997-fcec9700086d)
 - [Décret du 31 mai 1997 (FCEC9700087D)](decret-du-31-mai-1997-fcec9700087d)
-- [Décret du 31 mai 1997 (FCEC9700088D)](decret-du-31-mai-1997-fcec9700088d)
 - [Décret du 31 mai 1997 (FCEC9700089D)](decret-du-31-mai-1997-fcec9700089d)
 - [Décret n°97-595 du 31 mai 1997 (MENU9701520D)](decret-n97-595-du-31-mai-1997-menu9701520d)
 - [Décret n°97-596 du 31 mai 1997 (MENU9701626D)](decret-n97-596-du-31-mai-1997-menu9701626d)
