@@ -16,6 +16,12 @@ Le siège réservé en application de l'alinéa 2 de l'article 16 de la loi du 2
 
 - et, d'autre part, par les agents de droit public ou de droit privé relevant au titre de leur contrat de cette même catégorie.
 
-Les listes de candidats doivent satisfaire aux conditions mentionnées aux points 1, 2 et au dernier alinéa de l'article 17 de la loi précitée. Elles doivent en outre avoir recueilli la signature d'une ou plusieurs organisations syndicales représentatives sur le plan national, une organisation ne pouvant être signataire que d'une seule liste de candidats.
+Les listes de candidats doivent satisfaire aux conditions mentionnées au 1, au 2 et au dernier alinéa de l'article 17 de la loi du 26 juillet 1983 susvisée. Elles doivent en outre avoir recueilli la signature :
+
+- soit d'une ou plusieurs organisations syndicales représentatives sur le plan national ;
+
+- soit, d'une part, de représentants du personnel, titulaires et suppléants, aux commissions administratives paritaires nationales et locales de France Télécom, exerçant ces fonctions ou ayant exercé celles-ci lors du précédent exercice et, d'autre part, de délégués du personnel, de membres des comités d'entreprise ou d'établissement ou des organes en tenant lieu, titulaires et suppléants, élus par le corps électoral habilité à désigner les représentants des salariés au sein des sociétés dans lesquelles France Télécom détient directement ou indirectement plus de 50 p. 100 du capital et exerçant ces fonctions électives ou ayant exercé celles-ci lors du précédent exercice.
+
+Ces élus ou anciens élus doivent travailler au sein de France Télécom ou dans l'une de ses filiales et leur nombre doit être égal au moins à 10 p. 100 du nombre actuel d'élus à l'ensemble de ces instances.
 
 Les élections sont effectuées dans les conditions fixées par le décret prévu à l'article 20 de cette loi.
