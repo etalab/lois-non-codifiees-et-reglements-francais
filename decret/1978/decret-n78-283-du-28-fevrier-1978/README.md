@@ -1,7 +1,6 @@
 # Décret n°78-283 du 28 février 1978 rendant obligatoire le régime de prestations supplémentaires de vieillesse des chirurgiens-dentistes conventionnés.
 
 - [Article 1](article-1.md)
-- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
