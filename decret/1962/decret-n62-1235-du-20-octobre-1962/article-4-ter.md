@@ -6,4 +6,4 @@ La décision de rétrocession est notifiée, par lettre recommandée avec demand
 
 La décision comporte une désignation sommaire des biens concernés avec notamment le nom de la commune, celui du lieudit, la surface totale, les nom et qualités des rétrocessionnaires, la nature et la motivation de l'opération réalisée ainsi que ses conditions financières.
 
-La décision de rétrocession fait, dans un délai d'un mois à compter du jour où elle est devenue définitive, l'objet des mesures de publicité prévues à l'article 14 bis du décret n° 61-10 du 14 juin 1961 modifié.
+Cette décision fait, dans un délai d'un mois à compter du jour où elle est devenue définitive, l'objet d'un affichage pendant quinze jours, à la mairie de la commune de situation des biens.
