@@ -650,6 +650,7 @@
 - [Arrêté du 27 janvier 1998 (ECOS9850006A)](arrete-du-27-janvier-1998-ecos9850006a)
 - [Arrêté du 27 janvier 1998 (ECOS9850007A)](arrete-du-27-janvier-1998-ecos9850007a)
 - [Arrêté du 27 juillet 1998 (DEFD9801653A)](arrete-du-27-juillet-1998-defd9801653a)
+- [Arrêté du 27 juillet 1998 (MAEA9820039A)](arrete-du-27-juillet-1998-maea9820039a)
 - [Arrêté du 27 juillet 1998 (MCCB9800200A)](arrete-du-27-juillet-1998-mccb9800200a)
 - [Arrêté du 27 mars 1998 (MCCB9800161A)](arrete-du-27-mars-1998-mccb9800161a)
 - [Arrêté du 27 mars 1998 (MESH9821289A)](arrete-du-27-mars-1998-mesh9821289a)
