@@ -7,4 +7,5 @@
 - [Article 35 bis](article-35-bis.md)
 - [Article 35 ter](article-35-ter.md)
 - [Article 35 quater](article-35-quater.md)
+- [Article 35 quinquies](article-35-quinquies.md)
 - [Article 36](article-36.md)

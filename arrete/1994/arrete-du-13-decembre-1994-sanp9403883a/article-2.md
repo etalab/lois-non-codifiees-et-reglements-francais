@@ -1,0 +1,5 @@
+# Article 2
+
+La désignation par tirage au sort des faisant-fonction d'interne siégeant au conseil de discipline, prévue par les articles 34 et 35 du décret du 2 septembre 1983 susvisé, s'effectue comme suit :
+
+Au cas où les propositions des organisations représentatives des intéressés font défaut ou sont insuffisantes, le tirage au sort est organisé par le préfet de la région où siège le conseil de discipline. Une urne est constituée comportant le nom de chacun des faisant-fonction d'internes recensés et en fonctions dans les établissements de santé de la région, étudiants en médecine ou médecins s'ils siègent dans le première section, étudiants en pharmacie ou pharmaciens s'ils siègent dans la deuxième section. Il est procédé au tirage au sort du nombre nécessaire de faisant-fonction d'internes, soit la totalité des six représentants, soit le nombre manquant pour compléter ceux désignés par les organisations représentatives. Il est ensuite procédé au tirage au sort du nombre équivalent de faisant-fonction d'internes suppléants.

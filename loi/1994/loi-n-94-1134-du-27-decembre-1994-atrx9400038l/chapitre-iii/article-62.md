@@ -1,0 +1,7 @@
+# Article 62
+
+Les charges résultant, pour chaque centre de gestion mentionné à l'article 14 de la loi n° 84-53 du 26 janvier 1984 précitée, des transferts d'attribution résultant des dispositions de l'article 11 de la présente loi font l'objet de transferts de ressources du Centre national de la fonction publique territoriale, pour un montant équivalent aux dépenses qu'il exposait au titre des attributions transférées.
+
+Le montant de ces dépenses est constaté par arrêté du ministre chargé des collectivités locales après avis d'une commission présidée par un magistrat de la Cour des comptes et comprenant des représentants du Centre national de la fonction publique territoriale et des centres de gestion ainsi qu'un représentant du ministre chargé des collectivités locales. La composition de la commission et la procédure de décompte sont fixées par décret en Conseil d'Etat.
+
+Le montant des dépenses transférées est réparti entre centres de gestion, en fonction de la population du département telle qu'arrêtée au dernier recensement général. Ce montant fait l'objet chaque année d'une actualisation par application d'un taux égal au taux de progression annuel du produit de la cotisation obligatoire et du prélèvement supplémentaire obligatoire versés au Centre national de la fonction publique territoriale en application du 1° de l'article 12-2 de la loi n° 84-53 du 26 janvier 1984 précitée.

@@ -1,0 +1,5 @@
+# Article Annexe, art. 19
+
+Des prix spéciaux sont consentis, sous réserve du respect du principe de l'égalité de traitement visé à l'article 24 et dans la limite des disponibilités du concessionnaire, aux clients qui acceptent dans leur contrat de déroger aux conditions de fournitures relatives à l'énergie garantie, telles qu'elles sont définies à l'article 17. Dans ce cas, les modalités correspondantes font l'objet d'une annexe aux contrats de fourniture mentionnés à l'article 25.
+
+Les dispositions du présent article ne font pas obstacle à la livraison d'énergie dite "énergie à bien plaire", faite par le concessionnaire, sans que cette énergie puisse se substituer aux quantités d'énergie que les clients absorbent normalement en vertu de leur contrat. Les prix de cette "énergie à bien plaire" seront fixés de gré à gré selon les circonstances. Le ministre chargé de l'électricité recevra chaque année un bilan des transactions opérées, afin de vérifier le respect du principe de l'égalité de traitement.

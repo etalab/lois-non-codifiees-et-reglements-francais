@@ -1,8 +1,14 @@
 # Article 21
 
-Toute personne qui, par aide directe ou indirecte, aura facilité ou tenté de faciliter l'entrée, la circulation ou le séjour irréguliers d'un étranger sera punie d'un emprisonnement de deux mois à cinq ans [*durée*] et d'une amende de 2 000 F à 200 000 F [*montant*], ou de l'une de ces deux peines seulement.
+I. - Toute personne qui, alors qu'elle se trouvait en France, aura, par aide directe ou indirecte, facilité ou tenté de faciliter l'entrée, la circulation ou le séjour irréguliers, d'un étranger en France sera punie d'un emprisonnement de cinq ans et d'une amende de 200 000 F.
 
-Le tribunal pourra, en outre, prononcer l'interdiction de séjour, ainsi que la suspension du permis de conduire pendant une durée de trois ans au plus. Cette durée pourra être doublée en cas de récidive.
+Sera puni des mêmes peines celui qui, quelle que soit sa nationalité, aura commis le délit défini au premier alinéa du présent paragraphe alors qu'il se trouvait sur le territoire d'un Etat partie à la convention signée à Schengen le 19 juin 1990 autre que la France.
+
+Sera puni des mêmes peines celui qui, alors qu'il se trouvait en France, aura facilité ou tenté de faciliter l'entrée, la circulation ou le séjour irréguliers d'un étranger sur le territoire d'un autre Etat partie à la convention signée à Schengen le 19 juin 1990. Les poursuites ne pourront être exercées à son encontre que sur une dénonciation officielle ou sur une attestation des autorités compétentes de l'Etat partie concerné.
+
+Aucune poursuite ne pourra être exercée contre une personne justifiant qu'elle a été jugée définitivement à l'étranger pour les mêmes faits et, en cas de condamnation, que la peine a été subie ou prescrite.
+
+II. - En cas de condamnation pour l'une des infractions visées au I, le tribunal pourra en outre prononcer l'interdiction de séjour, ainsi que la suspension du permis de conduire pendant une durée de trois ans au plus. Cette durée pourra être doublée en cas de récidive.
 
 Le tribunal pourra également prononcer le retrait temporaire ou définitif de l'autorisation administrative d'exploiter soit des services occasionnels à la place ou collectifs, soit un service régulier ou un service de navettes de transports internationaux.
 
@@ -10,7 +16,7 @@ Tout véhicule ayant servi à commettre l'infraction par voie terrestre, fluvial
 
 Le tribunal pourra également prononcer l'interdiction d'exercer directement ou par personne interposée, pendant une durée maximum de cinq ans, l'activité professionnelle à l'occasion de laquelle l'infraction a été commise.
 
-Toute violation de cette interdiction sera punie d'un emprisonnement de deux mois à deux ans et d'une amende de 2 000 F à 200 000 F, ou de l'une de ces deux peines seulement.
+Toute violation de cette interdiction sera punie d'un emprisonnement de deux ans et d'une amende de 200 000 F, ou de l'une de ces deux peines seulement.
 
 Le tribunal pourra aussi prononcer la confiscation de tout produit appartenant au condamné et provenant directement ou indirectement de l'infraction.
 

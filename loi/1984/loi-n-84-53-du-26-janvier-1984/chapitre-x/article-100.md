@@ -8,7 +8,7 @@ Les cotisations syndicales peuvent être collectées dans l'enceinte des bâtime
 
 Les collectivités et établissements employant au moins cinquante agents doivent mettre à la disposition des organisations syndicales représentatives, sur leur demande, des locaux à usage de bureau.
 
-Les centres de gestion calculent pour les collectivités et établissements obligatoirement affiliés les décharges d'activité de service et leur versent les rémunérations afférentes à ces décharges d'activité de service concernant l'ensemble des agents de ces collectivités et établissements. "
+Les centres de gestion calculent pour les collectivités et établissements obligatoirement affiliés les décharges d'activité de service et leur versent les charges salariales de toute nature afférentes à ces décharges d'activité de service concernant l'ensemble des agents de ces collectivités et établissements.
 
 Un décret en Conseil d'Etat détermine les conditions d'application des dispositions du présent article. Il fixe notamment les conditions et les limites dans lesquelles des décharges d'activité et des mises à disposition peuvent intervenir.
 
