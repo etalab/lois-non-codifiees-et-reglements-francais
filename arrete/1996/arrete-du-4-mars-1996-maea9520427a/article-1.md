@@ -16,8 +16,6 @@ a) Emplois de catégorie A :
 
 b) Emploi de catégorie B :
 
-- concours externe pour l'accès au corps des secrétaires administratifs d'administration centrale ;
-
 - concours externe pour l'accès au corps des secrétaires de chancellerie ;
 
 - concours externe d'accès au corps des chiffreurs du ministère des affaires étrangères.
