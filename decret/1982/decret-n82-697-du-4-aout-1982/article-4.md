@@ -48,6 +48,24 @@ La section nationale des anciens exploitants de la fédération nationale des sy
 
 La fédération nationale des associations de retraités de l'artisanat ;
 
-La confédération nationale des retraités des professions libérales.
+La confédération nationale des retraités des professions libérales ;
+
+La Confédération nationale des retraités civils et militaires ;
+
+La Fédération générale des retraités civils et militaires ;
+
+La Fédération nationale des clubs ruraux des aînés ;
+
+La Fédération FO des retraités et préretraités,
+
+sont remplacés respectivement par les noms :
+
+La Confédération nationale des retraités ;
+
+La Fédération générale des retraités de la fonction publique ;
+
+La Fédération nationale des clubs d'aînés ruraux ;
+
+L'Union confédérale des retraités FO.
 
 3° Huit personnes qualifiées désignées par le ministre soit à raison de la représentativité des associations ou organismes auxquels elles appartiennent, soit à raison de leurs compétences dans le domaine des personnes âgées.
