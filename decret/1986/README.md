@@ -138,7 +138,6 @@
 - [Décret n°86-1032 du 11 septembre 1986](decret-n86-1032-du-11-septembre-1986)
 - [Décret n°86-1268 du 11 décembre 1986](decret-n86-1268-du-11-decembre-1986)
 - [Décret n°86-1280 du 11 décembre 1986](decret-n86-1280-du-11-decembre-1986)
-- [Décret n°86-199 du 11 février 1986](decret-n86-199-du-11-fevrier-1986)
 - [Décret n°86-201 du 11 février 1986](decret-n86-201-du-11-fevrier-1986)
 - [Décret n°86-208 du 11 février 1986](decret-n86-208-du-11-fevrier-1986)
 - [Décret n°86-364 du 11 mars 1986](decret-n86-364-du-11-mars-1986)
