@@ -43,6 +43,7 @@
 - [Décret n°82-393 du 10 mai 1982](decret-n82-393-du-10-mai-1982)
 - [Décret n°82-164 du 11 février 1982](decret-n82-164-du-11-fevrier-1982)
 - [Décret n°82-498 du 11 juin 1982](decret-n82-498-du-11-juin-1982)
+- [Décret n°82-509 du 11 juin 1982](decret-n82-509-du-11-juin-1982)
 - [Décret n°82-405 du 11 mai 1982](decret-n82-405-du-11-mai-1982)
 - [Décret n°82-416 du 11 mai 1982](decret-n82-416-du-11-mai-1982)
 - [Décret n°82-248 du 12 mars 1982](decret-n82-248-du-12-mars-1982)
