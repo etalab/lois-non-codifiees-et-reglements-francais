@@ -4,7 +4,9 @@ Les conditions de réalisation, d'aménagement et d'exploitation des ouvrages ou
 
 Ces prescriptions tiennent compte, d'une part, des éléments énumérés à l'article 2 de la loi du 3 janvier 1992 susvisée, explicités par les schémas directeurs et les schémas d'aménagement et de gestion des eaux mentionnés aux articles 3 et 5 de la loi du 3 janvier 1992 susvisée et, le cas échéant, des objectifs de qualité définis par le décret du 19 décembre 1991 susvisé et, enfin, de l'efficacité des techniques disponibles et de leur économie.
 
-" En ce qui concerne les ouvrages de collecte et de traitement des eaux mentionnés dans le décret n°    du    relatif à la collecte et au traitement des eaux usées mentionnés aux articles L. 372-1-1 et L. 372-3 du code des communes, les prescriptions permettent la réalisation, s'il y a lieu, échelonnée dans le temps, des objectifs fixés par l'arrêté pris en vertu de l'article 15 de ce décret et respectent les obligations résultant des articles 19 à 21 et 8 à 13 du même décret. "
+En ce qui concerne les ouvrages de collecte et de traitement des eaux mentionnés dans le décret n°    du    relatif à la collecte et au traitement des eaux usées mentionnés aux articles L. 372-1-1 et L. 372-3 du code des communes, les prescriptions permettent la réalisation, s'il y a lieu, échelonnée dans le temps, des objectifs fixés par l'arrêté pris en vertu de l'article 15 de ce décret et respectent les obligations résultant des articles 19 à 21 et 8 à 13 du même décret.
+
+En ce qui concerne les opérations mentionnées aux articles L. 232-3 et L. 232-9 du code rural, les prescriptions comportent les précisions exigées par les articles R. 232-1 et R. 232-2 du même code.
 
 Pour les installations soumises à des règles techniques fixées par un arrêté ministériel pris en application des décrets prévus aux articles 8 et 9 de la loi du 3 janvier 1992 susvisée, l'arrêté d'autorisation peut créer des modalités d'application particulières de ces règles.
 
