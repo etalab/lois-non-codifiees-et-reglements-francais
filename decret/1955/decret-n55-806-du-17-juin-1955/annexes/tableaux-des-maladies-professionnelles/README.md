@@ -12,6 +12,7 @@
 - [5° Leptospiroses professionnelles](5-leptospiroses-professionnelles)
 - [6° Brucelloses](6-brucelloses)
 - [6° Brucelloses professionnelles](6-brucelloses-professionnelles)
+- [7° Tularémie](7-tularemie)
 - [7° Tularémie professionnelle](7-tularemie-professionnelle)
 - [8° Sulfocarbonisme professionnel](8-sulfocarbonisme-professionnel)
 - [25° Dermatoses professionnelles consécutives à l'emploi de lubrifiants et de fluides de refroidissement](25-dermatoses-professionnelles-consecutives-a)
