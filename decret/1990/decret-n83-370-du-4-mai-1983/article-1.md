@@ -89,3 +89,7 @@ Siège de la chambre régionale des comptes : Nantes.
 Région et territoires
 
 Siège de la chambre régionale ou territoriale des    comptes : Nouméa.
+
+Région et territoires
+
+Siège de la chambre régionale ou territoriale des    comptes : Polynésie Française : Papeete
