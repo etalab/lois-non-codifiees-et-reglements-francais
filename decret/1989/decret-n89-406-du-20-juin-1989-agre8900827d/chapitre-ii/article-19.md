@@ -1,0 +1,3 @@
+# Article 19
+
+En cas d'inspection pédagogique défavorable, éventuellement renouvelée comme il est dit à l'article 17, ou en cas de second échec aux épreuves pratiques des premiers concours prévus aux articles 12 et 13, le contrat est caduc [*délai*] au plus tard au terme de l'année scolaire en cours ; les enseignants concernés ne peuvent plus ensuite enseigner dans une classe sous contrat de l'enseignement agricole. En cas de second échec aux épreuves pratiques des seconds concours prévus aux articles 12 et 13, les enseignants sont reclassés dans leur catégorie antérieure en tenant compte de l'ancienneté acquise.
