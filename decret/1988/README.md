@@ -114,6 +114,7 @@
 - [Décret n°88-995 du 14 octobre 1988 (AGRE8801503D)](decret-n88-995-du-14-octobre-1988-agre8801503d)
 - [Décret n°88-1124 du 15 décembre 1988 (EQUX8800145D)](decret-n88-1124-du-15-decembre-1988-equx8800145d)
 - [Décret n°88-145 du 15 février 1988 (INTB8800027D)](decret-n88-145-du-15-fevrier-1988-intb8800027d)
+- [Décret n°88-146 du 15 février 1988 (RESX8800006D)](decret-n88-146-du-15-fevrier-1988-resx8800006d)
 - [Décret n°88-154 du 15 février 1988 (INTA8800040D)](decret-n88-154-du-15-fevrier-1988-inta8800040d)
 - [Décret n°88-368 du 15 avril 1988 (ASEF8803198D)](decret-n88-368-du-15-avril-1988-asef8803198d)
 - [Décret n°88-45 du 15 janvier 1988 (ASEA8701666D)](decret-n88-45-du-15-janvier-1988-asea8701666d)

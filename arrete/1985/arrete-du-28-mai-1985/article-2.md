@@ -52,4 +52,4 @@ Un représentant du syndicat interprofessionnel des fabricants et distributeurs 
 
 Un représentant de la ligue française des droits de l'animal ;
 
-Un représentant du Conseil national de la protection animale.    Un représentant de la fédération nationale des syndicats d'exploitants agricoles.
+Un représentant du Conseil national de la protection animale.    Un représentant, désigné par le ministre de l'agriculture et de la forêt, de chacune des organisations syndicales à vocation générale d'exploitants agricoles habilitées en application de l'article 3 du décret n° 90-187 du 28 février 1990.

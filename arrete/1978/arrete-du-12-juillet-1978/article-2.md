@@ -32,11 +32,7 @@ Représentants des professionnels :
 
 - Deux représentants de l'assemblée permanente des chambres d'agriculture dont l'un au titre des établissements de l'élevage.
 
-- Un représentant de la fédération nationale des syndicats d'exploitants agricoles.
-
-- Un représentant du centre national des jeunes agriculteurs.
-
-- Le président de la fédération nationale de la coopération agricole Bétail et viande ou son représentant.
+- Le président, ou son représentant, de chacune des organisations syndicales à vocation générale d'exploitants agricoles habilitées en application de l'article 3 du décret n° 90-187 du 28 février 1990.    - Le président de la fédération nationale de la coopération agricole Bétail et viande ou son représentant.
 
 - Le président de la confédération nationale de l'élevage ou son représentant.
 

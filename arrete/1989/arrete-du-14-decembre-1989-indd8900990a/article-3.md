@@ -10,7 +10,7 @@ Q/200 ; 3 puissance 3 c/ Q
 
 Ce nombre ne pourra toutefois en aucun cas être inférieur à 20.
 
-c) Chaque bouteille porte les lettres ED entourées d'un cercle, insculpées dans le métal même à proximité de la date de la dernière épreuve subie. Cette marque est apposée après que les résultats de l'essai prévu ci-dessus ont été reconnus satisfaisants ;
+c) Chaque bouteille porte les lettres ED entourées d'un cercle, insculpées dans le métal même à proximité des marques d'identité définies par l'article 4 du décret du 18 janvier 1943 susvisé. Cette marque est apposée après que les résultats de l'essai prévu ci-dessus réalisé pour la première fois, ont été reconnus satisfaisants ;
 
 d) L'essai précité est répété sur un échantillon de même effectif prélevé de la même manière tous les dix ans ;
 
