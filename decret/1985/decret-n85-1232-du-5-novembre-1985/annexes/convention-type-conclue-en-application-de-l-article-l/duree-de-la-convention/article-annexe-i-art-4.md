@@ -2,7 +2,7 @@
 
 Le prix mensuel du loyer maximum visé au 2°, b, de l'article R. 353-16, et à l'article 4 du décret n° 85-1232 du 5 novembre 1985 est fixé à ... F le mètre carré et à ... F le mètre carré pour les logements sur lesquels la convention prévoit de faire porter l'impact du financement très social.
 
-Le loyer maximum est révisable chaque année, le 1er juillet, en fonction de la variation annuelle de l'indice du coût de la construction publié par l'I.N.S.E.E.. La date de référence de l'indice est celle du quatrième trimestre de l'année précédente.
+Le loyer maximum est révisé chaque année, le 1er juillet, dans les conditions prévues à l'article 17 d de la loi n° 89-462 du 6 juillet 1989 modifiée.
 
 Dans la limite du loyer maximum et des dispositions prises en application du titre IV de la loi n° 82-526 du 22 juin 1982, le loyer pratiqué peut être majoré au plus de ... p. 100 par an ; les majorations peuvent intervenir le 1er janvier et le 1er juillet de chaque année.
 
