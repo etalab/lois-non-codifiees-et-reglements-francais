@@ -1,23 +1,13 @@
 # Article DF 6
 
-Désenfumage des circulations horizontales encloisonnées et des halls accessibles au public
+Désenfumage mécanique
 
-§ 1. Pour limiter ou éviter l'enfumage des circulations horizontales encloisonnées, celles-ci sont désenfumées par un balayage naturel ou mécanique. Ce désenfumage n'est cependant obligatoire que dans les cas suivants :
+§ 1. Le désenfumage par tirage mécanique est assuré par des extractions mécaniques de fumées et des amenées d'air naturelles ou mécaniques disposées de manière à assurer un balayage du volume à désenfumer.
 
-- circulations de longueur totale supérieure à 30 mètres ;
+Ce balayage peut être complété par une mise en surpression relative des espaces à protéger des fumées.
 
-- circulations desservies par des escaliers mis en surpression ;
+§ 2. Les amenées d'air naturelles sont réalisées suivant les dispositions du paragraphe 3 de l'article DF 5.
 
-- circulations desservant des locaux réservés au sommeil ;
+Les extractions et amenées d'air mécaniques sont réalisées au moyen de bouches reliées par des conduits à des ventilateurs et suivant les principes définis à l'article DF 2.
 
-- circulations situées en sous-sol.
-
-§ 2. Les halls, en application de l'article CO 34, § 1, sont considérés comme des circulations.
-
-Toutefois, ils sont désenfumés dans les conditions prévues pour les locaux lorsque l'une au moins des conditions ci-dessous est remplie :
-
-- le désenfumage des circulations horizontales du niveau concerné est exigé ;
-
-- leur superficie est supérieure à 300 m².
-
-§ 3. Exceptionnellement, les circulations horizontales peuvent être mises en surpression, à condition que tout local desservi par ces circulations soit désenfumable. Seul le local sinistré est désenfumé simultanément.
+§ 3. Un système de ventilation permanente (renouvellement d'air, chauffage ou conditionnement d'air) peut être utilisé pour le désenfumage, dans la mesure où il répond aux principes du présent chapitre.
