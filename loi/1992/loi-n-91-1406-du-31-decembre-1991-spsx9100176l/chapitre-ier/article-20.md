@@ -1,0 +1,3 @@
+# Article 20
+
+A compter du 1er janvier 1992, par dérogation, aux dispositions de l'article 10 de la loi n° 86-966 du 18 août 1986 portant diverses mesures relatives au financement des retraites et pensions, la mention des cotisations patronales de sécurité sociale, d'origine législative, réglementaire ou conventionnelle, n'est pas obligatoire sur les bulletins de paie des salariés liés par contrats conclus par une personne physique pour un service rendu à son domicile, non plus que pour l'emploi par ladite personne d'une assistante maternelle agréée. Le montant de l'ensemble des cotisations figurera en fin de trimestre sur le document récapitulatif établi par l'organisme de recouvrement, en vue du paiement de ces cotisations.

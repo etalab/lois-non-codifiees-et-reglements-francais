@@ -1,0 +1,3 @@
+# Article 42
+
+Les associations régulièrement déclarées depuis au moins cinq ans à la date des faits, se proposant par leurs statuts la sauvegarde de tout ou partie des intérêts visés à l'article 2, peuvent exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction aux dispositions de cette loi ou des textes pris pour leur application et portant un préjudice direct ou indirect aux intérêts collectifs que ces associations ont pour objet de défendre.

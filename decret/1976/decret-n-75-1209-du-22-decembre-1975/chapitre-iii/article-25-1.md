@@ -1,9 +1,13 @@
 # Article 25-1
 
-A titre exceptionnel, et par dérogation aux dispositions des articles 15, 16, 17, 18-1 et 20 ci-dessus, les officiers de gendarmerie grièvement blessés dans l'exercice de leurs fonctions de police administrative ou de police judiciaire peuvent, après avis de la commission prévue à l'article 19 précédent, être promus au grade immédiatement supérieur ou recevoir, pour l'avancement d'échelon, une bonification leur permettant d'atteindre l'un des échelons supérieurs de leur grade.
+A titre exceptionnel et nonobstant toutes dispositions contraires du présent statut, les officiers de gendarmerie peuvent, après avis de la commission prévue à l'article 19 ci-dessus, être promus à l'un des échelons supérieurs de leur grade ou au grade immédiatement supérieur :
 
-Les mêmes dispositions peuvent être appliquées, à titre posthume, aux officiers de gendarmerie mortellement blessés dans l'exercice des mêmes fonctions.
+a) S'ils ont accompli un acte de bravoure dûment constaté au cours d'une opération de police ;
 
-Les officiers qui doivent faire l'objet d'une promotion sont, s'ils n'y figurent déjà, inscrits à la suite du tableau d'avancement de l'année en cours. En cas de décès, ils sont promus à la date de celui-ci. Le surnombre éventuellement créé par une promotion de grade accordée en application du présent article doit être résorbé à la première vacance.
+b) S'ils ont été grièvement ou mortellement blessés dans l'exercice de leurs fonctions de police administrative ou de police judiciaire.
 
-La bonification de temps d'échelon n'est pas prise en compte pour l'avancement de grade.
+Les officiers qui doivent faire l'objet d'une promotion en vertu des dispositions qui précèdent sont, s'ils n'y figurent déjà, inscrits à la suite du tableau d'avancement de l'année en cours. En cas de décès, ils sont promus à la date de celui-ci.
+
+Les promotions et les nominations prononcées en application des dispositions du présent article doivent, en tout état de cause, conduire à attribuer aux intéressés un indice supérieur à celui qui était le leur avant ces promotions ou nominations.
+
+Les surnombres en résultant sont résorbés aux premières vacances.

@@ -1,0 +1,3 @@
+# Article 8
+
+Les personnels ingénieurs, techniciens, administratifs et agents de service employés par l'Association française pour le dépistage et la prévention des handicaps de l'enfant et par les centres régionaux d'étude de biologie prénatale qui, lors de la publication de la présente loi, participent dans les établissements publics de santé aux actes de cytogénétique prénatale peuvent, à leur demande et dans les conditions fixées par l'article 102 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière, être intégrés, selon des modalités définies par décret en Conseil d'Etat, dans l'un des corps régis par ladite loi.

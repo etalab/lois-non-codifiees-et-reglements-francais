@@ -1,0 +1,3 @@
+# Article 34
+
+Sous réserve des décisions de justice devenues définitives, sont validés les appels de cotisations, techniques et complémentaires, d'assurance maladie, maternité, invalidité, d'assurance vieillesse, de prestations familiales et de solidarité, dues au régime de protection sociale des personnes non salariées des professions agricoles, ainsi que les cotisations complémentaires d'assurances sociales agricoles, effectués par la caisse de mutualité sociale agricole et le groupement des assureurs maladie des exploitants agricoles pour les années 1979 à 1991 incluses, dans le département des Bouches-du-Rhône, en tant qu'ils sont fondés sur les arrêtés préfectoraux fixant l'assiette et le taux desdites cotisations.

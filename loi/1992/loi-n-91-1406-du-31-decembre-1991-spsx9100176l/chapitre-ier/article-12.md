@@ -1,0 +1,11 @@
+# Article 12
+
+Une contribution exceptionnelle égale à 1,2 p. 100 d'une assiette constituée par le chiffre d'affaires hors taxes réalisé en France d'octobre 1991 à septembre 1992 auprès des pharmacies d'officines au titre des spécialités inscrites sur la liste mentionnée à l'article L. 162-17 du code de la sécurité sociale est due par les établissements de vente en gros de spécialités pharmaceutiques.
+
+La remise due par chaque établissement est recouvrée par l'Agence centrale des organismes de sécurité sociale, assistée, en tant que de besoin, par les unions de recouvrement des cotisations de sécurité sociale et d'allocations familiales et les caisses générales de sécurité sociale des départements d'outre-mer selon les règles et sous les garanties applicables au recouvrement des cotisations du régime général de sécurité sociale, avant le 31 mars 1992 pour ce qui concerne le chiffre d'affaires du dernier trimestre 1991, avant le 30 juin 1992 pour ce qui concerne le chiffre d'affaires du premier trimestre 1992, avant le 30 septembre 1992 pour ce qui concerne le chiffre d'affaires du deuxième trimestre 1992, et avant le 31 décembre 1992 pour ce qui concerne le chiffre d'affaires du troisième trimestre 1992. La contribution est recouvrée comme une cotisation de sécurité sociale. Son produit est réparti entre les régimes d'assurance maladie, suivant une clé de répartition fixée par arrêté interministériel.
+
+Pour la période du 1er janvier au 31 décembre 1992, les remises, ristournes et avantages commerciaux et financiers assimilés de toute nature consentis par tous les fournisseurs d'officine de spécialités pharmaceutiques remboursables ne peuvent excéder par mois et par ligne de produits et pour chaque officine 2,5 p. 100 du prix de ces spécialités.
+
+Ce plafonnement sera suspendu en cas de conclusion d'un code de bonnes pratiques commerciales entre les organisations représentatives des établissements de vente en gros de spécialités pharmaceutiques et celles des pharmaciens d'officine avant le 1er mars 1992.
+
+Une part de la contribution exceptionnelle mentionnée au premier alinéa alimentera un fonds d'entraide de l'officine dont les modalités de gestion sont fixées par décret en Conseil d'Etat.

@@ -32,7 +32,7 @@ Montant brut mensuel de l'indemnité de sujétions particulières :
 
 - pour les 2e, 3e et 4e semestres : 1 946; 1 965
 
-IV. - Taux de la rémunération des étudiants effectuant une année recherche : 119 245;120 429
+IV. - Taux de la rémunération des étudiants effectuant une année recherche : 119 233;120 417
 
 V. - Taux annuel des indemnités allouées aux étudiants hospitaliers :
 
