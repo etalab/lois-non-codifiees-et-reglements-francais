@@ -6,8 +6,6 @@ II. - Le permis de navigation est délivré pour une durée d'un an au plus, apr
 
 III. - Le permis de navigation est renouvelé au moins une fois par an, à l'issue d'une visite, par le président de la commission de visite annuelle.
 
-IV. - Les navires de plaisance d'une longueur inférieure à douze mètres, à l'exception des navires de plaisance à utilisation collective et des navires loués, ne sont pas soumis à l'obligation de de détenir un permis de navigation, ni à celle de la visite annuelle.
+IV. - Les navires de plaisance d'une longueur inférieure à vingt-cinq mètres, à l'exception des navires de plaisance à utilisation collective et des navires loués, ne sont pas soumis à l'obligation de détenir un permis de navigation ni à celle de la visite annuelle.
 
-Cependant, une visite spéciale doit être demandée soit par le propriétaire, soit par le loueur, avant toute mutation de propriété, tout changement de catégorie de navigation ou toute transformation.
-
-V. - La catégorie de navigation est mentionnée sur le permis de navigation ou, à défaut, sur le titre de navigation en tenant lieu.
+Tout navire de plaisance de série doit être conforme à un modèle approuvé par le ministre chargé de la marine marchande. Les navires de plaisance construits à l'unité sont approuvés par le chef de centre de sécurité des navires.
