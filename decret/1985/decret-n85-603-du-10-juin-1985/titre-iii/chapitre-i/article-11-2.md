@@ -1,0 +1,3 @@
+# Article 11-2
+
+Le médecin du service de médecine professionnelle et préventive exerce son activité médicale, en toute indépendance et dans le respect des dispositions du code de déontologie médicale et du code de la santé publique. Ce médecin ne peut être chargé des visites d'aptitude physique prévues à l'article 10 du décret n° 87-602 du 30 juillet 1987 pris pour l'application de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale et relatif à l'organisation des comités médicaux, aux conditions d'aptitude physique et au régime des congés de maladie des fonctionnaires territoriaux. Il ne peut être médecin de contrôle.

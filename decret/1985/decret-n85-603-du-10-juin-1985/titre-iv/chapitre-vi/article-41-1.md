@@ -1,0 +1,3 @@
+# Article 41-1
+
+Le comité peut demander à l'autorité territoriale de faire appel à un expert agréé dans les conditions de l'article R. 236-40 du code du travail**(1)**en cas de risque grave, révélé ou non par un accident de service, ou de maladie à caractère professionnel. Les frais d'expertise sont supportés par la collectivité territoriale ou l'établissement dont relève l'organisme compétent. L'autorité territoriale fournit à l'expert les informations nécessaires à sa mission. Ce dernier est soumis à l'obligation de discrétion. La décision de l'autorité territoriale refusant la désignation d'un expert sollicitée par le comité doit être motivée.
