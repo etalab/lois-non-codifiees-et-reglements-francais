@@ -6,17 +6,17 @@ En outre, les décrets de définition des conditions de production pris en vertu
 
 Les vins de pays sont produits à partir de raisins récoltés dans un département ou une zone de production définie conformément à l'article 5 du décret du 13 septembre 1968 susvisé et vinifiés dans ce même département ou cette même zone ainsi que dans leurs cantons limitrophes.
 
-Les vins de pays sont produits sur des superficies uniquement complantées en cépages recommandés, dans la limite d'un rendement à l'hectare n'excédant pas 90 hectolitres.
-
-Toutefois ce rendement à l'hectare peut atteindre 99 hectolitres sous réserve que les quantités excédentaires ne soient pas vinifiées.
+Les vins de pays sont produits sur des superficies uniquement complantées en cépages recommandés, dans la limite d'un rendement à l'hectare de 85 hectolitres pour les vins rouges et rosés et de 90 hectolitres pour les vins blancs. Toutefois, ce rendement à l'hectare peut atteindre 90 hectolitres pour les vins rouges et rosés sous réserve que les quantités produites au-delà de 85 hectolitres ne soient pas vinifiées.
 
 Les décrets relatifs aux vins de pays de zone peuvent fixer des conditions plus restrictives.
 
-Pour les exploitations produisant à la fois des vins de pays et/ou des vins à appellation d'origine et/ou des vins de table, sans préjudice des dispositions du décret du 10 septembre 1993 susvisé, le rendement à l'hectare des superficies aptes à produire des vins de table est limité à 100 hectolitres, pouvant atteindre 110 hectolitres sous réserve que les quantités excédentaires ne soient pas vinifiées.
+Pour les exploitations produisant à la fois des vins de pays et des vins de table, le rendement à l'hectare des superficies aptes à produire des vins de table est limité à 90 hectolitres. Toutefois, ce rendement peut être porté à 100 hectolitres sous réserve que les quantités produites au-delà de 90 hectolitres ne soient pas vinifiées.
 
-Pour les superficies complantées en cépages double fin, le rendement des superficies produisant des vins de table est limité à 130 hectolitres pour la récolte 2000 puis à 120 hectolitres pour la récolte 2001, pour passer à 110 hectolitres à partir de la récolte 2002.
+Pour les superficies complantées en cépages double fin, le rendement à l'hectare des superficies aptes à produire des vins de table est limité à 110 hectolitres.
 
-Les parcelles en première feuille, plantées postérieurement au 31 juillet de l'année précédant celle de la récolte, sont réputées sans production de vin de pays.
+Sur les superficies de jeunes vignes en première et deuxième feuille, c'est-à-dire l'année de leur plantation avant le 31 juillet et l'année suivante, il ne peut être produit aucun produit vitivinicole.
+
+Lorsque les conditions climatiques exceptionnelles l'ont rendu nécessaire, les limites de rendement des superficies revendiquées en vin de pays peuvent être modifiées par arrêté du ministre chargé de l'économie et du ministre chargé de l'agriculture, après avis du conseil de direction de l'Office national interprofessionnel des vins sur proposition du conseil spécialisé pour les vins de pays.
 
 Ces vins doivent présenter un titre alcoométrique volumique naturel total supérieur ou égal à 9 % pour les vins produits dans la zone viticole B, à 9,5 % pour les vins produits dans la zone viticole C 1, et à 10 % pour les vins produits dans les zones viticoles C II et C III.
 
