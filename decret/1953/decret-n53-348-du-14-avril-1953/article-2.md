@@ -1,0 +1,3 @@
+# Article 2
+
+La rente à imputer sur la pension ou la rente du régime général des assurances sociales, en application de l'article 6 (par. 3) du décret du 2 juin 1944, de l'article 12 (par. 2) du décret n° 50-132 du 20 janvier 1950 modifié ou de l'article 5 (par. 2) du décret n° 50-133 du 20 janvier 1950, est réputée équivalente à 10 p. 100 du montant des cotisations d'assurance vieillesse qui auraient été acquittées sous le régime général, pour le compte de l'intéressé, pendant la période où il a été soumis, postérieurement au 30 juin 1930, à un régime spécial de retraites comportant l'affiliation à la caisse nationale des retraites pour la vieillesse.

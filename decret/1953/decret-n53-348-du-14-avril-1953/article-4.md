@@ -1,0 +1,5 @@
+# Article 4
+
+Lorsque les versements prévus à l'article 6 (par. 2) du décret du 2 juin 1944, concernant un assuré ayant cessé d'être affilié à son régime spécial de retraites avant le 29 janvier 1950, n'ont pas été effectués à la date de publication du présent décret, la somme à verser par ledit régime spécial est réputée équivalente au montant des cotisations qui auraient été acquittées pour le compte de l'intéressé au titre de l'assurance vieillesse sous le régime général des assurances sociales, pendant la période où il a été soumis à son régime de retraites postérieurement au 30 juin 1930.
+
+Pour les périodes au cours desquelles la rémunération de l'intéressé était supérieure au chiffre limite d'assujettissement aux assurances sociales en vigueur, le versement prévu au précédent alinéa est égal au montant des cotisations qui auraient été acquittées, pendant les mêmes périodes, au titre de l'assurance vieillesse, pour le compte d'un travailleur dont la rémunération aurait été égale au chiffre limite d'assujettissement.
