@@ -1,3 +1,3 @@
 # Article 1
 
-Les SICAV peuvent employer plus de 10 p. 100 de leurs actifs en valeurs de l'Etat, en titres jouissant de sa garantie, en obligations émises par des collectivités locales ou leurs groupements ou jouissant de leur garantie, ou émises par la Société nationale des chemins de fer français, Electricité de France, Gaz de France, la Compagnie nationale du Rhône, la caisse nationale de l'énergie, Charbonnages de France, la Régie autonome des transports parisiens, la caisse nationale des autoroutes, la caisse nationale des télécommunications, le Crédit national, la caisse centrale de crédit hôtelier, la caisse centrale de coopération économique, le Crédit foncier de France.
+L'effectif de la commission technique d'orientation et de reclassement professionnel est doublé dans les départements du Nord et du Rhône.
