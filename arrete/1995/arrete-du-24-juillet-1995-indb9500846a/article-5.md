@@ -1,0 +1,3 @@
+# Article 5
+
+Registre d'avancement. - Le registre d'avancement prescrit à l'article 1er mentionne notamment la méthode d'exploitation et, à leur date, l'ouverture et le degré d'avancement des travaux, les variations d'allure du gîte, le jaugeage des eaux, la situation, la nature et l'importance des dégagements de gaz, les incendies ou feux, ou les mesures prises pour les combattre, les circonstances et conditions de la fermeture des puits, galeries ou quartiers et, d'une façon générale, la situation, la nature et l'importance des incidents portés à la connaissance du directeur régional de l'industrie, de la recherche et de l'environnement.
