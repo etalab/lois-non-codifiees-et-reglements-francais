@@ -22,7 +22,9 @@ D. - Campagnes d'éducation pour la santé et actions de prévention dans les do
 
 5. Sida ;
 
-6. Suicide.
+6. Suicide ;
+
+7. Dorsalgie.
 
 E. - Actions d'incitation à la vaccination contre la rougeole, les oreillons et la rubéole selon les recommandations du calendrier vaccinal.
 
@@ -43,3 +45,9 @@ A. - Programme de dépistage des cancers :
 B. - Campagne de dépistage bucco-dentaire en concertation avec l'inspection de la santé et les services de la médecine scolaire. Les moyens mis en oeuvre comportent une action renforcée en direction des enfants des familles présumées en situation de précarité.
 
 C. - Prise en charge d'une consultation d'orientation en faveur des bénéficiaires du revenu minimum d'insertion, notamment ceux à la recherche d'un emploi depuis plus d'un an.
+
+D. - Prise en charge du diabète non insulino-dépendant ;
+
+E. - Dépistage de l'hépatite C ;
+
+F. - Projets régionaux de santé.
