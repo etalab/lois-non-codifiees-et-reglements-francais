@@ -58,7 +58,6 @@
 - [Arrêté du 4 avril 1989 (MENU8900775A)](arrete-du-4-avril-1989-menu8900775a)
 - [Arrêté du 4 avril 1989 (SPSS8900773A)](arrete-du-4-avril-1989-spss8900773a)
 - [Arrêté du 4 avril 1989 (TEFE8903317A)](arrete-du-4-avril-1989-tefe8903317a)
-- [Arrêté du 4 janvier 1989 (BUDB8860091A)](arrete-du-4-janvier-1989-budb8860091a)
 - [Arrêté du 4 juillet 1989 (BUDR8905033A)](arrete-du-4-juillet-1989-budr8905033a)
 - [Arrêté du 4 mars 1989 (SPSG8900404A)](arrete-du-4-mars-1989-spsg8900404a)
 - [Arrêté du 5 avril 1989 (EQUA8900340A)](arrete-du-5-avril-1989-equa8900340a)
