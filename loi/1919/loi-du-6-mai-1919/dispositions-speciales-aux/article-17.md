@@ -26,6 +26,6 @@ L'acheteur de bonne foi ne saurait être inquiété au cas de livraison par un r
 
 La déclaration de récolte doit indiquer le poids des vendanges et l'appellation d'origine "champagne" ne peut être appliquée à une quantité de vin supérieure à un hectolitre par cent cinquante kilos de vendanges.
 
-Les vins autres que ceux logés en bouteilles et complètement manutentionnés introduits chez les fabricants, dans les magasins spéciaux prévus à l'article 16 de la loi du 6 mai 1919, sont pris en charge, à raison de 97,50 % de leur volume, au compte de l'appellation d'origine "champagne" et, pour le surplus, à un compte sans appellation d'origine.
+Les vins autres que ceux logés en bouteilles et complètement manutentionnés introduits chez les fabricants, dans les magasins spéciaux prévus à l'article 16 de la loi du 6 mai 1919, sont pris en charge, à raison de 98,50 % de leur volume, au compte de l'appellation d'origine "champagne" et, pour le surplus, à un compte sans appellation d'origine.
 
 Le contrôle est assuré par les inspecteurs et agents du service de la répression des fraudes, ainsi que par les fonctionnaires des contributions indirectes.
