@@ -1,3 +1,0 @@
-# Annexes
-
-- [Annexe](annexe)
