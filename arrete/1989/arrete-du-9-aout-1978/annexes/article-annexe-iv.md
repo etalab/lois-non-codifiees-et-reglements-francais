@@ -156,9 +156,7 @@ NF C 23 539, octobre 1981 (1) :
 
 Tableau 3 : Normes françaises homologuées d'après lesquelles un certificat de conformité peut être délivré.
 
-Titre de la norme, numéro de la norme et date d'homologation.
-
-Matériel électrique pour atmosphères explosibles :
+Titre de la norme, numéro de la norme et date de prise d'effet.    I. - Matériel électrique pour atmosphères explosibles :
 
 - Règles générales :
 
@@ -200,25 +198,37 @@ NF C 23 519 (mai 1982), à jour de :
 
 - additif 3 (juillet 1986).
 
-- Sécurité intrinsèque "i" :
+- Encapsulage "m" :
+
+NF EN 50 028 (numéro de classement : C 23 528) (décembre 1987).    - Sécurité intrinsèque "i" :
 
 NF C 23 520 (mai 1982), à jour de :
 
 - additif 2 (juillet 1986).
 
-- Systèmes électriques de sécurité intrinsèque :
+- Systèmes électriques de sécurité intrinsèque "i" :
 
-NF C 23 539, (octobre 1981) :
+NF C 23 539, (octobre 1981).
 
-- Encapsulage "m" :
+II. - Modes de protection particuliers :
 
-NF EN 50 028 (numéro de classement : C 23 528) (décembre 1987).
+- Matériel électrique pour atmosphères explosibles, équipement manuel de projection électrostatique :
 
-Tableau 4 : Normes européennes "normes harmonisées" d'après lesquelles un certificat de conformité peut être délivré.
+NF C 23 550 (décembre 1986).
 
-Titre de la norme, numéro de la norme et date d'homologation.
+- Règles de sélection, d'installation et d'utilisation des équipements de projection électrostatique pour produits inflammables :
 
-Matériel électrique pour atmosphères explosibles :
+- pistolets manuels de projection électrostatique de peinture avec une énergie limite de 0,24 mJ et leur matériel associé :
+
+NF EN 50 053, partie 1 (numéro de classement : NF C 23-553, partie 1) (septembre 1987).
+
+NB. - Les paragraphes de la norme NF EN 50 053, partie 1, qui sont visés sont les paragraphes concernant la construction du matériel.
+
+Tableau 4 : Normes européennes (normes harmonisées) d'après lesquelles un certificat de conformité peut être délivré.
+
+Titre de la norme, numéro de la norme et date de la norme.
+
+I. - Matériel électrique pour atmosphères explosibles :
 
 - Règles générales :
 
@@ -272,6 +282,10 @@ EN 50 019 (1ère édition) (mars 1977), à jour de :
 
 - ammendement 3 (décembre 1985).
 
+- Encapsulage "m" :
+
+NF EN 50 028 (1ère édition) (février 1987).
+
 - Sécurité intrinsèque "i" :
 
 EN 50 020 (1ère édition) (mars 1977), à jour de :
@@ -279,3 +293,29 @@ EN 50 020 (1ère édition) (mars 1977), à jour de :
 - ammendement 1 (juillet 1979).
 
 - ammendement 2 (décembre 1985).
+
+- Systèmes électriques de sécurité intrinsèque "i" :
+
+NF C 23 539 (mars 1980).
+
+II. - Modes de protection particuliers :
+
+- Matériel électrique pour atmosphères explosibles, équipement manuel de projection électrostatique :
+
+EN 50 050 (janvier 1986).
+
+- Règles de sélection, d'installation et d'utilisation des équipements de projection électrostatique pour produits inflammables :
+
+- pistolets manuels de projection électrostatique de peinture avec une énergie limite de 0,24 mJ et leur matériel associé :
+
+EN 50 053-1 (février 1987) (1).
+
+- pistolets manuels de projection électrostatique de poudre avec une énergie limite de 5 mJ et leur matériel associé :
+
+EN 50 053-2 (juin 1989) (1).
+
+- pistolets manuels de projection électrostatique de flock avec une énergie limite de 0,24 mJ et leur matériel associé :
+
+EN 50 053-3 (juin 1989) (1).
+
+(1) Seuls les paragraphes relatifs à la construction du matériel dans ces normes sont d'application pour la délivrance des certificats.

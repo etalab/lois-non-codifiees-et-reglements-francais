@@ -15,3 +15,5 @@ Sécurité augmentée "e" ;
 Sécurité intrinsèque ;
 
 Encapsulage "m" ;
+
+et les modes de protection particuliers fixés par les normes mentionnées aux paragraphes II des tableaux 3 et 4 de l'annexe IV.
