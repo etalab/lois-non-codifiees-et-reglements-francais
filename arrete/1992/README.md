@@ -332,6 +332,7 @@
 - [Arrêté du 18 mars 1992 (TEFC9204536A)](arrete-du-18-mars-1992-tefc9204536a)
 - [Arrêté du 18 mars 1993 (SANH9300872A)](arrete-du-18-mars-1993-sanh9300872a)
 - [Arrêté du 18 mai 1990 (PTTA9000452A)](arrete-du-18-mai-1990-ptta9000452a)
+- [Arrêté du 18 mai 1992 (AGRB9202483A)](arrete-du-18-mai-1992-agrb9202483a)
 - [Arrêté du 18 mai 1992 (MENK9200063A)](arrete-du-18-mai-1992-menk9200063a)
 - [Arrêté du 18 mai 1992 (SANP9201136A)](arrete-du-18-mai-1992-sanp9201136a)
 - [Arrêté du 19 décembre 1991 (MCCB9100756A)](arrete-du-19-decembre-1991-mccb9100756a)
@@ -575,4 +576,4 @@
 - [Arrêté du 31 mars 1992 (PTTR9200184A)](arrete-du-31-mars-1992-pttr9200184a)
 - [Arrêté du 31 mars 1992 (RESY9200039A)](arrete-du-31-mars-1992-resy9200039a)
 - [Arrêté du 31 mars 1992 (SANH9200864A)](arrete-du-31-mars-1992-sanh9200864a)
-- [Arrêté du 31 mars 1992 (SPSS9200875A)](arrete-du-31-mars-1992-spss9200875a)
+- [Arrêté du 31 mars 1992 (SPSs9200875A)](arrete-du-31-mars-1992-spss9200875a)
