@@ -10,6 +10,8 @@
 - [Décret n°59-863 du 18 juillet 1959](decret-n59-863-du-18-juillet-1959)
 - [Décret n°59-878 du 18 juillet 1959](decret-n59-878-du-18-juillet-1959)
 - [Décret n°59-885 du 18 juillet 1959](decret-n59-885-du-18-juillet-1959)
+- [Décret n°59-1095 du 21 septembre 1959](decret-n59-1095-du-21-septembre-1959)
+- [Décret n°59-1096 du 21 septembre 1959](decret-n59-1096-du-21-septembre-1959)
 - [Décret n°59-1091 du 23 septembre 1959](decret-n59-1091-du-23-septembre-1959)
 - [Décret n°54-1304 du 27 décembre 1954](decret-n54-1304-du-27-decembre-1954)
 - [Décret n°59-285 du 27 janvier 1959](decret-n59-285-du-27-janvier-1959)
