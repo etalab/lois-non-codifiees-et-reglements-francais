@@ -1,6 +1,6 @@
 # Article 3
 
-Le financement des actions de formation continue au bénéfice des artisans, de leurs conjoints non salariés et de leurs auxiliaires familiaux est assuré par une majoration de la taxe pour frais de chambre de métiers. Des contributions de l'Etat, des régions et des collectivités territoriales peuvent compléter ce financement.
+Le financement des actions de formation continue des artisans, de leurs conjoints non salariés et de leurs auxiliaires familiaux est assuré par une contribution assise sur le montant annuel du plafond de la sécurité sociale en vigueur au 1er janvier de l'année d'imposition. Des contributions de l'Etat, des régions et des collectivités territoriales peuvent compléter ce financement.
 
 A cet effet, les deuxième, troisième et quatrième alinéas de l'article 1601 du code général des impôts sont remplacés par les dispositions suivantes :
 
