@@ -12,11 +12,13 @@ I. - La commission de classification des oeuvres cinématographiques comprend :
 
 3° Le collège des experts comprend :
 
-a) Cinq membres titulaires et dix membres suppléants désignés par le ministre chargé de la culture sur proposition des ministres chargés de la justice, de l'éducation nationale, des affaires sociales et de la jeunesse et choisis parmi les personnalités qualifiées dans le domaine de la protection de l'enfance et de la jeunesse ;
+a) Quatre membres titulaires et huit membres suppléants désignés par le ministre chargé de la culture sur proposition des ministres chargés de la justice, de l'éducation nationale, des affaires sociales et de la jeunesse et choisis parmi les personnalités qualifiées dans le domaine de la protection de l'enfance et de la jeunesse ;
 
 b) Un membre titulaire et deux membres suppléants désignés par le ministre chargé de la culture sur proposition du Conseil supérieur de l'audiovisuel ;
 
-c) Deux membres titulaires et quatre membres suppléants désignés par le ministre chargé de la culture après consultation de l'Union nationale des associations familiales et de l'Association des maires de France.
+c) Deux membres titulaires et quatre membres suppléants désignés par le ministre chargé de la culture après consultation de l'Union nationale des associations familiales et de l'Association des maires de France ;
+
+d) Le Défenseur des enfants et deux membres suppléants désignés par le ministre chargé de la culture sur proposition du Défenseur des enfants.
 
 4° Le collège des jeunes comprend :
 
