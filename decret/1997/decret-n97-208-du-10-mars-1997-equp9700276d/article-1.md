@@ -1,0 +1,3 @@
+# Article 1
+
+Les architectes et urbanistes de l'Etat qui assurent des responsabilités d'encadrement fonctionnel dans les services déconcentrés ou les administrations centrales ou qui sont chargés d'études générales sur des problèmes d'intérêt national ou de missions de coordination régionale peuvent bénéficier, dans la limite des crédits ouverts à cet effet, d'une indemnité de fonction non soumise à retenue pour pension dont les montants sont fixés par arrêté conjoint du ministre chargé de l'équipement, du ministre chargé de la culture, du ministre chargé de la fonction publique et du ministre chargé du budget
