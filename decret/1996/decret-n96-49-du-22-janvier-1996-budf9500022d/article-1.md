@@ -1,5 +1,0 @@
-# Article 1
-
-La garantie d'assurance visée au premier alinéa de l'article 17 de l'ordonnance du 19 septembre 1945 susvisée, souscrite par les membres de l'ordre des experts-comptables, s'applique aux réclamations présentées entre la date de prise d'effet et celle de la suspension ou de la résiliation du contrat et se rapportant à des faits survenus pendant la période de validité du contrat ou se rapportant à des faits antérieurs à la prise d'effet du contrat à la condition qu'ils aient été ignorés de l'assuré à cette date.
-
-La garantie est étendue aux réclamations présentées pendant les dix années suivant le décès de l'assuré, la cessation de son activité professionnelle, le redressement judiciaire ou la modification de sa situation juridique, notamment par fusion, scission, cession totale ou partielle. Toutefois, lorsque la cessation de l'activité professionnelle est provisoire, la durée de la garantie subséquente est réduite à la période pendant laquelle l'assuré n'est pas inscrit au tableau de l'ordre.
