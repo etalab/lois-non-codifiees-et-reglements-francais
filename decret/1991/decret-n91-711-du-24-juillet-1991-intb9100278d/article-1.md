@@ -2,7 +2,7 @@
 
 Une nouvelle bonification indiciaire prise en compte pour le calcul de la retraite est versée mensuellement à raison de leurs fonctions aux fonctionnaires territoriaux suivants :
 
-1° Puéricultrices : 13 points majorés ;
+1° (supprimé).
 
 2° Directrices de crêche : 15 points majorés ;
 
@@ -205,3 +205,7 @@ X. - Adjoints d'animation et agents d'animation : 10 points majorés.
 59° Agents de salubrité assurant, à titre exclusif, les fonctions de fossoyeur dans les établissements publics locaux assimilables à une commune de plus de 2 000 habitants, selon les critères prévus par le décret n° 88-546 du 6 mai 1988 relatif aux emplois fonctionnels dans les établissements publics locaux : 10 points majorés ;
 
 60° Agents de maîtrise assurant des fonctions d'encadrement d'une équipe d'au moins 5 agents : 15 points majorés.
+
+61° Sages-femmes territoriales de classe exceptionnelle assurant les fonctions de coordinatrice de l'activité des sages-femmes territoriales de classe exceptionnelle : 35 points majorés ;
+
+62° Puéricultrices territoriales relevant du cadre d'emplois de puéricultrices cadres de santé et exerçant au moins l'une des fonctions suivantes : encadrement ou fonctions comportant des responsabilités particulières correspondant à leur qualification, notamment de direction d'établissements et services d'accueil des enfants de moins de six ans relevant des collectivités territoriales ou de leurs établissements publics ; animation et coordination des activités des établissements et services d'accueil ; encadrement des personnels de ces établissements et services d'accueil ; définition des orientations relatives aux relations avec les institutions et avec les familles ; responsable dans les départements d'unité territoriale d'action sanitaire et sociale, responsable dans les départements de circonscription d'action sanitaire et sociale, conseiller technique dans les départements : 13 points majorés.
