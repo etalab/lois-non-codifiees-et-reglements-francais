@@ -10,3 +10,4 @@
 - [VERIFICATIONS DIMENSIONNELLES ET EQUILIBRAGE.](verifications-dimensionnelles-et)
 - [MESURE DU NIVEAU SONORE.](mesure-du-niveau-sonore)
 - [MESURES DES VIBRATIONS TRANSMISES.](mesures-des-vibrations-transmises)
+- [VERIFICATION DES SPECIFICATIONS TECHNIQUES.](verification-des-specifications-techniques)
