@@ -13,7 +13,6 @@
 - [Organisation d'une réunion publique.](organisation-d-une-reunion-publique)
 - [Désignation du commissaire enquêteur ou d'une commission d'enquête.](designation-du-commissaire-enqueteur-ou)
 - [Visite des lieux par le commissaire enquêteur.](visite-des-lieux-par)
-- [Personnes susceptibles d'exercer les fonctions de commissaire enquêteur.](personnes-susceptibles-d-exercer-les-fonctions-de-commissaire-enqueteur)
 - [Prorogation de la durée de l'enquête.](prorogation-de-la-duree-de-l-enquete)
 - [Publicité de l'enquête.](publicite-de-l-enquete)
 - [Rémunération du commissaire enquêteur.](remuneration-du-commissaire-enqueteur)
