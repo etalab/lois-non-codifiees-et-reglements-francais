@@ -252,6 +252,7 @@
 - [Décret n°86-714 du 17 avril 1986](decret-n86-714-du-17-avril-1986)
 - [Décret n°86-715 du 17 avril 1986](decret-n86-715-du-17-avril-1986)
 - [Décret n°86-716 du 17 avril 1986](decret-n86-716-du-17-avril-1986)
+- [Décret n°86-775 du 17 juin 1986](decret-n86-775-du-17-juin-1986)
 - [Décret n°86-83 du 17 janvier 1986](decret-n86-83-du-17-janvier-1986)
 - [Décret n°86-852 du 17 juillet 1986](decret-n86-852-du-17-juillet-1986)
 - [Décret du 18 février 1986](decret-du-18-fevrier-1986)
