@@ -1,7 +1,6 @@
-# Arrêté du 15 janvier 1986 relatif à l'admission temporaire en exonération de taxe sur la valeur ajoutée des biens destinés à être utilisés en l'état dans le territoire français.
+# Arrêté du 15 janvier 1986 portant revalorisation du salaire de référence pris en considération pour le calcul des allocations spéciales dues aux bénéficiaires des contrats de solidarité et des conventions d'allocation spéciale du Fonds national de l'emploi *FNE*.
 
 - [Article 1](article-1.md)
-- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
