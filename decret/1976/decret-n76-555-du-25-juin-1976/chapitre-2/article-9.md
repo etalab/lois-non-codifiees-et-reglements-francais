@@ -2,9 +2,9 @@
 
 I - Le montant de l'allocation de logement est obtenu par application de la formule :
 
-AL = K (L + C - lo)               dans laquelle    AL représente le montant de l'allocation de logement ;
+AL = K (L + C - lo)                      dans laquelle    AL représente le montant de l'allocation de logement ;
 
-K  représente le coefficient de prise en charge défini au III         ci-dessous ;
+K  représente le coefficient de prise en charge défini au III ci-dessous ;
 
 L  représente :
 
@@ -18,13 +18,13 @@ lo représente le loyer minimum défini à l'article 3 ci-dessus et au II ci-apr
 
 II - Le loyer minimum annuel est obtenu par application aux ressources annuelles nettes du foyer définies aux articles 3 et 4 ci-dessus des pourcentages suivants ;
 
-0 p. 100 pour la tranche de ressources inférieure ou égale à 5335 F ;
+0 p. 100 pour la tranche de ressources inférieure ou égale à 5700 F ;
 
-15 p. 100 pour la tranche de ressources comprise entre 5335 F et 10670 F ;
+15 p. 100 pour la tranche de ressources comprise entre 5700 F et 11400 F ;
 
-25 p. 100 pour la tranche de ressources comprise entre 10670 F et 21340 F ;
+25 p. 100 pour la tranche de ressources comprise entre 11400 F et 22800 F ;
 
-34 p. 100 pour la tranche de ressources supérieure à 21340 F.
+34 p. 100 pour la tranche de ressources supérieure à 22800 F.
 
 Les limites inférieures et supérieures de chacune de ces tranches sont affectées des coefficients ou nombres de parts ci-après :
 
@@ -46,10 +46,8 @@ Le loyer minimum rapporté à son montant mensuel est arrondi au franc inférieu
 
 III - Le coefficient K est déterminé d'après la formule :
 
-R                 K = 0,9 - --------                           138030 N       dans laquelle :
+R                      K = 0,9 - ----------                                147420 x N    dans laquelle :
 
-R représente les ressources imposables déterminées conformément à l'article 4 ci-dessus ;
-
-N représente le nombre de parts déterminé dans les conditions prévues au paragraphe II précédent.
+R représente les ressources imposables déterminées conformément à l'article 4 ci-dessus,    N représente le nombre de parts déterminé conformément au II ci-dessus.
 
 IV - Lorsque le montant [*minimum*] de l'allocation de logement ainsi calculé est inférieur à 15 F par mois, il n'est pas procédé à son versement.

@@ -1,0 +1,4 @@
+# Décret n°82-543 du 29 juin 1982 PORTANT FIXATION, A COMPTER DU 1 JUILLET 1982, DU PLAFOND DES COTISATIONS DE SECURITE SOCIALE
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
