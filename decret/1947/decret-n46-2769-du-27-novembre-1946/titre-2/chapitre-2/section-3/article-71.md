@@ -4,6 +4,6 @@ En plus des commissions prévues à titre obligatoire par les articles R. 142-1 
 
 Ces dernières commissions ainsi que celle prévue à l'article D. 253-64 du code de la sécurité sociale comportent au maximum :
 
-- dans les sociétés de secours minières et les unions régionales, neuf membres dont les deux tiers représentant les affiliés et le tiers les exploitants ;
+-dans les caisses régionales de la sécurité sociale dans les mines, neuf membres dont les deux tiers représentant les affiliés en tenant compte de la pluralité des organisations syndicales représentatives et le tiers les exploitants ;
 
-- à la caisse autonome nationale outre, le cas échéant, le président du conseil d'administration, douze membres dont la moitié représentant les affiliés, le quart les exploitants et le quart les administrations.
+-à la caisse autonome nationale outre, le cas échéant, le président du conseil d'administration, douze membres dont la moitié représentant les affiliés en tenant compte de la pluralité des organisations syndicales représentatives, le quart les exploitants et le quart les administrations.
