@@ -32,6 +32,7 @@
 - [Décret n°54-1304 du 27 décembre 1954](decret-n54-1304-du-27-decembre-1954)
 - [Décret n°59-285 du 27 janvier 1959](decret-n59-285-du-27-janvier-1959)
 - [Décret n°59-1510 du 29 décembre 1959](decret-n59-1510-du-29-decembre-1959)
+- [Décret n°59-1512 du 30 décembre 1959](decret-n59-1512-du-30-decembre-1959)
 - [Décret n°59-952 du 30 juillet 1959](decret-n59-952-du-30-juillet-1959)
 - [Décret n° 59-951 du 31 juillet 1959](decret-n-59-951-du-31-juillet-1959)
 - [Décret n°59-1028 du 31 août 1959](decret-n59-1028-du-31-aout-1959)
