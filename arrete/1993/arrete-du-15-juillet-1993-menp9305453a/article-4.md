@@ -1,3 +1,3 @@
 # Article 4
 
-Les épreuves des concours externe et interne sont respectivement fixées aux articles 8 et 9 ci-dessous.
+Les épreuves du concours externe, du concours interne et du troisième concours sont respectivement fixées aux articles 8, 9 et 9-1 ci-dessous.
