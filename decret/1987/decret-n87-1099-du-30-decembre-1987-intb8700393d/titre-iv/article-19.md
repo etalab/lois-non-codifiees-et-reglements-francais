@@ -8,4 +8,6 @@ Peuvent être nommés au grade d'attaché principal de seconde classe après ins
 
 Le nombre des attachés principaux ne peut être supérieur à 30% du nombre des attachés et attachés principaux. Toutefois lorsque ce nombre est inférieur à quatre, une nomination peut être prononcée.
 
+Par dérogation aux dispositions de l'article 2 ci-dessus, les attachés territoriaux qui remplissent les conditions prévues au 1° ou au 2° ci-dessus peuvent être nommés au grade d'attaché principal, s'ils sont détachés dans l'emploi de secrétaire général d'une commune de 5 000 habitants et plus.
+
 L'inscription au tableau d'avancement pour le grade d'attaché principal des attachés devant suivre la formation d'adaptation à l'emploi mentionnée aux articles 7 et 8 ci-dessus ne peut intervenir qu'au vu d'une attestation établie par le président du Centre national de la fonction publique territoriale et certifiant que l'intéressé a suivi cette formation.

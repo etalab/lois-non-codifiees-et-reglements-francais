@@ -1,0 +1,3 @@
+# Article 15 ter
+
+Les fonctionnaires territoriaux détachés dans un emploi mentionné aux articles 1ers des décrets n° 87-1101 du 30 décembre 1987 portant dispositions statutaires particulières à certains emplois administratifs de direction des collectivités territoriales et des établissements publics locaux assimilés et n° 90-128 du 9 février 1990 portant dispositions statutaires particulières aux emplois de directeur général et de directeur des services techniques des communes peuvent, s'ils le demandent dans un délai d'un an qui court à compter de la date de la décision de radiation des cadres, obtenir la liquidation de leur pension calculée sur la base des émoluments afférents à l'emploi ou grade détenu depuis six mois au moins dans leur cadre d'emplois d'origine.
