@@ -39,6 +39,7 @@
 - [Décret n°99-581 du 9 juillet 1999 (EQUA9900658D)](decret-n99-581-du-9-juillet-1999-equa9900658d)
 - [Décret n°97-942 du 10 octobre 1997 (MENU9702930D)](decret-n97-942-du-10-octobre-1997-menu9702930d)
 - [Décret n°99-495 du 10 juin 1999 (ECOP9900216D)](decret-n99-495-du-10-juin-1999-ecop9900216d)
+- [Décret n°98-21 du 12 janvier 1998 (PRMX9702488D)](decret-n98-21-du-12-janvier-1998-prmx9702488d)
 - [Décret n°98-478 du 12 juin 1998 (MESH9821565D)](decret-n98-478-du-12-juin-1998-mesh9821565d)
 - [Décret n°98-914 du 12 octobre 1998 (MENF9802288D)](decret-n98-914-du-12-octobre-1998-menf9802288d)
 - [Décret n°97-1034 du 13 novembre 1997 (MEST9711491D)](decret-n97-1034-du-13-novembre-1997-mest9711491d)
