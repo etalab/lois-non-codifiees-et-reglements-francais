@@ -1,3 +1,3 @@
 # Annexes
 
-- [Article ANNEXE](article-annexe.md)
+- [Article annexe](article-annexe.md)
