@@ -2,7 +2,7 @@
 
 Sont soumises à autorisation [*administrative préalable - obligation*] :
 
-1° La création et l'extension de tout établissement sanitaire privé comportant des moyens d'hospitalisation ;
+1° La création et l'extension de tout établissement sanitaire privé comportant des moyens d'hospitalisation ainsi que le regroupement d'établissements de cette nature ;
 
 2° L'installation, dans tout établissement privé contribuant aux soins médicaux et comportant ou non des moyens d'hospitalisation, d'équipements matériels lourds au sens de l'article 46 de la présente loi.
 
