@@ -4,6 +4,8 @@ Le conseil des métiers d'art est présidé par le ministre de la culture et de 
 
 - de trente membres désignés par arrêté du ministre de la culture et de la communication en raison de leurs compétences dans le domaine des métiers d'art, pour une durée de trois ans renouvelable une fois ;
 
+- participe également aux séances plénières du conseil des métiers d'art un représentant du ministre chargé de l'artisanat.
+
 - de neuf membres de droit :
 
 - le délégué aux arts plastiques ou son représentant ;

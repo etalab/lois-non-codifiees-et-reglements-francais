@@ -636,6 +636,7 @@
 - [Arrêté du 20 août 2004 (ECOP0400280A)](arrete-du-20-aout-2004-ecop0400280a)
 - [Arrêté du 20 avril 2004 (SPRK0470025A)](arrete-du-20-avril-2004-sprk0470025a)
 - [Arrêté du 20 décembre 2004 (SANP0424326A)](arrete-du-20-decembre-2004-sanp0424326a)
+- [Arrêté du 20 décembre 2004 (SOCT0412518A)](arrete-du-20-decembre-2004-soct0412518a)
 - [Arrêté du 20 février 2004 (ECOS0470002A)](arrete-du-20-fevrier-2004-ecos0470002a)
 - [Arrêté du 20 février 2004 (ECOT0410497A)](arrete-du-20-fevrier-2004-ecot0410497a)
 - [Arrêté du 20 février 2004 (SOCG0420644A)](arrete-du-20-fevrier-2004-socg0420644a)

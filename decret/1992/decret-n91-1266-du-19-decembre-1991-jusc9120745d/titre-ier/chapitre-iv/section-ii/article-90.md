@@ -4,13 +4,15 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 
 PROCÉDURES : I. - Droits des personnes
 
-I.1. Divorce pour faute
+I.1. Divorce par consentement mutuel
 
-COEFFICIENT de base : 36
+COEFFICIENT de base : 30 (2)
 
 MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
 Incidents (1) (dans la limite de 3 majorations) : 3
+
+Mesures de médiation ordonnées par le juge : 2
 
 Expertises Sans déplacement : 4
 
@@ -22,13 +24,15 @@ Autres mesures d'instruction dont enquêtes sociales : 2
 
 PROCÉDURES : I. - Droits des personnes
 
-I.2. Divorce requête conjointe et autres
+I.2. Autres cas de divorce
 
-COEFFICIENT de base : 30 (2)
+COEFFICIENT de base : 34 (8)
 
 MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
 Incidents (1) (dans la limite de 3 majorations) : 3
+
+Mesures de médiation ordonnées par le juge : 2
 
 Expertises Sans déplacement : 4
 
@@ -48,6 +52,8 @@ MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
 Incidents (1) (dans la limite de 3 majorations) :
 
+Mesures de médiation ordonnées par le juge : 2
+
 Expertises Sans déplacement : 4
 
 Expertises Avec déplacement : 9
@@ -65,6 +71,8 @@ COEFFICIENT de base : 16
 MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
 Incidents (1) (dans la limite de 3 majorations) :
+
+Mesures de médiation ordonnées par le juge : 2
 
 Expertises Sans déplacement : 4
 
@@ -84,6 +92,8 @@ MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
 Incidents (1) (dans la limite de 3 majorations) :
 
+Mesures de médiation ordonnées par le juge :
+
 Expertises Sans déplacement : 4
 
 Expertises Avec déplacement : 9
@@ -102,6 +112,8 @@ MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
 Incidents (1) (dans la limite de 3 majorations) :
 
+Mesures de médiation ordonnées par le juge :
+
 Expertises Sans déplacement :
 
 Expertises Avec déplacement :
@@ -119,6 +131,8 @@ COEFFICIENT de base :
 MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
 Incidents (1) (dans la limite de 3 majorations) :
+
+Mesures de médiation ordonnées par le juge :
 
 Expertises Sans déplacement :
 
@@ -448,6 +462,8 @@ Autres mesures d'instruction dont enquêtes sociales : 2
 
 (7) Ces coefficients sont portés respectivement à 20 et 24 en cas de procédure d'appel sans représentation obligatoire.
 
+(8) Ce coefficient est porté à 36 UV en cas de projet d'acte notarié de liquidation du régime matrimonial homologué par le juge aux affaires familiales lors du prononcé du divorce.
+
 I- PROCÉDURES : VI. - Partie civile
 
 II- COEFFICIENTS
@@ -584,7 +600,7 @@ I- XIII.2. Article 35 quater
 
 II- 4 (7)
 
-I- PROCÉDURES : XIV. - Tribunal administratif et cour administrative d'appel
+I- PROCÉDURES : XIV. - Tribunal administratif  et cour administrative d'appel
 
 II- COEFFICIENTS
 
