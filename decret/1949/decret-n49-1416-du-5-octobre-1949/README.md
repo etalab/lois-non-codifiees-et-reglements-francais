@@ -12,6 +12,7 @@
 - [Article 45](article-45.md)
 - [Article 46](article-46.md)
 - [Article 47](article-47.md)
+- [Article 47 bis](article-47-bis.md)
 - [CONSTITUTION DU DROIT A PENSION D'ANCIENNETE OU PROPORTIONNELLE](constitution-du-droit-a)
 - [DISPOSITIONS COMMUNES AUX PENSIONS ET RENTES D'INVALIDITE](dispositions-communes-aux)
 - [DISPOSITIONS D'ORDRE ET DE COMPTABILITE](dispositions-d-ordre-et)
