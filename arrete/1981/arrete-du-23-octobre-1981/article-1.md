@@ -1,3 +1,3 @@
 # Article 1
 
-Dans le département de la Réunion, les cotisations d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles sont dues à compter du 1er octobre 1981.
+L'aide à la création d'emplois d'initiative locale est fixée à 36.000 F par emploi créé.
