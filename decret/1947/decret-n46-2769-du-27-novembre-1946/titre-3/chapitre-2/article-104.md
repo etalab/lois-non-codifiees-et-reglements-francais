@@ -13,3 +13,7 @@ Il comprend en dépenses :
 1° Les charges de fonctionnement et les dépenses en capital de la Caisse autonome nationale de la sécurité sociale dans les mines au titre de ses services administratifs et du contrôle médical ;
 
 2° Les dotations destinées à couvrir les mêmes charges pour les unions régionales, les sociétés de secours minières et les centres informatiques interrégionaux.
+
+3° Les charges de la Caisse autonome nationale de la sécurité sociale dans les mines au titre de la retraite anticipée versées aux personnels des sociétés de secours minières et de leurs unions régionales ainsi qu'au titre des avantages en nature dus, le cas échéant, à leurs anciens agents ;
+
+4° Les dotations destinées à couvrir les charges des sociétés de secours minières et de leurs unions régionales au titre des aides à la conversion et des prestations de retraite anticipée demeurant à leur charge.
