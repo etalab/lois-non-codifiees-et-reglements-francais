@@ -1,0 +1,3 @@
+# Article 1
+
+Les agents non titulaires du fonds d'orientation et de régularisation des marchés agricoles (FORMA) en fonctions à la date du 14 juin 1983, qui ont demandé à être admis au bénéfice des dispositions de l'article 8 de la loi n° 83-481 du 11 juin 1983 définissant les conditions dans lesquelles doivent être pourvus les emplois civils permanents de l'Etat et de ses établissements publics et autorisant l'intégration des agents non titulaires occupant de tels emplois, et bénéficiaires d'une décision de justice passée en force de chose jugée peuvent demander leur titularisation dans un corps de fonctionnaires du ministère chargé de l'agriculture, dans les conditions fixées aux articles suivants.
