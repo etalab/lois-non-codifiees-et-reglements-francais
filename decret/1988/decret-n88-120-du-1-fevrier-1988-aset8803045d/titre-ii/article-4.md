@@ -15,3 +15,5 @@ III. - Si les mesures de la concentration en plomb de l'atmosphère ne sont pas 
 IV. - Les contrôles prévus ci-dessus doivent être effectués conformément à des méthodes et selon des procédures définies par arrêté des ministres chargés du travail et de l'agriculture.
 
 Ces contrôles sont à la charge [*financière*] de l'employeur et doivent être pratiqués par un organisme agréé par arrêté des ministres chargés du travail et de l'agriculture. Le directeur départemental du travail et de l'emploi ou le chef du service départemental de l'inspection du travail, de l'emploi et de la politique sociale agricoles peut autoriser l'employeur à procéder lui-même à ce contrôle s'il se conforme aux méthodes et aux procédures fixées par l'arrêté prévu ci-dessus.
+
+V. - Le silence gardé pendant plus de quatre mois sur une demande d'agrément vaut décision de rejet.

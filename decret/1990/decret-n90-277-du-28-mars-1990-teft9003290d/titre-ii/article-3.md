@@ -20,4 +20,6 @@ La classe I comprend deux sous-classes :
 
 Un arrêté des ministres chargés du travail, de l'agriculture et de la mer fixe la liste des mentions d'activité ainsi que les modalités d'obtention du certificat d'aptitude à l'hyperbarie et les conditions dans lesquelles est assurée la formation correspondant à chacune de ces mentions.
 
+Le silence gardé pendant plus de quatre mois sur la demande d'agrément présentée par un organisme pour la formation des travailleurs intervenant en milieu hyperbare vaut décision de rejet.
+
 III. - Le livret individuel prévu au I ci-dessus est remis à tout travailleur titulaire du certificat d'aptitude à l'issue de sa formation initiale. Ce livret dont les caractéristiques et les modalités de présentation sont définies par arrêté des ministres chargés du travail, de l'agriculture et de la mer doit comporter, outre l'indication de la classification et de la mention acquise par le travailleur, la date d'établissement de la dernière fiche d'aptitude médicale et l'avis d'aptitude qui en résulte, visés par le médecin du travail.

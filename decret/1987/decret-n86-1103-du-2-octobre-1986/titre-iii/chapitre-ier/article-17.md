@@ -21,3 +21,5 @@ L'employeur doit s'assurer que cette ou ces personnes connaissent le fonctionnem
 Une consigne écrite rédigée par l'employeur, ou sous sa responsabilité, par la personne compétente, doit préciser l'étendue de cette mission.
 
 V. - La manipulation d'appareils de radiographie ou de radioscopie industrielle ne peut être confiée qu'à des personnes titulaires d'un certificat d'aptitude délivré dans les conditions et selon un programme définis par arrêté des ministres chargés du travail et de l'agriculture ; toutefois, dans le cas des générateurs électriques de rayons X utilisés à poste fixe, le directeur régional du travail et de l'emploi ou le chef du service régional de l'inspection du travail, de l'emploi et de la politique sociale agricole peut accorder des dérogations à cette disposition dans les conditions prévues par arrêté des ministres chargés du travail et de l'agriculture.
+
+VI. - Le silence gardé pendant plus de quatre mois sur une demande d'agrément vaut décision de rejet.

@@ -16,4 +16,4 @@ Un arrêté du ministre chargé de la santé pris après avis de la commission d
 
 Les écoles sont chargées de la mise en oeuvre des modalités d'admission des candidats sous le contrôle des représentants de l'Etat dans les régions et les départements. Ceux-ci fixent la composition des jurys et procèdent à la nomination des membres de ces derniers. L'organisation des épreuves et l'affichage des résultats sont confiés aux écoles.
 
-Les directeurs et les médecins conseillers scientifiques des écoles dispensant cet enseignement sont nommés après agrément du préfet de région, qui consulte la commission des manipulateurs d'électroradiologie médicale du Conseil supérieur des professions paramédicales.
+Les directeurs et les médecins conseillers scientifiques des écoles dispensant cet enseignement sont nommés après agrément du préfet de région, qui consulte la commission des manipulateurs d'électroradiologie médicale du Conseil supérieur des professions paramédicales. Le silence gardé pendant plus de quatre mois sur les demandes d'agrément vaut décision de rejet.

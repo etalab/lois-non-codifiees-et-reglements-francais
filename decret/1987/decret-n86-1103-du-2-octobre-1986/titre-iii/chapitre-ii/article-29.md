@@ -12,4 +12,6 @@ d) Un contrôle périodique, dont la périodicité est fixée par arrêté des m
 
 II. - Le contrôle avant la première mise en service de la source ainsi que le contrôle périodique doivent être effectués par un organisme agréé choisi par l'employeur sur une liste dressée par les ministres chargés du travail et de l'agriculture ; le directeur départemental du travail et de l'emploi ou le chef du service départemental de l'inspection du travail, de l'emploi et de la politique sociale agricoles peuvent toutefois, dans les conditions qu'il précise, autoriser l'employeur à effectuer tout ou partie du contrôle périodique, s'il dispose des moyens matériels et du personnel compétent nécessaires ; cette autorisation est révocable à tout moment ; les modalités de l'agrément ou de l'autorisation sont fixées par arrêté des ministres chargés du travail, de la santé et de l'agriculture [*autorité compétente*].
 
+Le silence gardé pendant plus de quatre mois sur une demande d'agrément vaut décision de rejet.
+
 Les autres contrôles prescrits au I ci-dessus sont effectués, sous la responsabilité de l'employeur, par la personne compétente mentionnée à l'article 17 du présent décret ou par un organisme agréé.

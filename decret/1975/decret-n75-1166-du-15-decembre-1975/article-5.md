@@ -1,5 +1,7 @@
 # Article 5
 
+Le silence gardé pendant plus de quatre mois sur les demandes mentionnées à l'article 4 vaut décision de rejet.
+
 Les décisions de la commission départementale indiquent dans chaque cas le délai dans lequel elles seront revisées sans que ce délai puisse excéder cinq ans [*mention obligatoire*].
 
 Elles sont notifiées dans le délai d'un mois aux parents ou personnes ayant la charge effective de l'enfant, au directeur de l'action sanitaire et sociale, aux organismes de sécurité sociale ou d'aide sociale et aux organismes chargés du paiement de l'allocation d'éducation spéciale, à l'établissement ou au service vers lequel l'enfant est orienté ainsi, le cas échéant, qu'à la personne, à l'organisme ou au service qui a saisi la commission.

@@ -1,5 +1,7 @@
 # Article 34
 
+Le silence gardé pendant plus de six mois sur une demande de pension présentée en application du présent décret vaut décision de rejet.
+
 Dans tous les cas, le paiement de la pension prend effet du premier jour du mois suivant celui de l'entrée en jouissance [*date, point de départ*].
 
 Les pensions attribuées au titre du présent décret sont payées mensuellement et à terme échu [*périodicité*].

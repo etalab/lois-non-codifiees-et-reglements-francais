@@ -4,4 +4,4 @@ La commission apprécie le degré des connaissances et des qualifications que le
 
 Le candidat est tenu de fournir à la commission tous les documents nécessaires à l'examen de sa demande.
 
-La commission se prononce par une décision motivée, communiquée au candidat, à charge pour lui de la transmettre à l'autorité compétente pour l'admettre à concourir.
+La commission se prononce par une décision motivée, communiquée au candidat, à charge pour lui de la transmettre à l'autorité compétente pour l'admettre à concourir. Le silence gardé pendant plus de quatre mois sur la demande vaut décision de rejet.

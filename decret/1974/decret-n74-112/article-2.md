@@ -14,4 +14,4 @@ d) Après avis de la commission des psychomotriciens du Conseil supérieur des p
 
 e) Les modalités des épreuves précédant la délivrance du diplôme d'Etat de psycho-rééducateur.
 
-Les directeurs des instituts de formation en psychomotricité préparant au diplôme d'Etat sont nommés après agrément du préfet de région, qui consulte la commission des psychomotriciens du Conseil supérieur des professions paramédicales.
+Les directeurs et les conseillers scientifiques des instituts de formation en psychomotricité préparant au diplôme d'Etat sont nommés après agrément du préfet de région, qui consulte la commission des psychomotriciens du Conseil supérieur des professions paramédicales. Le silence gardé pendant plus de quatre mois sur les demandes d'agrément vaut décision de rejet.

@@ -23,3 +23,5 @@ L'office assure le traitement de ces résultats. Ceux-ci peuvent être exploité
 Sous une forme non nominative, les résultats mentionnés ci-dessus peuvent être communiqués à l'inspecteur du travail, au comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, aux délégués du personnel.
 
 Les modalités techniques de la transmission des données prévues au présent article sont fixées par arrêté des ministres chargés du travail et de l'agriculture.
+
+V. - Le silence gardé pendant plus de quatre mois sur une demande d'agrément visée au III du présent article vaut décision de rejet.
