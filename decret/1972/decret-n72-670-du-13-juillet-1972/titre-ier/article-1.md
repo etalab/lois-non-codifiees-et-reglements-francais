@@ -1,0 +1,3 @@
+# Article 1
+
+Les personnes physiques et morales mentionnées à l'article 54 de la loi du 31 décembre 1971 qui se proposent d'exercer leur profession sous le titre de conseil juridique ou de conseil fiscal ou sous un titre équivalent ou susceptible d'être assimilé à l'un de ces titres doivent demander leur inscription sur la liste des conseils juridiques établie, dans les conditions prévues par ladite loi et les dispositions du présent titre, par le procureur de la République près le tribunal de grande instance dans le ressort duquel se trouve leur domicile professionnel ou, s'il s'agit d'une société, leur siège social [*compétence territoriale*].
