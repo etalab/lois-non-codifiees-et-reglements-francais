@@ -1,9 +1,13 @@
 # Article 3
 
-Perception de suppléments pour certaines courses effectuées en ambulance à l'occasion d'un transport d'urgence effectué sur la demande expresse d'un service d'aide médicale d'urgence (S.A.M.U.), d'un "centre 15" ou des services mobiles d'urgence et de réanimation (S.M.U.R.) quand un S.A.M.U. n'existe pas dans le département, une somme de 90,11 F peut être facturée en sus du prix de la course établi selon les dispositions du présent arrêté.
+Sur les sites prévus en annexe, les équipements seront installés, entretenus et exploités par l'établissement public Télédiffusion de France. Les conditions techniques et financières seront définies dans une convention qui devra notamment préciser :
 
-Un supplément de 45,06 F s'ajoutant au tarif normal de la course peut être perçu pour les transports de prématurés.
+- les prestations de diffusion assurées par T.D.F. et la fixation de leur prix, dans les conditions de rémunération précisées à l'article 59 du cahier des charges de T.D.F. approuvé par décret du 3 mai 1984 ;
 
-Un supplément de 90,11 F peut être perçu pour chaque course lorsque le malade est transporté dans un aéroport pour embarquement dans un avion, ou pris en charge à sa descente d'avion.
+- les conditions d'indemnisation de T.D.F. par la société en cas d'abandon des équipements avant amortissement de ceux-ci ;
 
-Ces trois perceptions supplémentaires ne sont pas cumulables. Les majorations pour services de nuit, de dimanche et jour férié ne s'appliquent pas à ces suppléments.
+- le barème d'indemnisation de la société par T.D.F. en cas d'interruption de la fourniture du service ;
+
+- les conditions de diffusion ainsi que les caractéristiques et les normes du signal diffusé ;
+
+- le calendrier du début des émissions et de l'installation des équipements requis.

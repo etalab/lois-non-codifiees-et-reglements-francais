@@ -1,4 +1,4 @@
-# Arrêté du 3 mars 1986 du 3 mars 1986 relatif aux conditions d'utilisation des factures-titres de mouvement qui accompagnent la circulation de certaines boissons.
+# Arrêté du 3 mars 1986 du 3 mars 1986 portant suspension de la formalité du carnet de ventes applicable aux personnes qui vendent des viandes à la chine et au détail ainsi qu'aux personnes qui transportent des viandes en vue de les vendre en gros sans commandes préalables.
 
 - [Article 1](article-1.md)
 - [SECTION 1 : Elections aux conseils d'administration des centres régionaux de formation.](section-1)

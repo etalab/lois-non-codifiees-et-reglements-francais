@@ -1,3 +1,3 @@
 # Article 2
 
-La fourniture et l'impression des factures qui tiennent lieu de titre de mouvement incombent aux utilisateurs. Les factures doivent être conformes aux modèles prescrits par l'administration.
+Le directeur général des impôts est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

@@ -1,3 +1,3 @@
 # Article 6
 
-Les dispositions des articles 1 à 4 du présent arrêté ne sont pas applicables aux départements d'outre-mer.
+Cette commission se réunit au moins deux fois par an sur convocation de son président ou, dans un intervalle de plus de deux mois suivant la précédente réunion, sur demande écrite de la moitié au moins de ses membres.
