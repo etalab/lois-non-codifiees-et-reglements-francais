@@ -1,0 +1,7 @@
+# Article 8
+
+Les organismes certificateurs chargés de délivrer les labels et les certificats de conformité prévus à l'article L. 115-23-2 du code de la consommation sont agréés par arrêté des ministres chargés de l'agriculture, de l'alimentation et de la consommation pris après avis de la Commission nationale des labels et des certifications de produits agricoles et alimentaires, section Agrément des organismes certificateurs. Il en est de même des organismes certificateurs chargés de certifier le mode de production biologique.
+
+Un organisme certificateur peut être agréé par l'autorité administrative pour délivrer soit des labels, soit des certificats de conformité, soit des certificats de respect de mode de production biologique, soit plusieurs de ces certifications. Dans le cas particulier des labels agricoles, l'organisme certificateur doit prévoir dans ses statuts la possibilité pour les groupements bénéficiaires de l'homologation d'un label, au sens de l'article L. 115-22 du code de la consommation, d'être associés au fonctionnement de cet organisme, sans porter atteinte aux principes d'indépendance et d'impartialité de celui-ci tels que définis par l'article L. 115-23-2 du code de la consommation. Tout groupement bénéficiaire de l'homologation d'un label doit être distinct de l'organisme certificateur.
+
+Il est fait mention de l'arrêté d'agrément au Journal officiel de la République française.

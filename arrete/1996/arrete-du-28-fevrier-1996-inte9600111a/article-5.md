@@ -1,0 +1,3 @@
+# Article 5
+
+Au vu du procès-verbal de la commission de sécurité compétente, le directeur d'administration centrale concerné pour les services d'administration centrale et ceux qui en relèvent directement, le directeur de l'établissement pour les établissements publics et le préfet pour les services déconcentrés sont compétents pour prendre toutes mesures d'urgence dont la fermeture totale ou partielle des locaux ouverts au public. Cette disposition ne fait pas obstacle à l'exercice par le maire des pouvoirs de police qui lui sont conférés par les articles L. 131-2 du code des communes et R. 123-52 du code de la construction et de l'habitation.
