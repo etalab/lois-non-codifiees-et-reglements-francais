@@ -4,7 +4,7 @@ La valeur de chacune des épreuves est exprimée par une note variant de 0 à 20
 
 La note de chaque épreuve obligatoire est multipliée par son coefficient.
 
-En ce qui concerne les épreuves facultatives, ne sont retenus que les points excédant 10. Ces points entrent en ligne de compte pour l'admission à l'issue du premier groupe et du deuxième groupe d'épreuves et pour l'attribution d'une mention à l'issue du premier groupe.
+En ce qui concerne les épreuves facultatives, seuls les points excédant 10 sont retenus et multipliés, le cas échéant, par un coefficient fixé par arrêté du ministre chargé de l'éducation nationale. Ces points entrent en ligne de compte pour l'admission à l'issue du premier groupe et du deuxième groupe d'épreuves et pour l'attribution d'une mention à l'issue du premier groupe.
 
 La note moyenne de chaque candidat est calculée en divisant la somme des points obtenus par le total des coefficients attribués.
 

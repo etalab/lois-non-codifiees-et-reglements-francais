@@ -2,6 +2,8 @@
 
 L'examen comprend des épreuves obligatoires et des épreuves facultatives.
 
+Le ministre chargé de l'éducation nationale peut prévoir qu'un enseignement obligatoire nouvellement créé fait l'objet d'une épreuve facultative pendant une durée qui ne peut excéder trois ans à compter de sa mise en place.
+
 Les épreuves portent sur les disciplines faisant partie des enseignements obligatoires ou des options du cycle terminal de la série concernée.
 
 Les épreuves obligatoires sont réparties en deux groupes. L'ensemble des épreuves obligatoires compose le premier groupe d'épreuves. Le second groupe d'épreuves est constitué d'épreuves de contrôle portant sur les disciplines ayant fait l'objet d'épreuves du premier groupe, anticipées ou non.
