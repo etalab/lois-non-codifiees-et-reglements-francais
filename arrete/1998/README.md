@@ -522,7 +522,6 @@
 - [Arrêté du 16 février 1998 (MJSK9870026A)](arrete-du-16-fevrier-1998-mjsk9870026a)
 - [Arrêté du 16 janvier 1998 (AGRA9800087A)](arrete-du-16-janvier-1998-agra9800087a)
 - [Arrêté du 16 janvier 1998 (ECOD9840008A)](arrete-du-16-janvier-1998-ecod9840008a)
-- [Arrêté du 16 juillet 1998 (AGRG9801324A)](arrete-du-16-juillet-1998-agrg9801324a)
 - [Arrêté du 16 juillet 1998 (ECOL9800099A)](arrete-du-16-juillet-1998-ecol9800099a)
 - [Arrêté du 16 juillet 1998 (MCCB9800513A)](arrete-du-16-juillet-1998-mccb9800513a)
 - [Arrêté du 16 juillet 1998 (MCCB9800514A)](arrete-du-16-juillet-1998-mccb9800514a)
