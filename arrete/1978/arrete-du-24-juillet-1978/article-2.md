@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur de l'administration générale, du personnel et du budget au ministère du travail et de la participation est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le directeur général des Impôts, le directeur général des Douanes et Droits indirects et le chef du service de la Législation fiscale sont chargés de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

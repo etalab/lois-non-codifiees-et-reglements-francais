@@ -1,4 +1,4 @@
-# Arrêté du 24 juillet 1978 relatif à l'organisation et au programme des concours de recrutement des inspecteurs du travail
+# Arrêté du 24 juillet 1978 FIXANT LES MODALITES PARTICULIERES D'ASSIETTE DE LA TAXE SUR LA VALEUR AJOUTEE POUR L'IMPOSITION DES EQUIDES EN APPLICATION DE L'ARTICLE 204 BIS II DE L'ANNEXE II AU CODE GENERAL DES IMPOTS
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
