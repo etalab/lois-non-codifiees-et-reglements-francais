@@ -652,7 +652,6 @@
 - [Arrêté du 19 mars 1998 (ECOC9700220A)](arrete-du-19-mars-1998-ecoc9700220a)
 - [Arrêté du 19 mars 1998 (ECOI9800304A)](arrete-du-19-mars-1998-ecoi9800304a)
 - [Arrêté du 19 mars 1998 (ECOS9850016A)](arrete-du-19-mars-1998-ecos9850016a)
-- [Arrêté du 19 mars 1998 (EQUT9800499A)](arrete-du-19-mars-1998-equt9800499a)
 - [Arrêté du 19 mars 1998 (FPPA9700184A)](arrete-du-19-mars-1998-fppa9700184a)
 - [Arrêté du 19 mars 1998 (FPPA9700200A)](arrete-du-19-mars-1998-fppa9700200a)
 - [Arrêté du 19 mars 1998 (INTB9800114A)](arrete-du-19-mars-1998-intb9800114a)

@@ -567,7 +567,6 @@
 - [Décret n°97-982 du 21 octobre 1997 (MAEJ9730104D)](decret-n97-982-du-21-octobre-1997-maej9730104d)
 - [Décret n°97-986 du 21 octobre 1997 (MAEJ9730098D)](decret-n97-986-du-21-octobre-1997-maej9730098d)
 - [Décret n°97-503 du 21 mai 1997 (FPPA9700083D)](decret-n97-503-du-21-mai-1997-fppa9700083d)
-- [Décret n°97-504 du 21 mai 1997 (MENL9701378D)](decret-n97-504-du-21-mai-1997-menl9701378d)
 - [Décret n°97-505 du 21 mai 1997 (MENL9701379D)](decret-n97-505-du-21-mai-1997-menl9701379d)
 - [Décret n°97-509 du 21 mai 1997 (ECOT9720015D)](decret-n97-509-du-21-mai-1997-ecot9720015d)
 - [Décret n°97-511 du 21 mai 1997 (ECOP9700259D)](decret-n97-511-du-21-mai-1997-ecop9700259d)
