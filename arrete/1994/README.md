@@ -1165,7 +1165,6 @@
 - [Arrêté du 31 août 1994 (SPSS9402169A)](arrete-du-31-aout-1994-spss9402169a)
 - [Arrêté du 31 décembre 1993 (AGRB9400159A)](arrete-du-31-decembre-1993-agrb9400159a)
 - [Arrêté du 31 décembre 1993 (BUDZ9300010A)](arrete-du-31-decembre-1993-budz9300010a)
-- [Arrêté du 31 décembre 1993 (DEFF9401025A)](arrete-du-31-decembre-1993-deff9401025a)
 - [Arrêté du 31 décembre 1993 (DEFP9401007A)](arrete-du-31-decembre-1993-defp9401007a)
 - [Arrêté du 31 décembre 1993 (ECOX9301623A)](arrete-du-31-decembre-1993-ecox9301623a)
 - [Arrêté du 31 décembre 1993 (JUSA9300386A)](arrete-du-31-decembre-1993-jusa9300386a)
