@@ -6,9 +6,9 @@ Paragraphe 2 - Les agents titulaires d'une pension accordée pour cause d'invali
 
 Les mêmes avantages sont accordés aux agents retraités avant l'âge de soixante ans, titulaires d'une pension fondée sur la durée des services, lorsqu'ils auront été reconnus, par décision de la caisse primaire de sécurité sociale, remplir, à la date de leur mise à la retraite, les conditions requises pour l'attribution d'une pension d'invalidité du régime général des assurances sociales.
 
-Paragraphe 3 - A compter du 1er juillet 1988, les agents retraités et les veuves visés au paragraphe 1 du présent article supportent, jusqu'à leur soixantième anniversaire, une cotisation de 2,9 p. 100 assise sur le montant de leur pension dans la limite du plafond fixé par la législation de la sécurité sociale.
+Paragraphe 3 - A compter du 1er juin 1996, les agents retraités et les veuves visés au paragraphe 1 du présent article supportent, jusqu'à leur soixantième anniversaire, une cotisation de 3,05 p. 100 assise sur le montant de leur pension dans la limite du plafond fixé par la législation de la sécurité sociale.
 
-Ils versent cette cotisation à la caisse primaire de sécurité sociale à laquelle ils sont affiliés dans les quinze premiers jours de chaque trimestre civil pour le trimestre écoulé [*délai, périodicité*].
+Ils versent cette cotisation à la caisse primaire de sécurité sociale à laquelle ils sont affiliés dans les quinze premiers jours de chaque trimestre civil pour le trimestre écoulé *délai, périodicité*.
 
 Lorsque les intéressés n'acquittent pas régulièrement les cotisations dont ils sont redevables, le service des prestations est suspendu.
 

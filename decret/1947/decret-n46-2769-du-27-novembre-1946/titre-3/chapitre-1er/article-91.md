@@ -8,7 +8,7 @@ Des cotisations d'assurance maladie, maternité, décès sont dues :
 
 3° Par les titulaires des avantages de retraite et revenus de remplacement mentionnés à l'article L. 711-2 du code de la sécurité sociale ainsi que par les titulaires d'avantages servis au titre de l'assurance invalidité du présent régime ; elles sont assises sur lesdits avantages et revenus et à la charge exclusive des titulaires ; leur taux est :
 
-a) de 3,4 p. 100 pour :
+a) de 3,85 p. 100 pour :
 
 - les avantages mentionnés au 2° du premier alinéa de l'article L. 711-2 du code de la sécurité sociale autres que ceux visés au b ci-après ;
 
@@ -20,8 +20,8 @@ a) de 3,4 p. 100 pour :
 
 b)  Celui fixé à l'article D. 242-8 du code de la sécurité sociale pour les pensions de coordination visées à l'article D. 173-1 dudit code ;
 
-c)   Celui fixé à l'article R. 711-5 du code de la sécurité sociale pour les avantages mentionnés au premier alinéa de l'article L. 131-2 dudit code ;
+c)   Celui fixé à l'article D. 711-1 du code de la sécurité sociale pour les avantages mentionnés au premier alinéa de l'article L. 131-2 dudit code ;
 
 d) De 5,5 p. 100 pour les avantages mentionnés au deuxième alinéa de l'article L. 131-2 du code de la sécurité sociale, sans préjudice des dispositions du a ci-dessus ;
 
-e) Celui fixé à l'article R. 711-11 du code de la sécurité sociale, pour les avantages mentionnés à cet article.
+e) Celui fixé à l'article D. 711-4 du code de la sécurité sociale, pour les avantages mentionnés à cet article.
