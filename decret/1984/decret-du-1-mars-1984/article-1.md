@@ -2,9 +2,11 @@
 
 Les vins à appellations d'origine contrôlées "Alsace" et "Alsace grand cru" peuvent être déclarés et présentés avec l'une des mentions particulières "vendanges tardives" ou "sélection de grains nobles" s'ils correspondent aux conditions respectives ci-dessous précisées :
 
-a) Etre issus d'un cépage unique et être déclarés et vendus avec mention du nom de ce cépage :
+a) Etre issus de raisins récoltés manuellement ;
 
-b) Etre issus de vendanges de l'un des cépages ci-dessous présentant les richesses naturelles minimales respectives spécifiques suivantes en sucre par litre de moût :
+b) Etre issus d'un cépage unique et être déclarés et vendus avec mention du nom de ce cépage ;
+
+c) Etre issus de vendanges de l'un des cépages ci-dessous présentant les richesses naturelles minimales respectives spécifiques suivantes en sucre par litre de moût :
 
 Désignation :
 
@@ -32,12 +34,12 @@ Muscat,
 
 - Mention Sélection de grains nobles : 246 g/l.
 
-c) N'avoir fait l'objet d'aucun enrichissement,
+d) N'avoir fait l'objet d'aucun enrichissement, cette condition impliquant la constatation systématique de la richesse en sucre prévue au c ci-dessus de la matière première par l'Institut national des appellations d'origine ;
 
-d) Présenter le titre alcoométrique volumique total correspondant à la richesse en sucre ci-dessus précisée ;
+e) Présenter le titre alcoométrique volumique total correspondant à la richesse en sucre ci-dessus précisée ;
 
-e) Avoir fait l'objet d'une déclaration préalable lors de la vendange auprès des services locaux de l'Institut national des appellations d'origine des vins et eaux-de-vie ;
+f) Avoir fait l'objet d'une déclaration préalable lors de la vendange auprès des services locaux de l'Institut national des appellations d'origine ;
 
-f) Etre présentés, dégustés et agréés à l'examen analytique et organoleptique sous leur mention particulière ;
+g) Etre présentés, dégustés et agréés à l'examen analytique et organoleptique sous leur mention particulière, l'agrément ne pouvent intervenir avant un délai minimal de dix-huit mois à compter de la date de la récolte ;
 
-g) Etre présentés obligatoirement avec l'indication du millésime.
+h) Etre présentés obligatoirement avec l'indication du millésime.
