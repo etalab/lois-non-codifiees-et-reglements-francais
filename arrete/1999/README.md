@@ -519,6 +519,7 @@
 - [Arrêté du 24 juin 1999 (MESS9921960A)](arrete-du-24-juin-1999-mess9921960a)
 - [Arrêté du 24 novembre 1998 (DEFP9802129A)](arrete-du-24-novembre-1998-defp9802129a)
 - [Arrêté du 24 septembre 1998 (INTA9800398A)](arrete-du-24-septembre-1998-inta9800398a)
+- [Arrêté du 24 septembre 1999 (ECOT9914048A)](arrete-du-24-septembre-1999-ecot9914048a)
 - [Arrêté du 25 février 1999 (AGRP9900376A)](arrete-du-25-fevrier-1999-agrp9900376a)
 - [Arrêté du 25 février 1999 (AGRP9900533A)](arrete-du-25-fevrier-1999-agrp9900533a)
 - [Arrêté du 25 février 1999 (INTB9900101A)](arrete-du-25-fevrier-1999-intb9900101a)
