@@ -1146,7 +1146,6 @@
 - [Arrêté du 28 juin 1994 (EQUA9401183A)](arrete-du-28-juin-1994-equa9401183a)
 - [Arrêté du 28 juin 1994 (EQUA9401184A)](arrete-du-28-juin-1994-equa9401184a)
 - [Arrêté du 28 juin 1994 (TEFT9400676A)](arrete-du-28-juin-1994-teft9400676a)
-- [Arrêté du 28 mars 1994 (ECOS9470001A)](arrete-du-28-mars-1994-ecos9470001a)
 - [Arrêté du 28 mars 1994 (EQUA9400721A)](arrete-du-28-mars-1994-equa9400721a)
 - [Arrêté du 28 mars 1994 (EQUP9400508A)](arrete-du-28-mars-1994-equp9400508a)
 - [Arrêté du 28 mars 1994 (INDP9400413A)](arrete-du-28-mars-1994-indp9400413a)
