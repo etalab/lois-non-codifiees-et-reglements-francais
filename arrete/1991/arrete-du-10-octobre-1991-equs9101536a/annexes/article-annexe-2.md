@@ -186,7 +186,7 @@
 <p>Un enseignant de la conduite (*) et, au choix :</p>
 <p>- un inspecteur du permis de conduire et de la sécurité routière</p>
 <p>- un professionnel de la formation des formateurs</p>
-<p>- un chargé de mission de sécurité routière</p>
+<p>- un chargé de mission de sécurité routière ou un inspecteur départemental de la sécurité routière</p>
 <p>- un psychologue agréé pour la formation des conducteurs infractionnistes.</p>
 </td>
 </tr>
@@ -206,7 +206,7 @@
 </td>
 <td valign="top" width="172">
 <p>Un enseignant de la conduite (*) et au choix :</p>
-<p>- un chargé de mission sécurité routière</p>
+<p>- un chargé de mission de sécurité routière ou un inspecteur départemental de la sécurité routière</p>
 <p>- un psychologue agréé pour la formation des conducteurs infractionnistes</p>
 <p>- un professionnel de la formation des formateurs</p>
 <p>- un représentant de l'administration (*).</p>
