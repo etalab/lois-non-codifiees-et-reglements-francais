@@ -70,6 +70,10 @@ Diplôme d'études supérieures économiques délivré par le Conservatoire nati
 
 Diplôme d'études comptables supérieures.
 
+Cerfificat d'études administratives et financières délivré par l'université de Nancy-II et obtenu avec une note moyenne au moins égale à 12 sur 20 à l'ensemble des deux examens du cycle normal.
+
+Diplôme d'études administratives municipales délivré conjointement par un centre universitaire régional d'études municipales et une université et obtenu avec une note moyenne au moins égale à 12 sur 20 à l'ensemble des épreuves.
+
 Brevets de technicien supérieur délivrés par le ministère de l'éducation nationale (art. 35 du décret n° 59-57 du 6 janvier 1959) :
 
 Secrétariat.

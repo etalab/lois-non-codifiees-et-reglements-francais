@@ -43,3 +43,9 @@ Certificat d'aptitude pédagogique des instituteurs.
 Diplôme d'Etat d'éducateur spécialisé.
 
 Diplôme de fin d'études de l'institut d'études économiques et juridiques appliquées à la construction et à l'habitation (I.C. H.) rattaché au Conservatoire national des arts et métiers.
+
+Brevet de navigateur aérien.
+
+Brevet de pilote professionnel de 1re classe avion.
+
+Brevet de mécanicien navigant.
