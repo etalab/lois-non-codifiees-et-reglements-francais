@@ -466,6 +466,7 @@
 - [Décret n°93-607 du 25 mars 1993 (ENVN9310017D)](decret-n93-607-du-25-mars-1993-envn9310017d)
 - [Décret n°90-433 du 25 mai 1990 (TEFC9003408D)](decret-n90-433-du-25-mai-1990-tefc9003408d)
 - [Décret n°83-50 du 26 janvier 1983](decret-n83-50-du-26-janvier-1983)
+- [Décret n°83-52 du 26 janvier 1983](decret-n83-52-du-26-janvier-1983)
 - [Décret n°90-100 du 26 janvier 1990 (LOGC9000002D)](decret-n90-100-du-26-janvier-1990-logc9000002d)
 - [Décret n°90-101 du 26 janvier 1990 (LOGC9000003D)](decret-n90-101-du-26-janvier-1990-logc9000003d)
 - [Décret n°90-108 du 26 janvier 1990 (MAEJ9030000D)](decret-n90-108-du-26-janvier-1990-maej9030000d)
