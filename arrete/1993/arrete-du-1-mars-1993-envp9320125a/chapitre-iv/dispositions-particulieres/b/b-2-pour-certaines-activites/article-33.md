@@ -28,6 +28,40 @@ Pour les établissements utilisant le procédé au chlore, les déchets faibleme
 
 Lorsqu'un établissement utilise plus d'un type de minerai, les valeurs s'appliquent en proportion des quantités de chaque minerai utilisées.
 
+Pour les installations existantes, les dispositions de l'article 31, troisième alinéa, et de l'article 32 sont abrogées et remplacées par les dispositions suivantes :
+
+" La température des effluents rejetés doit être inférieure à 30 °C ;
+
+" Les effluents rejetés doivent respecter les valeurs limites, exprimées en kilogramme par tonne de dioxyde de titane produite, ci-après :
+
+" DCO : 20 ;
+
+" MES : 30 ;
+
+" Aluminium : 15 ;
+
+" Arsenic : 0,004 ;
+
+" Cadmium : 0,001 ;
+
+" Chrome : 1 ;
+
+" Cuivre : 0,015 ;
+
+" Etain : 0,01 ;
+
+" Fer : 85 ;
+
+" Manganèse : 3 ;
+
+" Mercure : 30 x 10-06 ;
+
+" Nickel : 0,03 ;
+
+" Plomb : 0,02 ;
+
+" Zinc : 0,7. "
+
 " 3. Fabrication de produits à base d'amiante
 
 Les effluents rejetés doivent respecter les valeurs limites ci-après quel que soit leur débit et quelle que soit leur origine :
