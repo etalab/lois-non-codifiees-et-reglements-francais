@@ -7,6 +7,7 @@
 - [Décret n°2000-43 du 20 janvier 2000 (FPPA9910019D)](decret-n2000-43-du-20-janvier-2000-fppa9910019d)
 - [Décret n°2000-51 du 20 janvier 2000 (FPPA0010006D)](decret-n2000-51-du-20-janvier-2000-fppa0010006d)
 - [Décret n°2000-141 du 21 février 2000 (MESH0020488D)](decret-n2000-141-du-21-fevrier-2000-mesh0020488d)
+- [Décret n°2000-685 du 21 juillet 2000 (MESG0010702D)](decret-n2000-685-du-21-juillet-2000-mesg0010702d)
 - [Décret n°2000-274 du 24 mars 2000 (MJSK0070020D)](decret-n2000-274-du-24-mars-2000-mjsk0070020d)
 - [Décret n°2000-376 du 28 avril 2000 (INTD0000109D)](decret-n2000-376-du-28-avril-2000-intd0000109d)
 - [Décret n°2000-456 du 29 mai 2000 (ECOX0004146D)](decret-n2000-456-du-29-mai-2000-ecox0004146d)
