@@ -1,5 +1,7 @@
 # Article 2
 
-Les producteurs de rhum des départements d'outre-mer et de la République malgache sont autorisés à expédier les quatre premières tranches du contingent 1983 à partir du 1er avril 1983.
+Est approuvée la publication UTE C 18-520 (Edition 1975) et son additif n° 1 du 24 juin 1982, intitulée :
 
-Une cinquième tranche sera débloquée au 1er décembre après examen de la situation du marché.
+"Instructions générales pour l'exécution des travaux sous tension sur les réseaux de distribution d'énergie électrique et sur les ouvrages de production d'énergie électrique soumis au contrôle technique du ministre chargé de l'énergie électrique"
+
+et éditée par l'Union technique de l'électricité, 12, place des Etats-Unis, Paris (8ème).

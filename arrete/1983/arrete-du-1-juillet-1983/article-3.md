@@ -1,3 +1,3 @@
 # Article 3
 
-Le prix plancher et le prix plafond, compte tenu de la cotisation de propagande, sont fixés sur la base du litre de rhum courant à 55° au stade F.O.B. respectivement à 6 F et 7,70 F.
+Le directeur des relations du travail et le directeur du gaz, de l'électricité et du charbon sont chargés de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
