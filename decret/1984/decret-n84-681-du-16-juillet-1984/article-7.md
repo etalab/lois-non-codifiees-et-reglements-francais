@@ -1,0 +1,3 @@
+# Article 7
+
+Faute pour une entreprise laitière d'avoir, dans un délai de deux mois à compter de la publication de l'arrêté du commissaire de la République prévu à l'article 4 ci-dessus, conclu avec les producteurs qui assurent son approvisionnement les conventions prévues à l'article 1er, le commissaire de la République arrête, après consultation des organisations professionnelles les plus représentatives et de l'organisation interprofessionnelle régionale reconnue, lorsqu'elle existe, les modalités de calcul des différences de prix du lait de chèvre applicables entre les parties intéressées.
