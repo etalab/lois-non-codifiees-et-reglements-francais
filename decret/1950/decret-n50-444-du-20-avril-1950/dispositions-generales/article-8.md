@@ -1,0 +1,13 @@
+# Article 8
+
+Le gain journalier de base retenu pour le calcul des indemnités journalières de maladie ou de maternité et du capital décès ne peut, en aucun cas, excéder le salaire servant de base au calcul de la fraction de cotisation due pour les risques maladie, maternité, invalidité et décès et calculée dans la limite [*d'un plafond : remplacé par le décret n° 140*] du plafond prévu à l'article 1031 du code rural. Toutefois, lorsque l'assiette des cotisations fait l'objet d'un abattement par application des dispositions du décret n° 81-540 du 12 mai 1981, il est tenu compte du salaire brut perçu par l'assuré, sans abattement, dans la limite du plafond correspondant.
+
+Ledit gain journalier de base est égal, selon que la période de référence retenue pour son calcul est d'un mois d'un trimestre, d'un semestre ou d'un an, au quotient par 30, 90, 180 ou 360 des salaires correspondant aux cotisations d'assurance maladie calculées dans la limite du plafond versées au nom de l'assuré ou dues pour son compte au cours de ladite période.
+
+Toutefois, lorsque l'intéressé n'était pas immatriculé le premier jour du ou des trimestres civils de référence ou de la période mensuelle de référence, le gain journalier de base est égal au quotient des salaires correspondant aux cotisations d'assurance maladie calculées dans la limite du plafond, versées au nom de l'assuré ou dues pour son compte au cours de la période écoulée depuis son immatriculation jusqu'au jour soit de l'arrêt de travail médicalement justifié, soit du décès, par le nombre de jours ouvrables ou non correspondant à cette période.
+
+L'assuré est réputé avoir perçu au cours des périodes ayant donné lieu à l'octroi des indemnités journalières de maladie un salaire égal au double desdites indemnités ou, éventuellement, à une fois et demie ces indemnités dans le cas où l'intéressé a bénéficié des dispositions du deuxième alinéa de l'article 22 du décret du 21 septembre 1950.
+
+L'assurée est réputée avoir perçu au cours des périodes ayant donné lieu à l'octroi des indemnités journalières de repos de l'assurance maternité un salaire égal aux dix neuvièmes desdites indemnités [*montant*].
+
+Si l'assuré tombe malade au cours d'une période de chômage involontaire, de fermeture de l'établissement employeur ou d'un congé non payé, le gain journalier servant de base au calcul de l'indemnité journalière est celui dont bénéficiait l'assuré avant la date de la cessation effective du travail, même si celle-ci a été suivie d'un stage de formation professionnelle, sous réserve cependant de l'application des dispositions prévues pour la période comprenant la durée du stage et le mois qui suit celui-ci.
