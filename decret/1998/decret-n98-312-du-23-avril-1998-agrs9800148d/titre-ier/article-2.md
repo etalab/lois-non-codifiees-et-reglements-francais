@@ -12,7 +12,7 @@ Le colon est assimilé à un chef d'exploitation à titre principal dans la mesu
 
 Pour le demandeur qui a repris l'exploitation familiale suite à la reconnaissance d'une invalidité réduisant, au moins des deux tiers, la capacité de travail de son conjoint, ou au décès de celui-ci, d'un divorce intervenu avant le 1er janvier 1997, les années où il a participé aux travaux et où à ce titre des cotisations ouvrant droit à la pension de retraite forfaitaire ont été versées sont considérées comme des années d'activité à titre principal ;
 
-4° Ne pas avoir apporté à son exploitation, entre le 1er janvier 1998 et la date de dépôt de sa demande, l'une des modifications suivantes :
+4° Ne pas avoir apporté à son exploitation, entre le 1er janvier 2000 et la date de dépôt de sa demande, l'une des modifications suivantes :
 
 a) une réduction de plus de 15 % de la superficie exploitée en faire-valoir direct ou de l'une des références de production ou droits à aide mentionnés à l'article 15 de la loi du 1er février 1995 précitée, sauf en cas de cessation totale ou partielle d'activité laitière résultant de l'application de l'article 8 du règlement (CEE) n° 3950/92 du 28 décembre 1992 établissant un prélèvement supplémentaire dans le secteur du lait et des produits laitiers ;
 
