@@ -1,5 +1,0 @@
-# Article 15
-
-Pour l'application de l'article R. 121-24 du code des communes et de l'article 9 du présent décret, la durée légale du travail pour une année civile s'apprécie sur la base de la durée hebdomadaire légale fixée par les articles 24 et 25 de la loi n° 86-845 du 17 juillet 1986 susvisée pour le territoire de la Polynésie française, par les articles 30 et 31 de l'ordonnance n° 85-1181 du 13 novembre 1985 susvisée pour le territoire de la Nouvelle-Calédonie, par l'article 112 de la loi n° 52-1322 du 15 décembre 1952 susvisée pour le territoire de Wallis-et-Futuna et pour la collectivité territoriale de Mayotte par les articles L. 212-1 et L. 212-2 du code du travail applicable dans cette collectivité en vertu de l'ordonnance n° 91-246 du 25 février 1991 susvisée.
-
-Dans les territoires d'outre-mer, la durée hebdomadaire du travail prise en compte pour les salariés régis par un contrat de travail temporaire est celle fixée dans ce contrat en application de la réglementation territoriale en vigueur.

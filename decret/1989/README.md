@@ -392,7 +392,6 @@
 - [Décret n°89-47 du 27 janvier 1989 (SPSS8801523D)](decret-n89-47-du-27-janvier-1989-spss8801523d)
 - [Décret n°89-48 du 27 janvier 1989 (SPSS8800060D)](decret-n89-48-du-27-janvier-1989-spss8800060d)
 - [Décret n°89-523 du 27 juillet 1989 (DOMP8900021D)](decret-n89-523-du-27-juillet-1989-domp8900021d)
-- [Décret n°89-524 du 27 juillet 1989 (DOMP8900020D)](decret-n89-524-du-27-juillet-1989-domp8900020d)
 - [Décret n°89-525 du 27 juillet 1989 (AGRS8901345D)](decret-n89-525-du-27-juillet-1989-agrs8901345d)
 - [Décret n°89-793 du 27 octobre 1989 (PTTT8900553D)](decret-n89-793-du-27-octobre-1989-pttt8900553d)
 - [Décret n°89-798 du 27 octobre 1989 (SPSA8901937D)](decret-n89-798-du-27-octobre-1989-spsa8901937d)
