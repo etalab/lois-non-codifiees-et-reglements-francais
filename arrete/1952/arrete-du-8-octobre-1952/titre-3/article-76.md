@@ -1,3 +1,0 @@
-# Article 76
-
-Les excédents annuels de recettes du premier compte général de l'union régionale prévu au paragraphe 3 de l'article 35 du décret du 22 octobre 1947 sont répartis entre le fonds de compensation et de garantie correspondant de la caisse autonome nationale et les comptes généraux d'action sanitaire et sociale de l'union régionale et de la caisse autonome nationale, dans les proportions définies par un arrêté du ministre du travail et du ministre des finances, après avis du comité fonctionnant auprès du conseil d'administration de la caisse autonome nationale qui a dans ses attributions la gestion du fonds de garantie et de compensation précité.
