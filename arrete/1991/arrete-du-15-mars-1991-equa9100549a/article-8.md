@@ -1,3 +1,0 @@
-# Article 8
-
-Le présent arrêté abroge l'arrêté du 22 décembre 1986 modifié relatif aux conditions d'homologation et d'utilisation d'un aérodrome pour l'exécution de procédures d'approche de précision, l'instruction 20210 DNA du 26 février 1987 modifiée, les circulaires 20722 DNA/2 du 21 décembre 1973 relative au balisage lumineux des pistes d'aérodromes, 20042 DNA/2 A du 21 janvier 1981 fixant les règles à observer lors de la mise en place des marques de point d'attente sur un aérodrome, 20506 du 30 juin 1982 relative à la mise en place des panneaux de signalisation sur les aérodromes, ainsi que l'instruction 20964 du 30 octobre 1981 relative à l'alimentation électrique de secours des installations de navigation des aérodromes.
