@@ -114,6 +114,7 @@
 - [Arrêté du 7 juin 1989 (PTTT8900537A)](arrete-du-7-juin-1989-pttt8900537a)
 - [Arrêté du 8 août 1989 (SPSS8901708A)](arrete-du-8-aout-1989-spss8901708a)
 - [Arrêté du 8 août 1989 (TEFE8903646A)](arrete-du-8-aout-1989-tefe8903646a)
+- [Arrêté du 8 août 1989 (TEFE8903647A)](arrete-du-8-aout-1989-tefe8903647a)
 - [Arrêté du 8 août 1989 (TEFE8903648A)](arrete-du-8-aout-1989-tefe8903648a)
 - [Arrêté du 8 décembre 1988 (TEFT8804179A)](arrete-du-8-decembre-1988-teft8804179a)
 - [Arrêté du 8 février 1989 (ECOT8916063A)](arrete-du-8-fevrier-1989-ecot8916063a)
