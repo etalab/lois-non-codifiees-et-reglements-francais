@@ -721,7 +721,6 @@
 - [Arrêté du 27 juin 1990 (AGRR9001207A)](arrete-du-27-juin-1990-agrr9001207a)
 - [Arrêté du 27 juin 1990 (DEFA9001652A)](arrete-du-27-juin-1990-defa9001652a)
 - [Arrêté du 27 juin 1990 (ECOT9010077A)](arrete-du-27-juin-1990-ecot9010077a)
-- [Arrêté du 27 juin 1990 (PRME9061335A)](arrete-du-27-juin-1990-prme9061335a)
 - [Arrêté du 27 juin 1990 (RESZ9000114A)](arrete-du-27-juin-1990-resz9000114a)
 - [Arrêté du 27 mars 1990 (MCCB9000148A)](arrete-du-27-mars-1990-mccb9000148a)
 - [Arrêté du 27 novembre 1989 (SPSS8902544A)](arrete-du-27-novembre-1989-spss8902544a)
