@@ -116,6 +116,7 @@
 - [Décret n°85-887 du 12 août 1985](decret-n85-887-du-12-aout-1985)
 - [Décret n°85-889 du 12 août 1985](decret-n85-889-du-12-aout-1985)
 - [Décret n°85-930 du 12 août 1985](decret-n85-930-du-12-aout-1985)
+- [Décret n°85-965 du 12 septembre 1985](decret-n85-965-du-12-septembre-1985)
 - [Décret n° 85-218 du 13 février 1985](decret-n-85-218-du-13-fevrier-1985)
 - [Décret n° 85-338 du 13 mars 1985](decret-n-85-338-du-13-mars-1985)
 - [Décret n°85-200 du 13 février 1985](decret-n85-200-du-13-fevrier-1985)
