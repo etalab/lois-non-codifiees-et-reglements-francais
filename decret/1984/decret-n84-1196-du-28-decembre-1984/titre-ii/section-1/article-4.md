@@ -16,9 +16,7 @@ exerçant dans le département ;
 
 2° Le collège des praticiens hospitaliers à temps partiel comprend :
 
-a) Les praticiens régis par le décret n° 74-394 du 3 mai 1974 susvisé ;
-
-b) Les personnels enseignants et universitaires à temps partiel régis par l'article 15 du décret n° 60-1030 du 24 septembre 1960 susvisé ;
+a) Les praticiens régis par le décret n° 85-384 du 29 mars 1985.    b) Les personnels enseignants et universitaires à temps partiel régis par l'article 15 du décret n° 60-1030 du 24 septembre 1960 susvisé ;
 
 c) Les personnels enseignants et hospitaliers à temps partiel des centres de soins, d'enseignement et de recherche dentaires régis par le décret n° 65-803 du 22 septembre 1965 et le décret n° 81-61 du 27 janvier 1961 susvisés ;
 
