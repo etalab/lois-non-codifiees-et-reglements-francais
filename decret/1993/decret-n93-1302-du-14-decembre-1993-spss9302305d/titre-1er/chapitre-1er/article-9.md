@@ -14,8 +14,6 @@ L'assemblée établit un règlement intérieur, adopté à la majorité des deux
 
 6° Les conditions dans lesquelles l'assemblée de l'union peut donner délégation aux membres du bureau ;
 
-7° Les règles de fonctionnement des sections mentionnées à l'article 13 ;
-
-8° Le cas échéant, les missions et les règles de fonctionnement des échelons départementaux mentionnés à l'article 31.
+7° Le cas échéant, les missions et les règles de fonctionnement des échelons départementaux mentionnés à l'article 31.
 
 Le règlement intérieur ainsi que toute modification sont communiqués au préfet de région.
