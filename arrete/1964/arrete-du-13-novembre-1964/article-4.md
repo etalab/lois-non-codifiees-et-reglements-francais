@@ -1,21 +1,21 @@
 # Article 4
 
-Sont validés pour l'exercice en qualité d'infirmier(e) de sanatorium les titres suivants :
+Sont validés pour l'exercice en qualité d'infirmière de sanatorium les titres suivants délivrés avant le 31 décembre 1971 :
 
-Certificat d'infirmier de sanatorium délivré par l'école Mangini, à Hauteville (Ain).
+Certificat d'infirmière de sanatorium délivré par l'école Mangini, à Hauteville (Ain) ;
 
-Certificat d'infirmière de sanatorium délivré par l'école du sana­torium des Escaldes (Pyrénées-Orientales).
+Certificat d'infirmière de sanatorium délivré par l'école de sanatorium des escaldes (Pyrénées-Orientales) ;
 
-Certificat d'infirmière de sanatorium délivré par l'école Arditeya, à Cambo (Basses-Pyrénées).
+Certificat d'infirmière de sanatorium délivré par l'école arditeya, à Cambo (Pyrénées-Atlantiques) ;
 
-Certificat d'infirmier de sanatorium délivré par l'école du sana¬torium de Clairvivre (Dordogne).
+Certificat d'infirmière de sanatorium délivré par l'école du sanatorium de Clairvive (Dordogne) ;
 
-L'activité des intéressées est limitée aux établissements sanatoriaux. Cependant les personnes possédant depuis au moins cinq ans l'un de ces titres peuvent sur le vu d'un certificat médical de guérison être également employées dans les établissements ci-après :
+Les titulaires d'un des certificats précités peuvent être également employés dans établissements ou services ci-après :
 
-Etablissements hospitaliers, exclusivement les services de phtisiologie.
+Service de phtisiologie des établissements  hospitaliers ;
 
-Centres départementaux de phtisiologie.
+Centres départementaux de phtisiologie
 
 Dispensaires antituberculeux.
 
-Dans ce cas, le certificat devra dater de moins de trois mois, attester la guérison clinique, radiologique et bactériologique et constater que cette guérison a fait ses preuves par cinq ans d'activité depuis qu'ont disparu les signes et symptômes d'évolution lésionnelle.
+Ces certificats sont, en outre, validés pour l'exercice de la profession d'infirmière dans les établissements d'hospitalisation, de soins ou de cure publics et privés reconvertis ou en voie de reconversion lorsque leurs titulaires justifient au 31 décembre 1976 de cinq années d'exercice de la profession accomplies après la délivrance de l'un de ces titres.
