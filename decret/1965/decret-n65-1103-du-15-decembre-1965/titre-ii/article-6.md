@@ -16,7 +16,7 @@ III - Dans les cas d'application des articles 2 et 6 de l'ordonnance n° 59-147 
 
 Des arrêtés des commissaires de la République de zone fixent la composition de cette délégation pour chaque région.
 
-Dès la mise en garde, le général commandant la circonscription militaire de défense accrédite un officier auprès du représentant du commissaire aux transports terrestres.
+Dès la mise en garde, l'officier général de zone de défense accrédite un officier auprès du représentant du commissaire aux transports terrestres.
 
 IV - Dans chaque département, sous l'autorité du préfet, le directeur départemental de l'équipement est responsable de la préparation et de l'exécution des mesures de défense correspondant à ses attributions techniques spécifiques, suivant les instructions reçues de l'administration centrale, de la zone et de la circonscription d'action régionale.
 
