@@ -215,6 +215,8 @@
 - [Décret n°98-750 du 24 août 1998 (MCCK9800157D)](decret-n98-750-du-24-aout-1998-mcck9800157d)
 - [Décret n°99-130 du 24 février 1999 (MCCK9800773D)](decret-n99-130-du-24-fevrier-1999-mcck9800773d)
 - [Décret n°99-231 du 24 mars 1999 (ECOT9951788D)](decret-n99-231-du-24-mars-1999-ecot9951788d)
+- [Décret n°99-232 du 24 mars 1999 (INTA9900066D)](decret-n99-232-du-24-mars-1999-inta9900066d)
+- [Décret n°99-233 du 24 mars 1999 (ECOT9920001D)](decret-n99-233-du-24-mars-1999-ecot9920001d)
 - [Décret n°78-1044 du 25 octobre 1978](decret-n78-1044-du-25-octobre-1978)
 - [Décret n°99-51 du 25 janvier 1999 (ECOT9810354D)](decret-n99-51-du-25-janvier-1999-ecot9810354d)
 - [Décret n°99-900 du 25 octobre 1999 (JUSE9940214D)](decret-n99-900-du-25-octobre-1999-juse9940214d)
