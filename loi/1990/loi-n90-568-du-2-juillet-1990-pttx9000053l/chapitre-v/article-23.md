@@ -1,5 +1,9 @@
 # Article 23
 
-La Poste dispose d'un domaine public dont le régime est fixé par son cahier des charges, dans le respect des principes généraux de la domanialité publique.
+Les biens immobiliers de La Poste relevant de son domaine public sont déclassés. Ils peuvent être librement gérés et aliénés dans les conditions du droit commun.
 
-Le cahier des charges précise les conditions particulières de gestion du patrimoine immobilier de La Poste de manière à permettre à cet exploitant public de procéder librement aux acquisitions, échanges, locations, aliénations de biens nécessaires à l'exercice de son activité et plus généralement aux actes de gestion de son patrimoine immobilier, sous réserve de l'observation préalable des formalités de déclassement pour ce qui concerne les biens de son domaine public.
+Lorsque les conditions de la cession ou de l'apport d'un bien compromettent la bonne exécution par La Poste des obligations de son cahier des charges ou des engagements pris dans le cadre de son contrat de plan, en ce qui concerne, notamment, la continuité du service public et la politique d'aménagement du territoire, l'Etat s'oppose à la cession ou à l'apport ou subordonne leur réalisation à la condition qu'ils ne portent pas préjudice à la bonne exécution desdites obligations. A cette fin, La Poste transmet à l'Etat toutes informations utiles et, notamment, le projet de convention avec le cessionnaire ou le destinataire de l'apport.
+
+En cas de non-respect des conditions prévues à l'alinéa précédent, la nullité de la cession ou de l'apport peut être demandée par l'Etat.
+
+Le cahier des charges fixe les conditions et modalités de l'opposition mentionnée au deuxième alinéa.

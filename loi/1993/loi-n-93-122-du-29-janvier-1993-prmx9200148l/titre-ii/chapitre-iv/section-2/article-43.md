@@ -1,6 +1,6 @@
 # Article 43
 
-Après décision sur le principe de la délégation, il est procédé à une publicité et un recueil d'offres dans les conditions prévues aux deuxième et troisième alinéas de l'article 38.
+Après décision sur le principe de la délégation, il est procédé à une publicité et un recueil d'offres dans les conditions prévues aux troisième et quatrième alinéas de l'article 38.
 
 Les plis contenant les offres sont ouverts par une commission composée :
 

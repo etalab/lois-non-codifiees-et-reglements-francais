@@ -4,7 +4,7 @@ I. - Les dispositions du présent article s'appliquent, sauf les exceptions pré
 
 1° Soit d'un contrat que se propose de conclure, avec un prestataire de services, l'une des personnes mentionnées à l'article 9 ;
 
-2° Soit d'un contrat que se propose de conclure, avec un prestataire de services, une personne de droit privé autre que celles qui sont mentionnées au 1°, lorsque ce contrat est, d'une part, en liaison avec un contrat de travaux tel que celui-ci est défini au 1° de l'article 10 et doit être, d'autre part, subventionné directement à plus de 50 % par l'Etat, des collectivités locales, des organismes de droit public n'ayant pas un caractère industriel ou commercial, ou les organismes de droit privé mentionnés à l'article 9.
+2° Soit d'un contrat que se propose de conclure, avec un prestataire de services, une personne de droit privé autre que celles qui sont mentionnées au 1°, lorsque ce contrat est, d'une part, en liaison avec un contrat de travaux tel que celui-ci est défini au 1° de l'article 10 et doit être, d'autre part, subventionné directement à plus de 50 % par l'Etat, des collectivités locales, des organismes de droit public n'ayant pas un caractère industriel ou commercial, ou les organismes mentionnés à l'article 9.
 
 II. - Lorsqu'un contrat mentionné au I a pour objet l'exécution de services qui entrent dans l'une des catégories de services énumérées ci-après, la personne qui se propose de passer le contrat est tenue de se conformer aux mesures de publicité et aux procédures de mise en concurrence qui sont définies par décret en Conseil d'Etat.
 
