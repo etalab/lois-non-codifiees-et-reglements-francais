@@ -1,0 +1,5 @@
+# Article 2
+
+Si l'application de l'article 3 du décret du 26 février 1976 susvisé dans sa rédaction résultant de l'article 3 du décret n° 95-1013 du 13 septembre 1995 susvisé a pour effet de classer les ingénieurs divisionnaires des travaux publics de l'Etat nommés dans l'emploi de chef d'arrondissement entre le 1er août 1994 et la date de publication du décret n° 95-1013 du 13 septembre 1995 susvisé à un échelon doté d'un indice inférieur à celui de l'échelon de l'ancien emploi de chef d'arrondissement dans lequel ils avaient été classés initialement en application de l'article 3 du décret n° 76-213 du 26 février 1976 susvisé, les intéressés conservent à titre personnel le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient dans leur nouvel emploi d'un indice au moins égal.
+
+Les intéressés conservent également dans leur nouvel échelon l'ancienneté acquise dans leur échelon initial de classement, si celle-ci est supérieure à celle résultant des dispositions de l'article 3 du décret du 26 février 1976 susvisé dans sa rédaction résultant de l'article 3 du décret n° 95-1013 du 13 septembre 1995 susvisé.
