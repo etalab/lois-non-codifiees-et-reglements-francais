@@ -1,5 +1,15 @@
 # Article 2
 
-La réduction applicable à la prime d'épargne versée dans les conditions prévues au troisième alinéa de l'article R. 315-31 du code de la construction et de l'habitation au souscripteur d'un plan d'épargne-logement est égale au quart du montant déterminé selon les modalités fixées à l'article 1er (2°) ci-dessus.
+MAJIC 2 assure :
 
-La réduction applicable à la prime d'épargne versée dans les conditions prévues au quatrième alinéa de l'article R. 315-31 du code de la construction et de l'habitation au souscripteur d'un plan d'épargne-logement est égale à la moitié du montant déterminé selon les modalités fixées à l'article 1er (2°) ci-dessus.
+- la mise à jour des fichiers cadastraux concernant les titulaires des droits réels sur les propriétés bâties et les propriétés non bâties ;
+
+- l'identification et la détermination physique des immeubles ;
+
+- la détermination de la valeur locative des biens fonciers bâtis et non bâtis ;
+
+- la prise en charge et l'édition des rôles et des avis d'imposition de taxes foncières ;
+
+- la comptabilisation des droits perçus à l'occasion de la délivrance d'extraits ou de reproduction de la documentation cadastrale ;
+
+- le traitement et le suivi du contentieux.

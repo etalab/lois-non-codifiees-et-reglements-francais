@@ -1,5 +1,10 @@
-# Arrêté du 16 août 1984 relatif aux taux d'intérêt des dépôts et des prêts d'épargne-logement et au montant de la prime propre au régime des plans d'épargne-logement
+# Arrêté du 16 août 1984 relatif à la mise à la disposition des centres des impôts fonciers des moyens informatiques assurant la gestion décentralisée de la documentation cadastrale sur support magnétique (MAJIC 2)
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)
