@@ -2,8 +2,10 @@
 
 La durée des formations des coordonnateurs est fixée à :
 
-1° Quinze jours pour le niveau 1 ;
+- quinze jours pour le niveau 1 ;
 
-2° Dix jours pour le niveau 2.
+- douze jours pour le niveau 2 ;
 
-La formation de niveau 3 est fractionnée en un stage obligatoire d'une durée de trois jours et en un stage complémentaire optionnel d'une durée de deux jours.
+- cinq jours pour le niveau 3.
+
+Toutefois, les titulaires d'une attestation de compétence à la date d'entrée en vigueur du présent arrêté conservent le bénéfice de leur formation initiale jusqu'à l'actualisation de leur formation dans les conditions prévues par l'article R. 238-10 du code du travail et par le présent arrêté.

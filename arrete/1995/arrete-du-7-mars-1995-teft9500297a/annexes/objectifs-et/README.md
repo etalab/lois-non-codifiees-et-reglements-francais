@@ -6,4 +6,5 @@
 - [IV  - La coordination de conception.](iv)
 - [V. - La coordination d'exécution.](v)
 - [VI  - Dispositions spécifiques au niveau 3.](vi)
+- [VII. - Dispositions spécifiques à l'actualisation de la formation](vii)
 - [Article Annexe I](article-annexe-i.md)
