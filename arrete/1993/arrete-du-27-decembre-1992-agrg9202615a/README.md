@@ -6,4 +6,3 @@
 - [Titre II : Conditions d'hygiène applicables aux navires-usines](titre-ii)
 - [Titre III : Dispositions générales](titre-iii)
 - [Article 48](article-48.md)
-- [Annexes](annexes)

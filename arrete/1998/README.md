@@ -217,8 +217,6 @@
 - [Arrêté du 18 décembre 1997 (MESP9724026A)](arrete-du-18-decembre-1997-mesp9724026a)
 - [Arrêté du 18 février 1998 (DEFG9801176A)](arrete-du-18-fevrier-1998-defg9801176a)
 - [Arrêté du 18 février 1998 (MCCH9800149A)](arrete-du-18-fevrier-1998-mcch9800149a)
-- [Arrêté du 18 février 1998 (MESH9820726A)](arrete-du-18-fevrier-1998-mesh9820726a)
-- [Arrêté du 18 février 1998 (MESH9820729A)](arrete-du-18-fevrier-1998-mesh9820729a)
 - [Arrêté du 18 mars 1998 (AGRP9800146A)](arrete-du-18-mars-1998-agrp9800146a)
 - [Arrêté du 18 mars 1998 (EQUA9800310A)](arrete-du-18-mars-1998-equa9800310a)
 - [Arrêté du 18 mars 1998 (MENE9800655A)](arrete-du-18-mars-1998-mene9800655a)
