@@ -1,6 +1,6 @@
 # Article 46-1
 
-La couverture des charges de l'assurance veuvage est assurée [*financement*] par des cotisations assises sur les rémunérations ou gains perçus par les travailleurs salariés ou assimilés, dans la limite du plafond prévu par l'article 41 ci-dessus.
+La couverture des charges de l'assurance veuvage est assurée [*financement*] par des cotisations assises sur les rémunérations ou gains perçus par les travailleurs salariés ou assimilés [*assiette*].
 
 Ces cotisations, dont le taux est fixé par décret, sont à la charge des salariés.
 
