@@ -32,15 +32,13 @@ V. - La direction générale de la coopération internationale et du développem
 
 - du service de la stratégie, des moyens et de l'évaluation ;
 
-- du service de la coordination géographique ;
-
-- de la direction du développement et de la coopération technique ;
+- de la direction de l'audiovisuel extérieur ;
 
 - de la direction de la coopération culturelle et du français ;
 
-- de la direction de la coopération scientifique, universitaire et de recherche ;
+- de la direction du développement et de la coopération technique ;
 
-- de la direction de l'audiovisuel extérieur et des techniques de communication.
+- de la direction de la coopération scientifique et universitaire.
 
 VI. - Les directions, service et délégation suivants :
 
