@@ -1,0 +1,3 @@
+# Article 17
+
+Sont abrogés le décret n° 86-421 du 12 mars 1986 fixant les modalités de répartition entre les communes des départements d'outre-mer, des collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon et des territoires d'outre-mer des quotes-parts de la dotation globale de fonctionnement et le décret n° 91-1296 du 23 décembre 1991 pris pour l'application de l'article L. 234-14-1 du code des communes et relatif aux modalités de répartition entre les communes des départements d'outre-mer, des collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon de la quote-part de la dotation de solidarité urbaine.
