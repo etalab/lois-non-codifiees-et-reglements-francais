@@ -1,3 +1,3 @@
 # Article 1
 
-La société Cogeri est autorisée à exploiter un réseau indépendant de télécommunications par satellites selon les prescriptions techniques et réglementaires fixées dans le cahier des charges annexé au présent arrêté.
+La société Siris est autorisée à exploiter un réseau indépendant de télécommunications par satellites selon les prescriptions techniques et réglementaires fixées dans le cahier des charges annexé au présent arrêté.

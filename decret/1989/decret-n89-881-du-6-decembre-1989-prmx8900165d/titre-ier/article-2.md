@@ -38,4 +38,4 @@ Le comité interministériel comprend, sous la présidence du Premier ministre o
 
 D'autres ministres ou secrétaires d'Etat peuvent être appelés à siéger au comité selon les questions inscrites à l'ordre du jour.
 
-Le délégué général à la ville et au développement social urbain et le délégué aux rapatriés participent aux délibérations du comité interministériel.
+Le délégué interministériel à la ville et au développement social urbain, le délégué à l'intégration et le délégué aux rapatriés participent aux délibérations du comité interministériel.
