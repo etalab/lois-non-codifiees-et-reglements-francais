@@ -1,0 +1,3 @@
+# Article ANNEXE ART. 1
+
+Conformément aux articles 5 et 6 de la loi du 1er juillet 1901, il est formé entre tous les adhérents aux présents statuts une association de pêche et de pisciculture, ayant pour titre ... déclarée le ... à la préfecture de ... journal officiel du ... qui a fixé son siège à ....

@@ -7,6 +7,7 @@
 - [Loi n° 82-155 du 11 février 1982](loi-n-82-155-du-11-fevrier-1982)
 - [Loi n° 82-213 du 2 mars 1982](loi-n-82-213-du-2-mars-1982)
 - [Loi n° 82-357 du 27 avril 1982](loi-n-82-357-du-27-avril-1982)
+- [Loi n° 82-372 du 6 mai 1982](loi-n-82-372-du-6-mai-1982)
 - [Loi n° 82-4 du 6 janvier 1982](loi-n-82-4-du-6-janvier-1982)
 - [Loi n°82-1 du 4 janvier 1982](loi-n82-1-du-4-janvier-1982)
 - [Loi n°82-214 du 2 mars 1982](loi-n82-214-du-2-mars-1982)

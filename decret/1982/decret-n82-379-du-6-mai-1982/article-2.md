@@ -1,0 +1,3 @@
+# Article 2
+
+Peuvent également bénéficier de la prime les sociétés civiles ou commerciales qui ont pour objet la construction de bâtiments à usage professionnel ou l'achat de matériels neufs destinés à être utilisés en crédit-bail ou en location-vente par les entreprises exerçant une activité industrielle ou de recherche. Ces sociétés ne peuvent prétendre à l'attribution de primes que si elles justifient avoir consenti aux entreprises utilisatrices des bâtiments ou matériels compris dans les programmes primés des avantages correspondant à ceux qu'elles tirent de ce concours financier. Le montant des primes attribuées à ces sociétés est fixé proportionnellement aux parts que celles-ci prennent dans les programmes d'investissements.

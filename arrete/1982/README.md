@@ -45,6 +45,7 @@
 - [Arrêté du 22 mars 1982](arrete-du-22-mars-1982)
 - [Arrêté du 23 décembre 1981](arrete-du-23-decembre-1981)
 - [Arrêté du 23 février 1982](arrete-du-23-fevrier-1982)
+- [Arrêté du 23 mars 1982](arrete-du-23-mars-1982)
 - [Arrêté du 23 novembre 1981](arrete-du-23-novembre-1981)
 - [Arrêté du 24 février 1982](arrete-du-24-fevrier-1982)
 - [Arrêté du 24 mars 1982](arrete-du-24-mars-1982)

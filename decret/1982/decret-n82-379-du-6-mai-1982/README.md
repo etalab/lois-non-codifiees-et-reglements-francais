@@ -1,4 +1,4 @@
-# Décret n°70-95 du 30 janvier 1970 RELATIF AUX ELECTIONS DES MEMBRES DES CONSEILS D'ADMINISTRATION DES CAISSES MUTUELLES REGIONALES D'ASSURANCE MALADIE ET MATERNITE DES TRAVAILLEURS NON-SALARIES DES PROFESSIONS NON-AGRICOLES ELUS PAR LES AFFILIES.
+# Décret n°82-379 du 6 mai 1982 relatif à la prime d'aménagement du territoire.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -17,9 +17,7 @@
 - [Article 15](article-15.md)
 - [Article 16](article-16.md)
 - [Article 17](article-17.md)
-- [Article 17-1](article-17-1.md)
 - [Article 18](article-18.md)
 - [Article 19](article-19.md)
 - [Article 20](article-20.md)
-- [Article 21](article-21.md)
-- [Article 22](article-22.md)
+- [Annexes](annexes)
