@@ -85,3 +85,13 @@ Gestion du titre IV, mise en route des missions d'experts.
 Responsable de la cellule comptable.
 
 Contrôle des actes relatifs aux personnels d'assistance technique, comptabilité, titre IV, ordres de mission.
+
+Tranche 1993
+
+Agent chargé de la gestion prévisionnelle et administrative des personnels exerçant leurs fonctions à l'administration centrale ou dans les services à l'étranger.
+
+Ordonnancement ou gestion de titre budgétaire à la sous-direction chargée du budget.
+
+Encadrement d'une section au bureau de l'ordonnancement des crédits budgétaires.
+
+Secrétaire de direction (directeur, chef de service, sous-directeur).
