@@ -1,0 +1,3 @@
+# Article 1
+
+Les dispositions du code général des impôts, de l'article 74 de la loi de finances pour 1978 susvisée, de l'article 54 de la loi du 17 juillet 1978 susvisée, de l'article 90 de la loi de finances pour 1979 susvisée, de l'article 12 de la loi de finances rectificative pour 1978 susvisée et de la loi du 3 janvier 1979 susvisée relatives à la taxe foncière sur les propriétés bâties, la taxe foncière sur les propriétés non bâties, la taxe d'habitation, la taxe professionnelle et leurs taxes annexes sont applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion dans les conditions prévues par le présent décret.
