@@ -6,7 +6,7 @@ Trois personnes proposées en raison de leur compétence par le directeur de l'a
 
 Trois personnes proposées en raison de leur compétence par l'inspecteur d'académie ;
 
-Trois représentants des organismes d'assurance maladie et des organismes débiteurs de prestations familiales, dont au moins un au titre de l'assurance maladie et un au titre des organismes débiteurs de prestations familiales choisis sur proposition conjointe du directeur régional de la sécurité sociale et du chef du service régional des lois sociales en agriculture parmi les personnes désignées par les conseils d'administration de ces organismes ;
+Trois représentants des organismes d'assurance maladie et des organismes débiteurs de prestations familiales, dont au moins un au titre de l'assurance maladie et un au titre des organismes débiteurs de prestations familiales choisis sur proposition conjointe du directeur départemental des affaires sanitaires et sociales ou du directeur régional des affaires sanitaires et sociales, responsable de la direction de la solidarité et de la santé de Corse et de la Corse-du-Sud, et du chef du service régional de l'inspection du travail, de l'emploi et de la politique sociale agricoles parmi les personnes désignées par les conseils d'administration de ces organismes ;
 
 Une personne ayant des responsabilités dans un ou plusieurs établissements privés accueillant des enfants handicapés, sur proposition conjointe du directeur de l'action sanitaire et sociale et de l'inspecteur d'académie ;
 
