@@ -6,7 +6,7 @@ Toutefois, ce transfert ne peut porter sur les installations qui ne présentent 
 
 Sont exclus de la nationalisation :
 
-1° La production et le transport du gaz naturel jusqu'au compteur d'entrée de l'usine de distribution ; le transport de gaz naturel ne pouvant être assuré que par un établissement public ou une société dans laquelle au moins 30 p. 100 du capital serait détenu, directement ou indirectement, par l'Etat ou des établissements publics.
+1° La production et le transport du gaz naturel jusqu'au compteur d'entrée de l'usine de distribution .
 
 Les dispositions de l'article 35 ci-après s'appliqueront aux ouvrages de traitement et de transport de gaz naturel.
 
@@ -31,8 +31,6 @@ b) De conventions entre Electricité de France et lesdites entreprises ou collec
 Les entreprises de production de gaz et d'électricité qui n'auraient pas été nationalisées parce qu'elles entraient dans les exceptions prévues au troisième alinéa du présent article sont nationalisées par décret pris sur le rapport des ministres chargés de l'électricité et de l'économie et des finances, si le volume annuel de la production vient à dépasser 7 millions de mètres cubes ou si la puissance installée des appareils de production devient supérieure à 8000 kVA, sauf s'il s'agit d'entreprises visées aux paragraphes 1°, 4° et 6°.
 
 Toutefois, les entreprises gazières concessionnaires de distributions publiques pourront, pour la durée du contrat de concession en cours poursuivre leur exploitation jusqu'à un plafond de production ou d'alimentation de 12 millions de mètres cubes-an.
-
-Si une entreprise gazière qui n'est pas nationalisée se trouve sur le parcours d'une conduite de gaz combustible, le Gaz de France pourra lui imposer de s'alimenter à cette source. Faute de se conformer à l'injonction qui lui aura été adressée par le Gaz de France, l'entreprise intéressée pourra être nationalisée.
 
 L'Electricité de France et le Gaz de France sont tenus d'assurer aux entreprise dépossédées, à conditions économiques et techniques égales, des fournitures d'électricité et de gaz équivalentes au point de vue de leur quantité, de leur qualité et de leur prix aux fournitures dont les entreprises disposaient avant le transfert de leurs biens.
 

@@ -26,7 +26,6 @@
 - [Ordonnance n° 58-897 du 24 septembre 1958](ordonnance-n-58-897-du-24-septembre-1958)
 - [Ordonnance n°58-998 du 24 octobre 1958](ordonnance-n58-998-du-24-octobre-1958)
 - [Ordonnance n° 58-903 du 25 septembre 1958](ordonnance-n-58-903-du-25-septembre-1958)
-- [Ordonnance n°58-1132 du 25 novembre 1958](ordonnance-n58-1132-du-25-novembre-1958)
 - [Ordonnance n° 58-1341 du 27 décembre 1958](ordonnance-n-58-1341-du-27-decembre-1958)
 - [Ordonnance n° 58-1357 du 27 décembre 1958](ordonnance-n-58-1357-du-27-decembre-1958)
 - [Ordonnance n° 58-1136 du 28 novembre 1958](ordonnance-n-58-1136-du-28-novembre-1958)

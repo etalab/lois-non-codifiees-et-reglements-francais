@@ -1,6 +1,6 @@
 # Article 37
 
-Dans le respect des dispositions législatives et réglementaires, la Commission de régulation de l'électricité précise, en tant que de besoin, par décision publiée au Journal officiel de la République française, les règles concernant :
+Dans le respect des dispositions législatives et réglementaires, la Commission de régulation de l'énergie précise, en tant que de besoin, par décision publiée au Journal officiel de la République française, les règles concernant :
 
 1° Les missions des gestionnaires de réseaux publics de transport et de distribution d'électricité en matière d'exploitation et de développement des réseaux, en application des articles 14 et 18 ;
 

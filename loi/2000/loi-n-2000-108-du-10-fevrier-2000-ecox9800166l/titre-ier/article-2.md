@@ -32,10 +32,10 @@ Un décret définit les modalités de cette aide, notamment les critères nation
 
 Electricité de France ainsi que, dans le cadre de leur objet légal et dans leur zone de desserte exclusive, les distributeurs non nationalisés mentionnés à l'article 23 de la loi n° 46-628 du 8 avril 1946 précitée :
 
-- sont les organismes en charge de la mission mentionnée au 1° du présent paragraphe, qu'ils accomplissent conformément aux dispositions des cahiers des charges de concession ou aux règlements de service des régies mentionnés à l'article L. 2224-31 du code général des collectivités territoriales ; les charges résultant de la mission de cohésion sociale sont réparties entre les organismes de distribution dans les conditions prévues au II de l'article 5 de la présente loi ;
+- sont les organismes en charge de la mission mentionnée au 1° du présent paragraphe, qu'ils accomplissent conformément aux dispositions des cahiers des charges de concession ou aux règlements de service des régies mentionnés à l'article L. 2224-31 du code général des collectivités territoriales .
 
 - assurent la mission mentionnée au 2° du présent paragraphe, sous réserve pour les distributeurs non nationalisés de disposer des capacités de production nécessaires, en concluant des contrats de secours dont les conditions financières garantissent la couverture de la totalité des coûts qu'ils supportent ;
 
-- exécutent la mission mentionnée au 3° du présent paragraphe en concluant des contrats de vente, dans la limite de leurs capacités de fourniture et dans des conditions financières qui tiennent notamment compte de la faible utilisation des installations de production mobilisées pour cette fourniture.
+- exécutent la mission mentionnée au 3° du présent paragraphe en concluant des contrats de vente, dans la limite de leurs capacités de fourniture et dans des conditions financières qui tiennent notamment compte de la faible utilisation des installations de production mobilisées pour cette fourniture ;
 
 Dans le cadre des missions mentionnées aux 2° et 3° du présent paragraphe, lorsque la fourniture est effectuée à partir du réseau de distribution, Electricité de France et les distributeurs non nationalisés accomplissent cette mission conformément aux dispositions des cahiers des charges de concession ou des règlements de service des régies mentionnés à l'article L. 2224-31 du code général des collectivités territoriales.
