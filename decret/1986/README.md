@@ -264,6 +264,7 @@
 - [Décret n°86-258 du 26 février 1986](decret-n86-258-du-26-fevrier-1986)
 - [Décret n°86-277 du 26 février 1986](decret-n86-277-du-26-fevrier-1986)
 - [Décret n°86-278 du 26 février 1986](decret-n86-278-du-26-fevrier-1986)
+- [Décret n°86-690 du 26 mars 1986](decret-n86-690-du-26-mars-1986)
 - [Décret n°85-1387 du 27 décembre 1985](decret-n85-1387-du-27-decembre-1985)
 - [Décret n°85-1388 du 27 décembre 1985](decret-n85-1388-du-27-decembre-1985)
 - [Décret n°85-1389 du 27 décembre 1985](decret-n85-1389-du-27-decembre-1985)

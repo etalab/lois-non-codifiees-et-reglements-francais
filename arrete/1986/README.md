@@ -66,6 +66,7 @@
 - [Arrêté du 24 février 1986](arrete-du-24-fevrier-1986)
 - [Arrêté du 24 janvier 1986](arrete-du-24-janvier-1986)
 - [Arrêté du 25 février 1986](arrete-du-25-fevrier-1986)
+- [Arrêté du 25 mars 1986](arrete-du-25-mars-1986)
 - [Arrêté du 26 février 1986](arrete-du-26-fevrier-1986)
 - [Arrêté du 26 novembre 1984](arrete-du-26-novembre-1984)
 - [Arrêté du 27 avril 1987 (DEFP8701224A)](arrete-du-27-avril-1987-defp8701224a)
