@@ -4,4 +4,4 @@ La sous-direction Administration-finances participe à l'élaboration de la rég
 
 Elle élabore la réglementation concernant l'organisation, le fonctionnement et la surveillance du service administratif, financier et comptable des unités, notamment en ce qui concerne l'application du régime des dépenses à bon compte, la trésorerie, les vivres et le matériel.
 
-Elle prépare les mesures budgétaires du ressort du service, en suit l'exécution et en tient la comptabilité.
+Elle prépare les mesures budgétaires de son ressort, en suit l'exécution et en tient la comptabilité.

@@ -8,8 +8,8 @@ La direction centrale du commissariat de la marine comprend :
 
 - une sous-direction Logistique ;
 
-- un bureau Etudes générales ;
+- bureau Organisation-audit-gestion ;
 
-- un bureau Droit de la mer, réquisitions et événements de mer ;
+- bureau Droit de la mer et événements de mer ;
 
 - un bureau Informatique.
