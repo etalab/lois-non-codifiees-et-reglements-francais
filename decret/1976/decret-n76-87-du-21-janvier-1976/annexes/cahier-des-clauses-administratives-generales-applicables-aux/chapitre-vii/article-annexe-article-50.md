@@ -6,9 +6,7 @@ Règlement des différends et des litiges.
 
 50.11. Si un différend survient entre le maître d'oeuvre et l'entrepreneur, sous la forme de réserves faites à un ordre de service ou sous toute autre forme, l'entrepreneur remet au maître d'oeuvre, aux fins de transmission à la personne responsable du marché, un mémoire exposant les motifs et indiquant les montants de ses réclamations.
 
-50.12. Après que ce mémoire a été transmis par le maître d' oeuvre, avec son avis, à la personne responsable du marché, celle-ci notifie ou fait notifier à l'entrepreneur sa proposition pour le règlement du différend, dans un délai de deux mois à compter de la date de réception par le maître d'oeuvre du mémoire de réclamation.
-
-L'absence de proposition dans ce délai équivaut à un rejet de la demande de l'entrepreneur.
+50.12. Après que ce mémoire a été transmis par le maître d' oeuvre, avec son avis, à la personne responsable du marché, celle-ci notifie ou fait notifier à l'entrepreneur sa proposition pour le règlement du différend, dans un délai de deux mois à compter de la date de réception par le maître d'oeuvre du mémoire de réclamation.    L'absence de proposition dans ce délai équivaut à un rejet de la demande de l'entrepreneur.
 
 50.2. Intervention du maître de l'ouvrage :
 
@@ -22,11 +20,7 @@ Si l'entrepreneur ne donne pas son accord à la décision ainsi prise, les modal
 
 50.3. Procédure contentieuse :
 
-50.31. Si, dans le délai de trois mois à partir de la date de réception, par la personne responsable du marché, de la lettre ou du mémoire de l'entrepreneur mentionné aux 21 et 22 du présent article aucune décision n'a été notifiée à l'entrepreneur, ou si celui-ci n'accepte pas la décision qui lui a été notifiée, l'entrepreneur peut saisir le tribunal administratif compétent. Il ne peut porter devant cette juridiction que les chefs et motifs de réclamation énoncés dans la lettre ou le mémoire remis à la personne responsable du marché.
-
-50.32. Si, dans le délai de six mois à partir de la notification à l'entrepreneur de la décision prise conformément au 23 du présent article sur les réclamations auxquelles a donné lieu le décompte général du marché, l'entrepreneur n'a pas porté ses réclamations devant le tribunal administratif compétent, il est considéré comme ayant accepté ladite décision et toute réclamation est irrecevable.
-
-Toutefois, le délai de six mois est suspendu en cas de saisine du comité consultatif de règlement amiable dans les conditions du 41 du présent article.
+50.31. Si, dans le délai de trois mois à partir de la date de réception, par la personne responsable du marché, de la lettre ou du mémoire de l'entrepreneur mentionné aux 21 et 22 du présent article aucune décision n'a été notifiée à l'entrepreneur, ou si celui-ci n'accepte pas la décision qui lui a été notifiée, l'entrepreneur peut saisir le tribunal administratif compétent. Il ne peut porter devant cette juridiction que les chefs et motifs de réclamation énoncés dans la lettre ou le mémoire remis à la personne responsable du marché.    50.32. Si, dans le délai de six mois à partir de la notification à l'entrepreneur de la décision prise conformément au 23 du présent article sur les réclamations auxquelles a donné lieu le décompte général du marché, l'entrepreneur n'a pas porté ses réclamations devant le tribunal administratif compétent, il est considéré comme ayant accepté ladite décision et toute réclamation est irrecevable.    Toutefois, le délai de six mois est suspendu en cas de saisine du comité consultatif de règlement amiable dans les conditions du 4 du présent article.
 
 50.4. Intervention d'un comité consultatif de règlement amiable :
 

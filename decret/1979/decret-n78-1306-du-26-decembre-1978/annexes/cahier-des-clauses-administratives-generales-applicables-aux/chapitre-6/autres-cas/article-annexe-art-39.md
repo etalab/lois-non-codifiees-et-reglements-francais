@@ -6,11 +6,9 @@ En cas de décès ou d'incapacité civile du titulaire, la résiliation du march
 
 La résiliation, ainsi prononcée, prend effet à la date du décès ou de l'incapacité civile.
 
-39.2. Règlement judiciaire ou liquidation de biens.
+39.2. Redressement judiciaire ou liquidation judiciaire :
 
-En cas de règlement judiciaire ou de liquidation des biens du titulaire, la résiliation du marché est prononcée, sauf si le syndic use, dans le mois suivant la décision de justice intervenue, de la faculté de poursuivre l'exécution du marché.
-
-La résiliation, ainsi prononcée, prend effet à la date de la décision du syndic de renoncer à poursuivre l'exécution du marché ou à l'expiration du délai d'un mois ci-dessus.
+En cas de redressement judiciaire ou de liquidation judiciaire, le marché peut être résilié dans les conditions prévues par la loi n° 85-98 du 25 janvier 1985 modifiée.
 
 39.3. Impossibilité physique.
 

@@ -38,9 +38,7 @@ Si le marché ne prévoit pas de disposition particulière pour rémunérer le m
 
 10.2. Distinction des prix forfaitaires et des prix unitaires :
 
-Les prix sont soit des prix forfaitaires, soit des prix unitaires.
-
-Est prix forfaitaire tout prix qui rémunère l'entrepreneur pour un ouvrage, une partie d'ouvrage ou un ensemble déterminé de prestations défini par le marché et qui, ou bien est mentionné explicitement dans le marché comme étant forfaitaire, ou bien ne s'applique dans le marché qu'à un ensemble de prestations qui n'est pas de nature à être répété.
+Les prix sont soit des prix forfaitaires, soit des prix unitaires.    Est prix forfaitaire tout prix qui rémunère l'entrepreneur pour un ouvrage, une partie d'ouvrage ou un ensemble déterminé de prestations défini par le marché et qui, ou bien est mentionné explicitement dans le marché comme étant forfaitaire, ou bien ne s'applique dans le marché qu'à un ensemble de prestations qui n'est pas de nature à être répété.
 
 Est prix unitaire tout prix qui n'est pas forfaitaire au sens défini ci-dessus, notamment tout prix qui s'applique à une nature d'ouvrage ou à un élément d'ouvrage dont les quantités ne sont indiquées dans le marché qu'à titre prévisionnel.
 
@@ -60,7 +58,7 @@ Est prix unitaire tout prix qui n'est pas forfaitaire au sens défini ci-dessus,
 
 10.34. Si la décomposition d'un prix forfaitaire ou le sous-détail d'un prix unitaire ne figure pas parmi les pièces contractuelles et si sa production n'est pas prévue par le C.C.A.P. dans un certain délai, un ordre de service peut ordonner cette production et, dans ce cas, le délai accordé à l'entrepreneur ne peut être inférieur à vingt jours.
 
-L'absence de production de la décomposition d'un prix forfaitaire ou du sous-détail d'un prix unitaire, quand cette pièce est à produire dans un délai déterminé, fait obstacle au mandatement du premier acompte qui suit la date d'exigibilité de ladite pièce.
+L'absence de production de la décomposition d'un prix forfaitaire ou du sous-détail d'un prix unitaire, quand cette pièce est à produire dans un délai déterminé, fait obstacle à la mise en oeuvre de la procédure de règlement du premier acompte qui suit la date d'exigibilité de ladite pièce.
 
 10.4. Variation dans les prix :
 

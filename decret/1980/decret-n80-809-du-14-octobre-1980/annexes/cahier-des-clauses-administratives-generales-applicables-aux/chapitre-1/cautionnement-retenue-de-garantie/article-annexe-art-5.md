@@ -4,7 +4,7 @@
 
 En cas de prélèvement sur le cautionnement, pour quelque motif que ce soit, le titulaire doit aussitôt le reconstituer.
 
-5.2. L'absence de constitution de cautionnement ou, s'il y a lieu, de son augmentation ou de sa reconstitution dans les délais contractuels, fait obstacle au mandatement des sommes dues au titulaire, à moins que celui-ci ne s'engage à affecter ces sommes à la régularisation du cautionnement.
+5.2. L'absence de constitution ou, s'il y a lieu, d'augmentation ou de reconstitution dans les délais contractuels du cautionnement fait obstacle à la mise en oeuvre de la procédure de règlement des sommes dues au titulaire, à moins que celui-ci ne s'engage à affecter directement ces sommes à la régularisation du cautionnement.
 
 5.3. La constitution du cautionnement, son augmentation ou sa reconstitution est constatée par la remise à la personne responsable du marché du récépissé du dépôt des fonds ou titres.
 

@@ -6,7 +6,9 @@ Cautionnement ou retenue de garantie
 
 4.11. Si le marché ou un avenant fixe un cautionnement, le titulaire doit le constituer dans les vingt jours de la notification du marché ou de l'avenant. En cas de prélèvement sur le cautionnement, pour quelque motif que ce soit, le titulaire doit aussitôt le reconstituer.
 
-4.12. L'absence de constitution du cautionnement ou, s'il y a lieu, de son augmentation ou de sa reconstitution fait obstacle au mandatement des sommes dues au titulaire, à moins que celui-ci ne s'engage à affecter ces sommes à la régularisation du cautionnement.    4.13. La constitution du cautionnement, son augmentation ou sa reconstitution est constatée par la remise à la personne responsable du marché du récépissé du dépôt des fonds ou titres.
+4.12. L'absence de constitution ou, s'il y a lieu, d'augmentation ou de reconstitution dans les délais contractuels du cautionnement fait obstacle à la mise en oeuvre de la procédure de règlement des sommes dues au titulaire, à moins que celui-ci ne s'engage à affecter ces sommes à la régularisation du cautionnement.
+
+4.13. La constitution du cautionnement, son augmentation ou sa reconstitution est constatée par la remise à la personne responsable du marché du récépissé du dépôt des fonds ou titres.
 
 4.14. Le remplacement du cautionnement par une caution personnelle et solidaire dans les conditions prévues par les règlements peut intervenir soit à l'origine, soit à tout moment. Si le cautionnement a déjà été constitué, il en est alors donné mainlevée.
 

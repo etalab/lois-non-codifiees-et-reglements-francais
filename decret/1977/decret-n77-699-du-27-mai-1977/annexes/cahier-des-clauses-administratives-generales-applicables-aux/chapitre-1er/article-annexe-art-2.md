@@ -1,6 +1,6 @@
 # Article Annexe, art. 2
 
-Définitions et obligations générales des parties contractantes.
+Définitions et obligations générales des parties contractantes
 
 2.1. Définitions :
 
@@ -54,7 +54,7 @@ Lorsque le sous-traitant doit être payé directement, le titulaire est tenu, lo
 
 2.37. Si, sans motif valable, quinze jours après avoir été mis en demeure de le faire le titulaire n'a pas rempli l'obligation prévue au 36 ci-dessus, il encourt une pénalité qui, dans le silence du marché, est égale à 1/1.000 du montant du marché par jour de retard.    2.38. En outre, si le titulaire a transgressé les obligations prévues au 32 du présent article, ou s'il n'a pas communiqué, un mois après la mise en demeure, le sous-traité comme prévu au 36, il s'expose à l'application des mesures prévues à l'article 28.
 
-2.39. Les mandatements à faire au sous-traitant sont effectués sur la base des pièces justificatives et de l'acceptation du titulaire donnée sous forme d'une attestation, transmises par celui-ci conformément aux stipulations du 1 de l'article 8.
+2.39. Les mandatements et, le cas échéant, les autorisations d'émettre une lettre de change-relevé au profit des sous-traitants sont effectués sur la base des pièces justificatives et de l'acceptation du titulaire donnée sous forme d'une attestation, transmises par celui-ci conformément aux stipulations du 1 de l'article 8.
 
 Dès réception de ces pièces, la personne responsable du marché avise directement le sous-traitant de la date de réception du décompte de la facture ou du mémoire et de l'attestation envoyés par le titulaire et lui indique les sommes dont le paiement à son profit a été accepté par le titulaire.
 
@@ -62,11 +62,13 @@ Le titulaire dispose d'un délai de quinze jours, comptés à partir de la réce
 
 Dans le cas où le titulaire n'a, dans le délai de quinze jours suivant la réception du décompte, de la facture ou du mémoire du sous-traitant, ni opposé un refus motivé ni transmis celui-ci à la personne responsable du marché, le sous-traitant envoie directement une copie de ces pièces à la personne responsable du marché. Il y joint une copie de l'avis de réception de l'envoi au titulaire de ces pièces justificatives.
 
-La personne responsable du marché met aussitôt en demeure le titulaire, par lettre recommandée avec demande d'avis de réception postal, de lui faire la preuve, dans un délai de quinze jours à compter de la réception de cette lettre, qu'il a opposé un refus motivé à son sous-traitant dans le délai prévu à l'alinéa précédent. Dès réception de l'avis, la personne responsable du marché informe le sous-traitant de la date de cette mise en demeure.
+La personne responsable du marché met aussitôt en demeure le titulaire, par lettre recommandée avec demande d'avis de réception postal, de lui apporter la preuve, dans un délai de quinze jours à compter de la réception de cette lettre, qu'il a opposé un refus motivé à son sous-traitant dans le délai prévu à l'alinéa précédent. Dès réception de l'avis, la personne responsable du marché informe le sous-traitant de la date de cette mise en demeure.
 
-A l'expiration de ce délai, et au cas où le titulaire ne serait pas en mesure d'apporter cette preuve, la personne responsable du marché dispose du délai prévu au 4 de l'article 8 pour mandater les sommes dues au sous-traitant, à due concurrence des sommes restant dues au titulaire.
+A l'expiration de ce délai, et au cas où le titulaire ne serait pas en mesure d'apporter cette preuve, la personne responsable du marché dispose des délais prévus au 4 et au 5 de l'article 8 pour mandater les sommes à régler ou envoyer l'autorisation d'émettre une lettre de change-relevé au sous-traitant.
 
-Un avis de mandatement est adressé au titulaire et au sous-traitant.
+Le montant de ces sommes ne peut excéder le montant des sommes restant dues au titulaire.
+
+Lorsque le règlement est effectué par un moyen autre que la lettre de change-relevé, un avis de mandatement est adressé au titulaire et au sous-traitant.
 
 Les sommes réclamées par le sous-traitant dans les conditions fixées par les articles 6 et 8 ou 12 et 13 de la loi n° 75-1334 du 31 décembre 1975 relative à la sous-traitance et qui sont retenues sur celles qui restent à payer au titulaire ne portent pas intérêt.
 
