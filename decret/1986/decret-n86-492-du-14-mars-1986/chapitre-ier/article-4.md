@@ -1,0 +1,3 @@
+# Article 4
+
+Dans chaque académie, il est créé, auprès du recteur, une commission administrative paritaire. Cette commission est composée d'une part de sept membres titulaires et sept membres suppléants, représentants du personnel et, d'autre part, d'un nombre égal de représentants de l'administration. Un professeur d'enseignement général de collège appartenant à la hors-classe siège parmi les membres titulaires ainsi que parmi les membres suppléants représentant le personnel. Un professeur d'enseignement général de collège appartenant à la classe exceptionnelle siège parmi les membres titulaires ainsi que parmi les membres suppléants représentant le personnel.
