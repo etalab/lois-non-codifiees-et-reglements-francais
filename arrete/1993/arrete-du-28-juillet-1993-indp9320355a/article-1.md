@@ -1,13 +1,57 @@
 # Article 1
 
-Les catégories de liaisons louées dont la fourniture sur le territoire national et vers les pays de la Communauté européenne et des autres Etats parties à l'accord sur l'Espace économique européen l'exploitant public est obligatoire sont les suivantes :
+Les catégories de liaisons louées dont la fourniture sur le territoire national et vers les pays de la Communauté européenne et de l'Espace économique européen par l'exploitant public est obligatoire sont définies dans le tableau suivant :
 
-a) Les liaisons louées à bande passante vocale de qualité ordinaire qui sont définies comme étant des liaisons à interface analogique 2 fils ou 4 fils ayant des spécifications de performances conformes à la recommandation M. 1040 du Comité consultatif international pour le téléphone et le télégraphe (C.C.I.T.T.) ;
+TYPES DE LIGNE LOUÉE
 
-b) Les liaisons louées à bande passante vocale de qualité spéciale qui sont définies comme étant des liaisons à interface analogique 2 fils ou 4 fils ayant des spécifications de performances conformes aux recommandations M. 1020 et 1025 du C.C.I.T.T. ;
+SPÉCIFICATION CONCERNANT la présentation des interfaces
 
-c) Les liaisons louées numériques à 64 kbits/s qui sont définies comme des liaisons conformes aux normes européennes de télécommunications ETS 300 288 et ETS 300 289 en ce qui concerne respectivement la présentation de l'interface et les caractéristiques de raccordement et les performances. Jusqu'au 31 décembre 1996, il est permis de fournir ces liaisons louées conformément aux recommandations G. 703 et G. 821/G. 823 de l'UIT-T en lieu et place respectivement des normes européennes de télécommunication ETS 300 288 et ETS 300 289. Pendant une période intérimaire, une interface basée sur la recommandation X. 21 de l'UIT-T ou sur la recommandation X. 21 bis de l'UIT-T pourra être offerte à la place de l'interface définie par la norme européenne de télécommunication ETS 300 288.
+SPÉCIFICATIONS CONCERNANT les caractéristiques de raccordement et les performances
 
-d) Les liaisons louées numériques à 2 048 kbits/s à trame non structurée qui sont définies comme des liaisons conformes aux normes européennes de télécommunications ETS 300 246 et ETS 300 247 en ce qui concerne respectivement la présentation de l'interface et les caractéristiques de raccordement et les performances. Jusqu'au 31 décembre 1996, il est permis de fournir ces liaisons louées conformément aux recommandations G. 703 et G. 821/G. 823 de l'UIT-T en lieu et place respectivement des normes européennes de télécommunication ETS 300 246 et ETS 300 247.
+Analogique à bande passante vocale de qualité ordinaire.
 
-e) Les liaisons louées numériques à 2 048 kbits/s à trame structurée qui sont définies comme étant des liaisons conformes aux interfaces définies par les recommandations du C.C.I.T.T. G. 703 et G. 704 (à l'exception de la section 5 de cette dernière) respectant les spécifications de performances définies par les recommandations G. 821 et G. 823 du C.C.I.T.T.
+2 fils - ETS 300 448
+
+ou
+
+4 fils - ETS 300 451
+
+2 fils - ETS 300 448
+
+4 fils - ETS 300 451
+
+Analogique à bande passante vocale de qualité spéciale.
+
+2 fils - ETS 300 449
+
+ou
+
+4 fils - ETS 300 452
+
+2 fils - ETS 300 449
+
+4 fils - ETS 300 452
+
+Numérique à 64 kbits/s.
+
+ETS 300 288
+
+ETS 300 288/A 1 (1)
+
+ETS 300 289
+
+Numérique à 2 048 kbits/s non structuré.
+
+ETS 300 418
+
+ETS 300 247
+
+ETS 300 247/A 1
+
+Numérique à 2 048 kbits/s structuré.
+
+ETS 300 418
+
+ETS 300 419
+
+(1) Durant la période provisoire allant au-delà du 31 décembre 1997, les lignes louées pourront être fournies à l'aide d'autres interfaces, basées sur X 21 ou X 21 bis, au lieu de la norme européenne ETS  300 288.

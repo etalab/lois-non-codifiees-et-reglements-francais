@@ -1,0 +1,3 @@
+# Article 1
+
+Le bureau national SIRENE créé par le décret du 23 mars 1995 susvisé est autorisé à enregistrer et conserver dans le cadre du traitement automatisé dénommé " gestion électronique de documents " (GED) des informations concernant des signes physiques en tant qu'éléments de signalement, qui peuvent faire apparaître, directement ou indirectement, des données relevant de l'article 31 de la loi du 6 janvier 1978 susvisée, lorsque celles-ci constituent des éléments déterminants pour l'identification des personnes qui sont enregistrées dans le système d'information Schengen (SIS), ou vont l'être en application des articles 95-2 ou 99-3 de la convention d'application de l'accord de Schengen.

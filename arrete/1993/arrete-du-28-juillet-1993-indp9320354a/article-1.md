@@ -4,7 +4,7 @@ Les modalités de calcul des indicateurs de référence des liaisons louées son
 
 1. Le délai de fourniture type :
 
-Il s'agit, pour une catégorie de liaison donnée, du délai maximum exprimé en jours qui, pour 80 p. 100 des liaisons louées de la même catégorie, s'écoule entre la date de la commande par l'utilisateur de la liaison louée et sa date de mise à disposition par l'exploitant public.
+Il s'agit, pour une catégorie de liaison donnée, du délai maximum exprimé en jours qui, pour 95 p. 100 des liaisons louées de la même catégorie, s'écoule entre la date de la commande par l'utilisateur de la liaison louée et sa date de mise à disposition par l'exploitant public.
 
 Df = Max (DI- Dc).
 
