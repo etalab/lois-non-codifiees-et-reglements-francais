@@ -1,0 +1,11 @@
+# Article 33
+
+I - Le conjoint survivant d'un assuré ayant exercé une activité visée à l'article 1er (a, b ou c) qui, à la suite du décès de ce dernier survenu avant qu'il ait pu bénéficier des dispositions du chapitre II, paragraphe 1, du présent titre, a continué l'activité professionnelle du défunt, ou a commencé à exercer une autre profession visée à l'article 1er (a, b ou c) ci-dessus, et a poursuivi l'exercice de l'une ou de l'autre pendant cinq années consécutives au moins peut prétendre, par application des dispositions des articles 22 à 26 ci-dessus, et sous réserve des dispositions desdits articles, à partir de soixante-cinq ans ou de soixante ans en cas d'inaptitude au travail, à un avantage calculé en raison de la totalité des périodes d'activité et de versements de cotisations effectués tant par l'assuré décédé que par lui-même, les périodes d'exercice de l'un et de l'autre s'ajoutant les unes aux autres.
+
+II - Un nouveau mariage du conjoint visé en I du présent article ne fait pas obstacle à l'attribution de l'avantage calculé comme il vient d'être dit, lorsque ce conjoint a continué d'exercer son activité professionnelle artisanale ou assimilée au moins jusqu'à la fin de la période de cinq années consécutives prévues en I ci-dessus.
+
+Dans le cas contraire, ce conjoint perd tout droit à la prise en compte des années d'activité et de cotisations de l'assuré décédé et à l'avantage de réversion au titre de son précédent mariage.
+
+III - Le conjoint survivant visé en I et II du présent article qui atteint l'âge de soixante-cinq ans ou de soixante ans en cas d'inaptitude au travail sans avoir exercé personnellement pendant cinq années consécutives au moins après le décès de l'assuré, ou qui, au moment dudit décès, est âgé de soixante-cinq ans ou plus, ne peut prétendre qu'à l'avantage prévu aux articles 31 et 32 du présent décret.
+
+Par dérogation à l'article 41 ci-après, ledit conjoint peut toutefois ne pas solliciter l'attribution de ce dernier avantage et s'il continue l'exercice de son activité artisanale ou assimilée jusqu'à accomplissement de la période de cinq années susvisée, demander le bénéfice des dispositions prévues en I et II du présent article sans que les dispositions de l'article 11 (1°) ci-dessus puissent, le cas échéant, lui être applicables avant la fin de ladite période.

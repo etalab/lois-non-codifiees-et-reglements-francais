@@ -1,0 +1,5 @@
+# Article 34
+
+Tout assuré titulaire d'avantages de vieillesse visés au chapitre II (paragraphe 1) du présent titre ne peut percevoir, en définitive, une somme inférieure à la contrepartie de 300 points de retraite, s'il justifie avoir exercé pendant trente années au moins une activité artisanale ou assimilée, dont cinq années au moins de cotisations obligatoires au régime institué par le présent décret.
+
+A cet effet, le ou les avantages dont l'intéressé est titulaire sont remplacés par une pension minimale d'assuré égale à 300 points de retraite, dont la valeur sera celle prévue pour les points de retraite attribués à titre gratuit. (paragraphe 1, section 2) du présent titre perd son droit à ladite pension, et ne le recouvre que si, compte tenu des nouveaux droits obtenus, le montant total de ses avantages de vieillesse issus du chapitre II (paragraphe 1) du présent titre reste au plus égal à la contrepartie de 300 points de retraite. Il en est de même dans le cas où ledit assuré demande à cotiser volontairement en application des articles 15 à 17 du présent décret.

@@ -1,0 +1,31 @@
+# Article 49
+
+I - Il sera procédé, dans le délai d'un an suivant l'entrée en vigueur du présent décret, à la révision de tous avantages de vieillesse attribués antérieurement en vertu des décrets n° 49-546 du 21 avril 1949, n° 50-1342 du 23 octobre 1950, n° 52-992 du 27 août 1952, n° 53-1078 du 2 novembre 1953, n° 55-1526 du 25 novembre 1955, n° 59-1328 du 20 novembre 1959 et n° 63-622 du 26 juin 1963 et de tous textes subséquents, les droits des bénéficiaires étant déterminés à nouveau en fonction des dispositions du présent décret.
+
+II - La révision prévue en I du présent article ne peut avoir toutefois pour effet :
+
+a) En ce qui concerne les assurés ayant cotisé un an au moins à titre obligatoire, de leur attribuer une pension de vieillesse comprenant un nombre global de points de retraite inférieur au nombre global de points d'allocation dont ils jouissaient antérieurement et provenant, d'une part, des cotisations obligatoires ou volontaires, d'autre part, éventuellement, de la reconstitution de leur carrière artisanale ou assimilée antérieure à 1949, et enfin de rachats de cotisations ou de rachats de points d'allocation, sans préjudice de l'application éventuelle de l'article 34 du présent décret ;
+
+b) En ce qui concerne les conjoints à charge et conjoints survivants des assurés visés en II (a) ci-dessus, de leur attribuer une pension de vieillesse inférieure, globalement, à la valeur de la moitié des éléments dont se composait leur avantage antérieur et provenant des points d'allocations de différentes origines acquis par l'assuré, sans préjudice de l'application éventuelle des dispositions des articles 32 et 35 du présent décret.
+
+III - a) Les assurés ayant cotisé un an au moins à titre obligatoire bénéficiaires d'avantages de vieillesse visés en I du présent article qui ne rempliraient pas les conditions d'activité et de cotisations prévues par le présent décret et qui ne pourraient ainsi prétendre à un avantage révisé en fonction des dispositions qui précèdent se voient attribuer, dans le cadre du présent décret, une pension de vieillesse comprenant, d'une part, un avantage proportionnel composé du nombre de points de retraite résultant des cotisations obligatoires ou volontaires versées, compte tenu des dispositions de l'article 26 (III) ci-dessus, d'autre part, un avantage de reconstitution de carrière composé d'un nombre de points de retraite égal au nombre de points d'allocation dont se composait leur allocation de reconstitution de carrière antérieure, et enfin un avantage correspondant aux points d'allocation éventuellement rachetés par les intéressés ;
+
+b) Sans préjudice de l'article 32 ci-dessus, les conjoints à charge et conjoints survivants des assurés visés au III (a) ci-dessus reçoivent, en remplacement de leur avantage de vieillesse antérieur, une pension de vieillesse égale à la valeur de la moitié des points de retraite de toutes origines attribués auxdits assurés ou qui auraient pu leur être attribués.
+
+IV - a) Les assurés bénéficiaires d'avantages de vieillesse visés en I du présent article qui n'ont pas cotisé un an au moins à titre obligatoire mais qui justifient avoir versé des cotisations volontaires portant leur période de cotisation à une année au moins ou qui justifient avoir procédé, en application de l'article 30 du décret n° 50-1342 du 23 octobre 1950, modifié par le décret n° 52-992 du 27 août 1952, à un rachat de cotisations portant sur une année au moins se voient attribuer, dans le cadre de la révision prévue en I ci-dessus et nonobstant les dispositions des articles 22 et 41, une pension de vieillesse composée :
+
+D'une part, d'un avantage de reconstitution de carrière calculé à raison de 8 points de retraite par année d'activité artisanale ou assimilée antérieure à 1949 et, à leur soixante-cinquième anniversaire ou leur soixantième anniversaire en cas d'inaptitude au travail, sans que le nombre total de points dont il se compose puisse être inférieur à 120 et supérieur à 320 ;
+
+D'autre part, le cas échéant, d'un avantage proportionnel correspondant aux cotisations versées et des droits provenant des rachats de cotisations effectués.
+
+b) Sans préjudice de l'application de l'article 32 ci-dessus, les conjoints à charge et conjoints survivants des assurés visés en IV (a) ci-dessus reçoivent en remplacement de leur avantage de vieillesse antérieur une pension de vieillesse égale à la valeur de la moitié des points de retraite de toutes origines attribués auxdits assurés ou qui auraient pu leur être attribués.
+
+V - Les assurés n'ayant pas cotisé un an au moins à titre obligatoire et non visés en IV ci-dessus ainsi que leur conjoint à charge ou conjoint survivant, bénéficiaires d'avantages de vieillesse visés en I du présent article reçoivent dans le cadre de la révision y prévue l'allocation-retraite visée à l'article 40 du présent décret ou la part de cette allocation résultant de l'application des règlements de coordination visés en VII ci-après.
+
+VI - Les droits des conjoints à charge ou conjoints survivants d'assurés visés en II a, III a, IV a et V du présent article, qui ne bénéficiaient pas, à la date d'entrée en vigueur du présent décret, d'un avantage de conjoint, sont examinés conformément aux dispositions du présent décret et par référence aux droits attribués aux assurés en cause en vertu du présent article.
+
+VII - Les révisions effectuées en application du présent article ne peuvent en aucun cas faire bénéficier les personnes intéressées des règlements de coordination pris en application des articles L. 664 et L. 668 du Code de la sécurité sociale lorsque ces règlements ne sont pas applicables aux avantages dont l'entrée en jouissance était antérieure à leur entrée en vigueur.
+
+VIII - Le service des avantages révisés en application des dispositions qui précèdent est effectué, selon le cas, dans les conditions prévues aux articles 45 et 46 ci-dessus.
+
+IX - Un arrêté du ministre chargé de la sécurité sociale, du ministre de l'économie et des finances et du ministre chargé de l'artisanat détermine, en tant que de besoin, les modalités d'application du présent article et fixe, en particulier, pour les personnes visées en II, III, IV et VI du présent article, les conditions d'attribution et de service de l'allocation-retraite visée à l'article 40 ci-dessus.

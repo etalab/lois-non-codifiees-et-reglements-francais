@@ -25,6 +25,17 @@ Les indices de référence servant de base au décompte de la rémunération de 
 <p align="center">7<sup>E</sup> échelon</p>
 </td>
 <td width="205">
+<p align="center">570</p>
+</td>
+<td width="205">
+<p align="center">825</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p align="center">6<sup>e</sup> échelon</p>
+</td>
+<td width="205">
 <p align="center">550</p>
 </td>
 <td width="205">
@@ -33,7 +44,7 @@ Les indices de référence servant de base au décompte de la rémunération de 
 </tr>
 <tr>
 <td width="205">
-<p align="center">6<sup>e</sup> échelon</p>
+<p align="center">5<sup>e</sup> échelon</p>
 </td>
 <td width="205">
 <p align="center">525</p>
@@ -44,7 +55,7 @@ Les indices de référence servant de base au décompte de la rémunération de 
 </tr>
 <tr>
 <td width="205">
-<p align="center">5<sup>e</sup> échelon</p>
+<p align="center">4<sup>e</sup> échelon</p>
 </td>
 <td width="205">
 <p align="center">500</p>
@@ -55,18 +66,18 @@ Les indices de référence servant de base au décompte de la rémunération de 
 </tr>
 <tr>
 <td width="205">
-<p align="center">4<sup>e</sup> échelon</p>
+<p align="center">3<sup>e</sup> échelon</p>
 </td>
 <td width="205">
 <p align="center">475</p>
 </td>
 <td width="205">
-<p align="center">635</p>
+<p align="center">655</p>
 </td>
 </tr>
 <tr>
 <td width="205">
-<p align="center">3<sup>e</sup> échelon</p>
+<p align="center">2<sup>e</sup> échelon</p>
 </td>
 <td width="205">
 <p align="center">450</p>
@@ -77,7 +88,7 @@ Les indices de référence servant de base au décompte de la rémunération de 
 </tr>
 <tr>
 <td width="205">
-<p align="center">2<sup>e</sup> échelon</p>
+<p align="center">1<sup>er</sup> échelon</p>
 </td>
 <td width="205">
 <p align="center">425</p>
@@ -86,20 +97,9 @@ Les indices de référence servant de base au décompte de la rémunération de 
 <p align="center">550</p>
 </td>
 </tr>
-<tr>
-<td width="205">
-<p align="center">1<sup>er</sup> échelon</p>
-</td>
-<td width="205">
-<p align="center">400</p>
-</td>
-<td width="205">
-<p align="center">515</p>
-</td>
-</tr>
 </tbody>
 </table>
 
 Aux rémunérations correspondant à ces indices s'ajoutent l'indemnité de résidence et les suppléments pourc charges de famille.
 
-Aucune indemnité  ou avantage accessoire, de quelque nature que ce soit, ne peut être accordé à l'intéressé que dans les conditions fixées par les articles 5 et 7 de l'ordonnance du 6 janvier 1945.
+Aucune indemnité ou avantage accessoire, de quelque nature que ce soit, ne peut être accordé à l'intéressé que dans les conditions fixées par les articles 5 et 7 de l'ordonnance du 6 janvier 1945.
