@@ -1,6 +1,6 @@
 # Article 45
 
-Sans préjudice des dispositions des articles 3, 21 et 48 du présent décret, ne sont exécutoires qu'après avoir été approuvées, sur présentation des Charbonnages de France par le ministre chargé des mines et le ministre de l'économie et des finances les décisions des conseils d'administration des Houillères de bassin portant sur les objets ci-après [*approbation préalable*] :
+Sans préjudice des dispositions des articles 3, 21 et 48 du présent décret, ne sont exécutoires qu'après avoir été approuvées, sur présentation des Charbonnages de France par le ministre chargé de l'énergie et le ministre de l'économie et des finances les décisions des conseils d'administration des Houillères de bassin portant sur les objets ci-après [*approbation préalable*] :
 
 1° Délégation de pouvoirs au directeur général ;
 

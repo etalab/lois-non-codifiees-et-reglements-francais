@@ -20,6 +20,6 @@ A ces fins, les Charbonnages de France sont chargés notamment :
 
 4° De développer, diriger et coordonner la formation professionnelle et, en particulier, l'apprentissage dans ces mêmes mines ;
 
-5° D'établir, pour l'ensemble des Houillères de France, un plan comptable et de réaliser, sous réserve de l'approbation du ministre chargé des mines, entre les Houillères de bassin et, s'il y a lieu, les mines qui ne sont pas comprises dans la nationalisation, une compensation de caractère forfaitaire destinée à assurer l'équilibre financier de leurs exploitations respectives ;
+5° D'établir, pour l'ensemble des Houillères de France, un plan comptable et de réaliser, sous réserve de l'approbation du ministre chargé de l'énergie, entre les Houillères de bassin et, s'il y a lieu les mines qui ne sont pas comprises dans la nationalisation, une compensation de caractère forfaitaire destinée à assurer l'équilibre financier de leurs exploitations respectives ;
 
 6° D'exercer sur les Houillères de bassin tous contrôles permettant de vérifier que leur gestion est satisfaisante au regard des directives et des décisions qu'il ont arrêtées ; ils leur adressent éventuellement les observations et recommandations que lesdits contrôles feraient apparaître opportunes.

@@ -1,6 +1,6 @@
 # Article 33
 
-Sans préjudice des dispositions des articles 3, 21 et 38 du présent décret ne sont exécutoires qu'après avoir été approuvées par le ministre chargé des mines et par le ministre de l'économie et des finances les décisions du conseil d'administration des Charbonnages de France portant sur les objets ci-après [*approbation préalable*] :
+Sans préjudice des dispositions des articles 3, 21 et 38 du présent décret ne sont exécutoires qu'après avoir été approuvées par le ministre chargé de l'énergie et par le ministre de l'économie et des finances les décisions du conseil d'administration des Charbonnages de France portant sur les objets ci-après [*approbation préalable*] :
 
 1° Délégation de pouvoirs au directeur général ;
 
