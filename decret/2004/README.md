@@ -527,6 +527,7 @@
 - [Décret n°2004-981 du 17 septembre 2004 (INDI0420679D)](decret-n2004-981-du-17-septembre-2004-indi0420679d)
 - [Décret n°2004-989 du 17 septembre 2004 (TOUZ0400807D)](decret-n2004-989-du-17-septembre-2004-touz0400807d)
 - [Décret n°2004-990 du 17 septembre 2004 (AGRA0401704D)](decret-n2004-990-du-17-septembre-2004-agra0401704d)
+- [Décret n°90-66 du 17 janvier 1990 (MICT9000015D)](decret-n90-66-du-17-janvier-1990-mict9000015d)
 - [Décret n°2003-1207 du 18 décembre 2003 (SANS0324433D)](decret-n2003-1207-du-18-decembre-2003-sans0324433d)
 - [Décret n°2003-1246 du 18 décembre 2003 (JUSC0320741D)](decret-n2003-1246-du-18-decembre-2003-jusc0320741d)
 - [Décret n°2004-161 du 18 février 2004 (JUSG0460006D)](decret-n2004-161-du-18-fevrier-2004-jusg0460006d)
