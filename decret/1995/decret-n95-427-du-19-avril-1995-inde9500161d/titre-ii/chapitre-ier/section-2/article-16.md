@@ -11,3 +11,5 @@ Les pièces de la demande qui peuvent être consultées au ministère chargé de
 Les observations suscitées par l'enquête sont soit consignées sur le registre d'enquête ouvert à la préfecture, soit adressées au préfet avant la fin de l'enquête.
 
 Le préfet fait annexer au registre d'enquête les observations qui lui sont adressées par lettre.
+
+Toutefois, dans le département de la Guyane, d'une part, l'avis au public est publié dans un journal diffusé localement un mois au moins avant le début de l'enquête et publié à nouveau pendant les huit premiers jours de celle-ci, d'autre part, un registre d'enquête est ouvert en outre dans les mairies des communes sur le territoire desquelles porte en tout ou en partie la demande.

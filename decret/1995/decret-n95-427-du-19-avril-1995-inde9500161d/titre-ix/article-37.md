@@ -4,7 +4,7 @@ Les décisions relatives aux titres miniers sont publiées, affichées et notifi
 
 A. - Elles sont publiées :
 
-1° Dans tous les cas, au Journal officiel de la République française par les soins du ministre.
+1° Dans tous les cas, par extrait au Journal officiel de la République française, par les soins du ministre chargé des mines.
 
 Cette publication est faite par extrait en ce qui concerne les permis de recherches et les arrêtés refusant une concession, et intégralement en ce qui concerne les décrets accordant une concession.
 
@@ -16,6 +16,6 @@ Dans le cas où le titre porte exclusivement sur le fond de la mer, l'extrait es
 
 3° Dans tous les cas, par extrait, au recueil des actes administratifs de la préfecture et des préfectures concernées lorsque le titre porte sur plusieurs départements.
 
-B. - Un extrait en est affiché à la préfecture et, s'il s'agit d'une concession, dans chaque commune couverte en tout ou partie par ce titre, au plus tard dans le mois qui suit la publication au Journal officiel de la République française.
+B. - Un extrait en est affiché à la préfecture et, s'il s'agit d'une concession ou, dans les départements d'outre-mer, d'un permis d'exploitation, dans chaque commune couverte en tout ou en partie par ce titre, au plus tard dans le mois qui suit la publication au Journal officiel de la République française.
 
 C. - Elles sont notifiées au bénéficiaire par le préfet compétent au plus tard dans le mois qui suit la publication au Journal officiel de la République française.

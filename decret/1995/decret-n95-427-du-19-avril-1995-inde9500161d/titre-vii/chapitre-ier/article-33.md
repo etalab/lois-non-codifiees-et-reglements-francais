@@ -8,4 +8,4 @@ Si le titre est détenu conjointement par plusieurs personnes physiques ou moral
 
 La notification est faite au dernier domicile ou au dernier siège social connus. En outre, s'il s'agit d'une concession, la mise en demeure est affichée, pendant une durée de deux mois, dans les mairies des communes sur le territoire desquelles porte le titre.
 
-A l'expiration du délai imparti par le préfet, celui-ci, après avoir recueilli l'avis du directeur de l'industrie, de la recherche et de l'environnement, des autres chefs de service intéressés et, s'il y a lieu, des autres préfets et du préfet maritime, adresse le dossier avec ses propositions au ministre chargé des mines.
+A l'expiration du délai imparti par le préfet, celui-ci, après avoir recueilli l'avis du directeur de l'industrie, de la recherche et de l'environnement, des autres chefs de service intéressés et, s'il y a lieu, des autres préfets et du préfet maritime ou, dans les départements d'outre-mer, du préfet délégué du Gouvernement ayant autorité de police administrative générale en mer, adresse le dossier avec ses propositions au ministre chargé des mines.

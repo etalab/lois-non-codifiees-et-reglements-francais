@@ -6,7 +6,7 @@ A. - Dans tous les cas :
 
 1° Si le titre est institué au profit d'une société dont les statuts sont notablement modifiés, d'adresser au ministre chargé des mines avec copie au préfet compétent, le tout dans les trois mois de leur entrée en vigueur, le texte certifié conforme des modifications apportées aux statuts annexés à la demande du titre et une copie certifiée conforme du procès-verbal de l'assemblée générale extraordinaire qui les a décidées ;
 
-2° D'informer au préalable le ministre chargé des mines de tout projet de changement de personne qui serait de nature, par une nouvelle répartition des parts sociales ou par tout autre moyen, d'apporter une modification du contrôle de l'entreprise ou de transférer à un tiers tout ou partie des droits découlant de la possession du titre, notamment celui de disposer de tout ou partie de la production présente ou à venir. Cette information doit comporter tout document de nature à prouver les capacités financières des personnes ou entreprises en cause, notamment les trois derniers bilans et comptes de résultats de l'entreprise ou tout autre document approprié ;
+2° D'informer au préalable le ministre chargé des mines de tout projet qui serait de nature, par une nouvelle répartition des parts sociales ou par tout autre moyen, d'apporter une modification du contrôle de l'entreprise ou de transférer à un tiers tout ou partie des droits découlant de la possession du titre, notamment celui de disposer de tout ou partie de la production présente ou à venir. Cette information doit comporter tout document de nature à prouver les capacités financières des personnes ou entreprises en cause, notamment les trois derniers bilans et comptes de résultats de l'entreprise ou tout autre document approprié ;
 
 3° Si le titre est institué au profit de plusieurs sociétés conjointes et solidaires, outre de respecter l'obligation pour chacun des détenteurs de se conformer aux 1° et 2° ci-dessus, d'informer le ministre chargé des mines de tout projet de modification des contrats d'association conclus entre eux, en vue de la recherche et de l'exploitation dans le périmètre du titre ;
 
@@ -28,10 +28,10 @@ Le nouvel engagement financier que devra souscrire le détenteur du permis lors 
 
 3° Pour le détenteur d'un permis exclusif de recherches H, dès qu'un gisement a été reconnu exploitable, de demander l'octroi d'une concession, ou de renoncer au droit à concession prévu à l'article 26 du code minier.
 
-C. - S'il s'agit d'une concession :
+C. - S'il s'agit d'une concession ou, dans les départements d'outre-mer, d'un permis d'exploitation :
 
-1° De constituer toute société commerciale détentrice ou amodiataire d'une concession de mines soit sous le régime de la loi française, soit sous le régime de la loi d'un autre Etat membre de la Communauté européenne ;
+1° De constituer toute société commerciale détentrice ou amodiataire d'une concession de mines ou, dans les départements d'outre-mer, d'un permis d'exploitation, soit sous le régime de la loi française, soit sous le régime de la loi d'un autre Etat membre de l'Union européenne ;
 
-2° Lorsqu'il s'agit d'une société constituée en conformité avec la législation d'un Etat membre de la Communauté européenne autre que la France, d'implanter son siège social ou son principal établissement à l'intérieur de la Communauté européenne et, si cette société n'a que son siège statutaire à l'intérieur de la Communauté, d'exercer une activité présentant un lien effectif et continu avec l'économie d'un Etat membre ;
+2° Lorsqu'il s'agit d'une société constituée en conformité avec la législation d'un Etat membre de l'Union européenne autre que la France, d'implanter son siège social ou son principal établissement à l'intérieur de l'Union européenne et, si cette société n'a que son siège statutaire à l'intérieur de l'Union, d'exercer une activité présentant un lien effectif et continu avec l'économie d'un Etat membre ;
 
 3° S'il y a lieu de respecter les conditions des cahiers des charges spécifiques édictées en application de l'article 25 du code minier.

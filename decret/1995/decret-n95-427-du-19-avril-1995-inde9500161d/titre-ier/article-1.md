@@ -1,6 +1,6 @@
 # Article 1
 
-L'institution des titres miniers - permis exclusifs de recherches de mines et concessions de mines -, les actes affectant leur durée, leurs limites ou leurs détenteurs, le retrait de ces titres, ainsi que les conditions et obligations auxquelles doivent satisfaire les demandeurs et les détenteurs, sont réglés par le présent décret.
+L'institution des titres miniers - permis exclusifs de recherches de mines, permis d'exploitation de mines dans les départements d'outre-mer et concessions de mines -, les actes affectant leur durée, leurs limites ou leurs détenteurs, le retrait de ces titres, ainsi que les conditions et obligations auxquelles doivent satisfaire les demandeurs et les détenteurs, sont réglés par le présent décret.
 
 Les modalités selon lesquelles sont établies les demandes et leurs annexes sont précisées par arrêté du ministre chargé des mines.
 

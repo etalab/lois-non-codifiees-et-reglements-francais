@@ -6,6 +6,4 @@ Celui-ci saisit le préfet ou désigne le préfet, et le cas échéant, le direc
 
 Il est ensuite procédé comme il est dit aux articles 26 et 27 ci-dessus, sans qu'il soit nécessaire de procéder aux consultations prévues aux articles 10 et 18.
 
-La mutation d'un permis exclusif de recherches est autorisée par arrêté du ministre chargé des mines. La mutation et l'amodiation d'une concession sont autorisées par décret en Conseil d'Etat.
-
-La résiliation anticipée d'amodiation est autorisée par arrêté du ministre chargé des mines.
+Il est statué dans tous les cas par arrêté du ministre chargé des mines.
