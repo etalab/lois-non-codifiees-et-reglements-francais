@@ -1,7 +1,7 @@
 # Article 1
 
-Jusqu'à l'entrée en vigueur des arrêtés prévus à l'article 504 (alinéas 1er et 2) du code de l'administration communale, les délibérations visées à l'article 501 dudit code peuvent prévoir que les concours de recrutement et examens d'aptitude institués par les arrêtés susvisés des 27 juin 1962, 28 février 1963 et 1er août 1964 seront organisés, en ce qui concerne les emplois de rédacteur, de commis, d'ingénieur subdivisionnaire et d'adjoint technique et la délivrance de brevets de qualification, par le centre de formation des personnels communaux soit directement, soit par l'intermédiaire de ses délégations départementales ou interdépartementales.
+Les conditions d'hygiène réglementées dans le présent arrêté sont applicables à bord de tous les navires de pêche capturant des produits de la mer.
 
-Les mêmes dispositions sont applicables, à titre permanent, aux concours et examens organisés, au titre des arrêtés susvisés des 27 juin 1962 et 8 février 1971, pour le recrutement aux emplois de secrétaire général de mairie de communes de 2.000 à 5.000 habitants et de secrétaire de mairie de communes de moins de 2.000 habitants.
+Au sens du présent arrêté :
 
-Le maire pourvoit aux postes vacants de sa commune par le recrutement de candidats inscrits sur les listes d'aptitude aux emplois correspondants établies à l'issue desdits concours.
+Les "produits de la mer" comprennent tous les animaux ou partie d'animaux marins destinés à être livrés au public en vue de la consommation humaine. Les produits frais sont les produits qui ne sont pas présentés à l'état vivant et qui n'ont subi aucun traitement de nature à assurer leur conservation, à l'exception de l'action du froid au-dessus de leur point de congélation.

@@ -1,0 +1,5 @@
+# Article 33
+
+Les responsables des établissements de mareyage dans les ports de pêche et des établissements de conserves et de semi-conserves d'animaux marins, qui sont déjà tenus de faire une déclaration au ministre chargé des pêches maritimes, ne sont pas soumis à l'obligation d'adresser une déclaration au préfet de leur département. Il appartient, toutefois, au ministre chargé des pêches maritimes de communiquer au ministre de l'agriculture et du développement rural (direction des services vétérinaires) la liste de ces établissements déjà inscrits à la date de publication du présent arrêté, avec leurs caractéristiques et leur numéro d'immatriculation.
+
+Les déclarations effectuées après la date de publication du présent arrêté devront être adressées au ministre chargé des pêches maritimes conformément aux dispositions prévues à l'article 32 ci-dessus. Un double de la déclaration ainsi que le numéro d'immatriculation est communiqué à la direction des services vétérinaires du ministère de l'agriculture et du développement rural.
