@@ -193,6 +193,7 @@
 - [Décret n°2001-181 du 21 février 2001 (MAEA0020594D)](decret-n2001-181-du-21-fevrier-2001-maea0020594d)
 - [Décret n°2001-190 du 21 février 2001 (PRMG0170023D)](decret-n2001-190-du-21-fevrier-2001-prmg0170023d)
 - [Décret n°2001-192 du 21 février 2001 (EQUI0000184D)](decret-n2001-192-du-21-fevrier-2001-equi0000184d)
+- [Décret n°2001-245 du 21 mars 2001 (MENX0000174D)](decret-n2001-245-du-21-mars-2001-menx0000174d)
 - [Décret du 22 janvier 2001 (AGRP0001838D)](decret-du-22-janvier-2001-agrp0001838d)
 - [Décret du 22 janvier 2001 (AGRP0001972D)](decret-du-22-janvier-2001-agrp0001972d)
 - [Décret n°2000-1115 du 22 novembre 2000 (JUSC0020694D)](decret-n2000-1115-du-22-novembre-2000-jusc0020694d)
