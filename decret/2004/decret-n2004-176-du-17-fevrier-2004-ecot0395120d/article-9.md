@@ -1,0 +1,9 @@
+# Article 9
+
+Le fonds de garantie prend en charge les indemnités dues par les entreprises défaillantes aux personnes assurées, souscriptrices, adhérentes ou bénéficiaires de prestations de contrats d'assurance au titre des garanties rendues obligatoires par une disposition législative ou réglementaire lorsque la liquidation de l'entreprise était encore en cours au 1er août 2003.
+
+Pour les liquidations ouvertes avant le 19 avril 2001, les missions confiées par la présente section au liquidateur désigné par la commission de contrôle sont exercées par le liquidateur désigné par le tribunal.
+
+Pour ces liquidations, le liquidateur transmet au fonds avant le 1er juillet 2004 un état récapitulatif des personnes assurées, souscriptrices, adhérentes ou bénéficiaires de prestations non réglées par l'entreprise défaillante. Le détail des créances fixées au passif de l'entreprise défaillante détenues par ces personnes des provisions versées et des transactions conclues mais n'ayant pas fait l'objet du règlement total de son montant à l'assuré est porté sur cet état. Il en est adressé copie à la commission de contrôle. Lorsque les créances ne sont fixées au passif que postérieurement au 30 juin 2004, le liquidateur doit en aviser le fonds de garantie dans un délai de deux mois à compter de leur fixation.
+
+Le fonds dispose à réception de l'état d'un délai de deux mois pour mettre à la disposition du liquidateur désigné par la commission de contrôle les sommes nécessaires au paiement des indemnités, déduction faite du montant des éventuelles provisions déjà versées aux assurés par le liquidateur. A titre exceptionnel, la commission de contrôle peut, sur la demande du fonds de garantie, lui accorder une prolongation de ce délai, qui ne saurait être supérieure à trois mois. Le montant des sommes versées est inscrit au passif de la liquidation et le fonds bénéficie de l'ensemble des droits prévus par l'article L. 421-9-4 et par la présente section.

@@ -4,7 +4,7 @@ La commission régionale du patrimoine et des sites, placée auprès du préfet 
 
 - sur les propositions de classement parmi les monuments historiques et d'inscription sur l'inventaire supplémentaire des monuments historiques qui lui sont soumises en application de l'article 5 du décret du 18 mars 1924 susvisé ;
 
-- sur les projets de création de zone de protection du patrimoine architectural, urbain et paysager qui lui sont soumis en application du troisième alinéa de l'article 70 de la loi du 7 janvier 1983 susvisée.
+- sur les projets de création de zone de protection du patrimoine architectural, urbain et paysager qui lui sont soumis en application du deuxième alinéa de l'article L. 642-2 du code du patrimoine.
 
 Le préfet de région peut recueillir l'avis de la commission régionale du patrimoine et des sites sur toute question intéressant l'étude, la protection et la conservation du patrimoine de la région.
 

@@ -1,6 +1,6 @@
 # Article Annexe I
 
-I. - Viande de volailles :
+I. - Viande de volailles, de pigeonneaux, de cailles et de lapin :
 
 Peau du cou ;
 
@@ -10,7 +10,7 @@ Pattes ;
 
 Abats.
 
-II. - Viande de porcs :
+II. - Viandes de porc :
 
 Têtes ;
 
