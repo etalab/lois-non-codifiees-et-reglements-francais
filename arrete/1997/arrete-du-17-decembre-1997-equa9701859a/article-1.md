@@ -22,8 +22,6 @@ IV.-Les dispositions des I, II et III ne font pas obstacle à l'atterrissage ou 
 
 -aéronefs en situation d'urgence tenant à des raisons de sécurité de vol.
 
-Toutefois, les responsables du vol, propriétaires, exploitants techniques ou exploitants commerciaux des aéronefs précédemment énumérés doivent justifier leur décision d'atterrissage ou de décollage par lettre recommandée avec accusé de réception, adressée sous quarante-huit heures au ministre chargé de l'aviation civile (direction générale de l'aviation civile).
-
 V.-Des dérogations au régime défini aux I, II et III du présent article peuvent être accordées à titre exceptionnel par le ministre chargé de l'aviation civile.
 
 VI.-Un bilan périodique des dérogations accordées conformément aux IV et V du présent article est rendu public.
