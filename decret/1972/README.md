@@ -70,6 +70,8 @@
 - [Décret n°53-914 du 26 septembre 1953](decret-n53-914-du-26-septembre-1953)
 - [Décret n°72-349 du 26 avril 1972](decret-n72-349-du-26-avril-1972)
 - [Décret n°72-334 du 27 avril 1972](decret-n72-334-du-27-avril-1972)
+- [Décret n°72-676 du 27 juin 1972](decret-n72-676-du-27-juin-1972)
+- [Décret n°72-677 du 27 juin 1972](decret-n72-677-du-27-juin-1972)
 - [Décret n°72-968 du 27 octobre 1972](decret-n72-968-du-27-octobre-1972)
 - [Décret n°73-417 du 27 mars 1973](decret-n73-417-du-27-mars-1973)
 - [Décret n°73-418 du 27 mars 1973](decret-n73-418-du-27-mars-1973)

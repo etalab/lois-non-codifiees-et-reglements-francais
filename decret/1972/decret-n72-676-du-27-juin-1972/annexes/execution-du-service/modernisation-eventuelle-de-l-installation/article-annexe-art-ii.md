@@ -1,0 +1,5 @@
+# Article ANNEXE ART. II
+
+Si à l'occasion des travaux de gros entretien l'exploitant se trouve amené à remplacer dans son ensemble un matériel important, il doit au préalable en aviser la collectivité afin de lui permettre d'examiner l'intérêt qu'il peut y avoir, compte tenu notamment de l'évolution de la technique et de la nature des ordures, à substituer aux appareils à remplacer des matériels mieux adaptés par leur puissance ou par leur principe de fonctionnement à la poursuite de l'exploitation, non seulement jusqu'à la fin du contrat, mais également au-delà de la date de son expiration. Dans cette hypothèse un avenant fixe les conditions de la participation éventuelle de la collectivité aux dépenses de renouvellement.
+
+En fonction des solutions adoptées la collectivité peut participer aux dépenses de renouvellement.

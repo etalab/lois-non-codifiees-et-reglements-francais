@@ -1,0 +1,3 @@
+# Article ANNEXE ART. 1
+
+L'entreprise régie par le présent cahier des charges a pour objet l'exploitation d'une installation de traitement par compostage des résidus urbains, située à ...                                          ...                       et appartenant à   ...

@@ -1,0 +1,3 @@
+# Article ANNEXE ART. 1
+
+L'entreprise régie par le présent cahier des charges a pour objet l'exploitation d'une installation de traitement par incinération des résidus urbains, avec ou sans (rayer la mention inutile) récupération de chaleur, située à ...  et appartenant à ...
