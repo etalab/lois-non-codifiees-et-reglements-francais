@@ -1,3 +1,3 @@
 # Article 3
 
-Le congé de formation est accordé par le directeur. La demande motivée doit être déposée quinze jours au moins avant la date de départ prévue et porter référence au plan de formation sans préjudice des dispositions de l'article 63 applicables aux praticiens exerçant outre-mer.
+L'arrêté du 23 mai 1984 fixant la liste des titres admis en équivalence du diplôme d'études et de recherches en biologie humaine ou du doctorat en biologie humaine pour l'application de l'article 48 du décret n° 84-135 du 24 février 1984 est abrogé.

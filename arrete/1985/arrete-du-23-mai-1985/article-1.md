@@ -1,19 +1,19 @@
 # Article 1
 
-Le plan de formation prévu à l'article 46 du décret n° 84-131 du 24 février 1984 susvisé détermine la nature des actions pouvant faire l'objet d'un congé de formation pour l'amélioration des connaissances nécessaires aux praticiens dans l'exercice de leurs fonctions, notamment :
+La liste des titres admis en équivalence du diplôme d'études et de recherches en biologie humaine ou du doctorat en biologie humaine, en vue du recrutement des maîtres de conférences des universités-praticiens hospitaliers par la voie du premier concours, est fixée comme suit :
 
-L'enseignement post-universitaire ;
+Diplôme d'études approfondies ;
 
-Les stages en établissements universitaires ou hospitaliers ;
+Doctorat prévu par la loi du 26 janvier 1984 ;
 
-Les réunions scientifiques ou les journées d'études ;
+Doctorat de troisième cycle ;
 
-La formation à l'économie de la santé, à l'épidémiologie et à l'évaluation de la qualité des soins ;
+Doctorat d'Etat ès sciences ;
 
-Les congrés, colloques et séminaires.
+Doctorat d'Etat ès sciences pharmaceutiques ;
 
-Ce plan distingue les actions donnant lieu :
+Doctorat d'Etat en odontologie ;
 
-Dans la limite des crédits réservés à cet effet, à participation financière totale ou partielle de l'établissement hospitalier, le financement pouvant être assuré soit directement par l'hôpital, soit par l'intermédiaire d'organismes ou d'associations reconnus par le ministre chargé de la santé ;
+Diplôme de docteur-ingénieur ;
 
-A congé de formation sans financement hospitalier.
+Diplôme d'études et de recherches en sciences odontologiques.

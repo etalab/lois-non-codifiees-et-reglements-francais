@@ -37,6 +37,7 @@
 - [Arrêté du 7 mai 1985](arrete-du-7-mai-1985)
 - [Arrêté du 8 février 1985](arrete-du-8-fevrier-1985)
 - [Arrêté du 8 janvier 1985](arrete-du-8-janvier-1985)
+- [Arrêté du 8 juillet 1985](arrete-du-8-juillet-1985)
 - [Arrêté du 8 mars 1985](arrete-du-8-mars-1985)
 - [Arrêté du 9 avril 1985](arrete-du-9-avril-1985)
 - [Arrêté du 9 juillet 1985](arrete-du-9-juillet-1985)
