@@ -207,6 +207,7 @@
 - [Décret n°2004-247 du 18 mars 2004 (FPPA0410003D)](decret-n2004-247-du-18-mars-2004-fppa0410003d)
 - [Décret n°2004-248 du 18 mars 2004 (FPPA0410004D)](decret-n2004-248-du-18-mars-2004-fppa0410004d)
 - [Décret n°66-104 du 18 février 1966](decret-n66-104-du-18-fevrier-1966)
+- [Décret n°86-1053 du 18 septembre 1986](decret-n86-1053-du-18-septembre-1986)
 - [Décret n°2004-420 du 18 mai 2004 (INDI0402885D)](decret-n2004-420-du-18-mai-2004-indi0402885d)
 - [Décret n°2004-421 du 18 mai 2004 (INTD0400115D)](decret-n2004-421-du-18-mai-2004-intd0400115d)
 - [Décret n°2004-162 du 19 février 2004 (MENE0400161D)](decret-n2004-162-du-19-fevrier-2004-mene0400161d)
