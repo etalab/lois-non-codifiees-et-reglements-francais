@@ -832,7 +832,6 @@
 - [Arrêté du 28 novembre 1994 (EQUS9401907A)](arrete-du-28-novembre-1994-equs9401907a)
 - [Arrêté du 29 décembre 1994 (AGRG9500002A)](arrete-du-29-decembre-1994-agrg9500002a)
 - [Arrêté du 29 décembre 1994 (ENVN9540017A)](arrete-du-29-decembre-1994-envn9540017a)
-- [Arrêté du 29 décembre 1994 (EQUB9402159A)](arrete-du-29-decembre-1994-equb9402159a)
 - [Arrêté du 29 décembre 1994 (EQUM9501719A)](arrete-du-29-decembre-1994-equm9501719a)
 - [Arrêté du 29 décembre 1994 (EQUM9501720A)](arrete-du-29-decembre-1994-equm9501720a)
 - [Arrêté du 29 décembre 1994 (EQUM9501721A)](arrete-du-29-decembre-1994-equm9501721a)
