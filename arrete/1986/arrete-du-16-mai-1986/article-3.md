@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur de la comptabilité publique est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le directeur des affaires civiles et du sceau est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
