@@ -1,3 +1,3 @@
 # Article 22-1
 
-Le préfet de la Corse exerce les attributions dévolues aux préfets de région par les dispositions ci-dessus.
+Le chef-lieu de la région Corse est le chef-lieu de la Corse-du-Sud.
