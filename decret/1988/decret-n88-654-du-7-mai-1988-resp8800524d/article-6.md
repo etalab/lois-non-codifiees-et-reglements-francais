@@ -1,0 +1,3 @@
+# Article 6
+
+Pour les agents engagés en application du 2° de l'article 2 ci-dessus, la durée du contrat est au maximum d'un an. Le contrat peut toutefois être renouvelé une fois pour une durée d'un an lorsque les travaux de recherches de l'intéressé le justifient et à la condition qu'il soit âgé de moins de trente-trois ans au 1er octobre de l'année universitaire du renouvellement, sans préjudice des dispositions législatives ou réglementaires relatives au recul des limites d'âge pour l'accès aux emplois publics. La durée des fonctions de ces attachés temporaires d'enseignement et de recherche ne peut en aucun cas excéder deux ans.

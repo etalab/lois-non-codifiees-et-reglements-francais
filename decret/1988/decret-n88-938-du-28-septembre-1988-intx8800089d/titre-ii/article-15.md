@@ -1,0 +1,3 @@
+# Article 15
+
+Les présidents nommés dans les conditions fixées à l'article 16 de la loi du 6 janvier 1986 susvisée sont classés, lors de leur promotion, à l'échelon comportant un indice égal à celui dont ils bénéficiaient antérieurement. Ils conservent à cette occasion l'ancienneté acquise dans le précédent échelon, dans la limite de la durée des services nécessaires pour accéder à l'échelon immédiatement supérieur. Toutefois, les conseillers hors classe promus au grade de président avant d'avoir atteint le 4e échelon de leur ancien grade sont placés au 1er échelon de leur nouveau grade, sans ancienneté.
