@@ -66,6 +66,6 @@ c) Des représentants du personnel navigant comprenant :
 
 Un inspecteur de la sécurité des navires et du travail maritime ou un contrôleur des affaires maritimes, branche technique, ou si ceux-ci sont empêchés, un syndic des gens de mer assisté, le cas échéant, par un fonctionnaire de l'administration des postes et télécommunications chargé du contrôle des installations radioélectriques lorsque le navire possède des installations radioélectriques.
 
-III. - Les membres de la commission de visite de mise en service sont désignés par le chef des affaires maritimes ou son délégué.
+III. - Les membres de la commission de visite de mise en service sont désignés par le chef du quartier des affaires maritimes ou son délégué.
 
 L'armateur du navire, le propriétaire du navire, le constructeur ou leur représentant, et le ou les délégués de l'équipage sont admis à suivre les opérations de la commission et à présenter leurs observations.
