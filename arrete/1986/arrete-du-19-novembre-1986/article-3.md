@@ -1,3 +1,3 @@
 # Article 3
 
-L'arrêté du 20 juillet 1910 relatif à l'alimentation des équipages des navires de commerce est abrogé.
+Le sang, le plasma et le cruor déshydratés cités à l'article 1er ne doivent avoir fait l'objet d'aucun traitement chimique de décontamination microbienne ou de conservation avant ou après irradiation.

@@ -1,3 +1,3 @@
 # Article 1
 
-La ration alimentaire servie à bord des navires autres que ceux visés à l'article 2 du présent arrêté est fixée à 3 200 calories par jour environ réparties en trois ou quatre repas.
+Sont autorisées, dans les conditions définies ci-après, la détention en vue de la vente, la mise en vente et la vente de sang animal, de plasma et de cruor déshydratés dont la décontamination bactérienne a été obtenue par exposition aux rayonnements gamma du Cobalt 60 ou du Cesium 137 ou aux faisceaux d'électrons d'une énergie inférieure ou égale à 10 millions d'électrons-volts (10 Mev).

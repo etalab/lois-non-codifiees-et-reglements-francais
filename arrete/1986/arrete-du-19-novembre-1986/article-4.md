@@ -1,3 +1,3 @@
 # Article 4
 
-Le directeur des gens de mer et de l'administration générale et le chef du service de santé des gens de mer sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Avant et après avoir subi le traitement prévu à l'article 1er, le sang, le plasma et le cruor déshydratés doivent répondre aux dispositions de l'arrêté modifié du 10 février 1984.

@@ -1,5 +1,8 @@
-# Arrêté du 13 novembre 1986 portant fixation de tarifs particuliers en matière d'accidents du travail
+# Arrêté du 13 novembre 1986 relatif aux dossiers de demande d'autorisation d'emploi des constituants de matériaux et objets mis ou destinés à être mis au contact des denrées, produits et boissons alimentaires
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
