@@ -1,3 +1,3 @@
 # Article 5
 
-Les heures de permanence ne correspondant pas à un travail effectif donnent droit à rémunération déterminée dans les conditions prévues à l'article L. 813 du code de la santé publique.
+Le temps passé pentant le service de permanence, lorsqu'il ne ne correspond pas à un travail effectif, est compensé selon des modalités prévues par décret.

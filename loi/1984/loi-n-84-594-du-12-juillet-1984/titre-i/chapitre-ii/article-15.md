@@ -16,6 +16,6 @@ Les membres du conseil d'orientation prévus aux 1°, 2° et 3° ci-dessus sont 
 
 Le conseil d'orientation est présidé par le délégué du Centre national de la fonction publique territoriale.
 
-Le nombre de sièges attribués à chaque organisation syndicale en application du 4° ci-dessus est fixé par arrêté du représentant de l'Etat dans le département dans lequel est situé le siège de la délégation, en fonction de leur représentativité dans le ressort territorial de la délégation. Toutefois, les organisations syndicales membres du Conseil supérieur de la fonction publique territoriale disposent au moins d'un siège. "
+Le nombre de sièges attribués à chaque organisation syndicale en application du 4° ci-dessus est fixé par arrêté du représentant de l'Etat dans le département dans lequel est situé le siège de la délégation, en fonction de leur représentativité dans le ressort territorial de la délégation. Toutefois, les organisations syndicales membres du Conseil supérieur de la fonction publique territoriale disposent au moins d'un siège si elles ont obtenu des voix lors du renouvellement général des représentants du personnel aux comités techniques paritaires des collectivités territoriales et de leurs établissements publics du ressort de la délégation. "
 
 " Un décret en Conseil d'Etat fixe les modalités d'application du présent article et notamment précise les modalités de l'élection des représentants des collectivités territoriales au conseil d'orientation. "

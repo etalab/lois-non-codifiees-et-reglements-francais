@@ -1,3 +1,7 @@
 # Article 3
 
-Lorsque la continuité du service [*public*] l'exige, certains personnels, dont la liste est fixée dans chaque établissement après avis du comité technique paritaire, peuvent être appelés à effectuer un service de permanence dans l'établissement.
+Lorsque la continuité du service [*public*] l'exige, certains personnels peuvent être appelés à assurer un service de permanence.
+
+Ce service est assuré en recourant soit à des permanences dans l'établissement, soit à des astreintes à domicile.
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.

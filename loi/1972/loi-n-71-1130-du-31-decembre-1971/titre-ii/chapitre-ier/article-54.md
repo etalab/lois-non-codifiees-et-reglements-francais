@@ -14,4 +14,4 @@ Nul ne peut, directement ou par personne interposée, à titre habituel et rému
 
 Une personne morale dont l'un des dirigeants de droit ou de fait a fait l'objet d'une sanction visée au présent article peut être frappée de l'incapacité à exercer les activités visées au premier alinéa par décision du tribunal de grande instance de son siège social, à la requête du ministère public.
 
-La condition de diplôme ou de titre prévue au 1° entre en vigueur cinq ans après la date d'entrée en vigueur du titre Ier de la loi n° 90-1259 du 31 décembre 1990 portant réforme de cetaines professions judiciaires et juridiques.
+La condition de diplôme ou de titre prévue au 1° entre en vigueur le 1er juillet 1997.
