@@ -1,5 +1,19 @@
 # Article 1
 
-Les producteurs, fabricants et commerçants de tabac ou de produits du tabac peuvent donner leur patronage aux manifestations sportives réservées aux véhicules à moteur dont la liste est annexée au présent arrêté.
+Les praticiens conseils assurant le contrôle médical du régime d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles sont classés aux échelles de coefficients ci-après indiquées :
 
-Les producteurs, fabricants et commerçants de tabac ou de produits du tabac qui commettent une infraction aux dispositions du présent arrêté peuvent être privés du bénéfice des dispositions de l'alinéa 1er du présent article par décision conjointe du ministre chargé de la santé et du ministre chargé des sports.
+Echelle 100 : chirurgiens-dentistes conseils ne possédant pas le diplôme de docteur en chirurgie dentaire, pendant le stage ;
+
+Echelle 105 : médecins conseils et chirurgiens-dentistes conseils possédant le diplôme de docteur en chirurgie dentaire, pendant le stage (échelons 0, 1, 2 ou 3) ; chirurgiens-dentistes conseils ne possédant pas le diplôme de docteur en chirurgie dentaire, après titularisation (tous les échelons) ;
+
+Echelle 110 : médecins conseils, chirurgiens-dentistes conseils possédant le diplôme de docteur en chirurgie dentaire ;
+
+Echelle 120 : médecins conseils chefs de service ;
+
+Echelle 130 : médecin conseil régional adjoint ;
+
+Echelle 135 : médecin conseil régional ;
+
+Echelle 145 : médecin national adjoint ;
+
+Echelle 150 : médecin conseil national.
