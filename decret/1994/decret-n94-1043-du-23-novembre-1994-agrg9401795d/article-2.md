@@ -1,0 +1,5 @@
+# Article 2
+
+1. La taxe due au titre de chaque campagne par les producteurs, d'une part, et les transformateurs, d'autre part, est assise sur la quantité de tomates fraîches entrées en usine destinées à la fabrication de jus concentré, concentré, conserves de tomates, jus de tomates et tomates congelées ou surgelées, à l'exclusion des tomates fraîches en provenance des autres Etats membres de la Communauté européenne.
+
+2. La taxe due par les importateurs pour les jus concentrés, concentrés, conserves de tomates, jus de tomates et tomates congelées ou surgelées relevant respectivement des positions douanières ex 2002.90.10, ex 2002.90.30 et 2002.90.90, ex 2002.10.10 et 2002.10.90, ex 2009.50.10 et 2009.50.90, et ex 0710.80.70 de la Nomenclature combinée est assise sur les quantités de produits déclarées au moment de leur mise à la consommation sur le territoire douanier français. La taxe n'est pas perçue sur les produits en provenance des autres Etats membres de la Communauté européenne et originaires de ces Etats ou mis en libre pratique dans l'un d'entre eux.

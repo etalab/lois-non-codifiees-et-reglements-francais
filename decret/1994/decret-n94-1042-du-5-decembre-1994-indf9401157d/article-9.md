@@ -1,0 +1,3 @@
+# Article 9
+
+Si l'institut Max von Laue-Paul Langevin souhaite modifier l'installation, apporter des modifications à ses règles générales d'exploitation ou modifier de façon notable les dispositifs expérimentaux intégrés au bloc pile, il adressera ses propositions au directeur de la sûreté des installations nucléaires. L'installation ne pourra être exploitée dans ces nouvelles conditions qu'après accord du directeur de la sûreté des installations nucléaires, sauf s'il s'agit de modifications de nature à entraîner l'inobservation des prescriptions du présent décret. En ce cas, un nouveau décret, pris en application de l'article 6 du décret du 11 décembre 1963 modifié susvisé, devra être établi.

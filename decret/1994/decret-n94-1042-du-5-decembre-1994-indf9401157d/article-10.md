@@ -1,0 +1,3 @@
+# Article 10
+
+L'exploitant avisera les ministres chargés de l'industrie et de l'environnement de tout projet de création ou de toute modification substantielle d'une installation entrant dans le champ d'application de la loi du 19 juillet 1976 susvisée et implantée dans le périmètre fixé sur le plan annexé au présent décret. A cet effet, l'exploitant adressera un dossier au directeur de la sûreté des installations nucléaires. Les ministres précités notifieront à l'exploitant les prescriptions techniques auxquelles il doit se conformer. Ces prescriptions feront l'objet d'une ampliation au ministre chargé de la santé et au préfet du département de l'Isère.

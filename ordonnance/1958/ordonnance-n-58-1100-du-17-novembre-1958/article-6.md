@@ -10,13 +10,13 @@ Les membres des commissions d'enquête sont désignés de façon à y assurer un
 
 Les commissions d'enquête ont un caractère temporaire. Leur mission prend fin par le dépôt de leur rapport et, au plus tard, à l'expiration d'un délai de six mois à compter de la date de l'adoption de la résolution qui les a créées. Elles ne peuvent être reconstituées avec le même objet avant l'expiration d'un délai de douze mois à compter de la fin de leur mission.
 
-II. - L'article 10 (alinéas 2 et 3) de la loi n° 67-483 du 22 juin 1967 relative à la Cour des comptes est applicable aux commissions d'enquête dans les mêmes conditions qu'aux commissions des finances.
+II. Les articles L. 135-5 et L. 132-4 du code des juridictions financières sont applicables aux commissions d'enquête dans les mêmes conditions qu'aux commissions des finances.
 
 Les rapporteurs des commissions d'enquête exercent leur mission sur pièces et sur place. Tous les renseignements de nature à faciliter cette mission doivent leur être fournis. Ils sont habilités à se faire communiquer tous documents de service, à l'exception de ceux revêtant un caractère secret et concernant la défense nationale, les affaires étrangères, la sécurité intérieure ou extérieure de l'Etat, et sous réserve du respect du principe de la séparation de l'autorité judiciaire et des autres pouvoirs.
 
 Toute personne dont une commission d'enquête a jugé l'audition utile est tenue de déférer à la convocation qui lui est délivrée, si besoin est, par un huissier ou un agent de la force publique, à la requête du président de la commission. A l'exception des mineurs de seize ans, elle est entendue sous serment. Elle est, en outre, tenue de déposer, sous réserve des dispositions des articles 226-13 et 226-14 du code pénal.
 
-III. - La personne qui ne comparaît pas ou refuse de déposer ou de prêter serment devant une commission d'enquête est passible de deux ans d'emprisonnement et de 50000 F d'amende.
+III. La personne qui ne comparaît pas ou refuse de déposer ou de prêter serment devant une commission d'enquête est passible de deux ans d'emprisonnement et de 50000 F d'amende [* taux *].
 
 Le refus de communiquer les documents visés au deuxième alinéa du II est passible des mêmes peines.
 
@@ -26,7 +26,7 @@ En cas de faux témoignage ou de subornation de témoin, les dispositions des ar
 
 Les poursuites prévues au présent article sont exercées à la requête du président de la commission ou, lorsque le rapport de la commission a été publié, à la requête du bureau de l'assemblée intéressée.
 
-IV. - Les auditions auxquelles procèdent les commissions d'enquête sont publiques. Les commissions organisent cette publicité par les moyens de leur choix. Toutefois, elles peuvent décider l'application du secret ; dans ce cas, les dispositions du dernier alinéa du présent article sont applicables.
+IV. Les auditions auxquelles procèdent les commissions d'enquête sont publiques. Les commissions organisent cette publicité par les moyens de leur choix. Toutefois, elles peuvent décider l'application du secret ; dans ce cas, les dispositions du dernier alinéa du présent article sont applicables.
 
 L'assemblée intéressée peut décider, par un vote spécial et après s'être constituée en comité secret de ne pas autoriser la publication de tout ou partie du rapport d'une commission d'enquête.
 
