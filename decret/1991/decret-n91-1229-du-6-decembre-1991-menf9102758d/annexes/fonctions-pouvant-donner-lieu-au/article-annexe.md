@@ -16,13 +16,7 @@ II. - Fonctions exercées dans les services déconcentrés :
 
 - fonctions exercées par les personnels nommés dans l'emploi de secrétaire général d'administration scolaire et universitaire.
 
-III. - Fonctions exercées dans les établissements scolaires soumis à des contraintes particulières (1) :
-
-- fonctions exercées par les personnels administratifs, techniques, ouvriers, de service, sociaux et de santé dans les établissements dont la liste est fixée soit en application de l'article 2 du décret n° 90-806 du 11 septembre 1990, soit en application de l'article 3 du décret n° 93-55 du 15 janvier 1993 ;
-
-- fonctions exercées par certains personnels d'orientation, sociaux et de santé ne faisant pas l'objet d'une affectation mentionnés à l'alinéa précédent mais intervenant au moins dans l'un des établissements dont la liste est fixée soit en application de l'article 2 du décret n° 90-806 du 11 septembre 1990, soit en application de l'article 3 du décret n° 93-55 du 15 janvier 1993 ;
-
-- fonctions exercées par les personnels enseignants, d'éducation et de documentation dans les établissements dont la liste est fixée en application de l'article 3 du décret n° 93-55 du 15 janvier 1993.
+III. - Abrogé
 
 IV. - Fonctions exercées dans les établissements publics locaux d'enseignement :
 

@@ -8,34 +8,18 @@ La durée de la période 1 fixée en application des dispositions du présent ar
 
 REVENU IMPOSABLE DU MÉNAGE
 
-DURÉE
+DURÉE de la période 1
 
-de la période 1
+Moins de 82 901 F ; 15 ans
 
-Moins de 82 901 F
+De 82 901 F à 103 600 F ; 15 ans
 
-15 ans 6 mois
+De 103 601 F à 124 300 F ; 14 ans 6 mois
 
-De  82 901 F à 103 600 F
+De 124 301 F à 145 000 F ; 12 ans
 
-15 ans 6 mois
+De 145 001 F à 165 700 F ; 10 ans
 
-De 103 601 F à 124 300 F
+De 165 701 F à 186 400 F ; 7 ans
 
-15 ans 6 mois
-
-De 124 301 F à 145 000 F
-
-15 ans 6 mois
-
-De 145 001 F à 165 700 F
-
-13 ans 6 mois
-
-De 165 701 F à 186 400 F
-
-10 ans
-
-Au-dessus de 186 400 F
-
-7 ans
+Au-dessus de 186 400 F ; 6 ans
