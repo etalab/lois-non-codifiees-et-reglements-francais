@@ -2,4 +2,4 @@
 
 Le recouvrement des créances cédées continue d'être assuré par l'établissement cédant, dans des conditions définies par une convention passée avec la société de gestion du fonds commun de créances.
 
-Toutefois, le recouvrement peut être confié à une personne autre que l'établissement cédant lorsque le débiteur l'accepte par écrit au moment du transfert de la gestion de ce recouvrement.
+Toutefois, tout ou partie du recouvrement peut être confié à un établissement de crédit ou à la Caisse des dépôts et consignations, dès lors que le débiteur en est informé par lettre simple. Pour les créances nées après le 1er janvier 1995, cette faculté n'est ouverte qu'à la condition que les contrats de prêts comportent une clause faisant mention de la possibilité du transfert de recouvrement.
