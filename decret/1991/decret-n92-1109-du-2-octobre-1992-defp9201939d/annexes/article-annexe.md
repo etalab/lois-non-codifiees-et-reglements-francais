@@ -18,6 +18,10 @@ Tableau VI. - Fonctions relevant du service de santé des armées.
 
 Tableau VII. - Fonctions relevant du service des essences des armées.
 
+Tableau VIII. - Fonctions relevant des affaires pénales militaires.
+
+Tableau IX. - Fonctions relevant de la poste interarmées.
+
 TABLEAU I. :
 
 Fonctions relevant de l'armée de terre.
@@ -889,3 +893,67 @@ Officier ou sous-officier
 Responsable du service général à l'administration centrale.
 
 Sous-officier
+
+TABLEAU N° IX :
+
+Fonctions relevant de la poste interarmées
+
+I = DÉSIGNATION DE LA FONCTION
+
+II = NIVEAU des responsabilités exercées
+
+Directeur de la poste interarmées.
+
+Officier
+
+Adjoint au directeur de la poste interarmées.
+
+Officier
+
+Responsable du détachement de liaison marine.
+
+Officier
+
+Chef de centre de tri postal des armées.
+
+Officier
+
+Adjoint au chef de centre de tri postal.
+
+Officier
+
+Responsable de la cellule marine à Paris du tri interarmées.
+
+Officier
+
+ou sous-officier
+
+Responsable de section au département central de la poste interarmées.
+
+Officier
+
+Responsable de l'acheminement du courrier au département central de la poste interarmées.
+
+Sous-officier
+
+Responsable de l'acheminement du courrier du détachement de liaison marine.
+
+Sous-officier
+
+Chef de bureau postal interarmées.
+
+Officier
+
+ou sous-officier
+
+Adjoint au chef de bureau postal interarmées à Toulon.
+
+Sous-officier
+
+Adjoint au chef de bureau postal interarmées à Brest.
+
+Sous-officier
+
+Responsable du magasin matériel-imprimés du service de la poste interarmées.
+
+Sous-officier.
