@@ -2,6 +2,5 @@
 
 - [Article 1](article-1.md)
 - [TITRE Ier : DISPOSITIONS PERMANENTES.](titre-ier)
-- [Article 2](article-2.md)
 - [TITRE II : DISPOSITIONS TRANSITOIRES](titre-ii)
 - [Article 62](article-62.md)
