@@ -171,6 +171,7 @@
 - [Décret n°87-128 du 25 février 1987 (AGRP8700306D)](decret-n87-128-du-25-fevrier-1987-agrp8700306d)
 - [Décret n°87-135 du 25 février 1987 (MAEJ8730007D)](decret-n87-135-du-25-fevrier-1987-maej8730007d)
 - [Décret n°87-214 du 25 mars 1987 (INDG8700190D)](decret-n87-214-du-25-mars-1987-indg8700190d)
+- [Décret n°87-445 du 25 juin 1987 (DEFP8701307D)](decret-n87-445-du-25-juin-1987-defp8701307d)
 - [Décret n°87-354 du 25 mai 1987 (PRMZ8705003D)](decret-n87-354-du-25-mai-1987-prmz8705003d)
 - [Décret du 26 janvier 1987 (AGRM8700086D)](decret-du-26-janvier-1987-agrm8700086d)
 - [Décret n°86-1316 du 26 décembre 1986](decret-n86-1316-du-26-decembre-1986)
