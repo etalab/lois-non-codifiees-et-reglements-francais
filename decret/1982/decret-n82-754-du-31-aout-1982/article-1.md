@@ -1,0 +1,3 @@
+# Article 1
+
+Les entreprises visées au deuxième alinéa de l'article 1er du décret du 6 mai 1982 susvisé sont celles dont les activités ont pour objet la fabrication de biens ou de produits inclus dans les classes 09 à 54 des nomenclatures d'activités et de produits approuvées par le décret du 9 novembre 1973 susvisé, sous condition qu'elles soient directement liées au processus de transformation d'un produit naturel ou semi-fini, à l'exclusion des établissements de stockage ou de distribution de produits transformés lorsque ces établissements ne sont pas géographiquement intégrés à un établissement de production.

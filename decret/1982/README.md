@@ -216,3 +216,4 @@
 - [Décret n°82-1219 du 31 décembre 1982](decret-n82-1219-du-31-decembre-1982)
 - [Décret n°82-302 du 31 mars 1982](decret-n82-302-du-31-mars-1982)
 - [Décret n°82-305 du 31 mars 1982](decret-n82-305-du-31-mars-1982)
+- [Décret n°82-754 du 31 août 1982](decret-n82-754-du-31-aout-1982)

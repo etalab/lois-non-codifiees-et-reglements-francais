@@ -1,0 +1,3 @@
+# Article 6
+
+Le commissaire de la République du département où est réalisée l'opération charge le directeur départemental de la concurrence et de la consommation de procéder à l'ensemble des opérations de liquidation de la prime. En cas de manquements observés lors du contrôle de l'exécution du projet, il en fait rapport, suivant le cas, soit au commissaire de la République de région, pour les primes attribuées en application de l'article 8 du décret du 6 mai 1982 susvisé, soit au ministre chargé de l'aménagement du territoire, pour les primes attribuées en application de l'article 9 du même décret ; celui-ci en informe sans délai les membres du comité interministériel visé audit article.

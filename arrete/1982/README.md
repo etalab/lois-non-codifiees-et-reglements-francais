@@ -80,6 +80,7 @@
 - [Arrêté du 22 juillet 1982](arrete-du-22-juillet-1982)
 - [Arrêté du 22 juin 1982](arrete-du-22-juin-1982)
 - [Arrêté du 22 mars 1982](arrete-du-22-mars-1982)
+- [Arrêté du 23 août 1982](arrete-du-23-aout-1982)
 - [Arrêté du 23 avril 1982](arrete-du-23-avril-1982)
 - [Arrêté du 23 décembre 1981](arrete-du-23-decembre-1981)
 - [Arrêté du 23 février 1982](arrete-du-23-fevrier-1982)
