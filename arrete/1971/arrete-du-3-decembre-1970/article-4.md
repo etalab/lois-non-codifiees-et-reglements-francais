@@ -1,0 +1,3 @@
+# Article 4
+
+Tout chef d'entreprise agricole qui fait usage de la faculté d'employer un enfant à des travaux légers pendant les vacances scolaires doit adresser à l'inspecteur du travail, chef du service départemental des lois sociales en agriculture, au plus tard dans les huit jours [*délai*] suivant l'embauche, une déclaration indiquant les nom, prénoms, âge et domicile de l'enfant, la période pendant laquelle celui-ci sera employé dans l'entreprise, la nature des travaux qui lui seront confiés, l'horaire de travail et le le montant de la rémunération. Le cas échéant, la déclaration doit préciser, en outre, que les travaux sont exécutés sous la surveillance du père, de la mère ou du tuteur, salarié de la même entreprise.

@@ -1,0 +1,5 @@
+# Article 5 BIS
+
+Cependant, le coefficient G1 d'un bâtiment ou d'une partie de bâtiment chauffé dont l'installation de chauffage fonctionne à l'électricité pour au moins la moitié de sa puissance ne doit pas dépasser la valeur donnée par la formule de l'article 5, les coefficients a, b, c, d et e ayant les valeurs suivantes [*calcul coefficient volumétrique de déperditions thermiques*] :
+
+CATEGORIE DE BATIMENT           I1                   I2                     (bâtiments hospitaliers)   (Autres bâtiments)   Zone climatique      A      B      C         A      B      C ----------------------------------------------------------------- Valeur de a          0,95     1      1,05      1      1,05   1,15 Valeur de b          0,50     0,50   0,50      0,50   0,50   0,60 Valeur de c ...      1,25     1,25   1,50      1,25   1,50   1,50 Valeur de d ...      1,20     1,40   1,60      1,80   2,40   3,10 Valeur de e ...      0,12     0,12   0,12      0,15   0,15   0,15 -----------------------------------------------------------------
