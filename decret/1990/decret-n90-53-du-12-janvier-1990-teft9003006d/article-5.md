@@ -1,0 +1,3 @@
+# Article 5
+
+Les cabines qui ont été mises en service à l'état neuf avant la date fixée à l'article 4 du présent décret doivent, à compter de cette date préalablement à leur exposition, leur mise en vente, leur vente, leur importation, leur location, leur cession à quelque titre que ce soit en vue de leur utilisation, être mises en conformité avec les dispositions des alinéas 2 et 3 de l'article R. 233-85, de l'article R. 233-86, de l'alinéa 1er de l'article R. 233-87, des alinéas 5 et 6 de l'article R. 233-89, de l'article R. 233-90, des alinéas 1er et 5 de l'article R. 233-93, des articles R. 233-94, R. 233-96, R. 233-98, R. 233-102, R. 233-105, de l'alinéa 1er de l'article R. 233-142, des articles R. 233-144, R. 233-145, R. 233-146, R. 233-147 et R. 233-149.
