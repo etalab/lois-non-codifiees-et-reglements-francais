@@ -2,7 +2,7 @@
 
 Paragraphe 1.
 
-Le salaire national de début de l'échelle n° 1, coefficient 100 (dit de base : manoeuvres, garçons de bureau, de courses, plantons) est en principe fixé par le moyen d'accord direct entre le président directeur général d'électricité de France, et les représentants de la ou des organisations syndicales nationales les plus représentatives du personnel.
+Le salaire national de base applicable à l'ensemble des agents soumis au présent statut est fixé par voie d'accord collectif de branche. Cet accord s'impose dès sa signature à tous les employeurs dont le personnel relève du présent statut.
 
 Paragraphe 2.
 
@@ -23,7 +23,3 @@ Paragraphe 4.
 Le salaire national de début et les majorations résidentielles locales et départementales ci-dessus visées font l'objet d'une annexe au présent statut.
 
 Cette annexe a pour titre : Annexe n° 1 - Salaires de base et majorations résidentielles locales et départementales.
-
-Paragraphe 5.
-
-En cas de divergences persistantes au sujet de la fixation du salaire national de début, et des majorations résidentielles, locales et départementales, le ministre chargé de l'électricité et du gaz sera appelé à arbitrer le conflit né de ce désaccord.
