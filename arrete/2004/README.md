@@ -343,6 +343,7 @@
 - [Arrêté du 12 mars 2004 (DEFD0400209A)](arrete-du-12-mars-2004-defd0400209a)
 - [Arrêté du 12 mars 2004 (SANH0420952A)](arrete-du-12-mars-2004-sanh0420952a)
 - [Arrêté du 12 mars 2004 (SANH0420953A)](arrete-du-12-mars-2004-sanh0420953a)
+- [Arrêté du 12 octobre 2004 (SANG0421047A)](arrete-du-12-octobre-2004-sang0421047a)
 - [Arrêté du 12 mai 2004 (AGRA0400590A)](arrete-du-12-mai-2004-agra0400590a)
 - [Arrêté du 12 mai 2004 (ECOT0414402A)](arrete-du-12-mai-2004-ecot0414402a)
 - [Arrêté du 12 mai 2004 (ECOT0414403A)](arrete-du-12-mai-2004-ecot0414403a)
