@@ -667,7 +667,6 @@
 - [Arrêté du 18 juillet 1996 (TASP9622761A)](arrete-du-18-juillet-1996-tasp9622761a)
 - [Arrêté du 18 juillet 1996 (TASS9622740A)](arrete-du-18-juillet-1996-tass9622740a)
 - [Arrêté du 18 juin 1996 (AGRE9601356A)](arrete-du-18-juin-1996-agre9601356a)
-- [Arrêté du 18 juin 1996 (ECOP9600277A)](arrete-du-18-juin-1996-ecop9600277a)
 - [Arrêté du 18 juin 1996 (MCCB9600320A)](arrete-du-18-juin-1996-mccb9600320a)
 - [Arrêté du 18 juin 1996 (MENA9601799A)](arrete-du-18-juin-1996-mena9601799a)
 - [Arrêté du 18 juin 1996 (MJSK9670080A)](arrete-du-18-juin-1996-mjsk9670080a)
