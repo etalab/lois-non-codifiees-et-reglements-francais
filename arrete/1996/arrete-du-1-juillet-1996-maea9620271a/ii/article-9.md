@@ -8,6 +8,6 @@ Les situations dans lesquelles peuvent être placés les personnels visés par l
 
 - l'appel par ordre ;
 
-- les congés (administratif, de maladie, de maternité ou d'adoption et pour obligations militaires) ;
+- les congés (annuel, de maladie, de maternité, de paternité ou d'adoption et pour obligations militaires) ;
 
 - l'appel spécial.
