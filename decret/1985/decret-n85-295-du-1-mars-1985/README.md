@@ -3,5 +3,4 @@
 - [Chapitre II : Dispositions applicables aux groupements d'intérêt économique.](chapitre-ii)
 - [Chapitre III : Dispositions applicables aux personnes morales de droit privé non commerçantes ayant une activité économique.](chapitre-iii)
 - [Chapitre IV : Dispositions applicables à certaines entreprises publiques.](chapitre-iv)
-- [Chapitre V : Règlement amiable.](chapitre-v)
 - [Chapitre VIII : Dispositions diverses et transitoires.](chapitre-viii)
