@@ -14,8 +14,4 @@ Les ressources du centre national sont constituées par :
 
 6° Les subventions qui lui sont accordées.
 
-La cotisation prévue aux deuxième et troisième alinéas est assise sur la masse des rémunérations versées aux agents employés par les communes, les départements, les régions et leurs établissements publics administratifs, telle qu'elle apparaît au compte administratif de l'avant-dernier exercice.
-
-Le taux de cette cotisation est fixé par délibération du conseil d'administration dans la limite d'un minimum et d'un maximum déterminés par la loi.
-
-Cette cotisation est perçue en même temps et selon les mêmes modalités que la cotisation versée au centre régional de formation, lequel en assure le reversement au Centre national.
+La cotisation prévue aux deuxième et troisième alinéas est assise [* assiette *] sur la masse constituée des rémunérations versées aux agents employés par les collectivités et établissements mentionnés au premier alinéa de l'article 2 de la loi n° 84-53 du 26 janvier 1984 précitée, et par les cotisations sociales afférentes à ces rémunérations.    Les rémunérations et les cotisations sociales visées à l'alinéa précédent sont celles qui apparaissent aux comptes administratifs de l'avant-dernier exercice.    Le taux de cette cotisation est fixé par délibération du conseil d'administration dans la limite d'un minimum et d'un maximum déterminés par la loi.
