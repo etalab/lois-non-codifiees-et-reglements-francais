@@ -1,0 +1,3 @@
+# Article 60-1
+
+Le conjoint survivant ou divorcé remarié, qui n'est susceptible de bénéficier d'aucun droit à pension de réversion au titre d'un régime de base obligatoire d'assurance vieillesse du chef de son dernier conjoint, recouvre son droit à la pension de réversion prévue à l'article 2 (paragraphe 2) du décret n° 51-727 du 6 juin 1951 du chef d'un précédent conjoint, lorsqu'il remplit les conditions fixées par l'article 71 bis (paragraphe 2) du présent décret et que le mariage a duré au moins deux ans, sauf lorsqu'un enfant au moins en est issu, sous réserve que ce droit ne soit pas ouvert ou susceptible d'être ouvert au profit d'un autre conjoint survivant ou divorcé [*condition d'attribution*].

@@ -1,0 +1,3 @@
+# SOUS-SECTION I : ACTION SUR LE MILIEU DU TRAVAIL
+
+- [Article 24](article-24.md)

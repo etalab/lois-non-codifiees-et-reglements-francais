@@ -1,6 +1,7 @@
 # 1982
 
 - [Décret n°81-695 du 1 juillet 1981](decret-n81-695-du-1-juillet-1981)
+- [Décret n°82-1015 du 1 décembre 1982](decret-n82-1015-du-1-decembre-1982)
 - [Décret n°82-210 du 1 mars 1982](decret-n82-210-du-1-mars-1982)
 - [Décret n°82-457 du 1 juin 1982](decret-n82-457-du-1-juin-1982)
 - [Décret n°82-568 du 1 juillet 1982](decret-n82-568-du-1-juillet-1982)
@@ -82,6 +83,7 @@
 - [Décret n°82-498 du 11 juin 1982](decret-n82-498-du-11-juin-1982)
 - [Décret n°82-509 du 11 juin 1982](decret-n82-509-du-11-juin-1982)
 - [Décret n°82-866 du 11 octobre 1982](decret-n82-866-du-11-octobre-1982)
+- [Décret n°82-397 du 11 mai 1982](decret-n82-397-du-11-mai-1982)
 - [Décret n°82-405 du 11 mai 1982](decret-n82-405-du-11-mai-1982)
 - [Décret n°82-416 du 11 mai 1982](decret-n82-416-du-11-mai-1982)
 - [Décret n°82-248 du 12 mars 1982](decret-n82-248-du-12-mars-1982)
@@ -179,6 +181,7 @@
 - [Décret n°82-635 du 21 juillet 1982](decret-n82-635-du-21-juillet-1982)
 - [Décret n°82-636 du 21 juillet 1982](decret-n82-636-du-21-juillet-1982)
 - [Décret n°83-214 du 21 mars 1983](decret-n83-214-du-21-mars-1983)
+- [Décret n°84-127 du 21 février 1984](decret-n84-127-du-21-fevrier-1984)
 - [Décret n°82-423 du 21 mai 1982](decret-n82-423-du-21-mai-1982)
 - [Décret n°82-428 du 21 mai 1982](decret-n82-428-du-21-mai-1982)
 - [Décret n°82-103 du 22 janvier 1982](decret-n82-103-du-22-janvier-1982)
@@ -287,6 +290,7 @@
 - [Décret n°81-1175 du 30 décembre 1981](decret-n81-1175-du-30-decembre-1981)
 - [Décret n°81-1178 du 30 décembre 1981](decret-n81-1178-du-30-decembre-1981)
 - [Décret n°81-1219 du 30 décembre 1981](decret-n81-1219-du-30-decembre-1981)
+- [Décret n°82-1012 du 30 novembre 1982](decret-n82-1012-du-30-novembre-1982)
 - [Décret n°82-367 du 30 avril 1982](decret-n82-367-du-30-avril-1982)
 - [Décret n°82-555 du 30 juin 1982](decret-n82-555-du-30-juin-1982)
 - [Décret n°82-687 du 30 juillet 1982](decret-n82-687-du-30-juillet-1982)
@@ -295,5 +299,6 @@
 - [Décret n°81-293 du 31 mars 1981](decret-n81-293-du-31-mars-1981)
 - [Décret n°82-1219 du 31 décembre 1982](decret-n82-1219-du-31-decembre-1982)
 - [Décret n°82-302 du 31 mars 1982](decret-n82-302-du-31-mars-1982)
+- [Décret n°82-303 du 31 mars 1982](decret-n82-303-du-31-mars-1982)
 - [Décret n°82-305 du 31 mars 1982](decret-n82-305-du-31-mars-1982)
 - [Décret n°82-754 du 31 août 1982](decret-n82-754-du-31-aout-1982)

@@ -1,4 +1,9 @@
-# Arrêté du 26 octobre 1982 relatif aux opérations de contrôle de l'expérimentation animale et de la protection des animaux d'expérience prévue à l'article R. 24-30 du code pénal, effectuées par les vétérinaires biologistes des armées dans les établissements et organismes de la défense.
+# Arrêté du 26 octobre 1982 relatif aux substances pouvant entrer dans la composition des gommes à mâcher ou chewing-gums
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Annexes](annexes)
