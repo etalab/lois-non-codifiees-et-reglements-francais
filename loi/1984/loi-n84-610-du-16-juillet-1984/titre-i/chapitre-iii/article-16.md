@@ -8,7 +8,9 @@ Les fédérations peuvent aussi grouper en qualité de membres, dans des conditi
 
 2° Les organismes à but lucratif dont l'objet est la pratique d'une ou plusieurs de leurs disciplines et qu'elles autorisent à délivrer des licences ;
 
-3° Les organismes qui, sans avoir pour objet la pratique d'une ou de plusieurs de leurs disciplines, contribuent au développement d'une ou plusieurs de celles-ci.
+3° Les organismes qui, sans avoir pour objet la pratique d'une ou de plusieurs de leurs disciplines, contribuent au développement d'une ou plusieurs de celles-ci ;
+
+4° Les sociétés sportives mentionnées à l'article 11.
 
 Les fédérations sportives exercent leur activité en toute indépendance.
 
