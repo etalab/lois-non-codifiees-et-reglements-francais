@@ -23,6 +23,8 @@
 - [Décret n°81-120 du 6 février 1981](decret-n81-120-du-6-fevrier-1981)
 - [Décret n°81-6 du 6 janvier 1981](decret-n81-6-du-6-janvier-1981)
 - [Décret n°80-522 du 7 juillet 1980](decret-n80-522-du-7-juillet-1980)
+- [Décret n°81-317 du 7 avril 1981](decret-n81-317-du-7-avril-1981)
+- [Décret n°81-322 du 7 avril 1981](decret-n81-322-du-7-avril-1981)
 - [Décret n°81-25 du 8 janvier 1981](decret-n81-25-du-8-janvier-1981)
 - [Décret n°81-476 du 8 mai 1981](decret-n81-476-du-8-mai-1981)
 - [Décret n°81-17 du 10 janvier 1981](decret-n81-17-du-10-janvier-1981)
