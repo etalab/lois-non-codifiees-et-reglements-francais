@@ -391,6 +391,7 @@
 - [Arrêté du 27 juin 2000 (AGRG0001099A)](arrete-du-27-juin-2000-agrg0001099a)
 - [Arrêté du 27 juin 2000 (AGRP0001291A)](arrete-du-27-juin-2000-agrp0001291a)
 - [Arrêté du 27 juin 2000 (AGRP0001292A)](arrete-du-27-juin-2000-agrp0001292a)
+- [Arrêté du 27 septembre 2000 (MAEA0020413A)](arrete-du-27-septembre-2000-maea0020413a)
 - [Arrêté du 28 août 2000 (DEFC0001666A)](arrete-du-28-aout-2000-defc0001666a)
 - [Arrêté du 28 août 2000 (ECOI0000412A)](arrete-du-28-aout-2000-ecoi0000412a)
 - [Arrêté du 28 août 2000 (INTC0000491A)](arrete-du-28-aout-2000-intc0000491a)
