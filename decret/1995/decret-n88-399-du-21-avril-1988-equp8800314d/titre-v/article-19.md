@@ -1,0 +1,3 @@
+# Article 19
+
+Par dérogation aux dispositions de l'article 15 du présent décret, le nombre des promotions à prononcer au titre du 2° de l'article 15 est porté, pendant les quatre premières années, à [*pourcentage*] 50 p. 100 des postes offerts aux contrôleurs des travaux publics de l'Etat au titre du 1° et du 2°, pendant la cinquième année à 40 p. 100 et la sixième année à 30 p. 100.    Pendant cette période, seuls pourront être promus par la voie du 2° de l'article 15 les contrôleurs des travaux publics de l'Etat détenant le 9e échelon et comptant quinze ans [*durée*] de services effectifs dans leur grade.
