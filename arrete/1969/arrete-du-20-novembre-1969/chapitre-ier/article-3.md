@@ -18,8 +18,7 @@ Les rétroviseurs, y compris ceux installés sur les véhicules non visés à l'
 </tr>
 <tr>
 <td>
-<p>Rétroviseurs extérieurs des cycles, cyclomoteurs,</p>
-<p>vélomoteurs, motocyclettes et tricycles à moteur </p>
+<p>Rétroviseurs extérieurs des cycles</p>
 </td>
 <td align="center"> Il ou III</td>
 </tr>
