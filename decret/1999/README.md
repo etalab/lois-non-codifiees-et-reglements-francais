@@ -512,7 +512,6 @@
 - [Décret n°98-386 du 18 mai 1998 (MESG9820695D)](decret-n98-386-du-18-mai-1998-mesg9820695d)
 - [Décret n°99-382 du 18 mai 1999 (ECOF9900018D)](decret-n99-382-du-18-mai-1999-ecof9900018d)
 - [Décret n°99-383 du 18 mai 1999 (ECOF9900019D)](decret-n99-383-du-18-mai-1999-ecof9900019d)
-- [Décret n°2000-683 du 19 juillet 2000 (PRMX0004215D)](decret-n2000-683-du-19-juillet-2000-prmx0004215d)
 - [Décret n°99-124 du 19 février 1999 (DEFD9802115D)](decret-n99-124-du-19-fevrier-1999-defd9802115d)
 - [Décret n°99-205 du 19 mars 1999 (ECOP9900013D)](decret-n99-205-du-19-mars-1999-ecop9900013d)
 - [Décret n°99-206 du 19 mars 1999 (ECOP9900012D)](decret-n99-206-du-19-mars-1999-ecop9900012d)
