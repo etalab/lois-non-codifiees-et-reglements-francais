@@ -25,6 +25,7 @@
 - [Décret n°83-33 du 21 janvier 1983](decret-n83-33-du-21-janvier-1983)
 - [Décret n° 82-1120 du 23 décembre 1982](decret-n-82-1120-du-23-decembre-1982)
 - [Décret n°82-1102 du 23 décembre 1982](decret-n82-1102-du-23-decembre-1982)
+- [Décret n°83-36 du 24 janvier 1983](decret-n83-36-du-24-janvier-1983)
 - [Décret n°82-1119 du 28 décembre 1982](decret-n82-1119-du-28-decembre-1982)
 - [Décret n°82-938 du 28 octobre 1982](decret-n82-938-du-28-octobre-1982)
 - [Décret n°82-447 du 28 mai 1982](decret-n82-447-du-28-mai-1982)

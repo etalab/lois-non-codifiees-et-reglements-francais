@@ -1,3 +1,21 @@
 # Article 2
 
-En application des dispositions des décrets n° 82-389 (art. 17) et 82-390 (art. 16) du 10 mai 1982 susvisés, le   préfet de région peut donner délégation de signature en ce qui concerne sa compétence d'ordonnateur secondaire du budget du ministère de la formation professionnelle au délégué régional à la formation professionnelle en ce qui concerne l'exécution des recettes et des dépenses du service de la délégation régionale à la formation professionnelle, et notamment pour l'utilisation des crédits de formation professionnelle inscrits au budget des services généraux du Premier ministre.
+La commission comprend [*composition*] :
+
+a) Des membres de droit :
+
+Le directeur général de la santé ou son représentant ;
+
+Le directeur des hôpitaux ou son représentant ;
+
+Le directeur général de l'Institut national de la santé et de la recherche médicale ou son représentant ;
+
+Le chef de l'inspection générale des affaires sociales ou son représentant.
+
+b) Des membres nommés pour une durée de trois ans :
+
+Cinq membres choisis parmi le personnel médical des unités fonctionnelles pratiquant les greffes de moelle ;
+
+Cinq membres choisis pour leur compétence particulière ;
+
+Trois membres représentant les établissements hospitaliers où sont pratiquées les greffes de moelle.

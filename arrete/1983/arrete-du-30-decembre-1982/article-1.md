@@ -1,9 +1,5 @@
 # Article 1
 
-En application des dispositions des décrets n° 82-389 (art. 15) et 82-390 (art. 14) du 10 mai 1982 susvisés :
+Il est institué une commission de greffe de moelle qui a pour mission de susciter et d'étudier les mesures destinées à organiser la pratique des greffes de moelle osseuse.
 
-Le   préfet de région est ordonnateur secondaire du budget du ministère de la formation professionnelle pour les recettes et les dépenses relatives à l'activité de la délégation régionale à la formation professionnelle ;
-
-Le   préfet de région est ordonnateur secondaire du budget du ministère de la formation professionnelle pour les opérations de conventionnement exécutées à l'échelon de la région ;
-
-Le   préfet de département est ordonnateur secondaire du budget du ministère de la formation professionnelle pour les opérations de conventionnement exécutées à l'échelon du département.
+Elle donne son avis sur le choix des unités fonctionnelles ou les greffes de moelle osseuse sont pratiquées, sur les moyens mis en oeuvre et sur les résultats obtenus.

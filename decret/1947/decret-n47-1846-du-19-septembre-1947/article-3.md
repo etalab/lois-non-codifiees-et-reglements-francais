@@ -1,10 +1,10 @@
 # Article 3
 
-I - Dans les dix premiers jours de chaque mois [*délai - fréquence*], ou à des dates fixées par arrêté interministériel, les départements, communes et leurs établissements publics versent à la caisse nationale de retraites le produit des retenues qu'ils ont opérées au titre du mois précédent, en application de l'article 2 du présent décret.
+I - Dans les dix premiers jours de chaque mois [*délai - périodicité*] ou à des dates fixées par arrêté interministériel, les départements, communes et leurs établissements publics versent à la caisse nationale de retraites le produit des retenues qu'ils ont opérées au titre du mois précédent, en application de l'article 2 du présent décret.
 
-Les collectivités versent en même temps à la caisse nationale de retraites leur contribution, qui est fixée à 18 p. 100 [*pourcentage - montant*] des rémunérations soumises à retenue, définies à l'article 2-I.
+Les collectivités versent en même temps à la caisse nationale de retraites leur contribution, qui est fixée à 11,20 p. 100 [*taux - montant*] des rémunérations soumises à retenue, définies à l'article 2-I.
 
-Elles peuvent en outre en cas d'insuffisance des ressources de la caisse nationale de retraites, être appelées à lui verser une contribution spéciale dont le montant, approuvé par le conseil d'administration de la caisse nationale de retraites [*conditions de forme*], est calculé pour chaque collectivité, au titre de l'année considérée, en répartissant le déficit à prévoir pour ladite année entre les collectivités proportionnellement au montant des pensions de leurs retraités respectifs inscrites au répertoire des pensions de la caisse nationale au 1er janvier de l'année précédente. Cette contribution spéciale est versée par quart [*proportion*], dans les dix premiers jours de chaque trimestre.
+Elles peuvent en outre en cas d'insuffisance des ressources de la caisse nationale de retraites, être appelées à lui verser une contribution spéciale dont le montant, approuvé par le conseil d'administration de la caisse nationale de retraites [*conditions de forme*], est calculé pour chaque collectivité, au titre de l'année considérée, en répartissant le déficit à prévoir pour ladite année entre les collectivités proportionnellement au montant des pensions de leurs retraites respectifs inscrites au répertoire des pensions de la caisse nationale au 1er janvier de l'année précédente. Cette contribution spéciale est versée par quart [*proportion*], dans les dix premiers jours de chaque trimestre [*date*].
 
 Le budget de la préfecture de police supporte, pour les agents visés à l'article 2, II, ci-dessus, la contribution supplémentaire prévue à l'article 4 de la loi n° 57-444 du 8 avril 1957.
 
