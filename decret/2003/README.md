@@ -152,7 +152,6 @@
 - [Décret n°2003-1177 du 8 décembre 2003 (JUSG0360046D)](decret-n2003-1177-du-8-decembre-2003-jusg0360046d)
 - [Décret n°2003-1178 du 8 décembre 2003 (JUSG0360047D)](decret-n2003-1178-du-8-decembre-2003-jusg0360047d)
 - [Décret n°2003-1179 du 8 décembre 2003 (JUSG0360049D)](decret-n2003-1179-du-8-decembre-2003-jusg0360049d)
-- [Décret n°2003-28 du 8 janvier 2003 (MCCT0200814D)](decret-n2003-28-du-8-janvier-2003-mcct0200814d)
 - [Décret n°2003-634 du 8 juillet 2003 (AGRX0306729D)](decret-n2003-634-du-8-juillet-2003-agrx0306729d)
 - [Décret n°2003-647 du 8 juillet 2003 (ECOP0300360D)](decret-n2003-647-du-8-juillet-2003-ecop0300360d)
 - [Décret n°2003-865 du 8 septembre 2003 (PRMX0306819D)](decret-n2003-865-du-8-septembre-2003-prmx0306819d)
