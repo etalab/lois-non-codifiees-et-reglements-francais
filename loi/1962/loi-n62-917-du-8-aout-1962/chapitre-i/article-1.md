@@ -4,6 +4,10 @@ Les groupements agricoles d'exploitation en commun sont des sociétés civiles d
 
 Ils ont pour objet de permettre la réalisation d'un travail en commun dans des conditions comparables à celles existant dans les exploitations de caractère familial, et en application des dispositions prévues à l'article 7 de la loi n° 60-808 du 5 août 1960 d'orientation agricole.
 
+Un groupement agricole d'exploitation en commun ne peut être constitué entre des associés dont les uns mettraient en commun l'ensemble de leurs activités agricoles et les autres une partie seulement de celles-ci.
+
+Les associés d'un groupement agricole d'exploitation en commun ne peuvent pas se livrer à titre individuel à une production pratiquée par le groupement.
+
 Les groupements agricoles d'exploitation en commun ne peuvent réunir plus de dix associés.
 
 Un groupement agricole d'exploitation en commun ne peut être constitué de deux époux qui en seraient les seuls associés.

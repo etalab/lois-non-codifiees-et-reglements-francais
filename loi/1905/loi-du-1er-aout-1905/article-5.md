@@ -54,7 +54,7 @@ Sera considéré comme étant en état de récidive légale quiconque ayant ét�
 
 - loi n° 55-1533 du 28 novembre 1955 modifiée relative aux appellations d'origine des fromages ;
 
-- loi n° 60-808 du 5 août 1960 d'orientation agricole (art. 28-1 et 28-2 sur les labels agricoles) ;
+- loi n° 60-808 du 5 août 1960 d'orientation agricole (art. 28-1 à art. 28-1-2 et 28-2 sur les labels agricoles) ;
 
 - loi n° 64-1360 du 31 décembre 1964 modifiée sur les marques de fabrique, de commerce ou de service ;
 
@@ -72,6 +72,8 @@ Sera considéré comme étant en état de récidive légale quiconque ayant ét�
 
 - les articles L. 231-6 et L. 231-7 du chapitre I du titre III et l'article L. 263-2 du chapitre III du titre VI du livre II du code du travail ;
 
-- les chapitres I et IV du titre Ier, les chapitres II et III du titre II et les chapitres I et VIII du titre III du livre V du code de la santé publique,
+- les chapitres I et IV du titre Ier, les chapitres II et III du titre II et les chapitres I et VIII du titre III du livre V du code de la santé publique ;
+
+- loi n° 80-502 du 4 juillet 1980 d'orientation agricole (paragraphe III et IV de l'article 14).
 
 aura dans les cinq ans qui suivront la date à laquelle cette condamnation sera devenue définitive, commis un nouveau délit tombant sous l'application de la présente loi ou des lois susmentionnées.

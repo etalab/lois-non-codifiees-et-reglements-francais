@@ -1,13 +1,15 @@
 # Article 28-2
 
-Sera puni des peines prévues à l'article 1er de la loi du 1er août 1905, modifiée, quiconque aura :
+Sera puni des peines prévues à l'article 1er de la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits et de services quiconque aura :
 
-- utilisé ou tenté d'utiliser frauduleusement un label agricole ;
+a) Utilisé ou tenté d'utiliser frauduleusement un label agricole ou une certification ;
 
-- délivré, utilisé ou tenté d'utiliser un label agricole n'ayant pas fait l'objet d'une homologation ;
+b) Délivré, utilisé ou tenté d'utiliser un label agricole n'ayant pas fait l'objet d'une homologation ;
 
-- utilisé un mode de présentation faisant croire ou de nature à faire croire qu'un produit bénéficie d'un label agricole ;
+c) Assuré une certification sans satisfaire aux conditions prévues à l'article 28-1-2 ;
 
-- fait croire ou tenté de faire croire qu'un produit assorti d'un label agricole est garanti par l'Etat ou par un organisme public.
+d) Utilisé un mode de présentation faisant croire ou de nature à faire croire qu'un produit bénéficie d'un label agricole ou d'une certification ;
 
-Les dispositions de la loi du 1er août 1905, modifiée, concernant la recherche et la constatation des infractions sont applicables aux prescriptions des alinéas précédents, ainsi qu'à celles de l'article 28-1 de la présente loi et des textes pris pour leur application.
+e) Fait croire ou tenté de faire croire qu'un produit assorti d'un label agricole ou d'une certification est garanti par l'Etat ou par un organisme public.
+
+Les dispositions de la loi du 1er août 1905 précitée concernant la recherche et la constatation des infractions sont applicables aux prescriptions des alinéas précédents ainsi qu'à celles des articles 28-1-1 et 28-1-2 de la présente loi et des textes pris pour leur application.

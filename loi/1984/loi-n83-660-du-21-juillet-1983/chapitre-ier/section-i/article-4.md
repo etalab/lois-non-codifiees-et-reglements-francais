@@ -18,4 +18,6 @@ Sont qualifiés pour procéder au contrôle des produits et services dans les co
 
 - les agents mentionnés à l'article 22 de la loi n° 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement ;
 
-- les services de police et de gendarmerie.
+- les services de police et de gendarmerie ;
+
+- les agents des services de la protection des végétaux au ministère de l'agriculture.

@@ -16,6 +16,8 @@ L'exercice de ce droit a pour objet, dans le cadre des objectifs définis par la
 
 6° La conservation d'exploitations viables existantes lorsqu'elle est compromise par la cession séparée des terres et de bâtiments d'habitation ou d'exploitation.
 
+7° Les biens compris dans un plan de cession totale ou partielle d'une entreprise arrêté conformément aux articles 81 et suivants de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises.
+
 A peine de nullité, la société d'aménagement foncier et d'établissement rural doit justifier sa décision de préemption par référence explicite et motivée à l'un ou à plusieurs des objectifs ci-dessus définis, et la porter à la connaissance des intéressés. Elle doit également motiver et publier la décision de rétrocession et annoncer préalablement à toute rétrocession son intention de mettre en vente les fonds acquis par préemption ou à l'amiable.
 
 Dans chaque département, lorsque la société d'aménagement foncier et d'établissement rural compétente a demandé l'attribution du droit de préemption, le préfet détermine, après avis motivés de la commission départementale des structures et de la chambre d'agriculture, les zones où se justifie l'octroi d'un droit de préemption et la superficie minimale à laquelle il est susceptible de s'appliquer.
