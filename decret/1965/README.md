@@ -13,6 +13,7 @@
 - [Décret n°65-28 du 13 janvier 1965](decret-n65-28-du-13-janvier-1965)
 - [Décret n°65-45 du 13 janvier 1965](decret-n65-45-du-13-janvier-1965)
 - [Décret n°65-72 du 13 janvier 1965](decret-n65-72-du-13-janvier-1965)
+- [Décret n°65-338 du 14 avril 1965](decret-n65-338-du-14-avril-1965)
 - [Décret n°65-115 du 15 février 1965](decret-n65-115-du-15-fevrier-1965)
 - [Décret n°65-116 du 15 février 1965](decret-n65-116-du-15-fevrier-1965)
 - [Décret n°65-314 du 17 avril 1965](decret-n65-314-du-17-avril-1965)
