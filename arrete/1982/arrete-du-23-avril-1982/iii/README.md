@@ -1,0 +1,3 @@
+# III. OBLIGATION DU DEMANDEUR
+
+- [2. CESSATION D'ACTIVITE.](2-cessation-d-activite)
