@@ -44,6 +44,7 @@
 - [Décret n°59-475 du 21 mars 1959](decret-n59-475-du-21-mars-1959)
 - [Décret n°58-1284 du 22 décembre 1958](decret-n58-1284-du-22-decembre-1958)
 - [Décret n°59-178 du 22 janvier 1959](decret-n59-178-du-22-janvier-1959)
+- [Décret n°59-769 du 22 juin 1959](decret-n59-769-du-22-juin-1959)
 - [Décret n°58-1303 du 23 décembre 1958](decret-n58-1303-du-23-decembre-1958)
 - [Décret n°58-1430 du 23 décembre 1958](decret-n58-1430-du-23-decembre-1958)
 - [Décret n°59-585 du 24 avril 1959](decret-n59-585-du-24-avril-1959)
