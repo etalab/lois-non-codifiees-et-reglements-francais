@@ -245,7 +245,6 @@
 - [Arrêté du 8 octobre 1991 (MENT9102099A)](arrete-du-8-octobre-1991-ment9102099a)
 - [Arrêté du 9 août 1991 (AGRG9101828A)](arrete-du-9-aout-1991-agrg9101828a)
 - [Arrêté du 9 août 1991 (BUDB9130054A)](arrete-du-9-aout-1991-budb9130054a)
-- [Arrêté du 9 août 1991 (PTTR9100299A)](arrete-du-9-aout-1991-pttr9100299a)
 - [Arrêté du 9 avril 1991 (EQUT9100201A)](arrete-du-9-avril-1991-equt9100201a)
 - [Arrêté du 9 avril 1991 (INDH9100315A)](arrete-du-9-avril-1991-indh9100315a)
 - [Arrêté du 9 avril 1991 (INDH9100316A)](arrete-du-9-avril-1991-indh9100316a)
