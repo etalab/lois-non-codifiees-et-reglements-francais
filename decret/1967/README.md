@@ -33,6 +33,7 @@
 - [Décret n°67-797 du 20 septembre 1967](decret-n67-797-du-20-septembre-1967)
 - [Décret n°67-803 du 20 septembre 1967](decret-n67-803-du-20-septembre-1967)
 - [Décret n°67-926 du 20 octobre 1967](decret-n67-926-du-20-octobre-1967)
+- [Décret n°67-356 du 21 avril 1967](decret-n67-356-du-21-avril-1967)
 - [Décret n°67-1124 du 22 décembre 1967](decret-n67-1124-du-22-decembre-1967)
 - [Décret n°67-1169 du 22 décembre 1967](decret-n67-1169-du-22-decembre-1967)
 - [Décret n°67-1231 du 22 décembre 1967](decret-n67-1231-du-22-decembre-1967)
