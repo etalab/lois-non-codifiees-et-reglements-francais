@@ -58,4 +58,5 @@
 - [Décret n°2000-286 du 30 mars 2000 (EQUX0000059D)](decret-n2000-286-du-30-mars-2000-equx0000059d)
 - [Décret n°99-1228 du 30 décembre 1999 (DEFP9902155D)](decret-n99-1228-du-30-decembre-1999-defp9902155d)
 - [Décret n° 2000-84 du 31 janvier 2000 (MESC0010122D)](decret-n-2000-84-du-31-janvier-2000-mesc0010122d)
+- [Décret n°2000-86 du 31 janvier 2000 (AGRS0000212D)](decret-n2000-86-du-31-janvier-2000-agrs0000212d)
 - [Décret n°2000-481 du 31 mai 2000 (MENF0000923D)](decret-n2000-481-du-31-mai-2000-menf0000923d)
