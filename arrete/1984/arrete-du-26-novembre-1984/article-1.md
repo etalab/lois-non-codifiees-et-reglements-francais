@@ -1,3 +1,3 @@
 # Article 1
 
-Pour l'année 1983, le montant de la compensation interprofessionnelle des prestations d'accidents du travail à la charge du régime général de sécurité sociale, prévue à l'article 33 quater du décret du 27 novembre 1946, est arrêté à 2763700545,88 F *montant*.
+La commission sociale et de la sécurité est associée à l'élaboration et à la mise en oeuvre de la politique sociale dans les transports. Dans le cadre de la politique générale des pouvoirs publics relative à la sécurité du travail, elle peut faire toutes propositions utiles tenant compte des conditions spécifiques d'exercice des professions de transport. Elle élabore chaque année un bilan relatif aux conditions de travail et de sécurité dans les transports.

@@ -2,4 +2,5 @@
 
 - [Article 1](article-1.md)
 - [I. - DISPOSITIONS GENERALES.](i)
+- [II. - DISPOSITIONS PARTICULIERES.](ii)
 - [III. - DISPOSITIONS DIVERSES.](iii)
