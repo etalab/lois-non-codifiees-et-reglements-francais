@@ -4,6 +4,6 @@ Le capital constitué par le portefeuille de la caisse de réserve existant à l
 
 Toutefois, dans le cas où les dépenses d'exploitation de la banque se révéleraient, à la clôture d'un exercice, supérieures aux recettes, le conseil général pourrait, dans la limite où cette mesure s'imposerait, décider de laisser à la caisse de réserve la charge de couvrir une partie du paiement des pensions de cet exercice :
 
-- soit au moyen de la retenue de 8,9 p. 100 effectuée sur les traitements payés au cours de l'exercice ;
+- soit au moyen de la retenue de 7,85 p. 100 effectuée sur les traitements payés au cours de l'exercice ;
 
 - soit même par prélèvement sur les retenues des exercices antérieurs capitalisées, depuis le 1er octobre 1950, pour former une réserve distincte de celle visée au premier alinéa du présent article.
