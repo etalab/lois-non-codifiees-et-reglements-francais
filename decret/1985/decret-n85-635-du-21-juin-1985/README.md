@@ -3,6 +3,7 @@
 - [Section I : Directeurs et sous-directeurs](section-i)
 - [Section II : Personnel enseignant](section-ii)
 - [Section III : Les surveillants généraux et les agents d'encadrement](section-iii)
+- [Section IV : Personnels des services administratifs et financiers et de l'agence comptable](section-iv)
 - [Section V : Directeurs, directeurs des études et chefs de département](section-v)
 - [Section VI : Organisation scolaire](section-vi)
 - [Section VII : Organismes consultatifs](section-vii)
