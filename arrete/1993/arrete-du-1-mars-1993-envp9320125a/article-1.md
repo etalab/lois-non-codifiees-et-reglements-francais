@@ -4,7 +4,7 @@ Le présent arrêté fixe les prescriptions applicables aux rejets des installat
 
 - des installations de combustion visées par l'arrêté du 20 juin 1975 modifié et par l'arrêté du 27 juin 1990, et qui ne se trouvent pas sur le site d'une raffinerie de produits pétroliers ;
 
-- des carrières ;
+- des carrières et des installations de premier traitement des matériaux de carrières.
 
 - des cimenteries ;
 
@@ -12,7 +12,7 @@ Le présent arrêté fixe les prescriptions applicables aux rejets des installat
 
 - des verreries et cristalleries ;
 
-- des installations de traitement (incinération, compostage...), stockage ou transit de résidus urbains ou de déchets industriels ;
+- des installations de traitement (incinération, compostage ...), stockage ou transit de résidus urbains ou de déchets industriels ;
 
 - des établissements d'élevage ;
 
