@@ -1,0 +1,3 @@
+# Article 5
+
+Tout administrateur des affaires maritimes tient un livre spécial, dit "livre de punitions", sur lequel il mentionne les punitions par lui infligées en vertu de l'article 13 du présent décret. Il y inscrit également, au vu des livres de discipline qui lui sont communiqués, celles infligées en vertu de l'article 9 par les capitaines de navires. Les capitaines de navires non pourvus de livres de discipline sont tenus de déclarer à l'administrateur des affaires maritimes, dans les deux jours de l'arrivée de leur bâtiment au port, les sanctions qu'ils ont pu prendre au cours de leur dernier voyage.
