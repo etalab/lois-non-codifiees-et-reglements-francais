@@ -30,6 +30,7 @@
 - [Décret n°81-60 du 16 janvier 1981](decret-n81-60-du-16-janvier-1981)
 - [Décret n°81-161 du 19 février 1981](decret-n81-161-du-19-fevrier-1981)
 - [Décret n°81-162 du 19 février 1981](decret-n81-162-du-19-fevrier-1981)
+- [Décret n°81-169 du 20 février 1981](decret-n81-169-du-20-fevrier-1981)
 - [Décret n°81-37 du 20 janvier 1981](decret-n81-37-du-20-janvier-1981)
 - [Décret n°81-63 du 20 janvier 1981](decret-n81-63-du-20-janvier-1981)
 - [Décret n°81-38 du 21 janvier 1981](decret-n81-38-du-21-janvier-1981)
