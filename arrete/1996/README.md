@@ -13,7 +13,6 @@
 - [Arrêté du 1 juillet 1996 (AGRS9601337A)](arrete-du-1-juillet-1996-agrs9601337a)
 - [Arrêté du 1 juillet 1996 (EQUS9600829A)](arrete-du-1-juillet-1996-equs9600829a)
 - [Arrêté du 1 juillet 1996 (MAEA9620271A)](arrete-du-1-juillet-1996-maea9620271a)
-- [Arrêté du 1 juillet 1996 (TASS9621893A)](arrete-du-1-juillet-1996-tass9621893a)
 - [Arrêté du 1 juin 1996 (ECOT9651519A)](arrete-du-1-juin-1996-ecot9651519a)
 - [Arrêté du 1 mars 1996 (BUDF9600002A)](arrete-du-1-mars-1996-budf9600002a)
 - [Arrêté du 1 mars 1996 (BUDF9620934A)](arrete-du-1-mars-1996-budf9620934a)
