@@ -1,0 +1,3 @@
+# Article 28
+
+Si l'application de l'article 19 du présent décret a pour effet de classer les ingénieurs de classe normale qui ont été nommés dans le grade d'ingénieur de classe supérieure entre le 1er août 1996 et la date de publication du présent décret à un échelon doté d'un indice inférieur à celui de l'échelon du grade de réviseur principal dans lequel ils avaient été classés initialement en application de l'article 14 du décret n° 61-1144 du 13 octobre 1961 modifié et de l'article 15 du décret n° 79-625 du 18 juillet 1979 modifié, les intéressés conservent à titre personnel le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient dans leur nouveau grade d'un indice au moins égal.
