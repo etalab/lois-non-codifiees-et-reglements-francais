@@ -78,7 +78,6 @@
 - [Arrêté du 16 mai 1983](arrete-du-16-mai-1983)
 - [Arrêté du 17 décembre 1982](arrete-du-17-decembre-1982)
 - [Arrêté du 17 janvier 1983](arrete-du-17-janvier-1983)
-- [Arrêté du 17 juin 1983](arrete-du-17-juin-1983)
 - [Arrêté du 17 mars 1983](arrete-du-17-mars-1983)
 - [Arrêté du 17 octobre 1983](arrete-du-17-octobre-1983)
 - [Arrêté du 18 août 1983](arrete-du-18-aout-1983)
