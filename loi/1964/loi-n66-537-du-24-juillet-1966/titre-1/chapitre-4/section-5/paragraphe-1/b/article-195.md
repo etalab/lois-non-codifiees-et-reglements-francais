@@ -8,6 +8,6 @@ La conversion ne peut avoir lieu qu'au gré des porteurs et seulement dans les c
 
 Le prix d'émission des obligations convertibles ne peut être inférieur à la valeur nominale des actions que les obligataires recevront en cas d'option pour la conversion.
 
-A dater du vote de l'assemblée et tant qu'il existe des obligations convertibles en actions, il est interdit à la société d'amortir son capital ou de le réduire par voie de remboursement et de modifier la répartition des bénéfices. Toutefois, la société peut créer des actions à dividende prioritaire sans droit de vote à la condition de réserver les droits des obligataires dans les conditions prévues à l'article 196.
+A dater du vote de l'assemblée et tant qu'il existe des obligations convertibles en actions, il est interdit à la société d'amortir son capital et de modifier la répartition des bénéfices. Toutefois, la société peut créer des actions à dividende prioritaire sans droit de vote à la condition de réserver les droits des obligataires dans les conditions prévues à l'article 196.
 
 En cas de réduction du capital motivée par des pertes, par diminution, soit du montant nominal des actions, soit du nombre de celles-ci, les droits des obligataires optant pour la conversion de leurs titres seront réduits en conséquence, comme si lesdits obligataires avaient été actionnaires dès la date d'émission des obligations.

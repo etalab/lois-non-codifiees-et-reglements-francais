@@ -12,4 +12,4 @@ Les instruments financiers comprennent :
 
 et, pour l'application de la présente loi, tous instruments équivalents à ceux mentionnés aux précédents alinéas, émis sur le fondement de droits étrangers.
 
-Les instruments financiers ne peuvent être émis que par l'Etat ou par une personne morale.
+Les instruments financiers ne peuvent être émis que par l'Etat, une personne morale, un fonds commun de placement ou un fonds commun de créances.

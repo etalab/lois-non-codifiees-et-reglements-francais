@@ -1,6 +1,6 @@
 # Article 194-4
 
-A dater du vote de l'assemblée générale extraordinaire de la société appelée à émettre des actions et tant qu'il existe des bons de souscription en cours de validité, il est interdit à cette société d'amortir son capital ou de le réduire par voie de remboursement et de modifier la répartition des bénéfices.
+A dater du vote de l'assemblée générale extraordinaire de la société appelée à émettre des actions et tant qu'il existe des bons de souscription en cours de validité, il est interdit à cette société d'amortir son capital et de modifier la répartition des bénéfices.
 
 Toutefois, la société peut créer des actions à dividende prioritaire sans droit de vote à la condition de réserver les droits des obligataires dans les conditions prévues à l'article 194-5.
 

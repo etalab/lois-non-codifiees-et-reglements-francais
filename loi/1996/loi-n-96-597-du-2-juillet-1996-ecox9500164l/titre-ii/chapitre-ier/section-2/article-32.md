@@ -8,7 +8,7 @@ Concernant les prestataires de services d'investissement, les entreprises de mar
 
 1° Les règles de bonne conduite que ces personnes sont tenues de respecter à tout moment, à l'exception de celles relatives aux services fournis au d de l'article 4 ; ces règles doivent tenir compte de la compétence professionnelle de la personne à laquelle le service d'investissement est rendu ;
 
-2° Les conditions d'exercice, par les prestataires de services d'investissement, des services définis à l'article 5 ainsi que les fonctions de compensateur et de teneur de compte et les conditions d'habilitation, à cet effet, des établissements mentionnés au II de l'article 94 de la loi de finances pour 1982 (n° 81-1160 du 30 décembre 1981) ;
+2° Les conditions d'exercice, par les prestataires de services d'investissement, des services définis à l'article 5 ainsi que les fonctions de compensateur et de teneur de compte.
 
 3° Les conditions dans lesquelles peut être délivrée ou retirée une carte professionnelle aux personnes physiques placées sous l'autorité ou agissant pour le compte de ces prestataires et entreprises ainsi que du Conseil des marchés financiers ;
 
@@ -35,3 +35,9 @@ Concernant spécifiquement les marchés réglementés :
 Le règlement général détermine également :
 
 13° Les modalités du fonctionnement administratif et financier du Conseil des marchés financiers.
+
+14° Les conditions d'exercice des activités de conservation et d'administration d'instruments financiers par les personnes morales qui effectuent des opérations par appel public à l'épargne et les intermédiaires habilités à ce titre par le conseil des marchés financiers ;
+
+15° Les conditions d'habilitation, par le conseil des marchés financiers, des dépositaires centraux ainsi que les conditions dans lesquelles le conseil approuve leurs règles de fonctionnement ;
+
+16° Les principes généraux d'organisation et de fonctionnement des systèmes de règlement et de livraison d'instruments financiers et les conditions dans lesquelles le Conseil des marchés financiers approuve les règles de fonctionnement de ces systèmes, sans préjudice des compétences conférées à la Banque de France par l'article 4 de la loi n° 93-980 du 4 août 1993 relative au statut de la Banque de France et à l'activité et au contrôle des établissements de crédit.

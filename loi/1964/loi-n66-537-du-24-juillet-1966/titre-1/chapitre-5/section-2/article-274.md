@@ -5,3 +5,5 @@ Sauf en cas de succession, de liquidation de communauté de biens entre époux, 
 Une telle clause ne peut être stipulée que si les actions revêtent exclusivement la forme nominative en vertu de la loi ou des statuts.
 
 Lorsque les statuts d'une société ne faisant pas publiquement appel à l'épargne réservent des actions aux salariés de la société, il peut être stipulé une clause d'agrément interdite par les dispositions de l'alinéa 1er ci-dessus, dès lors que cette clause a pour objet d'éviter que lesdites actions ne soient dévolues ou cédées à des personnes n'ayant pas la qualité de salarié de la société.
+
+Toute cession effectuée en violation d'une clause d'agrément figurant dans les statuts est nulle.

@@ -10,6 +10,8 @@ Les valeurs, titres ou effets mentionnés ci-dessus sont :
 
 3° Les titres de créances négociables sur un marché réglementé français ou étranger ;
 
+3° bis. Les parts de fonds communs de créances qui n'ont pas fait l'objet d'une admission aux négociations sur un marché réglementé.
+
 4° Les effets publics ou privés.
 
 Toutefois, seuls les établissements de crédit peuvent prendre ou mettre en pension les effets privés.

@@ -2,7 +2,7 @@
 
 I. - Lorsqu'un prestataire de services d'investissement agréé pour exercer les services visés au d de l'article 4 ou une société de gestion de portefeuille a manqué à ses obligations professionnelles définies par les lois et règlements en vigueur, la Commission des opérations de bourse, après avoir mis leurs dirigeants en mesure de présenter leurs explications, peut leur adresser une mise en garde.
 
-II. - Les prestataires de services d'investissement agréés pour exercer les services visés au d de l'article 4 ainsi que les sociétés de gestion de portefeuille sont passibles des sanctions prononcées par la Commission des opérations de bourse à raison des manquements à leurs obligations professionnelles définies par les lois et règlements en vigueur.
+II. - Sans préjudice des compétences du conseil de discipline de la gestion financière, les prestataires de services d'investissement agréés pour exercer les services visés au d de l'article 4 ainsi que les sociétés de gestion de portefeuille sont passibles des sanctions prononcées par la Commission des opérations de bourse à raison des manquements à leurs obligations professionnelles définies par les lois et règlements en vigueur.
 
 La Commission des opérations de bourse agit soit d'office, soit à la demande du gouverneur de la Banque de France, président de la Commission bancaire, soit à la demande du président du Conseil des marchés financiers. Elle statue, en cette matière, par décision motivée. Aucune sanction ne peut être prononcée sans que le représentant légal du prestataire de services d'investissement ou de la société de gestion de portefeuille ait été entendu ou, à défaut, dûment appelé.
 

@@ -14,7 +14,7 @@ La cessation de cette jouissance, et, s'il y a lieu, son transfert seront pronon
 
 5° Si elle ne satisfait pas soit aux obligations de l'article 6 ou du dernier paragraphe du présent article, soit aux prescriptions relatives aux monuments historiques.
 
-La désaffectation et ces immeubles pourra, dans les cas ci-dessus prévus être prononcée par décret rendu en Conseil d'Etat. En dehors de ces cas, elle ne pourra l'être que par une loi.
+La désaffectation de ces immeubles pourra, dans les cas ci-dessus prévus être prononcée par décret rendu en Conseil d'Etat. En dehors de ces cas, elle ne pourra l'être que par une loi.
 
 Les immeubles autrefois affectés aux cultes et dans lesquels les cérémonies du culte n'auront pas été célébrées pendant le délai d'un an antérieurement à la présente loi, ainsi que ceux qui ne seront pas réclamés par une association cultuelle dans le délai de deux ans après sa promulgation, pourront être désaffectés par décret.
 
@@ -22,4 +22,4 @@ Il en est de même pour les édifices dont la désaffectation aura été demand�
 
 Les établissements publics du culte, puis les associations bénéficiaires, seront tenus des réparations de toute nature, ainsi que des frais d'assurance et autres charges afférentes aux édifices et aux meubles les garnissant.
 
-L'Etat, les départements et les communes pourront engager les dépenses nécessaires pour l'entretien et la conservation des édifices du culte dont la propriété leur est reconnue par la présente loi.
+L'Etat, les départements, les communes et les établissements publics de coopération intercommunale pourront engager les dépenses nécessaires pour l'entretien et la conservation des édifices du culte dont la propriété leur est reconnue par la présente loi.

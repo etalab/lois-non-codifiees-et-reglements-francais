@@ -8,7 +8,9 @@ Les modifications de ces règles sont notifiées au Conseil des marchés financi
 
 II. - 1° L'admission d'instruments financiers aux négociations sur un marché réglementé est décidée par l'entreprise de marché, sous réserve du droit d'opposition de la Commission des opérations de bourse.
 
-L'accord exprès de l'émetteur de l'instrument financier ainsi que, le cas échéant, de l'émetteur de l'instrument financier sous-jacent est requis. Cet accord n'est pas requis s'agissant des instruments financiers à terme sur devises ou sur titres de dettes publiques ainsi que, dans des conditions définies par le Conseil des marchés financiers, de l'émission d'options et de bons d'options portant sur plusieurs valeurs mobilières ou sur des indices.
+L'accord exprès de l'émetteur de l'instrument financier est requis.
+
+Lorsque l'instrument financier comporte un élément sous-jacent, l'émetteur de celui-ci dispose d'un droit d'opposition dans les cas et selon les modalités prévus par le règlement général du Conseil des marchés financiers. Toutefois, ce droit d'opposition n'existe pas lorsque l'élément sous-jacent est une devise, un titre de dette publique, un contrat financier à terme ou un indice.
 
 2° Après en avoir informé l'émetteur, l'entreprise de marché peut suspendre, pour une durée déterminée et dans le cadre des règles du marché réglementé dont elle a la charge, la négociation d'un instrument financier admis aux négociations sur ce marché. Elle informe également de cette suspension le président de la Commission des opérations de bourse et le président du Conseil des marchés financiers. La suspension de la négociation d'un instrument financier peut être requise, à titre exceptionnel, auprès de l'entreprise de marché, par le président de la Commission des opérations de bourse afin d'assurer la protection de l'épargne publique. Cette suspension peut également être demandée par le président du Conseil des marchés financiers, dans le cadre des compétences confiées à ce conseil par la présente loi.
 

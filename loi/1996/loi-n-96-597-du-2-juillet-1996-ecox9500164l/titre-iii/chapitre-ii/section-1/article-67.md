@@ -1,6 +1,6 @@
 # Article 67
 
-I. - Le Conseil des marchés financiers veille au respect par les prestataires de services d'investissement exerçant leurs activités en France, les entreprises de marché et les chambres de compensation des règles de bonne conduite qui leur sont applicables en vertu des lois et règlements en vigueur. Ce contrôle s'exerce sous réserve des compétences de la Commission bancaire et, en matière de contrôle des personnes fournissant des services visés au d de l'article 4, de la Commission des opérations de bourse.
+I. - Le Conseil des marchés financiers veille par des contrôles sur pièces et sur place, au respect par les prestataires de services d'investissement exerçant leurs activités en France, les entreprises de marché et les chambres de compensation des règles de bonne conduite qui leur sont applicables en vertu des lois et règlements en vigueur. Ce contrôle s'exerce sous réserve des compétences de la Commission bancaire et, en matière de contrôle des personnes fournissant des services visés au d de l'article 4, de la Commission des opérations de bourse.
 
 Le Conseil des marchés financiers veille également à la régularité des opérations effectuées sur un marché réglementé.
 

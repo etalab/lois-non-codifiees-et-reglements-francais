@@ -14,6 +14,6 @@ Elles peuvent, seules ou conjointement avec d'autres caisses, détenir des parts
 
 Les caisses de crédit municipal peuvent librement céder les biens, droits et obligations correspondant aux activités autres que le prêt sur gages.
 
-Elles peuvent aussi apporter ces biens, droits et obligations à des sociétés anonymes régies par la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, créées à cet effet, dont l'objet est limité aux activités, autres que le prêt sur gages, que peuvent effectuer les caisses de crédit municipal. Elles participent au capital de ces sociétés à concurrence de leurs apports. Lesdites sociétés sont agréées par le comité des établissements de crédit dans les mêmes conditions et limites que celles qui sont prévues aux quatre premiers alinéas.
+Elles peuvent aussi apporter ces biens, droits et obligations à des sociétés anonymes régies par la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, créées à cet effet, dont l'objet est limité aux activités, autres que le prêt sur gages, que peuvent effectuer les caisses de crédit municipal. Elles participent au capital de ces sociétés à concurrence de leurs apports. Lesdites sociétés sont agréées par le comité des établissements de crédit dans les mêmes conditions et limites que celles qui sont prévues aux quatre premiers alinéas. En vue de sa transmission à titre universel, cet apport est réputé placé sous le régime juridique des scissions.
 
 Les participations détenues par les caisses de crédit municipal sont cessibles.

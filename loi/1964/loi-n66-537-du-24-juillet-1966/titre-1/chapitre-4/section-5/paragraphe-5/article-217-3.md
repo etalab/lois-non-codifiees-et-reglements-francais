@@ -6,6 +6,6 @@ L'acquisition d'actions de la société ne peut avoir pour effet d'abaisser les 
 
 La société doit disposer de réserves, autres que la réserve légale, d'un montant au moins égal à la valeur de l'ensemble des actions qu'elle possède.
 
-Les actions possédées par la société ne donnent pas droit aux dividendes.
+Les actions possédées par la société ne donnent pas droit aux dividendes et sont privées de droits de vote.
 
 En cas d'augmentation du capital par souscription d'actions en numéraire, la société ne peut exercer par elle-même le droit préférentiel de souscription. L'assemblée générale peut décider de ne pas tenir compte de ces actions pour la détermination des droits préférentiels de souscription attachés aux autres actions ; à défaut les droits attachés aux actions possédées par la société doivent être, avant la clôture du délai de souscription, soit vendus en bourse, soit répartis entre les actionnaires au prorata des droits de chacun.

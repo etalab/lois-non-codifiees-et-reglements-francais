@@ -14,7 +14,7 @@ VI. - Les dispositions du troisième alinéa de l'article 14 de la loi n° 84-59
 
 VII. - La durée d'inscription des candidats inscrits au 1er janvier 1994 ou à la date d'entrée en vigueur de la présente loi sur les listes d'aptitude des concours et des examens est prorogée d'un an.
 
-VIII. - Le Centre national de la fonction publique territoriale continue d'assurer jusqu'au 31 décembre 1998 la compétence prévue au III de l'article 85 de la loi de finances pour 1989 (n° 88-1149 du 23 décembre 1988).
+VIII. - Le Centre national de la fonction publique territoriale continue d'assurer la compétence prévue au III de l'article 85 de la loi de finances pour 1989 (n° 88-1149 du 23 décembre 1988).
 
 IX. - Les candidats déclarés admis au concours externe d'accès au cadre d'emplois des attachés territoriaux, session 1992, gardent le bénéfice de leur inscription sur la liste d'aptitude établie à l'issue dudit concours.
 
