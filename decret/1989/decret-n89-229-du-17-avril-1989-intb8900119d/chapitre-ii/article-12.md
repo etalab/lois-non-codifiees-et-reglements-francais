@@ -16,6 +16,8 @@ Sont toutefois admises les listes comportant un nombre de noms inférieur à cel
 
 10, lorsque l'effectif est au moins égal à 750.
 
+Pour l'application des troisième à huitième alinéas précédents, le nombre de candidats présentés dans chaque groupe hiérarchique doit être un nombre pair.
+
 Les listes peuvent comprendre, dans chaque groupe hiérarchique, un nombre de noms égal au plus au double de celui des sièges de représentant titulaire et de représentant suppléant de ce groupe.
 
 Les listes doivent être déposées au moins six semaines avant la date fixée pour le premier tour de scrutin et au moins quatre semaines avant la date fixée pour le second tour de scrutin.

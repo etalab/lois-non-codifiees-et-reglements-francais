@@ -12,8 +12,6 @@ Sont mises à part sans donner lieu à émargement :
 
 4° Celles qui sont parvenues en plusieurs exemplaires sous la signature d'un même fonctionnaire ;
 
-5° Celles qui comprennent plusieurs enveloppes internes ;
-
-6° Celles émanant d'électeurs ayant pris part directement au vote.
+5° Celles qui comprennent plusieurs enveloppes internes.
 
 Les suffrages correspondant à ces enveloppes sont nuls.

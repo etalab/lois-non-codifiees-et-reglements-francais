@@ -3,4 +3,5 @@
 - [CHAPITRE I : Composition](chapitre-i)
 - [CHAPITRE II : Elections.](chapitre-ii)
 - [CHAPITRE III : Fonctionnement.](chapitre-iii)
-- [CHAPITRE IV : Dispositions diverses.](chapitre-iv)
+- [CHAPITRE IV : Fonctionnement.](chapitre-iv)
+- [CHAPITRE V : Dispositions diverses.](chapitre-v)

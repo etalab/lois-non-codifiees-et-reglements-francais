@@ -1,6 +1,6 @@
 # Article 23
 
-Les représentants du personnel au sein des commissions administratives paritaires sont élus à la proportionnelle. La désignation des membres titulaires est effectuée de la manière suivante : [*mode de scrutin*]
+Les représentants du personnel au sein des commissions administratives paritaires sont élus à la proportionnelle. La désignation des membres titulaires est effectuée de la manière suivante :
 
 a) Nombre total de sièges de représentants titulaires attribués à chaque liste :
 
@@ -18,9 +18,13 @@ Dans l'hypothèse où une liste incomplète obtiendrait un siège de plus que le
 
 En cas d'égalité du nombre de sièges obtenus, l'ordre des choix est déterminé par le nombre respectif de suffrages obtenu par les listes en présence. En cas d'égalité du nombre des suffrages, l'ordre des choix est déterminé par voie de tirage au sort.
 
+Les représentants titulaires sont désignés selon l'ordre de présentation de la liste.
+
 Dans l'hypothèse où une partie ou la totalité des sièges n'a pu être pourvue par voie d'élection, la commission administrative paritaire est complétée par voie de tirage au sort parmi les électeurs à cette commission relevant de chaque groupe hiérarchique concerné.
 
 Lorsqu'il est fait application de l'article 6, la liste électorale est mise à jour, au plus tôt un mois et au plus tard huit jours avant le tirage au sort.
+
+La liste électorale destinée au tirage ne comporte que les électeurs qui remplissent les conditions d'éligibilité.
 
 Le jour, l'heure et le lieu du tirage au sort sont annoncés au moins huit jours à l'avance par affichage dans les locaux administratifs. Tout électeur à la commission administrative paritaire peut y assister.
 
