@@ -1,6 +1,6 @@
 # Article 2
 
-Les sociétés Shell française, Elf-Union industrielle des pétroles et Mobil Oil française sont autorisées à faire traiter leur pétrole brut, ses dérivés et résidus, pour l'exercice de leurs autorisations spéciales respectives, dans l'usine précitée de la Compagnie rhénane de raffinage.
+La société Shell française, la société Elf France, la société Mobil Oil française, la Société française des pétroles BP et la Compagnie française de raffinage sont autorisées à faire traiter leur pétrole brut, ses dérivés et résidus, pour l'exercice de leurs autorisations spéciales respectives, dans l'usine précitée de la Compagnie rhénane de raffinage.
 
 L'importation du pétrole brut, de ses dérivés et résidus sera effectuée par elles.
 
