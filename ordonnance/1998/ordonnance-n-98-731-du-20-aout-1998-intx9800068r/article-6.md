@@ -17,3 +17,5 @@ V. - Une convention conclue entre la caisse de prévoyance sociale et la Caisse 
 Cette opération garantit le maintien du versement d'une somme au moins égale à l'allocation complémentaire spéciale pour les allocataires et leurs ayants droit du régime d'allocation complémentaire spéciale au 31 décembre 1998.
 
 La date et les modalités de dissolution du régime de l'allocation complémentaire spéciale ainsi que la destination des réserves disponibles sont fixées par arrêté des ministres chargés de la sécurité sociale et du budget.
+
+VI. - Les dispositions de l'article L. 382-12 du code de la sécurité sociale sont applicables aux personnes affiliées au régime d'assurance vieillesse de base de Saint-Pierre-et-Miquelon qui exercent une activité d'artiste auteur lorsque cette activité, si elle était exercée en métropole ou dans un département d'outre-mer, emporterait leur affiliation au régime général en application de l'article L. 382-1 dudit code.
