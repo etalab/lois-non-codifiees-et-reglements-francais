@@ -1236,7 +1236,6 @@
 - [Arrêté du 29 novembre 1994 (EQUS9401995A)](arrete-du-29-novembre-1994-equs9401995a)
 - [Arrêté du 29 septembre 1995 (DEFB9502051A)](arrete-du-29-septembre-1995-defb9502051a)
 - [Arrêté du 29 septembre 1995 (DEFC9502055A)](arrete-du-29-septembre-1995-defc9502055a)
-- [Arrêté du 29 septembre 1995 (MJSK9570123A)](arrete-du-29-septembre-1995-mjsk9570123a)
 - [Arrêté du 29 septembre 1995 (SPSS9503007A)](arrete-du-29-septembre-1995-spss9503007a)
 - [Arrêté du 29 mai 1995 (AGRG9500972A)](arrete-du-29-mai-1995-agrg9500972a)
 - [Arrêté du 30 août 1995 (AGRG9501774A)](arrete-du-30-aout-1995-agrg9501774a)
