@@ -1,6 +1,6 @@
 # Article 1
 
-Le programme des épreuves d'admissibilité et d'admission du concours d'accès au cadre d'emplois des assistants territoriaux d'enseignement artistique est le suivant :
+Le programme des épreuves d'admissibilité et d'admission de chacun des concours d'accès au cadre d'emplois des assistants territoriaux d'enseignement artistique est le suivant :
 
 1. Pour la spécialité Musique :
 
@@ -16,7 +16,7 @@ Pour la première épreuve d'admission, s'agissant des instruments anciens et tr
 
 En ce qui concerne le jazz, ce cours peut être un cours d'initiation au jazz.
 
-Pour la seconde épreuve d'admission, l'entretien avec le jury est précédé d'un court exposé au cours duquel le candidat présente son projet pédagogique.
+Pour la seconde épreuve d'admission du concours sur titres avec épreuves, l'entretien avec le jury est précédé d'un court exposé au cours duquel le candidat présente son projet pédagogique.
 
 Les questions du jury doivent permettre d'évaluer les connaissances du candidat et sa culture musicale.
 
@@ -24,9 +24,9 @@ b) Discipline Formation musicale :
 
 Pour la première épreuve d'admission, le candidat construit un cours de formation musicale pour un groupe d'élèves en s'appuyant sur des extraits d'oeuvres. Le travail peut porter notamment sur un ou plusieurs des éléments suivants : écoute, lecture, intonation, rythme, analyse, travail vocal, séquence faisant appel à l'invention. Le candidat prévoit le matériel nécessaire à tout le groupe (partitions, enregistrements, instruments éventuels, etc.). Un piano, un matériel d'écoute et un plateau sont mis à sa disposition. Le travail vocal est obligatoirement accompagné au piano.
 
-Pour la seconde épreuve d'admission, l'entretien avec le jury est précédé d'un court exposé au cours duquel le candidat présente son projet pédagogique.
+Pour la seconde épreuve d'admission du concours sur titres avec épreuves, l'entretien avec le jury est précédé d'un court exposé au cours duquel le candidat présente son projet pédagogique.
 
-Les questions du jury doivent permettre d'évaluer les connaissances du candidat et sa culture musicale et/ou chorégraphique.
+Les questions du jury doivent permettre d'évaluer les connaissances du candidat et sa culture musicale et / ou chorégraphique.
 
 c) Discipline Accompagnement musique ou danse :
 
@@ -34,7 +34,7 @@ En ce qui concerne l'épreuve d'admissibilité, le programme présenté par le c
 
 En ce qui concerne la première épreuve d'admission consistant en une épreuve d'accompagnement d'un cours de danse s'adressant à des élèves de deuxième cycle, ce cours comporte notamment des exercices permettant d'apprécier la capacité du candidat à improviser.
 
-S'agissant de la seconde épreuve d'admission, l'entretien doit permettre d'évaluer les connaissances du candidat et sa culture musicale et/ou chorégraphique.
+S'agissant de la seconde épreuve d'admission du concours sur titres avec épreuves, l'entretien doit permettre d'évaluer les connaissances du candidat et sa culture musicale et / ou chorégraphique.
 
 2. Pour la spécialité Art dramatique
 
@@ -46,7 +46,7 @@ Le théâtre européen de la Renaissance à nos jours.
 
 3. Pour la spécialité Arts plastiques
 
-Première épreuve d'admissibilité :
+Pour l'épreuve d'admissibilité :
 
 Histoire de l'art :
 

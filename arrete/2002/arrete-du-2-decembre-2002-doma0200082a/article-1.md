@@ -66,4 +66,6 @@ o) Les présidents des tribunaux administratifs de Papeete et de Nouvelle-Caléd
 
 p) Le président de la chambre territoriale des comptes de la Nouvelle-Calédonie et le président de la chambre territoriale des comptes de la Polynésie française ;
 
-q) Le chef du service de la police de l'air et des frontières et/ou des renseignements généraux à Saint-Pierre-et-Miquelon et à Wallis-et-Futuna.
+q) Le chef du service de la police de l'air et des frontières et/ou des renseignements généraux à Saint-Pierre-et-Miquelon et à Wallis-et-Futuna ;
+
+Le directeur de la sécurité publique, le directeur des renseignements généraux et le chef du service de la police aux frontières à Mayotte.

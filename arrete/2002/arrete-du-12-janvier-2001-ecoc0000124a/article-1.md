@@ -1,7 +1,7 @@
 # Article 1
 
-Les matières premières pour aliments des animaux, les aliments complets et les aliments complémentaires sont reconnus comme impropres pour l'alimentation des animaux au sens de l'article 4 du décret du 15 septembre 1986 susvisé lorsque leurs teneurs en substances et produits indésirables sont supérieures aux maximums fixés :
+Au sens du présent arrêté, on entend par :
 
-- en annexe I, pour les aliments complets et aliments complémentaires ainsi que pour les matières premières pour aliments des animaux non destinées à des fabricants d'aliments pour animaux agréés pour leur utilisation dans la fabrication d'aliments composés ;
+a) Produits destinés aux aliments pour animaux : les matières premières des aliments pour animaux, les prémélanges, les additifs, les aliments et tout autre produit destiné à être utilisé ou utilisé dans les aliments pour animaux ;
 
-- en annexe II, pour les matières premières pour aliments des animaux destinées aux seuls fabricants d'aliments pour animaux agréés pour l'utilisation de ces matières premières dans la fabrication d'aliments composés.
+b) Substance et produit indésirable : toute substance ou tout produit, à l'exception des agents pathogènes, qui est présent dans et/ou sur le produit destiné aux aliments pour animaux et qui présente un risque potentiel pour la santé animale ou la santé humaine ou l'environnement ou qui serait susceptible de nuire à la production animale.

@@ -1,3 +1,3 @@
 # Article 2
 
-Les matières premières pour aliments des animaux ne peuvent être détenues, mises en vente, vendues ou distribuées à titre gratuit si leur teneur en substances ou produits indésirables est telle qu'elle rend impossible le respect des teneurs maximales fixées à l'annexe I pour les aliments composés pour animaux.
+Les produits destinés aux aliments pour animaux sont reconnus comme impropres pour l'alimentation des animaux au sens de l'article 4 du décret du 15 septembre 1986 susvisé lorsque leurs teneurs en substances et produits indésirables sont supérieures aux maxima fixés à l'annexe I.

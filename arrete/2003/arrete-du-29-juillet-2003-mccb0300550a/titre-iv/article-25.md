@@ -1,0 +1,3 @@
+# Article 25
+
+Le troisième degré qui s'adresse aux étudiants diplômés de l'école est également ouvert à des candidats extérieurs justifiant d'un diplôme d'enseignement supérieur équivalant à cinq années d'études universitaires ou d'un haut niveau professionnel équivalant à cinq années d'expérience dans le domaine choisi. Des dérogations peuvent être accordées par le directeur de l'école pour motif exceptionnel dûment justifié. L'admission des uns et des autres est subordonnée à la décision d'une commission présidée par le directeur de l'école et composée, notamment, du responsable de chaque atelier concerné, ainsi que d'enseignants désignés par le directeur.
