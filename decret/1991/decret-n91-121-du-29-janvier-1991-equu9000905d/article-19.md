@@ -1,5 +1,0 @@
-# Article 19
-
-Le directeur est chargé de l'instruction des affaires qui sont de la compétence de l'établissement. En particulier, il prépare et présente les orientations à moyen terme et le programme annuel d'intervention de l'établissement. Il prépare et présente le budget. Il est ordonnateur des dépenses et des recettes. Il prépare et exécute les délibérations du conseil d'administration et du bureau. Il gère l'établissement, le représente en justice, passe les contrats, les marchés, les actes d'aliénation, d'acquisition ou de location. Il recrute le personnel de l'établissement dans des conditions qui sont définies en accord avec l'autorité chargée du contrôle. Le directeur a autorité sur le personnel de l'établissement.
-
-Chaque année, le directeur élabore le compte rendu d'exécution du programme d'intervention qui est approuvé par le conseil d'administration et porté à la connaissance de l'autorité chargée du contrôle ainsi qu'aux présidents du conseil régional du Nord - Pas-de-Calais, du conseil général du Nord et de la communauté urbaine de Lille et aux maires des communes de Roubaix et de Tourcoing.
