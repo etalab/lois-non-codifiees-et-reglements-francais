@@ -787,7 +787,6 @@
 - [Arrêté du 18 avril 1995 (MCCA9500121A)](arrete-du-18-avril-1995-mcca9500121a)
 - [Arrêté du 18 avril 1995 (MCCB9500019A)](arrete-du-18-avril-1995-mccb9500019a)
 - [Arrêté du 18 avril 1995 (SANP9501318A)](arrete-du-18-avril-1995-sanp9501318a)
-- [Arrêté du 18 décembre 1995 (EQUT9501861A)](arrete-du-18-decembre-1995-equt9501861a)
 - [Arrêté du 18 janvier 1995 (DEFL9501064A)](arrete-du-18-janvier-1995-defl9501064a)
 - [Arrêté du 18 juillet 1995 (ECOC9500105A)](arrete-du-18-juillet-1995-ecoc9500105a)
 - [Arrêté du 18 juillet 1995 (ECOX9500914A)](arrete-du-18-juillet-1995-ecox9500914a)
