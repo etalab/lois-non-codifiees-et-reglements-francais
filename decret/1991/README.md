@@ -45,6 +45,7 @@
 - [Décret n°91-55 du 15 janvier 1991 (EQUA9001674D)](decret-n91-55-du-15-janvier-1991-equa9001674d)
 - [Décret n°91-657 du 15 juillet 1991 (SANG9101253D)](decret-n91-657-du-15-juillet-1991-sang9101253d)
 - [Décret n°91-57 du 16 janvier 1991 (EQUT9000068D)](decret-n91-57-du-16-janvier-1991-equt9000068d)
+- [Décret n°91-60 du 17 janvier 1991 (DEFX9100012D)](decret-n91-60-du-17-janvier-1991-defx9100012d)
 - [Décret n°91-64 du 17 janvier 1991 (PTTA9000984D)](decret-n91-64-du-17-janvier-1991-ptta9000984d)
 - [Décret n°91-65 du 17 janvier 1991 (PTTA9000991D)](decret-n91-65-du-17-janvier-1991-ptta9000991d)
 - [Décret n°91-66 du 17 janvier 1991 (PTTA9000996D)](decret-n91-66-du-17-janvier-1991-ptta9000996d)
