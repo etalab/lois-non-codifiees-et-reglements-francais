@@ -7,3 +7,4 @@
 - [Article 16](article-16.md)
 - [Article 17](article-17.md)
 - [Article 18](article-18.md)
+- [Article Annexe RI-1-R, art. 15](article-annexe-ri-1-r-art-15.md)
