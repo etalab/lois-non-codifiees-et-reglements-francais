@@ -1,3 +1,5 @@
 # Article 4
 
-Les sommes dues par chaque établissement à l'Ecole nationale de la santé publique sont versées au centre hospitalier régional de la circonscription régionale d'action sanitaire et sociale qui en créditera l'Ecole nationale de la santé publique.
+Les établissements d'hospitalisation, de soins ou de cure publics versent au cours du premier trimestre de chaque année un acompte fixé à 80 p. 100 de la contribution afférente à l'exercice précédent.
+
+L'acompte afférent à l'exercice 1975 sera versé à l'Ecole nationale de la santé publique dans le délai de deux mois suivant la publication du présent décret.
