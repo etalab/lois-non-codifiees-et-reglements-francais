@@ -26,17 +26,17 @@ A - Motocyclettes légères (AL).
 
 - Permettent de conduire les véhicules des catégories : AT
 
-- Les permis de conduire de la catégorie : B
+- Les permis de conduire de la catégorie :
 
-(délivré avant le 1er mars 1980)
+B (délivré depuis au moins deux ans)
 
 - Permettent de conduire les véhicules des catégories : AT, AL
 
 - Les permis de conduire de la catégorie :
 
-B (délivré à partir du 1er mars 1980).
+B (délivré depuis moins de deux ans et avant la date de publication du décret 96-600 du 4 juillet 1996 modifiant certaines dispositions du code de la route relatives au permis de conduire les motocyclettes)
 
-- Permettent de conduire les véhicules des catégories : AT, AL inférieur ou égal à 80 cm3, vitesse inférieure ou égale à 75 km/h, embrayage et changement de vitesses automatiques.
+- Permettent de conduire les véhicules des catégories : AT, AL
 
 - Les permis de conduire de la catégorie :
 
@@ -48,7 +48,7 @@ C (délivré avant le 20 janvier 1975) et C1 délivré entre le 20 janvier 1975 
 
 C1 (délivré entre le 1er mars 1980 et le 1er janvier 1985) et C (délivré entre le 1er janvier 1985 et le 1er juillet 1990).
 
-- Permettent de conduire les véhicules des catégories : AT, AL inférieur ou égal à 80 cm3, vitesse inférieure ou égale à 75 km/h, embrayage et changement de vitesses automatiques, B, C, D, E (B), E (C) E (D).
+- Permettent de conduire les véhicules des catégories : AT, AL
 
 - Les permis de conduire de la catégorie :
 
@@ -60,7 +60,7 @@ C (délivré entre le 20 janvier 1975 et le 1er mars 1980)
 
 C (délivré entre le 1er mars 1980 et le 1er janvier 1985) et C (délivré entre le 1er janvier 1985 et le 1er juillet 1990).
 
-- Permettent de conduire les véhicules des catégories : AT, AL inférieur ou égal à 80 cm3, vitesse inférieure ou égale à 75 km/h, embrayage et changement de vitesses automatiques, B, C, E (B), E (C) limité à un P.T.R.A. ([**]) de 12 500 kg.
+- Permettent de conduire les véhicules des catégories : AT, AL
 
 - Les permis de conduire de la catégorie : E (C)
 
@@ -82,7 +82,7 @@ D (délivré avant le 1er juin 1979 et examen subi sur un véhicule de P.T.A.C. 
 
 D (délivré entre le 1er mars 1980 et le 1er juillet 1990 et examen subi sur un véhicule de P.T.A.C. inférieur à 7 000 kg).
 
-- Permettent de conduire les véhicules des catégories : AT, AL inférieur ou égal à 80 cm3, vitesse inférieure ou égale à 75 km/H, embrayage et changement de vitesses automatiques, B, E (B).
+- Permettent de conduire les véhicules des catégories : AT, AL
 
 - Les permis de conduire de la catégorie :
 
@@ -94,14 +94,14 @@ D (délivré entre le 20 janvier 1975 et le 1er juin 1979 et examen subi sur un 
 
 D (délivré entre le 1er mars 1980 et le 1er juillet 1990 et examen subi sur un véhicule de P.T.A.C. supérieur ou égal à 7 000 kg).
 
-- Permettent de conduire les véhicules des catégories : AT, AL inférieur ou égal à 80 cm3, vitesse inférieure ou égale à 75 km/H, embrayage et changement de vitesses automatiques, B, C, E (B) E (C) limité à un P.T.R.A. ([**]) de 12 500 kg.
+- Permettent de conduire les véhicules des catégories : AT, AL
 
 (*) Cf. article R.125-1 du code de la route.
 
 (**) P.T.R.A. : poids total roulant autorisé du véhicule tracteur d'un ensemble de véhicules ou d'un véhicule articulé.
 
-" 3.2. La licence de circulation délivrée avant le 1e ainsi que les permis de conduire des catégories A1, B, C, C1 et D délivrés avant le 1er mars 1980 permettent à leurs titulaires de conduire les véhicules suivants : les tricycles et quadricycles à moteur, les motocyclettes légères et les motocyclettes dont la cylindrée est limitée à 125 cm3 mises en circulation avant le 31 décembre 1984.
+3.2. La licence de circulation délivrée avant le 1e ainsi que les permis de conduire des catégories A1, B, C, C1 et D délivrés avant le 1er mars 1980 permettent à leurs titulaires de conduire les véhicules suivants : les tricycles et quadricycles à moteur, les motocyclettes légères et les motocyclettes dont la cylindrée est limitée à 125 cm3 mises en circulation avant le 31 décembre 1984.
 
-" - Les permis de conduire de la catégorie A délivrés 1er mars 1980 et de la catégorie A3 délivrés entre le 1er mars 1980 et le 31 décembre 1984 permettent à leurs titulaires de conduire tout véhicule à 2 roues à moteur et tout tricycle et quadricycle à moteur.
+- Les permis de conduire de la catégorie A délivrés 1er mars 1980 et de la catégorie A3 délivrés entre le 1er mars 1980 et le 31 décembre 1984 permettent à leurs titulaires de conduire tout véhicule à 2 roues à moteur et tout tricycle et quadricycle à moteur.
 
-" Les mentions des catégories de véhicules pour lesquelles permis est valable sont portées sur le permis de conduire sous réserve des dispositions de l'article 19.1 du présent arrêté.
+Les mentions des catégories de véhicules pour lesquelles permis est valable sont portées sur le permis de conduire sous réserve des dispositions de l'article 19.1 du présent arrêté.

@@ -1,0 +1,5 @@
+# Article 13
+
+A titre transitoire, pendant une période d'un an à compter de l'installation de la commission générale de terminologie et de néologie, les termes, expressions et définitions contenus dans les listes approuvées en vertu des dispositions réglementaires précédemment en vigueur peuvent être révisés à l'initiative de la commission générale de terminologie et de néologie.
+
+La commission générale soumet à l'Académie française les termes et expressions qu'elle envisage de retirer des listes précédemment approuvées, les expressions complémentaires qu'elle propose d'y ajouter et les définitions qu'elle propose de modifier. Elle en informe le ministre intéressé. Aucune révision ne peut être publiée sans l'accord de l'Académie française. Les listes révisées sont arrêtées et publiées selon les modalités prévues aux articles 9 et 10 du présent décret, à l'exception de la disposition de l'article 9 selon laquelle l'accord de l'Académie française est réputé acquis au terme d'un délai de quatre mois.
