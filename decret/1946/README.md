@@ -16,6 +16,7 @@
 - [Décret n°46-1541 du 22 juin 1946](decret-n46-1541-du-22-juin-1946)
 - [Décret n°46-492 du 22 mars 1946](decret-n46-492-du-22-mars-1946)
 - [Décret n°46-786 du 23 avril 1946](decret-n46-786-du-23-avril-1946)
+- [Décret n°46-2061 du 24 septembre 1946](decret-n46-2061-du-24-septembre-1946)
 - [Décret n°46-1246 du 28 mai 1946](decret-n46-1246-du-28-mai-1946)
 - [Décret n°46-1247 du 28 mai 1946](decret-n46-1247-du-28-mai-1946)
 - [Décret n°46-1262 du 29 mai 1946](decret-n46-1262-du-29-mai-1946)
