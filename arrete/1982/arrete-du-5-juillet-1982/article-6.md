@@ -1,3 +1,3 @@
 # Article 6
 
-Ne peuvent être financés les travaux entrepris sur les immeubles faisant l'objet d'une interdiction définitive d'habiter prononcée en application des articles L. 28 et L. 38 du code de la santé publique [*insalubrité*].
+Le directeur de la qualité (service de la protection des végétaux) au ministère de l'agriculture et le directeur de la consommation et de la répression des fraudes au ministère de la consommation sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

@@ -1,4 +1,4 @@
-# Arrêté du 5 juillet 1982 relatif à la nature des travaux susceptibles d'être financés par la participation des employeurs à l'effort de construction en vue de l'amélioration de logements
+# Arrêté du 5 juillet 1982 relatif aux conditions de délivrance et d'emploi en agriculture de substances vénéneuses
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
