@@ -2,7 +2,7 @@
 
 Les dispositions des livres Ier à V du code pénal entreront en vigueur le 1er mars 1994.
 
-Elles seront applicables dans les territoires d'outre-mer et la collectivité territoriale de Mayotte à compter du 1er mars 1996, dans les conditions fixées par la loi après consultation, en ce qui concerne les territoires, des assemblées territoriales intéressées.
+Elles seront applicables dans les territoires d'outre-mer et la collectivité territoriale de Mayotte à compter du 1er mai 1996, dans les conditions fixées par la loi après consultation, en ce qui concerne les territoires, des assemblées territoriales intéressées.
 
 La présente loi entrera en vigueur le 1er mars 1994.
 
