@@ -1,0 +1,5 @@
+# Article 12
+
+Les maîtres surveillants et maîtresses surveillantes de l'institut national du jeunes aveugles régis par le décret du 11 décembre 1946 susvisé et les surveillants et surveillantes d'élèves des instituts nationaux de jeunes sourds en fonction à la date de publication du présent décret pourront être intégrés dans le corps des moniteurs-éducateurs, s'ils satisfont aux épreuves d'un examen professionnel dont les modalités et l'organisation seront fixées par un arrêté conjoint du ministre de la santé et du ministre chargé de la fonction publique.
+
+Les intéressés seront intégrés à l'échelon comportant un indice égal ou immédiatement supérieur à celui dont ils bénéficiaient dans leur corps d'origine. Dans la limite de l'ancienneté exigée pour une promotion à l'échelon supérieur dans leur nouveau grade, ils conserveront l'ancienneté acquise dans leur précédent échelon au cas où leur nomination leur procurerait une augmentation de traitement inférieure à celle qu'entraîne un avancement d'échelon dans leur ancien grade ou, s'ils sont déjà à l'échelon terminal, à celle que leur avait procurée leur nomination audit échelon.
