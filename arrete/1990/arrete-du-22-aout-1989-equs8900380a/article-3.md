@@ -10,8 +10,6 @@ Dans ce dernier cas, elles ne peuvent être accordées qu'à la double condition
 
 Ces dérogations ne peuvent être délivrées qu'après l'avis favorable des gestionnaires des autoroutes qui seront empruntées.
 
-Les dérogations relatives au franchissement à niveau d'autoroute, ainsi que l'emprunt de l'autoroute sur de plus grandes sections, doivent faire l'objet d'un avis du ministre chargé des transports saisi par le service qui instruit la demande.
-
 La dérogation résulte de la délivrance par le préfet d'un arrêté d'autorisation de transport exceptionnel qui précise les sections d'autoroute que peut emprunter le transporteur, les conditions mises à cet emprunt et la durée de la dérogation.
 
 Cette dérogation est accordée sous condition suspensive que le responsable du transport sollicite, avant chaque voyage et au plus tard quatre jours francs avant la date prévue pour le passage, un accord des gestionnaires des sections autoroutières concernées (directions départementales de l'équipement ou sociétés concessionnaires d'autoroute). A défaut de réception de cet accord au plus tard deux jours francs avant la date prévue pour le transport, l'emprunt de l'autoroute lui est interdit.
