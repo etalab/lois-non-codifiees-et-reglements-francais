@@ -10,7 +10,7 @@ Commissaire de 1re classe : cinq échelons ;
 
 Commissaire principal : trois échelons ;
 
-Commissaire en chef de 2e classe : trois échelons ;
+Commissaire en chef de 2e classe : quatre échelons ;
 
 Commissaire en chef de 1re classe : deux échelons et deux échelons exceptionnels ;
 
