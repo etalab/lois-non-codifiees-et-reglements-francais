@@ -1,0 +1,3 @@
+# Article 24
+
+Le centre d'études et de prospective formule des avis sur les projets de textes législatifs, réglementaires et sur les circulaires qui définissent les politiques publiques relevant de la compétence du ministère ainsi que sur les études d'impact qui les accompagnent. Sous l'autorité du secrétaire général, il oriente les recherches et les études conduites par l'ensemble des services soumis à l'autorité du ministre de l'intérieur. A cette fin, il est obligatoirement consulté sur les projets d'utilisation des crédits d'étude et de recherche dont dispose le ministère. Il est chargé de procéder à la collecte des statistiques produites par chacune des directions du ministère.

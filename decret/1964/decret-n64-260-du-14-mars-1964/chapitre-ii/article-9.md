@@ -4,13 +4,13 @@ I - La commission chargée de vérifier l'aptitude des personnes nommées au tit
 
 Un magistrat ou ancien magistrat de la Cour des comptes ayant au moins le grade de conseiller maître, nommé par décret pour trois ans sur proposition du premier président de la Cour des comptes ;
 
-Le directeur général de l'administration et de la fonction publique ;
+Le secrétaire général et de la fonction publique ;
 
-Le directeur général de l'administration au ministère de l'intérieur ;
+Le secrétaire général au ministère de l'intérieur ;
 
 Un préfet et un sous-préfet en activité nommés pour trois ans par le ministre de l'intérieur ;
 
-Les membres titulaires de la commission sont assistés de membres suppléants nommés dans les mêmes conditions que les membres titulaires. Le suppléant du directeur général de l'administration et de la fonction publique et celui du directeur général de l'administration au ministère de l'intérieur sont désignés par le ministre dont ils relèvent.
+Les membres titulaires de la commission sont assistés de membres suppléants nommés dans les mêmes conditions que les membres titulaires. Le suppléant du secrétaire général et de la fonction publique et celui du secrétaire général au ministère de l'intérieur sont désignés par le ministre dont ils relèvent.
 
 Les membres de la commission perdent cette qualité en même temps que les fonctions qui les ont fait désigner.
 
