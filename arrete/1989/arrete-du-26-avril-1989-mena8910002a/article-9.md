@@ -12,6 +12,6 @@ Le bureau des études et de la gestion financière.
 
 B. - La sous-direction des études doctorales comprend, outre l'observatoire des thèses :
 
-Le bureau de la formation à l'enseignement supérieur et des allocataires ;
+Le bureau de la formation à l'enseignement supérieur et des écoles normales supérieures ;
 
 Le bureau des diplômes d'études approfondies, des thèses et des habilitations.
