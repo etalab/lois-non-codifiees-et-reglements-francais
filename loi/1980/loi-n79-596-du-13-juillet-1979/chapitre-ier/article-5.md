@@ -1,6 +1,6 @@
 # Article 5
 
-Pour les prêts mentionnés à l'article 1er de la présente loi, le prêteur est tenu de formuler par écrit une offre remise ou adressée gratuitement contre récépissé à l'emprunteur éventuel ainsi qu'aux cautions déclarées par l'entrepreneur lorsqu'il s'agit de personnes physiques.
+Pour les prêts mentionnés à l'article 1er de la présente loi, le prêteur est tenu de formuler par écrit une offre adressée gratuitement par voie postale contre récépissé à l'emprunteur éventuel ainsi qu'aux cautions déclarées par l'entrepreneur lorsqu'il s'agit de personnes physiques.
 
 Cette offre :
 
@@ -15,3 +15,7 @@ Cette offre :
 - fait état des conditions requises pour un transfert éventuel du prêt à une tierce personne ;
 
 - rappelle les dispositions de l'article 7.
+
+Toute modification des conditions d'obtention du prêt, notamment le montant ou le taux du crédit, donne lieu à la remise à l'emprunteur d'une nouvelle offre préalable.
+
+Toutefois, cette obligation n'est pas applicable aux prêts dont le taux d'intérêt est variable, dès lors qu'a été remise à l'emprunteur avec l'offre préalable une notice présentant les conditions et modalités de variation du taux.
