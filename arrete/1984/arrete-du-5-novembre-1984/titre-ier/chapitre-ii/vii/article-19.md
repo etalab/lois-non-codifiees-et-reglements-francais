@@ -1,11 +1,7 @@
 # Article 19
 
-Les sociétés ou entreprises spécialisées dans la location de véhicules (location avec option d'achat ou location simple de longue durée de véhicules neufs ou d'occasion) peuvent, bien que demeurant propriétaires de ces véhicules, élire domicile au siège de l'utilisateur, locataire du véhicule, si elles y ont été autorisées par le ministère de l'urbanisme, du logement et des transports ainsi qu'il est précisé à l'article 20 ci-après.
+Les sociétés ou entreprises individuelles spécialisées dans la location sur une durée de deux ans ou plus ou dans le crédit-bail doivent immatriculer leurs véhicules dans le département du domicile du locataire ou de l'établissement auquel le véhicule est affecté à titre principal par le locataire.
 
-Dans ce cas, le nom du locataire est également porté sur la carte grise avec une mention indiquant le type de location du véhicule :
+A cet effet, la société ou l'entreprise individuelle de location doit élire domicile au siège de l'utilisateur, locataire du véhicule. Dans ce cas, le nom et le domicile du locataire ou l'adresse de l'établissement d'affectation du véhicule par le locataire doivent être indiqués sur la carte grise en sus du nom de la société ou de l'entreprise individuelle propriétaire, avec une mention indiquant le type de location du véhicule : OA (option d'achat) ou LD (longue durée).
 
-O.A. (avec option d'achat) ou L.D. (longue durée).
-
-De ce fait, les véhicules automobiles, les semi-remorques et remorques qui, en application des articles R. 118 à R. 122, sont soumis aux visites techniques périodiques seront contrôlés par les services des mines correspondant aux domiciles respectifs des locataires et à l'initiative de ceux-ci agissant en qualité de préposés des sociétés propriétaires.
-
-Les dispositions de l'alinéa précédent sont applicables aux véhicules faisant l'objet d'un contrat de location avec option d'achat ou de longue durée au moins égale à deux ans et n'excédant pas dix ans.
+Toutefois, lorsque la société ou l'entreprise individuelle de location a un établissement dans le département concerné, elle peut immatriculer les véhicules à l'adresse de cet établissement.

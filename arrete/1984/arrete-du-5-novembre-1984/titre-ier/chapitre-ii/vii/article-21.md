@@ -1,14 +1,26 @@
 # Article 21
 
-La demande d'immatriculation peut être présentée par le locataire pour le compte de la société de location sur le vu d'un mandat remis par cette dernière. Le modèle type de ce mandat figure en annexe VIII du présent arrêté.
+Lorsque la société ou l'entreprise individuelle de location élit domicile au siège de l'utilisateur, locataire du véhicule, la demande d'immatriculation peut être présentée soit par la société ou l'entreprise individuelle propriétaire, soit par le locataire mandaté.
 
-En outre, le dossier doit comprendre les pièces suivantes :
+Dans le premier cas, le dossier doit comprendre :
 
-1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire établie par le locataire au nom du propriétaire ;
+1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire, établie par le propriétaire et indiquant le nom et l'adresse du domicile du locataire ou de l'établissement d'affectation du véhicule par le locataire qui doivent être reportés sur la carte grise en sus du nom du propriétaire ;
 
-2. Les pièces justificatives de l'identité et du domicile du locataire (voir annexe VI) ;
+2. Une copie de l'extrait K bis du registre du commerce et des sociétés ou du répertoire des métiers concernant la société ou l'entreprise individuelle propriétaire ;
 
-3. Pour les autres pièces, se reporter selon le cas considéré à l'article 8 (immatriculation d'un véhicule neuf) ou à l'article 10 (immatriculation d'un véhicule d'occasion) du présent arrêté.
+3. Un justificatif de l'identité du responsable de la société ou de l'entreprise individuelle signataire de la demande ;
+
+4. Pour les autres pièces, se reporter selon le cas considéré à l'article 8 (immatriculation d'un véhicule neuf) ou à l'article 10 (immatriculation d'un véhicule d'occasion) du présent arrêté.
+
+Dans le second cas, le dossier doit comprendre :
+
+1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire établie par le locataire au nom du propriétaire et indiquant le nom et l'adresse du domicile du locataire ou de l'établissement d'affectation du véhicule par le locataire qui doivent être reportés sur la carte grise en sus du nom du propriétaire ;
+
+2. Un mandat remis par la société ou l'entreprise individuelle de location comportant son numéro d'inscription au registre du commerce et des sociétés ou au répertoire des métiers et dont le modèle figure en annexe VIII du présent arrêté ;
+
+3. Les pièces justificatives de l'identité et du domicile du locataire ;
+
+4. Pour les autres pièces, reporter selon le cas considéré à l'article 8 (immatriculation d'un véhicule neuf) ou à l'article 10 (immatriculation d'un véhicule d'occasion) du présent arrêté.
 
 Dans le cas de l'achat par le locataire du véhicule dont il avait la location, la société de location anciennement propriétaire du véhicule est dispensée, lorsqu'elle n'est pas en possession de la carte grise dudit véhicule, d'apposer sur ce document la mention " Vendu le... " suivie de sa signature, prévue par l'article R. 112 du code de la route.
 

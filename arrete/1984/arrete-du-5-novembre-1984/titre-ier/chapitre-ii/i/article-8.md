@@ -12,7 +12,7 @@ Pour les véhicules provenant d'un Etat tiers à l'Union européenne, ce documen
 
 Pour les véhicules provenant d'un autre Etat de l'Union européenne, il ne comporte aucune mention fiscale spécifique ;
 
-2. Les pièces justificatives de son identité et de son domicile (la liste de ces pièces figure en annexe VI du présent arrêté).
+2. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 Ou bien l'ensemble des documents suivants :
 
@@ -26,7 +26,7 @@ Ou bien l'ensemble des documents suivants :
 
 5. Un certificat de cession ou une facture établis par le vendeur ;
 
-6. Les pièces justificatives de son identité et de son domicile (cf. annexe VI du présent arrêté) ;
+6. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 7. Pour les véhicules neufs provenant d'un Etat tiers à l'Union européenne, "un certificat pour servir à l'immatriculation en France d'un véhicule importé" (certificat de dédouanement 846 A) délivré par les services des douanes. Toutefois, cette pièce ne sera pas exigée lorsque le certificat de conformité national sera revêtu d'une attestation de dédouanement conforme au modèle défini par la direction générale des douanes et des droits indirects.
 
@@ -50,7 +50,7 @@ Pour obtenir l'immatriculation, les pièces suivantes doivent être fournies :
 
 3. Un certificat de cession ou une facture établie par le vendeur ;
 
-4. Les pièces justificatives de son identité et de son domicile (cf. annexe VI du présent arrêté) ;
+4. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 5. Pour les véhicules neufs acquis dans un Etat tiers à l'Union européenne, "un certificat pour servir à l'immatriculation en France d'un véhicule importé" (certificat de dédouanement 846 A) délivré par les services des douanes.
 
@@ -72,7 +72,7 @@ Pour les véhicules provenant d'un Etat tiers à l'Union européenne, ce documen
 
 Pour les véhicules provenant d'un autre Etat de l'Union européenne, il ne comporte aucune mention fiscale spécifique ;
 
-2. Les pièces justificatives de son identité et de son domicile (la liste de ces pièces figure en annexe VI du présent arrêté).
+2. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 Ou bien l'ensemble des documents suivants :
 
@@ -82,7 +82,7 @@ Ou bien l'ensemble des documents suivants :
 
 3. Un certificat de cession ou une facture établis par le vendeur ;
 
-4. Les pièces justificatives de son identité et de son domicile (cf. annexe VI du présent arrêté) ;
+4. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 5. Pour les véhicules neufs provenant d'un Etat tiers à l'Union européenne un "certificat pour servir à l'immatriculation en France d'un véhicule importé" (certificat de dédouanement délivré par les services des douanes). Toutefois cette pièce ne sera pas exigée s'il est présenté un certificat de conformité tel que visé au 2 ci-dessus et comportant une mention conforme au modèle défini par la direction générale des douanes et droits indirects.
 
@@ -102,13 +102,11 @@ Pour obtenir l'immatriculation, les pièces suivantes doivent être fournies :
 
 3. Un certificat de cession ou une facture établis par le vendeur ;
 
-4. Les pièces justificatives de son identité et de son domicile (cf. annexe VI du présent arrêté) ;
+4. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 5. Pour les véhicules neufs provenant d'un Etat tiers à l'Union européenne, "un certificat pour servir à l'immatriculation en France d'un véhicule importé" (certificat de dédouanement délivré par les services des douanes).
 
-Pour les véhicules neufs provenant d'un Etat de l'Union européenne
-
-autre que la France, un "certificat d'acquisition d'un véhicule terrestre à moteur en provenance de la C.E.E." délivré par les services des impôts.
+Pour les véhicules neufs provenant d'un Etat de l'Union européenne autre que la France, un "certificat d'acquisition d'un véhicule terrestre à moteur en provenance de la C.E.E." délivré par les services des impôts.
 
 Toutefois, cette pièce ne sera pas exigée lorsque l'attestation d'identification du véhicule au type national sera revêtue de la mention "T.V.A., acquittée sur la déclaration périodique du chiffre d'affaires" (cette mention est indiquée pour les cas de dispense de certificat fiscal accordés par le directeur des services fiscaux territorialement compétent).
 
@@ -144,7 +142,7 @@ Les pièces à fournir par le propriétaire dudit véhicule sont :
 
 4. Un certificat du vendeur. Dans le cas où le véhicule a été construit par son propriétaire, ce dernier devra produire les factures d'achat des éléments constitutifs du véhicule (notamment châssis, moteur) ;
 
-5. Les pièces justificatives de son identité et de son domicile (voir annexe VI).
+5. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI).
 
 En outre, il devra être joint :
 

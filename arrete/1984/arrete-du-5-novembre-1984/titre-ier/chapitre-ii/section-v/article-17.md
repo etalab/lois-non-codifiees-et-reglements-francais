@@ -1,6 +1,6 @@
 # Article 17
 
-En cas de changement de domicile, le propriétaire d'un véhicule doit fournir les pièces suivantes :
+En cas de changement de domicile, le propriétaire d'un véhicule ou, le cas échéant, le locataire mandaté doit fournir les pièces suivantes :
 
 1. Une déclaration établie sur l'imprimé de demande de certificat d'immatriculation ;
 
@@ -8,4 +8,4 @@ En cas de changement de domicile, le propriétaire d'un véhicule doit fournir l
 
 3. La carte grise.
 
-Sur le vu de ces pièces il sera délivré au propriétaire une nouvelle carte grise qui portera un nouveau numéro d'immatriculation si le changement de domicile a lieu d'un département à un autre.
+Sur le vu de ces pièces il sera délivré au propriétaire ou au locataire mandaté une nouvelle carte grise qui portera un nouveau numéro d'immatriculation si le changement de domicile a lieu d'un département à un autre.

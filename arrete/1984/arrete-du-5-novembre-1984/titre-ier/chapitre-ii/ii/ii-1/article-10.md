@@ -16,7 +16,7 @@ En cas de cession à titre gratuit, la précédente carte grise revêtue de la m
 
 3. Le certificat de cession (à titre gratuit ou onéreux) remis par l'ancien propriétaire. Le modèle de ce certificat figure en annexe V du présent arrêté. Il peut également être établi sur papier libre à condition de comporter les renseignements demandés.
 
-4. Les pièces justificatives de son identité et de son domicile (voir annexe VI).
+4. Les pièces justificatives de son identité et de son domicile et, le cas échéant, celles du locataire (cf. annexe VI).
 
 5. Une attestation d'inscription ou de non-inscription de gage établie depuis moins d'un mois par la préfecture qui a délivré la précédente carte grise.
 
@@ -26,7 +26,7 @@ En cas de cession à titre gratuit, la précédente carte grise revêtue de la m
 
 Pour obtenir l'immatriculation du véhicule à son nom, l'héritier ou l'un des héritiers doit fournir les pièces suivantes :
 
-1. Une " demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives de son identité et de son domicile (voir annexe VI).
+1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives de son identité et de son domicile (voir annexe VI).
 
 2. La précédente carte grise.
 
@@ -42,7 +42,7 @@ Avant toute revente à un tiers, un véhicule tombé dans une succession doit ê
 
 1° Un certificat de cession signé par le ou les héritiers ;
 
-2° La précédente carte grise revêtue de la mention " vendu le et signée par le ou un des héritiers ;
+2° La précédente carte grise revêtue de la mention vendu le et signée par le ou un des héritiers ;
 
 3° Une attestation sur l'honneur de l'héritier qui avait la garde juridique du véhicule certifiant que ce dernier n'a pas circulé depuis le décès du titulaire de la carte grise.
 
@@ -50,13 +50,11 @@ Avant toute revente à un tiers, un véhicule tombé dans une succession doit ê
 
 5. Un certificat de non-opposition au transfert du certificat d'immatriculation établi depuis moins de deux mois par la préfecture qui a délivré la précédente carte grise.
 
-10.A. - III. - Cas particulier de véhicules vendus aux enchères publiques
-
-ou faisant l'objet d'une décision judiciaire déterminant leur propriété
+10.A. - III. - Cas particulier de véhicules vendus aux enchères publiques ou faisant l'objet d'une décision judiciaire déterminant leur propriété
 
 Les pièces à fournir par l'acquéreur sont :
 
-1. Une " demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives de son identité et de son domicile (voir annexe VI).
+1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire, accompagnée des pièces justificatives de son identité et de son domicile et, le cas échéant, celles du locataire (cf. annexe VI).
 
 2. Une attestation (bordereau d'adjudication ou procès-verbal de vente) établie par le commissaire priseur ou l'huissier de justice indiquant le nom de l'acheteur et si possible le numéro d'immatriculation, la marque, le type, le numéro dans la série du type et mentionnant que le véhicule a été vendu ou non avec la carte grise.
 
@@ -82,7 +80,7 @@ Les pièces à fournir sont :
 
 a) Pour les véhicules précédemment immatriculés dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord instituant l'Espace économique européen, les pièces à fournir par le propriétaire pour l'obtention d'une carte grise à son nom sont :
 
-1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives d'identité et de domicile ;
+1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire, accompagnée des pièces justificatives d'identité et de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI).
 
 2. Le certificat d'immatriculation ou, si celui-ci a été retiré par les autorités administratives du pays d'origine :
 
@@ -124,11 +122,11 @@ b) Pour les véhicules précédemment immatriculés dans un Etat tiers à l'Unio
 
 3. La preuve d'une visite ou d'un contrôle technique en cours de validité pour les véhicules dont l'âge et le genre les soumettent à cette obligation ;
 
-4. Un certificat de dédouanement 846 A, délivré par les services des douanes pour les véhicules immatriculés dans un Etat tiers à l'Union européenne. "
+4. Un certificat de dédouanement 846 A, délivré par les services des douanes pour les véhicules immatriculés dans un Etat tiers à l'Union européenne.
 
 c) Pour les véhicules précédemment immatriculés dans les départements ainsi que les territoires d'outre-mer et les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, les pièces à fournir sont :
 
-1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives d'identité et de domicile ;
+1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire, accompagnée des pièces justificatives d'identité et de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 2. Le certificat d'immatriculation ;
 
