@@ -1,6 +1,7 @@
 # 1941
 
 - [Loi du 12 avril 1941](loi-du-12-avril-1941)
+- [Loi du 14 juin 1941](loi-du-14-juin-1941)
 - [Loi du 15 février 1941](loi-du-15-fevrier-1941)
 - [Loi du 16 décembre 1941](loi-du-16-decembre-1941)
 - [Loi du 19 mai 1941](loi-du-19-mai-1941)
@@ -14,3 +15,4 @@
 - [Loi n°1941-03-22 du 22 mars 1941](loi-n1941-03-22-du-22-mars-1941)
 - [Loi n°41-1585 du 11 avril 1941](loi-n41-1585-du-11-avril-1941)
 - [Loi n°41-1814 du 24 avril 1941](loi-n41-1814-du-24-avril-1941)
+- [Loi n°41-2532 du 13 juin 1941](loi-n41-2532-du-13-juin-1941)
