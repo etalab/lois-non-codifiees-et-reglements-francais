@@ -1,0 +1,5 @@
+# Article 12
+
+Le ministre de l'agriculture peut, après consultation de la commission prévue à l'article 7, prononcer la suspension temporaire ou le retrait de l'homologation du cahier des charges en cas de méconnaissance des dispositions du présent décret ou des prescriptions du cahier des charges par l'organisme qui en a obtenu l'homologation ou par ses adhérents. L'organisme qui a obtenu l'homologation est alors invité à présenter ses observations devant la commission compétente.
+
+En cas d'évolution des techniques et des connaissances, le ministre de l'agriculture peut demander la modification du contenu du cahier des charges à l'organisme qui en a obtenu l'homologation. Si cet organisme ne donne pas suite à cette demande, le ministre peut prendre les mesures prévues à l'alinéa précédent selon la même procédure. Les décisions de suspension ou de retrait de l'homologation d'un cahier des charges doivent être motivées. Elles font l'objet des mêmes mesures de publicité que les décisions d'homologation.
