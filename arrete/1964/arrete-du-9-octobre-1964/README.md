@@ -7,8 +7,5 @@
 - [V : Direction de l'administration générale et de l'équipement.](v)
 - [VI : Direction de l'éducation surveillée.](vi)
 - [Article 27](article-27.md)
-- [Article 32](article-32.md)
-- [Article 33](article-33.md)
-- [Article 34](article-34.md)
 - [Article 46](article-46.md)
 - [Dispositions diverses.](dispositions-diverses)
