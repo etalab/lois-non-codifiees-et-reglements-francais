@@ -6,7 +6,7 @@ Le procureur de la République complète le dossier du candidat par les pièces 
 
 2° Avis de l'autorité administrative, assorti du rapport établi par les services chargés de l'enquête ;
 
-3° Relevé des notes obtenues au cours des études pour les diplômes visés à l'article 16 (1°) de l'ordonnance du 22 décembre 1958 susvisée, accompagné d'un avis du président de l'université ou du chef de l'établissement qui a délivré le diplôme.
+3° Relevé des notes obtenues au cours des études pour les diplômes visés à l'article 16 (1°) de l'ordonnance du 22 décembre 1958 susvisée.
 
 Ces documents peuvent être remplacés provisoirement par la production du livret universitaire ou du livret pédagogique du candidat.
 
