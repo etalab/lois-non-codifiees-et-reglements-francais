@@ -295,7 +295,6 @@
 - [Décret n°93-339 du 12 mars 1993 (MJSK9270170D)](decret-n93-339-du-12-mars-1993-mjsk9270170d)
 - [Décret n°93-359 du 12 mars 1993 (MENT9304456D)](decret-n93-359-du-12-mars-1993-ment9304456d)
 - [Décret n°93-360 du 12 mars 1993 (MENF9304394D)](decret-n93-360-du-12-mars-1993-menf9304394d)
-- [Décret n°93-367 du 12 mars 1993 (EQUU9300086D)](decret-n93-367-du-12-mars-1993-equu9300086d)
 - [Décret n°93-368 du 12 mars 1993 (EQUU9300087D)](decret-n93-368-du-12-mars-1993-equu9300087d)
 - [Décret n°93-37 du 12 janvier 1993 (JUSG9260087D)](decret-n93-37-du-12-janvier-1993-jusg9260087d)
 - [Décret n°93-43 du 12 janvier 1993 (SPSS9303276D)](decret-n93-43-du-12-janvier-1993-spss9303276d)
