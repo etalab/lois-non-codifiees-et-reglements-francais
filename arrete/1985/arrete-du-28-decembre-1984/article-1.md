@@ -1,3 +1,3 @@
 # Article 1
 
-Le taux de la taxe créée par le décret du 13 avril 1983 susvisé est fixé, jusqu'au 31 décembre 1985, à 0,30 p. 100 de la valeur imposable.
+Pour le calcul du coefficient volumique de déperditions thermiques G des locaux d'habitation tel qu'il est défini dans l'arrêté du 24 mars 1982 susvisé, sont agréées les règles ThK et ThG établies par le groupe de coordination des textes techniques (document technique unifié).
