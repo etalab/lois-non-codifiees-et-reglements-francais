@@ -242,6 +242,7 @@
 - [Arrêté du 22 février 1993 (LOGC9300005A)](arrete-du-22-fevrier-1993-logc9300005a)
 - [Arrêté du 22 février 1993 (SANP9300547A)](arrete-du-22-fevrier-1993-sanp9300547a)
 - [Arrêté du 22 février 1993 (SPSS9300571A)](arrete-du-22-fevrier-1993-spss9300571a)
+- [Arrêté du 22 janvier 1993 (AGRG9300122A)](arrete-du-22-janvier-1993-agrg9300122a)
 - [Arrêté du 22 janvier 1993 (BUDB9340003A)](arrete-du-22-janvier-1993-budb9340003a)
 - [Arrêté du 22 janvier 1993 (INTB9300040A)](arrete-du-22-janvier-1993-intb9300040a)
 - [Arrêté du 22 janvier 1993 (MENL9304047A)](arrete-du-22-janvier-1993-menl9304047a)

@@ -1,0 +1,3 @@
+# Article 23
+
+L'utilisation de bois est autorisée dans les locaux de fumaison, de salaison, de maturation et de saumurage, de stockage des produits à base de viande et dans le local d'expédition, lorsque cela est indispensable pour des raisons techniques et pour autant qu'il n'y ait aucun danger de contamination de ces produits. L'introduction des palettes en bois n'est autorisée que pour le transport de viandes ou de produits à base de viande emballés et exclusivement à cet usage. Par ailleurs, l'utilisation de métaux galvanisés pour la dessiccation de jambons et de saucissons peut être autorisée, à condition qu'ils ne soient pas corrodés et qu'ils n'y ait pas de contact avec les produits à base de viande.
