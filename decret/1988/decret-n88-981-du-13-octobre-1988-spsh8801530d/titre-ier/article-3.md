@@ -8,4 +8,6 @@ Des suppléants sont nommés selon les mêmes modalités que les titulaires en c
 
 3° Tous les membres mentionnés au IV du même article.
 
+Chaque membre titulaire désigné en application du IV de l'article 2 du présent décret a deux suppléants.
+
 Les membres suppléants peuvent assister aux séances du conseil supérieur sans participer aux débats. Ils n'ont voix délibérative qu'en l'absence des titulaires qu'ils remplacent.
