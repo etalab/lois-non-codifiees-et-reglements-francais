@@ -8,5 +8,6 @@
 - [Titre III : Dispositions concernant les militaires servant en vertu d'un contrat](titre-iii)
 - [Article 4](article-4.md)
 - [Titre IV : Dispositions concernant les personnels accomplissant le service militaire dans les conditions prévues par le code du service national et les militaires des réserves.](titre-iv)
+- [Article 5](article-5.md)
 - [Titre V : Dispositions diverses et dispositions transitoires.](titre-v)
 - [Annexes](annexes)
