@@ -1,6 +1,6 @@
 # Article 6
 
-Les listes d'aptitude prévues aux articles 2, 3 et 4 ci-dessus sont arrêtées par le ministre chargé de l'éducation nationale sur proposition du recteur et après avis de la commission consultative mixte académique.
+Les listes d'aptitude prévues aux articles 2, 3 et 4 ci-dessus son arrêtées par le recteur d'académie après avis de la commission consultative mixte académique.
 
 Les listes d'aptitude mentionnées aux articles 2 et 3 ci-dessus sont établies toutes disciplines confondues.
 
