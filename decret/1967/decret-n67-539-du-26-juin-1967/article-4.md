@@ -1,5 +1,3 @@
 # Article 4
 
-Il est institué auprès du ministre des affaires sociales un conseil de perfectionnement des études de laborantin d'analyses médicales dont la composition sera fixée par arrêté du ministre des affaires sociales.
-
-Le conseil visé à l'alinéa précédent est chargé de donner son avis sur les questions relatives au programme d'enseignement, aux examens et au fonctionnement des écoles de laborantins d'analyses médicales.
+Le montant des droits annuels d'inscription exigés des candidats au dipl<CB>me d'Etat de laborantin d'analyses médicales effectuant leurs études dans une école hospitalière publique est fixé par arrêté du ministre chargé de la santé.

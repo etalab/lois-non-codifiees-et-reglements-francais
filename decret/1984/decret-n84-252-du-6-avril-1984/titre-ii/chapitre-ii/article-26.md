@@ -1,6 +1,6 @@
 # Article 26
 
-Sont seuls admis, jusqu'au soixantième jour précédant la date du scrutin, les retraits de listes complètes à condition que la déclaration de retrait comporte la signature de la majorité des membres de la liste [*délai*].
+Dans les circonscriptions ou l'élection a lieu à la représentation proportionnelle, sont seuls admis, jusqu'au soixantième jour précédant la date du scrutin, les retraits de listes complètes à condition que la déclaration de retrait comporte la signature de la majorité des membres de la liste [*délai*].
 
 Jusqu'au soixantième jour précédant la date de l'élection un membre de liste peut être remplacé en cas de décès, ou s'il est constaté qu'il ne jouit pas de ses droits civils ou politiques, ou encore s'il apparaît qu'il ne remplit pas ou a cessé de remplir l'une des conditions d'éligibilité prévues à l'article 4 de la loi du 7 juin 1982 susvisée. Le candidat tête de liste peut alors modifier en conséquence l'ordre des candidats sur la liste, avec leur accord dûment constaté.
 

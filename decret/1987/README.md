@@ -299,6 +299,7 @@
 - [Décret du 22 décembre 1986 (AGRM8700091D)](decret-du-22-decembre-1986-agrm8700091d)
 - [Décret n°87-1028 du 22 décembre 1987 (PRMX8700181D)](decret-n87-1028-du-22-decembre-1987-prmx8700181d)
 - [Décret n°87-1029 du 22 décembre 1987 (BUDF8710086D)](decret-n87-1029-du-22-decembre-1987-budf8710086d)
+- [Décret n°87-1034 du 22 décembre 1987 (MAEJ8730062D)](decret-n87-1034-du-22-decembre-1987-maej8730062d)
 - [Décret n°87-284 du 22 avril 1987 (EQUU8700009D)](decret-n87-284-du-22-avril-1987-equu8700009d)
 - [Décret n°87-285 du 22 avril 1987 (EQUU8700121D)](decret-n87-285-du-22-avril-1987-equu8700121d)
 - [Décret n°87-34 du 22 janvier 1987 (DEFD8701043D)](decret-n87-34-du-22-janvier-1987-defd8701043d)

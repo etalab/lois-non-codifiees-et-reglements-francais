@@ -1,5 +1,3 @@
 # Article 4
 
-Il est institué auprès du ministre des affaires sociales un conseil de perfectionnement des études de manipulateur d'électroradiologie, dont la composition sera fixée par arrêté du ministre des affaires sociales.
-
-Le conseil visé à l'alinéa précédent est chargé de donner son avis sur toutes les questions relatives au programme d'enseignement, aux examens, au fonctionnement des écoles de manipulateurs d'électroradiologie.
+Le montant des droits annuels d'inscription éxigés des candidats au dipl<CB>me d'Etat de manipulateur d'électroradiologie médicale effectuant leurs études dans une école hospitalière publique est fixé par arrêté du ministre chargé de la santé.
