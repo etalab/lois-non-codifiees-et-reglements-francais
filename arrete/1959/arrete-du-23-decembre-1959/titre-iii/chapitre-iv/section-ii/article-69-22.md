@@ -11,3 +11,5 @@ Lorsque les paiements effectifs par caisse s'avèrent inférieurs aux jack-pots 
 Cette somme est enregistrée sous le contrôle du directeur responsable ou du membre du comité chargé du contrôle des machines sur le registre spécial des orphelins prévu à l'article 42.
 
 Dans la comptabilité générale du casino, le compte de tiers orphelins est crédité par le débit du compte de tiers produit brut des jeux.
+
+Le carnet de comptabilité, visé à l'article 74-1 du présent arrêté, est servi à cette occasion.

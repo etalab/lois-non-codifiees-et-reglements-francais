@@ -4,12 +4,6 @@ Comptées. - En tant que de besoin et toujours le dernier jour du mois, il est p
 
 Les opérations de comptée concernent obligatoirement l'ensemble des appareils ayant fonctionné depuis la dernière comptée.
 
-Le carnet de comptabilité, tenu pour chaque machine, sert à enregistrer :
+Elles sont retracées dans un carnet de comptabilité tenu pour chaque machine et visé à l'article 74-1 du présent arrêté.
 
-- le montant de la comptée physique ;
-
-- le montant de la comptée électronique (différence entre les unités électroniques entrées et sorties multipliée par la mise unitaire) ;
-
-- le montant du produit réel des jeux de la période écoulée depuis la dernière comptée.
-
-Ce dernier montant est égal à la somme des comptées physique et électronique, diminué des avances à la machine et des paiements des gains aux joueurs par la caisse spéciale, enregistrés au jour le jour sur le carnet et justifiés par des bons conservés comme valeur de caisse jusqu'au jour de la comptée. Les carnets sont signés par le caissier et le membre du comité responsable de ces jeux.
+Le dernier jour de la saison, il est procédé à la comptée de toutes les recettes, y compris les fonds de caisse et les trémies, et aux enregistrements comptables et techniques qui en découlent.

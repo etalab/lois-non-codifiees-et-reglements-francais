@@ -1,17 +1,17 @@
 # Article 74-1
 
-Documents comptables relatifs aux machines à sous.
+Carnets de comptabilité des machines à sous :
 
-Les paiements, par caisse, d'avances à la machine ou de gains aux joueurs ne sont pas comptabilisés au jour le jour, mais retranscrits sur des bons traités comme valeurs de caisse, conformément aux dispositions des articles 69-20 et 69-21.
+Un carnet de comptabilité (modèle n° 29) est ouvert pour chaque machine.
 
-Un carnet de comptabilité est ouvert pour chaque machine. Il enregistre au jour le jour les avances à la machine et les gains payés par caisse et à chaque comptée le montant distinct de la comptée physique et de la comptée électronique.
+Il sert à enregistrer :
 
-Il permet d'établir, par machine, lors de chaque comptée, le produit réel des jeux réalisé entre deux comptées, soit le montant de la comptée diminué des avances à la machine et des gains payés par caisse.
+- au jour le jour, les avances à la machine et les gains payés par la caisse spéciale. Les paiements, par caisse, d'avances à la machine ou de gains aux joueurs ne sont pas comptabilisés au jour le jour, mais retranscrits sur des bons traités comme valeurs de caisse, jusqu'au jour de la comptée, conformément aux dispositions des articles 69-20 et 69-21 du présent arrêté ;
 
-Lors de chaque comptée, un état récapitulatif du produit réel des jeux est établi. Il reprend, en une ligne par machine, les données relatives au produit réel des jeux figurant sur chaque carnet de comptabilité.
+- à chaque comptée, le montant distinct de la comptée physique et de la comptée électronique (différence entre les unités électroniques entrées et sorties multipliée par la mise unitaire) ainsi que le montant des gains non réclamés.
 
-La comptabilité générale du casino est servie à partir de cet état, le compte de tiers " produit brut des jeux " étant crédité par le débit du compte " caisse spéciale jeux-machines à sous ".
+Il permet d'établir, par machine, lors de chaque comptée, le montant du produit réel des jeux réalisé de la période écoulée depuis la dernière comptée. Ce dernier montant est égal à la somme des comptées physique et électronique, diminué des avances à la machine, des paiements des gains aux joueurs par la caisse spéciale et des gains non réclamés.
 
-Un état de relevé des compteurs est établi une fois par mois, lors de l'opération du relevé des compteurs.
+Chaque carnet est signé par le caissier et le membre du comité responsable de ces jeux.
 
-Les éléments qui y sont décrits sont indiqués à l'article 69-25 ci-dessus.
+Dans le cas où le casino adopterait une gestion comptable informatisée, le carnet de comptabilité peut être établi par procédé informatique.

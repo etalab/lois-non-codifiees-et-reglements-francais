@@ -11,3 +11,5 @@ Les dirigeants de l'établissement doivent utiliser les documents suivants :
 3° Un inventaire technique des machines constitué à partir d'une fiche par machine portant le numéro de l'emplacement, le numéro constructeur de la machine et, le cas échéant, le numéro de série du lecteur pour cartes de paiement et retraçant toutes les opérations qui ont affecté l'appareil de la date de sa mise en service dans le casino à celle de la cessation de fonctionnement. Ce document doit être mis à jour régulièrement et signé du directeur responsable ou du membre du comité spécialisé.
 
 4. Un bordereau relatant l'achat, la mise en service, la cessation de fonctionnement de machines durant le mois écoulé, transmis au ministre de l'intérieur le 5 de chaque mois.
+
+Dans le cas où le casino adopterait une gestion comptable informatisée, ces différents documents peuvent être établis par procédé informatique.

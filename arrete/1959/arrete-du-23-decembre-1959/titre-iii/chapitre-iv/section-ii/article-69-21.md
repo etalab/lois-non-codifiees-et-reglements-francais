@@ -8,4 +8,4 @@ L'employé qui constate que la trémie est vide, informe le membre du comité et
 
 L'employé réapprovisionne en pièces ou en jetons la machine sous le contrôle du membre du comité de direction.
 
-En outre, le carnet de comptabilité de la machine concernée prévu à l'article 69-24 est annoté de l'avance effectuée par la caisse spéciale.
+En outre, le carnet de comptabilité de la machine concernée prévu à l'article 74-1 du présent arrêté est annoté de l'avance effectuée par la caisse spéciale.
