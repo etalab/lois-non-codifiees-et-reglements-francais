@@ -7,7 +7,6 @@
 - [Arrêté du 9 août 1947](arrete-du-9-aout-1947)
 - [Arrêté du 10 février 1947](arrete-du-10-fevrier-1947)
 - [Arrêté du 10 septembre 1947](arrete-du-10-septembre-1947)
-- [Arrêté du 11 septembre 1947](arrete-du-11-septembre-1947)
 - [Arrêté du 12 mars 1947](arrete-du-12-mars-1947)
 - [Arrêté du 18 août 1947](arrete-du-18-aout-1947)
 - [Arrêté du 18 avril 1947](arrete-du-18-avril-1947)
