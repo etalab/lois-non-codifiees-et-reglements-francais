@@ -60,7 +60,6 @@
 - [Arrêté du 4 août 1987 (ECOX8798328A)](arrete-du-4-aout-1987-ecox8798328a)
 - [Arrêté du 4 août 1987 (ECOX8798329A)](arrete-du-4-aout-1987-ecox8798329a)
 - [Arrêté du 4 août 1987 (ECOX8798330A)](arrete-du-4-aout-1987-ecox8798330a)
-- [Arrêté du 4 août 1987 (JUSC8720620A)](arrete-du-4-aout-1987-jusc8720620a)
 - [Arrêté du 4 août 1987 (RESK8700495A)](arrete-du-4-aout-1987-resk8700495a)
 - [Arrêté du 4 décembre 1987 (ASET8703852A)](arrete-du-4-decembre-1987-aset8703852a)
 - [Arrêté du 4 décembre 1987 (BUDX8798643A)](arrete-du-4-decembre-1987-budx8798643a)

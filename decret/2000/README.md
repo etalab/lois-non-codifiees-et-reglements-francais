@@ -262,7 +262,6 @@
 - [Décret n°2000-1116 du 16 novembre 2000 (INTB0000305D)](decret-n2000-1116-du-16-novembre-2000-intb0000305d)
 - [Décret n°2000-1117 du 16 novembre 2000 (INTB0000306D)](decret-n2000-1117-du-16-novembre-2000-intb0000306d)
 - [Décret n°2000-519 du 16 juin 2000 (PRMX0004178D)](decret-n2000-519-du-16-juin-2000-prmx0004178d)
-- [Décret n°2000-525 du 16 juin 2000 (ECOA0020002D)](decret-n2000-525-du-16-juin-2000-ecoa0020002d)
 - [Décret n°2000-540 du 16 juin 2000 (VILV0021794D)](decret-n2000-540-du-16-juin-2000-vilv0021794d)
 - [Décret n°2000-542 du 16 juin 2000 (FPPA0010011D)](decret-n2000-542-du-16-juin-2000-fppa0010011d)
 - [Décret n°2000-543 du 16 juin 2000 (MJSK0070049D)](decret-n2000-543-du-16-juin-2000-mjsk0070049d)
