@@ -1,7 +1,7 @@
 # Article 1
 
-Le comité technique institué par l'article 11 du décret n° 80-791 du 1er octobre 1980 modifié susvisé est consulté pour avis par le ministre de l'agriculture sur l'agrément des installations, appareils et instruments utilisés pour l'étourdissement des animaux à l'abattage, l'immobilisation des bovins lors d'abattage rituel et la mise à mort sans saignée des gibiers d'élevage.
+La déclaration relative à la taxe annuelle de 3 p. 100 instituée par l'article 4-II de la loi de finances pour 1983 (loi n° 82-1126 du 29 décembre 1982) est déposée :
 
-Il étudie les dossiers techniques de demande d'agrément qui lui sont présentés conformément aux dispositions de l'arrêté du 10 avril 1981 susvisé, et peut le cas échéant demander des pièces complémentaires.
+Pour les personnes morales dont l'activité s'exerce en France dans un ou plusieurs établissements, à la recette des impôts du lieu du principal établissement ;
 
-Il examine le rapport relatif aux essais effectués conformément aux dispositions de l'arrêté interministériel précité et assiste au fonctionnement du matériel présenté à l'agrément, et peut, le cas échéant, demander des essais complémentaires.
+Pour les personnes morales qui sans exercer en France d'activité autre qu'immobilière y possèdent un ou plusieurs immeubles ou sont titulaires de droits réels portant sur ces biens, à la recette des impôts du lieu de situation de ces biens. Si l'application de cette règle conduit à une pluralité de lieux d'imposition, la déclaration est déposée à la recette du centre des impôts des non-résidents, 9, rue d'Uzès, à Paris.

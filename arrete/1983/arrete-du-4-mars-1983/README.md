@@ -1,4 +1,4 @@
-# Arrêté du 4 mars 1983 relatif à l'organisation et fonctionnement du comité technique consulté en vue de l'agrément des installations, appareils et instruments utilisés pour l'immobilisation, l'étourdissement et la mise à mort des animaux de boucherie, de charcuterie, de basse-cour et des gibiers d'élevage destinés à l'abattage
+# Arrêté du 4 mars 1983 relatif au lieu d'imposition des personnes morales soumises à la taxe annuelle de 3 p. 100 instituée par l'article 4-II de la loi de finances pour 1983 (loi n° 82-1126 du 29 décembre 1982).
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
