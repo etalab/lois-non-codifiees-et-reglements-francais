@@ -10,4 +10,4 @@ Les conservateurs en chef assument des responsabilités particulières en raison
 
 Ils peuvent être chargés de fonctions d'encadrement et de coordination ainsi que d'études et de conseil comportant des responsabilités particulières.
 
-Ils peuvent se voir confier par le ministre chargé de l'enseignement supérieur des missions d'inspection générale.
+Ils peuvent se voir confier des missions d'inspection générale par arrêté du ministre chargé de l'enseignement supérieur, pris après avis du ministre chargé de la culture.
