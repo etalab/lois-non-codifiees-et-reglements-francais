@@ -1,5 +1,6 @@
 # COUVERTURE DES RISQUES.
 
+- [Article 20](article-20.md)
 - [ASSURANCE DECES.](assurance-deces)
 - [ASSURANCE INVALIDITE.](assurance-invalidite)
 - [ASSURANCE MALADIE.](assurance-maladie)
