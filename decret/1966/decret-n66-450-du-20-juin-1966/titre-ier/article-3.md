@@ -14,6 +14,6 @@ Sont interdites :
 
 L'addition de substances radioactives dans la fabrication des denrées alimentaires, des produits cosmétiques et des produits à usage domestique ;
 
-L'utilisation de substances radioactives dans la fabrication des jouets.
+L'utilisation de substances radioactives dans la fabrication des jouets et des parures.
 
 Lorsque la réglementation en vigueur ne détermine pas des régimes d'autorisation ou de déclaration applicables, il appartiendra aux ministres intéressés de prendre les dispositions nécessaires.
