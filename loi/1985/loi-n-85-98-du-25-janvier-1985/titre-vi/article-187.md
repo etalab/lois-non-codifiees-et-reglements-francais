@@ -1,6 +1,6 @@
 # Article 187
 
-A toute époque de la procédure, le tribunal peut prononcer la faillite personnelle de toute personne physique commerçante ou de tout artisan contre lequel a été relevé l'un des faits ci-après :
+A toute époque de la procédure, le tribunal peut prononcer la faillite personnelle de toute personne physique commerçante, de tout agriculteur ou de tout artisan contre lequel a été relevé l'un des faits ci-après :
 
 1. Avoir poursuivi abusivement une exploitation déficitaire qui ne pouvait conduire qu'à la cessation des paiements ;
 
