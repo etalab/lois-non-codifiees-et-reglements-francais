@@ -2,7 +2,7 @@
 
 Les listes des candidats présentées aux suffrages des salariés doivent répondre aux conditions suivantes :
 
-1. Comporter une fois et demie plus de candidats qu'il n'y a de sièges à pourvoir ;
+1. Comporter un nombre de candidats égal à une fois et demie le nombre de sièges à pourvoir ;
 
 2. Présenter, en annexe, un ensemble de propositions d'orientation pour l'administration ou le contrôle de la gestion ;
 

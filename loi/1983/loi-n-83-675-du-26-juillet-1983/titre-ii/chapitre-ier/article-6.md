@@ -4,7 +4,7 @@ Dans les entreprises non visées à l'article 5, le conseil d'administration ou 
 
 Dans tous les cas, le conseil comprend des représentants des salariés élus dans les conditions prévues au chapitre II.
 
-Dans les entreprises mentionnées aux 4 et 5 de l'article 1er dont l'effectif est compris entre 200 et 1.000 salariés, à l'exclusion des banques nationalisées par la loi du 11 février 1982 précitée, le nombre de ces représentants est de deux.
+Dans les entreprises mentionnées aux 4 et 5 de l'article 1er dont l'effectif est compris entre 200 et 1.000 salariés, à l'exclusion des banques nationalisées par la loi du 11 février 1982 précitée, le nombre de ces représentants est de trois.
 
 Dans les autres entreprises, ces représentants constituent le tiers des membres du conseil.
 

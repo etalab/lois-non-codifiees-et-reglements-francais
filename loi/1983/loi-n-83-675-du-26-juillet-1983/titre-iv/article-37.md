@@ -4,7 +4,7 @@ Les entreprises soumises aux dispositions de la présente loi restent soumises a
 
 Ces entreprises favorisent la liberté d'expression des salariés, notamment par la liberté d'affichage. Les modalités d'exercice de ces droits sont arrêtées par le conseil d'administration ou de surveillance de ces sociétés.
 
-Les dispositions de l'article 5 de la loi n° 70-11 du 2 janvier 1970 et de l'article 5 de la loi n° 73-9 du 4 janvier 1973 sont abrogées.
+Les dispositions de l'article 5 de la loi n° 70-11 du 2 janvier 1970, de l'article 5 de la loi n° 73-9 du 4 janvier 1973 et de l'article 11 de la loi n° 73-8 du 4 janvier 1973 sont abrogées ;
 
 Par dérogation aux dispositions de l'article 14 de la présente loi, un décret en Conseil d'Etat déterminera les modalités de participation des salariés des Houillères de bassin à l'élection des représentants des salariés au conseil d'administration des Charbonnages de France.
 
