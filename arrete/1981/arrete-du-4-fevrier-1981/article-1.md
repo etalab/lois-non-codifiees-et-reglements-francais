@@ -1,6 +1,6 @@
 # Article 1
 
-Peuvent se présenter aux concours sur titres ouverts en application de l'article 11 (1e) du décret du 6 mars 1973 susvisé les candidats possédant l'un des diplômes ou titres suivants :
+Peuvent se présenter aux concours sur titres ouverts en application de l'article 11 (1e) du décret susvisé du 6 mars 1973 les candidats possédant l'un des diplômes ou titres suivants :
 
 Diplômes universitaires de technologie.
 
@@ -145,3 +145,7 @@ Diplôme du premier cycle technique du conservatoire national des arts et métie
 Adjoint technique d'une commune.
 
 Certificats de technicien sanitaire et de technicien supérieur de génie sanitaire délivrés par l'école nationale de la santé publique.
+
+Titres et diplômes de l'enseignement technologique homologues aux niveaux III et IV dans le groupe de formation 19.
+
+Diplôme de technicien gestionnaire de la fonction linge en milieu hospitalier délivré par la chambre de commerce et d'industrie d'Epinal.
