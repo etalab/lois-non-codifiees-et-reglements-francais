@@ -621,7 +621,6 @@
 - [Décret n°94-527 du 21 juin 1994 (RESR9400209D)](decret-n94-527-du-21-juin-1994-resr9400209d)
 - [Décret n°94-528 du 21 juin 1994 (MJSK9470058D)](decret-n94-528-du-21-juin-1994-mjsk9470058d)
 - [Décret n°94-61 du 21 janvier 1994 (BUDP9300668D)](decret-n94-61-du-21-janvier-1994-budp9300668d)
-- [Décret n°94-616 du 21 juillet 1994 (SPSH9401660D)](decret-n94-616-du-21-juillet-1994-spsh9401660d)
 - [Décret n°94-617 du 21 juillet 1994 (SPSH9401945D)](decret-n94-617-du-21-juillet-1994-spsh9401945d)
 - [Décret n°94-62 du 21 janvier 1994 (BUDP9300669D)](decret-n94-62-du-21-janvier-1994-budp9300669d)
 - [Décret n°94-65 du 21 janvier 1994 (ENVC9420004D)](decret-n94-65-du-21-janvier-1994-envc9420004d)
