@@ -1,0 +1,3 @@
+# Article 1
+
+Les personnes désignées à l'article 1106-3-1 du code rural doivent, pour pouvoir bénéficier de l'allocation prévue à l'article 3 ci-dessous, participer de manière constante, à plein temps ou à temps partiel, aux travaux de l'exploitation ou de l'entreprise agricole au titre de laquelle elles sont affiliées à l'assurance maladie, invalidité et maternité des personnes non salariées (Amexa).    Les travaux autres que ceux qui ont directement pour objet la mise en valeur de cette exploitation ou l'activité de cette entreprise et, notamment, ceux qui concernent la tenue du ménage familial ne sont pas pris en considération pour l'application du présent décret.
