@@ -123,7 +123,6 @@
 - [Décret n°89-829 du 10 novembre 1989 (BUDF8920241D)](decret-n89-829-du-10-novembre-1989-budf8920241d)
 - [Décret n°89-831 du 10 novembre 1989 (SPSS8901895D)](decret-n89-831-du-10-novembre-1989-spss8901895d)
 - [Décret n°89-90 du 10 février 1989 (MICT8900022D)](decret-n89-90-du-10-fevrier-1989-mict8900022d)
-- [Décret n°89-95 du 10 février 1989 (SPSA8801866D)](decret-n89-95-du-10-fevrier-1989-spsa8801866d)
 - [Décret n°90-927 du 10 octobre 1990 (MENF9002097D)](decret-n90-927-du-10-octobre-1990-menf9002097d)
 - [Décret n°89-296 du 10 mai 1989 (INTB8900136D)](decret-n89-296-du-10-mai-1989-intb8900136d)
 - [Décret n°89-312 du 10 mai 1989 (SPSH8900921D)](decret-n89-312-du-10-mai-1989-spsh8900921d)
