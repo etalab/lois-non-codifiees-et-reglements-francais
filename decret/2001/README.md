@@ -20,6 +20,7 @@
 - [Décret n°2001-280 du 2 avril 2001 (INTM0100014D)](decret-n2001-280-du-2-avril-2001-intm0100014d)
 - [Décret n°2001-281 du 2 avril 2001 (INTM0100015D)](decret-n2001-281-du-2-avril-2001-intm0100015d)
 - [Décret n°2001-282 du 2 avril 2001 (INTM0100016D)](decret-n2001-282-du-2-avril-2001-intm0100016d)
+- [Décret n°2001-284 du 2 avril 2001 (INTA0100065D)](decret-n2001-284-du-2-avril-2001-inta0100065d)
 - [Décret n°2001-570 du 2 juillet 2001 (PRMX0104924D)](decret-n2001-570-du-2-juillet-2001-prmx0104924d)
 - [Décret n°2001-577 du 2 juillet 2001 (MENF0101266D)](decret-n2001-577-du-2-juillet-2001-menf0101266d)
 - [Décret n°2002-741 du 2 mai 2002 (DEFP0201369D)](decret-n2002-741-du-2-mai-2002-defp0201369d)
