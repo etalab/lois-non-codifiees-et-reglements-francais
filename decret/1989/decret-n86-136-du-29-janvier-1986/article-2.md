@@ -1,0 +1,5 @@
+# Article 2
+
+1° Les biens immobiliers du F.O.R.M.A. qui sont situés à Paris (15e), 2, rue Saint-Charles, et à Paris (8e), 43, rue de Naples, sont réintégrés dans le domaine de l'Etat affecté au ministère de l'agriculture et attribués à titre de dotation à l'Agence centrale des organismes d'intervention dans le secteur agricole (A.C.O.F.A.), laquelle est substituée à l'Etat pour la gestion et l'administration de ces immeubles. La remise est constatée par un procès-verbal dressé contradictoirement entre les représentants du F.O.R.M.A., de l'A.C.O.F.A. et la direction des services fiscaux de Paris en présence du directeur départemental de l'agriculture et de la forêt. Ce procès-verbal comporte les indications nécessaires à la publication au fichier immobilier, de la réintégration des immeubles dans le patrimoine de l'Etat, aux frais du F.O.R.M.A. ;
+
+2° Les biens meubles du F.O.R.M.A. sont transférés à titre gratuit aux organismes d'intervention agricole susvisés, selon une répartition approuvée par le ministre de l'agriculture.

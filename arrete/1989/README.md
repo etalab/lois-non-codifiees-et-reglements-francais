@@ -4,6 +4,7 @@
 - [Arrêté du 1 septembre 1989 (SPSH8901736A)](arrete-du-1-septembre-1989-spsh8901736a)
 - [Arrêté du 1 septembre 1989 (SPSH8901739A)](arrete-du-1-septembre-1989-spsh8901739a)
 - [Arrêté du 3 janvier 1989 (INDA8800910A)](arrete-du-3-janvier-1989-inda8800910a)
+- [Arrêté du 6 décembre 1988 (SPSH8801811A)](arrete-du-6-decembre-1988-spsh8801811a)
 - [Arrêté du 7 décembre 1988 (TEFT8804178A)](arrete-du-7-decembre-1988-teft8804178a)
 - [Arrêté du 8 décembre 1988 (TEFT8804179A)](arrete-du-8-decembre-1988-teft8804179a)
 - [Arrêté du 8 septembre 1989 (RESY8900319A)](arrete-du-8-septembre-1989-resy8900319a)
