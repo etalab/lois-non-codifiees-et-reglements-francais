@@ -29,6 +29,7 @@
 - [Arrêté du 3 février 1987 (EQUS8700153A)](arrete-du-3-fevrier-1987-equs8700153a)
 - [Arrêté du 3 septembre 1982 (ASEX8798216A)](arrete-du-3-septembre-1982-asex8798216a)
 - [Arrêté du 4 février 1987 (ECOM8700040A)](arrete-du-4-fevrier-1987-ecom8700040a)
+- [Arrêté du 4 juin 1987](arrete-du-4-juin-1987)
 - [Arrêté du 4 juin 1987 (EQUR8700580A)](arrete-du-4-juin-1987-equr8700580a)
 - [Arrêté du 4 mars 1987 (ASES8700393A)](arrete-du-4-mars-1987-ases8700393a)
 - [Arrêté du 4 mars 1987 (ENVN8700057A)](arrete-du-4-mars-1987-envn8700057a)

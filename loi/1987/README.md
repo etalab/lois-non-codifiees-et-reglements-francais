@@ -6,4 +6,5 @@
 - [Loi n° 87-39 du 27 janvier 1987](loi-n-87-39-du-27-janvier-1987)
 - [Loi n°87-10 du 3 janvier 1987](loi-n87-10-du-3-janvier-1987)
 - [Loi n°87-342 du 22 mai 1987 (DEFX8700026L)](loi-n87-342-du-22-mai-1987-defx8700026l)
+- [Loi n°87-369 du 5 juin 1987 (DOMX8700059L)](loi-n87-369-du-5-juin-1987-domx8700059l)
 - [Loi n°de du 31 décembre 1986](loi-nde-du-31-decembre-1986)
