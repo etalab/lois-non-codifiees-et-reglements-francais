@@ -276,7 +276,6 @@
 - [Décret n°94-697 du 10 août 1994 (INTB9400298D)](decret-n94-697-du-10-aout-1994-intb9400298d)
 - [Décret n°94-700 du 10 août 1994 (ECOT9491004D)](decret-n94-700-du-10-aout-1994-ecot9491004d)
 - [Décret n°94-870 du 10 octobre 1994 (SPSC9402690D)](decret-n94-870-du-10-octobre-1994-spsc9402690d)
-- [Décret n°94-871 du 10 octobre 1994 (AGRG9401490D)](decret-n94-871-du-10-octobre-1994-agrg9401490d)
 - [Décret n°94-873 du 10 octobre 1994 (ENVN9420056D)](decret-n94-873-du-10-octobre-1994-envn9420056d)
 - [Décret n°94-884 du 10 octobre 1994 (JUSC9420876D)](decret-n94-884-du-10-octobre-1994-jusc9420876d)
 - [Décret n°94-974 du 10 novembre 1994 (SPSS9403179D)](decret-n94-974-du-10-novembre-1994-spss9403179d)
