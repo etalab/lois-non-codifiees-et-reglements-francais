@@ -1,5 +1,0 @@
-# Article 5
-
-La désinfection des serres et des locaux industriels de traitement ou d'entrepôt de denrées alimentaires pourra être opérée à toute époque de l'année, sous les conditions précisées à l'article 6. Elle ne devra être opérée que dans les services publics désignés par le ministre de l'Agriculture ou, sous la surveillance d'un agent du service de police sanitaire désigné à cet effet, par des équipes qualifiées et entraînées appartenant soit à des syndicats de défense contre les ennemis des cultures, soit à des entreprises privées, dont les demandes auront été agréées par le ministre de l'Agriculture.   La demande devra obligatoirement porter désignation de la personne qui sera civilement responsable de l'utilisation des produits cyanhydriques et contenir les renseignements déterminés par les instructions jointes au présent arrêté.
-
-L'autorisation de pratiquer ces traitements devra être renouvelée chaque année, étant bien entendu qu'elle devient automatiquement caduque le 31 décembre.
