@@ -1,7 +1,13 @@
 # Article 37
 
-Dans les cheptels bovins infectés de brucellose, après abattage du dernier bovin marqué et élimination des animaux des autres espèces sensibles infectés de brucellose, le contrôle sérologique des bovins de douze mois et plus conservés dans l'exploitation doit être repris dans un délai de six semaines au moins et de deux mois au plus.
+1° Dans les cheptels bovins infectés de brucellose, après abattage du dernier bovin marqué (et, en ce qui concerne les femelles bovines, de leur veau dernier-né) et élimination des animaux des autres espèces sensibles infectés de brucellose, le contrôle sérologique des bovins de douze mois et plus conservés dans l'exploitation doit être repris dans un délai de six semaines au moins et deux mois au plus au moyen d'EAT associées à un ELISA.
 
-Si le premier contrôle est négatif, le cheptel est considéré comme assaini. Afin d'attribuer une nouvelle qualification du cheptel, les contrôles doivent être poursuivis par deux épreuves à l'antigène tamponné associées à des épreuves de fixation du complément pratiquées à intervalle de six semaines à deux mois pour le deuxième contrôle et de quatre à six mois pour le troisième contrôle.
+2° A compter du premier contrôle négatif, le cheptel est considéré comme assaini.
 
-Tout résultat positif à l'une ou l'autre des deux épreuves entraîne le marquage et l'élimination du bovin concerné et le maintien des mesures fixées à la section 2 du présent chapitre.
+Afin d'attribuer une nouvelle qualification, tous les bovins âgés de douze mois et plus du cheptel doivent être soumis avec résultats favorables :
+
+- à un premier contrôle de qualification réalisé au moyen de l'épreuve de l'EAT associée à un ELISA dans un délai de six semaines à deux mois à compter du contrôle d'assainissement favorable ;
+
+- à un deuxième contrôle de qualification réalisé au moyen de l'EAT associée à un ELISA dans un délai de quatre à six mois à compter du premier contrôle de qualification.
+
+3° Tout résultat positif à l'une des épreuves à l'occasion de ces contrôles entraîne le marquage et l'élimination du bovin concerné et le maintien des mesures fixées à la section 2 du présent chapitre.

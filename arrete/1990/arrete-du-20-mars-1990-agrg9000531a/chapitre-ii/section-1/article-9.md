@@ -4,9 +4,15 @@ Pour l'application du présent arrêté, les animaux de l'espèce bovine sont co
 
 1° Atteints de brucellose réputée contagieuse lorsque :
 
-- pour les femelles ayant avorté, le diagnostic est confirmé par une mise en évidence de l'agent microbien ou par l'obtention de résultats positifs à une épreuve à l'antigène tamponné associée à une épreuve de fixation du complément. Si seule l'épreuve à l'antigène tamponné présente un résultat positif, l'animal est isolé et contrôlé quinze jours plus tard. La persistance de la positivité de l'épreuve à l'antigène tamponné, quel que soit le résultat de l'épreuve de fixation du complément, suffit pour déclarer le bovin atteint de brucellose réputée contagieuse ;
+- pour les femelles ayant avorté, le diagnostic est confirmé par une mise en évidence de l'agent microbien ou par l'obtention de résultats positifs à une EAT associée à une FC ou à un ELISA.
 
-- pour les mâles, les symptômes d'orchite sont associés à des résultats positifs à une épreuve à l'antigène tamponné complétée par une épreuve de fixation du complément.
+Si seule l'EAT présente un résultat positif, l'animal est isolé et contrôlé quinze jours plus tard. La persistance de la positivité de l'EAT, quel que soit le résultat de la FC ou de l'ELISA, suffit pour déclarer le bovin atteint de brucellose réputée contagieuse.
+
+Si seule la FC présente un résultat positif, l'animal est isolé et est soumis quinze jours plus tard à une EAT associée à une FC. Une positivité à l'EAT (ou à la FC) conduit alors à déclarer le bovin atteint de brucellose réputée contagieuse.
+
+Si seule l'ELISA présente un résultat positif, l'animal est isolé et soumis quinze jours plus tard à une EAT associée à une FC. Une positivité à l'EAT (ou à la FC) conduit alors à déclarer le bovin atteint de brucellose réputée contagieuse ;
+
+- pour les mâles, les symptômes d'orchite sont associés à des résultats positifs à une EAT complétée par une épreuve de fixation du complément ou un ELISA.
 
 2° Indemnes de brucellose lorsqu'ils appartiennent à un cheptel bovin officiellement indemne ou indemne de brucellose tel que défini aux articles 12 et 13 ci-après ;
 

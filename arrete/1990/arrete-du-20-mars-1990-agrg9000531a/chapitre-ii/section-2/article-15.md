@@ -8,8 +8,8 @@ En cas de confirmation du diagnostic de brucellose, les animaux concernés sont 
 
 En cas d'infirmation du diagnostic de brucellose, un nouveau contrôle favorable des animaux suspects par épreuves à l'antigène tamponné et fixation du complément réalisées dans un délai de quatre à six semaines est nécessaire pour que le cheptel recouvre sa qualification.
 
-2° Dans un cheptel laitier, lorsque la suspicion de l'infection brucellique se base sur le résultat positif d'une épreuve de l'anneau pratiquée sur le lait de mélange de l'exploitation, ce résultat doit être étayé par une deuxième épreuve de l'anneau réalisée dans les quinze jours après réception du premier résultat positif.
+2° Dans un cheptel laitier, lorsque la suspicion de l'infection brucellique se base sur le résultat positif d'une épreuve de l'anneau pratiquée sur le lait de mélange de l'exploitation, ce résultat doit être étayé par un ELISA.
 
-En cas de confirmation du diagnostic de brucellose, tous les bovins âgés de douze mois et plus sont contrôlés individuellement et sont soumis à une épreuve à l'antigène tamponné associée à une épreuve de fixation du complément.
+En cas de confirmation du diagnostic de brucellose, tous les bovins âgés de douze mois et plus sont contrôlés individuellement et sont soumis à une EAT associée à un ELISA.
 
-En cas d'infirmation du diagnostic de brucellose, la suspicion est levée.
+En cas d'infirmation du diagnostic de brucellose, la suspension est levée.
