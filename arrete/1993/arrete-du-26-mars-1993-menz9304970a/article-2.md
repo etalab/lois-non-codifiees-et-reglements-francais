@@ -32,4 +32,8 @@ Toutefois, les élèves des écoles normales supérieures citées ci-dessus peuv
 
 - Ecole nationale supérieure d'agronomie et des industries alimentaires de Nancy ;
 
-- Ecole nationale supérieure des industries agricoles et alimentaires de Massy.
+- Ecole nationale supérieure des industries agricoles et alimentaires de Massy :
+
+- Ecole nationale supérieure de chimie de Paris ;
+
+- Ecole supérieure de physique et de chimie industrielles de la ville de Paris.
