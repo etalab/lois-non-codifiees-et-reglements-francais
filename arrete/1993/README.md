@@ -1040,7 +1040,6 @@
 - [Arrêté du 27 décembre 1992 (AGRG9202615A)](arrete-du-27-decembre-1992-agrg9202615a)
 - [Arrêté du 27 décembre 1993 (AGRP9301745A)](arrete-du-27-decembre-1993-agrp9301745a)
 - [Arrêté du 27 décembre 1993 (SANP9303683A)](arrete-du-27-decembre-1993-sanp9303683a)
-- [Arrêté du 27 décembre 1993 (SPSS9303687A)](arrete-du-27-decembre-1993-spss9303687a)
 - [Arrêté du 27 janvier 1993 (INDG9300066A)](arrete-du-27-janvier-1993-indg9300066a)
 - [Arrêté du 27 janvier 1993 (LOGC9200065A)](arrete-du-27-janvier-1993-logc9200065a)
 - [Arrêté du 27 janvier 1993 (LOGC9200066A)](arrete-du-27-janvier-1993-logc9200066a)
