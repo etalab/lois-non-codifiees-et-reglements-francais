@@ -1,0 +1,6 @@
+# TITRE II : CONCOURS D'ACCÈS AU CORPS DES OUVRIERS D'ENTRETIEN ET D'ACCUEIL DES ÉTABLISSEMENTS D'ENSEIGNEMENT AGRICOLE PUBLICS RÉGI PAR LE DÉCRET N° 94-955 DU 3 NOVEMBRE 1994.
+
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)

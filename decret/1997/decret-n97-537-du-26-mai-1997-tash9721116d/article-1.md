@@ -1,0 +1,5 @@
+# Article 1
+
+Les techniciens de laboratoire en fonctions depuis au moins deux ans à la date du 25 mai 1995 dans un centre ou un poste de transfusion sanguine et remplissant les conditions d'exercice prévues par le décret du 4 novembre 1976 susvisé peuvent, par voie d'examens professionnels organisés au plus tard jusqu'au 31 décembre 2000, être intégrés dans le corps des techniciens de laboratoire de la fonction publique hospitalière.
+
+En cas de réussite à cet examen, la totalité de leur ancienneté professionnelle en tant que technicien de laboratoire est prise en compte pour leur reclassement dans le corps des techniciens de laboratoire. Toutefois, la prise en compte de ces services antérieurs ne peut avoir pour effet de permettre le classement des intéressés à un grade d'avancement ou à un échelon supérieur à celui qui confère un traitement égal ou, à défaut, immédiatement supérieur à la rémunération qu'ils percevaient dans leur ancienne situation à la date de leur intégration. Ces services ne pourront être à nouveau pris en compte dans la suite de leur carrière.
