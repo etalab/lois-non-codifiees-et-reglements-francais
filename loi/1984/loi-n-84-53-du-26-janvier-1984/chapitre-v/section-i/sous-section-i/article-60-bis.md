@@ -4,4 +4,6 @@ L'autorisation d'accomplir un travail à temps partiel, selon les quotités de 5
 
 L'autorisation d'accomplir un service à temps partiel est également accordée de plein droit au fonctionnaire pour donner des soins à son conjoint, à un enfant à charge ou à un ascendant atteint d'un handicap nécessitant la présence d'une tierce personne, ou victime d'un accident ou d'une maladie grave.
 
+L'autorisation d'accomplir un service à temps partiel est accordée de plein droit aux fonctionnaires relevant des catégories visées aux 1°, 2°, 3°, 4°, 9°, 10° et 11° de l'article L. 323-3 du code du travail, après avis du médecin du service de médecine professionnelle et préventive.
+
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
