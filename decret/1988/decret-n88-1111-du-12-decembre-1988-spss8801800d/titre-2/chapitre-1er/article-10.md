@@ -1,6 +1,6 @@
 # Article 10
 
-Lorsqu'en cours de versement de l'allocation, l'allocataire, son conjoint ou concubin ou l'une des personnes à charge définies à l'article 2 commence à exercer une activité salariée ou non salariée ou à suivre une formation rémunérée, les revenus ainsi procurés à l'intéressé sont intégralement cumulables avec l'allocation jusqu'à la première révision trimestrielle, telle que prévue au premier alinéa de l'article 12, qui suit ce changement de situation. Ils sont ensuite pris en compte dans les conditions ci-après.
+Lorsqu'en cours de versement de l'allocation, l'allocataire, son conjoint partenaire lié par un pacte civil de solidarité ou concubin ou l'une des personnes à charge définies à l'article 2 commence à exercer une activité salariée ou non salariée ou à suivre une formation rémunérée, les revenus ainsi procurés à l'intéressé sont intégralement cumulables avec l'allocation jusqu'à la première révision trimestrielle, telle que prévue au premier alinéa de l'article 12, qui suit ce changement de situation. Ils sont ensuite pris en compte dans les conditions ci-après.
 
 Lors de la première révision trimestrielle, un abattement de 50 % est appliqué sur la moyenne mensuelle des revenus du trimestre précédent pour tenir compte des situations où le cumul intégral antérieur n'a pas atteint trois mois.
 
