@@ -1,17 +1,13 @@
 # Article Annexe I
 
-1. Préparations pour nourrissons.
+1. Préparations pour nourrissons et préparations de suite.
 
-2. Laits de suite et autres aliments du deuxième âge.
+2. Denrées alimentaires à base de céréales et aliments pour bébés destinés aux nourrissons et aux enfants en bas âge.
 
-3. Aliments pour bébés.
+3. Aliments destinés à être utilisés dans les régimes hypocaloriques destinés à la perte de poids.
 
-4. Denrées alimentaires à valeur énergétique faible ou réduite destinées à un contrôle du poids.
+4. Aliments diététiques destinés à des fins médicales spéciales.
 
-5. Aliments diététiques destinés à des fins médicales spéciales.    6. Aliments pauvres en sodium, y compris les sels diététiques hyposodiques ou asodiques.
+5. Aliments adaptés à une dépense musculaire intense, surtout pour les sportifs.
 
-7. Aliments sans gluten.
-
-8. Aliments adaptés à une dépense musculaire intense, surtout pour les sportifs.
-
-9. Aliments destinés à des personnes affectées d'un métabolisme glucidique perturbé (diabétiques).
+6. Aliments destinés à des personnes affectées d'un métabolisme glucidique perturbé (diabétiques).
