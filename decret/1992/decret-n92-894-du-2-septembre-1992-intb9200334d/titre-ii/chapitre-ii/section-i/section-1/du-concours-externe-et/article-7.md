@@ -1,0 +1,3 @@
+# Article 7
+
+La spécialité Musique comprend les disciplines suivantes : violon, alto, violoncelle, contrebasse, flûte traversière, hautbois, clarinette, basson, flûte à bec, saxophone, trompette, cor, trombone, tuba, piano, orgue, clavecin, accordéon et bandonéon, ondes Martenot et synthétiseurs, harpe, guitare, percussions, direction d'ensembles instrumentaux, chant, direction d'ensembles vocaux, musique ancienne (tous instruments), musique traditionnelle (tous instruments), jazz (tous instruments), musique électroacoustique, accompagnateur, professeur d'accompagnement, formation musicale, culture musicale, écriture, professeur animateur, professeur chargé de direction.
