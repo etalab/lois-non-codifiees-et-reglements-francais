@@ -1,0 +1,3 @@
+# Article 4
+
+Les préfets peuvent, sur proposition des directeurs régionaux de l'industrie et de la recherche, établir en tant que de besoin des listes supplémentaires d'usagers qui, en raison de leur situation particulière, peuvent bénéficier, dans la limite des disponibilités, d'une certaine priorité par rapport aux autres usagers, notamment en cas d'urgence. Ces listes peuvent concerner des usagers déjà compris dans les listes visées à l'article précédent, pour des puissances complémentaires, ou des usagers non compris dans ces listes. Le cas échéant, l'alimentation de ces usagers peut n'être prévue que pour un temps et une puissance limités.

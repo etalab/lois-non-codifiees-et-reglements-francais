@@ -370,6 +370,7 @@
 - [Décret n°90-506 du 25 juin 1990 (ECOT9013359D)](decret-n90-506-du-25-juin-1990-ecot9013359d)
 - [Décret n°90-520 du 25 juin 1990 (MAEJ9030045D)](decret-n90-520-du-25-juin-1990-maej9030045d)
 - [Décret n°90-657 du 25 juillet 1990 (PRMX9000117D)](decret-n90-657-du-25-juillet-1990-prmx9000117d)
+- [Décret n°90-666 du 25 juillet 1990 (MCCK9000370D)](decret-n90-666-du-25-juillet-1990-mcck9000370d)
 - [Décret n°90-93 du 25 janvier 1990 (INTX9010034D)](decret-n90-93-du-25-janvier-1990-intx9010034d)
 - [Décret n°90-94 du 25 janvier 1990 (MERP9000002D)](decret-n90-94-du-25-janvier-1990-merp9000002d)
 - [Décret n°90-95 du 25 janvier 1990 (MERP9000003D)](decret-n90-95-du-25-janvier-1990-merp9000003d)
