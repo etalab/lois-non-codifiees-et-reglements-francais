@@ -1,13 +1,9 @@
 # Article 88
 
-Numérotage. - Dans chacune des sept épreuves les chevaux déclarés partants sont répartis en 8 groupes ainsi numérotés : groupes de 1 à 8 pour la première épreuve ; groupes de 9 à 16 pour la deuxième ; groupes de 17 à 24 pour la troisième ; groupes de 25 à 32 pour la quatrième ; groupes de 33 à 40 pour la cinquième ; groupes de 41 à 48 pour la sixième ; groupes de 49 à 56 pour la septième épreuve "bonus".
+Les parieurs peuvent enregistrer leurs paris "Grand 7" soit en désignant un des chevaux participant à chacune des sept premières courses, soit en choisissant de faire porter leurs paris sur le cheval favori de la course.
 
-L'affectation des chevaux aux groupes est faite, à partir du premier groupe de chaque épreuve, dans l'ordre numérique croissant des numéros des chevaux déclarés partants figurant au programme officiel.
+Dans ce dernier cas, pour chaque course, le cheval favori est le cheval prenant part à la course sur lequel le montant des enjeux recueillis dans les postes d'enregistrement du P.M.U. visés aux articles 97 et 99-1 du présent arrêté, en pari simple gagnant, y compris les mises initiales du pari par reports, auquel s'ajoutent les enjeux de même nature enregistrés à l'étranger, pris en compte pour la détermination du rapport simple gagnant, est le plus élevé.
 
-Chaque cheval engagé dans les six premières épreuves est ainsi, affecté au programme officiel d'un numéro de 1 à 48.
+Si, dans une course comportant plus de trois chevaux prenant part à la course, plusieurs chevaux enregistrent le même montant d'enjeux recueillis au sens de l'alinéa précédent, le cheval favori est, parmi eux, celui sur lequel le montant des enjeux recueillis dans les postes d'enregistrement du P.M.U. visés aux articles 97 et 99-1 du présent arrêté, en pari simple placé, y compris les mises initiales du pari par reports, auquel s'ajoutent les enjeux de même nature enregistrés à l'étranger, pris en compte pour la détermination des rapports simple placé, est le plus élevé.
 
-Chaque cheval engagé dans la septième épreuve "bonus" est affecté au programme officiel d'un numéro de 49 à 56.
-
-Lorsqu'une épreuve comporte moins de huit partants, les numéros de groupe supérieurs au nombre de partants sont attribués en repartant du premier cheval engagé dans l'épreuve. Dans ce cas, certains chevaux peuvent porter plusieurs numéros de groupes.
-
-Si l'un de ces chevaux est classé premier à l'arrivée, les numéros de groupe correspondants sont les numéros gagnants de l'épreuve.
+Si plusieurs chevaux, parmi les chevaux concernés, enregistrent le même montant d'enjeux recueillis à la fois en pari simple gagnant et placé, au sens des deux alinéas précédents, ou si, dans une course comportant moins de quatre chevaux prenant part à la course, plusieurs chevaux enregistrent le même montant d'enjeux recueillis en pari simple gagnant, au sens du deuxième alinéa ci-avant, celui d'entre eux portant le plus petit numéro est déclaré favori.

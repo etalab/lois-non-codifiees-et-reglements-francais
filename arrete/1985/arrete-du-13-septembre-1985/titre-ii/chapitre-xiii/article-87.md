@@ -1,21 +1,15 @@
 # Article 87
 
-Pour certaines épreuves désignées sur le programme officiel, des paris, dénommés "derby", peuvent être organisés.
+Pour certaines épreuves désignées sur le programme officiel, des paris dénommés "Grand 7" peuvent être organisés.
 
-Ces paris sont spécifiques au pari mutuel urbain et sont recueillis exclusivement dans les postes d'enregistrement du pari mutuel urbain.
+Ces paris sont spécifiques au pari mutuel urbain et sont recueillis exclusivement dans ses postes d'enregistrement.
 
-Les sept courses servant de support à ce mode de pari sont désignées sur le programme officiel respectivement, épreuves I, Il, III, IV, V, VI et VII.
+Un pari "Grand 7" consiste à désigner le cheval classé premier de chacune des sept premières courses d'une même réunion.
 
-Dans chacune de ces épreuves les chevaux déclarés partants sont répartis en huit groupes.
+Un pari "Grand 7" donne lieu à un rapport dit 7/7 si chacun des sept chevaux choisis occupe la première place de chacune des sept premières courses.
 
-Un pari "derby" consiste à désigner le numéro de groupe du cheval classé premier de chacune de ces épreuves.
+Il donne lieu à un rapport 6/7 si six des sept chevaux choisis occupent la première place de six des sept premières courses et qu'un des sept chevaux choisis occupe un rang supérieur à la première place dans une des sept premières courses.
 
-Un pari "derby" donne droit au paiement d'une fois le rapport de "sélection" s'il comporte la désignation des quatre numéros de groupe des chevaux classés premiers soit des quatre premières épreuves, soit des épreuves Il, III, IV et V.
+Il donne lieu à un rapport dit 5/7 si cinq des sept chevaux choisis occupent la première place de cinq des sept premières courses et que deux des sept chevaux choisis occupent chacun un rang supérieur à la première place dans deux des sept premières courses.
 
-Un pari "derby" donne droit au paiement d'une fois le rapport de "sélection" et d'une fois le rapport de "qualification" s'il comporte la désignation des cinq numéros de groupe des chevaux classés premiers soit des cinq premières épreuves, soit des épreuves II, III, IV, V et VI.
-
-Un pari "derby" est payable à la fois au rapport de "sélection", au rapport de "qualification" et au rapport "Challenger" s'il comporte la désignation des six numéros de groupe des chevaux classés premiers des six premières épreuves.
-
-Un pari "derby" est payable à la fois au rapport de "sélection", au rapport de "qualification", au rapport "challenger" et au rapport "champion" s'il comporte la désignation des six numéros de groupe des chevaux classés premiers des six premières épreuves et la désignation du numéro de groupe du cheval classé premier de la septième épreuve appelée "bonus".
-
-Chaque cheval participant aux épreuves est traité séparément dans la détermination des paris payables.
+Chaque cheval participant aux épreuves retenues pour le fonctionnement du pari "Grand 7" est traité séparément dans la détermination des paris gagnants.
