@@ -1,0 +1,5 @@
+# Article 20
+
+Pendant une période de trois ans à compter de la date de publication du présent décret, le concours prévu à l'article 5 (1°) ci-dessus reste ouvert aux candidats bacheliers justifiant du diplôme des sciences sociales du travail délivré par l'institut des sciences sociales du travail de l'université de Paris, ainsi qu'aux agents des services actifs de la Société nationale des chemins de fer français, d'Air France et de la Régie autonome des transports parisiens placés dans l'échelle des rémunérations à un emploi au moins égal aux emplois de début accessibles aux titulaires d'une licence, comptant au moins cinq années de présence dans ces services actifs en qualité d'agent titulaire et remplissant la condition d'âge prévue audit article 5 (1°).
+
+Pendant la même période de trois ans les âges limites prévus à l'article 5 (2°) ci-dessus ne seront pas opposables aux contrôleurs du travail, chefs de section et chefs de centre des services extérieurs du ministère chargé du travail et aux contrôleurs, contrôleurs principaux et contrôleurs divisionnaires des lois sociales en agriculture.
