@@ -29,7 +29,6 @@
 - [Loi n°72-1097 du 11 décembre 1972](loi-n72-1097-du-11-decembre-1972)
 - [Loi n°72-1128 du 21 décembre 1972](loi-n72-1128-du-21-decembre-1972)
 - [Loi n°72-1202 du 23 décembre 1972](loi-n72-1202-du-23-decembre-1972)
-- [Loi n°72-1223 du 29 décembre 1972](loi-n72-1223-du-29-decembre-1972)
 - [Loi n°72-467 du 9 juin 1972](loi-n72-467-du-9-juin-1972)
 - [Loi n°72-651 du 11 juillet 1972](loi-n72-651-du-11-juillet-1972)
 - [Loi n°72-652 du 11 juillet 1972](loi-n72-652-du-11-juillet-1972)
