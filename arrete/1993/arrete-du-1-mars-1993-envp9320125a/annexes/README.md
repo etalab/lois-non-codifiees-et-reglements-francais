@@ -4,7 +4,6 @@
 - [SUBSTANCES TRÈS TOXIQUES : POUR L'ENVIRONNEMENT AQUATIQUE VISEES A L'ARTICLE 32, PARAGRAPHE 3-17](substances-tres-toxiques)
 - [SUBSTANCES SUSCEPTIBLES D'AVOIR DES EFFETS NÉFASTES POUR L'ENVIRONNEMENT VISÉES À L'ARTICLE 32, PARAGRAPHE 3-17.](substances-susceptibles-d-avoir-des-effets-nefastes-pour-l-environnement-visees-a)
 - [SUBSTANCES VISÉES À L'ARTICLE 27-12.](substances-visees-a)
-- [MÉTHODES DE MESURE DE RÉFÉRENCE (ART. 21).](methodes-de-mesure-de-reference-art)
 - [COMPOSÉS ORGANIQUES VISÉS AUX ARTICLES 27 : (PARAGRAPHE 7-2), 52, 59 (PARAGRAPHE 7) ET 63.](composes-organiques-vises-aux)
 - [TITRES 4.3 ET 7.1 DE LA NORME NFU 44-041 RELATIVE AUX BOUES DES OUVRAGES DE TRAITEMENT DES EAUX USEjES URBAINES (ARTICLE 36).](titres-4-3-et)
 - [MÉTHODES DE MESURE DE RÉFÉRENCE.](methodes-de-mesure-de-reference)
