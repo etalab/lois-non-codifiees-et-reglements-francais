@@ -37,6 +37,7 @@
 - [Arrêté du 4 mai 2000 (EQUU0000364A)](arrete-du-4-mai-2000-equu0000364a)
 - [Arrêté du 4 mai 2000 (INTM0000012A)](arrete-du-4-mai-2000-intm0000012a)
 - [Arrêté du 4 mai 2000 (MENS0001054A)](arrete-du-4-mai-2000-mens0001054a)
+- [Arrêté du 5 juin 2000 (EQUK0001005A)](arrete-du-5-juin-2000-equk0001005a)
 - [Arrêté du 5 mai 1995 (BUDD9550002A)](arrete-du-5-mai-1995-budd9550002a)
 - [Arrêté du 5 mai 2000 (AGRG0000955A)](arrete-du-5-mai-2000-agrg0000955a)
 - [Arrêté du 5 mai 2000 (INTM0000019A)](arrete-du-5-mai-2000-intm0000019a)
