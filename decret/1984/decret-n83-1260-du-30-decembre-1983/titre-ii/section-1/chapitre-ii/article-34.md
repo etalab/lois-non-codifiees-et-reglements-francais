@@ -135,4 +135,4 @@ Les chargés de recherche qui réunissent dans leur grade les conditions d'ancie
 </tbody>
 </table>
 
-Les avancements d'échelon des chargés de recherche sont décidés chaque année par le directeur général de l'établissement.
+Les avancements d'échelon des chargés de recherche sont décidés par le directeur général de l'établissement.

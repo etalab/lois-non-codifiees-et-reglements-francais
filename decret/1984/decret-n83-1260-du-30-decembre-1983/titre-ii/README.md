@@ -5,4 +5,5 @@
 - [Section 3 : Mutations.](section-3)
 - [Section 4 : Commission administrative paritaire.](section-4)
 - [Article 9](article-9.md)
+- [Article 10](article-10.md)
 - [Article 11](article-11.md)

@@ -1,0 +1,5 @@
+# Article 26
+
+Les personnels scientifiques contractuels des établissements publics de recherche, de l'enseignement supérieur public ainsi que ceux qui appartiennent à un organisme de recherche étranger ou à un organisme d'enseignement supérieur étranger nommés dans le corps des chargés de recherche sont classés à un échelon déterminé en tenant compte au temps passé par eux dans une fonction correspondant au moins à celle qui est exercée par les membres de ce corps. Ce temps est compté pour les deux tiers de sa durée effective. Après avis de l'instance d'évaluation de l'établissement, la durée ainsi prise en compte pourra être augmentée jusqu'à concurrence de l'intégralité du temps défini ci-dessus.
+
+Un arrêté conjoint du ou des ministres chargés de la tutelle de l'établissement, du ministre chargé de la recherche, du ministre chargé du budget et du ministre chargé de la fonction publique fixe pour les personnels contractuels des établissements publics de recherche et les personnels appartenant à l'enseignement supérieur public les équivalences en matière de fonctions exercées prévues à l'alinéa précédent.
