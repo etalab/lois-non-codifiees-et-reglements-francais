@@ -41,6 +41,7 @@
 - [Décret n°84-277 du 6 avril 1984](decret-n84-277-du-6-avril-1984)
 - [Décret n°84-585 du 6 juillet 1984](decret-n84-585-du-6-juillet-1984)
 - [Décret n°84-822 du 6 septembre 1984](decret-n84-822-du-6-septembre-1984)
+- [Décret n°84-985 du 6 novembre 1984](decret-n84-985-du-6-novembre-1984)
 - [Décret n°83-903 du 7 octobre 1983](decret-n83-903-du-7-octobre-1983)
 - [Décret n°84-1127 du 7 décembre 1984](decret-n84-1127-du-7-decembre-1984)
 - [Décret n°84-832 du 7 septembre 1984](decret-n84-832-du-7-septembre-1984)
