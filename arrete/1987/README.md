@@ -131,6 +131,7 @@
 - [Arrêté du 6 octobre 1986 (DEFC8701012A)](arrete-du-6-octobre-1986-defc8701012a)
 - [Arrêté du 6 octobre 1987 (AGRB8701730A)](arrete-du-6-octobre-1987-agrb8701730a)
 - [Arrêté du 6 octobre 1987 (AGRB8701731A)](arrete-du-6-octobre-1987-agrb8701731a)
+- [Arrêté du 6 octobre 1987 (RESP8700659A)](arrete-du-6-octobre-1987-resp8700659a)
 - [Arrêté du 6 mai 1987 (ACVE8750011A)](arrete-du-6-mai-1987-acve8750011a)
 - [Arrêté du 6 mai 1987 (ACVE8750012A)](arrete-du-6-mai-1987-acve8750012a)
 - [Arrêté du 6 mai 1987 (ASES8700704A)](arrete-du-6-mai-1987-ases8700704a)

@@ -1,0 +1,3 @@
+# Article 1
+
+Les membres de la commission spéciale prévue par l'article 38 du décret du 12 mars 1986 susvisé sont désignés parmi les membres de la 30e section (Astronomie, astrophysique, physique de l'environnement terrestre, météorologie) et de la 34e section (Géophysique : physique du globe, géophysique interne, océanographie physique, fondamentales et appliquées, génie océanique) du Conseil national des universités et parmi les membres de la 18e section (Astronomie et environnement planétaire) et de la 21e section (Terre : physique, chimie et dynamique interne) du Comité national de la recherche scientifique.
