@@ -182,6 +182,7 @@
 - [Décret n°85-623 du 19 juin 1985](decret-n85-623-du-19-juin-1985)
 - [Décret n°85-631 du 19 juin 1985](decret-n85-631-du-19-juin-1985)
 - [Décret n°85-755 du 19 juillet 1985](decret-n85-755-du-19-juillet-1985)
+- [Décret n°85-993 du 19 septembre 1985](decret-n85-993-du-19-septembre-1985)
 - [Décret n°85-253 du 20 février 1985](decret-n85-253-du-20-fevrier-1985)
 - [Décret n°85-348 du 20 mars 1985](decret-n85-348-du-20-mars-1985)
 - [Décret n°85-349 du 20 mars 1985](decret-n85-349-du-20-mars-1985)
