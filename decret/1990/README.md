@@ -493,6 +493,8 @@
 - [Décret n°90-1033 du 19 novembre 1990 (AGRG9001693D)](decret-n90-1033-du-19-novembre-1990-agrg9001693d)
 - [Décret n°90-1142 du 19 décembre 1990 (EQUP9001673D)](decret-n90-1142-du-19-decembre-1990-equp9001673d)
 - [Décret n°90-1151 du 19 décembre 1990 (MENZ9002501D)](decret-n90-1151-du-19-decembre-1990-menz9002501d)
+- [Décret n°90-1153 du 19 décembre 1990 (TEFX9000188D)](decret-n90-1153-du-19-decembre-1990-tefx9000188d)
+- [Décret n°90-1154 du 19 décembre 1990 (EQUX9000182D)](decret-n90-1154-du-19-decembre-1990-equx9000182d)
 - [Décret n°90-158 du 19 février 1990 (ECOA9000006D)](decret-n90-158-du-19-fevrier-1990-ecoa9000006d)
 - [Décret n°90-161 du 19 février 1990 (AGRS8902331D)](decret-n90-161-du-19-fevrier-1990-agrs8902331d)
 - [Décret n°90-162 du 19 février 1990 (AGRS8902332D)](decret-n90-162-du-19-fevrier-1990-agrs8902332d)
