@@ -1,13 +1,137 @@
 # Article 2
 
-La cotisation annuelle des vétérinaires est calculée en fonction d'un certain nombre d'actes médicaux, compte tenu de l'âge des intéressés.
+Chaque vétérinaire doit verser sa cotisation dans une classe déterminée selon son revenu professionnel libéral net imposable de l'avant-dernière année.
 
-La valeur moyenne de l'acte médical est constatée par le conseil supérieur de l'ordre des vétérinaires.
+La cotisation est exprimée sous la forme d'un multiple de l'acte médical vétérinaire (AMV) dont la valeur est fixée par le conseil de l'ordre de la profession.
 
-Le nombre d'actes médicaux servant de base au calcul de la cotisation annuelle du régime d'assurance vieillesse complémentaire des vétérinaires est fixé à 144 pour les intéressés âgés de moins de trente-deux ans ou de plus de soixante-cinq ans et à 228 pour les assurés âgés de trente-deux ans à soixante-cinq ans. L'âge entrant en ligne de compte est l'âge du vétérinaire au premier jour du semestre pour lequel la cotisation est versée.
+Elle est appelée sur les bases suivantes :
 
-La cotisation définie au précédant alinéa constitue la cotisation de la classe obligatoire dite classe A.
+<table>
+<tbody>
+<tr>
+<td valign="top" width="205">
+<p align="center">REVENU PROFESSIONNEL</p>
+</td>
+<td valign="top" width="205">
+<p align="center">CLASSE</p>
+</td>
+<td valign="top" width="205">
+<p align="center">COTISATION</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="205">
+<p>Inférieur à 4 500 AMV</p>
+</td>
+<td valign="top" width="205">
+<p align="center">B</p>
+</td>
+<td valign="top" width="205">
+<p align="center">480 AMV</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="205">
+<p>Compris entre 4 500 et 6 000 AMV</p>
+</td>
+<td valign="top" width="205">
+<p align="center">C</p>
+</td>
+<td valign="top" width="205">
+<p align="center">600 AMV</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="205">
+<p>Supérieur à 6000 AMV</p>
+</td>
+<td valign="top" width="205">
+<p align="center">D</p>
+</td>
+<td valign="top" width="205">
+<p align="center">720 AMV</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-Les vétérinaires dont les revenus professionnels libéraux sont inférieurs aux plafonds définis par les statuts visés à l'article 4 peuvent demander, dans les conditions prévues par lesdits statuts, à opter pour l'une des deux classes spéciales I et II. Les cotisations de la classe I sont fixées à 48 actes médicaux vétérinaires pour les intéressés âgés de moins de trente-deux ans ou de plus de soixante-cinq ans et à 76 actes médicaux vétérinaires pour les intéressés âgés de trente-deux ans à soixante-cinq ans. Les cotisations de la classe II sont fixées à 96 actes médicaux vétérinaires pour les intéressés âgés de moins de trente-deux ans ou de plus de soixante-cinq ans et à 152 actes médicaux vétérinaires pour les intéressés âgés de trente-deux ans à soixante-cinq ans.    Des exonérations pourront être accordées par le conseil d'administration de la section dans les conditions prévues par les statuts visés à l'article 4 en cas de maladie, invalidité, infortune notoire constatée.
+Le vétérinaire dont le revenu professionnel est inférieur à 3 000 AMV peut demander à cotiser à une classe réduite selon les conditions suivantes :
 
-A titre transitoire, l'âge en deçà duquel les jeunes vétérinaires bénéficient des cotisations minorées fixées à 144, 48 et 96 actes médicaux vétérinaires par les troisième et cinquième alinéas du présent article est de trente-quatre ans pour les années 1993 et 1994 et de trente-trois ans pour les années 1995 et 1996.
+<table>
+<tbody>
+<tr>
+<td valign="top" width="205">
+<p align="center">REVENU PROFESSIONNEL</p>
+</td>
+<td valign="top" width="205">
+<p align="center">CLASSE</p>
+</td>
+<td valign="top" width="205">
+<p align="center">COTISATION</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="205">
+<p>Inférieur à 1 000 AMV</p>
+</td>
+<td valign="top" width="205">
+<p align="center">Super spéciale I</p>
+</td>
+<td valign="top" width="205">
+<p align="center">60 AMV</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="205">
+<p>Compris entre 1000 et 1 499 AMV</p>
+</td>
+<td valign="top" width="205">
+<p align="center">Super spéciale II</p>
+</td>
+<td valign="top" width="205">
+<p align="center">90 AMV</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="205">
+<p>Compris entre 1 500 et 1 999 AMV</p>
+</td>
+<td valign="top" width="205">
+<p align="center">Spéciale I</p>
+</td>
+<td valign="top" width="205">
+<p align="center">120 AMV</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="205">
+<p>Compris entre 2 000 et 2 799 AMV</p>
+</td>
+<td valign="top" width="205">
+<p align="center">Spéciale II</p>
+</td>
+<td valign="top" width="205">
+<p align="center">240 AMV</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="205">
+<p>Compris entre 2 800 et 3 000 AMV</p>
+</td>
+<td valign="top" width="205">
+<p align="center">A</p>
+</td>
+<td valign="top" width="205">
+<p align="center">360 AMV</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Chaque vétérinaire peut opter pour une classe supérieure à celle à laquelle le rattache les conditions de revenus sauf s'il a demandé à cotiser dans une des classes réduites.
+
+Les cotisations des classes super spéciale I, super spéciale II, spéciale I, spéciale II, A, B, C et D donnent respectivement droit à 2, 3, 4, 8, 12, 16, 20 et 24 points de retraite dont la valeur unitaire est déterminée chaque année par le conseil d'administration de la caisse.
+
+A chaque cotisation versée peut s'ajouter, à la demande de l'intéressé, une majoration fixée en pourcentage de ladite cotisation par les statuts mentionnés à l'article 4. Cette majoration ouvre droit à une prestation supplémentaire en faveur du conjoint survivant, dans les conditions prévues par lesdits statuts.
+
+Le taux d'appel des cotisations est fixé chaque année par décret sur proposition du conseil d'administration de la section professionnelle des vétérinaires.
