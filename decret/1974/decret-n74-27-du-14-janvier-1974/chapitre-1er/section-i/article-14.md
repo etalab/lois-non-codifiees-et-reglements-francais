@@ -1,0 +1,3 @@
+# Article 14
+
+Lorsque les malades autres que les bénéficiaires de l'aide médicale optent pour un régime différent du régime commun, c'est-à-dire pour le régime particulier, le secteur privé ou la clinique ouverte, l'option est formulée par écrit, dès l'entrée du malade, par lui-même, un membre de sa famille ou son accompagnant, après que l'intéressé a pris connaissance des conditions particulières qu'implique le choix de l'une ou de l'autre de ces catégories. L'engagement de payer les suppléments au prix de journée, qui doivent être précisément indiqués, doit être signé en même temps, sous réserve, en ce qui concerne les assurés sociaux, des conventions entre les établissements hospitaliers et les organismes prenant en charge les frais de soins.

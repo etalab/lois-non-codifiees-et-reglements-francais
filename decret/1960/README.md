@@ -9,6 +9,7 @@
 - [Décret n°60-940 du 5 septembre 1960](decret-n60-940-du-5-septembre-1960)
 - [Décret n° 61-1362 du 6 décembre 1961](decret-n-61-1362-du-6-decembre-1961)
 - [Décret n°60-1089 du 6 octobre 1960](decret-n60-1089-du-6-octobre-1960)
+- [Décret n°60-654 du 6 juillet 1960](decret-n60-654-du-6-juillet-1960)
 - [Décret n°60-848 du 6 août 1960](decret-n60-848-du-6-aout-1960)
 - [Décret n°60-1193 du 7 novembre 1960](decret-n60-1193-du-7-novembre-1960)
 - [Décret n°60-116 du 8 février 1960](decret-n60-116-du-8-fevrier-1960)
