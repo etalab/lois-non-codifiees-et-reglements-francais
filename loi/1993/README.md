@@ -14,6 +14,7 @@
 - [Loi n° 93-1 du 4 janvier 1993 (DOMX9200114L)](loi-n-93-1-du-4-janvier-1993-domx9200114l)
 - [Loi n° 93-121 du 27 janvier 1993 (SPSX9200178L)](loi-n-93-121-du-27-janvier-1993-spsx9200178l)
 - [Loi n° 93-122 du 29 janvier 1993 (PRMX9200148L)](loi-n-93-122-du-29-janvier-1993-prmx9200148l)
+- [Loi n° 93-2 du 4 janvier 1993 (JUSX9200023L)](loi-n-93-2-du-4-janvier-1993-jusx9200023l)
 - [Loi n° 93-20 du 7 janvier 1993 (MENX9200073L)](loi-n-93-20-du-7-janvier-1993-menx9200073l)
 - [Loi n° 93-22 du 8 janvier 1993 (JUSX9100195L)](loi-n-93-22-du-8-janvier-1993-jusx9100195l)
 - [Loi n° 93-23 du 8 janvier 1993 (INTX9200170C)](loi-n-93-23-du-8-janvier-1993-intx9200170c)

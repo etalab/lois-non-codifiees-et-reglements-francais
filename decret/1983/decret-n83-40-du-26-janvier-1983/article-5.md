@@ -10,9 +10,9 @@ b) Personnel des services d'incendie : six heures ;
 
 c) Personnel roulant effectuant des transports de marchandises, affecté à des services impliquant habituellement un retour quotidien à l'établissement d'attache : deux heures.
 
-Paragraphe 3. Par dérogation au paragraphe 1 ci-dessus, et à titre transitoire, les périodes de simple présence, d'attente ou de disponibilité, passées au lieu de travail ou sur le véhicule, à l'exception des temps visés au paragraphe 5 et pendant lesquelles le personnel ne dispose pas librement de son temps mais reste à la disposition de l'employeur sont dénommées Temps à disposition et ne sont comptées comme travail effectif que pour une fraction égale à 85 p. 100.
+Paragraphe 3. Par dérogation au paragraphe 1 ci-dessus, et à titre transitoire, les périodes de simple présence, d'attente ou de disponibilité, passées au lieu de travail ou sur le véhicule, à l'exception des temps visés au paragraphe 5, et pendant lesquelles le personnel ne dispose pas librement de son temps mais reste à la disposition de l'employeur, sont dénommées Temps à disposition et ne sont comptées comme travail effectif que pour une fraction égale à 92 p. 100.
 
-La durée du travail effectif résultant de l'application des dispositions de l'alinéa ci-dessus et du paragraphe 1 du présent article ne peut, sur la période retenue pour établir la paie, être inférieure à 96 p. 100 de la totalité du temps au service de l'employeur.
+La durée du travail effectif résultant de l'application des dispositions de l'alinéa ci-dessus et du paragraphe 1 du présent article ne peut, sur la période retenue pour établir la paie, être inférieure à 98 p. 100 de la totalité du temps passé au service de l'employeur.
 
 Les dispositions du présent paragraphe 3 s'appliquent :
 

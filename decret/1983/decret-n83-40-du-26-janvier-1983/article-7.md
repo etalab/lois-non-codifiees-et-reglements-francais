@@ -8,4 +8,4 @@ Paragraphe 3. Cette durée pourra être portée à douze heures une seconde fois
 
 Paragraphe 4. Le comité d'entreprise ou, à défaut, les délégués du personnel s'ils existent, émettent un avis sur les dépassements à la durée quotidienne de dix heures visés aux paragraphes 2 et 3.
 
-Paragraphe 5. Les dispositions du présent article ne peuvent avoir pour effet de déroger à celles du règlement C.E.E. n° 543-69 du 25 mars 1969.
+Paragraphe 5. Les dispositions du présent article ne peuvent avoir pour effet de déroger à celles du règlement C.E.E. n° 3820-85 du 20 décembre 1985.
