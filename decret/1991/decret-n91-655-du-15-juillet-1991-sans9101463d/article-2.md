@@ -1,0 +1,3 @@
+# Article 2
+
+Les centres de santé disposent d'un délai de six mois à compter de la publication du présent décret pour adresser à la caisse primaire d'assurance maladie la demande prévue à l'article D. 162-29 du code de la sécurité sociale. Les conventions conclues se substituent de plein droit à tous accords et conventions antérieurs, dès leur signature. A l'expiration du délai de six mois précité, les centres de santé qui n'ont pas adressé à la caisse primaire d'assurance maladie la demande de conventionnement prévue à l'article D. 162-29 précité sont soumis aux dispositions du dernier alinéa de l'article D. 162-32 du code de la sécurité sociale.
