@@ -52,6 +52,8 @@
 - [Décret n°64-754 du 25 juillet 1964](decret-n64-754-du-25-juillet-1964)
 - [Décret n°64-1008 du 26 septembre 1964](decret-n64-1008-du-26-septembre-1964)
 - [Décret n°64-453 du 26 mai 1964](decret-n64-453-du-26-mai-1964)
+- [Décret n°64-1183 du 27 novembre 1964](decret-n64-1183-du-27-novembre-1964)
+- [Décret n°64-1188 du 27 novembre 1964](decret-n64-1188-du-27-novembre-1964)
 - [Décret n°64-627 du 27 juin 1964](decret-n64-627-du-27-juin-1964)
 - [Décret n°64-636 du 27 juin 1964](decret-n64-636-du-27-juin-1964)
 - [Décret n°64-775 du 28 juillet 1964](decret-n64-775-du-28-juillet-1964)
