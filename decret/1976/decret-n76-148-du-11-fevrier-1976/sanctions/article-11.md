@@ -1,5 +1,0 @@
-# Article 11
-
-Toute infraction aux dispositions du présent décret est punie d'une amende de 3000 à 6000 F [*(1)*] et de l'emprisonnement pendant huit jours au plus ou de l'une de ces deux peines seulement. En cas de récidive, la peine d'amende peut être doublée et la peine d'emprisonnement portée à quinze jours.    En cas d'urgence, dès la constatation de l'infraction, l'autorité investie du pouvoir de police peut ordonner soit la suppression des dispositifs non conformes à la réglementation, soit leur mise en conformité et, le cas échéant, la remise en état des lieux.
-
-Faute pour les intéressés de déférer à cette injonction dans le délai qui leur est imparti pour ce faire, l'autorité investie du pouvoir de police peut, dans l'intérêt de la sécurité, faire procéder d'office, à leurs frais, à la suppression du dispositif et à la remise en état des lieux. Par intéressés, il faut, suivant le cas, entendre soit les responsables de la mise en place du dispositif, soit le propriétaire de celui-ci ou de l'emplacement où il se trouve, soit ceux pour le compte de qui la publicité a été réalisée.

@@ -35,7 +35,6 @@
 - [Décret n°76-769 du 9 août 1976](decret-n76-769-du-9-aout-1976)
 - [Décret n°78-293 du 10 mars 1978](decret-n78-293-du-10-mars-1978)
 - [Décret n°76-405 du 10 mai 1976](decret-n76-405-du-10-mai-1976)
-- [Décret n°76-148 du 11 février 1976](decret-n76-148-du-11-fevrier-1976)
 - [Décret n°76-930 du 11 octobre 1976](decret-n76-930-du-11-octobre-1976)
 - [Décret n°76-1040 du 12 novembre 1976](decret-n76-1040-du-12-novembre-1976)
 - [Décret n°76-158 du 12 février 1976](decret-n76-158-du-12-fevrier-1976)
