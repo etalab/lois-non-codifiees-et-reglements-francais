@@ -10,7 +10,7 @@ A. - Sur l'ensemble du territoire douanier.
 
 Pays tiers.
 
-2. Plants, boutures, greffons, fruits avec pédoncules des végétaux des genres Citrus, Fortunella, Poncirus :
+2. Plants, boutures, greffons, fruits avec pédoncules des végétaux d'agrumes (Citrus L., Fortunella Swingle, Poncirus Raf., ou leurs hybrides) :
 
 Ex 06.02 et Ex 08.05 : Tous pays.
 

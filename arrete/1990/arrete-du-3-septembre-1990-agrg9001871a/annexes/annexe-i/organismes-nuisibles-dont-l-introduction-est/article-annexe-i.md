@@ -214,7 +214,7 @@ Autres virus nuisibles et MLO(s) pour autant qu'ils n'existent pas dans la Commu
 
 7. Elm phloem necrosis MLO.
 
-8. Virus des agrumes (Citrus L.).
+8. Virus de végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., ou leurs hybrides.
 
 9. Tomato Spotted Wilt virus.
 
