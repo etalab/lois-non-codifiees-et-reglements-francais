@@ -570,6 +570,8 @@
 - [Décret n°92-1009 du 17 septembre 1992 (EQUU9201130D)](decret-n92-1009-du-17-septembre-1992-equu9201130d)
 - [Décret n°92-1011 du 17 septembre 1992 (SPSC9201761D)](decret-n92-1011-du-17-septembre-1992-spsc9201761d)
 - [Décret n°92-1025 du 17 septembre 1992 (ECOM9285001D)](decret-n92-1025-du-17-septembre-1992-ecom9285001d)
+- [Décret n°92-1224 du 17 novembre 1992 (MENB9200288D)](decret-n92-1224-du-17-novembre-1992-menb9200288d)
+- [Décret n°92-1225 du 17 novembre 1992 (MAEJ9230067D)](decret-n92-1225-du-17-novembre-1992-maej9230067d)
 - [Décret n°92-149 du 17 février 1992 (BUDZ9200004D)](decret-n92-149-du-17-fevrier-1992-budz9200004d)
 - [Décret n°92-150 du 17 février 1992 (COMC9200001D)](decret-n92-150-du-17-fevrier-1992-comc9200001d)
 - [Décret n°92-245 du 17 mars 1992 (JUSA9200057D)](decret-n92-245-du-17-mars-1992-jusa9200057d)
