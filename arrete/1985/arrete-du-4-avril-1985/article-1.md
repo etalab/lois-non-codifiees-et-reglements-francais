@@ -1,3 +1,5 @@
 # Article 1
 
-Le contrôle financier auquel sont soumises la Caisse nationale de l'industrie et la Caisse nationale des banques est exercé par un contrôleur financier désigné par le ministre chargé du budget et placé sous son autorité.
+L'agrément institué par l'article 79 de la loi de finances pour 1985 susvisée au profit des fondations ou associations d'intérêt général et à caractère culturel est délivré par le directeur régional des impôts sur proposition du préfet de région.
+
+Si l'affaire est évoquée au niveau ministériel, l'agrément est délivré conjointement par le ministre de l'économie, des finances et du budget et par le ministre de la culture.
