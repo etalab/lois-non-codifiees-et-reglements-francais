@@ -4,4 +4,4 @@ Le montant annuel de l'aide destinée à financer le poste occupé à temps plei
 
 Cette aide est proratisée en fonction de la durée annuelle d'occupation du poste d'accompagnement et du nombre de salariés en insertion mis à disposition (équivalent temps plein).
 
-Cette aide ne peut se cumuler pour un même poste avec une autre aide à l'emploi financée par l'Etat.
+Cette aide ne peut se cumuler, pour un même salarié, avec une autre aide à l'emploi, à l'exception des aides attribuées aux entreprises dans le cadre de l'article 3 de la loi n° 98-461 du 13 juin 1998 ou d'allégements institués dans le cadre de la réduction de la durée légale du travail. Ces dispositions sont applicables à compter du 1er juin 1999.
