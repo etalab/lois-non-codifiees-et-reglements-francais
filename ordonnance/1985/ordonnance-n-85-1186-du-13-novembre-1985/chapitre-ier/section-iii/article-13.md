@@ -1,0 +1,3 @@
+# Article 13
+
+La révision des bases d'imposition des propriétés rurales, bâties ou non bâties, est effectuée par une commission communale spéciale, dont la composition est arrêtée par l'exécutif du territoire, après consultation du président du conseil de région, et du maire de la commune sur le territoire de laquelle sont sis les biens, compte tenu de la composition des commissions foncières communales créées par l'ordonnance n° 82-880 du 15 octobre 1982 précitée. Pour les propriétés urbaines, la même commission établit de la même façon un tarif d'évaluation définissant la valeur locative compte tenu de la situation, de l'état, de l'affectation et de l'usage des biens.

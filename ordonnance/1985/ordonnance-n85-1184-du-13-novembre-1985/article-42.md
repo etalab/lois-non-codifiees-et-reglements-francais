@@ -1,0 +1,3 @@
+# Article 42
+
+Le Premier ministre, le ministre d'Etat, chargé du Plan et de l'aménagement du territoire, le ministre de l'économie, des finances et du budget, le ministre de l'agriculture, le ministre du redéploiement industriel et du commerce extérieur, le ministre de l'urbanisme, du logement et des transports, le ministre du commerce, de l'artisanat et du tourisme, le ministre chargé de la Nouvelle-Calédonie, le secrétaire d'Etat auprès du Premier ministre, chargé de l'économie sociale, et le secrétaire d'Etat auprès du ministre de l'économie, des finances et du budget, chargé du budget et de la consommation, sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.

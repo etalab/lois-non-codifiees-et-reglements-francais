@@ -1,0 +1,3 @@
+# Article 10
+
+Article abrogé par la loi 86-844 1986-07-17 art. 49.
