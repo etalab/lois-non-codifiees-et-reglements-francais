@@ -1,6 +1,6 @@
 # Décret n°85-643 du 26 juin 1985 relatif aux centres de gestion institués par la loi n° 84-53 du 26 janvier 1984 modifiée portant dispositions statutaires relative à la fonction publique territoriale.
 
 - [TITRE I : Des centres départementaux de gestion de la fonction publique territoriale](titre-i)
-- [TITRE III : Des centres interdépartementaux de gestion de la région    d'Ile-de-France et du centre unique de gestion de Paris](titre-iii)
+- [TITRE III : Des centres interdépartementaux de gestion de la région d'Ile-de-France](titre-iii)
 - [TITRE IV : Du centre national de gestion de la fonction publique territoriale.](titre-iv)
 - [TITRE V : Dispositions transitoires.](titre-v)
