@@ -20,6 +20,7 @@
 - [Arrêté du 25 février 1980](arrete-du-25-fevrier-1980)
 - [Arrêté du 25 janvier 1980](arrete-du-25-janvier-1980)
 - [Arrêté du 27 février 1980](arrete-du-27-fevrier-1980)
+- [Arrêté du 28 avril 1980](arrete-du-28-avril-1980)
 - [Arrêté du 28 mars 1979](arrete-du-28-mars-1979)
 - [Arrêté du 29 février 1980](arrete-du-29-fevrier-1980)
 - [Arrêté du 31 mars 1980](arrete-du-31-mars-1980)
