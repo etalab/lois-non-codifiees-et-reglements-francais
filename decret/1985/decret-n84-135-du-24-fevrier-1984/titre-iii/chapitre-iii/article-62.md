@@ -2,7 +2,7 @@
 
 Par dérogation aux dispositions de l'article précédent, deux concours spéciaux sont réservés :
 
-a) Le premier, aux chercheurs d'organismes publics à caractère scientifique, de l'institut Pasteur et des centres de lutte contre le cancer, titulaires de l'habilitation à diriger des travaux de recherche et aux enseignants-chercheurs de disciplines non médicales titulaires de l'habilitation à diriger des travaux de recherche ;
+a) Le premier, aux chercheurs d'organismes publics à caractère scientifique et de l'institut Pasteur et des centres de lutte contre le cancer, titulaires de l'habilitation à diriger des travaux de recherche ou du doctorat d'Etat délivré avant le 1er octobre 1987 et aux enseignants chercheurs des disciplines non médicales titulaires de l'habilitation à diriger des travaux de recherche ou du doctorat d'Etat délivré avant le 1er octobre 1987.
 
 b) Le second, aux praticiens hospitaliers régis par le décret du 24 février 1984 susvisé, ayant 8 ans d'ancienneté en cette qualité, ayant exercé une activité enseignante universitaire dans les conditions prévues par leur statut particulier.
 
