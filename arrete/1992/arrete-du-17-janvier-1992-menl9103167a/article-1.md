@@ -1,0 +1,3 @@
+# Article 1
+
+Dans le cadre de la scolarité des lycées, à l'issue de la classe de seconde de la voie générale et technologique, les élèves poursuivent des études sanctionnées soit par l'examen du baccalauréat général dans l'une des séries L (Littéraire), ES (Economique et sociale), S (Scientifique), soit par l'examen du baccalauréat technologique dans l'une des séries STT (Sciences et technologies tertiaires), STI (Sciences et technologies industrielles), STL (Sciences et techniques de laboratoire), SMS (Sciences médico-sociales), Arts appliqués, Techniques de la musique et de la danse, Hôtellerie, STAE (Sciences et technologies de l'agronomie et de l'environnement), soit par l'examen du brevet de technicien dans une spécialité donnée ou du brevet de technicien agricole.
