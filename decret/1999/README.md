@@ -99,7 +99,6 @@
 - [Décret n°99-706 du 3 août 1999 (JUSD9930105D)](decret-n99-706-du-3-aout-1999-jusd9930105d)
 - [Décret n°99-707 du 3 août 1999 (INTC9900179D)](decret-n99-707-du-3-aout-1999-intc9900179d)
 - [Décret n°99-708 du 3 août 1999 (INTC9900180D)](decret-n99-708-du-3-aout-1999-intc9900180d)
-- [Décret n°99-71 du 3 février 1999 (ECOT9914006D)](decret-n99-71-du-3-fevrier-1999-ecot9914006d)
 - [Décret n°99-710 du 3 août 1999 (ECOT9926241D)](decret-n99-710-du-3-aout-1999-ecot9926241d)
 - [Décret n°99-711 du 3 août 1999 (MESW9911053D)](decret-n99-711-du-3-aout-1999-mesw9911053d)
 - [Décret n°99-713 du 3 août 1999 (JUSA9900119D)](decret-n99-713-du-3-aout-1999-jusa9900119d)
