@@ -4,7 +4,7 @@ Peuvent être exécutés par des auxiliaires médicaux qualifiés et uniquement 
 
 1° Prise de la tension artérielle.
 
-2° à 14° (alinéas supprimés)
+2° à 14° (alinéa supprimés)
 
 15° Aérosols (à la condition que la solution administrée soit prescrite par le médecin sur ordonnance sur laquelle doivent figurer et la dose d'aérosols à utiliser chaque fois et la durée des séances et leur nombre).
 
@@ -32,6 +32,6 @@ Des courants de moyenne et basse fréquence.
 
 24° Rééducation orthoptique.
 
-25° Rééducation de la parole et du langage.
+25° (alinéa supprimé)
 
 26° Le maniement des appareils servant à enregistrer le pouls.
