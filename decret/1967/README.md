@@ -57,6 +57,7 @@
 - [Décret n°67-953 du 23 octobre 1967](decret-n67-953-du-23-octobre-1967)
 - [Décret n°67-936 du 24 octobre 1967](decret-n67-936-du-24-octobre-1967)
 - [Décret n°67-955 du 24 octobre 1967](decret-n67-955-du-24-octobre-1967)
+- [Décret n°68-929 du 24 octobre 1968](decret-n68-929-du-24-octobre-1968)
 - [Décret n°67-744 du 25 août 1967](decret-n67-744-du-25-aout-1967)
 - [Décret n°67-539 du 26 juin 1967](decret-n67-539-du-26-juin-1967)
 - [Décret n°67-540 du 26 juin 1967](decret-n67-540-du-26-juin-1967)
