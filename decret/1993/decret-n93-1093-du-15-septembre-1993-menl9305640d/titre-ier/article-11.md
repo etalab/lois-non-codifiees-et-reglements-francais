@@ -11,3 +11,5 @@ Le renoncement à un bénéfice de notes, lors d'une session, est définitif et 
 Pour les candidats visés à l'alinéa 2, à chaque session le calcul de la moyenne pour l'admission s'effectue sur la base des notes conservées et des notes obtenues aux épreuves nouvellement subies.
 
 Aucune mention ne peut être attribuée aux candidats qui ont demandé à conserver le bénéfice de notes en application des dispositions de l'alinéa 2 du présent article.
+
+Les dispositions des alinéas 2, 3, 4, 5 et 6 du présent article s'appliquent aux candidats scolarisés handicapés physiques moteurs ou sensoriels et aux candidats atteints de maladie grave, dans des conditions fixées par arrêté du ministre chargé de l'éducation nationale.

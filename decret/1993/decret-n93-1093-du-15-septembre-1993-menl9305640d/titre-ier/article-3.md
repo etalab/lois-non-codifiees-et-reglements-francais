@@ -4,9 +4,7 @@ L'examen comprend des épreuves obligatoires et des épreuves facultatives. Les 
 
 Les épreuves obligatoires sont réparties en deux groupes. L'ensemble des épreuves obligatoires compose le premier groupe d'épreuves. Le second groupe d'épreuves est constitué d'épreuves de contrôle portant sur les disciplines ayant fait l'objet d'épreuves du premier groupe, anticipées ou non.
 
-Dans le cadre des dispositions réglementaires propres à chaque série, les candidats ne peuvent être inscrits à plus de trois épreuves facultatives correspondant aux options où à plus de deux épreuves facultatives lorsqu'ils sont par ailleurs évalués à un atelier de pratique suivant les dispositions de l'alinéa suivant.
-
-Les enseignements suivis au cours du cycle terminal dans le cadre des ateliers de pratique donnent lieu à l'attribution d'une note au baccalauréat dans des conditions définies par le ministre chargé de l'éducation nationale ou par le ministre chargé de l'agriculture pour les ateliers de pratique spécifiques aux établissements qui relèvent de ses attributions. Les candidats ne sont évalués au baccalauréat que pour un seul atelier de pratique.
+Les candidats ne peuvent être inscrits à plus de trois épreuves facultatives correspondant aux options.
 
 La liste, la nature, la durée et le coefficient des épreuves des différentes séries sont fixés par arrêtés du ministre chargé de l'éducation nationale ou, pour les séries S.T.A.E. et S.T.P.A., par arrêté conjoint du ministre chargé de l'éducation nationale et du ministre chargé de l'agriculture. Les conditions dans lesquelles la note attribuée à certaines épreuves peut prendre en compte des résultats obtenus en cours d'année scolaire sont définies par arrêté du ministre chargé de l'éducation nationale ou, pour les séries S.T.A.E. et S.T.P.A., par arrêté du ministre chargé de l'agriculture.
 

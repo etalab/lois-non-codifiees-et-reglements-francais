@@ -12,4 +12,4 @@ Les mesures prévues ci-dessus sont applicables dans les conditions suivantes au
 
 - candidats autorisés par dérogation à subir toutes les épreuves la même année : les règles ci-dessus leur sont applicables.
 
-La session de remplacement ne comporte pas d'épreuves d'éducation physique et sportive ni d'épreuves facultatives. Les notes éventuellement obtenues à la session normale, à l'épreuve d'éducation physique et sportive et aux épreuves facultatives, de même que la note d'atelier de pratique, sont reportées et prises en compte à la session de remplacement.
+La session de remplacement ne comporte pas d'épreuves d'éducation physique et sportive ni d'épreuves facultatives. Les notes obtenues à la session normale, à l'épreuve d'éducation physique et sportive et, le cas échéant, aux épreuves facultatives sont reportées et prises en compte pour la session de remplacement.

@@ -9,5 +9,3 @@ Des centres d'examen peuvent être ouverts à l'étranger par le ministre charg�
 Sauf dérogation accordée par le recteur de l'académie, les candidats doivent se présenter dans l'académie où ils ont accompli leur dernière année d'études avant l'examen. Ceux qui ne suivent les cours d'aucun établissement se présentent dans l'académie de leur résidence.
 
 Les candidats qui accomplissent leurs études à l'étranger désignent lors de leur inscription l'académie où ils choisissent de se présenter.
-
-Nul ne peut, sauf dispense accordée par le recteur, se présenter aux épreuves du baccalauréat technologique s'il n'est âgé de dix-sept ans accomplis au 31 décembre de l'année de l'examen ou de seize ans accomplis au 31 décembre de l'année des épreuves anticipées.
