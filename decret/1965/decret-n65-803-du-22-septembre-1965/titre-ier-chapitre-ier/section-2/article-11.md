@@ -1,3 +1,0 @@
-# Article 11
-
-Un arrêté conjoint du ministre de l'éducation nationale, du ministre de la santé publique et de la population, du ministre de l'intérieur et du ministre des finances et des affaires économiques fixera par catégorie d'actes et de bénéficiaires le montant des versements forfaitaires dus aux services de consultations et de traitements dentaires, ou aux établissements visés à l'article 2 du décret susvisé n° 65-801 du 22 septembre 1965 par le personnel intéressé, à raison des services rendus par le service de consultations et de traitements dentaires ou des établissements susdésignés à l'occasion des activités autorisées par l'article précédent.

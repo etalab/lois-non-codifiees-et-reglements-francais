@@ -4,4 +4,4 @@ Lorsqu'ils exercent leurs fonctions à temps plein, les membres du personnel vis
 
 Pour l'exercice de cette faculté, les professeurs disposent de deux séances par semaine et les personnels assistants temporaires d'une séance par semaine. La durée de ces consultations ainsi que d'éventuelles dérogations seront fixées, selon la nature des soins dispensés, par un arrêté conjoint du ministre de la santé publique et de la population, du ministre de l'éducation nationale, du ministre des finances et des affaires économiques.
 
-Ils sont pour cette partie de leur activité rémunérés directement par leurs malades et doivent justifier d'une assurance les garantissant de façon illimitée pour leurs propres actes et éventuellement pour ceux de leurs collaborateurs contre le recours desdits malades.
+Ils doivent justifier d'une assurance les garantissant de façon illimitée pour leurs propres actes et éventuellement pour ceux de leurs collaborateurs contre le recours desdits malades.
