@@ -553,6 +553,7 @@
 - [Arrêté du 26 novembre 1992 (INTE9200552A)](arrete-du-26-novembre-1992-inte9200552a)
 - [Arrêté du 26 novembre 1992 (INTE9200554A)](arrete-du-26-novembre-1992-inte9200554a)
 - [Arrêté du 27 décembre 1992 (AGRG9202615A)](arrete-du-27-decembre-1992-agrg9202615a)
+- [Arrêté du 27 janvier 1993 (INDG9300066A)](arrete-du-27-janvier-1993-indg9300066a)
 - [Arrêté du 27 janvier 1993 (LOGC9200065A)](arrete-du-27-janvier-1993-logc9200065a)
 - [Arrêté du 27 janvier 1993 (LOGC9200066A)](arrete-du-27-janvier-1993-logc9200066a)
 - [Arrêté du 27 janvier 1993 (LOGC9200080A)](arrete-du-27-janvier-1993-logc9200080a)
