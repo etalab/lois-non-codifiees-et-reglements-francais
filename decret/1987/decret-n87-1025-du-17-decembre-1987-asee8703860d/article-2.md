@@ -6,7 +6,7 @@ Elles sont également autorisées à consulter le répertoire national d'identif
 
 Elles procèdent à cette consultation pour :
 
-1° Assurer la gestion des droits des travailleurs privés d'emploi indemnisés ou demandant à être indemnisés, déterminer les allocations auxquelles ceux-ci peuvent prétendre et avancer les salaires et accessoires dus en application des dispositions des articles L. 143-9 à L. 143-11-9 et L. 143-13-1 du code du travail ;
+1° Assurer la gestion et le contrôle des droits des travailleurs privés d'emploi indemnisés ou demandant à être indemnisés, en déterminant les allocations auxquelles ceux-ci peuvent prétendre, en avançant les salaires et accessoires dus en application des dispositions des articles L. 143-9 à L. 143-11-9 et L. 143-13-1 du code du travail, et en détectant les situations de versement d'allocations indues ou de cumul non autorisé de ces allocations avec d'autres prestations.
 
 2° Communiquer le numéro d'inscription au répertoire des allocataires aux organismes de sécurité sociale pour garantir leurs droits sociaux et aux organismes de retraite complémentaire pour leur permettre de valider les périodes de chômage indemnisé ;
 
