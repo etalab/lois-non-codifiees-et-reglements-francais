@@ -1,0 +1,5 @@
+# Article 6
+
+Dans les communes soumises à un aménagement foncier agricole et forestier prévu au 6° de l'article 1er du code rural et dont le territoire a fait l'objet, en application des dispositions de l'article 52-4 du même code, d'une délimitation des terres agricoles, d'une part, et forestières, d'autre part, le commissaire de la République peut prescrire par arrêté, sur les terres agricoles ainsi délimitées, les interdictions ou les réglementations de plantations et de semis d'essences forestières prévues par le présent décret, à la condition que la commission communale ou intercommunale instituée pour l'aménagement susindiqué en ait fait la proposition et que les procédures d'enquête publique et de consultation prévues aux articles 3 et 4 ci-dessus aient été mises en oeuvre.
+
+Au cas où l'arrêté susmentionné du commissaire de la République édicte une mesure d'interdiction de plantations et de semis, cette mesure n'est pas limitée par le délai de six ans prévu à l'article 5 du présent décret.

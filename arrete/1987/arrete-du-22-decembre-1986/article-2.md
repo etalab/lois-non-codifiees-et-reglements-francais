@@ -1,3 +1,13 @@
 # Article 2
 
-Pour l'application des dispositions de l'article précédent, la recette moyenne hebdomadaire est constituée par le produit de la vente des billets d'entrée, compte non tenu de la taxe spéciale prélevée sur le prix des places, tel qu'il a été enregistré au cours de la période du 1er octobre au 30 septembre précédant l'année considérée.
+Les procédures d'approche de précision [*définition*] sont des procédures d'approche aux instruments directes qui utilisent des informations d'azimut, de plan de descente et de distance.
+
+Elles sont classées en trois catégories, compte tenu notamment de la hauteur de décision associée :
+
+60 mètres (200 pieds) minimum en catégorie I ;
+
+30 mètres (100 pieds) minimum et inférieure à 60 mètres (200 pieds) en catégorie II ;
+
+Inférieure à 30 mètres (100 pieds) en catégorie III.
+
+Note. - Ces définitions ne s'appliquent pas à la détermination et à l'utilisation des minimums opérationnels, qui font l'objet d'une réglementation particulière.
