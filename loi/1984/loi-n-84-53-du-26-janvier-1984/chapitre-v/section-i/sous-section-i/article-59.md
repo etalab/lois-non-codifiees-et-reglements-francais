@@ -6,6 +6,8 @@ Des autorisations spéciales d'absence qui n'entrent pas en compte dans le calcu
 
 3° Sous réserve des nécessités du service, aux membres des organisations mutualistes dûment mandatés pour assister aux réunions des organismes directeurs dont ils sont membres élus ;
 
-4° Aux membres des commissions administratives paritaires et des organismes statutaires créés en application de la présente loi ;    5° Aux fonctionnaires, à l'occasion de certains événements familiaux.
+4° Aux membres des commissions administratives paritaires et des organismes statutaires créés en application de la présente loi ;    Aux membres des commissions mentionnées au deuxième alinéa de l'article 63 du code de la famille et de l'aide sociale ; "
+
+5° Aux fonctionnaires, à l'occasion de certains événements familiaux.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article, et notamment le nombre de jours d'absence maximum autorisé chaque année au titre des 2° et 3° ainsi que la durée des autorisations liées aux réunions des commissions administratives paritaires et des organismes statutaires prévues par le 4° ci-dessus.

@@ -12,6 +12,8 @@ Des autorisations spéciales d'absence qui n'entrent pas en compte dans le calcu
 
 5° Aux membres de certains organismes privés de coopération interhospitalière, dont la liste est fixée par décret en Conseil d'Etat ;
 
+Aux membres des commissions [*relatives à l'adoption*] mentionnées au deuxième alinéa de l'article 63 du code de la famille et de l'aide sociale ;
+
 6° Aux fonctionnaires, à l'occasion de certains événements familiaux.
 
 Des autorisations spéciales d'absence n'entrant pas en compte dans le calcul des congés annuels sont également accordées aux fonctionnaires occupant des fonctions publiques électives pour la durée totale des sessions des assemblées dont ils sont membres, lorsque la condition à laquelle est subordonné le détachement n'est pas réalisée.
