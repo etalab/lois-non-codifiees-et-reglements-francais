@@ -1,0 +1,16 @@
+# Décret n°99-14 du 11 janvier 1999 portant approbation des statuts de l'Académie des inscriptions et belles-lettres
+
+- [Paragraphe I : Missions et travaux de l'académie.](paragraphe-i)
+- [Paragraphe II : Composition de l'académie.](paragraphe-ii)
+- [Paragraphe III : Bureau de l'académie.](paragraphe-iii)
+- [Paragraphe IV : Académiciens.](paragraphe-iv)
+- [Paragraphe V : Associés étrangers.](paragraphe-v)
+- [Paragraphe VI : Correspondants.](paragraphe-vi)
+- [Paragraphe VII : Séances ordinaires.](paragraphe-vii)
+- [Paragraphe VIII : Séance solennelle de l'académie.](paragraphe-viii)
+- [Paragraphe IX : Publication des travaux de l'académie.](paragraphe-ix)
+- [Paragraphe X : Jugement des concours.](paragraphe-x)
+- [Paragraphe XI : Commissions diverses.](paragraphe-xi)
+- [Paragraphe XII : Indemnités.](paragraphe-xii)
+- [Paragraphe XIII : Dispositions finales.](paragraphe-xiii)
+- [Article 43](article-43.md)
