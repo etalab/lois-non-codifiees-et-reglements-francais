@@ -41,6 +41,7 @@
 - [Décret n°65-985 du 19 novembre 1965](decret-n65-985-du-19-novembre-1965)
 - [Décret n°65-799 du 21 septembre 1965](decret-n65-799-du-21-septembre-1965)
 - [Décret n°65-612 du 22 juillet 1965](decret-n65-612-du-22-juillet-1965)
+- [Décret n°65-75 du 22 janvier 1965](decret-n65-75-du-22-janvier-1965)
 - [Décret n°65-801 du 22 septembre 1965](decret-n65-801-du-22-septembre-1965)
 - [Décret n°65-803 du 22 septembre 1965](decret-n65-803-du-22-septembre-1965)
 - [Décret n°65-804 du 22 septembre 1965](decret-n65-804-du-22-septembre-1965)
