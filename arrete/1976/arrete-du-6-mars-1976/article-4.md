@@ -1,6 +1,6 @@
 # Article 4
 
-Les coefficients d'équivalence et les seuils d'application valant abattement à la base, applicables aux élevages ne nécessitant pas l'utilisation du sol agricole sont fixés comme suit :
+Les coefficients d'équivalence et les seuils d'application valant abattement à la base applicable aux élevages ne nécessitant pas l'utilisation du sol agricole sont fixés comme suit :
 
 MONTAGNE CORSE
 
@@ -10,7 +10,7 @@ I. Aviculture et cuniculiculture
 
 Equivalence en ares pour 1 m2 de clapier ou de poulailler
 
-Poules pondeuses : 1,4a
+Poules pondeuses : 1,4 a
 
 Poulets de chair : 0,7 a
 

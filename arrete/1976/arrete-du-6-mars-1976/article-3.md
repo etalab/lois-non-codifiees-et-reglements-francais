@@ -1,10 +1,10 @@
 # Article 3
 
-Les coefficients d'équivalence applicables aux cultures spécialisées visées à l'article 188-3 du code rural sont fixés comme suit :
+Les coefficients d'équivalence applicables aux cultures spécialisées visées à l'article 188-3 du Code rural sont fixés comme suit :
 
 Cultures maraîchères intensives : 12
 
-Cultures maraîchères sous abris : 30
+Cultures maraîchères sous abris : 20
 
 Cultures maraîchères sous serres : 30
 

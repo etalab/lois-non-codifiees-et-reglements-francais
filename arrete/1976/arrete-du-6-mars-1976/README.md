@@ -1,4 +1,4 @@
-# Arrêté du 6 mars 1976 Surfaces minima d'installation et coefficients d'équivalence en matière de cumuls d'exploitations ou de fonds agricoles dans le département de la Haute-Corse (Application de l'article 188-3 du code rural).
+# Arrêté du 6 mars 1976 Surfaces minima d'installation et coefficients d'équivalence en matière de cumuls d'exploitations ou de fonds agricoles dans le département de la Corse-du-Sud (Application de l'article 188-3 du code rural).
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
