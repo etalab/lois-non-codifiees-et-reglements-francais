@@ -1,4 +1,4 @@
-# Arrêté du 9 mars 1978 relatif à l'application de l'article 10, alinéas 3 et 4, de la loi n° 76-616 du 9 juillet 1976 relative à la lutte contre le tabagisme
+# Arrêté du 9 mars 1978 relatif aux rémunérations et différents avantages sociaux des praticiens conseils chargés du service de contrôle médical du régime d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles
 
 - [Article 1](article-1.md)
 - [Titre Ier : Dispositions générales](titre-ier)
@@ -6,7 +6,13 @@
 - [Titre II : De la formation](titre-ii)
 - [Article 3](article-3.md)
 - [Titre III : Du contrôle des aptitudes et des connaissances](titre-iii)
+- [Article 4](article-4.md)
 - [Titre IV : De la thèse](titre-iv)
+- [Article 5](article-5.md)
 - [Titre V : Dispositions diverses](titre-v)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)
+- [Article 9](article-9.md)
 - [Article 18](article-18.md)
 - [Annexes](annexes)
