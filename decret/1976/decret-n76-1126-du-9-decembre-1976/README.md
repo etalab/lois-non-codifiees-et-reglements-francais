@@ -2,5 +2,6 @@
 
 - [TITRE Ier : Des contrôleurs des transports terrestres](titre-ier)
 - [TITRE II : Des adjoints de contrôle des transports terrestres](titre-ii)
+- [Article 3](article-3.md)
 - [TITRE III : Dispositions communes aux deux corps.](titre-iii)
 - [TITRE IV : Dispositions transitoires](titre-iv)
