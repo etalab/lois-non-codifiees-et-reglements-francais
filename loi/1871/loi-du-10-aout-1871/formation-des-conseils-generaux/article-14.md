@@ -1,5 +1,0 @@
-# Article 14
-
-Nul n'est élu membre du conseil général au premier tour de scrutin, s'il n'a réuni : 1° la majorité absolue des suffrages exprimés ; 2° un nombre de suffrages égal au quart de celui des électeurs inscrits.
-
-Au second tour de scrutin, l'élection a lieu à la majorité relative, quel que soit le nombre des votants. Si plusieurs candidats obtiennent le même nombre de suffrages, l'élection est acquise au plus âgé.
