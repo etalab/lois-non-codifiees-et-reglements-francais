@@ -1,3 +1,0 @@
-# SECTION 2. DISPOSITIONS PARTICULIERES.
-
-- [Article 31-4](article-31-4.md)

@@ -1,3 +1,0 @@
-# CHAPITRE 6. COMPLEMENT FAMILIAL
-
-- [SECTION 2. DISPOSITIONS PARTICULIERES.](section-2-dispositions-particulieres)
