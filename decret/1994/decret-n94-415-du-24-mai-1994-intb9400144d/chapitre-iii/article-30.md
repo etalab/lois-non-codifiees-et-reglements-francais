@@ -1,0 +1,3 @@
+# Article 30
+
+Les emplois des administrations parisiennes qui n'entrent dans aucun des cas mentionnés à l'article 28 ne peuvent être dotés d'un indice terminal supérieur à celui de l'emploi le plus élevé de la même catégorie hiérarchique dans les fonctions publiques de l'Etat, territoriale ou hospitalière. L'indice terminal de ces emplois peut être défini par référence à l'indice terminal d'une échelle de traitement commune à des fonctionnaires de la même catégorie hiérarchique dans les fonctions publiques de l'Etat, territoriale ou hospitalière. En ce cas, l'indice terminal de l'emploi des administrations parisiennes doit évoluer comme l'indice terminal de l'échelle de référence.

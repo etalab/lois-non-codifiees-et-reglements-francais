@@ -304,6 +304,7 @@
 - [Décret n°94-254 du 24 mars 1994 (MAEJ9430021D)](decret-n94-254-du-24-mars-1994-maej9430021d)
 - [Décret n°94-68 du 24 janvier 1994 (SPSP9400011D)](decret-n94-68-du-24-janvier-1994-spsp9400011d)
 - [Décret n°94-72 du 24 janvier 1994 (RESK9301626D)](decret-n94-72-du-24-janvier-1994-resk9301626d)
+- [Décret n°94-415 du 24 mai 1994 (INTB9400144D)](decret-n94-415-du-24-mai-1994-intb9400144d)
 - [Décret du 25 mars 1994 (ENVN9310089D)](decret-du-25-mars-1994-envn9310089d)
 - [Décret n°89-266 du 25 avril 1989 (MENU8900788D)](decret-n89-266-du-25-avril-1989-menu8900788d)
 - [Décret n°90-99 du 25 janvier 1990 (MENT8902676D)](decret-n90-99-du-25-janvier-1990-ment8902676d)
