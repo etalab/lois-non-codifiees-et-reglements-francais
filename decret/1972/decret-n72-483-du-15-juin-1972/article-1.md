@@ -1,0 +1,3 @@
+# Article 1
+
+Les rentes, constituées par les conditions prévues à l'article 99 bis du code de la mutualité, au profit des membres participants des sociétés ou unions de sociétés mutualistes anciens militaires ayant pris part aux opérations d'Afrique du Nord et titulaires du titre de reconnaissance de la nation, institué par l'article 77 de la loi n° 67-1114 du 21 décembre 1967 portant loi de finances pour 1968, ou au profit des veuves, orphelins et ascendants des militaires décédés du fait de leur participation à ces opérations, donnent lieu à une majoration de l'Etat dans les conditions fixées aux articles suivants.
