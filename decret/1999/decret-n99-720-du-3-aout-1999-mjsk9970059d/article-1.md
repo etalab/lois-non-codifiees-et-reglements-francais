@@ -1,3 +1,0 @@
-# Article 1
-
-Il est créé dans chaque département une commission départementale de coordination en matière de jeunesse chargée de donner des avis et de formuler des propositions sur les loisirs et les vacances des jeunes ainsi que sur le développement et le bon fonctionnement des accueils ou des hébergements éducatifs collectifs de mineurs. En particulier, elle est chargée de donner un avis préalablement à toute décision préfectorale d'interdiction temporaire ou permanente de participer à la direction ou à l'encadrement d'institutions ou d'organismes soumis aux dispositions du décret du 29 janvier 1960 susvisé.
