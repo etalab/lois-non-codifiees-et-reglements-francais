@@ -39,6 +39,7 @@
 - [Arrêté du 16 mars 1978](arrete-du-16-mars-1978)
 - [Arrêté du 16 mai 1978](arrete-du-16-mai-1978)
 - [Arrêté du 17 mars 1978](arrete-du-17-mars-1978)
+- [Arrêté du 18 octobre 1978](arrete-du-18-octobre-1978)
 - [Arrêté du 18 mai 1978](arrete-du-18-mai-1978)
 - [Arrêté du 19 décembre 1977](arrete-du-19-decembre-1977)
 - [Arrêté du 19 janvier 1978](arrete-du-19-janvier-1978)
