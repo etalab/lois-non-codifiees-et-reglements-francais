@@ -308,7 +308,6 @@
 - [Arrêté du 9 novembre 1998 (MENS9802863A)](arrete-du-9-novembre-1998-mens9802863a)
 - [Arrêté du 9 octobre 1997 (JUSB9710396A)](arrete-du-9-octobre-1997-jusb9710396a)
 - [Arrêté du 9 octobre 1998 (MESH9823269A)](arrete-du-9-octobre-1998-mesh9823269a)
-- [Arrêté du 9 septembre 1997 (ATEP9760348A)](arrete-du-9-septembre-1997-atep9760348a)
 - [Arrêté du 9 septembre 1998 (AGRA9801323A)](arrete-du-9-septembre-1998-agra9801323a)
 - [Arrêté du 9 septembre 1998 (ATEP9870316A)](arrete-du-9-septembre-1998-atep9870316a)
 - [Arrêté du 9 septembre 1998 (ECOC9800102A)](arrete-du-9-septembre-1998-ecoc9800102a)

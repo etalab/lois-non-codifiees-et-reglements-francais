@@ -635,7 +635,6 @@
 - [Décret n°97-1210 du 24 décembre 1997 (MESG9711484D)](decret-n97-1210-du-24-decembre-1997-mesg9711484d)
 - [Décret n°97-1213 du 24 décembre 1997 (MESP9723363D)](decret-n97-1213-du-24-decembre-1997-mesp9723363d)
 - [Décret n°97-1214 du 24 décembre 1997 (MESP9723364D)](decret-n97-1214-du-24-decembre-1997-mesp9723364d)
-- [Décret n°97-163 du 24 février 1997 (AGRS9700228D)](decret-n97-163-du-24-fevrier-1997-agrs9700228d)
 - [Décret n°97-164 du 24 février 1997 (EQUP9700195D)](decret-n97-164-du-24-fevrier-1997-equp9700195d)
 - [Décret n°97-165 du 24 février 1997 (MAEA9720044D)](decret-n97-165-du-24-fevrier-1997-maea9720044d)
 - [Décret n°97-166 du 24 février 1997 (TASS9720086D)](decret-n97-166-du-24-fevrier-1997-tass9720086d)
