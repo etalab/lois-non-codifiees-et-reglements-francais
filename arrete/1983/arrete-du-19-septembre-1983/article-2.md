@@ -1,5 +1,9 @@
 # Article 2
 
-Dans les conditions définies à l'article 1er, les électeurs étrangers, à l'exception des électeurs de nationalité algérienne, doivent présenter une carte de séjour ou une carte de travail en cours de validité ou un récépissé provisoire de ces documents.
+La preuve de la conformité aux normes énumérées incombe aux constructeurs, installateurs ou importateurs.
 
-Les électeurs de nationalité algérienne sont tenus de produire un certificat de résidence en cours de validité ou une attestation de prorogation de certificat de résidence ou un récépissé de première demande de certificat.
+Cette preuve résulte :
+
+Soit de la présentation du certificat d'admission à la marque NF, délivré par le comité particulier de la marque, ainsi que de la présence sur chaque matériel et appareil de la marque de conformité apposée dans les conditions fixées par le règlement particulier correspondant ;
+
+Soit de la présentation d'un certificat de conformité datant de moins d'un an délivré, au vu d'un procès-verbal d'essai établi par un laboratoire agréé et après avis du comité particulier de la marque NF, par le ministre de l'industrie et de la recherche.

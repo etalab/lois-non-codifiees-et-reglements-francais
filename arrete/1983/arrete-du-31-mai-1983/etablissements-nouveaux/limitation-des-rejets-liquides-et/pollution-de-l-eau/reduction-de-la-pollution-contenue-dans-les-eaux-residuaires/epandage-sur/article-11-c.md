@@ -30,7 +30,7 @@ La capacité de rétention des sols restera maximale si les effluents sont neutr
 
 Lors de l'examen du plan d'épandage, l'inspecteur des installations classées devra vérifier notamment que les zones délimitées par les périmètres de protection des points de prélèvement d'eau destinée à l'alimentation des collectivités humaines sont respectées.
 
-Par percolation [*définition*] rapide vers les nappes souterraines, il faut entendre le transfert direct dans ces nappes des eaux d'épandage ou d'éléments qu'elles contiennent.
+Par percolation rapide vers les nappes souterraines, il faut entendre le transfert direct dans ces nappes des eaux d'épandage ou d'éléments qu'elles contiennent.
 
 Lorsque le sol est gelé, l'épandage ne doit pas être effectué à cause des risques de ruissellement en dehors du champ d'épandage.
 
@@ -38,4 +38,4 @@ L'interdiction d'épandage, en dehors des terres régulièrement travaillées, c
 
 Les compteurs horaires comptabilisent le temps de fonctionnement d'une pompe dont le débit est connu. La mise en place de ces compteurs sur les pompes de refoulement permet d'apprécier le volume d'eaux résiduaires épandues. Les indications fournies par ces compteurs seront consignées régulièrement dans un registre (toutes les semaines, par exemple), qui sera présenté à sa demande, à l'inspecteur des installations classées.
 
-Enfin, il est rappelé que l'épandage est déconseillé sur des terrains dont la pente est importante (supérieure de 7 à 8 p. 100) à cause des risques de ruissellement en dehors des limites du champ d'épandage.
+Enfin, il est rappelé que l'épandage est déconseillé sur des terrains dont la pente est importante (supérieure de 7 à 8%) à cause des risques de ruissellement en dehors des limites du champ d'épandage.

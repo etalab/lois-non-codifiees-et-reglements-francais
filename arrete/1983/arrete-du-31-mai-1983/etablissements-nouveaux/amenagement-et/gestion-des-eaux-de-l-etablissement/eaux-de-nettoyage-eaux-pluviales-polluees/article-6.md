@@ -4,7 +4,7 @@ Toutes les eaux de lavage nécessaires à l'entretien des véhicules, des atelie
 
 Commentaire :
 
-Les eaux pluviales polluées [*définition*] comprennent notamment les eaux de ruissellement des cours des entreprises ayant une activité de séchage et les eaux des toitures des tours de séchage dépourvues de dépoussiéreurs permettant de répondre aux objectifs de l'article 12, ainsi que les eaux provenant des aires de lavage des véhicules. Ces eaux devront être collectées séparément puis traitées avant de rejoindre le milieu.
+Les eaux pluviales polluées comprennent notamment les eaux de ruissellement des cours des entreprises ayant une activité de séchage et les eaux des toitures des tours de séchage dépourvues de dépoussiéreurs permettant de répondre aux objectifs de l'article 12, ainsi que les eaux provenant des aires de lavage des véhicules. Ces eaux devront être collectées séparément puis traitées avant de rejoindre le milieu.
 
 Les eaux de nettoyage seront collectées et dirigées vers les installations d'épuration des eaux résiduaires.
 
