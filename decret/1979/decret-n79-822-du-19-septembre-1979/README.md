@@ -15,5 +15,4 @@
 - [Chapitre XIII : Du certificat d'utilité.](chapitre-xiii)
 - [Chapitre XIII bis : Du certificat complémentaire de protection.](chapitre-xiii-bis)
 - [Chapitre XV : Recours en restauration et recours contre les décisions du directeur de l'Institut national de la propriété industrielle.](chapitre-xv)
-- [Chapitre XIV : Taxes et redevances.](chapitre-xiv)
 - [Chapitre XVII : Dispositions diverses.](chapitre-xvii)
