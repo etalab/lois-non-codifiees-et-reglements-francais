@@ -1,0 +1,5 @@
+# Article 8-8
+
+Lors de la passation d'un contrat d'association, tous les maîtres en exercice dans les classes intéressées peuvent, sous réserve de justifier des titres de capacité fixés par le décret n° 60-386 du 22 avril 1960, demander à être maintenus en fonction en qualité de contractuels ou d'auxiliaires et à être soumis aux mêmes obligations de service que leurs collègues fonctionnaires titulaires.
+
+Seuls les maîtres laïcs en exercice à la date de la passation du contrat dans les classes intéressées et pourvus des titres de capacité requis peuvent bénéficier sur leur demande des mesures prévues par le décret n° 60-388 du 22 avril 1960 relatif à l'intégration dans l'enseignement public. Cette demande doit être présentée dans les conditions et délais prévus à l'article 2 de ce décret. Ils ne peuvent être maintenus en fonction dans l'établissement par le ministre de l'éducation à l'expiration de l'année scolaire en cours à la date de leur intégration à l'enseignement public que sur proposition du chef d'établissement selon la procédure prévue au troisième alinéa de l'article 8-2.
