@@ -46,7 +46,7 @@ Diplôme du centre hospitalier de Clermont-Ferrand.
 
 4° Diplôme d'Etat de sage-femme.
 
-5° Attestation de deux inscriptions annuelles validées (ancien régime) ou de trois inscriptions annuelles validées (nouveau régime) à la faculté de médecine fournie par d'anciens étudiants en médecine.
+5° Attestation d'études de médecine correspondant soit à deux inscriptions annuelles à la faculté de médecine validées au titre de l'ancien régime d'études fixé par le décret du 6 mars 1964, soit à trois inscriptions annuelles validées au titre des régimes d'études fixés par le décret n° 60-759 du 28 juillet 1960 et le décret n° 63-875 du 24 août 1963.
 
 6° Départements d'outre-mer. - Diplôme local d'infirmière délivré dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.
 
@@ -66,6 +66,16 @@ Diplôme d'infirmier (e) (soins généraux) reconnu par la Croix-Rouge suisse (a
 
 Diplôme d'Etat d'infirmier (e) délivré en application de l'arrêté du 24 novembre 1949 en Grande-Bretagne (Registered Nurse-General Nursing Council).
 
-Diplôme d'infirmier (e) (soins généraux) délivré en application de la loi du 15 juillet 1957 (Bundes-Gesetzblatt. I, S. 716) en Allemagne fédérale.
+Diplôme d'infirmier ou d'infirmière (soins généraux) délivré en Allemagne fédérale en application soit de la loi du 15 juillet 1957, soit de la loi du 20 septembre 1965, modifié les 3 septembre 1968 et 4 mai 1972.
+
+Diplôme d'infirmier ou d'infirmière délivré dans la province du Québec assorti de la licence d'exercice accordée par l'association des infirmières de la province de Québec.
 
 Diplôme d'infirmier(e) (soins généraux) délivré en application de la loi du 26 avril 1933 (art. 15) et de la loi n° 127 du 25 mai 1956 au Danemark.
+
+Diplôme d'Etat d'infirmier (ière) délivré en Norvège ;
+
+Diplôme d'Etat d'infirmier (ière) délivré en Suède ;
+
+Diplôme d'Etat d'infirmier (ière) délivré au Portugal ;
+
+Diplôme d'Etat d'infirmier (ière) délivré au Chili.

@@ -8,11 +8,13 @@ Sont validés pour l'exercice en qualité d'infirmier(e) auxiliaire les titres s
 
 3° Armée :
 
-a) Terre. - Brevet élémentaire d'infirmier du service de santé dénommé également :
+a) Terre : Brevet élémentaire d'infirmier du service de santé également dénommé :
 
 Brevet de spécialité du premier degré d'infirmier militaire ;
 
 Brevet du premier degré d'infirmier militaire.
+
+Certificat technique du premier degré de spécialiste paramédical.
 
 b) Mer :
 
