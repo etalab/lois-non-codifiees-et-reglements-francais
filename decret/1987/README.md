@@ -91,7 +91,6 @@
 - [Décret n°87-7 du 7 janvier 1987](decret-n87-7-du-7-janvier-1987)
 - [Décret n°87-731 du 7 septembre 1987 (COMA8700016D)](decret-n87-731-du-7-septembre-1987-coma8700016d)
 - [Décret n°87-984 du 7 décembre 1987 (ECOM8700311D)](decret-n87-984-du-7-decembre-1987-ecom8700311d)
-- [Décret n°87-320 du 7 mai 1987 (COPC8700026D)](decret-n87-320-du-7-mai-1987-copc8700026d)
 - [Décret n°83-644 du 8 juillet 1983](decret-n83-644-du-8-juillet-1983)
 - [Décret n°87-11 du 8 janvier 1987](decret-n87-11-du-8-janvier-1987)
 - [Décret n°87-249 du 8 avril 1987 (INTD8700094D)](decret-n87-249-du-8-avril-1987-intd8700094d)
