@@ -1,3 +1,3 @@
 # Article 6
 
-Le présent décret s'appliquera jusqu'au 31 décembre 1995.
+Le présent décret s'appliquera jusqu'au 31 décembre 1998.
