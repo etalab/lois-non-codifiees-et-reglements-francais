@@ -478,7 +478,6 @@
 - [Arrêté du 21 juin 1989 (INDG8900518A)](arrete-du-21-juin-1989-indg8900518a)
 - [Arrêté du 21 juin 1989 (PTTT8900564A)](arrete-du-21-juin-1989-pttt8900564a)
 - [Arrêté du 21 juin 1991 (AGRA9100719A)](arrete-du-21-juin-1991-agra9100719a)
-- [Arrêté du 21 mars 1989 (BUDF8900004A)](arrete-du-21-mars-1989-budf8900004a)
 - [Arrêté du 21 mars 1989 (INTD8900168A)](arrete-du-21-mars-1989-intd8900168a)
 - [Arrêté du 21 mars 1989 (SPSP8900606A)](arrete-du-21-mars-1989-spsp8900606a)
 - [Arrêté du 21 novembre 1989 (EQUS8901291A)](arrete-du-21-novembre-1989-equs8901291a)
