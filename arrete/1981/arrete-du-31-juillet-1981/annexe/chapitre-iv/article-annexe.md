@@ -1,4 +1,4 @@
-# Article 
+# Article Annexe
 
 4.1. Brevet et licence de pilote professionnel et avion
 
@@ -34,19 +34,7 @@ Toutefois les personnes qui, à la date du 1er juillet 1999, sont détentrices d
 
 En outre, les personnes qui, à la date du 1er juillet 1999, sont détentrices d'au moins un des certiﬁcats constitutifs des épreuves théoriques de l'examen du brevet de pilote de ligne Avion peuvent, sous réserve de l'obtention ultérieure du certiﬁcat d'aptitude aux épreuves théoriques de l'examen du brevet de la licence de pilote de ligne Avion, obtenir le brevet et la licence de pilote professionnel Avion dans les mêmes conditions. Les personnes titulaires du brevet de pilote de ligne hélicoptère ou du brevet de mécanicien navigant Avion ou du brevet d'ingénieur navigant de l'aviation civile bénéﬁcient de la même possibilité jusqu'au 30 juin 2002.
 
-4.1.1.2. Conditions exigées pour la délivrance du brevet et de la licence de pilote professionnel avion par équivalence
-
-Pour obtenir le brevet de pilote professionnel avion, le candidat doit remplir les conditions suivantes :
-
-a. Être titulaire d'un des brevets militaires français désignés ci-dessous :
-
-- brevet militaire de pilote avion deuxième degré de l'armée de l'air,
-
-- brevet militaire de pilote avion deuxième degré de l'aéronautique navale.
-
-Pour obtenir la licence de pilote professionnel Avion, le candidat doit remplir les conditions d'expérience ﬁxées au c du paragraphe 4.1.1.1 et de renouvellement de la licence de pilote professionnel Avion précisées au paragraphe 4.1.3.
-
-À compter du 1er juillet 1999, le candidat qui remplit les conditions ﬁxées au a. ci-dessus ainsi que les conditions d'expérience ﬁxées à l'alinéa précédent peut obtenir le brevet et la licence de pilote professionnel Avion.
+4.1.1.2. (Paragraphe supprimé)
 
 4.1.2. Privilèges de la licence
 
@@ -170,23 +158,7 @@ d. Satisfaire à des épreuves théoriques et pratiques ﬁxées par arrêté.
 
 Pour obtenir la licence, le candidat doit en outre remplir les conditions d'aptitude physique prévues au 2.4.
 
-4.3.1.2. Conditions exigées pour la délivrance du brevet et de la licence de pilote professionnel hélicoptère par équivalence.
-
-Pour obtenir le brevet de pilote professionnel hélicoptère, le candidat doit remplir les conditions suivantes :
-
-a. Être titulaire d'un des brevets militaires français désignés ci-dessous :
-
-- brevet de pilote d'hélicoptère deuxième degré de l'armée de l'air,
-
-- brevet de pilote d'hélicoptère deuxième degré de l'aéronautique navale,
-
-- brevet d'observateur pilote de l'aviation légère de l'armée de terre (ALAT) (aptitude hélicoptère),
-
-- brevet de pilote de l'aviation légère de l'armée de terre (aptitude hélicoptère).
-
-Pour obtenir la licence de pilote professionnel Hélicoptère, le candidat doit remplir les conditions d'expérience ﬁxées au paragraphe 4.1.1.1 et les conditions de renouvellement de cette licence précisées au paragraphe 4.3.3.
-
-À compter du 1er janvier 2006, le candidat qui remplit les conditions ﬁxées au a ci-dessus ainsi que les conditions d'expérience ﬁxées à l'alinéa précédent peut obtenir le brevet et la licence de pilote professionnel hélicoptère.
+4.3.1.2. (Paragraphe supprimé)
 
 4.3.1.3. Les dispositions du paragraphe 4.3.1.1 sont applicables jusqu'au 31 décembre 2005. Toutefois, les personnes qui, à la date du 1er janvier 2006, sont détentrices du certiﬁcat d'aptitude à l'épreuve théorique de l'examen pour l'obtention du brevet de pilote professionnel hélicoptère ou d'au moins un certiﬁcat de réussite à une matière de cette épreuve peuvent obtenir le brevet et la licence de pilote professionnel hélicoptère dans les conditions ﬁxées par les dispositions des a à d de ce paragraphe 4.3.1.1. Cette possibilité est offerte pour chaque candidat dans la limite de validité de son certiﬁcat d'aptitude à l'épreuve théorique précitée et au plus tard le 31 décembre 2009. Dans ces cas, la formation visée au b du paragraphe 4.3.1.1 peut être remplacée par la formation au vol prévue par les dispositions du 4 du paragraphe FCL 2.165 de l'arrêté du 12 juillet 2005 relatif aux licences et qualifications de membre d'équipage de conduite d'hélicoptères (FCL 2). Dans ce cas, l'expérience requise visée au c est celle déﬁnie aux b et c du paragraphe FCL 2.155.
 

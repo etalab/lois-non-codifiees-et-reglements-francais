@@ -1,4 +1,4 @@
-# Article 
+# Article Annexe
 
 7.1. Qualifications d'instructeur
 
@@ -12,7 +12,7 @@ Par ailleurs, les détenteurs de la qualification d'instructeur, à l'exclusion 
 
 - lorsque nécessaire, au renouvellement d'une licence et, le cas échéant, des qualifications qu'elle comporte.
 
-Les candidats aux fonctions d'instructeur stagiaire de pilote professionnel avion doivent d'une part justiﬁer d'une expérience minimale de 600 heures de vol comme pilote d'avion et, d'autre part, être titulaire de la qualification d'instructeur de pilote privé avion ou justiﬁer d'une expérience d'instructeur civil ou militaire.
+Les candidats aux fonctions d'instructeur stagiaire de pilote professionnel avion doivent d'une part justiﬁer d'une expérience minimale de 600 heures de vol comme pilote d'avion et, d'autre part, être titulaire de la qualification d'instructeur de pilote privé avion ou justiﬁer d'une expérience d'instructeur civil.
 
 Les candidats aux fonctions d'instructeur de pilote professionnel avion doivent d'une part, justiﬁer d'une expérience minimale de 1000 heures de vol comme pilote d'avion et posséder la qualification de vol aux instruments et, d'autre part, être titulaires de la qualification d'instructeur de pilote privé avion ou justiﬁer d'une expérience d'instructeur civile ou militaire.
 

@@ -1,4 +1,4 @@
-# Article 
+# Article Annexe
 
 6.1. Qualification de classe et de type d'aéronef
 
@@ -54,7 +54,7 @@ Une qualification de type est exigée pour tout hélicoptère qui présente l'un
 
 Pour obtenir une qualification de classe C, D ou E, un pilote doit avoir au moins suivi un programme d'instruction minimal déﬁni par le ministre chargé de l'aviation civile.
 
-Sont toutefois dispensés de cette instruction les pilotes qualiﬁés au titre d'un brevet militaire français ou d'une licence étrangère délivrée conformément aux dispositions de l'annexe I à la convention relative à l'aviation civile internationale et qui totalisent comme commandant de bord au moins 20 heures de vol sur avion appartenant à la classe considérée.
+Sont toutefois dispensés de cette instruction les pilotes qualiﬁés au titre d'une licence étrangère délivrée conformément aux dispositions de l'annexe I à la convention relative à l'aviation civile internationale et qui totalisent comme commandant de bord au moins 20 heures de vol sur avion appartenant à la classe considérée.
 
 6.1.3.3. La formation en vue de l'obtention d'une qualification de classe ou de type doit notamment recouvrir :
 
@@ -77,8 +77,6 @@ En outre, pour certains types d'aéronefs ﬁgurant en appendice au présent arr
 - équipage minimal de conduite certiﬁé d'au moins deux personnes.
 
 6.1.3.5. Les qualifications de classe et de type sont délivrées par les autorités habilitées à cet effet sur présentation d'une attestation de l'instructeur ayant dispensé, dirigé ou achevé la formation, établissant que le candidat a suivi de manière satisfaisante et complète la formation appropriée et concluant à l'aptitude du postulant. Pour les qualifications de type nécessitant l'approbation d'un programme de formation et des moyens associés, une attestation de l'organisme formateur certiﬁant l'application du programme doit être présentée.
-
-Le report d'une qualification de type, telle que déﬁnie au 6.1.3.4 ci-dessus, délivrée par les autorités aéronautiques d'un État étranger conformément aux dispositions de l'annexe I à la convention relative à l'aviation civile internationale ou obtenue à titre militaire peut être autorisé par le ministre chargé de l'aviation civile en fonction de sa connaissance de l'organisme qui a dispensé l'instruction et de l'expérience du postulant sur le type considéré et sous réserve d'un contrôle satisfaisant d'un instructeur habilité et le cas échéant d'une formation complémentaire; une dispense de contrôle peut être accordée par le ministre chargé de l'aviation civile après avis des services compétents.
 
 Le report d'une qualification de type ne répondant à aucune des déﬁnitions du 6.1.3.4 ci dessus ou d'une qualification de classe A, B ou H est effectué après un contrôle satisfaisant d'un instructeur habilité.
 
@@ -210,7 +208,7 @@ b. Être titulaire d'une licence de pilote professionnel hélicoptère
 
 c. avoir accompli au minimum 50 heures de vol en campagne en tant que pilote commandant de bord d'hélicoptère ou d'avion, dont au moins 10 heures auront été effectuées sur hélicoptère;
 
-- Pour la qualification de vol aux instruments hélicoptère, option monomoteur, totaliser 50 heures aux instruments sur hélicoptère monomoteur pendant lesquelles il aura effectivement manœuvré les commandes et pouvant comprendre  :
+- Pour la qualification de vol aux instruments hélicoptère, option monomoteur, totaliser 50 heures aux instruments sur hélicoptère monomoteur pendant lesquelles il aura effectivement manœuvré les commandes et pouvant comprendre :
 
 a) 20 heures au maximum effectuées au sol sur un système d'entraînement aux procédures de vol et de navigation en hélicoptère de type I (FNPT I) ou sur un système d'entraînement aux procédures de vol et de navigation en avion de type I (FNPT I). Ces 20 heures peuvent être remplacées par 20 heures de formation pour la qualification de vol aux instruments IR (H) exécutées sur un avion approuvé pour cette formation;
 
@@ -218,7 +216,7 @@ b) 35 heures au maximum effectuées au sol sur un simulateur de vol ou un systè
 
 La formation au vol aux instruments doit comprendre au moins 10 heures sur un hélicoptère certifié pour les vols selon les règles de vol aux instruments (IFR).
 
-- Pour la qualification de vol aux instruments hélicoptère, option multimoteur, totaliser 55 heures aux instruments sur hélicoptère multimoteur pendant lesquelles il aura effectivement manœuvré les commandes et pouvant comprendre  :
+- Pour la qualification de vol aux instruments hélicoptère, option multimoteur, totaliser 55 heures aux instruments sur hélicoptère multimoteur pendant lesquelles il aura effectivement manœuvré les commandes et pouvant comprendre :
 
 a) 20 heures au maximum effectuées au sol sur un système d'entraînement aux procédures de vol et de navigation en hélicoptère de type I (FNPT I), ou sur un système d'entraînement aux procédures de vol et de navigation en avion de type I (FNPT I). Ces 20 heures peuvent être remplacées par 20 heures de formation pour la qualification de vol aux instruments IR (H) exécutées sur un avion approuvé pour cette formation;
 
@@ -258,7 +256,7 @@ Les dispositions des quatre alinéas qui précèdent sont applicables jusqu'à l
 
 6.3.4. Les dispositions du paragraphe 6.3.1 sont applicables jusqu'au 31 décembre 2005.
 
-Toutefois, les personnes qui, à la date du 1er janvier 2006  :
+Toutefois, les personnes qui, à la date du 1er janvier 2006 :
 
 - sont détentrices du certiﬁcat d'aptitude à l'épreuve théorique de l'examen pour l'obtention de la qualification de vol aux instruments hélicoptère ou d'au moins une matière à cette épreuve;
 
@@ -286,7 +284,7 @@ d. avoir effectué 10 décollages et 10 atterrissages complets de nuit sur avion
 
 e. avoir effectué 5 heures de vol sans visibilité sur avion,
 
-f.             avoir effectué en double commande 3 voyages de nuit d'au moins 50 milles nautiques chacun sur 3 parcours différents, à des dates différentes,
+f. avoir effectué en double commande 3 voyages de nuit d'au moins 50 milles nautiques chacun sur 3 parcours différents, à des dates différentes,
 
 g. satisfaire à des épreuves théorique et pratique ﬁxées par arrêté.
 
@@ -298,9 +296,9 @@ Une qualification de vol de nuit avion obtenue à titre de pilote privé peut ê
 
 Pour obtenir la qualification de vol de nuit avion par équivalence, le candidat doit être titulaire de l'une des qualifications françaises en état de validité désignées ci-dessous :
 
-- qualification de vol aux instruments avion déﬁnie par l'arrêté du 31 juillet 1981 modiﬁé susvisé;
+- qualification de vol aux instruments avion déﬁnie par l'arrêté du 31 juillet 1981 modiﬁé susvisé ;
 
-- qualification de vol aux instruments essais-réceptions avion déﬁnie par l'arrêté du 28 décembre 1978 relatif aux brevets, licences et qualifications des navigants de l'aéronautique civile (personnels d'essais et de réception); ou d'une carte de circulation militaire française (carte de vol sans visibilité) en état de validité.
+- qualification de vol aux instruments essais-réceptions avion déﬁnie par l'arrêté du 28 décembre 1978 relatif aux brevets, licences et qualifications des navigants de l'aéronautique civile (personnels d'essais et de réception) ;
 
 6.4.2. Privilèges du titulaire de la qualification
 
@@ -338,13 +336,11 @@ Toutefois, le titulaire d'une licence de pilote d'hélicoptère et de la qualifi
 
 Une qualification de vol de nuit Hélicoptère obtenue à titre de pilote privé peut être reportée sur une licence de pilote professionnel et vice versa.
 
-6.5.1.2. Pour obtenir la qualification de vol de nuit hélicoptère par équivalence, le candidat doit être titulaire de l'une des qualifications désignées ci-dessous  :
+6.5.1.2. Pour obtenir la qualification de vol de nuit hélicoptère par équivalence, le candidat doit être titulaire de l'une des qualifications désignées ci-dessous :
 
-- une qualification de vol aux instruments hélicoptère déﬁnie par le présent arrêté en état de validité;
+- une qualification de vol aux instruments hélicoptère déﬁnie par le présent arrêté en état de validité ;
 
-- une qualification de vol aux instruments essais réceptions hélicoptère déﬁnie par l'arrêté du 1er juin 1999 relatif aux brevets, licences et qualifications des navigants professionnels de l'aéronautique civile (personnels d'essais et de réception) en état de validité;
-
-- une carte de circulation militaire française (carte de vol sans visibilité) en état de validité.
+- une qualification de vol aux instruments essais réceptions hélicoptère déﬁnie par l'arrêté du 1er juin 1999 relatif aux brevets, licences et qualifications des navigants professionnels de l'aéronautique civile (personnels d'essais et de réception) en état de validité ;
 
 6.5.2. Privilèges du titulaire de la qualification
 
@@ -394,7 +390,7 @@ La qualification montagne est valide tant que la licence du pilote qui la détie
 
 6.8. Aptitude à la langue anglaise
 
-6.8.1. Pour démontrer son aptitude à utiliser la langue anglaise, le candidat doit  :
+6.8.1. Pour démontrer son aptitude à utiliser la langue anglaise, le candidat doit :
 
 - satisfaire à des épreuves ﬁxées par arrêté, ou
 
