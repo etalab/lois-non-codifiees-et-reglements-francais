@@ -18,6 +18,7 @@
 - [Décret n°76-148 du 11 février 1976](decret-n76-148-du-11-fevrier-1976)
 - [Décret n°76-158 du 12 février 1976](decret-n76-158-du-12-fevrier-1976)
 - [Décret n°76-153 du 13 février 1976](decret-n76-153-du-13-fevrier-1976)
+- [Décret n°76-169 du 13 février 1976](decret-n76-169-du-13-fevrier-1976)
 - [Décret n°76-73 du 15 janvier 1976](decret-n76-73-du-15-janvier-1976)
 - [Décret n°76-550 du 16 juin 1976](decret-n76-550-du-16-juin-1976)
 - [Décret n°77-42 du 17 janvier 1977](decret-n77-42-du-17-janvier-1977)

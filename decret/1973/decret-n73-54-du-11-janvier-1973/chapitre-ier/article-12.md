@@ -1,0 +1,3 @@
+# Article 12
+
+A titre transitoire et jusqu'à ce qu'il soit possible de fixer les limites des secteurs et des régions sanitaires dans les conditions prévues par le présent décret, le ministre de la santé publique détermine par arrêté lesdites limites afin de permettre la constitution des groupements interhospitaliers prévus par l'article 5 de la loi susvisée du 31 décembre 1970 ; cet arrêté est pris après avis de la Commission nationale de l'équipement hospitalier instituée par l'article 1er du décret n° 58-1202, du 11 décembre 1958, ou, lorsqu'elle aura été constituée, de la Commission nationale de l'équipement sanitaire prévue à l'article 19 ci-après.
