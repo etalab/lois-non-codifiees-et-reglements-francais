@@ -1,0 +1,3 @@
+# Article 5
+
+Les conditions d'accès aux paiements à la surface sur la base des rendements obtenus par irrigation, déterminés par le plan de régionalisation, en application des dispositions des articles 3 du règlement (CE) n° 1251/1999 et 9 du règlement (CE) n° 2316/1999 susvisés, sont fixées par arrêté du ministre chargé de l'agriculture. Elles précisent la liste des cultures arables pour lesquelles un paiement au taux de rendement obtenu par irrigation est effectué, la description du matériel d'irrigation dont doit disposer l'exploitant, la quantité d'eau minimale nécessaire à chaque culture et la période d'irrigation correspondante.

@@ -6,3 +6,4 @@
 - [Article 8-4](article-8-4.md)
 - [Article 8-5](article-8-5.md)
 - [Article 8-6](article-8-6.md)
+- [Article 8-7](article-8-7.md)
