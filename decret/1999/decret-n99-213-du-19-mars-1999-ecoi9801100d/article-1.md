@@ -14,11 +14,11 @@ a) Confiner statiquement :
 
 - les circuits nucléaires (circuit primaire et circuits auxiliaires) ;
 
-b) Vider, décontaminer et démolir les bâtiments situés en colline et les anciens vestiaires d'accès en zone contrôlée ;
+b) Vider, décontaminer et démolir les bâtiments situés en colline et réhabiliter les anciens vestiaires d'accès en zone contrôlée ;
 
 c) Démolir les bâtiments non nucléaires, à l'exception du magasin destiné au stockage de pièces de rechange et du laboratoire neutrinos. Les gravats engendrés par la démolition de ces bâtiments non nucléaires pourront éventuellement servir à remblayer les excavations du site ;
 
-d) Réaménager l'ancien bâtiment du système d'alimentation de secours des générateurs de vapeur de manière à accueillir la salle de commande principale, les locaux électriques et leur ventilation, le contrôle-commande, des équipements de protection incendie et le système de retransmission des alarmes vers la centrale nucléaire de Chooz B. Ce bâtiment réaménagé prendra la dénomination de " bâtiment électrique ".
+d) Réaménager l'ancien bâtiment du système d'alimentation de secours des générateurs de vapeur de manière à accueillir la salle de commande principale, les locaux électriques et leur ventilation, le contrôle-commande, des équipements de protection incendie et le système de retransmission des alarmes vers la centrale nucléaire de Chooz B. Ce bâtiment réaménagé prendra la dénomination de "bâtiment électrique".
 
 Modifier l'ancien local de stockage des combustibles neufs pour accueillir les installations techniques d'exploitation :
 
@@ -28,4 +28,4 @@ Aménager l'ancienne laverie et les locaux contigus en vestiaire d'accès à la 
 
 e) Installer un nouvel exutoire des circuits de ventilation près de l'entrée de la galerie d'accès de la caverne du réacteur et démonter les anciens ventilateurs situés en colline.
 
-L'ensemble de ces travaux devra être réalisé dans les cinq ans suivant la publication du présent décret au Journal officiel de la République française.
+L'ensemble de ces travaux devra être réalisé dans les huit ans suivant la publication du présent décret au Journal officiel de la République française.
