@@ -152,6 +152,7 @@
 - [Décret n°82-219 du 27 février 1982](decret-n82-219-du-27-fevrier-1982)
 - [Décret n°82-232 du 27 février 1982](decret-n82-232-du-27-fevrier-1982)
 - [Décret n°82-369 du 27 avril 1982](decret-n82-369-du-27-avril-1982)
+- [Décret n°82-647 du 27 juillet 1982](decret-n82-647-du-27-juillet-1982)
 - [Décret n°82-442 du 27 mai 1982](decret-n82-442-du-27-mai-1982)
 - [Décret du 28 avril 1982](decret-du-28-avril-1982)
 - [Décret n°82-107 du 28 janvier 1982](decret-n82-107-du-28-janvier-1982)
