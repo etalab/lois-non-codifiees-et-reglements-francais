@@ -1,0 +1,5 @@
+# Article 2
+
+Sont intégralement prises en compte les dépenses faites pour l'acquisition de terrains et d'immeubles par nature ou par destination, pour les travaux de construction et d'extension de ces immeubles et, d'une manière générale, pour tous travaux exécutés sur lesdits immeubles et n'ayant pas le caractère de travaux d'entretien, de réparation ou de grosses réparations, lorsque les acquisitions ou les travaux ont été réalisés pour les préfectures et les sous-préfectures.
+
+Lorsque des équipements de même nature ont été réalisés, postérieurement à l'entrée en vigueur des conventions conclues en application de l'article 26 de la loi n° 82-213 du 2 mars 1982, pour les services placés par cet article sous l'autorité du président du conseil général et que leur réalisation a eu pour effet de mettre des locaux supplémentaires à la disposition de l'administration préfectorale, ces opérations sont prises en compte pour un montant égal au produit de la dépense par le rapport entre la surface des locaux mis à la disposition du commissaire de la République et celle des locaux ayant fait l'objet de l'acquisition ou des travaux.

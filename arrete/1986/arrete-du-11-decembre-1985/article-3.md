@@ -1,3 +1,3 @@
 # Article 3
 
-Le présent arrêté, qui prend effet à compter du 1er janvier 1986, sera publié au Journal officiel de la République française.
+Les dispositions de l'arrêté du 18 mai 1976 fixant la liste des maladies contagieuses sont abrogées.

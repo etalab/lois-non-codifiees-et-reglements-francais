@@ -1,3 +1,23 @@
 # Article 1
 
-Les personnes publiques mentionnées à l'article 1er du décret du 30 juillet 1985 susvisé peuvent verser à l'Union des groupements d'achats publics des avances sur commandes. Leur taux ainsi que le rythme et les conditions de versement sont déterminés en tant que de besoin par la convention prévue à l'article 25 du décret du 30 juillet 1985 susvisé.
+Les corps des personnes décédées des maladies contagieuses limitativement énumérées comme suit doivent faire l'objet des précautions particulières ci-après exposées :
+
+1° Doivent être déposés en cercueil hermétique équipé d'un système épurateur de gaz agréé les corps des personnes décédées :
+
+- de variole et autres orthopoxviroses ;
+
+- de choléra ;
+
+- de charbon ;
+
+- de fièvres hémorragiques virales.
+
+2° Doivent être déposés en cercueil simple, immédiatement après le décès, les corps des personnes décédées :
+
+- de peste ;
+
+- d'une hépatite virale, sauf hépatite A confirmée ;
+
+- de rage ;
+
+- du SIDA.
