@@ -1,0 +1,5 @@
+# Article 41
+
+Les agents délégués par le directeur, après avis de l'agent comptable, peuvent être chargés, à titre de régisseurs et à charge de rapporter dans le mois au comptable les acquits des créanciers réels et les pièces justificatives, de payer, au moyen d'avances mises à leur disposition, les dépenses du port. Le montant de ces avances sera déterminé dans chaque cas par le directeur sans pouvoir excéder 100 000 francs. Si cette limite est insuffisante, un décret pris sur la proposition du ministre des finances, saisi par rapport du directeur, après délibération du conseil d'administration, fixe le maximum des avances autorisées. Aucune nouvelle avance ne petit dans les limites prévues ci-dessus, être faite par le comptable qu'autant que les acquits et les pièces justificatives de l'avance précédente lui ont été fournies, ou que la portion de cette avance dont il reste à justifier a moins d'un mois de date.
+
+Les régisseurs pourront être appelés, suivant les circonstances et dans les conditions qui seront fixées par le conseil d'administration à fournir un cautionnement déterminé conformément à l'article 40 ci-dessus.
