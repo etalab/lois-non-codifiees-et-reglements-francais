@@ -8,6 +8,8 @@ a) Pour les ULM monoplaces construits en série à partir d'un ULM de référenc
 
 b) Pour les autres ULM un manuel d'entretien.
 
+c) Pour tous les ULM, une fiche de pesée.
+
 Le ministre chargé de l'aviation civile notifie les marques d'identification portées sur la carte d'identification.
 
 Les marques d'identification comprennent le numéro du département d'attache choisi par le propriétaire suivi de deux ou trois lettres.
