@@ -1093,7 +1093,6 @@
 - [Arrêté du 28 janvier 1997 (ECOP9700061A)](arrete-du-28-janvier-1997-ecop9700061a)
 - [Arrêté du 28 janvier 1997 (EQUP9601724A)](arrete-du-28-janvier-1997-equp9601724a)
 - [Arrêté du 28 janvier 1997 (MENU9602831A)](arrete-du-28-janvier-1997-menu9602831a)
-- [Arrêté du 28 janvier 1997 (TASS9720270A)](arrete-du-28-janvier-1997-tass9720270a)
 - [Arrêté du 28 juillet 1997 (MCCB9700593A)](arrete-du-28-juillet-1997-mccb9700593a)
 - [Arrêté du 28 juillet 1997 (MEST9711121A)](arrete-du-28-juillet-1997-mest9711121a)
 - [Arrêté du 28 juillet 1997 (MJSK9770092A)](arrete-du-28-juillet-1997-mjsk9770092a)
