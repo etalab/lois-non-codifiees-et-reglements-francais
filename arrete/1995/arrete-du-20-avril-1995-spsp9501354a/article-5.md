@@ -28,6 +28,8 @@ Par exception aux dispositions de l'article 4 du présent arrêté, le rembourse
 
 - un organisme local ou régional gérant un régime de sécurité sociale ;
 
-- une fondation ou une association reconnue d'utilité publique.
+- une fondation ou une association reconnue d'utilité publique ;
+
+- une association dont les recettes proviennent majoritairement de subventions de collectivités et établissements publics.
 
 Le centre hospitalier universitaire de rattachement retourne au ministère chargé de la santé le formulaire prévu à l'annexe II afin d'établir le montant des sommes exactes qui lui seront remboursées.
