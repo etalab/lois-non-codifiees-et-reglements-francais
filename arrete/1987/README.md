@@ -101,6 +101,7 @@
 - [Arrêté du 9 septembre 1987 (AGRS8701615A)](arrete-du-9-septembre-1987-agrs8701615a)
 - [Arrêté du 10 avril 1987 (AGRP8700785A)](arrete-du-10-avril-1987-agrp8700785a)
 - [Arrêté du 10 février 1987](arrete-du-10-fevrier-1987)
+- [Arrêté du 10 juin 1987 (ECOT8750030A)](arrete-du-10-juin-1987-ecot8750030a)
 - [Arrêté du 10 mars 1987 (ASED8703218A)](arrete-du-10-mars-1987-ased8703218a)
 - [Arrêté du 10 mars 1987 (ASEG8700442A)](arrete-du-10-mars-1987-aseg8700442a)
 - [Arrêté du 10 mars 1987 (EQUS8700326A)](arrete-du-10-mars-1987-equs8700326a)
