@@ -1,6 +1,6 @@
 # Article 46
 
-A l'exception des articles 42 à 45, le présent décret est applicable dans les collectivités territoriales de Saint-Pierre-et-Miquelon et de Mayotte et dans les territoires d'outre-mer aux baux conclus ou renouvelés après le 15 mars 1999 sous réserve des adaptations suivantes :
+A l'exception des articles 42 à 45, le présent décret est applicable dans les collectivités territoriales de Saint-Pierre-et-Miquelon et de Mayotte, dans les territoires d'outre-mer et de Nouvelle-Calédonie aux baux conclus ou renouvelés après le 15 mars 1999 sous réserve des adaptations suivantes :
 
 1° A l'article 1er :
 
@@ -58,7 +58,7 @@ Art. 26. -     Les loyers des baux d'immeubles ou de locaux régis par les dispo
 
 "l'évacuation des lieux prévue à l'article 10".
 
-II. - Sont abrogées en tant qu'elles demeurent applicables dans les collectivités territoriales et les territoires d'outre-mer, à compter des dates mentionnées au premier alinéa de l'article 46 du décret du 30 décembre 1953 précité, toutes les dispositions contraires à ce décret et notamment :
+II. - Sont abrogées en tant qu'elles demeurent applicables dans les collectivités territoriales et les territoires d'outre-mer, à compter des dates mentionnées au premier alinéa de l'article 46 du décret du 15 mars 1999, toutes les dispositions contraires au décret du 30 septembre 1953 précité, et notamment :
 
 a) La loi du 30 juin 1926 réglant les rapports entre locataires et bailleurs, en ce qui concerne le renouvellement des baux à loyer d'immeubles ou de locaux à usage commercial ou industriel ;
 
