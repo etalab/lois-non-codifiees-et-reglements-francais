@@ -22,6 +22,8 @@ Présidé par le secrétaire général pour l'administration ou son représentan
 
 - le directeur de la fonction militaire et du personnel civil ;
 
+- le directeur du centre d'études en sciences sociales de la défense ;
+
 - le chef de l'observatoire social de la défense,
 
 ou leurs représentants.
