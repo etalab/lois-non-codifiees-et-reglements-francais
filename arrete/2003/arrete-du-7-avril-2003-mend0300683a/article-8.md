@@ -1,0 +1,11 @@
+# Article 8
+
+Les missions dévolues aux sous-directions et missions citées à l'article 7 sont les suivantes :
+
+La sous-direction de la recherche universitaire est chargée de préparer la répartition des moyens de la recherche entre établissements, notamment dans le cadre des contrats uniques d'établissement. Elle est associée à la définition de la politique des formations et écoles doctorales par la direction de l'enseignement supérieur. Elle assure la répartition des allocations de recherche et des post-doctorats ainsi que le suivi de leur utilisation. Elle gère l'attribution des primes d'encadrement doctorales et de recherche. Elle exerce la tutelle des écoles françaises à l'étranger.
+
+La mission de la culture et de l'information scientifiques et techniques et des musées propose et met en oeuvre la politique de culture scientifique et technique au plan national et régional. Elle assure la tutelle et la rénovation des musées et établissements nationaux relevant de sa compétence. Elle favorise la sensibilisation du public aux sciences et aux techniques. Elle encourage la production audiovisuelle scientifique.
+
+La sous-direction des organismes de recherche et de la coordination de la politique de recherche coordonne l'exercice de la tutelle sur les organismes de recherche relevant de la direction. En liaison avec la direction des affaires financières, elle instruit les mesures budgétaires les concernant et met en oeuvre un suivi d'exécution financier en relation avec les objectifs fixés à chacun d'eux. Elle traite les questions relatives à l'emploi scientifique. Elle coordonne la rédaction du rapport annuel relatif à l'état de la recherche et du développement technologique. Elle prépare en liaison avec la direction de la technologie les textes législatifs, réglementaires ou les conventions intéressant les institutions ou les procédures dans le domaine de la recherche. Elle met en oeuvre les financements provenant du Fonds national de la science.
+
+La mission pour la parité dans la recherche et l'enseignement supérieur examine la place des femmes dans les domaines de la recherche et de l'enseignement supérieur. Elle propose toutes mesures tendant à remédier aux déséquilibres constatés, notamment dans le déroulement des carrières et dans l'accès aux fonctions de responsabilité.
