@@ -1,0 +1,3 @@
+# Article 38
+
+En cas de destruction totale ou partielle, l'assemblée générale des copropriétaires dont les lots composent le bâtiment sinistré peut décider à la majorité des voix de ces copropriétaires, la reconstruction de ce bâtiment ou la remise en état de la partie endommagée. Dans le cas où la destruction affecte moins de la moitié du bâtiment, la remise en état est obligatoire si la majorité des copropriétaires sinistrés la demande. Les copropriétaires qui participent à l'entretien des bâtiments ayant subi les dommages sont tenus de participer dans les mêmes proportions et suivant les mêmes règles aux dépenses des travaux.
