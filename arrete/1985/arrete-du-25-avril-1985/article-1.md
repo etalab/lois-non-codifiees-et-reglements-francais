@@ -1,9 +1,7 @@
 # Article 1
 
-Lorsqu'une intervention sur l'installation d'un chauffe-eau instantané à gaz ou à hydrocarbures liquéfiés, d'une puissance utile égale ou inférieure à 8,72 kW, non muni de dispositifs de sécurité prévus par l'arrêté du 3 mai 1978 et non raccordé à un conduit d'évacuation des produits de combustion comporte son déplacement, son renouvellement, le remplacement de son corps de chauffe ou l'adjonction d'un poste de puisage d'eau chaude, il doit être procédé :
+Les dispositions de l'arrêté du 5 mars 1980 susvisé s'appliquent à son modificatif NF P 82-210 modificatif (janvier 1985), dans les conditions suivantes :
 
-Soit au remplacement du chauffe-eau par un appareil muni des dispositifs de sécurité prévus par l'arrêté du 3 mai 1978 ;
+- pour les commandes : neuf mois après la date de publication du présent arrêté ;
 
-Soit au raccordement du chauffe-eau à un conduit d'évacuation des produits de la combustion ;
-
-Soit au remplacement du chauffe-eau par un appareil raccordé à un conduit d'évacuation des produits de la combustion.
+- pour les matériels mis à disposition en usine : vingt et un mois après cette même date, quelle que soit la date de la commande.
