@@ -1,4 +1,4 @@
-# Dispositions applicables aux installations soumises à déclaration
+# Dispositions applicables aux installations soumises à autorisation
 
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
