@@ -29,6 +29,7 @@
 - [Décret n°53-531 du 28 mai 1953](decret-n53-531-du-28-mai-1953)
 - [Décret n°53-933 du 30 septembre 1953](decret-n53-933-du-30-septembre-1953)
 - [Décret n°53-934 du 30 septembre 1953](decret-n53-934-du-30-septembre-1953)
+- [Décret n°53-935 du 30 septembre 1953](decret-n53-935-du-30-septembre-1953)
 - [Décret n°53-953 du 30 septembre 1953](decret-n53-953-du-30-septembre-1953)
 - [Décret n°53-960 du 30 septembre 1953](decret-n53-960-du-30-septembre-1953)
 - [Décret n°53-968 du 30 septembre 1953](decret-n53-968-du-30-septembre-1953)
