@@ -65,6 +65,7 @@
 - [Arrêté du 25 septembre 1978](arrete-du-25-septembre-1978)
 - [Arrêté du 26 septembre 1978](arrete-du-26-septembre-1978)
 - [Arrêté du 27 janvier 1978](arrete-du-27-janvier-1978)
+- [Arrêté du 27 octobre 1978](arrete-du-27-octobre-1978)
 - [Arrêté du 28 décembre 1977](arrete-du-28-decembre-1977)
 - [Arrêté du 29 juillet 1982](arrete-du-29-juillet-1982)
 - [Arrêté du 29 juin 1978](arrete-du-29-juin-1978)
