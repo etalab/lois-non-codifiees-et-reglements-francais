@@ -580,7 +580,6 @@
 - [Arrêté du 24 août 1999 (ECOS9950033A)](arrete-du-24-aout-1999-ecos9950033a)
 - [Arrêté du 24 décembre 1998 (AGRA9802426A)](arrete-du-24-decembre-1998-agra9802426a)
 - [Arrêté du 24 décembre 1998 (AGRA9802634A)](arrete-du-24-decembre-1998-agra9802634a)
-- [Arrêté du 24 décembre 1998 (ECOI9801023A)](arrete-du-24-decembre-1998-ecoi9801023a)
 - [Arrêté du 24 décembre 1998 (ECOT9814005A)](arrete-du-24-decembre-1998-ecot9814005a)
 - [Arrêté du 24 décembre 1998 (MESP9824144A)](arrete-du-24-decembre-1998-mesp9824144a)
 - [Arrêté du 24 décembre 1998 (MESP9824145A)](arrete-du-24-decembre-1998-mesp9824145a)
