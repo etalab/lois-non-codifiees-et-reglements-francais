@@ -2,17 +2,15 @@
 
 Une nouvelle bonification indiciaire dont le montant est pris en compte et soumis à cotisation pour le calcul de la pension de retraite est attribuée mensuellement, à raison de leurs fonctions, aux fonctionnaires hospitaliers ci-dessous mentionnés :
 
-1° Fonctionnaires nommés dans le corps des infirmiers surveillants-chefs des services médicaux ou dans le corps des infirmiers exerçant auprès des personnes âgées relevant des sections de cure médicale ou dans les services ou les unités de soins de longue durée auprès des personnes n'ayant pas leur autonomie de vie :
-
-3 points majorés à compter du 1er août 1992. Ce nombre de points sera porté à 7 à compter du 1er août 1993, à 10 à compter du 1er août 1994 ;
+1° Fonctionnaires nommés infirmiers cadres de santé ou dans le corps des infirmiers exerçant auprès des personnes âgées relevant des sections de cure médicale ou dans les services ou les unités de soins de longue durée auprès des personnes n'ayant pas leur autonomie de vie : 3 points majorés à compter du 1er août 1992. Ce nombre de points sera porté à 7 à compter du 1er août 1993, à 10 à compter du 1er août 1994 ;
 
 2° Fonctionnaires nommés dans le corps des aides-soignants exerçant auprès des personnes âgées relevant des sections de cure médicale ou dans les services ou les unités de soins de longue durée auprès des personnes n'ayant pas leur autonomie de vie : 4 points majorés à compter du 1er août 1992. Ce nombre de points sera porté à 7 à compter du 1er août 1993, à 10 à compter du 1er août 1994 ;
 
-3° Directeurs d'école préparant au diplôme d'Etat d'infirmier-anesthésiste : 34 points majorés. Ce montant est porté à 41 points nouveaux majorés à compter du 1er janvier 1993 ;
+3° Directeurs des soins, directeurs d'institut de formation préparant au diplôme d'Etat d'infirmier anesthésiste ; 30 points majorés ;
 
-4° Directeurs d'école préparant au diplôme d'Etat de puéricultrice, d'infirmier de bloc opératoire, de manipulateur d'électroradiologie médicale, de masseur-kinésithérapeute et de laborantin d'analyses médicales : 13 points majorés ;
+4° Directeurs des soins, directeurs d'institut de formation préparant au diplôme d'Etat de puéricultrice, d'infirmier de bloc opératoire, de manipulateur d'électroradiologie médicale, de masseur-kinésithérapeute, de laborantin d'analyses médicales :
 
-A compter du 1er août 1993, ce montant sera porté à dix-neuf points majorés pour les directeurs d'école préparant au diplôme d'Etat d'infirmier de bloc opératoire.
+30 points majorés ;
 
 5° Techniciens de laboratoire placés en cadre d'extinction :
 

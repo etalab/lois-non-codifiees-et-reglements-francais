@@ -2,9 +2,9 @@
 
 Une nouvelle bonification indiciaire, dont le montant est pris en compte et soumis à cotisations pour le calcul de la pension de retraite, est attribuée mensuellement, à raison de leurs fonctions, aux fonctionnaires hospitaliers ci-dessous :
 
-1° Directeurs d'une école préparant au diplôme d'Etat de pédicure podologue : 30 points majorés ;
+1° Directeurs des soins, directeurs d'institut de formation préparant au diplôme d'Etat de pédicure-podologue : 30 points majorés ;
 
-2° Agents nommés dans le corps des pédicures podologues et dans le corps des pédicures podologues surveillants-chefs des services médicaux : 13 points majorés ;
+2° Agents nommés dans le corps des pédicures podologues cadres de santé ; 13 points majorés ;
 
 3° Agents affectés dans un service de "grands brûlés" et participant directement aux soins dont ces malades bénéficient :
 
