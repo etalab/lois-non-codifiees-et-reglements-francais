@@ -6,4 +6,4 @@ Pour chacun des corps de personnels de direction, la proportion des fonctionnair
 
 personnels de direction de 1re catégorie : 30 p. 100 au maximum de l'effectif du corps ;
 
-personnels de direction de 2e catégorie : 15 p. 100 [*pourcentage*] au maximum de l'effectif du corps.
+personnels de direction de 2e catégorie : 20 p. 100 [*pourcentage*] au maximum de l'effectif du corps.

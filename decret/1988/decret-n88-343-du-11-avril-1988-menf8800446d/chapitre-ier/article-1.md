@@ -18,6 +18,8 @@ Directeur du Centre national d'études et de formation pour l'adaptation scolair
 
 Directeur du Centre national de formation et de perfectionnement des professeurs d'enseignement ménager et ménager agricole ;
 
+Directeur d'établissement public dispensant un enseignement artistique ou d'art appliqué relevant de l'enseignement secondaire figurant sur une liste établie par arrêté conjoint des ministres chargés de l'éducation et du budget ;
+
 b) Proviseur de lycée professionnel ;
 
 Principal de collège ;
@@ -30,7 +32,9 @@ Principal adjoint de collège ;
 
 Directeur adjoint d'école normale d'instituteurs ;
 
-Directeur adjoint d'école normale nationale d'apprentissage.
+Directeur adjoint d'école normale nationale d'apprentissage ;
+
+directeur adjoint d'établissement public dispensant un enseignement artistique ou d'art appliqué relevant de l'enseignement secondaire figurant sur une liste établie par arrêté conjoint des ministres chargés de l'éducation et du budget.
 
 Les emplois visés au a ci-dessus sont normalement occupés par les membres du corps de personnels de direction de 1re catégorie.
 
