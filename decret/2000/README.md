@@ -10,6 +10,7 @@
 - [Décret n°2000-89 du 2 février 2000 (MESC0010121D)](decret-n2000-89-du-2-fevrier-2000-mesc0010121d)
 - [Décret n°2000-92 du 2 février 2000 (INTE0000020D)](decret-n2000-92-du-2-fevrier-2000-inte0000020d)
 - [Décret n°2000-96 du 2 février 2000 (EQUZ9901164D)](decret-n2000-96-du-2-fevrier-2000-equz9901164d)
+- [Décret n°85-1060 du 2 octobre 1985](decret-n85-1060-du-2-octobre-1985)
 - [Décret n°99-1012 du 2 décembre 1999 (MESS9923619D)](decret-n99-1012-du-2-decembre-1999-mess9923619d)
 - [Décret n°99-1013 du 2 décembre 1999 (MESS9923620D)](decret-n99-1013-du-2-decembre-1999-mess9923620d)
 - [Décret n°2001-401 du 2 mai 2001 (RECF0100080D)](decret-n2001-401-du-2-mai-2001-recf0100080d)
