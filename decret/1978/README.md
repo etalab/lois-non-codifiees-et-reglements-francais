@@ -74,6 +74,7 @@
 - [Décret n°78-353 du 20 mars 1978](decret-n78-353-du-20-mars-1978)
 - [Décret n°78-394 du 20 mars 1978](decret-n78-394-du-20-mars-1978)
 - [Décret n°78-399 du 20 mars 1978](decret-n78-399-du-20-mars-1978)
+- [Décret n°78-72 du 20 janvier 1978](decret-n78-72-du-20-janvier-1978)
 - [Décret n°78-206 du 21 février 1978](decret-n78-206-du-21-fevrier-1978)
 - [Décret n°78-1111 du 22 novembre 1978](decret-n78-1111-du-22-novembre-1978)
 - [Décret n°78-1173 du 22 novembre 1978](decret-n78-1173-du-22-novembre-1978)
