@@ -4,4 +4,6 @@ I. - Les personnes exerçant une activité non salariée non agricole mentionné
 
 En cas de poursuite de tout ou partie de l'activité dans une autre zone franche urbaine, l'exonération cesse d'être applicable à la partie de l'activité transférée dans cette zone franche urbaine.
 
+A l'issue de cette période, le bénéfice de l'exonération est maintenu de manière dégressive pendant les trois années suivantes, au taux de 60 % la première année, de 40 % la deuxième année et de 20 % la troisième année.
+
 II. - Le droit à l'exonération prévue au I est subordonné à la condition que les intéressés soient à jour de leurs obligations à l'égard des organismes de recouvrement des cotisations d'assurance maladie ou aient souscrit un engagement d'apurement progressif de leurs dettes.
