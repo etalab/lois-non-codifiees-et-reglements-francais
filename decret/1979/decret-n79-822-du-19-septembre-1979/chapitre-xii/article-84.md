@@ -1,5 +1,7 @@
 # Article 84
 
-Les dispositions du présent décret relatives aux brevets sont applicables aux demandes de certificat d'addition et aux certificats d'addition rattachés à des demandes de brevet ou à des brevets, à l'exception des articles 43, 56, 70 (1er alinéa), 71, 73 et 94 (2e, 3e et 4e alinéa).
+L'avis documentaire prévu à l'article L. 612-23 du code de la propriété intellectuelle est établi sur la base du rapport de recherche à la demande écrite du titulaire du brevet, de toute autre personne intéressée, ou de toute autorité administrative.
 
-Aucune demande de certificat d'addition ne peut être rattachée à plusieurs demandes de brevet ou à plusieurs brevets, ni à une ou plusieurs demandes de certificat d'addition ou à un ou plusieurs certificats d'addition.
+Peuvent être annexés à la demande des documents non cités dans le rapport de recherche, que le demandeur souhaite voir pris en considération. S'ils sont rédigés en langue étrangère, une traduction peut être requise par l'Institut national de la proriété industrielle.
+
+La demande est irrecevable si elle n'est pas accompagnée de la justification du paiement de la redevance prescrite.

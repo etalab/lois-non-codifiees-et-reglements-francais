@@ -11,7 +11,7 @@
 - [Chapitre IX : De la licence de droit.](chapitre-ix)
 - [Chapitre X : Renonciation, déchéance et nullité.](chapitre-x)
 - [Chapitre XI : Registre national des brevets.](chapitre-xi)
-- [Chapitre XII : Du certificat d'addition.](chapitre-xii)
+- [Chapitre XII : De l'avis documentaire.](chapitre-xii)
 - [Chapitre XIII : Du certificat d'utilité.](chapitre-xiii)
 - [Chapitre XIII bis : Du certificat complémentaire de protection.](chapitre-xiii-bis)
 - [Chapitre XV : Recours en restauration et recours contre les décisions du directeur de l'Institut national de la propriété industrielle.](chapitre-xv)

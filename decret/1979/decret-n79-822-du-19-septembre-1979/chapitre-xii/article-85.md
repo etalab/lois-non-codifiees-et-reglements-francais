@@ -1,5 +1,17 @@
 # Article 85
 
-Est déclarée irrecevable toute demande de certificat d'addition dont le demandeur n'est pas le propriétaire ou l'un des copropriétaires, inscrit au registre national des brevets, de la demande de brevet ou du brevet auquel est rattachée la demande de certificat d'addition, à moins que, dans le délai de deux mois à compter de la date de réception de la notification qui lui est adressée à cet effet, il n'ait fait inscrire au registre le document qui atteste de sa qualité de propriétaire ou de copropriétaire de la demande de brevet ou du brevet ; toutefois, le demandeur du certificat d'addition peut justifier de sa qualité de propriétaire ou de copropriétaire de la demande de brevet par tout autre moyen.
+L'avis documentaire est établi selon la procédure ci-après :
 
-Est aussi déclarée irrecevable toute demande de certificat d'addition rattachée soit à une demande de brevet retirée ou rejetée, soit à une demande de brevet ou à un brevet déchu.
+I.  Lorsqu'il est demandé par le titulaire du brevet :
+
+1. Un projet est établi et notifié au titulaire du brevet. Un délai lui est imparti pour en discuter éventuellement le bien-fondé.    2. L'avis est établi au vu du projet et des observations le cas échéant formulées. Il est notifié au titulaire du brevet.
+
+II.  Lorsqu'il n'est pas demandé par le titulaire du brevet :
+
+1. La demande d'avis est notifiée sans délai au titulaire du brevet. Un délai lui est imparti pour présenter des observations et, le cas échéant, constituer un mandataire répondant aux conditions prévues à l'article 2 du présent décret.
+
+2. Un projet est établi au vu des observations en réponse. Ce projet est notifié au titulaire du brevet et au demandeur. Un délai leur est imparti pour en discuter éventuellement le bien-fondé.
+
+3. L'avis est établi au vu du projet d'avis et des observations le cas échéant formulées. Il est notifié au titulaire du brevet et au demandeur.
+
+L'institut veille au respect du principe du contradictoire. Toute observation émanant du titulaire du brevet ou du demandeur est sans délai notifiée à l'autre.
