@@ -5,7 +5,6 @@
 - [Article 68](article-68.md)
 - [Article 70](article-70.md)
 - [Article 76](article-76.md)
-- [Article 77](article-77.md)
 - [Article 78](article-78.md)
 - [Article 82](article-82.md)
 - [Article 84](article-84.md)
