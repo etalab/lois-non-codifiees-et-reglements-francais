@@ -4,7 +4,7 @@ Les praticiens-conseils ont droit à une gratification annuelle égale au salair
 
 A compter du 1er janvier 2003, le médecin-conseil national, les médecins-conseils nationaux adjoints et les médecins-conseils régionaux bénéficient au titre de leurs responsabilités particulières d'une prime mensuelle de 5,33 points.
 
-A compter du 1er janvier 2003, le médecin-conseil national, les médecins-conseils nationaux adjoints et les médecins-conseils régionaux bénéficient au titre de leurs responsabilités particulières d'une prime du même montant que celle attribuée aux agents comptables, directeurs adjoints et sous-directeurs des organismes régionaux du régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles.
+A compter du 1er janvier 2003, le médecin-conseil national, les médecins-conseils nationaux adjoints, les médecins-conseils régionaux bénéficient au titre de leurs responsabilités particulières d'une prime mensuelle de 5,33 points.
 
 Cette prime liée à l'exercice de la fonction est versée de manière uniforme quelle que soit la catégorie de l'organisme dans lequel la fonction est exercée. Elle s'applique dès la prise de fonction. Son versement est mensuel et suit le régime des autres éléments de rémunération. Elle cesse d'être attribuée lorsque l'intéressé n'exerce plus sa fonction.
 
