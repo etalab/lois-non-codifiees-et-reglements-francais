@@ -1,6 +1,6 @@
 # Article 8
 
-Les épreuves nationales d'aptitudes prévues au deuxième alinéa de l'article 3 de la loi n° 95-116 du 4 février 1995 susvisé sont les suivantes :
+Les épreuves nationales d'aptitudes prévues au deuxième alinéa des articles 3 et 4 de la loi n° 95-116 du 4 février 1995 susvisé sont les suivantes :
 
 Une épreuve écrite anonyme de connaissances théoriques cotée sur 60 points ;
 

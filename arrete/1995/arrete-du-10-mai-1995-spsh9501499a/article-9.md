@@ -4,7 +4,7 @@ Les épreuves anonymes de connaissances théoriques et pratiques sont organisée
 
 Les épreuves de biologie sont organisées à Poitiers.
 
-Les épreuves de médecine sont organisées à Strasbourg.
+Les épreuves de médecine, de radiologie et imagerie médicale sont organisées à Strasbourg.
 
 Les épreuves de chirurgie sont organisées à Toulouse.
 

@@ -35,3 +35,5 @@ Psychiatrie :
 2° Psychiatrie infanto-juvénile (durée : deux heures ; cotée de 0 à 20 ; affectée d'un coefficient 2) ;
 
 3° Une ou plusieurs questions portant sur l'expertise médico-légale, la législation et la réglementation applicables au fonctionnement des hôpitaux psychiatriques ainsi qu'aux malades mentaux (durée : deux heures ; cotée de 0 à 20 ; affectée d'un coefficient 2).
+
+Toute note inférieure à 6 est éliminatoire.

@@ -21,3 +21,5 @@ Psychiatrie :
 2° Pathologie psychiatrique (durée : deux heures ; cotée de 0 à 20) ;
 
 3° Législation et réglementation applicables aux hôpitaux psychiatriques et aux malades mentaux (durée : deux heures ; cotée de 0 à 20).
+
+Toute note inférieure à 6 est éliminatoire.
