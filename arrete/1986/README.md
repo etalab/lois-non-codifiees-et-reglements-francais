@@ -38,7 +38,6 @@
 - [Arrêté du 6 décembre 1986](arrete-du-6-decembre-1986)
 - [Arrêté du 6 janvier 1986](arrete-du-6-janvier-1986)
 - [Arrêté du 6 juin 1986](arrete-du-6-juin-1986)
-- [Arrêté du 6 mars 1986](arrete-du-6-mars-1986)
 - [Arrêté du 6 mars 1987 (ECOT8719000A)](arrete-du-6-mars-1987-ecot8719000a)
 - [Arrêté du 6 novembre 1986](arrete-du-6-novembre-1986)
 - [Arrêté du 6 octobre 1986](arrete-du-6-octobre-1986)
