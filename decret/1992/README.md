@@ -524,7 +524,6 @@
 - [Décret n°92-540 du 15 juin 1992 (SPSG9201025D)](decret-n92-540-du-15-juin-1992-spsg9201025d)
 - [Décret n°92-63 du 15 janvier 1992 (PRMG9170491D)](decret-n92-63-du-15-janvier-1992-prmg9170491d)
 - [Décret n°92-687 du 15 juillet 1992 (ECOC9200071D)](decret-n92-687-du-15-juillet-1992-ecoc9200071d)
-- [Décret n°92-994 du 15 septembre 1992 (DEFD9201865D)](decret-n92-994-du-15-septembre-1992-defd9201865d)
 - [Décret n°92-995 du 15 septembre 1992 (DEFP9201876D)](decret-n92-995-du-15-septembre-1992-defp9201876d)
 - [Décret n°92-997 du 15 septembre 1992 (ENVE9200057D)](decret-n92-997-du-15-septembre-1992-enve9200057d)
 - [Décret n°93-55 du 15 janvier 1993 (MENE9204227D)](decret-n93-55-du-15-janvier-1993-mene9204227d)
