@@ -1,6 +1,6 @@
 # Article 3
 
-S'agissant du courrier déposé sur le site par les usagers, les catégories d'informations directement ou indirectement nominatives enregistrées sont les suivantes :
+S'agissant du courrier déposé sur le site par les usagers, de la participation aux forums et de l'abonnement à la lettre d'actualité électronique, les catégories d'informations directement ou indirectement nominatives enregistrées sont les suivantes :
 
 - l'adresse de la messagerie de l'émetteur ;
 
@@ -8,4 +8,4 @@ S'agissant du courrier déposé sur le site par les usagers, les catégories d'i
 
 - le contenu du message ;
 
-- le cas échéant, l'identité et l'adresse postale de l'usager.
+- le cas échéant et facultativement, l'identité, la fonction, l'entreprise et l'adresse postale de l'usager.

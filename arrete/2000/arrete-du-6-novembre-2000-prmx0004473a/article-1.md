@@ -6,4 +6,8 @@ Il est créé par la direction de la Documentation française un site internet i
 
 - le recensement des responsables de l'administration ;
 
-- la gestion du courrier électronique déposé par les usagers.
+- la gestion du courrier électronique déposé par les usagers ;
+
+- la création de forums ;
+
+- l'abonnement à une lettre d'actualité électronique.
