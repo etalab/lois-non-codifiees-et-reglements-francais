@@ -1,0 +1,9 @@
+# Article 11
+
+Les assurés du régime local qui ont droit à une rente d'invalidité ou de vieillesse, par application soit du code des assurances sociales, soit de la loi du 20 décembre 1911, reçoivent à titre de pension minimum à l'âge de soixante-cinq ans la même allocation et les mêmes avantages complémentaires que ceux accordés aux titulaires de pension de vieillesse du régime général des assurances sociales visées à l'article 13, paragraphe 1er, de ladite ordonnance. La rente inscrite au compte individuel à laquelle peuvent prétendre ces derniers, est remplacée pour les assurés susvisés, par une majoration annuelle égale à 10 p. 100 des cotisations effectives afférentes aux périodes d'assurances antérieures au 1er janvier 1941 et entrant en compte pour le calcul de leurs rentes.
+
+Les mêmes avantages sont accordés aux assurés qui réunissent les conditions ci-dessus prévues à partir de l'âge de soixante ans s'ils sont reconnus inaptes au travail par une commission régionale instituée à cet effet et dont les décisions sont susceptibles d'appel devant les commissions nationales visées à l'article 2, paragraphe 2, de l'ordonnance n° 45-170 du 2 février 1945.
+
+La pension prévue au présent article n'est pas perçue si la rente à laquelle l'intéressé peut avoir droit lui est supérieure, mais elle s'y substitue lorsque la rente lui est inférieure. Elle est réversible au profit de la veuve à charge, dans les mêmes conditions et dans la même mesure que l'allocation et les avantages complémentaires auxquels ont droit les titulaires de pensions du régime général des assurances sociales.
+
+Des arrêtés conjoints du ministre du travail et de la sécurité sociale, du ministre des finances et du ministre de l'économie nationale, fixeront les modalités d'application du présent article et de l'article 10 ci-dessus, ainsi que les règles de coordination du régime local avec celui de l'ordonnance susvisée du 2 février 1945.
