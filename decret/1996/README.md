@@ -260,7 +260,6 @@
 - [Décret n°96-809 du 10 septembre 1996 (AGRA9601475D)](decret-n96-809-du-10-septembre-1996-agra9601475d)
 - [Décret n°96-885 du 10 octobre 1996 (ENVN9640065D)](decret-n96-885-du-10-octobre-1996-envn9640065d)
 - [Décret n°96-886 du 10 octobre 1996 (JUSC9620136D)](decret-n96-886-du-10-octobre-1996-jusc9620136d)
-- [Décret n°96-887 du 10 octobre 1996 (JUSC9620137D)](decret-n96-887-du-10-octobre-1996-jusc9620137d)
 - [Décret n°96-893 du 10 octobre 1996 (BUDF9610033D)](decret-n96-893-du-10-octobre-1996-budf9610033d)
 - [Décret n°96-894 du 10 octobre 1996 (INDA9600576D)](decret-n96-894-du-10-octobre-1996-inda9600576d)
 - [Décret n°96-912 du 10 octobre 1996 (INDH9600564D)](decret-n96-912-du-10-octobre-1996-indh9600564d)
