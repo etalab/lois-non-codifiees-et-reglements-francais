@@ -114,13 +114,11 @@ Le comité technique doit être consulté avant toute création d'annexe du banc
 
 Le directeur du banc d'épreuve informe le comité des expertises qui lui ont été demandées et, en particulier, des expertises d'armes éclatées qu'il a pu être amené à effectuer.
 
-Art. 22. - Le comité technique comprend :
+Art. 22. -Le comité technique comprend :
 
 Deux membres titulaires et deux membres suppléants proposés par la chambre de commerce et d'industrie ;
 
-Deux membres titulaires et deux membres suppléants proposés par la chambre syndicale nationale de l'industrie de l'arme et de la distribution de gros des armes, munitions et accessoires, un membre titulaire et un membre suppléant au titre des fabricants d'armes, et un membre titulaire et un membre suppléant au titre de la distribution de gros et des importateurs ;
-
-Un membre titulaire et un membre suppléant proposés par le syndicat national des articles métalliques ;
+Trois membres titulaires et trois membres suppléants proposés par la chambre syndicale nationale des fabricants et distributeurs d'armes, munitions, équipements et accessoires pour la chasse et le tir sportif, un membre titulaire et un membre suppléant au titre des fabricants d'armes, un membre titulaire et un membre suppléant au titre de la distribution de gros et des importateurs et un membre titulaire et un membre suppléant au titre des fabricants de munitions ;
 
 Un membre titulaire et un membre suppléant proposés par le syndicat de l'outillage à main et des machines électroportatives ;
 
