@@ -1,3 +1,0 @@
-# Article 1
-
-Le délai prévu à l'article 10, 7°, de la loi n° 48-1360 du 1er septembre 1948 modifiée, pour le cas où la diminution du nombre des occupants est due à un décès est porté à trois ans si le décès est consécutif à l'un des crimes énumérés à l'ordonnance n° 58-921 du 8 octobre 1958 relative à la répression des infractions commises en vue d'apporter une aide aux rebelles des départements algériens. Il en est de même en cas de décès d'un membre des forces de police ou en cas de décès d'un militaire appartenant à une unité stationnée en Afrique du Nord ou ayant souscrit un engagement, rengagement ou contrat pour participation hors de la métropole à des opérations militaires de maintien de l'ordre ou de police.
