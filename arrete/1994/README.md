@@ -172,7 +172,6 @@
 - [Arrêté du 5 mai 1994 (INDB9400558A)](arrete-du-5-mai-1994-indb9400558a)
 - [Arrêté du 5 mai 1994 (INDB9400559A)](arrete-du-5-mai-1994-indb9400559a)
 - [Arrêté du 5 mai 1994 (INDP9400549A)](arrete-du-5-mai-1994-indp9400549a)
-- [Arrêté du 5 mai 1994 (TEFE9400381A)](arrete-du-5-mai-1994-tefe9400381a)
 - [Arrêté du 5 mai 1994 (TEFE9400442A)](arrete-du-5-mai-1994-tefe9400442a)
 - [Arrêté du 6 avril 1994 (BUDB9460013A)](arrete-du-6-avril-1994-budb9460013a)
 - [Arrêté du 6 avril 1994 (ECOS9450010A)](arrete-du-6-avril-1994-ecos9450010a)
