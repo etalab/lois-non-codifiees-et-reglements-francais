@@ -710,7 +710,6 @@
 - [Arrêté du 29 avril 1987 (ASES8700676A)](arrete-du-29-avril-1987-ases8700676a)
 - [Arrêté du 29 avril 1987 (INDT8703500A)](arrete-du-29-avril-1987-indt8703500a)
 - [Arrêté du 29 décembre 1986](arrete-du-29-decembre-1986)
-- [Arrêté du 29 décembre 1986 (INDA8600033A)](arrete-du-29-decembre-1986-inda8600033a)
 - [Arrêté du 29 décembre 1987 (AGRP8702267A)](arrete-du-29-decembre-1987-agrp8702267a)
 - [Arrêté du 29 décembre 1987 (ASES8701876A)](arrete-du-29-decembre-1987-ases8701876a)
 - [Arrêté du 29 décembre 1987 (ASES8701889A)](arrete-du-29-decembre-1987-ases8701889a)
