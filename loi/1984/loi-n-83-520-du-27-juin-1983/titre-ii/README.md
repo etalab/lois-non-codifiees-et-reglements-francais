@@ -6,7 +6,6 @@
 - [Chapitre IV : De la cour d'assises.](chapitre-iv)
 - [Chapitre V : Du jugement des délits.](chapitre-v)
 - [Chapitre VI : Du jugement des contraventions.](chapitre-vi)
-- [Article 7](article-7.md)
 - [Chapitre VII : Des citations et significations.](chapitre-vii)
 - [Article 8](article-8.md)
 - [Chapitre VIII : Du pourvoi en cassation.](chapitre-viii)
