@@ -1,0 +1,3 @@
+# Article 5
+
+Par dérogation aux dispositions de l'article 4 ci-dessus, les conventions passées avec les producteurs par un établissement laitier ramassant du lait dans d'autres départements que celui où il est situé peuvent, sur autorisation du préfet du département du lieu de situation de l'établissement, accordée après consultation des organisations professionnelles laitières les plus représentatives et des préfets des autres départements intéressés, être soumises aux dispositions réglementaires édictées pour le département, ou l'un des départements ou, le cas échéant, la région ou l'une des régions, où cet établissement ramasse du lait.
