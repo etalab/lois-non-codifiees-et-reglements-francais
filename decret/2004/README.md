@@ -65,6 +65,8 @@
 - [Décret n°95-110 du 2 février 1995 (MCCK9400557D)](decret-n95-110-du-2-fevrier-1995-mcck9400557d)
 - [Décret n°2002-853 du 2 mai 2002 (MCCB0200271D)](decret-n2002-853-du-2-mai-2002-mccb0200271d)
 - [Décret n°2003-852 du 3 septembre 2003 (MCCB0300517D)](decret-n2003-852-du-3-septembre-2003-mccb0300517d)
+- [Décret n°2004-1326 du 3 décembre 2004 (MENS0402682D)](decret-n2004-1326-du-3-decembre-2004-mens0402682d)
+- [Décret n°2004-1328 du 3 décembre 2004 (SANS0424030D)](decret-n2004-1328-du-3-decembre-2004-sans0424030d)
 - [Décret n°2004-203 du 3 mars 2004 (BUDF0400005D)](decret-n2004-203-du-3-mars-2004-budf0400005d)
 - [Décret n°2004-205 du 3 mars 2004 (INTF0400046D)](decret-n2004-205-du-3-mars-2004-intf0400046d)
 - [Décret n°2004-208 du 3 mars 2004 (BUDR0403007D)](decret-n2004-208-du-3-mars-2004-budr0403007d)

@@ -915,6 +915,7 @@
 - [Arrêté du 29 juin 2004 (SANP0422287A)](arrete-du-29-juin-2004-sanp0422287a)
 - [Arrêté du 29 mars 2004 (DESP0430052A)](arrete-du-29-mars-2004-desp0430052a)
 - [Arrêté du 29 mars 2004 (VILC0410635A)](arrete-du-29-mars-2004-vilc0410635a)
+- [Arrêté du 29 novembre 2004 (SANP0424067A)](arrete-du-29-novembre-2004-sanp0424067a)
 - [Arrêté du 29 octobre 2004 (DEFP0401098A)](arrete-du-29-octobre-2004-defp0401098a)
 - [Arrêté du 30 août 2004 (DEVP0430114A)](arrete-du-30-aout-2004-devp0430114a)
 - [Arrêté du 30 août 2004 (MENF0401621A)](arrete-du-30-aout-2004-menf0401621a)
