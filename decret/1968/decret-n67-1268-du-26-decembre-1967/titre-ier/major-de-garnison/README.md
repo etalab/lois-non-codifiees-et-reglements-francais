@@ -1,3 +1,0 @@
-# Major de garnison.
-
-- [Article 6](article-6.md)
