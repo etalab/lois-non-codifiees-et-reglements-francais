@@ -2,7 +2,7 @@
 
 Il est alloué aux saisissants et intervenants une rémunération globale forfaitaire fixée à :
 
-4.000 F pour les affaires dont le produit net est compris entre 20.000 et 50.000 F ;
+3.000 F pour les affaires dont le produit net est compris entre 10.000 et 20.000 F ;
 
 8.000 F pour les affaires dont le produit net est compris entre 50.001 et 100.000 F inclus ;
 
