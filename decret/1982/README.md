@@ -204,6 +204,7 @@
 - [Décret n°82-812 du 23 septembre 1982](decret-n82-812-du-23-septembre-1982)
 - [Décret du 24 décembre 1981](decret-du-24-decembre-1981)
 - [Décret n°81-181 du 24 février 1981](decret-n81-181-du-24-fevrier-1981)
+- [Décret n°82-1004 du 24 novembre 1982](decret-n82-1004-du-24-novembre-1982)
 - [Décret n°82-186 du 24 février 1982](decret-n82-186-du-24-fevrier-1982)
 - [Décret n°82-211 du 24 février 1982](decret-n82-211-du-24-fevrier-1982)
 - [Décret n°82-262 du 24 mars 1982](decret-n82-262-du-24-mars-1982)

@@ -1,4 +1,4 @@
-# Arrêté du 22 novembre 1982 concernant les dispositions relatives aux nominations des membres du corps des chambres régionales des comptes prévues à titre transitoire à l'article 27 de la loi n° 82-595 du 10 juillet 1982 sur les chambres régionales des comptes
+# Arrêté du 22 novembre 1982 portant création du comité technique paritaire ministériel
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
