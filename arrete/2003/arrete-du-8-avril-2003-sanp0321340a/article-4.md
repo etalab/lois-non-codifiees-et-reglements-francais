@@ -2,7 +2,7 @@
 
 Sont membres désignés par arrêté du ministre chargé de la santé :
 
-Huit représentants des sociétés savantes :
+Neuf représentants de sociétés savantes :
 
 - le président de l'Association française pour l'étude du foie ou son représentant ;
 
@@ -19,6 +19,8 @@ Huit représentants des sociétés savantes :
 - le président de la Société française d'endoscopie digestive ou son représentant ;
 
 - le président de la Société française de microbiologie ou son représentant.
+
+- le président de la Société française d'hygiène hospitalière ou son représentant ;
 
 Cinq représentants d'associations d'usagers engagées dans la lutte contre les hépatites virales.
 
@@ -53,6 +55,8 @@ Le président de la conférence des directeurs généraux de CHU ou son représe
 Le président de la conférence des directeurs de centre hospitalier ou son représentant.
 
 Le président de la Fédération hospitalière privée ou son représentant.
+
+Trois professionnels de santé.
 
 Un pharmacien hospitalier.
 
