@@ -392,6 +392,7 @@
 - [Arrêté du 21 novembre 1991 (BUDR9104083A)](arrete-du-21-novembre-1991-budr9104083a)
 - [Arrêté du 21 novembre 1991 (ENVP9161388A)](arrete-du-21-novembre-1991-envp9161388a)
 - [Arrêté du 21 novembre 1991 (ENVP9161389A)](arrete-du-21-novembre-1991-envp9161389a)
+- [Arrêté du 21 mai 1992 (INTE9200238A)](arrete-du-21-mai-1992-inte9200238a)
 - [Arrêté du 21 mai 1992 (MENK9200008A)](arrete-du-21-mai-1992-menk9200008a)
 - [Arrêté du 22 janvier 1992 (BUDZ9200005A)](arrete-du-22-janvier-1992-budz9200005a)
 - [Arrêté du 22 janvier 1992 (ECOC9100157A)](arrete-du-22-janvier-1992-ecoc9100157a)
@@ -601,4 +602,4 @@
 - [Arrêté du 31 mars 1992 (PTTR9200184A)](arrete-du-31-mars-1992-pttr9200184a)
 - [Arrêté du 31 mars 1992 (RESY9200039A)](arrete-du-31-mars-1992-resy9200039a)
 - [Arrêté du 31 mars 1992 (SANH9200864A)](arrete-du-31-mars-1992-sanh9200864a)
-- [Arrêté du 31 mars 1992 (SPSs9200875A)](arrete-du-31-mars-1992-spss9200875a)
+- [Arrêté du 31 mars 1992 (SPSS9200875A)](arrete-du-31-mars-1992-spss9200875a)
