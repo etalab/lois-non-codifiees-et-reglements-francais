@@ -1,4 +1,4 @@
-# Arrêté du 5 août 1985 portant ouverture et fixation, à titre expérimental, de la tarification d'un service de communications surtaxées dit Kiosque téléphonique
+# Décret n°85-894 du 14 août 1985 n° 85-894 du 14 août 1985 relatif aux modalités d'établissement par le département de statistiques en matière d'action sociale et de santé.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -10,6 +10,3 @@
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
-- [Article 11](article-11.md)
-- [Article 12](article-12.md)
-- [Article 13](article-13.md)

@@ -115,6 +115,7 @@
 - [Arrêté du 21 juin 1985](arrete-du-21-juin-1985)
 - [Arrêté du 21 mars 1985](arrete-du-21-mars-1985)
 - [Arrêté du 21 mai 1985](arrete-du-21-mai-1985)
+- [Arrêté du 22 août 1985](arrete-du-22-aout-1985)
 - [Arrêté du 22 avril 1985](arrete-du-22-avril-1985)
 - [Arrêté du 22 février 1985](arrete-du-22-fevrier-1985)
 - [Arrêté du 22 janvier 1985](arrete-du-22-janvier-1985)

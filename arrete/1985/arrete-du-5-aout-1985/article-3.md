@@ -1,3 +1,5 @@
 # Article 3
 
-Compte tenu des acomptes versés en application de l'article 3 du décret du 22 mars 1978 susvisé, la Caisse nationale d'assurance maladie des travailleurs salariés doit recevoir du régime des salariés agricoles du Bas-Rhin, du Haut-Rhin et de la Moselle une somme de 325.320 F.
+La mise à disposition des lignes téléphoniques disposant du système de surtaxation spécifique donne lieu au paiement de frais forfaitaires d'accès d'un montant de 1.600 F par ligne, lorsque le commutateur de rattachement appartient à la circonscription de taxe de l'abonné.
+
+Le recouvrement est effectué par tranches bimestrielles de respectivement 600, 500 et 500 F.
