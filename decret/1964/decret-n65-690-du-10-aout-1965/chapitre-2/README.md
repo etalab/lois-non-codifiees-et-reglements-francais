@@ -14,4 +14,5 @@
 - [Article 9-7](article-9-7.md)
 - [Article 9-8](article-9-8.md)
 - [Article 9-9](article-9-9.md)
+- [Article 9-10](article-9-10.md)
 - [Article 9-11](article-9-11.md)
