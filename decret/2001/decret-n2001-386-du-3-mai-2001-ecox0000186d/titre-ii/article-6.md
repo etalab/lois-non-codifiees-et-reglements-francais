@@ -1,6 +1,6 @@
 # Article 6
 
-Les équipements sous pression transportables, régulièrement mis sur le marché avant l'entrée en vigueur du présent décret ou dans les conditions prévues au 3° de l'article 27, peuvent, selon le cas, faire l'objet, à la demande de l'exploitant, d'une réévaluation de leur conformité aux exigences des arrêtés ADR et RID.
+Les équipements sous pression transportables, régulièrement mis sur le marché avant l'entrée en vigueur du présent décret ou dans les conditions prévues à l'article 27, peuvent faire l'objet, à la demande de l'exploitant, d'une réévaluation de leur conformité aux exigences des arrêtés ADR et RID.
 
 L'exploitant d'un équipement sous pression transportable, au sens du présent décret et de ses annexes, est le propriétaire, son mandataire établi dans la Communauté européenne ou, à défaut, l'utilisateur, selon les dispositions contractuelles qui les lient.
 
