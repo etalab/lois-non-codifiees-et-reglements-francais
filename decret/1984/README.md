@@ -240,7 +240,6 @@
 - [Décret n°84-55 du 25 janvier 1984](decret-n84-55-du-25-janvier-1984)
 - [Décret n°84-56 du 25 janvier 1984](decret-n84-56-du-25-janvier-1984)
 - [Décret n°84-729 du 25 juillet 1984](decret-n84-729-du-25-juillet-1984)
-- [Décret n°84-953 du 25 octobre 1984](decret-n84-953-du-25-octobre-1984)
 - [Décret n°84-954 du 25 octobre 1984](decret-n84-954-du-25-octobre-1984)
 - [Décret n°84-955 du 25 octobre 1984](decret-n84-955-du-25-octobre-1984)
 - [Décret n°84-956 du 25 octobre 1984](decret-n84-956-du-25-octobre-1984)
