@@ -9,6 +9,9 @@ Hôtels et pensions de famille.](chapitre-iv)
 - [Chapitre V : Etablissements du type P - 
 Salles de danse et salles de jeux](chapitre-v)
 - [Chapitre VI : Etablissements du type R, Etablissements d'enseignement, colonies de vacances](chapitre-vi)
+- [Chapitre VII : Etablissements du type S - 
+Bibliothèques, centres de documentation
+et de consultation d'archives](chapitre-vii)
 - [Chapitre VIII : Etablissements du type T  - 
 Salles d'expositions](chapitre-viii)
 - [Chapitre X : Etablissements du type  V  - 
@@ -16,3 +19,5 @@ Etablissements de culte](chapitre-x)
 - [Chapitre XI : Etablissements du type W - Administrations, banques, bureaux](chapitre-xi)
 - [Chapitre XII : Etablissements du type X -
 Etablissements sportifs couverts](chapitre-xii)
+- [Chapitre XIII : Etablissements du type Y - 
+Musées](chapitre-xiii)

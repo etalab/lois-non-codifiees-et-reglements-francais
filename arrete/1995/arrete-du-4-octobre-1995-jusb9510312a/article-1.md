@@ -1,0 +1,3 @@
+# Article 1
+
+Dans chaque cour d'appel, le conseil de la formation continue déconcentrée des magistrats prévu à l'article 51-2 du décret du 4 mai 1972 susvisé comprend, outre le premier président de la cour d'appel et le procureur général près la cour d'appel, présidents, le ou les magistrats délégués à la formation, les directeurs de centre de stage ainsi que, pour chaque tribunal de grande instance n'ayant pas de centre de stage, un magistrat de cette juridiction désigné conjointement par le président et le procureur de la République près cette juridiction, après avis de l'assemblée générale des magistrats du siège et du parquet.
