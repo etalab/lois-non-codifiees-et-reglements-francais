@@ -103,6 +103,7 @@
 - [Arrêté du 7 janvier 2004 (SPRK0370242A)](arrete-du-7-janvier-2004-sprk0370242a)
 - [Arrêté du 7 juin 2004 (ECOT0410505A)](arrete-du-7-juin-2004-ecot0410505a)
 - [Arrêté du 7 juin 2004 (MEND0400928A)](arrete-du-7-juin-2004-mend0400928a)
+- [Arrêté du 7 juin 2004 (SOCF0411172A)](arrete-du-7-juin-2004-socf0411172a)
 - [Arrêté du 7 juin 2004 (SOCF0411199A)](arrete-du-7-juin-2004-socf0411199a)
 - [Arrêté du 7 novembre 2003 (INDI0302016A)](arrete-du-7-novembre-2003-indi0302016a)
 - [Arrêté du 7 septembre 2004 (ECOP0400570A)](arrete-du-7-septembre-2004-ecop0400570a)
