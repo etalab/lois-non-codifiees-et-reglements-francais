@@ -698,7 +698,6 @@
 - [Décret n°98-322 du 23 avril 1998 (ECOF9810021D)](decret-n98-322-du-23-avril-1998-ecof9810021d)
 - [Décret n°98-49 du 23 janvier 1998 (EQUB9800012D)](decret-n98-49-du-23-janvier-1998-equb9800012d)
 - [Décret n°98-502 du 23 juin 1998 (INTD9800135D)](decret-n98-502-du-23-juin-1998-intd9800135d)
-- [Décret n°98-503 du 23 juin 1998 (INTD9800136D)](decret-n98-503-du-23-juin-1998-intd9800136d)
 - [Décret n°98-504 du 23 juin 1998 (INTA9800148D)](decret-n98-504-du-23-juin-1998-inta9800148d)
 - [Décret n°98-508 du 23 juin 1998 (JUSC9820285D)](decret-n98-508-du-23-juin-1998-jusc9820285d)
 - [Décret n°98-513 du 23 juin 1998 (MAEC9800066D)](decret-n98-513-du-23-juin-1998-maec9800066d)
