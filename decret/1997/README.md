@@ -571,7 +571,6 @@
 - [Décret n°97-274 du 21 mars 1997 (FPPX9700048D)](decret-n97-274-du-21-mars-1997-fppx9700048d)
 - [Décret n°97-376 du 21 avril 1997 (PREX9702007D)](decret-n97-376-du-21-avril-1997-prex9702007d)
 - [Décret n°97-379 du 21 avril 1997 (TASS9721343D)](decret-n97-379-du-21-avril-1997-tass9721343d)
-- [Décret n°97-404 du 21 avril 1997 (TASS9720424D)](decret-n97-404-du-21-avril-1997-tass9720424d)
 - [Décret n°97-405 du 21 avril 1997 (TASS9720465D)](decret-n97-405-du-21-avril-1997-tass9720465d)
 - [Décret n°97-406 du 21 avril 1997 (TASP9720676D)](decret-n97-406-du-21-avril-1997-tasp9720676d)
 - [Décret n°97-44 du 21 janvier 1997 (TASP9624363D)](decret-n97-44-du-21-janvier-1997-tasp9624363d)
