@@ -858,7 +858,6 @@
 - [Arrêté du 22 juillet 1992 (JUSC9220634A)](arrete-du-22-juillet-1992-jusc9220634a)
 - [Arrêté du 22 juillet 1992 (SANM9201892A)](arrete-du-22-juillet-1992-sanm9201892a)
 - [Arrêté du 22 juin 1987 (ECOP8700219A)](arrete-du-22-juin-1987-ecop8700219a)
-- [Arrêté du 22 juin 1992 (BUDD9270004A)](arrete-du-22-juin-1992-budd9270004a)
 - [Arrêté du 22 juin 1992 (BUDP9200331A)](arrete-du-22-juin-1992-budp9200331a)
 - [Arrêté du 22 juin 1992 (ENVN9250168A)](arrete-du-22-juin-1992-envn9250168a)
 - [Arrêté du 22 juin 1992 (INDB9200561A)](arrete-du-22-juin-1992-indb9200561a)

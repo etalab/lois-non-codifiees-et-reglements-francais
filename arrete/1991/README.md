@@ -413,7 +413,6 @@
 - [Arrêté du 14 janvier 1991 (SANH9002286A)](arrete-du-14-janvier-1991-sanh9002286a)
 - [Arrêté du 14 janvier 1991 (SPSS9100148A)](arrete-du-14-janvier-1991-spss9100148a)
 - [Arrêté du 14 juin 1979](arrete-du-14-juin-1979)
-- [Arrêté du 14 juin 1991 (BUDZ9100006A)](arrete-du-14-juin-1991-budz9100006a)
 - [Arrêté du 14 juin 1991 (MERP9100111A)](arrete-du-14-juin-1991-merp9100111a)
 - [Arrêté du 14 juin 1991 (SPSA9101425A)](arrete-du-14-juin-1991-spsa9101425a)
 - [Arrêté du 14 mars 1991 (JUSD9130017A)](arrete-du-14-mars-1991-jusd9130017a)
