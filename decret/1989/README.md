@@ -268,7 +268,6 @@
 - [Décret n°89-31 du 19 janvier 1989 (MICT8900040D)](decret-n89-31-du-19-janvier-1989-mict8900040d)
 - [Décret n°89-32 du 19 janvier 1989 (PTTT8800733D)](decret-n89-32-du-19-janvier-1989-pttt8800733d)
 - [Décret n°89-400 du 19 juin 1989 (SPSS8900517D)](decret-n89-400-du-19-juin-1989-spss8900517d)
-- [Décret n°89-505 du 19 juillet 1989 (PRME8961349D)](decret-n89-505-du-19-juillet-1989-prme8961349d)
 - [Décret n°89-507 du 19 juillet 1989 (TEFT8903562D)](decret-n89-507-du-19-juillet-1989-teft8903562d)
 - [Décret n°89-508 du 19 juillet 1989 (PTTC8900484D)](decret-n89-508-du-19-juillet-1989-pttc8900484d)
 - [Décret n°89-681 du 19 septembre 1989 (INDA8900685D)](decret-n89-681-du-19-septembre-1989-inda8900685d)
