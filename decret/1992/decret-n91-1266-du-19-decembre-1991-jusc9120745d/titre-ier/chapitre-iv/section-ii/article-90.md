@@ -20,7 +20,9 @@ Avec déplacement
 
 Vérifications personnelles du juge
 
-Autres mesures d'instruction dont enquêtes sociales
+Autres mesures d'instruction
+
+dont enquêtes sociales
 
 I. - Droits des personnes
 
@@ -358,6 +360,14 @@ VIII.8. Assistance d'un prévenu devant le tribunal correctionnel ou le tribunal
 
 8
 
+VIII.9. Présentation du mineur devant le procureur de la République
+
+2
+
+VIII.10. Présentation du mineur devant le procureur de la République et débat contradictoire relatif à la détention provisoire lorsqu'ils sont assurés par le même avocat
+
+3
+
 IX. - Procédures contraventionnelles
 
 Assistance d'un prévenu devant le tribunal de police (5e classe) (2)
@@ -395,10 +405,6 @@ XI.4. Représentation d'un condamné pour un débat contradictoire devant la jur
 3
 
 XI.5. Assistance d'un condamné lors du recueil de son consentement pour le placement sous surveillance électronique
-
-2
-
-XII. - Débat contradictoire relatif à la poursuite d'une enquête de police judiciaire
 
 2
 
