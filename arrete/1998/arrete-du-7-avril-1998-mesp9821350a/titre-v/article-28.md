@@ -1,0 +1,3 @@
+# Article 28
+
+Les dispositions des arrêtés du 17 décembre 1975 relatif au programme des deuxième et troisième années d'enseignement préparant au diplôme d'Etat de psychorééducateur, du 30 décembre 1975 relatif aux modalités de passage de deuxième en troisième année et du 16 décembre 1976 relatif aux épreuves et à la délivrance du diplôme d'Etat de psychorééducateur restent applicables aux élèves ayant commencé leur scolarité au plus tard en 1997, jusqu'à la proclamation des résultats de la seconde session du diplôme d'Etat de psychomotricien organisée en 2000. Les élèves admis en formation en 1997 et non admis à passer en deuxième année sont admis à redoubler dans le cadre des dispositions de la nouvelle réglementation.

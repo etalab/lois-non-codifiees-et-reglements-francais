@@ -1,0 +1,11 @@
+# Article 5
+
+Pour pouvoir bénéficier de l'appellation d'origine contrôlée "Château-Chalon", les vins doivent répondre aux conditions fixées par le décret du 10 septembre 1993 susvisé. Le rendement de base visé à l'article 1er de ce décret est fixé à 50 hectolitres par hectare de vigne en production. Le rendement butoir prévu au troisième alinéa de l'article 4 de ce décret est fixé à 50 hectolitres par hectare.
+
+Une commission dite "de contrôle des vignes et du rendement", dont les membres sont nommés par l'Institut national des appellations d'origine, sur proposition du syndicat de défense de l'appellation "Château-Chalon", examine, pour chaque récolte, chaque parcelle susceptible de produire des vins à appellation "Château-Chalon". Cette commission rend un avis sur l'état cultural des parcelles et sur leur aptitude à produire des vins à appellation d'origine contrôlée "Château-Chalon" au regard des conditions de production définies par le présent décret, et notamment au regard du rendement butoir.
+
+Après avis de la commission, les services de l'Institut national des appellations d'origine avisent les intéressés de leur possibilité ou non de revendiquer la production des parcelles en cause en appellation d'origine contrôlée "Château-Chalon".
+
+Le viticulteur peut faire appel de cette décision auprès de l'Institut national des appellations d'origine dans un délai de quatre jours à compter de la date de notification de ladite décision. Une commission d'appel, dont les membres sont nommés par l'Institut national des appellations d'origine sur proposition du syndicat de défense de l'appellation "Château-Chalon" examine la réclamation. A l'issue de cet examen, une décision définitive est notifiée au réclamant par les services de l'Institut national des appellations d'origine dans un délai de quarante-huit heures qui suit le passage de la commission d'appel. Les parcelles en cause ne doivent pas être vendangées avant le passage de la commission d'appel faute de quoi l'appel sera rejeté.
+
+Un règlement intérieur approuvé par le Comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine fixe les modalités de fonctionnement de la commission de contrôle des vignes et du rendement et de la commission d'appel.
