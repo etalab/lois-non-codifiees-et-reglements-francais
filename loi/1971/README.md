@@ -15,6 +15,8 @@
 - [Loi n° 71-1028 du 24 décembre 1971](loi-n-71-1028-du-24-decembre-1971)
 - [Loi n° 71-1029 du 24 décembre 1971](loi-n-71-1029-du-24-decembre-1971)
 - [Loi n° 71-1050 du 24 décembre 1971](loi-n-71-1050-du-24-decembre-1971)
+- [Loi n° 71-1060 du 24 décembre 1971](loi-n-71-1060-du-24-decembre-1971)
+- [Loi n° 71-1061 du 29 décembre 1971](loi-n-71-1061-du-29-decembre-1971)
 - [Loi n° 71-385 du 22 mai 1971](loi-n-71-385-du-22-mai-1971)
 - [Loi n° 71-458 du 17 juin 1971](loi-n-71-458-du-17-juin-1971)
 - [Loi n° 71-498 du 29 juin 1971](loi-n-71-498-du-29-juin-1971)
