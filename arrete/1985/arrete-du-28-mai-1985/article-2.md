@@ -14,9 +14,13 @@ Un membre de l'institut Pasteur ;
 
 Deux fonctionnaires de l'enseignement vétérinaire ;
 
-Quatre fonctionnaires du corps des vétérinaires inspecteurs dont un contrôleur général ;
+Un représentant du conseil général vétérinaire ;
 
-Deux représentants des personnels scientifiques des laboratoires des services vétérinaires ;
+Trois fonctionnaires du corps des vétérinaires inspecteurs ;
+
+Un représentant des directeurs des laboratoires vétérinaires départementaux ;
+
+Un représentant des personnels scientifiques du C.N.E.V.A. ;
 
 Un représentant des personnels scientifiques de la recherche vétérinaire à l'Institut national de la recherche agronomique ;
 
@@ -26,7 +30,7 @@ Trois représentants des organisations professionnelles de vétérinaires pratic
 
 - un représentant du syndicat national des vétérinaires praticiens ;
 
-- un représentant de la section nationale des groupements techniques vétérinaires ;
+- un représentant de la Société nationale des groupements techniques vétérinaires ;
 
 Un vétérinaire des organisations professionnelles d'élevage ;
 

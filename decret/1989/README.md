@@ -24,6 +24,7 @@
 - [Décret n°89-403 du 2 juin 1989 (PRMX8900068D)](decret-n89-403-du-2-juin-1989-prmx8900068d)
 - [Décret n°89-533 du 2 août 1989 (MENF8901207D)](decret-n89-533-du-2-aout-1989-menf8901207d)
 - [Décret n°89-554 du 2 août 1989 (MERP8900029D)](decret-n89-554-du-2-aout-1989-merp8900029d)
+- [Décret n°89-718 du 2 octobre 1989 (AGRA8901652D)](decret-n89-718-du-2-octobre-1989-agra8901652d)
 - [Décret n°89-283 du 2 mai 1989 (MAEJ8930038D)](decret-n89-283-du-2-mai-1989-maej8930038d)
 - [Décret n°89-285 du 2 mai 1989 (MAEJ8930041D)](decret-n89-285-du-2-mai-1989-maej8930041d)
 - [Décret n°75-142 du 3 mars 1975](decret-n75-142-du-3-mars-1975)
