@@ -1267,6 +1267,7 @@
 - [Décret n°2002-128 du 31 janvier 2002 (MENX0100161D)](decret-n2002-128-du-31-janvier-2002-menx0100161d)
 - [Décret n°2002-129 du 31 janvier 2002 (MENX0100162D)](decret-n2002-129-du-31-janvier-2002-menx0100162d)
 - [Décret n°2002-1318 du 31 octobre 2002 (MCCX0200031D)](decret-n2002-1318-du-31-octobre-2002-mccx0200031d)
+- [Décret n°2002-1332 du 31 octobre 2002 (JUSB0210500D)](decret-n2002-1332-du-31-octobre-2002-jusb0210500d)
 - [Décret n°2002-134 du 31 janvier 2002 (EQUA0101722D)](decret-n2002-134-du-31-janvier-2002-equa0101722d)
 - [Décret n°2002-135 du 31 janvier 2002 (EQUA0101723D)](decret-n2002-135-du-31-janvier-2002-equa0101723d)
 - [Décret n°2003-717 du 31 juillet 2003 (DEFP0301601D)](decret-n2003-717-du-31-juillet-2003-defp0301601d)
