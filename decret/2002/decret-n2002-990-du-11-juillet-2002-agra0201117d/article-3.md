@@ -1,0 +1,3 @@
+# Article 3
+
+Les emplois de vice-président, de président de section et de secrétaire général du Conseil général vétérinaire comportent chacun un échelon unique.

@@ -1,0 +1,3 @@
+# Article 2
+
+Pour l'exercice de ses attributions, la ministre déléguée à la parité et à l'égalité professionnelle dispose du service des droits des femmes et de l'égalité. Elle dispose, en tant que de besoin, des autres directions et services placés sous l'autorité du ministre des affaires sociales, du travail et de la solidarité, notamment la direction de l'administration générale et de la modernisation des services, la direction générale de l'action sociale, la direction de la population et des migrations, la direction de l'animation de la recherche, des études et des statistiques, le service de l'information et de la communication, ainsi que l'inspection générale des affaires sociales.
