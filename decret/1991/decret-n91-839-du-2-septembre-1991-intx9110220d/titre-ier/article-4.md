@@ -10,4 +10,6 @@ Les membres du cadre d'emplois sont affectés, en fonction des formations qu'ils
 
 4 Musées.
 
+5 Patrimoine scientifique, technique et naturel. "
+
 Dans la spécialité Archives, ils exercent leurs missions dans les services communaux ou régionaux des archives.
