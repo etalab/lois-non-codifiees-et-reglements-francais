@@ -34,7 +34,6 @@
 - [Arrêté du 1 octobre 1992 (SPSS9202603A)](arrete-du-1-octobre-1992-spss9202603a)
 - [Arrêté du 1 octobre 1992 (SPSS9202626A)](arrete-du-1-octobre-1992-spss9202626a)
 - [Arrêté du 1 septembre 1992 (AGRP9201589A)](arrete-du-1-septembre-1992-agrp9201589a)
-- [Arrêté du 1 septembre 1992 (AGRP9201590A)](arrete-du-1-septembre-1992-agrp9201590a)
 - [Arrêté du 1 septembre 1992 (ECOT9294137A)](arrete-du-1-septembre-1992-ecot9294137a)
 - [Arrêté du 1 septembre 1992 (SANH9202329A)](arrete-du-1-septembre-1992-sanh9202329a)
 - [Arrêté du 2 août 1992 (TEFE9205286A)](arrete-du-2-aout-1992-tefe9205286a)

@@ -1,3 +1,0 @@
-# Article 18
-
-Des verrats réservés à l'usage exclusif des élevages de sélection et de multiplication d'une organisation de sélection peuvent être exploités dans un centre d'insémination artificielle. L'organisation de sélection propriétaire des verrats doit alors tenir à jour et communiquer au centre d'insémination artificielle la liste des élevages habilités à bénéficier de la semence de ces verrats. Seules les références d'état civil indiquées à l'article 4 sont alors exigées pour l'entrée de ces verrats dans un centre d'insémination artificielle. En aucune manière les informations concernant ces verrats ne devront figurer sur les catalogues ou sur un support informatif quelconque, à destination du public.
