@@ -80,6 +80,7 @@
 - [Décret n°89-98 du 15 février 1989 (EQUC8900026D)](decret-n89-98-du-15-fevrier-1989-equc8900026d)
 - [Décret n°88-989 du 17 octobre 1988 (TEFT8804009D)](decret-n88-989-du-17-octobre-1988-teft8804009d)
 - [Décret n°89-179 du 17 mars 1989 (ACVP8820036D)](decret-n89-179-du-17-mars-1989-acvp8820036d)
+- [Décret n°86-659 du 18 mars 1986](decret-n86-659-du-18-mars-1986)
 - [Décret n°88-824 du 18 juillet 1988 (SPSX8800099D)](decret-n88-824-du-18-juillet-1988-spsx8800099d)
 - [Décret n°89-241 du 18 avril 1989 (SPSH8900705D)](decret-n89-241-du-18-avril-1989-spsh8900705d)
 - [Décret n°89-242 du 18 avril 1989 (SPSH8900707D)](decret-n89-242-du-18-avril-1989-spsh8900707d)
