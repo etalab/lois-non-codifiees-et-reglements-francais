@@ -333,6 +333,7 @@
 - [Décret n°2001-194 du 28 février 2001 (INTC0100058D)](decret-n2001-194-du-28-fevrier-2001-intc0100058d)
 - [Décret n°2001-271 du 28 mars 2001 (MESH0120207D)](decret-n2001-271-du-28-mars-2001-mesh0120207d)
 - [Décret n°2001-285 du 28 mars 2001 (INTB0100077D)](decret-n2001-285-du-28-mars-2001-intb0100077d)
+- [Décret n°90-572 du 28 juin 1990 (AGRX9000095D)](decret-n90-572-du-28-juin-1990-agrx9000095d)
 - [Décret n°95-1073 du 28 septembre 1995 (AGRS9501229D)](decret-n95-1073-du-28-septembre-1995-agrs9501229d)
 - [Décret n°2001-267 du 29 mars 2001 (MESS0120328D)](decret-n2001-267-du-29-mars-2001-mess0120328d)
 - [Décret n°2001-287 du 29 mars 2001 (MENS0003163D)](decret-n2001-287-du-29-mars-2001-mens0003163d)
