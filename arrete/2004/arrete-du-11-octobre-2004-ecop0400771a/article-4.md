@@ -1,0 +1,3 @@
+# Article 4
+
+La sous-direction services, audiovisuel, défense exerce la mission de l'Etat actionnaire dans les entreprises et organismes des secteurs des services, de l'audiovisuel et de la défense qui rentrent dans le champ de compétence de l'agence ainsi que l'expertise juridique couvrant l'ensemble de ce champ ; elle gère les structures de défaisance dans le Crédit lyonnais, le Comptoir des entrepreneurs et le groupe GAN et des sociétés de développement régional en extinction sous le contrôle de l'Etat. Elle comprend un bureau chargé des groupes France Télécom et La Poste ainsi que des structures de défaisance et en extinction, un bureau chargé des entreprises des secteurs de l'audiovisuel, de l'aéronautique et de la défense, et un pôle d'expertise juridique.

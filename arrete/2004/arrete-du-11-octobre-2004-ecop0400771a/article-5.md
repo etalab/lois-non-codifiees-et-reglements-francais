@@ -1,0 +1,3 @@
+# Article 5
+
+Le secrétariat général assure la coordination du traitement des sujets qui concernent l'ensemble de l'agence, sans préjudice des compétences des sous-directions. Il assure le secrétariat du comité de direction de l'Etat actionnaire, est chargé des relations de l'agence avec les organismes extérieurs et les corps de contrôle, de la gestion du compte d'affectation spéciale retraçant les opérations liées aux participations financières de l'Etat ; il assure le suivi du portefeuille de titres de ces participations. Il assure le fonctionnement, la gestion des ressources humaines de l'agence et prépare les marchés passés par le directeur général de l'agence.

@@ -1,0 +1,3 @@
+# Article 4
+
+Dans le cadre du suivi de la réalisation des objectifs de dépenses d'assurance maladie relatives aux frais d'hospitalisation, le conseil de l'hospitalisation procède à l'analyse des états provisoires et de l'état définitif des charges mentionnés aux II des articles L. 162-22-3 et L. 162-22-10 du code de la sécurité sociale au regard notamment du montant des objectifs de dépenses d'assurance maladie fixés en application des dispositions des articles L. 162-22-2 et L. 162-22-9 du même code. Cette analyse est transmise aux ministres chargés de la santé et de la sécurité sociale au plus tard un mois après réception de ces états par le conseil.
