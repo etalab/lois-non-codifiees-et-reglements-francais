@@ -1,0 +1,3 @@
+# Article 2
+
+Le recrutement prévu à l'article qui précède est organisé pour chaque poste vacant, ou dont la vacance est à prévoir, par les soins du directeur général du centre hospitalier régional et du directeur de l'unité de formation et de recherche. Ceux-ci sont chargés de déclarer la vacance et d'arrêter la date de clôture des inscriptions. Les décisions doivent faire l'objet d'un affichage dans les unités de formation et de recherche médicales et les centres hospitaliers régionaux faisant partie d'un centre hospitalier et universitaire, vingt et un jours au moins avant la date de clôture des inscriptions.

@@ -1,0 +1,3 @@
+# Article 5
+
+Pour le calcul de l'indemnité compensatrice institué par l'article 124 de la loi du 9 janvier 1986, la comparaison des rémunérations s'effectue sur la base, d'une part, de la rémunération brute indiciaire et des primes et indemnités accessoires auxquelles l'intéressé peut prétendre du fait de sa titularisation et, d'autre part, de la rémunération brute principale et des primes et indemnités accessoires que l'intéressé percevait dans son dernier emploi, à l'exclusion, dans les deux cas, des indemnités représentatives de frais et des éléments de rémunération liés à l'affectation en dehors des départements de métropole.

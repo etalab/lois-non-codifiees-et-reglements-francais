@@ -84,7 +84,7 @@ b) Logements améliorés par leur propriétaire occupant :
 <table>
 <tbody>
 <tr>
-<td width="363">
+<td width="362">
 <p align="center">DÉSIGNATION</p>
 </td>
 <td width="318">
@@ -92,7 +92,7 @@ b) Logements améliorés par leur propriétaire occupant :
 </td>
 </tr>
 <tr>
-<td width="363">
+<td width="362">
 <p>Bénéficiaire isolé</p>
 </td>
 <td width="318">
@@ -100,7 +100,7 @@ b) Logements améliorés par leur propriétaire occupant :
 </td>
 </tr>
 <tr>
-<td width="363">
+<td width="362">
 <p>Ménage sans personne à charge</p>
 </td>
 <td width="318">
@@ -108,7 +108,7 @@ b) Logements améliorés par leur propriétaire occupant :
 </td>
 </tr>
 <tr>
-<td width="363">
+<td width="362">
 <p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
 </td>
 <td width="318">
@@ -116,7 +116,7 @@ b) Logements améliorés par leur propriétaire occupant :
 </td>
 </tr>
 <tr>
-<td width="363">
+<td width="362">
 <p>Par personne supplémentaire à charge</p>
 </td>
 <td width="318">
@@ -282,7 +282,212 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tbody>
 </table>
 
-b) Logements améliorés par leur propriétaire occupant : <table>
+c) Logements améliorés par leur propriétaire occupant :
+
+<table>
+<tbody>
+<tr>
+<td width="362">
+<p align="center">DÉSIGNATION</p>
+</td>
+<td width="318">
+<p align="center">TOUTES ZONES<br/>(en francs)</p>
+</td>
+</tr>
+<tr>
+<td width="362">
+<p>Bénéficiaire isolé</p>
+</td>
+<td width="318">
+<p align="center">781</p>
+</td>
+</tr>
+<tr>
+<td width="362">
+<p>Ménage sans personne à charge</p>
+</td>
+<td width="318">
+<p align="center">872</p>
+</td>
+</tr>
+<tr>
+<td width="362">
+<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
+</td>
+<td width="318">
+<p align="center">963</p>
+</td>
+</tr>
+<tr>
+<td width="362">
+<p>Par personne supplémentaire à charge</p>
+</td>
+<td width="318">
+<p align="center">91</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Les mensualités de référence pour les logements financés par les prêts prévus par les articles R. 331-63 à R. 331-77 sont fixées comme suit lorsque la date de signature du contrat de prêt mentionné sur le certificat prévu à l'article 2 (3°) de l'arrêté du 22 août 1986 susvisé est intervenue après le 30 juin 1988.
+
+a) Logements neufs construits ou acquis par l'accédant à la propriété :
+
+<table>
+<tbody>
+<tr>
+<td width="227">
+<p align="center">DÉSIGNATION</p>
+</td>
+<td width="151">
+<p align="center">ZONE 1<br/>(en francs)</p>
+</td>
+<td width="151">
+<p align="center">ZONE 2<br/>(en francs)</p>
+</td>
+<td width="151">
+<p align="center">ZONE 3<br/>(en francs)</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Bénéficiaire isolé</p>
+</td>
+<td width="151">
+<p align="center">1 920</p>
+</td>
+<td width="151">
+<p align="center">1 712</p>
+</td>
+<td width="151">
+<p align="center">1 598</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Ménage sans personne à charge</p>
+</td>
+<td width="151">
+<p align="center">2 315</p>
+</td>
+<td width="151">
+<p align="center">2 061</p>
+</td>
+<td width="151">
+<p align="center">1 916</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
+</td>
+<td width="151">
+<p align="center">2 710</p>
+</td>
+<td width="151">
+<p align="center">2 410</p>
+</td>
+<td width="151">
+<p align="center">2 234</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Par personne supplémentaire à charge</p>
+</td>
+<td width="151">
+<p align="center">395</p>
+</td>
+<td width="151">
+<p align="center">349</p>
+</td>
+<td width="151">
+<p align="center">318</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation, ou acquis et améliorés :
+
+<table>
+<tbody>
+<tr>
+<td width="227">
+<p align="center">DÉSIGNATION</p>
+</td>
+<td width="151">
+<p align="center">ZONE 1<br/>(en francs)</p>
+</td>
+<td width="151">
+<p align="center">ZONE 2<br/>(en francs)</p>
+</td>
+<td width="151">
+<p align="center">ZONE 3<br/>(en francs)</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Bénéficiaire isolé</p>
+</td>
+<td width="151">
+<p align="center">1 440</p>
+</td>
+<td width="151">
+<p align="center">1 284</p>
+</td>
+<td width="151">
+<p align="center">1 199</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Ménage sans personne à charge</p>
+</td>
+<td width="151">
+<p align="center">1 737</p>
+</td>
+<td width="151">
+<p align="center">1 546</p>
+</td>
+<td width="151">
+<p align="center">1 439</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
+</td>
+<td width="151">
+<p align="center">2 034</p>
+</td>
+<td width="151">
+<p align="center">1 808</p>
+</td>
+<td width="151">
+<p align="center">1 679</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Par personne supplémentaire à charge</p>
+</td>
+<td width="151">
+<p align="center">297</p>
+</td>
+<td width="151">
+<p align="center">262</p>
+</td>
+<td width="151">
+<p align="center">240</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+c) Logements améliorés par leur propriétaire occupant :
+
+<table>
 <tbody>
 <tr>
 <td width="363">
@@ -297,7 +502,7 @@ b) Logements améliorés par leur propriétaire occupant : <table>
 <p>Bénéficiaire isolé</p>
 </td>
 <td width="318">
-<p align="center">781</p>
+<p align="center">800</p>
 </td>
 </tr>
 <tr>
@@ -305,7 +510,7 @@ b) Logements améliorés par leur propriétaire occupant : <table>
 <p>Ménage sans personne à charge</p>
 </td>
 <td width="318">
-<p align="center">872</p>
+<p align="center">893</p>
 </td>
 </tr>
 <tr>
@@ -313,7 +518,7 @@ b) Logements améliorés par leur propriétaire occupant : <table>
 <p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
 </td>
 <td width="318">
-<p align="center">963</p>
+<p align="center">986</p>
 </td>
 </tr>
 <tr>
@@ -321,8 +526,10 @@ b) Logements améliorés par leur propriétaire occupant : <table>
 <p>Par personne supplémentaire à charge</p>
 </td>
 <td width="318">
-<p align="center">91</p>
+<p align="center">93</p>
 </td>
 </tr>
 </tbody>
 </table>
+
+.

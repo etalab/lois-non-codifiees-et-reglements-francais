@@ -1,51 +1,27 @@
 # Article 1
 
-A compter du 1er juillet 1987, les équivalences de loyer et de charges locatives de référence sont fixées comme suit :
+A compter du 1er juillet 1988, les équivalences de loyer et de charges locatives de référence sont fixées comme suit :
 
-<table>
-<tr>
-<td> :============================================================:</td>
-</tr>
-<tr>
-<td> :     DESIGNATION         : Zone I   :  Zone II  : Zone III  :</td>
-</tr>
-<tr>
-<td> :-------------------------:----------:-----------:-----------:</td>
-</tr>
-<tr>
-<td> :                         :  Francs  :   Francs  :   Francs  :</td>
-</tr>
-<tr>
-<td> :                         :          :           :           :</td>
-</tr>
-<tr>
-<td> : Bénéficiaire isolé      :  2.001   :   1.833   :   1.738   :</td>
-</tr>
-<tr>
-<td> :                         :          :           :           :</td>
-</tr>
-<tr>
-<td> : Ménage sans personne à  :          :           :           :</td>
-</tr>
-<tr>
-<td> :  charge                 :  2.344   :   2.134   :   2.021   :</td>
-</tr>
-<tr>
-<td> :                         :          :           :           :</td>
-</tr>
-<tr>
-<td> : Bénéficiaire isolé ou   :          :           :           :</td>
-</tr>
-<tr>
-<td> :  ménage avec une        :          :           :           :</td>
-</tr>
-<tr>
-<td> :  personne à charge ...  :  2.752   :   2.511   :   2.364   :</td>
-</tr>
-<tr>
-<td> :                         :          :           :           :</td>
-</tr>
-<tr>
-<td> :============================================================:</td>
-</tr>
-</table>
+ZONE I (en francs)
+
+Bénéficiaire isolé : 2 030
+
+Ménage sans personne à charge : 2 378
+
+Bénéficiaire isolé ou ménage ayant une personne à charge : 2 792
+
+ZONE II (en francs)
+
+Bénéficiaire isolé : 1 859
+
+Ménage sans personne à charge : 2 165
+
+Bénéficiaire isolé ou ménage ayant une personne à charge : 2 547
+
+ZONE III (en francs)
+
+Bénéficiaire isolé : 1 763
+
+Ménage sans personne à charge : 2 050
+
+Bénéficiaire isolé ou ménage ayant une personne à charge : 2 398
