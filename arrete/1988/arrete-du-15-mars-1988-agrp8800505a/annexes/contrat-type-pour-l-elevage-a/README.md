@@ -1,10 +1,12 @@
 # Contrat type pour l'élevage à façon de veaux de boucherie
 
+- [Suspension - Résiliation (1).](suspension)
 - [Assurance des risques.](assurance-des-risques)
 - [Cas particulier de réduction du nombre de veaux mis en élevage ou de retard de démarrage d'une bande.](cas)
 - [Commission nationale paritaire.](commission-nationale-paritaire)
 - [Conditions de financement des équipements.](conditions-de-financement-des-equipements)
 - [Conditions de règlement.](conditions-de-reglement)
+- [Durée du contrat.](duree-du-contrat)
 - [Critères techniques et normes de référence.](criteres-techniques-et)
 - [Enumération des biens et services mis en oeuvre pour l'exécution du contrat.](enumeration-des-biens-et)
 - [Renouvellement et modifications.](renouvellement-et)
@@ -15,3 +17,4 @@
 - [Obligations réciproques.](obligations-reciproques)
 - [Préambule.](preambule)
 - [Propriété des moyens de production.](propriete-des-moyens-de-production)
+- [Rémunération de l'éleveur.](remuneration-de-l-eleveur)
