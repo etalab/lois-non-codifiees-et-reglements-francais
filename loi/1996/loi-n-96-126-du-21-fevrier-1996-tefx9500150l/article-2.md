@@ -1,0 +1,19 @@
+# Article 2
+
+I. - Dans les conditions déterminées par un accord agréé en application de l'article 1er, le fonds prévu au même article assure le financement d'allocations au bénéfice des salariés ayant présenté une demande de cessation d'activité [*départ anticipé*] acceptée par leur employeur et qui remplissent des conditions tenant notamment à la durée de périodes d'assurance, ou reconnues équivalentes, dans les régimes de base obligatoires d'assurance vieillesse, sans avoir l'âge requis pour l'ouverture du droit à une pension de vieillesse à taux plein.
+
+L'acceptation par l'employeur de la demande du salarié entraîne la rupture du contrat de travail du fait du commun accord des parties et l'obligation, pour cet employeur, de procéder à une ou plusieurs embauches compensatrices de demandeurs d'emploi, dans les conditions, notamment de délai, prévues par le présent article et par l'accord agréé. La rupture du contrat de travail prend effet à la date de cessation d'activité mentionnée dans la lettre d'acceptation de l'employeur, sous réserve de la prise en charge de l'intéressé par le fonds paritaire d'intervention.
+
+Cette rupture du contrat de travail ouvre droit, au bénéfice du salarié, au versement par l'employeur d'une indemnité de cessation d'activité d'un montant égal à celui de l'indemnité de départ à la retraite prévue au premier alinéa de l'article L. 122-14-13 du code du travail et calculée sur la base de l'ancienneté acquise au moment de la rupture du contrat de travail, sans préjudice de l'application de dispositions plus favorables prévues en matière d'indemnité de départ à la retraite par une convention ou un accord collectif de travail ou par le contrat de travail. L'indemnité de cessation d'activité obéit au même régime fiscal et social que l'indemnité de licenciement.
+
+La rupture du contrat de travail, dans les conditions prévues par le présent article, des salariés visés aux articles L. 122-14-16, L. 236-11, L. 412-18, L. 425-1, L. 436-1 et L. 514-2 du code du travail est soumise à l'autorisation de l'inspecteur du travail qui vérifie que les conditions légales sont remplies et s'assure du consentement du salarié.
+
+Les allocations prévues au premier alinéa du présent article sont soumises aux dispositions du premier alinéa de l'article L. 352-3 du code du travail.
+
+II. - Lorsque le salarié qui cesse son activité est titulaire d'un contrat de travail à durée indéterminée, la ou les embauches consécutives doivent faire l'objet d'un contrat à durée indéterminée et permettre le maintien d'un volume d'heures de travail au moins égal à celui que ce salarié aurait accompli si son contrat s'était poursuivi jusqu'à ce qu'il atteigne l'âge requis pour l'ouverture du droit à une pension de vieillesse à taux plein.
+
+Lorsque le salarié qui cesse son activité est titulaire d'un contrat à durée déterminée, la ou les embauches consécutives doivent permettre le maintien d'un volume d'heures de travail au moins égal à celui que ce salarié aurait accompli si son contrat s'était poursuivi jusqu'à son terme, sans que la durée de chacun des contrats conclus pour ces nouvelles embauches puisse être inférieure à six mois.
+
+En cas d'inobservation des obligations relatives aux embauches consécutives à la cessation d'activité d'un salarié, l'employeur est tenu de rembourser au fonds mentionné à l'article 1er de la présente loi le montant total des sommes versées par celui-ci au salarié ayant cessé son activité, au prorata du nombre d'heures non accomplies, majoré de 50 p. 100.
+
+III. - L'employeur communique au comité d'entreprise ou, à défaut, aux délégués du personnel, un bilan des demandes de cessation d'activité, des cessations effectives et des embauches réalisées à l'occasion de la réunion prévue à l'article L. 432-4-1 du code du travail.
