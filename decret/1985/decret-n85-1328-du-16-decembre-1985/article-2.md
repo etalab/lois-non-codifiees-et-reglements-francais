@@ -7,3 +7,5 @@ Le tableau indique notamment le montant net du chiffre d'affaires et le résulta
 Le rapport commente les données chiffrées relatives au chiffre d'affaires et aux résultats du semestre écoulé et l'activité de l'entreprise au cours de cette période, son évolution prévisible ainsi que les événements importants survenus pendant le semestre.
 
 Le tableau et le rapport sont accompagnés de l'attestation des commissaires aux comptes sur la sincérité des informations données.
+
+Lorsque l'entreprise émettrice de billets de trésorerie est un établissement public de l'Etat soumis aux règles de la comptabilité publique, l'attestation citée à l'alinéa précédent est établie par l'agent comptable de l'établissement.
