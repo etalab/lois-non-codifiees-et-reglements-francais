@@ -1,10 +1,8 @@
 # Article ANNEXE
 
-Fonction exercée pouvant ouvrir droit au versement
+Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire.
 
-d'une nouvelle bonification indiciaire
-
-Administration centrale
+ADMINISTRATION CENTRALE
 
 Gestionnaire de site.
 
@@ -44,7 +42,23 @@ Agent responsable des actions de mémoire à vocation pédagogique et de la coor
 
 Agents responsables d'activités de communication et de documentation relatives aux politiques de mémoire et de vigilance.
 
-Services déconcentrés
+A compter du 1er août 1995
+
+Chefs de bureau et de département exerçant une compétence technique particulière en matière de gestion des ressources humaines, de marchés publics, de documentation administrative (DAG), de droit des pensions militaires d'invalidité et des victimes de guerre (DSPRS).
+
+Chef du bureau des affaires générales (DMIH).
+
+Chef du bureau de la documentation (DMIH).
+
+Adjoints à des chefs de bureau et de département exerçant une compétence technique en matière de gestion des ressources humaines, de comptabilité publique, de marchés publics, de documentation administrative (DAG), de droit des pensions militaires d'invalidité et des victimes de guerre (DSPRS) et de suivi des travaux législatifs (bureau du cabinet).
+
+Agent exerçant une compétence technique en matière de numérisation des archives (DSPRS).
+
+Agent exerçant les fonctions de commissaire du Gouvernement près les juridictions de pensions militaires d'invalidité.
+
+Agent chargé, auprès du directeur, de la gestion de proximité des personnels de la DSPRS.
+
+SERVICES DECONCENTRES
 
 Commissaire du Gouvernement près les tribunaux des pensions.
 
@@ -58,9 +72,7 @@ Chef d'équipe (entretien des nécropoles).
 
 A compter du 1er août 1992
 
-Agents chargés d'un service particulier impliquant l'encadrement d'agents d'exécution dans les secteurs d'activité :
-
-traitement ou contentieux des pensions, appareillage, soins médicaux gratuits, nécropoles nationales, administration générale.
+Agents chargés d'un service particulier impliquant l'encadrement d'agents d'exécution dans les secteurs d'activité : traitement ou contentieux des pensions, appareillage, soins médicaux gratuits, nécropoles nationales, administration générale.
 
 A compter du 1er août 1993
 
@@ -77,3 +89,9 @@ Agents chargés d'une mission d'organisation des services de traitement du conte
 Correspondants chargés de la mise en oeuvre du schéma directeur informatique dans les services déconcentrés.
 
 Chefs de secteur des nécropoles nationales (Mont-Valérien, Fréjus, Camp du Struthof).
+
+A compter du 1er août 1995
+
+Directeur régional dont les activités impliquent des sujétions particulières.
+
+Expert vérificateur chargé d'encadrer l'équipe technique chargée de l'appareillage des handicapés dans les directions interdépartementales.
