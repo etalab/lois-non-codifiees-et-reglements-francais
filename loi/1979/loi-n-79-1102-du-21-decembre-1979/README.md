@@ -1,0 +1,11 @@
+# Loi n° 79-1102 du 21 décembre 1979 DE FINANCES RECTIFICATIVE POUR 1979 (1)
+
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 6](article-6.md)
+- [Article 8](article-8.md)
+- [Article 9](article-9.md)
+- [Article 10](article-10.md)
+- [Article 12](article-12.md)
+- [Article 19](article-19.md)
+- [IMPOT SUR LE REVENU](impot-sur)

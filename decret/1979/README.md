@@ -110,6 +110,8 @@
 - [Décret n°79-822 du 19 septembre 1979](decret-n79-822-du-19-septembre-1979)
 - [Décret n°79-1100 du 20 décembre 1979](decret-n79-1100-du-20-decembre-1979)
 - [Décret n°79-1101 du 20 décembre 1979](decret-n79-1101-du-20-decembre-1979)
+- [Décret n°79-1108 du 20 décembre 1979](decret-n79-1108-du-20-decembre-1979)
+- [Décret n°79-1109 du 20 décembre 1979](decret-n79-1109-du-20-decembre-1979)
 - [Décret n°79-489 du 20 juin 1979](decret-n79-489-du-20-juin-1979)
 - [Décret n°79-811 du 20 septembre 1979](decret-n79-811-du-20-septembre-1979)
 - [Décret n°79-998 du 20 novembre 1979](decret-n79-998-du-20-novembre-1979)
