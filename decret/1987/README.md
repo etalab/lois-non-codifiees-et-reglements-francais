@@ -6,7 +6,6 @@
 - [Décret n°87-477 du 1 juillet 1987 (EQUC8700173D)](decret-n87-477-du-1-juillet-1987-equc8700173d)
 - [Décret n°87-479 du 1 juillet 1987](decret-n87-479-du-1-juillet-1987)
 - [Décret n°87-482 du 1 juillet 1987 (ASEH8700988D)](decret-n87-482-du-1-juillet-1987-aseh8700988d)
-- [Décret n°87-483 du 1 juillet 1987 (ASES8700899D)](decret-n87-483-du-1-juillet-1987-ases8700899d)
 - [Décret n°87-734 du 1 septembre 1987 (MAEJ8730043D)](decret-n87-734-du-1-septembre-1987-maej8730043d)
 - [Décret n°87-735 du 1 septembre 1987 (MAEJ8730044D)](decret-n87-735-du-1-septembre-1987-maej8730044d)
 - [Décret n°87-806 du 1 octobre 1987 (ASEX8798476D)](decret-n87-806-du-1-octobre-1987-asex8798476d)
