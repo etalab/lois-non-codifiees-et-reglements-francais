@@ -3,3 +3,4 @@
 - [Titre Ier : Dispositions générales.](titre-ier)
 - [Titre II : Organisation et administration.](titre-ii)
 - [Titre III : Régime financier.](titre-iii)
+- [Article 22](article-22.md)
