@@ -1,6 +1,6 @@
 # Article 7
 
-I. - La durée des mandats des membres du conseil de direction et des conseils spécialisés est de trois ans. Ces mandats sont renouvelables. Aucun membre ne peut être nommé s'il a atteint l'âge de soixante-cinq ans révolus. Tout mandat commencé avant cet âge va à son terme.
+I. - Le mandat des membres du conseil de direction et des conseils spécialisés expire trois ans après la première réunion tenue par le conseil de direction après son renouvellement. Ces mandats sont renouvelables. Aucun membre ne peut être nommé s'il a atteint l'âge de soixante-cinq ans révolus. Tout mandat commencé avant cet âge va à son terme.
 
 II. - Les membres du conseil de direction et des conseils spécialisés décédés, démissionnaires ou qui cessent d'exercer les fonctions au titre desquelles ils avaient été désignés sont remplacés.
 

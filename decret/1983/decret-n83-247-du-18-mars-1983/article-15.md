@@ -13,3 +13,5 @@ Il applique les décisions mentionnées à l'article 17 ci-dessous et rend compt
 Le directeur représente l'Office en justice et dans tous les actes de la vie civile. Pour l'exécution des missions de l'Office, il est habilité à signer les conventions prévues aux articles 3 et 4 ci-dessus.
 
 Il est ordonnateur des recettes et des dépenses de l'Office ainsi que de celles prévues par les règlements des communautés européennes.
+
+Le directeur peut déléguer sa signature à des agents de l'office.

@@ -7,3 +7,5 @@ Le directeur assure le fonctionnement de l'office. Il dirige et gère son person
 Le directeur représente l'office en justice et dans tous les actes de la vie civile. Pour l'exécution des missions de l'office, il est habilité à signer les conventions prévues aux articles 3 et 4 ci-dessus.
 
 Il est ordonnateur des recettes et des dépenses de l'office ainsi que de celles prévues par les règlements des communautés européennes.
+
+Le directeur peut déléguer sa signature à des agents de l'office.

@@ -11,3 +11,5 @@ L'office national interprofessionnel des céréales peut également participer �
 Le ministre de l'agriculture et du développement rural, responsable de la politique menée en matière de céréales, est représenté par un commissaire du Gouvernement auprès du conseil central et du comité permanent de l'office national interprofessionnel des céréales.
 
 Le directeur général de l'office national interprofessionnel des céréales est nommé et révoqué par décret en conseil des ministres pris sur le rapport du ministre de l'agriculture et du développement rural. Il rend compte de sa gestion au conseil central de l'office.
+
+Il peut déléguer sa signature à des agents de l'office.
