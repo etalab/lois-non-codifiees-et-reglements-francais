@@ -30,7 +30,7 @@ Les quantités cumulées par exploitation des liquides inflammables de 1re caté
 
 - 1 000 litres pour les exploitations recevant 300 personnes et au-dessous.
 
-Toutefois, le volume total des liquides inflammables de 2e catégorie et alcools dont le titre est supérieur à 40° GL mais inférieur ou égal à 60° GL n'est compté que pour le tiers de son volume réel pour l'application des règles ci-dessus.
+Toutefois, le volume total des liquides inflammables de 2e catégorie et alcools dont le titre est supérieur à 40° GL mais inférieur ou égal à 60° GL n'est compté que pour le cinquième de son volume réel pour l'application des règles ci-dessus.
 
 Les boissons alcoolisées ne sont pas soumises aux règles ci-dessus et restent assujetties à la réglementation particulière qui leur est propre.
 

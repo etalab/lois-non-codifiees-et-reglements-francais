@@ -12,7 +12,7 @@ intégrés dans les bâtiments accessibles au public
 
 Ces locaux doivent posséder une ventilation haute et basse parmanente d'une section minimale chacune de 2 décimètres carrés ; la ventilation basse doit être prise au niveau du sol et donner directement sur l'extérieur.
 
-§ 4. Les quantités cumulées des liquides inflammables de 1re catégorie et alcools dont le titre est supérieur à 60° GL, avec celles des liquides inflammables de 2e catégorie et alcools dont le titre est supérieur à 40° GL mais inférieur ou égal à 60° GL, sont limitées à 3 000 litres par local ; les liquides inflammables de 2e catégorie et alcools dont le titre est supérieur à 40° GL mais inférieur ou égal à 60° GL n'étant toutefois comptés que pour le tiers de leur volume réel.
+§ 4. Les quantités cumulées des liquides inflammables de 1re catégorie et alcools dont le titre est supérieur à 60° GL, avec celles des liquides inflammables de 2e catégorie et alcools dont le titre est supérieur à 40° GL mais inférieur ou égal à 60° GL, sont limitées à 3 000 litres par local ; les liquides inflammables de 2e catégorie et alcools dont le titre est supérieur à 40° GL mais inférieur ou égal à 60° GL n'étant toutefois comptés que pour le cinquième de leur volume réel.
 
 Les boissons alcoolisées ne sont pas soumises aux règles ci-dessus et restent assujetties à la réglementation particulière qui leur est propre.
 
