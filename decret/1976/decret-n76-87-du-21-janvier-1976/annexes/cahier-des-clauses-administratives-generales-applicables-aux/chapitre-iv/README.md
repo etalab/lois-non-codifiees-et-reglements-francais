@@ -19,3 +19,4 @@
 - [Article Annexe article 37](article-annexe-article-37.md)
 - [Article Annexe article 38](article-annexe-article-38.md)
 - [Article Annexe article 39](article-annexe-article-39.md)
+- [Article Annexe article 40](article-annexe-article-40.md)
