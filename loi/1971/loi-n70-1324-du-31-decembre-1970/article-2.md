@@ -1,0 +1,3 @@
+# Article 2
+
+Indépendamment des projets d'intérêt public mentionnés à l'alinéa 2 de l'article 3 de l'ordonnance précitée, l'autorisation d'aménagement et d'exploitation peut être accordée pour des installations ne présentant pas le caractère d'intérêt public, sous réserve, pour le pétitionnaire, de justifier qu'il a été ou sera satisfait à toutes les prescriptions techniques et de sécurité exigibles. L'autorisation accordée dans ces conditions n'ouvre pas droit au bénéfice des dispositions des articles 4 et 5 de l'ordonnance précitée, relatives au droit d'occupation temporaire et à l'expropriation pour cause d'utilité publique.

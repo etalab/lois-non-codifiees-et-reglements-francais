@@ -1,6 +1,6 @@
 # Article 217-1
 
-Par dérogation aux dispositions de l'article 217, alinéa 1er, les sociétés qui font participer leurs salariés aux fruits de l'expansion de l'entreprise par l'attribution de leurs propres actions peuvent, à cette fin, acheter ces actions, si elles sont inscrites à la cote officielle des bourses de valeurs.
+Par dérogation aux dispositions de l'article 217 (alinéa 1er), les sociétés qui font participer leurs salariés aux fruits de l'expansion de l'entreprise par l'attribution de leurs propres actions, ou qui entendent accorder à des salariés des options d'achat d'actions peuvent, à ces fins, acheter en bourse leurs propres actions si elles sont inscrites à la cote officielle des bourses de valeurs.
 
 La société ne peut détenir plus de 10 % de ses actions d'une catégorie déterminée et elle doit disposer de réserves, autres que la réserve légale, d'un montant au moins égal à la valeur des actions qu'elle détient.
 
