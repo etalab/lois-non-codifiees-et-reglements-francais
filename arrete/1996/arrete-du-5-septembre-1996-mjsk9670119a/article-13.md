@@ -1,3 +1,3 @@
 # Article 13
 
-La nature et le programme des épreuves qui le nécessitent sont précisés en annexe au présent arrêté.
+La nature, la durée et le programme des épreuves qui le nécessitent sont précisés à l'annexe III du présent arrêté.
