@@ -1,0 +1,4 @@
+# Ordonnance n°96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique à Mayotte
+
+- [TITRE Ier : EXTENSION ET ADAPTATION DU TITRE Ier DU LIVRE VII DU CODE DE LA SANTE PUBLIQUE A LA COLLECTIVITE TERRITORIALE DE MAYOTTE](titre-ier)
+- [TITRE III : DISPOSITIONS DIVERSES ET TRANSITOIRES.](titre-iii)

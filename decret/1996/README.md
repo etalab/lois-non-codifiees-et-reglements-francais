@@ -575,6 +575,7 @@
 - [Décret n°96-1015 du 20 novembre 1996 (ECOR9604300D)](decret-n96-1015-du-20-novembre-1996-ecor9604300d)
 - [Décret n°96-1118 du 20 décembre 1996 (TASE9611762D)](decret-n96-1118-du-20-decembre-1996-tase9611762d)
 - [Décret n°96-1119 du 20 décembre 1996 (MCCK9600632D)](decret-n96-1119-du-20-decembre-1996-mcck9600632d)
+- [Décret n°96-1123 du 20 décembre 1996 (ECOD9650002D)](decret-n96-1123-du-20-decembre-1996-ecod9650002d)
 - [Décret n°96-125 du 20 février 1996 (ECOT9626158D)](decret-n96-125-du-20-fevrier-1996-ecot9626158d)
 - [Décret n°96-137 du 20 février 1996 (ECOT9651496D)](decret-n96-137-du-20-fevrier-1996-ecot9651496d)
 - [Décret n°96-553 du 20 juin 1996 (TASS9621386D)](decret-n96-553-du-20-juin-1996-tass9621386d)

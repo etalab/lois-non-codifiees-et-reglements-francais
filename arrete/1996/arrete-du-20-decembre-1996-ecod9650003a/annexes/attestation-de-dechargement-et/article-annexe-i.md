@@ -1,0 +1,59 @@
+# Article Annexe I
+
+1. N° : ....
+
+Code : ....
+
+2. Exportateur : ....
+
+3. Etat membre exportateur : ....
+
+4. Pays de destination : ....
+
+5. Description des produits et code de restitution : ....
+
+6. Quantité et identification de l'emballage : ....
+
+6.1. Masse brute (kilogramme) : .... Masse nette (kilogramme) : ....
+
+6.2. Unités (si les restitutions à l'exportation sont fixées par unités).
+
+6.3. Identification de l'emballage :
+
+La quantité de produits en vrac ou le nombre et le type d'emballages ;
+
+Conteneurs : nombre et type.
+
+7. Identité du moyen de transport :
+
+7.1. Document de transport : type, numéro et date.
+
+8. Lieu de déchargement :
+
+8.1. Lieu du contrôle (port, aéroport, gare ferroviaire) : ....
+
+9. Date d'arrivée au lieu de déchargement : ....
+
+9.1. Date du début du déchargement : ....
+
+9.2. Date de la fin du déchargement : ....
+
+10. Contrôle de la quantité : ....
+
+10.1. Méthodes : surveillance de la pesée, comptage et identification des produits lors du déchargement.
+
+Description.
+
+10.2. Résultats et observations : ....
+
+11. Date et numéro du document douanier de mise à la consommation : ....
+
+12. Autres observations : ....
+
+13. Attestation délivrée par :
+
+13.1. Date et lieu : ....
+
+13.2. Nom, fonction et signature de la personne ayant contrôlé les marchandises.
+
+13.3. Signature et cachet de la société de contrôle : ....
