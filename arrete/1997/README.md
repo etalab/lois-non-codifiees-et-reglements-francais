@@ -1026,7 +1026,6 @@
 - [Arrêté du 28 juillet 1997 (MJSK9770092A)](arrete-du-28-juillet-1997-mjsk9770092a)
 - [Arrêté du 28 juillet 1997 (SCOL9702102A)](arrete-du-28-juillet-1997-scol9702102a)
 - [Arrêté du 28 mars 1996 (ECOT9690071A)](arrete-du-28-mars-1996-ecot9690071a)
-- [Arrêté du 28 mars 1997 (AGRG9700567A)](arrete-du-28-mars-1997-agrg9700567a)
 - [Arrêté du 28 mars 1997 (BUDD9770971A)](arrete-du-28-mars-1997-budd9770971a)
 - [Arrêté du 28 mars 1997 (LOGC9700030A)](arrete-du-28-mars-1997-logc9700030a)
 - [Arrêté du 28 mars 1997 (TASP9721217A)](arrete-du-28-mars-1997-tasp9721217a)
