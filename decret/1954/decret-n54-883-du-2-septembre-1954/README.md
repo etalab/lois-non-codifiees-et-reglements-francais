@@ -7,4 +7,3 @@
 - [Titre 5 : Centres d'hébergement](titre-5)
 - [Titre 6 : Conseil supérieur de l'aide sociale](titre-6)
 - [AIDE SOCIALE AUX INFIRMES, AVEUGLES ET GRANDS INFIRMES](aide-sociale-aux)
-- [CONSEIL SUPERIEUR DE L'AIDE SOCIALE](conseil-superieur-de-l-aide-sociale)
