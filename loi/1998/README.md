@@ -15,6 +15,8 @@
 - [Loi n° 98-1194 du 23 décembre 1998 (MESX9800131L)](loi-n-98-1194-du-23-decembre-1998-mesx9800131l)
 - [Loi n° 98-120 du 2 mars 1998 (MAEX9700005L)](loi-n-98-120-du-2-mars-1998-maex9700005l)
 - [Loi n° 98-121 du 2 mars 1998 (MAEX9700040L)](loi-n-98-121-du-2-mars-1998-maex9700040l)
+- [Loi n° 98-1266 du 30 décembre 1998 (ECOX9800125L)](loi-n-98-1266-du-30-decembre-1998-ecox9800125l)
+- [Loi n° 98-1267 du 30 décembre 1998 (ECOX9800170L)](loi-n-98-1267-du-30-decembre-1998-ecox9800170l)
 - [Loi n° 98-144 du 6 mars 1998 (INTX9700017L)](loi-n-98-144-du-6-mars-1998-intx9700017l)
 - [Loi n° 98-145 du 6 mars 1998 (INTX9700118L)](loi-n-98-145-du-6-mars-1998-intx9700118l)
 - [Loi n° 98-170 du 16 mars 1998 (JUSX9700113L)](loi-n-98-170-du-16-mars-1998-jusx9700113l)

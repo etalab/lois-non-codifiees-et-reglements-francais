@@ -12,3 +12,4 @@
 - [Article 27-4](article-27-4.md)
 - [Article 27-5](article-27-5.md)
 - [Article 27-6](article-27-6.md)
+- [Article 27-7](article-27-7.md)

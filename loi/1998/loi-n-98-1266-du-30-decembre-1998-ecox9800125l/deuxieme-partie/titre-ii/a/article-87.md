@@ -1,0 +1,3 @@
+# Article 87
+
+Avant le 1er octobre 1999, le Gouvernement remettra au Parlement un rapport sur l'application des dispositions en matière d'impôt sur le revenu relatives aux réductions d'impôt. Ce rapport indiquera notamment, par déciles de cotisation d'impôt, avant la prise en compte de ces réductions d'impôt et l'imputation de l'avoir fiscal, le coût pour l'Etat de chacune de ces réductions, ainsi que le nombre de contribuables bénéficiaires de ces réductions. Il indiquera également la part que représentent, en moyenne, ces réductions d'impôt par rapport aux cotisations d'impôt dues avant la prise en compte de ces réductions.

@@ -34,6 +34,20 @@ En 1995, la compensation versée aux communes progresse comme l'indice prévisio
 
 Pour chacune des années 1996, 1997 et 1998, le montant de la dotation instituée par le premier alinéa du présent IV est celui qui permet, compte tenu du montant total des autres dotations à structure constante, de respecter la norme d'évolution fixée au I de l'article 32 de la loi de finances pour 1996 (n° 95-1346 du 30 décembre 1995), majoré de 300 millions de francs.
 
+Pour chacune des années 1999, 2000 et 2001, le taux d'évolution de la dotation instituée au premier alinéa du présent paragraphe est celui qui permet de respecter la norme d'évolution fixée au I de l'article 57 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), compte tenu du montant total des autres dotations énumérées au même I.
+
+Pour les mêmes années, toute diminution de cette dotation par rapport au montant de l'année précédente est modulée de telle sorte que supportent une diminution égale à la moitié de la diminution moyenne de la dotation de compensation telle qu'elle résulte de l'application de l'alinéa précédent :
+
+- les communes qui remplissent au titre de l'année précédente les conditions d'éligibilité aux attributions de la dotation de solidarité urbaine instituée par l'article L. 2334-15 du code général des collectivités territoriales ;
+
+- les communes bénéficiaires au titre de l'année précédente de la première fraction de la dotation de solidarité rurale visée à l'article L. 2334-21 du code général des collectivités territoriales ;
+
+- les départements qui remplissent au titre de l'année précédente les conditions d'éligibilité aux attributions de la dotation de fonctionnement minimale prévue à l'article L. 3334-7 du code général des collectivités territoriales ;
+
+- les régions qui remplissent au titre de l'année précédente les conditions d'éligibilité aux attributions du fonds de correction des déséquilibres régionaux prévu à l'article L. 4332-4 du code général des collectivités territoriales.
+
+Cette modulation s'applique au sein de chaque catégorie de collectivité territoriale telle que définie à l'article L. 1111-1 du code général des collectivités territoriales.
+
 Alinéa modificateur
 
 IV bis. - A compter de 1992, la dotation prévue au premier alinéa du IV est majorée afin de compenser, dans les conditions ci-après, la perte de recettes qui résulte, chaque année, pour les collectivités locales et leurs groupements dotés d'une fiscalité propre créés avant le 1er janvier 1987, des dispositions de l'article 1469 A bis et du dernier alinéa du II de l'article 1478 du code général des impôts.

@@ -1,0 +1,13 @@
+# Article 27-7
+
+Le montant total annuel des dépenses des établissements et services visés aux 6° et 8° de l'article 3, imputables aux prestations prises en charge par l'aide sociale de l'Etat et, corrélativement, le montant total annuel des dépenses prises en compte pour le calcul des dotations globales de fonctionnement de ces établissements ou services sont déterminés par le montant limitatif inscrit à ce titre dans la loi de finances initiale de l'exercice considéré.
+
+Ce montant total annuel est constitué en dotations régionales limitatives. Le montant de ces dotations régionales est fixé par le ministre chargé de l'action sociale, en fonction des priorités en matière de politique sociale, compte tenu des besoins de la population, de l'activité et des coûts moyens des établissements ou services et d'un objectif de réduction progressive des inégalités dans l'allocation des ressources entre régions.
+
+Chaque dotation régionale est répartie par le préfet de région, en liaison avec les préfets de département, en dotations départementales, dont le montant tient compte des priorités locales, des orientations des schémas prévus à l'article 2-2, de l'activité et des coûts moyens des établissements ou services, et d'un objectif de réduction des inégalités d'allocation des ressources entre départements et établissements ou services.
+
+Pour chaque établissement ou service, le préfet de département compétent peut modifier le montant global des recettes et dépenses prévisionnelles visées au 5° de l'article 26-1, imputables aux prestations prises en charge par l'aide sociale de l'Etat, compte tenu du montant des dotations régionales ou départementales définies ci-dessus ; la même procédure s'applique en cas de révision, au titre du même exercice, des dotations régionales ou départementales initiales.
+
+Le préfet de département peut également supprimer ou diminuer les prévisions de dépenses qu'il estime injustifiées ou excessives compte tenu, d'une part, des conditions de satisfaction des besoins de la population, telles qu'elles résultent notamment des orientations des schémas prévus à l'article 2-2, d'autre part, de l'évolution de l'activité et des coûts des établissements et services appréciés par rapport au fonctionnement des autres équipements comparables dans le département ou la région.
+
+Des conventions conclues entre le préfet de région, les préfets de département, les gestionnaires d'établissement ou de service et, le cas échéant, les groupements constitués dans les conditions prévues à l'article 2 précisent, dans une perspective pluriannuelle, les objectifs prévisionnels et les critères d'évaluation de l'activité et des coûts des prestations imputables à l'aide sociale de l'Etat dans les établissements et services concernés.
