@@ -5,3 +5,5 @@ A l'issue des épreuves d'admission, les jurys arrêtent, dans la limite des pla
 " La liste d'aptitude est établie par ordre alphabétique et fait mention de la spécialité choisie par chaque candidat ".
 
 " Elle mentionne, le cas échéant, la qualification obtenue par le lauréat dans les conditions définies aux cinquième, sixième et septième alinéas de l'article 4 ci-dessus. "
+
+" Elle mentionne, le cas échéant, la qualification obtenue par le lauréat dans les conditions définies aux troisième, quatrième et cinquième alinéas de l'article 4 ci-dessus. "
