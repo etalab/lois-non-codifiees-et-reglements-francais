@@ -1,15 +1,17 @@
 # Article 5
 
-Le dépassement du plafond limite de classement déterminé en tenant compte de la totalité de la vendange récoltée pour l'appellation d'origine contrôlée considérée entraîne la perte du droit à l'appellation d'origine contrôlée revendiquée ainsi qu'aux appellations plus générales auxquelles le vin pourrait prétendre.
+Le dépassement du plafond limite de classement déterminé en tenant compte de la totalité de la vendange récoltée sur les surfaces pour lesquelles est revendiquée une appellation d'origine contrôlée entraîne la perte du droit à l'appellation d'origine contrôlée considérée ainsi qu'aux appellations plus générales auxquelles le vin peut prétendre.
 
-Toutefois, en cas de dépassement du plafond limite de classement, le droit à l'appellation d'origine contrôlée peut être accordé, dans la limite de ce plafond, par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine aux quantités effectives produites sous réserve :
+Toutefois, en cas de dépassement du plafond limite de classement, le droit à l'appellation d'origine contrôlée peut être accordé, dans la limite de ce plafond, par l'Institut national des appellations d'origine aux quantités effectives produites sous réserve :
 
-1° Que les conditions de production de la totalité des vins produits dans l'exploitation pour lesquels l'appellation d'origine contrôlée est revendiquée aient été vérifiées ;
+1. Que les conditions de production de la totalité des vins produits dans l'exploitation pour lesquels l'appellation d'origine contrôlée est revendiquée aient été vérifiées.
 
-2° Que la totalité de ces mêmes vins ait satisfait avec succès à l'examen analytique et organoleptique prévu par le décret n° 74-871 du 19 octobre 1974 modifié susvisé ;
+2. Que ces mêmes vins aient satisfait avec succès à l'examen analytique et organoleptique prévu par le décret n° 74-871 du 19 octobre 1974 susvisé.
 
-3° Que le viticulteur ait souscrit au moment de la déclaration de récolte l'engagement de livrer à la transformation en alcool les vins produits en dépassement du plafond limite de classement. Ces vins sont envoyés directement aux distilleries par les producteurs.
+3. Que le viticulteur ait souscrit au moment de la déclaration de récolte un engagement de livrer, sous forme de vin pour lequel il ne peut prétendre à aucune rémunération, à un ou des organismes agréés par arrêté conjoint du ministre chargé de l'agriculture, du ministre chargé de l'économie et du ministre du budget les produits récoltés en dépassement du plafond limite de classement. Les vins livrés doivent présenter un titre alcoométrique volumique minimum correspondant à la richesse minimum en sucres des lots de vendange fixée pour l'appellation d'origine contrôlée considérée et pour l'année en cause.
 
-La délivrance du certificat prévu à l'article 1er du décret du 19 octobre 1974 susvisé est subordonnée à la réalisation de cet engagement, l'élimination des vins produits en dépassement du plafond limite de classement devant être effective au plus tard le 15 décembre de l'année suivant celle de la récolte.
+Le taux de conversion appliqué pour déterminer ce titre alcoométrique volumique minimum est fixé à 17 grammes de sucres pour 1 p. 100 d'alcool pour les vins blancs et rosés et à 18 grammes de sucres pour 1 p. 100 d'alcool pour les vins rouges.
 
-En aucun cas les quantités d'alcool produites en application des dispositions du présent article ne peuvent être considérées comme produites au titre des obligations ou des possibilités de distillation fixées par le règlement viti-vinicole communautaire en application du règlement C.E.E. n° 822-87 du 16 mars 1987 modifié.
+La livraison des vins produits en dépassement du plafond limite de classement doit être effective au plus tard le 15 décembre de l'année suivant celle de la récolte.
+
+En aucun cas les quantités de vins livrées en application des dispositions du présent article ne peuvent être prises en compte au titre des obligations fixées par la réglementation viti-vinicole communautaire.
