@@ -1,3 +1,3 @@
 # Article 4
 
-Le directeur du budget au ministère du budget est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française et prendra effet à compter du 1er juin 1979.
+L'arrêté du 19 novembre 1976 fixant le régime des indemnités de stage des agents communaux mentionnés au livre IV du code des communes et des agents départementaux est abrogé.

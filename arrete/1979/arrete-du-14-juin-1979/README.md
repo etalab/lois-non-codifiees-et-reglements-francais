@@ -1,4 +1,4 @@
-# Arrêté du 14 juin 1979 fixant le taux des indemnités forfaitaires de déplacement prévues aux articles 28 et 29 du décret n° 66-619 du 10 août 1966 modifié.
+# Arrêté du 14 juin 1979 relatif aux indemnités de stage des agents communaux et départementaux.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

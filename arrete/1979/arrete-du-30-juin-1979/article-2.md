@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur général des impôts et le directeur général des douanes et des droits indirects sont chargés de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les zones géographiques prévues à l'article 1er sont celles définies par l'arrêté du 17 mars 1978.
