@@ -38,7 +38,6 @@
 - [Loi n° 96-427 du 17 mai 1996 (MAEX9500116L)](loi-n-96-427-du-17-mai-1996-maex9500116l)
 - [Loi n° 96-432 du 22 mai 1996 (JUSX9500141L)](loi-n-96-432-du-22-mai-1996-jusx9500141l)
 - [Loi n° 96-452 du 28 mai 1996 (TASX9500161L)](loi-n-96-452-du-28-mai-1996-tasx9500161l)
-- [Loi n° 96-502 du 11 juin 1996 (TASX9601538L)](loi-n-96-502-du-11-juin-1996-tasx9601538l)
 - [Loi n° 96-503 du 11 juin 1996 (MAEX9500190L)](loi-n-96-503-du-11-juin-1996-maex9500190l)
 - [Loi n° 96-504 du 11 juin 1996 (MAEX9400153L)](loi-n-96-504-du-11-juin-1996-maex9400153l)
 - [Loi n° 96-505 du 11 juin 1996 (MAEX9400152L)](loi-n-96-505-du-11-juin-1996-maex9400152l)
