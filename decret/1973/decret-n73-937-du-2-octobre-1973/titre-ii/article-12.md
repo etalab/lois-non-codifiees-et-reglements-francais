@@ -1,0 +1,11 @@
+# Article 12
+
+I - Pour l'ouverture du droit aux prestations mentionnées à l'article L. 663-5 du Code de la sécurité sociale et non visées à l'article 12-1, les périodes d'assurance ou d'activité professionnelle non-salariée et périodes assimilées antérieures au 1er janvier 1973 et les périodes d'assurance et périodes assimilées postérieures au 31 décembre 1972 sont totalisées. Est également prise en considération, sous réserve, le cas échéant, de l'application de l'article 16 du décret n° 75-109 du 24 février 1975, la majoration de durée d'assurance prévue à l'article L. 342-1 du Code de la sécurité sociale [*femmes ayant élevé un ou plusieurs enfants*].
+
+II - Pour l'application de l'article 22-I du décret du 31 mars 1966 susvisé, il est retenu, au titre des cotisations versées postérieurement au 31 décembre 1972, autant de points de retraite que le revenu professionnel ayant donné lieu au versement d'une cotisation annuelle comprend de fois le vingtième du plafond visé à l'article L. 663-9 du Code de la sécurité sociale [*nombre*].
+
+III - Les conditions de durée d'activité et de durée de cotisations prévues au chapitre II du titre III du décret du 17 septembre 1964 susvisé sont appréciées compte tenu des dispositions du I du présent article, au dernier jour du trimestre civil précédant soit la date d'entrée en jouissance de l'avantage de vieillesse en cause, fixée conformément aux dispositions de l'article 13 du présent décret, soit à la date du décès de l'assuré.
+
+IV - Pour l'application des articles 24-I et 32-II du décret du 17 septembre 1964 susvisé, il est retenu, au titre des cotisations versées postérieurement au 31 décembre 1972, autant de points de retraite, dans la limite de seize points par année de cotisation, que le revenu professionnel ayant donné lieu au versement d'une cotisation annuelle comprend de fois 3 p. 100 du montant du plafond visé à l'article 663-9 du Code de la sécurité sociale.
+
+V - Pour l'ouverture du droit aux pensions minimales prévues aux articles 34 et 35 du décret du 17 septembre 1964 susvisé, il est fait application des dispositions du I du présent article. Lesdites pensions sont réduites au prorata des périodes d'assurance ou d'activité professionnelle et périodes assimilées antérieures au 1er janvier 1973.

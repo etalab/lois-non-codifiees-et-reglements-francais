@@ -1,0 +1,3 @@
+# Article 11
+
+En ce qui concerne les assurés du régime d'assurance vieillesse des professions industrielles et commerciales dont les droits sont liquidés avec une date d'entrée en jouissance antérieure au 1er janvier 1975, cette liquidation est effectuée en retenant, pour les périodes au titre desquelles les intéressés ont acquitté des cotisations calculées dans les conditions prévues par la réglementation en vigueur avant le 1er janvier 1973 conformément aux dispositions de l'article 21 du décret susvisé du 22 janvier 1973, un revenu annuel égal à autant de fois 1200 F que leur cotisation annuelle représentait de points de cotisation.
