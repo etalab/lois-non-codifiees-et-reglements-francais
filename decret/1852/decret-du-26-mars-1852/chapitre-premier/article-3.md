@@ -1,13 +1,7 @@
 # Article 3
 
-Le consistoire est renouvelé dans sa totalité tous les trois ans. Le renouvellement a lieu immédiatement après les élections triennales des conseils presbytéraux prévus au deuxième alinéa de l'article 1er du présent décret.
+Le consistoire est renouvelé tous les trois ans, comme le conseil presbytéral. Après chaque renouvellement, il élit son président parmi les pasteurs qui en sont membres, et l'élection est soumise à l'agrément du Gouvernement.
 
-Après chaque renouvellement le consistoire élit :
+Le président devra, autant que possible, résider au chef-lieu du ressort.
 
-1° Son président, choisi parmi les membres du consistoire ;
-
-2° Un vice-président, un secrétaire et un trésorier choisis parmi les membres laïques du consistoire.
-
-La désignation du président est notifiée par le directoire ou le conseil synodal au ministre de l'intérieur qui dispose d'un délai de deux mois pour s'y opposer.
-
-Le président, le vice-président, le secrétaire et le trésorier forment le conseil consistorial.
+Lorsqu'il aura atteint l'âge de soixante et dix ans ou qu'il se trouvera empêché par des infirmités, le Gouvernement pourra, après avis du consistoire, lui donner le titre de président honoraire, et le consistoire fera un nouveau choix.
