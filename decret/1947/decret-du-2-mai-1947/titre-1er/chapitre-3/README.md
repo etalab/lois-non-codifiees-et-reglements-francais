@@ -1,6 +1,5 @@
-# Chapitre 2 : Du mode de scrutin et des procédures de vote
+# Chapitre 3 : De la convocation des électeurs et de l'établissement des listes électorales
 
-- [Article 3 quinquies](article-3-quinquies.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
