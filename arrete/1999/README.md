@@ -338,7 +338,6 @@
 - [Arrêté du 15 juillet 1999 (EQUH9901061A)](arrete-du-15-juillet-1999-equh9901061a)
 - [Arrêté du 15 juillet 1999 (EQUH9901064A)](arrete-du-15-juillet-1999-equh9901064a)
 - [Arrêté du 15 juillet 1999 (INTC9900354A)](arrete-du-15-juillet-1999-intc9900354a)
-- [Arrêté du 15 mars 1999 (AGRS9900552A)](arrete-du-15-mars-1999-agrs9900552a)
 - [Arrêté du 15 mars 1999 (MESP9920856A)](arrete-du-15-mars-1999-mesp9920856a)
 - [Arrêté du 15 mars 1999 (MESP9920857A)](arrete-du-15-mars-1999-mesp9920857a)
 - [Arrêté du 15 mars 1999 (MESP9920858A)](arrete-du-15-mars-1999-mesp9920858a)
