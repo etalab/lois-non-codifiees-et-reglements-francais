@@ -242,6 +242,7 @@
 - [Décret n°88-510 du 29 avril 1988 (ACVE8850007D)](decret-n88-510-du-29-avril-1988-acve8850007d)
 - [Décret n°77-1113 du 30 septembre 1977](decret-n77-1113-du-30-septembre-1977)
 - [Décret n°87-1107 du 30 décembre 1987 (INTB8700401D)](decret-n87-1107-du-30-decembre-1987-intb8700401d)
+- [Décret n°79-102 du 31 janvier 1979](decret-n79-102-du-31-janvier-1979)
 - [Décret n°87-1144 du 31 décembre 1987 (MCCT8700545D)](decret-n87-1144-du-31-decembre-1987-mcct8700545d)
 - [Décret n°87-1146 du 31 décembre 1987 (INTB8700410D)](decret-n87-1146-du-31-decembre-1987-intb8700410d)
 - [Décret n°87-1153 du 31 décembre 1987 (BUDB8740093D)](decret-n87-1153-du-31-decembre-1987-budb8740093d)
