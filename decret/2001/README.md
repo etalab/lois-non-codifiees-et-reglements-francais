@@ -39,6 +39,7 @@
 - [Décret n°2001-1155 du 4 décembre 2001 (INTB0100314D)](decret-n2001-1155-du-4-decembre-2001-intb0100314d)
 - [Décret n°2001-1167 du 4 décembre 2001 (AGRS0102222D)](decret-n2001-1167-du-4-decembre-2001-agrs0102222d)
 - [Décret n°2001-295 du 4 avril 2001 (MENS0003290D)](decret-n2001-295-du-4-avril-2001-mens0003290d)
+- [Décret n°2001-297 du 4 avril 2001 (DEFP0002512D)](decret-n2001-297-du-4-avril-2001-defp0002512d)
 - [Décret n°2001-305 du 4 avril 2001 (AGRR0002544D)](decret-n2001-305-du-4-avril-2001-agrr0002544d)
 - [Décret n°2001-584 du 4 juillet 2001 (AGRS0101031D)](decret-n2001-584-du-4-juillet-2001-agrs0101031d)
 - [Décret n°2001-801 du 4 septembre 2001 (EQUT0101287D)](decret-n2001-801-du-4-septembre-2001-equt0101287d)
