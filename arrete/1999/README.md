@@ -476,7 +476,6 @@
 - [Arrêté du 21 avril 1999 (MAEA9920193A)](arrete-du-21-avril-1999-maea9920193a)
 - [Arrêté du 21 avril 1999 (MAEA9920194A)](arrete-du-21-avril-1999-maea9920194a)
 - [Arrêté du 21 décembre 1998 (AGRE9802662A)](arrete-du-21-decembre-1998-agre9802662a)
-- [Arrêté du 21 décembre 1998 (AGRE9802663A)](arrete-du-21-decembre-1998-agre9802663a)
 - [Arrêté du 21 décembre 1998 (AGRG9900101A)](arrete-du-21-decembre-1998-agrg9900101a)
 - [Arrêté du 21 décembre 1998 (DEFE9855029A)](arrete-du-21-decembre-1998-defe9855029a)
 - [Arrêté du 21 décembre 1998 (MESP9824014A)](arrete-du-21-decembre-1998-mesp9824014a)

@@ -1203,7 +1203,6 @@
 - [Arrêté du 31 janvier 1997 (EQUS9601442A)](arrete-du-31-janvier-1997-equs9601442a)
 - [Arrêté du 31 janvier 1997 (JUSB9710026A)](arrete-du-31-janvier-1997-jusb9710026a)
 - [Arrêté du 31 janvier 1997 (TAST9710167A)](arrete-du-31-janvier-1997-tast9710167a)
-- [Arrêté du 31 juillet 1997 (AGRE9701701A)](arrete-du-31-juillet-1997-agre9701701a)
 - [Arrêté du 31 juillet 1997 (ATEN9760337A)](arrete-du-31-juillet-1997-aten9760337a)
 - [Arrêté du 31 juillet 1997 (ECOS9750021A)](arrete-du-31-juillet-1997-ecos9750021a)
 - [Arrêté du 31 juillet 1997 (EQUZ9701188A)](arrete-du-31-juillet-1997-equz9701188a)
