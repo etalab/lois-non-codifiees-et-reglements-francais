@@ -65,6 +65,7 @@
 - [Décret n°83-626 du 8 juillet 1983](decret-n83-626-du-8-juillet-1983)
 - [Décret n°83-640 du 8 juillet 1983](decret-n83-640-du-8-juillet-1983)
 - [Décret n°83-733 du 8 août 1983](decret-n83-733-du-8-aout-1983)
+- [Décret n°83-964 du 8 novembre 1983](decret-n83-964-du-8-novembre-1983)
 - [Décret n°83-471 du 9 juin 1983](decret-n83-471-du-9-juin-1983)
 - [Décret n°83-473 du 9 juin 1983](decret-n83-473-du-9-juin-1983)
 - [Décret n°83-480 du 9 juin 1983](decret-n83-480-du-9-juin-1983)
