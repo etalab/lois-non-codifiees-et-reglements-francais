@@ -1,3 +1,3 @@
 # Article 6
 
-Le présent arrêté est applicable dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+Le présent arrêté sera publié au Journal officiel de la République française et prendra effet à compter du 1er janvier 1984.

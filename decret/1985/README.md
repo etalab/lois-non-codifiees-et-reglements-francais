@@ -239,6 +239,7 @@
 - [Décret n°85-155 du 31 janvier 1985](decret-n85-155-du-31-janvier-1985)
 - [Décret n°85-158 du 31 janvier 1985](decret-n85-158-du-31-janvier-1985)
 - [Décret n°85-418 du 31 mars 1985](decret-n85-418-du-31-mars-1985)
+- [Décret n°85-812 du 31 juillet 1985](decret-n85-812-du-31-juillet-1985)
 - [Décret n°85-563 du 31 mai 1985](decret-n85-563-du-31-mai-1985)
 - [Décret n°85-566 du 31 mai 1985](decret-n85-566-du-31-mai-1985)
 - [Décret n°85-567 du 31 mai 1985](decret-n85-567-du-31-mai-1985)
