@@ -4,4 +4,4 @@ Les émoluments sont constitués par des droits fixes et des droits proportionne
 
 Le montant des droits fixes est calculé en taux de base ;
 
-Le montant du taux de base est fixé à 9,50 F.
+Le montant du taux de base est fixé à 10,50 F.
