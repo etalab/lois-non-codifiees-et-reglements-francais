@@ -28,7 +28,7 @@ Le directeur général du centre français du commerce extérieur ;
 
 Le directeur de la production et des échanges au ministère de l'agriculture ;
 
-Le directeur du développement au ministère chargé de la coopération  ;
+Le chef du service de la coordination géographique et des études au ministère des affaires étrangères (Coopération et francophonie)  ;
 
 Le directeur de l'Institut français des relations internationales.
 
