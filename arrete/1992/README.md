@@ -182,7 +182,6 @@
 - [Arrêté du 5 octobre 1992 (EQUS9201426A)](arrete-du-5-octobre-1992-equs9201426a)
 - [Arrêté du 5 octobre 1992 (SANH9202583A)](arrete-du-5-octobre-1992-sanh9202583a)
 - [Arrêté du 5 septembre 1992 (MENT9200352A)](arrete-du-5-septembre-1992-ment9200352a)
-- [Arrêté du 5 mai 1989 (AGRS8900932A)](arrete-du-5-mai-1989-agrs8900932a)
 - [Arrêté du 5 mai 1992 (DEFT9201453A)](arrete-du-5-mai-1992-deft9201453a)
 - [Arrêté du 5 mai 1992 (MENB9200074A)](arrete-du-5-mai-1992-menb9200074a)
 - [Arrêté du 5 mai 1992 (MENB9200075A)](arrete-du-5-mai-1992-menb9200075a)
