@@ -64,6 +64,7 @@
 - [Décret n°75-170 du 24 février 1975](decret-n75-170-du-24-fevrier-1975)
 - [Décret n°75-313 du 24 avril 1975](decret-n75-313-du-24-avril-1975)
 - [Décret n°75-65 du 24 janvier 1975](decret-n75-65-du-24-janvier-1975)
+- [Décret n°75-681 du 24 juillet 1975](decret-n75-681-du-24-juillet-1975)
 - [Décret n°75-672 du 25 juillet 1975](decret-n75-672-du-25-juillet-1975)
 - [Décret n°75-205 du 26 mars 1975](decret-n75-205-du-26-mars-1975)
 - [Décret n°75-406 du 26 mai 1975](decret-n75-406-du-26-mai-1975)
