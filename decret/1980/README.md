@@ -61,5 +61,6 @@
 - [Décret n°80-183 du 28 février 1980](decret-n80-183-du-28-fevrier-1980)
 - [Décret n°79-750 du 29 août 1979](decret-n79-750-du-29-aout-1979)
 - [Décret n°80-112 du 30 janvier 1980](decret-n80-112-du-30-janvier-1980)
+- [Décret n°80-305 du 30 avril 1980](decret-n80-305-du-30-avril-1980)
 - [Décret n°80-99 du 30 janvier 1980](decret-n80-99-du-30-janvier-1980)
 - [Décret n°79-1228 du 31 décembre 1979](decret-n79-1228-du-31-decembre-1979)
