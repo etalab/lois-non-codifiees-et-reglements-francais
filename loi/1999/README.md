@@ -25,6 +25,7 @@
 - [Loi n° 99-574 du 9 juillet 1999 (AGRX9800053L)](loi-n-99-574-du-9-juillet-1999-agrx9800053l)
 - [Loi n° 99-586 du 12 juillet 1999 (INTX9800135L)](loi-n-99-586-du-12-juillet-1999-intx9800135l)
 - [Loi n° 99-587 du 12 juillet 1999 (MENX9800171L)](loi-n-99-587-du-12-juillet-1999-menx9800171l)
+- [Loi n° 99-641 du 27 juillet 1999 (MESX9900011L)](loi-n-99-641-du-27-juillet-1999-mesx9900011l)
 - [Loi n° 99-67 du 3 février 1999 (ECOX9800147L)](loi-n-99-67-du-3-fevrier-1999-ecox9800147l)
 - [Loi n°89-432 du 28 juin 1989 (SPOX8800141L)](loi-n89-432-du-28-juin-1989-spox8800141l)
 - [Loi n°99-243 du 29 mars 1999 (EQUX9800060L)](loi-n99-243-du-29-mars-1999-equx9800060l)

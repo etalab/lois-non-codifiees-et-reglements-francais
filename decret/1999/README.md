@@ -463,6 +463,7 @@
 - [Décret n°99-333 du 26 avril 1999 (MCCB9900256D)](decret-n99-333-du-26-avril-1999-mccb9900256d)
 - [Décret n°99-334 du 26 avril 1999 (MCCB9900257D)](decret-n99-334-du-26-avril-1999-mccb9900257d)
 - [Décret n°99-55 du 26 janvier 1999 (ATEP9860072D)](decret-n99-55-du-26-janvier-1999-atep9860072d)
+- [Décret n°99-642 du 26 juillet 1999 (DEFP9901466D)](decret-n99-642-du-26-juillet-1999-defp9901466d)
 - [Décret n°99-412 du 26 mai 1999 (JUSF9950038D)](decret-n99-412-du-26-mai-1999-jusf9950038d)
 - [Décret n°99-416 du 26 mai 1999 (ECOZ9900007D)](decret-n99-416-du-26-mai-1999-ecoz9900007d)
 - [Décret n°99-417 du 26 mai 1999 (ECOZ9900008D)](decret-n99-417-du-26-mai-1999-ecoz9900008d)
