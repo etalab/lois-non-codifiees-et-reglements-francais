@@ -1,6 +1,6 @@
 # Article 5
 
-La société est soumise au décret du 9 août 1953 susvisé.
+La société est soumise au décret du 9 août 1953 susvisé à l'exception des dispositions de son article 2.
 
 Les délibérations du conseil d'administration et les décisions du président du conseil d'administration agissant par délégation dudit conseil deviennent de plein droit exécutoires si le commissaire du Gouvernement ou le contrôleur d'Etat n'y font pas opposition dans les dix jours qui suivent soit la réunion du conseil d'administration s'ils y ont assisté, soit la réception du procès-verbal de la séance, soit la notification à eux faite des décisions du président.
 
