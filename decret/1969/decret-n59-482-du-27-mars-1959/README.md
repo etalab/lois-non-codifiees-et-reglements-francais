@@ -2,3 +2,4 @@
 
 - [Article 1](article-1.md)
 - [TITRE II : Organisation administrative.](titre-ii)
+- [TITRE III : Organisation financière.](titre-iii)
