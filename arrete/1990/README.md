@@ -5,6 +5,7 @@
 - [Arrêté du 1 février 1990 (MENF8902501A)](arrete-du-1-fevrier-1990-menf8902501a)
 - [Arrêté du 1 juin 1990 (DEFP9001480A)](arrete-du-1-juin-1990-defp9001480a)
 - [Arrêté du 1 mars 1990 (BUDB9060006A)](arrete-du-1-mars-1990-budb9060006a)
+- [Arrêté du 1 mars 1990 (DEFE9001213A)](arrete-du-1-mars-1990-defe9001213a)
 - [Arrêté du 1 mars 1990 (MERP9000032A)](arrete-du-1-mars-1990-merp9000032a)
 - [Arrêté du 2 février 1978](arrete-du-2-fevrier-1978)
 - [Arrêté du 2 février 1990 (JUSX9010039A)](arrete-du-2-fevrier-1990-jusx9010039a)
