@@ -10,7 +10,7 @@ Le président prend toute mesure nécessaire pour assurer la régularité du dé
 
 Si le nombre des candidats est supérieur à 30, le jury peut décider de constituer des groupes de rapporteurs comprenant un représentant de chaque catégorie pour procéder à l'audition des candidats, chaque groupe de rapporteurs présentant ensuite ses conclusions devant le jury plénier.
 
-A l'issue des opérations de concours, le jury dresse la liste d'aptitude par ordre alphabétique pour chaque discipline ou spécialité et chaque catégorie de concours. Il peut établir une liste complémentaire.
+A l'issue des opérations de concours, le jury dresse la liste d'aptitude par ordre alphabétique et par catégorie de concours.
 
 Le nombre d'inscrits sur la liste d'aptitude ne peut être supérieur au nombre de places ouvertes au concours. Toutefois, lorsque le jury décide de ne pas inscrire sur la liste d'aptitude établie au titre d'une catégorie de concours le nombre de candidats correspondant au nombre de places, il peut reporter les places non pourvues sur l'autre catégorie de concours de la même discipline ou spécialité.
 
