@@ -1,0 +1,3 @@
+# Article Annexe art. *4
+
+Dans les conditions de droit commun, le ou les peseurs sont chargés du pesage des carcasses pour la perception des redevances. En outre, ce personnel assure la constatation du poids des carcasses en viande nette, en vue de la perception de la taxe d'usage et de la taxe de visite et de poinçonnage. Chaque opération de pesage donne lieu à la délivrance à l'usager d'un bulletin sur lequel sont inscrits au moins le poids constaté, la date de la pesée, l'espèce, la catégorie (bovin adulte, veau, porcelet) et les numéros d'ordre et d'identification de l'animal dont provient la carcasse pesée, le nombre et la nomenclature des abats ou des issues pesés.

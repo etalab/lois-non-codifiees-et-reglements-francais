@@ -1,0 +1,3 @@
+# Article Annexe art. *28
+
+Sans préjudice de l'application des mesures réglementaires prescrites en vue de l'inspection sanitaire, toutes précautions doivent être prises par l'exploitant pour que l'identification de l'animal vivant soit poursuivie et maintenue au cours et après réalisation des opérations d'abattage, afin qu'aucune confusion ne soit possible entre les carcasses, les abats et les sous-produits d'animaux abattus pour le compte d'usagers différents, compte tenu des produits de l'abattage qui ne peuvent être individualisés et figurent, à ce titre, sur une liste annexée au présent arrêté et dressée après avis de la commission consultative prévue par l'article 4 du décret du 10 juillet 1967 susvisé.

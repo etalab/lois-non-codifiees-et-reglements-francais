@@ -1,0 +1,3 @@
+# Article Annexe art. *3
+
+Le personnel du service de gardiennage est chargé de l'application du présent règlement en ce qui concerne l'entrée et la sortie des personnes, des véhicules, des animaux, des viandes, abats ou sous-produits. Il ouvre et ferme, suivant les nécessités du service, les grilles d'entrée ainsi que toutes les autres portes extérieures de l'établissement, notamment en vue d'empêcher l'évasion des animaux. Il conserve les clés de tous les locaux, à l'exception des locaux réservés au service vétérinaire d'inspection. Il veille à ce que ces clés soient remises à la fin de l'exécution des divers travaux et s'assure à la fin de chaque jour que toutes les portes sont bien fermées.
