@@ -1,0 +1,3 @@
+# Article 446
+
+Seront punis d'une amende de 2.000 F à 60.000 F [*sanctions pénales*], le président, les administrateurs, les directeurs généraux ou les gérants de sociétés par actions dont les actions sont inscrites à la cote officielle d'une bourse de valeurs et dont le bilan est au plus égal à dix millions de francs qui, volontairement [*intention frauduleuse*], n'auront pas adressé, dans un délai de quinze jours, et conformément aux articles 294 4°, 295 et 297 du décret n° 67-236 du 23 mars 1967 sur les sociétés commerciales, à tout actionnaire qui en aura fait la demande, le bilan et ses annexes, le compte d'exploitation générale, le compte de pertes et profits et l'inventaire des valeurs mobilières détenues en portefeuille.
