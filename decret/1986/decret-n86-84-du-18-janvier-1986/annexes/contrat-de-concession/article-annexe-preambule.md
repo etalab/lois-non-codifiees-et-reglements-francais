@@ -1,3 +1,0 @@
-# Article Annexe préambule
-
-Entre le secrétaire d'Etat auprès du Premier ministre, chargé des techniques de la communication, agissant au nom de l'Etat, ci-après dénommé le concédant, d'une part, et la société France 5, société anonyme au capital de 50.000.000 F , ayant son siège à Paris (8e), 3, boulevard Malesherbes, immatriculée au registre du commerce de Paris sous le numéro B 334 337 292, représentée par M. Jerôme Seydoux, président-directeur général, autorisé par décision unanime des actionnaires en date du 14 janvier 1986, ci-après dénommée le concessionnaire, d'autre part, il a été convenu ce qui suit :
