@@ -11,5 +11,4 @@
 - [Loi n° 80-539 du 16 juillet 1980](loi-n-80-539-du-16-juillet-1980)
 - [Loi n° 80-546 du 17 juillet 1980](loi-n-80-546-du-17-juillet-1980)
 - [Loi n° 80-834 du 24 octobre 1980](loi-n-80-834-du-24-octobre-1980)
-- [Loi n°80-532 du 15 juillet 1980](loi-n80-532-du-15-juillet-1980)
 - [Loi n°80-572 du 25 juillet 1980](loi-n80-572-du-25-juillet-1980)
