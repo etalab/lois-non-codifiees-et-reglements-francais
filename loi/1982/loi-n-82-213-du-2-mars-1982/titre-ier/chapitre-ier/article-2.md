@@ -16,7 +16,7 @@ Les actes à caractère réglementaire pris par les autorités communales dans t
 
 Les conventions relatives aux marchés et aux emprunts ainsi que les conventions de concession ou d'affermage de services publics locaux à caractère industriel ou commercial ;
 
-Les décisions individuelles relatives à la nomination, à l'avancement de grade, aux sanctions soumises à l'avis du conseil de discipline et au licenciement d'agents de la commune.
+Les décisions individuelles relatives à la nomination, à l'avancement de grade, à l'avancement d'échelon, aux sanctions soumises à l'avis du conseil de discipline et au licenciement d'agents de la commune;
 
 Le permis de construire, les autres autorisations d'utilisation du sol, le certificat d'urbanisme et le certificat de conformité délivrés par le maire ou le président de l'établissement public de coopération intercommunale, lorsqu'il a reçu compétence dans les conditions prévues à l'article L. 421-2-1 du code de l'urbanisme.
 

@@ -16,7 +16,7 @@ Les actes à caractère réglementaire pris par les autorités départementales 
 
 Les conventions relatives aux marchés et aux emprunts ainsi que les conventions de concession ou d'affermage de services publics locaux à caractère industriel ou commercial ;
 
-Les décisions individuelles relatives à la nomination, à l'avancement de grade, aux sanctions soumises à l'avis du conseil de discipline et au licenciement d'agents du département.
+Les décisions individuelles relatives à la nomination, à l'avancement de grade, à l'avancement d'échelon, aux sanctions soumises à l'avis du conseil de discipline et au licenciement d'agents du département.
 
 III. - Les actes pris au nom du département et autres que ceux mentionnés au paragraphe II sont exécutoires de plein droit dès qu'il a été procédé à leur publication ou à leur notification aux intéressés.
 
