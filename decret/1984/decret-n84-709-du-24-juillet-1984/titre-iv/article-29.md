@@ -1,9 +1,15 @@
 # Article 29
 
-Sans préjudice des dispositions de la loi n° 66-537 du 24 juillet 1966 modifiée sur les sociétés commerciales en ce qui concerne la désignation des commissaires aux comptes dans ces sociétés, les établissements de crédit et entreprises d'investissement doivent faire connaître à la commission bancaire instituée par l'article 37 de la loi du 24 janvier 1984 les noms des commissaires aux comptes qu'ils se proposent de choisir.
+Tout établissement de crédit, compagnie financière ou entreprise d'investissement soumise au contrôle de la Commission bancaire doit faire connaître à la Commission bancaire le nom des commissaires aux comptes qu'il se propose de désigner.
 
-La commission bancaire dispose d'un délai de deux mois pour s'opposer à la désignation envisagée. L'établissement de crédit ou l'entreprise d'investissement, qui ne peut passer outre, procède alors dans les mêmes formes à une nouvelle désignation.
+Lorsqu'il informe la Commission bancaire de son intention de désigner comme commissaires aux comptes une société de commissaires aux comptes constituée et inscrite selon les modalités prévues à l'article L. 225-218 du code de commerce, l'établissement de crédit, l'entreprise d'investissement ou la compagnie financière précise le nom du commissaire aux comptes associé, actionnaire ou dirigeant, responsable de la mission au nom de cette société. Il informe la Commission bancaire de toute modification ultérieure de cette situation.
 
-L'absence de réponse de la commission bancaire à l'expiration de ce délai vaut acceptation.
+La Commission bancaire dispose d'un délai de deux mois pour faire connaître à l'établissement de crédit, l'entreprise d'investissement ou la compagnie financière, son avis sur la proposition de désignation du commissaire aux comptes. En l'absence de réponse de la Commission bancaire dans le délai imparti, son avis est réputé favorable.
 
-Les dispositions de l'article 64 modifié du décret n° 69-810 du 12 août 1969 précité ne sont pas applicables aux sociétés commerciales agréées comme établissements de crédit et entreprises d'investissement.
+Si la Commission bancaire l'estime nécessaire, elle peut demander des informations complémentaires par lettre recommandée avec demande d'avis de réception adressée soit à l'établissement, l'entreprise d'investissement ou la compagnie financière, concerné soit au commissaire aux comptes proposé. Dans ce dernier cas, elle en informe l'établissement de crédit, l'entreprise d'investissement ou la compagnie financière, concerné et fixe dans sa demande d'informations complémentaires un délai de réponse, lequel ne peut être inférieur à un mois. Le délai prévu à l'alinéa précédent est alors suspendu jusqu'à la réception des informations complémentaires.
+
+La Commission bancaire peut également prendre en compte dans son appréciation les informations relatives au commissaire aux comptes proposé ou, le cas échéant, à la personne responsable de la mission, qui lui sont transmises par la Commission des opérations de bourse en application de l'article L. 631-1 du code monétaire et financier.
+
+L'avis de la Commission bancaire, s'il est défavorable ou assorti de réserves, ne peut être pris qu'après que le commissaire aux comptes proposé a été invité à faire connaître ses observations. Il est notifié par lettre recommandée avec demande d'avis de réception à l'établissement de crédit, l'entreprise d'investissement ou la compagnie financière, concerné et au commissaire aux comptes proposé. Une copie de cette notification est adressée à la compagnie régionale dont est membre le commissaire aux comptes.
+
+Les dirigeants de l'établissement de crédit, de l'entreprise d'investissement ou de la compagnie financière communiquent l'avis de la Commission bancaire à l'organe compétent pour désigner les commissaires aux comptes.
