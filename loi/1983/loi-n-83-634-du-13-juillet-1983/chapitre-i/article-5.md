@@ -1,6 +1,6 @@
 # Article 5
 
-Nul ne peut avoir la qualité de fonctionnaire [*exclusion conditions*] :
+Sous réserve des dispositions de l'article 5 bis Nul ne peut avoir la qualité de fonctionnaire [*exclusion conditions*] :
 
 1° S'il ne possède la nationalité française ;
 
