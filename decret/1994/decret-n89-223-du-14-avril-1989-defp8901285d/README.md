@@ -2,6 +2,7 @@
 
 - [Article 1](article-1.md)
 - [TITRE Ier : Assistants et spécialistes des hôpitaux des armées.](titre-ier)
+- [Article 2](article-2.md)
 - [TITRE II : Assistants et spécialistes de recherche et assistants et spécialistes des techniques médico-militaires.](titre-ii)
 - [TITRE III : Dispositions communes.](titre-iii)
 - [TITRE IV : Dispositions diverses et transitoires.](titre-iv)
