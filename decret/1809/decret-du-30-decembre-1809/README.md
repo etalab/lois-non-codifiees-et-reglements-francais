@@ -1,6 +1,7 @@
 # Décret du 30 décembre 1809 du 30 décembre 1809 concernant les fabriques des églises
 
 - [Article 1](article-1.md)
+- [CHAPITRE I : De l'administration des fabriques](chapitre-i)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 5](article-5.md)
