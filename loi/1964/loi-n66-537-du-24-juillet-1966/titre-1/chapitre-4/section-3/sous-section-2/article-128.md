@@ -2,9 +2,7 @@
 
 Le conseil de surveillance [*attributions*] exerce le contrôle permanent de la gestion de la société par le directoire.
 
-Les statuts peuvent subordonner à l'autorisation préalable du conseil de surveillance la conclusion des opérations qu'ils énumèrent.
-
-Toutefois, les cautions, avals et garanties, sauf dans les sociétés exploitant un établissement bancaire ou financier, font nécessairement l'objet d'une autorisation du conseil de surveillance dans les conditions déterminées par décret. Ce décret détermine également les conditions dans lesquelles le dépassement de cette autorisation peut être opposé aux tiers [*opposabilité*].
+Les statuts peuvent subordonner à l'autorisation préalable du conseil de surveillance la conclusion des opérations qu'ils énumèrent. Toutefois, la cession d'immeubles par nature, la cession totale ou partielle de participations, la constitution de sûretés, ainsi que les cautions, avals et garanties, sauf dans les sociétés exploitant un établissement bancaire ou financier, font l'objet d'une autorisation [*contrôle*] du conseil de surveillance dans des condition déterminées par décret. Ce décret détermine également les conditions dans lesquelles le dépassement de cette autorisation peut être opposé aux tiers [*opposabilité*].
 
 A toute époque de l'année, le conseil de surveillance opère les vérifications et les contrôles qu'il juge opportuns et peut se faire communiquer les documents qu'il estime utiles à l'accomplissement de sa mission [*information*].
 

@@ -1,6 +1,6 @@
 # Article 411
 
-Dans les six mois de sa nomination, le liquidateur convoque l'assemblée des associés, à laquelle il fait rapport sur la situation active et passive de la société, sur la poursuite des opérations de liquidation et le délai nécessaire pour le terminer.
+Dans les six mois de sa nomination, le liquidateur convoque l'assemblée des associés, à laquelle il fait rapport sur la situation active et passive de la société, sur la poursuite des opérations de liquidation et le délai nécessaire pour le terminer. Le délai dans lequel le liquidateur fait son rapport peut être porté à douze mois sur sa demande par décision de justice.
 
 A défaut, il est procédé à la convocation de l'assemblée soit par l'organe de contrôle, s'il en existe un, soit par un mandataire désigné, par décision de justice, à la demande de tout intéressé.
 

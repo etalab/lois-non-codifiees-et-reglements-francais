@@ -1,8 +1,8 @@
 # Article 434
 
-Seront punis d'un emprisonnement de trois ans à un an et d'une amende de 2.000 F à 40.000 F ou de l'une de ces deux peines seulement [*sanctions*], les fondateurs, le président du conseil d'administration, Les administrateurs ou les directeurs généraux d'une société anonyme, ainsi que les titulaires ou porteurs d'actions qui, sciemment [*intention frauduleuse*], auront négocié :
+Seront punis d'un emprisonnement de trois mois à un an et d'une amende de 2.000 F à 60.000 F ou de l'une de ces deux peines seulement [*sanctions pénales*], les fondateurs, le président du conseil d'administration, Les administrateurs ou les directeurs généraux d'une société anonyme, ainsi que les titulaires ou porteurs d'actions qui, sciemment [*intention frauduleuse*], auront négocié [*délit de négociation*] :
 
-1° Des actions sans valeur nominale ou dont la valeur nominale est inférieure au minimum légal ;
+1° Des actions sans valeur nominale ;
 
 2° Des actions de numéraire qui ne sont pas demeurées sous la forme nominative jusqu'à leur entière libération ;
 
