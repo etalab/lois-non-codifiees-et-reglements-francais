@@ -661,6 +661,8 @@
 - [Décret n°92-1223 du 18 novembre 1992 (TEFE9205420D)](decret-n92-1223-du-18-novembre-1992-tefe9205420d)
 - [Décret n°92-1320 du 18 décembre 1992 (MENX9200189D)](decret-n92-1320-du-18-decembre-1992-menx9200189d)
 - [Décret n°92-1323 du 18 décembre 1992 (TEFX9200238D)](decret-n92-1323-du-18-decembre-1992-tefx9200238d)
+- [Décret n°92-1327 du 18 décembre 1992 (INDH9200743D)](decret-n92-1327-du-18-decembre-1992-indh9200743d)
+- [Décret n°92-1329 du 18 décembre 1992 (ACVE9150036D)](decret-n92-1329-du-18-decembre-1992-acve9150036d)
 - [Décret n°92-250 du 18 mars 1992 (BUDB9250013D)](decret-n92-250-du-18-mars-1992-budb9250013d)
 - [Décret n°92-269 du 18 mars 1992 (EQUA9200333D)](decret-n92-269-du-18-mars-1992-equa9200333d)
 - [Décret n°92-537 du 18 juin 1992 (INTB9200211D)](decret-n92-537-du-18-juin-1992-intb9200211d)
