@@ -350,6 +350,7 @@
 - [Décret n°93-1334 du 20 décembre 1993 (RESM9300956D)](decret-n93-1334-du-20-decembre-1993-resm9300956d)
 - [Décret n°93-1335 du 20 décembre 1993 (RESM9300954D)](decret-n93-1335-du-20-decembre-1993-resm9300954d)
 - [Décret n°2001-1256 du 21 décembre 2001 (EQUA0101402D)](decret-n2001-1256-du-21-decembre-2001-equa0101402d)
+- [Décret n°2001-1273 du 21 décembre 2001 (ATEG0190074D)](decret-n2001-1273-du-21-decembre-2001-ateg0190074d)
 - [Décret n°2001-170 du 21 février 2001 (AGRS0100183D)](decret-n2001-170-du-21-fevrier-2001-agrs0100183d)
 - [Décret n°2001-172 du 21 février 2001 (ECOD0170000D)](decret-n2001-172-du-21-fevrier-2001-ecod0170000d)
 - [Décret n°2001-179 du 21 février 2001 (MESS0023645D)](decret-n2001-179-du-21-fevrier-2001-mess0023645d)
