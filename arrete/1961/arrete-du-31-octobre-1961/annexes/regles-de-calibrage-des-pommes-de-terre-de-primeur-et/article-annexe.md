@@ -8,7 +8,7 @@ Les pommes de terre de primeur d'un calibre inférieur à 28 mm peuvent cependan
 
 2° Pommes de terre de conservation.
 
-a) Le calibre minimum des pommes de terre de conservation, à l'exception des variétés dont la liste est donnée ci-après ainsi que des pommes de terre destinées à être vendues tout épluchées, est fixé à 40 mm, c'est-à-dire que les tubercules ne doivent pas passer au travers d'un crible à maille carrée de 35 mm de côté. Une proportion maximum de 3 p. 100 en poids de tubercules d'un calibre inférieur à celui ci-dessus fixé est toutefois admise.
+a) Le calibre minimum des pommes de terre de conservation, à l'exception des variétés dont la liste est donnée ci-après ainsi que des pommes de terre destinées à être vendues tout épluchées, est fixé à 35 mm c'est-à-dire que les tubercules ne doivent pas passer au travers d'un crible à maille carrée de 35 mm de côté. Une proportion maximum de 3 p. 100 en poids de tubercules d'un calibre inférieur à celui ci-dessus fixé est toutefois admise.
 
 b) Liste des variétés de pommes de terre de conservation non soumises au calibre minimum fixé ci-dessus :
 
