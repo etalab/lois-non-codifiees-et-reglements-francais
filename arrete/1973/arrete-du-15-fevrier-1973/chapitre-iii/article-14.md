@@ -32,15 +32,11 @@ Ces taux ainsi que les limites des plafonds qui évoluent en fonction de l'évol
 
 Garde
 
-Taux (en francs) à compter du 1er août 1991  : 1057
-
-Taux (en francs) à compter du 1er novembre 1991 : 1068
+Taux (en francs) à compter du 1er février 1992  : 1081
 
 Demi-garde
 
-Taux (en francs) à compter du 1er août 1991  : 529
-
-Taux (en francs) à compter du 1er novembre 1991 : 534
+Taux (en francs) à compter du 1er février 1992  : 541
 
 2. Service de garde par astreinte
 
@@ -48,45 +44,35 @@ Astreinte opérationnelle
 
 a) Indemnité forfaitaire de base par demi-astreinte.
 
-Taux (en francs) à compter du 1er août 1991  : 132
-
-Taux (en francs) à compter du 1er novembre 1991 : 133,5
+Taux (en francs) à compter du 1er février 1992  : 135
 
 b) Indemnité due pour chaque appel
 
-Taux (en francs) à compter du 1er août 1991  : 132
+Taux (en francs) à compter du 1er février 1992  : 135
 
-Taux (en francs) à compter du 1er novembre 1991 : 133,5
+Le montant cumulé des indemnités perçues ne peut excéder par demi-astreinte
 
-Le montant cumulé des indemnités perçues ne peut excéder par demi-astreinte.
+Taux (en francs) à compter du 1er février 1992  : 541
 
-Astreinte de sécurité
+---Astreinte de sécurité
 
 a) Indemnité forfaitaire de base.
 
-Taux (en francs) à compter du 1er août 1991  : 132
-
-Taux (en francs) à compter du 1er novembre 1991 : 133,5
+Taux (en francs) à compter du 1er février 1992  : 135
 
 Le montant cumulé des indemnités forfaitaires de base ne peut excéder :
 
 - pour quatre semaines.
 
-Taux (en francs) à compter du 1er août 1991  : 1056
-
-Taux (en francs) à compter du 1er novembre 1991 : 1068
+Taux (en francs) à compter du 1er février 1992 : 1081
 
 - pour cinq semaines.
 
-Taux (en francs) à compter du 1er août 1991  : 1320
-
-Taux (en francs) à compter du 1er novembre 1991 : 1335
+Taux (en francs) à compter du 1er février 1992 : 1350
 
 b) Indemnité due pour chaque appel.
 
-Taux (en francs) à compter du 1er août 1991  : 132
-
-Taux (en francs) à compter du 1er novembre 1991 : 133,5
+Taux (en francs) à compter du 1er février 1992 : 135
 
 Les indemnités versées au titre d'une astreinte de sécurité ne peuvent excéder le taux fixé pour une garde.
 
@@ -96,23 +82,17 @@ a) Ils ne donnent lieu à aucune indemnité forfaitaire.
 
 b) Indemnité due pour chaque appel.
 
-Taux (en francs) à compter du 1er août 1991  : 132
-
-Taux (en francs) à compter du 1er novembre 1991 : 133,5
+Taux (en francs) à compter du 1er février 1992 : 135
 
 Pour un même praticien, le montant cumulé des indemnités perçues pour ses participations au service de garde sous forme de permanence à l'hôpital ou de garde par astreinte à domicile ne peut excéder :
 
 - pour quatre semaines.
 
-Taux (en francs) à compter du 1er août 1991  : 10570
-
-Taux (en francs) à compter du 1er novembre 1991 : 10680
+Taux (en francs) à compter du 1er février 1992 : 10810
 
 - pour cinq semaines.
 
-Taux (en francs) à compter du 1er août 1991  : 13213
-
-Taux (en francs) à compter du 1er novembre 1991 : 13350
+Taux (en francs) à compter du 1er février 1992 : 13513
 
 Les indemnités perçues dans le cadre des interventions hors service normal prévues au deuxième alinéa de l'article 3 de l'arrêté du 15 février 1973 modifié ne sont pas comptées dans ce plafond.
 

@@ -6,7 +6,11 @@ La liste des marchés à terme prévue aux articles 23 et 28 de la loi n° 88-12
 
 Marchés d'options négociables de Paris (Monep) ;
 
-Marché à terme international de France (Matif S.A. et O.M.F.).
+Marché à terme international de France (Matif S.A.) ;
+
+- Allemagne :
+
+Deutsche Terminbörse (D.T.B.).
 
 - Belgique :
 
@@ -15,6 +19,12 @@ Bourse de Bruxelles.
 - Danemark :
 
 Garantifonden for Danske Optioner og Futures.
+
+- Espagne :
+
+Mercado de Futuros Financieros (M.E.F.F.) ;
+
+Mercado de Opciones Financieras Espanlol (M.O.F.E.X.).
 
 - Grande-Bretagne :
 

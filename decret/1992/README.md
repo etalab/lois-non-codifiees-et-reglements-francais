@@ -57,6 +57,7 @@
 - [Décret n°90-212 du 7 mars 1990 (INTA9000047D)](decret-n90-212-du-7-mars-1990-inta9000047d)
 - [Décret n°92-128 du 7 février 1992 (MEND9200255D)](decret-n92-128-du-7-fevrier-1992-mend9200255d)
 - [Décret n°92-129 du 7 février 1992 (EQUU9200035D)](decret-n92-129-du-7-fevrier-1992-equu9200035d)
+- [Décret n°92-136 du 7 février 1992 (JUSB9110352D)](decret-n92-136-du-7-fevrier-1992-jusb9110352d)
 - [Décret n°92-37 du 7 janvier 1992 (BUDR9104048D)](decret-n92-37-du-7-janvier-1992-budr9104048d)
 - [Décret n°88-329 du 8 avril 1988 (AGRB8800484D)](decret-n88-329-du-8-avril-1988-agrb8800484d)
 - [Décret n°92-23 du 8 janvier 1992 (TEFF9104195D)](decret-n92-23-du-8-janvier-1992-teff9104195d)
