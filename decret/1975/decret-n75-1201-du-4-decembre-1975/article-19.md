@@ -1,0 +1,3 @@
+# Article 19
+
+Des arrêtés du ministre de l'industrie et de la recherche préciseront les conditions de construction et de contrôle des instruments de pesage.

@@ -1,0 +1,5 @@
+# Article 13
+
+A titre transitoire et sous réserve qu'elles satisfassent à la condition de ressources mentionnée à l'article 2 du présent décret, les personnes qui, au 30 septembre 1975, sont titulaires du droit à l'allocation aux handicapés adultes en application de la loi n. 71-563 du 13 juillet 1971, sont admises de plein droit au bénéfice de l'allocation prévue à l'article 35 de la loi susvisée du 30 juin 1975 jusqu'au 1er juillet 1977 ou jusqu'à la date fixée pour l'attribution de l'allocation aux handicapés adultes si cette date est antérieure [*cumul*].
+
+/R/Le droit à cette dernière prestation peut toutefois se prolonger au-delà des dates mentionnées à l'alinéa précédent à la condition qu'une demande ait été formulée antérieurement pour l'attribution de l'allocation aux adultes handicapés/R/DECR.0983 29-10-1976 : le droit à l'allocation aux adultes handicapés peut toutefois se prolonger au-delà des dates mentionnées à l'alinéa précédent à la condition qu'une demande ait été formulée antérieurement pour l'attribution de cette prestation//.
