@@ -741,7 +741,6 @@
 - [Arrêté du 25 avril 1991 (BUDF9110051A)](arrete-du-25-avril-1991-budf9110051a)
 - [Arrêté du 25 avril 1991 (ECOT9100119A)](arrete-du-25-avril-1991-ecot9100119a)
 - [Arrêté du 25 avril 1991 (EQUG9100680A)](arrete-du-25-avril-1991-equg9100680a)
-- [Arrêté du 25 avril 1991 (PTTS9100100A)](arrete-du-25-avril-1991-ptts9100100a)
 - [Arrêté du 25 avril 1991 (SANP9101029A)](arrete-du-25-avril-1991-sanp9101029a)
 - [Arrêté du 25 avril 1991 (SANP9101030A)](arrete-du-25-avril-1991-sanp9101030a)
 - [Arrêté du 25 avril 1991 (SPSH9101025A)](arrete-du-25-avril-1991-spsh9101025a)
