@@ -1,5 +1,6 @@
 # 1993
 
+- [Loi n° 46-2196 du 11 octobre 1946](loi-n-46-2196-du-11-octobre-1946)
 - [Loi n° 91-650 du 9 juillet 1991 (JUSX8900065L)](loi-n-91-650-du-9-juillet-1991-jusx8900065l)
 - [Loi n° 92-1376 du 30 décembre 1992 (BUDX9200273L)](loi-n-92-1376-du-30-decembre-1992-budx9200273l)
 - [Loi n° 92-1440 du 31 décembre 1992 (DOMX9200193L)](loi-n-92-1440-du-31-decembre-1992-domx9200193l)
