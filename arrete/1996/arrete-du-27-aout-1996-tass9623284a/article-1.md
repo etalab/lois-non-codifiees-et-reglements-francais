@@ -1,0 +1,3 @@
+# Article 1
+
+Est approuvé l'avenant à la convention nationale des directeurs de laboratoires privés d'analyses médicales, annexé au présent arrêté, conclu le 25 avril 1996 entre, d'une part, la Caisse nationale de l'assurance maladie des travailleurs salariés, la Caisse centrale de la mutualité sociale agricole et la Caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles et, d'autre part, les six syndicats de biologistes (Centre national des biologistes, Union des biologistes de France, Syndicat national professionnel des biologistes, Fédération des biologistes de France, Syndicat des grands laboratoires de biologie clinique, Syndicat national des médecins biologistes).
