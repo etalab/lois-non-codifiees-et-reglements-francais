@@ -1,6 +1,8 @@
 # Article 1
 
-Les membres des conseils d'administration doivent être de nationalité française [*conditions*] et jouir du plein exercice de leurs droits civils et politiques.
+A l'exception des représentants du personnel, les membres des conseils d'administration doivent être de nationalité française.
+
+Les membres des conseils d'administration doivent jouir du plein exercice de leurs droits civils et, le cas échéant, de leurs droits politiques.
 
 Ils sont tenus de respecter le secret des délibérations.
 
