@@ -1,3 +1,0 @@
-# Article 4
-
-Les installations et matériels destinés à économiser l'énergie primaire ou à y substituer une énergie renouvelable dans le secteur résidentiel et tertiaire sont ceux qui concourent à une économie d'énergie primaire consommée d'au moins 2,5 p. 100 de l'utilisation concernée et participent à l'amélioration du rendement des installations thermiques, au comptage et à l'équilibrage du chauffage, à la limitation des déperditions thermiques, à la programmation ou à la réduction des consommations d'énergie par recours à des techniques nouvelles, tels qu'ils figurent notamment dans la nomenclature des annexes III et IV. Ces équipements peuvent être mis en oeuvre tant en construction neuve que dans les installations existantes.
