@@ -1,3 +1,0 @@
-# Article 9
-
-Après l'achèvement des travaux, si le puits ou le sondage n'a pas pour objet le captage d'eaux souterraines, l'intéressé adresse à l'ingénieur en chef des mines, en deux exemplaires, une coupe géologique de l'ouvrage convenablement établie [*contenu*], indiquant la cote exacte de l'orifice, la profondeur et l'épaisseur des terrains de diverses natures et des horizons géologiques rencontrés, la profondeur des niveaux aquifères, ainsi qu'une note faisant connaître les mesures qu'il compte prendre pour obturer le puits ou le sondage, rendre impossibles les intercommunications entre niveaux aquifères et éviter toute pollution des eaux souterraines. L'ingénieur en chef des mines indique les mesures complémentaires qu'il juge nécessaires.

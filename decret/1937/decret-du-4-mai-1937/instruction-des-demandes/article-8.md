@@ -1,5 +1,0 @@
-# Article 8
-
-Le préfet statue par un arrêté, qui est notifié au pétitionnaire.
-
-En cas d'autorisation, l'arrêté préfectoral fixe les conditions techniques imposées pour assurer la protection des eaux souterraines au cours tant de l'exécution que de l'exploitation de l'ouvrage. Il précise notamment le débit maximum instantané et le volume d'eau journalier maximum dont l'extraction est autorisée et arrête les mesures à prendre pour éviter les intercommunications entre niveaux aquifères. Il détermine, s'il y a lieu, les caractéristiques de l'ouvrage et des installations d'exhaure ainsi que les conditions de l'exploitation et éventuellement la destination à donner aux eaux non utilisées. Il édicte l'obligation pour le bénéficiaire de se conformer aux instructions qui lui seront données en temps utile par l'ingénieur en chef des mines, en vue de l'obturation du puits ou sondage, dans le cas d'abandon des travaux, d'arrêt d'exploitation ou d'incidents faisant apparaître des risques d'intercommunication entre niveaux aquifères différents ou de pollution des eaux souterraines.
