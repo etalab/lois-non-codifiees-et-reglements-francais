@@ -55,4 +55,5 @@
 - [Décret n°65-655 du 28 juillet 1965](decret-n65-655-du-28-juillet-1965)
 - [Décret n°65-659 du 28 juillet 1965](decret-n65-659-du-28-juillet-1965)
 - [Décret du 30 novembre 1965](decret-du-30-novembre-1965)
+- [Décret n°64-1362 du 30 décembre 1964](decret-n64-1362-du-30-decembre-1964)
 - [Décret n°65-1046 du 1er décembre 1965](decret-n65-1046-du-1er-decembre-1965)
