@@ -1,4 +1,4 @@
-# Arrêté du 25 septembre 1985 fixant le modèle de demande d'allocation de soutien familial pour un parent élevant seul son ou ses enfants et de demande de souscription à l'allocation de soutien familial.
+# Arrêté du 25 septembre 1985 relatif à l'émission de l'emprunt d'Etat septembre 1985
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
