@@ -27,6 +27,7 @@
 - [Décret n°79-142 du 19 février 1979](decret-n79-142-du-19-fevrier-1979)
 - [Décret n°78-1298 du 21 décembre 1978](decret-n78-1298-du-21-decembre-1978)
 - [Décret n°79-262 du 21 mars 1979](decret-n79-262-du-21-mars-1979)
+- [Décret n°79-263 du 21 mars 1979](decret-n79-263-du-21-mars-1979)
 - [Décret n°79-237 du 22 mars 1979](decret-n79-237-du-22-mars-1979)
 - [Décret n°79-246 du 22 mars 1979](decret-n79-246-du-22-mars-1979)
 - [Décret n°79-715 du 22 août 1979](decret-n79-715-du-22-aout-1979)
@@ -53,4 +54,5 @@
 - [Décret n°78-1305 du 29 décembre 1978](decret-n78-1305-du-29-decembre-1978)
 - [Décret n°79-254 du 29 mars 1979](decret-n79-254-du-29-mars-1979)
 - [Décret n°79-257 du 29 mars 1979](decret-n79-257-du-29-mars-1979)
+- [Décret n°79-264 du 30 mars 1979](decret-n79-264-du-30-mars-1979)
 - [Décret n°79-108 du 31 janvier 1979](decret-n79-108-du-31-janvier-1979)
