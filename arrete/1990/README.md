@@ -817,7 +817,6 @@
 - [Arrêté du 27 juin 1990 (RESZ9000114A)](arrete-du-27-juin-1990-resz9000114a)
 - [Arrêté du 27 mars 1990 (BUDR9006020A)](arrete-du-27-mars-1990-budr9006020a)
 - [Arrêté du 27 mars 1990 (MCCB9000148A)](arrete-du-27-mars-1990-mccb9000148a)
-- [Arrêté du 27 mars 1990 (SPSS9000718A)](arrete-du-27-mars-1990-spss9000718a)
 - [Arrêté du 27 novembre 1989 (SPSS8902544A)](arrete-du-27-novembre-1989-spss8902544a)
 - [Arrêté du 27 novembre 1990 (ECOC9000145A)](arrete-du-27-novembre-1990-ecoc9000145a)
 - [Arrêté du 27 novembre 1990 (EQUA9001636A)](arrete-du-27-novembre-1990-equa9001636a)
