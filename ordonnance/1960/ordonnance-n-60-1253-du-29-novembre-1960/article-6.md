@@ -1,0 +1,3 @@
+# Article 6
+
+A titre transitoire, les panneaux-réclames, affiches, peintures et autres dispositifs de publicité qui ont été apposés avant la publication de la présente ordonnance et dont le texte est contraire aux dispositions de l'alinéa 2 de l'article L. 17 du code des débits de boissons et des mesures contre l'alcoolisme pourront être maintenus pendant une durée n'excédant ni celle des contrats en cours qui ne pourront être renouvelés ni un délai maximum de six mois à compter de la publication de la présente ordonnance. A l'expiration de ce délai, les contrats en cours sont résiliés de plein droit.
