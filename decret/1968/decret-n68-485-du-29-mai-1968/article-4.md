@@ -12,7 +12,7 @@ Un délégué de chacun des conseils généraux des départements mentionnés au
 
 Les représentants des producteurs sont nommés par le ministre de l'agriculture et les représentants des négociants par arrêté conjoint du ministre de l'agriculture et du ministre de l'économie et des finances.
 
-Le mandat des membres du comité est de trois ans, renouvelable au plus deux fois. Le mandat des membres nommés en remplacement des membres décédés ou démissionnaires expire à la date où aurait expiré le mandat des membres remplacés.
+Le mandat des membres du comité est de trois ans, renouvelable. Le mandat des membres nommés en remplacement des membres décédés ou démissionnaires expire à la date où aurait expiré le mandat des membres remplacés.
 
 Assistent, ou peuvent se faire représenter aux réunions du comité, à titre consultatif :
 
