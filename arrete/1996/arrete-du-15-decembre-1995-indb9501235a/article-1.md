@@ -1,0 +1,3 @@
+# Article 1
+
+Sans préjudice des autres règlements, notamment ceux propres à la fabrication, l'acquisition, la livraison, la détention, au transport et à l'emploi de produits explosifs, les articles ci-dessous précisent les conditions dans lesquelles la fabrication d'explosifs par des installations mobiles est autorisée dans les travaux à ciel ouvert des industries extractives et les règles de détermination des distances d'isolement à respecter pour ces installations par rapport à d'autres lieux de travail ou installations relevant de l'exploitation tels que : ateliers, dépôts, magasins, bureaux et voies de circulation intérieures.

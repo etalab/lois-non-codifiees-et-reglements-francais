@@ -1,0 +1,3 @@
+# Article 2
+
+Pour la mise en oeuvre du 5° de l'article 11 de la même loi, les mères de famille salariées qui ont élevé au moins trois enfants, dans les conditions prévues à l'article 1er du présent décret, doivent justifier de trente années d'assurance dans le régime d'assurance vieillesse applicable à Saint-Pierre-et-Miquelon et le régime de l'allocation aux vieux travailleurs antérieurement en vigueur, et avoir exercé pendant au moins cinq ans au cours des quinze dernières années précédant leur demande de liquidation de pension un travail manuel ouvrier tel que défini à l'article R. 351-23 du code de la sécurité sociale.
