@@ -1,7 +1,5 @@
 # Article 10
 
-La commission [*régionale*] examine les titres du candidat et vérifie si celui-ci remplit les conditions requises pour être inscrit.
+La commission [*régionale*] vérifie si le candidat remplit les conditions requises pour être inscrit. Elle recueille sur le candidat tous renseignements utiles [*pouvoirs d'investigation*].
 
-Elle peut recueillir sur le candidat tous renseignements utiles [*information*].
-
-Elle peut convoquer le candidat et procéder à son audition.
+Elle peut convoquer le candidat et procéder à son audition. Ce dernier peut se faire assister d'un conseil de son choix.

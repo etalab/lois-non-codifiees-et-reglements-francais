@@ -1,7 +1,11 @@
 # Article 66
 
-Le commissaire aux comptes constitue pour chaque société qu'il contrôle un dossier contenant tous les documents reçus de la société ou établis par lui à l'occasion de l'exercice de ses fonctions.
+Le commissaire aux comptes constitue pour chaque société qu'il contrôle un dossier contenant tous les documents reçus de la société et ceux qui sont établis par lui à l'occasion de l'exercice de ses fonctions.
 
-Le commissaire aux comptes tient registre de ses diligences professionnelles [*activités de contrôle*]. Il porte sur ce registre, pour chacune des sociétés qu'il contrôle, les indications de nature à permettre le contrôle ultérieur des travaux accomplis par lui [*contenu*]. Il mentionne leur date, leur durée et s'il été assisté de collaborateurs ou d'experts, l'identité de ces collaborateurs ou de ces experts avec les mêmes indications pour leurs travaux que pour les siens propres.
+Il tient à jour une liste des sociétés dans lesquelles il exerce ses fonctions et conserve pour chaque société les indications de nature à permettre le contrôle ultérieur des travaux accomplis par lui. Il mentionne la date de ses travaux, la durée de ceux-ci et, s'il a été assisté de collaborateurs ou d'experts, l'identité de ces collaborateurs ou de ces experts.
 
-Les dossiers et le registre constitués en application du présent article doivent être conservés pendant dix ans, même après la cessation de ses fonctions. Ils sont à la disposition du conseil régional, du conseil national et éventuellement des chambres de discipline [*droit de communication*]. Le conseil régional fait examiner l'activité des commissaires de son ressort au moins une fois par an [*fréquence*] et viser à cette occasion le registre des diligences professionnelles.
+Il établit une comptabilité spéciale de l'ensemble des rémunérations qu'il perçoit de la part des sociétés qu'il contrôle. Cette comptabilité fait ressortir pour chaque société le montant des sommes reçues en distinguant les honoraires, le remboursement des frais de déplacement et de séjour et la rémunération de missions qui lui seraient confiées en application de l'article 119, alinéa 3, ci-après.
+
+Les dossiers et documents établis en application du présent article doivent être conservés pendant dix ans, même après la cessation des fonctions. Ils sont à la disposition du conseil régional, du conseil national, des chambres de discipline, du procureur général près la cour d'appel, ainsi que de la commission des opérations de bourse quand le commissaire aux comptes exerce ses fonctions dans une société qui fait publiquement appel à l'épargne. Ces organismes, ainsi que le procureur général près la cour d'appel, peuvent requérir du commissaire aux comptes les explications et les justifications qu'ils estiment nécessaires concernant ces pièces et les opérations qui doivent y être mentionnées.
+
+Le conseil régional inspecte au moins une fois par an les commissaires aux comptes de son ressort.
