@@ -24,8 +24,6 @@ Agent responsable du suivi des procédures de marchés publics dans les antennes
 
 Agent responsable de contentieux internationaux ;
 
-Agent chargé de l'élaboration, de la conception et du suivi des marchés auprès d'une personne responsable des marchés.
-
 Assistant de service social du personnel assurant des fonctions de coordination régionale ;
 
 Agent chargé de l'organisation des instances de concertation et du suivi des relations sociales ;
@@ -56,11 +54,7 @@ Référent technique à l'administration centrale ;
 
 Chef de département en direction régionale ;
 
-Chef de département à l'Ecole nationale d'administration pénitentiaire ;
-
 Chef d'unité en direction régionale ;
-
-Chef d'unité à l'Ecole nationale d'administration pénitentiaire ;
 
 Chef d'unité à la mission outre-mer ;
 
@@ -128,8 +122,6 @@ Greffier mis à disposition ou affecté à l'administration centrale ou à l'Eco
 
 Greffier d'audience correctionnelle collégiale dans un tribunal de grande instance.
 
-Greffier d'assises dans une cour d'assises rendant trente arrêts et plus par an.
-
 Greffier d'instruction dans un cabinet d'instruction d'un tribunal de grande instance.
 
 Chef de service chargé de fonctions particulières à la Cour de cassation.
@@ -156,6 +148,12 @@ Responsable de la gestion budgétaire adjoint ;
 
 Adjoint et agent administratifs placés.
 
+Responsable chargé des ressources humaines ;
+
+Responsable chargé des ressources humaines adjoint ;
+
+Greffier d'assises.
+
 (1) Les fonctions exercées par des greffiers en chef nommés sur des emplois du premier grade et classés dans les 1re et 2e catégories ne sont pas bonifiées.
 
 PROTECTION JUDICIAIRE DE LA JEUNESSE (services déconcentrés)
@@ -163,12 +161,6 @@ PROTECTION JUDICIAIRE DE LA JEUNESSE (services déconcentrés)
 Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
 
 Régisseur d'avances et de recettes .
-
-Directeur d'établissement :
-
-- établissement de plus de 70 agents ;
-
-- établissement de plus de 35 agents.
 
 Directeur responsable d'un département et d'un centre d'action éducative ou foyer d'action éducative.
 
@@ -178,9 +170,7 @@ Responsable Informatique national.
 
 Agent autre que directeur chargé de la direction d'un établissement ou d'un service.
 
-Agent technique d'éducation exerçant dans des établissements non pourvus d'un logement de fonction occupé par un directeur ou un éducateur.
-
-Accueil secrétariat ;
+Agent assurant seul l'accueil secrétariat dans un établissement multifonctionnel ;
 
 Directeur de foyer dans un département-ville ;
 
@@ -199,6 +189,24 @@ Educateur remplaçant ;
 Personnel de service social chargé des fonctions de référent technique régional ;
 
 Agent exerçant ses fonctions dans un centre éducatif renforcé.
+
+Directeur d'établissement ou service :
+
+- de plus de 70 agents ;
+
+- de plus de 35 agents.
+
+Agent technique d'éducation, veilleur de nuit dans un établissement non pourvu d'un logement de fonction occupé par un directeur ou un éducateur ;
+
+A COMPTER DU 1ER JANVIER 2001 :
+
+Agent autre que directeur chargé des fonctions de directeur départemental ;
+
+Responsable de filière au Centre national de formation et d'études et responsable de pôle régional ;
+
+Régisseur de recettes ;
+
+Chef de projet exerçant ses fonctions dans un centre éducatif renforcé.
 
 GRANDE CHANCELLERIE DE LA LÉGION D'HONNEUR
 
