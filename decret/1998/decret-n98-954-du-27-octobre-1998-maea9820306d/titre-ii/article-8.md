@@ -1,0 +1,3 @@
+# Article 8
+
+Jusqu'au 31 décembre 2000, et par dérogation aux dispositions des articles 35-1 et 35-2, seuls peuvent être promus au grade d'attaché principal de 2e classe des systèmes d'information et de communication, au choix, après inscription au tableau d'avancement établi après avis de la commission administrative paritaire, les attachés des systèmes d'information et de communication comptant au 31 décembre de l'année au titre de laquelle le tableau d'avancement est établi au moins sept ans de services effectifs dans un corps, cadre d'emplois ou emploi de catégorie A ou de niveau équivalent et ayant atteint le 10e échelon de ce grade.

@@ -732,6 +732,7 @@
 - [Décret n°98-752 du 27 août 1998 (PRMX9803135D)](decret-n98-752-du-27-aout-1998-prmx9803135d)
 - [Décret n°98-759 du 27 août 1998 (DEFA9851047D)](decret-n98-759-du-27-aout-1998-defa9851047d)
 - [Décret n°98-778 du 27 août 1998 (INTB9800216D)](decret-n98-778-du-27-aout-1998-intb9800216d)
+- [Décret n°98-954 du 27 octobre 1998 (MAEA9820306D)](decret-n98-954-du-27-octobre-1998-maea9820306d)
 - [Décret du 27 mai 1998 (ECOC9700228D)](decret-du-27-mai-1998-ecoc9700228d)
 - [Décret n°98-407 du 27 mai 1998 (MENF9800777D)](decret-n98-407-du-27-mai-1998-menf9800777d)
 - [Décret n°98-408 du 27 mai 1998 (MENF9800776D)](decret-n98-408-du-27-mai-1998-menf9800776d)
