@@ -1,3 +1,3 @@
 # Article 5
 
-Le droit d'accès prévu aux articles 34 et suivants de la loi du 6 janvier 1978 susvisée s'exerce auprès du directeur de l'établissement pénitentiaire concerné.
+Les primes de remonte ont pour objet de faciliter l'achat et le dressage de chevaux ou poneys de trois ans, appartenant à une race reconnue en France, munis de documents d'origine validés par le service des haras et destinés aux pratiques équestres.

@@ -364,6 +364,7 @@
 - [Décret n°86-1071 du 24 septembre 1986](decret-n86-1071-du-24-septembre-1986)
 - [Décret n°86-1097 du 24 septembre 1986](decret-n86-1097-du-24-septembre-1986)
 - [Décret n°86-110 du 24 janvier 1986](decret-n86-110-du-24-janvier-1986)
+- [Décret n°86-1139 du 24 octobre 1986](decret-n86-1139-du-24-octobre-1986)
 - [Décret n°86-248 du 24 février 1986](decret-n86-248-du-24-fevrier-1986)
 - [Décret n°86-719 du 24 avril 1986](decret-n86-719-du-24-avril-1986)
 - [Décret n°86-720 du 24 avril 1986](decret-n86-720-du-24-avril-1986)
