@@ -1,3 +1,3 @@
 # Article 1
 
-Est autorisée, jusqu'au 31 décembre 2000, l'expérimentation de nouvelles conditions et modalités de règlement de certains frais de déplacement à la charge des budgets de l'Etat et des établissements publics nationaux à caractère administratif.
+Est autorisée, jusqu'au 31 décembre 2003, l'expérimentation de nouvelles conditions et modalités de règlement de certains frais de déplacement à la charge des budgets de l'Etat, des établissements publics de l'Etat à caractère administratif ainsi que des organismes soumis au contrôle économique et financier de l'Etat et dont les dépenses de fonctionnement sont couvertes au moins à 25 % par des subventions de l'Etat et des établissements publics nationaux à caractère administratif, par la perception de taxes parafiscales ou par la vente de produits du domaine public ou privé de l'Etat ou des collectivités publiques.
