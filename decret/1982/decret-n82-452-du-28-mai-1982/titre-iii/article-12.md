@@ -16,4 +16,6 @@ Les comités techniques paritaires connaissent dans les conditions et les limite
 
 7° Aux critères de répartition des primes de rendement ;
 
-8° Aux plans fixant des objectifs pluriannuels d'amélioration de l'accès des femmes aux emplois d'encadrement supérieur.
+8° Aux plans fixant des objectifs pluriannuels d'amélioration de l'accès des femmes aux emplois d'encadrement supérieur ;
+
+9° A l'évolution des effectifs et des qualifications.
