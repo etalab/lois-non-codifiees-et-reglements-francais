@@ -1,4 +1,4 @@
-# Titre : Bruit BR-1-R
+# Titre : Rayonnements ionisants RI-1-R
 
 - [Section 1 : Dispositions communes à tous les travaux et installations](section-1)
 - [Section unique : Travaux souterrains](section-unique)
