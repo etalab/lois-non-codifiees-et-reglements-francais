@@ -235,7 +235,6 @@
 - [Arrêté du 8 avril 1998 (AGRH9800899A)](arrete-du-8-avril-1998-agrh9800899a)
 - [Arrêté du 8 avril 1998 (AGRP9800719A)](arrete-du-8-avril-1998-agrp9800719a)
 - [Arrêté du 8 avril 1998 (MESO9810424A)](arrete-du-8-avril-1998-meso9810424a)
-- [Arrêté du 8 avril 1998 (MESP9821321A)](arrete-du-8-avril-1998-mesp9821321a)
 - [Arrêté du 8 décembre 1998 (ECOT9894705A)](arrete-du-8-decembre-1998-ecot9894705a)
 - [Arrêté du 8 décembre 1998 (EQUS9801647A)](arrete-du-8-decembre-1998-equs9801647a)
 - [Arrêté du 8 décembre 1998 (EQUS9801648A)](arrete-du-8-decembre-1998-equs9801648a)
