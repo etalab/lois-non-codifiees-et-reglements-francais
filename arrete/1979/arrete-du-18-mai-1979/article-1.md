@@ -1,13 +1,3 @@
 # Article 1
 
-Par dérogation à l'article 1er susvisé de l'arrêté du 13 décembre 1978, sont classées dans la 8e catégorie (alinéa a) les armes historiques réglementaires de l'armée française dont le modèle ou dont certaines fabrications sont compris entre le 1er janvier 1870 et le 1er janvier 1886 et qui figurent dans le tableau suivant :
-
-- fusils, carabines et mousquetons Chassepot, modèle 1866, calibre 11 mm ;
-
-- fusils, carabines et mousquetons Gras, modèle 1874, calibre 11 mm ;
-
-- fusils Kropatchek, modèle 1878, calibre 11 mm ;
-
-- revolvers de marine, modèle 1870, calibre 11 mm ;
-
-- revolvers d'ordonnance, modèles 1873 et 1874, calibre 11 mm.
+Au sens du présent arrêté, on entend par gaz de pétrole liquéfiés (G.P.L.) [*définition*] les mélanges spéciaux de butane et de propane destinés à être utilisés comme carburant exclusif, tels qu'ils sont définis par l'arrêté du 1er mars 1976 modifié relatif aux caractéristiques complémentaires des produits visés au tableau B annexé à l'article 265 du code des douanes.
