@@ -1,7 +1,3 @@
 # Article 1
 
-Le crédit national est autorisé à émettre deux emprunts obligataires :
-
-Un de 1.500.000.000 de francs au taux de 13,80 p. 100.
-
-Un de 1.500.000.000 de francs à taux variable.
+Les nomenclatures des régimes, des bénéficiaires et des risques sont respectivement fixées par les annexes I, II et III du présent arrêté.
