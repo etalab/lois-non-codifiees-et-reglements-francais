@@ -1,0 +1,5 @@
+# Article 15
+
+Le transfert d'un immeuble rural, au sens de l'article 2 du tableau II de la fiche personnelle de l'ancien propriétaire au tableau II de la fiche personnelle du nouveau propriétaire, s'accompagne du report sur cette dernière fiche des annotations, quelle que soit leur date, figurant aux cadres A et B du tableau III, relatives aux servitudes et de toutes les autres annotations remontant à moins de cinquante ans portées au cadre B dudit tableau III, relatives aux charges et restrictions, continuant à grever l'immeuble transféré ; de même, sont reportées les hypothèques et privilèges non périmés. Toutes les annotations reportées sont soulignées à l'encre rouge sur la fiche personnelle de l'ancien propriétaire.
+
+Lorsqu'une inscription d'hypothèque ou de privilège grève plusieurs immeubles et que certains d'entre eux, seulement, sont transférés sur une autre fiche personnelle, il est indiqué, dans la colonne "Observations", en regard de l'inscription, tant sur la fiche personnelle de l'ancien propriétaire que sur celle du nouveau propriétaire, la mention "Affecté avec d'autres immeubles".
