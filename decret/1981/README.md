@@ -203,6 +203,7 @@
 - [Décret n°81-291 du 30 mars 1981](decret-n81-291-du-30-mars-1981)
 - [Décret n°81-73 du 30 janvier 1981](decret-n81-73-du-30-janvier-1981)
 - [Décret n°81-888 du 30 septembre 1981](decret-n81-888-du-30-septembre-1981)
+- [Décret n°81-983 du 30 octobre 1981](decret-n81-983-du-30-octobre-1981)
 - [Décret n°80-1155 du 31 décembre 1980](decret-n80-1155-du-31-decembre-1980)
 - [Décret n°80-1163 du 31 décembre 1980](decret-n80-1163-du-31-decembre-1980)
 - [Décret n°81-290 du 31 mars 1981](decret-n81-290-du-31-mars-1981)
