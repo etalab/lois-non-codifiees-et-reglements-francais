@@ -1,13 +1,9 @@
 # Article 13
 
-Le vote a lieu par correspondance, au scrutin secret et sous enveloppe.
+Sont abrogés :
 
-Le bulletin de vote est inséré par l'électeur dans une première enveloppe ne portant aucun signe extérieur. Cette enveloppe est placée dans une enveloppe n° 2, sur laquelle il porte ses nom, prénom et grade et appose sa signature. Cette enveloppe est cachetée.
+- l'arrêté du 7 août 1959 relatif aux reprises de gibier vivant en vue de repeuplement ;
 
-Le garde-pêche expédie au président du bureau son bulletin de vote inclus comme indiqué ci-dessus dans les deux enveloppes réglementaires.
+- l'arrêté du 2 mars 1972 relatif à l'emploi des armes à feu pour la chasse et la destruction des animaux nuisibles ;
 
-Le pli doit parvenir avant la clôture du scrutin.
-
-En cas d'arrivée tardive, les plis sont renvoyés aux votants avec indication de la date et de l'heure de leur réception.
-
-Les bulletins et les enveloppes nécessaires sont envoyés aux intéressés huit jours francs au moins avant la clôture du scrutin.
+- toutes dispositions contraires au présent arrêté figurant dans les arrêtés réglementaires permanents sur la police de la chasse dans les départements.
