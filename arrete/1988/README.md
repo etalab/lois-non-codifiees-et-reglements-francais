@@ -425,7 +425,6 @@
 - [Arrêté du 22 août 1988 (RESV8800797A)](arrete-du-22-aout-1988-resv8800797a)
 - [Arrêté du 22 août 1988 (SPSA8801291A)](arrete-du-22-aout-1988-spsa8801291a)
 - [Arrêté du 22 août 1988 (SPSG8801293A)](arrete-du-22-aout-1988-spsg8801293a)
-- [Arrêté du 22 avril 1988 (AGRG8800788A)](arrete-du-22-avril-1988-agrg8800788a)
 - [Arrêté du 22 avril 1988 (ASET8803357A)](arrete-du-22-avril-1988-aset8803357a)
 - [Arrêté du 22 avril 1988 (DEFP8801268A)](arrete-du-22-avril-1988-defp8801268a)
 - [Arrêté du 22 avril 1988 (MCLB8800162A)](arrete-du-22-avril-1988-mclb8800162a)
