@@ -8,7 +8,13 @@ Le cheptel bovin d'une exploitation obtient la qualification "officiellement ind
 
 3° Tous les bovins âgés de douze mois ou plus ont été soumis individuellement, avec résultats négatifs, à deux épreuves à l'antigène tamponné pratiquées à intervalle de trois mois au moins et douze mois au plus ;
 
-4° Depuis le premier examen mentionné au paragraphe 3 ci-dessus, tout bovin, quel que soit son âge, introduit dans le cheptel provient directement d'un cheptel qualifié au titre de la brucellose bovine et est soumis avant son introduction, avec résultats négatifs, à une épreuve à l'antigène tamponné associée à une épreuve de fixation du complément datant de moins de trente jours ;
+4° Depuis le premier examen mentionné au point 3° ci-dessus, tout bovin, quel que soit son âge, introduit dans le cheptel :
+
+- provient directement d'un cheptel officiellement indemne ou indemne de brucellose bovine ;
+
+- est isolé dès sa livraison dans l'exploitation ;
+
+- est soumis dans les quinze jours suivant sa livraison, avec résultat négatif, à une épreuve à l'antigène tamponné associée à une épreuve de fixation du complément ;
 
 5° Les animaux des autres espèces sensibles infectés de brucellose ou de statut sanitaire inconnu sont détenus de façon distincte du cheptel bovin.
 

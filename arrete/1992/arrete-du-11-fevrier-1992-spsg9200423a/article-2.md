@@ -23,3 +23,7 @@ b) Pour l'épreuve d'exercices physiques, un ou plusieurs professeurs d'éducati
 c) Pour l'épreuve portant sur le traitement automatisé de l'information, un ou plusieurs examinateurs spécialisés.
 
 En cas d'absence ou d'empêchement du président, le ministre désigne un autre membre du jury pour assurer cette fonction.
+
+Sont, en outre, adjoints au jury :
+
+Pour l'épreuve portant sur le traitement automatisé de l'information un ou plusieurs examinateurs spécialisés.

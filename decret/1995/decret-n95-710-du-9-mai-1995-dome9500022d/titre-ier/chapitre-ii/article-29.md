@@ -6,7 +6,7 @@ Les ressources de chaque agence comprennent notamment :
 
 2° Le versement du département correspondant au crédit prévu à l'article 38 de la loi du 1er décembre 1988 susvisée ;
 
-3° La participation financière de l'Etat aux contrats d'insertion ;
+3° La participation financière de l'Etat aux contrats d'insertion par l'activité ;
 
 4° La participation financière prévue à l'article 50 du présent décret, des collectivités, personnes ou organismes mentionnés au premier alinéa de l'article L. 322-4-7 du code du travail ;
 

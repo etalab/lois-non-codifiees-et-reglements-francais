@@ -1,0 +1,3 @@
+# Article 14
+
+Dans le cas de vente publique de bovins, l'autorité (administration ou officier ministériel) chargée de la vente doit exiger que les bovins soient accompagnés de leur D.S.A. attestant de la qualification de leur cheptel d'origine vis-à-vis de la tuberculose, de la brucellose et de la leucose bovine enzootique ainsi que d'un certificat établi par le vétérinaire sanitaire, et contresigné par le directeur des services vétérinaires, attestant des résultats des examens cliniques, des tuberculinations et des épreuves de laboratoire de recherche de la leucose bovine enzootique et de la brucellose bovine pratiqués depuis moins de quinze jours sur lesdits bovins.

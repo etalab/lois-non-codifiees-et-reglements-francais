@@ -56,4 +56,8 @@ Les notes obtenues aux épreuves facultatives ne sont prises en compte, en vue d
 
 En même temps qu'ils déposent leur demande d'inscription, les candidats font connaître, dans les conditions prévues par le présent arrêté, la langue étrangère qu'ils ont choisie pour l'épreuve orale d'admission ainsi que la ou les épreuves facultatives qu'ils désirent subir. Ce choix ne peut être modifié.
 
+En ce qui concerne les épreuves facultatives :
+
+Est ajoutée une épreuve écrite portant sur le traitement automatisé de l'information (durée : une heure ; coefficient 1).
+
 (1) L'arrêté accompagné de son annexe et des barèmes seront publiés au Bulletin officiel du ministère n° 93-44, disponible à la Direction des Journaux officiels, 26, rue Desaix, 75727 PARIS CEDEX 15, vendu au prix de 29 F.

@@ -1,3 +1,3 @@
 # Article 38
 
-De nouveaux animaux de l'espèce bovine ne peuvent être introduits dans ce cheptel qu'après le premier contrôle d'assainissement entièrement favorable. Les animaux introduits doivent provenir d'un cheptel indemne ou officiellement indemne de brucellose bovine et avoir présenté, dans les trente jours précédant leur introduction, un résultat négatif à une épreuve à l'antigène tamponné associée à une épreuve de fixation du complément.
+De nouveaux animaux de l'espèce bovine ne peuvent être introduits dans un cheptel infecté que lorsque ce cheptel a été assaini conformément à l'article 37 du présent arrêté et que les locaux et le matériel à l'usage des animaux ont été désinfectés. Les animaux introduits doivent l'être conformément à l'article 12 du présent arrêté.

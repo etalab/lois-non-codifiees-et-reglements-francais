@@ -10,7 +10,7 @@ Le conseil d'administration délibère sur les matières suivantes :
 
 4° Les modalités générales de la participation en nature ou financière prévue à l'article 50 du présent décret ;
 
-5° Les mesures tendant à organiser et améliorer le dispositif de protection des besoins en tâches d'utilité sociale dans le département ;
+5° Les mesures tendant à organiser et améliorer le dispositif de prospection des besoins en tâches d'utilité sociale dans le département ;
 
 6° La mise en place d'un dispositif d'évaluation indépendante et régulière des actions d'insertion ;
 

@@ -3,3 +3,4 @@
 - [c) Champignons.](c)
 - [Article Annexe IV](article-annexe-iv.md)
 - [a) Insectes, acariens et nématodes à tous les stades de leur développement.](a)
+- [b) Bactéries.](b)

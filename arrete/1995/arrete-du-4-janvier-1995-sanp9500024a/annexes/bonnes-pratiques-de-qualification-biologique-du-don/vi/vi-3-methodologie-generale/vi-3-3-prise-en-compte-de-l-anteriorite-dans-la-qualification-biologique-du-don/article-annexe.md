@@ -8,9 +8,15 @@ Premier cas : Absence d'antériorité ou absence de discordance avec l'antérior
 
 Une discordance avec l'antériorité désigne un résultat de qualification biologique différent de celui du don ou du prélèvement de contrôle antérieur.
 
-En l'absence d'antériorité ou de discordance avec l'antériorité, la qualification biologique du don obéit à l'algorithme général suivant :
+En l'absence d'antériorité ou de discordance avec l'antériorité, la qualification biologique du don obéit aux algorithmes généraux suivants selon les marqueurs :
 
-[*tableau non reproduit*]
+Pour le dépistage de l'antigène HBs, des anticorps anti-VIH 1 et 2 et des anticorps anti-VHC.
+
+Pour le dépistage des marqueurs autres que l'antigène HBs,
+
+les anticorps anti-VIH 1 et 2 et les anticorps anti-VHC
+
+(tableau non reproduit)
 
 Deuxième cas : Discordance avec les résultats de la qualification biologique du don antérieur :
 
