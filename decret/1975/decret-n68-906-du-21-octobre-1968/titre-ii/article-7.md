@@ -1,13 +1,17 @@
 # Article 7
 
-Il est institué une commission consultative d'exploi­tation du Théâtre national de Chaillot qui comprend :
+La commission consultative d'exploitation du Théâtre national de Chaillot  comprend:
 
-Le directeur du Théâtre national de Chaillot, président ;
+1o Le directeur du Théâtre national de Chaillot,  président;
 
-Trois représentants du personnel du Théâtre national de Chaillot comprenant un représentant du personnel artistique, un représentant des cadres et un représentant du personnel admi­nistratif et technique, élus dans des conditions fixées par arrêté du ministre des affaires culturelles ; en cas d'absence de personnel artistique permanent, le personnel administratif et technique élit deux représentants ;
+2o Le directeur du théâtre et des spectacles et le  directeur de l'administration générale au ministère chargé de la culture ou  leurs représentants;
 
-Trois personnalités qualifiées dans le domaine de la diffusion, de la recherche, de la création et de l'esthétique théâtrale, désignées par arrêté du ministre chargé des affaires culturelles.
+3o L'administrateur du Théâtre national de  Chaillot;
 
-Le fonctionnaire chargé du contrôle financier assiste aux séances avec voix consultative.
+4o Trois représentants du personnel du Théâtre national de  Chaillot dont le mandat est de trois ans et peut être renouvelé, comprenant un  représentant du personnel artistique, un représentant des cadres et un  représentant du personnel administratif et technique, élus dans les conditions  fixées par arrêté du ministre chargé de la culture; en cas d'absence de  personnel artistique permanent, le personnel administratif et technique élit  deux représentants;
 
-Les membres de la commission consultative d'exploitation sont désignés pour trois ans. Leur mandat paut être renouvelé. Leur désignation est personnelle et ils ne peuvent se faire remplacer aux séances de la commission. En cas de démission, de décès ou de non-renouvellement du mandat il est procédé dans le plus bref délai au remplacement du membre démissionnaire décédé ou dont le mandat n'est pas renouvelé et le nouveau membre exerce son mandat pour une durée égale à celle qui restait à courir pour le membre remplacé.
+5o Trois personnalités qualifiées dans le domaine  de la diffusion, de la recherche, de la création et de l'esthétique théâtrale  désignées par arrêté du ministre chargé de la culture. Leur mandat est de trois  ans et peut être renouvelé.
+
+Le fonctionnaire chargé du contrôle  financier assiste aux séances.
+
+En cas de démission ou de décès d'un  membre, celui-ci est remplacé par un nouveau membre qui exerce son mandat pour  une durée égale à celle qui restait à courir pour le membre remplacé.
