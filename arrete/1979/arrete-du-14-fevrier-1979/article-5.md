@@ -1,3 +1,3 @@
 # Article 5
 
-Les allocations dues à l'union nationale interprofessionnelle du logement peuvent être couvertes au moyen d'un prélèevement sur les sommes recueillies par les organismes mentionnés à l'article 313-9 (2°, a) dans la limite de 0,2 p. 100 des sommes recueillies au cours de l'exercice précédent.
+Les associés collecteurs de l'Union d'économie sociale du logement mentionnés à l'article R. 313-9 (2°, a et b) du code de la construction et de l'habitation sont autorisés à couvrir leur versement à l'Association pour l'accès des salariés aux logements de la foncière (APALOF) au moyen d'un prélèvement sur les fonds collectés. Ce prélèvement est plafonné à un montant global calculé sur la base de 35 euros par candidature présentée à l'association dans l'année.

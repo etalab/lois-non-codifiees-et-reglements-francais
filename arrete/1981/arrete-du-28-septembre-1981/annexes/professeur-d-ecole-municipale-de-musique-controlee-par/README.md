@@ -4,7 +4,6 @@
 - [Professeur de flûte à bec](professeur-de-flute-a-bec)
 - [Certificat d'aptitude complémentaire aux fonctions de professeur de formation musicale](certificat-d-aptitude-complementaire-aux)
 - [Certificat d'aptitude complémentaire](certificat-d-aptitude-complementaire)
-- [Professeur des disciplines instrumentales (sauf l'orgue et le piano)](professeur-des-disciplines-instrumentales-sauf-l-orgue-et)
 - [Professeur des disciplines instrumentales (sauf l'orgue, le piano, le violon, l'alto, le violoncelle et la contrebasse)](professeur-des-disciplines-instrumentales-sauf-l-orgue-le-piano-le-violon-l-alto-le-violoncelle-et)
 - [Professeurs de violon, alto, violoncelle et contrebasse](professeurs-de-violon-alto-violoncelle-et)
 - [Orgue](orgue)
