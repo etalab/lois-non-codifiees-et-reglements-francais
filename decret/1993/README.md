@@ -74,6 +74,7 @@
 - [Décret n°94-295 du 6 avril 1994 (EQUH9400167D)](decret-n94-295-du-6-avril-1994-equh9400167d)
 - [Décret n°95-640 du 6 mai 1995 (DOMP9500008D)](decret-n95-640-du-6-mai-1995-domp9500008d)
 - [Décret n°93-21 du 7 janvier 1993 (JUSB9210428D)](decret-n93-21-du-7-janvier-1993-jusb9210428d)
+- [Décret n°93-810 du 7 mai 1993 (INTC9300253D)](decret-n93-810-du-7-mai-1993-intc9300253d)
 - [Décret n°93-180 du 8 février 1993 (INTD9300012D)](decret-n93-180-du-8-fevrier-1993-intd9300012d)
 - [Décret n°93-192 du 8 février 1993 (JUSC9221102D)](decret-n93-192-du-8-fevrier-1993-jusc9221102d)
 - [Décret n°93-193 du 8 février 1993 (JUSE9240078D)](decret-n93-193-du-8-fevrier-1993-juse9240078d)
