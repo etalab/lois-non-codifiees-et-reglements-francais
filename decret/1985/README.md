@@ -124,6 +124,7 @@
 - [Décret n°85-253 du 20 février 1985](decret-n85-253-du-20-fevrier-1985)
 - [Décret n°85-348 du 20 mars 1985](decret-n85-348-du-20-mars-1985)
 - [Décret n°85-349 du 20 mars 1985](decret-n85-349-du-20-mars-1985)
+- [Décret n°85-624 du 20 juin 1985](decret-n85-624-du-20-juin-1985)
 - [Décret n°85-258 du 21 février 1985](decret-n85-258-du-21-fevrier-1985)
 - [Décret n°85-267 du 21 février 1985](decret-n85-267-du-21-fevrier-1985)
 - [Décret n°85-352 du 21 mars 1985](decret-n85-352-du-21-mars-1985)
