@@ -1,4 +1,4 @@
-# Arrêté du 15 septembre 1977 relatif à l'organisation du ministère de l'industrie, du commerce et de l'artisanat en matière de sécurité industrielle
+# Arrêté du 15 septembre 1977 relatif à la réception C.E.E. (Communauté économique européenne) des véhicules en ce qui concerne le niveau sonore admissible et le dispositif d'échappement.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

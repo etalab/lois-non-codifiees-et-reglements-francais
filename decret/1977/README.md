@@ -59,6 +59,7 @@
 - [Décret n°77-604 du 10 juin 1977](decret-n77-604-du-10-juin-1977)
 - [Décret n°77-613 du 10 juin 1977](decret-n77-613-du-10-juin-1977)
 - [Décret n° 77-497 du 10 mai 1977](decret-n-77-497-du-10-mai-1977)
+- [Décret n°77-1157 du 11 octobre 1977](decret-n77-1157-du-11-octobre-1977)
 - [Décret n°77-36 du 11 janvier 1977](decret-n77-36-du-11-janvier-1977)
 - [Décret n°77-41 du 11 janvier 1977](decret-n77-41-du-11-janvier-1977)
 - [Décret n°77-961 du 11 août 1977](decret-n77-961-du-11-aout-1977)

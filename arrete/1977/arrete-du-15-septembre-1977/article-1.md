@@ -1,3 +1,3 @@
 # Article 1
 
-Les dispositions énoncées aux articles suivants sont applicables pour toutes les questions relatives à la sécurité des installations industrielles, à l'exclusion de celles qui sont de la compétence du service technique de l'électricité et des grands barrages.
+On entend par véhicule [*définition*], au sens du présent arrêté, tout véhicule à moteur destiné à circuler sur route, ayant au moins quatre roues et une vitesse maximale par construction supérieure à 25 kilomètres/heure, à l'exception des véhicules qui se déplacent sur rails, des tracteurs et machines agricoles, ainsi que des engins de travaux publics.
