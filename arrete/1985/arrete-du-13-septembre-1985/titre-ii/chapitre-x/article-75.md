@@ -4,7 +4,7 @@ a) Pour certaines épreuves désignées sur le programme officiel, des paris dé
 
 Un pari trio urbain consiste à désigner trois chevaux d'une même course sans avoir à préciser leur ordre d'arrivée.
 
-Sauf dispositions particulières concernant les courses reportées, ces paris sont soumis aux dispositions des articles 70 à 74 ci-dessus en remplaçant les références aux paris "jumelé" par des références aux paris "couplé gagnant".
+Sauf dispositions particulières concernant les courses reportées, ces paris sont soumis aux dispositions des articles 70 et 71 à 74 ci-dessus en remplaçant les références aux paris "jumelé par des références aux paris "couplé gagnant.
 
 Un pari "trio urbain" est payable si les trois chevaux choisis occupent les trois premières places de l'épreuve quel que soit leur classement à l'arrivée, sauf cas prévus aux articles 62 et 74.
 
