@@ -1,8 +1,8 @@
 # Article 4
 
-I - 1° La valeur du point de retraite permettant de déterminer, en application du décret susvisé du 31 mars 1966, le montant annuel de l'allocation de pension servie, en vertu de l'article L. 663-5 du code de la sécurité sociale, aux travailleurs non-salariés des professions industrielles et commerciales et leurs conjoints coexistants ou survivants est fixée à :
+I - 1° La valeur du point de retraite permettant de déterminer, en application du décret susvisé du 31 mars 1966, le montant annuel de l'allocation de pension servie, en vertu de l'article L. 663-5 du code de la sécurité sociale, aux travailleurs non-salariés des professions industrielles et commerciales et leurs conjoints coexistants ou survivants est fixée à [*montant*] :
 
-44,85 F à partir du 1er janvier 1984 ;
+44,85 F à partir du 1er janvier 1984 [*date*] ;
 
 45,84 F à partir du 1er juillet 1984.
 
