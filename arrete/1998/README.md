@@ -288,6 +288,7 @@
 - [Arrêté du 9 mars 1998 (MESS9820903A)](arrete-du-9-mars-1998-mess9820903a)
 - [Arrêté du 9 novembre 1998 (ECOT9820099A)](arrete-du-9-novembre-1998-ecot9820099a)
 - [Arrêté du 9 novembre 1998 (INTB9800428A)](arrete-du-9-novembre-1998-intb9800428a)
+- [Arrêté du 9 novembre 1998 (MENS9802863A)](arrete-du-9-novembre-1998-mens9802863a)
 - [Arrêté du 9 octobre 1997 (JUSB9710396A)](arrete-du-9-octobre-1997-jusb9710396a)
 - [Arrêté du 9 octobre 1998 (MESH9823269A)](arrete-du-9-octobre-1998-mesh9823269a)
 - [Arrêté du 9 septembre 1997 (ATEP9760348A)](arrete-du-9-septembre-1997-atep9760348a)

@@ -445,6 +445,7 @@
 - [Décret du 17 février 1998 (ECOC9700224D)](decret-du-17-fevrier-1998-ecoc9700224d)
 - [Décret n°79-916 du 17 octobre 1979](decret-n79-916-du-17-octobre-1979)
 - [Décret n°87-554 du 17 juillet 1987 (INTX8700074D)](decret-n87-554-du-17-juillet-1987-intx8700074d)
+- [Décret n°98-1033 du 17 novembre 1998 (MENF9802475D)](decret-n98-1033-du-17-novembre-1998-menf9802475d)
 - [Décret n°98-180 du 17 mars 1998 (DEFP9801263D)](decret-n98-180-du-17-mars-1998-defp9801263d)
 - [Décret n°98-183 du 17 mars 1998 (MESS9820302D)](decret-n98-183-du-17-mars-1998-mess9820302d)
 - [Décret n°98-198 du 17 mars 1998 (MAEJ9830021D)](decret-n98-198-du-17-mars-1998-maej9830021d)
