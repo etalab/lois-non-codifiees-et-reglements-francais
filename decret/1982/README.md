@@ -163,6 +163,7 @@
 - [Décret n°82-286 du 26 mars 1982](decret-n82-286-du-26-mars-1982)
 - [Décret n°82-646 du 26 juillet 1982](decret-n82-646-du-26-juillet-1982)
 - [Décret n°82-744 du 26 août 1982](decret-n82-744-du-26-aout-1982)
+- [Décret n°82-750 du 26 août 1982](decret-n82-750-du-26-aout-1982)
 - [Décret n°82-441 du 26 mai 1982](decret-n82-441-du-26-mai-1982)
 - [Décret n°82-461 du 26 mai 1982](decret-n82-461-du-26-mai-1982)
 - [Décret n°77-663 du 27 juin 1977](decret-n77-663-du-27-juin-1977)
