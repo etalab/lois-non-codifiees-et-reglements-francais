@@ -1,6 +1,6 @@
 # Article 3
 
-Les travailleurs salariés privés d'emploi qui suivent un stage de formation professionnelle dans les conditions définies à l'article R. 960-6 (1.) reçoivent une rémunération [*montant*] égale à 70 p. 100 de leur salaire antérieur, dans la limite d'un plafond fixé à trois fois le S.M.I.C. calculé à la date d'ouverture du stage.
+Les travailleurs salariés privés d'emploi [*chômeurs*] ayant exercé une activité salariée pendant au moins trois mois consécutifs [*condition*] et qui suivent un stage de formation professionnelle reçoivent une rémunération [*montant*] égale à 70 p. 100 de leur salaire antérieur, dans la limite d'un plafond fixé à trois fois le S.M.I.C. calculé à la date d'ouverture du stage.
 
 Lorsque le stage a une durée supérieure à un an, la rémunération versée aux stagiaires est réévaluée à la fin de chaque année de stage.
 
