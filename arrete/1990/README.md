@@ -871,7 +871,6 @@
 - [Arrêté du 28 août 1990 (SPSS9001817A)](arrete-du-28-aout-1990-spss9001817a)
 - [Arrêté du 28 décembre 1989 (MERF8900233A)](arrete-du-28-decembre-1989-merf8900233a)
 - [Arrêté du 28 décembre 1989 (TEFE9003017A)](arrete-du-28-decembre-1989-tefe9003017a)
-- [Arrêté du 28 décembre 1990 (SPSS9002607A)](arrete-du-28-decembre-1990-spss9002607a)
 - [Arrêté du 28 février 1990 (BUDR9005014A)](arrete-du-28-fevrier-1990-budr9005014a)
 - [Arrêté du 28 février 1990 (INDA9000161A)](arrete-du-28-fevrier-1990-inda9000161a)
 - [Arrêté du 28 février 1990 (INDA9000164A)](arrete-du-28-fevrier-1990-inda9000164a)
