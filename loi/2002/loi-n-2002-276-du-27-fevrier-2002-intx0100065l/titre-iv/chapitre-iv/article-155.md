@@ -1,0 +1,3 @@
+# Article 155
+
+En vue de la réalisation de tout nouvel aérodrome de catégorie A au sens du code de l'aviation civile, un décret en Conseil d'Etat détermine les catégories d'immeubles liées à l'habitation ou aux activités en lien immédiat avec les habitants comprises dans un périmètre qu'il définit et dont les propriétaires peuvent mettre en demeure l'Etat de procéder à l'acquisition de leurs biens dans les conditions définies par les articles L. 230-1 et suivants du code de l'urbanisme. Pour l'application de l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique, la date de référence est, en l'absence de plan local d'urbanisme, celle de la publication du décret mentionné ci-dessus.
