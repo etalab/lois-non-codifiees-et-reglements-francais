@@ -453,6 +453,7 @@
 - [Décret n°95-55 du 16 janvier 1995 (PRMD9450010D)](decret-n95-55-du-16-janvier-1995-prmd9450010d)
 - [Décret n°95-67 du 16 janvier 1995 (SPSS9403450D)](decret-n95-67-du-16-janvier-1995-spss9403450d)
 - [Décret n°95-69 du 16 janvier 1995 (MENL9402266D)](decret-n95-69-du-16-janvier-1995-menl9402266d)
+- [Décret n°95-790 du 16 juin 1995 (REFB9500161D)](decret-n95-790-du-16-juin-1995-refb9500161d)
 - [Décret n°95-740 du 16 mai 1995 (INTA9500143D)](decret-n95-740-du-16-mai-1995-inta9500143d)
 - [Décret n°95-741 du 16 mai 1995 (INTA9500144D)](decret-n95-741-du-16-mai-1995-inta9500144d)
 - [Décret n°95-742 du 16 mai 1995 (INTA9500145D)](decret-n95-742-du-16-mai-1995-inta9500145d)
