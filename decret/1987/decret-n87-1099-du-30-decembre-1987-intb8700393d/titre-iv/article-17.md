@@ -2,113 +2,214 @@
 
 La durée maximale et la durée minimale du temps passé dans chacun des échelons des grades et classes sont fixées ainsi qu'il suit :
 
-GRADE ET ECHELON
+<table>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :   GRADES   :      DUREES    :</td>
+</tr>
+<tr>
+<td> :     ET     :----------------:</td>
+</tr>
+<tr>
+<td> :  ECHELONS  :  Max. :  Min.  :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :   Directeur territorial     :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> : 7e échelon :   -   :   -    :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> : 6e échelon : 3 ans : 2 ans  :</td>
+</tr>
+<tr>
+<td> :            :       : 6 mois :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> : 5e échelon : 3 ans : 2 ans  :</td>
+</tr>
+<tr>
+<td> :            :       : 6 mois :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> : 4e échelon : 3 ans : 2 ans  :</td>
+</tr>
+<tr>
+<td> :            :       : 6 mois :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> : 3e échelon : 3 ans : 2 ans  :</td>
+</tr>
+<tr>
+<td> :            :       : 6 mois :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> : 2e échelon : 2 ans : 1 an   :</td>
+</tr>
+<tr>
+<td> :            :       : 6 mois :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> :1er échelon : 2 ans : 1 an   :</td>
+</tr>
+<tr>
+<td> :            :       : 6 mois :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+</table>
 
-Directeur territorial de classe exceptionnelle :
+<table>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :   GRADES   :      DUREES    :</td>
+</tr>
+<tr>
+<td> :     ET     :----------------:</td>
+</tr>
+<tr>
+<td> :  ECHELONS  :  Max. :  Min.  :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :    Attaché principal de     :</td>
+</tr>
+<tr>
+<td> :         1ère classe         :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> : 4e échelon :   -   :   -    :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> : 3e échelon : 3 ans : 2 ans  :</td>
+</tr>
+<tr>
+<td> :            : 6 mois: 6 mois :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> : 2e échelon : 3 ans : 2 ans  :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> :1er échelon : 2 ans : 1 an   :</td>
+</tr>
+<tr>
+<td> :            : 6 mois: 6 mois :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+</table>
 
-4e échelon
+<table>
+<tr>
+<td>:    Attaché principal de     :</td>
+</tr>
+<tr>
+<td> :         2ème classe         :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> : 6e échelon :   -   :   -    :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> : 5e échelon : 3 ans : 2 ans  :</td>
+</tr>
+<tr>
+<td> :            :       : 6 mois :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> : 4e échelon : 3 ans : 2 ans  :</td>
+</tr>
+<tr>
+<td> :            :       : 6mois  :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> : 3e échelon : 3 ans : 2 ans  :</td>
+</tr>
+<tr>
+<td> :            :       : 6 mois :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> : 2e échelon : 3 ans : 2 ans  :</td>
+</tr>
+<tr>
+<td> :            :       : 6 mois :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> :1er échelon : 2 ans : 2 ans  :</td>
+</tr>
+<tr>
+<td> :            : 6 mois:        :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+</table>
 
-3e échelon :
-
-DUREE :
-
-Maximale : 3 ans 6 mois
-
-Minimale : 3 ans
-
-2e échelon
-
-DUREE :
-
-Maximale : 2 ans 6 mois
-
-Minimale : 2 ans
-
-1er échelon
-
-Maximale : 2 ans 6 mois
-
-Minimale : 2 ans
-
-GRADE ET ECHELON
-
-Directeur territorial de classe normale :
-
-5e échelon
-
-4e échelon :
-
-DUREE :
-
-Maximale : 3 ans 6 mois
-
-Minimale : 3 ans
-
-3e échelon
-
-DUREE :
-
-Maximale : 2 ans 6 mois
-
-Minimale : 2 ans
-
-2e échelon
-
-Maximale : 2 ans 6 mois
-
-Minimale : 2 ans
-
-1er échelon
-
-Maximale : 2 ans 6 mois
-
-Minimale : 2 ans
-
-GRADE ET ECHELON
-
-Attaché principal :
-
-DUREE :
-
-6e échelon
-
-5e échelon :
-
-DUREE :
-
-Maximale : 4 ans
-
-Minimale : 3 ans
-
-DUREE :
-
-4e échelon :
-
-DUREE :
-
-Maximale : 3 ans
-
-Minimale : 2 ans 6 mois
-
-3e échelon
-
-Maximale : 3 ans
-
-Minimale : 2 ans 6 mois
-
-2e échelon
-
-Maximale : 3 ans
-
-Minimale : 2 ans 6 mois
-
-1er échelon
-
-Maximale : 2 ans
-
-Minimale : 1 an 6 mois
-
-GRADE ET ECHELON
+GRADE ET ECHELONGRADE ET ECHELON
 
 Attaché
 
@@ -174,7 +275,9 @@ Minimale : 1 an 6 mois
 
 2e échelon
 
-Maximale : 2 ans Minimale : 1 an 6 mois
+Maximale : 2 ans
+
+Minimale : 1 an 6 mois
 
 1er échelon
 

@@ -3,70 +3,102 @@
 L'échelonnement indiciaire applicable aux assistants territoriaux d'enseignement artistique est fixé ainsi qu'il suit :
 
 <table>
+<tbody>
 <tr>
-<td> :-------------------------------:</td>
+<td width="336">
+<p align="center">INDICES</p>
+</td>
+<td width="336">
+<p align="center">ECHELONS BRUTS</p>
+</td>
 </tr>
 <tr>
-<td> :             :     INDICES     :</td>
+<td width="336">
+<p>11e échelon</p>
+</td>
+<td width="336">
+<p align="center">612</p>
+</td>
 </tr>
 <tr>
-<td> :             :      BRUTS      :</td>
+<td width="336">
+<p>10e échelon</p>
+</td>
+<td width="336">
+<p align="center">580</p>
+</td>
 </tr>
 <tr>
-<td> :             : à compter du    :</td>
+<td width="336">
+<p>9e échelon</p>
+</td>
+<td width="336">
+<p align="center">550</p>
+</td>
 </tr>
 <tr>
-<td> :             :                 :</td>
+<td width="336">
+<p>8e échelon</p>
+</td>
+<td width="336">
+<p align="center">520</p>
+</td>
 </tr>
 <tr>
-<td> :-------------------------------:</td>
+<td width="336">
+<p>7e échelon</p>
+</td>
+<td width="336">
+<p align="center">490</p>
+</td>
 </tr>
 <tr>
-<td> :             : 1er : 1er : 1er :</td>
+<td width="336">
+<p>6e échelon</p>
+</td>
+<td width="336">
+<p align="center">460</p>
+</td>
 </tr>
 <tr>
-<td> :   ECHELONS  :  8  :  8  :  8  :</td>
+<td width="336">
+<p>5e échelon</p>
+</td>
+<td width="336">
+<p align="center">430</p>
+</td>
 </tr>
 <tr>
-<td> :             : 90  : 91  : 92  :</td>
+<td width="336">
+<p>4e échelon</p>
+</td>
+<td width="336">
+<p align="center">400</p>
+</td>
 </tr>
 <tr>
-<td> :-------------------------------:</td>
+<td width="336">
+<p>3e échelon</p>
+</td>
+<td width="336">
+<p align="center">371</p>
+</td>
 </tr>
 <tr>
-<td> : 11e échelon : 590 : 590 : 590 :</td>
+<td width="336">
+<p>2e échelon</p>
+</td>
+<td width="336">
+<p align="center">343</p>
+</td>
 </tr>
 <tr>
-<td> : 10e échelon : 570 : 570 : 570 :</td>
+<td width="336">
+<p>1er échelon</p>
+</td>
+<td width="336">
+<p align="center">314</p>
+</td>
 </tr>
-<tr>
-<td> : 9e  échelon : 540 : 540 : 540 :</td>
-</tr>
-<tr>
-<td> : 8e  échelon : 510 : 510 : 510 :</td>
-</tr>
-<tr>
-<td> : 7e  échelon : 480 : 480 : 480 :</td>
-</tr>
-<tr>
-<td> : 6e  échelon : 450 : 450 : 450 :</td>
-</tr>
-<tr>
-<td> : 5e  échelon : 420 : 420 : 420 :</td>
-</tr>
-<tr>
-<td> : 4e  échelon : 382 : 385 : 394 :</td>
-</tr>
-<tr>
-<td> : 3e  échelon : 358 : 363 : 371 :</td>
-</tr>
-<tr>
-<td> : 2e  échelon : 329 : 334 : 343 :</td>
-</tr>
-<tr>
-<td> : 1er échelon : 299 : 305 : 314 :</td>
-</tr>
-<tr>
-<td> :-------------------------------:</td>
-</tr>
+</tbody>
 </table>

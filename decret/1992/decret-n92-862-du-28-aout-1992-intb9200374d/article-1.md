@@ -42,6 +42,36 @@ Infirmier hors classe
 <td> :-----------------------------:</td>
 </tr>
 <tr>
+<td>  Infirmier de classe supérieure :-----------------------------:</td>
+</tr>
+<tr>
+<td> :    ECHELONS       : INDICES :</td>
+</tr>
+<tr>
+<td> :                   :  BRUTS  :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :  5e échelon       :   593   :</td>
+</tr>
+<tr>
+<td> :  4e échelon       :   565   :</td>
+</tr>
+<tr>
+<td> :  3e échelon       :   530   :</td>
+</tr>
+<tr>
+<td> :  2e échelon       :   499   :</td>
+</tr>
+<tr>
+<td> : 1er échelon       :   471   :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
 <td>   Infirmier de classe normale</td>
 </tr>
 <tr>

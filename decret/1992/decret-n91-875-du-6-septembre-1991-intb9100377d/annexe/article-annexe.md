@@ -148,7 +148,22 @@ B. - Fonctions techniques
 <p>Assistant technique.</p>
 </td>
 <td valign="top" width="227">
-<p>Prime de rendement et, pour les techniciens jusqu'au 7e échelon, indemnités horaires pour travaux supplémentaires (I.H.T.S.) (décret n° 50-1248 du 6 octobre 1950 modifié).</p>
+<p>Prime de rendement et, pour les techniciens jusqu'au 7e échelon, indemnités horaires pour travaux supplémentaires (I.H.T.S.) (décret<br/>n° 50-1248 du 6 octobre 1950 modifié).</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Contrôleur territorial de travaux :</p>
+<p>- contrôleur principal ;</p>
+<p>- contrôleur.</p>
+</td>
+<td align="left" valign="top">
+<p>Contrôleur de travaux publics de l'Etat :</p>
+<p>- contrôleur principal ;</p>
+<p>- contrôleur.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Prime de rendement et, pour les<br/>contrôleur jusqu'au 7e échelon,<br/>indemnités horaires pour travaux<br/>supplémentaires (I.H.T.S.) (décret<br/>n° 50-1248 du 6 octobre 1950 modifié).</p>
 </td>
 </tr>
 <tr>
@@ -381,13 +396,14 @@ C. - Fonctions médico-sociales
 <p>2e classe.</p>
 </td>
 <td valign="top" width="227">
-<p>Médecin de l'éducation nationale :</p>
-<p>Conseiller technique ;</p>
-<p>1re classe ;</p>
-<p>2e classe.</p>
+<p>Médecin inspecteur de la santé.</p>
+<p>Médecin général.</p>
+<p>Médecin inspecteur en chef.</p>
+<p>Médecin inspecteur.</p>
 </td>
 <td valign="top" width="227">
-<p>Indemnité de sujétions spéciales des médecins de l'éducation nationale (décret n° 92-731 du 27 juillet 1992).</p>
+<p>Indemnité spéciales des médecins inspecteurs de la santé (décret n° 73-964 du 11 octobre 1973).</p>
+<p>Indemnité de technicité des médecins inspecteurs de la santé (décret n° 91-657 du 15 juillet 1991).</p>
 </td>
 </tr>
 <tr>

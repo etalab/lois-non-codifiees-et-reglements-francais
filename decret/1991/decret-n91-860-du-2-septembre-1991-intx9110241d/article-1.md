@@ -19,34 +19,34 @@ L'échelonnement indiciaire applicable aux assistants territoriaux spécialisés
 <td> :---------------:------------:</td>
 </tr>
 <tr>
-<td> : 11e échelon   :     625    :</td>
+<td> : 11e échelon   :     638    :</td>
 </tr>
 <tr>
-<td> : 10e échelon   :     580    :</td>
+<td> : 10e échelon   :     590    :</td>
 </tr>
 <tr>
-<td> : 9e  échelon   :     545    :</td>
+<td> : 9e  échelon   :     555    :</td>
 </tr>
 <tr>
-<td> : 8e  échelon   :     515    :</td>
+<td> : 8e  échelon   :     525    :</td>
 </tr>
 <tr>
-<td> : 7e  échelon   :     485    :</td>
+<td> : 7e  échelon   :     495    :</td>
 </tr>
 <tr>
-<td> : 6e  échelon   :     455    :</td>
+<td> : 6e  échelon   :     465    :</td>
 </tr>
 <tr>
-<td> : 5e  échelon   :     425    :</td>
+<td> : 5e  échelon   :     435    :</td>
 </tr>
 <tr>
-<td> : 4e  échelon   :     394    :</td>
+<td> : 4e  échelon   :     400    :</td>
 </tr>
 <tr>
-<td> : 3e  échelon   :     371    :</td>
+<td> : 3e  échelon   :     380    :</td>
 </tr>
 <tr>
-<td> : 2e  échelon   :     343    :</td>
+<td> : 2e  échelon   :     360    :</td>
 </tr>
 <tr>
 <td> : 1er échelon   :     320    :</td>

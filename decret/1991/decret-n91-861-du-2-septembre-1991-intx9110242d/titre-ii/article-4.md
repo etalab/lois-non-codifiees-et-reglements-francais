@@ -1,6 +1,6 @@
 # Article 4
 
-Sont inscrits sur la liste d'aptitude prévue à l'article 3 ci-dessus les candidats déclarés admis à un concours sur titres avec épreuves, ouvert aux candidats titulaires d'un titre figurant sur une liste établie par décret.
+Sont inscrits sur la liste d'aptitude prévue à l'article 3 ci-dessus les candidats déclarés admis à un concours sur titres avec épreuves, dans l'une des spécialités et, le cas échéant, dans l'une des disciplines mentionnées à l'article ci-dessus ouvert aux candidats titulaires d'un titre figurant sur une liste établie par décret.
 
 Le Centre national de la fonction publique territoriale est chargé de la coordination générale de l'organisation du concours. Nul ne peut participer plus de trois fois au total à ce concours.
 

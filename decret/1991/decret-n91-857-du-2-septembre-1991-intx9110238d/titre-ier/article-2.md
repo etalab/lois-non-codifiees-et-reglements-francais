@@ -1,18 +1,20 @@
 # Article 2
 
-Ce cadre d'emplois comprend trois spécialités :
+" Les professeurs d'enseignement artistique exercent leurs fonctions, selon les formations qu'ils ont reçues, dans les spécialités suivantes :
 
-1. Musique et danse ;
+" 1° Musique ;
 
-2. Art dramatique ;
+" 2° Danse ;
 
-3. Arts plastiques.
+" 3° Art dramatique ;
 
-Les professeurs d'enseignement artistique exercent leurs fonctions suivant leur spécialité :
+" 4° Arts plastiques.
 
-a) Pour les spécialités Musique et danse et Art dramatique, dans les conservatoires nationaux de région et les écoles nationales de musique ainsi que dans les écoles de musique agréées ;
+" Les spécialités Musique et Danse comprennent différentes disciplines.
 
-b) Pour la spécialité Arts plastiques, dans les écoles régionales ou municipales des beaux-arts habilitées par l'Etat à dispenser tout ou partie de l'enseignement conduisant à un diplôme d'Etat ou diplôme agréé par l'Etat.
+" Pour les spécialités Musique, Danse et Art dramatique, ils exercent leurs fonctions dans les conservatoires nationaux de région et les écoles nationales de musique ainsi que dans les écoles de musique agréées ;
+
+" Pour la spécialité Arts plastiques, ils exercent leurs fonctions dans les écoles régionales ou municipales des beaux-arts habilitées par l'Etat à dispenser tout ou partie de l'enseignement conduisant à un diplôme d'Etat ou diplôme agréé par l'Etat. "
 
 Les professeurs d'enseignement artistique assurent un enseignement hebdomadaire de seize heures.
 

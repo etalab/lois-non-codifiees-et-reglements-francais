@@ -162,21 +162,23 @@ Secrétaire général de ville ou directeur d'office public d'H.L.M :
 
 - ECHELONS (indices bruts) :
 
-1 : 645
+1 : 650
 
-2 : 675
+2 : 700
 
-3 : 705
+3 : 745
 
-4 : 735
+4 : 790
 
-5 : 765
+5 : 840
 
-6 : 795
+6 : 890
 
-7 : 825
+7 : 940
 
-8 : 855
+8 : 985
+
+9 : 1015
 
 EMPLOIS :
 
@@ -186,21 +188,23 @@ Secrétaire général de ville ou directeur d'office public d'H.L.M :
 
 - ECHELONS (indices bruts) :
 
-1 : 541
+1 : 570
 
-2 : 576
+2 : 620
 
-3 : 611
+3 : 670
 
-4 : 646
+4 : 720
 
-5 : 681
+5 : 771
 
-6 : 721
+6 : 821
 
-7 : 761
+7 : 871
 
-8 : 801
+8 : 920
+
+9 : 966
 
 EMPLOIS :
 
@@ -210,21 +214,21 @@ Secrétaire général de ville ou directeur d'office public d'H.L.M :
 
 - ECHELONS (indices bruts) :
 
-1 : 430
+1 : 470
 
-2 : 465
+2 : 515
 
-3 : 500
+3 : 555
 
-4 : 535
+4 : 600
 
-5 : 570
+5 : 645
 
-6 : 610
+6 : 690
 
-7 : 650
+7 : 735
 
-8 : 690.
+8 : 780. 9 : 821.
 
 EMPLOIS :
 
@@ -278,70 +282,44 @@ EMPLOIS :
 
 Secrétaire général adjoint de ville
 
-- de 80.000 à 150.000 habitants
+- de 40.000 à 150.000 habitants
 
 - ECHELONS (indices bruts) :
 
-1 : 645
+1 : 650
 
-2 : 685
+2 : 700
 
-3 : 725
+3 : 745
 
-4 : 770
+4 : 790
 
-5 : 815
+5 : 840
 
-6 : 860
+6 : 890
 
-7 : 905
+7 : 940
 
-8 : 950
-
-EMPLOIS :
-
-Secrétaire général adjoint de ville
-
-- de 40.000 à 80.000 habitants
-
-- ECHELONS (indices bruts) :
-
-1 : 525
-
-2 : 575
-
-3 : 625
-
-4 : 675
-
-5 : 725
-
-6 : 775
-
-7 : 830
-
-8 : 885
-
-EMPLOIS :
-
-Secrétaire général adjoint de ville
+8 : 985 9 : 1015 Secrétaire général adjoint de ville
 
 - de 20.000 à 40.000 habitants
 
 - ECHELONS (indices bruts) :
 
-1 : 455
+1 : 570
 
-2 : 504
+2 : 620
 
-3 : 557
+3 : 670
 
-4 : 616
+4 : 720
 
-5 : 650
+5 : 771
 
-6 : 701
+6 : 821
 
-7 : 750
+7 : 871
 
-8 : 801.
+8 : 920
+
+9 : 966

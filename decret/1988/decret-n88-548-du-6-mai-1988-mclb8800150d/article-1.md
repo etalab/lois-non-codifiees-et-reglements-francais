@@ -30,7 +30,7 @@ L'échelonnement indiciaire applicable aux agents de maîtrise territoriaux est 
 <p>5e échelon</p>
 </td>
 <td valign="top" width="337">
-<p align="center">453</p>
+<p align="center">469</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ L'échelonnement indiciaire applicable aux agents de maîtrise territoriaux est 
 <p>4e échelon</p>
 </td>
 <td valign="top" width="337">
-<p align="center">430</p>
+<p align="center">440</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ L'échelonnement indiciaire applicable aux agents de maîtrise territoriaux est 
 <p>3e échelon</p>
 </td>
 <td valign="top" width="337">
-<p align="center">395</p>
+<p align="center">410</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ L'échelonnement indiciaire applicable aux agents de maîtrise territoriaux est 
 <p>2e échelon</p>
 </td>
 <td valign="top" width="337">
-<p align="center">377</p>
+<p align="center">387</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +88,7 @@ L'échelonnement indiciaire applicable aux agents de maîtrise territoriaux est 
 <p>5e échelon</p>
 </td>
 <td valign="top" width="337">
-<p align="center">438</p>
+<p align="center">449</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +96,7 @@ L'échelonnement indiciaire applicable aux agents de maîtrise territoriaux est 
 <p>4e échelon</p>
 </td>
 <td valign="top" width="337">
-<p align="center">406</p>
+<p align="center">427</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ L'échelonnement indiciaire applicable aux agents de maîtrise territoriaux est 
 <p>3e échelon</p>
 </td>
 <td valign="top" width="337">
-<p align="center">388</p>
+<p align="center">396</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +112,7 @@ L'échelonnement indiciaire applicable aux agents de maîtrise territoriaux est 
 <p>2e échelon</p>
 </td>
 <td valign="top" width="337">
-<p align="center">372</p>
+<p align="center">379</p>
 </td>
 </tr>
 <tr>

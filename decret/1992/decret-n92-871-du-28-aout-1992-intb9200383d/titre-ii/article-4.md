@@ -1,6 +1,10 @@
 # Article 4
 
-Sont inscrits sur la liste d'aptitude prévue à l'article 3 ci-dessus les candidats déclarés admis à un concours sur titres ouvert aux candidats titulaires d'un titre ou d'un diplôme figurant sur une liste fixée par arrêté conjoint du ministre chargé des collectivités locales et du ministre chargé de la santé.
+" Sont inscrits sur la liste d'aptitude prévue à l'article 3 ci-dessus les candidats déclarés admis :
+
+" 1° A un concours sur titres ouvert aux candidats titulaires d'un titre ou d'un diplôme figurant sur une liste fixée par arrêté conjoint du ministre chargé des collectivités locales et du ministre chargé de la santé ;
+
+" 2° A un concours sur titres ouvert aux candidats titulaires du diplôme d'Etat de manipulateur d'électroradiologie ou du brevet de technicien supérieur d'électroradiologie médicale. "
 
 Le Centre national de la fonction publique territoriale est chargé de la coordination générale de l'organisation de ce concours.
 

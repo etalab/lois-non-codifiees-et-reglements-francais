@@ -84,6 +84,78 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <tr>
 <td> :-----------------------------:</td>
 </tr>
+<tr>
+<td/>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :   GRADES   :      DUREES    :</td>
+</tr>
+<tr>
+<td> :     ET     :----------------:</td>
+</tr>
+<tr>
+<td> :  ECHELONS  :  Max. :  Min.  :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :    Rééducateur de classe    :</td>
+</tr>
+<tr>
+<td> :         supérieure          :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> : 5e échelon :   -   :   -    :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> : 4e échelon : 4 ans : 4 ans  :</td>
+</tr>
+<tr>
+<td> :            : 3 mois:        :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> : 3e échelon : 3 ans : 3 ans  :</td>
+</tr>
+<tr>
+<td> :            : 3 mois:        :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> : 2e échelon : 3 ans : 3 ans  :</td>
+</tr>
+<tr>
+<td> :            : 3 mois:        :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> :1er échelon : 3 ans : 3 ans  :</td>
+</tr>
+<tr>
+<td> :            : 3 mois:        :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
 </table>
 
 <table>

@@ -2,8 +2,8 @@
 
 le grade d'attaché comprend douze échelons.
 
-Le grade d'attaché principal comprend six échelons.
+" La seconde classe du grade d'attaché principal comprend six échelons ;
 
-La classe normale du grade de directeur territorial comprend cinq échelons.
+" La 1re classe du grade d'attaché principal comprend quatre échelons ;
 
-La classe exceptionnelle du grade de directeur territorial comprend quatre échelons.
+" Le grade de directeur territorial comprend sept échelons. "

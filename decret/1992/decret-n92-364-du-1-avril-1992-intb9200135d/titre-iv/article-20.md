@@ -1,6 +1,6 @@
 # Article 20
 
-Peuvent être nommés au grade de conseiller principal après inscription sur un tableau d'avancement :
+Peuvent être nommés au grade de conseiller principal de seconde classe après inscription sur un tableau d'avancement :
 
 1° Les conseillers comptant au moins deux ans d'ancienneté dans le 12e échelon de leur grade ;
 

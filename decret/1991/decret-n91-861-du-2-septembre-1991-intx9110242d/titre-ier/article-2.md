@@ -1,6 +1,14 @@
 # Article 2
 
-Les fonctionnaires appartenant à ce cadre d'emplois exercent leurs fonctions, suivant leur spécialité, dans les domaines de la musique, de la danse, de l'art dramatique et des arts plastiques dans les établissements spécialisés d'enseignement artistique.
+" Les assistants d'enseignement artistique exercent leurs fonctions dans les établissements spécialisés d'enseignement artistique, en fonction des formations qu'ils ont reçues, dans les spécialités suivantes :
+
+" 1° Musique ;
+
+" 2° Art dramatique ;
+
+" 3° Arts plastiques.
+
+" La spécialité Musique comprend différentes disciplines. "
 
 Les assistants d'enseignement artistique sont chargés d'assister les enseignants de musique, de danse, d'art dramatique ou d'arts plastiques.
 
