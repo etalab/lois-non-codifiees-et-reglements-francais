@@ -281,6 +281,8 @@
 - [Arrêté du 24 mai 2000 (INTE0000315A)](arrete-du-24-mai-2000-inte0000315a)
 - [Arrêté du 24 mai 2000 (MESS0021654A)](arrete-du-24-mai-2000-mess0021654a)
 - [Arrêté du 25 août 2000 (DEFD0001938A)](arrete-du-25-aout-2000-defd0001938a)
+- [Arrêté du 25 août 2000 (DEFD0001939A)](arrete-du-25-aout-2000-defd0001939a)
+- [Arrêté du 25 août 2000 (DEFD0001951A)](arrete-du-25-aout-2000-defd0001951a)
 - [Arrêté du 25 avril 2000 (AGRG0000850A)](arrete-du-25-avril-2000-agrg0000850a)
 - [Arrêté du 25 avril 2000 (ECOI0000214A)](arrete-du-25-avril-2000-ecoi0000214a)
 - [Arrêté du 25 avril 2000 (EQUT0000449A)](arrete-du-25-avril-2000-equt0000449a)
