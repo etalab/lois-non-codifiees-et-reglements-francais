@@ -8,4 +8,4 @@ Peuvent être sociétaires d'une caisse régionale de crédit maritime mutuel ou
 
 3° La caisse centrale de crédit coopératif et les organismes dont elle centralise ou contrôle la gestion financière et comptable ;
 
-4° Les autres personnes physiques ou [*personnes*] morales dont l'activité professionnelle relève de l'un des secteurs d'activités mentionnés à l'article 1er (alinéa 1er) ou qui apportent au crédit maritime mutuel un appui tant moral que financier. L'admission de ces personnes fera l'objet d'un agrément soumis à des conditions fixées par le décret prévu à l'article 20. Ces personnes ne peuvent bénéficier des concours du crédit maritime mutuel que dans les conditions et limites déterminées par ledit décret.
+4° Les autres personnes physiques ou [*personnes*] morales qui exercent leur activité ou qui ont une résidence dans les départements côtiers.
