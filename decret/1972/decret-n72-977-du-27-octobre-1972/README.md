@@ -1,8 +1,0 @@
-# Décret n°72-977 du 27 octobre 1972 DETERMINANT LES MODALITES D'APPLICATION DE L'ARTICLE 73 DE LA LOI DE FINANCES POUR 1972 RELATIF AU REGIME D'ASSURANCE MALADIE, MATERNITE ET INVALIDITE (SOINS) DES MARINS EN ACTIVITE OU RETRAITES DU COMMERCE, DE LA PECHE ET DE LA PLAISANCE.
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)

@@ -1,6 +1,5 @@
 # 1949
 
-- [Décret n°49-1377 du 3 octobre 1949](decret-n49-1377-du-3-octobre-1949)
 - [Décret n°49-1378 du 3 octobre 1949](decret-n49-1378-du-3-octobre-1949)
 - [Décret n° 63-82 du 4 février 1963](decret-n-63-82-du-4-fevrier-1963)
 - [Décret n°49-1077 du 4 août 1949](decret-n49-1077-du-4-aout-1949)

@@ -1,7 +1,0 @@
-# CHAPITRE III - ALIMENTATION DU FONDS SPECIAL *RECETTES* - DISPOSITIONS CONCERNANT LA TAXE ET LA CONTRIBUTION INSTITUEES PAR L'ARTICLE 46 DE LA LOI N° 52-799 DU 10 JUILLET 1952.
-
-- [Article 26](article-26.md)
-- [Article 27](article-27.md)
-- [Article 28](article-28.md)
-- [Article 29](article-29.md)
-- [Article 30](article-30.md)

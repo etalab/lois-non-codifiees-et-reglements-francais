@@ -2,7 +2,6 @@
 
 - [Article 1](article-1.md)
 - [CHAPITRE 1 : COTISATIONS.](chapitre-1)
-- [Article 2](article-2.md)
 - [CHAPITRE 2 : ALLOCATIONS.](chapitre-2)
 - [CHAPITRE 3 : DISPOSITIONS DIVERSES.](chapitre-3)
 - [CHAPITRE 4 : EXONERATIONS](chapitre-4)

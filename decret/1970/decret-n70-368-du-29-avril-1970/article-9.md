@@ -1,3 +1,0 @@
-# Article 9
-
-Les sociétés et entreprises peuvent, en cas de force majeure ou de bonne foi dûment prouvées, formuler une demande en réduction des majorations de retard encourues en application de l'article 8. Cette requête ne peut être examinée qu'après le règlement de la totalité des contributions qui ont donné lieu à application desdites majorations. Elle doit être présentée, à peine d'irrecevabilité, dans les deux mois suivant la date dudit règlement [*délai*], devant la commission de première instance de la sécurité sociale [*juridiction compétente*], dans les conditions prévues à l'article 17. Toutefois, cette commission statue en dernier ressort, quel que soit le chiffre de la demande [*recours contentieux - sans appel*].

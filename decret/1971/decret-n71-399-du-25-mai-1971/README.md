@@ -1,8 +1,0 @@
-# Décret n°71-399 du 25 mai 1971 DETERMINANT LES MODALITES D'APPLICATION DE L'ARTICLE 32 DE LA LOI DE FINANCES POUR 1971 (N° 70-1199 DU 21 DECEMBRE 1970) RELATIF AU REGIME D'ASSURANCES MALADIE, MATERNITE ET INVALIDITE (SOINS) DU PERSONNEL DE LA SOCIETE NATIONALE DES CHEMINS DE FER FRANCAIS.
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)

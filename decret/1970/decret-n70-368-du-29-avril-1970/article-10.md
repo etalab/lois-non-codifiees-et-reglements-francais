@@ -1,7 +1,0 @@
-# Article 10
-
-En cas de rectification du chiffre d'affaires par l'administration fiscale susceptible de conduire à une modification du montant de la contribution sociale de solidarité, la société ou l'entreprise intéressée est tenue de porter cette rectification à la connaissance de l'organisme chargé du recouvrement et de procéder, s'il y a lieu, au versement du supplément de contribution dans le délai de trois mois à compter de la notification par l'administration fiscale du montant rectifié du chiffre d'affaires ou, en cas de contestation, à compter de la notification de la décision définitive [*déclaration de ressources inexacte*].
-
-En cas de fusion ou d'absorption de deux ou plusieurs sociétés ou entreprises, la société absorbante ou la nouvelle société résultant de la fusion est redevable, aux dates visées à l'article 6, de la contribution sociale de solidarité assise sur le chiffre d'affaires réalisé par toute société ou entreprise fusionnée ou absorbée durant l'année au cours de laquelle est intervenue cette opération [*assiette*].
-
-Le changement de forme juridique d'une société ou entreprise et toute autre modification de ses statuts de nature à entraîner une exonération de la contribution, restent sans effet sur son assujettissement à la contribution sociale de solidarité au titre du chiffre d'affaires réalisé jusqu'à la date de ce changement ou de cette modification.

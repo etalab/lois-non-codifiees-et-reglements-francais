@@ -1,3 +1,0 @@
-# Article 1
-
-Les prêts prévus à l'art. L. 534 du code de la sécurité sociale sont accordés par les caisses, organismes [*compétents*], collectivités et administrations chargés du payement des prestations familiales, en application des art. L. 559, L. 547 et L. 548 dudit code et de l'art. 1090 du code rural. Ces prêts ne peuvent être attribués qu'aux allocataires ayant la qualité de propriétaires, de locataires ou occupants de bonne foi des locaux qu'ils habitent [*bénéficiaires*]. Ils doivent être destinés à permettre l'exécution de travaux d'aménagement ou de réparations comportant une amélioration des conditions de logement.
