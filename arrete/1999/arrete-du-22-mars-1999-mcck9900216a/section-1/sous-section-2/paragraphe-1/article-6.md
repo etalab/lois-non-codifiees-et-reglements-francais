@@ -1,6 +1,6 @@
 # Article 6
 
-Pour les oeuvres cinématographiques de fiction ainsi que pour les oeuvres cinématographiques documentaires, il est établi un barème de 100 points. Ces points sont répartis entre sept groupes, dans les conditions suivantes :
+Pour les oeuvres cinématographiques de fiction, il est établi un barème de 100 points. Ces points sont répartis entre sept groupes, dans les conditions suivantes :
 
 I. - Groupe Entreprise de production .
 
