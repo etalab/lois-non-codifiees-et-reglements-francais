@@ -1,3 +1,5 @@
 # Article 3
 
-Les droits à congé administratif des agents visés par le présent arrêté sont fixés par l'article 5 de l'arrêté du 28 mars 1967 susvisé. Toutefois l'agent qui ne profite pas de tout ou partie de son congé administratif annuel ne peut cumuler le reliquat avec le congé des années suivantes que dans la limite de cent vingt jours.
+Les droits à congés administratifs des personnels visés par le présent arrêté sont fixés à quatre jours, quatre jours et demi ou cinq jours par mois de service à l'étranger selon le pays conformément au tableau figurant en annexe au présent arrêté.
+
+Tout agent qui ne profite pas de son congé annuel peut le cumuler avec celui des années suivantes dans la limite de quatre-vingt-dix jours.
