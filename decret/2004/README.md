@@ -4,6 +4,8 @@
 - [Décret n°2004-1055 du 1 octobre 2004 (MJSK0470189D)](decret-n2004-1055-du-1-octobre-2004-mjsk0470189d)
 - [Décret n°2004-925 du 1 septembre 2004 (SOCG0420015D)](decret-n2004-925-du-1-septembre-2004-socg0420015d)
 - [Décret n°2005-1094 du 1 septembre 2005 (INDI0505288D)](decret-n2005-1094-du-1-septembre-2005-indi0505288d)
+- [Décret n°2004-3 du 2 janvier 2004 (DEFM0302374D)](decret-n2004-3-du-2-janvier-2004-defm0302374d)
+- [Décret n°2004-4 du 2 janvier 2004 (DEFM0302373D)](decret-n2004-4-du-2-janvier-2004-defm0302373d)
 - [Décret n°2004-953 du 2 septembre 2004 (DEFP0400852D)](decret-n2004-953-du-2-septembre-2004-defp0400852d)
 - [Décret n°2005-919 du 2 août 2005 (SANH0520460D)](decret-n2005-919-du-2-aout-2005-sanh0520460d)
 - [Décret n°2005-924 du 2 août 2005 (SANH0520641D)](decret-n2005-924-du-2-aout-2005-sanh0520641d)
