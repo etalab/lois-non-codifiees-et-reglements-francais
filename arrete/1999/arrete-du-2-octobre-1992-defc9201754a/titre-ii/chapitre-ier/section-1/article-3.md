@@ -14,4 +14,6 @@ Sont soumises au régime de l'agrément préalable prévu par l'article 12 du d�
 
 - l'échange, la cession ou la communication à l'étranger d'études ou des résultats de ces études ou des résultats d'essais (y compris les prototypes) ainsi que des technologies de conception ou de fabrication directement associées à ces matériels.
 
+Lorsque cet agrément préalable revêt une forme globale, il couvre l'ensemble des opérations ci-dessus nécessaires à la réalisation d'un programme sans limite de quantité ni de montant.
+
 L'octroi d'un agrément préalable pour une des opérations visées ci-dessus ne fait pas obstacle à l'exercice, par l'autorité administrative, du droit de refuser l'autorisation d'exportation correspondante. Il ne préjuge pas l'octroi ou le refus d'un autre agrément préalable, même s'il s'agit de matériels identiques.

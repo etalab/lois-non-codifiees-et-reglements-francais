@@ -8,4 +8,4 @@ Lorsque le document prévu au paragraphe précédent n'a pu être obtenu, l'admi
 
 L'administration des douanes et droits indirects peut accorder une dispense d'acquit-à-caution ou de soumission pour les envois de faible importance.
 
-Les expéditions des matériels bénéficiant des dérogations prévues aux articles 13 à 16 sont dispensées des formalités prévues par le présent article.
+Sont dispensées des formalités prévues par le présent article les expéditions des matériels bénéficiant des dérogations prévues aux articles 13 à 16 ou bénéficiant d'une autorisation d'exportation revêtant une forme globale.
