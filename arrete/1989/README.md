@@ -221,7 +221,6 @@
 - [Arrêté du 11 décembre 1989 (SPSS8902642A)](arrete-du-11-decembre-1989-spss8902642a)
 - [Arrêté du 11 janvier 1989 (ECOC8800092A)](arrete-du-11-janvier-1989-ecoc8800092a)
 - [Arrêté du 11 janvier 1989 (ECOD8950002A)](arrete-du-11-janvier-1989-ecod8950002a)
-- [Arrêté du 11 janvier 1989 (JUSA8900001A)](arrete-du-11-janvier-1989-jusa8900001a)
 - [Arrêté du 11 juillet 1989 (ECOT8910051A)](arrete-du-11-juillet-1989-ecot8910051a)
 - [Arrêté du 11 juillet 1989 (ECOT8910052A)](arrete-du-11-juillet-1989-ecot8910052a)
 - [Arrêté du 11 juillet 1989 (EQUT8900688A)](arrete-du-11-juillet-1989-equt8900688a)
