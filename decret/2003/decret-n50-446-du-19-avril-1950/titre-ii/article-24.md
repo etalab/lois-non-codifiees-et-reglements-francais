@@ -1,4 +1,4 @@
-# Article 38
+# Article 24
 
 Peuvent seuls être nommés à l'emploi de ministre conseiller pour les affaires économiques et commerciales de 2e catégorie :
 
