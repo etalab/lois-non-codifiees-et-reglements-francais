@@ -2,7 +2,7 @@
 
 Le second concours interne et le second concours interne spécial sont ouverts :
 
-1° Aux agents titulaires et non titulaires de l'Etat, d'une collectivité territoriale ou d'un établissement public dépendant de l'Etat ou d'une collectivité territoriale et qui, à la date de clôture du registre d'inscriptions, justifient de trois années de services publics et de l'un des titres ou diplômes requis des candidats au concours externe ;
+1° Aux agents titulaires et non titulaires de l'Etat, d'une collectivité territoriale ou d'un établissement public dépendant de l'Etat ou d'une collectivité territoriale et aux militaires justifiant, à la date de clôture du registre d'inscription, de trois années de services publics et de l'un des titres ou diplômes requis des candidats au concours externe ;
 
 2° Aux élèves du cycle préparatoire organisé au sein des instituts universitaires de formation des maîtres dans les conditions prévues à l'article 17-7 ci-après ;
 

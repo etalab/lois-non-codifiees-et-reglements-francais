@@ -2,7 +2,7 @@
 
 Le concours interne donnant accès au corps des professeurs de lycée professionnel est ouvert :
 
-1. Aux fonctionnaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, aux militaires, aux enseignants non titulaires exerçant dans des établissements d'enseignement public relevant du ministre chargé de l'éducation ou assurant un enseignement du second degré dans les établissements scolaires français à l'étranger définis à l'article 2 du décret n° 93-1084 du 9 septembre 1993 relatif aux établissements scolaires français à l'étranger et remplissant l'une des trois conditions suivantes :
+1. Aux fonctionnaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, aux militaires, aux enseignants non titulaires exerçant dans des établissements d'enseignement publics relevant du ministre chargé de l'éducation ou assurant un enseignement du second degré dans les établissements scolaires français à l'étranger définis à l'article 2 du décret n° 93-1084 du 9 septembre 1993 relatif aux établissements scolaires français à l'étranger et remplissant l'une des trois conditions suivantes :
 
 - soit justifier d'un diplôme d'études universitaires générales ou d'un brevet de technicien supérieur, ou d'un diplôme universitaire de technologie, ou d'un titre ou diplôme de niveau égal ou supérieur et de trois années de services publics ou de services d'enseignement dans les établissements scolaires français à l'étranger ;
 

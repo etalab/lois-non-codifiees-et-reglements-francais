@@ -1,6 +1,6 @@
 # Article 5
 
-Les conseillers principaux d'éducation sont recrutés par un concours externe et un concours interne organisés dans les conditions suivantes :
+Les conseillers principaux d'éducation sont recrutés par un concours externe, un concours interne et un troisième concours organisés dans les conditions suivantes :
 
 1° Le concours externe est ouvert aux candidats justifiant de la possession de l'un des diplômes ou titres requis pour se présenter au certificat d'aptitude au professorat de l'enseignement du second degré ou au certificat d'aptitude au professorat de l'enseignement technique, ou encore d'un diplôme ou titre jugé équivalent par arrêté conjoint du ministre de l'éducation nationale et du ministre chargé de la fonction publique.
 
@@ -10,11 +10,11 @@ Les conseillers principaux d'éducation sont recrutés par un concours externe e
 
 - aux conseillers d'éducation, ainsi qu'aux personnels enseignants de catégorie A justifiant de trois années de services publics ;
 
-- aux personnels non titulaires exerçant des fonctions d'éducation dans les établissements d'enseignement public relevant du ministre chargé de l'éducation et justifiant de l'un des titres ou diplômes requis des candidats au concours externe et de trois années de services publics.
+- aux personnels non titulaires exerçant des fonctions d'éducation dans les établissements d'enseignement publics relevant du ministre chargé de l'éducation et justifiant de l'un des titres ou diplômes requis des candidats au concours externe et de trois années de services publics.
 
-Le nombre des places réservées aux candidats mentionnés au 2° du présent article ne peut être supérieur au tiers du nombre total des emplois mis aux deux concours prévus à cet article. Toutefois, les emplois mis à l'un des deux concours qui ne sont pas pourvus par la nomination de candidats de la catégorie correspondante peuvent être attribués aux candidats de l'autre concours dans la limite de 20 p. 100 des places mises au concours.
+3° Le troisième concours est ouvert aux candidats justifiant de l'exercice, pendant une durée de quatre ans au moins au cours des cinq années précédant la date de clôture des registres d'inscription audit concours, d'une ou de plusieurs des activités professionnelles mentionnées au 3° de l'article 19 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, dans le domaine de l'éducation ou de la formation et d'un titre ou diplôme sanction- nant un cycle d'études postsecondaires d'au moins trois années. A titre transitoire, les candidats titulaires d'un titre ou diplôme sanctionnant un cycle d'études postsecondaires d'au moins deux années pourront se présenter à ce concours jusqu'à la session 2004 de celui-ci.
 
-Pour une même session, les candidats ne peuvent s'inscrire qu'à l'un des deux concours externe ou interne.
+Le nombre des places réservées aux candidats mentionnés au 2° du présent article ne peut être supérieur au tiers du nombre total des emplois mis au concours externe et au concours interne. Le nombre des places offertes aux candidats mentionnés au 3° du présent article ne peut être supérieur à 10 % du nombre total des places offertes aux trois concours. Toutefois, les emplois mis aux concours qui ne sont pas pourvus par la nomination de candidats de la catégorie correspondante peuvent être attribués aux candidats des autres concours, dans la limite de 20 % du total des places mises à ces concours.
 
 Pour chaque concours, le jury établit par ordre de mérite la liste des candidats admis. Il peut établir une liste complémentaire. Le nombre des nominations de candidats inscrits sur la liste complémentaire ne peut excéder 30 p. 100 du nombre total des emplois offerts.
 
