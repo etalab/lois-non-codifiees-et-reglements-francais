@@ -1,3 +1,5 @@
 # Article 1
 
-Le montant des cotisations dues pour les assujettis à l'assurance maladie, invalidité et maternité des exploitants agricoles en vertu des dispositions du I (6.) de l'article 1106-1 du code rural est, selon que, lors de l'attribution de sa pension d'invalidité, l'assuré était chef d'exploitation, associé d'exploitation ou aide familial, égal à celui qui est applicable aux chefs d'exploitation, associés d'exploitation ou aides familiaux, dont l'exploitation se situe dans la catégorie de celles ayant le revenu cadastral le plus faible.
+Les assureurs débiteurs des pensions d'invalidité visées au B de l'article 1234-3 du code rural sont redevables des cotisations minimums fixées chaque année en application du IV de l'article 1003-7-1 du même code pour la couverture des prestations d'assurance maladie, invalidité et maternité ainsi que des dépenses complémentaires y afférentes.
+
+Si l'assuré était associé d'exploitation ou aide familial lors de l'attribution de la pension d'invalidité, il est fait application des dispositions du I de l'article 1106-6-1 du code rural.

@@ -2,7 +2,7 @@
 
 L'assemblée générale des délégués ou leurs représentants, dûment mandatés, des associations adhérentes à la fédération se réunit chaque année [*périodicité*].
 
-Chaque président, ou son représentant, d'association de moins de cinquante membres actifs siègent également avec voix délibérative. Les convocations sont adressées à chaque association au moins un mois à l'avance [*délai*].
+Les convocations sont adressées à chaque association au moins un mois à l'avance [*délai*].
 
 Les décisions sont prises à la majorité des membres présents, régulièrement convoqués.
 

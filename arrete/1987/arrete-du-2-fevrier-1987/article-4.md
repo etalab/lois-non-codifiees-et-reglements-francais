@@ -1,27 +1,27 @@
 # Article 4
 
-Le Conseil supérieur du mécénat culturel comprend un président, un vice-président, les présidents de commission et vingt membres nommés pour trois ans [*mandat - durée*].
+Le Conseil supérieur du mécénat culturel comprend un président, deux vice-présidents, les présidents de commission et vingt-deux membres nommés pour trois ans.
 
 Les membres du conseil sont :
 
-1° Un représentant de chacun des ministres suivants :
+1. Un représentant de chacun des ministres suivants :
 
 - ministre chargé de la culture ;
 
-- ministre chargé de la communication ;
-
 - ministre chargé de l'économie et des finances ;
 
-2° Trois personnes exerçant des responsabilités dans des entreprises culturelles ou de communication ;
+- ministre chargé de la communication ;
 
-3° Trois personnes exerçant des responsabilités dans des entreprises culturelles, commerciales, financières ou de services ;
+2. Trois personnes exerçant des responsabilités dans des entreprises culturelles ou de communication ;
 
-4° Cinq personnes qualifiées au titre d'associations de mécènes et de représentants de la presse spécialisée ;
+3. Cinq personnes exerçant des responsabilités dans des entreprises industrielles, commerciales, financières ou de services ;
 
-5° Trois créateurs ;
+4. Cinq personnalités qualifiées ;
 
-6° Trois élus choisis en raison de leur rôle dans la vie culturelle locale.
+5. Trois créateurs ;
 
-Les représentants du ministre chargé de la communication et du ministre chargé de l'économie et des finances sont nommés par arrêté du ministre chargé de la culture, sur proposition du ministre intéressé.
+6. Trois élus choisis en raison de leur rôle dans la vie culturelle locale.
 
-Le président, le vice-président, les présidents de commission et les autres membres ainsi qu'un délégué général sont nommés par arrêté du ministre chargé de la culture.
+Le représentant du ministre chargé de l'économie et des finances est nommé par arrêté du ministre chargé de la culture, sur proposition du ministre intéressé.
+
+Le président, les deux vice-présidents, les présidents des commissions et les autres membres ainsi que le délégué général sont nommés par arrêté du ministre chargé de la culture.
