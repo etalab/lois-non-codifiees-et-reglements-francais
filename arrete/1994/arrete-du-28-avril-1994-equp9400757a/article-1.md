@@ -1,0 +1,3 @@
+# Article 1
+
+Est autorisée la création, à la direction du personnel et des services du ministère de l'équipement, des transports et du tourisme, d'un traitement automatisé dénommé Palome, ayant pour finalité la gestion des demandes et des attributions des logements pour le personnel géré par la direction du personnel et des services en fonctions à l'administration centrale des ministères de l'équipement, des transports et du tourisme, de l'environnement et du logement, ou pour le personnel en fonctions dans les services du ministère de l'équipement, des transports et du tourisme implantés dans la région parisienne.
