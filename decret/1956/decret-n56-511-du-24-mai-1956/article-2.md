@@ -1,0 +1,3 @@
+# Article 2
+
+Par dérogation aux dispositions de l'article 1er ci-dessus, les départements, les communes de plus de 50000 habitants et les établissements publics hospitaliers de plus de 2000 lits qui, en application de l'article 137 du décret du 31 décembre 1946 n'étaient pas affiliés, à la date de publication du présent décret, à l'organisation générale de la sécurité sociale pour le service de la totalité des prestations et indemnités prévues par la loi du 30 octobre 1946 peuvent être autorisés à continuer d'assurer directement la réparation des accidents du travail et des maladies professionnelles en ce qui concerne ceux de leurs agents bénéficiaires de la loi du 30 octobre 1946, dans les conditions déterminées ci-après.
