@@ -68,4 +68,6 @@ IV.  3. Autres procédures devant la chambre de l'instruction
 
 (1) Y compris appels formés devant la chambre de l'instruction.
 
-La valeur de la lettre clé est fixée chaque année par arrêté conjoint du garde des sceaux et du ministre du budget. A compter de l'entrée en vigueur du présent décret et jusqu'au 1er mars  1994, la valeur de la lettre clé est fixée à 128 F.
+La valeur de la lettre clé est fixée chaque année par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre
+
+chargé du budget.
