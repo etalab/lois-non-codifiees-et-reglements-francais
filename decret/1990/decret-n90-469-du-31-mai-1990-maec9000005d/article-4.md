@@ -48,9 +48,11 @@ c) Les indemnités et avantages statutaires prévus par la réglementation en vi
 
 d) Aux éléments ci-dessus s'ajoutent :
 
-- l'indemnité de résidence calculée par référence au taux le plus élevé fixé par le décret du 24 octobre 1985 susvisé ;
+- l'indemnité de résidence calculée par référence au taux le plus élevé fixé par le décret du 24 octobre 1985 susvisé :
 
-- le supplément familial de traitement prévu par ce même décret.
+- l'avantage familial attribué en lieu et place des avantages familiaux accordés aux personnels en service en France. L'avantage familial est attribué quel que soit le lieu de résidence des enfants, déduction faite des avantages de même nature dont peut bénéficier l'agent, son conjoint, au titre des mêmes enfants et qui sont dus au titre de la législation ou de la réglementation française ou de tout accord communautaire ou international.
+
+Pour le calcul de l'avantage familial, il est fait application des dispositions relatives aux majorations familiales attribuées aux personnels expatriés dans les conditions fixées à l'article 4-1-A (d) du présent décret, après abattement de 60 % des coefficients prévus à l'arrêté du 21 août 1998 modifié fixant les coefficients servant au calcul des majorations familiales servies à l'étranger pour enfant à charge aux personnels expatriés des établissements d'enseignement à l'étranger.
 
 2. Eléments à la charge des établissements d'affectation définis à l'article 1er du présent décret
 
