@@ -7,6 +7,7 @@
 - [Décret n°46-659 du 11 avril 1946](decret-n46-659-du-11-avril-1946)
 - [Décret n°46-1428 du 12 juin 1946](decret-n46-1428-du-12-juin-1946)
 - [Décret n°46-1433 du 14 juin 1946](decret-n46-1433-du-14-juin-1946)
+- [Décret n°46-734 du 16 avril 1946](decret-n46-734-du-16-avril-1946)
 - [Décret n°46-1507 du 18 juin 1946](decret-n46-1507-du-18-juin-1946)
 - [Décret n°46-448 du 18 mars 1946](decret-n46-448-du-18-mars-1946)
 - [Décret n°45-0117 du 19 décembre 1945](decret-n45-0117-du-19-decembre-1945)
