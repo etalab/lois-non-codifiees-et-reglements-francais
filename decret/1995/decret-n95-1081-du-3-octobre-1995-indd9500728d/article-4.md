@@ -1,0 +1,3 @@
+# Article 4
+
+Sont réputés satisfaire aux dispositions du premier tiret de l'article 2 et de l'article 3 ci-dessus les matériels électriques conformes soit aux normes les concernant dont les références sont publiées au Journal officiel de la République française, et qui transposent les normes harmonisées, soit, en l'absence de normes harmonisées, aux dispositions en matière de sécurité promulguées par la commission internationale des réglementations en vue de l'approbation de l'équipement électrique (C.E.E. - él.) ou par la commission électrotechnique internationale (C.E.I.), soit, en l'absence de ces dispositions, aux normes françaises homologuées se rapportant à ces matériels.

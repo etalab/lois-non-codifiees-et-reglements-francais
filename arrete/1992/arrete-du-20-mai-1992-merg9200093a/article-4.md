@@ -4,4 +4,4 @@ Le programme de l'examen pour l'obtention du brevet de chef de quart est joint e
 
 Nota :
 
-(1) Le programme peut être obtenu à l'Ecole nationale de la marine marchande du Havre, 66, route du Cap, 76310 Sainte-Adresse.
+(1) Ce programme peut être obtenu en s'adressant à l'E.N.M.M. de Saint-Malo, 4, rue de la Victoire, 35402 Saint-Malo Cedex.
