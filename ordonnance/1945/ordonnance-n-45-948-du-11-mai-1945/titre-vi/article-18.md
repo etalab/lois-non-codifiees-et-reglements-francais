@@ -1,0 +1,3 @@
+# Article 18
+
+Sont abrogées toutes dispositions contraires à celles de la présente ordonnance, notamment l'ordonnance du 5 avril 1945 portant institution d'une prime d'accueil. Est constatée la nullité de l'acte dit loi du 19 août 1942 créant une indemnité dite de congé de libération en faveur des prisonniers de guerre rapatriés, du décret du 5 juillet 1940 portant création d'une prime de démobilisation en faveur des militaires français, et l'acte du décret du 12 août 1940 portant attribution d'une prime de démobilisation aux militaires étrangers servant à titre français et aux militaires indigènes Nord-Africains.
