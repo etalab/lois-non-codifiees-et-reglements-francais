@@ -80,7 +80,6 @@
 - [Décret n°82-797 du 10 septembre 1982](decret-n82-797-du-10-septembre-1982)
 - [Décret n°82-389 du 10 mai 1982](decret-n82-389-du-10-mai-1982)
 - [Décret n°82-390 du 10 mai 1982](decret-n82-390-du-10-mai-1982)
-- [Décret n°82-393 du 10 mai 1982](decret-n82-393-du-10-mai-1982)
 - [Décret n°82-164 du 11 février 1982](decret-n82-164-du-11-fevrier-1982)
 - [Décret n°82-498 du 11 juin 1982](decret-n82-498-du-11-juin-1982)
 - [Décret n°82-509 du 11 juin 1982](decret-n82-509-du-11-juin-1982)
