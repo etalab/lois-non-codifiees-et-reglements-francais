@@ -2,6 +2,7 @@
 
 - [Décret n°77-723 du 1 juillet 1977](decret-n77-723-du-1-juillet-1977)
 - [Décret n°78-527 du 3 avril 1978](decret-n78-527-du-3-avril-1978)
+- [Décret n°77-12 du 4 janvier 1977](decret-n77-12-du-4-janvier-1977)
 - [Décret n°77-203 du 4 mars 1977](decret-n77-203-du-4-mars-1977)
 - [Décret n°77-1352 du 5 décembre 1977](decret-n77-1352-du-5-decembre-1977)
 - [Décret n°77-1364 du 5 décembre 1977](decret-n77-1364-du-5-decembre-1977)
