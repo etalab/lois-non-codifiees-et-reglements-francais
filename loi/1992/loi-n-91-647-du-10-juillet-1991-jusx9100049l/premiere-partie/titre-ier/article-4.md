@@ -4,7 +4,7 @@ Le demandeur à l'aide juridictionnelle doit justifier que ses ressources mensue
 
 Ces plafonds sont affectés de correctifs pour charges de famille.
 
-A compter du 1er janvier 1993, ces plafonds sont fixés chaque année par la loi de finances en référence à l'évolution de la tranche la plus basse du barème de l'impôt sur le revenu.
+A compter du 1er janvier 1993, ces plafonds sont revalorisés chaque année comme la tranche la plus basse du barème de l'impôt sur le revenu [*cf. loi de finances n° 94-1162 du 29 décembre 1994, décret n° 94-1124 du 21 décembre 1994 et arrêté du 2 janvier 1995*].
 
 Les personnes bénéficiaires de l'allocation supplémentaire du Fonds national de solidarité ou du revenu minimum d'insertion sont dispensées de justifier de l'insuffisance de leurs ressources.
 

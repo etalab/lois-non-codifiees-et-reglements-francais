@@ -4,13 +4,13 @@ I - Les établissements industriels et commerciaux et les établissements public
 
 En outre, une redevance annuelle est perçue sur ceux desdits établissements qui, en raison de la nature ou du volume de leurs activités, font courir des risques particuliers à l'environnement et requièrent de ce fait des contrôles approfondis et périodiques.
 
-II - Le taux de la taxe unique est de 10 000 F pour les établissements dont une installation au moins est soumise à autorisation, de 2 000 F pour les artisants n'employant pas plus de deux salariés et de 4 800 F pour les autres entreprises inscrites au répertoire des métiers.
+II - Le taux de la taxe unique est de 12 000 F pour les établissements dont une installation au moins est soumise à autorisation, de 2 400 F pour les artisants n'employant pas plus de deux salariés et de 5 780 F pour les autres entreprises inscrites au répertoire des métiers.
 
 Le montant de la taxe est majoré de 10 p. 100 lorsque le paiement des sommes correspondantes n'est pas effectué dans les délais prescrits [*sanction*].
 
 III - Les établissements visés au deuxième alinéa du paragraphe I ci-dessus sont ceux dans lesquels sont exercées une ou plusieurs des activités figurant sur une liste établie par décret en Conseil d'Etat, après avis du conseil supérieur des installations classées.
 
-Le taux de base de ladite redevance est fixée à 1.500 F.
+Le taux de base de ladite redevance est fixée à 1 800 F.
 
 Le décret prévu ci-dessus fixe, pour chacune des activités retenues en fonction de sa nature et de son importance, un coefficient multiplicateur compris entre 1 et 10. Le montant de la redevance effectivement perçue par établissement au titre de chacune de ces activités est égal au produit du taux de base et du coefficient multiplicateur.
 
