@@ -1,3 +1,3 @@
 # Article 30
 
-Le montant de la garantie financière qui résulte d'un engagement de caution pris par une banque ou par un organisme de garantie collective ou d'une consignation déposée à la caisse des dépôts et consignations doit être au moins égal à la somme de 500.000 francs.
+Le montant de la garantie financière qui résulte soit d'un cautionnement déposé à la Caisse des dépôts et consignations, soit d'une caution écrite fournie par une entreprise d'assurance ou par un établissement de crédit, doit être au moins égal à la somme de 750 000 F.

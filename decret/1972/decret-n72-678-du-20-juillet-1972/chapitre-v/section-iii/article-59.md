@@ -1,6 +1,6 @@
 # Article 59
 
-Lorsque la garantie résulte d'une consignation, la personne qui est titulaire de la carte professionnelle "transactions sur immeubles et fonds de commerce" est tenue de faire ouvrir un compte spécial à rubriques qui est exclusivement affecté à la réception des versements et remises visés à l'article 5 de la loi susvisée du 2 janvier 1970. Ce compte est ouvert dans une banque ou à la caisse des dépôts et consignations. Les versements et remises reçus par le titulaire de la carte à l'occasion des opérations visées à l'article 1er (1° à 5°) de la loi sont obligatoirement déposés à ce compte dans les conditions suivantes.
+Lorsque la garantie résulte d'une consignation, la personne qui est titulaire de la carte professionnelle "transactions sur immeubles et fonds de commerce" est tenue de faire ouvrir un compte spécial à rubriques qui est exclusivement affecté à la réception des versements et remises visés à l'article 5 de la loi susvisée du 2 janvier 1970. Ce compte est ouvert dans un établissement de crédit ou à la caisse des dépôts et consignations. Les versements et remises reçus par le titulaire de la carte à l'occasion des opérations visées à l'article 1er (1° à 5° et 7°) de la loi sont obligatoirement déposés à ce compte dans les conditions suivantes.
 
 Les versements sont obligatoirement faits au moyen, soit de chèques à l'ordre de l'établissement ou le compte est ouvert et barrés, soit par virement de banque, soit par mandats ou virements postaux à l'ordre dudit établissement.
 

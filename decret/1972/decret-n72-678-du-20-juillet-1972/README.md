@@ -6,6 +6,7 @@
 - [Chapitre IV : Assurance de la responsabilité civile professionnelle.](chapitre-iv)
 - [Chapitre V : Obligations particulières en cas de réception, détention ou disposition de fonds, effets ou valeurs par les intermédiaires](chapitre-v)
 - [Chapitre VI : Dispositions particulières à la gestion immobilière.](chapitre-vi)
+- [Chapitre VII : Les conventions prévues par l'article 6 de la loi du 2 janvier 1970 susvisée](chapitre-vii)
 - [Chapitre VIII : Renouvellement des cartes professionnelles et contrôle.](chapitre-viii)
 - [Chapitre IX : Dispositions transitoires.](chapitre-ix)
 - [Chapitre X : Dispositions diverses.](chapitre-x)

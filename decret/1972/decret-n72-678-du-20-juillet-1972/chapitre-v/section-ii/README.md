@@ -1,4 +1,4 @@
-# Section II : Obligations concernant les intermédiaires garantis par une société de caution mutuelle, une entreprise d'assurance, une banque ou un établissement financier.
+# Section II : Obligations concernant les intermédiaires garantis par un établissement de crédit ou par une entreprise d'assurance.
 
 - [Article 55](article-55.md)
 - [Article 56](article-56.md)

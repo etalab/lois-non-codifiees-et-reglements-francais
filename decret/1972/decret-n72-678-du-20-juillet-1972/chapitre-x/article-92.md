@@ -8,4 +8,4 @@ Le nom ou la raison sociale et l'adresse de l'entreprise ainsi que l'activité e
 
 Le nom et l'adresse du garant.
 
-Ces indications ne doivent être accompagnées d'aucune mention de nature à faire croire, d'une quelconque manière, à une assermentation, à une inscription, à une commission, à un accréditement, à un agrément ou à une habilitation.
+Ces indications ne doivent être accompagnées d'aucune mention de nature à faire croire, d'une quelconque manière, à une assermentation, à une inscription, à une commission, à un accréditement ou à un agrément.

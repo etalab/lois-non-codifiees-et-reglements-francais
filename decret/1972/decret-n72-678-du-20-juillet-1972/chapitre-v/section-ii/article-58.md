@@ -1,6 +1,6 @@
 # Article 58
 
-Dès la notification de la cessation de la garantie à l'établissement bancaire qui tient le compte, il ne peut être procédé à des retraits qu'avec l'accord du garant.
+Dès la notification de la cessation de la garantie à l'établissement de crédit qui tient le compte, il ne peut être procédé à des retraits qu'avec l'accord du garant.
 
 Si le titulaire du compte refuse d'effectuer un retrait, la désignation d'un administrateur provisoire peut être demandée au président du tribunal de grande instance statuant en référé.
 
