@@ -1,6 +1,6 @@
 # Article 5
 
-I. - Pour bénéficier des aides d'investissement prévues au paragraphe I (1° et 2°, a) de l'article 1er du présent décret, les entreprises de production doivent obtenir une décision délivrée par le ministre chargé de la culture après avis de commissions spécialisées.
+I. - Pour bénéficier des aides d'investissement prévues au paragraphe I (1° et 2°, a) de l'article 1er du présent décret, les entreprises de production doivent obtenir une décision délivrée par le directeur général du Centre national de la cinématographie après avis de commissions spécialisées.
 
 1° Une commission spécialisée est chargée de donner un avis sur les demandes d'aides à la production et à la préparation des oeuvres appartenant aux genres fiction, à l'exclusion des sketches, animation, documentaire de création et à la production des oeuvres appartenant au genre magazine.
 
