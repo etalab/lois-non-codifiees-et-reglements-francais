@@ -2,4 +2,5 @@
 
 - [CHAPITRE Ier : Nature et programme des épreuves des concours.](chapitre-ier)
 - [CHAPITRE II : Organisation des concours.](chapitre-ii)
+- [Article 10](article-10.md)
 - [Annexes](annexes)
