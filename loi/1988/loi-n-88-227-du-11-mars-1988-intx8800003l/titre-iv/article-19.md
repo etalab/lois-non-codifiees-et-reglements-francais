@@ -1,3 +1,3 @@
 # Article 19
 
-Les dispositions de la présente loi sont applicables aux territoires d'outre-mer et à la collectivité territoriale de Mayotte.
+La présente loi est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis-et-Futuna et à Mayotte.

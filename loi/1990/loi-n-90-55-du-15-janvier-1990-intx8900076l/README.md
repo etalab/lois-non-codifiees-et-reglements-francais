@@ -2,4 +2,4 @@
 
 - [Titre Ier : Dispositions relatives au financement et au plafonnement des dépenses électorales.](titre-ier)
 - [Titre IV : Dispositions diverses.](titre-iv)
-- [TITRE V : Dispositions relatives aux territoires d'outre-mer et à la collectivité territoriale de Mayotte](titre-v)
+- [Titre V : Dispositions relatives à l'outre-mer.](titre-v)
