@@ -158,7 +158,6 @@
 - [Arrêté du 5 novembre 1992 (EQUS9201450A)](arrete-du-5-novembre-1992-equs9201450a)
 - [Arrêté du 5 novembre 1993 (BUDD9370027A)](arrete-du-5-novembre-1993-budd9370027a)
 - [Arrêté du 5 novembre 1993 (LOGC9300081A)](arrete-du-5-novembre-1993-logc9300081a)
-- [Arrêté du 5 mai 1993 (BUDD9370008A)](arrete-du-5-mai-1993-budd9370008a)
 - [Arrêté du 5 mai 1993 (EQUA9300724A)](arrete-du-5-mai-1993-equa9300724a)
 - [Arrêté du 5 mai 1993 (MENE9305099A)](arrete-du-5-mai-1993-mene9305099a)
 - [Arrêté du 6 août 1993 (LOGC9300043A)](arrete-du-6-aout-1993-logc9300043a)
