@@ -1,3 +1,7 @@
 # Article 5
 
-Le ministre de l'économie, des finances et du Plan, le ministre de l'éducation nationale, de l'enseignement supérieur, de la recherche et de l'insertion professionnelle, le ministre de l'aménagement du territoire, de l'équipement et des transports, le ministre de l'intérieur, le ministre de la réforme de l'Etat, de la décentralisation et de la citoyenneté, le ministre de l'outre-mer, le secrétaire d'Etat au budget, le secrétaire d'Etat à l'enseignement supérieur et le secrétaire d'Etat au développement rural sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+Lors des séances au cours desquelles il est procédé à un vote, la conférence régionale de l'aménagement et du développement du territoire siège valablement dès lors que plus de la moitié de ses membres sont présents ou représentés. Tout membre peut recevoir un pouvoir et un seul d'un membre absent.
+
+Si le quorum n'est pas atteint, une nouvelle séance se tient dans les quinze jours au cours de laquelle la conférence régionale peut délibérer quel que soit le nombre des participants.
+
+Le préfet de région et le président du conseil régional assurent conjointement la publicité des avis formulés.
