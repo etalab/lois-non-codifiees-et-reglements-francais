@@ -1,7 +1,9 @@
 # 1996
 
+- [Décret n°96-8 du 2 janvier 1996 (MAEJ9530115D)](decret-n96-8-du-2-janvier-1996-maej9530115d)
 - [Décret n°96-2 du 3 janvier 1996 (DOMP9500050D)](decret-n96-2-du-3-janvier-1996-domp9500050d)
 - [Décret n°96-4 du 3 janvier 1996 (ECOT9610258D)](decret-n96-4-du-3-janvier-1996-ecot9610258d)
+- [Décret n°96-6 du 5 janvier 1996 (PRMX9500187D)](decret-n96-6-du-5-janvier-1996-prmx9500187d)
 - [Décret n°95-911 du 7 août 1995 (AGRA9501096D)](decret-n95-911-du-7-aout-1995-agra9501096d)
 - [Décret n°96-527 du 7 juin 1996 (AGRA9600841D)](decret-n96-527-du-7-juin-1996-agra9600841d)
 - [Décret n°96-976 du 7 novembre 1996 (INTC9600275D)](decret-n96-976-du-7-novembre-1996-intc9600275d)

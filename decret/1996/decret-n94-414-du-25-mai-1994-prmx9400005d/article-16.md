@@ -1,0 +1,5 @@
+# Article 16
+
+Les chargés de mission contractuels à durée indéterminée hors échelle ou de niveau I et les chargés de mission contractuels à durée déterminée de niveau A du Commissariat général du Plan, employés au Centre d'étude des revenus et des coûts à la date du 1er janvier 1994, sont rattachés à l'Institut national de la statistique et des études économiques et gérés par celui-ci. Ils exercent des fonctions d'étude correspondant à leurs qualifications au sein de l'Institut national de la statistique et des études économiques ou, sur décision du directeur général de celui-ci, auprès d'autres services d'études et de statistique des ministères chargés du travail et des affaires sociales.
+
+Les autres agents du Commissariat général du Plan employés au Centre d'étude des revenus et des coûts à la date du 1er janvier 1994 peuvent exercer, dans les services d'études et de statistique des ministères chargés du travail et des affaires sociales, des fonctions correspondant à leurs qualifications, sur décision du commissaire au Plan.
