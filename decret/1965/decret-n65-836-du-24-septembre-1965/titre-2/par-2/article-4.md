@@ -14,7 +14,9 @@ I - Les services pris en compte dans la constitution du droit à pension sont :
 
 6° Les services rendus jusqu'à la date de l'indépendance ou du transfert de souveraineté ou jusqu'à la date de leur réintégration dans les cadres métropolitains, dans les cadres des administrations de l'Algérie et des anciens pays et territoires d'outre-mer, anciens protectorats et territoires sous tutelle. Un décret déterminera les modalités de prise en compte de ces services.
 
-II - Le temps passé dans toute position ne comportant pas l'accomplissement de services effectifs ne peut entrer en compte dans la constitution du droit à pension, sauf dans les cas exceptionnels prévus par des dispositions législatives ou réglementaires.
+7° Les périodes de versement de l'indemnité de soins aux tuberculeux définies à l'article L. 161-21 du code de la sécurité sociale dans la limite de neuf ans et dans les conditions fixées par décret.
+
+II - Sauf les positions de congé fixées par décret, Le temps passé dans toute position ne comportant pas l'accomplissement de services effectifs ne peut entrer en compte dans la constitution du droit à pension. Lorsqu'il en est disposé autrement, le temps passé dans toute position ne comportant pas l'accomplissement de services effectifs n'est pris en compte que dans la limite maximum de cinq ans et sous réserve que les bénéficiaires subissent pendant ces périodes et sur leurs derniers émoluments d'activité les retenues prescrites au I de l'article 28 du présent décret.
 
 III - a) Pour les intéressés rémunérés par un salaire national, la durée des services effectifs se décompte d'après le temps d'immatriculation ;
 
