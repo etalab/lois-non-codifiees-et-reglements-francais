@@ -54,6 +54,7 @@
 - [Arrêté du 27 août 1971](arrete-du-27-aout-1971)
 - [Arrêté du 27 avril 1972](arrete-du-27-avril-1972)
 - [Arrêté du 27 septembre 1972](arrete-du-27-septembre-1972)
+- [Arrêté du 28 décembre 1972](arrete-du-28-decembre-1972)
 - [Arrêté du 28 juin 1972](arrete-du-28-juin-1972)
 - [Arrêté du 29 août 1972](arrete-du-29-aout-1972)
 - [Arrêté du 29 juin 1972](arrete-du-29-juin-1972)
