@@ -7,6 +7,7 @@
 - [Décret n°75-903 du 3 octobre 1975](decret-n75-903-du-3-octobre-1975)
 - [Décret n°76-1168 du 3 décembre 1976](decret-n76-1168-du-3-decembre-1976)
 - [Décret n° 77-33 du 4 janvier 1977](decret-n-77-33-du-4-janvier-1977)
+- [Décret n°76-225 du 4 mars 1976](decret-n76-225-du-4-mars-1976)
 - [Décret n°77-32 du 4 janvier 1977](decret-n77-32-du-4-janvier-1977)
 - [Décret n°75-1122 du 5 décembre 1975](decret-n75-1122-du-5-decembre-1975)
 - [Décret n°76-1001 du 5 novembre 1976](decret-n76-1001-du-5-novembre-1976)
