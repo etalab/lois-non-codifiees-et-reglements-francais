@@ -1,0 +1,5 @@
+# Article 3
+
+La caisse nationale de l'assurance maladie des travailleurs salariés notifie le montant total de sa créance à l'agence centrale des organismes de sécurité sociale en distinguant la part imputable aux sections concernées du fonds national des prestations familiales et la part imputable au régime des exploitants agricoles.
+
+Une notification identique est adressée à la caisse nationale des allocations familiales pour la part des cotisations qui sont mises à sa charge. L'agence centrale des organismes de sécurité sociale réalise le transfert des sommes correspondantes en créditant dans ses écritures le compte de la caisse nationale de l'assurance maladie des travailleurs salariés par le débit du compte de la caisse nationale des allocations familiales ainsi que par le débit du régime des exploitants agricoles. Elle procède, d'autre part, au recouvrement auprès du budget annexe des prestations sociales agricoles des cotisations afférentes aux prestations liquidées par les organismes de mutualité sociale agricole au titre du régime d'allocations familiales des exploitants agricoles.
