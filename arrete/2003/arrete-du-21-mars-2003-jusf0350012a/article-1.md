@@ -1,0 +1,3 @@
+# Article 1
+
+En application du III de l'article 20 du décret du 31 janvier 2002 susvisé, sont délégués aux directeurs régionaux de la protection judiciaire de la jeunesse et au directeur général du Centre national de formation et d'études de la protection judiciaire de la jeunesse tous les actes liés à l'organisation des recrutements externes sans concours d'agents administratifs et d'agents spécialistes de la protection judiciaire de la jeunesse, à l'exception de la détermination du nombre d'emplois à pourvoir, de la nomination et de la titularisation des candidats déclarés aptes à l'issue de ces recrutements.
