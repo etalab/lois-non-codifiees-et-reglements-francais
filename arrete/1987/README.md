@@ -430,7 +430,6 @@
 - [Arrêté du 18 décembre 1986 (ASES8700006A)](arrete-du-18-decembre-1986-ases8700006a)
 - [Arrêté du 18 décembre 1987 (ASES8701035A)](arrete-du-18-decembre-1987-ases8701035a)
 - [Arrêté du 18 décembre 1987 (ASES8701036A)](arrete-du-18-decembre-1987-ases8701036a)
-- [Arrêté du 18 décembre 1987 (MERE8700177A)](arrete-du-18-decembre-1987-mere8700177a)
 - [Arrêté du 18 février 1987](arrete-du-18-fevrier-1987)
 - [Arrêté du 18 février 1987 (ECOP8700085A)](arrete-du-18-fevrier-1987-ecop8700085a)
 - [Arrêté du 18 février 1987 (ECOT8716001A)](arrete-du-18-fevrier-1987-ecot8716001a)
