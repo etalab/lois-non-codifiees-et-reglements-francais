@@ -1,6 +1,6 @@
 # Article 4
 
-Pour l'exécution de ses missions, qu'il exerce en liaison avec les organismes de recherche et de développement technologique ainsi qu'avec les administrations intéressées, l'institut est chargé :
+Pour l'exécution de ses missions, qu'il exerce en liaison avec les organismes de recherche et de développement technologique, les établissements d'enseignement supérieur et les administrations intéressées, l'institut est chargé :
 
 1° De proposer au Gouvernement des programmes de recherche ou de développement et de les exécuter soit par ses moyens propres, soit par contrats ;
 
@@ -16,7 +16,7 @@ Pour l'exécution de ses missions, qu'il exerce en liaison avec les organismes d
 
 7° D'apporter son concours à la formation, à la recherche et par la recherche ;
 
-8° De participer aux activités des organismes internationaux de recherche et d'aménagement des ressources et du milieu marin ;
+8° De participer à la recherche européenne, et notamment aux programmes de la Communauté européenne, ainsi qu'aux activités des organismes internationaux de recherche et d'aménagement des ressources et du milieu marin et côtier ;
 
 9° De passer des conventions de coopération internationale en faveur du développement avec d'autres organismes exerçant des activités comparables.
 

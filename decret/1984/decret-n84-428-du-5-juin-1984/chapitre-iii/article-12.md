@@ -1,12 +1,12 @@
 # Article 12
 
-Il est créé un comité dont la compétence s'étend au domaine des ressources vivantes. Le comité des ressources vivantes est présidé par le président de l'institut ou son représentant.
+Il est créé un comité dont la compétence s'étend au domaine des ressources vivantes.
 
 Ce comité comprend :
 
-1° Un représentant de chacun des ministres exerçant la tutelle de l'institut ainsi que du ministre chargé de l'environnement et du ministre chargé de l'agriculture ;
+1° Un représentant de chacun des ministres exerçant la tutelle de l'institut ;
 
-2° Quinze membres nommés par arrêté du ministre chargé des pêches maritimes et des cultures marines sur proposition des organisations professionnelles nationales des pêches maritimes, des cultures marines et des industries connexes, pour une durée de cinq ans renouvelable ;
+2° Douze membres, dont le président, nommés par arrêté du ministre chargé des pêches maritimes et des cultures marines sur proposition des organisations professionnelles nationales des pêches maritimes, des cultures marines et des industries connexes, pour une durée de cinq ans renouvelable ;
 
 3° Trois membres élus par les personnels de l'institut, pour une durée de cinq ans renouvelable selon des modalités fixées par arrêté conjoint des ministres exerçant la tutelle de l'institut.
 
