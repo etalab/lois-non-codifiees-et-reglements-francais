@@ -1,3 +1,3 @@
 # Région BOURGOGNE
 
-- [Population totale : 1.571.163 habitants](population-totale)
+- [Population totale : 1.596.054](population-totale)

@@ -1,187 +1,103 @@
-# Article Annexe
+# Article ANNEXE
 
-<table>
-<tr>
-<td>:==================================================================</td>
-</tr>
-<tr>
-<td> :                   A                   :     B     :  C : D :  E :</td>
-</tr>
-<tr>
-<td> :---------------------------------------:-----------:----:---:----:</td>
-</tr>
-<tr>
-<td> : COTES-DU-NORD                         :   525.556 :  7 : 1 :  8 :</td>
-</tr>
-<tr>
-<td> :  Saint-Brieuc                         :    52.243 :    :   :    :</td>
-</tr>
-<tr>
-<td> :                                       :           :    :   :    :</td>
-</tr>
-<tr>
-<td> : FINISTERE                             :   804.088 : 12 :   : 12 :</td>
-</tr>
-<tr>
-<td> :  Quimper                              :    54.597 :    :   :    :</td>
-</tr>
-<tr>
-<td> :  Brest                                :   166.558 :    :   :    :</td>
-</tr>
-<tr>
-<td> :  Communauté urbaine de Brest          :   206.287 :    :   :    :</td>
-</tr>
-<tr>
-<td> :                                       :           :    :   :    :</td>
-</tr>
-<tr>
-<td> : ILLE-ET-VILAINE                       :   702.199 : 10 : 1 : 11 :</td>
-</tr>
-<tr>
-<td> :  Rennes                               :   195.785 :    :   :    :</td>
-</tr>
-<tr>
-<td> :  Saint-Malo                           :    44.783 :    :   :    :</td>
-</tr>
-<tr>
-<td> :                                       :           :    :   :    :</td>
-</tr>
-<tr>
-<td> : MORBIHAN                              :   563.588 :  8 :   :  8 :</td>
-</tr>
-<tr>
-<td> :  Vannes                               :    39.664 :    :   :    :</td>
-</tr>
-<tr>
-<td> :  Lorient                              :    69.701 :    :   :    :</td>
-</tr>
-<tr>
-<td> :=======================================:===========:====:===:====:</td>
-</tr>
-</table>
+Composition du conseil.
 
-===================================================================
+Parlementaires ...                                  39
 
-<table>
-<tr>
-<td> :                                              :   SIEGES   :     :</td>
-</tr>
-<tr>
-<td> :----------------------------------------------:------------:-----:</td>
-</tr>
-<tr>
-<td> :                 A            :      B        : F : G :  H :  I  :</td>
-</tr>
-<tr>
-<td> :----------------------------------------------:---:---:----:-----:</td>
-</tr>
-<tr>
-<td> : COTES-DU-NORD                :   525.556     :   :   :  7 :   8 :</td>
-</tr>
-<tr>
-<td> :  Saint-Brieuc                :    52.243     : 1 :   :    :     :</td>
-</tr>
-<tr>
-<td> :                              :               :   :   :    :     :</td>
-</tr>
-<tr>
-<td> : FINISTERE                    :   804.088     :   :   :  8 :  12 :</td>
-</tr>
-<tr>
-<td> :  Quimper                     :    54.597     : 1 :   :    :     :</td>
-</tr>
-<tr>
-<td> :  Brest                       :   166.558     : 1 :   :    :     :</td>
-</tr>
-<tr>
-<td> :  Communauté urbaine de Brest :   206.287     :   : 2 :    :     :</td>
-</tr>
-<tr>
-<td> :                              :               :   :   :    :     :</td>
-</tr>
-<tr>
-<td> : ILLE-ET-VILAINE              :   702.199     :   :   :  8 :  11 :</td>
-</tr>
-<tr>
-<td> :  Rennes                      :   195.785     : 2 :   :    :     :</td>
-</tr>
-<tr>
-<td> :  Saint-Malo                  :    44.783     : 1 :   :    :     :</td>
-</tr>
-<tr>
-<td> :                              :               :   :   :    :     :</td>
-</tr>
-<tr>
-<td> : MORBIHAN                     :   563.588     :   :   :  6 :   8 :</td>
-</tr>
-<tr>
-<td> :  Vannes                      :    39.664     : 1 :   :    :     :</td>
-</tr>
-<tr>
-<td> :  Lorient                     :    69.701     : 1 :   :    :     :</td>
-</tr>
-<tr>
-<td> :=================================================================:</td>
-</tr>
-</table>
+Représentants élus par les conseils généraux ...    29
 
-------------------------------------------------------------------- : A   :  B   :  C   :  D   :  E   :   F     :   G    :  H  :  I   :
+Représentants élus par les conseils municipaux ...   8
 
-<table>
-<tr>
-<td> :-----------------------------------------------------------------:</td>
-</tr>
-<tr>
-<td> : Composition du conseil régional.                         :      :</td>
-</tr>
-<tr>
-<td> :                                                          :      :</td>
-</tr>
-<tr>
-<td> : Parlementaires                                  39       :  39  :</td>
-</tr>
-<tr>
-<td> : Représentants élus par les conseils généraux    29       :      :</td>
-</tr>
-<tr>
-<td> : Représentants élus par les conseils municipaux   8       :      :</td>
-</tr>
-<tr>
-<td> : Représentants élus par les communautés urbaines  2       :      :</td>
-</tr>
-<tr>
-<td> :                                                -----     : ---- :</td>
-</tr>
-<tr>
-<td> :                                                 78       :  78  :</td>
-</tr>
-<tr>
-<td> :          Effectif du conseil                             :      :</td>
-</tr>
-</table>
+Représentants élus par les communautés urbaines ...  2
 
-===================================================================
+--
 
-(A) Départements.
+Effectif du conseil ...              78
 
-Communes.
+Département : Côtes-du-Nord
 
-Communautés urbaines.
+. Population INSEE 1982              538.869
 
-(B) Population (base INSEE 1975) :
+. Sièges par attribution directe                     7
 
-Population municipale.
+. Sièges par répartition des restes                  1
 
-(C) Sièges par attribution directe.
+--
 
-(D) Sièges par répartition des restes.
+Total           8
 
-(E) Total des deux colonnes précédentes.
+. Sièges attribués aux communes :
 
-(F) Communes.
+Saint-Brieuc (population INSEE 48.454)            1
 
-(G) Communautés urbaines.
+. Sièges attribués aux conseils généraux :           7
 
-(H) Conseils généraux.
+Total des sièges du département     8
 
-(I) Total des sièges de la région.
+Département : Finistère
+
+. Population INSEE 1982              828.364
+
+. Sièges par attribution directe                    11
+
+. Sièges par répartition des restes                  1
+
+--
+
+Total          12
+
+. Sièges attribués aux communes :
+
+Quimper (population INSEE 55.636)                 1
+
+Brest (population INSEE 155.775)                  1
+
+. Sièges attribués à la communauté urbaine
+
+de Brest (population INSEE 207.085)               2    . Sièges attribués aux conseils généraux :           8
+
+Total des sièges du département    12
+
+Département : Ille-et-Vilaine
+
+. Population INSEE 1982              749.764
+
+. Sièges par attribution directe                    10
+
+. Sièges par répartition des restes                  1
+
+--
+
+Total          11
+
+. Sièges attribués aux communes :
+
+Rennes (population INSEE 192.074)                 2
+
+Saint-Malo (population INSEE 46.111)              1
+
+. Sièges attribués aux conseils généraux :           8
+
+Total des sièges du département    11
+
+Département : Morbihan
+
+. Population INSEE 1982              590.889
+
+. Sièges par attribution directe                     8
+
+. Sièges par répartition des restes                  -
+
+--
+
+Total           8
+
+. Sièges attribués aux communes :
+
+Vannes (population INSEE 41.100)                  1
+
+Lorient (population INSEE 62.348)                 1
+
+. Sièges attribués aux conseils généraux :           6
+
+Total des sièges du département     8

@@ -1,237 +1,175 @@
-# Article Annexe
+# Article ANNEXE
 
-===================================================================
+Composition du conseil.
 
-<table>
-<tr>
-<td> :       A                        :     B        :  C  :  D  :  E  :</td>
-</tr>
-<tr>
-<td> :--------------------------------:--------------:-----:-----:-----:</td>
-</tr>
-<tr>
-<td> : ARIEGE                         :   137.857    :  2  :     :  2  :</td>
-</tr>
-<tr>
-<td> :  Foix                          :     9.569    :     :     :     :</td>
-</tr>
-<tr>
-<td> :                                :              :     :     :     :</td>
-</tr>
-<tr>
-<td> : AVEYRON                        :   278.306    :  4  :  1  :  5  :</td>
-</tr>
-<tr>
-<td> :  Rodez                         :    25.422    :     :     :     :</td>
-</tr>
-<tr>
-<td> :                                :              :     :     :     :</td>
-</tr>
-<tr>
-<td> : HAUTE-GARONNE                  :   777.431    : 13  :     : 13  :</td>
-</tr>
-<tr>
-<td> :  Toulouse                      :   372.159    :     :     :     :</td>
-</tr>
-<tr>
-<td> :                                :              :     :     :     :</td>
-</tr>
-<tr>
-<td> : GERS                           :   175.366    :  2  :  1  :  3  :</td>
-</tr>
-<tr>
-<td> :  Auch                          :    22.564    :     :     :     :</td>
-</tr>
-<tr>
-<td> :                                :              :     :     :     :</td>
-</tr>
-<tr>
-<td> : LOT                            :   150.725    :  2  :     :  2  :</td>
-</tr>
-<tr>
-<td> :  Cahors                        :    20.179    :     :     :     :</td>
-</tr>
-<tr>
-<td> :                                :              :     :     :     :</td>
-</tr>
-<tr>
-<td> : HAUTES-PYRENEES                :   227.222    :  3  :  1  :  4  :</td>
-</tr>
-<tr>
-<td> :  Tarbes                        :    54.837    :     :     :     :</td>
-</tr>
-<tr>
-<td> :                                :              :     :     :     :</td>
-</tr>
-<tr>
-<td> : TARN                           :   338.024    :     :     :     :</td>
-</tr>
-<tr>
-<td> :  Albi                          :    45.291    :     :     :     :</td>
-</tr>
-<tr>
-<td> :  Castres                       :              :     :     :     :</td>
-</tr>
-<tr>
-<td> :                                :              :     :     :     :</td>
-</tr>
-<tr>
-<td> : TARN-ET-GARONNE                :   183.314    :  3  :     :  3  :</td>
-</tr>
-<tr>
-<td> :  Montauban                     :    47.457    :     :     :     :</td>
-</tr>
-</table>
+Parlementaires                                      38
 
-================================================================================================================================
+Représentants élus par les conseils généraux        33
 
-<table>
-<tr>
-<td> :                                 :    SIEGES       :       :</td>
-</tr>
-<tr>
-<td> :       A          :     B        :  F  :  G  :  H  :   I   :</td>
-</tr>
-<tr>
-<td> :------------------:--------------:-----:-----:-----:-------:</td>
-</tr>
-<tr>
-<td> : ARIEGE           :   137.857    :     :     :  3  :   4   :</td>
-</tr>
-<tr>
-<td> :  Foix            :     9.569    :  1  :     :     :       :</td>
-</tr>
-<tr>
-<td> :                  :              :     :     :     :       :</td>
-</tr>
-<tr>
-<td> : AVEYRON          :   278.306    :     :     :  4  :   5   :</td>
-</tr>
-<tr>
-<td> :  Rodez           :    25.422    :  1  :     :     :       :</td>
-</tr>
-<tr>
-<td> :                                 :     :     :     :       :</td>
-</tr>
-<tr>
-<td> : HAUTE-GARONNE    :   777.431    :     :     : 10  :  13   :</td>
-</tr>
-<tr>
-<td> :  Toulouse        :   372.159    :  3  :     :     :       :</td>
-</tr>
-<tr>
-<td> :                  :              :     :     :     :       :</td>
-</tr>
-<tr>
-<td> : GERS             :   175.366    :     :     :  3  :   4   :</td>
-</tr>
-<tr>
-<td> :  Auch            :    22.564    :  1  :     :     :       :</td>
-</tr>
-</table>
+Représentants élus par les conseils municipaux      11
 
-=============================================================
+--
 
-====================================================================
+Effectif du conseil                  82
 
-<table>
-<tr>
-<td> :        A         :      B         :       SIEGES          :      :</td>
-</tr>
-</table>
+Département : Ariège
 
-===================================================================:
+. Population INSEE 1982              135.725
 
-<table>
-<tr>
-<td> :                                   :   F   :   G   :  H    :   I  :</td>
-</tr>
-<tr>
-<td> :------------------:----------------:-------:-------:-------:------:</td>
-</tr>
-<tr>
-<td> : LOT              :   150.725      :       :       :  3    :   4  :</td>
-</tr>
-<tr>
-<td> :  Cahors          :    20.179      :  1    :       :       :      :</td>
-</tr>
-<tr>
-<td> :                  :                :       :       :       :      :</td>
-</tr>
-<tr>
-<td> : HAUTES-PYRENEES  :   227.222      :       :       :  3    :   4  :</td>
-</tr>
-<tr>
-<td> :  Tarbes          :    54.837      :  1    :       :       :      :</td>
-</tr>
-<tr>
-<td> :                  :                :       :       :       :      :</td>
-</tr>
-<tr>
-<td> : TARN             :   338.024      :       :       :  4    :   6  :</td>
-</tr>
-<tr>
-<td> :  Albi            :    45.291      :  1    :       :       :      :</td>
-</tr>
-<tr>
-<td> :  Castres         :    44.957      :  1    :       :       :      :</td>
-</tr>
-<tr>
-<td> :                  :                :       :       :       :      :</td>
-</tr>
-<tr>
-<td> : TARN-ET-GARONNE  :   183.314      :       :       :  3    :   4  :</td>
-</tr>
-<tr>
-<td> :  Montauban       :    47.457      :  1    :       :       :      :</td>
-</tr>
-</table>
+. Sièges par attribution directe                     2
 
-====================================================================
+. Sièges par répartition des restes                  -
 
-<table>
-<tr>
-<td> :       Composition du conseil régional .                   :      :</td>
-</tr>
-<tr>
-<td> : Parlementaires                                 38         : 38   :</td>
-</tr>
-<tr>
-<td> : Représentants élus par les conseils généraux   33         :      :</td>
-</tr>
-<tr>
-<td> : Représentants élus par les conseils municipaux 11         :      :</td>
-</tr>
-<tr>
-<td> :                                               ----        :      :</td>
-</tr>
-<tr>
-<td> :            Effectif du conseil                 82         :  82  :</td>
-</tr>
-</table>
+--
 
---------------------------------------------------------------------
+Total           2
 
-(A) Départements.
+. Sièges attribués aux communes :
 
-Communes.
+Foix (population INSEE 9.282)                     1
 
-Communautés urbaines.
+. Sièges attribués aux conseils généraux :           3
 
-(B) Population (base INSEE 1975) :
+Total des sièges du département     4
 
-Population municipale.
+Département : Aveyron
 
-(C) Sièges par attribution directe.
+. Population INSEE 1982              278.654
 
-(D) Sièges par répartition des restes.
+. Sièges par attribution directe                     4
 
-(E) Total des deux colonnes précédentes.
+. Sièges par répartition des restes                  1
 
-(F) Communes.
+--
 
-(G) Communautés urbaines.
+Total           5
 
-(H) Conseils généraux.
+. Sièges attribués aux communes :
 
-(I) Total des sièges de la région.
+Rodez (population INSEE 24.245)                   1
+
+. Sièges attribués aux conseils généraux :           4
+
+Total des sièges du département     5
+
+Département : Haute-Garonne
+
+. Population INSEE 1982              824.501
+
+. Sièges par attribution directe                    13
+
+. Sièges par répartition des restes                  -
+
+--
+
+Total          13
+
+. Sièges attribués aux communes :
+
+Toulouse (population INSEE 345.184)               3
+
+. Sièges attribués aux conseils généraux :          10
+
+Total des sièges du département    13
+
+Département : Gers
+
+. Population INSEE 1982              174.154
+
+. Sièges par attribution directe                     2
+
+. Sièges par répartition des restes                  1
+
+--
+
+Total           3
+
+. Sièges attribués aux communes :
+
+Auch (population INSEE 22.528)                    1
+
+. Sièges attribués aux conseils généraux :           3
+
+Total des sièges du département     4
+
+Département : Lot
+
+. Population INSEE 1982              154.533
+
+. Sièges par attribution directe                     2
+
+. Sièges par répartition des restes                  -
+
+--
+
+Total           2
+
+. Sièges attribués aux communes :
+
+Cahors (population INSEE 19.665)                  1
+
+. Sièges attribués aux conseils généraux :           3
+
+Total des sièges du département     4
+
+Département : Hautes-Pyrénées
+
+. Population INSEE 1982              227.922
+
+. Sièges par attribution directe                     3
+
+. Sièges par répartition des restes                  1
+
+--
+
+Total           4
+
+. Sièges attribués aux communes :
+
+Tarbes (population INSEE 51.139)                  1
+
+. Sièges attribués aux conseils généraux :           3
+
+Total des sièges du département     4
+
+Département : Tarn
+
+. Population INSEE 1982              339.345
+
+. Sièges par attribution directe                     5
+
+. Sièges par répartition des restes                  1
+
+--
+
+Total           6
+
+. Sièges attribués aux communes :
+
+Albi (population INSEE 44.704)                    1
+
+Castres (population INSEE 44.427)                 1
+
+. Sièges attribués aux conseils généraux :           4
+
+Total des sièges du département     6
+
+Département : Tarn-et-Garonne
+
+. Population INSEE 1982              190.485
+
+. Sièges par attribution directe                     3
+
+. Sièges par répartition des restes
+
+--
+
+Total           3
+
+. Sièges attribués aux communes :
+
+Montauban (population INSEE 50.046)               1
+
+. Sièges attribués aux conseils généraux :           3
+
+Total des sièges du département     4

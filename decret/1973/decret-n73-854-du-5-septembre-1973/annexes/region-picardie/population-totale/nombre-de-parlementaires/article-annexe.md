@@ -1,150 +1,79 @@
-# Article Annexe
+# Article ANNEXE
 
-===================================================================
+Composition du conseil.
 
-<table>
-<tr>
-<td> :                   A                   :     B     :  C : D :  E :</td>
-</tr>
-<tr>
-<td> :---------------------------------------:-----------:----:---:----:</td>
-</tr>
-<tr>
-<td> : AISNE                                 :   533.862 :  7 :   :  7 :</td>
-</tr>
-<tr>
-<td> :  Laon                                 :    27.800 :    :   :    :</td>
-</tr>
-<tr>
-<td> :  Saint-Quentin                        :    67.087 :    :   :    :</td>
-</tr>
-<tr>
-<td> :                                       :           :    :   :    :</td>
-</tr>
-<tr>
-<td> : OISE                                  :   606.320 :  8 : 1 :  9 :</td>
-</tr>
-<tr>
-<td> :  Beauvais                             :    53.783 :    :   :    :</td>
-</tr>
-<tr>
-<td> :  Compiègne                            :    37.229 :    :   :    :</td>
-</tr>
-<tr>
-<td> :  Creil                                :    32.239 :    :   :    :</td>
-</tr>
-<tr>
-<td> :                                       :           :    :   :    :</td>
-</tr>
-<tr>
-<td> : SOMME                                 :   538.462 :  7 : 1 :  8 :</td>
-</tr>
-<tr>
-<td> :  Amiens                               :   130.358 :    :   :    :</td>
-</tr>
-</table>
+Parlementaires ...                                  24
 
-===================================================================
+Représentants élus par les conseils généraux ...    17
 
-==================================================================
+Représentants élus par les conseils municipaux ...   7
 
-<table>
-<tr>
-<td> :                                            :   SIEGES   :      :</td>
-</tr>
-<tr>
-<td> :--------------------------------------------:------------:------:</td>
-</tr>
-<tr>
-<td> :                       A                    : F : G  :  H :  I  :</td>
-</tr>
-<tr>
-<td> :--------------------------------------------:---:-- -:----:-----:</td>
-</tr>
-<tr>
-<td> : AISNE                                      :   :    :  5 :   7 :</td>
-</tr>
-<tr>
-<td> :  Laon                                      : 1 :    :    :     :</td>
-</tr>
-<tr>
-<td> :  Saint-Quentin                             : 1 :    :    :     :</td>
-</tr>
-<tr>
-<td> :                                            :   :    :    :     :</td>
-</tr>
-<tr>
-<td> : OISE                                       :   :    :  6 :   9 :</td>
-</tr>
-<tr>
-<td> :  Beauvais                                  : 1 :    :    :     :</td>
-</tr>
-<tr>
-<td> :  Compiègne                                 : 1 :    :    :     :</td>
-</tr>
-<tr>
-<td> :  Creil                                     : 1 :    :    :     :</td>
-</tr>
-<tr>
-<td> :                                            :   :    :    :     :</td>
-</tr>
-<tr>
-<td> : SOMME                                      :   :    :  6 :   8 :</td>
-</tr>
-<tr>
-<td> :  Amiens                                    : 2 :    :    :     :</td>
-</tr>
-</table>
+--
 
-==================================================================
+Effectif du conseil ...              48
 
-<table>
-<tr>
-<td> :                                                                :</td>
-</tr>
-<tr>
-<td> :           Composition du conseil régional.     :    :    :     :</td>
-</tr>
-<tr>
-<td> :  Parlementaires                                : 24 :    : 24  :</td>
-</tr>
-<tr>
-<td> :  Représentants élus par les conseils généraux  : 17 :    :     :</td>
-</tr>
-<tr>
-<td> :  Représentants élus par les conseils           :    :    :     :</td>
-</tr>
-<tr>
-<td> :  municipaux                                    :    :    :     :</td>
-</tr>
-<tr>
-<td> :                                                :----:    :-----:</td>
-</tr>
-<tr>
-<td> :               Effectif du conseil              : 48 :    : 48  :</td>
-</tr>
-</table>
+Département : Aisne
 
-==================================================================
+. Population INSEE 1982              533.970
 
-(1) Départements.
+. Sièges par attribution directe                     7
 
-Communes.
+. Sièges par répartition des restes                  -
 
-Communautés urbaines.
+--
 
-(B) Population (base INSEE 1975) :
+Total           7
 
-(C) Sièges par attribution directe.
+. Sièges attribués aux communes :
 
-(D) Sièges par répartition des restes.
+Laon (population INSEE 26.614)                    1
 
-(E) Total des deux colonnes précédentes.
+Saint-Quentin (population INSEE 63.335)           1
 
-(F) Communes.
+. Sièges attribués aux conseils généraux :           5
 
-(G) Communautés urbaines.
+Total des sièges du département     7
 
-(H) Conseils généraux.
+Département : Oise
 
-(I) Total des sièges de la région.
+. Population INSEE 1982              661.781
+
+. Sièges par attribution directe                     9
+
+. Sièges par répartition des restes                  -
+
+--
+
+Total           9
+
+. Sièges attribués aux communes :
+
+Beauvais (population INSEE 52.068)                1
+
+Compiègne (population INSEE 40.165)               1
+
+Creil (population INSEE 34.525)                   1
+
+. Sièges attribués aux conseils généraux :           6
+
+Total des sièges du département     9
+
+Département : Somme
+
+. Population INSEE 1982              544.570
+
+. Sièges par attribution directe                     7
+
+. Sièges par répartition des restes                  1
+
+--
+
+Total           8
+
+. Sièges attribués aux communes :
+
+Amiens (population INSEE 130.562)                 2
+
+. Sièges attribués aux conseils généraux :           6
+
+Total des sièges du département     8
