@@ -9,7 +9,7 @@
 - [Section VI : ergothérapeutes](section-vi)
 - [Section VII : psychorééducateurs](section-vii)
 - [Section VIII : orthophonistes](section-viii)
-- [Section IX : orthoptistes](section-ix)
+- [Section IX : dispositions communes](section-ix)
 - [Section X : diététiciens](section-x)
 - [Section XI : dispositions communes](section-xi)
 - [Section XII : dispositions transitoires](section-xii)
