@@ -1,0 +1,3 @@
+# Article 7
+
+La commission [*attributions*] mixte après avis des instances consultatives placées auprès des services publics compétents en matière d'emploi et de formation professionnelle prépare le programme annuel des interventions de l'Agence nationale pour l'emploi, de l'association pour la formation professionnelle des adultes et des services de l'Etat chargés de l'emploi dans la région et dans les départements de Corse prévu par l'article 21 de la loi du 30 juillet 1982 précitée. A cette fin, elle procède à l'examen de la situation de l'emploi, des mouvements du marché du travail et des perspectives économiques dans la région. Elle fait des propositions visant à coordonner entre elles et à adapter les interventions régionales et celles des services de l'Etat.

@@ -1,4 +1,3 @@
-# Arrêté du 27 juillet 1983 relatif aux tarifs des établissements d'enseignement privé et organismes de formation continue professionnelle
+# Arrêté du 27 juillet 1983 FIXANT LA DATE LIMITE A LAQUELLE LE COMMISSAIRE DE LA REPUBLIQUE ARRETE LA LISTE DES BUREAUX DE VOTE POUR L'ELECTION AUX CONSEILS D'ADMINISTRATION DES ORGANISMES DU REGIME GENERAL DE SECURITE SOCIALE.
 
 - [Article 1](article-1.md)
-- [Article 2](article-2.md)
