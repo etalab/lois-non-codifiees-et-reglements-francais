@@ -1,0 +1,3 @@
+# Article 1
+
+Les règlements du Comité de la réglementation comptable du 7 décembre 2000 : n° 2000-05 relatif aux règles de consolidation et de combinaison des entreprises régies par le code des assurances et des institutions de prévoyance régies par le code de la sécurité sociale ou le code rural, n° 2000-06 relatif aux passifs, n° 2000-07 modifiant le règlement n° 99-02 du 29 avril 1999 du Comité de la réglementation comptable relatif aux comptes consolidés des sociétés commerciales et des entreprises publiques et n° 2000-08 modifiant le règlement n° 99-07 du 24 novembre 1999 du Comité de la réglementation comptable relatif aux règles de consolidation des entreprises relevant du Comité de la réglementation bancaire et financière sont homologués.

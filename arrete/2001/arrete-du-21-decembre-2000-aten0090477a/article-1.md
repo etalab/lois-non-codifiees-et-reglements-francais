@@ -1,0 +1,3 @@
+# Article 1
+
+Les prêts, donations et échanges internationaux, à des fins non commerciales, entre des institutions scientifiques, d'herbiers et de plantes vivantes, d'autres spécimens de végétaux et d'animaux conservés de façon pérenne, desséchés ou sous inclusion, à des fins d'études scientifiques, d'espèces inscrites aux annexes des règlements (CE) n° 338/97 et n° 939/97 susvisés peuvent être réalisés sans permis ou certificats délivrés pour l'application desdits règlements. Pour ce faire, les emballages doivent être munis d'une étiquette dont l'usage est réservé aux bénéficiaires d'un agrément délivré par l'autorité administrative compétente, accordé dans les conditions fixées par le présent arrêté. Le modèle de cette étiquette est défini en annexe au présent arrêté.
