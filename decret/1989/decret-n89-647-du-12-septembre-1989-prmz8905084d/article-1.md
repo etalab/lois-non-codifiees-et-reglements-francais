@@ -13,3 +13,5 @@ Recenser les textes législatifs et réglementaires applicables dans les territo
 Adopter et transmettre au Gouvernement les projets de codes élaborés dans les conditions définies par l'article 3 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations.
 
 Elle peut également être consultée sur les projets de textes modifiant des codes existants.
+
+Enfin, la commission est saisie par la Direction des Journaux officiels des difficultés que soulève la mise à jour des textes mentionnés au 1° de l'article 1er du décret n° 2002-1064 du 7 août 2002 relatif au service public de la diffusion du droit par l'internet ainsi que de toute question liée à cette activité. Elle formule toute proposition utile dans ce domaine.

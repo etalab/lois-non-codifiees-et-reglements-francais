@@ -41,3 +41,5 @@ Des membres siégeant en fonction de l'objet du code examiné :
 Un rapporteur général.
 
 Deux rapporteurs généraux adjoints.
+
+Pour l'exercice de la mission définie au dernier alinéa de l'article 1er du présent décret, la commission s'appuie sur les travaux d'un groupe d'experts constitué auprès d'elle, dont la composition est fixée par arrêté du Premier ministre.
