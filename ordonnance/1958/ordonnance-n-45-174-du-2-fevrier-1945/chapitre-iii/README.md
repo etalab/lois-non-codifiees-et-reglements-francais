@@ -17,6 +17,7 @@
 - [Article 20-5](article-20-5.md)
 - [Article 20-6](article-20-6.md)
 - [Article 20-7](article-20-7.md)
+- [Article 20-8](article-20-8.md)
 - [Article 21](article-21.md)
 - [Article 22](article-22.md)
 - [Article 23](article-23.md)
