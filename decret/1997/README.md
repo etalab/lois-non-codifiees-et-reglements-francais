@@ -71,6 +71,7 @@
 - [Décret n°97-1121 du 4 décembre 1997 (MENX9700128D)](decret-n97-1121-du-4-decembre-1997-menx9700128d)
 - [Décret n°97-1122 du 4 décembre 1997 (MENX9700129D)](decret-n97-1122-du-4-decembre-1997-menx9700129d)
 - [Décret n°97-1123 du 4 décembre 1997 (INTB9700332D)](decret-n97-1123-du-4-decembre-1997-intb9700332d)
+- [Décret n°97-1125 du 4 décembre 1997 (EQUH9701332D)](decret-n97-1125-du-4-decembre-1997-equh9701332d)
 - [Décret n°97-190 du 4 mars 1997 (ECOT9751571D)](decret-n97-190-du-4-mars-1997-ecot9751571d)
 - [Décret n°97-193 du 4 mars 1997 (MCCB9700025D)](decret-n97-193-du-4-mars-1997-mccb9700025d)
 - [Décret n°97-209 du 4 mars 1997 (ENVN9750012D)](decret-n97-209-du-4-mars-1997-envn9750012d)
