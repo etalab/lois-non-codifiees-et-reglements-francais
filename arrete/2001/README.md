@@ -578,7 +578,6 @@
 - [Arrêté du 30 août 2001 (FPPA0100088A)](arrete-du-30-aout-2001-fppa0100088a)
 - [Arrêté du 30 août 2001 (INTA0100516A)](arrete-du-30-aout-2001-inta0100516a)
 - [Arrêté du 30 août 2001 (JUSF0150057A)](arrete-du-30-aout-2001-jusf0150057a)
-- [Arrêté du 30 avril 2001 (AGRG0100784A)](arrete-du-30-avril-2001-agrg0100784a)
 - [Arrêté du 30 avril 2001 (DEFC0101483A)](arrete-du-30-avril-2001-defc0101483a)
 - [Arrêté du 30 janvier 2001 (ECOD0070031A)](arrete-du-30-janvier-2001-ecod0070031a)
 - [Arrêté du 30 juillet 2001 (EQUU0101055A)](arrete-du-30-juillet-2001-equu0101055a)
