@@ -6,6 +6,7 @@
 - [Arrêté du 3 juillet 1970](arrete-du-3-juillet-1970)
 - [Arrêté du 4 août 1970](arrete-du-4-aout-1970)
 - [Arrêté du 4 mars 1970](arrete-du-4-mars-1970)
+- [Arrêté du 4 septembre 1970](arrete-du-4-septembre-1970)
 - [Arrêté du 5 janvier 1970](arrete-du-5-janvier-1970)
 - [Arrêté du 6 janvier 1970](arrete-du-6-janvier-1970)
 - [Arrêté du 7 juillet 1970](arrete-du-7-juillet-1970)
