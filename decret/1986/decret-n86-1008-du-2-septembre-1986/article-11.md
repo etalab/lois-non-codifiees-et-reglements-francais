@@ -1,0 +1,3 @@
+# Article 11
+
+Les maîtres bénéficiant d'une promotion en application des dispositions des articles précédents sont classés définitivement dans leur nouvelle échelle de rémunération après une période probatoire d'une année scolaire, s'ils ont fait l'objet d'une inspection pédagogique favorable. En cas d'inspection pédagogique défavorable, la période probatoire peut être renouvelée une fois par décision ministérielle. Si la période probatoire n'a pas été renouvelée ou si, au cours de la seconde période probatoire, l'inspection pédagogique reste défavorable, le maître est replacé dans son échelle de rémunération d'origine.

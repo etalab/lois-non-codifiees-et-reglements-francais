@@ -1,10 +1,13 @@
 # 1986
 
+- [Décret n°86-1008 du 2 septembre 1986](decret-n86-1008-du-2-septembre-1986)
+- [Décret n°86-1009 du 2 septembre 1986](decret-n86-1009-du-2-septembre-1986)
 - [Décret n°86-729 du 2 mai 1986](decret-n86-729-du-2-mai-1986)
 - [Décret n°86-730 du 2 mai 1986](decret-n86-730-du-2-mai-1986)
 - [Décret n°86-731 du 2 mai 1986](decret-n86-731-du-2-mai-1986)
 - [Décret n°86-734 du 2 mai 1986](decret-n86-734-du-2-mai-1986)
 - [Décret n°86-10 du 3 janvier 1986](decret-n86-10-du-3-janvier-1986)
+- [Décret n°86-1011 du 3 septembre 1986](decret-n86-1011-du-3-septembre-1986)
 - [Décret n°86-23 du 3 janvier 1986](decret-n86-23-du-3-janvier-1986)
 - [Décret n°86-27 du 3 janvier 1986](decret-n86-27-du-3-janvier-1986)
 - [Décret n°86-28 du 3 janvier 1986](decret-n86-28-du-3-janvier-1986)
@@ -341,6 +344,8 @@
 - [Décret n°85-284 du 27 février 1985](decret-n85-284-du-27-fevrier-1985)
 - [Décret n°85-968 du 27 août 1985](decret-n85-968-du-27-aout-1985)
 - [Décret n°86-1002 du 27 août 1986](decret-n86-1002-du-27-aout-1986)
+- [Décret n°86-1005 du 27 août 1986](decret-n86-1005-du-27-aout-1986)
+- [Décret n°86-1010 du 27 août 1986](decret-n86-1010-du-27-aout-1986)
 - [Décret n°86-1157 du 27 octobre 1986](decret-n86-1157-du-27-octobre-1986)
 - [Décret n°86-142 du 27 janvier 1986](decret-n86-142-du-27-janvier-1986)
 - [Décret n°86-143 du 27 janvier 1986](decret-n86-143-du-27-janvier-1986)
