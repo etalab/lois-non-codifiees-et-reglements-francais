@@ -1,0 +1,5 @@
+# Article 6
+
+Pour l'application de l'article L. 16 du code des pensions civiles et militaires de retraite aux membres du corps des directeurs des écoles de rééducation professionnelle de l'office national des anciens combattants et victimes de guerre mis à la retraite avant l'application du présent décret, les indices de traitement visés à l'article L. 15 dudit code sont, à égalité d'échelon, ceux prévus par le décret n° 75-349 du 13 mai 1975 relatif à la fixation et à la révision du classement indiciaire de certains grades et emplois des personnels civils de l'Etat pour les directeurs des écoles de rééducation professionnelle de l'office national des anciens combattants et victimes de guerre qui ont suivi le stage de formation professionnelle prévu pour les professeurs des collèges d'enseignement technique relevant du ministère de l'éducation.
+
+Les pensions des fonctionnaires admis à la retraite avant l'entrée en vigueur du présent décret et celles de leurs ayants droit seront révisées conformément aux dispositions ci-dessus.

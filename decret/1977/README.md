@@ -9,6 +9,7 @@
 - [Décret n°77-12 du 4 janvier 1977](decret-n77-12-du-4-janvier-1977)
 - [Décret n°77-17 du 4 janvier 1977](decret-n77-17-du-4-janvier-1977)
 - [Décret n°77-203 du 4 mars 1977](decret-n77-203-du-4-mars-1977)
+- [Décret n°77-245 du 4 mars 1977](decret-n77-245-du-4-mars-1977)
 - [Décret n°77-1352 du 5 décembre 1977](decret-n77-1352-du-5-decembre-1977)
 - [Décret n°77-1364 du 5 décembre 1977](decret-n77-1364-du-5-decembre-1977)
 - [Décret n°77-779 du 6 juillet 1977](decret-n77-779-du-6-juillet-1977)
