@@ -1,0 +1,3 @@
+# Article 3
+
+Une chambre d'agriculture peut décider, sur proposition de son président, de lui verser les indemnités forfaitaires représentatives du temps passé prévues à l'article 1er ci-dessus à la place de l'indemnité forfaitaire de frais de mandat. Dans ce cas, le plafond de dix indemnités par mois fixé par l'article 1er n'est pas opposable. Toutefois, le montant total mensuel des indemnités forfaitaires représentatives du temps passé perçues par un président ne peut, en aucun cas, être supérieur au plafond de l'indemnité de frais de mandat fixé pour la catégorie à laquelle appartient la chambre concernée.

@@ -10,8 +10,8 @@ Un congé non rémunéré ne peut être accordé sur demande du praticien adjoin
 
 4° Pour formation ; en ce cas, le congé non rémunéré ne peut excéder un an par périodes de six années de fonctions ;
 
-5° Pour exercer des fonctions de membre du Gouvernement ou un mandat de membre de l'Assemblée nationale, du Sénat ou de l'Assemblée de l'Union européenne ; le congé non rémunéré est accordé de plein droit pour la durée de ces fonctions ou de ce mandat.
+5° Pour exercer des fonctions de membre du Gouvernement ou un mandat de membre de l'Assemblée nationale, du Sénat ou du Parlement européen ; le congé non rémunéré est accordé de plein droit pour la durée de ces fonctions ou de ce mandat.
 
-Le congé non rémunéré ou son renouvellement est accordé par le directeur de l'établissement. La décision intervient, sauf dans le cas prévu au 1° ci-dessus, après avis de la commission médicale d'établissement.
+Le congé non rémunéré ou son renouvellement est accordé par le directeur de l'établissement. La décision intervient, sauf dans les cas prévus aux 1° et 5° ci-dessus, après avis de la commission médicale d'établissement.
 
-Sauf dans le cas prévu au 1° ci-dessus, la demande de congé non rémunéré doit être présentée par le praticien adjoint contractuel au moins deux mois à l'avance.
+Sauf dans les cas prévus aux 1° et 5° ci-dessus, la demande de congé non rémunéré doit être présentée par le praticien adjoint contractuel au moins deux mois à l'avance.

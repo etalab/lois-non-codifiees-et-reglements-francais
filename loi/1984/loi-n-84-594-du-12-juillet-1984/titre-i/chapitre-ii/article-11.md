@@ -8,6 +8,8 @@ définir, dans les conditions prévues par les statuts particuliers, les program
 
 définir, dans les conditions prévues par les statuts particuliers, les programmes des formations d'adaptation à l'emploi.
 
+définir et assurer la formation continue des fonctionnaires mentionnés à l'article L. 412-49 du code des communes, dans les conditions fixées par l'article 18 de la loi n° 99-291 du 15 avril 1999 relative aux polices municipales.
+
 Le Centre national de la fonction publique territoriale est également compétent pour définir et assurer, dans les conditions définies à l'article 23, des programmes de formation relatifs notamment à :
 
 1° La préparation aux concours d'accès et examens professionnels de la fonction publique territoriale ;
