@@ -1,6 +1,6 @@
 # Article 4
 
-Les demandes d'aides sont transmises au service juridique et technique de l'information et de la communication au plus tard le 30 juin de l'année de l'attribution de l'aide. Toutefois, pour 1998, les demandes doivent parvenir au plus tard le 1er décembre 1998.
+Les demandes d'aides sont transmises à la direction du développement des médias au plus tard le 30 juin de l'année de l'attribution de l'aide. Toutefois, pour 1998, les demandes doivent parvenir au plus tard le 1er décembre 1998.
 
 Ces demandes doivent être accompagnées des documents suivants :
 
@@ -10,4 +10,4 @@ Ces demandes doivent être accompagnées des documents suivants :
 
 3° Les attestations délivrées par les administrations compétentes, permettant de constater la régularité de la situation de l'entreprise au regard de la législation fiscale et sociale ou, à défaut, une déclaration sur l'honneur du dirigeant de l'entreprise.
 
-Le service juridique et technique de l'information et de la communication peut contrôler les indications fournies par tous moyens. Il peut notamment inviter les entreprises concernées à fournir tous documents ou pièces nécessaires à l'appréciation du dossier et procéder ou faire procéder à des vérifications sur place par des experts désignés à cet effet. A l'issue de la procédure, le service juridique et technique de l'information et de la communication arrête le montant de la subvention en fonction des éléments corroborés par toutes ces investigations.
+La direction du développement des médias peut contrôler les indications fournies par tous moyens. Elle peut notamment inviter les entreprises concernées à fournir tous documents ou pièces nécessaires à l'appréciation du dossier et procéder ou faire procéder à des vérifications sur place par des experts désignés à cet effet. A l'issue de la procédure, la direction du développement des médias arrête le montant de la subvention en fonction des éléments corroborés par toutes ces investigations.

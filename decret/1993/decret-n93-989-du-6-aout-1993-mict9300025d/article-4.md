@@ -1,6 +1,6 @@
 # Article 4
 
-Les dossiers complets devront être adressés au service juridique et technique de l'information au plus tard le 15 septembre 1993. Les demandes devront être accompagnées des documents suivants :
+Les dossiers complets devront être adressés à la direction du développement des médias au plus tard le 15 septembre 1993. Les demandes devront être accompagnées des documents suivants :
 
 1. Une déclaration faisant apparaître le chiffre d'affaires net hors commission et hors taxes des ventes au public en France et à l'étranger des années 1990, 1991 et 1992 de la publication au titre de laquelle l'aide est prévue ;
 

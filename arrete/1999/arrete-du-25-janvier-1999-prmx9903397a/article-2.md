@@ -8,7 +8,7 @@ Sont membres de droit du comité des publications :
 
 3. Le directeur du service d'information du Gouvernement ou son représentant ;
 
-4. Le chef du service juridique et technique de l'information et de la communication ou son représentant ;
+4. Le directeur du développement des médias ou son représentant ;
 
 5. Le chef du service de l'information et des relations publiques au ministère de l'intérieur ou son représentant ;
 

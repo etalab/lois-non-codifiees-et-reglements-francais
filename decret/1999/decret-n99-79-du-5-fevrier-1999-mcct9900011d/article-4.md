@@ -4,7 +4,7 @@ Le comité d'orientation mentionné au troisième alinéa de l'article 62 de la 
 
 1° Un membre du Conseil d'Etat, président ;
 
-2° Trois représentants du ministre chargé de la communication, parmi lesquels le chef du service juridique et technique de l'information et de la communication ;
+2° Trois représentants du ministre chargé de la communication, parmi lesquels le directeur du développement des médias ;
 
 3° Un représentant du ministre chargé de l'économie et des finances ;
 

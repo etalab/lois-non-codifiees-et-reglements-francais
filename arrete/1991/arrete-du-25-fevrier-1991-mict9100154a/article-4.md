@@ -4,7 +4,7 @@ L'aide de l'Etat visée à l'article 3 prend la forme de remboursement des frais
 
 Les demandes de remboursement sont présentées par les entreprises exportatrices ou organismes visés ci-dessus sous forme d'états récapitulatifs bimestriels dont les modèles seront établis par la commission prévue à l'article 5 ci-après. Les organismes collectifs de promotion des ventes devront accompagner les demandes de remboursement d'un bilan d'exécution provisoire des objectifs fixés par la convention signée pour l'année en cours avec le ministre.
 
-Les droits des intéressés sont liquidés par le service juridique et technique de l'information.
+Les droits des intéressés sont liquidés par la direction du développement des médias.
 
 Toute demande présentée comporte l'engagement par les exportateurs de rapatrier les fonds correspondants aux publications exportées et vendues.
 

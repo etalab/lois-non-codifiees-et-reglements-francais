@@ -1,6 +1,6 @@
 # Article 1
 
-Le service juridique et technique de l'information et de la communication peut, dans la limite des crédits ouverts à cet effet au budget des services du Premier ministre, faire appel pour la mise en oeuvre de certaines études :
+La direction du développement des médias peut, dans la limite des crédits ouverts à cet effet au budget des services du Premier ministre, faire appel pour la mise en oeuvre de certaines études :
 
 a) A des collaborateurs qui sont recrutés parmi des personnes étrangères ou non à l'administration et qui lui apportent leur concours de façon continue ;
 

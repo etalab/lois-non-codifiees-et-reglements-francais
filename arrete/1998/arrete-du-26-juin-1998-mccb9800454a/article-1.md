@@ -2,7 +2,7 @@
 
 Sont nommés membres du Conseil national des professions du spectacle en qualité de représentants de l'administration :
 
-Le directeur de la musique et de la danse, le directeur du théâtre et des spectacles, le directeur de l'administration générale, le directeur du Centre national de la cinématographie et le chef du service juridique et technique de l'information représentant la ministre chargée de la culture et de la communication ;
+Le directeur de la musique et de la danse, le directeur du théâtre et des spectacles, le directeur de l'administration générale, le directeur du Centre national de la cinématographie et le directeur du développement des médias représentant la ministre chargée de la culture et de la communication ;
 
 Le directeur général des collectivités locales représentant le ministre de l'intérieur ;
 

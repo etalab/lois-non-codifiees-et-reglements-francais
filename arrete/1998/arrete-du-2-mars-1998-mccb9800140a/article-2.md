@@ -16,7 +16,7 @@ Le représentant du ministre de l'éducation nationale, de la recherche et de la
 
 Le représentant du ministre de l'équipement, des transports et du logement ;
 
-3° Le chef du service juridique et technique de l'information (SJTI) ou son représentant :
+3° Le directeur du développement des médias ou son représentant :
 
 Le chef du service de l'inspection générale ou son représentant ;
 

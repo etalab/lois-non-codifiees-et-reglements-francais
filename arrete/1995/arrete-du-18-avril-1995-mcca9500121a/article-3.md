@@ -18,7 +18,7 @@ Dix membres de droit :
 
 - le directeur du livre et de la lecture au ministère de la culture et de la francophonie ou son représentant ;
 
-- le chef du service juridique et technique de l'information ou son représentant ;
+- le directeur du développement des médias ou son représentant ;
 
 - le délégué général à la langue française ou son représentant ;
 

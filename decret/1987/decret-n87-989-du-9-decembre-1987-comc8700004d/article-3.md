@@ -26,4 +26,4 @@ Le directeur de l'animation de la recherche, des études et des statistiques au 
 
 Le directeur des affaires économiques et internationales au ministère de l'équipement, du logement et des transports ;
 
-Le chef du service juridique et technique de l'information et de la communication.
+Le directeur du développement des médias.

@@ -4,7 +4,7 @@ La commission mixte est présidée par un haut fonctionnaire nommé par le minis
 
 Elle comprend, outre son président :
 
-- le chef du service juridique et technique de l'information, vice-président ;
+- le directeur du développement des médias, vice-président ;
 
 - un parlementaire représentant les Français à l'étranger ;
 
@@ -32,4 +32,4 @@ En cas d'absence du président, la présidence est assurée par le vice-préside
 
 La commission mixte est réunie sur convocation du président ; elle siège valablement si la moitié au moins de ses membres est présente ; elle prend ses décisions à la majorité. En cas de partage égal des voix, celle du président est prépondérante.
 
-Le secrétariat de la commission est assuré par le service juridique et technique de l'information.
+Le secrétariat de la commission est assuré par la direction du développement des médias.
