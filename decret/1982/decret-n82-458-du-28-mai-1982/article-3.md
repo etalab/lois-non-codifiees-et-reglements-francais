@@ -1,0 +1,7 @@
+# Article 3
+
+Le haut comité est composé de cinquante-cinq membres :
+
+Vingt représentants des administrations centrales et grands services publics, nommés par arrêté du Premier ministre, sur proposition du ministre d'Etat, ministre de l'intérieur et de la décentralisation, du ministre d'Etat, ministre des transports, du ministre d'Etat, ministre du Plan et de l'aménagement du territoire, du ministre d'Etat, ministre de la recherche et de la technologie, du garde des sceaux, ministre de la justice, du ministre des relations extérieures, du ministre de la défense, du ministre délégué auprès du ministre de l'économie et des finances, chargé du budget, du ministre de l'éducation nationale, du ministre de l'agriculture, du ministre de l'industrie, du ministre délégué auprès du ministre de l'industrie, chargé de l'énergie, du ministre de la culture, du ministre du travail, du ministre de la santé, du ministre du temps libre, du ministre de l'urbanisme et du logement, du ministre de la mer, du ministre de la consommation et du directeur général de l'office national des forêts ;
+
+Trente-cinq personnalités désignées par arrêté du Premier ministre, sur proposition du ministre de l'environnement, pour une période de deux ans renouvelable [*durée du mandat*] (quinze personnalités exerçant des mandats électifs ou syndicaux et vingt personnalités qualifiées et représentants d'associations de niveau national ou régional).

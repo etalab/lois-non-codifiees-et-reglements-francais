@@ -2,6 +2,7 @@
 
 - [Décret n°81-695 du 1 juillet 1981](decret-n81-695-du-1-juillet-1981)
 - [Décret n°82-210 du 1 mars 1982](decret-n82-210-du-1-mars-1982)
+- [Décret n°82-457 du 1 juin 1982](decret-n82-457-du-1-juin-1982)
 - [Décret n°81-897 du 2 octobre 1981](decret-n81-897-du-2-octobre-1981)
 - [Décret n°82-126 du 2 février 1982](decret-n82-126-du-2-fevrier-1982)
 - [Décret n°82-306 du 2 avril 1982](decret-n82-306-du-2-avril-1982)
@@ -119,6 +120,7 @@
 - [Décret n°82-452 du 28 mai 1982](decret-n82-452-du-28-mai-1982)
 - [Décret n°82-453 du 28 mai 1982](decret-n82-453-du-28-mai-1982)
 - [Décret n°82-454 du 28 mai 1982](decret-n82-454-du-28-mai-1982)
+- [Décret n°82-458 du 28 mai 1982](decret-n82-458-du-28-mai-1982)
 - [Décret n°82-111 du 29 janvier 1982](decret-n82-111-du-29-janvier-1982)
 - [Décret n°82-284 du 29 mars 1982](decret-n82-284-du-29-mars-1982)
 - [Décret n°81-1164 du 30 décembre 1981](decret-n81-1164-du-30-decembre-1981)
