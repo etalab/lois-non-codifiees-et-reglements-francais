@@ -51,6 +51,8 @@
 - [Décret n°74-569 du 17 mai 1974](decret-n74-569-du-17-mai-1974)
 - [Décret n°74-37 du 18 janvier 1974](decret-n74-37-du-18-janvier-1974)
 - [Décret n°74-800 du 18 septembre 1974](decret-n74-800-du-18-septembre-1974)
+- [Décret n°74-871 du 19 octobre 1974](decret-n74-871-du-19-octobre-1974)
+- [Décret n°74-872 du 19 octobre 1974](decret-n74-872-du-19-octobre-1974)
 - [Décret n°73-1219 du 20 décembre 1973](decret-n73-1219-du-20-decembre-1973)
 - [Décret n°74-133 du 20 février 1974](decret-n74-133-du-20-fevrier-1974)
 - [Décret n°74-526 du 20 mai 1974](decret-n74-526-du-20-mai-1974)
