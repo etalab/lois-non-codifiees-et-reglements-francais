@@ -3,3 +3,4 @@
 - [Article 1](article-1.md)
 - [Titre Ier : Dispositions communes applicables aux corps de l'Etat pour l'administration de la Polynésie française.](titre-ier)
 - [Titre II : Constitution initiale des corps de l'Etat créés pour l'administration de la Polynésie française.](titre-ii)
+- [Annexe](annexe)
