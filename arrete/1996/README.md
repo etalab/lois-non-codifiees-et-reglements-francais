@@ -6,6 +6,7 @@
 - [Arrêté du 1 février 1996 (BUDL9600023A)](arrete-du-1-fevrier-1996-budl9600023a)
 - [Arrêté du 1 février 1996 (ENVP9650035A)](arrete-du-1-fevrier-1996-envp9650035a)
 - [Arrêté du 1 février 1996 (TASH9620418A)](arrete-du-1-fevrier-1996-tash9620418a)
+- [Arrêté du 1 juin 1996 (ECOT9651519A)](arrete-du-1-juin-1996-ecot9651519a)
 - [Arrêté du 1 mars 1996 (BUDF9600002A)](arrete-du-1-mars-1996-budf9600002a)
 - [Arrêté du 1 mars 1996 (BUDF9620934A)](arrete-du-1-mars-1996-budf9620934a)
 - [Arrêté du 1 mars 1996 (ECOT9651495A)](arrete-du-1-mars-1996-ecot9651495a)
