@@ -4,8 +4,10 @@ Toute modification apportée par le demandeur à l'installation, à son mode d'u
 
 Le préfet fixe, s'il y a lieu, des prescriptions complémentaires dans les formes prévues à l'article 18.
 
-S'il estime, après avis de l'inspection des installations classées, que les modifications sont de nature à entraîner des dangers ou inconvénients, mentionnés aux articles 1ers des lois du 16 décembre 1964 et du 19 juillet 1976, le préfet invite l'exploitant à déposer une nouvelle demande d'autorisation.
+S'il estime, après avis de l'inspection des installations classées, que les modifications sont de nature à entraîner des dangers ou inconvénients, mentionnés à l'article 1er de la loi du 19 juillet 1976 susvisée et à l'article 2 de la loi n° 92-3 du 3 janvier 1992 sur l'eau, le préfet invite l'exploitant à déposer une nouvelle demande d'autorisation.
 
 Tout transfert d'une installation soumise à autorisation sur un autre emplacement nécessite une nouvelle demande d'autorisation.
 
 Les demandes visées aux deux alinéas précédents sont soumises aux mêmes formalités que les demandes d'autorisation primitives.
+
+" Lorsqu'il existe un comité d'hygiène, de sécurité et des conditions de travail, son avis sur les éléments d'appréciation précités est transmis au préfet. "

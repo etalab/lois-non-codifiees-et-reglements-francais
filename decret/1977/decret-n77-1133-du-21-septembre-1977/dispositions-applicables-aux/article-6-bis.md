@@ -8,10 +8,10 @@ II - S'il entend faire compléter le dossier par un document existant, le commis
 
 Le document ainsi obtenu, ou le refus du demandeur, est versé au dossier tenu au siège de l'enquête.
 
-III - Lorsqu'il estime que la nature de l'opération ou les conditions de déroulement de l'enquête publique rendent nécessaire l'organisation d'une réunion publique, le commissaire enquêteur ou le président de la commission d'enquête en avise le commissaire de la République et l'exploitant en leur indiquant les modalités qu'il propose pour la tenue de cette réunion.
+III - Lorsqu'il estime que la nature de l'opération ou les conditions de déroulement de l'enquête publique rendent nécessaire l'organisation d'une réunion publique, le commissaire enquêteur ou le président de la commission d'enquête en avise le président du tribunal administratif et l'exploitant en leur indiquant les modalités qu'il propose pour la tenue de cette réunion.
 
-Dans les huit jours, et après avoir demandé l'avis de l'exploitant et de l'inspection des installations classées, le commissaire de la République notifie sa décision au commissaire enquêteur ou au président de la commission d'enquête et à l'exploitant.
+Dans les huit jours, et après avoir demandé l'avis de l'exploitant et de l'inspection des installations classées, le président du tribunal administratif notifie sa décision au commissaire enquêteur ou au président de la commission d'enquête et à l'exploitant.
 
-Lorsqu'il donne son accord, le commissaire de la République arrête avec le commissaire enquêteur ou le président de la commission d'enquête, l'exploitant étant invité à se faire entendre s'il le souhaite, les modalités de déroulement de la réunion publique et de l'information préalable du public.
+Lorsqu'il donne son accord, le président du tribunal administratif arrête avec le commissaire enquêteur ou le président de la commission d'enquête, l'exploitant étant invité à se faire entendre s'il le souhaite, les modalités de déroulement de la réunion publique et de l'information préalable du public.
 
-Une copie du rapport établi à l'issue de la réunion publique par le commissaire enquêteur est adressée à l'exploitant dans les trois jours ; l'exploitant dispose alors d'un délai de vingt-deux jours pour produire ses observations s'il le juge utile.
+Une copie du rapport établi à l'issue de la réunion publique par le commissaire enquêteur est adressée à l'exploitant dans les trois jours ; l'exploitant dispose alors d'un délai de douze jours pour produire ses observations s'il le juge utile.

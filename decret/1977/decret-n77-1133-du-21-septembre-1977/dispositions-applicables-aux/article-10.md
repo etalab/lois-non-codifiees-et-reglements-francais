@@ -5,3 +5,5 @@ Au vu du dossier de l'enquête et des avis prévus par les articles précédents
 L'inspection des installations classées soumet également au conseil départemental d'hygiène ses propositions concernant soit le refus de la demande, soit les prescriptions envisagées.
 
 Le demandeur a la faculté de se faire entendre par le conseil ou de désigner à cet effet un mandataire. Il doit être informé par le préfet au moins huit jours à l'avance de la date et du lieu de la réunion du conseil et reçoit simultanément un exemplaire des propositions de l'inspection des installations classées.
+
+Dans le cas des carrières et de leurs installations annexes, la commission départementale des carrières est consultée aux lieu et place du conseil départemental d'hygiène.
