@@ -36,6 +36,7 @@
 - [Décret n°82-318 du 8 avril 1982](decret-n82-318-du-8-avril-1982)
 - [Décret n°82-337 du 8 avril 1982](decret-n82-337-du-8-avril-1982)
 - [Décret n°82-9 du 8 janvier 1982](decret-n82-9-du-8-janvier-1982)
+- [Décret n°68-642 du 9 juillet 1968](decret-n68-642-du-9-juillet-1968)
 - [Décret n°82-474 du 9 juin 1982](decret-n82-474-du-9-juin-1982)
 - [Décret n°82-491 du 9 juin 1982](decret-n82-491-du-9-juin-1982)
 - [Décret n°82-492 du 9 juin 1982](decret-n82-492-du-9-juin-1982)
