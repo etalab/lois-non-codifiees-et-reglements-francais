@@ -1,3 +1,0 @@
-# Article 6
-
-Le conseil d'administration de l'Agence de l'environnement et de la maîtrise de l'énergie arrête, au vu des avis formulés sur ces points par le comité consultatif, les critères à prendre en considération par l'agence pour la détermination des montants des concours financiers du fonds de modernisation à la réalisation d'installations de traitement des déchets ménagers et assimilés ou à la remise en état d'installations de stockage ainsi que le montant des aides du fonds aux communes qui accueillent sur leur territoire des installations de traitement de déchets, d'une part, et les règles applicables en matière d'octroi de ces diverses aides, d'autre part.
