@@ -440,7 +440,6 @@
 - [Décret n°95-695 du 9 mai 1995 (INDG9500274D)](decret-n95-695-du-9-mai-1995-indg9500274d)
 - [Décret n°95-696 du 9 mai 1995 (INDH9500512D)](decret-n95-696-du-9-mai-1995-indh9500512d)
 - [Décret n°95-697 du 9 mai 1995 (INDC9500535D)](decret-n95-697-du-9-mai-1995-indc9500535d)
-- [Décret n°95-698 du 9 mai 1995 (EQUA9500904D)](decret-n95-698-du-9-mai-1995-equa9500904d)
 - [Décret n°95-699 du 9 mai 1995 (COMA9500023D)](decret-n95-699-du-9-mai-1995-coma9500023d)
 - [Décret n°95-700 du 9 mai 1995 (TEFS9500156D)](decret-n95-700-du-9-mai-1995-tefs9500156d)
 - [Décret n°95-701 du 9 mai 1995 (MCCB9500200D)](decret-n95-701-du-9-mai-1995-mccb9500200d)
