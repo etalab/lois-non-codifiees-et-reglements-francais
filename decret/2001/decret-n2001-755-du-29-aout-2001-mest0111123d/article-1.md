@@ -1,0 +1,3 @@
+# Article 1
+
+Pour les entreprises relevant des articles L. 214-25, L. 511-1 et L. 531-4 du code monétaire et financier, pendant la période comprise entre le 1er septembre 2001 et le 31 mars 2002, et en ce qui concerne le personnel dont la participation est requise pour la mise en place de l'euro incluant les activités annexes nécessaires au bon fonctionnement de l'entreprise (gardiennage, intendance, restauration), les décisions prises sur la base du deuxième alinéa de l'article L. 212-1 du code du travail le sont, au titre de l'ensemble des établissements concernés par la demande, par l'inspecteur du travail du siège de l'entreprise.
