@@ -1,6 +1,6 @@
 # Article 3
 
-Les personnes morales autres que l'Etat mentionnées à l'article L. 122-5 du code du service national qui souhaitent être organismes d'accueil adressent au ministre compétent une demande d'affectation de volontaires civils.
+Les personnes morales autres que l'Etat mentionnées à l'article L. 122-5 du code du service national qui souhaitent être organismes d'accueil adressent soit, dans leur domaine de compétence respectif, au ministre des affaires étrangères, au ministre de la défense ou au ministre chargé de l'économie, des finances, de l'industrie et du commerce extérieur, soit, dans les autres cas, au préfet une demande d'affectation de volontaires civils.
 
 Elles constituent à cet effet un dossier précisant :
 
