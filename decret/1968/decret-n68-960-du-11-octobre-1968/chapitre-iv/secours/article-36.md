@@ -1,3 +1,3 @@
 # Article 36
 
-Des secours peuvent être alloués par la commission de gestion aux tributaires de la caisse à leurs conjoints survivants et à leurs orphelins ainsi qu'aux pensionnés, dans la limite d'un crédit fixé annuellement par cette commission et soumis à l'approbation conjointe du ministre de l'économie et des finances, du ministre chargé des affaires culturelles et du ministre des affaires sociales.
+La commission de gestion mentionnée à l'article 40 fixe annuellement un crédit limitatif destiné à couvrir le paiement des secours qui peuvent être alloués par ladite commission, ou par le directeur agissant par délégation de cette commission, aux affiliés de la caisse, à leur conjoint, survivant ou divorcé, ayant droit à pension, à leurs orphelins, ainsi qu'aux pensionnés dans la limite de ce crédit.

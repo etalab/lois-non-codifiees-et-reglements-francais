@@ -6,7 +6,7 @@ Par le licenciement par mesure disciplinaire, lorsque le licenciement comporte e
 
 Par la condamnation à une peine afflictive ou infamante, pendant la durée de la peine ;
 
-Par la déchéance totale ou partielle de la puissance paternelle, pour les veuves ou les femmes divorcées.
+Par la déchéance totale ou partielle de l'autorité parentale, pour les veuves ou les femmes divorcées.
 
 II - L'agent ou l'ayant cause d'un agent, dont le droit à l'attribution ou à la jouissance de la pension a été suspendu, est rétabli au regard du risque de vieillesse dans la situation dont il bénéficierait s'il avait relevé du régime général de la sécurité sociale pendant la durée des services accomplis à la Comédie-Française.
 

@@ -2,7 +2,7 @@
 
 Dans tous les cas, le paiement de la pension prend effet du premier jour du mois suivant celui de l'entrée en jouissance [*date, point de départ*].
 
-Les pensions attribuées au titre du présent décret sont payées trimestriellement et à terme échu [*périodicité*].
+Les pensions attribuées au titre du présent décret sont payées mensuellement et à terme échu [*périodicité*].
 
 Les arrérages restant dus au décès des titulaires de pensions sont valablement payés entre les mains de l'époux survivant non séparé de corps, à moins d'opposition de la part des héritiers légataires ou créanciers.
 

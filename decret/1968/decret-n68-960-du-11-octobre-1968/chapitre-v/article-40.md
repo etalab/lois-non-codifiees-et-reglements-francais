@@ -2,21 +2,21 @@
 
 I - La gestion de la caisse de retraites est confiée à une commission de dix-neuf [*nombre*] membres ainsi constituée [*composition*] :
 
-a) Quatre membres nommés par arrêté du ministre des affaires culturelles dont deux membres du Conseil d'Etat en activité ou honoraires ;
+a) Quatre membres nommés par arrêté conjoint des ministres chargés de la culture, de la sécurité sociale et du budget, dont deux membres du Conseil d'Etat en activité ou honoraires ;
 
 b) Membres de droit :
 
-Le directeur du théâtre et des maisons de la culture au ministère des affaires culturelles ou son représentant.
+- le directeur du théâtre et des spectacles ou son représentant ;
 
-L'administrateur de la Comédie-Française ou son représentant.
+- l'administrateur de la Comédie-Française ou son représentant ;
 
-Le directeur du budget au ministère de l'économie et des finances ou son représentant.
+- le directeur du budget ou son représentant ;
 
-Le directeur général de la famille, de la vieillesse et de l'action sociale au ministère des affaires sociales ou son représentant.
+- le directeur de la sécurité sociale ou son représentant ;
 
-Le directeur général de la Caisse des dépôts et consignations ou son représentant.
+- le directeur général de la Caisse des dépôts et consignations ou son représentant ;
 
-Le contrôleur financier de la Comédie-Française.
+- le contrôleur financier de la Comédie-Française.
 
 c) Membres élus : deux sociétaires de la Comédie-Française élus par l'assemblée générale.
 
@@ -36,8 +36,8 @@ VI - En cas de décès ou de démission d'un membre nommé ou élu, il est pourv
 
 VII - Un arrêté du ministre chargé des affaires culturelles et du ministre des affaires sociales [*autorités compétentes*] règle les formes et modalités de l'élection des représentants du personnel et des retraités.
 
-VIII - Le président de la commission est nommé par arrêté du ministre des affaires culturelles parmi les membres de la commission. En cas de partage des voix, sa voix est prépondérante. La commission élit son vice-président.
+VIII. - Le président de la commission est nommé parmi les membres figurant au paragraphe a du I par l'arrêté conjoint mentionné à ce paragraphe. En cas de partage des voix, sa voix est prépondérante. La commission élit son vice-président.
 
 IX - Le président désigne, en dehors des membres de la commission, un secrétaire et un secrétaire adjoint qui n'ont pas voix délibérative.
 
-X - Les fonctions de membre de la commission de gestion sont gratuites [*rémunération*].
+X - Les fonctions de membre de la commission de gestion sont gratuites [*rémunération*]. Toutefois, les représentants élus des pensionnés peuvent prétendre, sur justificatifs et sur la base des dispositions prévues pour les fonctionnaires du groupe I, au remboursement de leurs frais de déplacement [*indemnités*] par le directeur de la caisse agissant par délégation de la commission de gestion.
