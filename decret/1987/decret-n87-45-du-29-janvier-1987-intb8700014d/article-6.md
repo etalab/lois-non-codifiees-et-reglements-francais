@@ -1,0 +1,3 @@
+# Article 6
+
+Pour bénéficier de la dotation ou de la subrogation prévue à l'article 88 de la loi n° 85-30 du 9 janvier 1985 modifiée, les communes ou groupements de communes concernés adressent au département, lorsque celui-ci a institué la taxe départementale mentionnée à l'article 5 ci-dessus, la délibération fixant le taux en vigueur au 31 décembre 1983 de la taxe spéciale mentionnée à l'article 9 du décret n° 68-1031 du 14 novembre 1968, la délibération ayant institué la taxe communale mentionnée à l'article 1er ci-dessus au taux de 3 p. 100 et la décision fixant la répartition de l'assiette de la taxe lorsque l'exploitation s'étend sur plusieurs communes.
