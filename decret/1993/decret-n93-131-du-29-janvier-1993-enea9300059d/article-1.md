@@ -4,9 +4,9 @@ Les quantités de produits pétroliers qui font l'objet de l'obligation de stock
 
 a) Le volume des stocks stratégiques que chaque opérateur est tenu de constituer et de conserver en proportion des quantités de produits ayant fait l'objet des opérations mentionnées aux deux premiers alinéas de l'article 2 de ladite loi est fixé :
 
-- pour la France métropolitaine, à 26 p. 100 ;
+- pour la France métropolitaine, à 27 % ;
 
-- pour les départements d'outre-mer, à 20 p. 100,
+- pour les départements d'outre-mer, à 20 %,
 
 des quantités ci-dessus mentionnées.
 

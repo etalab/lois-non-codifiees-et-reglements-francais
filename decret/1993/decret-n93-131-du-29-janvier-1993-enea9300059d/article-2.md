@@ -2,7 +2,13 @@
 
 I. - Les opérateurs pétroliers non agréés, mentionnés au II de l'article 4 de la loi du 31 décembre 1992 susvisée, doivent réaliser l'intégralité de leur obligation de stockage par l'intermédiaire du comité professionnel des stocks stratégiques pétroliers. Lors de toute opération visée au premier alinéa de l'article 2 de ladite loi, ils se libèrent de l'obligation de stockage correspondante par un versement unique perçu par l'administration des douanes pour le compte du comité professionnel des stocks stratégiques pétroliers.    II. - a) L'obligation totale de stockage stratégique à la charge de chaque opérateur mentionné aux b et c ci-dessous est la somme des obligations élémentaires résultant des opérations mentionnées aux deux premiers alinéas de l'article 2 de la loi du 31 décembre 1992 susvisée, qu'il a réalisées au cours de l'année civile précédente. La nouvelle obligation entre en vigueur le 30 juin de l'année suivant l'année de référence.
 
-b) Les opérateurs pétroliers agréés, mentionnés au I de l'article 4 de la loi du 31 décembre 1992 susvisée, s'acquittent de l'obligation définie au a du I du même article, au choix, à raison de 46 % ou 20 % de leur obligation de stockage. Les opérateurs pétroliers qui optent pour un taux le font pour une durée qui ne peut être inférieure à deux ans, et en observant un préavis de six mois.
+b) Les opérateurs pétroliers agréés, mentionnés au I de l'article 4 de la loi du 31 décembre 1992 susvisée, s'acquittent de l'obligation définie au a du I du même article, au choix, à raison de :
+
+44 % ou 19 % de leur obligation déstockages ;
+
+44 % ou 10 % de leur obligation de stockage à compter du 1er juillet 2004.
+
+Les opérateurs pétroliers agréés qui optent pour un taux le font pour une durée qui ne peut être inférieure à deux ans, et en observant un préavis de six mois.
 
 Les opérateurs pétroliers agréés se libèrent de l'autre part de leur obligation de stockage, mentionnée au b du I de l'article 4 de la loi susvisée du 31 décembre 1992, et assurée par le comité professionnel des stocks stratégiques pétroliers, grâce à un versement unique à ce comité effectué lors de toute opération visée au premier alinéa de l'article 2 de la même loi.
 

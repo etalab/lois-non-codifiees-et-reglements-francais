@@ -2,9 +2,9 @@
 
 I. - Les stocks stratégiques correspondant aux obligations mises à la charge des opérateurs pétroliers doivent être constitués de produits appartenant aux mêmes catégories, définies par chacun des tirets de l'annexe à la loi du 31 décembre 1992 susvisée, que les produits qui font l'objet des opérations mentionnées aux deux premiers alinéas de l'article 2 de la loi du 31 décembre 1992 susvisée, à concurrence :
 
-- d'au moins 56 p. 100 des obligations totales de stockage concernant l'ensemble des produits figurant sur l'annexe de ladite loi, à l'exception du fioul lourd ;
+- d'au moins 55 % des obligations totales de stockage concernant l'ensemble des produits figurant sur l'annexe de ladite loi, à l'exception du fioul lourd ;
 
-- d'au moins 46 p. 100 des obligations totales de stockage concernant le fioul lourd.
+- d'au moins 45 % des obligations totales de stockage concernant le fioul lourd.
 
 II. - Au-delà du stock minimum défini au I ci-dessus, les opérateurs pétroliers peuvent être autorisés à substituer aux produits concernés, et après application d'un coefficient d'équivalence, du pétrole brut ou certains produits intermédiaires de raffinage dont ils disposent, selon le cas sur le territoire de la métropole ou sur celui du département d'outre-mer, soit directement, soit à la suite d'une mise à disposition mentionnée à l'article 4 ci-dessous.
 
