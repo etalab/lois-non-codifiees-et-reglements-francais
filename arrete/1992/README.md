@@ -33,6 +33,8 @@
 - [Arrêté du 23 décembre 1991 (INDA9101049A)](arrete-du-23-decembre-1991-inda9101049a)
 - [Arrêté du 23 décembre 1991 (INDA9101050A)](arrete-du-23-decembre-1991-inda9101050a)
 - [Arrêté du 23 décembre 1991 (SPSS9102807A)](arrete-du-23-decembre-1991-spss9102807a)
+- [Arrêté du 24 décembre 1991 (MENZ9103001A)](arrete-du-24-decembre-1991-menz9103001a)
+- [Arrêté du 24 décembre 1991 (MENZ9103002A)](arrete-du-24-decembre-1991-menz9103002a)
 - [Arrêté du 24 décembre 1991 (SPSS9102809A)](arrete-du-24-decembre-1991-spss9102809a)
 - [Arrêté du 24 décembre 1991 (SPSS9102810A)](arrete-du-24-decembre-1991-spss9102810a)
 - [Arrêté du 25 mars 1992 (AGRS9200623A)](arrete-du-25-mars-1992-agrs9200623a)
