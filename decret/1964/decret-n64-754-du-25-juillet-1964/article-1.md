@@ -18,6 +18,6 @@ L'administration centrale du ministère de la justice comprend, outre le cabinet
 
 - le service des affaires européennes et internationales ;
 
-- le service de l'information et de la communication.
+- le service central de l'information et de la communication ;
 
 Le garde des sceaux, ministre de la justice, est en outre assisté de l'inspecteur général des services judiciaires.
