@@ -6,8 +6,6 @@ Les personnels visés aux articles 2 et 3 perçoivent des émoluments qui compor
 
 A. - Le traitement brut soumis à retenue pour pension correspondant à l'indice hiérarchique que les agents détiennent dans leur corps d'origine ; pour les personnels relevant des décrets du 26 janvier 1983 et du 11 avril 1988 précités, l'indice d'échelon dans le grade est complété par la bonification indiciaire soumise à retenue pour pension attachée à la catégorie de l'établissement d'affectation déterminée par arrêté du ministre chargé du budget et, selon le cas, du ministre des affaires étrangères ou du ministre de la coopération et du développement ;
 
-la coopération et du développement ;
-
 B.  L'indemnité prévue par le décret n° 93-55 du 15 janvier 1993 instituant une indemnité de suivi et d'orientation des élèves en faveur des personnels enseignants du second degré ;
 
 C. - Les indemnités et avantages statutaires prévus par la réglementation en vigueur dans les établissements relevant en France du ministère de l'éducation nationale dont un arrêté du ministre chargé du budget et, selon le cas, du ministre des affaires étrangères ou du ministre de la coopération et du développement a prévu l'application à l'étranger.
@@ -30,15 +28,7 @@ Les taux d'ajustement de l'indemnité d'expatriation, pour tenir compte notammen
 
 La répartition par pays et par groupe des agents expatriés fait l'objet d'un arrêté conjoint du ministre chargé du budget, du ministre des affaires étrangères et du ministre chargé de la coopération :
 
-le cas échéant, des majorations familiales pour enfants à charge, attribuées en lieu et place des avantages familiaux accordés aux personnels en service en France. Leur montant est obtenu par application d'un coefficient au montant du traitement brut soumis à retenue pour pension afférent à l'indice brut 585. Il est majoré de 25 p. 100 pour les enfants âgés de dix à quinze ans et de 50 p. 100 pour les enfants âgés de plus de quinze ans. Le montant des majorations familiales varie en fonction de la durée des services continus dans une même localité d'affectation. Ce montant est réduit :
-
-au-delà de  6 années révolues, de 20 p. 100 ;
-
-au-delà de  9 années révolues, de 30 p. 100 ;
-
-au-delà de 12 années révolues, de 50 p. 100.
-
-Un arrêté conjoint du ministre chargé du budget, du ministre des affaires étrangères et du ministre chargé de la coopération fixe, pour chaque pays, le coefficient applicable pour chaque enfant à charge.
+le cas échéant, des majorations familiales pour enfants à charge, attribuées en lieu et place des avantages familiaux accordés aux personnels en service en France. Leur montant est obtenu par application d'un coefficient au montant du traitement brut soumis à retenue pour pension afférent à l'indice brut 585. Il est majoré de 25 p. 100 pour les enfants âgés de dix à quinze ans et de 50 p. 100 pour les enfants âgés de plus de quinze ans.    Un arrêté conjoint du ministre chargé du budget, du ministre des affaires étrangères et du ministre chargé de la coopération fixe, pour chaque pays, le coefficient applicable pour chaque enfant à charge.
 
 Les majorations familiales sont attribuées, quel que soit le lieu de résidence des enfants, déduction faite des avantages de même nature dont peut bénéficier l'agent ou son conjoint au titre des mêmes enfants et qui sont dus au titre de la législation ou de la réglementation française ou de tout accord communautaire ou international.
 
@@ -54,9 +44,7 @@ b) Pour les personnels résidents :
 
 - le supplément familial de traitement prévu par ce même décret.
 
-2. Eléments à la charge des établissements d'affectation
-
-définis à l'article 1er du présent décret
+2. Eléments à la charge des établissements d'affectation définis à l'article 1er du présent décret
 
 a) Pour les agents expatriés et pour les résidents :
 
