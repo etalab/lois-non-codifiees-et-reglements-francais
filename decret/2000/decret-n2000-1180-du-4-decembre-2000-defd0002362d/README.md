@@ -1,7 +1,6 @@
-# Décret n°96-576 du 27 juin 1996 fixant les attributions du service du matériel de l'armée de terre
+# Décret n°2000-1180 du 4 décembre 2000 fixant les attributions de la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense
 
 - [Article 1](article-1.md)
-- [Article 1 bis](article-1-bis.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
