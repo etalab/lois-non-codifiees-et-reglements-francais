@@ -1,6 +1,6 @@
 # Article 467-1
 
-Seront punis d'un emprisonnement de deux à six mois et d'une amende de 2.000 à 40.000 F [*sanctions*] ou de l'une de ces deux peines seulement le président et les membres du conseil d'administration, les directeurs généraux, les membres du directoire et du conseil de surveillance d'une société anonyme, les gérants d'une société en commandite par actions :
+Seront punis d'un emprisonnement de six mois et d'une amende de 40.000 F [*sanctions*] ou de l'une de ces deux peines seulement le président et les membres du conseil d'administration, les directeurs généraux, les membres du directoire et du conseil de surveillance d'une société anonyme, les gérants d'une société en commandite par actions :
 
 1° Dont la société aura émis des actions à dividende prioritaire sans droit de vote dépassant le pourcentage fixé par l'article 269-1 ;
 

@@ -30,8 +30,8 @@ En cas de condamnation pour les infractions visées aux 5° et au 6°, le tribun
 
 En cas de condamnation prononcée pour des infractions visées aux 4°, 5°, 6° et 9° et commises à l'aide d'un véhicule, le tribunal pourra, de plus, ordonner la suspension du permis de conduire pour une durée n'excédant pas cinq ans.
 
-Le tribunal peut ordonner, aux frais du condamné, la publication intégrale ou par extraits de sa décision et éventuellement la diffusion d'un message, dont il fixe les termes, informant le public des motifs et du contenu de sa décision, dans un ou plusieurs journaux qu'il désigne ainsi que son affichage dans les conditions et sous les peines prévues, suivant les cas, aux articles 51 et 471 du code pénal, sans toutefois que les frais de cette publicité puissent excéder le montant maximum de l'amende encourue.
+Le tribunal peut ordonner l'affichage ou la diffusion intégrale ou partielle de la décision prononçée dans les conditions prévues par l'article 131-35 du code pénal.
 
-Les associations agréées en application de l'article 40 de la loi
+Les associations agréées en application de l'article 40 de la loi n° 76-629 du 10 juillet 1976 relative à la protection de la nature peuvent exercer les droits reconnus à la partie civile en ce qui concerne les infractions prévues au présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elles ont
 
-n° 76-629 du 10 juillet 1976 relative à la protection de la nature peuvent exercer les droits reconnus à la partie civile en ce qui concerne les infractions prévues au présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elles ont pour objet de défendre.
+pour objet de défendre.

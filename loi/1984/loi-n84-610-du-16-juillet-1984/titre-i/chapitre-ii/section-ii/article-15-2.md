@@ -14,4 +14,4 @@ Toute convention relative à la rémunération d'une personne exerçant l'activi
 
 Nul ne peut exercer l'activité définie au premier alinéa s'il a fait l'objet d'une interdiction d'exercice des professions industrielles, commerciales ou libérales en application de la loi n° 47-1635 du 30 août 1947 relative à l'assainissement des professions commerciales et industrielles ou de l'article 1750 du code général des impôts.
 
-Quiconque exercera l'activité définie au premier alinéa en méconnaissance des dispositions du présent article sera puni d'une amende de 12 000 F à 120 000 F et d'un emprisonnement de six mois à un an ou de l'une de ces deux peines seulement.
+Quiconque exercera l'activité définie au premier alinéa en méconnaissance des dispositions du présent article sera puni de 120000 F d'amende [* taux *] et d'un an d'emprisonnement ou de l'une de ces deux peines seulement.

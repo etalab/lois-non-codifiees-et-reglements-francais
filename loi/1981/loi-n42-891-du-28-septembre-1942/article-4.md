@@ -1,6 +1,6 @@
 # Article 4
 
-Toute infraction aux dispositions des articles 1er, 2 et 3 ci-dessus sera punie d'un emprisonnement d'un à trois ans et d'une amende de 6.000 F à 40.000 F ou de l'une de ces deux peines [*sanctions pénales*] seulement.
+Toute infraction aux dispositions des articles 1er, 2 et 3 ci-dessus sera punie d'un emprisonnement de trois ans et d'une amende de 40.000 F ou de l'une de ces deux peines [*sanctions pénales*] seulement.
 
 Sera puni des mêmes peines le dirigeant de droit ou [*dirigeant*] de fait d'une agence privée de recherches qui aura eu recours, même à titre occasionnel, aux services d'un agent privé de recherches qui ne remplit pas les conditions prévues par l'article 1er.
 

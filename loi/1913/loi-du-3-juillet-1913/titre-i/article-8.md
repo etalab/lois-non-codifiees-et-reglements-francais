@@ -1,5 +1,5 @@
 # Article 8
 
-Toute infraction commise sciemment aux dispositions qui précèdent sera punie d'une amende de 1.300 à 3.000 F [*sanctions*]. L'action sera introduite par le Procureur de la République soit d'office, soit sur la plainte du ministre des affaires sociales ou de toute autre partie intéressée.
+Toute infraction commise sciemment aux dispositions qui précèdent sera punie d'une amende prévue par le 4° de l'article 131-13 du code pénal pour les contraventions de la 4ème classe    .
 
-L'article 463 du code pénal et suivants sont applicables.
+L'action sera introduite par le Procureur de la République soit d'office, soit sur la plainte du ministre des affaires sociales ou de toute autre partie intéressée.

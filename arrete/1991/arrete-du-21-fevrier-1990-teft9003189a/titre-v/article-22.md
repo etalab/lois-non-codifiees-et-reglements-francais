@@ -18,7 +18,7 @@ Dans tous les cas, si la préparation est affectée de l'une des phrases R. 39, 
 
 Le nom des substances doit figurer sous une des dénominations reprises à l'annexe I de l'arrêté du 10 octobre 1983 modifié susvisé ou, si elle n'y figure pas, sous une dénomination internationalement reconnue.
 
-Lorsqu'il peut apporter la preuve que la divulgation de l'identité d'une substance nocive non affectée de l'une des phrases R susmentionnées porte atteinte au secret industriel et commercial au sens de l'article 378 du code pénal, le fabricant d'une préparation peut faire référence à cette substance en nommant les groupes chimiques fonctionnels les plus significatifs ou par tout autre moyen ; dans ce cas, il doit en informer un organisme agréé par les ministres concernés, lors de la première mise sur le marché de la préparation.
+Lorsqu'il peut apporter la preuve que la divulgation de l'identité d'une substance nocive non affectée de l'une des phrases R susmentionnées porte atteinte au secret industriel et commercial au sens des articles 226-13 et 226-14 du code pénal, le fabricant d'une préparation peut faire référence à cette substance en nommant les groupes chimiques fonctionnels les plus significatifs ou par tout autre moyen ; dans ce cas, il doit en informer un organisme agréé par les ministres concernés, lors de la première mise sur le marché de la préparation.
 
 d) Les symboles et les indications de danger de la préparation conformément à l'article 7 (a) de l'arrêté du 10 octobre 1983 modifié, et, en ce qui concerne le danger d'inflammabilité des préparations présentées sous forme d'aérosols, les symboles et les mentions conformément aux points 1 et 2-2 de l'annexe à l'arrêté du 6 janvier 1978 modifié susvisé.
 

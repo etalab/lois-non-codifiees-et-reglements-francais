@@ -4,4 +4,4 @@ Les actes et documents émanant du groupement et destinés aux tiers, notamment 
 
 "G.I.E.".
 
-Toute infraction aux dispositions de l'alinéa ci-dessus est punie [*sanctions pénales*] d'une amende de 2.000 F à 5.000 F.
+Toute infraction aux dispositions de l'alinéa ci-dessus est punie [*sanctions pénales*] d'une amende de 25.000 F.

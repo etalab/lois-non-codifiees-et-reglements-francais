@@ -1,3 +1,3 @@
 # Article 1
 
-Le règlement particulier du marché international des sucres blancs de Paris annexé au présent arrêté est homologué.
+Sont homologuées les modifications apportées aux articles 10, 21, 33, 38, 39, 42 et 43 du règlement général des marchés réglementés de la bourse de commerce de Paris.

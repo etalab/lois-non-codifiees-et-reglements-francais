@@ -1,6 +1,6 @@
 # Article 72
 
-Est passible d'une amende de 2.000 à 80.000 F [*sanctions pénales*] :
+Est passible d'une amende de 80.000 F [*sanctions pénales*] :
 
 1° Le tiré qui indique une provision inférieure à la provision existante et disponible ;
 

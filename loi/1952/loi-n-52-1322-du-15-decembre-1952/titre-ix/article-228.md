@@ -1,6 +1,6 @@
 # Article 228
 
-Seront punis d'une amende de 1.300 à 3.000 francs [*1*] [*montant*] et d'un emprisonnement de six jours à trois mois [*durée*] ou de l'une de ces deux peines seulement :
+Seront punis d'une amende de 25.000 francs (1) [*montant*] et d'un emprisonnement de trois mois [*durée*] ou de l'une de ces deux peines seulement :
 
 a) Les auteurs d'infractions aux dispositions des articles 2, sur l'interdiction du travail forcé, et 99, paragraphe 2, sur le payement du salaire en alcool ou boisson alcoolisée ;
 
@@ -16,4 +16,6 @@ f) Tout employeur, fondé de pouvoir ou préposé, qui aura sciemment engagé, t
 
 g) Toute personne qui aura exigé ou accepté du travailleur une rémunération quelconque à titre d'intermédiaire dans le règlement ou le payement des salaires, indemnités, allocations et frais de toute nature.
 
-En cas de récidive, l'amende sera de 3.000 à 6.000 francs [*1*] et l'emprisonnement de quinze jours à six mois.
+En cas de récidive, l'amende sera de 25.000 francs (1) et l'emprisonnement de six mois.
+
+(1) Amende applicable depuis le 1er mars 1994.

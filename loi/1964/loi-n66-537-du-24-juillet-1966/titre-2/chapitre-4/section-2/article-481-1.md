@@ -1,6 +1,6 @@
 # Article 481-1
 
-Seront punis d'une amende de  amende de 6.000 F à 120.000 F [*sanctions pénales*], les personnes physiques et les présidents, les administrateurs, les membres du directoire, les gérants ou les directeurs généraux des personnes morales qui, sciemment se seront abstenus de procéder aux informations auxquelles cette société est tenue, en application de l'article 356-1, du fait des participations qu'elle détient.
+Seront punis d'une amende de 120.000 F [*sanctions pénales*], les personnes physiques et les présidents, les administrateurs, les membres du directoire, les gérants ou les directeurs généraux des personnes morales qui, sciemment se seront abstenus de procéder aux informations auxquelles cette société est tenue, en application de l'article 356-1, du fait des participations qu'elle détient.
 
 Seront punis de la même peine les présidents, les administrateur les membres du directoire, les gérants ou les directeurs généraux d'une société qui, sciemment, se seront abstenus de procéder aux notifications auxquelles cette société est tenue, en application de l'article 356-2, du fait des participations qu'elle détient dans la société par actions qui la contrôle.
 

@@ -1,6 +1,6 @@
 # Article 425
 
-Seront punis d'un emprisonnement d'un an à cinq ans et d'une amende de 2.000 F à 2.500.000 F [*sanctions pénales*] ou de l'une de ces deux peines seulement :
+Seront punis d'un emprisonnement de cinq ans et d'une amende de 2.500.000 F [*sanctions pénales*] ou de l'une de ces deux peines seulement :
 
 1. Ceux qui, frauduleusement, auront fait attribuer à un apport en nature, une évaluation supérieure à sa valeur réelle ;
 

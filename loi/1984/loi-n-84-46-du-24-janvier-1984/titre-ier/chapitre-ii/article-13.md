@@ -6,11 +6,11 @@ Nul ne peut être membre d'un conseil d'administration ou d'un conseil de survei
 
 a) Pour crime ;
 
-b) Pour violation des dispositions des articles 150, 151, 151-1, 177, 178, 179, 419 ou 420 du code pénal ;
+b) Pour violation des dispositions des articles 441-1, 151-1, 432-11, 441-8, 433-1, 433-2, 433-3 et 441-8, 52-1, 313-1, 313-7 et 313-8 et 313-4 du code pénal ;
 
 c) Pour vol, escroquerie ou abus de confiance ;
 
-d) Pour un délit puni par des lois spéciales, des peines prévues aux articles 405, 406 et 410 du code pénal ;
+d) Pour un délit puni par des lois spéciales, des peines prévues aux articles 313-1, 313-7 et 313-8, 313-4 et 1 du code pénal ;
 
 e) Pour soustractions commises par dépositaires publics, extorsions de fonds ou valeurs, banqueroute, atteinte au crédit de l'Etat ou infraction à la législation sur les changes ;
 

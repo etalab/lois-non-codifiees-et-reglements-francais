@@ -6,4 +6,4 @@ Les groupements constitués avant la date de publication de la loi n° 92-652 du
 
 Les dispositions de cet article ne s'appliquent pas aux fédérations sportives agréées par le ministre chargé des sports à la date de publication de la loi n° 92-652 du 13 juillet 1992.
 
-Les présidents, administrateurs ou directeurs des groupements qui auront méconnu les dispositions du présent article seront punis d'une amende de 5 000 F à 15 000 F et, en cas de récidive, d'une amende de 10 000 F à 30 000 F.
+Les présidents, administrateurs ou directeurs des groupements qui auront méconnu les dispositions du présent article seront punis de 25000 F d'amende [* taux *] et, en cas de récidive, de 50000 F d'amende [* taux *].

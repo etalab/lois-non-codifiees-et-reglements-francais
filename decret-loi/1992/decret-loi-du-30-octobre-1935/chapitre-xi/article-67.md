@@ -1,6 +1,6 @@
 # Article 67
 
-Seront punis d'un emprisonnement d'un an à sept ans et d'une amende de 3 600 F à 5 000 000 F ou de l'une de ces deux peines [*sanctions*] seulement :
+Seront punis d'un emprisonnement de sept ans et d'une amende de 5 000 000 F ou de l'une de ces deux peines seulement [*sanctions pénales*]:
 
 1° Ceux qui auront contrefait ou falsifié un chèque ;
 

@@ -1,6 +1,6 @@
 # Article 474
 
-Seront punis d'une amende de 2.000 F à 40.000 F [*sanctions pénales*] :
+Seront punis d'une amende de 40.000 F [*sanctions pénales*] :
 
 1° Le président, les administrateurs, les directeurs généraux, les gérants, les commissaires aux comptes, les membres du conseil de surveillance ou les employés de la société débitrice ou de la société garante de tout ou partie des engagements de la société débitrice ainsi que leurs ascendants, descendants ou conjoints qui auront représenté des obligataires à leur assemblée générale, ou auront accepté d'être les représentants de la masse des obligataires ;
 

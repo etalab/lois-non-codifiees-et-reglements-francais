@@ -1,6 +1,6 @@
 # Article 437
 
-Seront punis d'un emprisonnement d'un an à cinq ans et d'une amende de 2.000 F à 2.500.000 F [*sanctions pénales*] :
+Seront punis d'un emprisonnement de cinq ans et d'une amende de 2.500.000 F [*sanctions pénales*] :
 
 1. Le président, les administrateurs ou les directeurs généraux d'une société anonyme qui, en l'absence d'inventaire ou au moyen d'inventaires frauduleux, auront, sciemment [*intention frauduleuse*], opéré entre les actionnaires la répartition de dividendes fictifs ;    2. Le président, les administrateurs ou les directeurs généraux d'une société anonyme qui, même en l'absence de toute distribution de dividendes, auront sciemment publié ou présenté aux actionnaires, en vue de dissimuler la véritable situation de la société, des comptes annuels ne donnant pas, pour chaque exercice, une image fidèle du résultat des opérations de l'exercice, de la situation financière et du patrimoine, à l'expiration de cette période ;
 

@@ -1,6 +1,6 @@
 # Article 486
 
-Sera puni d'un emprisonnement de deux mois à six mois et d'une amende de 2.000 F à 60.000 F [*sanctions pénales*] ou de l'une de ces deux peines seulement, le liquidateur d'une société qui, sciemment [*intention frauduleuse*] :
+Sera puni d'un emprisonnement de six mois et d'une amende de 60.000 F [*sanctions pénales*] ou de l'une de ces deux peines seulement, le liquidateur d'une société qui, sciemment [*intention frauduleuse*] :
 
 1° N'aura pas, dans le délai d'un mois de sa nomination, publié dans un journal d'annonces légales dans le département du siège social, l'acte le nommant liquidateur et déposé au registre du commerce les décisions prononçant la dissolution [*publicité*] ;
 

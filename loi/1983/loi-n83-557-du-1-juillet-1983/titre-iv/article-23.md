@@ -1,10 +1,10 @@
 # Article 23
 
-Seront punis d'une amende de 2.000 F à 60.000 F ou les membres du directoire qui n'auront pas soumis à l'autorisation préalable du conseil d'orientation et de surveillance [*sanctions pénales*] :
+Seront punis d'une amende de 60.000 F ou les membres du directoire qui n'auront pas soumis à l'autorisation préalable du conseil d'orientation et de surveillance [*sanctions pénales*] :
 
 - un projet d'acte de disposition sur le patrimoine social ;
 
-- un projet de convention entre la caisse d'épargne et de prévoyance et les membres du directoire ou du conseil d'orientation e de surveillance de la caisse d'épargne et de prévoyance elle-même ou de tout autre organisme visé par la présente loi.
+- un projet de convention entre la caisse d'épargne et de prévoyance et les membres du directoire ou du conseil d'orientation et de surveillance de la caisse d'épargne et de prévoyance elle-même ou de tout autre organisme visé par la présente loi.
 
 Seront punis des mêmes peines les membres du directoire qui n'auront pas communiqué au conseil d'orientation et de surveillance les documents concernant les trois derniers exercices : comptes d'exploitation, inventaires, comptes de pertes et profits, bilans, rapports du directoire, bilans sociaux de la caisse.
 

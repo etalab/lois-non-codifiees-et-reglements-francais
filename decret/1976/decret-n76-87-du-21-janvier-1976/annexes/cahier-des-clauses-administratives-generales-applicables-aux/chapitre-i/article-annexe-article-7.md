@@ -8,7 +8,7 @@ L'entrepreneur doit aviser ses sous-traitants des obligations spéciales qui ré
 
 7.2. Le maître d'oeuvre peut exiger l'éviction des chantiers, ateliers ou bureaux de toute personne employée par l'entrepreneur, même en dehors des cas prévus à l'article 36.
 
-Si l'entrepreneur découvre un acte de malveillance, il est tenu d'alerter immédiatement le maître d'oeuvre sous peine de poursuites éventuelles en application notamment de l'article 100 du code pénal et sans préjudice de l'application des mesures coercitives prévues à l'article 49.
+Si l'entrepreneur découvre un acte de malveillance, il est tenu d'alerter immédiatement le maître d'oeuvre sous peine de poursuites éventuelles en application notamment de l'article 434-2 du code pénal et sans préjudice de l'application des mesures coercitives prévues à l'article 49.
 
 Si, à la suite d'un acte de malveillance, la personne responsable du marché estime que des mesures de sécurité doivent être prises, visant notamment le personnel, l'entrepreneur est tenu de les appliquer sans délai.
 

@@ -1,0 +1,5 @@
+# Article 21
+
+La déclaration d'utilité publique d'ouvrages à exécuter par l'Etat, un département, une commune ou une association syndicale de la loi du 26 juin 1865, modifiée par celle du 22 décembre 1888, ou par leur concessionnaire, confère à l'administration ou au concessionnaire pour l'établissement ou le fonctionnement des conducteurs d'énergie employés à l'exploitation de ces ouvrages, les droits de passage, d'appui et d'ébranchage spécifiés à l'article 12 ci-dessus, avec application des dispositions spéciales édictées à cet effet par les règlements d'administration publique prévus à l'article 18.
+
+Le bénéfice de ces droits restera acquis à l'administration ou au concessionnaire, même dans le cas où l'énergie serait fournie aux conducteurs par une usine privée ou par une entreprise de distribution publique d'énergie non déclarée d'utilité publique, et aussi dans le cas où les ouvrages serviraient simultanément à un transport d'énergie destiné à des usages autres que le service public ou le service de l'association syndicale.

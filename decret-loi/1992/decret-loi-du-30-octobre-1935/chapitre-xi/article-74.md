@@ -6,9 +6,9 @@ Seule la Banque de France assure la centralisation des informations prévues à 
 
 Pour l'application du premier alinéa, la Banque de France reçoit de l'administration des impôts les informations détenues par celle-ci en application de l'article 1649 A du code général des impôts, qui permettent d'identifier l'ensemble des comptes ouverts par les personnes physiques ou morales mentionnées à l'article 65-2 et au deuxième alinéa de l'article 68 et sur lesquels peuvent être tirés des chèques. Elle lui fournit, aux seules fins poursuivies par le présent décret, les renseignements permettant d'identifier les titulaires de ces comptes.
 
-Elle communique également au procureur de la République les renseignements concernant les infractions réprimées par les troisième et quatrième alinéas de l'article 66 et par l'article 69.
+Elle communique également au Procureur de la République les renseignements concernant les infractions réprimées par les troisième et quatrième alinéas de l'article 66 et par l'article 69.
 
-Les peines prévues par l'article 44 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés sont applicables à toute personne qui utilise, à d'autres fins que celles poursuivies par le présent décret, les informations centralisées par la Banque de France en application du premier alinéa et à toute personne qui, en violation du deuxième alinéa, assure la centralisation des informations prévues par le premier alinéa.
+Les peines prévues par l'article 226-21 du code pénal [*sanctions pénales*] sont applicables à toute personne qui utilise, à d'autres fins que celles poursuivies par le présent décret, les informations centralisées par la Banque de France en application du premier alinéa et à toute personne qui, en violation du deuxième alinéa, assure la centralisation des informations prévues par le premier alinéa.
 
 Les dispositions du précédent alinéa ne font pas obstacle à ce que les établissements de crédit utilisent ces informations comme élément d'appréciation avant d'accorder un financement ou une ouverture de crédit.
 

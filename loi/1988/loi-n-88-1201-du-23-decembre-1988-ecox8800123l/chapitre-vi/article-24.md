@@ -6,4 +6,4 @@ Les organismes de placement collectif en valeurs mobilières, le dépositaire et
 
 La Commission des opérations de bourse peut retirer son agrément à tout organisme de placement collectif en valeurs mobilières.
 
-Seront punis d'une amende de 100 000 F à 5 millions F et de six mois à deux ans d'emprisonnement les dirigeants de droit ou de fait d'un organisme qui aura procédé à des placements collectifs en valeurs mobilières sans avoir été agréé ou qui aura poursuivi son activité malgré un retrait d'agrément [*sanctions pénales*].
+Seront punis d'une amende de 5 millions F et de deux ans d'emprisonnement les dirigeants de droit ou de fait d'un organisme qui aura procédé à des placements collectifs en valeurs mobilières sans avoir été agréé ou qui aura poursuivi son activité malgré un retrait d'agrément [*sanctions pénales*].

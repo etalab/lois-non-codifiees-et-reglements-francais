@@ -3,6 +3,7 @@
 - [Loi n° 82-1169 du 31 décembre 1982](loi-n-82-1169-du-31-decembre-1982)
 - [Loi n° 82-1171 du 31 décembre 1982](loi-n-82-1171-du-31-decembre-1982)
 - [Loi n° 83-1 du 3 janvier 1983](loi-n-83-1-du-3-janvier-1983)
+- [Loi n° 83-1119 du 23 décembre 1983](loi-n-83-1119-du-23-decembre-1983)
 - [Loi n° 83-466 du 10 juin 1983](loi-n-83-466-du-10-juin-1983)
 - [Loi n° 83-582 du 5 juillet 1983](loi-n-83-582-du-5-juillet-1983)
 - [Loi n° 83-597 du 7 juillet 1983](loi-n-83-597-du-7-juillet-1983)
@@ -13,4 +14,5 @@
 - [Loi n° 83-675 du 26 juillet 1983](loi-n-83-675-du-26-juillet-1983)
 - [Loi n° 83-8 du 7 janvier 1983](loi-n-83-8-du-7-janvier-1983)
 - [Loi n°83-557 du 1 juillet 1983](loi-n83-557-du-1-juillet-1983)
+- [Loi n°83-629 du 12 juillet 1983](loi-n83-629-du-12-juillet-1983)
 - [Loi n°83-630 du 12 juillet 1983](loi-n83-630-du-12-juillet-1983)

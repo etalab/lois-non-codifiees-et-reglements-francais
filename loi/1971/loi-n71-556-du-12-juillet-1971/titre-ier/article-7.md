@@ -4,7 +4,7 @@ Sont incapables d'exercer une fonction quelconque de direction et d'être employ
 
 a) Ceux qui ont subi une condamnation judiciaire pour crime de droit commun ou pour délit contraire à la probité et aux moeurs ;
 
-b) Ceux qui ont été privés par jugement de tout ou partie des droits mentionnés à l'article 42 du code pénal, ou qui ont été déchus de la puissance paternelle ;
+b) Ceux qui ont été privés par jugement de tout ou partie des droits mentionnés à l'article 131-26 du code pénal, ou qui ont été déchus de la puissance paternelle ;
 
 c) Ceux qui ont été frappés d'interdiction absolue d'enseigner ;
 

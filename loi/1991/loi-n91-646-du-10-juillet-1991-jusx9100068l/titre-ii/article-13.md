@@ -20,6 +20,6 @@ Les agents de la commission sont nommés par le président.
 
 Les membres de la commission désignés en remplacement de ceux dont les fonctions ont pris fin avant leur terme normal achèvent le mandat de ceux qu'ils remplacent. A l'expiration de ce mandat, par dérogation au septième alinéa ci-dessus, ils peuvent être nommés comme membre de la commission s'ils ont occupé ces fonctions de remplacement pendant moins de deux ans.
 
-Les membres de la commission sont astreints au respect des secrets protégés par les articles 75 et 378 du code pénal pour les faits, actes ou renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions.
+Les membres de la commission sont astreints au respect des secrets protégés par les articles 413-10, 226-13 et 226-14 du code pénal pour les faits, actes ou renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions.
 
 La commission établit son règlement intérieur.

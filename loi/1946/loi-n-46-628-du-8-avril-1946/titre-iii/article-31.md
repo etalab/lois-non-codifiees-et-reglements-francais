@@ -2,7 +2,7 @@
 
 Sous réserve des dispositions de l'article 22 de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public les administrateurs sont civilement responsables de leur gestion dans les mêmes conditions que les administrateurs des sociétés anonymes.
 
-Sont punis des peines portées à l'article 405 du code pénal, sans préjudice de l'application de cet article à tous les faits constitutifs du délit d'escroquerie, les administrateurs ou directeurs généraux qui :
+Sont punis des peines portées aux articles 313-1 à 313-3 du code pénal, sans préjudice de l'application de cet article à tous les faits constitutifs du délit d'escroquerie, les administrateurs ou directeurs généraux qui :
 
 1° Par simulation de faits faux, ont obtenu ou tenté d'obtenir des souscriptions d'obligations ;
 

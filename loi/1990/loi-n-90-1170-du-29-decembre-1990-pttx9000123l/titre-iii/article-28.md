@@ -10,7 +10,7 @@ b) à autorisation préalable du Premier ministre dans les autres cas.
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles est souscrite la déclaration et accordée l'autorisation mentionnée à l'alinéa précédent. Ce décret peut prévoir un régime simplifié de déclaration ou d'autorisation pour certains types de matériels ou de prestations ou pour certaines catégories d'utilisateurs.
 
-II. - Sans préjudice de l'application du code des douanes, sera puni d'une amende de 6 000 F à 500 000 F et d'un emprisonnement d'un mois à trois mois ou de l'une de ces deux peines seulement quiconque aura soit exporté un moyen de cryptologie, soit fourni ou fait fournir une prestation de cryptologie sans l'autorisation mentionnée au paragraphe I du présent article. Le tribunal pourra, en outre, interdire à l'intéressé de solliciter cette autorisation pendant une durée de deux ans au plus, portée à cinq ans en cas de récidive.
+II. - Sans préjudice de l'application du code des douanes, sera puni de 500000 F d'amende [* taux *] et de trois mois d'emprisonnement ou de l'une de ces deux peines seulement quiconque aura soit exporté un moyen de cryptologie, soit fourni ou fait fournir une prestation de cryptologie sans l'autorisation mentionnée au paragraphe I du présent article. Le tribunal pourra, en outre, interdire à l'intéressé de solliciter cette autorisation pendant une durée de deux ans au plus, portée à cinq ans en cas de récidive.
 
 En cas de condamnation, le tribunal pourra, en outre, prononcer la confiscation des moyens de cryptologie.
 
@@ -30,7 +30,7 @@ Les matériels saisis sont immédiatement inventoriés. L'inventaire est annexé
 
 Le président du tribunal de grande instance ou le juge délégué par lui peut d'office à tout moment ou sur la demande de l'intéressé ordonner mainlevée de la saisie.
 
-Sera puni d'un emprisonnement d'un à trois mois et d'une amende de 2 000 F à 200 000 F, ou de l'une de ces deux peines seulement, quiconque aura, sans raison valable, refusé de fournir les informations ou documents ou fait obstacle au déroulement des enquêtes mentionnées au présent paragraphe.
+Sera puni de trois mois d'emprisonnement et de 200000 F d'amende * taux *, ou de l'une de ces deux peines seulement, quiconque aura, sans raison valable, refusé de fournir les informations ou documents ou fait obstacle au déroulement des enquêtes mentionnées au présent paragraphe.
 
 IV. - Les autorisations de fourniture, d'exportation ou d'utilisation de moyens ou de prestations de cryptologie délivrées avant la date de publication de la présente loi conservent leurs effets jusqu'à l'expiration du terme prévu.
 

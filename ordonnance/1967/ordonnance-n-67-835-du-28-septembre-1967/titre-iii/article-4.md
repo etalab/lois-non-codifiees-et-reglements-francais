@@ -10,7 +10,7 @@ La commission technique des ententes et des positions dominantes peut se saisir 
 
 Ses rapporteurs disposent des pouvoirs d'investigation prévus au livre II de l'ordonnance n° 45-1484 du 30 juin 1945. Leurs rapports sont communiqués aux parties intéressées qui sont mises en mesure de préserter leurs observations aux rapporteurs.
 
-Au vu de l'avis de la commission technique ou si la commission ne s'est pas prononcée dans le délai de six mois à compter du jour où elle a été saisie ou en cas d'urgence, de récidive ou de flagrant délit, le ministre peut transmettre le dossier au parquet soit en vue de l'application des dispositions de l'ordonnance n° 45-1484 du 30 juin 1945 relative à la constatation, la poursuite et la répression des infractions à la législation économique, soit en vue de l'application de l'article 419 du code pénal.
+Au vu de l'avis de la commission technique ou si la commission ne s'est pas prononcée dans le délai de six mois à compter du jour où elle a été saisie ou en cas d'urgence, de récidive ou de flagrant délit, le ministre peut transmettre le dossier au parquet soit en vue de l'application des dispositions de l'ordonnance n° 45-1484 du 30 juin 1945 relative à la constatation, la poursuite et la répression des infractions à la législation économique, soit en vue de l'application de l'article 52-1 du code pénal.
 
 Le ministre peut également offrir aux parties intéressées de souscrire un règlement amiable par lequel celles-ci s'engagent à apporter à leurs activités les modifications qu'il juge nécessaires. Cette offre peut être assortie de délais et de conditions.
 

@@ -8,4 +8,4 @@ Les dispositions du titre XII du code des douanes sont applicables aux infractio
 
 Dans le cas où la sanction prévue au premier alinéa du présent article est appliquée, la majoration du 6 de l'article 98 précité n'est pas mise en oeuvre.
 
-III. - Toute infraction aux dispositions de l'article 107 de la loi de finances pour 1990 (n° 89-935 du 29 décembre 1989) précitée sera punie d'une amende de 5 000 F à 100 000 F *sanctions pénales*.
+III. - Toute infraction aux dispositions de l'article 107 de la loi de finances pour 1990 (n° 89-935 du 29 décembre 1989) précitée sera punie d'une amende de 100 000 F.

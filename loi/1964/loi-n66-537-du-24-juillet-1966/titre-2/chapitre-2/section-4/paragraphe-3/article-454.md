@@ -1,6 +1,6 @@
 # Article 454
 
-Seront punis d'une amende de 2.000 F à 60.000 F le président ou les administrateurs d'une société anonyme qui sciemment [*intention frauduleuse*], auront procédé à une réduction du capital social [*sanctions pénales*].
+Seront punis d'une amende de 60.000 F le président ou les administrateurs d'une société anonyme qui sciemment [*intention frauduleuse*], auront procédé à une réduction du capital social [*sanctions pénales*].
 
 1° Sans respecter l'égalité des actionnaires ;
 

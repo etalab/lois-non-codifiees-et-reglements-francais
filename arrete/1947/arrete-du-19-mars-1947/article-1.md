@@ -10,6 +10,6 @@ Peuvent être commissionnés :
 
 3° Des experts techniques pour certaines missions spéciales.
 
-Ces personnes sont tenues au secret professionnel sous les peines prévues à l'article 378 du Code pénal. Elles prêtent serment devant le tribunal de grande instance de leur résidence.
+Ces personnes sont tenues au secret professionnel sous les peines prévues aux articles 226-13 et 226-14 du code pénal. Elles prêtent serment devant le tribunal de grande instance de leur résidence.
 
-Les agents de contrôle sont assimilés aux fonctionnaires publics pour l'application des articles 177 à 179 du Code pénal. Ils sont rémunérés par le centre national de la cinématographie.
+Les agents de contrôle sont assimilés aux fonctionnaires publics pour l'application des articles 177 à 179 du code pénal. Ils sont rémunérés par le centre national de la cinématographie.

@@ -1,0 +1,3 @@
+# Article 3
+
+L'Etat peut apporter ou donner en gérance sous forme de contrat de location des actifs du service des poudres, nécessaires à l'exploitation, à une société nationale régie par la loi n° 68-537 du 24 juillet 1966 sur les sociétés commerciales et dont l'Etat détiendra la majorité du capital social. L'objet de cette société sera notamment d'assurer les opérations définies à l'article 1er qui lui seront confiées par l'Etat. Cet apport pourra être subordonné à la condition que la société assume les obligations contractées par l'Etat. Les transferts de biens correspondants seront exonérés de droits et taxes.

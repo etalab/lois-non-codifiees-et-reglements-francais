@@ -1,6 +1,6 @@
 # Article 445
 
-Seront punis d'une amende de 2.000 F à 60.000 F [*sanctions pénales*], le président, les administrateurs ou les directeurs généraux d'une société anonyme qui n'auront pas mis à la disposition de tout actionnaire, au siège social ou au lieu de la direction administrative [*information*] :
+Seront punis d'une amende de 60.000 F [*sanctions pénales*], le président, les administrateurs ou les directeurs généraux d'une société anonyme qui n'auront pas mis à la disposition de tout actionnaire, au siège social ou au lieu de la direction administrative [*information*] :
 
 1. Pendant le délai de quinze jours qui précède la réunion de l'assemblée générale ordinaire annuelle, les documents [*sociaux*] énumérés à l'article 168 ;
 

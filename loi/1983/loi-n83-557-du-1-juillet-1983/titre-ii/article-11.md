@@ -48,7 +48,7 @@ Lorsque l'annulation de la décision d'autorisation est devenue définitive, le 
 
 Sauf si les procédures applicables au licenciement des représentants du personnel ou des conseillers prud'hommes leur sont applicables, la procédure définie ci-dessus est également applicable au licenciement des anciens membres salariés du conseil d'orientation et de surveillance pendant les six premiers mois qui suivent la cessation de leur mandat pour quelque cause que ce soit  ainsi qu'au licenciement des salariés qui sont ou ont été candidats à l'élection prévue au 2° du présent article, pendant les trois mois qui suivent le dépôt des candidatures.
 
-Tout licenciement prononcé en violation des dispositions qui précèdent est puni d'un emprisonnement de deux mois à un an  et d'une amende de 2.000 F à 20.000 F ou de l'une de ces deux peines seulement [*sanctions pénales*].
+Tout licenciement prononcé en violation des dispositions qui précèdent est puni d'un emprisonnement d'un an et d'une amende de 25.000 F ou de l'une de ces deux peines seulement [*sanctions pénales*].
 
 En cas de récidive, l'emprisonnement pourra être porté à deux ans et l'amende à 40.000 F.
 

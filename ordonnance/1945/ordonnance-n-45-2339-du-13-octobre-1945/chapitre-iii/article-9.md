@@ -4,4 +4,4 @@ Aucun directeur ne peut, pour des spectacles payants et sous les réserves résu
 
 Aucune licence n'est exigée des metteurs en scène.
 
-Sera puni d'une amende de 1300 à 3.000 F tout directeur d'entreprise de spectacles qui enfreindrait la disposition ci-dessus [*sanctions pénales*].
+Sera puni d'une amende prévue par le 3° de l'article 131-13 du code pénal pour les contraventions de la 3ème classe tout directeur d'entreprise de spectacles qui enfreindrait la disposition ci-dessus [*sanctions pénales*].

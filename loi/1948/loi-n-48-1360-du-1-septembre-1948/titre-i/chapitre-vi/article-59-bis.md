@@ -1,6 +1,6 @@
 # Article 59 bis
 
-Quiconque exécute ou fait exécuter les travaux visés au premier alinéa de l'article 14 sans avoir obtenu l'autorisation ou sans avoir fait la notification, prévues audit article, ou sans respecter les conditions d'exécution figurant dans la notification ou encore malgré une décision d'interdiction ou d'interruption des travaux prononcée par le juge du tribunal d'instance, statuant par ordonnance de référé, sera puni d'un emprisonnement de six mois à deux ans et d'une amende de 5.000 à 30.000 F [*sanctions pénales*].
+Quiconque exécute ou fait exécuter les travaux visés au premier alinéa de l'article 14 sans avoir obtenu l'autorisation ou sans avoir fait la notification, prévues audit article, ou sans respecter les conditions d'exécution figurant dans la notification ou encore malgré une décision d'interdiction ou d'interruption des travaux prononcée par le juge du tribunal d'instance, statuant par ordonnance de référé, sera puni d'un emprisonnement de deux ans et d'une amende de 30.000 F [*sanctions pénales*].
 
 Le tribunal pourra, en outre, ordonner la remise en état des lieux aux frais du condamné.
 

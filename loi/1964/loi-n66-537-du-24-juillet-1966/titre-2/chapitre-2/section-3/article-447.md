@@ -1,6 +1,6 @@
 # Article 447
 
-Seront punis d'une amende de 2.000 F à 20.000 F [*sanctions pénales*], le président ou les administrateurs d'une société anonyme qui, sciemment [*intention frauduleuse*] :
+Seront punis d'une amende de 25.000 F [*sanctions pénales*], le président ou les administrateurs d'une société anonyme qui, sciemment [*intention frauduleuse*] :
 
 1° N'auront pas fait tenir, pour toute réunion de l'assemblée des actionnaires, une feuille de présence émargée par les actionnaires présents et les mandataires, certifiée exacte par le bureau de l'assemblée, et contenant :
 

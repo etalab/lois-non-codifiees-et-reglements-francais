@@ -1,0 +1,3 @@
+# Article 9-1
+
+Tout géomètre-expert, personne physique ou morale, dont la responsabilité peut être engagée à raison des actes qu'il accomplit à titre professionnel ou des actes de ses préposés, doit être couvert par une assurance. Lorsque le géomètre-expert intervient en qualité d'associé d'une société de géomètres-experts constituée sous la forme d'une société à responsabilité limitée ou d'une société anonyme conformément à l'article 6-1, la société dont il est l'associé est seule civilement responsable des actes professionnels accomplis pour son compte et souscrit l'assurance garantissant les conséquences de ceux-ci.

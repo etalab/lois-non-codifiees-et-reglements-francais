@@ -14,4 +14,4 @@ Un décret fixe les modalités d'application des assurances obligatoires institu
 
 Ces assurances obligatoires entrent en vigueur le premier jour du troisième mois suivant la publication du décret visé à l'alinéa précédent.
 
-Quiconque contrevient aux dispositions du présent article est puni d'une amende de 6.000 F à 50.000 F et d'un emprisonnement de six mois à un an ou de l'une de ces peines seulement [*sanctions pénales*].
+Quiconque contrevient aux dispositions du présent article est puni de 50000 F d'amende [* taux *] et d'un an d'emprisonnement ou de l'une de ces peines seulement [*sanctions pénales*].

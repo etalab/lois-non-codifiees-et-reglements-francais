@@ -18,7 +18,7 @@ Poudres à tirer, explosifs, mèches et cordeaux détonants ; amorces et capsule
 
 3. Marchandises dangereuses pour la moralité publique.
 
-Toutes marchandises contraires aux bonnes moeurs visées à l'article 283 du code pénal.
+Toutes marchandises contraires aux bonnes moeurs visées à l'article 227-24 du code pénal.
 
 Livres, photos, films, cassettes et autres marchandises qui ne peuvent être mis en vente que dans les établissements dont l'accès est interdit aux mineurs en raison de leur caractère licencieux ou pornographique.
 

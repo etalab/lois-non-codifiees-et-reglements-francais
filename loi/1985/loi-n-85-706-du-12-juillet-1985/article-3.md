@@ -1,0 +1,3 @@
+# Article 3
+
+Les armes à feu et munitions mentionnées à l'article premier, exception faite des armes de signalisation et de starter à condition qu'elles ne permettent pas de tir de cartouches à balle, ne peuvent être proposées à la vente ou faire l'objet de publicité sur des catalogues, prospectus, publications périodiques ou tout autre support de l'écrit, de la parole ou de l'image que lorsque l'objet, le titre et l'essentiel du contenu de ces supports ont trait à la chasse, à la pêche ou au tir sportif. Les modalités d'application du présent article seront définies par un décret en Conseil d'Etat.

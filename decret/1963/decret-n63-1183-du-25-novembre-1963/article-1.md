@@ -1,6 +1,6 @@
 # Article 1
 
-Seront punis d'une amende de 1.300 à 3.000 F [*sanctions*] ceux qui, en infraction aux dispositions de la loi complétée et modifiée du 2 novembre 1943 relative à l'organisation du contrôle des produits antiparasitaires à usage agricole :
+Seront punis d'une amende prévue par le 4° de l'article 131-13 du code pénal pour les contraventions de la 4 ème classe [*sanctions pénales*] ceux qui, en infraction aux dispositions de la loi complétée et modifiée du 2 novembre 1943 relative à l'organisation du contrôle des produits antiparasitaires à usage agricole :
 
 1° Auront, pour les produits antiparasitaires à usage agricole définis à l'alinéa 2 de l'article de ladite loi, fait une publicité destinée aux milieux agricoles, lorsque cette publicité se réclame, pour une marque particulière, d'une efficacité supérieure à celle du produit normalisé ou d'un emploi non indiqué dans les arrêtés ministériels prévus audit alinéa ;
 

@@ -8,4 +8,4 @@ La composition du conseil est fixée par décret en Conseil d'Etat. Le conseil �
 
 Un commissaire du Gouvernement est désigné auprès du conseil du marché à terme par le ministre chargé de l'économie. Il a la faculté de demander une nouvelle délibération dans des conditions fixées par décret. La Commission des opérations de bourse peut, dans le délai de trois jours suivant une délibération du conseil en matière disciplinaire, demander une deuxième délibération.
 
-Les membres du conseil du marché à terme et des comités spécialisés, ainsi que leurs agents et ceux des institutions mentionnées à l'article 9, sont tenus au secret professionnel dans les conditions et sous les peines prévues à l'article 378 du code pénal.
+Les membres du conseil du marché à terme et des comités spécialisés, ainsi que leurs agents et ceux des institutions mentionnées à l'article 9, sont tenus au secret professionnel dans les conditions et sous les peines fixées par l'article 226-13 du code pénal.

@@ -1,6 +1,6 @@
 # Article 465
 
-Seront punis d'un emprisonnement de deux mois à six mois et d'une amende de 2.000 F à 40.000 F [*sanctions pénales*], ou de l'une de ces deux peines seulement, le président, les administrateurs ou les gérants d'une société par actions :
+Seront punis d'un emprisonnement de six mois et d'une amende de 40.000 F [*sanctions pénales*], ou de l'une de ces deux peines seulement, le président, les administrateurs ou les gérants d'une société par actions :
 
 1° Qui n'auront pas procédé aux appels de fonds pour réaliser la libération intégrale du capital dans le délai légal ;
 

@@ -8,8 +8,10 @@ I. - 1. Lorsqu'ils doivent connaître les ressources ou un élément quelconque 
 
 4. La liste de ces organismes ou services est fixée par décret pris sur le rapport du ministre de l'économie et des finances et des ministres sous l'autorité ou la tutelle desquels ils se trouvent placés.
 
-5. Les personnes qui sont appelées à connaître des déclarations et évaluations fiscales en application des dispositions du présent article sont tenues au secret professionnel sous les peines édictées à l'article 378 du Code pénal.
+5. Les personnes qui sont appelées à connaître des déclarations et évaluations fiscales en application des dispositions du présent article sont tenues au secret professionnel sous les peines fixées par l'article 226-13 du Code pénal.
 
 6. L'Etat, les collectivités locales et les organismes ou services visés au paragraphe 4 ci-dessus peuvent poursuivre, dans les conditions et limites prévues par la législation et la réglementation applicables aux organismes en cause, la restitution des sommes indûment perçues, le versement des sommes dont le paiement a été éludé ou la contrepartie des avantages abusivement obtenus du fait d'un défaut de déclarations, d'une omission ou inexactitude dans ladite déclaration.
 
-II. - Quiconque aura fourni sciemment des renseignements inexacts ou incomplets dans la déclaration exigée en vue d'obtenir de l'Etat, des collectivités locales, de l'un des services ou organismes visés au paragraphe 4, un paiement ou avantage quelconque indû sera puni d'un emprisonnement de un à quatre ans et d'une peine d'amende de 2.000 à 60.000 F ou de l'une de ces deux peines seulement.
+II. - Quiconque aura fourni sciemment des renseignements inexacts ou incomplets dans la déclaration exigée en vue d'obtenir de l'Etat, des collectivités locales, de l'un des services ou organismes visés au paragraphe 4, un paiement ou avantage quelconque indû sera puni d'un emprisonnement de quatre ans [*durée*] et d'une peine d'amende de 60.000 F [*montant*] ou de l'une de ces deux peines seulement.
+
+(1) Amende applicable depuis le 3 août 1968.
