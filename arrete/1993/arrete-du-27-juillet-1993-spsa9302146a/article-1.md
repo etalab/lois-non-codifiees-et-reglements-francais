@@ -5,3 +5,5 @@ L'examen professionnel d'accès au grade d'éducateur de jeunes enfants de class
 Cet arrêté est publié au Journal officiel de la République française et précise la date limite de dépôt des inscriptions, la date des épreuves et l'adresse à laquelle les candidatures doivent être déposées.
 
 La demande de publication est adressée au ministère des affaires sociales, de la santé et de la ville (D.A.S., bureau T.S. 3).
+
+En ce qui concerne l'Assistance publique - hôpitaux de Paris, chaque session d'examen fait l'objet d'une décision du directeur général. La publicité de cette décision résulte de l'insertion au Journal officiel de la République française et au bulletin municipal officiel de la ville de Paris.

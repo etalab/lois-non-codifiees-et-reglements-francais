@@ -13,3 +13,15 @@ Le jury comprend cinq membres :
 4° Un cadre socio-éducatif ;
 
 5° Un éducateur de jeunes enfants de la fonction publique hospitalière appartenant au grade le plus élevé de ce corps.
+
+En ce qui concerne l'Assistance publique - hôpitaux de Paris, le jury de l'examen professionnel est nommé par décision du directeur général.
+
+Le jury de l'examen comprend quatre membres :
+
+1° Le directeur général ou son représentant, président ;
+
+2° Un directeur d'établissement public de santé ;
+
+3° Un cadre socio-éducatif ;
+
+4° Un éducateur de jeunes enfants de la fonction publique hospitalière appartenant au grade le plus élevé de ce corps.

@@ -11,3 +11,13 @@ Le jury comprend cinq membres ainsi répartis :
 3° Un directeur d'établissement social public ou un directeur d'établissement public de santé de la région ;
 
 4° Deux cadres socio-éducatifs.
+
+En ce qui concerne l'Assistance publique - hôpitaux de Paris, le jury du concours est nommé par décision du directeur général.
+
+Le jury comprend trois membres :
+
+1° Le directeur général ou son représentant, président ;
+
+2° Le directeur du centre de formation des assistants socio-éducatifs ou son représentant ;
+
+3° Deux cadres socio-éducatifs.
