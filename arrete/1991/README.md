@@ -323,7 +323,6 @@
 - [Arrêté du 18 avril 1991 (ECOC9100044A)](arrete-du-18-avril-1991-ecoc9100044a)
 - [Arrêté du 18 avril 1991 (EQUC9100003A)](arrete-du-18-avril-1991-equc9100003a)
 - [Arrêté du 18 décembre 1990 (EQUR9001230A)](arrete-du-18-decembre-1990-equr9001230a)
-- [Arrêté du 18 décembre 1990 (EQUR9001671A)](arrete-du-18-decembre-1990-equr9001671a)
 - [Arrêté du 18 décembre 1990 (EQUS9001670A)](arrete-du-18-decembre-1990-equs9001670a)
 - [Arrêté du 18 décembre 1990 (EQUT9001680A)](arrete-du-18-decembre-1990-equt9001680a)
 - [Arrêté du 18 décembre 1990 (SPSG9002563A)](arrete-du-18-decembre-1990-spsg9002563a)
