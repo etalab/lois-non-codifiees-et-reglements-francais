@@ -1,0 +1,3 @@
+# Article 5
+
+L'Institut de radioprotection et de sûreté nucléaire établit chaque année un rapport de gestion du réseau national et un rapport de synthèse sur l'état radiologique de l'environnement lorsque les données collectées par le réseau le permettent. Ce rapport de synthèse est complété par une présentation des estimations des impacts radiologiques des principales activités nucléaires. Il est présenté au comité de pilotage mentionné à l'article 2, puis transmis au directeur général de la sûreté nucléaire et de la radioprotection. Ce rapport est rendu public notamment sur les sites internet de la direction générale de la sûreté nucléaire et de la radioprotection et de l'Institut de radioprotection et de sûreté nucléaire.
