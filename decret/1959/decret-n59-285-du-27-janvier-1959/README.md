@@ -9,6 +9,4 @@
 - [Titre VI : Travail au fond](titre-vi)
 - [Titre VIII : Eclairage.](titre-viii)
 - [Titre X](titre-x)
-- [Titre XII : Hygiène et sauvetage](titre-xii)
-- [Titre XIII : Contrôle du personnel, plans et registre.](titre-xiii)
 - [Titre XIV : Dispositions diverses.](titre-xiv)
