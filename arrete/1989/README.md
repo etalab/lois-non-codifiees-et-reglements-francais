@@ -224,7 +224,6 @@
 - [Arrêté du 11 août 1989 (SPSH8901741A)](arrete-du-11-aout-1989-spsh8901741a)
 - [Arrêté du 11 août 1989 (SPSX8910193A)](arrete-du-11-aout-1989-spsx8910193a)
 - [Arrêté du 11 avril 1989 (AGRP8900681A)](arrete-du-11-avril-1989-agrp8900681a)
-- [Arrêté du 11 avril 1989 (INTF8900188A)](arrete-du-11-avril-1989-intf8900188a)
 - [Arrêté du 11 avril 1989 (SPSP8900819A)](arrete-du-11-avril-1989-spsp8900819a)
 - [Arrêté du 11 décembre 1989 (BUDR8905057A)](arrete-du-11-decembre-1989-budr8905057a)
 - [Arrêté du 11 décembre 1989 (MCCE8900774A)](arrete-du-11-decembre-1989-mcce8900774a)

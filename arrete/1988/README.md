@@ -460,7 +460,6 @@
 - [Arrêté du 22 avril 1988 (STFP8800671A)](arrete-du-22-avril-1988-stfp8800671a)
 - [Arrêté du 22 décembre 1987 (ASES8701910A)](arrete-du-22-decembre-1987-ases8701910a)
 - [Arrêté du 22 décembre 1988 (SPSS8801933A)](arrete-du-22-decembre-1988-spss8801933a)
-- [Arrêté du 22 février 1988 (ASEP8800280A)](arrete-du-22-fevrier-1988-asep8800280a)
 - [Arrêté du 22 février 1988 (PTTC8800176A)](arrete-du-22-fevrier-1988-pttc8800176a)
 - [Arrêté du 22 février 1988 (PTTT8800183A)](arrete-du-22-fevrier-1988-pttt8800183a)
 - [Arrêté du 22 février 1988 (STFQ8800333A)](arrete-du-22-fevrier-1988-stfq8800333a)
