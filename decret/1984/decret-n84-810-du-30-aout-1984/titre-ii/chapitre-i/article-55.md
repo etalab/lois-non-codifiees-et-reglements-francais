@@ -8,9 +8,7 @@ L'autorité compétente pour l'approbation des plans et documents peut accorder,
 
 L'autorité compétente peut alors imposer des mesures tendant à obtenir une sécurité équivalente.
 
-II. - Navire refondu.
-
-L'autorité compétente pour l'approbation des plans et documents peut exiger, dans les parties refondues, l'application du présent décret et des arrêtés prévus à l'article 54 aux navires qui subissent une refonte postérieurment à la date d'entrée en vigueur de ces arrêtés.
+II. - Navire refondu, réparé ou transformé. Toute refonte, réparation, modification ou transformation substantielle d'un navire intervenue postérieurement à la date d'entrée en vigueur des arrêtés prévus par l'article précédent doit faire l'objet d'une déclaration de l'armateur à l'autorité compétente pour l'approbation des plans et documents d'un navire en construction. Celle-ci peut exiger que soient appliquées aux parties refondues ou réparées, modifiées ou transformées substantiellement ainsi qu'aux emménagements qui en résultent les dispositions du présent décret et des arrêtés pris pour son application.
 
 III. - Navire d'un type particulier. Exemption.
 
