@@ -8,7 +8,7 @@ Pour l'exercice de ses missions, il comprend :
 
 a) Des membres de droit à titre permanent :
 
-- le directeur du personnel et des services généraux ;
+- le directeur du personnel, de la modernisation et de l'administration ;
 
 - le directeur de la communication ;
 
@@ -18,13 +18,13 @@ a) Des membres de droit à titre permanent :
 
 - le directeur du Trésor ;
 
-- le directeur de la prévision ;
+- le directeur de la prévision et de l'analyse économique ;
 
-- le directeur de la comptabilité publique ;
+- le directeur général de la comptabilité publique ;
 
 - le directeur général des impôts ;
 
-- le chef du service de la législation fiscale ;
+- le directeur de la législation fiscale ;
 
 - le directeur général des douanes et droits indirects ;
 
@@ -36,9 +36,9 @@ a) Des membres de droit à titre permanent :
 
 - le directeur des Monnaies et médailles ;
 
-- le directeur de l'Imprimerie nationale ;
+- le président du conseil d'administration de la société Imprimerie nationale ;
 
-- le directeur du commerce intérieur ;
+- le directeur des entreprises commerciales, artisanales et de services ;
 
 - le gouverneur de la Banque de France ;
 
