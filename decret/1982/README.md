@@ -64,6 +64,7 @@
 - [Décret n°82-1028 du 26 novembre 1982](decret-n82-1028-du-26-novembre-1982)
 - [Décret n°82-194 du 26 février 1982](decret-n82-194-du-26-fevrier-1982)
 - [Décret n°82-203 du 26 février 1982](decret-n82-203-du-26-fevrier-1982)
+- [Décret n°82-268 du 26 mars 1982](decret-n82-268-du-26-mars-1982)
 - [Décret n°82-646 du 26 juillet 1982](decret-n82-646-du-26-juillet-1982)
 - [Décret n°82-101 du 27 janvier 1982](decret-n82-101-du-27-janvier-1982)
 - [Décret n°82-219 du 27 février 1982](decret-n82-219-du-27-fevrier-1982)

@@ -1,0 +1,3 @@
+# Arrêté du 18 mars 1982 APPLICATION DE L'ARTICLE 267 bis-7 DE L'ANNEXE II AU CODE GENERAL DES IMPOTS.
+
+- [Article 1](article-1.md)

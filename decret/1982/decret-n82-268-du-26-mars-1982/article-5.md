@@ -1,0 +1,3 @@
+# Article 5
+
+Les personnels des collectivités locales et de leurs établissements publics relevant du régime général de la sécurité sociale et de l'institution de retraite complémentaire des agents non titulaires de l'Etat et des collectivités publiques pourront justifier les dix années de services accomplies au profit des collectivités locales, de leurs groupements ou établissements publics par une attestation de la ou des collectivités où ils ont exercé leurs fonctions. Cette attestation n'est pas requise pour les années ayant donné lieu à cotisation ou validation de services au titre de l'institution de retraite complémentaire des agents non titulaires de l'Etat et des collectivités publiques.
