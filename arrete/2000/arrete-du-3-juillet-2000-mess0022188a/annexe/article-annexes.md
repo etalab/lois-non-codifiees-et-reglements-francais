@@ -46,11 +46,11 @@ Amisol :
 
 - 35, rue du Pré-la-Reine, 63000 Clermont-Ferrand : de 1910 à 1974.
 
-Everitube : 63750 Messeix : de 1979 à 1985.
+Distrimat/Franconit/Everitube :
 
-Franconit/Everitube :
+- 63700 Saint-Eloy : de 1972 à 1984.
 
-- 63700 Saint-Eloy : de 1974 à 1984.
+Everitube : 63750 Messeix : de 1973 à 1985.
 
 Bourgogne
 
@@ -264,9 +264,9 @@ Valeo :
 
 Lorraine
 
-Arjomary Prioux :
+Arjomary Prioux/Arjo-Wiggins :
 
-- usine d'Arches, BP 29, 88380 Arches : de 1960 à 1989.
+- usine d'Arches, BP 29, 88380 Arches : de 1960 à 1992.
 
 Aubertin SA :
 
@@ -342,7 +342,7 @@ Saliens Industries (Moulin de Saliens Villebrumier) :
 
 Wanner Isofi Isolation/Wanner Isofi/Wanner Industrie :
 
-- 97, route d'Albi, 31200 Toulouse, puis 19, chemin de la Menude, 31770 Colomiers, puis 82400 Golfech : de 1950 à 1999.
+- 97, route d'Albi, 31200 Toulouse, et 19, chemin de la Menude, 31770 Colomiers, et 82400 Golfech : de 1950 à 1999.
 
 Nord - Pas-de-Calais
 
@@ -422,9 +422,7 @@ M. Regne Félix :
 
 - 61100 Ségrie-Fontaine : de 1960 à 1977.
 
-SMLS Briens Lamoureux :
-
-- route de Coutances, 50180 Agneaux : de 1966 à 1981.
+SMSL Briens Lamoureux, route de Coutances, 50180 Agneaux : de 1966 à 1996.
 
 Société Regnier :
 
@@ -636,9 +634,9 @@ Wanner/Wanner Isofi/Wanner Industrie :
 
 - boulevard Henri-Wallon, BP 170, 13130 Berre-l'Etang : de 1933 à 1977 ;
 
-- 31, boulevard Magallon, 13015 Marseille : de 1967 à 1987 ;
+- 31, boulevard Magallon, 13015 Marseille, de 1967 à 1993 ;
 
-- 1207, avenue du Camp-de-Menthe, 13091 Aix-en-Provence : de 1987 à 1997 ;
+- 1207, avenue du Camp-de-Menthe, 13091 Aix-en-Provence, de 1994 à 1997 ;
 
 - 721, route d'Avignon, 84700 Sorgues : de 1987 à 1997.
 
@@ -724,6 +722,10 @@ Babcock Sacom :
 
 - 11, rue de Berne, 68110 Illzach : de 1929 à 1996.
 
+SNIFI/EFI, BP 43, 68490 Ottmarsheim, de 1973 à 1983.
+
+SNIFI/EFI, ZI Hombourg, 68490 Hombourg, de 1983 à 1994.
+
 Aquitaine
 
 Aquitaine Isol :
@@ -750,6 +752,8 @@ Kaeffer SA Abidos :
 
 - BP 25, 64170 Lacq : de 1980 à 1999.
 
+SNIFI/EFI, Agence Abidos, 64170 Lacq, de 1968 à 1975.
+
 Wanner Isofi/Technis :
 
 - rond-point de Mourenx, BP 14, 64170 Lacq : de 1997 à 1999.
@@ -766,9 +770,9 @@ Air Liquide :
 
 - ZI, chemin de la Plaine, 89500 Villeneuve-sur-Yonne : de 1966 à 1994.
 
-Saim/Teroson France :
+Saim :
 
-- 66, rue Saint-Aignan, 58200 Cosne-sur-Loire : de 1965 à 1990.
+- 66, rue Saint-Aignan, 58200 Cosne-sur-Loire : de 1951 à 1992.
 
 Bretagne
 
@@ -962,7 +966,9 @@ Siafom :
 
 - rue Le Peletier, 75009 Paris : de 1962 à 1977.
 
-Société du fibrociment et des revêtements de sol  ELO  :
+SNIFI/EFI, 94, avenue de Versailles, 75016 Paris, de 1975 à 1980.
+
+Société du fibrociment et des revêtements de sol ELO :
 
 - route de Médan, 78510 Triel : de 1960 à 1996.
 
@@ -1010,6 +1016,8 @@ Le Laboratoire métallurgique :
 
 - 29-33, rue de Rombas, 57140 Woippy : de 1936 à 1978.
 
+SNIFI/EFI, Les Quarres, BP 44, 57130 Ancy-sur-Moselle, de 1966 à 1992.
+
 Midi-Pyrénées
 
 Babcock Sacom :
@@ -1029,6 +1037,12 @@ Finalens (société industrielle et financière de Lens) :
 Les Feutres d'amiante :
 
 - 59570 Bavay : de 1940 à 1980.
+
+Basse-Normandie
+
+SNIFI/EFI, BP 95, 50440 Beaumont, de 1970 à 1978.
+
+SNIFI/EFI, BP 726, ZI de Digueville, 50447 Beaumont, de 1984 à 1994.
 
 Haute-Normandie
 
@@ -1072,13 +1086,21 @@ SA Normande de l'amiante manufacture :
 
 SNIFI/EFI :
 
-- 6, rue Marc-Seguin, 76100 Rouen : de 1965 à 1997.
+- 3, rue Marc-Seguin, 76100 Rouen : de 1968 à 1994.
+
+SNIFI/EFI, 17, avenue de Grammont, 76000 Rouen, de 1947 à 1968.
+
+SNIFI/EFI, chemin de la Darse, BP 32, 76330 Notre-Dame-de-Gravenchon, de 1969 à 1994.
+
+SNIFI/EFI, ZI, BP 5042, 76071 Le Havre, de 1973 à 1994.
 
 Wanner/Wanner Isofi Isolation/Wanner Industrie :
 
 - ancienne route de Duclair, 76380 Canteleu : de 1973 à 1995 ;
 
 - parc des Falaises, 76700 Gonfreville-l'Orcher : de 1973 à 1999.
+
+WITCO, rue Gravetel, 76320 Saint-Pierre-lès-Elbeuf, de 1972 à 1989.
 
 Pays de la Loire
 
@@ -1090,6 +1112,8 @@ Isotherma :
 
 - ZI Noes, BP 23, 44550 Montoire-de-Bretagne : de 1961 à 1999.
 
+SNIFI/EFI, agence Savenay, 44260 Donges, de 1974 à 1982, puis agence ZI Bonne-Nouvelle, BP 47, 44480 Donges, de 1982 à 1994.
+
 Valeo/Ferodo/SAMP :
 
 - 72210 La Suze-sur-Sarthe : de 1960 à 1992.
@@ -1099,6 +1123,8 @@ Picardie
 Bosch systèmes de freinage :
 
 - 82-84, rue du Pont-d'Arcole, 60000 Beauvais : de 1966 à 1985.
+
+- 44, route nationale, 02190 Juvincourt, de 1972 à 1996.
 
 Frendo/Fren J./Fren Brex SA/Roulunds Codan :
 
@@ -1121,6 +1147,10 @@ Babcock Sacom :
 Isotec :
 
 - 13, quai de Tourette, 13002 Marseille : de 1984 à 1999.
+
+SNIFI/EFI, agence quartier Saint-Estève, 13130 Berre-l'Etang, de 1965 à 1994.
+
+SNIFI/EFI, BP 61, 13110 Port-de-Bouc, de 1965 à 1990.
 
 Rhône-Alpes
 
@@ -1155,6 +1185,8 @@ Etablissements Vital Fargere Aîné/Cefilac :
 JMF/JMF Curty/Société Baud/Joint métalloplastique français :
 
 - 01300 Belley : de 1916 à 1967.
+
+SNIFI/EFI, rue Thomas, BP 38, 69320 Feyzin, de 1971 à 1981.
 
 Société Soma Europe Transmission/Valeo/Société Rockwell S.A./Société Meritor International :
 
