@@ -1,6 +1,6 @@
 # Article 208-7
 
-Les options doivent être exercées dans un délai de cinq ans à compter de la date à laquelle elles ont été consenties.
+L'assemblée générale extraordinaire fixe le délai pendant lequel les options doivent être exercées.
 
 Les droits résultant des options consenties sont incessibles jusqu'à ce que l'option ait été exercée.
 
