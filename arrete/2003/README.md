@@ -357,7 +357,6 @@
 - [Arrêté du 25 février 2003 (SOCT0310278A)](arrete-du-25-fevrier-2003-soct0310278a)
 - [Arrêté du 25 mars 2003 (AGRA0300265A)](arrete-du-25-mars-2003-agra0300265a)
 - [Arrêté du 25 mars 2003 (AGRA0300561A)](arrete-du-25-mars-2003-agra0300561a)
-- [Arrêté du 25 mars 2003 (AGRG0300640A)](arrete-du-25-mars-2003-agrg0300640a)
 - [Arrêté du 25 mars 2003 (INTB0300177A)](arrete-du-25-mars-2003-intb0300177a)
 - [Arrêté du 26 août 2003 (ECOP0201068A)](arrete-du-26-aout-2003-ecop0201068a)
 - [Arrêté du 26 décembre 2002 (SANS0224377A)](arrete-du-26-decembre-2002-sans0224377a)
