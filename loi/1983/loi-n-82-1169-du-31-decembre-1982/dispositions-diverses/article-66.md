@@ -14,4 +14,4 @@ Par dérogation aux deux alinéas précédents, jusqu'au premier renouvellement 
 
 Les articles L. 153-1 (2°, 3° et 4°), L. 153-2, premier alinéa, L. 153-3, L. 153-4 et L. 153-8 du code des communes sont applicables aux communes associées soumises aux dispositions qui précèdent. Le conseil consultatif se réunit à l'annexe de la mairie.
 
-II. Dans les communes issues d'une fusion comportant une commune associée autres que celles visées au paragraphe I du présent article, le conseil municipal peut décider, après avis de la commission consultative ou à sa demande, d'attribuer au maire délégué et à la commission consultative tout ou partie des compétences mentionnées audit paragraphe.
+II. Dans les communes issues d'une fusion comportant une commune associée autres que celles visées au paragraphe I du présent article, le conseil municipal peut décider, après avis de la commission consultative ou à sa demande, d'attribuer au maire délégué et à la commission consultative tout ou partie des compétences mentionnées audit paragraphe.    " Il peut également demander le remplacement de la commission consultative par le conseil consultatif prévu au paragraphe I. "
