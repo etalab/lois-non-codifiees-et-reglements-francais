@@ -62,7 +62,6 @@
 - [Décret n°88-654 du 7 mai 1988 (RESP8800524D)](decret-n88-654-du-7-mai-1988-resp8800524d)
 - [Décret n°88-800 du 8 juillet 1988 (ECOX8800102D)](decret-n88-800-du-8-juillet-1988-ecox8800102d)
 - [Décret n°88-801 du 8 juillet 1988 (SEPX8800103D)](decret-n88-801-du-8-juillet-1988-sepx8800103d)
-- [Décret n°88-802 du 8 juillet 1988 (DOMX8810577D)](decret-n88-802-du-8-juillet-1988-domx8810577d)
 - [Décret n°88-856 du 8 août 1988 (PRMX8810702D)](decret-n88-856-du-8-aout-1988-prmx8810702d)
 - [Décret n°88-859 du 8 août 1988 (MCCX8810703D)](decret-n88-859-du-8-aout-1988-mccx8810703d)
 - [Décret n°88-1037 du 9 novembre 1988 (MCCB8800663D)](decret-n88-1037-du-9-novembre-1988-mccb8800663d)
