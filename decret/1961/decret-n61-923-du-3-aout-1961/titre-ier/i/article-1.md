@@ -16,7 +16,7 @@ d) Les capitaines au long cours, les capitaines de la marine marchande, les pilo
 
 a) Les sociétés anonymes ou à responsabilité limitée, les sociétés nationales, les établissements publics à caractère industriel et commercial et les entreprises publiques ou assimilées soumises aux règles du droit commercial, inscrites au registre du commerce au titre de leur siège social ;
 
-b) Les commerçants, les ressortissants du secteur des métiers inscrits au registre du commerce, les sociétés anonymes, à responsabilité limitée, en commandite ou en nom collectif, les sociétés nationales, les établissements publics à caractère industriel et commercial et les entreprises publiques ou assimilées soumises aux règles du droit commercial pour ceux de leurs établissements qui ont fait l'objet d'une immatriculation secondaire ou d'une inscription complémentaire conformément aux dispositions de l'article 24 du décret n° 67-237 du 23 mars 1967, à moins d'en avoir été dispensées dans les conditions prévues par l'article 25 dudit décret ;
+b) Les commerçants, les ressortissants du secteur des métiers inscrits au registre du commerce, les sociétés anonymes, à responsabilité limitée, en commandite ou en nom collectif, les sociétés nationales, les établissements publics à caractère industriel et commercial et les entreprises publiques ou assimilées soumises aux règles du droit commercial pour ceux de leurs établissements qui ont fait l'objet d'une immatriculation secondaire ou d'une inscription complémentaire conformément aux dispositions de l'article 24 du décret n° 67-237 du 23 mars 1967, à moins d'en avoir été dispensées dans les conditions prévues pour l'article 25 dudit décret ;
 
 Les représentants des commerçants, des chefs d'entreprises immatriculées au répertoire des métiers inscrits au registre du commerce, des sociétés, établissements et entreprises publics doivent exercer dans l'entreprise soit des fonctions d'administrateurs, de gérants ou de fondés de pouvoir, soit, à défaut, toute fonction impliquant des responsabilités de direction commerciale, technique ou administrative de l'entreprise ou de l'établissement.
 
@@ -24,4 +24,6 @@ Les représentants des commerçants, des chefs d'entreprises immatriculées au r
 
 Les électeurs à titre personnel et les représentants doivent être français ou naturalisés français. Les naturalisés doivent satisfaire aux conditions prévues par les articles 41, 81, 82 et 83 de l'ordonnance n° 45-2441 du 19 octobre 1945 portant code de la nationalité française.
 
-La qualité d'électeur s'apprécie au 31 mars de l'année d'établissement de la liste électorale en vue du renouvellement triennal des membres de la chambre de commerce et d'industrie.
+La qualité d'électeur s'apprécie au 31 décembre de l'année d'établissement de la liste électorale en vue du renouvellement triennal des membres de la chambre de commerce et d'industrie.
+
+Sont en outre électeurs aux chambres de commerce et d'industrie les conjoints de commerçants inscrits au registre du commerce et des sociétés, les conjoints de chefs d'entreprise immatriculées au répertoire des métiers et inscrits au registre du commerce et des sociétés, sous réserve de faire l'objet d'une mention audit registre dans les conditions prévues par l'article 9 du décret modifié n° 67-237 du 23 mars 1967.

@@ -1,0 +1,3 @@
+# Article 8
+
+Pour toutes les élections qui auront lieu avant le 15 novembre 1985, et par dérogation aux dispositions de l'article 4 du présent décret, le conjoint pourra justifier qu'il remplit les conditions requises pour être candidat aux fonctions de membre de chambre de commerce et d'industrie en fournissant une déclaration sur l'honneur signée conjointement par lui-même et par le commerçant ou le chef d'entreprise immatriculée au répertoire des métiers.Cette déclaration doit attester que le candidat a depuis au moins cinq ans collaboré effectivement en tant que conjoint à l'activité commerciale de l'entreprise sans être rémunéré et sans exercer aucune autre activité professionnelle.

@@ -16,8 +16,12 @@ II. - Sont inscrits sur leur demande :
 
 2° Les pilotes lamaneurs, les capitaines au long cours, les capitaines de la marine marchande et les pilotes de l'aéronautique civile ;
 
-3° Les membres anciens ou en exercice des tribunaux de commerce et des chambres de commerce et d'industrie électeurs au titre de l'article 1er (3°) .
+3° Les membres anciens ou en exercice des tribunaux de commerce et des chambres de commerce et d'industrie électeurs au titre de l'article 1er (3°).
+
+4° Pour les élections aux chambres de commerce et d'industrie, les conjoints des commerçants inscrits au registre du commerce et des sociétés, les conjoints de chefs d'entreprises immatriculées au répertoire des métiers et inscrits au registre du commerce et des sociétés lorsque lesdits commerçants et chefs d'entreprise sont inscrits sur les listes électorales de la chambre de commerce et d'industrie.
 
 Les demandes prévues au présent article sont adressées au président de la commission visée à l'article 8 par lettre postée avant le 1er avril de l'année du renouvellement triennal. Le président de la commission les tient à la disposition de la chambre de commerce et d'industrie.
 
 Les personnes ne figurant pas au registre du commerce et des sociétés sont tenues de déclarer sur l'honneur qu'elles ne tombent pas sous le coup de l'une des incapacités prévues à l'article 4. Les membres anciens et en exercice des tribunaux de commerce et des chambres de commerce et d'industrie sont tenus de déclarer sur l'honneur qu'ils ne bénéficient d'aucune inscription à titre personnel ou en qualité de représentants.
+
+Les conjoints de commerçants inscrits au registre du commerce et des sociétés, les conjoints de chefs d'entreprises immatriculées au répertoire des métiers et inscrits au registre du commerce et des sociétés sont tenus de produire une attestation délivrée par le greffier du tribunal de commerce ou du tribunal de grande instance en tenant lieu, certifiant qu'ils ont fait l'objet d'une mention au registre du commerce et des sociétés au titre de collaborateur du chef d'entreprise.
