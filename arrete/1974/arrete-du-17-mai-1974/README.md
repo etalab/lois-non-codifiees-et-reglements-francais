@@ -4,4 +4,5 @@
 - [TITRE I : Des commissions paritaires régionales](titre-i)
 - [TITRE II : De la commission paritaire nationale.](titre-ii)
 - [TITRE III : Dispositions particulières au département de la Moselle.](titre-iii)
+- [TITRE IV : Dispositions particulières aux régions d'outre-mer.](titre-iv)
 - [Article 16](article-16.md)
