@@ -8,7 +8,7 @@ III. - Les dispositions de l'article 9 de la présente loi entrent en vigueur à
 
 IV. - Les dispositions de l'article 24 de la présente loi entrent en vigueur à la date de la prochaine élection des représentants du personnel aux commissions administratives paritaires. Les fonctionnaires inscrits à cette date sur les listes d'aptitude établies en application des anciennes dispositions sont inscrits prioritairement sur les listes d'aptitude établies en application de l'article 24 de la présente loi.
 
-V. - Le montant des contributions fixé à l'article 97 bis de la loi n° 84-53 du 26 janvier 1984 précitée, dans sa rédaction issue de l'article 40 de la présente loi, est applicable à compter de la date d'entrée en vigueur de la présente loi.
+V. - Le montant des contributions fixé à l'article 97 bis de la loi n° 84-53 du 26 janvier 1984 précitée, dans sa rédaction issue de l'article 40 de la présente loi, est applicable aux prises en charge prenant effet à compter de la date d'entrée en vigueur de la présente loi.
 
 VI. - Les dispositions du troisième alinéa de l'article 14 de la loi n° 84-594 du 12 juillet 1984 précitée, dans sa rédaction issue de l'article 54 de la présente loi, entrent en vigueur à compter de la date de publication du décret mentionné à cet article.
 
