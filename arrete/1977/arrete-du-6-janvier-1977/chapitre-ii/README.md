@@ -3,3 +3,4 @@
 - [Section I : Certificat d'inscription.](section-i)
 - [Section II : Etiquettes.](section-ii)
 - [Section III : Autorisation de transport.](section-iii)
+- [Article 8](article-8.md)
