@@ -8,7 +8,9 @@ Composition française (durée : une heure trente ; coefficient 1).
 
 Résumé d'un texte suivi de questions s'y rapportant, susceptibles de permettre d'apprécier les aptitudes du candidat à l'analyse et à la réflexion (durée : une heure ; coefficient 1).
 
-Arithmétique (durée : trente minutes ; coefficient 0,5) : solution d'un problème du niveau du BEPC, qui pourra éventuellement être recherchée par l'algèbre.
+Sciences naturelles (durée : trente minutes ; coefficient 0,5) :
+
+une ou plusieurs questions portant sur le programme prévu pour l'épreuve de sciences naturelles de l'examen d'entrée dans les écoles d'infirmiers et d'infirmières.
 
 II. - Epreuves orales.
 
