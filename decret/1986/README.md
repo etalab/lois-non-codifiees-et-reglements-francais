@@ -1,5 +1,6 @@
 # 1986
 
+- [Décret n°86-729 du 2 mai 1986](decret-n86-729-du-2-mai-1986)
 - [Décret n°86-10 du 3 janvier 1986](decret-n86-10-du-3-janvier-1986)
 - [Décret n°86-23 du 3 janvier 1986](decret-n86-23-du-3-janvier-1986)
 - [Décret n°86-27 du 3 janvier 1986](decret-n86-27-du-3-janvier-1986)
