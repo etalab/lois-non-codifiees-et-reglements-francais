@@ -16,6 +16,4 @@ f) Les transports Air-Terre (et Terre-Air) ou Mer-Terre (et Terre-Mer) réalisé
 
 le responsable du transport peut choisir d'utiliser un autre moyen de transport sous réserve :
 
-- qu'il vérifie, notamment au moyen de l'analyse des dangers liés à son activité telle que décrite à l'article 11 du présent arrêté, que les températures réglementaires figurant en annexe II sont maintenues pendant toute la durée du transport et que les conditions d'hygiène sont respectées ;
-
-- qu'il se conforme le cas échéant aux dispositions des articles 51 à 55.
+- qu'il vérifie, notamment au moyen de l'analyse des dangers liés à son activité telle que décrite à l'article 11 du présent arrêté, que les températures réglementaires figurant en annexe II sont maintenues pendant toute la durée du transport et que les conditions d'hygiène sont respectées.

@@ -1,0 +1,3 @@
+# Article 14
+
+La sous-direction des composants, du logiciel et de l'électronique professionnelle est compétente pour les secteurs des circuits intégrés, des composants actifs silicium, micro-ondes, opto-électroniques et photoniques, des composants passifs, des équipements et matériaux de production de composants, de l'électronique et des technologies de l'information pour l'automobile et les transports, de l'informatique, du logiciel, des services informatiques, des systèmes d'information professionnels ou médicaux, des industries spatiales, des microsystèmes, des biopuces, de la mesure et des technologies duales, ainsi que pour la diffusion de la microélectronique et des systèmes d'information dans les entreprises.

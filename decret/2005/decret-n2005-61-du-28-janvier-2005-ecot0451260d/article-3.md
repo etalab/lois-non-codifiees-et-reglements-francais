@@ -1,0 +1,7 @@
+# Article 3
+
+La propriété des actions Air France-KLM faisant l'objet des articles 1er et 2 est transférée dans les soixante jours à compter de la date de transfert des actions proposées aux salariés de la société Air France, en application des dispositions du III de l'article 51 de la loi du 2 juillet 1998 susvisée.
+
+Ces actions sont inscrites sous la forme nominative, avec mention de leur indisponibilité, au nom du salarié concerné ou au nom du fonds commun de placement d'entreprise auquel il aura décidé de les affecter. Elles sont obligatoirement maintenues sous cette forme jusqu'à la date où elles deviennent librement cessibles.
+
+Les actions Air France-KLM ainsi transférées ainsi que les parts de fonds commun de placement d'entreprise auxquelles elles auraient été affectées deviennent cessibles par sixième au jour anniversaire de la date de la première réduction de salaire consentie et pour la totalité du solde au jour du cinquième anniversaire de la livraison des actions ou de la création des parts. Conformément aux dispositions de l'article L. 443-6 du code du travail, les actions placées dans un plan d'épargne d'entreprise sont indisponibles pendant cinq ans, étant précisé que le déblocage anticipé des actions, prévu à l'article R. 442-17 du code du travail, s'applique à concurrence du sixième de la quantité totale des actions acquises par période complète de douze mois écoulée à compter de la première réduction de salaire consentie.

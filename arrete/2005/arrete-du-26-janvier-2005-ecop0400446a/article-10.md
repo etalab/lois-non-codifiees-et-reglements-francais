@@ -1,0 +1,3 @@
+# Article 10
+
+La sous-direction des biens de consommation est compétente pour les secteurs du textile, de l'habillement et du cuir et plus généralement des industries du luxe, ainsi que les secteurs industriels liés à l'équipement de la maison et de la personne, ainsi qu'aux produits de loisirs et de culture ; elle assure en outre le secrétariat général de la commission interministérielle des matériels d'imprimerie et de reproduction. Elle assure une mission de contrôle des importations des produits textiles et vêtements, ainsi que d'autres produits industriels sous quotas ou sous surveillance.
