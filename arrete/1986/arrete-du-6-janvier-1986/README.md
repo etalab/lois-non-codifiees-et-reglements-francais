@@ -1,4 +1,4 @@
-# Arrêté du 6 janvier 1986 relatif à l'informatisation de l'enquête dénommée Matrav sur les relations entre conditions de travail et maternité
+# Arrêté du 6 janvier 1986 concernant les masses nettes des fromages frais en préemballages
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,3 @@
 # Article 2
 
-Les dispositions du présent arrêté entreront en vigueur le 26 septembre 1986.
+En aucun cas le laboratoire [*de physiologie de la faculté de médecine de Dijon*] susvisé ne devra être lié avec le déclarant par un contrat de surveillance ou de contrôle des produits qu'il fabrique ou importe [*indépendance*].

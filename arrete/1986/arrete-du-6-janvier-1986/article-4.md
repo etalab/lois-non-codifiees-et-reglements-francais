@@ -1,3 +1,3 @@
 # Article 4
 
-Le droit d'accès prévu par l'article 34 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, s'exerce auprès de la direction régionale du travail et de l'emploi du Limousin, 2, rue Fitz-James, 87032 Limoges Cedex.
+Le directeur général de la concurrence, de la consommation et de la répression des fraudes et le directeur général des douanes et droits indirects au secrétariat d'Etat auprès du ministre de l'économie, des finances et du budget, chargé du budget et de la consommation, le directeur de la qualité et le directeur des industries agricoles et alimentaires au ministère de l'agriculture, le directeur de la qualité et de la sécurité industrielles (service de la Métrologie) au ministère du redéploiement industriel et du commerce extérieur sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

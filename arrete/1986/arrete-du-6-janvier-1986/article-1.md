@@ -1,3 +1,3 @@
 # Article 1
 
-Il est créé à la direction régionale du travail et de l'emploi du Limousin un traitement automatisé d'informations nominatives dont l'objet est d'étudier les interrelations entre les conditions de travail des femmes et le déroulement de leur grossesse, puis de leur accouchement.
+Les fromages frais, à l'exception des fromages dits "petits suisses" et des fromages de même présentation, conditionnés en préemballages par quantité nominale comprise entre 5 grammes inclus et 10 kilogrammes inclus, et non destinés exclusivement à l'usage professionnel, ne peuvent être importés, détenus en vue de la vente, mis en vente ou vendus que dans des emballages renfermant les quantités nominales suivantes, exprimées en utilisant comme unité de mesure le gramme ou le kilogramme : 62,5, 100, 125, 150, 200, 250, 400, 500, 1.000, 1.500, 2.000, 2.500, 5.000, 10.000 (valeurs en grammes).

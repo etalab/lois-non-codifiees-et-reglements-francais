@@ -1,4 +1,4 @@
-# Arrêté du 25 juillet 1986 relatif aux tarifs des interventions des vétérinaires et aux marges de distribution des spécialités vétérinaires
+# Arrêté du 25 juillet 1986 pris en application du décret du 15 mai 1981 sur les aliments destinés à une alimentation particulière
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
