@@ -1,0 +1,5 @@
+# Article 4
+
+Dans le secteur IV, les loyers peuvent être majorés dans les mêmes conditions que celles prévues à l'article 3, deuxième à cinquième alinéas.
+
+En outre, en cas de changement de locataire et lorsque le loyer est manifestement sous-évalué, une modulation particulière du loyer peut être appliquée dans les mêmes conditions définies ci-après. Elle ne peut avoir pour effet de porter le loyer au-dessus des loyers pratiqués localement pour des logements comparables faisant l'objet d'une location au même locataire depuis au moins trois ans. Pour l'application de cette modulation particulière, le bailleur doit, dans un délai d'un mois à compter de la conclusion du contrat, adresser par lettre recommandée avec demande d'avis de réception au secrétariat de la commission départementale des rapports locatifs, un document mentionant l'adresse du ou des logements, le dernier loyer du précédent locataire et le nouveau loyer. Une copie est remise au locataire par le bailleur. A la demande du locataire, le bailleur doit lui communiquer un nombre suffisant de références significatives de loyers pratiqués tels que mentionnés ci-dessus et être en mesure d'en justifier.

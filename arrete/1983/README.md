@@ -156,6 +156,7 @@
 - [Arrêté du 27 septembre 1983](arrete-du-27-septembre-1983)
 - [Arrêté du 28 avril 1983](arrete-du-28-avril-1983)
 - [Arrêté du 28 décembre 1982](arrete-du-28-decembre-1982)
+- [Arrêté du 28 décembre 1983](arrete-du-28-decembre-1983)
 - [Arrêté du 28 février 1983](arrete-du-28-fevrier-1983)
 - [Arrêté du 28 juillet 1983](arrete-du-28-juillet-1983)
 - [Arrêté du 28 mars 1983](arrete-du-28-mars-1983)
