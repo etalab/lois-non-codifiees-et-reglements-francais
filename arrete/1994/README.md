@@ -856,6 +856,8 @@
 - [Arrêté du 25 mars 1994 (EQUH9400592A)](arrete-du-25-mars-1994-equh9400592a)
 - [Arrêté du 25 novembre 1993 (TEFT9301213A)](arrete-du-25-novembre-1993-teft9301213a)
 - [Arrêté du 25 octobre 1993 (EQUA9301949A)](arrete-du-25-octobre-1993-equa9301949a)
+- [Arrêté du 25 octobre 1994 (INTB9400489A)](arrete-du-25-octobre-1994-intb9400489a)
+- [Arrêté du 25 octobre 1994 (INTB9400490A)](arrete-du-25-octobre-1994-intb9400490a)
 - [Arrêté du 25 mai 1994 (INDP9400597A)](arrete-du-25-mai-1994-indp9400597a)
 - [Arrêté du 25 mai 1994 (JUSC9420506A)](arrete-du-25-mai-1994-jusc9420506a)
 - [Arrêté du 25 mai 1994 (MAEF9410023A)](arrete-du-25-mai-1994-maef9410023a)

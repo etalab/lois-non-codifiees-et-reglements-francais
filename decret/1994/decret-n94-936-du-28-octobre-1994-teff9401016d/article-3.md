@@ -1,0 +1,3 @@
+# Article 3
+
+Pour la collecte des contributions prévues aux articles L. 951-1 et L. 952-1 du code du travail et à l'article 30 de la loi de finances pour 1985 susvisée, exigibles avant le 1er mars 1996, les dossiers de demandes d'agrément ne sont plus recevables après le 31 décembre 1994. Les engagements de financer la formation pris par les organismes dont les agréments expirent le 31 décembre 1995, en application des dispositions de l'article L. 961-12 du code du travail, sont repris par les organismes collecteurs bénéficiaires de la dévolution des biens prévue à l'article R. 964-1-6 du même code, dans le champ d'intervention géographique et professionnel ou interprofessionnel de ces derniers.
