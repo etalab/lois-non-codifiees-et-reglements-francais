@@ -7,6 +7,4 @@
 - [TITRE V : Discipline](titre-v)
 - [TITRE VI : Durée du travail, congé, disponibilité, détachement](titre-vi)
 - [TITRE VII : Cessation de fonctions](titre-vii)
-- [TITRE VIII : Oeuvres sociales](titre-viii)
-- [TITRE IX : Dispositions spéciales et transitoires](titre-ix)
 - [Article 49](article-49.md)
