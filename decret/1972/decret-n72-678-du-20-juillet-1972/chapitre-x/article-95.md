@@ -1,0 +1,7 @@
+# Article 95
+
+Les dispositions réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce ne sont pas applicables aux notaires, aux avoués, aux avocats, aux huissiers de justice, aux géomètres experts spécialement autorisés par l'ordre à gérer des immeubles, aux personnes physiques ou morales inscrites sur la liste des conseils juridiques prévue par la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires ou juridiques, aux syndics et administrateurs judiciaires pour les opérations qu'ils sont régulièrement habilités à réaliser dans le cadre de la réglementation de leur profession.
+
+Ces dispositions ne s'appliquent pas aux sociétés filiales de sociétés nationales ou d'entreprises publiques qui gèrent exclusivement les immeubles de ces sociétés ou entreprises, ni aux organismes collecteurs de la participation des employeurs à l'effort de construction dans la mesure où ces organismes gèrent les immeubles qu'ils ont construits. Elles ne s'appliquent pas non plus aux sociétés d'économie mixte dont l'Etat ou une collectivité locale détient au moins 35 p. 100 du capital social, ni aux organismes d'habitations à loyer modéré, ni aux sociétés visées au chapitre Ier du décret n° 65-1012 du 22 novembre 1965.
+
+Les architectes inscrits à l'ordre sont dispensés de la production des justifications prévues au chapitre II, ainsi qu'aux articles 87 à 90 ci-dessus.
