@@ -29,6 +29,7 @@
 - [Arrêté du 6 février 1989 (TRSS8900072A)](arrete-du-6-fevrier-1989-trss8900072a)
 - [Arrêté du 6 janvier 1989 (ECOZ8800041A)](arrete-du-6-janvier-1989-ecoz8800041a)
 - [Arrêté du 6 janvier 1989 (MENP8802192A)](arrete-du-6-janvier-1989-menp8802192a)
+- [Arrêté du 6 mars 1989 (INDD8900033A)](arrete-du-6-mars-1989-indd8900033a)
 - [Arrêté du 7 décembre 1988 (TEFT8804178A)](arrete-du-7-decembre-1988-teft8804178a)
 - [Arrêté du 7 février 1989 (CPTP8900001A)](arrete-du-7-fevrier-1989-cptp8900001a)
 - [Arrêté du 7 février 1989 (CPTP8900002A)](arrete-du-7-fevrier-1989-cptp8900002a)
