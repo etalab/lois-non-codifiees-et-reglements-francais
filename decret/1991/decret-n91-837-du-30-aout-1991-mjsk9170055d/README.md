@@ -1,8 +1,5 @@
 # Décret n°91-837 du 30 août 1991 concernant les contrôles prévus par la loi n° 89-432 du 28 juin 1989 relative à la prévention et à la répression de l'usage de produits dopants à l'occasion des compétitions et manifestations sportives.
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
