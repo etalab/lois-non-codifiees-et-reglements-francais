@@ -1,0 +1,3 @@
+# Article 27
+
+Sont soumis pour avis à la commission départementale [*compétence*] les projets d'opérations visés à l'article 5, poursuivis par les personnes énumérées à l'article 4, lorsque leur montant est compris entre une limite minimale fixée, soit par arrêté du ministre chargé du budget en ce qui concerne les opérations visées aux paragraphes 1°, 2° et 3° de l'article 5, soit par un arrêté du ministre chargé de l'architecture, du ministre chargé du budget et du ministre intéressé en ce qui concerne les opérations visées au paragraphe 4° du même article, et la limite minimale de consultation de la commission régionale.
