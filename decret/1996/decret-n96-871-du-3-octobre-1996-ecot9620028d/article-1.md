@@ -1,0 +1,3 @@
+# Article 1
+
+Pour l'application des II et III de l'article 71 de la loi du 2 juillet 1996 susvisée, le président de la Commission des opérations de bourse fait parvenir à la personne mise en cause, par lettre recommandée avec demande d'avis de réception ou remise en main propre contre récépissé, un document énonçant les griefs retenus, assorti, le cas échéant, de pièces justificatives ; il invite la personne mise en cause à faire parvenir ses observations écrites dans un délai qui ne peut être inférieur à dix jours ; l'intéressé est également informé qu'il peut se faire assister par toute personne de son choix.

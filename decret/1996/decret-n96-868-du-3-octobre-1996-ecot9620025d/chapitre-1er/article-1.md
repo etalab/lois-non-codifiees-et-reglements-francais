@@ -1,0 +1,3 @@
+# Article 1
+
+A l'ouverture de la première séance du Conseil des marchés financiers, il est procédé, sous la présidence du doyen d'âge des membres du conseil, au tirage au sort prévu par l'avant-dernier alinéa de l'article 27 de la loi du 2 juillet 1996 susvisée. A cet effet, il est établi un bulletin libellé au nom de chacun des membres du conseil. La durée du mandat des huit membres dont les noms sont tirés au sort les premiers est de deux ans. Le déroulement de ces opérations fait l'objet d'un procès-verbal signé par le doyen d'âge, les membres du conseil et par le commissaire du Gouvernement. Ce procès-verbal est transmis au ministre chargé de l'économie et des finances.
