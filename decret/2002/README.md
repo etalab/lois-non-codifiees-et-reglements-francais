@@ -28,3 +28,4 @@
 - [Décret n°2002-1570 du 24 décembre 2002 (SANS0223593D)](decret-n2002-1570-du-24-decembre-2002-sans0223593d)
 - [Décret n°2002-1571 du 24 décembre 2002 (SANS0224087D)](decret-n2002-1571-du-24-decembre-2002-sans0224087d)
 - [Décret n°2002-1573 du 24 décembre 2002 (AGRS0202250D)](decret-n2002-1573-du-24-decembre-2002-agrs0202250d)
+- [Décret n°2002-1611 du 30 décembre 2002 (BUDR0205006D)](decret-n2002-1611-du-30-decembre-2002-budr0205006d)

@@ -1,0 +1,5 @@
+# Article 34
+
+I. - Sous réserve des décisions de justice passées en force de chose jugée, les décisions prises entre le 30 mars et le 30 juin 2002 par les chambres de métiers pour l'application des dispositions du sixième alinéa de l'article 1601 du code général des impôts aux impositions établies au titre de 2002 sont réputées régulières en tant qu'elles seraient contestées par le moyen tiré de l'expiration du délai prévu au premier alinéa du I de l'article 1639 A du code général des impôts.
+
+II. - Sous réserve des décisions de justice passées en force de chose jugée, les délibérations prises entre le 30 juin et le 15 octobre 2002 par les collectivités territoriales ou par leurs groupements dotés d'une fiscalité propre pour l'application des dispositions du 4° de l'article 1464 A du code général des impôts sont réputées régulières en tant qu'elles seraient contestées par le moyen tiré de l'expiration du délai prévu au premier alinéa du I de l'article 1639 A bis du code général des impôts.

@@ -1,0 +1,3 @@
+# Article 117
+
+A compter de 2003, le Gouvernement déposera chaque année sur le bureau de l'Assemblée nationale et sur celui du Sénat, à l'ouverture de la session ordinaire, un rapport faisant état du volume d'émissions télévisées sous-titrées ainsi que celles traduites en langue des signes. Les informations données par ce rapport devront permettre de mieux apprécier le coût de ce sous-titrage et de la traduction en langue des signes pour les sociétés nationales de programmes, les chaînes de télévision publiques et tous autres organismes publics qui développent ces procédés. Ce rapport sera préparé par le Conseil supérieur de l'audiovisuel.

@@ -26,6 +26,6 @@ Pour les années suivantes, le produit ainsi utilisé évolue en fonction de l'i
 
 La fraction du produit des impositions visées au premier alinéa afférente aux taxes mentionnées aux articles 1520 et 1528 du code général des impôts est répartie, selon des critères fixés par le comité des finances locales, entre les communes ou leurs établissements publics de coopération intercommunale qui ont institué ces taxes et sur le territoire desquels sont implantés des établissements de La Poste et de France Télécom.
 
-7° Les bases d'imposition afférentes à La Poste et à France Télécom ne sont pas prises en compte pour la détermination du potentiel fiscal.
+7° Les bases d'imposition afférentes à La Poste ne sont pas prises en compte pour la détermination du potentiel fiscal.
 
 Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'application du présent article, après consultation du comité des finances locales.
