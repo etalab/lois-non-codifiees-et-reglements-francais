@@ -4,7 +4,7 @@ Pour pouvoir être classés, les candidats qui se sont présentés aux concours 
 
 a) Lorsqu'ils sont en dernière année de deuxième cycle, avoir effectué au moins sept mois de stages hospitaliers, à savoir du mois d'octobre de l'année qui précède celle du concours au mois d'avril de l'année du concours ;
 
-b) Lorsqu'ils sont internes ou résidents, avoir assuré leurs fonctions depuis le 1er novembre de l'année qui précède celle du concours.
+b) Lorsqu'ils sont internes ou résidents, avoir validé le stage semestriel de formation pratique qui s'étend du mois de novembre de l'année précédant le concours à la fin du mois d'avril de l'année du concours.
 
 Les dispositions du b ci-dessus ne sont pas applicables aux internes ou résidents qui sont mis en disponibilité par application des b et c de l'article 22 du décret du 2 septembre 1983 susvisé.
 

@@ -6,14 +6,22 @@ Ce concours est ouvert pour le nombre de postes fixé pour chaque discipline d'i
 
 Les disciplines d'internat sont les suivantes :
 
-- spécialités médicales ;
+Spécialités médicales ;
 
-- santé publique ;
+Santé publique ;
 
-- médecine du travail ;
+Médecine du travail ;
 
-- spécialités chirurgicales ;
+Spécialités chirurgicales ;
 
-- biologie médicale ;
+Biologie médicale ;
 
-- psychiatrie.
+Psychiatrie,
+
+ainsi qu'à compter de l'année universitaire 1999-2000 :
+
+Anesthésiologie-réanimation chirurgicale ;
+
+Pédiatrie ;
+
+Gynécologie-obstétrique.
