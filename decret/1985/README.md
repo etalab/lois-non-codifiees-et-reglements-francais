@@ -125,6 +125,7 @@
 - [Décret n°85-249 du 14 février 1985](decret-n85-249-du-14-fevrier-1985)
 - [Décret n°85-46 du 14 janvier 1985](decret-n85-46-du-14-janvier-1985)
 - [Décret n°85-607 du 14 juin 1985](decret-n85-607-du-14-juin-1985)
+- [Décret n°85-872 du 14 août 1985](decret-n85-872-du-14-aout-1985)
 - [Décret n°85-554 du 14 mai 1985](decret-n85-554-du-14-mai-1985)
 - [Décret n°85-219 du 15 février 1985](decret-n85-219-du-15-fevrier-1985)
 - [Décret n°85-220 du 15 février 1985](decret-n85-220-du-15-fevrier-1985)
