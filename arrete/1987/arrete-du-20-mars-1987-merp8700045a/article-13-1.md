@@ -1,15 +1,15 @@
 # Article 13-1
 
-Pour l'exercice de la pêche du crabe des neiges (Chionocetes opilio), les eaux territoriales et la zone économique au large des côtes de Saint-Pierre-et-Miquelon sont divisées en trois zones :
+Pour l'exercice de la pêche du crabe des neiges (Chionocetes opilio), les eaux territoriales et la zone économique au large de Saint-Pierre-et-Miquelon sont divisées en trois zones :
 
-- zone 1 : partie des eaux territoriales et de la zone économique située au nord du parallèle 46° 40' de latitude Nord ;
+Zone 1 : partie des eaux territoriales et de la zone économique située au nord-ouest de la ligne droite joignant les points A et B dont les coordonnées sont les suivantes :
 
-- zone 2 : partie des eaux territoriales et de la zone économique située entre les parallèles 46° 40' et 46° 20' de latitude Nord ;
+A : 47° 06' nord et 056° 06' ouest ;
 
-- zone 3 : partie des eaux territoriales et de la zone économique située au sud du parallèle 46° 20' de latitude Nord.
+B : 46° 30' nord et 056° 46' ouest ;
 
-Dans les zones 1 et 3, la pêche du crabe des neiges est interdite chaque année du 1er avril au lundi qui suit la date de fermeture de la zone 2 ;
+Zone 2 : partie des eaux territoriales et de la zone économique située au sud-est de la ligne droite joignant les points A et B dont les coordonnées sont précisées ci-dessus et au nord du parallèle 46° de latitude nord ;
 
-En ce qui concerne la zone 2, la pêche du crabe des neiges est autorisée du 16 avril à la date de constatation de la consommation du total de captures autorisé pour l'année en cours.
+Zone 3 : partie des eaux territoriales située au sud du parallèle 46° de latitude nord.
 
-Le seul mode de pêche autorisé pour la pêche du crabe des neiges est le casier à une seule entrée, dans la limite de 160 casiers par navire autorisé à pêcher. Les filières ou trains de casiers ne doivent pas compter plus de 20 casiers.
+Le seul mode de pêche autorisé pour la pêche du crabe des neiges est le casier à une seule entrée, dans la limite de 160 casiers par navire autorisé à pêcher. Les filières ou train de casiers ne doivent pas compter plus de 20 casiers.
