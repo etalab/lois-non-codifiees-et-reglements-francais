@@ -1,6 +1,6 @@
 # Article 34
 
-Les concours externes prévus pour le recrutement des adjoints des cadres hospitaliers, des secrétaires médicaux, des adjoints administratifs hospitaliers et des agents administratifs sont ouverts aux candidats âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours.
+Les concours externes prévus pour le recrutement des adjoints des cadres hospitaliers, des secrétaires médicaux, des adjoints administratifs hospitaliers sont ouverts aux candidats âgés de quarate-cinq ans au plus au 1er janvier de l'année du concours.
 
 La limite d'âge est supprimée ou reculée conformément aux dispositions législatives ou réglementaires en vigueur.
 
