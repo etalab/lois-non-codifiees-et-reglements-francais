@@ -1,17 +1,15 @@
 # Article Annexe I
 
-Farines de viande et d'os (CPC) : 1 600 F/t.
+Farines de viande et d'os : 243,92 euros/t.
 
-Graisses de cuisson ("15") : 1 850 F/t.
+Graisses de cuisson et graisses d'os : 274,41 euros/t.
 
-Graisses d'os : 1 900 F/t.
+Farines de volaille, farines de plumes et cretons : 274,41 euros/t.
 
-Farine de sang et de poisson : 2 600 F/t.
+Graisses de volaille : 304,90 euros/t.
 
-Farine de plumes : 1 800 F/t.
+Farines de sang : 365,88 euros/t.
 
-Farines de volaille et cretons : 2 400 F/t.
+Ce barème vise les produits fabriqués par les transformateurs qui bénéficient d'une indemnisation non soumise à la TVA.
 
-Graisses de volaille : 2 500 F/t.
-
-Le tableau ci-dessus vise les produits fabriqués par les transformateurs qui bénéficient d'une indemnisation non soumise à la TVA.
+La teneur en graisse des farines ne doit pas excéder 14 %, leur taux d'humidité doit être inférieur ou égal à 10 %, le total des deux taux étant inférieur à 22 %. D'autres conditions techniques concernant les produits visés par le barème pourront être fixées par arrêté, le cas échéant.
