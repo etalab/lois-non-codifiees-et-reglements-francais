@@ -341,6 +341,7 @@
 - [Décret n°2004-461 du 27 mai 2004 (SANS0420911D)](decret-n2004-461-du-27-mai-2004-sans0420911d)
 - [Décret n°2004-1028 du 28 septembre 2004 (EQUP0400977D)](decret-n2004-1028-du-28-septembre-2004-equp0400977d)
 - [Décret n°2004-368 du 28 avril 2004 (ECOF0400024D)](decret-n2004-368-du-28-avril-2004-ecof0400024d)
+- [Décret n°2004-385 du 28 avril 2004 (SOCF0410652D)](decret-n2004-385-du-28-avril-2004-socf0410652d)
 - [Décret n°2004-781 du 28 juillet 2004 (AGRA0401213D)](decret-n2004-781-du-28-juillet-2004-agra0401213d)
 - [Décret n°2004-90 du 28 janvier 2004 (INDI0302006D)](decret-n2004-90-du-28-janvier-2004-indi0302006d)
 - [Décret du 29 mars 2004 (AGRP0400405D)](decret-du-29-mars-2004-agrp0400405d)
