@@ -1,3 +1,0 @@
-# Article 7
-
-Les émoluments, indemnités et frais prévus aux précédents articles sont à la charge [*financière*] de la caisse régionale de sécurité sociale ou, dans les cas visés respectivement aux articles 3 et 4 du décret n° 53-531 du 28 mai 1953, de l'entreprise ou collectivité intéressée, qui en effectue le payement au greffier, à l'agent assermenté ou au témoin dès réception de l'état de frais adressé par l'intéressé. La caisse régionale, l'entreprise ou la collectivité intéressée contrôle l'exactitude des mentions figurant sur ledit état. Elle peut exiger les justifications qui lui paraissent nécessaires.

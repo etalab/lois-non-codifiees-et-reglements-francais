@@ -1,3 +1,0 @@
-# Article 2
-
-Sur toutes les voies d'eau du domaine public non rayées de la nomenclature des voies navigables et flottables, il est en outre interdit de pêcher sur une longueur de 50 mètres en amont et en aval des extrémités des écluses et des barrages. Cette longueur de 50 mètres est réduite à 20 mètres pour les écluses des échelles d'écluses du canal des Ardennes, versant Aisne, écluses 1 à 26, du canal du Rhône au Rhin, écluses 2 à 10 du versant Rhin, et du canal de l'Est, branche Sud, écluses 1 à 15 du versant Moselle, à 15 mètres à l'aval de l'écluse n° 33 bis du canal de jonction du canal latéral au fleuve la Loire, à Saint-Thibault, commune de Saint-Satur, dans le département du Cher.
