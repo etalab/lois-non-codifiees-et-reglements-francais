@@ -36,4 +36,4 @@ Métiers de l'information et de la communication ;
 
 Métiers des arts et de la culture ;
 
-Métiers de l'hôtellerie, du tourisme et des loisirs.
+Métiers du transport, de l'hôtellerie, du tourisme et des    loisirs.

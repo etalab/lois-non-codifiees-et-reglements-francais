@@ -2,3 +2,5 @@
 
 - [Titre Ier : Dispositions applicables aux fonctionnaires.](titre-ier)
 - [Titre II : Dispositions applicables aux agents non titulaires.](titre-ii)
+- [Titre III : Dispositions diverses.](titre-iii)
+- [Article 17](article-17.md)
