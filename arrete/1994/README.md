@@ -632,6 +632,7 @@
 - [Arrêté du 21 mars 1994 (DEFG9401311A)](arrete-du-21-mars-1994-defg9401311a)
 - [Arrêté du 21 mars 1994 (MCCB9300415A)](arrete-du-21-mars-1994-mccb9300415a)
 - [Arrêté du 22 août 1994 (ECOT9410217A)](arrete-du-22-aout-1994-ecot9410217a)
+- [Arrêté du 22 août 1994 (EQUA9401487A)](arrete-du-22-aout-1994-equa9401487a)
 - [Arrêté du 22 avril 1994 (BUDR9405014A)](arrete-du-22-avril-1994-budr9405014a)
 - [Arrêté du 22 avril 1994 (INTB9400237A)](arrete-du-22-avril-1994-intb9400237a)
 - [Arrêté du 22 avril 1994 (INTE9400216A)](arrete-du-22-avril-1994-inte9400216a)

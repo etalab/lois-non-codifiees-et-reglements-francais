@@ -446,6 +446,7 @@
 - [Décret n°94-728 du 19 août 1994 (COMK9404001D)](decret-n94-728-du-19-aout-1994-comk9404001d)
 - [Décret n°94-735 du 19 août 1994 (RESK9401003D)](decret-n94-735-du-19-aout-1994-resk9401003d)
 - [Décret n°94-817 du 19 septembre 1994 (LOGC9400018D)](decret-n94-817-du-19-septembre-1994-logc9400018d)
+- [Décret n°94-818 du 19 septembre 1994 (JUSB9410398D)](decret-n94-818-du-19-septembre-1994-jusb9410398d)
 - [Décret n°94-82 du 19 janvier 1994 (INDA9300577D)](decret-n94-82-du-19-janvier-1994-inda9300577d)
 - [Décret n°94-83 du 19 janvier 1994 (MCCB9300363D)](decret-n94-83-du-19-janvier-1994-mccb9300363d)
 - [Décret n°90-361 du 20 avril 1990 (MENT9000107D)](decret-n90-361-du-20-avril-1990-ment9000107d)
