@@ -178,6 +178,7 @@
 - [Décret n°85-1003 du 19 septembre 1985](decret-n85-1003-du-19-septembre-1985)
 - [Décret n°85-1026 du 19 septembre 1985](decret-n85-1026-du-19-septembre-1985)
 - [Décret n°85-1031 du 19 septembre 1985](decret-n85-1031-du-19-septembre-1985)
+- [Décret n°85-1036 du 19 septembre 1985](decret-n85-1036-du-19-septembre-1985)
 - [Décret n°85-242 du 19 février 1985](decret-n85-242-du-19-fevrier-1985)
 - [Décret n°85-347 du 19 mars 1985](decret-n85-347-du-19-mars-1985)
 - [Décret n°85-350 du 19 mars 1985](decret-n85-350-du-19-mars-1985)
