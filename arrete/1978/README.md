@@ -12,6 +12,7 @@
 - [Arrêté du 23 janvier 1978](arrete-du-23-janvier-1978)
 - [Arrêté du 23 novembre 1977](arrete-du-23-novembre-1977)
 - [Arrêté du 24 novembre 1977](arrete-du-24-novembre-1977)
+- [Arrêté du 27 janvier 1978](arrete-du-27-janvier-1978)
 - [Arrêté du 28 décembre 1977](arrete-du-28-decembre-1977)
 - [Arrêté du 30 janvier 1978](arrete-du-30-janvier-1978)
 - [Arrêté du 31 décembre 1977](arrete-du-31-decembre-1977)
