@@ -2,7 +2,7 @@
 
 Les surveillants et surveillants principaux peuvent être promus au grade de premier surveillant selon l'une des modalités suivantes :
 
-A. - Par la voie d'une sélection opérée par concours professionnel ouvert aux candidats justifiant, à la date du concours, de sept ans au moins de services effectifs dans leur grade.
+A. - Par la voie d'une sélection opérée par concours professionnel ouvert aux candidats justifiant, à la date du concours, de Six ans au moins de services effectifs dans leur grade.
 
 La période accomplie en qualité de surveillant stagiaire est considérée comme service effectif dans la limite d'un an.
 
