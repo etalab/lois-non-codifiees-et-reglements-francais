@@ -1,5 +1,6 @@
 # 1999
 
+- [Décret du 1 octobre 1999 (ATEN9970055D)](decret-du-1-octobre-1999-aten9970055d)
 - [Décret n°2000-743 du 1 août 2000 (PRMX0004282D)](decret-n2000-743-du-1-aout-2000-prmx0004282d)
 - [Décret n°2000-746 du 1 août 2000 (ECOP0000097D)](decret-n2000-746-du-1-aout-2000-ecop0000097d)
 - [Décret n°99-160 du 1 mars 1999 (INTM9900004D)](decret-n99-160-du-1-mars-1999-intm9900004d)
@@ -125,6 +126,7 @@
 - [Décret n°99-475 du 4 juin 1999 (EQUA9900136D)](decret-n99-475-du-4-juin-1999-equa9900136d)
 - [Décret n°99-854 du 4 octobre 1999 (FPPA9900124D)](decret-n99-854-du-4-octobre-1999-fppa9900124d)
 - [Décret n°99-855 du 4 octobre 1999 (MENF9901816D)](decret-n99-855-du-4-octobre-1999-menf9901816d)
+- [Décret n°99-857 du 4 octobre 1999 (INTB9900230D)](decret-n99-857-du-4-octobre-1999-intb9900230d)
 - [Décret n°99-342 du 4 mai 1999 (ATEN9970005D)](decret-n99-342-du-4-mai-1999-aten9970005d)
 - [Décret n°99-343 du 4 mai 1999 (FPPA9900062D)](decret-n99-343-du-4-mai-1999-fppa9900062d)
 - [Décret n°2000-989 du 5 octobre 2000 (PRMX0004307D)](decret-n2000-989-du-5-octobre-2000-prmx0004307d)
@@ -687,6 +689,7 @@
 - [Décret n°99-661 du 29 juillet 1999 (MENF9901281D)](decret-n99-661-du-29-juillet-1999-menf9901281d)
 - [Décret n°99-666 du 29 juillet 1999 (JUSC9920360D)](decret-n99-666-du-29-juillet-1999-jusc9920360d)
 - [Décret n°99-682 du 29 juillet 1999 (ECOB9950030D)](decret-n99-682-du-29-juillet-1999-ecob9950030d)
+- [Décret n°99-856 du 29 septembre 1999 (INTM9900026D)](decret-n99-856-du-29-septembre-1999-intm9900026d)
 - [Décret du 30 décembre 1998 (ECOC9800135D)](decret-du-30-decembre-1998-ecoc9800135d)
 - [Décret n°70-1094 du 30 novembre 1970](decret-n70-1094-du-30-novembre-1970)
 - [Décret n°98-1309 du 30 décembre 1998 (MESS9823032D)](decret-n98-1309-du-30-decembre-1998-mess9823032d)

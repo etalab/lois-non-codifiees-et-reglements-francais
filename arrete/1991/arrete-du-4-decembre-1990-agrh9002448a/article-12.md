@@ -7,3 +7,5 @@ Ce carnet atteste l'agrément à la monte publique de l'étalon. Aucun étalon n
 La demande de carnet de saillies doit être faite auprès de l'administration des haras chaque année avant le début de la saison de monte.
 
 L'étalonnier doit se conformer aux instructions concernant la tenue des documents de monte qui lui sont communiqués par le service des haras, des courses et de l'équitation.
+
+La participation des propriétaires d'étalons aux frais d'établissement du carnet de saillie est fixée chaque année par le conseil d'administration de l'institut du cheval, après consultation de la profession et approbation du ministre chargé de l'agriculture.
