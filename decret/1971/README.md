@@ -88,5 +88,4 @@
 - [Décret n°71-1105 du 30 décembre 1971](decret-n71-1105-du-30-decembre-1971)
 - [Décret n°71-644 du 30 juillet 1971](decret-n71-644-du-30-juillet-1971)
 - [Décret n°71-647 du 30 juillet 1971](decret-n71-647-du-30-juillet-1971)
-- [Décret n°70-1329 du 31 décembre 1970](decret-n70-1329-du-31-decembre-1970)
 - [Décret n°71-716 du 31 août 1971](decret-n71-716-du-31-aout-1971)
