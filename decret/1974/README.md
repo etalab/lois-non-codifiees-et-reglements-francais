@@ -15,6 +15,7 @@
 - [Décret n°74-401 du 9 mai 1974](decret-n74-401-du-9-mai-1974)
 - [Décret n°74-410 du 9 mai 1974](decret-n74-410-du-9-mai-1974)
 - [Décret n°74-304 du 10 avril 1974](decret-n74-304-du-10-avril-1974)
+- [Décret n°74-725 du 11 juillet 1974](decret-n74-725-du-11-juillet-1974)
 - [Décret n°74-706 du 13 août 1974](decret-n74-706-du-13-aout-1974)
 - [Décret n°74-415 du 13 mai 1974](decret-n74-415-du-13-mai-1974)
 - [Décret n°74-27 du 14 janvier 1974](decret-n74-27-du-14-janvier-1974)
