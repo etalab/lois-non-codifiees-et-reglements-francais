@@ -567,6 +567,7 @@
 - [Décret n°99-838 du 22 septembre 1999 (MESG9922417D)](decret-n99-838-du-22-septembre-1999-mesg9922417d)
 - [Décret n°99-839 du 22 septembre 1999 (MESG9922418D)](decret-n99-839-du-22-septembre-1999-mesg9922418d)
 - [Décret n°99-897 du 22 octobre 1999 (EQUU9901117D)](decret-n99-897-du-22-octobre-1999-equu9901117d)
+- [Décret n°99-898 du 22 octobre 1999 (MESS9922991D)](decret-n99-898-du-22-octobre-1999-mess9922991d)
 - [Décret du 23 juin 1999 (HRUX9903527D)](decret-du-23-juin-1999-hrux9903527d)
 - [Décret du 23 septembre 1999 (ECOC9900056D)](decret-du-23-septembre-1999-ecoc9900056d)
 - [Décret du 23 septembre 1999 (ECOC9900057D)](decret-du-23-septembre-1999-ecoc9900057d)
