@@ -12,6 +12,6 @@ Les emplois permanents de l'Etat et des établissements publics de l'Etat énum�
 
 5° Les emplois occupés par du personnel affilié aux régimes de retraite institués en application du décret du 24 septembre 1965 relatif au régime des pensions des ouvriers des établissements industriels de l'Etat, de l'article L. 426-1 du code de l'aviation civile et du code des pensions de retraite des marins ;
 
-6° Les emplois occupés par les maîtres d'internat et surveillants d'externat des établissements d'enseignement.
+6° Les emplois occupés par les assistants d'éducation, les maîtres d'internat et les surveillants d'externat des établissements d'enseignement.
 
 Les remplacements de fonctionnaires occupant les emplois de l'Etat et de ses établissements publics mentionnés à l'article 3 du titre Ier du statut général, dans la mesure où ils correspondent à un besoin prévisible et constant, doivent être assurés en faisant appel à d'autres fonctionnaires.
