@@ -1,11 +1,3 @@
 # Article 3
 
-Les informations traitées sont les suivantes :
-
-Nom, prénom, situation matrimoniale, personnes à charge ;
-
-Revenus imposables ;
-
-Adresse ;
-
-Montant de l'impôt.
+Lorsque les circonstances imposent de provoquer la mort d'un animal, cette dernière doit être pratiquée par un procédé assurant une mort rapide et éliminant toute souffrance évitable.
