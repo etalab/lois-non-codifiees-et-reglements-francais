@@ -1,13 +1,13 @@
 # Article 16
 
-Le matériel électrique utilisé doit être approprié aux risques inhérents aux activités exercées. Les silos sont efficacement protégés contre les risques liés aux effets de l'électricité statique, les courants parasites et la foudre.
+Dans les zones où peuvent apparaître des atmosphères explosives au sens de l'arrêté du 31 mars 1980 susvisé, les installations électriques sont réduites à ce qui est nécessaire aux besoins de l'exploitation. Elles doivent être entièrement constituées de matériels utilisables dans les atmosphères explosives et doivent satisfaire aux dispositions des réglementations en vigueur.
 
-Les équipements concourant à la sécurité du silo doivent rester sous tension et sont conçus conformément à la réglementation en vigueur.
+Les installations électriques doivent satisfaire aux dispositions du décret du 14 novembre 1988 susvisé.
 
-L'éclairage de sécurité (évacuation, secours et balisage) est au minimum de type C conformément aux réglementations en vigueur.
+L'exploitant doit tenir à la disposition de l'inspecteur des installations classées pour la protection de l'environnement un rapport annuel effectué par un organisme compétent.
 
-Les installations électriques sont réalisées par des personnes compétentes, avec du matériel normalisé et conformément aux normes applicables. Le matériel électrique est en outre protégé contre les chocs.
+Ce rapport doit comporter :
 
-Dans les zones où peuvent apparaître des atmosphères explosives au sens de l'arrêté du 31 mars 1980 susvisé, déterminées sous la responsabilité de l'exploitant, les installations électriques sont réduites à ce qui est strictement nécessaire aux besoins de l'exploitation. Les sources d'éclairage inadaptées doivent être interdites dans ces zones.
+- une description des installations électriques présentes dans les zones où peuvent apparaître des atmosphères explosives ;
 
-Toutes les installations électriques sont entretenues en bon état et sont contrôlées après leur installation ou modification. Le contrôle doit être effectué tous les ans par un organisme agréé. Cet organisme doit explicitement mentionner les défectuosités relevées dans son rapport de contrôle. Ces rapports sont tenus à la disposition de l'inspecteur des installations classées.
+- les conclusions de l'organisme quant à la conformité des installations électriques ou les mesures à prendre pour assurer la conformité avec les dispositions de l'arrêté et du décret susvisés.
