@@ -10,3 +10,4 @@
 - [Loi du 6 janvier 1941](loi-du-6-janvier-1941)
 - [Loi n°1941-03-22 du 22 mars 1941](loi-n1941-03-22-du-22-mars-1941)
 - [Loi n°41-1585 du 11 avril 1941](loi-n41-1585-du-11-avril-1941)
+- [Loi n°41-1814 du 24 avril 1941](loi-n41-1814-du-24-avril-1941)
