@@ -1,0 +1,3 @@
+# TAUX DES VACATIONS DES ATTACHÉS DES ÉTABLISSEMENTS HOSPITALIERS PUBLICS (Montants au 1er septembre 1988)
+
+- [Article ANNEXE 8](article-annexe-8.md)

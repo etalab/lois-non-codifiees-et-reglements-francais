@@ -1,0 +1,3 @@
+# Article 1
+
+Une indemnité de sujétions spéciales non soumise à retenue pour pensions civiles de retraite est attribuée à certains personnels de direction d'établissements d'enseignement ou de formation relevant du ministre de l'éducation nationale, de la jeunesse et des sports qui occupent l'un des emplois mentionnés à l'article 1er du décret du 11 avril 1988 susvisé, ainsi qu'aux directeurs adjoints chargés de section d'éducation spécialisée de collège, aux directeurs d'établissement régional d'enseignement adapté et aux directeurs d'école régionale du premier degré mentionnés par le décret du 8 mai 1981 susvisé.

@@ -1,0 +1,5 @@
+# Article 34
+
+Les intégrations sont prononcées par arrêté du ministre de l'éducation nationale [*autorité compétente*] conformément au tableau ci-dessous :
+
+CORPS ET GRADE D'ORIGINE CORPS ET GRADE D'INTEGRATION Professeurs agrégés hors classe. Personnels de direction de 1re catégorie, 1re classe. Professeurs agrégés et assimilés de classe normale. Personnels de direction de 1re catégorie, 2e classe. Professeurs certifiés et assimilés, professeurs d'éducation physique et sportive, professeurs de lycée professionnel du 2e grade, conseillers principaux d'éducation, inspecteurs départementaux de l'éducation nationale, inspecteurs de l'enseignement technique. Personnels de direction de 2e catégorie, 2e classe. Professeurs de lycée professionnel du 1er grade, professeurs techniques chefs de travaux de lycée professionnel, professeurs techniques adjoints de lycée technique, chargés d'enseignement, adjoints d'enseignement, professeurs d'enseignement général de collège, conseillers d'éducation, directeurs de collège d'enseignement technique. Personnels de direction de 2e catégorie, 3e classe.

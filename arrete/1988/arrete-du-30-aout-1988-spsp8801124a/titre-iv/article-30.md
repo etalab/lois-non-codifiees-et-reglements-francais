@@ -1,0 +1,3 @@
+# Article 30
+
+Le préfet de région délivre aux candidats déclarés admis le certificat d'aptitude aux fonctions d'infirmier spécialisé en anesthésie-réanimation. Il délivre aux candidats visés à l'article 7 du présent arrêté une attestation de réussite aux épreuves visées à l'article 25 du présent arrêté. Cette attestation est échangée contre le certificat d'aptitude aux fonctions d'infirmier spécialisé en anesthésie-réanimation dès que les intéressés remplissent les conditions exigées pour exercer la profession d'infirmier ou de sage-femme en France. Le modèle de cette attestation figure en annexe IV du présent arrêté.

@@ -1,0 +1,3 @@
+# Article 1
+
+Une indemnité de responsabilité de direction d'établissement, non soumise à retenue pour pensions civiles de retraite, est attribuée aux personnels de direction d'établissements d'enseignement ou de formation relevant du ministre de l'éducation nationale, de la jeunesse et des sports qui occupent l'un des emplois de chef d'établissement ou d'adjoint au chef d'établissement désignés à l'article 1er du décret du 11 avril 1988 susvisé, ainsi qu'aux directeurs d'établissement régional d'enseignement adapté et aux directeurs d'école régionale du premier degré mentionnés par le décret du 8 mai 1981 modifié susvisé.

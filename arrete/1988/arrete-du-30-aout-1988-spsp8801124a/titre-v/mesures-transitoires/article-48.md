@@ -1,0 +1,3 @@
+# Article 48
+
+Jusqu'en 1992 [*date limite*], les infirmiers diplômés d'Etat justifiant d'une expérience professionnelle de cinq ans [*durée*] à la date de publication de l'arrêté dans un service ou département d'anesthésie-réanimation en tant qu'aide à l'anesthésie peuvent obtenir des dispenses totales ou partielles de stage et des dispenses partielles d'enseignement après examen de leur dossier par une commission régionale spécialisée. Dans tous les cas, ils sont dispensés des épreuves d'admission dans les écoles et comptent dans les effectifs figurant dans l'agrément des écoles. Ces candidats ne bénéficient d'aucune dispense de scolarité après le 31 décembre 1992.
