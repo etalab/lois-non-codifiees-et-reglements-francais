@@ -1,3 +1,0 @@
-# Article 1
-
-Sans préjudice des recrutements normaux effectués en application des dispositions du décret susvisé du 11 septembre 1972, des recrutements de commis et de sténodactylographes pourront être organisés, à titre exceptionnel, chaque année pendant une période de quatre ans à compter du 1er janvier 1977, dans la limite de 75 p. 100 du nombre des agents recrutés en qualité d'auxiliaire et titularisés dans les emplois d'agent de bureau en application du décret susvisé du 9 février 1968 et à concurrence de 50 p. 100 pour les emplois de commis et de 25 p. 100 pour les emplois de sténodactylographe à pourvoir suivant les modalités définies aux articles ci-après.

@@ -1,3 +1,0 @@
-# Article 6
-
-Par application de l'alinéa 2 de l'article 11 de la loi susvisée du 3 janvier 1977 sur l'architecture, il peut être dérogé, par décision du ministre chargé de la culture, prise après avis du ministre des affaires étrangères, aux dispositions de l'article 11 (1er alinéa) de la loi précitée subordonnant l'inscription des personnes physiques de nationalité étrangère à un tableau régional d'architectes, dans les conditions prévues aux articles 10, 11 et 23 de la même loi, à l'existence d'une convention de réciprocité ou d'un engagement international entre la France et l'Etat dont ces personnes sont ressortissantes.

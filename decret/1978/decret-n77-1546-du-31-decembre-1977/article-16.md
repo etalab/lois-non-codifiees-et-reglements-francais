@@ -1,3 +1,0 @@
-# Article 16
-
-Lorsqu'un atelier protégé ou un centre de distribution de travail à domicile est adjoint au centre, il fait l'objet d'un budget et d'une comptabilité entièrement distincts.

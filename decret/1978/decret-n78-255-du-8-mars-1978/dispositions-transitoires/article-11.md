@@ -1,3 +1,0 @@
-# Article 11
-
-Par dérogation aux dispositions du dernier alinéa de l'article 3 du décret susvisé du 10 mars 1964, les éducateurs scolaires et les maîtres chargés à titre principal de l'enseignement ou de la première formation professionnelle, en fonctions à la date de publication du présent décret dans les établissements ou services pour enfants ou adolescents handicapés ayant souscrit un contrat simple, sont, lorsqu'ils sont pris en charge par l'Etat, classés dans l'échelle de rémunération des maîtres de l'enseignement public dans laquelle ils sont rattachés, selon les modalités fixées à l'article 9 du décret susvisé du 10 mars 1964. Ce classement est effectué à la date de leur demande d'agrément.

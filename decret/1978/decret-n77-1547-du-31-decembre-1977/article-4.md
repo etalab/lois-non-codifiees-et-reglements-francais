@@ -1,5 +1,0 @@
-# Article 4
-
-I - Lorsque le pensionnaire est obligé, pour effectuer les actes ordinaires de la vie, d'avoir recours à l'assistance d'une tierce personne et qu'il bénéficie à ce titre de l'allocation compensatrice prévue à l'article 39 de la loi susvisée du 30 juin 1975, le paiement de cette allocation est suspendu à concurrence d'un montant fixé par la commission d'admission, en proportion de l'aide qui lui est assurée par le personnel de l'établissement pendant qu'il y séjourne et au maximum à concurrence de 90 p. 100.
-
-II - Lorsque le pensionnaire expose des frais supplémentaires liés à l'exercice d'une activité professionnelle et qu'il bénéficie à ce titre de l'allocation compensatrice, il garde la disposition de celle-ci. Toutefois, si l'établissement le décharge d'une partie de ces frais par des services et notamment par la mise à sa disposition de moyens de transports adaptés, le paiement de l'allocation est suspendu jusqu'à concurrence d'un montant fixé par la commission d'admission.

@@ -1,3 +1,0 @@
-# Article 3
-
-La désignation des représentants des professions intéressées est faite par le garde des sceaux, ministre de la justice, sur la proposition des présidents de la conférence des bâtonniers en ce qui concerne le représentant de la profession d'avocat, des organes statutaires nationaux en ce qui concerne le représentant des professions d'avoué, de notaire, d'huissier de justice, de commissaire-priseur, de syndic et administrateur judiciaire et de l'association nationale des greffiers en ce qui concerne le représentant des greffiers des tribunaux de commerce ; des membres suppléants sont désignés dans les mêmes conditions.
