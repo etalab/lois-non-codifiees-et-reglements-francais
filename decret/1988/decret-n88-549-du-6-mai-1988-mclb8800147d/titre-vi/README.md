@@ -1,6 +1,5 @@
 # TITRE VI : CONSTITUTION INITIALE DU CADRE D'EMPLOIS ET AUTRES DISPOSITIONS TRANSITOIRES.
 
-- [Article 25](article-25.md)
 - [Article 26](article-26.md)
 - [Article 27](article-27.md)
 - [Article 28](article-28.md)
@@ -17,4 +16,3 @@
 - [Article 39](article-39.md)
 - [Article 40](article-40.md)
 - [Article 40-1](article-40-1.md)
-- [Article 40-2](article-40-2.md)

@@ -91,6 +91,8 @@
 - [Arrêté du 9 janvier 1989 (PTTT8900027A)](arrete-du-9-janvier-1989-pttt8900027a)
 - [Arrêté du 9 janvier 1989 (PTTT8900028A)](arrete-du-9-janvier-1989-pttt8900028a)
 - [Arrêté du 9 janvier 1989 (SPSS8900065A)](arrete-du-9-janvier-1989-spss8900065a)
+- [Arrêté du 9 juin 1989 (ECOS8810004A)](arrete-du-9-juin-1989-ecos8810004a)
+- [Arrêté du 9 juin 1989 (ECOS8810005A)](arrete-du-9-juin-1989-ecos8810005a)
 - [Arrêté du 9 mars 1989 (ECOT8970002A)](arrete-du-9-mars-1989-ecot8970002a)
 - [Arrêté du 9 mars 1989 (SPSP8900485A)](arrete-du-9-mars-1989-spsp8900485a)
 - [Arrêté du 9 mars 1989 (SPSS8900499A)](arrete-du-9-mars-1989-spss8900499a)

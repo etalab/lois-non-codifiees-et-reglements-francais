@@ -29,6 +29,7 @@
 - [Décret n°88-949 du 6 octobre 1988 (JUSF8850115D)](decret-n88-949-du-6-octobre-1988-jusf8850115d)
 - [Décret n°88-950 du 6 octobre 1988 (SPSH8801075D)](decret-n88-950-du-6-octobre-1988-spsh8801075d)
 - [Décret n°88-547 du 6 mai 1988 (MCLB8800149D)](decret-n88-547-du-6-mai-1988-mclb8800149d)
+- [Décret n°88-549 du 6 mai 1988 (MCLB8800147D)](decret-n88-549-du-6-mai-1988-mclb8800147d)
 - [Décret n°88-551 du 6 mai 1988 (MCLB8800151D)](decret-n88-551-du-6-mai-1988-mclb8800151d)
 - [Décret n°88-552 du 6 mai 1988 (MCLB8800152D)](decret-n88-552-du-6-mai-1988-mclb8800152d)
 - [Décret n°88-553 du 6 mai 1988 (MCLB8800153D)](decret-n88-553-du-6-mai-1988-mclb8800153d)
