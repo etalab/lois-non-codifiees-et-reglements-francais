@@ -1,0 +1,3 @@
+# Article 1
+
+Pour l'ensemble des concours ou examens professionnels réservés organisés en application de l'article 1er de la loi du 3 janvier 2001 susvisée et donnant accès à l'un des corps d'accueil ministériels figurant en annexe du présent arrêté conformément à la liste prévue au décret du 30 janvier 2002 susvisé, est instituée une commission pour le ministère de l'économie, des finances et de l'industrie, en vue de reconnaître l'expérience professionnelle en équivalence des conditions de titres ou de diplômes requises pour s'y présenter, en application de l'article 3 du décret du 12 septembre 2001 susvisé.
