@@ -1,3 +1,3 @@
 # Article 7
 
-Le laboratoire central des industries électriques, 33, avenue du Général-Leclerc, 92260 Fontenay-aux-Roses, est habilité à délivrer un certificat de conformité comme prévu à l'article 5 (alinéa 2).
+Les autorisations provisoires délivrées jusqu'au 31 décembre 1985 en application des dispositions de l'article R. 233-54 du code du travail demeurent valides.

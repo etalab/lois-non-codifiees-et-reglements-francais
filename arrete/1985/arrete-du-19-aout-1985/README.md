@@ -1,4 +1,4 @@
-# Arrêté du 19 août 1985 portant réglementation de l'importation, de la mise en vente et de la vente des appareils électrodomestiques, outils portatifs et appareils similaires susceptibles de perturber la réception des émissions radio-électriques
+# Arrêté du 19 août 1985 désignant l'Institut national de recherche et de sécurité et le Laboratoire national d'essais pour délivrer des visas d'examen technique concernant certaines des catégories de machines les plus dangereuses et précisant les règles applicables aux demandeurs de visas.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,4 +8,3 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Article 9](article-9.md)
