@@ -23,3 +23,5 @@ Les peines encourues par les personnes morales sont :
 2° La peine prévue au 4° de l'article 131-39 du code pénal pour une durée de cinq ans au plus et la peine prévue au 9° dudit article.
 
 IV. - Outre les officiers et les agents de police judiciaire agissant dans les conditions prévues au code de procédure pénale, les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes sont habilités à rechercher et constater, dans des conditions prévues par les articles L. 215-3 et L. 217-10 du code de la consommation, les infractions prévues par le présent article.
+
+V. Les dispositions du présent article sont applicables à Mayotte, à l'exception du 1° du I et du IV.
