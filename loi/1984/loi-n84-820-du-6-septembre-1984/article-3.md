@@ -26,7 +26,7 @@ Les autorités de l'Etat sont compétentes dans les matières suivantes :
 
 15° Organisation communale ; contrôle administratif et financier des communes et de leurs établissements publics ;
 
-16° Enseignements du second cycle du second degré, y compris la définition des programmes d'étude, des modalités d'examen, des brevets et diplômes et de la qualification requise pour enseigner, sous réserve des dispositions des 3° et 4° de l'article 25 et du premier alinéa de l'article 108 ; l'enseignement du second cycle du second degré pourra, sur sa demande, être transféré au territoire dans les conditions prévues au deuxième alinéa de l'article 108, à l'issue d'un délai de cinq ans après l'entrée en vigueur de la présente loi ;
+16° Enseignement du second cycle du second degré jusqu'au [*date*] 31 décembre 1987. Les compétences de l'Etat concernant ces enseignements seront transférées au territoire, le 1er janvier 1988, dans les conditions prévues à l'article 108 de la présente loi. "
 
 17° Enseignement supérieur, sous réserve des dispositions des 3° et 4° de l'article 25 ; recherche scientifique sans préjudice de la faculté pour le territoire d'organiser ses propres services de recherche ;
 
