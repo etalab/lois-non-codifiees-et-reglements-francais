@@ -2,6 +2,5 @@
 
 - [Article 1](article-1.md)
 - [TITRE Ier : Dispositions applicables en Nouvelle-Calédonie et dépendances et en Polynésie française.](titre-ier)
-- [TITRE II : Dispositions applicables en Nouvelle-Calédonie et dépendances.](titre-ii)
 - [TITRE III : Dispositions applicables en Polynésie française.](titre-iii)
 - [TITRE IV : Dispositions diverses.](titre-iv)
