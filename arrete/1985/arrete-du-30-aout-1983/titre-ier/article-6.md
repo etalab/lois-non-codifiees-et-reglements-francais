@@ -1,6 +1,6 @@
 # Article 6
 
-Les demandes d'immatriculation au répertoire ou au registre doivent être accompagnées d'une attestation de suivi du stage d'initiation à la gestion imposé par la loi n° 82-1091 du 23 décembre 1982, ou d'une dispense [*documents joints*].
+Les demandes d'immatriculation au répertoire ou au registre doivent être accompagnées d'une attestation de suivi du stage d'initiation à la gestion imposé par la loi n° 82-1091 du 23 décembre 1982, ou d'une dispense.
 
 Les demandes d'immatriculation doivent en outre comporter les renseignements suivants :
 
@@ -56,6 +56,8 @@ a) Associés des sociétés en nom collectif et associés commandités des soci�
 
 b) Gérants et associés des S.A.R.L. ayant pouvoir d'engager la société ;
 
-c) Administrateurs ou membres du conseil de surveillance des sociétés anonymes ;
+c) Administrateurs ou membres du directoire des sociétés anonymes ;
 
-Effectif des salariés distinguant les apprentis et les handicapés.    Pour le décompte des effectifs salariés conformément aux dispositions des articles 1er et 2 du décret du 10 juin 1983 susvisé, les justifications y afférentes doivent être produites.
+d) Le président et les membres du conseil d'administration pour les associations.
+
+Effectif des salariés distinguant les apprentis et les handicapés. Pour le décompte des effectifs salariés conformément aux dispositions des articles 1er et 2 du décret du 10 juin 1983 susvisé, les justifications y afférentes doivent être produites.

@@ -327,6 +327,8 @@
 - [Arrêté du 17 mars 1995 (SPSH9500937A)](arrete-du-17-mars-1995-spsh9500937a)
 - [Arrêté du 17 mars 1995 (SPSH9500938A)](arrete-du-17-mars-1995-spsh9500938a)
 - [Arrêté du 17 mars 1995 (SPSH9500939A)](arrete-du-17-mars-1995-spsh9500939a)
+- [Arrêté du 18 avril 1995 (COMA9500022A)](arrete-du-18-avril-1995-coma9500022a)
+- [Arrêté du 18 avril 1995 (COPC9500039A)](arrete-du-18-avril-1995-copc9500039a)
 - [Arrêté du 18 avril 1995 (MCCB9500019A)](arrete-du-18-avril-1995-mccb9500019a)
 - [Arrêté du 18 janvier 1995 (DEFL9501064A)](arrete-du-18-janvier-1995-defl9501064a)
 - [Arrêté du 18 janvier 1995 (SANH9500288A)](arrete-du-18-janvier-1995-sanh9500288a)
