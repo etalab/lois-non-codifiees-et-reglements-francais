@@ -60,8 +60,6 @@ Electroniciens de la sécurité aérienne.
 
 Ministère de la justice
 
-Greffiers en chef et greffiers des cours et tribunaux et conseils de prud'hommes.
-
 Educateurs des services déconcentrés de la protection judiciaire de la jeunesse.
 
 Ministère de la culture, de la communication,
