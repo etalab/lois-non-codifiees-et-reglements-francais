@@ -68,6 +68,14 @@ Emploi d'opérateur de marché et de post-marché
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
+Caisse de garantie du logement locatif social
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois de niveau A requérant une compétence spécifique en matière d'analyse financière
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
 Caisse nationale d'assurance maladie des travailleurs salariés
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
@@ -359,6 +367,14 @@ Institution nationale des invalides
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
 Emplois occupés par les praticiens hospitaliers civils
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
+Laboratoire national de dépistage du dopage
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois requérant une compétence spécifique de technicien d'analyses spécialisé dans la détection des produits et procédés dopants
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
