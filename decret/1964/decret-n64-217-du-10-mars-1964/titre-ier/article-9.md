@@ -20,8 +20,10 @@ A l'issue de la période provisoire, en ce qui concerne les maîtres de l'enseig
 
 9° Les services d'enseignement assurés dans un établissement d'enseignement situé hors du territoire métropolitain et les départements d'outre-mer sont pris en compte dans les conditions fixées par le décret susvisé du 3 septembre 1966.
 
-En ce qui concerne les maîtres du premier degré et les maîtres bénéficiant de l'échelle de rémunération des professeurs d'enseignement général de collège, les dispositions qui précèdent ne s'appliquent qu'après déduction d'une durée de services
+10° Les services effectifs d'enseignement accomplis dans les établissements d'enseignement privés sous contrat relevant du ministre chargé de l'agriculture sont pris en compte pour la totalité de leur durée sous réserve de l'application des mêmes coefficients
 
-d'enseignement fixée à six ans pour ceux d'entre eux qui sont titulaires du brevet élémentaire et à trois ans pour ceux d'entre eux qui sont titulaires du baccalauréat. Toutefois, cett e déduction n'est pas applicable pour le classement dans l'échelle de rémunération des instituteurs des maîtres titulaires du baccalauréat et du certificat d'aptitude pédagogique ou du diplôme d'instituteur qui ont suivi les années de scolarité prévues par les conventions mentionnées au 1° de l'article 2 ci-dessus.
+caractéristiques.
+
+En ce qui concerne les maîtres du premier degré et les maîtres bénéficiant de l'échelle de rémunération des professeurs d'enseignement général de collège, les dispositions qui précèdent ne s'appliquent qu'après déduction d'une durée de services d'enseignement fixée à six ans pour ceux d'entre eux qui sont titulaires du brevet élémentaire et à trois ans pour ceux d'entre eux qui sont titulaires du baccalauréat. Toutefois, cett e déduction n'est pas applicable pour le classement dans l'échelle de rémunération des instituteurs des maîtres titulaires du baccalauréat et du certificat d'aptitude pédagogique ou du diplôme d'instituteur qui ont suivi les années de scolarité prévues par les conventions mentionnées au 1° de l'article 2 ci-dessus.
 
 En ce qui concerne les maîtres de l'enseignement technique, les dispositions du présent article s'appliquent sur une durée de service calculée en tenant compte des services professionnels dans les mêmes conditions que pour les membres de l'enseignement public des catégories correspondantes.

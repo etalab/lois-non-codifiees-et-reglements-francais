@@ -56,6 +56,8 @@ Commission nationale du contentieux de la tarification sanitaire et sociale.
 
 (Loi n° 90-86 du 23 janvier 1990 [art. L. 20-1 du code de la famille et de l'aide sociale]. - Décret n° 90-359 du 11 avril 1990.)
 
+Commissions interrégionales de la tarification sanitaire et sociale (loi n° 90-86 du 23 janvier 1990 et décret n° 90-359 du 11 avril 1990 précité).
+
 Direction de la sécurité sociale
 
 Commission fixant les conditions d'inscription sur la liste d'aptitude aux emplois de direction et d'agent comptable des caisses relevant des organisations autonomes d'assurance vieillesse des travailleurs non salariés des professions artisanales, industrielles et commerciales et des caisses du régime d'assurance maladie et maternité des travailleurs salariés des professions non agricoles.
@@ -114,7 +116,9 @@ Comité national des registres.
 
 (Arrêté du 10 février 1986.)
 
-Commissions chargées de donner un avis au ministre sur les demandes d'autorisation d'exercice de la médecine, de la profession de chirurgien-dentiste et de sage-femme.
+Commissions chargées de donner un avis au ministre sur les
+
+demandes d'autorisation d'exercice de la médecine, de la profession de chirurgien-dentiste et de sage-femme.
 
 (Décret n° 73-642 du 5 juillet 1973. - Décret n° 82-1079 du 17 décembre 1982.)
 

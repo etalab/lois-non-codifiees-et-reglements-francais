@@ -1,0 +1,3 @@
+# Article 4
+
+Les applications Perceval, Droit de bail 2 et Majic 2 fournissent aux traitements l'ensemble des informations qu'elles gèrent. Le traitement Taxe d'habitation transmet la liste des occupants des locaux d'habitation et l'état d'occupation des locaux. L'ensemble des traitements de la fiscalité locale, de l'impôt sur le revenu, des bénéfices agricoles, de la taxe sur la valeur ajoutée et le fichier des exploitants géré par la mutualité sociale agricole fournissent les informations indispensables à la réalisation de simulations fiscales nécessaires à la constitution des rapports au Parlement prévus par la loi du 30 juillet 1990.
