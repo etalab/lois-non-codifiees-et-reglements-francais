@@ -1,11 +1,7 @@
 # Article 16
 
-Pour assurer la gestion et la conservation des ressources halieutiques, le ministre chargé des pêches maritimes peut, par arrêté, fixer des prélèvements totaux de captures autorisés par espèces ou groupes d'espèces.
+Le ministre chargé des pêches maritimes peut, par arrêté, fixer des quotas de capture par espèces ou groupes d'espèces dans les eaux intérieures et dans les eaux territoriales auxquelles n'ont pas accès les pêcheurs étrangers.
 
-Cette autorité peut répartir ces prélèvements en quotas établis concurremment ou simultanément pour une période donnée par zones géographiques, par types de pêche, par groupements de navires ou par navire.
+Lorsqu'en application de l'article 3 du décret du 9 janvier 1852 précité le ministre chargé des pêches maritimes procède à la fixation des quotas et à leur répartition en sous-quotas, il agit après consultation de l'organisation interprofessionnelle des pêches maritimes et des élevages marins et des organisations professionnelles concernées.
 
-Lorsque des quotas ont été établis par zones géographiques, par types de pêche ou par groupements de navires, l'autorité administrative prévue à l'article 5 peut les répartir par navires en tenant compte notamment :
-
-- des caractéristiques des navires participant à la pêche ;
-
-- des antériorités de pêche.
+Il procède à cette répartition en tenant compte des antériorités des producteurs, des orientations du marché et des équilibres socio-économiques.

@@ -2,13 +2,13 @@
 
 Sera puni de l'amende prévue pour les contraventions de la cinquième classe quiconque, en infraction aux dispositions du présent décret ou des textes pris pour son application :
 
-1. Aura pêché sans autorisation ou licence lorsque celle-ci est exigée ;
+1. (alinéa abrogé) ;
 
 2. N'aura pas tenu le journal de pêche lorsque celui-ci est obligatoire ou y aura porté des informations erronées ou incomplètes ;
 
 3. Ne se conformera pas aux obligations de marquage ou de tri des captures ;
 
-4. Procédera à des transformations physiques ou chimiques interdites des poissons pour la production de farine, d'huile ou de produits similaires ;
+4. Procédera, à bord du navire de pêche, à toute transformation physique ou chimique des poissons, à l'exception de leurs déchets, pour la production de farine, d'huile ou de produits similaires ;
 
 5. Procédera à toute opération interdite de mutilation, de préparation ou de transformation ;
 
