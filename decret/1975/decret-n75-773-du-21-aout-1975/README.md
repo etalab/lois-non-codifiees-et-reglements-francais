@@ -1,4 +1,4 @@
-# Décret n°68-399 du 29 avril 1968 FIXANT LES CONDITIONS D'APPLICATION DE L'ARTICLE L. 161 DU CODE DE LA SECURITE SOCIALE.
+# Décret n°75-773 du 21 août 1975 FIXANT LES MODALITES D'APPLICATION DES DISPOSITIONS DE LA LOI N° 74-1094 DU 24 DECEMBRE 1974 RELATIVES A LA COMPENSATION ENTRE REGIMES DE BASE DE SECURITE SOCIALE OBLIGATOIRES.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -7,6 +7,6 @@
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
+- [Article 7-1](article-7-1.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
-- [Annexes](annexes)
