@@ -305,6 +305,7 @@
 - [Arrêté du 15 février 1989 (TRSA8900138A)](arrete-du-15-fevrier-1989-trsa8900138a)
 - [Arrêté du 15 juin 1989 (INDD8900457A)](arrete-du-15-juin-1989-indd8900457a)
 - [Arrêté du 15 mars 1989 (BUDF8900003A)](arrete-du-15-mars-1989-budf8900003a)
+- [Arrêté du 15 novembre 1989 (ECOC8900100A)](arrete-du-15-novembre-1989-ecoc8900100a)
 - [Arrêté du 15 novembre 1989 (LOGC8900021A)](arrete-du-15-novembre-1989-logc8900021a)
 - [Arrêté du 15 novembre 1989 (LOGC8900022A)](arrete-du-15-novembre-1989-logc8900022a)
 - [Arrêté du 15 octobre 1989 (SPSP8902355A)](arrete-du-15-octobre-1989-spsp8902355a)
