@@ -27,6 +27,7 @@
 - [Décret n°83-194 du 6 août 1927](decret-n83-194-du-6-aout-1927)
 - [Décret n°83-15 du 7 janvier 1983](decret-n83-15-du-7-janvier-1983)
 - [Décret n°83-19 du 7 janvier 1983](decret-n83-19-du-7-janvier-1983)
+- [Décret n°83-458 du 7 juin 1983](decret-n83-458-du-7-juin-1983)
 - [Décret n°83-73 du 7 février 1983](decret-n83-73-du-7-fevrier-1983)
 - [Décret n°83-78 du 7 février 1983](decret-n83-78-du-7-fevrier-1983)
 - [Décret n°83-80 du 7 février 1983](decret-n83-80-du-7-fevrier-1983)
