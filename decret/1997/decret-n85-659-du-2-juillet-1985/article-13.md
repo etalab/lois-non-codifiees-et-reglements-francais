@@ -1,39 +1,43 @@
 # Article 13
 
-La direction générale de l'aviation civile :
+I. - La direction générale de l'aviation civile prépare et met en oeuvre les orientations stratégiques de l'Etat dans le domaine de l'aviation civile.
 
-Assure la sécurité et la régularité de la navigation aérienne ;
+Elle élabore et met en oeuvre les politiques et les réglementations en matière de sécurité et de sûreté de l'aviation civile, d'environnement, de gestion de l'espace aérien et définit les conditions générales du contrôle et de l'évaluation de ces politiques.
 
-Elabore les programmes de recherche, d'étude et de construction relatifs aux aéronefs civils et aux systèmes de navigation aérienne et en suit l'exécution ;
+Elle veille au respect des dispositions législatives et réglementaires applicables au domaine de l'aviation civile en matière de sécurité, de sûreté et d'environnement en organisant la surveillance des opérateurs de l'aviation civile, la délivrance des agréments, certificats et autres autorisations administratives et le contrôle des compétences techniques des personnels.
 
-Est responsable de la création, de l'aménagement et de l'entretien de l'infrastructure aéronautique et administre le domaine aéronautique en fonction des besoins civils et militaires ;
+Elle élabore la réglementation relative au transport aérien, aux aéroports et aux utilisateurs du transport aérien et assure la régulation économique du secteur.
 
-Contrôle la gestion et le fonctionnement des équipements économiques et commerciaux des aéroports ;
+Elle définit la réglementation du travail et de la protection sociale dans le secteur de l'aviation civile.
 
-Elabore les programmes de développement de l'aviation civile, contrôle et coordonne du point de vue administratif, économique et commercial l'exploitation et l'équipement des activités aéronautiques ;
+Elle met en oeuvre la politique française de soutien à la construction aéronautique civile, de coopération et d'assistance technique aux pays étrangers et de promotion à l'exportation des équipements, matériels et réalisations de l'aviation civile.
 
-Est chargée de l'ensemble des questions relatives à la formation aéronautique, de l'établissement et de l'application de la réglementation relative au personnel navigant, de l'établissement et de l'application de la réglementation technique relative à la construction, à l'entretien et à l'exploitation des aéronefs civils ;
+Elle prépare et conduit les actions européennes et internationales dans les domaines mentionnés à l'alinéa précédent.
 
-Définit et met en oeuvre la politique sociale dans le domaine de l'aviation civile ;
+Elle assure, pour la circulation aérienne générale, les services de navigation aérienne et participe à la coordination des activités de recherche et de sauvetage.
 
-Prépare et conduit les actions internationales dans les domaines ci-dessus ;
+Elle est chargée de l'ensemble des questions relatives à la formation aéronautique.
 
-Assure la gestion des moyens en matériel et en personnel des services centraux et extérieurs qui lui sont propres, à l'exception de ceux gérés par la direction du personnel, des services et de la modernisation ;
+Elle élabore et met en oeuvre la politique du personnel qui lui est propre ; elle assure la gestion de ses personnels, à l'exception de ceux dont la gestion est assurée par la direction du personnel, des services et de la modernisation.
 
-Assure la gestion des personnels relevant des statuts communs à la direction générale de l'aviation civile et à l'établissement public Météo-France.
+Elle est chargée de l'organisation des services de l'administration centrale, des services à compétence nationale et des services déconcentrés de l'aviation civile ; elle assure la gestion de leurs moyens de fonctionnement.
 
-Elle comprend :
+Elle prépare et exécute le budget et assure le contrôle de gestion.
 
-La direction de la navigation aérienne ;
+Elle gère les personnels relevant des statuts communs à la direction générale de l'aviation civile et à l'établissement public Météo-France.
 
-La direction des programmes aéronautiques civils ;
+II. - La direction générale de l'aviation civile comprend :
 
-La direction des transports aériens;
+- la direction des affaires stratégiques et techniques ;
 
-Le service des bases aériennes ;
+- la direction de la régulation économique ;
 
-Le service de la formation aéronautique et du contrôle technique.
+- la direction des programmes aéronautiques et de la coopération ;
 
-Le service des ressources humaines ;
+- la direction du contrôle de la sécurité ;
 
-Le service des affaires financières.
+- le secrétariat général, dirigé par un directeur.
+
+En outre, la direction des services de la navigation aérienne, service à compétence nationale, lui est directement rattachée.
+
+III. - La direction du contrôle de la sécurité est l'autorité de surveillance nationale prévue à l'article 4 du règlement n° 549/2004 susvisé.
