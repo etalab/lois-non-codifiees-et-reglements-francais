@@ -1,3 +1,0 @@
-# Article 3 bis
-
-Dans la limite de 80 000 F., et sur justificatifs des dépenses engagées, un dépassement des montants maxima fixés à l'article 2 de l'arrêté du 14 février 1979 modifié est autorisé, pour les organismes collecteurs mentionnés à l'article R. 313-9 (2°, a) au profit des actions de formation des administrateurs desdits organismes. Ne peuvent donner lieu à un tel dépassement que les actions de formation effectuées par l'union nationale interprofessionnelle du logement et par les organisations représentatives des syndicats de salariés de l'employeurs. Les programmes de formation font l'objet d'une information du Comité national de la participation des employeurs à l'effort de construction.

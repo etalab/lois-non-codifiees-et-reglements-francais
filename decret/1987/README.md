@@ -133,7 +133,6 @@
 - [Décret n°87-753 du 9 septembre 1987 (MCCB8700210D)](decret-n87-753-du-9-septembre-1987-mccb8700210d)
 - [Décret n°87-757 du 9 septembre 1987 (MAEJ8730042D)](decret-n87-757-du-9-septembre-1987-maej8730042d)
 - [Décret n°87-758 du 9 septembre 1987 (MAEJ8730045D)](decret-n87-758-du-9-septembre-1987-maej8730045d)
-- [Décret n°87-759 du 9 septembre 1987 (DOME8700017D)](decret-n87-759-du-9-septembre-1987-dome8700017d)
 - [Décret n°87-826 du 9 octobre 1987 (MCCX8798498D)](decret-n87-826-du-9-octobre-1987-mccx8798498d)
 - [Décret n°87-85 du 9 février 1987 (AGRS8700247D)](decret-n87-85-du-9-fevrier-1987-agrs8700247d)
 - [Décret n°87-900 du 9 novembre 1987 (ECOT8740027D)](decret-n87-900-du-9-novembre-1987-ecot8740027d)
