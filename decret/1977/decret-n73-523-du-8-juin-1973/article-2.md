@@ -6,7 +6,7 @@ Ceux-ci s'obtiennent par l'addition des deux éléments définis ci-après :
 
 A - Un taux de risque corrigé par un coefficient.
 
-Le taux de risque est déterminé par le rapport de la valeur du risque propre à la catégorie de risques, à l'exclusion du risque relatif aux accidents du trajet, et de la masse salariale versée au personnel de cette catégorie au cours des trois dernières années connues, ces salaires n'étant retenus que dans la limite du plafond mentionné à l'article 4 du présent décret.
+Le taux de risque est déterminé par le rapport de la valeur d u risque propre à la catégorie de risques, à l'exclusion du risque relatif aux accidents de trajet, et de la masse salariale versée au personnel de cette catégorie au cours des trois dernières années connues, majoré d'un taux de risque trajet. Ce taux de risque trajet est déterminé par le rapport de la valeur du risque trajet de l'ensemble des catégories de risque et de la masse salariale totale versée au personnel de l'ensemble de ces catégories au cours des trois dernières années connues.
 
 La valeur du risque calculée pour la période triennale de référence comprend :
 
