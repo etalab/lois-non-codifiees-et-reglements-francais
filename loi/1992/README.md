@@ -67,6 +67,7 @@
 - [Loi n° 92-642 du 12 juillet 1992 (SPSX9200019L)](loi-n-92-642-du-12-juillet-1992-spsx9200019l)
 - [Loi n° 92-643 du 13 juillet 1992 (SPSX9100064L)](loi-n-92-643-du-13-juillet-1992-spsx9100064l)
 - [Loi n° 92-652 du 13 juillet 1992 (MJSX9200055L)](loi-n-92-652-du-13-juillet-1992-mjsx9200055l)
+- [Loi n° 92-653 du 13 juillet 1992 (MENX9200054L)](loi-n-92-653-du-13-juillet-1992-menx9200054l)
 - [Loi n° 92-655 du 15 juillet 1992 (BUDX9200052L)](loi-n-92-655-du-15-juillet-1992-budx9200052l)
 - [Loi n° 92-665 du 16 juillet 1992 (ECOX9100182L)](loi-n-92-665-du-16-juillet-1992-ecox9100182l)
 - [Loi n° 92-666 du 16 juillet 1992 (ECOX9200083L)](loi-n-92-666-du-16-juillet-1992-ecox9200083l)
