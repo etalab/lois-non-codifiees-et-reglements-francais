@@ -8,7 +8,7 @@ La délivrance de l'homologation est subordonnée :
 
 - au respect de toute prescription particulière rendue nécessaire par la configuration de l'enceinte, son environnement ou l'usage auquel elle est destinée.
 
-L'arrêté d'homologation fixe l'effectif maximal des spectateurs qui peuvent être admis simultanément dans l'enceinte ainsi que la nature et la répartition des places offertes. Seules des places assises peuvent être prévues dans les tribunes.
+L'arrêté d'homologation fixe l'effectif maximal des spectateurs qui peuvent être admis simultanément dans l'enceinte ainsi que la nature et la répartition des places offertes. Seules des places assises peuvent être prévues dans les tribunes, à l'exception de celles situées dans les enceintes affectées aux circuits de vitesse accueillant des compétitions de véhicules terrestres à moteur ou de bateaux à moteur, sous réserve que leur utilisation soit conforme à leur destination et sur avis conforme des commissions spécialisées compétentes. Chaque tribune ne peut accueillir simultanément un nombre de spectateurs supérieur au nombre de places dont elle dispose.
 
 Il fixe également, en fonction de cet effectif et de la configuration de l'enceinte, les conditions d'aménagement d'installations provisoires destinées à l'accueil du public.
 
@@ -24,6 +24,6 @@ Le retrait de l'homologation vaut retrait de l'autorisation d'ouverture au publi
 
 Les établissements sportifs de plein air dont la capacité d'accueil n'excède pas 3 000 spectateurs et les établissements sportifs couverts dont la capacité d'accueil n'excède pas 500 spectateurs ne sont pas soumis à homologation.
 
-A l'expiration d'un délai de trois ans à compter de la date de publication de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité, les enceintes sportives ouvertes au public à la date de publication de la loi n° 92-652 du 13 juillet 1992 et les enceintes ouvertes entre cette date et le 31 décembre 1995 doivent être homologuées. Pendant ce délai, sous peine du retrait de l'autorisation d'ouverture au public dans les conditions prévues au onzième alinéa du présent article, ces enceintes doivent être déclarées au représentant de l'Etat et celui-ci peut imposer au propriétaire, à l'exploitant ou à l'organisateur d'une manifestation sportive publique dans l'enceinte toutes prescriptions particulières en vue de remplir, à l'expiration de ce délai, les conditions nécessaires à leur homologation.
+A compter du 1er juillet 2000, les enceintes sportives ouvertes au public à la date de publication de la loi n° 92-652 du 13 juillet 1992 et les enceintes ouvertes entre cette date et le 31 décembre 1995 doivent être homologuées. Pendant ce délai, sous peine du retrait de l'autorisation d'ouverture au public dans les conditions prévues au onzième alinéa du présent article, ces enceintes doivent être déclarées au représentant de l'Etat et celui-ci peut imposer au propriétaire, à l'exploitant ou à l'organisateur d'une manifestation sportive publique dans l'enceinte toutes prescriptions particulières en vue de remplir, à l'expiration de ce délai, les conditions nécessaires à leur homologation.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
