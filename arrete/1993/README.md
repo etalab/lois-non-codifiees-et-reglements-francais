@@ -855,7 +855,6 @@
 - [Arrêté du 23 avril 1993 (AGRU9300699A)](arrete-du-23-avril-1993-agru9300699a)
 - [Arrêté du 23 avril 1993 (BUDD9340006A)](arrete-du-23-avril-1993-budd9340006a)
 - [Arrêté du 23 avril 1993 (BUDR9305012A)](arrete-du-23-avril-1993-budr9305012a)
-- [Arrêté du 23 décembre 1992 (ECOS9270001A)](arrete-du-23-decembre-1992-ecos9270001a)
 - [Arrêté du 23 décembre 1992 (ENVE9250473A)](arrete-du-23-decembre-1992-enve9250473a)
 - [Arrêté du 23 décembre 1992 (JUSC9220847A)](arrete-du-23-decembre-1992-jusc9220847a)
 - [Arrêté du 23 décembre 1992 (MAEA9220567A)](arrete-du-23-decembre-1992-maea9220567a)
