@@ -596,6 +596,7 @@
 - [Décret n°2003-470 du 26 mai 2003 (MAEJ0330031D)](decret-n2003-470-du-26-mai-2003-maej0330031d)
 - [Décret n°2003-1024 du 27 octobre 2003 (FPPA0310018D)](decret-n2003-1024-du-27-octobre-2003-fppa0310018d)
 - [Décret n°2003-1154 du 27 novembre 2003 (AGRA0302075D)](decret-n2003-1154-du-27-novembre-2003-agra0302075d)
+- [Décret n°2003-156 du 27 février 2003 (INTA0300039D)](decret-n2003-156-du-27-fevrier-2003-inta0300039d)
 - [Décret n°2003-564 du 27 juin 2003 (SOCX0300089D)](decret-n2003-564-du-27-juin-2003-socx0300089d)
 - [Décret n°2003-565 du 27 juin 2003 (SOCF0310781D)](decret-n2003-565-du-27-juin-2003-socf0310781d)
 - [Décret n°2003-566 du 27 juin 2003 (DEFX0300088D)](decret-n2003-566-du-27-juin-2003-defx0300088d)
