@@ -1,9 +1,7 @@
 # Article 1
 
-Les taux de la taxe parafiscale sur la pollution atmosphérique sont fixés comme suit :
+Le Crédit d'équipement des petites et moyennes entreprises est autorisé à émettre un emprunt obligataire d'un montant nominal de un milliard de francs maximum en deux tranches :
 
-Oxydes de soufre (ou autres composés oxygénés du soufre, exprimés en équivalent dioxyde de soufre) : 130 F par tonne émise.
+- la première, à taux variable, de 500 millions de francs avec bons de souscription ;
 
-Autres composés soufrés : taux nul.
-
-Oxydes d'azote et autres composés oxygénés de l'azote : taux nul.
+- la seconde, à taux fixe, de 500 millions de francs au maximum.

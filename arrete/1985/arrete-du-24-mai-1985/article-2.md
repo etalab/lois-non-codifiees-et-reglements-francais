@@ -1,5 +1,3 @@
 # Article 2
 
-Les obligations seront émises en coupures de 2.000 F de valeur nominale, au prix de l'émission de 1.992 F, sous la forme au porteur ou sous la forme nominative au choix des souscripteurs.
-
-Elles seront émises jouissance du 28 mai 1985.
+Le directeur général des collectivités locales est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

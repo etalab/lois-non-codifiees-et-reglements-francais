@@ -1,6 +1,6 @@
 # Article 9
 
-Les demandes de primes doivent comporter les renseignements suivants [*mentions obligatoires*] :
+Les demandes de primes doivent comporter les renseignements suivants :
 
 Etat civil du demandeur de la prime et, éventuellement, lien de parenté avec l'occupant ;
 

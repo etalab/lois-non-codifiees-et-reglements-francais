@@ -1,4 +1,4 @@
-# Arrêté du 23 mai 1985 relatif aux tarifs des cotisations d'accidents du travail pour les industries du caoutchouc, papier et carton.
+# Arrêté du 23 mai 1985 fixant les modalités d'exercice du droit à congé de formation des praticiens hospitaliers
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

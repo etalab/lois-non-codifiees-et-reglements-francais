@@ -1,3 +1,3 @@
 # Article 5
 
-Pour les travaux visés à l'article R. 322-2 bis du code de la construction et de l'habitation, le représentant de l'Etat dans le département peut porter le taux de la prime au plus à 50 % du coût des travaux, toutes taxes comprises. Ce taux peut être majoré de 10 % du coût des travaux toutes taxes comprises en cas de subvention complémentaire d'une collectivité locale d'un taux au moins égal à cette majoration.
+Dans tous les cas, la limite de 12.000 F par logement peut être portée à 15.000 F pour les travaux exécutés dans des logements inclus dans des programmes d'intérêt général d'amélioration de l'habitation approuvés par le préfet [*majoration*].

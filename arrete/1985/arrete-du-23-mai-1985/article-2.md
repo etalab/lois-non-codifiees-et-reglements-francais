@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur de la sécurité sociale est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française et s'appliquera aux rémunérations versées au cours de l'année 1985.
+Peuvent faire l'objet d'un financement total ou partiel les frais d'inscription, de séjour et de transport exposés par les praticiens à l'occasion de leur participation à une formation post-universitaire, à un stage ou à des réunions scientifiques ou journées d'études.

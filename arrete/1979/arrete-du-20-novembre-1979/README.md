@@ -1,4 +1,4 @@
-# Arrêté du 20 novembre 1979 relatif aux travaux d'amélioration des logements à usage locatif et à occupation sociale pouvant donner lieu à l'attribution d'une subvention
+# Arrêté du 20 novembre 1979 relatif aux conditions d'attribution des primes à l'amélioration de l'habitat pour réaliser des travaux de mise aux normes, d'amélioration du confort et d'adaptation des logements aux besoins des handicapés physiques et des travailleurs manuels appelés à travailler la nuit.
 
 - [Article 1](article-1.md)
 - [TITRE 1 : CONDITIONS DE RESSOURCES.](titre-1)
@@ -18,4 +18,3 @@
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
-- [Annexes](annexes)

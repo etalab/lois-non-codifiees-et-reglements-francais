@@ -10,4 +10,4 @@ Ranidés :
 
 Grenouille verte (Rana esculenta) ;
 
-Grenouille rousse (Rana temporaria).
+Grenouille rousse (Rana temporaria) sous les réserves de l'article 2 ter ci-après.
