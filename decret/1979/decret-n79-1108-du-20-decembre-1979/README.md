@@ -5,3 +5,4 @@
 - [Titre II : De l'octroi des autorisations d'exploiter les carrières, de leur renouvellement, de leur retrait, de la renonciation à celles-ci](titre-ii)
 - [Titre III : Des dispositions particulières aux carrières se trouvant sur le domaine public de l'Etat.](titre-iii)
 - [Titre IV : Dispositions transitoires et diverses.](titre-iv)
+- [Article 51](article-51.md)
