@@ -404,6 +404,7 @@
 - [Arrêté du 9 mars 1995 (JUSE9540015A)](arrete-du-9-mars-1995-juse9540015a)
 - [Arrêté du 9 mars 1995 (MAEA9520092A)](arrete-du-9-mars-1995-maea9520092a)
 - [Arrêté du 9 mars 1995 (SPSG9500755A)](arrete-du-9-mars-1995-spsg9500755a)
+- [Arrêté du 9 novembre 1995 (DEFD9502119A)](arrete-du-9-novembre-1995-defd9502119a)
 - [Arrêté du 9 octobre 1995 (ACVP9520016A)](arrete-du-9-octobre-1995-acvp9520016a)
 - [Arrêté du 9 octobre 1995 (AGRS9502078A)](arrete-du-9-octobre-1995-agrs9502078a)
 - [Arrêté du 9 octobre 1995 (MENL9502219A)](arrete-du-9-octobre-1995-menl9502219a)
