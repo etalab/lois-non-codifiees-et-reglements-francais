@@ -1,5 +1,6 @@
 # 1987
 
+- [Arrêté du 2 janvier 1987](arrete-du-2-janvier-1987)
 - [Arrêté du 5 janvier 1987](arrete-du-5-janvier-1987)
 - [Arrêté du 6 janvier 1987](arrete-du-6-janvier-1987)
 - [Arrêté du 6 octobre 1986 (DEFC8701012A)](arrete-du-6-octobre-1986-defc8701012a)
