@@ -3,246 +3,306 @@
 La durée maximale et la durée minimale du temps passé dans chacun des échelons des différents grades sont fixées ainsi qu'il suit :
 
 <table>
+<tbody>
 <tr>
-<td> :-----------------------------:</td>
+<td align="left" valign="middle"/>
+<td align="left" colspan="2" valign="middle">
+<p align="center">
+<strong>DUREES</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td> :   GRADES   :      DUREES    :</td>
+<td align="left" valign="middle">
+<p align="center">GRADES ET ECHELONS</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Maximale</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Minimale</p>
+</td>
 </tr>
 <tr>
-<td> :     ET     :----------------:</td>
+<td align="left" valign="middle">
+<p align="center">
+<i>Sage-femme de classe exceptionnelle</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
 </tr>
 <tr>
-<td> :  ECHELONS  :  Max. :  Min.  :</td>
+<td align="left" valign="middle">
+<p align="left">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
 </tr>
 <tr>
-<td> :-----------------------------:</td>
+<td align="left" valign="middle">
+<p align="left">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 ans 4 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 ans</p>
+</td>
 </tr>
 <tr>
-<td> : Sage-femme territoriale     :</td>
+<td align="left" valign="middle">
+<p align="left">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 ans 4 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 ans</p>
+</td>
 </tr>
 <tr>
-<td> :  hors-classe                :</td>
+<td align="left" valign="middle">
+<p align="left">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 ans 4 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 ans</p>
+</td>
 </tr>
 <tr>
-<td> :-----------------------------:</td>
+<td align="left" valign="middle">
+<p align="left">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 3 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> : Echelon    :       :        :</td>
+<td align="left" valign="middle">
+<p align="left">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 3 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> : exception. :   -   :   -    :</td>
+<td align="left" valign="middle">
+<p align="left">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 3 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
+<td align="left" valign="middle">
+<p align="center">
+<i>Sage-femme de classe supérieure</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
 </tr>
 <tr>
-<td> : 6e échelon : 2 ans : 2 ans  :</td>
+<td align="left" valign="middle">
+<p align="left">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
+<td align="left" valign="middle">
+<p align="left">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 3 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> : 5e échelon : 3 ans : 3 ans  :</td>
+<td align="left" valign="middle">
+<p align="left">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 3 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> :            : 3 mois:        :</td>
+<td align="left" valign="middle">
+<p align="left">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 3 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
+<td align="left" valign="middle">
+<p align="left">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 3 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> : 4e échelon : 3 ans : 3 ans  :</td>
+<td align="left" valign="middle">
+<p align="left">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 3 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> :            : 3 mois:        :</td>
+<td align="left" valign="middle">
+<p align="left">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 3 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
+<td align="left" valign="middle">
+<p align="center">
+<i>Sage-femme de classe normale </i>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
 </tr>
 <tr>
-<td> : 3e échelon : 3 ans : 3 ans  :</td>
+<td align="left" valign="middle">
+<p align="left">8e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
 </tr>
 <tr>
-<td> :            : 3 mois:        :</td>
+<td align="left" valign="middle">
+<p align="left">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 ans 4 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 ans</p>
+</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
+<td align="left" valign="middle">
+<p align="left">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 ans 4 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 ans</p>
+</td>
 </tr>
 <tr>
-<td> : 2e échelon : 3 ans : 3 ans  :</td>
+<td align="left" valign="middle">
+<p align="left">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 ans 4 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 ans</p>
+</td>
 </tr>
 <tr>
-<td> :            : 3 mois:        :</td>
+<td align="left" valign="middle">
+<p align="left">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 3 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
+<td align="left" valign="middle">
+<p align="left">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 2 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
 </tr>
 <tr>
-<td> :1er échelon : 2 ans : 2 ans  :</td>
+<td align="left" valign="middle">
+<p align="left">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 2 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
 </tr>
 <tr>
-<td> :            : 2 mois:        :</td>
+<td align="left" valign="middle">
+<p align="left">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an</p>
+</td>
 </tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
-<tr>
-<td> : Sage-femme territoriale     :</td>
-</tr>
-<tr>
-<td> :  de 1re classe              :</td>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
-<tr>
-<td> : 6e échelon :   -   :   -    :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 5e échelon : 4 ans : 4 ans  :</td>
-</tr>
-<tr>
-<td> :            : 4 mois:        :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 4e échelon : 3 ans : 3 ans  :</td>
-</tr>
-<tr>
-<td> :            : 3 mois:        :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 3e échelon : 3 ans : 3 ans  :</td>
-</tr>
-<tr>
-<td> :            : 3 mois:        :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 2e échelon : 3 ans : 3 ans  :</td>
-</tr>
-<tr>
-<td> :            : 3 mois:        :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> :1er échelon : 2 ans : 2 ans  :</td>
-</tr>
-<tr>
-<td> :            : 2 mois:        :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
+</tbody>
 </table>
-
-<table>
-<tr>
-<td>: Sage-femme territoriale     :</td>
-</tr>
-<tr>
-<td> :  de 2e classe               :</td>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
-<tr>
-<td> : 9e échelon :   -   :   -    :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 8e échelon : 4 ans : 4 ans  :</td>
-</tr>
-<tr>
-<td> :            : 4 mois:        :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 7e échelon : 3 ans : 3 ans  :</td>
-</tr>
-<tr>
-<td> :            : 3 mois:        :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 6e échelon : 3 ans : 3 ans  :</td>
-</tr>
-<tr>
-<td> :            : 3 mois:        :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 5e échelon : 3 ans : 3 ans  :</td>
-</tr>
-<tr>
-<td> :            : 3 mois:        :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 4e échelon : 2 ans : 2 ans  :</td>
-</tr>
-<tr>
-<td> :            : 2 mois:        :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 3e échelon : 2 ans : 2 ans  :</td>
-</tr>
-<tr>
-<td> :            : 2 mois:        :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 2e échelon : 2 ans : 2 ans  :</td>
-</tr>
-<tr>
-<td> :            : 2 mois:        :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> :1er échelon : 2 ans : 2 ans  :</td>
-</tr>
-<tr>
-<td> :            : 2 mois:        :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
-</table>
-
-Peuvent accéder à l'échelon exceptionnel les sages-femmes territoriales hors classe comptant au moins deux années d'ancienneté dans le 6e échelon de leur grade et assurant des fonctions de coordonnatrices de l'activité de sages-femmes territoriales hors classe.

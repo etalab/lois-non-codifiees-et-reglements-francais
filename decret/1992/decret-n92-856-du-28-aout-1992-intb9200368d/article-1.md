@@ -2,127 +2,225 @@
 
 L'échelonnement indiciaire applicable au cadre d'emplois des sages-femmes territoriales est fixé ainsi qu'il suit :
 
-Sage-femme hors classe
-
 <table>
+<tbody>
 <tr>
-<td> :-----------------------------:</td>
+<td align="left" valign="middle">
+<p align="center">
+<strong>ECHELONS</strong>
+</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">
+<strong>INDICES BRUTS</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td> :    ECHELONS       : INDICES :</td>
+<td align="left" valign="middle">
+<p align="center">
+<i>Sage-femme de classe exceptionnelle</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
 </tr>
 <tr>
-<td> :                   :  BRUTS  :</td>
+<td align="left" valign="middle">
+<p align="justify">7e échelon </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">850</p>
+</td>
 </tr>
 <tr>
-<td> :-----------------------------:</td>
+<td align="left" valign="middle">
+<p align="justify">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">820</p>
+</td>
 </tr>
 <tr>
-<td> :  Echelon          :   720   :</td>
+<td align="left" valign="middle">
+<p align="justify">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">775</p>
+</td>
 </tr>
 <tr>
-<td> :  exceptionnel     :         :</td>
+<td align="left" valign="middle">
+<p align="justify">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">725</p>
+</td>
 </tr>
 <tr>
-<td> :  6e échelon       :   701   :</td>
+<td align="left" valign="middle">
+<p align="justify">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">685</p>
+</td>
 </tr>
 <tr>
-<td> :  5e échelon       :   640   :</td>
+<td align="left" valign="middle">
+<p align="justify">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">643</p>
+</td>
 </tr>
 <tr>
-<td> :  4e échelon       :   606   :</td>
+<td align="left" valign="middle">
+<p align="justify">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">601</p>
+</td>
 </tr>
 <tr>
-<td> :  3e échelon       :   574   :</td>
+<td align="left" valign="middle">
+<p align="center">
+<i>Sage-femme de classe supérieure</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
 </tr>
 <tr>
-<td> :  2e échelon       :   544   :</td>
+<td align="left" valign="middle">
+<p align="left">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">760</p>
+</td>
 </tr>
 <tr>
-<td> : 1er échelon       :   514   :</td>
+<td align="left" valign="middle">
+<p align="left">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">715</p>
+</td>
 </tr>
 <tr>
-<td> :-----------------------------:</td>
+<td align="left" valign="middle">
+<p align="left">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">665</p>
+</td>
 </tr>
 <tr>
-<td>   Sage-femme de 1re classe     </td>
+<td align="left" valign="middle">
+<p align="left">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">615</p>
+</td>
 </tr>
 <tr>
-<td> :-----------------------------:</td>
+<td align="left" valign="middle">
+<p align="left">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">580</p>
+</td>
 </tr>
 <tr>
-<td> :    ECHELONS       : INDICES :</td>
+<td align="left" valign="middle">
+<p align="left">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">555</p>
+</td>
 </tr>
 <tr>
-<td> :                   :  BRUTS  :</td>
+<td align="left" valign="middle">
+<p align="left">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">515</p>
+</td>
 </tr>
 <tr>
-<td> :-----------------------------:</td>
+<td align="left" valign="middle">
+<p align="center">
+<i>Sage-femme de classe normale</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
 </tr>
 <tr>
-<td> :  6e échelon       :   660   :</td>
+<td align="left" valign="middle">
+<p align="left">8e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">710</p>
+</td>
 </tr>
 <tr>
-<td> :  5e échelon       :   610   :</td>
+<td align="left" valign="middle">
+<p align="left">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">650</p>
+</td>
 </tr>
 <tr>
-<td> :  4e échelon       :   577   :</td>
+<td align="left" valign="middle">
+<p align="left">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">570</p>
+</td>
 </tr>
 <tr>
-<td> :  3e échelon       :   546   :</td>
+<td align="left" valign="middle">
+<p align="left">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">540</p>
+</td>
 </tr>
 <tr>
-<td> :  2e échelon       :   516   :</td>
+<td align="left" valign="middle">
+<p align="left">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">480</p>
+</td>
 </tr>
 <tr>
-<td> : 1er échelon       :   490   :</td>
+<td align="left" valign="middle">
+<p align="left">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">450</p>
+</td>
 </tr>
 <tr>
-<td> :-----------------------------:</td>
+<td align="left" valign="middle">
+<p align="left">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">420</p>
+</td>
 </tr>
 <tr>
-<td>   Sage-femme de 2e classe     </td>
+<td align="left" valign="middle">
+<p align="left">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">379</p>
+</td>
 </tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
-<tr>
-<td> :    ECHELONS       : INDICES :</td>
-</tr>
-<tr>
-<td> :                   :  BRUTS  :</td>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
-<tr>
-<td> :  9e échelon       :   625   :</td>
-</tr>
-<tr>
-<td> :  8e échelon       :   571   :</td>
-</tr>
-<tr>
-<td> :  7e échelon       :   535   :</td>
-</tr>
-<tr>
-<td> :  6e échelon       :   503   :</td>
-</tr>
-<tr>
-<td> :  5e échelon       :   473   :</td>
-</tr>
-<tr>
-<td> :  4e échelon       :   434   :</td>
-</tr>
-<tr>
-<td> :  3e échelon       :   412   :</td>
-</tr>
-<tr>
-<td> :  2e échelon       :   384   :</td>
-</tr>
-<tr>
-<td> : 1er échelon       :   364   :</td>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
+</tbody>
 </table>
