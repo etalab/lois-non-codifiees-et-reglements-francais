@@ -1,13 +1,13 @@
 # Article 8
 
-La permanence et la coordination des travaux du conseil national sont assurées par un bureau qui comprend :
+La permanence et la coordination des travaux du conseil national sont assurés par un bureau qui comprend :
 
-Le délégué au développement et aux formations, représentant le ministre chargé de la culture ;
+a) Le directeur de la musique, de la danse, du théâtre et des spectacles au ministère chargé de la culture, ou son représentant ;
 
-Le directeur des relations du travail représentant le ministre chargé du travail et de l'emploi ;
+b) Le directeur des relations du travail au ministère chargé du travail et de l'emploi, ou son représentant ;
 
-Le directeur de la sécurité sociale représentant le ministre chargé de la sécurité sociale ;
+c) Le directeur de la sécurité sociale au ministère chargé de la sécurité sociale, ou son représentant ;
 
-Deux représentants des organisations syndicales d'employeurs désignés au sein du conseil par celles-ci ;
+d) Trois représentants des organisations syndicales d'employeurs désignés au sein du conseil par celles-ci ;
 
-Deux représentants des organisations syndicales de salariés désignés au sein du conseil par celles-ci.
+e) Trois représentants des organisations syndicales de salariés désignés au sein du conseil par celles-ci.

@@ -4,7 +4,7 @@ Le Conseil national des professions du spectacle est présidé par le ministre c
 
 Il comprend :
 
-1° Des représentants des ministres chargés de la culture, de l'intérieur, du budget, du travail et de l'emploi, de la sécurité sociale, de la jeunesse et des sports, de la communication ;
+1° Des représentants des ministres chargés de la culture, de l'intérieur, du travail et de l'emploi, de la sécurité sociale, de la jeunesse et des sports, de la communication ;
 
 2° Des représentants des organisations syndicales de salariés et employeurs ;
 
