@@ -100,52 +100,43 @@ L'échelonnement indiciaire applicable au cadre d'emplois des attachés territor
 <td> :                    :  bruts  :</td>
 </tr>
 <tr>
-<td> :   1re classe :     :---------:</td>
+<td> :------------------- :---------:</td>
 </tr>
 <tr>
-<td> : 5e échelon         :   780   :</td>
+<td> : 12e échelon        :   780   :</td>
 </tr>
 <tr>
-<td> : 4e échelon         :   741   :</td>
+<td> : 11e échelon        :   759   :</td>
 </tr>
 <tr>
-<td> : 3e échelon         :   701   :</td>
+<td> : 10e échelon        :   703   :</td>
 </tr>
 <tr>
-<td> : 2e échelon         :   652   :</td>
+<td> :  9e échelon        :   653   :</td>
 </tr>
 <tr>
-<td> : 1er échelon        :   597   :</td>
+<td> :  8e échelon        :   625   :</td>
 </tr>
 <tr>
-<td> :   2e classe :      :         :</td>
+<td> :  7e échelon        :   588   :</td>
 </tr>
 <tr>
-<td> : 9e échelon         :   579   :</td>
+<td> :  6e échelon        :   542   :</td>
 </tr>
 <tr>
-<td> : 8e échelon         :   546   :</td>
+<td> :  5e échelon        :   500   :</td>
 </tr>
 <tr>
-<td> : 7e échelon         :   508   :</td>
+<td> :  4e échelon        :   466   :</td>
 </tr>
 <tr>
-<td> : 6e échelon         :   476   :</td>
+<td> :  3e échelon        :   442   :</td>
 </tr>
 <tr>
-<td> : 5e échelon         :   446   :</td>
+<td> :  2e échelon        :   423   :</td>
 </tr>
 <tr>
-<td> : 4e échelon         :   431   :</td>
-</tr>
-<tr>
-<td> : 3e échelon         :   410   :</td>
-</tr>
-<tr>
-<td> : 2e échelon         :   379   :</td>
-</tr>
-<tr>
-<td> : 1er échelon        :   340   :</td>
+<td> :  1er échelon       :   379   :</td>
 </tr>
 <tr>
 <td> :------------------------------:</td>
