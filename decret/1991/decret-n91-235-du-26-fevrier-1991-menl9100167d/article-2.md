@@ -1,3 +1,3 @@
 # Article 2
 
-La durée du mandat des conseillers en exercice à la date d'effet du présent décret est prorogée jusqu'au 31 décembre 1991 [*date de la prorogation*].
+Les conseillers en exercice au 31 décembre 1990 sont habilités à assurer leurs fonctions de la date d'effet du présent décret au 31 décembre 1991.
