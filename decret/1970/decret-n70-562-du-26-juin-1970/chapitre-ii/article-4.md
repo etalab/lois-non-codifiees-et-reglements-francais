@@ -1,3 +1,3 @@
 # Article 4
 
-Dans le cas de métayage ou de colonat partiaire, le montant de la cotisation est réparti à raison de deux tiers pour le preneur et d'un tiers pour le bailleur ; chacun d'eux est tenu au paiement de la fraction mise à sa charge.
+Dans le cas de métayage ou de colonat partiaire, le montant des cotisations prévues aux articles 1142-15 et 1142-17 du code rural est réparti à raison des trois quarts pour le preneur et d'un quart pour le bailleur ; toutefois, lorsque le preneur et le bailleur en font la demande, la répartition est faite selon la proportion retenue pour le partage des fruits. Le preneur et le bailleur sont tenus au paiement de la fraction mise à la charge de chacun.
