@@ -142,7 +142,6 @@
 - [Arrêté du 5 mars 1990 (PTTT9000227A)](arrete-du-5-mars-1990-pttt9000227a)
 - [Arrêté du 5 mars 1990 (SPSP9000722A)](arrete-du-5-mars-1990-spsp9000722a)
 - [Arrêté du 5 mars 1990 (SPSS9000542A)](arrete-du-5-mars-1990-spss9000542a)
-- [Arrêté du 5 mars 1990 (TEFT9003258A)](arrete-du-5-mars-1990-teft9003258a)
 - [Arrêté du 5 novembre 1989 (SPSS9000023A)](arrete-du-5-novembre-1989-spss9000023a)
 - [Arrêté du 5 novembre 1990 (ECOA9000100A)](arrete-du-5-novembre-1990-ecoa9000100a)
 - [Arrêté du 5 novembre 1990 (JUSG9060090A)](arrete-du-5-novembre-1990-jusg9060090a)
