@@ -1,6 +1,6 @@
 # Article 5
 
-Pour bénéficier du soutien financier prévu à l'article 1er du présent décret, les oeuvres audiovisuelles doivent faire l'objet d'une diffusion initiale par l'un des services de communication audiovisuelle soumis à la taxe et au prélèvement institués par l'article 36 de la loi de finances susvisée [*conditions d'obtention*].
+Pour bénéficier du soutien financier prévu à l'article 1er du présent décret, les oeuvres audiovisuelles doivent faire l'objet d'une diffusion initiale par l'un des services de communication audiovisuelle soumis à la taxe et au prélèvement institués par l'article 36 de la loi de finances susvisée [*conditions d'obtention*]. Lorsque des oeuvres sont réalisées avec des moyens vidéo haute définition, elles doivent l'être selon les normes européennes.
 
 Pour bénéficier du soutien financier prévu à l'article 1er (1°) du présent décret, les oeuvres audiovisuelles doivent faire l'objet d'une diffusion par un service de communication audiovisuelle ayant fait un apport au financement de l'oeuvre au moins égal à 15 p. 100 de son coût total ou, en cas de coproduction internationale, à 15 p. 100 de la participation française.
 
