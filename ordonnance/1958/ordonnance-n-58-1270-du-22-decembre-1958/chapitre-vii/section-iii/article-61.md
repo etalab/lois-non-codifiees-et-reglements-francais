@@ -1,5 +1,5 @@
 # Article 61
 
-Les membres de la commission de discipline sont désignés pour trois ans [*durée du mandat*], par arrêté du garde des sceaux, ministre de la justice.
+La durée du mandat des membres titulaires et suppléants de la commission de discipline est de quatre ans non renouvelable.
 
-Lorsqu'une vacance se produit plus de six mois avant la date normale d'expiration des mandats, il est procédé, dans un délai de trois mois et suivant les modalités prévues à l'article précédent, à une désignation complémentaire. Le membre ainsi désigné achève le mandat de son prédécesseur.
+Lorsque le siège de l'un des membres visés au 1° ou au 2° de l'article 60 devient vacant par suite de décès, d'empêchement définitif, de démission ou en cas de perte de la qualité au titre de laquelle il a été élu, ce siège est pourvu par le suppléant qui achève le mandat du titulaire. Le suppléant peut remplacer le titulaire momentanément empêché. Ils ne peuvent siéger ensemble.
