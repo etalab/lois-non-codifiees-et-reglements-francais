@@ -194,6 +194,8 @@
 - [Décret n°98-201 du 17 mars 1998 (MAEJ9830024D)](decret-n98-201-du-17-mars-1998-maej9830024d)
 - [Décret n°98-202 du 17 mars 1998 (MAEJ9830025D)](decret-n98-202-du-17-mars-1998-maej9830025d)
 - [Décret n°98-226 du 17 mars 1998 (MAEJ9830026D)](decret-n98-226-du-17-mars-1998-maej9830026d)
+- [Décret n°98-294 du 17 avril 1998 (ECOT9836673D)](decret-n98-294-du-17-avril-1998-ecot9836673d)
+- [Décret n°98-295 du 17 avril 1998 (ATEN9860027D)](decret-n98-295-du-17-avril-1998-aten9860027d)
 - [Décret n°98-736 du 17 août 1998 (MCCB9800385D)](decret-n98-736-du-17-aout-1998-mccb9800385d)
 - [Décret du 18 mars 1998 (ECOC9700240D)](decret-du-18-mars-1998-ecoc9700240d)
 - [Décret n°80-1023 du 18 décembre 1980](decret-n80-1023-du-18-decembre-1980)
