@@ -10,7 +10,7 @@ A la date de suppression de la juridiction, ces magistrats sont nommés dans l'u
 
 Si ces magistrats n'ont pas exprimé de demande d'affectation, ils sont nommés dans la ou l'une des juridictions qui seront compétentes dans tout ou partie du ressort de la juridiction supprimée dans les fonctions qu'ils occupaient précédemment.
 
-Les nominations prévues aux quatre alinéas précédents sont prononcées, le cas échéant, en surnombre de l'effectif budgétaire du grade et du groupe de fonctions auxquels appartiennent les magistrats concernés et, s'il y a lieu, de l'effectif organique de la juridiction. Les surnombres sont résorbés à la première vacance intervenant dans la juridiction considérée et correspondant aux fonctions exercées.
+Les nominations prévues aux quatre alinéas précédents sont prononcées, le cas échéant, en surnombre de l'effectif budgétaire du grade auquel appartiennent les magistrats concernés et, s'il y a lieu, de l'effectif organique de la juridiction. Les surnombres sont résorbés à la première vacance intervenant dans la juridiction considérée et correspondant aux fonctions exercées.
 
 Neuf mois au plus tard avant la suppression de la juridiction, les magistrats du parquet font connaître au ministre de la justice les affectations qu'ils désireraient recevoir. Six mois au plus tard avant cette date, le ministre de la justice peut inviter ces magistrats à présenter des demandes supplémentaires d'affectation. Leurs demandes d'affectation ne peuvent porter exclusivement sur des emplois de chef de juridiction.
 
