@@ -15,4 +15,7 @@
 - [Article 15](article-15.md)
 - [Article 16](article-16.md)
 - [Article 17](article-17.md)
+- [Article 17 bis](article-17-bis.md)
+- [Article 17 ter](article-17-ter.md)
+- [Article 17 quater](article-17-quater.md)
 - [Article 18](article-18.md)
