@@ -5,6 +5,7 @@
 - [Décret n°60-799 du 2 avril 1960](decret-n60-799-du-2-avril-1960)
 - [Décret n°60-425 du 4 mai 1960](decret-n60-425-du-4-mai-1960)
 - [Décret n°60-1302 du 5 octobre 1960](decret-n60-1302-du-5-octobre-1960)
+- [Décret n°60-531 du 7 juin 1960](decret-n60-531-du-7-juin-1960)
 - [Décret n°60-116 du 8 février 1960](decret-n60-116-du-8-fevrier-1960)
 - [Décret n°59-1405 du 9 décembre 1959](decret-n59-1405-du-9-decembre-1959)
 - [Décret du 11 mars 1960](decret-du-11-mars-1960)
