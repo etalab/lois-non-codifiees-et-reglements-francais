@@ -1,53 +1,53 @@
 # Article Annexe I
 
-Produits spécifiquement bovins.
+Produits spécifiquement bovins :
 
-Animaux vivants : 0102.
+Animaux vivants, 0102.
 
-Viandes fraîches ou réfrigérées : 0201.
+Viandes fraîches ou réfrigérées, 0201.
 
-Viandes congelées : 0202.
+Viandes congelées, 0202.
 
-Abats comestibles frais ou réfrigérés : 0206.10.
+Abats comestibles frais ou réfrigérés, 0206.10.
 
-Langue congelée : 0206.21.00.
+Langue congelée, 0206.21.00.
 
-Foies congelés : 0206.22.
+Foies congelés, 0206.22.
 
-Autres abats congelés (dont onglets) : 0206.29.
+Autres abats congelés (dont onglets), 0206.29.
 
-Viande salée ou en saumure : 0210.20.
+Viande salée ou en saumure, 0210.20.
 
-Autres morceaux de l'espèce bovine : 0210.90.49.
+Autres morceaux de l'espèce bovine, 0210.99.59.
 
-Sperme de taureaux : 0511.10.00.
+Sperme de taureaux, 0511.10.00.
 
-Préparation et conserve de viande : 1602.50.
+Préparation et conserve de viande, 1602.50.
 
-Produits carnés ou à base de viande non spécifiés y compris bovins.
+(1) Les positions du tarif des douanes n'ont qu'une valeur indicative. Il ne s'agit pas d'une liste exhaustive.
 
-Boyaux, vessies et estomacs d'animaux : 0504.00.00.
+Produits carnés ou à base de viande non spécifiés y compris bovins :
 
-Os et cornillons : 0506.
+Boyaux, vessies et estomacs d'animaux, 0504.00.00.
 
-Glandes et autres substances pour préparation de produits pharmaceutiques : 0510.00.10.
+Os et cornillons, 0506.
 
-Tendons et nerfs : 0511.99.10.
+Glandes et autres substances pour préparation de produits pharmaceutiques, 0510.00.10.
 
-Saucisses et saucissons de viandes : 1601.00.91.
+Tendons et nerfs, 0511.99.10.
 
-Préparations homogénéisées à base de viande : 1602.10.00.
+Saucisses et saucissons de viandes, 1601.00.91.
 
-Pâtes alimentaires farcies de viandes : 1902.20.30.
+Préparations homogénéisées à base de viande, 1602.10.00.
 
-Glandes et autres organes préparés à des fins thérapeutiques :
+Pâtes alimentaires farcies de viandes, 1902.20.30.
 
-3001.10.
+Glandes et autres organes préparés à des fins thérapeutiques, 3001.10.
 
-Extrait de glandes : 3001.20.90.
+Extrait de glandes, 3001.20.90.
 
-Autres produits d'origine animale, non dénommés ni compris ailleurs, dont les viandes séparées mécaniquement : 0410.00.00, 0511.99.80.
+Autres produits d'origine animale, non dénommés ni compris ailleurs, dont les viandes séparées mécaniquement, 0410.00.00, 0511.99.80.
 
-Autres produits à base de viande : 1601.00.99.
+Autres produits à base de viande, 1601.00.99.
 
 (1) Les positions du tarif des douanes n'ont qu'une valeur indicative. Il ne s'agit pas d'une liste exhaustive.
