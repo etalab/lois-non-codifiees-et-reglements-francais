@@ -16,5 +16,5 @@
 - [Article 47](article-47.md)
 - [Article 49](article-49.md)
 - [Article 50](article-50.md)
-- [Dispositions applicables aux installations soumises à autorisation](dispositions-applicables-aux)
+- [Dispositions applicables aux installations soumises à déclaration](dispositions-applicables-aux)
 - [Dispositions transitoires](dispositions-transitoires)
