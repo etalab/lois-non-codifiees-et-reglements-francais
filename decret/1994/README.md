@@ -365,7 +365,6 @@
 - [Décret n°94-390 du 13 mai 1994 (SPSA9400599D)](decret-n94-390-du-13-mai-1994-spsa9400599d)
 - [Décret n°86-599 du 14 mars 1986](decret-n86-599-du-14-mars-1986)
 - [Décret n°86-640 du 14 mars 1986](decret-n86-640-du-14-mars-1986)
-- [Décret n°89-223 du 14 avril 1989 (DEFP8901285D)](decret-n89-223-du-14-avril-1989-defp8901285d)
 - [Décret n°94-1085 du 14 décembre 1994 (FPPX9400114D)](decret-n94-1085-du-14-decembre-1994-fppx9400114d)
 - [Décret n°94-1090 du 14 décembre 1994 (FPPX9400169D)](decret-n94-1090-du-14-decembre-1994-fppx9400169d)
 - [Décret n°94-1105 du 14 décembre 1994 (LOGC9400071D)](decret-n94-1105-du-14-decembre-1994-logc9400071d)
