@@ -7,4 +7,5 @@
 - [Décret n°67-432 du 26 mai 1967](decret-n67-432-du-26-mai-1967)
 - [Décret n°67-513 du 30 juin 1967](decret-n67-513-du-30-juin-1967)
 - [Décret n°67-519 du 30 juin 1967](decret-n67-519-du-30-juin-1967)
+- [Décret n°67-542 du 30 juin 1967](decret-n67-542-du-30-juin-1967)
 - [Décret n° 59-951 du 31 juillet 1959](decret-n-59-951-du-31-juillet-1959)

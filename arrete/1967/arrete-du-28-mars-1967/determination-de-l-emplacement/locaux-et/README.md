@@ -1,3 +1,0 @@
-# Locaux et emplacements obligatoires et facultatifs
-
-- [Article 4](article-4.md)
