@@ -1,0 +1,5 @@
+# Article 17
+
+Peuvent être inscrits au tableau d'avancement pour l'accès à la hors-classe les administrateurs de l'institut national de la statistique et des études économiques ayant atteint au moins le 2e échelon de la 1ere classe. Les intéressés sont, lors de leur promotion, classés à l'échelon comportant l'indice de rémunération immédiatement supérieur à celui dont ils bénéficiaient antérieurement ; ils y conservent l'ancienneté acquise dans le précédent échelon.
+
+Peuvent être inscrits au tableau d'avancement pour l'accès à la 1ere classe les administrateurs de l'institut national de la statistique et des études économiques ayant atteint au moins le 6e échelon de la 2e classe et justifiant dans cette classe de deux années de services effectifs en position d'activité ou de détachement. Les intéressés sont, lors de leur promotion, classés à l'échelon comportant l'indice de rémunération égal à celui dont ils bénéficiaient antérieurement ; ils y conservent l'ancienneté acquise dans le précédent échelon. Toutefois, lorsque le fonctionnaire appartient au 7e échelon de la 2e classe, il ne conserve son ancienneté que dans la limite de deux ans.
