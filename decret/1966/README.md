@@ -30,6 +30,8 @@
 - [Décret n°66-180 du 25 mars 1966](decret-n66-180-du-25-mars-1966)
 - [Décret n°66-81 du 25 janvier 1966](decret-n66-81-du-25-janvier-1966)
 - [Décret n°66-585 du 27 juillet 1966](decret-n66-585-du-27-juillet-1966)
+- [Décret n°66-594 du 27 juillet 1966](decret-n66-594-du-27-juillet-1966)
+- [Décret n°66-597 du 27 juillet 1966](decret-n66-597-du-27-juillet-1966)
 - [Décret n°66-568 du 30 juillet 1966](decret-n66-568-du-30-juillet-1966)
 - [Décret n°66-570 du 30 juillet 1966](decret-n66-570-du-30-juillet-1966)
 - [Décret n°66-571 du 30 juillet 1966](decret-n66-571-du-30-juillet-1966)
