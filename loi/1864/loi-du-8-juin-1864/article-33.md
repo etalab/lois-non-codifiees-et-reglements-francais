@@ -1,0 +1,5 @@
+# Article 33
+
+Toutes contributions directes ou indirectes autres que celles autorisées par la présente loi, à quelque titre ou sous quelque dénomination qu'elles se perçoivent, sont formellement interdites, à peine, contre les autorités qui les ordonneraient, contre les employés qui confectionneraient les rôles et tarifs, et ceux qui en feraient le recouvrement, d'être poursuivis comme concussionnaires, sans préjudice de l'action en répétition, pendant trois années, contre tous receveurs, percepteurs ou individus qui auraient fait la perception, et sans que, pour exercer cette action devant les tribunaux, il soit besoin d'une autorisation préalable.
+
+Il n'est pas néanmoins dérogé à l'exécution de l'article 4 de la loi du 2 août 1829, modifié par l'article 7 de la loi du 7 août 1850, relatif au cadastre, non plus qu'aux dispositions des lois du 10 mai 1838, sur les attributions départementales ; du 18 juillet 1837, sur l'administration communale ; du 21 mai 1836, sur les chemins vicinaux, et du 28 juin 1833, sur l'instruction primaire.
