@@ -29,3 +29,5 @@ Corps des éducateurs de jeunes enfants de la fonction publique hospitalière (d
 Corps des moniteurs-éducateurs de la fonction publique hospitalière (décret n° 93-657 du 26 mars 1993).
 
 Corps des moniteurs d'atelier de la fonction publique hospitalière (décret n° 93-658 du 26 mars 1993).
+
+Corps des psychologues de la fonction publique hospitalière (décret n° 91-129 du 31 janvier 1991).
