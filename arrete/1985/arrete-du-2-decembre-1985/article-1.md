@@ -1,3 +1,3 @@
 # Article 1
 
-L'alcool de betterave acheté par l'Etat doit présenter les caractéristiques d'un alcool neutre ou d'un alcool brut.
+Les règlements n° 85-15 et 85-16 du comité de la réglementation bancaire annexés au présent arrêté sont homologués.

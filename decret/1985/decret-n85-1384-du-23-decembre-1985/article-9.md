@@ -1,0 +1,3 @@
+# Article 9
+
+Le conseil général des ponts et chaussées, l'inspection générale de l'équipement et de l'environnement, la direction du personnel, la direction de l'administration générale, la direction de l'architecture et de l'urbanisme, la direction des affaires économiques et internationales, la délégation à la recherche et à l'innovation, placés sous l'autorité du ministre de l'urbanisme, du logement et des transports ; le conseil général du génie rural, des eaux et des forêts, placés sous l'autorité du ministre de l'agriculture, sont mis, en tant que de besoin, à la disposition du ministre de l'environnement pour l'exercice de ses attributions.

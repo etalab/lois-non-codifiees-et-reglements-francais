@@ -1,0 +1,15 @@
+# Article 3
+
+Dans le deuxième secteur, les loyers peuvent être majorés dans les conditions ci-dessous.
+
+La majoration du loyer lors du renouvellement du contrat ne peut excéder la variation de l'indice du coût de la construction, aux date et conditions prévues par les clauses du contrat relatives à la révision du loyer. Lorsque le contrat prévoit une date de révision différente de la date anniversaire du contrat, la majoration est effectuée dans la même limite à la date prévue pour la révision. Si le contrat de location arrivant à renouvellement ne comporte pas de clause de révision, la majoration du loyer ne peut excéder la variation de l'indice prise en compte sur la période écoulée depuis la date d'effet, selon le cas, du contrat initial ou du contrat renouvelé.
+
+En cas de nouvelle location, la majoration du loyer ne peut excéder la variation de l'indice du coût de la construction prise en compte pendant une période égale à celle qui s'est écoulée entre la dernière majoration de loyer intervenue dans le cadre de l'ancien contrat et la date d'effet du nouveau contrat. Le loyer peut, toutefois, faire l'objet d'une modulation particulière qui ne peut avoir pour effet de le porter au-dessus de loyers pratiqués localement pour des logements comparables à vocation sociale. Pour les logements construits à l'aide de primes ou prêts du Crédit foncier de France ou de la Caisse centrale de coopération économique, le loyer auquel cette modulation est appliquée ne peut pas être supérieur à un loyer maximum par logement. Ce loyer maximum est selon le cas :
+
+a) Egal au loyer plafond par logement lorsque le contrat de prêt en prévoit un ;
+
+b) Déterminé par le bailleur lorsque le loyer plafond est fixé globalement par le contrat de prêt pour l'ensemble des logements concernés par ce contrat, de manière que la somme des loyers maximum par type de logement soit égale au loyer plafond global ;
+
+c) Etabli pour les autres logements par application d'un loyer plafond global calculé pour un bâtiment ou un ensemble de bâtiments d'habitation sur la base d'un montant mensuel de 20 F par mètre carré de surface habitable, actualisé en fonction de l'évolution de l'indice du coût de la construction, l'indice de base étant celui du deuxième trimestre 1983 ; le loyer maximum par logement est calculé dans les conditions prévues au b.
+
+Lorsque des travaux d'amélioration tels que définis par l'accord collectif national de location conclu le 25 novembre 1983 et rendu obligatoire par le décret n° 84-363 du 11 mai 1984 sont réalisés, une majoration supplémentaire, échelonnée le cas échéant au cours du contrat, peut intervenir. Elle est au plus égale, calculée sur douze mois, à 10 p. 100 du coût réel des travaux toutes taxes comprises. Le coût des travaux est pris en compte dans la limite de 9.000 F par logement augmentés de 2.000 F par pièce principale. Aucune limitation de la prise en compte du coût réel des travaux ne s'applique en cas de changement de locataire. La majoration intervient lors de la conclusion ou du renouvellement du contrat ou à compter de la date anniversaire du contrat suivant la date d'achèvement des travaux.

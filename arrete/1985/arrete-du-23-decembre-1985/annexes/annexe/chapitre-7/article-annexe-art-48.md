@@ -1,0 +1,3 @@
+# Article Annexe art. 48
+
+En matière de gestion des recours contre les tiers responsables d'accident et dans l'éventualité où l'organisme, en méconnaissance des dispositions prévues à l'article 26 de la présente convention, a omis de communiquer à la caisse, en temps opportun, le montant des prestations versées correspondant à la gestion de tels recours, le conseil d'administration de la caisse peut appliquer à l'organisme une sanction, selon les modalités visées à l'article 52 de la présente convention. La pénalité ne peut dépasser 10 p. 100 du montant des prestations qui n'ont pu être récupérées de ce fait.
