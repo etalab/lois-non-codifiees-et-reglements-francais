@@ -1,0 +1,5 @@
+# Article 9
+
+Peuvent être promus à la 1re classe les administrateurs financiers de 2e classe qui ont atteint au moins le 5e échelon et qui justifient de deux années de services effectifs dans le corps. Les intéressés sont, lors de leur promotion, classés à l'échelon comportant l'indice de rémunération égal ou immédiatement supérieur à celui dont ils bénéficiaient antérieurement. Ils conservent à cette occasion l'ancienneté acquise au précédent échelon. Toutefois, lorsque l'administrateur promu appartient au 6e échelon de la 2e classe, il ne conserve son ancienneté que dans la limite de deux ans.
+
+Peuvent être inscrits au tableau d'avancement pour l'accès à la hors-classe les administrateurs financiers de 1re classe ayant atteint au moins le 2e échelon de la 1re classe. Les intéressés sont, lors de leur promotion, classés à l'échelon comportant l'indice de rémunération immédiatement supérieur à celui dont ils bénéficiaient antérieurement, ils conservent à cette occasion l'ancienneté acquise au précédent échelon.
