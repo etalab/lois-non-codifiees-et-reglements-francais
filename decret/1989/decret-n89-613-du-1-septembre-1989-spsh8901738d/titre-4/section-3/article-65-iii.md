@@ -2,17 +2,17 @@
 
 Les fonctionnaires mentionnés au deuxième alinéa de l'article 1er ci-dessus, en fonctions à la date de publication du décret n° 93-317 du 10 mars 1993 bénéficient d'une reprise d'ancienneté dans les conditions suivantes :
 
-1° Les fonctionnaires qui n'avaient obtenu, lors de leur titularisation, aucune bonification d'ancienneté au titre de fonctions exercées antérieurement dans un établissement de soins public ou privé bénéficieront de la reprise de la totalité de la durée des services antérieurement accomplis en qualité de fonctionnaire ou d'agent public dans un établissement de soins public ou dans un établissement social ou médico-social public, ou en qualité de salarié dans un établissement de soins privé ou dans un établissement social ou médico-social privé ou dans un laboratoire d'analyses de biologie médicale ou un cabinet de radiologie, dans des fonctions correspondant à celles du grade dans lequel ils ont été titularisés.
+1° Les fonctionnaires qui n'avaient obtenu, lors de leur titularisation, aucune bonification d'ancienneté au titre de fonctions exercées antérieurement dans un établissement de soins public ou privé bénéficieront de la reprise de la totalité de la durée des services antérieurement accomplis en qualité de fonctionnaire ou d'agent public dans un établissement de soins public ou dans un établissement social ou médico-social public, ou en qualité de salarié dans un établissement de soins privé ou dans un établissement social ou médico-social privé ou dans un laboratoire d'analyses de biologie médicale ou un cabinet de radiologie ou dans une pharmacie d'officine, dans des fonctions correspondant à celles du grade dans lequel ils ont été titularisés.
 
-2° Les fonctionnaires ayant déjà bénéficié d'une bonification d'ancienneté égale à une partie de la durée des services accomplis de façon continue en qualité de fonctionnaire ou d'agent public dans un établissement de soins public ou dans un établissement social ou médico-social public, ou en qualité de salarié dans un établissement de soins privé ou dans un établissement social ou médico-social privé ou dans un laboratoire d'analyses de biologie médicale ou un cabinet de radiologie, bénéficieront d'une reprise complémentaire d'ancienneté équivalent au reliquat desdits services non pris en compte lors de leur titularisation.
+2° Les fonctionnaires ayant déjà bénéficié d'une bonification d'ancienneté égale à une partie de la durée des services accomplis de façon continue en qualité de fonctionnaire ou d'agent public dans un établissement de soins public ou dans un établissement social ou médico-social public, ou en qualité de salarié dans un établissement de soins privé ou dans un établissement social ou médico-social privé ou dans un laboratoire d'analyses de biologie médicale ou un cabinet de radiologie ou dans une pharmacie d'officine, bénéficieront d'une reprise complémentaire d'ancienneté équivalent au reliquat desdits services non pris en compte lors de leur titularisation.
 
 La reprise d'ancienneté s'effectue, pour chacun des fonctionnaires concernés, dans les conditions suivantes :
 
-- à compter du 1er janvier 1993, reprise d'un tiers des services à prendre en compte ;
+-à compter du 1er janvier 1993, reprise d'un tiers des services à prendre en compte ;
 
-- à compter du 1er janvier 1994, reprise d'un tiers des services ;
+-à compter du 1er janvier 1994, reprise d'un tiers des services ;
 
-- à compter du 1er janvier 1995, reprise du tiers restant.
+-à compter du 1er janvier 1995, reprise du tiers restant.
 
 3° Les agents ayant la qualité de titulaire à la date de publication du décret n° 93-317 du 10 mars 1993 disposent d'un délai de six mois à compter de cette date pour demander la reprise de leur ancienneté dans les conditions fixées aux 1° et 2° ci-dessus.
 
