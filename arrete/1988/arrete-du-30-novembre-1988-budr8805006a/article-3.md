@@ -26,4 +26,4 @@ Série 10,30 p. 100 Juin 1985 (code Sicovam 4243) :
 
 1 500,62 F ;
 
-Série 6,70 p. 100 Juin 1986 (code Sicovam 10123) : 1239,16 F.
+Série 6,70 p. 100 Juin 1986 (code Sicovam 10123) : 1239,97 F.
