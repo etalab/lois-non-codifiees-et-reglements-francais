@@ -129,7 +129,6 @@
 - [Arrêté du 5 juillet 1990 (COMA9000016A)](arrete-du-5-juillet-1990-coma9000016a)
 - [Arrêté du 5 juillet 1990 (ECOT9013363A)](arrete-du-5-juillet-1990-ecot9013363a)
 - [Arrêté du 5 juillet 1990 (ECOT9020148A)](arrete-du-5-juillet-1990-ecot9020148a)
-- [Arrêté du 5 juillet 1990 (EQUA9001026A)](arrete-du-5-juillet-1990-equa9001026a)
 - [Arrêté du 5 juillet 1990 (INDG9000485A)](arrete-du-5-juillet-1990-indg9000485a)
 - [Arrêté du 5 juin 1990 (AGRP9001228A)](arrete-du-5-juin-1990-agrp9001228a)
 - [Arrêté du 5 juin 1990 (JUSG9060048A)](arrete-du-5-juin-1990-jusg9060048a)

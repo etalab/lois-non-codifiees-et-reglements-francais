@@ -160,7 +160,6 @@
 - [Arrêté du 8 juillet 1987 (MENF8700462A)](arrete-du-8-juillet-1987-menf8700462a)
 - [Arrêté du 8 octobre 1987 (AGRS8701877A)](arrete-du-8-octobre-1987-agrs8701877a)
 - [Arrêté du 8 octobre 1987 (PTTT8700718A)](arrete-du-8-octobre-1987-pttt8700718a)
-- [Arrêté du 8 octobre 1987 (TRSA8700361A)](arrete-du-8-octobre-1987-trsa8700361a)
 - [Arrêté du 8 septembre 1987 (ECOT8711004A)](arrete-du-8-septembre-1987-ecot8711004a)
 - [Arrêté du 9 décembre 1987 (BUDR8703143A)](arrete-du-9-decembre-1987-budr8703143a)
 - [Arrêté du 9 décembre 1987 (ECOP8700517A)](arrete-du-9-decembre-1987-ecop8700517a)
