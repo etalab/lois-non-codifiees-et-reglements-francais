@@ -1,0 +1,3 @@
+# Article 11
+
+Les entreprises doivent fournir au ministre chargé de la marine marchande, sur sa requête, toutes justifications permettant de vérifier la conformité des opérations réalisées à la réglementation et aux engagements pris. Les commissaires aux comptes certifient, dans leur rapport à l'assemblée générale des actionnaires, la régularité et la sincérité desdites opérations.

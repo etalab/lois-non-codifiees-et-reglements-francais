@@ -1,3 +1,3 @@
 # Article 6
 
-Le directeur de l'administration générale est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le conseil se réunit au moins deux foix par an sur la convocation de son président.

@@ -12,7 +12,7 @@ b) Cinq représentants de la direction des Archives de France :
 
 - les trois inspecteurs généraux des archives ;
 
-c) Quinze membres de droit :
+c) Seize membres de droit :
 
 - le vice-président du Conseil d'Etat ;
 
@@ -38,6 +38,8 @@ c) Quinze membres de droit :
 
 - le directeur des archives et de la documentation au ministère des affaires étrangères ;
 
+- le chef de la mission de la recherche et de la technologie du ministère de la culture, de la communication, des grands travaux et du Bicentenaire ;
+
 - le chef du service historique de l'armée de terre ;
 
 - le chef du service historique de la marine ;
@@ -62,6 +64,10 @@ Participent en outre aux discussions avec voix consultative :
 
 - les chefs de service de la direction des Archives de France, des Archives nationales et des archives départementales compétents, en fonction de l'ordre du jour, désignés pour chaque séance par le directeur général des Archives de France ;
 
-- le président de l'association des archivistes français ou son représentant ;
+- le président de l'association des archivistes français ou son
+
+représentant ;
 
 - un délégué de chaque organisation syndicale représentée au comité technique paritaire de la direction des Archives de France.
+
+f) Deux représentants des personnels de conservation, de recherche, de restauration et de documentation exerçant leurs activités dans les services ou organismes placés sous l'autorité ou la tutelle du directeur général des Archives de France du ministère chargé de la culture, choisis par leurs pairs.
