@@ -1,4 +1,4 @@
-# Décret n°90-656 du 25 juillet 1990 portant organisation de la coordination interministérielle de la lutte contre le travail clandestin, l'emploi non déclaré et les trafics de main-d'oeuvre
+# Arrêté du 21 octobre 1991 relatif à la formation d'adaptation à l'emploi des directeurs des écoles paramédicales
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

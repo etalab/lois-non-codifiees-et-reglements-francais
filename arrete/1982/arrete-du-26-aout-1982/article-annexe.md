@@ -132,7 +132,7 @@ Un membre titulaire et un membre suppléant proposés par la fédération franç
 
 Un membre titulaire et un membre suppléant proposé par l'union nationale des présidents des fédérations départementales des chasseurs ;
 
-Trois personnalités qualifiées proposées par le directeur des industries métallurgiques, mécaniques et électriques au ministère de la recherche et de l'industrie ou son représentant.
+Quatre personnalités qualifiées proposées par le directeur des industries métallurgiques, mécaniques et électriques au ministère de la recherche et de l'industrie ou son représentant.
 
 Le directeur des industries métallurgiques, mécaniques et électriques au ministère de la recherche et de l'industrie ou son représentant.
 
@@ -142,7 +142,7 @@ Les membres du comité technique qui cessent d'exercer leurs fonctions ou qui pe
 
 Le président, membre du comité technique, est élu pour trois ans par les membres du comité à la majorité simple.
 
-Le comité se réunit sur la convocation de son président et au moins trois fois par an.
+Le comité se réunit sur la convocation de son président et au moins deux fois par an.
 
 Sauf en cas d'urgence, le lieu, la date et l'ordre du jour sont portés au moins deux semaines à l'avance à la connaissance des membres du comité. Les rapports et projets de budget à examiner en comité sont joints à la convocation.
 
