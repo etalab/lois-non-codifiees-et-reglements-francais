@@ -8,4 +8,3 @@
 - [Chapitre VI : De la bourse commune.](chapitre-vi)
 - [Chapitre VII : De la discipline et de la comptabilité](chapitre-vii)
 - [Chapitre VIII : Des notaires honoraires.](chapitre-viii)
-- [Chapitre IX : Des aspirants au notariat.](chapitre-ix)
