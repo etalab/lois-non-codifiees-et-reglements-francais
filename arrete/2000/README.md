@@ -91,6 +91,7 @@
 - [Arrêté du 24 juillet 2000 (MESA0022638A)](arrete-du-24-juillet-2000-mesa0022638a)
 - [Arrêté du 25 février 2000 (ECOL0000031A)](arrete-du-25-fevrier-2000-ecol0000031a)
 - [Arrêté du 25 février 2000 (ECOL0000032A)](arrete-du-25-fevrier-2000-ecol0000032a)
+- [Arrêté du 25 février 2000 (MENE0000401A)](arrete-du-25-fevrier-2000-mene0000401a)
 - [Arrêté du 25 janvier 2000 (DEFC0001133A)](arrete-du-25-janvier-2000-defc0001133a)
 - [Arrêté du 25 janvier 2000 (EQUS0000183A)](arrete-du-25-janvier-2000-equs0000183a)
 - [Arrêté du 26 décembre 2000 (MCCB0000675A)](arrete-du-26-decembre-2000-mccb0000675a)
