@@ -1,4 +1,4 @@
-# Arrêté du 6 décembre 1985 relatif à l'émission de l'emprunt d'Etat Décembre 1985
+# Arrêté du 6 décembre 1985 fixant le modèle de l'imprimé Déclaration nominative trimestrielle Employés de maison à envoyer à l'appui du versement des cotisations
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

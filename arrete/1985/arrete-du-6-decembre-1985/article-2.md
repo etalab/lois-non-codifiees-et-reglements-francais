@@ -1,3 +1,3 @@
 # Article 2
 
-Les obligations des deux tranches portent jouissance du 13 décembre 1985.
+L'arrêté du 25 mars 1982 en tant qu'il fixe le précédent modèle d'imprimé, référencé S. 2328 c, Cerfa n° 60-3643, est abrogé.
