@@ -1,6 +1,7 @@
 # 1974
 
 - [Loi n° 73-1230 du 31 décembre 1973](loi-n-73-1230-du-31-decembre-1973)
+- [Loi n° 74-1027 du 4 décembre 1974](loi-n-74-1027-du-4-decembre-1974)
 - [Loi n° 74-631 du 5 juillet 1974](loi-n-74-631-du-5-juillet-1974)
 - [Loi n° 74-644 du 16 juillet 1974](loi-n-74-644-du-16-juillet-1974)
 - [Loi n° 74-696 du 7 août 1974](loi-n-74-696-du-7-aout-1974)
