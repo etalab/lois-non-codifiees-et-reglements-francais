@@ -1,0 +1,11 @@
+# Article 4
+
+1° Les armes et éléments d'armes de la 1re ou de la 4e catégorie, leurs munitions et leurs éléments de munitions abandonnés gracieusement aux fins de destruction auprès des services de la police nationale ou de la gendarmerie nationale, soit à la suite du refus, du non-renouvellement ou du retrait de l'autorisation prévue à l'article 23 (1°) du décret du 6 mai 1995 susvisé, soit à la suite d'une mise en possession par découverte ou par voie successorale, sont remis, sans contrepartie financière, respectivement aux secrétariats généraux pour l'administration de la police ou aux établissements de la défense désignés à cet effet.
+
+2° Les armes de 5e, 7e ou 8e catégorie, leurs éléments, leurs munitions et leurs éléments de munitions abandonnés gracieusement aux fins de destruction auprès des services de la police nationale ou de la gendarmerie nationale à la suite d'une mise en possession par découverte ou par voie successorale sont remis, sans contrepartie financière, respectivement aux secrétariats généraux pour l'administration de la police ou aux établissements de la défense désignés à cet effet.
+
+Les personnes qui abandonnent à l'Etat des armes, des éléments d'armes, des munitions ou des éléments de munitions en application du 1° et du 2° du présent article doivent justifier de leur identité dans les conditions précisées par le décret du 26 décembre 2000 susvisé.
+
+3° Les armes d'épaule ou de poing, quelle que soit leur catégorie, leurs éléments, leurs munitions et leurs éléments de munitions abandonnés gracieusement aux fins de destruction auprès des services de la police nationale ou de la gendarmerie nationale par les collectivités territoriales et les établissements publics de l'Etat sont remis, sans contrepartie financière, respectivement aux secrétariats généraux pour l'administration de la police ou aux établissements de la défense désignés à cet effet.
+
+Sous réserve des dispositions de l'article 2, le ministre de l'intérieur et le ministre de la défense, chacun pour ce qui le concerne, procèdent ou font procéder à la destruction des armes et éléments d'armes ainsi que des munitions et éléments de munitions cités aux 1° à 3° du présent article.

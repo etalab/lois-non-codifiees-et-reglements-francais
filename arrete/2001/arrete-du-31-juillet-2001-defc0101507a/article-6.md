@@ -1,0 +1,5 @@
+# Article 6
+
+Lorsqu'ils sont détenus par les greffes des juridictions, les matériels de guerre, armes, éléments d'armes, munitions et éléments de munitions mentionnés aux articles 3 et 5 qui présentent un intérêt pour la réalisation d'examens ou d'expertises techniques ou scientifiques dans le cadre de la police judiciaire sont mis à la disposition de la direction générale de la police nationale ou de la direction générale de la gendarmerie nationale, sur leur demande. Cette mise à disposition ne donne pas lieu à contrepartie financière.
+
+La direction générale de la police nationale et la direction générale de la gendarmerie nationale remettent aux fins de destruction, respectivement aux secrétariats généraux pour l'administration de la police ou aux établissements de la défense désignés à cet effet, les matériels de guerre, armes, éléments d'armes, éléments de munitions et munitions dont ils n'ont plus l'utilisation. Ces services procèdent ou font procéder à la destruction de ces matériels, armes, éléments d'armes, munitions et éléments de munitions.
