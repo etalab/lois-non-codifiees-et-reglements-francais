@@ -2,4 +2,5 @@
 
 - [DECLARATION](declaration)
 - [DECRET](decret)
+- [LOI](loi)
 - [ORDONNANCE](ordonnance)
