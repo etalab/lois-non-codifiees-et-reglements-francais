@@ -1,0 +1,3 @@
+# Article 1
+
+Par dérogation aux dispositions qui les assujettissent au secret professionnel, les agents des organismes chargés de gérer dans les territoires d'outre-mer les régimes législatifs ou réglementaires de sécurité sociale sont tenus [*obligation*] de signaler les dettes de cotisations exigibles aux instituts d'émission agissant pour le compte du Conseil national du crédit en vue de l'accomplissement de la mission confiée à ce dernier conformément à l'article 13 de la loi n° 45-015 du 2 décembre 1945 et du décret n° 62-434 du 9 avril 1962 étendant la compétence du Conseil national du crédit aux territoires d'outre-mer.

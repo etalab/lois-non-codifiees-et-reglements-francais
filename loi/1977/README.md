@@ -5,6 +5,7 @@
 - [Loi n° 77-2 du 3 janvier 1977](loi-n-77-2-du-3-janvier-1977)
 - [Loi n° 77-4 du 3 janvier 1977](loi-n-77-4-du-3-janvier-1977)
 - [Loi n° 77-441 du 27 avril 1977](loi-n-77-441-du-27-avril-1977)
+- [Loi n° 77-461 du 2 mai 1977](loi-n-77-461-du-2-mai-1977)
 - [Loi n° 77-5 du 3 janvier 1977](loi-n-77-5-du-3-janvier-1977)
 - [Loi n° 77-6 du 3 janvier 1977](loi-n-77-6-du-3-janvier-1977)
 - [Loi n°75-1349 du 31 décembre 1975](loi-n75-1349-du-31-decembre-1975)
