@@ -127,6 +127,7 @@
 - [Décret n°2004-241 du 18 mars 2004 (SANH0420880D)](decret-n2004-241-du-18-mars-2004-sanh0420880d)
 - [Décret n°66-104 du 18 février 1966](decret-n66-104-du-18-fevrier-1966)
 - [Décret n°2004-162 du 19 février 2004 (MENE0400161D)](decret-n2004-162-du-19-fevrier-2004-mene0400161d)
+- [Décret n°2004-171 du 19 février 2004 (SOCF0410135D)](decret-n2004-171-du-19-fevrier-2004-socf0410135d)
 - [Décret n°2004-73 du 19 janvier 2004 (SANS0324118D)](decret-n2004-73-du-19-janvier-2004-sans0324118d)
 - [Décret n°99-886 du 19 octobre 1999 (MENF9901993D)](decret-n99-886-du-19-octobre-1999-menf9901993d)
 - [Décret n°2004-167 du 20 février 2004 (MAEX0300204D)](decret-n2004-167-du-20-fevrier-2004-maex0300204d)
