@@ -1,3 +1,3 @@
 # Article 3
 
-Les agents qui ont été admis à bénéficier de la cessation progressive d'activité sont mis à la retraite dès qu'ils réunissent les conditions requises pour obtenir une pension à jouissance immédiate.
+---Les agents mentionnés au premier alinéa de l'article 1er sont admis à bénéficier de la cessation progressive d'activité au plus tôt le premier jour suivant celui de leur cinquante-cinquième anniversaire. Ils sont mis au plus tard à la retraite à la fin du mois au cours duquel ils réunissent les conditions requises pour obtenir une pension à jouissance immédiate. Toutefois pour les personnels enseignants, le départ à la retraite peut être reporté, sur leur demande jusqu'à la fin de l'année scolaire ou universitaire.    " Les femmes titulaires mentionnées au deuxième alinéa de l'article 1er, qui ont été admises au bénéfice de la cessation progressive d'activité, sont mises à la retraite au plus tard lorsqu'elles ont atteint l'âge de soixante ans. "
