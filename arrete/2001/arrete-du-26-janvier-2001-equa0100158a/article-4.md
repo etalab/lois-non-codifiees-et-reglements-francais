@@ -1,0 +1,7 @@
+# Article 4
+
+Lorsqu'il apparaît qu'un doute existe quant à l'équivalence de la licence en question, notamment lorsque la licence n'est pas délivrée conformément à l'annexe 1 de la convention relative à l'aviation civile internationale, le postulant doit satisfaire aux exigences ou aux épreuves complémentaires jugées appropriées pour accepter la licence, définies après avis du conseil du personnel navigant professionnel de l'aéronautique civile par le ministre chargé de l'aviation civile, notamment au regard des dispositions des arrêtés cités à l'article 2.
+
+Lorsqu'il s'avère nécessaire de soumettre un postulant à des épreuves complémentaires, le postulant, l'Etat membre ayant délivré sa licence ainsi que la Commission des Communautés européennes en sont informés par écrit. La possibilité de subir une épreuve complémentaire est offerte au postulant dans les meilleurs délais et sans aucune discrimination basée sur la nationalité.
+
+Néanmoins, les licences délivrées par un Etat membre de la Communauté européenne ou un autre Etat partie à l'accord sur l'Espace économique, sans qu'aucun élément constitutif de ces licences n'ait été délivré par un Etat tiers, sont validées par le ministre chargé de l'aviation civile, à la demande de leurs titulaires, pour exercer les fonctions prévues à l'annexe du présent arrêté lorsqu'ils satisfont aux conditions spéciales de validation correspondantes précisées à cette même annexe.
