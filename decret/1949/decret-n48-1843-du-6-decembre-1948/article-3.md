@@ -1,3 +1,0 @@
-# Article 3
-
-Si, à l'expiration du stage, la durée des services de stage n'est pas validée au titre du régime des pensions des fonctionnaires de l'Etat, par suite de la non-titularisation des intéressés, les cotisations dues pour cette même période au titre de l'assurance vieillesse du régime général des assurances sociales doivent faire l'objet, de la part de l'administration ou de l'établissement dont relevaient les stagiaires, d'un versement rétroactif à la caisse primaire de sécurité sociale à laquelle sont affiliés les intéressés qui sont redevables envers l'administration  ou l'établissement de la fraction dudit versement correspondant à la cotissation ouvrière d'assurance vieillesse.
