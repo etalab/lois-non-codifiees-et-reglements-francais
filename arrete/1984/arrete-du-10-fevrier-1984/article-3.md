@@ -1,5 +1,3 @@
 # Article 3
 
-Le président du conseil spécialisé pour le secteur des plantes à parfum est nommé par arrêté du ministre chargé de l'agriculture, après consultation de ce conseil spécialisé.
-
-Il siège de droit au conseil de direction de l'office avec voix consultative s'il n'est pas lui-même membre du conseil de direction.
+La saignée doit suivre immédiatement l'étourdissement. Elle est effectuée sur l'animal suspendu ou selon tout procédé ayant reçu l'agrément du ministère de l'agriculture. Elle est suivie obligatoirement d'une phase d'égouttage qui ne peut être inférieure à une durée [*minimum*] de trois minutes.

@@ -1,3 +1,3 @@
 # Article 9
 
-Le conseil spécialisé pour le secteur des plantes à parfum est tenu régulièrement informé par le ministre chargé de l'agriculture des travaux de la Communauté économique européenne en ce qui concerne l'élaboration et l'application de la politique agricole commune dans les secteurs de sa compétence.
+Le directeur de la qualité (service vétérinaire d'hygiène alimentaire) est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

@@ -1,4 +1,4 @@
-# Arrêté du 10 février 1984 relatif aux dispositions relatives au sang des animaux de boucherie destiné à la consommation humaine
+# Décret n°84-203 du 22 mars 1984 INSTITUANT UN CONSEIL NATIONAL CONSULTATIF DES PERSONNES HANDICAPEES.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -9,4 +9,4 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
-- [Annexes](annexes)
+- [Article 10](article-10.md)
