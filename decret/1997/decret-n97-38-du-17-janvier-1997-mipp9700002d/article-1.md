@@ -1,0 +1,3 @@
+# Article 1
+
+Nonobstant les prévisions de l'article D. 19-3 du code des postes et télécommunications, la première demande sollicitant le bénéfice de l'abattement sur le tarif de presse institué à l'article D. 19-2 dudit code, formulée avant le 31 janvier 1997 par les entreprises éditrices titulaires d'un certificat d'inscription délivré par la commission paritaire des publications et agences de presse, est accordée par arrêté conjoint du ministre de la culture, du ministre délégué au budget et du ministre délégué à la poste, aux télécommunications et à l'espace, après avis d'une commission composée d'un conseiller d'Etat, président, d'un conseiller à la Cour de cassation et d'un conseiller maître à la Cour des comptes.
