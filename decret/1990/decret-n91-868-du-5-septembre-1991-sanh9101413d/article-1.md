@@ -4,6 +4,6 @@ Sont régis par les dispositions du présent décret les corps des personnels te
 
 1° Le corps des ingénieurs hospitaliers, classé dans la catégorie A ;
 
-2° Le corps des adjoints techniques, classé dans la catégorie B ;
+2° Le corps des techniciens supérieurs, classé dans la catégorie B ;
 
 3° Le corps des dessinateurs, classé dans la catégorie C.

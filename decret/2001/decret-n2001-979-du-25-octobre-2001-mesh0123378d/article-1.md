@@ -8,6 +8,6 @@ Une nouvelle bonification indiciaire, dont le montant est pris en compte et soum
 
 15 points majorés ;
 
-3. Adjoints techniques encadrant au moins cinq personnes :
+3. Techniciens supérieurs encadrant au moins cinq personnes :
 
 15 points majorés.

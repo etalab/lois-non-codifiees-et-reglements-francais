@@ -669,6 +669,8 @@
 - [Arrêté du 19 décembre 2002 (BUDD0204004A)](arrete-du-19-decembre-2002-budd0204004a)
 - [Arrêté du 19 décembre 2002 (INTC0200708A)](arrete-du-19-decembre-2002-intc0200708a)
 - [Arrêté du 19 décembre 2003 (BUDF0320070A)](arrete-du-19-decembre-2003-budf0320070a)
+- [Arrêté du 19 décembre 2003 (JUSF0350153A)](arrete-du-19-decembre-2003-jusf0350153a)
+- [Arrêté du 19 décembre 2003 (JUSF0350154A)](arrete-du-19-decembre-2003-jusf0350154a)
 - [Arrêté du 19 décembre 2003 (SANS0324739A)](arrete-du-19-decembre-2003-sans0324739a)
 - [Arrêté du 19 décembre 2003 (SANS0324984A)](arrete-du-19-decembre-2003-sans0324984a)
 - [Arrêté du 19 février 2003 (EQUU0300382A)](arrete-du-19-fevrier-2003-equu0300382a)

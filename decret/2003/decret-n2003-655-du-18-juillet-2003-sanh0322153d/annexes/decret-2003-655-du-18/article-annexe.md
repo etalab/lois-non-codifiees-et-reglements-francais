@@ -32,7 +32,7 @@ CAP n° 4 : Personnels d'encadrement technique et ouvrier
 
 Groupe unique
 
-Sous-groupe unique : adjoints techniques de classe exceptionnelle, adjoints techniques de classe supérieure, agents-chefs de 1re catégorie, adjoints techniques de classe normale, agents-chefs de 2e catégorie.
+Sous-groupe unique : techniciens supérieurs hospitaliers chefs, techniciens supérieurs hospitaliers principaux, agents-chefs de 1re catégorie, techniciens supérieurs hospitaliers, agents-chefs de 2e catégorie.
 
 CAP n° 5 : Personnels des services de soins, des services médico-techniques et des services sociaux
 

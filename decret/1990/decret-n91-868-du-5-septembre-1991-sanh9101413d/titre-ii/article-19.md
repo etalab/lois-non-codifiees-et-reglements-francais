@@ -2,11 +2,9 @@
 
 I. - Les concours et examens professionnels de recrutement prévus en application des articles 29 et 35 du titre IV du statut général des fonctionnaires sont ouverts et organisés :
 
-a) En ce qui concerne le corps des ingénieurs hospitaliers :
+a) En ce qui concerne le corps des ingénieurs hospitaliers : pour le compte de plusieurs établissements de la région, par l'autorité investie du pouvoir de nomination dans l'établissement de la région comptant le plus grand nombre de lits ;
 
-pour le compte de plusieurs établissements de la région, par l'autorité investie du pouvoir de nomination dans l'établissement de la région comptant le plus grand nombre de lits ;
-
-b) En ce qui concerne le corps des adjoints techniques : pour le compte de plusieurs établissements du département, par l'autorité investie du pouvoir de nomination dans l'établissement du département comptant le plus grand nombre de lits ;
+b) En ce qui concerne le corps des techniciens supérieurs  : pour le compte de plusieurs établissements du département, par l'autorité investie du pouvoir de nomination dans l'établissement du département comptant le plus grand nombre de lits ;
 
 c) En ce qui concerne les corps visés aux a et b : pour le compte d'un seul établissement, par l'autorité investie du pouvoir de nomination dans l'établissement intéressé, après accord, selon le cas, du préfet de région ou du préfet de département ;
 
@@ -14,7 +12,7 @@ d) En ce qui concerne le corps des dessinateurs : par l'autorité investie du po
 
 II. - Les avis de ces concours et examens professionnels :
 
-a) En ce qui concerne les corps des ingénieurs hospitaliers et des adjoints techniques, sont publiés au Journal officiel de la République française par le ministre chargé de la santé ;
+a) En ce qui concerne les corps des ingénieurs hospitaliers et des techniciens supérieurs, sont publiés au Journal officiel de la République française par le ministre chargé de la santé ;
 
 b) En ce qui concerne le corps des dessinateurs, sont affichés le même jour dans l'établissement intéressé et dans les sous-préfectures du département dans lequel se trouve situé cet établissement.
 
@@ -30,6 +28,6 @@ V. - Les durées de services ou de fonctions exigées sont appréciées au 31 d�
 
 VI. - Le nombre des personnes inscrites sur la liste complémentaire d'un concours ne peut excéder le nombre des emplois à pourvoir par ce concours.
 
-VII. - Lorsqu'il existe plus d'un emploi à pourvoir par concours, la moitié au moins de ces emplois doit être pourvue en application des dispositions du b du 1° des articles 5, 6, 12 et 17 ci-dessus.
+VII. - Lorsqu'il existe plus d'un emploi à pourvoir par concours, la moitié au moins de ces emplois doit être pourvue en application des dispositions du b du 1° des articles 5, 6, et 17 ci-dessus.
 
-Lorsqu'il n'existe qu'un emploi à pourvoir, cet emploi est indifféremment pourvu soit en application du a, soit en application du b desdits articles.
+Lorsqu'il n'existe qu'un emploi à pourvoir, cet emploi est indifféremment pourvu soit en application du a ou du b des articles 5, 6, 12 et 17 ci-dessus, soit en application du c de l'article 12.
