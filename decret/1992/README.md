@@ -56,7 +56,6 @@
 - [Décret n°92-120 du 3 février 1992 (MAEJ9130072D)](decret-n92-120-du-3-fevrier-1992-maej9130072d)
 - [Décret n°92-121 du 3 février 1992 (MAEJ9130073D)](decret-n92-121-du-3-fevrier-1992-maej9130073d)
 - [Décret n°92-123 du 3 février 1992 (SPSS9102887D)](decret-n92-123-du-3-fevrier-1992-spss9102887d)
-- [Décret n°92-17 du 3 janvier 1992 (TEFX9100213D)](decret-n92-17-du-3-janvier-1992-tefx9100213d)
 - [Décret n°92-200 du 3 mars 1992 (INTC9200081D)](decret-n92-200-du-3-mars-1992-intc9200081d)
 - [Décret n°92-201 du 3 mars 1992 (INTC9200082D)](decret-n92-201-du-3-mars-1992-intc9200082d)
 - [Décret n°92-205 du 3 mars 1992 (SANH9200269D)](decret-n92-205-du-3-mars-1992-sanh9200269d)

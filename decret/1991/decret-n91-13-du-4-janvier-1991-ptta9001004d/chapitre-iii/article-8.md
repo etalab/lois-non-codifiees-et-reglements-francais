@@ -1,5 +1,0 @@
-# Article 8
-
-Peuvent être promus au grade d'infirmier principal ou infirmière principale les fonctionnaires qui appartiennent au moins au 9e échelon du grade d'infirmier ou infirmière et qui justifient de cinq ans de services dans ce grade ou dans un corps de catégorie B ou de niveau équivalent.
-
-Les intéressés sont nommés à l'échelon comportant un traitement égal ou, à défaut, immédiatement supérieur au traitement perçu dans leur grade précédent. Dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon supérieur, ils conservent l'ancienneté qu'ils avaient acquise dans l'échelon de leur précédent grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans ce grade. Les infirmiers principaux et infirmières principales promus alors qu'ils avaient atteint l'échelon le plus élevé de leur précédent grade conservent leur ancienneté d'échelon dans les mêmes limites, lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur a procurée leur avancement audit échelon.
