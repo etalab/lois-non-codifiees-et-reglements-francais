@@ -1,4 +1,4 @@
-# Arrêté du 29 décembre 1986 fixant les tarifs des cotisations d'accidents du travail pour les exploitations minières et assimilées
+# Arrêté du 29 décembre 1986 relatif aux taux de calcul du soutien financier aux exploitants de salles de spectacles cinématographiques
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur de la sécurité sociale et le directeur du gaz, de l'électricité et du charbon sont chargés de l'exécution du présent arrêté, qui prend effet du 1er janvier 1987 et s'applique aux rémunérations versées à compter de ladite date d'effet.
+Les subventions susceptibles d'être allouées en application des dispositions de l'article 1er du présent arrêté ne peuvent, en aucun cas, pour chaque salle, être d'un montant inférieur à celui qui résulterait de l'application au produit de la taxe prise en compte d'un taux unique de 30 p. 100.
