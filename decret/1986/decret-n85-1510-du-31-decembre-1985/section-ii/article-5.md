@@ -1,0 +1,3 @@
+# Article 5
+
+N'appartiennent pas aux collèges électoraux [*composition*] prévus au quatrième alinéa de l'article 103-4 de la loi n° 83-8 du 7 janvier 1983 modifiée et ne sont pas représentés au sein de la commission prévue au premier alinéa de cet article les maires et les présidents de groupements de communes touristiques et thermales, dont la population n'excède pas 2000 habitants, lorsque ces communes ou ces groupements perçoivent la dotation supplémentaire prévue à l'article L. 234-13 du code des communes et lorsqu'elles ont exercé l'option en faveur de la première part de la dotation globale d'équipement.

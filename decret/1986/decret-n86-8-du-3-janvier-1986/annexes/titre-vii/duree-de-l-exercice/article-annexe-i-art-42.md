@@ -1,0 +1,3 @@
+# Article Annexe I art. 42
+
+L'exercice commence le ... et finit le ....
