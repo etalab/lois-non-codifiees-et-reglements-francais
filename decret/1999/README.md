@@ -177,6 +177,7 @@
 - [Décret n°99-359 du 10 mai 1999 (MESS9920836D)](decret-n99-359-du-10-mai-1999-mess9920836d)
 - [Décret n°99-377 du 10 mai 1999 (PRMX9903564D)](decret-n99-377-du-10-mai-1999-prmx9903564d)
 - [Décret n°2000-407 du 10 mai 2000 (MESG0020769D)](decret-n2000-407-du-10-mai-2000-mesg0020769d)
+- [Décret n°2000-661 du 11 juillet 2000 (EQUA0000625D)](decret-n2000-661-du-11-juillet-2000-equa0000625d)
 - [Décret n°99-101 du 11 février 1999 (MENF9803241D)](decret-n99-101-du-11-fevrier-1999-menf9803241d)
 - [Décret n°99-14 du 11 janvier 1999 (MENS9802654D)](decret-n99-14-du-11-janvier-1999-mens9802654d)
 - [Décret n°99-15 du 11 janvier 1999 (ECOT9810360D)](decret-n99-15-du-11-janvier-1999-ecot9810360d)
