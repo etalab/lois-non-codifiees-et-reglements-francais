@@ -1,3 +1,5 @@
 # Article 6
 
-Le directeur des personnels d'enseignement supérieur au ministère de l'éducation nationale, le directeur des hôpitaux au ministère des affaires sociales et de la solidarité nationale, le directeur général des relations culturelles, scientifiques et techniques et le directeur des projets de développement au ministère des relations extérieures sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Par dérogation aux dispositions de l'article 2 et de l'article 3, dernier alinéa, du présent arrêté, les grues à tour munies d'un certificat de conformité établi sur la base d'une attestation d'examen C.E.E. de type relative aux valeurs limites de la phase I peuvent être mises sur le marché ou mises en service jusqu'au 26 mars 1990 [*date limite*].
+
+Ce délai de validité doit être indiqué sur les certificats de conformité concernés.
