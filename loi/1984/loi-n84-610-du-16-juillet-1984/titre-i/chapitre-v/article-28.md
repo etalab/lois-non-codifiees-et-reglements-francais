@@ -1,0 +1,5 @@
+# Article 28
+
+Les établissements de l'enseignement supérieur favorisent l'accès des sportifs de haut niveau, qu'ils possèdent ou non des titres universitaires, à des enseignements de formation ou de perfectionnement, dans les conditions définies par les articles 5 et 14 de la loi n° 84-52 du 26 janvier 1984 sur l'enseignement supérieur.
+
+Les sportifs de haut niveau, sans remplir les conditions de diplômes exigées des candidats, peuvent faire acte de candidature aux concours de l'Etat, des départements, des communes, des établissements publics nationaux, départementaux et communaux et de tout établissement en dépendant, ainsi que de toute société nationale ou d'économie mixte. Le statut particulier du corps des professeurs de sport peut fixer une proportion d'emplois réservés aux sportifs de haut niveau, même n'appartenant pas à l'administration, ayant figuré pendant trois ans au moins sur la liste visée à l'article 26 de la présente loi. Les candidats devront satisfaire aux épreuves d'un concours de sélection spécifique.
