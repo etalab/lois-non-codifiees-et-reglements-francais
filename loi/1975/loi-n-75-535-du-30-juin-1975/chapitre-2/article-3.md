@@ -23,3 +23,5 @@ Un décret en Conseil d'Etat fixe la liste des services à caractère social ou 
 Un décret déterminera les cas dans lesquels les extensions visées ci-dessus devront, du fait de leur importance, être subordonnées à un avis de la commission régionale ou nationale des institutions sociales ou médico-sociales.
 
 Les dispositions de la loi n° 70-1318 du 31 décembre 1970 ne sont pas applicables aux établissements ci-dessus énumérés, quel que soit leur objet.
+
+Les dispositions du présent article sont applicables aux personnes physiques qui accueillent habituellement de manière temporaire ou permanente, à temps complet ou partiel, à leur domicile, à titre onéreux, plus de deux personnes âgées ou plus de deux personnes handicapées adultes, sauf dérogation accordée en vertu de l'article 1er de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers, à leur domicile, à titre onéreux, de personnes âgées ou handicapées adultes.
