@@ -2,6 +2,12 @@
 
 Les dépenses du fonds social sont les suivantes :
 
-a) Attribution de prêts à des organismes sociaux qui font bénéficier de leurs services les allocataires de l'I.R.C.A.N.T.E.C. ;
+A - Au titre des actions sociales individuelles : attribution d'aides et de secours individuels aux allocataires de l'IRCANTEC.
 
-b) Attribution d'aides et secours individuels aux allocataires de l'I.R.C.A.N.T.E.C..
+B - Au titre des actions sociales collectives :
+
+Octroi de prêts à des organismes sociaux pour la réalisation de projets immobiliers bénéficiant aux allocataires de l'IRCANTEC ;
+
+Participation à la réalisation de projets immobiliers bénéficiant aux allocataires de l'IRCANTEC ;
+
+Participation à des actions ou services collectifs bénéficiant aux allocataires de l'IRCANTEC.
