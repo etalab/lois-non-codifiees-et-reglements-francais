@@ -14,7 +14,7 @@ II. - Sont exclus du champ d'application du présent décret :
 
 - les équipements de protection individuels soumis aux dispositions du décret du 29 juillet 1992 susvisé ;
 
-- les navires, les plates-formes marines ainsi que les équipements installés à bord de ces navires ou de ces plates-formes ;
+- les navires, les plates-formes marines mobiles ainsi que les équipements installés à bord de ces navires ou de ces plates-formes ;
 
 - les moyens de transport par voie aérienne ou par voie d'eau, par route ou par fer destinés uniquement au transport de personnes ou conçus pour le transport des marchandises, lorsqu'il ne s'agit pas de véhicules destinés à être utilisés dans une atmosphère explosible ainsi que les équipements dont ils sont dotés ;
 
