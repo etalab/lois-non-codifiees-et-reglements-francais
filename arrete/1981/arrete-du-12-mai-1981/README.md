@@ -1,4 +1,4 @@
-# Arrêté du 12 mai 1981 GRATUITE DU VISA DES PASSEPORTS TURCS ET SUD-AFRICAINS
+# Arrêté du 12 mai 1981 portant fixation du seuil au-dessus duquel les avis d'adjudication, d'appel d'offres ou d'appel de candidatures se rapportant aux marchés de l'Etat et à ceux des collectivités locales et de leurs établissements publics doivent être publiés au "Bulletin officiel des Annonces des Marchés publics"
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
