@@ -433,6 +433,7 @@
 - [Arrêté du 22 juin 1988 (PRME8861156A)](arrete-du-22-juin-1988-prme8861156a)
 - [Arrêté du 22 juin 1988 (SPSS8800873A)](arrete-du-22-juin-1988-spss8800873a)
 - [Arrêté du 22 mars 1988 (PTTM8800227A)](arrete-du-22-mars-1988-pttm8800227a)
+- [Arrêté du 22 septembre 1988 (ECOT8811032A)](arrete-du-22-septembre-1988-ecot8811032a)
 - [Arrêté du 23 août 1988 (SPSH8801297A)](arrete-du-23-aout-1988-spsh8801297a)
 - [Arrêté du 23 août 1988 (SPSH8801298A)](arrete-du-23-aout-1988-spsh8801298a)
 - [Arrêté du 23 août 1988 (SPSS8801285A)](arrete-du-23-aout-1988-spss8801285a)
