@@ -318,7 +318,7 @@ Urbanisme, aménagement, développement, Paris-VIII.
 
 Urbanisme, aménagement, environnement, Reims.
 
-Urbanisme, aménagement et développement rural, I.E.P. Paris.
+Urbanisme, aménagement et développement local, I.E.P. Paris.
 
 Urbanisme, habitat et aménagement, Perpignan.
 
