@@ -1,6 +1,6 @@
 # Article 1
 
-Les subventions versées au Centre national de la cinématographie en application du II (2°, b) de l'article 57 de la loi de finances pour 1996 sont destinées :.
+Les aides accordées à l'industrie des programmes audiovisuels en application des dispositions de l'article 1er du décret du 14 janvier 1998 susvisé sont destinées :
 
 I. - A l'octroi d'aides dites d'investissement
 
@@ -17,6 +17,10 @@ b) A la préparation de la réalisation des oeuvres audiovisuelles appartenant �
 a) A la production d'oeuvres audiovisuelles appartenant au genre magazine et présentant un intérêt particulier d'ordre culturel.
 
 b) A la production d'oeuvres audiovisuelles de courte durée, appartenant au genre vidéomusique et mettant en images une composition musicale préexistante. Ces oeuvres doivent être d'expression originale française.
+
+c) A la production d'oeuvres audiovisuelles dites pilotes appartenant au genre animation. Ces aides sont attribuées sur dossier par le directeur général du Centre national de la cinématographie.
+
+Une convention établie entre le Centre national de la cinématographie et l'organisme bénéficiaire fixe les modalités d'attribution et les conditions de versement des subventions accordées. La convention précise également les circonstances dans lesquelles les subventions accordées sont sujettes à répétition.
 
 II. - A l'octroi d'aides dites de réinvestissement
 
@@ -55,3 +59,11 @@ Elles prennent la forme de subventions tant que le montant des aides allouées �
 Ces aides sont attribuées après avis d'une commission.
 
 Les modalités d'attribution de ces aides et la composition de la commission sont fixées par arrêté conjoint du ministre chargé de l'économie, du ministre chargé de la culture et du ministre chargé du budget.
+
+VI. - A l'octroi d'aides destinées à des coproductions réalisées dans le cadre d'accords intergouvernementaux.
+
+Ces aides sont accordées selon les critères fixés par des accords intergouvernementaux et dans les conditions fixées par le présent décret :
+
+1° Pour la coproduction d'oeuvres audiovisuelles ;
+
+2° Pour le développement de projets de coproductions d'oeuvres audiovisuelles.
