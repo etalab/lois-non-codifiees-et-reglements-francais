@@ -16,7 +16,7 @@ Les poissons et écrevisses des espèces précisées ci-après ne peuvent être 
 
 0,30 mètre pour les aloses, l'ombre commun et le corégone ;
 
-0,27 mètre pour les lamproies marine et fluviatile ;
+0,25 mètre pour les lamproies marine et fluviatile ;
 
 0,23 mètre pour les truites autres que la truite de mer, l'omble ou saumon de fontaine et l'omble chevalier ;
 
