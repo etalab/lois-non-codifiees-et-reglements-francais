@@ -107,7 +107,6 @@
 - [Décret n°85-1356 du 20 décembre 1985](decret-n85-1356-du-20-decembre-1985)
 - [Décret n°85-1359 du 20 décembre 1985](decret-n85-1359-du-20-decembre-1985)
 - [Décret n°85-1366 du 20 décembre 1985](decret-n85-1366-du-20-decembre-1985)
-- [Décret n°85-253 du 20 février 1985](decret-n85-253-du-20-fevrier-1985)
 - [Décret n°85-349 du 20 mars 1985](decret-n85-349-du-20-mars-1985)
 - [Décret n°85-624 du 20 juin 1985](decret-n85-624-du-20-juin-1985)
 - [Décret n°85-995 du 20 septembre 1985](decret-n85-995-du-20-septembre-1985)
