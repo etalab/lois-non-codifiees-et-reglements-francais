@@ -1,6 +1,6 @@
 # Article 5
 
-Par dérogation aux dispositions de l'article 4, au cas où le chef d'exploitation agricole ne satisfait plus à la condition prévue à l'article 1003-7-1-I, à la suite d'une expropriation, d'une opération de remembrement, d'une reprise de terres par le propriétaire ou d'une augmentation de la surface minimum d'installation, il est maintenu, sur sa demande, au régime de protection sociale des personnes non salariées des professions agricoles pendant les cinq années civiles suivantes, sur décision du conseil d'administration de la caisse de mutualité sociale agricole dont il relève, sous réserve de remplir, au cours de cette période, les conditions prévues aux articles 1er et 2.
+Par dérogation aux dispositions de l'article 4, au cas où le chef d'exploitation agricole ne satisfait plus à la condition prévue à l'article 1003-7-1-I, à la suite d'une expropriation, d'une opération de remembrement, d'une reprise de terres par le propriétaire ou d'une augmentation de la surface minimum d'installation, il est maintenu, sur sa demande, au régime de protection sociale des personnes non salariées des professions agricoles pendant les cinq années civiles suivantes, sur décision du conseil d'administration de la caisse de mutualité sociale agricole dont il relève, sous réserve de remplir, au cours de cette période, les conditions prévues à l'article 1er.
 
 A l'issue de ces cinq années, sont maintenus au régime, dans les conditions fixées à l'alinéa précédent :
 
