@@ -332,7 +332,6 @@
 - [Décret n°94-582 du 12 juillet 1994 (PRMX9400068D)](decret-n94-582-du-12-juillet-1994-prmx9400068d)
 - [Décret n°94-583 du 12 juillet 1994 (PRMX9400077D)](decret-n94-583-du-12-juillet-1994-prmx9400077d)
 - [Décret n°94-600 du 12 juillet 1994 (EQUA9401101D)](decret-n94-600-du-12-juillet-1994-equa9401101d)
-- [Décret n°94-601 du 12 juillet 1994 (AGRG9400865D)](decret-n94-601-du-12-juillet-1994-agrg9400865d)
 - [Décret n°94-602 du 12 juillet 1994 (AGRS9400209D)](decret-n94-602-du-12-juillet-1994-agrs9400209d)
 - [Décret n°94-615 du 12 juillet 1994 (SPSX9400064D)](decret-n94-615-du-12-juillet-1994-spsx9400064d)
 - [Décret n°94-692 du 12 août 1994 (JUSB9410437D)](decret-n94-692-du-12-aout-1994-jusb9410437d)
