@@ -1,3 +1,0 @@
-# (en francs)
-
-- [Opérations.](operations)

@@ -22,7 +22,6 @@
 - [Décret n°88-945 du 5 octobre 1988 (INTX8800129D)](decret-n88-945-du-5-octobre-1988-intx8800129d)
 - [Décret n°88-946 du 5 octobre 1988 (DOMX8800130D)](decret-n88-946-du-5-octobre-1988-domx8800130d)
 - [Décret n°88-574 du 5 mai 1988 (ASES8800657D)](decret-n88-574-du-5-mai-1988-ases8800657d)
-- [Décret n°88-643 du 5 mai 1988 (MENX8800034D)](decret-n88-643-du-5-mai-1988-menx8800034d)
 - [Décret n°74-930 du 6 novembre 1974](decret-n74-930-du-6-novembre-1974)
 - [Décret n°88-949 du 6 octobre 1988 (JUSF8850115D)](decret-n88-949-du-6-octobre-1988-jusf8850115d)
 - [Décret n°88-950 du 6 octobre 1988 (SPSH8801075D)](decret-n88-950-du-6-octobre-1988-spsh8801075d)

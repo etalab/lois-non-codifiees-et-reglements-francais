@@ -282,7 +282,6 @@
 - [Arrêté du 13 décembre 1988 (TEFT8804182A)](arrete-du-13-decembre-1988-teft8804182a)
 - [Arrêté du 13 décembre 1989 (ECOT8910060A)](arrete-du-13-decembre-1989-ecot8910060a)
 - [Arrêté du 13 février 1989 (INDA8900080A)](arrete-du-13-fevrier-1989-inda8900080a)
-- [Arrêté du 13 février 1989 (INDA8900087A)](arrete-du-13-fevrier-1989-inda8900087a)
 - [Arrêté du 13 février 1989 (PTTT8900160A)](arrete-du-13-fevrier-1989-pttt8900160a)
 - [Arrêté du 13 janvier 1989 (ECOS8960003A)](arrete-du-13-janvier-1989-ecos8960003a)
 - [Arrêté du 13 janvier 1989 (INTE8900038A)](arrete-du-13-janvier-1989-inte8900038a)
