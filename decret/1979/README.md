@@ -61,6 +61,7 @@
 - [Décret n°79-346 du 25 avril 1979](decret-n79-346-du-25-avril-1979)
 - [Décret n°79-88 du 25 janvier 1979](decret-n79-88-du-25-janvier-1979)
 - [Décret n°79-89 du 25 janvier 1979](decret-n79-89-du-25-janvier-1979)
+- [Décret n°79-413 du 25 mai 1979](decret-n79-413-du-25-mai-1979)
 - [Décret n°78-1295 du 26 décembre 1978](decret-n78-1295-du-26-decembre-1978)
 - [Décret n°78-1306 du 26 décembre 1978](decret-n78-1306-du-26-decembre-1978)
 - [Décret n°79-153 du 26 février 1979](decret-n79-153-du-26-fevrier-1979)
