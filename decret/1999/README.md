@@ -681,7 +681,6 @@
 - [Décret n°99-48 du 22 janvier 1999 (DEFP9852030D)](decret-n99-48-du-22-janvier-1999-defp9852030d)
 - [Décret n°99-627 du 22 juillet 1999 (ECOI9900274D)](decret-n99-627-du-22-juillet-1999-ecoi9900274d)
 - [Décret n°99-628 du 22 juillet 1999 (EQUU9900577D)](decret-n99-628-du-22-juillet-1999-equu9900577d)
-- [Décret n°99-631 du 22 juillet 1999 (MESS9920460D)](decret-n99-631-du-22-juillet-1999-mess9920460d)
 - [Décret n°99-829 du 22 septembre 1999 (PRMX9903758D)](decret-n99-829-du-22-septembre-1999-prmx9903758d)
 - [Décret n°99-836 du 22 septembre 1999 (EQUU9901127D)](decret-n99-836-du-22-septembre-1999-equu9901127d)
 - [Décret n°99-838 du 22 septembre 1999 (MESG9922417D)](decret-n99-838-du-22-septembre-1999-mesg9922417d)
