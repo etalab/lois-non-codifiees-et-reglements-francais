@@ -140,6 +140,7 @@
 - [Décret n°88-987 du 17 octobre 1988 (INTB8800343D)](decret-n88-987-du-17-octobre-1988-intb8800343d)
 - [Décret n°88-988 du 17 octobre 1988 (INTA8800330D)](decret-n88-988-du-17-octobre-1988-inta8800330d)
 - [Décret n°88-990 du 17 octobre 1988 (PTTA8800550D)](decret-n88-990-du-17-octobre-1988-ptta8800550d)
+- [Décret n°69-389 du 18 avril 1969](decret-n69-389-du-18-avril-1969)
 - [Décret n°88-1052 du 18 novembre 1988 (BUDF8810091D)](decret-n88-1052-du-18-novembre-1988-budf8810091d)
 - [Décret n°88-274 du 18 mars 1988 (EQUC8800061D)](decret-n88-274-du-18-mars-1988-equc8800061d)
 - [Décret n°88-61 du 18 janvier 1988 (ASES8701861D)](decret-n88-61-du-18-janvier-1988-ases8701861d)
