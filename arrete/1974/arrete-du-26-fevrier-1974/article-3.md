@@ -1,5 +1,5 @@
 # Article 3
 
-A modifié les dispositions suivantes
+La fabrication pour le marché intérieur de réservoirs non conformes aux dispositions du présent arrêté est interdite au-delà d'un délai de deux mois à compter de la publication du présent arrêté.
 
-Arrêté du 12 septembre 1989
+La détention en vue de la vente et la vente sur le marché intérieur de réservoirs non conformes aux dispositions du présent arrêté sont interdites au-delà d'un délai de quatre mois à compter de la publication du présent arrêté.
