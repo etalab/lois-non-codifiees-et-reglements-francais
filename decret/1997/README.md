@@ -179,6 +179,8 @@
 - [Décret n°97-68 du 27 janvier 1997 (AGRP9600133D)](decret-n97-68-du-27-janvier-1997-agrp9600133d)
 - [Décret n°97-77 du 27 janvier 1997 (EQUS9600808D)](decret-n97-77-du-27-janvier-1997-equs9600808d)
 - [Décret n°88-303 du 28 mars 1988 (RESY8800358D)](decret-n88-303-du-28-mars-1988-resy8800358d)
+- [Décret n°97-180 du 28 février 1997 (JUSD9730050D)](decret-n97-180-du-28-fevrier-1997-jusd9730050d)
+- [Décret n°97-181 du 28 février 1997 (INDE9700098D)](decret-n97-181-du-28-fevrier-1997-inde9700098d)
 - [Décret n°97-69 du 28 janvier 1997 (JUSG9660070D)](decret-n97-69-du-28-janvier-1997-jusg9660070d)
 - [Décret n°97-71 du 28 janvier 1997 (JUSF9650110D)](decret-n97-71-du-28-janvier-1997-jusf9650110d)
 - [Décret n°97-72 du 28 janvier 1997 (DEFP9602118D)](decret-n97-72-du-28-janvier-1997-defp9602118d)

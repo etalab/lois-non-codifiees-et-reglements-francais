@@ -242,6 +242,7 @@
 - [Arrêté du 27 décembre 1996 (MIPP9600536A)](arrete-du-27-decembre-1996-mipp9600536a)
 - [Arrêté du 27 décembre 1996 (TASS9611842A)](arrete-du-27-decembre-1996-tass9611842a)
 - [Arrêté du 27 décembre 1996 (TASS9611845A)](arrete-du-27-decembre-1996-tass9611845a)
+- [Arrêté du 27 février 1997 (ECOT9710297A)](arrete-du-27-fevrier-1997-ecot9710297a)
 - [Arrêté du 27 janvier 1997 (AGRA9602587A)](arrete-du-27-janvier-1997-agra9602587a)
 - [Arrêté du 27 janvier 1997 (AGRA9602588A)](arrete-du-27-janvier-1997-agra9602588a)
 - [Arrêté du 27 janvier 1997 (AGRP9700151A)](arrete-du-27-janvier-1997-agrp9700151a)
