@@ -1,3 +1,3 @@
 # Article 20
 
-En cas de refus de la concession, la décision du ministre chargé de l'électricité est motivée.
+En cas de refus de la concession, la décision de l'autorité administrative est motivée.

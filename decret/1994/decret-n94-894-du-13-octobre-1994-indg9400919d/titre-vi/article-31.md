@@ -1,6 +1,6 @@
 # Article 31
 
-Dans tous les cas, le concessionnaire doit fournir entre le début de la cinquième année et la fin de la deuxième année précédant la date normale de la fin de la concession, au ministre chargé de l'électricité, un dossier dit " de fin de concession ".
+Dans tous les cas, à la demande du préfet et, en tout état de cause, au plus tard deux ans avant la fin de la concession, le concessionnaire doit fournir à l'autorité administrative compétente un dossier dit "de fin de concession".
 
 Ce dossier comporte les pièces suivantes :
 

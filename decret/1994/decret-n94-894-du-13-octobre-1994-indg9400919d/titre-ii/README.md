@@ -1,4 +1,4 @@
-# TITRE II : Instruction des demandes intéressant les cours d'eau non domaniaux.
+# TITRE II : Instruction des demandes par le ministre chargé de l'électricité.
 
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)

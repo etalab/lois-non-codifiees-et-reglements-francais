@@ -1,3 +1,3 @@
-# TITRE III : Instruction des demandes intéressant les cours d'eau domaniaux ou utilisant l'énergie des marées.
+# TITRE III : Instruction des demandes par le préfet du département.
 
 - [Article 18](article-18.md)
