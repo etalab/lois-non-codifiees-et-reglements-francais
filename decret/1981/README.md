@@ -21,6 +21,7 @@
 - [Décret n°81-102 du 4 février 1981](decret-n81-102-du-4-fevrier-1981)
 - [Décret n°81-113 du 4 février 1981](decret-n81-113-du-4-fevrier-1981)
 - [Décret n°80-984 du 5 décembre 1980](decret-n80-984-du-5-decembre-1980)
+- [Décret n°81-648 du 5 juin 1981](decret-n81-648-du-5-juin-1981)
 - [Décret n°81-120 du 6 février 1981](decret-n81-120-du-6-fevrier-1981)
 - [Décret n°81-6 du 6 janvier 1981](decret-n81-6-du-6-janvier-1981)
 - [Décret n°80-522 du 7 juillet 1980](decret-n80-522-du-7-juillet-1980)
