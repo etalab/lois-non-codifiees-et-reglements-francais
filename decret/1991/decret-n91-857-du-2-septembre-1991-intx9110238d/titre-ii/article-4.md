@@ -12,9 +12,7 @@ Sont inscrits sur la liste d'aptitude prévue au 1° de l'article 3 ci-dessus le
 
 Ces concours sont également ouverts, pour l'enseignement des arts plastiques, aux candidats justifiant d'une pratique artistique appréciée par le ministre chargé de la culture, après avis d'une commission créée par arrêté du même ministre.
 
-Le Centre national de la fonction publique territoriale est chargé de la coordination générale de l'organisation des concours. Nul ne peut participer plus de trois fois au total à ces concours.
-
-Lorsque le nombre des candidats ayant subi avec succès les épreuves d'un concours externe ou d'un concours interne est inférieur au nombre de places offertes à ce concours, le jury peut modifier la répartition des places entre les deux concours dans la limite de 15 p. 100 des places offertes à l'un ou l'autre des concours ou d'une place au moins.
+Le Centre national de la fonction publique territoriale est chargé de la coordination générale de l'organisation des concours.    Lorsque le nombre des candidats ayant subi avec succès les épreuves d'un concours externe ou d'un concours interne est inférieur au nombre de places offertes à ce concours, le jury peut modifier la répartition des places entre les deux concours dans la limite de 15 p. 100 des places offertes à l'un ou l'autre des concours ou d'une place au moins.
 
 Les concours sur épreuves comprennent des épreuves d'admissibilité et des épreuves d'admission dont les modalités sont fixées par décret et les programmes par arrêté conjoint du ministre chargé des collectivités territoriales et du ministre chargé de la culture.
 

@@ -57,3 +57,5 @@ Il est créé au sommet du grade d'aide médico-technique qualifié les échelon
 </table>
 
 Ces échelons sont créés pour l'intégration et l'avancement des aides médico-techniques qualifiés intégrés à partir d'un emploi d'aide technique de laboratoire ou d'aide technique d'électroradiologie. Ces fonctionnaires sont, par dérogation aux dispositions du dernier alinéa de l'article 13 ci-dessus, intégrés à indice égal ou immédiatement supérieur.
+
+Les durées maximale et minimale du 11e échelon du grade d'aide médico-technique qualifié pour avancer au 1er échelon provisoire sont respectivement d'un an six mois et d'un an. "

@@ -2,9 +2,9 @@
 
 Les dispositions du premier alinéa de l'article 53 de la loi n° 84-53 du 26 janvier 1984 [*champ d'application*] susvisée s'appliquent aux emplois de directeur et de directeur adjoint des établissements publics suivants :
 
-a) Communautés urbaines ;
+a) Communautés urbaines et communautés de villes ;
 
-b) Syndicats d'agglomération nouvelle, districts et syndicats intercommunaux ;
+b) Syndicats d'agglomération nouvelle, districts, syndicats intercommunaux et communautés de communes ; ".
 
 c) Centres de gestion.
 

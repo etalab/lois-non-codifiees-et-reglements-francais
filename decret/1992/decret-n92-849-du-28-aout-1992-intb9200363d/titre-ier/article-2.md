@@ -6,4 +6,6 @@ En qualité d'aide ménagère ou d'auxiliaire de vie, ils sont chargés d'assure
 
 En qualité de travailleur familial, ils sont chargés d'assurer à domicile des activités ménagères et familiales, soit au foyer des mères de famille, qu'ils aident ou qu'ils suppléent, soit auprès de personnes âgées, infirmes ou invalides. Ils contribuent à maintenir ou à rétablir l'équilibre dans les familles où ils interviennent. Ils accomplissent les diverses tâches ménagères qu'exige la vie quotidienne et assurent la surveillance des enfants. A l'occasion de ces tâches concrètes, ils exercent une action d'ordre social, préventif et éducatif.
 
+" Les agents sociaux peuvent également assurer des tâches similaires dans des établissements d'accueil et d'hébergement pour personnes âgées ou handicapées. "
+
 Les agents qualifiés de 2e ou de 1re classe exécutent les tâches énumérées ci-dessus, qui requièrent une expérience particulière.

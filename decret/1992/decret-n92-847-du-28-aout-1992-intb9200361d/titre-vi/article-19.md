@@ -4,4 +4,4 @@ Sont intégrés en qualité de titulaires dans ce cadre d'emplois, lorsqu'à la 
 
 1° Les moniteurs-éducateurs des départements, des régions et des établissements publics départementaux et régionaux ;
 
-2° Les fonctionnaires nommés dans un emploi socio-éducatif créé sur le fondement de l'article L. 412-2 du code des communes dont l'indice brut terminal est au moins égal à 465 et qui exercent les fonctions mentionnées à l'article 2 ci-dessus.
+2° Les fonctionnaires nommés dans un emploi socio-éducatif créé sur le fondement de l'article L. 412-2 du code des communes dont l'indice brut terminal est au moins égal à 440 et qui exercent les fonctions mentionnées à l'article 2 ci-dessus.

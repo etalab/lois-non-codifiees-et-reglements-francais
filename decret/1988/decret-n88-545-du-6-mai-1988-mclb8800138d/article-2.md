@@ -4,7 +4,7 @@ La liste des établissements publics mentionnés à l'avant-dernier alinéa de l
 
 a) Centre national de la fonction publique territoriale ;
 
-b) Communautés urbaines de plus de 80 000 habitants ;
+b) Communautés urbaines, communautés de villes et communautés de communes de plus de 80 000 habitants. "
 
 c) Syndicats d'agglomération nouvelle ;
 

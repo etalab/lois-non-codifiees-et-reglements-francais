@@ -183,3 +183,5 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 </table>
 
 Un échelon exceptionnel, doté de l'indice brut 1015 pour les directeurs d'établissements d'enseignement artistique de 1re catégorie, et de l'indice brut 950 pour les directeurs d'établissement d'enseignement artistique de 2e catégorie, est accessible aux directeurs des établissements d'enseignement artistique les plus importants compte tenu de l'effectif des élèves et du personnel enseignant, du nombre des spécialités enseignées et du niveau des enseignements. La liste de ces établissements est fixée par arrêté du ministre chargé de la culture.
+
+" Les durées d'avancement du 9e échelon du grade de directeur de 2e catégorie et du 8e échelon du grade de directeur de 1re catégorie pour avancer aux échelons exceptionnels sont de trois ans six mois en durée maximale et de trois ans en durée minimale. "

@@ -10,8 +10,6 @@ a) A trois en catégories A et B lorsque la commission comporte quatre sièges e
 
 b) A trois en catégorie C ;
 
-c) A deux en catégorie D.
-
 Dans ces cas, les candidats peuvent être présentés pour un groupe hiérarchique ou répartis entre les deux groupes existants.
 
 Les listes sont déposées au moins trente jours avant la date fixée pour les élections. Elles portent le nom d'un fonctionnaire territorial habilité à les représenter dans toutes les opérations électorales, notamment pour l'exercice du choix prévu à l'article 23 ci-après.

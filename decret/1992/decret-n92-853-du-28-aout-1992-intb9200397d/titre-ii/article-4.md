@@ -8,8 +8,6 @@ Sont inscrits sur la liste d'aptitude prévue à l'article 3 ci-dessus les candi
 
 3° Du diplôme de psychologie délivré par l'école des psychologues praticiens de l'Institut catholique de Paris.
 
-Nul ne peut participer plus de trois fois au total à ce concours.
-
 Le concours comporte une épreuve d'admission consistant en un entretien avec un jury chargé d'apprécier les aptitudes des candidats à exercer leur profession dans le cadre des missions remplies par les collectivités territoriales et les établissements publics locaux.
 
 Le Centre national de la fonction publique territoriale est chargé de la coordination générale de l'organisation de ce concours. Les règles de discipline, la date d'ouverture de l'épreuve et la liste des candidats admis à y prendre part sont fixées par le président du Centre national de la fonction publique territoriale. Celui-ci arrête également la liste d'aptitude.

@@ -20,8 +20,6 @@ Le nombre des places offertes, dans chaque spécialité, aux concours internes, 
 
 Au cas où le nombre de candidats ayant subi avec succès les épreuves d'un concours externe ou d'un concours interne est inférieur au nombre des places offertes à ce concours, le jury peut modifier la répartition des places entre les deux concours, dans la limite de 15 p. 100 au plus des places offertes à l'un ou l'autre des concours ou d'une place au moins.
 
-Le Centre national de la fonction publique territoriale est chargé de la coordination générale de l'organisation des concours mentionnés aux a et b ci-dessus. Nul ne peut participer plus de trois fois au total à ces concours.
-
-Les concours sur épreuves comprennent des épreuves d'admissibilité et des épreuves d'admission dont les modalités sont fixées par décret et les programmes par arrêté des ministres chargés des collectivités territoriales et de la culture.
+Le Centre national de la fonction publique territoriale est chargé de la coordination générale de l'organisation des concours mentionnés aux a et b ci-dessus.    Les concours sur épreuves comprennent des épreuves d'admissibilité et des épreuves d'admission dont les modalités sont fixées par décret et les programmes par arrêté des ministres chargés des collectivités territoriales et de la culture.
 
 Les modalités d'organisation des concours, les règles de discipline et la date d'ouverture des épreuves ainsi que la liste des candidats admis à y prendre part sont fixées par le président du Centre national de la fonction publique territoriale. Celui-ci arrête également les listes d'aptitude.
