@@ -1,7 +1,5 @@
 # Article 2
 
-Les épreuves pour l'accès au cycle préparatoire comprennent :
+Pour chaque prime ou indemnité visée aux articles 3 à 10 ci-après, le taux, le montant et les modalités de calcul, selon le cas, ainsi que la date d'effet sont ceux des textes applicables aux fonctionnaires de l'Etat et qui servent de référence pour chacune des primes et indemnités susceptibles d'être allouées aux personnels relevant du livre IX du code de la santé publique.
 
-Admissibilité : la rédaction en quatre heures d'une note de synthèse à partir d'un dossier relatif à l'organisation et au fonctionnement des services et des institutions sanitaires et sociales en France ou, de façon plus générale, aux problèmes sanitaires et sociaux ;
-
-Admission : après une préparation de vingt minutes, une conversation de vingt minutes avec le jury à partir de la lecture d'un texte portant sur des problèmes du monde contemporain : le jury dispose du dossier du candidat.
+L'annexe I du présent arrêté détermine, pour chaque prime ou indemnité, les conditions de renvoi au texte de référence applicable aux fonctionnaires de l'Etat.

@@ -1,3 +1,3 @@
 # Article 12
 
-L'exclusion du concours est prononcée par le jury qui peut, en outre, proposer au ministre de la santé l'interdiction temporaire ou définitive de se présenter à un concours ultérieur. Aucune décision ne peut être prise sans que l'intéressé ait été convoqué et mis à même de présenter sa défense.
+Le directeur général des collectivités locales au ministère de l'intérieur, le directeur du budget au ministère du budget, le directeur général de la santé et des hôpitaux au ministère de la santé et de la sécurité sociale et le directeur des affaires politiques, administratives et financières de l'outre-mer au secrétariat d'Etat auprès du ministère de l'intérieur (Départements et territoires d'outre-mer) sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

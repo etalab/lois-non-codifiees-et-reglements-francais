@@ -1,3 +1,7 @@
 # Article 7
 
-Le cycle préparatoire est organisé par l'Ecole nationale de la santé publique dans des établissements ayant passé une convention avec le directeur de l'Ecole.
+Indemnité horaire de nuit.
+
+Les agents qui assurent totalement ou partiellement leur service normal dans le cadre de la durée hebdomadaire du travail entre 21 heures et 6 heures perçoivent des indemnités horaires.
+
+Lorsque le service normal de nuit nécessite un travail intensif, l'indemnité horaire à laquelle ils peuvent prétendre peut être majorée pour ceux des agents visés à l'alinéa 1er dont la liste est fixée dans l'annexe II-A.

@@ -1,27 +1,23 @@
 # Article 8
 
-Les dossiers de candidature aux épreuves doivent être adressés par pli recommandé au ministère de la santé (direction des hôpitaux, bureau 8 C), 14, avenue Duquesne, 75700 Paris, avant la date de clôture des inscriptions. L'arrêté portant ouverture du concours fixe chaque année cette date entre le trentième et le quarante-cinquième jour avant la date prévue pour l'épreuve d'admissibilité.
+Indemnité pour travaux dangereux, incommodes, insalubres ou salissants.
 
-Ces dossiers comprennent :
+Des indemnités spécifiques sont allouées aux agents chargés d'effectuer des travaux pour l'exécution desquels des risques ou des incommodités subsistent malgré les précautions prises et les mesures de protection adoptées.
 
-1) Une demande établie sur un imprimé fourni au candidat et mentionnant notamment le centre choisi pour l'épreuve écrite ; cette demande est visée par le directeur de l'établissement employeur, qui atteste que le candidat se trouve en fonctions ;
+Les travaux ouvrant droit aux indemnités spécifiques sont rangés dans les trois catégories ci-après :
 
-2) Un extrait du casier judiciaire (bulletin n° 2) ;
+1re catégorie : travaux présentant des risques d'accidents corporels ou de lésions organiques ;
 
-3) Un état des services civils accomplis ; cet état doit être établi par l'autorité investie du pouvoir de nomination sur un imprimé fourni au candidat : un état des services doit être fourni pour chacune des administrations auxquelles a appartenu le candidat ;
+2e catégorie : travaux présentant des risques d'intoxication ou de contamination ;
 
-4) Pour les candidats qui désirent bénéficier du recul de la limite d'âge, en application des dispositions législatives et réglementaires concernant les droits des chefs de famille, une fiche familiale d'état civil ;
+3e catégorie : travaux incommodes ou salissants.
 
-5) Un certificat délivré par un médecin assermenté attestant conformément aux indications mentionnées sur l'imprimé délivré au candidat, que celui-ci n'est atteint d'aucune maladie ou infirmité incompatible avec l'exercice des fonctions de direction d'établissement hospitalier public ; pour les candidats handicapés, un avis de la Commission technique d'orientation professionnelle (Cotorep) compétente attestant que le handicap du candidat est compatible avec l'exercice des fonctions de direction d'établissement hospitalier public.
+Il ne peut être attribué plus d'un taux de base par demi-journée de travail effectif, sauf pour les indemnités de 1ère catégorie pour lesquelles il ne peut être alloué plus de deux taux de base par demi-journée de travail effectif.
 
-Ce certificat n'est exigible qu'en cas de réussite audit concours.
+La classification des travaux ouvrant droit aux indemnités spécifiques ainsi que le nombre ou la fraction de taux de base qu'il convient d'allouer par demi-journée de travail effectif sont déterminés par le tableau figurant à l'annexe II.B du présent arrêté.
 
-Pour obtenir les imprimés nécessaires à l'établissement de la demande d'admission à concourir, des états de service et du certificat médical, les candidats doivent s'adresser, dès l'annonce officielle du concours, au bureau 8 C de la direction des hôpitaux.
+Ces indemnités ne sont pas cumulables entre elles ni avec l'indemnité définie à l'article 9 ci-après, ni avec les indemnités suivantes :
 
-Pour être affectés par le directeur de l'Ecole nationale de la santé publique dans l'un des centres de préparation, les candidats admis à l'issue des épreuves devront, dans un délai fixé par l'arrêté d'ouverture du concours, compléter leur dossier par les pièces suivantes :
+- indemnité allouée aux personnels effectuant des toilettes mortuaires ou des mises en bière ;
 
-1) Un engagement de prise en charge financière de la formation (traitement et indemnité de stage de l'agent, et frais de scolarité) émanant de l'ordonnateur compétent.
-
-2) Pour les candidats n'ayant pas la qualité d'agent titulaire, une fiche d'état civil et de nationalité française et un état signalétique et des services militaires ou une copie de ce document ou les premières pages du livret militaire ; pour ceux qui n'ont pas accompli leur service militaire, une pièce attestant leur situation au regard des lois sur le recrutement de l'armée ;
-
-Seuls pourront participer au cycle préparatoire, les candidats admis aux épreuves remplissant en outre toutes les conditions requises et dont le dossier aura été complété dans le délai réglementaire. Passé ce délai, il pourra être fait appel, le cas échéant, à des candidats inscrits sur les listes complémentaires établies par le jury du concours en remplacement des candidats défaillants.
+- indemnité susceptible d'être allouée au personnel relevant du livre IX du code de la santé publique aidant aux autopsies.
