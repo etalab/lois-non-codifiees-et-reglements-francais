@@ -1134,7 +1134,6 @@
 - [Arrêté du 29 décembre 1997 (ECOR9706082A)](arrete-du-29-decembre-1997-ecor9706082a)
 - [Arrêté du 29 décembre 1997 (ECOT9720042A)](arrete-du-29-decembre-1997-ecot9720042a)
 - [Arrêté du 29 décembre 1997 (EQUB9701990A)](arrete-du-29-decembre-1997-equb9701990a)
-- [Arrêté du 29 décembre 1997 (MESS9723950A)](arrete-du-29-decembre-1997-mess9723950a)
 - [Arrêté du 29 janvier 1997 (DEFT9701132A)](arrete-du-29-janvier-1997-deft9701132a)
 - [Arrêté du 29 janvier 1997 (ECOT9710293A)](arrete-du-29-janvier-1997-ecot9710293a)
 - [Arrêté du 29 janvier 1997 (JUSA9600312A)](arrete-du-29-janvier-1997-jusa9600312a)
