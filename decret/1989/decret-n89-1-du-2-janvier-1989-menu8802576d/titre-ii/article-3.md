@@ -18,4 +18,4 @@ Les représentants des étudiants sont élus par et parmi les membres étudiants
 
 Nul ne dispose de plus d'une voix.
 
-Le vote par correspondance est autorisé.
+L'élection des représentants des étudiants a lieu par correspondance. Pour l'élection des représentants des personnels, le vote par correspondance est autorisé.
