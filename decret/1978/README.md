@@ -1,6 +1,7 @@
 # 1978
 
 - [Décret n°78-806 du 1 août 1978](decret-n78-806-du-1-aout-1978)
+- [Décret n°78-815 du 2 août 1978](decret-n78-815-du-2-aout-1978)
 - [Décret n°78-520 du 3 avril 1978](decret-n78-520-du-3-avril-1978)
 - [Décret n°78-526 du 3 avril 1978](decret-n78-526-du-3-avril-1978)
 - [Décret n°78-704 du 3 juillet 1978](decret-n78-704-du-3-juillet-1978)
@@ -57,6 +58,7 @@
 - [Décret n°78-796 du 28 juillet 1978](decret-n78-796-du-28-juillet-1978)
 - [Décret n°78-797 du 28 juillet 1978](decret-n78-797-du-28-juillet-1978)
 - [Décret n°78-798 du 28 juillet 1978](decret-n78-798-du-28-juillet-1978)
+- [Décret n°78-817 du 28 juillet 1978](decret-n78-817-du-28-juillet-1978)
 - [Décret n°78-473 du 29 mars 1978](decret-n78-473-du-29-mars-1978)
 - [Décret n°78-474 du 29 mars 1978](decret-n78-474-du-29-mars-1978)
 - [Décret n°78-477 du 29 mars 1978](decret-n78-477-du-29-mars-1978)
