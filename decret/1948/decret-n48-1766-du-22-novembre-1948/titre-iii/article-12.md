@@ -4,9 +4,9 @@ A dater du 1er janvier 1961 le coefficient destiné à tenir compte de l'état d
 
 A ce coefficient sera appliqué un abattement de :
 
-1,00 pour un logement achevé depuis moins de dix ans ;
+0,50 pour un logement achevé depuis moins de dix ans et situé dans un immeuble collectif ;
 
-0,50 pour un logement achevé depuis plus de dix ans et moins de vingt ans.
+0,25 pour une maison individuelle achevée depuis moins de dix ans.
 
 Le coefficient d'entretien ne pourra, sauf accord des parties, excéder 1,70 que si le local comprend au minimum les éléments d'équipement suivants : installation électrique permettant un éclairage normal, W. C. particulier avec effet d'eau, cuisine avec poste d'eau et vidange, salle d'eau.
 
