@@ -8,7 +8,7 @@ Pour l'exécution de ses missions, qu'il exerce en liaison avec les organismes d
 
 3° D'apporter son concours, notamment par voie de contrats, aux professions maritimes et organismes intervenant dans les domaines scientifiques, techniques et économiques ;
 
-4° D'assurer, dans les limites déterminées par le ministre chargé de la recherche et le ministre chargé de la mer, la maîtrise d'oeuvre d'opérations complexes d'intérêt général, associant différents partenaires ;
+4° D'assurer, dans les limites déterminées par les ministres exerçant la tutelle de l'institut, la maîtrise d'oeuvre d'opérations complexes d'intérêt général, associant différents partenaires ;
 
 5° De créer et de gérer des équipements lourds d'intérêt général ;
 
