@@ -1,3 +1,3 @@
 # Article 10
 
-Les expressions "déchets et résidus textiles" ou "composition non déterminée" doivent être utilisées sans considération des pourcentages en poids de ses composants, pour tout produit dont la composition ne peut pas être précisée.
+Tout produit textile dont la composition ne peut être précisée lors de la fabrication doit être désigné par l'expression "Fibres diverses" ou "Composition textile non déterminée" quel que soit le pourcentage en poids des composants de ce produit.

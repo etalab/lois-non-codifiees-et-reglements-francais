@@ -8,4 +8,4 @@ Les indications et informations autres que celles prévues par le présent décr
 
 L'indication d'une marque ou d'une raison sociale comportant soit à titre principal, soit à titre d'adjectif ou de racine l'utilisation d'une dénomination fixée par les arrêtés mentionnés à l'article 3 ou pouvant prêter à confusion avec celle-ci doit être immédiatement accompagnée en caractères facilement lisibles et très apparents, des dénominations, qualificatifs et teneurs en fibres prévus aux articles 3 à 10 et à ces arrêtés.
 
-Lors de l'offre et de la vente au consommateur, les indications concernant l'étiquetage et le marquage doivent être rédigées en langue française.
+Lors de l'offre et de la vente au consommateur, les indications concernant l'étiquetage et le marquage doivent être rédigées en langue française. Toutefois, pour les bobines, fusettes, échevettes, pelotes et toute autre petite unité de fil à coudre, à repriser ou à broder, cette obligation ne vise que l'étiquetage global sur les emballages ou présentoirs, chaque unité individuelle, sans préjudice des cas visés à l'annexe II, point 18, pouvant être étiquetée dans une quelconque des langues de la Communauté.

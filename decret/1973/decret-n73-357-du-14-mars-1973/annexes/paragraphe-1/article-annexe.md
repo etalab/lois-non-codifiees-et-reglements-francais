@@ -22,7 +22,7 @@
 
 11. Toiles peintes.
 
-12. Tissus pour renforts et supports.
+12. Produits textiles pour renforts et supports.
 
 13. Feutres.
 
@@ -30,7 +30,7 @@
 
 15. Guêtres.
 
-16. Articles pour usages techniques.
+16. Drapeaux et bannières.
 
 17. Emballages autres que neufs et vendus comme tels.
 
@@ -40,7 +40,7 @@
 
 20. Articles de voyage en textile.
 
-21. Tapisseries brodées à la main.
+21. Tapisseries brodées à la main, finies ou à parachever, et matériaux pour leur fabrication y compris les fils à broder, vendus séparément du canevas et spécialement conditionnés pour être utilisés pour de telles tapisseries.
 
 22. Fermeture à glissière.
 
@@ -69,3 +69,23 @@
 34. Nécessaires de toilette.
 
 35. Nécessaires à chaussures.
+
+36. Articles funéraires.
+
+37. Produits jetables, à l'exception des ouates. Au sens du présent décret, sont considérés comme jetables les articles textiles à utiliser une fois ou pendant un temps limité et dont l'utilisation normale exclut toute remise en état pour le même usage ou un usage similaire ultérieur.
+
+38. Articles textiles assujettis aux règles de la pharmacopée européenne et couverts par une mention s'y référant, bandages non jetables à usage médical et orthopédique et articles textiles d'orthopédie en général.
+
+39. Articles textiles, y compris cordes, cordages et ficelles (sous réserve du point 12 du titre II de cette annexe), destinés normalement :
+
+a) A être utilisés de manière instrumentale dans les activités de production et de transformation des biens ;
+
+b) A être incorporés dans des machines, installations (de chauffage, climatisation, éclairage, etc.), appareils ménagers et autres, véhicules et autres moyens de transport, ou à servir au fonctionnement, à l'entretien et à l'équipement de ceux-ci, à l'exception des bâches et des accessoires en textiles pour voitures automobiles vendus séparément des véhicules.
+
+40. Articles textiles de protection et de sécurité, tels que ceintures de sécurité, parachutes, gilets de sauvetage, descentes de secours, dispositifs contre les incendies, corsets antiprojectiles, vêtements de protection spéciaux (par exemple : protection contre le feu, les agents chimiques ou d'autres risques de sécurité).
+
+41. Structures gonflables à pression pneumatique (halls pour sports, stands d'exposition, de stockage, etc.), à condition que des indications soient fournies concernant les performances et spécifications techniques de ces articles.
+
+42. Voiles pour embarcations.
+
+43. Articles textiles pour animaux.
