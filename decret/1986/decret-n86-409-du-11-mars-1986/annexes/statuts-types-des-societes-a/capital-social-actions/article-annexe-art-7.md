@@ -1,5 +1,5 @@
 # Article Annexe art. 7
 
-La majorité du capital social est détenue par ... (4).
+Un tiers du capital social et des droits de vote à l'assemblée générale au moins est détenu par ...(1).
 
-(4) La majorité du capital social doit être détenue par le groupement sportif seul.
+(1) Un tiers du capital social et des droits de vote à l'assemblée générale au moins doit être détenu par le groupement sportif seul.
