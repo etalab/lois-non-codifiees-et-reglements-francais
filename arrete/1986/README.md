@@ -155,7 +155,6 @@
 - [Arrêté du 21 août 1986](arrete-du-21-aout-1986)
 - [Arrêté du 21 avril 1986](arrete-du-21-avril-1986)
 - [Arrêté du 21 février 1986](arrete-du-21-fevrier-1986)
-- [Arrêté du 21 janvier 1986](arrete-du-21-janvier-1986)
 - [Arrêté du 21 novembre 1986](arrete-du-21-novembre-1986)
 - [Arrêté du 21 mai 1986](arrete-du-21-mai-1986)
 - [Arrêté du 22 août 1986](arrete-du-22-aout-1986)
