@@ -24,10 +24,14 @@ En sus des questions relevant de sa compétence, en application des décrets du 
 
 11° Le rapport annuel d'activité ;
 
-12° Le règlement intérieur du conseil.
+12° Le règlement intérieur du conseil ;
+
+13° Les contrats.
 
 Il donne son avis sur l'organisation générale de Météo-France et sur les questions qui lui sont soumises par le ministre chargé des transports, le président-directeur général.
 
 Il peut constituer en son sein une commission chargée de donner son avis sur l'opportunité de la diffusion par l'établissement de services et produits nouveaux, dans le cadre des missions qui lui sont imparties.
 
-Il peut déléguer au président-directeur général certaines de ses attributions, à l'exclusion toutefois de celles mentionnées au deuxième alinéa de l'article 11 ci-dessous.
+Il peut également constituer une commission consultative des achats dont il fixe la composition, chargée d'examiner et de donner son avis sur les projets de marchés soumis à sa délibération.
+
+Il peut déléguer au président-directeur général certaines de ses attributions dans les limites qu'il détermine, à l'exclusion de celles mentionnées au deuxième alinéa de l'article 11.
