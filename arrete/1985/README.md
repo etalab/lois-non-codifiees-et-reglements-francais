@@ -13,6 +13,7 @@
 - [Arrêté du 8 février 1985](arrete-du-8-fevrier-1985)
 - [Arrêté du 8 janvier 1985](arrete-du-8-janvier-1985)
 - [Arrêté du 10 avril 1985](arrete-du-10-avril-1985)
+- [Arrêté du 10 décembre 1984](arrete-du-10-decembre-1984)
 - [Arrêté du 10 janvier 1985](arrete-du-10-janvier-1985)
 - [Arrêté du 10 octobre 1983](arrete-du-10-octobre-1983)
 - [Arrêté du 11 décembre 1984](arrete-du-11-decembre-1984)
