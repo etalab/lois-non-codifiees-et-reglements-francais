@@ -1,4 +1,12 @@
-# Arrêté du 28 février 1969 relatif à l'application de l'article 1er du décret n° 67-875 du 6 octobre 1967 pris en application de l'article 24 de la loi n° 66-1069 du 31 décembre 1966 relative aux communautés urbaines.
+# Arrêté du 28 février 1969 instituant une indemnité exceptionnelle pour le personnel des collectivités locales victimes d'un accident aérien ou maritime dans l'exécution d'une mission.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)
+- [Article 86](article-86.md)
+- [Dispositions applicables aux navires de plaisance d'une longueur inférieure à 25 mètres autres que les voiliers d'une jauge brute inférieure à 2 tonneaux ou les navires à moteur d'un poids total inférieur à 800 kg](dispositions-applicables-aux)

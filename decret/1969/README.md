@@ -24,6 +24,8 @@
 - [Décret n° 69-123 du 24 janvier 1969](decret-n-69-123-du-24-janvier-1969)
 - [Décret n°69-270 du 24 mars 1969](decret-n69-270-du-24-mars-1969)
 - [Décret n°69-281 du 24 mars 1969](decret-n69-281-du-24-mars-1969)
+- [Décret n°69-456 du 24 mai 1969](decret-n69-456-du-24-mai-1969)
+- [Décret n°69-457 du 24 mai 1969](decret-n69-457-du-24-mai-1969)
 - [Décret n°69-189 du 26 février 1969](decret-n69-189-du-26-fevrier-1969)
 - [Décret n°69-83 du 27 janvier 1969](decret-n69-83-du-27-janvier-1969)
 - [Décret n°68-1089 du 29 novembre 1968](decret-n68-1089-du-29-novembre-1968)
