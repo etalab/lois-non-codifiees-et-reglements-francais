@@ -10,5 +10,6 @@
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 9 bis](article-9-bis.md)
+- [Article 9 ter](article-9-ter.md)
 - [Article 9 quater](article-9-quater.md)
 - [Article 9 quinquies](article-9-quinquies.md)
