@@ -34,6 +34,8 @@
 - [Décret n°79-707 du 8 août 1979](decret-n79-707-du-8-aout-1979)
 - [Décret n°89-826 du 9 novembre 1989 (MENF8902368D)](decret-n89-826-du-9-novembre-1989-menf8902368d)
 - [Décret n°99-1028 du 9 décembre 1999 (MESS9923695D)](decret-n99-1028-du-9-decembre-1999-mess9923695d)
+- [Décret du 10 janvier 2000 (ECOC9900144D)](decret-du-10-janvier-2000-ecoc9900144d)
+- [Décret du 10 janvier 2000 (ECOC9900151D)](decret-du-10-janvier-2000-ecoc9900151d)
 - [Décret n°2000-1111 du 10 novembre 2000 (MENF0002693D)](decret-n2000-1111-du-10-novembre-2000-menf0002693d)
 - [Décret n°2000-18 du 10 janvier 2000 (INTM9900056D)](decret-n2000-18-du-10-janvier-2000-intm9900056d)
 - [Décret n°2000-22 du 10 janvier 2000 (EQUU9901918D)](decret-n2000-22-du-10-janvier-2000-equu9901918d)
