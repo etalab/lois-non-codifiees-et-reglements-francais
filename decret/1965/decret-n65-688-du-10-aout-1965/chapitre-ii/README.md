@@ -13,4 +13,5 @@
 - [Article 12-4](article-12-4.md)
 - [Article 12-5](article-12-5.md)
 - [Article 12-6](article-12-6.md)
+- [Article 12-7](article-12-7.md)
 - [Article 12-8](article-12-8.md)
