@@ -1,3 +1,0 @@
-# Article 3
-
-Les détenus libérés qui, dans un délai fixé par décret en Conseil d'Etat, se font inscrire comme demandeurs d'emploi dans les conditions prévues par le code du travail, bénéficient immédiatement, pour eux-mêmes et pour les membres de leur famille [*ayants droit*], des prestations en nature des assurances maladie et maternité du régime dont ils relevaient au moment de leur libération et ce tant qu'ils demeurent inscrits comme demandeurs d'emploi [*durée - maintien des droits*], sans préjudice de l'application des dispositions du premier alinéa de l'article L. 253 du code de la sécurité sociale [*conditions d'attribution - chômage*].
