@@ -114,6 +114,7 @@
 - [Décret n°87-190 du 20 mars 1987 (MERG8700012D)](decret-n87-190-du-20-mars-1987-merg8700012d)
 - [Décret n°87-196 du 20 mars 1987 (ECOP8700089D)](decret-n87-196-du-20-mars-1987-ecop8700089d)
 - [Décret n°87-30 du 20 janvier 1987](decret-n87-30-du-20-janvier-1987)
+- [Décret n°87-337 du 20 mai 1987](decret-n87-337-du-20-mai-1987)
 - [Décret n°87-281 du 21 avril 1987 (MAEJ8730020D)](decret-n87-281-du-21-avril-1987-maej8730020d)
 - [Décret n°87-287 du 21 avril 1987](decret-n87-287-du-21-avril-1987)
 - [Décret n°87-288 du 21 avril 1987 (MAEJ8730022D)](decret-n87-288-du-21-avril-1987-maej8730022d)
