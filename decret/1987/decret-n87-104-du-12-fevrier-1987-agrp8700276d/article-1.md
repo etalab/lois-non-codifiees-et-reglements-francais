@@ -1,6 +1,6 @@
 # Article 1
 
-Le Conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire comprend, outre son président :
+Le Conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire comprend, outre le ministre de l'agriculture, président :
 
 a) Trois représentants du ministre chargé de l'économie et des finances ;
 
