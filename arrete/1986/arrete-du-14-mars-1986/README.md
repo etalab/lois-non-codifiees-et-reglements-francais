@@ -1,9 +1,3 @@
-# Arrêté du 14 mars 1986 du 14 mars 1986 relatif au financement du Centre technique interprofessionnel des fruits et légumes (C.T.I.F.L.)
+# Arrêté du 14 mars 1986 modifiant l'arrêté du 20 mars 1980 relatif au montant maximum de l'allocation de remplacement instituée par l'article 1106-3-1 du code rural
 
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)
-- [Article 7](article-7.md)
-- [Article 8](article-8.md)
-- [Article 9](article-9.md)
-- [Article 10](article-10.md)
 - [Annexes](annexes)
