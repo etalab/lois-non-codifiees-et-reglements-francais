@@ -1,0 +1,7 @@
+# Article 12
+
+I.-Si, compte tenu de la complexité du projet, l'autorité administrative est objectivement dans l'impossibilité de définir les moyens techniques pouvant répondre à ses besoins ou d'établir le montage juridique ou financier du projet, la procédure du dialogue compétitif peut être utilisée pour passer la convention de bail.
+
+II.-Dans ce cas, un avis d'appel public à la concurrence est publié selon les règles prévues à l'article 6. Il indique qu'il sera recouru à une phase de dialogue dans les conditions décrites au présent titre et précise les critères de sélection des candidats admis à participer au dialogue. Par dérogation au troisième alinéa de l'article 6, les critères de sélection des offres peuvent ne pas être définis dans l'avis d'appel public à la concurrence, mais dans le règlement de la consultation. Parmi ces critères figurent nécessairement le coût global de l'offre et des objectifs de performance définis en fonction de l'objet du contrat.D'autres critères peuvent être retenus, notamment la valeur technique et le caractère innovant de l'offre, le délai de réalisation des ouvrages ou équipements, leur qualité esthétique ou fonctionnelle.
+
+III.-La personne publique établit la liste des candidats admis à participer au dialogue en application des critères de sélection des candidatures mentionnés dans l'avis d'appel public à la concurrence, selon les règles fixées aux articles 43 à 45, 51 et 52 du code des marchés publics. Le nombre de ces candidats ne peut être inférieur à trois sous réserve d'un nombre suffisant de candidats.

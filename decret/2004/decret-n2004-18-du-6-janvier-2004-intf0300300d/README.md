@@ -3,5 +3,5 @@
 - [TITRE Ier : DISPOSITIONS GÉNÉRALES.](titre-ier)
 - [TITRE II : PROCÉDURE DE PASSATION DE DROIT COMMUN.](titre-ii)
 - [TITRE III : PROCÉDURE NÉGOCIÉE.](titre-iii)
-- [TITRE IV : DISPOSITIONS FINALES.](titre-iv)
+- [TITRE IV : PROCÉDURE DE DIALOGUE COMPETITIF.](titre-iv)
 - [Article 17](article-17.md)
