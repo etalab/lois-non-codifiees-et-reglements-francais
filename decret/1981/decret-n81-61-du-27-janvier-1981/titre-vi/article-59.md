@@ -1,0 +1,3 @@
+# Article 59
+
+Pour la constitution initiale du corps des professeurs des universités-odontologistes des services de consultations et de traitements dentaires, les professeurs de catégorie exceptionnelle de chirurgie dentaire-odontologistes des services de consultations et de traitements dentaires en fonctions à la date de publication du présent décret sont intégrés à cette date dans le corps des professeurs des universités-odontologistes des services de consultations et de traitements dentaires. Ils sont classés, par arrêté du ministre chargé des universités et du ministre chargé de la santé, à indice égal, dans la deuxième classe de ce corps, avec maintien de l'ancienneté acquise dans l'échelon de leur ancien corps.
