@@ -1,6 +1,7 @@
 # Décret n°64-452 du 25 mai 1964 fixant les conditions d'accès à la classe exceptionnelle de certains fonctionnaires de l'enseignement supérieur agricole et vétérinaire.
 
 - [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
