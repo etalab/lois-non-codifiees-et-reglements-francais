@@ -12,7 +12,7 @@ Le certificat d'études spéciales d'immunologie générale et appliquée.
 
 Le certificat d'études spéciales de sérologie appliquée au diagnostic des maladies vénériennes.
 
-2° Pour le certificat d'études spéciales de bactériologie et virologie cliniques :
+Le certificat ou diplôme d'immunologie générale et le certificat d'immunologie microbienne délivrés par l'institut Pasteur de Paris.    2° Pour le certificat d'études spéciales de bactériologie et virologie cliniques :
 
 Le certificat d'études spéciales de bactériologie ;
 
