@@ -14,6 +14,10 @@ e) Réalisation de missions d'identification par empreintes génétiques par des
 
 f) Absence, au sein d'une personne morale agréée, d'au moins une personne physique elle-même titulaire de l'agrément ;
 
-g) Prononcé, à l'encontre d'une personne physique dont la situation relève du second alinéa de l'article 4, d'une des sanctions mentionnées aux 1°, 2° et 3° de l'article 2 du décret du 31 décembre 1974 susmentionné.
+g) Prononcé, à l'encontre d'une personne physique dont la situation relève du second alinéa de l'article 4, d'une des sanctions mentionnées aux 1°, 2° et 3° de l'article 2 du décret du 31 décembre 1974 susmentionné ;
+
+h) Commission d'une faute professionnelle grave telle que mentionnée au quatrième alinéa de l'article 5 de la loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires ;
+
+i) Cessation des liens juridiques qui existaient entre la personne et le laboratoire.
 
 Dans le cas mentionné au g, le procureur général près la cour d'appel dans le ressort de laquelle la sanction est prononcée en informe le président de la commission dès qu'il en a connaissance.
