@@ -12,7 +12,6 @@
 - [Décret n° 73-879 du 4 septembre 1973](decret-n-73-879-du-4-septembre-1973)
 - [Décret n°73-788 du 4 août 1973](decret-n73-788-du-4-aout-1973)
 - [Décret n°73-809 du 4 août 1973](decret-n73-809-du-4-aout-1973)
-- [Décret n°73-865 du 4 septembre 1973](decret-n73-865-du-4-septembre-1973)
 - [Décret n°75-1070 du 4 novembre 1975](decret-n75-1070-du-4-novembre-1975)
 - [Décret n°73-462 du 4 mai 1973](decret-n73-462-du-4-mai-1973)
 - [Décret n°73-1028 du 5 novembre 1973](decret-n73-1028-du-5-novembre-1973)
