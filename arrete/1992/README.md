@@ -26,7 +26,6 @@
 - [Arrêté du 1 octobre 1992 (AGRG9201899A)](arrete-du-1-octobre-1992-agrg9201899a)
 - [Arrêté du 1 octobre 1992 (AGRG9201900A)](arrete-du-1-octobre-1992-agrg9201900a)
 - [Arrêté du 1 octobre 1992 (BUDZ9200016A)](arrete-du-1-octobre-1992-budz9200016a)
-- [Arrêté du 1 octobre 1992 (EQUS9201424A)](arrete-du-1-octobre-1992-equs9201424a)
 - [Arrêté du 1 octobre 1992 (FPPA9200072A)](arrete-du-1-octobre-1992-fppa9200072a)
 - [Arrêté du 1 octobre 1992 (INTB9200450A)](arrete-du-1-octobre-1992-intb9200450a)
 - [Arrêté du 1 octobre 1992 (MENZ9203414A)](arrete-du-1-octobre-1992-menz9203414a)
