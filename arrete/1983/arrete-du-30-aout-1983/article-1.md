@@ -120,6 +120,8 @@ Sont seules susceptibles de donner lieu à immatriculation au répertoire des m�
 
 69-24  Déménagement.
 
+77-01  Partiel : contrôle technique automobile.
+
 77-11  Partiel : pose d'affiches.
 
 77-12  Partiel : travaux de bureau divers à façon, autres que de conception, de traduction ou d'interprétation : dactylograhie, reprographie, dessin industriel.

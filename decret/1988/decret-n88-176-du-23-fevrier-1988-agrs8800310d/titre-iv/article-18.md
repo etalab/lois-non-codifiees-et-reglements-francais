@@ -1,3 +1,3 @@
 # Article 18
 
-Si la demande mentionnée à l'article 16 porte uniquement sur les prêts à moyen terme spéciaux, elle est adressée par le candidat, antérieurement à son installation, à la caisse régionale de crédit agricole mutuel qui prend la décision après instruction.
+Dans le cas où des modifications importantes concernant les productions ou le programme d'investissements apparaissent nécessaires, un avenant à l'étude prévisionnelle d'installation doit être présenté. Il est examiné selon la même procédure que le projet initial.
