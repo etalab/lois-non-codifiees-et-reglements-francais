@@ -1266,7 +1266,6 @@
 - [Arrêté du 31 mars 1992 (EQUC9200024A)](arrete-du-31-mars-1992-equc9200024a)
 - [Arrêté du 31 mars 1992 (EQUS9200224A)](arrete-du-31-mars-1992-equs9200224a)
 - [Arrêté du 31 mars 1992 (JUSB9210119A)](arrete-du-31-mars-1992-jusb9210119a)
-- [Arrêté du 31 mars 1992 (MENZ9200899A)](arrete-du-31-mars-1992-menz9200899a)
 - [Arrêté du 31 mars 1992 (PTTR9200173A)](arrete-du-31-mars-1992-pttr9200173a)
 - [Arrêté du 31 mars 1992 (PTTR9200176A)](arrete-du-31-mars-1992-pttr9200176a)
 - [Arrêté du 31 mars 1992 (PTTR9200177A)](arrete-du-31-mars-1992-pttr9200177a)

@@ -839,8 +839,6 @@
 - [Décret n°92-714 du 23 juillet 1992 (INTD9200275D)](decret-n92-714-du-23-juillet-1992-intd9200275d)
 - [Décret n°92-716 du 23 juillet 1992 (ECOT9294085D)](decret-n92-716-du-23-juillet-1992-ecot9294085d)
 - [Décret n°92-720 du 23 juillet 1992 (SPSS9201481D)](decret-n92-720-du-23-juillet-1992-spss9201481d)
-- [Décret n°92-84 du 23 janvier 1992 (MENZ9102712D)](decret-n92-84-du-23-janvier-1992-menz9102712d)
-- [Décret n°92-85 du 23 janvier 1992 (MENZ9102713D)](decret-n92-85-du-23-janvier-1992-menz9102713d)
 - [Décret n°92-95 du 23 janvier 1992 (SPSN9102838D)](decret-n92-95-du-23-janvier-1992-spsn9102838d)
 - [Décret n°92-96 du 23 janvier 1992 (SPSN9102839D)](decret-n92-96-du-23-janvier-1992-spsn9102839d)
 - [Décret n°93-473 du 23 mars 1993 (AGRA9300280D)](decret-n93-473-du-23-mars-1993-agra9300280d)
