@@ -1,7 +1,6 @@
 # Décret n°91-1005 du 30 septembre 1991 pris pour l'application de la loi n° 90-559 du 4 juillet 1990 créant les fondations d'entreprise et modifiant les dispositions de la loi n° 87-571 du 23 juillet 1987 sur le développement du mécénat relatives aux fondations
 
 - [Article 1](article-1.md)
-- [Titre Ier : Modalités de création et de fonctionnement des fondations d'entreprise.](titre-ier)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)

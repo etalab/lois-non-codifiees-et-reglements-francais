@@ -14,7 +14,6 @@
 - [Décret n°92-1293 du 1 décembre 1992 (ECOX9210534D)](decret-n92-1293-du-1-decembre-1992-ecox9210534d)
 - [Décret n°92-340 du 1 avril 1992 (ECOC9200033D)](decret-n92-340-du-1-avril-1992-ecoc9200033d)
 - [Décret n°92-341 du 1 avril 1992 (ECOT9226058D)](decret-n92-341-du-1-avril-1992-ecot9226058d)
-- [Décret n°92-343 du 1 avril 1992 (VILM9100035D)](decret-n92-343-du-1-avril-1992-vilm9100035d)
 - [Décret n°92-346 du 1 avril 1992 (MICT9200157D)](decret-n92-346-du-1-avril-1992-mict9200157d)
 - [Décret n°92-347 du 1 avril 1992 (AGRS9200221D)](decret-n92-347-du-1-avril-1992-agrs9200221d)
 - [Décret n°92-349 du 1 avril 1992 (SANS9200531D)](decret-n92-349-du-1-avril-1992-sans9200531d)

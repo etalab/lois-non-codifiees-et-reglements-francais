@@ -1,3 +1,0 @@
-# Article 11
-
-Le ou les fondateurs qui sollicitent l'autorisation de prorogation prévue par l'article 19-2 de la loi du 23 juillet 1987 précitée doivent présenter au préfet une demande qui contient, outre les mentions et les documents prévus à l'article 10, les engagements des fondateurs à verser les sommes finançant le programme d'action pluriannuel de la fondation d'entreprise, le contrat de caution prévu à l'article 19-7 de la loi du 23 juillet 1987 précitée et la liste, d'une part, des fondateurs décidant ou renouvelant leur engagement, d'autre part, de ceux qui se retirent de la fondation, avec indication de leurs raisons sociales ou dénominations et leurs sièges.
