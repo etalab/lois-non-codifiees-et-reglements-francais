@@ -171,7 +171,6 @@
 - [Arrêté du 5 juin 2003 (BUDB0310030A)](arrete-du-5-juin-2003-budb0310030a)
 - [Arrêté du 5 juin 2003 (DEVP0320186A)](arrete-du-5-juin-2003-devp0320186a)
 - [Arrêté du 5 juin 2003 (ECOC0300030A)](arrete-du-5-juin-2003-ecoc0300030a)
-- [Arrêté du 5 juin 2003 (ECOC0300058A)](arrete-du-5-juin-2003-ecoc0300058a)
 - [Arrêté du 5 juin 2003 (EQUA0300913A)](arrete-du-5-juin-2003-equa0300913a)
 - [Arrêté du 5 juin 2003 (MAEF0310028A)](arrete-du-5-juin-2003-maef0310028a)
 - [Arrêté du 5 mars 2003 (SANP0320522A)](arrete-du-5-mars-2003-sanp0320522a)
