@@ -12,7 +12,7 @@ b) Il est procédé par l'autorité administrative à la répartition de quotas 
 
 II. - Lorsque l'autorité administrative a alloué, au titre de la répartition prévue au I, tout ou partie de certains quotas de captures à des organisations de producteurs ou à leurs unions, celles-ci assurent la meilleure utilisation des sous-quotas de captures ainsi alloués sur la base d'un plan de gestion. Ce plan doit être établi dans le respect des objectifs déterminés par le I.
 
-Les conditions d'application du présent paragraphe sont précisées par un décret en Conseil d'Etat qui détermine notamment les conséquences qu'entraîne, pour l'attribution des quotas répartis l'année suivante, la méconnaissance des prescriptions de l'alinéa précédent et qui fixe les conditions dans lesquelles le plan de gestion mentionné à cet alinéa fait l'objet d'une publicité ainsi que d'une communication à l'office institué en vertu de l'article 12 bis de la loi n° 82-847 du 6 octobre 1982 relative à la création d'offices d'intervention dans le secteur agricole et le secteur des produits de la mer et à l'organisation des marchés.
+Les conditions d'application du présent paragraphe sont précisées par un décret en Conseil d'Etat qui détermine notamment les conséquences qu'entraîne, pour l'attribution des quotas répartis l'année suivante, la méconnaissance des prescriptions de l'alinéa précédent et qui fixe les conditions dans lesquelles le plan de gestion mentionné à cet alinéa fait l'objet d'une publicité ainsi que d'une communication à l'office institué en vertu de l'article L. 621-1-1 du code rural.
 
 III. - Des décrets en Conseil d'Etat déterminent également les conditions dans lesquelles peuvent être prises les mesures suivantes :
 
