@@ -14,23 +14,27 @@ Le cheptel bovin d'une exploitation obtient la qualification "officiellement ind
 
 - est isolé dès sa livraison dans l'exploitation ;
 
-- est soumis dans les quinze jours suivant sa livraison, avec conclusion favorable du directeur des services vétérinaires :
+- est soumis, s'il est âgé de plus de 12 mois, dans les quinze jours précédant ou suivant sa livraison, avec conclusion favorable du directeur départemental des services vétérinaires :
 
-- à une EAT, associée à une FC,
+- à une EAT individuelle ou à un ELISA individuel ou sur mélange de sérums, obligatoirement complété par une EAT individuelle sur chacun des sérums concerné par un résultat non négatif à l'ELISA ;
 
-- ou à une EAT, associée à un ELISA, obligatoirement complétée en cas de résultat non négatif par une FC.
+- à une FC, en cas de résultat non négatif à l'EAT.
 
 5° Les animaux des autres espèces sensibles infectés de brucellose ou de statut sanitaire inconnu sont détenus de façon distincte du cheptel bovin.
 
 Un cheptel bovin officiellement indemne de brucellose bovine continue à bénéficier de cette qualification lorsque :
 
-a) Les animaux sont annuellement contrôlés avec résultats favorables :
+a) Les animaux sont annuellement contrôlés, avec résultats favorables :
 
-- soit par une EAT pratiquée sur tous les bovins âgés de douze mois et plus ;
+- soit par des EAT individuelles pratiquées sur tous les bovins âgés de douze mois ou plus ;
 
-- soit par des épreuves de l'anneau mensuelles pratiquées sur le lait de mélange produit par le cheptel contrôlé.
+- soit par des ELISA sur mélanges de sérums, pratiqués sur tous les bovins âgés de douze mois ou plus, obligatoirement complétés par des EAT individuelles sur chacun des sérums composant les mélanges ayant présenté un résultat non négatif ;
 
-Lorsque, dans un département, le pourcentage annuel d'infection des cheptels bovins est inférieur à 1 % depuis deux ans au moins, il suffit de procéder annuellement à quatre épreuves de l'anneau ou ELISA sur mélange de lait à intervalle trimestriel.
+- soit par des épreuves de l'anneau ou ELISA mensuelles pratiquées sur le lait de mélange produit par le cheptel contrôlé.
+
+Lorsque, dans un département, le taux de prévalence annuel des cheptels bovins est inférieur à 1 % depuis deux ans au moins, il suffit de procéder annuellement à quatre épreuves de l'anneau ou ELISA sur mélange de lait à intervalle trimestriel.
+
+Lorsque, dans un département, le taux de prévalence annuel des cheptels bovins est inférieur à 0,2 % depuis quatre ans au moins, l'âge minimal des bovins contrôlés sur prélèvement sanguin peut être porté à vingt-quatre mois.
 
 b) Les animaux introduits dans ces cheptels répondent aux conditions définies au point 4° ci-dessus du présent article. Le non-respect de cette disposition entraîne le retrait de la qualification du cheptel.
 

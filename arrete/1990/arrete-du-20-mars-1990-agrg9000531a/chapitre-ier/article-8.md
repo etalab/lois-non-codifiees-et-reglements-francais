@@ -8,7 +8,7 @@ Pour la recherche de la brucellose bovine et le contrôle sanitaire des cheptels
 
 a) Diagnostic bactériologique avec mise en évidence de l'agent microbien dans le prélèvement ;
 
-b) Diagnostic sérologique par épreuve à l'antigène tamponné (EAT) ou par épreuve de fixation du complément (FC) ou par épreuve immunoenzymatique (ELISA) sur sérum individuel ;
+b) Diagnostic sérologique par épreuve à l'antigène tamponné (EAT) ou par épreuve de fixation du complément (FC) ou par épreuve immunoenzymatique (ELISA) pratiquée sur sérum individuel ou sur mélange de sérums ;
 
 c) Epreuve de l'anneau (Ring-Test ou RT) réalisée sur des laits de mélange produits par les cheptels contrôlés ou sur lait individuel ;
 
