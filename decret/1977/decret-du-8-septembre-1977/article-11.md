@@ -1,0 +1,3 @@
+# Article 11
+
+Eurodif-Production avisera le ministre de l'industrie, du commerce et de l'artisanat de tout projet de création d'une installation entrant dans le champ d'application de la loi n° 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement et située dans le périmètre de l'installation nucléaire de base visée par le présent décret. Le ministre de l'industrie, du commerce et de l'artisanat notifiera à l'exploitant les prescriptions techniques auxquelles il doit se conformer. Ces prescriptions feront l'objet d'une expédition au service central de protection contre les rayonnements ionisants et aux préfets de la Drôme et de Vaucluse.
