@@ -1,0 +1,3 @@
+# Article 24
+
+La majoration prévue par le dernier alinéa de l'article 106 ter de la loi du 7 janvier 1983 précitée pour les départements (à l'exclusion du département de Saint-Pierre-et-Miquelon) dont le potentiel fiscal par habitant est inférieur au potentiel fiscal moyen par habitant de l'ensemble des départements est attribuée en fonction de l'écart relatif entre le potentiel fiscal par habitant et le potentiel fiscal moyen de l'ensemble des départements et de la moyenne des concours reçus de l'Etat au cours des exercices 1980-1981-1982 au titre des crédits désormais inclus dans la deuxième part de la dotation globale des départements.
