@@ -1,0 +1,3 @@
+# Article 3
+
+Une notification de convocation est remise par le médecin agréé ou le délégué fédéral ou l'organisateur de la compétition ou de la manifestation sportive à la personne désignée pour être contrôlée à l'occasion de la compétition ou de la manifestation ou lors de l'entraînement préparant à celle-ci. Elle précise l'heure et le lieu où doit se dérouler le contrôle ainsi que la nature de celui-ci. La notification comporte un accusé de réception qui doit être signé et remis ou transmis immédiatement au médecin agréé. La personne qui refuse de signer ou de retourner l'accusé de réception est réputée s'être soustraite aux mesures de contrôle dont elle devait faire l'objet.

@@ -8,7 +8,7 @@ Les élèves professeurs du cycle préparatoire sont recrutés par deux concours
 
 a) Aux fonctionnaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent justifiant de trois années de services publics ;
 
-b) Aux enseignants non titulaires des établissements d'enseignement public relevant du ministre chargé de l'agriculture ou qui font partie des personnels mentionnés aux 1° et 2° de l'article 74 de la loi du 11 janvier 1984 susvisée justifiant, les uns et les autres, de trois années de services publics.
+b) Aux enseignants non titulaires des établissements d'enseignement public relevant du ministre chargé de l'agriculture ou qui font partie des personnels mentionnés aux 1° et 2° de l'article 74 de la loi du 11 janvier 1984 susvisée et aux enseignants non titulaires des établissements visés à l'article 1er du décret n° 85-1242 du 25 novembre 1985 relatif aux établissements publics locaux d'enseignement relevant du ministre chargé de la mer justifiant, les uns et les autres, de trois années de services publics.
 
 Les conditions requises des candidats au concours interne s'apprécient à la date de clôture des registres d'inscription fixée par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de la fonction publique.
 

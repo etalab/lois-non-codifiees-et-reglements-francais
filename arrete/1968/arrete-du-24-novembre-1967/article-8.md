@@ -12,7 +12,7 @@ Toutes les marques sur chaussées sont blanches, à l'exception :
 
 Les marques sur chaussées sont réparties en trois catégories :
 
-1° Lignes longitudinales :
+1° LIGNES LONGITUDINALES :
 
 - les lignes continues sont annoncées à ceux des conducteurs auxquels il est interdit de les franchir par une ligne discontinue. Cette ligne discontinue peut être complétée par des flèches de rabattement, s'il s'agit d'une ligne axiale ou de délimitation de voie, à l'exception des lignes complétant les panneaux Stop et Cédez le passage ;
 
@@ -26,7 +26,7 @@ Les marques sur chaussées sont réparties en trois catégories :
 
 - les lignes discontinues accolées aux lignes continues : le rapport des traits aux intervalles est d'un tiers dans le cas général et de trois lorsque la section où le dépassement est possible et immédiatement suivie d'une section où il ne l'est pas.
 
-2° Lignes transversales :
+2° LIGNES TRANSVERSALES :
 
 - les lignes transversales continues tracées à la limite où les conducteurs doivent marquer un temps d'arrêt et céder le passage aux intersections désignées par application de l'article R. 27 du code de la route ont une largeur de 0,50 mètre ;
 
@@ -34,7 +34,7 @@ Les marques sur chaussées sont réparties en trois catégories :
 
 - les lignes transversales, dites Lignes d'effet des feux de circulation, qui sont tracées aux intersections qui ne comportent pas de passage pour piétons ainsi qu'aux endroits où les véhicules doivent éventuellement marquer l'arrêt si cet arrêt n'est pas au droit des feux ou si le feu se trouve en amont du passage pour piétons ont une largeur de 0,15 mètre. Elles sont discontinues et la longueur des traits est égale à celle des intervalles.
 
-3° Marques complémentaires :
+3° MARQUES COMPLEMENTAIRES :
 
 - flèches de rabattement : ces flèches légèrement incurvées signalent aux usagers circulant dans le sens de ces flèches qu'ils doivent emprunter la ou les oies situées du côté qu'elles indiquent ;
 
@@ -45,3 +45,7 @@ Les marques sur chaussées sont réparties en trois catégories :
 - les marques en damiers rouge et blanc placées au début d'une voie de détresse signalent aux usagers que cette voie est réservée aux véhicules privés de freinage et que tout arrêt ou stationnement est interdit ;
 
 - le mot Payant : cette inscription sur la chaussée indique que les emplacements de stationnement contigus et délimités par du marquage sont payants quel que soit le mode de perception de la taxe.
+
+- marques relatives aux ralentisseurs : le marquage constitué d'un ensemble de triangles blancs disposés sur le ralentisseur et dont les pointes sont orientées dans le sens de la circulation indique aux usagers la présence d'un aménagement qui doit être franchi à faible vitesse ;
+
+- marques relatives aux emplacements réservés au stationnement des véhicules des grands invalides civils et des grands invalides de guerre : le pictogramme représentant une silhouette dans un fauteuil roulant, peint sur un emplacement de stationnement ou sur ses limites, rappelle que cet emplacement est réservé au stationnement des véhicules des grands invalides civils et des grands invalides de guerre.
