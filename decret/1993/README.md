@@ -573,6 +573,7 @@
 - [Décret n°93-822 du 21 mai 1993 (PRMX9300285D)](decret-n93-822-du-21-mai-1993-prmx9300285d)
 - [Décret n°93-823 du 21 mai 1993 (RESK9300320D)](decret-n93-823-du-21-mai-1993-resk9300320d)
 - [Décret n°93-827 du 21 mai 1993 (DEFM9301528D)](decret-n93-827-du-21-mai-1993-defm9301528d)
+- [Décret n°92-1164 du 22 octobre 1992 (INDB9200706D)](decret-n92-1164-du-22-octobre-1992-indb9200706d)
 - [Décret n°92-1338 du 22 décembre 1992 (MENB9200481D)](decret-n92-1338-du-22-decembre-1992-menb9200481d)
 - [Décret n°92-711 du 22 juillet 1992 (INDB9200337D)](decret-n92-711-du-22-juillet-1992-indb9200337d)
 - [Décret n°92-89 du 22 janvier 1992 (DEFP9102353D)](decret-n92-89-du-22-janvier-1992-defp9102353d)
