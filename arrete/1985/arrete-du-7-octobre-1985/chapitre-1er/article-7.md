@@ -1,0 +1,3 @@
+# Article 7
+
+Les candidats titulaires du certificat d'aptitude à l'essai manuel de la marine marchande, du certificat d'aide mécanicien ou d'aide électricien, du certificat d'aptitude professionnelle maritime de même que les candidats titulaires d'un certificat d'aptitude professionnelle ou brevet de l'enseignement industriel des spécialités Ajusteur, Tourneur, Tourneur-ajusteur, Chaudronnier fer ou cuivre, Forgeron, Electromécanicien, Mécanicien réparateur de moteurs à injection, Réparateur d'équipement pour moteurs à injection, mécanique générale avec triple mention bénéficient aux épreuves écrites d'une bonification de 5 points.
