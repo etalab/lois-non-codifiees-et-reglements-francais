@@ -20,6 +20,6 @@ c) Lorsque le demandeur est un praticien ressortissant de l'un des Etats membres
 
 5° Une déclaration sur l'honneur du demandeur certifiant qu'aucune instance pouvant donner lieu à condamnation ou sanction susceptible d'avoir des conséquences sur l'inscription au tableau n'est en cours à son encontre ;
 
-6° Un certificat de radiation d'inscription ou d'enregistrement délivré par l'autorité auprès de laquelle le demandeur était antérieurement inscrit ou enregistré ou, à défaut, une déclaration sur l'honneur du demandeur certifiant qu'il n'a jamais été inscrit ou enregistré ;
+6° Un certificat de radiation d'inscription ou d'enregistrement délivré par l'autorité auprès de laquelle le demandeur était antérieurement inscrit ou enregistré ou, à défaut, une déclaration sur l'honneur du demandeur certifiant qu'il n'a jamais été inscrit ou enregistré ou à défaut, un certificat d'inscription ou d'enregistrement dans un Etat membre des communautés européennes ;
 
 7° Tous éléments de nature à établir que le demandeur possède une connaissance suffisante de la langue française.
