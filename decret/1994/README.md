@@ -519,7 +519,6 @@
 - [Décret n°94-303 du 19 avril 1994 (INDG9300938D)](decret-n94-303-du-19-avril-1994-indg9300938d)
 - [Décret n°94-325 du 19 avril 1994 (INTB9400106D)](decret-n94-325-du-19-avril-1994-intb9400106d)
 - [Décret n°94-326 du 19 avril 1994 (MAEA9320208D)](decret-n94-326-du-19-avril-1994-maea9320208d)
-- [Décret n°94-604 du 19 juillet 1994 (SPSP9400782D)](decret-n94-604-du-19-juillet-1994-spsp9400782d)
 - [Décret n°94-606 du 19 juillet 1994 (EQUT9400365D)](decret-n94-606-du-19-juillet-1994-equt9400365d)
 - [Décret n°94-613 du 19 juillet 1994 (ECOC9400103D)](decret-n94-613-du-19-juillet-1994-ecoc9400103d)
 - [Décret n°94-632 du 19 juillet 1994 (SPSI9401535D)](decret-n94-632-du-19-juillet-1994-spsi9401535d)

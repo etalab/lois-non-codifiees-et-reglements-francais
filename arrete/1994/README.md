@@ -12,7 +12,6 @@
 - [Arrêté du 1 décembre 1987 (AGRG8701620A)](arrete-du-1-decembre-1987-agrg8701620a)
 - [Arrêté du 1 décembre 1994 (AGRP9402292A)](arrete-du-1-decembre-1994-agrp9402292a)
 - [Arrêté du 1 décembre 1994 (BUDR9405026A)](arrete-du-1-decembre-1994-budr9405026a)
-- [Arrêté du 1 décembre 1994 (INTE9400613A)](arrete-du-1-decembre-1994-inte9400613a)
 - [Arrêté du 1 décembre 1994 (MENL9402085A)](arrete-du-1-decembre-1994-menl9402085a)
 - [Arrêté du 1 décembre 1995 (EQUZ9500145A)](arrete-du-1-decembre-1995-equz9500145a)
 - [Arrêté du 1 février 1994 (ECOC9300211A)](arrete-du-1-fevrier-1994-ecoc9300211a)

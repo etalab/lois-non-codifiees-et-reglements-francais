@@ -1,3 +1,0 @@
-# Article 4
-
-Conformément à l'article 3 du décret du 15 septembre 1992 susvisé, doivent être établis, antérieurement à l'établissement du plan particulier d'intervention et pour sa préparation, une analyse des risques, un descriptif des dispositifs techniques de détection et de surveillance et des dispositifs d'alerte aux autorités et à la population. Ces documents sont élaborés à ses frais par le maître d'ouvrage. L'analyse des risques et le descriptif des dispositifs techniques de détection et de surveillance sont soumis par le préfet à l'avis conforme du comité technique permanent des barrages.
