@@ -1,0 +1,3 @@
+# Article 101
+
+Lorsque le produit de la taxe d'habitation perçu l'année précédente par une communauté urbaine en application de l'article 1609 bis du code général des impôts provient, pour plus des trois quarts de son montant total, des impositions à cette taxe établies sur le territoire d'une seule commune membre, le conseil municipal de cette dernière peut, pour l'application du dernier alinéa du paragraphe I de l'article 1636 B sexies du même code, additionner les taux des taxes foncières, de la taxe d'habitation et de la taxe professionnelle perçues au profit de la commune et les taux respectifs des mêmes taxes, votées l'année précédente par la communauté urbaine.

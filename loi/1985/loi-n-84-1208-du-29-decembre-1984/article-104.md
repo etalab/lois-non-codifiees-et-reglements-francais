@@ -1,0 +1,5 @@
+# Article 104
+
+Lorsqu'une cotisation de taxe foncière sur les propriétés bâties ou non bâties ou de taxe d'habitation a été mutée ou transférée, dans les conditions prévues à l'article 1404 ou au II de l'article 1413 du code général des impôts, au nom d'un redevable autre que celui figurant au rôle, le Trésor met en oeuvre, pour son recouvrement à l'égard du nouveau débiteur de l'impôt et à compter de la date de notification de la décision de mutation ou de transfert au redevable, l'ensemble des garanties, sûretés et privilèges applicables en matière de contributions directes. L'action du comptable du Trésor doit s'exercer, à compter de la même date, dans les délais prévus à l'article L. 274 du livre des procédures fiscales.
+
+La majoration de 10 p. 100 prévue par l'article 1761 du code général des impôts n'est due par le nouveau débiteur de l'impôt qu'à défaut de paiement intégral de l'imposition mutée ou transférée au plus tard le 15 du deuxième mois suivant celui au cours duquel le nouveau débiteur de l'impôt a été avisé de la décision de mutation ou de transfert.
