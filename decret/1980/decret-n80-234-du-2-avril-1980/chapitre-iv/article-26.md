@@ -2,7 +2,7 @@
 
 L'examen comporte les épreuves suivantes :
 
-a) La rédaction en quatre heures d'un acte du procès, d'un acte juridique ou d'une consultation ;
+a) La rédaction en cinq heures d'un acte du procès, d'un acte juridique ou d'une consultation ;
 
 b) Une plaidoirie, d'une durée de quinze minutes environ, après une préparation de trois heures, portant sur un dossier de droit civil, commercial, social, pénal, administratif ou communautaire ;    c) Une interrogation orale sur le statut et la déontologie des avocats tant en droit interne et en droit communautaire qu'en droit comparé ;
 
