@@ -20,6 +20,6 @@ Non chefs de service : 210 375
 
 - assistants des universités - assistants des h^opitaux et assistants hospitalo-universitaires en biologie (art. 76 et 81 du décret n° 84-135 du 24 février 1984) :
 
-2e échelon (après 2 ans de fonctions). : 95 589
+2e échelon (après 2 ans de fonctions). : 95 714
 
-1er échelon (avant 2 ans de fonctions). : 81 969
+1er échelon (après 1 an de fonctions). : 82 094

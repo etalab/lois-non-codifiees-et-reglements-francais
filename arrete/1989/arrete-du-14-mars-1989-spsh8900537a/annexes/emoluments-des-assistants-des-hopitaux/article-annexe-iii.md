@@ -30,6 +30,6 @@ Assistants associés spécialistes :
 
 Assistants des universités, assistants des hôpitaux et assistants hospitalo-universitaires en biologie (art. 76 et 81 du décret n° 84-135 du 24 février 1984) :
 
-2e échelon (après 2 ans de fonctions) : 96 545
+2e échelon (après 2 ans de fonctions) : 96 671
 
-1er échelon (avant 2 ans de fonctions) : 82 789
+1er échelon (après 1 an de fonctions) : 82 915

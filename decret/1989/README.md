@@ -164,6 +164,7 @@
 - [Décret n°89-264 du 26 avril 1989 (PTTA8801158D)](decret-n89-264-du-26-avril-1989-ptta8801158d)
 - [Décret n°89-267 du 26 avril 1989 (ECOX8910107D)](decret-n89-267-du-26-avril-1989-ecox8910107d)
 - [Décret n°89-272 du 26 avril 1989 (MCCB8900049D)](decret-n89-272-du-26-avril-1989-mccb8900049d)
+- [Décret n°89-273 du 26 avril 1989 (MERP8900023D)](decret-n89-273-du-26-avril-1989-merp8900023d)
 - [Décret n°89-39 du 26 janvier 1989 (INTB8900023D)](decret-n89-39-du-26-janvier-1989-intb8900023d)
 - [Décret n°89-40 du 26 janvier 1989 (INTB8900024D)](decret-n89-40-du-26-janvier-1989-intb8900024d)
 - [Décret n°89-41 du 26 janvier 1989 (DOMP8900001D)](decret-n89-41-du-26-janvier-1989-domp8900001d)

@@ -1,12 +1,10 @@
 # Article ANNEXE II
 
-PERSONNELS CONCERNÉS
+A. - Taux des émoluments des personnels
 
-MONTANT AU 1er mars 1989
+enseignants et hospitaliers à temps plein
 
-A. - Taux des émoluments des personnels enseignants et hospitaliers à temps plein
-
-Professeurs des universités - odontologistes des services de consultations et de traitements dentaires, chef de service :
+Professeurs des universités - odontologistes des services de consultations et de traitements dentaires, chefs de service :
 
 Classe exceptionnelle :
 
@@ -20,7 +18,7 @@ Chevron 1 : 271 938
 
 Chevron 3 : 271 938
 
-Chevron 2 : 272 253
+Chevron 2 : 273 253
 
 Chevron 1 : 272 509
 
@@ -42,7 +40,7 @@ Chevron 2 : 273 931
 
 Chevron 1 : 274 152
 
-1er échelon : 274 919
+1er échelon : 274 152
 
 2e classe :
 
@@ -78,162 +76,164 @@ Chevron 1 : 201 537
 
 2e échelon :
 
-Chevron 3 : 201 011
+Chevron 3 : 201 844
 
-Chevron 2 : 201 304
+Chevron 2 : 202 137
 
-Chevron 1 : 201 523
+Chevron 1 : 202 357
 
-1er échelon : 202 293
+1er échelon : 203 126
 
 2e classe :
 
 6e échelon :
 
-Chevron 3 : 201 523
+Chevron 3 : 202 357
 
-Chevron 2 : 201 779
+Chevron 2 : 202 612
 
-Chevron 1 : 201 968
+Chevron 1 : 202 801
 
-5e échelon : 202 293
+5e échelon : 203 126
 
 4e échelon :
 
-Après 4 ans de grade hospitalier : 202 535
+Après 4 ans de grade hospitalier : 203 368
 
-Avant 4 ans de grade hospitalier : 164 360
+Avant 4 ans de grade hospitalier : 165 194
 
 3e échelon :
 
-Après 4 ans de grade hospitalier : 202 762
+Après 4 ans de grade hospitalier : 203 595
 
-Avant 4 ans de grade hospitalier : 164 588
+Avant 4 ans de grade hospitalier : 165 421
 
 2e échelon :
 
-Après 4 ans de grade hospitalier : 202 968
+Après 4 ans de grade hospitalier : 203 801
 
-Avant 4 ans de grade hospitalier : 164 598
+Avant 4 ans de grade hospitalier : 165 431
 
 1er échelon :
 
-Après 4 ans de grade hospitalier : .203 173
+Après 4 ans de grade hospitalier : 204 006
 
-Avant 4 ans de grade hospitalier : 164 610
+Avant 4 ans de grade hospitalier : 165 443
 
-Professeurs du premier grade de chirurgie dentaire - odontologistes des services de consultation et de traitements dentaires, chefs de service :
+Professeurs du premier grade de chirurgie dentaire - odontologistes des services de consultations et de traitements dentaires, chefs de service :
 
 1re classe :
 
 6e échelon :
 
-Après 4 ans de grade hospitalier : 202 293
+Après 4 ans de grade hospitalier : 203 126
 
-Avant 4 ans de grade hospitalier : 164 118
+Avant 4 ans de grade hospitalier : 164 951
 
-5e échelon : 202 497
+5e échelon : 203 330
 
-4e échelon : 202 682
+4e échelon : 203 515
 
-3e échelon : 202 842
+3e échelon : 203 676
 
 2e échelon :
 
-Après 4 ans de grade hospitalier : 203 093
+Après 4 ans de grade hospitalier : 203 926
 
-Avant 4 ans de service hospitalier : 164 610
+Avant 4 ans de grade hospitalier : 165 443
 
-1er échelon : 164 610
+1er échelon : 165 443
 
-Professeurs du premier grade de chirurgie dentaire - odontologistes des services de consultation et de traitements dentaires, non chefs de service :
+Professeurs du premier grade de chirurgie dentaire - odontologistes des services de consultations et de traitements dentaires, non chefs de service :
 
 1re classe :
 
-6e échelon : 156 248
+6e échelon : 157 081
 
-5e échelon : 156 453
+5e échelon : 157 286
 
-4e échelon : 156 637
+4e échelon : 157 470
 
-3e échelon : 148 502
+3e échelon : 149 336
 
-2e échelon : 148 502
+2e échelon : 149 336
 
-1er échelon : 148 502
+1er échelon : 149 336
 
 2e classe :
 
-Echelon spécial : 133 021
+Echelon spécial : 133 854
 
-3e échelon : 133 021
+3e échelon : 133 854
 
-2e échelon : 124 966
+2e échelon : 125 800
 
-1er échelon : 110 122
+1er échelon : 110 956
 
-Professeurs du deuxième grade de chirurgie dentaire - odontologistes des services de consultation et de traitements dentaires, non chefs de service :
+Professeurs du deuxième grade de chirurgie dentaire - odontologistes des services de consultations et de traitements dentaires, non chefs de service :
 
-5e et 6e échelon : 148 502
+5e et 6e échelon : 149 336
 
-3e et 4e échelon : 133 021
+3e et 4e échelon : 133 854
 
-2e échelon : 124 966
+2e échelon : 125 800
 
-1er échelon : 110 122
+1er échelon : 110 956
 
-B. - Taux des émoluments des chefs de travaux des universités - odontologistes adjoints des services de consultation et de traitements dentaires :
+B. - Taux des émoluments des chefs de travaux des universités - odontologistes adjoints des services de consultations et de traitements dentaires :
 
-5e, 6e et 7e échelon : 148 502
+5e, 6e et 7e échelon : 149 169
 
-3e et 4e échelon : 133 014
+3e et 4e échelon : 133 681
 
-2e échelon : 124 966
+2e échelon : 125 632
 
-1er échelon : 110 113
+1er échelon : 110 780
 
-C. - Taux des émoluments des personnels enseignants et hospitaliers à temps partiel
+C. - Taux des émoluments des personnels
 
-Professeurs du premier grade de chirurgie dentaire - odontologistes des services de consultation et de traitements dentaires, chefs de service :
+enseignants et hospitaliers à temps partiel
 
-2e échelon (après 4 ans de grade de chef de service) : 81 446
+Professeurs du premier grade de chirurgie dentaire - odontologistes des services de consultations et de traitements dentaires, chefs de service :
 
-1er échelon (avant 4 ans de grade de chef de service) : 65 845
+2e échelon (après 4 ans de grade de chef de service). 81 780
 
-Professeurs du premier grade de chirurgie dentaire - odontologistes des services de consultation et de traitements dentaires, non chefs de service :
+1er échelon (avant 4 ans de grade de chef de service). 66 178
 
-1re classe, à partir du 4e échelon : 62 673
+Professeurs du premier grade de chirurgie dentaire - odontologistes des services de consultations et de traitements dentaires, non chefs de service :
 
-1re classe, 1er à 3e échelon : 59 393
+1re classe, à partir du 4e échelon. 63 022
 
-2e classe, 3e échelon et échelon spécial : 53 208
+1re classe, 1er à 3e échelon. 59 726
 
-2e classe, 2e échelon : 49 982
+2e classe, 3e échelon et échelon spécial. 53 541
 
-2e classe, 1er échelon : 44 042
+2e classe, 2e échelon. 50 315
 
-Professeurs du deuxième grade de chirurgie dentaire - odontologistes des services de consultation et de traitements dentaires, non chefs de service :
+2e classe, 1er échelon. 44 375
 
-5e et 6e échelon : 59 726
+Professeurs du deuxième grade de chirurgie dentaire - odontologistes des services de consultations et de traitements dentaires, non chefs de service :
 
-3e et 4e échelon : 53 541
+5e et 6e échelon. 59 726
 
-2e échelon : 50 315
+3e et 4e échelon. 53 541
 
-1er échelon : 44 375
+2e échelon. 50 315
 
-Chefs de travaux des universités - odontologistes adjoints des services de consultation et de traitements dentaires :
+1er échelon. 44 375
 
-5e, 6e et 7e échelon : 59 733
+Chefs de travaux des universités - odontologistes adjoints des services de consultations et de traitements dentaires :
 
-3e et 4e échelon : 53 538
+5e, 6e et 7e échelon. 59 733
 
-2e échelon : 50 318
+3e et 4e échelon. 53 538
 
-1er échelon : 44 377
+2e échelon. 50 318
 
-Assistants des universités - assistants des services de consultation et de traitements dentaires :
+1er échelon. 44 377
 
-Après 2 ans : 38 665
+Assistants des universités - assistants des services de consultations et de traitements dentaires :
 
-Avant 2 ans : 33 162
+Après 2 ans. 38 665
+
+Avant 2 ans. 33 162
