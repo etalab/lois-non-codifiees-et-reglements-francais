@@ -1,6 +1,6 @@
 # Article 3
 
-Les organismes financiers visés à l'article 1er sont tenus, dans les conditions fixées par la présente loi, de déclarer au service institué à l'article 5 :
+Les organismes financiers et les personnes visés à l'article 1er sont tenus, dans les conditions fixées par la présente loi, de déclarer au service institué à l'article 5 :
 
 1° Les sommes inscrites dans leurs livres lorsqu'elles paraissent provenir du trafic de stupéfiants ou de l'activité d'organisations criminelles.
 
