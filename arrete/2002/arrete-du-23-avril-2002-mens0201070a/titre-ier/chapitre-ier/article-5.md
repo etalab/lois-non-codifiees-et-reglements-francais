@@ -1,0 +1,3 @@
+# Article 5
+
+Afin d'articuler les formations entre elles et d'assurer une plus grande lisibilité, l'offre de formation peut prendre en compte, pour la part des études jusqu'au niveau de la licence, les objectifs, finalités et conditions d'accès définis par la réglementation, pour les formations pluriannuelles régies par le décret du 29 décembre 1994 susvisé, l'arrêté du 29 décembre 1994 modifié susvisé, l'arrêté du 10 septembre 1970 susvisé, l'arrêté du 13 janvier 1971 susvisé et l'arrêté du 26 mars 1971 susvisé. Le cas échéant, l'offre de formation prend également en compte les formations annuelles ou pluriannuelles qui conduisent actuellement à la délivrance de diplômes d'université.

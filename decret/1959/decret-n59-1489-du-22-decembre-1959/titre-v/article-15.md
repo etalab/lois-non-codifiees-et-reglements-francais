@@ -8,6 +8,6 @@ Le produit brut est constitué :
 
 2° A la boule, au vingt-trois ainsi qu'aux autres jeux de contrepartie par la différence entre le montant cumulé de l'avance initiale et des avances complémentaires éventuelles et le montant de l'encaisse constaté en fin de partie ;
 
-3° Pour les appareils mentionnés au d de l'article 1er, par la différence entre le montant des mises, obtenu par multiplication du nombre de pièces ou jetons enregistré en entrée dans l'appareil par la valeur de ces pièces ou jetons, et le produit obtenu par application à ce montant du taux de redistribution de l'appareil.
+3° Pour les appareils mentionnés au d de l'article 1er, par le produit d'un coefficient de 85 % appliqué au montant de la comptée afférente à l'appareil, diminué des avances faites, des gains payés par la caisse spéciale et du montant des gains non réclamés. Dans le cas où, à l'issue de la saison, le montant du produit brut des jeux ainsi calculé est inférieur au produit du montant des mises par le complément à 100 du taux de redistribution de l'appareil, ce dernier montant est retenu.
 
 Dans le cas où la différence mentionnée au 2° ci-dessus serait négative, la perte subie viendrait en déduction des bénéfices des jours suivants.

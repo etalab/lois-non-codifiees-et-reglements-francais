@@ -10,105 +10,47 @@ Les modalités selon lesquelles les temps de coupure et les temps de restauratio
 
 Les personnels roulants marchandises "grands routiers" ou "longue distance" sont les personnels roulants affectés, dans les transports routiers de marchandises, à des services leur faisant obligation de prendre au moins six repos journaliers par mois hors du domicile et les personnels roulants affectés, dans les entreprises de déménagement, à des services leur faisant obligation de prendre au moins quarante repos journaliers par an hors du domicile. Cette définition peut être adaptée ou modifiée par accord collectif de branche ;
 
-3° A compter du 1er février 2000 :
+3° La durée du temps passé au service de l'employeur, ou temps de service, des personnels roulants marchandises est fixée dans les conditions suivantes :
 
-- la durée du temps passé au service de l'employeur, ou temps de service, des personnels roulants marchandises "grands routiers" ou "longue distance" est fixée à trente-neuf heures par semaine, ou cent soixante-neuf heures par mois dans les conditions prévues au paragraphe 3 de l'article 4 du présent décret ;
+- la durée du temps de service des personnels roulants "grands routiers" ou "longue distance" est fixée à 43 heures par semaine, ou 186 heures par mois dans les conditions prévues au paragraphe 3 de l'article 4 du présent décret ;
 
-- la durée du temps passé au service de l'employeur, ou temps de service, des autres personnels roulants marchandises est fixée à trente-sept heures par semaine, ou cent soixante heures par mois dans les conditions prévues au paragraphe 3 de l'article 4 du présent décret, dans la perspective d'atteindre la durée légale du travail effectif fixée à trente-cinq heures par l'article L. 212-1 bis du code du travail, par accord de branche ou d'entreprise, en fonction de l'état d'avancement des travaux conduits par les partenaires sociaux, prévus au 7° du présent article ;
+- la durée du temps de service des autres personnels roulants marchandises, à l'exception des conducteurs de messagerie et des convoyeurs de fonds, est fixée à 39 heures par semaine, ou 169 heures par mois dans les conditions prévues au paragraphe 3 de l'article 4 du présent décret.
 
-4° Annulé par décision du Conseil d'Etat n° 219286 du 30 novembre 2001.
+Les conducteurs de messagerie sont les personnels roulants affectés, à titre principal, à des services organisés de messagerie, d'enlèvement et de livraison de marchandises ou de produits dans le cadre de tournées régulières nécessitant, pour une même expédition de domicile à domicile, des opérations de groupage et de dégroupage, et comportant des contraintes spécifiques de délais de livraison.
+
+Les convoyeurs de fonds sont les personnels roulants affectés à des services de transport de fonds, de bijoux ou de métaux précieux.
+
+4° Est considérée comme heure supplémentaire, pour les personnels roulants marchandises, toute heure de temps de service effectuée au-delà des durées mentionnées au 3°. Ces heures supplémentaires ouvrent droit au repos compensateur obligatoire prévu par l'article L. 212-5-1 du code du travail.
+
+Sont rémunérées conformément aux usages ou aux conventions ou accords collectifs selon les dispositions du quatrième alinéa de l'article L. 212-4 du code du travail les heures de temps de service effectuées à compter de la 36e heure par semaine, ou de la 153e heure par mois dans les conditions prévues au paragraphe 3 de l'article 4 du présent décret, et :
+
+- jusqu'à la 43e heure par semaine, ou la 186e heure par mois dans les conditions prévues au paragraphe 3 de l'article 4 du présent décret, pour les personnels roulants marchandises "grands routiers" ou "longue distance" ;
+
+- jusqu'à la 39e heure par semaine, ou la 169e heure par mois dans les conditions prévues au paragraphe 3 de l'article 4 du présent décret, pour les autres personnels roulants marchandises, à l'exception des conducteurs de messagerie et des convoyeurs de fonds.
 
 5° Annulé par décision du Conseil d'Etat n° 219286 du 30 novembre 2001.
 
 6° Annulé par décision du Conseil d'Etat n° 219286 du 30 novembre 2001.
 
-7° En application de l'article L. 212-7 du code du travail, la durée de temps de service, pour les personnels roulants marchandises "grands routiers" ou "longue distance", et pour les autres personnels roulants marchandises ne peut excéder, à compter du 1er février 2000, les durées maximales suivantes :
+7° En application de l'article L. 212-7 du code du travail, la durée de temps de service pour les personnels roulants marchandises ne peut excéder les durées maximales suivantes :
 
-DURÉE DE TEMPS
+Personnel roulant marchandises grands routiers ou longue distance :
 
-!-----------!------------!------------!
+- DURÉE DE TEMPS de service maximale hebdomadaire sur une semaine isolée : 56 heures.
 
-!           ! DUREE DE   ! DUREE DE   !
+- DURÉE DE TEMPS de service maximale hebdomadaire sur un mois : 50 heures, ou 220 heures par mois dans les conditions prévues au paragraphe 3 de l'article 4 du présent décret.
 
-!           ! TEMPS      ! TEMPS      !
+Autres personnels roulants marchandises à l'exception des conducteurs de messagerie et des convoyeurs de fonds :
 
-!           ! de service ! de service !
+- DURÉE DE TEMPS de service maximale hebdomadaire sur une semaine isolée : 48 heures.
 
-!           ! maximale   ! maximale   !
-
-!           !hebdomadaire!hebdomadaire!
-
-!           ! sur une    !sur un mois !
-
-!           ! semaine    !            !
-
-!           ! isolée     !            !
-
-!-----------!------------!------------!
-
-!Personnel  !56 heures.  !50 heures,  !
-
-!roulant    !            !ou 220      !
-
-!marchan-   !            !heures par  !
-
-!dises      !            !mois dans   !
-
-!"grands    !            !les         !
-
-!routiers"  !            !conditions  !
-
-!  ou       !            !prévues au  !
-
-!"longue    !            !paragraphe 3!
-
-!distance". !            !de l'article!
-
-!           !            !4 du présent!
-
-!           !            !décret.     !
-
-!-----------!------------!------------!
-
-!Autres     !48 heures.  !48 heures,  !
-
-!personnels !            !ou 208      !
-
-!roulants   !            !heures par  !
-
-!marchan-   !            !mois dans   !
-
-!dises.     !            !les         !
-
-!           !            !conditions  !
-
-!           !            !prévues au  !
-
-!           !            !paragraphe  !
-
-!           !            !3 de        !
-
-!           !            !l'article 4 !
-
-!           !            !du présent  !
-
-!           !            !décret.     !
-
-!-----------!------------!------------!
-
-Les conditions d'application du présent 7°, en ce qui concerne les personnels roulants marchandises "grands routiers" ou "longue distance", seront précisées par accord collectif de branche.
-
-Les conditions d'application du présent 7°, en ce qui concerne les personnels roulants marchandises autres que les personnels roulants marchandises "grands routiers" ou "longue distance", seront adaptées et précisées par accord collectif de branche, conclu avant le 1er janvier 2001, en fonction des classifications et des emplois définis par les partenaires sociaux ;(1)
+- DURÉE DE TEMPS de service maximale hebdomadaire sur un mois : 48 heures, ou 208 heures par mois dans les conditions prévues au paragraphe 3 de l'article 4 du présent décret.
 
 8° Le temps non consacré à la conduite par des conducteurs pendant la marche du véhicule lorsque l'équipage comprend deux conducteurs à bord est compté comme travail effectif pour la totalité de sa durée ;
 
 9° Conformément aux dispositions du 1° du présent article, les modalités selon lesquelles les temps de coupures et les temps de restauration sont considérés comme du temps de travail effectif en application des dispositions de l'article L. 212-4 du code du travail peuvent être déterminées, pour la branche, par accord collectif de branche, ou, pour l'entreprise ou l'établissement, par accord d'entreprise ou d'établissement. Les accords conclus à l'issue des négociations engagées dans le cadre du présent alinéa peuvent également déterminer les contreparties qui sont le cas échéant attribuées aux personnels roulants pour des temps de coupures ou de restauration, auxquels ces salariés sont assujettis, et que ces accords ne considéreraient pas comme du temps de travail effectif.
 
-Les durées de temps de service fixées au 7° du présent article peuvent être modifiées par accord collectif de branche, en ce qui concerne les limites maximales applicables et leurs périodes de référence, notamment pour tenir compte de la durée légale du travail effectif fixée à trente-cinq heures par l'article L. 212-1 bis du code du travail.
-
-Les conditions de rémunération des heures de temps de service effectuées, fixées en annexe au présent décret, peuvent être améliorées, au bénéfice du salarié, par la voie conventionnelle.
-
-Les conditions dans lesquelles les heures supplémentaires ouvrent droit au repos récupérateur ou compensateur, fixées par les 4°, 5° et 6° du présent article, peuvent être améliorées, au bénéfice du salarié, par la voie conventionnelle.
+Les durées de temps de service fixées au 7° du présent article peuvent être modifiées par accord collectif de branche, en ce qui concerne les limites maximales applicables et leurs périodes de référence, selon des dispositions plus favorables aux salariés, notamment pour tenir compte de la durée légale du travail effectif fixée à 35 heures par l'article L. 212-1 du code du travail.
 
 Les compensations au travail de nuit défini à l'article L. 213-2 du code du travail, occasionnel ou régulier, sont définies par accord collectif de branche étendu, conclu avant le 30 juin 2000, ou par accord d'entreprise ou d'établissement.
 
