@@ -1,0 +1,5 @@
+# Arrêté du 9 décembre 1981MODELE D'IMPRIME RELATIF AUX DECLARATIONS DE CREATION, DE MODIFICATION DE SITUATION ET DE CESSATION D'ACTIVITE DES ENTREPRISES.
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
