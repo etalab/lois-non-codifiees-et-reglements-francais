@@ -224,7 +224,6 @@
 - [Décret n°88-1066 du 25 novembre 1988 (MAEJ8830069D)](decret-n88-1066-du-25-novembre-1988-maej8830069d)
 - [Décret n°88-1086 du 25 novembre 1988 (MAEJ8830067D)](decret-n88-1086-du-25-novembre-1988-maej8830067d)
 - [Décret n°88-1014 du 26 octobre 1988 (DOMP8800041D)](decret-n88-1014-du-26-octobre-1988-domp8800041d)
-- [Décret n°88-189 du 26 février 1988 (PRMX8810150D)](decret-n88-189-du-26-fevrier-1988-prmx8810150d)
 - [Décret n°88-1011 du 27 octobre 1988 (AGRP8801834D)](decret-n88-1011-du-27-octobre-1988-agrp8801834d)
 - [Décret n°88-1153 du 27 décembre 1988 (JUSC8820841D)](decret-n88-1153-du-27-decembre-1988-jusc8820841d)
 - [Décret n°88-91 du 27 janvier 1988 (DEFD8801037D)](decret-n88-91-du-27-janvier-1988-defd8801037d)
