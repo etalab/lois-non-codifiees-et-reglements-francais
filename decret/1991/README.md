@@ -132,7 +132,6 @@
 - [Décret n°91-1143 du 6 novembre 1991 (INTB9100454D)](decret-n91-1143-du-6-novembre-1991-intb9100454d)
 - [Décret n°91-1144 du 6 novembre 1991 (PRMG9170265D)](decret-n91-1144-du-6-novembre-1991-prmg9170265d)
 - [Décret n°91-1229 du 6 décembre 1991 (MENF9102758D)](decret-n91-1229-du-6-decembre-1991-menf9102758d)
-- [Décret n°91-1231 du 6 décembre 1991 (ECOS9150027D)](decret-n91-1231-du-6-decembre-1991-ecos9150027d)
 - [Décret n°91-1232 du 6 décembre 1991 (ECOM9100493D)](decret-n91-1232-du-6-decembre-1991-ecom9100493d)
 - [Décret n°91-1234 du 6 décembre 1991 (AGRG9100976D)](decret-n91-1234-du-6-decembre-1991-agrg9100976d)
 - [Décret n°91-155 du 6 février 1991 (SANH9002461D)](decret-n91-155-du-6-fevrier-1991-sanh9002461d)
