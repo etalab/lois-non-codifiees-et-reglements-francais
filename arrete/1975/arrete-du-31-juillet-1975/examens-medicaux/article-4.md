@@ -1,10 +1,8 @@
 # Article 4
 
-4.1. Examen médical périodique
+4.1. Sont soumis à un examen médical périodique :
 
-Sont soumis à un examen périodique :
-
-4.1.1. Les candidats ou conducteurs titulaires du permis de conduire les véhicules des catégories C, D, E et les candidats ou conducteurs titulaires du permis de conduire les véhicules des catégories A et B (véhicules spécialement aménagés pour tenir compte du handicap physique du conducteur) telles qu'elles sont définies à l'article 2 ci-dessus ainsi que du permis de la catégorie B valable pour la conduite des taxis et des voitures de remise, des voitures d'ambulances ou des véhicules affectés à des opérations de ramassage scolaire, ainsi que les enseignants de la conduite.
+4.1.1. - Les candidats ou conducteurs titulaires du permis de conduire les véhicules des catégories C, D, E et les candidats ou conducteurs titulaires du permis de conduire les véhicules des catégories A et B (véhicules spécialement aménagés pour tenir compte du handicap physique du conducteur) telles qu'elles sont définies à l'article 2 ci-dessus ainsi que du permis de la catégorie B valable pour la conduite des taxis et des voitures de remise, des voitures d'ambulance, des véhicules affectés à des opérations de ramassage scolaire ou des véhicules affectés au transport public de personnes, ainsi que les enseignants de la conduite.
 
 Cet examen médical est subi avant la délivrance initiale du titre, puis avec la périodicité suivante :
 
@@ -28,15 +26,15 @@ A l'initiative du préfet.
 
 4.2.1.1.  Les candidats au permis de conduire les véhicules des catégories A ou B, telles qu'elles sont définies à l'article 2 ci-dessus, qui :
 
-" - sont atteints de la perte totale de la vision d'un oeil ;
+- sont atteints de la perte totale de la vision d'un oeil ;
 
-" - ont fait l'objet d'une décision de réforme ou d'exemption (temporaire ou définitive) ou sont titulaires d'une pension d'invalidité à titre civil ou militaire ;
+- ont fait l'objet d'une décision de réforme ou d'exemption (temporaire ou définitive) ou sont titulaires d'une pension d'invalidité à titre civil ou militaire ;
 
-" - ont déclaré, dans leur demande, être atteints d'une infirmité d'un ou de plusieurs membres, d'une affection susceptible d'être incompatible avec l'obtention ou le maintien du permis de conduire ou susceptible de donner lieu à la délivrance d'un permis de conduire de validité limitée ;
+- ont déclaré, dans leur demande, être atteints d'une infirmité d'un ou de plusieurs membres, d'une affection susceptible d'être incompatible avec l'obtention ou le maintien du permis de conduire ou susceptible de donner lieu à la délivrance d'un permis de conduire de validité limitée ;
 
-" - ont fait l'objet d'une demande de comparution devant la commission médicale départementale réclamée par l'expert agréé à la suite de constatations faites lors de l'examen du permis de conduire.
+- ont fait l'objet d'une demande de comparution devant la commission médicale départementale réclamée par l'expert agréé à la suite de constatations faites lors de l'examen du permis de conduire.
 
-" Cet examen médical est, en principe, unique. Toutefois, le commissaire de la République peut, sur avis de la commission médicale, délivrer, à la suite de cet examen, un permis de durée de validité limitée ; dans ce dernier cas, la périodicité est celle prévue au paragraphe 4.1.1. "
+Cet examen médical est, en principe, unique. Toutefois, le préfet peut, sur avis de la commission médicale, délivrer, à la suite de cet examen, un permis de durée de validité limitée ; dans ce dernier cas, la périodicité est celle prévue au paragraphe 4.1.1.
 
 4.2.1.2. Les conducteurs titulaires d'un permis de conduire ou susceptibles d'encourir une interdiction de solliciter ce titre, qui ont fait l'objet de l'une des mesures particulières suivantes :
 
@@ -66,4 +64,4 @@ Conducteurs ayant fait l'objet d'une mesure restrictive ou suspensive du droit d
 
 4.2.3. Sont soumises à un examen médical :
 
-Les personnes souhaitant être exemptées du port de la ceinture de sécurité. "
+Les personnes souhaitant être exemptées du port de la ceinture de sécurité.
