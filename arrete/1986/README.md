@@ -125,6 +125,7 @@
 - [Arrêté du 28 décembre 1985](arrete-du-28-decembre-1985)
 - [Arrêté du 28 février 1986](arrete-du-28-fevrier-1986)
 - [Arrêté du 28 janvier 1986](arrete-du-28-janvier-1986)
+- [Arrêté du 28 juillet 1986](arrete-du-28-juillet-1986)
 - [Arrêté du 28 mai 1986](arrete-du-28-mai-1986)
 - [Arrêté du 29 janvier 1986](arrete-du-29-janvier-1986)
 - [Arrêté du 29 juillet 1986](arrete-du-29-juillet-1986)
@@ -135,4 +136,5 @@
 - [Arrêté du 31 décembre 1985](arrete-du-31-decembre-1985)
 - [Arrêté du 31 janvier 1985](arrete-du-31-janvier-1985)
 - [Arrêté du 31 janvier 1986](arrete-du-31-janvier-1986)
+- [Arrêté du 31 juillet 1986](arrete-du-31-juillet-1986)
 - [Arrêté du 31 octobre 1985](arrete-du-31-octobre-1985)
