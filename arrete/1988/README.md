@@ -561,7 +561,6 @@
 - [Arrêté du 30 mars 1988 (TRST8800086A)](arrete-du-30-mars-1988-trst8800086a)
 - [Arrêté du 30 novembre 1988 (BUDR8805006A)](arrete-du-30-novembre-1988-budr8805006a)
 - [Arrêté du 30 novembre 1988 (SPSX8810030A)](arrete-du-30-novembre-1988-spsx8810030a)
-- [Arrêté du 30 novembre 1988 (SPSX8810031A)](arrete-du-30-novembre-1988-spsx8810031a)
 - [Arrêté du 30 novembre 1988 (SPSX8810032A)](arrete-du-30-novembre-1988-spsx8810032a)
 - [Arrêté du 30 novembre 1988 (SPSX8810033A)](arrete-du-30-novembre-1988-spsx8810033a)
 - [Arrêté du 30 septembre 1988 (DEFG8801753A)](arrete-du-30-septembre-1988-defg8801753a)
