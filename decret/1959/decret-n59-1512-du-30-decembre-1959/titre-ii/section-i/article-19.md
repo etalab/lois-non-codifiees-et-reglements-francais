@@ -10,7 +10,7 @@ I. - L'agrément d'investissement est accordé avant le début des prises de vue
 
 La subvention est versée à un compte bancaire ouvert au nom du producteur, pour l'oeuvre cinématographique considérée, en vue du paiement des dépenses prévues à l'article 63 du code de l'industrie cinématographique.
 
-II. - Un agrément complémentaire est délivré, après achèvement de l'oeuvre cinématographique, lorsque les conditions prévues par la réglementation ont bien été respectées. Il constitue la décision d'octroi à titre définitif de subventions visée au paragraphe I. Il ouvre droit, au profit du producteur, au calcul des subventions dans les conditions prévues à l'article 5 (I et II) du décret n° 59-733 du 16 juin 1959 susvisé.
+II. - Un agrément complémentaire est délivré, après achèvement de l'oeuvre cinématographique, lorsque les conditions prévues par la réglementation ont bien été respectées. Il constitue la décision d'octroi à titre définitif de subventions visée au paragraphe I. Il ouvre droit, au profit du producteur, au calcul des subventions dans les conditions prévues à l'article 5 (I, II et III) du décret n° 59-733 du 16 juin 1959 susvisé.
 
 En cas de manquement aux obligations prévues par la réglementation, il peut toutefois être décidé d'accorder l'agrément complémentaire, après avis de la commission d'agrément, sous réserve d'une réduction des taux de calcul des subventions prévues à l'article 5 (I et II) du décret n° 59-733 du 16 juin 1959 susvisé. Cette réduction ne peut être inférieure à 10 p. 100.
 

@@ -24,6 +24,8 @@ f) De concourir à l'effort consenti par les exploitants de salles d'art et d'es
 
 g)D'accorder des primes d'encouragement à l'animation et à la diffusion cinématographiques.
 
+h) De concourir à l'édition de vidéogrammes destinés à l'usage privé du public.
+
 III - A accorder un soutien à la production française de qualité ainsi qu'à la création et à la modernisation de théâtres cinématographiques implantés dans les zones géographiques dont les agglomérations sont insuffisamment équipées en salles de spectacles cinématographiques.
 
 En ce qui concerne les films de long métrage, ce soutien est accordé sous forme d'avances sur recettes sur les subventions prévues au paragraphe II a ci-dessus. Les avances sur recettes peuvent comporter une allocation destinée à contribuer à l'écriture du scénario et des autres textes destinés à la réalisation de l'oeuvre cinématographique.
