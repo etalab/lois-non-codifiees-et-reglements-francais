@@ -1,65 +1,71 @@
 # Article 9
 
-I. - Les redevances d'archéologie préventive sont dues par les personnes publiques ou privées projetant d'exécuter des travaux qui sont soumis à autorisation préalable en application du code de l'urbanisme ou donnent lieu à étude d'impact en application du code de l'environnement ou qui concernent une zone d'aménagement concerté non soumise à l'étude d'impact au sens du même code ou, dans les cas des autres types d'affouillements, qui sont soumis à déclaration administrative préalable selon les modalités fixées par décret en Conseil d'Etat, et pour lesquels les prescriptions prévues à l'article 2 rendent nécessaire l'intervention de l'établissement public afin de détecter et sauvegarder le patrimoine archéologique dans les conditions définies par la présente loi.
+I. - Il est institué une redevance d'archéologie préventive due par les personnes publiques ou privées projetant d'exécuter, sur un terrain d'une superficie égale ou supérieure à 3 000 mètres carrés, des travaux affectant le sous-sol qui sont soumis à une autorisation ou à une déclaration préalable en application du code de l'urbanisme ou donnent lieu à une étude d'impact en application du code de l'environnement ou, dans les cas des autres types d'affouillement, qui sont soumis à déclaration administrative préalable selon les modalités fixées par décret en Conseil d'Etat. En cas de réalisation fractionnée, la surface de terrain à retenir est celle du programme général des travaux.
 
-Pour un lotissement ou une zone d'aménagement concerté, la personne publique ou privée qui réalise ou fait réaliser le projet d'aménagement est débitrice, pour l'ensemble du projet d'aménagement, des redevances de diagnostic et de fouilles, sans préjudice des exonérations prévues au III.
+Le fait générateur de la redevance d'archéologie préventive est :
 
-II. - Le montant de la redevance est arrêté par décision de l'établissement public sur le fondement des prescriptions de l'Etat qui en constituent le fait générateur. Ce montant est établi sur la base :
+1° Pour les travaux soumis à autorisation ou à déclaration préalable en application du code de l'urbanisme, la délivrance de cette autorisation ou la non-opposition aux travaux ;
 
-1° Pour les opérations de diagnostics archéologiques de la formule
+2° Pour les travaux autres que ceux mentionnés au 1° et donnant lieu à une étude d'impact, l'acte qui décide, éventuellement après enquête publique, la réalisation du projet et en détermine l'emprise ;
 
-R (en francs par mètre carré) = T divisé par 320
+3° Pour les autres types d'affouillement, le dépôt de la déclaration administrative préalable.
 
-2° Pour les opérations de fouilles, sur le fondement des diagnostics :
+Dans le cas où l'aménageur souhaite que le diagnostic soit réalisé avant la délivrance de l'autorisation préalable ou la non-opposition aux travaux visée au 1°, ou avant l'édiction de l'acte visé au 2°, le fait générateur de la redevance est le dépôt de la demande de réalisation du diagnostic.
 
-a) De la formule
+Pour un lotissement ou une zone d'aménagement concerté, la personne publique ou privée qui réalise ou fait réaliser le projet d'aménagement est débitrice, pour l'ensemble du projet d'aménagement, de la redevance d'archéologie préventive. Elle bénéficie des exonérations prévues à l'article 9-1 pour les logements à usage locatif construits ou améliorés avec le concours de l'Etat.
 
-R (en francs par mètre carré) = T (H + H'divisé par 7)
+Cette redevance ne peut être perçue qu'une seule fois pour un même terrain d'assiette. Elle n'est pas due lorsque celui-ci a déjà fait l'objet d'une opération visant à la détection, à la conservation ou à la sauvegarde par l'étude scientifique du patrimoine archéologique, effectuée dans des conditions fixées par décret en Conseil d'Etat.
 
-pour les sites archéologiques stratifiés, H représentant la hauteur moyenne en mètres de la couche archéologique et H' la hauteur moyenne en mètres des stériles affectées par la réalisation de travaux publics ou privés d'aménagement ;
+II. - Le montant de la redevance d'archéologie préventive est égal à 0,32 euros par mètre carré. Ce montant est indexé sur l'indice du coût de la construction.
 
-b) De la formule R (en francs par mètre carré) =
+La surface prise en compte est selon le cas :
 
-T((1 divisé par 450) (Ns divisé par 10 + Nc) + H' divisé par 30))
+1° Les surfaces incluses dans les périmètres composant la zone pour les zones d'aménagement concerté ;
 
-pour les ensembles de structures archéologiques non stratifiées. Les variables Ns et Nc représentent le nombre à l'hectare de structures archéologiques respectivement simples et complexes évalué par le diagnostic. Une structure archéologique est dite complexe lorsqu'elle est composée de plusieurs éléments de nature différente et que son étude fait appel à des méthodes et techniques diversifiées d'investigation scientifique.
+2° La surface du terrain d'assiette de l'opération faisant l'objet d'une autorisation ou d'une déclaration en application du code de l'urbanisme ;
 
-Un site est dit stratifié lorsqu'il présente une accumulation sédimentaire ou une superposition de structures simples ou complexes comportant des éléments du patrimoine archéologique.
+3° La surface au sol des installations autorisées pour les aménagements et ouvrages dispensés d'autorisation d'urbanisme et soumis à autorisation administrative qui doivent être précédés d'une étude d'impact en application de l'article L. 122-1 du code de l'environnement ;
 
-Pour les constructions affectées de manière prépondérante à l'habitation, la valeur du 2° est plafonnée à
+4° La surface au sol des aménagements et ouvrages dispensés d'autorisation d'urbanisme et non soumis à autorisation administrative qui doivent être précédés d'une étude d'impact en application de l'article L. 122-1 du même code, sur la base du dossier transmis pour prescription de diagnostic éventuelle en application de l'article 2 ;
 
-T divisé par 3 x S,
+5° La surface de la zone sur laquelle porte la demande de détection du patrimoine archéologique prévue au sixième alinéa du I ;
 
-S représentant la surface hors oeuvre nette totale du projet de construction. Toutefois, dans le cas du a du 2°, la redevance est en outre due pour la hauteur et la surface qui excèdent celles nécessaires pour satisfaire aux normes prévues par les documents d'urbanisme.
+6° L'emprise au sol de la construction lorsque l'opération a pour objet la construction d'un bâtiment agricole.
 
-Dans le cas visé au 1°, la formule s'applique à la surface soumise à l'emprise au sol des travaux et aménagements projetés susceptibles de porter atteinte au sous-sol. Dans les cas visés au 2°, la formule s'applique à la surface soumise à l'emprise des fouilles.
+III. - Au vu des éléments transmis par l'autorité compétente pour délivrer les autorisations ou recevoir les déclarations ou demandes visées au I, le montant de la redevance d'archéologie préventive est liquidé et ordonnancé par le représentant de l'Etat dans le département ou, dans les cas prévus par l'article 255 A du livre des procédures fiscales, par le maire, lorsqu'il est fait application du 1° du I, et par le représentant de l'Etat dans la région, lorsqu'il est fait application des 2°, 3° ou sixième alinéa du I.
 
-La variable T est égale à 620. Son montant est indexé sur l'indice du coût de la construction.
+L'émission du titre de recettes est prescrite à la fin de la quatrième année qui suit celle de la réalisation du fait générateur. Toutefois, lorsque l'autorisation administrative est accordée pour une durée supérieure à quatre ans, l'émission du titre de recettes est prescrite à la fin de l'année qui suit l'année d'expiration de l'autorisation administrative.
 
-III. - Sont exonérés de la redevance d'archéologie préventive les travaux relatifs aux logements à usage locatif construits ou améliorés avec le concours financier de l'Etat en application des 3° et 5° de l'article L. 351-2 et des articles L. 472-1 et L. 472-1-1 du code de la construction et de l'habitation au prorata de la surface hors oeuvre nette effectivement destinée à cet usage, ainsi que les constructions de logements réalisées par une personne physique pour elle-même.
+La redevance d'archéologie préventive est payée en un versement unique au comptable du Trésor compétent désigné par arrêté du ministre chargé du budget. Toutefois, lorsque la redevance est afférente à une opération autre que celles visées au 1° du I faisant l'objet de réalisation par tranche de travaux, le service liquidateur fractionne l'émission du titre de recettes au début de chacune des tranches prévues dans l'autorisation administrative.
 
-Sont exonérés du paiement de la redevance, sur décision de l'établissement public, les travaux d'aménagement exécutés par les collectivités territoriales ou leurs groupements pour eux-mêmes, lorsque ces collectivités ou ces groupements sont dotés d'un service archéologique agréé par l'Etat dans des conditions définies par décret en Conseil d'Etat et qu'ils réalisent, à la demande de l'établissement public, les opérations archéologiques prescrites. L'exonération est fixée au prorata de la réalisation par la collectivité territoriale desdites opérations.
+La redevance d'archéologie préventive est exigible immédiatement à la date d'ordonnancement du titre de recettes. La date limite de paiement est fixée au dernier jour du mois qui suit la date de cet ordonnancement.
 
-La fourniture par la personne redevable de matériels, d'équipements et des moyens nécessaires à leur mise en oeuvre ouvre droit à une réduction du montant de la redevance. La réduction est plafonnée à
+Lorsque le délai de remise des titres au comptable est supérieur à trois jours, la date de prise en charge des titres par le comptable constitue le point de départ pour l'application de la date limite de paiement.
 
-T x H'divisé par 7
+Lorsque la redevance n'a pas été réglée à la date limite de paiement, elle fait l'objet de la majoration de 10 % prévue à l'article 1761 du code général des impôts. Une lettre de rappel est adressée au redevable.
 
-dans le cas mentionné au a du 2° du II et à
+Le titre de recettes établi par l'ordonnateur comporte les décomptes de liquidation et de répartition du produit de la redevance et indique l'identité des tiers tenus solidairement au paiement de la redevance.
 
-T x H'divisé par 30
+Le recouvrement de la redevance est assuré par les comptables du Trésor dans les conditions fixées au titre IV du livre des procédures fiscales. Il est garanti par le privilège prévu au I de l'article 1929 du code général des impôts. Sont tenus solidairement au paiement de la redevance les établissements de crédit ou sociétés de caution mutuelle qui sont garants de l'achèvement de l'opération d'aménagement ou de travaux ainsi que les aménageurs successifs, dont l'identité est précisée dans le contrat prévu à l'article 5 de la présente loi.
 
-dans le cas mentionné au b du 2° du II.
+IV. - Après encaissement de la redevance, le comptable du Trésor en reverse le produit à l'établissement public ou, dans le cas visé au 2° de l'article 4-2, à la collectivité territoriale ou au groupement de collectivités territoriales après déduction des frais d'assiette et de recouvrement et après prélèvement du pourcentage du produit de la redevance alimentant le Fonds national pour l'archéologie préventive prévu à l'article 9-2. Le reversement intervient au plus tard à la fin du mois qui suit le mois d'encaissement.
 
-Lorsque les travaux définis au I ne sont pas réalisés par le redevable, les redevances de diagnostics et de fouilles sont remboursées par l'établissement si les opérations archéologiques afférentes à ces redevances n'ont pas été engagées, déduction faite des frais d'établissement et de recouvrement de la redevance.
+Toutefois, lorsque l'établissement public réalise un diagnostic prescrit à l'occasion de travaux d'aménagement effectués pour le compte d'une collectivité territoriale ou d'un groupement de collectivités territoriales qui n'a pas donné son accord, en application du quatrième alinéa de l'article 4-2, à l'intervention du service archéologique de la collectivité territoriale visée au 2° de l'article 4-2, cette dernière reverse à l'établissement public le montant de la redevance d'archéologie préventive perçue au titre de ces travaux.
 
-IV. - Les redevances sont recouvrées par l'agent comptable de l'établissement public selon les règles applicables au recouvrement des créances des établissements publics nationaux à caractère administratif.
+Dans le cas où une collectivité territoriale ou un groupement de collectivités territoriales assure l'intégralité d'un diagnostic en application du 1° de l'article 4-2, la redevance lui est reversée par l'établissement public, la collectivité territoriale ou le groupement de collectivités territoriales qui l'a perçue.
 
-Le taux relatif aux frais d'établissement et de recouvrement de la redevance est fixé à 0,5 % du montant de la redevance tel qu'il est déterminé aux II et III.
+Les dégrèvements sont prononcés par le service qui a procédé à la liquidation initiale de la redevance au vu des décisions préalables et conformes adoptées par l'établissement public ou la collectivité bénéficiaire et par le ministre chargé de la culture.
 
-En cas de défaut de paiement de la redevance par l'aménageur, l'établissement public lui adresse une lettre de rappel assortie d'une pénalité de retard dont le taux est fixé à 10 % du montant de la redevance.
+Les annulations sont prononcées lorsque les travaux définis à l'article 1er ne sont pas réalisés par le redevable et que l'opération de diagnostic n'a pas été engagée.
 
-Le délai de prescription de la redevance est quadriennal.
+Les dégrèvements et annulations sont imputés sur les titres émis dans des conditions fixées par décret en Conseil d'Etat.
 
-IV. bis - Le montant des redevances d'archéologie préventive, pour lesquelles le fait générateur intervient au cours de l'année 2003, dues par chaque personne publique ou privée concernée par le présent article est réduit de 25 %.
+Lorsque la redevance qui fait l'objet d'un dégrèvement ou d'une annulation a été acquittée par le redevable et répartie aux bénéficiaires, le comptable recouvre préalablement le produit auprès de ces bénéficiaires sur le fondement de leurs propres décisions. Lorsqu'il n'obtient pas le remboursement spontané, le comptable peut procéder par voie de compensation avec le produit de la redevance qu'il répartit par ailleurs.
 
-V. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+Après avoir obtenu le remboursement de la part des bénéficiaires initiaux, le comptable reverse au redevable figurant sur le titre le montant de la redevance à l'exception des frais d'assiette et de recouvrement.
+
+Le recouvrement de la redevance est prescrit quatre années après l'émission du titre.
+
+L'admission en non-valeur de la redevance est prononcée comme en matière d'impôts directs. Lorsque la redevance bénéficie à une collectivité territoriale, le comptable soumet la proposition d'admission en non-valeur à cette collectivité. La collectivité peut refuser la non-valeur dès lors qu'elle est à même de justifier au comptable public des éléments permettant le recouvrement de la créance.
+
+A défaut de décision, la non-valeur est admise d'office après un délai de six mois suivant la demande formulée par le comptable.
