@@ -1,4 +1,3 @@
-# Arrêté du 31 décembre 1986 fixant les taux de la taxe parafiscale sur les liants hydrauliques et sur les produits en béton et en terre cuite
+# Arrêté du 31 décembre 1986 fixant la rémunération des inspecteurs chargés de la surveillance des installations nucléaires de base
 
-- [Article 3](article-3.md)
 - [Article 4](article-4.md)

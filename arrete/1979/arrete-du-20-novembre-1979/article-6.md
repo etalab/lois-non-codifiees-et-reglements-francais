@@ -1,6 +1,6 @@
 # Article 6
 
-L'arrêté d'autorisation d'un rejet pour enfouissement dans le sol fixe notamment pour ce rejet :
+L'arrêté d'autorisation d'un rejet pour enfouissement [*contenu*] dans le sol fixe notamment pour ce rejet :
 
 Le débit maximal instantané ;
 

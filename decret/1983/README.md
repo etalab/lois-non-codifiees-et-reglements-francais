@@ -58,7 +58,6 @@
 - [Décret n°83-73 du 7 février 1983](decret-n83-73-du-7-fevrier-1983)
 - [Décret n°83-792 du 7 septembre 1983](decret-n83-792-du-7-septembre-1983)
 - [Décret n°83-798 du 7 septembre 1983](decret-n83-798-du-7-septembre-1983)
-- [Décret n°83-80 du 7 février 1983](decret-n83-80-du-7-fevrier-1983)
 - [Décret n°83-809 du 7 septembre 1983](decret-n83-809-du-7-septembre-1983)
 - [Décret n°83-1067 du 8 décembre 1983](decret-n83-1067-du-8-decembre-1983)
 - [Décret n°83-1068 du 8 décembre 1983](decret-n83-1068-du-8-decembre-1983)

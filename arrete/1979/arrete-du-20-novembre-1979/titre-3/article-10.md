@@ -1,6 +1,6 @@
 # Article 10
 
-Les décisions d'octroi de primes doivent notamment comporter :
+Les décisions d'octroi de primes doivent notamment comporter [*mentions obligatoires*] :
 
 Les nom, prénoms et adresse du bénéficiaire ;
 

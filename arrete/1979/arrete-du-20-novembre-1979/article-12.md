@@ -1,3 +1,3 @@
 # Article 12
 
-Est abrogé l'arrêté du 26 juillet 1977 relatif aux conditions de versement des primes à l'amélioration de l'habitat.
+Des instructions particulières préciseront pour certaines catégories de rejets la manière de fixer la qualité minimale du rejet mentionné à l'article 2 ci-dessus et les indicateurs de qualité à retenir.
