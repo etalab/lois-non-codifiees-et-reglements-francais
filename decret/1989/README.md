@@ -274,6 +274,8 @@
 - [Décret n°89-278 du 28 avril 1989 (MAEJ8930039D)](decret-n89-278-du-28-avril-1989-maej8930039d)
 - [Décret n°89-426 du 28 juin 1989 (LOGC8900003D)](decret-n89-426-du-28-juin-1989-logc8900003d)
 - [Décret n°89-528 du 28 juillet 1989 (MICT8900474D)](decret-n89-528-du-28-juillet-1989-mict8900474d)
+- [Décret n°89-529 du 28 juillet 1989 (PRME8961347D)](decret-n89-529-du-28-juillet-1989-prme8961347d)
+- [Décret n°89-530 du 28 juillet 1989 (ECOC8900044D)](decret-n89-530-du-28-juillet-1989-ecoc8900044d)
 - [Décret n°89-599 du 28 août 1989 (EQUL8900648D)](decret-n89-599-du-28-aout-1989-equl8900648d)
 - [Décret n°89-713 du 28 septembre 1989 (MCCB8900404D)](decret-n89-713-du-28-septembre-1989-mccb8900404d)
 - [Décret n°90-438 du 28 mai 1990 (EQUX9000093D)](decret-n90-438-du-28-mai-1990-equx9000093d)
