@@ -7,7 +7,7 @@
 <p align="center">SUBSTANCES, PRODUITS</p>
 </td>
 <td width="340">
-<p align="center">ALIMENTS POUR ANIMAUX</p>
+<p align="center">PRODUITS DESTINES AUX ALIMENTS POUR ANIMAUX</p>
 </td>
 <td width="151">
 <p align="center">TENEUR MAXIMALE</p>
@@ -316,7 +316,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- aliments pour animaux domestiques sauf les oiseaux et poissons d'ornement.</p>
+<p>- aliments pour animaux familiers sauf les oiseaux et poissons d'ornement.</p>
 </td>
 </tr>
 <tr>
@@ -340,7 +340,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- aliments pour animaux domestiques.</p>
+<p>- aliments pour animaux familiers.</p>
 </td>
 <td valign="top" width="151">
 <br/>
@@ -380,7 +380,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- aliments pour animaux domestiques.</p>
+<p>- aliments pour animaux familiers.</p>
 </td>
 <td valign="top" width="151">
 <br/>
@@ -413,7 +413,8 @@
 </tr>
 <tr>
 <td rowspan="10" valign="top" width="151">
-<p>1. Aflatoxines B1.</p>
+<p>1. Aflatoxines B<sub>1</sub>
+</p>
 </td>
 <td valign="top" width="340">
 <p>Matières premières pour aliments des animaux, à l'exception de :</p>
@@ -995,15 +996,86 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p>21. Dioxine (somme des PCDD et PCDF, exprimée en équivalents toxiques internationaux).</p>
+<td rowspan="10" valign="top" width="151">
+<p>21. Dioxine (somme des dibenzo-paradioxines polychlorées [PCDD] et des dibenzofuranes polychlorées [PCDF]), exprimée en équivalents toxiques de l'Organisation mondiale de la santé (OMS), en utilisant les TEF-OMS (facteurs d'équivalence toxique, 1997) PCDD/F.</p>
 </td>
 <td valign="top" width="340">
-<p>Pulpes d'agrumes</p>
+<p>a) Toutes les matières premières d'origine végétale pour aliments des animaux, y compris les huiles végétales et les sous-produits.</p>
 </td>
 <td valign="top" width="151">
-<p align="center">500 pg I-TEQ/kg</p>
-<p>(seuil de détection supérieur) (2)</p>
+<p align="center">0,75 ng OMS-PCDD/F-TEQ/kg (2).</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>b) Minéraux au sens du décret du 15 septembre 1986 susvisé.</p>
+</td>
+<td valign="top" width="151">
+<p align="center">1,0 ng OMS-PCDD/F-TEQ/kg (2).</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>c) Argiles kaolinitiques, sulfate de calcium dihydraté, vermiculite, natrolite-phonolite, aluminates de calcium synthétiques et clinoptilolite d'origine sédimentaire appartenant au groupe des agents liants, antimottants et coagulants autorisés en vertu du décret du 28 novembre 1973 susvisé.</p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,75 ng OMS-PCDD/F-TEQ/kg (2).</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>d) Matières grasses animales, y compris les matières grasses du lait et de l'œuf.</p>
+</td>
+<td valign="top" width="151">
+<p align="center">2,0 ng OMS-PCDD/F-TEQ/kg (2).</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>e) Autres produits d'animaux terrestres, y compris le lait, les produits laitiers, les œufs et les ovoproduits.</p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,75 ng OMS-PCDD/F-TEQ/kg (2).</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>f) Huile de poisson.</p>
+</td>
+<td valign="top" width="151">
+<p align="center">6 ng OMS-PCDD/F-TEQ/kg (2).</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>g) Poissons, autres animaux aquatiques, leurs produits et sousproduits, à l'exception de l'huile de poisson et des hydrolysats de protéines de poisson contenant plus de 20 % de matières grasses (3).</p>
+</td>
+<td valign="top" width="151">
+<p align="center">1,25 ng OMS-PCDD/F-TEQ/kg (2).</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>h) Hydrolysats de protéines de poisson contenant plus de 20 % de matières grasses.</p>
+</td>
+<td valign="top" width="151">
+<p align="center">2,25 ng OMS-PCDD/F-TEQ/kg (2).</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>i) Aliments complets ou complémentaires pour animaux, à l'exception des aliments pour animaux à fourrure, pour animaux familiers et pour poissons.</p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,75 ng OMS-PCDD/F-TEQ/kg (2).</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>j) Aliments pour poissons et aliments pour animaux familiers.</p>
+</td>
+<td valign="top" width="151">
+<p align="center">2,25 ng OMS-PCDD/F-TEQ/kg (2).</p>
 </td>
 </tr>
 <tr>
@@ -1086,4 +1158,6 @@
 
 (1) Teneur en fluor pour 1 % de phosphore.
 
-(2) Les teneurs sont calculées en supposant que toutes les valeurs des congénères différents au-dessous du seuil de détection sont égales au seuil de détection.
+(2) Concentrations supérieures ; les concentrations supérieures sont calculées en supposant que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.
+
+(3) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis à ce seuil maximal : le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à un seuil maximum de 4,0 ng OMS-PCDD/F-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire et leur utilisation est interdite dans l'alimentation des animaux dont la chair ou les produits sont destinés à la consommation humaine.
