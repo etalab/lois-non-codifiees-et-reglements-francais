@@ -18,4 +18,14 @@ Délégation permanente de pouvoirs est donnée aux recteurs d'académie pour pr
 
 - congé bonifié, sous réserve des dispositions de l'arrêté du 14 octobre 1986 susvisé ;
 
-- ouverture du droit à la prise en charge des frais de changement de résidence, en application des dispositions du décret du 28 mai 1990 susvisé.
+- ouverture du droit à la prise en charge des frais de changement de résidence, en application des dispositions du décret du 28 mai 1990 susvisé ;
+
+à l'exception des inspecteurs de l'éducation nationale chargés d'une circonscription d'enseignement du premier degré.
+
+Classement après titularisation dans le corps ;
+
+Avancement d'échelon ;
+
+Classement après nomination consécutive à une inscription au tableau d'avancement à la hors-classe ;
+
+Mise en disponibilité dans les cas prévus aux articles 43, 44, 45, 46 et 47 du décret n° 85-986 du 16 septembre 1985 susvisé.

@@ -8,6 +8,6 @@ Les candidats déclarés admis à l'issue des épreuves orales sont classés par
 
 En cas d'égalité de points, les candidats sont départagés par la première épreuve écrite à laquelle ils ont obtenu des notes différentes, ces épreuves étant classées dans l'ordre suivant :
 
-composition française, physique, anglais, mathématiques ; l'épreuve à option n'est pas prise en compte à ce titre.
+composition française, physique, anglais, mathématiques.
 
 Le jury établit éventuellement une liste complémentaire.

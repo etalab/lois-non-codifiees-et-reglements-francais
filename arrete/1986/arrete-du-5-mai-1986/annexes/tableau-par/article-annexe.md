@@ -54,6 +54,8 @@ Tous les lacs de montagne situés à une altitude supérieure à 1 400 mètres.
 
 Département de l'Isère
 
+Lac de Monteynard .
+
 Lac de Paladru.
 
 Département du Jura

@@ -2,82 +2,170 @@
 
 La nature, la durée et les coefficients des épreuves du concours sont indiqués dans le tableau ci-après :
 
-NATURE DES ÉPREUVES : Epreuves écrites
-
-Mathématiques (1)
-
-DURÉE: 3 heures
-
-COEFFICIENT: 6
-
-Epreuve à option (1)  (2) (4)
-
-DURÉE: 2 heures
-
-COEFFICIENT: 6
-
-Physique (1)
-
-DURÉE: 3 heures
-
-COEFFICIENT: 6
-
-Composition française (3)
-
-DURÉE: 3 heures
-
-COEFFICIENT: 6
-
-Anglais (3) (4)
-
-DURÉE: 2 heures
-
-COEFFICIENT: 6
-
-TOTAL COEFFICIENT : 30
-
-NATURE DES ÉPREUVES :
-
-Epreuves orales
-
-Mathématiques (1)
-
-COEFFICIENT: 4
-
-Physique (1).
-
-COEFFICIENT: 4
-
-Géographie.
-
-COEFFICIENT: 3
-
-Anglais (3).
-
-COEFFICIENT: 4
-
-Education physique.
-
-COEFFICIENT: 1          Total.16
-
-Total général.46
-
-(1) L'usage d'une calculatrice électronique est autorisé ; il est défini par la réglementation en vigueur pour les examens et concours relevant du ministère de l'éducation nationale et faisant référence au niveau du baccalauréat.
-
-(2) Option au choix du candidat portant sur l'une des matières suivantes :
-
-- mathématiques ;
-
-- physique ;
-
-- résistance des matériaux, mécanique ;
-
-- électrotechnique ;
-
-- électronique ;
-
-- anglais.
-
-(3) Une note inférieure à 5 sur 20 à cette épreuve est éliminatoire.
-
-(4) Aucun dictionnaire n'est autorisé.
+<table>
+<tbody>
+<tr>
+<td valign="top" width="256">
+<br/>
+<p align="center">NATURE D'ÉPREUVES</p>
+<br/>
+</td>
+<td valign="top" width="256">
+<br/>
+<p align="center">DURÉE</p>
+<br/>
+</td>
+<td valign="top" width="256">
+<br/>
+<p align="center">COEFFICIENT</p>
+<br/>
+</td>
+<td width="3"/>
+</tr>
+<tr>
+<td valign="top" width="256">
+<p align="center">
+<i>Epreuves écrites</i>
+</p>
+</td>
+<td valign="top" width="256"/>
+<td valign="top" width="256"/>
+<td width="3"/>
+</tr>
+<tr>
+<td valign="top" width="256">
+<p>Mathématiques (1)</p>
+</td>
+<td valign="top" width="256">
+<p align="center">3 h</p>
+</td>
+<td valign="top" width="256">
+<p align="center">7</p>
+</td>
+<td width="3"/>
+</tr>
+<tr>
+<td valign="top" width="256">
+<p>Physique (1)</p>
+</td>
+<td valign="top" width="256">
+<p align="center">3 h</p>
+</td>
+<td colspan="2" valign="top" width="259">
+<p align="center">7</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="256">
+<p>Composition française (2)</p>
+</td>
+<td valign="top" width="256">
+<p align="center">3 h</p>
+</td>
+<td colspan="2" valign="top" width="259">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="256">
+<p>Anglais (2) (3)</p>
+</td>
+<td valign="top" width="256">
+<p align="center">2 h</p>
+</td>
+<td colspan="2" valign="top" width="259">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="256">
+<p>Total</p>
+</td>
+<td valign="top" width="256">
+<br/>
+</td>
+<td colspan="2" valign="top" width="259">
+<p align="center">24</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="256">
+<p align="center">
+<i>Epreuves orales</i>
+</p>
+</td>
+<td valign="top" width="256"/>
+<td colspan="2" valign="top" width="259"/>
+</tr>
+<tr>
+<td valign="top" width="256">
+<p>Mathématiques (1)</p>
+</td>
+<td valign="top" width="256"/>
+<td colspan="2" valign="top" width="259">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="256">
+<p>Physique (1)</p>
+</td>
+<td valign="top" width="256"/>
+<td colspan="2" valign="top" width="259">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="256">
+<p>Géographie</p>
+</td>
+<td valign="top" width="256"/>
+<td colspan="2" valign="top" width="259">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="256">
+<p>Anglais (2)</p>
+</td>
+<td valign="top" width="256"/>
+<td colspan="2" valign="top" width="259">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="256">
+<p>Education physique </p>
+</td>
+<td valign="top" width="256"/>
+<td colspan="2" valign="top" width="259">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="256">
+<p>Total</p>
+</td>
+<td valign="top" width="256"/>
+<td colspan="2" valign="top" width="259">
+<p align="center">16</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="256">
+<p>Total général</p>
+</td>
+<td valign="top" width="256"/>
+<td colspan="2" valign="top" width="259">
+<p align="center">40</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" valign="top" width="771">
+<p>(1) L'usage d'une calculatrice électronique est autorisé ; il est défini par la réglementation en vigueur pour les examens et concours relevant du ministère de l'éducation nationale et faisant référence au niveau du baccalauréat.</p>
+<p>(2) Une note inférieure à 5 sur 20 à cette épreuve est éliminatoire.</p>
+<p>(3) Aucun dictionnaire n'est autorisé.</p>
+</td>
+</tr>
+</tbody>
+</table>
