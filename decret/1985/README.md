@@ -177,7 +177,6 @@
 - [Décret n°85-396 du 29 mars 1985](decret-n85-396-du-29-mars-1985)
 - [Décret n°85-1054 du 30 septembre 1985](decret-n85-1054-du-30-septembre-1985)
 - [Décret n°85-1455 du 30 décembre 1985](decret-n85-1455-du-30-decembre-1985)
-- [Décret n°85-1458 du 30 décembre 1985](decret-n85-1458-du-30-decembre-1985)
 - [Décret n°85-1459 du 30 décembre 1985](decret-n85-1459-du-30-decembre-1985)
 - [Décret n°85-1461 du 30 décembre 1985](decret-n85-1461-du-30-decembre-1985)
 - [Décret n°85-1462 du 30 décembre 1985](decret-n85-1462-du-30-decembre-1985)
