@@ -205,6 +205,7 @@
 - [Décret n°84-377 du 21 mai 1984](decret-n84-377-du-21-mai-1984)
 - [Décret n°84-383 du 21 mai 1984](decret-n84-383-du-21-mai-1984)
 - [Décret n°77-429 du 22 avril 1977](decret-n77-429-du-22-avril-1977)
+- [Décret n°84-1026 du 22 novembre 1984](decret-n84-1026-du-22-novembre-1984)
 - [Décret n°84-121 du 22 février 1984](decret-n84-121-du-22-fevrier-1984)
 - [Décret n°84-124 du 22 février 1984](decret-n84-124-du-22-fevrier-1984)
 - [Décret n°84-138 du 22 février 1984](decret-n84-138-du-22-fevrier-1984)
