@@ -4,6 +4,6 @@ Les subventions allouées aux entreprises de production, conformément aux dispo
 
 Les subventions ne sont calculées qu'au profit des entreprises de production ayant obtenu l'agrément complémentaire de l'oeuvre cinématographique dont les droits de télédiffusion sont cédés ou concédés.
 
-Les ministres compétents arrêtent chaque année les taux maximaux et, en fin d'exercice, les taux définitifs.
+Les ministres compétents arrêtent les taux maximaux et chaque année, en fin d'exercice, les taux définitifs.
 
 Les sommes susceptibles d'être versées, à valoir sur la subvention allouée aux entreprises de production, ne peuvent excéder 70 p. 100 des allocations calculées par application des taux maximaux visés à l'alinéa précédent.
