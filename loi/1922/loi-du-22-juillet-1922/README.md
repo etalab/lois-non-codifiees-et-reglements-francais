@@ -9,3 +9,4 @@
 - [Chapitre VI : Réversibilité.](chapitre-vi)
 - [Chapitre VII : Période transitoire.](chapitre-vii)
 - [Chapitre VIII : Dispositions générales.](chapitre-viii)
+- [Chapitre IX : Coordination.](chapitre-ix)
