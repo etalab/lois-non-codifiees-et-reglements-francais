@@ -1,0 +1,5 @@
+# Article 10
+
+Sous réserve des exceptions prévues aux articles 11 à 14 ci-après, les sociétés d'économie mixte locales constituées antérieurement à la date de publication de la présente loi sont tenues, sous les sanctions prévues par l'article 500 de la loi n° 66-537 du 24 juillet 1966 précitée, de procéder à la mise en harmonie de leurs statuts avec les dispositions de la présente loi dans un délai de deux ans à compter de sa publication. Toutefois, ce délai est porté à trois ans à compter de la publication de la présente loi, pour la mise en conformité avec les dispositions du dernier alinéa (2°) de l'article 1er et de l'article 3 ci-dessus qui s'effectue sous la sanction prévue par le troisième alinéa de l'article 500 de la loi du 24 juillet 1966 précitée.
+
+Les dispositions des paragraphes III des articles 5 et 48 de la loi n° 82-213 du 2 mars 1982 modifiée relative aux droits et libertés des communes, des départements et des régions ne sont pas applicables aux acquisitions d'actions dont l'objet est de rendre les collectivités territoriales ou leurs groupements majoritaires dans le capital des sociétés d'économie mixte locales.
