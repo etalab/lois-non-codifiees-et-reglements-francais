@@ -1,4 +1,4 @@
-# Arrêté du 6 juin 1984 fixant l'assiette des cotisations sociales dues par certains éleveurs.
+# SECTION I : ATTRIBUTION DE L'AIDE DE L'ETAT
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

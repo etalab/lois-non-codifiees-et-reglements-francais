@@ -1,11 +1,5 @@
 # Article 2
 
-La composition du comité technique paritaire spécial institué à l'article 1er est fixée comme suit :
+Lorsque l'élevage est associé à une exploitation agricole, le revenu cadastral théorique déterminé en application de l'article 1er s'ajoute au revenu cadastral corrigé des terres exploitées.
 
-a) Représentants de l'administration :
-
-Quatre membres titulaires, dont le chef de l'inspection générale de l'administration, président du comité, et quatre membres suppléants nommés dans les conditions fixées à l'article 7 du décret du 28 mai 1982 susvisé ;
-
-b) Représentants du personnel :
-
-Quatre membres titulaires et quatre membres suppléants désignés conformément aux dispositions de l'article 8 du décret du 28 mai 1982 susvisé.
+Sauf s'il est apiculteur, l'assuré qui met en valeur des terres bénéficie sur le revenu cadastral théorique déterminé en application de l'article 1er d'un abattement de 240 F par hectare de terre mise en valeur, cet abattement ne pouvant pas être supérieur à 720 F.

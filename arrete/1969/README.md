@@ -1,6 +1,7 @@
 # 1969
 
 - [Arrêté du 2 juillet 1969](arrete-du-2-juillet-1969)
+- [Arrêté du 5 février 1969](arrete-du-5-fevrier-1969)
 - [Arrêté du 7 octobre 1969](arrete-du-7-octobre-1969)
 - [Arrêté du 8 juillet 1969](arrete-du-8-juillet-1969)
 - [Arrêté du 9 octobre 1969](arrete-du-9-octobre-1969)
