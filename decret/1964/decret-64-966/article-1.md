@@ -1,9 +1,3 @@
 # Article 1
 
-Les indemnités allouées aux membres de l'académie nationale de médecine ci-dessous visés sont fixées aux taux suivants :
-
-Secrétaire perpétuel 9 000 F par an
-
-Trésorier  9 000 F par an
-
-Membres 3 000 F par an
+Les taux des indemnités allouées aux membres de l'académie de médecine sont fixés par un arrêté conjoint du ministre de l'Education nationale, du ministre de l'Economie et des Finances et du ministre chargé de la Fonction publique.
