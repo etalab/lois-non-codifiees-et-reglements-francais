@@ -194,6 +194,7 @@
 - [Décret n°85-982 du 17 septembre 1985](decret-n85-982-du-17-septembre-1985)
 - [Décret n°85-983 du 17 septembre 1985](decret-n85-983-du-17-septembre-1985)
 - [Décret n°80-470 du 18 juin 1980](decret-n80-470-du-18-juin-1980)
+- [Décret n°85-1118 du 18 octobre 1985](decret-n85-1118-du-18-octobre-1985)
 - [Décret n°85-241 du 18 février 1985](decret-n85-241-du-18-fevrier-1985)
 - [Décret n°85-268 du 18 février 1985](decret-n85-268-du-18-fevrier-1985)
 - [Décret n°85-270 du 18 février 1985](decret-n85-270-du-18-fevrier-1985)
