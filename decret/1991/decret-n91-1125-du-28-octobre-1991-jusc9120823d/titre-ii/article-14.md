@@ -1,3 +1,3 @@
 # Article 14
 
-Le stagiaire ne peut suspendre son stage pendant plus de trois mois sans motif légitime.
+La personne admise à la formation ne peut suspendre celle-ci pendant plus de trois mois sans motif légitime.

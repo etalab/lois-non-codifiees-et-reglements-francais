@@ -1,6 +1,6 @@
 # Article 4
 
-Sont dispensés des conditions prévues aux 2°, 3°, 4° et 5° de l'article 1er, sous réserve d'avoir effectué un an de pratique professionnelle auprès d'un avocat au Conseil d'Etat et à la Cour de cassation, et des dispositions du quatrième alinéa de l'article 17 :
+Sont dispensés des conditions prévues aux 2°, 3° et 4° de l'article 1er, sous réserve d'avoir effectué un an de pratique professionnelle auprès d'un avocat au Conseil d'Etat et à la Cour de cassation, et des dispositions du quatrième alinéa de l'article 17 :
 
 1° Les magistrats et anciens magistrats de l'ordre judiciaire régis par l'ordonnance n° 58-1270 du 22 décembre 1958, autres que ceux bénéficiant des dispenses des articles 2 et 3, justifiant d'au moins huit années d'exercice professionnel dans ce corps ;
 

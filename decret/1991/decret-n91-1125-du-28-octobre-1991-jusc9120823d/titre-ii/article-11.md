@@ -4,4 +4,4 @@ Le stagiaire ne peut se substituer au maître de stage dans les actes de sa fonc
 
 Les travaux de pratique professionnelle doivent correspondre à la durée normale du travail, telle qu'elle résulte des accords ou usages en vigueur pour la catégorie professionnelle considérée. Toutefois, le maître de stage est tenu de laisser au stagiaire le temps nécessaire pour suivre l'enseignement prévu à l'article 9.
 
-La rémunération du stagiaire est fixée conformément aux accords ou usages mentionnés au deuxième alinéa.
+La rémunération du stagiaire est fixée à l'amiable ou, à défaut, par le président du conseil de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation conformément aux accords ou usages mentionnés au deuxième alinéa.

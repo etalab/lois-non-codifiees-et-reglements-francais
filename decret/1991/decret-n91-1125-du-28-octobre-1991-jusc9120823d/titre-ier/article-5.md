@@ -1,6 +1,6 @@
 # Article 5
 
-Peuvent être nommées avocats au Conseil d'Etat et à la Cour de cassation sans remplir les conditions de diplômes, de stage ou d'examens professionnels prévues à l'article 1er les personnes qui ont suivi avec succès un cycle d'études d'une durée minimale de trois ans ou d'une durée équivalente à temps partiel dans une université ou un établissement d'enseignement supérieur ou dans un autre établissement de même niveau de formation et, le cas échéant, la formation professionnelle requise en plus de ce cycle d'études et qui justifient :
+Peuvent être nommées avocats au Conseil d'Etat et à la Cour de cassation sans remplir les conditions de diplômes, de formation ou d'examens professionnels prévues à l'article 1er les personnes qui ont suivi avec succès un cycle d'études d'une durée minimale de trois ans ou d'une durée équivalente à temps partiel dans une université ou un établissement d'enseignement supérieur ou dans un autre établissement de même niveau de formation et, le cas échéant, la formation professionnelle requise en plus de ce cycle d'études et qui justifient :
 
 1° De diplômes, certificats ou autres titres permettant l'exercice de la même profession dans un Etat membre des communautés européennes délivrés :
 
@@ -12,7 +12,7 @@ b) Soit par un pays tiers, à condition que soit fournie une attestation émanan
 
 L'intéressé doit subir devant le jury prévu à l'article 18 un examen d'aptitude dont le programme et les modalités sont fixés par arrêté du garde des sceaux, ministre de la justice, après avis du conseil de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation :
 
-1° Lorsque sa formation porte sur des matières substantiellement différentes de celles qui figurent aux programmes des diplômes et de l'examen d'aptitude mentionnés au 6° de l'article 1er ;
+1° Lorsque sa formation porte sur des matières substantiellement différentes de celles qui figurent aux programmes des diplômes et de l'examen d'aptitude mentionnés au 5° de l'article 1er ;
 
 2° Ou lorsqu'une ou plusieurs des activités professionnelles dont l'exercice est subordonné à la possession de ces diplômes et de cet examen ne sont pas réglementées dans l'Etat membre d'origine ou de provenance ou sont réglementées de manière différente et que cette différence est caractérisée par une formation spécifique requise en France portant sur des matières substantiellement différentes de celles couvertes par le diplôme dont le demandeur fait état.
 
