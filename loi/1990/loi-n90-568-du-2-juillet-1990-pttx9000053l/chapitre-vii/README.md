@@ -9,5 +9,6 @@
 - [Article 31-1](article-31-1.md)
 - [Article 32](article-32.md)
 - [Article 32-1](article-32-1.md)
+- [Article 32-2](article-32-2.md)
 - [Article 33](article-33.md)
 - [Article 33-1](article-33-1.md)

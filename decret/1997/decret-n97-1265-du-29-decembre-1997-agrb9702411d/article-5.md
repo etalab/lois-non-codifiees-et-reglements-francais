@@ -1,0 +1,3 @@
+# Article 5
+
+La taxe est perçue par prélèvement sur le prix payé aux livreurs par les collecteurs agréés et les producteurs grainiers. Elle est reversée à la direction générale des douanes et droits indirects dans les conditions fixées par l'article 25 du décret du 31 juillet 1959 susvisé.

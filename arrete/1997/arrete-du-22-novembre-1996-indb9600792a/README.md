@@ -5,6 +5,7 @@
 - [Titre III : Vérification primitive.](titre-iii)
 - [Titre IV : Vérification périodique.](titre-iv)
 - [Titre V : Organismes agréés.](titre-v)
+- [Titre VI : Obligations des détenteurs.](titre-vi)
 - [Titre VII : Dispositions diverses.](titre-vii)
 - [Article 25](article-25.md)
 - [Annexes](annexes)

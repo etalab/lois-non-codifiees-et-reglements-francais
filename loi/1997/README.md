@@ -28,6 +28,7 @@
 - [Loi n° 97-1102 du 28 novembre 1997 (MAEX9700011L)](loi-n-97-1102-du-28-novembre-1997-maex9700011l)
 - [Loi n° 97-1160 du 19 décembre 1997 (MAEX9700111L)](loi-n-97-1160-du-19-decembre-1997-maex9700111l)
 - [Loi n° 97-1164 du 19 décembre 1997 (MESX9700117L)](loi-n-97-1164-du-19-decembre-1997-mesx9700117l)
+- [Loi n° 97-1239 du 29 décembre 1997 (ECOX9700133L)](loi-n-97-1239-du-29-decembre-1997-ecox9700133l)
 - [Loi n° 97-135 du 13 février 1997 (EQUX9600118L)](loi-n-97-135-du-13-fevrier-1997-equx9600118l)
 - [Loi n° 97-206 du 10 mars 1997 (MAEX9600108L)](loi-n-97-206-du-10-mars-1997-maex9600108l)
 - [Loi n° 97-210 du 11 mars 1997 (TASX9600116L)](loi-n-97-210-du-11-mars-1997-tasx9600116l)

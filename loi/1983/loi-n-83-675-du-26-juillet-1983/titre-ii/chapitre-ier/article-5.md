@@ -1,6 +1,6 @@
 # Article 5
 
-Dans les établissements publics mentionnés au 1 de l'article 1er d'une part, et, d'autre part, dans les entreprises mentionnées au 3 du même article dont plus de 90 p. 100 du capital est détenu par des personnes morales de droit public ou par des sociétés mentionnées à l'article 1er, ainsi que dans des sociétés centrales de groupes d'entreprises nationales d'assurance, les sociétés à forme mutuelle nationalisées, la banque française du commerce extérieur et la compagnie française d'assurance pour le commerce extérieur, le conseil d'administration ou de surveillance comprend :
+Dans les établissements publics mentionnés au 1 de l'article 1er d'une part, et, d'autre part, dans les entreprises mentionnées au 3 du même article dont plus de 90 p. 100 du capital est détenu par des personnes morales de droit public ou par des sociétés mentionnées à l'article 1er, ainsi que dans des sociétés centrales de groupes d'entreprises nationales d'assurance, les sociétés à forme mutuelle nationalisées, la société anonyme Natexis, le Crédit lyonnais et la compagnie française d'assurance pour le commerce extérieur, le conseil d'administration ou de surveillance comprend :
 
 1° des représentants de l'Etat nommés par décret et, le cas échéant, des représentants des autres actionnaires nommés par l'assemblée générale ;
 

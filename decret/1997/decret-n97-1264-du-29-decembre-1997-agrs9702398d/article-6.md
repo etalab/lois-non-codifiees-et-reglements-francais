@@ -1,0 +1,3 @@
+# Article 6
+
+Lorsque les caisses autonomes mutualistes qui garantissent le risque ou les entreprises d'assurance auprès desquelles les contrats d'assurance de groupe ont été souscrits passent une convention avec des organismes pour effectuer pour leur compte les opérations individuelles de recouvrement et d'encaissement des cotisations et de versement des prestations, lesdites caisses et entreprises doivent porter à la connaissance de leurs adhérents les conventions ainsi passées, et toutes modifications de celles-ci, lors de la souscription des contrats d'adhésion ou dans un délai d'un mois suivant la date de modification des conventions.

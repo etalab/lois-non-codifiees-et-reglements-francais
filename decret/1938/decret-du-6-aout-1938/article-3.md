@@ -14,31 +14,27 @@ Par. 6 - Les cotisations des anciens agents et des veuves ainsi que des orphelin
 
 La Société nationale des chemins de fer français verse à la caisse une contribution assise sur le montant des pensions.
 
-Par. 6 bis - Le taux des cotisations prévues au paragraphe 5 à la charge des agents est fixé à 4,90 %.
+Par. 6 bis - Le taux des cotisations prévues au paragraphe 5 à la charge des agents est fixé à 0,15 %.
 
 Le taux des cotisations prévues au paragraphe 5 à la charge de la Société nationale des chemins de fer français est fixé à 7,30 %.
 
-Le taux des cotisations prévues au paragraphe 6 à la charge des pensionnés relevant de la loi du 21 juillet 1909 susvisée est fixé à :
-
-1° 3,50 % du montant de la pension de retraite inférieur à un plafond fixé par le conseil d'administration de la Société nationale des chemins de fer français ;
-
-2° 2,80 % du montant de la pension de retraite compris entre le plafond susvisé et un second plafond fixé dans les mêmes conditions ;
-
-3° 2,80 % du montant de la pension de retraite supérieur au second plafond susvisé ;
-
-4° 1 % du montant total de la pension de retraite lorsque le titulaire relève du 1° de l'article D. 242-9 du code de la sécurité sociale sans bénéficier de l'un des avantages énumérés au 2° dudit article.
+Le taux des cotisations prévues au paragraphe 6 à la charge des pensionnés relevant de la loi du 21 juillet 1909 susvisée et qui ne peuvent se prévaloir des dispositions de l'article R. 711-15 du code de la sécurité sociale est fixé à 0,70 % du montant de la pension de retraite inférieur à un plafond fixé par le conseil d'administration de la Société nationale des chemins de fer français.
 
 Le taux de la contribution à la charge de la Société nationale des chemins de fer français prévue au paragraphe 6 au titre des pensionnés relevant de la loi du 21 juillet 1909 susvisée est fixé à :
 
-1° 4,44 % du montant de la pension de retraite défini au 1° de l'alinéa précédent ;
+1° 4,44 % du montant de la pension de retraite inférieur au plafond défini à l'alinéa précédent ;
 
-2° 3,55 % du montant de la pension de retraite défini au 2° de l'alinéa précédent ;
+2° 3,55 % du montant de la pension de retraite compris entre le plafond mentionné ci-dessus et un second plafond fixé dans les mêmes conditions ;
 
-3° 2,22 % du montant de la pension de retraite défini au 3° de l'alinéa précédent ;
+3° 2,22 % du montant de la pension de retraite supérieur au second plafond ainsi fixé ;
 
 4° 1,08 % du montant total de la pension de retraite lorsque le titulaire relève du 1° de l'article D. 242-9 du code de la sécurité sociale sans bénéficier de l'un des avantages énumérés au 2° dudit article.
 
-Les taux des cotisations assises sur les avantages de retraite visés au premier alinéa de l'article D. 711-5 du code de la sécurité sociale à la charge des titulaires de ces avantages sont ceux fixés audit alinéa.
+Par dérogation aux dispositions du 3° de l'article D. 711-5 du code de la sécurité sociale, le taux des cotisations prévues au paragraphe 6 à la charge des pensionnés relevant de la loi du 21 juillet 1909 susvisée et du deuxième alinéa de l'article L. 131-7-1 dudit code est fixé à :
+
+1° 3,50 % du montant de la pension de retraite inférieur au plafond défini au troisième alinéa ;
+
+2° 2,80 % du montant de la pension de retraite supérieur à ce plafond.
 
 Par. 7 - Le règlement de la caisse prévoit que les agents peuvent pour les soins à donner à leur conjoint et à leurs enfants à charge s'adresser à des praticiens ou des établissements autres que ceux désignés ou agréés en vertu de ses dispositions et fixe, pour ce cas, les conditions de remboursement des frais exposés.
 
