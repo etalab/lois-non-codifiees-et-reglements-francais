@@ -1,3 +1,0 @@
-# Article 2
-
-Les biens des établissements ecclésiastiques qui n'ont pas été réclamés par des associations constituées dans l'année qui a suivi la promulgation de la loi du 9 décembre 1905, conformément aux dispositions de ladite loi, seront attribués à titre définitif, dès la promulgation de la présente loi, aux établissements communaux d'assistance ou de bienfaisance dans les conditions déterminées par l'article 9, premier paragraphe de ladite loi, sans préjudice des attributions à opérer par application des articles 7 et 8, en ce qui concerne les biens grevés d'une affectation étrangère à l'exercice du culte.
