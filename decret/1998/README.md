@@ -520,6 +520,7 @@
 - [Décret n°98-651 du 23 juillet 1998 (MESG9821970D)](decret-n98-651-du-23-juillet-1998-mesg9821970d)
 - [Décret n°98-860 du 23 septembre 1998 (MENF9802290D)](decret-n98-860-du-23-septembre-1998-menf9802290d)
 - [Décret n°98-873 du 23 septembre 1998 (EQUA9800854D)](decret-n98-873-du-23-septembre-1998-equa9800854d)
+- [Décret n°92-703 du 24 juillet 1992 (PRMX9210255D)](decret-n92-703-du-24-juillet-1992-prmx9210255d)
 - [Décret n°97-1177 du 24 décembre 1997 (JUSA9700342D)](decret-n97-1177-du-24-decembre-1997-jusa9700342d)
 - [Décret n°97-1186 du 24 décembre 1997 (MESX9702474D)](decret-n97-1186-du-24-decembre-1997-mesx9702474d)
 - [Décret n°97-1190 du 24 décembre 1997 (MENG9703695D)](decret-n97-1190-du-24-decembre-1997-meng9703695d)
