@@ -4,6 +4,7 @@
 - [Décret n°59-946 du 3 août 1959](decret-n59-946-du-3-aout-1959)
 - [Décret n°59-957 du 3 août 1959](decret-n59-957-du-3-aout-1959)
 - [Décret n°59-1036 du 4 septembre 1959](decret-n59-1036-du-4-septembre-1959)
+- [Décret n°59-601 du 5 mai 1959](decret-n59-601-du-5-mai-1959)
 - [Décret n°59-57 du 6 janvier 1959](decret-n59-57-du-6-janvier-1959)
 - [Décret n°59-701 du 6 juin 1959](decret-n59-701-du-6-juin-1959)
 - [Décret n°59-1053 du 7 septembre 1959](decret-n59-1053-du-7-septembre-1959)
