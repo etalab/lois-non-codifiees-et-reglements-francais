@@ -5,3 +5,4 @@
 - [Chapitre III : Avancement.](chapitre-iii)
 - [Chapitre IV : Dispositions spéciales.](chapitre-iv)
 - [Chapitre V : Dispositions transitoires et finales.](chapitre-v)
+- [Article 29](article-29.md)
