@@ -4,4 +4,4 @@ En vue de faciliter leur installation, il peut être accordé aux jeunes agricul
 
 - une dotation d'installation en capital ;
 
-- des prêts à moyen terme spéciaux accordés par le Crédit agricole mutuel.
+- des prêts à moyen terme spéciaux.
