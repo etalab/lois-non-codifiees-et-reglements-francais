@@ -2,7 +2,7 @@
 
 Le conseil d'administration délibère sur :
 
-1° Le contenu du cahier des charges mentionné à l'article 4 sur l'exécution duquel il entend chaque année un compte rendu ;
+1° Le contenu du contrat d'objectifs mentionné à l'article 4 sur l'exécution duquel il entend chaque année un compte rendu ;
 
 2° La politique de l'établissement et la programmation culturelle ;
 
@@ -28,8 +28,10 @@ Le conseil d'administration délibère sur :
 
 13° Les projets d'achats, de prises à bail et, pour les biens dont l'établissement public est propriétaire, les projets de ventes et de baux d'immeubles ;
 
-14° Les conditions dans lesquelles les espaces du parc sont occupés par des organismes extérieurs pour des manifestations exceptionnelles.
+14° Les conditions dans lesquelles les espaces du parc sont occupés par des organismes extérieurs pour des manifestations exceptionnelles ;
+
+15° Les actions en justice et les transactions.
 
 Le conseil d'administration donne son avis sur le règlement de visite des différents espaces gérés par l'établissement.
 
-Le conseil d'administration peut déléguer à son président les attributions prévues aux points 9° et 12° dans les limites qu'il détermine.
+Le conseil d'administration peut déléguer à son président les attributions prévues aux points 9°, 12° et 15° dans les limites qu'il détermine.
