@@ -72,4 +72,3 @@
 - [Loi n°96-151 du 26 février 1996 (EQUX9500055L)](loi-n96-151-du-26-fevrier-1996-equx9500055l)
 - [Loi n°96-299 du 10 avril 1996 (MIPX9500148L)](loi-n96-299-du-10-avril-1996-mipx9500148l)
 - [Loi n°96-312 du 12 avril 1996 (DOMX9500179L)](loi-n96-312-du-12-avril-1996-domx9500179l)
-- [Loi n°96-313 du 12 avril 1996 (DOMX9500180L)](loi-n96-313-du-12-avril-1996-domx9500180l)
