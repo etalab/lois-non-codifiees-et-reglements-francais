@@ -583,7 +583,6 @@
 - [Arrêté du 31 août 2001 (MENF0101580A)](arrete-du-31-aout-2001-menf0101580a)
 - [Arrêté du 31 août 2001 (RECF0100216A)](arrete-du-31-aout-2001-recf0100216a)
 - [Arrêté du 31 décembre 1993 (DEFF9401025A)](arrete-du-31-decembre-1993-deff9401025a)
-- [Arrêté du 31 décembre 1998 (ECOT9820095A)](arrete-du-31-decembre-1998-ecot9820095a)
 - [Arrêté du 31 janvier 2001 (PRMA0104649A)](arrete-du-31-janvier-2001-prma0104649a)
 - [Arrêté du 31 juillet 2001 (DEFC0101507A)](arrete-du-31-juillet-2001-defc0101507a)
 - [Arrêté du 31 juillet 2001 (ECOI0100389A)](arrete-du-31-juillet-2001-ecoi0100389a)
