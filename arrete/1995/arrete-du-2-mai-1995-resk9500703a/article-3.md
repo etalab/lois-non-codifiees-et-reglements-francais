@@ -1,0 +1,3 @@
+# Article 3
+
+L'évaluation du module de sciences humaines et sociales ne doit comporter que des épreuves rédactionnelles, corrigées avec le concours des universitaires ayant participé à l'enseignement. Elle doit permettre de mesurer l'acquisition des connaissances de base listées au 1° de l'article 1er et celles nécessaires à la compréhension des questions et des thèmes définis au 2° du même article. Elle doit permettre d'apprécier les capacités d'analyse et de réflexion des étudiants. Ses modalités en sont fixées au plus tard à la fin du premier mois de l'année d'enseignement et elles ne peuvent être modifiées en cours d'année.

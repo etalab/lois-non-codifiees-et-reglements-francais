@@ -32,7 +32,7 @@ Pneumologie.
 
 Radiodiagnostic et imagerie médicale.
 
-Rééducation et réadaptation fonctionnelles.
+Médecine physique et de réadaptation.
 
 Rhumatologie.
 

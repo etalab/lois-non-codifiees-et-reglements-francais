@@ -28,6 +28,14 @@ Emplois de catégorie B et C
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
+Agences d'insertion
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois des catégorie A, B et C spécialisés dans l'insertion économique, professionnelle et sociale des départements d'outre-mer
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
 Agence nationale pour l'amélioration des conditions de travail
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés

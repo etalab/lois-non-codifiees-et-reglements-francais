@@ -1,0 +1,3 @@
+# Article 19
+
+Le bénéficiaire de l'autorisation est tenu de faire connaître au préfet les modifications qu'il envisage d'apporter à ses travaux, à ses installations ou à ses méthodes de travail lorsqu'elles sont de nature à entraîner un changement notable des données initiales du dossier mis à l'enquête. Dans ce cas, après avoir consulté les services intéressés, le préfet soit prend un arrêté de prescriptions supplémentaires dans les formes prévues à l'article précédent, soit fait connaître au bénéficiaire qu'il doit déposer une demande nouvelle qui sera instruite dans les conditions prévues par le présent chapitre. Dans ce dernier cas, le bénéficiaire de l'autorisation peut poursuivre ses travaux selon les modalités initialement prévues, jusqu'à nouvelle autorisation.

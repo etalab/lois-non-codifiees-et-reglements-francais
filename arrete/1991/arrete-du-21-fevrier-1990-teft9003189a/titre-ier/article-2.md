@@ -6,6 +6,6 @@ On entend par "préparations" les mélanges ou solutions composés de deux subst
 
 Pour l'application du présent arrêté, sont considérées comme substances dangereuses :
 
-1. Les substances figurant à l'annexe I de l'arrêté du 10 octobre 1983 modifié ;
+1. Les substances figurant à l'annexe I de l'arrêté du 20 avril 1994 ;
 
-2. Les substances qui, bien que ne figurant pas encore à cette annexe, présentent des propriétés dangereuses connues au sens de l'arrêté du 10 octobre 1983 modifié, de l'article R. 5152 du code de la santé publique ou de l'article 1er du décret n° 88-1231 du 29 décembre 1988 susvisé.
+2. Les substances qui, bien que ne figurant pas encore à cette annexe, présentent des propriétés dangereuses connues au sens de l'arrêté du 20 avril 1994, de l'article R. 5152 du code de la santé publique ou de l'article 1er du décret n° 88-1231 du 29 décembre 1988 susvisé.

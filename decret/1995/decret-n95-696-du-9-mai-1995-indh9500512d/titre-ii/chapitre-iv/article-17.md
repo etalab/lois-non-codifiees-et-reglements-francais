@@ -1,0 +1,3 @@
+# Article 17
+
+Huit jours au moins avant l'ouverture de la consultation, le préfet fait publier, aux frais du demandeur, dans deux journaux à large diffusion locale, un avis indiquant l'objet de la demande et faisant connaître au public que l'étude d'impact peut être consultée soit à la préfecture, soit dans une sous-préfecture, soit dans une ou plusieurs des mairies intéressées, selon l'importance et l'étendue des travaux envisagés. Un registre est ouvert pendant une durée de quinze jours afin que le public puisse y consigner ses observations, dans chacun des lieux où l'étude d'impact a été déposée.

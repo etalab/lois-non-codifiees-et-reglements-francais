@@ -1,0 +1,3 @@
+# Article 5-1
+
+Dans les établissements publics de l'Etat soumis aux dispositions du présent décret en application de l'article 1er ci-dessus, les agents chargés d'assurer les fonctions d'inspection en matière d'hygiène et de sécurité sont nommés par le directeur de l'établissement. Ils sont rattachés au service d'inspection générale de l'établissement ou, à défaut, au directeur de l'établissement. Ils peuvent toutefois être rattachés, sur proposition de l'organe délibérant de l'établissement, au service d'inspection générale du ministère de tutelle. Dans ce cas, les agents chargés d'assurer les fonctions d'inspection en matière d'hygiène et de sécurité sont nommés par le ministre concerné.
