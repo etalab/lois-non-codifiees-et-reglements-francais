@@ -25,6 +25,7 @@
 - [Décret n°98-250 du 2 avril 1998 (PRMX9700110D)](decret-n98-250-du-2-avril-1998-prmx9700110d)
 - [Décret n°98-251 du 2 avril 1998 (PRMX9700125D)](decret-n98-251-du-2-avril-1998-prmx9700125d)
 - [Décret n°98-264 du 2 avril 1998 (EQUA9800111D)](decret-n98-264-du-2-avril-1998-equa9800111d)
+- [Décret n°98-266 du 2 avril 1998 (ECOI9700737D)](decret-n98-266-du-2-avril-1998-ecoi9700737d)
 - [Décret n°98-61 du 2 février 1998 (MESO9810007D)](decret-n98-61-du-2-fevrier-1998-meso9810007d)
 - [Décret n°98-62 du 2 février 1998 (ECOT9813956D)](decret-n98-62-du-2-fevrier-1998-ecot9813956d)
 - [Décret n°98-63 du 2 février 1998 (MESH9820044D)](decret-n98-63-du-2-fevrier-1998-mesh9820044d)
