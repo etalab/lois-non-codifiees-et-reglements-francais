@@ -32,6 +32,7 @@
 - [Arrêté du 16 janvier 1980](arrete-du-16-janvier-1980)
 - [Arrêté du 16 juillet 1980](arrete-du-16-juillet-1980)
 - [Arrêté du 16 juin 1975](arrete-du-16-juin-1975)
+- [Arrêté du 16 octobre 1980](arrete-du-16-octobre-1980)
 - [Arrêté du 17 mars 1980](arrete-du-17-mars-1980)
 - [Arrêté du 18 août 1980](arrete-du-18-aout-1980)
 - [Arrêté du 18 juin 1980](arrete-du-18-juin-1980)
