@@ -1,0 +1,3 @@
+# Article 7
+
+Le ministre de l'intérieur et de la décentralisation, le ministre de l'agriculture, le ministre de l'urbanisme et du logement, le secrétaire d'Etat auprès du Premier ministre, le secrétaire d'Etat auprès du ministre de l'intérieur et de la décentralisation, chargé des départements et des territoires d'outre-mer, le secrétaire d'Etat auprès du Premier ministre, chargé de l'environnement et de la qualité de la vie, et le secrétaire d'Etat auprès du ministre de l'agriculture, chargé de l'agriculture et de la forêt, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
