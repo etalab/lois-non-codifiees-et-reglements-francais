@@ -12,7 +12,7 @@ c) L'identité et la qualité de l'employeur ;
 
 d) Le nom de la personne chargée par l'employeur de suivre le déroulement du contrat ;
 
-e) La nature des activités faisant l'objet du contrat emploi-solidarité ;
+e) La nature des activités faisant l'objet du contrat emploi-solidarité ainsi que les actions destinées à faciliter le retour à l'emploi du bénéficiaire du contrat et notamment les actions d'orientation professionnelle ;
 
 f) La durée du contrat de travail ;
 
