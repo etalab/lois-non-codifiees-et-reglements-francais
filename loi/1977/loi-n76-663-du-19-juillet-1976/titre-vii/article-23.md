@@ -4,8 +4,12 @@ Indépendamment des poursuites pénales qui peuvent être exercées et lorsqu'un
 
 Si, à l'expiration du délai fixé pour l'exécution, l'exploitant n'a pas obtempéré à cette injonction, le préfet peut :
 
-Soit faire procéder d'office, aux frais de l'exploitant, à l'exécution des mesures prescrites ;
+a) Obliger l'exploitant à consigner entre les mains d'un comptable public une somme répondant du montant des travaux à réaliser, laquelle sera restituée à l'exploitant au fur et à mesure de l'exécution des mesures prescrites ; il est procédé au recouvrement de cette somme comme en matière de créances étrangères à l'impôt et au domaine. Pour le recouvrement de cette somme, l'Etat bénéficie d'un privilège de même rang que celui prévu à l'article 1920 du code général des impôts ;
 
-Soit obliger l'exploitant à consigner entre les mains d'un comptable public une somme répondant du montant des travaux à réaliser, laquelle sera restituée à l'exploitant au fur et à mesure de l'exécution des travaux ; il est, le cas échéant, procédé au recouvrement de cette somme comme en matière de créances étrangères à l'impôt et aux domaines ;
+b) Faire procéder d'office, aux frais de l'exploitant, à l'exécution des mesures prescrites ;
 
-Soit suspendre par arrêté, après avis du conseil départemental d'hygiène, le fonctionnement de l'installation, jusqu'à exécution des conditions imposées.
+c) Suspendre par arrêté, après avis de la commission départementale consultative compétente, le fonctionnement de l'installation, jusqu'à exécution des conditions imposées et prendre les dispositions provisoires nécessaires.
+
+Les sommes consignées en application des dispositions du a peuvent être utilisées pour régler les dépenses entraînées par l'exécution d'office des mesures prévues aux b et c.
+
+Lorsque l'état exécutoire pris en application d'une mesure de consignation ordonnée par l'autorité administrative fait l'objet d'une opposition devant le juge administratif, le président du tribunal administratif ou le magistrat qu'il délègue, statuant en référé, peut, nonobstant cette opposition, à la demande du représentant de l'Etat ou de toute personne intéressée, décider que le recours ne sera pas suspensif, dès lors que les moyens avancés par l'exploitant ne lui paraissent pas sérieux. Le président du tribunal statue dans les quinze jours de sa saisine.
