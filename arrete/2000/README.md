@@ -114,7 +114,6 @@
 - [Arrêté du 29 décembre 2000 (ECOF0000035A)](arrete-du-29-decembre-2000-ecof0000035a)
 - [Arrêté du 29 décembre 2000 (ECOF0020029A)](arrete-du-29-decembre-2000-ecof0020029a)
 - [Arrêté du 29 novembre 2000 (EQUS0001901A)](arrete-du-29-novembre-2000-equs0001901a)
-- [Arrêté du 30 décembre 2000 (ECOF0000033A)](arrete-du-30-decembre-2000-ecof0000033a)
 - [Arrêté du 30 octobre 2000 (MESF0011417A)](arrete-du-30-octobre-2000-mesf0011417a)
 - [Arrêté du 30 octobre 2000 (RECR0072529A)](arrete-du-30-octobre-2000-recr0072529a)
 - [Arrêté du 31 août 2000 (ECOM9900121A)](arrete-du-31-aout-2000-ecom9900121a)
