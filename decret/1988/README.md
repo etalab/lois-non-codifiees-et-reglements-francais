@@ -210,6 +210,7 @@
 - [Décret n°88-888 du 23 août 1988 (PRMX8810738D)](decret-n88-888-du-23-aout-1988-prmx8810738d)
 - [Décret n°90-360 du 23 avril 1990 (AVCA8910077D)](decret-n90-360-du-23-avril-1990-avca8910077d)
 - [Décret n°88-1060 du 24 novembre 1988 (MERF8800028D)](decret-n88-1060-du-24-novembre-1988-merf8800028d)
+- [Décret n°88-279 du 24 mars 1988 (ASEA8701335D)](decret-n88-279-du-24-mars-1988-asea8701335d)
 - [Décret n°88-286 du 24 mars 1988 (PRMD8850006D)](decret-n88-286-du-24-mars-1988-prmd8850006d)
 - [Décret n°88-893 du 24 août 1988 (DOMP8800029D)](decret-n88-893-du-24-aout-1988-domp8800029d)
 - [Décret n°88-894 du 24 août 1988 (SPSM8801069D)](decret-n88-894-du-24-aout-1988-spsm8801069d)
