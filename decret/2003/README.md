@@ -205,6 +205,7 @@
 - [Décret n°2003-871 du 11 septembre 2003 (SOCO0311179D)](decret-n2003-871-du-11-septembre-2003-soco0311179d)
 - [Décret n°2003-876 du 11 septembre 2003 (MENX0300097D)](decret-n2003-876-du-11-septembre-2003-menx0300097d)
 - [Décret n°2003-890 du 11 septembre 2003 (EQUZ0300170D)](decret-n2003-890-du-11-septembre-2003-equz0300170d)
+- [Décret du 12 décembre 2003 (AGRP0301967D)](decret-du-12-decembre-2003-agrp0301967d)
 - [Décret n°2001-1047 du 12 novembre 2001 (ECOP0100443D)](decret-n2001-1047-du-12-novembre-2001-ecop0100443d)
 - [Décret n°2003-1085 du 12 novembre 2003 (DEVP0310063D)](decret-n2003-1085-du-12-novembre-2003-devp0310063d)
 - [Décret n°2003-1185 du 12 décembre 2003 (ECOT0326327D)](decret-n2003-1185-du-12-decembre-2003-ecot0326327d)
