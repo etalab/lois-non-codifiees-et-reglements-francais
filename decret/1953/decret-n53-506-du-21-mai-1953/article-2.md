@@ -1,6 +1,6 @@
 # Article 2
 
-Le régime d'assurance vieillesse complémentaire comporte six classes de cotisations :
+Le régime d'assurance vieillesse complémentaire comporte sept classes de cotisations :
 
 Classe 4 correspondant à 48 points de retraite ;
 
@@ -13,6 +13,8 @@ Classe 10 correspondant à 120 points de retraite ;
 Classe 12 correspondant à 144 points de retraite ;
 
 Classe 15 correspondant à 180 points de retraite.
+
+Classe 18 correspondant à 216 points de retraite.
 
 La cotisation due par chaque assujetti est celle de la classe à laquelle correspond, dans les conditions fixées par les statuts prévus à l'article 5, son revenu professionnel net provenant de son activité libérale.
 
