@@ -6,4 +6,4 @@ La déclaration initiale mentionne :
 
 2° La nature des activités exercées et la localisation des matières déclarées.
 
-Toute modification ultérieure affectant l'une de ces données est portée sans délai à la connaissance de l'institut de protection et de sûreté nucléaire.
+Toute modification ultérieure affectant l'une de ces données est portée sans délai à la connaissance de la direction de l'expertise nucléaire de défense de l'Institut de radioprotection et de sûreté nucléaire.
