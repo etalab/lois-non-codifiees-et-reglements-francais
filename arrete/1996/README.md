@@ -555,6 +555,7 @@
 - [Arrêté du 29 février 1996 (TAST9610122A)](arrete-du-29-fevrier-1996-tast9610122a)
 - [Arrêté du 29 janvier 1996 (EQUA9600186A)](arrete-du-29-janvier-1996-equa9600186a)
 - [Arrêté du 29 janvier 1996 (TASS9623382A)](arrete-du-29-janvier-1996-tass9623382a)
+- [Arrêté du 29 mars 1996 (ECOT9651499A)](arrete-du-29-mars-1996-ecot9651499a)
 - [Arrêté du 29 mars 1996 (TASH9621109A)](arrete-du-29-mars-1996-tash9621109a)
 - [Arrêté du 29 mars 1996 (TASS9621029A)](arrete-du-29-mars-1996-tass9621029a)
 - [Arrêté du 29 mai 1996 (DEFP9601448A)](arrete-du-29-mai-1996-defp9601448a)

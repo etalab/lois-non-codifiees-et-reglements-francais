@@ -31,6 +31,7 @@
 - [Décret n°96-174 du 4 mars 1996 (MENF9600283D)](decret-n96-174-du-4-mars-1996-menf9600283d)
 - [Décret n°96-176 du 4 mars 1996 (TASP9620449D)](decret-n96-176-du-4-mars-1996-tasp9620449d)
 - [Décret n°96-291 du 4 avril 1996 (PRMX9601362D)](decret-n96-291-du-4-avril-1996-prmx9601362d)
+- [Décret n°96-487 du 4 juin 1996 (TASF9610711D)](decret-n96-487-du-4-juin-1996-tasf9610711d)
 - [Décret n°96-10 du 5 janvier 1996 (AGRS9502489D)](decret-n96-10-du-5-janvier-1996-agrs9502489d)
 - [Décret n°96-11 du 5 janvier 1996 (AGRS9502490D)](decret-n96-11-du-5-janvier-1996-agrs9502490d)
 - [Décret n°96-12 du 5 janvier 1996 (AGRS9502491D)](decret-n96-12-du-5-janvier-1996-agrs9502491d)
