@@ -1,0 +1,3 @@
+# CONTRATS D'ASSURANCE EN CAS DE VIE OU EN CAS DE DECES
+
+- [Article 2](article-2.md)

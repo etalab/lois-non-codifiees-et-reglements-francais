@@ -1,0 +1,4 @@
+# Décret n°80-895 du 13 novembre 1980 PORTANT APPLICATION DE L'ARTICLE 68 DE LA LOI DE FINANCES POUR 1980 (N° 80-30 DU 18 JANVIER 1980)
+
+- [Article 1](article-1.md)
+- [CONTRATS D'ASSURANCE EN CAS DE VIE OU EN CAS DE DECES](contrats-d-assurance-en-cas)
