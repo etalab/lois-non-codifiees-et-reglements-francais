@@ -1,14 +1,7 @@
 # Loi n° 50-586 du 27 mai 1950 relative aux comptes spéciaux du Trésor pour l'année 1950
 
-- [Article 22](article-22.md)
-- [Article 23](article-23.md)
-- [Article 26](article-26.md)
 - [Article 28](article-28.md)
 - [Article 31](article-31.md)
-- [Article 38](article-38.md)
-- [Article 39](article-39.md)
-- [Article 40](article-40.md)
-- [Article 41](article-41.md)
 - [Article 42](article-42.md)
 - [Article 45](article-45.md)
 - [Article 52](article-52.md)
