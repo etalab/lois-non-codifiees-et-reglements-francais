@@ -1,4 +1,4 @@
-# Arrêté du 31 décembre 1985 du 31 décembre 1985 fixant pour 1986 les taux de la taxe parafiscale alimentant le fonds de soutien à l'expression radiophonique locale.
+# Arrêté du 31 décembre 1985 du 31 décembre 1985 fixant les montants de la taxe parafiscale instituée en vue du développement de la formation professionnelle dans les transports
 
 - [Titre Ier : Généralités.](titre-ier)
 - [Titre II : Approbation des modèles.](titre-ii)
