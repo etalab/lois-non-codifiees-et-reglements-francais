@@ -31,6 +31,7 @@
 - [Décret n°67-432 du 26 mai 1967](decret-n67-432-du-26-mai-1967)
 - [Décret n°67-956 du 27 octobre 1967](decret-n67-956-du-27-octobre-1967)
 - [Décret n°67-966 du 27 octobre 1967](decret-n67-966-du-27-octobre-1967)
+- [Décret n°67-976 du 27 octobre 1967](decret-n67-976-du-27-octobre-1967)
 - [Décret n°67-729 du 29 août 1967](decret-n67-729-du-29-aout-1967)
 - [Décret n°67-752 du 29 août 1967](decret-n67-752-du-29-aout-1967)
 - [Décret n°67-513 du 30 juin 1967](decret-n67-513-du-30-juin-1967)
