@@ -154,6 +154,7 @@
 - [Décret n°96-416 du 13 mai 1996 (MAEJ9630015D)](decret-n96-416-du-13-mai-1996-maej9630015d)
 - [Décret n°96-421 du 13 mai 1996 (MCCB9600085D)](decret-n96-421-du-13-mai-1996-mccb9600085d)
 - [Décret n°96-422 du 13 mai 1996 (AGRP9401645D)](decret-n96-422-du-13-mai-1996-agrp9401645d)
+- [Décret n°96-424 du 13 mai 1996 (MAEJ9630017D)](decret-n96-424-du-13-mai-1996-maej9630017d)
 - [Décret n°88-237 du 14 mars 1988 (INTB8800071D)](decret-n88-237-du-14-mars-1988-intb8800071d)
 - [Décret n°96-117 du 14 février 1996 (ECOT9640306D)](decret-n96-117-du-14-fevrier-1996-ecot9640306d)
 - [Décret n°96-119 du 14 février 1996 (AVIC9503471D)](decret-n96-119-du-14-fevrier-1996-avic9503471d)
