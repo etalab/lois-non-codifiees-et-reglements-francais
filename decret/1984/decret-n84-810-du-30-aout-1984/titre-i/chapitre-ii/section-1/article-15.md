@@ -40,6 +40,6 @@ III. - En outre :
 
 3. Pour les affaires relatives aux aéronefs, un représentant du ministre chargé de l'aviation civile.
 
-Le ministre chargé de la marine marchande nomme les membres de la commission autres que les membres de droit.
+Le ministre chargé de la marine marchande nomme pour une durée de trois ans les membres de la commission autres que les membres de droit et leur suppléants.
 
 Les représentants des groupements ou organisations intéressés et leurs suppléants sont nommés sur la proposition de ces groupements ou organisations.

@@ -32,6 +32,6 @@ i) Deux représentants de l'institut français des architectes navals.
 
 Des membres suppléants, en nombre égal à celui des membres titulaires, sont nommés dans les mêmes conditions que ces derniers.
 
-Le ministre chargé de la marine marchande nomme les membres de la commission autres que les membres de droit et leurs suppléants. Les représentants des groupements ou organisations intéressés et leurs suppléants sont nommés sur proposition de ces groupements ou organisations.
+Le ministre chargé de la marine marchande nomme pour une durée de trois ans renouvelable les membres de la commission autres que les membres de droit et leurs suppléants. Les représentants des groupements ou organisations intéressés et leurs suppléants sont nommés sur proposition de ces groupements ou organisations.
 
 Le ministre chargé de la marine marchande désigne en tant que de besoin, à titre d'experts, des représentants de groupements ou d'organismes compétents.

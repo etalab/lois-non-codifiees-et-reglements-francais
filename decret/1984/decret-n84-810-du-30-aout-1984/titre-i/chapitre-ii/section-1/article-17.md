@@ -4,7 +4,7 @@ La commission nationale de sécurité de la navigation de plaisance est placée 
 
 I. - Elle examine en vue de leur approbation par le ministre :
 
-1. Les plans et documents des navires de plaisance d'une longueur inférieure à 25 mètres et supérieure ou égale à 5 mètres, destinés à la commercialisation en France, soumis par le constructeur ou l'importateur ;
+1. Les plans et documents des navires de plaisance d'une longueur inférieure à 25 mètres et supérieure à 5 mètres, destinés à la construction en série et à la la commercialisation en France, soumis par le constructeur ou l'importateur ;
 
 2. Les plans et documents destinés à la construction, par des amateurs, de navires de plaisance d'une longueur inférieure à 25 mètres et supérieure ou égale à 5 mètres, soumis par les architectes navals, avant d'être commercialisés.
 

@@ -11,3 +11,5 @@ a) Des informations et recommandations relatives aux routes et signaux ;
 b) D'appareils, instruments et documents nautiques ;
 
 c) De matériels d'armement et de rechange.
+
+Le transport des marchandises dangereuses, des grains et des autres cargaisons présentant un risque spécial doit être effectué conformément aux règles particulières de sécurité qui lui sont applicables.

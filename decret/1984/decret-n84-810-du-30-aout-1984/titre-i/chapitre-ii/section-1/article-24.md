@@ -18,6 +18,8 @@ En tant que de besoin, un fonctionnaire de l'administration des postes et télé
 
 II. - Pour les questions intéressant la plaisance, la commission locale d'essais peut être composée uniquement des trois premiers membres désignés au paragraphe I ainsi que d'un expert choisi sur une liste établie par la commission nationale de sécurité de la navigation de plaisance.
 
-III. - Pour les essais relatifs à l'approbation de modifications apportées à un matériel déjà approuvé, la commission locale d'essais peut être composée uniquement des deux premiers membres désignés au I.
+III. - Pour les essais partiels relatifs à l'approbation d'un matériel ou pour les essais relatifs à l'approbation de modifications apportées à un matériel déjà approuvé, la commission locale d'essais peut être composée uniquement des membres mentionnés aux a et b du I..
 
 IV. - La commission peut également se faire assister par toute personne ou organisme qu'elle juge utile ; cette personne ou cet organisme sont désignés par décision particulière du président.
+
+V. - Les membres de la commission locale d'essais sont nommés par le directeur régional des affaires maritimes.

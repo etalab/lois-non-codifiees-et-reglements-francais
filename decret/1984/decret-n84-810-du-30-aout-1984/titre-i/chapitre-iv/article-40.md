@@ -12,6 +12,6 @@ III. - La composition des commissions constituées pour la délivrance ou le ren
 
 a) D'un inspecteur de la sécurité des navires et du travail maritime, président ;
 
-b) D'un inspecteur des services radio-électriques.
+b) D'un fonctionnaire de l'administration des postes et télécommunications chargé du contrôle des installations radio-électriques.
 
 Les membres de ces commissions sont nommés par le chef du quartier des affaires maritimes ou son délégué.

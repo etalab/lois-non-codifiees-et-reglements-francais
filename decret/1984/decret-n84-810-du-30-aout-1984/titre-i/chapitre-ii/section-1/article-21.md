@@ -34,6 +34,6 @@ b) Pour les questions de radio-électricité, un représentant de la direction d
 
 c) Eventuellement des personnalités choisies en raison de leur compétence.
 
-Le directeur régional des affaires maritimes nomme les membres de la commission autres que les membres de droit et leurs suppléants. Les représentants des groupements ou organisations intéressés et leurs suppléants sont nommés sur proposition de ces groupements ou organisations.
+Le directeur régional des affaires maritimes nomme pour une durée de trois ans renouvelable les membres de la commission autres que les membres de droit et leurs suppléants. Les représentants des groupements ou organisations intéressés et leurs suppléants sont nommés sur proposition de ces groupements ou organisations.
 
 Dans les départements d'outre-mer de la Réunion et de Saint-Pierre-et-Miquelon ainsi que dans les territoires d'outre-mer et la collectivité territoriale de Mayotte, un arrêté du représentant de l'Etat fixe la composition de la commission de sécurité en effectuant les adaptations nécessaires.

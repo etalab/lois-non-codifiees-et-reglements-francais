@@ -6,9 +6,11 @@ I. - Peuvent être portés devant le directeur régional des affaires maritimes,
 
 II. - Sont admis à saisir le directeur régional des affaires maritimes :
 
-1. L'armateur ou son représentant ;
+a) L'armateur ou son représentant ;
 
-2. Le ou les requérants dont la réclamation faite dans le cadre de la commission de contre-visite a été rejetée.
+b) Le ou les requérants dont la réclamation faite dans le cadre de la commission de contre-visite a été rejetée ;
+
+c) Le constructeur ou son représentant.
 
 III. - Le directeur régional des affaires maritimes statue après avis de la commission régionale de sécurité.
 

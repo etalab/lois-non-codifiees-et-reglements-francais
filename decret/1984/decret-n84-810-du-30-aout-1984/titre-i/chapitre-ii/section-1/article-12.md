@@ -54,4 +54,4 @@ b) Un représentant des industries radio-électriques ;
 
 c) Un officier radio-électronicien de la marine marchande.
 
-Le ministre chargé de la marine marchande nomme les membres de la commission autres que les membres de droit. Les représentants des groupements ou organisations intéressés sont nommés sur la proposition de ces groupements ou organisations. Des membres suppléants, en nombre égal à celui des membres titulaires, sont nommés dans les mêmes conditions que ces derniers.
+Le ministre chargé de la marine marchande nomme  pour une durée de trois ans renouvelable les membres de la commission autres que les membres de droit et leur suppléants . Les représentants des groupements ou organisations intéressés sont nommés sur la proposition de ces groupements ou organisations. Des membres suppléants, en nombre égal à celui des membres titulaires, sont nommés dans les mêmes conditions que ces derniers.
