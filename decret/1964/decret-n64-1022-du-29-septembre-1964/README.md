@@ -4,4 +4,4 @@
 - [CHAPITRE II : Décharge de responsabilité.](chapitre-ii)
 - [CHAPITRE III : Remises gracieuses.](chapitre-iii)
 - [CHAPITRE IV : Dispositions communes.](chapitre-iv)
-- [CHAPITRE V : Dispositions diverses.](chapitre-v)
+- [CHAPITRE VI : Dispositions diverses.](chapitre-vi)

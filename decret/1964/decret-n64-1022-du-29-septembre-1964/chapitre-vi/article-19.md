@@ -1,4 +1,4 @@
-# Article 16
+# Article 19
 
 Les dispositions du présent décret sont applicables aux agents chargés de l'intérim des postes comptables.
 
