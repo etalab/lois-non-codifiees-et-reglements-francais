@@ -10,7 +10,6 @@
 - [Titre IX : Eclairage](titre-ix)
 - [Titre X : Explosifs](titre-x)
 - [Titre XI](titre-xi)
-- [Titre XII : Installations électriques du fond](titre-xii)
 - [Titre XIII : Hygiène et sauvetage](titre-xiii)
 - [Titre XV : Dispositions diverses.](titre-xv)
 - [Article 330](article-330.md)
