@@ -20,13 +20,13 @@
 <td> :            :------:------:------:</td>
 </tr>
 <tr>
-<td> : Echelle 1  :  204 : 215  : 222  :</td>
+<td> : Echelle 1  :  204 : 215  : 225  :</td>
 </tr>
 <tr>
-<td> : Groupe III :  220 : 226  : 232  :</td>
+<td> : Groupe III :  220 : 228  : 235  :</td>
 </tr>
 <tr>
-<td> : Groupe IV  :  232 : 238  : 246  :</td>
+<td> : Groupe IV  :  222 : 238  : 246  :</td>
 </tr>
 <tr>
 <td> : Groupe V   :  238 : 252  : 267  :</td>
@@ -65,19 +65,19 @@
 <td> :            :------:------:------:</td>
 </tr>
 <tr>
-<td> : Echelle 1  :  229 : 236  : 242  :</td>
+<td> : Echelle 1  :  232 : 236  : 254  :</td>
 </tr>
 <tr>
-<td> : Groupe III :  238 : 247  : 256  :</td>
+<td> : Groupe III :  241 : 249  : 258  :</td>
 </tr>
 <tr>
 <td> : Groupe IV  :  256 : 265  : 274  :</td>
 </tr>
 <tr>
-<td> : Groupe V   :  282 : 293  : 302  :</td>
+<td> : Groupe V   :  282 : 298  : 302  :</td>
 </tr>
 <tr>
-<td> : Groupe VI  :  294 : 309  : 322  :</td>
+<td> : Groupe VI  :  294 : 300  : 322  :</td>
 </tr>
 <tr>
 <td> : Groupe VII :  310 : 325  : 340  :</td>
@@ -110,13 +110,13 @@
 <td> :            :------:------:------:</td>
 </tr>
 <tr>
-<td> : Echelle 1  :  250 : 259  :      :</td>
+<td> : Echelle 1  :  267 : 274  : 282  :</td>
 </tr>
 <tr>
-<td> : Groupe III :  262 : 267  : 274  :</td>
+<td> : Groupe III :  264 : 267  : 274  :</td>
 </tr>
 <tr>
-<td> : Groupe IV  :  285 : 293  : 301  :</td>
+<td> : Groupe IV  :  282 : 293  : 301  :</td>
 </tr>
 <tr>
 <td> : Groupe V   :  311 : 321  : 329  :</td>

@@ -1,0 +1,7 @@
+# Arrêté du 22 décembre 1983 FIXANT LES TARIFS DES COTISATIONS D'ACCIDENTS DU TRAVAIL DES SIEGES SOCIAUX ET BUREAUX, DES DEPOTS OU CENTRES LIVREURS ET DES CATEGORIES DE TRAVAILLEURS VISEES A L'ARTICLE 12 DE L'ARRETE DU 1ER OCTOBRE 1976.
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Annexes](annexes)

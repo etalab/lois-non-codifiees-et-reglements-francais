@@ -74,6 +74,33 @@ La prime spéciale mentionnée à l'article 1er est payable mensuellement en app
 <tr>
 <td> :     40.000 à  80.000 habitants        :         9        :</td>
 </tr>
+<tr>
+<td> :                                       :                  :</td>
+</tr>
+<tr>
+<td> : Architecte principal                  :                  :</td>
+</tr>
+<tr>
+<td> :   Villes de                           :                  :</td>
+</tr>
+<tr>
+<td> :    Plus de 400.000 habitants          :         8        :</td>
+</tr>
+<tr>
+<td> :    De 1500.000 à 400.000 habitants    :         8        :</td>
+</tr>
+<tr>
+<td> :    De 80.000 à 150.000 habitants      :         8        :</td>
+</tr>
+<tr>
+<td> :                                       :                  :</td>
+</tr>
+<tr>
+<td> : Architecte                            :         6        :</td>
+</tr>
+<tr>
+<td> :                                       :                  :</td>
+</tr>
 </table>
 
 ------------------------------------------------------------------------------------------------------------------------ :                                       :   TAUX MAXIMUM   :

@@ -10,7 +10,7 @@ Ingénieur en chef et architecte en chef des villes de plus de 400.000 habitants
 
 Ingénieur en chef ou architecte en chef des villes de moins de 400.000 habitants.
 
-Ingénieur principal.
+Ingénieur principal ou architecte principal.
 
 Durée d'ancienneté dans chaque échelon. :============================================================:
 

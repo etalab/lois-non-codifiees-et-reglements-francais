@@ -2,7 +2,7 @@
 
 EMPLOI.
 
-Ingénieur subdivisionnaire.
+Ingénieur subdivisionnaire ou architecte
 
 Durée d'ancienneté dans chaque échelon. :============================================================:
 

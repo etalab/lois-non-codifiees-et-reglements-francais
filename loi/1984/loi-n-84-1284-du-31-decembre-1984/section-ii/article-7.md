@@ -1,0 +1,3 @@
+# Article 7
+
+Sont validés les actes réglementaires et non réglementaires pris sur la base de l'arrêté du représentant de l'Etat dans le département de Seine-et-Marne du 20 décembre 1983 portant révision du périmètre d'urbanisation et modification de la liste des communes membres de l'agglomération nouvelle du Grand-Melun et de Sénart-Villeneuve, et notamment l'arrêté du représentant de l'Etat dans le département de Seine-et-Marne du 17 juin 1984 autorisant la création du syndicat d'agglomération nouvelle de Sénart-Ville nouvelle dans le périmètre qu'il définit, dans la mesure où la régularité de ces actes est affectée par le jugement du tribunal administratif de Versailles en date du 22 juin 1984 relatif à l'arrêté du 20 décembre 1983 susvisé.

@@ -1,0 +1,3 @@
+# Article 5
+
+Le directeur général des douanes et des droits indirects au secrétariat d'Etat auprès du ministre de l'économie, des finances et du budget, chargé du budget, le directeur de la consommation et de la répression des fraudes au secrétariat d'Etat auprès du ministre de l'économie, des finances et du budget, chargé de la consommation, et le directeur de la prévention des pollutions au secrétariat d'Etat auprès du Premier ministre, chargé de l'environnement et de la qualité de la vie, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

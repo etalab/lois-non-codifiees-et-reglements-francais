@@ -1,0 +1,3 @@
+# Article 38
+
+Pour l'application de l'alinéa 1er de l'article 502, la déclaration d'appel pourra être également faite par lettre signée de l'appelant et adressée au greffier de la juridiction permanente qui a rendu la décision attaquée, si l'appelant réside hors de l'île où siège cette juridiction. Dès réception de cette lettre, le greffier dressera l'acte d'appel et y annexera la lettre de l'appelant. Dans le délai prévu par les articles 498 et 500 tels qu'ils sont adaptés par la présente loi, l'appelant est tenu de confirmer son appel à la mairie ou à la gendarmerie la plus proche de sa résidence.

@@ -1,0 +1,8 @@
+# Arrêté du 26 décembre 1983 FIXANT LE TAUX DE COTISATIONS DU REGIME DE L'ASSURANCE OBLIGATOIRE DES SALARIES AGRICOLES CONTRE LES ACCIDENTS DU TRAVAIL ET LES MALADIES PROFESSIONNELLES POUR 1984 ET PART DES RESSOURCES AFFECTEES A CHAQUE CATEGORIE DE CHARGES DE CE REGIME.
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)

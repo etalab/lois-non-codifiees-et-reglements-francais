@@ -1,0 +1,5 @@
+# Décret n°83-1208 du 29 décembre 1983 RELATIF AUX SUSPENSIONS DE PERCEPTION DES TAXES SUR LES PRODUITS FORESTIERS DEFINIS AUX ARTICLES 1613 ET 1618 bis DU CODE GENERAL DES IMPOTS.
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)

@@ -1,6 +1,6 @@
 # Article 2
 
-Les indices bruts minimum et maximum de l'échelle et des groupes de rémunération mentionnés à l'article précédent sont fixés ainsi qu'il suit :
+Les indices bruts minima et maxima de l'échelle et des groupes de rémunération mentionnés à l'article précédent sont fixés ainsi qu'il suit à compter du 1er janvier 1984 [*date*] :
 
 <table>
 <tr>
@@ -19,7 +19,7 @@ Les indices bruts minimum et maximum de l'échelle et des groupes de rémunérat
 <td> :               :                                 :</td>
 </tr>
 <tr>
-<td> : Echelle 1     :          204 - 259              :</td>
+<td> : Echelle 1     :          204 - 282              :</td>
 </tr>
 <tr>
 <td> :               :                                 :</td>

@@ -1,8 +1,8 @@
 # Article 3
 
-Les fonctionnaires de l'Etat, les agents titulaires des collectivités territoriales ou de leurs établissements publics à caractère administratif occupant un emploi classé dans l'échelle I ou les groupes de rémunération III à VI inclus, qui sont recrutés ou promus en application des règles statutaires normales à l'un des grades ou emplois visés à l'article 1er ci-dessus, sont maintenus dans leur nouveau grade ou emploi à l'échelon auquel ils étaient parvenus dans leur précédent emploi.
+Les fonctionnaires de l'Etat, les agents titulaires des collectivités territoriales ou de leurs établissements publics à caractère administratif occupant un emploi classé dans l'échelle I ou les groupes de rémunération III à VI inclus, qui sont recrutés ou promus en application des règles statutaires normales à l'un des grades ou emplois visés à l'article 1er ci-dessus, sont maintenus dans leur nouveau grade ou emploi à l'échelon auquel ils étaient parvenus dans leur précédent emploi. Toutefois, lorsque les intéressés ont atteint au moins le 7e échelon de l'échelle 1 et sont promus ou recrutés dans un emploi classé au groupe III, ils perçoivent, pendant toute la durée où ils demeurent classés dans ce groupe, la rémunération afférente à l'échelon immédiatement supérieur à celui dans lequel ils sont rangés, sous réserve de l'application des dispositions relatives au surclassement, prévues par l'arrêté visé à l'article 1er ci-dessus.
 
-Lorsque cette nomination à l'échelon détermine par application des dispositions de l'alinéa précédent a pour résultat d'accorder aux intéressés un gain excédant 60 points indiciaires bruts, elle est prononcée à l'échelon inférieur le plus voisin tel que ce gain indiciaire n'excède pas le chiffre précité. Toutefois, en cas de nomination ou de promotion dans l'un des grades ou emplois classés dans le groupe VI, ce gain indiciaire maximum est porté à 75 points.
+Lorsque cette nomination à l'échelon déterminé par application des dispositions de l'alinéa précédent a pour résultat d'accorder aux intéressés un gain excédant 60 points indiciaires bruts, elle est prononcée à l'échelon inférieur le plus voisin tel que ce gain indiciaire n'excède pas le chiffre précité. Toutefois, en cas de nomination ou de promotion dans l'un des grades ou emplois classés dans le groupe VI, ce gain indiciaire maximum est porté à 75 points.
 
 Les intéressés conservent, dans la limite de la durée moyenne de service exigée pour l'accès à l'échelon supérieur du nouveau grade ou emploi, l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent emploi.
 
@@ -10,17 +10,17 @@ Dans le cas ou l'application des dispositions du présent article aboutit à cla
 
 1) Lorsque les intéressés appartiennent à deux échelons successifs seuls les agents issus du plus élevé de ces échelons conservent, dans la limite prévue au troisième alinéa ci-dessus, l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent emploi.
 
-2) Lorsque les intéressés appartiennent à plusieurs échelons successifs, seuls les agents issus des deux échelons les plus élevés bénéficient, dans leur nouvel échelon, d'une ancienneté déterminée conformément aux indications du tableau ci-dessous.
+2) Lorsque les intéressés appartiennent à plusieurs échelons successifs, seuls les agents issus des deux échelons les plus élevés bénéficient, dans leur nouvel échelon, d'une ancienneté déterminée conformément aux indications du tableau ci-dessous
 
-=================================
+==============================
 
 ECHELON      : ANCIENNETE
 
-EMPLOI       :  D'ECHELON
+EMPLOI       : D'ECHELON
 
 PRECEDENT    : NOUVEL EMPLOI
 
--------------:-------------------
+-------------:-----------------
 
 Agent issu de: Ancienneté d'
 
@@ -99,4 +99,4 @@ inférieur  : précédent dans la
 </tr>
 </table>
 
-=================================
+==================================

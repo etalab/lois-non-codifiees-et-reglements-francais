@@ -20,7 +20,7 @@
 <td> : Echelle indiciaire (204 - :                                     :</td>
 </tr>
 <tr>
-<td> : 259) :                    :             Echelle 1               :</td>
+<td> : 282) :                    :             Echelle 1               :</td>
 </tr>
 <tr>
 <td> :  Gardien ou garçon de     :                                     :</td>
@@ -105,6 +105,9 @@
 </tr>
 <tr>
 <td> :   d'analyses médicales    :                                     :</td>
+</tr>
+<tr>
+<td> :  Aide ménagère            :                                     :</td>
 </tr>
 </table>
 

@@ -1,49 +1,125 @@
 # Article ANNEXE
 
-EMPLOI : Brigadier des gardiens ou garçons de bureau (groupe II) :
+EMPLOI : Brigadier des gardiens ou garçons de bureau à compter du 1er janvier 1972 (groupe II) :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 189, Echelon 2 = 203,          Echelon 3 = 213, Echelon 4 = 223, Echelon 5 = 232,          Echelon 6 = 238, Echelon 7 = 246, Echelon 8 = 253 ;
+ECHELONS (INDICES BRUTS) : Echelon 1 = 209, Echelon 2 = 215, Echelon 3 = 222, Echelon 4 = 229, Echelon 5 = 236, Echelon 6 = 242, Echelon 7 = 250, Echelon 8 = 259;
 
-EMPLOI : Huissier du maire, 1re catégorie (groupe II) (1) :
+à compter du 1er janvier 1983 (Echelle 1) :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 189, Echelon 2 = 203,          Echelon 3 = 213, Echelon 4 = 223, Echelon 5 = 232,          Echelon 6 = 238, Echelon 7 = 246, Echelon 8 = 253 ; (1) Emploi accessible aux agents occupant un emploi de 2e catégorie qui ont atteint le 4e échelon et dans la limite de 10 p. 100 [*pourcentage*] de l'effectif global de l'emploi de 1ere et de 2e catégorie ou au moins un agent (arrêté du 20 juillet 1977, J.O. du 4 août 1977).
+ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 215, Echelon 3 = 222, Echelon 4 = 229, Echelon 5 = 236, Echelon 6 = 242, Echelon 7 = 250, Echelon 8 = 259 ;
 
-EMPLOI : Huissier du maire, 2e catégorie (groupe I) :
+à compter du 1er janvier 1984 (Echelle 1) :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 100, Echelon 2 = 178,          Echelon 3 = 180, Echelon 4 = 181, Echelon 5 = 183,          Echelon 6 = 186, Echelon 7 = 189, Echelon 8 = 190 ;
+ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 215, Echelon 3 = 225, Echelon 4 = 232, Echelon 5 = 238, Echelon 6 = 254, Echelon 7 = 267, Echelon 8 = 274, Echelon 8 = 282.
 
-EMPLOI : Agent spécialisé des écoles maternelles et des classes enfantines (groupe II) :
+EMPLOI : Huissier du maire, 1re catégorie (groupe II) (1) à compter du 1er janvier 1982 :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 189, Echelon 2 = 203,          Echelon 3 = 213, Echelon 4 = 223, Echelon 5 = 232,          Echelon 6 = 238, Echelon 7 = 246, Echelon 8 = 253 ;
+ECHELONS (INDICES BRUTS) : Echelon 1 = 209, Echelon 2 = 215, Echelon 3 = 222, Echelon 4 = 229, Echelon 5 = 236, Echelon 6 = 242, Echelon 7 = 250, Echelon 8 = 259 ; (1) Emploi accessible aux agents occupant un emploi de 2e catégorie qui ont atteint le 4e échelon et dans la limite de 10 p. 100  de l'effectif global de l'emploi de 1ere et de 2e catégorie ou au moins un agent (arrêté du 20 juillet 1977, J.O. du 4 août 1977).
 
-EMPLOI : Agent de service des écoles, 1re catégorie (groupe II) (1) :
+EMPLOI : Huissier du maire, 2e catégorie (groupe I) à compter du 1er janvier 1982 :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 189, Echelon 2 = 203,          Echelon 3 = 213, Echelon 4 = 223, Echelon 5 = 232,          Echelon 6 = 238, Echelon 7 = 246, Echelon 8 = 253 ; (1) Emploi accessible aux agents occupant un emploi de 2e catégorie qui ont atteint le 4e échelon et dans la limite de 10 p. 100 [*pourcentage*] de l'effectif global de l'emploi de 1ere et de 2e catégorie ou au moins un agent (arrêté du 20 juillet 1977, J.O. du 4 août 1977).
+ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 206, Echelon 3 = 212, Echelon 4 = 219 ;
 
-EMPLOI : Agent de service des écoles, 2e catégorie (groupe I) :
+EMPLOI : Huissier du maire :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 100, Echelon 2 = 178,          Echelon 3 = 180, Echelon 4 = 181, Echelon 5 = 183,          Echelon 6 = 186, Echelon 7 = 189, Echelon 8 = 190 ;
+à compter du 1er janvier 1983 :
 
-EMPLOI : Gardien ou garçon de bureau, 1re catégorie (groupe II) (1) :
+ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 215, Echelon 3 = 222, Echelon 4 = 229, Echelon 5 = 236, Echelon 6 = 242, Echelon 7 = 250, Echelon 8 = 259 ;
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 189, Echelon 2 = 203,          Echelon 3 = 213, Echelon 4 = 223, Echelon 5 = 232,          Echelon 6 = 238, Echelon 7 = 246, Echelon 8 = 253 ; (1) Emploi accessible aux agents occupant un emploi de 2e catégorie qui ont atteint le 4e échelon et dans la limite de 10 p. 100 de l'effectif global de l'emploi de 1ere et de 2e catégorie ou au moins un agent (arrêté du 20 juillet 1977, J.O. du 4 août 1977).
+à compter du 1er janvier 1984 :
 
-EMPLOI : Gardien ou garçon de bureau, 2e catégorie (groupe I) :
+ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 215, Echelon 3 = 225, Echelon 4 = 232, Echelon 5 = 238, Echelon 6 = 254, Echelon 7 = 267, Echelon 8 = 274, Echelon 9 = 282 ;
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 100, Echelon 2 = 178,          Echelon 3 = 180, Echelon 4 = 181, Echelon 5 = 183,          Echelon 6 = 186, Echelon 7 = 189, Echelon 8 = 190 ;
+EMPLOI : Agent spécialisé des écoles maternelles et des classes enfantines :
 
-EMPLOI : Agent de service, 1re catégorie (groupe II) (1) :
+à compter du 1er janvier 1982 (groupe II) :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 189, Echelon 2 = 203,          Echelon 3 = 213, Echelon 4 = 223, Echelon 5 = 232,          Echelon 6 = 238, Echelon 7 = 246, Echelon 8 = 253 ; (1) Emploi accessible aux agents occupant un emploi de 2e catégorie qui ont atteint le 4e échelon et dans la limite de 10 p. 100 [*pourcentage*] de l'effectif global de l'emploi de 1ere et de 2e catégorie ou au moins un agent (arrêté du 20 juillet 1977, J.O. du 4 août 1977).
+ECHELONS (INDICES BRUTS) : Echelon 1 = 209, Echelon 2 = 215, Echelon 3 = 222, Echelon 4 = 229, Echelon 5 = 236, Echelon 6 = 242, Echelon 7 = 250, Echelon 8 = 259;
 
-EMPLOI : Agent de service, 2e catégorie (groupe I) :
+à compter du 1er janvier 1983 (Echelle 1) :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 100, Echelon 2 = 178,          Echelon 3 = 180, Echelon 4 = 181, Echelon 5 = 183,          Echelon 6 = 186, Echelon 7 = 189, Echelon 8 = 190 ;
+Lorsque l'agent est recruté directement dans cet emploi, le 1er échelon sera doté de l'indice brut 209. ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 215, Echelon 3 = 222, Echelon 4 = 229, Echelon 5 = 236, Echelon 6 = 242, Echelon 7 = 250, Echelon 8 = 259 ;
 
-EMPLOI : Manutentionnaire 1re catégorie (groupe II) (1) :
+à compter du 1er janvier 1984 (Echelle 1) :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 189, Echelon 2 = 203,          Echelon 3 = 213, Echelon 4 = 223, Echelon 5 = 232,          Echelon 6 = 238, Echelon 7 = 246, Echelon 8 = 253 ; (1) Emploi accessible aux agents occupant un emploi de 2e catégorie qui ont atteint le 4e échelon et dans la limite de 10 p. 100 de l'effectif global de l'emploi de 1ere et de 2e catégorie ou au moins un agent (arrêté du 20 juillet 1977, J.O. du 4 août 1977).
+Lorsque l'agent est recruté directement dans cet emploi, le 1er échelon sera doté de l'indice brut 209. ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 215, Echelon 3 = 225, Echelon 4 = 232, Echelon 5 = 238, Echelon 6 = 254, Echelon 7 = 267, Echelon 8 = 274, Echelon 9 = 282.
 
-EMPLOI : Manutentionnaire 2e catégorie (groupe I) :
+EMPLOI : Agent de service des écoles :
 
-ECHELONS (INDICES BRUTS) : Echelon 1 = 100, Echelon 2 = 178,          Echelon 3 = 180, Echelon 4 = 181, Echelon 5 = 183,          Echelon 6 = 186, Echelon 7 = 189, Echelon 8 = 190 ;
+à compter du 1er janvier 1982 :
+
+1ère catégorie (groupe II) (1) :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 209, Echelon 2 = 215, Echelon 3 = 222, Echelon 4 = 229, Echelon 5 = 236, Echelon 6 = 242, Echelon 7 = 250, Echelon 8 = 249 ; (1) Emploi accessible aux agents occupant un emploi de 2ème catégorie qui ont atteint le 4ème échelon et dans la limite de 10 p. 100 [*pourcentage*] de l'effectif global de l'emploi de 1ère et de 2ème catégorie ou au moins un agent (arrêté du 20 juillet 1977 J.O. du 4 août 1977).
+
+2ème catégorie (groupe I) :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 206, Echelon 3 = 212, Echelon 4 = 219 ;
+
+à compter du 1er janvier 1983 (Echelle 1) :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 215, Echelon 3 = 222, Echelon 4 = 229, Echelon 5 = 236, Echelon 6 = 242, Echelon 7 = 250, Echelon 8 = 259 ;
+
+à compter du 1er janvier 1984 (Echelle 1) :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 215, Echelon 3 = 225, Echelon 4 = 232, Echelon 5 = 238, Echelon 6 = 254, Echelon 7 = 267, Echelon 8 = 274, Echelon 9 = 282.
+
+EMPLOI : Gardien ou garçon de bureau :
+
+à compter du 1er janvier 1982 :
+
+1ère catégorie (groupe II) (1) :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 206, Echelon 3 = 212, Echelon 4 = 219 ; (1) Emploi accessible aux agents occupant un emploi de 2ème catégorie qui ont atteint le 4ème échelon et dans la limite de 10 p. 100 [*pourcentage*] de l'effectif global de l'emploi de 1ère et de 2ème catégorie ou au moins un agent (arrêté du 20 juillet 1977 J.O. du 4 août 1977).
+
+2ème catégorie (groupe I) :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 206, Echelon 3 = 212, Echelon 4 = 219;
+
+à compter du 1er janvier 1983 (Echelle 1) :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 215, Echelon 3 = 222, Echelon 4 = 229, Echelon 5 = 236, Echelon 6 = 242, Echelon 7 = 250, Echelon 8 = 259 ;
+
+à compter du 1er janvier 1984 (Echelle 1) :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 215, Echelon 3 = 225, Echelon 4 = 232, Echelon 5 = 238, Echelon 6 = 254, Echelon 7 = 267, Echelon 8 = 274, Echelon 9 = 282.
+
+EMPLOI : Agent de service :
+
+à compter du 1er janvier 1982 :
+
+1ère catégorie (groupe II) (1) :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 209, Echelon 2 = 215, Echelon 3 = 222, Echelon 4 = 229, Echelon 5 = 236, Echelon 6 = 242, Echelon 7 = 250, Echelon 8 = 259 ; (1) Emploi accessible aux agents occupant un emploi de 2ème catégorie qui ont atteint le 4ème échelon et dans la limite de 10 p. 100 [*pourcentage*] de l'effectif global de l'emploi de 1ère et de 2ème catégorie ou au moins un agent (arrêté du 20 juillet 1977, J.O. du 4 août 1977).
+
+2ème catégorie (groupe I) :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 206, Echelon 3 = 212, Echelon 4 = 219 ;
+
+à compter du 1er janvier 1983 (Echelle 1) :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 215, Echelon 3 = 222, Echelon 4 = 229, Echelon 5 = 236, Echelon 6 = 242, Echelon 7 = 250, Echelon 8 = 259 ;
+
+à compter du 1er janvier 1984 (Echelle 1) :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 215, Echelon 3 = 225, Echelon 4 = 232, Echelon 5 = 238, Echelon 6 = 254, Echelon 7 = 267, Echelon 8 = 274, Echelon 9 = 282.
+
+EMPLOI : Manutentionnaire :
+
+à compter du 1er janvier 1982 :
+
+1ère catégorie (groupe II) (1) :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 209, Echelon 2 = 215, Echelon 3 = 222, Echelon 4 = 229, Echelon 5 = 236, Echelon 6 = 242, Echelon 7 = 250, Echelon 8 = 259 ; (1) Emploi accessible aux agents occupant un emploi de 2ème catégorie qui ont atteint le 4ème échelon et dans la limite de 10 p. 100 [*pourcentage*] de l'effectif global de l'emploi de 1ère et de 2ème catégorie ou au moins un agent (arrêté du 20 juillet 1977, J.O. du 4 août 1977).
+
+2ème catégorie (groupe I) :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 206, Echelon 3 = 212, Echelon 4 = 219 ;
+
+à compter du 1er janvier 1983 (Echelle 1) :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 215, Echelon 3 = 222, Echelon 4 = 229, Echelon 5 = 236, Echelon 6 = 242, Echelon 7 = 250, Echelon 8 = 259 ;
+
+à compter du 1er janvier 1984 (Echelle 1) :
+
+ECHELONS (INDICES BRUTS) : Echelon 1 = 204, Echelon 2 = 215, Echelon 3 = 225, Echelon 4 = 232, Echelon 5 = 238, Echelon 6 = 254, Echelon 7 = 267, Echelon 8 = 274, Echelon 9 = 282.
