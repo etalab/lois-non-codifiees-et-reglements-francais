@@ -22,7 +22,7 @@ b) Et, le cas échéant, l'ensemble des activités internes et externes prévues
 
 C. - Le repos quotidien et le repos de sécurité :
 
-a) Les praticiens hospitaliers, les praticiens à temps partiel, les assistants, les assistants associés, les praticiens contractuels et les praticiens adjoints contractuels bénéficient d'un repos quotidien conformément aux dispositions respectives de l'article 30 du décret du 24 février 1984 susvisé, de l'article 23 du décret du 29 mars 1985 susvisé, de l'article 3 du décret du 28 septembre 1987 susvisé, de l'article 4-1 du décret du 27 mars 1993 susvisé et de l'article 11 du décret du 6 mai 1995 susvisé.
+a) Les praticiens hospitaliers, les praticiens à temps partiel, les assistants, les assistants associés, les praticiens attachés, les praticiens attachés associés, les praticiens contractuels et les praticiens adjoints contractuels bénéficient d'un repos quotidien conformément aux dispositions respectives de l'article 30 du décret du 24 février 1984 susvisé, de l'article 23 du décret du 29 mars 1985 susvisé, de l'article 3 du décret du 28 septembre 1987 susvisé de l'article 7 du décret n° 2003-769 du 1er août 2003 relatif aux praticiens attachés et praticiens attachés associés des établissements publics de santé, de l'article 4-1 du décret du 27 mars 1993 susvisé et de l'article 11 du décret du 6 mai 1995 susvisé.
 
 En cas de nécessité de service, un praticien peut être placé en astreinte pendant son repos quotidien ;
 

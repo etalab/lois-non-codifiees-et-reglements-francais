@@ -2,7 +2,7 @@
 
 Le temps de travail additionnel :
 
-Les praticiens hospitaliers, les praticiens à temps partiel, les assistants, les assistants associés, les praticiens contractuels et les praticiens adjoints contractuels peuvent, sur la base du volontariat, assurer des périodes de temps de travail additionnel au-delà de leurs obligations de service.
+Les praticiens hospitaliers, les praticiens à temps partiel, les assistants, les assistants associés, les praticiens attachés, les praticiens attachés associés, les praticiens contractuels et les praticiens adjoints contractuels peuvent, sur la base du volontariat, assurer des périodes de temps de travail additionnel au-delà de leurs obligations de service dans les conditions fixées par leurs statuts respectifs.
 
 Au vu des tableaux de service, le responsable d'une structure médicale, pharmaceutique ou odontologique peut proposer à un ou plusieurs praticiens, soumis aux dispositions du présent article, dans le cadre de l'organisation définie avec la commission relative à l'organisation de la permanence des soins, de s'engager contractuellement pour une durée d'un an renouvelable par reconduction expresse, deux mois au moins avant le terme, à effectuer un volume prévisionnel de temps de travail additionnel déterminé par quadrimestre dans le respect des dispositions du C de l'article 2 ci-dessus.
 

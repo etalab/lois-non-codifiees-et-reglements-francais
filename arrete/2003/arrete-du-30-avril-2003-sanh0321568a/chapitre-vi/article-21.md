@@ -7,3 +7,5 @@ Les mandatements sont présentés au comptable sous forme d'état collectif pour
 Les montants dus au titre des indemnités de sujétion et des indemnités de garde sont versés mensuellement après constatation du nombre de nuits, samedis après-midi, dimanches et jours fériés travaillés.
 
 Les montants dus au titre des indemnités pour temps de travail additionnel sont versés au terme de chaque quadrimestre, après déduction, le cas échéant, des indemnités de sujétion déjà versées pour les mêmes périodes de temps de travail.
+
+Lorsqu'un praticien choisit de récupérer ou de verser au compte épargne-temps une période de temps de travail additionnel, il doit être procédé à la régularisation du montant de l'indemnité de sujétion versée au titre de cette même période.

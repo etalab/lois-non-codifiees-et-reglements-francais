@@ -10,7 +10,7 @@ La période de nuit peut être divisée en demi-période de permanence sur place
 
 - pour la seconde partie de la nuit, la demi-période peut être prolongée par une demi-astreinte opérationnelle.
 
-A. - Les praticiens hospitaliers, les praticiens à temps partiel, les assistants, les praticiens contractuels et les praticiens adjoints contractuels :
+A. - Les praticiens hospitaliers, les praticiens à temps partiel, les assistants, les praticiens attachés, les praticiens contractuels et les praticiens adjoints contractuels :
 
 1. Indemnité de sujétion correspondant au temps de travail effectué dans le cadre des obligations de service hebdomadaires, la nuit, le samedi après-midi, le dimanche ou jour férié :
 
@@ -42,9 +42,9 @@ Ces sommes sont réduites de moitié pour les demi-périodes et le samedi après
 
 Les indemnités mentionnées aux 1 et 2 ci-dessus ne peuvent se cumuler pour une même période de temps de travail.
 
-B. - Les personnels enseignants et hospitaliers et les attachés :
+B. - Les personnels enseignants et hospitaliers  :
 
-Indemnité de garde correspondant au temps de travail effectué, au titre de la permanence sur place, au-delà des vacations ou des obligations de service, la nuit, le samedi après-midi, le dimanche ou jour férié :
+Indemnité de garde correspondant au temps de travail effectué, au titre de la permanence sur place, au-delà des obligations de service, la nuit, le samedi après-midi, le dimanche ou jour férié :
 
 Montant pour :
 
@@ -64,7 +64,7 @@ pour les périodes effectuées la nuit, le dimanche ou jour férié.
 
 Ces sommes sont réduites de moitié pour les demi-périodes et le samedi après-midi.
 
-C. - Les assistants associés :
+C. - Les assistants associés et les praticiens attachés associés :
 
 1. Indemnité de sujétion correspondant au temps de travail effectué dans le cadre des obligations de service hebdomadaires, la nuit, le samedi après-midi, le dimanche ou jour férié :
 
@@ -97,13 +97,3 @@ pour les périodes effectuées la nuit, le dimanche ou jour férié.
 Ces sommes sont réduites de moitié pour les demi-périodes et le samedi après-midi.
 
 Les indemnités mentionnées aux 1 et 2 ci-dessus ne peuvent se cumuler pour une même période de temps de travail.
-
-D. - Les attachés associés :
-
-Indemnité de garde correspondant au temps de travail effectué, au titre de la permanence sur place, au-delà des vacations ou des obligations de service, la nuit, le samedi après-midi, le dimanche ou jour férié :
-
-Montant pour :
-
-- une garde : 246,40 Euros ;
-
-- une demi-garde : 123,20 Euros.

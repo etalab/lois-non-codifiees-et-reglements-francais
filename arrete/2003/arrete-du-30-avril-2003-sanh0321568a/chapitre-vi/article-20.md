@@ -8,9 +8,9 @@ Au plus tard le 10 de chaque mois, le directeur de l'établissement arrête l'é
 
 Cet état décompte :
 
-1. Pour les praticiens hospitaliers, les praticiens à temps partiel, les assistants et les assistants associés, les praticiens contractuels et les praticiens adjoints contractuels, le nombre de périodes de temps de travail effectuées donnant lieu au versement de l'indemnité de sujétion, les astreintes et les déplacements réalisés donnant lieu à indemnisation ;
+1. Pour les praticiens hospitaliers, les praticiens à temps partiel, les assistants et les assistants associés, les praticiens attachés et les praticiens attachés associés, les praticiens contractuels et les praticiens adjoints contractuels, le nombre de périodes de temps de travail effectuées donnant lieu au versement de l'indemnité de sujétion, les astreintes et les déplacements réalisés donnant lieu à indemnisation ;
 
-2. Pour les personnels enseignants et hospitaliers, les attachés et les attachés associés, les périodes effectuées la nuit, le samedi après-midi, le dimanche et jour férié, les astreintes et les déplacements réalisés donnant lieu à indemnisation.
+2. Pour les personnels enseignants et hospitaliers, les périodes effectuées la nuit, le samedi après-midi, le dimanche et jour férié, les astreintes et les déplacements réalisés donnant lieu à indemnisation.
 
 Au terme de chaque quadrimestre, le directeur établit, pour les personnels visés au 1 ci-dessus, un état récapitulatif dans l'ordre suivant :
 
