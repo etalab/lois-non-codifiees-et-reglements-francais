@@ -8,4 +8,4 @@ Dans les deux cas, la résolution adoptée par l'assemblée générale est publi
 
 A défaut de réunion de l'assemblée générale, comme dans le cas où cette assemblée n'a pu délibérer valablement sur dernière convocation, tout intéressé [*qualité pour agir*] peut demander en justice [*action*] la dissolution de la société. Il en est de même si les dispositions de l'alinéa 2 ci-dessus n'ont pas été appliquées. Dans tous les cas, le tribunal peut accorder à la société un délai maximal de six mois pour régulariser la situation ; il ne peut prononcer la dissolution, si, au jour où il statue sur le fond, cette régularisation a eu lieu.
 
-Les dispositions du présent article ne sont pas applicables aux sociétés en état de règlement judiciaire ou à celles soumises à la procédure de suspension provisoire des poursuites et d'apurement collectif du passif.
+Les dispositions du présent article ne sont pas applicables aux sociétés en redressement judiciaire.

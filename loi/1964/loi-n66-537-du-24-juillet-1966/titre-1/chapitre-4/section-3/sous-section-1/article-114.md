@@ -1,3 +1,3 @@
 # Article 114
 
-En cas de règlement judiciaire ou de liquidation des biens de la société, les interdictions et déchéances prévues par la législation sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes, sont applicables aux personnes visées et dans les conditions prévues par ladite législation.
+En cas d'ouverture d'une procédure de redressement judiciaire en application de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaire des entreprises, les personnes visées par cette législation peuvent être rendues responsables du passif social et sont soumises aux interdictions et déchéances, dans les conditions prévues par ladite législation.

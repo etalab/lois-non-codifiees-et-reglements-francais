@@ -2,5 +2,4 @@
 
 - [Titre Ier : Règlement judiciaire et liquidation des biens](titre-ier)
 - [Titre II : Faillite personnelle, autres sanctions et réhabilitation.](titre-ii)
-- [Titre III : Banqueroutes et autres infractions](titre-iii)
 - [Titre IV : Dispositions diverses.](titre-iv)

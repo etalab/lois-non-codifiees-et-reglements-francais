@@ -1,5 +1,3 @@
 # Article 335
 
-Dans les assemblées de créanciers prévues aux articles 556 et 595 du code de commerce (1), les représentants de la masse sont tenus de voter dans le sens défini par l'assemblée générale ordinaire des obligataires, convoquée à cet effet.
-
-(1) Les articles 556 et 595 du code de commerce sont abrogés. Voir la loi du 13 juillet 1967 et le décret du 22 décembre 1967.
+Les représentants de la masse sont consultés par le représentant des créanciers sur les modalités de règlement des obligations proposées en application de l'article 24 de la loi n° 85-98 du 25 janvier 1985 précitée. Ils donnent leur accord dans le sens défini par l'assemblée générale ordinaire des obligataires, convoquée à cet effet.

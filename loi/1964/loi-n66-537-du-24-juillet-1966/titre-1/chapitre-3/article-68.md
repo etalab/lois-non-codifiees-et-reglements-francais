@@ -8,4 +8,4 @@ Dans les deux cas, la résolution adoptée par les associés est publiée selon 
 
 A défaut par le gérant ou le commissaire aux comptes de provoquer une décision ou si les associés n'ont pu délibérer valablement, tout intéressé peut demander en justice la dissolution de la société [*qualité pour agir*]. Il en est de même si les dispositions de l'alinéa 2 ci-dessus n'ont pas été appliquées. Dans tous les cas, le tribunal peut accorder à la société un délai maximal de six mois pour régulariser la situation ; il ne peut prononcer la dissolution, si, au jour où il statue sur le fond, cette régularisation a eu lieu.
 
-Les dispositions du présent article ne sont pas applicables aux sociétés en état de règlement judiciaire ou à celles soumises à la procédure de suspension provisoire des poursuites et d'apurement collectif du passif.
+Les dispositions du présent article ne sont pas applicables aux sociétés en redressement judiciaire.
