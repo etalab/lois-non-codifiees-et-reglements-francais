@@ -30,6 +30,8 @@
 - [Décret n°79-58 du 18 janvier 1979](decret-n79-58-du-18-janvier-1979)
 - [Décret n°79-67 du 18 janvier 1979](decret-n79-67-du-18-janvier-1979)
 - [Décret n°79-142 du 19 février 1979](decret-n79-142-du-19-fevrier-1979)
+- [Décret n°79-316 du 19 avril 1979](decret-n79-316-du-19-avril-1979)
+- [Décret n°79-318 du 19 avril 1979](decret-n79-318-du-19-avril-1979)
 - [Décret n°78-1298 du 21 décembre 1978](decret-n78-1298-du-21-decembre-1978)
 - [Décret n°79-262 du 21 mars 1979](decret-n79-262-du-21-mars-1979)
 - [Décret n°79-263 du 21 mars 1979](decret-n79-263-du-21-mars-1979)
