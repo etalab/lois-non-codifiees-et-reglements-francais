@@ -392,6 +392,7 @@
 - [Décret n°2004-463 du 28 mai 2004 (FAMS0421432D)](decret-n2004-463-du-28-mai-2004-fams0421432d)
 - [Décret n°2004-464 du 28 mai 2004 (FAMS0421433D)](decret-n2004-464-du-28-mai-2004-fams0421433d)
 - [Décret n°2004-465 du 28 mai 2004 (DOMA0400018D)](decret-n2004-465-du-28-mai-2004-doma0400018d)
+- [Décret n°2004-466 du 28 mai 2004 (JUSC0420380D)](decret-n2004-466-du-28-mai-2004-jusc0420380d)
 - [Décret du 29 mars 2004 (AGRP0400405D)](decret-du-29-mars-2004-agrp0400405d)
 - [Décret du 29 mars 2004 (AGRP0400501D)](decret-du-29-mars-2004-agrp0400501d)
 - [Décret n°2003-1034 du 29 octobre 2003 (SOCS0323138D)](decret-n2003-1034-du-29-octobre-2003-socs0323138d)
