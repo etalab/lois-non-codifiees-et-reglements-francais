@@ -415,7 +415,6 @@
 - [Arrêté du 18 mars 1987 (TRSA8700117A)](arrete-du-18-mars-1987-trsa8700117a)
 - [Arrêté du 18 mars 1988 (ECOP8800068A)](arrete-du-18-mars-1988-ecop8800068a)
 - [Arrêté du 18 novembre 1987 (ASES8701713A)](arrete-du-18-novembre-1987-ases8701713a)
-- [Arrêté du 18 novembre 1987 (MENF8700697A)](arrete-du-18-novembre-1987-menf8700697a)
 - [Arrêté du 18 novembre 1987 (MENF8700698A)](arrete-du-18-novembre-1987-menf8700698a)
 - [Arrêté du 18 septembre 1987 (BUDB8730003A)](arrete-du-18-septembre-1987-budb8730003a)
 - [Arrêté du 18 septembre 1987 (ENVP8700148A)](arrete-du-18-septembre-1987-envp8700148a)
