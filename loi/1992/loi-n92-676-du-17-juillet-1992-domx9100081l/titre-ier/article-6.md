@@ -38,15 +38,15 @@ Cette imputation est subordonnée à la rectification préalable de la facture i
 
 10. Lorsque le montant de la taxe déductible mentionnée sur une déclaration excède le montant de l'octroi de mer dû d'après les éléments qui figurent sur cette déclaration, l'excédent de taxe dont l'imputation ne peut être faite est reporté, jusqu'à épuisement, sur la ou les déclarations suivantes.
 
-11. Les opérations exonérées en application des dispositions des a, b, c et d du 1 de l'article 2 ouvrent droit à déduction dans les mêmes conditions que si elles étaient soumises à l'octroi de mer.
+11. Les opérations exonérées en application des dispositions des a, b et c du 1 de l'article 2 ouvrent droit à déduction dans les mêmes conditions que si elles étaient soumises à l'octroi de mer.
 
 12. a) L'octroi de mer dont l'imputation n'a pu être opérée ne peut pas faire l'objet d'un remboursement.
 
-b) Cette disposition n'est pas applicable à la taxe qui a grevé l'acquisition de biens d'investissement qui ont supporté l'octroi de mer ou les éléments du prix de produits dont la livraison est exonérée en application des a, b, c et d du 1 de l'article 2.
+b) Cette disposition n'est pas applicable à la taxe qui a grevé l'acquisition des biens d'investissement qui ont supporté l'octroi de mer ou les éléments du prix de produits dont la livraison est exonérée en application des a, b et c du 1 de l'article 2.
 
-13. L'octroi de mer ayant grevé les produits en application de l'article 1er et qui sont expédiés ou exportés hors de la région de la Réunion, ou qui sont expédiés ou exportés vers une destination autre que les régions de la Guadeloupe, de la Guyane et de la Martinique par une personne exerçant une activité économique au sens de l'article 256 A du code général des impôts, est remboursable à l'expéditeur ou à l'exportateur dès lors que la taxe a été facturée ou acquittée et qu'elle n'a pas fait l'objet d'une imputation.
+13. L'octroi de mer ayant grevé les produits en application de l'article 1er et qui sont exportés hors de la région de la Réunion ou hors de la région de Guyane ou hors des régions de Guadeloupe et de Martinique par une personne exerçant une activité économique au sens de l'article 256 A du code général des impôts est remboursable à l'exportateur dès lors que la taxe a été facturée ou acquittée et qu'elle n'a pas fait l'objet d'une imputation.
 
-Ces dispositions ne s'appliquent pas aux biens dont la livraison a été imposable en application du 2° de l'article 1er pour les expéditions vers les régions de Martinique ou de Guadeloupe.
+Ces dispositions ne sont pas applicables aux produits imposables dans la région de Guyane en application du 2° de l'article 1er expédiés vers les régions de Martinique ou de Guadeloupe.
 
 14. Le crédit de taxe déductible dont le remboursement a été demandé ne peut donner lieu à imputation. Il est annulé lors du remboursement.
 

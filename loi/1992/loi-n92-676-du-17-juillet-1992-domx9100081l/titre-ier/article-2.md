@@ -2,15 +2,15 @@
 
 1. Sont exonérées de l'octroi de mer :
 
-a) Les livraisons dans les régions de Guadeloupe, de Guyane ou de Martinique de produits imposables en application des dispositions du 2° de l'article 1er, exportés ou expédiés vers une destination autre que ces régions ;
+a) Les livraisons dans la région de la Réunion de produits imposables en application des dispositions du 2° et du 3° de l'article 1er exportés en dehors de cette région ;
 
-b) Les livraisons dans la région de la Réunion de produits imposables en application des dispositions du 2° de l'article 1er, exportés ou expédiés hors de cette région ;
+b) Les livraisons dans les régions de Guadeloupe et de Martinique de produits imposables en application des dispositions du 2° et du 3° de l'article 1er exportés en dehors de ces deux régions ;
 
-c) Jusqu'au 31 décembre 1995, les livraisons dans les régions de Guadeloupe et de Martinique de produits exportés ou expédiés vers la région de Guyane ;
+c) Les livraisons dans la région de Guyane de produits imposables en application des dispositions du 2° et du 3° de l'article 1er exportés en dehors de cette région, à l'exception des produits imposables en application des dispositions du 2° de l'article 1er expédiés vers les régions de Guadeloupe ou de Martinique ;
 
-d) Les livraisons de produits imposables en application des dispositions du 3° de l'article 1er, exportés ou expédiés vers une autre région ;
+d) Les introductions dans les régions de Guadeloupe ou de Martinique de produits dont la livraison a été imposable dans la région de Guyane en application des dispositions du 2° de l'article 1er.
 
-e) Les introductions dans les régions de Guadeloupe ou de Martinique ou, à compter du 1er janvier 1996, de Guyane, de produits dont la livraison a été imposable dans l'une de ces régions en application du 2° de l'article 1er.
+1 bis. A compter du 1er janvier 1996, les livraisons de produits imposables en application du 2° de l'article 1er dans les régions de Guadeloupe et de Martinique expédiés vers la région de Guyane sont soumises à l'octroi de mer et les introductions dans la région de Guyane de produits imposables dans les régions de Guadeloupe et de Martinique en application des dispositions du 2° de l'article 1er sont exonérées.
 
 2. Les conseils régionaux peuvent exonérer l'introduction de marchandises lorsqu'il s'agit :
 
