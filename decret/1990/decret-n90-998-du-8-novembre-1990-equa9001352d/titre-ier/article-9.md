@@ -1,0 +1,3 @@
+# Article 9
+
+Peuvent seuls être affectés dans les fonctions d'instructeur de la circulation aérienne à l'Ecole nationale de l'aviation civile les ingénieurs du contrôle de la navigation aérienne qui, au moment de leur affectation, exercent une fonction de contrôle de la circulation aérienne et qui, pendant une durée au moins égale à trois ans, ont exercé des fonctions correspondant à la qualification de premier contrôleur. Cette affectation est prononcée pour une durée maximum de trois ans. Elle peut être prolongée pour une durée égale si l'intéressé a obtenu au préalable le renouvellement de l'autorisation d'exercer la qualification de contrôle correspondant à son précédent centre d'affectation.

@@ -1,0 +1,3 @@
+# Article 4
+
+Peuvent seuls exercer les fonctions de premier contrôleur dans un centre régional de la navigation aérienne et dans les aérodromes dont la liste figure dans l'annexe I au présent décret, les fonctions de contrôleur dans les centres de contrôle régionaux d'outre-mer et les fonctions de contrôleur d'approche sur les autres aérodromes les ingénieurs du contrôle de la navigation aérienne qui, après vérification de leurs connaissances et de leurs aptitudes professionnelles, ont obtenu une qualification de contrôle pour le centre d'affectation et une autorisation d'exercice de la qualification, délivrées et renouvelées dans des conditions fixées par arrêté du ministre chargé de l'aviation civile.

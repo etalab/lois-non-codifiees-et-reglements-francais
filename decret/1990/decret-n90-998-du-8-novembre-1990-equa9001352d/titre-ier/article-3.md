@@ -1,0 +1,5 @@
+# Article 3
+
+Les ingénieurs du contrôle de la navigation aérienne sont chargés d'assurer les services de la circulation aérienne prévus à l'article D. 131-9 du code de l'aviation civile dans les centres régionaux de la navigation aérienne, les centres de contrôle régionaux d'outre-mer et les aérodromes, dont la liste est établie par un arrêté du ministre chargé de l'aviation civile en fonction du nombre et de la nature des mouvements d'aéronefs, du nombre de passagers ou de la complexité du dispositif de la circulation aérienne ainsi que dans le ou les organismes chargés de l'organisation et de la régulation du trafic aérien et dans les détachements civils de coordination.
+
+Les ingénieurs du contrôle de la navigation aérienne peuvent être chargés dans les organismes prévus au premier alinéa ci-dessus, dans l'administration de l'aviation civile et à l'Ecole nationale de l'aviation civile de fonctions d'encadrement, d'instruction, d'enseignement, d'étude, de recherche ou de direction de service ou de partie de service.
