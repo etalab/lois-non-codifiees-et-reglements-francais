@@ -1,8 +1,10 @@
 # Article 9
 
-Tout candidat à un emploi dans les établissements visés à l'article L. 792 du code de la santé publique fait l'objet d'un examen médical complémentaire d'aptitude, avant l'embauchage, par le médecin chargé du service de médecine préventive. Cet examen est passé soit dans un établissement voisin ou dans un dispensaire.
+Tout candidat à un emploi dans les établissements visés à l'article L. 792 du code de la santé publique fait l'objet d'un examen médical complémentaire d'aptitude, avant l'embauchage, par le médecin chargé du service de médecine préventive. Cet examen est passé soit dans l'établissement, soit dans un établissement voisin ou dans un dispensaire.
 
-Il comporte une radiophoto ou une radiophotographie pulmonaire et une cutie-réaction. Il est à la charge de l'établissement employeur.
+Il comporte une radiographie ou une radiophotographie pulmonaire et une épreuve cutanée à la tuberculine. Il est à la charge de l'établissement employeur.
+
+Cependant, l'examen radiologique ne sera pas renouvelé si le médecin chargé du service de médecine préventive est en possession d'un cliché pulmonaire du candidat datant de moins de deux mois, sauf en cas où il le jugera nécessaire en raison d'un fait nouveau.
 
 Au moment de l'admission dans les cadres, le médecin chargé du service de médecine préventive établit :
 
