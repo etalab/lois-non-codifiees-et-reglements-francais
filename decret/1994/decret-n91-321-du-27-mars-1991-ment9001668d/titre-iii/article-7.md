@@ -16,7 +16,9 @@ Les services interétablissements de coopération documentaire des académies de
 
 - la bibliothèque des langues orientales ;
 
-- la bibliothèque interuniversitaire scientifique Jussieu.
+- la bibliothèque interuniversitaire scientifique Jussieu ;
+
+- la bibliothèque Sainte-Barbe.
 
 Ces services interétablissements ont pour objet d'assurer la gestion, le développement et la conservation des collections indivises entre plusieurs établissements publics à caractère scientifique, culturel et professionnel, ainsi que certaines activités documentaires d'intérêt commun.
 
