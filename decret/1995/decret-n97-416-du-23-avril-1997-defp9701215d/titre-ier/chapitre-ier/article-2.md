@@ -4,6 +4,6 @@ Les fonctionnaires du corps administratif supérieur des services déconcentrés
 
 Ils peuvent être appelés à remplir les fonctions d'ordonnateur secondaire.
 
-Ils peuvent également exercer leurs fonctions dans des services techniques centraux du ministère de la défense, ou dans des établissements publics placés sous tutelle de ce ministère.
+Ils peuvent également exercer leurs fonctions au sein de l'administration centrale du ministère de la défense ou dans des établissements publics placés sous tutelle de ce ministère.
 
 Ils peuvent être appelés à exercer leurs fonctions dans les conditions fixées par l'article 1er du décret du 12 janvier 1988 susvisé.
