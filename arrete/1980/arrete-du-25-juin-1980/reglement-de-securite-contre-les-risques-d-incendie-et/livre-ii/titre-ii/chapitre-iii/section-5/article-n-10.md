@@ -2,18 +2,12 @@
 
 Domaine d'application
 
-§ 1. Le chauffage des établissements doit être assuré :
+§ 1. Les systèmes de chauffage et de ventilation installés conformément aux dispositions des articles CH 1 à CH 43 sont autorisés.
 
-- soit par des générateurs de chaleur, installés dans un local répondant aux dispositions de l'article CH 5, CH 6 ou CH 11 ;
+§ 2. Les appareils de production-émission électriques ou à combustible gazeux installés conformément aux dispositions des articles CH 44 à CH 51 sont autorisés.
 
-- soit par des appareils de transfert de chaleur, installés conformément aux dispositions de l'article CH 11 ;
+§ 3. Les cheminées à foyer ouvert ou fermé et les inserts sont admis dans les conditions définies à l'article CH 55.
 
-- soit par des unités de toiture monoblocs, installées conformément aux dispositions de l'article CH 40 ;
+Par dérogation à l'article CH 55 et sur avis de la commission de sécurité, les foyers et inserts fonctionnant au gaz sont autorisés dans les conditions fixées par l'article CH 46.
 
-- soit par des appareils de chauffage indépendants, électriques ou à combustibles gazeux, installés conformément aux dispositions des articles CH 44 à CH 55.
-
-§ 2. En outre, le chauffage des établissements de 4e catégorie peut être assuré par des appareils de chauffage indépendants à combustible liquide visés à l'article CH 56.
-
-§ 3. Les poêles de construction,  fonctionnant exclusivement au combustible solide, sont admis dans les salles recevant 300 personnes au plus.
-
-§ 4. Les cheminées à foyer ouvert, fonctionnant exclusivement au bois, sont admises, après avis de la commission de sécurité.
+§ 4. Les appareils de chauffage de terrasse sont admis conformément aux dispositions de l'article CH 56.

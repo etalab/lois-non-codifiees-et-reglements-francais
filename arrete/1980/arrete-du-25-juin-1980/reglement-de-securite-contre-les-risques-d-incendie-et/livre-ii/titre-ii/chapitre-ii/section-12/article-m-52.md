@@ -2,12 +2,6 @@
 
 Chauffage
 
-§ 1. Quelle que soit la catégorie de l'établissement, le chauffage des locaux à risques particuliers ne doit être assuré que :
-
-- par des générateurs de chaleur installés dans une chaufferie répondant aux conditions du chapitre V du titre Ier du présent livre ;
-
-- par des unités de toiture monobloc (roof-top) répondant aux conditions de l'article CH 40 ;
-
-- par des appareils électriques définis à l'article CH 45.
+§ 1. En complément de l'article M 20, sont autorisés les appareils de production-émission électriques installés conformément aux dispositions des articles CH 44 et CH 45, à l'exception des cassettes chauffantes électriques dont la température de surface dépasse 100 °C et des panneaux radiants électriques ;
 
 § 2. Les dépôts visés à l'article M 50 ne doivent pas être chauffés.

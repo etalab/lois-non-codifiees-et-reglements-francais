@@ -2,7 +2,17 @@
 
 Limitation totale en poids et volume
 
-§ 1. Le poids total des matières inflammables du premier groupe telles que définies à l'article R. 233-14 du code du travail, et des hydrocarbures liquéfiés est limité à 100 kilogrammes par point de vente, le poids de ces derniers ne pouvant toutefois dépasser les limites fixées à l'article M 39.
+§ 1. Le poids total des hydrocarbures liquéfiés et des matières inflammables du premier groupe telles que :
+
+- les carburants gélifiés ou solidifiés ;
+
+- les produits accélérateurs de combustion ;
+
+- les matières susceptibles de brûler sans apport d'oxygène ;
+
+- les matières dans un état physique de grande division susceptibles de former avec l'air un mélange explosif,
+
+est limité à 100 kilogrammes par point de vente, le poids de ces derniers ne pouvant toutefois dépasser les limites fixées à l'article M 39.
 
 Ce poids total est cependant réduit à 50 kilogrammes en sous-sol lorsque le local de vente n'est pas protégé par une installation fixe d'extinction automatique à eau.
 

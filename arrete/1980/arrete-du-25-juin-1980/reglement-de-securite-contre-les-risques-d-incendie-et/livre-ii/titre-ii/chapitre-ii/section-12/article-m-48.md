@@ -8,7 +8,7 @@ Locaux d'emballage
 
 - l'appareil de compactage, un seul par réserve, ne peut être implanté que dans une réserve de volume inférieur ou égal à 1 000 mètres cubes répondant aux dispositions de l'article M. 49, paragraphe 1 ;
 
-- l'appareil doit faire l'objet d'un marquage CE, sa puissance électrique totale est inférieure ou au plus égale à 3,5 kW ;
+- l'appareil doit faire l'objet d'un marquage CE, sa puissance électrique totale est inférieure ou au plus égale à 7,5 kW ;
 
 - pour un même appareil, l'ensemble des chambres de compactage ne doit pas représenter un volume total supérieur à 1 m3 ;
 
