@@ -1,0 +1,3 @@
+# Article 1
+
+En vue de leur participation à l'alimentation du fonds commun des accidents du travail visé à l'article L. 491 du code de la sécurité sociale, les établissements ou les collectivités assumant pour l'ensemble de leur personnel la gestion totale du risque d'accidents du travail sont tenus de verser, à compter du 1er janvier 1977, une cotisation dont le taux correspond à 10 p. 100 du taux établi conformément aux dispositions de l'arrêté du 1er octobre 1976 et qui serait applicable à leur personnel s'il relevait de l'organisation générale de la sécurité sociale pour les accidents du travail et les maladies professionnelles.

@@ -1,0 +1,7 @@
+# Arrêté du 16 décembre 1976 FIXANT LA COTISATION DUE POUR L'ALIMENTATION DU FONDS COMMUN VISE A L'ARTICLE L. 491 DU CODE DE LA SECURITE SOCIALE *FINANCEMENT*, PAR LES ETABLISSEMENTS OU COLLECTIVITES GERANT LA TOTALITE DU RISQUE "ACCIDENTS DU TRAVAIL".
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
