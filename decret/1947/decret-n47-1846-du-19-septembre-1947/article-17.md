@@ -1,6 +1,6 @@
 # Article 17
 
-Les dépenses comprennent [*définition*] :
+Les dépenses comprennent :
 
 1° Le service des pensions et allocations prises en charge par la caisse nationale ou concédées par elle, le remboursement des retenues et toutes autres dépenses du même ordre ;
 
@@ -17,3 +17,7 @@ Les dépenses comprennent [*définition*] :
 7° Les dépenses diverses et accidentelles.
 
 8° Le service des aides et secours attribués en faveurs des retraités.
+
+9° Les sommes affectées au fonctionnement et à l'accomplissement des missions du fonds national de prévention créé par l'article 31 de la loi n° 2001-624 du 17 juillet 2001;
+
+10° Les avances ou subventions consenties aux collectivités et établissements relevant de la caisse, dans le cadre de participations au financement des mesures de prévention prévues au 9° de l'article 12.
