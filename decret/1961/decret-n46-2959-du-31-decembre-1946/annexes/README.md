@@ -11,7 +11,6 @@
 - [24° BRUCELLOSES PROFESSIONNELLES.](24-brucelloses-professionnelles)
 - [4. BENZOLISME PROFESSIONNEL](4-benzolisme-professionnel)
 - [44. SIDEROSE PROFESSIONNELLE](44-siderose-professionnelle)
-- [45. HEPATITES VIRALES PROFESSIONNELLES](45-hepatites-virales-professionnelles)
 - [46. MYCOSES CUTANEES D'ORIGINE PROFESSIONNELLE](46-mycoses-cutanees-d-origine-professionnelle)
 - [5. PHOSPHORISME PROFESSIONNEL](5-phosphorisme-professionnel)
 - [65. LESIONS ECZEMATIFORMES DE MECANISME ALLERGIQUE.s](65-lesions-eczematiformes-de-mecanisme-allergique-s)
@@ -60,5 +59,4 @@
 - [78. AFFECTIONS PROVOQUEES PAR LE CHLORURE DE SODIUM DANS LES     MINES DE SEL ET LEURS DEPENDANCES](78-affections-provoquees-par)
 - [8. AFFECTIONS CAUSEES PAR LES CIMENTS (ALUMINO-SILICATES DE CALCIUM)](8-affections-causees-par)
 - [9. AFFECTIONS PROVOQUEES PAR LES DERIVES HALOGENES DES             HYDROCARBURES AROMATIQUES.](9-affections-provoquees-par)
-- [9. DERMATOSES CAUSEES PAR L'ACTION DES CHLORONAPHTALENES](9-dermatoses-causees-par)
 - [INTOXICATION PROFESSIONNELLE PAR LE TETRACHLORETHANE](intoxication-professionnelle-par)
