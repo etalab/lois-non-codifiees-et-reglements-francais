@@ -579,8 +579,6 @@
 - [Décret n°92-1312 du 16 décembre 1992 (TEFF9205516D)](decret-n92-1312-du-16-decembre-1992-teff9205516d)
 - [Décret n°92-1334 du 16 décembre 1992 (AGRE9202285D)](decret-n92-1334-du-16-decembre-1992-agre9202285d)
 - [Décret n°92-240 du 16 mars 1992 (EQUC9200232D)](decret-n92-240-du-16-mars-1992-equc9200232d)
-- [Décret n°92-241 du 16 mars 1992 (MEND9103109D)](decret-n92-241-du-16-mars-1992-mend9103109d)
-- [Décret n°92-244 du 16 mars 1992 (FPPA9100075D)](decret-n92-244-du-16-mars-1992-fppa9100075d)
 - [Décret n°92-249 du 16 mars 1992 (ECOX9200022D)](decret-n92-249-du-16-mars-1992-ecox9200022d)
 - [Décret n°92-395 du 16 avril 1992 (MENX9200066D)](decret-n92-395-du-16-avril-1992-menx9200066d)
 - [Décret n°92-396 du 16 avril 1992 (ENVX9200076D)](decret-n92-396-du-16-avril-1992-envx9200076d)

@@ -929,7 +929,6 @@
 - [Arrêté du 23 mars 1994 (DEFE9401331A)](arrete-du-23-mars-1994-defe9401331a)
 - [Arrêté du 23 mars 1994 (EQUU9400555A)](arrete-du-23-mars-1994-equu9400555a)
 - [Arrêté du 23 mars 1994 (SPSG9400960A)](arrete-du-23-mars-1994-spsg9400960a)
-- [Arrêté du 23 mars 1994 (SPSN9400999A)](arrete-du-23-mars-1994-spsn9400999a)
 - [Arrêté du 23 novembre 1993 (EQUA9301734A)](arrete-du-23-novembre-1993-equa9301734a)
 - [Arrêté du 23 novembre 1994 (AGRE9401482A)](arrete-du-23-novembre-1994-agre9401482a)
 - [Arrêté du 23 novembre 1994 (AGRG9401287A)](arrete-du-23-novembre-1994-agrg9401287a)
