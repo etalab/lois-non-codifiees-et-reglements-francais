@@ -114,6 +114,7 @@
 - [Arrêté du 30 janvier 1981](arrete-du-30-janvier-1981)
 - [Arrêté du 30 juillet 1981](arrete-du-30-juillet-1981)
 - [Arrêté du 30 mars 1981](arrete-du-30-mars-1981)
+- [Arrêté du 30 octobre 1981](arrete-du-30-octobre-1981)
 - [Arrêté du 31 décembre 1980](arrete-du-31-decembre-1980)
 - [Arrêté du 31 juillet 1981](arrete-du-31-juillet-1981)
 - [Arrêté du 31 mars 1981](arrete-du-31-mars-1981)
