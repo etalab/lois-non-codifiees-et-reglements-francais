@@ -74,3 +74,4 @@
 - [Décret n°73-598 du 29 juin 1973](decret-n73-598-du-29-juin-1973)
 - [Décret n°73-600 du 29 juin 1973](decret-n73-600-du-29-juin-1973)
 - [Décret n°73-102 du 30 janvier 1973](decret-n73-102-du-30-janvier-1973)
+- [Décret n°73-752 du 31 juillet 1973](decret-n73-752-du-31-juillet-1973)
