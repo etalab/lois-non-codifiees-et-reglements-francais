@@ -1,13 +1,17 @@
 # Article 4
 
-La dénomination "Vin destiné à l'élaboration de blanquette de Limoux" ne peut être appliquée qu'à des vins issus de vignes établies et taillées conformément aux dispositions suivantes :
+1. Taille :
 
-Mauzac, chenin :
+La dénomination "Vin destiné à l'élaboration de Blanquette de Limoux" ne peut être appliquée qu'à des vins issus de vignes établies et taillées conformément aux dispositions suivantes :
 
-Taille en gobelet à trois ou quatre bras portant chacun un courson à deux yeux et, éventuellement, une baguette à cinq yeux au plus par souche.
+a) Pour les cépages mauzac et chenin :
 
-Chardonnay :
+Est autorisée soit la taille courte à six coursons à deux yeux francs, soit la taille à cinq coursons à deux yeux francs et un courson à quatre yeux francs maximum.
 
-Taille guyot simple ou double : une baguette à dix yeux au maximum ou deux baguettes à huit yeux, plus un ou deux coursons à deux ou trois yeux ;
+b) Pour le cépage chardonnay :
 
-Taille chablis : charpentes terminées par un courson de cinq yeux au maximum et espacées de 30 cm au maximum avec, à la base de chaque souche, un courson à deux yeux.
+Est autorisée soit la taille guyot simple comportant une baguette à dix yeux maximum plus un ou deux coursons à deux yeux francs, soit la taille guyot double comportant deux baguettes à six yeux maximum plus deux coursons à deux yeux francs.
+
+2. Densité de plantation :
+
+La dénomination "Vin destiné à l'élaboration de Blanquette de Limoux" est réservée aux vins provenant de vignes présentant une densité minimale de 4 000 souches à l'hectare. La distance entre les rangs doit être inférieure ou égale à 2,50 mètres.

@@ -1,0 +1,3 @@
+# Article 9
+
+Tout transfert d'effluents liquides ou d'eau prélevée dans l'environnement à une installation de traitement dépendant d'un autre exploitant doit faire l'objet d'une convention préalable passée entre le demandeur et l'exploitant de l'installation, qui sera visée dans l'arrêté d'autorisation. Cette convention fixe les caractéristiques et les quantités des effluents traités ou des eaux épurées. Elle énonce également les obligations des deux exploitants en matière d'autosurveillance. Toute modification de cette convention doit être déclarée aux ministres signataires de l'autorisation.

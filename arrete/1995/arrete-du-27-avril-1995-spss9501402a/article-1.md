@@ -1,0 +1,3 @@
+# Article 1
+
+En application de l'article 3 du décret du 31 mars 1995 relatif au régime local d'assurance maladie des départements du Haut-Rhin, du Bas-Rhin et de la Moselle, les écritures du compte général géré par la caisse régionale d'assurance maladie de Strasbourg sont arrêtées et transférées à l'agent comptable du régime local le dernier jour ouvré du mois au cours duquel il aura été désigné par le conseil d'administration institué par l'article D. 325-4 du code de la sécurité sociale et reprises dans ses écritures, dans une comptabilité distincte, le premier jour ouvré du mois qui suit le transfert d'écritures.
