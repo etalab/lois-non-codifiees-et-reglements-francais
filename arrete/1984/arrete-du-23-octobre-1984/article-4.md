@@ -1,13 +1,5 @@
 # Article 4
 
-Pour tout consultant s'étant présenté à l'hôpital muni d'un volet de soins (accidents du travail - maladies professionnelles), à l'exception des assurés pour lesquels le risque Accident du travail est pris en charge par l'employeur ou par l'organisme assureur gérant l'assurance Accident des exploitants agricoles, les établissements d'hospitalisation publics et les établissements d'hospitalisation privés participant à l'exécution du service public hospitalier font parvenir à l'organisme d'assurance maladie gestionnaire du malade, dans la première quinzaine du deuxième mois suivant la date des soins, les informations suivantes [*délai*] :
+Les agents autorisés à effectuer un service à temps partiel et les agents travaillant à temps incomplet pour une durée au moins égale au mi-temps bénéficient de l'allocation spéciale dans les mêmes conditions que les personnels travaillant à temps plein.
 
-1° L'organisme d'assurance maladie gestionnaire ;
-
-2° Le numéro d'immatriculation de l'assuré à la sécurité sociale ;
-
-3° La date de l'accident du travail ;
-
-4° La date des soins ;
-
-5° La cotation des actes suivant la nomenclature générale des actes professionnels.
+Les personnels travaillant à temps incomplet pour une durée inférieure au mi-temps et qui n'exercent par ailleurs aucune activité privée reçoivent de leur administration le bénéfice de l'allocation spéciale au prorata du temps de travail effectué, rapporté à la moitié de la durée du travail à temps plein.

@@ -1,4 +1,4 @@
-# Arrêté du 14 septembre 1966 relatif aux circonscriptions des agences financières de bassin
+# Arrêté du 9 novembre 1984 fixant les conditions d'émission des obligations PTT 1984
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -9,3 +9,6 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
+- [Article 10](article-10.md)
+- [Article 11](article-11.md)
+- [Article 12](article-12.md)

@@ -1,0 +1,3 @@
+# Article 2-1
+
+Pour tout bénéficiaire du régime des assurances sociales agricoles ou du régime de l'assurance maladie des exploitants agricoles n'ayant pas fait l'objet d'une demande de prise en charge dont la sortie est intervenue ou qui est présent dans l'établissement au dernier jour du mois, les établissements d'hospitalisation publics et privés participant à l'exécution du service public hospitalier font connaître à la caisse chargée du versement de la dotation globale, dans les quinze premiers jours du deuxième mois suivant, en sus des informations mentionnées aux articles 1er et 2 ci-dessus, le code gestion.
