@@ -1,12 +1,10 @@
 # Article 43
 
-Sera passible d'une amende de 1200 F à 3.000 F [*taux résultant du décret 567 du 18 juillet 1980*].
+Sera puni de la peine d'amende prévue pour les contraventions de la 5e classe :
 
 1° Quiconque aura exploité une installation soumise à déclaration sans avoir fait la déclaration prévue à l'article 3 de la loi du 19 juillet 1976 ;
 
-2° Quiconque n'aura pas pris les mesures qui lui ont été imposées en vertu de l'article 26 de la loi du 19 juillet 1976 ;
-
-3° Quiconque aura exploité une installation soumise à autorisation sans satisfaire aux prescriptions prévues aux articles 17 et 18 du présent décret ;
+2° Quiconque n'aura pas pris les mesures imposées en vertu de l'article 26 de la loi du 19 juillet 1976 sans qu'ait été pris, en raison de l'urgence, l'avis du maire ou du conseil départemental d'hygiène. '''3° Quiconque aura exploité une installation soumise à autorisation sans satisfaire aux prescriptions prévues à l'article 7 de la loi du 19 juillet 1976 et aux articles 17 et 18 du présent décret ;
 
 4° Quiconque aura exploité une installation soumise à déclaration sans satisfaire aux prescriptions générales ou particulières prévues aux articles 28, 29 et 30 du présent décret ;
 
