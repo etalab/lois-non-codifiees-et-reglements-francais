@@ -253,6 +253,7 @@
 - [Arrêté du 9 mai 1995 (INDP9500606A)](arrete-du-9-mai-1995-indp9500606a)
 - [Arrêté du 9 mai 1995 (INDP9500607A)](arrete-du-9-mai-1995-indp9500607a)
 - [Arrêté du 9 mai 1995 (INDP9500617A)](arrete-du-9-mai-1995-indp9500617a)
+- [Arrêté du 9 mai 1995 (INDP9500618A)](arrete-du-9-mai-1995-indp9500618a)
 - [Arrêté du 9 mai 1995 (INTA9500136A)](arrete-du-9-mai-1995-inta9500136a)
 - [Arrêté du 9 mai 1995 (INTB9500257A)](arrete-du-9-mai-1995-intb9500257a)
 - [Arrêté du 9 mai 1995 (INTC9500202A)](arrete-du-9-mai-1995-intc9500202a)
