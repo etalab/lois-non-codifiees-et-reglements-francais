@@ -1,10 +1,10 @@
 # Article 4
 
-Peuvent être exécutés par des auxiliaires médicaux qualifiés et uniquement sur prescription qualitative et quantitative du médecin, mais en dehors de la présence de celui-ci, les actes médicaux suivants, dont la liste est limitative :
+Peuvent être exécutés par des auxiliaires médicaux qualifiés et uniquement sur prescription du médecin, mais en dehors de la présence de celui-ci, les actes médicaux suivants, dont la liste est limitative :
 
 1° Prise de la tension artérielle.
 
-2° à 14° (alinéa supprimés)
+2° à 14° (alinéas supprimés)
 
 15° Aérosols (à la condition que la solution administrée soit prescrite par le médecin sur ordonnance sur laquelle doivent figurer et la dose d'aérosols à utiliser chaque fois et la durée des séances et leur nombre).
 
