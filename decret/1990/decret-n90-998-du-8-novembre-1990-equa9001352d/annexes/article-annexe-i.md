@@ -10,6 +10,8 @@ Lyon-Satolas.
 
 Marseille-Marignane.
 
+Nantes - Château-Bougon.
+
 Nice-Côte d'Azur.
 
 Paris - Charles-de-Gaulle.

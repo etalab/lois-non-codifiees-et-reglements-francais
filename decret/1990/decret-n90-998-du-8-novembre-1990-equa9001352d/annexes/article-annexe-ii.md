@@ -10,8 +10,6 @@ Clermont-Ferrand - Aulnat.
 
 Lille-Lesquin.
 
-Nantes - Château-Bougon.
-
 Paris-Le Bourget.
 
 Pau-Pont-Long-Uzein.
