@@ -398,6 +398,7 @@
 - [Décret n°90-71 du 17 janvier 1990 (EQUA8901322D)](decret-n90-71-du-17-janvier-1990-equa8901322d)
 - [Décret n°90-72 du 17 janvier 1990 (JUSC8920949D)](decret-n90-72-du-17-janvier-1990-jusc8920949d)
 - [Décret n°90-79 du 17 janvier 1990 (MAEJ8930130D)](decret-n90-79-du-17-janvier-1990-maej8930130d)
+- [Décret n°90-930 du 17 octobre 1990 (MENF9001883D)](decret-n90-930-du-17-octobre-1990-menf9001883d)
 - [Décret n°91-960 du 17 septembre 1991 (MENF9101363D)](decret-n91-960-du-17-septembre-1991-menf9101363d)
 - [Décret n°99-510 du 17 juin 1999 (FPPA9900053D)](decret-n99-510-du-17-juin-1999-fppa9900053d)
 - [Décret n°61-63 du 18 janvier 1961](decret-n61-63-du-18-janvier-1961)
