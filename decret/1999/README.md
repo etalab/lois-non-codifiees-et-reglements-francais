@@ -905,7 +905,6 @@
 - [Décret n°99-552 du 30 juin 1999 (EQUX9900055D)](decret-n99-552-du-30-juin-1999-equx9900055d)
 - [Décret n°99-560 du 30 juin 1999 (EQUA9900303D)](decret-n99-560-du-30-juin-1999-equa9900303d)
 - [Décret n°99-561 du 30 juin 1999 (EQUA9900510D)](decret-n99-561-du-30-juin-1999-equa9900510d)
-- [Décret n°99-562 du 30 juin 1999 (EQUH9900490D)](decret-n99-562-du-30-juin-1999-equh9900490d)
 - [Décret n°99-657 du 30 juillet 1999 (JUSC9920406D)](decret-n99-657-du-30-juillet-1999-jusc9920406d)
 - [Décret n°99-658 du 30 juillet 1999 (JUSC9920443D)](decret-n99-658-du-30-juillet-1999-jusc9920443d)
 - [Décret n°99-659 du 30 juillet 1999 (JUSB9910301D)](decret-n99-659-du-30-juillet-1999-jusb9910301d)

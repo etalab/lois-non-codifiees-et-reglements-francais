@@ -319,7 +319,6 @@
 - [Arrêté du 11 juin 1993 (EQUA9300956A)](arrete-du-11-juin-1993-equa9300956a)
 - [Arrêté du 11 juin 1993 (INDA9300535A)](arrete-du-11-juin-1993-inda9300535a)
 - [Arrêté du 11 juin 1993 (INTB9300385A)](arrete-du-11-juin-1993-intb9300385a)
-- [Arrêté du 11 mars 1993 (COMK9307003A)](arrete-du-11-mars-1993-comk9307003a)
 - [Arrêté du 11 mars 1993 (INDA9300143A)](arrete-du-11-mars-1993-inda9300143a)
 - [Arrêté du 11 mars 1993 (MENB9300146A)](arrete-du-11-mars-1993-menb9300146a)
 - [Arrêté du 11 mars 1993 (MENK9300139A)](arrete-du-11-mars-1993-menk9300139a)
