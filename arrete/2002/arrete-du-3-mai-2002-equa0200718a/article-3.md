@@ -1,0 +1,3 @@
+# Article 3
+
+Le taux de l'indemnité spéciale de qualification servie aux ingénieurs du contrôle de la navigation aérienne, aux techniciens supérieurs des études et de l'exploitation de l'aviation civile et aux agents contractuels assimilés visés aux articles 3 et 4 ter du décret du 5 août 1970 susvisé est déterminé dans les conditions fixées par arrêté conjoint du ministre chargé de l'aviation civile, du ministre chargé de la fonction publique et du ministre chargé du budget. La qualification retenue pour le calcul de cette indemnité est celle exercée par les agents visés à l'article 3 et la dernière exercée par les agents visés à l'article 4 ter du décret précité.

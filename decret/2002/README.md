@@ -764,6 +764,7 @@
 - [Décret n°2001-771 du 28 août 2001 (MCCB0100321D)](decret-n2001-771-du-28-aout-2001-mccb0100321d)
 - [Décret n°2002-116 du 28 janvier 2002 (MESH0124522D)](decret-n2002-116-du-28-janvier-2002-mesh0124522d)
 - [Décret n°2002-1307 du 28 octobre 2002 (ECOP0200588D)](decret-n2002-1307-du-28-octobre-2002-ecop0200588d)
+- [Décret n°2002-1308 du 28 octobre 2002 (INTC0200245D)](decret-n2002-1308-du-28-octobre-2002-intc0200245d)
 - [Décret n°2002-1401 du 28 novembre 2002 (SPRK0270220D)](decret-n2002-1401-du-28-novembre-2002-sprk0270220d)
 - [Décret n°2002-293 du 28 février 2002 (MENX0100197D)](decret-n2002-293-du-28-fevrier-2002-menx0100197d)
 - [Décret n°2002-294 du 28 février 2002 (MENX0200010D)](decret-n2002-294-du-28-fevrier-2002-menx0200010d)
