@@ -1045,8 +1045,6 @@
 - [Arrêté du 28 avril 1992 (DEFC9201427A)](arrete-du-28-avril-1992-defc9201427a)
 - [Arrêté du 28 avril 1992 (DEFC9201428A)](arrete-du-28-avril-1992-defc9201428a)
 - [Arrêté du 28 décembre 1991 (ECOT9194070A)](arrete-du-28-decembre-1991-ecot9194070a)
-- [Arrêté du 28 décembre 1992 (PRMX9210592A)](arrete-du-28-decembre-1992-prmx9210592a)
-- [Arrêté du 28 décembre 1992 (PRMX9210593A)](arrete-du-28-decembre-1992-prmx9210593a)
 - [Arrêté du 28 décembre 1992 (SPSS9203278A)](arrete-du-28-decembre-1992-spss9203278a)
 - [Arrêté du 28 décembre 1992 (SPSS9203317A)](arrete-du-28-decembre-1992-spss9203317a)
 - [Arrêté du 28 décembre 1992 (SPSS9203318A)](arrete-du-28-decembre-1992-spss9203318a)
