@@ -12,3 +12,4 @@
 - [Article 34](article-34.md)
 - [Article 35](article-35.md)
 - [Article 36](article-36.md)
+- [Les élèves ressortissants d'un Etat membre de l'Union européenne acquièrent, s'ils ne sont pas déjà fonctionnaires, la qualité de fonctionnaires stagiaires.](les-eleves-ressortissants-d-un-etat-membre-de-l-union-europeenne-acquierent-s-ils-ne)
