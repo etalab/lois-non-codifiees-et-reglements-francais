@@ -490,6 +490,7 @@
 - [Décret n°93-719 du 25 mars 1993 (MENF9304511D)](decret-n93-719-du-25-mars-1993-menf9304511d)
 - [Décret n°93-759 du 25 mars 1993 (BUDP9200682D)](decret-n93-759-du-25-mars-1993-budp9200682d)
 - [Décret n°93-866 du 25 juin 1993 (ECOT9394184D)](decret-n93-866-du-25-juin-1993-ecot9394184d)
+- [Décret n°93-875 du 25 juin 1993 (BUDF9200039D)](decret-n93-875-du-25-juin-1993-budf9200039d)
 - [Décret n°93-93 du 25 janvier 1993 (FPPX9300004D)](decret-n93-93-du-25-janvier-1993-fppx9300004d)
 - [Décret n°93-96 du 25 janvier 1993 (MENB9200501D)](decret-n93-96-du-25-janvier-1993-menb9200501d)
 - [Décret n°94-751 du 25 août 1994 (MCCB9400225D)](decret-n94-751-du-25-aout-1994-mccb9400225d)
