@@ -10,9 +10,7 @@ Moyenne
 
 Minimale
 
-Chef des services fiscaux
-
-de classe fonctionnelle
+Chef des services fiscaux de classe fonctionnelle
 
 1er échelon
 
@@ -20,9 +18,7 @@ de classe fonctionnelle
 
 2 ans
 
-Chef des services fiscaux
-
-de classe normale
+Chef des services fiscaux de classe normale
 
 1er échelon
 
@@ -86,17 +82,23 @@ Inspecteur principal de 1re classe
 
 Inspecteur principal de 2e classe
 
-4e échelon
+5e échelon
 
 3 ans
 
 2 ans 3 mois
 
-3e échelon
+4e échelon
 
 2 ans 6 mois
 
 2 ans
+
+3e échelon
+
+1 an
+
+1 an 6 mois
 
 2e échelon
 
@@ -106,9 +108,9 @@ Inspecteur principal de 2e classe
 
 1er échelon
 
-2 ans
+1 an
 
-1 an 6 mois
+1 an
 
 Receveur principal de 1re classe
 

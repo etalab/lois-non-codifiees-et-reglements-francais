@@ -12,7 +12,7 @@ Les fonctionnaires de la catégorie A des services déconcentrés de la directio
 
 5° Inspecteur principal de 1re classe : trois échelons ;
 
-6° Inspecteur principal de 2e classe : cinq échelons ;
+6° Inspecteur principal de 2e classe : six échelons ;
 
 7° Inspecteur divisionnaire de classe exceptionnelle : trois échelons ;
 
