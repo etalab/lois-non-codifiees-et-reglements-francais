@@ -19,5 +19,4 @@
 - [Décret n°54-1293 du 24 décembre 1954](decret-n54-1293-du-24-decembre-1954)
 - [Décret n°54-546 du 26 avril 1954](decret-n54-546-du-26-avril-1954)
 - [Décret n°54-539 du 26 mai 1954](decret-n54-539-du-26-mai-1954)
-- [Décret n°54-1191 du 30 novembre 1954](decret-n54-1191-du-30-novembre-1954)
 - [Décret n°53-1294 du 31 décembre 1953](decret-n53-1294-du-31-decembre-1953)
