@@ -63,7 +63,6 @@
 - [Arrêté du 2 mars 1990 (SPSG9000350A)](arrete-du-2-mars-1990-spsg9000350a)
 - [Arrêté du 2 mars 1990 (SPSG9000351A)](arrete-du-2-mars-1990-spsg9000351a)
 - [Arrêté du 2 mars 1990 (SPSP9000474A)](arrete-du-2-mars-1990-spsp9000474a)
-- [Arrêté du 2 mars 1990 (SPSP9000475A)](arrete-du-2-mars-1990-spsp9000475a)
 - [Arrêté du 2 novembre 1990 (SPSS9002205A)](arrete-du-2-novembre-1990-spss9002205a)
 - [Arrêté du 2 octobre 1985](arrete-du-2-octobre-1985)
 - [Arrêté du 2 octobre 1990 (AGRS9002091A)](arrete-du-2-octobre-1990-agrs9002091a)
