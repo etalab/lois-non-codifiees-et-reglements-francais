@@ -39,6 +39,7 @@
 - [Arrêté du 3 janvier 1992 (MENF9102689A)](arrete-du-3-janvier-1992-menf9102689a)
 - [Arrêté du 3 juin 1992 (INTB9200249A)](arrete-du-3-juin-1992-intb9200249a)
 - [Arrêté du 3 juin 1992 (INTE9200247A)](arrete-du-3-juin-1992-inte9200247a)
+- [Arrêté du 3 juin 1992 (MENB9200048A)](arrete-du-3-juin-1992-menb9200048a)
 - [Arrêté du 3 mars 1992 (ECOT9220003A)](arrete-du-3-mars-1992-ecot9220003a)
 - [Arrêté du 3 mars 1992 (INDA9200210A)](arrete-du-3-mars-1992-inda9200210a)
 - [Arrêté du 3 mars 1992 (INDA9200211A)](arrete-du-3-mars-1992-inda9200211a)
