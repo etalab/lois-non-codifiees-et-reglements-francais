@@ -10,7 +10,7 @@ I. - Ont droit à la majoration les personnes qui justifient :
 
 II. - Pour déterminer le montant de la majoration appliquée au nombre de points de retraite proportionnelle, il est tenu compte de la durée d'activité effectuée comme chef d'exploitation à titre exclusif ou principal, éventuellement complétée par des périodes d'aide familial dans la limite de quatre années. Toutefois, la durée totale d'activité prise en compte ne peut excéder trente-sept années et demie.
 
-III. - Le nombre de points supplémentaires accordé est déterminé selon la formule suivante :
+III. - Le nombre de points supplémentaires accordé est déterminé selon la formule suivante pour les pensions dues à compter du 1er janvier 1997 :.
 
 P = d x (26,933 - n),
 
@@ -22,10 +22,4 @@ n représente le nombre annuel moyen de points.
 
 Pour calculer le nombre annuel moyen de points susmentionné, chaque année d'aide familial prise en compte est retenue pour 16 points et chaque année de chef d'exploitation est retenue au minimum pour 16 points.
 
-IV. - Pour les assurés qui justifient d'une durée d'activité déterminée suivant les conditions prévues au II, comprise entre dix-sept années et demie et vingt-deux années et demie, le nombre de points de retraite proportionnelle supplémentaires calculé conformément aux dispositions du III est minoré par application d'un coefficient. Ce coefficient est fonction de l'écart entre ladite durée et vingt-deux années et demie. Pour chacune des années de l'écart constaté, les coefficients de minoration à appliquer sont de :
-
-15 % pour chacune des deux premières années manquantes ;
-
-10 % pour chacune des trois années suivantes ;
-
-40 % pour la sixième année.
+Pour les pensions dues à compter du 1er janvier 2001, la formule P = d x (26,933 - n) est remplacée par la formule P = d x (29,23 - n). Toutefois, pour les personnes susceptibles de bénéficier de la revalorisation des pensions de réversion prévue au II de l'article L. 732-33 du code rural, la formule applicable à compter du 1er janvier 2001 demeure P = d x (26,933 - n).
