@@ -5,6 +5,7 @@
 - [Article Tableau II](article-tableau-ii.md)
 - [Article Tableau III](article-tableau-iii.md)
 - [Article Tableau III bis](article-tableau-iii-bis.md)
+- [Article Tableau III ter](article-tableau-iii-ter.md)
 - [Article Tableau IV](article-tableau-iv.md)
 - [Article Tableau IV bis](article-tableau-iv-bis.md)
 - [Article Tableau IV ter](article-tableau-iv-ter.md)
