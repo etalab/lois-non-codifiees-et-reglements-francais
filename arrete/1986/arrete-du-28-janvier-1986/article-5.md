@@ -8,4 +8,4 @@ Lorsque la commission examine des questions intéressant les médecins spéciali
 
 3° Deux représentants nommés sur proposition du Syndicat des médecins libéraux ;
 
-4° Une personnalité choisie par le ministre chargé de la sécurité sociale en raison de sa compétence dans le domaine de la santé.
+4° Deux représentants nommés sur proposition de l'Union collégiale des chirurgiens et spécialistes français.
