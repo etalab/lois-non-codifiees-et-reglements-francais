@@ -1,5 +1,0 @@
-# Article 15
-
-Lorsqu'un agent de l'Etat appose sur un instrument la marque de refus, il remet au détenteur de cet instrument un bulletin de refus daté et signé, indiquant l'adresse de la direction régionale de l'industrie et de la recherche, le nom et l'adresse du détenteur et l'identification du ou des instruments refusés. Le détenteur doit remettre ce bulletin de refus au réparateur qu'il charge de la réparation.
-
-Lorsqu'un détenteur décide de ne pas faire réparer un instrument qui a été refusé, il doit renvoyer à la direction régionale de l'industrie et de la recherche le bulletin de refus accompagné d'une déclaration indiquant que ledit instrument ne sert plus, même occasionnellement, à une des opérations mentionnées à l'article 26 du décret du 6 mai 1988 susvisé. Le détenteur doit, en outre, soit transférer l'instrument hors des lieux mentionnés à l'article 12 du décret du 30 novembre 1944, soit demander à la direction régionale de l'industrie et de la recherche la mise sous scellés de l'instrument.

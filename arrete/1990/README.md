@@ -18,7 +18,6 @@
 - [Arrêté du 1 juin 1990 (TEFT9003510A)](arrete-du-1-juin-1990-teft9003510a)
 - [Arrêté du 1 mars 1990 (BUDB9060006A)](arrete-du-1-mars-1990-budb9060006a)
 - [Arrêté du 1 mars 1990 (DEFE9001213A)](arrete-du-1-mars-1990-defe9001213a)
-- [Arrêté du 1 mars 1990 (INDD9000174A)](arrete-du-1-mars-1990-indd9000174a)
 - [Arrêté du 1 mars 1990 (MERP9000032A)](arrete-du-1-mars-1990-merp9000032a)
 - [Arrêté du 1 mars 1990 (PRME9061134A)](arrete-du-1-mars-1990-prme9061134a)
 - [Arrêté du 1 mars 1990 (TEFE9003237A)](arrete-du-1-mars-1990-tefe9003237a)
