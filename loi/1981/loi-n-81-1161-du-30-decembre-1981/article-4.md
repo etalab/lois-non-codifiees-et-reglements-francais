@@ -1,0 +1,5 @@
+# Article 4
+
+Le loyer des logements qui ne sont pas mentionnés aux articles 2, 3, 5 et 6 peut être revisé aux dates et conditions prévues par le contrat de location. Toutefois, l'augmentation qui en résulte ne peut excéder 80 p. 100 *pourcentage maximum* de la variation de l'indice du coût de la construction publié par l'I.N.S.E.E. quel que soit l'indice figurant dans le contrat de location. Lorsque ce dernier prévoit une revision du loyer sans mentionner aucune date de référence, la variation de l'indice est celle du dernier indice publié par l'I.N.S.E.E. à la date de l'augmentation.
+
+En cas de nouvelle location ou de reconduction du contrat, le nouveau loyer ne peut être fixé à un montant supérieur au dernier loyer du contrat précédemment en cours, augmenté dans les limites prévues à l'alinéa 1er. Ces dispositions ne sont pas applicables au loyer des locaux à usage d'habitation ou à usage mixte d'habitation et professionnel dont le dernier bail ou la dernière convention de location a pris fin depuis plus d'un an à la date de la nouvelle location *durée - délai*.

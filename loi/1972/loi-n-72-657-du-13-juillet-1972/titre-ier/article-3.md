@@ -8,7 +8,7 @@ La taxe d'entraide s'applique également aux entreprises réalisant un chiffre d
 
 2° Une taxe additionnelle à la taxe d'entraide assise sur la surface des locaux de vente destinés à la vente au détail, dès lors qu'elle dépasse 400 mètres carrés des établissements ouverts à partir du 1er janvier 1960.
 
-Le taux de cette taxe est de 10 F au mètre carré de surface définie à l'alinéa précédent pour les établissements dont le chiffre d'affaires au mètre carré est inférieur à 10.000 F et de 20 F au mètre carré de ladite surface pour les établissements dont le chiffre d'affaires au mètre carré est supérieur à 20.000 F. Le décret prévu à l'article 20 déterminera les taux applicables lorsque le chiffre d'affaires au mètre carré est compris entre 10.000 F et 20.000 F.
+Le taux de cette taxe est de 20 F au mètre carré de surface définie à l'alinéa précédent pour les établissements dont le chiffre d'affaires au mètre carré est inférieur à 10.000 F et de 40 F au mètre carré de ladite surface pour les établissements dont le chiffre d'affaires au mètre carré est supérieur à 20.000 F. Le décret prévu à l'article 20 déterminera les taux applicables lorsque le chiffre d'affaires au mètre carré est compris entre 10.000 F et 20.000 F.
 
 Le même décret prévoira, par rapport aux taux ci-dessus, des réductions pour les professions dont l'exercice requiert des superficies de vente anormalement élevées ou pour les établissements dont la surface des locaux de vente destinés à la vente au détail est comprise entre 400 et 600 mètres carrés.
 

@@ -1,11 +1,11 @@
 # Article 217-2
 
-Par dérogation aux dispositions de l'article 217 (alinéa 1) et sans préjudice de celles de l'article 217-1, les sociétés dont les actions sont admises à la cote officielle des bourses de valeurs peuvent acheter en bourse leurs propres actions dans les conditions suivantes :
+Par dérogation aux dispositions de l'article 217, premier alinéa, les sociétés dont les actions sont admises à la cote officielle d'une bourse des valeurs ou inscrites au compartiment spécial du hors-cote peuvent acheter en bourse leurs propres actions, en vue de régulariser leur marché, dans les conditions suivantes :
 
-1° L'assemblée générale ordinaire des actionnaires doit avoir expressément autorisé la société à opérer en bourse sur ses propres actions ;
+1° L'assemblée générale ordinaire des actionnaires doit avoir expressément autorisé la société à opérer en bourse sur ses propres actions ; elle fixe les modalités de l'opération et notamment les prix maximum d'achat et minimum de vente, le nombre maximum d'actions à acquérir et le délai dans lequel l'acquisition doit être effectuée. Cette autorisation ne peut être donnée pour une durée supérieure à dix-huit mois.
 
-2° Le cours de l'action au moment de l'achat doit être inférieur de 10 % au moins à l'actif net par action calculé d'après le bilan le plus récent.
+2° La société ne peut acheter ses actions qu'à un cours au plus égal à la moyenne des premiers cours cotés pendant les trente séances de bourse précédentes sur le marché à terme, si l'action est admise aux négociations à terme, et sur le marché au comptant dans le cas contraire. Ce cours est éventuellement ajusté pour tenir compte des coupons ou des droits détachés pendant ces trente séances ou depuis la trentième.
 
-Compte tenu des actions éventuellement détenues par application de l'article 217-1, la société ne peut à aucun moment détenir plus de 10 % de ses propres actions d'une catégorie déterminée et doit disposer de réserves, autres que la réserve légale, d'un montant au moins égal à la valeur de l'ensemble des actions qu'elle détient.
+La société ne peut vendre en bourse tout ou partie des actions acquises en application du présent article qu'à un cours au moins égal à la moyenne des premiers cours pendant les trente séances de bourses précédentes sur le marché à terme, si l'action est admise aux négociations à terme, et sur le marché au comptant dans le cas contraire. Ce cours est éventuellement ajusté pour tenir compte des coupons ou des droits détachés pendant ces trente séances ou depuis la trentième.
 
-Les actions détenues par la société en application du présent article doivent revêtir la forme nominative.
+Les sociétés qui font participer les salariés aux fruits de l'expansion de l'entreprise par l'attribution de leurs propres actions ainsi que celles qui entendent consentir des options d'achat d'actions à des salariés peuvent utiliser à cette fin tout ou partie des actions acquises dans les conditions prévues ci-dessus.

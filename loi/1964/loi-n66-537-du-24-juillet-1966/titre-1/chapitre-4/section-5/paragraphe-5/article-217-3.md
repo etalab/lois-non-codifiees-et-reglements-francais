@@ -1,7 +1,11 @@
 # Article 217-3
 
-En cas d'augmentation du capital par souscription d'actions en numéraire, la société ne peut exercer elle-même les droits attachés aux actions qu'elle détient par application de l'article 217-2. L'assemblée générale des actionnaires peut décider de ne pas tenir compte de ces actions pour la détermination des droits préférentiels de souscription attachés aux autres actions ; à défaut, les droits attachés aux actions détenues par la société doivent être, avant la clôture du délai de souscription, soit vendus en bourse, soit répartis entre les actionnaires au prorata des droits de chacun.
+La société ne peut posséder, directement ou par l'intermédiaire d'une personne agissant en son propre nom, mais pour le compte de la société, plus de 10 p. 100 du total de ses propres actions, ni plus de 10 p. 100 d'une catégorie déterminée. Ces actions doivent être mises sous la forme nominative et entièrement libérées lors de l'acquisition ; à défaut, les membres du conseil d'administration ou du directoire, selon le cas, sont tenus, dans les conditions prévues à l'article 244 et à l'article 249, premier alinéa, de libérer les actions.
 
-La société peut vendre en bourse tout ou partie des actions acquises en application de l'article 217-2, à condition que le cours de bourse soit au moins égal au cours moyen d'achat de ces actions.
+L'acquisition d'actions de la société ne peut avoir pour effet d'abaisser l'actif net à un montant inférieur à celui du capital augmenté des réserves non distribuables.
 
-Les sociétés qui font participer les salariés aux fruits de l'expansion de l'entreprise par attribution de leurs propres actions ainsi que celles qui entendent consentir des options d'achat d'actions à des salariés peuvent utiliser à cette fin tout ou partie des actions acquises dans les conditions prévues à l'article 217-2.
+La société doit disposer de réserves, autres que la réserve légale, d'un montant au moins égal à la valeur de l'ensemble des actions qu'elle possède.
+
+Les actions possédées par la société ne donnent pas droit aux dividendes.
+
+En cas d'augmentation du capital par souscription d'actions en numéraire, la société ne peut exercer par elle-même le droit préférentiel de souscription. L'assemblée générale peut décider de ne pas tenir compte de ces actions pour la détermination des droits préférentiels de souscription attachés aux autres actions ; à défaut les droits attachés aux actions possédées par la société doivent être, avant la clôture du délai de souscription, soit vendus en bourse, soit répartis entre les actionnaires au prorata des droits de chacun.
