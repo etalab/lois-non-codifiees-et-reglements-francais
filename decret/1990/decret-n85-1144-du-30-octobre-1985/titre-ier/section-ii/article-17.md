@@ -7,3 +7,5 @@ Ces investissements doivent en outre répondre aux conditions de dimensions maxi
 Ces dimensions maximales par exploitation peuvent être multipliées par le nombre d'exploitations regroupées, dans la limite maximale de trois, pour les groupements agricoles d'exploitation en commun résultant de la fusion totale d'exploitations.
 
 Pour cette multiplication il ne sera pas tenu compte des exploitations apportées par les associés qui ne remplissent pas les conditions prévues à l'article 2 (1°) du présent décret.
+
+Toutefois, dans les départements d'outre-mer, les investissements destinés à la production porcine peuvent bénéficier des aides visées à l'article 10 lorsqu'ils répondent à des conditions relatives, notamment, à la taille des élevages concernés par les investissements, fixées par arrêté du ministre chargé de l'agriculture.

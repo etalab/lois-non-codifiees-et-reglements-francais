@@ -18,7 +18,7 @@ Cette capacité résulte :
 
 a) Soit de la possession d'un diplôme ou d'un certificat de niveau équivalant au brevet d'études professionnelles agricoles ou au brevet professionnel agricole ;
 
-b) Soit de cinq ans au moins de pratique professionnelle sur une exploitation agricole ; cette durée est réduite à trois ans pour les titulaires du brevet d'apprentissage agricole ou du certificat d'aptitude professionnelle agricole et pour les titulaires de titres équivalents.
+b) Soit de cinq ans au moins de pratique professionnelle sur une exploitation agricole ; cette durée est réduite à trois ans pour les titulaires du brevet d'apprentissage agricole ou du certificat d'aptitude professionnelle agricole et pour les titulaires de titres équivalents. Dans les départements d'outre-mer, cette durée est réduite à un an pour les titulaires de ces diplômes ou de titres équivalents.
 
 Dans ce cas, le candidat doit s'engager à suivre un stage de formation complémentaire.
 
