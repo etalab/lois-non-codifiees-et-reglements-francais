@@ -6,17 +6,15 @@ a) Nombre total des sièges de représentants titulaires
 
 attribués à chaque liste
 
-Chaque organisation syndicale a droit à autant de sièges de représentants titulaires que le nombre de voix recueillies par elle contient de fois le quotient électoral.
+Chaque organisation syndicale a droit à autant de sièges de représentants titulaires que le nombre moyen de voix obtenu par elle contient de fois le quotient électoral.
 
 Les sièges de représentants titulaires restant éventuellement à pourvoir sont attribués suivant la règle de la plus forte moyenne.
 
-b) Fixation des classes dans lesquelles les listes
-
-ont des représentants titulaires
+b) Fixation des classes dans lesquelles les listes ont des représentants titulaires
 
 L'organisation syndicale ayant droit au plus grand nombre de sièges choisit la classe dans laquelle elle désire se voir attribuer le premier siège auquel elle peut prétendre.
 
-Les organisations syndicales ayant également droit à au moins un siège choisissent ensuite dans l'ordre décroissant du nombre de voix obtenu pour chacune d'elles la classe dans laquelle elles désirent se voir attribuer le premier siège.
+Les organisations syndicales ayant également droit à au moins un siège choisissent ensuite dans l'ordre décroissant du nombre moyen de voix obtenu pour chacune d'elles la classe dans laquelle elles désirent se voir attribuer le premier siège.
 
 Les organisations syndicales ayant obtenu plus d'un siège sont ensuite appelées dans le même ordre à pourvoir un deuxième siège.
 
@@ -32,6 +30,6 @@ c) Désignation des représentants titulaires de chaque classe
 
 Les représentants titulaires sont désignés selon l'ordre de présentation de la liste.
 
-d) Dispositions spéciales
+d) Dispositions spéciales :
 
-Dans le cas où deux organisations syndicales ont la même moyenne et où il ne reste qu'un siège à pourvoir, ledit siège est attribué à celle qui a recueilli le plus grand nombre de suffrages. Si les deux organisations syndicales en cause ont également recueilli le même nombre de voix, le siège est attribué au plus âgé des candidats en présence.
+Dans le cas où deux organisations syndicales ont obtenu le même nombre moyen de voix et où il ne reste qu'un siège à pourvoir, ledit siège est attribué à celle qui a obtenu le plus grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats en présence.
