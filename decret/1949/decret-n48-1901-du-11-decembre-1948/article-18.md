@@ -1,0 +1,3 @@
+# Article 18
+
+Sont abrogés : le décret du 1er octobre 1913, modifié par le décret du 26 novembre 1934, portant règlement d'administration publique en ce qui concerne les mesures particulières d'hygiène applicables dans les industries où le personnel est exposé à l'intoxication saturnine : le décret du 8 août 1930, modifié par le décret du 26 novembre 1934, concernant l'emploi de la céruse et du sulfate de plomb dans les travaux de peinture ; le décret du 1er octobre 1913, modifié par le décret du 26 novembre 1943, portant règlement d'administration publique en ce qui concerne l'opération dite "pompage" dans l'industrie de la poterie d'étain.
