@@ -1,6 +1,7 @@
 # Loi n° 66-509 du 12 juillet 1966 RELATIVE A L'ASSURANCE MALADIE ET A L'ASSURANCE MATERNITE DES TRAVAILLEURS NON-SALARIES DES PROFESSIONS NON-AGRICOLES.
 
 - [Article 7](article-7.md)
+- [Article 10](article-10.md)
 - [Article 13](article-13.md)
 - [Article 16](article-16.md)
 - [Article 17](article-17.md)

@@ -1,0 +1,3 @@
+# Article 1
+
+Les anciens personnels salariés des entreprises et établissements ayant fait l'objet d'une mesure de nationalisation et ceux des organismes de droit privé transformés en services publics peuvent demander, dans les conditions fixées par le présent décret, la validation par les régimes de retraites complémentaires des assurances sociales institués par les décrets n° 51-1445 du 12 décembre 1951 et n° 59-1569 du 31 décembre 1959 des années de service accomplies dans les entreprises, établissements et organismes susvisés antérieurement à la transformation du statut juridique des entreprises, établissements et organismes en cause.
