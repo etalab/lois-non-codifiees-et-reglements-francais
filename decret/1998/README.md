@@ -439,7 +439,6 @@
 - [Décret n°98-379 du 15 mai 1998 (MENS9801117D)](decret-n98-379-du-15-mai-1998-mens9801117d)
 - [Décret n°98-382 du 15 mai 1998 (ATEN9860023D)](decret-n98-382-du-15-mai-1998-aten9860023d)
 - [Décret n°98-396 du 15 mai 1998 (MAEJ9830044D)](decret-n98-396-du-15-mai-1998-maej9830044d)
-- [Décret n°98-1049 du 16 novembre 1998 (AGRS9801888D)](decret-n98-1049-du-16-novembre-1998-agrs9801888d)
 - [Décret n°98-1050 du 16 novembre 1998 (MJSK9870136D)](decret-n98-1050-du-16-novembre-1998-mjsk9870136d)
 - [Décret n°98-1148 du 16 décembre 1998 (INTD9800303D)](decret-n98-1148-du-16-decembre-1998-intd9800303d)
 - [Décret n°98-1149 du 16 décembre 1998 (EQUU9800992D)](decret-n98-1149-du-16-decembre-1998-equu9800992d)
