@@ -1,0 +1,3 @@
+# Article Annexe art. 1
+
+Il est formé entre les propriétaires d'actions ci-après créées, et celles qui pourront l'être ultérieurement, une société anonyme d'économie mixte, régie par les présents statuts et par les lois et règlements en vigueur relatifs aux sociétés anonymes et à la participation des collectivités locales à des sociétés, sauf dans la mesure où, conformément à l'article 502 de la loi n° 66-537 du 24 juillet 1966, il est dérogé à ces lois et règlements par des dispositions législatives ou réglementaires relatives à la participation des collectivités locales aux sociétés anonymes, notamment les articles L. 381-1 à 381-9 du code des communes et l'article 3 du décret n° 55-579 du 20 mai 1955.
