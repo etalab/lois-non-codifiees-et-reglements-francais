@@ -1,0 +1,3 @@
+# Article 20
+
+Par dérogation aux dispositions de l'article 5 ci-dessus, à compter de la date de publication du présent décret, les trois premières sessions des concours internes pour l'accès au corps des attachés d'administration hospitalière sont réservées aux adjoints des cadres hospitaliers et aux secrétaires médicaux. Les candidats doivent justifier, au 1er janvier de l'année du concours, de quatre années au moins de services publics effectifs en qualité d'adjoint des cadres hospitaliers ou de secrétaire médical. Sont pris en compte dans le calcul des quatre ans les services accomplis en qualité de titulaire ou stagiaire.

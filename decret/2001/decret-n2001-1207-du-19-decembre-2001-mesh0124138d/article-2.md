@@ -1,0 +1,3 @@
+# Article 2
+
+Les attachés d'administration hospitalière participent, sous l'autorité du directeur de l'établissement, à la conception, à l'élaboration et à la mise en oeuvre des décisions prises dans les domaines administratif, financier, économique, sanitaire, social. Ils peuvent se voir confier des missions, des études ou des fonctions comportant des responsabilités, notamment dans les domaines des admissions et des relations avec les usagers, de la gestion des ressources humaines, de la gestion des achats et des marchés publics, de la gestion financière et du contrôle de gestion. Ils peuvent assurer la direction d'un bureau ou d'un service.
