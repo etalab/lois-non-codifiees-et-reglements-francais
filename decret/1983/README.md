@@ -9,6 +9,8 @@
 - [Décret n°83-15 du 7 janvier 1983](decret-n83-15-du-7-janvier-1983)
 - [Décret n°83-19 du 7 janvier 1983](decret-n83-19-du-7-janvier-1983)
 - [Décret n°86-1035 du 11 septembre 1986](decret-n86-1035-du-11-septembre-1986)
+- [Décret n° 83-16 du 13 janvier 1983](decret-n-83-16-du-13-janvier-1983)
+- [Décret n°83-17 du 13 janvier 1983](decret-n83-17-du-13-janvier-1983)
 - [Décret n°86-662 du 14 mars 1986](decret-n86-662-du-14-mars-1986)
 - [Décret n°82-971 du 17 novembre 1982](decret-n82-971-du-17-novembre-1982)
 - [Décret n°82-973 du 17 novembre 1982](decret-n82-973-du-17-novembre-1982)
