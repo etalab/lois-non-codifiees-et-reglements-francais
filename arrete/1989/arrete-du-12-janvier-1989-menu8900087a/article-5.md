@@ -1,0 +1,3 @@
+# Article 5
+
+Les listes de candidats reçues sont publiées au Bulletin officiel du ministère de l'éducation nationale dans le délai prévu à l'article 6 du décret du 2 janvier 1989 susvisé. Les listes sont envoyées soit aux recteurs, qui les transmettent aux présidents des établissements publics à caractère scientifique, culturel et professionnel autres que ceux soumis à l'article 37 de la loi du 26 janvier 1984, soit directement aux directeurs des écoles normales, des grands établissements et des écoles françaises à l'étranger. La reproduction des listes est assurée dans les établissements en un nombre d'exemplaires suffisant pour qu'ils puissent servir de bulletins de vote.
