@@ -141,6 +141,7 @@
 - [Décret n°87-900 du 9 novembre 1987 (ECOT8740027D)](decret-n87-900-du-9-novembre-1987-ecot8740027d)
 - [Décret n°87-915 du 9 novembre 1987 (MAEJ8730054D)](decret-n87-915-du-9-novembre-1987-maej8730054d)
 - [Décret n°87-916 du 9 novembre 1987 (MAEJ8730055D)](decret-n87-916-du-9-novembre-1987-maej8730055d)
+- [Décret n°87-989 du 9 décembre 1987 (COMC8700004D)](decret-n87-989-du-9-decembre-1987-comc8700004d)
 - [Décret n°87-168 du 10 mars 1987 (ECOP8700023D)](decret-n87-168-du-10-mars-1987-ecop8700023d)
 - [Décret n°87-254 du 10 avril 1987](decret-n87-254-du-10-avril-1987)
 - [Décret n°87-268 du 10 avril 1987 (AGRA8700497D)](decret-n87-268-du-10-avril-1987-agra8700497d)
