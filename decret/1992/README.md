@@ -115,6 +115,7 @@
 - [Décret n°92-136 du 7 février 1992 (JUSB9110352D)](decret-n92-136-du-7-fevrier-1992-jusb9110352d)
 - [Décret n°92-37 du 7 janvier 1992 (BUDR9104048D)](decret-n92-37-du-7-janvier-1992-budr9104048d)
 - [Décret n°92-419 du 7 mai 1992 (MENA9202066D)](decret-n92-419-du-7-mai-1992-mena9202066d)
+- [Décret n°92-426 du 7 mai 1992 (MENT9200041D)](decret-n92-426-du-7-mai-1992-ment9200041d)
 - [Décret n°88-329 du 8 avril 1988 (AGRB8800484D)](decret-n88-329-du-8-avril-1988-agrb8800484d)
 - [Décret n°92-23 du 8 janvier 1992 (TEFF9104195D)](decret-n92-23-du-8-janvier-1992-teff9104195d)
 - [Décret n°92-38 du 8 janvier 1992 (JUSC9121025D)](decret-n92-38-du-8-janvier-1992-jusc9121025d)
