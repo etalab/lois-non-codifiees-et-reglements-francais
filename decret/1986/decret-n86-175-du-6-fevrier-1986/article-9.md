@@ -1,5 +1,7 @@
 # Article 9
 
+Les subventions sont versées à un compte bancaire ouvert au nom du producteur pour l'oeuvre audiovisuelle bénéficiaire de ces subventions.
+
 Le versement des aides autres que celles visées au b du 1° et aux c et e du 2° de l'article 1er du présent décret est subordonné à l'obtention d'une autorisation préalable délivrée avant le début des prises de vues. L'autorisation est demandée dans les conditions prévues à l'article 4 du décret n° 85-983 du 17 septembre 1985.
 
 Le versement des aides prévues au e du 2° de l'article 1er est effectué après examen d'un dossier présenté au Centre national de la cinématographie selon des modalités précisées par l'arrêté du ministre chargé de la culture.
