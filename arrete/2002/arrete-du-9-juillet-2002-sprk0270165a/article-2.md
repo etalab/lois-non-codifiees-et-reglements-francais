@@ -16,6 +16,8 @@ Ski nautique ;
 
 Voile.
 
+Glisses aérotractées
+
 2. Mentions plurivalentes composées de deux supports choisis dans des groupes différents :
 
 Groupe A
@@ -57,7 +59,3 @@ Engins tractés.
 Groupe G
 
 Parachutisme ascensionnel nautique.
-
-Groupe H
-
-Glisse aérotractée.
