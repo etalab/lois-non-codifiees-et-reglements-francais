@@ -1,6 +1,7 @@
 # 1967
 
 - [Décret n°67-167 du 1 mars 1967](decret-n67-167-du-1-mars-1967)
+- [Décret n°67-378 du 3 mai 1967](decret-n67-378-du-3-mai-1967)
 - [Décret n°67-1070 du 4 décembre 1967](decret-n67-1070-du-4-decembre-1967)
 - [Décret n°67-18 du 5 janvier 1967](decret-n67-18-du-5-janvier-1967)
 - [Décret n°68-333 du 5 avril 1968](decret-n68-333-du-5-avril-1968)
