@@ -6,7 +6,7 @@ Sont appelés à siéger en qualité de membres représentants l'administration 
 
 - le chef de service des ressources humaines ;
 
-- un sous-directeur du service des ressources humaines ;
+- le sous-directeur de l'administration des services centraux.
 
 - un représentant de l'inspection générale des affaires sociales ;
 
