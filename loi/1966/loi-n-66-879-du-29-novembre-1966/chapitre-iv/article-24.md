@@ -1,0 +1,9 @@
+# Article 24
+
+Sauf dispositions contraires du décret particulier à chaque profession ou, à défaut, des statuts, la société civile professionnelle n'est pas dissoute par le décès, l'incapacité ou le retrait de la société d'un associé pour toute autre cause. Elle n'est pas non plus dissoute lorsqu'un des associés est frappé de l'interdiction définitive d'exercer sa profession.
+
+En cas de décès, les ayants droit de l'associé décédé n'acquièrent pas la qualité d'associé. Toutefois, ils ont la faculté, dans le délai fixé par le décret, de céder les parts sociales de l'associé décédé, dans les conditions prévues aux articles 19 et 22 ; en outre, si un ou plusieurs d'entre eux remplissent les conditions exigées par l'article 3, ils peuvent demander le consentement de la société dans les conditions prévues à l'article 19. Si le consentement est donné, les parts sociales de l'associé décédé peuvent faire l'objet d'une attribution préférentielle au profit de l'ayant droit agréé, à charge de soulte s'il y a lieu. En cas de refus, le délai ci-dessus est prolongé du temps écoulé entre la demande de consentement et le refus de celui-ci. Si aucune cession ni aucun consentement n'est intervenu à l'expiration du délai, la société ou les associés remboursent la valeur des parts sociales aux ayants droit dans les conditions prévues à l'article 21.
+
+L'associé frappé d'une interdiction définitive d'exercer la profession perd, au jour de cette interdiction, la qualité d'associé. Les dispositions de l'alinéa précédent sont applicables, à l'exception de celles concernant les ayants droit de l'intéressé.
+
+Pendant le délai prévu à l'alinéa 2 ci-dessus, l'associé, ses héritiers ou ayants droit, selon les cas, ne peuvent exercer aucun droit dans la société. Toutefois, et à moins qu'ils n'en soient déchus, ils conservent vocation à la répartition des bénéfices, dans les conditions prévues par les statuts.
