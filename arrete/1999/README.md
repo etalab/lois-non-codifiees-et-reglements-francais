@@ -136,6 +136,7 @@
 - [Arrêté du 10 décembre 1998 (ATEP9870458A)](arrete-du-10-decembre-1998-atep9870458a)
 - [Arrêté du 10 décembre 1998 (MESS9823877A)](arrete-du-10-decembre-1998-mess9823877a)
 - [Arrêté du 10 février 1999 (ECOI9900032A)](arrete-du-10-fevrier-1999-ecoi9900032a)
+- [Arrêté du 10 juin 1999 (MESH9921793A)](arrete-du-10-juin-1999-mesh9921793a)
 - [Arrêté du 10 mars 1999 (DEFC9901291A)](arrete-du-10-mars-1999-defc9901291a)
 - [Arrêté du 10 mars 1999 (MCCB9900230A)](arrete-du-10-mars-1999-mccb9900230a)
 - [Arrêté du 10 mai 1999 (ECOL9900067A)](arrete-du-10-mai-1999-ecol9900067a)
