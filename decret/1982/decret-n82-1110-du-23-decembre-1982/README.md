@@ -3,6 +3,7 @@
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 20](article-20.md)
+- [Annexes](annexes)
 - [Contrôle et sanctions.](controle-et)
 - [Dispositions administratives et financières.](dispositions-administratives-et)
 - [Dispositions économiques et techniques.](dispositions-economiques-et)
