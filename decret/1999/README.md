@@ -53,6 +53,7 @@
 - [Décret n°98-1247 du 29 décembre 1998 (ECOB9830095D)](decret-n98-1247-du-29-decembre-1998-ecob9830095d)
 - [Décret n°98-1256 du 29 décembre 1998 (AGRG9801877D)](decret-n98-1256-du-29-decembre-1998-agrg9801877d)
 - [Décret n°98-1261 du 29 décembre 1998 (AGRM9802455D)](decret-n98-1261-du-29-decembre-1998-agrm9802455d)
+- [Décret n°98-1308 du 29 décembre 1998 (MESN9823940D)](decret-n98-1308-du-29-decembre-1998-mesn9823940d)
 - [Décret n°70-1094 du 30 novembre 1970](decret-n70-1094-du-30-novembre-1970)
 - [Décret n°98-1309 du 30 décembre 1998 (MESS9823032D)](decret-n98-1309-du-30-decembre-1998-mess9823032d)
 - [Décret n°98-679 du 30 juillet 1998 (ATEP9860005D)](decret-n98-679-du-30-juillet-1998-atep9860005d)
