@@ -5,3 +5,5 @@ Le président du Conseil national de l'enseignement supérieur et de la recherch
 Au jour fixé pour la séance de jugement, le rapporteur donne lecture de son rapport. La personne déférée et son conseil sont entendus dans leurs observations. Après que la personne déférée et son conseil se sont retirés, le président met l'affaire en délibéré et la formation appelée à connaître de l'affaire statue.
 
 Si le président l'estime nécessaire, certains témoins sont entendus à l'audience. La personne déférée a la parole en dernier.
+
+En l'absence de la personne déférée, la formation de jugement apprécie, le cas échéant, les motifs invoqués pour expliquer cette absence et, si elle les juge injustifiés, continue à siéger. En cas d'absence non justifiée, la procédure est réputée contradictoire.
