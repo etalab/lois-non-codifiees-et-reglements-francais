@@ -6,11 +6,13 @@ I - Au chapitre Ier "Conseil municipal" :
 
 Les articles L. 121-1 et L. 121-2 ;
 
-L'article L. 121-3 sous la réserve que le mode de scrutin pour l'élection des conseils municipaux des communes de moins de 30.000 habitants soit régi, non par les articles L. 252, L. 253, L. 255, L. 256 à L. 258 (deux premiers alinéas) du code électoral, mais par les dispositions suivantes :
+L'article L. 121-3 sous la réserve que le mode de scrutin pour l'élection des conseillers municipaux des communes de moins de 3.500 habitants soit régi, non par les articles L. 252, L. 253, L. 255, L. 256 à L. 258, premiers et deuxième alinéa, du code électoral, mais par les dispositions suivantes :
 
-"Les conseils municipaux des communes de moins de 30.000 habitants [*nombre*] sont élus au scrutin de liste avec représentation proportionnelle sans panachage ni vote préférentiel.
+"Les conseils municipaux des communes de moins de 3.500 habitants [*nombre*] sont élus au scrutin de liste avec représentation proportionnelle sans panachage ni vote préférentiel.
 
-"Le sectionnement électoral d'une commune est fait par le haut-commissaire [*attributions*] sur son initiative ou celle du conseil municipal ou d'électeurs de la commune concernée. Une enquête est ouverte à la mairie intéressée et le conseil municipal consulté.
+La commune forme une circonscription électorale unique.
+
+"Le sectionnement électoral d'une commune peut être fait par le haut-commissaire, [*attributions*] sur son initiative ou celle du conseil municipal ou d'électeurs de la commune concernée. Une enquête est ouverte à la mairie intéressée et le conseil municipal consulté.
 
 Chaque liste doit comprendre autant de noms qu'il y a de sièges à pourvoir [*nombre*].
 
