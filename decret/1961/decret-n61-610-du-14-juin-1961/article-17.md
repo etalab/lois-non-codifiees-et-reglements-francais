@@ -1,3 +1,3 @@
 # Article 17
 
-Les acquisitions immobilières réalisées par les sociétés en application du présent décret et conformément au programme régulièrement approuvé sont dispensées de l'examen des commissions instituées par le décret n° 69-825 du 28 août 1969 portant déconcentration et unification des organismes consultatifs en matière d'opérations immobilières, d'architecture et d'espaces protégés.
+Les opérations immobilières réalisées par les sociétés d'aménagement foncier et d'établissement rural ne sont pas soumises aux dispositions du décret n° 86-455 du 14 mars 1986 portant suppression des commissions des opérations immobilières et de l'architecture et fixant les modalités de consultation du service des domaines.
