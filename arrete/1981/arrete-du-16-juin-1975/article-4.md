@@ -1,3 +1,9 @@
 # Article 4
 
-La superficie maximum des cumuls visés à l'article 188-1 du Code rural est fixée à trois fois la superficie minimum des cumuls soit 48 hectares pour l'ensemble du département.
+Les superficies maxima visées à l'article 188-1 du Code rural sont fixées à deux fois la superficie minimum d'installation, soit (en hectares) :
+
+Bocage normand : 44
+
+Pays d'Auge et Bessin : 50
+
+Plaine de Caen et Falaise : 66.

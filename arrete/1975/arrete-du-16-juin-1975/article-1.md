@@ -1,9 +1,11 @@
 # Article 1
 
-Les superficies minima d'installation en polyculture visées à l'article 188-3 du Code rural sont fixées ainsi qu'il suit pour le département des Hautes-Pyrénées (en hectares) :
+Les superficies minimum d'installation en polyculture visées à l'article 188-3 du code rural sont fixées ainsi qu'il suit pour le département des Hautes-Alpes (en hectares) :
 
-Montagne de Bigorre et haute vallée de l'Adour : 16
+Queyras, Haut Embrunais, Oisans, Briançonnais,
 
-Coteaux de Bigorre : 18
+Embrunais : 16
 
-Reste du département : 20
+Champsaur et Capençais : 21
+
+Reste du département : 28

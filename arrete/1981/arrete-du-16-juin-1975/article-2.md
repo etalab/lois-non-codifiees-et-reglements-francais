@@ -4,28 +4,30 @@ Les coefficients d'équivalence applicables aux cultures spécialisées visées 
 
 Cultures légumières de plein champ : 5
 
-Cultures maraîchères en sec : 10
+Cultures maraîchères :
 
-Cultures maraîchères sous bâches : 33
+Moins de 5 % de châssis : 12
 
-Cultures maraîchères sous serres chauffées : 80
+5 % à 15 % en châssis : 20
 
-Vignes : 4
+Arboriculture fruitière (basses tiges) : 3
 
-Cultures fruitières : 4
+Petits fruits : 12
 
-Pépinières : 7
+Endives, forçage seulement : 6
 
-Horticulture : 15
+Endives, culture plus forçage : 7
 
-Horticulture sous bâches : 70
+Champignons : 35
 
-Horticulture sous serres chauffées : 120
+Pépinières générales : 5
 
-Tabac : 5
+Pépinières sylvicoles : 7
 
-Landes : 0,5
+Cultures florales de plein air : 30
 
-Landes des monts du Forez et de la Madeleine : 0,25
+Cultures florales sous châssis et serres : 70
 
-Champignonnières : 35.
+Salmoniculture et pisciculture : 200
+
+Ostréiculture : 1 ha = 1 S.M.I.
