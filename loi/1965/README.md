@@ -9,6 +9,7 @@
 - [Loi n° 65-557 du 10 juillet 1965](loi-n-65-557-du-10-juillet-1965)
 - [Loi n° 65-882 du 20 octobre 1965](loi-n-65-882-du-20-octobre-1965)
 - [Loi n° 65-883 du 20 octobre 1965](loi-n-65-883-du-20-octobre-1965)
+- [Loi n° 65-956 du 12 novembre 1965](loi-n-65-956-du-12-novembre-1965)
 - [Loi n°65-479 du 25 juin 1965](loi-n65-479-du-25-juin-1965)
 - [Loi n°65-555 du 10 juillet 1965](loi-n65-555-du-10-juillet-1965)
 - [Loi n°65-561 du 10 juillet 1965](loi-n65-561-du-10-juillet-1965)
