@@ -11,3 +11,5 @@ Le montant de cette taxe est fixé comme suit :
 20,00 F ;
 
 3° Objets pour lesquels les importateurs bénéficient de la procédure d'abonnement pour le dédouanement, par objet : 2,20 F.
+
+La taxe de présentation à la douane n'est pas perçue à l'occasion de la présentation aux services douaniers des envois en provenance des Etats de la Communauté économique européenne et de ceux échangés dans les relations réciproques entre la métropole et les départements d'outre-mer : Guadeloupe, Guyane, Martinique, Réunion ou entre ces derniers, que les envois soient ou non grevés de droits de douane ou de taxes fiscales.
