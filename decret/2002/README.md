@@ -300,6 +300,7 @@
 - [Décret n°2002-509 du 8 avril 2002 (MJSK0270060D)](decret-n2002-509-du-8-avril-2002-mjsk0270060d)
 - [Décret n°2002-56 du 8 janvier 2002 (ECOI0100656D)](decret-n2002-56-du-8-janvier-2002-ecoi0100656d)
 - [Décret n°2004-970 du 8 septembre 2004 (JUSG0460071D)](decret-n2004-970-du-8-septembre-2004-jusg0460071d)
+- [Décret n°2002-888 du 8 mai 2002 (INTA0200119D)](decret-n2002-888-du-8-mai-2002-inta0200119d)
 - [Décret n°2001-609 du 9 juillet 2001 (MCCT0100390D)](decret-n2001-609-du-9-juillet-2001-mcct0100390d)
 - [Décret n°2002-1437 du 9 décembre 2002 (DEFP0202246D)](decret-n2002-1437-du-9-decembre-2002-defp0202246d)
 - [Décret n°2002-1438 du 9 décembre 2002 (DEFP0202248D)](decret-n2002-1438-du-9-decembre-2002-defp0202248d)
