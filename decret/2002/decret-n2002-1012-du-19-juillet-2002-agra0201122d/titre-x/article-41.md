@@ -1,0 +1,3 @@
+# Article 41
+
+Pour l'exécution des mesures sociales d'accompagnement du transfert du siège à Limoges autorisées par le ministre de l'agriculture, de l'alimentation, de la pêche et des affaires rurales et le ministre de la fonction publique, de la réforme de l'Etat et de l'aménagement du territoire, le directeur général du CNASEA peut prendre, jusqu'à une date fixée par arrêté des ministres chargés respectivement de l'agriculture, de la formation professionnelle, de l'emploi, du budget et de la fonction publique et avec leur accord, les mesures d'adaptation visant à faciliter le départ des agents qui ne souhaitent pas suivre le transfert de leur poste à Limoges.
