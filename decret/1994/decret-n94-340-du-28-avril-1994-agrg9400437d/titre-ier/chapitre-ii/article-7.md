@@ -1,3 +1,5 @@
 # Article 7
 
-Dans les zones de production, la pêche non professionnelle sur les gisements naturels ne peut être pratiquée que dans des zones A.
+Dans les zones de production, la pêche des coquillages vivants destinés à la consommation humaine ne peut être pratiquée à titre non professionnel que sur les gisements naturels situés dans les zones classées A ou B.
+
+Les modalités de l'information sanitaire du public se livrant à cette pêche dans des zones classées B sont fixées par un arrêté conjoint du ministre chargé de la santé et du ministre chargé des pêches maritimes et des cultures marines, pris après avis du Conseil supérieur d'hygiène publique de France.
