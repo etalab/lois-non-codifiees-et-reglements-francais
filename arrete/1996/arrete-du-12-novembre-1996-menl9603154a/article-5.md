@@ -1,0 +1,3 @@
+# Article 5
+
+Un conseil de gestion du fonds académique de mutualisation est créé. Présidé par le recteur ou son représentant, il comprend obligatoirement les présidents des conseils interétablissements des groupements, les chefs des établissements supports des groupements d'établissements (Greta), le chef de l'établissement gestionnaire du fonds, s'il n'est pas lui-même chef d'un établissement support de groupement, l'agent comptable gestionnaire de l'établissement gestionnaire du fonds, ainsi qu'un représentant du conseil d'administration du même établissement désigné dans son sein par cette instance.

@@ -1,0 +1,3 @@
+# Article 6
+
+Pour chaque année civile, le conseil de gestion du fonds adopte, dans le cadre de la politique académique de développement de la formation continue, le programme des actions conduites au titre des missions définies à l'article 2 ci-dessus et la répartition des financements consacrés à ces actions sur les ressources du fonds de mutualisation. Il leur apporte en cours d'année les ajustements nécessaires et régule les financements prévus dans le respect des compétences du conseil d'administration de l'établissement gestionnaire du fonds. Il fixe la durée des avances prévues à l'article 2 b ci-dessus. Ces avances doivent être remboursées avant la fin de l'exercice concerné lorsqu'elles sont devenues sans objet.
