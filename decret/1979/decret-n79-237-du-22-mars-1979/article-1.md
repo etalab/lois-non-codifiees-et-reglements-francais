@@ -2,11 +2,11 @@
 
 Il est constitué une commission des comptes de la sécurité sociale placée sous la présidence du ministre chargé de la sécurité sociale et qui comprend en outre [*composition*] :
 
-1° Deux membres de l'Assemblée nationale et deux membres du Sénat désignés respectivement par le président de l'Assemblée nationale et par le président du Sénat ;
+1. Deux [*députés*] membres de l'assemblée nationale et deux membres du sénat désignés respectivement par le président de l'assemblée nationale et par le président du sénat ;
 
-2° Le directeur de la sécurité sociale au ministère de la santé et de la famille, le commissaire général au Plan, un représentant du ministre du budget, un représentant du ministre de l'économie, un représentant du ministre de l'agriculture, un magistrat de la Cour des comptes ;
+2. Le directeur de la sécurité sociale au ministère de la santé et de la famille, le commissaire général au plan, un représentant du ministre du budget, un représentant du ministre de l'économie, un représentant du ministre de l'agriculture, un magistrat de la cour des comptes ;
 
-3° Douze représentants des organisations professionnelles syndicales et sociales désignés à raison de :
+3. Douze [*nombre*] représentants des organisations professionnelles syndicales et sociales désignés à raison de :
 
 Cinq par les organisations syndicales les plus représentatives des salariés ;
 
@@ -44,6 +44,8 @@ Le président du conseil d'administration de l'association générale des instit
 
 Le président du conseil d'administration de l'association des régimes de retraites complémentaires.
 
-5° Deux représentants des médecins et trois représentants des établissements de soins désignés par le ministre chargé de la sécurité sociale.
+5. Deux représentants des médecins et trois représentants des établissements de soins désignés par le ministre chargé de la sécurité sociale.
 
-6° Cinq personnalités qualifiées désignées pour leur compétence particulière par le ministre chargé de la sécurité sociale.
+6. Cinq personnalités qualifiées désignées pour leur compétence particulière par le ministre chargé de la sécurité sociale.
+
+7. Un représentant désigné par la fédération nationale de la mutualité française.
