@@ -205,7 +205,6 @@
 - [Arrêté du 6 mai 1995 (MCCB9500149A)](arrete-du-6-mai-1995-mccb9500149a)
 - [Arrêté du 6 mai 1995 (RESK9500680A)](arrete-du-6-mai-1995-resk9500680a)
 - [Arrêté du 7 août 1995 (MAEA9520299A)](arrete-du-7-aout-1995-maea9520299a)
-- [Arrêté du 7 avril 1995 (MCCF9500187A)](arrete-du-7-avril-1995-mccf9500187a)
 - [Arrêté du 7 février 1995 (ENVE9540046A)](arrete-du-7-fevrier-1995-enve9540046a)
 - [Arrêté du 7 février 1995 (INTC9500090A)](arrete-du-7-fevrier-1995-intc9500090a)
 - [Arrêté du 7 février 1995 (INTC9500091A)](arrete-du-7-fevrier-1995-intc9500091a)
