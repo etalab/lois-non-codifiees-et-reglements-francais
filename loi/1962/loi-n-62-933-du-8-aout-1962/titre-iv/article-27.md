@@ -1,20 +1,26 @@
 # Article 27
 
-Le fonds d'action sociale pour l'aménagement des structures agricoles exerce sa mission dans les domaines suivants :
+Le fonds d'action sociale pour l'aménagement des structures agricoles est chargé d'allouer une indemnité annuelle de départ dont le montant est fixé par l'autorité administrative compétente, aux agriculteurs âgés de soixante ans au moins et de soixante-cinq ans au plus, exerçant cette activité à titre principal, susceptibles de bénéficier d'un avantage de vieillesse agricole à l'âge requis, qui cessent leur activité de chef d'exploitation agricole et rendent disponibles des terres répondant à des conditions de superficie.
 
-Il est chargé d'allouer un complément de retraite, leur vie durant, aux agriculteurs âgés qui, cessant leur activité ou cédant librement leur exploitation, favorisent par là un aménagement foncier. Le montant des cessions consenties n'entrera point en ligne de compte dans le calcul des ressources dont l'appréciation est faite conformément à l'article 1112 du code rural.
+Le seuil de soixante ans prévu ci-dessus est ramené à cinquante-cinq ans pour les exploitants agricoles qui ont un taux d'invalidité supérieur à 50 p. 100 ou qui sont devenus chefs d'exploitation par suite du décès de leur conjoint.
 
-Il attribue des indemnités d'installation et des prêts aux agriculteurs quittant une région surpeuplée pour s'installer dans des zones d'accueil.
+Dans des conditions prévues par décret, les terres rendues disponibles peuvent être cédées à un ou plusieurs chefs d'exploitation à titre principal s'installant ou déjà installés. Ces terres doivent être cédées en pleine propriété ou dans les conditions prévues au livre VI du code rural, en respectant les règles relatives au contrôle des structures des exploitations agricoles. Ces terres peuvent être également affectées au reboisement ou à un usage non agricole d'intérêt général.
 
-Une indemnité viagère de départ n'ayant pas le caractère d'un complément de retraite, peut être accordée aux agriculteurs qui cessent leur activité ou cèdent leur exploitation dans des conditions favorisant soit un aménagement foncier en vue d'une meilleure organisation des exploitations agricoles ou d'une utilisation forestière des terres, soit une utilisation non agricole :
+La réglementation applicable pour l'octroi de l'indemnité viagère de départ est celle en vigueur à la date du dépôt de la demande.
 
-1° Au cas où l'exploitation est située dans une zone d'économie rurale dominante dans laquelle des actions prioritaires ont été décidées ;
+Le fonds d'action sociale pour l'aménagement des structures agricoles est également chargé d'allouer une indemnité viagère de départ ayant le caractère d'un complément de retraite :
 
-2° Au cas où la demande d'indemnité viagère de départ est présentée soit par un exploitant à l'encontre duquel une procédure d'expropriation a été engagée, soit par un exploitant auquel la qualité de rapatrié est reconnue, soit par la veuve d'un exploitant âgée de plus de soixante ans et non titulaire d'une indemnité viagère de départ de réversion.
+- aux titulaires de l'indemnité annuelle, à compter de la date à laquelle ils perçoivent un avantage de vieillesse agricole ;
 
-Il attribue des indemnités d'installation et des prêts aux agriculteurs quittant une région surpeuplée pour s'installer dans des zones d'accueil.
+- aux agriculteurs, à titre principal, ayant cessé d'exploiter, qui bénéficient d'un avantage de vieillesse agricole, avant leur soixante-cinquième anniversaire ;
 
-Il attribue également des indemnités de réinstallation sur une nouvelle exploitation et des prêts aux agriculteurs cessant de mettre en valeur des exploitations non viables dans des conditions favorisant l'aménagement foncier ou l'installation de jeunes agriculteurs.
+- et, pendant un délai fixé par l'autorité administrative compétente, aux agriculteurs à titre principal, bénéficiaires d'un avantage de vieillesse agricole obtenu après leur soixante-cinquième anniversaire, ayant cessé d'exploiter.
+
+L'indemnité viagère de départ est accordée si les agriculteurs cèdent les terres qu'ils mettent en valeur dans les conditions fixées au troisième alinéa du présent article. Son montant est fixé par l'autorité administrative en fonction de l'âge auquel l'intéressé a cessé son activité.
+
+Le montant des cessions consenties à titre onéreux n'est pas pris en compte dans le calcul des ressources ouvrant droit à l'allocation supplémentaire du fonds national de solidarité.
+
+Le fonds d'action sociale pour l'aménagement des structures agricoles attribue également des indemnités de réinstallation sur une nouvelle exploitation et des prêts aux agriculteurs cessant de mettre en valeur des exploitations non viables dans des conditions favorisant l'aménagement foncier ou l'installation de jeunes agriculteurs.
 
 Des indemnités et des prêts peuvent aussi être accordés aux agriculteurs effectuant la conversion d'une exploitation non viable pour se rapprocher des conditions optimales résultant des études prévues à l'article 7 de la loi n° 60-808 du 5 août 1960 d'orientation agricole.
 
