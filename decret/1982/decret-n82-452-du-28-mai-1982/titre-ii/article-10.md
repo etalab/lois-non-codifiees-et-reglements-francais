@@ -1,0 +1,5 @@
+# Article 10
+
+Les représentants de l'administration et du personnel membres titulaires ou suppléants des comités techniques venant, au cours de la période de trois années visée à l'article 9 ci-dessus, par suite de démission, de mise en congé de longue durée au titre de l'article 34 de la loi du 11 janvier 1984 précitée, de mise en disponibilité ou pour toute autre cause que l'avancement, à cesser les fonctions pour lesquelles ils ont été nommés sont remplacés dans les formes prévues aux articles 7, 8 et 9 ci-dessus. Il en est de même des agents frappés d'une des incapacités prononcées par les articles L. 5 à L. 7 du code électoral ainsi que des agents frappés d'une rétrogradation ou ayant fait l'objet de l'exclusion temporaire de fonctions figurant dans le troisième groupe des sanctions disciplinaires énumérées par l'article 66 de la loi du 11 janvier 1984 précitée, à moins qu'ils n'aient été amnistiés ou qu'ils n'aient bénéficié d'une décision acceptant leur demande tendant à ce qu'aucune trace de la sanction prononcée ne subsiste à leur dossier.
+
+Le mandat des remplaçants prend fin en même temps que celui des autres membres du comité.

@@ -1,0 +1,7 @@
+# Article 10
+
+Lorsque l'autorité ayant pouvoir disciplinaire a prononcé une sanction de mise à la retraite d'office ou de révocation alors que celle-ci n'a pas été proposée par le conseil de discipline à la majorité des deux tiers de ses membres présents, l'intéressé peut saisir de la décision, dans le délai d'un mois à compter de la notification, la commission de recours du Conseil supérieur de la fonction publique de l'Etat.
+
+Lorsque l'autorité ayant pouvoir disciplinaire a prononcé l'abaissement d'échelon, le déplacement d'office, la rétrogradation ou l'exclusion temporaire de fonctions pour une durée supérieure à huit jours, même assortie du bénéfice de sursis, alors que le conseil de discipline a proposé une sanction moins sévère ou qu'aucune des propositions soumises au conseil, y compris celle consistant à ne pas prononcer de sanction, n'a obtenu l'accord de la majorité des membres présents, l'intéressé peut saisir de la décision, dans le délai d'un mois à compter de la notification, la commission de recours du Conseil supérieur de la fonction publique de l'Etat.
+
+L'administration lors de la notification au fonctionnaire poursuivi de la sanction dont il a fait l'objet doit communiquer à l'intéressé les informations de nature à lui permettre de déterminer si les conditions de saisine de la commission de recours du Conseil supérieur de la fonction publique de l'Etat se trouvent réunies.
