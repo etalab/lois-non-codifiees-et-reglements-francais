@@ -1,57 +1,65 @@
 # Article 3
 
-Les tarifs des émoluments perçus en application de l'article 39 du code de l'industrie cinématographique sont fixés ainsi qu'il suit:
+Trois catégories d'émoluments sont perçus en application de l'article 39 du code de l'industrie cinématographique. Pour le versement d'émolument, il n'est procédé à aucune restitution et il n'est demandé aucun versement complémentaire en cas d'erreur dans la détermination d'un émolument portant sur une somme inférieure à 5 Euros.
 
-1. Pour toute requête présentée, conformément aux dispositions de l'article 32 du code, aux fins de dépôt :
+I. - A l'occasion des dépôts des titres prévus par l'article 32 du code de l'industrie cinématographique et à l'article 54 de la loi n° 85-660 du 3 juillet 1985 relative aux droits d'auteur et aux droits des artistes-interprètes, des producteurs de phonogrammes et de vidéogrammes et des entreprises de communication audiovisuelle :
 
-a) Du titre d'un film d'une oeuvre audiovisuelle d'une durée de projection inférieure à 15 minutes : 10 francs;
+a) Pour la délivrance d'un certificat de dépôt de titre d'une oeuvre audiovisuelle ou cinématographique :
 
-b) Du titre d'un film d'une oeuvre audiovisuelle d'une durée de projection comprise entre 15 minutes et une heure : 30 francs;
+1. D'une durée inférieure à quinze minutes : 1,5 Euros ;
 
-c) Du titre d'un film d'une oeuvre audiovisuelle d'une durée de projection égale ou supérieure à une heure : 120 francs jusqu'à deux heures et quarante francs par heure ou fraction d'heure supplémentaire.
+2. D'une durée comprise entre quinze minutes et une heure :
 
-2. Pour toute requête présentée aux fins de changement du titre d' une oeuvre cinématographique déjà déposé : 6 francs ou 30 francs suivant que la durée de projection de l'oeuvre dont il s'agit est ou non inférieure à une heure.
+5 Euros ;
 
-3. Pour toute inscription d'actes, conventions ou jugements effectuée conformément aux dispositions de l'article 33 du code sur le montant des droits, créances, sommes ou valeurs faisant l'objet de l'inscription :
+3. D'une durée égale ou supérieure à une heure : 18 Euros.
 
-Jusqu'à 300 000 F [*francs*] : 0,15 p. 100 ;
+Cet émolument est majoré de 6 Euro par heure ou fraction d'heure au-delà de deux heures.
 
-De 300  001 à 1 million de francs : 0,10 p. 100 ;
+b) Pour la délivrance d'un certificat de changement de titre d'une oeuvre cinématographique ou audiovisuelle :
 
-Au-dessus de 1 million de francs : 0,05 p. 100.
+1. D'une durée inférieure à une heure : 1 Euro ;
 
-Les sommes servant de base au calcul de l'émolument sont arrondies à la dizaine de francs inférieure.
+2. D'une durée égale ou supérieure à une heure : 5 Euros.
 
-Lorsqu'un même acte renferme plusieurs conventions conclues entre personnes ayant des interêts distincts, l'émolument est liquidé séparément sur chacun des droits faisant l'objet de l'inscription.
+II. - A l'occasion des requêtes d'inscription prévues à l'article 33 du code de l'industrie cinématographique et à l'article 54 de la loi du 3 juillet 1985 précitée :
 
-Il ne peut être perçu, pour chaque inscription, moins de 15 francs ou de 75 francs par oeuvre audiovisuelle, suivant que la durée de projection de l'oeuvre dont il s'agit est ou non inférieure à une heure.
+Les émoluments perçus dans ce cadre ne peuvent être inférieurs à 2 Euros s'ils se rapportent à une oeuvre dont la durée est inférieure à une heure ou à 11 Euro s'ils se rapportent à une oeuvre dont la durée est égale ou supérieure à une heure.
 
-4. Pour toute inscription d'une convention de coproduction, sur la valeur d'une oeuvre audiovisuelle déterminée par son devis présenté lors de l'agrément d'investissement ou de l'autorisation préalable de production :
+En ce qui concerne les coproductions, aucun émolument ne peut être inférieur à 1,5 Euros s'il se rapporte à une oeuvre dont la durée est inférieure à une heure ou à 8 Euros s'il se rapporte à une oeuvre dont la durée est égale ou supérieure à une heure.
 
-Jusqu'à 300 000 F [*francs*] : 0,05 p. 100 ;
+Sous réserve des dispositions précédentes, ces émoluments sont les suivants :
 
-De 300  001 à 1 million de francs : 0,04 p. 100 ;
+a) L'inscription d'une convention de coproduction fait l'objet d'un émolument égal à un pourcentage du budget de l'oeuvre produite de :
 
-De 1 million à 3 millions de francs : 0,03 p. 100 ;
+0,05 % jusqu'à 45 000 Euros ;
 
-Au delà de 3 millions de francs : 0,02 p. 100.
+0,04 % de 45 001 Euro à 150 000 Euros ;
 
-En cas de cession ou d'abandon partiel ou total d'une participation dans la coproduction, les taux ci-dessus visés s'appliquent à la valeur de la part abandonnée ou cédée.
+0,03 % de 150 001 Euro à 450 000 Euros ;
 
-Si la convention comporte des dispositions multiples, notamment des dispositions de prêt ou d'avance distributeur, un émolument est dû, à raison de ces dispositions, dans les conditions fixées au n° 3 ci-dessus indépendamment de celui afférent à la convention de coproduction proprement dite.
+0,02 % au-delà de 450 000 Euros ;
 
-Il ne peut être perçu, pour chaque inscription, moins de 10 francs ou de 50 francs par oeuvre audiovisuelle, suivant que la durée de projection de l'oeuvre dont il s'agit est ou non inférieure à une heure.
+b) En cas d'inscription d'une cession ou d'un abandon de part de coproduction, les taux prévus au a ci-dessus s'appliquent à la valeur de la part cédée ou abandonnée ;
 
-5. Pour toute radiation totale ou partielle prévue à l'article 33-6° du code ainsi que pour toute cession d'antériorité au profit d'une inscription postérieure : la moitié des émoluments proportionnels ou minimaux prévus au n° 3 ci-dessus.
+c) L'inscription de toute autre convention fait l'objet d'un émolument égal à un pourcentage du montant des droits, créances, sommes ou valeurs faisant l'objet d'une inscription de :
 
-6. Pour toute demande de renseignements :
+0,15 % jusqu'à 45 000 Euros ;
 
-a) donnnant lieu à la délivrance d'une copie intégrale ou par extrait des inscriptions ou des actes ou conventions déposés à la conservation : 5 F [*francs*] par page, quel que soit son mode de d'établissement, avec minimum de 10 F [*francs*] par inscription. Toute page commencée est comptée pour une page entière;
+0,10 % de 45 001 à 150 000 Euros ;
 
-b) donnant lieu à la délivrance d'un certificat négatif d'inscription : 10 F [*francs*] par certificat;
+0,05 % pour plus de 150 000 Euros ;
 
-c) donnant lieu à réponse orale, sur réquisition écrite, non suivi de la délivrance d'une copie ou d'un certificat : 2 F [*francs*] par acte ou convention distincte, avec minimum de 10 F [*francs*] par film.
+d) En cas de radiation totale ou partielle prévue à l'article 33-6 du code de l'industrie cinématographique ou en cas de cession d'antériorité au profit d'une inscription postérieure, les taux prévus au c ci-dessus s'appliquent à la moitié du montant de la créance faisant l'objet de la radiation ou de la cession d'antériorité.
 
-d) Donnant lieu à interrogation du service télématique :
+Les sommes servant de base au calcul des émoluments sont ramenées à la dizaine d'euro inférieure. Les émoluments ainsi calculés sont ramenés à l'euro inférieur.
 
-tarification prévue par le palier T-46 du numéro d'appel 36-17.
+III. - A l'occasion des délivrances d'informations prévues à l'article 37 du code de l'industrie cinématographique :
+
+a) Pour la délivrance d'une copie intégrale ou par extrait des inscriptions, actes, conventions ou jugements : 1 Euro par page ;
+
+b) Pour la délivrance d'un certificat d'immatriculation ou d'un certificat négatif d'inscription : 1 Euro ;
+
+c) Pour la délivrance d'un renseignement verbal non suivie de la délivrance d'une copie ou d'un extrait : 1 Euro par oeuvre consultée ;
+
+d) Pour une interrogation du service télématique : tarification prévue par le palier T-46 du numéro d'appel 36-17.
