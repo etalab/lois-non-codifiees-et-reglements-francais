@@ -1,3 +1,3 @@
 # Article 1
 
-L'exemption totale de l'impôt sur les spectacles prévue à l'article 1561 (3° b, 1er alinéa) du code général des impôts est prorogée jusqu'au 31 décembre 1988 pour les compétitions relevant des activités sportives ci-après : aïkido, boxe française, canoë-kayak, haltérophilie, handball, hockey sur gazon, judo, karaté, lutte, pelote basque, ski, tennis de table, tir et volley-ball.
+Par dérogation à l'article 8 de l'arrêté du 15 mars 1966 susvisé, la participation aux frais d'hospitalisation des assurés admis à l'hôpital de Saint-Pierre-et-Miquelon ne peut excéder 22 F pendant l'année 1985.
