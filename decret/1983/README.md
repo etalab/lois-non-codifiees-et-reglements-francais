@@ -226,6 +226,8 @@
 - [Décret n°83-548 du 24 juin 1983](decret-n83-548-du-24-juin-1983)
 - [Décret n°83-766 du 24 août 1983](decret-n83-766-du-24-aout-1983)
 - [Décret n°83-1040 du 25 novembre 1983](decret-n83-1040-du-25-novembre-1983)
+- [Décret n°83-1051 du 25 novembre 1983](decret-n83-1051-du-25-novembre-1983)
+- [Décret n°83-1052 du 25 novembre 1983](decret-n83-1052-du-25-novembre-1983)
 - [Décret n°83-689 du 25 juillet 1983](decret-n83-689-du-25-juillet-1983)
 - [Décret n°83-707 du 25 juillet 1983](decret-n83-707-du-25-juillet-1983)
 - [Décret n°83-952 du 25 octobre 1983](decret-n83-952-du-25-octobre-1983)

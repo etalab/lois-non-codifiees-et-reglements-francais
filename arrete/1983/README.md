@@ -43,6 +43,7 @@
 - [Arrêté du 7 novembre 1983](arrete-du-7-novembre-1983)
 - [Arrêté du 7 mai 1984](arrete-du-7-mai-1984)
 - [Arrêté du 8 août 1983](arrete-du-8-aout-1983)
+- [Arrêté du 8 décembre 1983](arrete-du-8-decembre-1983)
 - [Arrêté du 8 juin 1983](arrete-du-8-juin-1983)
 - [Arrêté du 8 mars 1983](arrete-du-8-mars-1983)
 - [Arrêté du 8 octobre 1982](arrete-du-8-octobre-1982)

@@ -1,3 +1,5 @@
 # Article 1
 
-Par dérogation aux interdictions édictées par les articles 1er et 2 de l'arrêté du 2 mai 1983, des autorisations de reparcage avant commercialisation pour la consommation concernant les huîtres plates en provenance de la pêche du gisement de Perennou, rivière de l'Odet, quartier du Guilvinec, peuvent être accordées par décision du préfet du département du Finistère, aux détenteurs d'établissements de pêche situés sur l'estran dans les quartiers du Guilvinec et de Concarneau pendant la période du 14 novembre 1983 au 15 janvier 1984.
+Lorsque l'ensemble des rémunérations de toute nature perçues au cours de l'année 1982, allouées par un ou plusieurs employeurs à un agent d'une commune ou d'un établissement public administratif communal soumis au livre IV du code des communes excède 250.000 F la partie de ces rémunérations supérieure à ce montant n'est pas revalorisée en 1983.
+
+Pour l'application de l'alinéa précédent les indemnités, quels que soient leur nature et leur mode de fixation, sont écrêtées en 1983 à concurrence des sommes excédant les limites autorisées.

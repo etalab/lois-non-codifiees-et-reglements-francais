@@ -6,4 +6,4 @@ Ne sont pas éligibles les personnes titulaires d'une des fonctions énumérées
 
 Les personnes titulaires, dans la région, d'une des fonctions mentionnées à l'article L. 196 ne peuvent être élues membres du conseil régional qu'un an après la cessation desdites fonctions.
 
-Les articles L. 194, L. 194-1 et L. 197 à L. 203 du code électoral sont applicables à l'élection des membres du conseil régional.
+Les articles L. 194, L. 194-1 et L. 199 à L. 203 du code électoral sont applicables à l'élection des membres du conseil régional.
