@@ -47,6 +47,7 @@
 - [Décret n°76-1053 du 16 novembre 1976](decret-n76-1053-du-16-novembre-1976)
 - [Décret n°76-548 du 16 juin 1976](decret-n76-548-du-16-juin-1976)
 - [Décret n°57-1176 du 17 octobre 1957](decret-n57-1176-du-17-octobre-1957)
+- [Décret n°77-965 du 17 août 1977](decret-n77-965-du-17-aout-1977)
 - [Décret n°76-435 du 18 mai 1976](decret-n76-435-du-18-mai-1976)
 - [Décret n°76-451 du 18 mai 1976](decret-n76-451-du-18-mai-1976)
 - [Décret n°76-1011 du 19 octobre 1976](decret-n76-1011-du-19-octobre-1976)
