@@ -1,7 +1,0 @@
-# Article 5 bis
-
-Les dispositions de l'article L. 171 du code de la sécurité sociale ne sont pas applicables à la caisse de retraite et de prévoyance des clercs et employés de notaires. Sans préjudice de l'application des articles 11 bis, 14 (paragraphes 1 et 3) et de l'article 22 (par. 5) du présent décret, les décisions du conseil d'administration de la caisse de retraite et de prévoyance accompagnées des documents mentionnés à l'article 11, alinéa 1er, du décret susvisé du 12 mai 1960 sont communiquées immédiatement au garde des sceaux, ministre de la justice, au ministre de l'économie et des finances et au ministre de la santé publique et de la sécurité sociale. Dans le mois de cette communication, chacun des ministres précités peut annuler toute décision contraire à la loi ou de nature à compromettre l'équilibre financier de la caisse. Si aucune décision ministérielle n'intervient dans ce délai, la décision du conseil d'administration prend son entier effet [*accord tacite*].
-
-En cas d'urgence, le garde des sceaux, ministre de la justice, peut, après entente avec le ministre de l'économie et des finances et le ministre de la santé publique et de la sécurité sociale, viser une décision pour exécution immédiate.
-
-Les dispositions du présent article sont applicables aux décisions prises par le directeur de la caisse de retraite et de prévoyance agissant par délégation du conseil d'administration.
