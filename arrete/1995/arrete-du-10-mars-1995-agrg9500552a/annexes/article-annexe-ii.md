@@ -1,0 +1,53 @@
+# Article Annexe II
+
+1. Expéditeur (nom et adresse complète) : ...
+
+3. Destinataire (nom et adresse complète) : ...
+
+Certificat sanitaire :
+
+N° : original ... (a)
+
+2. Etat membre d'origine : ...
+
+4. Autorité compétente : ...
+
+5. Adresse :
+
+- de l'exploitation d'origine : ...
+
+- de l'exploitation ou du commerce de destination : ...
+
+6. Lieu de chargement : ...
+
+7. Moyen de transport : ...
+
+8. Espèce : ...
+
+9. Nombre d'animaux : ...
+
+10. Identification du lot : ...
+
+11. Attestation (c) : Je soussigné ..., vétérinaire officiel, certifie que les suidés autres que ceux couverts par la directive 64/432 CEE :
+
+a) Appartiennent à l'espèce ;
+
+b) N'ont présenté, lors de l'examen, aucun signe clinique des maladies auxquelles ils sont sensibles ;
+
+c) - proviennent soit d'un cheptel indemme de brucellose, soit d'une exploitation dans laquelle ils ont subi, avec résultat négatif, le test prévu à l'article 6, paragraphe 3, point d, de la directive 92/65/CEE (b) ;
+
+- proviennent d'une exploitation non soumise à restriction au regard de la peste porcine classique ou africaine.
+
+Fait à ..., le ....
+
+Signature : ...
+
+Nom (en majuscules) : ...
+
+Titre et qualification : ...
+
+(a) Un certificat sera fourni pour chaque lot, l'original du certificat devra accompagner l'envoi jusqu'au lieu de destination final et sa durée de validité est de dix jours.
+
+(b) Biffer la mention inutile.
+
+(c) A compléter dans les 24 heures précédant le chargement.
