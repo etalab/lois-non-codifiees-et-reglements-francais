@@ -1,7 +1,7 @@
 # Loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication (Loi Léotard)
 
 - [Article 1](article-1.md)
-- [TITRE Ier : DE LA COMMISSION NATIONALE DE LA COMMUNICATION ET DES LIBERTES.](titre-ier)
+- [TITRE Ier : DU CONSEIL SUPERIEUR DE L'AUDIOVISUEL.](titre-ier)
 - [Article 2](article-2.md)
 - [TITRE  II : DE L'USAGE DES PROCEDES DE TELECOMMUNICATIONS](titre-ii)
 - [Article 3](article-3.md)
