@@ -1,0 +1,7 @@
+# Article 10-2
+
+Les dispositions de l'article 10.1 ne sont pas applicables aux véhicules ayant fait l'objet d'une communication émanant de l'administration compétente d'un Etat membre des communautés européennes et attestant la conformité du type aux dispositions de la directive 70/221/CEE telle que modifiée par la directive 81/333/CEE ou 97/19/CE ou 2000/8/CE ou 2006/20/CE ou aux véhicules équipés d'un dispositif de protection arrière contre l'encastrement réceptionné en tant qu'entité technique au sens de l'article 2 de la directive 70/156/CEE modifiée et monté conformément aux prescriptions de l'annexe, point 2.5 de la directive 70/221/CEE telle que modifiée par la directive 81/333/CEE ou du point 5 de l'annexe II à la directive 70/221/CEE telle que modifiée par la directive 97/19/CE ou 2000/8/CE ou 2006/20/CE.
+
+A dater du 1er octobre 1982 pour les nouveaux types de véhicules et du 1er octobre 1983 pour tous les véhicules mis en circulation pour la première fois, les parties assurant la protection arrière contre l'encastrement devront répondre aux prescriptions de la directive 70/221/CEE telle que modifiée par la directive 81/333/CEE ou 97/19/CE ou 2000/8/CE .
+
+A dater du 11 septembre 2007 pour les nouveaux types de véhicules et du 11 mars 2010 pour tous les véhicules mis en circulation pour la première fois, les parties assurant la protection arrière contre l'encastrement doivent répondre aux prescriptions de la directive 70/221/CEE telle que modifiée par la directive 2006/20/CE.
