@@ -487,7 +487,6 @@
 - [Arrêté du 13 décembre 1996 (MIPP9600476A)](arrete-du-13-decembre-1996-mipp9600476a)
 - [Arrêté du 13 décembre 1996 (MIPP9600478A)](arrete-du-13-decembre-1996-mipp9600478a)
 - [Arrêté du 13 février 1996 (TASH9523348A)](arrete-du-13-fevrier-1996-tash9523348a)
-- [Arrêté du 13 juin 1996 (MENF9601743A)](arrete-du-13-juin-1996-menf9601743a)
 - [Arrêté du 13 novembre 1996 (DEFT9602116A)](arrete-du-13-novembre-1996-deft9602116a)
 - [Arrêté du 13 novembre 1996 (MIPP9600388A)](arrete-du-13-novembre-1996-mipp9600388a)
 - [Arrêté du 13 novembre 1996 (MIPP9600389A)](arrete-du-13-novembre-1996-mipp9600389a)
