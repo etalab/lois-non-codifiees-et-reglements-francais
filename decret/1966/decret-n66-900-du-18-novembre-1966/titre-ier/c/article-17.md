@@ -16,14 +16,23 @@ La durée moyenne et la durée minimum d'ancienneté requises pour un avancement
 </td>
 </tr>
 <tr>
+<td>8e échelon</td>
+<td>
+<p align="center"> 4 ans</p>
+</td>
+<td>
+<p align="center"> 3 ans</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="227">
 <p>7e échelon</p>
 </td>
 <td width="227">
-<p align="center">4 ans</p>
+<p align="center">3 ans 6 mois</p>
 </td>
 <td width="227">
-<p align="center">3 ans</p>
+<p align="center">2 ans 9 mois </p>
 </td>
 </tr>
 <tr>
@@ -31,10 +40,10 @@ La durée moyenne et la durée minimum d'ancienneté requises pour un avancement
 <p>6e échelon</p>
 </td>
 <td width="227">
-<p align="center">4 ans</p>
+<p align="center">3 ans 6 mois</p>
 </td>
 <td width="227">
-<p align="center">3 ans</p>
+<p align="center">2 ans 9 mois </p>
 </td>
 </tr>
 <tr>
@@ -42,10 +51,10 @@ La durée moyenne et la durée minimum d'ancienneté requises pour un avancement
 <p>5e échelon</p>
 </td>
 <td width="227">
-<p align="center">4 ans</p>
+<p align="center">3 ans</p>
 </td>
 <td width="227">
-<p align="center">3 ans</p>
+<p align="center">2 ans 3 mois </p>
 </td>
 </tr>
 <tr>
