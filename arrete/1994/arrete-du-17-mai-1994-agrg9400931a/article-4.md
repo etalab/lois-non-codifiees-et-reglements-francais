@@ -1,6 +1,6 @@
 # Article 4
 
-Les ovins et caprins de reproduction et d'engraissement destinés aux échanges doivent, outre les conditions prévues aux articles 2 et 3 :
+Les ovins et caprins de reproduction destinés aux échanges doivent, outre les conditions prévues aux articles 2 et 3, satisfaire aux exigences suivantes :
 
 1. Etre reconnus admissibles dans un cheptel qualifié officiellement indemne ou indemne vis-à-vis de la brucellose (Brucella melitensis) au sens de la directive (C.E.E.) n° 91-68 susvisée.
 
@@ -43,3 +43,5 @@ provenir d'une exploitation dans laquelle aucun cas d'épididymite contagieuse d
 avoir été maintenus en permanence sur cette exploitation pendant les soixante jours précédant l'expédition ;
 
 avoir, au cours des trente jours précédant l'expédition, été soumis avec un résultat négatif à un examen sérologique (test de fixation du complément).
+
+- les ovins et caprins d'engraissement destinés aux échanges doivent, outre les conditions des articles 2 et 3, satisfaire aux exigences de l'alinéa 1 ci-dessus.

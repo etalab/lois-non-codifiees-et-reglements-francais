@@ -691,6 +691,8 @@
 - [Décret n°94-852 du 29 septembre 1994 (TEFT9400968D)](decret-n94-852-du-29-septembre-1994-teft9400968d)
 - [Décret n°94-855 du 29 septembre 1994 (RESM9401137D)](decret-n94-855-du-29-septembre-1994-resm9401137d)
 - [Décret n°94-859 du 29 septembre 1994 (ECOT9451379D)](decret-n94-859-du-29-septembre-1994-ecot9451379d)
+- [Décret n°94-860 du 29 septembre 1994 (INDP9400999D)](decret-n94-860-du-29-septembre-1994-indp9400999d)
+- [Décret n°94-861 du 29 septembre 1994 (ENVN9420071D)](decret-n94-861-du-29-septembre-1994-envn9420071d)
 - [Décret n°95-353 du 29 mars 1995 (DEFP9501140D)](decret-n95-353-du-29-mars-1995-defp9501140d)
 - [Décret n°96-1036 du 29 novembre 1996 (DEFP9601963D)](decret-n96-1036-du-29-novembre-1996-defp9601963d)
 - [Décret n°96-158 du 29 février 1996 (JUSF9550043D)](decret-n96-158-du-29-fevrier-1996-jusf9550043d)
