@@ -3,7 +3,6 @@
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
-- [Conversion des permis militaires.](conversion-des-permis-militaires)
 - [Délivrance des permis.](delivrance-des-permis)
 - [Dispositions transitoires.](dispositions-transitoires)
 - [Conditions spéciales de validité et d'échange.](conditions-speciales-de-validite-et)
