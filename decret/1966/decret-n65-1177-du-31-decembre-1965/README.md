@@ -2,4 +2,5 @@
 
 - [Chapitre Ier : Réglementation de la prophylaxie de la brucellose bovine, ovine et caprine.](chapitre-ier)
 - [Chapitre II : Réglementation de la cession et de l'utilisation des antigènes brucelliques.](chapitre-ii)
+- [Chapitre III : Pénalités.](chapitre-iii)
 - [Article 19](article-19.md)
