@@ -1,0 +1,17 @@
+# Décret n°91-155 du 6 février 1991 relatif aux dispositions générales applicables aux agents contractuels des établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière.
+
+- [TITRE Ier : CHAMP D'APPLICATION.](titre-ier)
+- [TITRE II : MODALITÉS DE RECRUTEMENT.](titre-ii)
+- [Titre III : Congés annuels et congés pour formation.](titre-iii)
+- [Titre IV : Congés pour raison de santé, de maternité, d'adoption ou d'accident du travail ou maladie professionnelle.](titre-iv)
+- [Titre V : Congés non rémunérés pour raisons familiales ou personnelles.](titre-v)
+- [Titre VI : Absences résultant d'une obligation légale.](titre-vi)
+- [Titre VII : Conditions d'attribution des droits à congés.](titre-vii)
+- [Titre VIII : Conditions de réemploi.](titre-viii)
+- [Titre IX : Travail à temps partiel.](titre-ix)
+- [Titre X : Discipline.](titre-x)
+- [Titre XI : Fin de contrat  - Licenciement  - Démission.](titre-xi-fin)
+- [Titre XII : Indemnités de licenciement.](titre-xii)
+- [Titre XIII : Dispositions transitoires.](titre-xiii)
+- [Titre XIV : Dispositions diverses.](titre-xiv)
+- [Article 56](article-56.md)

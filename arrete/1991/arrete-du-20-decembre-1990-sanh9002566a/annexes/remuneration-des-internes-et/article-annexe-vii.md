@@ -44,7 +44,7 @@ III. - Taux annuel de la rémunération des internes issus de la réforme des é
 
 Montant brut mensuel de l'indemnité de sujétions particulières :
 
-- pour les 2e, 3e et 4e semestres : 1 938
+- pour les 2e, 3e et 4e semestres : 1 936
 
 IV. - Taux annuel des indemnités allouées aux étudiants hospitaliers :
 

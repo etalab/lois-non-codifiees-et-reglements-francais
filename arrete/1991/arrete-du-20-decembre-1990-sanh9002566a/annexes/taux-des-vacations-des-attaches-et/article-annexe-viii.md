@@ -66,6 +66,6 @@ B. - Taux des vacations des attachés des centres hospitaliers régionaux faisan
 
 - médecins étrangers ressortissants d'un Etat membre de la Communauté économique européenne pouvant justifier d'une qualification reconnue équivalente.
 
-3. Taux 252,99 :
+3. Taux 242,99 :
 
 Toutes autres catégories.

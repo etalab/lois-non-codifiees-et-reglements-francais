@@ -4,7 +4,7 @@ Mesures permanentes
 
 PERSONNELS CONCERNÉS
 
-Montants au 1er décembre 1989
+Montants au 1er décembre 1990
 
 12e  échelon : 440 730
 
