@@ -14,4 +14,4 @@ Enfin, un quatrième rapport dressera un bilan des négociations prévues aux ar
 
 Le rapport d'évaluation prévu au premier alinéa dressera le bilan des dispositions de la présente loi et étudiera la possibilité, dans certaines zones particulièrement touchées par le chômage, de conclure des conventions d'expérimentation destinées à favoriser le développement local et l'emploi par de nouvelles mesures.
 
-Afin de contribuer à l'élaboration du rapport prévu au premier alinéa, une commission comprenant huit membres, quatre nommés par le Gouvernement, deux sénateurs désignés par le Sénat et deux députés désignés par l'Assemblée nationale, est instituée. Ses modalités de fonctionnement sont fixées par décret.
+Afin de contribuer à l'élaboration du rapport prévu au premier alinéa, une commission comprenant douze membres, six nommés par le Gouvernement, trois sénateurs désignés par le Sénat et trois députés désignés par l'Assemblée nationale, est instituée. Ses modalités de fonctionnement sont fixées par décret.

@@ -1,0 +1,3 @@
+# Article 5
+
+Les ingénieurs du contrôle de la navigation aérienne bénéficient, dans la limite de cinq années, d'une bonification pour la liquidation de leur pension égale au cinquième des services effectifs qu'ils ont accomplis en cette qualité ; sont assimilés à ces services les services actifs ou de la catégorie B prévus à l'article L. 24 du code des pensions civiles et militaires de retraite accomplis préalablement à la date d'entrée en vigueur de la présente loi en tant que technicien de la navigation aérienne, officier contrôleur de la circulation aérienne ou officier contrôleur en chef de la circulation aérienne.

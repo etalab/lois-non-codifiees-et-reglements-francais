@@ -1,7 +1,7 @@
 # Article 48
 
-Le représentant de l'Etat dans le département et le président du conseil général peuvent conclure conjointement avec des collectivités locales, des organismes de droit public ou des organismes de droit privé sans but lucratif, des conventions dont l'objet est l'organisation d'activités d'insertion professionnelle ou d'intérêt général au profit de bénéficiaires de l'allocation de revenu minimum d'insertion.
+En complément de l'aide de l'Etat, le département, s'il est signataire des conventions prévues par l'article L. 322-4-8-1 du code du travail, prend en charge au minimum 10 p. 100 du coût afférent aux embauches des bénéficiaires du revenu minimum d'insertion effectuées dans le cadre de ces conventions. Ce coût pour les employeurs est calculé dans les mêmes conditions que pour l'aide de l'Etat.
 
-Une indemnité peut être versée aux bénéficiaires par les organismes ayant passé convention. Son montant est fixé selon des modalités déterminées par décret.
+Les conventions précisent les objectifs poursuivis ainsi que l'affectation et les modalités de la participation du département.
 
-Les intéressés sont considérés comme des stagiaires de la formation professionnelle, sauf en ce qui concerne leur rémunération et les autres avantages définis au titre VI du livre IX du code du travail.
+Cette aide est acquise pour la durée des conventions, y compris leurs avenants. Les dépenses correspondantes peuvent être imputées sur le crédit résultant de l'obligation prévue à l'article 38 de la présente loi.

@@ -1,5 +1,5 @@
 # Article 13
 
-Les personnes ayant reçu une transfusion de sang ou de produits dérivés du sang entre le 1er janvier 1980 et le 31 décembre 1985 sont invitées à se présenter dans les établissements de santé où a été effectuée la transfusion, ou tous autres établissements mandatés par eux, pour y être informées des risques de contamination par le virus de l'immuno-déficience humaine. Un test de dépistage de l'infection par le virus de l'immuno-déficience humaine [*SIDA*] leur est proposé à cette occasion.
+Un rapport fondé sur une enquête épidémiologique sera déposé par le Gouvernement sur les bureaux de l'Assemblée nationale et du Sénat avant le 31 mars 1995, en vue de mieux apprécier l'ampleur et l'évolution des modes de contamination par le virus de l'immunodéficience humaine.
 
-Un décret fixe les conditions d'application du présent article.
+Il exposera les mesures retenues ou préconisées par le Gouvernement pour renforcer la prévention de l'infection, y compris dans le domaine de l'incitation au dépistage individuel.

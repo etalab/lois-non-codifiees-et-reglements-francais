@@ -24,6 +24,12 @@ V. L'aide à la scolarité se substitue aux bourses nationales attribuées en ap
 
 VI. L'article 121 de la loi de finances pour 1993 (n° 92-1376 du 31 décembre 1992) est abrogé.
 
-VII. Dans le deuxième alinéa de l'article 1er de la loi n° 51-1115 du 21 septembre 1951 précitée, les mots : les plus méritants sont remplacés par les mots : en fonction des ressources de leur famille.
+VII. ......
 
-Après les mots : par décret, la fin du troisième alinéa de l'article 1er de la même loi est supprimée.
+VIII. - Nonobstant les dispositions du présent article, les élèves des établissements d'enseignement visés au livre VIII (nouveau) du code rural conservent, selon les modalités définies par décret, le bénéfice des bourses nationales attribuées en application de la loi n° 51-1115 du 21 septembre 1951 précitée.
+
+A la suite de non-paiement des frais de cantine, tout ou partie de l'aide à la scolarité peut être versé, sur sa demande, à l'établissement scolaire par l'organisme débiteur, après que l'allocataire a été informé et mis en demeure de faire ses observations.
+
+Le versement a lieu, au plus tard, jusqu'à l'extinction de la dette résultant des frais de cantine impayés.
+
+Un décret précise les conditions d'application de cet article.

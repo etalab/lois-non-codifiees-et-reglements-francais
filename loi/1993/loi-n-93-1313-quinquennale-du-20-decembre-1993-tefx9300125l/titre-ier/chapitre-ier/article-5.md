@@ -16,4 +16,4 @@ II. Les conditions d'application progressive des dispositions du I sont fixées 
 
 III. Les décrets d'application précisent notamment le rôle des associations visées aux articles L. 128 [*associations intermédiaires*] et L. 129-1 du code du travail.
 
-IV. Le Gouvernement déposera au Parlement, avant le 2 octobre 1994, un rapport retraçant le coût pour le budget de l'Etat, ainsi que les effets sur l'emploi et les régimes de sécurité sociale, d'une augmentation, par tranche de 10 p. 100, du plafond de la réduction d'impôt définie à l'article 199 sexdecies du code général des impôts.
+IV. - Le Gouvernement déposera au Parlement, avant le 2 octobre 1996, un rapport retraçant le coût pour le budget de l'Etat, ainsi que les effets sur l'emploi et les régimes de sécurité sociale, de la réduction d'impôt définie à l'article 199 sexdecies du code général des impôts.

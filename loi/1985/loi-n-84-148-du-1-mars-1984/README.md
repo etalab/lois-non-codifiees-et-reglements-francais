@@ -3,6 +3,7 @@
 - [Chapitre IV : Information comptable, contrôle des comptes et procédures d'alerte dans les groupements d'intérêt économique et les coopératives.](chapitre-iv)
 - [Chapitre V : Dispositions applicables aux personnes morales de droit privé non commerçantes ayant une activité économique.](chapitre-v)
 - [Chapitre VI : Information financière et contrôle des comptes dans certaines entreprises publiques.](chapitre-vi)
+- [Chapitre VI bis : Chambres de commerce et d'industrie.](chapitre-vi-bis)
 - [Chapitre VII : Groupements de prévention agréés et règlement amiable.](chapitre-vii)
 - [Chapitre IX : Autres mesures d'information.](chapitre-ix)
 - [Chapitre XI : Dispositions diverses.](chapitre-xi)

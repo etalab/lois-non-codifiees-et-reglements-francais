@@ -6,4 +6,4 @@ II.  Cette compensation est égale à une quote-part des cotisations dues par l'
 
 III.  Un décret détermine les conditions d'application des paragraphes I et II, notamment les modalités de contrôle du nombre d'emplois créés.
 
-IV.  Les dispositions susmentionnées s'appliquent aux conventions signées avant le 31 décembre 1994. A l'issue de la période d'expérimentation, un rapport du Gouvernement au Parlement dressera le bilan de l'application du présent article, tout particulièrement en ce qui concerne son effet sur la création d'emplois.
+IV.  Les dispositions susmentionnées s'appliquent aux conventions signées avant le 31 décembre 1996. A l'issue de la période d'expérimentation, un rapport du Gouvernement au Parlement dressera le bilan de l'application du présent article, tout particulièrement en ce qui concerne son effet sur la création d'emplois.
