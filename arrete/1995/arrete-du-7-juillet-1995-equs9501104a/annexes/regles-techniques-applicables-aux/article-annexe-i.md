@@ -94,11 +94,13 @@ En particulier, les systèmes et équipements doivent, pour être réceptionnés
 
 1 = 10. Installation des dispositifs d'éclairage et de signalisation lumineuse.
 
-2 = 93/92/CEE (3)
+2 = 93/92/CEE (3) modifiée par 2000/73/CE (3)
 
 3 = 1er janvier 1996 (5)
 
-4 = 1er mai 1999
+4 = 1er juillet 2002
+
+1er mai 1999
 
 5 = 53/ECE/ONU
 
