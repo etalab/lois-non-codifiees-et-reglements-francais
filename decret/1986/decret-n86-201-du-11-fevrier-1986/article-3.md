@@ -1,119 +1,189 @@
 # Article 3
 
-Sont membres du Conseil national du tourisme [*liste - composition*] :
+Le Conseil national du tourisme est composé de deux collèges : un collège de membres de droit et un collège de conseillers techniques.
 
-I - Les présidents des comités régionaux du tourisme ou organismes en tenant lieu.
+Le collège des membres de droit est composé comme suit :
 
-II - Un député désigné par le président de l'Assemblée nationale ;
+I. - Parlementaires et corps constitués :
 
-Un sénateur désigné par le président du Sénat ;
+- cinq députés désignés par le président de l'Assemblée nationale ;
 
-Le président de la section cadre de vie du conseil économique et social ou son représentant ;
+- cinq sénateurs désignés par le président du Sénat ;
 
-Le président de la Fédération nationale des comités départementaux du tourisme ou son représentant ;
+- deux membres du Conseil économique et social désignés par son président, choisis dans la section Cadre de vie.
 
-Le président de l'association des présidents des conseils généraux ou son représentant ;
+II. - Représentants des collectivités territoriales :
 
-Le président de la Fédération services-loisirs-accueil ;
+- les présidents des comités régionaux de tourisme (C.R.T.) ou organismes en tenant lieu ou leurs représentants ;
 
-Le président de la Fédération nationale des offices de tourisme et syndicats d'initiative ou son représentant ;
+- le président de la Fédération nationale des comités régionaux de tourisme ou son représentant ;
 
-Le président de l'Association nationale des maires des stations classées et des communes touristiques ou son représentant ;
+- le président de la Fédération nationale des comités départementaux du tourisme (F.N.C.D.T.) ou son représentant ;
 
-Le président de l'association des maires des stations françaises des sports d'hiver ou son représentant ;
+- le président de la Fédération nationale des offices de tourisme et syndicats d'initiative (F.N.O.T.S.I.) ou son représentant ;
 
-Le président de la Fédération thermale et climatique française ou son représentant ;
+- le président de la Fédération nationale des services de réservation-loisirs-accueil (F.N.S.R.L.A.) ou son représentant ;
 
-Le président de la Fédération nationale des gîtes ruraux de France ou son représentant ;
+- le président de l'Association des présidents des conseils généraux ou son représentant ;
 
-Le président du Syndicat national des agents de voyage ou son représentant ;
+- le président de l'Association des maires de France ou son représentant ;
 
-Le président de l'Union nationale des associations de tourisme et de plein air ou son représentant ;
+- le président de l'Association nationale des maires des stations classées et des communes touristiques ou son représentant ;
 
-Cinq représentants des associations de tourisme :
+- le président de l'Association des maires des stations françaises de sports d'hiver et d'été ou son représentant ;
 
-Six représentants de l'industrie hôtelière (hôtels, restaurants, débits de boissons) ;
+- le président de l'Association nationale des élus de la montagne (A.N.E.M.) ou son représentant ;
 
-Le président de l'association tourisme en espace rural ou son représentant ;
+- le président de l'Association nationale des élus du littoral (A.N.E.L.) ou son représentant ;
 
-Le président de la Fédération nationale des logis et auberges de France ou son représentant ;
+- le président de la Fédération nationale des pays d'accueil touristiques (F.N.P.A.T.) ou son représentant ;
 
-Trois représentants des activités du camping et du tourisme en caravane ;
+- le président de la Fédération nationale des stations vertes de vacances et villages de neige ou son représentant.
 
-Le président du syndicat des casinos autorisés en France ou son représentant ;
+III. - Représentants des syndicats :
 
-Le président de l'assemblée permanente des chambres de commerce et d'industrie ou son représentant ;
+- un représentant de la Confédération française démocratique du travail (C.F.D.T.) ;
 
-Le président de l'assemblée permanente des chambres de métiers ou son représentant ;
+- un représentant de la Confédération générale du travail (C.G.T.) ;
 
-Le président de la Caisse nationale des allocations familiales ou son représentant ;
+- un représentant de la Confédération générale du travail Force ouvrière (C.G.T.-F.O.) ;
 
-Le président de l'Union nationale des associations familiales ou son représentant ;
+- un représentant de la Confédération française des travailleurs chrétiens (C.F.T.C.) ;
 
-Le directeur général de l'Office national des forêts ou son représentant ;
+- un représentant de la Confédération générale des cadres (C.G.C.) ;
 
-Le président de la Fédération nationale des parcs naturels régionaux ou son représentant ;
+- un représentant de la Fédération de l'éducation nationale (F.E.N.) ;
 
-Le président de la Fédération nationale des agents immobiliers ou son représentant ;
+- un représentant du Conseil national du patronat français (C.N.P.F.) ;
 
-Le président de la Fédération française de la montagne ou son
+- le président de la Confédération générale des petites et moyennes entreprises (C.G.P.M.E.) ou son représentant ;
 
-représentant ;
+- le président de la Fédération nationale des syndicats d'exploitants agricoles (F.N.S.E.A.) ou son représentant.
 
-Sept représentants des activités de transports ;
+IV. - Représentants des professions du tourisme :
 
-Le président de la Confédération française des industries du tourisme ou son représentant ;
+- le président de la Fédération nationale des gîtes de France ou son représentant ;
 
-Le président de l'Institut géographique national ou son représentant ;
+- le président de la Fédération thermale et climatique française ou son représentant ;
 
-Le directeur général de la Caisse des dépôts et consignations ou son représentant ;
+- le président de l'association Tourisme en espace rural (T.E.R.) ou son représentant ;
 
-Le président de la Caisse nationale des monuments historiques et des sites ou son représentant ;
+- le président de la Fédération nationale des logis et auberges de France ou son représentant ;
 
-Le président de la caisse d'équipement des petites et moyennes entreprises ou son représentant ;
+- le président de l'Assemblée permanente des chambres d'agriculture ou son représentant ;
 
-Le président du Crédit national ou son représentant ;
+- le président de l'Assemblée française des chambres de commerce et d'industrie ou son représentant ;
 
-Le président de la caisse centrale de crédit coopératif ou son représentant ;
+- le président de l'Assemblée permanente des chambres de métiers ou son représentant ;
 
-Le président du conservatoire de l'espace littoral et des rivages lacustres ;
+- le président de la Fédération nationale des agents immobiliers (FNAIM) ou son représentant ;
 
-Le président de la Caisse nationale du crédit agricole ou son représentant ;
+- le président de la Confédération française des industries de tourisme (COFIT) ou son représentant ;
 
-Le président de la fédération nationale de la mutualité ou son représentant ;
+- le président du Syndicat national des résidences de tourisme ou son représentant ;
 
-Un représentant de la confédération générale du travail (C.G.T.) ;
+- sept représentants des fédérations de l'industrie hôtelière (hôtels-restaurants - débits de boissons) ;
 
-Un représentant de la confédération française démocratique du travail (C.F.D.T.) ;
+- cinq représentants d'entreprises d'hôtellerie et de restauration ;
 
-Un représentant de la confédération générale du travail Force ouvrière (C.G.T. - F.O.) ;
+- deux représentants des professions du camping et du tourisme en caravane.
 
-Un représentant de la confédération française des travailleurs chrétiens (C.F.T.C.) ;
+V. - Représentants des organismes de voyages et des tours-opérateurs :
 
-Un représentant de la confédération générale des cadres (C.G.C.) ;
+- le président du Syndicat national des agents de voyages (S.N.A.V.) ou son représentant ;
 
-Un représentant de la fédération de l'éducation nationale (F.E.N.) ;
+- douze représentants d'entreprises ayant un réseau d'agences de voyages ou exerçant le métier de tour-opérateur.
 
-Un représentant du Conseil national du patronat français (C.N.P.F.) ;
+VI. - Représentants des associations de tourisme et du tourisme social :
 
-Le président de la confédération des petites et moyennes entreprises ou son représentant ;
+- le président de l'Union nationale des associations de tourisme et de plein air (U.N.A.T.) ;
 
-Le président de la Fédération nationale des syndicats d'exploitants agricoles ou son représentant ;
+- le président de la Caisse nationale des allocations familiales (C.N.A.F.) ou son représentant ;
 
-Le président de la Maison de la France ou son représentant ;
+- le président de l'Union nationale des associations familiales (U.N.A.F.) ou son représentant ;
 
-Le président de l'Agence nationale des chèques-vacances ou son représentant ;
+- le président de la Fédération nationale de la mutualité ou son représentant ;
 
-Le président de l'association des maires de France ou son représentant ;
+- le président de l'Agence nationale pour les chèques vacances (A.N.C.V.) ou son représentant ;
 
-Le président délégué du Comité national pour le fleurissement de la France ou son représentant ;
+- le président du Centre de coopération pour la réalisation d'équipements de loisir (CECOREL) ou son représentant ;
 
-Le président de la Fédération nationale des comités régionaux du tourisme, ou son représentant ;
+- six représentants des associations de tourisme.
 
-Le président du Centre de coopération pour la réalisation d'équipements de loisirs, ou son représentant.
+VII. - Représentants des entreprises de transport à vocation touristique :
 
-le président du Syndicat national des résidences du tourisme, ou son représentant ;
+- seize représentants des activités de transports ou d'infrastructures de transports liées au tourisme.
 
-le président du Comité national olympique et sportif français ou son représentant.
+VIII. - Représentants des organismes bancaires et financiers :
 
-III - Vingt-cinq personnalités choisies en raison de leur compétence en matière de tourisme.
+- le directeur de la Caisse des dépôts et consignations ou son représentant ;
+
+- le président du Crédit national ou son représentant ;
+
+- le gouverneur du Crédit foncier ou son représentant ;
+
+- le président de la Sofaris ou son représentant ;
+
+- le président de la Fédération nationale des sociétés d'économie mixte (F.N.S.E.M.) ou son représentant ;
+
+- huit représentants d'organismes bancaires et financiers.
+
+IX. - Représentants d'organismes de valorisation du patrimoine culturel et naturel français :
+
+- le président de la Caisse nationale des monuments historiques et des sites ou son représentant ;
+
+- le président de la Réunion des musées nationaux ou son représentant ;
+
+- le président du Comité national pour le fleurissement de la France ou son représentant ;
+
+- le président de France-Nature-Environnement ou son représentant ;
+
+- le président du Comité national olympique français ou son représentant ;
+
+- le président de l'Office national des forêts ou son représentant ;
+
+- le président de la Fédération française de la montagne et de l'escalade ou son représentant ;
+
+- le président de la Fédération nationale des parcs naturels régionaux ou son représentant ;
+
+- le président de la Fédération française pour l'éducation à l'environnement en Europe ;
+
+- le président du Conservatoire de l'espace littoral et des rivages lacustres ou son représentant ;
+
+- le président de la Fédération nationale des associations de sauvegarde des sites et ensembles monumentaux (F.N.A.S.S.E.M.) ou son représentant ;
+
+- le président du Conseil national des arts culinaires (C.N.A.C.) ou son représentant.
+
+X. - Représentants des entreprises d'animation touristique :
+
+- le président du Syndicat de Casinos de France ou son représentant ;
+
+- le président de l'Association nationale des professionnels de centres de congrès ou son représentant ;
+
+- le président de France congrès ou son représentant ;
+
+- sept représentants d'entreprises d'animation touristique.
+
+XI. - Représentants d'organismes qualifiés intervenant dans le tourisme :
+
+- le directeur du tourisme ou son représentant ;
+
+- le chef de l'inspection générale du tourisme ou son représentant ;
+
+- le président de Maison de la France ou son représentant ;
+
+- le président de l'Agence française de l'ingénierie touristique (A.F.I.T.) ou son représentant ;
+
+- le président de l'Observatoire national du tourisme (O.N.T.) ou son représentant ;
+
+- le président de l'Association française des experts scientifiques du tourisme (A.F.E.S.T.) ou son représentant ;
+
+- le président du Syndicat national de l'ingénierie de loisir, culture et tourisme (G.E.F.I.L.) ou son représentant.
+
+XII. - Représentants d'entreprises ou d'organismes éditeurs de cartes et guides touristiques :
+
+- le président de l'Institut géographique national ou son représentant ;
+
+- cinq représentants de sociétés d'édition de cartes et guides touristiques.
+
+XIII. - Seize personnalités qualifiées choisies en fonction de leur compétence en matière de tourisme et nommées par arrêté du ministre chargé du tourisme.
