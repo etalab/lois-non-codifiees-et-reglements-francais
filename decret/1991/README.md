@@ -129,6 +129,7 @@
 - [Décret n°91-889 du 5 septembre 1991 (MENN9101024D)](decret-n91-889-du-5-septembre-1991-menn9101024d)
 - [Décret n°91-897 du 5 septembre 1991 (SPSS9101559D)](decret-n91-897-du-5-septembre-1991-spss9101559d)
 - [Décret n°90-990 du 6 novembre 1990 (MENF9002603D)](decret-n90-990-du-6-novembre-1990-menf9002603d)
+- [Décret n°91-1143 du 6 novembre 1991 (INTB9100454D)](decret-n91-1143-du-6-novembre-1991-intb9100454d)
 - [Décret n°91-155 du 6 février 1991 (SANH9002461D)](decret-n91-155-du-6-fevrier-1991-sanh9002461d)
 - [Décret n°91-264 du 6 mars 1991 (INTX9100028D)](decret-n91-264-du-6-mars-1991-intx9100028d)
 - [Décret n°91-267 du 6 mars 1991 (MENX9100038D)](decret-n91-267-du-6-mars-1991-menx9100038d)

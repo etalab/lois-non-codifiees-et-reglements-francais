@@ -10,7 +10,7 @@ Au titre des représentants de fournisseurs offrant des services sur les kiosque
 
 Syndicat national des éditeurs de presse télématique et téléphonique : un représentant ;
 
-Fédération nationale des radio-répondeurs : un représentant ;
+Syndicat professionnel des médias de télécommunications : un représentant ;
 
 Météo France : un représentant.
 
