@@ -1,3 +1,0 @@
-# Article 2
-
-Le versement dû aux caisses en application du premier alinéa du paragraphe 8 de l'article 23 du statut national du personnel des industries électriques et gazières est réduit à due concurrence du montant des réserves qui figurent, le cas échéant, au bilan de l'exercice comptable précédent, à l'exclusion de la part de ces réserves qui constituent le fonds spécial de réserves prévu à l'article 28 du règlement commun des caisses mutuelles et complémentaires d'action sociale ; les sommes non versées aux caisses en application de ces dispositions sont affectées au fonds de compensation, en sus du prélèvement mentionné à l'article 1er du présent arrêté.
