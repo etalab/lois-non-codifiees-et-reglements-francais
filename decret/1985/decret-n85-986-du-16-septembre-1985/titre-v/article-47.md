@@ -11,3 +11,5 @@ c) Pour suivre son conjoint lorsque celui-ci est astreint à établir sa réside
 La mise en disponibilité prononcée en application des dispositions ci-dessus ne peut excéder trois années. Elle peut être renouvelée deux fois dans les cas visés au a) ci-dessus et sans limitation dans les autres cas, si les conditions requises pour l'obtenir sont réunies.
 
 La mise en disponibilité est également accordé de droit, sur sa demande, au fonctionnaire titulaire de l'agrément mentionné aux articles 63 ou 100-3 du code de la famille et de l'aide sociale lorsqu'il se rend dans les départements d'outre-mer, les territoires d'outre-mer ou à l'étranger en vue de l'adoption d'un ou de plusieurs enfants. Dans ce cas, la mise en disponibilité ne peut excéder six semaines par agrément.
+
+La mise en disponibilité est également accordée de droit, pendant la durée de son mandat et sur sa demande, au fonctionnaire qui exerce un mandat d'élu local.

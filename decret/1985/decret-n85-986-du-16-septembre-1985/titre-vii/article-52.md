@@ -6,6 +6,6 @@ La possibilité d'obtenir un congé parental est ouverte, du chef du même enfan
 
 Ce congé est accordé de droit par le ministre dont relève l'intéressé ;
 
-- à la mère à l'expiration d'un congé pour maternité ou d'un congé pour adoption,ou lors de l'arrivée au foyer d'un enfant n'ayant pas atteint l'âge de la fin de l'obligation scolaire ;
+- à la mère après un congé de maternité ou un congé d'adoption, ou lors de l'arrivée au foyer d'un enfant n'ayant pas atteint l'âge de la fin de l'obligation scolaire ;
 
-- au père, après la naissance de l'enfant, à l'expiration d'un congé pour adoption ou lors de l'arrivée au foyer d'un enfant n'ayant pas atteint l'âge de la fin de l'obligation scolaire.
+- au père, après la naissance de l'enfant ou un congé d'adoption ou lors de l'arrivée au foyer d'un enfant n'ayant pas atteint l'âge de la fin de l'obligation scolaire.
