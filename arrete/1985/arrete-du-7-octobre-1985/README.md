@@ -3,5 +3,7 @@
 - [Chapitre 1er : Admission en première année du cycle de formation](chapitre-1er)
 - [Chapitre II : Admission en deuxième année du cycle de formation](chapitre-ii)
 - [Chapitre III : Admission en troisième année du cycle de formation](chapitre-iii)
+- [Chapitre IV : Obtention du diplôme d'élève officier de la marine marchande](chapitre-iv)
 - [Chapitre V : Admission en quatrième année du cycle de formation ; obtention du diplôme d'études supérieures de la marine marchande](chapitre-v)
 - [Article 28](article-28.md)
+- [Annexes](annexes)
