@@ -529,7 +529,6 @@
 - [Arrêté du 28 juillet 1989 (DEFL8901789A)](arrete-du-28-juillet-1989-defl8901789a)
 - [Arrêté du 28 juillet 1989 (DEFL8901790A)](arrete-du-28-juillet-1989-defl8901790a)
 - [Arrêté du 28 juillet 1989 (SPSS8901609A)](arrete-du-28-juillet-1989-spss8901609a)
-- [Arrêté du 28 juillet 1989 (SPSS8901627A)](arrete-du-28-juillet-1989-spss8901627a)
 - [Arrêté du 28 juin 1989 (MAEF8910013A)](arrete-du-28-juin-1989-maef8910013a)
 - [Arrêté du 28 mars 1989 (PRME8961333A)](arrete-du-28-mars-1989-prme8961333a)
 - [Arrêté du 28 mars 1989 (SPSD8900698A)](arrete-du-28-mars-1989-spsd8900698a)

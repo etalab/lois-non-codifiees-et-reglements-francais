@@ -300,7 +300,6 @@
 - [Arrêté du 12 décembre 1990 (SANP9002209A)](arrete-du-12-decembre-1990-sanp9002209a)
 - [Arrêté du 12 février 1990 (PTTR9000164A)](arrete-du-12-fevrier-1990-pttr9000164a)
 - [Arrêté du 12 janvier 1990 (EQUA9000107A)](arrete-du-12-janvier-1990-equa9000107a)
-- [Arrêté du 12 juillet 1990 (ECOC9000092A)](arrete-du-12-juillet-1990-ecoc9000092a)
 - [Arrêté du 12 juillet 1990 (EQUM9000918A)](arrete-du-12-juillet-1990-equm9000918a)
 - [Arrêté du 12 juillet 1990 (PRME9061263A)](arrete-du-12-juillet-1990-prme9061263a)
 - [Arrêté du 12 juillet 1990 (RESY9000223A)](arrete-du-12-juillet-1990-resy9000223a)

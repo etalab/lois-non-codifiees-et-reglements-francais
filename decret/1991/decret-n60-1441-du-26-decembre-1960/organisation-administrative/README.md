@@ -1,3 +1,0 @@
-# ORGANISATION ADMINISTRATIVE - LES SERVICES
-
-- [Article 27](article-27.md)
