@@ -1,6 +1,7 @@
 # 1966
 
 - [Décret n°66-12 du 3 janvier 1966](decret-n66-12-du-3-janvier-1966)
+- [Décret n°66-38 du 5 janvier 1966](decret-n66-38-du-5-janvier-1966)
 - [Décret n°66-20 du 7 janvier 1966](decret-n66-20-du-7-janvier-1966)
 - [Décret n°66-34 du 7 janvier 1966](decret-n66-34-du-7-janvier-1966)
 - [Décret n°66-35 du 7 janvier 1966](decret-n66-35-du-7-janvier-1966)
