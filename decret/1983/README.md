@@ -38,7 +38,6 @@
 - [Décret n°83-896 du 4 octobre 1983](decret-n83-896-du-4-octobre-1983)
 - [Décret n°83-370 du 4 mai 1983](decret-n83-370-du-4-mai-1983)
 - [Décret n°83-371 du 4 mai 1983](decret-n83-371-du-4-mai-1983)
-- [Décret n° 83-11 du 5 janvier 1983](decret-n-83-11-du-5-janvier-1983)
 - [Décret n°83-3 du 5 janvier 1983](decret-n83-3-du-5-janvier-1983)
 - [Décret n°83-5 du 5 janvier 1983](decret-n83-5-du-5-janvier-1983)
 - [Décret n°83-893 du 5 octobre 1983](decret-n83-893-du-5-octobre-1983)
