@@ -1,0 +1,3 @@
+# Article 1
+
+L'établissement public Office national de la chasse (O.N.C.) est autorisé à établir et exploiter un réseau radioélectrique indépendant multisite à usage partagé destiné aux services de l'Office national de la chasse, des fédérations départementales de la chasse, du Conseil supérieur de la pêche, des fédérations départementales de la pêche, du ministère de l'environnement et des établissements publics dont il a la tutelle, utilisant les canaux de la bande VHF sur le territoire national, définis au cahier des charges annexé au présent arrêté. Les prescriptions techniques et réglementaires applicables à l'établissement et à l'exploitation des canaux précités sont fixées au cahier des charges annexé au présent arrêté.

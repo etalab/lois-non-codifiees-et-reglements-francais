@@ -140,6 +140,7 @@
 - [Décret n°96-625 du 9 juillet 1996 (ENVG9640042D)](decret-n96-625-du-9-juillet-1996-envg9640042d)
 - [Décret n°96-626 du 9 juillet 1996 (ENVE9640017D)](decret-n96-626-du-9-juillet-1996-enve9640017d)
 - [Décret n°96-699 du 9 août 1996 (DOMP9600021D)](decret-n96-699-du-9-aout-1996-domp9600021d)
+- [Décret n°96-708 du 9 août 1996 (EQUK9600903D)](decret-n96-708-du-9-aout-1996-equk9600903d)
 - [Décret n°98-289 du 9 avril 1998 (JUSF9850013D)](decret-n98-289-du-9-avril-1998-jusf9850013d)
 - [Décret n°95-708 du 9 mai 1995 (LOGC9500040D)](decret-n95-708-du-9-mai-1995-logc9500040d)
 - [Décret n°96-379 du 9 mai 1996 (EQUP9600253D)](decret-n96-379-du-9-mai-1996-equp9600253d)
