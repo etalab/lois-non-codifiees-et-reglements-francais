@@ -1,0 +1,3 @@
+# Article 10
+
+En cas d'incident lors des travaux, susceptible de provoquer une pollution accidentelle ou un désordre dans l'écoulement des eaux à l'aval ou à l'amont du site, le déclarant doit immédiatement interrompre les travaux ou l'incident provoqué et prendre les dispositions afin de limiter l'effet de l'incident sur le milieu et sur l'écoulement des eaux et afin d'éviter qu'il ne se reproduise. Il informe également dans les meilleurs délais le service chargé de la police de l'eau de l'incident et des mesures prises pour y faire face ainsi que les collectivités locales en cas d'incident à proximité d'une zone de baignade, conformément à l'article L. 211-5 du code de l'environnement.
