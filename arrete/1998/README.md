@@ -283,6 +283,7 @@
 - [Arrêté du 15 juin 1998 (AGRS9801120A)](arrete-du-15-juin-1998-agrs9801120a)
 - [Arrêté du 15 juin 1998 (ATEN9870215A)](arrete-du-15-juin-1998-aten9870215a)
 - [Arrêté du 15 juin 1998 (ECOF9800026A)](arrete-du-15-juin-1998-ecof9800026a)
+- [Arrêté du 15 juin 1998 (INTM9800018A)](arrete-du-15-juin-1998-intm9800018a)
 - [Arrêté du 15 juin 1998 (MCCB9800281A)](arrete-du-15-juin-1998-mccb9800281a)
 - [Arrêté du 15 septembre 1998 (MCCB9800559A)](arrete-du-15-septembre-1998-mccb9800559a)
 - [Arrêté du 15 mai 1998 (MENS9801293A)](arrete-du-15-mai-1998-mens9801293a)
