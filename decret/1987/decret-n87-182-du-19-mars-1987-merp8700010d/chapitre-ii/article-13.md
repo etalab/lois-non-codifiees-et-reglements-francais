@@ -1,3 +1,5 @@
 # Article 13
 
-Les filets doivent être signalés par des bouées placées à chaque extrémité ainsi qu'en leur milieu et marquées du numéro d'immatriculation du navire. Ces bouées devront être équipées d'un réflecteur radar à partir du 1er mai 1988.
+Les filets, casiers, lignes et autres engins de pêche mouillés ou dérivant en mer doivent être signalés au moyen de bouées permettant de repérer leur position, leur orientation et leur étendue et dont le nombre, les caractéristiques techniques et les équipements sont fixés par arrêté du ministre chargé des pêches maritimes. Ces bouées doivent être marquées du numéro d'immatriculation du navire qui les a posées.
+
+Les engins de pêche dépourvus de marques d'identification ou dont les marques ont été effacées sont considérés comme des épaves.

@@ -6,7 +6,7 @@ a) Pratiqué à bord des navires l'une des opérations interdites à l'article 1
 
 b) Refusé ou négligé de se conformer aux obligations relatives aux déclarations des mouvements des navires ou à celles relatives à l'enregistrement ou à la déclaration des captures, prévues à l'article 6 ;
 
-c) Refusé ou négligé de se conformer à l'obligation de signalement des filets prévue à l'article 13 ;
+c) Refusé ou négligé de se conformer aux obligations de signalement ou de marquage des engins de pêche prévus à l'article 13.
 
 d) Refusé d'embarquer un observateur à bord lorsqu'il en aura été requis conformément à l'article 4.
 

@@ -1,15 +1,19 @@
 # Article 2
 
-L'exercice du chalutage, du dragage ou la pose des filets sont subordonnés à l'octroi d'une licence annuelle propre à chaque navire à partir duquel sont pratiquées ces activités.
+L'exercice du chalutage, du dragage ainsi que la pose des filets, casiers, lignes ou de tout autre engin de pêche fixe ou dérivant sont subordonnés à l'octroi d'une licence propre à chaque navire à partir duquel sont pratiquées ces activités.
 
-Les licences sont délivrées par le ministre chargé des pêches maritimes ou par le commissaire de la République pour les navires à partir desquels est pratiquée la pêche au saumon et sont valables pour une année civile.
+Les licences sont délivrées par le préfet de la collectivité territoriale de Saint-Pierre-et-Miquelon, après avis d'une commission de gestion et de conservation des ressources halieutiques dont la composition est fixée par arrêté du préfet.
 
-Le ministre peut, en considération des ressources halieutiques, limiter le nombre des licences susceptibles d'être accordées et les attribuer en tenant compte :
+Le préfet peut, en considération des ressources halieutiques, limiter par arrêté le nombre des licences susceptibles d'être accordées et les attribuer en tenant compte :
 
-a) Des prélèvements totaux de captures autorisées dans les eaux définies à l'article 1er et de leur répartition en quotas comme il est dit à l'article 5 ci-après ;
+a) Des prélèvements totaux des captures autorisées dans les eaux définies à l'article 1er et de leur répartition en quotas comme il est dit à l'article 5 ci-après ;
 
-b) De la longueur, de la puissance ou du tonnage des navires au profit desquels les licences sont demandées ;
+b) Des conditions antérieures d'exercice de la pêche dans lesdites eaux ;
 
-c) Et, subsidiairement, des conditions antérieures d'exercice de la pêche dans lesdites eaux.
+c) De la longueur, de la puissance ou du tonnage des navires au profit desquels les licences sont demandées ;
 
-La pêche au moyen de chalut, drague ou filet est interdite à bord de navires dépourvus de licence.
+d) De l'intérêt de l'exploitation de ces navires pour les besoins économiques et sociaux de l'archipel.
+
+La durée de validité d'une licence ne peut excéder celle d'une campagne de pêche ou du temps nécessaire à la capture des quantités autorisées et au maximum celle d'une année civile.
+
+Le préfet de la collectivité territoriale qui a délivré une licence peut, en cas d'infraction à la réglementation générale des pêches ou aux mesures particulières régissant l'activité concernée, suspendre cette licence pour une durée maximum de deux mois après avoir mis l'intéressé en mesure de présenter ses observations.
