@@ -1,0 +1,9 @@
+# Article 1
+
+Les droits des propriétaires de théâtres cinématographiques au soutien financier prévu à l'article 3 (paragraphe II, e) du décret du 16 juin 1959 sont calculés selon un pourcentage du montant de la taxe spéciale additionnelle au prix des places perçues à leurs guichets.
+
+Ce pourcentage est fixé par arrêté conjoint du ministre de l'économie et des finances et du ministre chargé du cinéma. Il ne s'applique pas au produit des taxes additionnelles perçues, postérieurement au 1er janvier 1976, à l'occasion de la projection des films figurant sur la liste prévue au quatrième alinéa de l'article 12 de la loi de finances pour 1976 et visée au troisième alinéa de l'article 5 du décret modifié du 16 juin 1959.
+
+Aucune subvention n'est allouée aux propriétaires des salles de spectacles cinématographiques spécialisées, définies par l'article 1er bis du présent décret. En cas de renonciation à cette spécialisation, la taxe additionnelle au prix des places, perçue aux guichets de la salle, n'est prise en compte pour la détermination du soutien à l'entreprise concernée qu'à dater du jour de l'homologation de la renonciation par l'Administration.
+
+En ce qui concerne les salles de spectacles cinématographiques autres que les salles spécialisées visées au précédent alinéa, la projection de films à caractère pornographique figurant, à ce titre, sur la liste prévue au quatrième alinéa de l'article 12 de la loi de finances pour 1976 et visée au troisième alinéa de l'article 5 du décret modifié du 16 juin 1959 a pour effet que la taxe additionnelle perçue au cours de périodes déterminées par arrêté du ministre chargé du cinéma, et qui ne peuvent dépasser dix-huit mois à dater de la constatation de la séance litigieuse, ne peut plus être prise en compte pour le calcul du soutien financier.
