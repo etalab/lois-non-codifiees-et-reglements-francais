@@ -2,11 +2,9 @@
 
 Indépendamment des règles posées aux articles 29 et 30 de la loi n. 71-576 du 16 juillet 1971 sur l'apprentissage, entrent seuls en compte pour les exonérations régies par le présent décret :
 
-1. Les frais de fonctionnement, de premier équipement, de renouvellement du matériel existant et d'équipement complémentaire des centres de formation d'apprentis ou des écoles organisées par les entreprises ou groupements d'entreprises en vue d'assurer, dans les conditions prévues au deuxième alinéa de l'article 1er de la loi n. 71-578 du 16 juillet 1971, les premières formations technologiques et professionnelles, et notamment l'apprentissage ;
+1. Les frais de fonctionnement, de premier équipement, de renouvellement du matériel existant et d'équipement complémentaire des centres de formation d'apprentis ou des écoles organisées par les entreprises ou groupements d'entreprises en vue d'assurer, dans les conditions prévues au deuxième alinéa de l'article 1er de la loi n. 71-578 du 16 juillet 1971, les premières formations technologiques et professionnelles, et notamment l'apprentissage ;    2. [*Abrogé par le décret 96-1052 1996-12-05 art. 2*]
 
-2. En sus de l'exonération prévue par l'article 29 A de la loi n. 71-576 du 16 juillet 1971 relative à l'apprentissage pour les entreprises de plus de six salariés, non inscrites au répertoire des métiers ou pour les départements du Haut-Rhin, du Bas-Rhin et de la Moselle au registre des entreprises, la moitié des salaires des apprentis et, dans la même limite, les cotisations sociales obligatoires versées à raison de ces salaires par l'employeur, ainsi que la taxe sur les salaires si celle-ci est due, pour les heures de présence dans un centre de formation d'apprentis sans que ce nombre d'heures puisse dépasser 900 au cours de l'année ;
-
-3. Les salaires des personnes chargées d'assurer la formation pratique des apprentis, définie à l'article 17 de la loi n. 71-576 du 16 juillet 1971, au prorata du nombre d'apprentis dans la limite maximale d'un salaire pour dix apprentis ainsi que, dans la même limite, les cotisations sociales obligatoires versées à raison de ces salaires par l'employeur, la taxe sur les salaires, si celle-ci est due, et les dépenses exposées pour la formation pédagogique desdites personnes ;
+3. [*Abrogé par le décret 96-1052 1996-12-05 art. 2*]
 
 4. Les salaires des membres représentant les travailleurs dans les conseils, comités, commissions et jurys d'examen créés en application des lois n. 71-575 à 71-578 du 16 juillet 1971 ainsi que les cotisations sociales obligatoires versées à raison de ces salaires par l'employeur et la taxe sur les salaires, si celle-ci est due, pour le temps consacré aux séances de ces organismes et effectivement rémunéré par l'employeur ;
 
