@@ -12,13 +12,13 @@ b) Deux conseillers généraux désignés par accord entre les présidents de co
 
 c) Un maire ou conseiller municipal désigné par accord entre les associations départementales des maires ou à défaut élu par le collège des maires de l'ensemble des départements situés dans le ressort du centre régional au scrutin majoritaire à un tour. Le vote peut avoir lieu par correspondance. Le collège des maires est convoqué par le préfet de la région dans laquelle le centre a son siège ;
 
-3. Un directeur d'institut universitaire de formation des maîtres, désigné par le ministre chargé de l'éducation ;
+3. Un directeur d'institut universitaire de formation des maîtres, désigné par le recteur d'académie ;
 
-4. Six représentants des communautés éducatives, nommés par le ministre chargé de l'éducation sur proposition du recteur de l'académie, à savoir : deux chefs d'établissement, deux enseignants et deux représentants des parents d'élèves ;
+4. Six représentants des communautés éducatives, nommés par le recteur de l'académie, à savoir : deux chefs d'établissement, deux enseignants et deux représentants des parents d'élèves ;
 
-5. Trois membres, nommés par le ministre chargé de l'éducation et choisis parmi les personnes particulièrement qualifiées en raison de leur compétence dans les domaines mentionnés à l'article 16 ;
+5. Trois membres, nommés par le recteur d'académie et choisis parmi les personnes particulièrement qualifiées en raison de leur compétence dans les domaines mentionnés à l'article 16 ;
 
-6. Trois représentants des personnels permanents du centre régional désignés par le ministre chargé de l'éducation sur proposition des organisations syndicales les plus représentatives au sein de l'établissement.
+6. Trois représentants des personnels permanents du centre régional désignés par le recteur d'académie sur proposition des organisations syndicales les plus représentatives au sein de l'établissement.
 
 En cas d'empêchement, chaque administrateur peut donner procuration à un autre membre du conseil. Nul ne peut être porteur de plus de deux procurations.
 
