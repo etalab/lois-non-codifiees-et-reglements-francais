@@ -345,7 +345,6 @@
 - [Décret n°84-810 du 30 août 1984](decret-n84-810-du-30-aout-1984)
 - [Décret n°84-971 du 30 octobre 1984](decret-n84-971-du-30-octobre-1984)
 - [Décret n°84-406 du 30 mai 1984](decret-n84-406-du-30-mai-1984)
-- [Décret n°84-410 du 30 mai 1984](decret-n84-410-du-30-mai-1984)
 - [Décret n°84-416 du 30 mai 1984](decret-n84-416-du-30-mai-1984)
 - [Décret n°84-423 du 30 mai 1984](decret-n84-423-du-30-mai-1984)
 - [Décret n°83-1252 du 31 décembre 1983](decret-n83-1252-du-31-decembre-1983)

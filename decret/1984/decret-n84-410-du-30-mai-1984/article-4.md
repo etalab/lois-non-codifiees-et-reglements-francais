@@ -1,5 +1,0 @@
-# Article 4
-
-L'aide est calculée sur la base de chaque heure de réduction de la durée hebdomadaire du travail conforme aux conditions posées par le présent décret et aux stipulations du contrat. Elle est accordée pour chaque salarié concerné par cette réduction dans des conditions fixées par arrêté interministériel en fonction de l'engagement sur l'emploi et de l'ampleur de la réduction. Ne sont toutefois pas prises en compte pour le calcul de l'aide les heures au-dessous de trente heures et celles au-dessus de trente-neuf heures. Un accord cadre de branche entre l'Etat et les employeurs peut cependant déroger à la limite de trente-neuf heures. Dans tous les cas, la réduction n'est prise en compte que dans la limite de cinq heures.
-
-L'aide est dégressive et est accordée au maximum pour trois ans [*durée*]. Cette aide est versée semestriellement [*périodicité*] et pour la première fois au cours du mois suivant la date fixée dans le contrat mentionné à l'article 2 du présent décret, sous réserve du respect par l'employeur des engagements pris dans ledit contrat.
