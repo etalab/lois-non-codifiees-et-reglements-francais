@@ -19,3 +19,5 @@ Les administrations et organismes auxquels sont transmises les informations sont
 - les institutions gestionnaires du régime d'assurance chômage.
 
 - la Caisse nationale de retraite des agents des collectivités locales (C.N.R.A.C.L.), le Fonds spécial des pensions des ouvriers des établissements industriels de l'Etat (F.S.P.O.E.I.E.), les fonds nationaux de compensation du supplément familial de traitement (F.N.C.).
+
+- le ministère chargé de l'emploi.
