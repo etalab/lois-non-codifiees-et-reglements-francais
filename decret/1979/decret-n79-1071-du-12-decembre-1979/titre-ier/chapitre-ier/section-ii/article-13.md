@@ -1,0 +1,3 @@
+# Article 13
+
+Les fonctionnaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent appartenant à un corps, cadre d'emplois ou emploi classé dans la catégorie C ou D ainsi que les candidats en fonctions dans une organisation internationale intergouvernementale et occupant un emploi du niveau de ces catégories recrutés dans le corps des greffiers en chef sont classés, lors de leur titularisation dans la 2e classe du troisième grade, à un échelon déterminé en appliquant les modalités fixées à l'article 12 ci-dessus à la fraction de l'ancienneté qui aurait été prise en compte, en application de l'article 5 du décret susvisé du 20 septembre 1973, pour leur classement dans l'un des corps régis par ce décret.
