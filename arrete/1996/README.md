@@ -537,7 +537,6 @@
 - [Arrêté du 15 janvier 1996 (ECOT9610259A)](arrete-du-15-janvier-1996-ecot9610259a)
 - [Arrêté du 15 janvier 1996 (ECOT9610260A)](arrete-du-15-janvier-1996-ecot9610260a)
 - [Arrêté du 15 janvier 1996 (EQUS9600139A)](arrete-du-15-janvier-1996-equs9600139a)
-- [Arrêté du 15 janvier 1996 (JUSG9560076A)](arrete-du-15-janvier-1996-jusg9560076a)
 - [Arrêté du 15 janvier 1996 (MENF9600063A)](arrete-du-15-janvier-1996-menf9600063a)
 - [Arrêté du 15 janvier 1996 (MENN9503056A)](arrete-du-15-janvier-1996-menn9503056a)
 - [Arrêté du 15 janvier 1996 (MENN9600016A)](arrete-du-15-janvier-1996-menn9600016a)
