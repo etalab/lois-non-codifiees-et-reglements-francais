@@ -26,7 +26,7 @@ Le comité de gestion est constitué de seize membres :
 
 " e) Un membre représentant les utilisateurs d'huiles régénérées ;
 
-" f) Deux membres représentant les entreprises de raffinage produisant les huiles de base soumises à la taxe parafiscale ;
+" f) Deux membres représentant les entreprises soumises à la taxe parafiscale ;
 
 " g) Un membre représentant les détenteurs d'huiles usagées ;
 
