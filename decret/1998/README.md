@@ -98,6 +98,7 @@
 - [Décret n°98-47 du 19 janvier 1998 (MENU9703765D)](decret-n98-47-du-19-janvier-1998-menu9703765d)
 - [Décret n°75-789 du 21 août 1975](decret-n75-789-du-21-aout-1975)
 - [Décret n°98-48 du 21 janvier 1998 (EQUA9701385D)](decret-n98-48-du-21-janvier-1998-equa9701385d)
+- [Décret n°98-51 du 21 janvier 1998 (MAEJ9730111D)](decret-n98-51-du-21-janvier-1998-maej9730111d)
 - [Décret n°99-521 du 21 juin 1999 (EQUA9900464D)](decret-n99-521-du-21-juin-1999-equa9900464d)
 - [Décret n°96-1004 du 22 novembre 1996 (INTE9600286D)](decret-n96-1004-du-22-novembre-1996-inte9600286d)
 - [Décret n°90-427 du 22 mai 1990 (MENF9000781D)](decret-n90-427-du-22-mai-1990-menf9000781d)

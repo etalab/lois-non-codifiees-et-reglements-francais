@@ -37,6 +37,7 @@
 - [Arrêté du 7 janvier 1998 (MENE9703638A)](arrete-du-7-janvier-1998-mene9703638a)
 - [Arrêté du 7 janvier 1998 (MENE9703639A)](arrete-du-7-janvier-1998-mene9703639a)
 - [Arrêté du 7 novembre 1997 (ECOI9700753A)](arrete-du-7-novembre-1997-ecoi9700753a)
+- [Arrêté du 8 janvier 1998 (ECOI9700660A)](arrete-du-8-janvier-1998-ecoi9700660a)
 - [Arrêté du 8 janvier 1998 (MCCB9700753A)](arrete-du-8-janvier-1998-mccb9700753a)
 - [Arrêté du 8 janvier 1998 (MCCB9700754A)](arrete-du-8-janvier-1998-mccb9700754a)
 - [Arrêté du 8 janvier 1998 (MCCB9700756A)](arrete-du-8-janvier-1998-mccb9700756a)
