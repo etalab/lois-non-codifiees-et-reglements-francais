@@ -1,6 +1,10 @@
 # Article 15
 
-L'examen des titres prévu par l'article 16 de la loi n° 82-595 du 10 juillet 1982 comprend un entretien de la commission avec chaque candidat portant sur ses travaux ou sur son expérience professionnelle.
+L'examen des titres prévus par l'article 16 de la loi du 10 juillet 1982 susvisée comprend :
+
+" 1° Un examen par la commission du dossier de chaque candidat ;
+
+" 2° Une audition par la commission de ceux des candidats dont les mérites sont jugés satisfaisants à l'issue de cet examen. "
 
 La commission inscrit, par ordre de mérite, les candidats qu'elle retient sur la liste d'aptitude au grade postulé. Elle établit, si elle le juge utile, une liste complémentaire.
 
