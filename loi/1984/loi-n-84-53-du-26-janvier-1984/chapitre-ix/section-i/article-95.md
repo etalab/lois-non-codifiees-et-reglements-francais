@@ -1,5 +1,19 @@
 # Article 95
 
-Un décret en Conseil d'Etat définit les activités privées qu'en raison de leur nature un fonctionnaire qui a cessé définitivement ses fonctions ou qui a été mis en disponibilité ne peut exercer. S'agissant des fonctionnaires ayant cessé définitivement leurs fonctions, il peut prévoir que cette interdiction sera limitée dans le temps.
+Un décret en Conseil d'Etat définit les activités privées qu'en raison de leur nature ne peut exercer un fonctionnaire placé dans l'une des situations ou positions statutaires suivantes :
+
+1° Cessation définitive de fonctions ;
+
+2° Disponibilité ;
+
+3° Détachement ;
+
+4° Hors cadres ;
+
+5° Mise à disposition ;
+
+6° Exclusion temporaire de fonctions.
+
+Il peut prévoir que cette interdiction sera limitée dans le temps.
 
 En cas de violation de l'une des interdictions [*sanctions*] prévues à l'alinéa précédent, le fonctionnaire retraité peut faire l'objet de retenues sur pension et, éventuellement, être déchu de ses droits à pension après avis du conseil de discipline.

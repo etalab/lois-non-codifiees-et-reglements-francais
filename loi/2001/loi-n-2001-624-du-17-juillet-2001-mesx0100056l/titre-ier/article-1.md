@@ -1,6 +1,6 @@
 # Article 1
 
-A compter du 1er juillet 2001, les contributions des employeurs et des salariés mentionnées à l'article L. 351-3-1 du code du travail peuvent être utilisées par les parties signataires de l'accord prévu à l'article L. 351-8 du même code pour financer les mesures définies ci-après favorisant la réinsertion professionnelle des bénéficiaires de l'allocation prévue à l'article L. 351-3 du même code, chacune dans la limite d'un plafond déterminé par décret.
+A compter du 1er juillet 2001, les contributions des employeurs et des salariés mentionnées à l'article L. 351-3-1 du code du travail peuvent être utilisées par les parties signataires de l'accord prévu à l'article L. 351-8 du même code pour financer les mesures définies ci-après favorisant la réinsertion professionnelle des bénéficiaires de l'allocation prévue à l'article L. 351-3 du même code, chacune dans la limite d'un plafond déterminé par décret. Ces mesures peuvent également bénéficier aux salariés licenciés pour motif économique pendant leur délai-congé.
 
 I. - Les bénéficiaires de l'allocation mentionnée au premier alinéa qui acceptent un emploi dans une localité éloignée du lieu de leur résidence habituelle peuvent bénéficier, sur prescription de l'Agence nationale pour l'emploi, d'une aide à la mobilité géographique.
 
@@ -24,4 +24,4 @@ Ces organismes peuvent également contribuer au financement des stages prévus �
 
 Ils peuvent conclure des conventions de formation professionnelle dans les conditions prévues par l'article L. 920-1 du code du travail.
 
-IV. - Les mêmes organismes peuvent financer les dépenses engagées par l'Agence nationale pour l'emploi au titre des actions d'évaluation des compétences professionnelles et des actions d'accompagnement en vue du reclassement qu'elle effectue au profit des bénéficiaires de l'allocation mentionnée à l'article L. 351-3 du code du travail. Les modalités de ce financement sont fixées par voie de convention conclue entre l'Agence nationale pour l'emploi, ces organismes et, le cas échéant, l'Etat.
+IV. - Les mêmes organismes peuvent financer les dépenses engagées par l'Agence nationale pour l'emploi au titre des actions d'évaluation des compétences professionnelles et des actions d'accompagnement en vue du reclassement qu'elle effectue au profit des bénéficiaires de l'allocation mentionnée à l'article L. 351-3 du code du travail ainsi qu'au profit des salariés licenciés pour motif économique pendant leur délai-congé. Les modalités de ce financement sont fixées par voie de convention conclue entre l'Agence nationale pour l'emploi, ces organismes et, le cas échéant, l'Etat.

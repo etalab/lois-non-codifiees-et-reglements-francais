@@ -130,4 +130,6 @@ II. - Sont abrogés :
 
 - les articles 10 et 13 de la loi n° 99-477 du 9 juin 1999 visant à garantir le droit à l'accès aux soins palliatifs ;
 
-- l'article 38, les quatrième, cinquième et sixième alinéas du B du III de l'article 60, les I, III et V de l'article 61 et le V de l'article 65 de la loi n° 99-641 du 27 juillet 1999 portant création d'une couverture maladie universelle.
+- l'article 38, les quatrième, cinquième et sixième alinéas du B du III de l'article 60, les I, III et V de l'article 61 et le V de l'article 65 de la loi n° 99-641 du 27 juillet 1999 portant création d'une couverture maladie universelle ;
+
+- les articles 58, 59 et 60 de la loi n° 2000-627 du 6 juillet 2000 modifiant la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives.

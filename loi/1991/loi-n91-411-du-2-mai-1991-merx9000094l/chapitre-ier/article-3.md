@@ -2,7 +2,7 @@
 
 Les organes dirigeants des comités sont composés de représentants :
 
-a) Des équipages et salariés des entreprises de pêche maritime et d'élevage marin et des chefs de ces entreprises, à parité et formant au moins la moitié des membres de chacun des organes dirigeants ;
+a) Des équipages et salariés des entreprises de pêche maritime et d'élevage marin et des chefs de ces entreprises ou de leurs conjoints, à parité et formant au moins la moitié des membres de chacun des organes dirigeants ;
 
 b) Des salariés des entreprises de premier achat et de transformation de la filière des pêches maritimes et des élevages marins et des chefs de ces entreprises, à parité ;
 
