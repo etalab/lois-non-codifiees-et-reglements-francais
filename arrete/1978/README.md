@@ -4,3 +4,4 @@
 - [Arrêté du 14 décembre 1977](arrete-du-14-decembre-1977)
 - [Arrêté du 15 décembre 1977](arrete-du-15-decembre-1977)
 - [Arrêté du 23 novembre 1977](arrete-du-23-novembre-1977)
+- [Arrêté du 24 novembre 1977](arrete-du-24-novembre-1977)
