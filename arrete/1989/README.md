@@ -180,6 +180,7 @@
 - [Arrêté du 17 janvier 1989 (TEFT8903070A)](arrete-du-17-janvier-1989-teft8903070a)
 - [Arrêté du 17 janvier 1989 (TEFT8903071A)](arrete-du-17-janvier-1989-teft8903071a)
 - [Arrêté du 17 novembre 1988 (INDF8800609A)](arrete-du-17-novembre-1988-indf8800609a)
+- [Arrêté du 18 avril 1989 (BUDD8940003A)](arrete-du-18-avril-1989-budd8940003a)
 - [Arrêté du 18 avril 1989 (PTTT8900346A)](arrete-du-18-avril-1989-pttt8900346a)
 - [Arrêté du 18 avril 1989 (SPSH8900711A)](arrete-du-18-avril-1989-spsh8900711a)
 - [Arrêté du 18 avril 1989 (SPSH8900713A)](arrete-du-18-avril-1989-spsh8900713a)
