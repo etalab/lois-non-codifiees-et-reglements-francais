@@ -232,7 +232,6 @@
 - [Décret n°95-38 du 6 janvier 1995 (SPSS9402954D)](decret-n95-38-du-6-janvier-1995-spss9402954d)
 - [Décret n°95-40 du 6 janvier 1995 (ENVE9420053D)](decret-n95-40-du-6-janvier-1995-enve9420053d)
 - [Décret n°95-833 du 6 juillet 1995 (FPPX9500064D)](decret-n95-833-du-6-juillet-1995-fppx9500064d)
-- [Décret n°95-835 du 6 juillet 1995 (TEFT9500711D)](decret-n95-835-du-6-juillet-1995-teft9500711d)
 - [Décret n°95-996 du 6 septembre 1995 (INTA9500277D)](decret-n95-996-du-6-septembre-1995-inta9500277d)
 - [Décret n°96-173 du 6 mars 1996 (JUSF9650013D)](decret-n96-173-du-6-mars-1996-jusf9650013d)
 - [Décret n°96-498 du 6 juin 1996 (TASH9621263D)](decret-n96-498-du-6-juin-1996-tash9621263d)
