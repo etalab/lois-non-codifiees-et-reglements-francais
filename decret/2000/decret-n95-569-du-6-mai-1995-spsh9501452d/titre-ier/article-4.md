@@ -1,0 +1,3 @@
+# Article 4
+
+L'effectif des médecins et pharmaciens mentionnés à l'article 3 ne peut excéder celui des personnels médicaux ou pharmaceutiques remplissant les conditions d'exercice fixées  ou par l'article L. 4111-1 du code de la santé publique, les huitième et neuvième alinéas du I de l'article 60 de la loi n° 99-641 du 27 juillet 1999 portant création d'une couverture maladie universelle ou par les articles L. 514 et L. 514-1 du code de la santé publique et exerçant leurs fonctions dans le service de soins, où ces médecins et pharmaciens sont affectés. La même obligation s'impose dans le cadre de la discipline d'exercice.

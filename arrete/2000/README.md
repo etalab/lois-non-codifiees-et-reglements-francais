@@ -92,6 +92,7 @@
 - [Arrêté du 7 juillet 2000 (MESP0022267A)](arrete-du-7-juillet-2000-mesp0022267a)
 - [Arrêté du 7 juillet 2000 (MESS0022234A)](arrete-du-7-juillet-2000-mess0022234a)
 - [Arrêté du 7 juillet 2000 (MESS0022235A)](arrete-du-7-juillet-2000-mess0022235a)
+- [Arrêté du 7 juin 2000 (ECOC0000065A)](arrete-du-7-juin-2000-ecoc0000065a)
 - [Arrêté du 7 mars 2000 (DEFP9902306A)](arrete-du-7-mars-2000-defp9902306a)
 - [Arrêté du 7 mars 2000 (EQUS0000360A)](arrete-du-7-mars-2000-equs0000360a)
 - [Arrêté du 8 février 2000 (MESP0020467A)](arrete-du-8-fevrier-2000-mesp0020467a)
