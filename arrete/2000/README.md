@@ -276,6 +276,7 @@
 - [Arrêté du 27 décembre 1999 (MENP9902848A)](arrete-du-27-decembre-1999-menp9902848a)
 - [Arrêté du 27 janvier 2000 (FPPA0010008A)](arrete-du-27-janvier-2000-fppa0010008a)
 - [Arrêté du 27 janvier 2000 (MESH0020301A)](arrete-du-27-janvier-2000-mesh0020301a)
+- [Arrêté du 27 juillet 2000 (ECOI0000334A)](arrete-du-27-juillet-2000-ecoi0000334a)
 - [Arrêté du 27 juin 2000 (AGRG0001099A)](arrete-du-27-juin-2000-agrg0001099a)
 - [Arrêté du 27 juin 2000 (AGRP0001291A)](arrete-du-27-juin-2000-agrp0001291a)
 - [Arrêté du 27 juin 2000 (AGRP0001292A)](arrete-du-27-juin-2000-agrp0001292a)
