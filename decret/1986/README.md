@@ -8,7 +8,6 @@
 - [Décret n°86-1009 du 2 septembre 1986](decret-n86-1009-du-2-septembre-1986)
 - [Décret n°86-1231 du 2 décembre 1986](decret-n86-1231-du-2-decembre-1986)
 - [Décret n°86-1232 du 2 décembre 1986](decret-n86-1232-du-2-decembre-1986)
-- [Décret n°86-729 du 2 mai 1986](decret-n86-729-du-2-mai-1986)
 - [Décret n°86-730 du 2 mai 1986](decret-n86-730-du-2-mai-1986)
 - [Décret n°86-731 du 2 mai 1986](decret-n86-731-du-2-mai-1986)
 - [Décret n°86-734 du 2 mai 1986](decret-n86-734-du-2-mai-1986)
