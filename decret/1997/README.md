@@ -79,7 +79,6 @@
 - [Décret n°97-314 du 4 avril 1997 (MJSK9770012D)](decret-n97-314-du-4-avril-1997-mjsk9770012d)
 - [Décret n°97-818 du 4 septembre 1997 (INTX9700092D)](decret-n97-818-du-4-septembre-1997-intx9700092d)
 - [Décret n°97-829 du 4 septembre 1997 (MESH9722351D)](decret-n97-829-du-4-septembre-1997-mesh9722351d)
-- [Décret n°97-830 du 4 septembre 1997 (MESS9722293D)](decret-n97-830-du-4-septembre-1997-mess9722293d)
 - [Décret n°97-832 du 4 septembre 1997 (MENU9702434D)](decret-n97-832-du-4-septembre-1997-menu9702434d)
 - [Décret n°97-833 du 4 septembre 1997 (ECOF9700028D)](decret-n97-833-du-4-septembre-1997-ecof9700028d)
 - [Décret n°97-834 du 4 septembre 1997 (ECOI9700370D)](decret-n97-834-du-4-septembre-1997-ecoi9700370d)
