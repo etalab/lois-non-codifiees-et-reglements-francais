@@ -1,3 +1,3 @@
 # Article 2
 
-Le service vétérinaire de la santé et de la protection animales a notamment dans ses attributions la conception, l'élaboration et l'application, sur l'ensemble du territoire et aux frontières, des réglementations concernant la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité contre les mauvais traitements, les utilisations abusives et les souffrances inutiles.
+Les taux des redevances communale et départementale des mines visées à l'article 1er du présent arrêté ne comprennent pas les frais de prise en charge des dégrèvements, de non-valeurs, d'assiette et de recouvrement perçus au profit de l'Etat.

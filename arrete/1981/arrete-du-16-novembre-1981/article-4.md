@@ -1,3 +1,3 @@
 # Article 4
 
-L'arrêté du 28 novembre 1980 portant création de la mission de la protection des animaux est abrogé.
+Le comité consultatif de l'utilisation de l'énergie est appelé à donner son avis sur l'installation envisagée, avant toute décision de l'administration.

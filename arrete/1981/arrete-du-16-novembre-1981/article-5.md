@@ -1,3 +1,3 @@
 # Article 5
 
-Le présent arrêté sera publié au Journal officiel de la République française.
+La décision motivée de l'administration accompagnée, le cas échéant, de toutes recommandations jugées opportunes, et notamment de celles émises par le comité au titre du décret du 16 septembre 1949 relatif à l'utilisation de l'énergie, est notifiée à l'intéressé.
