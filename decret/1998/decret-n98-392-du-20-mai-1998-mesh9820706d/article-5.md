@@ -1,0 +1,3 @@
+# Article 5
+
+Les agents qui avaient auparavant la qualité d'agent d'une organisation internationale intergouvernementale sont classés lors de leur titularisation à un échelon du grade de début déterminé en prenant en compte, sur la base des durées moyennes fixées par les statuts particuliers du corps d'accueil, les services accomplis en qualité d'agent d'une organisation internationale intergouvernementale à raison des trois quarts de leur durée pour les services accomplis dans un emploi de niveau au moins équivalent à celui de la catégorie B et de la moitié pour les services accomplis dans un emploi du niveau des catégories C et D.
