@@ -70,6 +70,7 @@
 - [Décret n°2003-905 du 19 septembre 2003 (FPPA0300114D)](decret-n2003-905-du-19-septembre-2003-fppa0300114d)
 - [Décret n°2004-830 du 19 août 2004 (AGRA0400385D)](decret-n2004-830-du-19-aout-2004-agra0400385d)
 - [Décret n°2004-831 du 19 août 2004 (AGRA0400387D)](decret-n2004-831-du-19-aout-2004-agra0400387d)
+- [Décret n°87-347 du 21 mai 1987 (MENL8700230D)](decret-n87-347-du-21-mai-1987-menl8700230d)
 - [Décret n°2003-1011 du 22 octobre 2003 (EQUP0300204D)](decret-n2003-1011-du-22-octobre-2003-equp0300204d)
 - [Décret n°2003-381 du 22 avril 2003 (PRMX0306573D)](decret-n2003-381-du-22-avril-2003-prmx0306573d)
 - [Décret n°2002-1512 du 23 décembre 2002 (MCCB0200828D)](decret-n2002-1512-du-23-decembre-2002-mccb0200828d)
