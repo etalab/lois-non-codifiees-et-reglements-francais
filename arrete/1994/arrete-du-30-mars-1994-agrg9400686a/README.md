@@ -2,6 +2,7 @@
 
 - [Article 1](article-1.md)
 - [Chapitre Ier : Conditions d'agrément sanitaire des centres d'insémination artificielle de l'espèce ovine autorisés.](chapitre-ier)
+- [Chapitre II : Conditions de surveillance des centres d'insémination artificielle autorisés de l'espèce ovine.](chapitre-ii)
 - [Chapitre III : Conditions sanitaires exigées pour l'admission des béliers dans les centres.](chapitre-iii)
 - [Chapitre IV : Contrôles et examens de routine obligatoires pour les béliers séjournant dans les centres.](chapitre-iv)
 - [Chapitre V : Conditions que doit remplir le sperme collecté dans les centres.](chapitre-v)
