@@ -1,3 +1,3 @@
 # Article 2
 
-Les obligations de cette émission ne comportent pas de bon d'échange. Elles sont assimilées aux obligations de la première tranche de l'emprunt d'Etat Janvier 1986 dès la date du règlement fixée au 25 février 1986.
+Pour les récoltants manipulants, ce taux appliqué au prix moyen de vente visé à l'article 1er s'établit à 0,084 F par bouteille.

@@ -1,4 +1,4 @@
-# Arrêté du 21 février 1986 relatif à l'émission d'obligations assimilées aux obligations de l'emprunt d'Etat Janvier 1986 de la série Février 1986
+# Arrêté du 21 février 1986 concernant le financement du comité interprofessionnel du vin de Champagne.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

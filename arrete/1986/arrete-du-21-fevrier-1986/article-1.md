@@ -1,3 +1,3 @@
 # Article 1
 
-Le montant de l'émission d'obligations assimilables aux obligations de l'emprunt d'Etat Janvier 1986, de la série Février 1986, est fixé à 4,150 milliards de francs.
+Le taux de la taxe parafiscale sur les ventes en bouteilles destinée au financement du comité interprofessionnel du vin de Champagne pour la campagne 1985-1986 est fixé pour les négociants à 0,26 p. 100 du prix moyen de vente hors taxes des bouteilles commercialisées.

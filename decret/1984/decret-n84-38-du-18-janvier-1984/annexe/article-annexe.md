@@ -18,6 +18,14 @@ Emplois de catégorie A, B, C et D
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
+Agences financières de bassin
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois de catégorie A
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
 Agence nationale pour l'amélioration des conditions de travail
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
@@ -93,6 +101,14 @@ Centre national d'art et de culture Georges-Pompidou
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
 Emplois de catégorie A, B, C et D
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
+Centre national de la cinématographie
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois de catégorie A et B
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
