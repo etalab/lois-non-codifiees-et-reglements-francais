@@ -4,6 +4,6 @@ Dès le renouvellement du conseil municipal, les associations mentionnées au se
 
 En ce qui concerne les associations familiales, les propositions sont présentées, conformément au septième alinéa de l'article 138 susmentionné, par l'union départementale des associations familiales.
 
-Les associations de retraités et de personnes âgées et les associations de personnes handicapées proposent au maire une liste comportant, sauf impossibilité dûment justifiée, au moins trois personnes répondant aux conditions prévues par le quatrième alinéa de l'article 138 susmentionné.
+Les associations qui oeuvrent dans le domaine de l'insertion et de la lutte contre les exclusions, les associations de retraités et de personnes âgées et les associations de personnes handicapées proposent au maire une liste comportant, sauf impossibilité dûment justifiée, au moins trois personnes répondant aux conditions prévues par le quatrième alinéa de l'article 138 susmentionné. ;
 
 Les associations ayant le même objet peuvent proposer une liste commune.
