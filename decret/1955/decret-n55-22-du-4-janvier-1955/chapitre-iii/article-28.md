@@ -8,6 +8,8 @@ a) Mutation ou constitution de droits réels immobiliers autres que les privilè
 
 b) Bail pour une durée de plus de douze années, et, même pour un bail de moindre durée, quittance ou cession d'une somme équivalente à trois années de loyers ou fermages non échus ;
 
+c) Titre d'occupation du domaine public de l'Etat ou d'un de ses établissements publics constitutif d'un droit réel immobilier délivré en application des articles L. 34-1 à L. 34-9 du code du domaine de l'Etat et de l'article 3 de la loi n° 94-631 du 25 juillet 1994 ainsi que cession, transmission ou retrait de ce titre.
+
 2° Les actes entre vifs dressés distinctement pour constater des clauses d'inaliénabilité temporaire et toutes autres restrictions au droit de disposer, ainsi que des clauses susceptibles d'entraîner la résolution ou la révocation d'actes soumis à publicité en vertu du 1° ; de même, les décisions judiciaires constatant l'existence de telles clauses ;
 
 Les décisions judiciaires arrêtant ou modifiant le plan de redressement de l'entreprise rendu en application des chapitres II ou III de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises qui prononcent en application des articles 70 ou 89-1 de la loi précitée l'inaliénabilité temporaire d'un bien immobilier compris dans le plan.
