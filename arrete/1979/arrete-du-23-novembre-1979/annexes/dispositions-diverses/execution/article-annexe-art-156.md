@@ -1,0 +1,3 @@
+# Article Annexe ART. 156
+
+Le Préfet, Secrétaire général de la Préfecture de Paris, le Préfet, directeur du Cabinet du Préfet de police, le Maire de Paris, les directeurs et chefs de service intéressés de la Préfecture de Paris et de la Préfecture de police, ainsi que les agents de ces services dûment habilités, les commissaires de police, les officiers et agents de police judiciaire, les vétérinaires-inspecteurs ainsi que les inspecteurs de salubrité commissionnés et assermentés sont chargés, chacun en ce qui le concerne, de l'application du présent arrêté, qui abroge et remplace les dispositions de l'arrêté interpréfectoral du 10 avril 1965.

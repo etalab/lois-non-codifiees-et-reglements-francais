@@ -63,6 +63,8 @@
 - [Décret n°79-618 du 13 juillet 1979](decret-n79-618-du-13-juillet-1979)
 - [Décret n°79-619 du 13 juillet 1979](decret-n79-619-du-13-juillet-1979)
 - [Décret n°79-630 du 13 juillet 1979](decret-n79-630-du-13-juillet-1979)
+- [Décret n°79-979 du 13 novembre 1979](decret-n79-979-du-13-novembre-1979)
+- [Décret n°79-980 du 13 novembre 1979](decret-n79-980-du-13-novembre-1979)
 - [Décret n°79-148 du 15 février 1979](decret-n79-148-du-15-fevrier-1979)
 - [Décret n°79-215 du 15 mars 1979](decret-n79-215-du-15-mars-1979)
 - [Décret n°79-35 du 15 janvier 1979](decret-n79-35-du-15-janvier-1979)
