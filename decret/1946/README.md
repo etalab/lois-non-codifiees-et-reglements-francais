@@ -17,6 +17,5 @@
 - [Décret n°46-2390 du 23 octobre 1946](decret-n46-2390-du-23-octobre-1946)
 - [Décret n°46-2663 du 27 novembre 1946](decret-n46-2663-du-27-novembre-1946)
 - [Décret n°46-2935 du 28 décembre 1946](decret-n46-2935-du-28-decembre-1946)
-- [Décret n°46-1246 du 28 mai 1946](decret-n46-1246-du-28-mai-1946)
 - [Décret n°46-1247 du 28 mai 1946](decret-n46-1247-du-28-mai-1946)
 - [Décret n°46-1574 du 30 juin 1946](decret-n46-1574-du-30-juin-1946)
