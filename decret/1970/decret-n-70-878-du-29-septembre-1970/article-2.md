@@ -1,6 +1,6 @@
 # Article 2
 
-Le commissariat à l'énergie atomique exerce, en se conformant aux directives fixées par le Gouvernement en vue de l'utilisation de l'énergie atomique dans les divers domaines de la science, de l'industrie et de la défense nationale, les missions suivantes :
+Le commissariat à l'énergie atomique exerce, en vue de l'utilisation de l'énergie nucléaire dans les domaines de la science, de l'industrie et de la défense, conformément aux directives du Gouvernement précisées par un comité de l'énergie atomique, les missions suivantes :
 
 Il poursuit les recherches scientifiques et techniques nécessaires ;
 
@@ -21,3 +21,5 @@ Il suit l'évolution scientifique, technique et économique à l'étranger se ra
 Le commissariat à l'énergie atomique peut également, dans les limites fixées par le Gouvernement, prolonger certaines de ces activités de recherche et de développement dans des domaines non nucléaires soit à des fins économiques, soit en vue de participer à des programmes d'intérêt général.
 
 Il peut dans les mêmes limites exercer des activités dans le domaine des substances minérales ou fossiles définies à l'article 2 du code minier autres que les hydrocarbures liquides ou gazeux.
+
+En outre, au titre de ses diverses activités, le commissariat à l'énergie atomique, en liaison avec les autorités régionales, contribue au développement technologique dans les régions, mène une politique de valorisation tendant à faire bénéficier l'industrie du résultat de ses travaux, développe la diffusion de l'information scientifique et technologique, apporte son concours à la politique de formation à la recherche et par la recherche.
