@@ -1,7 +1,3 @@
 # Article 2
 
-Le taux de conversion de l'Ecu en francs français pour les échanges en vigueur au 15 novembre 1982 est de :
-
-6,371 74 F pour un Ecu pour le secteur de la viande de porc ;
-
-6,195 64 F pour un Ecu pour les secteurs de la viande bovine, de la viande ovine et de la viande de volaille.
+En application des dispositions des décrets n° 82-389 (art. 17) et 82-390 (art. 16) du 10 mai 1982 susvisés, le   préfet de région peut donner délégation de signature en ce qui concerne sa compétence d'ordonnateur secondaire du budget du ministère de la formation professionnelle au délégué régional à la formation professionnelle en ce qui concerne l'exécution des recettes et des dépenses du service de la délégation régionale à la formation professionnelle, et notamment pour l'utilisation des crédits de formation professionnelle inscrits au budget des services généraux du Premier ministre.

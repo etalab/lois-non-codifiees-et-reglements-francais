@@ -1,11 +1,9 @@
 # Article 1
 
-Les prix directeurs de campagne en vigueur au 15 novembre 1982 sont les suivants :
+En application des dispositions des décrets n° 82-389 (art. 15) et 82-390 (art. 14) du 10 mai 1982 susvisés :
 
-Prix d'orientation des gros bovins : 191,87 Ecus pour 100 kilogrammes poids vif, soit 3,553 1 Ecus par kilogramme net ;
+Le   préfet de région est ordonnateur secondaire du budget du ministère de la formation professionnelle pour les recettes et les dépenses relatives à l'activité de la délégation régionale à la formation professionnelle ;
 
-Prix de base, pour la viande ovine : 4,098 2 Ecus par kilogramme ;
+Le   préfet de région est ordonnateur secondaire du budget du ministère de la formation professionnelle pour les opérations de conventionnement exécutées à l'échelon de la région ;
 
-Prix de base du porc abattu de la qualité type : 1,946 8 Ecu par kilogramme net ;
-
-Prix d'écluse communautaire et prélèvements pour le poulet éviscéré avec abats, respectivement 1,088 1 Ecu et 0,318 0 Ecu par kilogramme net.
+Le   préfet de département est ordonnateur secondaire du budget du ministère de la formation professionnelle pour les opérations de conventionnement exécutées à l'échelon du département.

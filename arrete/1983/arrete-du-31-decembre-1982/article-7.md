@@ -1,3 +1,5 @@
 # Article 7
 
-Le directeur du budget, le directeur général des impôts, le directeur de la comptabilité publique, le chef du service juridique et technique de l'information et le président du conseil d'administration sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Il est statué hors de la présence de l'inculpé et de son défenseur.
+
+Hors le cas prévu au dernier alinéa de l'article 5 ci-dessus, l'avis de la commission n'est valable que si trois membres au moins ont participé à la délibération. L'avis est émis à la majorité des voix et, en cas de partage, celle du président est prépondérante.
