@@ -1,3 +1,0 @@
-# Article 11
-
-Un conseil de l'inspection générale des affaires sociales est placé auprès du chef du service. Ses membres sont désignés par le chef du service parmi les membres du corps de l'inspection générale pour une durée d'un an renouvelable. La composition, les conditions de désignation et les modalités de fonctionnement du conseil sont précisées par note de service. Le conseil est réuni tous les mois par le chef du service. Il est consulté sur tous points jugés utiles au bon fonctionnement du service, notamment sur le programme d'activité et sur le rapport annuel. Le ou les adjoints assistent aux séances du conseil. Les coordonnateurs d'un domaine opérationnel et les responsables d'une mission fonctionnelle peuvent être associés aux réunions du conseil.

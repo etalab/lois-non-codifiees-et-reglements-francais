@@ -445,7 +445,6 @@
 - [Arrêté du 22 novembre 2001 (JUSB0110505A)](arrete-du-22-novembre-2001-jusb0110505a)
 - [Arrêté du 22 novembre 2001 (MENF0102611A)](arrete-du-22-novembre-2001-menf0102611a)
 - [Arrêté du 22 octobre 2001 (MESP0123806A)](arrete-du-22-octobre-2001-mesp0123806a)
-- [Arrêté du 23 août 2001 (AGRG0101210A)](arrete-du-23-aout-2001-agrg0101210a)
 - [Arrêté du 23 avril 2001 (EQUU0100132A)](arrete-du-23-avril-2001-equu0100132a)
 - [Arrêté du 23 février 2001 (AGRA0100408A)](arrete-du-23-fevrier-2001-agra0100408a)
 - [Arrêté du 23 février 2001 (ATEE0100046A)](arrete-du-23-fevrier-2001-atee0100046a)

@@ -1105,7 +1105,6 @@
 - [Arrêté du 30 juin 1993 (SPSG9301866A)](arrete-du-30-juin-1993-spsg9301866a)
 - [Arrêté du 30 juin 1993 (SPSG9301867A)](arrete-du-30-juin-1993-spsg9301867a)
 - [Arrêté du 30 novembre 1993 (MJSK9370219A)](arrete-du-30-novembre-1993-mjsk9370219a)
-- [Arrêté du 30 octobre 1992 (TEFC9205394A)](arrete-du-30-octobre-1992-tefc9205394a)
 - [Arrêté du 30 octobre 1993 (INDB9300584A)](arrete-du-30-octobre-1993-indb9300584a)
 - [Arrêté du 30 septembre 1993 (AGRG9301854A)](arrete-du-30-septembre-1993-agrg9301854a)
 - [Arrêté du 30 septembre 1993 (BUDD9370020A)](arrete-du-30-septembre-1993-budd9370020a)
