@@ -4,3 +4,4 @@
 - [Titre II : Les commissions d'équipement commercial](titre-ii)
 - [Titre III : Communication des contrats.](titre-iii)
 - [Titre IV : Dispositions diverses.](titre-iv)
+- [Article 42](article-42.md)

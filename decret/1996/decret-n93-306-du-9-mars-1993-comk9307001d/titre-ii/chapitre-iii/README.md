@@ -1,5 +1,10 @@
-# Chapitre III : La commission nationale d'équipement commercial.
+# Chapitre III : Les autorisations.
 
+- [Article 18-1](article-18-1.md)
+- [Article 18-2](article-18-2.md)
+- [Article 18-3](article-18-3.md)
+- [Article 18-4](article-18-4.md)
+- [Article 18-5](article-18-5.md)
 - [Article 24](article-24.md)
 - [Article 25](article-25.md)
 - [Article 26](article-26.md)
