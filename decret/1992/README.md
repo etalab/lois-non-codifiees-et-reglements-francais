@@ -5,7 +5,6 @@
 - [Décret n°92-1060 du 1 octobre 1992 (RESY9200332D)](decret-n92-1060-du-1-octobre-1992-resy9200332d)
 - [Décret n°92-1062 du 1 octobre 1992 (MENF9203188D)](decret-n92-1062-du-1-octobre-1992-menf9203188d)
 - [Décret n°92-1064 du 1 octobre 1992 (TEFE9205283D)](decret-n92-1064-du-1-octobre-1992-tefe9205283d)
-- [Décret n°92-1073 du 1 octobre 1992 (AGRS9201596D)](decret-n92-1073-du-1-octobre-1992-agrs9201596d)
 - [Décret n°92-1089 du 1 octobre 1992 (MERR9200022D)](decret-n92-1089-du-1-octobre-1992-merr9200022d)
 - [Décret n°92-1249 du 1 décembre 1992 (DEFP9201985D)](decret-n92-1249-du-1-decembre-1992-defp9201985d)
 - [Décret n°92-1250 du 1 décembre 1992 (DEFP9201986D)](decret-n92-1250-du-1-decembre-1992-defp9201986d)
