@@ -14,7 +14,7 @@ Pour l'ensemble des usages, ce taux est réduit de 50 % pour la fraction de la s
 
 Le nombre d'habitants de chaque commune est déterminé par le dernier recensement disponible de l'Institut national de la statistique et des études économiques.
 
-B. - Pour les ouvrages autres que les ouvrages hydroélectriques autorisés au titre de la loi du 16 octobre 1919 susvisée, le taux de base mentionné au b du II du même article 124 est fixé à 2,13 centimes par mètre cube prélevable ou rejetable.
+B. - Pour les ouvrages autres que les ouvrages hydroélectriques autorisés au titre de la loi du 16 octobre 1919 susvisée, le taux de base mentionné au b du II du même article 124 est fixé à 0,325 centimes d'euros par mètre cube prélevable ou rejetable.
 
 Le volume prélevable ou rejetable est défini ainsi qu'il suit :
 
@@ -48,6 +48,6 @@ n est l'année d'application du coefficient a ;
 
 n - 1 est l'année de prise en compte des indices I et E.
 
-Le coefficient an n'est appliqué que s'il est supérieur à 1, si son application conduit à une augmentation au moins égale à 0,01 centime du taux de base mentionné au B ci-dessus et s'il ne conduit pas à un dépassement des plafonds fixés au II de l'article 124 de la loi de finances pour 1991 susvisée.
+Le coefficient an n'est appliqué que s'il est supérieur à 1, si son application conduit à une augmentation au moins égale à 0,0015 centime d'euro du taux de base mentionné au B ci-dessus et s'il ne conduit pas à un dépassement des plafonds fixés au II de l'article 124 de la loi de finances pour 1991 susvisée.
 
 Avant la fin de l'année précédente, les nouveaux taux de base résultant de l'application du coefficient multiplicateur sont constatés par arrêté du ministre chargé des voies navigables.
