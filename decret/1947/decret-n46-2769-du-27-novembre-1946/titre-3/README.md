@@ -1,3 +1,5 @@
-# titre 3 : Organisation technique
+# Titre 3 : Organisation financière
 
-- [chapitre 2 : Unions régionales de sociétés de secours minières.](chapitre-2)
+- [Chapitre 1er : Cotisations](chapitre-1er)
+- [Chapitre 2 : Gestion des risques](chapitre-2)
+- [Chapitre 5 : Gestion financière](chapitre-5)
