@@ -163,7 +163,6 @@
 - [Décret n°94-118 du 8 février 1994 (ECOP9300651D)](decret-n94-118-du-8-fevrier-1994-ecop9300651d)
 - [Décret n°95-138 du 8 février 1995 (DEFP9402106D)](decret-n95-138-du-8-fevrier-1995-defp9402106d)
 - [Décret n°95-139 du 8 février 1995 (DEFP9402107D)](decret-n95-139-du-8-fevrier-1995-defp9402107d)
-- [Décret n°89-158 du 9 mars 1989 (ECOT8926024D)](decret-n89-158-du-9-mars-1989-ecot8926024d)
 - [Décret n°93-1000 du 9 août 1993 (DOMP9300023D)](decret-n93-1000-du-9-aout-1993-domp9300023d)
 - [Décret n°93-1058 du 9 septembre 1993 (DOMP9300028D)](decret-n93-1058-du-9-septembre-1993-domp9300028d)
 - [Décret n°93-1060 du 9 septembre 1993 (JUSC9320652D)](decret-n93-1060-du-9-septembre-1993-jusc9320652d)

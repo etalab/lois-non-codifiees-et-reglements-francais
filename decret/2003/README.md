@@ -352,7 +352,6 @@
 - [Décret n°2003-916 du 19 septembre 2003 (DEFP0301982D)](decret-n2003-916-du-19-septembre-2003-defp0301982d)
 - [Décret n°2003-917 du 19 septembre 2003 (DEFP0301904D)](decret-n2003-917-du-19-septembre-2003-defp0301904d)
 - [Décret n°2003-919 du 19 septembre 2003 (MENF0300961D)](decret-n2003-919-du-19-septembre-2003-menf0300961d)
-- [Décret n°50-446 du 19 avril 1950](decret-n50-446-du-19-avril-1950)
 - [Décret n°2003-446 du 19 mai 2003 (MCCX0300037D)](decret-n2003-446-du-19-mai-2003-mccx0300037d)
 - [Décret n°2003-447 du 19 mai 2003 (MCCB0300140D)](decret-n2003-447-du-19-mai-2003-mccb0300140d)
 - [Décret n°2003-451 du 19 mai 2003 (DEFD0301298D)](decret-n2003-451-du-19-mai-2003-defd0301298d)

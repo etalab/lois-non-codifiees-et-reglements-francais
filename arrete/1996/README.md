@@ -828,7 +828,6 @@
 - [Arrêté du 22 juillet 1996 (INDD9600540A)](arrete-du-22-juillet-1996-indd9600540a)
 - [Arrêté du 22 juillet 1996 (INTC9600337A)](arrete-du-22-juillet-1996-intc9600337a)
 - [Arrêté du 22 juillet 1996 (INTC9600356A)](arrete-du-22-juillet-1996-intc9600356a)
-- [Arrêté du 22 juillet 1996 (MENY9602081A)](arrete-du-22-juillet-1996-meny9602081a)
 - [Arrêté du 22 juillet 1996 (TASH9622803A)](arrete-du-22-juillet-1996-tash9622803a)
 - [Arrêté du 22 juillet 1996 (TASP9622778A)](arrete-du-22-juillet-1996-tasp9622778a)
 - [Arrêté du 22 mars 1996 (AGRM9600651A)](arrete-du-22-mars-1996-agrm9600651a)
