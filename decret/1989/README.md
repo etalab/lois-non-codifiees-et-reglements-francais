@@ -59,7 +59,6 @@
 - [Décret n°89-69 du 4 février 1989 (PRMG8970046D)](decret-n89-69-du-4-fevrier-1989-prmg8970046d)
 - [Décret n°89-875 du 4 décembre 1989 (MENF8902751D)](decret-n89-875-du-4-decembre-1989-menf8902751d)
 - [Décret n°90-379 du 4 mai 1990 (MCCB9000209D)](decret-n90-379-du-4-mai-1990-mccb9000209d)
-- [Décret n°89-352 du 5 juin 1989 (PTTR8900510D)](decret-n89-352-du-5-juin-1989-pttr8900510d)
 - [Décret n°89-353 du 5 juin 1989 (BUDF8910028D)](decret-n89-353-du-5-juin-1989-budf8910028d)
 - [Décret n°89-366 du 5 juin 1989 (MAEJ8930050D)](decret-n89-366-du-5-juin-1989-maej8930050d)
 - [Décret n°89-367 du 5 juin 1989 (MAEJ8930054D)](decret-n89-367-du-5-juin-1989-maej8930054d)
