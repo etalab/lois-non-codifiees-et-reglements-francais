@@ -6,7 +6,7 @@ Deux magistrats de l'ordre judiciaire, désignés par le premier président de l
 
 Un membre de la juridiction administrative désigné par le président du tribunal administratif.
 
-Elle est assistée d'un représentant du service public de télévision et de radiodiffusion dans la région et de trois fonctionnaires désignés respectivement par :
+Elle est assistée de trois fonctionnaires :
 
 Le commissaire de la République de région ;
 

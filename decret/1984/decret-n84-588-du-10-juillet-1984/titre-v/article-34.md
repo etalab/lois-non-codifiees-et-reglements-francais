@@ -1,0 +1,3 @@
+# Article 34
+
+Les membres des conseils d'administration des instituts régionaux d'administration et de la commission nationale consultative peuvent se faire rembourser les frais de séjour et de déplacement exposés à l'occasion des réunions de ces organismes, dans les conditions prévues par le décret n° 66-619 du 10 août 1966 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements des personnels civils sur le territoire métropolitain de la France lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de certains organismes subventionnés.
