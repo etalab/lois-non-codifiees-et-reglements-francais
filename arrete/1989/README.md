@@ -267,7 +267,6 @@
 - [Arrêté du 15 décembre 1988 (ECOC8800122A)](arrete-du-15-decembre-1988-ecoc8800122a)
 - [Arrêté du 15 décembre 1988 (TEFT8804184A)](arrete-du-15-decembre-1988-teft8804184a)
 - [Arrêté du 15 février 1989 (MCCK8900087A)](arrete-du-15-fevrier-1989-mcck8900087a)
-- [Arrêté du 15 février 1989 (MERP8900034A)](arrete-du-15-fevrier-1989-merp8900034a)
 - [Arrêté du 15 février 1989 (SPSG8900331A)](arrete-du-15-fevrier-1989-spsg8900331a)
 - [Arrêté du 15 février 1989 (TRSA8900138A)](arrete-du-15-fevrier-1989-trsa8900138a)
 - [Arrêté du 15 juin 1989 (INDD8900457A)](arrete-du-15-juin-1989-indd8900457a)
