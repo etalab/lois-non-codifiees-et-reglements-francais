@@ -25,6 +25,7 @@
 - [Décret n°93-26 du 8 janvier 1993 (PRMX9200256D)](decret-n93-26-du-8-janvier-1993-prmx9200256d)
 - [Décret n°93-28 du 8 janvier 1993 (INDX9300008D)](decret-n93-28-du-8-janvier-1993-indx9300008d)
 - [Décret n°93-31 du 8 janvier 1993 (VILX9200253D)](decret-n93-31-du-8-janvier-1993-vilx9200253d)
+- [Décret n°93-32 du 8 janvier 1993 (PTTS9200520D)](decret-n93-32-du-8-janvier-1993-ptts9200520d)
 - [Décret n°93-33 du 8 janvier 1993 (MERP9200054D)](decret-n93-33-du-8-janvier-1993-merp9200054d)
 - [Décret n°93-1082 du 9 septembre 1993 (JUSF9350045D)](decret-n93-1082-du-9-septembre-1993-jusf9350045d)
 - [Décret n°93-1083 du 9 septembre 1993 (JUSF9350046D)](decret-n93-1083-du-9-septembre-1993-jusf9350046d)
