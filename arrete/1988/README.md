@@ -144,6 +144,7 @@
 - [Arrêté du 20 janvier 1988 (ECOT8813057A)](arrete-du-20-janvier-1988-ecot8813057a)
 - [Arrêté du 21 décembre 1987 (STFP8800011A)](arrete-du-21-decembre-1987-stfp8800011a)
 - [Arrêté du 21 janvier 1988 (MCCC8800040A)](arrete-du-21-janvier-1988-mccc8800040a)
+- [Arrêté du 21 mars 1988 (ASEE8803272A)](arrete-du-21-mars-1988-asee8803272a)
 - [Arrêté du 22 décembre 1987 (ASES8701910A)](arrete-du-22-decembre-1987-ases8701910a)
 - [Arrêté du 22 février 1988 (ASEP8800280A)](arrete-du-22-fevrier-1988-asep8800280a)
 - [Arrêté du 22 février 1988 (PTTT8800183A)](arrete-du-22-fevrier-1988-pttt8800183a)
