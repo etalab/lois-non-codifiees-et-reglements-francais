@@ -253,3 +253,29 @@ Industrie.
 Petites et moyennes entreprises.
 
 Recherche.
+
+NOM DE LA SOCIETE
+
+Thomson Multimédia
+
+NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
+
+5
+
+REPARTITION PAR MINISTERE
+
+Economie (x 3).
+
+Industrie (x 2).
+
+NOM DE LA SOCIETE
+
+SNCF Participations
+
+NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
+
+2
+
+REPARTITION PAR MINISTERE
+
+Transports (x 2).
