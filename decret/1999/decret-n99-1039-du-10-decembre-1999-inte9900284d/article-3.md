@@ -1,0 +1,5 @@
+# Article 3
+
+Les actes relatifs à la gestion administrative des sapeurs-pompiers volontaires relevant du corps départemental autres que ceux visés aux articles 23 et 27, aux deuxième, troisième et quatrième alinéas de l'article 52 et à l'article 60 du présent décret, à l'article L. 1424-10 du code général des collectivités territoriales et à l'article 21 du décret du 26 décembre 1997 susvisé sont pris sous la forme d'un arrêté du président du conseil d'administration du service départemental d'incendie et de secours.
+
+Les actes relatifs à la gestion administrative des sapeurs-pompiers volontaires relevant d'un corps communal ou intercommunal autres que ceux visés aux articles 23 et 27, aux deuxième, troisième et quatrième alinéas de l'article 52 et à l'article 60 du présent décret, à l'article L. 1424-11 du code général des collectivités territoriales et à l'article 35 du décret du 26 décembre 1997 précité sont pris sous la forme d'un arrêté du maire de la commune ou du président de l'établissement public de coopération intercommunale.
