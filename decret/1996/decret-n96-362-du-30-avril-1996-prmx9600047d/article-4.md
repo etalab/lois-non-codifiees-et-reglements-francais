@@ -1,0 +1,3 @@
+# Article 4
+
+Pour l'accomplissement de sa mission, la mission peut solliciter le concours des services des ministres chargés de l'outre-mer, de l'éducation nationale, de l'enseignement supérieur, de la recherche, de l'équipement, du logement, des transports, du tourisme, du travail, des affaires sociales, de l'intérieur, de l'économie et des finances, de la culture, de l'industrie, de la poste et des télécommunications, de l'agriculture, de la pêche, de l'alimentation, de l'aménagement du territoire, de la ville, de l'intégration, des petites et moyennes entreprises, du commerce et de l'artisanat.

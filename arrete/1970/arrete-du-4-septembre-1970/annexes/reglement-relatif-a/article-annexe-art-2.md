@@ -6,51 +6,53 @@ Le médecin spécialiste exerce exclusivement la discipline pour laquelle il a �
 
 Ces disciplines, qui peuvent être groupées sous le nom de spécialités avec exercice exclusif, sont :
 
-L'anatomie et cytologie pathologiques humaines ;
+- L'anatomie et cytologie pathologiques humaines ;
 
-L'anesthésie-réanimation ;
+- L'anesthésie-réanimation ;
 
-La biologie médicale ;
+- La biologie médicale ;
 
-La cardiologie et la médecine des affections vasculaires ;
+- La cardiologie et la médecine des affections vasculaires ;
 
-La chirurgie générale ;
+- La chirurgie générale ;
 
-La chirurgie orthopédique ;
+- La chirurgie orthopédique ;
 
-La dermato-vénéréologie ;
+- La dermato-vénéréologie ;
 
-L'endocrinologie et maladies métaboliques ;
+- L'endocrinologie et maladies métaboliques ;
 
-La gynécologie-obstétrique ;
+- La génétique médicale ;
 
-Les maladies de l'appareil digestif ;
+- La gynécologie-obstétrique ;
 
-La médecine interne ;
+- Les maladies de l'appareil digestif ;
 
-La néphrologie ;
+- La médecine interne ;
 
-La neuro-chirurgie ;
+- La néphrologie ;
 
-La neurologie ;
+- La neuro-chirurgie ;
 
-L'ophtalmologie ;
+- La neurologie ;
 
-L'oto-rhino-laryngologie ;
+- L'ophtalmologie ;
 
-La pédiatrie ;
+- L'oto-rhino-laryngologie ;
 
-La pneumologie ;
+- La pédiatrie ;
 
-La psychiatrie (avec éventuellement une option psychiatrie de l'enfant et de l'adolescent) ;
+- La pneumologie ;
 
-La radiologie avec deux options : Radiodiagnostic et Radiothérapie ;
+- La psychiatrie (avec éventuellement une option psychiatrie de l'enfant et de l'adolescent) ;
 
-La rééducation et réadaptation fonctionnelles ;
+- La radiologie avec deux options : Radiodiagnostic et Radiothérapie ;
 
-La rhumatologie ;
+- La rééducation et réadaptation fonctionnelles ;
 
-La stomatologie.
+- La rhumatologie ;
+
+- La stomatologie.
 
 Toutefois, la neurologie et la psychiatrie peuvent être exercées simultanément. Il en est de même pour le radiodiagnostic et la radiothérapie.
 

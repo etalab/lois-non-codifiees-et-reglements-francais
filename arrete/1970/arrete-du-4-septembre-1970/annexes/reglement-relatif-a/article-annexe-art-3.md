@@ -1,6 +1,6 @@
 # Article ANNEXE art. 3
 
-Est considéré comme médecin compétent qualifié [*définition*] tout docteur en médecine qui possède, dans une des disciplines énumérées au présent article, un certificat d'études spéciales lorsqu'un enseignement a été institué. A défaut de la possession de ce certificat, peuvent être prises en considération des connaissances particulières qui seront appréciées dans les conditions prévues au présent règlement.
+Est considéré comme médecin compétent qualifié tout docteur en médecine qui possède, dans une des disciplines énumérées au présent article, un certificat d'études spéciales lorsqu'un enseignement a été institué. A défaut de la possession de ce certificat, peuvent être prises en considération des connaissances particulières qui seront appréciées dans les conditions prévues au présent règlement.
 
 1° Selon que la discipline est exercée exclusivement ou non, elle est considérée comme spécialité ou compétence. C'est le cas pour :
 
@@ -47,8 +47,6 @@ La cancérologie ;
 La diabétologie-nutrition ;
 
 L'endocrinologie ;
-
-La génétique médicale ;
 
 L'hémobiologie ;
 
@@ -144,10 +142,34 @@ L'exercice de cette compétence est limitée à la discipline dans laquelle le p
 
 6° L'exercice de la médecine interne par un praticien qualifié dans cette discipline peut être assorti d'une ou deux compétences préférentielles concernant telle ou telle discipline actuellement reconnue dans le cadre de la pathologie interne.
 
-7° L'anatomie et cytologie pathologiques humaines, en tant que compétence, peut être exercée simultanément avec toute autre discipline.
+7° L'anatomie et cytologie pathologiques humaines et la génétique médicale, en tant que compétences, peuvent être exercées simultanément avec toute autre discipline.
 
 8° La discipline endocrinologie et maladies métaboliques peut être exercée en tant que compétence simultanément avec une autre compétence, avec la médecine générale, la médecine interne ou les maladies de l'appareil digestif.
 
-9° La génétique médicale, la médecine légale, la médecine exotique et la médecine thermale et climatologie médicale peuvent être exercées simultanément avec toute autre discipline.
+9° La médecine légale, la médecine exotique et la médecine thermale et climatologie médicale peuvent être exercées simultanément avec toute autre discipline.
 
 Lors de leur demande d'inscription sur les listes des médecins qualifiés en médecine générale ou des médecins spécialistes, les ressortissants des Etats membres de la Communauté européenne doivent communiquer, notamment, leur diplôme, certificat ou autre titre de médecin qualifié en médecine générale ou de médecin spécialiste, accompagné d'une attestation délivrée par les autorités compétentes du pays d'origine ou de provenance certifiant que le bénéficiaire a rempli toutes les conditions de formation prévues par les obligations communautaires.
+
+11° Les compétences pouvant être exercées avec la spécialité de génétique médicale sont les suivantes :
+
+- anatomie et cytologie pathologiques humaines ;
+
+- chirurgie pédiatrique ;
+
+- endocrinologie et maladie métaboliques ;
+
+- gynécologie médicale ;
+
+- maladies du sang ;
+
+- médecine légale ;
+
+- médecine du travail ;
+
+- médecine exotique ;
+
+- médecine thermale et climatologie médicale ;
+
+- obstétrique ;
+
+- pédiatrie.
