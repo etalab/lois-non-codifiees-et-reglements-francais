@@ -24,4 +24,10 @@ Emploi comportant la mise en oeuvre d'une technicité particulière en matière 
 
 Emploi afférent à la gestion des marchés ;
 
-Emploi spécialisé impliquant l'utilisation de matériels et de documentations spécifiques.
+Emploi spécialisé impliquant l'utilisation de matériels et de documentations spécifiques ;
+
+Emploi comportant des fonctions d'analyste-programmeur ;
+
+Personnels de santé dont l'emploi comporte des fonctions d'encadrement ou d'animation ;
+
+Conseillers techniques et assistantes sociales exerçant des fonctions de coordination.
