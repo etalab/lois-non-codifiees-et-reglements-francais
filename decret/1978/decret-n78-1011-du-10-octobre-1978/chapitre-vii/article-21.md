@@ -1,3 +1,3 @@
 # Article 21
 
-Les dispositions des articles 91 à 97, 104 et 105 du décret susvisé du 5 décembre 1968 modifié sont applicables aux décision, notification et délais prévus au présent décret.
+Les dispositions des articles 120, 121 et 122 du décret n° 79-822 du 19 septembre 1979 et le décret n° 92-251 du 17 mars 1992 sont applicables aux décisions, notifications et délais prévus au présent décret.

@@ -14,6 +14,4 @@ c) Le cas échéant, l'indication que la publicité du dépôt doit être diffé
 
 3° La justification du paiement des redevances prescrites ;
 
-4° S'il est constitué un mandataire, le pouvoir de ce dernier.
-
-Un même dépôt ne peut porter sur plus de cent reproductions de dessins ou modèles.
+4° S'il est constitué un mandataire, le pouvoir de ce dernier, à moins qu'il n'ait la qualité de conseil en propriété industrielle.

@@ -4,7 +4,7 @@ Le dépôt peut être prorogé pour une période de vingt-cinq ans s'ajoutant à
 
 La déclaration doit, à peine d'irrecevabilité :
 
-a) Etre présentée par l'intéressé ou son mandataire justifiant d'un pouvoir au cours des six derniers mois qui précèdent l'expiration de la première période de protection ;
+a) Etre présentée au cours des six derniers mois qui précèdent l'expiration de la première période de protection, par l'intéressé ou son mandataire, lequel doit joindre un pouvoir à moins qu'il n'ait la qualité de conseil en propriété industrielle.
 
 b) Comporter l'identification du titulaire et celle du dépôt à renouveler ;
 

@@ -1,8 +1,8 @@
 # Article 29
 
-La demande de brevet peut être retirée à tout moment, avant la date de délivrance du brevet, par une déclaration écrite.
+La demande de brevet peut être retirée à tout moment, par une déclaration écrite jusqu'au paiement de la redevance de délivrance et d'impression du fascicule du brevet.
 
-Cette déclaration ne peut viser qu'une seule demande, Elle est formulée par le demandeur ou par un mandataire. Dans ce dernier cas, un pouvoir spécial de retrait doit être joint à la déclaration.
+Cette déclaration ne peut viser qu'une seule demande. Elle est formulée par le demandeur ou par un mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle, doit joindre à la déclaration un pouvoir spécial de retrait.
 
 Si la demande de brevet a été déposée aux noms de plusieurs personnes, son retrait ne peut être effectué que s'il est requis par l'ensemble de celles-ci.
 

@@ -1,3 +1,11 @@
 # Article 79
 
-Les décisions judiciaires passées en force de chose jugée et prononçant la nullité d'un brevet dans les conditions prévues à l'article 50 bis de la loi précitée sont inscrites sans frais au registre national des brevets sur réquisition du greffier ou sur requête d'une des parties à l'instance.
+Les changements de nom, de forme juridique, d'adresse et les rectifications d'erreurs matérielles sont inscrits à la demande du titulaire de la demande de brevet ou du brevet. Toutefois, lorsque ces changements et rectifications portent sur un acte précédemment inscrit, la demande peut être présentée par toute partie à l'acte.    La demande comprend :
+
+a) Un bordereau de demande d'inscription ;
+
+b) La justification du changement intervenu ou de la réalité de l'erreur matérielle à rectifier ;
+
+c) La justification du paiement de la redevance prescrite ;
+
+d) S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle.

@@ -1,3 +1,3 @@
 # Article 26
 
-Jusqu'à la date de délivrance du brevet le déposant peut, de sa propre initiative, procéder au dépôt de demandes divisionnaires de sa demande de brevet initiale.
+Jusqu'au paiement de la redevance de délivrance et d'impression du fascicule du brevet le déposant peut, de sa propre initiative, procéder au dépôt de demandes divisionnaires de sa demande de brevet initiale.

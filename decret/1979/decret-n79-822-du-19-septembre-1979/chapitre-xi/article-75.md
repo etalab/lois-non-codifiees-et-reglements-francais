@@ -1,5 +1,13 @@
 # Article 75
 
-Le registre national des brevets contient, pour chaque demande de brevet ou brevet [*contenu - mentions obligatoires*], les nom et adresse du demandeur, les indications nécessaires à l'identification de la demande ou du brevet, les dates de dépôt, de publication, de délivrance ou de rejet, ainsi que les inscriptions prévues par le présent décret.
+Le Registre national des brevets est tenu par l'Institut national de la propriété industrielle.
 
-Les nom et adresse du demandeur et les indications nécessaires à l'identification de la demande de brevet sont inscrits d'office au registre national des brevets après que la demande de brevet a été rendue publique dans les conditions prévues à l'article 30 ; aucune inscription ne peut être portée au registre avant cette publication.
+Y figurent, pour chaque demande de brevet ou brevet :
+
+a) L'identification du demandeur et les références de la demande de brevet ou du brevet ainsi que les actes ultérieurs en affectant l'existence ou la portée ;
+
+b) Les actes modifiant la propriété de la demande de brevet ou du brevet ou la jouissance des droits qui lui sont attachés ; en cas de revendication de propriété : l'assignation correspondante ainsi que la suspension et la reprise de la procédure de délivrance ;
+
+c) Les changements de nom, de forme juridique ou d'adresse ainsi que les rectifications d'erreurs matérielles affectant les inscriptions.
+
+Aucune inscription n'est portée au registre tant que la demande de brevet n'est pas rendue publique dans les conditions prévues à l'article 30 du présent décret.

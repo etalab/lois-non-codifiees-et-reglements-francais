@@ -6,4 +6,4 @@ Les personnes n'ayant pas leur domicile ou leur siège en France doivent, dans l
 
 En cas de pluralité de déposants, un mandataire commun satisfaisant aux mêmes conditions doit être constitué.
 
-Le mandataire doit justifier d'un pouvoir [*pièce justificative*]. Sauf stipulation contraire, ce pouvoir s'étend à tous les actes et à la réception de toutes les notifications prévues au présent décret, à l'exception des cas prévus à ses articles 19 et 21.
+Sauf lorsqu'il a la qualité de conseil en propriété industrielle, le mandataire doit joindre un pouvoir qui s'étend, sous réserve des dispositions des articles 19 et 21 et sauf stipulation contraire, à tous les actes et à la réception de toutes les notifications prévues au présent décret. Le pouvoir est dispensé de légalisation.

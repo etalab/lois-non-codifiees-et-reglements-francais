@@ -10,6 +10,6 @@ b) Si le droit de propriété ou de copropriété du requérant n'a pas été in
 
 c) S'il résulte du registre national des brevets qu'une licence exclusive a été consentie.
 
-La décision du directeur de l'Institut national de la propriété industrielle est notifiée au requérant.
+La décision du directeur général de l'Institut national de la propriété industrielle est notifiée au requérant.
 
 Si la demande du requérant est accueillie, la décision est inscrite au registre national des brevets et publiée au Bulletin officiel de la propriété industrielle. Il lui est donné toute publicité complémentaire décidée par le directeur de l'Institut national de la propriété industrielle.

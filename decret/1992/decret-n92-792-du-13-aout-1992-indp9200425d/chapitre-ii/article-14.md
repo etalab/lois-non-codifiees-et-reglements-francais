@@ -12,4 +12,4 @@ c) Une reproduction de l'acte susmentionné lorsque le demandeur entend que l'or
 
 d) La justification du montant de la redevance prescrite ;
 
-e) S'il y a lieu, le pouvoir du mandataire.
+e) S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle.

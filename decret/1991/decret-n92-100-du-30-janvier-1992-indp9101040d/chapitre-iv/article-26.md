@@ -2,7 +2,7 @@
 
 Les actes modifiant la propriété d'une marque ou la jouissance des droits qui lui sont attachés, tels que cession, concession d'un droit d'exploitation, constitution ou cession d'un droit de gage ou renonciation à ce dernier, saisie, validation et mainlevée de saisie, sont inscrits à la demande de l'une des parties à l'acte.
 
-La demande comprend [*contenu*] :
+La demande comprend :
 
 a) Un bordereau de demande d'inscription ;
 
@@ -12,4 +12,4 @@ c) Une reproduction de l'acte susmentionné lorsque le demandeur entend que l'or
 
 d) La justification du paiement de la redevance prescrite ;
 
-e) S'il y a lieu, le pouvoir du mandataire.
+e) S'il y a lieu, le pouvoir du mandataire à moins que celui-ci n'ait la qualité de conseil en propriété industrielle.

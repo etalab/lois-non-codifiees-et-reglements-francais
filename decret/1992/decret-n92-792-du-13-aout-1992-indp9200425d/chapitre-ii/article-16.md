@@ -10,4 +10,4 @@ b) La justification du changement intervenu ou de la réalité de l'erreur maté
 
 c) La justification du paiement de la redevance prescrite ;
 
-d) S'il y a lieu, le pouvoir du mandataire.
+d) S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle.

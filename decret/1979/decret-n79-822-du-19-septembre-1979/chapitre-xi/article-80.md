@@ -1,3 +1,5 @@
 # Article 80
 
-Les changements de nom, de dénomination ou d'adresse ainsi que les rectifications d'erreurs matérielles affectant des inscriptions peuvent être mentionnés au registre national des brevets. Seuls les changements d'adresse sont inscrits sans être subordonnés au dépôt de documents justificatifs [*pièces justificatives*].
+En cas de non-conformité d'une demande d'inscription, notification motivée en est faite au demandeur. Un délai lui est imparti pour régulariser sa demande ou présenter des observations. A défaut de régularisation ou d'observation permettant de lever l'objection, la demande est rejetée par décision du directeur général de l'Institut national de la propriété industrielle.
+
+La notification peut être assortie d'une proposition de régularisation. Dans ce cas, cette proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai qui lui est imparti.
