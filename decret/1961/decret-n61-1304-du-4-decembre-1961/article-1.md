@@ -1,0 +1,3 @@
+# Article 1
+
+En sus de la cotisation du régime de base dont ils sont redevables en application du livre VI, titre V, du code de la sécurité sociale et jusqu'à l'entrée en vigueur des régimes complémentaires mentionnés à l'article 5-I de la loi n° 75-1348 du 31 décembre 1975, les auteurs et compositeurs de musique qui au cours d'une année ont perçu, à ce titre, un montant de redevances de droits d'exécution publique et de droits de reproduction mécanique d'oeuvres littéraires ou musicales non dramatiques au moins égal au minimum fixé par le règlement prévu à l'article 2 du présent décret, sont redevables d'une cotisation destinée à financer un régime d'assurance vieillesse complémentaire fonctionnant entre les personnes susmentionnées.
