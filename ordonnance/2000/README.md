@@ -8,5 +8,6 @@
 - [Ordonnance n° 2000-350 du 19 avril 2000 (INTX0000040R)](ordonnance-n-2000-350-du-19-avril-2000-intx0000040r)
 - [Ordonnance n° 2000-351 du 19 avril 2000 (INTX0000029R)](ordonnance-n-2000-351-du-19-avril-2000-intx0000029r)
 - [Ordonnance n° 2000-370 du 26 avril 2000 (INTX0000045R)](ordonnance-n-2000-370-du-26-avril-2000-intx0000045r)
+- [Ordonnance n° 2000-372 du 26 avril 2000 (INTX0000047R)](ordonnance-n-2000-372-du-26-avril-2000-intx0000047r)
 - [Ordonnance n° 2000-374 du 26 avril 2000 (INTX0000049R)](ordonnance-n-2000-374-du-26-avril-2000-intx0000049r)
 - [Ordonnance n° 2000-285 du 30 mars 2000 (INTX0000025R)](ordonnance-n-2000-285-du-30-mars-2000-intx0000025r)
