@@ -1,0 +1,3 @@
+# Article 2
+
+L'utilisation de produits visés à l'article L. 253-1 du code rural, en particulier d'appâts additionnés de bromadiolone, ou d'appâts prêts à l'emploi à base de bromadiolone, est autorisée pour lutter contre le campagnol terrestre, uniquement dans le cadre d'une lutte telle que prévue à l'article 1er du présent arrêté, dont l'exécution est confiée aux groupements de défense contre les organismes nuisibles et à leurs fédérations agréés conformément aux articles L. 252-1 à L. 252-5 du code rural, sous le contrôle de la direction régionale de l'agriculture et de la forêt, service régional de la protection des végétaux.

@@ -2,7 +2,7 @@
 
 Le bailleur est tenu de remettre au locataire un logement décent ne laissant pas apparaître de risques manifestes pouvant porter atteinte à la sécurité physique ou à la santé et doté des éléments le rendant conforme à l'usage d'habitation.
 
-Les caractéristiques correspondantes sont définies par décret en Conseil d'Etat pour les locaux à usage d'habitation principale ou à usage mixte mentionnés au premier alinéa de l'article 2 et les locaux visés au deuxième alinéa du même article, à l'exception des logements-foyers qui sont soumis à des réglementations spécifiques.
+Les caractéristiques correspondantes sont définies par décret en Conseil d'Etat pour les locaux à usage d'habitation principale ou à usage mixte mentionnés au premier alinéa de l'article 2 et les locaux visés au deuxième alinéa du même article, à l'exception des logements-foyers qui sont soumis à des réglementations spécifiques. Nonobstant toute disposition contraire, ce décret pourra prévoir des dérogations aux caractéristiques de surface ou de volume en cas de location par l'intermédiaire d'une association oeuvrant dans le domaine de l'insertion par le logement et agréée par le préfet ou par l'intermédiaire d'un centre régional des oeuvres universitaires et scolaires.
 
 Le bailleur est obligé :
 

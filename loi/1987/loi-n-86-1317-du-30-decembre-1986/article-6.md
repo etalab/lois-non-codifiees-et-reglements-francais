@@ -24,7 +24,7 @@ Toutefois, pour 1992 et les années suivantes, l'accroissement annuel résultant
 
 L'application de l'alinéa précédent ne peut réduire la compensation perçue par :
 
-a) Les communes qui remplissent, au titre de l'année précédente, les conditions d'éligibilité à la dotation de solidarité urbaine prévue au titre de la loi n° 91-429 du 13 mai 1991 ;
+a) Les communes qui remplissent, au titre de l'année précédente, les conditions d'éligibilité à la dotation de solidarité urbaine et de cohésion sociale prévue au titre de la loi n° 91-429 du 13 mai 1991 ;
 
 b) Les communes qui ont bénéficié, au titre de l'année précédente, d'une attribution du Fonds de solidarité des communes de la région d'Ile-de-France institué par l'article 14 de la loi n° 91-429 du 13 mai 1991 précitée.
 
@@ -38,7 +38,7 @@ En 2004 et en 2005, le taux d'évolution de la dotation instituée au premier al
 
 Pour les années 1999, 2000, 2001 et 2002 toute diminution de cette dotation par rapport au montant de l'année précédente est modulée de telle sorte que supportent une diminution égale à la moitié de la diminution moyenne de la dotation de compensation telle qu'elle résulte de l'application de l'alinéa précédent :
 
-- les communes qui remplissent au titre de l'année précédente les conditions d'éligibilité aux attributions de la dotation de solidarité urbaine instituée par l'article L. 2334-15 du code général des collectivités territoriales ;
+- les communes qui remplissent au titre de l'année précédente les conditions d'éligibilité aux attributions de la dotation de solidarité urbaine et de cohésion sociale instituée par l'article L. 2334-15 du code général des collectivités territoriales ;
 
 - les communes bénéficiaires au titre de l'année précédente de la première fraction de la dotation de solidarité rurale visée à l'article L. 2334-21 du code général des collectivités territoriales ;
 
@@ -62,7 +62,7 @@ a) Les collectivités locales et leurs groupements dont les bases de taxe profes
 
 Les groupements de même nature s'entendent des catégories visées à l'article L. 5211-29 du code général des collectivités territoriales ;
 
-b) Les communes qui remplissent, au titre de l'année précédente ou de la pénultième année, les conditions d'éligibilité à la dotation de solidarité urbaine prévue aux articles L. 2334-15 à L. 2334-19 du code général des collectivités territoriales ;
+b) Les communes qui remplissent, au titre de l'année précédente ou de la pénultième année, les conditions d'éligibilité à la dotation de solidarité urbaine et de cohésion sociale prévue aux articles L. 2334-15 à L. 2334-19 du code général des collectivités territoriales ;
 
 c) Les communes de moins de 10 000 habitants dont le nombre de logements sociaux tels que définis au sixième alinéa de l'article L. 2334-17 du code général des collectivités territoriales est, l'année précédente, supérieur à 1 445 ;
 

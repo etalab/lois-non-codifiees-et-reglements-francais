@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur général du Centre national de la cinématographie est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le comité des archives de la défense dispose d'un secrétariat permanent assuré par la direction de la mémoire, du patrimoine et des archives.

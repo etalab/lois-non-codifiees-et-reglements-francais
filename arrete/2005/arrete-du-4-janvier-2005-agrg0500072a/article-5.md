@@ -1,0 +1,5 @@
+# Article 5
+
+Au moins 72 heures avant les campagnes de traitement, le président du groupement de défense contre les organismes nuisibles, informé le cas échéant au préalable par l'organisme ou l'entreprise de dératisation agréé, envoie un avis de traitement aux maires des communes concernées, ainsi qu'à la direction régionale de l'agriculture et de la forêt, service régional de la protection des végétaux, et à la direction régionale de l'environnement, aux présidents des associations communales de chasse agréées concernées et aux deux interlocuteurs techniques départementaux du réseau SAGIR (Office national de la chasse et de la faune sauvage, fédération départementale des chasseurs).
+
+Cet avis est soit directement affiché par les mairies concernées, soit repris dans un arrêté municipal. Il est porté à la connaissance des habitants au moins 48 heures avant le début des opérations. Il doit comporter les dates de début et de fin des opérations de traitement, les précautions à prendre pour le transport et la pose des appâts. Ces dates de traitement doivent respecter le délai défini au point 5 de l'annexe du présent arrêté.

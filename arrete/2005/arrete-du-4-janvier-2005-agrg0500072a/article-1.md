@@ -1,0 +1,3 @@
+# Article 1
+
+Lorsque, en application de l'article L. 251-3 du code rural, une lutte est conduite pour maîtriser les populations de campagnols terrestres (Arvicola terrestris), elle doit être fondée sur la surveillance de ces populations et sur des méthodes pouvant être combinées entre elles, en particulier des méthodes préventives, comme la modification des pratiques agricoles, sur le piégeage ou sur des mesures favorisant la prédation. Dans ce cadre et sans préjudice des autres moyens de destruction, des préparations contenant de la bromadiolone peuvent être utilisées dans les conditions fixées ci-après.
