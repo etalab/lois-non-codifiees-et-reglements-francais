@@ -22,5 +22,6 @@
 - [Loi n° 89-24 du 17 janvier 1989 (MAEX8800058L)](loi-n-89-24-du-17-janvier-1989-maex8800058l)
 - [Loi n° 89-25 du 17 janvier 1989 (MCCX8800132L)](loi-n-89-25-du-17-janvier-1989-mccx8800132l)
 - [Loi n° 89-295 du 10 mai 1989 (ACVX8800155L)](loi-n-89-295-du-10-mai-1989-acvx8800155l)
+- [Loi n° 89-322 du 18 mai 1989 (MAEX8900048L)](loi-n-89-322-du-18-mai-1989-maex8900048l)
 - [Loi n°73-6 du 3 janvier 1973](loi-n73-6-du-3-janvier-1973)
 - [Loi n°86-14 du 6 janvier 1986](loi-n86-14-du-6-janvier-1986)
