@@ -1,0 +1,5 @@
+# Article 72-4
+
+Aucun changement, pour tout ou partie de l'une des collectivités mentionnées au deuxième alinéa de l'article 72-3, de l'un vers l'autre des régimes prévus par les articles 73 et 74, ne peut intervenir sans que le consentement des électeurs de la collectivité ou de la partie de collectivité intéressée ait été préalablement recueilli dans les conditions prévues à l'alinéa suivant. Ce changement de régime est décidé par une loi organique.
+
+Le Président de la République, sur proposition du Gouvernement pendant la durée des sessions ou sur proposition conjointe des deux assemblées, publiées au Journal officiel, peut décider de consulter les électeurs d'une collectivité territoriale située outre-mer sur une question relative à son organisation, à ses compétences ou à son régime législatif. Lorsque la consultation porte sur un changement prévu à l'alinéa précédent et est organisée sur proposition du Gouvernement, celui-ci fait, devant chaque assemblée, une déclaration qui est suivie d'un débat.

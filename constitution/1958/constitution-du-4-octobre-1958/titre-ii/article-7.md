@@ -1,6 +1,6 @@
 # Article 7
 
-Le Président de la République est élu à la majorité absolue des suffrages exprimés. Si celle-ci n'est pas obtenue au premier tour du scrutin, il est procédé, le deuxième dimanche suivant, à un second tour. Seuls peuvent s'y présenter les deux candidats qui, le cas échéant aprés retrait de candidats plus favorisés, se trouvent avoir recueilli le plus grand nombre de suffrages au premier tour.
+Le Président de la République est élu à la majorité absolue des suffrages exprimés. Si celle-ci n'est pas obtenue au premier tour du scrutin, il est procédé, le quatorzième jour suivant, à un second tour. Seuls peuvent s'y présenter les deux candidats qui, le cas échéant après retrait de candidats plus favorisés, se trouvent avoir recueilli le plus grand nombre de suffrages au premier tour.
 
 Le scrutin est ouvert sur convocation du Gouvernement.
 
