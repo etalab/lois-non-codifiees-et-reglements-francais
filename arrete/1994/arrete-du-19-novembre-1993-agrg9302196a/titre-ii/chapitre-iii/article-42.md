@@ -18,6 +18,6 @@ a) L'animal doit être déclaré totalement impropre à la consommation si l'ins
 
 - des anomalies de consistance, en particulier des oedèmes ou un état émacié ;
 
-b) Les parties des animaux abattus présentant des lésions ou contaminations localisées n'affectant pas la salubrité de la partie restante des viandes doivent être déclarées impropres à la consommation humaine ;
+b) Le sang dans sa totalité ainsi que les parties des animaux abattus présentant des lésions ou contaminations localisées n'affectant pas la salubrité de la partie restante des viandes sont déclarés impropres à la consommation humaine ;
 
 c) Les résultats des inspections sanitaires ante et post mortem doivent être enregistrés par le vétérinaire inspecteur et, si la présence d'une des maladies visées au point a ou de résidus est mise en évidence, ils doivent être communiqués au directeur des services vétérinaires du département d'où proviennent les animaux, ainsi qu'au responsable du troupeau en cause.
