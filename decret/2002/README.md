@@ -882,6 +882,7 @@
 - [Décret n°2002-945 du 28 juin 2002 (MCCK0200494D)](decret-n2002-945-du-28-juin-2002-mcck0200494d)
 - [Décret n°84-1191 du 28 décembre 1984](decret-n84-1191-du-28-decembre-1984)
 - [Décret n°89-710 du 28 septembre 1989 (MENX8900104D)](decret-n89-710-du-28-septembre-1989-menx8900104d)
+- [Décret n°2002-1022 du 29 juillet 2002 (PRMX0200075D)](decret-n2002-1022-du-29-juillet-2002-prmx0200075d)
 - [Décret n°2002-421 du 29 mars 2002 (MESS0220843D)](decret-n2002-421-du-29-mars-2002-mess0220843d)
 - [Décret n°2002-422 du 29 mars 2002 (MESS0220844D)](decret-n2002-422-du-29-mars-2002-mess0220844d)
 - [Décret n°2002-423 du 29 mars 2002 (MESS0220838D)](decret-n2002-423-du-29-mars-2002-mess0220838d)

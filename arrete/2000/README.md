@@ -55,6 +55,7 @@
 - [Arrêté du 17 novembre 2000 (DEFP0002281A)](arrete-du-17-novembre-2000-defp0002281a)
 - [Arrêté du 17 octobre 2000 (DEFP0002253A)](arrete-du-17-octobre-2000-defp0002253a)
 - [Arrêté du 18 décembre 2000 (ECOS0070004A)](arrete-du-18-decembre-2000-ecos0070004a)
+- [Arrêté du 19 avril 2000 (AGRP0000771A)](arrete-du-19-avril-2000-agrp0000771a)
 - [Arrêté du 19 décembre 2000 (ATEE0090452A)](arrete-du-19-decembre-2000-atee0090452a)
 - [Arrêté du 19 décembre 2000 (MENF0003243A)](arrete-du-19-decembre-2000-menf0003243a)
 - [Arrêté du 19 juin 2000 (MCCB0000455A)](arrete-du-19-juin-2000-mccb0000455a)
