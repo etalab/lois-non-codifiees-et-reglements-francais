@@ -114,6 +114,7 @@
 - [Arrêté du 23 janvier 1989 (MERP8900015A)](arrete-du-23-janvier-1989-merp8900015a)
 - [Arrêté du 23 janvier 1989 (TRSS8900018A)](arrete-du-23-janvier-1989-trss8900018a)
 - [Arrêté du 24 février 1984](arrete-du-24-fevrier-1984)
+- [Arrêté du 24 février 1989 (MEND8900451A)](arrete-du-24-fevrier-1989-mend8900451a)
 - [Arrêté du 24 janvier 1989 (AGRS8900138A)](arrete-du-24-janvier-1989-agrs8900138a)
 - [Arrêté du 24 janvier 1989 (ECOC8900010A)](arrete-du-24-janvier-1989-ecoc8900010a)
 - [Arrêté du 24 janvier 1989 (TEFT8903104A)](arrete-du-24-janvier-1989-teft8903104a)

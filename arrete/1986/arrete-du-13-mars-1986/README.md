@@ -1,5 +1,7 @@
-# Arrêté du 13 mars 1986 du 13 mars 1986 fixant le taux de la taxe parafiscale perçue au profit du Bureau national interprofessionnel des calvados et eaux-de-vie de cidre et de poiré.
+# Arrêté du 13 mars 1986 relatif à la pondération de la durée des oeuvres audiovisuelles prévue pour le calcul du montant des subventions de soutien financier à l'industrie des programmes audiovisuels.
 
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)

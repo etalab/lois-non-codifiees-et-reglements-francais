@@ -1,3 +1,3 @@
 # Article 3
 
-L'utilisation d'une plate-forme pour le décollage ou l'atterrissage est subordonnée à l'accord préalable de la personne en ayant la jouissance.
+Pour la pondération de la durée des oeuvres inscrites sur la liste permettant d'établir le montant des subventions pour l'année 1989 prévue à l'article 6 du décret du 6 février 1986 susvisé, il n'est tenu compte que des coefficients visés à l'article 2 ci-dessus.

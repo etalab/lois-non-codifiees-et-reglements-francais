@@ -1,0 +1,7 @@
+# Article 8
+
+Les candidatures aux emplois de directeur d'école sont adressées à l'inspecteur d'académie, directeur des services départementaux de l'éducation dont relèvent les instituteurs.
+
+Elles font l'objet d'un avis motivé de l'inspecteur départemental de l'éducation nationale de la circonscription.
+
+Lorsqu'un instituteur candidat à l'emploi de directeur d'école n'est pas en fonctions dans une école, sa candidature fait l'objet d'un avis motivé de l'autorité administrative auprès de laquelle il est placé.

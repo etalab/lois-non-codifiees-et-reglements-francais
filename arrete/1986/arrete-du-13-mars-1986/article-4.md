@@ -1,3 +1,3 @@
 # Article 4
 
-Les plates-formes utilisées à titre occasionnel à des fins de vols privés ou d'épandage agricole doivent faire l'objet d'une déclaration préalable auprès du maire de la commune concernée.
+Le directeur général du Centre national de la cinématographie est chargé de l'application du présent arrêté, qui sera publié au Journal officiel de la République française.
