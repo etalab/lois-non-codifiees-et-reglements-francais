@@ -1,5 +1,0 @@
-# Article 4
-
-Tout comptable de deniers publics justiciable de la Cour des comptes, des conseils privés, des conseils de gouvernement, des conseils administration des territoires d'outre-mer, qui n'a pas présenté son compte dans les délais prescrits par les règlements peut être condamné, par l'autorité chargée de juger ledit compte, à une amende dont le montant est fixé à 2000 francs (20 F) au maximum par mois de retard pour les comptables justiciables des conseils privés, des conseils de gouvernement, des conseils d'administration des territoires d'outre-mer et à 10.000 francs (100 F) au maximum par mois de retard pour ceux qui sont justiciables de Cour des comptes.
-
-Les comptables des communes et des divers établissements ou organismes dont les comptes sont arrêtés par les trésoriers-payeurs généraux et par les directeurs des contributions diverses qui n'ont pas produit leurs comptes dans les délais prescrits, peuvent être condamnés par la cour des comptes, sur la demande du trésorier-payeur général ou du directeur des contributions diverses, à une amende dont le montant maximum est fixé à 2000 francs (20 F) par mois de retard et par compte.
