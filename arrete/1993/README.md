@@ -555,7 +555,6 @@
 - [Arrêté du 22 février 1993 (SPSS9300571A)](arrete-du-22-fevrier-1993-spss9300571a)
 - [Arrêté du 22 janvier 1993 (AGRG9300122A)](arrete-du-22-janvier-1993-agrg9300122a)
 - [Arrêté du 22 janvier 1993 (BUDB9340003A)](arrete-du-22-janvier-1993-budb9340003a)
-- [Arrêté du 22 janvier 1993 (INTB9300040A)](arrete-du-22-janvier-1993-intb9300040a)
 - [Arrêté du 22 janvier 1993 (MENL9304047A)](arrete-du-22-janvier-1993-menl9304047a)
 - [Arrêté du 22 janvier 1993 (MERG9200202A)](arrete-du-22-janvier-1993-merg9200202a)
 - [Arrêté du 22 janvier 1993 (MJSK9370032A)](arrete-du-22-janvier-1993-mjsk9370032a)
