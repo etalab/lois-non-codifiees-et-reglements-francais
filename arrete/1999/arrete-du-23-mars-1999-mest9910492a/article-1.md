@@ -1,0 +1,3 @@
+# Article 1
+
+Pour la mise en oeuvre des dispositions du I de l'article 20 bis du décret n° 98-1185 du 24 décembre 1998 et du I de l'article 31 bis du décret n° 98-1186 du 24 décembre 1998, la personne compétente en radioprotection visée à l'article 17 du décret n° 86-1103 du 2 octobre 1986 modifié susvisé ainsi que le personnel compétent ou relevant d'un service compétent en radioprotection et la personne qualifiée, visés respectivement à l'article 8-III et à l'article 9 du décret n° 75-306 du 28 avril 1975 modifié susvisé, ont accès aux résultats nominatifs de l'exposition individuelle des travailleurs ainsi mesurée, sur une période de référence n'excédant pas les douze derniers mois dès lors que ces personnes sont habilitées dans les conditions définies ci-dessous.
