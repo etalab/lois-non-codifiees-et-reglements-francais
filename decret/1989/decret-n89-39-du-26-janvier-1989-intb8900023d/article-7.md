@@ -1,6 +1,6 @@
 # Article 7
 
-Le mandat des membres des commissions locales d'insertion expire le 30 juin 1992 [*date limite*].
+Le mandat des membres des commissions locales d'insertion expire le 31 décembre 1992 [*date limite*].
 
 Tout membre qui perd la qualité en raison de laquelle il a été nommé cesse de faire partie de la commission.
 
