@@ -36,7 +36,7 @@ B.E.P.E.C.A.S.E.R. mention "deux-roues"
 <p>Le candidat tire au sort une fiche établie par le ministère chargé des Transports et exécute les exercices figurant sur la fiche.</p>
 </td>
 <td valign="top" width="185">
-<p>• Un représentant de l'administration pratiquant régulièrement, dans le cadre de ses fonctions, la conduite des motocyclettes.</p>
+<p>• Un représentant de l'administration ayant dans le cadre de ses fonctions une activité liée à la conduite des motocyclettes.</p>
 </td>
 </tr>
 <tr>
