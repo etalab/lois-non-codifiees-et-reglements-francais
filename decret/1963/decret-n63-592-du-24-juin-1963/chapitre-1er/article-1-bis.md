@@ -1,3 +1,5 @@
 # Article 1 bis
 
-Le doyen de la faculté de pharmacie ou, dans les facultés mixtes de médecine et de pharmacie, soit le doyen, soit l'assesseur responsable de la section de pharmacie de ladite faculté sont habilités à proposer les conditions dans lesquelles certains enseignements de biologie sont organisés par les facultés de médecine et de pharmacie ou les sections de médecine et de pharmacie de la faculté mixte de médecine et de pharmacie. A cette fin, les conventions visées à l'article 1er fixent les modalités selon lesquelles les étudiants en pharmacie pourront effectuer des stages dans les laboratoires de biologie du centre hospitalier régional faisant partie d'un centre hospitalier et universitaire.
+Le directeur de l'unité d'enseignement et de recherche de pharmacie est habilité à proposer les conditions dans lesquelles certains enseignements de biologie sont organisés par les unités d'enseignement et de recherche médicales et pharmaceutiques.
+
+A cette fin, les conventions visées à l'article 1er fixent les modalités selon lesquelles les étudiants en pharmacie pourront effectuer des stages dans les laboratoires de biologie du centre hospitalier régional faisant partie d'un centre hospitalier et universitaire.

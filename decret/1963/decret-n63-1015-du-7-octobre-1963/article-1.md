@@ -6,7 +6,7 @@ Les conventions sont signées :
 
 En ce qui concerne le centre hospitalier et universitaire
 
-a. Par le doyen de la faculté de médecine ou de la faculté mixte de médecine et de pharmacie, ou le directeur de l'école nationale de médecine et de pharmacie, ce dernier agissant par délégation du recteur ;
+a. Par le directeur ou les directeurs de la ou des unités d'enseignement et de recherche médicales concernées ou par le président de l'université pour les unités d'enseignement et de recherche qui ne possèdent pas le statut d'établissement public.
 
 b. Par le représentant légal du centre hospitalier régional, agissant sur mandat de la commission administrative ou du conseil d'administration.
 

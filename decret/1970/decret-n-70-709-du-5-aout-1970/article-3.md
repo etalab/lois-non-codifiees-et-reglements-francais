@@ -1,0 +1,3 @@
+# Article 3
+
+Lorsqu'un centre hospitalier régional doit conclure une convention intéressant plusieurs unités d'enseignement et de recherche médicales groupées dans une même université, il est créé dans cette université un comité de coordination de l'enseignement médical comprenant le président de l'université ou son représentant et les directeurs des unités d'enseignement et de recherche médicales, que ces dernières aient ou non la personnalité morale. Lorsque le comité est appelé à examiner des questions intéressant une unité d'enseignement et de recherche odontologique, il est complété par le directeur de cette unité.

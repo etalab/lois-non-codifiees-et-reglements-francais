@@ -1,0 +1,3 @@
+# Article 7
+
+Les décisions communes des ministres chargés de l'éducation nationale et de la santé publique fixant les effectifs des personnels hospitaliers et enseignants des centres hospitaliers et universitaires, en application du dernier alinéa de l'article 5 de l'ordonnance susvisée du 30 décembre 1958 et de l'article 13 du décret n° 65-801 du 22 septembre 1965 susvisé, sont prises après avis du conseil de l'unité d'enseignement et de recherche médicale ou odontologique et, lorsqu'il existe, du comité de coordination de l'enseignement médical ainsi que du conseil d'administration ou de la commission administrative du centre hospitalier régional intéressé.
