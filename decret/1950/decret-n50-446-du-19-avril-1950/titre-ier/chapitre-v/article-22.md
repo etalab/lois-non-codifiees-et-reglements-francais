@@ -1,0 +1,3 @@
+# Article 22
+
+Les conseillers commerciaux, attachés commerciaux et attachés commerciaux adjoints titulaires ainsi que les agents contractuels recrutés en application de l'article 13 du décret du 25 août 1945, en fonction à la date du 31 décembre 1949, pourront être intégrés dans les nouveaux cadres par arrêté conjoint du président du conseil et du ministre chargé des affaires sur avis de la commission administrative paritaire instituée par l'arrêté interministériel du 4 mai 1949 à laquelle seront adjoints, avec voix délibérative, un représentant de la direction de la fonction publique et le représentant suppléant des conseillers commerciaux de classe exceptionnelle.
