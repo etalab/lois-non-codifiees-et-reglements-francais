@@ -24,4 +24,6 @@ Chirurgie générale ;
 
 Pédiatrie ;
 
-Chirurgie infantile.
+Chirurgie infantile;
+
+Chirurgie vasculaire, chirurgie digestive.
