@@ -31,7 +31,6 @@
 - [Décret n°82-5 du 5 janvier 1982](decret-n82-5-du-5-janvier-1982)
 - [Décret n°82-579 du 5 juillet 1982](decret-n82-579-du-5-juillet-1982)
 - [Décret n°82-946 du 5 novembre 1982](decret-n82-946-du-5-novembre-1982)
-- [Décret n°83-591 du 5 juillet 1983](decret-n83-591-du-5-juillet-1983)
 - [Décret du 5 mai 1982](decret-du-5-mai-1982)
 - [Décret n°82-1036 du 6 décembre 1982](decret-n82-1036-du-6-decembre-1982)
 - [Décret n°82-1038 du 6 décembre 1982](decret-n82-1038-du-6-decembre-1982)
