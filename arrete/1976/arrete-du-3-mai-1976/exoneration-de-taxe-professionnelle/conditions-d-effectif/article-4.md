@@ -6,11 +6,11 @@ Pour ouvrir droit à l'exonération de taxe professionnelle, les opérations dé
 
 Extension d'installations affectées à des activités industrielles :
 
-Trente emplois et un accroissement de 25 p. 100 [*pourcentage*], ou cent vingt emplois si l'extension est réalisée dans une agglomération de plus de 15.000 habitants ;
+Trente emplois et un accroissement de 25 p. 100, ou cent vingt emplois si l'extension est réalisée dans une agglomération de plus de 15.000 habitants ;
 
-Dix emplois et un accroissement de 25 p. 100, ou cinquante emplois et un accroissement de 10 p. 100, ou cent vingt emplois si l'extension est réalisée dans une agglomération de 15.000 habitants au plus.
+Dix emplois et un accroissement de 25 p. 100, ou cinquante emplois et un accroissement de 10 p. 100 ou cent vingt emplois si l'extension est réalisée dans une agglomération de 15.000 habitants au plus.
 
-Reprise d'établissement industriel en difficulté : nombre d'emplois minimal prévu par les créations et maintien de l'effectif permanent, sauf dans le cas mentionné à l'article 5 (3°).
+Reprise d'établissement industriel en difficulté : nombre d'emplois minimal prévu pour les créations et maintien de l'effectif permanent au niveau justifié par le plan de redressement de l'entreprise.
 
 Lorsque l'extension correspond au transfert d'un établissement situé en région parisienne ou en région lyonnaise les conditions d'effectifs sont les mêmes que celles exigées en matière de création.
 

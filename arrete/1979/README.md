@@ -8,6 +8,7 @@
 - [Arrêté du 6 mars 1979](arrete-du-6-mars-1979)
 - [Arrêté du 6 octobre 1978](arrete-du-6-octobre-1978)
 - [Arrêté du 7 février 1979](arrete-du-7-fevrier-1979)
+- [Arrêté du 8 juin 1979](arrete-du-8-juin-1979)
 - [Arrêté du 8 mars 1979](arrete-du-8-mars-1979)
 - [Arrêté du 9 avril 1979](arrete-du-9-avril-1979)
 - [Arrêté du 9 mars 1979](arrete-du-9-mars-1979)
