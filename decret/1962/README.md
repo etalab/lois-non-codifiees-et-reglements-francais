@@ -1,6 +1,5 @@
 # 1962
 
-- [Décret n°62-235 du 1 mars 1962](decret-n62-235-du-1-mars-1962)
 - [Décret du 2 août 1877](decret-du-2-aout-1877)
 - [Décret n°62-1198 du 3 octobre 1962](decret-n62-1198-du-3-octobre-1962)
 - [Décret n°62-382 du 3 avril 1962](decret-n62-382-du-3-avril-1962)

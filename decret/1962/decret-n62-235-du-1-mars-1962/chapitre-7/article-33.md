@@ -1,3 +1,0 @@
-# Article 33
-
-Après avis de la commission mentionnée à l'article 31, des décrets pris sur le rapport du ministre du travail, du ministre chargé du budget, du ministre de l'industrie et du ministre chargé du commerce intérieur pourront fixer les conditions dans lesquelles certaines personnes qui n'étaient pas tenues de s'inscrire au registre des métiers mais qui sont tenues par le présent décret d'inscrire leurs entreprises au répertoire des métiers devront, exceptionnellement, être affiliées à l'organisation d'assurance vieillesse des professions artisanales avant l'expiration du délai de quatre ans mentionné à l'article 30.
