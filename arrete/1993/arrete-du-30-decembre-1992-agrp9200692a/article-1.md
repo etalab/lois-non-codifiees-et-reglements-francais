@@ -2,9 +2,9 @@
 
 Le conseil spécialisé de la filière horticole pour le paysage créé par l'arrêté du 10 août 1992 susvisé comprend, outre son président :
 
-- deux représentants des concepteurs paysagistes ;
+- trois représentants des concepteurs paysagistes ;
 
-- deux représentants des gestionnaires du paysage ;
+- trois représentants des gestionnaires du paysage ;
 
 - quatre représentants des entrepreneurs du paysage ;
 
@@ -27,5 +27,9 @@ Le conseil spécialisé de la filière horticole pour le paysage créé par l'ar
 - un représentant du ministre chargé du budget ;
 
 - un représentant du ministre chargé de l'équipement ;
+
+- un représentant du ministre chargé de la culture ;
+
+- un représentant du ministre chargé du tourisme ;
 
 - un représentant du ministre chargé de l'aménagement du territoire.

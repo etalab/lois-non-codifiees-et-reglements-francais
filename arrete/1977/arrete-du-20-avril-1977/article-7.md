@@ -14,6 +14,10 @@ Les compositions sont soumises à l'appréciation d'un jury comprenant :
 
 - un représentant du ministère chargé de l'agriculture ;
 
+- un inspecteur général des affaires sociales ;
+
+- un ou plusieurs enseignants chercheurs ou assimilés ou personnes qualifiées chargées d'enseignement à l'Université ;
+
 - un ou plusieurs membres du corps de l'inspection du travail ayant au moins le rang de directeur du travail ;
 
 - un ou plusieurs administrateurs civils ou chefs de bureau à l'administration centrale du ministère du travail, de l'emploi et de la formation professionnelle ou du ministère chargé des transports ou du ministère du travail chargé de l'agriculture ou du ministère chargé des affaires sociales ;
