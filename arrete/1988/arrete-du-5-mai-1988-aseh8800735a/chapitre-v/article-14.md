@@ -1,6 +1,6 @@
 # Article 14
 
-Le jury de chaque zone géographique est composé de cent membres, professeurs des universités - praticiens hospitaliers. Pour constituer les jurys, le préfet de la région Ile-de-France pour la zone géographique Nord et le préfet de la région Pays de la Loire pour la zone géographique Sud procèdent au tirage au sort des membres, à partir des listes constituées conformément à l'annexe n° 3 du présent arrêté par les préfets de région mentionnés à l'article 2 du présent arrêté.
+Le jury de chaque zone géographique est composé de cent membres, professeurs des universités - praticiens hospitaliers. Un préfet de région est désigné par le ministre chargé de la santé pour chacune des deux zones géographiques pour constituer les jurys. Il procède au tirage au sort des membres, à partir des listes constituées conformément à l'annexe n° 3 du présent arrêté par les préfets de région mentionnés à l'article 2 du présent arrêté.
 
 La présidence du jury est exercée par le membre le plus ancien en qualité de professeur des universités - praticien hospitalier. A ancienneté égale, la présidence revient au plus âgé. Lorsqu'une décision nécessite une procédure de vote, en cas de partage égal des voix, la voix du président du jury est prépondérante.
 

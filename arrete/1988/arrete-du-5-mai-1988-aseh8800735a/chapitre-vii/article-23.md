@@ -1,31 +1,59 @@
 # Article 23
 
-Les personnes remplissant les conditions de candidature fixées à l'article 18 du décret du 7 avril 1988 précité et désirant prendre part au concours doivent retirer un formulaire de demande de candidature auprès de l'unité de formation et de recherche où ils sont inscrits.
+Conformément à l'article 18 du décret du 7 avril 1988 susvisé, les personnes désirant prendre part au concours doivent retirer un formulaire de demande de candidature auprès de l'unité de formation et de recherche où ils sont inscrits.
 
 Le retrait est individuel, il ne peut être effectué que par le candidat qui doit être muni de sa carte d'étudiant et d'une pièce d'identité.
 
-Les candidats doivent envoyer par lettre recommandée avec avis de réception à la direction régionale des affaires sanitaires et sociales responsable du concours pour l'interrégion où se situe leur université d'origine, même s'ils n'y sont pas candidats, un dossier comportant les pièces suivantes :
+Les candidats doivent envoyer par lettre recommandée avec avis de réception à la direction régionale des affaires sanitaires et sociales responsable du concours pour l'interrégion où se situe leur université d'origine, même s'ils ne sont pas candidats dans la zone correspondante, un dossier comportant les pièces suivantes :
 
-1. Le formulaire de demande de candidature rempli lisiblement et complètement précisant pour chaque zone où le candidat désire concourir la ville où il souhaite passer les épreuves et, dans le cas où il concourt dans la zone géographique Sud, s'il demande à être classé au titre des départements d'outre-mer.
+Pour tous les candidats :
 
-2. Une fiche individuelle d'état civil ;
+a) Le formulaire de demande de candidature dûment rempli et signé précisant pour la zone dont le candidat n'est pas originaire la ville où il souhaite passer les épreuves et, dans le cas où il concourt dans la zone géographique Sud, s'il demande à être classé au titre des départements d'outre-mer ;
 
-3. Une attestation mentionnant la validation du deuxième cycle des études médicales ou, à défaut, en cas de non-validation d'un certificat, une attestation d'autorisation d'accès dans le troisième cycle ;
+Le candidat choisissant de concourir au titre de sa zone géographique d'origine a l'obligation de subir les épreuves dans le centre d'examen de l'interrégion dont il relève pour l'inscription ;
 
-4. Le cas échéant, en application de l'article 18 du décret du 7 avril 1988 précité, une attestation de validation du troisième cycle de médecine générale mentionnant que ce cycle a été effectué en deux années universitaires consécutives, ainsi qu'une attestation mentionnant que la thèse a été soutenue avec succès avant le 1er novembre de l'année où se déroule le concours ;
+b) Une fiche individuelle d'état civil ;
 
-5. Un certificat établi par l'établissement hospitalier mentionnant que le candidat occupe des fonctions soit immédiatement après les concours, soit au moment où se déroulent les épreuves, selon qu'il s'agit de la première ou de la seconde possibilité de concourir prévue par l'article 18 du décret du 7 avril 1988 précité ou, éventuellement, qu'il a été régulièrement placé en position de disponibilité au titre du b ou c du décret du 2 septembre 1983 modifié fixant le statut des internes en médecine ;
+c) Eventuellement, les pièces justificatives des dérogations (service national, congé de maternité notamment), prévues par l'article 18 du décret du 7 avril 1988 susvisé ;
 
-6. Eventuellement, les pièces justificatives des dérogations (service national, congé de maternité notamment), prévues par l'article 18 dudit décret ;
+2. Les candidats de dernière année du deuxième cycle des études médicales doivent joindre au dossier une attestation d'inscription dans cette année d'études.
 
-7. Pour le classement en année-recherche : Un justificatif attestant qu'ils remplissent les conditions fixées à l'article 2 de l'arrêté du 30 mars 1992 susvisé.
+3. Les résidents et internes s'inscrivant au concours au titre du a du 2° de l'article 18 du décret du 7 avril 1988 susvisé doivent joindre au dossier d'inscription :
 
-L'ensemble des pièces mentionnées ci-dessus doit être impérativement fourni par les candidats avant la date de clôture des inscriptions, à l'exception des pièces mentionnées aux 3, 4, 5 et 7.
+a) Une attestation de validation de la totalité des enseignements théoriques mentionnant, le cas échéant, la dette d'un certificat autre que le certificat de synthèse clinique et thérapeutique ;
 
-Pour pouvoir être classés, les candidats inscrits à titre conditionnel doivent fournir impérativement les pièces mentionnées aux 3, 4 et 5 avant le 15 décembre de l'année où s'est déroulé le concours, par envoi effectué par lettre recommandée avec avis de réception, à la direction régionale des affaires sanitaires et sociales où ils ont déposé leur dossier. Les internes affectés, souhaitant bénéficier de l'année-recherche, fourniront, à sa demande, à la direction régionale des affaires sanitaires et sociales de leur circonscription d'affectation l'attestation mentionnée au 7 du troisième alinéa du présent article.
+b) Une attestation de prise de fonctions au titre du semestre en cours.
 
-Les candidats qui, alors qu'ils ont participé aux épreuves, n'ont pas fourni ce ou ces documents sont considérés comme s'étant présentés aux concours au sens de l'article 18 du décret du 7 avril 1988.
+4. Les candidats s'inscrivant au concours au titre du b du 2° de l'article 18 du décret du 7 avril 1988 susvisé doivent joindre au dossier d'inscription :
 
-Pour pouvoir bénéficier de la majoration de points prévue à l'article 4 de l'arrêté du 27 septembre 1985, les candidats qui ont demandé à pouvoir bénéficier de l'année-recherche doivent adresser à cette même D.R.A.S.S. avant le 15 septembre de l'année où s'est déroulé le concours les pièces mentionnées au 7 ci-dessus.
+a) Une attestation de validation du deuxième cycle des études médicales ;
 
-La liste des candidats admis à concourir, sous réserve qu'ils produisent les pièces complémentaires mentionnées aux alinéas précédents, est arrêtée par les préfets de région mentionnés à l'article 2 du présent arrêté.
+b) Une attestation de validation des deux premiers semestres de résidanat ;
+
+c) Une attestation de prise de fonctions au titre du semestre en cours.
+
+L'ensemble des pièces mentionnées ci-dessus doit être impérativement fourni par les candidats avant la date de clôture des inscriptions.
+
+La liste des candidats admis à titre conditionnel à concourir est établie par les préfets de région mentionnés à l'article 2 du présent arrêté.
+
+Pour pouvoir être classés, les candidats ayant concouru doivent justifier de leur situation universitaire et hospitalière. A cette fin, les unités de formation et de recherche et les établissements hospitaliers doivent fournir aux directions régionales des affaires sanitaires et sociales responsables de concours, au plus tard le 8 juillet de l'année du concours, les pièces suivantes :
+
+1. Pour les candidats concourant au titre du 1° de l'article 18 du décret du 7 avril 1988 susvisé et pour ceux inscrits en dernière année du deuxième cycle concourant au titre du a du 2° de l'article 18 du même décret, une attestation mentionnant :
+
+a) La validation de la totalité des enseignements théoriques mentionnant, le cas échéant, la dette d'un certificat autre que le certificat de synthèse clinique et thérapeutique ;
+
+b) La validation de l'ensemble des stages hospitaliers du deuxième cycle des études médicales, à l'exception de celle du dernier quadrimestre ;
+
+c) Les attestations de prise de fonctions pendant les six mois qui précèdent le concours ;
+
+2. Pour les candidats résidents ou internes concourant au titre du a du 2° de l'article 18 du décret du 7 avril 1988 : une attestation de prise de fonctions au titre du semestre au cours duquel est organisé le concours (semestre de mai à octobre).
+
+3. Pour les candidats concourant au titre du b du 2° de l'article 18 du décret du 7 avril 1988 susvisé :
+
+a) Une attestation de validation du troisième semestre de résidanat ;
+
+b) Une attestation de prise de fonctions au titre du quatrième semestre de résidanat ;
+
+Les candidats qui ont participé aux épreuves sans répondre aux exigences réglementaires sont considérés comme s'étant présentés aux concours au sens de l'article 18 du décret du 7 avril 1988 susvisé.
+
+Les candidats de dernière année de deuxième cycle, affectés dans une subdivision et une discipline d'internat, ne peuvent participer à la procédure de choix de postes, organisée au titre de l'article 30 du décret du 7 avril 1988 susvisé, que s'ils ont validé le dernier stage hospitalier de cette année d'études. Les unités de formation et de recherche font parvenir aux directions régionales des affaires sanitaires et sociales responsables de concours, au plus tard le 22 septembre de l'année du concours, un document attestant la validation de ce dernier stage hospitalier. En cas de non-validation de ce stage, les candidats gardent un an seulement le bénéfice de leur concours.

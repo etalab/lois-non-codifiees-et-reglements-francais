@@ -1,0 +1,3 @@
+# Article 21
+
+Le président, le vice-président et les membres de la chambre interrégionale des huissiers de justice des ressorts des cours d'appel de Colmar et de Metz sont maintenus de plein droit dans leurs fonctions jusqu'à l'élection des membres de la chambre régionale des huissiers de justice de la cour d'appel de Colmar, qui devra avoir eu lieu au plus tard le premier jour du quatrième mois suivant le mois de la publication du présent décret. A compter de cette date, la chambre départementale des huissiers de justice de la Moselle exercera, conformément aux dispositions du septième alinéa de l'article 62 du décret du 29 février 1956 précité, les attributions de la chambre régionale des huissiers de justice de la cour d'appel de Metz.

@@ -133,6 +133,7 @@
 - [Décret n°96-618 du 11 juillet 1996 (EQUX9600078D)](decret-n96-618-du-11-juillet-1996-equx9600078d)
 - [Décret n°94-286 du 12 avril 1994 (EQUT9400442D)](decret-n94-286-du-12-avril-1994-equt9400442d)
 - [Décret n°94-298 du 12 avril 1994 (MCCX9300197D)](decret-n94-298-du-12-avril-1994-mccx9300197d)
+- [Décret n°94-299 du 12 avril 1994 (JUSC9420227D)](decret-n94-299-du-12-avril-1994-jusc9420227d)
 - [Décret n°94-37 du 12 janvier 1994 (ENVQ9310102D)](decret-n94-37-du-12-janvier-1994-envq9310102d)
 - [Décret n°94-48 du 12 janvier 1994 (DEFP9302117D)](decret-n94-48-du-12-janvier-1994-defp9302117d)
 - [Décret n°95-1105 du 12 octobre 1995 (AGRA9501669D)](decret-n95-1105-du-12-octobre-1995-agra9501669d)
