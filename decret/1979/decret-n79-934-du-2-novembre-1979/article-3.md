@@ -1,0 +1,3 @@
+# Article 3
+
+Le maintien de l'affiliation des marins visés aux articles 1er et 2 au régime spécial de sécurité sociale des marins est subordonné à l'engagement de l'employeur de s'acquitter de l'intégralité des cotisations et contributions dues à l'établissement national des invalides de la marine et aux caisses d'allocations familiales concernées, et de supporter à l'égard des marins détachés pour servir à bord d'un navire les mêmes obligations, sous réserve des exonérations prévues à l'article 3 du décret du 17 juin 1938, que celles qui sont mises à la charge de l'armateur français par les articles 79 à 86 du Code du travail maritime.

@@ -8,6 +8,7 @@
 - [Décret n°79-292 du 2 avril 1979](decret-n79-292-du-2-avril-1979)
 - [Décret n°79-31 du 2 janvier 1979](decret-n79-31-du-2-janvier-1979)
 - [Décret n°79-932 du 2 novembre 1979](decret-n79-932-du-2-novembre-1979)
+- [Décret n°79-934 du 2 novembre 1979](decret-n79-934-du-2-novembre-1979)
 - [Décret n°79-348 du 2 mai 1979](decret-n79-348-du-2-mai-1979)
 - [Décret n°79-354 du 2 mai 1979](decret-n79-354-du-2-mai-1979)
 - [Décret n°79-293 du 3 avril 1979](decret-n79-293-du-3-avril-1979)
