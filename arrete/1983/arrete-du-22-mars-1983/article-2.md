@@ -1,3 +1,5 @@
 # Article 2
 
-Le directeur de la construction est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'autorisation est donnée par le directeur régional du travail et de la protection sociale agricoles dans la circonscription duquel se trouve le lieu de travail habituel des salariés intéressés [*autorité compétente*].
+
+Le directeur régional du travail et de la protection sociale agricoles précise dans sa décision la date à partir de laquelle prendra effet l'autorisation ainsi que la durée de celle-ci. Il en adresse un double à la caisse de mutualité sociale agricole habilitée à procéder à la mise en recouvrement des cotisations [*formalités*].
