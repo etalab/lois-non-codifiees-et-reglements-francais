@@ -21,3 +21,6 @@ Etablissements de culte](chapitre-x)
 Etablissements sportifs couverts](chapitre-xii)
 - [Chapitre XIII : Etablissements du type Y - 
 Musées](chapitre-xiii)
+- [Chapitre XIV : Etablissements du type J -  
+Structures d'accueil pour personnes âgées
+et personnes handicapées](chapitre-xiv)
