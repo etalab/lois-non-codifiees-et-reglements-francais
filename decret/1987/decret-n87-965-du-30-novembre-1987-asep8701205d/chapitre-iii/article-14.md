@@ -1,9 +1,13 @@
 # Article 14
 
-Lorsque les personnes titulaires de l'agrément sont de garde, elles sont tenues [*obligation*] :
+Pendant la garde, toutes les demandes de transports sanitaires urgents sont adressées au SAMU.
 
-1. D'assurer l'écoute des appels conformément au tour de garde ;
+Les entreprises de transports sanitaires mentionnées au tableau de garde doivent, pendant la durée de celle-ci :
 
-2. De satisfaire sans délai aux demandes de transport, sauf impossibilité absolue ;
+1° Répondre aux appels du SAMU ;
 
-3. D'informer le centre de réception et de régulation des appels médicaux [*SAMU*] mentionné à l'article 4 de la loi n° 86-11 du 6 janvier 1986 de leur départ en mission et de l'achèvement de celle-ci.
+2° Mobiliser un équipage et un véhicule dont l'activité est réservée aux seuls transports demandés par le SAMU ;
+
+3° Assurer les transports demandés par le SAMU dans les délais fixés par celui-ci ;
+
+4° Informer le centre de réception et de régulation des appels médicaux du SAMU de leur départ en mission et de l'achèvement de celle-ci.

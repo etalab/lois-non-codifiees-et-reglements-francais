@@ -1,7 +1,9 @@
 # Article 16
 
-Sera punie de la peine d'amende prévue pour les contraventions de 3e classe, toute personne qui n'aura pas respecté les obligations prévues par le premier alinéa de l'article 11, l'article 12 et le 3° de l'article 14 du présent décret.
+Sera puni de la peine d'amende prévue pour les contraventions de la 3e classe le fait, pour une personne titulaire de l'agrément prévu à l'article 5, de :
 
-Sera punie de la peine d'amende prévue pour les contraventions de 5e classe toute personne qui aura effectué, ou fait effectuer, un transport sanitaire sans respecter les obligations prévues au deuxième alinéa de l'article 10 du présent décret et aux 1° et 2° de l'article 14 du présent décret.
+1° Ne pas soumettre les véhicules affectés aux transports sanitaires au contrôle des services de la direction des affaires sanitaires et sociales dans les conditions prévues au premier alinéa de l'article 11 ;
 
-Sera punie de la peine d'amende prévue pour les contraventions de 5e classe toute personne titulaire d'un agrément qui n'aura pas respecté les obligations prévues par le premier alinéa de l'article 13 ci-dessus.
+2° Ne pas tenir à jour et ne pas adresser annuellement la liste de son personnel en précisant sa qualification à la direction départementale des affaires sanitaires et sociales conformément à l'article 12 ;
+
+3° Ne pas informer, pendant la garde, le centre de réception et de régulation des appels médicaux conformément au 4° de l'article 14.
