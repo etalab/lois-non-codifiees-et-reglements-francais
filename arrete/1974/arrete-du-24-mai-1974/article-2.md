@@ -8,9 +8,9 @@ Le directeur général de la caisse des dépôts et consignations ou son représ
 
 Le directeur du budget au ministère de l'économie et des finances ou son représentant ;
 
-Le directeur des affaires juridiques au ministère des armées ou son représentant ;
+Le directeur de la fonction militaire et du personnel civil au ministère des armées ou son représentant ;
 
-Deux médecins des armées, dont un au moins en activité de service, désignés par le ministre des armées ;
+Deux médecins des armées, dont un au moins en activité de service, désignés par le ministre des armées ; Un membre représentant le chef d'état-major des armées ;
 
 Un membre du Conseil supérieur de la fonction militaire affilié au fonds de prévoyance de l'aéronautique, désigné par le ministre chargé des armées.
 
@@ -20,6 +20,6 @@ Le président, le médecin et les représentants des personnels affiliés peuven
 
 La commission ne peut délibérer valablement que si les deux tiers au moins de ses membres sont présents. En cas de partage des voix, celle du président est prépondérante.
 
-Le directeur de l'action sociale des armées ou son représentant assiste aux délibérations de la commission avec voix consultative.
+Le sous-directeur des actions sociales des armées ou son représentant assiste aux délibérations de la commission avec voix consultative.
 
 Un fonctionnaire de la caisse des dépôts et consignations affecté au service du fonds de prévoyance militaire fait office de rapporteur auprès de la commission dont le secrétariat est assuré par la caisse des dépôts et consignations.
