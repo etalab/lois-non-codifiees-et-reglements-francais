@@ -9,3 +9,7 @@ Classe normale : 274 - 493 ;
 Classe supérieure : 418 - 533 ;
 
 Puéricultrice, surveillant des services médicaux : 384 - 579.
+
+Puéricultrice, surveillant chef des services médicaux :
+
+431 - 619.

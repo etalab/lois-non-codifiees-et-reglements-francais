@@ -9,3 +9,5 @@ Classe normale : 274 - 460 (487) ;
 Classe supérieure : 418 - 533 ;
 
 Infirmier, surveillant des services médicaux : 384 - 579.
+
+Infirmier, surveillant chef des services médicaux : 431 - 619.
