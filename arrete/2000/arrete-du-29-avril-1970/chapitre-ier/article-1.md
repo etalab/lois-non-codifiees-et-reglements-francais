@@ -24,7 +24,7 @@ Sont exclus des catégories d'engins visés aux paragraphes 1 et 2 ci-dessus les
 
 3. D'engins de nettoyage, sous réserve qu'ils aient une vitesse de marche ne pouvant excéder par construction 25 kilomètres à l'heure en palier ou qu'ils ne soient pas immatriculés dans les conditions établies par les articles R. 110 à R. 117 du code de la route ;
 
-e) De machines, appareils et engins agricoles automoteurs pour la préparation et le travail du sol, la culture, la récolte ou des travaux agricoles analogues dont la vitesse de marche ne peut excéder par construction 25 kilomètres-heure en palier ;
+e) De machines, appareils et engins agricoles automoteurs pour la préparation et le travail du sol, la culture, la récolte ou des travaux agricoles analogues dont la vitesse de marche ne peut excéder par construction 27,5 kilomètres-heure en palier ;
 
 f) De grues, pelles mécaniques, excavateurs, décapeurs, niveleuses, bouteurs (bulldozers) et engins spéciaux analogues de travaux publics, non soumis à immatriculation (et non immatriculés) au regard des articles R. 110 à R. 117 du code de la route ;
 
