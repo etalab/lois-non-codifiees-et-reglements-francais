@@ -1,3 +1,3 @@
 # Article 1
 
-Les dispositions du présent arrêté ne demeurent valables qu'autant que la licence d'exploitation qui a été attribuée à la société Twin Jet par l'arrêté du 15 mars 2002 susvisé est en cours de validité.
+Il est délivré à la société Twin Jet une licence d'exploitation lui permettant d'exercer une activité de transport aérien public de passagers, de courrier et de fret.
