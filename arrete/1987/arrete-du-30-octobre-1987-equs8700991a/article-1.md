@@ -8,7 +8,7 @@ II. - Catégorie B réservée aux véhicules énumérés ci-après, dont il impo
 
 1° Ambulances de transport sanitaire ;
 
-2° Véhicules d'intervention d'Electricité de France et de Gaz de France ;
+2° Véhicules d'intervention d'Electricité de France et de Gaz de France, du service de la surveillance générale de la Société nationale des chemins de fer français ; véhicules de transports de fonds et d'escorte de la Banque de France. "
 
 3° Véhicules des douanes ;
 
