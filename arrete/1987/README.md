@@ -201,8 +201,6 @@
 - [Arrêté du 9 octobre 1986](arrete-du-9-octobre-1986)
 - [Arrêté du 9 octobre 1987 (ASEG8701443A)](arrete-du-9-octobre-1987-aseg8701443a)
 - [Arrêté du 9 octobre 1987 (ASET8703701A)](arrete-du-9-octobre-1987-aset8703701a)
-- [Arrêté du 9 octobre 1987 (MCCX8798499A)](arrete-du-9-octobre-1987-mccx8798499a)
-- [Arrêté du 9 octobre 1987 (MCCX8798500A)](arrete-du-9-octobre-1987-mccx8798500a)
 - [Arrêté du 9 septembre 1987 (AGRS8701615A)](arrete-du-9-septembre-1987-agrs8701615a)
 - [Arrêté du 9 septembre 1987 (ASEP8701315A)](arrete-du-9-septembre-1987-asep8701315a)
 - [Arrêté du 9 septembre 1987 (BUDR8703109A)](arrete-du-9-septembre-1987-budr8703109a)
