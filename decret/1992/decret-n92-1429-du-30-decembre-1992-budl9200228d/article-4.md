@@ -59,3 +59,7 @@ Le nombre et la nature des autres informations portées sur la déclaration dép
 3. De plus, pour les opérateurs soumis à la déclaration détaillée visée au 2 dont le montant annuel des échanges intracommunautaires excède un seuil fixé par arrêté :
 
 - la valeur statistique en francs.
+
+4. Les opérateurs ont la possibilité de regrouper, sous une position globale de la nomenclature combinée, les transactions dont le montant en valeur est inférieur à un seuil fixé par arrêté du directeur général des douanes et droits indirects. Dans ce cas, les informations visées au 2 ci-dessus ne sont pas renseignées.
+
+Pour chaque redevable de la déclaration d'échanges de biens, le montant mensuel total repris sous la position globale de la nomenclature combinée ne peut cependant pas excéder une valeur fixée par ledit arrêté.
