@@ -10,9 +10,9 @@ Figurent notamment parmi les dépenses :
 
 4° Les frais des examens médicaux imposés aux nourrices, aux gardiennes et aux personnes de leur entourage immédiat ;
 
-5° Les frais de fonctionnement et les dépenses courantes d'installation des centres de protection maternelle et infantile, tels qu'ils sont définis à l'article L. 149 du code de la santé publique, des consultations pré et postnatales, des consultations de nourrissons, des consultations d'enfants du second âge, des consultations de lutte contre la stérilité et des lactariums gérés par les départements ainsi que la charge financière des emprunts contractés pour couvrir leurs dépenses d'établissement ;
+5° Les frais de fonctionnement et les dépenses courantes d'installation des centre de protection maternelle et infantile, tels qu'ils sont définis à l'article L. 149 du code de la santé publique, des consultations pré et postnatales, des consultations de nourrissons, des consultations d'enfants du second âge, des consultations d'enfants du second âge, des consultations de lutte contre la stérilité et des lactariums gérés par les départements ainsi que la charge financière des emprunts contractés pour couvrir leurs dépenses d'établissement ;
 
-6° L'excédent des dépenses de fonctionnement et d'installation courante des centres de protection maternelle et infantile, tels qu'ils sont définis à l'article L. 149 du code de la santé publique, des consultations pré et postnatales, des consultations de nourrissons, de lutte contre la stérilité et des lactariums gérés par des collectivités publiques autres que les départements ainsi que par des oeuvres privées, dans la mesure où l'activité de ces dernières supplée ou renforce l'action des pouvoirs publics pour l'application du présent texte et du titre 1er du livre II du code de la santé publique ;
+6° L'excédent des dépenses courantes de fonctionnement et d'installation des centres de protection maternelle et infantile, tels qu'ils sont définis à l'article L. 149 du code de la santé publique, des consultations pré et post-natales, des consultations de nourrissons, d'enfants du second âge et de lutte contre la stérilité, ainsi que des lactariums, lorsque ces différents établissements sont gérés par des collectivités publiques autres que les départements ou par des oeuvres privées, dans la mesure où l'activité de ces dernières supplée ou renforce l'action des pouvoirs publics pour l'application du présent texte et celle du titre 1er du livre II du code de la santé publique.
 
 7° Les récompenses pécuniaires aux nourrices ;
 
@@ -20,4 +20,4 @@ Figurent notamment parmi les dépenses :
 
 Ces diverses dépenses sont inscrites au budget départemental et font l'objet d'une contribution de l'Etat, conformément aux dispositions des articles 190 et 191 du code de la famille et de l'aide sociale.
 
-Viennent en atténuation des dépenses indiquées au présent article toutes recettes faites par l'Etat ou les départements susceptibles de constituer des fonds de concours en vue de l'application du titre Ier du livre II du code de la santé publique ainsi que du présent décret.
+Viennent en atténuation des dépenses indiquées au présent article toutes recettes faites par l'Etat ou les départements susceptibles de constituer des fonds de concours en vue de l'application du titre 1er du livre II du code de la santé publique ainsi que du présent décret.
