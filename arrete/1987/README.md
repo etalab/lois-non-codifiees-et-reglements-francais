@@ -104,6 +104,7 @@
 - [Arrêté du 8 janvier 1987](arrete-du-8-janvier-1987)
 - [Arrêté du 8 janvier 1987 (BUDF8720001A)](arrete-du-8-janvier-1987-budf8720001a)
 - [Arrêté du 8 janvier 1987 (MENF8700026A)](arrete-du-8-janvier-1987-menf8700026a)
+- [Arrêté du 8 juillet 1987](arrete-du-8-juillet-1987)
 - [Arrêté du 9 février 1987 (JUSC8720101A)](arrete-du-9-fevrier-1987-jusc8720101a)
 - [Arrêté du 9 février 1987 (TRSA8700049A)](arrete-du-9-fevrier-1987-trsa8700049a)
 - [Arrêté du 9 janvier 1987 (ECOT8730002A)](arrete-du-9-janvier-1987-ecot8730002a)
