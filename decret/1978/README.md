@@ -2,6 +2,7 @@
 
 - [Décret n°78-119 du 2 février 1978](decret-n78-119-du-2-fevrier-1978)
 - [Décret n°78-15 du 3 janvier 1978](decret-n78-15-du-3-janvier-1978)
+- [Décret n°78-20 du 3 janvier 1978](decret-n78-20-du-3-janvier-1978)
 - [Décret n°78-219 du 3 mars 1978](decret-n78-219-du-3-mars-1978)
 - [Décret n° 78-252 du 8 mars 1978](decret-n-78-252-du-8-mars-1978)
 - [Décret n°71-187 du 9 mars 1971](decret-n71-187-du-9-mars-1971)
@@ -11,6 +12,7 @@
 - [Décret n°78-370 du 15 mars 1978](decret-n78-370-du-15-mars-1978)
 - [Décret n°77-1255 du 16 novembre 1977](decret-n77-1255-du-16-novembre-1977)
 - [Décret n°78-965 du 19 septembre 1978](decret-n78-965-du-19-septembre-1978)
+- [Décret n°77-1536 du 21 décembre 1977](decret-n77-1536-du-21-decembre-1977)
 - [Décret n°78-206 du 21 février 1978](decret-n78-206-du-21-fevrier-1978)
 - [Décret n°77-1465 du 28 décembre 1977](decret-n77-1465-du-28-decembre-1977)
 - [Décret n°77-1475 du 28 décembre 1977](decret-n77-1475-du-28-decembre-1977)
