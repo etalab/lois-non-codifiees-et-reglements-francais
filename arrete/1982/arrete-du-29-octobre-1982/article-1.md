@@ -1,3 +1,3 @@
 # Article 1
 
-Délégation de compétence est donnée aux commissaires de la République pour fixer dans chaque département la marge applicable à la vente au détail des viandes de boeuf et de veau.
+L'indemnité forfaitaire d'hébergement prévue par l'article 2 du décret du 29 octobre 1982 susvisé est fixée à 225 F par mois.
