@@ -1,3 +1,5 @@
 # Article 5
 
-En cas d'urgence et de nécessité impérieuse, le directeur peut procéder, à titre tout à fait exceptionnel, à un virement de crédit entre comptes limitatifs, après en avoir informé le directeur régional des affaires sanitaires et sociales et en accord avec le président du conseil d'administration et sous réserve que ce virement fasse l'objet d'une régularisation lors de la première réunion du conseil d'administration qui suivra.
+A l'issue de la période d'indisponibilité des fonds, un certificat des intérêts acquis ouvrant la possibilité d'obtenir un prêt visé à l'article 6 ci-dessous est remis au titulaire du compte par l'établissement de crédit dépositaire. Ce certificat est valable deux ans à compter de la mise à disponibilité des fonds.
+
+Les sommes inscrites au compte du souscripteur continuent de produire intérêt au taux fixé par l'arrêté du ministre de l'économie, des finances et du budget visé à l'article 1er, paragraphe II, de la loi susvisée jusqu'au retrait effectif des fonds. Les intérêts acquis pendant cette période ne peuvent être retenus pour le calcul des intérêts acquis visés à l'article 8.

@@ -1,4 +1,4 @@
-# Arrêté du 30 août 1984 relatif aux comptes budgétaires des organismes de sécurité sociale du régime général présentant un caractère limitatif
+# Arrêté du 30 août 1984 relatif au livret d'épargne entreprise
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,7 @@
 # Article 7
 
-Sont abrogées à la même date les dispositions de l'arrêté du 26 avril 1974 relatif aux comptes budgétaires des organismes de sécurité sociale du régime général présentant un caractère limitatif ainsi que les dispositions contraires au présent arrêté.
+Pour pouvoir bénéficier de la cession des droits du titulaire d'un livret, les personnes physiques doivent soit reprendre son entreprise, soit appartenir à sa famille. Sont considérés comme appartenant à la famille du titulaire :
+
+- son conjoint ;    - ses ascendants, descendants, oncles, tantes, frères, soeurs, neveux et nièces et ceux de son conjoint ;
+
+- les conjoints de ses frères, soeurs et descendants et ceux de son conjoint.

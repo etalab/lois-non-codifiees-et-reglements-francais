@@ -258,6 +258,7 @@
 - [Décret n°84-69 du 30 janvier 1984](decret-n84-69-du-30-janvier-1984)
 - [Décret n°84-71 du 30 janvier 1984](decret-n84-71-du-30-janvier-1984)
 - [Décret n°84-72 du 30 janvier 1984](decret-n84-72-du-30-janvier-1984)
+- [Décret n°84-810 du 30 août 1984](decret-n84-810-du-30-aout-1984)
 - [Décret n°84-406 du 30 mai 1984](decret-n84-406-du-30-mai-1984)
 - [Décret n°84-410 du 30 mai 1984](decret-n84-410-du-30-mai-1984)
 - [Décret n°84-416 du 30 mai 1984](decret-n84-416-du-30-mai-1984)
