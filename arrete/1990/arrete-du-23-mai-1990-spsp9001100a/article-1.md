@@ -6,8 +6,6 @@ Spécialités médicales
 
 Anatomie et cytologie pathologiques.
 
-Anesthésiologie-réanimation chirurgicale.
-
 Dermatologie et vénéréologie.
 
 Endocrinologie et métabolismes.
@@ -79,3 +77,7 @@ Biologie médicale.
 Psychiatrie
 
 Psychiatrie.
+
+Anesthésiologie-réanimation chirurgicale
+
+Anesthésiologie-réanimation chirurgicale.

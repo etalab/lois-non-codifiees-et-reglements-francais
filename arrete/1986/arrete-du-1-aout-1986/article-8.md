@@ -18,20 +18,20 @@ II. - Sont interdits :
 
 1. Pour la chasse du chamois ou isard :
 
-- la chasse en battue ou traque, sauf dans les départements suivants : Ain, Alpes-Maritimes, Haute-Savoie, Vosges ;
+La chasse en battue ou traque, sauf dans les départements suivants : Ain, Alpes-Maritimes, Haute-Savoie, Vosges ;
 
-- l'emploi des chiens, sauf dans les départements suivants :
+L'emploi des chiens, sauf dans les départements suivants :
 
-Alpes-Maritimes, Haute-Savoie, Vosges ;
+Alpes-Maritimes, Haute-Savoie, Vosges.
 
 2. Pour la chasse du mouflon :
 
-- la chasse en battue ou traque, sauf dans les départements suivants : Alpes-Maritimes, Aveyron, Dordogne, Gard, Lozère, Puy-de-Dôme, Haute-Savoie, Vosges ;
+La chasse en battue ou traque, sauf dans les départements suivants : Alpes-Maritimes, Aveyron, Dordogne, Gard, Hérault, Lozère, Puy-de-Dôme, Haute-Savoie, Vosges ;
 
-- l'emploi des chiens, sauf dans les départements suivants :
+L'emploi des chiens, sauf dans les départements suivants :
 
-Alpes-Maritimes, Aveyron, Dordogne, Gard, Lozère, Puy-de-Dôme, Savoie, Haute-Savoie, Vosges.
+Aveyron, Dordogne, Gard, Hérault, Lozère, Puy-de-Dôme, Savoie, Haute-Savoie, Vosges.
 
 III. - La chasse du lapin peut être pratiquée à l'aide du furet. Toutefois son emploi est soumis à une autorisation individuelle délivrée par le préfet dans les départements suivants :
 
-Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Ariège, Ardèche, Aude, Aveyron, Bouches-du-Rhône, Cantal, Charente, Corrèze, Corse-du-Sud, Haute-Corse, Côtes-du-Nord, Creuse, Dordogne, Finistère, Gard, Haute-Garonne, Gers, Gironde, Hérault, Landes, Haute-Loire, Lot, Lot-et-Garonne, Lozère, Mayenne, Morbihan, Puy-de-Dôme, Pyrénées-Atlantiques, Hautes-Pyrénées, Pyrénées-Orientales, Haute-Savoie, Tarn-et-Garonne, Var, Vaucluse, Haute-Vienne.
+Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Ariège, Ardèche, Aude, Aveyron, Bouches-du-Rhône, Cantal, Charente, Corrèze, Corse-du-Sud, Haute-Corse, Côtes-du-Nord, Creuse, Dordogne, Finistère, Gard, Haute-Garonne, Gers, Gironde, Hérault, Landes, Haute-Loire, Lot, Lot-et-Garonne, Lozère, Morbihan, Puy-de-Dôme, Pyrénées-Atlantiques, Hautes-Pyrénées, Pyrénées-Orientales, Haute-Savoie, Tarn-et-Garonne, Var, Vaucluse, Haute-Vienne.
