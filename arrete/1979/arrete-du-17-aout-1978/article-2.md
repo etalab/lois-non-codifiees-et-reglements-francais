@@ -4,4 +4,12 @@ L'épreuve théorique est écrite. Toutefois, par dérogation accordée par le m
 
 Cette épreuve à forme objective (questions dites à choix multiple) est notée suivant un système de points. Pour être déclaré reçu, le candidat doit obtenir au moins 90 p. 100 du nombre maximal de points. Le candidat déclaré reçu reçoit un certificat d'aptitude.
 
-Sont dispensés de l'épreuve théorique les candidats titulaires d'un brevet civil ou militaire de pilote d'avion ou d'hélicoptère ainsi que les titulaires d'un certificat d'aptitude théorique d'un brevet de pilote professionnel d'avion ou d'hélicoptère.
+Sont dispensés de l'épreuve théorique les candidats :
+
+- titulaires d'un brevet civil ou militaire de pilote d'avion ou d'hélicoptère ;
+
+- titulaires d'une licence de membre d'équipage de conduite d'avions (FCL1) ;
+
+- titulaires d'un certificat d'aptitude théorique, d'un brevet de pilote professionnel d'avion ou d'hélicoptère ; ou
+
+- ayant démontré à l'Autorité qu'ils possèdent un niveau de connaissances correspondant aux privilèges des titulaires d'une licence de pilote professionnel avion CPL (A) ou d'une licence de pilote de ligne avion ATPL (A).
