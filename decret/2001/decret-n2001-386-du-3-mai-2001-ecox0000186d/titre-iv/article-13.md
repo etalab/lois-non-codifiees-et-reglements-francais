@@ -1,0 +1,9 @@
+# Article 13
+
+1° L'exploitant est responsable de l'entretien et des réparations nécessaires au maintien du niveau de sécurité de l'équipement. Il effectue, s'il en a la compétence, ou fait effectuer par une personne compétente, les opérations nécessaires à cet effet. Il a l'obligation de retirer l'équipement du service si son niveau de sécurité est altéré.
+
+2° Sauf dispositions particulières définies par des arrêtés du ministre chargé de l'industrie, dans le cas des récipients, pris après avis de la commission centrale des appareils à pression, ou du ministre chargé des transports, dans le cas des citernes, pris après avis de la commission interministérielle du transport des matières dangereuses, la réparation ou la modification d'un équipement sous pression transportable est réalisée conformément aux principes applicables à la fabrication d'équipements neufs, notamment pour ce qui concerne la qualification des modes opératoires d'assemblage permanent, la réalisation et le contrôle des assemblages permanents.
+
+Ces arrêtés précisent les opérations de contrôle après réparation ou modification. Les équipements sous pression transportables construits conformément aux dispositions du décret du 18 janvier 1943 susvisé peuvent faire l'objet de réparations et modifications conformément aux dispositions techniques définies par ce décret et ses textes d'application.
+
+3° Les opérations de contrôle après réparation ou modification des équipements sous pression transportables qui n'ont pas fait l'objet d'une réévaluation de leur conformité sont réalisées sous la surveillance du préfet. Celui-ci peut confier tout ou partie de ces tâches techniques à des organismes habilités ou à des organismes agréés à cet effet conformément à l'article 14 du présent décret. Des arrêtés des ministres compétents précisent, s'il y a lieu, les règles particulières de réalisation de ces opérations et les récipients concernés.
