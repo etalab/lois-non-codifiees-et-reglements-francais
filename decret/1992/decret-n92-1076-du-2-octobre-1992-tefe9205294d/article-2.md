@@ -6,9 +6,9 @@ Le principe de l'aide de l'Etat est réexaminé tous les douze mois au moment de
 
 Cette aide est égale :
 
-- à 60 p. 100 du montant mentionné à l'alinéa 1 du présent article pour la première année d'exécution du contrat, à 50 p. 100 pour la deuxième année, à 40 p. 100 pour la troisième année, à 30 p. 100 pour la quatrième année, à 20 p. 100 pour la cinquième année ;
+- pour les personnes mentionnées au premier alinéa du I de l'article L. 322-4-8-1 du code du travail, à 60 p. 100 du montant mentionné au premier alinéa du présent article pour la première année d'exécution du contrat, à 50 p. 100 la deuxième année, 40 p. 100 la troisième année, 30 p. 100 la quatrième année, 20 p. 100 la cinquième année, ou, pour les plus en difficulté d'entre elles, à 50 p. 100 pendant les cinq premières années d'exécution du contrat ;
 
-- pour les personnes les plus en difficulté, à 50 p. 100 de ce même montant pendant les cinq premières années d'exécution du contrat.
+- pour les personnes mentionnées au deuxième alinéa du I de l'article L. 322-4-8-1 du code du travail, à 75 p. 100 de ce même montant pour la première année d'exécution du contrat, à 65 p. 100 la deuxième année, 55 p. 100 la troisième année, 45 p. 100 la quatrième année, 35 p. 100 la cinquième année, ou à 55 p. 100 pendant les cinq premières années d'exécution du contrat. Ces taux sont également applicables aux jeunes recrutés en application de l'article 102 de la loi du 4 février 1995 modifiée.
 
 Pour les conventions et avenants conclus entre le 1er janvier 1995 et le 31 décembre 1995 :
 
