@@ -1,0 +1,5 @@
+# Article 4
+
+La cotisation annuelle est égale au produit du nombre de points correspondant à chaque classe par la valeur du point de cotisation déterminée par un décret contresigné par le ministre de la Santé publique et de la Sécurité sociale, le ministre de l'Economie et des finances et le ministre du Développement industriel et scientifique.Ledit décret peut prévoir des valeurs du point de cotisation différentes pour les assujettis mariés, d'une part, et les autres assujettis, d'autre part, la situation matrimoniale des intéressés étant appréciée à la date de l'échéance annuelle de la cotisation ou, en cas de fractionnement du paiement de la cotisation, à la date de chacune des échéances semestrielles ou trimestrielles.
+
+Lorsqu'il est fait application des dispositions du précédent alinéa, une décision du conseil d'administration de la caisse nationale de compensation, approuvée par arrêté conjoint du ministre de la Santé publique et de la Sécurité sociale et du ministre de l'Economie et des Finances, fixe les conditions dans lesquelles des prestations supplémentaires peuvent être accordées aux conjoints survivants.
