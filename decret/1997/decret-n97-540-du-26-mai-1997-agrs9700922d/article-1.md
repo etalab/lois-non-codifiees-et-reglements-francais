@@ -1,3 +1,3 @@
 # Article 1
 
-Les dispositions du présent décret sont applicables aux employeurs des salariés mentionnés au premier alinéa de l'article 992 du code rural.
+Les dispositions du présent décret sont applicables aux employeurs mentionnés à l'article L. 713-1 du code rural.
