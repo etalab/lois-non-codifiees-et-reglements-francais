@@ -1,0 +1,3 @@
+# Article 5
+
+L'agent qui, du fait de l'administration, n'a pu utiliser les droits à congés accumulés sur son compte épargne-temps avant l'expiration du délai prévu par les articles 6 et 7 du décret du 29 avril 2002 susvisé en bénéficie de plein droit préalablement à cette date. Le service chargé de la gestion des personnels de l'administration centrale l'informe de ce droit par la voie hiérarchique dans des délais qui en permettent l'exercice, soit un mois avant la date utile de début du congé pour un congé inférieur ou égal à trois mois, et trois mois avant cette même date de début pour un congé supérieur à trois mois.

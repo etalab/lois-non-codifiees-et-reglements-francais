@@ -1,0 +1,5 @@
+# Article 13
+
+La dénomination des aliments composés contenant des farines de poissons, crustacés ou coquillages, des protéines hydrolysées de poissons, des protéines hydrolysées de plumes, du phosphate bicalcique dérivé d'os, ou des graisses obtenues à partir de farines de poissons, interdits dans l'alimentation des ruminants conformément à l'arrêté du 24 juillet 1990 susvisé, doit être complétée selon le cas par l'une des mentions : "Contient de la farine de poissons, crustacés ou coquillages. Ne peut être utilisé dans l'alimentation des ruminants" ou "Contient des protéines hydrolysées de poissons. Ne peut être utilisé dans l'alimentation des ruminants" ou "Contient des protéines hydrolysées de plumes. Ne peut être utilisé dans l'alimentation des ruminants" ou "Contient du phosphate bicalcique dérivé d'os dégraissés. Ne peut être utilisé dans l'alimentation des ruminants" ou "Contient des graisses obtenues à partir de farines de poissons. Ne peut être utilisé dans l'alimentation des ruminants".
+
+Cette disposition ne s'applique pas aux aliments composés destinés exclusivement à des animaux familiers.

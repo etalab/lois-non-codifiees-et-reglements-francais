@@ -1,0 +1,3 @@
+# Article 1
+
+Les agents visés à l'article 2 du décret du 29 avril 2002 susvisé et qui exercent leurs fonctions dans les services de l'administration centrale du ministère chargé de l'éducation nationale et de la recherche et au sein des organismes qui lui sont rattachés peuvent ouvrir un compte épargne-temps, sur demande écrite adressée par voie hiérarchique au service chargé de la gestion des personnels de l'administration centrale, dès lors qu'ils ne bénéficient pas déjà d'un tel compte précédemment ouvert et non clôturé auprès d'un autre service, d'une autre administration de l'Etat ou d'un établissement public.
