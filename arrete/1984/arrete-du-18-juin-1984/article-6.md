@@ -1,9 +1,3 @@
 # Article 6
 
-Les représentants des affiliés sont élus par collège au scrutin majoritaire de liste à deux tours.
-
-Nul n'est élu au premier tour de scrutin s'il n'a réuni :
-
-1° La majorité absolue des suffrages exprimés ;
-
-2° Un nombre de suffrages égal au quart de celui des électeurs inscrits. Au deuxième tour de scrutin, l'élection a lieu à la majorité relative, quel que soit le nombre de votants. Si plusieurs candidats obtiennent le même nombre de suffrages, l'élection est acquise au plus âgé.
+Le directeur de la qualité (service vétérinaire d'hygiène alimentaire) au ministère de l'agriculture et le directeur général des douanes et droits indirects au ministère de l'économie, des finances et du budget sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté qui entrera en application un mois après la date de publication au Journal officiel de la République française.

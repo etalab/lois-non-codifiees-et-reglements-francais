@@ -1,7 +1,5 @@
 # Article 1
 
-La fabrication, l'exportation, l'importation et la mise sur le marché à titre gratuit ou onéreux des gommes à effacer qui, par leur forme, leur présentation ou leur odeur, rappellent des denrées alimentaires et qui peuvent être facilement ingérées sont suspendues pour une période d'un an à compter de la date de publication du présent arrêté.
+Pour la campagne 1983-1984, le taux de la taxe perçue au profit du Fonds national de développement agricole est fixé à 0,51 p. 100 du prix minimal de la betterave sur le tonnage de betteraves défini à l'article 2 du décret n° 83-641 du 29 juin 1983 relatif à la taxe parafiscale applicable à la betterave destinée à la production de sucre et d'alcool au profit du Fonds national de développement agricole.
 
-Il sera procédé au retrait et à la destruction des produits mentionnés à l'alinéa précédent en tous lieux où ils se trouvent.
-
-Les frais afférents au retrait et à la destruction sont mis à la charge des fabricants ou des importateurs.
+Le montant de cette taxe, soit 1,32 F par tonne, est versé à l'organisme bénéficiaire avant le 30 juin 1984 dans les conditions prévues à l'article 3 dudit décret.

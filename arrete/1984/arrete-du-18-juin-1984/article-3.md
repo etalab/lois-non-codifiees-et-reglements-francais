@@ -1,7 +1,5 @@
 # Article 3
 
-Sont électeurs dans le sixième collège les prestataires majeurs et les représentants légaux des enfants à charge orphelins de père et de mère.
+Pour vérifier la conformité de sa production aux normes sanitaires et qualitatives fixées en annexe, le responsable de cet établissement doit faire procéder à des contrôles, aux frais de l'entreprise, et selon un protocole établi par le ministère de l'agriculture.
 
-Sont électeurs dans les autres collèges les navigants professionnels ayant cotisé à la caisse de retraite du personnel navigant pendant le quatrième trimestre de l'année civile précédant celle des élections.
-
-Sont privés du droit électoral les affiliés ou représentants légau ayant encouru des condamnations prévues aux articles L. 5, L. 6 et L. 7 du code électoral.
+Les résultats seront mis à la disposition du service vétérinaire et conservés pendant au moins un an.

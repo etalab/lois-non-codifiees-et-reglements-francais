@@ -1,3 +1,5 @@
 # Article 1
 
-Au 1er juillet 1984, les caisses d'allocations familiales et les unions régionales de sociétés de secours minières disposent du reliquat de la dotation annuelle mise à leur disposition pour l'attribution de prêts aux jeunes ménages en 1984.
+A compter du 12 septembre 1984, à zéro heure, les taux de la taxe parafiscale instituée par le décret susvisé sont fixés comme suit :
+
+NUMERO du tarif douanier : 27-07 et 27-10    Supercarburant. INDICES d'identification du tableau B de l'article 265 du code des douanes : 1 et 10 TAUX (en F/hl) : 20,62    Essence. INDICES d'identification du tableau B de l'article 265 du code des douanes : 1 et 5 et 11 TAUX (en F/hl) : 21,00    Gazole [*gas-oil*]. INDICES d'identification du tableau B de l'article 265 du code des douanes : 19 et 24 TAUX (en F/hl) : 5,20    Fioul [*fuel*] domestique. INDICES d'identification du tableau B de l'article 265 du code des douanes : 18 et 23 TAUX (en F/hl) : 3,37

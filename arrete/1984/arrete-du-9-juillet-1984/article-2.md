@@ -1,5 +1,3 @@
 # Article 2
 
-La banque de données B.O.A.M.P. a pour objet la diffusion télématique au public des informations contenues dans le bulletin.
-
-Le traitement a pour fonction de permettre l'accès en mode conversationnel à la banque de données, la diffusion sélective d'informations, l'impression en différé.
+La part du produit de la taxe correspondant au taux fixé à l'article 1er de l'arrêté du 8 juin 1984 est utilisée dans les conditions prévues par l'arrêté susvisé.
