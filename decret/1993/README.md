@@ -304,7 +304,6 @@
 - [Décret n°93-1176 du 13 octobre 1993 (MCCB9300297D)](decret-n93-1176-du-13-octobre-1993-mccb9300297d)
 - [Décret n°93-1296 du 13 décembre 1993 (ECOT9351318D)](decret-n93-1296-du-13-decembre-1993-ecot9351318d)
 - [Décret n°93-1297 du 13 décembre 1993 (ECOT9351322D)](decret-n93-1297-du-13-decembre-1993-ecot9351322d)
-- [Décret n°93-1298 du 13 décembre 1993 (ECOT9351323D)](decret-n93-1298-du-13-decembre-1993-ecot9351323d)
 - [Décret n°93-1299 du 13 décembre 1993 (ECOT9351314D)](decret-n93-1299-du-13-decembre-1993-ecot9351314d)
 - [Décret n°93-1309 du 13 décembre 1993 (JUSF9350007D)](decret-n93-1309-du-13-decembre-1993-jusf9350007d)
 - [Décret n°93-1311 du 13 décembre 1993 (DOMP9300037D)](decret-n93-1311-du-13-decembre-1993-domp9300037d)
