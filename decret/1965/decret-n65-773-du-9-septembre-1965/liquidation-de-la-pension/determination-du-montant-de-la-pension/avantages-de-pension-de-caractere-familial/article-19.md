@@ -4,13 +4,15 @@ I - Une majoration de pension est accordée aux titulaires ayant élevé au moin
 
 II - Ouvrent droit à cette majoration :
 
-Les enfants légitimes, naturels dont la filiation est légalement établie ou adoptifs du titulaire de la pension ;
+Les enfants légitimes, les enfants naturels dont la filiation est établie et les enfants adoptifs du titulaire de la pension ;
 
-Les enfants du conjoint issus d'un mariage précédent ou encore naturels reconnus ou adoptifs ;
+Les enfants du conjoint issus d'un mariage précédent, ses enfants naturels dont la filiation est établie et ses enfants adoptifs ;
 
-Les enfants ayant fait l'objet d'une délégation judiciaire des droits d'autorité parentale en faveur du titulaire de la pension ou de son conjoint.
+Les enfants ayant fait l'objet d'une délégation de l'autorité parentale en faveur du titulaire de la pension ou de son conjoint ;
 
-Les enfants orphelins de père et de mère, les enfants orphelins reconnus par un seul de leurs parents et les pupilles de la nation, placés sous tutelle du titulaire de la pension ou de son conjoint, lorsque la tutelle s'accompagne de la garde effective et permanente de l'enfant.
+Les enfants placés sous tutelle du titulaire de la pension ou de son conjoint, lorsque la tutelle s'accompagne de la garde effective et permanente de l'enfant ;
+
+Les enfants recueillis à son foyer par le titulaire de la pension ou son conjoint, qui justifie en avoir assumé la charge effective et permanente par la production de tout document administratif établissant qu'ils ont été retenus pour l'octroi des prestations familiales ou du supplément familial de traitement ou pour le calcul de l'impôt sur le revenu.
 
 III - A l'exception des enfants décédés par faits de guerre, les enfants devront avoir été élevés pendant au moins neuf ans, soit avant leur seizième anniversaire, soit avant l'âge où ils ont cessé d'être à charge au sens de l'article L. 527 du code de la sécurité sociale.
 
