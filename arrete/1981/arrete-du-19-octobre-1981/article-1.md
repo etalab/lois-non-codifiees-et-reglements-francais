@@ -1,0 +1,3 @@
+# Article 1
+
+Les certificats de qualification délivrés par des organismes certificateurs agréés selon des règlements techniques approuvés doivent comporter [*mentions obligatoires*] l'indication "organisme certificateur agréé n° ...", ainsi que la marque dite Marque "A", propriété de l'Etat, et déposée à l'institut national de la propriété industrielle sous le numéro 523415, représentée dans l'annexe du présent arrêté (figure 1 [*non reproduite*]). L'annexe de cet arrêté peut être obtenue, sur demande, au ministère de l'industrie (service de la qualité des produits industriels, 99, rue de Grenelle, 75007 Paris (Téléphone : 556-32-29).
