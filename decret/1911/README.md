@@ -3,4 +3,3 @@
 - [Décret du 2 mai 1911](decret-du-2-mai-1911)
 - [Décret du 21 décembre 1911](decret-du-21-decembre-1911)
 - [Décret du 24 mai 1911](decret-du-24-mai-1911)
-- [Décret du 26 juin 1911](decret-du-26-juin-1911)
