@@ -2,7 +2,6 @@
 
 - [Article 1](article-1.md)
 - [CHAPITRE Ier : Recrutement.](chapitre-ier)
-- [Article 2](article-2.md)
 - [CHAPITRE II : Nomination et avancement.](chapitre-ii)
 - [Article 3](article-3.md)
 - [CHAPITRE III : Dispositions spéciales.](chapitre-iii)
