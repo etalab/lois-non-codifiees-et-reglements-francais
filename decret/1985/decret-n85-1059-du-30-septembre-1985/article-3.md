@@ -1,0 +1,5 @@
+# Article 3
+
+En ce qui concerne les personnels désignés pour assurer les fonctions de remplacement mentionnées au a de l'article 1er ci-dessus qui appartiennent à des corps dont les membres sont, en vertu des dispositions statutaires, nommés par le ministre de l'éducation nationale, délégation est donnée au recteur d'académie pour procéder aux nominations successives des intéressés dans les emplois provisoirement vacants.
+
+Les personnels désignés pour assurer les fonctions de remplacement mentionnées au b de l'article 1er ci-dessus sont nommés par l'autorité compétente sur des emplois, dits de remplacement, mis à la disposition du recteur, à qui il appartient ensuite d'affecter les intéressés dans les postes où ils auront à remplir les missions de suppléance, de courte ou moyenne durée, qui leur incombent. En ce qui les concerne, la décision de nomination indique l'établissement public d'enseignement ou le service situé dans la zone de remplacement auquel le fonctionnaire concerné est rattaché pour sa gestion. Le territoire de la commune où est implanté cet établissement ou ce service est la résidence administrative de l'intéressé.

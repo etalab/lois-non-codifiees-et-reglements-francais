@@ -1,3 +1,3 @@
 # Article 27
 
-Les mutations sont prononcées par le ministre chargé de l'éducation, après avis de la commission administrative paritaire nationale. Sous réserve des mutations prononcées en cours d'année dans l'intérêt du service, elles prennent effet à la rentrée scolaire.
+La désignation des personnels qui doivent recevoir une première affectation à l'issue de leur titularisation et de ceux qui sont appelés à changer d'académie est prononcée par décision du ministre chargé de l'éducation, après avis des instances paritaires compétentes. Toutefois, les changements d'académie en cours d'année scolaire dans l'intérêt du service sont prononcés sous réserve d'examen ultérieur par les instances paritaires précitées.
