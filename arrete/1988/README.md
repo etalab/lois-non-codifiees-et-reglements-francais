@@ -639,6 +639,7 @@
 - [Arrêté du 28 mars 1988 (FPPA8800026A)](arrete-du-28-mars-1988-fppa8800026a)
 - [Arrêté du 28 mars 1988 (PTTT8800292A)](arrete-du-28-mars-1988-pttt8800292a)
 - [Arrêté du 28 mars 1988 (TRSA8800090A)](arrete-du-28-mars-1988-trsa8800090a)
+- [Arrêté du 28 novembre 1988 (INDD8800931A)](arrete-du-28-novembre-1988-indd8800931a)
 - [Arrêté du 28 novembre 1988 (JUSB8810369A)](arrete-du-28-novembre-1988-jusb8810369a)
 - [Arrêté du 28 octobre 1988 (SPSA8801625A)](arrete-du-28-octobre-1988-spsa8801625a)
 - [Arrêté du 28 octobre 1988 (TRSA8800582A)](arrete-du-28-octobre-1988-trsa8800582a)

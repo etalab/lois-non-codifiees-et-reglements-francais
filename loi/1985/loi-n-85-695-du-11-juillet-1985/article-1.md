@@ -1,6 +1,8 @@
 # Article 1
 
-I - Les sociétés françaises par actions, dites sociétés de capital-risque, sont exonérées d'impôt sur les sociétés sur les produits et plus-values nets provenant des titres de sociétés non cotées qu'elles détiennent si leur situation nette comptable est représentée de façon constante à concurrence de 50 p. 100 au moins, pourcentage minimum de parts, actions, obligations convertible ou titres participatifs de sociétés françaises dont les actions ne sont pas admises à la cote officielle ou à la cote du second marché, qui exercent une activité mentionnée à l'article 34 du code général des impôts et qui sont soumises à l'impôt sur les sociétés au taux de 50 p. 100.
+I - Les sociétés françaises par actions, dites sociétés de capital-risque, sont exonérées d'impôt sur les sociétés sur les produits et plus-values nets provenant des titres de sociétés non cotées qu'elles détiennent, ainsi que sur les plus-values nettes provenant des actions acquises avant leur admission à la cote officielle ou à la cote du second marché et qui sont cédées dans un délai de trois ans à compter de cette admission, si leur situation nette comptable est représentée de façon constante à concurrence de 50 p. 100 au moins [*pourcentage minimum*] de parts, actions, obligations convertibles ou titres participatifs de sociétés françaises dont les actions ne sont pas admises à la cote officielle ou à la cote du second marché, qui exercent une activité mentionnée à l'article 34 du code général des impôts et qui sont soumises à l'impôt sur les sociétés au taux de 50 p. 100.
+
+Sont pris en compte pour le calcul de la proportion de 50 p. 100 les parts, actions, obligations convertibles ou titres participatifs des sociétés françaises non cotées soumises à l'impôt sur les sociétés, qui ont pour activité exclusive de gérer des participations dans des sociétés remplissant les conditions pour être retenues dans le portefeuille exonéré des sociétés de capital-risque.
 
 La proportion mentionnée à l'alinéa précédent est atteinte dans un délai de trois ans à compter du début du premier exercice au titre duquel la société a demandé le bénéfice du régime fiscal de société de capital-risque. Pour le calcul de cette proportion, les augmentations de capital ne sont prises en compte qu'à compter du deuxième exercice suivant celui au cours duquel elles sont réalisées.
 
@@ -26,4 +28,4 @@ c) L'actionnaire, son conjoint et leurs ascendants et descendants ne doivent pas
 
 IV - Un décret en Conseil d'Etat fixe les modalités d'application des paragraphes précédents, notamment la composition de l'actif et du portefeuille des sociétés de capital-risque, les caractéristiques des participations et les conditions dans lesquelles les produits et les plus-values nets exonérés devront être distribués.
 
-Les dispositions du présent article sont applicables à compter du premier exercice clos après la publication de la présente loi.
+Les dispositions du présent article sont applicables à compter du premier exercice clos après la publication de la présente loi [*date d'application*].
