@@ -1,0 +1,3 @@
+# Article 27
+
+La diffusion d'oeuvres cinématographiques par les services de télévision comportant des programmes soumis à des conditions d'accès particulières qui sont financés pour 75 p. 100 [*pourcentage*] au moins par un abonnement propre au service et qui consacrent au moins 25 p. 100 de leurs ressources totales annuelles à l'acquisition de droits de diffusion d'oeuvres cinématographiques pour leurs propres abonnés est soumise à des dispositions identiques aux dispositions permanentes qui résultent du décret du 14 mars 1986 portant approbation du traité de concession et du cahier des charges de la société d'exploitation de la 4e chaîne.
