@@ -7,6 +7,7 @@
 - [Décret n°61-923 du 3 août 1961](decret-n61-923-du-3-aout-1961)
 - [Décret n°62-1185 du 3 octobre 1962](decret-n62-1185-du-3-octobre-1962)
 - [Décret n°62-377 du 3 avril 1962](decret-n62-377-du-3-avril-1962)
+- [Décret n°62-379 du 3 avril 1962](decret-n62-379-du-3-avril-1962)
 - [Décret n°62-380 du 3 avril 1962](decret-n62-380-du-3-avril-1962)
 - [Décret n°61-447 du 3 mai 1961](decret-n61-447-du-3-mai-1961)
 - [Décret n°61-1304 du 4 décembre 1961](decret-n61-1304-du-4-decembre-1961)
