@@ -18,6 +18,4 @@ Confédération générale des cadres (C.G.C.) : un.
 
 /M/Fédération générale des cadres fonctionnaires (union des cadres et techniciens (U.C.T.) : un/M/ARR. 1979-07-20 :
 
-Fédération générale autonome des fonctionnaires agents et ouvriers de l'Etat et des services publics (F.G.A.F.) : un//.
-
-Fédération de l'éducation nationale (F.E.N.) : un.
+Union nationale des syndicats autonomes : deux    Fédération syndicale unifiée (F.S.U.) : un.
