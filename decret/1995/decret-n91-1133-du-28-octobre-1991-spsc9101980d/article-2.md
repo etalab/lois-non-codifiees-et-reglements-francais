@@ -2,7 +2,7 @@
 
 La délégation a pour mission :
 
-1° De proposer et de coordonner les mesures destinées à favoriser le développement des coopératives, des mutuelles et des associations intervenant dans le secteur de l'économie sociale ;
+1° De proposer et de coordonner les mesures destinées à favoriser le développement des coopératives, des mutuelles et des associations ;
 
 2° De promouvoir en ce domaine les initiatives et les innovations ;
 
