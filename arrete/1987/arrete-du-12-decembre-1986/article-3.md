@@ -4,16 +4,20 @@ En application des dispositions de l'article 1er (c) du décret n° 66-699 du 14
 
 - un délégué et un suppléant de chacun des ministères chargés de :
 
-l'environnement, la santé, l'intérieur, l'industrie, l'agriculture, le budget, l'économie, l'équipement et l'aménagement du territoire, les transports, la mer, le tourisme, la jeunesse et les sports ;
+l'environnement, la santé, l'intérieur, l'industrie, l'agriculture, le budget, l'économie, l'équipement et l'aménagement du territoire, les transports, la mer, le tourisme, la jeunesse et les sports, les affaires étrangères ;
 
-- le commissaire de la République de la région Midi-Pyrénées ;
+- le commissaire de la République de la région Franche-Comté ;
 
-- le commissaire de la République de la région Aquitaine ;
+- le commissaire de la République de la région Bourgogne ;
+
+- le commissaire de la République de la région Rhône-Alpes ;
 
 - le commissaire de la République de la région Languedoc-Roussillon ;
 
-- le commissaire de la République de la région Poitou-Charentes ;
+- le commissaire de la République de la région Provence-Alpes-Côte d'Azur ;
 
-- le commissaire de la République de la région Limousin ;
+- le commissaire de la République de la région Corse ;
 
-- le commissaire de la République de la région Auvergne.
+- le commissaire de la République du département de la Haute-Marne ;
+
+- le commissaire de la République du département des Vosges.

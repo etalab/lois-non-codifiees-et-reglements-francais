@@ -1,0 +1,17 @@
+# Modalités de livraison
+
+- [Compensation des contrats.](compensation-des-contrats)
+- [Défaut.](defaut)
+- [Documents.](documents)
+- [Présentation des documents et paiement.](presentation-des-documents-et)
+- [Force majeure.](force-majeure)
+- [Garantie financière.](garantie-financiere)
+- [Notification.](notification)
+- [Obligations de l'acheteur.](obligations-de-l-acheteur)
+- [Obligations du vendeur.](obligations-du-vendeur)
+- [Période d'exécution de livraison.](periode-d-execution-de-livraison)
+- [Quantité.](quantite)
+- [Reconnaissance de la marchandise.](reconnaissance-de-la-marchandise)
+- [Réparation de préjudice.](reparation-de-prejudice)
+- [Solution des litiges.](solution-des-litiges)
+- [Transfert de propriété.](transfert-de-propriete)

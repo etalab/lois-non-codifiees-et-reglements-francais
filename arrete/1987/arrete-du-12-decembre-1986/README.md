@@ -1,4 +1,4 @@
-# Arrêté du 12 décembre 1986 relatifs à la représentation des régions, des départements, des diverses catégories d'usagers, des personnes compétentes et de l'administration aux comités de bassin (ADOUR-GARONNE).
+# Arrêté du 12 décembre 1986 relatifs à la représentation des régions, des départements, des diverses catégories d'usagers, des personnes compétentes et de l'administration aux comités de bassin (RHONE-MEDITERRANEE).
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
