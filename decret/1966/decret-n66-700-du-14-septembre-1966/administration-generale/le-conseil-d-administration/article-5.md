@@ -1,23 +1,33 @@
 # Article 5
 
-Le conseil d'administration de l'agence comprend vingt membres nommés ou élus pour six ans [*nombre, composition*] :
+Le conseil d'administration de l'agence est consitué, outre le président, de vingt-cinq membres nommés ou élus pour six ans :
 
-Dix représentants de l'Etat, savoir :
+[*composition, durée du mandat*]    1° Huit représentants des collectivités territoriales choisis par et parmi les membres représentant les collectivités territoriales au comité de bassin, sans que cette désignation puisse porter effet au-delà de la durée du mandat dont ils sont investis au comité de bassin ;
 
-Pour l'ensemble des agences de bassin :
+2° Huit représentants des différentes catégories d'usagers choisis par et parmi les membres représentant ces catégories d'usagers au comité de bassin, dont au moins un représentant d'une association de pêche et de pisciculture ou d'une autre association agréée de protection de la nature et de l'environnement ou d'une association de consommateurs ;
 
-Le délégué à l'aménagement du territoire et à l'action régionale ou son représentant ;
+3° Huit représentants de l'Etat, soit :
 
-Le représentant de chacun des ministres chargés de l'économie et des finances, de l'équipement, de l'intérieur, de l'agriculture, de l'environnement, de l'industrie et de la santé publique ;
+- un représentant du ministre chargé du budget ;
 
-Pour l'agence Rhin-Meuse : deux représentants du Premier ministre ;
+- un représentant du ministre chargé de l'industrie ;
 
-Pour l'agence Seine-Normandie : le préfet de la région parisienne ou le suppléant désigné par lui et le représentant du ministre chargé des transports ;
+- un représentant du ministre chargé de l'équipement ;
 
-Pour les agences Artois-Picardie, Loire-Bretagne, Adour-Garonne et Rhône-Méditerranée-Corse : le représentant du Premier ministre et le représentant du ministre chargé des transports.
+- un représentant du ministre chargé de l'intérieur ;
 
-Cinq représentants des collectivités locales choisis par les membres représentant ces collectivités au comité de bassin sans que cette désignation puisse, le cas échéant, porter effet au-delà de la durée du mandat dont ils sont investis au comité de bassin ;
+- un représentant du ministre chargé de l'agriculture ;
 
-Cinq représentants des différentes catégories d'usagers choisis par les membres représentant ces catégories d'usagers au comité de bassin.
+- un représentant du ministre chargé de l'environnement ;
 
-Un arrêté du Premier ministre fixe, compte tenu des dispositions ci-dessus, la composition de chaque conseil d'administration. Le même arrêté désigne, pour trois ans, le président du conseil d'administration. Le conseil élit pour trois ans deux vice-présidents.
+- un représentant du ministre chargé de la santé ;
+
+- un représentant du ministre chargé de la mer auquel se substitue pour l'agence de bassin Rhin-Meuse un représentant du ministre chargé des affaires étrangères ;
+
+4° Un représentant du personnel de l'agence financière de bassin et un suppléant élus par le personnel de l'agence sur proposition des organisations syndicales habilitées à désigner des représentants au comité technique paritaire de l'agence ;
+
+La liste des membres des conseils d'administration fait l'objet d'un arrêté du ministre chargé de l'environnement publié au Journal officiel ;
+
+Le président est nommé pour trois ans par décret ;
+
+Le conseil élit pour trois ans deux vice-présidents choisis parmi les représentants des collectivités territoriales ou des usagers au conseil d'administration.
