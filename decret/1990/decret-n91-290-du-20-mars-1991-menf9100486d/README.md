@@ -2,6 +2,5 @@
 
 - [CHAPITRE Ier : Dispositions générales.](chapitre-ier)
 - [CHAPITRE II : Recrutement.](chapitre-ii)
-- [CHAPITRE IV : Détachement.](chapitre-iv)
 - [CHAPITRE V : Dispositions transitoires.](chapitre-v)
 - [Article 34](article-34.md)

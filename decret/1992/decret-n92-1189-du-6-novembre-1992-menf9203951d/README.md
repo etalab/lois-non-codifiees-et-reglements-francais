@@ -2,7 +2,6 @@
 
 - [CHAPITRE Ier : Dispositions générales.](chapitre-ier)
 - [CHAPITRE II : Recrutement](chapitre-ii)
-- [CHAPITRE III : Position de non-activité.](chapitre-iii)
 - [CHAPITRE IV : Notation, reclassement, avancement, mutation, discipline.](chapitre-iv)
 - [CHAPITRE V : Obligations de service.](chapitre-v)
 - [CHAPITRE VI : Détachement.](chapitre-vi)
