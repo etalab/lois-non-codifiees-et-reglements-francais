@@ -2,11 +2,11 @@
 
 La commission est présidée par le Premier ministre.
 
-Elle comprend :
+Toutefois, elle est présidée, par délégation du Premier ministre :
 
-1° Un vice-président qui exerce les fonctions du président en l'absence de celui-ci ;
+1° Par le ministre chargé des entreprises, lorsqu'elle traite des formalités incombant aux entreprises ;
 
-2° Un représentant du ministre chargé de l'économie et des finances ;
+2° Par le ministre chargé des réformes administratives, lorsqu'elle traite de formalités incombant à d'autres catégories d'usager.
 
 3° Un représentant du ministre chargé du budget ;
 
