@@ -1160,7 +1160,6 @@
 - [Arrêté du 29 janvier 1997 (JUSA9700024A)](arrete-du-29-janvier-1997-jusa9700024a)
 - [Arrêté du 29 janvier 1997 (TASG9710124A)](arrete-du-29-janvier-1997-tasg9710124a)
 - [Arrêté du 29 janvier 1997 (TASH9720280A)](arrete-du-29-janvier-1997-tash9720280a)
-- [Arrêté du 29 janvier 1997 (TASH9720281A)](arrete-du-29-janvier-1997-tash9720281a)
 - [Arrêté du 29 janvier 1997 (TASH9720284A)](arrete-du-29-janvier-1997-tash9720284a)
 - [Arrêté du 29 juillet 1997 (AGRG9701658A)](arrete-du-29-juillet-1997-agrg9701658a)
 - [Arrêté du 29 juillet 1997 (ECOT9710310A)](arrete-du-29-juillet-1997-ecot9710310a)
