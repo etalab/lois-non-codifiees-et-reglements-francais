@@ -54,4 +54,26 @@ Nitrosamine : pas plus de 0,020 mg/kg.    2.9. Polycondensat d'épichlorhydrine 
 
 Epichlorhydrine monomère : pas plus de 10 mg/kg ;
 
-1,3 dichloro 2-propanol : pas plus de 1 000 mg/kg.
+1,3 dichloro 2-propanol : pas plus de 1 000 mg/kg.    2.10. Glutaraldéhyde :
+
+méthanol : pas plus de 10 g/kg.
+
+2.11. Acide polymaléique :
+
+acide arylsuccinique : pas plus de 17 %
+
+(aryl désignant les radicaux xylyl et éthylbenzyl) ; acide maléique : pas plus de 5 % ;
+
+acide fumarique : pas plus de 0,2 % ;
+
+diméthylmaléate : pas plus de 0,2 % ;
+
+monométhylmaléate : pas plus de 0,2 % ;
+
+monoéthylmaléate : pas plus de 0,2 % ;
+
+éthanol : pas plus de 0,2 % ;
+
+méthanol : pas plus de 0,2 % ;
+
+xylène : pas plus de 0,01 %.

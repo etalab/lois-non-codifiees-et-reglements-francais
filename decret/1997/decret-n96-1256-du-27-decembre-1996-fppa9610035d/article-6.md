@@ -16,6 +16,6 @@ Section de fonctionnement :
 
 - pour les opérations ventilables, à la rubrique 92, complétée par la subdivision la plus détaillée de la nomenclature fonctionnelle visée à l'article 1er du présent décret ; pour les subventions, allocations, primes et secours, l'article correspond au crédit voté par bénéficiaire ;
 
-- pour les opérations non ventilables, au compte le plus détaillé de la nomenclature par nature ouvert à l'intérieur du chapitre.
+- pour les opérations non ventilables, au compte le plus détaillé de la nomenclature par nature ouvert à l'intérieur du chapitre. Pour les dotations aux amortissements et aux provisions prévues aux 27°, 28° et 29° de l'article L. 2321-2 du code général des collectivités territoriales, les inscriptions budgétaires sont obligatoirement spécialisées par article.
 
 Les chapitres correspondant aux dépenses imprévues et au virement à la section d'investissement ne comportent pas d'article.
