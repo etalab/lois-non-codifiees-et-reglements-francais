@@ -134,6 +134,8 @@
 - [Décret n°94-37 du 12 janvier 1994 (ENVQ9310102D)](decret-n94-37-du-12-janvier-1994-envq9310102d)
 - [Décret n°94-48 du 12 janvier 1994 (DEFP9302117D)](decret-n94-48-du-12-janvier-1994-defp9302117d)
 - [Décret n°95-1105 du 12 octobre 1995 (AGRA9501669D)](decret-n95-1105-du-12-octobre-1995-agra9501669d)
+- [Décret n°94-290 du 13 avril 1994 (TEFT9400249D)](decret-n94-290-du-13-avril-1994-teft9400249d)
+- [Décret n°94-292 du 13 avril 1994 (RESK9400164D)](decret-n94-292-du-13-avril-1994-resk9400164d)
 - [Décret n°94-41 du 13 janvier 1994 (DOMP9300041D)](decret-n94-41-du-13-janvier-1994-domp9300041d)
 - [Décret n°86-599 du 14 mars 1986](decret-n86-599-du-14-mars-1986)
 - [Décret n°86-640 du 14 mars 1986](decret-n86-640-du-14-mars-1986)
