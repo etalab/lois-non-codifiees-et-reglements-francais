@@ -1,35 +1,37 @@
 # Article 21
 
-I. - Toute personne qui, alors qu'elle se trouvait en France ou dans l'espace international des zones aéroportuaires situées sur le territoire national, aura, par aide directe ou indirecte, facilité ou tenté de faciliter l'entrée, la circulation ou le séjour irréguliers, d'un étranger en France ou dans l'espace international précité sera punie d'un emprisonnement de cinq ans et d'une amende de 200 000 F.
+I. - Toute personne qui, aura, par aide directe ou indirecte, facilité ou tenté de faciliter l'entrée, la circulation ou le séjour irréguliers, d'un étranger en France sera punie d'un emprisonnement de cinq ans et d'une amende de 30 000 euros.
 
 Sera puni des mêmes peines celui qui, quelle que soit sa nationalité, aura commis le délit défini au premier alinéa du présent paragraphe alors qu'il se trouvait sur le territoire d'un Etat partie à la convention signée à Schengen le 19 juin 1990 autre que la France.
 
-Sera puni des mêmes peines celui qui, alors qu'il se trouvait en France ou dans l'espace international mentionné au premier alinéa, aura facilité ou tenté de faciliter l'entrée, la circulation ou le séjour irréguliers d'un étranger sur le territoire d'un autre Etat partie à la convention signée à Schengen le 19 juin 1990. Les poursuites ne pourront être exercées à son encontre que sur une dénonciation officielle ou sur une attestation des autorités compétentes de l'Etat partie concerné.
+Sera puni des mêmes peines celui qui, aura facilité ou tenté de faciliter l'entrée, la circulation ou le séjour irréguliers d'un étranger sur le territoire d'un autre Etat partie à la convention signée à Schengen le 19 juin 1990.
 
-Les infractions prévues aux trois premiers alinéas sont punies de dix ans d'emprisonnement et de 5 000 000 F d'amende lorsqu'elles sont commises en bande organisée.
+Sera puni des mêmes peines celui qui aura facilité ou tenté de faciliter l'entrée, la circulation ou le séjour irréguliers d'un étranger sur le territoire d'un Etat partie au protocole contre le trafic illicite de migrants par terre, air et mer, additionnel à la convention des Nations unies contre la criminalité transnationale organisée, signée à Palerme le 12 décembre 2000.
+
+Pour l'application des deuxième, troisième et quatrième alinéas, la situation irrégulière de l'étranger est appréciée au regard de la législation de 1'Etat membre ou de l'Etat partie intéressé. En outre, les poursuites ne pourront être exercées à l'encontre de l'auteur de l'infraction que sur une dénonciation officielle ou sur une attestation des autorités compétentes de l'Etat membre ou de l'Etat partie intéressé.
 
 Aucune poursuite ne pourra être exercée contre une personne justifiant qu'elle a été jugée définitivement à l'étranger pour les mêmes faits et, en cas de condamnation, que la peine a été subie ou prescrite.
 
-II. - En cas de condamnation pour l'une des infractions visées au I, le tribunal pourra en outre prononcer l'interdiction de séjour, ainsi que la suspension du permis de conduire pendant une durée de trois ans au plus. Cette durée pourra être doublée en cas de récidive.
+II. - Les personnes physiques coupables de l'un des délits prévus au I encourent également les peines complémentaires suivantes :
 
-Le tribunal pourra également prononcer le retrait temporaire ou définitif de l'autorisation administrative d'exploiter soit des services occasionnels à la place ou collectifs, soit un service régulier, ou un service de navettes de transports internationaux.
+1° L'interdiction de séjour pour une durée de cinq ans au plus ;
 
-Tout véhicule ayant servi à commettre l'infraction par voie terrestre, fluviale, maritime ou aérienne pourra être confisqué.
+2° La suspension, pour une durée de cinq ans au plus, du permis de conduire. Cette durée peut être doublée en cas de récidive ;
 
-Le tribunal pourra également prononcer l'interdiction d'exercer directement ou par personne interposée, pendant une durée maximum de cinq ans, l'activité professionnelle à l'occasion de laquelle l'infraction a été commise.
+3° Le retrait temporaire ou définitif de l'autorisation administrative d'exploiter soit des services occasionnels à la place ou collectifs, soit un service régulier, ou un service de navettes de transports internationaux ;
 
-Toute violation de cette interdiction sera punie d'un emprisonnement de deux ans et d'une amende de 200 000 F, ou de l'une de ces deux peines seulement.
+4° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction, notamment tout moyen de transport ou équipement terrestre, fluvial, maritime ou aérien, ou de la chose qui en est le produit. Les frais résultant des mesures nécessaires à l'exécution de la confiscation seront à la charge du condamné. Ils seront recouvrés comme frais de justice ;
 
-Le tribunal pourra aussi prononcer la confiscation de tout produit appartenant au condamné et provenant directement ou indirectement de l'infraction.
+5° L'interdiction, pour une durée de cinq ans au plus, d'exercer l'activité professionnelle ou sociale à l'occasion de laquelle l'infraction a été commise, sous les réserves mentionnées à l'article 131-27 du code pénal.
 
-Les frais résultant des mesures nécessaires à l'exécution de la confiscation seront à la charge du condamné. Ils seront recouvrés comme frais de justice.
+Toute violation de cette interdiction sera punie d'un emprisonnement de deux ans et d'une amende de 30 000 Euros ;
 
-Le tribunal pourra également prononcer à l'encontre du condamné étranger l'interdiction du territoire français pour une durée ne pouvant excéder dix ans.
+6° L'interdiction du territoire français pour une durée de dix ans au plus dans les conditions prévues par les articles 131-30 à 131-30-2 du code pénal. L'interdiction du territoire français entraîne de plein droit la reconduite du condamné à la frontière, le cas échéant, à l'expiration de sa peine d'emprisonnement.
 
-L'interdiction du territoire français entraîne de plein droit la reconduite du condamné à la frontière, le cas échéant, à l'expiration de sa peine d'emprisonnement.
+III. - Sans préjudice des articles 19 et 21 quater, ne peut donner lieu à des poursuites pénales sur le fondement du présent article l'aide au séjour irrégulier d'un étranger lorsqu'elle est le fait :
 
-III. - Sans préjudice de l'article 19, ne peut donner lieu à des poursuites pénales sur le fondement du présent article l'aide au séjour irrégulier d'un étranger lorsqu'elle est le fait :
+1° Des ascendants ou descendants de l'étranger, de leur conjoint, des frères et soeurs de l'étranger ou de leur conjoint, sauf si les époux sont séparés de corps, ont un domicile distinct ou ont été autorisés à résider séparément ;
 
-1° Des ascendants ou descendants de l'étranger, de leur conjoint, des frères et soeurs de l'étranger ou de leur conjoint ;
+2° Du conjoint de l'étranger, sauf s'ils sont séparés de corps, ont été autorisés à résider séparément ou si la communauté de vie a cessé, ou de la personne qui vit notoirement en situation maritale avec lui ;
 
-2° Du conjoint de l'étranger, ou de la personne qui vit notoirement en situation maritale avec lui.
+3° De toute personne physique ou morale, lorsque l'acte reproché était, face à un danger actuel ou imminent, nécessaire à la sauvegarde de la vie ou de l'intégrité physique de l'étranger, sauf s'il y a disproportion entre les moyens employés et la gravité de la menace ou s'il a donné lieu à une contrepartie directe ou indirecte.

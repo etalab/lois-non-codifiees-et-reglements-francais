@@ -18,4 +18,4 @@ II. - Les personnes physiques coupables de l'une des infractions prévues aux ar
 
 1° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31 du code pénal ;
 
-2° L'interdiction du territoire français, lorsqu'il s'agit d'étrangers, prononcée dans les conditions prévues par l'article 131-30 du code pénal, soit à titre définitif, soit pour une durée de dix ans au plus. Les dispositions des cinq derniers alinéas de l'article 131-30 du code pénal ne sont pas applicables.
+2° L'interdiction du territoire français, lorsqu'il s'agit d'étrangers, prononcée dans les conditions prévues par l'article 131-30 du code pénal, soit à titre définitif, soit pour une durée de dix ans au plus.

@@ -1,11 +1,17 @@
 # Article 6
 
-Tout étranger doit, s'il séjourne en France et après l'expiration d'un délai de trois mois depuis son entrée sur le territoire français, être muni d'une carte de séjour [*obligation*] délivrée dans les conditions prévues à la présente ordonnance.
+Sous réserve des dispositions de l'article 9-l ou des stipulations d'un accord international en vigueur régulièrement introduit dans l'ordre juridique interne, tout étranger âgé de plus de dix-huit ans qui souhaite séjourner en France doit, après l'expiration d'un délai de trois mois depuis son entrée sur le territoire français, être muni d'une carte de séjour.
 
-Le délai de trois mois prévu ci-dessus peut être modifié par décret pris sur le rapport du ministre de l'intérieur.
+Cette carte est :
 
-La carte de séjour peut provisoirement être remplacée par le récépissé de la demande de délivrance ou de renouvellement de ladite carte.
+- soit une carte de séjour temporaire, dont les conditions de délivrance et de renouvellement sont prévues à la section 1 du chapitre II. La carte de séjour temporaire est valable pour une durée maximale d'un an. L'étranger qui séjourne sous couvert d'une carte de séjour temporaire peut solliciter la délivrance d'une carte de résident dans les conditions prévues aux articles 14 ou 15 ;
 
-Sauf s'il s'agit d'un étranger qui s'est vu reconnaître la qualité de réfugié, la délivrance d'une autorisation provisoire de séjour ou d'un récépissé de demande de titre de séjour n'a pas pour effet de régulariser les conditions de l'entrée en France.
+- soit une carte de résident, dont les conditions de délivrance et de renouvellement sont prévues à la section 2 du chapitre II. La carte de résident est valable pour une durée de dix ans.
 
-Lorsqu'une demande de reconnaissance de la qualité de réfugié a été définitivement rejetée, l'étranger qui sollicite la délivrance d'un titre de séjour doit justifier, pour obtenir ce titre, qu'il remplit l'ensemble des conditions prévues par la présente ordonnance et les décrets pris pour son application.
+Lorsque la loi le prévoit, la délivrance d'une première carte de résident est subordonnée à l'intégration républicaine de l'étranger dans la société française, appréciée en particulier au regard de sa connaissance suffisante de la langue française et des principes qui régissent la République française. La carte de résident est renouvelable de plein droit, sauf dans les cas prévus par la présente ordonnance.
+
+Pour l'appréciation de la condition d'intégration, le représentant de l'Etat dans le département ou, à Paris, le préfet de police, peut saisir pour avis le maire de la commune de résidence de l'étranger qui sollicite la carte de résident.
+
+Lorsqu'une demande d'asile a été définitivement rejetée, l'étranger qui sollicite la délivrance d'une carte de séjour doit justifier, pour obtenir ce titre, qu'il remplit l'ensemble des conditions prévues par la présente ordonnance et les décrets pris pour son application.
+
+Le délai de trois mois prévu au premier alinéa peut être modifié par décret en Conseil d'Etat.
