@@ -1,5 +1,51 @@
 # Article ANNEXE
 
+Département des Alpes-de-Haute-Provence (04)
+
+Cours d'eau, canaux et plans d'eau de 1re catégorie :
+
+1° La Durance en amont du plan d'eau de la Saulce, à l'exception du lac de retenue de Serre-Ponçon ;
+
+2° L'Ubaye en amont du pont de Pellegrin ;
+
+3° Le Sasse, le Riou de Jabron ou de Saint-Geniez, le Vançon, le Jabron de Noyers ;
+
+4° La Bléone et le Bès en amont de leur confluent, les Duyes ;
+
+5° Les canaux de Peyruis et du Bars (commune de Valensole) ;
+
+6° L'Asse en amont de son confluent avec l'Estoublaisse ;
+
+7° L'Asse de Blieux en amont de son confluent avec l'Asse ;
+
+8° L'Estoublaisse ;
+
+9° Le Verdon, à l'exception :
+
+a) Des lacs de retenue de Castillon et de Chaudanne, depuis le pont de Méouilles (commune de Saint-André-les-Alpes) jusqu'au barrage de Chaudanne (commune de Castellane) ;
+
+b) Du lac de Saint-Croix depuis le pont du Galetas sur le C.D. 957 à l'amont jusqu'au barrage de Saint-Croix à l'aval ;
+
+c) Du lac de retenue de Gréoux-les-Bains depuis le pied du barrage du Quinson en amont jusqu'au barrage de Gréoux-les-Bains en aval ;
+
+d) Du bassin de compensation du barrage de Gréoux-les-Bains depuis la queue de la retenue en amont jusqu'au déversoir à hauteur du village de Gréoux-les-Bains en aval ;
+
+10° Le Colostre ;
+
+11° Le Var ;
+
+12° Le Largue, de sa source en amont de son confluent avec la Durance en aval, à l'exception de la retenue de La Laye (délimitée en aval par le barrage et en amont par le plus haut niveau des eaux - cote 460 NGF) ;
+
+13° Les affluents et sous-affluents des cours d'eau ou parties de cours d'eau visés ci-dessus ;
+
+14° a) Les affluents de la Durance et de l'Ubaye se jetant dans le lac de retene de Serre-Ponçon ;
+
+b) Les affluents du Verdon se jetant dans les lacs de retenue de Castillon et de Chaudanne ;
+
+Cours d'eau, canaux et plans d'eau de 2e catégorie :
+
+Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
+
 Département de Saône-et-Loire
 
 Cours d'eau, canaux et plans d'eau de 1re catégorie

@@ -1,12 +1,14 @@
 # Article ANNEXE
 
-01 Département de l'Ain. Cours d'eau, canaux et plans d'eau de 2e catégorie
+Département de l'Ain (01)
 
-1°  Le Rhône ;
+Cours d'eau, canaux et plans d'eau de 2e catégorie :
+
+1° Le Rhône ;
 
 2° Les affluents du Rhône en aval du confluent de l'Ain ;
 
-3° Le Jourdan en aval du pont de la route D. 992 (commune de Culoz) ;
+3° Le Jourdan en aval du pont de la R.D. 992 (commune de Culoz) ;
 
 4° La Valserine en aval du pont de Coupy ;
 
@@ -22,9 +24,11 @@
 
 10° Les lacs : de Sylans, de Nantua (y compris le bras du lac), de Divonne-les-Bains ;
 
-11° L'Oiselon, dit " Ruisseau des Agneloux ", en aval du pont de la R.N. 75, plan d'eau de Longeville (communes de Pont-d'Ain et d'Ambronay), exutoire dudit plan d'eau jusqu'à sa confluence avec la rivière l'Ain.
+11° L'Oiselon, dit Ruisseau des Agneloux, en aval du pont de la R.N. 75, plan d'eau de Longeville (communes de Pont-d'Ain et d'Ambronay), exutoire dudit plan d'eau jusqu'à sa confluence avec la rivière l'Ain ;
 
-Cours d'eau, canaux et plans d'eau de 1re catégorie
+12° La retenue hydroélectrique de Moux délimitée en amont sur l'Oignin par l'usine hydroélectrique des Trablettes et sur l'Anconnans par le pont de la R.D. 13 (face aval), en aval par le barrage de la retenue (face amont) (communes d'Izernore, de Samognat et de Matafelon-Granges).
+
+Cours d'eau, canaux et plans d'eau de 1re catégorie :
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 2e catégorie.
 
@@ -256,35 +260,37 @@ Cours d'eau, canaux et plans d'eau de 2e catégorie
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
 
-63 Département du Puy-de-Dôme
+Département du Puy-de-Dôme (63)
 
-Cours d'eau, canaux et plans d'eau de 2e catégorie
+Cours d'eau, canaux et plans d'eau de 2e catégorie :
 
 1° L'Allier, l'Allagnon ;
 
-La Sioule entre le chemin des Méricaux (commune des Aneizes) à l'amont et le barrage de Queuille à l'aval ;
+La Sioule entre le chemin des Méricaux (commune d'Aneizes) à l'amont et le barrage de Queuille à l'aval ;
 
-Le Sioulet entre la Roche-Civière (commune de Miremont) à l'amont et son confluent avec la Sioule à l'aval.
+Le Sioulet entre la Roche-Civière (commune de Miremont) à l'amont et son confluent avec la Sioule à l'aval ;
 
-2° La Dore en aval de son confluent avec le Miodex.
+2° La Dore en aval de son confluent avec le Miodex ;
 
-3° Le lac du barrage de Sauvial sur le Miodex.
+3° Le lac du barrage de Sauvial sur le Miodex ;
 
 4° Les cours d'eau compris dans le périmètre ci-après :
 
-a) Route nationale 493 de Pont-du-Château à Vichy par Maringues et Randan jusqu'à sa jonction avec la route nationale 89, à la sortie de Pont-du-Château ;
+a) R.N. 493 de Pont-du-Château à Vichy-par-Maringues et Randan jusqu'à sa jonction avec la R.N. 89, à la sortie de Pont-du-Château ;
 
-b) La route nationale 89 depuis cette jonction jusqu'au pont de Dore ;
+b) La R.N. 89 depuis cette jonction jusqu'au pont de Dore ;
 
-c) La rivière la Dore depuis le pont de Dore jusqu'à son confluent avec l'Allier ;
+c) La Dore depuis le pont de Dore jusqu'à son confluent avec l'Allier ;
 
-d) La limite du département de l'Allier entre l'Allier et la route nationale 493.
+d) La limite du département de l'Allier entre l'Allier et la R.N. 493 ;
 
-5° La Dordogne, en aval du confluent du Chavanon.
+e) La Morge, en aval de la passerelle du Pré-du-Dimanche et son affluent l'Andoux ;
+
+5° La Dordogne en aval du confluent du Chavanon ;
 
 6° Le lac Chambon (communes de Chambon-sur-Lac et de Murol).
 
-Cours d'eau, canaux et plans d'eau de 1re catégorie
+Cours d'eau, canaux et plans d'eau de 1re catégorie :
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 2e catégorie.
 

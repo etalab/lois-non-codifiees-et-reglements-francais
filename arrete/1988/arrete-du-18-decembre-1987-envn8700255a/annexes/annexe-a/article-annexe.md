@@ -210,67 +210,67 @@ Cours d'eau, canaux et plans d'eau de 2e catégorie
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
 
-Département de la Loire
+Département de la Loire (42)
 
-Cours d'eau, canaux et plans d'eau de 2e catégorie
+Cours d'eau, canaux et plans d'eau de 2e catégorie :
 
 1° Le Rhône ;
 
-2° Le Gier en aval des usines Givet (commune d'Izieux) ;
+2° Le Gier, en aval des usines Givet (commune d'Izieux) ;
 
 3° Le bassin réservoir de la Rive entre le barrage et la passerelle établie sur le Ban (affluent du Gier) ;
 
-4° Le lac de retenue de Couzon sur le Couzon (affluent du Gier) depuis le mur du barrage de décantation (commune de Sainte-Croix-en-Jarez) jusqu'au mur de retenue du barrage de Couzon (commune de Châteauneuf) ;
+4° Le lac de retenue de Couzon sur le Couzon (affluent du Gier) depuis le mur du barrage de décantation (commune de Saint-Croix-en-Jarez) jusqu'au mur de retenue du barrage de Couzon (commune de Châteauneuf) ;
 
-5° Le lac de retenue de Soulage-sur-le-Gier (commune de Saint-Chamond) ;
+5° Le lac de retenue de Soulage sur le Gier (commune de Saint-Chamond) ;
 
 6° La Loire ;
 
-7° L'Ondaine en aval du pont du Sauze (commune de Firminy) ;
+7° L'Ondaine, en aval du pont du Sauze (commune de Firminy) ;
 
-8° Le Furens en aval du pont du Bernay (commune de Saint-Etienne) ;
+8° Le Furan en aval du pont du Bernay (commune de Saint-Etienne) ;
 
-9° Le Bonson en aval du pont de la route de Saint-Rambert-sur-Loire à Saint-Marcellin ;
+9° Le Bonson en aval du pont de la route de Saint-Rambert-sur-Loire, à Saint-Marcellin ;
 
 10° La Mare en aval du pont du canal du Forez (commune de Saint-Marcellin) ;
 
-11° La Coise en aval du pont des Romains (chemin G.C. de Saint-Galmier à Chevrières) ;
+11° La Coise en aval du pont des Romains (chemin G.C. de Saint-Galmier, à Chevrières) ;
 
-12° La Loise en aval du barrage de la Planche (barrage du moulin de Salt-en-Donzy, situé en amont du bourg) ;
+12° La Loise en aval du barrage de la Planche (barrage du Moulin de Salt-en-Donzy, situé en amont du bourg) ;
 
 13° Le Lignon en aval du pont de Saint-Clément (commune de Saint-Etienne-le-Molard) ;
 
 14° Le Vizezy en aval du pont de Saint-Jean (commune de Montbrison) ;
 
-15° L'Aix en aval du pont de la route de Boën-sur-Lignon à Saint-Germain-Laval ;
+15° L'Aix en aval du pont de la R.D. 42, à Pommiers ;
 
-16° Le Rhins ; la Trambouze ;
+16° Le Rhins, la Trambouze ;
 
-17° Le Gand en aval du pont de la Ruine (commune de Saint-Symphorien-de-Lay) ; le plan d'eau de la Roche (commune de Saint-Symphorien-de-Lay) ;
+17° Le Gand en aval du pont de la Ruine (comme de Saint-Symphorien-de-Lay) ; le plan d'eau de La Roche (commune de Saint-Symphorien-de-Lay) ;
 
-18° Le Renaison en aval du pont de Flages (route de Roanne à Saint-Alban) ;
+18° Le Renaison en aval du tunnel situé au niveau du stade de Malleval, à Roanne ;
 
 19° Le Sornin ;
 
 20° La Teysonne en aval du moulin de Sarrot (commune de Change) ;
 
-21° Le canal de Roanne à Digoin ; le canal du Forez ;
+21° Le Canal de Roanne, à Digoin, le canal du Forez ;
 
 22° La Valencize depuis le pont de la R.N. 86 jusqu'à son confluent avec le Rhône ;
 
 23° Les étangs de l'Egotay, commune de Roche-la-Molière ;
 
-24° Le ruisseau le Combray.
+24° Le ruisseau Le Combray.
 
-Cours d'eau, canaux et plans d'eau de 1re catégorie
+Cours d'eau, canaux et plans d'eau de 1re catégorie :
 
-Tous les cours d'eau, canaux et plans d'eau non classés 2e catégorie.
+Tous les cours d'eau, canaux et plans d'eau non classés en 2e catégorie.
 
-Département de la Haute-Marne
+Département de la Haute-Marne (52)
 
-Cours d'eau, canaux et plans d'eau de 1re catégorie
+Cours d'eau, canaux et plans d'eau de 1re catégorie :
 
-1° L'Apance en amont du pont de la S.N.C.F., dit de Villars (commune de Villars-Saint-Marcellin) ;
+1° L'Apance, en amont du pont de la R.N. 460, à Bourbonne-les-Bains ;
 
 2° Les affluents de l'Apance :
 
@@ -278,7 +278,7 @@ a) Le ruisseau de Genrupt ;
 
 b) Le ruisseau de Clan et le ruisseau de Ferrières en aval de leur limite avec le département des Vosges ;
 
-3° Le Badin, à l'exception de l'étang de la Gare à Vaux-Aubigny ;
+3° Le Badin, à l'exception de l'étang de la Gare, à Vaux-sous-Aubigny ;
 
 4° La Vingeanne en amont du réservoir de Villegusien et les affluents de ce réservoir ;
 
@@ -290,41 +290,41 @@ b) Le ruisseau de Clan et le ruisseau de Ferrières en aval de leur limite avec 
 
 8° L'Aujon ;
 
-9° La Voire en amont du pont des Granges à Gervilliers (commune de Puellemontier) ;
+9° La Voire, en amont du pont des Granges, à Gervilliers (commune de Puellemontier) ;
 
 10° La Laines en amont du moulin de Boulancourt (C.D. 174) ;
 
-11° La Marne entre le pont du C.D. 9 à Rachecourt-sur-Marne et le confluent de la Suize près de Condes ;
+11° La Marne entre le pont du C.D. 9, à Rachecourt-sur-Marne et le confluent de la Suize près de Condes ;
 
 12° Les affluents de la Marne :
 
 a) La Traire ;
 
-b) Le ruisseau de Trimeule, le ruisseau du Val Darde, le ruisseau de Moiron, le ruisseau du Pêcheux, le ruisseau Noir ;
+b) Le ruisseau de Trimeule, le ruisseau du Val-Darde, le ruisseau de Moiron, le ruisseau du Pêcheux, le ruisseau Noir ;
 
 13° La Mouche, à l'exception du réservoir de Saint-Ciergues ;
 
-14° La Suize ; la Cousance ; l'Ornel ; la Saulx ;
+14° La Suize, la Cousance, l'Ornel, la Saulx ;
 
-15° La Blaise, à l'exception de l'étang des Leschères et du canal de Wassy, jusqu'au barrage situé au lieudit Hostellerie du Moulin à Eclairon ;
+15° La Blaise, à l'exception de l'étang des Leschères et du canal de Wassy, jusqu'au barrage situé au lieudit Hostellerie du Moulin, à Eclaron ;
 
-16° L'Amance en amont de son confluent avec le ruisseau du Val de Presles ;
+16° L'Amance en amont de son confluent avec le ruisseau du Val-de-Presles ;
 
 17° Les affluents de l'Amance :
 
 a) Le Vau ;
 
-b) Le ruisseau du Val de Presles ;
+b) Le ruisseau du Val-de-Presles ;
 
-c) La Mance en amont du pont du C.D. 103, dit pont du Pied-du-Chien (commune de Hortes) ;
+c) La Mance en amont du pont du C.D. 103 dit Pont du Pied du Chien (commune de Hortes) ;
 
 d) Le ruisseau des Côtes ;
 
 e) Le Moulerupt ;
 
-18° La Petite Amance et le ruisseau du Gravier en amont de leur confluent ;
+18° La Petite-Amance et le ruisseau du Gravier en amont de leur confluent ;
 
-19° Les affluents de la Petite Amance :
+19° Les affluents de la Petite-Amance :
 
 a) Le ruisseau de Bouilleveau ;
 
@@ -332,7 +332,7 @@ b) Le ruisseau de Maljoie ;
 
 20° Les affluents et sous-affluents des cours d'eau ou portions de cours d'eau désignés ci-dessus.
 
-Cours d'eau, canaux et plans d'eau de 2e catégorie
+Cours d'eau, canaux et plans d'eau de 2e catégorie :
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
 
@@ -355,6 +355,34 @@ Cours d'eau, canaux et plans d'eau de 1re catégorie
 Cours d'eau, canaux et plans d'eau de 2e catégorie
 
 (Cyprinidés dominants)
+
+Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
+
+Département des Pyrénées-Orientales (66)
+
+Cours d'eau, canaux et plans d'eau de 1re catégorie :
+
+1° L'Aude ;
+
+2° L'Agly en amont du pont romain d'Ansignan (communes de Saint-Paul-de-Fenouillet et d'Ansignan) ;
+
+La Désix et la Matassa en amont de leur confluent ;
+
+3° La Têt en amont du pont d'Ille-sur-Têt, à l'exception du lac des Escoumes ;
+
+Le Boulès, en amont du pont de Bouleternère ;
+
+4° Le Tech en amont du parement amont du vieux pont de Céret, l'Ample, le Reynes, le Maureillas en amont de la prise d'eau du canal d'arrosage du Coumou (commune de Maureillas), l'Albère en amont du moulin d'En-Reste (commune d'Albère), le Laroque en amont du Casot-d'En-Lie (commune de Laroque-des-Albères), le Sorède en amont du barrage de la Forge (commune de Sorède) ;
+
+5° L'Ariège ;
+
+6° Le Sègre ;
+
+7° La Massane en amont du pont de Lavall ;
+
+8° Les affluents et sous-affluents des cours d'eau ou portions de cours d'eau désignés ci-dessus.
+
+Cours d'eau, canaux et plans d'eau de 2e catégorie :
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
 
@@ -436,45 +464,47 @@ Cours d'eau, canaux et plans d'eau de 2e catégorie
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
 
-69 Département du Rhône
+Département du Rhône (69)
 
-Cours d'eau, canaux et plans d'eau de 2e catégorie
+Cours, canaux et plans d'eau de 2e catégorie :
 
-1° Le Rhône.
+1° Le Rhône et ses appendices : canal de Miribel et plan d'eau de Miribel ;
 
-2° Le Giers.
+2° Le Giers ;
 
-3° La Saône.
+3° La Saône ;
 
-4° L'Azergues, en aval du confluent de la Brévenne.
+4° L'Azergues, en aval du confluent de la Brévenne ;
 
-5° Les affluents de la rive droite de la Saône, autres que l'Azergues, pour la partie située en aval du pont de la voie ferrée de Lyon à Mâcon.
+5° Les affluents de la rive droite de la Saône, autres que l'Azergues, pour la partie située en aval du pont de la voie ferrée de Lyon, à Mâcon ;
 
-6° Le Rhins, en aval de la passerelle du Vernay (passerelle amont de " Chez Jacquinot ", commune d'Amplepuis).
+6° Le Rhins, en aval de la passerelle du Vernay (passerelle amont de " chez Jacquinot " commune d'Amplepuis) ;
 
-7° Le canal de Jonage ; le canal de Givors.
+7° Le canal de Jonage ;
 
-8° Le canal de retenue de Tarare sur la Turdine.
+8° Le lac de retenue de Tarare sur la Turdine ;
 
-9° Le plan d'eau de Cublize sur le Rhins.
+9° Le plan d'eau de Cublize sur le Rhins ;
 
-10° Le plan d'eau de Combe Gibert (communes d'Orliénas et de Taluyers).
+10° Le plan d'eau de Combe-Gibert (commune d'Orliénas et de Taluyers) ;
 
-11° L'Iseron entre sa confluence avec le Rhône et le pont d'Oullins.
+11° L'Izeron entre sa confluence avec le Rhône et le pont d'Oullins ;
 
-12° Le plan d'eau de Trades établi en dérivation de la Crosne occidentale.
+12° Le plan d'eau de Trades établi en dérivation de la Grosne occidentale ;
 
 13° Les plans d'eau :
 
 - du Moulin (commune de Cours-la-Ville) ;
 
-- du Nizy (commune du Bois-d'Oingt) ;
+- du Nizy (commune Le Bois-d'Oingt) ;
 
-- de Poule-les-Echarneaux (commune de Poule-les-Echarneaux) ;
+- de Poule-les-Echarmeaux (commune de Poule-les-Echarmeaux) ;
 
-- Le Ronzey (commune d'Yzeron).
+- le Ronzey (commune d'Yzeron) ;
 
-Cours d'eau, canaux et plans d'eau de 1re catégorie
+14° L'étang du Boulard (commune de Chaponost) ;
+
+Cours d'eau, canaux et plans d'eau de 1re catégorie :
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 2e catégorie.
 
@@ -574,55 +604,59 @@ Cours d'eau, canaux et plans d'eau de 1re catégorie
 
 Tous cours d'eau, canaux et plans d'eau non classés en 2e catégorie.
 
-Département du Tarn
+Département du Tarn (81)
 
-Cours d'eau, canaux et plans d'eau de 1re catégorie
+Cours d'eau, canaux et plans d'eau de 1re catégorie :
 
-1° Le ruisseau de Cambon ou de Blasou en amont du pont de Roquecourbe ;
+1° Le ruisseau de Cambon ou de Blasou (affluent rive gauche du Tarn) ;
 
 2° L'Agout et ses affluents en amont du lieudit La Pointe (commune de Roquecourbe) ;
 
-3° Le Lignon ; le Lézert en amont du pont de la route de Castres à Salvages ;
+3° Le Lignon, le Lézert en amont du pont de la route de Castres, à Salvages ;
 
-4° Le Durenque en amont de l'usine de Roque (commune de Lagarrigue) ;
+4° La Durenque en amont de l'usine de Roque (commune de Lagarrigue) ;
 
 5° Le Thoré en amont du pont neuf de Saint-Amans-Soult ;
 
-6° L'Arn, à l'exception de la retenue du barrage des Saints-Peyres ;
+6° L'Arn, à l'exception de la retenue du barrage des Saints-Peyres au pont du lieudit Port-de-la-Resse ;
 
 7° Le Linoubre, à l'exception de la retenue des Montagnes ;
 
 8° L'Arnette ;
 
-9° L'Issales, à l'exception de la retenue du barrage du Pas-des-Bêtes ;
+9° L'Issales à l'exception de la retenue du barrage du Pas-des-Bêtes ;
 
 10° Le Montimont ;
 
-11° Le Dadou en amont du barrage des mines de Peyrebrune, à l'exception du lac de retenue de Rassisse, depuis la queue de la retenue de la Mouline jusqu'au barrage proprement dit de la Castelfranc et le Lézert, à l'exception de la retenue du barrage de la Bancalié ; les affluents du Dadou se jetant dans le lac de retenue de Rassisse ;
+11° Le Dadou, en amont du barrage des mines de Peyrebrune, à l'exception du lac de retenue de Rassisse, depuis la queue de la retenue de la Mouline jusqu'au barrage proprement dit, le Castelfranc et le Lézert, à l'exception de la retenue du barrage de la Bancalié, les affluents du Dadou se jetant dans le lac de retenue de Rassisse ;
 
-12° Le Sor en amont du pont de la R.D. 45 (communes de Sorez-Durfort, Revel et Garrevaques) ; l'Orival et le Melzic en amont du pont sur le R.D. 85 de Dourgne à Revel ; le Torry en amont du pont de la métairie d'En-Lanet (Commune de Dourgne) ; le Sant en amont du pont de Verdalle (R.D. 85) ; la Bernazoubre en amont du pont de Trégas (R.D. 60) ;
+12° Le Sor en amont du pont de la R.D. 45 (communes de Sorèze, Durfort, Revel et Garrevaques), l'Orival et le Melzic en amont du pont sur la R.D. 85, de Dourgne à Revel, le Tauroix en amont du pont de la métairie d'En-Lanet (commune de Dourgne), le Sant en amont du pont de Verdalle (R.D. 85), la Bernazobre en amont du pont du Trégas (R.D. 60) ;
 
-13° Le Cezens ou Bonneval et ses affluents (rive gauche du Tarn) en amont du pont de la R.D. 77 (commune d'Alban) ;
+13° Le Cezens ou Bonneval et ses affluents (rive gauche du Tarn), en amont du pont de la R.D. 77 (commune d'Alban) ;
 
-14° Le Malagous ou Villeneuve et ses affluents (rive gauche du Tarn) en amont du pont de la R.D. 77 (commune d'Alban) ;
+14° Le Malagou ou Villeneuve et ses affluents (rive gauche du Tarn) en amont du pont de la R.D. 77 (commune d'Alban) ;
 
 15° Le ruisseau de la Roque ou du Château et ses affluents (rive droite du Tarn) en amont du pont du chemin vicinal ordinaire n° 3 (commune de Trébas) ;
 
 16° Le Gayère et ses affluents (rive droite du Tarn) en amont du pont des Estreillous sur la R.D. 53 (commune d'Assac) ;
 
-17° La Broncarie et ses affluents (rive droite du Tarn) en amont du pont de la Vergnoulade (commune d'Assac, de Saint-Michel-Labadie et de Courris) ;
+17° La Broncarie et ses affluents (rive droite du Tarn) en amont du pont de la Vergnoulade (communes d'Assac, de Saint-Michel-Labadie et de Courris) ;
 
 18° L'Aygou et ses affluents (rive droite du Tarn) en amont du pont de la R.D. 70 (communes de Valence-d'Albigeois, Saint-Cirgue et Serena) ;
 
 19° Le ruisseau des Oules ou de Miolles ou de Verdun et ses affluents (rive gauche du Rance) en amont du pont de la R.D. 33 (commune de Miolles) ;
 
-20° L'Assou en amont du pont de Peyrasse D. 81 (communes de Paulinet, Villefranche et Terre-Clapier) ;
+20° L'Assou an amont du pont de Peyrasse D. 81 (communes de Paulinet, Villefranche et Terre-Clapier) ;
 
-21° Le Lizert ;
+21° Le Lizert (affluent rive gauche du Viaur) en amont de la R.D. 81 ;
 
-22° Tous les affluents et sous-affluents des cours d'eau ou parties de cours d'eau désignés ci-dessus.
+22° La rigole de la Plaine et la rigole de la Montagne ;
 
-Cours d'eau, canaux et plans d'eau de 2e catégorie
+23°  L'Azore, le Lampy et le Bergnassonne ;
+
+24° Tous les affluents et sous-affluents des cours d'eau ou parties de cours d'eau désignés ci-dessus, à l'exception du lac du Laouzas.
+
+Cours d'eau, canaux et plans d'eau de 2e catégorie :
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
 

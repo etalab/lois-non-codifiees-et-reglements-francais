@@ -98,4 +98,8 @@
 - [Décret n°92-1466 du 31 décembre 1992 (INDX9200243D)](decret-n92-1466-du-31-decembre-1992-indx9200243d)
 - [Décret n°92-1469 du 31 décembre 1992 (DOMX9200247D)](decret-n92-1469-du-31-decembre-1992-domx9200247d)
 - [Décret n°92-1471 du 31 décembre 1992 (MJSK9270146D)](decret-n92-1471-du-31-decembre-1992-mjsk9270146d)
+- [Décret n°92-1472 du 31 décembre 1992 (MENX9200221D)](decret-n92-1472-du-31-decembre-1992-menx9200221d)
+- [Décret n°92-1473 du 31 décembre 1992 (MENX9200222D)](decret-n92-1473-du-31-decembre-1992-menx9200222d)
+- [Décret n°92-1474 du 31 décembre 1992 (MENX9200223D)](decret-n92-1474-du-31-decembre-1992-menx9200223d)
+- [Décret n°92-1475 du 31 décembre 1992 (MENX9200224D)](decret-n92-1475-du-31-decembre-1992-menx9200224d)
 - [Décret n°92-332 du 31 mars 1992 (TEFT9204543D)](decret-n92-332-du-31-mars-1992-teft9204543d)

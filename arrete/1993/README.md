@@ -14,6 +14,7 @@
 - [Arrêté du 10 août 1993 (SPSS9302262A)](arrete-du-10-aout-1993-spss9302262a)
 - [Arrêté du 10 décembre 1992 (ACVA9210124A)](arrete-du-10-decembre-1992-acva9210124a)
 - [Arrêté du 13 décembre 1990 (TEFT9004075A)](arrete-du-13-decembre-1990-teft9004075a)
+- [Arrêté du 15 décembre 1992 (LOGC9200006A)](arrete-du-15-decembre-1992-logc9200006a)
 - [Arrêté du 15 janvier 1993 (AGRG9300129A)](arrete-du-15-janvier-1993-agrg9300129a)
 - [Arrêté du 15 mai 1993 (BUDP9300304A)](arrete-du-15-mai-1993-budp9300304a)
 - [Arrêté du 16 mars 1993 (JUSB9310072A)](arrete-du-16-mars-1993-jusb9310072a)

@@ -2,11 +2,11 @@
 
 CATEGORIE DU MENAGE : 1
 
-ILE-DE-FRANCE (en francs) : 71.344
+ILE-DE-FRANCE (en francs) : 82.046
 
-ZONE II hors Ile-de-France (en francs) : 59 588
+ZONE II hors Ile-de-France (1) (en francs) : 65 547
 
-ZONE III (en francs) : 55 143
+ZONE III (1) (en francs) : 57.349
 
 CATEGORIE DU MENAGE : 2
 
@@ -14,25 +14,25 @@ ILE-DE-FRANCE (en francs):
 
 ACTIVITE DU CONJOINT :
 
-Conjoint inactif : 84.453
+Conjoint inactif : 97.121
 
-Conjoint actif : 104.720
+Conjoint actif : 120.428
 
-ZONE II hors Ile-de-France (en francs) :
-
-ACTIVITE DU CONJOINT :
-
-Conjoint inactif : 70.278
-
-Conjoint actif : 87.149
-
-ZONE III (en francs) :
+ZONE II hors Ile-de-France (1) (en francs) :
 
 ACTIVITE DU CONJOINT :
 
-Conjoint inactif : 65.035
+Conjoint inactif : 77.306
 
-Conjoint actif : 80.648
+Conjoint actif : 95.864
+
+ZONE III (1) (en francs) :
+
+ACTIVITE DU CONJOINT :
+
+Conjoint inactif : 67.636
+
+Conjoint actif : 83.874
 
 CATEGORIE DU MENAGE : 3
 
@@ -40,25 +40,25 @@ ILE-DE-FRANCE (en francs):
 
 ACTIVITE DU CONJOINT :
 
-Conjoint inactif : 101.680
+Conjoint inactif : 116.932
 
-Conjoint actif : 125.762
+Conjoint actif : 144.626
 
-ZONE II hors Ile-de-France (en francs) :
-
-ACTIVITE DU CONJOINT :
-
-Conjoint inactif : 84.530
-
-Conjoint actif : 104.807
-
-ZONE III (en francs) :
+ZONE II hors Ile-de-France (1) (en francs) :
 
 ACTIVITE DU CONJOINT :
 
-Conjoint inactif : 78.224
+Conjoint inactif : 92.983
 
-Conjoint actif : 96.989
+Conjoint actif : 115.288
+
+ZONE III (1) (en francs) :
+
+ACTIVITE DU CONJOINT :
+
+Conjoint inactif : 81.353
+
+Conjoint actif : 100.869
 
 CATEGORIE DU MENAGE : 4
 
@@ -66,25 +66,25 @@ ILE-DE-FRANCE (en francs):
 
 ACTIVITE DU CONJOINT :
 
-Conjoint inactif : 118.432
+Conjoint inactif : 136.197
 
-Conjoint actif : 146.849rl>
+Conjoint actif : 168.876
 
-ZONE II hors Ile-de-France (en francs) :
-
-ACTIVITE DU CONJOINT :
-
-Conjoint inactif : 98.765
-
-Conjoint actif : 122.446
-
-ZONE III (en francs) :
+ZONE II hors Ile-de-France (1) (en francs) :
 
 ACTIVITE DU CONJOINT :
 
-Conjoint inactif : 91.397
+Conjoint inactif : 108.642
 
-Conjoint actif : 113.312
+Conjoint actif : 134.691
+
+ZONE III (1) (en francs) :
+
+ACTIVITE DU CONJOINT :
+
+Conjoint inactif : 95.053
+
+Conjoint actif : 117.844
 
 CATEGORIE DU MENAGE : 5
 
@@ -92,25 +92,25 @@ ILE-DE-FRANCE (en francs):
 
 ACTIVITE DU CONJOINT :
 
-Conjoint inactif : 135.488
+Conjoint inactif : 155.811
 
-Conjoint actif : 167.999rl>
+Conjoint actif : 193.199rl>
 
-ZONE II hors Ile-de-France (en francs) :
-
-ACTIVITE DU CONJOINT :
-
-Conjoint inactif : 113.056
-
-Conjoint actif : 140.161
-
-ZONE III (en francs) :
+ZONE II hors Ile-de-France (1) (en francs) :
 
 ACTIVITE DU CONJOINT :
 
-Conjoint inactif : 104.622
+Conjoint inactif : 124.362
 
-Conjoint actif : 129.707
+Conjoint actif : 154.177
+
+ZONE III (1) (en francs) :
+
+ACTIVITE DU CONJOINT :
+
+Conjoint inactif : 108.807
+
+Conjoint actif : 134.895
 
 CATEGORIE DU MENAGE : 6
 
@@ -118,25 +118,25 @@ ILE-DE-FRANCE (en francs):
 
 ACTIVITE DU CONJOINT :
 
-Conjoint inactif : 152.431
+Conjoint inactif : 175.296
 
-Conjoint actif : 189.045rl>
+Conjoint actif : 217.402
 
-ZONE II hors Ile-de-France (en francs) :
-
-ACTIVITE DU CONJOINT :
-
-Conjoint inactif : 127.268
-
-Conjoint actif : 157.949
-
-ZONE III (en francs) :
+ZONE II hors Ile-de-France (1) (en francs) :
 
 ACTIVITE DU CONJOINT :
 
-Conjoint inactif : 117.774
+Conjoint inactif : 139.995
 
-Conjoint actif : 146.0048rl>
+Conjoint actif : 173.744
+
+ZONE III (1) (en francs) :
+
+ACTIVITE DU CONJOINT :
+
+Conjoint inactif : 122.485
+
+Conjoint actif : 151.890rl>
 
 CATEGORIE DU MENAGE : par personne supplémentaire.
 
@@ -144,22 +144,26 @@ ILE-DE-FRANCE (en francs):
 
 ACTIVITE DU CONJOINT :
 
-Conjoint inactif : + 16.925
+Conjoint inactif : + 19.464
 
-Conjoint actif : + 21.062
+Conjoint actif : + 24.221
 
-ZONE II hors Ile-de-France (en francs) :
-
-ACTIVITE DU CONJOINT :
-
-Conjoint inactif : + 14.214
-
-Conjoint actif : + 17.618
-
-ZONE III (en francs) :
+ZONE II hors Ile-de-France (1) (en francs) :
 
 ACTIVITE DU CONJOINT :
 
-Conjoint inactif : + 13.152
+Conjoint inactif : + 15.635
 
-Conjoint actif : + 16.303
+Conjoint actif : + 19.380
+
+ZONE III (1) (en francs) :
+
+ACTIVITE DU CONJOINT :
+
+Conjoint inactif : + 13.678
+
+Conjoint actif : + 16.955
+
+Nota :
+
+(1) Telle que defini par l'arrêté du 17 ùmars 1978 modifié relatif au classement des communes par zones géographiques.

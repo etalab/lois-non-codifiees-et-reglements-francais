@@ -1,6 +1,6 @@
 # Article 1
 
-Nul ne peut exercer en qualité de maître contractuel dans les établissements sous contrat d'association ou de maître agréé dans les établissements sous contrat simple :
+Nul ne peut exercer en qualité de maître contractuel ou de documentaliste dans les établissements sous contrat d'association ou de maître agréé dans les établissements sous contrat simple :
 
 a) S'il n'est ressortissant de l'un des Etats membres de la Communauté économique européenne, sauf dérogation accordée dans les conditions prévues par les dispositions applicables aux divers ordres d'enseignement ;
 
