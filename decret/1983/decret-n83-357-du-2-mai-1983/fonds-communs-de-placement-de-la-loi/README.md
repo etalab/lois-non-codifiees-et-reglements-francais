@@ -1,4 +1,4 @@
-# Fonds communs de placement de la loi du 30 décembre 1981.
+# Fonds communs de placement de la loi du 13 juillet 1979.
 
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)

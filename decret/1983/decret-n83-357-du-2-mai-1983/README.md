@@ -15,5 +15,5 @@
 - [Fonds communs de placement à risques de la loi du 3 janvier 1983.](fonds-communs-de-placement-a)
 - [Fonds commun de placement de la loi du 30 décembre 1981.](fonds-commun-de-placement-de-la-loi)
 - [Fonds communs de la loi du 30 décembre 1981.](fonds-communs-de-la-loi)
-- [Fonds communs de placement de la loi du 30 décembre 1981.](fonds-communs-de-placement-de-la-loi)
+- [Fonds communs de placement de la loi du 13 juillet 1979.](fonds-communs-de-placement-de-la-loi)
 - [Article Préambule](article-preambule.md)
