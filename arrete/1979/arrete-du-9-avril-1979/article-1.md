@@ -1,6 +1,6 @@
 # Article 1
 
-Les cotisations dues au régime de protection sociale agricole et au fonds national d'aide au logement sont calculées forfaitairement sur les rémunérations minimales légales des apprentis fixées en application des articles L. 117-10 et L. 118-1 du code du travail sur la base de 174 heures par mois conformément au tableau ci-après :
+Les cotisations dues au régime de protection sociale agricole et au fonds national d'aide au logement sont calculées forfaitairement sur les rémunérations minimales légales des apprentis fixées en application des articles L. 117-10 et L. 118-1 du code du travail sur la base des cinquante-deux douzièmes de la durée légale hebdomadaire du travail par mois conformément au tableau ci-après :
 
 Rémunération minimale en fonction du semestre d'apprentissage et du type de contrat :
 
@@ -58,4 +58,4 @@ Base forfaitaire mensuelle :
 
 59 p. 100 du S.M.I.C.
 
-Pour l'application des dispositions qui précèdent, le montant horaire du S.M.I.C. à prendre en considération est celui en vigueur au 1er janvier de chaque année civile considérée.
+Pour l'application des dispositions qui précèdent, le montant horaire du S.M.I.C. et la durée légale hebdomadaire du travail à prendre en considération sont ceux en vigueur au 1er janvier de chaque année civile considérée.
