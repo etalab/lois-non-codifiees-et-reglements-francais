@@ -6,9 +6,7 @@ La demande de contrat doit comporter :
 
 2° La liste des formations concernées, telles qu'elles sont définies à l'article 4 ci-après ;
 
-3° La description des locaux d'enseignement et éventuellement d'internat, des moyens et des installations permettant les travaux pratiques d'exploitation et d'atelier dont dispose l'établissement.
-
-Ces installations peuvent être constituées par l'exploitation ou l'entreprise d'accueil des élèves lorsque le projet pédagogique le justifie ;
+3° La description des locaux d'enseignement et éventuellement d'internat ainsi que, s'il y a lieu, des moyens et locaux affectés à la documentation et des moyens et installations permettant les travaux pratiques d'exploitation et d'atelier dont dispose l'établissement.
 
 4° La justification que l'établissement dispose à titre de propriétaire, de locataire, d'usufruitier ou d'occupant à un titre quelconque de ces locaux et moyens et qu'ils répondent aux conditions réglementaires d'hygiène et de sécurité ;
 

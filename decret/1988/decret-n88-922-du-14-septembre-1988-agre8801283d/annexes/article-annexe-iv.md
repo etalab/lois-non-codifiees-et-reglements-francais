@@ -1,75 +1,73 @@
 # Article ANNEXE IV
 
-TITRES,  DIPLÔMES  OU  QUALITÉS  EXIGÉS
+TITRES, DIPLÔMES OU QUALITÉS EXIGÉS
 
-DES  ENSEIGNANTS  ET  FORMATEURS
+DES ENSEIGNANTS ET FORMATEURS
 
-1° Enseignants et formateurs intervenant dans les formations de cycle long ou supérieur court.
+" 1° Titres, diplômes ou qualités français exigés en application du premier alinéa de l'article 17 du présent décret :
 
-Titres, diplômes ou qualités français de niveau II au minimum :
+" - licence ;
 
--doctorat ;
+" - maîtrise ;
 
--agrégé de l'enseignement secondaire ;
+" - diplômes nationaux de troisième cycle prévus par le décret pris en application de l'article 17 de la loi n° 84-52 du 26 janvier 1984 ou par la législation et la réglementation antérieures ;
 
--diplôme d'ingénieur délivré par l'un des établissements publics à caractère scientifique, culturel et professionnel ou l'une des écoles habilitées par la commission des titres d'ingénieur ;
+" - titre ou diplôme délivré par une école habilitée après avis ou décision de la commission des titres d'ingénieur ;
 
--diplôme d'Etat de docteur vétérinaire ;
+" - titre ou diplôme de l'enseignement technologique homologué aux niveaux I ou II de la nomenclature interministérielle par niveaux en application de la loi n° 71-577 du 16 juillet 1971 ;
 
--magistère ;
+" - diplôme d'Etat de docteur vétérinaire ;
 
--diplôme d'études supérieures spécialisées ;
+" - diplôme des instituts d'études politiques ;
 
--diplôme d'études approfondies ;
+" - diplôme d'études supérieures techniques (D.E.S.T.) ;
 
--maîtrise ;
+" - diplôme d'études supérieures économiques (D.E.S.E.) ;
 
--licence.
+" - diplôme d'études comptables supérieures (D.E.C.S.) ;
 
-Titres, diplômes ou qualifications français ou étrangers jugés équivalents et dont la liste est arrêtée après avis d'une commission dont la composition est fixée par arrêté.
+" - diplôme d'études comptables et financières (D.E.C.F.) ;
 
-2° Enseignants et formateurs intervenant dans les formations de cycle court.
+" - diplôme national des beaux-arts (D.N.B.A.) ;
 
-Titres, diplômes ou qualités français de niveau III au minimum :
+" - certificats C 1 et C 2 d'une maîtrise délivrée dans le cadre du régime des études universitaires défini par les décrets n° 66-411 et n° 66-412 du 22 juin 1966 ;
 
--brevet de technicien supérieur agricole ;
+" - certificat de fin de cycle préparatoire aux concours internes d'entrée à l'Ecole nationale d'administration, conformément au décret n° 73-1027 du 6 novembre 1973 ;
 
--brevet de technicien supérieur ;
+" - certificat de fin de cycle de préparation aux concours externes d'entrée à l'Ecole nationale d'administration, conformément au décret n° 82-778 du 13 septembre 1982 ;
 
--diplôme d'études universitaires générales ;
+" - certificat de fin de cycle de préparation au troisième concours d'entrée à l'Ecole nationale d'administration, conformément à la loi n° 90-8 du 2 janvier 1990 ;
 
--diplôme universitaire de technologie ;
+" - diplôme d'administration publique ou attestation de classement sur la liste de sortie d'un institut régional d'administration, conformément aux dispositions du décret n° 70-403 du 13 mai 1970 modifié ;
 
--diplôme universitaire d'études littéraires ;
+" - titres ou diplômes sanctionnant une formation d'au moins trois années dans les conservatoires nationaux supérieurs de musique, conformément à l'article 2, deuxième alinéa, de la loi n° 88-20 du 6 janvier 1988 relative aux enseignements artistiques.
 
--diplôme universitaire d'études scientifiques.
+" Titres, diplômes ou qualifications français ou étrangers jugés équivalents et dont la liste est arrêtée après avis d'une commission dont la composition est fixée par arrêté.
 
--certificat d'études littéraires générales ou certificat d'études supérieures préparatoires (sciences) et un certificat d'études supérieures (régime antérieur à celui institué par les décrets n°s 66-411 et 66-412 du 22 juin 1966) ;
+" 2° Titres, diplômes ou qualités français exigés en application du deuxième alinéa de l'article 17 et de l'article 18 du présent décret :
 
--diplôme d'études juridiques générales ;
+" - brevet de technicien supérieur agricole ;
 
--diplôme d'études économiques générales ;
+" - brevet de technicien supérieur ;
 
--admissibilité aux écoles normales supérieures dans une section de lettres ou de sciences ;
+" - diplôme d'études universitaires générales ;
 
--admissibilité à l'Institut national agronomique ou aux autres écoles nationales supérieures agronomiques ou à l'Ecole nationale supérieure des industries agricoles et alimentaires.
+" - diplôme universitaire de technologie ;
 
-Titres, diplômes ou qualifications français ou étrangers jugés équivalents et dont la liste est arrêtée après avis d'une commission dont la composition est fixée par arrêté.
+" - diplôme universitaire d'études littéraires ;
 
-3° Candidats à l'examen professionnel prévu à l'article 18 du présent décret pour l'accès à un emploi de formateur de cycle court dans un établissement mentionné à l'article 5 de la loi.
+" - diplôme universitaire d'études scientifiques ;
 
-Titres, diplômes ou qualités français de niveau IV au minimum :
+" - certificat d'études littéraires générales ou certificat d'études supérieures préparatoires (sciences) et un certificat d'études supérieures (régime antérieur à celui institué par les décrets n° 66-411 et 66-412 du 22 juin 1966) ;
 
--brevet de technicien agricole ;
+" - diplôme d'études juridiques générales ;
 
--brevet de technicien délivré par le ministre de l'éducation nationale ;
+" - diplôme d'études économiques générales ;
 
--baccalauréat ;
+" - titre ou diplôme de l'enseignement technologique homologué au niveau III de la nomenclature interministérielle par niveaux en application de la loi n° 71-577 du 16 juillet 1971 ;
 
--diplôme agricole du 2e degré ;
+" - admissibilité aux écoles normales supérieures ;
 
--brevet d'agent technique agricole ;
+" - admissibilité à l'Institut national agronomique Paris-Grignon ou aux autres écoles nationales supérieures agronomiques ou à l'Ecole nationale supérieure des industries agricoles et alimentaires ou aux écoles nationales d'ingénieurs des travaux relevant du ministère de l'agriculture.
 
--certificat de capacité technique agricole et rurale.
-
-Titres, diplômes ou qualifications français ou étrangers jugés équivalents et dont la liste est arrêtée après avis d'une commission dont la composition est fixée par arrêté.
+" Titres, diplômes ou qualifications français ou étrangers jugés équivalents et dont la liste est arrêtée après avis d'une commission dont la composition est fixée par arrêté. "

@@ -18,6 +18,10 @@ Font l'objet du présent contrat la ou les formations et les classes suivantes :
 
 Pour assurer la charge d'enseignement correspondant à ces formations et classes, le ministre de l'agriculture affecte à l'établissement (n) emplois à pourvoirpar des enseignants contractuels (par discipline ou groupe de disciplines et par niveau).
 
+Pour assurer la charge de documentation correspondant à ces mêmes formations et classes, le ministre de l'agriculture affecte à l'établissement (n) emplois
+
+à pourvoir par des enseignants contractuels chargés de documentation.
+
 Article 3
 
 Toute extension, réduction ou modification du secteur pédagogique sous contrat fera l'objet d'un avenant au présent contrat.
@@ -36,13 +40,13 @@ Article 6
 
 Lors de la signature du présent contrat, l'association ou l'organisme doit notifier au directeur régional de l'agriculture et de la forêt compétent en raison de la localisation principale de l'établissement la désignation du chef d'établissement et fournir les justificatifs requis.
 
-L'autorité administrative peut s'opposer à cette désignation lorsque le candidat ne remplit pas les conditions exigées.
+L'autorité administrative peut s'opposer à cette désignation
+
+lorsque le candidat ne remplit pas les conditions exigées.
 
 Tout changement de chef d'établissement sera soumis à la même procédure.
 
-En cas d'absence prolongée du chef d'établissement, l'association ou l'organisme responsable désigne un suppléant, répondant aux
-
-conditions de titres exigées, dont elle communique le nom au directeur régional de l'agriculture et de la forêt.
+En cas d'absence prolongée du chef d'établissement, l'association ou l'organisme responsable désigne un suppléant, répondant aux conditions de titres exigées, dont elle communique le nom au directeur régional de l'agriculture et de la forêt.
 
 Article 7
 
@@ -66,7 +70,9 @@ c) Ces mesures sont prises avec l'accord de la famille ou de l'élève majeur ; 
 
 Article 9
 
-Le chef d'établissement devra soumettre à l'approbation du directeur régional de l'agriculture et de la forêt, dans la première quinzaine de chaque année scolaire, le nombre des heures d'enseignement par classe ou division de classe et, par discipline, la distinction des postes d'enseignement et le service de chacun des maîtres.
+Le chef d'établissement devra soumettre à l'approbation du
+
+directeur régional de l'agriculture et de la forêt, dans la première quinzaine de chaque année scolaire, le nombre des heures d'enseignement par classe ou division de classe et, par discipline, la distinction des postes d'enseignement et le service de chacun des maîtres.
 
 Le cas échéant, pour la partie de la charge d'enseignement qui ne pourrait pas être assurée par les enseignants contractuels occupant les emplois affectés à l'établissement, le directeur régional de l'agriculture et de la forêt notifie les moyens complémentaires éventuellement attribués à l'établissement.
 
@@ -108,7 +114,9 @@ Annexe V. - Montant des contributions et des redevances demandées aux familles.
 
 Article 13-1
 
-Lors de la signature du présent contrat, l'association ou l'organisme doit notifier au directeur régional de l'agriculture et de la forêt le nom de l'institution de retraite complémentaire dont elle a fait choix pour les enseignants contractuels de l'établissement et fournir les justificatifs correspondants.
+Lors de la signature du présent contrat, l'association ou
+
+l'organisme doit notifier au directeur régional de l'agriculture et de la forêt le nom de l'institution de retraite complémentaire dont elle a fait choix pour les enseignants contractuels de l'établissement et fournir les justificatifs correspondants.
 
 Article 14
 
