@@ -1,3 +1,3 @@
 # Article 3
 
-Les grades du corps des préposés comportent dix échelons.
+Les grades de conducteur principal de la distribution et de conducteur principal du transbordement comportent chacun huit échelons.
