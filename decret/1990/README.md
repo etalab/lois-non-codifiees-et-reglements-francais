@@ -50,6 +50,7 @@
 - [Décret n°90-307 du 5 avril 1990 (DEFM9001271D)](decret-n90-307-du-5-avril-1990-defm9001271d)
 - [Décret n°90-308 du 5 avril 1990 (DEFM9001272D)](decret-n90-308-du-5-avril-1990-defm9001272d)
 - [Décret n°90-31 du 5 janvier 1990 (SPSA8902630D)](decret-n90-31-du-5-janvier-1990-spsa8902630d)
+- [Décret n°90-313 du 5 avril 1990 (SPSS9000248D)](decret-n90-313-du-5-avril-1990-spss9000248d)
 - [Décret n°90-35 du 5 janvier 1990 (PRMX8900174D)](decret-n90-35-du-5-janvier-1990-prmx8900174d)
 - [Décret n°91-868 du 5 septembre 1991 (SANH9101413D)](decret-n91-868-du-5-septembre-1991-sanh9101413d)
 - [Décret n°91-869 du 5 septembre 1991 (SANH9101414D)](decret-n91-869-du-5-septembre-1991-sanh9101414d)
