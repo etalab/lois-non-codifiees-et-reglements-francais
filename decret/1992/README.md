@@ -74,6 +74,8 @@
 - [Décret n°92-116 du 4 février 1992 (PTTR9100430D)](decret-n92-116-du-4-fevrier-1992-pttr9100430d)
 - [Décret n°92-218 du 4 mars 1992 (ENVP9200010D)](decret-n92-218-du-4-mars-1992-envp9200010d)
 - [Décret n°92-243 du 4 mars 1992 (FPPX9200030D)](decret-n92-243-du-4-mars-1992-fppx9200030d)
+- [Décret n°92-486 du 4 juin 1992 (DEFP9201389D)](decret-n92-486-du-4-juin-1992-defp9201389d)
+- [Décret n°92-487 du 4 juin 1992 (ECOZ9200021D)](decret-n92-487-du-4-juin-1992-ecoz9200021d)
 - [Décret n°92-565 du 4 juin 1992 (EQUP9200341D)](decret-n92-565-du-4-juin-1992-equp9200341d)
 - [Décret n°92-961 du 4 septembre 1992 (MENF9202951D)](decret-n92-961-du-4-septembre-1992-menf9202951d)
 - [Décret n°92-416 du 4 mai 1992 (INTK9200145D)](decret-n92-416-du-4-mai-1992-intk9200145d)
