@@ -1,0 +1,3 @@
+# Article 17
+
+Tout candidat ayant entrepris des études dans le tout premier cycle d'enseignement supérieur en France ou à l'étranger peut demander à bénéficier de la dispense de l'un ou de plusieurs modules composant la formation qu'il postule. En ce cas, la décision est prise par le président de l'université ou le chef de l'établissement, sur proposition de la commission pédagogique dont relève l'étudiant. De plus les universités peuvent conclure, entre elles ou avec d'autres établissements en France ou à l'étranger, des conventions de coopération pour assurer aux étudiants des choix plus étendus.
