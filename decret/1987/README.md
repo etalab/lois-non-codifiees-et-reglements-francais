@@ -78,6 +78,7 @@
 - [Décret n°87-25 du 15 janvier 1987](decret-n87-25-du-15-janvier-1987)
 - [Décret n°87-266 du 15 avril 1987 (INTB8700093D)](decret-n87-266-du-15-avril-1987-intb8700093d)
 - [Décret n°87-27 du 15 janvier 1987 (ECOP8700004D)](decret-n87-27-du-15-janvier-1987-ecop8700004d)
+- [Décret n°87-270 du 15 avril 1987 (ASEE8703256D)](decret-n87-270-du-15-avril-1987-asee8703256d)
 - [Décret n°87-175 du 16 mars 1987 (ASES8700408D)](decret-n87-175-du-16-mars-1987-ases8700408d)
 - [Décret n°87-180 du 16 mars 1987 (EQUT8700189D)](decret-n87-180-du-16-mars-1987-equt8700189d)
 - [Décret n°87-109 du 17 février 1987 (ECOA8700014D)](decret-n87-109-du-17-fevrier-1987-ecoa8700014d)

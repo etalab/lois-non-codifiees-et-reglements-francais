@@ -1,0 +1,5 @@
+# Article 6
+
+Pour les bénéficiaires des conventions d'allocation spéciale du Fonds national de l'emploi licenciés pour motif économique, le montant de la ressource garantie cesse d'être versé lorsque, à partir de leur soixantième anniversaire [*point de départ*], ils justifient de 150 trimestres validés au sens de l'article L. 351-1 du code de la sécurité sociale.
+
+Toutefois, celles de ces personnes qui ne peuvent percevoir qu'une pension de vieillesse au taux plein calculé sur une durée de cotisation inférieure à 150 trimestres continuent de percevoir une fraction de l'allocation spéciale jusqu'à la date à laquelle elles peuvent faire liquider au taux plein l'ensemble des pensions auxquelles elles peuvent prétendre. Cette fraction est égale à la différence entre 150 et le nombre de trimestres validés au sens de l'article L. 351-1 du code de la sécurité sociale dans les régimes de base accordant la retraite à taux plein à l'âge des intéressés divisée par 150. La période pendant laquelle cette fraction d'allocation est servie n'est pas prise en considération pour l'ouverture des droits à pension.
