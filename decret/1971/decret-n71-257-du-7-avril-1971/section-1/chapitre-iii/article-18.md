@@ -1,5 +1,5 @@
 # Article 18
 
-Sont seules valables pour le second tour de scrutin les candidatures publiées en vue du premier tour et qui ont recueilli un nombre de voix au moins égal au dixième du nombre des magistrats inscrits. Toutefois, dans le cas où le nombre des candidats remplissant cette condition est inférieur à quatre par siège à pourvoir, ce nombre est complété, à due concurrence, en faisant appel aux autres candidats dans l'ordre décroissant du nombre de voix obtenues par chacun d'eux.
+Dans les quarante-huit heures, le bureau transmet le procès-verbal de ses opérations et ses annexes au président du collège et informe les magistrats intéressés de leur désignation.
 
-Le quatrième jour au plus tard précédant l'ouverture du second tour de scrutin, les candidatures sont publiées dans les conditions prévues à l'article 5.
+Une copie du procès-verbal est, selon le cas, affichée dans un local ouvert aux seuls magistrats ou tenue à la disposition de ceux-ci dans les conditions prévues à l'article 5.

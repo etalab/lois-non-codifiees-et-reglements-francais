@@ -1,6 +1,6 @@
 # Article 12
 
-A l'expiration d'un délai de dix jours, à compter de la date d'ouverture de chaque tour de scrutin, un bureau procède dans chaque ressort de cour d'appel et au ministère de la justice au dépouillement des bulletins.
+A l'expiration d'un délai de dix jours à compter de la date d'ouverture du scrutin, un bureau procède dans chaque cour d'appel et au ministère de la justice au dépouillement des bulletins.
 
 Ce bureau est composé :
 

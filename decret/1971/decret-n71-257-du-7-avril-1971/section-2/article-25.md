@@ -1,5 +1,5 @@
 # Article 25
 
-Les listes des magistrats proposés par le collège sont transmises par le président du collège au garde des sceaux, ministre de la justice, avec l'indication du nombre de voix obtenues par chacun d'eux.
+Les listes des magistrats proposés par le collège sont trans¬mises par le président du collège au garde des sceaux, ministre de la justice, avec une annexe, indiquant la composition des différentes listes de candidats, le nombre de membres du collège ayant pris part à chaque scrutin, le nombre total de suffrages exprimés et le nombre de suffrages exprimés en faveur de chaque liste de candidats.
 
-Ces listes et cette indication sont publiées, au Journal officiel.
+Les listes des magistrats proposés par le collège et l'annexe sont publiées au Journal officiel.

@@ -6,4 +6,4 @@ Sont nuls :
 
 2° Les votes contenus dans les enveloppes intérieures qui portent un signe quelconque d'identification ;
 
-3° Les bulletins qui portent le nom de personnes dont la candidature n'a pas été publiée, ceux sur lesquels figure un nombre de noms supérieur au double du nombre de sièges à pourvoir, ainsi que les bulletins illisibles ou portant un signe quelconque d'identification.
+3° Les bulletins qui portent le nom des personnes dont la candidature n'a pas été publiée, ceux sur lesquels figure un nombre de noms supérieur au nombre de sièges de membres du collège et de suppléants à pourvoir ou qui ne respectent pas les prescriptions de l'article 15, ainsi que les bulletins illisibles ou portant un signe quelconque d'identification.
