@@ -1,3 +1,3 @@
 # Article 2
 
-Le prélèvement est perçu à compter du 1er janvier 1985.
+Le présent arrêté est applicable dans les départements d'outre-mer, sous réserve des dispositions particulières qui ont été prises ou qui seront prises par arrêté des préfets de ces départements.

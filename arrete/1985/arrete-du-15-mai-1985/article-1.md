@@ -1,7 +1,5 @@
 # Article 1
 
-Le taux du prélèvement assis sur le produit des taxes différentielle et spéciale sur les véhicules à moteur, droits d'enregistrement et taxe de publicité foncière transférés aux départements et à la région Corse, prévu à l'article 37 de la loi de finances pour 1985, est réparti comme suit :
+Est entérinée par le présent arrêté la convention nationale, dont le texte est joint en annexe au présent arrêté, souscrite par la chambre syndicale nationale du commerce chimique et le groupement professionnel des importateurs et exportateurs de produits chimiques.
 
-- frais d'assiette et de recouvrement : 2,30 p. 100 ;
-
-- dégrèvement et non-valeurs : 0,20 p. 100.
+Cette convention est applicable à toutes les entreprises du secteur concerné qui respecteront les engagements prévus par ce texte.

@@ -1,4 +1,4 @@
-# Arrêté du 7 mai 1985 portant homologation d'un règlement sur le comité de la réglementation bancaire
+# Arrêté du 7 mai 1985 fixant la composition, le fonctionnement et les attributions de la commission des marchés instituée auprès de l'Institut français de recherche pour l'exploitation de la mer
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
