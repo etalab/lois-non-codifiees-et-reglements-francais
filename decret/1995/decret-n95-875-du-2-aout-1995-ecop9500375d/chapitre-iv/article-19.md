@@ -1,6 +1,6 @@
 # Article 19
 
-Peuvent être promus au grade d'attaché principal de 2e classe les attachés de l'Institut national de la statistique et des études économiques ayant accompli 4 ans 6 mois de services effectifs dans un corps civil de catégorie A ou de même niveau et comptant au moins un an d'ancienneté dans le 4e échelon et au plus un an d'ancienneté dans le 9e échelon, au 1er janvier de l'année au titre de laquelle l'examen professionnel est organisé.
+Peuvent être promus au grade d'attaché principal de 2e classe les attachés de l'Institut national de la statistique et des études économiques ayant accompli 4 ans 6 mois de services effectifs dans un corps civil de catégorie A ou de même niveau et comptant au moins un an d'ancienneté dans le 4e échelon et moins d'un an d'ancienneté dans le 9e échelon, au 1er janvier de l'année au titre de laquelle l'examen professionnel est organisé.
 
 La durée du service national actif effectivement accompli vient, le cas échéant, en déduction des 4 ans 6 mois de services effectifs ; il en est de même de la fraction qui excède la dixième année de l'ancienneté déterminée dans un corps de catégorie B en application du II de l'article 17 ci-dessus.
 
@@ -18,66 +18,26 @@ Un arrêté du ministre chargé de l'économie fixe le règlement de l'épreuve 
 
 Les intéressés sont nommés au grade d'attaché principal de 2e classe dans l'ordre d'inscription au tableau d'avancement et classés conformément au tableau ci-après :
 
-SITUATION ANCIENNE dans le grade d'attaché
+SITUATION ANCIENNE dans le grade d'attaché (échelon)
 
-SITUATION NOUVELLE dans le grade d'attaché principal de 2e classe
-
-Echelons
-
-Echelons
+SITUATION NOUVELLE dans le grade d'attaché principal de 2e classe (échelon)
 
 Ancienneté
 
-12e échelon
+12e échelon ; 7e ; Sans ancienneté.
 
-7e
+11e échelon ; 6e ; Ancienneté acquise majorée de 1 an dans la limite de 2 ans 6 mois.
 
-Sans ancienneté.
+10e échelon ; 5e ; Ancienneté acquise majorée de 1 an dans la limite de 2 ans 6 mois.
 
-11e échelon
+9e échelon ; 4e ; 1/3 de l'ancienneté acquise majoré de 1 an.
 
-6e
+8e échelon ; 4e ; 1/3 de l'ancienneté acquise.
 
-Ancienneté acquise majorée de 1 an dans la limite de 2 ans 6 mois.
+7e échelon ; 3e ; 2/3 de l'ancienneté acquise.
 
-10e échelon
+6e échelon ; 2e ; 4/5 de l'ancienneté acquise.
 
-5e
+5e échelon ; 1er ; 1/2 de l'ancienneté acquise majoré de 1 an.
 
-Ancienneté acquise majorée de 1 an dans la limite de 2 ans 6 mois.
-
-9e échelon
-
-4e
-
-1/3 de l'ancienneté acquise majoré de 1 an.
-
-8e échelon
-
-4e
-
-1/3 de l'ancienneté acquise.
-
-7e échelon
-
-3e
-
-2/3 de l'ancienneté acquise.
-
-6e échelon
-
-2e
-
-4/5 de l'ancienneté acquise.
-
-5e échelon
-
-1er
-
-1/2 de l'ancienneté acquise majoré de 1 an.
-
-4e échelon
-
-1er
-
-Ancienneté acquise au-delà de 1 an conservée.
+4e échelon ; 1er ; Ancienneté acquise au-delà de 1 an conservée.

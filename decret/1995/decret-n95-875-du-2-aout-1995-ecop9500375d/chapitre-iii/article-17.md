@@ -45,3 +45,5 @@ Les agents non titulaires qui ont occupé antérieurement des emplois d'un nivea
 Les dispositions qui précèdent ne peuvent avoir pour conséquence de placer les intéressés dans une situation plus favorable que celle qui résulterait d'un classement à un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans l'ancien emploi avec conservation de l'ancienneté d'échelon dans les conditions définies aux deuxième et troisième alinéas du I ci-dessus.
 
 V. - Lorsque l'application des dispositions qui précèdent aboutit à classer les fonctionnaires intéressés à un échelon doté d'un indice inférieur à celui qu'ils détenaient dans leur grade précédent, ceux-ci conservent, à titre personnel, le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient dans leur nouveau corps d'un indice au moins égal.
+
+VI. - Les agents qui avaient auparavant la qualité d'agent d'une organisation internationale intergouvernementale sont classés à un échelon du grade d'attaché déterminé selon les modalités prévues au IV ci-dessus, à l'exception de celles prévues à son dernier alinéa.

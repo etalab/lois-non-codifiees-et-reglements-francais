@@ -1,7 +1,7 @@
 # Article 11
 
-Les élèves attachés recrutés en application de l'article 8 du présent décret ont la qualité de fonctionnaire stagiaire et accomplissent une scolarité dont la durée minimum est fixée à 1 an 9 mois.
+Les candidats recrutés en application de l'article 8 du présent décret sont nommés attachés stagiaires par arrêté du ministre chargé de l'économie. Ils accomplissent un stage d'une durée de un an et neuf mois pendant lequel ils suivent une scolarité dans les conditions fixées par le décret du 27 juin 1994 susvisé. En cas de dispense totale ou partielle de scolarité, l'organisation de la période de stage est fixée par le directeur général de l'Institut national de la statistique et des études économiques.
 
-Les élèves attachés perçoivent le traitement correspondant au premier indice de leur rémunération pendant la première année de la scolarité et au deuxième indice de leur rémunération pendant la deuxième année de la scolarité.
+Les stagiaires perçoivent le traitement correspondant au premier indice de leur rémunération pendant la première année de stage et au deuxième indice de leur rémunération pendant la deuxième année de stage.
 
-Les élèves attachés qui avaient déjà la qualité de fonctionnaire ou d'agent de l'Etat peuvent opter pour le maintien, pendant la période de stage, du traitement indiciaire auquel ils avaient droit dans leur corps ou emploi d'origine, dans la limite supérieure du traitement auquel ils peuvent prétendre lors de leur titularisation.
+Les stagiaires qui avaient la qualité de fonctionnaire ou d'agent non titulaire peuvent opter entre le traitement auquel ils auraient eu droit dans leur corps, cadre d'emplois ou emploi d'origine et celui afférent à leur indice de rémunération, dans la limite supérieure du traitement auquel ils peuvent prétendre lors de leur titularisation.
