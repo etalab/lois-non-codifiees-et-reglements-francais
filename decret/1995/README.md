@@ -623,7 +623,6 @@
 - [Décret n°95-297 du 15 mars 1995 (AGRA9500085D)](decret-n95-297-du-15-mars-1995-agra9500085d)
 - [Décret n°95-298 du 15 mars 1995 (AGRA9500086D)](decret-n95-298-du-15-mars-1995-agra9500086d)
 - [Décret n°96-34 du 15 janvier 1996 (AGRA9502189D)](decret-n96-34-du-15-janvier-1996-agra9502189d)
-- [Décret n°96-35 du 15 janvier 1996 (AGRA9502190D)](decret-n96-35-du-15-janvier-1996-agra9502190d)
 - [Décret n°96-36 du 15 janvier 1996 (AGRA9502191D)](decret-n96-36-du-15-janvier-1996-agra9502191d)
 - [Décret du 16 décembre 1995 (DEFX9513711D)](decret-du-16-decembre-1995-defx9513711d)
 - [Décret n°95-1108 du 16 octobre 1995 (ECOT9526148D)](decret-n95-1108-du-16-octobre-1995-ecot9526148d)

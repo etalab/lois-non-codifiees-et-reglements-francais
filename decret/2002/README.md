@@ -286,6 +286,7 @@
 - [Décret n°2002-72 du 15 janvier 2002 (AGRS0102664D)](decret-n2002-72-du-15-janvier-2002-agrs0102664d)
 - [Décret n°2002-79 du 15 janvier 2002 (MENF0102684D)](decret-n2002-79-du-15-janvier-2002-menf0102684d)
 - [Décret n°2002-80 du 15 janvier 2002 (DEFP0102284D)](decret-n2002-80-du-15-janvier-2002-defp0102284d)
+- [Décret n°96-35 du 15 janvier 1996 (AGRA9502190D)](decret-n96-35-du-15-janvier-1996-agra9502190d)
 - [Décret n°2002-532 du 16 avril 2002 (EQUP0200349D)](decret-n2002-532-du-16-avril-2002-equp0200349d)
 - [Décret n°2002-533 du 16 avril 2002 (EQUP0200353D)](decret-n2002-533-du-16-avril-2002-equp0200353d)
 - [Décret n°2002-534 du 16 avril 2002 (EQUP0200355D)](decret-n2002-534-du-16-avril-2002-equp0200355d)
