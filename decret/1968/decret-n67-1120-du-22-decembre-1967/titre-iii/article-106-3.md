@@ -1,0 +1,7 @@
+# Article 106-3
+
+L'appel contre les jugements statuant sur les demandes d'autorisation visées à l'article 88 de la loi du 13 juillet 1967 [*traiter à forfait*] est formé dans les trois jours à compter du prononcé du jugement [*délai*]. Le premier président fixe aussitôt la date de l'audience. Le secrétaire-greffier de la cour d'appel, en joignant copie de la déclaration d'appel, convoque, par lettre recommandée avec demande d'avis de réception, le syndic et, le cas échéant, la partie qui a demandé cette autorisation, avec l'indication qu'ils doivent constituer avoué [*communication - conditions de forme*]. Le débiteur est entendu ou dûment appelé, lorsqu'il n'a pas demandé l'autorisation.
+
+Il est ensuite procédé sans qu'il y ait lieu à la mise en état. Aucune intervention n'est recevable dans les trois jours qui précèdent la date de l'audience [*délai*].
+
+Lorsque la cour d'appel n'a pas statué au fond dans les quarante jours suivant le prononcé du jugement, le secrétaire-greffier, adresse aux parties, par lettre recommandée avec demande d'avis de réception, un certificat attestant que la cour n'a pas statué dans le délai précité, avec indication que le jugement a, dès lors, acquis force de chose jugée [*communication - conditions de forme*]. Lorsque la cour d'appel a statué dans le délai imparti par la loi, le secrétaire-greffier notifie aux parties, par lettre recommandée avec demande d'avis de réception, l'arrêt avec la référence à l'article 103 de la loi du 13 juillet 1967.

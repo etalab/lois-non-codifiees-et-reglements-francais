@@ -1,3 +1,9 @@
 # Article 21
 
-Le juge-commissaire recueille tous les éléments d'information qu'il croit utiles ; il peut, notamment, entendre le débiteur ou les dirigeants sociaux, leurs commis et employés, les créanciers, ou toute autre personne, y compris le conjoint ou les héritiers connus du débiteur décédé en état de cessation des paiements. Il peut, le cas échéant, prendre l'avis de personnes qualifiées en matière financière ou technique.
+Dans tous les cas où le remplacement d'un ou plusieurs syndics est demandé au juge commissaire ou proposé d'office par le juge-commissaire, celui-ci fait rapport au tribunal qui statue. Lorsqu'il y a lieu d'adjoindre un ou plusieurs syndics, il est procédé de la même façon.
+
+Le tribunal entend en chambre du conseil le juge commissaire en son rapport et les explications des parties. Le jugement est prononcé en audience publique.
+
+La demande de remplacement peut être portée directement devant le tribunal lorsque le juge commissaire ne donne pas suite à cette demande dans le délai de huit jours. En cas de demande de remplacement par le procureur de la République, la convocation du syndic est faite conformément aux dispositions de l'article 6-1.
+
+Lorsque le syndic demande son remplacement, le juge commissaire fait rapport au tribunal qui statue.

@@ -1,9 +1,9 @@
 # Article 6
 
-Avant que soit prononcé d'office le règlement judiciaire ou la liquidation des biens, le président du tribunal fait convoquer [*conditions de forme*] le débiteur par les soins du greffier, par acte extrajudiciaire, à comparaître dans le délai qu'il fixe devant le tribunal siégeant en chambre du conseil.
+En cas de saisine d'office, le président du tribunal fait convoquer le débiteur, par les soins du greffier, par acte d'huissier de justice [*conditions de forme*], à comparaître dans le délai qu'il fixe devant le tribunal siégeant en chambre du conseil.
 
-Le président informe le débiteur des faits de nature à motiver la saisine d'office et reçoit les observations du débiteur.
+A la convocation est jointe une note par laquelle le président expose les faits de nature à motiver la saisine d'office [*documents joints*].
 
-Si le débiteur ne comparaît pas, il en est pris acte par le tribunal.
+Le greffier adresse copie de cette note au procureur de la République en l'avisant de la date d'audition du débiteur [*communication*].
 
-La décision est rendue en audience publique.
+Le jugement est prononcé en audience publique.

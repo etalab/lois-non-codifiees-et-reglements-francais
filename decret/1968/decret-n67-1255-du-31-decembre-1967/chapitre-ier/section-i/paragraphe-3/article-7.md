@@ -1,3 +1,7 @@
 # Article 7
 
-Lorsque le tribunal estime que la situation du débiteur est de nature à motiver l'ouverture d'une procédure de suspension provisoire des poursuites et d'apurement collectif du passif, le débiteur est convoqué par lettre recommandée [*conditions de forme*] du greffier envoyée trois jours au moins à l'avance [*délai*], pour être entendu en chambre du conseil [*audition*].
+En cas de saisine d'office, le président du tribunal fait convoquer par lettre recommandée avec demande d'avis de réception, envoyée par le greffier, le débiteur à comparaître devant le tribunal siègeant en chambre du conseil, dans le délai qu'il fixe [*conditions de forme*].
+
+A la convocation est jointe une note par laquelle le président expose les faits de nature à motiver la saisine [*documents joints*].    Le greffier adresse copie de cette note au procureur de la République en l'avisant de la date d'audition du débiteur [*communication*].
+
+Le jugement est prononcé en audience publique.
