@@ -1,0 +1,3 @@
+# Article 4
+
+Les sommes misées au titre des tirages de la loterie nationale dénommés Keno sont affectées aux gagnants et à la constitution d'un fonds de contrepartie après déduction d'un prélèvement de 41,276 % réparti entre la contribution instituée par l'article 18 de l'ordonnance du 24 janvier 1996 susvisée, les frais d'organisation et de placement à hauteur de 13,00 % augmentés de la taxe sur la valeur ajoutée au taux en vigueur, le Fonds national pour le développement du sport en application de l'article 48 modifié de la loi de finances pour 1994, la contribution sociale généralisée en application des articles 16, 17 et 26 de la loi de financement de la sécurité sociale pour 1997 et les recettes non fiscales du budget général pour le solde.

@@ -128,7 +128,7 @@ Elle doit être établie au rez-de-chaussée des habitations.
 
 Le volume de la chasse d'eau automatique éventuellement établie sur une fosse chimique ne doit pas dépasser 2 litres.
 
-Le volume utile des fosses chimiques est au moins égal à 100 litres pour un logement comprenant 100 litres par pièce supplémentaire.
+Le volume utile des fosses chimiques est au moins égal à 100 litres pour un logement comprenant jusqu'à trois pièces principales. Pour des logements plus importants, il doit être augmenté d'au moins 100 litres par pièce supplémentaire.
 
 La fosse chimique doit être agencée intérieurement de telle manière qu'aucune projection d'agents utilisés pour la liquéfaction ne puisse atteindre les usagers.
 

@@ -1,6 +1,6 @@
 # Article 5
 
-Les destinataires ou catégories de destinataires des informations mentionnées à l'article 3 du présent arrêté, internes au ministère de l'éducation nationale, de l'enseignement supérieur, de la recherche et de l'insertion professionnelle, sont, dans la limite de leurs compétences :
+Les destinataires ou catégories de destinataires des informations mentionnées à l'article  3 du présent arrêté, internes au ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche, sont, dans la limite de leurs compétences :
 
 Les agents habilités :
 
@@ -8,7 +8,11 @@ Les agents habilités :
 
 - des services extérieurs : rectorat, inspection académique ;
 
-- des universités.
+- des universités ;
+
+- le service statistique de l'administration centrale ;
+
+- le centre d'études et de recherches sur les qualifications.
 
 Les destinataires externes au ministère de l'éducation nationale, de l'enseignement supérieur, de la recherche et de l'insertion professionnelle :
 
