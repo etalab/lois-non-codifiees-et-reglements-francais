@@ -258,6 +258,8 @@
 - [Décret n°2004-433 du 21 mai 2004 (MAEA0420074D)](decret-n2004-433-du-21-mai-2004-maea0420074d)
 - [Décret n°2004-434 du 21 mai 2004 (AGRP0400014D)](decret-n2004-434-du-21-mai-2004-agrp0400014d)
 - [Décret n°2004-438 du 21 mai 2004 (DOMC0400021D)](decret-n2004-438-du-21-mai-2004-domc0400021d)
+- [Décret n°2004-451 du 21 mai 2004 (SANH0420956D)](decret-n2004-451-du-21-mai-2004-sanh0420956d)
+- [Décret n°2004-452 du 21 mai 2004 (AGRP0400736D)](decret-n2004-452-du-21-mai-2004-agrp0400736d)
 - [Décret n°2004-255 du 22 mars 2004 (PRMX0407064D)](decret-n2004-255-du-22-mars-2004-prmx0407064d)
 - [Décret n°2004-256 du 22 mars 2004 (JUSE0440045D)](decret-n2004-256-du-22-mars-2004-juse0440045d)
 - [Décret n°2004-277 du 22 mars 2004 (MENF0400328D)](decret-n2004-277-du-22-mars-2004-menf0400328d)
