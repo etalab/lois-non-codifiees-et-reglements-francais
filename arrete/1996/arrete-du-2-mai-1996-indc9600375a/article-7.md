@@ -1,0 +1,5 @@
+# Article 7
+
+Les frais hors production comprennent notamment les frais de distribution, les frais d'administration générale, les charges financières et les dépenses d'études libres. A compter de la date du présent arrêté, leur taux - normal ou, le cas échéant, réduit - est fixé forfaitairement par l'administration ou l'organisme habilité visé à l'article 2 en fonction des derniers frais hors production contrôlés pour chaque entreprise, ou par branche d'activité au sein de l'entreprise. Il s'applique aux mêmes assiettes que celles ayant servi à la détermination des derniers frais hors production contrôlés.
+
+Le taux des frais hors production admis est fixé forfaitairement et globalement par entreprise, ou par branche d'activité au sein de l'entreprise. Il pourra faire l'objet d'une révision à la demande de l'administration, de l'organisme habilité visé à l'article 2 ou de l'entreprise concernée à l'issue d'une période de cinq ans après sa fixation ou sa révision ultérieure la plus récente, ou dans l'hypothèse d'un bouleversement des structures de l'entreprise.

@@ -54,19 +54,21 @@ Pour les véhicules dont le P.T.A.C. n'excède pas 3,5 tonnes :
 
 - deux rétroviseurs intérieurs et deux rétroviseurs latéraux réglés pour l'élève et l'enseignant ;
 
-Pour les véhicules de transport de marchandises ou de transport en commun de personnes :
+- un dispositif de double commande d'avertisseur sonore, de feux (position, croisement, route) et d'indicateur de changement de direction à portée immédiate de l'enseignant.
+
+Pour les véhicules de transports de marchandises ou de transport en commun de personnes :
 
 - un dispositif de double commande de freinage et de débrayage ;
 
 - deux rétroviseurs extérieurs réglés pour être utilisés par l'élève et deux autres réglés pour être utilisés par l'enseignant ;
 
-- un dispositif de double commande d'accélération neutralisable lorsque le véhicule est utilisé pour les épreuves de l'examen du permis de conduire ;
+- un dispositif de double commande d'accélération neutralisable lorsque le véhicule est utilisé pour les épreuves de l'examen du permis de conduire.
 
-Pour l'ensemble des véhicules visés ci-dessus :
+Pour les motocyclettes :
 
-- un dispositif de double commande d'avertisseur sonore, de feux et d'indicateur de changement de direction à portée immédiate de l'enseignant. Une période transitoire pour mise en conformité d'une durée de trois ans à compter de la date de publication du présent arrêté est établie pour la mise en place de ce dernier dispositif.
+- deux rétroviseurs, l'un à droite, l'autre à gauche, réglés pour être utilisés par l'élève.
 
-4° Etre munis de panneaux visibles de l'avant et de l'arrière, portant une des mentions " auto-école ", " voiture-école ", " véhicule-école " ou " moto-école ".
+4° Etre munis de panneaux visibles de l'avant et de l'arrière, portant une des mentions auto-école, voiture-école, véhicule-école ou moto-école.
 
 Ces panneaux ne doivent comporter aucune autre indication notamment publicitaire.
 
@@ -76,7 +78,7 @@ Lorsque le panneau est placé sur le toit, il doit être perpendiculaire à l'ax
 
 Pour les poids lourds, les panneaux sont placés à l'avant et à l'arrière des véhicules, leur dimension est portée à 100 " 30 centimètres.
 
-Pour les motocyclettes, la mention " moto-école " doit apparaître nettement visible de l'avant et de l'arrière, soit sur deux panneaux placés sur le véhicule, soit sur un dossard porté par le conducteur et par l'enseignant lorsqu'il est assis derrière.
+Pour les motocyclettes, la mention moto-école doit apparaître nettement visible de l'avant et de l'arrière, soit sur deux panneaux placés sur le véhicule, soit sur un dossard porté par le conducteur et par l'enseignant lorsqu'il est assis derrière.
 
 5° Pour l'enseignement de la conduite sur motocyclette, un dispositif de type homologué permettant une liaison permanente (radio) est obligatoire entre l'enseignant et chaque élève sauf si l'enseignant est assis derrière.
 
