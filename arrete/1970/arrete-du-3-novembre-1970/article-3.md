@@ -4,7 +4,11 @@ Les agents titulaires et stagiaires appartenant à un grade ou emploi classé da
 
 GROUPE I :
 
-GROUPE, SITUATION : 3 éch, Après 6 mois et avant 1 an
+GROUPE, SITUATION : 2 éch, Après 1 an et 6 mois
+
+SITUATION DANS LE GROUPE SUPERIEUR : 2 éch, Ancienneté acquise diminuée de 1 an.
+
+GROUPE, SITUATION : 3 éch, Avant 1 an
 
 SITUATION DANS LE GROUPE SUPERIEUR : 2 éch, Ancienneté acquise majorée de 1 an.
 
@@ -76,6 +80,6 @@ Lorsque plusieurs grades ou emplois classés dans un même groupe de rémunérat
 
 Si, dans ce dernier cas, l'effectif global reste inférieur à quatre unités, le bénéfice du classement dans le groupe immédiatement supérieur pourra être accordé à un agent.
 
-Nonobstant les dispositions des alinéas ci-dessus, le nombre des promotions prononcées chaque année au titre d'un même grade ou emploi peut être porté au septième du nombre des agents remplissant, au 31 décembre, les conditions définies au présent article. Lorsque le nombre des agents sur lequel est calculé la proportion du septième n'est pas un multiple de sept, le reste est ajouté au nombre des agents qui l'année suivante, est retenu pour le calcul de ladite proportion.
+Nonobstant les dispositions des alinéas ci-dessus, le nombre des promotions prononcées chaque année au titre d'un même grade ou emploi peut être porté au cinquième du nombre des agents remplissant, au 31 décembre, les conditions définies au présent article. Lorsque le nombre des agents sur lequel est calculé la proportion du cinquième n'est pas un multiple de cinq, le reste est ajouté au nombre des agents qui l'année suivante, est retenu pour le calcul de ladite proportion.
 
 L'application du présent article n'a pas pour effet de modifier le grade ou emploi des intéressés.

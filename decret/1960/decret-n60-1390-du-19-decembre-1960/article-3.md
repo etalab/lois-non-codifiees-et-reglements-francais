@@ -1,27 +1,37 @@
 # Article 3
 
-Le comité est ainsi composé :
+Le comité national de la consommation est composé :
 
-Le secrétaire d'Etat au commerce intérieur, président.
+1° Du ministre chargé de la consommation ou de son représentant qui le préside.
 
-Neuf représentants des départements ministériels suivants :
+2° De quatorze représentants des pouvoirs publics ainsi répartis :
 
-Finances et affaires économiques ;
+Deux représentants du ministre de l'économie et des finances ;
 
-Intérieur ;
+Un représentant du ministre de la justice ;
 
-Industrie ;
+Un représentant du ministre de l'intérieur ;
 
-Education nationale ;
+Un représentant du ministre chargé du Plan ;
 
-Agriculture ;
+Un représentant du ministre de l'agriculture ;
 
-Construction ;
+Un représentant du ministre chargé de l'industrie ;
 
-Santé publique et population ;
+Un représentant du ministre de la santé et de la sécurité sociale ;
 
-Travaux publics et transports (marine marchande) ;
+Un représentant du ministre chargé du logement ;
 
-Information, désignés par les ministres intéressés.
+Un représentant du ministre chargé des transports ;
 
-Neuf personnalités nommées pour une durée de deux ans parmi les membres des organisations de consommateurs par arrêté du secrétaire d'Etat au commerce intérieur. Chacun des membres titulaires est assisté d'un suppléant.
+Un représentant du ministre chargé du commerce et de l'artisanat ;
+
+Un représentant du ministre chargé de l'environnement ;
+
+Un représentant du ministre de l'éducation ;
+
+Un représentant du ministre chargé de l'information, désignés par chacun des ministres concernés.
+
+3° De quatorze représentants des consommateurs nommés pour une durée de deux ans parmi les membres des organisations de consommateurs par arrêté du ministre chargé de la consommation.
+
+Des membres suppléants, en nombre égal à celui des titulaires, sont désignés ou nommés dans les mêmes conditions que ces derniers.
