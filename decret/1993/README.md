@@ -745,7 +745,6 @@
 - [Décret n°93-459 du 24 mars 1993 (MENL9304536D)](decret-n93-459-du-24-mars-1993-menl9304536d)
 - [Décret n°93-466 du 24 mars 1993 (INTD9300191D)](decret-n93-466-du-24-mars-1993-intd9300191d)
 - [Décret n°93-471 du 24 mars 1993 (ECOC9300057D)](decret-n93-471-du-24-mars-1993-ecoc9300057d)
-- [Décret n°93-472 du 24 mars 1993 (ECOP9300103D)](decret-n93-472-du-24-mars-1993-ecop9300103d)
 - [Décret n°93-477 du 24 mars 1993 (EQUU9300488D)](decret-n93-477-du-24-mars-1993-equu9300488d)
 - [Décret n°93-478 du 24 mars 1993 (EQUX9300188D)](decret-n93-478-du-24-mars-1993-equx9300188d)
 - [Décret n°93-481 du 24 mars 1993 (BUDF9310038D)](decret-n93-481-du-24-mars-1993-budf9310038d)
