@@ -1,6 +1,6 @@
 # Article 6
 
-Un règlement d'administration publique déterminera le mode de nomination du mandataire et les conditions suivant lesquelles seront effectués le dépôt et le retrait des sommes et valeurs appartenant ou affectées aux institutions de prévoyance.
+Un décret en Conseil d'Etat déterminera le mode de nomination du mandataire et les conditions suivant lesquelles seront effectués le dépôt et le retrait des sommes et valeurs appartenant ou affectées aux institutions de prévoyance.
 
 Il déterminera, de même le mode de liquidation des droits acquis et des droits éventuels, ainsi que le mode de restitution aux intéressés.
 

@@ -8,4 +8,4 @@ En attendant la promulgation de la oi règlant le statut des entreprises depress
 
 2° Les demandes de dévolution présentées par elles soient conformes au plan de répartition prévu aux articles 21 et suivants ;
 
-3° Au cas où l'autorisation a été accordée à un groupe de résistance ou à un mouvement politique ou à un de leurs mandataires, et au cas de contestation sur la répartition des actions, il soit procédé à un arbitrage qui sera confié à la commission nationale de presse, dans des conditions et des délais fixés par règlement d'administration publique.
+3° Au cas où l'autorisation a été accordée à un groupe de résistance ou à un mouvement politique ou à un de leurs mandataires, et au cas de contestation sur la répartition des actions, il soit procédé à un arbitrage qui sera confié à la commission nationale de presse, dans des conditions et des délais fixés par décret en Conseil d'Etat.

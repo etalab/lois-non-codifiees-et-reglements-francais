@@ -10,4 +10,4 @@ Le temps passé dans les hôpitaux ou en congé de convalescence à la suite d'u
 
 Le bénéfice de cette majoration pourra être accordé au-delà du 8 mai 1945 au titre d'une période effective d'hospitalisation ou de convalescence sans pouvoir dépasser le 1er juin 1946, date de la cessation légale des hostilités.
 
-Un règlement d'administration publique, pris sur le rapport des ministres de l'économie et des finances, des anciens combattants et victimes de guerre et des secrétaires d'Etat à la présidence du conseil (fonction publique) et au budget, déterminera les modalités d'application du présent article, compte tenu des circonstances particulières des campagnes visées à l'alinéa ci-dessus.
+Un décret en Conseil d'Etat, pris sur le rapport des ministres de l'économie et des finances, des anciens combattants et victimes de guerre et des secrétaires d'Etat à la présidence du conseil (fonction publique) et au budget, déterminera les modalités d'application du présent article, compte tenu des circonstances particulières des campagnes visées à l'alinéa ci-dessus.

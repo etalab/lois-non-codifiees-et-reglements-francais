@@ -4,7 +4,7 @@ Le président directeur général est désigné dans les trois mois de la vacanc
 
 Cette nomination doit être acquise par douze voix au moins.
 
-Si aucun nom ne réunit ce nombre de voix après trois tours de scrutin auxquels il est procédé dans les conditions fixées par le règlement d'administration publique, le conseil supérieur propose au conseil d'administration deux candidats ; celui de ces candidats qui obtient le plus de voix est élu président directeur général.
+Si aucun nom ne réunit ce nombre de voix après trois tours de scrutin auxquels il est procédé dans les conditions fixées par le décret en Conseil d'Etat, le conseil supérieur propose au conseil d'administration deux candidats ; celui de ces candidats qui obtient le plus de voix est élu président directeur général.
 
 La cessation des fonctions du président directeur général peut être décidée par le conseil d'administration pour faute lourde de gestion commise dans l'exercice de ses fonctions ou pour acte incompatible avec l'accomplissement de sa mission. Cette décision doit être acquise hors la présence du président directeur général et par douze voix au moins.
 

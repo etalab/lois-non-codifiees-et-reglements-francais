@@ -6,4 +6,4 @@ Le nombre des journées de travail donnant lieu au prélèvement est fixé à fo
 
 Toutefois, le conseil départemental pourrait réduire ce chiffre jusqu'à 250 journées pour tenir compte des journées de vacances accordées dans certains établissements.
 
-Le taux et les modalités du versement seront déterminés par la direction de l'établissement, sous le contrôle du conseil départemental d'assistance publique et privée et sauf le recours prévu ci-après à l'article 16. Le minimum du versement sera établi par règlement d'administration publique.
+Le taux et les modalités du versement seront déterminés par la direction de l'établissement, sous le contrôle du conseil départemental d'assistance publique et privée et sauf le recours prévu ci-après à l'article 16. Le minimum du versement sera établi par décret en Conseil d'Etat.

@@ -1,6 +1,6 @@
 # Article 11
 
-Un règlement d'administration publique déterminera les conditions dans lesquelles une allocation annuelle pourra être attribuée :
+Un décret en Conseil d'Etat déterminera les conditions dans lesquelles une allocation annuelle pourra être attribuée :
 
 1° Aux ayants cause des fonctionnaires et militaires qui ont été déchus de leurs droits à pension avant la date d'effet de la présente loi ;
 

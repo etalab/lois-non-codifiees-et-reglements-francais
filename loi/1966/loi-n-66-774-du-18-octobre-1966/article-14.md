@@ -1,6 +1,6 @@
 # Article 14
 
-Un règlement d'administration publique déterminera les modalités d'application de la présente loi. Il précisera en particulier :
+Un décret en Conseil d'Etat déterminera les modalités d'application de la présente loi. Il précisera en particulier :
 
 - la procédure de mise sous tutelle aux prestations sociales et les voies de recours, les magistrats devant, dans toute la mesure du possible, entendre le chef de famille et toutes les personnes intéressées ;
 

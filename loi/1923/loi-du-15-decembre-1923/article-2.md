@@ -8,4 +8,4 @@ Elle dressera dans les mêmes conditions les actes qui n'auraient pas été éta
 
 Si les reconstitutions opérées par les commissions d'arrondissement contiennent des omissions ou des erreurs, les intéressés pourront en poursuivre la rectification conformément au droit commun.
 
-Une commission centrale consultative de sept. membres, siégeant à Paris nommée par le ministre de la justice et présidée par un magistrat ou un haut fonctionnaire, sera chargée de donner, en toutes matières ressortissant de la présente loi, des renseignements et directives aux commissions d'arrondissement en cas de difficultés ou de conflits. Le règlement d'administration publique précisera le rôle de cette commission.
+Une commission centrale consultative de sept. membres, siégeant à Paris nommée par le ministre de la justice et présidée par un magistrat ou un haut fonctionnaire, sera chargée de donner, en toutes matières ressortissant de la présente loi, des renseignements et directives aux commissions d'arrondissement en cas de difficultés ou de conflits. Le décret en Conseil d'Etat précisera le rôle de cette commission.

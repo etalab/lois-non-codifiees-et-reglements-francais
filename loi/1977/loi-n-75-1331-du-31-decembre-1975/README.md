@@ -5,5 +5,5 @@
 - [Titre II : Le département de Paris.](titre-ii)
 - [Titre III : La représentation de l'Etat.](titre-iii)
 - [Titre IV : Le budget et les biens.](titre-iv)
-- [Titre V : Les personnels](titre-v)
+- [Titre V : Les services et les personnels  de la commune et du département de Paris](titre-v)
 - [Titre VI : Dispositions diverses.](titre-vi)

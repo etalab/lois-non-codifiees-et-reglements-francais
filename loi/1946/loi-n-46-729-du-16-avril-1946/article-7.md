@@ -1,0 +1,3 @@
+# Article 7
+
+Pendant un délai de six mois à compter de la promulgation de la présente loi, pourront demander à bénéficier de l'amnistie les personnes qui se seront vu infliger toute amende, quel qu'en soit le montant, pénale, administrative ou fiscale et quels que soient l'autorité ou l'organisme qui l'ait prescrite, sous la condition que l'acte qui l'aura motivée soit intervenu, avant le 8 mai 1945 pour l'ensemble du territoire, ou la date du 10 août 1945 pour les départements du Haut-Rhin, Bas-Rhin et Moselle, et qu'il ait été commis soit en vue de gêner, directement ou indirectement, le ravitaillement ou l'effort de guerre de la puissance occupante, soit en vue d'aider les forces françaises de l'intérieur, en dehors de tout mobile d'intérêt personnel.

@@ -10,6 +10,6 @@ Ils ont droit, selon la catégorie à laquelle ils appartiennent, à un supplém
 
 Ont droit également à une majoration de pension les marins de la marine marchande qui pourront justifier d'un minimum de cent quatre-vingts mois de navigation hauturière (long cours, grandes pêches, cabotage, pêche au large).
 
-Toutefois, en ce qui concerne la pêche au large, les conditions qu'elle devra réunir, notamment comme tonnage des navires et durée des sorties, pour pouvoir donner droit à la majoration, seront déterminées par un règlement d'administration publique.
+Toutefois, en ce qui concerne la pêche au large, les conditions qu'elle devra réunir, notamment comme tonnage des navires et durée des sorties, pour pouvoir donner droit à la majoration, seront déterminées par un décret en Conseil d'Etat.
 
 Dans ces cent quatre-vingts mois sont également comptés les services accomplis sur un bâtiment de guerre français, en dehors des limites fixées par l'article 15 de la loi du 19 avril 1906.

@@ -24,4 +24,4 @@ b) Aux recours formés contre les décisions des autorités administratives ou t
 
 c) Aux poursuites pénales engagées en vertu des dispositions des législations et réglementations de sécurité sociale et de mutualité sociale agricole.
 
-L'organisation prévue par la présente loi s'applique, nonobstant toutes dispositions législatives antérieures, au contentieux des régimes spéciaux suivant les modalités qui seront définies au règlement d'administration publique prévu à l'article 34.
+L'organisation prévue par la présente loi s'applique, nonobstant toutes dispositions législatives antérieures, au contentieux des régimes spéciaux suivant les modalités qui seront définies par décret en Conseil d'Etat prévu à l'article 34.

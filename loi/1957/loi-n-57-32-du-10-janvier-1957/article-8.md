@@ -6,6 +6,6 @@ Le président directeur général est chargé de la préparation et de l'exécut
 
 Le vice-président assiste ou remplace le président directeur général dans ses missions de représentation. En cas d'empêchement du président directeur général, il est suppléé à la présidence du conseil d'administration par le vice-président ou, à défaut, par un administrateur choisi par le conseil d'administration dans son sein. Les autres attributions du président directeur général sont, dans le même cas, exercées par les directeurs ou chefs de service de l'agence ayant reçu à cet effet délégation du président directeur général avec l'accord du conseil d'administration.
 
-Les pouvoirs respectifs du conseil d'administration et du président directeur général sont précisés par le règlement d'administration publique prévu à l'article 17 de la présente loi.
+Les pouvoirs respectifs du conseil d'administration et du président directeur général sont précisés par le décret en Conseil d'Etat prévu à l'article 17 de la présente loi.
 
 Le conseil d'administration peut déléguer certains de ses pouvoirs au président directeur général.

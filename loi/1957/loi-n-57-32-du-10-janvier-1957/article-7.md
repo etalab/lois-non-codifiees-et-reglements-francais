@@ -4,7 +4,7 @@ Le conseil d'administration comprend en plus du président :
 
 1° Huit représentants des directeurs d'entreprises françaises de publication de journaux quotidiens désignés par les organisations professionnelles les plus représentatives ; la valeur représentative desdites organisations est appréciée dans les conditions fixées par la loi n° 53-287 du 7 avril 1953 et par les textes pris pour son application ;
 
-2° Deux représentants de la radiodiffusion-télévision française désignés dans les conditions fixées par le règlement d'administration publique prévu à l'article 17 de la présente loi ;
+2° Deux représentants de la radiodiffusion-télévision française désignés dans les conditions fixées par le décret en Conseil d'Etat prévu à l'article 17 de la présente loi ;
 
 3° Trois représentants des services publics usagers de l'agence désignés dans les mêmes conditions et respectivement par le président du conseil, le ministre des affaires étrangères et le ministre des finances et des affaires économiques ;
 

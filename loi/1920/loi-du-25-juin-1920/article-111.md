@@ -14,6 +14,6 @@ La remise au domaine des titres visés par cette disposition aura lieu dans les 
 
 Les agents de l'enregistrement, des domaines et du timbre ont droit de prendre communication au siège des banques, établissements ou collectivités visés au présent article ou dans leurs agences ou succursales, de tous registres, délibérations, etc., documents quelconques pouvant servir au contrôle des sommes ou titres à remettre à l'Etat.
 
-Un règlement d'administration publique déterminera les conditions d'application des dispositions ci-dessus.
+Un décret en Conseil d'Etat déterminera les conditions d'application des dispositions ci-dessus.
 
-Toute contravention aux dispositions du présent article ou du règlement d'administration publique prévu au paragraphe précédent sera punie d'une amende de 100 à 5 000 (anciens) francs augmentée, le cas échéant, d'une somme égale au montant des coupons, intérêts dividendes, dépôts ou avoirs ou à la valeur nominale des titres pour le versement ou la remise desquels une omission, une dissimulation ou une fraude quelconque aura été commise au préjudice de l'Etat par la société, la collectivité ou l'établissement intéressé.
+Toute contravention aux dispositions du présent article ou du décret en Conseil d'Etat prévu au paragraphe précédent sera punie d'une amende de 100 à 5 000 (anciens) francs augmentée, le cas échéant, d'une somme égale au montant des coupons, intérêts dividendes, dépôts ou avoirs ou à la valeur nominale des titres pour le versement ou la remise desquels une omission, une dissimulation ou une fraude quelconque aura été commise au préjudice de l'Etat par la société, la collectivité ou l'établissement intéressé.

@@ -11,6 +11,7 @@
 - [Titre IX : Dispositions spéciales aux grandes manoeuvres et aux exercices de tir.](titre-ix)
 - [Titre X : Des réquisitions relatives aux voies navigables.](titre-x)
 - [Titre XI : Des réquisitions relatives aux mines de combustibles.](titre-xi)
+- [Titre XII : Des réquisitions relatives aux établissements industriels.](titre-xii)
 - [Titre XIII : Réquisitions des marchandises déposées dans les entrepôts de douane et dans les magasins généraux, ou en cours de transport par voie ferrée.](titre-xiii)
 - [Titre XIV : Dispositions communes aux titres X à XIII.](titre-xiv)
 - [Dispositions générales.](dispositions-generales)

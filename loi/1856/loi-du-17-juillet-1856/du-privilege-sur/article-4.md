@@ -8,7 +8,7 @@ L'hypothèque légale sur les terrains drainés, telle qu'elle est établie par 
 
 3° Aux entrepreneurs, pour le payement du montant des travaux de drainage par eux exécutés ;
 
-4° A ceux qui ont prêté des deniers, pour payer ou rembourser les entrepreneurs, en se conformant aux dispositions du 5° de l'article 2374 du Code civil.
+4° A ceux qui ont prêté des deniers, pour payer ou rembourser les entrepreneurs, en se conformant aux dispositions du 5° de l'article 2103 du Code civil.
 
 Les syndicats ont, en outre, pour la taxe d'entretien de l'année échue et de l'année courante, le privilège sur les récoltes et revenus, tel qu'il est établi par l'article 3.
 

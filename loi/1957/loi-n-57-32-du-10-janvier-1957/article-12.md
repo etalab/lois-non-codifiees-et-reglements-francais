@@ -14,7 +14,7 @@ La commission financière est chargée de la vérification générale permanente
 
 Elle dispose de tous pouvoirs d'investigation tant sur pièce que sur place. Elle adresse, tant au président directeur général qu'au conseil d'administration, toutes observations utiles sur la gestion financière.
 
-Si la commission financière constate que, malgré ses observations, le conseil d'administration n'a pas pris toutes mesures nécessaires pour assurer l'équilibre financier de l'agence, elle peut demander, après accord du conseil supérieur, la nomination d'un administrateur provisoire qui est désigné à la requête du président de la commission par le président du tribunal de commerce ; il est alors procédé, dans le délai de six mois, à un renouvellement anticipé du conseil d'administration dans les conditions fixées par le règlement d'administration publique prévu à l'article 17 de la présente loi.
+Si la commission financière constate que, malgré ses observations, le conseil d'administration n'a pas pris toutes mesures nécessaires pour assurer l'équilibre financier de l'agence, elle peut demander, après accord du conseil supérieur, la nomination d'un administrateur provisoire qui est désigné à la requête du président de la commission par le président du tribunal de commerce ; il est alors procédé, dans le délai de six mois, à un renouvellement anticipé du conseil d'administration dans les conditions fixées par le décret en Conseil d'Etat prévu à l'article 17 de la présente loi.
 
 La mission de l'administrateur provisoire prend fin dès l'installation du nouveau conseil.
 

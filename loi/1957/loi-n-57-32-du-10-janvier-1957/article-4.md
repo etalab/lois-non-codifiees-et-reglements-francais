@@ -10,7 +10,7 @@ Deux représentants des directeurs d'entreprises de publications de journaux quo
 
 Un journaliste professionnel désigné par les organisations professionnelles les plus représentatives ;
 
-Un représentant de la radiodiffusion-télévision française désigné dans les conditions fixées par le règlement d'administration publique prévu à l'article 17 de la présente loi ;
+Un représentant de la radiodiffusion-télévision française désigné dans les conditions fixées par le décret en Conseil d'Etat prévu à l'article 17 de la présente loi ;
 
 Deux membres choisis par les autres membres du conseil supérieur, l'un parmi les personnalités ayant exercé outre-mer de hautes fonctions administratives, l'autre parmi les personnalités ayant exercé à l'étranger une haute fonction représentative de la France.
 
@@ -20,4 +20,4 @@ Toutefois, le mandat des membres du premier conseil supérieur ne prend fin qu'�
 
 Il est mis fin de plein droit au mandat de tout membre qui perd la qualité en raison de laquelle il a été désigné. Lorsque le mandat d'un membre prend fin, pour quelque cause que ce soit, avant son terme normal, la durée du mandat de son successeur prend fin en même temps que celle des autres membres du conseil.
 
-Les modalités de fonctionnement du conseil supérieur et les conditions dans lesquelles il sera fait face à ses dépenses sont fixées par le règlement d'administration publique prévu à l'article 17 de la présente loi.
+Les modalités de fonctionnement du conseil supérieur et les conditions dans lesquelles il sera fait face à ses dépenses sont fixées par le décret en Conseil d'Etat prévu à l'article 17 de la présente loi.

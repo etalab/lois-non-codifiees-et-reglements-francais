@@ -6,4 +6,4 @@ Les contrats de vente seront résolus de plein droit et les biens remis en datio
 
 Les annuités versées par l'attributaire jusqu'à la résolution de la vente seront acquises à l'ancien propriétaire ou à l'Etat à titre d'indemnité d'occupation.
 
-Un réglement d'administration publique déterminera les modalités d'application du présent article, et notamment les conditions dans lesquelles les cessions et les réglements anticipés faits avec l'agrément des anciens propriétaires demeureront valables.
+Un décret en Conseil d'Etat déterminera les modalités d'application du présent article, et notamment les conditions dans lesquelles les cessions et les réglements anticipés faits avec l'agrément des anciens propriétaires demeureront valables.
