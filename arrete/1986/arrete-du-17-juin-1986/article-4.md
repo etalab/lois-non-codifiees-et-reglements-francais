@@ -1,3 +1,5 @@
 # Article 4
 
-Sans préjudice d'une action devant les tribunaux répressifs contre le propriétaire, l'exploitant ou le pilote, toute infraction aux normes définies ci-dessus peut entraîner, pour le pilote, des poursuites disciplinaires.
+Après réception d'une demande d'identification d'U.L.M. formulée par le postulant, il est délivré une carte d'identification d'U.L.M. par le commissaire de la République compétent, qui peut déléguer sa signature au chef de district aéronautique.
+
+Ce document contient notamment une marque d'identification comportant le numéro du département d'attache choisi par le postulant suivi de deux lettres.

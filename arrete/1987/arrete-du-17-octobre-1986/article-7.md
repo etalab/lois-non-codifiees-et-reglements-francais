@@ -1,0 +1,11 @@
+# Article 7
+
+Les logements à usage locatif construits ou acquis et améliorés en application de l'arrêté du 13 mars 1986 relatif aux prêts aidés par l'Etat et aux subventions de l'Etat aux organismes réalisant des logements locatifs sociaux dans les départements d'outre-mer peuvent être financés au titre de la participation des employeurs à l'effort de construction dans la limite de 20 p. 100 du prix de revient prévisionnel de l'opération tel qu'il est défini à l'article 3 de l'arrêté du 13 mars 1986 relatif aux caractéristiques techniques et de prix de revient des logements locatifs sociaux dans les départements d'outre-mer. Cette limite de 20 p. 100 peut être dépassée sur avis conforme du directeur départemental de l'équipement.
+
+Lorsque l'opération a fait l'objet d'une décision en application de l'article 10 du 13 mars 1986 relatif aux prêts aidés par l'Etat et aux subventions de l'Etat aux organismes réalisant des logements locatifs sociaux dans les départements d'outre-mer, il peut être dérogé aux limites ci-dessus, sur avis conforme du directeur départemental de l'équipement, au vu du bilan financier prévisionnel de l'opération.
+
+Les logements locatifs construits ou acquis et améliorés à l'aide de prêts bancaires conventionnés peuvent être financés au titre de la participation des employeurs à l'effort de construction dans la limite de 15 p. 100 du prix de revient final de l'opération, sauf autorisation exceptionnelle du directeur départemental de l'équipement au vu du bilan financier prévisionnel.
+
+Les opérations de logements locatifs réalisées en application de l'article R. 313-31 (13°) du code de la construction et de l'habitation sont destinées à des personnes physiques dont l'ensemble des ressources n'excède pas 150 p. 100 des plafonds prévus par l'arrêté du 13 mars 1986 relatif aux plafonds de ressources des locataires des logements locatifs sociaux construits dans les départements d'outre-mer.
+
+Les logements locatifs de catégorie intermédiaire mentionnés à l'article R. 313-31 (14°) du code de la construction et de l'habitation peuvent être financés au titre de la participation des employeurs à l'effort de construction dans la limite de 25 p. 100 du prix de revient final de l'opération. Cette limite peut être dépassée sur avis conforme du commissaire de la République.

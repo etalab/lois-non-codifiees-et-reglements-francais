@@ -1,3 +1,3 @@
 # Article 3
 
-Tout U.L.M. en dehors des manoeuvres liées à l'atterrissage et au décollage et des vols rasants autorisés ne doit pas émettre un bruit tel que le niveau sonore mesuré, conformément à la procédure décrite en annexe (alinéa 4), soit supérieur à 65 dB/A.
+Les aéronefs U.L.M., tels que définis à l'article 1er, sont dispensés de documents de navigabilité dès lors qu'ils sont identifiés dans les conditions édictées par le présent texte.
