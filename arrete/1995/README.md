@@ -810,7 +810,6 @@
 - [Arrêté du 20 avril 1995 (DEFM9501490A)](arrete-du-20-avril-1995-defm9501490a)
 - [Arrêté du 20 avril 1995 (ECOM9500450A)](arrete-du-20-avril-1995-ecom9500450a)
 - [Arrêté du 20 avril 1995 (EQUS9500856A)](arrete-du-20-avril-1995-equs9500856a)
-- [Arrêté du 20 avril 1995 (EQUS9500861A)](arrete-du-20-avril-1995-equs9500861a)
 - [Arrêté du 20 avril 1995 (INDQ9500307A)](arrete-du-20-avril-1995-indq9500307a)
 - [Arrêté du 20 avril 1995 (MENL9500739A)](arrete-du-20-avril-1995-menl9500739a)
 - [Arrêté du 20 avril 1995 (SPSH9501351A)](arrete-du-20-avril-1995-spsh9501351a)
