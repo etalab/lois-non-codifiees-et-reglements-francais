@@ -103,6 +103,7 @@
 - [Décret n°2000-24 du 13 janvier 2000 (INTC0000010D)](decret-n2000-24-du-13-janvier-2000-intc0000010d)
 - [Décret n°2000-240 du 13 mars 2000 (AGRA0000386D)](decret-n2000-240-du-13-mars-2000-agra0000386d)
 - [Décret n°2000-241 du 13 mars 2000 (AGRA0000388D)](decret-n2000-241-du-13-mars-2000-agra0000388d)
+- [Décret n°2000-243 du 13 mars 2000 (AGRP9902061D)](decret-n2000-243-du-13-mars-2000-agrp9902061d)
 - [Décret n°2000-26 du 13 janvier 2000 (ECOT0014072D)](decret-n2000-26-du-13-janvier-2000-ecot0014072d)
 - [Décret n°2000-1107 du 14 novembre 2000 (MENF0002155D)](decret-n2000-1107-du-14-novembre-2000-menf0002155d)
 - [Décret n°2000-118 du 14 février 2000 (EQUT0000218D)](decret-n2000-118-du-14-fevrier-2000-equt0000218d)

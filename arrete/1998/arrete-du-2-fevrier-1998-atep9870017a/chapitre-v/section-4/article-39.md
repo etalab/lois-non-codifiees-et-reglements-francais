@@ -44,7 +44,7 @@ Pour l'azote, ces apports (exprimés en N global), toutes origines confondues, n
 
 - sur les autres cultures (sauf légumineuses) : 200 kg/ha/an ;
 
-- sur les cultures de légumineuses : aucun apport azoté.
+- sur les cultures de légumineuses : aucun apport azoté. L'épandage des effluents des installations agroalimentaires ne traitant que des matières d'origine végétale sur les cultures de luzerne peut cependant être autorisé par le préfet dans des conditions définies dans l'arrêté d'autorisation et dans les limites de 200 kg/ha/an d'azote global.
 
 Pour les cultures autres que prairies et légumineuses, une dose d'apport supérieure à 200 kg/ha/an peut être tolérée si l'azote minéral présent dans le déchet est inférieur à 20 % de l'azote global, sous réserve :
 

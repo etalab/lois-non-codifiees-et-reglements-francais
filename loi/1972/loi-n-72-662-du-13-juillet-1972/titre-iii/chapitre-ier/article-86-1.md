@@ -1,0 +1,3 @@
+# Article 86-1
+
+La qualité d'officier sous contrat se substitue à celle d'officier de réserve servant en situation d'activité. Les officiers sous contrat issus des officiers de réserve servant en situation d'activité conservent le grade, l'ancienneté de grade et l'ancienneté de service détenus. Toutefois, à titre transitoire, ceux dont le contrat en cours arrive à échéance dans les deux années qui suivent la date de publication de la loi n° 2000-242 du 14 mars 2000, s'ils le demandent, conservent le bénéfice des dispositions relatives à l'attribution d'un pécule ou au droit d'option entre le pécule et l'attribution d'une pension de retraite.

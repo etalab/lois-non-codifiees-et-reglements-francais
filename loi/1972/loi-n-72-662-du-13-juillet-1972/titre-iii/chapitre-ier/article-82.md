@@ -1,5 +1,5 @@
 # Article 82
 
-L'officier de réserve peut être admis, sur demande et dans la limite des effectifs autorisés, à servir avec son grade en situation d'activité par contrat conclu pour une période déterminée et renouvelable. Il ne peut, dans cette situation, dépasser la limite d'âge des officiers de carrière de grade correspondant, ni servir plus de vingt années.
+L'officier sous contrat est recruté dans les armées ou les formations rattachées, parmi les aspirants, pour une durée déterminée et renouvelable. Il ne peut dans cette situation ni servir plus de vingt ans ni dépasser la limite d'âge du grade correspondant de l'officier de carrière du corps auquel il est rattaché. Les dispositions des articles 32, 35, 43, 51, 53 à 56, 57 (1°, 2°, 7° et 8°), 60, 65-1, 65-2, 95, 96 et 97 lui sont applicables.
 
-Dans cette situation, il reste soumis au statut des officiers de réserve et l'avancement a lieu conformément aux prescriptions régissant les officiers de réserve de son corps. Néanmoins, les dispositions des articles 32, 35, 43, 51, 53 à 56, 57 (1°, 2°, 7° et 8°), 60, 65-1 et 65-2 lui sont applicables.
+Par dérogation aux articles L. 6 et L. 7 du code des pensions civiles et militaires de retraite, l'ensemble des dispositions prévues par ce code, au profit des officiers de carrière, s'appliquent aux officiers sous contrat.
