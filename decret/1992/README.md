@@ -45,7 +45,6 @@
 - [Décret n°92-383 du 1 avril 1992 (MAEJ9230009D)](decret-n92-383-du-1-avril-1992-maej9230009d)
 - [Décret n°92-384 du 1 avril 1992 (MAEJ9230015D)](decret-n92-384-du-1-avril-1992-maej9230015d)
 - [Décret n°92-479 du 1 juin 1992 (SPSS9201044D)](decret-n92-479-du-1-juin-1992-spss9201044d)
-- [Décret n°92-600 du 1 juillet 1992 (TEFX9200107D)](decret-n92-600-du-1-juillet-1992-tefx9200107d)
 - [Décret n°92-601 du 1 juillet 1992 (TEFX9200098D)](decret-n92-601-du-1-juillet-1992-tefx9200098d)
 - [Décret n°92-604 du 1 juillet 1992 (INTX9200095D)](decret-n92-604-du-1-juillet-1992-intx9200095d)
 - [Décret n°92-606 du 1 juillet 1992 (BUDL9200002D)](decret-n92-606-du-1-juillet-1992-budl9200002d)
