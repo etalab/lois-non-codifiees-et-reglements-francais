@@ -1,0 +1,3 @@
+# Article 42
+
+Lorsque les demandes d'indemnisation, en cours d'instruction à la date de publication du présent décret, devant les commissions instituées par l'article 706-4 du code de procédure pénale sont, en application du IX de l'article 53 de la loi du 23 décembre 2000 susvisée, transmises au fonds d'indemnisation des victimes de l'amiante, celui-ci en avise le demandeur par lettre recommandée avec demande d'avis de réception et l'invite à confirmer sa demande par écrit. Il est accusé réception de la demande. Le délai fixé au IV de l'article 53 de la loi du 23 décembre 2000 susvisée court à compter de la date de la confirmation de la demande.

@@ -1,0 +1,3 @@
+# Article 1
+
+A compter de la récolte 2001, tout producteur qui demande le bénéfice des aides prévues par le règlement (CE) n° 1493/99 susvisé concernant le stockage privé du vin de table, du moût de raisin, du moût de raisin concentré et du moût de raisin concentré rectifié, d'une part, et l'utilisation de moûts de raisin concentré et de moûts de raisin concentrés rectifiés pour augmenter le titre alcoométrique des produits vinicoles de son exploitation, d'autre part, doit respecter les limites de rendement agronomique fixées ci-après pour les superficies déclarées en vins de table ou autres produits vitivinicoles, à l'exception des vins de pays, des vins à appellation d'origine contrôlée et des vins à appellation d'origine "vins délimités de qualité supérieure".

@@ -1,0 +1,7 @@
+# Article 9
+
+Sans préjudice des compétences exercées par le conseil d'administration, le directeur et l'agent comptable par application du présent décret, une convention de gestion peut être conclue à titre transitoire avec le fonds de garantie contre les accidents de circulation et de chasse institué par l'article L. 421-1 du code des assurances afin de lui confier, pour une durée d'un an, l'instruction des dossiers de demandes, la préparation des offres et toute autre mission notamment d'assistance juridique au fonds d'indemnisation des victimes de l'amiante.
+
+Cette convention précise notamment les procédures et les délais de traitement des demandes par le fonds de garantie contre les accidents de circulation et de chasse, les conditions dans lesquelles ce fonds transmet au fonds d'indemnisation des victimes de l'amiante toute information utile à l'exercice de sa mission, notamment d'ordre financier, statistique et comptable, les conditions de rémunération des prestations du fonds de garantie contre les accidents de circulation et de chasse et les sanctions applicables en cas de non-respect des dispositions contractuelles.
+
+Le directeur général du fonds de garantie contre les accidents de circulation et de chasse ou son représentant peut, le cas échéant, assister, avec voix consultative, aux séances du conseil d'administration du fonds d'indemnisation des victimes de l'amiante.
