@@ -9,6 +9,7 @@
 - [Décret n°2000-141 du 21 février 2000 (MESH0020488D)](decret-n2000-141-du-21-fevrier-2000-mesh0020488d)
 - [Décret n°2000-685 du 21 juillet 2000 (MESG0010702D)](decret-n2000-685-du-21-juillet-2000-mesg0010702d)
 - [Décret n°2000-262 du 22 mars 2000 (MJSK0070023D)](decret-n2000-262-du-22-mars-2000-mjsk0070023d)
+- [Décret n°2000-789 du 24 août 2000 (MAEA0020137D)](decret-n2000-789-du-24-aout-2000-maea0020137d)
 - [Décret n°2000-376 du 28 avril 2000 (INTD0000109D)](decret-n2000-376-du-28-avril-2000-intd0000109d)
 - [Décret n°2000-456 du 29 mai 2000 (ECOX0004146D)](decret-n2000-456-du-29-mai-2000-ecox0004146d)
 - [Décret n°2000-286 du 30 mars 2000 (EQUX0000059D)](decret-n2000-286-du-30-mars-2000-equx0000059d)

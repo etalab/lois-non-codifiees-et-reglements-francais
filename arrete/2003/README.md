@@ -375,6 +375,8 @@
 - [Arrêté du 24 février 2003 (PRMX0306256A)](arrete-du-24-fevrier-2003-prmx0306256a)
 - [Arrêté du 24 février 2003 (PRMX0306257A)](arrete-du-24-fevrier-2003-prmx0306257a)
 - [Arrêté du 24 février 2003 (SPRK0370037A)](arrete-du-24-fevrier-2003-sprk0370037a)
+- [Arrêté du 24 juin 1998 (ECOI9800536A)](arrete-du-24-juin-1998-ecoi9800536a)
+- [Arrêté du 24 juin 1998 (ECOI9800537A)](arrete-du-24-juin-1998-ecoi9800537a)
 - [Arrêté du 24 juin 2003 (DEFP0301691A)](arrete-du-24-juin-2003-defp0301691a)
 - [Arrêté du 24 mars 2003 (BUDD0370005A)](arrete-du-24-mars-2003-budd0370005a)
 - [Arrêté du 24 mars 2003 (DEFD0301455A)](arrete-du-24-mars-2003-defd0301455a)

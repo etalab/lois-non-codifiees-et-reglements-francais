@@ -10,9 +10,9 @@ Dans la limite de l'ancienneté moyenne exigée à l'article 13 du présent déc
 
 Les candidats nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que procure la promotion audit échelon.
 
-B. - Les techniciens de l'industrie et des mines sont classés dans le grade d'ingénieur de l'industrie et des mines dans les conditions définies au tableau ci-dessous :
+B. - Les techniciens supérieurs de l'industrie et des mines sont classés dans le grade d'ingénieur de l'industrie et des mines dans les conditions définies au tableau ci-dessous :
 
-TECHNICIEN EN CHEF (NOUVEAU GRADE)
+TECHNICIEN SUPÉRIEUR EN CHEF (NOUVEAU GRADE)
 
 I = SITUATION DANS LE CORPS DES TECHNICIENS à la date de la nomination en qualité d'ingénieur stagiaire ou d'ingénieur de l'industrie et des mines
 
@@ -80,7 +80,7 @@ c = 3e
 
 d = Cinq sixièmes de l'ancienneté acquise diminuée de 1 an.
 
-TECHNICIEN SUPERIEUR (NOUVEAU GRADE)
+TECHNICIEN SUPERIEUR PRINCIPAL (NOUVEAU GRADE)
 
 I = SITUATION DANS LE CORPS DES TECHNICIENS à la date de la nomination en qualité d'ingénieur stagiaire ou d'ingénieur de l'industrie et des mines
 
@@ -152,7 +152,7 @@ c = 1er
 
 d = Un demi de l'ancienneté acquise au-delà de 1 an, majoré de 6 mois
 
-TECHNICIEN (NOUVEAU GRADE)
+TECHNICIEN SUPÉRIEUR (NOUVEAU GRADE)
 
 I = SITUATION DANS LE CORPS DES TECHNICIENS à la date de la nomination en qualité d'ingénieur stagiaire ou d'ingénieur de l'industrie et des mines
 
@@ -262,13 +262,13 @@ c = 1er
 
 d = Sans ancienneté.
 
-C. - Les fonctionnaires civils de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent appartenant à un corps classé dans la catégorie B ou de même niveau autre que le corps des techniciens de l'industrie et des mines sont classés dans le grade d'ingénieur de l'industrie et des mines à un échelon déterminé selon les correspondances fixées au B ci-dessus, en prenant en compte la situation qui aurait été la leur si, préalablement à leur nomination dans le grade d'ingénieur de l'industrie et des mines, ils avaient été classés dans le corps des techniciens de l'industrie et des mines à un grade équivalent et à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à ceux détenus dans leur corps d'origine avec conservation de l'ancienneté dans les limites fixées par les deuxième et troisième alinéas du IV de l'article 3 du décret n° 94-1016 du 18 novembre 1994 fixant les dispositions statutaires communes applicables à divers corps de fonctionnaires de catégorie B.
+C. - Les fonctionnaires civils de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent appartenant à un corps classé dans la catégorie B ou de même niveau autre que le corps des techniciens supérieurs de l'industrie et des mines sont classés dans le grade d'ingénieur de l'industrie et des mines à un échelon déterminé selon les correspondances fixées au B ci-dessus, en prenant en compte la situation qui aurait été la leur si, préalablement à leur nomination dans le grade d'ingénieur de l'industrie et des mines, ils avaient été classés dans le corps des techniciens supérieurs de l'industrie et des mines à un grade équivalent et à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à ceux détenus dans leur corps d'origine avec conservation de l'ancienneté dans les limites fixées par les deuxième et troisième alinéas du IV de l'article 3 du décret n° 94-1016 du 18 novembre 1994 fixant les dispositions statutaires communes applicables à divers corps de fonctionnaires de catégorie B.
 
 Toutefois, les fonctionnaires appartenant à un corps ou à un cadre d'emplois ou occupant un emploi de catégorie B ou de niveau équivalent dont l'indice brut terminal est au moins égal à 638 sont, à la date de leur nomination en qualité d'ingénieur stagiaire, classés dans le grade d'ingénieur de l'industrie et des mines à l'échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans le précédent emploi. Dans la limite de l'ancienneté moyenne exigée à l'article 13 ci-dessous pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent emploi dans les conditions définies aux troisième et quatrième alinéas du A ci-dessus.
 
 D. - Les fonctionnaires civils de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent appartenant à un corps ou cadre d'emplois des catégories C ou D ou de niveau équivalent autres que ceux visés au I de l'article 3 du décret n° 94-1016 du 18 novembre 1994 précité lors de leur admission en qualité d'élève ingénieur sont classés à un échelon déterminé en appliquant à la date de leur nomination en qualité d'ingénieur stagiaire de l'industrie et des mines les modalités fixées au B ci-dessus à la fraction de l'ancienneté qui aurait été prise en compte en application du II et du III de l'article 3 du décret n° 94-1016 du 18 novembre 1994 précité.
 
-Les fonctionnaires civils de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent appartenant à un corps ou cadre d'emplois des catégories C ou D ou de niveau équivalent visés au I de l'article 3 du décret n° 94-1016 du 18 novembre 1994 précité sont classés dans le grade d'ingénieur stagiaire de l'industrie et des mines à un échelon déterminé suivant le tableau figurant au B. Pour ce classement, est prise en compte la situation qui aurait été la leur si, avant leur nomination dans le grade d'ingénieur, ils avaient été classés dans le grade de technicien de l'industrie et des mines en application de l'article 3-I du décret n° 94-1016 du 18 novembre 1994 précité.
+Les fonctionnaires civils de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent appartenant à un corps ou cadre d'emplois des catégories C ou D ou de niveau équivalent visés au I de l'article 3 du décret n° 94-1016 du 18 novembre 1994 précité sont classés dans le grade d'ingénieur stagiaire de l'industrie et des mines à un échelon déterminé suivant le tableau figurant au B. Pour ce classement, est prise en compte la situation qui aurait été la leur si, avant leur nomination dans le grade d'ingénieur, ils avaient été classés dans le grade de technicien supérieur de l'industrie et des mines en application de l'article 3-I du décret n° 94-1016 du 18 novembre 1994 précité.
 
 E. - Les agents non titulaires sont classés à un échelon déterminé en prenant en compte, sur la base des durées moyennes fixées à l'article 13 ci-dessous pour chaque avancement d'échelon, une fraction de leur ancienneté de service dans les conditions suivantes :
 

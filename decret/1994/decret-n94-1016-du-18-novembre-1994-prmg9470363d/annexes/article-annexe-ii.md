@@ -6,4 +6,4 @@ Techniciens des parcs nationaux.
 
 Techniciens de laboratoire.
 
-Techniciens de l'industrie et des mines.
+Techniciens supérieurs de l'industrie et des mines.
