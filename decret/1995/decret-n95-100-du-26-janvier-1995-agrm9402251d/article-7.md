@@ -1,7 +1,15 @@
 # Article 7
 
-Les exploitations situées dans une zone indemne ou ayant le statut d'exploitation indemne doivent tenir un registre comportant tous les renseignements nécessaires pour permettre un suivi permanent de l'état sanitaire des mollusques et des crustacés marins introduits dans l'exploitation.
+I. - Tout exploitant de mollusques vivants, qu'il soit producteur ou expéditeur, ouvre et tient à jour un registre comportant des informations relatives :
 
-Les zones et les exploitations ayant le statut de zone ou d'exploitation indemne font l'objet de contrôles périodiques dont le rythme est adapté à celui du développement des agents pathogènes en cause.
+1° Aux mollusques introduits dans l'exploitation, y compris toutes les informations concernant leur livraison, leur nombre ou poids, leur taille et leur origine ;
 
-Ces contrôles sont effectués par les services des affaires maritimes dans les conditions prévues par la loi du 5 juillet 1983 susvisée ainsi que par les autorités communautaires chargées du respect du statut des zones et des exploitations indemnes.
+2° Aux mollusques quittant l'exploitation afin d'être remis à l'eau, y compris toutes les informations concernant leur expédition, leur nombre ou poids, leur taille et leur destination ;
+
+3° Aux mortalités anormales constatées telles qu'elles sont définies à l'article 8 du présent décret.
+
+II. - Les exploitants de crustacés marins vivants situés en zone indemne ou ayant le statut d'exploitation indemne doivent tenir un registre comportant tous les renseignements nécessaires pour permettre un suivi permanent de l'état sanitaire des crustacés marins introduits dans l'exploitation.
+
+III. - Les registres mentionnés au I et au II du présent article doivent être conservés pendant quatre ans.
+
+IV. - La tenue de ces registres est contrôlée par les agents habilités en vertu des dispositions de l'article 6 de la loi du 5 juillet 1983 susvisée, ainsi que par les experts désignés par la Commission des Communautés européennes collaborant avec ces agents.
