@@ -1,6 +1,6 @@
 # Article 22
 
-Dans le respect des attributions du conseil d'administration et du directeur ainsi que des différentes instances consultatives de l'établissement, l'autorité du chef de département s'exerce ainsi qu'il suit :
+Dans le respect des attributions du conseil d'administration et du directeur ainsi que des différentes instances consultatives de l'établissement, le rôle du chef de département s'exerce ainsi qu'il suit :
 
 1° Sur propositions du conseil de département, le chef de département [*attributions*] :
 
