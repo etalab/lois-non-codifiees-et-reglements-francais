@@ -12,15 +12,17 @@ b) Région de la Vendée et de la Charente-Maritime, de la limite séparative de
 
 L'are: 9,00 F ;
 
-c) Ile de Ré et région Marennes-Oléron depuis la limite sud de la Charente jusqu'à la Gironde :
+c) Ile de Ré et région Marennes-Oléron depuis la limite Sud de la Charente jusqu'à la Gironde :
 
-1° Zone cadastrale considérée comme ayant un rendement  bon  :
+1° Zone cadastrale considérée comme ayant un rendement bon :
 
-L'are : 18,90 F ;
+L'are : 15,30 F ;
 
-2° Zone cadastrale considérée comme ayant un rendement  moyen  :
+Ce tarif est réduit de 3,60 F en 1985
 
-L'are: 12,20 F ;
+2° Zone cadastrale considérée comme ayant un rendement moyen, l'are : 9,00 F ;
+
+Ce tarif est réduit de 3,20 F en 1985
 
 d) Région de la Gironde (quartier de Bordeaux) :
 
@@ -32,15 +34,15 @@ L'are : 12,60 F ;
 
 f) Région de la Méditerranée :
 
-1° Zone cadastrale considérée comme ayant un rendement  très bon  :
+1° Zone cadastrale considérée comme ayant un rendement très bon :
 
 L'are: 12,60 F ;
 
-2° Zone cadastrale considérée comme ayant un rendement  bon  :
+2° Zone cadastrale considérée comme ayant un rendement bon :
 
 L'are: 8,40 F ;
 
-3° Zone cadastrale considérée comme ayant un rendement  moyen  :
+3° Zone cadastrale considérée comme ayant un rendement moyen :
 
 L'are: 6,30 F ;
 
@@ -106,7 +108,7 @@ d) Etablissements expérimentaux :
 
 L'are: 50 F.
 
-Ce dernier  tarif pourra être augmenté ou diminué selon un pourcentage fixé par le chef du service des domaines, sur le rapport du directeur des services fiscaux compétent, après consultation du service local chargé des affaires maritimes.
+Ce dernier tarif pourra être augmenté ou diminué selon un pourcentage fixé par le chef du service des domaines, sur le rapport du directeur des services fiscaux compétent, après consultation du service local chargé des affaires maritimes.
 
 7. Réservoirs fixes :
 
