@@ -36,6 +36,7 @@
 - [Décret n°90-1026 du 14 novembre 1990 (MCCB9000487D)](decret-n90-1026-du-14-novembre-1990-mccb9000487d)
 - [Décret n°90-1027 du 14 novembre 1990 (MCCB9000436D)](decret-n90-1027-du-14-novembre-1990-mccb9000436d)
 - [Décret n°91-42 du 14 janvier 1991 (DEFX9100010D)](decret-n91-42-du-14-janvier-1991-defx9100010d)
+- [Décret n°91-47 du 14 janvier 1991 (EQUT9001629D)](decret-n91-47-du-14-janvier-1991-equt9001629d)
 - [Décret n°91-48 du 14 janvier 1991 (PTTA9000986D)](decret-n91-48-du-14-janvier-1991-ptta9000986d)
 - [Décret n°90-489 du 15 juin 1990 (TEFT9003525D)](decret-n90-489-du-15-juin-1990-teft9003525d)
 - [Décret n°90-490 du 15 juin 1990 (TEFT9003526D)](decret-n90-490-du-15-juin-1990-teft9003526d)
