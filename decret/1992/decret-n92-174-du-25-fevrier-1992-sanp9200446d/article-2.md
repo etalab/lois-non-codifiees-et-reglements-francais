@@ -10,4 +10,6 @@ b) La détection des marqueurs biologiques des hépatites B et C ;
 
 c) Le dépistage sérologique de la syphilis ;
 
+d) La recherche des marqueurs biologiques du cytomégalovirus.
+
 2° S'il s'agit de sperme, que l'examen microbiologique de celui-ci est normal.
