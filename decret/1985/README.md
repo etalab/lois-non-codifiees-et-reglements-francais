@@ -190,6 +190,7 @@
 - [Décret n°85-924 du 30 août 1985](decret-n85-924-du-30-aout-1985)
 - [Décret n°85-560 du 30 mai 1985](decret-n85-560-du-30-mai-1985)
 - [Décret n°85-565 du 30 mai 1985](decret-n85-565-du-30-mai-1985)
+- [Décret n°84-1301 du 31 décembre 1984](decret-n84-1301-du-31-decembre-1984)
 - [Décret n°85-827 du 31 juillet 1985](decret-n85-827-du-31-juillet-1985)
 - [Décret n°85-594 du 31 mai 1985](decret-n85-594-du-31-mai-1985)
 - [Décret n°85-629 du 31 mai 1985](decret-n85-629-du-31-mai-1985)
