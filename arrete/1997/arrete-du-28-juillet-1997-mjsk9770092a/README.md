@@ -6,4 +6,5 @@
 - [TITRE II : PREMIER CYCLE DE FORMATION](titre-ii-premier)
 - [Article 3](article-3.md)
 - [TITRE III : DEUXIEME CYCLE DE FORMATION](titre-iii-deuxieme)
+- [TITRE IV : DISPOSITIONS GENERALES](titre-iv)
 - [Annexes](annexes)
