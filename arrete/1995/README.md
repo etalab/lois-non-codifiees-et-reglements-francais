@@ -895,7 +895,6 @@
 - [Arrêté du 21 février 1995 (ECOC9500035A)](arrete-du-21-fevrier-1995-ecoc9500035a)
 - [Arrêté du 21 février 1995 (EQUT9500369A)](arrete-du-21-fevrier-1995-equt9500369a)
 - [Arrêté du 21 février 1995 (INTE9500113A)](arrete-du-21-fevrier-1995-inte9500113a)
-- [Arrêté du 21 février 1995 (MJSK9570029A)](arrete-du-21-fevrier-1995-mjsk9570029a)
 - [Arrêté du 21 janvier 1995 (INTA9500020A)](arrete-du-21-janvier-1995-inta9500020a)
 - [Arrêté du 21 juillet 1994 (INTE9400390A)](arrete-du-21-juillet-1994-inte9400390a)
 - [Arrêté du 21 juillet 1995 (AGRM9501623A)](arrete-du-21-juillet-1995-agrm9501623a)
