@@ -2,7 +2,7 @@
 
 Peuvent bénéficier de contrats emploi-solidarité, en application de l'article L. 322-4-7 du code du travail [*bénéficiaires*] :
 
-1° Les jeunes âgés de seize à vingt-cinq ans révolus titulaires au plus d'un diplôme de niveau V ; après consultation, pour ceux qui sont âgés de moins de dix-huit ans, de la permanence d'accueil, d'information et d'orientation, de la mission locale ou de l'agence locale pour l'emploi ;
+1° Les jeunes âgés de dix-huit à vingt-cinq ans révolus titulaires au plus d'un diplôme de niveau V ;
 
 2° Les demandeurs d'emploi âgés de cinquante ans ou plus ;
 
