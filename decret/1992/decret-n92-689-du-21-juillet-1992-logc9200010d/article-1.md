@@ -1,0 +1,3 @@
+# Article 1
+
+Pour l'application du dernier alinéa de l'article L. 332-17, du a de l'article L. 332-18, du deuxième alinéa de l'article L. 332-21 et du dernier alinéa de l'article L. 333-3 du code de l'urbanisme, les plafonds de loyer, charges non comprises, sont fixés à 788 F annuels par mètre carré de surface habitable en région Ile-de-France et 561 F annuels par mètre carré de surface habitable dans les autres régions. Ces plafonds sont relevés chaque année le 1er janvier dans la même proportion que l'indice national mesurant le coût de la construction publié par l'Institut national de la statistique et des études économiques. La date de référence de l'indice est celle du deuxième trimestre de l'année précédente.

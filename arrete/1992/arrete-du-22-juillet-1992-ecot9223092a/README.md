@@ -1,9 +1,8 @@
-# Décret n°88-61 du 18 janvier 1988 pris pour l'application de l'article L. 355-23 du code de la santé publique concernant le dépistage de façon anonyme et gratuite du virus de l'immuno-déficience humaine *SIDA*.
+# Arrêté du 22 juillet 1992 fixant les conditions d'émission des obligations du budget annexe de l'aviation civile (B.A.A.C.) juillet 1992
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
-- [Article 3-1](article-3-1.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
