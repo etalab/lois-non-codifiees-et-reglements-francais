@@ -1,0 +1,3 @@
+# Article 28
+
+Lorsque, en cours d'exécution, la masse des travaux, fournitures ou services a été modifiée par ordre de service au delà des limites fixées par les documents contractuels ou que le marché a été partiellement ou totalement résilié, l'acte contractuel fixant le prix des travaux, fournitures ou services à exécuter suivant cet ordre de service, ou l'indemnité de résiliation, doit intervenir, sauf disposition contraire du contrat, au plus tard six mois après la date de notification de l'ordre de service ou de la résiliation. Ce délai est porté à un an si l'acte contractuel est soumis à l'approbation ministérielle ou si la résiliation est prononcée en vertu d'une loi.
