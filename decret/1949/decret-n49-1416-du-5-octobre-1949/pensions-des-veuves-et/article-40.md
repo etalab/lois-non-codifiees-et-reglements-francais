@@ -1,13 +1,11 @@
 # Article 40
 
-I - Nonobstant la condition d'antériorité prévue à l'article 33 et si le mariage antérieur ou postérieur à la cessation de l'activité a duré au moins six années [*délai*], le droit à pension de veuve est reconnu lorsque le mari a obtenu ou pouvait obtenir, au moment de son décès, une pension d'ancienneté. L'entrée en jouissance de la pension est éventuellement différée jusqu'à l'époque où la veuve atteindra l'âge de cinquante-cinq ans.
-
-Au cas d'existence, au moment du décès du mari, d'un ou plusieurs enfants issus du mariage, le droit à pension de veuve est acquis après une durée de trois années seulement de ce mariage et la jouissance de la pension est immédiate.
-
-Les veuves non remariées qui, lors du décès de leur mari, survenu antérieurement au 16 octobre 1949, remplissaient les conditions exigées ci-dessus, bénéficieront d'une allocation annuelle calculée à raison de 1,5 p. 100 [*pourcentage - montant*] du minimum vital par année de services effectifs accomplis par le mari, à l'exclusion de toute bonification.
+Les veuves non remariées qui, lors du décès de leur mari, survenu antérieurement au 16 octobre 1949, remplissaient les conditions exigées ci-dessus, bénéficieront d'une allocation annuelle calculée à raison de 1,5 % du minimum vital (1) par année de services effectifs accomplis par le mari, à l'exclusion de toute bonification (2).
 
 Toutefois, ce droit est subordonné à la condition qu'il n'existe ni femme divorcée ni orphelin légitime, naturel reconnu ou adoptif ayant droit à pension.
 
-Les veuves désignées au troisième alinéa ci-dessus, remariées et redevenues veuves, bénéficieront des dispositions prévues à cet alinéa en faveur des veuves non remariées si elles remplissent les conditions prévues à l'article 32-IV, deuxième et troisième alinéa.
+NOTA : (1) Au "minimum vital" est substitué, à compter du 1er janvier 1954, le traitement brut afférent à l'indice 100.
 
-II - Nonobstant la condition d'antériorité prévue à l'article 35, le droit à pension d'orphelin est reconnu aux enfants légitimes issus du mariage contracté dans les conditions visées au paragraphe I, quelles qu'en aient été la date et la durée.
+2) Le décret 200 du 3 Mars 1981 fixe le taux de l'allocation annuelle, à compter du 1er Juillet 1981 à 3,10 % du traitement brut afférent à l'indice 100 prévu par le décret n° 48-1108 du 10 Juillet 1948 et les textes subséquents par année de service effectif accompli par l'auteur du droit à pension.
+
+Ce taux est porté dans les mêmes conditions et limites à 3,60 % à compter du 1er Juillet 1982.
