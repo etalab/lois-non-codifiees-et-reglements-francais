@@ -308,6 +308,7 @@
 - [Arrêté du 9 novembre 1987 (ECOC8700118A)](arrete-du-9-novembre-1987-ecoc8700118a)
 - [Arrêté du 9 novembre 1992 (AGRE9202200A)](arrete-du-9-novembre-1992-agre9202200a)
 - [Arrêté du 9 novembre 1992 (AGRE9202203A)](arrete-du-9-novembre-1992-agre9202203a)
+- [Arrêté du 9 novembre 1992 (MENN9204002A)](arrete-du-9-novembre-1992-menn9204002a)
 - [Arrêté du 9 octobre 1992 (MENZ9203444A)](arrete-du-9-octobre-1992-menz9203444a)
 - [Arrêté du 9 septembre 1992 (ECOC9200124A)](arrete-du-9-septembre-1992-ecoc9200124a)
 - [Arrêté du 9 septembre 1992 (EQUP9201134A)](arrete-du-9-septembre-1992-equp9201134a)

@@ -534,6 +534,7 @@
 - [Décret n°92-1208 du 16 novembre 1992 (INTB9200485D)](decret-n92-1208-du-16-novembre-1992-intb9200485d)
 - [Décret n°92-1220 du 16 novembre 1992 (MAEJ9230066D)](decret-n92-1220-du-16-novembre-1992-maej9230066d)
 - [Décret n°92-1221 du 16 novembre 1992 (MAEJ9230065D)](decret-n92-1221-du-16-novembre-1992-maej9230065d)
+- [Décret n°92-1226 du 16 novembre 1992 (MENN9203584D)](decret-n92-1226-du-16-novembre-1992-menn9203584d)
 - [Décret n°92-240 du 16 mars 1992 (EQUC9200232D)](decret-n92-240-du-16-mars-1992-equc9200232d)
 - [Décret n°92-241 du 16 mars 1992 (MEND9103109D)](decret-n92-241-du-16-mars-1992-mend9103109d)
 - [Décret n°92-244 du 16 mars 1992 (FPPA9100075D)](decret-n92-244-du-16-mars-1992-fppa9100075d)
