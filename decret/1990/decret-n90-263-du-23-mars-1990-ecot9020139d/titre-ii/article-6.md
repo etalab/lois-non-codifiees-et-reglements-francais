@@ -1,3 +1,5 @@
 # Article 6
 
-Les recours prévus à l'article 12 de l'ordonnance du 28 septembre 1967 susvisée sont portés devant la cour d'appel de Paris. Par dérogation aux dispositions du titre VI du livre II du nouveau code de procédure civile, les recours sont formés, instruits et jugés conformément aux dispositions ci-après.
+Après avoir examiné le dossier, le rapporteur notifie, s'il y a lieu, les griefs à la personne mise en cause.
+
+Cette notification indique le délai, qui ne peut être inférieur à un mois, dont cette personne dispose pour présenter ses observations écrites. Elle est accompagnée du rapport d'enquête et d'un document rappelant les droits de la défense, et notamment la possibilité de se faire assister ou représenter par toute personne de son choix et de prendre connaissance et copie des pièces du dossier.

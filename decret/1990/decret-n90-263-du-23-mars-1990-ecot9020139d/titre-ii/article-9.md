@@ -1,3 +1,11 @@
 # Article 9
 
-Dès enregistrement du recours, le greffe de la cour d'appel transmet, par lettre recommandée avec demande d'avis de réception, une copie de la déclaration à la Commission des opérations de bourse. Une copie de la déclaration est remise par le greffe au parquet général.
+Lors de la séance de la commission, le rapporteur présente l'affaire.
+
+La personne mise en cause et, le cas échéant, son conseil présentent la défense, et, dans tous les cas, doivent pouvoir prendre la parole en dernier.
+
+La décision est prise en la seule présence du président, des membres autres que le rapporteur et du secrétaire de la commission.
+
+Lorsque la commission s'estime insuffisamment éclairée, elle demande au rapporteur de poursuivre ses diligences.
+
+La décision de la commission, signée par le président et le secrétaire, est notifiée à la personne mise en cause par lettre recommandée avec demande d'avis de réception.
