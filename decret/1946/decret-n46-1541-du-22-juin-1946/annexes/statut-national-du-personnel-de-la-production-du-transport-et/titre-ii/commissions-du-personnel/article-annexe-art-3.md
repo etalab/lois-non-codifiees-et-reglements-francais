@@ -8,55 +8,77 @@ Commission supérieure nationale.
 
 Compétence et composition.
 
-La commission supérieure nationale est compétente pour tous les services et les exploitations dont le personnel est soumis au présent statut.
+La commission supérieure nationale est compétente pour tous les services et les exploitations dont le personnel est soumis au présent statut ; elle comprend vingt-six membres, nommés par le ministre de l'industrie et du commerce.
 
 Sa composition est la suivante :
 
-a) Neuf membres représentant les services centraux et exploitations, à savoir :
+a) Treize membres représentant les directions des services et exploitations, savoir :
 
-Six, dont le président de la commission, désignés par le président-directeur général de l'électricité de France ou son délégué.
+Six membres désignés sur proposition du directeur général d'Electricité de France ;
 
-Trois représentants des conseils d'administration d'électricité et de gaz de France, désignés par chacune des catégories constitutives desdits conseils d'administrations.
+Trois membres désignés sur proposition du directeur général de Gaz de France ;
 
-b) Neuf membres délégués du personnel proposés par les organisations syndicales nationales les plus représentatives et nommés par le ministre chargé du gaz et de l'électricité, à savoir :
+Un membre désigné sur propositions communes des directeurs généraux d'Electricité de France et de Gaz de France ;
 
-Quatre représentants des cadres administratifs et techniques (échelles n° 11 à 20).
+Un membre désigné par le directeur général d'Electricité et Gaz d'Algérie ;
 
-Trois représentants des ouvriers (échelles n° 1 à 10).
+Deux membres représentant les directions des entreprises exclues de la nationalisation.
 
-Deux représentants des employés (échelles n° 1 à 10).
+b) Treize membres délégués du personnel et proposés par les organisations syndicales nationales les plus représentatives, à savoir :
 
-Les membres suppléants en nombre correspondant et pour les mêmes catégories seront également désignés dans des conditions identiques.
+Six représentants des cadres administratifs et techniques (échelles 11 à 20) dont :
+
+Trois représentants des agents de maîtrise ;
+
+Trois représentants des ingénieurs et assimilés ;
+
+Sept représentants des ouvriers et employés (échelles 1 à 10),
+
+ces représentants étant choisis parmi le personnel qui appartient à ces catégories ou qui, encore en activité, y a appartenu.
+
+Parmi ces délégués, devront figurer au moins deux membres du personnel des entreprises exclues de la nationalisation et un membre du personnel d'Electricité et Gaz d'Algérie.
+
+Le président et le président suppléant sont désignés chaque année par le ministre de l'industrie et du commerce, parmi les membres de la catégorie a.
+
+Il sera désigné, dans les mêmes conditions que ci-dessus, un membre suppléant pour chaque membre titulaire des catégories a et b.
 
 Règles de fonctionnement.
 
-Le mandat des membres titulaires et suppléants et valable pour quatre années et renouvelable.
+Le mandat des membres titulaires et suppléants est valable pour deux années et renouvelable.
 
-La commission se réunit chaque fois qu'il est nécessaire.
-
-Elle siège à la présidence du gaz et électricité de France.
-
-Les décisions sont prises à la majorité des voix. En cas de partage des voix, celle du président est prépondérante.
+Les délibérations sont prises à la majorité des voix. En cas de partage égal des voix, celle du président est prépondérante.
 
 Les agents appelés à siéger à la commission supérieure nationale sont considérés comme en service.
 
-Les frais résultant pour les intéressés de leur participation à ladite commission seront remboursés.
+Les frais résultant pour les intéressés de leur participation à ladite commission sont remboursés.
 
-La commission fixera elle-même son règlement intérieur.
+La commission fixe elle-même son règlement intérieur et en particulier la périodicité de ses réunions.
 
 Attributions de la commission supérieure nationale du personnel.
 
-1° Elle fixe les conditions minima et les règles générales de recrutement ainsi que les règles générales de classification d'avancement et de discipline relatives à tout le personnel compris dans les échelles définies à l'article 8 du présent statut.
+La commission supérieure nationale du personnel :
 
-2° Elle règle pour tous les services et les exploitations les conditions particulières d'admission et d'avancement dans les emplois, fonctions ou postes correspondant aux échelles n° 11 à 20, objets qui relèvent exclusivement de la compétence.
+1° Veille à l'application du statut ;
 
-3° Elle fixe suivant les besoins de main-d'oeuvre des exploitations et les demandes d'emploi du moment, les conditions générales d'admission aux emplois, fonctions ou postes relevant des échelles n° 1 à 10 inclus, que devront appliquer les commissions secondaires, compétentes seulement pour les échelles n° 1 à 10 inclus.
+2° Examine les conditions minima et les règles générales de recrutement, ainsi que les règles générales de classification, d'avancement et de discipline relatives à tout le personnel compris dans les échelles définies à l'article 8 du présent statut ;
 
-4° Elle étudie les problèmes intéressant l'ensemble du personnel qui lui sont soumis et, en particulier, les questions d'apprentissage, d'éducation et de perfectionnement professionnels.
+3° Etudie les conditions particulières d'admission et d'avancement dans les emplois, fonctions ou postes correspondant aux échelles 15 à 20 (cadres) pour tous les services et exploitations ;
 
-5° Elle participe à l'application des dispositions du présent statut sur la sécurité sociale (prestations : maladies, blessures, maternité, invalidité, vieillesse, Décès).
+4° Etudie, compte tenu des besoins de main-d'oeuvre des exploitations et des demandes d'emploi du moment, les conditions générales d'admission et d'avancement dans les emplois, fonctions ou postes relevant des échelles 1 à 15 (ouvriers, employés, agents de maîtrise) que devront appliquer les commissions secondaires ;
 
-6° Elle constitue l'instance d'appel des décisions des commissions secondaires dont la compétence, la composition et le rôle sont ci-dessous définies.
+5° Formule un avis sur les demandes de changement d'affectation ou de classification pour raisons physiques ou professionnelles pour les échelles 15 à 20 (cadres) ;
+
+6° Emet des propositions de sanction disciplinaire pour les agents des échelles 15 à 20 (cadres) dans les conditions prévues à l'article 6 du présent statut ;
+
+7° Etudie les problèmes intéressant l'ensemble du personnel qui lui sont soumis et, en particulier, les questions d'apprentissage, d'éducation et de perfectionnement professionnels ;
+
+8° Participe à l'application des dispositions du présent statut sur la sécurité sociale ;
+
+9° Etudie les requêtes individuelles qui lui seraient transmises après examen par les commissions secondaires, ces requêtes n'étant pas suspensives des décisions prises par les directions des exploitations ou services intéressés.
+
+En outre, la commission supérieure nationale exerce l'ensemble des autres attributions qui lui sont conférées par le présent statut, sous réserve des dispositions de l'alinéa suivant.
+
+En tout état de cause, les délibérations de la commission supérieure nationale sont soumises pour décision aux autorités compétentes (ministres, conseils d'administration, directeurs généraux, etc.).
 
 Paragraphe 2.
 
@@ -64,38 +86,62 @@ Commissions secondaires du personnel.
 
 Constitution et fonctionnement.
 
-Les commissions secondaires sont créées dans chaque service ou exploitation à raison d'une par service ou par exploitation.
+Les commissions secondaires sont créées dans chaque exploitation ou service en principe à raison d'une commission par unité particulière d'exploitation ou de service.
 
-Leur composition est paritaire ; elles seront présidées par le directeur régional ou le directeur de l'établissement local, s'il s'agit des exploitations, ou le secrétaire général du service national, s'il s'agit de services, ou par leurs délégués.
+Cependant, une commission unique peut être créée pour plusieurs unités particulières d'exploitation ou de service lorsque le nombre des agents intéressés ne dépasse pas 2000.
 
-Elles comprennent, en outre :
+Leur composition est paritaire ; elles sont présidées par le chef responsable de l'unité particulière d'exploitation correspondante, ou par les directeurs généraux des services nationaux, s'il s'agit des services, ou par leurs représentants.
 
-Quatre membres désignés par ces directeurs ou le secrétaire général en ce qui concerne le service national, et par le conseil d'administration des établissements publics locaux en ce qui les concerne.
+Elles comprennent en outre :
 
-Cinq délégués du personnel du secteur considéré, proposés par les organisations syndicales les plus représentatives et nommés par la commission supérieure nationale, à savoir :
+Cinq membres représentant les directions des exploitations ou services, désignés par ces directions ;
 
-Deux représentants des cadres administratifs et techniques (échelles n° 11 à 20) ;
+Six délégués du personnel des exploitations ou des services considérés proposés par les organisations syndicales les plus représentatives et désignés par la commission supérieure nationale, savoir :
 
-Deux représentants des ouvriers (échelles n° 1 à 10) ;
+Trois représentants des agents des cadres et de la maîtrise des échelles 11 à 20 ;
 
-Un représentant des employés (échelles n° 1 à 10).
+Trois représentants des ouvriers et employés des échelles 1 à 10, ces représentants étant choisis parmi le personnel qui appartient aux catégories susvisées ou qui, encore en activité, y a appartenu.
 
-En cas de partage des voix, celle du président est prépondérante.
+Il sera désigné dans les mêmes conditions que ci-dessus un membre suppléant pour chaque membre titulaire.
 
-Les règles de fonctionnement de ces commissions secondaires seront fixées par la commission supérieure nationale.
+Les avis de la commission sont émis à la majorité des voix.
 
-Attributions.
+En cas de partage égal des voix, celle du président est prépondérante.
 
-Les commissions secondaires ont pour tâche, en application des directives fixées par la commission supérieure nationale :
+La liste des commissions secondaires et leurs règles de fonctionnement sont proposés par la commission supérieure nationale.
 
-1° D'examiner les conditions d'aptitude des postulants aux emplois, fonctions ou postes relevant des échelles n° 1 à 10 inclus ;
+Attributions des commissions secondaires.
 
-2° D'émettre un avis sur les propositions d'avancement pour les échelles n° 1 à 10 ;
+Les commissions secondaires :
 
-3° De formuler auprès de la commission supérieure nationale un avis motivé sur les demandes d'admission et sur les inscriptions au tableau d'avancement pour les échelles n° 11 à 20.
+1° Emettent des suggestions sur toutes les questions intéressant le personnel des industries électriques et gazières. Lorsque ces suggestions ont une portée générale, elles sont obligatoirement transmises à la commission supérieure nationale par le truchement de la direction du service ou de l'exploitation intéressée ;
 
-4° De formuler un avis sur les demandes de changement d'affectation ou de classification pour raisons physiques ou professionnelles ;
+2° Examinent les conditions d'aptitude des postulants aux emplois, fonctions ou postes relevant des échelles 1 à 15 (ouvriers, employés, agents de maîtrise) ;
 
-5° De prononcer des propositions de sanctions disciplinaires conformément aux dispositions fixées par le présent statut ;
+3° Emettent un avis sur les propositions d'avancement pour les échelles 1 à 15 (ouvriers, employés, agents de maîtrise) ;
 
-6° D'examiner toutes les réclamations individuelles qui pourraient lui être soumises par les organisations syndicales les plus représentatives.
+4° Formulent un avis sur les demandes de changement d'affectation ou de classification pour raisons physiques ou professionnelles pour les échelles 1 à 15 (ouvriers, employés, agents de maîtrise) ;
+
+5° Emettent des propositions de sanction disciplinaire pour les agents des échelles 1 à 15 (ouvriers, employés, agents de maîtrise) dans les conditions prévues à l'article 6 du présent statut ;
+
+6° Examinent toutes les requêtes individuelles qui peuvent leur être soumises soit par les intéressés eux-mêmes, soit par les représentants locaux des organisations syndicales les plus représentatives ; elles émettent un avis sur la suite à donner à ces requêtes.
+
+Dans le cas où la direction décide de ne pas donner satisfaction à la requête présentée, l'auteur de celle-ci peut demander que sa requête soit soumise à la commission supérieure nationale, par le truchement de la direction du service ou de l'exploitation intéressée ;
+
+7° Exercent l'ensemble des autres attributions qui leur sont conférées par le présent statut.
+
+Paragraphe 3.
+
+Modalités d'intervention de la commission supérieure nationale et des commissions secondaires en matière d'avancement et de discipline.
+
+La commission supérieure nationale est seule compétente pour les agents des cadres des échelles 15 à 20.
+
+Les commissions secondaires sont compétentes pour les agents des échelles 1 à 15 (employés, ouvriers et agents de maîtrise).
+
+Lorsque la commission supérieure nationale ou les commissions secondaires siègent en matière d'avancement ou de discipline, seuls peuvent siéger des représentants du personnel appartenant à une échelle égale ou supérieure à celle de l'agent appelé à comparaître ; la composition de la commission est alors modifiée en conséquence, la représentation paritaire étant maintenue en toute hypothèse.
+
+Toutefois, lorsque l'application de cette règle aurait pour conséquence de réduire la représentation du personnel à moins de deux représentants, il est fait appel à des suppléants remplissant les conditions hiérarchiques nécessaires, afin que le nombre des membres délibérant, représentant le personnel, soit au moins de deux.
+
+Pour l'application de ces règles, il est dressé pour la commission supérieure nationale, et par ses soins, une liste de suppléants de différentes échelles comprenant, outre les suppléants visés au paragraphe I ci-dessus, les suppléants spéciaux compétents uniquement en matière d'avancement ou de discipline. Cette liste est soumise à l'approbation du ministre de l'industrie et du commerce.
+
+De même, il est dressé pour chacune des commissions secondaires, et par ses soins, une liste semblable qui est soumise à l'approbation de la commission supérieure nationale.
