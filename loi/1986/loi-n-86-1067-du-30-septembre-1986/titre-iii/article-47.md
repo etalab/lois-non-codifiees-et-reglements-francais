@@ -12,9 +12,13 @@ Le conseil d'administration de chacune de ces sociétés comprend douze membres,
 
 4° Deux représentants du personnel élus.
 
-Les présidents des sociétés visées aux 1°, 2°, 3° et 4° de l'article 44 sont nommés par le Conseil supérieur de l'audiovisuel parmi les personnalités qu'elle a désignées. Le président de la société mentionnée au 5° de l'article 44 est nommé par le Conseil supérieur de l'audiovisuel parmi les représentants de l'Etat.
+Les sociétés mentionnées aux 2° et 3° de l'article 44 ont un président commun. Le Conseil supérieur de l'audiovisuel nomme, au titre des personnalités qualifiées mentionnées au 3° ci-dessus, un administrateur commun à ces deux sociétés pour remplir les fonctions de président.
 
-Par dérogation à l'article 4, ils sont nommés à la majorité des membres du Conseil supérieur de l'audiovisuel.
+Les présidents des sociétés mentionnées aux 1° et 4° de l'article 44 sont nommés par le Conseil supérieur de l'audiovisuel parmi les personnalités qu'il a désignées.
+
+Le président de la société mentionnée au 5° de l'article 44 est nommé par le Conseil supérieur de l'audiovisuel parmi les représentants de l'Etat.
+
+Par dérogation aux dispositions de l'article 4, les présidents des sociétés mentionnées aux 1° à 5° de l'article 44 sont nommés à la majorité des membres du Conseil supérieur de l'audiovisuel.
 
 Leur mandat peut leur être retiré dans les mêmes conditions.
 

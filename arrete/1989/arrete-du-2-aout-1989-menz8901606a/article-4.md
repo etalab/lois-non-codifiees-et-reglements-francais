@@ -1,0 +1,3 @@
+# Article 4
+
+Les études en vue de ce diplôme ont une durée de quatre années. Elles comportent des enseignements théoriques, dirigés, pratiques et cliniques. Les stages sont effectués dans les services de consultations et de traitements dentaires et autres services, notamment de stomatologie, des centres hospitaliers régionaux faisant partie des centres hospitaliers universitaires. Ils peuvent également se dérouler dans les services des centres hospitaliers généraux qui ont passé à cet effet convention avec les centres hospitaliers régionaux faisant partie des centres hospitaliers universitaires.

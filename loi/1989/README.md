@@ -51,6 +51,8 @@
 - [Loi n° 89-473 du 10 juillet 1989 (JUSX8900063L)](loi-n-89-473-du-10-juillet-1989-jusx8900063l)
 - [Loi n° 89-474 du 10 juillet 1989 (SPSX8900059L)](loi-n-89-474-du-10-juillet-1989-spsx8900059l)
 - [Loi n° 89-488 du 10 juillet 1989 (TEFX8900058L)](loi-n-89-488-du-10-juillet-1989-tefx8900058l)
+- [Loi n° 89-531 du 2 août 1989 (ECOX8900024L)](loi-n-89-531-du-2-aout-1989-ecox8900024l)
+- [Loi n° 89-532 du 2 août 1989 (NCCX8900064L)](loi-n-89-532-du-2-aout-1989-nccx8900064l)
 - [Loi n°73-6 du 3 janvier 1973](loi-n73-6-du-3-janvier-1973)
 - [Loi n°86-14 du 6 janvier 1986](loi-n86-14-du-6-janvier-1986)
 - [Loi n°89-377 du 13 juin 1989 (JUSX8800150L)](loi-n89-377-du-13-juin-1989-jusx8800150l)
