@@ -12,6 +12,8 @@ A ce titre, elle est notamment chargée :
 
 - de promouvoir l'image des armées, de la délégation générale pour l'armement, de la gendarmerie nationale et des directions et services du ministère de la défense et de leurs agents auprès des différents publics ;
 
+- d'assurer la communication relative aux anciens combattants et victimes de guerre ;
+
 - d'animer et de coordonner, notamment en matière de recrutement et de reconversion, l'information et la communication conduites par les organismes du ministère de la défense qui l'informent de leurs activités ;
 
 - de représenter le ministère de la défense auprès des médias nationaux et internationaux ;
