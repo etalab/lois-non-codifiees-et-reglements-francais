@@ -4,5 +4,5 @@
 - [Section 2 : Conditions de l'agrément permettant d'effectuer des missions judiciaires d'identification des personnes par leurs empreintes génétiques.](section-2)
 - [Section 3 : Procédure de délivrance de l'agrément.](section-3)
 - [Section 4 : Procédure de retrait de l'agrément.](section-4)
-- [Section 5 : Dispositions transitoires.](section-5)
+- [Section 5 : Agrément des personnes susceptibles d'être requises aux fins de procéder à une analyse d'identification par empreintes génétiques](section-5)
 - [Article 16](article-16.md)

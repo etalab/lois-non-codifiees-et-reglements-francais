@@ -1,0 +1,7 @@
+# Article 13
+
+Les résultats des analyses d'identification par empreintes génétiques mentionnés aux 1° et 2° du I et au II de l'article R. 53-10 du code de procédure pénale dans la rédaction qui résulte du présent décret, obtenus avant l'entrée en vigueur de celui-ci dans le cadre de procédures judiciaires suivies pour des infractions énumérées par l'article 706-55 du code de procédure pénale ou pour des infractions prévues par les articles 79 à 99, 132, 133, 139 (alinéa 2), 295 à 297, 299, 301 à 308-1, 309 à 312, 316, 318, 330 à 335, 335-6, 341 à 344, 379, 381, 382, 400 (alinéas 1 et 2), 405 (alinéa 2), 434 à 439, 460 à 461-1, 462 et 462-1 du code pénal et par les articles L. 627 et L. 627-2 du code de la santé publique dans leur rédaction applicable avant le 1er mars 1994, peuvent être enregistrés dans le fichier national automatisé des empreintes génétiques.
+
+Les résultats des analyses d'identification par empreintes génétiques mentionnés aux 3°, 4° et 5° du I de l'article R. 53-10 du code de procédure pénale et réalisées avant l'entrée en vigueur du présent décret peuvent également être enregistrés dans ce fichier.
+
+Les résultats mentionnés aux alinéas précédents sont enregistrés, selon les distinctions et conditions prévues par l'article R. 53-10, sur décision de l'officier de police judiciaire, agissant soit d'office, soit à la demande du procureur de la République ou du juge d'instruction, ou sur décision du procureur de la République ou du procureur général.
