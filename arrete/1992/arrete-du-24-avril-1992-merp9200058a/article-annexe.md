@@ -46,7 +46,8 @@
 </td>
 <td>Caen (calvados)</td>
 <td>
-<p align="center">25</p>
+<p align="center">29</p>
+<br/>
 </td>
 </tr>
 <tr>
