@@ -86,17 +86,17 @@ NOM DE LA SOCIETE
 
 Société des autoroutes Estérel-Côte d'Azur
 
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
+NOMBRE de représentants de l'Etat au conseil d'administration :
 
-4
+A l'issue de l'assemblée générale du 12 mars 2002 de la Société des autoroutes Estérel-C<CB>te d'Azur, le nombre de représentants de l'Etat au conseil d'administration est fixé à trois.
 
 REPARTITION PAR MINISTERE
 
-Collectivités territoriales.
+- un représentant du ministre chargé de l'équipement ;
 
-Economie.
+- un représentant du ministre chargé de l'économie ;
 
-Transports (x 2).
+- un représentant du ministre chargé des collectivités locales.
 
 NOM DE LA SOCIETE
 
