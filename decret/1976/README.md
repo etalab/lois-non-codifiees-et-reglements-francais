@@ -73,6 +73,8 @@
 - [Décret n°76-974 du 28 octobre 1976](decret-n76-974-du-28-octobre-1976)
 - [Décret n°76-488 du 28 mai 1976](decret-n76-488-du-28-mai-1976)
 - [Décret n°76-492 du 28 mai 1976](decret-n76-492-du-28-mai-1976)
+- [Décret n°76-1085 du 29 novembre 1976](decret-n76-1085-du-29-novembre-1976)
+- [Décret n°76-1086 du 29 novembre 1976](decret-n76-1086-du-29-novembre-1976)
 - [Décret n°76-1110 du 29 novembre 1976](decret-n76-1110-du-29-novembre-1976)
 - [Décret n°76-383 du 29 avril 1976](decret-n76-383-du-29-avril-1976)
 - [Décret du 30 mars 1976](decret-du-30-mars-1976)

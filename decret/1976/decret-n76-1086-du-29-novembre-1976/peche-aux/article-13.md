@@ -1,0 +1,3 @@
+# Article 13
+
+Dans les parties de cours d'eau affluant à la mer situées en amont du point de cessation de salure des eaux et qui se trouvaient comprises dans les limites de l'inscription maritime antérieurement aux décrets des 8 novembre et 28 décembre 1926, parties où les inscrits maritimes ont des droits de pêche, il n'est pas procédé à l'adjudication du droit de pêche aux engins et aux filets ou à des locations de ce droit ; des licences individuelles et nominatives de pêche aux engins et aux filets peuvent, à titre onéreux, y être délivrées à d'autres qu'aux inscrits maritimes, des licences de certaines catégories peuvent y être réservées aux pêcheurs professionnels.

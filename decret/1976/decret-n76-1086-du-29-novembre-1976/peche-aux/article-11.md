@@ -1,0 +1,3 @@
+# Article 11
+
+Le droit de pêche aux engins et aux filets est attribué, sans adjudication préalable dans les lacs du Bourget, d'Annecy, de Nantua, de Saint-Point, de Sylans, dans les eaux françaises du lac Léman et dans les autres lacs du domaine public fluvial. Le droit de pêche est loué aux syndicats professionnels de pêcheurs aux engins et aux filets ; ces syndicats délivrent des permissions à leurs membres ; le droit de pêche peut également faire l'objet de licences individuelles et nominatives délivrées, à titre onéreux, aux membres de tels syndicats ou à d'autres pêcheurs. Des licences de certaines catégories peuvent être réservées aux pêcheurs professionnels.

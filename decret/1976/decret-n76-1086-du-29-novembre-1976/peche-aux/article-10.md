@@ -1,0 +1,3 @@
+# Article 10
+
+Le ministre chargé de la pêche fluviale fixe la liste des cantonnements où l'emploi des engins et des filets est jugé nécessaire à une exploitation rationnelle des ressources piscicoles. Le droit de pêche dans ces cantonnements est mis en adjudication. Seuls peuvent participer à l'adjudication les pêcheurs professionnels. La désignation d'un fermier ne met pas d'obstacle à l'octroi par le service gestionnaire à titre onéreux, dans l'intérêt d'une bonne exploitation des ressources piscicoles, de licences individuelles et nominatives de grande ou de petite pêche permettant [*autorisation*] l'emploi d'engins et de filets. Ces licences ne peuvent toutefois être alors délivrées qu'après consultation du fermier.
