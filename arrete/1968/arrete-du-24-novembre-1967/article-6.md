@@ -59,3 +59,7 @@ Balise J 12
 Dispositif de renforcement d'un marquage permanent en divergent.
 
 La balise J 12 est de couleur verte.
+
+Balise J 13. Balise de signalisation d'obstacle.
+
+La balise J 13 comporte des bandes obliques alternativement bleues et blanches.

@@ -1,135 +1,147 @@
 # Article 7
 
-Feux de circulation permanents :
+Feux de circulation permanents
 
-" Les feux lumineux réglementant la circulation des véhicules ou la traversée des piétons sont verts, jaunes ou rouges, le jaune et le rouge pouvant être clignotants ;
+Les feux lumineux réglementant la circulation des véhicules ou la traversée des piétons sont verts, jaunes ou rouges, le jaune et le rouge pouvant être clignotants ; ils sont blancs lorsqu'ils ne concernent que les tramways.
 
-" Ils peuvent être groupés en ensembles de feux tricolores ou bicolores ;
+Ils peuvent être groupés en ensembles de feux tricolores ou bicolores ou unicolores.
 
-" Les feux destinés aux véhicules sont généralement circulaires. Ils peuvent comporter un pictogramme qui précise à quels véhicules ils s'adressent ;
+Les feux destinés aux véhicules sont généralement circulaires. Ils peuvent comporter un pictogramme qui précise à quels véhicules ils s'adressent, ou des signes spécifiques pour les feux destinés aux tramways.
 
-" Les feux destinés aux piétons sont verts et rouges. Ils comportent un pictogramme.
+Les feux destinés aux piétons sont verts et rouges. Ils comportent un pictogramme.
 
-" Signification générale des couleurs :
+1. Signification générale des couleurs :
 
-" Un feu vert fixe signifie autorisation de passer la ligne d'effet du signal (1). Toutefois, un feu vert destiné à régler la circulation à une intersection ne donne pas aux conducteurs l'autorisation de passer si, dans la direction qu'ils vont emprunter, l'encombrement de la circulation est tel qu'ils ne sont pas certains de dégager l'intersection avant le changement de phase ;
+Un feu vert fixe signifie autorisation de passer la ligne d'effet du signalLe mot signal désigne le message transmis et souvent, par extension, le feu ou l'ensemble de feux qui le fournit.
 
-" Si un piéton s'engage sur la chaussée lorsque le signal qui lui est destiné est vert, il est assuré de disposer d'un temps suffisant pour achever sa traversée ou atteindre un refuge, à une vitesse normale, avant l'arrivée de véhicules en conflit direct avec lui ;
+Toutefois, un feu vert destiné à régler la circulation à une intersection ne donne pas aux conducteurs l'autorisation de passer si, dans la direction qu'ils vont emprunter, l'encombrement de la circulation est tel qu'ils ne sont pas certains de dégager l'intersection avant le changement de phase ;
 
-" Un feu jaune fixe signifie aux conducteurs de véhicules interdiction de franchir la ligne d'effet du signal. Cette interdiction ne joue pas dans le cas où, à l'allumage du feu jaune, le conducteur ne peut plus arrêter son véhicule dans des conditions de sécurité suffisante avant la ligne d'effet du signal ;
+Si un piéton s'engage sur la chaussée lorsque le signal qui lui est destiné est vert, il est assuré de disposer d'un temps suffisant pour achever sa traversée ou atteindre un refuge, à une vitesse normale, avant l'arrivée de véhicules en conflit direct avec lui ;
 
-" Un feu jaune clignotant a pour objet d'attirer l'attention des conducteurs sur un danger particulier. Il autorise le franchissement de la ligne d'effet du signal mais avec une prudence renforcée ;
+Un feu jaune fixe signifie aux conducteurs de véhicules interdiction de franchir la ligne d'effet du signal. Cette interdiction ne joue pas dans le cas où, à l'allumage du feu jaune, le conducteur ne peut plus arrêter son véhicule dans des conditions de sécurité suffisante avant la ligne d'effet du signal ;
 
-" Un feu rouge, fixe ou clignotant, signifie aux véhicules interdiction de passer la ligne d'effet. Pour les piétons, le feu rouge fixe qui lui est destiné signifie interdiction de s'engager sur la chaussée ou obligation de la dégager au plus vite.
+Un feu jaune clignotant a pour objet d'attirer l'attention des conducteurs sur un danger particulier. Il autorise le franchissement de la ligne d'effet du signal mais avec une prudence renforcée ;
 
-"   Ligne d'effet des signaux :
+Un feu rouge, fixe ou clignotant, signifie aux véhicules interdiction de passer la ligne d'effet. Pour les piétons, le feu rouge fixe qui lui est destiné signifie interdiction de s'engager sur la chaussée ou obligation de la dégager au plus vite. Un feu blanc ne concerne que les tramways.
 
-" Lorsqu'elle n'est pas matérialisée sur la chaussée, la ligne d'effet des signaux destinés aux véhicules se situe avant le passage pour piétons s'il précède les feux et, dans les autres cas, dans un plan perpendiculaire à l'axe de la voie et passant par les feux.
+2. Signification des signes spécifiques aux feux de tramways :
 
-" La ligne d'effet des signaux destinés aux piétons se situe à la limite de la chaussée à traverser et du trottoir sur lequel ils attendent.
+La barre verticale, le disque fixe, le disque clignotant, la barre horizontale ont respectivement la même signification et le même effet pour les tramways que le feu vert, le feu jaune fixe, le feu jaune clignotant, le feu rouge fixe.
 
-" A. - Signaux lumineux d'intersection :
+3. Ligne d'effet des signaux :
 
-" Les signaux lumineux d'intersection sont destinés à séparer dans le temps les principaux mouvements de véhicules et de piétons en conflit dans une intersection. Leur usage peut être étendu à la protection de traversées pour piétons en pleine voie ou à la gestion d'alternats pour le franchissement de sections de routes étroites ;
+Lorsqu'elle n'est pas matérialisée sur la chaussée, la ligne d'effet des signaux destinés aux véhicules se situe avant le passage pour piétons s'il précède les feux et, dans les autres cas, dans un plan perpendiculaire à l'axe de la voie et passant par les feux ;
 
-" Ils se composent de trois feux respectivement vert, jaune et rouge dans cet ordre de bas en haut, ou exceptionnellement de droite à gauche. Ils s'allument de façon cyclique dans l'ordre vert-jaune-rouge-vert, etc. sans clignoter. Ils sont destinés à tous les véhicules qui se présentent sur la chaussée, ou à une partie d'entre eux lorsqu'ils comportent un pictogramme ;
+La ligne d'effet des signaux destinés aux piétons se situe à la limite de la chaussée à traverser et du trottoir sur lequel ils attendent.
 
-" On utilise également des signaux bicolores destinés aux piétons et, dans certains cas, des signaux unicolores jaunes clignotants, dits d'anticipation.
+A. - Signaux lumineux d'intersection
 
-" a) Signaux tricolores circulaires (R11) :
+Les signaux lumineux d'intersection sont destinés à séparer dans le temps les principaux mouvements de véhicules et de piétons en conflit dans une intersection. Leur usage peut être étendu à la protection de traversées pour piétons en pleine voie ou à la gestion d'alternats pour le franchissement de sections de routes étroites.
 
-" Ils sont composés par des ensembles de trois feux circulaires. Exceptionnellement, le feu du bas peut être jaune clignotant. Ils s'adressent à la totalité des usagers qui circulent sur le couloir de circulation (ensemble des voies parallèles et de même sens non séparées par un terre-plein), à l'exception des usagers concernés par un éventuel signal modal ;
+Ils se composent de trois feux respectivement vert, jaune et rouge dans cet ordre de bas en haut, ou exceptionnellement de droite à gauche. Ils s'allument de façon cyclique dans l'ordre vert-jaune-rouge-vert, etc. sans clignoter. Ils sont destinés à tous les véhicules qui se présentent sur la chaussée, ou à une partie d'entre eux lorsqu'ils comportent un pictogramme.
 
-" Certains signaux tricolores circulaires sont munis, sur leur face arrière, d'une répétition en forme de croix grecque de leur seul feu rouge, qui permet aux usagers qui ne sont pas directement concernés par ce signal d'en connaître l'état.
+Les signaux destinés aux tramways se composent de trois feux blancs, présentant de bas en haut une barre verticale, un disque et une barre horizontale. Ils s'allument de façon cyclique comme les feux tricolores.
 
-" b) Signaux bicolores destinés aux piétons (R12) :
+On utilise également des signaux bicolores destinés aux piétons et, dans certains cas, des signaux unicolores jaunes clignotants, dits d'anticipation.
 
-" Ils se composent de deux feux rectangulaires généralement disposés côte à côte : celui de droite, de couleur verte, porte une silhouette de piéton en mouvement, celui de gauche, de couleur rouge porte une silhouette de piéton immobile. Ils peuvent aussi être disposés l'un au-dessous de l'autre, le vert en bas. Leur existence est liée à la présence de signaux lumineux tricolores.
+a) Signaux tricolores circulaires (R 11) :
 
-" c) Signaux tricolores modaux (R13) :
+Ils sont composés par des ensembles de trois feux circulaires. Exceptionnellement, le feu du bas peut être jaune clignotant. Ils s'adressent à la totalité des usagers qui circulent sur le couloir de circulation (ensemble des voies parallèles et de même sens non séparées par un terre-plein), à l'exception des usagers concernés par un éventuel signal modal ;
 
-" Ils se composent de trois feux munis de pictogrammes identiques : cycle (R13c), ou bus (R13b), ou tram (R13t).
+Certains signaux tricolores circulaires sont munis, sur leur face arrière, d'une répétition en forme de croix grecque de leur seul feu rouge, qui permet aux usagers qui ne sont pas directement concernés par ce signal d'en connaître l'état.
 
-" Ils s'adressent aux catégories d'usagers spécifiquement désignés par le pictogramme :
+b) Signaux bicolores destinés aux piétons (R 12) :
 
-" R13c : cyclistes ;
+Ils se composent de deux feux rectangulaires généralement disposés côte à côte : celui de droite, de couleur verte, porte une silhouette de piéton en mouvement, celui de gauche, de couleur rouge porte une silhouette de piéton immobile. Ils peuvent aussi être disposés l'un au-dessous de l'autre, le vert en bas. Leur existence est liée à la présence de signaux lumineux tricolores.
 
-" R13b : services réguliers de transport en commun dûment habilités à emprunter les voies réservées à leur intention ;
+c) Signaux tricolores modaux (R 13) :
 
-" R13t : tramways ;
+Ils se composent de trois feux munis de pictogrammes identiques :
 
-" Le feu du bas peut être jaune clignotant ;
+cycle (R 13 c), ou bus (R 13 b).
 
-" Lorsqu'un ensemble tricolore modal R13 est juxtaposé à un ensemble tricolore circulaire R11, les usagers auxquels le signal R13 s'adresse doivent se conformer aux indications qu'il donne.
+Ils s'adressent aux catégories d'usagers spécifiquement désignés par le pictogramme :
 
-" d) Signaux tricolores directionnels (R14) :
+R 13 c : cyclistes ;
 
-" Ils se composent de trois feux munis de pictogrammes identiques en forme d'une ou deux flèches. Ils s'adressent à tous les véhicules qui ont pour destination la direction indiquée par la flèche (ou l'une des directions indiquées) ;
+R 13 b : services réguliers de transport en commun dûment habilités à emprunter les voies réservées à leur intention ;
 
-" La flèche correspondant à l'autorisation ou à l'interdiction d'aller tout droit est orientée vers le haut ;
+Le feu du bas peut être jaune clignotant ;
 
-" Les indications données ne concernent que les conducteurs qui occupent, sur la chaussée, la ou les voies correspondantes, matérialisées dans ce but.
+Lorsqu'un ensemble tricolore modal R 13 est juxtaposé à un ensemble tricolore circulaire R 11, les usagers auxquels le signal R 13 s'adresse doivent se conformer aux indications qu'il donne.
 
-" e) Signaux d'anticipation modaux (R15) :
+d) Signaux tricolores directionnels (R 14) :
 
-" Destinés aux mêmes catégories de véhicules que les signaux tricolores modaux R13, ils se composent d'un feu jaune clignotant muni d'un pictogramme : cycle (R15c), bus (R15b) ou tram (R15t) ;
+Ils se composent de trois feux munis de pictogrammes identiques en forme d'une ou deux flèches. Ils s'adressent à tous les véhicules qui ont pour destination la direction indiquée par la flèche (ou l'une des directions indiquées) ;
 
-" Ils sont toujours associés à un signal tricolore circulaire R11.
+La flèche correspondant à l'autorisation ou à l'interdiction d'aller tout droit est orientée vers le haut ;
 
-" f) Signaux d'anticipation directionnels(R16) :
+Les indications données ne concernent que les conducteurs qui occupent, sur la chaussée, la ou les voies correspondantes, matérialisées dans ce but.
 
-" Destinés aux mêmes catégories de véhicules que les signaux tricolores directionnels R14, ils se composent d'un feu jaune clignotant muni d'un pictogramme en forme d'une ou deux flèches ;
+e) Signaux modaux d'anticipation (R 15) :
 
-" Ils sont toujours associés à un signal tricolore circulaire R11 ;
+Destinés aux mêmes catégories de véhicules que les signaux tricolores modaux R. 13, ils se composent d'un feu jaune clignotant muni d'un pictogramme : cycle (R 15 c), bus (R 15 b) ;
 
-" Une flèche à droite (ou à gauche) désigne la première direction de sortie autorisée immédiatement à droite (ou à gauche).
+Ils sont toujours associés à un signal tricolore circulaire R 11.
 
-"g) Significations particulières du jaune clignotant :
+f) Signaux directionnels d'anticipation (R 16) :
 
-" Sur un signal d'anticipation (modal R15 ou directionnel R16), le feu jaune clignotant signifie aux usagers concernés qu'ils peuvent franchir la ligne d'effet du signal tricolore circulaire R11 associé, bien que celui-ci soit au rouge, mais en toute prudence et en cédant le passage à tous autres véhicules ou piétons ;
+Destinés aux mêmes catégories de véhicules que les signaux tricolores directionnels R 14, ils se composent d'un feu jaune clignotant muni d'un pictogramme en forme d'une ou deux flèches ;
 
-" Dans un ensemble de feux tricolore, un feu jaune clignotant signifie autorisation de passer avec prudence car d'autres usagers, avec lesquels un conflit inhabituel est possible, sont admis simultanément à franchir l'intersection :
+Ils sont toujours associés à un signal tricolore circulaire R 11 ;
 
-" - ce feu jaune clignotant est en bas (sur les feux circulaires ou modaux seulement) lorsque cette situation est permanente ; les feux s'allument alors de façon cyclique dans l'ordre : jaune clignotant, jaune fixe, rouge, jaune clignotant, etc.
+Une flèche à droite (ou à gauche) désigne la première direction de sortie autorisée immédiatement à droite (ou à gauche).
 
-" - ce feu jaune clignotant est au milieu lorsque l'ensemble de l'installation est en panne, en cours de mise en activité ou volontairement gérée avec ce seul message, pour une durée déterminée ou non ;
+g) Significations particulières du jaune clignotant :
 
-" Dans ces deux cas, en application de l'article R. 44 du code de la route, l'usager doit appliquer l'un des régimes de priorité suivants :
+Sur un signal d'anticipation (modal R 13 ou directionnel R 14), le feu jaune clignotant signifie aux usagers concernés qu'ils peuvent franchir la ligne d'effet du signal tricolore circulaire R 11 associé, bien que celui-ci soit au rouge, mais en toute prudence et en cédant le passage à tous autres véhicules ou piétons ;
 
-" Priorité à droite en l'absence de tout panneau de type AB (art. R. 25 du code de la route) ;
+Dans un ensemble de feux tricolore, un feu jaune clignotant signifie autorisation de passer avec prudence car d'autres usagers, avec lesquels un conflit inhabituel est possible, sont admis simultanément à franchir l'intersection :
 
-" Indications données par ces panneaux de type AB dans le cas contraire.
+- ce feu jaune clignotant est en bas (sur les feux circulaires ou modaux seulement) lorsque cette situation est permanente ; les feux s'allument alors de façon cyclique dans l'ordre : jaune clignotant, jaune fixe, rouge, jaune clignotant, etc. ;
 
-" B. - Autres signaux lumineux de circulation :
+- ce feu jaune clignotant est au milieu lorsque l'ensemble de l'installation est en panne, en cours de mise en activité ou volontairement géré avec ce seul message, pour une durée déterminée ou non ;
 
-" Les signaux visés ici ont une implantation fixe hors des intersections, et fonctionnent en permanence ou occasionnellement.
+Dans ces deux cas, en application de l'article R. 44 du code de la route, l'usager doit appliquer l'un des régimes de priorité suivants :
 
-" a) Signaux d'affectation de voies (R21) :
+- priorité à droite en l'absence de tout panneau de type AB (art. R. 25 du code de la route) et priorité aux tramways (art. R. 29 du code de la route) ;
 
-" Les feux R21 sont implantés au-dessus de chaque voie matérialisée sur la chaussée pour réglementer séparément la circulation de ces voies :
+- indications données par ces panneaux de type AB dans le cas contraire.
 
-" - un feu vert fixe en forme de flèche verticale vers le bas (R21b) signifie autorisation d'emprunter la voie située au-dessous ;
+h) Signaux pour tramways (R 17) :
 
-" - un feu jaune clignotant en forme de flèche oblique vers le bas (R21c) signifie obligation de se rabattre vers la voie adjacente indiquée par la flèche ;
+Ils se composent de trois feux blancs sur fond noir et comportent des signes de formes différentes. Ils s'adressent exclusivement aux tramways.
 
-" - un feu rouge fixe en forme de croix de Saint-André (R21a) signifie interdiction d'emprunter la voie située au-dessous.
+i) Signaux directionnels pour tramways (R. 18) :
 
-" b) Signaux de contrôle d'accès (R22, R23) :
+Ils se composent de trois feux blancs sur fond noir et comportent des signes de formes différentes. La barre verticale du feu du bas est inclinée à droite ou à gauche pour indiquer la direction autorisée. Ils s'adressent exclusivement aux tramways.
 
-" Les signaux de contrôle d'accès comprennent :
+B. - Autres signaux lumineux de circulation
 
-" - les signaux de contrôle de flot : R22, tricolores ;
+Les signaux visés ici ont une implantation fixe hors des intersections, et fonctionnent en permanence ou occasionnellement.
 
-" - les signaux de contrôle individuel : R23, bicolores ;
+a) Signaux d'affectation de voies (R 21) :
 
-" Le signal de contrôle de flot (R22) est fourni par un ensemble de trois feux circulaires vert-jaune-rouge, ou jaune clignotant-jaune-rouge, d'aspect identique au signal R11. Il permet de limiter le débit des véhicules en ne les admettant que par intermittence, par exemple pour accéder à une voie importante ;
+Les feux R 21 sont implantés au-dessus de chaque voie matérialisée sur la chaussée pour réglementer séparément la circulation de ces voies :
 
-" Le signal de contrôle individuel (R23) est fourni par deux feux circulaires vert-rouge ou jaune clignotant-rouge, dans cet ordre de bas en haut. Il permet un contrôle véhicule par véhicule, par exemple sur une voie de péage d'autoroute.
+- un feu vert fixe en forme de flèche verticale vers le bas (R 21 b) signifie autorisation d'emprunter la voie située au-dessous ;
 
-" c) Signaux d'arrêt (R24) :
+- un feu jaune clignotant en forme de flèche oblique vers le bas (R 21 c) signifie obligation de se rabattre vers la voie adjacente indiquée par la flèche ;
 
-" Un feu rouge clignotant (R24), ou un ensemble de deux feux rouges clignotant en alternance, imposent l'arrêt de tous les véhicules. Ils sont employés devant un passage à niveau, un pont mobile, avant une zone dangereuse telle qu'un couloir d'avalanches, ou pour laisser le passage aux véhicules de pompiers. "
+- un feu rouge fixe en forme de croix de Saint-André (R 21 a) signifie interdiction d'emprunter la voie située au-dessous.
 
-Nota :
+b) Signaux de contrôle d'accès (R 22, R 23) :
 
-(1) Le mot " signal " désigne le message transmis et souvent, par extension, le feu ou l'ensemble de feux qui le fournit.
+Les signaux de contrôle d'accès comprennent :
+
+- les signaux de contrôle de flot : R 22, tricolores ;
+
+- les signaux de contrôle individuel : R 23, bicolores.
+
+Le signal de contrôle de flot (R 22) est fourni par un ensemble de trois feux circulaires vert, jaune, rouge, ou jaune clignotant, jaune, rouge, d'aspect identique au signal R 11. Il permet de limiter le débit des véhicules en ne les admettant que par intermittence, par exemple pour accéder à une voie importante.
+
+Le signal de contrôle individuel (R 23) est fourni par deux feux circulaires vert, rouge ou jaune, clignotant rouge, dans cet ordre de bas en haut. Il permet un contrôle véhicule par véhicule, par exemple sur une voie de péage d'autoroute.
+
+c) Signaux d'arrêt (R 24) :
+
+Un feu rouge clignotant (R 24), ou un ensemble de deux feux rouges clignotant en alternance imposent l'arrêt de tous les véhicules. Ils sont employés devant un passage à niveau, une traversée de voie de tramway, un pont mobile, avant une zone dangereuse telle qu'un couloir d'avalanches, ou pour laisser le passage aux véhicules de pompiers.

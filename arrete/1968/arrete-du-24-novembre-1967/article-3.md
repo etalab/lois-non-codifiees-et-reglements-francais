@@ -14,7 +14,7 @@ Panneau A 1 d. - Succession de virages dont le premier est à gauche.
 
 Panneau A 2 a. - Cassis ou dos-d'âne.
 
-" Panneau A 2 b. - Ralentisseur de type dos-d'âne. "
+Panneau A 2 b. - Ralentisseur de type dos-d'âne. "
 
 Panneau A 3. - Chaussée rétrécie.
 
@@ -28,15 +28,17 @@ Panneau A 6. - Pont mobile.
 
 Panneau A 7 (1). - Passage à niveau muni de barrières à fonctionnement manuel lors du passage des trains.
 
-Panneau A 7 (1). - Complété par panonceau M 9 " Signal automatique " : passage à niveau muni de barrières ou demi-barrières à fonctionnement automatique lors du passage des trains.
+Panneau A 7 (1). - Complété par panonceau M 9 Signal automatique " : passage à niveau muni de barrières ou demi-barrières à fonctionnement automatique lors du passage des trains.
 
 Panneau A 8 (1). - (2) Passage à niveau sans barrière ni demi-barrière.
 
-Panneau A 8 complété par panonceau M 9 " Feux clignotants ". - Passage à niveau sans barrière ni demi-barrière muni d'une signalisation automatique sonore et lumineuse.
+Panneau A 8 complété par panonceau M 9 Feux clignotants ". - Passage à niveau sans barrière ni demi-barrière muni d'une signalisation automatique sonore et lumineuse.
 
 Panneau A 8 complété par panonceau    (1) Ces signaux sont complétés par des balises comportant des bandes rouges obliques sur fond blanc. La première balise comporte trois bandes et se confond avec le support du signal avancé. Les deux autres comportent deux bandes puis une bande et sont respectivement implantées au tiers de la distance séparant le signal avancé du passage à niveau. Dans le cas des passages à niveau avec voie ferrée électrifiée, le signal est complété par un panonceau M 9 b portant le symbole de l'électricité.
 
-M 5 " Stop " (1) (2). - Passage à niveau sans barrière ni demi-barrière muni en position d'un panneau " Stop A B 4 " imposant à l'usager de marquer un temps d'arrêt avant de franchir le passage à niveau.
+M 5 Stop " (1) (2). - Passage à niveau sans barrière ni demi-barrière muni en position d'un panneau Stop A B 4 " imposant à l'usager de marquer un temps d'arrêt avant de franchir le passage à niveau.
+
+Panneau A 9. Traversée de voies de tramways.
 
 Panneau A 13 a. - Endroit fréquenté par les enfants.
 
@@ -68,11 +70,11 @@ Panneau A 23. - Traversée d'une aire de danger aérien.
 
 Panneau A 24. - Vent latéral.
 
-" Panneau A 25. - Carrefour à sens giratoire. "
+Panneau A 25. - Carrefour à sens giratoire. "
 
 Les panneaux de danger sont de forme triangulaire. Ils ont le fond blanc et sont bordés d'une bande rouge, elle-même entourée d'un listel blanc.
 
-" Les symboles et inscriptions sont noirs à l'exception du symbole du panneau A 17 qui est tricolore et de celui du panneau A 24 qui comportent des éléments alternativement blancs et rouges. "
+Les symboles et inscriptions sont noirs à l'exception du symbole du panneau A 17 qui est tricolore et de celui du panneau A 24 qui comportent des éléments alternativement blancs et rouges. "
 
 Nota :
 

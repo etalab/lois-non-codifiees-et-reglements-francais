@@ -6,9 +6,7 @@ Les panneaux et bornes comportant une simple indication sont répartis comme sui
 
 a) Signaux de type C, donnant une indication utile pour la conduite des véhicules :
 
-Panneau C 1 a
-
-Parc de stationnement.
+Panneau C 1 a Parc de stationnement.
 
 Panneau C 1 b
 
@@ -18,21 +16,15 @@ Panneau C 1 c
 
 Parc de stationnement payant quel que soit le mode de perception de la taxe.
 
-Panneau C 2
+Panneau C 2 Hôpital, éviter le bruit.
 
-Hôpital, éviter le bruit.
-
-Panneau C 3
-
-Forêt facilement inflammable.
+Panneau C 3 Forêt facilement inflammable.
 
 Panneau C 4 a
 
 Vitesse conseillée sur une section de route faisant l'objet d'une régulation des vitesses.
 
-Panneau C 4 b
-
-Fin de vitesse conseillée.
+Panneau C 4 b Fin de vitesse conseillée.
 
 Panneau C 5
 
@@ -42,21 +34,13 @@ Panneau C 6
 
 Arrêt d'autobus. Le stationnement est réservé aux autobus sur une étendue signalée par un marquage approprié.
 
-Panneau C 7
+Panneau C 7 Indication d'un arrêt de tramway. - Le stationnement est réservé aux tramways. Les autres usagers de la route ne doivent pas dépasser un tramway pendant son arrêt, conformément à l'article R. 16 du code de la route.
 
-Arrêt de tramway.
+Panneau C 12 Circulation à sens unique.
 
-Panneau C 12
+Panneau C 13 a Chemin sans issue.
 
-Circulation à sens unique.
-
-Panneau C 13 a
-
-Chemin sans issue.
-
-Panneau C 13 b
-
-Présignalisation d'un chemin sans issue.
+Panneau C 13 b Présignalisation d'un chemin sans issue.
 
 Panneau C 14
 
@@ -76,15 +60,13 @@ Panneau C 18
 
 Priorité par rapport à la circulation venant en sens inverse.
 
-Panneau C 20
+Panneau C 20 a. Passage pour piétons sur chaussée.
 
-Passage pour piétons sur chaussée.
+Panneau C 20 c. Indication d'une traversée de voies de tramways.
 
 Panneau C 21 a
 
-Indication des voies affectées à chaque sens de circulation sur la
-
-chaussée suivie.
+Indication des voies affectées à chaque sens de circulation sur la chaussée suivie.
 
 Panneau C 21 b
 
@@ -98,33 +80,21 @@ Fin de section de route avec affectation de voies.
 
 Retour à la réglementation de droit commun.
 
-Panneau C 23
+Panneau C 23 Stationnement réglementé pour les caravanes.
 
-Stationnement réglementé pour les caravanes.
-
-Panneau C 24
-
-Signalisation par voie.
+Panneau C 24 Signalisation par voie.
 
 Panneau C 25
 
 Indication aux frontières des limitations générales de vitesse en vigueur sur le territoire français.
 
-Panneau C 26 a
+Panneau C 26 a Annonce d'une voie de détresse à droite.
 
-Annonce d'une voie de détresse à droite.
+Panneau C 26 b Annonce d'une voie de détresse à gauche.
 
-Panneau C 26 b
+Panneau C 26 c Diagramme de la voie de détresse.
 
-Annonce d'une voie de détresse à gauche.
-
-Panneau C 26 c
-
-Diagramme de la voie de détresse.
-
-Panneau C 27
-
-Ralentisseur de type dos-d'âne.
+Panneau C 27 Ralentisseur de type dos-d'âne.
 
 Panneau C 28
 
@@ -142,45 +112,29 @@ Panneau C 29 c
 
 Raccordement d'un créneau de dépassement à une section à trois voies affectées " une voie plus deux voies.
 
-Panneau C 30
+Panneau C 30 Fin de créneau de dépassement.
 
-Fin de créneau de dépassement.
+Panneau C 31 Retrait de ticket de péage.
 
-Panneau C 31
+Panneau C 32 Présence d'un péagiste.
 
-Retrait de ticket de péage.
+Panneau C 50 Indications diverses.
 
-Panneau C 32
-
-Présence d'un péagiste.
-
-Panneau C 50
-
-Indications diverses.
-
-Panneau C 107
-
-Route pour automobiles.
+Panneau C 107 Route pour automobiles.
 
 Ce signal annonce le début d'une section de route, autre qu'une autoroute, réservée à la circulation automobile sur laquelle les règles de circulation sont les mêmes que celles prescrites aux articles R. 43-2 (à l'exception des 7°, 8° et 10°), R. 43-4, R. 43-6 et R. 43-7 du code de la route et sur laquelle, sauf indication contraire, la vitesse maximale des véhicules est fixée à 110 kilomètres/heure.
 
 Les dérogations aux prescriptions annoncées ci-dessus sont portées à la connaissance des usagers par une signalisation appropriée.
 
-Panneau C 108
-
-Fin de route pour automobiles.
+Panneau C 108 Fin de route pour automobiles.
 
 Ce signal indique aux usagers qu'ils ne sont plus soumis à d'autres interdictions ou obligations particulières que celles indiquées par les signaux accompagnant ce panneau.
 
-Panneau C 109
-
-Aire piétonne :
+Panneau C 109 Aire piétonne :
 
 Ce signal délimite le début d'une zone affectée à la circulation des piétons et à l'intérieur du périmètre de laquelle la circulation et le stationnement des véhicules automobiles sont réglementés.
 
-Panneau C 110
-
-Fin d'aire piétonne :
+Panneau C 110 Fin d'aire piétonne :
 
 Ce signal indique la fin des réglementations édictées par le panneau C 109.
 
@@ -190,31 +144,19 @@ Début de section à statut autoroutier.
 
 Ce signal annonce le début d'une section d'autoroute à laquelle correspondent des prescriptions particulières.
 
-Panneau C 208
-
-Fin de section à statut autoroutier.
+Panneau C 208 Fin de section à statut autoroutier.
 
 Ce signal annonce la fin des prescriptions particulières relatives aux autoroutes.
 
-Panneau C 250
+Panneau C 250 Annonce d'un poste de péage.
 
-Annonce d'un poste de péage.
+Panneau C 251 Annonce sur autoroute du début d'une section à péage.
 
-Panneau C 251
+Panneau C 252 Annonce d'une gare de péage.
 
-Annonce sur autoroute du début d'une section à péage.
+Panneau C 253 Annonce d'une aire annexe.
 
-Panneau C 252
-
-Annonce d'une gare de péage.
-
-Panneau C 253
-
-Annonce d'une aire annexe.
-
-Panneau C 255
-
-Première annonce d'un croisement d'autoroutes.
+Panneau C 255 Première annonce d'un croisement d'autoroutes.
 
 Les panneaux de type C sont de forme carrée.
 
@@ -240,149 +182,83 @@ Panneau CE 1
 
 Poste de secours.
 
-Panneau CE 2 a
+Panneau CE 2 a Poste d'appel d'urgence.
 
-Poste d'appel d'urgence.
-
-Panneau CE 2 b
-
-Cabines des postes et télécommunications.
+Panneau CE 2 b Cabines des postes et télécommunications.
 
 Panneau CE 3 a
 
 Informations relatives aux services ou activités touristiques.
 
-Panneau CE 3 b
+Panneau CE 3 b Relais d'information service.
 
-Relais d'information service.
+Panneau CE 4 a Terrain de camping pour tentes.
 
-Panneau CE 4 a
+Panneau CE 4 b Terrain de camping pour caravanes.
 
-Terrain de camping pour tentes.
+Panneau CE 4 c Terrain de camping pour tentes et caravanes.
 
-Panneau CE 4 b
+Panneau CE 5 a Auberge de jeunesse.
 
-Terrain de camping pour caravanes.
+Panneau CE 5 b Chambre d'hôtes ou gîte.
 
-Panneau CE 4 c
+Panneau CE 6 a Point de départ d'un itinéraire d'excursions à pied.
 
-Terrain de camping pour tentes et caravanes.
+Panneau CE 6 b Point de départ d'un circuit de ski de fond.
 
-Panneau CE 5 a
+Panneau CE 7 Emplacement pour pique-nique.
 
-Auberge de jeunesse.
+Panneau CE 8 Trains autos.
 
-Panneau CE 5 b
+Panneau CE 9 Trains autos-couchettes.
 
-Chambre d'hôtes ou gîte.
+Panneau CE 10 Navire transbordeur, bac.
 
-Panneau CE 6 a
+Panneau CE 12 Toilettes ouvertes au public.
 
-Point de départ d'un itinéraire d'excursions à pied.
-
-Panneau CE 6 b
-
-Point de départ d'un circuit de ski de fond.
-
-Panneau CE 7
-
-Emplacement pour pique-nique.
-
-Panneau CE 8
-
-Trains autos.
-
-Panneau CE 9
-
-Trains autos-couchettes.
-
-Panneau CE 10
-
-Navire transbordeur, bac.
-
-Panneau CE 12
-
-Toilettes ouvertes au public.
-
-Panneau CE 14
-
-Installations accessibles aux handicapés physiques.
-
-Panneau CE 15 a
-
-Poste de distribution de carburant.
+Panneau CE 14 Installations accessibles aux handicapés physiques. Panneau CE 15 a Poste de distribution de carburant.
 
 Panneau CE 15 c
 
 Poste de distribution de carburant assurant le ravitaillement en gaz pétrole liquéfié (G.P.L.).
 
-Panneau CE 15 e
-
-Marque du poste de distribution de carburant.
+Panneau CE 15 e Marque du poste de distribution de carburant.
 
 Panneau CE 15 f
 
 Marque du poste de distribution de carburant assurant également le ravitaillement en gaz pétrole liquéfié (G.P.L.).
 
-Panneau CE 16
+Panneau CE 16 Restaurant.
 
-Restaurant.
+Panneau CE 17 Hôtel ou motel.
 
-Panneau CE 17
+Panneau CE 18 Débit de boissons ou cafétéria.
 
-Hôtel ou motel.
+Panneau CE 19 Point de mise à l'eau d'embarcations légères.
 
-Panneau CE 18
+Panneau CE 20 a Gare de téléphérique.
 
-Débit de boissons ou cafétéria.
-
-Panneau CE 19
-
-Point de mise à l'eau d'embarcations légères.
-
-Panneau CE 20 a
-
-Gare de téléphérique.
-
-Panneau CE 20 b
-
-Point de départ d'un télésiège ou d'une télécabine.
-
-Panneau CE 21
-
-Point de vue.
+Panneau CE 20 b Point de départ d'un télésiège ou d'une télécabine. Panneau CE 21 Point de vue.
 
 Panneau CE 22
 
 Station de radiodiffusion donnant des informations sur la circulation routière et l'état des routes.
 
-Panneau CE 23
-
-Jeux d'enfants.
+Panneau CE 23 Jeux d'enfants.
 
 Panneau CE 24
 
 Station de vidange pour caravanes, auto-caravanes et cars.
 
-Panneau CE 25
+Panneau CE 25 Distributeur de billets de banque.
 
-Distributeur de billets de banque.
+Panneau CE 26 Station de gonflage.
 
-Panneau CE 26
+Panneau CE 27 Point relax.
 
-Station de gonflage.
+Panneau CE 28 Atelier d'entretien de véhicules.
 
-Panneau CE 27
-
-Point relax.
-
-Panneau CE 28
-
-Atelier d'entretien de véhicules.
-
-Panneau CE 50
-
-Installations diverses.
+Panneau CE 50 Installations diverses.
 
 Les panneaux de type CE sont de forme carrée.
 
@@ -422,9 +298,7 @@ Panneau CE 15 d
 
 Poste de distribution de carburant assurant le ravitaillement en essence sans plomb et en G.P.L.
 
-Ces panneaux restent en vigueur dans les conditions prévues par
-
-l'article 12 du présent arrêté.
+Ces panneaux restent en vigueur dans les conditions prévues par l'article 12 du présent arrêté.
 
 2. Signaux de direction
 
@@ -594,13 +468,9 @@ d) Panneaux de présignalisation de type D 40 :
 
 Ils annoncent les directions desservies à la prochaine bifurcation, au prochain échangeur ou au prochain carrefour.
 
-Panneau D 41 a
+Panneau D 41 a Panneau de présignalisation de sortie numérotée.
 
-Panneau de présignalisation de sortie numérotée.
-
-Panneau D 41 b
-
-Panneau de présignalisation de sortie non numérotée.
+Panneau D 41 b Panneau de présignalisation de sortie non numérotée.
 
 Panneau D 41 c
 
@@ -856,6 +726,10 @@ Panneau D 63 d
 
 Panneau d'annonce de la prochaine bifurcation autoroutière ; le registre supérieur comporte le numéro de la voie et la distance à la bifurcation ; le ou les registres inférieurs comportent les mentions desservies sans indication de distance.
 
+Panneau D  69 a. Panneau de fin d'itinéraire "S".
+
+Panneau D 69 b. Panneau de fin d'itinéraire "Bis".
+
 Les panneaux D 61 et D 62 sont composés d'un ou plusieurs registres rectangulaires.
 
 Les registres sont à fond bleu, vert ou blanc pour les panneaux D 61 a et D 62 a.
@@ -888,6 +762,10 @@ Le registre supérieur des panneaux de type D 63 comporte :
 
 Les autres registres comportent les mentions desservies avec une indication de distance pour les panneaux D 63 a et D 63 b,  sans indication de distance pour les panneaux D 63 c et D 63 d.
 
+Le panneau D 69 a est de forme rectangulaire. Il est à fond jaune et listel noir, avec une barre transversale rouge, et comporte le symbole SU 1.
+
+Le panneau D 69 b est composé de deux registres rectangulaires. Le registre supérieur est à fond jaune et listel noir, avec une barre transversale rouge ; il comporte le symbole SC 20 et l'inscription "Fin d'itinéraire bis". Le registre inférieur est à fond bleu, vert ou blanc ; il est composé comme un panneau de confirmation courante D 61.
+
 i) Panneaux de signalisation complémentaire de type D 70 :
 
 Panneau D 71
@@ -908,6 +786,10 @@ Panneau D 73
 
 Panneau de présignalisation complémentaire de sortie.
 
+Panneau D 79 a. Panneau de signalisation complémentaire d'itinéraire "S".
+
+Panneau D 79 b. Panneau de signalisation complémentaire d'itinéraire "Bis".
+
 Les panneaux D 71, D 72 a et D 72 b sont rectangulaires à fond blanc.
 
 Le panneau D 71 comporte l'indication " prochaine sortie :
@@ -924,25 +806,25 @@ Le registre supérieur comporte un symbole SE b avec le numéro de sortie.
 
 Le registre inférieur indique la distance de la sortie.
 
+Les panneaux D 79 sont composés de deux registres rectangulaires :
+
+- le registre supérieur du panneau D 79 a est à fond bleu, vert ou blanc et comporte la (ou les) mention (s). Le registre inférieur est à fond jaune et comporte sur une ligne le mot "suivre" suivi du symbole SU 1 ;
+
+- le registre supérieur du panneau D 79 b est à fond jaune et comporte le symbole SC 20 suivi de la (ou des) mention (s). Le registre inférieur est à fond blanc et comporte les inscriptions suivantes : sur une première ligne, le mot "suivre", sur une seconde ligne, la mention, éventuellement dans un encart vert ou bleu.
+
 j) Panneaux dont l'implantation nouvelle n'est plus autorisée :
 
 L'implantation nouvelle des panneaux ci-dessous n'est plus autorisée :
 
-Panneau D 31 a
-
-Panneau de signalisation avancée de sortie numérotée.
+Panneau D 31 a Panneau de signalisation avancée de sortie numérotée.
 
 Panneau D 31 c
 
 Panneau de signalisation avancée de bifurcation autoroutière.
 
-Panneau D 51 a
+Panneau D 51 a Panneau d'avertissement de sortie simple.
 
-Panneau d'avertissement de sortie simple.
-
-Panneau D 51 b
-
-Panneau d'avertissement de sorties rapprochées.
+Panneau D 51 b Panneau d'avertissement de sorties rapprochées.
 
 Panneau D 52 b
 
@@ -952,9 +834,7 @@ Panneau Da 51 a
 
 Panneau d'avertissement de sortie avec affectation de voie.
 
-Panneau D 63 a
-
-Panneau de confirmation de la prochaine sortie.
+Panneau D 63 a Panneau de confirmation de la prochaine sortie.
 
 Panneau D 63 b
 
@@ -1006,9 +886,7 @@ Le JAUNE est utilisé pour les indications de direction à caractère temporaire
 
 Les panneaux à fond bleu ou vert comportent des inscriptions et des listels blancs.
 
-Les panneaux à fond blanc ou jaune comportent des inscriptions et
-
-des listels noirs.
+Les panneaux à fond blanc ou jaune comportent des inscriptions et des listels noirs.
 
 m) Inscriptions :
 
@@ -1104,13 +982,15 @@ Les symboles caractérisent :
 
 alors les symboles d'interdiction SI définis en annexe. Ils sont de la même couleur que le panneau d'interdiction correspondant ;
 
-- soit la ou les catégories d'usagers pour lesquels l'accès aux mentions signalées est recommandé ou spécialement prévu par la voie concernée. On utilise alors les symboles d'indication SC définis en annexe. Ils sont blancs à fond bleu, à l'exception des symboles SC 10 dans lequel l'explosion est de couleur orange et rouge, SC 11 dans lequel la tonne est de couleur rouge, SC 12 dans lequel le carré intérieur est de couleur orange " SC 16 dans lequel le carré intérieur est de couleur jaune, le listel et l'inscription bis de couleur noire ;
+- soit la ou les catégories d'usagers pour lesquels l'accès aux mentions signalées est recommandé ou spécialement prévu par la voie concernée. On utilise alors les symboles d'indication SC définis en annexe. Ils sont blancs à fond bleu, à l'exception des symboles SC 10 dans lequel l'explosion est de couleur orange et rouge, SC 11 dans lequel la tonne est de couleur rouge, SC 12 dans lequel le carré intérieur est de couleur orange, le listel et l'inscription bis de couleur noire ;
 
 - soit le caractère autoroutier d'une partie de l'itinéraire permettant de rejoindre les mentions signalées. On utilise alors le symbole SC 17 dans les cas suivants :
 
 - sur des panneaux de rabattement à fond bleu en complément du numéro de l'autoroute desservie et du nombre de kilomètres restant à parcourir pour atteindre cette autoroute ;
 
 - sur des panneaux à fond vert ou blanc en complément des mentions desservies par l'itinéraire lorsque celui-ci comporte une section d'autoroute. Le symbole SC 17 est blanc sur fond bleu ;
+
+Soit un itinéraire "Bis" ; on utilise alors le symbole SC 20, qui est composé d'un carré à fond noir dans lequel s'inscrit le mot "Bis" de couleur jaune.
 
 Soit l'identification d'un échangeur. On utilise alors le symbole de type SE défini en annexe. Le symbole comporte un pictogramme suivi d'un numéro d'ordre qui permet de localiser l'échangeur d'une manière précise. Le symbole est inscrit en noir sur fond blanc. On distingue le symbole :
 
@@ -1119,6 +999,8 @@ SE 1 b : pour un ou deux caractères ;
 SE 2 b : pour trois caractères.
 
 L'utilisation des symboles SE 1 et SE 2 n'est plus autorisée, mais reste en vigueur jusqu'à une date fixée par le ministre de l'équipement, des transports et du tourisme.
+
+Soit l'identification d'un itinéraire "S", dit de substitution, caractérisant un réseau associé à un réseau principal autoroutier auquel il se substitue lorsque ce dernier connaît des perturbations. On utilise alors le symbole SU 1 composé d'un rectangle à fond noir dans lequel s'inscrivent la lettre "S" et un (ou des) chiffre (s) de couleur jaune.
 
 7. Panneaux d'information.
 
