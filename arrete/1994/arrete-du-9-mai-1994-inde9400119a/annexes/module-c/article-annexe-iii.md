@@ -1,0 +1,7 @@
+# Article ANNEXE III
+
+1. Ce module décrit la procédure par laquelle le fabricant ou son mandataire établi sur le territoire de l'un des Etats membres de la Communauté européenne assure et déclare que les chaudières et appareils concernés sont conformes au type décrit dans le certificat d'examen " C.E. de type " et satisfont aux exigences de rendement du présent arrêté. Le fabricant ou son mandataire établi sur le territoire de l'un des Etats membres de la Communauté européenne appose le marquage " C.E. " sur chaque chaudière ou appareil et établit une déclaration écrite de conformité.
+
+2. Le fabricant prend toutes les mesures nécessaires pour que le procédé de fabrication assure la conformité du produit fabriqué au type décrit dans le certificat d'examen " C.E. de type " et aux exigences de rendement du présent arrêté.
+
+3. Un organisme agréé choisi par le fabricant effectue ou fait effectuer des contrôles du produit à intervalles aléatoires. Un échantillon approprié de produits finis, prélevé sur place par l'organisme agréé, est contrôlé et des essais appropriés définis conformément aux normes visées à l'article 6, paragraphe 2, du présent arrêté sont effectués pour vérifier la conformité de la production aux exigences du présent arrêté. Dans le cas où un ou plusieurs exemplaires des produits contrôlés ne sont pas conformes, l'organisme agréé prend les mesures appropriées et informe l'autorité qui a délivré l'agrément.
