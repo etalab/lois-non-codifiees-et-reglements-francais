@@ -1,0 +1,7 @@
+# Article 9
+
+La Cour des comptes est habilitée à se faire communiquer tous documents, de quelque nature que ce soit, relatifs à la gestion des services et organismes soumis à son contrôle. Elle a pouvoir d'entendre tout directeur ou chef de service, tout gestionnaire de fonds publics, tout dirigeant d'entreprise publique, tout membre des institutions et corps de contrôle.
+
+Lorsque les communications et auditions portent sur des sujets de caractère secret concernant la défense nationale, les affaires étrangères, la sécurité intérieure ou extérieure de l'Etat, ou sur des éléments confidentiels de la gestion industrielle, commerciale et financière des entreprises publiques, la Cour prend toutes dispositions pour garantir strictement le secret de ses investigations et de ses observations.
+
+Les agents des services financiers sont déliés du secret professionnel à l'égard des magistrats de la Cour des comptes, des conseillers maîtres en service extraordinaire et des rapporteurs institués en vue d'assister la Cour dans l'exercice de la vérification des comptes et de la gestion des entreprises visées à l'article 6 bis, à l'occasion des enquêtes effectuées par ces derniers dans le cadre des attributions de la Cour ; pour l'exercice des compétences qui leur sont reconnues par la présente loi, les conseillers maîtres en service extraordinaire et les rapporteurs sont tenus de respecter l'obligation de secret professionnel des magistrats.
