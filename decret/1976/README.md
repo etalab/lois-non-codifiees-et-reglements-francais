@@ -29,6 +29,7 @@
 - [Décret n°77-178 du 18 février 1977](decret-n77-178-du-18-fevrier-1977)
 - [Décret n°77-179 du 18 février 1977](decret-n77-179-du-18-fevrier-1977)
 - [Décret n°76-184 du 19 février 1976](decret-n76-184-du-19-fevrier-1976)
+- [Décret n°76-233 du 19 février 1976](decret-n76-233-du-19-fevrier-1976)
 - [Décret n°76-801 du 19 août 1976](decret-n76-801-du-19-aout-1976)
 - [Décret n°76-802 du 19 août 1976](decret-n76-802-du-19-aout-1976)
 - [Décret du 20 juin 1937](decret-du-20-juin-1937)
