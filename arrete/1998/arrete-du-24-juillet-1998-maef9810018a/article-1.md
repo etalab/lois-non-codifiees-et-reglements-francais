@@ -10,4 +10,6 @@ En application de l'article 4, alinéa 2, du décret du 13 janvier 1947 susvisé
 
 - en Italie, les chefs de poste consulaire à Rome et à Milan ;
 
-- au Portugal, le chef du poste consulaire à Lisbonne.
+- au Portugal, le chef du poste consulaire à Lisbonne ;
+
+- au Pakistan, le chef de la mission diplomatique, pourvue d'une circonscription consulaire, à Islamabad.
