@@ -172,7 +172,6 @@
 - [Décret n°93-26 du 8 janvier 1993 (PRMX9200256D)](decret-n93-26-du-8-janvier-1993-prmx9200256d)
 - [Décret n°93-28 du 8 janvier 1993 (INDX9300008D)](decret-n93-28-du-8-janvier-1993-indx9300008d)
 - [Décret n°93-295 du 8 mars 1993 (SANC9300746D)](decret-n93-295-du-8-mars-1993-sanc9300746d)
-- [Décret n°93-296 du 8 mars 1993 (JUSB9310026D)](decret-n93-296-du-8-mars-1993-jusb9310026d)
 - [Décret n°93-298 du 8 mars 1993 (ENVG9310031D)](decret-n93-298-du-8-mars-1993-envg9310031d)
 - [Décret n°93-301 du 8 mars 1993 (DOMP9300006D)](decret-n93-301-du-8-mars-1993-domp9300006d)
 - [Décret n°93-31 du 8 janvier 1993 (VILX9200253D)](decret-n93-31-du-8-janvier-1993-vilx9200253d)
