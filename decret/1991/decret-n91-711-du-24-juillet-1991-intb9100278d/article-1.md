@@ -10,7 +10,7 @@ Une nouvelle bonification indiciaire prise en compte pour le calcul de la retrai
 
 4° Fonctionnaires appartenant au cadre d'emplois des adjoints administratifs et exerçant les fonctions de secrétaire de mairie dans les communes de moins de 2 000 habitants : 15 points majorés ;
 
-5° Attachés territoriaux exerçant les fonctions de secrétaire général dans les communes de 2 000 à 5 000 habitants : 30 points majorés ;
+5° Attachés territoriaux exerçant les fonctions de secrétaire général dans les communes de 2 000 à 3 500 habitants : 30 points majorés ;
 
 6° Adjudants-chefs des sapeurs-pompiers professionnels : 16 points majorés ;
 
@@ -32,9 +32,7 @@ Une nouvelle bonification indiciaire prise en compte pour le calcul de la retrai
 
 14° Puéricultrices assurant la direction de haltes-garderies ou de centres de protection maternelle et infantile : 15 points ;
 
-15° Rédacteurs territoriaux assurant les fonctions de secrétaire de mairie de communes de moins de 2 000 habitants :
-
-15 points ;
+15° Rédacteurs territoriaux assurant les fonctions de secrétaire de mairie de communes de moins de 2 000 habitants : 15 points ;
 
 16° Techniciens territoriaux, seuls de leur cadre d'emplois et exerçant les fonctions de directeur des services techniques dans les communes de moins de 20 000 habitants ou les établissements publics communaux et intercommunaux en relevant : 15 points ;
 
@@ -62,9 +60,7 @@ de 3 001 à 5 000 logements : 35 points majorés ;
 
 25° Attachés, conseillers socio-éducatifs territoriaux exerçant à titre exclusif les fonctions de directeur d'un établissement d'accueil et d'hébergement de personnes âgées : 30 points majorés ;
 
-26° Assistants socio-éducatifs et infirmiers territoriaux exerçant à titre exclusif les fonctions de directeur d'un établissement d'accueil et d'hébergement de personnes âgées :
-
-20 points majorés ;
+26° Assistants socio-éducatifs et infirmiers territoriaux exerçant à titre exclusif les fonctions de directeur d'un établissement d'accueil et d'hébergement de personnes âgées : 20 points majorés ;
 
 27° Agents du patrimoine assurant la distribution itinérante d'ouvrages culturels : 10 points majorés ;
 
@@ -80,9 +76,7 @@ de 3 001 à 5 000 logements : 35 points majorés ;
 
 32° Opérateurs des activités physiques et sportives exerçant à titre exclusif leurs fonctions dans les grands ensembles ou quartiers d'habitat dégradé dont la liste est fixée par le décret du 5 février 1993 susvisé : 10 points majorés ;
 
-33° Moniteurs-éducateurs exerçant à titre exclusif leurs fonctions dans les grands ensembles ou quartiers d'habitat dégradé dont la liste est fixée par le décret du 5 février 1993 susvisé :
-
-15 points majorés ;
+33° Moniteurs-éducateurs exerçant à titre exclusif leurs fonctions dans les grands ensembles ou quartiers d'habitat dégradé dont la liste est fixée par le décret du 5 février 1993 susvisé : 15 points majorés ;
 
 34° Educateurs de jeunes enfants exerçant à titre exclusif leurs fonctions dans les grands ensembles ou quartiers d'habitat dégradé dont la liste est fixée par le décret du 5 février 1993 susvisé :
 
@@ -110,7 +104,7 @@ de 3 001 à 5 000 logements : 35 points majorés ;
 
 44° Fonctionnaires mentionnés du 29° au 34° du présent article exerçant leurs fonctions à titre principal soit dans les zones urbaines sensibles dont la liste est fixée par le décret n° 96-1156 du 26 décembre 1996, soit dans les services et équipements situés en périphérie de cette zone, et assurant leur service en relation directe avec la population de ces zones: nombre de points prévus du 29° au 34° du présent article ;
 
-45° Fonctionnaires mentionnés du 29° au 34° du présent article exerçant leurs fonctions à titre principal soit dans les zones urbaines sensibles dont la liste est fixée par le décret n° 96-1156 du 26 décembre 1996, soit dans les services et équipements situés en périphérie de cette zone, et assurant leur service en relation directe avec la population de ces zones.
+45° Fonctionnaires exerçant leurs fonctions à titre principal soit dans les zones urbaines sensibles dont la liste est fixée par le décret n° 96-1156 du 26 décembre 1996, soit dans les services et équipements situés en périphérie de cette zone, et assurant leur service en relation directe avec la population de ces zones.
 
 a) Psychologues : 30 points majorés ;
 
@@ -130,7 +124,9 @@ h) Agents sociaux : 10 points majorés ;
 
 i) Assistants qualifiés de conservation du patrimoine et des bibliothèques : 20 points majorés ;
 
-j) Assistants de conservation du patrimoine et des bibliothèques : 15 points majorés ;
+j) Assistants de conservation du patrimoine et des bibliothèques :
+
+15 points majorés ;
 
 k) Agents du patrimoine et agents qualifiés du patrimoine :
 
@@ -178,9 +174,7 @@ X. - Adjoints d'animation et agents d'animation : 10 points majorés.
 
 - agent ayant sous ses ordres plus de 25 agents : 18 points majorés ;
 
-50° Agents de salubrité exerçant, à titre exclusif, les fonctions de fossoyeur dans les communes de plus de 2 000 habitants :
-
-10 points majorés.
+50° Agents de salubrité exerçant, à titre exclusif, les fonctions de fossoyeur dans les communes de plus de 2 000 habitants : 10 points majorés.
 
 51° Attachés de conservation du patrimoine exerçant les fonctions de chef d'établissement d'un musée contrôlé : 30 points majorés ;
 
@@ -190,7 +184,9 @@ X. - Adjoints d'animation et agents d'animation : 10 points majorés.
 
 54° Attachés assurant des fonctions d'encadrement d'un service requérant une technicité en matière de gestion des ressources humaines, de gestion des achats et des marchés publics, de gestion financière, de gestion immobilière et foncière, de contentieux ou d'actions liées au développement et à l'aménagement de la collectivité, à l'exception des fonctions exercées au titre de l'article 53 de la loi du 26 janvier 1984 modifiée : 25 points majorés ;
 
-55° Attachés détachés sur un emploi fonctionnel de secrétaire général adjoint ou directeur général adjoint : 25 points majorés ;
+55° Fonctionnaires détachés sur un emploi fonctionnel de directeur général adjoint mentionné à l'article 53 de la loi du 26 janvier 1984 susvisé et ne relevant pas des dispositions du décret n° 2001-1274 du 27 décembre 2001 et du décret n° 2001-1367 du 28 décembre 2001 :
+
+25 points majorés ;
 
 56° Fonctionnaires assurant les fonctions de régisseur d'avances ou de recettes :
 
@@ -206,8 +202,6 @@ X. - Adjoints d'animation et agents d'animation : 10 points majorés.
 
 15 points majorés ;
 
-59° Agents de salubrité assurant, à titre exclusif, les fonctions de fossoyeur dans les établissements publics locaux assimilables à une commune de plus de 2 000 habitants, selon les critères prévus par le décret n° 88-546 du 6 mai 1988 relatif aux emplois fonctionnels dans les établissements publics locaux :
-
-10 points majorés ;
+59° Agents de salubrité assurant, à titre exclusif, les fonctions de fossoyeur dans les établissements publics locaux assimilables à une commune de plus de 2 000 habitants, selon les critères prévus par le décret n° 88-546 du 6 mai 1988 relatif aux emplois fonctionnels dans les établissements publics locaux : 10 points majorés ;
 
 60° Agents de maîtrise assurant des fonctions d'encadrement d'une équipe d'au moins 5 agents : 15 points majorés.
