@@ -71,4 +71,3 @@
 - [Loi n°96-1077 du 11 décembre 1996 (MJSX9601748L)](loi-n96-1077-du-11-decembre-1996-mjsx9601748l)
 - [Loi n°96-151 du 26 février 1996 (EQUX9500055L)](loi-n96-151-du-26-fevrier-1996-equx9500055l)
 - [Loi n°96-299 du 10 avril 1996 (MIPX9500148L)](loi-n96-299-du-10-avril-1996-mipx9500148l)
-- [Loi n°96-312 du 12 avril 1996 (DOMX9500179L)](loi-n96-312-du-12-avril-1996-domx9500179l)
