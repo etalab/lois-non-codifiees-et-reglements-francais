@@ -1,5 +1,5 @@
 # Article 2
 
-L'agrément accordé aux personnes ou organismes mentionnés dans les arrêtés ci-après et expirant au 31 mars 1985 est prorogé pour une durée maximale de trois mois :
+- Les dispositions du présent arrêté sont applicables aux navires dont la quille est posée ou dont la construction se trouve à un stade équivalent le 1er septembre 1984 ou après cette date.
 
-Arrêtés des 23 mars 1982 et 16 mars 1984 portant agrément de personnes et d'organismes pour la vérification des appareils de levage autres que les ascenseurs et monte-charge.
+L'expression "dont la construction se trouve à un stade équivalent" se réfère au stade auquel une construction identifiable à un navire particulier commence et le montage du navire considéré à commencé, employant au moins cinquante tonnes ou 1 p. 100 de la masse estimée de tous les matériaux de structure, si cette dernière valeur est inférieure.

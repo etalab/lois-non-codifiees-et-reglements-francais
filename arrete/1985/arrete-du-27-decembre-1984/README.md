@@ -1,4 +1,4 @@
-# Arrêté du 27 décembre 1984 prorogeant la validité de l'agrément de personnes et organismes en vue d'effectuer des contrôles techniques.
+# Arrêté du 27 décembre 1984 fixant les règles techniques et les procédures applicables aux navires et à leurs équipements en matière de sauvegarde de la vie humaine en mer, d'habitabilité à bord et de prévention de la pollution
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
