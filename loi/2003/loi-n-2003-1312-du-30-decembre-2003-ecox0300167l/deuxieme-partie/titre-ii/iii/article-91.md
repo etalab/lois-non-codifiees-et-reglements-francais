@@ -1,0 +1,3 @@
+# Article 91
+
+Les dispositions du b du B de l'article 1er bis du décret du 3 février 1993 relatif aux redevances de mise à disposition de fréquences radioélectriques et de gestion dues par les titulaires des autorisations délivrées en application des articles L. 33-1 et L. 33-2 du code des postes et télécommunications, dans leur rédaction issue du II de l'article 2 du décret n° 2002-238 du 21 février 2002 modifiant le décret du 3 février 1993 relatif aux redevances de mise à disposition de fréquences radioélectriques et de gestion dues par les titulaires des autorisations délivrées en application des articles L. 33-1 et L. 33-2 du code des postes et télécommunications, prennent effet rétroactivement, à la date du 4 août 2000.

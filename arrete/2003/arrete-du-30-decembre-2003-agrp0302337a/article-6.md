@@ -1,0 +1,3 @@
+# Article 6
+
+L'arrêté du 18 octobre 2002 pris en application du décret du 18 octobre 2002 fixant les barèmes et les modalités d'attribution des mesures d'aides financières aux entreprises intervenant dans la destruction de certains déchets et sous-produits des industries des viandes et l'arrêté du 18 octobre 2002 pris en application du décret n° 2002-1273 du 18 octobre 2002 fixant les barèmes et les modalités d'attribution des mesures d'aides financières aux entreprises intervenant dans la destruction de certains déchets et sous-produits des industries des viandes et des produits de la mer et d'eau douce sont abrogés.

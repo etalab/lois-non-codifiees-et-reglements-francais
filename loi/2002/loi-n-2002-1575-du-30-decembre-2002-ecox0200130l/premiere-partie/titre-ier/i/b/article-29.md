@@ -32,9 +32,13 @@ Pour les années suivantes, le montant de la compensation prévue au D de l'arti
 
 Pour les années suivantes, ce solde est actualisé chaque année du taux d'évolution de la dotation globale de fonctionnement.
 
+A compter de 2004, ce solde est actualisé chaque année du taux d'évolution de la dotation forfaitaire prévue à l'article L. 2334-7 du code général des collectivités territoriales. Pour les communes, il est calculé conformément aux dispositions de l'avant-dernier alinéa de ce même article.
+
 3. En cas d'impositions supplémentaires ou de dégrèvements consécutifs à une rectification des bases imposables de la taxe professionnelle ou de la taxe spéciale d'équipement additionnelle à la taxe professionnelle de France Télécom au titre de 2003, il est procédé à la régularisation du prélèvement opéré en application des 1 et 2.
 
 IV. - Il est effectué en 2003 un prélèvement au profit de l'Etat sur le produit de la taxe additionnelle à la taxe professionnelle prévue par l'article 1600 du code général des impôts. Ce prélèvement est égal, pour chaque chambre de commerce et d'industrie, au produit obtenu en multipliant la base imposable de France Télécom au titre de 2003 dans le ressort de chaque chambre de commerce et d'industrie par le taux de cette taxe applicable en 2002. Ce prélèvement est imputé sur les attributions mentionnées à l'article 139 de la loi du 16 avril 1930 portant fixation du budget général de l'exercice 1930-1931.
+
+A compter de 2004, le prélèvement mentionné à l'alinéa ci-dessus est égal à celui opéré en 2003, actualisé chaque année en fonction de l'évolution du produit arrêté par la chambre.
 
 V. Paragraphe modificateur
 

@@ -34,6 +34,8 @@ Pour chacune des années 1996, 1997 et 1998, le montant de la dotation institué
 
 Pour chacune des années 1999, 2000, 2001, 2002 et 2003 le taux d'évolution de la dotation instituée au premier alinéa du présent paragraphe est celui qui permet de respecter la norme d'évolution fixée au I de l'article 57 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), compte tenu du montant total des autres dotations énumérées au même I.
 
+En 2004, le taux d'évolution de la dotation instituée au premier alinéa du présent paragraphe est celui qui permet de respecter la norme d'évolution fixée au II de l'article 57 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003), compte tenu du montant total des autres dotations énumérées au même II.
+
 Pour les années 1999, 2000, 2001 et 2002 toute diminution de cette dotation par rapport au montant de l'année précédente est modulée de telle sorte que supportent une diminution égale à la moitié de la diminution moyenne de la dotation de compensation telle qu'elle résulte de l'application de l'alinéa précédent :
 
 - les communes qui remplissent au titre de l'année précédente les conditions d'éligibilité aux attributions de la dotation de solidarité urbaine instituée par l'article L. 2334-15 du code général des collectivités territoriales ;

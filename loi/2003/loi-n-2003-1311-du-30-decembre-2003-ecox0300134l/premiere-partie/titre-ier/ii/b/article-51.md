@@ -1,0 +1,3 @@
+# Article 51
+
+Les collectivités territoriales et leurs groupements, dès lors qu'ils sont compétents en matière de voirie, bénéficient, par dérogation, des attributions du Fonds de compensation pour la taxe sur la valeur ajoutée pour les dépenses d'investissement afférentes à des travaux qu'ils réalisent sur le domaine public routier de l'Etat ou d'une collectivité territoriale. Seules ouvrent droit aux attributions du fonds les dépenses d'investissement réalisées dans le cadre d'une convention avec l'Etat ou la collectivité territoriale propriétaire précisant notamment les équipements à réaliser, le programme technique des travaux et les engagements financiers des parties.

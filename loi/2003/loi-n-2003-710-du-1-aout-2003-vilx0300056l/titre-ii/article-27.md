@@ -18,6 +18,4 @@ Pour les communes qui sont membres d'un établissement public de coopération in
 
 B. Dans les conditions prévues par la loi de finances, l'Etat compense, chaque année, les pertes de recettes résultant des dispositions du I quinquies de l'article 1466 A du code général des impôts pour les collectivités territoriales, les établissements publics de coopération intercommunale dotés d'une fiscalité propre ou les fonds départementaux de péréquation de la taxe professionnelle, selon les modalités prévues aux cinquième, sixième et septième alinéas du B de l'article 4 de la loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de relance pour la ville.
 
-IV. A. Les pertes de recettes résultant pour les collectivités locales du 1° du C du I sont compensées, à due concurrence, par une augmentation de la dotation globale de fonctionnement.
-
-B. Les pertes de recettes pour l'Etat sont compensées, à due concurrence, par la création d'une taxe additionnelle aux droits visés aux articles 575 et 575 A du code général des impôts.
+IV. (Paragraphe abrogé).
