@@ -45,4 +45,3 @@
 - [Loi n°85-1371 du 23 décembre 1985](loi-n85-1371-du-23-decembre-1985)
 - [Loi n°85-583 du 10 juin 1985](loi-n85-583-du-10-juin-1985)
 - [Loi n°85-696 du 11 juillet 1985](loi-n85-696-du-11-juillet-1985)
-- [Loi n°85-892 du 23 août 1985](loi-n85-892-du-23-aout-1985)
