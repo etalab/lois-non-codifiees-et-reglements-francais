@@ -1,0 +1,19 @@
+# Article 3
+
+PAR. 1ER - Les périodes d'assurance ne peuvent être retenues pour la détermination du droit à pension ou rente que si elles ont donné lieu au versement d'un minimum de cotisations déterminé par voie réglementaire [*conditions*].
+
+Les périodes pour lesquelles l'assuré a bénéficié des prestations maladie, maternité, invalidité, accident du travail, ainsi que celles pour lesquelles il s'est trouvé avant l'âge de soixante-cinq ans en état de chômage involontaire indemnisé et les périodes pendant lesquelles l'assuré a été présent sous les drapeaux pour son service militaire légal, par suite de mobilisation ou comme volontaire en temps de guerre, sont prises en considération en vue de l'ouverture du droit à pension dans les conditions fixées par décret. Sont également prises en considération, pendant une durée fixée par le même décret, les périodes pendant lesquelles, avant l'âge de soixante-cinq ans, l'assuré en état de chômage involontaire n'a pu bénéficier ou a cessé de bénéficier de l'un des revenus de remplacement prévus à l'article L. 351-5 du code du travail ou de l'une des allocations visées aux articles L. 351-6, L. 351-6-1, L351-6-2, L. 351-16, L. 351-17 et L. 322-4 (2°) du même code. Toutefois, sous des conditions d'âge et de durée de cotisation, et pour une période fixées par voie réglementaire, le travailleur privé d'emploi en fin d'indemnisation bénéficie de cette prise en considération s'il ne relève pas à nouveau d'un régime obligatoire d'assurance vieillesse.
+
+Sont également prises en considération, en vue de l'ouverture du droit à pension, dans les conditions fixées par décret en Conseil d'Etat, les périodes postérieures au 1er juillet 1930 pendant lesquelles les travailleurs salariés ont perçu une rente d'accident du travail, prenant effet antérieurement à la date susvisée, pour une incapacité permanente au moins égale à 66 p. 100 [*taux*].
+
+Sauf dans la mesure où elle s'impute sur la durée de la peine, toute période de détention provisoire accomplie par une personne qui, au moment de son incarcération, relevait de l'assurance sociale obligatoire agricole, est également prise en considération pour l'ouverture du droit à pension, dans les conditions fixées par voie réglementaire.
+
+Sont également prises en considération, en vue de l'ouverture du droit à pension, dans des conditions et limites fixées par voie réglementaire, les périodes durant lesquelles les assurés ont bénéficié de l'indemnité de soins aux tuberculeux prévue à l'article L. 41 du code des pensions militaires d'invalidité et des victimes de guerre, y compris celles où ils ont été hospitalisés en raison de l'affection ayant justifié le service de cette indemnité.
+
+PAR. 1ER BIS - Conformément aux dispositions de l'article 3 de la loi n° 73-1051 du 21 novembre 1973, toute période de mobilisation ou de captivité est, sans condition préalable, assimilée à une période d'assurance pour la liquidation des pensions ou rentes de vieillesse.
+
+PAR. 2 - Les pensions ou rentes de vieillesse et les pensions d'invalidité et les pensions de veuf ou de veuve sont payables trimestriellement [*périodicité*] et à terme échu aux dates fixées par arrêté du ministre de l'Agriculture.
+
+Elles sont arrondies, y compris, le cas échéant, les majorations et bonifications, au multiple de 2 F immédiatement supérieur.
+
+Elles sont cessibles et saisissables dans toutes les mêmes conditions et limites que les salaires. Toutefois, elles le sont dans la limite de 90 p. 100 au profit des établissements hospitaliers et des caisses d'assurances sociales pour le payement des frais d'hospitalisation. L'application des dispositions du présent alinéa ne peut avoir pour effet de réduire les arrérages trimestriels des pensions d'invalidité à une somme inférieure au quart du minimum fixé par l'article 9 (par. 4) modifié du décret du 30 octobre 1935.
