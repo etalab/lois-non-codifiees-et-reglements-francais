@@ -6,12 +6,14 @@ Cette commission présente au ministre chargé des armées ses propositions d'in
 
 Elle comprend notamment :
 
-Pour le corps technique et administratif de l'armée de terre, sous la présidence du chef d'état-major de l'armée de terre, l'inspecteur général de l'armée de terre et le directeur du personnel militaire de l'armée de terre ;
+Pour le corps technique et administratif de l'armée de terre, sous la présidence du chef d'état-major de l'armée de terre, l'inspecteur général des armées "terre" et le directeur du personnel militaire de l'armée de terre ;
 
-Pour le corps technique et administratif de la marine, sous la présidence du chef d'état-major de la marine, l'inspecteur général de la marine, le directeur du personnel militaire de la marine et le directeur central du commissariat de la marine ;
+Pour le corps technique et administratif de la marine, sous la présidence du chef d'état-major de la marine, l'inspecteur général des armées "marine", le directeur du personnel militaire de la marine et le directeur central du commissariat de la marine ;
+
+Pour le corps technique et administratif de la gendarmerie nationale, sous la présidence du directeur général de la gendarmerie nationale, le major général de la gendarmerie nationale, l'inspecteur général des armées "gendarmerie nationale" et le chef du service des ressources humaines de la gendarmerie nationale ;
+
+Pour le corps technique et administratif de l'armement, sous la présidence du délégué général pour l'armement, l'inspecteur général de l'armement et le directeur des ressources humaines de la délégation générale pour l'armement ;
 
 Pour le corps technique et administratif du service de santé des armées, sous la présidence du chef d'état-major des armées, le directeur central du service de santé des armées ;
 
-Pour le corps technique et administratif de l'armement, sous la présidence du délégué ministériel pour l'armement, l'inspecteur de l'armement et le directeur des personnels et des affaires générales de l'armement ;
-
-Pour le corps technique et administratif du service des essences des armées, sous la présidence du chef d'état-major des armées, le directeur central du service des essences des armées.
+Pour le corps technique et administratif du corps technique et administratif du service des essences des armées, sous la présidence du chef d'état-major des armées, le directeur central du service des essences des armées.
