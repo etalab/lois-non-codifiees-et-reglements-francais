@@ -1,3 +1,3 @@
 # Article 1
 
-Le taux de la taxe parafiscale visée à l'article 1er du décret n° 82-1242 du 31 décembre 1982 est fixé à 0,44 p. 100.
+Sont transférés, en pleine propriété, à la date du 1er janvier 1975, à l'établissement public Télévision de France, les stocks des matériels et matières d'exploitation classés dans la classe 3 du plan comptable de l'O.R.T.F..

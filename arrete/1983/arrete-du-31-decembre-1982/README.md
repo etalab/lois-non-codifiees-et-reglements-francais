@@ -1,4 +1,4 @@
-# Arrêté du 31 décembre 1982 FIXANT LE TAUX ET LA REPARTITION DE LA TAXE PARAFISCALE DU SECTEUR TEXTILE.
+# Arrêté du 31 décembre 1982 relatif au régime des sanctions disciplinaires applicables aux débitants de tabac
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

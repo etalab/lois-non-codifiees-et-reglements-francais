@@ -1,3 +1,3 @@
 # Article 3
 
-Sur les ressources restant à la disposition du comité interprofessionnel de rénovation des industries du textile et de l'habillement, un montant de 20 millions de francs sera affecté en 1983 aux actions collectives de promotion.
+Le transfert visé à l'article 1er ne donne lieu ni à indemnité, ni à perception de droits ou taxes.
