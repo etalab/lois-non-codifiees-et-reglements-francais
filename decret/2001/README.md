@@ -526,6 +526,7 @@
 - [Décret n°2001-988 du 29 octobre 2001 (MCCK0100457D)](decret-n2001-988-du-29-octobre-2001-mcck0100457d)
 - [Décret n°97-1254 du 29 décembre 1997 (INTM9700014D)](decret-n97-1254-du-29-decembre-1997-intm9700014d)
 - [Décret n°2000-459 du 29 mai 2000 (PRMX0004135D)](decret-n2000-459-du-29-mai-2000-prmx0004135d)
+- [Décret n°2000-1067 du 30 octobre 2000 (FPPA0010020D)](decret-n2000-1067-du-30-octobre-2000-fppa0010020d)
 - [Décret n°2001-1019 du 30 octobre 2001 (DEFP0101992D)](decret-n2001-1019-du-30-octobre-2001-defp0101992d)
 - [Décret n°2001-1132 du 30 novembre 2001 (ECOI0100363D)](decret-n2001-1132-du-30-novembre-2001-ecoi0100363d)
 - [Décret n°2001-1138 du 30 novembre 2001 (MENF0102310D)](decret-n2001-1138-du-30-novembre-2001-menf0102310d)
