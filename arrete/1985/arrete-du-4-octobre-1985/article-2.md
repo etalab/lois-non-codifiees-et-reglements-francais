@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur du budget et le directeur de l'Etablissement national des invalides de la marine sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les titulaires d'autorisations spéciales d'importation et de livraison à la consommation intérieure de produits dérivés du pétrole communiqueront au directeur des hydrocarbures, sur sa demande, tous les renseignements nécessaires à l'appréciation des conditions d'approvisionnement du réseau de vente par leurs soins.
