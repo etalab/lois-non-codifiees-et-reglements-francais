@@ -2,7 +2,7 @@
 
 Le comité de coordination hospitalo-universitaire institué par l'article 18 de la loi susvisée du 31 décembre 1970, comprend :
 
-I - POUR CHAQUE CENTRE HOSPITALIER ET UNIVERSITAIRE EN DEHORS DE PARIS ET DU CENTRE HOSPITALIER ET UNIVERSITAIRE de MONTPELLIER-NIMES.
+I - POUR CHAQUE CENTRE HOSPITALIER ET UNIVERSITAIRE EN DEHORS DE PARIS ET DU CENTRE HOSPITALIER ET UNIVERSITAIRE DE MONTPELLIER-NIMES
 
 A. Au titre hospitalier :
 
@@ -22,9 +22,9 @@ B. Au titre universitaire :
 
 - Le directeur de l'unité d'enseignement et de recherche pharmaceutique ou s'il n'existe qu'une unité d'enseignement et de recherche mixte médicale et pharmaceutique, un représentant du personnel enseignant de pharmacie, membre du conseil de cette unité ;
 
-- Le directeur de l'unité d'enseignement et de recherche odontologique.
+- Le directeur de l'unité d'enseignement et de recherche odontologique ;
 
-En l'absence d'unité d'enseignement et de recherche soit odontologique, soit pharmaceutique, soit mixte médicale et pharmaceutique, le nombre des représentants du conseil de l'unité d'enseignement et de recherche médicale ou des conseils des unités d'enseignement et de recherche médicales, sera augmenté en conséquence.
+- En l'absence d'unité d'enseignement et de recherche soit odontologique, soit pharmaceutique, soit mixte médicale et pharmaceutique, le nombre des représentants du conseil de l'unité d'enseignement et de recherche médicale ou des conseils des unités d'enseignement et de recherche médicales, sera augmenté en conséquence.
 
 II. POUR LE COMITE DE COORDINATION HOSPITALO-UNIVERSITAIRE DE PARIS
 
@@ -34,19 +34,23 @@ A. Au titre hospitalier :
 
 - Trois représentants de la commission médicale consultative du centre hospitalier régional de Paris, dont le président, les deux représentants autres que le président ne pouvant être présidents d'université ou directeurs d'unité d'enseignement et de recherche médicale ;
 
-- Le directeur général du centre hospitalier régional de Paris ;
+- Un représentant supplémentaire de la commission médicale consultative du centre hospitalier régional de Paris ;
+
+- Le directeur général du centre hospitalier régional de Paris
 
 - Deux représentants des syndicats interhospitaliers de secteur et des établissements assurant le service public hospitalier qui ont conclu, avec le centre hospitalier et universitaire de Paris, une convention en application de l'article 6 de l'ordonnance susvisée du 30 décembre 1958, désignés par les conseils d'administration des syndicats et établissements en cause.
 
 B. Au titre universitaire :
 
-1° Cinq représentants des conseils des unités d'enseignement et de recherche médicales, à savoir : les trois présidents des comités de coordination de l'enseignement médical des universités de Paris-V, Paris-VI et Paris-VII, les deux directeurs de chacune des unités d'enseignement et de recherche médicales des universités Paris-XI et Paris-XII ;
+1° Cinq représentants des conseils des unités d'enseignement et de recherche médicales, à savoir : les trois présidents des comités de coordination de l'enseignement médical des universités de Paris-V, Paris-VI et Paris-VII, les deux directeurs de chacune des unités d'enseignement et de recherche médicales des universités Paris-XI et Paris-XII.
 
-2° Un représentant des conseils des unités d'enseignement et de recherche pharmaceutiques ;
+Un représentant supplémentaire des unités d'enseignement et de recherche médicales à savoir le directeur de l'unité d'enseignement et de recherche médicale de l'université de Paris-XIII.
+
+2° Un représentant des conseils des unités d'enseignement et de recherche pharmaceutiques.
 
 3° Le directeur de l'unité d'enseignement et de recherche odontologique.
 
-III. POUR LE COMITE DE COORDINATION HOSPITALO-UNIVERSITAIRE DU CENTRE HOSPITALIER ET UNIVERSITAIRE de MONTPELLIER-NIMES
+III. POUR LE COMITE DE COORDINATION HOSPITALO-UNIVERSITAIRE DU CENTRE HOSPITALIER ET UNIVERSITAIRE DE MONTPELLIER-NIMES
 
 A. Au titre hospitalier :
 
