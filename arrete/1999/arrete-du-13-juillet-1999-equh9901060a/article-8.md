@@ -1,0 +1,3 @@
+# Article 8
+
+Les détenteurs d'un titre approprié et valide permettant l'exercice de fonctions visées à l'article 2 du présent arrêté autres que celles d'officier radioélectronicien ou d'opérateur des radiocommunications, sous réserve des dispositions du règlement des radiocommunications, peuvent être autorisés à servir à bord d'un navire français pendant une durée maximale de trois mois à compter de la date de demande de reconnaissance attestée par le récépissé, lorsque le pays ayant délivré lesdits titres a été reconnu par le comité de la sécurité maritime de l'Organisation maritime internationale comme ayant donné plein et entier effet à la convention internationale de 1978 susvisée.
