@@ -6,11 +6,11 @@ Les câbles des catégories CR 1-C 1 et CR 1-C 2 doivent faire l'objet d'un cert
 
 Les câbles de catégorie C 1 doivent faire l'objet :
 
-- soit d'un certificat de qualification tel que défini à l'alinéa précédent, se référant à la norme NF C 32-323 (ou norme Cenelec équivalente) ou à la norme NF C 32-131 (conforme au document d'harmonisation Cenelec pr HD 22-13 S 1) ;
+- soit d'un certificat de qualification tel que défini à l'alinéa précédent, se référant à la norme NF C 32-323 (ou norme Cenelec équivalente) ou à la norme NF C 32-131 ;
 
 - soit d'un procès-verbal de classement initial de type.
 
-Les câbles devant répondre aux dispositions de la norme NFC 32-072 (conforme au document d'harmonisation Cenelec HD 405-3 S 1) doivent faire l'objet d'un procès-verbal de classement initial de type.
+Les câbles devant répondre aux dispositions de la norme EN 50266 2 4 doivent faire l'objet d'un procès-verbal de classement initial de type.
 
 Le procès-verbal initial est délivré par un des laboratoires agréés visés à l'article 7, et reste valable pendant toute la durée de validité du certificat de qualification attaché au câble.
 

@@ -10,6 +10,7 @@
 - [Décret n°2001-12 du 4 janvier 2001 (MENF0003017D)](decret-n2001-12-du-4-janvier-2001-menf0003017d)
 - [Décret n°2001-13 du 4 janvier 2001 (MENF0003018D)](decret-n2001-13-du-4-janvier-2001-menf0003018d)
 - [Décret n°2001-14 du 4 janvier 2001 (MENF0003019D)](decret-n2001-14-du-4-janvier-2001-menf0003019d)
+- [Décret n°2001-15 du 4 janvier 2001 (INTX0000180D)](decret-n2001-15-du-4-janvier-2001-intx0000180d)
 - [Décret n°2001-8 du 4 janvier 2001 (MESS0023845D)](decret-n2001-8-du-4-janvier-2001-mess0023845d)
 - [Décret n°2001-9 du 4 janvier 2001 (MESS0023981D)](decret-n2001-9-du-4-janvier-2001-mess0023981d)
 - [Décret n°2002-467 du 4 avril 2002 (MENF0200335D)](decret-n2002-467-du-4-avril-2002-menf0200335d)
