@@ -2,6 +2,7 @@
 
 - [Article 1](article-1.md)
 - [Titre Ier : Dispositions relatives à l'installation et à l'équipement des établissements](titre-ier)
+- [Article 2](article-2.md)
 - [Titre II : Dispositions relatives à l'hygiène du fonctionnement](titre-ii)
 - [Titre III : Dispositions finales.](titre-iii)
 - [Article 26](article-26.md)
