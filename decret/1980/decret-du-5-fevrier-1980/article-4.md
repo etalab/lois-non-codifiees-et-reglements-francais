@@ -1,0 +1,9 @@
+# Article 4
+
+Electricité de France présentera au ministre de l'industrie pour chacune des tranches et au plus tard trois mois avant l'arrivée sur le site du premier assemblage combustible qui lui est destiné, un dossier permettant de s'assurer que des dispositions appropriées ont été prises pour ce qui concerne la sûreté du stockage et pour protéger le combustible contre tout sabotage ou toute tentative de détournement.
+
+Electricité de France présentera au ministre de l'industrie pour chacune des tranches, au plus tard six mois avant le premier chargement en combustible nucléaire de cette tranche, un rapport provisoire de sûreté comportant en particulier tous les éléments permettant de s'assurer que, compte tenu de la réalisation de la tranche concernée, les prescriptions de construction fixées à l'article 3 ont été respectées et que, compte tenu des règles générales d'exploitation qu'Electricité de France compte suivre pour les opérations de montée en puissance et de mise en service, ces opérations pourront être effectuées dans des conditions de sûreté satisfaisantes. Ces règles générales d'exploitation seront jointes au rapport provisoire de sûreté.
+
+Le premier chargement en combustible nucléaire de chacune des tranches ne pourra intervenir qu'après que le ministre de l'industrie aura donné son approbation au rapport provisoire de sûreté et aux règles générales d'exploitation et qu'auront été apportées, à sa demande, les modifications à l'installation et aux règles générales d'exploitation qu'il aura jugées nécessaires pour assurer la conformité de l'installation aux prescriptions du présent décret et pour que l'exploitation puisse être effectuée dans des conditions satisfaisantes de sûreté.
+
+Chaque réacteur sera considéré comme mis en exploitation, au sens de l'article 17 de la loi n° 75-1242 du 27 décembre 1975, deux mois après l'approbation prévue à l'alinéa ci-dessus.
