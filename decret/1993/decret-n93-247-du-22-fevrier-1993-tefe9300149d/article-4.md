@@ -8,4 +8,4 @@ L'aide du ministère du travail, de l'emploi et de la formation professionnelle 
 
 - autres financements publics acquis par l'entreprise.
 
-La moitié de cette aide est versée après la signature de la convention annuelle, le solde étant versé et ajusté à l'échéance de la convention au vu d'un rapport d'activité annuel.
+60 p. 100 de cette aide sont versés après la signature de la convention annuelle, le solde étant versé et ajusté à l'échéance de la convention au vu d'un rapport d'activité annuel.
