@@ -82,7 +82,6 @@
 - [Décret n°85-1236 du 22 novembre 1985](decret-n85-1236-du-22-novembre-1985)
 - [Décret n°85-260 du 22 février 1985](decret-n85-260-du-22-fevrier-1985)
 - [Décret n°85-261 du 22 février 1985](decret-n85-261-du-22-fevrier-1985)
-- [Décret n°85-1384 du 23 décembre 1985](decret-n85-1384-du-23-decembre-1985)
 - [Décret n°85-783 du 23 juillet 1985](decret-n85-783-du-23-juillet-1985)
 - [Décret du 24 décembre 1985](decret-du-24-decembre-1985)
 - [Décret n°84-135 du 24 février 1984](decret-n84-135-du-24-fevrier-1984)
