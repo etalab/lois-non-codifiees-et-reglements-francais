@@ -6,4 +6,4 @@ Le montant nominal des rachats de bons du Trésor en compte courant à taux fixe
 
 1 500 000 000 F de bons du Trésor en compte courant à taux fixe et intérêts annuels 8 % Mai 1998 ;
 
-2 000 000 000 écus de bons du Trésor en compte courant à taux fixe et intérêts annuels en écus 7,25 % Mars 1998.
+200 000 000 écus de bons du Trésor en compte courant à taux fixe et intérêts annuels en écus 7,25 % Mars 1998.
