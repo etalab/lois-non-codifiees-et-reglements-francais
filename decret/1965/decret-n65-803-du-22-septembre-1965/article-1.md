@@ -4,10 +4,14 @@ Les personnels visés au 1° de l'article 12 du décret susvisé n° 65-801 du 2
 
 Les membres de ce personnel sont groupés :
 
-1° Dans un corps de titulaires, professeurs des écoles nationales de chirurgie dentaire, qui sont en même temps odontologistes des services de consultations et de traitements dentaires.
+1° Dans deux corps de titulaires comprenant :
 
-La hiérarchie de ce corps comprend deux grades. Un décret pris sur le rapport du ministre de l'éducation nationale, du ministre de la santé publique et de la population, du ministre d'Etat chargé de la réforme administrative et du ministre des finances et des affaires économiques fixera la répartition des effectifs entre ces deux grades.
+a) Le corps des professeurs de catégorie exceptionnelle de chirurgie dentaire - odontologistes des services de consultations et de traitements dentaires.
 
-Les professeurs des écoles nationales de chirurgie dentaire peuvent être chargés des fonctions de chef de département des écoles nationales de chirurgie dentaire.
+b) Le corps des professeurs du premier et deuxième grade de chirurgie dentaire - odontologistes des services de consultations et de traitements dentaires.
 
-2° Dans un cadre de temporaires comprenant des assistants des écoles nationales de chirurgie dentaire qui sont en même temps odontologistes assistants des services de consultations et de traitements dentaires.
+La répartition des effectifs entre les corps et grades ci-dessus est fixée par décret pris sur le rapport du ministre de l'éducation nationale, du ministre de la santé publique et de la sécurité sociale et du ministre des finances.
+
+Les professeurs titulaires de chirurgie dentaire - odontologistes des services de consultations et de traitements dentaires peuvent être chargés des fonctions de chef de section d'enseignement des unités d'enseignement et de recherche odontologiques.
+
+2° Dans un cadre temporaire comprenant des assistants de chirurgie dentaire qui sont en même temps odontologistes assistants des services de consultations et de traitements dentaires.
