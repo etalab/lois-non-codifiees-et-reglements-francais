@@ -67,3 +67,5 @@ Titre d'ancien élève de l'école militaire du corps technique et administratif
 Diplôme d'Etat d'éducateur de jeunes enfants.
 
 Diplôme d'Etat de psychorééducateur.
+
+Admission dans les centres de formation préparant au diplôme d'Etat d'assistant de service social à compter du 1er janvier 1981.
