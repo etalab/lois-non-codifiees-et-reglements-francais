@@ -1,23 +1,3 @@
 # Article 2
 
-La liste des aménagements, équipements et accessoires de voitures automobiles non soumis au taux majoré de la taxe sur la valeur ajoutée prévu par les articles 281 du code général des impôts et 89 (4°) de l'annexe III à ce code en vertu de l'article 3-III de la loi susvisée est fixée comme suit :
-
-Siège orthopédique pivotant ;
-
-Fauteuil roulant spécial ;
-
-Rampes pour l'accès de fauteuils pour handicapés ;
-
-Cercle accélérateur ;
-
-Accélérateur à main ;
-
-Frein principal à main ;
-
-Frein de secours à main gauche ;
-
-Boule au volant ;
-
-Permutation des pédales ;
-
-Sélecteur de vitesses sur planche de bord.
+Ce comité a pour mission d'examiner les causes des difficultés d'adaptation de certaines entreprises industrielles à leur environnement et de susciter, des partenaires existants ou potentiels de ces entreprises, l'élaboration et la mise en oeuvre des mesures industrielles, sociales et financières visant à assurer leur redressement, le maintien d'emplois durables et leur contribution au développement économique ou, à défaut, de provoquer la mise au point de mesures de reconversion.
