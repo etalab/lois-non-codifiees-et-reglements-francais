@@ -679,7 +679,6 @@
 - [Décret du 23 septembre 1999 (ECOC9900058D)](decret-du-23-septembre-1999-ecoc9900058d)
 - [Décret du 23 septembre 1999 (ECOC9900119D)](decret-du-23-septembre-1999-ecoc9900119d)
 - [Décret n°70-1285 du 23 décembre 1970](decret-n70-1285-du-23-decembre-1970)
-- [Décret n°98-1052 du 23 novembre 1998 (PRMX9803131D)](decret-n98-1052-du-23-novembre-1998-prmx9803131d)
 - [Décret n°98-649 du 23 juillet 1998 (MESG9821968D)](decret-n98-649-du-23-juillet-1998-mesg9821968d)
 - [Décret n°99-129 du 23 février 1999 (INTM9900005D)](decret-n99-129-du-23-fevrier-1999-intm9900005d)
 - [Décret n°99-135 du 23 février 1999 (INTM9900030D)](decret-n99-135-du-23-fevrier-1999-intm9900030d)
