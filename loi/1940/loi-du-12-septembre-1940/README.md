@@ -1,5 +1,6 @@
 # Loi du 12 septembre 1940 sur le financement des fabrications de démarrage faisant l'objet de lettres d'agrément
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
