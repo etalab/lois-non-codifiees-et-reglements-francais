@@ -55,7 +55,6 @@
 - [Arrêté du 2 mars 1999 (EQUK9900339A)](arrete-du-2-mars-1999-equk9900339a)
 - [Arrêté du 2 octobre 1992 (DEFC9201754A)](arrete-du-2-octobre-1992-defc9201754a)
 - [Arrêté du 2 septembre 1999 (AGRG9901850A)](arrete-du-2-septembre-1999-agrg9901850a)
-- [Arrêté du 2 septembre 1999 (MENR9901902A)](arrete-du-2-septembre-1999-menr9901902a)
 - [Arrêté du 3 août 1999 (ECOT9991108A)](arrete-du-3-aout-1999-ecot9991108a)
 - [Arrêté du 3 août 1999 (INTE9900394A)](arrete-du-3-aout-1999-inte9900394a)
 - [Arrêté du 3 août 1999 (INTE9900396A)](arrete-du-3-aout-1999-inte9900396a)
