@@ -57,3 +57,31 @@ Agent chargé de fonctions d'accueil.
 Agent chargé d'encadrer des personnels d'exécution.
 
 Agent spécialisé, chargé de fonctions techniques.
+
+Agent exerçant des fonctions de gestion budgétaire et comptable.
+
+Agent responsable de classement et de gestion d'archives.
+
+Agent chargé de fonctions d'accueil.
+
+Agent chargé d'encadrer des personnels d'exécution.
+
+Agent spécialisé, chargé de fonctions techniques.
+
+Agent spécialisé dans la saisie informatique.
+
+Agent chargé de la coordination comptable.
+
+Chef d'une division à caractère technique.
+
+Chef de centre chargé des transmissions diplomatiques.
+
+Chef de bureau dans une direction de gestion.
+
+Formateur.
+
+Agent chargé de dossiers techniques.
+
+Chef d'atelier.
+
+Agent d'encadrement coordonnateur.
