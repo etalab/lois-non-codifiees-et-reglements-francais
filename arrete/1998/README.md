@@ -47,6 +47,7 @@
 - [Arrêté du 2 mars 1998 (MCCI9800216A)](arrete-du-2-mars-1998-mcci9800216a)
 - [Arrêté du 2 mars 1998 (MESA9820855A)](arrete-du-2-mars-1998-mesa9820855a)
 - [Arrêté du 2 mars 1998 (MESF9810297A)](arrete-du-2-mars-1998-mesf9810297a)
+- [Arrêté du 2 octobre 1998 (MESS9823205A)](arrete-du-2-octobre-1998-mess9823205a)
 - [Arrêté du 2 septembre 1998 (ECOB9830008A)](arrete-du-2-septembre-1998-ecob9830008a)
 - [Arrêté du 2 septembre 1998 (ECOT9826214A)](arrete-du-2-septembre-1998-ecot9826214a)
 - [Arrêté du 3 août 1998 (DEFT9801842A)](arrete-du-3-aout-1998-deft9801842a)
