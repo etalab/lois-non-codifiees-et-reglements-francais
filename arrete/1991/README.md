@@ -504,6 +504,7 @@
 - [Arrêté du 28 juin 1991 (SANH9101456A)](arrete-du-28-juin-1991-sanh9101456a)
 - [Arrêté du 28 juin 1991 (SANS9101444A)](arrete-du-28-juin-1991-sans9101444a)
 - [Arrêté du 28 juin 1991 (SPSS9101374A)](arrete-du-28-juin-1991-spss9101374a)
+- [Arrêté du 28 juin 1991 (SPSS9101539A)](arrete-du-28-juin-1991-spss9101539a)
 - [Arrêté du 28 mars 1991 (BUDZ9100003A)](arrete-du-28-mars-1991-budz9100003a)
 - [Arrêté du 28 mars 1991 (JUSB9110049A)](arrete-du-28-mars-1991-jusb9110049a)
 - [Arrêté du 28 mars 1991 (JUSB9110050A)](arrete-du-28-mars-1991-jusb9110050a)
