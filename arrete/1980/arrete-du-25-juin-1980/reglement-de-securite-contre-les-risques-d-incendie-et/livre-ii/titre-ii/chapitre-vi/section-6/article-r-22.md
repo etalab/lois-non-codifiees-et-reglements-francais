@@ -1,17 +1,11 @@
 # Article R 22
 
-Ventilation des locaux à pollution spécifique
+Ventilation
 
-En application des dispositions de l'article GZ 21 (§ 2), la ventilation des locaux dans lesquels sont installés des appareils de combustion doit être assurée dans les conditions suivantes :
+§ 1. Aucune exigence de réaction au feu n'est demandée aux conduits d'extraction d'air des sorbonnes des salles d'enseignement scientifique. Toutefois, ces conduits doivent être placés dans une gaine respectant le degré de résistance au feu des parois traversées.
 
-a) Cuisines des libre-service :
+§ 2. En application des dispositions de l'article GZ 21 (§ 2), la ventilation des salles de travaux pratiques à caractère scientifique comportant du gaz doit être réalisée mécaniquement et conformément aux dispositions de l'article GZ 21 (§ 1). Cette ventilation peut être indépendante par salle.
 
-Il est fait application des dispositions de l'article R 29 ;
+§ 3. Les installations spécifiques de ventilation des locaux et ateliers d'enseignement technique ne sont pas visées par les dispositions du chapitre V, titre Ier, du livre II. Toutefois, ces installations doivent être compatibles avec les matériels supports pédagogiques.
 
-b) Salles d'enseignement comportant du gaz.
-
-La ventilation des salles de travaux pratiques à caractère scientifique est assurée mécaniquement et conformément aux dispositions de l'article GZ 21 (§ 1).
-
-La ventilation des salles d'enseignement à caractère ménager est assurée mécaniquement à raison de 15 litres par seconde par occupant.
-
-Dans les deux cas prévus au b, cette ventilation peut être indépendante par salle.
+Leurs conduits doivent être placés dans des gaines respectant le degré de résistance au feu des parois traversées.

@@ -2,18 +2,18 @@
 
 Domaine d'application
 
-En application de l'article DF 3 :
+§ 1. Les établissements visés au présent chapitre sont de la classe 1 pour la détermination du coefficient au sens de l'annexe de l'instruction technique 246.
 
-§ 1. Dans les bâtiments comportant un étage sur rez-de-chaussée, seuls les escaliers desservant les locaux réservés au sommeil doivent être désenfumés.
+§ 2. En complément des articles DF 6 et DF 7 :
 
-§ 2. Le désenfumage des bâtiments de plus d'un étage sur rez-de-chaussée, comportant des locaux réservés au sommeil ou des locaux à risques particuliers, doit être réalisé :
+- aucun désenfumage des circulations horizontales encloisonnées n'est imposé dans les bâtiments comportant au plus un étage sur rez-de-chaussée ;
 
-- par la mise à l'abri des fumées ou le désenfumage des circulations.
+- le désenfumage des bâtiments comportant plus d'un étage sur rez-de-chaussée et ne comportant pas de locaux réservés au sommeil peut être réalisé par le désenfumage de tous les locaux accessibles au public, quelle que soit leur superficie, à l'exception des sanitaires ;
 
-§ 3. Le désenfumage des sous-sols accessibles au public, et celui des bâtiments ayant plus d'un étage sur rez-de-chaussée, ne comportant ni locaux réservés au sommeil ni locaux à risques particuliers, doit être réalisé :
+- dans tous les cas, le désenfumage des circulations horizontales des sous-sols est exigible.
 
-- soit par le désenfumage de tous les locaux ;
+§ 3. Le désenfumage des locaux de superficie inférieure à 300 mètres carrés peut être réalisé à partir des fenêtres, dans les conditions prévues au paragraphe 3.9 de l'IT 246.
 
-- soit par la mise à l'abri des fumées ou le désenfumage des circulations.
+§ 4. En aggravation de l'article DF 6, dans les bâtiments de plus d'un étage sur rez-de-chaussée comportant des locaux réservés au sommeil, le désenfumage de l'ensemble des circulations horizontales encloisonnées du bâtiment doit être réalisé.
 
-§ 4. Si le système d'alarme n'est pas du type 1, les commandes des systèmes de désenfumage ne sont pas obligatoirement automatiques.
+§ 5. Dans le cas d'un bâtiment équipé d'un SSI de catégorie A, le désenfumage des circulations horizontales des bâtiments comprenant des locaux à sommeil doit être commandé automatiquement à partir d'une information délivrée par la détection incendie située dans ces circulations.

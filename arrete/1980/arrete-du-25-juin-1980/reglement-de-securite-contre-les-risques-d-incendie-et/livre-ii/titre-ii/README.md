@@ -8,7 +8,7 @@ Restaurants et débits de boissons](chapitre-iii)
 Hôtels et pensions de famille.](chapitre-iv)
 - [Chapitre V : Etablissements du type P - 
 Salles de danse et salles de jeux](chapitre-v)
-- [Chapitre VI : Etablissements du type R, Etablissements d'enseignement, colonies de vacances](chapitre-vi)
+- [Chapitre VI : Etablissements du type R, Etablissements d'éveil, d'enseignement, de formation, centres de vacances, centres de loisirs sans hébergement](chapitre-vi)
 - [Chapitre VII : Etablissements du type S - 
 Bibliothèques, centres de documentation
 et de consultation d'archives](chapitre-vii)

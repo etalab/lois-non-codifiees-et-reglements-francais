@@ -1,5 +1,5 @@
 # Article R 7
 
-Règles parasismiques
+Locaux d'enseignement comprenant des installations d'enseignement technique
 
-En aggravation des dispositions de l'article CO 11 (§ 4), la construction des bâtiments relevant des deux premiers tirets de l'article R 1 doit être réalisée conformément aux dispositions des règles parasismiques.
+Les locaux d'enseignement utilisant des installations techniques qui ne fonctionnent que pendant les heures de cours et ne peuvent être utilisées à d'autres fins que la formation sont considérés pour l'application du présent règlement comme des salles de cours.

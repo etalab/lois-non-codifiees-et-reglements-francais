@@ -2,6 +2,6 @@
 
 Conditions particulières d'exploitation
 
-Lorsqu'ils ne sont pas utilisés pour les besoins du service auquel ils sont affectés, les locaux et les dépendances des établissements d'enseignement peuvent être mis à la disposition des personnes morales de droit public ou privé qui désirent y organiser des activités à caractère culturel, social ou socio-éducatif ; ces activités doivent être compatibles avec la nature des installations, l'aménagement des locaux et le bon fonctionnement du service.
+Lorsqu'ils ne sont pas utilisés pour les besoins du service auquel ils sont affectés, les locaux et les dépendances des établissements d'enseignement peuvent être mis à la disposition des personnes morales de droit public ou privé qui désirent y organiser des activités à caractère culturel, social ou socio-éducatif. Ces activités doivent être compatibles avec les conditions de sécurité offertes par l'application des dispositions du présent chapitre.
 
-Dans ce cas, et sur avis de la commission de sécurité, l'autorité responsable doit arrêter les conditions d'exploitation propres aux activités engagées.
+L'effectif maximal des personnes admises doit alors être déterminé en fonction du nombre réel d'unités de passage et de dégagements tels que définis aux articles CO 36 et CO 38.

@@ -1,5 +1,5 @@
 # Article R 9
 
-Patios et puits de lumière
+Volumes libres intérieurs
 
-Les patios et les puits de lumière doivent être réalisés conformément aux dispositions de l'instruction technique n° 263 .
+Les volumes libres intérieurs doivent être réalisés conformément aux dispositions de l'instruction technique n° 263.

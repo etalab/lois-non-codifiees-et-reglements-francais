@@ -2,8 +2,4 @@
 
 Largeur des dégagements
 
-En atténuation aux dispositions de l'article CO 36, la largeur type de l'unité de passage, servant de base au calcul de la largeur de dégagements de trois unités et plus, est ramenée de 0,60 mètre à 0,50 mètre.
-
-Toutefois, cette atténuation n'est pas applicable dans les établissements destinés à l'enseignement supérieur, à l'enseignement pour adultes ou à l'instruction d'enfants handicapés, ni aux parties des établissements techniques présentant des dangers spéciaux ou soumises à une réglementation particulière visée à l'article R 123-9 du code de la construction et de l'habitation.
-
-Par ailleurs, lors de l'accueil des personnes visées au premier alinéa de l'article R 3, l'effectif maximal des personnes admises doit être déterminé dans les conditions précisées à cet article et en fonction du nombre réel d'unités de passage et de dégagements tels que définis aux articles Co 36 et CO 38.
+En atténuation du premier alinéa du paragraphe 2 de l'article GN 10, les dégagements de trois unités et plus des établissements, réalisés avant la date de publication du présent arrêté, dont l'unité de passage a été ramenée de 0,60 à 0,50 mètre, conservent le bénéfice de cette atténuation lors des travaux d'aménagement, d'agrandissement ou de réhabilitation portant sur ces mêmes dégagements.

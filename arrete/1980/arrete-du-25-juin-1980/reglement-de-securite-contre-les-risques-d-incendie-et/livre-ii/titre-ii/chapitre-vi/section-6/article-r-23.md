@@ -1,7 +1,5 @@
 # Article R 23
 
-Ventilation transversale
+Installations pédagogiques
 
-La ventilation transversale n'est tolérée que si le passage de l'air s'effectue sous les portes.
-
-Dans le cas où un dispositif mécanique est utilisé pour assurer cette ventilation, sa commande locale doit être manuelle.
+Les installations de production de chaleur ou de froid destinées à l'enseignement ou à la recherche ne sont pas visées par les dispositions du chapitre V, titre Ier, du livre II.
