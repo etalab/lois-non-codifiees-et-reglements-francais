@@ -120,6 +120,7 @@
 - [Arrêté du 8 février 1989 (SPSS8900248A)](arrete-du-8-fevrier-1989-spss8900248a)
 - [Arrêté du 8 février 1989 (TEFT8903154A)](arrete-du-8-fevrier-1989-teft8903154a)
 - [Arrêté du 8 juin 1989 (MENL8900268A)](arrete-du-8-juin-1989-menl8900268a)
+- [Arrêté du 8 septembre 1989 (JUSB8910270A)](arrete-du-8-septembre-1989-jusb8910270a)
 - [Arrêté du 8 septembre 1989 (RESY8900319A)](arrete-du-8-septembre-1989-resy8900319a)
 - [Arrêté du 9 août 1978](arrete-du-9-aout-1978)
 - [Arrêté du 9 août 1989 (AGRS8901585A)](arrete-du-9-aout-1989-agrs8901585a)
