@@ -1,7 +1,9 @@
 # Article 5
 
-L'appellation contrôlée susvisée n'est applicable que dans la limite d'un rendement de 28 hectolitres de moûts à l'hectare.
+Lorsque le rendement des parcelles dont proviennent les raisins dépasse 40 hectolitres de moût à l'hectare, le producteur perd le droit à l'élaboration en vin doux naturel pour quelque proportion que ce soit de la récolte de ces parcelles.
 
-Les quantités excédentaires seront déclassées. Toutefois, des dérogations individuelles peuvent être accordées par l'Institut national des appellations d'origine après vérification de la qualité de la récolte et des conditions de production.
+L'appellation d'origine susvisée n'est applicable que dans la limite de 28 hectolitres de moût par hectare de vigne en production.
 
-Les jeunes vignes ne peuvent entrer dans le décompte de la surface plantée qu'à partir de la quatrième feuille après greffage sur place et après mise en place des racinés-greffés.
+Cette limite peut être modifiée chaque année suivant la quantité et la qualité de la récolte, par décision du comité directeur de l'institut national des appellations d'origine des vins et eaux-de-vie, homologuée par arrêté du ministre de l'agriculture après consultation d'une commission de cinq membres nommés par l'institut national des appellations d'origine sur la proposition du syndicat de défense le plus représentatif de l'appellation contrôlée en cause, adoptée par une assemblée générale dudit syndicat. Les augmentations de rendement de base ne sont accordées qu'en année exceptionnelle où qualité et quantité se présentent simultanément.
+
+Les quantités excédentaires sont déclassées. Toutefois, des dérogations individuelles peuvent être accordées par l'institut national des appellations d'origine après vérification de la qualité de la récolte et des conditions de production. Les demandes devront être présentées avant le début des vendanges.

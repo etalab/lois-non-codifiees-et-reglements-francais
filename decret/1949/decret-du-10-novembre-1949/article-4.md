@@ -1,13 +1,13 @@
 # Article 4
 
-Les vins ayant droit à l'appellation susvisée devront être vinifiés selon l'une des méthodes suivantes, donnant toutes un degré alcoolique minimum de 15° d'alcool acquis et laissant subsister la quantité minimum de sucre naturel par litre précisée ci-après :
+Les vins bénéficiant de l'appellation contrôlée susvisée devront être obtenus avec des moûts possédant obligatoirement une richesse naturelle initiale en sucre de 252 grammes au minimum par litre, dans lesquels a été fait, en cours de fermentation, un apport évalué en alcool pur de 5 p. 100 au minimum et de 10 p. 100 au maximum du volume des moûts, à l'aide d'alcool titrant au moins 95°.
 
-1° Vins doux naturels.
+Les vins faits devront titrer une richesse minimum en alcool acquis de 15° et contenir au moins 125 grammes de sucre par litre.
 
-Vins obtenus avec des moûts possédant obligatoirement une richesse en sucre correspondante à 14° d'alcool en puissance et dans lesquels a été fait en cours de fermentation un apport de 5 p. 100 au minimum et de 10 p. 100 au maximum d'alcool titrant au moins 90°, donnant aux vins faits un minimum de 15° en présence d'un excès minimum de sucre naturel de 125 grammes par litre ;
+Les opérations de mutage doivent être effectuées avant le 31 décembre de l'année de récolte des moûts.
 
-2° Vins de liqueur.
+Toutefois, des compléments de mutage pourront être autorisés ou ordonnés par le service de la répression des fraudes dans la limite d'une addition totale de 10 p. 100 d'alcool pur, avant la délivrance du certificat prévu à l'article 6 du présent décret.
 
-Vins obtenus avec des moûts possédant obligatoirement une richesse en sucre correspondante à 13° d'alcool en puissance et dans lesquels a été fait avant toute fermentation un apport de 15° en volume d'alcool conservant aux vins la totalité du sucre naturel du moût, cette quantité ne pouvant être inférieure à 185 grammes par litre.
+Toute opération d'enrichissement autre que le mutage et les compléments de mutage dans les conditions visées ci-dessus, et spécialement toute opération de chaptalisation, concentration ou congélation même dans les limites légales est interdite sous peine de faire perdre le droit à l'appellation contrôlée pour le vin sur lequel elle aurait été pratiquée.
 
-Toute opération d'enrichissement autre que le mutage dans les conditions visées ci-dessus et spécialement toute opération de chaptalisation, concentration ou congélation, même dans les limites légales, est interdite, sous peine de perte du droit à l'appellation contrôlée pour le vin sur lequel elle aurait été pratiquée.
+Les vendanges des jeunes vignes ne pourront servir à l'élaboration du vin à appellation contrôlée "Muscat de Saint-Jean-de-Minervois" qu'à partir de la quatrième feuille du greffon (celle-ci comprise) après greffage sur place ou après mise en place des racinés-greffés.
