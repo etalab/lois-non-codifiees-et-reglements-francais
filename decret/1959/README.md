@@ -4,6 +4,7 @@
 - [Décret n°59-39 du 2 janvier 1959](decret-n59-39-du-2-janvier-1959)
 - [Décret n°59-210 du 3 février 1959](decret-n59-210-du-3-fevrier-1959)
 - [Décret n°59-790 du 3 juillet 1959](decret-n59-790-du-3-juillet-1959)
+- [Décret n°59-805 du 4 juillet 1959](decret-n59-805-du-4-juillet-1959)
 - [Décret n°59-36 du 5 janvier 1959](decret-n59-36-du-5-janvier-1959)
 - [Décret n°59-601 du 5 mai 1959](decret-n59-601-du-5-mai-1959)
 - [Décret n°59-602 du 5 mai 1959](decret-n59-602-du-5-mai-1959)
