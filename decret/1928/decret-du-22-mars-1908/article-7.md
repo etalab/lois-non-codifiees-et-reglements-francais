@@ -1,9 +1,5 @@
 # Article 7
 
-Les architectes en chef sont nommés par arrêté ministériel, après avis du comité consultatif. Sauf le cas de construction d'un édifice qui a fait l'objet d'un concours public, ils doivent être choisis parmi les architectes ordinaires ou anciens architectes ordinaires des bâtiments civils et des palais nationaux, ou exceptionnellement parmi les architectes étrangers à ce service qui ont fait partie pendant deux ans du conseil général des bâtiments civils.
-
-A défaut de candidats remplissant ces conditions, ils sont pris parmi les architectes diplômés par le Gouvernement, après examen de leurs titres par le comité consultatif.
-
 Les architectes en chef peuvent être chargés de plusieurs monuments.
 
 Ils sont rétribués au moyen d'honoraires calculés conformément aux dispositions de l'article 10 du présent décret.
