@@ -1,6 +1,6 @@
 # Article 1
 
-Les tarifs fixés par l'article premier de l'arrêté du 30 avril 1985 sont modifiés comme suit :
+Les tarifs fixés par l'article premier de l'arrêté du 7 mai 1986 sont modifiés comme suit :
 
 <table>
 <tr>
@@ -16,31 +16,52 @@ Les tarifs fixés par l'article premier de l'arrêté du 30 avril 1985 sont modi
 <td> : a) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : Hébergement          41,25  :</td>
+<td> :  - externe           178,90 :</td>
 </tr>
 <tr>
-<td> :  Nourriture :               :</td>
+<td> : b) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : 2 repas 18,30 X 2    36,60  :</td>
+<td> :  - demi-pensionnaire        :</td>
 </tr>
 <tr>
-<td> : Petit déjeuner        5,65  :</td>
+<td> : Frais de rééducation 178,90 :</td>
+</tr>
+<tr>
+<td> : 1 repas               21,05 :</td>
 </tr>
 <tr>
 <td> :                     ------- :</td>
 </tr>
 <tr>
-<td> :  Total               83,50  :</td>
+<td> :   Total              199,95 :</td>
 </tr>
 <tr>
-<td> :                             :</td>
+<td> : c) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : b) Frais de rééducation     :</td>
+<td> : - interne                   :</td>
 </tr>
 <tr>
-<td> :    proprement dits  124,90  :</td>
+<td> : Frais de rééducation 178,90 :</td>
+</tr>
+<tr>
+<td> : Hébergement           59,10 :</td>
+</tr>
+<tr>
+<td> :  Nourriture :               :</td>
+</tr>
+<tr>
+<td> : 2 repas 21,05 X 2     42,10 :</td>
+</tr>
+<tr>
+<td> : Petit déjeuner         8,10 :</td>
+</tr>
+<tr>
+<td> :                     ------- :</td>
+</tr>
+<tr>
+<td> :  Total               288,20 :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -61,31 +82,52 @@ Les tarifs fixés par l'article premier de l'arrêté du 30 avril 1985 sont modi
 <td> : a) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : Hébergement          57,30  :</td>
+<td> :  - externe           190,70 :</td>
 </tr>
 <tr>
-<td> :  Nourriture :               :</td>
+<td> : b) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : 2 repas 23,00 X 2    46,00  :</td>
+<td> :  - demi-pensionnaire        :</td>
 </tr>
 <tr>
-<td> : Petit déjeuner        6,30  :</td>
+<td> : Frais de rééducation 190,70 :</td>
+</tr>
+<tr>
+<td> : 1 repas               26,45 :</td>
 </tr>
 <tr>
 <td> :                     ------- :</td>
 </tr>
 <tr>
-<td> :  Total              109,60  :</td>
+<td> :   Total              217,15 :</td>
 </tr>
 <tr>
-<td> :                             :</td>
+<td> : c) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : b) Frais de rééducation     :</td>
+<td> : - interne                   :</td>
 </tr>
 <tr>
-<td> :    proprement dits  133,15  :</td>
+<td> : Frais de rééducation 190,70 :</td>
+</tr>
+<tr>
+<td> : Hébergement           82,05 :</td>
+</tr>
+<tr>
+<td> :  Nourriture :               :</td>
+</tr>
+<tr>
+<td> : 2 repas 26,45 X 2     52,90 :</td>
+</tr>
+<tr>
+<td> : Petit déjeuner         9,05 :</td>
+</tr>
+<tr>
+<td> :                     ------- :</td>
+</tr>
+<tr>
+<td> :  Total               334,70 :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -106,31 +148,52 @@ Les tarifs fixés par l'article premier de l'arrêté du 30 avril 1985 sont modi
 <td> : a) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : Hébergement          57,55  :</td>
+<td> :  - externe           183,20 :</td>
 </tr>
 <tr>
-<td> :  Nourriture :               :</td>
+<td> : b) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : 2 repas 21,45 X 2    42,90  :</td>
+<td> :  - demi-pensionnaire        :</td>
 </tr>
 <tr>
-<td> : Petit déjeuner        6,10  :</td>
+<td> : Frais de rééducation 183,20 :</td>
+</tr>
+<tr>
+<td> : 1 repas               25,55 :</td>
 </tr>
 <tr>
 <td> :                     ------- :</td>
 </tr>
 <tr>
-<td> :  Total              106,55  :</td>
+<td> :   Total              208,75 :</td>
 </tr>
 <tr>
-<td> :                             :</td>
+<td> : c) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : b) Frais de rééducation     :</td>
+<td> : - interne                   :</td>
 </tr>
 <tr>
-<td> :    proprement dits  127,90  :</td>
+<td> : Frais de rééducation 183,20 :</td>
+</tr>
+<tr>
+<td> : Hébergement           83,60 :</td>
+</tr>
+<tr>
+<td> :  Nourriture :               :</td>
+</tr>
+<tr>
+<td> : 2 repas 25,55 X 2     51,10 :</td>
+</tr>
+<tr>
+<td> : Petit déjeuner         8,75 :</td>
+</tr>
+<tr>
+<td> :                     ------- :</td>
+</tr>
+<tr>
+<td> :  Total               326,65 :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -151,31 +214,52 @@ Les tarifs fixés par l'article premier de l'arrêté du 30 avril 1985 sont modi
 <td> : a) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : Hébergement          45,95  :</td>
+<td> :  - externe           189,55 :</td>
 </tr>
 <tr>
-<td> :  Nourriture :               :</td>
+<td> : b) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : 2 repas 22,35 X 2    44,70  :</td>
+<td> :  - demi-pensionnaire        :</td>
 </tr>
 <tr>
-<td> : Petit déjeuner        5,95  :</td>
+<td> : Frais de rééducation 189,55 :</td>
+</tr>
+<tr>
+<td> : 1 repas               23,80 :</td>
 </tr>
 <tr>
 <td> :                     ------- :</td>
 </tr>
 <tr>
-<td> :  Total               96,60  :</td>
+<td> :   Total              213,55 :</td>
 </tr>
 <tr>
-<td> :                             :</td>
+<td> : c) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : b) Frais de rééducation     :</td>
+<td> : - interne                   :</td>
 </tr>
 <tr>
-<td> :    proprement dits  132,35  :</td>
+<td> : Frais de rééducation 189,55 :</td>
+</tr>
+<tr>
+<td> : Hébergement           65,80 :</td>
+</tr>
+<tr>
+<td> :  Nourriture :               :</td>
+</tr>
+<tr>
+<td> : 2 repas 23,80 X 2     47,60 :</td>
+</tr>
+<tr>
+<td> : Petit déjeuner         8,50 :</td>
+</tr>
+<tr>
+<td> :                     ------- :</td>
+</tr>
+<tr>
+<td> :  Total               311,45 :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -196,31 +280,52 @@ Les tarifs fixés par l'article premier de l'arrêté du 30 avril 1985 sont modi
 <td> : a) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : Hébergement          58,95  :</td>
+<td> :  - externe           180,40 :</td>
 </tr>
 <tr>
-<td> :  Nourriture :               :</td>
+<td> : b) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : 2 repas 22,35 X 2    46,70  :</td>
+<td> :  - demi-pensionnaire        :</td>
 </tr>
 <tr>
-<td> : Petit déjeuner        6,30  :</td>
+<td> : Frais de rééducation 180,40 :</td>
+</tr>
+<tr>
+<td> : 1 repas               29,55 :</td>
 </tr>
 <tr>
 <td> :                     ------- :</td>
 </tr>
 <tr>
-<td> :  Total              111,95  :</td>
+<td> :   Total              209,95 :</td>
 </tr>
 <tr>
-<td> :                             :</td>
+<td> : c) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : b) Frais de rééducation     :</td>
+<td> : - interne                   :</td>
 </tr>
 <tr>
-<td> :    proprement dits  125,95  :</td>
+<td> : Frais de rééducation 180,40 :</td>
+</tr>
+<tr>
+<td> : Hébergement           84,45 :</td>
+</tr>
+<tr>
+<td> :  Nourriture :               :</td>
+</tr>
+<tr>
+<td> : 2 repas 29,55 X 2     59,10 :</td>
+</tr>
+<tr>
+<td> : Petit déjeuner         9,05 :</td>
+</tr>
+<tr>
+<td> :                     ------- :</td>
+</tr>
+<tr>
+<td> :  Total               333,00 :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -241,31 +346,52 @@ Les tarifs fixés par l'article premier de l'arrêté du 30 avril 1985 sont modi
 <td> : a) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : Hébergement          35,80  :</td>
+<td> :  - externe           159,20 :</td>
 </tr>
 <tr>
-<td> :  Nourriture :               :</td>
+<td> : b) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : 2 repas 22,70 X 2    45,40  :</td>
+<td> :  - demi-pensionnaire        :</td>
 </tr>
 <tr>
-<td> : Petit déjeuner        6,05  :</td>
+<td> : Frais de rééducation 159,20 :</td>
+</tr>
+<tr>
+<td> : 1 repas               27,45 :</td>
 </tr>
 <tr>
 <td> :                     ------- :</td>
 </tr>
 <tr>
-<td> :  Total               87,25  :</td>
+<td> :   Total              186,65 :</td>
 </tr>
 <tr>
-<td> :                             :</td>
+<td> : c) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : b) Frais de rééducation     :</td>
+<td> : - interne                   :</td>
 </tr>
 <tr>
-<td> :    proprement dits  111,15  :</td>
+<td> : Frais de rééducation 159,20 :</td>
+</tr>
+<tr>
+<td> : Hébergement           51,30 :</td>
+</tr>
+<tr>
+<td> :  Nourriture :               :</td>
+</tr>
+<tr>
+<td> : 2 repas 27,45 X 2     54,90 :</td>
+</tr>
+<tr>
+<td> : Petit déjeuner         8,65 :</td>
+</tr>
+<tr>
+<td> :                     ------- :</td>
+</tr>
+<tr>
+<td> :  Total               274,05 :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -286,31 +412,52 @@ Les tarifs fixés par l'article premier de l'arrêté du 30 avril 1985 sont modi
 <td> : a) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : Hébergement          40,05  :</td>
+<td> :  - externe           154,05 :</td>
 </tr>
 <tr>
-<td> :  Nourriture :               :</td>
+<td> : b) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : 2 repas 18,50 X 2    37,00  :</td>
+<td> :  - demi-pensionnaire        :</td>
 </tr>
 <tr>
-<td> : Petit déjeuner        5,85  :</td>
+<td> : Frais de rééducation 154,05 :</td>
+</tr>
+<tr>
+<td> : 1 repas               17,65 :</td>
 </tr>
 <tr>
 <td> :                     ------- :</td>
 </tr>
 <tr>
-<td> :  Total               82,90  :</td>
+<td> :   Total              171,70 :</td>
 </tr>
 <tr>
-<td> :                             :</td>
+<td> : c) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : b) Frais de rééducation     :</td>
+<td> : - interne                   :</td>
 </tr>
 <tr>
-<td> :    proprement dits  107,55  :</td>
+<td> : Frais de rééducation 154,05 :</td>
+</tr>
+<tr>
+<td> : Hébergement           57,35 :</td>
+</tr>
+<tr>
+<td> :  Nourriture :               :</td>
+</tr>
+<tr>
+<td> : 2 repas 17,65 X 2     35,30 :</td>
+</tr>
+<tr>
+<td> : Petit déjeuner         8,35 :</td>
+</tr>
+<tr>
+<td> :                     ------- :</td>
+</tr>
+<tr>
+<td> :  Total               255,05 :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -331,31 +478,52 @@ Les tarifs fixés par l'article premier de l'arrêté du 30 avril 1985 sont modi
 <td> : a) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : Hébergement          50,00  :</td>
+<td> :  - externe           154,20 :</td>
 </tr>
 <tr>
-<td> :  Nourriture :               :</td>
+<td> : b) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : 2 repas 19,20 X 2    38,40  :</td>
+<td> :  - demi-pensionnaire        :</td>
 </tr>
 <tr>
-<td> : Petit déjeuner        5,90  :</td>
+<td> : Frais de rééducation 154,20 :</td>
+</tr>
+<tr>
+<td> : 1 repas               22,75 :</td>
 </tr>
 <tr>
 <td> :                     ------- :</td>
 </tr>
 <tr>
-<td> :  Total               94,30  :</td>
+<td> :   Total              176,95 :</td>
 </tr>
 <tr>
-<td> :                             :</td>
+<td> : c) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : b) Frais de rééducation     :</td>
+<td> : - interne                   :</td>
 </tr>
 <tr>
-<td> :    proprement dits  107,65  :</td>
+<td> : Frais de rééducation 154,20 :</td>
+</tr>
+<tr>
+<td> : Hébergement           71,60 :</td>
+</tr>
+<tr>
+<td> :  Nourriture :               :</td>
+</tr>
+<tr>
+<td> : 2 repas 22,75 X 2     45,50 :</td>
+</tr>
+<tr>
+<td> : Petit déjeuner         8,45 :</td>
+</tr>
+<tr>
+<td> :                     ------- :</td>
+</tr>
+<tr>
+<td> :  Total               279,75 :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -376,35 +544,56 @@ Les tarifs fixés par l'article premier de l'arrêté du 30 avril 1985 sont modi
 <td> : a) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : Hébergement          53,40  :</td>
+<td> :  - externe           199,95 :</td>
 </tr>
 <tr>
-<td> :  Nourriture :               :</td>
+<td> : b) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : 2 repas 23,35 X 2    46,70  :</td>
+<td> :  - demi-pensionnaire        :</td>
 </tr>
 <tr>
-<td> : Petit déjeuner        6,15  :</td>
+<td> : Frais de rééducation 199,95 :</td>
+</tr>
+<tr>
+<td> : 1 repas               21,85 :</td>
 </tr>
 <tr>
 <td> :                     ------- :</td>
 </tr>
 <tr>
-<td> :  Total              106,25  :</td>
+<td> :   Total              221,80 :</td>
 </tr>
 <tr>
-<td> :                             :</td>
+<td> : c) Prix de journée :        :</td>
 </tr>
 <tr>
-<td> : b) Frais de rééducation     :</td>
+<td> : - interne                   :</td>
 </tr>
 <tr>
-<td> :    proprement dits  139,60  :</td>
+<td> : Frais de rééducation 199,95 :</td>
+</tr>
+<tr>
+<td> : Hébergement           76,50 :</td>
+</tr>
+<tr>
+<td> :  Nourriture :               :</td>
+</tr>
+<tr>
+<td> : 2 repas 21,85 X 2     43,70 :</td>
+</tr>
+<tr>
+<td> : Petit déjeuner         8,80 :</td>
+</tr>
+<tr>
+<td> :                     ------- :</td>
+</tr>
+<tr>
+<td> :  Total               328,95 :</td>
 </tr>
 <tr>
 <td> :                             :</td>
 </tr>
 </table>
 
-Ces modifications prennent effet au 1er janvier 1986.
+Ces modifications prennent effet au 1er janvier 1987.

@@ -1,8 +1,8 @@
 # Article 2
 
-Les candidatures doivent être adressées, au plus tard, un mois avant la date fixée pour les épreuves de chaque session [*délai*], au président de la Chambre nationale des huissiers de justice [*communication*].
+Les candidatures doivent être adressées, au plus tard, un mois avant la date fixée pour les épreuves de chaque session, au président de la Chambre nationale des huissiers de justice.
 
-Les dossiers de candidatures doivent comprendre [*contenu*] :
+Les dossiers de candidatures doivent comprendre :
 
 1° Une requête de l'intéressé ;
 
@@ -22,4 +22,4 @@ Les dossiers de candidatures doivent comprendre [*contenu*] :
 
 - l'autorisation de la chambre départementale prévue au troisième alinéa de l'article 18 du décret du 14 août 1975 précité ;
 
-6° Un certificat d'affiliation à la caisse primaire de sécurité sociale, complété, le cas échéant, d'un bulletin de salaire délivré par l'employeur.
+6° Un certificat d'affiliation à la caisse primaire de sécurité sociale complété par la justification des rémunérations perçues en cours de stage.

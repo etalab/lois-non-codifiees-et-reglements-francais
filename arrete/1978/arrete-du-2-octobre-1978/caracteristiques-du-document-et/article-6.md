@@ -1,3 +1,3 @@
 # Article 6
 
-Toute dérogation aux modèles de documents décrits dans les articles 3 et 4, notamment celles prévoyant l'utilisation des bandes autocollantes portant les renseignements sanitaires, doit être sollicitée en même temps que la demande d'agrément du programme d'identification.
+Toute dérogation aux modèles de documents décrits aux articles 3 et 4 ne peut porter que sur la présentation de la partie sanitaire. Elle doit être autorisée par le ministre de l'agriculture.

@@ -2,5 +2,6 @@
 
 - [Article 17](article-17.md)
 - [Annexes](annexes)
+- [Caractéristiques du document.](caracteristiques-du-document)
 - [Caractéristiques du document et obligations de l'éleveur ou détenteur du bovin.](caracteristiques-du-document-et)
 - [Modalités d'établissement et destination du document d'accompagnement.](modalites-d-etablissement-et)
