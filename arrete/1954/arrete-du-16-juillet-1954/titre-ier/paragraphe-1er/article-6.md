@@ -13,9 +13,3 @@ Les initiales majuscules TP accompagnées du numéro du certificat d'approbation
 Le cahier des charges fixe la nature, la forme et l'emplacement des marques de garantie qui doivent être présentées à l'approbation en morne temps que le-type de projecteur.
 
 Pour les agréments visés à l'article 3 bis, ces inscriptions sont conformes aux dispositions du cahier des charges ayant fait l'objet de l'accord international.
-
-Elles comportent:
-
-D'une part,.uncercle au centre duquel est placée la lettre P, suivie d'un numéro distinctif du pays ayant délivré l'homologation (1) ;
-
-D'autre part, le numéro d'homologation du type.

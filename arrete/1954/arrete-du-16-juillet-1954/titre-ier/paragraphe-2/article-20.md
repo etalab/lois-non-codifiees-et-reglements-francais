@@ -1,7 +1,9 @@
 # Article 20
 
-Tout feu de gabarit doit être placé à l'extrémité de la largeur hors tout du véhicule et de son chargement. Sous cette condition, il peut être confondu à l'avant avec un feu de position, à l'arrière avec un feu rouge arrière.
+Les feux d'encombrement (feux de gabarit) doivent être conformes à un type agréé.
 
-Lorsqu'un feu de gabarit est distinct du feu de position ou du feu rouge arrière correspondant, sa plage éclairante doit se trouver à une distance du sol comprise entre 0,60 mètre et 1,90 mètre, et son intensité lumineuse doit être au plus égale à celle du feu de position ou du feu rouge correspondant.
+Tout feu d'encombrement (feu de gabarit) doit être placé le plus près possible de l'extrémité de la largeur hors tout du véhicule ou de son chargement et à la hauteur maximale possible au-dessus du sol.
 
-En outre, tout feu de gabarit arrière distinct doit être placé plus haut que le feu rouge arrière correspondant.
+La position d'un feu d'encombrement (feu de gabarit) par rapport au feu de position ou au feu rouge arrière correspondant doit être telle que la distance entre les projections sur un plan vertical transversal des points les plus proches des plages éclairantes des deux feux considérés ne soit pas inférieure à 0,20 mètre.
+
+Sous réserve de satisfaire aux dispositions précédentes, le feu visible de l'avant et le feu visible de l'arrière situés du même côté du véhicule peuvent être réunis en un seul dispositif.

@@ -20,7 +20,7 @@ Schéma D. - Deux appareils antérieurs (catégorie 1) et deux appareils postér
 
 Cette disposition est valable seulement pour les véhicules ayant une distance horizontale entre les centres de la plage éclairante des appareils antérieurs et postérieurs inférieure à 6 mètres.
 
-Pour le schéma B et pour le schéma C, la distance d ne doit pas être supérieure à 1,80 mètre, la valeur de 5° indiquée pour l'angle mort de visibilité vers l'arrière est un maximum ; toutefois, cette limite est portée à 10° en cas d'impossibilité pratique de respecter la limite précédente.
+Pour le schéma B et pour le schéma C, la distance d ne doit pas être supérieure à 1,80 mètre, la valeur 5° Indiquée pour l'angle mort de visibilité vers l'arrière est un maximum ; toutefois, ces limites sont portées respectivement à 2,50 mètres et à 10° en cas d'impossibilité pratique de respecter les limites précédentes.
 
 Les angles de visibilité des indicateurs de direction mesurés à partir du centre de la plage éclairante, ne doivent pas être inférieurs à 15° au dessus et au dessous de l'horizontale (voir figures 1 et 2 de l'annexe I).
 

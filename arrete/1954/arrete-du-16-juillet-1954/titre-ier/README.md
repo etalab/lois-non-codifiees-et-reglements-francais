@@ -1,7 +1,7 @@
 # Titre Ier : Dispositions applicables aux véhicules automobiles
 
 - [Paragraphe 1er : Projecteurs de route ou de croisement](paragraphe-1er)
-- [Paragraphe 2 : Feux de position, feux rouges arrière, feux de stationnement, feux de gabarit](paragraphe-2)
+- [Paragraphe 2 : Feux de position, feux rouges arrière, feux de stationnement, feux d'encombrement (feux de gabarit).](paragraphe-2)
 - [Paragraphe 3 : Dispositif d'éclairage de la plaque d'immatriculation arrière](paragraphe-3)
 - [Paragraphe 4 : Signal de freinage (feu stop)](paragraphe-4)
 - [Paragraphe 5 : Indicateurs de changement de direction](paragraphe-5)

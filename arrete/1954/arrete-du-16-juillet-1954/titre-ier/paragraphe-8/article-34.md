@@ -6,4 +6,4 @@ a) Ils doivent émettre un faisceau très étalé de lumière jaune et être pla
 
 b) L'allumage des feux de croisement doit commander automatiquement l'extinction des feux antibrouillard ; à défaut, un voyant lumineux placé bien en vue du conducteur doit rester allumé en même temps que les feux antibrouillard.
 
-c) Ils doivent être conformes à un type agréé par le ministre de l'équipement et du logement.
+c) Ils doivent être conformes à un type agréé par le ministre des transports. Les dispositifs conformes à un cahier des charges ayant fait l'objet d'un accord international auquel la France participe et qui, après essais, ont reçu l'agrément de l'un quelconque des pays participant audit accord, sont considérés comme ayant reçu l'agrément prévu à l'alinéa ci-dessus.
