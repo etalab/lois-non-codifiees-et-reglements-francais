@@ -1,21 +1,19 @@
 # Article 11
 
-I. - Peuvent être nommés au grade d'éducateur de jeunes enfants de classe supérieure après inscription sur un tableau d'avancement dans la limite fixée à l'alinéa suivant les éducateurs de jeunes enfants de classe normale ayant atteint le 9e échelon de leur grade et comptant trois années au moins de services dans un corps, cadre d'emplois ou emploi de la catégorie B.
+I. - Peuvent être nommés au grade d'éducateur de jeunes enfants de classe supérieure à compter du 1er août 1996, dans les conditions fixées au 1° de l'article 69 de la loi du 9 janvier 1986 susvisée et dans la limite fixée à l'alinéa ci-après, les éducateurs de jeunes enfants de classe normale comptant au moins deux ans d'ancienneté dans le 7e échelon de leur grade et cinq années au moins de services dans un corps, emploi ou cadre d'emplois de la catégorie B.
 
-Le nombre des éducateurs de jeunes enfants de classe supérieure ne peut être supérieur à 30 p. 100 de l'effectif de la classe normale et de la classe supérieure de l'établissement. Lorsque la proportion de 30 p. 100 est atteinte, il peut être procédé à la promotion de fonctionnaires remplissant les conditions pour bénéficer d'un avancement dans la limite de :
+Le nombre des éducateurs de jeunes enfants de classe supérieure ne peut être supérieur à 25 p. 100 de l'effectif des deux premiers grades du corps des éducateurs de jeunes enfants dans l'établissement, ou à un agent lorsque ce pourcentage n'est pas applicable.
 
-- un cinquième de leur effectif à la date de publication du présent décret ;
+II. - Peuvent être nommés au grade d'éducateur de jeunes enfants de classe exceptionnelle à compter du 1er août 1996 :
 
-- quatre cinquièmes de leur effectif au 1er août 1993.
+1. Dans les conditions fixées au 1° de l'article 69 de la loi du 9 janvier 1986 susvisée, les éducateurs de jeunes enfants de classe supérieure ayant atteint le 4e échelon de ce grade ;
 
-La totalité des fonctionnaires remplissant les conditions pour bénéficier d'un avancement peut être promue à compter du 1er août 1994.
+2. Dans les conditions fixées au 2° du même article, les éducateurs de jeunes enfants de classe normale ayant atteint le 7e échelon de ce grade, ainsi que les éducateurs de jeunes enfants de classe supérieure.
 
-II. - Peuvent être nommés au grade d'éducateur de jeunes enfants de classe exceptionnelle :
+Un arrêté conjoint des ministres chargés de l'action sociale et de la santé fixe le programme et les modalités de l'examen professionnel organisé en application du 2 ci-dessus.
 
-1. Dans les conditions fixées au 1° de l'article 69 de la loi du 9 janvier 1986 susvisée, les éducateurs de jeunes enfants de classe supérieure comptant au moins trois ans de services en cette qualité et ayant atteint le 3e échelon de ce grade ;
+Le nombre d'éducateurs de jeunes enfants de classe exceptionnelle ne peut être supérieur à 15 p. 100 de l'effectif du corps des éducateurs de jeunes enfants dans l'établissement, ou à un agent lorsque ce pourcentage n'est pas applicable.
 
-2. Dans les conditions fixées au 2° du même article, les éducateurs de jeunes enfants de classe normale comptant au moins trois ans en cette qualité et un an d'ancienneté au moins dans le 8e échelon de ce grade ainsi que les éducateurs de jeunes enfants de classe supérieure.
+III. - Les intéressés promus dans les conditions prévues au présent article sont nommés à l'échelon doté d'un indice égal ou, à défaut, immédiatement supérieur à celui détenu dans l'ancien grade. Dans la limite de l'ancienneté moyenne exigée en vertu de l'article 10 ci-dessus pour une promotion à l'échelon supérieur, ils conservent l'ancienneté qu'ils avaient acquise dans l'échelon de leur ancien grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans l'ancien grade.
 
-Un arrêté conjoint des ministres chargés de l'action sociale et de la santé fixe le programme et les modalités de l'examen professionnel organisé en application du 1° ci-dessus.
-
-Le nombre d'éducateurs de jeunes enfants de classe exceptionnelle ne peut être supérieur à 21,5 p. 100 de l'effectif du corps des éducateurs de jeunes enfants dans l'établissement ou à un agent lorsque ce pourcentage n'est pas applicable.
+Les éducateurs de jeunes enfants promus à la classe supérieure ou à la classe exceptionnelle alors qu'ils ont atteint le dernier échelon de leur ancien grade conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque leur nomination leur procure une augmentation de traitement inférieure à celle résultant de l'avancement au dernier échelon.
