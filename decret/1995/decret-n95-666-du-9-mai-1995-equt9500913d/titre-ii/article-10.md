@@ -1,3 +1,0 @@
-# Article 10
-
-Il n'est pas satisfait à la condition d'honorabilité lorsque les personnes mentionnées à l'article 7 ci-dessus ont fait l'objet soit d'une procédure de faillite, soit d'une condamnation définitive mentionnée au bulletin n° 2 de leur casier judiciaire, ou sur une pièce équivalente, et entraînant une interdiction d'exercer une profession commerciale ou industrielle, soit de plus d'une condamnation définitive mentionnée au bulletin n° 2 du casier judiciaire, ou sur une pièce équivalente, dans le domaine de la législation spécifique applicable au transport ou dans le domaine du droit social ou du droit du travail.
