@@ -1,0 +1,3 @@
+# Article 6
+
+Dans les mêmes conditions, les bacheliers de la série D' issus de première et deuxième année des classes préparatoires technologiques à l'Institut national agronomique et aux autres écoles nationales supérieures agronomiques sont admis en deuxième année du brevet de technicien supérieur agricole, option Techniques agricoles et gestion de l'entreprise (T.A.G.E.). Les sections demandées ne doivent pas être en expérimentation. Par dérogation à l'article 13 de l'arrêté du 18 juin 1971 susvisé, ces élèves sont autorisés à se présenter à la session d'examen qui suit cette deuxième année.

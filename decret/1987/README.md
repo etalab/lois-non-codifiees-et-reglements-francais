@@ -78,6 +78,7 @@
 - [Décret n°87-184 du 20 mars 1987 (INTF8700088D)](decret-n87-184-du-20-mars-1987-intf8700088d)
 - [Décret n°87-185 du 20 mars 1987 (ASEE8703214D)](decret-n87-185-du-20-mars-1987-asee8703214d)
 - [Décret n°87-190 du 20 mars 1987 (MERG8700012D)](decret-n87-190-du-20-mars-1987-merg8700012d)
+- [Décret n°87-196 du 20 mars 1987 (ECOP8700089D)](decret-n87-196-du-20-mars-1987-ecop8700089d)
 - [Décret n°87-30 du 20 janvier 1987](decret-n87-30-du-20-janvier-1987)
 - [Décret n°87-38 du 21 janvier 1987 (ASES8700056D)](decret-n87-38-du-21-janvier-1987-ases8700056d)
 - [Décret du 22 décembre 1986 (AGRM8700091D)](decret-du-22-decembre-1986-agrm8700091d)
