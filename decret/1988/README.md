@@ -271,7 +271,6 @@
 - [Décret n°88-1205 du 30 décembre 1988 (ECOC8800152D)](decret-n88-1205-du-30-decembre-1988-ecoc8800152d)
 - [Décret n°88-1206 du 30 décembre 1988 (ECOC8800153D)](decret-n88-1206-du-30-decembre-1988-ecoc8800153d)
 - [Décret n°88-1207 du 30 décembre 1988 (ECOC8800154D)](decret-n88-1207-du-30-decembre-1988-ecoc8800154d)
-- [Décret n°88-1208 du 30 décembre 1988 (ECOZ8800052D)](decret-n88-1208-du-30-decembre-1988-ecoz8800052d)
 - [Décret n°88-1213 du 30 décembre 1988 (BUDB8860092D)](decret-n88-1213-du-30-decembre-1988-budb8860092d)
 - [Décret n°88-1214 du 30 décembre 1988 (BUDB8860093D)](decret-n88-1214-du-30-decembre-1988-budb8860093d)
 - [Décret n°88-1220 du 30 décembre 1988 (EQUP8800570D)](decret-n88-1220-du-30-decembre-1988-equp8800570d)
