@@ -32,7 +32,6 @@
 - [Arrêté du 11 octobre 1979](arrete-du-11-octobre-1979)
 - [Arrêté du 11 septembre 1979](arrete-du-11-septembre-1979)
 - [Arrêté du 12 avril 1979](arrete-du-12-avril-1979)
-- [Arrêté du 12 février 1979](arrete-du-12-fevrier-1979)
 - [Arrêté du 12 juillet 1979](arrete-du-12-juillet-1979)
 - [Arrêté du 12 juin 1979](arrete-du-12-juin-1979)
 - [Arrêté du 13 avril 1979](arrete-du-13-avril-1979)
