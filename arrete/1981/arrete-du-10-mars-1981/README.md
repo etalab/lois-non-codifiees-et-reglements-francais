@@ -1,7 +1,3 @@
-# Arrêté du 10 mars 1981 relatif aux taux des indemnités forfaitaires de déplacement prévues aux articles 9, 13, 23 et 33 du décret n° 66-619 du 10 août 1966 modifié.
+# Arrêté du 10 mars 1981 relatif à l'application des dispositions de l'article 10 du décret n° 72-196 du 10 mars 1972 portant réforme du régime des subventions d'investissement de l'Etat
 
 - [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)

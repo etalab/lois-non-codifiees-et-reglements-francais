@@ -1,48 +1,11 @@
 # Article 1
 
-Pour l'application des articles 9 et 13 du décret du 10 août 1966 susvisé, les taux journaliers de l'indemnité de mission et de l'indemnité de tournée sur le territoire métropolitain de la France (quatre taux de base) sont fixés, pour chacun des groupes énumérés à l'article 2 du décret précité, selon les taux suivants :
+Par dérogation aux dispositions de l'article 10 du décret n° 72-196 du 10 mars 1972 :
 
-<table>
-<tr>
-<td> :---------------------------------------------------------------:</td>
-</tr>
-<tr>
-<td> :                        :     INDEMNITE     :     INDEMNITE    :</td>
-</tr>
-<tr>
-<td> :         GROUPES        :    de mission     :    de tournée    :</td>
-</tr>
-<tr>
-<td> :                        :                   :                  :</td>
-</tr>
-<tr>
-<td> :------------------------:-------------------:------------------:</td>
-</tr>
-<tr>
-<td> :                        :        Francs     :       Francs     :</td>
-</tr>
-<tr>
-<td> :                        :                   :                  :</td>
-</tr>
-<tr>
-<td> :   I                    :         198       :        139       :</td>
-</tr>
-<tr>
-<td> :   II                   :         175       :        124       :</td>
-</tr>
-<tr>
-<td> :   III                  :         171       :        118       :</td>
-</tr>
-<tr>
-<td> :                        :                   :                  :</td>
-</tr>
-<tr>
-<td> :---------------------------------------------------------------:</td>
-</tr>
-</table>
+a) L'autorité compétente pour attribuer la subvention peut, à titre exceptionnel, autoriser le maître d'ouvrage à engager des travaux  avant la décision de subvention dans les cas ci-après.
 
-Les taux des indemnités forfaitaires de tournée sont fixés à :
+Travaux à effectuer d'urgence pour des raisons de sécurité des personnes à la suite d'événements imprévisibles ;
 
-Groupe I                                            113 F.
+Travaux à réaliser par des particuliers sur injonction de l'administration.
 
-Groupe II                                            96    Groupe III                                           91
+b) Les acquisitions immobilières effectuées pour un aménagement ou un équipement en centre urbain et financées par le fonds d'aménagement urbain (F.A.U.) ne constituent pas un commencement d'exécution au sens du premier alinéa de l'article 10 ci-dessus, sous réserve que l'acquisition ait été réalisée moins de dix-sept ans auparavant et que l'immeuble n'ait fait l'objet d'aucune affectation depuis son acquisition.
