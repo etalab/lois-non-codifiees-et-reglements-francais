@@ -30,29 +30,51 @@ Echelons - indices bruts - à compter du 1er août 1990 - à compter du 1er aoû
 
 Echelle 2
 
-Echelons - indices bruts - à compter du 1er août 1990 - A compter du 1er août 1991 - A compter du 1er août 1994
+(A) : Echelons.
 
-11e  échelon : -, 328, 343
+Indices bruts à compter du :
 
-10e  échelon : 309, 315, 321
+- a : 1er août 1990 ;
 
-9e  échelon : 301, 306, 311
+- b : 1er août 1991 ;
 
-8e  échelon : 293, 298, 302
+- c : 1er juillet 1994 ;
 
-7e  échelon : 285, 290, 294
+- d : 1er août 1994.
 
-6e  échelon : 278, 281, 287
+!-----------------------------!
 
-5e  échelon : 268, 271, 274
+!     !   INDICES BRUTS       !
 
-4e  échelon : 260, 262, 263
+!  A  !-----------------------!
 
-3e  échelon : 248, 250, 251
+!     !  a  !  b  !  c  !  d  !
 
-2e  échelon : 241, 241, 241
+!-----!-----!-----!-----!-----!
 
-1er échelon : 220, 220, 220
+! 11e !  -  ! 328 ! 328 ! 343 !
+
+! 10e ! 309 ! 315 ! 315 ! 321 !
+
+!  9e ! 301 ! 306 ! 306 ! 311 !
+
+!  8e ! 293 ! 298 ! 298 ! 302 !
+
+!  7e ! 285 ! 290 ! 290 ! 294 !
+
+!  6e ! 278 ! 281 ! 281 ! 287 !
+
+!  5e ! 268 ! 271 ! 271 ! 274 !
+
+!  4e ! 260 ! 262 ! 262 ! 263 !
+
+!  3e ! 248 ! 250 ! 250 ! 251 !
+
+!  2e ! 241 ! 241 ! 241 ! 241 !
+
+! 1er ! 220 ! 220 ! 224 ! 224 !
+
+!-----!-----!-----!-----!-----!
 
 Echelle 3
 
