@@ -748,6 +748,8 @@
 - [Arrêté du 26 janvier 1995 (INTB9500052A)](arrete-du-26-janvier-1995-intb9500052a)
 - [Arrêté du 26 janvier 1995 (JUSA9500053A)](arrete-du-26-janvier-1995-jusa9500053a)
 - [Arrêté du 26 janvier 1995 (RESM9500104A)](arrete-du-26-janvier-1995-resm9500104a)
+- [Arrêté du 26 juin 1995 (ECOT9551428A)](arrete-du-26-juin-1995-ecot9551428a)
+- [Arrêté du 26 juin 1995 (ECOX9511638A)](arrete-du-26-juin-1995-ecox9511638a)
 - [Arrêté du 27 avril 1995 (AGRH9500874A)](arrete-du-27-avril-1995-agrh9500874a)
 - [Arrêté du 27 avril 1995 (AGRH9500875A)](arrete-du-27-avril-1995-agrh9500875a)
 - [Arrêté du 27 avril 1995 (AGRP9500901A)](arrete-du-27-avril-1995-agrp9500901a)
