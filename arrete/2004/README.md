@@ -832,6 +832,7 @@
 - [Arrêté du 29 juillet 2004 (SOCU0411236A)](arrete-du-29-juillet-2004-socu0411236a)
 - [Arrêté du 29 juin 2004 (AGRP0401486A)](arrete-du-29-juin-2004-agrp0401486a)
 - [Arrêté du 29 juin 2004 (ECOD0470015A)](arrete-du-29-juin-2004-ecod0470015a)
+- [Arrêté du 29 juin 2004 (EQUA0400984A)](arrete-du-29-juin-2004-equa0400984a)
 - [Arrêté du 29 juin 2004 (LPEA0422249A)](arrete-du-29-juin-2004-lpea0422249a)
 - [Arrêté du 29 juin 2004 (MENS0401334A)](arrete-du-29-juin-2004-mens0401334a)
 - [Arrêté du 29 juin 2004 (SANP0422287A)](arrete-du-29-juin-2004-sanp0422287a)
