@@ -24,7 +24,7 @@ a) Les paris enregistrés par téléphone, par Minitel sont automatiquement cré
 
 b) Les paris enregistrés dans les "Points courses P.M.U." sont payés dans le poste où ils ont été enregistrés. Le paiement se poursuit pendant une demi-heure après l'arrivée de la dernière course de la réunion. Pendant les sept jours suivants, les parieurs peuvent se présenter dans le "Point course P.M.U.", aux heures d'ouverture de ces postes d'enregistrement ;
 
-c) Les paris enregistrés dans les agences du pari mutuel urbain et les points P.MU. sont payés dans le poste où ils ont été enregistrés. Ils sont mis en paiement à partir du lendemain ou du surlendemain aux mêmes heures que celles prévues pour leur enregistrement et dans les postes où ils ont été engagés.
+c) Les paris enregistrés dans les agences du pari mutuel urbain, les points P.M.U. et les points P.M.U. Multiservices sont payés dans le poste où ils ont été enregistrés. Ils sont mis en paiement à partir du lendemain ou du surlendemain aux mêmes heures que celles prévues pour leur enregistrement et dans les postes où ils ont été engagés.
 
 La présentation des paris doit être faite dans un délai de sept jours à compter de la date de mise en paiement. Ce délai comprend le jour de fermeture hebdomadaire éventuel de certains établissements. Cependant, pendant la période précédant immédiatement la fermeture pour congés d'un établissement, le délai de paiement peut être réduit à un minimum de deux jours ;
 
