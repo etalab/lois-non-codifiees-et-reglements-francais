@@ -375,7 +375,6 @@
 - [Décret n°95-146 du 9 février 1995 (TEFE9500030D)](decret-n95-146-du-9-fevrier-1995-tefe9500030d)
 - [Décret n°95-156 du 9 février 1995 (RESK9500118D)](decret-n95-156-du-9-fevrier-1995-resk9500118d)
 - [Décret n°95-18 du 9 janvier 1995 (DEFD9402152D)](decret-n95-18-du-9-janvier-1995-defd9402152d)
-- [Décret n°95-19 du 9 janvier 1995 (DEFD9402151D)](decret-n95-19-du-9-janvier-1995-defd9402151d)
 - [Décret n°95-20 du 9 janvier 1995 (ENVP9420033D)](decret-n95-20-du-9-janvier-1995-envp9420033d)
 - [Décret n°95-21 du 9 janvier 1995 (ENVP9420064D)](decret-n95-21-du-9-janvier-1995-envp9420064d)
 - [Décret n°95-22 du 9 janvier 1995 (ENVP9420065D)](decret-n95-22-du-9-janvier-1995-envp9420065d)
