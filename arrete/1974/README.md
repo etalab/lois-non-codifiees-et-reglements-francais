@@ -8,6 +8,7 @@
 - [Arrêté du 4 octobre 1973](arrete-du-4-octobre-1973)
 - [Arrêté du 5 avril 1974](arrete-du-5-avril-1974)
 - [Arrêté du 6 mai 1974](arrete-du-6-mai-1974)
+- [Arrêté du 7 août 1974](arrete-du-7-aout-1974)
 - [Arrêté du 7 janvier 1974](arrete-du-7-janvier-1974)
 - [Arrêté du 7 mai 1974](arrete-du-7-mai-1974)
 - [Arrêté du 9 janvier 1974](arrete-du-9-janvier-1974)
