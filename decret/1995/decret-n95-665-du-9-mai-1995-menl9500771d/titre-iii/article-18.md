@@ -10,4 +10,6 @@ Ils doivent, en outre, être inscrits en vue de l'obtention du diplôme.
 
 Les candidats visés au a ci-dessus qui, au cours de leur préparation au diplôme, ont changé de voie de préparation s'inscrivent à l'examen au titre de celle dans laquelle ils achèvent leur formation.
 
+Le recteur, en fonction de la situation personnelle exceptionnelle d'un candidat (formation incomplète pour raisons de force majeure, maladie, accident, maternité), peut accorder une dérogation aux conditions de durée de formation énoncées en a ci-dessus.
+
 Les conditions de titre ou d'exercice professionnel mentionnées ci-dessus sont exigibles à la date à laquelle le candidat se présente à la dernière unité ouvrant droit à la délivrance du diplôme ou à l'ensemble du diplôme.
