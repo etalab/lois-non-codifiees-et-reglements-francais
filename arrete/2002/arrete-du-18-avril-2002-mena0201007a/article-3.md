@@ -1,0 +1,3 @@
+# Article 3
+
+La formation est obligatoire. Elle s'effectue pendant la durée du stage qui suit l'admission au concours de recrutement. L'organisation générale et le calendrier des formations sont définis au niveau national par la direction chargée des personnels d'encadrement. D'une durée totale de cent dix journées, les sessions de formation se déroulent, pour la majorité d'entre elles, à la direction chargée des personnels d'encadrement. Certaines peuvent être organisées dans les académies ou en regroupements interacadémiques. Elles peuvent aussi être proposées dans des pays étrangers, des établissements et organismes divers.

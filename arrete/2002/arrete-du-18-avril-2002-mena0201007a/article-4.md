@@ -1,0 +1,3 @@
+# Article 4
+
+A la rentrée scolaire qui suit leur admission au concours, les inspecteurs d'académie-inspecteurs pédagogiques régionaux, les inspecteurs de l'éducation nationale, spécialités enseignement technique et enseignement général, les inspecteurs de l'éducation nationale, spécialité information et orientation, stagiaires sont nommés dans une académie sur un poste vacant et placés sous l'autorité du recteur. Leur formation, d'une durée de deux ans, s'appuie, d'une part, sur l'exercice des fonctions qui leur sont confiées par le recteur, d'autre part sur les sessions de formation obligatoires organisées par la direction chargée des personnels d'encadrement.

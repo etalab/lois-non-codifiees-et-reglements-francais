@@ -1,0 +1,7 @@
+# Article 19
+
+Le conseil de l'école doctorale se prononce sur les questions concernant l'école doctorale : son organisation, son fonctionnement pédagogique, la répartition des bourses de DEA et de master recherche, l'attribution des aides financières à la mobilité et des allocations de recherche ainsi que les modalités de choix des bénéficiaires des allocations et sur le dispositif de suivi des doctorants. Il veille au respect des principes de la charte des thèses de l'établissement.
+
+Le conseil est composé de douze à vingt-quatre membres. Les deux tiers de ses membres sont des représentants des directeurs des unités ou responsables d'équipes de recherche, des responsables des DEA ou des masters recherche et des étudiants de l'école doctorale et, s'il y a lieu, un représentant des personnels ingénieurs, administratifs, techniciens, ouvriers et de service. Les étudiants sont représentés par au moins un étudiant de DEA ou de master recherche et deux étudiants de doctorat, élus par les étudiants de l'école doctorale. Le dernier tiers du conseil est composé de membres extérieurs à l'école doctorale, choisis parmi des personnalités françaises et étrangères compétentes dans les domaines scientifiques et socio-économiques concernés.
+
+Les membres du conseil autres que les étudiants sont désignés suivant des modalités adoptées par le conseil d'administration des établissements de rattachement de l'école doctorale. Le conseil de l'école doctorale se réunit au moins deux fois par an.

@@ -7,3 +7,4 @@
 - [Section V : Mutations.](section-v)
 - [Article 6](article-6.md)
 - [Section VI : Discipline.](section-vi)
+- [Section VII : Classement.](section-vii)

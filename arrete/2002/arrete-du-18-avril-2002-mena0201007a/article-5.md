@@ -1,0 +1,3 @@
+# Article 5
+
+A la rentrée scolaire qui suit leur admission au concours, les inspecteurs de l'éducation nationale, spécialité enseignement du premier degré, stagiaires sont affectés à titre provisoire pour une année scolaire dans une académie sous l'autorité du recteur. A la rentrée scolaire suivante, ils sont nommés dans une académie sur un poste vacant. Leur formation, d'une durée de deux ans, s'appuie, d'une part, sur des sessions de formation obligatoires organisées par la direction chargée des personnels d'encadrement et, d'autre part, au cours de la première année, sur des périodes de stage en académie.

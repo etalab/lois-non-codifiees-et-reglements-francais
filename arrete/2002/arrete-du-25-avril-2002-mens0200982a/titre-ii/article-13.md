@@ -1,0 +1,3 @@
+# Article 13
+
+Par dérogation aux dispositions précédentes, l'université peut, pendant une période de cinq ans, intégrer dans cette nouvelle organisation des parcours types de formation ouverts à des étudiants n'ayant pas encore acquis le grade de licence. Le nombre de crédits européens exigés pour la validation de ces parcours types de formation sera fixé de telle sorte que la délivrance du diplôme de master corresponde au total à l'obtention de 300 crédits européens à compter du baccalauréat. De même, l'université délivre le diplôme de licence après l'obtention de 180 crédits à compter du baccalauréat.
