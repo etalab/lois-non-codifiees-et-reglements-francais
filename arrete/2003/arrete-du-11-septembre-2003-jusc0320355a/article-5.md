@@ -1,6 +1,6 @@
 # Article 5
 
-L'examen comporte les épreuves suivantes :
+L'examen, dont le programme est annexé au présent arrêté, comporte les épreuves suivantes :
 
 a) La rédaction en cinq heures d'une consultation suivie d'un acte de procédure ou d'un acte juridique ;
 
