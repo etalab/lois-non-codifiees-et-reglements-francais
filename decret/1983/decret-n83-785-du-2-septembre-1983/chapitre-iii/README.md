@@ -1,4 +1,4 @@
-# Chapitre III : Dispositions transitoires et diverses.
+# Chapitre III : Garanties disciplinaires.
 
 - [Article 24](article-24.md)
 - [Article 25](article-25.md)

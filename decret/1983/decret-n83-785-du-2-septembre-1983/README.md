@@ -2,4 +2,4 @@
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Entrée en fonctions, gestion, rémunération et avantages sociaux.](chapitre-ii)
-- [Chapitre III : Dispositions transitoires et diverses.](chapitre-iii)
+- [Chapitre III : Garanties disciplinaires.](chapitre-iii)
