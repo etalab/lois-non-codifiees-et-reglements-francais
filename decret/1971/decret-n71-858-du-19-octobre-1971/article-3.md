@@ -2,28 +2,38 @@
 
 La commission départementale des objets mobiliers est composée :
 
-Du préfet ou, à défaut, d'un autre membre du corps préfectoral en fonctions dans le département, désigné par lui, président ;
+a) De membres de droit :
 
-Du conservateur des antiquités et objets d'art ;
+1. Le préfet ou son représentant, président ;
 
-Du conservateur régional des bâtiments de France ou de son représentant ;
+2. Le directeur régional des affaires culturelles ou son représentant ;
 
-De l'inspecteur des monuments historiques dont la mission se rapportant aux objets mobiliers couvre le département ;
+3. Le conservateur du patrimoine, chargé de mission d'inspection des monuments historiques pour les objets mobiliers du département ;
 
-De l'architecte des bâtiments de France ou, à son défaut, de l'architecte des monuments historiques ;
+4. Le conservateur régional des monuments historiques ou son représentant ;
 
-Du directeur des services d'archives du département ou de son représentant ;
+5. Le conservateur régional de l'inventaire général ou son représentant ;
 
-Du commandant de groupement de la gendarmerie ;
+6. Le conservateur des antiquités et objets d'art ou son délégué ;
 
-D'un conservateur de musée désigné par le préfet ;
+7. L'architecte des Bâtiments de France ou son représentant ;
 
-D'un conservateur de bibliothèque désigné par le préfet ;
+8. Le directeur des services d'archives du département ou son représentant ;
 
-De deux conseillers généraux désignés par le conseil général ;
+9. Le directeur départemental de la sécurité publique ou son représentant ;
 
-D'un maire désigné par le préfet ;
+10. Le commandant de groupement de la gendarmerie ou son représentant ;
 
-De cinq personnalités au moins et sept au plus choisies par le préfet.
+b) De membres désignés :
 
-Les membres de la commission départementale des objets mobiliers désignés par le conseil général et par le préfet sont nommés pour une durée de trois ans renouvelable.
+1. Un conservateur de musée ou son suppléant désignés par le préfet ;
+
+2. Un conservateur de bibliothèque ou son suppléant désignés par le préfet ;
+
+3. Deux conseillers généraux ou leurs suppléants désignés par le conseil général ;
+
+4. Trois maires ou leurs suppléants désignés par le préfet ;
+
+5. Sept personnalités désignées par le préfet.
+
+Les membres de la commission départementale des objets mobiliers désignés par le préfet ou par le conseil général sont nommés pour une durée de quatre ans renouvelable.
