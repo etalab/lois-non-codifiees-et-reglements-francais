@@ -3,6 +3,5 @@
 - [Dispositions générales](dispositions-generales)
 - [La comptabilité](la-comptabilite)
 - [Le budget](le-budget)
-- [Le contrôle financier](le-controle-financier)
 - [Le contrôle financier de la région](le-controle-financier-de-la-region)
 - [Les emprunts](les-emprunts)

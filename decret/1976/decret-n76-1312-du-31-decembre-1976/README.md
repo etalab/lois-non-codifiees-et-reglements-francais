@@ -4,5 +4,4 @@
 - [Dispositions générales](dispositions-generales)
 - [La comptabilité](la-comptabilite)
 - [Le budget](le-budget)
-- [Le contrôle financier](le-controle-financier)
 - [Les emprunts.](les-emprunts)

@@ -57,7 +57,6 @@
 - [Arrêté du 11 juin 1982](arrete-du-11-juin-1982)
 - [Arrêté du 11 mars 1982](arrete-du-11-mars-1982)
 - [Arrêté du 11 mai 1982](arrete-du-11-mai-1982)
-- [Arrêté du 12 février 1982](arrete-du-12-fevrier-1982)
 - [Arrêté du 12 janvier 1982](arrete-du-12-janvier-1982)
 - [Arrêté du 12 mars 1982](arrete-du-12-mars-1982)
 - [Arrêté du 13 août 1982](arrete-du-13-aout-1982)
