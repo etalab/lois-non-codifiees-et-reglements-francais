@@ -1,8 +1,8 @@
 # Article 7
 
-L'agrément visé à l'article 6 ci-dessus est subordonné à la participation du piégeur concerné à une session de formation au piégeage [*contenu*] organisée par l'Office national de la chasse, une fédération départementale des chasseurs ou tout autre organisme habilité à cet effet par le commissaire de la République du département où se déroule la session.
+L'agrément visé à l'article 6 ci-dessus est subordonné à la participation du piégeur concerné à une session de formation au piégeage [*contenu*] organisée par l'Office national de la chasse, une fédération départementale des chasseurs ou tout autre organisme habilité à cet effet par le préfet du département où se déroule la session.
 
-Les programmes de formation font l'objet de protocoles établis par les organismes qui la dispensent et soumis à l'approbation du commissaire de la République.
+Les programmes de formation font l'objet de protocoles établis par les organismes qui la dispensent et soumis à l'approbation du préfet.
 
 La formation doit comporter au moins seize heures avec la répartition horaire globale suivante :
 
