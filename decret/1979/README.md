@@ -180,7 +180,6 @@
 - [Décret n°79-1017 du 28 novembre 1979](decret-n79-1017-du-28-novembre-1979)
 - [Décret n°79-1154 du 28 décembre 1979](decret-n79-1154-du-28-decembre-1979)
 - [Décret n°79-1155 du 28 décembre 1979](decret-n79-1155-du-28-decembre-1979)
-- [Décret n°79-1157 du 28 décembre 1979](decret-n79-1157-du-28-decembre-1979)
 - [Décret n°79-1160 du 28 décembre 1979](decret-n79-1160-du-28-decembre-1979)
 - [Décret n°79-505 du 28 juin 1979](decret-n79-505-du-28-juin-1979)
 - [Décret n°79-507 du 28 juin 1979](decret-n79-507-du-28-juin-1979)
