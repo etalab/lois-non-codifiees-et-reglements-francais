@@ -1138,7 +1138,6 @@
 - [Arrêté du 28 juin 1996 (TASE9610160A)](arrete-du-28-juin-1996-tase9610160a)
 - [Arrêté du 28 juin 1996 (TASE9610161A)](arrete-du-28-juin-1996-tase9610161a)
 - [Arrêté du 28 juin 1996 (TASH9621648A)](arrete-du-28-juin-1996-tash9621648a)
-- [Arrêté du 28 mars 1996 (AGRG9600686A)](arrete-du-28-mars-1996-agrg9600686a)
 - [Arrêté du 28 mars 1996 (AGRH9600711A)](arrete-du-28-mars-1996-agrh9600711a)
 - [Arrêté du 28 mars 1996 (ECOB9670001A)](arrete-du-28-mars-1996-ecob9670001a)
 - [Arrêté du 28 mars 1996 (MENP9600723A)](arrete-du-28-mars-1996-menp9600723a)
