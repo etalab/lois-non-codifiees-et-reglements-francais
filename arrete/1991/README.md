@@ -486,7 +486,6 @@
 - [Arrêté du 18 décembre 1990 (SPSG9002563A)](arrete-du-18-decembre-1990-spsg9002563a)
 - [Arrêté du 18 décembre 1990 (SPSS9100070A)](arrete-du-18-decembre-1990-spss9100070a)
 - [Arrêté du 18 décembre 1991 (ECOS9150028A)](arrete-du-18-decembre-1991-ecos9150028a)
-- [Arrêté du 18 décembre 1991 (SANH9102604A)](arrete-du-18-decembre-1991-sanh9102604a)
 - [Arrêté du 18 décembre 1991 (SANH9102607A)](arrete-du-18-decembre-1991-sanh9102607a)
 - [Arrêté du 18 février 1991 (AGRA9100255A)](arrete-du-18-fevrier-1991-agra9100255a)
 - [Arrêté du 18 février 1991 (MEND9003016A)](arrete-du-18-fevrier-1991-mend9003016a)
