@@ -29,6 +29,7 @@
 - [Arrêté du 2 avril 1996 (MJSK9670057A)](arrete-du-2-avril-1996-mjsk9670057a)
 - [Arrêté du 2 avril 1996 (PRMX9601409A)](arrete-du-2-avril-1996-prmx9601409a)
 - [Arrêté du 2 décembre 1996 (FPPA9610165A)](arrete-du-2-decembre-1996-fppa9610165a)
+- [Arrêté du 2 décembre 1996 (MJSK9670169A)](arrete-du-2-decembre-1996-mjsk9670169a)
 - [Arrêté du 2 décembre 1996 (TASP9623862A)](arrete-du-2-decembre-1996-tasp9623862a)
 - [Arrêté du 2 février 1996 (AGRG9600261A)](arrete-du-2-fevrier-1996-agrg9600261a)
 - [Arrêté du 2 février 1996 (DEFP9601137A)](arrete-du-2-fevrier-1996-defp9601137a)
