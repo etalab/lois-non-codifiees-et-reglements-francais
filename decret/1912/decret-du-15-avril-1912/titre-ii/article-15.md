@@ -5,3 +5,5 @@ Il est interdit, en vertu de l'article 3, paragraphe 2, de la loi du 1er août 1
 1° Les haricots ou pois dits de Birmanie, lorsqu'ils fournissent à l'analyse plus de 20 milligrammes d'acide cyanhydrique pour 100 grammes de produit ;
 
 2° Les haricots ou pois dits de Java.
+
+3° Les gyromitres fausses morilles, frais ou transformés.
