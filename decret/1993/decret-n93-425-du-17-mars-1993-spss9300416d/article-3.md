@@ -1,0 +1,7 @@
+# Article 3
+
+Les conjoints collaborateurs d'anciens conseils juridiques membres de la nouvelle profession justifiant au 31 décembre 1991 de leur affiliation à la Caisse interprofessionnelle de prévoyance et d'assurance vieillesse et qui n'ont pas procédé auprès de celle-ci au rachat prévu à l'article 2 du décret du 24 juillet 1989 susvisé peuvent effectuer ce rachat auprès de la Caisse nationale des barreaux français pour une année ou plus dans la limite des cinq années immédiatement antérieures à leurs adhésion au régime mentionné à l'article D. 742-36 du code de la sécurité sociale.
+
+Les conjoints des anciens conseils juridiques ayant renoncé à exercer la nouvelle profession d'avocat et qui sont affiliés au titre de leur nouvelle activité à une caisse relevant de l'organisation autonome d'assurance vieillesse des professions libérales sont autorisés à effectuer auprès de ladite caisse le rachat, prévu à l'alinéa précédent, des années de collaboration à l'exercice de l'activité non salariée de conseil juridique et, le cas échéant, d'avocat pendant les délais d'option prévus aux articles 49 et 50 de la loi du 31 décembre 1971 susvisée, dans les délais et conditions fixés par l'article 2, alinéas 1, 3 et 4 du décret du 24 juillet 1989 susvisé.
+
+Le montant des rachats visés aux alinéas précédents est calculé sur la base de la cotisation au régime de l'allocation de vieillesse exigible du conjoint collaborateur au titre de l'exercice 1992 par la Caisse interprofessionnelle de prévoyance et d'assurance vieillesse.

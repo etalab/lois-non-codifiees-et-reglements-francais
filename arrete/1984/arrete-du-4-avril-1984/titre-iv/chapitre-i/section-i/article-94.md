@@ -1,15 +1,17 @@
 # Article 94
 
-Une avance dite "avance forfaitaire" doit être accordée par le directeur de l'organisme contractant au titulaire du marché lorsque celui-ci est d'un montant initial supérieur à la limite prévue à l'article 154 du code des marchés publics.
+I. - Une avance dite "avance forfaitaire" est accordée au titulaire du marché lorsque le marché est d'un montant initial supérieur au seuil prévu à l'article 123 du code des marchés publics.    Pour les marchés fractionnés mentionnés à l'article 34, une avance forfaitaire est accordée pour chaque bon de commande ou pour chaque tranche d'un montant supérieur au seuil prévu à l'article 123 du code des marchés publics. Dans le cas des marchés à bons de commande comportant un montant minimum supérieur à ce seuil, le marché peut prévoir que l'avance est accordée en une fois sur la base du montant minimum du marché.
 
-Cette avance peut être accordée pour les marchés ne remplissant pas cette condition.
+Le directeur de l'organisme contractant peut prévoir dans le marché le versement d'une avance forfaitaire dans les cas où celle-ci n'est pas obligatoire.
 
 Dans tous les cas, le titulaire peut refuser le versement de l'avance forfaitaire.
 
-Son montant est fixé, sous réserve des dispositions des articles 123 et 128, à 5 p. 100 du montant des prestations à exécuter dans les douze premiers mois après la date d'effet de l'acte qui emporte commencement d'exécution du marché.
+II. - Le montant de l'avance forfaitaire est fixé, sous réserve des dispositions de l'article 123, à 5 p. 100 du montant toutes taxes comprises des prestations à exécuter dans les douze premiers mois après la date d'effet de l'acte qui emporte commencement d'exécution du marché, du bon de commande ou de la tranche.
 
-Ce montant ne peut être révisé ni actualisé.
+Pour les marchés dont la base de calcul de l'avance forfaitaire est constituée par le montant minimum du marché, le montant de l'avance est fixé, sous réserve des dispositions de l'article 123, à 5 p. 100 du montant minimum si la durée de validité du marché est inférieure ou égale à douze mois ; si cette durée est supérieure à douze mois, l'avance forfaitaire est égale à 5 p. 100 de la somme égale à douze fois le montant minimum rapporté à la durée de validité du marché, calculée en mois.
 
-L'avance forfaitaire doit être mandatée dans le délai d'un mois compté à partir de la date d'effet de l'acte qui emporte commencement d'exécution du marché.
+Le montant de l'avance forfaitaire ne peut être affecté par la mise en oeuvre d'une clause de variation de prix.
 
-Toutefois, si un cautionnement a été prévu au marché, l'avance ne peut être mandatée avant que le titulaire ait justifié la constitution dudit cautionnement.
+III. - Le remboursement de l'avance forfaitaire, effectué par précompte sur les sommes dues ultérieurement au titulaire, commence lorsque le montant des prestations exécutées au titre du marché, du bon de commande ou de la tranche atteint ou dépasse 65 p. 100 du montant du marché, du bon de commande ou de la tranche.
+
+Le remboursement doit être terminé lorsque ce pourcentage atteint 80 p. 100.
