@@ -1,3 +1,0 @@
-# Article 4
-
-La demande de validation qui précise les épreuves dont la dispense est demandée est accompagnée d'un dossier dont les éléments constitutifs, fixés par arrêté du ministre chargé de l'enseignement supérieur, comprennent notamment la description des fonctions exercées et des tâches remplies, définies s'il y a lieu par référencee aux classifications en vigueur dans la ou les professions concernant le candidat et attestées, dans la mesure du possible, par ses employeurs, ainsi que, le cas échéant, les documents attestant les formations suivies, les stages effectués et les diplômes obtenus.
