@@ -1,55 +1,55 @@
 # Article 28
 
-Le conseil d'administration de l'établissement public est composé de quarante-six membres [*nombre*] dont :
+Le conseil d'administration de l'établissement public est composé de quarante-neuf [*nombre*] membres dont :
 
-1° Douze fonctionnaires nommés sur proposition des ministres intéressés et représentant respectivement :
+" 1. Neuf fonctionnaires nommés sur proposition des ministres intéressés représentant respectivement :
 
-Le ministre chargé de la protection de la nature ;
+- le ministre chargé des domaines ;
 
-Le ministre chargé de l'aménagement du territoire ;
+- le ministre chargé de la défense ;
 
-Le ministre de l'intérieur ;
+- le ministre de l'intérieur ;
 
-Le ministre de l'économie et des finances ;
+- le ministre chargé de l'aménagement du territoire ;
 
-Le ministre chargé de la défense ;
+- le ministre chargé de l'éducation ;
 
-Le ministre de l'agriculture ;
+- le ministre chargé du tourisme ;
 
-Le ministre de l'équipement ;
+- le ministre chargé de l'agriculture ;
 
-Le ministre de l'industrie et de la recherche ;
+- le ministre chargé de la jeunesse et des sports ;
 
-Le ministre de l'éducation ;
+- le ministre chargé de la protection de la nature.
 
-Le ministre chargé des affaires culturelles ;
+" 2. Vingt représentants des régions, des départements et des communes :
 
-Le ministre chargé du tourisme ;
+" a) Deux conseillers régionaux à raison d'un pour l'Aquitaine et d'un pour Midi-Pyrénées ;
 
-Le ministre chargé de la jeunesse et des sports.
+" b) Sept conseillers généraux à raison de trois pour les Pyrénées-Atlantiques et de quatre pour les Hautes-Pyrénées ;
 
-2° Vingt et un conseillers généraux, maires et personnalités nommés après avis des préfets des Pyrénées-Atlantiques et des Hautes-Pyrénées :
+" c) Onze maires, dont quatre pour les Pyrénées-Atlantiques et sept pour les Hautes-Pyrénées, dont la liste est établie séparément dans chaque département selon les règles identiques définies ci-après :
 
-Six conseillers généraux et neuf maires des communes dont le territoire est partiellement compris dans le parc, sur proposition des conseils généraux des Pyrénées-Atlantiques et des Hautes-Pyrénées ;
+" 1. Les maires de celles des communes du département dont la surface de territoire comprise dans le parc est égale ou supérieure à 10 p. 100 de la surface totale du parc ;
 
-Six personnalités désignées par les chambres d'agriculture, les chambres de commerce et d'industrie et les fédérations départementales des chasseurs des Pyrénées-Atlantiques et des Hautes-Pyrénées, chacun de ces organismes désignant un candidat au titre du département où se trouve son siège.
+" 2. Des maires élus par un collège constitué à la fois par les maires mentionnés au 1 ci-dessus et par les maires de celles des communes du département dont la surface comprise dans le parc est inférieure à 10 p. 100 de la surface totale du parc.
 
-3° Neuf personnalités nommées comme suit :
+" 3. Vingt personnalités nommées comme suit :
 
-Deux sur proposition du conseil national de la protection de la nature ;
+" a) Sur proposition du préfet, commissaire du Gouvernement :
 
-Une sur proposition du Muséum national d'histoire naturelle ;
+" 1. Six personnalités, à raison de trois par département, respectivement compétentes en matière d'agriculture, de chasse, de commerce ou d'industrie ;
 
-Une sur proposition du centre national de la recherche scientifique ;
+" 2. Quatre personnalités, à raison de deux par département, respectivement compétentes en matière de protection de la nature et de l'environnement et en matière d'activités de plein air ;
 
-Deux représentant les associations de protection de la nature et de l'environnement désignées à raison d'une par département sur proposition du préfet intéressé ;
+" 3. Une personnalité compétente en matière de pêche et de pisciculture ;
 
-Une sur proposition du Touring-club de France ;
+" 4. Une personnalité compétente en matière d'activités de sport et de loisirs pratiquées dans le parc.
 
-Une sur proposition du Club alpin français ;
+" b) 1. Quatre personnalités sur proposition du Conseil national de la protection de la nature, dont deux appartenant au milieu de la recherche scientifique ;
 
-Une sur proposition de l'office national des forêts.
+" 2. Une personnalité sur proposition de l'Office national des forêts ;
 
-4° Quatre personnalités nommées à l'initiative du ministre chargé de la protection de la nature.
+" c) Trois personnalités choisies par le ministre chargé de la protection de la nature.
 
-Le préfet des Hautes-Pyrénées, commissaire du Gouvernement, le préfet des Pyrénées-Atlantiques, le directeur de la protection de la nature, le contrôleur financier et le directeur du parc assistent aux séances du conseil avec voix consultative.
+" Le préfet du département des Hautes-Pyrénées, commissaire du Gouvernement, le préfet du département des Pyrénées-Atlantiques, le directeur de la protection de la nature, le président du comité scientifique du parc lorsqu'il n'est pas membre du conseil, le contrôleur financier et le directeur du parc ou leurs représentants assistent aux séances du conseil d'administration avec voix consultative. "
