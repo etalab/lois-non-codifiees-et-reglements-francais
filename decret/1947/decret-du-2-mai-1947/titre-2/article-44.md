@@ -1,5 +1,3 @@
 # Article 44
 
-Dans les circonscriptions où il n'existe qu'un seul exploitant, celui-ci désigne l'ensemble des représentants.
-
-Dans les circonscriptions où il y a plus d'un exploitant, le nombre de représentants est réparti entre eux au prorata du nombre de leurs salariés respectifs qui sont affiliés dans la circonscription considérée et tel qu'il ressort des listes électorales arrêtées en application du dernier alinéa de l'article 5 ; les résultats du prorata sont arrondis au nombre entier le plus voisin.
+En cas de décès ou de démission pour quelque cause que ce soit d'un administrateur représentant les exploitants, les instances mentionnées à l'article 42 désignent un nouveau titulaire parmi les suppléants et en communiquent le nom au président de l'organisme de sécurité sociale minière, dans les conditions prévues à ce même article.
