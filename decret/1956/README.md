@@ -24,6 +24,7 @@
 - [Décret du 24 janvier 1956](decret-du-24-janvier-1956)
 - [Décret n°56-511 du 24 mai 1956](decret-n56-511-du-24-mai-1956)
 - [Décret n°56-733 du 26 juillet 1956](decret-n56-733-du-26-juillet-1956)
+- [Décret n°56-1030 du 28 septembre 1956](decret-n56-1030-du-28-septembre-1956)
 - [Décret n°56-220 du 29 février 1956](decret-n56-220-du-29-fevrier-1956)
 - [Décret n°56-221 du 29 février 1956](decret-n56-221-du-29-fevrier-1956)
 - [Décret n°56-222 du 29 février 1956](decret-n56-222-du-29-fevrier-1956)
