@@ -1,0 +1,5 @@
+# Article 6
+
+Nonobstant les dispositions du présent arrêté, les services aériens non réguliers à destination ou en provenance des aéroports communautaires sur lesquels les sièges ne sont pas commercialisés séparément auprès du public, ni directement ni indirectement, et qui sont assurés au moyen d'aéronefs d'une capacité effective inférieure ou égale à vingt-cinq sièges sont exploités à l'aéroport du Bourget ; toutefois, des dérogations peuvent être accordées par le directeur général de l'aviation civile pour les services assurant le transport de passagers en transit à l'aéroport d'Orly ou l'aéroport Charles-de-Gaulle.
+
+Les services visés à l'alinéa ci-dessus, mais qui sont assurés au moyen d'aéronefs d'une capacité effective supérieure à vingt-cinq sièges, ne peuvent être exploités à l'aéroport du Bourget ; toutefois, des dérogations peuvent être accordées par le directeur général de l'aviation civile lorsque des circonstances particulières ou la nature des vols justifient leur exploitation à l'aéroport du Bourget.
