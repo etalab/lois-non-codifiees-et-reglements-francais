@@ -30,6 +30,8 @@ La loi détermine les principes fondamentaux :
 
 - de l'enseignement ;
 
+- de la préservation de l'environnement ;
+
 - du régime de la propriété, des droits réels et des obligations civiles et commerciales ;
 
 - du droit du travail, du droit syndical et de la sécurité sociale.
