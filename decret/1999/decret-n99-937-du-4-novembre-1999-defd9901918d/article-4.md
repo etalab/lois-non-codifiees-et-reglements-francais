@@ -6,11 +6,13 @@ Sont membres de droit :
 
 - le délégué général pour l'armement ;
 
-- l'inspecteur général de l'armement ;
+- l'officier général de l'armement inspecteur général des armées ;
+
+- l'inspecteur de l'armement chef de l'inspection de l'armement ;
 
 - le directeur des ressources humaines de la délégation générale pour l'armement ;
 
-- le secrétaire général du conseil général de l'armement.
+- le secrétaire général du Conseil général de l'armement.
 
 Sont membres titulaires :
 
