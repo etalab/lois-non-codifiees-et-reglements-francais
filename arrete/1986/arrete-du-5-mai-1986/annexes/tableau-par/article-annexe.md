@@ -12,7 +12,7 @@ Plan d'eau de Sidiailles.
 
 Département des Alpes-de-Haute-Provence
 
-1° Lacs de retenue de Castillon, Chaudanne, Sainte-Croix, Quinson, Gréoux-les-Bains, Serre-Ponçon, Espinasse, Saulce, Salignac, l'Escale ;
+1° Lacs de retenue de Castillon, Chaudanne, Sainte-Croix, Quinson, Gréoux-les-Bains, Serre-Ponçon, Espinasse, Saulce, Salignac, l'Escale, de Saint-Clément ;
 
 2° Tous les lacs de montagne situés à une altitude supérieure à 1 800 mètres.
 
@@ -69,6 +69,10 @@ Département de la Loire-Atlantique
 1° Lac de Grandlieu ;
 
 2° Marais indivis de Grande Brière Mottière.
+
+Département de la Lozère
+
+Lac de Naussac.
 
 Département de la Marne
 

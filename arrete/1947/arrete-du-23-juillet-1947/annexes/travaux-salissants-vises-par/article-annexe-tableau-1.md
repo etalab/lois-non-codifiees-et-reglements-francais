@@ -73,3 +73,7 @@ Tueries particulières.
 Travaux occasionnels et poussiéreux exposant à l'amiante.
 
 Travaux exposant aux poussières de chlorure de potassium.    Travaux de collecte et de traitement des ordures.
+
+Travaux de garderie et d'élevage d'animaux, notamment dans les animaleries ;
+
+Travaux exécutés dans les laboratoires où sont utilisés des animaux d'expérience.

@@ -104,39 +104,7 @@ Département de la Loire
 
 13° Le Noyer, le Font-d'Aix, le Machabre, le Ban.
 
-" Département de la Haute-Loire :
-
-"   1 Le Panis.
-
-"   2 La Virlange.
-
-"   3 La Seuge, en amont de la cascade Portail.
-
-"   4 La Desges, en amont du pont de Chazelles.
-
-"   5 La Fioule.
-
-"   6 La Marsange.
-
-"   7 Le Mallat.
-
-"   8 La Chamalières.
-
-"   9 La Peyrusse.
-
-" 10 La Cronce, en amont de Croncelorbe.
-
-" 11 L'Avesne.
-
-" 12 L'Arçon.
-
-" 13 La Redonde.
-
-" 14 L'Auzon.
-
-" 15 La Sey.
-
-" 16 Les affluents et sous-affluents des cours d'eau désignés ci-dessus. "
+Département de la Haute-Loire :[*abrogé*]
 
 Département de la Lozère
 
