@@ -342,6 +342,7 @@
 - [Arrêté du 21 mars 1994 (MCCB9300415A)](arrete-du-21-mars-1994-mccb9300415a)
 - [Arrêté du 22 avril 1994 (BUDR9405014A)](arrete-du-22-avril-1994-budr9405014a)
 - [Arrêté du 22 avril 1994 (INTB9400237A)](arrete-du-22-avril-1994-intb9400237a)
+- [Arrêté du 22 avril 1994 (INTE9400216A)](arrete-du-22-avril-1994-inte9400216a)
 - [Arrêté du 22 avril 1994 (MENF9400777A)](arrete-du-22-avril-1994-menf9400777a)
 - [Arrêté du 22 avril 1994 (SANP9401298A)](arrete-du-22-avril-1994-sanp9401298a)
 - [Arrêté du 22 avril 1994 (SPSH9401130A)](arrete-du-22-avril-1994-spsh9401130a)

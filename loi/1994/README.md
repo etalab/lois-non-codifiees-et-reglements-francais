@@ -17,5 +17,8 @@
 - [Loi n° 94-337 du 29 avril 1994 (JUSX9300110L)](loi-n-94-337-du-29-avril-1994-jusx9300110l)
 - [Loi n° 94-361 du 10 mai 1994 (HRUX9400185L)](loi-n-94-361-du-10-mai-1994-hrux9400185l)
 - [Loi n° 94-374 du 14 mai 1994 (MAEX9300148L)](loi-n-94-374-du-14-mai-1994-maex9300148l)
+- [Loi n° 94-401 du 20 mai 1994 (MAEX9300134L)](loi-n-94-401-du-20-mai-1994-maex9300134l)
+- [Loi n° 94-402 du 20 mai 1994 (MAEX9300195L)](loi-n-94-402-du-20-mai-1994-maex9300195l)
+- [Loi n° 94-403 du 20 mai 1994 (MAEX9300213L)](loi-n-94-403-du-20-mai-1994-maex9300213l)
 - [Loi n° 94-89 du 1 février 1994 (JUSX9300152L)](loi-n-94-89-du-1-fevrier-1994-jusx9300152l)
 - [Loi n°94-342 du 29 avril 1994 (JUSX9300203L)](loi-n94-342-du-29-avril-1994-jusx9300203l)
