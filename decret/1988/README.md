@@ -103,6 +103,8 @@
 - [Décret n°88-66 du 20 janvier 1988 (MCCT8700525D)](decret-n88-66-du-20-janvier-1988-mcct8700525d)
 - [Décret n°88-68 du 21 janvier 1988 (MENB8800063D)](decret-n88-68-du-21-janvier-1988-menb8800063d)
 - [Décret n°88-74 du 21 janvier 1988 (INTB8800001D)](decret-n88-74-du-21-janvier-1988-intb8800001d)
+- [Décret n°88-267 du 22 mars 1988 (DOMP8800006D)](decret-n88-267-du-22-mars-1988-domp8800006d)
+- [Décret n°88-269 du 22 mars 1988 (INDH8800140D)](decret-n88-269-du-22-mars-1988-indh8800140d)
 - [Décret n°88-431 du 22 avril 1988 (MCCB8800185D)](decret-n88-431-du-22-avril-1988-mccb8800185d)
 - [Décret n°88-432 du 22 avril 1988 (MCCB8800187D)](decret-n88-432-du-22-avril-1988-mccb8800187d)
 - [Décret n°88-433 du 22 avril 1988 (MCCB8800186D)](decret-n88-433-du-22-avril-1988-mccb8800186d)
