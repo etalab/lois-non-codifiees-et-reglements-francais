@@ -245,6 +245,7 @@
 - [Arrêté du 16 mars 1992 (EQUU9200354A)](arrete-du-16-mars-1992-equu9200354a)
 - [Arrêté du 16 mars 1992 (INDM9200247A)](arrete-du-16-mars-1992-indm9200247a)
 - [Arrêté du 16 mars 1992 (INTE9200132A)](arrete-du-16-mars-1992-inte9200132a)
+- [Arrêté du 16 mars 1992 (MJSK9270047A)](arrete-du-16-mars-1992-mjsk9270047a)
 - [Arrêté du 17 décembre 1987 (ENVP8700226A)](arrete-du-17-decembre-1987-envp8700226a)
 - [Arrêté du 17 décembre 1991 (DEFP9102366A)](arrete-du-17-decembre-1991-defp9102366a)
 - [Arrêté du 17 février 1992 (EQUA9200270A)](arrete-du-17-fevrier-1992-equa9200270a)
