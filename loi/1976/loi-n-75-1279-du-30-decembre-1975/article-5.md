@@ -1,3 +1,0 @@
-# Article 5
-
-Sont majorées forfaitairement d'un taux variable en fonction de l'âge de liquidation et fixé par voie réglementaire, les pensions de vieillesse accordées [*par anticipation*] aux assurés [*anciens prisonniers, anciens combattants*] remplissant les conditions prévues aux deux derniers alinéas de l'article L. 332 du code de la sécurité sociale, dont l'entrée en jouissance est antérieure au 1er juillet 1976 et qui ont été liquidées à un taux inférieur à celui qui était normalement applicable à soixante-cinq ans, dès lors que ce taux réduit n'a pas été compensé, en vertu d'une disposition conventionnelle en vigueur à la date de publication de la présente loi.
