@@ -6,6 +6,7 @@
 - [Arrêté du 11 février 1987 (MENF8600002A)](arrete-du-11-fevrier-1987-menf8600002a)
 - [Arrêté du 11 septembre 1986](arrete-du-11-septembre-1986)
 - [Arrêté du 12 janvier 1987 (EQUP8700043A)](arrete-du-12-janvier-1987-equp8700043a)
+- [Arrêté du 14 décembre 1986](arrete-du-14-decembre-1986)
 - [Arrêté du 14 février 1986](arrete-du-14-fevrier-1986)
 - [Arrêté du 15 juillet 1987 (ASEP8701072A)](arrete-du-15-juillet-1987-asep8701072a)
 - [Arrêté du 18 février 1987](arrete-du-18-fevrier-1987)

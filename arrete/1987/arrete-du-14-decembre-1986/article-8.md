@@ -1,0 +1,3 @@
+# Article 8
+
+Les affectations des personnels non médicaux mentionnés à l'article 6 sont prononcées par le directeur de l'établissement hospitalier de rattachement, sur proposition de l'infirmier général, après avis du psychiatre hospitalier responsable du service. Le chef d'établissement pénitentiaire est informé des affectations de ces personnels et délivre les autorisations d'accès nécessaires. Le praticien peut proposer le retrait de tout agent du service si ce retrait lui paraît nécessaire à l'intérêt du service ou de l'agent. Après examen de cette requête, le directeur est tenu d'aviser dans les meilleurs délais le psychiatre hospitalier de la décision qu'il compte prendre.
