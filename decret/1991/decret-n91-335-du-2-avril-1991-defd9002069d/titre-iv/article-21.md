@@ -4,7 +4,7 @@ Sous réserve des dispositions particulières du présent décret, l'Académie d
 
 La commission administrative et financière statue sur toutes les questions financières concernant le fonctionnement matériel de l'académie.
 
-A cet effet, la commission est réunie, à l'initiative de son président, au moins deux fois par an. Le contrôleur financier est invité à participer, avec voix consultative, aux activités de la commission.
+A cet effet, la commission est réunie, à l'initiative de son président, au moins deux fois par an. Le chef d'état-major de la marine, ou son représentant, et le contrôleur financier sont invités à participer, avec voix consultative, aux activités de la commission.
 
 Le budget est établi et les comptes annuels sont arrêtés par l'académie, après rapport de la commission ; ils doivent ensuite être soumis à l'approbation de l'autorité de tutelle.
 
