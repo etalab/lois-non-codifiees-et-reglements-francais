@@ -1,0 +1,7 @@
+# Arrêté du 3 avril 1996 fixant les conditions d'agrément des établissements d'entreposage des denrées animales et d'origine animale
+
+- [Titre Ier : Champ d'application.](titre-ier)
+- [Titre II : Conditions générales applicables à tous les établissements](titre-ii)
+- [Titre IV : Conditions particulières applicables aux centres d'emballage et de conditionnement.](titre-iv)
+- [Titre V : Agrément.](titre-v)
+- [Article 39](article-39.md)

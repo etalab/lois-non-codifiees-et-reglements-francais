@@ -1,0 +1,3 @@
+# Article 1
+
+Est approuvée l'annexe à la convention nationale des directeurs de laboratoires privés d'analyses médicales ci-annexée conclue entre, d'une part, la Caisse nationale de l'assurance maladie des travailleurs salariés, la caisse centrale de la mutualité sociale agricole et la Caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles et, d'autre part, l'Union des biologistes de France, le Centre national des biologistes, le Syndicat national professionnel des biologistes, le Syndicat des grands laboratoires de biologie clinique, le Syndicat national des médecins biologistes et la Fédération des biologistes de France.
