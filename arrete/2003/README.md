@@ -1069,7 +1069,6 @@
 - [Arrêté du 29 juillet 2003 (MENS0301623A)](arrete-du-29-juillet-2003-mens0301623a)
 - [Arrêté du 29 mars 1999 (ECOF9920901A)](arrete-du-29-mars-1999-ecof9920901a)
 - [Arrêté du 29 octobre 2003 (ECOC0300107A)](arrete-du-29-octobre-2003-ecoc0300107a)
-- [Arrêté du 29 septembre 2003 (DEFM0302133A)](arrete-du-29-septembre-2003-defm0302133a)
 - [Arrêté du 29 septembre 2003 (INDI0320506A)](arrete-du-29-septembre-2003-indi0320506a)
 - [Arrêté du 30 avril 2003 (MENS0300991A)](arrete-du-30-avril-2003-mens0300991a)
 - [Arrêté du 30 avril 2003 (SANH0321568A)](arrete-du-30-avril-2003-sanh0321568a)

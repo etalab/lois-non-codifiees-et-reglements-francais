@@ -959,7 +959,6 @@
 - [Arrêté du 27 mai 1993 (EQUS9300861A)](arrete-du-27-mai-1993-equs9300861a)
 - [Arrêté du 27 mai 1993 (EQUS9300862A)](arrete-du-27-mai-1993-equs9300862a)
 - [Arrêté du 28 août 1991 (DEFD9101879A)](arrete-du-28-aout-1991-defd9101879a)
-- [Arrêté du 28 avril 1993 (BUDD9367924A)](arrete-du-28-avril-1993-budd9367924a)
 - [Arrêté du 28 avril 1993 (ECOT9310174A)](arrete-du-28-avril-1993-ecot9310174a)
 - [Arrêté du 28 avril 1993 (ECOT9320001A)](arrete-du-28-avril-1993-ecot9320001a)
 - [Arrêté du 28 avril 1993 (EQUS9300581A)](arrete-du-28-avril-1993-equs9300581a)
