@@ -46,6 +46,7 @@
 - [Décret n°72-162 du 21 février 1972](decret-n72-162-du-21-fevrier-1972)
 - [Décret n°72-309 du 21 avril 1972](decret-n72-309-du-21-avril-1972)
 - [Décret n°72-221 du 22 mars 1972](decret-n72-221-du-22-mars-1972)
+- [Décret n°72-509 du 22 juin 1972](decret-n72-509-du-22-juin-1972)
 - [Décret n°72-513 du 22 juin 1972](decret-n72-513-du-22-juin-1972)
 - [Décret n°73-979 du 22 octobre 1973](decret-n73-979-du-22-octobre-1973)
 - [Décret n° 70-559 du 23 juin 1970](decret-n-70-559-du-23-juin-1970)
