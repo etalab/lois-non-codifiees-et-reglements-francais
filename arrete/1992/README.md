@@ -660,7 +660,6 @@
 - [Arrêté du 26 juin 1992 (MERP9200116A)](arrete-du-26-juin-1992-merp9200116a)
 - [Arrêté du 26 juin 1992 (SPSS9201531A)](arrete-du-26-juin-1992-spss9201531a)
 - [Arrêté du 26 mars 1992 (BUDD9250003A)](arrete-du-26-mars-1992-budd9250003a)
-- [Arrêté du 26 mars 1992 (EQUA9200512A)](arrete-du-26-mars-1992-equa9200512a)
 - [Arrêté du 26 mars 1992 (INTE9200174A)](arrete-du-26-mars-1992-inte9200174a)
 - [Arrêté du 26 mars 1992 (MENN9200781A)](arrete-du-26-mars-1992-menn9200781a)
 - [Arrêté du 26 mars 1992 (MENN9200782A)](arrete-du-26-mars-1992-menn9200782a)
@@ -830,4 +829,4 @@
 - [Arrêté du 31 mars 1992 (PTTR9200184A)](arrete-du-31-mars-1992-pttr9200184a)
 - [Arrêté du 31 mars 1992 (RESY9200039A)](arrete-du-31-mars-1992-resy9200039a)
 - [Arrêté du 31 mars 1992 (SANH9200864A)](arrete-du-31-mars-1992-sanh9200864a)
-- [Arrêté du 31 mars 1992 (SPSS9200875A)](arrete-du-31-mars-1992-spss9200875a)
+- [Arrêté du 31 mars 1992 (SPSs9200875A)](arrete-du-31-mars-1992-spss9200875a)
