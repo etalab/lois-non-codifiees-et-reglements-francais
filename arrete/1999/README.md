@@ -473,6 +473,8 @@
 - [Arrêté du 30 avril 1999 (MAEA9820526A)](arrete-du-30-avril-1999-maea9820526a)
 - [Arrêté du 30 décembre 1998 (ECOC9800136A)](arrete-du-30-decembre-1998-ecoc9800136a)
 - [Arrêté du 30 juin 1999 (ECOF9900016A)](arrete-du-30-juin-1999-ecof9900016a)
+- [Arrêté du 30 juin 1999 (EQUU9900634A)](arrete-du-30-juin-1999-equu9900634a)
+- [Arrêté du 30 juin 1999 (EQUU9900635A)](arrete-du-30-juin-1999-equu9900635a)
 - [Arrêté du 30 mars 1999 (ATEN9980052A)](arrete-du-30-mars-1999-aten9980052a)
 - [Arrêté du 30 mars 1999 (ATEN9980053A)](arrete-du-30-mars-1999-aten9980053a)
 - [Arrêté du 30 mars 1999 (ECOT9951787A)](arrete-du-30-mars-1999-ecot9951787a)
