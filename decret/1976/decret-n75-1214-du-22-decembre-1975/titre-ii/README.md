@@ -4,6 +4,7 @@
 - [Article 5-B](article-5-b.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
+- [Article 9](article-9.md)
 - [Avancement.](avancement)
 - [Dispositions diverses ou transitoires](dispositions-diverses-ou)
 - [Recrutement.](recrutement)
