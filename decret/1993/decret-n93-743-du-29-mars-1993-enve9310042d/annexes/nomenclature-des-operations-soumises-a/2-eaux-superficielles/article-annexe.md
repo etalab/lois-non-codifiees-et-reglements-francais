@@ -1,5 +1,7 @@
 # Article ANNEXE
 
+Au sens du présent titre, la largeur du lit mineur d'un cours d'eau correspond à la représentation cartographique (échelle 1/25 000) de l'Institut géographique national, soit un double trait pour une largeur supérieure ou égale à 7,5 m et un simple trait continu ou discontinu pour une largeur inférieure à 7,5 m. Les cours d'eau non cartographiés à cette échelle sont réputés avoir une largeur inférieure à 7,5 m.
+
 Au sens du présent titre, le débit de référence du cours d'eau s'entend comme le débit moyen mensuel sec de récurrence 5 ans ci-après dénommé le débit.
 
 2.1.0. A l'exception des prélèvements faisant l'objet d'une convention avec l'attributaire du débit affecté prévu par l'article 15 de la loi sur l'eau, prélèvement et installations et ouvrages permettant le prélèvement, y compris par dérivation, dans un cours d'eau, dans sa nappe d'accompagnement ou dans un plan d'eau ou canal alimenté par ce cours d'eau ou cette nappe :
@@ -96,17 +98,59 @@ b) Apport au milieu aquatique de 5 à 20 t/jour de sels dissous D
 
 2.4.1. Ouvrages hydrauliques fonctionnant par éclusées A
 
-2.5.0. Détournement, dérivation, rectification du lit, canalisation d'un cours d'eau A
+2.5.0. Installations, ouvrages, travaux ou activités conduisant à modifier le profil en long ou le profil en travers d'un cours d'eau, à l'exclusion de ceux visés à la rubrique 2.5.5, ou conduisant à la dérivation ou au détournement d'un cours d'eau A
 
 2.5.1. Création de canaux dont la section est supérieure à 10 m2 A
 
-2.5.2. Couverture d'un cours d'eau naturel sur une longueur :
+2.5.2. Installations ou ouvrages ayant un impact sensible sur la luminosité nécessaire au maintien de la vie et de la circulation aquatiques dans un cours d'eau sur une longueur :
 
-1° Supérieure ou égale à 100 m A
+1° Supérieure ou égale à 100 m
 
-2° Comprise entre 10 et 100 m D
+A
+
+2° Supérieure ou égale à 10 m et inférieure à 100 m
+
+D
 
 2.5.3. Ouvrage, remblais et épis, dans le lit mineur d'un cours d'eau, constituant un obstacle à l'écoulement des crues A
+
+2.5.4. Installations, ouvrages, digues ou remblais, d'une hauteur maximale supérieure à 0,5 m au-dessus du niveau du terrain naturel dans le lit majeur d'un cours d'eau :
+
+1° Surface soustraite supérieure ou égale à 1 000 m2
+
+A
+
+2° Surface soustraite supérieure à 400 m2 et inférieure à 1 000 m2
+
+D
+
+3° Surface soustraite inférieure à 400 m2 mais fraction de la largeur du lit majeur occupée par l'ouvrage supérieure ou égale à 20 %
+
+D
+
+Au sens de la présente rubrique, le lit majeur du cours d'eau est la zone naturellement inondable par la plus forte crue connue, ou par la crue centennale si celle-ci est supérieure. La surface soustraite est la surface soustraite à l'expansion des crues du fait de l'existence de l'installation ou ouvrage, y compris la surface occupée par l'installation, l'ouvrage, la digue ou le remblai dans le lit majeur.
+
+2.5.5. Consolidation ou protection de berges, à l'exclusion des canaux artificiels, par des techniques autres que végétales :
+
+1° Pour un cours d'eau ayant un lit mineur d'une largeur inférieure à 7,5 m :
+
+a) Sur une longueur supérieure ou égale à 50 m
+
+A
+
+b) Sur une longueur supérieure ou égale à 20 m et inférieure à 50 m
+
+D
+
+2° Pour un cours d'eau ayant un lit mineur d'une largeur supérieure ou égale à 7,5 m :
+
+a) Sur une longueur supérieure ou égale à 200 m
+
+A
+
+b) Sur une longueur supérieure ou égale à 50 m et inférieure à 200 m
+
+D
 
 2.6.0. En dehors des voies navigables, curage ou dragage des cours d'eau ou étangs, hors " vieux fonds vieux bords ", et à l'exclusion des dragages visés à la rubrique 3.4.0, le volume des boues ou matériaux retiré au cours d'une année étant :
 
