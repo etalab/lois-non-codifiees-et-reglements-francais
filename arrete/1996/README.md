@@ -372,7 +372,6 @@
 - [Arrêté du 11 avril 1996 (TASE9610564A)](arrete-du-11-avril-1996-tase9610564a)
 - [Arrêté du 11 décembre 1996 (ECOS9650041A)](arrete-du-11-decembre-1996-ecos9650041a)
 - [Arrêté du 11 décembre 1996 (INTA9600553A)](arrete-du-11-decembre-1996-inta9600553a)
-- [Arrêté du 11 décembre 1996 (MCCE9600713A)](arrete-du-11-decembre-1996-mcce9600713a)
 - [Arrêté du 11 décembre 1996 (MCCE9600714A)](arrete-du-11-decembre-1996-mcce9600714a)
 - [Arrêté du 11 décembre 1996 (MIPP9600442A)](arrete-du-11-decembre-1996-mipp9600442a)
 - [Arrêté du 11 janvier 1996 (DEFP9601048A)](arrete-du-11-janvier-1996-defp9601048a)
