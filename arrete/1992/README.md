@@ -1204,5 +1204,5 @@
 - [Arrêté du 31 mars 1992 (PTTR9200183A)](arrete-du-31-mars-1992-pttr9200183a)
 - [Arrêté du 31 mars 1992 (PTTR9200184A)](arrete-du-31-mars-1992-pttr9200184a)
 - [Arrêté du 31 mars 1992 (RESY9200039A)](arrete-du-31-mars-1992-resy9200039a)
-- [Arrêté du 31 mars 1992 (SPSs9200875A)](arrete-du-31-mars-1992-spss9200875a)
+- [Arrêté du 31 mars 1992 (SPSS9200875A)](arrete-du-31-mars-1992-spss9200875a)
 - [Arrêté du 1er décembre 1992 (INDM9200968A)](arrete-du-1er-decembre-1992-indm9200968a)
