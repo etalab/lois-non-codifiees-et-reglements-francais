@@ -763,6 +763,7 @@
 - [Arrêté du 27 janvier 1993 (MERP9300018A)](arrete-du-27-janvier-1993-merp9300018a)
 - [Arrêté du 27 janvier 1993 (RESY9300572A)](arrete-du-27-janvier-1993-resy9300572a)
 - [Arrêté du 27 juillet 1993 (PRMG9370421A)](arrete-du-27-juillet-1993-prmg9370421a)
+- [Arrêté du 27 juillet 1993 (SPSI9302094A)](arrete-du-27-juillet-1993-spsi9302094a)
 - [Arrêté du 27 mars 1993 (ACVE9250020A)](arrete-du-27-mars-1993-acve9250020a)
 - [Arrêté du 27 mars 1993 (DEFD9301302A)](arrete-du-27-mars-1993-defd9301302a)
 - [Arrêté du 27 mars 1993 (EQUS9300452A)](arrete-du-27-mars-1993-equs9300452a)
