@@ -1,11 +1,5 @@
 # Article 10
 
-Quand la déclaration d'appel est reçue par le greffier du tribunal de grande instance, celui-ci fait parvenir sans délai une copie de la déclaration d'appel et le dossier de l'affaire au greffe de la cour d'appel.
+La décision du premier président ou de son délégué sur le caractère suspensif de l'appel est portée à la connaissance des parties par le greffe de la cour d'appel et communiquée au procureur de la République, qui veille à son exécution.
 
-Quand la déclaration d'appel est reçue par le greffier de la cour d'appel, celui-ci avise sur-le-champ le greffier du tribunal de grande instance qui transmet sans délai le dossier au greffe de la cour d'appel.
-
-Le greffier de la cour d'appel informe par tous moyens les autres personnes qui auraient eu qualité pour faire appel et leur fait connaître la date de l'audience.
-
-Le préfet et à Paris le préfet de police, l'avocat de l'étranger et l'étranger lui-même peuvent demander à être entendus à l'audience.
-
-Le ministère public peut faire connaître son avis.
+Le procureur de la République s'assure que l'étranger reste à la disposition de la justice jusqu'à ce que cette décision soit portée à sa connaissance ou, lorsque l'appel a été déclaré suspensif, jusqu'au prononcé de la décision au fond.
