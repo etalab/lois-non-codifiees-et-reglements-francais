@@ -23,6 +23,7 @@
 - [Arrêté du 20 avril 1972](arrete-du-20-avril-1972)
 - [Arrêté du 20 mars 1972](arrete-du-20-mars-1972)
 - [Arrêté du 24 mars 1972](arrete-du-24-mars-1972)
+- [Arrêté du 26 avril 1972](arrete-du-26-avril-1972)
 - [Arrêté du 27 août 1971](arrete-du-27-aout-1971)
 - [Arrêté du 27 avril 1972](arrete-du-27-avril-1972)
 - [Arrêté du 30 décembre 1971](arrete-du-30-decembre-1971)
