@@ -1,3 +1,3 @@
 # Article 33
 
-- Les produits des zones de montagne, autres que les vins, qui font l'objet d'une appellation d'origine, d'un label ou de toute autre certification de qualité peuvent en outre bénéficier d'une appellation "montagne". Un décret en Conseil d'Etat détermine les conditions d'application du présent article, notamment en ce qui concerne les techniques et le lieu de fabrication, ainsi que la provenance des matières premières.
+Pour les denrées alimentaires, autres que les vins, et pour les produits agricoles non alimentaires et non transformés, les références géographiques spécifiques aux zones de montagne au sens de la présente loi, telles que les noms d'un massif, d'un sommet, d'une vallée, d'une commune ou d'un département ne pourront être utilisées que si elles ont fait l'objet d'une demande d'enregistrement en tant qu'appellation d'origine protégée ou indication géographique protégée conformément à l'article L. 115-26-1 du code de la consommation.
