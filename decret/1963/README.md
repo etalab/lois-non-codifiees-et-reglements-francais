@@ -23,7 +23,6 @@
 - [Décret n°63-1228 du 11 décembre 1963](decret-n63-1228-du-11-decembre-1963)
 - [Décret n°63-575 du 11 juin 1963](decret-n63-575-du-11-juin-1963)
 - [Décret n°63-684 du 13 juillet 1963](decret-n63-684-du-13-juillet-1963)
-- [Décret n°63-698 du 13 juillet 1963](decret-n63-698-du-13-juillet-1963)
 - [Décret n°63-720 du 13 juillet 1963](decret-n63-720-du-13-juillet-1963)
 - [Décret n°62-1454 du 14 novembre 1962](decret-n62-1454-du-14-novembre-1962)
 - [Décret n°63-112 du 14 février 1963](decret-n63-112-du-14-fevrier-1963)

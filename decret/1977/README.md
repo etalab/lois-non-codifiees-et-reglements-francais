@@ -79,7 +79,6 @@
 - [Décret n°77-1247 du 14 novembre 1977](decret-n77-1247-du-14-novembre-1977)
 - [Décret n°77-636 du 14 juin 1977](decret-n77-636-du-14-juin-1977)
 - [Décret n°77-227 du 15 mars 1977](decret-n77-227-du-15-mars-1977)
-- [Décret n°77-239 du 15 mars 1977](decret-n77-239-du-15-mars-1977)
 - [Décret n°77-154 du 16 février 1977](decret-n77-154-du-16-fevrier-1977)
 - [Décret n°77-264 du 16 février 1977](decret-n77-264-du-16-fevrier-1977)
 - [Décret n°77-291 du 16 mars 1977](decret-n77-291-du-16-mars-1977)
