@@ -31,6 +31,7 @@
 - [Loi n° 86-13 du 6 janvier 1986](loi-n-86-13-du-6-janvier-1986)
 - [Loi n° 86-1300 du 23 décembre 1986](loi-n-86-1300-du-23-decembre-1986)
 - [Loi n° 86-1304 du 23 décembre 1986](loi-n-86-1304-du-23-decembre-1986)
+- [Loi n° 86-1307 du 29 décembre 1986](loi-n-86-1307-du-29-decembre-1986)
 - [Loi n° 86-16 du 6 janvier 1986](loi-n-86-16-du-6-janvier-1986)
 - [Loi n° 86-17 du 6 janvier 1986](loi-n-86-17-du-6-janvier-1986)
 - [Loi n° 86-18 du 6 janvier 1986](loi-n-86-18-du-6-janvier-1986)

@@ -6,4 +6,5 @@
 - [Titre IV : Le budget et les biens.](titre-iv)
 - [Titre V : Les services et les personnels  de la commune et du département de Paris](titre-v)
 - [Titre VI : Dispositions diverses.](titre-vi)
+- [Article 23](article-23.md)
 - [Le budget de la ville de Paris](le-budget-de-la-ville-de-paris)

@@ -1,9 +1,7 @@
 # Article 1
 
-Le territoire de la ville de Paris recouvre deux collectivités territoriales distinctes :
+Le conseil de Paris établit son règlement intérieur en distinguant les règles applicables aux délibérations du conseil en formation de conseil municipal et en formation de conseil général.
 
-- la commune de Paris ;
+Ce règlement détermine les conditions dans lesquelles les conseillers de Paris posent des questions orales au maire et au préfet de police.
 
-- le département de Paris.
-
-Les affaires de ces collectivités sont réglées par les délibérations d'une même assemblée dénommée Conseil de Paris.
+Ce règlement définit également les conditions dans lesquelles sont gérés les crédits visés à l'article 23 ci-après.
