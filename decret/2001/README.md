@@ -103,6 +103,7 @@
 - [Décret n°2000-1158 du 24 novembre 2000 (MENS0002955D)](decret-n2000-1158-du-24-novembre-2000-mens0002955d)
 - [Décret n°2001-66 du 24 janvier 2001 (MAEA0020516D)](decret-n2001-66-du-24-janvier-2001-maea0020516d)
 - [Décret n°2001-67 du 24 janvier 2001 (AGRP0001825D)](decret-n2001-67-du-24-janvier-2001-agrp0001825d)
+- [Décret n°2001-69 du 24 janvier 2001 (MESG0110044D)](decret-n2001-69-du-24-janvier-2001-mesg0110044d)
 - [Décret n°2001-880 du 25 septembre 2001 (PRMG0170067D)](decret-n2001-880-du-25-septembre-2001-prmg0170067d)
 - [Décret n°2000-1315 du 26 décembre 2000 (ECOI0020409D)](decret-n2000-1315-du-26-decembre-2000-ecoi0020409d)
 - [Décret n°2000-1328 du 26 décembre 2000 (JUSE0040061D)](decret-n2000-1328-du-26-decembre-2000-juse0040061d)
