@@ -1,6 +1,7 @@
 # Décret n°85-1232 du 5 novembre 1985 relatif aux conventions conclues, en application de l'article L. 351-2 du code de la construction et de l'habitation, entre l'Etat et les organismes d'habitations à loyer modéré signataires d'un contrat-cadre ayant pour objet la définition d'une nouvelle politique des loyers
 
 - [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
