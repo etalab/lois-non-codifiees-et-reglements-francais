@@ -2,6 +2,7 @@
 
 - [Section III : Dispositions communes.](section-iii)
 - [Section IV : Dispositions spéciales.](section-iv)
+- [Article 82](article-82.md)
 - [Article 83](article-83.md)
 - [Article 83 bis](article-83-bis.md)
 - [Article 83 ter](article-83-ter.md)
