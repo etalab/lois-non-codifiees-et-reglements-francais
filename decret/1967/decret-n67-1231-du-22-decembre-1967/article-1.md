@@ -1,11 +1,21 @@
 # Article 1
 
-Le conseil d'administration de l'agence centrale des organismes de sécurité sociale est désigné pour quatre ans [*durée du mandat*].
+Le conseil d'administration de l'agence centrale des organismes de sécurité sociale comprend, outre le président, nommé par décret sur proposition du ministre chargé de la sécurité sociale, quinze membres, à raison de [*nombre, composition*] :
 
-Le président du conseil d'administration est nommé par décret sur proposition du ministre chargé de la sécurité sociale [*mode de désignation*].
+Cinq représentants de la Caisse nationale de l'assurance maladie des travailleurs salariés ;
 
-Le nombre des représentants de chacune des trois caisses nationales au conseil d'administration est fixé à quatre.
+Cinq représentants de la Caisse nationale d'assurance vieillesse des travailleurs salariés ;
 
-Dans le cas où un administrateur de l'agence centrale cesse d'appartenir au conseil d'administration de la caisse nationale qu'il représente, il est immédiatement mis fin à ses fonctions et la caisse nationale désigne un nouvel administrateur. Les fonctions de cet administrateur prennent fin en même temps que celles des autres administrateurs de l'agence centrale.
+Cinq représentants de la Caisse nationale des allocations familiales.
 
-Chaque organisation syndicale nationale de salariés et chaque organisation professionnelle nationale représentée au conseil d'administration peut désigner un administrateur suppléant. Les administrateurs suppléants ne siègent aux séances qu'en l'absence des administrateurs titulaires.
+Les représentants de chaque caisse nationale sont désignés par le conseil d'administration parmi ses membres.
+
+Neuf des quinze membres du conseil d'administration de l'agence sont choisis parmi les administrateurs assurés sociaux et six parmi les administrateurs employeurs.
+
+La répartition des sièges entre les organisations représentant les assurés sociaux s'effectue sur la base du total des voix obtenues par ces organisations au niveau national lors des élections aux conseils d'administration des caisses primaires d'assurance maladie et des caisses d'allocations familiales et selon la règle de la représentation proportionnelle au plus fort reste [*mode de scrutin*].
+
+Si cette répartition n'est pas respectée ou si l'une ou plusieurs des organisations syndicales nationales représentatives au sens de l'article L. 133-2 du code du travail ne sont pas représentées, le ministre chargé de la sécurité sociale invite les conseils d'administration des trois caisses nationales à procéder à une nouvelle délibération.
+
+Ces conseils désignent en outre un suppléant appartenant à chacune des organisations représentées au conseil d'administration de l'agence.
+
+Dans le cas où un administrateur cesse d'appartenir au conseil d'administration de la caisse nationale qu'il représente, il est immédiatement mis fin à ses fonctions et la caisse désigne un nouvel administrateur. Les fonctions de cet administrateur prennent fin en même temps que celles des autres administrateurs de l'agence [*date*].
