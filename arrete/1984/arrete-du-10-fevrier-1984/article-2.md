@@ -1,17 +1,7 @@
 # Article 2
 
-Pour l'application du présent arrêté, il faut entendre par :
+Les membres du conseil spécialisé pour le secteur du houblon, autres que les représentants des pouvoirs publics, sont nommés pour une durée de trois ans, par décision du ministre chargé de l'agriculture. Toutefois, leur mandat expire en même temps que celui des membres du conseil de direction de l'Office national interprofessionnel des fruits, des légumes et de l'horticulture.
 
-a) Abattoir [*définition*] : tout établissement d'abattage inscrit au plan national d'équipements en abattoirs ;
+Le mandat des membres du conseil spécialisé est renouvelable.
 
-b) Animaux de boucherie [*définition*] : les animaux domestiques appartenant aux espèces bovine, porcine, ovine, caprine, équine et asine ainsi que leurs croisements ;
-
-c) Saignée [*définition*] : l'opération qui consiste à recueillir par section ou ponction des vaisseaux sanguins de gros calibre, la plus grande partie possible du sang des animaux susvisés afin de provoquer leur mort ;
-
-d) Egouttage [*définition*] : l'élimination gravitaire progressive du sang résiduel qui suit la saignée proprement dite ;
-
-e) Défibrination et anticoagulants [*définition*] : les opérations et les substances destinées à empêcher la coagulation du sang ;
-
-f) Premier traitement [*définition*] : toute opération réalisée sur le sang ou ses constituants qui respecte leurs principales caractéristiques nutritionnelles (cf. annexe I). Ce paragraphe ne vise pas les traitements destinés à assurer la conservation, autres que le froid ;
-
-g) Sang à usage industriel [*définition*] : le sang ne répondant pas aux conditions du présent arrêté.
+Dans l'hypothèse où, pour un motif quelconque, le mandat d'un des membres visés à l'article ci-dessus prend fin avant la date d'échéance dudit mandat, la durée du mandat de son remplaçant ne couvre que la période restant à courir entre la date de cessation de fonctions du représentant remplacé et la date d'échéance du mandat de ce dernier.
