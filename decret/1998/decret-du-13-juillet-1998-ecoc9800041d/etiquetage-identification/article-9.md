@@ -18,10 +18,6 @@ L'emploi de tout autre qualificatif ou de toute autre mention accompagnant le no
 
 - de la mention "Produit du Berry" dans des caractères dont les dimensions ne dépassent pas le tiers de celles de la dénomination "Valençay".
 
-A titre transitoire et pour une période maximale de cinq ans à compter de la publication du présent décret, le nom de "Levroux" peut être utilisé sur l'étiquetage du fromage de l'appellation d'origine contrôlée "Valençay". Il est réservé aux seuls producteurs recensés par le comité national des produits laitiers de l'Institut national des appellations d'origine et pouvant justifier d'un usage continu du nom "Levroux".
-
-Le nom "Levroux" doit être écrit dans des caractères dont les dimensions ne dépassent pas celles des caractères de l'AOC "Valençay".
-
 En outre, tout fromage commercialisé sous le nom de l'appellation d'origine contrôlée doit comporter, du producteur jusqu'au distributeur final, un signe d'identification permettant de connaître l'atelier. Ces signes sont détenus par le syndicat de défense de l'appellation ayant passé une convention avec l'Institut national des appellations d'origine, conformément à l'article 3 du décret du 15 novembre 1993 susmentionné.
 
 Ils sont distribués à tout fabricant ayant présenté une déclaration d'aptitude auprès de l'Institut national des appellations d'origine proportionnellement aux quantités de lait conformes à l'appellation d'origine contrôlée.
