@@ -589,7 +589,6 @@
 - [Décret n°90-1256 du 21 décembre 1990 (EQUT9000687D)](decret-n90-1256-du-21-decembre-1990-equt9000687d)
 - [Décret n°90-1263 du 21 décembre 1990 (INTB9000349D)](decret-n90-1263-du-21-decembre-1990-intb9000349d)
 - [Décret n°91-1094 du 21 octobre 1991 (FRAC9100001D)](decret-n91-1094-du-21-octobre-1991-frac9100001d)
-- [Décret n°91-1188 du 21 novembre 1991 (COMK9108001D)](decret-n91-1188-du-21-novembre-1991-comk9108001d)
 - [Décret n°91-1192 du 21 novembre 1991 (MCCB9100609D)](decret-n91-1192-du-21-novembre-1991-mccb9100609d)
 - [Décret n°91-189 du 21 février 1991 (PRMG9170072D)](decret-n91-189-du-21-fevrier-1991-prmg9170072d)
 - [Décret n°91-191 du 21 février 1991 (TOUR9004558D)](decret-n91-191-du-21-fevrier-1991-tour9004558d)
