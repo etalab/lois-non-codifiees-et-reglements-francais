@@ -1,4 +1,4 @@
-# Arrêté du 3 octobre 1984 portant création de commissions spécialisées du conseil supérieur de la prévention des risques professionnels
+# CHAPITRE Ier : Composition de la formation disciplinaire.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
