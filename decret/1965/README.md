@@ -5,6 +5,7 @@
 - [Décret n°65-16 du 9 janvier 1965](decret-n65-16-du-9-janvier-1965)
 - [Décret n°65-688 du 10 août 1965](decret-n65-688-du-10-aout-1965)
 - [Décret n°65-29 du 11 janvier 1965](decret-n65-29-du-11-janvier-1965)
+- [Décret n°65-140 du 12 février 1965](decret-n65-140-du-12-fevrier-1965)
 - [Décret n°65-28 du 13 janvier 1965](decret-n65-28-du-13-janvier-1965)
 - [Décret n°65-45 du 13 janvier 1965](decret-n65-45-du-13-janvier-1965)
 - [Décret n°65-72 du 13 janvier 1965](decret-n65-72-du-13-janvier-1965)
