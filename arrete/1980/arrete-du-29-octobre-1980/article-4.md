@@ -14,6 +14,8 @@ La commission comprend, outre le président, représentant du ministre, les auto
 
 - le directeur de l'administration générale ;
 
+- le directeur du service de santé des armées ;
+
 - le directeur des recherches, études et techniques d'armement ;
 
 - le directeur des armements terrestres ;
@@ -26,7 +28,7 @@ La commission comprend, outre le président, représentant du ministre, les auto
 
 - le directeur de l'électronique et de l'informatique ;
 
-- le chargé de mission auprès du délégué général pour l'armement,      chargé de l'innovation ;
+- le chargé de mission auprès du délégué général pour l'armement, chargé de l'innovation ;
 
 - le contrôleur financier près le ministre de la défense.
 
