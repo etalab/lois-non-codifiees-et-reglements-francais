@@ -340,6 +340,7 @@
 - [Décret n°86-146 du 30 janvier 1986](decret-n86-146-du-30-janvier-1986)
 - [Décret n°86-150 du 30 janvier 1986](decret-n86-150-du-30-janvier-1986)
 - [Décret n°86-153 du 30 janvier 1986](decret-n86-153-du-30-janvier-1986)
+- [Décret n°86-752 du 30 mai 1986](decret-n86-752-du-30-mai-1986)
 - [Décret n°85-1486 du 31 décembre 1985](decret-n85-1486-du-31-decembre-1985)
 - [Décret n°85-1488 du 31 décembre 1985](decret-n85-1488-du-31-decembre-1985)
 - [Décret n°85-1490 du 31 décembre 1985](decret-n85-1490-du-31-decembre-1985)
