@@ -6,14 +6,16 @@ L'initiative de cet appel appartient au président du tribunal du travail et au 
 
 Dans le délai d'un mois, à dater de la convocation, le procès-verbal de la séance de comparution est adressé par le président du tribunal du travail au procureur de la République.
 
-Ce procès-verbal est transmis par le procureur de la République avec son avis au chef du service judiciaire du territoire.
+Ce procès-verbal est transmis par le procureur de la République, avec son avis, au procureur général près la cour d'appel, lequel en saisit cette dernière.
 
-Par arrêté motivé du chef de territoire pris sur proposition du chef du service judiciaire, les peines suivantes peuvent être prononcées :
+Au vu du procès-verbal, la cour d'appel statue en chambre du conseil. Elle peut prononcer les peines suivantes :
 
-La censure ;
+- la censure ;
 
-La suspension pour un temps qui ne peut excéder six mois ;
+- la suspension pour un temps qui ne peut excéder six mois ;
 
-La déchéance.
+- la déchéance.
 
 Tout assesseur contre lequel la déchéance a été prononcée ne peut être désigné à nouveau aux mêmes fonctions.
+
+L'assesseur qui a été condamné pour des faits prévus aux articles L. 5 et L. 6 du code électoral est déchu de plein droit de ses fonctions à la date de la condamnation devenue définitive.
