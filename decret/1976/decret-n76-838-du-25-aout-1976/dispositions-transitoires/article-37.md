@@ -1,0 +1,3 @@
+# Article 37
+
+Les projets de création et d'extension d'établissements gérés par des personnes physiques ou par des personnes morales de droit privé et entrant dans l'une des catégories énumérées à l'article 3 de la loi susvisée du 30 juin 1975 qui n'étaient pas soumis à une procédure d'autorisation avant l'intervention de ladite loi et auxquels étaient applicables les quatre premiers alinéas de l'article 95 ainsi que les articles 203, 204, 205 et 211 du Code de la famille et de l'aide sociale demeurent soumis à ces dernières dispositions s'ils ont reçu un commencement d'exécution avant la date de publication du présent décret.
