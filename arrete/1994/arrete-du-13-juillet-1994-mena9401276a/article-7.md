@@ -1,3 +1,5 @@
 # Article 7
 
-Pour les candidats préparant le brevet des métiers d'art de la broderie par la voie scolaire dans un établissement public ou privé sous contrat, ou par la voie de la formation professionnelle continue dans un établissement public, le jury attribue, sur la base des propositions formulées par les professeurs de l'élève à l'issue du contrôle organisé en cours de formation, les notes correspondant aux trois épreuves concernées et visées à l'annexe III du présent arrêté.
+Pour les candidats préparant le brevet des métiers d'art par la voie scolaire dans un établissement public ou privé sous contrat, par la voie de la formation professionnelle continue dans un établissement public, ou par la voie de l'apprentissage dans un centre de formation d'apprentis habilité, le jury attribue les notes correspondant aux trois épreuves validées par contrôle en cours de formation et visées à l'annexe III du présent arrêté,
+
+sur la base des propositions formulées à l'issue du contrôle organisé en cours de formation par le professeur du candidat. Cette proposition est présentée conjointement avec les professionnels ayant participé à la formation pour l'épreuve E 1.
