@@ -1,0 +1,5 @@
+# Article 5 BIS
+
+A titre expérimental, dans certains départements déterminés par décision conjointe du ministre du travail et de la participation et du ministre du commerce et de l'artisanat, l'état apporte dans la limite des crédits disponibles, aux chambres de métiers ou aux organisations professionnelles artisanales qui ont signé une convention cadre, conformément à l'article 4 du présent décret, une aide complémentaire égale à deux fois le minimum garanti visé à l'article L. 141-8 du Code du travail par heure de formation.
+
+Ces dispositions s'appliquent aux formations de plus de 440 heures ainsi organisées pour les jeunes de plus de /R/vingt ans, cette limite d'âge étant abaissée à dix-huit ans pour ceux qui ont achevé le second cycle de formation des lycées/R/DECR. 770 1981-08-07 : dix-huit ans//, ainsi que pour les femmes [*veuves, divorcées, séparées, célibataires avec un enfant à charge*] visées à l'article 1er du présent décret, qui sont embauchés par des entreprises inscrites au répertoire des métiers ou, en ce qui concerne les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, au registre des entreprises.
