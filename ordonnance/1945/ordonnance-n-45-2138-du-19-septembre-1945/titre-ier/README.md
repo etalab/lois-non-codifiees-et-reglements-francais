@@ -1,6 +1,7 @@
 # Titre Ier : Dispositions générales
 
 - [Section I : Des experts comptables.](section-i)
+- [Article 2](article-2.md)
 - [Section III : Dispositions communes aux experts comptables et aux comptables agréés.](section-iii)
 - [Article 4](article-4.md)
 - [Article 4 bis](article-4-bis.md)
