@@ -8,6 +8,8 @@ Sont soumis aux règles édictées par le présent statut, dont un exemplaire do
 
 3° Les agents du fonds d'intervention et de régularisation du marché du sucre ;
 
-4° Les agents de l'Institut national des appellations d'origine de vins et eaux-de-vie.
+4° Les agents de l'Institut national des appellations d'origine de vins et eaux-de-vie ;
+
+5° Les agents de l'Agence de développement agricole et rural.
 
 Ce statut n'est pas applicable aux agents recrutés à titre temporaire.
