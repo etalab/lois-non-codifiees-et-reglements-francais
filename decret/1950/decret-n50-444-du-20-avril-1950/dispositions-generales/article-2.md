@@ -2,15 +2,9 @@
 
 1. Pour les salariés des professions agricoles visés à l'article 1144 du Code rural :
 
-A - Le taux de la cotisation affectée à la couverture des prestations légales de l'assurance maladie, maternité, invalidité et décès du régime de l'assurance sociale agricole est fixé :
+A - Le taux de la cotisation affectée à la couverture des prestations légales de l'assurance maladie, maternité, invalidité et décès du régime de l'assurance sociale agricole est fixé à 16,40 p. 100 soit 10,90 p. 100 à la charge de l'employeur et 5,50 p. 100 à la charge du salarié, sur les rémunérations ou gains de l'intéressé [*assiette - part patronale - part salariale*].
 
-à 3,45 p. 100, à la charge de l'employeur, du montant des rémunérations ou gains perçus par le salarié dans la limite du plafond fixé dans les conditions prévues par le décret n. 77-1373 du 16 décembre 1977 ;
-
-à 13,50 p. 100, soit 8 p. 100 à la charge de l'employeur et 5,50 p. 100 à la charge du salarié, sur la totalité des rémunérations ou gains perçus par l'intéressé [*assiette - part patronale - contribution ouvrière*].
-
-B - Le taux de la cotisation affectée à la couverture des prestations légales d'assurance vieillesse est fixé :
-
-à 11,90 % soit 7,20 % à la charge de l'employeur et 4,70 % à la charge du salarié, du montant des rémunérations ou gains perçus par celui-ci dans la limite du plafond susvisé.
+B - Le taux de la cotisation affectée à la couverture des prestations légales d'assurance vieillesse est fixé à 12,90 % soit 7,20 % à la charge de l'employeur et 5,70 % à la charge du salarié, sur les rémunérations ou gains de celui-ci dans la limite du plafond prévu par l'article 1031 du code rural.
 
 2. La cotisation du salarié au taux fixé au 1. ci-dessus pour la couverture du risque vieillesse cesse d'être exigible à compter du premier jour du mois au cours duquel l'assuré atteint son soixante-cinquième anniversaire [*exonération*].
 
