@@ -32,4 +32,12 @@ Les agents non titulaires qui ont occupé antérieurement des emplois d'un nivea
 
 Les dispositions qui précèdent ne peuvent avoir pour conséquence de placer les intéressés dans une situation plus favorable que celle qui résulterait d'un classement à un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans l'ancien emploi avec conservation de l'ancienneté d'échelon dans les conditions définies aux deuxième et troisième alinéas du 1° ci-dessus.
 
-3° En ce qui concerne le corps des dessinateurs, ceux de ces agents qui étaient titulaires sont classés dans les conditions prévues au décret du 30 novembre 1988 susvisé.
+3° Les agents nommés dans le corps des adjoints techniques à la suite d'un concours et qui ont eu auparavant la qualité d'agent non titulaire sont classés, lors de leur titularisation, dans le grade de début à un échelon déterminé en prenant en compte, sur la base des durées moyennes fixées pour chaque avancement d'échelon, une fraction de l'ancienneté totale acquise à la date de leur nomination comme stagiaire dans les conditions suivantes :
+
+a) Les services accomplis dans un emploi de niveau au moins équivalent à celui de la catégorie B sont retenus à raison des trois quarts de leur durée ;
+
+b) Les services accomplis dans un emploi de niveau inférieur sont retenus à raison de la moitié de leur durée.
+
+Les dispositions du précédent alinéa ne peuvent avoir pour conséquence de placer les intéressés dans une situation plus favorable que celle qui résulterait d'un classement à un échelon comportant un traitement égal ou à défaut immédiatement supérieur à celui perçu dans l'ancien emploi avec conservation de l'ancienneté moyenne fixée pour le passage à l'échelon ou au grade supérieurs.
+
+4° En ce qui concerne le corps des dessinateurs, ceux de ces agents qui étaient titulaires sont classés dans les conditions prévues au décret du 30 novembre 1988 susvisé.
