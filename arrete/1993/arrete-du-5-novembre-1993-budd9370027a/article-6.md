@@ -1,0 +1,7 @@
+# Article 6
+
+L'exonération des taxes intérieures de consommation susvisées ne s'applique qu'aux quantités de produits effectivement consommées dans l'installation de cogénération. Le gaz naturel et le fioul lourd BTS étant susceptibles d'être utilisés à d'autres fins que la cogénération dans le même établissement, la décision prévue à l'article 2 du présent arrêté détermine un coefficient de réfaction d'assiette par produit, applicable à la totalité des quantités livrées.
+
+Ce coefficient, calculé initialement sur la base des prévisions annuelles de consommation de chaque produit par usage, est ajusté au début de chaque année civile par le bureau de douane de rattachement en fonction des quantités réellement affectées à chacun des usages au cours des douze mois précédents. A cet effet, le bénéficiaire de l'exonération tient une comptabilité Matières des produits entrant dans chacune des installations dont il dispose à l'intérieur d'un même établissement.
+
+Il communique en outre au bureau de douane de rattachement, au plus tard le 15 janvier de chaque année, un état récapitulatif par produit et par usage des quantités de fioul lourd BTS ou de gaz naturel acquises et consommées mensuellement au cours de l'année précédente. Le nouveau coefficient de réfaction d'assiette, valable pour l'année considérée, est notifié sans délai au bénéficiaire par le bureau de douane de rattachement.

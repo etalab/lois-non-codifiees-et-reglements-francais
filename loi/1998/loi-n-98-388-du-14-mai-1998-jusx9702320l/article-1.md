@@ -1,0 +1,3 @@
+# Article 1
+
+Sous réserve des décisions de justice passées en force de chose jugée, sont validées, pour les sessions de 1993, 1994 et 1995, les admissions à l'examen d'entrée à un centre de formation professionnelle d'avocats en tant que la régularité de ces actes serait mise en cause à raison de l'annulation des dispositions des articles 1er et 2 de l'arrêté du 17 février 1993 incluant le diplôme d'études approfondies en sciences juridiques ou politiques dans la liste des diplômes universitaires à finalité professionnelle permettant d'être dispensé de tout ou partie de l'examen d'accès au centre régional de formation professionnelle d'avocats.
