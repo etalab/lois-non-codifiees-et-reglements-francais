@@ -1,51 +1,61 @@
 # Article 26
 
-Le conseil d'administration de l'établissement est composé de vingt-sept membres [*nombre*], dont :
+Le conseil d'administration de l'établissement public est composé de trente et un membres, dont :
 
-1° Onze fonctionnaires nommés sur la proposition des ministres intéressés et représentant respectivement :
+" 1. Onze fonctionnaires nommés sur proposition des ministres intéressés et représentant respectivement :
 
-Le ministre chargé de la protection de la nature et de l'environnement ;
+" Le ministre chargé de la protection de la nature ;
 
-Le ministre chargé de l'aménagement du territoire ;
+" Le ministre chargé des domaines ;
 
-Le ministre chargé de la défense nationale ;
+" Le ministre de l'intérieur ;
 
-Le ministre de l'intérieur ;
+" Le ministre chargé de l'agriculture ;
 
-Le ministre de l'économie et des finances ;
+" Le ministre chargé de la défense ;
 
-Le ministre de l'éducation nationale ;
+" Le ministre chargé de l'équipement ;
 
-Le ministre chargé de l'équipement ;
+" Le ministre chargé de l'éducation ;
 
-Le ministre des affaires culturelles ;
+" Le ministre chargé de la culture ;
 
-Le ministre de l'agriculture et du développement rural ;
+" Le ministre chargé du tourisme ;
 
-Le ministre chargé de la marine marchande ;
+" Le ministre chargé de la jeunesse et des sports ;
 
-Le ministre chargé du tourisme.
+" Le ministre chargé de la mer.
 
-2° Cinq représentants des collectivités locales :
+" 2. Sept représentants des collectivités territoriales et locales :
 
-Le conseiller général du canton dans la circonscription duquel se trouve située l'île de Port-Cros ;
+" a) Un représentant du conseil régional de la région Provence-Alpes-Côte d'Azur ;
 
-Le maire d'Hyères ou, lorsque le maire est en même temps le conseiller général du canton mentionné ci-dessus, un des adjoints au maire ;
+" b) Un représentant du conseil général du Var ;
 
-Deux conseillers municipaux choisis par le conseil municipal ;
+" c) Le maire de la commune d'Hyères, membre de droit en application des dispositions de l'article R. 241-19 du code rural ;
 
-L'adjoint spécial de la section de Port-Cros ;
+" d) Un maire d'une commune littorale du Var désigné sur proposition de l'association des maires du Var ;
 
-3° Onze personnalités, dont :
+" e) Un conseiller municipal d'Hyères, désigné sur proposition du conseil municipal, et les adjoints spéciaux de Port-Cros et de Porquerolles.
 
-Trois nommées sur proposition du conseil national de la protection de la nature ;
+" 3. Douze personnalités nommées comme suit :
 
-Une sur proposition du directeur du centre national de la recherche scientifique ;
+" a) Quatre personnalités choisies par le ministre chargé de la protection de la nature ;
 
-Une représentant les associations de protection de la nature et de l'environnement désignée par le préfet du Var ;
+" b) Trois personnalités sur proposition du Conseil national de la protection de la nature, dont deux appartenant au milieu de la recherche scientifique ;
 
-Une sur proposition du Touring-Club de France ;
+" c) Sur proposition du préfet du Var :
 
-Et un propriétaire ou résident permanent de l'île, nommé sur proposition du préfet du Var.
+" Une personnalité compétente en matière de commerce et d'industrie ;
 
-Le préfet du Var, commissaire du Gouvernement, le directeur de l'établissement et le contrôleur financier assistent aux séances du conseil avec voix consultative.
+" Une personnalité compétente en matière de protection de la nature ;
+
+" Une personnalité compétente en matière d'activités de plein air ;
+
+" Une personnalité compétente en matière de pêche maritime ;
+
+" Un propriétaire ou résident permanent de l'île.
+
+" 4. Un représentant du personnel élu par l'ensemble du personnel permanent du parc.
+
+" Le préfet du Var, commissaire du Gouvernement, le directeur de la protection de la nature, le président du comité scientifique du parc, le directeur du parc et le contrôleur financier, ou leurs représentants, assistent aux séances du conseil d'administration avec voix consultative. "
