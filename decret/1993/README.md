@@ -792,7 +792,6 @@
 - [Décret n°93-490 du 25 mars 1993 (MAEA9320167D)](decret-n93-490-du-25-mars-1993-maea9320167d)
 - [Décret n°93-491 du 25 mars 1993 (FPPX9300045D)](decret-n93-491-du-25-mars-1993-fppx9300045d)
 - [Décret n°93-492 du 25 mars 1993 (JUSC9320176D)](decret-n93-492-du-25-mars-1993-jusc9320176d)
-- [Décret n°93-496 du 25 mars 1993 (ECOT9326092D)](decret-n93-496-du-25-mars-1993-ecot9326092d)
 - [Décret n°93-506 du 25 mars 1993 (BUDF9300011D)](decret-n93-506-du-25-mars-1993-budf9300011d)
 - [Décret n°93-511 du 25 mars 1993 (PTTX9300034D)](decret-n93-511-du-25-mars-1993-pttx9300034d)
 - [Décret n°93-512 du 25 mars 1993 (PTTX9300042D)](decret-n93-512-du-25-mars-1993-pttx9300042d)
