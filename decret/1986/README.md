@@ -429,6 +429,7 @@
 - [Décret n°86-1154 du 24 octobre 1986](decret-n86-1154-du-24-octobre-1986)
 - [Décret n°86-1155 du 24 octobre 1986](decret-n86-1155-du-24-octobre-1986)
 - [Décret n°86-1218 du 24 novembre 1986](decret-n86-1218-du-24-novembre-1986)
+- [Décret n°86-1306 du 24 décembre 1986](decret-n86-1306-du-24-decembre-1986)
 - [Décret n°86-248 du 24 février 1986](decret-n86-248-du-24-fevrier-1986)
 - [Décret n°86-719 du 24 avril 1986](decret-n86-719-du-24-avril-1986)
 - [Décret n°86-720 du 24 avril 1986](decret-n86-720-du-24-avril-1986)
