@@ -123,6 +123,13 @@ A. — Positions dont la durée est prise en compte en vertu de dispositions act
 </td>
 </tr>
 <tr>
+<td>Disponibilité pour formation professionnelle d'une durée maximale de trois ans. <br/>
+</td>
+<td>Décret n° 83-523 du 20 juin 1983. <br/>
+</td>
+<td/>
+</tr>
+<tr>
 <td valign="top" width="227">
 <p>Congé non rémunéré en vue de favoriser la formation de cadres et d'animateurs pour la jeunesse (loi n° 61-1448 du 29 décembre 1961).</p>
 </td>
@@ -395,7 +402,9 @@ EN VERTU DE LA LOI N° 72-662 DU 13 JUILLET 1972
 <br/>
 <p>Suspension d'emploi.</p>
 <br/>
+<br/>
 <p>Services détachés. </p>
+<br/>
 <br/>
 <p>Non-activité :</p>
 <p>Congés exceptionnels dans l'intérêt du service avec solde.</p>
@@ -403,6 +412,7 @@ EN VERTU DE LA LOI N° 72-662 DU 13 JUILLET 1972
 <p>Hors cadres.</p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 <p>Décret n° 74.338 du 22 avril 1974, articles 3 et 9 (Journal officiel du 28 avril 1974).</p>
 <p>Idem.</p>
@@ -414,19 +424,23 @@ EN VERTU DE LA LOI N° 72-662 DU 13 JUILLET 1972
 <p>Décret n° 74-338 du 22 avril 1974, articles 3 et 10 (Journal officiel du 28 avril 1974).</p>
 <p>Loi n° 72-662 du 13 juillet 1972, articles 54 et 56 (Journal officiel du 14 juillet 1972).</p>
 <br/>
+<br/>
 <p>Loi n° 72-662 du 13 juillet 1972, article 61 (Journal officiel du 14 juillet 1972).</p>
 <p>Loi n° 72-662 du 13 juillet 1972, article 62 (Journal officiel du 14 juillet 1972).</p>
 <p>Décret n° 74-338 du 22 avril 1974, article 35) (Journal officiel du 28 avril 1974).</p>
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 <p align="center">Six mois.</p>
+<br/>
 <br/>
 <p align="center">Six mois.</p>
 <p align="center">Six mois.</p>
 <p align="center">Quatorze semaines.</p>
 <p>Dans la limite d'un an, si l'officier général, non pourvu d'un emploi, est placé d'office dans cette position, dans la limite de six mois, si l'officier général titulaire d'un emploi, est placé dans cette position sur sa demande.</p>
 <p align="center">Durée de la suspension.</p>
+<br/>
 <br/>
 <p align="center">Durée totale.</p>
 <br/>
@@ -448,12 +462,15 @@ EN VERTU DE LA LOI N° 72-662 DU 13 JUILLET 1972
 <p>Congés du personnel navigant de l'armée de l'air accordés d'office.</p>
 <p>Officiers autres que généraux.</p>
 <br/>
+<br/>
 <p> Sous-officiers.</p>
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 <p>Loi n° 72-662 du 13 juillet 1972, article 63 (Journal officiel du 14 juillet 1972).</p>
 <p>Loi de finances pour 1972 n° 71.1061 du 29 décembre 1971, article 54, § 3° (Journal officiel du 30 décembre 1971).</p>
+<br/>
 <br/>
 </td>
 <td valign="top" width="227">
@@ -461,6 +478,7 @@ EN VERTU DE LA LOI N° 72-662 DU 13 JUILLET 1972
 <br/>
 <p align="center">
 <br/>Quatre ans.</p>
+<br/>
 <br/>
 <p align="center">Six mois.</p>
 </td>
@@ -509,23 +527,22 @@ B. - POSITIONS DONT LA DURÉE EST PRISE EN COMPTE EN VERTU DE DISPOSITIONS ACTUE
 <td valign="top" width="227">
 <p>Situation  hors cadre </p>
 <br/>
+<br/>
 <p>Position spéciale hors cadre .</p>
+<br/>
 <br/>
 <p>Disponibilité des officiers généraux.</p>
 <br/>
+<br/>
 <p>Disponibilité des officiers supérieurs et subalternes.</p>
 <br/>
-<p>
-<br/>Non-activité (officiers et sous-officiers).</p>
+<br/>
+<p>Non-activité (officiers et sous-officiers).</p>
 <br/>
 <br/>
 <p>Congé spécial sans solde pour exercice de fonctions électives accordé aux militaires de carrière.</p>
-<p>Congés de fin de campagne.<br/>
-<br/>
-</p>
-<p>Congés pour études ou voyages d'études militaires.<br/>
-<br/>
-</p>
+<p>Congés de fin de campagne.</p>
+<p>Congés pour études ou voyages d'études militaires.</p>
 <p>Congés aux militaires en instance de retraite.</p>
 </td>
 <td valign="top" width="227">
@@ -533,8 +550,7 @@ B. - POSITIONS DONT LA DURÉE EST PRISE EN COMPTE EN VERTU DE DISPOSITIONS ACTUE
 <p>Ordonnance n° 58-1329 du 23 décembre 1958, article 8 (Journal officiel du 26 décembre 1958).</p>
 <p>Décret du 31 août 1933, article 1er, 1° et 2° (Journal officiel du 3 septembre 1933).</p>
 <p>Décret du 31 août 1933, article 1er, 1° et 2° (Journal officiel du 3 septembre 1933) ; décret n° 63-302 du 19 mars 1963 (Journal officiel du 26 mars 1963).</p>
-<p>
-<br/>Décret du 31 août 1933, article 1.0, 1° et 2° (Journal officiel du 3 septembre 1933), modifié par le décret du 22 février 1939, articles 1er et 2 (Journal officiel du 28 février 1939).</p>
+<p>Décret du 31 août 1933, article 1.0, 1° et 2° (Journal officiel du 3 septembre 1933), modifié par le décret du 22 février 1939, articles 1er et 2 (Journal officiel du 28 février 1939).</p>
 <p>Loi n° 54-1295 du 29 décembre 1954, article 1er (Journal officiel du 30 décembre 1954).</p>
 <p>Décret du 31 août 1933, article 1er, 1° et 2° (Journal officiel du 3 septembre 1933).</p>
 <p>Décret du 31 août 1933, article 1er, 1° et 2° (Journal officiel du 3 septembre 1933).</p>
@@ -543,18 +559,17 @@ B. - POSITIONS DONT LA DURÉE EST PRISE EN COMPTE EN VERTU DE DISPOSITIONS ACTUE
 <td valign="top" width="227">
 <p align="center">Durée totale.</p>
 <br/>
-<p>Durée totale (en cas de réintégration dans les conditions fixées par l'article 8 et sous réserve du versement de la retenue correspondante).</p>
-<p align="center">Un an.<br/>
 <br/>
-</p>
+<p>Durée totale (en cas de réintégration dans les conditions fixées par l'article 8 et sous réserve du versement de la retenue correspondante).</p>
+<p align="center">Un an.</p>
 <p>Dix ans sous réserve qu'il soit constaté, lors du renouvellement quinquennal de leur séjour dans la disponibilité, que les intéressés ont conservé leurs aptitudes militaires.</p>
 <p>Dans tous les cas où elle n'est pas prononcée par mesure de discipline.</p>
+<br/>
 <br/>
 <p>Durée totale (sauf si l'intéressé n'a pas entièrement satisfait aux obligations de l'engagement spécial exigé pour la scolarité dans les écoles militaires, article 2 de la loi n° 54-1295).</p>
 <p align="center">Six mois.</p>
 <p align="center">Un an.</p>
 <p>
-<br/>
 <br/>
 </p>
 <p align="center">Trois mois.</p>
@@ -575,6 +590,7 @@ B. - POSITIONS DONT LA DURÉE EST PRISE EN COMPTE EN VERTU DE DISPOSITIONS ACTUE
 <td valign="top" width="227">
 <p align="center">Six mois.</p>
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -590,18 +606,12 @@ B. - POSITIONS DONT LA DURÉE EST PRISE EN COMPTE EN VERTU DE DISPOSITIONS ACTUE
 </td>
 <td valign="top" width="227">
 <p>Décret du 31 août 1933, article 1er, 2° (Journal officiel du 3 septembre 1933).</p>
-<p>Idem.<br/>
-<br/>
-</p>
+<p>Idem.</p>
 <p>Idem.</p>
 </td>
 <td valign="top" width="227">
-<p align="center">Durée totale.<br/>
-<br/>
-</p>
-<p align="center">Durée totale.<br/>
-<br/>
-</p>
+<p align="center">Durée totale.</p>
+<p align="center">Durée totale.</p>
 <p align="center">Cinq ans.</p>
 </td>
 </tr>
@@ -615,7 +625,6 @@ B. - POSITIONS DONT LA DURÉE EST PRISE EN COMPTE EN VERTU DE DISPOSITIONS ACTUE
 <p>Congés du personnel navigant de l'armée de l'air.</p>
 <br/>
 <br/>
-<br/>
 <p>Congés de démobilisation (sous-officiers du cadre navigant).</p>
 </td>
 <td valign="top" width="227">
@@ -623,9 +632,7 @@ B. - POSITIONS DONT LA DURÉE EST PRISE EN COMPTE EN VERTU DE DISPOSITIONS ACTUE
 <p>Ordonnance du 19 juillet 1943, article 8 (Journal officiel, Alger, du 22 juillet 1943); décret n° 51.384 du 20 mars 1951 (Journal officiel du 30 mars 1951).</p>
 </td>
 <td valign="top" width="227">
-<p>Dans les conditions prévues par l'article 35 de la loi du 9 avril 1935 (Journal officiel du 13 avril 1935) ainsi que par l'article 5-III de la loi n° 71-1061 du 29 décembre 1971 (Journal officiel du 10 décembre 1971) et dans la limite de cinq ans.<br/>
-<br/>
-</p>
+<p>Dans les conditions prévues par l'article 35 de la loi du 9 avril 1935 (Journal officiel du 13 avril 1935) ainsi que par l'article 5-III de la loi n° 71-1061 du 29 décembre 1971 (Journal officiel du 10 décembre 1971) et dans la limite de cinq ans.</p>
 <p align="center">Six mois.</p>
 </td>
 </tr>
@@ -636,35 +643,28 @@ B. - POSITIONS DONT LA DURÉE EST PRISE EN COMPTE EN VERTU DE DISPOSITIONS ACTUE
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Congés de cinq ans, renouvelables une fois.<br/>
-<br/>
-</p>
+<p>Congés de cinq ans, renouvelables une fois.</p>
 <p>Temps d'études accompli à l'école nationale de la France -d'outre-mer.</p>
+<br/>
 <br/>
 <p>Position  hors cadre  en service ou en mission auprès de gouvernements étrangers, dans les divers départements ministériels ou organes de l'administration de l'Etat ou détachements au service d'autres départements ministériels et de certains organismes publics ou privés.</p>
 <p>Résidence libre.</p>
 <br/>
+<br/>
 <p>Congés d'armistice et permissions renouvelables.</p>
 <br/>
 <br/>
-<p>Non-disponibilité.<br/>
-<br/>
-</p>
-<p>Congés d'activité : officiers autres que généraux.<br/>
-<br/>
-</p>
-<p>Non-activité par suppression d'emploi y compris les périodes de suspension de solde.<br/>
-<br/>
-</p>
+<p>Non-disponibilité.</p>
+<p>Congés d'activité : officiers autres que généraux.</p>
+<p>Non-activité par suppression d'emploi y compris les périodes de suspension de solde.</p>
 <p>Idem.</p>
+<br/>
 <br/>
 <p>Permission renouvelable pour exercer un mandat de membre du Parlement.</p>
 </td>
 <td valign="top" width="227">
 <p>Loi du 26 décembre 1925, article 44 (Journal officiel des 26 et 27 décembre 1925).</p>
-<p>Code des pensions civiles et militaires de retraite en vigueur avant le 1er décembre 1964, article L. 13.<br/>
-<br/>
-</p>
+<p>Code des pensions civiles et militaires de retraite en vigueur avant le 1er décembre 1964, article L. 13.</p>
 <p>Décret du 31 août 1933, article 1er, 1° et 2° (Journal officiel du 3 septembre 1933) et loi du 9 avril 1935, articles 31 bis et 51 nonies.</p>
 <br/>
 <br/>
@@ -680,17 +680,11 @@ B. - POSITIONS DONT LA DURÉE EST PRISE EN COMPTE EN VERTU DE DISPOSITIONS ACTUE
 <p align="center">Cinq ans.</p>
 <br/>
 <p align="center">Durée totale.</p>
-<p align="center">
 <br/>
-<br/>
-</p>
 <p align="center">Durée totale.</p>
 <br/>
 <br/>
-<p align="center">
 <br/>
-<br/>
-</p>
 <p align="center">Trois mois.</p>
 <br/>
 <p align="center">Durée totale.</p>
