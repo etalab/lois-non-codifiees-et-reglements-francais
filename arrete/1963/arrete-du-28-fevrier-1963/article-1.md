@@ -1,0 +1,3 @@
+# Article 1
+
+Peuvent avoir accès, dans les services municipaux, aux emplois de directeur général des services techniques, de directeur des services techniques, d'ingénieur en chef, d'architecte en chef, d'ingénieur principal divisionnaire, de dessinateur, de contremaître, de surveillant de travaux, d'ouvrier professionnel, de conducteur d'autos, de chef d'équipe des travaux de voirie communaux les candidats qui réunissent non seulement les conditions générales de recrutement prévues par le statut du personnel des communes et des établissements publics communaux mais encore celles fixées pour chacun des emplois par les annexes du présent arrêté.
