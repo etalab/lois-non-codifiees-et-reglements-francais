@@ -1,0 +1,3 @@
+# Article 2
+
+Le recrutement mentionné à l'article 1er du présent décret est réalisé par la voie d'un concours ouvert aux fonctionnaires appartenant à un corps de catégorie C d'administration centrale du ministère des affaires sociales, du travail et de la solidarité et du ministère de la santé, de la famille et des personnes handicapées, ou à un corps de catégorie C commun à l'administration centrale et aux services déconcentrés relevant de ces ministères, en position d'activité, de détachement ou de congé parental, justifiant, à la date de clôture des inscriptions au concours, d'au moins quatre ans de services publics effectifs au sein de la fonction publique de l'Etat.

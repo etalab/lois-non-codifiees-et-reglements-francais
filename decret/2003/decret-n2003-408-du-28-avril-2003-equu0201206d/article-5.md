@@ -1,0 +1,3 @@
+# Article 5
+
+Le propriétaire adresse à la personne morale chargée de l'organisation du service public de distribution d'eau une confirmation de sa demande d'individualisation des contrats de fourniture d'eau. Le dossier technique mentionné à l'article 2 et tenant compte, le cas échéant, des modifications mentionnées à l'article 3 est annexé à cet envoi. Le propriétaire indique également les conditions dans lesquelles les locataires ont été informés du projet et l'échéancier prévisionnel de réalisation des travaux. Cet envoi est adressé par lettre recommandée avec demande d'avis de réception ou par tout autre moyen présentant des garanties équivalentes.

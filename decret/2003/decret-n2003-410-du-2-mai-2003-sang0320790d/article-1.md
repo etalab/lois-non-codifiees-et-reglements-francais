@@ -1,0 +1,3 @@
+# Article 1
+
+Sans préjudice des recrutements effectués en application du décret n° 94-1017 du 18 novembre 1994 susvisé, un recrutement exceptionnel dans le corps des secrétaires administratifs d'administration centrale du ministère des affaires sociales, du travail et de la solidarité et du ministère de la santé, de la famille et des personnes handicapées est organisé au titre de l'année 2002, à concurrence d'un contingent fixé par arrêté conjoint des ministres chargés respectivement des affaires sociales, de la santé, de la fonction publique et de l'économie et des finances, dans la limite des emplois budgétaires ouverts à cet effet en loi de finances 2002.
