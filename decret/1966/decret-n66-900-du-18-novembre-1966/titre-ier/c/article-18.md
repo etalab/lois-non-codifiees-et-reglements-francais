@@ -6,7 +6,7 @@ Les nominations au grade de conducteur principal des travaux publics de l'Etat s
 <tbody>
 <tr>
 <td>
-<p align="center">CONDUCTEUR DES TRAVAUX PUBLICS<br/>de l'État classé dans le groupe VI</p>
+<p align="center">CONDUCTEUR DES TRAVAUX PUBLICS<br/>de l'État </p>
 </td>
 <td colspan="2">
 <p align="center">CONDUCTEUR PRINCIPAL DES TRAVAUX PUBLICS DE L'ETAT</p>
@@ -22,6 +22,11 @@ Les nominations au grade de conducteur principal des travaux publics de l'Etat s
 <td width="227">
 <p align="center">Ancienneté dans l’échelon</p>
 </td>
+</tr>
+<tr>
+<td> Conducteur des travaux publics de l'Etat classés dans le groupe VI</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td width="227">
@@ -42,7 +47,7 @@ Les nominations au grade de conducteur principal des travaux publics de l'Etat s
 <p align="center">6e échelon</p>
 </td>
 <td width="227">
-<p>Sept huitièmes de l’ancienneté acquise</p>
+<p>Trois quarts de l’ancienneté acquise</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +69,7 @@ Les nominations au grade de conducteur principal des travaux publics de l'Etat s
 <p align="center">4e échelon</p>
 </td>
 <td width="227">
-<p>Moitié de l’ancienneté acquise majorée de 1 an et 6 mois</p>
+<p>Deux tiers de l’ancienneté acquise, majorée de 1 an.</p>
 </td>
 </tr>
 <tr>
@@ -72,22 +77,51 @@ Les nominations au grade de conducteur principal des travaux publics de l'Etat s
 <p>6e échelon</p>
 </td>
 <td width="227">
+<br/>
+</td>
+<td width="227"/>
+</tr>
+<tr>
+<td>Après 1 an </td>
+<td>
 <p align="center">4e échelon</p>
 </td>
-<td width="227">
-<p>Moitié de l’ancienneté acquise</p>
+<td>Moitié de l'ancienneté acquise, diminuée de 6 mois.</td>
+</tr>
+<tr>
+<td>Avant 1 an </td>
+<td>
+<p align="center"> 3e échelon</p>
 </td>
+<td>Ancienneté acquise majorée de 1 an. </td>
 </tr>
 <tr>
 <td width="227">
 <p>5e échelon</p>
 </td>
-<td width="227">
+<td width="227"/>
+<td width="227"/>
+</tr>
+<tr>
+<td>Après 2 ans  </td>
+<td>
 <p align="center">3e échelon</p>
 </td>
-<td width="227">
-<p>Deux tiers de l’ancienneté acquise majorée de 1 an</p>
+<td> Ancienneté acquise diminuée de deux ans.</td>
+</tr>
+<tr>
+<td>Après 6 mois et avnt 2 ans </td>
+<td>
+<p align="center">2e échelon</p>
 </td>
+<td> Ancienneté acquise diminuée de 6 mois.</td>
+</tr>
+<tr>
+<td>Avant 6 mois </td>
+<td>
+<p align="center">1er échelon</p>
+</td>
+<td> Ancienneté acquise majorée de 1 an. </td>
 </tr>
 <tr>
 <td width="227">
@@ -166,23 +200,21 @@ Les nominations au grade de conducteur principal des travaux publics de l'Etat s
 <td width="225">
 <br/>
 </td>
-<td width="226">
-<br/>
-</td>
+<td width="226"/>
 </tr>
 <tr>
-<td>Après 2 ans</td>
+<td>Après 1 an 6 mois</td>
 <td>
-<p align="center"> 8e échelon</p>
+<p align="center">8e échelon</p>
 </td>
-<td> Ancienneté acquise diminuée de 2 ans, dans la limite de 4 ans.</td>
+<td>Ancienneté acquise diminuée de 1 an 6 mois.</td>
 </tr>
 <tr>
-<td>Avant 2 ans </td>
+<td>Avant 1 an 6 mois</td>
 <td>
-<p align="center"> 7e échelon</p>
+<p align="center">7e échelon</p>
 </td>
-<td>Ancienneté acquise majorée de 1 an et 6 mois.</td>
+<td>Ancienneté acquise majorée de 1 an  6 mois.</td>
 </tr>
 <tr>
 <td width="229">
@@ -203,7 +235,7 @@ Les nominations au grade de conducteur principal des travaux publics de l'Etat s
 <p align="center">6e échelon</p>
 </td>
 <td width="226">
-<p>Sept huitièmes de l’ancienneté acquise.</p>
+<p>Trois quarts de l’ancienneté acquise.</p>
 </td>
 </tr>
 </tbody>
