@@ -38,6 +38,7 @@
 - [Décret n°72-923 du 28 septembre 1972](decret-n72-923-du-28-septembre-1972)
 - [Décret n°72-1093 du 29 novembre 1972](decret-n72-1093-du-29-novembre-1972)
 - [Décret n°72-1240 du 29 décembre 1972](decret-n72-1240-du-29-decembre-1972)
+- [Décret n°72-526 du 29 juin 1972](decret-n72-526-du-29-juin-1972)
 - [Décret n°72-533 du 29 juin 1972](decret-n72-533-du-29-juin-1972)
 - [Décret n°72-83 du 29 janvier 1972](decret-n72-83-du-29-janvier-1972)
 - [Décret n°72-85 du 29 janvier 1972](decret-n72-85-du-29-janvier-1972)
