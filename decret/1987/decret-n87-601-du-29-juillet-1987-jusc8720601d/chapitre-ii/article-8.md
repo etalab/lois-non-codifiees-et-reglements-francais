@@ -1,5 +1,5 @@
 # Article 8
 
-Le stage est attesté par un certificat délivré par le greffier auprès duquel le stage a été régulièrement accompli, y compris dans le cas envisagé au second alinéa de l'article 6. Ce certificat précise la durée de la formation, la nature des tâches et la qualité du travail effectuées par le stagiaire ainsi que les modalités de sa rémunération.
+Le stage qui a été régulièrement accompli donne lieu à la délivrance d'une attestation établie par le maître de stage, y compris dans le cas prévu au second alinéa de l'article 6. Ce document précise la durée de la formation, la nature des tâches effectuées par le stagiaire ainsi que les modalités de sa rémunération, et comporte les appréciations du maître de stage sur le stagiaire et sur la qualité de son travail ; il est communiqué au stagiaire, qui certifie en avoir pris connaissance et peut, le cas échéant, apporter ses observations. Il est ensuite transmis par le maître de stage au conseil national, qui délivre le certificat de fin de stage.
 
-Les contestations relatives à l'établissement du certificat sont portées devant le tribunal de grande instance dans le ressort duquel le greffier, maître de stage, exerce ses fonctions. Le ministère d'avocat n'est pas obligatoire. Le tribunal de grande instance statue en dernier ressort.
+Le refus de délivrance du certificat peut être déféré à la cour d'appel de Paris dans le délai de deux mois à compter de sa notification à l'intéressé par lettre recommandée avec demande d'avis de réception.
