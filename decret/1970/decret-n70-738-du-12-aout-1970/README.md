@@ -2,5 +2,5 @@
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Recrutement.](chapitre-ii)
-- [Chapitre III : Avancement.](chapitre-iii)
+- [Chapitre III : Notation et avancement](chapitre-iii)
 - [Chapitre IV : Dispositions transitoires.](chapitre-iv)
