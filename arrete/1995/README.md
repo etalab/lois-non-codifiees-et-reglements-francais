@@ -1,5 +1,6 @@
 # 1995
 
+- [Arrêté du 1 août 1995 (SANP9502399A)](arrete-du-1-aout-1995-sanp9502399a)
 - [Arrêté du 1 février 1995 (ECOT9510226A)](arrete-du-1-fevrier-1995-ecot9510226a)
 - [Arrêté du 1 février 1995 (MCCK9500056A)](arrete-du-1-fevrier-1995-mcck9500056a)
 - [Arrêté du 1 février 1995 (MJSK9570013A)](arrete-du-1-fevrier-1995-mjsk9570013a)
@@ -235,6 +236,7 @@
 - [Arrêté du 7 juillet 1995 (ECOT9551445A)](arrete-du-7-juillet-1995-ecot9551445a)
 - [Arrêté du 7 juillet 1995 (ENVN9540194A)](arrete-du-7-juillet-1995-envn9540194a)
 - [Arrêté du 7 juillet 1995 (EQUS9501104A)](arrete-du-7-juillet-1995-equs9501104a)
+- [Arrêté du 7 juillet 1995 (SANP9502151A)](arrete-du-7-juillet-1995-sanp9502151a)
 - [Arrêté du 7 juin 1995 (DEFA9501593A)](arrete-du-7-juin-1995-defa9501593a)
 - [Arrêté du 7 juin 1995 (DEFD9501590A)](arrete-du-7-juin-1995-defd9501590a)
 - [Arrêté du 7 juin 1995 (DEFE9501491A)](arrete-du-7-juin-1995-defe9501491a)
@@ -931,6 +933,7 @@
 - [Arrêté du 28 février 1995 (TEFT9500280A)](arrete-du-28-fevrier-1995-teft9500280a)
 - [Arrêté du 28 juillet 1995 (DEFP9501527A)](arrete-du-28-juillet-1995-defp9501527a)
 - [Arrêté du 28 juillet 1995 (FPPA9500062A)](arrete-du-28-juillet-1995-fppa9500062a)
+- [Arrêté du 28 juillet 1995 (MENL9501557A)](arrete-du-28-juillet-1995-menl9501557a)
 - [Arrêté du 28 juillet 1995 (MENN9501577A)](arrete-du-28-juillet-1995-menn9501577a)
 - [Arrêté du 28 juillet 1995 (SPSS9502357A)](arrete-du-28-juillet-1995-spss9502357a)
 - [Arrêté du 28 juillet 1995 (TEFO9500816A)](arrete-du-28-juillet-1995-tefo9500816a)

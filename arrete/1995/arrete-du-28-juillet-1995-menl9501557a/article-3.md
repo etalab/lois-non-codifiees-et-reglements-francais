@@ -1,0 +1,5 @@
+# Article 3
+
+Sont autorisés à se présenter à l'examen les titulaires du brevet d'études professionnelles Carrières sanitaires et sociales délivré par le ministre chargé de l'éducation nationale admis, après une procédure de sélection, à suivre une formation à temps plein d'une durée de 1 120 heures, soit à titre indicatif 35 semaines de 32 heures réparties sur une année scolaire.
+
+Cette formation comporte obligatoirement un minimum de 216 heures de formation théorique, de 360 heures de formation pratique et de 448 heures de période de formation en entreprise. Elle ne peut être dispensée que par des établissements d'enseignement publics ou privés sous contrat figurant sur une liste arrêtée par le recteur après avis du directeur régional des affaires sanitaires et sociales ou par des établissements privés ou des centres de formation d'apprentis agréés par décision conjointe du recteur et du directeur régional des affaires sanitaires et sociales, comportant préalablement, dans l'un et l'autre cas, au moins une section préparatoire au brevet d'études professionnelles carrières sanitaires et sociales.
