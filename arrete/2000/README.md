@@ -43,6 +43,7 @@
 - [Arrêté du 6 juillet 2000 (MENF0001978A)](arrete-du-6-juillet-2000-menf0001978a)
 - [Arrêté du 6 juillet 2000 (MENF0001979A)](arrete-du-6-juillet-2000-menf0001979a)
 - [Arrêté du 6 juillet 2000 (MENF0001984A)](arrete-du-6-juillet-2000-menf0001984a)
+- [Arrêté du 6 juin 2000 (MESH0021755A)](arrete-du-6-juin-2000-mesh0021755a)
 - [Arrêté du 6 mai 2000 (INTE0000261A)](arrete-du-6-mai-2000-inte0000261a)
 - [Arrêté du 6 mai 2000 (INTE0000262A)](arrete-du-6-mai-2000-inte0000262a)
 - [Arrêté du 6 mai 2000 (INTE0000263A)](arrete-du-6-mai-2000-inte0000263a)

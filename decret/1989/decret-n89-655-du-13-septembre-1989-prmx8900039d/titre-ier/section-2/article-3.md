@@ -16,11 +16,11 @@ Dans les autres départements ainsi que dans les collectivités territoriales de
 
 7° Les représentants au Parlement européen ;
 
-8° Le général commandant la région militaire de défense, l'amiral commandant la région maritime, le général commandant la région aérienne, le général commandant la région de gendarmerie ;
+8° Le général commandant la région terre, l'amiral commandant la région maritime, le général commandant la région aérienne, le général commandant la région de gendarmerie ;
 
 9° Le président de la cour administrative d'appel, le premier président de la cour d'appel et le procureur général près cette cour ou, à Saint-Pierre-et-Miquelon et à Mayotte, le président du tribunal supérieur d'appel et le procureur de la République près ce tribunal ;
 
-10° Le général commandant la circonscription militaire de défense, l'amiral commandant l'arrondissement maritime, le général commandant la circonscription de gendarmerie ;
+10° Le général commandant la région terre, l'amiral commandant l'arrondissement maritime, le général commandant la région de gendarmerie ;
 
 Dans les départements et les collectivités territoriales d'outre-mer, l'autorité militaire exerçant le commandement supérieur des forces armées ;
 
