@@ -610,6 +610,7 @@
 - [Arrêté du 29 janvier 1998 (ECOI9800107A)](arrete-du-29-janvier-1998-ecoi9800107a)
 - [Arrêté du 29 juillet 1998 (MESH9822825A)](arrete-du-29-juillet-1998-mesh9822825a)
 - [Arrêté du 29 juin 1998 (ECOX9803061A)](arrete-du-29-juin-1998-ecox9803061a)
+- [Arrêté du 29 juin 1998 (INTE9800291A)](arrete-du-29-juin-1998-inte9800291a)
 - [Arrêté du 29 juin 1998 (MESG9822185A)](arrete-du-29-juin-1998-mesg9822185a)
 - [Arrêté du 29 juin 1998 (MESP9822179A)](arrete-du-29-juin-1998-mesp9822179a)
 - [Arrêté du 29 juin 1998 (MESP9822180A)](arrete-du-29-juin-1998-mesp9822180a)
