@@ -1,0 +1,3 @@
+# Article 4
+
+Le droit d'accès et de rectification des personnes soignées, prévu en application des articles 34 et 40 de la loi du 6 janvier 1978 susvisée, s'exerce auprès de la structure concernée qui a transmis les données et qui seul possède les informations nominatives ayant permis de renseigner la base de données. Dans le cas où la rectification d'un ou plusieurs renseignements s'avéreraient nécessaire, il appartient à la structure précédemment visée d'en informer le gestionnaire de la base de données et de lui adresser les bordereaux papier rectifiés qui viendront se substituer aux bordereaux initialement transmis.

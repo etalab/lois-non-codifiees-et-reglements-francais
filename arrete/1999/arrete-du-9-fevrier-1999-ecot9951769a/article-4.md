@@ -1,0 +1,3 @@
+# Article 4
+
+15 239 392 actions détenues par l'Etat et 591 600 actions à émettre par exercice de 348 000 bons de souscription d'actions détenus par l'Etat ainsi que 6 198 173 actions détenues par les sociétés du secteur public et les établissements publics mentionnés au décret du 9 février 1999 susvisé et 412 777 actions à émettre par exercice de 242 810 bons de souscription d'actions détenus par les sociétés du secteur public et les établissements publics mentionnés au décret du 9 février 1999 susvisé feront l'objet d'un placement, en France et sur le marché financier international, garanti par un syndicat bancaire au prix de 14,2 euros par action.

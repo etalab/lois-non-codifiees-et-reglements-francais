@@ -1,0 +1,3 @@
+# Article 2
+
+L'Etat est autorisé à céder des actions de la société Air France à tout personnel navigant technique titulaire d'un contrat de travail à durée indéterminée avec la société Air France à la date de la signature de l'accord collectif de travail susvisé et ayant consenti à une réduction de son salaire par avenant au contrat de travail signé avec la direction de la société Air France avant le 4 janvier 1999, le cas échéant modifié par un second avenant au contrat de travail, après exercice, entre le 27 janvier 1999 et le 29 janvier 1999 inclus, de la faculté de renonciation prévue par l'accord collectif de travail susvisé.

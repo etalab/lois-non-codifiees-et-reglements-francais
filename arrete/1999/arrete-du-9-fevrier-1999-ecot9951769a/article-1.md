@@ -1,0 +1,3 @@
+# Article 1
+
+Le transfert au secteur privé d'une partie du capital d'Air France s'effectuera selon les modalités prévues aux articles 2 à 6 ci-après par la cession de 41 555 989 actions et de 348 000 bons de souscription d'actions détenus par l'Etat et de 6 198 173 actions et de 242 810 bons de souscription d'actions détenus par les sociétés du secteur public et les établissements publics mentionnés au décret du 9 février 1999 susvisé. Le nombre d'actions cédées par l'Etat pourra être augmenté d'un nombre maximum de 3 746 652 actions, selon les modalités fixées à l'article 6 du présent arrêté.
