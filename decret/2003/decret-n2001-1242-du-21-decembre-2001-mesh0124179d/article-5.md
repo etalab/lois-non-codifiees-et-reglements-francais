@@ -1,0 +1,7 @@
+# Article 5
+
+Il est institué une commission de surveillance du fonds pour la modernisation des établissements de santé publics et privés.
+
+La commission est chargée du contrôle et du suivi de la gestion du fonds.
+
+Elle formule toute proposition relative aux ressources, aux dépenses et à la gestion du fonds.
