@@ -36,6 +36,7 @@
 - [Arrêté du 4 janvier 1990 (SPSH9000026A)](arrete-du-4-janvier-1990-spsh9000026a)
 - [Arrêté du 4 septembre 1990 (ACVP9020027A)](arrete-du-4-septembre-1990-acvp9020027a)
 - [Arrêté du 4 mai 1982](arrete-du-4-mai-1982)
+- [Arrêté du 5 avril 1990 (SPSH9000717A)](arrete-du-5-avril-1990-spsh9000717a)
 - [Arrêté du 5 février 1990 (AGRS9000297A)](arrete-du-5-fevrier-1990-agrs9000297a)
 - [Arrêté du 5 février 1990 (DEFP9001123A)](arrete-du-5-fevrier-1990-defp9001123a)
 - [Arrêté du 5 février 1990 (DEFT9001170A)](arrete-du-5-fevrier-1990-deft9001170a)
