@@ -130,6 +130,8 @@ Département des Vosges
 
 Lacs de Gérardmer et Longemer.
 
+Lacs de retenue de Lispach, de Blanchemer.
+
 Département des Hautes-Pyrénnées
 
 Tous les lacs de montagne situés à une altitude supérieure à 1000 mètres.
