@@ -1,9 +1,6 @@
 # CHAPITRE IV : VOTE
 
 - [SECTION I : OPERATIONS DE VOTE.](section-i)
-- [SECTION II : VOTE PAR CORRESPONDANCE.](section-ii)
-- [SECTION III : RECENSEMENT DES VOTES ET PUBLICATION DES RESULTATS DU SCRUTIN.](section-iii)
-- [SECTION IV : CONTENTIEUX.](section-iv)
 - [Article 29](article-29.md)
 - [Article 30](article-30.md)
 - [Article 30-1](article-30-1.md)
