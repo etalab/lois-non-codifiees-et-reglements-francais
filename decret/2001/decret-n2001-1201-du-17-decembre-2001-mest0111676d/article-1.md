@@ -1,0 +1,3 @@
+# Article 1
+
+Pour les cabinets d'expertise comptable, pendant la période comprise entre la date de publication du présent décret et le 31 mars 2002, et en ce qui concerne le personnel dont la participation est requise pour les opérations liées à l'introduction de l'euro, les décisions prises en application des troisième et quatrième alinéas de l'article L. 212-7 du code du travail le sont, au titre de l'ensemble des établissements concernés par la demande d'autorisation, par le directeur départemental du travail, de l'emploi et de la formation professionnelle ou, selon le cas, par l'inspecteur du travail du siège de l'entreprise.
