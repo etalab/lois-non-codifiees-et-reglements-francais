@@ -1,0 +1,3 @@
+# Article Annexe, 16
+
+Le contrôle de la conformité du service offert aux dispositions du présent cahier des charges peut être effectué à tout moment à l'initiative du ministère chargé de la communication. En particulier, le fournisseur de service est tenu de conserver pendant une durée minimale de quinze jours les diverses éditions des magazines composant le service objet de la présente autorisation. En cas de modification fréquente des éditions au cours d'une même journée, le fournisseur est tenu de conserver au moins deux éditions par jour correspondant à la première et à la dernière édition du jour.

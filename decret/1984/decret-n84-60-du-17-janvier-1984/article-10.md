@@ -1,0 +1,3 @@
+# Article 10
+
+Le bénéfice des dérogations accordées en vertu des articles 3 et 3-1 de la loi du 3 juillet 1972 est acquis à leurs titulaires conformément à l'article 108 de la loi du 29 juillet 1982, jusqu'à la date prévue par la décision de dérogation. En ce qui concerne les dérogations accordées pour une période prenant fin après la publication du présent décret, mais avant la date du 31 mars 1984, les bénéficiaires pourront, s'ils présentent une demande d'autorisation avant cette date, continuer d'assurer le service faisant l'objet de la dérogation jusqu'à ce qu'il ait été statué sur leur demande.
