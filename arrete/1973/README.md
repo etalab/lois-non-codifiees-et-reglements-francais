@@ -16,7 +16,6 @@
 - [Arrêté du 8 février 1973](arrete-du-8-fevrier-1973)
 - [Arrêté du 8 janvier 1973](arrete-du-8-janvier-1973)
 - [Arrêté du 8 mars 1973](arrete-du-8-mars-1973)
-- [Arrêté du 9 août 1973](arrete-du-9-aout-1973)
 - [Arrêté du 9 mars 1973](arrete-du-9-mars-1973)
 - [Arrêté du 10 août 1973](arrete-du-10-aout-1973)
 - [Arrêté du 10 juillet 1973](arrete-du-10-juillet-1973)
