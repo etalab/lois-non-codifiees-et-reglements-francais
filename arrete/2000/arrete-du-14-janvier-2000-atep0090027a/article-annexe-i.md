@@ -86,7 +86,7 @@ Le mur précité peut être un mur séparatif ordinaire dans le cas d'une modifi
 
 La surface dédiée à l'éclairage zénithal n'excède pas 10 % de la surface géométrique de la couverture. Les matériaux utilisés pour l'éclairage zénithal doivent être tels qu'ils ne produisent pas de gouttes enflammées au sens de l'arrêté du 30 juin 1983 modifié portant classification des matériaux de construction et d'aménagement selon leur réaction au feu et définition des méthodes d'essais.
 
-Les locaux doivent être équipés en partie haute d'exutoires de fumée, gaz de combustion et chaleur dégagés en cas d'incendie (lanterneaux en toiture, ouvrants en façade ou tout autre dispositif équivalent). Ces dispositifs doivent être à commande automatique et manuelle et leur surface ne doit pas être inférieure à 2 % de la surface géométrique de la couverture. D'autre part, ces dispositifs sont isolés sur une distance d'1 mètre du reste de la structure par une surface réalisée en matériaux M0. Les commandes d'ouverture manuelle sont placées à proximité des accès. Le  système de désenfumage doit être adapté aux risques particuliers de l'installation.
+Les locaux doivent être équipés en partie haute d'exutoires de fumée, gaz de combustion et chaleur dégagés en cas d'incendie (lanterneaux en toiture, ouvrants en façade ou tout autre dispositif équivalent). Ces dispositifs doivent être à commande automatique et manuelle et leur surface ne doit pas être inférieure à 2 % de la surface géométrique de la couverture. D'autre part, ces dispositifs sont isolés sur une distance d'1 mètre du reste de la structure par une surface réalisée en matériaux M0. Les commandes d'ouverture manuelle sont placées à proximité des accès. Le système de désenfumage doit être adapté aux risques particuliers de l'installation.
 
 La couverture ne comporte pas d'exutoires, d'ouvertures ou d'éléments constitutifs de l'éclairage zénithal sur une largeur de 4 mètres de part et d'autre à l'aplomb de tous les murs coupe-feu séparatifs.
 
@@ -360,41 +360,177 @@ Une mesure du. débit est également réalisée, ou estimée à partir des conso
 
 6.1. Captage et épuration des rejets à l'atmosphère
 
-Les installations de transformation susceptibles de dégager des. fumées, gaz, poussières ou odeurs doivent être munies de dispositifs permettant de collecter et canaliser autant que possible les émissions. Ces dispositifs, après épuration des gaz collectés en tant que de besoin, sont munis d'orifices obturables et accessibles aux fins d'analyse.
+Les installations susceptibles de dégager des fumées, gaz, poussières ou odeurs sont munies de dispositifs permettant de collecter et canaliser autant que possible les émissions. Ces dispositifs, après épuration des gaz collectés en tant que de besoin, sont munis d'orifices obturables et accessibles (conformes aux dispositions de la norme NF X44-052) aux fins de prélèvements en vue d'analyse ou de mesure.
 
-Le débouché des cheminées doit être éloigné au maximum des habitations et ne pas comporter d'obstacles à la diffusion des gaz (chapeaux chinois...).
+Le débouché des cheminées est éloigné au maximum des habitations et des bouches d'aspiration d'air frais et ne doit pas comporter d'obstacles à la diffusion des gaz (chapeaux chinois...). Les points de rejets sont en nombre aussi réduit que possible.
 
-Le débit d'odeur des gaz émis à l'atmosphère par l'ensemble des sources odorantes canalisées, canalisables et diffuses est tel que l'effluent gazeux n'est plus ressenti comme odorant par 50 % des personnes constituant un échantillon de population. Le débit d'odeur est défini conventionnellement comme étant le produit du débit d'air rejeté, exprimé en m³/h, par le facteur de dilution au seuil de perception.
+La dilution des effluents est interdite sauf autorisation du préfet. Elle ne peut être autorisée aux seules fins de respecter les valeurs limites exprimées en concentration.
+
+L'exploitant prend les dispositions utiles pour éviter la formation de poussières.
 
 6.2. Valeurs limites et conditions de rejet
 
-Les effluents gazeux doivent respecter les valeurs limites définies ci-après, exprimées dans les conditions normalisées de température (273 kelvin) et de pression (101,3 kilopascal) après déduction de la vapeur d'eau (gaz sec) et mesurées selon les méthodes définies au point 6.3.
+Les effluents gazeux doivent respecter les valeurs limites définies ci-après, exprimées dans les conditions normalisées de température (273 kelvins) et de pression (101,3 kilopascals) après déduction de la vapeur d'eau (gaz sec) et mesurées selon les méthodes définies au point 6.3.
+
+Les valeurs limites d'émission exprimées en concentration se rapportent à une quantité d'effluents gazeux non dilués.
 
 a) Poussières :
 
-Les gaz rejetés à l'atmosphère ne doivent pas contenir plus de 150 mg/Nm³ de poussières.
+Si le flux massique est inférieur à 0,5 kg/h, les gaz rejetés à l'atmosphère ne doivent pas contenir plus de 150 mg/Nm³ de poussières.
 
-b), Composés organiques volatils hors méthane (hydrocarbures, solvants...) :
+Si le flux massique est supérieur à 0,5 kg/h, les gaz rejetés à l'atmosphère ne doivent pas contenir plus de 100 mg/Nm³ de poussières.
 
-Les gaz rejetés à l'atmosphère ne doivent pas contenir plus de 110 mg/Nm³ de composés organiques volatils (en carbone total) si le débit massique horaire dépasse 2 kg/h.
+b) Composés organiques volatils (COV) :
 
-c) Le point de rejet doit dépasser d'au moins 3 mètres les bâtiments situés dans un rayon de 15 mètres.
+b 1. Définitions :
 
-6.3. Mesure périodique de la pollution rejetée
+On entend par :
 
-Une mesure du débit rejeté et de la concentration des polluants visés au point 6.2 doit être effectuée, selon les méthodes normalisées en vigueur, au moins tous les trois ans.
+- "composé organique volatil (COV) tout composé organique, à l'exclusion du méthane, ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15° kelvins ou ayant une volatilité correspondante dans des conditions d'utilisation particulières ;
 
-Les mesures sont effectuées par un organisme agréé par le ministre chargé de l'environnement quand il existe une procédure d'agrément des organismes.
+- "solvant organique tout COV utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des produits ou des déchets, ou utilisé comme solvants de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur ;
 
-A défaut de méthode spécifique normalisée et lorsque les composés sont sous forme particulaire ou vésiculaire, les conditions d'échantillonnage isocinétique décrites par la norme NFX 44.052 doivent être respectées.
+- "consommation de solvants organiques la quantité totale de solvants organiques utilisée dans une installation sur une période de douze mois, diminuée de la quantité de COV récupérés en interne en vue de leur réutilisation ;
+
+- "réutilisation l'utilisation à des fins techniques ou commerciales, y compris en tant que combustible, de solvants organiques récupérés dans une installation. N'entrent pas dans la définition de "réutilisation les solvants organiques récupérés qui sont évacués définitivement comme déchets ;
+
+- "utilisation de solvants organiques la quantité de solvants organiques, à l'état pur ou dans les préparations, qui est utilisée dans l'exercice d'une activité, y compris les solvants recyclés à l'intérieur ou à l'extérieur de l'installation, qui sont comptés chaque fois qu'ils sont utilisés pour l'exercice de l'activité ;
+
+- "émission diffuse de COV toute émission de COV dans l'air, le sol et l'eau, qui n'a pas lieu sous la forme d'émissions canalisées. Pour le cas spécifique des COV, cette définition couvre, sauf indication contraire, les émissions retardées dues aux solvants contenus dans les produits finis ;
+
+- "conversion, emploi ou réemploi de caoutchouc toute activité de mixage, de malaxage, de calandrage, d'extrusion et de vulcanisation de caoutchouc naturel ou synthétique ainsi que toute opération connexe destinée à transformer le caoutchouc naturel ou synthétique en un produit fini.
+
+b 2. Valeurs limites d'émission :
+
+I. - Cas général :
+
+Si le flux horaire total de COV, émis sous forme canalisée ou diffuse, dépasse 2 kg/h, la valeur limite exprimée en carbone total de la concentration globale de l'ensemble des composés est de 110 mg/m³.
+
+Cette valeur s'applique à chaque rejet canalisé.
+
+Le flux annuel des émissions diffuses ne doit pas dépasser 30 % de la quantité de COV utilisée (solvants utilisés, COV réactifs).
+
+Des dérogations à la valeur limite d'émissions diffuses de COV mentionnée ci-dessus peuvent être accordées par le préfet, si l'exploitant démontre le caractère acceptable des risques pour la santé humaine ou l'environnement et qu'il fait appel aux meilleures techniques disponibles à un coût économiquement acceptable.
+
+II. - Activités spécifiques :
+
+II-1. Conversion, emploi ou réemploi de caoutchouc :
+
+Si la consommation de solvants est supérieure à 15 tonnes par an, les dispositions du cas général sont remplacées par les dispositions suivantes :
+
+La valeur limite d'émission de COV non méthanique dans les rejets canalisés, exprimés en carbone total, est de 20 mg/m³. Toutefois, en cas d'utilisation d'une technique permettant la réutilisation du solvant récupéré, la valeur limite d'émission canalisée, exprimée en carbone total, est portée à 150 mg/m³, sauf en cas d'utilisation de composés mentionnés au point V.
+
+Le flux annuel des émissions diffuses ne doit pas dépasser 25 % de la qualité de solvants utilisée. Les flux annuels des émissions diffuses ne comprennent pas les solvants vendus, avec les produits ou préparations, dans un récipient fermé hermétiquement.
+
+Des dérogations à la valeur limite d'émissions diffuses de COV mentionnée ci-dessus peuvent être accordées, par le préfet, si l'exploitant démontre le caractère acceptable des risques pour la santé humaine ou l'environnement et qu'il fait appel aux meilleures techniques disponibles à un coût économiquement acceptable.
+
+Les dispositions ci-dessus ne s'appliquent pas si les émissions totales annuelles (canalisées et diffuses) de COV sont inférieures ou égales à 25 % de la qualité de solvant utilisée annuellement. Dans ce cas, les dispositions du cas général s'appliquent.
+
+II-2. Fabrication de polystyrène expansé :
+
+Pour la fabrication du polystyrène expansé, les dispositions du cas général sont remplacées par les dispositions suivantes.
+
+L'exploitant met en oeuvre des procédures visant à réduire les émissions de COV de son installation comprenant notamment :
+
+- l'utilisation de matières premières contenant au plus 4 % de COV en masse, lorsque la possibilité technique existe ;
+
+- le recyclage intégral des chutes de découpe ;
+
+- l'incorporation optimale de matériaux usagés dans les matières premières ;
+
+- la captation et le traitement des émissions, lorsque la possibilité technique existe, notamment sur les postes de préexpansion.
+
+III. - Valeurs limites d'émission en COV, NOx, CO et CH4 en cas d'utilisation d'une technique d'épuration des émissions canalisées par oxydation thermique :
+
+Dans le cas de l'utilisation d'une technique d'oxydation pour l'élimination des COV, la valeur limite d'émission en COV non méthanique, exprimé en carbone total, est de 20 mg/m³, ou 50 mg/m³ si le rendement d'épuration est supérieur à 98 %. La teneur en oxygène de référence pour la vérification de la conformité aux valeurs limites d'émission est celle mesurée dans les effluents en sortie d'équipement d'oxydation. En outre, l'exploitant s'assure du respect des valeurs limites d'émission définies ci-dessous pour les oxydes d'azote (NOx), le monoxyde de carbone (CO) et le méthane (CH4) :
+
+NOx (en équivalent NO2) : 100 mg par mètre cube ;
+
+CH4 : 50 mg par mètre cube ;
+
+CO : 100 mg par mètre cube.
+
+Les installations existantes et dotées d'un équipement de traitement des émissions de COV, avant la publication du présent arrêté, et qui respectent les valeurs d'émission suivantes :
+
+- en cas d'oxydation, les valeurs limites présentées au paragraphe précédent multipliées par un coefficient 1,5 ;
+
+- pour les autres équipements de traitement, 150 mg/m³ pour les COV exprimées en carbone total,
+
+bénéficient jusqu'au 1er janvier 2012 d'une dérogation à l'application des valeurs limites d'émission des COV prévues aux paragraphes 6.2.b.2 I et 6.2.b.2 III.
+
+IV. - Valeurs limites d'émission en COV en cas d'utilisation de substances visées à l'annexe III du présent arrêté :
+
+Si le flux horaire total, émis sous forme canalisée ou diffuse, des composés organiques visés à l'annexe III dépasse 0,1 kg/h, la valeur limite d'émission est de 20 mg/m³ en COV. Cette valeur limite s'applique à chaque rejet canalisé et à la somme massique des différents composés.
+
+En cas de mélange de composés à la fois visés et non visés à l'annexe III, la valeur limite de 20 mg/m³ ne s'impose qu'aux composés visés à l'annexe III et les valeurs limites définies aux paragraphes I, II et III s'imposent à l'ensemble des composés.
+
+V. - Valeurs limites d'émission en COV en cas d'utilisation de substances à phrase de risque R 45, R 46, R 49, R 60 ou R 61 et des composés halogénés présentant la phrase de risque R 40 ou R 68, les phrases de risque étant telles que définies dans l'arrêté du 20 avril 1994 susvisé :
+
+Les substances ou préparations auxquelles sont attribuées ou sur lesquelles sont apposées les phrases de risque R 45, R 46, R 49, R 60 ou R 61, en raison de leur teneur en composés organiques volatils classés cancérigènes, mutagènes ou toxiques pour la reproduction, sont remplacées autant que possible par des substances ou des préparations moins nocives. Si ce remplacement n'est pas techniquement et économiquement possible, la valeur limite d'émission est de 2 mg/m³ en COV, si le flux horaire maximal de l'ensemble de l'installation, émis sous forme canalisée et diffuse, est supérieur ou égal à 10 g/h. Cette valeur limite s'applique à chaque rejet canalisé et à la somme massique des différents composés.
+
+En cas de mélange de composés visés et non visés ci-dessus, la valeur limite de 2 mg/m³ ne s'impose qu'aux composés visés ci-dessus et les valeurs limites définies aux paragraphes I, II et III s'imposent à l'ensemble des composés.
+
+Pour les émissions des composés organiques volatils halogénés étiquetés R 40 ou R 68, une valeur limite d'émission de 20 mg/m³ est imposée si le flux horaire maximal de l'ensemble de l'installation, émis sous forme canalisée et diffuse, est supérieur ou égal à 100 g/h. Cette valeur limite s'applique à chaque rejet canalisé et à la somme massique des différents composés.
+
+En cas de mélange de composés visés et non visés ci-dessus, la valeur limite de 20 mg/m³ ne s'impose qu'aux composés visés ci-dessus et les valeurs limites définies aux paragraphes I, II et III s'imposent à l'ensemble des composés.
+
+Le préfet peut accorder une dérogation aux prescriptions des précédents alinéas si l'exploitant démontre, d'une part, qu'il fait appel aux meilleures techniques disponibles à un coût économique acceptable et, d'autre part, qu'il n'y a pas lieu de craindre de risque significatif pour la santé humaine et l'environnement.
+
+VI. - Mise en oeuvre d'un schéma de maîtrise des émissions de COV :
+
+Les valeurs limites d'émissions relatives aux COV définies aux paragraphes I et II ci-dessus ne sont pas applicables aux rejets des installations faisant l'objet d'un schéma de maîtrise des émissions COV (2), tel que défini ci-après.
+
+Un tel schéma garantit que le flux total d'émissions de COV de l'installation ne dépasse pas le flux qui serait atteint par une application stricte des valeurs limites d'émissions canalisées et diffuses définies dans le présent arrêté.
+
+Le schéma est élaboré à partir d'un niveau d'émission de référence de l'installation correspondant au niveau atteint si aucune mesure de réduction des émissions de COV n'était mise en oeuvre sur l'installation.
+
+Les installations, ou parties d'installations, dans lesquelles sont notamment mises en oeuvre une ou plusieurs des substances visées aux paragraphes IV et V ci-dessus peuvent faire l'objet d'un schéma de maîtrise des émissions. Toutefois, les substances visées aux paragraphes IV et V ci-dessus, qui demeurent utilisées dans l'installation malgré la mise en oeuvre du schéma de maîtrise des émissions, restent soumises au respect des valeurs limites prévues aux paragraphes IV et V ci-dessus.
+
+c) Le point de rejet des effluents atmosphériques doit dépasser d'au moins 3 mètres les bâtiments situés dans un rayon de 15 mètres.
+
+d) Odeurs :
+
+Toutes les dispositions nécessaires sont prises pour limiter les odeurs provenant de l'installation. Les produits bruts ou intermédiaires susceptibles d'émettre des odeurs sont entreposés autant que possible dans des conteneurs fermés.
+
+6.3. Surveillance par l'exploitant de la pollution rejetée
+
+a) Cas général :
+
+I. - L'exploitant met en place un programme de surveillance des caractéristiques des émissions des polluants visés au point 6.2, adapté aux flux rejetés :
+
+Une mesure du débit rejeté et de la concentration des polluants est effectuée, selon les méthodes normalisées en vigueur, au moins tous les ans. Toutefois, les polluants qui ne sont pas susceptibles d'être émis par l'installation ne font pas l'objet de mesures périodiques. Dans ce cas, l'exploitant tient à la disposition de l'inspection des installations classées les éléments techniques permettant d'attester l'absence de ces polluants dans les rejets.
+
+Les mesures sont effectuées, lorsque cela est possible, par un organisme agréé par le ministre chargé des installations classées.
+
+A défaut de méthode spécifique normalisée et lorsque les composés sont sous forme particulaire ou vésiculaire, les conditions d'échantillonnage isocinétique décrites par la norme NFX 44.052 sont respectées.
 
 Ces mesures sont effectuées sur une durée voisine d'une demi-heure, dans des conditions représentatives du fonctionnement de l'installation.
 
 En cas d'impossibilité, liée à l'activité ou aux équipements, d'effectuer une mesure représentative des rejets, une évaluation des conditions de fonctionnement et des capacités des équipements d'épuration à respecter les valeurs limites est réalisée.
 
-Conditions pour le respect des valeurs limites d'émission :
+II. - Le préfet peut demander la réalisation de mesures d'odeur, aux frais de l'exploitant, selon les méthodes normalisées en vigueur, si l'installation fait l'objet de plaintes relatives aux nuisances olfactives.
 
-Une valeur limite d'émission est respectée si, au cours d'une opération de surveillance, la moyenne de toutes les mesures ne dépasse pas la valeur limite d'émission canalisée et si aucune des mesures n'est supérieure à 1,5 fois la valeur limite d'émission canalisée.
+b) Cas spécifiques :
+
+I. - Lorsque la consommation de solvant de l'installation est supérieure à une tonne/an, l'exploitant met en place un plan de gestion de solvants, mentionnant notamment les entrées et les sorties de solvants de l'installation. Ce plan est établi au minimum tous les ans et tenu à la disposition de l'inspection des installations classées, ainsi que tout justificatif concernant la consommation de solvant (factures, nom des fournisseurs...).
+
+II. - La surveillance en permanence des émissions de l'ensemble des COV à l'exclusion du méthane est réalisée si, sur l'ensemble de l'installation, l'une des conditions suivantes est remplie :
+
+1. Le flux horaire maximal en COV à l'exclusion du méthane, exprimé en carbone total, dépasse :
+
+- 15 kg/h dans le cas général ;
+
+- 10 kg/h si un équipement d'épuration des gaz chargés en COV est nécessaire pour respecter les valeurs limites d'émission canalisées.
+
+2. Le flux horaire maximal en COV à l'exclusion du méthane, visé au paragraphe III du point 6.2.b.2 de la présente annexe, ou présentant une phrase de risque R 45, R 46, R 49, R 60 ou R 61, ou les composés halogénés présentant une phrase de risque R 40 ou R 68, dépasse 2 kg/h (exprimé en somme des composés).
+
+Cette surveillance en permanence (cas 1 et 2 ci-dessus) peut être remplacée par le suivi d'un paramètre représentatif, corrélé aux émissions. Cette corrélation devra être confirmée périodiquement par une mesure des émissions.
+
+Pour les mesures en continu, on considère que la valeur limite d'émission est respectée lorsque aucune des moyennes portant sur vingt-quatre heures d'exploitation normale ne dépasse la valeur limite d'émission, et aucune des moyennes horaires ne dépasse 1,5 fois la valeur limite d'émission.
+
+III. - Dans le cas où le flux horaire de COV visés au III du point 6.2 b. 2 du présent arrêté ou présentant des phrases de risque R 45, R 46, R 49, R 60 ou R 61 ou les composés halogénés étiquetés R 40 ou R 68 dépasse 2 kg/h sur l'ensemble de l'installation, des mesures périodiques de chacun des COV présents seront effectuées afin d'établir une corrélation entre la mesure de l'ensemble des COV non méthaniques et les composés effectivement présents.
+
+IV. - Lorsque l'installation est équipée d'un oxydateur, la conformité aux valeurs limites d'émissions en NOx, méthane et CO prévues au paragraphe III du point 6.2 b. 2 est vérifiée au moins tous les trois ans par un organisme agréé, en marche continue et stable.
 
 7. Déchets
 
