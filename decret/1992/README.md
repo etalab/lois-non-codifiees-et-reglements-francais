@@ -143,6 +143,8 @@
 - [Décret n°92-129 du 7 février 1992 (EQUU9200035D)](decret-n92-129-du-7-fevrier-1992-equu9200035d)
 - [Décret n°92-136 du 7 février 1992 (JUSB9110352D)](decret-n92-136-du-7-fevrier-1992-jusb9110352d)
 - [Décret n°92-37 du 7 janvier 1992 (BUDR9104048D)](decret-n92-37-du-7-janvier-1992-budr9104048d)
+- [Décret n°92-620 du 7 juillet 1992 (INTE9200256D)](decret-n92-620-du-7-juillet-1992-inte9200256d)
+- [Décret n°92-621 du 7 juillet 1992 (INTE9200255D)](decret-n92-621-du-7-juillet-1992-inte9200255d)
 - [Décret n°92-924 du 7 septembre 1992 (PTTS9200375D)](decret-n92-924-du-7-septembre-1992-ptts9200375d)
 - [Décret n°92-925 du 7 septembre 1992 (PTTS9200360D)](decret-n92-925-du-7-septembre-1992-ptts9200360d)
 - [Décret n°92-926 du 7 septembre 1992 (PTTS9200361D)](decret-n92-926-du-7-septembre-1992-ptts9200361d)
