@@ -1,0 +1,3 @@
+# Article 3
+
+L'épreuve orale débute par un exposé du candidat sur son expérience professionnelle et les fonctions qu'il a exercées ; cet exposé est suivi d'un entretien avec le jury dont l'objectif est d'apprécier la personnalité, les aptitudes, les motivations professionnelles du candidat, la capacité à se situer dans un environnement professionnel et à s'adapter aux fonctions qui peuvent être confiées aux fonctionnaires du corps. Au cours de cet entretien, les questions posées par le jury portent sur l'expérience professionnelle du candidat (durée de l'épreuve : vingt minutes ; durée de l'exposé : dix minutes maximum ; durée de l'entretien : dix minutes minimum ; coefficient 1).

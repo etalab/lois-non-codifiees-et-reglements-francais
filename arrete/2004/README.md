@@ -34,6 +34,7 @@
 - [Arrêté du 1 octobre 2004 (MCCB0400357A)](arrete-du-1-octobre-2004-mccb0400357a)
 - [Arrêté du 1 octobre 2004 (MJSK0470188A)](arrete-du-1-octobre-2004-mjsk0470188a)
 - [Arrêté du 1 octobre 2004 (MJSK0470190A)](arrete-du-1-octobre-2004-mjsk0470190a)
+- [Arrêté du 1 octobre 2004 (SOCO0411862A)](arrete-du-1-octobre-2004-soco0411862a)
 - [Arrêté du 1 septembre 2004 (ECOD0470023A)](arrete-du-1-septembre-2004-ecod0470023a)
 - [Arrêté du 1 septembre 2004 (MENF0401900A)](arrete-du-1-septembre-2004-menf0401900a)
 - [Arrêté du 1 septembre 2004 (SOCG0420016A)](arrete-du-1-septembre-2004-socg0420016a)
