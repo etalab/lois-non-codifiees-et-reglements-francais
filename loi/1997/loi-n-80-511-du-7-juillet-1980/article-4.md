@@ -1,0 +1,7 @@
+# Article 4
+
+A titre exceptionnel et jusqu'au 31 décembre 1982, les membres du corps des tribunaux administratifs peuvent, dans les six mois qui suivent leur admission à la retraite par limite d'âge, être recrutés pour exercer les fonctions de conseiller de tribunal administratif pendant une période de trois ans. Cette période n'est pas renouvelable mais elle est, sauf demande contraire, prolongée jusqu'au 30 juin ou au 31 décembre de l'année considérée selon que le terme de la période en cause intervient au cours du premier ou du second semestre.
+
+Les nominations sont prononcées par arrêté du ministre de l'intérieur sur proposition du chef de la mission permanente d'inspection des juridictions administratives et après avis du président du tribunal administratif dans lequel l'intéressé exercait ses fonctions au moment de son départ à la retraite. Il peut être mis fin aux fonctions des intéressés par arrêté du ministre de l'intérieur sur avis conforme du chef de la mission permanente et du président du tribunal administratif concerné.
+
+Les membres des tribunaux administratifs ainsi recrutés perçoivent une indemnité non soumise à retenue pour pension, égale à la différence entre le montant des émoluments afférents aux grade, classe et échelon qu'ils occupaient à la date de leur retraite et le montant de la pension à laquelle ils ont droit. Ils bénéficient, en outre, des indemnités et avantages accordés aux membres du corps des tribunaux administratifs.
