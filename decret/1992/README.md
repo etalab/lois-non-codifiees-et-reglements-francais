@@ -789,7 +789,6 @@
 - [Décret n°92-823 du 21 août 1992 (INTB9200329D)](decret-n92-823-du-21-aout-1992-intb9200329d)
 - [Décret n°92-824 du 21 août 1992 (INTA9200330D)](decret-n92-824-du-21-aout-1992-inta9200330d)
 - [Décret du 21 mai 1992 (ECOT9223088D)](decret-du-21-mai-1992-ecot9223088d)
-- [Décret du 21 mai 1992 (ECOT9223089D)](decret-du-21-mai-1992-ecot9223089d)
 - [Décret n°92-449 du 21 mai 1992 (ECOX9210143D)](decret-n92-449-du-21-mai-1992-ecox9210143d)
 - [Décret n°92-450 du 21 mai 1992 (PTTS9200208D)](decret-n92-450-du-21-mai-1992-ptts9200208d)
 - [Décret n°92-451 du 21 mai 1992 (PTTS9200209D)](decret-n92-451-du-21-mai-1992-ptts9200209d)

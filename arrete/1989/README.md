@@ -23,7 +23,6 @@
 - [Arrêté du 2 février 1989 (PRMX8910061A)](arrete-du-2-fevrier-1989-prmx8910061a)
 - [Arrêté du 2 février 1990 (SPSH9000241A)](arrete-du-2-fevrier-1990-spsh9000241a)
 - [Arrêté du 2 janvier 1989 (AGRA8802106A)](arrete-du-2-janvier-1989-agra8802106a)
-- [Arrêté du 2 janvier 1989 (PRMZ8929951A)](arrete-du-2-janvier-1989-prmz8929951a)
 - [Arrêté du 2 janvier 1989 (SPSH8900007A)](arrete-du-2-janvier-1989-spsh8900007a)
 - [Arrêté du 2 juillet 1989 (ECOC8900082A)](arrete-du-2-juillet-1989-ecoc8900082a)
 - [Arrêté du 2 juin 1989 (COPC8900032A)](arrete-du-2-juin-1989-copc8900032a)
