@@ -18,6 +18,8 @@ Cannes-Mandelieu ;
 
 Cayenne-Rochambeau ;
 
+Châlons-Vatry ;
+
 Cherbourg-Maupertus ;
 
 Clermont-Ferrand - Aulnat ;
