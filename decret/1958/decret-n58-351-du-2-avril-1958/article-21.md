@@ -1,0 +1,3 @@
+# Article 21
+
+Le ministre des affaires étrangères, le ministre de l'intérieur, le ministre des finances, des affaires économiques et du plan, le garde des sceaux, ministre de la justice, le ministre de l'éducation nationale, de la jeunesse et des sports, le ministre de la France d'outre-mer, le ministre du travail et de la sécurité sociale, le ministre de la reconstruction et du logement, le ministre de l'Algérie, le ministre du Sahara, le secrétaire d'Etat au budget et et le secrétaire d'Etat à la fonction publique et à la réforme, administrative chargés, chacun eu ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
