@@ -241,6 +241,8 @@
 - [Arrêté du 8 mars 1994 (RESM9400291A)](arrete-du-8-mars-1994-resm9400291a)
 - [Arrêté du 8 septembre 1994 (ACVP9420020A)](arrete-du-8-septembre-1994-acvp9420020a)
 - [Arrêté du 8 septembre 1994 (BUDR9405021A)](arrete-du-8-septembre-1994-budr9405021a)
+- [Arrêté du 8 septembre 1994 (EQUP9401526A)](arrete-du-8-septembre-1994-equp9401526a)
+- [Arrêté du 8 septembre 1994 (INDP9401036A)](arrete-du-8-septembre-1994-indp9401036a)
 - [Arrêté du 8 septembre 1994 (INTD9400450A)](arrete-du-8-septembre-1994-intd9400450a)
 - [Arrêté du 8 septembre 1994 (INTD9400451A)](arrete-du-8-septembre-1994-intd9400451a)
 - [Arrêté du 8 septembre 1994 (INTD9400452A)](arrete-du-8-septembre-1994-intd9400452a)
