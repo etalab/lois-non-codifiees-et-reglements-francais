@@ -31,6 +31,7 @@
 - [Décret n°2000-1390 du 26 décembre 2000 (FPPA0010023D)](decret-n2000-1390-du-26-decembre-2000-fppa0010023d)
 - [Décret n°2000-361 du 26 avril 2000 (ECOP0000202D)](decret-n2000-361-du-26-avril-2000-ecop0000202d)
 - [Décret n°2000-383 du 26 avril 2000 (DEFP0001226D)](decret-n2000-383-du-26-avril-2000-defp0001226d)
+- [Décret n°2000-1060 du 27 octobre 2000 (MENK0002671D)](decret-n2000-1060-du-27-octobre-2000-menk0002671d)
 - [Décret n°2000-1165 du 27 novembre 2000 (AGRP0000344D)](decret-n2000-1165-du-27-novembre-2000-agrp0000344d)
 - [Décret n°2000-162 du 28 février 2000 (INTB0000044D)](decret-n2000-162-du-28-fevrier-2000-intb0000044d)
 - [Décret n°2000-376 du 28 avril 2000 (INTD0000109D)](decret-n2000-376-du-28-avril-2000-intd0000109d)
