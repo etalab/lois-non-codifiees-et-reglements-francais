@@ -923,8 +923,6 @@
 - [Arrêté du 24 décembre 1996 (ECOT9620054A)](arrete-du-24-decembre-1996-ecot9620054a)
 - [Arrêté du 24 janvier 1996 (COPC9600005A)](arrete-du-24-janvier-1996-copc9600005a)
 - [Arrêté du 24 janvier 1996 (COPC9600006A)](arrete-du-24-janvier-1996-copc9600006a)
-- [Arrêté du 24 janvier 1996 (INDD9600014A)](arrete-du-24-janvier-1996-indd9600014a)
-- [Arrêté du 24 janvier 1996 (INDD9600016A)](arrete-du-24-janvier-1996-indd9600016a)
 - [Arrêté du 24 janvier 1996 (MIPP9600039A)](arrete-du-24-janvier-1996-mipp9600039a)
 - [Arrêté du 24 janvier 1996 (TASP9620330A)](arrete-du-24-janvier-1996-tasp9620330a)
 - [Arrêté du 24 juillet 1996 (EQUA9600456A)](arrete-du-24-juillet-1996-equa9600456a)

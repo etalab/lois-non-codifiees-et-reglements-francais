@@ -1,3 +1,0 @@
-# Article 1
-
-En vue d'encourager, à titre collectif, dans les industries du textile et de la maille, la recherche, l'innovation, l'amélioration des conditions de formation du personnel et d'information des entreprises, la promotion des ventes est autorisée, jusqu'au 31 décembre 2000 et dans la limite d'un taux maximum de 0,08 p. 100 pour les produits du textile et de la maille mentionnés à l'article 2 ci-dessous et de 0,03 p. 100 pour les produits de filature mentionnés au même article, une taxe parafiscale assise, liquidée et recouvrée suivant les règles et sous les garanties et sanctions définies par le présent décret.

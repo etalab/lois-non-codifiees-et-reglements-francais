@@ -106,7 +106,6 @@
 - [Arrêté du 5 février 1999 (EQUA9900179A)](arrete-du-5-fevrier-1999-equa9900179a)
 - [Arrêté du 5 février 1999 (MCCT9900012A)](arrete-du-5-fevrier-1999-mcct9900012a)
 - [Arrêté du 5 janvier 1999 (ECOC9800156A)](arrete-du-5-janvier-1999-ecoc9800156a)
-- [Arrêté du 5 janvier 1999 (EQUT9900029A)](arrete-du-5-janvier-1999-equt9900029a)
 - [Arrêté du 5 janvier 1999 (MENS9803407A)](arrete-du-5-janvier-1999-mens9803407a)
 - [Arrêté du 5 juillet 1999 (EQUH9900980A)](arrete-du-5-juillet-1999-equh9900980a)
 - [Arrêté du 5 juillet 2000 (MENF0000925A)](arrete-du-5-juillet-2000-menf0000925a)

@@ -386,7 +386,6 @@
 - [Arrêté du 21 avril 1989 (EQUA8900446A)](arrete-du-21-avril-1989-equa8900446a)
 - [Arrêté du 21 avril 1989 (INDH8900330A)](arrete-du-21-avril-1989-indh8900330a)
 - [Arrêté du 21 décembre 1988 (ECOC8800121F)](arrete-du-21-decembre-1988-ecoc8800121f)
-- [Arrêté du 21 décembre 1988 (TEFT8903087A)](arrete-du-21-decembre-1988-teft8903087a)
 - [Arrêté du 21 décembre 1989 (SPSS8902777A)](arrete-du-21-decembre-1989-spss8902777a)
 - [Arrêté du 21 février 1989 (DEFL8901197A)](arrete-du-21-fevrier-1989-defl8901197a)
 - [Arrêté du 21 février 1989 (DEFL8901198A)](arrete-du-21-fevrier-1989-defl8901198a)

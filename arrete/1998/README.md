@@ -733,7 +733,6 @@
 - [Arrêté du 22 avril 1998 (DEFA9851034A)](arrete-du-22-avril-1998-defa9851034a)
 - [Arrêté du 22 avril 1998 (ECOF9800013A)](arrete-du-22-avril-1998-ecof9800013a)
 - [Arrêté du 22 avril 1998 (ECOM9800030A)](arrete-du-22-avril-1998-ecom9800030a)
-- [Arrêté du 22 décembre 1997 (ECOD9740007A)](arrete-du-22-decembre-1997-ecod9740007a)
 - [Arrêté du 22 décembre 1997 (EQUP9701206A)](arrete-du-22-decembre-1997-equp9701206a)
 - [Arrêté du 22 décembre 1998 (ECOD9850005A)](arrete-du-22-decembre-1998-ecod9850005a)
 - [Arrêté du 22 décembre 1998 (MESS9824111A)](arrete-du-22-decembre-1998-mess9824111a)

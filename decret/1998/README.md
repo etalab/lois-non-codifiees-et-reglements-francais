@@ -845,7 +845,6 @@
 - [Décret n°98-113 du 27 février 1998 (ECOM9701652D)](decret-n98-113-du-27-fevrier-1998-ecom9701652d)
 - [Décret n°98-115 du 27 février 1998 (INTC9800050D)](decret-n98-115-du-27-fevrier-1998-intc9800050d)
 - [Décret n°98-116 du 27 février 1998 (MCCB9800113D)](decret-n98-116-du-27-fevrier-1998-mccb9800113d)
-- [Décret n°98-129 du 27 février 1998 (ECOI9800069D)](decret-n98-129-du-27-fevrier-1998-ecoi9800069d)
 - [Décret n°98-130 du 27 février 1998 (ECOI9800071D)](decret-n98-130-du-27-fevrier-1998-ecoi9800071d)
 - [Décret n°98-219 du 27 mars 1998 (MESS9821165D)](decret-n98-219-du-27-mars-1998-mess9821165d)
 - [Décret n°98-224 du 27 mars 1998 (MESH9820907D)](decret-n98-224-du-27-mars-1998-mesh9820907d)
