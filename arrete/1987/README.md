@@ -396,7 +396,6 @@
 - [Arrêté du 19 mai 1987 (ASEE8703366A)](arrete-du-19-mai-1987-asee8703366a)
 - [Arrêté du 19 mai 1987 (EXTE8700212A)](arrete-du-19-mai-1987-exte8700212a)
 - [Arrêté du 19 mai 1987 (TRST8700105A)](arrete-du-19-mai-1987-trst8700105a)
-- [Arrêté du 19 mai 1987 (TRST8700183A)](arrete-du-19-mai-1987-trst8700183a)
 - [Arrêté du 20 août 1987 (ASEA8701226A)](arrete-du-20-aout-1987-asea8701226a)
 - [Arrêté du 20 août 1987 (ASEA8701227A)](arrete-du-20-aout-1987-asea8701227a)
 - [Arrêté du 20 août 1987 (ASEE8703637A)](arrete-du-20-aout-1987-asee8703637a)
