@@ -1,6 +1,6 @@
 # Article 8
 
-Ce comité est présidé alternativement par le directeur général de la santé au ministère chargé de la santé et le directeur général de l'Institut national de la santé et de la recherche médicale ou leurs représentants. Pendant la présidence de l'un, l'autre assure la vice-présidence.
+Ce comité est présidé alternativement par le directeur général de l'Institut de veille sanitaire et le directeur général de l'Institut national de la santé et de la recherche médicale ou leurs représentants. Pendant la présidence de l'un, l'autre assure la vice-présidence.
 
 Le président ou le vice-président peut inviter à participer aux travaux du comité ou à des groupes de travail toute personnalité extérieure compétente, en fonction de l'ordre du jour.
 
