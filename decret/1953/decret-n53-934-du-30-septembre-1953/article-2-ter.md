@@ -1,0 +1,25 @@
+# Article 2 ter
+
+Lorsque le Conseil d'Etat et un tribunal administratif sont saisis de demandes distinctes mais connexes, le président du tribunal administratif renvoie au Conseil d'Etat, soit d'office, soit à la demande d'une des parties, l'examen de la demande présentée à son tribunal. Dans le même cas le président de la section du contentieux, saisi par la sous-section intéressée, ordonne le renvoi au Conseil d'Etat de la demande soumise au tribunal administratif.
+
+Lorsqu'un tribunal administratif est saisi de deux demandes distinctes mais connexes, le président, si l'une de ces demandes ressortit à la compétence en premier et dernier ressort du Conseil d'Etat, envoie au Conseil d'Etat, soit d'office, soit à la demande d'une des parties, l'examen des affaires soumises à son tribunal.
+
+Le président du tribunal administratif doit statuer dans les quinze jours sur les demandes de renvoi formées devant lui par l'une des parties, en vertu des alinéas précédents du présent article. En cas de décision de rejet de cette demande, les parties peuvent interjeter appel au Conseil d'Etat dans le délai de quinze jours à compter de la notification de la décision du président du tribunal. Les requêtes peuvent être déposées au greffe du tribunal administratif. Les dispositions de l'article 50 de l'ordonnance du 31 juillet 1945 relatives aux délais de distance ne sont pas applicables auxdites requêtes.
+
+Dans les cas mentionnés aux trois alinéas précédents, les dossiers des demandes présentées devant le tribunal administratif sont transmis au Conseil d'Etat. La section du contentieux du Conseil d'Etat ou la sous-section à laquelle est confiée l'instruction de l'affaire prescrit toutes communications utiles et fixe le délai dans lequel les observations pourront être présentées par les parties.
+
+La saisine du Conseil d'Etat par une ordonnance de renvoi du président du tribunal administratif ou par l'appel formé dans le délai de quinze jours contre une décision du président du tribunal refusant de prendre une telle ordonnance entraîne pour le Conseil d'Etat et pour le tribunal administratif obligation de surseoir à statuer sur les demandes introduites devant eux sans que le sursis doive faire l'objet d'une décision de ces juridictions. Le délai prévu à l'alinéa 3 du présent article est suspensif.
+
+Le Conseil d'Etat statue d'urgence sur l'existence du lien de connexité. S'il décide qu'il n'existe pas de lien de connexité, il annule l'ordonnance de renvoi ou rejette l'appel. Le dossier de la demande ou des demandes qui auraient été introduites devant un tribunal administratif est immédiatement renvoyé au président de cette juridiction.
+
+Si le Conseil d'Etat constate l'existence d'un lien de connexité, il ordonne la jonction des demandes et se prononce par la même décision sur les questions de compétence soulevées par les litiges.
+
+Si l'un de ces litiges relève de la compétence en premier et dernier ressort du Conseil d'Etat, les prescriptions de l'article 2 bis du présent décret sont applicables à la demande connexe ressortissant normalement à la compétence en premier ressort d'un tribunal administratif. Les actes de procédure concernant cette dernière demande qui ont été régulièrement accomplis avant la décision du Conseil d'Etat, et notamment l'acte introductif d'instance devant le tribunal administratif, demeurent valables dans la forme où ils ont été effectués. L'instruction s'il y a lieu, est poursuivie après la décision du Conseil d'Etat dans les conditions prévues par l'ordonnance et le décret modifiés du 31 juillet 1945.
+
+Si les demandes connexes relèvent l'une et l'autre de la compétence en premier ressort des tribunaux administratifs, la décision du Conseil d'Etat détermine le tribunal territorialement compétent pour y statuer et les dossiers sont immédiatement renvoyés au président de ce tribunal.
+
+Si les demandes connexes soulèvent des litiges dont la connaissance n'appartient ni au Conseil d'Etat ni aux tribunaux administratifs, la décision en Conseil d'Etat en prononce le rejet. Si l'une seulement de ces demandes ne relève que de la compétence ni du Conseil d'Etat ni des tribunaux administratifs, le Conseil d'Etat, après en avoir prononcé le rejet, statue sur l'autre demande si elle ressortit à sa compétence en premier et dernier ressort ou la renvoie au tribunal administratif territorialement compétent si elle relève normalement de la juridiction en premier ressort des tribunaux administratifs.
+
+Les décisions rendues par le Conseil d'Etat dans les cas visés aux alinéas précédents sont notifiées par le secrétaire du contentieux du Conseil d'Etat.
+
+La connexité existant entre une demande ressortissant à la compétence en premier et dernier ressort du Conseil d'Etat et une demande ressortissant à la juridiction des tribunaux administratifs n'entraîne pas la nullité du jugement sur le fond rendu sur cette deuxième demande par un tribunal administratif lorsqu'il n'a pas été fait application des dispositions du présent article avant ledit jugement.
