@@ -1,4 +1,4 @@
-# Arrêté du 11 février 1985 excluant de toute rémunération le mandat de président du conseil d'administration de la société France Régions 3 Publicité - Nord-Picardie.
+# Arrêté du 11 février 1985 relatif à l'emploi de l'imazalil pour le traitement en surface des agrumes et des bananes après récolte
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
