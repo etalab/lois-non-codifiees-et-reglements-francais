@@ -1,23 +1,17 @@
 # Article 5
 
-" Le jury du concours est nommé par arrêté de l'autorité territoriale de la collectivité ou de l'établissement qui organise le concours.
+Les membres du jury du concours sont nommés par arrêté de l'autorité territoriale de la collectivité ou de l'établissement qui organise le concours.
 
-" Le jury comprend :
+Le jury comprend au moins :
 
-" a) Deux élus locaux ;
+a) Un fonctionnaire territorial de catégorie A et un fonctionnaire désigné dans les conditions prévues à l'article 14 du décret du 20 novembre 1985 susvisé ;
 
-" b) Un fonctionnaire territorial de catégorie A et un fonctionnaire du cadre d'emplois ou de la catégorie correspondant désigné dans les conditions fixées à l'article 14 du décret du 20 novembre 1985 susvisé ;
+b) Deux personnalités qualifiées ;
 
-" c) Deux personnalités qualifiées ;
+c) Deux élus locaux.
 
-" d) Deux membres de l'enseignement supérieur sur proposition d'une autorité habilitée à représenter un établissement d'enseignement supérieur ;
+Les membres du jury sont choisis, à l'exception des membres mentionnés à l'article 42 de la loi du 26 janvier 1984 susvisée, sur une liste établie chaque année ou mise à jour en tant que de besoin par le président du tribunal administratif, au vu des propositions du ou des présidents des centres de gestion relevant du ressort de ce tribunal. Ces derniers recueillent préalablement les propositions des collectivités non affiliées.
 
-" e) Un représentant du Centre national de la fonction publique territoriale en application de l'article 42 de la loi du 26 janvier 1984 susvisée.
+Le représentant du Centre national de la fonction publique territoriale, membre du jury en application de l'article 42 de la loi du 26 janvier 1984 susvisée, est désigné au titre de l'un des trois collèges ci-dessus mentionnés.
 
-" Le président est choisi parmi les membres du jury.
-
-" Pour les concours organisés par les collectivités non affiliées, deux tiers des membres du jury doivent être extérieurs à la collectivité, dont le président du jury. "
-
-L'arrêté de nomination du jury prévu au premier alinéa du présent article désigne le remplaçant du président dans le cas où celui-ci serait dans l'impossibilité de poursuivre sa mission.
-
-En cas de partage égal des voix, la voix du président est prépondérante.
+L'arrêté prévu au premier alinéa du présent article désigne, parmi les membres du jury, son président ainsi que le représentant de ce dernier dans le cas où il serait dans l'impossibilité d'accomplir sa mission.

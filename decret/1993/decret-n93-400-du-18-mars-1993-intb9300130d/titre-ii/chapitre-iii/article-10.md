@@ -1,3 +1,7 @@
 # Article 10
 
-Le jury peut, compte tenu notamment du nombre des candidats, se constituer en groupes d'examinateurs en vue de la correction de l'épreuve écrite et de l'interrogation orale.
+A l'issue des épreuves, le jury détermine le nombre total des points nécessaires pour être admis. Sur cette base et dans la limite des places mises au concours, le jury arrête une liste d'admission.
+
+En cas de partage égal des voix, la voix du président est prépondérante.
+
+Le président du jury transmet la liste d'admission au président du centre de gestion avec un compte rendu de l'ensemble des opérations.

@@ -1,7 +1,9 @@
 # Article 5
 
-Le jury arrête pour chaque concours une liste d'admission qui fait mention, le cas échéant, de la spécialité choisie par chaque candidat.
+Pour chacun des concours, le jury détermine le nombre total des points nécessaires pour être admissible et, sur cette base, arrête la liste des candidats admis à se présenter aux épreuves d'admission.
 
-Le président du jury transmet la liste mentionnée ci-dessus à l'autorité territoriale de la collectivité ou de l'établissement qui organise le concours.
+Pour chacun des concours, à l'issue de l'épreuve d'admission, le jury arrête, dans la limite des places mises au concours, une liste d'admission qui fait mention, le cas échéant, de la spécialité choisie par le candidat.
 
-La liste d'aptitude est établie par ordre alphabétique et fait mention, le cas échéant, de la spécialité au titre de laquelle chaque lauréat a concouru.
+En cas de partage égal des voix, la voix du président est prépondérante.
+
+Le président du jury transmet la liste mentionnée ci-dessus à l'autorité organisatrice du concours avec un compte rendu de l'ensemble des opérations.

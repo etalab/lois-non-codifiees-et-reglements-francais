@@ -1,6 +1,6 @@
 # Article 5
 
-En outre, les candidats peuvent demander, lors de leur inscription, à subir en cas d'admissibilité l'une des épreuves orales facultatives suivantes :
+En outre, les candidats peuvent demander, lors de leur inscription, à subir l'une des épreuves orales facultatives suivantes :
 
 a) Soit une épreuve de langue vivante comportant la traduction sans dictionnaire d'un texte dans l'une des langues étrangères suivantes : allemand, anglais, italien, espagnol, grec, portugais, néerlandais, russe ou arabe moderne (durée : vingt minutes avec préparation de même durée ; coefficient : 1) ;
 

@@ -1,23 +1,23 @@
 # Article 10
 
-" Les jurys des concours sont nommés par arrêté du président du centre de gestion compétent.
+Les membres des jurys sont nommés par arrêté du président du centre de gestion qui organise le concours.
 
-" Le jury de chaque concours comprend, outre le président, neuf membres ainsi répartis :
+Le jury comprend au moins :
 
-" a) Un fonctionnaire territorial de catégorie A et un fonctionnaire du cadre d'emplois de la catégorie correspondante, désigné dans les conditions définies à l'article 14 du décret du 20 novembre 1985 susvisé ;
+a) Un fonctionnaire territorial de catégorie A et un fonctionnaire désigné dans les conditions prévues à l'article 14 du décret du 20 novembre 1985 susvisé ;
 
-" b) Trois personnalités qualifiées ;
+b) Deux personnalités qualifiées ;
 
-" c) Trois maires ou conseillers municipaux ;
+c) Deux élus locaux.
 
-" d) Un représentant du Centre national de la fonction publique territoriale en application de l'article 42 de la loi du 26 janvier 1984 susvisée. "
+Les membres du jury sont choisis, à l'exception des membres mentionnés à l'article 42 de la loi du 26 janvier 1984 susvisée, sur une liste établie chaque année ou mise à jour en tant que de besoin par le président du tribunal administratif, au vu des propositions du ou des présidents des centres de gestion relevant du ressort de ce tribunal. Ces derniers recueillent préalablement les propositions des collectivités non affiliées.
 
-En cas de partage égal des voix, la voix du président est prépondérante.
+Le représentant du Centre national de la fonction publique territoriale, membre du jury en application de l'article 42 de la loi du 26 janvier 1984 susvisée, est désigné au titre de l'un des trois collèges ci-dessus mentionnés.
 
-Les correcteurs sont désignés par arrêté du président du centre de gestion de la fonction publique territoriale pour participer avec les membres du jury à la correction des épreuves. Ils délibèrent avec le jury avec voix consultative pour noter les épreuves qu'ils ont corrigées.
+L'arrêté prévu au premier alinéa du présent article désigne, parmi les membres du jury, son président ainsi que le remplaçant de ce dernier pour le cas où il serait dans l'impossibilité d'accomplir sa mission.
 
-Les épreuves écrites sont anonymes ; chaque composition est corrigée par deux correcteurs.
+Le président et deux membres de ces jurys au moins sont communs au jury du concours externe et au jury du concours interne.
 
-Le président et deux membres de ces jurys sont communs au jury du concours externe et au jury du concours interne.
+Le jury peut se constituer en groupes d'examinateurs, compte tenu notamment du nombre des candidats, en vue de la correction des épreuves écrites et des interrogations orales, dans les conditions fixées par l'article 44 de la loi du 26 janvier 1984 susvisée.
 
-L'arrêté prévu au premier alinéa du présent article désigne le remplaçant du président dans les cas où celui-ci serait dans l'impossibilité de poursuivre sa mission.
+Des correcteurs peuvent être désignés par arrêté du président du centre de gestion pour participer à la correction des épreuves, sous l'autorité du jury.

@@ -2,8 +2,8 @@
 
 Il est attribué à chaque épreuve une note de 0 à 20. Chaque note est multipliée par le coefficient correspondant.
 
-Le jury arrête, pour chacun des concours, la liste des candidats admis à se présenter aux épreuves d'admission, d'après le total des points qu'ils ont obtenus à l'ensemble des épreuves d'admissibilité.
+Les épreuves écrites sont anonymes et font l'objet d'une double correction.
 
-Toute note inférieure à 5 sur 20 à l'une de ces épreuves entraîne l'élimination de la liste d'admissibilité.
+Toute note inférieure à 5 sur 20 à l'une des épreuves d'admissibilité entraîne l'élimination du candidat.
 
-Toute note inférieure à 5 sur 20 à l'épreuve physique obligatoire pour les candidats au concours externe entraîne l'élimination de la liste d'admission.
+Toute note inférieure à 5 sur 20 à l'épreuve physique obligatoire pour les candidats au concours externe est éliminatoire.

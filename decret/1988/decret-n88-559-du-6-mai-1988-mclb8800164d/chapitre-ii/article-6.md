@@ -1,13 +1,21 @@
 # Article 6
 
-Le jury [*composition*] est nommé par arrêté de l'autorité territoriale de la collectivité ou de l'établissement qui organise le concours.
+Les membres des jurys sont nommés par arrêté de l'autorité territoriale de la collectivité ou de l'établissement qui organise le concours.
 
-Il comprend au moins trois membres. A l'exception des membres mentionnés à l'article 42 de la loi n° 84-53 du 26 janvier 1984 précitée et, facultativement, du président du jury, les autres membres sont choisis sur une liste dressée chaque année, pour son ressort, par le tribunal administratif.
+Le jury comprend au moins :
 
-L'arrêté prévu au premier alinéa du présent article désigne le remplaçant du président dans le cas où celui-ci serait dans l'impossibilité de poursuivre sa mission.
+a) Un fonctionnaire territorial de catégorie A ou B et un fonctionnaire désigné dans les conditions prévues à l'article 14 du décret du 20 novembre 1985 susvisé ;
 
-En cas de partage égal des voix, la voix du président est prépondérante.
+b) Deux personnalités qualifiées ;
 
-Les correcteurs sont désignés par arrêté de l'autorité territoriale précitée pour participer avec les membres du jury à la correction des épreuves. Ils délibèrent avec le jury avec voix consultative pour noter les épreuves qu'ils ont corrigées.
+c) Deux élus locaux.
 
-Les épreuves écrites sont anonymes : chaque composition est corrigée par deux correcteurs.
+Pour les concours organisés par une collectivité ou un établissement non affiliés, le représentant du centre de gestion, membre du jury en application de l'article 42 de la loi du 26 janvier 1984 susvisée, est désigné au titre de l'un des trois collèges ci-dessus mentionnés.
+
+Les membres des jurys sont choisis, à l'exception des membres mentionnés à l'article 42 de la loi du 26 janvier 1984 susvisée, sur une liste établie chaque année ou mise à jour en tant que de besoin par le président du tribunal administratif, au vu des propositions du ou des présidents des centres de gestion relevant du ressort de ce tribunal. Ces derniers recueillent préalablement les propositions des collectivités non affiliées.
+
+L'arrêté prévu au premier alinéa du présent article désigne, parmi les membres du jury, son président ainsi que le remplaçant de ce dernier pour le cas où il serait dans l'impossibilité d'accomplir sa mission.
+
+Le jury peut se constituer en groupes d'examinateurs, compte tenu notamment du nombre des candidats, en vue de la correction des épreuves écrites et des interrogations orales, dans les conditions fixées par l'article 44 de la loi du 26 janvier 1984 susvisée.
+
+Des correcteurs peuvent être désignés par arrêté de l'autorité territoriale compétente pour participer à la correction des épreuves, sous l'autorité du jury.
