@@ -30,6 +30,7 @@
 - [Décret n°80-169 du 27 février 1980](decret-n80-169-du-27-fevrier-1980)
 - [Décret n°79-1136 du 28 décembre 1979](decret-n79-1136-du-28-decembre-1979)
 - [Décret n°79-1205 du 28 décembre 1979](decret-n79-1205-du-28-decembre-1979)
+- [Décret n°80-183 du 28 février 1980](decret-n80-183-du-28-fevrier-1980)
 - [Décret n°80-112 du 30 janvier 1980](decret-n80-112-du-30-janvier-1980)
 - [Décret n°80-99 du 30 janvier 1980](decret-n80-99-du-30-janvier-1980)
 - [Décret n°79-1228 du 31 décembre 1979](decret-n79-1228-du-31-decembre-1979)
