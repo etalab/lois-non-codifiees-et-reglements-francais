@@ -1,3 +1,3 @@
 # Article 268
 
-Le montant nominal des actions ou coupures d'action est fixé par les statuts.
+Le montant nominal des actions ou coupures d'action peut être fixé par les statuts. Cette option s'applique alors à toutes les émissions d'actions.
