@@ -670,7 +670,6 @@
 - [Arrêté du 23 novembre 1990 (ENVN9061589A)](arrete-du-23-novembre-1990-envn9061589a)
 - [Arrêté du 23 novembre 1990 (MENH9002740A)](arrete-du-23-novembre-1990-menh9002740a)
 - [Arrêté du 23 novembre 1990 (SPSA9001347A)](arrete-du-23-novembre-1990-spsa9001347a)
-- [Arrêté du 23 octobre 1990 (EQUT9001456A)](arrete-du-23-octobre-1990-equt9001456a)
 - [Arrêté du 23 octobre 1990 (MAEA9020399A)](arrete-du-23-octobre-1990-maea9020399a)
 - [Arrêté du 23 octobre 1990 (PTTR9000846A)](arrete-du-23-octobre-1990-pttr9000846a)
 - [Arrêté du 23 octobre 1990 (PTTR9000847A)](arrete-du-23-octobre-1990-pttr9000847a)
