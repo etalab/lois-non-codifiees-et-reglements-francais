@@ -1,5 +1,6 @@
 # Décret n°71-524 du 1 juillet 1971 relatif à certaines sociétés civiles faisant publiquement appel à l'épargne
 
+- [Article 1](article-1.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
@@ -28,3 +29,4 @@
 - [Article 25-4](article-25-4.md)
 - [Article 25-5](article-25-5.md)
 - [Article 26](article-26.md)
+- [Article 27](article-27.md)
