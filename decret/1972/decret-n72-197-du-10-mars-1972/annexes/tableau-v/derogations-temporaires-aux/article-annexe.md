@@ -50,7 +50,7 @@
 <td> : d'aménagement concerté dont le bilan    :                        :</td>
 </tr>
 <tr>
-<td> : financier prévisionnel a été arrêté     :                        :</td>
+<td> : financier prévisionnel a été arrêté    :                        :</td>
 </tr>
 <tr>
 <td> : avant le 1er juillet 1972 (1)           :         5441           :</td>
@@ -65,13 +65,10 @@
 <td> : Etablissement du second degré           :      1210 - 1260       :</td>
 </tr>
 <tr>
-<td> :                                         :      1220 - 1241       :</td>
+<td> : Premier et second cycle (constructions  :      1220 - 1241       :</td>
 </tr>
 <tr>
-<td> : Premier et second cycle (constructions  :                        :</td>
-</tr>
-<tr>
-<td> : et aménagements)                        :      1242 - 1230       :</td>
+<td> : et aménagements)                        :         1230           :</td>
 </tr>
 <tr>
 <td> :                                         :                        :</td>
@@ -82,6 +79,8 @@
 <tr>
 <td> : Equipements sportifs et socio-éducatifs :                        :</td>
 </tr>
+</table>
+<table>
 <tr>
 <td> : effectués dans les départements         :                        :</td>
 </tr>
@@ -101,7 +100,7 @@
 <td> : Aménagements hydrauliques des terres    :                        :</td>
 </tr>
 <tr>
-<td> : agricoles (travaux d'intérêt localisé   :                        :</td>
+<td> : agricoles (travaux d'intérêt localisé  :                        :</td>
 </tr>
 <tr>
 <td> : et petit matériel                       :                        :</td>
@@ -137,7 +136,22 @@
 <td> : de la Réunion                           :         7211 (5)       :</td>
 </tr>
 <tr>
-<td> :                                         :                        :</td>
+<td> : Aménagement fonciers (opérations        :                        :</td>
+</tr>
+<tr>
+<td> : faisant l'objet d'une aide des          :                        :</td>
+</tr>
+<tr>
+<td> : communautés économiques européennes au  :                        :</td>
+</tr>
+<tr>
+<td> : titre d'un programme approuvé par les   :                        :</td>
+</tr>
+<tr>
+<td> : autorités communautaires avant le       :                        :</td>
+</tr>
+<tr>
+<td> : 31 décembre 1983).                      :                        :</td>
 </tr>
 <tr>
 <td> :------------------------------------------------------------------:</td>
@@ -193,7 +207,7 @@
 <td> : d'aménagement concerté dont le bilan    :                        :</td>
 </tr>
 <tr>
-<td> : financier prévisionnel a été arrêté     :                        :</td>
+<td> : financier prévisionnel a été arrêté    :                        :</td>
 </tr>
 <tr>
 <td> : avant le 1er juillet 1972 (1)           :       60 p. 100        :</td>
@@ -237,8 +251,11 @@
 <tr>
 <td> :                                         :                        :</td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td> :                Agriculture              :                        :</td>
+<td>:                Agriculture              :                        :</td>
 </tr>
 <tr>
 <td> : Alimentation en eau potable             :       80 p. 100 (3)    :</td>
@@ -247,7 +264,7 @@
 <td> : Aménagements hydrauliques des terres    :                        :</td>
 </tr>
 <tr>
-<td> : agricoles (travaux d'intérêt localisé   :                        :</td>
+<td> : agricoles (travaux d'intérêt localisé  :                        :</td>
 </tr>
 <tr>
 <td> : et petit matériel                       :                        :</td>
@@ -283,6 +300,24 @@
 <td> : de la Réunion                           :      100 p. 100        :</td>
 </tr>
 <tr>
+<td> : Aménagements fonciers (opérations       :                        :</td>
+</tr>
+<tr>
+<td> : faisant l'objet d'une aide des          :                        :</td>
+</tr>
+<tr>
+<td> : communautés économiques européennes     :                        :</td>
+</tr>
+<tr>
+<td> : au titre d'un programme approuvé par    :                        :</td>
+</tr>
+<tr>
+<td> : les autorités communautaires avant le   :                        :</td>
+</tr>
+<tr>
+<td> : 31 décembre 1983).                      :       80 p. 100        :</td>
+</tr>
+<tr>
 <td> :                                         :                        :</td>
 </tr>
 <tr>
@@ -303,7 +338,7 @@
 <td> :                                         :                        :</td>
 </tr>
 <tr>
-<td> : ----------------------------------------:------------------------:</td>
+<td> :-----------------------------------------:------------------------:</td>
 </tr>
 <tr>
 <td> :                  Intérieur              :                        :</td>
@@ -339,7 +374,7 @@
 <td> : d'aménagement concerté dont le bilan    :                        :</td>
 </tr>
 <tr>
-<td> : financier prévisionnel a été arrêté     :        Exécution       :</td>
+<td> : financier prévisionnel a été arrêté    :        Exécution       :</td>
 </tr>
 <tr>
 <td> : avant le 1er juillet 1972 (1)           :    de ces opérations   :</td>
@@ -347,11 +382,14 @@
 <tr>
 <td> :                                         :                        :</td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td> :          Education nationale            :                        :</td>
+<td>:          Education nationale            :                        :</td>
 </tr>
 <tr>
-<td> : Etablissement du second degré           :       1972-1983        :</td>
+<td> : Etablissement du second degré           :       1972-1984        :</td>
 </tr>
 <tr>
 <td> :                                         :                        :</td>
@@ -380,8 +418,11 @@
 <tr>
 <td> :                                         :                        :</td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td> :                Agriculture              :                        :</td>
+<td>:                Agriculture              :                        :</td>
 </tr>
 <tr>
 <td> : Alimentation en eau potable             :  Durée du VIIIe Plan   :</td>
@@ -390,7 +431,7 @@
 <td> : Aménagements hydrauliques des terres    :                        :</td>
 </tr>
 <tr>
-<td> : agricoles (travaux d'intérêt localisé   :                        :</td>
+<td> : agricoles (travaux d'intérêt localisé  :                        :</td>
 </tr>
 <tr>
 <td> : et petit matériel                       :                        :</td>
@@ -426,7 +467,25 @@
 <td> : de la Réunion                           :      Année 1980        :</td>
 </tr>
 <tr>
-<td> :                                         :                        :</td>
+<td> : Aménagements fonciers (opérations       :                        :</td>
+</tr>
+<tr>
+<td> : faisant l'objet d'une aide des          :                        :</td>
+</tr>
+<tr>
+<td> : communautés économiques européennes au  :                        :</td>
+</tr>
+<tr>
+<td> : titre d'un programme approuvé par les   :                        :</td>
+</tr>
+<tr>
+<td> : autorités communautaires avant le       :                        :</td>
+</tr>
+<tr>
+<td> : 31 décembre 1983).                      :  Exécution de ces      :</td>
+</tr>
+<tr>
+<td> :                                         :      programmes        :</td>
 </tr>
 <tr>
 <td> :------------------------------------------------------------------:</td>
