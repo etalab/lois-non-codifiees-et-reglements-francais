@@ -2,7 +2,7 @@
 
 TABLEAU DES EMPLOIS DES SERVICES EXTÉRIEURS DU MINISTÈRE DES AFFAIRES SOCIALES ET DE L'EMPLOI AFFECTÉS DE LA N.B.I. À
 
-COMPTER DU 1er AOÛT 1990
+COMPTER DU 1er AOÛT 1991
 
 I. - Responsables des secrétariats particuliers des directeurs régionaux des affaires sanitaires et sociales.
 
@@ -15,3 +15,7 @@ III. - Assistantes sociales, conseillères techniques auprès :
 - des directeurs départementaux des affaires sanitaires et sociales ;
 
 - de l'administration centrale (une conseillère technique).
+
+IV. - Agents chargés de l'accueil général au sein des directions régionales et départementales des affaires sanitaires et sociales.
+
+V. - Emplois d'infirmière au centre de reconduite à la frontière du Mesnil-Amelot.
