@@ -1,6 +1,6 @@
 # Article 5
 
-Le directeur responsable et les membres du comité de direction des casinos sont tenus de se conformer aux clauses du cahier des charges.
+Le directeur responsable et les membres du comité de direction des casinos sont tenus de se conformer aux clauses du cahier des charges. Ils veillent, en permanence, à la sincérité des jeux et à la régularité de leur fonctionnement.
 
 Ils doivent, dans les délais et conditions prévus par arrêté [*formalités*] :
 
