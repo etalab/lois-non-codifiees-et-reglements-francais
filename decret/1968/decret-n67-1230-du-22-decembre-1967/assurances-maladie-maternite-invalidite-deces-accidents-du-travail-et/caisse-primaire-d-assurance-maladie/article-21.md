@@ -1,6 +1,6 @@
 # Article 21
 
-La caisse primaire d'assurance maladie accorde, chaque année [*périodicité*], à chacune des sections locales, par prélèvement sur les ressources affectées à sa gestion administrative, une somme comprenant :
+Sous réserve des dispositions des articles 13, 13-3 et 13-4, La caisse primaire d'assurance maladie accorde, chaque année [*périodicité*], à chacune des sections locales, par prélèvement sur les ressources affectées à sa gestion administrative, une somme comprenant :
 
 a) Une remise au titre des frais de gestion supportés par la section dans l'accomplissement des missions qui lui incombent ;
 
