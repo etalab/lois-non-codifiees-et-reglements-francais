@@ -70,7 +70,6 @@
 - [Décret n°96-88 du 2 février 1996 (EQUH9600141D)](decret-n96-88-du-2-fevrier-1996-equh9600141d)
 - [Décret n°95-503 du 2 mai 1995 (RESK9500620D)](decret-n95-503-du-2-mai-1995-resk9500620d)
 - [Décret n°95-504 du 2 mai 1995 (DOME9500017D)](decret-n95-504-du-2-mai-1995-dome9500017d)
-- [Décret n°95-506 du 2 mai 1995 (INTB9500110D)](decret-n95-506-du-2-mai-1995-intb9500110d)
 - [Décret n°95-507 du 2 mai 1995 (INTD9500112D)](decret-n95-507-du-2-mai-1995-intd9500112d)
 - [Décret n°95-510 du 2 mai 1995 (DEFP9501465D)](decret-n95-510-du-2-mai-1995-defp9501465d)
 - [Décret n°95-519 du 2 mai 1995 (ECOT9413777D)](decret-n95-519-du-2-mai-1995-ecot9413777d)

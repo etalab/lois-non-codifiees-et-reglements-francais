@@ -6,7 +6,6 @@
 - [Décret n°52-16 du 5 janvier 1952](decret-n52-16-du-5-janvier-1952)
 - [Décret n°52-1122 du 6 octobre 1952](decret-n52-1122-du-6-octobre-1952)
 - [Décret n°52-540 du 7 mai 1952](decret-n52-540-du-7-mai-1952)
-- [Décret n°52-964 du 9 août 1952](decret-n52-964-du-9-aout-1952)
 - [Décret n°52-1050 du 10 septembre 1952](decret-n52-1050-du-10-septembre-1952)
 - [Décret n°50-60 du 11 janvier 1950](decret-n50-60-du-11-janvier-1950)
 - [Décret n°52-672 du 11 juin 1952](decret-n52-672-du-11-juin-1952)
