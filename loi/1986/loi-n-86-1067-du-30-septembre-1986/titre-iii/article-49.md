@@ -1,19 +1,21 @@
 # Article 49
 
-Un établissement public de l'Etat à caractère industriel et commercial, dénommé Institut national de l'audiovisuel [*INA*] , est chargé [*attributions*] , conformément aux obligations d'un cahier des charges fixé par décret, de conserver et exploiter les archives audiovisuelles des sociétés nationales de programme.
+L'Institut national de l'audiovisuel, établissement public de l'Etat à caractère industriel et commercial, est chargé de conserver et de mettre en valeur le patrimoine audiovisuel national.
 
-L'Institut devient propriétaire des archives audiovisuelles des sociétés nationales de programme, autres que celles qui sont constituées par les oeuvres de fiction, à l'issue d'un délai de trois ans après leur première diffusion. Ce délai s'applique également aux archives audiovisuelles ainsi définies, qui ont été déposées auprès de l'Institut en application de l'article 47 de la loi n° 82-652 du 29 juillet 1982 précitée.
+I. - L'institut assure la conservation des archives audiovisuelles des sociétés nationales de programme et contribue à leur exploitation. La nature, les tarifs, les conditions financières des prestations documentaires et les modalités d'exploitation de ces archives sont fixés par convention entre l'institut et chacune des sociétés concernées. Ces conventions sont approuvées par arrêté des ministres chargés du budget et de la communication.
 
-Les sociétés nationales de programme bénéficient d'un droit d'utilisation prioritaire pour leurs archives audiovisuelles dont l'Institut a la propriété.
+II. - L'institut exploite les extraits des archives audiovisuelles des sociétés nationales de programme dans les conditions prévues par les cahiers des charges. A ce titre, il bénéficie des droits d'exploitation de ces extraits à l'expiration d'un délai d'un an à compter de leur première diffusion.
 
-La société visée à l'article 58 de la présente loi bénéficie de ce même droit pour ses archives dont la propriété a été transférée à l'Institut national de l'audiovisuel à la date d'effet de la cession mentionnée au deuxième alinéa de l'article 58. Elle conserve la propriété de l'ensemble de ses oeuvres produites postérieurement au 29 juillet 1982 [*date*].
+L'institut demeure propriétaire des supports et matériels techniques et détenteur des droits d'exploitation des archives audiovisuelles des sociétés nationales de programme et de la société mentionnée à l'article 58 qui lui ont été transférés avant la publication de la loi n° 2000-719 du 1er août 2000 précitée. Les sociétés nationales de programme ainsi que la société mentionnée à l'article 58 conservent toutefois, chacune pour ce qui la concerne, un droit d'utilisation prioritaire de ces archives.
 
-L'Institut peut également passer des conventions avec toute personne morale de droit public ou de droit privé pour la conservation et l'exploitation de ses archives audiovisuelles.
+L'institut exerce les droits d'exploitation mentionnés au présent paragraphe dans le respect des droits moraux et patrimoniaux des titulaires de droits d'auteurs ou de droits voisins du droit d'auteur, et de leurs ayants droit.
 
-En application de la loi n° 92-546 du 20 juin 1992 relative au dépôt légal, l'Institut national de l'audiovisuel est chargé de recueillir et de conserver les documents sonores et audiovisuels radiodiffusés ou télédiffusés, de participer à la constitution et à la diffusion des bibliographies nationales correspondantes et de mettre ces documents à la disposition du public pour consultation. La consultation des documents s'effectue, sous réserve des secrets protégés par la loi, dans des conditions conformes à la législation sur la propriété intellectuelle et compatibles avec leur conservation. L'Institut national de l'audiovisuel exerce ces missions selon des modalités fixées par décret en Conseil d'Etat.
+III. - L'institut peut passer des conventions avec toute personne morale pour la conservation et l'exploitation de ses archives audiovisuelles. Il peut acquérir des droits d'exploitation de documents audiovisuels et recevoir des legs et donations.
 
-L'Institut peut, dans les conditions fixées par le cahier des charges :
+IV. - En application de l'article 5 de la loi n° 92-546 du 20 juin 1992 relative au dépôt légal et dans les conditions fixées par décret en Conseil d'Etat, l'institut est responsable du dépôt légal des documents sonores et audiovisuels radiodiffusés ou télédiffusés, qu'il gère conformément aux objectifs et dans les conditions définis à l'article 2 de la même loi (1).
 
-a) Assurer ou faire assurer la formation continue des personnels du secteur de l'audiovisuel et contribuer à la formation initiale et à l'enseignement supérieur ;
+V. - L'institut contribue à l'innovation et à la recherche dans le domaine de la production et de la communication audiovisuelle. Dans le cadre de ses missions, il procède à des études et des expérimentations et, à ce titre, produit des oeuvres et des documents audiovisuels pour les réseaux actuels et futurs. Il contribue à la formation continue et initiale et à toutes les formes d'enseignement dans les métiers de la communication audiovisuelle.
 
-b) Assurer ou faire assurer des recherches sur la production, la création et la communication audiovisuelles et produire des oeuvres et documents audiovisuels en liaison avec ses activités de recherche et d'exploitation des archives audiovisuelles.
+VI. - Le cahier des missions et des charges de l'Institut national de l'audiovisuel est fixé par décret.
+
+L'Institut national de l'audiovisuel peut recourir à l'arbitrage.

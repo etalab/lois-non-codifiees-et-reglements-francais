@@ -1,0 +1,3 @@
+# Article 46
+
+Le Gouvernement transmet au Parlement, à l'issue d'un délai de trois ans après l'entrée en vigueur de la présente loi, un bilan du passage à la diffusion hertzienne terrestre numérique. Ce bilan présente des propositions portant notamment sur les conditions d'extension éventuelle du dispositif prévu à l'article 34-3 aux services diffusés par voie hertzienne terrestre en mode numérique et répondant à des missions de service public, sur la couverture des zones d'ombre par d'autres modes de diffusion, ainsi que sur le délai dans lequel devra être fixé l'arrêt de la diffusion hertzienne terrestre en mode analogique des services de télévision.

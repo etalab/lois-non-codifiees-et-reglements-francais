@@ -1,17 +1,19 @@
 # Article 26
 
-Pour la transmission et la diffusion de leur programme, les sociétés nationales de programme prévues à l'article 44 bénéficient des fréquences utilisées à cet effet à la date de publication de la présente loi par l'établissement public de diffusion créé par l'article 34 de la loi n° 82-652 du 29 juillet 1982 sur la communication audiovisuelle.
+I. - A compter de la date d'entrée en vigueur de la loi n° 2000-719 du 1er août 2000 modifiant la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, les sociétés prévues à l'article 44 et la chaîne culturelle issue du traité du 2 octobre 1990 deviennent titulaires du droit d'usage des ressources radioélectriques précédemment assignées pour la diffusion de leurs programmes à la société mentionnée à l'article 51.
 
-Le Conseil supérieur de l'audiovisuel peut retirer aux sociétés nationales de programme, si les contraintes techniques l'exigent, certaines des fréquences mentionnées à l'alinéa ci-dessus, à la condition de leur attribuer, sans interruption du service, des fréquences de radiodiffusion sonore ou de télévision permettant une réception de qualité équivalente.
+Si les contraintes techniques l'exigent, le Conseil supérieur de l'audiovisuel peut cependant leur retirer tout ou partie de cette ressource à la condition de leur assigner, sans interruption du service, l'usage de la ressource radioélectrique attribuée à des usages de radiodiffusion permettant une réception de qualité équivalente.
 
-Il peut également leur retirer celles des fréquences de radiodiffusion sonore ou de télévision qui ne sont plus nécessaires à l'accomplissement des missions définies par leurs cahiers des charges.
+Il peut également leur retirer l'usage de la ressource radioélectrique qui n'est plus nécessaire à l'accomplissement des missions définies à l'article 43-11 et par leurs cahiers des missions et des charges.
 
-Le Conseil supérieur de l'audiovisuel et l'Autorité de régulation des télécommunications attribuent, respectivement pour les fréquences de radiodiffusion et les fréquences de transmission, en priorité à la société mentionnée à l'article 51, l'usage des fréquences supplémentaires qui apparaîtront nécessaires à l'accomplissement par les sociétés nationales de programmes de leurs missions de service public.
+II. - Le Conseil supérieur de l'audiovisuel et l'Autorité de régulation des télécommunications, respectivement pour les ressources radioélectriques de radiodiffusion et de transmission, accordent en priorité aux sociétés mentionnées à l'article 44 le droit d'usage de la ressource radioélectrique nécessaire à l'accomplissement de leurs missions de service public.
 
-Dans les mêmes conditions, le Conseil supérieur de l'audiovisuel attribue en priorité à la société mentionnée à l'article 51 l'usage des fréquences de radiodiffusion sonore ou de télévision nécessaires à la société mentionnée à l'article 45 pour l'accomplissement de ses missions de service public.
+Dans les mêmes conditions, le Conseil supérieur de l'audiovisuel accorde en priorité à la chaîne culturelle européenne issue du traité signé le 2 octobre 1990 le droit d'usage de la ressource radioélectrique nécessaire à l'accomplissement des missions qui lui sont confiées par ce traité.
 
-Dans les mêmes conditions, le Conseil supérieur de l'audiovisuel attribue en priorité à la société mentionnée à l'article 51 l'usage des fréquences nécessaires à la chaîne culturelle européenne issue du traité signé le 2 octobre 1990 pour l'accomplissement des missions qui lui sont assignées par ce traité.
+Dans les mêmes conditions, le Conseil supérieur de l'audiovisuel accorde en priorité à la chaîne visée à l'article 45-2 le droit d'usage de la ressource radioélectrique nécessaire à la diffusion de ses programmes en mode numérique.
 
-Le Gouvernement présente au Parlement un rapport triennal sur l'exécution de ses missions par la chaîne culturelle européenne.
+Le Conseil supérieur de l'audiovisuel veille à regrouper sur une ou plusieurs fréquences les services des sociétés diffusés en mode numérique qui bénéficient des dispositions des trois alinéas précédents.
 
-A compter du 1er janvier 1997, l'Autorité de régulation des télécommunications attribue les fréquences de transmission sonore ou de télévision dans les conditions prévues à l'article L. 36-7 du code des postes et télécommunications. Lorsqu'elle attribue, réaménage ou retire certaines de ces fréquences, elle prend en compte les exigences liées aux missions de service public des sociétés nationales de programme.
+L'Autorité de régulation des télécommunications assigne la ressource radioélectrique nécessaire à la transmission des programmes de radiodiffusion sonore et de télévision dans les conditions prévues à l'article L. 36-7 du code des postes et télécommunications. Lorsqu'elle assigne, réaménage ou retire cette ressource, elle prend en compte les exigences liées aux missions de service public des sociétés prévues à l'article 44 et aux missions confiées à la chaîne culturelle européenne par le traité du 2 octobre 1990.
+
+Le Gouvernement présente au Parlement un rapport triennal sur l'exécution des ses missions par la chaîne culturelle européenne.

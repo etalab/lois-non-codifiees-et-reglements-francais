@@ -1,0 +1,3 @@
+# Article 20-3
+
+Les services de télévision qui diffusent des événements d'importance jugée majeure par la liste dont il est fait état à l'article 20-2 sont tenus de diffuser avant, pendant et après les retransmissions concernées des programmes courts mettant en exergue les dispositions législatives relatives à la lutte contre le dopage et pour la préservation de la santé des sportifs. Ces dispositions s'effectuent à titre non onéreux. Un décret, signé conjointement par les ministres de la communication, de la jeunesse et des sports et de la santé, fixera les modalités d'application du présent article.
