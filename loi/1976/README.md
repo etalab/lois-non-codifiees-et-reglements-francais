@@ -1,6 +1,7 @@
 # 1976
 
 - [Loi n° 75-1000 du 30 octobre 1975](loi-n-75-1000-du-30-octobre-1975)
+- [Loi n° 75-1279 du 30 décembre 1975](loi-n-75-1279-du-30-decembre-1975)
 - [Loi n° 75-1334 du 31 décembre 1975](loi-n-75-1334-du-31-decembre-1975)
 - [Loi n° 75-1347 du 31 décembre 1975](loi-n-75-1347-du-31-decembre-1975)
 - [Loi n° 75-1348 du 31 décembre 1975](loi-n-75-1348-du-31-decembre-1975)
@@ -15,5 +16,6 @@
 - [Loi n° 76-516 du 14 juin 1976](loi-n-76-516-du-14-juin-1976)
 - [Loi n° 76-519 du 15 juin 1976](loi-n-76-519-du-15-juin-1976)
 - [Loi n° 76-539 du 22 juin 1976](loi-n-76-539-du-22-juin-1976)
+- [Loi n° 76-657 du 16 juillet 1976](loi-n-76-657-du-16-juillet-1976)
 - [Loi n°75-1335 du 31 décembre 1975](loi-n75-1335-du-31-decembre-1975)
 - [Loi n°76-97 du 31 janvier 1976](loi-n76-97-du-31-janvier-1976)

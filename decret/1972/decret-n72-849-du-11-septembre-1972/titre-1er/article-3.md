@@ -4,7 +4,7 @@ L'emploi d'adjoint des cadres hospitaliers comprend quatre options : Rédaction,
 
 Dans chaque établissement, les emplois d'adjoint des cadres hospitaliers sont répartis en deux classes :
 
-A - Une classe supérieure comprenant cinq échelons : l'effectif des agents classés dans la classe supérieure est fixé par l'assemblée gestionnaire de chaque établissement dans la limite de 15 p. 100 de l'effectif total des adjoints des cadres hospitaliers. Quand cet effectif est inférieur à sept, un agent peut cependant être promu à la classe supérieure.
+A - Une classe supérieure comprenant cinq échelons : l'effectif des agents classés dans la classe supérieure est fixé par l'assemblée gestionnaire de chaque établissement dans la limite de 25 p. 100 de l'effectif total des adjoints des cadres hospitaliers ou à un agent au moins. Quand cet effectif est inférieur à sept, un agent peut cependant être promu à la classe supérieure.
 
 Peuvent être promus à la classe supérieure les adjoints des cadres hospitaliers appartenant au 9e échelon ou à un échelon supérieur de la classe normale. Les agents sont nommés dans les conditions prévues à l'article 15 (2e, 3e et 4e alinéa), ci-après.
 
