@@ -17,6 +17,7 @@
 - [Arrêté du 15 juillet 1963](arrete-du-15-juillet-1963)
 - [Arrêté du 17 septembre 1963](arrete-du-17-septembre-1963)
 - [Arrêté du 25 septembre 1963](arrete-du-25-septembre-1963)
+- [Arrêté du 25 mai 1963](arrete-du-25-mai-1963)
 - [Arrêté du 27 juillet 1961](arrete-du-27-juillet-1961)
 - [Arrêté du 27 juillet 1963](arrete-du-27-juillet-1963)
 - [Arrêté du 28 février 1963](arrete-du-28-fevrier-1963)

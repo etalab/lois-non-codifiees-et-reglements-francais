@@ -1,0 +1,3 @@
+# Article 1
+
+Les rentes constituées dans les conditions prévues à l'article 99 ter du Code de la mutualité, au profit des membres participants des sociétés ou unions de sociétés mutualistes, anciens militaires et anciens membres des forces supplétives françaises ayant pris part aux opérations d'Afrique du Nord et titulaires de la carte du combattant attribuée dans les conditions fixées par la loi n° 74-1044 du 9 décembre 1974 ou au profit des veuves, orphelins et ascendants des militaires décédés du fait de leur participation à ces opérations, donnent lieu à une majoration de l'Etat dans les conditions fixées aux articles suivants.
