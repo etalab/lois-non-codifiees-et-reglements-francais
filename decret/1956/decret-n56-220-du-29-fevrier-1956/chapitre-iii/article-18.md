@@ -1,9 +1,9 @@
 # Article 18
 
-Les fonds détenus par la caisse centrale de garantie sont employés à l'octroi de prêts aux aspirants aux fonctions de notaire dans les limites fixées à l'article 16 du décret du 20 mai 1955.
+Les charges de la caisse centrale sont :
 
-Chaque année au cours de sa première réunion la caisse centrale de garantie fixe le montant maximum des sommes qui pourront être affectées à ces prêts au cours de ladite année, les délais de remboursement et le taux de l'intérêt qui ne peut excéder le taux légal de l'intérêt en matière civile diminué d'un point.
+1° Les frais d'administration et de gestion ;
 
-Ces prêts ne peuvent être accordés qu'après avis de la chambre, et sur la proposition du conseil régional dont cette chambre dépend et dans le ressort duquel le bénéficiaire de chacun des prêts sera appelé à exercer ses fonctions. Les chambres et éventuellement les conseils régionaux dans le ressort desquels il a accompli son stage seront appelés à donner leur avis.
+2° Les prélèvements ordonnés par le conseil d'administration pour effectuer, en exécution de l'article 11 (alinéa 3) du décret du 20 mai 1955, les avances nécessaires aux caisses régionales pour l'exécution de leurs obligations ;
 
-Une commission technique composée de cinq notaires et de cinq clers remplissant les conditions requises pour être notaires désignés par le conseil supérieur du notariat siégeant en comité mixte, et présidée par un magistrat nommé par le garde des sceaux, ministre de la justice, fixe le montant de chaque prêt, ses modalités de remboursement et désigne son bénéficiaire.
+3° Les prélèvements nécessaires pour effectuer, en exécution de l'article 16, les remboursements auxquels ont droit les notaires qui cessent leurs fonctions.

@@ -8,6 +8,6 @@ Lorsque, au cours d'une même année civile, il est nécessaire de procéder à 
 
 La part incombant à chaque notaire est proportionnelle au montant de sa cotisation, telle qu'elle est définie ci-après.
 
-Pour les appels de fonds ci-dessus prévus, les cotisations à prendre en considération sont calculées au taux de 1,25 p. 100 de la moyenne des émoluments fixes et proprotionnels des cinq années antérieures à celle précédant l'appel de fonds.
+Pour les appels de fonds ci-dessus prévus, les cotisations à prendre en considération sont calculées au taux fixé par le dernier arrêté du garde des sceaux, ministre de la justice, pris en application de l'article 7 représentant un pourcentage de la moyenne des produits bruts des deux années antérieures à celle précédant l'appel de fonds.
 
 L'état des sommes à recouvrer sur chaque notaire est dressé par le président de la caisse centrale et notifié à chacun d'eux. Le recouvrement en est opéré, si besoin est, par rôles rendus exécutoires par le premier président de la cour d'appel de Paris, sur l'avis du procureur général près ladite cour ; le montant des sommes à recouvrer est alors augmenté des frais de recouvrement et d'une pénalité de 1 p. 100 par mois de retard à compter de la date à laquelle le rôle a été rendu exécutoire sans préjudice, le cas échéant, des sanctions disciplinaires.

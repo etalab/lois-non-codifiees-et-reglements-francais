@@ -1,5 +1,7 @@
 # Article 14
 
-L'un des membres du conseil d'administration de la caisse centrale de garantie doit être obligatoirement choisi parmi les notaires du département de la Seine.
+La caisse centrale est administrée par un conseil composé de neuf membres désignés par le conseil supérieur du notariat pour six ans et renouvelables par tiers tous les deux ans.
 
-L'ordre de renouvellement des membres du conseil est déterminé par tirage au sort. Le conseil élit parmi ses membres un président, un vice-président et un secrétaire-trésorier.
+L'un des membres du conseil d'administration doit être choisi parmi les notaires du ressort de la chambre interdépartementale des notaires de Paris.
+
+L'ordre de renouvellement de ses membres est déterminé par tirage au sort. Le conseil élit parmi ses membres un président, un vice-président et un secrétaire-trésorier.

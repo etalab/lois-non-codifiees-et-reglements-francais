@@ -1,13 +1,13 @@
 # Article 16
 
-Le versement que chaque notaire doit effectuer à la caisse centrale en exécution de l'article 15 du décret du 20 mai 1955 sera fait au moment de sa prestation de serment. Il doit en être justifié par la présentation d'un reçu délivré par la caisse centrale de garantie.
+Le taux de la cotisation prévue au premier alinéa de l'article 15 du décret du 20 mai 1955 est égal à 1 % de la moyenne des produits bruts de l'office au cours des deux années antérieures à celle précédant l'échéance de la cotisation.
 
-Il est fixé à 1 p. 100 du produit de l'office calculé dans les conditions indiquées au premier alinéa de l'article 8 ci-dessus.
-
-Pour les études du département de la Seine et de Paris, ce versement est égal à 2 p. 100 du produit calculé suivant les règles spéciales prévues au deuxième alinéa dudit article 8.
+Chaque société titulaire d'un office notarial est soumise à la même obligation.
 
 La somme ainsi versée n'est pas productive d'intérêts.
 
-Elle est remboursée au notaire deux ans après la cessation de ses fonctions, sous réserve de sa quote-part dans les frais d'administration de la caisse centrale tels qu'ils sont répartis entre tons les notaires et, d'autre part, des créances éventuelles de la caisse régionale à laquelle est adhérent l'intéressé.
+Elle est remboursée au notaire exerçant à titre individuel ou en société de notaires dans les six mois qui suivent la cessation de ses fonctions, sous réserve des créances éventuelles de la caisse régionale dont relève l'intéressé.
 
-Les intérêts à 3 p. 100 courent au profit du notaire six mois après la cessation de ses fonctions. Le règlement en est effectué en même temps que celui du capital.
+Elle est remboursée à la société titulaire d'un office notarial dans les six mois qui suivent sa dissolution et sous la réserve prévue à l'alinéa précédent.
+
+En cas de nomination d'un nouvel associé, la société est tenue de payer à la caisse centrale une somme représentant une part virile de la cotisation qu'elle serait tenue de verser si la société s'était constituée au moment de la nomination du nouvel associé. Toutefois, lorsque l'associé nouveau remplace un associé décédé ou un associé qui se retire, cette somme est calculée sous déduction de la part virile correspondant à la présence de ce dernier dans la société et versée lors de son entrée dans celle-ci.
