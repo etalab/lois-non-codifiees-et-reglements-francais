@@ -1,17 +1,21 @@
 # Article 2
 
-La mission à la réglementation générale relève directement de l'autorité du ministre. Elle exerce ses compétences en relation avec la direction générale de la poste, la direction générale des télécommunications, la direction des affaires communes et T.D.F..
+La direction de la réglementation générale relève directement de l'autorité du ministre.
 
-Elle veille à ce que la réglementation générale de la poste et des télécommunications soit adaptée à l'évolution des données nationales et internationales.
+Elle contribue à définir et à adapter, conformément aux orientations de la politique gouvernementale, le cadre juridique général dans lequel s'exercent les activités relevant des secteurs des postes et des télécommunications.
 
-Elle est chargée de la conception des projets nécessaires à cette fin et assure le suivi de leur réalisation.
+A ce titre :
 
-A ce titre, la mission à la réglementation générale :
+-elle veille au respect de la réglementation en vigueur ;
 
-- conduit de façon continue les études et analyses nécessaires de l'environnement juridique, économique et technologique des postes et télécommunications, notamment au regard du contexte international ;
+-elle analyse et étudie de façon prospective l'évolution, aux plans national et international, de l'environnement social, économique, technique et juridique des activités des secteurs des postes et des télécommunications ;
 
-- coordonne l'élaboration des textes législatifs et réglementaires relatifs aux principes généraux de la réglementation des postes et télécommunications et veille à leur application.
+-elle prépare dans ce contexte les projets de loi et de règlement et élabore toutes directives ministérielles ayant trait au régime général des activités des différents acteurs économiques intervenant dans les secteurs des postes et télécommunications ;
 
-- participe à la représentation du ministère dans les instances nationales et internationales ayant compétence en matière de réglementation générale.
+-elle instruit les demandes d'autorisation présentées en application des dispositions de l'article L. 33 du code des postes et des télécommunications, établit les cahiers des charges correspondants et veille à ce que les obligations contractées par les titulaires d'autorisation soient respectées ;
 
-Dans son domaine de responsabilité, elle conduit une réflexion sur la complémentarité entre la poste, les télécommunications et la télédiffusion et propose, en matière de réglementation générale, les orientations devant servir de base à l'élaboration des chartes de gestion.
+-en liaison avec le comité de coordination des télécommunications, elle prépare la répartition des fréquences radioélectriques qui sont attribuées au ministre chargé des télécommunications, en application de l'article 21 de la loi du 30 septembre 1986 modifiée et du décret du 19 août 1987 susvisés, pour le compte des utilisateurs qu'il autorise, à l'exclusion des bandes de fréquences attribuées à la direction générale des télécommunications pour l'exploitation du réseau général de l'Etat ;
+
+-elle met en forme et publie les spécifications et procédures d'agrément régissant les équipements terminaux raccordés ou susceptibles d'être raccordés directement ou indirectement aux réseaux de télécommunications ouverts aux tiers et délivre les agréments d'installations terminales ;
+
+-elle s'informe des travaux des organisations nationales ou internationales appelées à connaître des questions concernant les postes et les télécommunications, coordonne la représentation du ministère en matière de réglementation générale et participe, en tant que de besoin, aux réunions des comités, commissions ou groupes chargés de l'étude des problèmes de technique d'exploitation ou de normalisation.
