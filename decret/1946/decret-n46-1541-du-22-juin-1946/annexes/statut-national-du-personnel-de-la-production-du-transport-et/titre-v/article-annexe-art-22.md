@@ -1,6 +1,6 @@
 # Article Annexe, art. 22
 
-Prestations, Salaires ou traitements.
+Prestations, salaires ou traitements.
 
 Paragraphe 1.
 
@@ -38,7 +38,7 @@ L'agent statutaire victime d'un accident de travail ou atteint d'une maladie pro
 
 Paragraphe 3.
 
-Les congés de maternité à salaire intégral sont de huit semaines avant la date présumée de l'accouchement et de dix semaines après celui-ci, l'intéressée ayant de toute façon droit, du fait de son accouchement, à un congé total à salaire intégral de dix-huit semaines.
+Les congés de maternité à salaire intégral sont de huit semaines avant la date présumée de l'accouchement et de dix semaines après celui-ci, l'intéressée ayant de toute façon droit, du fait de son accouchement, à un congé total à salaire intégral de dix-huit semaines. Le congé de paternité prévu par le code du travail est pris à salaire intégral dans les conditions d'attribution prévues par ledit code.
 
 Paragraphe 4.
 
