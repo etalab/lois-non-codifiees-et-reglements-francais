@@ -10,23 +10,23 @@ Diamètre (en millimètres) : 23.
 
 Composition :
 
-- coeur : nickel pur.
+- coeur : nickel, teneur minimale 98,5 %.
 
-- couronne (en %) : cuivre 92, aluminium 6, nickel 2.
+- couronne (et tolérance) : cuivre 92 % (plus ou moins 1 %), aluminium 6 % (plus ou moins 0,5 %), nickel 2 % (plus ou moins 0,5 %).
 
-- poids :
+Poids :
 
-Poids droit : 6,5 grammes.
+- poids droit : 6,5 grammes.
 
 - coeur : 3,4 grammes.
 
 - couronne : 3,1 grammes.
 
-- tolérance (en millièmes) : plus ou moins 50.
+- tolérance (en millièmes) : plus ou moins 40.
 
 Tranche cannelée en alternance, soit cinq plages lisses et cinq plages cannelées.
 
-Pièces en or de qualité Belle épreuve.
+Désignation : pièces en or de qualité Belle épreuve.
 
 Diamètre (en millimètres) : 22,80.
 
