@@ -1,0 +1,3 @@
+# Article 1
+
+Les producteurs expéditeurs, les groupements procédant à l'expédition pour le compte de leurs adhérents, les négociants en gros exploitant des magasins de stockage, des ateliers de traitement ou de conditionnement, qui commercialisent des noix produites sous l'appellation "Noix de Grenoble", telle qu'elle est définie dans le décret du 17 juin 1938, doivent, pour obtenir les vignettes de contrôle prévues à l'article 1er du décret susvisé du 29 mai 1968, solliciter leur inscription sur un registre tenu à cet effet par le comité interprofessionnel de la noix de Grenoble. Cette inscription est de droit pour tous les professionnels en situation régulière.
