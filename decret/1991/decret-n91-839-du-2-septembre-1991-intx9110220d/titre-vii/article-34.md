@@ -2,7 +2,7 @@
 
 Sont intégrés en qualité de titulaires dans le grade de conservateur de 2e classe lorsqu'ils se trouvent en position d'activité à la date de publication du présent décret, les fonctionnaires territoriaux suivants :
 
-1° Les fonctionnaires des communes et des établissements publics communaux ou intercommunaux soit titulaires d'un emploi de conservateur de 1re catégorie des musées contrôlés ou d'archiviste de 1re catégorie qui, à la date de publication du présent décret, n'ont pas dépassé l'indice brut 593, soit titulaires d'un emploi de conservateur de 2e catégorie des musées contrôlés recrutés conformément aux procédures instituées par le décret n° 45-2075 du 31 août 1945 susvisé ;
+1° Les fonctionnaires des communes et des établissements publics communaux ou intercommunaux soit titulaires d'un emploi de conservateur de 1re catégorie des musées contrôlés ou d'archivistes de 1re catégorie qui, à la date de publication du présent décret, n'ont pas dépassé l'indice brut 593, soit titulaires d'un emploi de conservateur de 2e catégorie des musées contrôlés recrutés conformément aux procédures instituées par les décrets n° 45-2075 du 31 août 1945 susvisé et n° 48-734 du 27 avril 1948 relatif à l'organisation du service national de muséologie des sciences naturelles. "
 
 2° Les archivistes de 2e catégorie dirigeant le service d'archives d'une commune de plus de 50 000 habitants ou d'un établissement public communal ou intercommunal dont les compétences, l'importance du budget et la qualification des agents à encadrer permettent de l'assimiler à une commune de plus de 50 000 habitants ;
 
