@@ -174,7 +174,6 @@
 - [Décret n°95-1173 du 6 novembre 1995 (SANP9502593D)](decret-n95-1173-du-6-novembre-1995-sanp9502593d)
 - [Décret n°95-1174 du 6 novembre 1995 (ECOK9500033D)](decret-n95-1174-du-6-novembre-1995-ecok9500033d)
 - [Décret n°95-1176 du 6 novembre 1995 (REFB9500332D)](decret-n95-1176-du-6-novembre-1995-refb9500332d)
-- [Décret n°95-1177 du 6 novembre 1995 (PRMG9570430D)](decret-n95-1177-du-6-novembre-1995-prmg9570430d)
 - [Décret n°95-1178 du 6 novembre 1995 (MAEA9520385D)](decret-n95-1178-du-6-novembre-1995-maea9520385d)
 - [Décret n°95-1179 du 6 novembre 1995 (MAEA9520255D)](decret-n95-1179-du-6-novembre-1995-maea9520255d)
 - [Décret n°95-1180 du 6 novembre 1995 (MAEA9520256D)](decret-n95-1180-du-6-novembre-1995-maea9520256d)
