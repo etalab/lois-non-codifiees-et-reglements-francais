@@ -1,5 +1,11 @@
 # Article 3
 
-Au vu des observations produites, la commission peut décider qu'il n'y a pas lieu de poursuivre la procédure. Elle en informe la personne intéressée.
+Dès que la décision mentionnée au premier alinéa de l'article 2 est prise, le président de la commission désigne un rapporteur au sein de celle-ci.
 
-Dans le cas contraire, le président désigne pour chaque affaire un rapporteur parmi les membres de la commission. Le rapporteur, avec le concours des services administratifs de la commission, procède à toutes diligences utiles.
+Le rapporteur procède, avec le concours des services de la commission, à toutes diligences utiles.
+
+La personne mise en cause est entendue à sa demande ou si le rapporteur l'estime nécessaire.
+
+Le rapporteur peut également entendre toute personne dont la personne mise en cause estime l'audition utile.
+
+Le rapporteur consigne par écrit le résultat de ces opérations.
