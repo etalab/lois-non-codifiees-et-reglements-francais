@@ -16,7 +16,9 @@ Le directeur de l'Ecole nationale de la santé publique ou son représentant ;
 
 Le directeur de l'Institut Pasteur ou son représentant ;
 
-Le président du Haut Comité du thermalisme et du climatisme ou son représentant.
+Le président du Conseil national de l'alimentation ou son représentant ;
+
+Le directeur du Centre national d'expertise et de recommandation sur la nutrition et l'alimentation.
 
 b) Les représentants des ministres désignés ci-après :
 

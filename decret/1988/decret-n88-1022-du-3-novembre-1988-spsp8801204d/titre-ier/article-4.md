@@ -2,20 +2,18 @@
 
 Sont nommés pour quatre ans [*durée*] par arrêté du ministre chargé de la santé [*autorité compétente*]:
 
-a) Quatre [*nombre*] membres titulaires et quatre membres suppléants choisis sur des listes comprenant chacune au moins quatre noms et présentées respectivement par :
+a) Quatre membres [*nombre*] titulaires et quatre membres suppléants choisis sur des listes comprenant chacune au moins six noms et présentées respectivement par :
 
-L'Académie nationale de médecine ;
+- l'Académie nationale de médecine ;
 
-L'Académie de pharmacie ;
+- l'Académie nationale de pharmacie.
 
-Le Conseil national de l'ordre des médecins ;
+b) Deux membres titulaires et deux membres suppléants choisis sur des listes comprenant chacune au moins quatre noms et présentées respectivement par :
 
-Le Conseil national de l'ordre des pharmaciens.
+- le Conseil national de l'ordre des médecins ;
 
-b) Un directeur d'école nationale vétérinaire désigné sur proposition du ministre de l'agriculture ;
+- le Conseil national de l'ordre des pharmaciens.
 
-Quatre membres désignés parmi les médecins inspecteurs et pharmaciens inspecteurs régionaux de la santé ;
+c) Un directeur d'école nationale vétérinaire désigné sur proposition du ministre de l'agriculture ; quatre membres désignés parmi les médecins inspecteurs de la santé et parmi les pharmaciens inspecteurs régionaux de la santé ; quatre membres désignés parmi les ingénieurs sanitaires.
 
-Deux membres désignés parmi les ingénieurs sanitaires.
-
-c) Soixante-quinze membres désignés en raison de leur compétence dans l'une ou plusieurs des matières relevant des attributions du Conseil supérieur d'hygiène publique de France.
+d) Soixante-six membres désignés en raison de leur compétence dans l'une ou plusieurs des matières relevant des attributions du Conseil supérieur d'hygiène publique de France.

@@ -12,4 +12,4 @@ Outre les docteurs en médecine satisfaisant aux dispositions de l'article 1er c
 
 5° Soit titulaires de l'attestation d'études relatives aux applications à la biologie médicale des radio-éléments artificiels créée par arrêté du 13 juillet 1973 ;
 
-6° Soit titulaires de l'attestation d'études relatives aux applications à la pharmacie des radio-éléments artificiels créée par l'arrêté du 13 juillet 1973.
+6° Soit titulaires de l'attestation d'études relatives aux applications à la pharmacie des radio-éléments artificiels créée par l'arrêté du 13 juillet 1973.    7° Soit titulaires du diplôme d'études spécialisées complémentaires de radiopharmacie et radiobiologie créé par l'arrêté du 29 avril 1988 susvisé.

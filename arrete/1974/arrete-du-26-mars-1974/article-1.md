@@ -12,4 +12,6 @@ Peuvent seuls être autorisés par le ministre de la santé publique et de la s�
 
 5° Soit inscrits sur la liste établie à l'issue des épreuves de la session unique de l'examen oral prévu à l'article 3 de l'arrêté du 10 novembre 1967 ;
 
-6° Soit titulaires du certificat d'études spéciales relatives aux applications à la médecine des radio-éléments artificiels créé par arrêté du 13 juillet 1973.
+6° Soit titulaires du certificat d'études spéciales relatives aux applications à la médecine des radio-éléments artificiels créé par arrêté du 13 juillet 1973.    7° Soit titulaires du diplôme d'études spécialisées complémentaires de médecine nucléaire créé par l'arrêté du 26 juillet 1983 susvisé ;
+
+8° Soit titulaires du diplôme d'études spécialisées de médecine nucléaire créé par l'arrêté du 23 mai 1990 modifié fixant la liste des diplômes d'études spécialisées de médecine.
