@@ -1,0 +1,3 @@
+# Article 7
+
+Les arrêtés du 5 janvier 1993 (Cambodge et Guinée-Bissau), du 9 août 1995 (Géorgie), du 18 mars 1996 (Angola), du 19 septembre 1996 (Mozambique), du 8 mars 1997 (Biélorussie), du 26 octobre 1998 (Turkménistan), du 4 février 1999 (Ouzbékistan), du 14 février 2000 (Yougoslavie), du 15 juin 2000 (Equateur), du 14 novembre 2000 (République démocratique du Congo), du 18 janvier 2001 (Libye), du 13 mars 2001 (Salvador) et du 6 novembre 2001 (Bosnie-Herzégovine) autorisant la perception, de tout ou partie, des droits figurant au tarif des droits à percevoir dans les chancelleries diplomatiques et consulaires, en monnaie tierce, parallèlement ou non, au paiement en monnaie locale, sont abrogés.
