@@ -6,10 +6,8 @@ En cas d'augmentation de capital, les porteurs d'actions et, s'il en existe, les
 
 En cas de fractionnement, l'offre de création des certificats d'investissement est faite en même temps et dans une proportion égale à leur part du capital à tous les porteurs d'actions. A l'issue d'un délai fixé par l'assemblée générale extraordinaire, le solde des possibilités de création non attribuées est réparti entre les porteurs d'actions qui ont demandé à bénéficier de cette répartition supplémentaire dans une proportion égale à leur part du capital et, en tout état de cause, dans la limite de leurs demandes. Après cette répartition, le solde éventuel est réparti par le conseil d'administration ou le directoire, selon le cas.
 
-Le certificat de droit de vote doit revêtir la forme nominative.
+Le certificat de droit de vote doit revêtir la forme nominative.    Le certificat d'investissement est négociable. Sa valeur nominale est égale à celle des actions. Lorsque les actions sont divisées, les certificats d'investissement le sont également.
 
-Le certificat d'investissement est négociable. Sa valeur nominale est égale à celle des actions. Lorsque les actions sont divisées, les certificats d'investissement le sont également.
-
-Le certificat de droit de vote est inaliénable sauf en cas de succession, de donation-partage ou de liquidation de communauté de biens entre époux. Il ne peut être cédé qu'accompagné d'un certificat d'investissement ; en ce cas, l'action est définitivement reconstituée.
+Le certificat de droit de vote ne peut étre cédé qu'accompagné d'un certificat d'investissement ; la cession ainsi réalisée entraîne reconstitution de l'action.
 
 Il ne peut être attribué de certificat représentant moins d'un droit de vote. L'assemblée générale fixe les modalités d'attribution des certificats pour les droits formant rompus.

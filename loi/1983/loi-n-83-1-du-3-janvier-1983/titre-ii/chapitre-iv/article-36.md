@@ -1,8 +1,8 @@
 # Article 36
 
-Sont soumises aux dispositions des articles 37 à 40 de la présente loi :
+Sont soumises aux dispositions des articles 37 à 40 de la présente loi *champ d'application* :
 
-1. Toute personne qui, directement ou indirectement, par voie d'appel public ou de démarchage, propose à titre habituel à des tiers de souscrire des rentes viagères ou d'acquérir des droits sur des biens mobiliers ou immobiliers dont ils n'assurent pas eux-mêmes la gestion ;
+1. Toute personne qui, directement ou indirectement, par voie d'appel public ou de démarchage, propose à titre habituel à des tiers de souscrire des rentes viagères ou d'acquérir des droits sur des biens mobiliers ou immobiliers lorsque les acquéreurs  n'en assurent pas eux-mêmes la gestion ou lorsque le contrat offre une faculté de reprise ou d' échange et la revalorisation du capital investi;
 
 2. Toute personne qui recueille des fonds à cette fin ;
 

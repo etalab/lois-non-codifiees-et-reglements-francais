@@ -2,7 +2,7 @@
 
 L'émission et le remboursement de titres participatifs doivent être autorisés dans les conditions prévues par les articles 157, cinquième alinéa, et 286 à 290.
 
-Les porteurs de titres participatifs d'une même émission sont groupés de plein droit pour la défense de leurs intérêts communs en une masse qui jouit de la personnalité civile. Ils sont soumis aux dispositions des articles 294 à 317, 319, 320, 321-1 et 324 à 338.
+Les porteurs de titres participatifs d'une même émission sont groupés de plein droit pour la défense de leurs intérêts communs en une masse qui jouit de la personnalité civile. Ils sont soumis aux dispositions des articles 294 à 320, 321-1 et 324 à 339.
 
 En outre, la masse est réunie au moins une fois par an pour entendre le rapport des dirigeants sociaux sur la situation et l'activité de la société au cours de l'exercice écoulé et le rapport des commissaires aux comptes sur les comptes de l'exercice et sur les éléments servant à la détermination de la rémunération des titres participatifs.
 

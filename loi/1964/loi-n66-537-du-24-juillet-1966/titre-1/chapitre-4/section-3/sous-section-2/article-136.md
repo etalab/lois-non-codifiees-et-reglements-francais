@@ -10,7 +10,7 @@ Les dispositions de l'alinéa 1er ci-dessus ne sont pas applicables aux représe
 
 - des sociétés d'études ou de recherches tant qu'elles ne sont pas parvenues au stade de l'exploitation ;
 
-- des sociétés dont le capital est détenu à concurrence de 20 % au moins par une autre société dont ils sont déjà administrateurs ou membres du conseil de surveillance, dans la mesure où le nombre des mandats détenus par les intéressés au titre des présentes dispositions n'excède pas cinq ;
+- des sociétés dont le capital est détenu à concurrence de 20 % au moins par une autre société dont ils sont déjà administrateurs ou membres du directoire ou du  conseil de surveillance, dans la mesure où le nombre des mandats détenus par les intéressés au titre des présentes dispositions n'excède pas cinq ;
 
 - des sociétés de développement régional ;
 

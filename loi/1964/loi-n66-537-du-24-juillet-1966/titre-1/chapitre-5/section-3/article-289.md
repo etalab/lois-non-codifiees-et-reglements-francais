@@ -1,3 +1,3 @@
 # Article 289
 
-S'il est fait publiquement appel à l'épargne, les conditions de l'émission sont portées à la connaissance des souscripteurs par une notice dont les mentions et les formalités de publicité sont déterminées par décret.
+S'il est fait publiquement appel à l'épargne, la société accomplit, avant l'ouverture de la souscription, des formalités de publicité sur les conditions d'émission selon des modalités fixées par décret.

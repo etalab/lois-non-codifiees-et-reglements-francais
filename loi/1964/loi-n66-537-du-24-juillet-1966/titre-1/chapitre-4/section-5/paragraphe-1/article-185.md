@@ -1,3 +1,11 @@
 # Article 185
 
-Si les souscriptions, à quelque titre que ce soit, n'ont pas absorbé la totalité de l'augmentation de capital, le solde est réparti par le conseil d'administration ou le directoire [*pouvoirs*], selon le cas, si l'assemblée générale extraordinaire n'en a pas décidé autrement. Compte tenu de cette répartition, le conseil d'administration ou le directoire, selon le cas, peut, de plus, décider de limiter l'augmentation de capital au montant des souscriptions sous la double condition que celui-ci atteigne les trois quarts au moins de l'augmentation décidée et que cette faculté ait été prévue expressément lors de l'émission. A défaut, l'augmentation de capital n'est pas réalisée.
+Si les souscriptions à titre irréductible et, le cas échéant, à titre réductible n'ont pas absorbé la totalité de l'augmentation de capital :
+
+1° Le montant de l'augmentation de capital peut être limité au montant des souscriptions sous la double condition que celui-ci atteigne les trois quarts au moins de l'augmentation décidée et que cette faculté ait été prévue expressément par l'assemblée lors de l'émission ;
+
+2° Les actions non souscrites peuvent être librement réparties totalement ou partiellement, à moins que l'assemblée en ait décidé autrement ;
+
+3° Les actions non souscrites peuvent être offertes au public totalement ou partiellement, lorsque l'assemblée à expressément admis cette possibilité ;
+
+Le conseil d'administration ou le directoire peut utiliser dans l'ordre qu'il détermine les facultés prévues ci-dessus ou certaines d'entre elles seulement. L'augmentation de capital n'est pas réalisée lorsqu'après l'exercice de ces facultés le montant des souscriptions reçues n'atteint pas la totalité de l'augmentation de capital ou les trois quarts de cette augmentation dans le cas prévu au 1° ci-dessus.    Toutefois, le conseil d'administration ou le directoire peut, d'office et dans tous les cas, limiter l'augmentation de capital au montant atteint lorsque les actions non souscrites représentent moins de 3 p. 100 de l'augmentation de capital. Toute délibération contraire est réputée non écrite.
