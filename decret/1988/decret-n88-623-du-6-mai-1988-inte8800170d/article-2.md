@@ -4,7 +4,9 @@ Les services d'incendie et de secours comprennent des sapeurs-pompiers professio
 
 Les sapeurs-pompiers sont titulaires d'un grade qui, en ce qui concerne les officiers, est déterminé en fonction des effectifs du corps qu'ils encadrent ou du classement du service dont ils relèvent, selon des indications figurant à l'annexe jointe au présent décret.
 
-Les services d'incendie et de secours peuvent également comprendre des agents de la fonction publique territoriale qui, n'ayant pas la qualité de sapeur-pompier professionnel, sont chargés des tâches administratives ou techniques ne comportant pas d'activités opérationnelles.
+Les services d'incendie et de secours peuvent également comprendre des agents de la fonction publique territoriale qui, n'ayant pas la qualité de sapeur-pompier professionnel, sont chargés des tâches administratives ou techniques ne comportant pas d'activités opérationnelles. La liste des emplois occupés par ces agents et leurs attributions sont définies par le règlement intérieur prévu à l'article 26. "
+
+" Les agents des collectivités territoriales et de leurs établissements publics ne peuvent pas exercer les fonctions de sapeur-pompier volontaire pendant le temps de service propre à leur activité principale, sauf pour participer à des opérations de secours ou de lutte contre l'incendie ou à des stages de formation. "
 
 Les tenues, équipements, insignes et attributs des sapeurs-pompiers sont déterminés par un arrêté du ministre chargé de la sécurité civile.
 
