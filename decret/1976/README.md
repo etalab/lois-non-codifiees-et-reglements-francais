@@ -60,6 +60,7 @@
 - [Décret n°76-1011 du 19 octobre 1976](decret-n76-1011-du-19-octobre-1976)
 - [Décret n°76-233 du 19 février 1976](decret-n76-233-du-19-fevrier-1976)
 - [Décret n°76-801 du 19 août 1976](decret-n76-801-du-19-aout-1976)
+- [Décret n°76-802 du 19 août 1976](decret-n76-802-du-19-aout-1976)
 - [Décret n°76-356 du 20 avril 1976](decret-n76-356-du-20-avril-1976)
 - [Décret n°76-684 du 20 juillet 1976](decret-n76-684-du-20-juillet-1976)
 - [Décret n°76-811 du 20 août 1976](decret-n76-811-du-20-aout-1976)
