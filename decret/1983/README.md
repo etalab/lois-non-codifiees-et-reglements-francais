@@ -244,7 +244,6 @@
 - [Décret n°83-349 du 28 avril 1983](decret-n83-349-du-28-avril-1983)
 - [Décret n°83-530 du 28 juin 1983](decret-n83-530-du-28-juin-1983)
 - [Décret n°83-531 du 28 juin 1983](decret-n83-531-du-28-juin-1983)
-- [Décret n°83-62 du 28 janvier 1983](decret-n83-62-du-28-janvier-1983)
 - [Décret n°83-695 du 28 juillet 1983](decret-n83-695-du-28-juillet-1983)
 - [Décret n°83-704 du 28 juillet 1983](decret-n83-704-du-28-juillet-1983)
 - [Décret n°83-705 du 28 juillet 1983](decret-n83-705-du-28-juillet-1983)
