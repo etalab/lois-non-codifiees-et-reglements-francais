@@ -1,0 +1,3 @@
+# Article 11
+
+Sous réserve des dispositions de l'article 7 ci-dessus, l'importation et l'exportation des moyens de cryptologie visés à l'article 1er restent soumises aux procédures définies par le décret du 12 mars 1973, modifié par le décret du 18 février 1986 susvisé, le décret du 16 juillet 1955 susvisé portant réorganisation de la commission interministérielle pour l'étude des exportations des matériels de guerre, l'arrêté du 2 avril 1971 fixant la liste des matériels de guerre et matériels assimilés soumis à une procédure spéciale d'exportation, l'arrêté du 12 mars 1973 relatif à la procédure d'importation et d'exportation des matériels de guerre, armes et munitions et des matériels assimilés.
