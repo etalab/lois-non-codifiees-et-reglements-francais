@@ -809,6 +809,8 @@
 - [Décret n°99-747 du 30 août 1999 (MENS9901656D)](decret-n99-747-du-30-aout-1999-mens9901656d)
 - [Décret n°99-752 du 30 août 1999 (EQUT9900775D)](decret-n99-752-du-30-aout-1999-equt9900775d)
 - [Décret n°99-848 du 30 septembre 1999 (DEFP9901325D)](decret-n99-848-du-30-septembre-1999-defp9901325d)
+- [Décret n°99-976 du 30 novembre 1999 (MEST9911603D)](decret-n99-976-du-30-novembre-1999-mest9911603d)
+- [Décret n°99-977 du 30 novembre 1999 (MEST9911604D)](decret-n99-977-du-30-novembre-1999-mest9911604d)
 - [Décret n°2001-478 du 30 mai 2001 (ECOP0000226D)](decret-n2001-478-du-30-mai-2001-ecop0000226d)
 - [Décret n°98-1310 du 31 décembre 1998 (MESF9811319D)](decret-n98-1310-du-31-decembre-1998-mesf9811319d)
 - [Décret n°98-1312 du 31 décembre 1998 (ECOI9800899D)](decret-n98-1312-du-31-decembre-1998-ecoi9800899d)

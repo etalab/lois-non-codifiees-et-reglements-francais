@@ -1,0 +1,3 @@
+# Article 1
+
+Pour les établissements et les professions mentionnés à l'article L. 200-1 du code du travail ainsi que dans les établissements artisanaux, coopératifs et agricoles ou dans leurs dépendances, pendant la période comprise entre le 1er décembre 1999 et le 31 mars 2000, et en ce qui concerne le personnel dont la participation est requise pour faire face à un surcroît temporaire d'activité lié au passage à l'an 2000, les décisions prises sur la base du deuxième alinéa de l'article L. 212-1 et du troisième alinéa de l'article L. 220-1 du code du travail le sont, au titre de l'ensemble des établissements concernés par la demande, par l'inspecteur du travail du siège de l'entreprise.
