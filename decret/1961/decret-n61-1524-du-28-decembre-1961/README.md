@@ -1,4 +1,4 @@
-# Décret n°58-436 du 14 avril 1958 PORTANT REGLEMENT D'ADMINISTRATION PUBLIQUE CONCERNANT LA COORDINATION DE REGIMES D'ASSURANCE VIEILLESSE DES NON-SALARIES ET DES SALARIES.
+# Décret n°61-1524 du 28 décembre 1961 portant règlement d'administration publique relatif à la coordination entre le régime complémentaire d'assurance vieillesse des notaires et le régime d'assurance vieillesse des clercs et employés de notaires
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -12,6 +12,6 @@
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
-- [Article 12 BIS](article-12-bis.md)
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
+- [Article 15](article-15.md)
