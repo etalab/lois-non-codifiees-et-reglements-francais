@@ -6,43 +6,13 @@ Médecine générale.
 
 Conditions à remplir par le remplaçant ou l'adjoint et semestres requis :
 
-1. Etre inscrit en troisième cycle de médecine générale, et :
+1° Etre inscrit en troisième cycle de médecine générale et avoir effectué trois semestres de résidanat, dont un chez un praticien généraliste agréé.
 
-a) Avoir effectué deux semestres dans des services agréés comme formateurs pour le troisième cycle de médecine générale ;
+2° Par dérogation au 1°, et jusqu'au 1er novembre 1999, les étudiants inscrits en troisième cycle des études médicales peuvent être admis par le préfet, après avis favorable du conseil départemental de l'ordre, à remplacer en médecine générale dans les conditions suivantes :
 
-b) Avoir accompli quinze vacations chez un praticien agréé, maître de stage.
+a) Pour les étudiants inscrits en troisième cycle de médecine générale, avoir effectué deux semestres de résidanat ;
 
-2. Par dérogation au 1 et après avis favorable du conseil départemental de l'ordre, les étudiants inscrits en troisième cycle des études médicales préparant aux diplômes d'études spécialisées peuvent être admis par le préfet à remplacer en médecine générale s'ils ont accompli 3 semestres dont :
-
-a) 1 dans un service agréé comme formateur pour le troisième cycle de médecine générale ;
-
-b) 1 dans un service agréé pour les diplômes d'études spécialisées, à l'exception des diplômes d'études spécialisées suivants :
-
-anatomie et cytologie pathologiques ;
-
-médecine nucléaire ;
-
-radiodiagnostic et imagerie médicale ;
-
-santé publique et médecine sociale ;
-
-chirurgie infantile ;
-
-chirurgie maxillo-faciale et stomatologie ;
-
-chirurgie plastique reconstructrice et esthétique ;
-
-chirurgie thoracique et cardio-vasculaire ;
-
-chirurgie urologique ;
-
-ophtalmologie ;
-
-neurochirurgie ;
-
-biologie médicale ;
-
-c) 1 libre.
+b) Pour les étudiants inscrits en troisième cycle de spécialité, avoir effectué deux semestres d'internat dans un service agréé en médecine générale.
 
 Activité du médecin remplacé :
 
