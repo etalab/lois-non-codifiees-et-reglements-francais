@@ -17,6 +17,7 @@
 - [Décret n°59-1201 du 19 octobre 1959](decret-n59-1201-du-19-octobre-1959)
 - [Décret n°59-1209 du 19 octobre 1959](decret-n59-1209-du-19-octobre-1959)
 - [Décret n°59-1315 du 19 novembre 1959](decret-n59-1315-du-19-novembre-1959)
+- [Décret n°59-1337 du 20 novembre 1959](decret-n59-1337-du-20-novembre-1959)
 - [Décret n°59-1095 du 21 septembre 1959](decret-n59-1095-du-21-septembre-1959)
 - [Décret n°59-1096 du 21 septembre 1959](decret-n59-1096-du-21-septembre-1959)
 - [Décret n°59-1091 du 23 septembre 1959](decret-n59-1091-du-23-septembre-1959)
