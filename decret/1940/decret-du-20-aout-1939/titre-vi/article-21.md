@@ -16,7 +16,7 @@ Cette commission est composée ainsi qu'il suit :
 
 - deux représentants de l'office scientifique et technique des pêches maritimes ;
 
-- l'inspecteur départemental d'hygiène ou son représentant et un représentant du conseil départemental de l'environnement et des risques sanitaires et technologiques ;
+- l'inspecteur départemental d'hygiène ou son représentant et un représentant du conseil départemental d'hygiène ;
 
 - deux délégués des exploitants d'établissements ostréicoles et coquilliers du quartier d'inscription maritime.
 
