@@ -1,6 +1,6 @@
 # Article 9
 
-Déduction faite des éléments mentionnés à l'article 10, les établissements mentionnés à l'article 1er du présent décret peuvent opter en matière de soins :
+Déduction faite des éléments mentionnés à l'article 10 et sous réserve des conditions prévues à l'article L. 314-8 du code de l'action sociale et des familles, les établissements mentionnés à l'article 1er du présent décret peuvent opter en matière de soins :
 
 a) Soit pour un tarif journalier global, comprenant notamment les rémunérations versées aux médecins généralistes et aux auxiliaires médicaux libéraux exerçant dans l'établissement, ainsi que les examens de biologie et de radiologie et les médicaments dont les caractéristiques sont fixées par arrêté ;
 
