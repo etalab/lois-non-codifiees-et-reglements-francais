@@ -163,6 +163,8 @@
 - [Décret n°96-44 du 17 janvier 1996 (MENH9502682D)](decret-n96-44-du-17-janvier-1996-menh9502682d)
 - [Décret n°96-1131 du 18 décembre 1996 (MENF9602812D)](decret-n96-1131-du-18-decembre-1996-menf9602812d)
 - [Décret n°96-236 du 18 mars 1996 (DEFD9601157D)](decret-n96-236-du-18-mars-1996-defd9601157d)
+- [Décret n°96-334 du 18 avril 1996 (ECOX9600023D)](decret-n96-334-du-18-avril-1996-ecox9600023d)
+- [Décret n°96-335 du 18 avril 1996 (ENVX9500182D)](decret-n96-335-du-18-avril-1996-envx9500182d)
 - [Décret n°96-42 du 18 janvier 1996 (INTA9600009D)](decret-n96-42-du-18-janvier-1996-inta9600009d)
 - [Décret n°96-45 du 18 janvier 1996 (AGRP9501431D)](decret-n96-45-du-18-janvier-1996-agrp9501431d)
 - [Décret du 19 mars 1996 (FCEC9600013D)](decret-du-19-mars-1996-fcec9600013d)
