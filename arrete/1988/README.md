@@ -331,6 +331,7 @@
 - [Arrêté du 21 avril 1988 (PTTM8800383A)](arrete-du-21-avril-1988-pttm8800383a)
 - [Arrêté du 21 décembre 1987 (STFP8800011A)](arrete-du-21-decembre-1987-stfp8800011a)
 - [Arrêté du 21 janvier 1988 (MCCC8800040A)](arrete-du-21-janvier-1988-mccc8800040a)
+- [Arrêté du 21 juillet 1988 (MCCK8800444A)](arrete-du-21-juillet-1988-mcck8800444a)
 - [Arrêté du 21 juin 1988 (MERP8800034A)](arrete-du-21-juin-1988-merp8800034a)
 - [Arrêté du 21 juin 1988 (PTTT8800496A)](arrete-du-21-juin-1988-pttt8800496a)
 - [Arrêté du 21 juin 1988 (PTTT8800497A)](arrete-du-21-juin-1988-pttt8800497a)
