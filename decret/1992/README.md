@@ -755,7 +755,6 @@
 - [Décret n°92-824 du 21 août 1992 (INTA9200330D)](decret-n92-824-du-21-aout-1992-inta9200330d)
 - [Décret du 21 mai 1992 (ECOT9223088D)](decret-du-21-mai-1992-ecot9223088d)
 - [Décret n°92-449 du 21 mai 1992 (ECOX9210143D)](decret-n92-449-du-21-mai-1992-ecox9210143d)
-- [Décret n°92-450 du 21 mai 1992 (PTTS9200208D)](decret-n92-450-du-21-mai-1992-ptts9200208d)
 - [Décret n°92-468 du 21 mai 1992 (BUDF9210023D)](decret-n92-468-du-21-mai-1992-budf9210023d)
 - [Décret n°92-469 du 21 mai 1992 (BUDF9210050D)](decret-n92-469-du-21-mai-1992-budf9210050d)
 - [Décret n°92-473 du 21 mai 1992 (ECOT9220008D)](decret-n92-473-du-21-mai-1992-ecot9220008d)

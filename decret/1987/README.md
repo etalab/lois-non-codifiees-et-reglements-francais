@@ -459,7 +459,6 @@
 - [Décret n°86-1403 du 31 décembre 1986](decret-n86-1403-du-31-decembre-1986)
 - [Décret n°86-1406 du 31 décembre 1986](decret-n86-1406-du-31-decembre-1986)
 - [Décret n°86-1408 du 31 décembre 1986](decret-n86-1408-du-31-decembre-1986)
-- [Décret n°86-1413 du 31 décembre 1986](decret-n86-1413-du-31-decembre-1986)
 - [Décret n°86-1424 du 31 décembre 1986](decret-n86-1424-du-31-decembre-1986)
 - [Décret n°87-49 du 31 janvier 1987 (BUDF8700002D)](decret-n87-49-du-31-janvier-1987-budf8700002d)
 - [Décret n°87-604 du 31 juillet 1987 (JUSE8740038D)](decret-n87-604-du-31-juillet-1987-juse8740038d)
