@@ -1,6 +1,6 @@
 # Article 1
 
-L'intéressement des salariés à l'entreprise peut être assuré dans toute entreprise, quelles que soient la nature de son activité et sa forme juridique, par un accord valable pour une durée de trois ans et passé :
+L'intéressement des salariés à l'entreprise peut être assuré dans toute entreprise qui satisfait aux obligations lui incombant en matière de représentation du personnel, quelles que soient la nature de son activité et sa forme juridique, par un accord valable pour une durée de trois ans et passé :
 
 - soit dans le cadre d'une convention ou d'un accord collectif de travail ;
 
