@@ -852,7 +852,6 @@
 - [Décret n°97-71 du 28 janvier 1997 (JUSF9650110D)](decret-n97-71-du-28-janvier-1997-jusf9650110d)
 - [Décret n°97-72 du 28 janvier 1997 (DEFP9602118D)](decret-n97-72-du-28-janvier-1997-defp9602118d)
 - [Décret n°97-74 du 28 janvier 1997 (FCEC9600208D)](decret-n97-74-du-28-janvier-1997-fcec9600208d)
-- [Décret n°97-75 du 28 janvier 1997 (AGRP9601770D)](decret-n97-75-du-28-janvier-1997-agrp9601770d)
 - [Décret n°97-807 du 28 août 1997 (MCCX9600156D)](decret-n97-807-du-28-aout-1997-mccx9600156d)
 - [Décret n°97-89 du 28 janvier 1997 (ECOU9600026D)](decret-n97-89-du-28-janvier-1997-ecou9600026d)
 - [Décret n°97-90 du 28 janvier 1997 (ECOP9600039D)](decret-n97-90-du-28-janvier-1997-ecop9600039d)
