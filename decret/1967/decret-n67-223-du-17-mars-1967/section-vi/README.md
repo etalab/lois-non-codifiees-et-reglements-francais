@@ -1,4 +1,4 @@
-# Section VI : Les unions de syndicats de copropriétaires.
+# Section VI : La comptabilité du syndicat.
 
 - [Article 43](article-43.md)
 - [Article 44](article-44.md)

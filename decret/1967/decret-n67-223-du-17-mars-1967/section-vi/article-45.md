@@ -1,5 +1,7 @@
 # Article 45
 
-Les syndicats coopératifs visés à l'article 14 (alinéa 2) de la loi du 10 juillet 1965 peuvent adhérer à des unions coopératives auxquelles s'appliquent les dispositions de la présente section.
+Les travaux de maintenance sont les travaux d'entretien courant, exécutés en vue de maintenir l'état de l'immeuble ou de prévenir la défaillance d'un élément d'équipement commun ; ils comprennent les menues réparations.
 
-Des syndicats non coopératifs peuvent adhérer à des unions coopératives, avec l'accord de ces dernières, sans perdre de plein droit leur forme initiale.
+Sont assimilés à des travaux de maintenance les travaux de remplacement d'éléments d'équipement communs, tels que ceux de la chaudière ou de l'ascenseur, lorsque le prix de ce remplacement est compris forfaitairement dans le contrat de maintenance ou d'entretien y afférent.
+
+Sont aussi assimilées à des travaux de maintenance les vérifications périodiques imposées par les réglementations en vigueur sur les éléments d'équipement communs.

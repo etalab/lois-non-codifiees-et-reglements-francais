@@ -5,6 +5,6 @@
 - [Section III : Le conseil syndical.](section-iii)
 - [Section IV : Le syndic.](section-iv)
 - [Section V : Dispositions particulières aux syndicats coopératifs.](section-v)
-- [Section VI : Les unions de syndicats de copropriétaires.](section-vi)
+- [Section VI : La comptabilité du syndicat.](section-vi)
 - [Section VII : Procédure.](section-vii)
 - [Section VIII : Dispositions diverses.](section-viii)
