@@ -3,4 +3,3 @@
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Titre IV : Dispositions relatives aux affiliés teneurs de comptes conservateurs.](titre-iv)
-- [Annexes](annexes)

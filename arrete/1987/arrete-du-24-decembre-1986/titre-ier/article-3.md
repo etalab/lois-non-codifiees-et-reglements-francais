@@ -1,9 +1,0 @@
-# Article 3
-
-I. - Les personnes visées au IV de l'article 2 doivent être établies dans la Communauté économique européenne et présenter un mandat du détenteur des marchandises. Ce mandat est constitué par une procuration dont le modèle figure en annexe I. Cette procuration, qui est déposée auprès du receveur régional des douanes compétent, peut être établie pour une ou plusieurs opérations de dédouanement réalisées dans un ou plusieurs bureaux de douane relevant de la recette régionale des douanes concernée.
-
-II. - Par dérogation aux dispositions du I du présent article, la procuration peut être établie sous une forme simplifiée dans le cas d'opérations non commerciales ou effectuées à titre occasionnel. Dans ce cas, l'original de la procuration doit être joint à la déclaration en détail et y demeurer annexé.
-
-III. - Dans l'hypothèse où des personnes visées au IV a de l'article 2 ont reçu, en tant qu'employés salariés, mandat du détenteur et délèguent, si ce mandat le prévoit, les pouvoirs qui leur ont été conférés à un ou plusieurs autres salariés agissant également au service exclusif du détenteur, une délégation de procuration du modèle figurant en annexe II doit être déposée auprès du receveur régional des douanes compétent.
-
-Il en est de même lorsque des personnes visées au IV b et c de l'article 2 ont reçu, en tant que transporteurs ou professionnels du dédouanement dans un autre Etat membre, mandat du détenteur et délèguent, si ce mandat le prévoit, les pouvoirs qui leur ont été conférés à des employés salariés agissant à leur service exclusif.    IV. - Les personnes visées au IV de l'article 2 peuvent se voir refuser la possibilité de déclarer en détail avec un mandat du détenteur s'il est constaté qu'elles ont contrevenu à la législation fiscale ou aux législations que le service des douanes est chargé d'appliquer.

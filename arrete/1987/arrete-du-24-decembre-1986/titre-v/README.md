@@ -1,3 +1,0 @@
-# Titre V : Dispositions diverses.
-
-- [Article 42](article-42.md)

@@ -33,7 +33,6 @@
 - [Arrêté du 6 décembre 1985](arrete-du-6-decembre-1985)
 - [Arrêté du 6 février 1985](arrete-du-6-fevrier-1985)
 - [Arrêté du 6 janvier 1978](arrete-du-6-janvier-1978)
-- [Arrêté du 6 juin 1985](arrete-du-6-juin-1985)
 - [Arrêté du 6 mars 1985](arrete-du-6-mars-1985)
 - [Arrêté du 6 novembre 1985](arrete-du-6-novembre-1985)
 - [Arrêté du 6 mai 1985](arrete-du-6-mai-1985)

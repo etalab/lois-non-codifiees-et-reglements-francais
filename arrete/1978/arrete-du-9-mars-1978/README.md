@@ -1,4 +1,4 @@
-# Arrêté du 9 mars 1978 relatif aux études en vue du diplôme d'Etat de docteur en chirurgie dentaire
+# Arrêté du 9 mars 1978 relatif aux rémunérations et différents avantages sociaux des praticiens conseils chargés du service de contrôle médical du régime d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles
 
 - [Titre Ier : Dispositions générales](titre-ier)
 - [Titre II : De la formation](titre-ii)

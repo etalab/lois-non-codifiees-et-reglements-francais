@@ -1,3 +1,0 @@
-# Article 3
-
-Le directeur de la sécurité sociale au ministère des affaires sociales, de la santé et de la ville, le sous-directeur des chambres de commerce et d'industrie au ministère de l'industrie, des postes et télécommunications et du commerce extérieur, le directeur général de l'enseignement et de la recherche au ministère de l'agriculture et de la pêche et le directeur général des enseignements supérieurs au ministère de l'enseignement supérieur et de la recherche, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

@@ -1,6 +1,6 @@
 # Article 5-3
 
-Les conventions mentionnées à l'article 5 du présent arrêté et celles conclues en application de l'article 1er du décret n° 65-804 du 22 septembre 1965 relatif aux conventions à conclure entre, d'une part, les facultés de médecine, les facultés mixtes de médecine et de pharmacie et, d'autre part, les centres hospitaliers régionaux en vue de déterminer les modalités de fonctionnement des centres de soins, d'enseignement et de recherches dentaires et au règlement intérieur de ces centres fixent notamment.
+Les conventions mentionnées à l'article 5 du présent arrêté et celles conclues en application de l'article 1er du décret n° 65-804 du 22 septembre 1965 relatif aux conventions à conclure entre, d'une part, les facultés de médecine, les facultés mixtes de médecine et de pharmacie et, d'autre part, les centres hospitaliers régionaux en vue de déterminer les modalités de fonctionnement des centres de soins, d'enseignement et de recherches dentaires et au règlement intérieur de ces centres fixent notamment [*mentions obligatoires*].
 
 1° Les modalités selon lesquelles les étudiants en chirurgie dentaire accomplissent leurs activités cliniques et les stages hospitaliers ;
 

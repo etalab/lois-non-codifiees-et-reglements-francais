@@ -1,3 +1,0 @@
-# Recette régionale des douanes de ...
-
-- [Délégation de procuration (1).](delegation-de-procuration-1)
