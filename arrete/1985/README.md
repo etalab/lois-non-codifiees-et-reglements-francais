@@ -58,6 +58,7 @@
 - [Arrêté du 13 mars 1985](arrete-du-13-mars-1985)
 - [Arrêté du 14 février 1985](arrete-du-14-fevrier-1985)
 - [Arrêté du 14 janvier 1985](arrete-du-14-janvier-1985)
+- [Arrêté du 14 juin 1985](arrete-du-14-juin-1985)
 - [Arrêté du 14 mars 1985](arrete-du-14-mars-1985)
 - [Arrêté du 15 avril 1985](arrete-du-15-avril-1985)
 - [Arrêté du 15 janvier 1985](arrete-du-15-janvier-1985)
