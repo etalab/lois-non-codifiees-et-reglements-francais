@@ -24,6 +24,8 @@ Des membres permanents :
 
 - le directeur au secrétariat général du Gouvernement ;
 
+- le directeur des Journaux officiels ;
+
 Des membres siégeant en fonction de l'objet du code examiné :
 
 - un membre de la ou des sections compétentes du Conseil d'Etat ;
