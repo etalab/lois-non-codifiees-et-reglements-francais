@@ -662,7 +662,6 @@
 - [Arrêté du 18 novembre 1993 (JUSE9340132A)](arrete-du-18-novembre-1993-juse9340132a)
 - [Arrêté du 18 novembre 1993 (JUSE9340134A)](arrete-du-18-novembre-1993-juse9340134a)
 - [Arrêté du 18 octobre 1994 (SPSH9402163A)](arrete-du-18-octobre-1994-spsh9402163a)
-- [Arrêté du 18 mai 1993 (EQUH9300830A)](arrete-du-18-mai-1993-equh9300830a)
 - [Arrêté du 18 mai 1993 (INDB9300466A)](arrete-du-18-mai-1993-indb9300466a)
 - [Arrêté du 18 mai 1993 (INDB9300467A)](arrete-du-18-mai-1993-indb9300467a)
 - [Arrêté du 19 août 1993 (BUDL9300092A)](arrete-du-19-aout-1993-budl9300092a)
