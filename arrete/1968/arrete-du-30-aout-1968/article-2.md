@@ -1,9 +1,5 @@
 # Article 2
 
-Le traitement indiqué à l'article précédent doit être porté à la connaissance des acheteurs de la manière suivante :
+L'application des durées maximum et minimum fixées à l'article précédent ne modifie pas la situation des agents en fonctions à la date d'effet du présent arrêté ; ils conservent leur ancienneté dans l'échelon auquel ils sont parvenus.
 
-Dans le commerce de gros par la mention "conservé au moyen de ..." suivie du nom de la ou des substances utilisées, inscrite sur la face extérieure des emballages ; cette mention doit être reproduite sur les factures.
-
-Dans le commerce de détail par l'une des mentions suivantes ;
-
-"conservé au moyen de ...", "traité au ...", suivie du nom de la substance utilisée, inscrite d'une manière facilement lisible et apparente pour assurer sans équivoque l'information du consommateur.
+Ces nouvelles durées de carrière ne peuvent en aucun cas permettre l'accès aux échelons moyen et terminal dans des conditions d'ancienneté de services inférieures à celles prévues antérieurement par l'arrêté du 30 juillet 1963 modifié. Elles ne peuvent non plus conduire à une situation inférieure à celle qui résulterait d'une reconstitution de carrière effectuée en application des dispositions du présent arrêté.

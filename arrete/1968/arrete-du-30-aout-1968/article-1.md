@@ -1,7 +1,3 @@
 # Article 1
 
-L'emploi du biphényle, de l'orthophénylphénol et de l'orthophénylphénate de sodium pour le traitement en surface des agrumes ainsi que pour l'imprégnation des matériaux utilisés pour le conditionnement de ces fruits est autorisé sous réserve qu'au moment de la mise au commerce le taux résiduel par kilogramme d'agrumes (fruits entiers) ne dépasse pas :
-
-70 mg pour le biphényle ;
-
-12 mg pour l'orthophénylphénol et l'orthophénylphénate de sodium, isolément ou pris ensemble, exprimés en orthophénylphénol.
+Le maximum et le minimum du temps susceptible d'être passé dans chaque échelon de chacun des emplois dont les échelles de traitement sont déterminées dans les conditions prévues à l'article 4 du décret n° 59-979 du 12 août 1959 sont fixés conformément aux tableaux annexés au présent arrêté.
