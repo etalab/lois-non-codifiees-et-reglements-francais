@@ -1,0 +1,3 @@
+# Article 2
+
+Les établissements préparant des aliments pour animaux, y compris les aliments pour animaux de compagnie, ou manipulant de tels aliments non conditionnés pour la vente en l'état, qui contiennent des produits visés à l'article 1er ne peuvent préparer ou manipuler des aliments destinés à des animaux des espèces dont la chair ou les produits sont destinés à la consommation humaine. Toutefois, lorsque ces aliments sont préparés à partir de produits visés au point II de l'article 1er, l'établissement peut également préparer ou manipuler des aliments destinés à des animaux autres que ruminants, dont la chair ou les produits sont destinés à l'alimentation humaine.

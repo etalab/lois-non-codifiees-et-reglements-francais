@@ -1,0 +1,3 @@
+# Article 12
+
+Les aliments composés et les prémélanges destinés à l'alimentation d'animaux des espèces dont la chair ou les produits sont destinées à la consommation humaine, incorporant des produits d'origine animale, en provenance de pays tiers ne peuvent être importés que s'il sont accompagnés du certificat, sanitaire ou de salubrité, prévu à l'article 5 de l'arrêté du 6 juin 1994 ou d'un document commercial mentionnant leur nature, leur quantité, leur provenance et l'identification du (ou des) lots, complété par l'attestation prévue à l'annexe I du présent arrêté et visé par un vétérinaire officiel du pays de provenance.
