@@ -1,0 +1,3 @@
+# Article 5
+
+Les programmes de l'enseignement théorique seront fixés par arrêté du ministre de l'éducation nationale, après avis du conseil supérieur de l'éducation nationale. Jusqu'au niveau du cours élémentaire inclus, ils ne comprendront que les notions dont la connaissance est nécessaire au piéton. A ces notions seront ajoutées au cours moyen celles qui sont nécessaires au cycliste ainsi qu'à la conduite des animaux isolés ou en groupe et des troupeaux. Dans les classes les plus élevées seront ajoutées progressivement les connaissances utiles au conducteur de véhicules agricoles et de véhicules à moteur.
