@@ -2,4 +2,6 @@
 
 - [Mesures de contrôle.](mesures-de-controle)
 - [Mesures de sécurité.](mesures-de-securite)
+- [Servitudes diverses.](servitudes-diverses)
+- [Surveillance.](surveillance)
 - [Utilisation des biens communs.](utilisation-des-biens-communs)

@@ -2,15 +2,15 @@
 
 Pour l'atttribution de bonifications indiciaires soumises à retenue pour pension civile, les établissements d'enseignement ou de formation sont classés par le ministre de l'éducation nationale [*autorité compétente*], après consultation des recteurs, en catégories déterminées en fonction de leurs caractéristiques propres et réparties selon les pourcentages fixés ci-dessous :
 
-1. Lycées :
+1. Lycées et établissements publics dispensant un enseignement artistique ou d'art appliqué :
 
-1re catégorie : 20 p. 100 [*pourcentage*] ;
+1re catégorie : 5 p. 100 ;
 
-2e catégorie : 30 p. 100 ;
+2e catégorie : 35 p. 100 ;
 
-3e catégorie : 30 p. 100 ;
+3e catégorie : 35 p. 100 ;
 
-4e catégorie : 20 p. 100.
+4e catégorie : 25 p. 100.
 
 2. Lycées professionnels :
 
