@@ -6,3 +6,4 @@
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
+- [Montant des cotisations d'allocation aux vieux travailleurs salariés de Saint-Pierre-et-Miquelon en 1983 - Taux.](montant-des-cotisations-d-allocation-aux)
