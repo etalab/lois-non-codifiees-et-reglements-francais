@@ -6,6 +6,7 @@
 - [Arrêté du 2 février 1977](arrete-du-2-fevrier-1977)
 - [Arrêté du 2 mars 1977](arrete-du-2-mars-1977)
 - [Arrêté du 2 mai 1977](arrete-du-2-mai-1977)
+- [Arrêté du 3 août 1979](arrete-du-3-aout-1979)
 - [Arrêté du 3 décembre 1976](arrete-du-3-decembre-1976)
 - [Arrêté du 3 février 1977](arrete-du-3-fevrier-1977)
 - [Arrêté du 4 août 1977](arrete-du-4-aout-1977)
