@@ -2,9 +2,7 @@
 
 Le jury de l'examen est composé au plus de six personnes compétentes dans les matières prévues au programme et comprend :
 
-- deux représentants du ministre chargé des transports fluviaux, dont le président ;
-
-- un représentant de Voies navigables de France ;
+- trois représentants de Voies navigables de France, dont le président ;
 
 - un représentant des associations de formation professionnelle liées par une convention avec le ministre chargé des transports fluviaux ;
 
