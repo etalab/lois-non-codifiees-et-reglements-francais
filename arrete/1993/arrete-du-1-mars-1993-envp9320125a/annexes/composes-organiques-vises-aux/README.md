@@ -1,3 +1,0 @@
-# COMPOSÉS ORGANIQUES VISÉS AUX ARTICLES 27 : (PARAGRAPHE 7-2), 52, 59 (PARAGRAPHE 7) ET 63.
-
-- [Article ANNEXE III](article-annexe-iii.md)
