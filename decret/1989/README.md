@@ -178,6 +178,8 @@
 - [Décret n°89-406 du 20 juin 1989 (AGRE8900827D)](decret-n89-406-du-20-juin-1989-agre8900827d)
 - [Décret n°89-415 du 20 juin 1989 (PRME8961331D)](decret-n89-415-du-20-juin-1989-prme8961331d)
 - [Décret n°89-417 du 20 juin 1989 (SPSH8901165D)](decret-n89-417-du-20-juin-1989-spsh8901165d)
+- [Décret n°89-418 du 20 juin 1989 (PRMZ8905047D)](decret-n89-418-du-20-juin-1989-prmz8905047d)
+- [Décret n°89-420 du 20 juin 1989 (AGRE8900868D)](decret-n89-420-du-20-juin-1989-agre8900868d)
 - [Décret n°90-262 du 20 mars 1990 (COMA8900009D)](decret-n90-262-du-20-mars-1990-coma8900009d)
 - [Décret n°90-647 du 20 juillet 1990 (INTC9000170D)](decret-n90-647-du-20-juillet-1990-intc9000170d)
 - [Décret n°92-453 du 20 mai 1992 (ACVA9210046D)](decret-n92-453-du-20-mai-1992-acva9210046d)
