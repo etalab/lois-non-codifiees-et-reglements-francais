@@ -6,7 +6,7 @@ Sont applicables aux bénéficiaires mentionnés à l'article 1038 du code rural
 
 a) Les chapitres 3, 4 et 5 du titre Ier ;
 
-b) Le chapitre 1er, à l'exception des articles R. 321-4 et R. 321-5, et les chapitres 2, 3 et 4 du titre II ;
+b) L'article R. 321-2, et les chapitres 2, 3 et 4 du titre II ;
 
 c) Les titres III et IV ;
 
