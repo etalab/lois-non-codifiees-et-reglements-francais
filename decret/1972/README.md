@@ -15,6 +15,7 @@
 - [Décret n°72-963 du 20 octobre 1972](decret-n72-963-du-20-octobre-1972)
 - [Décret n°72-862 du 22 septembre 1972](decret-n72-862-du-22-septembre-1972)
 - [Décret n°72-990 du 23 octobre 1972](decret-n72-990-du-23-octobre-1972)
+- [Décret n°72-1058 du 25 novembre 1972](decret-n72-1058-du-25-novembre-1972)
 - [Décret n°72-876 du 25 septembre 1972](decret-n72-876-du-25-septembre-1972)
 - [Décret n°72-978 du 26 octobre 1972](decret-n72-978-du-26-octobre-1972)
 - [Décret n°72-971 du 27 octobre 1972](decret-n72-971-du-27-octobre-1972)
