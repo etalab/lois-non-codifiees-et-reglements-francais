@@ -5,6 +5,8 @@
 - [Décret n°99-681 du 3 août 1999 (JUSF9950058D)](decret-n99-681-du-3-aout-1999-jusf9950058d)
 - [Décret n°99-1 du 4 janvier 1999 (MAEF9810031D)](decret-n99-1-du-4-janvier-1999-maef9810031d)
 - [Décret n°99-159 du 5 mars 1999 (MENF9900193D)](decret-n99-159-du-5-mars-1999-menf9900193d)
+- [Décret n°99-3 du 5 janvier 1999 (ECOI9801130D)](decret-n99-3-du-5-janvier-1999-ecoi9801130d)
+- [Décret n°99-4 du 5 janvier 1999 (FPPA9810017D)](decret-n99-4-du-5-janvier-1999-fppa9810017d)
 - [Décret n°99-861 du 5 octobre 1999 (INTC9900234D)](decret-n99-861-du-5-octobre-1999-intc9900234d)
 - [Décret n°96-709 du 7 août 1996 (INTA9600199D)](decret-n96-709-du-7-aout-1996-inta9600199d)
 - [Décret n°99-170 du 8 mars 1999 (MENF9900111D)](decret-n99-170-du-8-mars-1999-menf9900111d)
