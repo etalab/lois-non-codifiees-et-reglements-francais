@@ -1,24 +1,24 @@
 # Article 6 bis
 
-I - Les personnels de toutes catégories qui ne totalisent pas le minimum de temps de service exigé à l'article 6 ci-dessus bénéficient d'un droit à pension ouvert à l'âge de soixante-cinq ans.
+I-Les personnels de toutes catégories qui ne totalisent pas le minimum de temps de service exigé à l'article 6 ci-dessus bénéficient d'un droit à pension ouvert à l'âge de soixante-cinq ans.
 
-II - La pension peut être liquidée par anticipation à partir de l'âge de soixante ans [*retraite anticipée*]. Dans ce cas, le montant de la pension est réduit par application des coefficients ci-après :
+II-La pension peut être liquidée par anticipation à partir de l'âge de soixante ans [*retraite anticipée*]. Dans ce cas, le montant de la pension est réduit par application des coefficients ci-après :
 
 Coefficient
 
-Soixante ans ...                        0,78
+Soixante ans... 0,78
 
-Soixante et un ans ...                  0,83
+Soixante et un ans... 0,83
 
-Soixante-deux ans ...                   0,88
+Soixante-deux ans... 0,88
 
-Soixante-trois ans ...                  0,92
+Soixante-trois ans... 0,92
 
-Soixante-quatre ans ...                 0,96
+Soixante-quatre ans... 0,96
 
-III - Toutefois ce coefficient n'est pas applicable aux assurés qui sont reconnus inaptes au travail dans les conditions et selon les modalités prévues par le Code de la sécurité sociale, ou qui sont anciens déportés ou internés titulaires de la carte de déporté ou interné de la Résistance ou de la carte de déporté ou interné politique.
+III-Toutefois ce coefficient n'est pas applicable aux assurés qui sont reconnus inaptes au travail dans les conditions et selon les modalités prévues par le Code de la sécurité sociale, ou qui sont anciens déportés ou internés titulaires de la carte de déporté ou interné de la Résistance ou de la carte de déporté ou interné politique ou qui justifient, tous régimes de base d'assurance vieillesse obligatoires confondus, d'une durée d'assurance au moins égale à celle qui est fixée par l'article R. 351-6 du code de la sécurité sociale.
 
-IV - La pension des assurés anciens prisonniers de guerre, âgés de soixante ans ou plus, est liquidée sans réduction, quel que soit leur âge lors de la demande de liquidation, lorsque la durée de leur captivité a été égale ou supérieure à cinquante-quatre mois.
+IV-La pension des assurés anciens prisonniers de guerre, âgés de soixante ans ou plus, est liquidée sans réduction, quel que soit leur âge lors de la demande de liquidation, lorsque la durée de leur captivité a été égale ou supérieure à cinquante-quatre mois.
 
 Le coefficient de réduction applicable aux pensions demandées par anticipation par des prisonniers de guerre âgés de soixante ans ou plus et dont la durée de captivité est inférieure à cinquante-quatre mois est le coefficient applicable, en vertu des dispositions du II ci-dessus, à l'âge qu'ont les intéressés lors de la demande de liquidation, majoré :
 

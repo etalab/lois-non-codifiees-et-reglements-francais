@@ -1,0 +1,3 @@
+# Article 4
+
+Le garde des sceaux, ministre de la justice, le ministre de l'économie et des finances, le ministre de l'agriculture et du développement rural, le ministre de l'équipement, du logement et des transports, le ministre du travail, de l'emploi et de la formation professionnelle, le ministre des affaires sociales et de l'intégration, le ministre délégué au commerce et à l'artisanat, le ministre délégué au logement et au cadre de vie, le secrétaire d'Etat aux droits des femmes et à la consommation, le secrétaire d'Etat aux transports routiers et fluviaux et le secrétaire d'Etat à la mer sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

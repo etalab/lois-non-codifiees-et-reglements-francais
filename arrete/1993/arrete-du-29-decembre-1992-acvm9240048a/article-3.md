@@ -18,7 +18,7 @@ Sont nommés membres de la commission :
 
 - le président de l'Association nationale des anciens d'Indochine (A.N.A.I.) ou son représentant ;
 
-- le président de l'Association des combattants de l'unité française (A.C.U.F.) ou son représentant ;
+- le président de l'Association des combattants de l'Union française (A.C.U.F.) ou son représentant ;
 
 - le président de l'Union nationale des anciens combattants d'Indochine des théâtres d'opérations extérieurs (T.O.E.) et d'Afrique du Nord (U.N.A.C.I.T.A.) ou son représentant ;
 
@@ -30,4 +30,4 @@ Sont nommés membres de la commission :
 
 - le président de l'Association des anciens de Dien-Bien-Phu ou son représentant ;
 
-- le président de la Fondation des réseaux de la résistance en Indochine ou son représentant.
+- le président de la Fédération des réseaux de la résistance en Indochine ou son représentant.    Le président de l'Association nationale des anciens prisonniers et internés d'Indochine (ANAPI) ou son représentant.
