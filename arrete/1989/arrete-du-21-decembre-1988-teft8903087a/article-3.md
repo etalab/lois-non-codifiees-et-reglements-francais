@@ -2,7 +2,7 @@
 
 Les personnes agréées, les administrateurs et le personnel de direction des organismes agréés ainsi que le personnel salarié auquel il est fait appel pour la vérification du matériel des installations sont tenus au secret professionnel.
 
-Ils doivent agir avec impartialité ; en particulier, interdiction leur est faite :
+Ils doivent agir avec impartialité et intégrité ; en particulier, interdiction leur est faite :
 
 - de faire acte de commerce de matériel électrique ;
 

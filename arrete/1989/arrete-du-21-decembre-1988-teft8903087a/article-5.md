@@ -1,3 +1,3 @@
 # Article 5
 
-Aucune modification ne peut être apportée au tarif des honoraires joint à la demande d'agrément avant d'avoir été portée à la connaissance du ministre chargé du travail [*autorité compétente*]; les tarifs déposés peuvent être communiqués sur demande.
+Les organismes et personnes agréés doivent se soumettre à tout contrôle ou inspection jugé utile par le ministre chargé du travail et participer à toute réunion de coordination ou d'information dont ledit ministre déciderait la tenue.
