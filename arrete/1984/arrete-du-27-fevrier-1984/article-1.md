@@ -1,3 +1,5 @@
 # Article 1
 
-L'annonce des crues et la transmission des avis de crues sont réorganisées conformément à l'instruction ci-annexée, au fur et à mesure de l'approbation des nouveaux règlements départementaux pris en application de l'article 2 du présent arrêté. A partir de l'approbation d'une partie ou de la totalité d'un règlement départemental, les dispositions de l'arrêté du 24 août 1977 susvisé et l'ancien règlement départemental deviennent caduques pour la partie ou la totalité du département concerné.
+Au sein des six bassins créés pour l'application de la loi du 16 décembre 1964, les services hydrologiques centralisateurs et les services d'annonce des crues sont désignés par la liste ci-annexée. Ils ont les compétences géographiques indiquées par cette liste (1).
+
+Les services hydrologiques centralisateurs sont placés sous l'autorité des délégués de bassin qui animent et coordonnent les activités des services d'annonce des crues situés dans leur bassin.
