@@ -9,7 +9,6 @@
 - [Décret n°96-763 du 1 septembre 1996 (PRMX9600080D)](decret-n96-763-du-1-septembre-1996-prmx9600080d)
 - [Décret n°96-96 du 1 février 1996 (TASS9523378D)](decret-n96-96-du-1-fevrier-1996-tass9523378d)
 - [Décret n°97-897 du 1 octobre 1997 (MENX9700103D)](decret-n97-897-du-1-octobre-1997-menx9700103d)
-- [Décret du 2 avril 1996 (FCEC9500157D)](decret-du-2-avril-1996-fcec9500157d)
 - [Décret du 2 septembre 1996 (DOMP9600016D)](decret-du-2-septembre-1996-domp9600016d)
 - [Décret n°96-102 du 2 février 1996 (ENVE9530063D)](decret-n96-102-du-2-fevrier-1996-enve9530063d)
 - [Décret n°96-103 du 2 février 1996 (MCCB9500661D)](decret-n96-103-du-2-fevrier-1996-mccb9500661d)
