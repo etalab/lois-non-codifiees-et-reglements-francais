@@ -1,3 +1,0 @@
-# PARAGRAPHE 2 : DISPOSITIONS DIVERSES
-
-- [Article 27](article-27.md)

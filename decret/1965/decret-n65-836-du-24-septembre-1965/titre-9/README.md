@@ -1,3 +1,0 @@
-# TITRE 9 : DISPOSITIONS PARTICULIERES
-
-- [Article 30](article-30.md)

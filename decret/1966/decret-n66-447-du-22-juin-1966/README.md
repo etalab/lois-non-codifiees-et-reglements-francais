@@ -1,4 +1,0 @@
-# Décret n°66-447 du 22 juin 1966 PORTANT CLASSEMENT DANS L'ORGANISATION AUTONOME NATIONALE DES PROFESSIONS LIBERALES
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)

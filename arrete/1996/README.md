@@ -221,7 +221,6 @@
 - [Arrêté du 7 octobre 1996 (EQUS9601149A)](arrete-du-7-octobre-1996-equs9601149a)
 - [Arrêté du 7 octobre 1996 (TASP9623704A)](arrete-du-7-octobre-1996-tasp9623704a)
 - [Arrêté du 7 mai 1996 (ENVG9650165A)](arrete-du-7-mai-1996-envg9650165a)
-- [Arrêté du 7 mai 1996 (EQUT9600591A)](arrete-du-7-mai-1996-equt9600591a)
 - [Arrêté du 8 août 1996 (AGRP9600702A)](arrete-du-8-aout-1996-agrp9600702a)
 - [Arrêté du 8 août 1996 (DEFT9601797A)](arrete-du-8-aout-1996-deft9601797a)
 - [Arrêté du 8 août 1996 (DEFT9601798A)](arrete-du-8-aout-1996-deft9601798a)

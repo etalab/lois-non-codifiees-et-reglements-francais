@@ -780,7 +780,6 @@
 - [Arrêté du 29 juin 1990 (LOGC9000064A)](arrete-du-29-juin-1990-logc9000064a)
 - [Arrêté du 29 juin 1990 (MENN9001555A)](arrete-du-29-juin-1990-menn9001555a)
 - [Arrêté du 29 juin 1990 (TEFE9003560A)](arrete-du-29-juin-1990-tefe9003560a)
-- [Arrêté du 29 juin 1990 (TEFE9003561A)](arrete-du-29-juin-1990-tefe9003561a)
 - [Arrêté du 29 juin 1990 (TEFE9003562A)](arrete-du-29-juin-1990-tefe9003562a)
 - [Arrêté du 29 juin 1990 (TEFE9003563A)](arrete-du-29-juin-1990-tefe9003563a)
 - [Arrêté du 29 mars 1990 (MENF9000731A)](arrete-du-29-mars-1990-menf9000731a)

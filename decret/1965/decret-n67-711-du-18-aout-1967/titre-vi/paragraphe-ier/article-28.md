@@ -1,3 +1,0 @@
-# Article 28
-
-Lorsque les dispositions de l'article 23 [*paiement à partir de la fin du premier mois suivant le mois de cessation de l'activité*] (2ème alinéa) du décret du 24 septembre 1965 ne peuvent être satisfaites, les ouvriers et ouvrières de l'Etat admis à faire valoir leurs droits à pension reçoivent, à compter du premier jour du mois civil qui suit la cessation des services ou la radiation des contrôles, à titre d'avances sur pension, une allocation provisoire égale au montant arrondi au franc inférieur de la somme à laquelle une liquidation sommaire, établie dès leur mise à la retraite et éventuellement revisée, permet d'évaluer leur pension.

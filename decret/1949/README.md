@@ -22,7 +22,6 @@
 - [Décret n°50-581 du 25 mai 1950](decret-n50-581-du-25-mai-1950)
 - [Décret n°50-582 du 25 mai 1950](decret-n50-582-du-25-mai-1950)
 - [Décret n°48-893 du 26 mai 1948](decret-n48-893-du-26-mai-1948)
-- [Décret n°49-1258 du 27 août 1949](decret-n49-1258-du-27-aout-1949)
 - [Décret n°49-1259 du 27 août 1949](decret-n49-1259-du-27-aout-1949)
 - [Décret n°50-1347 du 27 octobre 1950](decret-n50-1347-du-27-octobre-1950)
 - [Décret n°48-1968 du 30 décembre 1948](decret-n48-1968-du-30-decembre-1948)

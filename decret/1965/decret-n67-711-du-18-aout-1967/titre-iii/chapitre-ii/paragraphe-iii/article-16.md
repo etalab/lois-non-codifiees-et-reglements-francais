@@ -1,3 +1,0 @@
-# Article 16
-
-A la pension visée à l'article 3 (2°) [*acquise sans condition de durée de services aux agents se trouvant dans l'impossibilité définitive et absolue d'assurer leur emploi*] du décret du 24 septembre 1965 peut s'ajouter la majoration pour assistance constante d'une tierce personne prévue par le régime général de sécurité sociale lorsque les conditions fixées par ce régime pour l'obtention de cet avantage sont remplies. La majoration est accordée sur demande de l'intéressé, après avis de la commission de réforme, quelle que soit la date à laquelle la pension lui a été concédée. Elle n'est pas cumulable à concurrence de son montant avec toute autre prestation ayant le même objet.

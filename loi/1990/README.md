@@ -81,5 +81,4 @@
 - [Loi n°90-32 du 10 janvier 1990 (DEFX8900070L)](loi-n90-32-du-10-janvier-1990-defx8900070l)
 - [Loi n°90-384 du 10 mai 1990 (ETRX9010154L)](loi-n90-384-du-10-mai-1990-etrx9010154l)
 - [Loi n°90-488 du 16 juin 1990 (JUSX8900169L)](loi-n90-488-du-16-juin-1990-jusx8900169l)
-- [Loi n°90-568 du 2 juillet 1990 (PTTX9000053L)](loi-n90-568-du-2-juillet-1990-pttx9000053l)
 - [Loi n°90-669 du 30 juillet 1990 (ECOX9000072L)](loi-n90-669-du-30-juillet-1990-ecox9000072l)

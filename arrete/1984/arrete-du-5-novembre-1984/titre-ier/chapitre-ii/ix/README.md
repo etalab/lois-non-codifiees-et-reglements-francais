@@ -1,4 +1,0 @@
-# § IX - IMMATRICULATION DES CYCLOMOTEURS QUE LEUR PROPRIÉTAIRE DÉSIRE FAIRE CIRCULER A L'ÉTRANGER.
-
-- [Article 25](article-25.md)
-- [Article 25 bis](article-25-bis.md)

@@ -1,3 +1,0 @@
-# Article 37
-
-Pour l'application de l'article L. 77 du Code des pensions civiles et militaires de retraite rendu applicable aux tributaires du présent régime en vertu de l'article 29 du décret du 24 septembre 1965, est regardé comme nouvel emploi [*définition*] : tout emploi civil ou militaire conduisant à pension du régime du Code des pensions civiles et militaires de retraite, du régime des pensions des ouvriers des établissements industriels de l'Etat prévu par le décret du 24 septembre 1965, du régime de retraites prévu en faveur des personnels de l'Imprimerie nationale par la loi du 29 juin 1927 modifiée ou du régime de la caisse nationale de retraites des agents des collectivités locales.

@@ -384,7 +384,6 @@
 - [Décret n°93-911 du 15 juillet 1993 (JUSX9300013D)](decret-n93-911-du-15-juillet-1993-jusx9300013d)
 - [Décret n°93-926 du 15 juillet 1993 (INDB9300444D)](decret-n93-926-du-15-juillet-1993-indb9300444d)
 - [Décret n°93-939 du 15 juillet 1993 (MAEJ9330004D)](decret-n93-939-du-15-juillet-1993-maej9330004d)
-- [Décret n°94-814 du 15 septembre 1994 (MCCB9400321D)](decret-n94-814-du-15-septembre-1994-mccb9400321d)
 - [Décret n°95-154 du 15 février 1995 (MCCB9400628D)](decret-n95-154-du-15-fevrier-1995-mccb9400628d)
 - [Décret n° 93-943 du 16 juillet 1993 (DOMP9300018D)](decret-n-93-943-du-16-juillet-1993-domp9300018d)
 - [Décret n°92-521 du 16 juin 1992 (JUSC9121120D)](decret-n92-521-du-16-juin-1992-jusc9121120d)
