@@ -20,7 +20,7 @@ a) Participer au soutien des agents en congé de maladie ou blessure, dont l'ét
 
 b) Aider, en cas de sinistre ou de grand malheur, les agents particulièrement dignes d'intérêt ainsi que leur famille ;
 
-c) Soutenir toute institution sociale, d'intérêt général créée ou à créer, notamment : établissements de repos, de cure, de retraite, colonies de vacances, coopératives, associations sportives, culturelles, etc. ;
+c) Soutenir toute institution sociale, d'intérêt général créée ou à créer, notamment : établissements de prévention, de repos, de cure, de retraite, colonie de vacances, coopératives, associations sportives, culturelles, etc. ;
 
 d) Supporter les dépenses de la médecine de soins et de l'action sanitaire et sociale ;
 
