@@ -14,11 +14,7 @@ Corps de l'inspection générale des bibliothèques.
 
 Corps de l'inspection générale de l'administration de l'éducation nationale.
 
-Corps des inspecteurs généraux du ministère de la santé publique et de la population.
-
-Corps de l'inspection générale de la sécurité sociale.
-
-Corps de l'inspection du travail et de la main-d'oeuvre.
+Corps de l'inspection générale des affaires sociales .
 
 Corps de l'inspection générale du commerce et de l'industrie.
 
