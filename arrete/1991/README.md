@@ -251,7 +251,6 @@
 - [Arrêté du 8 juillet 1991 (RESY9100024A)](arrete-du-8-juillet-1991-resy9100024a)
 - [Arrêté du 8 juillet 1991 (RESY9100234A)](arrete-du-8-juillet-1991-resy9100234a)
 - [Arrêté du 8 juillet 1991 (RESY9100400A)](arrete-du-8-juillet-1991-resy9100400a)
-- [Arrêté du 8 juillet 1991 (SPSS9101540A)](arrete-du-8-juillet-1991-spss9101540a)
 - [Arrêté du 8 juin 1991 (AGRG9101352A)](arrete-du-8-juin-1991-agrg9101352a)
 - [Arrêté du 8 mars 1991 (ECOC9000150A)](arrete-du-8-mars-1991-ecoc9000150a)
 - [Arrêté du 8 mars 1991 (INTB9100173A)](arrete-du-8-mars-1991-intb9100173a)
