@@ -2,6 +2,14 @@
 
 Pour avoir droit à l'appellation contrôlée "Champagne", les vins doivent être vinifiés, conformément aux usages locaux, à partir de raisins transportés entiers jusqu'aux installations de pressurage.
 
+Les paniers, caisses et cagettes utilisés pour le transport des raisins du lieu de la cueillette jusqu'à l'installation de pressurage doivent comporter au fond et sur tous les côtés des orifices permettant l'écoulement rapide et complet du jus pendant le transport et dans l'attente du pressurage.
+
+Les installations de pressurage doivent être agréées par le Comité national des vins et eaux-de-vie.
+
+Cet agrément, qui est donné après avis d'une commission d'experts désignés par ledit comité national, atteste la conformité de l'installation de pressurage avec les normes qualitatives fixées dans un cahier des charges approuvé par le Comité national des vins et eaux-de-vie.
+
+L'ouverture, l'extension ou la modification d'une installation de pressurage doit donner lieu à agrément avant l'entrée en activité de l'installation.
+
 Le pressurage doit obligatoirement être effectué dans des pressoirs permettant de recevoir, en raisins entiers, au moins 2 000 kg et au plus 12 000 kg de raisin par charge. Toutefois, les pressoirs d'une capacité inférieure à 2 000 kg actuellement existants en Champagne pourront être utilisés jusqu'à la récolte 1988 incluse.
 
 Les pressoirs utilisés doivent permettre la fragmentation des moûts en cuvée, première taille et deuxième taille, conformément aux usages champenois.
