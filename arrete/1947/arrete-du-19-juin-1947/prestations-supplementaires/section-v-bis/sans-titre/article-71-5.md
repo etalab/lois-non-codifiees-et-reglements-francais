@@ -1,0 +1,3 @@
+# Article 71-5
+
+Les caisses primaires d'assurance maladie font connaître à la Caisse nationale de l'assurance maladie des travailleurs salariés, avant la clôture de l'exercice, le montant des participations prises en charge au titre de l'article 71-4. A titre transitoire en 1987, ces participations sont avancées par le Fonds national de l'assurance maladie pour le compte du Fonds national d'action sanitaire et sociale [*organisme payeur*]. Les dépenses correspondantes sont imputées au Fonds national d'action sanitaire et sociale avant la clôture des comptes de la Caisse nationale de l'assurance maladie des travailleurs salariés pour cet exercice.

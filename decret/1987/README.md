@@ -21,6 +21,7 @@
 - [Décret n°88-262 du 18 mars 1988 (ECOP8800067D)](decret-n88-262-du-18-mars-1988-ecop8800067d)
 - [Décret n°87-30 du 20 janvier 1987](decret-n87-30-du-20-janvier-1987)
 - [Décret n°87-38 du 21 janvier 1987 (ASES8700056D)](decret-n87-38-du-21-janvier-1987-ases8700056d)
+- [Décret du 22 décembre 1986 (AGRM8700091D)](decret-du-22-decembre-1986-agrm8700091d)
 - [Décret n°86-1371 du 23 décembre 1986](decret-n86-1371-du-23-decembre-1986)
 - [Décret n°86-1316 du 26 décembre 1986](decret-n86-1316-du-26-decembre-1986)
 - [Décret du 29 décembre 1986](decret-du-29-decembre-1986)

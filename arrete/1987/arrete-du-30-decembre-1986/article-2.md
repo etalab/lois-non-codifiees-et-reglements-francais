@@ -1,3 +1,3 @@
 # Article 2
 
-Le présent arrêté sera publié au Journal officiel de la République française.
+Dans les départements d'outre-mer [*DOM*], les caisses générales de sécurité sociale exercent les attributions dévolues aux caisses primaires d'assurance maladie par le présent arrêté.
