@@ -1,5 +1,6 @@
 # 1979
 
+- [Décret n°79-433 du 1 juin 1979](decret-n79-433-du-1-juin-1979)
 - [Décret n°79-168 du 2 mars 1979](decret-n79-168-du-2-mars-1979)
 - [Décret n°79-169 du 2 mars 1979](decret-n79-169-du-2-mars-1979)
 - [Décret n°79-178 du 2 mars 1979](decret-n79-178-du-2-mars-1979)
