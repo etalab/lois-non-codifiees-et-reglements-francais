@@ -1,0 +1,9 @@
+# Arrêté du 25 janvier 1984 RELATIF A LA COTISATION ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES VERSEE POUR LE TRAVAIL DES PERSONNES CONDAMNEES A EXECUTER UN TRAVAIL D'INTERET GENERAL, CONFORMEMENT AUX DISPOSITIONS DES ARTICLES 43-3-1 A 43-3-5 DU CODE PENAL ET 747-1 A 747-7 DU CODE DE PROCEDURE PENALE *TAUX*.
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
