@@ -1,3 +1,0 @@
-# Article 15
-
-Un compte rendu est établi par le président après chaque séance et adressé dans le délai d'un mois aux membres de la commission. Il est réputé définitif si dans le délai d'un mois suivant son envoi auxdits membres, aucune observation n'est transmise au président. Le cas échéant, les observations sont examinées lors de la séance suivante de la commission. Toutefois, le compte rendu réputé définitif ou celui en instance d'agrément, auquel est joint tout courrier portant observation, sont adressés dans les plus brefs délais à l'autorité concernée (délégué général pour l'armement ou chef d'état- major), aux fédérations syndicales ainsi qu'à la direction de la fonction militaire et du personnel civil.

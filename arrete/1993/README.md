@@ -708,7 +708,6 @@
 - [Arrêté du 21 juillet 1993 (ECOT9316183A)](arrete-du-21-juillet-1993-ecot9316183a)
 - [Arrêté du 21 juillet 1993 (MENP9305316A)](arrete-du-21-juillet-1993-menp9305316a)
 - [Arrêté du 21 juillet 1993 (SPSS9302004A)](arrete-du-21-juillet-1993-spss9302004a)
-- [Arrêté du 21 juin 1993 (DEFP9301733A)](arrete-du-21-juin-1993-defp9301733a)
 - [Arrêté du 21 juin 1993 (SANP9301777A)](arrete-du-21-juin-1993-sanp9301777a)
 - [Arrêté du 21 octobre 1993 (ECOC9300097A)](arrete-du-21-octobre-1993-ecoc9300097a)
 - [Arrêté du 21 octobre 1993 (ECOT9351304A)](arrete-du-21-octobre-1993-ecot9351304a)
