@@ -351,7 +351,6 @@
 - [Décret n°89-988 du 22 décembre 1989 (JUSC8920907D)](decret-n89-988-du-22-decembre-1989-jusc8920907d)
 - [Décret n°89-991 du 22 décembre 1989 (EQUP8901149D)](decret-n89-991-du-22-decembre-1989-equp8901149d)
 - [Décret n°89-992 du 22 décembre 1989 (LOGC8900026D)](decret-n89-992-du-22-decembre-1989-logc8900026d)
-- [Décret n°89-993 du 22 décembre 1989 (MCCX8910402D)](decret-n89-993-du-22-decembre-1989-mccx8910402d)
 - [Décret n°89-996 du 22 décembre 1989 (SPSM8902303D)](decret-n89-996-du-22-decembre-1989-spsm8902303d)
 - [Décret n°89-997 du 22 décembre 1989 (SPSS8901248D)](decret-n89-997-du-22-decembre-1989-spss8901248d)
 - [Décret n°89-998 du 22 décembre 1989 (SPSH8902682D)](decret-n89-998-du-22-decembre-1989-spsh8902682d)
