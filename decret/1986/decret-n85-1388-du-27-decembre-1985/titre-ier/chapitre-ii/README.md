@@ -1,4 +1,4 @@
-# Chapitre II : Déclaration et vérification des créances
+# Chapitre II : Etablissement du passif, revendications et restitutions
 
 - [Section 1 : Déclaration des créances.](section-1)
 - [Section 2 : Vérification des créances.](section-2)

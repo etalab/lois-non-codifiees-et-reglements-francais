@@ -1,5 +1,6 @@
 # Section 1 : Saisine et décision du tribunal
 
+- [Sous-section 1 : Saisine sur déclaration du débiteur.](sous-section-1)
 - [Sous-section 2 : Saisine sur assignation d'un créancier.](sous-section-2)
 - [Sous-section 3 : Saisine d'office ou à la requête du procureur de la République.](sous-section-3)
 - [Sous-section 4 : Information du tribunal.](sous-section-4)

@@ -10,7 +10,7 @@ b) Bail pour une durée de plus de douze années, et, même pour un bail de moin
 
 2° Les actes entre vifs dressés distinctement pour constater des clauses d'inaliénabilité temporaire et toutes autres restrictions au droit de disposer, ainsi que des clauses susceptibles d'entraîner la résolution ou la révocation d'actes soumis à publicité en vertu du 1° ; de même, les décisions judiciaires constatant l'existence de telles clauses ;
 
-Les décisions judiciaires arrêtant ou modifiant le plan de continuation de l'entreprise rendues en application du chapitre II de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises qui prononcent dans les conditions de l'article 70 de la loi précitée l'inaliénabilité temporaire d'un bien immobilier appartenant au débiteur ;
+Les décisions judiciaires arrêtant ou modifiant le plan de redressement de l'entreprise rendu en application des chapitres II ou III de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises qui prononcent en application des articles 70 ou 89-1 de la loi précitée l'inaliénabilité temporaire d'un bien immobilier compris dans le plan.
 
 3° Les attestations notariées, établies en exécution de l'article 29 en vue de constater la transmission ou la constitution par décès de droits réels immobiliers ;
 

@@ -2,7 +2,7 @@
 
 La Banque de France informe tout banquier concerné des interdictions d'émettre des chèques résultant de l'application des articles 65-3 et 68 du décret du 30 octobre 1935 précité, au plus tard le deuxième jour ouvré suivant la réception de l'avis envoyé par l'administration des impôts en application de l'article 74 de ce décret.
 
-Dans les mêmes délais, la Banque de France informe tout banquier concerné des levées des interdictions résultant de l'application de l'article 65-3 du décret précité et des annulations effectuées en application de l'article 17 du présent décret.
+Dans les mêmes délais, la Banque de France informe tout banquier concerné des levées des interdictions résultant de l'application de l'article 65-3 du décret précité, des annulations et des nouvelles déclarations d'incidents effectuées en application des articles 17 et 17-1 du présent décret et des annulations effectuées en application de l'article 17 du présent décret.
 
 Les banquiers sont réputés avoir connaissance des informations visées aux alinéas ci-dessus au plus tard le troisième jour suivant leur réception.
 

@@ -10,6 +10,6 @@ Ces pièces sont enregistrées sur le registre mentionné à l'article 8 du pré
 
 3° Le nombre et la nature des pièces avec l'indication du but de ce dépôt ;
 
-4° Le nom ou la dénomination du débiteur ;
+4° Le nom ou la dénomination du débiteur ou du cessionnaire ;
 
 5° La nature et la situation des biens inaliénables et, éventuellement, la mention qu'ils peuvent être déplacés.

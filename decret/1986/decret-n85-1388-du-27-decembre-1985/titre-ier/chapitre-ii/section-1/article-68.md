@@ -1,5 +1,3 @@
 # Article 68
 
-Le seuil à partir duquel la créance doit être certifiée en application du troisième alinéa de l'article 51 de la loi du 25 janvier 1985 est fixé à la somme de dix mille francs en principal.
-
-Le visa du commissaire aux comptes ou, à défaut, de l'expert-comptable et, pour les organismes de sécurité sociale, celui de l'agent comptable peut être demandé par le juge-commissaire.
+Les créanciers dont la créance n'a pas été portée définitivement sur l'état dans le délai prévu par l'article 100 de la loi du 25 janvier 1985 peuvent demander à être relevés de la forclusion édictée par le troisième alinéa de l'article 50 de la même loi selon les modalités de son article 53.
