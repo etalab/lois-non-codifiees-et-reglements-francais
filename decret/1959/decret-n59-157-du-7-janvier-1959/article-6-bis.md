@@ -1,3 +1,3 @@
 # Article 6 bis
 
-Lorsque les conventions passées avec des transporteurs autres que la Régie autonome des transports parisiens et la Société nationale des chemins de fer français comportent l'octroi des subventions prévues au troisième alinéa de l'article 1er du présent décret, elles sont approuvées par arrêté conjoint du ministre chargé des transports, du ministre de l'économie et des finances et du ministre de l'intérieur.
+Des conventions pluriannuelles passées entre le syndicat et les transporteurs autres que la régie et la Société nationale précisent la consistance et la qualité du service attendu des transporteurs ainsi que les conditions d'exploitation de leurs lignes ou de leurs réseaux. Elles fixent, en outre, les contributions apportées par le syndicat aux transporteurs compte tenu des engagements tarifaires qui leur sont applicables ainsi que de la réalisation des objectifs de qualité du service assignés.

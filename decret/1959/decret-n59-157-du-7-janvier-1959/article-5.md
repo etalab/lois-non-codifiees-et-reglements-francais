@@ -1,9 +1,7 @@
 # Article 5
 
-Une convention passée entre le Syndicat et la Régie, approuvée par décret en Conseil d'Etat, fixe les conditions d'exploitation des réseaux. Elle précise notamment les conditions dans lesquelles la Régie présente au Syndicat ses budgets, comptes d'exploitations et programme de travaux et de matériel.
+Une convention pluriannuelle passée entre le syndicat et la régie précise la consistance et la qualité du service attendu de la régie ainsi que les conditions d'exploitation de ses réseaux. Elle précise, en outre, les modalités de détermination du financement apporté par le syndicat à la régie, en tenant compte notamment des obligations tarifaires résultant de l'application des dispositions des articles 7 et 7 bis du présent décret ainsi que de la réalisation des objectifs de qualité du service assignés.
 
-La Régie doit faire face à toutes les dépenses entraînées par l'exploitation, y compris le renouvellement du matériel et des installations et les charges des emprunts émis ou non par elle.
-
-Elle a l'obligation de présenter au Syndicat, pour chaque exercice, un budget en équilibre, en proposant, s'il y a lieu, les aménagements de service ou les modifications de tarif nécessaires.
+La régie transmet au syndicat ses états prévisionnels de recettes et de dépenses et ses comptes d'exploitation.
 
 La convention fixe le mode de calcul et de répartition d'une prime intéressant le personnel à la bonne gestion de l'entreprise.
