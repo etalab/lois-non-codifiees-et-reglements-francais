@@ -6,4 +6,6 @@ Lorsque les missions correspondant aux postes mis au concours l'exigent, le conc
 
 Le concours comprend une épreuve d'admission consistant en un entretien avec le jury permettant d'apprécier l'expérience professionnelle des candidats et leur aptitude à exercer leur profession dans le cadre des missions remplies par les collectivités territoriales et leurs établissements publics.
 
-Il est organisé par le centre de gestion pour les collectivités et établissements publics affiliés et par les collectivités et établissements publics eux-mêmes lorsqu'ils ne sont pas affiliés. L'autorité organisatrice fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts et la date des épreuves. Elle établit la liste des candidats autorisés à concourir. Elle arrête également la liste d'aptitude.
+La nature et les modalités des épreuves du concours sont fixées par décret.
+
+Les concours sont organisés par le centre de gestion pour les collectivités et établissements publics affiliés et par les collectivités et établissements publics eux-mêmes lorsqu'ils ne sont pas affiliés. L'autorité organisatrice fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts et la date des épreuves. Elle établit la liste des candidats autorisés à concourir. Elle arrête également la liste d'aptitude.

@@ -14,8 +14,12 @@ Les ressources du centre départemental de gestion sont constitués par :
 
 6° Les produits financiers ;
 
-7° Les emprunts contractés par le centre.    8° Les remboursements du fonds de compensation de la taxe sur la valeur ajoutée ;
+7° Les emprunts contractés par le centre.
 
-9° La fraction principale de la première part de la dotation globale d'équipement des communes, prévue par le deuxième alinéa de l'article 103 de la loi n° 83-8 du 7 janvier 1983 ;
+8° Les remboursements du fonds de compensation de la taxe sur la valeur ajoutée ;
 
-10° Le transfert de ressources du Centre national de la fonction publique territoriale en application de l'article 62 de la loi n° 94-1134 du 27 décembre 1994.    11° Les contreparties financières des conventions prévues au sixième alinéa de l'article 22 de la loi du 26 janvier 1984 précitée.
+9° La première part de la dotation globale d'équipement des départements, conformément à l'article L. 3334-11 du code général des collectivités territoriales.
+
+10° Le transfert de ressources du Centre national de la fonction publique territoriale en application de l'article 62 de la loi n° 94-1134 du 27 décembre 1994.
+
+11° Les contreparties financières des conventions prévues au sixième alinéa de l'article 22 de la loi du 26 janvier 1984 précitée.

@@ -1,6 +1,6 @@
 # Article 4
 
-Sont inscrits sur la liste d'aptitude prévue à l'article 3 ci-dessus les candidats déclarés admis à un concours sur titres ouvert par spécialité :
+Sont inscrits sur la liste d'aptitude prévue à l'article 3 ci-dessus les candidats déclarés admis à un concours sur titres avec épreuves ouvert par spécialité :
 
 1° Soit aux candidats titulaires de l'un des titres ou diplômes suivants :
 
@@ -22,6 +22,6 @@ Sont inscrits sur la liste d'aptitude prévue à l'article 3 ci-dessus les candi
 
 2° Soit aux candidats détenant une autorisation d'exercer l'une des professions mentionnées à l'article 2 du présent décret, ou un titre de qualification admis comme équivalent figurant sur une liste établie par le ministre chargé de la santé.
 
-Le Centre national de la fonction publique territoriale est chargé de la coordination générale de l'organisation de ce concours.
+La nature et les modalités des épreuves du concours sont fixées par décret.
 
 Les modalités d'organisation du concours, les règles de discipline et la date d'ouverture ainsi que la liste des candidats admis à y prendre part sont fixées par le président du Centre national de la fonction publique territoriale. Celui-ci arrête également la liste d'aptitude.

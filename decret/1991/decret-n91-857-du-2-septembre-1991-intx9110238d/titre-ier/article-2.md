@@ -10,7 +10,7 @@
 
 " 4° Arts plastiques.
 
-" Les spécialités Musique et Danse comprennent différentes disciplines.
+" Les spécialités Musique, Danse et arts plastiques comprennent différentes disciplines.
 
 " Pour les spécialités Musique, Danse et Art dramatique, ils exercent leurs fonctions dans les conservatoires nationaux de région et les écoles nationales de musique ainsi que dans les écoles de musique agréées ;
 

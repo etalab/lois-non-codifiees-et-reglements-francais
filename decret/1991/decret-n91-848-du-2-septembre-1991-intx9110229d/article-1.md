@@ -3,142 +3,234 @@
 L'échelonnement indiciaire applicable au cadre d'emplois des assistants territoriaux qualifiés de conservation du patrimoine et des bibliothèques est fixé ainsi qu'il suit :
 
 <table>
+<tbody>
 <tr>
-<td> :----------------------------:</td>
+<td align="left" valign="middle"/>
+<td align="left" valign="middle">
+<p align="center">
+<strong>INDICES</strong>
+<br/>
+<br/>bruts</p>
+</td>
 </tr>
 <tr>
-<td> :   Assistant   :            :</td>
+<td align="left" valign="middle">
+<p align="center">Assistant qualifié <br/>
+<br/>de conservation hors classe</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
 </tr>
 <tr>
-<td> :  qualifié de  :   indices  :</td>
+<td align="left" valign="middle">
+<p align="justify">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">638</p>
+</td>
 </tr>
 <tr>
-<td> :  conservation :    bruts   :</td>
+<td align="left" valign="middle">
+<p align="justify">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">600</p>
+</td>
 </tr>
 <tr>
-<td> :  hors classe  :            :</td>
+<td align="left" valign="middle">
+<p align="justify">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">560</p>
+</td>
 </tr>
 <tr>
-<td> :               :            :</td>
+<td align="left" valign="middle">
+<p align="justify">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">525</p>
+</td>
 </tr>
 <tr>
-<td> :---------------:------------:</td>
+<td align="left" valign="middle">
+<p align="justify">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">480</p>
+</td>
 </tr>
 <tr>
-<td> : 7e  échelon   :     638    :</td>
+<td align="left" valign="middle">
+<p align="justify">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">455</p>
+</td>
 </tr>
 <tr>
-<td> : 6e  échelon   :     600    :</td>
+<td align="left" valign="middle">
+<p align="justify">1er<sup/>échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">422</p>
+</td>
 </tr>
 <tr>
-<td> : 5e  échelon   :     560    :</td>
+<td align="left" valign="middle">
+<p align="center">Assistant qualifié <br/>
+<br/>de conservation de 1re classe</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
 </tr>
 <tr>
-<td> : 4e  échelon   :     525    :</td>
+<td align="left" valign="middle">
+<p align="justify">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">593</p>
+</td>
 </tr>
 <tr>
-<td> : 3e  échelon   :     480    :</td>
+<td align="left" valign="middle">
+<p align="justify">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">543</p>
+</td>
 </tr>
 <tr>
-<td> : 2e  échelon   :     455    :</td>
+<td align="left" valign="middle">
+<p align="justify">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">519</p>
+</td>
 </tr>
 <tr>
-<td> : 1er échelon   :     422    :</td>
+<td align="left" valign="middle">
+<p align="justify">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">499</p>
+</td>
 </tr>
 <tr>
-<td> :---------------:------------:</td>
+<td align="left" valign="middle">
+<p align="justify">1er<sup/>échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">471</p>
+</td>
 </tr>
 <tr>
-<td> :   Assistant   :            :</td>
+<td align="left" valign="middle">
+<p align="center">Assistant qualifié <br/>
+<br/>de conservation de 2e classe</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
 </tr>
 <tr>
-<td> :  qualifié de  :   indices  :</td>
+<td align="left" valign="middle">
+<p align="justify">12e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">558</p>
+</td>
 </tr>
 <tr>
-<td> :  conservation :    bruts   :</td>
+<td align="left" valign="middle">
+<p align="justify">11e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">520</p>
+</td>
 </tr>
 <tr>
-<td> : de 1re classe :            :</td>
+<td align="left" valign="middle">
+<p align="justify">10e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">500</p>
+</td>
 </tr>
 <tr>
-<td> :               :            :</td>
+<td align="left" valign="middle">
+<p align="justify">9e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">470</p>
+</td>
 </tr>
 <tr>
-<td> :---------------:------------:</td>
+<td align="left" valign="middle">
+<p align="justify">8e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">452</p>
+</td>
 </tr>
 <tr>
-<td> : 5e  échelon   :     593    :</td>
+<td align="left" valign="middle">
+<p align="justify">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">420</p>
+</td>
 </tr>
 <tr>
-<td> : 4e  échelon   :     543    :</td>
+<td align="left" valign="middle">
+<p align="justify">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">390</p>
+</td>
 </tr>
 <tr>
-<td> : 3e  échelon   :     515    :</td>
+<td align="left" valign="middle">
+<p align="justify">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">380</p>
+</td>
 </tr>
 <tr>
-<td> : 2e  échelon   :     480    :</td>
+<td align="left" valign="middle">
+<p align="justify">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">362</p>
+</td>
 </tr>
 <tr>
-<td> : 1er échelon   :     471    :</td>
+<td align="left" valign="middle">
+<p align="justify">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">350</p>
+</td>
 </tr>
 <tr>
-<td> :----------------------------:</td>
+<td align="left" valign="middle">
+<p align="justify">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">335</p>
+</td>
 </tr>
 <tr>
-<td> :   Assistant   :            :</td>
+<td align="left" valign="middle">
+<p align="justify">1er<sup/>échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">322</p>
+</td>
 </tr>
-<tr>
-<td> :  qualifié de  :   indices  :</td>
-</tr>
-<tr>
-<td> :  conservation :    bruts   :</td>
-</tr>
-<tr>
-<td> :  de 2e classe :            :</td>
-</tr>
-<tr>
-<td> :               :            :</td>
-</tr>
-<tr>
-<td> :---------------:------------:</td>
-</tr>
-<tr>
-<td> : 12e échelon   :     558    :</td>
-</tr>
-<tr>
-<td> : 11e échelon   :     520    :</td>
-</tr>
-<tr>
-<td> : 10e échelon   :     500    :</td>
-</tr>
-<tr>
-<td> : 9e  échelon   :     470    :</td>
-</tr>
-<tr>
-<td> : 8e  échelon   :     452    :</td>
-</tr>
-<tr>
-<td> : 7e  échelon   :     420    :</td>
-</tr>
-<tr>
-<td> : 6e  échelon   :     390    :</td>
-</tr>
-<tr>
-<td> : 5e  échelon   :     380    :</td>
-</tr>
-<tr>
-<td> : 4e  échelon   :     362    :</td>
-</tr>
-<tr>
-<td> : 3e  échelon   :     350    :</td>
-</tr>
-<tr>
-<td> : 2e  échelon   :     335    :</td>
-</tr>
-<tr>
-<td> : 1er échelon   :     322    :</td>
-</tr>
-<tr>
-<td> :---------------:------------:</td>
-</tr>
+</tbody>
 </table>
