@@ -286,6 +286,8 @@ SARL Bastide :
 
 - 4, rue Kerbernard, 29200 Brest : depuis 1959
 
+Bastide SMNB, 14, rue Pont-Carré, 56100 Lorient : de 1959 à juin 2002 ; 8, rue Henri-Estier, 56100 Lorient : depuis juillet 2002.
+
 Bernard Ateliers mécaniques navals industriels :
 
 - boulevard de la Compagnie-des-Indes, 56290 Port-Louis : depuis 1993.
@@ -860,9 +862,7 @@ SOLORPEC :
 
 - 10, boulevard Jean-Pierre-Calloch, 56100 Lorient : depuis 1969.
 
-SOLORPEC/SLPN :
-
-- 42, quai de la Douane, 29200 Brest ; 3, rue Alain-Colas, 29200 Brest : depuis 1979.
+SOLORPEC/SLPN, 42, quai de la Douane, 29200 Brest, 3, rue Alain-Colas, 29200 Brest : de 1979 à 2003, puis rue Maurice-le-Léon, 56100 Lorient : à partir de 2003.
 
 SONOCAR, 13, place Napoléon-III, 29200 Brest : de 1980 à 1990.
 
@@ -914,7 +914,7 @@ Techniques navales, rue Tritschler, 29200 Brest : de sa création à 1998.
 
 TMT puis TMT Atlantique,21, avenue de l'Amiral-Melchior, puis 21, avenue de l'Amiral Melchior, 56000 Lorient, depuis 1959.
 
-Timolor, 13, rue P.-Martin, 29200 Brest : depuis sa création.
+Timolor, 13, rue P.-Martin, 29200 Brest : depuis sa création jusqu'en 2000, puis Timolor, 32, rue Ingénieur-Verrière, 56100 Lorient : à partir de 2000.
 
 Timo Lor SARL :
 
@@ -992,7 +992,7 @@ Caillard Normandie/AFO (Ateliers français de l'Ouest) :
 
 - 76600 Le Havre : depuis 1928.
 
-CGT/CGM/SPIN/CMA-CGM/ARNO/COGER/SIREN (Société industrielle de réparation et d'entretien des navires), rue Bellot, BP 534, 76068 Le Havre Cedex, quai de l'Europe, 76600 Le Havre et route du Môle-Central, 76600 Le Havre : depuis 1955.
+CGT/CGM/SPIN/CMA-CGM/ARNO/COGER/SIREN (Société industrielle de réparation et d'entretien de navires), rue Bellot, BP 534, 76068 Le Havre, quai de l'Europe, 76600 Le Havre, et route du Môle-Central, 76600 Le Havre : depuis 1955, puis SORENI, route du Môle-Central, 76600 Le Havre : à partir du 1er novembre 2001.
 
 Chantier de Normandie/Chantiers réunis Dubigeon Normandie/AFO/ARNO/Ateliers de la Manche/Manche industrie marine/Manche SA :
 
@@ -1136,7 +1136,7 @@ SERMI :
 
 - 76600 Le Havre : depuis 1960.
 
-Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard , BP 4075, 76100 Rouen : de 1947 à 1997.
+Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard Boisguilbert, BP 4075, 76100 Rouen : de 1947 à 1997.
 
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome du Havre, 76600 Le Havre : depuis 1947.
 
@@ -1172,9 +1172,7 @@ TIM :
 
 TMT Industrie Le Havre ZI, 76430 Saint-Vigor-d'Ymonville. Depuis sa création.
 
-TMT/TMTM :
-
-- 76600 Le Havre et 76170 Lillebonne : depuis 1950.
+TMT/TMTM, 76600 Le Havre, et 76170 Lillebonne : depuis 1950 ; puis TMT SA : 76600 Le Havre, et chemin de la Darse, 76170 Lillebonne : à partir du 1er novembre 2001.
 
 TRAVISOL/NORISOLEC/ISOMARBAT :
 
@@ -1218,7 +1216,7 @@ Compagnie des sablières de la Seine (CSS). 18, avenue Pierre-Morin, 91270 Vigne
 
 Compagnie des sablières de la Seine (CSS). 2, route de Chatilon 91210 Draveil. De 1947 à 1989.
 
-Entrepose : 125, rue de Saussure, 75017 Paris Cedex 17, 15, rue Saint-Denis, 93120 La Courneuve : de 1950 à 1985.
+Entrepose, 125, rue du Saussure, 75017 Paris Cedex 17 : de 1950 à 1970, puis Entrepose, 15, rue Saint-Denis, 93120 La Courneuve : de 1970 à 1985.
 
 EREPS :
 
@@ -1430,6 +1428,8 @@ Delpierre :
 
 - rue de Moscou, 62100 Calais : jusqu'en 1988.
 
+DHIM, 35-36, rue Waldeck-Rousseau, 59210 Coudekerque-Branche : de 1970 à 1976
+
 Electro Entreprise du Nord :
 
 - 59140 Dunkerque : de 1960 à 1986.
@@ -1481,6 +1481,8 @@ Etablissements Decanter, 50-52, rue de Constantine, 62202 Boulogne-sur-Mer : dep
 Etablissements Degans Gustave :
 
 - quai des Américains, 59140 Dunkerque : de 1922 à 1987.
+
+Etablissements Delpierre, boulevard François-Levêque, 59153 Grand-Fort-Philippe : de 1964 à 1987.
 
 Etablissements Gendrot et compagnie, 34, boulevard Auguste-Huguet, 62200 Boulogne-sur-Mer : de 1965 à 1976.
 
@@ -1594,6 +1596,8 @@ Marine Services, 200, avenue Sarraz-Bournet, 62480 Le Portel : de 1985 à 1993.
 
 Masson père et fils 16 à 20, rue Saint-Vincent-de-Paul, 62200 Boulogne‑sur-Mer. De 1945 à 1978
 
+Mécanique énergie service, 22, quai de l'Ile-Jeanty, et 12, route de l'Ecluse-Trystam, 59140 Dunkerque : depuis 1988.
+
 Mer Gravelines :
 
 - quai Vauban, 59820 Gravelines : depuis 1980.
@@ -1630,7 +1634,13 @@ Peinture Industrie Décapage Marine (PIDM) :
 
 Perrault Jean. Boulevard Bigot-Descelers 62630 Etaples-sur-Mer. Depuis 1957 à 1985.
 
-Poussin-Nord, 35-36, rue Waldeck-Rousseau, 59210 Coudekerque-Branche, de 1976 à 1982.
+Pierre Senicourt, La Capelle-lès-Boulogne : de 1967 à 1974.
+
+Société des établissements Pierre Senicourt, La Capelle-lès-Boulogne, puis route nationale, 62240 Wirwignes : de 1974 à 1993.
+
+Etablissements Pierre Senicourt, route nationale, 62240 Wirwignes : de 1993 à 2002.
+
+Poussin-Nord, 35-36, rue Waldeck-Rousseau, 59210 Coudekerque-Branche, et rue de l'Albeck, ZI de Petite-Synthe, 59640 Dunkerque : de 1976 à 1982.
 
 Ridez Robert, Boulogne carénage/Boulogne carénage, Terlincthum, 62930 Wimereux : de 1966 à 1992.
 
@@ -1694,6 +1704,8 @@ SOCARENAM :
 
 - 2, rue Louis-Petit, 59220 Denain : depuis 1968.
 
+Société d'électricité industrielle calaisienne (SEIC), 51, route de Saint-Omer, 62100 Calais : de 1966 à 1992.
+
 Société d'exploitation et d'installations portuaires (SEIP) :
 
 - avenue de l'Université, 59140 Dunkerque : depuis 1987.
@@ -1746,6 +1758,8 @@ STII :
 
 - rue Louis-Blanqui, 59760 Grande-Synthe : depuis 1991.
 
+STILM (Société tuyauterie industrielle littoral mécanique), 36, rue du Gouvernement, 59140 Dunkerque : de 1983 à 1987.
+
 STIMA France SA :
 
 - 38, boulevard Sainte-Barbe, 59140 Dunkerque : depuis 1986.
@@ -1775,3 +1789,5 @@ Vanborren :
 Weizsaecker et Carrière Industrie (WCI) :
 
 - 30, rue Lenghenaer, 59140 Dunkerque : depuis 1930.
+
+Whessoe, rue de Bitche, 62100 Calais : de 1961 à 1995.
