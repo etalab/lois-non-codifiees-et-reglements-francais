@@ -1,0 +1,3 @@
+# Article 4
+
+La durée de ces prêts est au maximum de quinze ans. Leur montant maximum ainsi que les taux de bonification sont fixés par arrêté conjoint du ministre de l'économie, des finances et du budget, du ministre de l'agriculture et du ministre du commerce et de l'artisanat, en distinguant entre les prêts destinés à financer les investissements liés à la création d'une entreprise ou d'un groupement visé à l'article 2 du présent décret ainsi qu'à leur développement lorsque celui-ci s'accompagne de la création d'emplois et les autres prêts qui peuvent être affectés à toute opération mentionnée à l'article précédent.
