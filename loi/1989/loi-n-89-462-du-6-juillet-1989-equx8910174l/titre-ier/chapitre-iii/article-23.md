@@ -6,7 +6,7 @@ Les charges récupérables, sommes accessoires au loyer principal, sont exigible
 
 2° Des dépenses d'entretien courant et des menues réparations sur les éléments d'usage commun de la chose louée ;
 
-3° Du droit de bail et des impositions qui correspondent à des services dont le locataire profite directement.
+3° De la contribution annuelle représentative du droit de bail et des impositions qui correspondent à des services dont le locataire profite directement.
 
 La liste de ces charges est fixée par décret en Conseil d'Etat.
 
