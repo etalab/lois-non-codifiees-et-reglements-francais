@@ -1,3 +1,0 @@
-# Article 11
-
-Le Théâtre national de Chaillot est placé sous la tutelle du ministre des affaires culturelles qui veille à la conformité des activités de l'établissement en matière de création et de diffusion culturelles avec les grandes orientations définies à l'article 2 du présent décret ; à cet effet, le ministre chargé des affaires culturelles approuve le programme artistique de la saison et les modifcations apportées à ce programme en cours de saison. Conjointement avec le ministre de l'économie et des finances, il approuve le budget de l'établissement, ses modifications éventuelles en cours d'exercice ainsi que le compte financier et le bilan.

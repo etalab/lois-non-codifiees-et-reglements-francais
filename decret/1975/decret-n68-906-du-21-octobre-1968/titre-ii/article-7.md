@@ -1,17 +1,19 @@
 # Article 7
 
-La commission consultative d'exploitation du Théâtre national de Chaillot  comprend:
+Le conseil d'administration comprend, outre le directeur, qui le préside :
 
-1o Le directeur du Théâtre national de Chaillot,  président;
+1°  Deux membres de droit : le directeur de la musique, de la danse, du théâtre et  des spectacles ou son représentant et le directeur de l'administration générale  au ministère chargé de la culture ou son représentant ;
 
-2o Le directeur du théâtre et des spectacles et le  directeur de l'administration générale au ministère chargé de la culture ou  leurs représentants;
+2° Un représentant de  l'inspection de la création et des enseignements artistiques désigné par le  ministre chargé de la culture ;
 
-3o L'administrateur du Théâtre national de  Chaillot;
+3° Trois personnalités qualifiées dans le  domaine culturel désignées par arrêté du ministre chargé de la culture ;
 
-4o Trois représentants du personnel du Théâtre national de  Chaillot dont le mandat est de trois ans et peut être renouvelé, comprenant un  représentant du personnel artistique, un représentant des cadres et un  représentant du personnel administratif et technique, élus dans les conditions  fixées par arrêté du ministre chargé de la culture; en cas d'absence de  personnel artistique permanent, le personnel administratif et technique élit  deux représentants;
+4°  Trois représentants des personnels permanents de l'établissement, dont un  représentant du personnel artistique, un représentant des cadres et un  représentant du personnel administratif et technique, élus dans des conditions  fixées par arrêté du ministre chargé de la culture ; en cas d'absence de  personnel artistique permanent, le personnel administratif et technique élit  deux représentants.
 
-5o Trois personnalités qualifiées dans le domaine  de la diffusion, de la recherche, de la création et de l'esthétique théâtrale  désignées par arrêté du ministre chargé de la culture. Leur mandat est de trois  ans et peut être renouvelé.
+Pour chacun des membres mentionnés aux 2° et 4°, un  suppléant est désigné dans les mêmes conditions que le titulaire, afin de le  remplacer en cas d'empêchement.
 
-Le fonctionnaire chargé du contrôle  financier assiste aux séances.
+Le mandat des membres autres que les membres  de droit est de de trois ans renouvelable. En cas de vacance, pour quelque cause  que ce soit, survenant plus de trois mois avant l'expiration du mandat d'un de  ces membres, un remplaçant est désigné ou élu dans les mêmes conditions, pour la  durée du mandat restant à courir.
 
-En cas de démission ou de décès d'un  membre, celui-ci est remplacé par un nouveau membre qui exerce son mandat pour  une durée égale à celle qui restait à courir pour le membre remplacé.
+L'administrateur, le directeur artistique,  le contrôleur d'Etat et l'agent comptable, ainsi que toute personne dont le  président souhaite recueillir l'avis, assistent aux séances du conseil avec voix  consultative.
+
+Les membres du conseil d'administration exercent leurs  fonctions à titre gratuit. Toutefois, leurs frais de déplacement et de séjour  peuvent être remboursés dans les conditions prévues par la réglementation  applicable aux fonctionnaires de l'Etat.
