@@ -1,0 +1,3 @@
+# Article 2
+
+Les dispositions des articles 1er, 2, 3, 4.1, 4.3, 5 à 17, 18.1, 18.2 (sauf le dernier alinéa), 18.4 à 18.7, 19, 21.1, 21.2 (première phrase), 22.1, 22.2 (sauf deuxième phrase), 23.1, 23.2 (sauf deuxième phrase), 24 à 27, 31, 32, 33 et des annexes au règlement n° 1274/91 de la Commission des communautés européennes du 15 mai 1991 constituent les mesures d'exécution prévues à l'article L. 214-1 du code de la consommation ; il en est de même des dispositions, ayant le même objet, des règlements communautaires qui les modifieraient ou seraient pris pour leur application dans la mesure où elles entrent dans les prévisions dudit article L. 214-1.
