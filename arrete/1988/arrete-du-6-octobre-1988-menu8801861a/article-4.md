@@ -1,6 +1,6 @@
 # Article 4
 
-Le directeur général du centre hospitalier régional et le directeur de l'unité de formation et de recherche demandent la communication du bulletin n° 2 du casier judiciaire de chaque candidat afin de vérifier :
+Le directeur général du centre hospitalier régional et le directeur de l'unité de formation et de recherche demandent la communication du bulletin n° 2 du casier judiciaire de chaque candidat ou d'un document équivalent pour les ressortissants des Etats membres de la Communauté économique européenne afin de vérifier :
 
 - qu'il jouit de ses droits civiques ;
 
