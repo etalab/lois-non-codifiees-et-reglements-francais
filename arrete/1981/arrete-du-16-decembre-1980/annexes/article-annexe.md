@@ -10,9 +10,11 @@ NF A 36-205 :
 
 2° Edition d'avril 1979, à l'exclusion des aciers A 52 CPR, APR et FPR.
 
+3° Edition de juillet 1982.
+
 NF A 36-206 (juillet 1978).
 
-NF A 36-207 (avril 1979).
+NF A 36-207 (avril 1979 ou juillet 1982), à l'exclusion des aciers de la qualité FP 1.
 
 NF A 36-208 (décembre 1979), à l'exclusion de la nuance 9 NL.
 
