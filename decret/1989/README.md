@@ -1,5 +1,6 @@
 # 1989
 
+- [Décret n°67-759 du 1 septembre 1967](decret-n67-759-du-1-septembre-1967)
 - [Décret n°89-609 du 1 septembre 1989 (SPSH8901734D)](decret-n89-609-du-1-septembre-1989-spsh8901734d)
 - [Décret n°89-610 du 1 septembre 1989 (SPSH8901735D)](decret-n89-610-du-1-septembre-1989-spsh8901735d)
 - [Décret n°89-611 du 1 septembre 1989 (SPSH8901731D)](decret-n89-611-du-1-septembre-1989-spsh8901731d)
