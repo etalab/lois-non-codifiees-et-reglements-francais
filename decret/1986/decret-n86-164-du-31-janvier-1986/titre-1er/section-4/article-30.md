@@ -1,0 +1,3 @@
+# Article 30
+
+Dans les collèges et les lycées comportant une ou plusieurs sections internationales, il est institué un conseil de section internationale. Ce conseil exerce les compétences consultatives prévues à l'article 8 du décret n° 81-594 du 11 mai 1981 susvisé et est composé conformément aux dispositions de ce même article. Toutefois s'agissant de la représentation des collectivités locales au sein de cette instance, celle-ci comprendra, tant pour les collèges que pour les lycées, un représentant de la commune siège ou du groupement de communes concernées siégeant au conseil d'administration et, respectivement pour les collèges et pour les lycées, le représentant du conseil général ou le représentant du conseil régional siégeant au conseil d'administration.

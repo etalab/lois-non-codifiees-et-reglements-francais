@@ -1,0 +1,5 @@
+# Article 4
+
+Les entreprises qui produisent à la fois des accessoires du vêtement et des ceintures de maroquinerie relevant respectivement des groupes 47-09 et 45-21 de la nomenclature détaillée de produits approuvée par le décret du 5 septembre 1983 susvisé peuvent, en ce qui concerne l'ensemble des ventes de ces articles, demander à être soumises soit à la taxe instituée par le présent décret, soit à la taxe sur les cuirs instituée par le décret n° 86-162 du 4 février 1986 créant une taxe parafiscale commune au comité interprofessionnel de développement des industries du cuir et au centre technique Cuir, chaussure, maroquinerie, si les ventes des produits de l'un ou de l'autre groupe pour lequel l'option est demandée représentent plus de 30 p. 100 de leur chiffre d'affaires total.
+
+Cette option, formulée sur papier libre est adressée à la fois aux services locaux des impôts et aux deux comités professionnels intéressés dans un délai de deux mois à compter de la date de publication du présent décret, est valable pour une période de deux ans renouvelable.
