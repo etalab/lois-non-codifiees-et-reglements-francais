@@ -30,4 +30,4 @@ Echelons : 2
 
 Ancienneté conservée : Ancienneté acquise dans le limite de 4 ans.
 
-L'effectif des agents techniques d'entretien principaux ne doit pas représenter plus de 10 p. 100 de l'effectif total du corps. Toutefois, lorsque cet effectif total est inférieur à 10 et supérieur ou égal à 3, une nomination peut être prononcée.
+L'effectif des agents techniques d'entretien principaux dans un établissement ne peut excéder 15 % de l'effectif total du corps de l'établissement. Une nomination peut être prononcée dans ce grade lorsque le résultat de l'application de ce pourcentage est inférieur à un et qu'il n'existe aucun titulaire de ce grade dans l'établissement.

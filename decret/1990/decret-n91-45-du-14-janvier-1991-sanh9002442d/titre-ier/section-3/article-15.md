@@ -30,4 +30,4 @@ Echelon : 2e
 
 Ancienneté conservée : Ancienneté acquise dans la limite de 4 ans.
 
-L'effectif des maîtres ouvriers principaux ne doit pas représenter plus de 10 p. 100 de l'effectif total du corps. Toutefois, lorsque cet effectif total est inférieur à dix et supérieur ou égal à trois, une nomination peut être prononcée.
+L'effectif des maîtres ouvriers principaux dans un établissement ne peut excéder 15 % de l'effectif total du corps de l'établissement. Une nomination peut être prononcée dans ce grade lorsque le résultat de l'application de ce pourcentage est inférieur à un et qu'il n'existe aucun titulaire de ce grade dans l'établissement.

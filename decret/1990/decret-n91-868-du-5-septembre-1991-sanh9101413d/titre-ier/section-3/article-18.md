@@ -36,8 +36,8 @@ Ancienneté : ancienneté acquise dans la limite de 4 ans.
 
 Dans le grade de dessinateur principal, l'ancienneté moyenne pour accéder à l'échelon supérieur est de trois ans dans le 1er échelon et de quatre ans dans le 2e échelon.
 
-Le nombre des dessinateurs principaux ne peut être supérieur à 10 p. 100 de l'effectif du corps des dessinateurs ou à un agent lorsque cet effectif est égal ou supérieur à trois et inférieur à dix.
+Le nombre des dessinateurs principaux dans un établissement ne peut excéder 15 % de l'effectif du corps de l'établissement. Une nomination peut être prononcée dans ce grade lorsque le résultat de l'application de ce pourcentage est inférieur à un et qu'il n'existe aucun titulaire de ce grade dans l'établissement.
 
 II. - Peuvent être nommés au grade de dessinateur chef de groupe, dans les conditions prévues au 1° de l'article 69 du titre IV du statut général des fonctionnaires, les dessinateurs ayant atteint le 6e échelon de leur grade.
 
-Le nombre des dessinateurs chefs de groupe ne peut être supérieur à 25 p. 100 de l'effectif du corps des dessinateurs ou à un agent lorsque cet effectif est inférieur à quatre.
+Le nombre des dessinateurs chefs de groupe dans un établissement ne peut excéder 30 % de l'effectif du corps de l'établissement. Une nomination peut être prononcée dans ce grade lorsque le résultat de l'application de ce pourcentage est inférieur à un et qu'il n'existe aucun titulaire de ce grade dans l'établissement.

@@ -30,4 +30,4 @@ Echelon : 2e
 
 Ancienneté conservée : Ancienneté acquise dans la limite de quatre ans.
 
-L'effectif des chefs de garage principaux ne peut être supérieur à 10 p. 100 de l'effectif total du grade de conducteur ambulancier de 1re catégorie et du corps des chefs de garage. Toutefois, lorsque cet effectif est inférieur à dix et supérieur ou égal à trois, une nomination peut être prononcée.
+L'effectif des chefs de garage principaux dans un établissement ne peut excéder 15 % de l'effectif total du grade de conducteur ambulancier de 1re catégorie et du corps des chefs de garage de l'établissement. Une nomination peut être prononcée dans ce grade lorsque le résultat de l'application de ce pourcentage est inférieur à un et qu'il n'existe aucun titulaire de ce grade dans l'établissement.
