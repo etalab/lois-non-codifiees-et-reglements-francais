@@ -1,0 +1,3 @@
+# Article 3
+
+Dans le cas où la contestation de la victime portant sur l'état d'incapacité tel qu'il est visé à l'article précédent fait apparaître des difficultés d'ordre médical relatives au caractère professionnel d'une lésion, la commission se prononce par une même décision sur le caractère professionnel de la lésion et sur le taux de l'incapacité de travail, à condition que ce caractère professionnel n'ait pas fait l'objet d'une décision encore susceptible de recours et qu'il ne soit pas l'objet d'un litige soumis à une autre juridiction ou à l'expertise effectuée dans les conditions fixées par l'article R. 144-24 du code de la sécurité sociale.
