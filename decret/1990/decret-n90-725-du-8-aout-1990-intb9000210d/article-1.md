@@ -8,9 +8,9 @@ L'examen professionnel d'accès au grade d'ingénieur subdivisionnaire, mentionn
 
 2° Etablissement d'un projet ou étude sur l'une des matières suivantes, au choix du candidat (durée quatre heures ; coefficient 4) :
 
-a) pour les candidats à l'examen professionnel mentionné au 1° de l'article 8 susvisé    " Etablissement d'un projet ou étude relatif aux activités d'un service technique, d'un laboratoire d'analyses chimiques ou d'analyses des eaux ou d'un groupe de services techniques. "
+a) pour les candidats à l'examen professionnel mentionné au 1° de l'article 8 susvisé    " Etablissement d'un projet ou étude relatif aux activités d'un service technique, d'un laboratoire d'analyses chimiques ou d'analyses des eaux ou d'un groupe de services techniques (durée :
 
-- eau et assainissement ;
+quatre heures ; coefficient 4)    - eau et assainissement ;
 
 - bâtiment ;
 
@@ -30,7 +30,7 @@ a) pour les candidats à l'examen professionnel mentionné au 1° de l'article 8
 
 - organisation et méthodes de gestion.
 
-b) pour les candidats à l'examen professionnel mentionné au 2° de l'article 8 susvisé :
+b) pour les candidats à l'examen professionnel mentionné au 4° de l'article 8 susvisé :
 
 2° Epreuves orales
 
