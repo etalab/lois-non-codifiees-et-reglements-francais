@@ -2,22 +2,24 @@
 
 Les concours comportent les épreuves énumérées ci-après :
 
-A - Epreuves écrites :
+A. - Epreuves écrites :
 
-1) De radiothérapie (durée : deux heures).
+1) Chimie-biologie (durée : deux heures ; coefficient 2).
 
-2) De radiodiagnostic (durée : deux heures).
+2) Bactériologie (durée : deux heures ; coefficient 2).
 
-B - Epreuves orales :
+B. - Epreuves orales :
 
-1) D'électro-physiothérapie (durée : dix minutes au plus).
+1) Une interrogation d'anatomopathologie (durée 15 minutes maximum ; coefficient 1).
 
-2) De physique radiologique et de formation professionnelle (durée : dix minutes au plus).
+2) Une interrogation d'immunologie (durée 15 minutes maximum ; coefficient 1).
 
-C - Epreuves pratiques :
+C. - Epreuves pratiques :
 
-1) De radiothérapie (durée : quinze minutes au plus).
+1) De chimie biologique (durée : 4 heures ; coefficient 3).
 
-2) De radiodiagnostic comportant la prise effective d'un cliché (durée : quinze minutes au plus).
+2) De bactériologie (durée : 4 heures ; coefficient 3).
 
-Les épreuves sont choisies par le jury dans le programme limitatif annexé au présent arrêté.
+3) D'hématologie, (durée : une heure trente ; coefficient 2).
+
+Les épreuves sont choisies par le jury dans le programme annexé au présent arrêté.
