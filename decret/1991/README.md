@@ -42,6 +42,7 @@
 - [Décret n°90-1254 du 21 décembre 1990 (TEFT9003987D)](decret-n90-1254-du-21-decembre-1990-teft9003987d)
 - [Décret n°90-1255 du 21 décembre 1990 (SPSS9002168D)](decret-n90-1255-du-21-decembre-1990-spss9002168d)
 - [Décret n°90-1256 du 21 décembre 1990 (EQUT9000687D)](decret-n90-1256-du-21-decembre-1990-equt9000687d)
+- [Décret n°90-1263 du 21 décembre 1990 (INTB9000349D)](decret-n90-1263-du-21-decembre-1990-intb9000349d)
 - [Décret n°91-191 du 21 février 1991 (TOUR9004558D)](decret-n91-191-du-21-fevrier-1991-tour9004558d)
 - [Décret n°91-84 du 21 janvier 1991 (PTTA9100001D)](decret-n91-84-du-21-janvier-1991-ptta9100001d)
 - [Décret n°90-502 du 22 juin 1990 (JUSB9010205D)](decret-n90-502-du-22-juin-1990-jusb9010205d)
