@@ -1,5 +1,49 @@
 # Article 1
 
-Pour bénéficier des subventions prévues par le II de l'article 5 du décret du 16 juin 1959 relatif au soutien financier de l'Etat à l'industrie cinématographique, l'entreprise de production doit déclarer [*obligation*] au Centre national de la cinématographie toute diffusion de l'oeuvre cinématographique par un service de communication audiovisuelle soumis à la taxe et au prélèvement institués par l'article 36, modifié de la loi n° 83-1179 du 29 décembre 1983. Pour être prise en compte, la déclaration précitée doit intervenir dans un délai de six mois à compter de la diffusion.
+Pour l'exercice des missions qui lui sont confiées par l'article 8 du décret du 3 décembre 1979 susvisé, le comité des archives de la défense, placé sous la présidence du secrétaire général pour l'administration du ministère de la défense, comprend les membres permanents suivants :
 
-A titre transitoire, pour les oeuvres diffusées entre le 1er janvier 1986 et la date de publication du présent arrêté, la déclaration doit intervenir dans un délai de six mois à compter de cette publication.
+Le directeur de l'administration générale du ministère de la défense, vice-président, qui supplée le président en cas d'absence ou d'empêchement ;
+
+Le directeur général des Archives de France ou son représentant.
+
+Les représentants des autorités énumérées ci-après :
+
+- le secrétaire général de la défense nationale ;
+
+- le délégué général pour l'armement ;
+
+- le chef d'état-major de l'armée de terre ;
+
+- le chef d'état-major de la marine ;
+
+- le chef d'état-major de l'armée de l'air ;
+
+- le chef du contrôle général des armées ;
+
+- le directeur général de la gendarmerie nationale ;
+
+- le directeur des services financiers du ministère de la défense ;
+
+- le directeur de la fonction militaire et des relations sociales ;
+
+- le chef du service historique de l'armée de terre ;
+
+- le chef du service historique de la marine ;
+
+- le chef du service historique de l'armée de l'air ;
+
+- le directeur des archives diplomatiques du ministère des affaires étrangères ;
+
+- le chef du service d'information et de relations publiques des armées.
+
+L'adjoint au directeur de l'administration générale du ministère de la défense.
+
+Un ou plusieurs professeurs de l'enseignement supérieur désignés en accord avec le ministre de l'éducation nationale.
+
+Un représentant de l'administrateur général de la Bibliothèque nationale, compétent en matière d'audiovisuel.
+
+Un archiviste départemental désigné en accord avec le directeur général des Archives de France.
+
+Un conservateur d'archives du ministère de la défense assure les fonctions de rapporteur.
+
+En outre, en fonction des activités du comité, le président peut inviter d'autres personnalités à participer aux travaux soit à titre consultatif, soit en qualité de rapporteur.

@@ -417,6 +417,8 @@
 - [Décret n°89-804 du 27 octobre 1989 (PRME8961361D)](decret-n89-804-du-27-octobre-1989-prme8961361d)
 - [Décret n°89-805 du 27 octobre 1989 (PRME8961350D)](decret-n89-805-du-27-octobre-1989-prme8961350d)
 - [Décret n°89-809 du 27 octobre 1989 (INTB8900322D)](decret-n89-809-du-27-octobre-1989-intb8900322d)
+- [Décret n°89-860 du 27 novembre 1989 (JUSB8910282D)](decret-n89-860-du-27-novembre-1989-jusb8910282d)
+- [Décret n°89-861 du 27 novembre 1989 (TEFT8903888D)](decret-n89-861-du-27-novembre-1989-teft8903888d)
 - [Décret n°90-195 du 27 février 1990 (ACVE8950019D)](decret-n90-195-du-27-fevrier-1990-acve8950019d)
 - [Décret n°88-1198 du 28 décembre 1988 (TEFT8804170D)](decret-n88-1198-du-28-decembre-1988-teft8804170d)
 - [Décret n°88-1270 du 28 décembre 1988 (SPSP8801825D)](decret-n88-1270-du-28-decembre-1988-spsp8801825d)

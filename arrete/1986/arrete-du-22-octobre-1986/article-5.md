@@ -1,5 +1,5 @@
 # Article 5
 
-Le présent arrêté abroge l'arrêté du 3 juillet 1984.
+Le comité se réunit à l'initiative de son président au moins une fois par an en formation plénière.
 
-Il s'applique aux départements d'outre-mer dans les conditions prévues à l'article 1er ci-dessus.
+Le cabinet du ministre est tenu informé de l'ordre du jour et peut désigner un observateur.
