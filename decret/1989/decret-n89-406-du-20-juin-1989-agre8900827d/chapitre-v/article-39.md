@@ -1,33 +1,13 @@
 # Article 39
 
-L'Etat supporte les charges sociales incombant à l'employeur qui comportent :
+I. - L'Etat supporte les charges sociales incombant à l'employeur qui comportent :
 
 a) Les cotisations instituées par les titres II, III et V du livre septième du code rural ;
 
-b) Les cotisations versées par l'Etat à une institution de retraite complémentaire choisie par l'association ou l'organisme responsable de l'établissement s'établissent :
+b) Les cotisations versées à une institution de retraite complémentaire choisie par l'association ou l'organisme responsable de l'établissement au taux de 4,80 % sur la tranche de rémunération inférieure ou égale au plafond de la sécurité sociale et au taux de 10 % sur la tranche de rémunération supérieure au plafond de la sécurité sociale.
 
-- sur la tranche de rémunération inférieure ou égale au plafond de la sécurité sociale, aux taux et selon le calendrier suivant :
+II. - Outre les cotisations prévues en ce qui les concerne par le a du I ci-dessus, les enseignants versent des cotisations à une institution de retraite complémentaire au taux de 3,20 % sur la tranche de rémunération inférieure ou égale au plafond de la sécurité sociale et de 6 % sur la tranche de rémunération supérieure au plafond de la sécurité sociale.
 
-- avant le 1er janvier 1993 : 3,66 p. 100 ;
+III. - Toutefois, le montant des cotisations ainsi calculées ne peut être inférieur au minimum permettant de garantir l'ouverture des droits à retraite complémentaire auprès d'une caisse rattachée à l'association générale des institutions de retraites des cadres.
 
-- à compter du 1er janvier 1993 : 4,08 p. 100 ;
-
-- à compter du 1er janvier 1994 : 4,44 p. 100 ;
-
-- à compter du 1er janvier 1995 : 4,80 p. 100 ;
-
-- sur la tranche de rémunération supérieure au plafond de la sécurité sociale : 9 p. 100.
-
-c) Les cotisations incombant aux enseignants contractuels sur la tranche de rémunération inférieure ou égale au plafond de la sécurité sociale s'établissent respectivement au taux de :
-
-- avant le 1er janvier 1993 : 2,44 p. 100 ;
-
-- à compter du 1er janvier 1993 : 2,72 p. 100 ;
-
-- à compter du 1er janvier 1994 : 2,96 p. 100 ;
-
-- à compter du 1er janvier 1995 : 3,20 p. 100.
-
-Le taux applicable sur la partie des rémunérations supérieure au plafond de la sécurité sociale est de 5 p. 100.
-
-A ces taux contractuels s'ajoutent éventuellement et dans les mêmes proportions les majorations décidées au titre de la fixation des taux d'appel de cotisation par l'association des régimes de retraites complémentaires et, le cas échéant, par l'association générale des institutions de retraites des cadres.
+A ces montants s'ajoutent, le cas échéant, les majorations permettant l'affiliation aux régimes de retraite complémentaire obligatoires. Un arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé du budget fixe le montant de ces majorations.
