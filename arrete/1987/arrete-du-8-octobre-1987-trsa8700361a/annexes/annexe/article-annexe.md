@@ -14,19 +14,29 @@ Toutefois, pour les aéronefs uniquement exploités dans les territoires et dép
 
 1.2. Navigation
 
-1.2.1. Navigation en route.
+1.2.1 Navigation en route.
 
-Tout aéronef doit être équipé d'un système de navigation dont la précision latérale lui permet, pendant plus de 95 p. 100 du temps, de suivre l'axe nominal d'une route balisée par deux moyens radioélectriques consécutifs sans s'en écarter au delà d'une distance D, définie ci-après :
+1.2.1.1.
 
-- cas des routes de longueur  100 nM : D = 5 nM ;
+Tout aéronef doit être équipé d'un système de navigation dont la précision latérale lui permet, pendant plus de 95 % du temps, de suivre l'axe nominal d'une route balisée par deux moyens radioélectriques consécutifs sans s'en écarter au-delà d'une distance D, définie ci-après :
 
-- autres routes : D = 5 p. 100 de la longueur de la route.
+- cas des routes dont la longueur est inférieure à 100 milles nautiques (NM) : D = 5 milles nautiques (NM) ;
 
-En espace aérien supérieur et dans certaines portions désignées de l'espace aérien inférieur, tout aéronef doit être équipé d'un système lui permettant de connaître sa distance par rapport à un point de référence avec une précision au moins équivalente à celle donnée par un dispositif de mesure de distance DME.
+- cas des autres routes : D = 5 % de la longueur de la route.
+
+1.2.1.2.
+
+Pour voler en espace aérien supérieur et dans certaines portions désignées de l'espace aérien inférieur, tout aéronef doit être équipé d'un dispositif de mesure de distance de type DME ou donnant une précision au moins équivalente.
+
+1.2.1.3.
+
+Sur les routes désignées RNAV et dans l'espace aérien de la France métropolitaine au-dessus du niveau de vol qui sera porté à la connaissance des usagers par la voie de l'information aéronautique, tout aéronef doit être équipé d'un système de navigation dont la précision latérale lui permet, pendant plus de 95 % du temps, de suivre l'axe nominal de la route sans s'en écarter au-delà d'une distance de 5 milles nautiques (NM) ou, pour des portions d'espaces ou des tronçons d'itinéraires désignés, d'une distance supérieure publiée par la voie de l'information aéronautique.
+
+Les aéronefs d'Etat sont exemptés de cette obligation d'équipement. Ils doivent alors se conformer aux procédures particulières prévues à cet effet.
 
 1.2.2. Approche.
 
-Tout aéronef doit être capable, sur le terrain de destination et sur le (ou les) terrain(s) de dégagement, de suivre au moins une procédure d'approche publiée ou approuvée (cas d'une procédure particulière à un exploitant).
+Tout aéronef doit être capable, sur le terrain de destination n et sur le (ou les) terrain(s) de dégagement, de suivre au moins une procédure d'approche publiée ou approuvée (cas d'une procédure particulière à un exploitant).
 
 A cet effet il doit disposer des équipements de bord lui permettant d'exploiter tous les moyens radioélectriques sur lesquels est établie la procédure.
 
