@@ -1,3 +1,5 @@
 # Article 1
 
-Le montant de la contribution dont la Caisse nationale d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles est redevable en couverture des frais de mise en place des opérations de précompte exposés en 1985 par les organismes d'assurance vieillesse mentionnés à l'article D. 612-21 du code de la sécurité sociale est fixé à 5 p. 100 du montant des cotisations précomptées par chacun de ces organismes sur les arrérages des allocations et pensions de vieillesse versées par lesdits organismes au titre du troisième et du quatrième trimestre 1985.
+Par arrêté du ministre de l'éducation nationale en date du 7 mai 1986, l'Institut supérieur privé des sciences techniques et économie commerciales de Paris, établissement d'enseignement technique supérieur privé reconnu par l'Etat, est autorisé à délivrer un diplôme visé du ministre de l'éducation nationale, conformément aux dispositions de l'arrêté du 15 février 1921 relatif aux diplômes et certificats délivrés par les écoles reconnues par l'Etat et suivant les conditions fixées par le règlement pédagogique joint audit arrêté (1).
+
+(1) Le règlement pédagogique peut être consulté auprès de l'établissement, 24, rue Hamelin, 75016 Paris.
