@@ -14,7 +14,7 @@ b) Fixation des grades
 
 dans lesquels les listes ont des représentants titulaires
 
-La liste ayant droit au plus grand nombre de sièges choisit chacun d'eux dans un grade différent sous réserve de ne pas empêcher par son choix une autre liste d'obtenir le nombre de sièges auxquels elle a droit dans les grades pour lesquels elle avait présenté des candidats.
+La liste ayant droit au plus grand nombre de sièges choisit les sièges de titulaires qu'elle souhaite se voir attribuer sous réserve de ne pas empêcher par son choix une autre liste d'obtenir le nombre de sièges auxquels elle a droit dans les grades pour lesquels elle avait présenté des candidats. Elle ne peut toutefois choisir d'emblée plus d'un siège dans chacun des grades pour lesquels elle a présenté des candidats que dans le cas où aucune liste n'a présenté de candidats pour le ou les grades considérés.
 
 Les autres listes exercent ensuite leur choix successivement dans l'ordre décroissant du nombre de sièges auxquels elles peuvent prétendre, dans les mêmes conditions et sous les mêmes réserves. En cas d'égalité du nombre des sièges obtenus, l'ordre des choix est déterminé par le nombre respectif de suffrages obtenu par les listes en présence. En cas d'égalité du nombre des suffrages, l'ordre des choix est déterminé par voie de tirage au sort.
 

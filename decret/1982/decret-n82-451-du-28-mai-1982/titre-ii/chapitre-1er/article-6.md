@@ -1,7 +1,11 @@
 # Article 6
 
-Le nombre des représentants du personnel est de deux membres titulaires et deux membres suppléants pour chacun des grades du corps auquel correspond la commission administrative.
+Le nombre des représentants du personnel est défini comme suit :
 
-Toutefois, lorsque le nombre des fonctionnaires d'un même grade est inférieur à vingt, le nombre des représentants du personnel pour ce grade est réduit à un membre titulaire et un membre suppléant.
+1° Lorsque le nombre de fonctionnaires d'un même grade est inférieur à vingt, le nombre de représentants du personnel pour ce grade est de un membre titulaire et de un membre suppléant ;
 
-Lorsqu'il s'agit d'un corps à grade unique dont l'effectif est supérieur à mille, le nombre des représentants est porté à quatre membres titulaires et quatre membres suppléants.
+2° Lorsque le nombre de fonctionnaires d'un même grade est supérieur ou égal à vingt et inférieur à mille, le nombre de représentants du personnel pour ce grade est de deux membres titulaires et de deux membres suppléants ;
+
+3° Lorsque le nombre de fonctionnaires d'un même grade est supérieur ou égal à mille et inférieur à cinq mille, le nombre de représentants du personnel pour ce grade est de trois membres titulaires et de trois membres suppléants ;
+
+4° Lorsque le nombre de fonctionnaires d'un même grade est supérieur ou égal à cinq mille ou lorsqu'il s'agit d'un corps à grade unique dont l'effectif est supérieur ou égal à mille, le nombre de représentants du personnel est de quatre membres titulaires et de quatre membres suppléants.
