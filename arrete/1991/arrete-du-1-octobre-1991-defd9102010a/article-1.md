@@ -58,14 +58,16 @@ Commandant du centre d'instruction du service des essences des armées ;
 
 Directeur du laboratoire du service des essences des armées.
 
-V. - Délégation générale pour l'armement (- hors compte de commerce : pour tous les matériels : - en compte de commerce : pour les matériels approvisionnés sur crédits budgétaires) :
+V. Délégation générale pour l'armement (hors compte de commerce : pour tous les matériels ; en compte de commerce : pour les matériels approvisionnés sur crédits budgétaires) :
 
-Directeur d'établissement;
+Directeur d'établissement ;
 
-Directeur de centre d'essai;
+Directeur de centre d'essais ;
 
-Directeur d'école;
+Directeur du centre d'enseignement et de formation ;
 
-Chef du service de la surveillance industrielle de l'armement.
+Directeur de centre de formation ;
+
+Chef du service de la qualité.
 
 VI. - Directeurs d'organisme ou d'établissement relevant directement d'une direction ou d'un service central.
