@@ -1,5 +1,6 @@
 # 1970
 
+- [Décret n°70-609 du 2 juillet 1970](decret-n70-609-du-2-juillet-1970)
 - [Décret n°70-301 du 3 avril 1970](decret-n70-301-du-3-avril-1970)
 - [Décret n°70-380 du 4 mai 1970](decret-n70-380-du-4-mai-1970)
 - [Décret n°70-482 du 5 juin 1970](decret-n70-482-du-5-juin-1970)
