@@ -7,6 +7,7 @@
 - [Loi n° 87-1158 du 31 décembre 1987 (ECOX8700151L)](loi-n-87-1158-du-31-decembre-1987-ecox8700151l)
 - [Loi n° 87-517 du 10 juillet 1987 (ASEX8700081L)](loi-n-87-517-du-10-juillet-1987-asex8700081l)
 - [Loi n° 88-1128 du 20 décembre 1988 (MAEX8800120L)](loi-n-88-1128-du-20-decembre-1988-maex8800120l)
+- [Loi n° 88-1138 du 20 décembre 1988 (SPSX8810045L)](loi-n-88-1138-du-20-decembre-1988-spsx8810045l)
 - [Loi n° 88-12 du 5 janvier 1988 (CLRX8700126L)](loi-n-88-12-du-5-janvier-1988-clrx8700126l)
 - [Loi n° 88-13 du 5 janvier 1988 (INTX8700039L)](loi-n-88-13-du-5-janvier-1988-intx8700039l)
 - [Loi n° 88-14 du 5 janvier 1988 (ECOX8700025L)](loi-n-88-14-du-5-janvier-1988-ecox8700025l)
