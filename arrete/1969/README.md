@@ -15,3 +15,4 @@
 - [Arrêté du 26 septembre 1969](arrete-du-26-septembre-1969)
 - [Arrêté du 27 septembre 1969](arrete-du-27-septembre-1969)
 - [Arrêté du 29 juillet 1969](arrete-du-29-juillet-1969)
+- [Arrêté du 29 octobre 1969](arrete-du-29-octobre-1969)
