@@ -1,3 +1,9 @@
 # Article 2
 
-En cas d'infraction à la réglementation relative aux épaves maritimes, les procès-verbaux sont dressés par l'administrateur de l'inscription maritime et transmis par lui au procureur de la République. En vue de la découverte des épaves, l'administrateur de l'inscription maritime entend les témoins et procède lui-même à toutes visites domiciliaires et perquisitions ou délègue à ces fins un officier de police judiciaire.
+L'administrateur des affaires maritimes et, dans les ports maritimes, les officiers de port et les officiers de port adjoints sont habilités à constater par procès-verbaux les infractions aux dispositions de la présente loi et les décrets pris pour son application. L'administrateur des affaires maritimes ne peut intervenir dans les ports militaires qu'à la demande du préfet maritime ou du commandant de la marine.
+
+L'administrateur des affaires maritimes peut, en vue de découvrir des épaves, procéder à des visites domiciliaires et des perquisitions dans les conditions prévues au code de procédure pénale. Il peut suivre les choses enlevées dans les lieux où elles ont été transportées et les mettre sous séquestre.
+
+Les procès-verbaux établis sont aussitôt transmis au procureur de la République.
+
+Dans l'exercice de leurs fonctions de police judiciaire, l'administrateur des affaires maritimes, les officiers de port et les officiers de port adjoints peuvent requérir directement la force publique. Ils peuvent être requis par le procureur de la République, le juge d'instruction et les officiers de police judiciaire afin de leur prêter assistance.
