@@ -23,5 +23,6 @@
 - [Décret n°82-562 du 29 juin 1982](decret-n82-562-du-29-juin-1982)
 - [Décret n°84-808 du 29 août 1984](decret-n84-808-du-29-aout-1984)
 - [Décret n°82-1162 du 30 décembre 1982](decret-n82-1162-du-30-decembre-1982)
+- [Décret n°82-1213 du 30 décembre 1982](decret-n82-1213-du-30-decembre-1982)
 - [Décret n°82-1244 du 31 décembre 1982](decret-n82-1244-du-31-decembre-1982)
 - [Décret n°82-1248 du 31 décembre 1982](decret-n82-1248-du-31-decembre-1982)

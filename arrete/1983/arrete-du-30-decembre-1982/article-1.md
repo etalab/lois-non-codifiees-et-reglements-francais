@@ -1,25 +1,13 @@
 # Article 1
 
-Pour une des catégories de bons à trois ans de la Caisse nationale de crédit agricole, les intérêts des trois années sont payables d'avance lors de la souscription.
+A compter du 1er septembre 1982 [*date*], le taux de la taxe est fixé comme suit :
 
-Le taux de rendement actuariel brut des bons de cette catégorie émis à compter du 1er janvier 1983 est fixé à 10,75 p. 100.
+0,43 F par quintal de fruits à cidre et à poiré ;
 
-Les prix d''émission des bons de cette catégorie sont les suivants à compter du 1er janvier 1983 :
+0,57 F par hectolitre de cidre et de poiré ou par hectolitre de moûts        de pommes et de poires ;
 
-Prix d'émission net après règlement libératoire de 45 p. 100. Option A :
+10,80 F par hectolitre d'alcool pur pour les calvados et les         eaux-de-vie de cidre et de poiré ;
 
-Coupure de 1.000 F : 854,85.
+10,80 F par hectolitre d'alcool pur pour les alcools de cidre et de         poiré réservés à l'Etat.
 
-Coupure de 10.000 F : 8.548,50.
-
-Prix d'émission brut avant impôt. Option B :
-
-Coupure de 1.000 F : 736,15.
-
-Coupure de 10.000 F : 7.361,50.
-
-Prix d'émission net après prélèvement libératoire de 50 p. 100. Option C :
-
-Coupure de 1.000 F : 868,05.
-
-Coupure de 10.000 F : 8.680,50.
+Elle est supportée par l'acheteur et le vendeur chacun pour moitié.

@@ -1,4 +1,4 @@
-# Arrêté du 30 décembre 1982 relatif au taux de rendement des bons à trois ans de la Caisse nationale de Crédit agricole émis à compter du 1er janvier 1983
+# Arrêté du 30 décembre 1982 FIXANT LE TAUX DE LA TAXE PARAFISCALE PERCUE AU PROFIT DU COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
