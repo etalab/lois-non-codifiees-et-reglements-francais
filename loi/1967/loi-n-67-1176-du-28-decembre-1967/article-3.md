@@ -1,6 +1,6 @@
 # Article 3
 
-Peuvent seuls être vendus les produits, médicaments ou objets contraceptifs ayant fait l'objet d'une autorisation de mise sur le marché accordée par le ministre chargé de la santé publique.
+Peuvent seuls être vendus les produits, médicaments ou objets contraceptifs ayant fait l'objet d'une autorisation de mise sur le marché accordée par l'Agence du médicament.
 
 Sous réserve des dispositions prévues par le deuxième alinéa de l'article 4 de la présente loi, la délivrance des contraceptifs est exclusivement faite en pharmacie.
 
