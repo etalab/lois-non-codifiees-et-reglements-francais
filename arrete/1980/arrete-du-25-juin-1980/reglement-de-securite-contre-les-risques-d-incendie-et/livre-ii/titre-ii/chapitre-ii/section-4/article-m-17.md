@@ -1,31 +1,27 @@
 # Article M 17
 
-Ateliers de fabrication et de préparation des aliments
+Ateliers de fabrication et/ou de préparation des aliments
 
-§ 1. Les ateliers de fabrication et de préparation des aliments implantés dans le même volume que celui accessible au public comportant ou non des appareils de cuisson ou de remise en température doivent répondre aux conditions suivantes :
+§ 1. Les ateliers de fabrication et/ou de préparation des aliments implantés dans le même volume que celui accessible au public doivent répondre aux conditions suivantes :
 
-Leur surface maximale unitaire est inférieure ou égale à 500 mètres carrés et l'une de leurs dimensions au sol n'excède pas 20 mètres, ils sont :
+- leur surface maximale unitaire est inférieure ou égale à 500 mètres carrés et l'une de leurs dimensions au sol n'excède pas 20 mètres,
 
-- séparés des autres exploitations et de leurs propres locaux de réserves par des parois répondant aux exigences de l'article M 7 (§ 1 et § 3) ;
+ils sont :
 
-- séparés, dans une même exploitation, des locaux à risques importants dans les conditions prévues aux articles CO 28 (§ 1) et M 49 (§ 1) ;
+- séparés des autres exploitations et des locaux de réserves par des parois répondant aux exigences de l'article M 7 (§ 1 et § 3) ;
 
-- séparés entre eux, dans une même exploitation et quelle que soit leur surface, par des parois réalisées en matériaux de catégorie M1 ou B-s2, d0, y compris les revêtements éventuels ;
+- séparés entre eux, dans une même exploitation, par des parois réalisées en matériaux de catégorie M1, y compris les revêtements éventuels ;
 
-- protégés par un système d'extinction automatique du type sprinkleur lorsque les locaux accessibles au public en sont pourvus ;
+- protégés par une installation fixe d'extinction automatique à eau lorsque les locaux accessibles au public en sont pourvus ;
 
-- en dépression, à l'exception des locaux réfrigérés.
+- en dépression, à l'exception des locaux réfrigérés, et séparés des locaux accessibles au public par des écrans de cantonnement d'une hauteur minimale de 0,50 mètre.
 
-§ 2. Les ateliers de fabrication ou de préparation des aliments nécessitant l'emploi d'appareils de cuisson ou de remise en température d'une puissance utile totale supérieure à 20 kW doivent répondre à l'un des cas suivants :
+§ 2. Lorsque la fabrication ou la préparation des aliments nécessite l'emploi d'appareils de cuisson d'une puissance utile totale supérieure à 20 kW, les dispositions des sections I, III et V du chapitre X du titre Ier du présent livre sont applicables.
 
-- aux dispositions concernant les grandes cuisines isolées ;
+En atténuation des dispositions du paragraphe 3 de l'article GC 15 :
 
-- aux dispositions concernant les grandes cuisines ouvertes ;
+- aucune résistance au feu n'est exigible pour les cloisons éventuelles séparant ces ateliers de la zone accessible au public ;
 
-- aux dispositions concernant les îlots de cuisson.
+- ces cloisons éventuelles doivent être réalisées en matériaux de catégorie M 1.
 
-Toutefois, dans les deux derniers cas et en dérogation aux articles les concernant, le local de vente n'est pas classé local à risque moyen.
-
-Si pour des raisons d'exploitation les ateliers sont séparés du local de vente par des parois vitrées, ils doivent répondre aux dispositions des grandes cuisines ouvertes.
-
-§ 3. Lorsque les ateliers de fabrication ou de préparation des aliments nécessitent l'emploi d'appareils de cuisson ou de remise en température d'une puissance utile totale inférieure ou égale à 20 kW, ces appareils doivent être installés selon les dispositions de la section VI du chapitre X du titre Ier du livre II.
+§ 3. Lorsque la fabrication ou la préparation des aliments nécessite l'emploi d'appareils de cuisson d'une puissance utile totale inférieure ou égale à 20 kW, les dispositions des sections I, IV et V du chapitre X du titre Ier du présent livre sont applicables nonobstant les dispositions prévues à l'article M 34.

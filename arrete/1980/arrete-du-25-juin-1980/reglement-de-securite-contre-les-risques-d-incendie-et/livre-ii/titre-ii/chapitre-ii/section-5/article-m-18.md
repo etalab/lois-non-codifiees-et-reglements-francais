@@ -2,10 +2,10 @@
 
 Dispositions générales
 
-§ 1. Les locaux sont de la classe 3 pour la détermination du coefficient au sens de l'annexe de l'IT 246.
+§ 1. Les locaux de vente d'une superficie supérieure à 100 mètres carrés situés en sous-sol, ainsi que les locaux de vente d'une superficie supérieure à 300 mètres carrés situés en rez-de-chaussée ou en étage doivent être désenfumés dans les conditions prévues au chapitre IV du titre Ier du présent livre. Aucun désenfumage n'est exigé dans les autres locaux de vente.
 
-§ 2. Les mails sont désenfumés comme des locaux de superficie supérieure à 1 000 m², dans les conditions définies au § 7 de l'instruction technique 246.
+§ 2. Les escaliers et les circulations horizontales encloisonnés doivent être désenfumés, ou mis à l'abri des fumées, dans les conditions prévues au chapitre IV du titre Ier du présent livre.
 
-§ 3. Les boutiques d'une superficie totale inférieure à 300 m², réserves d'approche comprises, et donnant sur un mail n'ont pas à être désenfumées. Leur superficie n'est pas prise en compte dans le calcul du désenfumage du mail. Un écran de cantonnement entre la boutique et le mail n'est pas imposé.
+§ 3. Les mails sont désenfumés dans les mêmes conditions que les grands locaux.
 
-§ 4. Les commandes des dispositifs de désenfumage ne sont pas obligatoirement automatiques.
+§ 4. La commande des dispositifs de désenfumage peut n'être que manuelle.

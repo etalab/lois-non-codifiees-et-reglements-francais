@@ -2,18 +2,22 @@
 
 Généralités
 
-§ 1. les locaux et dégagements accessibles au public doivent être équipés d'un éclairage de sécurité répondant aux dispositions des articles EC 7 à EC 15.
+§ 1. Les locaux et dégagements accessibles au public doivent comporter un éclairage de sécurité.
 
-L'éclairage de sécurité des établissements de 1re et 2e catégorie doit être alimenté par une source centralisée constituée d'une batterie d'accumulateurs dans les conditions de l'article EC 11.
+§ 2. Les établissements de 1re et 2e catégorie doivent être dotés d'un éclairage de sécurité alimenté par une source centrale répondant aux dispositions requises pour :
 
-§ 2. Dans les centres commerciaux :
+- le type A, en cas d'emploi de groupes moteurs thermiques générateurs ;
 
-a) Les exploitations du type M recevant plus de 700 personnes, les mails et parties communes de l'ensemble du centre doivent être équipés d'un éclairage de sécurité alimenté par une source centralisée constituée d'une batterie d'accumulateurs dans les conditions de l'article EC 11.
+- le type B, en cas d'utilisation d'une batterie centrale.
 
-b) L'éclairage de sécurité des exploitations du type M recevant moins de 100 personnes peut être limité à l'éclairage d'évacuation tel que défini à l'article EC 9.
+§ 3. Dans les établissements de 3e et 4e catégorie cet éclairage doit être du type B, alimenté par une source centrale ou des blocs autonomes.
 
-c) En dérogation aux dispositions de l'article GN 2, § 3, l'éclairage de sécurité des exploitations des autres types peut être réalisé selon les dispositions particulières propres à chaque type en tenant compte de l'effectif théorique de chaque exploitation.
+§ 4. Dans les centres commerciaux :
 
-d) Les exploitations de tous les types placées sous une même direction administrative et commerciale peuvent utiliser la même source centralisée constituée d'une batterie d'accumulateurs, pour l'éclairage de sécurité.
+a) Les exploitations recevant plus de 700 personnes, les mails et les parties communes de l'ensemble du centre doivent comporter un éclairage de sécurité répondant aux dispositions du paragraphe 2 ci-dessus ;
 
-e) La source centralisée constituée d'une batterie d'accumulateurs d'une grande surface peut être confondue avec celle du mail et des parties communes lorsque la sécurité de l'ensemble est placée sous la responsabilité unique du directeur de la grande surface.
+b) Les autres exploitations doivent comporter un éclairage de sécurité répondant aux dispositions du paragraphe 3 ci-dessus. Toutefois dans les locaux de vente recevant moins de 100 personnes, l'éclairage de sécurité peut être limité à la seule fonction de balisage telle que définie à l'article EC 7 (§ 2) ;
+
+c) Les exploitations placées sous une même direction peuvent utiliser la même source centrale pour l'éclairage de sécurité ;
+
+d) La source centrale d'une grande surface peut être confondue avec celle du mail et des parties communes lorsque la sécurité de l'ensemble est placée sous la responsabilité unique du directeur de la grande surface.

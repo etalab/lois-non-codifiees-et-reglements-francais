@@ -18,6 +18,6 @@ e) Les ventilateurs d'extraction doivent assurer leur fonction pendant au moins 
 
 f) Les liaisons entre le ventilateur d'extraction et le conduit doivent être en matériaux classés M0 ou A2-s1, d0 ;
 
-g) Les canalisations électriques alimentant les ventilateurs ne doivent pas être affectées par un sinistre situé dans l'îlot. Il est convenu que l'utilisation de câble CR1 dans la traversée de l'îlot permet de répondre à cette exigence ;
+g) Les canalisations électriques alimentant les ventilateurs ne doivent pas être affectées par un sinistre affectant l'îlot ;
 
 h) La commande des ventilateurs assurant l'évacuation des buées et des graisses doit être correctement identifiée par une plaque indélébile et placée dans l'enceinte de l'îlot à un endroit facilement accessible par le personnel de service.

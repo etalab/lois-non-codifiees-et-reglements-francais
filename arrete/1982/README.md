@@ -15,6 +15,7 @@
 - [Arrêté du 19 avril 1982](arrete-du-19-avril-1982)
 - [Arrêté du 21 décembre 1981](arrete-du-21-decembre-1981)
 - [Arrêté du 21 janvier 1982](arrete-du-21-janvier-1982)
+- [Arrêté du 22 décembre 1981](arrete-du-22-decembre-1981)
 - [Arrêté du 23 décembre 1981](arrete-du-23-decembre-1981)
 - [Arrêté du 23 novembre 1981](arrete-du-23-novembre-1981)
 - [Arrêté du 26 novembre 1981](arrete-du-26-novembre-1981)

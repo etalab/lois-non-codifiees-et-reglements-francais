@@ -10,7 +10,7 @@ On appelle réserve d'approche un volume non isolé des locaux de vente et affec
 
 Les réserves d'approche doivent répondre aux dispositions suivantes :
 
-- le volume unitaire est limité à 300 mètres cubes, ou à 500 mètres cubes si l'établissement est protégé par un système d'extinction automatique du type sprinkleur ;
+- le volume unitaire est limité à 300 mètres cubes, ou à 500 mètres cubes si l'établissement est protégé par une installation fixe d'extinction automatique à eau ;
 
 - une des dimensions au sol de la réserve n'excède pas 6 mètres ;
 

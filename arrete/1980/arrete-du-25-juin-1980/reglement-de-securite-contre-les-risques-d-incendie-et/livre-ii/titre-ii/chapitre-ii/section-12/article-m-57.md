@@ -2,4 +2,4 @@
 
 Alarme
 
-L'équipement d'alarme prévu à l'article M 32 doit être étendu aux locaux non accessibles au public.
+Des dispositifs sonores à commande manuelle ou automatique ou des dispositifs phoniques doivent permettre de diffuser l'alarme restreinte dans les conditions fixées à l'article MS 58 (a).

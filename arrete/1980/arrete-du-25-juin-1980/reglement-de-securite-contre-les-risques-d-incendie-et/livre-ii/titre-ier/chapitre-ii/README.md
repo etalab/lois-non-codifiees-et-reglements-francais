@@ -9,4 +9,3 @@
 - [Section 7 : Locaux non accessibles au public, locaux à risques particuliers](section-7)
 - [Section 8 : Conduits et gaines](section-8)
 - [Section 9 : Dégagements](section-9)
-- [Section 10 : Tribunes et gradins non démontables](section-10)

@@ -2,4 +2,4 @@
 
 Installations électriques
 
-A l'exception des locaux administratifs et sociaux, les installations électriques doivent être réalisées dans les conditions requises par la norme NF C 15-100 pour les locaux présentant des risques mécaniques (condition d'influence externe AG 3) et dans les conditions requises pour les locaux présentant des risques d'incendie (condition d'influence externe BE 2).
+Les équipements électriques doivent être réalisés dans les conditions requises par les normes en vigueur pour les locaux présentant des risques mécaniques et des risques particuliers d'incendie.

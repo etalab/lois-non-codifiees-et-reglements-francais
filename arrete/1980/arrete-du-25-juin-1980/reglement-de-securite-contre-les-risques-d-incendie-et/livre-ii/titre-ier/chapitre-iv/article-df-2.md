@@ -1,17 +1,11 @@
 # Article DF 2
 
-Documents à fournir
+Principes de désenfumage
 
-Les documents à fournir en application de l'article GE 2 (§ 2) comprennent :
+Le désenfumage peut se réaliser naturellement ou mécaniquement suivant l'une des méthodes suivantes :
 
-- un plan comportant :
+- soit par balayage de l'espace que l'on veut rendre praticable par apport d'air neuf et évacuation des fumées;
 
-- les emplacements des évacuations de fumée et des amenées d'air ;
+- soit par différence des pressions entre le volume que l'on veut protéger et le volume sinistré mis en dépression relative ;
 
-- le tracé des réseaux aérauliques ;
-
-- l'emplacement des ventilateurs de désenfumage ;
-
-- l'emplacement des dispositifs de commande ;
-
-- une note explicative précisant les caractéristiques techniques des différents équipements.
+- soit par combinaison des deux méthodes ci-dessus.

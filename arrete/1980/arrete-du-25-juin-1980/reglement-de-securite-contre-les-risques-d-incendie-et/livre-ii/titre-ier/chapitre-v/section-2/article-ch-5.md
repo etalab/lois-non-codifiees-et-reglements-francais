@@ -48,7 +48,9 @@ Des affichages inaltérables doivent rappeler que cette installation :
 
 § 3. Appareils installés au sol à l'extérieur du bâtiment et hors local chaufferie.
 
-Par dérogation aux conditions d'implantation des paragraphes 1 et 2 ci-dessus, les appareils ou groupements d'appareils de production par combustion de froid et/ou de chaud à cycle thermodynamique utilisant des fluides visés à l'article CH 35 et dont la conception impose un fonctionnement à l'air libre peuvent être implantés à l'extérieur et au sol sous réserve du respect des prescriptions de la notice du fabricant et des conditions suivantes :
+Sont concernés par ce paragraphe les appareils ou groupements d'appareils de production de froid à combustion visés au paragraphe 5 de l'article CH 35 dont les produits de la combustion sont évacués par dilution dans l'air de refroidissement des condenseurs. Ces appareils doivent être conçus pour fonctionner à l'extérieur suivant la notice du fabricant. Ces appareils de production de froid sont de type A du point de vue de l'évacuation des produits de la combustion.
+
+S'ils ne sont pas soumis à la réglementation des installations classées pour la protection de l'environnement, ces appareils ou groupements d'appareils peuvent être implantés à l'extérieur et au sol sous réserve du respect des prescriptions de la notice du fabricant et des conditions suivantes :
 
 a) Les parois constituant l'enveloppe de ces appareils ou groupements d'appareils sont construites en matériau M 0. Les dispositifs tels que boîtiers de commande disposés sur les parois des appareils ne sont pas concernés ;
 
@@ -76,12 +78,14 @@ e) Par rapport au bâtiment desservi par le ou les appareils, la distance de 10 
 
 - soit les parois extérieures du ou des appareils sont accolées ou placées à moins de 2 mètres de toute partie de la façade du bâtiment à condition que celle-ci présente un degré coupe-feu de degré deux heures sur une hauteur de 8 mètres au moins au-dessus du niveau le plus haut du ou des appareils et sur une largeur dépassant au minimum 2 mètres de part et d'autre les dimensions du ou des appareils. Cette hauteur est limitée à la hauteur de la façade du bâtiment lorsque celle-ci est inférieure ou égale à 8 mètres.
 
-Les appareils de production par combustion de froid et/ou de chaud à cycle thermodynamique visés par le présent paragraphe peuvent être associés à des modules de production de chaleur non thermodynamique à circuit de combustion étanche (appareils de type C du point de vue de l'évacuation des produits de la combustion). Dans ce cas, les ensembles ou sous-ensembles complets préfabriqués ainsi formés doivent respecter les conditions d'installation des appareils de production de froid et/ou de chaud à cycle thermodynamique décrites ci-avant. S'ils sont installés seuls, les modules de production de chaud non thermodynamique à circuit de combustion étanche ne sont pas concernés par ces dispositions. Ils doivent, dans ce cas, respecter les dispositions du paragraphe 4 ci-après.
+Les appareils de production de froid à combustion visés par le présent paragraphe peuvent être associés à des modules de production de chaleur à circuit de combustion étanche (appareils de type C du point de vue de l'évacuation des produits de la combustion). Dans ce cas, les ensembles ou sous-ensembles complets préfabriqués ainsi formés doivent respecter les conditions d'installation des appareils de production de froid décrites ci avant. S'ils sont installés seuls, les modules de production de chaud à circuit de combustion étanche ne sont pas concernés par ces dispositions. Ils doivent, dans ce cas, respecter les dispositions du paragraphe 4 ci-après.
 
 § 4. Appareils à circuit de combustion étanche :
 
-A l'exception des modules de production de chaleur associés à des appareils de production par combustion de froid et/ou de chaud thermodynamique visés au paragraphe 3 du présent article, seuls les appareils à circuit de combustion étanche, raccordés à un terminal vertical, peuvent être installés :
+A l'exception des modules de production de chaleur associés à
 
-― soit dans une chaufferie située en terrasse ou au dernier niveau conformément aux prescriptions du paragraphe 1 ;
+des appareils de production de froid à combustion visés au paragraphe 3 du présent article, seuls les appareils à circuit de combustion étanche, raccordés à un terminal vertical, peuvent être installés :
 
-― soit en terrasse dans les conditions fixées au paragraphe 2.
+- soit dans une chaufferie située en terrasse ou au dernier niveau conformément aux prescriptions du paragraphe 1 ;
+
+- soit en terrasse dans les conditions fixées au paragraphe 2.
