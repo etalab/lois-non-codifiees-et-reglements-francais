@@ -9,4 +9,3 @@
 - [Titre VII : Dispositions diverses](titre-vii)
 - [Article 37](article-37.md)
 - [Annexes](annexes)
-- [Contrôles, vérifications et entretien des installations](controles-verifications-et)
