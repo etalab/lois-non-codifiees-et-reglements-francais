@@ -1,6 +1,6 @@
 # Article 18
 
-Après la clôture des épreuves d'admission, la commission d'admission arrête pour chacun des concours les listes de classement par ordre de mérite, compte tenu des résultats obtenus par les candidats aux différentes épreuves d'admission. Ces listes, composées d'une liste principale et d'une liste complémentaire, sont établies :
+Après la clôture des épreuves d'admission, la commission d'admission arrête pour chacun des concours les listes de classement par ordre de mérite, compte tenu des résultats obtenus par les candidats aux différentes épreuves d'admission. Ces listes sont composées d'une liste principale et d'une liste complémentaire, établies :
 
 - par option d'enseignement pour le concours de recrutement sur titre dans le corps des officiers de marine ;
 

@@ -12,7 +12,7 @@ Un jury propre est constitué pour chacun des concours ouverts.
 
 Il peut par ailleurs se constituer en groupe d'examinateurs.
 
-Le président et les autres membres d'un jury peuvent être simultanément président ou membre des autres membres des concours ouverts.
+Le président et les autres membres d'un jury peuvent être simultanément président ou membre des autres jurys des concours ouverts.
 
 2° Nomination des jurys :
 

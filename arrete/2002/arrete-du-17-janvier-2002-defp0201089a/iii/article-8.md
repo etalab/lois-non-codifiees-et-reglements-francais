@@ -16,4 +16,4 @@ Le dossier de candidature comprend :
 
 - un bilan de l'entretien réalisé auprès d'un service de psychologie de la marine chargé d'effectuer une évaluation psychologique du candidat ;
 
-- un bilan de l'entretien réalisé auprès d'un officier désigné par le directeur du personnel militaire de la marine, d'une durée minimum de trente minutes. L'objectif est d'apprécier la motivation du candidat (nature et cohérence de son projet) et de préciser le cursus de formation suivi.
+- un bilan de l'entretien réalisé auprès d'un officier désigné par le directeur du personnel militaire de la marine, d'une durée de 30 minutes. L'objectif est d'apprécier la motivation du candidat (nature et cohérence de son projet) et de préciser le cursus de formation suivi.

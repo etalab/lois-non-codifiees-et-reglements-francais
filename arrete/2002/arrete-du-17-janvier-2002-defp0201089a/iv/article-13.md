@@ -23,7 +23,7 @@ Les épreuves d'admission, notées de 0 à 20, comprennent les épreuves suivant
 <p align="center">13</p>
 </td>
 <td align="left" valign="top">
-<p align="center">1 heure 20 </p>
+<p align="center">1 heure </p>
 </td>
 </tr>
 <tr>
