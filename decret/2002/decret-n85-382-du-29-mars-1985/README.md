@@ -5,3 +5,4 @@
 - [Titre III : Ventes publiques aux enchères de meubles corporels](titre-iii)
 - [Titre IV : Dispositions diverses.](titre-iv)
 - [Titre V : Dispositions générales.](titre-v)
+- [Article 27](article-27.md)
