@@ -1,9 +1,19 @@
 # Article 3
 
-L'article 6 du statut annexe est remplacé par les dispositions suivantes pour la fédération interdépartementale de Paris, Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne :
+L'article 7 du statut annexe est remplacé par les dispositions suivantes pour la fédération interdépartementale de Paris, Hauts-de-Seine,
 
-Art. 6. - La fédération est administrée par un conseil d'administration de douze membres choisis en raison de leur compétence en matière cynégétique et qui sont nommés pour six ans, et remplacés s'il y a lieu au cours et jusqu'au terme de cette période, sur proposition de l'office national de la chasse, par les préfets intéressés à raison de six administrateurs pour la ville de Paris et de deux pour chacun des trois autres départements.
+Seine-Saint-Denis et Val-de-Marne :
 
-Il est interdit à tout administrateur de faire acte de commerce avec la fédération ou de recevoir de celle-ci directement ou indirectement une quelconque prestation rémunérée sauf autorisation du conseil d'administration de l'officie national de la chasse.
+La fédération est administrée par un conseil d'administration de douze membres désignés pour trois ans par le ministre chargé de la chasse parmi les adhérents de la fédération et en raison de leur compétence en matière cynégétique. Six de ces membres sont désignés sur proposition de :
 
-Tout administrateur qui, sans excuse valable, n'assistera à aucune réunion du conseil pendant un an pourra être considéré comme démissionnaire par décision du conseil.
+- l'Association nationale des chasseurs de grand gibier ;
+
+- la Société de vénerie ;
+
+- l'Association nationale des chasseurs de gibier d'eau ;
+
+- l'Association des piégeurs agréés de France ;
+
+- le Saint-Hubert Club de France ;
+
+- l'Association nationale pour une chasse écologiquement responsable.
