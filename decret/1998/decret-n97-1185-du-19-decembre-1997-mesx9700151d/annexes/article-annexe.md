@@ -562,6 +562,18 @@ Opposition au choix, par une mutuelle ou union agréée dans la branche de prote
 
 Art. R.* 211-20
 
+3
+
+Approbation, en application de l'article L. 212-11 du code de la mutualité, de transfert d'un portefeuille d'opérations d'une mutuelle ou d'une union pratiquant des opérations d'assurance relevant d'une branche autre que la branche 2 mentionnée à l'article R. 211-2.
+
+R.* 212-60
+
+4
+
+Opposition, en application de l'article L. 212-13 du code de la mutualité, à une opération de fusion ou scission sans transfert de portefeuille d'une mutuelle ou union pratiquant des opérations d'assurance relevant d'une branche autre que la branche 2 mentionnée à l'article R. 211-2.
+
+R.* 212-64
+
 Décret du 28 janvier 1860 portant règlement d'administration publique relatif à la surveillance des sources et des établissements d'eaux minérales naturelles
 
 1
