@@ -1,6 +1,6 @@
 # Article 6
 
-La scolarité des première, deuxième et troisième années comprend :
+La scolarité des première, deuxième, troisième et quatrième années comprend :
 
 - des enseignements figurant en annexe II du présent arrêté et répartis en trois domaines :
 
