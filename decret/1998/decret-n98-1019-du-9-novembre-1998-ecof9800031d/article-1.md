@@ -58,6 +58,8 @@ I. - Les entreprises qui tiennent leur comptabilité en unité euro peuvent sous
 
 - le manifeste pour les envois exprès.
 
+- les déclarations relatives à la taxe générale sur les activités polluantes autres que le document administratif unique et la déclaration complémentaire globale ci-dessus.
+
 II. - Les dispositions du I ne s'appliquent pas :
 
 1. Aux déclarations souscrites par les entreprises placées sous les régimes visés aux articles 50-0, 50, 101, 102 ter, 298 quater, 298 quinquies, 302 ter et 302 septies A quater du code général des impôts ;
