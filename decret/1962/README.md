@@ -5,6 +5,7 @@
 - [Décret n°62-132 du 2 février 1962](decret-n62-132-du-2-fevrier-1962)
 - [Décret n°62-382 du 3 avril 1962](decret-n62-382-du-3-avril-1962)
 - [Décret n°62-915 du 3 août 1962](decret-n62-915-du-3-aout-1962)
+- [Décret n°62-921 du 3 août 1962](decret-n62-921-du-3-aout-1962)
 - [Décret n°61-501 du 3 mai 1961](decret-n61-501-du-3-mai-1961)
 - [Décret n°62-660 du 6 juin 1962](decret-n62-660-du-6-juin-1962)
 - [Décret n°62-765 du 6 juillet 1962](decret-n62-765-du-6-juillet-1962)
