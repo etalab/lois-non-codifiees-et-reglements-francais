@@ -543,6 +543,7 @@
 - [Arrêté du 21 novembre 2002 (MCCB0200772A)](arrete-du-21-novembre-2002-mccb0200772a)
 - [Arrêté du 21 mai 2003 (SPRK0370042A)](arrete-du-21-mai-2003-sprk0370042a)
 - [Arrêté du 22 août 2002 (AGRG0201865A)](arrete-du-22-aout-2002-agrg0201865a)
+- [Arrêté du 22 août 2002 (EQUT0201381A)](arrete-du-22-aout-2002-equt0201381a)
 - [Arrêté du 22 août 2002 (EQUU0201223A)](arrete-du-22-aout-2002-equu0201223a)
 - [Arrêté du 22 avril 2002 (AGRP0200958A)](arrete-du-22-avril-2002-agrp0200958a)
 - [Arrêté du 22 avril 2002 (EQUS0200559A)](arrete-du-22-avril-2002-equs0200559a)

@@ -383,6 +383,7 @@
 - [Décret n°2003-431 du 7 mai 2003 (MENF0300702D)](decret-n2003-431-du-7-mai-2003-menf0300702d)
 - [Décret du 8 février 2002 (AGRP0101187D)](decret-du-8-fevrier-2002-agrp0101187d)
 - [Décret n°2001-213 du 8 mars 2001 (INTX0100031D)](decret-n2001-213-du-8-mars-2001-intx0100031d)
+- [Décret n°2002-1254 du 8 octobre 2002 (INDI0200518D)](decret-n2002-1254-du-8-octobre-2002-indi0200518d)
 - [Décret n°2002-155 du 8 février 2002 (ECOP0100525D)](decret-n2002-155-du-8-fevrier-2002-ecop0100525d)
 - [Décret n°2002-156 du 8 février 2002 (ECOP0100531D)](decret-n2002-156-du-8-fevrier-2002-ecop0100531d)
 - [Décret n°2002-157 du 8 février 2002 (ECOP0100868D)](decret-n2002-157-du-8-fevrier-2002-ecop0100868d)

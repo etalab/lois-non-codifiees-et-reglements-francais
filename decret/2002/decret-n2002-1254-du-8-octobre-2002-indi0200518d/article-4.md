@@ -1,0 +1,5 @@
+# Article 4
+
+L'exploitant présentera au directeur général de la sûreté nucléaire et de la radioprotection, dans les six mois après la fin des opérations prévues, et au plus tard dans un délai de cinq ans à compter de la publication du présent décret, un compte rendu présentant, d'une part, le retour d'expérience de ces opérations (faits marquants, incidents, doses collectives et individuelles associées aux différentes phases de mise à l'arrêt définitif et de démantèlement, bilan relatif aux déchets produits...), d'autre part, les éléments montrant la réalisation de l'état final recherché pour l'installation après démantèlement. Ce dossier sera transmis à la préfecture de l'Essonne et à la mairie de Saint-Aubin, où il sera consultable.
+
+Après la fin des opérations de mise à l'arrêt définitif et de démantèlement, l'installation pourra être rayée de la liste des installations nucléaires de base par décision des ministres chargés de l'industrie et de l'environnement. L'approbation des bilans mentionnés aux articles 3.6 et 3.7 et du compte rendu détaillé mentionné dans le présent article constituera un préalable nécessaire à cette décision.
