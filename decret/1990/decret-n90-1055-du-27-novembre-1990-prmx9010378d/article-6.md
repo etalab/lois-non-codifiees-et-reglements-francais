@@ -1,0 +1,3 @@
+# Article 6
+
+Les stagiaires du cycle de préparation contrevenant aux dispositions du premier alinéa de l'article 21 du décret du 13 juillet 1990 susvisé ou n'ayant pas déclaré l'ensemble des revenus pris en compte au titre de l'article 2 du présent décret pour l'attribution des bourses sont redevables envers l'Etat des sommes qui leur ont été allouées en vertu des dispositions du présent décret. Ils peuvent toutefois être dispensés en tout ou partie de ce remboursement par arrêté du ministre chargé de la fonction publique sur proposition du directeur de l'Ecole nationale d'administration après avis des autorités pédagogiques compétentes. Le stagiaire à la scolarité duquel il a été mis fin pour cause d'inaptitude physique est dispensé de plein droit.

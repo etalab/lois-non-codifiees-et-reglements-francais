@@ -657,6 +657,7 @@
 - [Décret n°90-959 du 26 octobre 1990 (PRMZ9005072D)](decret-n90-959-du-26-octobre-1990-prmz9005072d)
 - [Décret n°90-970 du 26 octobre 1990 (MENF9001958D)](decret-n90-970-du-26-octobre-1990-menf9001958d)
 - [Décret n°90-972 du 26 octobre 1990 (DOMP9000028D)](decret-n90-972-du-26-octobre-1990-domp9000028d)
+- [Décret n°90-1055 du 27 novembre 1990 (PRMX9010378D)](decret-n90-1055-du-27-novembre-1990-prmx9010378d)
 - [Décret n°90-180 du 27 février 1990 (BUDF9000003D)](decret-n90-180-du-27-fevrier-1990-budf9000003d)
 - [Décret n°90-186 du 27 février 1990 (TEFE9003143D)](decret-n90-186-du-27-fevrier-1990-tefe9003143d)
 - [Décret n°90-194 du 27 février 1990 (SPSH8902628D)](decret-n90-194-du-27-fevrier-1990-spsh8902628d)
