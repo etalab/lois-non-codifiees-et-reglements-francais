@@ -13,5 +13,7 @@
 - [Loi n° 91-32 du 10 janvier 1991 (SPSX9000097L)](loi-n-91-32-du-10-janvier-1991-spsx9000097l)
 - [Loi n° 91-4 du 3 janvier 1991 (MAEX9000149L)](loi-n-91-4-du-3-janvier-1991-maex9000149l)
 - [Loi n° 91-5 du 3 janvier 1991 (AGRX9000138L)](loi-n-91-5-du-3-janvier-1991-agrx9000138l)
+- [Loi n° 91-73 du 18 janvier 1991 (SPSX9000173L)](loi-n-91-73-du-18-janvier-1991-spsx9000173l)
 - [Loi n°91-2 du 3 janvier 1991 (PRMX9000039L)](loi-n91-2-du-3-janvier-1991-prmx9000039l)
 - [Loi n°91-6 du 4 janvier 1991 (DOMX9000091L)](loi-n91-6-du-4-janvier-1991-domx9000091l)
+- [Loi n°91-71 du 18 janvier 1991 (JUSX9000073L)](loi-n91-71-du-18-janvier-1991-jusx9000073l)
