@@ -1,4 +1,4 @@
-# Chapitre II : Epidémiosurveillance de la B.S.E.
+# Chapitre II : Mesures applicables en cas de suspicion d'ESB.
 
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)

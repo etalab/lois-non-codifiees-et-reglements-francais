@@ -1,19 +1,13 @@
 # Article 7
 
-Dès réception de la déclaration de suspicion par le directeur des services vétérinaires, ce dernier met immédiatement en oeuvre les dispositions suivantes :
+Dès qu'il a connaissance d'une suspicion d'ESB, le directeur des services vétérinaires met immédiatement en oeuvre les mesures suivantes :
 
-1. Il s'assure du respect des dispositions prévues par les articles 226 et 227 du code rural ;
+- il s'assure du respect des dispositions prévues par les articles L. 223-5, L. 223-6 et L. 223-7 du code rural ;
 
-2. Il procède à la recherche de l'origine de l'animal suspect, à l'identification des cheptels auxquels il a pu appartenir ainsi qu'à la détermination des périodes durant lesquelles il a été détenu dans ces cheptels.
+- il procède à la recherche de l'origine de l'animal suspect, à l'identification des exploitations auxquelles il a pu appartenir ainsi qu'à la détermination des périodes durant lesquelles il a été détenu dans ces exploitations. Les exploitations ayant détenu l'animal suspect sont considérées à risque et doivent être placées sous arrêté préfectoral de mise sous surveillance, à l'exception des exploitations dans lesquelles l'animal suspect a été détenu dans la période de deux ans avant que la suspicion ne soit établie ;
 
-L'(les) exploitation(s) ayant détenu l'animal suspect est (sont) placée(s) sous arrêté préfectoral de mise sous surveillance ;
+- il informe la direction générale de l'alimentation et le directeur du laboratoire national de référence de cette suspicion et des commémoratifs disponibles ;
 
-3. Il informe le directeur du laboratoire de référence de l'existence de cette suspicion et des commémoratifs disponibles ;
+- il organise, le cas échéant, soit l'isolement de l'animal suspect, soit son euthanasie immédiate et sa destruction par le service public d'équarrissage après réalisation des prélèvements nécessaires, conformément à la procédure décrite à l'article 4 du présent arrêté ;
 
-4. Après avis de ce dernier, il organise soit l'isolement de l'animal suspect ou, en cas de nécessité, son euthanasie sur place, soit sa conduite à l'abattoir accompagné d'un certificat sanitaire d'information ; dans ce cas, les prélèvements nécessaires sont effectués et la carcasse, les abats et les viscères sont mis en consigne dans l'attente des résultats.
-
-En cas d'euthanasie, le cadavre de l'animal suspect est détruit après exécution des prélèvements nécessaires conformément à la procédure décrite à l'article 4 (paragraphe 1) ci-dessus ;
-
-5. Il fait procéder à la destruction du lait de l'animal suspect.
-
-Le directeur des services vétérinaires met en oeuvre les mesures des points 2, 3 et 5, lorsque la suspicion fait suite au résultat non négatif à un test de dépistage autre que ceux mentionnés au point b de l'article 1er du présent arrêté. Dans ce cas, la carcasse, les abats et les viscères sont retirés de la consommation.
+- il fait procéder à la destruction du lait de l'animal suspect.
