@@ -1,0 +1,15 @@
+# Article 25-2
+
+Les fonctionnaires mentionnés au premier alinéa de l'article 25-1 peuvent être autorisés, pendant une période de cinq ans renouvelable (1), à apporter leur concours scientifique à une entreprise qui assure, en exécution d'un contrat conclu avec une personne publique ou une entreprise publique, la valorisation des travaux de recherche qu'ils ont réalisés dans l'exercice de leurs fonctions.
+
+Les conditions dans lesquelles le fonctionnaire intéressé apporte son concours scientifique à l'entreprise sont définies par une convention conclue entre l'entreprise et la personne publique ou l'entreprise publique mentionnée au premier alinéa. Elles doivent être compatibles avec le plein exercice par le fonctionnaire de son emploi public.
+
+Le fonctionnaire peut également être autorisé à détenir une participation dans le capital social de l'entreprise, dans la limite de 15 %, sous réserve qu'au cours des cinq années précédentes il n'ait pas, en qualité de fonctionnaire ou d'agent public, exercé un contrôle sur cette entreprise ou participé à l'élaboration ou à la passation de contrats et conventions conclus entre l'entreprise et le service public de la recherche.
+
+Le fonctionnaire ne peut participer à l'élaboration ni à la passation des contrats et conventions conclus entre l'entreprise et le service public de la recherche. Il ne peut, au sein de l'entreprise, exercer des fonctions de dirigeant ni être placé dans une situation hiérarchique.
+
+L'autorité dont relève le fonctionnaire est tenue informée des revenus qu'il perçoit à raison de sa participation au capital de l'entreprise, des cessions de titres auxquelles il procède ainsi que des compléments de rémunérations, dans la limite d'un plafond fixé par décret, prévus, le cas échéant, par la convention mentionnée au deuxième alinéa.
+
+La commission mentionnée au troisième alinéa de l'article 25-1 est tenue informée pendant la durée de l'autorisation et durant cinq ans à compter de son expiration ou de son retrait des contrats et conventions conclus entre l'entreprise et le service public de la recherche. Si elle estime que ces informations font apparaître une atteinte aux intérêts matériels et moraux du service public de la recherche, la commission en saisit le ministre dont dépend la personne publique intéressée.
+
+L'autorisation est délivrée et renouvelée par l'autorité dont relève le fonctionnaire après avis de la commission mentionnée au troisième alinéa de l'article 25-1 dans les conditions prévues par les troisième à sixième alinéas de cet article. Elle est retirée ou non renouvelée si les conditions qui avaient permis sa délivrance ne sont plus réunies ou si le fonctionnaire méconnaît les dispositions du présent article. Dans ce cas, le fonctionnaire dispose, pour céder ses droits sociaux, d'un délai d'un an au terme duquel il ne peut plus conserver directement ou indirectement un intérêt quelconque dans l'entreprise. Il ne peut poursuivre son activité dans l'entreprise que dans les conditions prévues au dernier alinéa de l'article 25-1.

@@ -24,7 +24,7 @@ Le Gouvernement dépose, avant le 31 décembre 1996, un rapport au Parlement ret
 
 Pour les années suivantes, le produit ainsi utilisé évolue en fonction de l'indice de variation du prix de la consommation des ménages tel qu'il ressort des hypothèses économiques associées au projet de loi de finances. Lorsque le produit des impositions visées au premier alinéa est supérieur au montant ainsi obtenu, la différence est versée au Fonds national de péréquation de la taxe professionnelle visé à l'article 1648 A bis du code général des impôts.
 
-La fraction du produit des impositions visées au premier alinéa afférente aux taxes mentionnées aux articles 1520 et 1528 du code général des impôts est répartie, selon des critères fixés par le comité des finances locales, entre les communes qui ont institué ces taxes et sur le territoire desquelles sont implantés des établissements de La Poste et de France Télécom.
+La fraction du produit des impositions visées au premier alinéa afférente aux taxes mentionnées aux articles 1520 et 1528 du code général des impôts est répartie, selon des critères fixés par le comité des finances locales, entre les communes ou leurs établissements publics de coopération intercommunale qui ont institué ces taxes et sur le territoire desquels sont implantés des établissements de La Poste et de France Télécom.
 
 7° Les bases d'imposition afférentes à La Poste et à France Télécom ne sont pas prises en compte pour la détermination du potentiel fiscal.
 

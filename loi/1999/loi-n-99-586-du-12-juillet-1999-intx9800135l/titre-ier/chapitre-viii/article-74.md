@@ -1,0 +1,5 @@
+# Article 74
+
+L'arrêté de création d'une communauté d'agglomération ou d'une communauté urbaine ou l'arrêté de transformation d'un établissement public de coopération intercommunale en communauté d'agglomération ou en communauté urbaine vaut établissement d'un périmètre de transports urbains, sauf dans le cas de transformation d'un district ou d'une communauté de villes en communauté d'agglomération ou en communauté urbaine, en application des articles 52 et 56 de la présente loi, dont le périmètre est inclus dans un périmètre de transports urbains établi avant cette transformation en application de l'article 27 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs.
+
+Le principe posé au premier alinéa ne fait pas obstacle à l'établissement d'un périmètre de transports urbains dans les conditions prévues à l'article 27 de la loi n° 82-1153 du 30 décembre 1982 précitée lorsque la communauté d'agglomération ou la communauté urbaine décide de transférer sa compétence d'organisation des transports urbains à un syndicat mixte dans le périmètre duquel elle est incluse.

@@ -1,0 +1,5 @@
+# Article 63
+
+Les personnels employés par une association créée avant la date de promulgation de la présente loi dont la dissolution résulte du transfert intégral de son objet et des moyens corrélatifs à une collectivité territoriale, à un établissement public de coopération intercommunale ou à un syndicat mixte, et qui sont recrutés par cette collectivité, cet établissement ou ce syndicat pour la gestion d'un service public administratif, peuvent continuer à bénéficier des stipulations de leur contrat de travail antérieur lorsqu'elles ne dérogent pas aux dispositions légales et réglementaires régissant les agents non titulaires de la fonction publique territoriale. Sont applicables à ces contrats les conditions de durée résultant du troisième alinéa de l'article 3 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.
+
+Par dérogation à l'article L. 122-9 du code du travail, les personnes recrutées dans les conditions fixées à l'alinéa précédent ne perçoivent pas d'indemnités au titre du licenciement lié à la dissolution de l'association.
