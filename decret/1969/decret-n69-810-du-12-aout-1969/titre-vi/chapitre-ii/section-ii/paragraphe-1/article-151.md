@@ -1,0 +1,5 @@
+# Article 151
+
+Sous réserve des règles de protection et de représentation des incapables, les dispositions de l'article précédent sont applicables à la cession des parts sociales de l'associé frappé d'interdiction légale ou mis sous le régime de la tutelle des majeurs. Dans ce cas, le délai de six mois est porté à un an.
+
+Elles sont également applicables à la cession des parts sociales de l'associé dont l'exclusion de la société a été décidée pour condamnation dans les conditions prévues à l'article 166. Le délai imparti à l'associé exclu pour céder ses parts court du jour où la décision des autres associés prononçant son exclusion lui a été notifiée dans l'une des [*conditions de*] formes prévues à l'article 147.
