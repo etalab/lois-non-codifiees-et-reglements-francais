@@ -1,27 +1,7 @@
 # Article 2
 
-Le conseil d'administration de l'union de recouvrement des cotisations de sécurité sociale et d'allocations familiales de Paris est composé de vingt-quatre membres [*nombre*], dont :
+Les représentants des employeurs sont conjointement désignés par le conseil national du patronat français et la confédération générale des petites et moyennes entreprises [*CNPF, CGPME*].
 
-Douze représentants des assurés et douze représentants des employeurs et travailleurs indépendants.
+Les sièges de représentants des assurés sociaux sont répartis entre les organisations syndicales nationales représentatives à la représentation proportionnelle avec application de la règle du plus fort reste [*mode de scrutin*]. Un arrêté du commissaire de la République du département dans lequel l'union de recouvrement a son siège fixe, sur ces bases, le nombre de sièges revenant à chaque organisation.
 
-Les représentants des salariés sont désignés par les organisations syndicales nationales de salariés les plus représentatives à raison de :
-
-Confédération générale du travail : quatre.
-
-Confédération générale du travail - Force ouvrière : trois.
-
-Confédération française démocratique du travail : trois.
-
-Confédération s'intitulant Confédération française des travailleurs chrétiens : un.
-
-Confédération générale des cadres : un.
-
-Les représentants des employeurs, dont le nombre est fixé à neuf, sont désignés par le conseil national du patronat français.
-
-Les représentants des travailleurs indépendants, dont le nombre est fixé à trois, sont désignés ainsi qu'il suit :
-
-Un membre par le bureau de l'assemblée permanente des chambres de commerce.
-
-Un membre par le bureau de l'assemblée permanente des chambres des métiers.
-
-Un membre par l'union nationale des professions libérales.
+Les représentants des travailleurs indépendants sont désignés respectivement par le bureau de l'assemblée permanente des chambres de commerce et d'industrie, le bureau de l'assemblée permanente des chambres des métiers et l'organisation nationale représentative des professions libérales qui a obtenu le plus grand nombre de voix dans la circonscription de l'union aux élections aux conseils d'administration des caisses d'allocations familiales. Le commissaire de la République désigne, sur cette base, cette organisation.
