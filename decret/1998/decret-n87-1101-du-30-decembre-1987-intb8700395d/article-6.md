@@ -6,17 +6,13 @@ Parmi les fonctionnaires mentionnés à l'article 4 du présent décret, seuls l
 
 2. Secrétaire général adjoint d'une commune de plus de 150 000 habitants ;
 
-3. Directeur d'office public d'habitations à loyer modéré de plus de 10 000 logements.
+3. Directeur général des services des départements ;
 
-4. Directeur de caisse de crédit municipal habilité à exercer les activités de crédit mentionnées au second alinéa de l'article 1er du décret n° 55-622 du 20 mai 1955 modifié.
+4. Directeur général adjoint des services des départements ;
 
-5. Directeur général des services des départements ;
+5. Directeur général des services des régions ;
 
-6. Directeur général adjoint des services des départements ;
-
-7. Directeur général des services des régions ;
-
-8. Directeur général adjoint des services des régions.
+6. Directeur général adjoint des services des régions.
 
 Toutefois, les fonctionnaires appartenant au corps des ingénieurs hospitaliers ou au cadre d'emplois des ingénieurs territoriaux ne peuvent bénéficier de ces dispositions que s'ils sont titulaires au moins du grade d'ingénieur en chef de 1re catégorie.
 
