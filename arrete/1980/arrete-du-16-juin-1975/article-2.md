@@ -2,22 +2,36 @@
 
 Les coefficients d'équivalence applicables aux cultures spécialisées visées à l'article 188-3 du Code rural sont fixés comme suit :
 
-Cultures maraîchères de plein champ : 8
+Cultures légumières de plein champ : 4
 
-Cultures maraîchères de plein champ arrosées : 20
+Cultures maraîchères :
 
-Cultures intensives et primeuristes comportant un certain nombre de châssis : 30
+Irriguées : 15
 
-Vignes en V.C.C. : 5
+Sous abris vitrés : 33
 
-Vignes en A.O.C. : 10
+Sous serres froides : 60
+
+Sous serres chauffées : 120
 
 Vergers : 5
 
-Pépinières : 20
+Vignes C.C. : 3
 
-Cultures horticoles comportant au moins 20 % de surface couverte : 120
+Vignes du Mâconnais sauf grands crus : 5
 
-Pisciculture en bassin : 200
+Vignes grands crus : Beaujolais, Côte chalonnaise : 7
 
-Pisciculture en étang naturel : 0,25.
+Pépinières horticoles et forestières : 6
+
+Pépinières viticoles : 20
+
+Cultures florales :
+
+Irriguées : 15
+
+Sous abris : 60
+
+Sous serres : 135
+
+Tabac : 6.

@@ -1,7 +1,15 @@
 # Article 1
 
-Les superficies minima d'installation en polyculture visées à l'article 188-3 du Code rural sont fixées ainsi qu'il suit pour le département de l'Yonne (en hectares) :
+Les surfaces minima d'installation en polyculture visées à l'article 188-3 du Code rural sont fixées ainsi qu'il suit pour le département de Saône-et-Loire (en hectares) :
 
-Terre Plaine et Morvan : 30
+Bresse louhanaise : 16
 
-Champagne, pays d'Othe, basse Yonne, Vallées, Gâtinais pauvre, Puisaye, plateau de Bourgogne : 35.
+Brionnais, plaine chalonnaise, Bresse chalonnaise, zone accidentée du Clunisois et du Charolais : 18
+
+Mâconnais : 20
+
+Côte chalonnaise : 22
+
+Clunisois et Charolais : 24
+
+Sologne bourbonnaise, Autunois, Morvan : 30.
