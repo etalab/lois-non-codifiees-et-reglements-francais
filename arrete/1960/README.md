@@ -7,6 +7,7 @@
 - [Arrêté du 17 décembre 1959](arrete-du-17-decembre-1959)
 - [Arrêté du 17 février 1960](arrete-du-17-fevrier-1960)
 - [Arrêté du 18 juillet 1958](arrete-du-18-juillet-1958)
+- [Arrêté du 19 juillet 1960](arrete-du-19-juillet-1960)
 - [Arrêté du 20 juillet 1960](arrete-du-20-juillet-1960)
 - [Arrêté du 22 février 1960](arrete-du-22-fevrier-1960)
 - [Arrêté du 26 juillet 1961](arrete-du-26-juillet-1961)
