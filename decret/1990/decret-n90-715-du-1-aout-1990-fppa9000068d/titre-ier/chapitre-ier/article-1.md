@@ -5,5 +5,3 @@ Les corps des agents des services techniques des services déconcentrés des adm
 Les membres des corps des agents des services techniques des services déconcentrés concourent à l'exécution des tâches de service intérieur et peuvent être chargés des fonctions d'huissier.
 
 Ils peuvent également être appelés à exercer leurs fonctions dans les établissements publics administratifs relevant de ces administrations.
-
-Les dispositions du présent titre s'appliquent également au corps des agents des services techniques de la police nationale.
