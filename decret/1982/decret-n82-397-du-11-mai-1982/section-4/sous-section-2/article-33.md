@@ -1,6 +1,8 @@
 # Article 33
 
-Les accidents du travail, les maladies professionnelles, les congés de maternité, les absences d'au moins vingt et un jours pour cause de maladies ou d'accidents non professionnels, les absences répétées doivent être portées à la connaissance du médecin du travail [*informations obligatoires*].
+Les accidents du travail, les maladies professionnelles, les congés de maternité, les absences d'au moins vingt et un jours pour cause de maladies ou d'accidents non professionnels, les absences répétées pour raisons de santé doivent être portées à la connaissance du médecin du travail [*informations obligatoires*].
+
+Lorsque la médecine du travail est organisée dans les conditions prévues aux articles 3 et 4 du présent décret, l'information du médecin du travail est assurée par la caisse de mutualité sociale agricole.
 
 Sous réserve des dispositions des articles L. 122-32-4 et L. 122-32-5 du code du travail, le médecin du travail décide s'il y a lieu de procéder à un examen médical lors de la reprise du travail.
 

@@ -13,5 +13,3 @@ Le médecin du travail est conseiller du chef d'entreprise ou de son représenta
 5° L'hygiène dans les services de restauration ;
 
 6° L'éducation sanitaire dans le cadre de l'établissement en rapport avec l'activité professionnelle.
-
-Il peut participer aux études et enquêtes épidémiologiques.

@@ -8,7 +8,7 @@ Les salariés affectés aux travaux déterminés par l'arrêté mentionné à l'
 
 Les salariés qui viennent de changer d'activité ou de migrer, pendant une période de dix-huit mois à compter de leur nouvelle affectation ;
 
-Les handicapés ;
+les travailleurs handicapés ;
 
 Les femmes enceintes et les mères d'un enfant de moins de deux ans ;
 
