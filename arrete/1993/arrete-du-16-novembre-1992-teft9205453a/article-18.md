@@ -1,3 +1,3 @@
 # Article 18
 
-Le présent arrêté entre en application le 1er janvier 1993. Toutefois, les organismes qui ne répondront pas à toutes les conditions prévues par l'article 3 ci-dessus pourront, sous réserve que leur organisation soit considérée comme néanmoins satisfaisante, bénéficier d'un agrément dont la durée sera limitée à un an renouvelable et dont la date ultime de validité expirera le 31 décembre 1995.
+Le présent arrêté entre en application le 31 mars 1996. Toutefois, les organismes qui ne répondront pas à toutes les conditions prévues par les articles 3 et 4 ci-dessus pourront, sous réserve que leur organisation et leur compétence soient considérées comme néanmoins satisfaisantes, bénéficier d'un agrément qui expirera au 31 décembre 1996.

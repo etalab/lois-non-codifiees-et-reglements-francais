@@ -8,14 +8,8 @@ a) Pour les inscriptions :
 
 - pour la zone Sud, les préfets des régions Aquitaine, Languedoc-Roussillon, Pays de la Loire et Rhône-Alpes ;
 
-b) Pour le déroulement des épreuves :
+b) Pour le déroulement des épreuves et pour les autres actes relatifs à l'organisation du concours :
 
 - pour la zone Nord : le préfet de la région d'Ile-de-France ;
 
-- pour la zone Sud : les préfets des régions Pays de la Loire et Languedoc-Roussillon ;
-
-c) Pour les autres actes relatifs à l'organisation du concours :
-
-- pour la zone Nord : le préfet de la région d'Ile-de-France ;
-
-- pour la zone Sud : le préfet de la région Pays de la Loire.
+- pour la zone Sud : le préfet de la région Languedoc-Roussillon.

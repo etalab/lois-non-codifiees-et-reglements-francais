@@ -12,10 +12,4 @@ Les épreuves se déroulent :
 
 - pour la zone Nord : à Paris ;
 
-- pour la zone Sud : à Nantes et à Montpellier.
-
-Les candidats de la zone Sud se répartissent de la manière suivante entre les deux centres d'épreuves :
-
-- participent aux épreuves à Montpellier les candidats originaires des universités Aix-Marseille-II, Clermont-Ferrand-I, Grenoble-I, Lyon-I, Montpellier-I, Nice, Saint-Etienne et Toulouse-III ;
-
-- participent aux épreuves à Nantes les candidats originaires des universités d'Amiens, Angers, Besançon, Bordeaux-II, Brest, Caen, Dijon, Lille-II, Limoges, Nancy, Nantes, Paris-V, VI, VII, XI, XII et XIII, Poitiers, Reims, Rennes, Rouen, Strasbourg-I, Tours et de la faculté libre de médecine de Lille.
+- pour la zone Sud : à Montpellier.
