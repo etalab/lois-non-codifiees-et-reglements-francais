@@ -1,3 +1,4 @@
 # CHAPITRE III : CAISSE AUTONOME NATIONALE DE LA SECURITE SOCIALE DANS LES MINES.
 
+- [Article 34](article-34.md)
 - [Article 36](article-36.md)
