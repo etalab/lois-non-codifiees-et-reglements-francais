@@ -1,0 +1,3 @@
+# Article 16
+
+Si dans un objectif de sûreté du système électrique insulaire, le gestionnaire du réseau public de distribution souhaite, par des dispositions d'exploitation, pouvoir limiter en fonction de la puissance tournante du système l'appel à des installations de production qui ne participent pas à la réserve primaire puissance/fréquence ou qui peuvent subir une perte fortuite en mode commun de l'énergie primaire, il fournit au producteur avec les résultats de l'étude de raccordement, sur la base d'un historique récent, une évaluation des découplages qui auraient pu être demandés si cette installation avait été raccordée.

@@ -1,0 +1,5 @@
+# Article 18
+
+Les installations de production dont la puissance totale nominale apparente (Sn) dépasse 1 % de la puissance minimale tournante du réseau, sauf si la technique de production ne le permet pas, doivent maintenir, pendant le fonctionnement du groupe, une marge de puissance active, dite réserve primaire ; la valeur maximale de cette marge est fixée à 15 % (en plus ou en moins) de la puissance nominale au groupe. La fonction de réglage correspond à un coefficient de statisme à fixer, selon les groupes, entre 4 % et 6 %.
+
+Les installations considérées comme non marginales en application de l'article 20 doivent être équipées d'un régulateur de tension agissant dans les limites de réglage de la production et de l'absorption de puissance réactive des groupes. Le groupe doit être équipé d'un régulateur qui ajuste en quelques secondes la puissance fournie en fonction de l'écart entre la valeur réelle de la fréquence et sa valeur de consigne. Une régulation lente peut être installée pour permettre au groupe de revenir à sa puissance de consigne initiale (en plus de 10 minutes).
