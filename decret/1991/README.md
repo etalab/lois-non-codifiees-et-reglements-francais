@@ -65,6 +65,7 @@
 - [Décret n°91-424 du 6 mai 1991 (MAEJ9130015D)](decret-n91-424-du-6-mai-1991-maej9130015d)
 - [Décret n°91-425 du 6 mai 1991 (MAEJ9130017D)](decret-n91-425-du-6-mai-1991-maej9130017d)
 - [Décret n°91-426 du 6 mai 1991 (MAEJ9130023D)](decret-n91-426-du-6-mai-1991-maej9130023d)
+- [Décret n° 91-542 du 7 juin 1991 (MENT9100774D)](decret-n-91-542-du-7-juin-1991-ment9100774d)
 - [Décret n°91-1025 du 7 octobre 1991 (SANG9101680D)](decret-n91-1025-du-7-octobre-1991-sang9101680d)
 - [Décret n°91-146 du 7 février 1991 (TEFE9103118D)](decret-n91-146-du-7-fevrier-1991-tefe9103118d)
 - [Décret n°91-147 du 7 février 1991 (DOMX9100023D)](decret-n91-147-du-7-fevrier-1991-domx9100023d)
