@@ -8,10 +8,12 @@ Ce compte retrace :
 
 1° En recettes :
 
-- les versements de la Fédération de Russie à la France en application du mémorandum d'accord signé le 26 novembre 1996 entre le Gouvernement de la République française et le Gouvernement de la Fédération de Russie ;
+- les versements de la Fédération de Russie à la France en application de l'accord signé le 27 mai 1997 entre le Gouvernement de la République française et le Gouvernement de la Fédération de Russie ;
+
+- les versements du budget général représentatifs de la rémunération produite par les sommes versées par la Fédération de Russie en application de cet accord.
 
 2° En dépenses :
 
-- les versements de l'Etat aux personnes physiques et morales détentrices de créances sur des personnes physiques ou morales russes et victimes de spoliations en Russie ou en Union soviétique ;
+- les versements de l'Etat aux personnes physiques ou morales détentrices de valeurs mobilières ou de liquidités ;
 
-- les frais de gestion.
+- les versements de l'Etat à l'Agence nationale pour l'indemnisation des Français d'outre-mer pour l'indemnisation des personnes physiques ou morales détentrices de créances, d'intérêts et d'actifs autres que les valeurs mobilières et les liquidités.
