@@ -733,7 +733,6 @@
 - [Arrêté du 21 mai 1997 (DEFP9701473A)](arrete-du-21-mai-1997-defp9701473a)
 - [Arrêté du 21 mai 1997 (INDB9700327A)](arrete-du-21-mai-1997-indb9700327a)
 - [Arrêté du 21 mai 1997 (MIPC9700106A)](arrete-du-21-mai-1997-mipc9700106a)
-- [Arrêté du 21 mai 1997 (MIPC9700107A)](arrete-du-21-mai-1997-mipc9700107a)
 - [Arrêté du 21 mai 1997 (PARX9702042A)](arrete-du-21-mai-1997-parx9702042a)
 - [Arrêté du 22 août 1997 (DEFD9701779A)](arrete-du-22-aout-1997-defd9701779a)
 - [Arrêté du 22 août 1997 (DEFD9701780A)](arrete-du-22-aout-1997-defd9701780a)

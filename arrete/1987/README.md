@@ -492,7 +492,6 @@
 - [Arrêté du 24 novembre 1987 (DEFP8701846A)](arrete-du-24-novembre-1987-defp8701846a)
 - [Arrêté du 24 novembre 1987 (ENVN8700239A)](arrete-du-24-novembre-1987-envn8700239a)
 - [Arrêté du 24 novembre 1987 (INDG8700785A)](arrete-du-24-novembre-1987-indg8700785a)
-- [Arrêté du 24 septembre 1987 (BUDD8750000A)](arrete-du-24-septembre-1987-budd8750000a)
 - [Arrêté du 24 septembre 1987 (PTTC8700663A)](arrete-du-24-septembre-1987-pttc8700663a)
 - [Arrêté du 25 août 1987 (ASES8701215A)](arrete-du-25-aout-1987-ases8701215a)
 - [Arrêté du 25 août 1987 (ECOC8700032A)](arrete-du-25-aout-1987-ecoc8700032a)
