@@ -1,5 +1,5 @@
 # Article 3
 
-L'emploi de directeur du musée d'Orsay comporte quatre échelons.
+L'emploi de directeur du musée d'Orsay comporte cinq échelons.
 
-La durée du temps des services effectifs passé dans chaque échelon pour accéder à l'échelon supérieur est de deux ans.
+La durée du temps de service effectif passé dans chaque échelon pour accéder à l'échelon supérieur est de deux ans.
