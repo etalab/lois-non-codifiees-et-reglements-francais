@@ -1,15 +1,17 @@
 # Article 6
 
-L'étiquetage des eaux minérales naturelles préemballées qui sont détenues en vue de la vente, mises en vente, vendues ou distribuées à titre gratuit, doit comporter, outre les mentions prévues aux articles R. 112-6 à R. 112-31 du code de la consommation, les mentions suivantes :
+I. - L'étiquetage des eaux minérales naturelles préemballées qui sont détenues en vue de la vente, mises en vente, vendues ou distribuées à titre gratuit, doit comporter, outre les mentions prévues à l'article R. 112-9 du code de la consommation, les mentions suivantes :
 
-a) Le nom de la source ou du mélange des eaux provenant de sources différentes ;
+a) Le nom de la source exploitée par une ou plusieurs émergences naturelles ou forées ;
 
-b) L'indication du lieu d'exploitation, la mention du pays d'origine n'étant obligatoire que pour les eaux minérales naturelles provenant d'une source située hors du territoire de la Communauté économique européenne ;
+b) L'indication du lieu d'exploitation et, dans les cas prévus par les dispositions de l'article R. 112-9 du code de la consommation susvisé, la mention du pays d'origine ;
 
-c) L'inscription d'une mention se rapportant à la composition :
+c) L'indication de la mention de la composition analytique de l'eau minérale naturelle préemballée se rapportant à ses constituants caractéristiques ;
 
-- soit en écrivant "composition conforme aux résultats de l'analyse officiellement reconnue", avec sa date ;
+d) L'indication se rapportant au traitement à l'aide d'air enrichi en ozone ;
 
-- soit en énumérant les éléments caractéristiques déterminés par une analyse officiellement reconnue ;
+e) L'indication se rapportant aux autres traitements ayant pour objet la séparation de certains constituants indésirables, à l'exception de l'opération de filtration ou de décantation ;
 
-d) Le cas échéant, l'indication des traitements de séparation des composés instables, notamment du fer ou du manganèse, par décantation ou filtration.
+f) Les avertissements se rapportant à des teneurs en certains constituants qui excèdent les concentrations fixées en application du II de l'article 4 du présent décret.
+
+II. - Un arrêté du ministre chargé de la consommation et du ministre chargé de la santé fixe, en tant que de besoin, les modalités pratiques d'application des dispositions mentionnées au d, au e et au f du I du présent article.

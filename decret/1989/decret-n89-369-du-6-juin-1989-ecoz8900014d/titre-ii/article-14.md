@@ -1,9 +1,19 @@
 # Article 14
 
-Les traitements ou adjonctions prévus à l'article 13 sont ceux autorisés par arrêté ministériel et relatifs à :
+Une eau de source ne peut faire l'objet que des traitements ou adjonctions prévus par un arrêté du ministre chargé de la santé et du ministre chargé de la consommation, pris après avis du Conseil supérieur d'hygiène publique de France.
 
-1. La séparation des éléments instables et la sédimentation des matières en suspension, par décantation ou filtration, ce traitement qui accélère les processus d'évolution naturelle ne devant pas avoir pour but ou effet de modifier la composition de l'eau ;
+Cet arrêté précise quels sont les traitements ou adjonctions applicables aux eaux de source afin de procéder à :
 
-2. L'incorporation de gaz carbonique.
+1° La séparation des éléments instables, par décantation ou filtration, éventuellement précédée d'une oxygénation ;
 
-Ces traitements ou adjonctions sont réalisés à l'aide de procédés physiques, mettant en oeuvre des matériaux inertes, précédés, le cas échéant, d'une aération. Ils ne doivent pas avoir pour but ou effet de modifier les caractéristiques microbiologiques de l'eau de source.
+2° La séparation des composés du fer, du manganèse et du soufre, ainsi que de l'arsenic, à l'aide d'air enrichi en ozone ;
+
+3° La séparation de constituants indésirables ;
+
+4° L'élimination totale ou partielle de gaz carbonique libre par des procédés exclusivement physiques ;
+
+5° L'incorporation ou la réincorporation de gaz carbonique.
+
+Cet arrêté fixe les conditions techniques à respecter pour appliquer les différents types de traitements mentionnés au premier alinéa.
+
+L'application de ces traitements ne doit pas avoir pour but ou effet de modifier les caractéristiques microbiologiques de l'eau.

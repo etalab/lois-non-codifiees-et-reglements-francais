@@ -1,5 +1,7 @@
 # Article 17
 
-Si la désignation commerciale d'une eau de source déterminée diffère du nom de la source, ou du lieu de son exploitation, l'indication de ce nom doit accompagner la dénomination de vente et être portée en caractères de dimensions au moins comparables à celles utilisées pour indiquer la désignation commerciale.
+Si la désignation commerciale d'une eau de source déterminée diffère du nom de la source ou du lieu de son exploitation, l'indication de ce nom, ou de ce lieu, doit être portée en caractères dont la hauteur et la largeur sont au moins égales à une fois et demie celles du plus grand des caractères utilisés pour l'indication de la désignation commerciale.
+
+La commercialisation d'une eau de source déterminée sous plusieurs désignations commerciales est interdite.
 
 Les dispositions du présent article sont applicables à toute forme d'étiquetage ou de publicité.
