@@ -30,7 +30,7 @@ Cinq membres de droit :
 
 - le directeur de la commission de coordination de la documentation administrative ou son représentant ;
 
-- le chef de la mission interministérielle à l'informatique scientifique et technique ou son représentant ;
+- le directeur de la délégation à l'information, à la communication et à la culture scientifique et technique ;
 
 Un représentant désigné par l'organisme de diffusion défini à l'article 2 ;
 
