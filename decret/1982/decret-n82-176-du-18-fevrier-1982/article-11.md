@@ -1,0 +1,3 @@
+# Article 11
+
+Le tirage au sort des obligations et des dixièmes d'obligation a lieu quarante-cinq jours de bourse avant la date de leur remboursement parmi les titres non encore remboursés, rachetés ou consignés en application de l'article 44 de la loi du 11 février 1982. Les titres à amortir sont ceux dont le numéro a été tiré et ceux dont le numéro suit dans l'ordre naturel des nombres, à l'exception de ceux qui ont été rachetés. Leur total est égal au quinzième, calculé par défaut, des titres non consignés. Pour ces opérations, le nombre un est considéré comme succédant au numéro le plus élevé de ceux portés sur les titres non consignés.
