@@ -1,5 +1,7 @@
-# TITRE II : Habilitation des fonds d'assurance formation du secteur des métiers
+# TITRE II : Les fonds d'assurance formation du secteur des métiers
 
+- [Section 1 : Statuts et organisation](section-1)
+- [Section 2 : Ressources](section-2)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
