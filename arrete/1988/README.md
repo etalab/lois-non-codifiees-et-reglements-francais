@@ -238,6 +238,7 @@
 - [Arrêté du 30 décembre 1987 (ASEP8701931A)](arrete-du-30-decembre-1987-asep8701931a)
 - [Arrêté du 30 décembre 1987 (ASEP8701932A)](arrete-du-30-decembre-1987-asep8701932a)
 - [Arrêté du 30 décembre 1987 (EQUC8701110A)](arrete-du-30-decembre-1987-equc8701110a)
+- [Arrêté du 30 mars 1988 (ECOC8800002A)](arrete-du-30-mars-1988-ecoc8800002a)
 - [Arrêté du 31 décembre 1987 (AGRS8800020A)](arrete-du-31-decembre-1987-agrs8800020a)
 - [Arrêté du 31 décembre 1987 (ASES8800014A)](arrete-du-31-decembre-1987-ases8800014a)
 - [Arrêté du 31 décembre 1987 (ASES8800015A)](arrete-du-31-decembre-1987-ases8800015a)

@@ -12,8 +12,6 @@ et, d'autre part :
 
 3° Le cahier des clauses administratives générales ;
 
-4° Le cahier des clauses administratives particulières ;
+4° Les quatre cahiers des clauses administratives particulières propres aux zones Nord, Sud, Est et Ouest;(2)
 
-5° Le cahier des prescriptions techniques.
-
-(1) Ce cahier des charges pourra être consulté à la direction de l'administration pénitentiaire, 247, rue Saint-Honoré, Paris (1er).
+5° Le cahier des prescriptions techniques, complété par un additif (2).
