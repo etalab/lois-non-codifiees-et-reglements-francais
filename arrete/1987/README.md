@@ -182,6 +182,7 @@
 - [Arrêté du 11 septembre 1986](arrete-du-11-septembre-1986)
 - [Arrêté du 11 mai 1987 (COPC8700030A)](arrete-du-11-mai-1987-copc8700030a)
 - [Arrêté du 11 mai 1987 (ECOT8710020A)](arrete-du-11-mai-1987-ecot8710020a)
+- [Arrêté du 12 août 1987 (ASES8701163A)](arrete-du-12-aout-1987-ases8701163a)
 - [Arrêté du 12 août 1987 (MENL8700491A)](arrete-du-12-aout-1987-menl8700491a)
 - [Arrêté du 12 décembre 1986](arrete-du-12-decembre-1986)
 - [Arrêté du 12 février 1987](arrete-du-12-fevrier-1987)
