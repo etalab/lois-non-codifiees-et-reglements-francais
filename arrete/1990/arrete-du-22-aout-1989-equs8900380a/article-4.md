@@ -2,8 +2,8 @@
 
 La circulation des convois exceptionnels sur autoroutes est interdite :
 
-Du samedi ou veille de jour férié à partir de 12 heures au lundi ou lendemain de jour férié à 12 heures ;
+- du samedi ou veille de jour férié à partir de 12 heures au lundi ou lendemain de jour férié à 6 heures ;
 
-Pendant les périodes d'interdictions complémentaires de circulation des véhicules poids lourds de plus de 7,5 tonnes de poids total autorisé en charge, édictées annuellement par arrêté interministériel, en application de l'article R. 53-2 du code de la route ;
+- pendant les périodes et sur les itinéraires d'interdictions complémentaires de circulation des véhicules de transports de marchandises ou de matières dangereuses édictées annuellement par arrêté interministériel ;
 
-Par temps de verglas et de visibilité réduite à 150 mètres, du fait de conditions météorologiques défavorables.
+- par temps de verglas ou de visibilité réduite à 50 mètres, du fait de conditions météorologiques défavorables.

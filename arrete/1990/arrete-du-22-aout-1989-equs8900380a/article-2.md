@@ -4,4 +4,6 @@ Les dérogations de première sorte ne peuvent être accordées qu'aux convois d
 
 La dérogation, qui résulte de la délivrance d'un arrêté d'autorisation de transport exceptionnel, précise les autoroutes ou sections d'autoroute concernées ainsi que les conditions mises à cet emprunt.
 
-Elle est accordée sous condition suspensive que le transporteur obtienne un accord des gestionnaires des sections empruntées (directions départementales de l'équipement ou sociétés concessionnaires d'autoroutes). A défaut de réception de cet accord au plus tard deux jours francs avant la date prévue par le transporteur, l'emprunt de l'autoroute lui est interdit.
+Le responsable du transport doit, avant chaque voyage et au plus tard trois jours francs avant la date prévue pour le transport, envoyer un avis d'information préalable aux gestionnaires des sections autoroutières empruntées (directions départementales de l'équipement ou sociétés concessionnaires d'autoroutes). Le gestionnaire peut notifier au responsable du transport, au plus tard un jour franc avant la date du transport, un désaccord technique qui a pour objet de modifier la date de passage.
+
+Les convois bénéficiant d'une dérogation de première sorte dont la longueur n'excède pas 20 mètres et le poids de 45 tonnes sont dispensés de cette information préalable.
