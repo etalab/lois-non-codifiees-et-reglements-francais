@@ -23,3 +23,5 @@ VI. - Le nombre des personnes inscrites sur la liste complémentaire d'un concou
 VII. - Lorsqu'il existe plus d'un emploi à pourvoir, par concours, la moitié au moins de ces emplois doit être pourvue en application des dispositions du b du 1°  des articles 4, 12 et 20 et du 2°  de l'article 5.
 
 Lorsqu'il n'existe qu'un emploi à pourvoir, cet emploi est indifféremment pourvu, soit en application du a, soit en application du b du 1° des articles 4, 12 et 20, du 1° ou du 2° de l'article 5.
+
+VIII. - Les ressortissants des Etats membres de l'Union européenne autres que la France ont accès aux corps régis par le présent décret dans les mêmes conditions que les ressortissants français.

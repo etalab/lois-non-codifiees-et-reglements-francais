@@ -1,3 +1,41 @@
 # Article 13
 
-Dans la classe normale, l'ancienneté moyenne donnant accès à l'échelon supérieur est d'un an dans le 1er échelon, un an six mois dans chacun des 2e, 3e, 4e et 5e échelons, de deux ans dans le 6e échelon, de trois ans dans chacun des 7e, 8e, 9e et 10e échelons et de quatre ans dans le 11e échelon.
+L'ancienneté moyenne pour accéder à l'échelon supérieur de la classe normale est fixée ainsi qu'il suit :
+
+Classe normale créée à compter du 1er août 1996
+
+!------------------------------!
+
+!  Grades et   !  Ancienneté   !
+
+!  échelons    !   moyenne     !
+
+!--------------!---------------!
+
+! 13e échelon  !       -       !
+
+! 12e échelon  !     4 ans     !
+
+! 11e échelon  !     3 ans     !
+
+! 10e échelon  !     3 ans     !
+
+!  9e échelon  !     3 ans     !
+
+!  8e échelon  !     3 ans     !
+
+!  7e échelon  !     3 ans     !
+
+!  6e échelon  !  1 an 6 mois  !
+
+!  5e échelon  !  1 an 6 mois  !
+
+!  4e échelon  !  1 an 6 mois  !
+
+!  3e échelon  !  1 an 6 mois  !
+
+!  2e échelon  !  1 an 6 mois  !
+
+! 1er échelon  !     1 an      !
+
+!--------------!---------------!

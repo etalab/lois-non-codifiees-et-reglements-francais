@@ -1,6 +1,6 @@
 # Article 7
 
-Peuvent être nommés au grade d'ingénieur principal, dans les conditions prévues au 1° du premier alinéa de l'article 69 du titre IV du statut général des fonctionnaires, les ingénieurs subdivisionnaires visés à l'article 3 comptant au moins six ans de fonctions dans ce grade.
+Peuvent être nommés au grade d'ingénieur principal, dans les conditions prévues au 1° du premier alinéa de l'article 69 du titre IV du statut général des fonctionnaires, les ingénieurs subdivisionnaires visés à l'article 3 comptant six années au moins de services effectifs dans ce grade.
 
 Peuvent être nommés au grade d'ingénieur en chef de 2e classe, dans la limite de 25 p. 100 de l'effectif des ingénieurs en chef recrutés en application des dispositions de l'article 5 ci-dessus :
 
