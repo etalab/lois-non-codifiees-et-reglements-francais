@@ -2,8 +2,6 @@
 
 L'échelonnement indiciaire applicable au cadre d'emplois des assistants territoriaux médico-techniques est fixé ainsi qu'il suit :
 
-Assistant qualifié de laboratoire hors classe
-
 <table>
 <tbody>
 <tr>
@@ -15,11 +13,11 @@ Assistant qualifié de laboratoire hors classe
 </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>7e échelon</p>
+<td width="454">
+<p align="center">Assistant médico-technique de classe supérieure</p>
 </td>
-<td valign="top" width="227">
-<p align="center">638</p>
+<td width="227">
+<br/>
 </td>
 </tr>
 <tr>
@@ -27,7 +25,7 @@ Assistant qualifié de laboratoire hors classe
 <p>6e échelon</p>
 </td>
 <td valign="top" width="227">
-<p align="center">595</p>
+<p align="center">638</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +33,7 @@ Assistant qualifié de laboratoire hors classe
 <p>5e échelon</p>
 </td>
 <td valign="top" width="227">
-<p align="center">557</p>
+<p align="center">613</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +41,7 @@ Assistant qualifié de laboratoire hors classe
 <p>4e échelon</p>
 </td>
 <td valign="top" width="227">
-<p align="center">522</p>
+<p align="center">580</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +49,7 @@ Assistant qualifié de laboratoire hors classe
 <p>3e échelon</p>
 </td>
 <td valign="top" width="227">
-<p align="center">485</p>
+<p align="center">548</p>
 </td>
 </tr>
 <tr>
@@ -59,59 +57,7 @@ Assistant qualifié de laboratoire hors classe
 <p>2e échelon</p>
 </td>
 <td valign="top" width="227">
-<p align="center">455</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>1er échelon</p>
-</td>
-<td valign="top" width="227">
-<p align="center">422</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="454">
-<p align="center">ASSISTANT QUALIFIE DE LABORATOIRE<br/>de classe supérieure</p>
-</td>
-<td width="227">
-<p align="center">INDICES<br/>bruts</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>5e échelon</p>
-</td>
-<td valign="top" width="227">
-<p align="center">593</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>4e échelon</p>
-</td>
-<td valign="top" width="227">
-<p align="center">565</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>3e échelon</p>
-</td>
-<td valign="top" width="227">
-<p align="center">530</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>2e échelon</p>
-</td>
-<td valign="top" width="227">
-<p align="center">499</p>
+<p align="center">514</p>
 </td>
 </tr>
 <tr>
@@ -122,16 +68,12 @@ Assistant qualifié de laboratoire hors classe
 <p align="center">471</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td width="454">
-<p align="center">ASSISTANT QUALIFIE DE LABORATOIRE<br/>de classe normale</p>
+<p align="center">Assistant médico-technique de classe normale</p>
 </td>
 <td width="227">
-<p align="center">INDICES<br/>bruts</p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -139,7 +81,7 @@ Assistant qualifié de laboratoire hors classe
 <p>8e échelon</p>
 </td>
 <td valign="top" width="227">
-<p align="center">558</p>
+<p align="center">568</p>
 </td>
 </tr>
 <tr>
