@@ -10,6 +10,6 @@ quatre heures ; coefficient 4) ;
 
 Cette épreuve, destinée à évaluer les connaissances générales du candidat, portera sur les problèmes politiques, économiques, culturels ou sociaux du monde contemporain (durée : deux heures ; coefficient 2) ;
 
-3. Un questionnaire à réponses ouvertes et courtes (QROC) portant sur la défense et la sécurité civiles (durée : deux heures ; coefficient 2).
+3. Un questionnaire à réponses ouvertes et courtes (QROC) portant sur la défense et la sécurité civiles et les connaissances scientifiques et techniques relatives à la gestion des risques, la sécurité et l'environnement (durée : 2 heures ; coefficient 2).
 
-Cette épreuve a pour objet d'apprécier les connaissances du candidat et l'intérêt qu'il porte aux questions de défense et de sécurité civiles.
+Cette épreuve a pour objet d'apprécier, d'une part, les connaissances du candidat et l'intérêt qu'il porte aux questions de défense et de sécurité civiles et, d'autre part, ses connaissances en matière de gestion des risques, de sécurité et d'environnement.

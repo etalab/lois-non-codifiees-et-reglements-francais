@@ -2,7 +2,7 @@
 
 Il est prélevé mensuellement, au profit de la caisse de retraites, une retenue, dont le taux est fixé par décret, sur les appointements ou salaires fixes perçus au théâtre par les tributaires de la caisse, à l'exclusion des indemnités de toute nature [*montant, taux de la cotisation*].
 
-Pour le calcul de la retenue, il n'est tenu compte que de la partie de la rémunération n'excédant pas le produit par le coefficient 3,27 de la somme du traitement brut correspondant à l'indice 405 brut, tel qu'il résulte des barèmes annexés au décret n° 72-908 du 6 octobre 1972 et aux textes subséquents, et de l'indemnité de résidence y afférente perçue par l'ensemble des fonctionnaires en résidence à Paris [*assiette*].
+La retenue mentionnée à l'alinéa précédent est assise sur la rémunération dans la limite des traitements et soldes annuels bruts correspondant au groupe hors échelle G des personnels civils et militaires de l'Etat, des personnels des collectivités territoriales et des établissements publics d'hospitalisation, tel que fixé par l'article 6 du décret n° 85-1148 du 24 octobre 1985 modifié.
 
 Pour les personnels artistiques visés au paragraphe II de l'article 2 ci-dessus, le plafond des cotisations fixé à l'alinéa précédent est réduit au prorata du temps de leur mise à disposition du théâtre.
 

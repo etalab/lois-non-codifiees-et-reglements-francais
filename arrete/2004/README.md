@@ -33,6 +33,7 @@
 - [Arrêté du 4 février 2004 (EQUS0400221A)](arrete-du-4-fevrier-2004-equs0400221a)
 - [Arrêté du 4 février 2004 (MENF0302903A)](arrete-du-4-fevrier-2004-menf0302903a)
 - [Arrêté du 4 mars 2004 (SANS0420800A)](arrete-du-4-mars-2004-sans0420800a)
+- [Arrêté du 4 mai 2004 (MENE0400866A)](arrete-du-4-mai-2004-mene0400866a)
 - [Arrêté du 5 décembre 2003 (EQUH0301792A)](arrete-du-5-decembre-2003-equh0301792a)
 - [Arrêté du 5 décembre 2003 (EQUH0301793A)](arrete-du-5-decembre-2003-equh0301793a)
 - [Arrêté du 5 février 2004 (AGRA0302335A)](arrete-du-5-fevrier-2004-agra0302335a)
