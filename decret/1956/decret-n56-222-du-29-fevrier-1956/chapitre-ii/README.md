@@ -2,7 +2,6 @@
 
 - [Section II : Chambres régionales.](section-ii)
 - [Section III : De la chambre nationale.](section-iii)
-- [Section IV : De la caisse de prêts.](section-iv)
 - [Section V : De la caisse de prêts.](section-v)
 - [Section VI : Dispositions communes.](section-vi)
 - [Article 40-1](article-40-1.md)
