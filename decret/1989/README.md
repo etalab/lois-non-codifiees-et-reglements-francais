@@ -51,6 +51,7 @@
 - [Décret n°89-150 du 6 mars 1989 (EXTX8910056D)](decret-n89-150-du-6-mars-1989-extx8910056d)
 - [Décret n°89-155 du 6 mars 1989 (MAEJ8930015D)](decret-n89-155-du-6-mars-1989-maej8930015d)
 - [Décret n°89-369 du 6 juin 1989 (ECOZ8900014D)](decret-n89-369-du-6-juin-1989-ecoz8900014d)
+- [Décret n°89-452 du 6 juillet 1989 (MENF8901546D)](decret-n89-452-du-6-juillet-1989-menf8901546d)
 - [Décret n°89-724 du 6 octobre 1989 (AGRA8901618D)](decret-n89-724-du-6-octobre-1989-agra8901618d)
 - [Décret n°89-76 du 6 février 1989 (INDA8800726D)](decret-n89-76-du-6-fevrier-1989-inda8800726d)
 - [Décret n°89-84 du 6 février 1989 (RESW8800895D)](decret-n89-84-du-6-fevrier-1989-resw8800895d)
