@@ -221,7 +221,6 @@
 - [Décret du 20 janvier 1948](decret-du-20-janvier-1948)
 - [Décret n°87-184 du 20 mars 1987 (INTF8700088D)](decret-n87-184-du-20-mars-1987-intf8700088d)
 - [Décret n°87-196 du 20 mars 1987 (ECOP8700089D)](decret-n87-196-du-20-mars-1987-ecop8700089d)
-- [Décret n°87-30 du 20 janvier 1987](decret-n87-30-du-20-janvier-1987)
 - [Décret n°87-682 du 20 août 1987 (ECOX8798377D)](decret-n87-682-du-20-aout-1987-ecox8798377d)
 - [Décret n°87-337 du 20 mai 1987](decret-n87-337-du-20-mai-1987)
 - [Décret n°87-1024 du 21 décembre 1987 (MAEJ8730061D)](decret-n87-1024-du-21-decembre-1987-maej8730061d)
