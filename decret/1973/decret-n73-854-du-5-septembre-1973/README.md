@@ -4,5 +4,4 @@
 - [Annexes](annexes)
 - [COMPOSITION DES CONSEILS REGIONAUX.](composition-des-conseils-regionaux)
 - [Contentieux des élections.](contentieux-des-elections)
-- [DISPOSITIONS TRANSITOIRES](dispositions-transitoires)
 - [FONCTIONNEMENT DES CONSEILS REGIONAUX.](fonctionnement-des-conseils-regionaux)
