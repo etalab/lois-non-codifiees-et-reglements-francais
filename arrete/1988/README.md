@@ -423,7 +423,6 @@
 - [Arrêté du 21 juin 1988 (PTTT8800497A)](arrete-du-21-juin-1988-pttt8800497a)
 - [Arrêté du 21 juin 1988 (PTTT8800498A)](arrete-du-21-juin-1988-pttt8800498a)
 - [Arrêté du 21 juin 1988 (PTTT8800499A)](arrete-du-21-juin-1988-pttt8800499a)
-- [Arrêté du 21 juin 1988 (RESY8800725A)](arrete-du-21-juin-1988-resy8800725a)
 - [Arrêté du 21 juin 1988 (TEFE8803582A)](arrete-du-21-juin-1988-tefe8803582a)
 - [Arrêté du 21 mars 1978](arrete-du-21-mars-1978)
 - [Arrêté du 21 mars 1988 (AGRS8800587A)](arrete-du-21-mars-1988-agrs8800587a)

@@ -96,7 +96,6 @@
 - [Décret n°88-964 du 12 octobre 1988 (ECOD8870011D)](decret-n88-964-du-12-octobre-1988-ecod8870011d)
 - [Décret n°88-965 du 12 octobre 1988 (ECOD8870012D)](decret-n88-965-du-12-octobre-1988-ecod8870012d)
 - [Décret n°88-974 du 12 octobre 1988 (SPSH8801261D)](decret-n88-974-du-12-octobre-1988-spsh8801261d)
-- [Décret n°88-39 du 13 janvier 1988 (JUSB8810001D)](decret-n88-39-du-13-janvier-1988-jusb8810001d)
 - [Décret n°88-817 du 13 juillet 1988 (MAEJ8830044D)](decret-n88-817-du-13-juillet-1988-maej8830044d)
 - [Décret n°88-818 du 13 juillet 1988 (MAEJ8830045D)](decret-n88-818-du-13-juillet-1988-maej8830045d)
 - [Décret n°88-976 du 13 octobre 1988 (SPSH8801218D)](decret-n88-976-du-13-octobre-1988-spsh8801218d)
