@@ -1,0 +1,9 @@
+# Article 1
+
+Les ingénieurs des travaux agricoles forment un corps à vocation interministérielle classé dans la catégorie A prévue à l'article 29 de la loi du 11 janvier 1984 susvisée et relevant du ministre chargé de l'agriculture.
+
+Ils ont vocation à servir en position normale d'activité dans les services relevant du ministre chargé de l'agriculture, dans les établissements publics administration sous sa tutelle, dans les établissements mentionnés aux articles L. 811-8 et L. 812-3 du code rural, ainsi que dans d'autres administrations ou établissements publics administratifs de l'État désignées par des arrêtés conjoints du ministre chargés de l'agriculture, du ministre chargé de la fonction publique et du ministre dont dépend l'administration ou l'établissement public intéressé. L'affectation dans ces autres administrations ou établissements publics est prononcée par arrêté conjoint du ministre chargé de l'agriculture et du ministre dont dépend l'administration ou l'établissement public administratif concerné.
+
+Les fonctionnaires de ce corps exercent leurs compétences, en matière scientifique, technique, économique, administrative ou pédagogique dans les domaines relevant de l'agronomie, la production, la transformation et la commercialisation des produits agricoles, la santé et la protection animales, la qualité des produits, l'hygiène alimentaire, la protection des végétaux, l'élevage et les haras, l'économie agricole et agro-industrielle, l'aménagement de l'espace rural, la gestion de l'environnement et des ressources naturelles, le développement rural, l'enseignement, la formation et le développement agricoles et l'animation rurale, l'aquaculture, les statistiques agricoles.
+
+Ils ont en outre vocation à exercer ces compétences dans le cadre de la coopération technique internationale.
