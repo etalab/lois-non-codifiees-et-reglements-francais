@@ -62,6 +62,7 @@
 - [Arrêté du 3 mars 2004 (INTF0400158A)](arrete-du-3-mars-2004-intf0400158a)
 - [Arrêté du 3 octobre 2005 (EQUP0501296A)](arrete-du-3-octobre-2005-equp0501296a)
 - [Arrêté du 3 septembre 2004 (AGRG0401960A)](arrete-du-3-septembre-2004-agrg0401960a)
+- [Arrêté du 3 septembre 2004 (DEFP0400799A)](arrete-du-3-septembre-2004-defp0400799a)
 - [Arrêté du 3 mai 2004 (INDI0402919A)](arrete-du-3-mai-2004-indi0402919a)
 - [Arrêté du 4 août 2004 (SOCG0411581A)](arrete-du-4-aout-2004-socg0411581a)
 - [Arrêté du 4 février 2004 (ECOT0414389A)](arrete-du-4-fevrier-2004-ecot0414389a)
