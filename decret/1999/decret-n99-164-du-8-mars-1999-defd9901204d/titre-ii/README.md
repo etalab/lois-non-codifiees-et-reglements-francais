@@ -6,5 +6,5 @@
 - [Chapitre III : Direction des affaires juridiques.](chapitre-iii)
 - [Chapitre IV : Direction du service national.](chapitre-iv)
 - [Chapitre V : Service du patrimoine.](chapitre-v)
-- [Chapitre VI : Service des moyens généraux.](chapitre-vi)
+- [Chapitre VI: Direction des statuts, des pensions et de la réinsertion sociale.](chapitre-vi)
 - [Chapitre VII : Service des moyens généraux.](chapitre-vii)

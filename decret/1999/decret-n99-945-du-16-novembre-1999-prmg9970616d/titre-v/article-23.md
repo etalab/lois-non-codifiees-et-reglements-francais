@@ -1,0 +1,5 @@
+# Article 23
+
+Les administrateurs civils issus du concours interne nommés dans le corps avant le 20 février 1999 et classés, à ce jour, au plus au 6e échelon de la 2e classe peuvent, s'ils en ont fait la demande dans les conditions prévues à l'article 13 du décret du 17 février 1999 susvisé, bénéficier des conditions de classement dans le corps des administrateurs civils prévues à l'article 9 du présent décret. Il en est de même de ceux issus du troisième concours classés au plus au 5e échelon de la 2e classe.
+
+De la même façon, les administrateurs civils issus du concours interne et classés au 1er échelon de la 1re classe qui en ont fait la demande dans les mêmes conditions peuvent être classés au 2e échelon de la 1re classe si leur situation au 20 février 1999 est moins favorable que celle qui aurait résulté de l'application des dispositions de l'article 9 du présent décret. Leur ancienneté d'échelon est calculée selon les dispositions prévues aux deuxième et troisième alinéas de cet article.
