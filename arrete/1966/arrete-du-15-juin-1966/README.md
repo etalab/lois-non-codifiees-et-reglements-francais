@@ -2,4 +2,5 @@
 
 - [Article 1](article-1.md)
 - [Article 1 BIS](article-1-bis.md)
+- [Article 1 TER](article-1-ter.md)
 - [Article 2](article-2.md)
