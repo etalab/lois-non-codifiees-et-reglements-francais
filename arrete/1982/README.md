@@ -30,6 +30,7 @@
 - [Arrêté du 10 mai 1982](arrete-du-10-mai-1982)
 - [Arrêté du 11 février 1982](arrete-du-11-fevrier-1982)
 - [Arrêté du 11 janvier 1982](arrete-du-11-janvier-1982)
+- [Arrêté du 11 juillet 1980](arrete-du-11-juillet-1980)
 - [Arrêté du 11 juin 1982](arrete-du-11-juin-1982)
 - [Arrêté du 11 mars 1982](arrete-du-11-mars-1982)
 - [Arrêté du 11 mai 1982](arrete-du-11-mai-1982)
