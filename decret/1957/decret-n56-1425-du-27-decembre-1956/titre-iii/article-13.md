@@ -1,3 +1,5 @@
 # Article 13
 
 Dans le cas où, par application de l'article 4 de la loi susvisée du 18 avril 1955, le concessionnaire est une société d'économie mixte, les dispositions des articles 13 à 16 inclus du décret n° 56-1109 du 6 novembre 1956 s'appliquent à celle-ci. Dans ce cas, les statuts de la sociétés sont approuvés par décret en Conseil d'Etat pris sur le rapport du ministre chargé des travaux publics, au ministre de l'économie et des finances et, si des collectivités locales participent à la société, du ministre de l'intérieur.
+
+" Toutefois les modifications statutaires qui ont pour seul objet la mise en conformité des statuts avec les dispositions législatives et réglementaires, ou les stipulations de la convention de concession, sont simplement notifiées par la société d'économie mixte aux ministres chargés respectivement de la voirie nationale, des finances, du budget et, le cas échéant, des collectivités locales, dans le mois [*délai*] qui suit la délibération de son assemblée générale extraordinaire. "
