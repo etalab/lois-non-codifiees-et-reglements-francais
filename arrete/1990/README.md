@@ -611,7 +611,6 @@
 - [Arrêté du 21 décembre 1989 (MENH8902996A)](arrete-du-21-decembre-1989-menh8902996a)
 - [Arrêté du 21 décembre 1990 (SPSS9002512A)](arrete-du-21-decembre-1990-spss9002512a)
 - [Arrêté du 21 décembre 1992 (INTA9300030A)](arrete-du-21-decembre-1992-inta9300030a)
-- [Arrêté du 21 février 1990 (MCCB9000081A)](arrete-du-21-fevrier-1990-mccb9000081a)
 - [Arrêté du 21 juin 1990 (SPSP9001239A)](arrete-du-21-juin-1990-spsp9001239a)
 - [Arrêté du 21 mars 1990 (CPTP9000002A)](arrete-du-21-mars-1990-cptp9000002a)
 - [Arrêté du 21 mars 1990 (INTB9000139A)](arrete-du-21-mars-1990-intb9000139a)
