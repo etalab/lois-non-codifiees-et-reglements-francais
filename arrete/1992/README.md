@@ -457,7 +457,6 @@
 - [Arrêté du 11 mai 1992 (EQUA9200836A)](arrete-du-11-mai-1992-equa9200836a)
 - [Arrêté du 11 mai 1992 (EQUA9200892A)](arrete-du-11-mai-1992-equa9200892a)
 - [Arrêté du 11 mai 1992 (EQUT9200461A)](arrete-du-11-mai-1992-equt9200461a)
-- [Arrêté du 11 mai 1992 (INTB9200232A)](arrete-du-11-mai-1992-intb9200232a)
 - [Arrêté du 11 mai 1992 (INTB9200235A)](arrete-du-11-mai-1992-intb9200235a)
 - [Arrêté du 12 août 1991 (INDB9100504A)](arrete-du-12-aout-1991-indb9100504a)
 - [Arrêté du 12 août 1992 (AGRA9201342A)](arrete-du-12-aout-1992-agra9201342a)
