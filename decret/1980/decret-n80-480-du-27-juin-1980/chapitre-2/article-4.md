@@ -1,5 +1,5 @@
 # Article 4
 
-Le défaut de production, dans les délais prescrits, du document prévu à l'article 3 ci-dessus entraîne une pénalité de 5.000 F par bordereau. Si le retard excède un mois, une pénalité identique est automatiquement appliquée pour chaque mois ou fraction de mois de retard [*majoration*].
+Le défaut de production, dans les délais prescrits, du document prévu à l'article 3 ci-dessus entraîne une pénalité de 760 euros par bordereau. Si le retard excède un mois, une pénalité identique est automatiquement appliquée pour chaque mois ou fraction de mois de retard [*majoration*].
 
-Une pénalité de 5.000 F par bordereau est aussi encourue en cas d'inexactitude de l'assiette déclarée [*fausse déclaration*].
+Une pénalité de 760 euros par bordereau est aussi encourue en cas d'inexactitude de l'assiette déclarée [*fausse déclaration*].
