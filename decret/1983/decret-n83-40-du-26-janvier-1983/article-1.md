@@ -1,27 +1,35 @@
 # Article 1
 
-Les dispositions du présent décret sont applicables aux personnels, y compris le personnel d'encadrement, des établissements et professions qui ressortissent aux classes ci-après des nomenclatures d'activité et de produits approuvés par le décret n° 73-1036 du 9 novembre 1973 [*Code APE*] :
+Les dispositions du présent décret sont applicables aux personnels, y compris le personnel d'encadrement, des établissements et professions qui ressortissent aux classes ci-après des nomenclatures d'activités et de produits approuvées par le décret n° 92-1129 du 2 octobre 1992 :
 
-69.11 Transports routiers de marchandises en zone longue.
+60.2 A   Transports urbains de voyageurs (uniquement pour ce qui concerne le transport scolaire ou de personnel, ainsi que les navettes ville-aéroport) ;
 
-69.12 Camionnage et transports routiers de marchandises en       zone courte.
+60.2 B   Transports routiers réguliers de voyageurs ;
 
-69.22 Transports routiers de voyageurs (transports routiers          interurbains de voyageurs en service régulier (spécialisé          ou non) ou occasionnel, location d'autocars avec          chauffeur).
+60.2 E   Transport de voyageurs par taxis (à l'exception de la location de voitures avec chauffeur) ;
 
-69.23 Taxis.
+60.2 G   Autres transports routiers de voyageurs ;
 
-69.24 Déménagement (y compris garde-meubles).
+60.2 L    Transports routiers de marchandises de proximité ;
 
-69.25 Location de véhicules industriels (avec ou sans chauffeur).
+60.2 M  Transports routiers de marchandises interurbains ;
 
-73.01 Gares routières.
+60.2 N  Déménagement ;
 
-74.01 Collecte de fret maritime.
+60.2 P   Location de camions avec conducteur ;
 
-74.02 Collecte de fret aérien.
+63.2 A   Gestion d'infrastructures de transports terrestres (uniquement pour les gares routières) ;
 
-74.03 Collecte de fret terrestre et fluvial.
+63.4 A   Messagerie, fret express ;
 
-77.14 Services divers rendus principalement aux entreprises          (uniquement pour les activités de transport de fonds          exercées à titre principal).
+63.4 B   Affrètement ;
 
-84.13 Ambulances.
+63.4 C   Organisation des transports internationaux ;
+
+64.1 C   Autres activités de courrier ;
+
+71.2 A   Location d'autres matériels de transport terrestre (uniquement location de véhicules industriels sans conducteur) ;
+
+74.6 Z   Enquêtes et sécurité (uniquement pour les services de transports de fonds exercés à titre principal) ;
+
+85.1 J   Ambulances.

@@ -8,7 +8,7 @@ Réserve faite pour le cas d'horaires individualisés institués selon l'article
 
 En cas d'organisation du travail par équipes, la composition nominative de chacune de celles-ci est indiquée, soit par un tableau affiché dans les mêmes conditions que l'horaire, soit par un registre spécial tenu constamment à jour et mis à la disposition du service de l'inspection du travail.
 
-Paragraphe 2. Pour le personnel roulant, la durée du travail est attestée et contrôlée au moyen du document de contrôle approprié (selon le cas, horaires de service, livret individuel de contrôle, feuille d'enregistrement) prévu par les règlements C.E.E. n° 543-69 du 25 mars 1969 modifié et C.E.E. n° 1463-70 du 20 juillet 1970 modifié et par l'arrêté du 11 février 1971 relatifs à la réglementation des conditions de travail des membres d'équipages dans les transports routiers.
+Paragraphe 2. Pour le personnel roulant, la durée du travail est attestée et contrôlée au moyen du document de contrôle approprié prévu par les règlements (C.E.E.) n° 3820-85 du 20 décembre 1985 et (C.E.E.) n° 3821-85 du 20 décembre 1985 modifié et par la réglementation applicable au document de contrôle des conditions de travail des membres d'équipage des transports routiers.
 
 Paragraphe 3. Dans les entreprises de collecte de fret maritime ou aérien visées à l'article premier, les horaires de travail du personnel dont l'activité est indispensable aux opérations rendues nécessaires par les mouvements des navires ou des avions peuvent être décalés en fonction desdits mouvements.
 
