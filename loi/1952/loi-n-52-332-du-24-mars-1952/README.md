@@ -1,5 +1,6 @@
 # Loi n° 52-332 du 24 mars 1952 relative aux entreprises de crédit différé
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 4](article-4.md)
 - [Article 9](article-9.md)
