@@ -6,6 +6,7 @@
 - [Décret n°2001-909 du 1 octobre 2001 (MESP0123013D)](decret-n2001-909-du-1-octobre-2001-mesp0123013d)
 - [Décret n°94-183 du 1 mars 1994 (JUSC9420139D)](decret-n94-183-du-1-mars-1994-jusc9420139d)
 - [Décret n°2001-900 du 2 octobre 2001 (MESA0123182D)](decret-n2001-900-du-2-octobre-2001-mesa0123182d)
+- [Décret n°89-403 du 2 juin 1989 (PRMX8900068D)](decret-n89-403-du-2-juin-1989-prmx8900068d)
 - [Décret n°96-292 du 2 avril 1996 (JUSC9620100D)](decret-n96-292-du-2-avril-1996-jusc9620100d)
 - [Décret n°2001-400 du 2 mai 2001 (MENS0100778D)](decret-n2001-400-du-2-mai-2001-mens0100778d)
 - [Décret n°2001-797 du 3 septembre 2001 (ECOM0110446D)](decret-n2001-797-du-3-septembre-2001-ecom0110446d)
