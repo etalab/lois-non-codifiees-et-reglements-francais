@@ -118,6 +118,7 @@
 - [Décret n°79-505 du 28 juin 1979](decret-n79-505-du-28-juin-1979)
 - [Décret n°79-507 du 28 juin 1979](decret-n79-507-du-28-juin-1979)
 - [Décret n°79-417 du 28 mai 1979](decret-n79-417-du-28-mai-1979)
+- [Décret du 29 août 1979](decret-du-29-aout-1979)
 - [Décret n°78-1305 du 29 décembre 1978](decret-n78-1305-du-29-decembre-1978)
 - [Décret n°79-254 du 29 mars 1979](decret-n79-254-du-29-mars-1979)
 - [Décret n°79-257 du 29 mars 1979](decret-n79-257-du-29-mars-1979)
