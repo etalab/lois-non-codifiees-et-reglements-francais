@@ -1,3 +1,0 @@
-# Article 1
-
-L'exemption totale de l'impôt sur les spectacles prévue au b du 3° de l'article 1561 du code général des impôts est prorogée jusqu'au 31 décembre 1996 pour les compétitions relevant des activités sportives ci-après : aïkido, badminton, balle au tambourin, ballon au poing, ball-trap, base-ball, boxe française, canne, canoë-kayak, char à voile, escalade, football américain, haltérophilie, handball, hockey-sur-gazon, javelot-tir sur cible, jeu de paume, judo, karaté, kendo, longue paume, lutte, motonautisme, parachutisme, patinage à roulettes, pelote basque, pentathlon, pétanque et jeu provençal, racquet ball, ski, squash- raquettes, sports boules, sports de quilles, surf, tchouk-ball, tennis de table, tir, tir à l'arc, trampoline, triathlon et volley- ball.

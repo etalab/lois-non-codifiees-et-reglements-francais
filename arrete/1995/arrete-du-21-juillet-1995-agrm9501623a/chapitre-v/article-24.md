@@ -1,3 +1,0 @@
-# Article 24
-
-Les zones de production pour lesquelles les données de la surveillance déjà acquises sont insuffisantes pour constituer une étude de zone telle que décrite au chapitre II ci-dessus font l'objet d'un classement de salubrité provisoire sur la base des données disponibles et jusqu'à obtention des résultats nécessaires à son classement définitif. Ces données peuvent, le cas échéant, n'être acquises que préalablement et pendant la durée des campagnes de récolte. L'autorisation d'exploitation ou de récolte est subordonnée à la réalisation d'analyses préalables ainsi qu'à la mise en oeuvre de mesures de surveillance pendant la phase d'exploitation.

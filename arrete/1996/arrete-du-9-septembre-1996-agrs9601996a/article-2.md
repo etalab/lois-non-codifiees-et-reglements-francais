@@ -1,3 +1,0 @@
-# Article 2
-
-Les recettes de ce budget sont constituées par un prélèvement sur le produit des cotisations complémentaires prévues à l'article 1003-8, au titre des régimes d'assurance vieillesse des salariés et des non-salariés. Le prélèvement au titre desdits régimes est fixé à 79 000 000 F pour le régime des salariés et à 141 000 000 F pour celui des non-salariés. En ce qui concerne le régime des salariés, le prélèvement s'effectuera en totalité au prorata des assiettes déplafonnées des cotisations d'assurance vieillesse ; pour le régime des non-salariés, il s'effectuera à hauteur de 104 000 000 F au prorata des assiettes déplafonnées et à hauteur de 37 000 000 F au prorata des assiettes plafonnées d'assurance vieillesse.

@@ -1,7 +1,6 @@
 # 1992
 
 - [Arrêté du 1 août 1990 (MENK9070115A)](arrete-du-1-aout-1990-menk9070115a)
-- [Arrêté du 1 avril 1992 (AGRG9200468A)](arrete-du-1-avril-1992-agrg9200468a)
 - [Arrêté du 1 avril 1992 (AGRS9200274A)](arrete-du-1-avril-1992-agrs9200274a)
 - [Arrêté du 1 avril 1992 (ECOT9226057A)](arrete-du-1-avril-1992-ecot9226057a)
 - [Arrêté du 1 avril 1992 (TEFE9204592A)](arrete-du-1-avril-1992-tefe9204592a)
@@ -166,7 +165,6 @@
 - [Arrêté du 5 août 1992 (ECOC9200085A)](arrete-du-5-aout-1992-ecoc9200085a)
 - [Arrêté du 5 août 1992 (EQUT9201024A)](arrete-du-5-aout-1992-equt9201024a)
 - [Arrêté du 5 août 1992 (PTTR9200391A)](arrete-du-5-aout-1992-pttr9200391a)
-- [Arrêté du 5 août 1992 (RESY9200155A)](arrete-du-5-aout-1992-resy9200155a)
 - [Arrêté du 5 décembre 1991 (ECOT9116154A)](arrete-du-5-decembre-1991-ecot9116154a)
 - [Arrêté du 5 décembre 1991 (ECOT9116155A)](arrete-du-5-decembre-1991-ecot9116155a)
 - [Arrêté du 5 décembre 1991 (INDB9101016A)](arrete-du-5-decembre-1991-indb9101016a)

@@ -400,7 +400,6 @@
 - [Arrêté du 11 février 1994 (EQUH9400323A)](arrete-du-11-fevrier-1994-equh9400323a)
 - [Arrêté du 11 février 1994 (EQUS9400346A)](arrete-du-11-fevrier-1994-equs9400346a)
 - [Arrêté du 11 février 1994 (EQUU9400321A)](arrete-du-11-fevrier-1994-equu9400321a)
-- [Arrêté du 11 janvier 1994 (AGRM9400160A)](arrete-du-11-janvier-1994-agrm9400160a)
 - [Arrêté du 11 janvier 1994 (ECOC9300144A)](arrete-du-11-janvier-1994-ecoc9300144a)
 - [Arrêté du 11 janvier 1994 (ECOC9300145A)](arrete-du-11-janvier-1994-ecoc9300145a)
 - [Arrêté du 11 janvier 1994 (INDP9400031A)](arrete-du-11-janvier-1994-indp9400031a)
