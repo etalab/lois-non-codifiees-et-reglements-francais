@@ -1,0 +1,3 @@
+# Article 1
+
+A compter du 1er juillet 2000, les mesures d'application des dispositions des articles L. 351-3 à L. 351-8 du code du travail relatives au régime d'assurance chômage des travailleurs privés d'emploi sont constituées par les dispositions de la convention du 1er janvier 1997 modifiée relative à l'assurance chômage, du règlement qui est joint à cette convention et des annexes à ce règlement en vigueur au 30 juin 2000, ainsi que par les délibérations de la commission paritaire nationale et par les décisions du conseil d'administration et du bureau de l'Union nationale pour l'emploi dans l'industrie et le commerce, prises avant le 1er juillet 2000.

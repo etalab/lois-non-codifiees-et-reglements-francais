@@ -8,4 +8,4 @@ Peuvent être admis à concourir les agents mentionnés à l'article 50 et compt
 
 2° Par inscription sur une liste d'aptitude établie en application du 2° de l'article 35 de la loi du 9 janvier 1986 susvisée et dans la limite du 1/5 des titularisations prononcées au titre du présent article.
 
-Peuvent être inscrits sur cette liste les fonctionnaires hospitaliers appartenant à un corps classé en catégorie C ou D et comptant au moins neuf ans de services publics.
+Peuvent être inscrits sur cette liste les fonctionnaires hospitaliers appartenant à un corps classé dans la catégorie C comptant au moins neuf ans de services publics.

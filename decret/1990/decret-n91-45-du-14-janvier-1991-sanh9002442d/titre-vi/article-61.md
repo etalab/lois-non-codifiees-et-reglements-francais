@@ -1,3 +1,3 @@
 # Article 61
 
-Les avis de recrutement par concours sur épreuves, par examen professionnel ou par liste d'aptitude, font l'objet d'un affichage dans l'établissement concerné ainsi qu'à la préfecture et dans chaque sous-préfecture du département dans lequel l'établissement est situé et d'une insertion au recueil des actes administratifs de la préfecture du département.
+Lorsque dans un établissement, il existe plus d'un emploi à pourvoir, soit par concours externe, soit par concours interne, la moitié au moins de ces emplois doit être pourvue par concours externe. Lorsqu'il n'existe qu'un emploi à pourvoir, cet emploi est indifféremment pourvu par un candidat reçu soit au concours externe, soit au concours interne.

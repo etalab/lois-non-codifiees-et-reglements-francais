@@ -1,3 +1,3 @@
 # Article 60
 
-En application de l'article 103 de la loi du 9 janvier 1986 susvisée, un décret précisera les modalités d'adaptation du présent statut aux personnels relevant de l'administration générale de l'assistance publique à Paris.
+Le nombre des personnes inscrites sur les listes complémentaires des concours prévus par les statuts particuliers des corps énumérés à l'article 1er ci-dessus ne peut excéder le nombre des emplois ouverts au concours.

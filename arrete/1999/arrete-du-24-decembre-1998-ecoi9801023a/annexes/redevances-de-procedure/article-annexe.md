@@ -320,21 +320,27 @@ Demande d'inscription au registre national
 
 8. Registre du commerce et des sociétés
 
-Immatriculation :
+Immatriculation principale (création) :
 
-- personne physique
+- personne physique : gratuit ;
 
-38
+- personne morale : gratuit.
 
-- personne morale
+Autre immatriculation :
 
-75
+- personne physique : 38 F (5,79 Euro) ;
 
-Inscription modificative
+- personne morale : 75 F (11,43 Euro) ;
 
-38
+- inscription modificative : 38 F (5,79 Euro).
 
-Dépôt d'un acte :
+Dépôt d'acte :
+
+- acte constitutif : gratuit ;
+
+- acte modificatif : 38 F (5,79 Euro) ;
+
+- comptes annuels : 35 F (5,34 Euro).
 
 - dépôt de bilan
 

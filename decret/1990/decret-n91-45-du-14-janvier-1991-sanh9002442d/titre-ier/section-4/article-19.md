@@ -8,4 +8,4 @@ Les ouvriers professionnels spécialisés sont recrutés :
 
 3° Par inscription sur une liste d'aptitude établie en application du 2° de l'article 35 de la loi du 9 janvier 1986 susvisée, dans la limite du 1/5 des titularisations prononcées au titre du présent article.
 
-Peuvent être inscrits sur cette liste les fonctionnaires hospitaliers appartenant à un corps ou emploi classé dans les catégories C ou D comptant au moins neuf ans de services publics.
+Peuvent être inscrits sur cette liste les fonctionnaires hospitaliers appartenant à un corps ou emploi classé dans la catégorie C comptant au moins neuf ans de services publics.

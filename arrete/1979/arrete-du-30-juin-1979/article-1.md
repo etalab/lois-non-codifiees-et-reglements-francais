@@ -1,6 +1,6 @@
 # Article 1
 
-A compter du 1er juillet 1999, les équivalences de loyer et de charges locatives de référence sont fixées comme suit :
+A compter du 1er juillet 2000, les équivalences de loyer et de charges locatives de référence sont fixées comme suit :
 
 !-------------!---------------!-------!
 
@@ -10,13 +10,13 @@ A compter du 1er juillet 1999, les équivalences de loyer et de charges locative
 
 !Bénéficiaire !       !       !       !
 
-!isolé........! 2368 F! 2167 F! 2057 F!
+!isolé........! 2392 F! 2189 F! 2078 F!
 
 !Ménage sans  !       !       !       !
 
 !personne à   !       !       !       !
 
-!charge.      ! 2774 F! 2527 F! 2391 F!
+!charge.......! 2802 F! 2552 F! 2415 F!
 
 !Bénéficiaire !       !       !       !
 
@@ -26,7 +26,7 @@ A compter du 1er juillet 1999, les équivalences de loyer et de charges locative
 
 !une personne !       !       !       !
 
-!à charge.....! 2960 F! 2696 F! 2539 F!
+!à charge.....! 2990 F! 2723 F! 2564 F!
 
 !Bénéficiaire !       !       !       !
 
@@ -36,7 +36,7 @@ A compter du 1er juillet 1999, les équivalences de loyer et de charges locative
 
 !deux perso-  !       !       !       !
 
-!nnes à charge! 3170 F! 2888 F! 2708 F!
+!nnes à charge! 3202 F! 2917 F! 2735 F!
 
 !Bénéficiaire !       !       !       !
 
@@ -46,7 +46,7 @@ A compter du 1er juillet 1999, les équivalences de loyer et de charges locative
 
 !trois perso- !       !       !       !
 
-!nnes à charge! 3380 F! 3079 F! 2877 F!
+!nnes à charge! 3414 F! 3110 F! 2906 F!
 
 !Bénéficiaire !       !       !       !
 
@@ -56,12 +56,12 @@ A compter du 1er juillet 1999, les équivalences de loyer et de charges locative
 
 !quatre perso-!       !       !       !
 
-!nnes à charge! 3596 F! 3271 F! 3055 F!
+!nnes à charge! 3633 F! 3306 F! 3088 F!
 
 !Par personne !       !       !       !
 
 !à charge sup-!       !       !       !
 
-!plémentaire..!  372 F!  340 F!  315 F!
+!plémentaire..!  376 F!  344 F!  319 F!
 
 !-------------!-------!-------!-------!

@@ -1,6 +1,6 @@
 # Article 10 ter
 
-A compter du 1er juillet 1999, pour l'application de l'article R. 351-21-3 :
+A compter du 1er juillet 2000, pour l'application de l'article R. 351-21-3 :
 
 - le coefficient a est fixé à 0,75 ;
 
@@ -8,4 +8,4 @@ A compter du 1er juillet 1999, pour l'application de l'article R. 351-21-3 :
 
 - le coefficient y est fixé à 0,038 ;
 
-- le montant auquel le produit yR ne peut être inférieur est fixé à 1 417 F.
+- le montant auquel le produit yR ne peut être inférieur est fixé à 1 424 F.

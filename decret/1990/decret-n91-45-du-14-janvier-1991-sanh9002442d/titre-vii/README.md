@@ -7,3 +7,4 @@
 - [Section 5 : Dispositions relatives aux personnels d'entretien.](section-5)
 - [Section 6 : Dispositions relatives aux agents du service intérieur.](section-6)
 - [Section 7 : Dispositions transitoires communes.](section-7)
+- [Article 68](article-68.md)

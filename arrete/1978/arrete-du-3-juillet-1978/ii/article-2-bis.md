@@ -16,7 +16,7 @@ C représente le montant forfaitaire des charges défini à l'article 11 ter de 
 
 PP représente la participation personnelle du ménage à la dépense de logement. Son montant est calculé selon les modalités définies aux articles 2 ter et 2 quater ci-dessous.
 
-II. - A compter du 1er juillet 1999, en application de l'article R. 351-22-1, les plafonds de loyers visés à l'article R. 351-17-3 son fixés comme suit :
+II. - A compter du 1er juillet 2000, en application de l'article R. 351-22-1, les plafonds de loyers visés à l'article R. 351-17-3 son fixés comme suit :
 
 <table>
 <tbody>
@@ -42,16 +42,16 @@ II. - A compter du 1er juillet 1999, en application de l'article R. 351-22-1, le
 <p align="center">I</p>
 </td>
 <td width="119">
-<p align="center">1 561</p>
+<p align="center">1 577</p>
 </td>
 <td width="159">
-<p align="center">1 883</p>
+<p align="center">1 902</p>
 </td>
 <td width="172">
-<p align="center">2 118</p>
+<p align="center">2 139</p>
 </td>
 <td width="166">
-<p align="center">307</p>
+<p align="center">310</p>
 </td>
 </tr>
 <tr>
@@ -59,16 +59,16 @@ II. - A compter du 1er juillet 1999, en application de l'article R. 351-22-1, le
 <p align="center">II</p>
 </td>
 <td width="119">
-<p align="center">1 371</p>
+<p align="center">1 385</p>
 </td>
 <td width="159">
-<p align="center">1 679</p>
+<p align="center">1 696</p>
 </td>
 <td width="172">
-<p align="center">1 889</p>
+<p align="center">1 908</p>
 </td>
 <td width="166">
-<p align="center">275</p>
+<p align="center">278</p>
 </td>
 </tr>
 <tr>
@@ -76,16 +76,16 @@ II. - A compter du 1er juillet 1999, en application de l'article R. 351-22-1, le
 <p align="center">III</p>
 </td>
 <td width="119">
-<p align="center">1 285</p>
+<p align="center">1 298</p>
 </td>
 <td width="159">
-<p align="center">1 558</p>
+<p align="center">1 574</p>
 </td>
 <td width="172">
-<p align="center">1 748</p>
+<p align="center">1 765</p>
 </td>
 <td width="166">
-<p align="center">250</p>
+<p align="center">253</p>
 </td>
 </tr>
 </tbody>
@@ -93,6 +93,6 @@ II. - A compter du 1er juillet 1999, en application de l'article R. 351-22-1, le
 
 Dans le cas des colocataires prévu au sixième alinéa de l'article R. 351-17 et au deuxième alinéa de l'article R. 351-17-3, les plafonds de loyer sont fixés à 75 % des plafonds de loyers mentionnés ci-dessus.
 
-Dans le cas où le logement occupé est une chambre, le plafond de loyer est fixé à 90 % du plafond de loyer applicable au bénéficiaire isolé mentionné ci-dessus sauf dans le cas visé à l'article L. 351-15 où le plafond de loyer est fixé par l'arrêté du 18 juillet 1990 relatif au calcul de l'aide personnalisée au logement versée aux personnes âgées ou handicapées adultes hébergées chez des particuliers.
+Dans le cas où le logement occupé est une chambre, le plafond de loyer est fixé à 90 % du plafond de loyer applicable au bénéficiaire isolé mentionné ci-dessus, sauf dans le cas visé à l'article L. 351-15 où ce plafond est fixé à 75 %.
 
 Les montants obtenus par l'application de ces pourcentages sont arrondis au franc le plus proche.

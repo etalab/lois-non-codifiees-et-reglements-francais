@@ -14,7 +14,7 @@ COMPÉTENCE TERRITORIALE S'ÉTENDANT AU :
 
 Agen, Agen, Ressort de la cour d'appel d'Agen.
 
-Aix, Marseille, Ressort des tribunaux de grande instance d'Aix, Marseille et Tarascon.
+Aix, Marseille, Ressort de la cour d'appel d'Aix-en-Provence.
 
 , Nice, Ressort des tribunaux de grande instance de Digne, Draguignan, Grasse, Nice et Toulon.
 

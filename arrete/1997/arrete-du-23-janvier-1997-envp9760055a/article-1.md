@@ -4,8 +4,6 @@ Le présent arrêté fixe les dispositions relatives aux émissions sonores des 
 
 - des élevages de veaux de boucherie et/ou de bovins, des élevages de vaches laitières et/ou mixtes et des porcheries de plus de 450 porcs visés par les arrêtés du 29 février 1992, ainsi que les élevages de volailles et/ou de gibiers à plumes visés par l'arrêté du 13 juin 1994 ;
 
-- de l'industrie du verre visée par l'arrêté du 14 mai 1993 ;
-
 - de l'industrie papetière visée par l'arrêté du 6 janvier 1994 ;
 
 - des exploitations de carrières et des installations de premier traitement des matériaux de carrières visées par l'arrêté du 22 septembre 1994.
