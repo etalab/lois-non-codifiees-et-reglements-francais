@@ -2,7 +2,7 @@
 
 La gestion administrative de l'école est confiée, sous l'autorité du directeur général de l'institut français du pétrole, à un directeur assisté d'un conseil de perfectionnement.
 
-Ce directeur est nommé, par arrêté du ministre de l'industrie et du commerce, pour une durée de six ans, sur proposition du directeur général de l'institut français du pétrole, après consultation du conseil de perfectionnement.
+Ce directeur est nommé, par arrêté du ministre de l'industrie, pour une durée de trois ans, sur proposition du directeur général de l'institut français du pétrole, après consultation du conseil de perfectionnement.
 
 Le conseil de perfectionnement comprend, sous la présidence du directeur des carburants, outre le directeur général de l'institut français du pétrole :
 
