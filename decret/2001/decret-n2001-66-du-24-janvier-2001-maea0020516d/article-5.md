@@ -1,0 +1,3 @@
+# Article 5
+
+Un arrêté conjoint du ministre des affaires étrangères, du ministre chargé du budget et du ministre chargé de la fonction publique fixe le montant des indemnités prévues aux articles 1er et 2 du présent décret ainsi que le nombre maximum annuel de séances et le nombre minimum de dossiers inscrits à chacune des séances, qui ouvrent droit au paiement de ces indemnités. Cet arrêté fixe en outre le nombre maximum annuel de dossiers dont l'instruction est susceptible d'être confiée à des collaborateurs extérieurs, tels que définis à l'article 4 du présent décret, ainsi que le montant de l'indemnité forfaitaire par dossier.

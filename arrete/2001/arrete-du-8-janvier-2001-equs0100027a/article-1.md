@@ -1,0 +1,3 @@
+# Article 1
+
+La formation à la capacité de gestion des établissements d'enseignement de la conduite, prévue à l'article R. 245-1 (2°) du code de la route, a pour objet de permettre aux exploitants de justifier des compétences indispensables pour diriger un établissement d'enseignement de la conduite. Cette formation porte sur des éléments de droit du travail, de droit commercial, de fiscalité, de comptabilité, de gestion financière et sur les réglementations spécifiques s'appliquant à l'exercice de la profession. Elle donne lieu à une évaluation du bénéficiaire de ladite formation par l'organisme de formation.

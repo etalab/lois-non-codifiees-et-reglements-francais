@@ -1,4 +1,4 @@
-# Arrêté du 6 novembre 2000 relatif à la distillation des vins dans la région délimitée "Cognac"
+# Décret du 19 janvier 2001 relatif à l'appellation d'origine contrôlée "Beaufort"
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -10,3 +10,5 @@
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
+- [Article 11](article-11.md)
+- [Article 12](article-12.md)
