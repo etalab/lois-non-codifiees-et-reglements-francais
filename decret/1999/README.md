@@ -408,7 +408,6 @@
 - [Décret n°99-596 du 15 juillet 1999 (MESH9921966D)](decret-n99-596-du-15-juillet-1999-mesh9921966d)
 - [Décret n°99-600 du 15 juillet 1999 (JUSX9900069D)](decret-n99-600-du-15-juillet-1999-jusx9900069d)
 - [Décret n°99-601 du 15 juillet 1999 (JUSX9900056D)](decret-n99-601-du-15-juillet-1999-jusx9900056d)
-- [Décret n°99-602 du 15 juillet 1999 (JUSX9900071D)](decret-n99-602-du-15-juillet-1999-jusx9900071d)
 - [Décret n°99-603 du 15 juillet 1999 (JUSX9900072D)](decret-n99-603-du-15-juillet-1999-jusx9900072d)
 - [Décret n°99-610 du 15 juillet 1999 (EQUK9901015D)](decret-n99-610-du-15-juillet-1999-equk9901015d)
 - [Décret n°99-611 du 15 juillet 1999 (PRMX9903630D)](decret-n99-611-du-15-juillet-1999-prmx9903630d)
