@@ -1,3 +1,3 @@
 # Article 31
 
-Le directeur de l'école attribue à chaque élève une note de stages, suivant les modalités prévues par le règlement intérieur de l'école et compte tenu des avis formulés par les responsables de ces stages.
+Un jury composé d'une personnalité extérieure à l'école, désignée par le directeur de l'école, et du directeur des stages attribue à chaque élève une note de stages. Le jury fonde son appréciation sur les fiches de notation établies par les maîtres de stage, les informations recueillies lors des visites de stage et la lecture des rapports de stage. Avant d'arrêter sa décision, il auditionne chaque élève.

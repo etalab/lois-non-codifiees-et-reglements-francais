@@ -1,4 +1,4 @@
-# Chapitre Ier : De la scolarité des élèves de l'école.
+# Chapitre Ier : De la scolarité des élèves issus des trois concours.
 
 - [Article 29](article-29.md)
 - [Article 30](article-30.md)

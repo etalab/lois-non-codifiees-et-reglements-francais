@@ -4,11 +4,11 @@ Il est constitué un jury pour chacune des deux catégories de candidats prévue
 
 Outre un président commun, ils comprennent chacun :
 
-Trois fonctionnaires ;
+Deux fonctionnaires ;
 
-Trois enseignants dont au moins un de l'enseignement supérieur et un de l'enseignement secondaire ;
+Deux membres des personnels enseignants, dont un membre du personnel enseignant de l'enseignement supérieur et un membre du personnel enseignant de l'enseignement secondaire ;
 
-Trois membres choisis à raison d'une personnalité au plus par organisation sur les listes de trois personnalités présentées par les organisations syndicales représentées au conseil supérieur de la fonction publique.
+Deux membres choisis à raison d'une personnalité au plus par organisation sur les listes de deux personnalités présentées par les organisations syndicales représentées au Conseil supérieur de la fonction publique de l'Etat.
 
 La moitié au moins des membres des jurys doit exercer son activité et résider hors de la région d'Ile-de-France.
 
