@@ -1,6 +1,6 @@
 # Article 18
 
-Le montant du traitement servi pendant une période de congé de maladie, de grave maladie ou d'accident du travail et, sous réserve des dispositions de l'article 40 ci-dessous, pendant une période de congé de maternité, est établi sur la base de la durée journalière d'utilisation de l'intéressé à la date d'arrêt de travail.
+Le montant du traitement servi pendant une période de congé de maladie, de grave maladie ou d'accident du travail et, sous réserve des dispositions de l'article 40 ci-dessous, pendant une période de congé de maternité, de paternité ou d'adoption est établi sur la base de la durée journalière d'utilisation de l'intéressé à la date d'arrêt de travail.
 
 Pour ces congés, un contrôle pourra être effectué à tout moment par un médecin agréé de l'administration.
 
