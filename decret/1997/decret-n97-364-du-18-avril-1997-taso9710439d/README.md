@@ -2,7 +2,6 @@
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Recrutement.](chapitre-ii)
-- [Chapitre III : Avancement.](chapitre-iii)
 - [Chapitre IV : Avancement.](chapitre-iv)
 - [Chapitre V : Détachement.](chapitre-v)
 - [Chapitre VI : Dispositions finales.](chapitre-vi)
