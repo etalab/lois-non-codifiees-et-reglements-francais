@@ -94,8 +94,6 @@ Traitement interdit pour les autres cultures pendant les 21 jours précédant la
 
 Traitement interdit sur végétaux pendant la floraison.
 
-- Endrine - liquide (max. : 20 %).
-
 Traitement interdit sur toute culture, sauf cultures tropicales. Traitement interdit pendant les 45 jours précédant la récolte.
 
 - EPN - liquide (max. : 25 %) ; poudre mouillable
@@ -116,7 +114,7 @@ Traitement interdit sur végétaux pendant la floraison.
 
 (max. : 50 %).
 
-Traitement interdit sur toute culture légumière.
+Traitement interdit sur toute culture légumière pendant les 15 jours précédant la récolte.
 
 Traitement interdit pour les autres cultures pendant les 7 jours précédant la récolte.
 
@@ -134,15 +132,17 @@ Traitement interdit sur végétaux pendant la  floraison.
 
 (max. : 90 %) ; poudre pour poudrage (max. : 5 %).
 
-Traitement interdit pendant les 7 jours précédant la récolte. Traitement interdit sur végétaux pendant la floraison.
+Traitement interdit pendant les 7 jours précédant la récolte.
+
+Traitement interdit sur végétaux pendant la floraison.
 
 - Mevinphos - liquide (max. : 10 %).
 
-Traitement interdit pendant les 7 jours précédant la récolte. Traitement interdit sur végétaux pendant la floraison.
+Traitement interdit pendant les 7 jours précédant la récolte.    Traitement interdit sur végétaux pendant la floraison.
 
 - Nichlorphos - liquide (max. : 90 %).
 
-Traitement interdit pendant les 15 jours précédant la récolte. Traitement interdit sur végétaux pendant la floraison.
+Traitement interdit pendant les 15 jours précédant la récolte.    Traitement interdit sur végétaux pendant la floraison.
 
 - Oxydéméton - liquide (max. : 25 %).
 
@@ -200,7 +200,7 @@ Période d'interdiction : 10 jours avant récolte.
 
 (max. : 90 %).
 
-- Traitement interdit pendant les 7 jours précédant la récolte.
+Traitement interdit pendant les 7 jours précédant la récolte.
 
 Traitement interdit sur végétaux pendant la floraison.
 

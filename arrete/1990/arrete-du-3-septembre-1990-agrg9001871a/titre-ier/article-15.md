@@ -7,3 +7,7 @@ Des dérogations à l'accomplissement des formalités prévues aux articles ci-d
 - traitement approprié ;
 
 - mesures de précautions particulières à prendre lors de l'introduction des végétaux ou produits végétaux.
+
+Ce risque est établi sur la base des données scientifiques et techniques disponibles ; lorsque ces informations sont insuffisantes, elles doivent être suppléées par des enquêtes complémentaires ou, le cas échéant, par des recherches effectuées sous l'autorité de la commission et en conformité avec les dispositions appropriées de l'article 9 du présent arrêté dans le pays d'origine des végétaux, des produits végétaux ou autres objets concernés.
+
+Et, le cas échéant, à la suite d'enquêtes effectuées sous l'autorité de la commission et en conformité avec les dispositions appropriées de l'article 9 du présent arrêté dans le pays d'origine des végétaux ou des produits végétaux concernés.
