@@ -4,6 +4,6 @@ Constituent des services de télévision consacrés à la diffusion d'oeuvres ci
 
 1° Font l'objet d'un abonnement spécifique à ces services ;
 
-2° Consacrent à l'acquisition de droits de diffusion d'oeuvres cinématographiques 40 p. 100 au moins de leur chiffre d'affaires hors taxe sur la valeur ajoutée, cette dernière condition pouvant être réalisée par le groupement de plusieurs services de même nature dès lors qu'ils font l'objet d'un abonnement spécifique commun ;
+2° Consacrent à l'acquisition de droits de diffusion d'oeuvres cinématographiques européennes et d'expression originale française les pourcentages de leur chiffre d'affaires hors taxe sur la valeur ajoutée déterminés à l'article 18 du présent décret ;
 
 3° Tirent 75 p. 100 au moins de leurs ressources de la fourniture de leurs programmes aux sociétés ou organismes les mettant à la disposition du public.

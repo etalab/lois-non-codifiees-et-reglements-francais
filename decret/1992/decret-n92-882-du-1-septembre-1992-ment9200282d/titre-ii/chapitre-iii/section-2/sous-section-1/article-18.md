@@ -1,9 +1,17 @@
 # Article 18
 
-Les services qui répondent aux conditions posées au 1° et 3° de l'article 15 du présent décret et qui consacrent à l'achat de droits de diffusion d'oeuvres cinématographiques au moins 45 p. 100 de leur chiffre d'affaires hors taxe sur la valeur ajoutée diminué des sommes versées par l'éditeur de ce service pour la distribution des programmes aux têtes de réseau câblé peuvent, après avis d'une commission constituée auprès du Centre national de la cinématographie par arrêté du ministre chargé de la communication, bénéficier des dispositions prévues aux deux alinéas suivants.
+Les services visés à l'article 15 du présent décret consacrent à l'acquisition de droits de diffusion d'oeuvres cinématographiques européennes :
 
-Par dérogation au IV de l'article 17 du présent décret, le nombre maximum d'oeuvres cinématographiques de longue durée diffusées annuellement par ces services est fixé à 500. Ce nombre maximum est compté sur l'ensemble de la durée de programmation et chaque oeuvre peut être diffusée jusqu'à huit fois.
+- au moins 20 p. 100 de leur chiffre d'affaires hors taxe sur la valeur ajoutée, dont 14 p. 100 de ce chiffre d'affaires pour l'acquisition de droits de diffusion d'oeuvres cinématographiques d'expression originale française, lorsque le nombre d'abonnés au service n'excède pas 600 000 ;
 
-Si, en outre, un service ne diffuse que des oeuvres cinématographiques de longue durée dont la première exploitation en salle date de plus de vingt ans, il peut, par dérogation au V de l'article 17 du présent décret, les diffuser le mercredi après 14 heures et le vendredi après 18 heures.
+- au moins 20 p. 100 de leur chiffre d'affaires hors taxe sur la valeur ajoutée, dont 15 p. 100 de ce chiffre d'affaires pour l'acquisition de droits de diffusion d'oeuvres cinématographiques d'expression originale française, lorsque le nombre d'abonnés au service est compris entre 600 001 et 900 000 ;
 
-Le service ne peut bénéficier des dispositions dérogatoires du présent article qu'à condition que le nombre de ses abonnés n'excède pas 500 000.
+- au moins 21 p. 100 de leur chiffre d'affaires hors taxe sur la valeur ajoutée, dont 16 p. 100 de ce chiffre d'affaires pour l'acquisition de droits de diffusion d'oeuvres cinématographiques d'expression originale française, lorsque le nombre d'abonnés au service est compris entre 900 001 et 1 200 000 ;
+
+- au moins 21 p. 100 de leur chiffre d'affaires hors taxe sur la valeur ajoutée, dont 17 p. 100 de ce chiffre d'affaires pour l'acquisition de droits de diffusion d'oeuvres cinématographiques d'expression originale française, lorsque le nombre d'abonnés au service excède 1 200 000.
+
+Lorsque ces services ne diffusent que des oeuvres cinématographiques en noir et blanc, ils consacrent à l'acquisition de droits de diffusion d'oeuvres cinématographiques :
+
+- au moins 20 p. 100 de leur chiffre d'affaires hors taxe sur la valeur ajoutée, dont 14 p. 100 de ce chiffre d'affaires pour l'acquisition de droits de diffusion d'oeuvres cinématographiques d'expression originale française, lorsque le nombre d'abonnés au service n'excède pas 900 000 ;
+
+- au moins 21 p. 100 de leur chiffre d'affaires hors taxe sur la valeur ajoutée, dont 16 p. 100 de ce chiffre d'affaires pour l'acquisition de droits de diffusion d'oeuvres cinématographiques d'expression originale française, lorsque le nombre d'abonnés au service excède 900 000.

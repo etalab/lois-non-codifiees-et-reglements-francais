@@ -4,5 +4,6 @@
 - [TITRE Ier : DES CONVENTIONS.](titre-ier)
 - [TITRE II : DISPOSITIONS APPLICABLES AUX SERVICES ÉMIS DEPUIS LA FRANCE.](titre-ii)
 - [TITRE III : DISPOSITIONS APPLICABLES AUX SERVICES ÉMIS DEPUIS UN PAYS MEMBRE DE LA COMMUNAUTÉ ÉCONOMIQUE EUROPÉENNE.](titre-iii)
-- [TITRE V : DISPOSITIONS FINALES.](titre-v)
+- [TITRE V : Dispositions applicables aux services émis depuis d'autres Etats.](titre-v)
+- [TITRE VI : Dispositions finales.](titre-vi)
 - [Article 30](article-30.md)
