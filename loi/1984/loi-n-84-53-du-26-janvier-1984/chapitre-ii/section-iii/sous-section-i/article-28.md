@@ -1,5 +1,5 @@
 # Article 28
 
-Une commission administrative paritaire est créée pour chaque corps auprès du centre de gestion de la collectivité ou de l'établissement compétent. Lorsque les effectifs de ces corps sont insuffisants, une commission administrative peut être instituée pour plusieurs corps.
+Une commission administrative paritaire est créée pour chaque catégorie A, B, C et D de fonctionnaires auprès du centre de gestion auquel est affilié la collectivité ou l'établissement. Toutefois, lorsque l'affiliation n'est pas obligatoire, la collectivité ou l'établissement peut, à la date de son affiliation, se réserver d'assurer lui-même le fonctionnement des commissions.
 
-Pour les corps de catégorie B, les commissions administratives paritaires peuvent être instituées soit auprès du centre national, soit auprès du centre départemental.
+Dans le cas où la collectivité ou l'établissement n'est pas affilié à un centre de gestion, la commission administrative créée pour chaque catégorie de fonctionnaires est placée auprès de la collectivité ou l'établissement. Toutefois, dans le cas où il a été fait application de la seconde phrase du premier alinéa de l'article 15 ci-dessus, il peut être décidé, par délibérations concordantes des organes délibérants de l'établissement public communal et de la commune, de créer auprès de cette dernière une commission administrative paritaire compétente à l'égard des fonctionnaires de la commune et de l'établissement.
