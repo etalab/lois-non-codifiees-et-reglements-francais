@@ -1,3 +1,0 @@
-# Article 15
-
-Pour l'exercice de ses missions, et notamment dans le cadre de l'élargissement du champ du programme départemental d'insertion prévu au cinquième alinéa de l'article 36 de la loi du 1er décembre 1988 susvisée, le conseil départemental d'insertion peut faire participer à ses travaux, à titre consultatif, des personnes qualifiées. Il peut également constituer en son sein des groupes de travail portant notamment sur la préparation, le suivi et l'évaluation des programmes départementaux d'insertion ainsi que sur toutes question relative à la lutte contre la pauvreté et l'exclusion et à l'ensemble des actions en faveur de l'insertion dans le département.
