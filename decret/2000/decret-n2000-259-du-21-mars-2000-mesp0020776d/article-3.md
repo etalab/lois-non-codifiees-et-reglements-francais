@@ -1,0 +1,5 @@
+# Article 3
+
+I. - Les demandes de création ou de transfert d'officines ayant fait l'objet du dépôt d'un dossier complet au sens de l'article L. 570 du code de la santé publique dans sa rédaction applicable avant l'entrée en vigueur des articles R. 5089-1 à R. 5089-8 du même code sont, pour l'application du droit d'antériorité, considérées comme présentées à la date dudit dépôt. Toutefois, le bénéfice de ces dispositions n'est conservé que sous réserve de la production, dans un délai de deux mois à compter de ladite entrée en vigueur, d'un dossier conforme aux dispositions de l'article R. 5089-1.
+
+II. - Pour les officines ayant obtenu une licence avant la publication du présent décret, les dispositions des articles R. 5089-9, R. 5089-10 et R. 5089-12 du code de la santé publique s'appliquent à compter de cette date, sous réserve des dispositions des deuxième et quatrième alinéas de l'article R. 5089-9 et du a de l'article R. 5089-10, qui sont applicables dans un délai d'un an à compter de la publication du présent décret.
