@@ -1,4 +1,4 @@
-# Arrêté du 28 décembre 1983 relatif à l'octroi de la garantie de l'Etat aux prêts de la Société de crédit pour le développement des départements d'outre-mer dans la collectivité territoriale de Mayotte
+# Arrêté du 28 décembre 1983 relatif aux indications codées désignant conventionnellement l'année de fabrication sur des récipients renfermant des conserves et semi-conserves fabriquées en 1984
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

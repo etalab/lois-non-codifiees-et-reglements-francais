@@ -1,5 +1,7 @@
 # Article 1
 
-La participation versée par les organismes du régime général de sécurité sociale au titre des dépenses afférentes aux élections de leurs conseils d'administration est rattachée par voie de fonds de concours au budget affaires sociales et solidarité nationale, travail, santé, emploi (section I, section commune, chapitre 34-02 :
+Les coefficients de revalorisation des pensions déjà liquidées prévus par l'article 1er (par. 2) de l'arrêté du 22 décembre 1983 susvisé sont fixés à :
 
-Matériel).
+1,037.5 à compter du 1er janvier 1984 pour les pensions dont l'entrée en jouissance est antérieure à cette date ;
+
+1,037.5 à compter du 1er juillet 1984 pour les pensions dont l'entrée en jouissance est antérieure à cette date.
