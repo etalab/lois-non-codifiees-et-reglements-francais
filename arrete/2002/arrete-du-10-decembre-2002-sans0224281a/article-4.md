@@ -1,0 +1,3 @@
+# Article 4
+
+Sous réserve des dispositions de l'article 5 ci-dessous, lorsque, dans le cadre de l'activité professionnelle du travailleur salarié ou assimilé, l'employeur met à la disposition permanente de ce dernier des outils issus des nouvelles technologies de l'information et de la communication, dont l'usage est en partie privé, l'avantage en nature constitué par son utilisation privée est évalué, sur option de l'employeur, sur la base des dépenses réellement engagées ou sur la base d'un forfait annuel estimé à 10 % de son coût d'achat ou, le cas échéant, de l'abonnement, toutes taxes comprises.
