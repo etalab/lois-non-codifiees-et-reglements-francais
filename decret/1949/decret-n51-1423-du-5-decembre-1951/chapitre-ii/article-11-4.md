@@ -1,0 +1,3 @@
+# Article 11-4
+
+Les fonctionnaires de l'Etat appartenant à un corps classé dans les catégories C et D ainsi que les fonctionnaires des collectivités territoriales et des établissements publics qui en dépendent lorsque le corps, le cadre d'emploi ou l'emploi dans lequel ils ont été titularisés est classé dans les catégories C et D sont nommés, dans leur nouveau corps, à un échelon déterminé en appliquant les modalités fixées à l'article 11-3 ci-dessus à la fraction de l'ancienneté qui aurait été retenue, en application de l'article 5 du décret n° 73-910 du 20 septembre 1973, pour leur classement dans l'un des corps régis par ce même décret.
