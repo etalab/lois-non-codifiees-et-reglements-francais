@@ -1,7 +1,3 @@
 # Article 10
 
-Les stagiaires mentionnés à l'article 7 sont rémunérés par la collectivité ou l'établissement qui a procédé au recrutement sur la base de l'indice afférent au premier échelon du grade d'assistant qualifié de conservation.
-
-Toutefois, ceux qui avaient auparavant la qualité de fonctionnaires perçoivent le traitement indiciaire correspondant à leur situation antérieure si ce traitement est supérieur à celui correspondant au 1er échelon du grade d'assistant qualifié de conservation.
-
-Lorsque ces fonctionnaires sont titularisés, ils sont placés sous réserve des règles définies aux articles 11, 12 et 13 à l'échelon du grade d'assistant qualifié de conservation correspondant à l'ancienneté acquise depuis leur nomination dans le cadre d'emplois sans qu'il soit tenu compte de la prolongation éventuelle de la période de stage prévue au deuxième alinéa de l'article 9 ci-dessus.
+Les règles de rémunération des stagiaires visés au présent titre ainsi que les règles applicables pour leur classement dans le grade initial sont déterminées par le décret n° 2002-870 du 3 mai 2002 fixant les dispositions statutaires communes applicables aux cadres d'emplois des fonctionnaires de la catégorie B de la fonction publique territoriale, et l'article 11 ci-après.
