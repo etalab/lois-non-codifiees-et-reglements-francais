@@ -1,3 +1,3 @@
 # Article 13
 
-Si un immeuble sur lequel aurait pu être exercé le droit de préemption a été aliéné au profit d'un tiers en violation des dispositions de l'article 7 de la loi du 8 août 1962 modifiée et du présent décret, la société d'aménagement foncier et d'établissement rural peut demander au tribunal de grande instance de se prononcer sur l'application des dispositions, selon le cas, des articles 798 ou 800 (alinéa 3) du code rural.
+Si un immeuble sur lequel aurait pu être exercé le droit de préemption a été aliéné au profit d'un tiers en violation des dispositions de l'article 7 de la loi du 8 août 1962 modifiée et du présent décret, la société d'aménagement foncier et d'établissement rural peut demander au tribunal de grande instance de se prononcer sur l'application des dispositions, selon le cas, des articles L. 412-10, L. 412-12 (alinéa 3) du code rural.
