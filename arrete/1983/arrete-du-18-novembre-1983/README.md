@@ -1,4 +1,4 @@
-# Arrêté du 18 novembre 1983 RELATIF A LA CREATION DE LA COMMISSION CONSULTATIVE POUR L'ORGANISATION INTERNATIONALE DU TRAVAIL.
+# Arrêté du 18 novembre 1983 relatif à l'autorisation du reparcage avant commercialisation des huîtres plates en provenance de la pêche sur le gisement de Perennou
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
