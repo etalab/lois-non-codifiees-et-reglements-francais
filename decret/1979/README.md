@@ -197,6 +197,7 @@
 - [Décret n°79-751 du 29 août 1979](decret-n79-751-du-29-aout-1979)
 - [Décret n°82-837 du 29 septembre 1982](decret-n82-837-du-29-septembre-1982)
 - [Décret n°72-1004 du 30 octobre 1972](decret-n72-1004-du-30-octobre-1972)
+- [Décret n°79-1026 du 30 novembre 1979](decret-n79-1026-du-30-novembre-1979)
 - [Décret n°79-264 du 30 mars 1979](decret-n79-264-du-30-mars-1979)
 - [Décret n°79-267 du 30 mars 1979](decret-n79-267-du-30-mars-1979)
 - [Décret n°79-289 du 30 mars 1979](decret-n79-289-du-30-mars-1979)
