@@ -19,6 +19,7 @@
 - [Décret n°92-20 du 6 janvier 1992 (EQUX9100187D)](decret-n92-20-du-6-janvier-1992-equx9100187d)
 - [Décret n°92-37 du 7 janvier 1992 (BUDR9104048D)](decret-n92-37-du-7-janvier-1992-budr9104048d)
 - [Décret n°92-23 du 8 janvier 1992 (TEFF9104195D)](decret-n92-23-du-8-janvier-1992-teff9104195d)
+- [Décret n°92-38 du 8 janvier 1992 (JUSC9121025D)](decret-n92-38-du-8-janvier-1992-jusc9121025d)
 - [Décret n°93-292 du 8 mars 1993 (SPSG9203059D)](decret-n93-292-du-8-mars-1993-spsg9203059d)
 - [Décret n°93-293 du 8 mars 1993 (SPSG9203060D)](decret-n93-293-du-8-mars-1993-spsg9203060d)
 - [Décret n°93-294 du 8 mars 1993 (SPSG9203061D)](decret-n93-294-du-8-mars-1993-spsg9203061d)
