@@ -78,7 +78,6 @@
 - [Arrêté du 28 novembre 1980](arrete-du-28-novembre-1980)
 - [Arrêté du 29 février 1980](arrete-du-29-fevrier-1980)
 - [Arrêté du 29 octobre 1980](arrete-du-29-octobre-1980)
-- [Arrêté du 29 mai 1980](arrete-du-29-mai-1980)
 - [Arrêté du 30 juillet 1980](arrete-du-30-juillet-1980)
 - [Arrêté du 30 octobre 1980](arrete-du-30-octobre-1980)
 - [Arrêté du 31 mars 1980](arrete-du-31-mars-1980)
