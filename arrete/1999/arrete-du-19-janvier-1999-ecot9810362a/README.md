@@ -1,4 +1,4 @@
-# Décret n°94-886 du 14 octobre 1994 portant création des services de police déconcentrés chargés de la police aux frontières
+# Arrêté du 19 janvier 1999 relatif aux émissions de valeurs du Trésor au cours du mois de novembre 1998
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

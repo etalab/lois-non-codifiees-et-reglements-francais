@@ -1,4 +1,4 @@
-# Décret n°94-886 du 14 octobre 1994 portant création des services de police déconcentrés chargés de la police aux frontières
+# Arrêté du 18 janvier 1999 fixant la composition du conseil d'orientation et de coordination de l'Institut supérieur des productions animales
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,4 +8,3 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Article 9](article-9.md)
