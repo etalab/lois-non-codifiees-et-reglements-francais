@@ -1,37 +1,23 @@
 # Article 31
 
-I. - Tout projet de décision à incidence financière doit être soumis au visa préalable du contrôleur d'Etat.
+Sont soumis au visa préalable du contrôleur d'Etat, accompagnés de toutes pièces justificatives :
 
-II. - La formalité du visa préalable s'applique notamment :
+A. - Dans le domaine de l'administration générale et des interventions nationales.
 
-1° Dans le domaine de l'administration générale, aux projets de décrets, arrêtés, décisions et contrats concernant :
+1. Les décisions relatives au recrutement, à la promotion, à la fixation des rémunérations du personnel ou à l'attribution de primes et indemnités diverses.
 
-a) Le personnel titulaire et non titulaire ;
+2. Les marchés, contrats de services et de sous-traitance, conventions et baux et, plus généralement, tous engagements de dépenses d'un montant supérieur à 300 000 F, toutes taxes comprises. Ce seuil pourra être relevé par le contrôleur d'Etat, sur proposition du directeur général de l'établissement, notamment en fonction de l'évolution des seuils prévus au code des marchés publics.
 
-b) Les mesures d'action sociale ;
+3. Les acquisitions et aliénations immobilières, les emprunts.
 
-c) Les programmes de formation permanente;
+4. Les décisions portant attribution et taux de subventions.
 
-d) Les dépenses d'immobilisations et l'aliénation des meubles et immeubles ;
+5. Les règles relatives aux taux d'amortissement et le montant des dotations éventuelles aux comptes de provisions.
 
-e) Les dépenses de fonctionnement à l'exception de celles pour lesquelles le contrôleur d'Etat a admis une dispense de visa ou une simple communication pour information.
+6. S'il y a lieu, les décisions relatives aux placements des fonds de l'établissement.
 
-2° Dans le domaine des actions économiques et technologiques à financement national, à tout projet de :
+B. - Dans le domaine de l'application des mesures communautaires.
 
-a) Texte et circulaire de portée générale ;
+1. Les décisions positives de force majeure.
 
-b) Convention particulière ;
-
-c) Octroi de subventions et participations.
-
-3° Dans le domaine de l'application des mesures communautaires, aux projets de :
-
-a) Cahiers des charges, avis, circulaires et conventions pour l'exécution des règlements du conseil ou de la commission des communautés européennes ;
-
-b) Décision concernant la prorogation et l'annulation de certificats, la levée de la forclusion opposable aux demandes d'aides, primes ou subventions et, d'une manière générale, la remise ou l'annulation de pénalités ou de débets ;
-
-c) Décision déterminant, le cas échéant, les modalités particulières d'application d'une mesure communautaire.
-
-4° A tout mémoire ou état liquidatif procédant des actes visés en 1°, 2° et 3° ci-dessus, lorsque les versements ne résultent pas seulement de l'application de règles forfaitaires ou mécaniques.
-
-III. - Les décisions et états liquidatifs dispensés du visa préalable sont toutefois communiqués au contrôleur d'Etat.
+2. Les modalités des contrats de stockage, d'intervention et les décisions relatives au transport de céréales à la charge de l'établissement.

@@ -1,5 +1,3 @@
 # Article 28
 
-Le contrôle économique et financier exercé par le contrôleur d'Etat porte sur toutes les opérations susceptibles d'avoir directement ou indirectement une répercussion économique ou financière.
-
-Le contrôleur d'Etat est appelé à faire connaître son avis sur toute proposition soumise au ministre de l'agriculture ou au ministre chargé du budget. A cet effet, le contrôleur d'Etat est destinataire d'une copie des propositions.
+Le contrôleur d'Etat auprès de l'Office national interprofessionnel des céréales a une mission générale de contrôle de la gestion de l'établissement et de toutes les opérations susceptibles d'avoir directement ou indirectement une répercussion économique ou financière.

@@ -1,7 +1,7 @@
 # Article 29
 
-Le contrôleur d'Etat assiste aux réunions du conseil central et comité permanent ainsi qu'aux réunions des commissions créées en leur sein.
+Le contrôleur d'Etat assiste, avec voix consultative, aux réunions du conseil central et du comité permanent ainsi qu'aux réunions des commissions, comités ou groupes de travail créés en leur sein.
 
-Les convocations accompagnées des ordres du jour et de tous documents qui s'y rattachent, les procès-verbaux et comptes rendus de réunion lui sont adressés en même temps qu'aux autres membres de ces instances.
+Il reçoit, dans les mêmes conditions que les membres de ces organismes, les convocations, ordres du jour, procès-verbaux et tous documents s'y rattachant qui leur sont adressés.
 
-Les projets d'états prévisionnels de recettes et de dépenses lui sont soumis deux semaines au moins avant leur présentation au conseil central.
+Le projet d'état annuel des prévisions de recettes et de dépenses, les projets de modifications à apporter en cours d'exercice à cet état et le projet de compte financier sont adressés au contrôleur d'Etat deux semaines au moins avant leur présentation au conseil central.

@@ -1,5 +1,5 @@
 # Article 32
 
-Lorsque le contrôleur d'Etat refuse de viser un projet de décision ou acte assimilé, il en informe le directeur général de l'établissement, ainsi que l'agent comptable s'il s'agit d'une décision génératrice d'une dépense.
+Toute pièce soumise au visa du contrôleur d'Etat, accompagnée des documents nécessaires, doit être renvoyée par celui-ci dans un délai maximal de quinze jours francs, soit visée, soit accompagnée d'une note adressée au directeur général de l'établissement lui faisant connaître les raisons de l'ajournement ou du refus de visa.
 
-Le directeur général peut porter ce refus de visa à la connaissance du ministre de l'agriculture et du ministre de l'économie, des finances et du budget. Dans ce cas, le refus de visa est levé de plein droit si le ministre de l'économie, des finances et du budget ne l'a pas confirmé dans un délai de dix jours après réception de l'information.
+Il ne peut être passé outre au refus de visa du contrôleur d'Etat que sur décision expresse du ministre chargé du budget.
