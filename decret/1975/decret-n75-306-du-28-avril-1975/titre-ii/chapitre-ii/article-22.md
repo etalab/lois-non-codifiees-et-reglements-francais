@@ -1,3 +1,13 @@
 # Article 22
 
-Lors des interventions d'urgence destinées à venir en aide à des personnes en danger ou à limiter les conséquences d'un accident, les travailleurs seront informés des risques réels qu'ils pourraient courir. En dehors de ces interventions et sans préjudice de l'application des dispositions de l'article 29 ci-après, le chef d'établissement doit préalablement s'assurer, auprès du médecin du travail, que les travailleurs devant exécuter des travaux qui peuvent conduire à une exposition exceptionnelle concertée ne présentent pas d'inaptitude.
+Les contrôles mentionnés à l'article précédent doivent être effectués [*obligation*] :
+
+a) Lors des essais mentionnés à l'article 7 paragraphe I a ;
+
+b) Avant la mise en service de l'installation ;
+
+c) Après toute modification apportée aux modalités d'utilisation de l'installation ou aux équipements de protection, de nature à modifier les risques d'irradiation ou de contamination ;
+
+d) De façon périodique avec une fréquence fixée par arrêté pris dans les conditions prévues à l'article 50 ci-après, compte tenu de la nature des installations et de leurs modalités d'utilisation ;
+
+e) Après toute anomalie constatée sur l'installation en ce qui concerne la protection des travailleurs.
