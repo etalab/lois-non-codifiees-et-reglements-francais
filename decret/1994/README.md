@@ -298,6 +298,8 @@
 - [Décret n°94-178 du 28 février 1994 (AGRM9400407D)](decret-n94-178-du-28-fevrier-1994-agrm9400407d)
 - [Décret n°94-245 du 28 mars 1994 (PARX9400131D)](decret-n94-245-du-28-mars-1994-parx9400131d)
 - [Décret n°94-341 du 28 avril 1994 (MICT9400006D)](decret-n94-341-du-28-avril-1994-mict9400006d)
+- [Décret n°94-348 du 28 avril 1994 (TEFE9400403D)](decret-n94-348-du-28-avril-1994-tefe9400403d)
+- [Décret n°94-349 du 28 avril 1994 (FPPA9300139D)](decret-n94-349-du-28-avril-1994-fppa9300139d)
 - [Décret n°94-87 du 28 janvier 1994 (MCCB9300362D)](decret-n94-87-du-28-janvier-1994-mccb9300362d)
 - [Décret n°94-948 du 28 octobre 1994 (SPSA9402580D)](decret-n94-948-du-28-octobre-1994-spsa9402580d)
 - [Décret n°94-96 du 28 janvier 1994 (ECOM9200424D)](decret-n94-96-du-28-janvier-1994-ecom9200424d)
