@@ -1,0 +1,7 @@
+# Article 49
+
+En cas de licenciement pour motif économique survenant en conséquence directe de l'entrée en vigueur de la présente loi, les indemnités de licenciement dues par les commissaires-priseurs sont calculées à raison d'un mois de salaire par année d'ancienneté dans la profession, dans la limite de trente mois. Elles sont versées directement aux bénéficiaires par le fonds d'indemnisation institué par l'article 42 lorsque le licenciement intervient dans le délai de deux ans à compter de la promulgation de la présente loi.
+
+Toutefois, lorsqu'il est procédé à un licenciement économique alors que le commissaire-priseur poursuit son activité de ventes volontaires au sein d'une société de ventes volontaires de meubles aux enchères publiques, les indemnités versées par le fonds sont déduites de l'indemnité due à ce commissaire-priseur.
+
+Les dispositions du premier alinéa sont applicables aux indemnités de licenciement pour motif économique dues, en conséquence directe de l'entrée en vigueur de la présente loi, par les compagnies régionales de commissaires-priseurs ou la Chambre nationale des commissaires-priseurs, ainsi que par toute société dont le capital est détenu en majorité par des commissaires-priseurs ou qui salarie des personnes travaillant au sein d'un office de commissaires-priseurs. Ces indemnités sont dues aux personnes employées directement par elles au jour de la promulgation de la présente loi et licenciées dans un délai de deux ans à compter de cette date.

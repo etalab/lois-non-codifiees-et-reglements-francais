@@ -1,0 +1,3 @@
+# Article 43
+
+La demande d'indemnité doit être présentée par les commissaires-priseurs dans le délai de deux ans à compter de la publication du décret en Conseil d'Etat prévu à l'article L. 321-38 du code de commerce. L'indemnité est versée dans les six mois suivant le dépôt de la demande. Ce versement est subordonné, d'une part, à la production d'une attestation d'assurance couvrant la responsabilité encourue par le commissaire-priseur à l'occasion de l'exercice des ventes volontaires à compter de son entrée en fonctions et au plus pour les dix années antérieures à la promulgation de la présente loi et, d'autre part, à la production d'un quitus délivré par la compagnie des commissaires-priseurs.
