@@ -18,7 +18,7 @@ Neuf toxicologues ou pharmacologues ;
 
 Deux pharmaciens hospitaliers ;
 
-Trois cliniciens ;
+Trois cliniciens.
 
 Le président est désigné par le ministre chargé de la santé parmi les membres de la commission de pharmacovigilance pour une durée d'un an.
 
