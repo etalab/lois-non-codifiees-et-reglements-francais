@@ -6,7 +6,7 @@ Chaque année [*périodicité*], la Caisse nationale de l'assurance maladie noti
 
 La Caisse nationale de l'assurance maladie affecte les dotations d'autorisation de programme compte tenu des états prévisionnels établis par les caisses et des dossiers suivis. Elle peut, au cours du même exercice, transférer le reliquat de l'autorisation de programme non susceptible d'être utilisée par une caisse à une autre caisse. La caisse nationale établit avant l'affectation des dotations de l'exercice suivant un rapport sur les transferts d'autorisation de programme intervenus.
 
-Le total des autorisations de programme accordées annuellement à l'ensemble des caisses est limité à 0,40 p. 100 du montant des cotisations calculé d'après les résultats de la dernière année connue. La somme correspondante est inscrite en annexe au budget du Fonds national de prévention.
+Le total des autorisations de programme accordées annuellement à l'ensemble des caisses est limité à 0,60 p. 100 du montant des cotisations calculé d'après les résultats de la dernière année connue. La somme correspondante est inscrite en annexe au budget du Fonds national de prévention.
 
 Les autorisations de programme non utilisées, après application des dispositions de l'alinéa 3 du présent article, sont annulées.
 

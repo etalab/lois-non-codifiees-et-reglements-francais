@@ -1,0 +1,3 @@
+# Article 4
+
+Lorsqu'une société régie par les dispositions de l'article 3 est nommée titulaire d'un office créé ou vacant, la nomination est faite dans les conditions prévues aux articles 49 à 55 du décret n° 73-609 du 5 juillet 1973 susvisé ; les épreuves prévues à l'article 53 de ce même décret sont subies par chacune des personnes mentionnées à l'article 3 qui entendent exercer leurs fonctions de notaire au sein de la société. Une société ne peut être déclarée apte à être nommée à l'office créé que si chacun des futurs associés exerçant leurs fonctions au sein de la société a été déclaré apte à être nommé à cet office. Pour établir la liste par ordre de mérite, le jury retient la moyenne des résultats obtenus par chacun de ces futurs associés.
