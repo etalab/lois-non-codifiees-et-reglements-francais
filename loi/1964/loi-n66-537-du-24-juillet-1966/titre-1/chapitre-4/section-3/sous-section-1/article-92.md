@@ -2,14 +2,16 @@
 
 Une personne physique ne peut appartenir simultanément à plus de huit conseils d'administration de sociétés anonymes ayant leur siège social en France métropolitaine [*non cumul*].
 
-Toute nomination intervenue en violation des dispositions précédentes est nulle et l'administrateur en cause doit restituer les rémunérations indûment perçues [*sanctions*]. Cette nullité n'entraîne pas celle des délibérations auxquelles a pris part l'administrateur irrégulièrement nommé.
+Toute personne physique qui, lorsqu'elle accède à un nouveau mandat, se trouve en infraction avec les dispositions de l'alinéa qui précède, doit, dans les trois mois de sa nomination, se démettre de l'un de ses mandats. A l'expiration de ce délai, elle est réputée s'être démise de son nouveau mandat et doit restituer les rémunérations perçues, sans que soit, de ce fait, remise en cause la validité des délibérations auxquelles elle a pris part.
 
 Les dispositions de l'alinéa 1er ci-dessus ne sont pas applicables aux représentants permanents des personnes morales, ni aux administrateurs :
 
 - dont le mandat, en vertu de dispositions législatives ou réglementaires, est exclusif de toute rémunération ;
 
-- des sociétés d'études ou de recherches tant qu'elles ne sont pas parvenues aux stade de l'exploitation ;
+- des sociétés d'études ou de recherches tant qu'elles ne sont pas parvenues au stade de l'exploitation ;
+
+- des sociétés dont le capital est détenu à concurrence de 20 % au moins par une autre société dont ils sont déjà administrateurs ou membres du conseil de surveillance [*groupes de sociétés*], dans la mesure où le nombre des mandats détenus par les intéressés au titre des présentes dispositions n'excède pas cinq ;
 
 - des sociétés de développement régional.
 
-Les mandats d'administrateur des diverses sociétés d'assurance ayant la même dénomination sociale ne comptent que pour un seul mandat [*nombre*].
+Les mandats d'administrateur des diverses sociétés d'assurance ayant la même dénomination sociale ne comptent que pour un seul mandat.
