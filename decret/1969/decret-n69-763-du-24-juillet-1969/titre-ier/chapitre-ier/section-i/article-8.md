@@ -1,9 +1,0 @@
-# Article 8
-
-Huit jours au moins [*délai*] avant la date fixée pour sa délibération, la chambre de discipline saisie informe les intéressés qu'ils doivent, soit par eux-mêmes, soit par un mandataire de leur choix, présenter, lors de cette délibération, toutes explications orales ou écrites relatives à la constitution de la société dont il s'agit [*formalités*].
-
-Dans les quinze jours suivant sa saisine, la chambre de discipline informe la chambre nationale des commissaires-priseurs du projet de constitution de société qui lui est soumis. Si quarante-cinq jours après sa saisine la chambre de discipline n'a pas adressé au procureur de la République l'avis qui lui a été demandé, il est passé outre et cet avis est tenu pour favorable [*accord tacite*].
-
-Après réception de l'avis demandé à la chambre ou après expiration du délai fixé par l'alinéa précédent, le procureur de la République adresse au procureur général, avec son rapport, l'ensemble des pièces et documents.
-
-Le procureur général transmet le dossier avec son avis au garde des sceaux, ministre de la justice, qui, au vue de ces pièces et documents, s'il entend donner son agrément à la constitution de la société, prend l'arrêté prévu à l'article 5.

@@ -576,7 +576,6 @@
 - [Arrêté du 18 juin 1991 (SPSS9101273A)](arrete-du-18-juin-1991-spss9101273a)
 - [Arrêté du 18 mars 1991 (DEFG9101271A)](arrete-du-18-mars-1991-defg9101271a)
 - [Arrêté du 18 mars 1991 (EQUT9100264A)](arrete-du-18-mars-1991-equt9100264a)
-- [Arrêté du 18 mars 1991 (INTF9100166A)](arrete-du-18-mars-1991-intf9100166a)
 - [Arrêté du 18 novembre 1991 (ECOT9123081A)](arrete-du-18-novembre-1991-ecot9123081a)
 - [Arrêté du 18 novembre 1991 (EQUC9101475A)](arrete-du-18-novembre-1991-equc9101475a)
 - [Arrêté du 18 novembre 1991 (EQUC9101476A)](arrete-du-18-novembre-1991-equc9101476a)
