@@ -1,9 +1,7 @@
 # Article 2
 
-Les représentants des communes de moins de 20 000 [*nombre*] habitants sont élus par un collège constitué des maires de ces communes ; ils sont choisis parmi les maires et les conseillers municipaux desdites communes.
+Les représentants des communes sont élus par un collège comprenant les maires et les conseillers municipaux siégeant aux conseils d'orientation constitués en application de l'article 15 de la loi du 12 juillet 1984 susvisée.
 
-Les représentants des communes de 20 000 habitants et plus sont élus par un collège constitué des maires de ces communes ; ils sont choisis parmi les maires et les conseillers municipaux desdites communes.
+" Les représentants des départements sont élus par un collège comprenant les présidents des conseils généraux et les conseillers généraux siégeant aux conseils d'orientation constitués en application de l'article 15 de la loi du 12 juillet 1984 susvisée.
 
-Les représentants des départements sont élus par un collège constitué des présidents des conseils généraux ; ils sont choisis parmi les membres des conseils généraux.
-
-Les représentants des régions sont élus par un collège constitué des présidents des conseils régionaux ; ils sont choisis parmi les membres des conseils régionaux.
+" Les représentants des régions sont élus par un collège comprenant les présidents des conseils régionaux et les conseillers régionaux siégeant aux conseils d'orientation constitués en application de l'article 15 de la loi du 12 juillet 1984 susvisée. "
