@@ -1212,7 +1212,6 @@
 - [Arrêté du 30 septembre 1992 (COMA9200030A)](arrete-du-30-septembre-1992-coma9200030a)
 - [Arrêté du 30 septembre 1992 (COMA9200031A)](arrete-du-30-septembre-1992-coma9200031a)
 - [Arrêté du 30 septembre 1992 (COMA9200032A)](arrete-du-30-septembre-1992-coma9200032a)
-- [Arrêté du 30 septembre 1992 (MERR9200137A)](arrete-du-30-septembre-1992-merr9200137a)
 - [Arrêté du 30 septembre 1992 (SANH9202555A)](arrete-du-30-septembre-1992-sanh9202555a)
 - [Arrêté du 30 septembre 1992 (SANH9202556A)](arrete-du-30-septembre-1992-sanh9202556a)
 - [Arrêté du 30 septembre 1992 (SANH9202557A)](arrete-du-30-septembre-1992-sanh9202557a)
