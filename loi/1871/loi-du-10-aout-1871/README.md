@@ -2,6 +2,10 @@
 
 - [Formation des conseils généraux TITRE II : Des conditions d'exercice du mandat de conseiller général.](formation-des-conseils-generaux-titre-ii)
 - [TITRE II : Des conditions d'exercice du mandat de conseiller général.](titre-ii)
+- [Article 53](article-53.md)
+- [Article 63-1](article-63-1.md)
+- [Article 64](article-64.md)
+- [Article 65](article-65.md)
 - [INTERETS COMMUNS A PLUSIEURS DEPARTEMENTS.](interets-communs-a)
 - [ATTRIBUTIONS DES CONSEILS GENERAUX.](attributions-des-conseils-generaux)
 - [Attributions du conseil général.](attributions-du-conseil-general)
