@@ -182,7 +182,6 @@
 - [Arrêté du 7 décembre 1989 (MENH8902879A)](arrete-du-7-decembre-1989-menh8902879a)
 - [Arrêté du 7 décembre 1989 (RESY8900367A)](arrete-du-7-decembre-1989-resy8900367a)
 - [Arrêté du 7 février 1990 (BUDL9000031A)](arrete-du-7-fevrier-1990-budl9000031a)
-- [Arrêté du 7 février 1990 (EQUS9000269A)](arrete-du-7-fevrier-1990-equs9000269a)
 - [Arrêté du 7 février 1990 (SPSS9000319A)](arrete-du-7-fevrier-1990-spss9000319a)
 - [Arrêté du 7 février 1990 (SPSS9000320A)](arrete-du-7-fevrier-1990-spss9000320a)
 - [Arrêté du 7 juillet 1990 (AGRG9000882A)](arrete-du-7-juillet-1990-agrg9000882a)

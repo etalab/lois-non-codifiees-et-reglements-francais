@@ -656,7 +656,6 @@
 - [Arrêté du 17 mars 1992 (SPSS9200849A)](arrete-du-17-mars-1992-spss9200849a)
 - [Arrêté du 17 novembre 1992 (EQUP9201357A)](arrete-du-17-novembre-1992-equp9201357a)
 - [Arrêté du 17 novembre 1992 (JUSC9220940A)](arrete-du-17-novembre-1992-jusc9220940a)
-- [Arrêté du 17 septembre 1992 (EQUS9201366A)](arrete-du-17-septembre-1992-equs9201366a)
 - [Arrêté du 17 septembre 1992 (MENE9203545A)](arrete-du-17-septembre-1992-mene9203545a)
 - [Arrêté du 17 septembre 1992 (MERP9200154A)](arrete-du-17-septembre-1992-merp9200154a)
 - [Arrêté du 17 septembre 1992 (RESZ9200451A)](arrete-du-17-septembre-1992-resz9200451a)
