@@ -3,71 +3,52 @@
 <table>
 <tbody>
 <tr>
-<td/>
-<td> EN EUROS</td>
-<td> EN FRANCS</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>EUROS</td>
 </tr>
 <tr>
-<td> Journée de statisticien</td>
-<td>
-<p align="right"> 408,5</p>
-</td>
-<td>
-<p align="right"> 2 680</p>
-</td>
+<td align="center">Journée de cadre A </td>
+<td align="center">428,8</td>
 </tr>
 <tr>
-<td> Journée de technicien </td>
 <td>
-<p align="right"> 219,5</p>
+<p align="center">Journée de cadre B </p>
 </td>
 <td>
-<p align="right"> 1 440</p>
+<p align="center">228,0</p>
 </td>
 </tr>
 <tr>
-<td> Heure de contrôle et vérification</td>
-<td>
-<p align="right"> 27,5</p>
+<td align="center">
+<br/>heure de contrôle et de vérification <br/>
 </td>
-<td>
-<p align="right"> 180</p>
+<td align="center">
+<br/>29,0</td>
+</tr>
+<tr>
+<td align="center">
+<br/>heure de saisie <br/>
+</td>
+<td align="center">
+<br/>33,7</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Mois d'analyse programmation <br/>
+</td>
+<td align="center">
+<br/>11 647, 2 <br/>
 </td>
 </tr>
 <tr>
-<td> Heure de saisie</td>
-<td>
-<p align="right"> 32,0</p>
+<td align="center">
+<br/>Unité de production informatique <br/>
 </td>
-<td>
-<p align="right"> 210</p>
-</td>
-</tr>
-<tr>
-<td> Mois d'analyse programmation </td>
-<td>
-<p align="right"> 11 113,5</p>
-</td>
-<td>
-<p align="right"> 72 900</p>
-</td>
-</tr>
-<tr>
-<td>Unité de production informatique  </td>
-<td>
-<p align="right"> 11,5</p>
-</td>
-<td>
-<p align="right"> 75</p>
-</td>
-</tr>
-<tr>
-<td> Mégaoctet disque par mois</td>
-<td>
-<p align="right"> 0,3</p>
-</td>
-<td>
-<p align="right"> 2</p>
+<td align="center">
+<br/>10, 0 <br/>
 </td>
 </tr>
 </tbody>
