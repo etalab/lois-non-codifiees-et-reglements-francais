@@ -69,6 +69,7 @@
 - [Décret n°2002-633 du 26 avril 2002 (PRMX0200017D)](decret-n2002-633-du-26-avril-2002-prmx0200017d)
 - [Décret n°2001-1368 du 28 décembre 2001 (MJSK0170197D)](decret-n2001-1368-du-28-decembre-2001-mjsk0170197d)
 - [Décret n°2002-295 du 28 février 2002 (MENX0200016D)](decret-n2002-295-du-28-fevrier-2002-menx0200016d)
+- [Décret n°2001-682 du 30 juillet 2001 (INTE0100185D)](decret-n2001-682-du-30-juillet-2001-inte0100185d)
 - [Décret n°2002-1611 du 30 décembre 2002 (BUDR0205006D)](decret-n2002-1611-du-30-decembre-2002-budr0205006d)
 - [Décret n°2002-705 du 30 avril 2002 (ATEN0200030D)](decret-n2002-705-du-30-avril-2002-aten0200030d)
 - [Décret n°2001-1375 du 31 décembre 2001 (MESH0124158D)](decret-n2001-1375-du-31-decembre-2001-mesh0124158d)
