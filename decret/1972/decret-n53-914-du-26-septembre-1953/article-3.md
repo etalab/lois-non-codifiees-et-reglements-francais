@@ -1,0 +1,9 @@
+# Article 3
+
+Pour l'application des articles 1er et 2 qui précèdent, le requérant présente à l'agent chargé de la procédure ou de l'instruction son livret de famille ou sa carte nationale d'identité ou un extrait de son acte de naissance. Au vu de l'une ou l'autre de ces pièces, l'agent inscrit immédiatement les renseignements nécessaires sur une fiche dont les diverses mentions seront fixées par des modèles établis par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé des réformes administratives. L'agent signe cette fiche sous la mention de sa qualité. Le demandeur signe également ladite fiche et certifie sur l'honneur la véracité, à la date de l'établissement de la fiche, des mentions qui s'y trouvent portées. La fiche est jointe au dossier.
+
+Le requérant peut également présenter dans toute mairie les pièces visées aux articles 1er et 2. Au vu de ces pièces, l'agent habilité enregistre les renseignements nécessaires au moyen de la fiche définie à l'alinéa précédent, signe cette fiche sous la mention de sa qualité et la remet au demandeur pour valoir, auprès de l'organisme chargé de la procédure ou de l'instruction de la requête, présentation du livret de famille ou de la carte nationale d'identité de l'extrait de l'acte de naissance. Avant remise de cette fiche à l'organisme chargé de la procédure, le demandeur la signe et certifie sur l'honneur la véracité, à la date de la remise, des mentions qui s'y trouvent portées.
+
+Lorsque la fiche est établie au vu de la carte nationale d'identité, les mentions doivent nécessairement comporter, outre les nom, date et lieu de naissance du requérant, l'indication et l'autorité qui a délivré cette carte ainsi que la date de cette délivrance.
+
+Dans tous les cas les pièces présentées par le demandeur doivent lui être restituées après l'établissement de la fiche.

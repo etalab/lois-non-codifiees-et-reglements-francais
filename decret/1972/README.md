@@ -50,6 +50,7 @@
 - [Décret n°72-318 du 24 avril 1972](decret-n72-318-du-24-avril-1972)
 - [Décret n°72-1058 du 25 novembre 1972](decret-n72-1058-du-25-novembre-1972)
 - [Décret n°72-876 du 25 septembre 1972](decret-n72-876-du-25-septembre-1972)
+- [Décret n°53-914 du 26 septembre 1953](decret-n53-914-du-26-septembre-1953)
 - [Décret n°72-978 du 26 octobre 1972](decret-n72-978-du-26-octobre-1972)
 - [Décret n°72-1208 du 27 décembre 1972](decret-n72-1208-du-27-decembre-1972)
 - [Décret n°72-968 du 27 octobre 1972](decret-n72-968-du-27-octobre-1972)
