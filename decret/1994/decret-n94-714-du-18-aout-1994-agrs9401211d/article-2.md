@@ -8,14 +8,14 @@ II. Pour l'application du présent article :
 
 - la durée d'activité accomplie en qualité de chef d'exploitation ou d'entreprise prise en considération est déterminée en divisant le nombre total de points de retraite inscrits au compte de l'assuré par le chiffre 16 ;
 
-- pour déterminer la majoration des retraites proportionnelles, le nombre d'années d'activité accomplies en tant qu'aide familial prises en considération, dans la limite de quinze années au maximum, est égal à la différence entre la durée totale de l'activité non salariée agricole accomplie par l'intéressé et plafonnée à trente-sept années et demie, d'une part, et la durée d'activité en tant que chef d'exploitation déterminée comme il est dit précédemment, d'autre part.
+- pour déterminer la majoration des retraites proportionnelles, le nombre d'années d'activité accomplies en tant qu'aide familial prises en considération, dans la limite de vingt années, est égal à la différence entre la durée totale de l'activité non salariée agricole accomplie par l'intéressé et plafonnée à trente-sept années et demie, d'une part, et la durée d'activité en tant que chef d'exploitation déterminée comme il est dit précédemment, d'autre part.
 
 III. Lorsque les intéressés justifient d'au moins trente-sept années et demie d'activité non salariée agricole, dont, au terme du calcul ci-dessus, dix-sept années et demie en tant que chef d'exploitation ou d'entreprise agricole, chaque année d'activité d'aide familial majeur ouvre droit à seize points de retraite.
 
-IV. Pour les personnes dont la durée d'activité non salariée agricole est, au terme de la reconstitution de carrière prévue ci-dessus, comprise entre trente-deux années et demie et trente-sept années et demie, dont au moins dix-sept années et demie, en tant que chef d'exploitation ou d'entreprise, le nombre de points de retraite proportionnelle attribués pour la période d'aide familial est calculé sur la base de seize points pour chacune des années considérées comme accomplies à ce titre et retenues dans la limite de quinze au maximum. Le nombre de points ainsi obtenu est minoré par application d'un coefficient qui est fonction de l'écart entre, d'une part, trente-sept années et demie et, d'autre part, le nombre d'années d'activité non salariée agricole accomplies par les intéressés et retenues dans les limites définies au II du présent article. Pour chacune des années de l'écart constaté, les coefficients de minoration à appliquer sont de :
+IV. Pour les personnes dont la durée d'activité non salariée agricole est, au terme de la reconstitution de carrière prévue ci-dessus, comprise entre trente-deux années et demie et trente-sept années et demie, dont au moins dix-sept années et demie, en tant que chef d'exploitation ou d'entreprise, le nombre de points de retraite proportionnelle attribués pour la période d'aide familial est calculé sur la base de seize points pour chacune des années considérées comme accomplies à ce titre et retenues dans la limite de vingt . Le nombre de points ainsi obtenu est minoré par application d'un coefficient qui est fonction de l'écart entre, d'une part, trente-sept années et demie et, d'autre part, le nombre d'années d'activité non salariée agricole accomplies par les intéressés et retenues dans les limites définies au II du présent article.    Pour chacune des années de l'écart constaté, les coefficients de minoration à appliquer sont de :
 
-15 p. 100 pour chacune des deux premières années manquantes ;
+15 % pour chacune des deux premières années manquantes ;
 
-20 p. 100 pour chacune des troisième, quatrième et cinquième années suivantes ;
+10 % pour chacune des trois années suivantes ;
 
-10 p. 100 pour la sixième et dernière année.
+40 % pour la sixième année.
