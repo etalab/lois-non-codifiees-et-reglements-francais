@@ -348,6 +348,8 @@
 - [Décret du 25 août 2000 (ECOC0000037D)](decret-du-25-aout-2000-ecoc0000037d)
 - [Décret du 25 août 2000 (ECOC0000039D)](decret-du-25-aout-2000-ecoc0000039d)
 - [Décret n°2000-1050 du 25 octobre 2000 (MCCT0000436D)](decret-n2000-1050-du-25-octobre-2000-mcct0000436d)
+- [Décret n°2000-1054 du 25 octobre 2000 (MENX0000088D)](decret-n2000-1054-du-25-octobre-2000-menx0000088d)
+- [Décret n°2000-1059 du 25 octobre 2000 (RECX0000139D)](decret-n2000-1059-du-25-octobre-2000-recx0000139d)
 - [Décret n°2000-704 du 25 juillet 2000 (AGRB0000165D)](decret-n2000-704-du-25-juillet-2000-agrb0000165d)
 - [Décret n°2000-722 du 25 juillet 2000 (MENT0001493D)](decret-n2000-722-du-25-juillet-2000-ment0001493d)
 - [Décret n°2000-726 du 25 juillet 2000 (AGRU0001322D)](decret-n2000-726-du-25-juillet-2000-agru0001322d)

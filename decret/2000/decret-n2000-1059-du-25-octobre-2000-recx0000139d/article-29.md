@@ -1,0 +1,3 @@
+# Article 29
+
+Pour l'exécution des délibérations du conseil d'administration portant sur les créations de filiales et les prises, cessions ou extensions de participations financières, antérieures à la date de publication du présent décret et n'ayant pas fait l'objet à cette date d'une approbation par arrêté conjoint des ministres chargés de la recherche, de l'économie et du budget, le délai d'un mois résultant de l'article 6 du présent décret court à compter de la publication de celui-ci lorsque le procès-verbal a été reçu par ces ministres antérieurement à cette date. Dans le cas contraire, il court à compter de la réception du procès-verbal.
