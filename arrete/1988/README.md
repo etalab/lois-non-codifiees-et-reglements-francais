@@ -13,6 +13,7 @@
 - [Arrêté du 2 février 1988 (DEFM8801056A)](arrete-du-2-fevrier-1988-defm8801056a)
 - [Arrêté du 2 février 1988 (PRMG8805007A)](arrete-du-2-fevrier-1988-prmg8805007a)
 - [Arrêté du 2 février 1988 (REFC8800005A)](arrete-du-2-fevrier-1988-refc8800005a)
+- [Arrêté du 2 juin 1988 (INTD8800227A)](arrete-du-2-juin-1988-intd8800227a)
 - [Arrêté du 2 mars 1988 (BUDR8803018A)](arrete-du-2-mars-1988-budr8803018a)
 - [Arrêté du 2 mars 1988 (INDD8800124A)](arrete-du-2-mars-1988-indd8800124a)
 - [Arrêté du 2 mars 1988 (TRSA8800250A)](arrete-du-2-mars-1988-trsa8800250a)
