@@ -12,7 +12,7 @@ Le responsable du projet ou son représentant ;
 
 Deux autres membres du service des participations ;
 
-Deux représentants du bureau des ressources humaines et des services de la direction du Trésor ;
+Deux représentants du bureau des ressources humaines et des services de la direction générale du Trésor et de la politique économique ;
 
 Un représentant de l'Agence de la dette.
 

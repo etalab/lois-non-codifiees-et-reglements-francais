@@ -14,7 +14,7 @@ Cette commission est placée sous l'autorité des ministres chargés respectivem
 
 - le directeur du budget ou son représentant ;
 
-- le directeur des relations économiques extérieures ou son représentant ;
+- le directeur général du Trésor et de la politique économique ou son représentant ;
 
 - le directeur de la production et des échanges du ministère chargé de l'agriculture ou son représentant ;
 

@@ -8,6 +8,6 @@ Les demandes de prise en charge par l'Etat des majorations de rentes et des capi
 
 4. Capitaux représentatifs des majorations de rentes converties en capital donnant lieu à remboursement partiel (2).
 
-(1) Direction du Trésor.
+(1) Direction générale du Trésor et de la politique économique.
 
 (2) Les états 3 et 4 concernent les rentes relatives à la loi du 24 mai 1951 converties en rentes relevant de la loi du 27 décembre 1974.

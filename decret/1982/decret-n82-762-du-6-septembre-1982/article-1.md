@@ -1,6 +1,6 @@
 # Article 1
 
-Les directeurs régionaux du commerce extérieur exercent dans chaque région les missions relevant de la compétence de la direction des relations économiques extérieures et des organismes placés sous la tutelle de celle-ci.
+Les directeurs régionaux du commerce extérieur exercent dans chaque région les missions relevant de la compétence de la direction générale du Trésor et de la politique extérieure et des organismes placés sous la tutelle de celle-ci.
 
 Ils sont placés sous l'autorité du commissaire de la République de région.
 

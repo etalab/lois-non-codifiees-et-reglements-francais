@@ -1,12 +1,12 @@
 # Article 2
 
-Le comité comprend *composition*, outre son président :
+Le comité comprend, outre son président :
 
 1. Au titre de représentants de l'Etat :
 
-- trois représentants du ministre chargé de l'économie, des finances et du budget (direction du Trésor, direction générale des douanes et droits indirects, direction générale de la concurrence et de la consommation) ;
+- trois représentants du ministre chargé de l'économie, des finances et du budget ( direction générale du Trésor et de la politique économique, direction générale des douanes et droits indirects, direction générale de la concurrence et de la consommation) ;
 
-- deux représentants du ministre chargé du commerce extérieur (direction des relations économiques extérieures, centre français du commerce extérieur) ;
+- deux représentants du ministre chargé du commerce extérieur (direction générale du Trésor et de la politique économique, centre français du commerce extérieur) ;
 
 - un représentant du ministre chargé du commerce intérieur ;
 
@@ -16,7 +16,9 @@ Le comité comprend *composition*, outre son président :
 
 - deux représentants du Comité national des commissionnaires et auxiliaires de transport, commissionnaires en douane, transitaires, agents maritimes et aériens ;
 
-- deux représentants de la fédération nationale de la messagerie ;    - deux représentants de l'association professionnelle des commissionnaires affréteurs routiers ;
+- deux représentants de la fédération nationale de la messagerie ;
+
+- deux représentants de l'association professionnelle des commissionnaires affréteurs routiers ;
 
 - deux représentants de la fédération nationale des transports de denrées périssables ;
 
@@ -44,7 +46,9 @@ Le comité comprend *composition*, outre son président :
 
 - un représentant de la confédération générale des travailleurs chrétiens ;
 
-- un représentant de la confédération générale des cadres.    5. Au titre de représentants des usagers ;
+- un représentant de la confédération générale des cadres.
+
+5. Au titre de représentants des usagers ;
 
 - un représentant des chambres de commerce et d'industrie ;
 

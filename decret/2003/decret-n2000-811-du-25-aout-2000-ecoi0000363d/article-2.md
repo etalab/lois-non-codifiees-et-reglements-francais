@@ -12,7 +12,7 @@ Le directeur général de la concurrence, de la consommation et de la répressio
 
 Le directeur de la demande et des marchés énergétiques ou son représentant ;
 
-Le directeur du Trésor ou son représentant ;
+Le directeur général du Trésor et de la politique économique ou son représentant ;
 
 Le directeur des entreprises commerciales, artisanales et de services ou son représentant ;
 

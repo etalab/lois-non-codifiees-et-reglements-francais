@@ -31,6 +31,7 @@
 - [Décret n°85-1302 du 6 décembre 1985](decret-n85-1302-du-6-decembre-1985)
 - [Décret n°85-1308 du 6 décembre 1985](decret-n85-1308-du-6-decembre-1985)
 - [Décret n°85-185 du 6 février 1985](decret-n85-185-du-6-fevrier-1985)
+- [Décret n°85-310 du 6 mars 1985](decret-n85-310-du-6-mars-1985)
 - [Décret n°85-496 du 6 mai 1985](decret-n85-496-du-6-mai-1985)
 - [Décret n°84-1094 du 7 décembre 1984](decret-n84-1094-du-7-decembre-1984)
 - [Décret n°85-1073 du 7 octobre 1985](decret-n85-1073-du-7-octobre-1985)

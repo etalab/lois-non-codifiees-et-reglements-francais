@@ -8,4 +8,4 @@ Le conseil d'administration ne peut valablement délibérer que si trois de ses 
 
 L'agent comptable de l'établissement assiste avec voix consultative aux délibérations du conseil.
 
-Il est établi un procès-verbal de chaque séance, signé par le président et par le secrétaire, qui est un fonctionnaire de la direction du Trésor.
+Il est établi un procès-verbal de chaque séance, signé par le président et par le secrétaire, qui est un fonctionnaire de la direction générale du Trésor et de la politique économique.

@@ -18,7 +18,7 @@ f) Le ministre chargé de l'outre-mer ou son représentant ;
 
 g) Le ministre chargé de l'industrie ou son représentant ;
 
-h) Le directeur de la direction des relations économiques extérieures ou son représentant ;
+h) Le directeur de la direction générale du Trésor et de la politique économique ou son représentant ;
 
 i) Le président du Comité national des conseillers du commerce extérieur ou son représentant ;
 
@@ -34,4 +34,4 @@ b) Deux conseillers du commerce extérieur de la France, ayant rempli leurs fonc
 
 c) Et deux personnalités ayant acquis une compétence particulière dans le domaine des relations économiques internationales.
 
-Le secrétariat de la commission est assuré par la direction des relations économiques extérieures.
+Le secrétariat de la commission est assuré par la direction générale du Trésor et de la politique économique.

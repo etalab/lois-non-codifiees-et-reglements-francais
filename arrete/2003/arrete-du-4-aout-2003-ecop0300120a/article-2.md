@@ -8,7 +8,7 @@ Membres permanents :
 
 - un représentant du ministre de l'économie, des finances et de l'industrie, appartenant à la direction générale des impôts ;
 
-- un représentant du ministre de l'économie, des finances et de l'industrie, appartenant à la direction des relations économiques extérieures ;
+- un représentant du ministre de l'économie, des finances et de l'industrie, appartenant à la direction générale du Trésor et de la politique économique ;
 
 - une personnalité qualifiée choisie parmi les agents en fonction dans les services du ministère chargé de l'éducation nationale.
 

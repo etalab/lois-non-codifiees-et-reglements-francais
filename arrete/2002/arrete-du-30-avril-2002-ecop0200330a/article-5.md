@@ -36,4 +36,4 @@ autres services nationaux concernés par la lutte contre les grandes fraudes.
 
 Il assure le suivi fonctionnel des applications concernant la lutte contre la fraude et la communication des informations aux organismes extérieurs.
 
-Il procède, en outre, au suivi des relations financières avec l'étranger, en liaison avec la direction du Trésor et la Banque de France.
+Il procède, en outre, au suivi des relations financières avec l'étranger, en liaison avec la direction générale du Trésor et de la politique économique et la Banque de France.

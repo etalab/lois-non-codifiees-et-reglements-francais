@@ -2,7 +2,7 @@
 
 Les déclarations préalables visées aux alinéas 2 et 3 de l'article 4 du décret n° 68-1021 du 24 novembre 1968, modifié par le décret n° 71-144 du 22 février 1971, afférentes à la constitution ou à la liquidation d'investissements directs à l'étranger et à la constitution d'investissements directs en France doivent être adressées :
 
-1° En règle générale, au ministère de l'économie, direction du Trésor.
+1° En règle générale, au ministère de l'économie, direction générale du Trésor et de la politique économique.
 
 2° A la Banque de France, direction générale des services étrangers, service des autorisations financières, en ce qui concerne les investissements dans des sociétés françaises exerçant principalement des activités immobilières ;
 
