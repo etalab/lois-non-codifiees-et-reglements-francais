@@ -332,7 +332,6 @@
 - [Décret n°89-417 du 20 juin 1989 (SPSH8901165D)](decret-n89-417-du-20-juin-1989-spsh8901165d)
 - [Décret n°89-418 du 20 juin 1989 (PRMZ8905047D)](decret-n89-418-du-20-juin-1989-prmz8905047d)
 - [Décret n°89-420 du 20 juin 1989 (AGRE8900868D)](decret-n89-420-du-20-juin-1989-agre8900868d)
-- [Décret n°89-506 du 20 juillet 1989](decret-n89-506-du-20-juillet-1989)
 - [Décret n°89-510 du 20 juillet 1989 (AGRS8901196D)](decret-n89-510-du-20-juillet-1989-agrs8901196d)
 - [Décret n°89-511 du 20 juillet 1989 (JUSX8900073D)](decret-n89-511-du-20-juillet-1989-jusx8900073d)
 - [Décret n°89-517 du 20 juillet 1989 (MERE8900028D)](decret-n89-517-du-20-juillet-1989-mere8900028d)

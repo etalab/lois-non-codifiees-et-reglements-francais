@@ -22,7 +22,6 @@
 - [Arrêté du 15 juillet 1968](arrete-du-15-juillet-1968)
 - [Arrêté du 16 août 1966](arrete-du-16-aout-1966)
 - [Arrêté du 16 janvier 1968](arrete-du-16-janvier-1968)
-- [Arrêté du 18 avril 1968](arrete-du-18-avril-1968)
 - [Arrêté du 18 novembre 1968](arrete-du-18-novembre-1968)
 - [Arrêté du 19 août 1968](arrete-du-19-aout-1968)
 - [Arrêté du 19 avril 1968](arrete-du-19-avril-1968)
