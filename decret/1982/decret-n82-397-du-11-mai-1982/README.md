@@ -5,5 +5,3 @@
 - [SECTION 3 : DES SECOURISTES](section-3)
 - [SECTION 4 : DES MISSIONS DES SERVICES MEDICAUX DU TRAVAIL](section-4)
 - [SECTION 5 : DISPOSITIONS FINALES](section-5)
-- [Article 41](article-41.md)
-- [Article 42](article-42.md)
