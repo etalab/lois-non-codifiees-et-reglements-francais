@@ -29,6 +29,7 @@
 - [Loi n° 94-43 du 18 janvier 1994 (SPSX9300136L)](loi-n-94-43-du-18-janvier-1994-spsx9300136l)
 - [Loi n° 94-442 du 3 juin 1994 (ECOX9300172L)](loi-n-94-442-du-3-juin-1994-ecox9300172l)
 - [Loi n° 94-443 du 3 juin 1994 (DOMX9300181L)](loi-n-94-443-du-3-juin-1994-domx9300181l)
+- [Loi n° 94-475 du 10 juin 1994 (JUSX9400223L)](loi-n-94-475-du-10-juin-1994-jusx9400223l)
 - [Loi n° 94-477 du 10 juin 1994 (MAEX9400036L)](loi-n-94-477-du-10-juin-1994-maex9400036l)
 - [Loi n° 94-478 du 10 juin 1994 (MAEX9300184L)](loi-n-94-478-du-10-juin-1994-maex9300184l)
 - [Loi n° 94-480 du 10 juin 1994 (MAEX9300072L)](loi-n-94-480-du-10-juin-1994-maex9300072l)
