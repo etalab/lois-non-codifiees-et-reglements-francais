@@ -153,7 +153,6 @@
 - [Décret n°85-1046 du 27 septembre 1985](decret-n85-1046-du-27-septembre-1985)
 - [Décret n°85-1271 du 27 novembre 1985](decret-n85-1271-du-27-novembre-1985)
 - [Décret n°85-1282 du 27 novembre 1985](decret-n85-1282-du-27-novembre-1985)
-- [Décret n°85-1391 du 27 décembre 1985](decret-n85-1391-du-27-decembre-1985)
 - [Décret n°85-1392 du 27 décembre 1985](decret-n85-1392-du-27-decembre-1985)
 - [Décret n°85-1393 du 27 décembre 1985](decret-n85-1393-du-27-decembre-1985)
 - [Décret n°85-1394 du 27 décembre 1985](decret-n85-1394-du-27-decembre-1985)
