@@ -292,7 +292,7 @@ Par dérogation aux dispositions de l'article 5, les espèces de gibier figurant
 <td> :--------------------------------:</td>
 </tr>
 <tr>
-<td> :           15 octobre           :</td>
+<td> :           11 novembre          :</td>
 </tr>
 <tr>
 <td> :================================:</td>
@@ -406,7 +406,7 @@ Par dérogation aux dispositions de l'article 5, les espèces de gibier figurant
 <td> :--------------------------------:</td>
 </tr>
 <tr>
-<td> :           15 octobre           :</td>
+<td> :           25 octobre           :</td>
 </tr>
 <tr>
 <td> :================================:</td>

@@ -1,5 +1,13 @@
 # Article 1
 
-Les dispositions de l'arrêté n° 82-32/A du 14 juin 1982 susvisé sont abrogées.
+La liste des spécialités professionnelles exercées par les experts techniques des services techniques du ministère de l'équipement, du logement, de l'aménagement du territoire et des transports est fixée comme suit :
 
-Les marges de vente au détail des vins peuvent être librement déterminées.
+Béton et ouvrage d'art ;
+
+Sols et chaussées ;
+
+Sondage - forage ;
+
+Analyses chimiques ;
+
+Analyses et mesures physiques.

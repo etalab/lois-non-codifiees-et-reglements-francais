@@ -1,3 +1,3 @@
 # Article 2
 
-L'ensemble de ces règles est applicable sans délai aux établissements faisant l'objet d'un arrêté d'autorisation postérieur au présent arrêté.
+Le directeur du personnel du ministère de l'équipement, du logement, de l'aménagement du territoire et des transports est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

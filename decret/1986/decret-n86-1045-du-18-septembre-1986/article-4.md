@@ -1,0 +1,3 @@
+# Article 4
+
+Sont abrogés l'article 75 du décret du 22 mars 1942 précité, les articles 26 et 26 bis du décret n° 58-1303 du 23 décembre 1958 modifiant diverses dispositions d'ordre pénal en vue d'instituer une cinquième classe de contraventions de police, l'article 1er du décret n° 69-78 du 21 janvier 1969 rendant applicables à certaines entreprises de transport public les dispositions de l'article 26 du décret n° 58-1303 du 23 décembre 1958 relatives aux contraventions de police ainsi que l'arrêté du 11 février 1942 interdisant la revente avec bénéfice des titres de transport par chemin de fer.
