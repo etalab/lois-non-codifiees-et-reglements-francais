@@ -1,5 +1,4 @@
-# Arrêté du 20 janvier 1986 relatif au règlement intérieur modèle des caisses primaires d'assurance maladie pour le service des prestations supplémentaires de cure thermale
+# Arrêté du 20 janvier 1986 du 20 janvier 1986 portant suspension de la formalité du bon de remis applicable aux chaussures et autres articles chaussants.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
-- [Article 3](article-3.md)

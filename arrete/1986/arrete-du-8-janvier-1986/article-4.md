@@ -1,3 +1,3 @@
 # Article 4
 
-Tout travail sous tension à l'intérieur d'un quartier d'exploitation ne doit être entrepris que sur autorisation expresse d'un responsable désigné par le directeur technique. Ce responsable doit s'assurer préalablement que la teneur en grisou sur les lieux d'intervention sous tension ne peut monter dangereusement. Il doit être avisé de la fin des travaux.
+Le taux de la taxe visée à l'article 2 (4°) du décret n° 82-1238 du 30 décembre 1982 est fixé à 4,7 p. 100 pour les pruneaux repris sous les positions 08-12 C et ex 20.06 B mis à la consommation sur le territoire douanier français.

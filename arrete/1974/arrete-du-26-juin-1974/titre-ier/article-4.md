@@ -14,6 +14,6 @@ Beurres, graisses alimentaires y compris la crème destinée à la beurrerie ...
 
 Ovoproduits, abats, issues, lapins, volailles et gibiers ... - 12° C.
 
-Viandes ... - 10° C.
+Viandes ... - 12° C.
 
 Autres denrées ... - 10° C.
