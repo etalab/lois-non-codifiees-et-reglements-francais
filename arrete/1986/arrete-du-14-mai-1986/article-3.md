@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur du Trésor au ministère de l'économie, des finances et de la privatisation, le directeur de la construction au ministère de l'équipement, du logement, de l'aménagement du territoire et des transports et le directeur de la promotion au secrétariat d'Etat aux P. et T. sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le coût moyen au kilomètre de la tonne transportée par fret aérien est fixé par calcul de la moyenne des tarifs pratiqués pour le transport d'une tonne type, au départ de Paris, vers les capitales des pays visés à l'article 2 ci-dessus et situées à plus de 1200 kilomètres de distance sectionnelle de Paris.
