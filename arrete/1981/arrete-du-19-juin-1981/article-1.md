@@ -1,7 +1,3 @@
 # Article 1
 
-Sont classées dans la 5e catégorie de l'article 1er du décret susvisé du 12 mars 1973 modifié les armes d'épaule et leurs munitions qui ne remplissent pas les conditions requises pour être classées dans la 8e catégorie, alinéa a, fixées par les arrêtés susvisés du 13 décembre 1978 et du 18 mai 1979, et sont définies ci-dessous :
-
-- fusils, mousquetons, carabines d'un calibre supérieur à 10 millimètres et d'un système conçu avant le 1er janvier 1886 pour un tir de munitions chargées à poudre noire et balles plomb ;
-
-- munitions à l'usage de ces armes.
+Les déclarations de récolte de vin prévues par l'article 407 du code général des impôts et l'article 267 octies de l'annexe II sont souscrites, à une date fixée chaque année par le   préfet du département et au plus tard le 25 novembre, à la mairie du lieu de vinification de la récolte. Les déclarations font l'objet d'un traitement informatisé, dénommé AVI, qui regroupe les informations permettant d'établir les statistiques annuelles de la récolte, de calculer les prestations viniques dues par les viticulteurs et de fournir certains éléments concourant à l'établissement de fiches de calcul manuelles de bénéfices agricoles forfaitaires de la viticulture.
