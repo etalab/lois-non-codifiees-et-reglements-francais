@@ -70,6 +70,7 @@
 - [Décret n°75-489 du 16 juin 1975](decret-n75-489-du-16-juin-1975)
 - [Décret n°75-640 du 16 juillet 1975](decret-n75-640-du-16-juillet-1975)
 - [Décret n°75-658 du 16 juillet 1975](decret-n75-658-du-16-juillet-1975)
+- [Décret n°75-969 du 16 octobre 1975](decret-n75-969-du-16-octobre-1975)
 - [Décret n°75-1090 du 17 novembre 1975](decret-n75-1090-du-17-novembre-1975)
 - [Décret n°75-173 du 17 mars 1975](decret-n75-173-du-17-mars-1975)
 - [Décret n°75-956 du 17 octobre 1975](decret-n75-956-du-17-octobre-1975)
