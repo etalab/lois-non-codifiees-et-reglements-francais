@@ -1,0 +1,5 @@
+# Article 16-1
+
+Les sous-préfets qui ont occupé, au cours des deux années précédentes, un poste territorial dans un département ne peuvent servir auprès de ce département, d'une commune de ce département, d'un de leurs établissements publics ou d'un organisme en dépendant : de même, ils ne peuvent servir auprès de la région dont ce département fait partie, auprès d'un des établissements publics de cette région ou d'un organisme en dépendant.
+
+Les agents qui ont servi auprès d'un département, d'une commune de ce département, d'un de leurs établissements publics ou d'un organisme en dépendant ne peuvent, pendant un délai de deux ans suivant le terme de cette affectation, occuper un poste de sous-préfet dans les limites de ce département ; de même, les agents qui ont servi auprès d'une région, d'un de ses établissements publics ou d'un organisme en dépendant ne peuvent, pendant un délai de deux ans suivant le terme de cette affectation, occuper un poste de sous-préfet dans les limites de cette région.
