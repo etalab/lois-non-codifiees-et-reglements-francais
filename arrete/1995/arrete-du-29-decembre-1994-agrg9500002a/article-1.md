@@ -1,0 +1,3 @@
+# Article 1
+
+Une zone du territoire national est reconnue comme zone protégée au sens de l'article 1er du décret du 10 novembre 1993 susvisé s'il est confirmé, selon un programme établi par le ministère de l'agriculture et de la pêche (direction régionale de l'agriculture et de la forêt, service régional de la protection des végétaux ou direction de l'agriculture et de la forêt, service de la protection des végétaux pour les départements d'outre-mer), qu'un ou plusieurs des organismes nuisibles visés aux annexes I et II de l'arrêté du 2 septembre 1993 susvisé ne sont pas endémiques ni établis dans ladite zone.
