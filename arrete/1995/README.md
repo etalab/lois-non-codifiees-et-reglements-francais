@@ -1,6 +1,8 @@
 # 1995
 
+- [Arrêté du 2 janvier 1995 (EQUA9500029A)](arrete-du-2-janvier-1995-equa9500029a)
 - [Arrêté du 2 janvier 1995 (JUSE9540001A)](arrete-du-2-janvier-1995-juse9540001a)
+- [Arrêté du 2 janvier 1995 (SPSS9500023A)](arrete-du-2-janvier-1995-spss9500023a)
 - [Arrêté du 2 novembre 1994 (SPSP9403408A)](arrete-du-2-novembre-1994-spsp9403408a)
 - [Arrêté du 2 novembre 1994 (SPSS9403375A)](arrete-du-2-novembre-1994-spss9403375a)
 - [Arrêté du 3 janvier 1995 (SPSS9403822A)](arrete-du-3-janvier-1995-spss9403822a)
@@ -94,6 +96,7 @@
 - [Arrêté du 29 décembre 1994 (INTB9400628A)](arrete-du-29-decembre-1994-intb9400628a)
 - [Arrêté du 29 décembre 1994 (MAEA9420639A)](arrete-du-29-decembre-1994-maea9420639a)
 - [Arrêté du 29 décembre 1994 (SANH9500004A)](arrete-du-29-decembre-1994-sanh9500004a)
+- [Arrêté du 29 décembre 1994 (SPSP9500017A)](arrete-du-29-decembre-1994-spsp9500017a)
 - [Arrêté du 29 novembre 1994 (EQUS9401995A)](arrete-du-29-novembre-1994-equs9401995a)
 - [Arrêté du 30 décembre 1994 (AGRA9402309A)](arrete-du-30-decembre-1994-agra9402309a)
 - [Arrêté du 30 décembre 1994 (AGRB9402191A)](arrete-du-30-decembre-1994-agrb9402191a)
