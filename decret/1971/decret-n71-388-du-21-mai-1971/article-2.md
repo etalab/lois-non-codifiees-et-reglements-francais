@@ -1,6 +1,6 @@
 # Article 2
 
-La durée de l'enseignement est de neuf mois, sans dispense aucune.
+A compter de la rentrée d'octobre 2002, la durée totale de l'enseignement est fixée à dix-huit mois. Des dispenses d'enseignement peuvent être attribuées à des infirmiers diplômés d'Etat justifiant d'une expérience professionnelle en bloc opératoire, dans des conditions définies par arrêté du ministre chargé de la santé.
 
 L'enseignement comporte une partie théorique et des stages.
 
