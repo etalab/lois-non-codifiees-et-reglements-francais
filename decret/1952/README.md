@@ -1,5 +1,6 @@
 # 1952
 
+- [Décret n°52-16 du 5 janvier 1952](decret-n52-16-du-5-janvier-1952)
 - [Décret n°52-1122 du 6 octobre 1952](decret-n52-1122-du-6-octobre-1952)
 - [Décret n°52-540 du 7 mai 1952](decret-n52-540-du-7-mai-1952)
 - [Décret n°52-1050 du 10 septembre 1952](decret-n52-1050-du-10-septembre-1952)
