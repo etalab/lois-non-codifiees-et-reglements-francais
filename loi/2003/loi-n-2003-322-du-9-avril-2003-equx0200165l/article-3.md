@@ -1,0 +1,5 @@
+# Article 3
+
+A compter au plus tard de la date du transfert au secteur privé de la majorité du capital de la société Air France, des négociations sont engagées par celle-ci avec les organisations syndicales représentatives des salariés à l'effet de conclure la convention ou les accords d'entreprise devant se substituer aux dispositions portant statut du personnel prises en vertu des dispositions du code de l'aviation civile.
+
+Les dispositions portant statut du personnel en vigueur à la date du transfert au secteur privé de la majorité du capital continuent de s'appliquer à la société Air France jusqu'à la date d'entrée en vigueur de la convention ou des accords mentionnés au premier alinéa, et au plus pendant un délai de deux ans à compter du transfert au secteur privé de la majorité du capital. Les dispositions de l'article L. 351-4 du code du travail ne s'appliquent à la société Air France qu'à partir de la même date ou, à défaut de convention ou d'accords, à l'expiration d'un délai de deux ans à compter dudit transfert. Jusqu'alors continuent de s'appliquer les dispositions de l'article L. 351-12 dudit code.
