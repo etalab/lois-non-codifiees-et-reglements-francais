@@ -1,0 +1,5 @@
+# Article 22
+
+I. - L'employeur est tenu d'informer l'inspecteur du travail, les travailleurs intéressés et le comité d'hygiène, de sécurité et des conditions de travail [*CHSCT*], ou, à défaut, les délégués du personnel, des cas de dépassement de l'une des limites fixées aux articles 6, 7 et 8 du présent décret, en précisant les causes présumées, les circonstances et les mesures envisagées pour éviter qu'ils ne se renouvellent ; l'information de l'inspecteur du travail est faite sous forme d'une déclaration en double exemplaire, un exemplaire est adressé au Service central de protection contre les rayonnements ionisants.
+
+II. - En outre, en cas d'urgence résultant d'une exposition accidentelle susceptible d'avoir dépassé l'une des limites annuelles fixées aux articles 6, 7 et 8, le service central de protection contre les rayonnements ionisants est, sans préjudice des dispositions de l'alinéa précédent, informé directement et sans délai par l'employeur. Ce service apporte, si nécessaire, son concours au médecin du travail.

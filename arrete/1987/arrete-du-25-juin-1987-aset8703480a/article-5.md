@@ -1,0 +1,9 @@
+# Article 5
+
+I - Le certificat d'aptitude à manipuler les appareils de radiographie ou de radioscopie industrielle est délivré soit au vu des résultats d'épreuves de contrôle des connaissances telles que définies à l'annexe I, soit sur titres dans les conditions fixées à l'article 7 du présent arrêté.
+
+II - Le certificat d'aptitude à manipuler les appareils de radiographie ou de radioscopie industrielle est accordé pour une durée de neuf ans. Sa validité peut être prorogée par le directeur régional du travail et de l'emploi ou le chef du service régional de l'inspection du travail, de l'emploi et de la politique sociale agricoles, par périodes de neuf ans successives, sur demande adressée par le titulaire au secrétariat du jury prévu à l'article 4 ci-dessus ; à cette demande sont jointes des attestations précisant la nature et la durée des emplois exercés pendant la période échue et pour lesquels la certification est exigée ; les employeurs sont tenus de délivrer ces attestations : d'autres documents prouvant la nature et la durée des emplois exercés pendant la période échue pourront être fournis par l'intéressé.
+
+Le directeur régional du travail et de l'emploi ou le chef du service régional de l'inspection du travail, de l'emploi et de la politique sociale agricoles, pourra au besoin, subordonner sa décision de prorogation à l'avis du jury prévu à l'article 3 ci-dessus, ou même demander à l'intéressé de se soumettre de nouveau aux épreuves de contrôle des connaissances prévues au paragraphe I ci-dessus.
+
+En tout état de cause, le directeur régional du travail et de l'emploi ou le chef du service régional de l'inspection du travail, de l'emploi et de la politique sociale agricoles ne peut accorder de prorogation à une personne certifiée à la suite d'épreuves de contrôle des connaissances et qui n'aurait exercé pendant la période échue aucun emploi correspondant à la certification d'aptitude.

@@ -1,0 +1,11 @@
+# Article 65
+
+I. - Le service central de protection contre les rayonnements ionisants [*rôle, compétences*] propose aux ministres concernés toutes mesures susceptibles d'améliorer la protection des travailleurs contre ces rayonnements. Il donne son avis technique sur les projets d'arrêtés pris en application du présent décret. Il participe, en tant qu'expert, aux travaux du Conseil supérieur de la prévention des risques professionnels relatifs à la radioprotection.
+
+II. - Le service central de protection contre les rayonnements ionisants enregistre les résultats de la surveillance de l'exposition des travailleurs à ces rayonnements, en liaison avec les médecins du travail, et il assure l'exploitation et la conservation de ces résultats. Toutefois, certains établissements peuvent être autorisés par arrêté du ministre chargé du travail ou du ministre chargé de l'agriculture à assurer eux-mêmes ladite surveillance ; dans ce cas, les résultats sont communiqués au service central de protection contre les rayonnements ionisants, qui vérifie la qualité des mesures effectuées par ces établissements.
+
+III. - Le service central de protection contre les rayonnements ionisants peut demander que lui soient communiqués les résultats des contrôles ou évaluations prévus au présent décret et portant sur les sources ou leurs appareils de protection ou sur les ambiances.
+
+IV. - Quand a lieu la mise en demeure prévue à l'article L. 231-5 du code du travail et sur demande du directeur départemental du travail et de l'emploi ou du chef de service départemental de l'inspection du travail, de l'emploi et de la politique sociale agricole, le service central de protection contre les rayonnements ionisants peut vérifier ou faire vérifier par un organisme désigné par lui et figurant sur une liste arrêtée par les ministres chargés du travail et de l'agriculture l'efficacité des moyens de radioprotection utilisés.
+
+V. - Chaque année, le service central de protection contre les rayonnements ionisants [*rapport périodique*] rend compte de son activité en matière de radioprotection des travailleurs aux ministres chargés du travail, de la santé et de l'agriculture. Il fournit au ministre chargé du travail les éléments d'information nécessaires à l'établissement, pour le domaine considéré, du bilan prévu à l'article R. 231-15 du code du travail.
