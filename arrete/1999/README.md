@@ -606,7 +606,6 @@
 - [Arrêté du 24 septembre 1999 (ECOT9914048A)](arrete-du-24-septembre-1999-ecot9914048a)
 - [Arrêté du 25 février 1999 (AGRP9900376A)](arrete-du-25-fevrier-1999-agrp9900376a)
 - [Arrêté du 25 février 1999 (AGRP9900533A)](arrete-du-25-fevrier-1999-agrp9900533a)
-- [Arrêté du 25 février 1999 (MENS9900398A)](arrete-du-25-fevrier-1999-mens9900398a)
 - [Arrêté du 25 février 1999 (MESF9910346A)](arrete-du-25-fevrier-1999-mesf9910346a)
 - [Arrêté du 25 février 1999 (MESH9920683A)](arrete-du-25-fevrier-1999-mesh9920683a)
 - [Arrêté du 25 janvier 1999 (ECOD9970001A)](arrete-du-25-janvier-1999-ecod9970001a)
