@@ -1,0 +1,3 @@
+# Article 5
+
+Le commissaire de la République de département arrête chaque année, après avis du collège des élus de la commission de conciliation instituée par le décret du 9 Septembre 1983 susvisée, la liste des communes et établissements publics de coopération intercommunale susceptibles de bénéficier du concours particulier ; les communes et établissements publics de coopération intercommunale sont inscrits sur cette liste selon un ordre de priorité tenant compte notamment de la poursuite des procédures en cours ainsi que de l'établissement des documents d'urbanisme qui sont rendus nécessaires pour l'application des prescriptions nationales ou particulières d'aménagement ou par l'existence de risques naturels.

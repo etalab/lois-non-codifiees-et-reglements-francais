@@ -1,0 +1,5 @@
+# Article 3
+
+La répartition échelonnée sur trois ans [*durée*] de la somme de 130 millions de francs [*montant*] mise à la charge de l'Etat par l'article 3 de la loi du 22 juillet 1983, à titre d'augmentation de sa participation aux dépenses d'aide sociale et de santé des départements les plus défavorisés, est opérée au profit des départements défavorisés dont le désavantage mesuré conformément à l'article 1er du présent décret dépasse 4,6 points.
+
+L'augmentation, échelonnée sur trois ans, de la participation de l'Etat aux dépenses d'aide sociale et de santé des départements bénéficiaires est calculée, pour chacun d'entre eux, sur la base de ses dépenses d'aide sociale et de santé constatées dans le compte administratif de 1982, en fonction de l'écart mentionné au deuxième alinéa de l'article 1er du présent décret, cet écart étant affecté d'un taux de correction commun à tous les départements bénéficiaires.    La liste des départements bénéficiaires et le montant de l'augmentation, échelonnée sur trois ans, de la participation de l'Etat à leurs dépenses d'aide sociale et de santé figurent dans le tableau annexé au présent décret.

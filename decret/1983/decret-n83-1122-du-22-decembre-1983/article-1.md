@@ -1,0 +1,3 @@
+# Article 1
+
+Le concours particulier créé, au sein de la dotation générale de décentralisation au titre de l'établissement et de la mise en oeuvre des documents d'urbanisme, en application du troisième alinéa de l'article 95 de la loi n° 83-8 du 7 janvier 1983 susvisée est destiné à compenser les charges qui résultent, pour les communes ou établissements publics de coopération intercommunale, de l'établissement de schémas directeurs, de schémas de secteur, de plans d'occupation des sols ainsi que de la modification ou de la révision de ces documents. Il est attribué dans les conditions prévues par le présent décret.

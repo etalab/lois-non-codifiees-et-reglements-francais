@@ -1,0 +1,13 @@
+# Article 2
+
+Les crédits du concours particulier [*montant*], mentionné à l'article 1er ci-dessus, sont délégués aux commissaires de la République de région. Ils sont répartis entre ceux-ci à raison de :
+
+30 p. 100 [*pourcentage*] en fonction du nombre de logements ayant fait l'objet d'une demande de permis de construire lors des trois dernières années dans chaque région ;
+
+20 p. 100 en fonction de la population de chaque région à l'exception de celle des communes membres d'une agence d'urbanisme lorsque celle-ci bénéficie d'un financement de l'Etat ;
+
+20 p. 100 en fonction du nombre de communes de plus de 700 habitants de chaque région non dotées d'un plan d'occupation des sols opposable aux tiers ;
+
+20 p. 100 en fonction du nombre de communes de chaque région soumises à des prescriptions nationales ou particulières en application de lois d'aménagement et d'urbanisme, dans les conditions prévues à l'article L. 111-1-1 du code de l'urbanisme ;
+
+Les 10 p. 100 [*taux, pourcentage*] restants sont répartis entre les régions, en cours d'année, pour tenir compte notamment des besoins nouveaux liés à l'évolution de la réglementation ou à la réalisation d'équipements dont l'importance rend urgente l'élaboration, la modification ou la révision d'un document d'urbanisme.
