@@ -1,0 +1,3 @@
+# Article 6
+
+Par dérogation aux dispositions qui précèdent, le ministre chargé de la santé peut instituer un comité médical propre à un établissement public ou à un groupe d'établissements publics dont les personnels sont assujettis au statut de la fonction publique hospitalière si l'importance du nombre des agents le justifie. Ce comité médical est constitué par le ou les   préfets territorialement compétents avec la composition et pour la durée prévues à l'article 5 du décret du 14 mars 1986 susvisé. Il est compétent à l'égard de l'ensemble des fonctionnaires de l'établissement ou du groupe d'établissements quels que soient le lieu d'exercice de leurs fonctions et leur position.
