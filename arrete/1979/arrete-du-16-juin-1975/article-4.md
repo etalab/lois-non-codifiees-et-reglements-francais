@@ -1,11 +1,7 @@
 # Article 4
 
-Les superficies maxima des cumuls visées à l'article 188-1 du code rural sont fixées comme suit (en hectares) :
+Les superficies maxima des cumuls visées à l'article 188-1 du Code rural sont fixées à deux fois la superficie minimum d'installation soit (en hectares) :
 
-Val de Saône : 80
+Flandre maritime, Cambrésis, Hainaut : 46
 
-Vingeanne, Plaine, Auxois, Morvan : 110
-
-Plateau Langrois, Montagne, Tonnerrois, La Vallée : 130
-
-Côte viticole et arrière côte de Bourgogne : 160
+Reste du département : 36.
