@@ -485,7 +485,6 @@
 - [Décret n°89-451 du 30 juin 1989 (MAEJ8930063D)](decret-n89-451-du-30-juin-1989-maej8930063d)
 - [Décret n°89-55 du 30 janvier 1989 (SPSP8801880D)](decret-n89-55-du-30-janvier-1989-spsp8801880d)
 - [Décret n°89-598 du 30 août 1989 (FPPX8900099D)](decret-n89-598-du-30-aout-1989-fppx8900099d)
-- [Décret n°89-626 du 30 août 1989 (TOUR8904535D)](decret-n89-626-du-30-aout-1989-tour8904535d)
 - [Décret n°89-794 du 30 octobre 1989 (MENN8902298D)](decret-n89-794-du-30-octobre-1989-menn8902298d)
 - [Décret n°89-795 du 30 octobre 1989 (MENN8902240D)](decret-n89-795-du-30-octobre-1989-menn8902240d)
 - [Décret n°89-796 du 30 octobre 1989 (ECOT8950189D)](decret-n89-796-du-30-octobre-1989-ecot8950189d)
