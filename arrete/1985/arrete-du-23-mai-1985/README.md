@@ -1,4 +1,4 @@
-# Arrêté du 27 août 1971 relatif aux examens pré et postnataux
+# Arrêté du 23 mai 1985 relatif à l'immatriculation des caisses d'épargne et de prévoyance au registre du commerce et des sociétés
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

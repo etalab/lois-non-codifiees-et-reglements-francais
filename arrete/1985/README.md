@@ -79,6 +79,7 @@
 - [Arrêté du 22 janvier 1985](arrete-du-22-janvier-1985)
 - [Arrêté du 22 mars 1985](arrete-du-22-mars-1985)
 - [Arrêté du 23 janvier 1985](arrete-du-23-janvier-1985)
+- [Arrêté du 23 mai 1985](arrete-du-23-mai-1985)
 - [Arrêté du 24 décembre 1984](arrete-du-24-decembre-1984)
 - [Arrêté du 24 janvier 1985](arrete-du-24-janvier-1985)
 - [Arrêté du 24 mai 1985](arrete-du-24-mai-1985)
