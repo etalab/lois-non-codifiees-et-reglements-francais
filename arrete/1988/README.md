@@ -129,7 +129,6 @@
 - [Arrêté du 6 mai 1988 (ASES8800537A)](arrete-du-6-mai-1988-ases8800537a)
 - [Arrêté du 6 mai 1988 (ASES8800644A)](arrete-du-6-mai-1988-ases8800644a)
 - [Arrêté du 6 mai 1988 (BUDB8860006A)](arrete-du-6-mai-1988-budb8860006a)
-- [Arrêté du 6 mai 1988 (ENVP8800108A)](arrete-du-6-mai-1988-envp8800108a)
 - [Arrêté du 6 mai 1988 (ENVP8800109A)](arrete-du-6-mai-1988-envp8800109a)
 - [Arrêté du 6 mai 1988 (ENVP8800111A)](arrete-du-6-mai-1988-envp8800111a)
 - [Arrêté du 6 mai 1988 (INDA8800326A)](arrete-du-6-mai-1988-inda8800326a)

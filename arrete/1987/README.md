@@ -46,7 +46,6 @@
 - [Arrêté du 3 avril 1987 (EQUS8700437A)](arrete-du-3-avril-1987-equs8700437a)
 - [Arrêté du 3 décembre 1987 (ECOC8700137A)](arrete-du-3-decembre-1987-ecoc8700137a)
 - [Arrêté du 3 février 1987](arrete-du-3-fevrier-1987)
-- [Arrêté du 3 février 1987 (ENVN8700019A)](arrete-du-3-fevrier-1987-envn8700019a)
 - [Arrêté du 3 février 1987 (EQUS8700153A)](arrete-du-3-fevrier-1987-equs8700153a)
 - [Arrêté du 3 juillet 1987 (MENL8700408A)](arrete-du-3-juillet-1987-menl8700408a)
 - [Arrêté du 3 juillet 1987 (PTTM8700464A)](arrete-du-3-juillet-1987-pttm8700464a)
