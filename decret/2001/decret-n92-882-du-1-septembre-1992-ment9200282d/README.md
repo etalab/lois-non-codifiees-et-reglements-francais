@@ -2,3 +2,4 @@
 
 - [Titre II : Dispositions applicables aux éditeurs de services établis en France](titre-ii)
 - [Titre III : Dispositions applicables aux éditeurs de services relevant de la compétence d'un autre Etat membre de la Communauté européenne ou signataire de l'accord sur l'Espace économique européen](titre-iii)
+- [Titre IV : Dispositions applicables aux éditeurs de services relevant de la compétence d'un Etat partie à la convention européenne sur la télévision transfrontière, non membre de la Communauté européenne et non signataire de l'accord sur l'Espace économique européen](titre-iv)
