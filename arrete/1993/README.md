@@ -261,7 +261,6 @@
 - [Arrêté du 8 mars 1993 (INTE9300195A)](arrete-du-8-mars-1993-inte9300195a)
 - [Arrêté du 8 mars 1993 (MJSK9370056A)](arrete-du-8-mars-1993-mjsk9370056a)
 - [Arrêté du 8 mars 1993 (SANH9301106A)](arrete-du-8-mars-1993-sanh9301106a)
-- [Arrêté du 8 mars 1993 (SANP9300791A)](arrete-du-8-mars-1993-sanp9300791a)
 - [Arrêté du 8 mars 1993 (SPSS9300748A)](arrete-du-8-mars-1993-spss9300748a)
 - [Arrêté du 8 mars 1993 (TEFT9300292A)](arrete-du-8-mars-1993-teft9300292a)
 - [Arrêté du 8 novembre 1993 (BUDB9310044A)](arrete-du-8-novembre-1993-budb9310044a)
