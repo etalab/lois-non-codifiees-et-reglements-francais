@@ -3,7 +3,6 @@
 - [Titre Ier : Critères de délimitation des zones agricoles défavorisées.](titre-ier)
 - [Titre II : Régime des aides dans les différentes zones agricoles défavorisées.](titre-ii)
 - [Titre III : Indemnité compensatoire des handicaps naturels permanents.](titre-iii)
-- [Titre IV : Mesures spéciales en faveur des exploitations agricoles susceptibles de se développer.](titre-iv)
 - [Titre V : Autres mesures en faveur des investissements.](titre-v)
 - [Titre VI : Dispositions diverses.](titre-vi)
 - [Article 25](article-25.md)
