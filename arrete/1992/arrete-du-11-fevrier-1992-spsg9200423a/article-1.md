@@ -4,8 +4,6 @@ Chacun des deux concours institués à l'article 4 du décret n° 91-1025 du 7 o
 
 Ces épreuves sont différentes pour le premier concours et pour le second concours, tant en ce qui concerne l'admissibilité que l'admission.
 
-(1) Le programme annexé au présent arrêté sera publié intégralement au Bulletin officiel du ministère des affaires sociales et de l'intégration à une date ultérieure. Il sera alors disponible à la Direction des journaux officiels, 26, rue Desaix, 75727 PARIS CEDEX 15, au prix de 27 F.
-
 I. - Epreuves d'admissibilité
 
 A. - Premier concours
@@ -28,9 +26,7 @@ A. - Premier concours
 
 2° Interrogation sur une ou plusieurs questions de santé publique tirées au sort par le candidat (préparation : quinze minutes ; durée : quinze minutes ; coefficient 4).
 
-3° Une épreuve d'exercices physiques dont les modalités d'organisation figurent en annexe au présent arrêté (coefficient 1) (1).
-
-4° Une épreuve orale à caractère technique de langue vivante comportant la lecture et la traduction d'un texte ainsi qu'une conversation dans l'une des quatre langues étrangères suivantes :
+3° Une épreuve orale à caractère technique de langue vivante comportant la lecture et la traduction d'un texte ainsi qu'une conversation dans l'une des quatre langues étrangères suivantes :
 
 allemand, anglais, espagnol, italien (préparation : vingt minutes ; durée : vingt minutes ; coefficient 1).
 
@@ -40,9 +36,7 @@ B. - Second concours
 
 2° Interrogation sur une ou plusieurs questions de santé publique tirées au sort par le candidat (préparation : quinze minutes ; durée : quinze minutes ; coefficient 4).
 
-3° Une épreuve d'exercices physiques dont les modalités d'organisation figurent en annexe au présent arrêté (coefficient 1) (1).
-
-4° Une épreuve orale à caractère technique de langue vivante comportant la lecture et la traduction d'un texte ainsi qu'une conversation dans l'une des quatre langues étrangères suivantes :
+3° Une épreuve orale à caractère technique de langue vivante comportant la lecture et la traduction d'un texte ainsi qu'une conversation dans l'une des quatre langues étrangères suivantes :
 
 allemand, anglais, espagnol, italien (préparation : vingt minutes ; durée : vingt minutes ; coefficient 1).
 
@@ -56,6 +50,10 @@ vingt minutes ; coefficient 1) ;
 
 Une épreuve écrite portant sur le traitement automatisé de l'information (durée : une heure ; coefficient 1).
 
+Une épreuve d'exercices physiques dont les modalités d'organisation figurent en annexe du présent arrêté (coefficient 1) (1).
+
 Les notes obtenues aux épreuves facultatives ne sont prises en compte, en vue de l'admission, que pour la partie excédant la note 10 sur 20.
 
 En même temps qu'ils déposent leur demande d'inscription, les candidats font connaître, dans les conditions prévues par le présent arrêté, la langue étrangère qu'ils ont choisie pour l'épreuve orale d'admission ainsi que la ou les épreuves facultatives qu'ils désirent subir. Ce choix ne peut être modifié.
+
+(1) L'arrêté accompagné de son annexe et des barèmes seront publiés au Bulletin officiel du ministère n° 93-44, disponible à la Direction des Journaux officiels, 26, rue Desaix, 75727 PARIS CEDEX 15, vendu au prix de 29 F.
