@@ -174,7 +174,6 @@
 - [Arrêté du 5 novembre 1991 (PTTR9100384A)](arrete-du-5-novembre-1991-pttr9100384a)
 - [Arrêté du 5 septembre 1991 (BUDR9105038A)](arrete-du-5-septembre-1991-budr9105038a)
 - [Arrêté du 6 août 1990 (DEFD9001816A)](arrete-du-6-aout-1990-defd9001816a)
-- [Arrêté du 6 août 1991 (ECOC9100098A)](arrete-du-6-aout-1991-ecoc9100098a)
 - [Arrêté du 6 août 1991 (MENZ9101050A)](arrete-du-6-aout-1991-menz9101050a)
 - [Arrêté du 6 août 1991 (SANP9101855A)](arrete-du-6-aout-1991-sanp9101855a)
 - [Arrêté du 6 août 1991 (TEFE9103871A)](arrete-du-6-aout-1991-tefe9103871a)
