@@ -58,6 +58,4 @@ B) Les emprunts contractés auprès de particuliers ou d'organismes de crédit a
 
 29. Les garanties d'emprunts ;
 
-30. Sous réserve des dispositions de l'article L. 812 (deuxième alinéa) du code de la santé publique, la composition, les effectifs et la rémunération du personnel départemental ;
-
-31. Exercice des droits de préemption et de rétention prévus par la législation sur les archives ;
+30. abrogé    31. Exercice des droits de préemption et de rétention prévus par la législation sur les archives ;
