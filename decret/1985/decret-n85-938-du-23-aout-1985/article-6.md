@@ -1,6 +1,6 @@
 # Article 6
 
-L'agrément est donné par le responsable du service de l'aide sociale à l'enfance [*autorité compétente*] après consultation de :
+L'agrément est donné par le responsable de l'aide sociale à l'enfance [*autorité compétente*] après qu'aient été consultés de manière concomitante :
 
 1° L'agent responsable du service de l'aide sociale à l'enfance ou son représentant ;
 
