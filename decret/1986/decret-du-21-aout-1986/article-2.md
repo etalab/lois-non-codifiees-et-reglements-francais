@@ -1,0 +1,5 @@
+# Article 2
+
+La superficie minimale à laquelle le droit de préemption de la Société d'aménagement foncier et d'établissement rural de la Guadeloupe est susceptible de s'appliquer dans le département de la Guadeloupe est fixée à dix ares dans le cas général.
+
+Ce seuil est ramené à zéro dans les zones de richesses naturelles des plans d'occupation des sols à protéger en raison notamment de la valeur agricole des terres ou de la richesse du sol ou du sous-sol (zones dénommées N.C.), dans les zones des plans d'occupation des sols à protéger en raison, d'une part, de l'existence de risques ou de nuisances et, d'autre part, de la qualité des sites, des milieux naturels, des paysages et de leur intérêt, notamment du point de vue esthétique, historique ou écologique (zones dénommées N.D.), dans les périmètres en cours de remembrement entre les dates fixées par les arrêtés préfectoraux ordonnant l'ouverture et la clôture des opérations ainsi que dans le cas de parcelles enclavées au sens de l'article 682 du code civil.
