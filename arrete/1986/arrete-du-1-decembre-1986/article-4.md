@@ -1,3 +1,3 @@
 # Article 4
 
-Le directeur des lycées et collèges est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Sont déclarés admis à cet examen les candidats qui, pour l'ensemble des épreuves, ont obtenu une moyenne générale égale ou supérieure à 10/20.

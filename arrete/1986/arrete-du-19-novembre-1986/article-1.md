@@ -1,3 +1,3 @@
 # Article 1
 
-Sont autorisées, dans les conditions définies ci-après, la détention en vue de la vente, la mise en vente et la vente de sang animal, de plasma et de cruor déshydratés dont la décontamination bactérienne a été obtenue par exposition aux rayonnements gamma du Cobalt 60 ou du Cesium 137 ou aux faisceaux d'électrons d'une énergie inférieure ou égale à 10 millions d'électrons-volts (10 Mev).
+Pour déterminer si un département peut augmenter, en application de l'article 3 du décret du 23 décembre 1983 susvisé, d'un point au plus le coefficient de variation applicable au calcul de la contribution globale des communes aux dépenses légales d'aide sociale et de santé du département, la moyenne nationale à prendre en compte au titre de l'exercice 1987 est égale à 15,3 %. Cette moyenne sert pour l'évaluation provisoire et le calcul définitif de la contribution globale des communes.

@@ -1,0 +1,3 @@
+# Article 5
+
+Pour pouvoir faire de la publicité en application de l'article 3 de la loi du 12 juillet 1985 précitée, les moyens de communication audiovisuelle qui mettent à la disposition du public par voie hertzienne ou tout autre moyen, qu'il s'agisse de sons, d'images, de documents, de données ou de messages de toute nature, doivent sans préjudice d'autres règles relatives à la publicité dans le domaine de la communication audiovisuelle, consacrer plus d'un tiers de la partie de leurs programmes laissée libre par la publicité à des émissions relatives à la chasse, à la pêche ou au tir sportif.

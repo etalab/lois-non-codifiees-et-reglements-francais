@@ -80,6 +80,7 @@
 - [Décret n°86-805 du 5 juillet 1986](decret-n86-805-du-5-juillet-1986)
 - [Décret n°86-1095 du 6 octobre 1986](decret-n86-1095-du-6-octobre-1986)
 - [Décret n°86-1184 du 6 novembre 1986](decret-n86-1184-du-6-novembre-1986)
+- [Décret n°86-1264 du 6 décembre 1986](decret-n86-1264-du-6-decembre-1986)
 - [Décret n°86-15 du 6 janvier 1986](decret-n86-15-du-6-janvier-1986)
 - [Décret n°86-175 du 6 février 1986](decret-n86-175-du-6-fevrier-1986)
 - [Décret n°86-183 du 6 février 1986](decret-n86-183-du-6-fevrier-1986)
