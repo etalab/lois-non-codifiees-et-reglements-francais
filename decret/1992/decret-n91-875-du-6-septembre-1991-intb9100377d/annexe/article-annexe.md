@@ -148,20 +148,16 @@ B. - Fonctions techniques
 <p>Assistant technique.</p>
 </td>
 <td valign="top" width="227">
-<p>Prime de rendement et, pour les techniciens jusqu'au 7e échelon, indemnités horaires pour travaux supplémentaires (I.H.T.S.) (décret<br/>n° 50-1248 du 6 octobre 1950 modifié).</p>
+<p>Prime de rendement et, pour les techniciens jusqu'au 7e échelon, indemnités horaires pour travaux supplémentaires (I.H.T.S.) (décret n° 50-1248 du 6 octobre 1950 modifié).</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Contrôleur territorial de travaux :</p>
-<p>- contrôleur principal ;</p>
-<p>- contrôleur.</p>
-</td>
+<p align="left">Contrôleur territorial de travaux :</p>
+<p>- contrôleur principal ;</p>- contrôleur.</td>
 <td align="left" valign="top">
-<p>Contrôleur de travaux publics de l'Etat :</p>
-<p>- contrôleur principal ;</p>
-<p>- contrôleur.</p>
-</td>
+<p align="left">Contrôleur de travaux publics de l'Etat :</p>
+<p>- contrôleur principal ;</p>- contrôleur.</td>
 <td align="left" valign="top">
 <p align="left">Prime de rendement et, pour les<br/>contrôleur jusqu'au 7e échelon,<br/>indemnités horaires pour travaux<br/>supplémentaires (I.H.T.S.) (décret<br/>n° 50-1248 du 6 octobre 1950 modifié).</p>
 </td>
@@ -807,6 +803,48 @@ E. - Fonctions sportives
 </td>
 <td valign="top" width="227">
 <p>I.H.T.S.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+F. - Animation
+
+<table>
+<tbody>
+<tr>
+<td width="227">
+<p align="center">FONCTION PUBLIQUE TERRITORIALE<br/>Cadres d'emplois concernée</p>
+</td>
+<td width="227">
+<p align="center">FONCTION PUBLIQUE DE L'ÉTAT<br/>Corps équivalents</p>
+</td>
+<td width="227">
+<p align="center">RÉGIME INDEMNITAIRE DE RÉFÉRENCE</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Animateur.</p>
+</td>
+<td valign="top" width="227">
+<p align="left">Secrétaire administratif.</p>
+</td>
+<td valign="top" width="227">
+<p>IFTS pour les animateurs chefs, les animateurs principaux et les animateurs à partir du 8e échelon.</p>
+<p>IHTS pour les animateurs du 1er au 7e échelon.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Adjoint d'animation.</p>
+<p>Agent d'animaton.</p>
+</td>
+<td>
+<p align="left">Adjoint administratif des services<br/>extérieurs.</p>
+<p>Agent administratif.</p>
+</td>
+<td>IHTS. <p>IHTS.</p>
 </td>
 </tr>
 </tbody>
