@@ -1,4 +1,4 @@
-# Arrêté du 18 mai 1984 relatif à l'octroi de la garantie de l'Etat à un emprunt de la Caisse centrale des banques populaires
+# Arrêté du 18 mai 1984 portant fixation des contingents de production et du prix d'achat des alcools d'origine cidricole pour la campagne 1983-1984
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

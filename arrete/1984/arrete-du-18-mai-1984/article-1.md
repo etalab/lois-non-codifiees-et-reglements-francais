@@ -1,3 +1,7 @@
 # Article 1
 
-La garantie de l'Etat est accordée au service en intérêts, amortissement, frais et accessoires de l'emprunt de 500 millions de francs émis par la Caisse centrale des banques populaires.
+Pour la campagne 1983-1984, les contingents de production des alcools d'origine cidricole sont fixés respectivement à :
+
+30.000 hectolitres pour l'alcool de résorption ;
+
+30.000 hectolitres pour l'alcool de sélection.
