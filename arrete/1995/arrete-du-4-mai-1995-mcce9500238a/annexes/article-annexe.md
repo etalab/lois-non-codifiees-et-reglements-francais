@@ -22,6 +22,8 @@ Château de Châteauneuf-en-Auxois (Bourgogne).
 
 Site archéologique des Fontaines Salées (Bourgogne).
 
+Abbaye de Cluny (Bourgogne).
+
 Tumulus de Barnenez (Bretagne).
 
 Alignements de Carnac (Bretagne).
@@ -91,8 +93,6 @@ Remparts d'Aigues-Mortes, Tour de Constance et Logis du Gouverneur (Languedoc-Ro
 Chartreuse de Villeneuve-lès-Avignon (Languedoc-Roussillon).
 
 Remparts et Lices de Carcassonne (Languedoc-Roussillon).
-
-Ruines d'Oradour-sur-Glane (Limousin).
 
 Château d'Assier (Midi-Pyrénées).
 

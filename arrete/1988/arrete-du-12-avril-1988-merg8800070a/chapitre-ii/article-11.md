@@ -81,3 +81,21 @@ Président un officier du corps technique et administratif des affaires maritime
 Membre : un technicien expert des services de sécurité de la navigation  maritime ou un officier breveté de la marine marchande.
 
 Le président et le membre sont désignés par le chef du quartier des affaires maritimes concerné.
+
+f) Commission pour l'obtention du certificat restreint de radiotéléphoniste :
+
+Une personne qualifiée désignée par le ministre chargé des transports ou son délégataire.
+
+g) Commission pour l'obtention du certificat restreint d'opérateur :
+
+Un professeur de l'enseignement maritime ou un professeur technique de l'enseignement maritime ou, à défaut, devant un agent de l'Etat qualifié désigné par le chef du service des affaires maritimes.
+
+h) Commission pour l'obtention du certificat spécial d'opérateur et du certificat général d'opérateur :
+
+Président
+
+Un professeur de l'enseignement maritime ou un professeur technique de l'enseignement maritime.
+
+Membre
+
+Un professeur de l'enseignement maritime, ou un professeur technique de l'enseignement maritime, ou un administrateur des affaires maritimes, ou un inspecteur des affaires maritimes, ou un officier du corps technique et administratif des affaires maritimes, ou une personnalité qualifiée.
