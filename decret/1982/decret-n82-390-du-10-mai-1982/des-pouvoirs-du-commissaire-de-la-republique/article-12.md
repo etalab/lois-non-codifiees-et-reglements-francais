@@ -5,3 +5,5 @@ Le commissaire de la République de région est assisté dans l'exercice de ses 
 1° D'un secrétaire général pour les affaires régionales et de chargés de mission placés auprès de lui, choisis parmi les fonctionnaires administratifs ou techniques de catégorie A ;
 
 2° Des chefs ou responsables des services de l'Etat dans la région.
+
+En outre, dans la région Lorraine, le commissaire de la République de région est assisté d'un commissaire de la République chargé du redéploiement industriel.
