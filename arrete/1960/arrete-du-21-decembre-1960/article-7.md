@@ -1,5 +1,5 @@
 # Article 7
 
-Les autorisations d'absence, en dehors des congés réguliers, notamment pour participer à des congrès ou colloques scientifiques, sont accordées conjointement par le doyen de la faculté ou le directeur de l'école de médecine et le directeur général du centre hospitalier régional quand l'absence est d'une durée égale ou inférieure à quinze jours et par les deux ministres pour une durée supérieure [*autorités compétentes*].
+Les autorisations d'absence, en dehors des congés réguliers, notamment pour participer à des congrès ou colloques scientifiques organisés en France ou à l'étranger sont accordées par les présidents d'université et les directeurs généraux des centres hospitaliers régionaux aux praticiens assurant des fonctions d'enseignement .
 
-Les autorisations d'absence motivées par un déplacement à l'étranger sont accordées quelle que soit la durée de l'absence par les deux ministres.
+Ces autorisations peuvent être accordées dans la limite de six semaines par an, dont trente et un jours pour les déplacements à l'étranger, sans possibilité de dérogation [*durée*].
