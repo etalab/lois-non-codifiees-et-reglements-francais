@@ -22,6 +22,8 @@
 - [Décret n°71-183 du 9 mars 1971](decret-n71-183-du-9-mars-1971)
 - [Décret n°71-188 du 9 mars 1971](decret-n71-188-du-9-mars-1971)
 - [Décret n°71-289 du 9 avril 1971](decret-n71-289-du-9-avril-1971)
+- [Décret n°71-688 du 11 août 1971](decret-n71-688-du-11-aout-1971)
+- [Décret n°71-689 du 11 août 1971](decret-n71-689-du-11-aout-1971)
 - [Décret n°71-570 du 13 juillet 1971](decret-n71-570-du-13-juillet-1971)
 - [Décret n°71-638 du 13 juillet 1971](decret-n71-638-du-13-juillet-1971)
 - [Décret n°71-847 du 13 octobre 1971](decret-n71-847-du-13-octobre-1971)
