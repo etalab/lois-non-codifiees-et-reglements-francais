@@ -1,5 +1,5 @@
 # Article 2
 
-Les infractions à la présente loi seront punies des peines prévues par les articles L. 213-1 et L. 214-2 du code de la consommation, sans préjudice des peines plus graves prévues en cas de tromperie ou de tentative de tromperie par l'article L. 214-2 du code de la consommation.
+Le ministre chargé des travaux publics, des transports et du tourisme et le ministre de l'intérieur arrêtent, suivant les règles posées par les actes internationaux relatifs à la signalisation routière auxquels la France est partie, les types (formes, dimensions, couleur) des signaux réglementaires.
 
-Les infractions à la présente loi sont constatées et poursuivies dans les conditions prévues par le livre II du code de la consommation.
+Il sera procédé à la mise en service de ces signaux, ainsi qu'à la suppression de tous panneaux, indications, signaux non conformes aux dispositions de la présente loi et des actes susvisés dans les délais prévus par ceux-ci.
