@@ -14,6 +14,7 @@
 - [Arrêté du 3 juillet 1986](arrete-du-3-juillet-1986)
 - [Arrêté du 3 juin 1986](arrete-du-3-juin-1986)
 - [Arrêté du 3 mars 1986](arrete-du-3-mars-1986)
+- [Arrêté du 3 octobre 1986](arrete-du-3-octobre-1986)
 - [Arrêté du 4 août 1986](arrete-du-4-aout-1986)
 - [Arrêté du 4 février 1986](arrete-du-4-fevrier-1986)
 - [Arrêté du 4 juillet 1986](arrete-du-4-juillet-1986)
