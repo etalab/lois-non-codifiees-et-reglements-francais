@@ -2,7 +2,7 @@
 
 L'indemnité de résidence est allouée aux agents mentionnés à l'article 1er du présent décret titulaires d'un grade ou occupant un emploi auquel est directement attaché un indice de la fonction publique appartenant à l'une des catégorie mentionnées à l'article 4 du présent décret. Cette indemnité est calculée sur la base de leur traitement soumis aux retenues pour pension, en fonction de l'un des taux fixés ci-après.
 
-Les agents dont le traitement est inférieur ou égal à celui correspondant à l'indice majoré 292 (indice brut 308) perçoivent l'indemnité de résidence afférente à cet indice.
+Les agents dont le traitement est inférieur ou égal à celui correspondant à l'indice majoré 294 (indice brut 308) perçoivent l'indemnité de résidence afférente à cet indice.
 
 L'indemnité de résidence évolue dans les mêmes proportions que le traitement soumis aux retenues pour pension.
 
@@ -10,58 +10,58 @@ Les taux de l'indemnité de résidence sont fixés suivant les zones territorial
 
 <table>
 <tr>
-<td> :---------------------------------:</td>
+<td> :---------------------------:</td>
 </tr>
 <tr>
-<td> : ZONES DE SALAIRES :             :</td>
+<td> : ZONES DE SALAIRES :       :</td>
 </tr>
 <tr>
-<td> :                   :  ( en %)    :</td>
+<td> :                   :( en %):</td>
 </tr>
 <tr>
-<td> :------------------ :-------------:</td>
+<td> :------------------ :-------:</td>
 </tr>
 <tr>
-<td> : Sans abattement   :     3       :</td>
+<td> : Sans abattement   :   3   :</td>
 </tr>
 <tr>
-<td> :                   :             :</td>
+<td> :                   :       :</td>
 </tr>
 <tr>
-<td> : Comportant un     :             :</td>
+<td> : Comportant un     :       :</td>
 </tr>
 <tr>
-<td> :  abattement de    :             :</td>
+<td> :  abattement de    :       :</td>
 </tr>
 <tr>
-<td> :  2,22 p. 100      :     1       :</td>
+<td> :  2,22 p. 100      :   1   :</td>
 </tr>
 <tr>
-<td> :                   :             :</td>
+<td> :                   :       :</td>
 </tr>
 <tr>
-<td> : Comportant un     :             :</td>
+<td> : Comportant un     :       :</td>
 </tr>
 <tr>
-<td> :  abattement de    :             :</td>
+<td> :  abattement de    :       :</td>
 </tr>
 <tr>
-<td> :  3,11 p. 100,     :             :</td>
+<td> :  3,11 p. 100,     :       :</td>
 </tr>
 <tr>
-<td> :  3,56 p. 100,     :             :</td>
+<td> :  3,56 p. 100,     :       :</td>
 </tr>
 <tr>
-<td> :  4 p. 100,        :             :</td>
+<td> :  4 p. 100,        :       :</td>
 </tr>
 <tr>
-<td> :  5 p. 100 ou      :             :</td>
+<td> :  5 p. 100 ou      :       :</td>
 </tr>
 <tr>
-<td> :  6 p. 100         :     0       :</td>
+<td> :  6 p. 100         :   0   :</td>
 </tr>
 <tr>
-<td> :---------------------------------:</td>
+<td> :---------------------------:</td>
 </tr>
 </table>
 
