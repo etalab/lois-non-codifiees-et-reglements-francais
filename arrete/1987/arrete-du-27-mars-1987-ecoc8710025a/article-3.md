@@ -1,3 +1,3 @@
 # Article 3
 
-Toute publicité faisant référence à la qualité des services offerts, quel que soit le support utilisé à l'exception des annuaires, doit comporter le détail des opérations justifiant la qualité annoncée [*mentions obligatoires*].
+L'information relative à la qualité des prestations prévue aux articles 1er et 2 ci-dessus doit comporter la description précise de la nature des opérations comprises dans la prestation annoncée.
