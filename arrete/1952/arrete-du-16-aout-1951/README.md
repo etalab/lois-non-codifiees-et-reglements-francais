@@ -4,4 +4,3 @@
 - [Section 2 : Dispositions relatives aux appareils de levage non mentionnés à l'article R. 233-83 du code du travail](section-2)
 - [Section 3 : Dispositions relatives aux appareils de levage mentionnés à l'article R. 233-83 du code du travail](section-3)
 - [Section 4 : Dispositions diverses](section-4)
-- [Article 8](article-8.md)

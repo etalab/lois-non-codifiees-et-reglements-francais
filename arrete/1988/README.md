@@ -172,7 +172,6 @@
 - [Arrêté du 7 mars 1988 (MDSC8800113A)](arrete-du-7-mars-1988-mdsc8800113a)
 - [Arrêté du 7 octobre 1988 (AGRS8801802A)](arrete-du-7-octobre-1988-agrs8801802a)
 - [Arrêté du 7 octobre 1988 (PTTT8800821A)](arrete-du-7-octobre-1988-pttt8800821a)
-- [Arrêté du 7 mai 1988 (RESP8800672A)](arrete-du-7-mai-1988-resp8800672a)
 - [Arrêté du 7 mai 1988 (RESP8800673A)](arrete-du-7-mai-1988-resp8800673a)
 - [Arrêté du 8 août 1988 (MENF8801414A)](arrete-du-8-aout-1988-menf8801414a)
 - [Arrêté du 8 août 1988 (MENP8801467A)](arrete-du-8-aout-1988-menp8801467a)
