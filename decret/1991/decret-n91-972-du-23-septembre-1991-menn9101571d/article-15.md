@@ -1,0 +1,5 @@
+# Article 15
+
+Les ingénieurs, techniciens et personnels administratifs des services ou établissements de l'administration de la jeunesse et des sports dont la carrière et la rémunération sont déterminées par référence aux statuts des personnels du Centre national de la recherche scientifique en vigueur lors de leur recrutement, dès lors qu'ils ont été recrutés, à titre permanent et à temps complet, avant le 31 juillet 1986, sur des emplois permanents des budgets de l'éducation nationale ou de la jeunesse et des sports, peuvent demander, dans un délai maximum de six mois après la parution du présent décret, leur intégration dans les corps régis par le décret du 31 décembre 1985 susvisé.
+
+Pour être intégrés, les intéressés doivent être en activité ou bénéficier de l'un des congés prévus par le décret n° 86-83 du 17 janvier 1986 modifié relatif aux dispositions générales applicables aux agents non titulaires de l'Etat, ou d'un congé pour service militaire ou service national ou pour l'exercice d'une fonction publique élective ; les dispositions du troisième alinéa de l'article 146 du décret du 31 décembre 1985 susvisé leur sont en outre applicables.
