@@ -1,0 +1,9 @@
+# Article 74
+
+Les actions de travail [*définition*] sont la propriété collective du personnel salarié (ouvriers et employés des deux sexes), constitué en société commerciale coopérative de main-d'oeuvre. Cette société de main-d'oeuvre comprend [*membres*] obligatoirement et exclusivement tous les salariés liés à l'entreprise depuis au moins un an [*conditions d'ancienneté*] et âgés de plus de dix-huit ans. La perte de l'emploi salarié prive le participant, sans indemnité, de tous ses droits dans la coopérative de main-d'oeuvre. La liquidation des droits qui ont été acquis dans l'entreprise par l'intéressé antérieurement à son départ, au cours du dernier exercice, est faite compte tenu du temps passé par lui au cours de cet exercice et des dispositions de l'article 79 de la présente loi.
+
+Lorsqu'une société se constituera dès son début sous le régime de la présente loi, c'est à dire sous la forme de société anonyme à participation ouvrière, les statuts de la société anonyme [*statuts - contenu*] devront prévoir la mise en réserve, jusqu'à l'expiration de l'année, des actions de travail attribuées à la collectivité des salariés. A l'expiration de ce délai, les actions seront remises à la coopérative de main-d'oeuvre légalement constituée [*jouissance des actions de travail*].
+
+Les dividendes attribués aux ouvriers et employés faisant partie de la coopérative ouvrière sont répartis entre eux conformément aux règles fixées par les statuts de la société ouvrière et aux décisions de ses assemblées générales. Toutefois, les statuts de la société anonyme devront disposer que, préalablement à toute distribution de dividende, il sera prélevé sur les bénéfices, au profit des porteurs d'actions de capital, une somme correspondant à celle que produirait, à l'intérêt qu'il fixeront, le capital versé.
+
+En aucun cas les actions de travail ne pourront être attribuées individuellement aux salariés de la société, membres de la coopérative de main-d'oeuvre.

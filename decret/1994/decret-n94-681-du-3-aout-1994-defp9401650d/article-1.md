@@ -1,0 +1,3 @@
+# Article 1
+
+Par dérogation aux dispositions des décrets du 28 mai 1990 et du 7 mai 1991 susvisés, les personnels civils de l'ordre technique du ministère de la défense visés à l'article 2 ci-après qui exercent des fonctions de surveillance ou de contrôle en usine hors de leur service d'attache peuvent prétendre, pour les déplacements effectués dans les limites fixées à l'article 5 ci-après et à l'exclusion de toute indemnité de mission, à une indemnité forfaitaire journalière spéciale de déplacement et au remboursement de leurs frais de transport dans les conditions définies aux articles suivants. Pour l'application du présent décret, est considéré comme service d'attache le lieu désigné par l'autorité hiérarchique où l'agent est établi à titre principal.

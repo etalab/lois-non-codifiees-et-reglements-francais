@@ -2,7 +2,7 @@
 
 I - Les employeurs passibles de la taxe d'apprentissage doivent acquitter, avant le 6 avril 1993, une cotisation égale à 0,1 p. 100 du montant des salaires retenus pour l'assiette de cette taxe. La cotisation est établie et recouvrée suivant les mêmes modalités et sous les mêmes garanties et sanctions que la taxe d'apprentissage. Les cotisations inférieures à 100 F ne sont pas exigibles.
 
-Toutefois, les employeurs sont exonérés totalement ou partiellement de cette obligation lorsqu'ils ont consenti des dépenses au titre des contrats d'insertion en alternance mentionnés aux articles L. 981-1, L. 981-6, L. 981-7 et L981-9-1 du code du travail et qu'ils sont dans l'une des deux situations suivantes :
+Toutefois, les employeurs sont exonérés totalement ou partiellement de cette obligation lorsqu'ils ont consenti des dépenses au titre des contrats d'insertion en alternance mentionnés aux articles L. 981-1, L. 981-6, L. 981-7 du code du travail et qu'ils sont dans l'une des deux situations suivantes :
 
 1° Lorsqu'ils entrent dans le champ d'application d'un accord collectif, au sens du livre 1er du code du travail, professionnel ou interprofessionnel, qui prévoit la réalisation de telles actions et le versement des fonds correspondants à des organismes de mutualisation.
 
@@ -12,7 +12,7 @@ Toutefois, les employeurs sont exonérés totalement ou partiellement de cette o
 
 - ou bien ils justifient avoir versé des fonds à cette fin à un organisme de mutualisation.
 
-I bis. - A compter du 1er janvier 1993, les employeurs visés à l'article L. 952-1 du code du travail et redevables de la taxe d'apprentissage, en application des dispositions de l'article 224 du code général des impôts, consacrent au financement des contrats d'insertion en alternance mentionnés aux articles L. 981-1, L. 981-6 L. 981-7 et L981-9-1 du même code, un pourcentage minimal de 0,10 p. 100 du montant, entendu au sens du 1 de l'article 231 du code général des impôts, des salaires payés pendant l'année en cours. Les sommes sur lesquelles portent les exonérations mentionnées aux articles 231 bis C à 231 bis N du code général des impôts ne sont pas prises en compte pour l'établissement du montant de la contribution définie ci-dessus. Les contributions inférieures à 100 F ne sont pas exigibles.
+I bis. - A compter du 1er janvier 1993, les employeurs visés à l'article L. 952-1 du code du travail et redevables de la taxe d'apprentissage, en application des dispositions de l'article 224 du code général des impôts, consacrent au financement des contrats d'insertion en alternance institués à l'article L. 981-1 du même code, un pourcentage minimal de 0,10 p. 100 du montant, entendu au sens du 1 de l'article 231 du code général des impôts, des salaires payés pendant l'année en cours. Les sommes sur lesquelles portent les exonérations mentionnées aux articles 231 bis C à 231 bis N du code général des impôts ne sont pas prises en compte pour l'établissement du montant de la contribution définie ci-dessus. Les contributions inférieures à 100 F ne sont pas exigibles.
 
 La contribution dont les modalités de calcul ont été fixées à l'alinéa précédent est versée par l'employeur, avant le 1er mars de l'année suivant celle au titre de laquelle elle est due, à un organisme de mutualisation.
 
@@ -24,7 +24,7 @@ Pour les employeurs qui ne sont pas redevables de la taxe d'apprentissage, en ap
 
 Cette cotisation est établie et recouvrée selon les mêmes modalités et sous les mêmes garanties et sanctions que la participation des employeurs au financement de la formation professionnelle continue.
 
-Toutefois, les employeurs sont exonérés totalement ou partiellement de cette obligation lorsqu'ils ont consenti des dépenses au titre des contrats d'insertion en alternance mentionnés aux articles L. 981-1, L. 981-6, L. 981-7 et L981-9-1 du code du travail et qu'ils sont dans l'une des deux situations suivantes :
+Toutefois, les employeurs sont exonérés totalement ou partiellement de cette obligation lorsqu'ils ont consenti des dépenses au titre des contrats d'insertion en alternance institué à l'article  L. 981-1 du code du travail et qu'ils sont dans l'une de deux situations suivantes :
 
 1° Lorsqu'ils entrent dans le champ d'application d'un accord collectif, au sens du livre 1er du code du travail, professionnel ou interprofessionnel, qui prévoit la réalisation de telles actions et le versement des fonds correspondants à des organismes de mutualisation.
 
@@ -36,7 +36,7 @@ Toutefois, les employeurs sont exonérés totalement ou partiellement de cette o
 
 Le versement des fonds à un organisme de mutualisation doit être effectué avant le 1er mars de l'année suivant celle au titre de laquelle est due la participation.
 
-III Pour l'application des paragraphes I et II ci-dessus, les employeurs qui ont effectué des versements à des organismes de mutualisation sont réputés s'être acquittés de leurs obligations à concurrence des versements effectués, sans préjudice des dépenses qu'ils auront éventuellement exposées pour l'organisation directe des actions de formation des jeunes mentionnées dans la présente loi. Les employeurs qui ont engagé des dépenses leur ayant permis de réaliser directement des actions de formation des jeunes sont réputés s'être acquittés de leurs obligations à raison de 50 F par heure de formation pour les contrats d'insertion professionnelle, de 60 F par heure de formation pour les contrats de qualification, et à titre transitoire jusqu'à leur terme, de 50 F par heure pour les contrats d'orientation et les contrats d'adaptation à l'emploi en cours au 1er juillet 1994.
+III Pour l'application des paragraphes I et II ci-dessus, les employeurs qui ont effectué des versements à des organismes de mutualisation sont réputés s'être acquittés de leurs obligations à concurrence des versements effectués, sans préjudice des dépenses qu'ils auront éventuellement exposées pour l'organisation directe des actions de formation des jeunes mentionnées dans la présente loi. Les employeurs qui ont engagé des dépenses leur ayant permis de réaliser directement des actions de formation pour les jeunes sont réputés s'être acquittés de leurs obligations à raison de 60 F par heure de formation pour les contrats de qualification, et à titre transitoire jusqu'au terme des contrats en cours au 1er juillet 1995, de 50 F par heure pour les contrats d'orientation et les contrats d'adaptation à l'emploi.
 
 Ces taux ne s'appliquent qu'aux contrats conclus à compter du 1er janvier 1992.
 

@@ -1,0 +1,5 @@
+# Article 63
+
+I. (paragraphe modificateur).
+
+II. Les dispositions du I. s'appliquent aux emprunts émis au cours des exercices ouverts à compter du 1er janvier 1994.
