@@ -128,7 +128,6 @@
 - [Décret n°2000-1077 du 7 novembre 2000 (ECOX0004459D)](decret-n2000-1077-du-7-novembre-2000-ecox0004459d)
 - [Décret n°2000-1079 du 7 novembre 2000 (EQUU0001672D)](decret-n2000-1079-du-7-novembre-2000-equu0001672d)
 - [Décret n°2000-1080 du 7 novembre 2000 (PRMX0004441D)](decret-n2000-1080-du-7-novembre-2000-prmx0004441d)
-- [Décret n°2000-1082 du 7 novembre 2000 (MESS0023026D)](decret-n2000-1082-du-7-novembre-2000-mess0023026d)
 - [Décret n°2000-1094 du 7 novembre 2000 (INTB0000293D)](decret-n2000-1094-du-7-novembre-2000-intb0000293d)
 - [Décret n°2000-502 du 7 juin 2000 (MESF0010020D)](decret-n2000-502-du-7-juin-2000-mesf0010020d)
 - [Décret n°2000-630 du 7 juillet 2000 (ECOT0051881D)](decret-n2000-630-du-7-juillet-2000-ecot0051881d)
