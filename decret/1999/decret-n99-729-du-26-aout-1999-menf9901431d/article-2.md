@@ -1,3 +1,5 @@
 # Article 2
 
-Les correspondants des médiateurs académiques nommés en application de l'article 3 du décret du 1er décembre 1998 susvisé sont rémunérés dans la limite des crédits inscrits à cet effet sous forme d'une indemnité forfaitaire mensuelle dont le taux moyen et les modalités d'attribution sont fixés par l'arrêté mentionné à l'article 1er ci-dessus.
+Le montant moyen annuel de l'indemnité est fixé par arrêté conjoint des ministres chargés de l'éducation, du budget et de la fonction publique.
+
+Le montant de l'indemnité allouée à chaque médiateur académique ou correspondant est fixé par le médiateur de l'éducation nationale en fonction de sa contribution aux travaux de médiation et de sa manière de servir dans la limite de 200 % du montant moyen annuel.

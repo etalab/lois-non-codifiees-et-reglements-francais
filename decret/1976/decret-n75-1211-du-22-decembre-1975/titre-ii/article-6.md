@@ -16,6 +16,10 @@ Après dix-sept ans de services ;
 
 Après vingt et un ans de services.
 
-Les adjudants-chefs classés à l'échelle n° 4 et les adjudants-chefs de la brigade des sapeurs-pompiers de Paris ont accès à l'échelon après vingt-cinq ans services. Ils peuvent en outre avoir accès à l'échelon exceptionnel.
+Les sergents-chefs classés à l'échelle de solde n° 4 ont accès à l'échelon après vingt-trois ans de services.
 
-Cet échelon exceptionnel est attribué après vingt-cinq ans de services dans la limite de 15 p. 100 de l'effectif budgétaire des adjudants-chefs.
+Les adjudants classés à l'échelle de solde n° 4 ont accès à l'échelon après vingt-cinq ans de services.
+
+Les adjudants-chefs classés à l'échelle de solde n° 4 ont accès à l'échelon après vingt-cinq ans de services et après vingt-neuf ans de services.
+
+Les sous-officiers de la brigade des sapeurs-pompiers de Paris bénéficient des dispositions ci-dessus au titre de leur échelle de solde particulière.

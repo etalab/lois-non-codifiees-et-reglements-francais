@@ -10,13 +10,13 @@ Le transporteur ferroviaire fait connaître dans le plus bref délai à l'expéd
 
 2. Manoeuvres.
 
-Outre les prescriptions du 7.5.3.1, les wagons contenant des matières ou objets explosibles et munis d'une plaque-étiquette n° 1 (comportant l'indication de la division 1.1) ou 1.5 ne doivent pas, au cours des manoeuvres, être attelés directement à un wagon muni d'une plaque-étiquette des n°s 3, 4.1, 4.2, 4.3, 5.1 ou 5.2.
+Outre les prescriptions du 7.5.3.1, les wagons contenant des matières ou objets explosibles et munis d'une plaque-étiquette n° 1 (comportant l'indication de la division 1.1) ou 1.5 ou 1.6 ne doivent pas, au cours des manoeuvres, être attelés directement à un wagon muni d'une plaque-étiquette des n° 2.1, 3, 4.1, 4.2, 4.3, 5.1 ou 5.2.
 
 3. Stationnement.
 
 Dans les gares de départ et d'arrivée, les wagons renfermant des matières ou objets explosibles et munis d'une plaque-étiquette n° 1 (comportant l'indication de la division 1.1) ou 1.5 doivent être isolés et placés sur des voies choisies parmi celles qui sont le plus éloignées des voies principales ou de stationnement des trains de voyageurs, des voies de circulation de machines de manoeuvres et du bâtiment à voyageurs. Durant leur stationnement, ces wagons doivent être immobilisés et protégés selon les prescriptions de sécurité du transporteur ferroviaire.
 
-On doit éviter de placer sur des voies contiguës, au voisinage immédiat les uns des autres, des wagons munis d'une plaque-étiquette n° 1, 1.5 ou 1.6 et des wagons munis d'une plaque-étiquette des numéros 3, 4.1, 4.2, 4.3, 5.1 ou 5.2.
+On doit éviter de placer sur des voies contiguës, au voisinage immédiat les uns des autres, des wagons munis d'une plaque-étiquette n° 1, 1.5 ou 1.6 et des wagons munis d'une plaque-étiquette des numéros 2.1, 3, 4.1, 4.2, 4.3, 5.1 ou 5.2.
 
 4. Consignes de gare.
 

@@ -18,6 +18,6 @@ Caisse mutuelle d'assurance vieillesse des cultes : 21 982 947 F
 
 Caisse de retraite de la Banque de France : 607 240 F
 
-Budget annexe des prestations sociales agricoles : 800 503 440 F
+Etablissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles : 800 503 440 F
 
 Régime d'assurance vieillesse du personnel des industries électriques et gazières : 21 089 335 F

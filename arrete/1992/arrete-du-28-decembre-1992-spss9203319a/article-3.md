@@ -20,4 +20,4 @@ Caisse de compensation de l'organisation autonome nationale de l'industrie et du
 
 Caisse mutuelle d'assurance vieillesse des cultes : 18 234 501 F
 
-Budget annexe des prestations sociales agricoles : 332 964 142 F
+Etablissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles : 332 964 142 F

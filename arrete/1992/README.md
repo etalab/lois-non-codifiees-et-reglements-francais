@@ -113,6 +113,7 @@
 - [Arrêté du 3 juin 1992 (PTTR9200265A)](arrete-du-3-juin-1992-pttr9200265a)
 - [Arrêté du 3 mars 1992 (INDA9200210A)](arrete-du-3-mars-1992-inda9200210a)
 - [Arrêté du 3 mars 1992 (INTD9200138A)](arrete-du-3-mars-1992-intd9200138a)
+- [Arrêté du 3 mars 1992 (SPSS9200631A)](arrete-du-3-mars-1992-spss9200631a)
 - [Arrêté du 3 mars 1992 (SPSS9200632A)](arrete-du-3-mars-1992-spss9200632a)
 - [Arrêté du 3 mars 1992 (SPSS9200633A)](arrete-du-3-mars-1992-spss9200633a)
 - [Arrêté du 3 novembre 1992 (INTE9200528A)](arrete-du-3-novembre-1992-inte9200528a)

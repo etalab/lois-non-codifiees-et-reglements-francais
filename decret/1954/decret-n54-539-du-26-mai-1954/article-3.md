@@ -1,3 +1,5 @@
 # Article 3
 
+Lorsqu'ils sont titulaires d'un diplôme technique essences, les ingénieurs militaires des essences et les officiers supérieurs du corps technique et administratif du service des essences des armées peuvent percevoir une prime de responsabilité et de technicité pétrolières. Toutefois, les ingénieurs militaires du premier grade et les commandants du corps technique et administratif ne pouvant justifier de deux ans d'ancienneté dans le grade ne sont pas éligibles à cette prime. Les montants mensuels, déterminés en fonction du corps et du grade, sont fixés par arrêté conjoint du ministre chargé de l'économie et des finances, du ministre de la défense et du ministre chargé de la fonction publique.
+
 Lorsqu'ils sont titulaires d'un brevet de technicien essences ou de logistique des essences, les majors, agents techniques en chef et adjudants chefs du service des essences des armées perçoivent une prime de technicité des agents militaires pétroliers dont le taux mensuel est fixé par arrêté conjoint du ministre chargé de l'économie et des finances, du ministre de la défense et du ministre chargé de la fonction publique.

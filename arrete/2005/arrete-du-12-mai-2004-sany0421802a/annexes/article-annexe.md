@@ -1,0 +1,19 @@
+# Article ANNEXE
+
+LISTE DES DESCENDANTS À VIE COURTE NON PRIS EN COMPTE
+
+DANS LE CALCUL DE LA DOSE TOTALE INDICATIVE
+
+Radon 222.
+
+Polonium 218.
+
+Plomb 214.
+
+Astate 218.
+
+Bismuth 214.
+
+Polonium 214.
+
+Thallium 210.

@@ -1,0 +1,3 @@
+# Article 24
+
+A l'exception des aménagements de sécurité dont les financements sont transférés aux départements dans les conditions prévues au III de l'article 121, l'Etat, les collectivités territoriales et leurs groupements continuent d'assurer le financement des opérations routières inscrites aux quatrièmes contrats de plan Etat-régions jusqu'au 31 décembre 2006. Toutefois, les travaux prévus dans ces contrats et non réalisés à cette date continuent d'être financés jusqu'à l'achèvement de ces opérations dans les mêmes conditions, dans la limite des enveloppes financières globales fixées pour les volets routiers des contrats.

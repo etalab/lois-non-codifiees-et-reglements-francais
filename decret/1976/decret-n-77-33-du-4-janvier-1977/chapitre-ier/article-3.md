@@ -8,7 +8,7 @@ Professeur principal : trois échelons ;
 
 Professeur en chef de 2e classe : quatre échelons ;
 
-Professeur en chef de 1re classe : deux échelons et un échelon exceptionnel ;
+Professeur en chef de 1re classe : deux échelons et deux échelons exceptionnels ;
 
 Professeur général de 2e classe : un échelon ;
 

@@ -24,8 +24,8 @@ B. - Fonctions pouvant donner lieu au versement d'une nouvelle bonification indi
 
 4° Inspecteur d'académie, directeur des services départementaux de l'éducation nationale ;
 
-5° Vice-recteur de Nouvelle-Calédonie, de Polynésie française et de Mayotte ;
+5° Vice-recteur de Nouvelle-Calédonie, de Polynésie française, de Mayotte et de Wallis-et-Futuna ;
 
-6° Inspecteur d'académie adjoint en fonctions dans les départements d'outre-mer.
+6° Inspecteur d'académie adjoint en fonctions dans les départements d'outre-mer ;
 
 7° Directeur du service interacadémique des examens et concours des académies de Créteil, Paris et Versailles.

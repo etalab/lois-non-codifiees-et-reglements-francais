@@ -18,6 +18,8 @@ Après dix-sept ans de service ;
 
 Après vingt et un ans de service.
 
-Les maîtres ouvriers principaux classés à l'échelle n° 4 ont accès à l'échelon après vingt-cinq ans de services. Ils peuvent en outre avoir accès à l'échelon exceptionnel.
+Les maîtres ouvriers de 2e classe classés à l'échelle de solde n° 4 ont accès à l'échelon après vingt-trois ans de services.
 
-Cet échelon exceptionnel est attribué après vingt-cinq ans de services dans la limite de 15 p. 100 de l'effectif budgétaire des maîtres ouvriers principaux.
+Les maîtres ouvriers de 1re classe classés à l'échelle de solde n° 4 ont accès à l'échelon après vingt-cinq ans de services.
+
+Les maîtres ouvriers principaux classés à l'échelle de solde n° 4 ont accès à l'échelon après vingt-cinq ans de services et après vingt-neuf ans de services.

@@ -4,9 +4,7 @@ Les sommes correspondant aux soldes négatifs de la compensation généralisée 
 
 En francs
 
--
-
-Budget annexe des prestations sociales agricoles : 17 978 984 475
+Etablissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles : 17 978 984 475
 
 Caisse de compensation de l'organisation autonome nationale de l'industrie et du commerce : 3 972 227 940
 

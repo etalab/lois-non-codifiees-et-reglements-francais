@@ -1,6 +1,6 @@
 # Article 1
 
-Une indemnité de charges administratives non soumise à retenue pour pensions civiles de retraite et sécurité sociale est allouée aux vice-recteurs et aux personnels d'inspection énumérés ci-après :
+Dans la limite des crédits ouverts à cet effet, une indemnité de charges administratives peut être attribuée aux vice-recteurs et aux personnels d'inspection énumérés ci-après :
 
 Inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale ;
 

@@ -1,0 +1,3 @@
+# TITRE II : DISPOSITIONS RELATIVES À L'AVANCEMENT DE GRADE.
+
+- [Article 7](article-7.md)

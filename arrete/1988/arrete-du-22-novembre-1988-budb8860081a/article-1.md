@@ -8,7 +8,7 @@ Agence centrale des organismes de sécurité sociale pour le régime des salari�
 
 - invalidité : 151 834 400 F
 
-Budget annexe des prestations sociales agricoles pour le régime des exploitants agricoles : 7 071 222 320 F
+Etablissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles pour le régime des exploitants agricoles : 7 071 222 320 F
 
 Caisse autonome nationale de compensation de l'assurance vieillesse artisanale : 603 914 300 f
 

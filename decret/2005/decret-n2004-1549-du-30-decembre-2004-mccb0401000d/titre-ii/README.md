@@ -1,0 +1,3 @@
+# TITRE II : APPROBATION DE LA CONVENTION CONSTITUTIVE.
+
+- [Article 4](article-4.md)

@@ -144,7 +144,7 @@ Sceau de la mairie.
 
 Mentions marginales (2) ....
 
-(1) Nom, prénoms tels qu'ils résultent de l'acte de naissance et des mentions inscrites en marge de cet acte antérieurement à l'établissement du présent extrait.
+(1) Nom de famille ; indiquer le cas échéant, suivant déclaration conjointe du... (date de la déclaration reçue pour le premier enfant commun), prénoms tels qu'ils résultent de l'acte de naissance et des mentions inscrites en marge de cet acte antérieurement à l'établissement du présent extrait.
 
 (2) Lieu de naissance.
 

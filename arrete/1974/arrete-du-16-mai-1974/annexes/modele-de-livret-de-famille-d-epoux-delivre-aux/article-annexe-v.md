@@ -56,7 +56,7 @@ Le livret de famille est ultérieurement complété par la mention des actes ou 
 
 Extrait du certificat d'état civil tenant lieu d'acte de mariage.
 
-Célébré à ... le ... mil neuf cent ....
+Célébré à ... le ... deux mille ....
 
 Epoux :
 
@@ -64,7 +64,7 @@ Epoux :
 
 - Prénom(s) ...,
 
-- Né à ... le ... mil ... cent ....
+- Né à ... le ... deux mille ....
 
 - Fils de ... (1) et de ... (1).
 
@@ -74,7 +74,7 @@ Epouse :
 
 - Prénom(s) ...,
 
-- Née à ... le ... mil ... cent ....
+- Née à ... le ... deux mille ....
 
 - Fille de ... (1) et de ... (1).
 
@@ -206,7 +206,7 @@ Mention(s) marginale(s) (5).
 
 (1) Mettre une croix dans la case utile.
 
-(2) Nom et prénom(s) tels qu'ils résultent de l'acte de naissance ou du certificat en tenant lieu et des mentions inscrites en marge de cet acte ou de ce certificat antérieurement à l'établissement du présent extrait.
+(2) Nom de famille ; indiquer le cas échéant, suivant déclaration conjointe du... (date de la déclaration reçue pour le premier enfant commun) et prénom(s) tels qu'ils résultent de l'acte de naissance ou du certificat en tenant lieu et des mentions inscrites en marge de cet acte ou de ce certificat antérieurement à l'établissement du présent extrait.
 
 (3) Lieu de naissance.
 

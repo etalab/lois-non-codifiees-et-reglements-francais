@@ -6,7 +6,7 @@ Ministère de l'agriculture - Direction des affaires professionnelles et sociale
 
 Ministère de l'agriculture - Service central de l'inspection des lois sociales en agriculture.
 
-Ministère de l'agriculture - Agent comptable du budget annexe des prestations sociales agricoles.
+Ministère de l'agriculture - Agent comptable du établissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles.
 
 Inspecteurs et contrôleurs des lois sociales en agriculture.
 
@@ -24,7 +24,7 @@ Commission consultative des assurances sociales agricoles (décret n° 50-1226 d
 
 Commission supérieure des prestations familiales agricoles (décret modifié du 18 août 1938).
 
-Comité de gestion du budget annexe des prestations sociales agricoles (loi n° 59-1454 du 26 décembre 1959).
+Comité de gestion du établissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles (loi n° 59-1454 du 26 décembre 1959).
 
 Comités départementaux et communaux des prestations familiales agricoles (décrets des 31 mai 1938 et 3 juin 1952).
 

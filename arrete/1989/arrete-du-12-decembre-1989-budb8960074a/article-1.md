@@ -8,7 +8,7 @@ Vieillesse : 865 680 800
 
 Invalidité : 148 338 810
 
-Budget annexe des prestations sociales agricoles pour le régime des exploitants agricoles : 6 839 388 310
+Etablissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles pour le régime des exploitants agricoles : 6 839 388 310
 
 Caisse autonome nationale de compensation de l'assurance vieillesse artisanale : 586 888 700
 

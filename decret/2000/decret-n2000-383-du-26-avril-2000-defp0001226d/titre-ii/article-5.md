@@ -16,6 +16,8 @@ Les sous-officiers de ce corps ont accès, pour chaque grade, aux échelons resp
 
 - après vingt et un ans de services.
 
-Les adjudants-chefs classés à l'échelle n° 4 ont accès à un échelon supplémentaire après vingt-cinq ans de services. Ils peuvent avoir accès en outre à l'échelon exceptionnel.
+Les maréchaux des logis-chefs classés à l'échelle de solde n° 4 ont accès à l'échelon après vingt-trois ans de services.
 
-Cet échelon exceptionnel est attribué après vingt-cinq ans de service dans la limite de 15 % de l'effectif budgétaire des adjudants-chefs.
+Les adjudants classés à l'échelle de solde n° 4 ont accès à l'échelon après vingt-cinq ans de services.
+
+Les adjudants-chefs classés à l'échelle de solde n° 4 ont accès à l'échelon après vingt-cinq ans de services et après vingt-neuf ans de services.

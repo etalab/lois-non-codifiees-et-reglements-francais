@@ -8,9 +8,9 @@ Le présent article a pour objet de compléter les dispositions du chapitre 1.8.
 
 Les entreprises exemptées de l'application du 1.8.3 dans le cadre du 1.8.3.2 sont celles dont les seules activités concernées figurent parmi les suivantes :
 
-- transports de marchandises dangereuses exclus des prescriptions de la réglementation du transport des marchandises dangereuses applicable au mode terrestre considéré, et opérations de chargement ou de déchargement liées à de tels transports ;
+- transports de marchandises dangereuses exclus des prescriptions de la réglementation du transport des marchandises dangereuses applicable au mode terrestre considéré, et opérations de chargement, de déchargement ou d'emballage liées à de tels transports ;
 
-- transports de marchandises dangereuses en colis, en quantités inférieures, par unité de transport wagon, aux seuils définis au 1.1.3.1 du RID, et opérations de chargement ou de déchargement de marchandises dangereuses en colis en quantités inférieures, par opération, à ces seuils ;
+- transports de marchandises dangereuses en colis, en quantités inférieures, par unité de transport wagon, aux seuils définis au 1.1.3.6 du RID, et opérations de chargement ou de déchargement de marchandises dangereuses en colis en quantités inférieures, par opération, à ces seuils ;
 
 - opérations de déchargement de marchandises dangereuses.
 

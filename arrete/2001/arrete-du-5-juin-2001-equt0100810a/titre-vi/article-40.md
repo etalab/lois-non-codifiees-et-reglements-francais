@@ -8,24 +8,20 @@ Sans préjudice des dispositions transitoires prévues dans l'annexe I, les disp
 
 Les récipients sous pression transportables, construits conformément aux dispositions du décret du 18 janvier 1943 modifié et des textes pris pour son application, qui n'ont pas fait l'objet de la réévaluation de la conformité mentionnée à l'article 6 du décret n° 2001-386 du 3 mai 2001 relatif aux équipements sous pression transportables peuvent continuer à être utilisés pour le transport après le 1er janvier 2003. Un arrêté du ministre chargé de l'industrie précise les règles applicables à l'exploitation de ces récipients.
 
-Pour les jales et conteneurs métalliques légers (JCML) non conformes aux prescriptions du 6.5, il y a lieu d'appliquer les dispositions de l'article 49, point 2, de l'arrêté ADR susvisé.
+Pour les jales et conteneurs métalliques légers (JCML) non conformes aux prescriptions du 6. 5, il y a lieu d'appliquer les dispositions de l'article 49, point 2, de l'arrêté ADR susvisé.
 
 Pour les récipients cryogéniques clos dont la conformité n'a pas été réévaluée selon les dispositions de l'article 6 du décret n° 2001-386 du 3 mai 2001 relatif aux équipements sous pression transportables, il y a lieu d'appliquer les dispositions de l'article 49, point 3, de l'arrêté ADR susvisé.
 
 2. Dispositions relatives aux conteneurs-citernes.
 
-Les conteneurs-citernes qui ne sont pas conformes aux dispositions du présent arrêté, et notamment au 1.6.3, mais qui étaient autorisés à la date du 31 décembre 1996 peuvent continuer à être utilisés selon les conditions définies à l'article 49.4 (a) de l'arrêté ADR susvisé.
+Les conteneurs-citernes qui ne sont pas conformes aux dispositions du présent arrêté, et notamment au 1. 6. 3, mais qui étaient autorisés à la date du 31 décembre 1996 peuvent continuer à être utilisés selon les conditions définies à l'article 49. 4 (a) de l'arrêté ADR susvisé.
 
 3. Dispositions relatives aux wagons-citernes.
 
-Les wagons-citernes construits selon les prescriptions du RTMD applicables à leur date de construction pourront encore être utilisés sous réserve :
+Les wagons-citernes construits selon les prescriptions du RTMD applicables à leur date de construction peuvent encore être utilisés sous réserve :
 
-- que les équipements satisfassent aux prescriptions du 6.8 ;
+-que les équipements satisfassent aux prescriptions du 6. 8 ;
 
-- que les épreuves périodiques soient exécutées selon le 6.8.2.4 ;
+-que les épreuves périodiques soient exécutées selon le 6. 8. 2. 4 ;
 
-- que l'épaisseur des parois soit au moins égale à celle définie au 6.8.2.1.18.
-
-4. Dispositions relatives aux flexibles.
-
-Les flexibles visés à l'article 7 construits avant le 1er juillet 1999 peuvent encore être utilisés jusqu'au 31 décembre 2004.
+-que l'épaisseur des parois soit au moins égale à celle définie au 6. 8. 2. 1. 18.

@@ -40,6 +40,8 @@ IV. - Il est effectué en 2003 un prélèvement au profit de l'Etat sur le produ
 
 A compter de 2004, le prélèvement mentionné à l'alinéa ci-dessus est égal à celui opéré en 2003, actualisé chaque année en fonction de l'évolution du produit arrêté par la chambre.
 
+A compter de 2005, le prélèvement mentionné au premier alinéa est égal à celui opéré en 2004 actualisé, chaque année, en fonction de l'indice de valeur du produit intérieur brut total tel qu'il est estimé dans la projection économique présentée en annexe au projet de loi de finances de l'année.
+
 V. Paragraphe modificateur
 
 VI. - 1. Alinéa modificateur

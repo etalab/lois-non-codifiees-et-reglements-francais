@@ -50,7 +50,7 @@ Le demandeur doit s'adresser à l'officier de l'état civil du lieu de sa résid
 
 4° Pages 3 et 4 : Extrait de l'acte de mariage n° ....
 
-Le ... mil neuf cent ... à ... heure devant nous ont comparu publiquement en la maison commune,
+Le ... deux mille ... à ... heure devant nous ont comparu publiquement en la maison commune,
 
 - Epoux :
 
@@ -152,7 +152,7 @@ L'officier de l'état civil.
 
 Sceau de la mairie.
 
-(1) Nom, prénoms tels qu'ils résultent de l'acte de naissance et des mentions inscrites en marge de cet acte antérieurement à l'établissement du présent extrait.
+(1) Nom, de famille ; indiquer le cas échéant, suivant déclaration conjointe du ... (date de la déclaration reçue pour le premier enfant commun), prénoms tels qu'ils résultent de l'acte de naissance et des mentions inscrites en marge de cet acte antérieurement à l'établissement du présent extrait.
 
 (2) Lieu de naissance.
 

@@ -18,7 +18,7 @@ Ingénieur : huit échelons ;
 
 Ingénieur principal : quatre échelons ;
 
-Ingénieur en chef : six échelons ;
+Ingénieur en chef : six échelons et un échelon exceptionnel ;
 
 Ingénieur général de 2e classe : un échelon ;
 

@@ -10,10 +10,14 @@ Régime d'assurance vieillesse du personnel des industries électriques et gazi�
 
 Caisse de retraite et de prévoyance des clercs et employés de notaires : 1 386 920 F ;
 
-Caisse nationale militaire de sécurité sociale : 342 238 494 F ;
+Caisse nationale militaire de sécurité sociale :
 
-Budget annexe des prestations sociales agricoles : 118 169 F ;
+342 238 494 F ;
 
-Etablissement national des invalides de la marine : 2 483 117 F ;
+Etablissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles : 118 169 F ;
+
+Etablissement national des invalides de la marine :
+
+2 483 117 F ;
 
 Société nationale des chemins de fer français : 167 328 F.

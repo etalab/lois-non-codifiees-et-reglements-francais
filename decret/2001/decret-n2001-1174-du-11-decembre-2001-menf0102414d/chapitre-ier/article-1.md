@@ -4,4 +4,4 @@ Le corps des personnels de direction d'établissement d'enseignement ou de forma
 
 Ce corps comprend trois grades : personnel de direction de 2e classe ; personnel de direction de 1re classe ; personnel de direction hors classe.
 
-L'effectif du grade de personnel de direction de 1re classe ne peut excéder 45 % de l'effectif du corps, et celui du grade de personnel de direction hors classe 8 % de l'effectif du corps.
+L'effectif du grade de personnel de direction de 1re classe ne peut excéder 45 % de l'effectif du corps, et celui du grade de personnel de direction hors classe 8,5 % de l'effectif du corps.

@@ -1,3 +1,5 @@
 # Article 6-2
 
-Dans le cas où le fonds de solidarité pour le logement n'est pas constitué sous la forme d'un groupement d'intérêt public, le plan départemental prévoit la composition de son instance de décision. Le plan départemental indique également la personne morale chargée d'assurer la gestion financière et comptable du fonds de solidarité pour le logement, laquelle est soit une caisse d'allocations familiales, soit une association agréée par le représentant de l'Etat dans le département. L'Etat et le département passent à cet effet une convention avec la personne morale désignée.
+Le fonds peut être saisi directement par toute personne ou famille en difficulté et, avec son accord, par toute personne ou organisme y ayant intérêt ou vocation. Il peut également être saisi par la commission mentionnée à l'article L. 351-14 du code de la construction et de l'habitation, par l'organisme payeur de l'aide au logement ou par le représentant de l'Etat dans le département.
+
+Toute décision de refus doit être motivée.

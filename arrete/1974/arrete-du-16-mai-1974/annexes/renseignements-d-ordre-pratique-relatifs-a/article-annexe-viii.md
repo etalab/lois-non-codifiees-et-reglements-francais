@@ -25,15 +25,3 @@ Les extraits d'acte de naissance ou du certificat en tenant lieu avec indication
 Ils comportent l'indication du nom du père et de la mère de l'intéressé. Ils ne précisent pas, même lorsque c'est le cas, si ceux-ci sont mariés.
 
 Les extraits délivrés aux réfugiés et apatrides ne comportent que l'année et le jour de la naissance, le sexe, les prénoms et le nom de l'intéressé ainsi que les mentions de mariage, divorce, séparation de corps ou décès.
-
-Fiches d'état civil.
-
-La fiche d'état civil remplace dans la plupart des cas les copies ou les extraits d'actes de l'état civil et des certificats en tenant lieu.
-
-Elle peut être établie sur la production d'un extrait d'acte de naissance, du certificat en tenant lieu ou du livret de famille.
-
-Si l'intéressé souhaite qu'elle mentionne sa filiation, il doit obligatoirement produire son livret de famille ou une copie d'acte de l'état civil ou du certificat en tenant lieu mentionnant cette filiation.
-
-La fiche d'état civil est établie gratuitement, dans n'importe quelle mairie ou chancellerie consulaire française à l'étranger. Il est donc inutile d'écrire à l'Office français de protection des réfugiés et apatrides.
-
-En outre, dans certains cas, la fiche peut être délivrée par les administrations publiques, services, établissements publics ou caisses contrôlées par l'Etat.

@@ -27,3 +27,5 @@ b) De véhicules acheminant, durant la période de la campagne betteravière, de
 Le retour à vide est autorisé dans la zone limitée à la région du premier point de livraison et ses départements limitrophes, ou à la région du premier point de livraison et ses régions limitrophes dans la limite de 150 kilomètres du premier point de livraison.
 
 La circulation à vide des véhicules assurant le transport d'aliments pour le bétail est autorisée sur l'ensemble du territoire jusqu'au 31 mars 2004.
+
+9° De véhicules transportant des matériaux destinés aux opérations funéraires et humanitaires à compter de la date du présent arrêté et jusqu'au 31 janvier 2005 inclus, période pendant laquelle ces véhicules seront en conséquence autorisés à circuler normalement.

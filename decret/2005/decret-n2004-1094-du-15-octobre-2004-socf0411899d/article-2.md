@@ -1,0 +1,5 @@
+# Article 2
+
+I. - Pour l'application des dispositions relatives à l'aide de l'Etat au remplacement des salariés en formation, ne sont pas pris en compte dans le calcul de l'effectif de l'entreprise les titulaires des contrats d'insertion en alternance définis au titre VIII du livre IX du code du travail et à l'article 25 de la loi n° 98-657 du 29 juillet 1998 relative à la lutte contre les exclusions, dans leur rédaction antérieure à la publication de la loi n° 2004-391 du 4 mai 2004 relative à la formation professionnelle tout au long de la vie et au dialogue social.
+
+II. - La formation des titulaires des contrats d'insertion en alternance définis au titre VIII du livre IX du code du travail et à l'article 25 de la loi n° 98-657 du 29 juillet 1998 relative à la lutte contre les exclusions, dans leur rédaction antérieure à la publication de la loi n° 2004-391 du 4 mai 2004 relative à la formation professionnelle tout au long de la vie et au dialogue social, n'ouvre pas droit au bénéfice de l'aide de l'Etat au remplacement des salarié en formation.

@@ -1,0 +1,3 @@
+# Article 8
+
+Un conseil scientifique veille à la qualité et à la cohérence des travaux de l'institut. Il donne son avis sur la qualité des méthodes mises en oeuvre dans les travaux d'observations, de surveillance et d'études entrepris par l'institut ou dans lesquels celui-ci intervient, dans le choix des indicateurs et sur le rapport sur l'état de l'environnement. Ses avis sont communiqués au directeur de l'institut et au comité d'orientation. Le conseil scientifique peut se réunir en formations spécialisées. Les règles de fonctionnement et de nomination de ses membres sont fixées par arrêté du ministre chargé de l'environnement.

@@ -1,0 +1,3 @@
+# Article 105
+
+Les fonctionnaires et les agents non titulaires de l'Etat et de ses établissements publics affectés à des services ou parties de services mis, en application des conventions ou des arrêtés mentionnés à l'article 104, à la disposition d'une collectivité ou d'un groupement de collectivités sont de plein droit mis à disposition, à titre individuel, selon le cas, du président du conseil régional ou du président du conseil exécutif de la collectivité territoriale de Corse, du président du conseil général, du président de l'organe délibérant du groupement de collectivités territoriales ou du maire. Ils sont placés, pour l'exercice de leurs fonctions, et sous réserve des dispositions de l'article L. 421-23 du code de l'éducation, sous son autorité.

@@ -1,0 +1,3 @@
+# Article 3
+
+Pour l'application du 4° de l'article 4 de la loi du 2 juillet 2004 susvisée, sont exonérées de l'octroi de mer les importations dans la région de Guyane de produits dont la livraison à l'issue du processus de production a été soumise à un taux d'octroi de mer y compris un taux zéro dans le marché unique antillais ainsi que les importations dans le marché unique antillais de produits dont la livraison à l'issue du processus de production a été soumise à un taux d'octroi de mer y compris un taux zéro en Guyane. Les livraisons exonérées à l'article 5 de la loi du 2 juillet 2004 susvisée sont considérées comme soumises à un taux zéro d'octroi de mer.

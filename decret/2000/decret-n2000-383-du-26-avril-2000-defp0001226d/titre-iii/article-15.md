@@ -16,6 +16,8 @@ Les majors ont accès aux échelons respectifs correspondant à la durée des se
 
 - après vingt-six ans de services ;
 
-- après vingt-neuf ans de services.
+- après vingt-neuf ans de services ;
 
-Ils ont, en outre, accès à l'échelon exceptionnel attribué, après vingt-neuf ans de services, dans la limite de 15 % de l'effectif du grade.
+Après trente et un ans de service.
+
+Ils ont en outre accès à un échelon exceptionnel attribué, après trente et un ans de service, dans la limite de 20 % de l'effectif du grade.

@@ -12,7 +12,7 @@ Officier principal : trois échelons ;
 
 Officier en chef de 2e classe : quatre échelons ;
 
-Officier en chef de 1ère classe : deux échelons et un échelon exceptionnel ;
+Officier en chef de 1re classe : deux échelons et deux échelons exceptionnels ;
 
 Officier général de 2e classe : un échelon ;
 

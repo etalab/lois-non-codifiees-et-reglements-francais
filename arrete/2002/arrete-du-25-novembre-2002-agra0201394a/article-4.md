@@ -4,9 +4,9 @@ Les caractéristiques des cycles de travail applicables dans les unités de trav
 
 1. La durée du cycle
 
-a) Cycle hebdomadaire : le temps de travail, sur la base d'une durée annuelle de travail effectif de 1 600 heures, est compris entre 36 heures et 38 h 30 par semaine, avec au maximum 20 jours d'aménagement et de réduction du temps de travail, ou
+a) Cycle hebdomadaire : le temps de travail, sur la base d'une durée annuelle de travail effectif de 1 607 heures, est compris entre 36 heures et 38 h 30 par semaine, avec au maximum 20 jours d'aménagement et de réduction du temps de travail, ou
 
-b) Cycle bihebdomadaire : la durée bihebdomadaire de travail est de 72 heures, les agents étant autorisés à travailler alternativement 40 heures sur 5 jours une semaine et 32 heures sur 4 jours l'autre semaine, sur la base d'une durée annuelle de travail effective de 1 600 heures et avec 6 jours d'aménagement et de réduction du temps de travail.
+b) Cycle bihebdomadaire : la durée bihebdomadaire de travail est de 72 heures, les agents étant autorisés à travailler alternativement 40 heures sur 5 jours une semaine et 32 heures sur 4 jours l'autre semaine, sur la base d'une durée annuelle de travail effective de 1 607 heures et avec 6 jours d'aménagement et de réduction du temps de travail.
 
 2. Le nombre minimum de jours travaillés dans la semaine
 

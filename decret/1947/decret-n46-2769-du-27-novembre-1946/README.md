@@ -2,6 +2,7 @@
 
 - [Titre 1er : Champ d'application](titre-1er)
 - [Article 1](article-1.md)
+- [Article 1 bis](article-1-bis.md)
 - [Titre 2 : Organisation administrative](titre-2)
 - [Titre 3 : Organisation financière](titre-3)
 - [Titre 4 : Assurance vieillesse, invalidité](titre-4)
@@ -11,3 +12,4 @@
 - [Titre 8 : Dispositions diverses relatives aux prestations](titre-8)
 - [Titre 9 : Contrôle médical](titre-9)
 - [Titre 10 : Action sanitaire et sociale](titre-10)
+- [Titre 11 : Organisation sanitaire, médico-sociale et sociale](titre-11)

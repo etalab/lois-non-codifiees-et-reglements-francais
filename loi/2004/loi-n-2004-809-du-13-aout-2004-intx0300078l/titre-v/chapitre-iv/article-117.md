@@ -1,0 +1,5 @@
+# Article 117
+
+Les dispositions du présent titre sont applicables aux services et agents de l'Etat qui participent à l'exercice des compétences transférées aux collectivités territoriales par la loi n° 2003-699 du 30 juillet 2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages.
+
+Si une collectivité territoriale ou un groupement de collectivités territoriales choisit l'établissement public Voies navigables de France comme opérateur durant une période d'expérimentation sur une voie d'eau navigable préalablement confiée à Voies navigables de France, les modalités de participation des services ou parties de services de l'Etat à l'exercice des compétences transférées pendant cette période d'expérimentation sont définies dans la convention tripartite conclue entre l'Etat, la collectivité ou le groupement de collectivité et Voies navigables de France prévue au dernier alinéa de l'article 1er-2 du code du domaine public fluvial et de la navigation intérieure.

@@ -2,7 +2,7 @@
 
 Les sommes correspondant aux soldes négatifs de la compensation généralisée vieillesse instituée par l'article L. 134-1 susvisé sont fixées comme suit :
 
-Budget annexe des prestations sociales agricoles :
+Etablissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles :
 
 19 500 503 440 F
 

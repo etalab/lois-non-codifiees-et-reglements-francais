@@ -2,7 +2,7 @@
 
 Les sommes correspondant au solde négatif de la compensation instituée par l'article L. 134-1 susvisé sont fixées comme suit :
 
-Budget annexe des prestations sociales agricoles :
+Etablissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles :
 
 17 369 381 831 F ;
 

@@ -2,7 +2,7 @@
 
 Plan d'urgence interne des gares de triage.
 
-1. Conformément au 1.10 et au 1.4.3.6, le gestionnaire de l'infrastructure établit sous sa responsabilité un plan d'urgence interne pour une gare de triage traitant de marchandises dangereuses.
+1. Conformément au 1.11 et au 1.4.3.6, le gestionnaire de l'infrastructure établit sous sa responsabilité un plan d'urgence interne pour une gare de triage traitant de marchandises dangereuses.
 
 2. Le plan d'urgence interne est élaboré et révisé en liaison avec les autorités chargées des secours et, pour la classe 7, avec l'autorité compétente en matière de transport. Le comité d'hygiène, de sécurité et des conditions de travail de l'exploitant du triage est consulté sur le plan.
 

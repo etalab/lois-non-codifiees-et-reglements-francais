@@ -1,0 +1,3 @@
+# Article 111
+
+Les fonctionnaires de l'Etat mentionnés à l'article 109 de la présente loi et appartenant à un corps classé en catégorie active au sens du 1° du I de l'article L. 24 du code des pensions civiles et militaires de retraite conservent, à titre personnel, le bénéfice des avantages qui en découlent. Ils peuvent, si besoin est, compléter la durée de service en vue de remplir la condition de quinze ans exigée par les dispositions qui leur sont applicables au titre du régime de pension dont ils relèvent dès lors qu'ils exercent dans la collectivité territoriale ou le groupement de collectivités territoriales d'accueil des fonctions ayant, par leur contenu, la même nature que celles qu'ils exerçaient antérieurement au service de l'Etat.

@@ -24,7 +24,7 @@ Caisse mutuelle d'assurance vieillesse des cultes : 50 217 922
 
 Caisse de retraite de la Banque de France : 12 554 176
 
-Budget annexe des prestations sociales agricoles : 1 140 984 475
+Etablissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles : 1 140 984 475
 
 Caisse autonome nationale des invalides de la marine : 44 791 512
 
