@@ -12,6 +12,6 @@ A cet effet, le Commissariat à l'énergie atomique est autorisé à procéder �
 
 Le bâtiment des combustibles irradiés, la station de traitement des effluents, la cheminée et la galerie de liaison entre la cheminée et le local de ventilation seront complètement démantelés ainsi que le cimetière à déchets solides. Les circuits d'eau lourde et d'hélium ainsi que les machines de manutention des éléments combustibles situés dans le bâtiment réacteur seront également démantelés. Les matériels et les circuits démantelés pourront être entreposés dans le bâtiment réacteur.
 
-Le bâtiment " contrôle-bureaux ", l'installation de production d'énergie, le bâtiment des auxiliaires, le bassin de rejet et les autres bâtiments non nucléaires seront démolis.
+Le bâtiment "contrôle-bureaux", l'installation de production d'énergie, le bâtiment des auxiliaires, le bassin de rejet et les autres bâtiments non nucléaires seront démolis.
 
-L'ensemble de ces travaux devra être réalisé dans les sept ans suivant la publication du présent décret au Journal officiel de la République française.
+L'ensemble de ces travaux devra être réalisé dans les dix ans suivant la publication du présent décret au Journal officiel de la République française.
