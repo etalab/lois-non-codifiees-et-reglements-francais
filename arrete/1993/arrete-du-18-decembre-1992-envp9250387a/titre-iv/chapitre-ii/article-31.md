@@ -4,6 +4,6 @@ Les résultats des analyses demandées aux articles ci-dessus sont communiqués 
 
 - trimestriellement pour ce qui concerne les articles 28 et 29 ;
 
-- sans délai pour ce qui concerne l'article 29, dernier alinéa.
+- sans délai pour ce qui concerne l'article 30, dernier alinéa.
 
-Ils sont repris dans le rapport d'activité annuel prévu à l'article 32.
+Ils sont repris dans le rapport d'activité annuel prévu à l'article 34.

@@ -194,6 +194,8 @@
 - [Décret n°94-80 du 18 janvier 1994 (MAEJ9330048D)](decret-n94-80-du-18-janvier-1994-maej9330048d)
 - [Décret n°94-392 du 18 mai 1994 (SPSH9400717D)](decret-n94-392-du-18-mai-1994-spsh9400717d)
 - [Décret n°94-303 du 19 avril 1994 (INDG9300938D)](decret-n94-303-du-19-avril-1994-indg9300938d)
+- [Décret n°94-325 du 19 avril 1994 (INTB9400106D)](decret-n94-325-du-19-avril-1994-intb9400106d)
+- [Décret n°94-326 du 19 avril 1994 (MAEA9320208D)](decret-n94-326-du-19-avril-1994-maea9320208d)
 - [Décret n°94-69 du 19 janvier 1994 (EQUT9301689D)](decret-n94-69-du-19-janvier-1994-equt9301689d)
 - [Décret n°94-82 du 19 janvier 1994 (INDA9300577D)](decret-n94-82-du-19-janvier-1994-inda9300577d)
 - [Décret n°94-83 du 19 janvier 1994 (MCCB9300363D)](decret-n94-83-du-19-janvier-1994-mccb9300363d)

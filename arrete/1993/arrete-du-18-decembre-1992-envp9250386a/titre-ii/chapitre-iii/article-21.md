@@ -24,6 +24,4 @@ Dans le cas d'alvéoles superposées, des dispositifs permettant de rabattre les
 
 Des structures drainantes intermédiaires sont installées au sein de la masse de déchets pour diriger tout lixiviat vers le fond du site.
 
-Une galerie technique dans laquelle débouchent tous les tuyaux de drainage est réalisée en fond de site. Elle est destinée à la surveillance et à l'entretien du système de drainage et doit être accessible à l'homme dans le respect de la réglementation du travail.
-
-La mise en place de la galerie doit faire l'objet d'une étude géotechnique pour s'assurer de la stabilité et de la sécurité de l'ouvrage.
+" Une ou plusieurs galeries techniques ou tout autre dispositif équivalent, dans lesquels débouchent tous les tuyaux de drainage, sont réalisés en fond de site. Ces ouvrages sont destinés à la surveillance et à l'entretien du système de drainage et doivent être accessibles à l'homme dans le respect de la réglementation du travail. Leur mise en place doit faire l'objet d'études géotechniques afin de s'assurer de leur stabilité et de leur sécurité. "

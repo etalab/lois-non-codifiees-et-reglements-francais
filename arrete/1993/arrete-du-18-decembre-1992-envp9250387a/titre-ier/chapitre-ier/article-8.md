@@ -2,13 +2,19 @@
 
 Les déchets industriels spéciaux ultimes de la catégorie B pouvant être admis sont les suivants :
 
-Résidus de traitement d'effluents, de déchets ou de terres contaminée, notamment :
+Résidus de traitement d'effluents industriels et d'eaux industrielles, de déchets ou de sols pollués, notamment :
 
-- boues d'épuration d'effluents et bains de traitement de surface (boues d'hydroxydes notamment) à faibles teneurs en chrome hexavalent et en cyanures ;
+- boues d'épuration d'effluents industriels et bains de traitement de surface (boues d'hydroxydes notamment) à faibles teneurs en chrome hexavalent et en cyanures ;
 
-- résines échangeuses d'ions saturées.
+- résidus de station d'épuration d'eaux industrielles ;
 
-Mâchefers résultant de l'incinération des déchets industriels.
+- résines échangeuses d'ions saturées ;
+
+- résidus de traitement de sols pollués.
+
+Résidus de l'incinération :
+
+- mâchefers résultant de l'incinération des déchets industriels.
 
 Résidus de peinture :
 
@@ -16,14 +22,26 @@ Résidus de peinture :
 
 Résidus de la métallurgie :
 
-- scories, crasses issues de procédés de fabrication de métaux à l'exception des scories et crasses de seconde fusion de métaux par bains de sels ;
+scories, crasses issues de procédés de fabrication de métaux à l'exception des scories et crasses de seconde fusion de métaux par bains de sels ;
 
-- sables de fonderie n'ayant pas subi la coulée.
+sables de fonderie n'ayant pas subi la coulée.
+
+Résidus de recyclage d'accumulateurs et de batteries.
 
 Résidus d'amiante :
 
-- résidus d'amiante conditionnés conformément à l'arrêté du 31 août 1989 relatif aux industries fabriquant des produits à base d'amiante ;
+résidus d'amiante conditionnés conformément à l'arrêté du 31 août 1989 relatif aux industries fabriquant des produits à base d'amiante ;
 
-- autres résidus d'amiante.
+autres résidus d'amiante.
 
-Les déchets sont admissibles en l'état s'ils respectent les critères d'admission qui leur sont fixés aux I.2.1 et I.2.3.2 de l'annexe I. Au terme d'un délai de cinq ans à compter de la publication à l'arrêté, ces déchets ne pourront être admis dans une installation de stockage que s'ils sont stabilisés et respectent les critères d'admission des déchets stabilisés fixés aux I.2.1 et I.2.2 de l'annexe I.
+Réfractaires et autres matériaux minéraux usés et souillés :
+
+matériaux souillés au cours du processus de fabrication ;
+
+matières premières, rebuts de fabrication et matériels divers souillés non recyclables.
+
+Avant le 30 mars 1998, ces déchets doivent en outre respecter les critères d'admission qui leur sont fixés au I.2.3 de l'annexe I.
+
+A compter du 30 mars 1998, ces déchets ne pourront être admis dans une installation de stockage que s'ils respectent les critères d'admission fixés au I.2.1 de l'annexe I.
+
+Les déchets pulvérulents, avant ou après stabilisation, doivent être conditionnés pour prévenir les envols.

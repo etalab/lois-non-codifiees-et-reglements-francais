@@ -1,24 +1,26 @@
 # Article 30
 
-Les lixiviats qui sont contenus dans le bassin de stockage mentionné à l'article 20 ne peuvent être rejetés au milieu naturel qu'après prise en compte des objectifs de qualité du milieu naturel s'ils existent et s'ils respectent au moins les valeurs suivantes :
+" Les lixiviats qui sont contenus dans le bassin de stockage mentionné à l'article 24 ne peuvent être rejetés au milieu naturel qu'après prise en compte des objectifs de qualité du milieu naturel lorsqu'ils sont définis et s'ils respectent au moins les valeurs suivantes :
 
-5,5 < pH < 8,5 ;
+" 5,5 < pH < 8,5 ; 9,5 s'il y a neutralisation chimique ;
 
-Hydrocarbures < 10 mg/l (norme N.F.T. 90-203) ;
+" Hydrocarbures < 10 mg/l (norme NFT 90-203) ;
 
-DCO < 125 mg/l (sur eau brute) ;
+" DCO < 125 mg/l (sur eau brute) ;
 
-Phénols < 0,1 mg/l ;
+" Phénols < 0,1 mg/l ;
 
-Métaux lourds totaux < 15 mg/l dont : Cr 6 + < 0,1 mg/l ; Cd < 0,2 mg/l ;< Pb < 0,5 mg/l ;
+" Métaux lourds totaux < 15 mg/l dont : Cr6p < 0,1 mg/l,
 
-Cn libres < 0,1 mg/l ;
+Cd < 0,2 mg/l, Pb < 0,5 mg/l ;
 
-Hg < 0,05 mg/l ;
+" CN libres < 0,1 mg/l ;
 
-As < 0,1 mg/l ;
+" Hg < 0,05 mg/l ;
 
-Fluorures < 15 mg/l.
+" As < 0,1 mg/l ;
+
+" Fluorures < 50 mg/l. "
 
 L'arrêté préfectoral d'autorisation fixe les débits de rejet maxima autorisés.
 

@@ -6,12 +6,12 @@ De tels déchets sont essentiellement solides, minéraux, avec un potentiel poll
 
 De plus, ces déchets doivent être stabilisés à court terme.
 
-Un déchet est considéré comme stabilisé quand sa perméabilité à l'eau et sa fraction lixiviable ont été réduites et quand sa tenue mécanique a été améliorée de façon que ses caractéristiques satisfassent aux critères d'acceptation des déchets stabilisés fixés au I.2.2 de l'annexe I.
+" Un déchet est considéré comme stabilisé quand sa perméabilité à l'eau et sa fraction lixiviable ont été réduites et quand sa tenue mécanique a été améliorée de façon que ses caractéristiques satisfassent aux critères d'acceptation des déchets stabilisés fixés au I.2.1 de l'annexe I.
 
-" Les déchets industriels spéciaux ultimes admissibles dans une installation de stockage visée par le présent arrêté se répartissent en trois catégories :
+" Les déchets industriels spéciaux ultimes admissibles dans une installation de stockage se répartissent en trois catégories :
 
-" A. - Déchets qui doivent être stabilisés à compter du 30 mars 1995 ;
+" A : Déchets qui doivent être stabilisés à compter du 30 mars 1995 ;
 
-" B. - Déchets qui doivent être stabilisés à compter du 30 mars 1998 ;
+" B : Déchets qui doivent être stabilisés à compter du 30 mars 1998 ;
 
-" C. - Déchets admis au cas par cas. "
+" C : Déchets admis au cas par cas et emballages souillés admis jusqu'au 30 mars 1995. "

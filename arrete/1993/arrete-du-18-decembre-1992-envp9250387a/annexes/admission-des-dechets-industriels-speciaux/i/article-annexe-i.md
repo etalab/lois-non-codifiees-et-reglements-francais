@@ -1,104 +1,268 @@
 # Article ANNEXE I
 
-1. Tests de lixiviation. - Modes opératoires
+" 1. Tests de potentiel polluant - modes opératoires
 
-Sauf exception précisée, les seuils sont exprimés sur la fraction lixiviable par kilogramme de déchet stabilisé ou à traiter. Les déchets sont évalués selon les tests suivants :
+" Test de potentiel polluant
 
-- pour les déchets non massifs : norme expérimentale Afnor X 31-210 (sur la base de 3 lixiviations) ;
+Déchets solides initialement massifs ou générés par un procédé de solidification :
 
-- pour les déchets massifs : protocole provisoire d'essai de lixiviation d'un déchet solide initialement massif ou généré par un procédé de solidification. Ce test comporte un essai préliminaire de vérification d'intégrité de structure et un essai de résistance mécanique.
+Dans le cas de déchets solides initialement massifs ou générés par un procédé de solidification, le test à appliquer, dans l'attente de la publication d'une ou de plusieurs normes spécifiques, est le protocole provisoire d'évaluation des déchets massifs et solidifiés disponible sur simple demande auprès du ministère de l'environnement (direction de la prévention des pollutions et des risques, service de l'environnement industriel). Ce test comprend, préalablement au test de potentiel polluant, un test préliminaire de présélection des déchets massifs ou solidifiés et des tests de vérification de l'intégrité et de la pérennité de la structure physique. Ces derniers comportent en particulier des essais de résistance mécanique dans le cas où le matériau peut être amené à l'état d'éprouvettes répondant aux spécifications des normes relatives à ce type d'essai. Dans le cas contraire, ils comportent des essais d'érosion sur les matériaux granulaires.
 
-2. Critères d'admission
+Lorsque le déchet a répondu aux critères de présélection, le test de potentiel polluant est réalisé sur un échantillon se présentant sous forme d'éprouvette unique ou sous forme d'un ensemble de fragments de granulométrie définie.
 
-2.1. Critères généraux d'admission
+Il comporte trois lixiviations successives réalisées de manière similaire à celle définie dans la norme NF X 31.210.
+
+Chaque lixiviat est analysé et le résultat global est exprimé en fonction des modalités de calcul proposées dans l'annexe de la norme précitée.
+
+Les résultats obtenus sur chaque lixiviat sont consignés et conservés en mémoire, y compris pour la fraction soluble.
+
+Les valeurs limites fixées au I.2 de cette annexe s'appliquent au résultat global.
+
+Déchets non massifs :
+
+Le test de potentiel polluant est effectué en trois lixiviations successives conformes à la norme NF X 31.210.
+
+Chaque lixiviat est analysé et le résultat global est exprimé en fonction des modalités de calcul proposées dans l'annexe de la norme précitée.
+
+Les résultats obtenus sur chaque lixiviat sont consignés et conservés en mémoire, y compris pour la fraction soluble.
+
+Les valeurs limites fixées au I.2 de cette annexe s'appliquent au résultat global.
+
+" Paramètres à analyser
+
+Les paramètres à analyser pour un déchet donné sont ceux qui font l'objet, pour ce déchet, des critères définis au point 2.
+
+Ces analyses sont réalisées soit sur déchet brut, soit sur lixiviat selon les modalités déjà définies.
+
+Analyses sur déchet brut :
+
+Siccité ;
+
+Hydrocarbures totaux ;
+
+P.C.B. ;
+
+H.A.P.
+
+Analyse sur lixiviat :
+
+Fraction soluble ;
+
+pH ;
+
+Cr6p ;
+
+Cr ;
+
+Pb ;
+
+Zn ;
+
+Cd ;
+
+CN ;
+
+Ni ;
+
+As ;
+
+Hg ;
+
+Cu ;
+
+Phénols ;
+
+COT ;
+
+Fluor ;
+
+AOX ;
+
+DCO.
+
+" Méthodes d'analyses
+
+des paramètres qui ne font pas l'objet d'une norme
+
+Fraction soluble :
+
+La fraction soluble est exprimée comme le rapport au poids sec de l'échantillon lixivié du cumul des valeurs obtenues par pesée du résidu sec à 103 °C ù 2 °C de chacun des trois lixiviats.
+
+La détermination du poids ou du résidu sec sera réalisé conformément aux normes en vigueur, et notamment selon la norme NF 90.029.
+
+Hydrocarbures totaux :
+
+Le principe repose sur une extraction des produits hydrocarbonés par le tétrachlorure de carbone à froid puis un dosage par détecteur à infrarouge.
+
+Hydrocarbures aromatiques polycycliques :
+
+Le principe repose sur une extraction des H.A.P. par l'acétonitrile à froid puis un dosage par chromatographie en phase liquide à haute pression (H.P.L.C.).
+
+" Méthodes d'analyses des autres paramètres
+
+L'analyse de la siccité, des teneurs en hydrocarbures totaux, en PCB ou en hydrocarbures polycycliques aromatiques (H.A.P.) est réalisée sur le déchet brut selon les normes appropriées, et notamment :
+
+Siccité
+
+NFT X 31.102 ;
+
+P.C.B.
+
+NFT 90.120.
+
+Les analyses dans les lixiviats doivent être réalisées selon les normes appropriées et notamment :
+
+pH
+
+NFT 90.008 ;
+
+Cr6p
+
+NFT 90.043 ;
+
+Cr
+
+NFT 90.112 ;
+
+Zn
+
+NFT 90.112 ;
+
+Cd
+
+NFT 90.112 ;
+
+Ni
+
+NFT 90.112 ;
+
+Cu
+
+NFT 90.112 ;
+
+Pb
+
+NFT 90.112 ;
+
+CN
+
+NFT 90.108 ;
+
+As
+
+NFT 90.026 ;
+
+Hg
+
+NFT 90.113 ;
+
+Phénols
+
+NFT 90.204 ;
+
+COT
+
+NFT 90.102 ;
+
+Fluor
+
+NFT 90.042 ;
+
+AOX
+
+ISO  9.562 ;
+
+DCO
+
+NFT 90.101.
+
+Il pourra être demandé au laboratoire pratiquant l'analyse de justifier la pertinence de la méthode d'analyse retenue et l'incertitude de cette méthode dans la plage de valeurs mesurées.
+
+" 2. Critères d'admission
+
+2.1. Déchets stabilisés
 
 4 < pH < 13 ;
 
-Siccité > 30 p. 100 sur déchet brut ; 35 p. 100 dans un délai de deux ans ;
+Siccité > 35 p. 100 ;
 
-Fraction soluble < 10 p. 100 sur déchet sec (excepté pour les déchets de la catégorie A avant stabilisation).
+Fraction soluble < 10 p. 100 ;
 
-Le producteur de déchets doit faire la preuve du caractère minéral et non fermentescible de ses déchets. A défaut, une analyse du C.O.T. est effectuée.
+DCO < 2 000 mg/kg ;
 
-Le résultat doit être < 10 g/kg.
+Phénols < 100 mg/kg ;
 
-2.2. Critères supplémentaires d'admission
+Cr6p < 5 mg/kg ;
 
-Déchets stabilisés ;
+Cr < 50 mg/kg ;
 
-DCO < 2000 mg/kg, NFT 90101 ;
+Pb < 50 mg/kg ;
 
-Phénols < 100 mg/kg, NFT 90204 ;
+Zn < 250 mg/kg ;
 
-Cr6 < 5 mg/kg, NFT 90112 ;
+Cd < 25 mg/kg ;
 
-Cr < 50 mg/kg, NFT 90112 ;
+CN < 5 mg/kg ;
 
-Pb < 50 mg/kg, NFT 90027 ;
+Ni < 50 mg/kg ;
 
-Zn < 250 mg/kg, NFT 90112 ;
+As < 10 mg/kg ;
 
-Cd < 25 mg/kg, NFT 90112 ;
+Hg < 5 mg/kg.
 
-CN < 5 mg/kg, NFT 90108 ;
+" 2.2. Déchets de la catégorie A
 
-Ni < 50 mg/kg, NFT 90107 ;
+en attente de stabilisation
 
-As < 5 mg/kg, NFT 90026 ;
+Résidus de l'incinération :
 
-Hg < 5 mg/kg, NFT 90113.
+suies et cendres non volantes ;
 
-2.3. Critères supplémentaires d'admission
+poussières, fines et cendres volantes ;
 
-Déchets des catégories A et B en attente de stabilisation.
-
-2.3.1. Déchets de la catégorie A.
-
-résidus de l'incinération :
-
-- suies et cendres non volantes ;
-
-- poussières, fines et cendres volantes ;
-
-- déchets de neutralisation des gaz ou des eaux de lavage des gaz.
+déchets de neutralisation des gaz ou des eaux de lavage des gaz.
 
 Présentant les caractéristiques suivantes :
 
-Perte au feu < 5 p. 100 sur déchet sec ;
+4 < pH < 13 ;
 
-DCO < 5 000 mg/kg ;
+COT < 3 500 mg kg ;
 
-Cr6 < 10 mg/kg ;
+Cr6p < 30 mg/kg ;
 
 Cr < 100 mg/kg ;
 
-Pb < 100 mg/kg ;
+Pb < 2 000 mg/kg ;
 
 Zn < 500 mg/kg ;
 
-Cd < 50 mg/kg ;
+Cd < 100 mg/kg ;
 
 CN < 10 mg/kg ;
 
 Ni < 100 mg/kg ;
 
-As < 10 mg/kg ;
+As < 30 mg/kg ;
 
 Hg < 10 mg/kg.
 
 Résidus de la métallurgie :
 
-- poussières de fabrication d'aciers alliés ;
+poussières de fabrication d'aciers alliés ;
 
-- poussières issues de procédés de fabrication de métaux et scories et crasses de seconde fusion de métaux par bains de sels ;
+poussières issues de procédés de fabrication de métaux ;
 
-- boues d'usinage sans hydrocarbures.
+scories et crasses de seconde fusion de métaux par bains de sels ;
+
+boues d'usinage contenant moins de 5 % d'hydrocarbures.
 
 Présentant les caractéristiques suivantes :
 
-DCO < 10 000 mg/kg.
+4 < pH < 13 ;
 
-Métal concerné par la filière de production :
+Siccité > 30 p. 100 ;
+
+COT < 3 500 mg/kg ;
 
 Pb < 500 mg/kg ;
 
@@ -108,41 +272,23 @@ Zn < 500 mg/kg ;
 
 Ni < 100 mg/kg ;
 
-Hg < 10 mg/kg ;
+Hg < 10 mg kg ;
 
-Cr < 100 mg/kg ;
+Cr < 100 mg kg ;
 
 As < 10 mg/kg.
 
-Résidus de forages résultant de l'emploi de fluides de forage présentant les caractéristiques suivantes :
+Résidus de forages résultant de l'emploi de fluides de forage à base d'hydrocarbures présentant les caractéristiques suivantes :
 
-Hydrocarbures totaux < 5 p. 100 sur déchet brut ;
+Hydrocarbures totaux < 5 p. 100 ;
 
-Cr6 + < 10 mg/kg ;
+4 < pH < 13 ;
 
-Cr < 100 mg/kg ;
+Siccité > 30 p. 100 ;
 
-Pb < 100 mg/kg ;
+COT < 3 500 mg/kg ;
 
-Zn < 500 mg/kg ;
-
-Cd < 50 mg/kg ;
-
-CN < 10 mg/kg ;
-
-Ni < 100 mg/kg ;
-
-As < 10 mg/kg ;
-
-Hg < 10 mg/kg.
-
-Résidus de stations d'épuration d'eaux industrielles présentant les caractéristiques suivantes :
-
-DCO < 2 000 mg/kg ;
-
-phénols < 100 mg/kg ;
-
-Cr6 + < 10 mg/kg ;
+Cr6p < 10 mg/kg ;
 
 Cr < 100 mg/kg ;
 
@@ -162,21 +308,23 @@ Hg < 10 mg/kg.
 
 Déchets minéraux de traitement chimique :
 
-- oxydes métalliques résiduaires solides hors alcalins ;
+oxydes métalliques résiduaires solides hors alcalins ;
 
-- sels métalliques résiduaires solides hors alcalins ;
+sels métalliques résiduaires solides hors alcalins ;
 
-- sels minéraux résiduaires solides non cyanurés ;
+sels minéraux résiduaires solides non cyanurés ;
 
-- catalyseurs usés.
+catalyseurs usés.
 
 Présentant les caractéristiques suivantes :
 
-DCO < 2 000 mg/kg ;
+4 < pH < 13 ;
 
-phénols < 100 mg/kg ;
+Siccité > 30 p. 100 ;
 
-Cr6 + < 10 mg/kg ;
+COT < 3 500 mg/kg ;
+
+Cr6p < 10 mg/kg ;
 
 Cr < 100 mg/kg ;
 
@@ -192,45 +340,69 @@ Ni < 100 mg/kg ;
 
 As < 10 mg/kg ;
 
-Hg < 10 mg/kg.
+Hg < 30 mg/kg.
 
-2.3.2. Déchets de la catégorie B.
+" 2.3. Déchets de la catégorie B
 
-Résidus de traitement d'effluents ou de déchets :
+en attente de stabilisation
 
-Boues déshydratées d'épuration d'effluents et bains de traitements de surface (boues d'hydroxydes notamment) à faibles teneurs en Cr6 + et en CN présentant les caractéristiques suivantes :
+Résidus de traitement d'effluents industriels et d'eaux industrielles, de déchets ou de sols pollués notamment :
 
-DCO < 10 000 mg/kg ;
+- boues d'épuration d'effluents industriels et bains de traitement de surface (boues d'hydroxydes notamment) à faibles teneurs en chrome hexavalent et en cyanures ;
 
-Cr6 + < 10 mg/kg ;
+- résidus de stations d'épuration d'eaux industrielles ;
+
+- résidus de traitement de sols pollués.
+
+Présentant les caractéristiques suivantes :
+
+4 < pH < 13 ;
+
+Siccité > 25 p. 100 ;
+
+COT < 5 000 mg/kg ;
+
+Fraction soluble < 30 % ;
+
+Cr6p < 15 mg/kg ;
 
 Cr < 100 mg/kg ;
 
-Pb < 200 mg/kg ;
+Pb < 100 mg/kg ;
 
-Zn < 500 mg/kg ;
+Zn < 1 000 mg/kg ;
 
 Cd < 50 mg/kg ;
 
 CN < 10 mg/kg ;
 
-Ni < 1 000 mg/kg.
+Ni < 250 mg/kg ;
 
-Résines échangeuses d'ions saturées présentant les caractéristiques suivantes :
+résines échangeuses d'ions saturées présentant les caractéristiques suivantes :
 
-CN < 50 mg/kg ;
+4 < pH < 13 ;
 
-Cr6 + < 5 mg/kg.
+Siccité > 30 p. 100 ;
+
+COT < 3 500 mg/kg ;
+
+Fraction soluble < 10 p. 100 ;
+
+CN < 50 mg kg ;
+
+Cr6p < 5 mg/kg.
 
 Résidus de l'incinération :
 
-Mâchefers présentant les caractéristiques suivantes :
+mâchefers résultant de l'incinération des déchets industriels présentant les caractéristiques suivantes :
 
-Perte au feu < 5 p. 100 sur déchet sec ;
+4 < pH < 13 ;
 
-DCO < 5 000 mg/kg ;
+Fraction soluble < 10 p. 100 ;
 
-Cr6 + < 10 mg/kg ;
+COT < 3 500 mg/kg ;
+
+Cr6p < 20 mg/kg ;
 
 Cr < 100 mg/kg ;
 
@@ -244,21 +416,25 @@ CN < 10 mg/kg ;
 
 Ni < 100 mg/kg ;
 
-As < 10 mg/kg ;
+As < 30 mg/kg ;
 
-Hg < 10 mg/kg.
+Hg < 10 mg/kg .
 
 Résidus de peinture :
 
-Déchets de peinture polymérisés ou solides, de résines, de vernis ou de polymères sans phase liquide (à faible teneur en solvants) présentant les caractéristiques suivantes :
+déchets de peinture polymérisés ou solides, de résines, de vernis ou de polymères sans phase liquide (à faible teneur en solvants) présentant les caractéristiques suivantes :
 
-Siccité > 40 p. 100 sur déchet brut ;
+4 < pH < 13 ;
 
-DCO < 10 000 mg/kg ;
+Fraction soluble < 10 p. 100 ;
 
-phénols < 200 mg/kg ;
+COT < 3 500 mg/kg ;
 
-Cr6 + < 10 mg/kg ;
+Siccité > 40 p. 100 ;
+
+Phénols < 200 mg kg ;
+
+Cr6p < 10 mg/kg ;
 
 Cr < 100 mg/kg ;
 
@@ -268,13 +444,15 @@ Zn < 500 mg/kg.
 
 Résidus de la métallurgie :
 
-Scories, crasses issues de procédés de fabrication de métaux, à l'exception des scories et crasses de seconde fusion de métaux par bains de sels présentant les caractéristiques suivantes :
+scories, crasses issues de procédés de fabrication de métaux, à l'exception des scories et crasses de seconde fusion de métaux par bains de sels présentant les caractéristiques suivantes :
 
-DCO < 10 000 mg/kg ;
+4 < pH < 13 ;
 
-Métal concerné par la filière de production :
+Fraction soluble < 35 p. 100 ;
 
-Pb < 500 mg/kg ;
+COT < 7 500 mg/kg ;
+
+Pb < 1 000 mg/kg ;
 
 Cd < 100 mg/kg ;
 
@@ -282,72 +460,124 @@ Zn < 500 mg/kg ;
 
 Ni < 100 mg/kg ;
 
-Hg <  10 mg/kg ;
-
-Cr < 100 mg/kg ;
-
-As <  10 mg/kg ;
-
-Sables de fonderie n'ayant pas subi la coulée présentant les caractéristiques suivantes :
-
-DCO < 5 000 mg/kg ;
-
-50 < phénols (mg/kg) < 300.
-
-Résidus d'amiante ;
-
-Résidus autres que ceux de déflocage présentant les caractéristiques suivantes :
-
-DCO < 3 000 mg/kg ;
-
-Phénols < 300 mg/kg ;
-
-CN < 50 mg/kg.
-
-2.4 Critères supplémentaires d'admission :
-
-Déchets de la catégorie C :
-
-DCO < 10 000 mg/kg ;
-
-Hydrocarbures totaux < 5 p. 100 sur déchet brut ;
-
-Phénols < 300 mg/kg ;
-
-Cr6 + < 10 mg/kg ;
-
-Cr < 100 mg/kg ;
-
-Pb < 500 mg/kg ;
-
-Zn < 500 mg/kg ;
-
-CN < 50 mg/kg ;
-
-Cd < 50 mg/kg ;
-
-As < 10 mg/kg ;
-
-Sn < 500 mg/kg ;
-
-Fluorures < 1 000 mg/kg ;
+Cr < 100 mg kg ;
 
 Hg < 10 mg/kg ;
 
-Co < 100 mg/kg ;
+As < 500 mg/kg ;
 
-Cu < 500 mg/kg ;
+sables de fonderie n'ayant pas subi la coulée présentant les caractéristiques suivantes :
 
-Mb < 500 mg/kg ;
+4 < pH < 13 ;
 
-Ni < 100 mg/kg ;
+Siccité > 30 p. 100 ;
 
-Sulfures < 500 mg/kg.
+Fraction soluble < 10 p. 100 ;
+
+COT < 3 500 mg/kg ;
+
+50 mg/kg < phénols < 1 000 mg/kg.
+
+Résidus d'amiante :
+
+résidus autres que ceux de déflocage présentant les caractéristiques suivantes :
+
+4 < pH < 13 ;
+
+Siccité > 30 p. 100 ;
+
+Fraction soluble < 10 p. 100 ;
+
+COT < 3 500 mg/kg ;
+
+Phénols < 1 000 mg/kg ;
+
+CN < 50 mg/kg.
+
+Réfractaires et autres matériaux minéraux usés :
+
+matériaux souillés au cours du processus de fabrication ;
+
+matières premières, rebuts de fabrication et matériels divers souillés non recyclables.
+
+Présentant les caractéristiques suivantes :
+
+4 < pH < 13 ;
+
+COT < 5 000 mg/kg ;
+
+Fraction soluble < 20 p. 100 ;
+
+Pb < 500 mg/kg ;
+
+Cr < 100 mg/kg ;
+
+Cd < 100 mg/kg ;
+
+Zn < 1 000 mg/kg ;
+
+Cu < 500 mg/kg.
+
+Résidus de recyclage d'accumulateurs et de batteries présentant
+
+les caractéristiques suivantes :
+
+4 < pH < 13 ;
+
+COT < 3 500 mg/kg ;
+
+Fraction soluble < 10 p. 100 ;
+
+Pb < 500 mg/kg ;
+
+Zn < 100 mg/kg ;
+
+Cd < 20 mg/kg ;
+
+Ni < 50 mg/kg ;
+
+As < 10 mg/kg.
+
+" 2.4. Déchets de la catégorie C
+
+COT < 7 500 mg/kg ;
+
+Hydrocarbures totaux < 5 p. 100 ;
+
+Phénols < 1 000 mg kg ;
+
+Cr6p < 30 mg/kg ;
+
+Cr < 100 mg/kg ;
+
+Pb < 2 000 mg/kg ;
+
+Zn < 1 000 mg/kg ;
+
+CN < 50 mg/kg ;
+
+Cd < 100 mg/kg ;
+
+As < 30 mg/kg ;
+
+Sn < 500 mg kg ;
+
+Fluorures < 5 000 mg kg ;
+
+Hg < 30 mg/kg ;
+
+Co < 100 mg kg ;
+
+Cu < 500 mg kg ;
+
+Mb < 500 mg kg ;
+
+Ni < 250 mg kg.
 
 Pour les terres souillées :
 
-PCB < 50 mg/kg sur déchet brut ;
+PCB < 50 mg kg ;
 
-Solvants halogénés totaux < 100 mg/kg sur déchet brut ;
+HAP < 260 mg/kg ;
 
-Hydrocarbures aromatiques totaux < 100 mg/kg sur déchet brut.
+AOX < 80 mg/kg.

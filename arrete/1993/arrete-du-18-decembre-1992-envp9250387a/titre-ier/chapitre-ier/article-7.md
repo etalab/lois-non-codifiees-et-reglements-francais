@@ -14,28 +14,26 @@ Résidus de la métallurgie :
 
 - poussières de fabrication d'aciers alliés ;
 
-- poussières issues de procédés de fabrication de métaux et scories et crasses de seconde fusion de métaux par bains de sels ;
+- poussières issues de procédés de fabrication de métaux ;
 
-- boues d'usinage sans hydrocarbures.
+- scories et crasses de seconde fusion de métaux par bains de sels ;
 
-Résidus de forages résultant de l'emploi de fluides de forage.
+- boues d'usinage contenant moins de 5 p. 100 d'hydrocarbures.
 
-Résidus de stations d'épuration d'eaux industrielles.
+Résidus de forages résultant de l'emploi de fluides de forage à base d'hydrocarbures :
 
 Déchets minéraux de traitement chimique :
 
 - oxydes métalliques résiduaires solides hors alcalins ;
 
-- sels métalliques résiduaires solides hors alcalins ;
+sels métalliques résiduaires solides hors alcalins ;
 
-- sels minéraux résiduaires solides non cyanurés ;
+sels minéraux résiduaires solides non cyanurés ;
 
-- catalyseurs usés.
+catalyseurs usés.
 
-En outre, les déchets ultimes de la catégorie A doivent :
+Avant le 30 mars 1995, ces déchets doivent, en outre, respecter les critères d'admission qui leur sont fixés au I.2.2 de l'annexe I.
 
-- respecter les critères d'admission qui leur sont fixés au I.2.1 et au I.2.3.1 de l'annexe I ;
+A compter du 30 mars 1995, ces déchets ne pourront être admis dans une installation de stockage que s'ils respectent les critères d'admission fixés au I.2.1 de l'annexe I.
 
-- être conditionnés par tout système permettant de limiter les entrées d'eaux dans les déchets.
-
-Au terme d'un délai de deux ans à compter de la publication de l'arrêté, ces déchets doivent être stabilisés et respecter les critères d'admission fixés au I.2.1 et I.2.2 de l'annexe I. Dans ce cas les contraintes fixées à l'alinéa précédent ne s'appliquent plus.
+Les déchets pulvérulents, avant ou après stabilisation, doivent être conditionnés pour prévenir les envols.

@@ -1,13 +1,7 @@
 # Article 5
 
-La sous-direction des actions statistiques comprend :
+Le comité de gestion se réunit sur la convocation de son président. Il ne peut délibérer valablement qu'en la présence de la moitié de ses membres ou de leurs représentants.
 
-- le bureau de la diffusion ;
+Les décisions sont prises à la majorité des membres présents.
 
-- le bureau de l'informatique ;
-
-- le bureau des enquêtes ;
-
-- le bureau de l'administration des banques de données de l'urbanisme-construction ;
-
-- le bureau des méthodes.
+En cas de partage égal des voix, celle du président est prépondérante.

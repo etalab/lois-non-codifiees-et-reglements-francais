@@ -1,3 +1,3 @@
 # Article 7
 
-Sont abrogées toutes dispositions contraires à celles du présent arrêté.
+Le comité de gestion adresse annuellement aux ministres  concernés un rapport rendant compte de l'affectation des fonds. "
