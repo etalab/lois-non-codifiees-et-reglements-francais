@@ -14,4 +14,6 @@ Le conseil d'administration peut donner délégation de pouvoirs à son préside
 
 6. Fixation des rémunérations et règlement des frais et honoraires des avocats, notaires, avoués, huissiers de justice et experts ;
 
-7. Exercice au nom du centre d'action sociale des actions en justice ou défense du centre dans les actions intentées contre lui, dans les cas définis par le conseil d'administration.
+7. Exercice au nom du centre d'action sociale des actions en justice ou défense du centre dans les actions intentées contre lui, dans les cas définis par le conseil d'administration ;
+
+8. Décisions de déroger à l'obligation de dépôt des fonds auprès de l'Etat, en application des I et II de l'article L. 1618-2 du code général des collectivités territoriales.
