@@ -1,0 +1,5 @@
+# Article 18
+
+Peuvent être nommés au grade d'ingénieur divisionnaire des travaux géographiques et cartographiques de l'Etat, au choix, par voie d'inscription sur un tableau d'avancement établi après avis de la commission administrative paritaire du corps des ingénieurs des travaux géographiques et cartographiques de l'Etat, les ingénieurs des travaux géographiques et cartographiques de l'Etat ayant atteint depuis au moins deux ans le 5e échelon de leur grade et justifiant de sept ans de services effectifs en cette qualité.
+
+La durée du service militaire obligatoire ou du service national actif effectivement accompli vient, le cas échéant, en déduction des services effectifs exigés à l'alinéa précédent ; il en est de même de la fraction qui excède la douzième année de l'ancienneté dans un corps de catégorie B. Ces déductions ne peuvent toutefois avoir pour effet de réduire à moins de six ans la durée des services effectifs exigés en qualité d'ingénieur des travaux géographiques et cartographiques de l'Etat.
