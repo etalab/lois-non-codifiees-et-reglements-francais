@@ -2,7 +2,7 @@
 
 L'emploi du mélange mentionné à l'article 6-3 doit répondre aux conditions suivantes :
 
-Immersion des légumes-racines ou des pommes de terre dans un bain d'urée à 3 p. 100 maximum porté à une température au plus égale à 92 °C. Cette opération doit être suivie de rinçage à l'eau potable pour enlever toute trace du mélange.
+Immersion des légumes-racines, des pommes de terre ou des fruits dans un bain d'urée à 3 p. 100 maximum porté à une température au plus égale à 92 °C. Cette opération doit être suivie de rinçage à l'eau potable pour enlever toute trace du mélange.
 
 L'urée utilisée doit répondre aux critères de pureté suivants :
 
