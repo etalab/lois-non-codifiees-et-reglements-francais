@@ -25,15 +25,3 @@ LISTE DES CORPS :
 Attachés d'éducation des maisons d'éducation de la Légion d'honneur. Corps des services extérieurs de l'administration pénitentiaire :
 
 corps du personnel de direction, corps du personnel technique et de formation professionnelle, corps du personnel de surveillance.
-
-MINISTERE :
-
-Education nationale.
-
-LISTE DES CORPS :
-
-Instituteurs.
-
-Professeurs d'éducation physique et sportive.
-
-Professeurs adjoints d'éducation physique et sportive.
