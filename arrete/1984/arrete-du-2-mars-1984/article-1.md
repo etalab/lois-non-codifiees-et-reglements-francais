@@ -1,3 +1,5 @@
 # Article 1
 
-Les laboratoires chargés de concourir à l'application de la réglementation relative à la répression des fraudes et falsifications sont tenus d'employer, pour le contrôle des critères de pureté de certains additifs alimentaires, les méthodes d'analyse fixées par la directive du 28 juillet 1981 susvisée.
+Il est créé auprès du conseil scientifique du Commissariat à l'énergie atomique une commission pour les questions scientifiques
+
+et techniques relatives à la gestion des déchets radioactifs.

@@ -1,4 +1,4 @@
-# Arrêté du 2 mars 1984 relatif aux méthodes officielles d'analyse pour le contrôle des critères de pureté de certains additifs alimentaires
+# Arrêté du 2 mars 1984 portant création d’une commission pour les questions scientifiques et techniques relatives à la gestion des déchets radioactifs auprès du conseil scientifique du Commissariat à l’énergie atomique
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
