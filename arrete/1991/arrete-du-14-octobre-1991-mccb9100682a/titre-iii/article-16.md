@@ -1,3 +1,3 @@
 # Article 16
 
-Les droits d'inscription perçus par l'Ecole du Louvre sont fixés par arr^eté conjoint des ministres chargés de la culture et du budget.
+Sont fixés par arrêté conjoint des ministres chargés de la culture et du budget les droits d'inscription à l'Ecole du Louvre des élèves et ceux des auditeurs admis aux cours annuels d'histoire générale de l'art, aux cours organiques et aux cours du soir Rachel Boyer.
