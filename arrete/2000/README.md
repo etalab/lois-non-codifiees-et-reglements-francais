@@ -1,6 +1,7 @@
 # 2000
 
 - [Arrêté du 1 décembre 2000 (ECOC0000130A)](arrete-du-1-decembre-2000-ecoc0000130a)
+- [Arrêté du 1 décembre 2000 (INTE0000723A)](arrete-du-1-decembre-2000-inte0000723a)
 - [Arrêté du 4 décembre 2000 (DEFD0002366A)](arrete-du-4-decembre-2000-defd0002366a)
 - [Arrêté du 4 décembre 2000 (DEFD0002368A)](arrete-du-4-decembre-2000-defd0002368a)
 - [Arrêté du 4 décembre 2000 (DEFD0002369A)](arrete-du-4-decembre-2000-defd0002369a)
