@@ -35,7 +35,6 @@
 - [Arrêté du 2 mai 1988 (MDSC8800197A)](arrete-du-2-mai-1988-mdsc8800197a)
 - [Arrêté du 2 mai 1988 (MERG8800077A)](arrete-du-2-mai-1988-merg8800077a)
 - [Arrêté du 3 août 1988 (AGRP8801430A)](arrete-du-3-aout-1988-agrp8801430a)
-- [Arrêté du 3 août 1988 (AGRS8801428A)](arrete-du-3-aout-1988-agrs8801428a)
 - [Arrêté du 3 août 1988 (COMA8800029A)](arrete-du-3-aout-1988-coma8800029a)
 - [Arrêté du 3 août 1988 (EQUP8800030A)](arrete-du-3-aout-1988-equp8800030a)
 - [Arrêté du 3 août 1988 (TRSA8800400A)](arrete-du-3-aout-1988-trsa8800400a)
