@@ -14,7 +14,7 @@ c) Les viandes, y compris les abats, découpés sont maintenus, pendant le stock
 
 - pour les viandes surgelées - 18 °C.
 
-d) Des dérogations au point a pourront être accordées par les directeurs des services vétérinaires en vue du découpage à chaud. Dans ce cas, les viandes doivent être transportées directement du local d'abattage au local de découpe. Le local d'abattage et le local de découpe doivent alors être situés dans un même groupe de bâtiments et suffisamment proches l'un de l'autre, et les viandes à découper doivent être transférées sans rupture de charge d'un local à l'autre, et la découpe doit être réalisée sans délai. Sitôt que la découpe et, le cas échéant, l'emballage sont effectués, les viandes doivent être transportées dans un local frigorifique approprié.
+d) Des dérogations au point a peuvent être accordées, au cas par cas, par le directeur des services vétérinaires si les viandes proviennent d'un abattoir situé à proximité immédiate de l'atelier de découpe, et sont acheminées aussitôt après l'abattage dans le local de découpe, en vue d'une découpe à chaud. Sitôt que les opérations propres à la technologie de la découpe à chaud et, le cas échéant, l'emballage sont effectués, les viandes doivent être transportées dans un local frigorifique approprié.
 
 Les directeurs des services vétérinaires transmettent à la direction générale de l'alimentation (sous-direction de l'hygiène alimentaire) la liste des établissements bénéficiant de cette dérogation.
 

@@ -2,7 +2,7 @@
 
 Pour l'application du présent arrêté, on entend par :
 
-a) Viandes : toutes parties des animaux des espèces visées à l'article 1er, propres à la consommation humaine ;
+a) Viandes : toutes parties comestibles des animaux des espèces visées à l'article 1er ;
 
 b) Viandes fraîches : toutes les viandes, y compris les viandes conditionnées, n'ayant subi aucun traitement, autre qu'un traitement par le froid, de nature à assurer leur conservation ;
 
@@ -12,4 +12,6 @@ d) Conditionnement : opération réalisant la protection des viandes par l'emplo
 
 e) Emballage : mise des viandes dans un deuxième contenant et par extension ce deuxième contenant ;
 
-f) Atelier de découpe : tout établissement où sont préparées, manipulées, conditionnées, reconditionnées, emballées, réemballées des viandes fraîches à découper ou à désosser.
+f) Atelier de découpe : tout établissement où sont préparées, manipulées, conditionnées, reconditionnées, emballées, réemballées des viandes fraîches à découper ou à désosser ;
+
+g) Moyen de transport : parties réservées au chargement dans les véhicules automobiles, les véhicules circulant sur rails, les aéronefs, ainsi que les cales des bateaux ou les conteneurs pour le transport par terre, mer ou air.

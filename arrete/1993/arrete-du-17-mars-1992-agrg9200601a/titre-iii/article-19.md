@@ -8,6 +8,8 @@ b) L'emballage et le conditionnement sont placés immédiatement après leur fab
 
 c) Les locaux de stockage des matériaux d'emballage doivent être exempts de poussière et de vermine, et être privés de toute liaison atmosphérique avec des locaux contenant des substances susceptibles de contaminer la viande fraîche ; les emballages ne peuvent être entreposés à même le sol ;
 
-d) Les emballages introduits dans le local sont utilisés sans délai ; ils ne peuvent être manipulés par le personnel chargé de la manipulation des viandes fraîches ;
+d) Les emballages sont assemblés, dans des conditions hygiéniques, avant leur introduction dans le local ;
 
-f) Immédiatement après leur conditionnement, les viandes doivent être placées dans les locaux de stockage prévus à cet effet.
+e) Les emballages sont introduits, dans des conditions hygiéniques, dans le local, et utilisés sans délai. Ils ne peuvent être manipulés par le personnel chargé de manipuler la viande fraîche ;
+
+f) Immédiatement après leur conditionnement et/ou leur emballage, les viandes doivent être placées dans les locaux de stockage prévus à cet effet.
