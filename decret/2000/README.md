@@ -25,6 +25,8 @@
 - [Décret n°2000-876 du 6 septembre 2000 (MENF0001892D)](decret-n2000-876-du-6-septembre-2000-menf0001892d)
 - [Décret n°2000-883 du 6 septembre 2000 (DEFP0001797D)](decret-n2000-883-du-6-septembre-2000-defp0001797d)
 - [Décret n°2000-9 du 6 janvier 2000 (AGRS9902644D)](decret-n2000-9-du-6-janvier-2000-agrs9902644d)
+- [Décret n°2000-15 du 7 janvier 2000 (INTA9900308D)](decret-n2000-15-du-7-janvier-2000-inta9900308d)
+- [Décret n°2000-16 du 7 janvier 2000 (INTA9900305D)](decret-n2000-16-du-7-janvier-2000-inta9900305d)
 - [Décret n°2000-223 du 8 mars 2000 (JUSE0040001D)](decret-n2000-223-du-8-mars-2000-juse0040001d)
 - [Décret n°2000-224 du 8 mars 2000 (JUSE0040002D)](decret-n2000-224-du-8-mars-2000-juse0040002d)
 - [Décret n°79-707 du 8 août 1979](decret-n79-707-du-8-aout-1979)

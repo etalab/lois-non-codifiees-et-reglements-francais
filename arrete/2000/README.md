@@ -24,6 +24,7 @@
 - [Arrêté du 9 juin 2000 (ECOP0000348A)](arrete-du-9-juin-2000-ecop0000348a)
 - [Arrêté du 9 juin 2000 (ECOP0000357A)](arrete-du-9-juin-2000-ecop0000357a)
 - [Arrêté du 9 mars 2000 (ECOD9970021A)](arrete-du-9-mars-2000-ecod9970021a)
+- [Arrêté du 13 décembre 1999 (INTA9900571A)](arrete-du-13-decembre-1999-inta9900571a)
 - [Arrêté du 13 mars 2000 (AGRA0000382A)](arrete-du-13-mars-2000-agra0000382a)
 - [Arrêté du 13 mars 2000 (AGRA0000383A)](arrete-du-13-mars-2000-agra0000383a)
 - [Arrêté du 13 mars 2000 (AGRA0000385A)](arrete-du-13-mars-2000-agra0000385a)
