@@ -8,6 +8,6 @@ Pour la période du 1er janvier 1991 au 31 décembre 1991, le nombre maximum des
 
 3 Service de l'aide technique        925
 
-4 Service de la coopération        5 204
+4 Service de la coopération        5 210
 
-Total            10 669
+Total            10 675
