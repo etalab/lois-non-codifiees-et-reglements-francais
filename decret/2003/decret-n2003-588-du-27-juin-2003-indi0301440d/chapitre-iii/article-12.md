@@ -1,0 +1,3 @@
+# Article 12
+
+Les installations de production doivent être équipées d'un dispositif qui permet de les coupler au réseau public de transport. Les installations doivent en outre être conçues pour que la stabilité de leur fonctionnement soit assurée compte tenu des caractéristiques de leur raccordement au réseau et doivent être équipées des régulations de tension et de vitesse qui sont nécessaires pour atteindre cet objectif. Des pertes de stabilité ne doivent pas être à l'origine d'une dégradation de la qualité de l'électricité sur le réseau public de transport ou de la perturbation des conditions de son exploitation.
