@@ -31,6 +31,7 @@
 - [Décret n°87-36 du 26 janvier 1987](decret-n87-36-du-26-janvier-1987)
 - [Décret n°87-37 du 26 janvier 1987](decret-n87-37-du-26-janvier-1987)
 - [Décret n°87-40 du 26 janvier 1987 (AGRP8700003D)](decret-n87-40-du-26-janvier-1987-agrp8700003d)
+- [Décret n°87-41 du 28 janvier 1987](decret-n87-41-du-28-janvier-1987)
 - [Décret du 29 décembre 1986](decret-du-29-decembre-1986)
 - [Décret n°86-1361 du 29 décembre 1986](decret-n86-1361-du-29-decembre-1986)
 - [Décret n°86-1363 du 29 décembre 1986](decret-n86-1363-du-29-decembre-1986)
