@@ -20,6 +20,7 @@
 - [Décret n°2002-9 du 4 janvier 2002 (MESH0124422D)](decret-n2002-9-du-4-janvier-2002-mesh0124422d)
 - [Décret n°2002-465 du 5 avril 2002 (MESH0220982D)](decret-n2002-465-du-5-avril-2002-mesh0220982d)
 - [Décret n°95-569 du 6 mai 1995 (SPSH9501452D)](decret-n95-569-du-6-mai-1995-spsh9501452d)
+- [Décret n°2002-1064 du 7 août 2002 (PRMX0205836D)](decret-n2002-1064-du-7-aout-2002-prmx0205836d)
 - [Décret n°2002-1244 du 7 octobre 2002 (SANH0222772D)](decret-n2002-1244-du-7-octobre-2002-sanh0222772d)
 - [Décret n°2002-1331 du 7 novembre 2002 (INTC0200254D)](decret-n2002-1331-du-7-novembre-2002-intc0200254d)
 - [Décret n°2002-39 du 9 janvier 2002 (MESP0123909D)](decret-n2002-39-du-9-janvier-2002-mesp0123909d)
