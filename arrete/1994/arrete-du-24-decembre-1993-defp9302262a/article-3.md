@@ -8,6 +8,8 @@ Le conseil de perfectionnement comprend :
 
 le général directeur de l'enseignement militaire supérieur de l'armée de terre, vice-président ;
 
+le général sous-chef d'etat-major de l'armée de terre, division organisation ressources humaines ;
+
 le général commandant les organismes de formation de l'armée de terre ;
 
 le général directeur du personnel militaire de l'armée de terre ;
