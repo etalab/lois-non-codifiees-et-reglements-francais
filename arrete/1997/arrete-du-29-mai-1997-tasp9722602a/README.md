@@ -3,4 +3,5 @@
 - [Section 1 : Dispositions générales.](section-1)
 - [Section 2 : Dispositions applicables aux matériaux constitutifs des canalisations et raccords, des réservoirs et des accessoires.](section-2)
 - [Section 3 : Dispositions particulières applicables aux matériaux constitutifs des supports de traitement des eaux destinées à la consommation humaine.](section-3)
+- [Section 4 : Dispositions transitoires.](section-4)
 - [Article 11](article-11.md)
