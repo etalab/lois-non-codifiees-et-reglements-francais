@@ -34,13 +34,15 @@ b) Composés organiques visés à l'annexe III : si le flux horaire total de com
 
 En cas de mélange de composés à la fois visés et non visés à l'annexe III, la valeur limite de concentration de 20 mg/m3 ne s'impose qu'aux composés visés à l'annexe III et une valeur de 150 mg/m3 s'impose à l'ensemble des composés visés et non visés.
 
-8° Métaux et composés de métaux (gazeux et particulaires) :
+8o Métaux et composés de métaux (gazeux et particulaires) :
 
-a) Rejets de cadmium, mercure et thallium et de leurs composés : si le flux horaire total de cadmium, mercure et thallium et de leurs composés dépasse 1 g/h, la valeur limite de concentration est de 0,2 mg/m3 (exprimée en Cd+Hg+T1) ;
+a) Rejets de cadmium, mercure et thallium, et de leurs composés : si le flux horaire total de cadmium, mercure et thallium, et de leurs composés dépasse 1 g/h, la valeur limite de concentration est de 0,05 mg/m3 par métal et de 0,1 mg/m3 pour la somme des métaux (exprimés en Cd + Hg + Tl) ;
 
-b) Rejets d'arsenic, sélénium et tellure et de leurs composés autres que ceux visés au 12° : si le flux horaire total d'arsenic, sélénium et tellure et de leurs composés dépasse 5 g/h, la valeur limite de concentration est de 1 mg/m3 (exprimée en As + Se + Te) ;
+b) Rejets d'arsenic, sélénium et tellure, et de leurs composés autres que ceux visés au 12o : si le flux horaire total d'arsenic, sélénium et tellure, et de leurs composés, dépasse 5 g/h, la valeur limite de concentration est de 1 mg/m3 (exprimée en As + Se + Te) ;
 
-c) Rejets d'antimoine, chrome, cobalt, cuivre, étain, manganèse, nickel, vanadium, zinc et de leurs composés autres que ceux visés au 12° : si le flux horaire total d'antimoine, chrome, cobalt, cuivre, étain, manganèse (*), nickel, vanadium, zinc (*) et de leurs composés dépasse 25 g/h, la valeur limite de concentration est de 5 mg/m3 (exprimée en Sb + Cr + Co + Cu + Sn + Mn + Ni + V + Zn).
+c) Rejets de plomb et de ses composés : si le flux horaire total de plomb et de ses composés dépasse 10 g/h, la valeur limite de concentration est de 1 mg/m3 (exprimée en Pb) ;
+
+d) Rejets d'antimoine, chrome, cobalt, cuivre, étain, manganèse, nickel, vanadium et zinc, et de leurs composés autres que ceux visés au 12o : si le flux horaire total d'antimoine, chrome, cobalt, cuivre, étain, manganèse (*), nickel, vanadium, zinc (*) et de leurs composés dépasse 25 g/h, la valeur limite de concentration est de 5 mg/m3 (exprimée en Sb + Cr + Co + Cu + Sn + Mn + Ni + V + Zn).
 
 9° Rejets de diverses substances gazeuses :
 
