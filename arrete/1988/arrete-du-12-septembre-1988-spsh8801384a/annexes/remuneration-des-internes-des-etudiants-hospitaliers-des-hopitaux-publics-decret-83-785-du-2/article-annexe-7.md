@@ -82,6 +82,18 @@ Montant brut mensuel de l'indemnité de sujétions particulières allouée pour 
 
 - aux internes de médecine générale : 797
 
+A compter du 1er novembre 1988:
+
+Taux annuel de la rémunération des résidents en médecine :
+
+1re année : 72 626
+
+2e année : 81 930
+
+Montant brut mensuel de l'indemnité de sujétions particulières allouée pour les 2e, 3e et 4e semestres :
+
+- aux résidents en médecine : 797
+
 VI. - Taux annuel des indemnités allouées aux étudiants hospitaliers :
 
 5e et 6e semestre de la deuxième partie du deuxième cycle des études médicales : 14 936

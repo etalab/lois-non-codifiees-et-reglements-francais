@@ -392,6 +392,8 @@
 - [Arrêté du 19 juillet 1988 (SPSS8801088A)](arrete-du-19-juillet-1988-spss8801088a)
 - [Arrêté du 19 novembre 1987 (ECOC8700128A)](arrete-du-19-novembre-1987-ecoc8700128a)
 - [Arrêté du 19 octobre 1987 (BUDD8761211A)](arrete-du-19-octobre-1987-budd8761211a)
+- [Arrêté du 19 octobre 1988 (TEFE8804037A)](arrete-du-19-octobre-1988-tefe8804037a)
+- [Arrêté du 19 octobre 1988 (TEFE8804038A)](arrete-du-19-octobre-1988-tefe8804038a)
 - [Arrêté du 19 septembre 1988 (ECOT8813134A)](arrete-du-19-septembre-1988-ecot8813134a)
 - [Arrêté du 20 août 1987 (COPC8700062A)](arrete-du-20-aout-1987-copc8700062a)
 - [Arrêté du 20 avril 1988 (ASES8800624A)](arrete-du-20-avril-1988-ases8800624a)
