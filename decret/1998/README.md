@@ -74,6 +74,7 @@
 - [Décret du 4 juin 1998 (ECOC9800026D)](decret-du-4-juin-1998-ecoc9800026d)
 - [Décret n°2002-1147 du 4 septembre 2002 (EQUP0201101D)](decret-n2002-1147-du-4-septembre-2002-equp0201101d)
 - [Décret n°98-1017 du 4 novembre 1998 (PRMG9870451D)](decret-n98-1017-du-4-novembre-1998-prmg9870451d)
+- [Décret n°98-1018 du 4 novembre 1998 (PRMX9803211D)](decret-n98-1018-du-4-novembre-1998-prmx9803211d)
 - [Décret n°98-127 du 4 mars 1998 (ECOF9700034D)](decret-n98-127-du-4-mars-1998-ecof9700034d)
 - [Décret n°98-143 du 4 mars 1998 (FPPX9800021D)](decret-n98-143-du-4-mars-1998-fppx9800021d)
 - [Décret n°98-153 du 4 mars 1998 (ECOT9840386D)](decret-n98-153-du-4-mars-1998-ecot9840386d)
