@@ -1,6 +1,6 @@
 # Article 16
 
-La délivrance du baccalauréat général résulte de la délibération du jury. Les épreuves subies par anticipation donnent lieu, dans des conditions définies par arrêté du ministre chargé de l'éducation nationale, à l'attribution de notes, après délibération d'un jury spécifique.
+La délivrance du baccalauréat général résulte de la délibération du jury.
 
 Les membres des jurys mentionnés au premier alinéa sont désignés par le recteur.
 
