@@ -6,3 +6,5 @@
 - [Décret n°88-766 du 22 juin 1988 (ECOF8800007D)](decret-n88-766-du-22-juin-1988-ecof8800007d)
 - [Décret n°88-771 du 22 juin 1988 (JUSC8820430D)](decret-n88-771-du-22-juin-1988-jusc8820430d)
 - [Décret n°88-772 du 22 juin 1988 (ASES8800871D)](decret-n88-772-du-22-juin-1988-ases8800871d)
+- [Décret n°88-774 du 22 juin 1988 (AGRA8800840D)](decret-n88-774-du-22-juin-1988-agra8800840d)
+- [Décret n°88-775 du 22 juin 1988 (AGRA8800841D)](decret-n88-775-du-22-juin-1988-agra8800841d)
