@@ -4,7 +4,7 @@ Peuvent être autorisés dans les casinos les jeux de hasard suivants :
 
 a) La boule et le vingt-trois ;
 
-b) Les autres jeux dits "de contrepartie", à savoir la roulette, la roulette dite "américaine", la roulette dite "anglaise", le trente-et-quarante, le black jack, le craps et le punto banco ;
+b) Les autres jeux dits "de contrepartie", à savoir la roulette, la roulette dite "américaine", la roulette dite "anglaise", le trente-et-quarante, le black jack, le craps, le stud poker de casino et le punto banco ;
 
 c) Les jeux dits "de cercle", à savoir le baccara chemin de fer, le baccara à deux tableaux à banque limitée, le baccara à deux tableaux à banque ouverte et l'écarté ;
 

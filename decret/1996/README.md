@@ -201,6 +201,8 @@
 - [Décret n°96-787 du 10 septembre 1996 (TASP9622432D)](decret-n96-787-du-10-septembre-1996-tasp9622432d)
 - [Décret n°96-790 du 10 septembre 1996 (BUDF9620655D)](decret-n96-790-du-10-septembre-1996-budf9620655d)
 - [Décret n°96-792 du 10 septembre 1996 (TASS9623192D)](decret-n96-792-du-10-septembre-1996-tass9623192d)
+- [Décret n°96-807 du 10 septembre 1996 (MENU9601610D)](decret-n96-807-du-10-septembre-1996-menu9601610d)
+- [Décret n°96-808 du 10 septembre 1996 (INTD9600243D)](decret-n96-808-du-10-septembre-1996-intd9600243d)
 - [Décret n°96-809 du 10 septembre 1996 (AGRA9601475D)](decret-n96-809-du-10-septembre-1996-agra9601475d)
 - [Décret du 10 mai 1996 (FCEC9600017D)](decret-du-10-mai-1996-fcec9600017d)
 - [Décret n°96-388 du 10 mai 1996 (ENVN9640011D)](decret-n96-388-du-10-mai-1996-envn9640011d)
