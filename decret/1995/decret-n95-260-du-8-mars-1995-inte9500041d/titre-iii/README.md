@@ -5,6 +5,7 @@
 - [CHAPITRE III : De la sous-commission départementale pour l'homologation des enceintes sportives.](chapitre-iii)
 - [CHAPITRE IV : De la sous-commission départementale pour la sécurité des terrains de camping et de stationnement de caravanes.](chapitre-iv)
 - [CHAPITRE V : De la sous-commission départementale pour la sécurité contre les risques d'incendie de forêt, lande, maquis et garrigue.](chapitre-v)
+- [Chapitre VI : De la sous-commission départementale pour la sécurité des infrastructures et systèmes de transport](chapitre-vi)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)

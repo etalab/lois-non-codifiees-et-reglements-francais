@@ -22,4 +22,6 @@ Les dérogations aux dispositions relatives à l'accessibilité des personnes ha
 
 5. L'homologation des enceintes destinées à recevoir des manifestations sportives prévue à l'article 42-1 de la loi du 16 juillet 1984 modifiée susvisée.
 
-6. Les prescriptions d'information, d'alerte et d'évacuation permettant d'assurer la sécurité des occupants des terrains de camping et de stationnement de caravanes, conformément aux dispositions de l'article 3 du décret du 13 juillet 1994 susvisé.
+6. Les prescriptions d'information, d'alerte et d'évacuation permettant d'assurer la sécurité des occupants des terrains de camping et de stationnement de caravanes, conformément aux dispositions de l'article R. 125-15 du code de l'environnement.
+
+7. La sécurité des infrastructures et systèmes de transport conformément aux dispositions des articles L. 118-1 et L. 118-2 du code de la voirie routière, 13-1 et 13-2 de la loi n° 82-1153 du 30 décembre 1982, L. 445-1 et L. 445-4 du code de l'urbanisme, L. 155-1 du code des ports maritimes et 30 du code du domaine public fluvial et de la navigation intérieure.

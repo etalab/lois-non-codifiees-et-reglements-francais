@@ -10,6 +10,8 @@ Le préfet peut, après avis de la commission consultative départementale de s�
 
 - une sous-commission départementale pour la sécurité des occupants des terrains de camping et de stationnement de caravanes ;
 
-- une sous-commission départementale pour la sécurité contre les risques d'incendie de forêt, lande, maquis et garrigue.
+- une sous-commission départementale pour la sécurité contre les risques d'incendie de forêt, lande, maquis et garrigue ;
+
+- une sous-commission départementale pour la sécurité des infrastructures et systèmes de transport visés à l'article 2 (7°).
 
 Les avis de ces sous-commissions ont valeur d'avis de la commission consultative départementale de sécurité et d'accessibilité.
