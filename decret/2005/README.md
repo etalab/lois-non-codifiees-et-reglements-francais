@@ -5,6 +5,7 @@
 - [Décret n°2004-951 du 2 septembre 2004 (JUSC0420587D)](decret-n2004-951-du-2-septembre-2004-jusc0420587d)
 - [Décret n°2005-932 du 2 août 2005 (SANH0522491D)](decret-n2005-932-du-2-aout-2005-sanh0522491d)
 - [Décret n°2005-942 du 2 août 2005 (DEFP0500906D)](decret-n2005-942-du-2-aout-2005-defp0500906d)
+- [Décret n°2005-1 du 3 janvier 2005 (ECOF0420176D)](decret-n2005-1-du-3-janvier-2005-ecof0420176d)
 - [Décret n°2005-431 du 3 mai 2005 (EQUP0500290D)](decret-n2005-431-du-3-mai-2005-equp0500290d)
 - [Décret n°2005-1380 du 4 novembre 2005 (MAEA0520396D)](decret-n2005-1380-du-4-novembre-2005-maea0520396d)
 - [Décret n°2005-337 du 7 avril 2005 (EQUA0500105D)](decret-n2005-337-du-7-avril-2005-equa0500105d)
