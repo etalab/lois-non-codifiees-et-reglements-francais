@@ -1,0 +1,3 @@
+# Article 44
+
+Sans préjudice des attributions exercées par les autorités coutumières régulièrement instituées et par les juridictions d'Etat en matière coutumière, dans les cas et conditions prévues par l'ordonnance n° 82-877 du 15 octobre 1982 instituant des assesseurs coutumiers dans le territoire de la Nouvelle-Calédonie et dépendances au tribunal civil de première instance et à la cour d'appel, le conseil consultatif coutumier [*attributions*] exerce une mission de conciliation dans les conflits dont il peut être saisi entre citoyens de statut civil particulier dans les matières régies par ce statut.

@@ -7,3 +7,5 @@
 - [Chapitre V - Des rapports entre l'assemblée territoriale, l'assemblée des pays, le comité d'expansion économique, le gouvernement du territoire et l'Etat.](chapitre-v)
 - [Article 6](article-6.md)
 - [Chapitre VI - Des conseils de pays.](chapitre-vi)
+- [Article 37](article-37.md)
+- [Article 53](article-53.md)
