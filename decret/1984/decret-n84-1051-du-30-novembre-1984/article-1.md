@@ -1,0 +1,3 @@
+# Article 1
+
+Lorsqu'un fonctionnaire n'est plus en mesure d'exercer ses fonctions, de façon temporaire ou permanente, et si les nécessités du service ne permettent pas un aménagement des conditions de travail, l'administration, après avis du médecin de prévention, dans l'hypothèse où l'état de ce fonctionnaire n'a pas rendu nécessaire l'octroi d'un congé de maladie, ou du comité médical si un tel congé a été accordé, peut affecter ce fonctionnaire dans un emploi de son grade, dans lequel les conditions de service sont de nature à permettre à l'intéressé d'assurer les fonctions correspondantes.
