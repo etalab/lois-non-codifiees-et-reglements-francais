@@ -5,6 +5,7 @@
 - [Article 2](article-2.md)
 - [Titre II : Les prestations de subsistance](titre-ii)
 - [Article 3](article-3.md)
+- [Titre III : L'aide au reclassement](titre-iii)
 - [Article 4](article-4.md)
 - [Titre IV : Les prestations sociales](titre-iv)
 - [Titre V : Dispositions diverses](titre-v)
