@@ -16,7 +16,7 @@ b) Pour les ressortissants de la Communauté européenne dont l'Etat membre d'or
 
 4° a) Etre titulaire du diplôme de géomètre-expert foncier décerné par le ministre chargé de l'éducation nationale ou du diplôme d'ingénieur-géomètre délivré par un établissement d'enseignement figurant sur la liste des écoles d'ingénieurs habilitées à cet effet par la commission des titres d'ingénieur prévue par la loi du 10 juillet 1934 relative aux conditions de délivrance et à l'usage du titre d'ingénieur diplômé ;
 
-b) Ou avoir été reconnu qualifié par l'autorité administrative, dans des conditions fixées par décret en Conseil d'Etat. Est reconnu qualifié le ressortissant de la Communauté européenne qui a suivi avec succès un cycle d'études d'une durée minimale de trois ans, ou d'une durée équivalente à temps partiel, dans une université ou un établissement d'enseignement supérieur ou dans un autre établissement de même niveau de formation ainsi que, le cas échéant, la formation professionnelle requise en plus de ce cycle d'études et qui satisfait à l'une des deux conditions ci-après :
+b) Ou avoir été reconnu qualifié par l'autorité administrative, dans des conditions fixées par décret en Conseil d'Etat. Est reconnu qualifié le ressortissant de la Communauté européenne qui a suivi avec succès un cycle d'études d'une durée minimale de trois ans, ou d'une durée équivalente à temps partiel, dans une université ou un établissement d'enseignement supérieur ou dans un autre établissement d'un niveau équivalent de formation ainsi que, le cas échéant, la formation professionnelle requise en plus de ce cycle d'études et qui satisfait à l'une des deux conditions ci-après :
 
 soit être titulaire des diplômes, certiticats ou titres prescrits pour accéder à la profession de géomètre-expert ou l'exercer sur le territoire d'un Etat membre qui la réglemente et posséder les qualifications professionnelles requises pour accéder à cette profession ou l'exercer dans ledit Etat membre ;
 
@@ -28,7 +28,9 @@ soit justifier, par une attestation d'une autorité compétente d'un Etat membre
 
 Sont assimilés à ces titres de formation le ou les titres de formation délivrés par une autorité compétente d'un Etat membre dès lors qu'ils sanctionnent une formation acquise dans la Communauté, qu'ils sont reconnus comme équivalents par cet Etat membre et que cette reconnaissance a été notifiée aux autres Etats membres et à la Commission de la Communauté européenne.
 
-Outre les conditions ci-dessus, l'autorité administrative peut exiger que le demandeur accomplisse un stage d'adaptation ou se soumette à une épreuve d'aptitude préalablement à la reconnaissance de qualification :
+Toutefois, la condition d'une expérience professionnelle de deux ans n'est pas exigée lorsque le ou les titres de formation détenus par le demandeur sanctionnent une formation réglementée directement orientée vers l'exercice de la profession de géomètre expert.
+
+Outre les conditions ci-dessus, l'autorité administrative peut exiger que le demandeur accomplisse un stage d'adaptation ou se soumette à une épreuve d'aptitude préalablement à la reconnaissance de qualification après avoir procédé à la vérification des connaissances acquises par le demandeur :
 
 lorsque la formation du demandeur porte sur des matières substantiellement différentes de celles qui figurent au programme du diplôme de géomètre-expert foncier et de celles qui figurent au programme du diplôme d'ingénieur-géomètre ;
 
