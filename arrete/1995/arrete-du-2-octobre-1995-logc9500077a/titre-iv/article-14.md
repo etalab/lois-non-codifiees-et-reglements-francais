@@ -6,20 +6,18 @@ La durée fixée précédemment reste toutefois en vigueur lorsque les taux de r
 
 La durée de la période 1 fixée en application des dispositions du présent article ne peut toutefois excéder les durées ci-dessous :
 
-REVENU IMPOSABLE DU MÉNAGE
+REVENU FISCAL DE REFERENCE DU MENAGE / DUREE DE LA PERIODE 1
 
-DURÉE de la période 1
+Moins de 12 638 euros / 18 ans
 
-Moins de 82 901 F ; 15 ans
+De 12 638 à 15 793,86 euros / 17 ans
 
-De 82 901 F à 103 600 F ; 15 ans
+De 15 793,87 à 18 949,56 euros / 14 ans 6 mois
 
-De 103 601 F à 124 300 F ; 14 ans 6 mois
+De 18 949,57 à 22 105,25 euros / 8 ans
 
-De 124 301 F à 145 000 F ; 12 ans
+De 22 105,26 à 25 260,95 euros / 8 ans
 
-De 145 001 F à 165 700 F ; 10 ans
+De 25 260,96 à 28 416,64 euros / 6 ans
 
-De 165 701 F à 186 400 F ; 7 ans
-
-Au-dessus de 186 400 F ; 6 ans
+Au-dessus de 28 416,65 euros / 6 ans.
