@@ -22,7 +22,6 @@
 - [Arrêté du 11 janvier 1972](arrete-du-11-janvier-1972)
 - [Arrêté du 11 mars 1972](arrete-du-11-mars-1972)
 - [Arrêté du 12 avril 1972](arrete-du-12-avril-1972)
-- [Arrêté du 12 décembre 1972](arrete-du-12-decembre-1972)
 - [Arrêté du 13 avril 1972](arrete-du-13-avril-1972)
 - [Arrêté du 13 mars 1972](arrete-du-13-mars-1972)
 - [Arrêté du 15 septembre 1972](arrete-du-15-septembre-1972)
