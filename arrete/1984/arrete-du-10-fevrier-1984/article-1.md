@@ -1,19 +1,23 @@
 # Article 1
 
-Le conseil spécialisé pour le secteur du houblon créé par l'article 11 du décret n° 83-246 du 18 mars 1983 portant création de l'Office national interprofessionnel des fruits, des légumes et de l'horticulture comprend, outre son président :
+Le conseil spécialisé pour le secteur des pommes de terre créé par l'article 11 du décret n° 83-246 du 18 mars 1983 portant création de l'Office national interprofessionnel des fruits, des légumes et de l'horticulture comprend, outre son président :
 
-Trois représentants [*nombre*] de la production houblonnière ;
+- sept représentants de la production agricole ;
 
-Deux représentants de la coopération houblonnière ;
+- trois représentants du secteur coopératif agricole ;
 
-Trois représentants du secteur de la brasserie ;
+- quatre représentants de l'industrie de transformation ;
 
-Un représentant du commerce de gros ;
+- quatre représentants du commerce de gros ;
 
-Un représentant des consommateurs ;
+- deux représentants du commerce de détail ;
 
-Un représentant des salariés de la filière ;
+- un représentant des consommateurs ;
 
-Un représentant du ministre chargé de l'agriculture ;
+- un représentant des salariés de la filière ;
 
-Un représentant du ministre chargé de l'économie, des finances et du budget.
+- deux représentants du ministre de l'agriculture ;
+
+- un représentant du ministre chargé de l'économie et des finances ;
+
+- un représentant du ministre chargé du budget.
