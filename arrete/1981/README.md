@@ -11,6 +11,7 @@
 - [Arrêté du 3 mars 1981](arrete-du-3-mars-1981)
 - [Arrêté du 3 septembre 1981](arrete-du-3-septembre-1981)
 - [Arrêté du 4 février 1981](arrete-du-4-fevrier-1981)
+- [Arrêté du 4 septembre 1981](arrete-du-4-septembre-1981)
 - [Arrêté du 4 mai 1981](arrete-du-4-mai-1981)
 - [Arrêté du 5 juin 1981](arrete-du-5-juin-1981)
 - [Arrêté du 6 avril 1981](arrete-du-6-avril-1981)
