@@ -520,7 +520,6 @@
 - [Décret n°95-1101 du 11 octobre 1995 (EQUZ9501520D)](decret-n95-1101-du-11-octobre-1995-equz9501520d)
 - [Décret n°95-1281 du 11 décembre 1995 (BUDF9500019D)](decret-n95-1281-du-11-decembre-1995-budf9500019d)
 - [Décret n°95-1282 du 11 décembre 1995 (BUDF9500020D)](decret-n95-1282-du-11-decembre-1995-budf9500020d)
-- [Décret n°95-1286 du 11 décembre 1995 (DEFF9502029D)](decret-n95-1286-du-11-decembre-1995-deff9502029d)
 - [Décret n°95-386 du 11 avril 1995 (BUDX9410021D)](decret-n95-386-du-11-avril-1995-budx9410021d)
 - [Décret n°95-39 du 11 janvier 1995 (SPSS9403764D)](decret-n95-39-du-11-janvier-1995-spss9403764d)
 - [Décret n°95-42 du 11 janvier 1995 (LOGC9400083D)](decret-n95-42-du-11-janvier-1995-logc9400083d)
