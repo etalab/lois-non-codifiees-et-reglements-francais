@@ -12,4 +12,4 @@ Elle mentionne en outre :
 
 4° Les pièces produites par le déclarant pour justifier que les conditions de recevabilité de la déclaration sont remplies.
 
-La liste des pièces nécessaires à la preuve de la recevabilité de ladite déclaration est remise par écrit par l'autorité qui la reçoit au déclarant.
+Tous les documents rédigés en langue étrangère doivent être accompagnés de leur traduction par un traducteur agréé, produite en original.
