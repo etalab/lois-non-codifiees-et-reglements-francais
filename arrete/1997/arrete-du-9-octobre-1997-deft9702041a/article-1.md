@@ -1,3 +1,3 @@
 # Article 1
 
-Il est créé au ministère de la défense, au bureau secondaire de sécurité de défense de la région militaire de défense nord-est, circonscription militaire de défense de Metz, un traitement automatisé d'informations nominatives dénommé Fichier Habilitations SD et TSC dont la finalité est la gestion des habilitations secret défense et secret OTAN délivrées par le général gouverneur militaire de Metz, commandant la région militaire de défense nord-est et la circonscription militaire de défense de Metz, et des habilitations très secret COSMIC délivrées par le secrétariat général de la défense nationale.
+Il est créé au ministère de la défense, au bureau secondaire de sécurité défense de l'état-major de la région militaire de défense Nord-Est et de la circonscription militaire de défense de Metz, un traitement automatisé d'informations nominatives dont la finalité est la gestion des habilitations délivrées en circonscription militaire de défense de Metz.

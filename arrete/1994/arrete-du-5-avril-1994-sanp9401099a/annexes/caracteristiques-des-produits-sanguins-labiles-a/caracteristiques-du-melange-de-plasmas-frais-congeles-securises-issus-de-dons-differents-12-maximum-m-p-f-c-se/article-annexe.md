@@ -8,7 +8,7 @@ II. Définition et description
 
 Le mélange de plasmas frais congelés humains homologues sécurisés issus de dons différents (12 au maximum) et de même groupe sanguin ABO est obtenu par le regroupement après décongélation dans le même récipient stérile et apyrogène de plusieurs plasmas frais congelés sécurisés.
 
-Le mélange peut être préparé à partir de plasmas frais congelés sécurisés issus d'aphérèse et/ou de sang total conservés congelés à une température inférieure ou égale à  25 °C pendant des durées éventuellement différentes.
+Le mélange peut être préparé à partir de plasmas frais congelés sécurisés issus d'aphérèse conservés congelés à une température inférieure ou égale à  25 °C pendant des durées éventuellement différentes.
 
 Le volume minimal du mélange est de 400 ml. Les numéros des dons composant le mélange ainsi que son volume sont systématiquement enregistrés.
 

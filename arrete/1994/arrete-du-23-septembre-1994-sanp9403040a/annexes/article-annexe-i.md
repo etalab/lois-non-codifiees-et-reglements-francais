@@ -1,34 +1,48 @@
 # Article Annexe I
 
-TRANSFORMATION DES P.S.L. : ADDITION D'UNE SOLUTION SUPPLÉMENTAIRE DE CONSERVATION EN PHASE LIQUIDE
+TRANSFORMATION DES P.S.L. VIRO-ATTÉNUATION
+
+PAR TRAITEMENT PHYSICO-CHIMIQUE
 
 I. - DÉNOMINATION
 
-Concentré de globules rouges unité adulte, suivi des initiales de la solution supplémentaire de conservation.
+Plasma frais congelé viro-atténué par solvant détergent.
 
 II. - DÉFINITION ET DESCRIPTION
 
-Le concentré de globules rouges humains homologues unité adulte avec solution supplémentaire de conservation est une suspension de globules rouges obtenue aseptiquement par addition d'une solution supplémentaire de conservation à une unité adulte de concentré de globules rouges humains homologues. Il est préparé dans un récipient autorisé, clos, stérile et apyrogène.
+Le plasma frais congélé viro-atténué par solvant détergent est préparé par les centres de transfusion sanguine autorisés spécifiquement.
 
-Cette addition a lieu dans un délai maximal de trois jours après la fin du prélèvement et immédiatement après soustraction du plasma.
+Il est préparé à partir d'un mélange de plasmas frais obtenus aseptiquement chez les donneurs jugés aptes médicalement. Il est préparé majoritairement à partir de plasma frais congelé issu d'aphérèse. Il peut être préparé à partir de plasma frais congelé issu de sang total dans une proportion n'excédant pas 25 %. Le mélange provient de 100 dons au plus, de même groupe sanguin ABO. Il est suivi d'un traitement par une méthode d'atténuation virale agréée dite solvant-détergent.
 
-Il se présente comme un liquide rouge sombre.
+Les plasmas frais congelés servant à préparer le plasma frais congelé viro-atténué présentent les caractéristiques suivantes :
 
-Le volume minimal du concentré de globules rouges humains homologues avant addition de la solution supplémentaire de conservation est de 140 ml. Le volume de chaque unité est systématiquement enregistré.
+- le volume minimal est de 200 ml. Ce volume tient compte du volume de la solution anticoagulante ;
 
-Son hématocrite est compris entre 50 et 70 p. 100.
+- la congélation est réalisée dès que possible et au maximum dans les six heures qui suivent la fin du prélèvement ;
+
+- la teneur minimale en facteur VIII est de 0,9 U.I./ml. La vérification de cette teneur doit être faite sur un mélange d'au moins 10 unités de plasma ;
+
+- le délai de conservation est de trois mois à partir de la fin du prélèvement.
+
+Le plasma frais congelé viro-atténué est réparti dans des récipients autorisés, stériles et apyrogènes, puis conservé congelé sous un volume minimal de 200 ml. Les numéros de dons composant chaque lot sont systématiquement enregistrés.
+
+Après décongélation, il renferme au minimum 0,7 U.I./ml de facteur VIII.
+
+Il est stérile et apyrogène et chaque lot respecte les spécifications définies dans le dossier technique agréé par l'Agence française du sang.
+
+Il se présente après décongélation comme un liquide limpide à lègèrement trouble.
 
 III. - ÉTIQUETAGE
 
+A. - Etiquette des plasmas frais congelés servant à la préparation du plasma frais congelé viro-atténué par solvant détergent
+
 1. Etiquette de fond de poche
 
-a) Destinée à être recouverte par l'étiquette apposée par l'Etablissement de transfusion sanguine (E.T.S.) :
+Elle comporte au minimum les mentions suivantes :
+
+a) Destinée à être recouverte par l'étiquette apposée par l'établissement de transfusion sanguine (E.T.S.) :
 
 La mention Ne pas injecter en l'état.
-
-La mention Ne pas utiliser si la solution est trouble.
-
-La dénomination, la composition et le volume des solutions anticoagulante ou supplémentaire de conservation selon le dispositif de prélèvement utilisé et leur caractère stérile et exempt de substances pyrogènes.
 
 Le numéro de lot du récipient en code à barres.
 
@@ -44,19 +58,13 @@ La mention Ne pas réutiliser.
 
 La mention Ne pas utiliser le produit s'il présente des signes visibles d'altération.
 
-La mention Ne pas utiliser de prise d'air.
-
-La mention Injecter le produit sanguin par voie intraveineuse au moyen d'un dispositif muni d'un filtre.
-
 2. Etiquette apposée par l'E.T.S.
 
-La dénomination du produit : Concentré de globules rouges unité adulte suivi des initiales des solutions anticoagulante et supplémentaire de conservation.
+La dénomination du produit : Plasma frais congelé d'aphérèse ou plasma frais congelé issu de sang total.
 
 Le code du produit (1) (code national approuvé par l'A.F.S.).
 
-Le contenu en hémoglobine : hémoglobine supérieure ou égale à 45 g ou contenu en hémoglobine calculé en grammes.
-
-Le volume : volume supérieur ou égal à 140 ml ou volume calculé en millilitres dont X ml de solution supplémentaire de conservation.
+Le volume calculé en ml, suivi des initiales de l'anticoagulant et de la mention volume inférieur ou égal à 20 p. 100.
 
 Le nom, la ville et le numéro de téléphone de l'E.T.S. agréé responsable de la préparation.
 
@@ -68,24 +76,50 @@ Les groupes sanguins ABO et Rh D (RH 1) (1).
 
 La présence éventuelle d'anticorps immuns anti-A ou anti-B ; dans ce dernier cas, sera ajoutée la mention Réserver exclusivement à une transfusion isogroupe ABO.
 
-S'il y a lieu, noter la présence d'anticorps anti-érythrocytaires irréguliers avec mention de la spécificité en précisant les indications transfusionnelles : Présence d'anticorps anti-X. Réserver à un receveur X négatif.
+La mention Prélevé le (date).
 
-La mention Prélevé le  (date).   La mention Utiliser avant le  (date) ou la mention Utiliser avant le  à  (date et heure) en cas d'ouverture intentionnelle de la poche lors de la préparation ou pendant la conservation.
+La mention Conserver à une température inférieure ou égale à - 25 °C.
 
-La mention Conserver entre + 2 °C et + 8 °C.
+La mention NE PAS TRANSFUSER.
 
-IV. - CONDITIONS ET DURÉE DE CONSERVATION
+B. - Etiquette du plasma frais congelé viro-atténué
 
-Le concentré de globules rouges unité adulte avec solution supplémentaire de conservation doit être conservé à une température comprise entre + 2 °C et + 8 °C.
+par solvant détergent
 
-La durée de conservation est de quarante-deux jours à compter de la fin du prélèvement, dans le cas de l'utilisation de la solution SAG Mannitol. La prolongation de la durée de conservation peut être envisagée en fonction de l'évolution des techniques et de l'utilisation de solutions spécifiques autorisées. En cas d'ouverture intentionnelle de la poche, lors de la préparation ou pendant la conservation, le concentré de globules rouges unité adulte peut être conservé au maximum vingt-quatre heures.
+La dénomination du produit : Plasma frais congelé viro-atténué S.D..
 
-Si une phase de transport intervient au cours de la conservation, la température ne peut dépasser de plus de 2 °C la température maximale de conservation pendant vingt-quatre heures.
+Le code du produit (1) (code national approuvé par l'A.F.S.).
 
-A l'issue de la phase de conservation, une vérification visuelle est effectuée sur chaque unité thérapeutique au moment de la distribution afin d'éliminer les poches présentant des défauts ou dont l'aspect du contenu serait suspect, notamment :
+La mention Volume : 200 ml.
 
-- altération de la couleur ;
+Le nom, la ville et le numéro de téléphone du centre de transfusion sanguine agréé.
 
-- aspect coagulé.
+Le code de l'E.T.S. (1) (code national approuvé par l'A.F.S.).
+
+Le numéro de lot (1).
+
+Le groupe sanguin ABO (1) (code national approuvé par l'A.F.S.).
+
+La présence éventuelle d'anticorps immuns anti-A ou anti-B ; dans ce dernier cas, sera ajoutée la mention Réserver exclusivement à une transfusion isogroupe ABO.
+
+La mention Préparé le (date).
+
+La mention Utiliser avant le (date).
+
+La mention Conserver à une température inférieure ou égale à - 25 °C.
+
+La mention Utiliser immédiatement après décongélation à + 37 °C.
+
+La mention Ne pas recongeler.
+
+IV. - CONDITIONS ET DURÉE DE CONSERVATION,
+
+DÉCONGÉLATION
+
+Le plasma frais congelé viro-atténué doit être conservé à une température inférieure ou égale à - 25 °C. La durée maximale de conservation est de un an à partir de la date de préparation.
+
+Si une phase de transport intervient au cours de la conservation, le plasma frais congelé viro-atténué doit être conservé dans un emballage et sa température doit être maintenue aussi proche que possible de la température de conservation. A l'arrivée, les poches doivent être restées congelées. Elles doivent être transférées sans délai dans un lieu de conservation où règne la température réglementaire.
+
+Les conditions de décongélation, la vérification visuelle au moment de la distribution et le délai d'utilisation après décongélation sont identiques à ceux du plasma frais congelé sécurisé issu d'aphérèse.
 
 (1) Ces items doivent figurer en clair et en code à barres dans le même sens de lecture.
