@@ -1,3 +1,3 @@
 # Article 2
 
-Lorsque des produits préemballés identiques sont présentés en poids ou en volumes égaux et exposés ensemble à la vue du public, les mentions [*obligatoires*] prévues à l'article précédent peuvent être portées sur un seul écriteau figurant à proximité des produits considérés [*étiquetage - dispense*].
+Pour les redevables qui seront admis au paiement sur états, la période visée à l'article 1er débutera le 1er du mois suivant celui de la notification de l'autorisation. Pour les redevables recourant actuellement au paiement sur états mensuels, le trimestre de référence prendra cours le premier jour du mois suivant celui de la publication du présent arrêté.
