@@ -1,3 +1,5 @@
 # Article 4
 
-Les maîtres et maîtresses d'internat intérimaires, après un an de fonctions soit dans les lycées, soit dans les collèges, soit dans les cours secondaires, peuvent être nommés stagiaires par le recteur, tenant compte de l'obligation du deuxième alinéa de l'article 1er, sur la proposition de l'inspecteur d'académie et après avis du doyen de la faculté fréquentée par le candidat.  Les fonctions du maître d'internat cessent de plein droit si, à l'expiration de la première année, il n'est pas proposé pour la nomination en qualité de stagiaire ou admis à faire un nouvel intérim qui sera, au maximum, d'un an.
+L'emploi de toute indication ou signe susceptible de créer dans l'esprit de l'acheteur une confusion sur la provenance du produit, sur la teneur en éléments utiles, ainsi que sur la nature et l'état combiné ou non de ceux-ci, est interdit en toutes circonstances et sous quelque forme que ce soit.
+
+Toute personne qui fait le commerce des produits visés par le présent décret est tenue d'adresser au ministère de l'agriculture, direction de la répression des fraudes, avant toute publicité, deux exemplaires de tous ces catalogues et prospectus, concernant la vente desdits produits. Elle pourra être obligée de fournir toutes justifications utiles aux agents qualifiés pour établir la sincérité de ses allégations.
