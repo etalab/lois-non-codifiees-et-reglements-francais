@@ -868,7 +868,6 @@
 - [Arrêté du 22 février 1996 (MENU9600469A)](arrete-du-22-fevrier-1996-menu9600469a)
 - [Arrêté du 22 février 1996 (MENU9600470A)](arrete-du-22-fevrier-1996-menu9600470a)
 - [Arrêté du 22 février 1996 (MIPP9600092A)](arrete-du-22-fevrier-1996-mipp9600092a)
-- [Arrêté du 22 janvier 1996 (DEFD9601090A)](arrete-du-22-janvier-1996-defd9601090a)
 - [Arrêté du 22 janvier 1996 (ECOP9500510A)](arrete-du-22-janvier-1996-ecop9500510a)
 - [Arrêté du 22 janvier 1996 (ECOP9500511A)](arrete-du-22-janvier-1996-ecop9500511a)
 - [Arrêté du 22 janvier 1996 (ECOP9500668A)](arrete-du-22-janvier-1996-ecop9500668a)
