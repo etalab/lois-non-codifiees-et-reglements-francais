@@ -18,6 +18,10 @@ Toutefois, les fonctionnaires appartenant au corps des ingénieurs hospitaliers 
 
 En outre, les directeurs territoriaux et les fonctionnaires titulaires d'un grade dont l'indice terminal est au moins égal à l'indice brut 985 peuvent être détachés dans un emploi de :
 
-1. Directeur général adjoint des services des départements jusqu'à 900 000 habitants ;
+1. Directeur général des services d'une commune de 40 000 à 80 000 habitants ;
 
-2. Directeur général adjoint des services des régions jusqu'à 2 000 000 habitants.
+2. Directeur général adjoint des communes de 150 000 à 400 000 habitants ;
+
+3. Directeur général adjoint des services des départements jusqu'à 900 000 habitants ;
+
+4. Directeur général adjoint des services des régions jusqu'à 2 000 000 d'habitants.
