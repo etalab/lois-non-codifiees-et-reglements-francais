@@ -54,6 +54,8 @@
 
 - responsables de services ou d'équipes techniques.
 
+- responsable d'unité administrative délocalisée du Centre international d'études pédagogiques .
+
 7. Fonctions pouvant donner lieu au versement d'une nouvelle bonification indiciaire et exercées au Centre national des oeuvres universitaires et scolaires (C.N.O.U.S.) et dans les centres régionaux des oeuvres universitaires et scolaires (C.R.O.U.S.) :
 
 - responsables d'unités administratives du centre national, des centres régionaux et locaux ;

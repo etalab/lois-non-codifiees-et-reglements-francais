@@ -53,3 +53,9 @@ Chef de triage exerçant, outre les fonctions afférentes à son emploi, certain
 Poste de responsable exerçant des fonctions requérant une forte technicité dans un domaine logistique, administratif, de communication ou de contrôle de gestion.
 
 Agent exerçant des fonctions requérant une forte technicité dans un domaine logistique, administratif, juridique, financier, en matière de communication, de mise en oeuvre de procédures ou de secrétariat.
+
+IV. - Au titre de la rénovation des statuts dans le cadre du contrat d'objectifs :
+
+Poste de technicien supérieur comportant un niveau de technicité et des compétences particulièrement importantes ;
+
+Poste d'adjoint administratif nécessitant des compétences et des responsabilités spécifiques.
