@@ -9,6 +9,7 @@
 - [Décret n°69-50 du 10 janvier 1969](decret-n69-50-du-10-janvier-1969)
 - [Décret n°69-51 du 10 janvier 1969](decret-n69-51-du-10-janvier-1969)
 - [Décret n°69-52 du 10 janvier 1969](decret-n69-52-du-10-janvier-1969)
+- [Décret n°69-190 du 15 février 1969](decret-n69-190-du-15-fevrier-1969)
 - [Décret n°68-1163 du 16 décembre 1968](decret-n68-1163-du-16-decembre-1968)
 - [Décret n°69-945 du 16 octobre 1969](decret-n69-945-du-16-octobre-1969)
 - [Décret n° 70-138 du 17 février 1970](decret-n-70-138-du-17-fevrier-1970)
