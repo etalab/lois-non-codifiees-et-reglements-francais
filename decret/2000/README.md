@@ -520,7 +520,6 @@
 - [Décret n°2000-1298 du 26 décembre 2000 (AGRB0002368D)](decret-n2000-1298-du-26-decembre-2000-agrb0002368d)
 - [Décret n°2000-1299 du 26 décembre 2000 (AGRB0002369D)](decret-n2000-1299-du-26-decembre-2000-agrb0002369d)
 - [Décret n°2000-1300 du 26 décembre 2000 (AGRP0002534D)](decret-n2000-1300-du-26-decembre-2000-agrp0002534d)
-- [Décret n°2000-1301 du 26 décembre 2000 (AGRS0002299D)](decret-n2000-1301-du-26-decembre-2000-agrs0002299d)
 - [Décret n°2000-1302 du 26 décembre 2000 (ATEP0080002D)](decret-n2000-1302-du-26-decembre-2000-atep0080002d)
 - [Décret n°2000-1303 du 26 décembre 2000 (ATEE0080094D)](decret-n2000-1303-du-26-decembre-2000-atee0080094d)
 - [Décret n°2000-1304 du 26 décembre 2000 (FPPA0000144D)](decret-n2000-1304-du-26-decembre-2000-fppa0000144d)
