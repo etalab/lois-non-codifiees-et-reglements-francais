@@ -25,6 +25,7 @@
 - [Arrêté du 6 janvier 1987 (MDSC8700059A)](arrete-du-6-janvier-1987-mdsc8700059a)
 - [Arrêté du 6 mars 1987](arrete-du-6-mars-1987)
 - [Arrêté du 6 mars 1987 (ECOT8733002A)](arrete-du-6-mars-1987-ecot8733002a)
+- [Arrêté du 6 mars 1987 (RESS8700068A)](arrete-du-6-mars-1987-ress8700068a)
 - [Arrêté du 6 octobre 1986 (DEFC8701012A)](arrete-du-6-octobre-1986-defc8701012a)
 - [Arrêté du 7 janvier 1987](arrete-du-7-janvier-1987)
 - [Arrêté du 7 janvier 1987 (ECOA8700001A)](arrete-du-7-janvier-1987-ecoa8700001a)
