@@ -1,5 +1,5 @@
 # Article 7
 
-Le prêt ne peut excéder soixante pour cent de la valeur de la propriété [*montant maximum*]. Cette limite peut toutefois être dépassée lorsque, outre l'hypothèque, le prêt est assorti de la garantie de l'Etat, d'une collectivité locale, d'un établissement public groupant des collectivités locales ou d'une chambre de commerce et d'industrie, pour sa totalité ou pour la partie excédant la quotité ci-dessus définie.
+Le prêt ne peut excéder soixante pour cent de la valeur de la propriété [*montant maximum*]. Cette quotité peut toutefois être dépassée lorsque l'une des garanties mentionnées au premier alinéa de l'article 6 vient en complément de l'hypothèque au moins pour la fraction du prêt excédant ladite quotité.
 
-Le prêt peut atteindre 90 % de la valeur de la propriété lorsque, outre l'hypothèque, le prêt est consenti en application de la loi du 3 janvier 1977 susvisée pour la construction, l'acquisition ou l'amélioration de logements soit dans le cadre de conventions passées avec l'Etat, soit avec des sûretés ou garanties complémentaires.
+Cette quotité peut également être dépassée lorsque le prêt est réalisé dans le cadre de conventions passées avec l'une des personnes morales énumérées au premier alinéa de l'article 6 et dans la zone géographique définie par ce même alinéa.

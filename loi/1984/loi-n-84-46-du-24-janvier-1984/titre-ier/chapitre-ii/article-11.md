@@ -1,6 +1,6 @@
 # Article 11
 
-Sans préjudice des dispositions particulières qui leur sont applicables, les interdictions définies à l'article 10 ci-dessus ne visent ni les personnes et services énumérés à l'article 8, ni les entreprises régies par le code des assurances, ni les sociétés de réassurance, ni les sociétés de bourse, ni les organismes collecteurs de la participation des employeurs à l'effort de construction pour les opérations prévues par le code de la construction et de l'habitation.
+Sans préjudice des dispositions particulières qui leur sont applicables, les interdictions définies à l'article 10 ci-dessus ne visent ni les personnes et services énumérés à l'article 8, ni les entreprises régies par le code des assurances, ni les sociétés de réassurance, ni les agents de change, ni les organismes collecteurs de la participation des employeurs à l'effort de construction pour les opérations prévues par le code de la construction et de l'habitation, ni les fonds communs de créances.
 
 L'interdiction relative aux opérations de crédit ne s'applique pas :
 

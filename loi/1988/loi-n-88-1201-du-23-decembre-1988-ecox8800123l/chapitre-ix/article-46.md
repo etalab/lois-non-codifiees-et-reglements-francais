@@ -1,0 +1,7 @@
+# Article 46
+
+I. - Seront punis d'un emprisonnement de six mois à deux ans et d'une amende de 10 000 F à 100 000 F ou de l'une de ces deux peines seulement [*sanctions pénales*] les dirigeants de la société de gestion d'un fonds commun de placement ou d'un fonds commun de créances qui n'auront pas provoqué la désignation du commissaire aux comptes du fonds dans le conditions prévues à l'article 16.
+
+II. - Sera puni d'un emprisonnement d'un an à cinq ans et d'une amende de 10 000 F à 120 000 F ou de l'une de ces deux peines seulement tout commissaire aux comptes qui, soit en son nom personnel, soit au titre d'associé dans une société de commissaire aux comptes, aura sciemment donné ou confirmé des informations mensongères sur la situation du fonds commun de placement ou du fonds commun de créance, ou qui n'aura pas révélé au procureur de la République les faits délictueux dont il aura eu connaissance.
+
+III. - Seront punis d'un emprisonnement d'un an à cinq ans et d'une amende de 10 000 F à 120 000 F ou de l'une de ces deux peines seulement les dirigeants de la société de gestion ou de la personne morale dépositaire d'un fonds commun de placement ou d'un fonds commun de créances, et toutes personnes placées sous leur autorité, qui auront sciemment mis obstacle aux vérifications ou contrôles des commissaires aux comptes ou qui leur auront refusé la communication sur place de toutes les pièces utiles à l'exercice de leur mission et, notamment, de tous contrats, livres, documents comptables et registres de procès-verbaux.
