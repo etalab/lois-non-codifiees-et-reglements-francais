@@ -8,12 +8,16 @@ Le président exerce notamment les compétences suivantes :
 
 3° Il prépare et exécute le budget ;
 
-4° Il conclut tous contrats et conventions au nom de l'établissement, avec l'autorisation du conseil d'administration ;
+4° Il conclut tous contrats et conventions au nom de l'établissement ;
 
-5° Il est ordonnateur des recettes et des dépenses de l'établissement ;
+5° Il est ordonnateur principal des recettes et des dépenses de l'établissement ;
 
-6° Il a autorité sur l'ensemble des personnels de l'établissement public ;
+6° Il recrute, gère et licencie le personnel de l'établissement ;
 
-7° Il accomplit tous actes conservatoires, notamment pour l'acceptation des libéralités.
+7° Il accomplit tous actes conservatoires, notamment pour l'acceptation des libéralités ;
 
-Pour l'exercice de ses attributions, le président peut déléguer sa signature au directeur de l'établissement.
+8° Il peut accorder des délégations de pouvoir au directeur de l'établissement ;
+
+9° Il peut nommer des ordonnateurs secondaires ;
+
+10° Il peut accorder des délégations de signature au directeur de l'établissement, au directeur des services administratifs, au directeur des services techniques et, le cas échéant, après l'approbation du conseil d'administration, aux chefs de service.

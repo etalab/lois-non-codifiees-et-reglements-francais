@@ -10,6 +10,12 @@ Le conseil d'administration délibère sur :
 
 4° Les actions en justice et les transactions ;
 
-5° Les dons et legs.
+5° Les dons et legs ;
 
-Il donne son accord sur la passation des marchés. Il peut être saisi de toutes questions concernant le déroulement des travaux.
+6° Les conditions générales de passation des marchés ;
+
+7° Le rapport annuel d'activité.
+
+Il approuve le marché lorsque le président de l'établissement souhaite retenir un marché pour lequel la commission d'appel d'offres a donné un avis défavorable.
+
+Il est informé des conventions conclues avec les établissements d'enseignement supérieur et de recherche ayant une incidence financière.
