@@ -1,0 +1,3 @@
+# Article 1
+
+Les cotisations et contributions de sécurité sociale, la cotisation et la contribution dues au Fonds national d'aide au logement mentionnées aux 1° et 2° de l'article L. 834-1 du code de la sécurité sociale, ainsi que le versement destiné au financement des transports en commun mentionné aux articles L. 2333-64 et L. 2531-2 du code général des collectivités locales, dû pour l'emploi des personnes recrutées à titre temporaire en qualité d'agent recenseur, en application du troisième alinéa de l'article 156-V de la loi du 27 février 2002 susvisée, sont calculées sur la base d'une assiette forfaitaire égale à 15 % du plafond mensuel de la sécurité sociale par période d'activité.

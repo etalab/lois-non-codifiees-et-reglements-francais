@@ -158,6 +158,7 @@
 - [Décret n°2004-83 du 23 janvier 2004 (SANP0324239D)](decret-n2004-83-du-23-janvier-2004-sanp0324239d)
 - [Décret n°94-1013 du 23 novembre 1994 (DEFP9401757D)](decret-n94-1013-du-23-novembre-1994-defp9401757d)
 - [Décret n°2004-1254 du 24 novembre 2004 (PRMX0407791D)](decret-n2004-1254-du-24-novembre-2004-prmx0407791d)
+- [Décret n°2004-180 du 24 février 2004 (VILC0410183D)](decret-n2004-180-du-24-fevrier-2004-vilc0410183d)
 - [Décret n°2004-443 du 24 mai 2004 (DEFP0400286D)](decret-n2004-443-du-24-mai-2004-defp0400286d)
 - [Décret n°2004-444 du 24 mai 2004 (DEFP0400288D)](decret-n2004-444-du-24-mai-2004-defp0400288d)
 - [Décret du 25 mars 1993 (DEFD9301297D)](decret-du-25-mars-1993-defd9301297d)
