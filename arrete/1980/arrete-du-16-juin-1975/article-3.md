@@ -2,286 +2,86 @@
 
 Les coefficients d'équivalence et les seuils d'application valant abattement à la base, applicables aux élevages ne nécessitant pas l'utilisation du sol agricole sont fixés comme suit :
 
-<table>
-<tr>
-<td> :===================================:</td>
-</tr>
-<tr>
-<td> : NATURE DE L'ELEVAGE : (I)         :</td>
-</tr>
-<tr>
-<td> :---------------------:-------------:</td>
-</tr>
-<tr>
-<td> : I. Aviculture et    :             :</td>
-</tr>
-<tr>
-<td> : cuniculiculture     :             :</td>
-</tr>
-<tr>
-<td> : Equivalence en ares :             :</td>
-</tr>
-<tr>
-<td> : pour 1 m2 de        :             :</td>
-</tr>
-<tr>
-<td> : clapier ou de       :             :</td>
-</tr>
-<tr>
-<td> : poulailler          :             :</td>
-</tr>
-<tr>
-<td> : Poules pondeuses    :    1,4 a    :</td>
-</tr>
-<tr>
-<td> : Poulets de chair    :    0,7 a    :</td>
-</tr>
-<tr>
-<td> : Lapins              :    3,5 a    :</td>
-</tr>
-<tr>
-<td> : II. Elevages porcin :             :</td>
-</tr>
-<tr>
-<td> : et bovin            :             :</td>
-</tr>
-<tr>
-<td> : Equivalence en      :             :</td>
-</tr>
-<tr>
-<td> : hectares par animal :             :</td>
-</tr>
-<tr>
-<td> : Truies (naisseurs)  :    0,20 ha  :</td>
-</tr>
-<tr>
-<td> : Truies (naisseurs   :             :</td>
-</tr>
-<tr>
-<td> : engraisseurs)       :    0,40 ha  :</td>
-</tr>
-<tr>
-<td> : Porcs à l'engrais   :    0,017 ha :</td>
-</tr>
-<tr>
-<td> : Veaux en batterie   :    0,035 ha :</td>
-</tr>
-<tr>
-<td> :=====================:=============:</td>
-</tr>
-</table>
+TERRE PLAINE, MORVAN
 
-(I) Montagne vosgienne et communes viticoles du Toulois.
+NATURE DE L'ELEVAGE :
 
-<table>
-<tr>
-<td>:===================================:</td>
-</tr>
-<tr>
-<td> : NATURE DE L'ELEVAGE : (II)        :</td>
-</tr>
-<tr>
-<td> :---------------------:-------------:</td>
-</tr>
-<tr>
-<td> : I. Aviculture et    :             :</td>
-</tr>
-<tr>
-<td> : cuniculiculture     :             :</td>
-</tr>
-<tr>
-<td> : Equivalence en ares :             :</td>
-</tr>
-<tr>
-<td> : pour 1 m2 de        :             :</td>
-</tr>
-<tr>
-<td> : clapier ou de       :             :</td>
-</tr>
-<tr>
-<td> : poulailler          :             :</td>
-</tr>
-<tr>
-<td> : Poules pondeuses    :    2,6 a    :</td>
-</tr>
-<tr>
-<td> : Poulets de chair    :    1,3 a    :</td>
-</tr>
-<tr>
-<td> : Lapins              :    6,5 a    :</td>
-</tr>
-<tr>
-<td> : II. Elevages porcin :             :</td>
-</tr>
-<tr>
-<td> : et bovin            :             :</td>
-</tr>
-<tr>
-<td> : Equivalence en      :             :</td>
-</tr>
-<tr>
-<td> : hectares par animal :             :</td>
-</tr>
-<tr>
-<td> : Truies (naisseurs)  :    0,40 ha  :</td>
-</tr>
-<tr>
-<td> : Truies (naisseurs   :             :</td>
-</tr>
-<tr>
-<td> : engraisseurs)       :    0,80 ha  :</td>
-</tr>
-<tr>
-<td> : Porcs à l'engrais   :    0,033 ha :</td>
-</tr>
-<tr>
-<td> : Veaux en batterie   :    0,065 ha :</td>
-</tr>
-<tr>
-<td> :=====================:=============:</td>
-</tr>
-</table>
+I. Aviculture et cuniculiculture
 
-(II) Plateau lorrain, La Haye, Côtes de Meuse.
+Equivalence en ares pour 1 m2 de clapier ou de poulailler
 
-<table>
-<tr>
-<td>:===================================:</td>
-</tr>
-<tr>
-<td> : NATURE DE L'ELEVAGE : (III)       :</td>
-</tr>
-<tr>
-<td> :---------------------:-------------:</td>
-</tr>
-<tr>
-<td> : I. Aviculture et    :             :</td>
-</tr>
-<tr>
-<td> : cuniculiculture     :             :</td>
-</tr>
-<tr>
-<td> : Equivalence en ares :             :</td>
-</tr>
-<tr>
-<td> : pour 1 m2 de        :             :</td>
-</tr>
-<tr>
-<td> : clapier ou de       :             :</td>
-</tr>
-<tr>
-<td> : poulailler          :             :</td>
-</tr>
-<tr>
-<td> : Poules pondeuses    :     3 a     :</td>
-</tr>
-<tr>
-<td> : Poulets de chair    :    1,5 a    :</td>
-</tr>
-<tr>
-<td> : Lapins              :    7,5 a    :</td>
-</tr>
-<tr>
-<td> : II. Elevages porcin :             :</td>
-</tr>
-<tr>
-<td> : et bovin            :             :</td>
-</tr>
-<tr>
-<td> : Equivalence en      :             :</td>
-</tr>
-<tr>
-<td> : hectares par animal :             :</td>
-</tr>
-<tr>
-<td> : Truies (naisseurs)  :    0,45 ha  :</td>
-</tr>
-<tr>
-<td> : Truies (naisseurs   :             :</td>
-</tr>
-<tr>
-<td> : engraisseurs)       :    0,92 ha  :</td>
-</tr>
-<tr>
-<td> : Porcs à l'engrais   :    0,038 ha :</td>
-</tr>
-<tr>
-<td> : Veaux en batterie   :    0,076 ha :</td>
-</tr>
-<tr>
-<td> :=====================:=============:</td>
-</tr>
-</table>
+Poules pondeuses : 2,6 a
 
-(III) Pays-Haut, Woëvre.
+Poulets de chair : 1,3 a
 
-<table>
-<tr>
-<td>:===================================:</td>
-</tr>
-<tr>
-<td> : NATURE DE L'ELEVAGE : (IV)        :</td>
-</tr>
-<tr>
-<td> :---------------------:-------------:</td>
-</tr>
-<tr>
-<td> : I. Aviculture et    :             :</td>
-</tr>
-<tr>
-<td> : cuniculiculture     :             :</td>
-</tr>
-<tr>
-<td> : Equivalence en ares :             :</td>
-</tr>
-<tr>
-<td> : pour 1 m2 de        :             :</td>
-</tr>
-<tr>
-<td> : clapier ou de       :             :</td>
-</tr>
-<tr>
-<td> : poulailler          :             :</td>
-</tr>
-<tr>
-<td> : Poules pondeuses    :    75 m2    :</td>
-</tr>
-<tr>
-<td> : Poulets de chair    :    150 m2   :</td>
-</tr>
-<tr>
-<td> : Lapins              :    30 m2    :</td>
-</tr>
-<tr>
-<td> : II. Elevages porcin :             :</td>
-</tr>
-<tr>
-<td> : et bovin            :             :</td>
-</tr>
-<tr>
-<td> : Equivalence en      :             :</td>
-</tr>
-<tr>
-<td> : hectares par animal :             :</td>
-</tr>
-<tr>
-<td> : Truies (naisseurs)  : 5 truies    :</td>
-</tr>
-<tr>
-<td> : Truies (naisseurs   :             :</td>
-</tr>
-<tr>
-<td> : engraisseurs)       : 2,5 truies  :</td>
-</tr>
-<tr>
-<td> : Porcs à l'engrais   : 60 / an     :</td>
-</tr>
-<tr>
-<td> : Veaux en batterie   : 30 / an     :</td>
-</tr>
-<tr>
-<td> :=====================:=============:</td>
-</tr>
-</table>
+Lapins : 6,5 a
 
-(IV) Seuils d'application valant abattement à la base.
+NATURE DE L'ELEVAGE :
+
+II. Elevages porcin et bovin
+
+Equivalence en hectares par animal
+
+Truies (naisseurs) : 0,40 ha
+
+Truies (naisseurs-engraisseurs) : 0,80 ha
+
+Porcs à l'engrais : 0,033 ha
+
+Veaux en batterie : 0,065 ha
+
+RESTE DU DEPARTEMENT
+
+NATURE DE L'ELEVAGE :
+
+I. Aviculture et cuniculiculture
+
+Equivalence en ares pour 1 m2 de clapier ou de poulailler
+
+Poules pondeuses : 3 a
+
+Poulets de chair : 1,5 a
+
+Lapins : 7,5 a
+
+NATURE DE L'ELEVAGE :
+
+II. Elevages porcin et bovin
+
+Equivalence en hectares par animal
+
+Truies (naisseurs) : 0,45 ha
+
+Truies (naisseurs-engraisseurs) : 0,90 ha
+
+Porcs à l'engrais : 0,038 ha
+
+Veaux en batterie : 0,076 ha
+
+SEUILS D'APPLICATION VALANT ABATTEMENT A LA BASE
+
+NATURE DE L'ELEVAGE :
+
+I. Aviculture et cuniculiculture
+
+Equivalence en ares pour 1 m2 de clapier ou de poulailler
+
+Poules pondeuses : 75 m2
+
+Poulets de chair : 150 m2
+
+Lapins : 30 m2
+
+NATURE DE L'ELEVAGE :
+
+II. Elevages porcin et bovin
+
+Equivalence en hectares par animal
+
+Truies (naisseurs) : 5 truies
+
+Truies (naisseurs-engraisseurs) : 2,5 truies
+
+Porcs à l'engrais : 60 porcs (an)
+
+Veaux en batterie : 30 veaux (an).
