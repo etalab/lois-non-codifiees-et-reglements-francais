@@ -2,7 +2,7 @@
 
 Les administrateurs des affaires maritimes constituent un corps d'officiers de carrière de la marine nationale.
 
-Ils assurent la direction et l'administration générale des services des affaires maritimes relevant du ministère chargé de la marine marchande.
+Ils ont vocation à assurer la direction des services déconcentrés des affaires maritimes relevant du ministre chargé de la mer.
 
 Ils peuvent en outre être appelés à occuper des fonctions au sein de ce ministère et dans les établissements qui y sont rattachés.
 
