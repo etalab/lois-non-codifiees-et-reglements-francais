@@ -1,3 +1,3 @@
 # Article 1
 
-Les collectivités locales et leurs établissements publics peuvent conclure des marchés négociés pour les prestations dont la valeur n'excède pas, pour le montant total de l'opération, la somme de 350.000 F.
+Au sens du présent arrêté, on entend par gaz de pétrole liquéfiés (G.P.L.) les mélanges spéciaux de butane et de propane destinés à être utilisés comme carburant exclusif, tels qu'ils sont définis par l'arrêté du 1er mars 1976 modifié relatif aux caractéristiques complémentaires des produits visés au tableau B annexé à l'article 265 du code des douanes [*définition*].
