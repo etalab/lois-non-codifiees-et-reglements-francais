@@ -5,3 +5,4 @@
 - [Paragraphe 3 : De la délivrance gratuite d'actes et expéditions.](paragraphe-3)
 - [Paragraphe 4 : De la demande de remboursement.](paragraphe-4)
 - [Paragraphe 5 : De l'audition de l'enfant en justice.](paragraphe-5)
+- [Paragraphe 6 : Du renvoi d'un litige par le juge de proximité devant le juge d'instance.](paragraphe-6)

@@ -246,6 +246,7 @@
 - [Décret n°2003-1272 du 23 décembre 2003 (SANH0324135D)](decret-n2003-1272-du-23-decembre-2003-sanh0324135d)
 - [Décret n°2003-1317 du 23 décembre 2003 (MENF0302429D)](decret-n2003-1317-du-23-decembre-2003-menf0302429d)
 - [Décret n°2003-398 du 23 avril 2003 (SANH0320695D)](decret-n2003-398-du-23-avril-2003-sanh0320695d)
+- [Décret n°2003-542 du 23 juin 2003 (JUSB0310251D)](decret-n2003-542-du-23-juin-2003-jusb0310251d)
 - [Décret n°2003-561 du 23 juin 2003 (ECOS0350017D)](decret-n2003-561-du-23-juin-2003-ecos0350017d)
 - [Décret n°2003-563 du 23 juin 2003 (INTC0300072D)](decret-n2003-563-du-23-juin-2003-intc0300072d)
 - [Décret n°2003-567 du 23 juin 2003 (ECOP0300196D)](decret-n2003-567-du-23-juin-2003-ecop0300196d)
