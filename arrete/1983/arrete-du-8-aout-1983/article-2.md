@@ -1,3 +1,3 @@
 # Article 2
 
-Pour l'application des articles 9 et 12 du décret du 25 juin 1976 susvisé, le montant mensuel de la majoration forfaitaire représentative des charges est fixé à 75 F pour un ménage sans enfant. Cette somme est, dans la limite de six enfants ou personnes à charge, majorée de 19 F par enfant ou personne à charge.
+L'inscription des candidats aux concours prévus à l'article 4 du décret du 22 août 1978 susvisé doit être effectuée auprès du vice-recteur de la Polynésie française.
