@@ -1,13 +1,8 @@
 # Décret n°71-524 du 1 juillet 1971 relatif à certaines sociétés civiles faisant publiquement appel à l'épargne
 
-- [Section I : Constitution de la société.](section-i)
-- [Section II : Augmentation du capital et modification des statuts.](section-ii)
-- [Section III : Information des associés et du public.](section-iii)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
-- [Section V : Assemblées générales.](section-v)
 - [Article 6](article-6.md)
-- [Section VI : Dispositions diverses.](section-vi)
 - [Article 7](article-7.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)

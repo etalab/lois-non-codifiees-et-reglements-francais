@@ -264,7 +264,6 @@
 - [Arrêté du 13 janvier 1988 (MENF8700767A)](arrete-du-13-janvier-1988-menf8700767a)
 - [Arrêté du 13 juin 1988 (TEFE8803516A)](arrete-du-13-juin-1988-tefe8803516a)
 - [Arrêté du 13 mars 1979](arrete-du-13-mars-1979)
-- [Arrêté du 13 octobre 1987 (BUDD8761200A)](arrete-du-13-octobre-1987-budd8761200a)
 - [Arrêté du 13 octobre 1988 (AGRS8801814A)](arrete-du-13-octobre-1988-agrs8801814a)
 - [Arrêté du 13 septembre 1988 (SPSP8801362A)](arrete-du-13-septembre-1988-spsp8801362a)
 - [Arrêté du 13 septembre 1988 (SPSP8801363A)](arrete-du-13-septembre-1988-spsp8801363a)
