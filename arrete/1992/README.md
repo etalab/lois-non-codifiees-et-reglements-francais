@@ -860,7 +860,6 @@
 - [Arrêté du 24 juillet 1992 (SANH9201893A)](arrete-du-24-juillet-1992-sanh9201893a)
 - [Arrêté du 24 juin 1992 (ECOT9210154A)](arrete-du-24-juin-1992-ecot9210154a)
 - [Arrêté du 24 juin 1992 (EQUS9200885A)](arrete-du-24-juin-1992-equs9200885a)
-- [Arrêté du 24 juin 1992 (SANH9201598A)](arrete-du-24-juin-1992-sanh9201598a)
 - [Arrêté du 24 juin 1992 (SANH9201599A)](arrete-du-24-juin-1992-sanh9201599a)
 - [Arrêté du 24 juin 1992 (SANH9201600A)](arrete-du-24-juin-1992-sanh9201600a)
 - [Arrêté du 24 juin 1992 (SANH9201601A)](arrete-du-24-juin-1992-sanh9201601a)
