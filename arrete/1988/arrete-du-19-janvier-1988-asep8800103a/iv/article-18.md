@@ -1,0 +1,3 @@
+# Article 18
+
+En cas d'inaptitude physique ou psychologique d'un élève mettant en danger la sécurité des malades, le directeur de l'école peut suspendre immédiatement la scolarité de l'élève. Il adresse aussitôt un rapport motivé au médecin inspecteur départemental de la santé ou à son représentant, médecin inspecteur de la santé. Si les éléments contenus dans ce rapport le justifient, le médecin inspecteur départemental de la santé ou son représentant peut demander un examen médical effectué par un médecin agréé. Le directeur de l'école, en accord avec le médecin inspecteur départemental et, le cas échéant, sur les conclusions écrites du médecin agréé, prend toute disposition propre à garantir la sécurité des malades.

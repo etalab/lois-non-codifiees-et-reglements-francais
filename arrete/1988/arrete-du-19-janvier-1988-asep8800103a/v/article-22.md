@@ -1,0 +1,5 @@
+# Article 22
+
+L'exclusion d'un élève pour inaptitudes théoriques ou pratiques au cours de la scolarité est prononcée par le directeur du centre de formation après avis du conseil technique dans les conditions définies à l'article 3 du présent arrêté.
+
+En cas de faute disciplinaire ou d'actes incompatibles avec la sécurité du malade mettant en cause la responsabilité personnelle de l'élève, le directeur, après avis du conseil de discipline, prononce une sanction dans les conditions définies à l'article 7 du présent arrêté. Il peut également prononcer un avertissement dans les conditions définies à l'article 8 du présent arrêté. Toutefois, l'exclusion de l'école ne peut intervenir avant que l'élève ait accompli au moins la moitié de son temps de formation, ni moins de deux mois avant l'examen final. L'élève concerné par les dispositions des articles 3, 7, en cas d'exclusion temporaire ou définitive, ou 18 du présent arrêté est remis à la disposition du directeur de l'établissement qui statue sur son cas conformément à la réglementation en vigueur.
