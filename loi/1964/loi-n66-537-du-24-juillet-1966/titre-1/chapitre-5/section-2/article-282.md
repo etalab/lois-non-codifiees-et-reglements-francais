@@ -4,4 +4,4 @@ L'actionnaire défaillant, les cessionnaires successifs et les souscripteurs son
 
 Celui qui a désintéressé la société dispose d'un recours pour le tout contre les titulaires successifs de l'action ; la charge définitive de la dette incombe au dernier d'entre eux.
 
-Deux ans après la date de l'envoi de la réquisition de transfert, tout souscripteur ou actionnaire qui a cédé son titre cesse d'être tenu des versements non encore appelés.
+Deux ans après le virement d'un compte de valeurs mobilières à un autre compte [*délai*], tout souscripteur ou actionnaire qui a cédé son titre cesse d'être tenu des versements non encore appelés.
