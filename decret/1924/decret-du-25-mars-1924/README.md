@@ -6,7 +6,6 @@
 - [Titre V : Caséine.](titre-v)
 - [Titre VI : Crème.](titre-vi)
 - [Titre VII : Beurre.](titre-vii)
-- [Titre VIII : Fromage.](titre-viii)
 - [Titre X : Dispositions générales.](titre-x)
 - [Article 29](article-29.md)
 - [Rapport au Président de la République.](rapport-au)
