@@ -1,6 +1,6 @@
 # Article 10
 
-Les statuts des fonds d'assurance formation régionaux visés à l'article 8 (b) prévoient que ces fonds sont dirigés par un conseil de gestion, qui a pour mission de définir les priorités annuelles de formation aux métiers de l'artisanat. Le conseil de gestion adopte le règlement intérieur du fonds régional, délibère et approuve les budgets et les comptes annuels.
+Les fonds d'assurance formation régionaux mentionnés au b de l'article 8 sont administrés par un conseil de gestion dont les missions sont de définir les priorités annuelles de la formation aux métiers de l'artisanat et de décider de l'affectation de leurs ressources. Le conseil de gestion adopte le règlement intérieur du fonds régional, délibère et approuve les budgets et les comptes annuels.
 
 Le conseil de gestion comprend au maximum dix-huit membres. Sont membres de droit de ce conseil :
 
