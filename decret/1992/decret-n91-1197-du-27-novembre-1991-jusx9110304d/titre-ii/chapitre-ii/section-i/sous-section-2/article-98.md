@@ -2,7 +2,7 @@
 
 Sont dispensés de la formation théorique et pratique et du certificat d'aptitude à la profession d'avocat :
 
-1° Les notaires, les huissiers de justice, les administrateurs judiciaires et mandataires judiciaires à la liquidation des entreprises, les anciens syndics et administrateurs judiciaires, les conseils en propriété industrielle et les anciens conseils en brevet d'invention ayant exercé leurs fonctions pendant cinq ans au moins ;
+1° Les notaires, les huissiers de justice, les greffiers des tribunaux de commerce, les administrateurs judiciaires et mandataires judiciaires à la liquidation des entreprises, les anciens syndics et administrateurs judiciaires, les conseils en propriété industrielle et les anciens conseils en brevet d'invention ayant exercé leurs fonctions pendant cinq ans au moins [*durée minimum*] ;
 
 2° Les maîtres de conférences, les maîtres assistants et les chargés de cours, s'ils sont titulaires du diplôme de docteur en droit, en sciences économiques ou en gestion, justifiant de cinq ans d'enseignement juridique en cette qualité dans les unités de formation et de recherche ;
 

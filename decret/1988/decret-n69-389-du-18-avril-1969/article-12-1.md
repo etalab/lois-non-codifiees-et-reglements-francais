@@ -1,15 +1,15 @@
 # Article 12-1
 
-La commission prévue à l'article 12 se compose :
+La commission prévue à l'article 12 comprend :
 
-d'un magistrat du premier grade de la hiérarchie judiciaire désigné par le garde des sceaux, ministre de la justice ;
+1° Un magistrat du premier grade désigné par le ministre de la justice, président ;
 
-de deux greffiers de tribunaux de commerce désignés par le garde des sceaux, ministre de la justice, sur la proposition de l'association des greffiers de commerce.
+2° Deux greffiers de tribunaux de commerce désignés, sur proposition du Conseil national des greffiers des tribunaux de commerce, par le ministre de la justice ; ils ne peuvent siéger lorsqu'ils sont personnellement intéressés.
 
 Pour chaque siège, un suppléant est désigné dans les mêmes conditions.
 
-Le secrétariat de la commission est assuré par un magistrat ou un fonctionnaire en fonction dans une juridiction du ressort de la cour d'appel.
+Le secrétariat de la commission est assuré par un magistrat ou un fonctionnaire de l'administration centrale du ministère de la justice.
 
-La commission peut entendre les intéressés et exiger la communication de tous documents qu'elle estime utiles, notamment ceux qui concernent la comptabilité et le produit des offices.
+La commission peut entendre les intéressés et exiger la communication de tout document qu'elle estime utile.
 
-La commission est tenue [*obligation*] de motiver ses propositions.
+Les fonctions de membre de la commission sont gratuites.
