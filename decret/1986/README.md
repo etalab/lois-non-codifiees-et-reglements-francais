@@ -353,6 +353,7 @@
 - [Décret n°86-784 du 27 juin 1986](decret-n86-784-du-27-juin-1986)
 - [Décret n°86-785 du 27 juin 1986](decret-n86-785-du-27-juin-1986)
 - [Décret n°86-988 du 27 août 1986](decret-n86-988-du-27-aout-1986)
+- [Décret n°86-999 du 27 août 1986](decret-n86-999-du-27-aout-1986)
 - [Décret n°72-889 du 28 septembre 1972](decret-n72-889-du-28-septembre-1972)
 - [Décret n°85-1284 du 28 décembre 1985](decret-n85-1284-du-28-decembre-1985)
 - [Décret n°86-129 du 28 janvier 1986](decret-n86-129-du-28-janvier-1986)
