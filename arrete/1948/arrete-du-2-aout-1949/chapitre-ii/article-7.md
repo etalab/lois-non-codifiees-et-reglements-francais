@@ -1,0 +1,17 @@
+# Article 7
+
+Paragraphe 1 - L'entrée en jouissance de l'allocation est fixée au premier jour du mois suivant la date de réception de la demande, sans qu'elle puisse être antérieure au premier jour du mois suivant le soixante-cinquième anniversaire du requérant *point de départ*.
+
+Paragraphe 2 - La date d'entrée en jouissance du secours viager est fixée :
+
+Soit au lendemain du décès si la demande est déposée dans le délai d'un an, ou au lendemain de la disparition si la demande est déposée dans le délai d'un an suivant la période de douze mois écoulée depuis la disparition ;
+
+Soit au premier jour du mois suivant la date de réception de la demande.
+
+Cette date ne peut toutefois être antérieure au cinquante-cinquième anniversaire du requérant.
+
+Paragraphe 3 - Le délai d'un an prévu à l'article L. 629 du Code de la sécurité sociale en cas de disparition court à dater soit de la première échéance non acquittée, lorsque le disparu était titulaire de l'allocation aux vieux travailleurs salariés, soit, dans le cas contraire, du jour de la déclaration de la disparition aux autorités de police.
+
+La demande de secours viager formée par le conjoint est appuyée de procès-verbaux de police et autres pièces relatant les circonstances de la disparition.
+
+En cas de réapparition de l'allocataire, le secours viager, liquidé à titre provisoire au profit de son conjoint par application de l'article L. 629 du Code de la sécurité sociale, est annulé à compter de son entrée en jouissance et les arrérages perçus doivent être réservés à la caisse, sous réserve de l'application de l'article L. 67 du Code de la sécurité sociale.
