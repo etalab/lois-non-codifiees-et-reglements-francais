@@ -1,0 +1,5 @@
+# Article 29
+
+Les premiers secrétaires-greffiers ainsi que les secrétaires-greffiers, comptant au moins un an d'ancienneté au 8e échelon de leur grade et justifiant d'au moins trois années de services effectifs dans le grade, peuvent être promus au grade de secrétaire-greffier divisionnaire s'ils sont inscrits au tableau d'avancement après avoir subi les épreuves de sélection organisées par voie d'examen professionnel dans les conditions ci-après.
+
+Les fonctionnaires qui ont présenté leur candidature aux fonctions de secrétaire-greffier divisionnaire sont admis, chaque année, à subir des épreuves orales de sélection professionnelle devant un jury. Celui-ci établit, par ordre alphabétique, la liste des candidats retenus. Le nombre de fonctionnaires inscrits sur cette liste ne doit pas excéder de plus de 50 p. 100 le nombre des vacances prévues. Seuls les fonctionnaires figurant sur la liste de l'année en cours ou sur celle d'une des deux années précédentes peuvent être inscrits au tableau d'avancement d'une année.
