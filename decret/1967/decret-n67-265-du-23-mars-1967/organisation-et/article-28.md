@@ -1,6 +1,6 @@
 # Article 28
 
-Le conseil d'administration de l'établissement public est composé de quarante-neuf [*nombre*] membres dont :
+Le conseil d'administration de l'établissement public est composé de cinquante [*nombre*] membres dont :
 
 " 1. Neuf fonctionnaires nommés sur proposition des ministres intéressés représentant respectivement :
 
@@ -28,11 +28,11 @@ Le conseil d'administration de l'établissement public est composé de quarante-
 
 " b) Sept conseillers généraux à raison de trois pour les Pyrénées-Atlantiques et de quatre pour les Hautes-Pyrénées ;
 
-" c) Onze maires, dont quatre pour les Pyrénées-Atlantiques et sept pour les Hautes-Pyrénées, dont la liste est établie séparément dans chaque département selon les règles identiques définies ci-après :
+" c) Onze maires des communes ayant une partie de leur territoire comprise dans le parc national, dont :
 
-" 1. Les maires de celles des communes du département dont la surface de territoire comprise dans le parc est égale ou supérieure à 10 p. 100 de la surface totale du parc ;
+" 1. Les maires des communes de Laruns (Pyrénées-Atlantiques), de Cauterets et de Gèdre (Hautes-Pyrénées), membres de droit en application des dispositions de l'article R. 241-19 du code rural ;
 
-" 2. Des maires élus par un collège constitué à la fois par les maires mentionnés au 1 ci-dessus et par les maires de celles des communes du département dont la surface comprise dans le parc est inférieure à 10 p. 100 de la surface totale du parc.
+" 2. Trois maires des communes du département des Pyrénées-Atlantiques et cinq maires des communes du département des Hautes-Pyrénées, élus respectivement par l'ensemble des maires des communes de chaque département ayant une partie de leur territoire comprise dans le parc, à l'exception des maires membres de droit mentionnés au 1 ci-dessus. "
 
 " 3. Vingt personnalités nommées comme suit :
 
@@ -53,3 +53,5 @@ Le conseil d'administration de l'établissement public est composé de quarante-
 " c) Trois personnalités choisies par le ministre chargé de la protection de la nature.
 
 " Le préfet du département des Hautes-Pyrénées, commissaire du Gouvernement, le préfet du département des Pyrénées-Atlantiques, le directeur de la protection de la nature, le président du comité scientifique du parc lorsqu'il n'est pas membre du conseil, le contrôleur financier et le directeur du parc ou leurs représentants assistent aux séances du conseil d'administration avec voix consultative. "
+
+" 4. Un représentant du personnel élu par l'ensemble du personnel permanent du parc. "
