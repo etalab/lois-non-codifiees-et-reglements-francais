@@ -44,6 +44,7 @@
 - [Arrêté du 19 janvier 1987 (MENU8700036A)](arrete-du-19-janvier-1987-menu8700036a)
 - [Arrêté du 21 janvier 1987 (ECOT8730001A)](arrete-du-21-janvier-1987-ecot8730001a)
 - [Arrêté du 22 décembre 1986](arrete-du-22-decembre-1986)
+- [Arrêté du 22 janvier 1987](arrete-du-22-janvier-1987)
 - [Arrêté du 22 juin 1987 (ASES8700923A)](arrete-du-22-juin-1987-ases8700923a)
 - [Arrêté du 22 mai 1987 (MERG8700077A)](arrete-du-22-mai-1987-merg8700077a)
 - [Arrêté du 23 décembre 1986](arrete-du-23-decembre-1986)
