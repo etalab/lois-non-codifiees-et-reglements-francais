@@ -13,6 +13,7 @@
 - [Décret n°93-285 du 1 mars 1993 (MAEJ9330006D)](decret-n93-285-du-1-mars-1993-maej9330006d)
 - [Décret n°93-286 du 1 mars 1993 (MAEJ9330007D)](decret-n93-286-du-1-mars-1993-maej9330007d)
 - [Décret n°93-1036 du 2 septembre 1993 (PRMX9300098D)](decret-n93-1036-du-2-septembre-1993-prmx9300098d)
+- [Décret n°93-1040 du 2 septembre 1993 (BUDF9200054D)](decret-n93-1040-du-2-septembre-1993-budf9200054d)
 - [Décret n°93-135 du 2 février 1993 (INTE9300050D)](decret-n93-135-du-2-fevrier-1993-inte9300050d)
 - [Décret n°93-138 du 2 février 1993 (MENF9204427D)](decret-n93-138-du-2-fevrier-1993-menf9204427d)
 - [Décret n°93-143 du 2 février 1993 (SPSS9300003D)](decret-n93-143-du-2-fevrier-1993-spss9300003d)

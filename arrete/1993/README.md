@@ -545,6 +545,7 @@
 - [Arrêté du 19 mai 1993 (INDB9300465A)](arrete-du-19-mai-1993-indb9300465a)
 - [Arrêté du 19 mai 1993 (INTD9300358A)](arrete-du-19-mai-1993-intd9300358a)
 - [Arrêté du 19 mai 1993 (MENL9305199A)](arrete-du-19-mai-1993-menl9305199a)
+- [Arrêté du 20 août 1993 (INDE9300652A)](arrete-du-20-aout-1993-inde9300652a)
 - [Arrêté du 20 avril 1993 (SPSG9301384A)](arrete-du-20-avril-1993-spsg9301384a)
 - [Arrêté du 20 janvier 1993 (AGRP9300117A)](arrete-du-20-janvier-1993-agrp9300117a)
 - [Arrêté du 20 janvier 1993 (DEFP9202249A)](arrete-du-20-janvier-1993-defp9202249a)
