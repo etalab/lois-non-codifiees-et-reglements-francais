@@ -1,3 +1,0 @@
-# Article 2
-
-Lorsque les listes complémentaires d'admission sont utilisées pour pourvoir des emplois devenus vacants après l'ouverture des concours, les nominations de candidats inscrits sur les listes complémentaires afférentes au concours externe et au concours interne, ou au premier et au second concours, en ce qui concerne le corps des chargés d'administration de recherche et de formation, sont prononcées dans le respect de la proportion entre les nominations correspondant à chacun des deux concours, telle qu'elle est fixée par le décret du 31 décembre 1985 susvisé et rappelée dans le tableau ci-après.

@@ -1,3 +1,0 @@
-# Article 1
-
-En vue du recrutement par voie de concours des personnels appartenant aux corps d'ingénieurs et de personnels techniques et administratifs de recherche et de formation du ministère de l'éducation nationale, le nombre des emplois qui peuvent être pourvus par la nomination de candidats inscrits sur les listes complémentaires d'admission établies pour les concours externes et les concours internes et, en ce qui concerne le corps des chargés d'administration de recherche et de formation, pour le premier et pour le second concours, ne peut excéder le pourcentage du nombre des emplois offerts au titre de ces concours qui figure au tableau annexé au présent décret.

@@ -1,3 +1,0 @@
-# Article 1
-
-En vue du recrutement par voie de concours et examen professionnel des personnels administratifs, techniques et sociaux de l'administration centrale et des services déconcentrés du ministère de l'éducation nationale, le nombre des emplois qui peuvent être pourvus par la nomination de candidats inscrits sur les listes complémentaires d'admission établies pour les concours externes, les concours internes, les concours uniques et les examens professionnels ne peut excéder un pourcentage du nombre des emplois offerts au titre desdits concours et examens tel qu'il figure au tableau ci-après annexé.
