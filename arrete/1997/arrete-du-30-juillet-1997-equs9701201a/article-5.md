@@ -1,3 +1,3 @@
 # Article 5
 
-Le directeur de la sécurité et de la circulation routières est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'arrêté du 30 avril 1982 modifié relatif à la détermination de la puissance des moteurs des véhicules automobiles est abrogé.
