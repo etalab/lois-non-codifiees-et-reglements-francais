@@ -1,3 +1,3 @@
 # Article 2
 
-La cotisation visée à l'article 1er du présent arrêté est versée dans les quinze premiers jours du mois qui suit le début du travail d'intérêt général et pour toute la durée de ce travail. Le versement est effectué au service chargé du recouvrement dans la circonscription dont dépend la direction régionale des services pénitentiaires [*date, lieu*].
+Le montant minimum de la contribution due par les communes de plus de 2.000 habitants pour la mission d'aide technique telle qu'elle est définie à l'article 18 de l'arrêté susvisé est fixé, pour l'année 1984, à 1,30 F par habitant.

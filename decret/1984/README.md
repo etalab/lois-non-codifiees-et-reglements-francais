@@ -2,6 +2,7 @@
 
 - [Décret n°80-679 du 1 septembre 1980](decret-n80-679-du-1-septembre-1980)
 - [Décret n°84-84 du 1 février 1984](decret-n84-84-du-1-fevrier-1984)
+- [Décret n°84-82 du 2 février 1984](decret-n84-82-du-2-fevrier-1984)
 - [Décret n°84-10 du 3 janvier 1984](decret-n84-10-du-3-janvier-1984)
 - [Décret n°84-11 du 4 janvier 1984](decret-n84-11-du-4-janvier-1984)
 - [Décret n°84-13 du 5 janvier 1984](decret-n84-13-du-5-janvier-1984)

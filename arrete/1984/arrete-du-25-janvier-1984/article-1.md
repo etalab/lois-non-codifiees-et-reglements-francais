@@ -1,5 +1,5 @@
 # Article 1
 
-Le montant annuel de la cotisation forfaitaire due au titre des accidents du travail et des maladies professionnelles pour toute personne condamnée à exécuter un travail d'intérêt général, conformément aux dispositions des articles 43-3-1 à 43-3-5 du code pénal et 747-1 à 747-7 du code de procédure pénale, est déterminé par application au salaire de base défini à l'article 6 du décret du 25 janvier 1984 susvisé du taux de 3,7 p. 100 quels que soient les travaux effectués [*assiette*].
+La contribution due par les communes de 2.000 habitants au plus pour la mission d'aide technique à la gestion communale définie à l'article 16 de l'arrêté susvisé est calculée, pour l'année 1984, sur la base de 3,30 F par habitant.
 
-Le montant de la cotisation à verser est calculé au prorata du rapport entre le nombre d'heures légal annuel de travail et le nombre d'heures de travail réellement effectué par la personne condamnée.
+Toutefois, elle est calculée sur la base de 1,30 F par habitant lorsque la commune adhère à un groupement ayant en charge l'entretien de la voirie communale.
