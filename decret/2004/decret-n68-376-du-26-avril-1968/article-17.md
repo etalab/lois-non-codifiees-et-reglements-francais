@@ -1,4 +1,4 @@
-# Article 19
+# Article 17
 
 Le préfet de la région Haute-Normandie, préfet de la Seine-Maritime, est chargé du contrôle de l'établissement.
 
