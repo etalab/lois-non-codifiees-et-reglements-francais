@@ -10,6 +10,7 @@
 - [Arrêté du 1 avril 1994 (EQUU9400668A)](arrete-du-1-avril-1994-equu9400668a)
 - [Arrêté du 1 avril 1994 (MCCB9400181A)](arrete-du-1-avril-1994-mccb9400181a)
 - [Arrêté du 1 décembre 1994 (INDE9401087A)](arrete-du-1-decembre-1994-inde9401087a)
+- [Arrêté du 1 décembre 1994 (INTE9400613A)](arrete-du-1-decembre-1994-inte9400613a)
 - [Arrêté du 1 décembre 1994 (MENL9402085A)](arrete-du-1-decembre-1994-menl9402085a)
 - [Arrêté du 1 décembre 1995 (EQUZ9500145A)](arrete-du-1-decembre-1995-equz9500145a)
 - [Arrêté du 1 février 1994 (ECOC9300211A)](arrete-du-1-fevrier-1994-ecoc9300211a)
