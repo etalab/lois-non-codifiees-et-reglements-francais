@@ -1,6 +1,6 @@
 # Article 9 bis
 
-Les titulaires d'une licence d'enseignement qui ont assuré pendant cinq années un service d'enseignement dans un lycée agricole, dont deux années en possession de ce titre, peuvent accéder au corps des professeurs certifiés après avoir été inscrits sur une liste d'aptitude arrêtée par le ministre de l'agriculture et sur laquelle le nombre des inscriptions ne peut excéder de plus de 50 p. 100 le nombre des nominations à intervenir.
+Les titulaires d'une licence d'enseignement ou d'un diplôme d'ingénieur figurant sur une liste fixée par arrêté conjoint du ministre de l'agriculture et du ministre chargé de la fonction publique qui ont assuré pendant cinq années un service d'enseignement dans un lycée agricole, dont deux années en possession de ce titre, peuvent accéder au corps des professeurs certifiés après avoir été inscrits sur une liste d'aptitude arrêtée par le ministre de l'agriculture et sur laquelle le nombre des inscriptions ne peut excéder de plus de 50 p. 100 le nombre des nominations à intervenir.
 
 Le ministre de l'agriculture prononce les nominations en qualité de professeur délégué pour une année scolaire parmi les fonctionnaires ou agents inscrits sur la liste d'aptitude.
 
