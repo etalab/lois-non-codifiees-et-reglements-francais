@@ -16,9 +16,13 @@ Tout préemballage concerné par le décret n° 78-166 du 31 janvier 1978 doit p
 
 suivis du symbole de l'unité de mesure utilisée ou, éventuellement, de son nom.
 
-2.2. Une marque ou inscription permettant au service compétent d'identifier l'emplisseur ou celui qui a fait faire l'emplissage ou l'importateur, établis dans la Communauté économique européenne.
+2.2. Une marque ou inscription permettant d'identifier l'emplisseur ou celui qui a fait faire l'emplissage ou l'importateur, établis dans la Communauté.
 
-Les modalités d'identification seront précisées par arrêté du ministre chargé de la consommation.
+Lorsqu'ils sont établis en France, l'identification est indiquée sous l'une des formes suivantes :
+
+- leur nom et leur adresse en clair. Cette adresse est précédée de la mention "EMB" si une autre adresse figure sur l'étiquetage ;
+
+- l'identification de la commune où est établi l'emplisseur, celui qui a fait faire l'emplissage ou l'importateur, sous la forme du code officiel géographique, précédée de la mention "EMB" et, éventuellement suivi d'une ou de plusieurs lettres indiquées par la direction de la concurrence, de la consommation et de la répression des fraudes localement compétente.
 
 2.3. Le cas échéant, la lettre minuscule "e" d'une hauteur minimale de 3 mm, placée dans le même champ visuel que l'indication de la masse ou du volume nominal et certifiant sous la responsabilité du préemballeur ou de l'importateur que le préemballage satisfait aux prescriptions du décret n° 78-166 du 31 janvier 1978, notamment de son article 8, et présent arrêté.
 

@@ -46,6 +46,7 @@
 - [Décret n°93-300 du 4 mars 1993 (BUDF9300007D)](decret-n93-300-du-4-mars-1993-budf9300007d)
 - [Décret n°93-9 du 4 janvier 1993 (JUSC9220101D)](decret-n93-9-du-4-janvier-1993-jusc9220101d)
 - [Décret n°93-15 du 5 janvier 1993 (MENB9200439D)](decret-n93-15-du-5-janvier-1993-menb9200439d)
+- [Décret n°93-169 du 5 février 1993 (ENVP9310008D)](decret-n93-169-du-5-fevrier-1993-envp9310008d)
 - [Décret n°93-172 du 5 février 1993 (PRMX9300071D)](decret-n93-172-du-5-fevrier-1993-prmx9300071d)
 - [Décret n°93-173 du 5 février 1993 (INTB9300051D)](decret-n93-173-du-5-fevrier-1993-intb9300051d)
 - [Décret n°93-174 du 5 février 1993 (INTB9300052D)](decret-n93-174-du-5-fevrier-1993-intb9300052d)

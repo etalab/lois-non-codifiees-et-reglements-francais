@@ -356,8 +356,6 @@ Allemagne : Arbeitsmedizin.
 
 Danemark : Samfundsmedicin/arbejdsmedecin.
 
-Espagne : Medicina del trabajo.
-
 Grèce : Iatrikh thw ergaiaw.
 
 Irlande : Occupational medicine.
