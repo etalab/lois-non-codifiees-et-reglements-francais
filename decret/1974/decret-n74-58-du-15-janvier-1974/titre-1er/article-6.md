@@ -1,0 +1,3 @@
+# Article 6
+
+La direction d'une pouponnière ou d'une crèche ne peut être assurée que par une personne âgée de vingt-cinq ans au moins et de soixante ans au plus, sauf dérogation accordée par le préfet dans la limite de soixante-cinq ans. La personne assurant la direction doit être agréée par le préfet (direction départementale de l'action sanitaire et sociale). Elle doit être titulaire du doctorat en médecine ou du diplôme d'Etat de puéricultrice sauf dérogations prévues par le décret n° 71-906 du 9 novembre 1971 ou dérogations accordées antérieurement à la publication du présent décret. Lorsque la direction est assurée par une puéricultrice, cette dernière doit justifier de cinq ans au moins d'exercice de la profession avant son entrée en fonctions [*condition*].
