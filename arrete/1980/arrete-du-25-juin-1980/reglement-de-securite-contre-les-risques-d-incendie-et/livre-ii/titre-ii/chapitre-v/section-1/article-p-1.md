@@ -14,4 +14,4 @@ Etablissements assujettis
 
 - 120 personnes au total.
 
-§ 2. Les établissements de danse comportant des aménagements scéniques ou des installations de projection sont soumis aux dispositions sont soumis aux dispositions du chapitre Ier.
+§ 2. Les installations de projection  et les aménagements de spectacles éventuels sont soumis aux dispositions du type L, l'établissement restant assujetti aux dispositions du présent chapitre.
