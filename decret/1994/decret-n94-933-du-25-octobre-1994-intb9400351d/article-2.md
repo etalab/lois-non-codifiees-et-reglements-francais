@@ -34,4 +34,4 @@ Initiation aux techniques et aux moyens permettant d'assurer la défense de l'ag
 
 Activités sportives.
 
-La formation comporte des enseignements théoriques et techniques et une formation appliquée comprenant la participation des agents de police municipale stagiaires à l'exercice des missions relevant de leurs compétences.
+La formation comporte des enseignements théoriques et techniques et une formation appliquée au sein de services ayant compétence en matière de sécurité.
