@@ -4,7 +4,7 @@ I. Dans tous les établissements soumis aux dispositions du présent décret, le
 
 Ce registre ou document doit permettre de connaître le nombre d'heures effectuées par chaque salarié, chaque jour et chaque semaine, et le régime applicable à chacune d'elles en fonction des dispositions tant légales que conventionnelles. En particulier, pour les salariés soumis à un régime d'équivalence, doivent être précisées la nature de l'emploi, la durée de présence et la durée de travail effectif correspondant.
 
-De même, les heures de récupération au sens de l'article 6 doivent faire l'objet de mentions spéciales comportant notamment la référence des heures non exécutées en remplacement desquelles elles sont effectuées.
+De même, les heures de récupération doivent faire l'objet de mentions spéciales comportant notamment la référence des heures non exécutées en remplacement desquelles elles sont effectuées.
 
 Ce registre ou document doit en outre permettre de connaître la nature et la durée des diverses périodes d'absence ou de suspension du contrat ainsi que, le cas échéant, la mention que ces périodes sont rémunérées.
 
