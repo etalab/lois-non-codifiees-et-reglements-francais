@@ -1,6 +1,6 @@
 # Article 16
 
-Il est créé une commission paritaire nationale, présidée par un conseiller d'Etat en activité ou honoraire, nommé par le ministre chargé de la santé sur proposition du vice-président du Conseil d'Etat.
+Il est créé une commission paritaire nationale, présidée par un membre du Conseil d'Etat ou son suppléant, en activité ou honoraire, nommé par le ministre chargé de la santé sur proposition du vice-président du Conseil d'Etat.
 
 La commission est composée des membres suivants :
 
@@ -22,4 +22,4 @@ Les membres élus doivent appartenir au collège électoral. Ils ne peuvent exer
 
 Le mandat de la commission est de cinq ans.
 
-Les modalités d'organisation des élections et de désignation des membres autres que le président et des suppléants ainsi que les conditions de fonctionnement de la commission sont fixées par arrêté du ministre chargé de la santé.
+Les modalités d'organisation des élections et de désignation des membres et de leurs suppléants, autres que le président et son suppléant, ainsi que les conditions de fonctionnement de la commission sont fixées par arrêté du ministre chargé de la santé.
