@@ -2,7 +2,7 @@
 
 La région d'Ile-de-France définit la politique régionale en matière d'espaces verts, de forêts et de promenades. Elle est obligatoirement consultée sur les programmes d'investissements correspondant à sa mise en oeuvre. Elle peut également proposer d'autres programmes.
 
-Sans préjudice des dispositions de l'article 3 ci-dessus, elle peut participer aux dépenses d'acquisition, d'équipement et d'entretien de ces espaces.
+La région d'Ile de France peut participer aux dépenses d'acquisition, d'équipement et d'entretien de ces espaces.
 
 Une agence des espaces verts de la région d'Ile-de-France, établissement public régional à caractère administratif, est créée. Elle est chargée de mettre en oeuvre la politique régionale en matière d'espaces verts, de forêts et de promenades, et de coordonner en ces domaines les actions de la région avec celles de l'Etat et de ses établissements publics.
 

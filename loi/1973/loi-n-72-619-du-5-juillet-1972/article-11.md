@@ -1,19 +1,11 @@
 # Article 11
 
-Le conseil régional élit un président, des vice-présidents et éventuellement les autres membres de son bureau après chaque renouvellement général ou partiel des assemblées dont sont issus les conseillers régionaux.
+Sont applicables au conseil régional et au président du conseil régional :
 
-Il établit son règlement intérieur.
+a) Les articles 19, 20, 29, 30, 31, 32, 36 bis et 54 de la loi du 10 août 1871 relative aux conseils généraux ;
 
-Il se réunit à l'initiative de son président au moins une fois par trimestre.
+b) L'article 38 de la loi du 27 février 1912 portant fixation du budget général des dépenses et des recettes de l'exercice 1912 ;
 
-Il se réunit également à la demande :
+c) L'article 24, à l'exception de l'avant-dernier alinéa, l'article 25, à l'exception de la dernière phrase du dernier alinéa, l'article 31, l'article 33, à l'exception du second alinéa, les articles 35, 36, 37, 38, 39, 40, 41, 43 et 44 de la loi n° 82-213 du 2 mars 1982 précitée.
 
-- du bureau,
-
-- ou du tiers de ses membres sur un ordre du jour déterminé pour une durée qui ne peut excéder deux jours ; un même conseiller régional ne peut présenter plus d'une demande de réunion par semestre.
-
-En cas de circonstances exceptionnelles il peut être réuni également par décret.
-
-Le règlement intérieur du conseil régional fixe les critères de détermination de l'ordre des nominations des vice-présidents.
-
-A moins de circonstances exceptionnelles, il ne peut se réunir lorsque le Parlement tient séance. Ses séances sont publiques.
+Pour l'application des articles 35 et 43 de la loi n° 82-213 du 2 mars 1982 précitée, le conseil régional se réunit de plein droit le premier vendredi qui suit son élection ; l'article 38 de la même loi est applicable après chaque renouvellement du conseil régional et son président et son bureau sont élus pour une durée de six ans.

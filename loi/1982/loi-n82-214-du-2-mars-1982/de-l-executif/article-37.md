@@ -1,6 +1,6 @@
 # Article 37
 
-I - Huit jours au moins avant la réunion de l'assemblée, le président adresse à ses membres un rapport sur chacune des affaires qui doivent leur être soumises.
+I - Douze jours au moins avant la réunion de l'assemblée, le président adresse à ses membres un rapport sur chacune des affaires qui doivent leur être soumises.
 
 Les projets sur lesquels les conseils consultatifs sont obligatoirement et préalablement consultés sont adressés simultanément aux membres de l'assemblée.
 

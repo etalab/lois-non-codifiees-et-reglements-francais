@@ -1,3 +1,5 @@
 # Article 26
 
-Le comité régional de la communication audiovisuelle, après avoir recueilli l'avis du comité de la culture, de l'éducation et de l'environnement, adresse chaque année au conseil régional le rapport qu'il établit à l'attention de la Haute Autorité de la communication audiovisuelle, conformément à l'article 30 de la loi n° 82-652 du 29 juillet 1982 précitée, ainsi que son avis concernant l'activité des sociétés mentionnées à l'article précédent.
+Le comité de la culture, de l'éducation et de l'environnement établit à l'intention de la Haute Autorité de la communication audiovisuelle et du Conseil national de la communication audiovisuelle un rapport annuel qui est présenté au conseil régional relatif à l'état de la communication audiovisuelle dans la région.
+
+Un décret en Conseil d'Etat précise notamment les conditions dans lesquelles ce comité est saisi pour avis par la Haute Autorité, par le Conseil national de la communication audiovisuelle, par le représentant de l'Etat dans la région ou par le président du conseil régional.

@@ -1,8 +1,6 @@
 # Article 28
 
-Le conseil national de la communication audiovisuelle comprend cinquante-six membres [*nombre*] nommés pour trois ans [*composition - durée du mandat*] :
-
-- sept délégués des comités régionaux et territoriaux de la communication audiovisuelle, dont au moins un de l'outre-mer, désignés par leurs présidents réunis spécialement en collège à cet effet ;
+Le conseil national de la communication audiovisuelle comprend quarante-neuf membres nommés pour trois ans :
 
 - sept représentants des organisations professionnelles représentatives ;
 
@@ -22,4 +20,4 @@ L'appartenance au conseil est incompatible avec l'exercice d'un mandat d'adminis
 
 Un décret en Conseil d'Etat précise les conditions de désignation des membres du conseil national de la communication audiovisuelle ainsi que ses règles de fonctionnement.
 
-Les crédits nécessaires au fonctionnement du conseil national de la communication audiovisuelle sont inscrits au budget des services du Premier ministre [*ressources*].
+Les crédits nécessaires au fonctionnement du conseil national de la communication audiovisuelle sont inscrits au budget des services du Premier ministre.

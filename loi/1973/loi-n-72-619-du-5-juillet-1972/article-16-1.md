@@ -1,6 +1,6 @@
 # Article 16-1
 
-I - Huit jours au moins avant la réunion du conseil régional, le président adresse aux conseillers régionaux un rapport sur chacune des affaires qui doivent leur être soumises.
+I - Douze jours avant la réunion du conseil régional, le président adresse aux conseillers régionaux un rapport sur chacune des affaires qui doivent leur être soumises.
 
 Les projets sur lesquels le comité économique et social est obligatoirement et préalablement consulté sont adressés simultanément aux membres du conseil régional.
 
