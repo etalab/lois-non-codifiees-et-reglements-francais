@@ -506,6 +506,8 @@
 - [Décret n°94-656 du 27 juillet 1994 (DEFX9400103D)](decret-n94-656-du-27-juillet-1994-defx9400103d)
 - [Décret n°94-657 du 27 juillet 1994 (DEFC9401201D)](decret-n94-657-du-27-juillet-1994-defc9401201d)
 - [Décret n°94-658 du 27 juillet 1994 (ECOT9440203D)](decret-n94-658-du-27-juillet-1994-ecot9440203d)
+- [Décret n°94-659 du 27 juillet 1994 (SPSS9401422D)](decret-n94-659-du-27-juillet-1994-spss9401422d)
+- [Décret n°94-660 du 27 juillet 1994 (AGRM9401058D)](decret-n94-660-du-27-juillet-1994-agrm9401058d)
 - [Décret n°94-93 du 27 janvier 1994 (MENE9306293D)](decret-n94-93-du-27-janvier-1994-mene9306293d)
 - [Décret n°94-421 du 27 mai 1994 (TEFO9400425D)](decret-n94-421-du-27-mai-1994-tefo9400425d)
 - [Décret n°94-422 du 27 mai 1994 (MCCX9400009D)](decret-n94-422-du-27-mai-1994-mccx9400009d)
