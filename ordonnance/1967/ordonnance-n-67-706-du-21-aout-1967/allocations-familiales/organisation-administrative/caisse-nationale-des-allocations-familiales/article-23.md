@@ -2,9 +2,9 @@
 
 La caisse nationale des allocations familiales [*attributions*] a pour rôle :
 
-1. D'assurer le financement des régimes de prestations familiales des salariés de toutes professions et des employeurs et travailleurs indépendants des professions non agricoles ;
+1. D'assurer le financement de l'ensemble des régimes de prestations familiales ;
 
-2. De gérer un fonds d'action sanitaire et sociale dans le cadre d'un programme fixé par arrêté du ministre des Affaires sociales après avis de son conseil d'administration ;
+2. De gérer un fonds d'action sanitaire et sociale dans le cadre d'un programme fixé par arrêté du ministre des affaires sociales après avis de son conseil d'administration ;
 
 3. D'exercer un contrôle sur les opérations immobilières des caisses d'allocations familiales et sur la gestion de leur patrimoine immobilier.
 

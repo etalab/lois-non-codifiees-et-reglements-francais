@@ -1,5 +1,6 @@
 # 1974
 
+- [Loi n° 74-1094 du 24 décembre 1974](loi-n-74-1094-du-24-decembre-1974)
 - [Loi n° 74-1114 du 27 décembre 1974](loi-n-74-1114-du-27-decembre-1974)
 - [Loi n° 74-1129 du 30 décembre 1974](loi-n-74-1129-du-30-decembre-1974)
 - [Loi n° 74-696 du 7 août 1974](loi-n-74-696-du-7-aout-1974)
