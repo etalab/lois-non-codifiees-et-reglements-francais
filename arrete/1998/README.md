@@ -643,8 +643,6 @@
 - [Arrêté du 25 mai 1998 (DEFB9801532A)](arrete-du-25-mai-1998-defb9801532a)
 - [Arrêté du 25 mai 1998 (DEFB9801533A)](arrete-du-25-mai-1998-defb9801533a)
 - [Arrêté du 26 décembre 1997 (AGRH9800023A)](arrete-du-26-decembre-1997-agrh9800023a)
-- [Arrêté du 26 décembre 1997 (EQUH9701987A)](arrete-du-26-decembre-1997-equh9701987a)
-- [Arrêté du 26 décembre 1997 (EQUH9701988A)](arrete-du-26-decembre-1997-equh9701988a)
 - [Arrêté du 26 décembre 1997 (MESP9724066A)](arrete-du-26-decembre-1997-mesp9724066a)
 - [Arrêté du 26 décembre 1997 (MJSK9770102A)](arrete-du-26-decembre-1997-mjsk9770102a)
 - [Arrêté du 26 février 1998 (AGRA9800387A)](arrete-du-26-fevrier-1998-agra9800387a)
