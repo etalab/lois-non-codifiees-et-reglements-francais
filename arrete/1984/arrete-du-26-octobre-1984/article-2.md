@@ -1,9 +1,9 @@
 # Article 2
 
-I - Pour l'année 1984, le reversement des cotisations est à titre provisionnel fixé à 355 millions de francs.
+§ 1er - La date prévue à l'article 2 du décret du 21 septembre 1961 susvisé est le 1er janvier 1967 pour l'application dudit décret aux appareils mobiles d'emmagasinage de gaz de pétrole liquéfiés visés à l'article 1er (5°, b) du décret du 18 janvier 1943.
 
-Il fait l'objet de deux versements intervenant en octobre et en novembre 1984 qui sont respectivement fixés à 150 millions de francs et à 205 millions de francs.
+Toutefois, ces appareils ne sont pas soumis aux dispositions de l'article 5 dudit décret.
 
-II - Pour l'année 1985, le reversement des cotisations est à titre provisionnel fixé à 230 millions de francs. Il fait l'objet d'acomptes d'un montant équivalent versés aux 8 janvier, 8 avril, 8 juillet et 8 octobre 1985.
+§ 2. - A compter de la même date, les dispositions de l'arrêté du 23 juillet 1943 modifié s'appliquent aux mêmes appareils, à l'exception de celles de ses articles 13 et 15 et du premier alinéa de son article 20 (paragraphe 1er).
 
-III - L'apurement de l'année 1984 devra intervenir avant le 31 décembre 1985 et celui de l'année 1985 avant le 31 décembre 1986
+§ 3. - En cas de suspicion à l'égard de tels appareils, le ministre chargé de l'industrie peut prescrire l'interdiction provisoire de leur remplissage en attendant de statuer sur l'application éventuelle de l'article 8 du décret du 18 janvier 1943.
