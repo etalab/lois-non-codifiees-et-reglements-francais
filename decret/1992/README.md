@@ -92,6 +92,8 @@
 - [Décret n°92-261 du 23 mars 1992 (MCCB9200083D)](decret-n92-261-du-23-mars-1992-mccb9200083d)
 - [Décret n°92-84 du 23 janvier 1992 (MENZ9102712D)](decret-n92-84-du-23-janvier-1992-menz9102712d)
 - [Décret n°92-85 du 23 janvier 1992 (MENZ9102713D)](decret-n92-85-du-23-janvier-1992-menz9102713d)
+- [Décret n°92-95 du 23 janvier 1992 (SPSN9102838D)](decret-n92-95-du-23-janvier-1992-spsn9102838d)
+- [Décret n°92-96 du 23 janvier 1992 (SPSN9102839D)](decret-n92-96-du-23-janvier-1992-spsn9102839d)
 - [Décret n°93-473 du 23 mars 1993 (AGRA9300280D)](decret-n93-473-du-23-mars-1993-agra9300280d)
 - [Décret n°93-474 du 23 mars 1993 (AGRA9300281D)](decret-n93-474-du-23-mars-1993-agra9300281d)
 - [Décret n°91-1302 du 24 décembre 1991 (TEFE9104210D)](decret-n91-1302-du-24-decembre-1991-tefe9104210d)
