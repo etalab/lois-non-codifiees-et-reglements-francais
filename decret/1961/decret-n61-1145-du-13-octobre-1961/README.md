@@ -2,5 +2,6 @@
 
 - [TITRE I : Du corps des dessinateurs.](titre-i)
 - [TITRE II : Du corps des dessinateurs projeteurs.](titre-ii)
+- [TITRE III : Dispositions communes.](titre-iii)
 - [TITRE IV : Dispositions transitoires.](titre-iv)
 - [Article 21](article-21.md)
