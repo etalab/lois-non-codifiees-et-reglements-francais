@@ -1,7 +1,3 @@
-# Arrêté du 20 avril 1982 RELATIF AU DROIT D'INSCRIPTION A L'EXAMEN DU PERMIS DE CHASSER
+# Arrêté du 20 avril 1982 fixant la taxe due par les bénéficiaires du plan de chasse à titre de participation à la réparation des dégâts de grand gibier
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
 - [Article 5](article-5.md)
