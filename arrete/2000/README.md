@@ -175,6 +175,7 @@
 - [Arrêté du 23 février 2000 (EQUA0000341A)](arrete-du-23-fevrier-2000-equa0000341a)
 - [Arrêté du 23 février 2000 (EQUI0000260A)](arrete-du-23-fevrier-2000-equi0000260a)
 - [Arrêté du 23 février 2000 (EQUI0000261A)](arrete-du-23-fevrier-2000-equi0000261a)
+- [Arrêté du 23 juin 2000 (MESP0021771A)](arrete-du-23-juin-2000-mesp0021771a)
 - [Arrêté du 23 novembre 1999 (ECOT9991120A)](arrete-du-23-novembre-1999-ecot9991120a)
 - [Arrêté du 23 mai 2000 (MESS0021660A)](arrete-du-23-mai-2000-mess0021660a)
 - [Arrêté du 24 janvier 2000 (ECOF0000001A)](arrete-du-24-janvier-2000-ecof0000001a)
