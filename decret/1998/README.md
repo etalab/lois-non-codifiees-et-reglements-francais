@@ -33,7 +33,6 @@
 - [Décret n°98-1011 du 2 novembre 1998 (JUSE9840069D)](decret-n98-1011-du-2-novembre-1998-juse9840069d)
 - [Décret n°98-1083 du 2 décembre 1998 (PRMX9803301D)](decret-n98-1083-du-2-decembre-1998-prmx9803301d)
 - [Décret n°98-1084 du 2 décembre 1998 (MEST9811160D)](decret-n98-1084-du-2-decembre-1998-mest9811160d)
-- [Décret n°98-1086 du 2 décembre 1998 (ECOT9826221D)](decret-n98-1086-du-2-decembre-1998-ecot9826221d)
 - [Décret n°98-122 du 2 mars 1998 (ECOP9800009D)](decret-n98-122-du-2-mars-1998-ecop9800009d)
 - [Décret n°98-123 du 2 mars 1998 (MENF9800258D)](decret-n98-123-du-2-mars-1998-menf9800258d)
 - [Décret n°98-124 du 2 mars 1998 (ECOF9810001D)](decret-n98-124-du-2-mars-1998-ecof9810001d)
