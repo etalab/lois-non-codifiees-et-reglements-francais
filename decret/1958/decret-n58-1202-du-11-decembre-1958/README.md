@@ -2,7 +2,6 @@
 
 - [Chapitre Ier : Des conseils supérieurs consultatifs](chapitre-ier)
 - [Chapitre II : Création, transformation et suppression des hôpitaux et hospices](chapitre-ii)
-- [Section II : Comptabilité](section-ii)
 - [Chapitre III : De l'administration des hôpitaux et hospices publics](chapitre-iii)
 - [Chapitre IV : Du personnel médical et des pharmaciens gérants.](chapitre-iv)
 - [Chapitre V : Dispositions financières](chapitre-v)

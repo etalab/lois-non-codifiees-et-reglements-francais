@@ -22,7 +22,7 @@ Le déficit est couvert en priorité par reprise sur le compte de réserve de co
 
 Toutefois, en cas de circonstances exceptionnelles et avec l'accord préalable de l'autorité de tarification concernée, la reprise du déficit peut être étalée sur trois exercices.
 
-Si les produits de l'aide sociale à l'hébergement ou de la prestation spécifique dépendance sont inférieurs à 50 % des produits d'exploitation de la section d'imputation tarifaire auxquels ils se rapportent, l'établissement affecte librement les résultats des sections tarifaires hébergement et dépendance selon les modalités précédemment décrites.
+Si les produits de l'aide sociale à l'hébergement ou de l'allocation personnalisée d'autonomie sont inférieurs à 50 % des produits d'exploitation de la section d'imputation tarifaire auxquels ils se rapportent, l'établissement affecte librement les résultats des sections tarifaires hébergement et dépendance selon les modalités précédemment décrites.
 
 II. - Le modèle des documents de présentation des budgets, des comptes administratifs et des bilans d'établissement est fixé par arrêté des ministres chargés des affaires sociales, du budget et de l'intérieur.
 

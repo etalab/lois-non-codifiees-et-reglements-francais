@@ -10,9 +10,17 @@ I. - En matière budgétaire et comptable, sont applicables aux établissements 
 
 4° Lorsqu'il s'agit d'établissements gérés par un organisme de droit privé à but non lucratif et d'organismes de droit privé à but lucratif habilités au titre de l'aide sociale, les articles 3 à 5, l'article 6, à l'exception du premier alinéa, les articles 7 à 13, l'article 14, à l'exception du 2° et du 6°, les articles 15, 16, 20, 25, 28 à 31, le deuxième et le troisième alinéa de l'article 33, l'article 38, l'article 39, à l'exception du troisième alinéa, le dernier alinéa de l'article 43, les articles 44 et 45, l'article 46, à l'exception du premier alinéa, les articles 47, 48, 49, 52 et 53 du présent décret.
 
-II. - Les établissements hébergeant des personnes âgées relevant du 5° de l'article L. 312-1 du code de l'action sociale et des familles cessent de relever des dispositions des articles 33, 34 et 37 du décret n° 58-1202 du 11 décembre 1958 susvisé, des articles 3, 4, 10 et 13 du décret n° 59-1510 du 29 décembre 1959 susvisé et des articles 2 à 5, 7 à 10, 11, 13 à 19 du décret n° 61-9 du 3 janvier 1961 susvisé.
+II. - Pour les établissements visés au I, les propositions budgétaires de l'établissement adoptées par le conseil d'administration de l'organisme gestionnaire sont transmises au président du conseil général avant le 1er novembre de l'année précédant l'exercice auquel elles se rapportent.
 
-III. - Les établissements hébergeant des personnes âgées relevant du 5° de l'article L. 312-1 du code de l'action sociale et des familles qui accueillent des personnes âgées dépendantes mais qui n'ont pas encore conclu la convention prévue à l'article L. 312-8 du code de l'action sociale et des familles transmettent avec leurs propositions budgétaires :
+En cas de désaccord avec les propositions budgétaires d'un établissement mentionné aux 1°, 2°, 3° et 4° ci-dessus, le président du conseil général fait connaître, au plus tard soixante jours après l'adoption du budget du département, au représentant qualifié de l'établissement les décisions qu'il envisage de prendre concernant le tarif moyen journalier afférent à l'hébergement.
+
+Dans les huit jours suivant cette notification, le représentant qualifié de l'établissement a la faculté d'adresser au président du conseil général un rapport exposant les raisons qui justifieraient, selon lui, l'adoption totale ou partielle de ses propositions initiales. Passé ce délai, le président du conseil général fixe le montant global des dépenses et des recettes et arrête le montant du tarif moyen journalier afférent à l'hébergement.
+
+Le tarif moyen journalier afférent à l'hébergement peut être modulé en application de l'article 23-1 du décret du 26 avril 1999 susvisé.
+
+III. - Les établissements hébergeant des personnes âgées relevant du 5° de l'article L. 312-1 du code de l'action sociale et des familles cessent de relever des dispositions des articles 33, 34 et 37 du décret n° 58-1202 du 11 décembre 1958 susvisé, des articles 3, 4, 10 et 13 du décret n° 59-1510 du 29 décembre 1959 susvisé et des articles 2 à 5, 7 à 10, 11, 13 à 19 du décret n° 61-9 du 3 janvier 1961 susvisé.
+
+IV. - Les établissements hébergeant des personnes âgées relevant du 5° de l'article L. 312-1 du code de l'action sociale et des familles qui accueillent des personnes âgées dépendantes mais qui n'ont pas encore conclu la convention prévue à l'article L. 312-8 du code de l'action sociale et des familles transmettent avec leurs propositions budgétaires :
 
 a) Un projet de convention tripartite prévue à l'article L. 312-8 du code de l'action sociale et des familles ;
 
