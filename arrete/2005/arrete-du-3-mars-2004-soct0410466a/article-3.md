@@ -1,0 +1,5 @@
+# Article 3
+
+Cet examen doit être réalisé sous le contrôle d'un technicien hautement qualifié possédant la compétence et les connaissances nécessaires pour apprécier et prescrire, après les démontages nécessaires, le remplacement des pièces qui sont de nature à générer toute défaillance inopinée de l'appareil, d'en surveiller le remontage et d'en permettre la remise en service après une vérification lui permettant de s'assurer expérimentalement de leur bon fonctionnement sous charges d'épreuves statique et dynamique.
+
+Cette vérification avant remise en service exonère l'utilisateur de l'exécution des épreuves statique et dynamique respectivement prévues aux d et e de l'article 19 de l'arrêté du 1er mars 2004 relatif aux vérifications des appareils et accessoires de levage, lors des vérifications de remise en service prescrites aux c et d de l'article 20 de ce même arrêté, à condition que la date de cet examen approfondi et le résultat des mesures faites soient reportés sur le registre de sécurité avec la conclusion de la vérification prescrite aux a et b de l'article 20 de l'arrêté précité.

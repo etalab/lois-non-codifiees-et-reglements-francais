@@ -10,7 +10,7 @@ Le salarié dont l'emploi à temps plein est transformé en emploi à temps part
 
 - être âgé d'au moins cinquante-cinq ans et de moins de soixante-cinq ans ;
 
-- pour les salariés de plus de soixante ans, ne pas pouvoir justifier de 160 trimestres validés au titre de l'assurance vieillesse au sens de l'article L. 351-1 (2e alinéa) du code de la sécurité sociale, sous réserve des dispositions transitoires de l'article R. 351-45 ;
+Ne pas réunir les conditions nécessaires à la validation d'une retraite à taux plein au sens des articles R. 351-27 du code de la sécurité sociale et R. 351-45 du même code.
 
 - être physiquement apte à exercer un emploi au moment de la transformation de l'emploi à temps plein en emploi à temps partiel ; si à cette date l'intéressé se trouve dans l'incapacité de travailler pour cause de maladie ou d'accident, l'allocation de préretraite progressive ne lui est versée qu'à compter du jour où il reprend son travail à temps partiel ;
 

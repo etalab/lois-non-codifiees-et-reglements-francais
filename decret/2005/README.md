@@ -300,6 +300,8 @@
 - [Décret n°2004-1551 du 30 décembre 2004 (DEFD0401431D)](decret-n2004-1551-du-30-decembre-2004-defd0401431d)
 - [Décret n°2004-936 du 30 août 2004 (DEVG0420047D)](decret-n2004-936-du-30-aout-2004-devg0420047d)
 - [Décret n°2005-1784 du 30 décembre 2005 (AGRS0502776D)](decret-n2005-1784-du-30-decembre-2005-agrs0502776d)
+- [Décret n°2005-291 du 30 mars 2005 (MENA0500419D)](decret-n2005-291-du-30-mars-2005-mena0500419d)
+- [Décret n°2005-292 du 30 mars 2005 (SANS0521139D)](decret-n2005-292-du-30-mars-2005-sans0521139d)
 - [Décret n° 2005-69 du 31 janvier 2005 (SOCU0412287D)](decret-n-2005-69-du-31-janvier-2005-socu0412287d)
 - [Décret n°2004-1532 du 31 décembre 2004 (PRMX0407933D)](decret-n2004-1532-du-31-decembre-2004-prmx0407933d)
 - [Décret n°2005-1093 du 31 août 2005 (SOCG0521698D)](decret-n2005-1093-du-31-aout-2005-socg0521698d)

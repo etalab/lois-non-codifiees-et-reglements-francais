@@ -1,0 +1,3 @@
+# Article 24
+
+Les accessoires de levage visés au b de l'article 2 du présent arrêté, utilisés dans un établissement visé à l'article L. 231-1 du code du travail, doivent, conformément à l'article R. 233-11 dudit code, être soumis tous les douze mois à une vérification périodique comportant un examen ayant pour objet de vérifier le bon état de conservation de l'accessoire de levage et notamment de déceler toute détérioration, telle que déformation, hernie, étranglement, toron cassé, nombre de fils cassés supérieur à celui admissible, linguet détérioré, ou autre limite d'emploi précisée par la notice d'instructions du fabricant, susceptible d'être à l'origine de situations dangereuses.

@@ -1,0 +1,3 @@
+# Article 1
+
+Le présent arrêté détermine pour les grues à tour le contenu et la périodicité des examens approfondis de l'état de conservation qui doivent être effectués en complément des vérifications de bon état de conservation prescrites par l'arrêté du 1er mars 2004 relatif aux vérifications des appareils et accessoires de levage pris en application de l'article R. 233-11 du code du travail. Il précise, en outre, la nature des informations et des résultats qui doivent être reportés sur le carnet de maintenance établi et tenu à jour par le chef d'établissement, conformément à l'article R. 233-12 du code du travail dans les conditions fixées par l'arrêté du 2 mars 2004.
