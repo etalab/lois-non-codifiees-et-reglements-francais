@@ -1,0 +1,3 @@
+# Article 11
+
+Le directeur général de la concurrence, de la consommation et de la répression des fraudes au ministère de l'économie, des finances et de la privatisation, le directeur général de l'industrie, le directeur général des douanes et des droits indirects au ministère de l'économie, des finances et de la privatisation (Budget) et le délégué à la qualité de la vie au ministère de l'équipement, du logement, de l'aménagement du territoire et des transports (Environnement) sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
