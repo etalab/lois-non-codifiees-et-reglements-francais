@@ -72,6 +72,8 @@
 - [Décret n°99-697 du 3 août 1999 (INTE9900185D)](decret-n99-697-du-3-aout-1999-inte9900185d)
 - [Décret n°99-698 du 3 août 1999 (INTE9900186D)](decret-n99-698-du-3-aout-1999-inte9900186d)
 - [Décret n°99-699 du 3 août 1999 (ECOF9900029D)](decret-n99-699-du-3-aout-1999-ecof9900029d)
+- [Décret n°99-701 du 3 août 1999 (MESG9922061D)](decret-n99-701-du-3-aout-1999-mesg9922061d)
+- [Décret n°99-705 du 3 août 1999 (DEFE9955024D)](decret-n99-705-du-3-aout-1999-defe9955024d)
 - [Décret n°99-71 du 3 février 1999 (ECOT9914006D)](decret-n99-71-du-3-fevrier-1999-ecot9914006d)
 - [Décret n°99-72 du 3 février 1999 (ECOU9800009D)](decret-n99-72-du-3-fevrier-1999-ecou9800009d)
 - [Décret n°99-336 du 3 mai 1999 (ECOT9926237D)](decret-n99-336-du-3-mai-1999-ecot9926237d)
