@@ -1,8 +1,8 @@
 # Article 10
 
-La première partie comporte deux épreuves écrites, deux épreuves orales, une épreuve en deux parties de braille intégral.
+La première partie comporte deux épreuves écrites, deux épreuves orales et deux épreuves de braille intégral.
 
-La seconde partie comporte deux épreuves écrites, deux épreuves orales, une épreuve de braille abrégé et trois épreuves pratiques.
+La seconde partie comporte deux épreuves écrites, deux épreuves orales, deux épreuves de braille abrégé et trois épreuves pratiques.
 
 Les trois épreuves pratiques de la seconde partie ne peuvent être subies qu'après réussite à l'ensemble des épreuves écrites, orales et de braille de la première et de la seconde partie. Elles ont lieu dans l'établissement dans lequel le candidat est en stage, devant une commission déléguée par le jury et choisie en son sein.
 
@@ -26,7 +26,7 @@ Epreuve de braille intégral :
 
 1. Ecriture, sous la dictée, d'un texte simple d'une trentaine de lignes braille. Le texte sera complété par quelques données numériques (coefficient 1) ;
 
-2. Lecture sans préparation d'un texte d'une trentaine de lignes braille (coefficient 1).
+2. Lecture à haute voix, sans préparation, d'un texte en braille intégral d'environ 1 500 caractères. Le jury, après avoir donné le temps nécessaire au candidat pour une relecture muette du même texte, lui posera quelques questions permettant de vérifier la compréhension de ce texte (coefficient 1).
 
 B. - Epreuves de la seconde partie.
 
@@ -50,14 +50,18 @@ Epreuves de braille abrégé :
 
 1. Ecriture, sous la dictée, d'un texte d'une vingtaine de lignes braille, complété par quelques données numériques (coefficient 1) ;
 
-2. Lecture sans préparation d'un texte en braille abrégé (coefficient 1).
+2. Lecture à haute voix, sans préparation, d'un texte en braille abrégé d'environ 1 500 caractères. Le jury, après avoir donné le temps nécessaire au candidat pour une relecture muette du même texte, lui posera quelques questions permettant de vérifier la compréhension de ce texte (coefficient 1).
 
 Epreuves pratiques :
 
-1. Deux leçons données à des classes différentes (pour chaque leçon : durée maximale : quarante-cinq minutes ; coefficient 3) ;
+1. Première leçon (durée maximale : quarante-cinq minutes coefficient 3).
 
-Il sera tenu compte de l'option du candidat (cycle élémentaire ou premier cycle du secondaire).
+2. Deuxième leçon (durée maximale : quarante-cinq minutes coeficient 3).
 
-2. Connaissance et manipulation du matériel pédagogique actuellement en usage dans les établissements d'aveugles et de déficients visuels.
+Pour les candidats ayant choisi l'option Cycle élémentaire, les deux leçons devront s'effectuer dans des classes de niveaux distincts et dans des disciplines différentes.
 
-Les candidats enseignant dans le premier cycle du second degré seront interrogés sur le matériel et les codifications braille en rapport avec la discipline qu'ils professent (coefficient 1).
+Pour les candidats ayant choisi l'option Premier cycle du second degré, les deux leçons s'effectueront dans des classes de niveaux distincts.
+
+3. Interrogation orale portant sur la connaissance et la manipulation du matériel pédagogique en usage dans les établissements d'aveugles et de déficients visuels (coefficient 1).
+
+Les candidats ayant choisi l'option Premier cycle du second degré seront de plus interrogés sur le matériel et les codifications braille, lorsqu'ils existent, en rapport avec la discipline qu'ils professent.

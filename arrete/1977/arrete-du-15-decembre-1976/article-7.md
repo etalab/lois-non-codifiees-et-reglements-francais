@@ -1,17 +1,17 @@
 # Article 7
 
-Les candidatures doivent être adressées au service régional de l'action sanitaire et sociale, au plus tard un mois et demi avant la date de chaque session, par l'intermédiaire des directeurs d'établissement, qui s'assurent de la bonne constitution des dossiers.
+Les candidatures doivent être adressées à la direction régionale des affaires sanitaires et sociales, au plus tard un mois et demi avant la date de chaque session, par l'intermédiaire des directeurs d'établissement, qui s'assurent de la bonne constitution des dossiers.
 
 Le dossier d'inscription comprend :
 
-Une demande d'inscription sur papier libre ;
+- une demande d'inscription sur papier libre ;
 
-Une fiche d'état civil ;
+- une fiche d'état civil ;
 
-Certificat de nationalité française ;
+- un certificat de nationalité française ;
 
-Un extrait de casier judiciaire de moins de trois mois de date (bulletin n° 3) ;
+- une attestation relative aux stages requis à l'article 4 ;
 
-Une copie ou photocopie certifiée conforme des diplômes requis à l'article 4 (2°) du présent arrêté ;
+- une copie ou photocopie certifiée conforme des diplômes requis à l'article 4 ;
 
-Le cas échéant, copie ou photocopie certifiée conforme des titres visés à l'article 5 ci-dessus.
+- le cas échéant, copie ou photocopie certifiée conforme des titres visés à l'article 5 ci-dessous.

@@ -10,9 +10,7 @@ Membres.
 
 Un inspecteur de l'enseignement désigné par le ministre de l'éducation ;
 
-L'inspecteur de l'enseignement des déficients sensoriels ;
-
-Un inspecteur technique et pédagogique, spécialisé, attaché au ministère de la santé ;
+Un inspecteur technique et pédagogique du ministère des affaires sociales, de la santé et de la ville, chargé des établissements publics ou privés agréés d'enseignement de déficients visuels et de jeunes aveugles ;
 
 Un ophtalmologiste attaché à un établissement pour aveugles ou déficients visuels ;
 
@@ -26,6 +24,6 @@ Une ou plusieurs personnes qualifiées, choisies en fonction des épreuves que c
 
 L'arrêté fixant nommément le jury désignera quatre membres suppléants.
 
-En cas de partage des voix, celle du président est prépondérante. Le président, lorsqu'il est empêché, est suppléé par l'inspecteur de l'enseignement du ministère de l'éducation. A défaut, les membres du jury désignent l'un d'entre eux.
+En cas de partage des voix, celle du président est prépondérante. Le président, lorsqu'il est empêché, est suppléé par l'inspecteur technique et pédagogique spécialisé pour les déficients visuels du ministère des affaires sociales, de la santé et de la ville ou, à défaut, par l'inspecteur du ministère de l'éducation nationale. A défaut, les membres du jury désignent l'un d'entre eux.
 
-Le secrétariat est assuré par le ministère de la santé.
+Le secrétariat est assuré par le ministère des affaires sociales, de la santé et de la ville.
