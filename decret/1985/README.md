@@ -12,6 +12,7 @@
 - [Décret n°85-410 du 3 avril 1985](decret-n85-410-du-3-avril-1985)
 - [Décret n°85-419 du 3 avril 1985](decret-n85-419-du-3-avril-1985)
 - [Décret n°85-420 du 3 avril 1985](decret-n85-420-du-3-avril-1985)
+- [Décret n°85-576 du 3 juin 1985](decret-n85-576-du-3-juin-1985)
 - [Décret du 3 mai 1985](decret-du-3-mai-1985)
 - [Décret n°85-483 du 3 mai 1985](decret-n85-483-du-3-mai-1985)
 - [Décret n°85-487 du 3 mai 1985](decret-n85-487-du-3-mai-1985)
