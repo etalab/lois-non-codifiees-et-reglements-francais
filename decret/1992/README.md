@@ -158,6 +158,7 @@
 - [Décret n°92-107 du 30 janvier 1992 (FPPX9200020D)](decret-n92-107-du-30-janvier-1992-fppx9200020d)
 - [Décret n°92-1383 du 30 décembre 1992 (AGRA9202602D)](decret-n92-1383-du-30-decembre-1992-agra9202602d)
 - [Décret n°92-1432 du 30 décembre 1992 (SPSG9202710D)](decret-n92-1432-du-30-decembre-1992-spsg9202710d)
+- [Décret n°86-1169 du 31 octobre 1986](decret-n86-1169-du-31-octobre-1986)
 - [Décret n°91-1387 du 31 décembre 1991 (BUDB9130131D)](decret-n91-1387-du-31-decembre-1991-budb9130131d)
 - [Décret n°91-1388 du 31 décembre 1991 (SPSS9102801D)](decret-n91-1388-du-31-decembre-1991-spss9102801d)
 - [Décret n°91-1409 du 31 décembre 1991 (DEFP9102145D)](decret-n91-1409-du-31-decembre-1991-defp9102145d)
