@@ -8,8 +8,20 @@ En outre, la production du lait, la fabrication, l'affinage et la commercialisat
 
 a) Le lait utilisé pour la fabrication doit provenir uniquement de vaches de race Montbéliarde ou de race Pie rouge de l'Est, nourries suivant les usages codifiés dans les statuts des fruitières sur les pâturages sis dans l'aire de production définie à l'article 1er, l'alimentation étant exempte de produits d'ensilage ou autres aliments fermentés ;
 
-b) En application des usages locaux, loyaux et constants, ce lait doit être apporté à l'atelier de fabrication dans le plus bref délai après chaque traite ; toutefois lorsque des réservoirs réfrigérés sont utilisés à la ferme, le lait peut n'être apporté qu'une fois par jour à l'atelier, à condition que l'emprésurage intervienne dans un délai maximum de vingt-quatre heures après la traite la plus ancienne, délai qui peut être étendu exceptionnellement à trente-six heures pendant la période hivernale ;
+b) En application des usages locaux, loyaux et constants, ce lait doit être apporté à l'atelier de fabrication dans le plus bref délai après chaque traite ; toutefois lorsque des réservoirs réfrigérés sont utilisés à la ferme, le lait peut n'être apporté qu'une fois par jour à l'atelier, à condition que l'emprésurage intervienne dans un délai maximum de vingt-quatre heures après la traite la plus ancienne, délai qui peut être étendu exceptionnellement à trente-six heures, pendant la période hivernale ;
 
-c) Dans les salles de fabrication de "Gruyère de Comté" ou "Comté" la détention de tout système ou installation susceptible de chauffer le lait avant emprésurage à une température supérieure à 40 °C est interdite ;
+c) La fabrication de gruyère de comté ou comté ne peut s'exercer que dans un atelier approvisionné exclusivement avec des laits en provenance de l'aire géographique de production délimitée. Cet atelier et ses dépendances, autonomes au sein de l'établissement, ne doivent détenir aucun système ou installation susceptible de chauffer, en un temps très court, le lait avant emprésurage à une température supérieure à 40 °C. Le lait ne peut être chauffé qu'une seule fois et uniquement au moment de l'emprésurage à une température au plus égale à 40 °C.
+
+Toutefois, sous réserve que l'ensemble des laits reçus par l'établissement concerné répondent aux conditions de collecte précisées à l'alinéa précédent, le gruyère de comté ou comté peut être fabriqué dans un établissement qui traite des laits destinés à la consommation ou qui fabrique d'autres produits laitiers dans un atelier spécialisé et autonome au sein de l'établissement.
 
 d) Lorsque le fromage est vendu après préemballage, les morceaux doivent obligatoirement présenter une partie croûtée et grenée, caractéristique de l'appellation ; toutefois cette croûte peut être débarrassée de la morge.
+
+e) Lorsque le fromage est commercialisé après avoir été râpé, toute mention relative à l'appellation d'origne "Gruyère de comté" ou "Comté" est interdite.
+
+f) La plaque de caséine teintée en vert, qui assure l'identification du fromage, doit être apposée sur le talon de chaque meule et ne doit subir aucune altération. Le jour et le mois de fabrication sont indiqués par des chiffres de caséine portés respectivement à gauche et à a droite de la plaque de caséine.
+
+g) L'emploi de tout qualificatif ou autre mention accompagnant ladite appellation d'origine sur les meules ainsi que sur les étiquettes ou papiers de commerce est interdit, à l'exception :
+
+Des marques de commerce ou de fabrique particulières ;
+
+Des mentions autorisées par le règlement intérieur visé à l'article 4 et sur avis conforme du comité national des appellations d'origine des fromages.

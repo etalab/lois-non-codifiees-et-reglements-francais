@@ -6,7 +6,7 @@ Le contrôle de la qualité des fromages bénéficiant de l'appellation d'origin
 
 L'ingénieur général du génie rural, des eaux et des forêts de la région Franche-Comté ou son représentant ;
 
-l'inspecteur divisionnaire de la répression des fraudes ou son représentant ;
+L'inspecteur divisionnaire de la répression des fraudes ou son représentant ;
 
 Trois professionnels désignés par le comité interprofessionnel du gruyère de Comté, parmi lesquels est choisi le président.
 
@@ -15,3 +15,5 @@ Cette commission peut notifier aux professionnels intéressés un avertissement 
 Après deux avertissements intervenus dans le délai de six mois au maximum, la commission peut notifier une suspension pendant un mois de l'usage de l'appellation d'origine.
 
 Toutefois, cette suspension peut cesser avant l'expiration du délai d'un mois à la suite d'un contrôle ayant donné des résultats satisfaisants.
+
+En tout état de cause, les fromages qui ne sont pas conformes à la définition et aux critères de qualité fixés par le présent décret et par le règlement intérieur ne peuvent plus être commercialisés sous l'appellation d'origine "Gruyère de Comté" ou "Comté".
