@@ -1,0 +1,3 @@
+# Article 1
+
+Le cumul de plusieurs pensions basées sur la durée des services n'est permis que lorsque les pensions sont fondées sur des services effectués dans des emplois successifs ; aucun fonctionnaire ou agent ne pouvant acquérir des droits à pensions dans deux emplois concomitants qu'ils soient exercés pour le compte d'une même collectivité (Etat, départements, colonies, territoires d'outre-mer, communes), ou d'un même établissement public, ou pour le compte de collectivités ou d'établissements publics distincts. En aucun cas le temps décompté pour la liquidation d'une pension ne pourra être compté dans la liquidation d'une autre pension.
