@@ -270,6 +270,7 @@
 - [Arrêté du 6 mars 1995 (SPSP9500760A)](arrete-du-6-mars-1995-spsp9500760a)
 - [Arrêté du 6 mars 1995 (SPSS9500280A)](arrete-du-6-mars-1995-spss9500280a)
 - [Arrêté du 6 mars 1995 (SPSS9500776A)](arrete-du-6-mars-1995-spss9500776a)
+- [Arrêté du 6 novembre 1995 (TEFC9501015A)](arrete-du-6-novembre-1995-tefc9501015a)
 - [Arrêté du 6 octobre 1995 (SANP9503140A)](arrete-du-6-octobre-1995-sanp9503140a)
 - [Arrêté du 6 septembre 1995 (EQUS9501397A)](arrete-du-6-septembre-1995-equs9501397a)
 - [Arrêté du 6 mai 1995 (EQUA9500544A)](arrete-du-6-mai-1995-equa9500544a)
