@@ -101,6 +101,7 @@
 - [Décret n°84-290 du 13 avril 1984](decret-n84-290-du-13-avril-1984)
 - [Décret n°84-441 du 13 juin 1984](decret-n84-441-du-13-juin-1984)
 - [Décret n°84-639 du 13 juillet 1984](decret-n84-639-du-13-juillet-1984)
+- [Décret n°84-840 du 13 septembre 1984](decret-n84-840-du-13-septembre-1984)
 - [Décret n°84-184 du 14 mars 1984](decret-n84-184-du-14-mars-1984)
 - [Décret n°84-461 du 14 juin 1984](decret-n84-461-du-14-juin-1984)
 - [Décret n°84-463 du 14 juin 1984](decret-n84-463-du-14-juin-1984)
