@@ -1,6 +1,6 @@
 # Article 8
 
-Doivent être portées sur les récipients ou emballages, ou sur une étiquette y adhérant, les mentions suivantes, qui doivent être bien visibles, clairement lisibles et indélébiles :
+Nonobstant les dispositions des articles 5 et 6 du décret du 7 décembre 1984 portant application de la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de services, en ce qui concerne l'étiquetage et la présentation des denrées alimentaires, les mentions obligatoires qui doivent être portées sur les récipients ou emballages, ou sur une étiquette y adhérant, mentions qui doivent être bien visibles, clairement lisibles et indélébiles, sont les suivantes :
 
 a) La dénomination réservée au produit contenu dans le récipient ou l'emballage, conformément au présent décret et à son annexe ;
 
@@ -19,7 +19,5 @@ g) La mention "UHT" ou "traitement à ultra-haute température" pour les laits c
 h) Le poids net exprimé en grammes ou en kilogrammes et, pour les produits liquides ou semi-liquides en bouteilles, le volume net exprimé en litres, centilitres ou millilitres ;
 
 i) Le nom ou la raison sociale et l'adresse ou le siège social du fabricant, du conditionneur ou d'un vendeur établi dans la communauté ;
-
-j) Les mentions prévues par l'article 3 (5°, 6° et 7°) du décret susvisé du 12 octobre 1972, sous réserve du dernier alinéa dudit article et à l'exclusion des autres mentions que prévoit cet article.
 
 Les mentions visées aux a, b, c, d et h doivent figurer sur l'une des faces principales de l'emballage ou du récipient et dans le même champ visuel.

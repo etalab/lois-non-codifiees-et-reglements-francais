@@ -1,5 +1,3 @@
 # Article 4
 
-Est interdit, dans la fabrication des vinaigres, l'emploi d'acide acétique, d'acide pyroligneux, d'acides minéraux et de vinasses.
-
-Est également interdite l'addition aux vinaigres de ces mêmes produits [*produits d'addition - opérations illicites*].
+Est interdite l'addition à la bière de tous antiseptiques autres que l'anhydride sulfureux, les bisulfites et ceux qui pourront être ultérieurement autorisés dans les formes prévues au paragraphe 1er de l'article 3 ci-dessus.

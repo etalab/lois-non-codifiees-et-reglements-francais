@@ -42,7 +42,7 @@ l) Pour les jus de fruits acidifiés, la mention "avec acide" ou "avec acides", 
 
 5° Doivent en outre figurer obligatoirement sur les emballages, récipients ou étiquettes des produits mentionnés à l'article 1° du décret :
 
-a) L'indication permettant d'identifier le préemballeur, conformément à l'article 6 du décret susvisé du 12 octobre 1972, lorsqu'il s'agit d'une production nationale ;
+a) L'indication permettant d'identifier le conditionneur, dans les conditions prévues par arrêté du ministre chargé de l'industrie et du ministre chargé de la consommation, lorsqu'il s'agit d'une production nationale ;
 
 b) Le nom du pays d'origine :
 

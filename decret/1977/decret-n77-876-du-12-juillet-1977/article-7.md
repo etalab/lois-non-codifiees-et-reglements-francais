@@ -1,3 +1,3 @@
 # Article 7
 
-Nonobstant les dispositions du second alinéa de l'article 2 et celles de l'article 3 du décret susvisé du 12 octobre 1972, les seules mentions figurant obligatoirement sur les emballages, récipients ou étiquettes des produits qui font l'objet du présent décret, mentions qui doivent être bien visibles, clairement lisibles et indélébiles, sont celles qui sont énumérées au titre II de l'annexe.
+Nonobstant les dispositions des articles 5 et 6 du décret n° 84-1147 du 7 décembre 1984 portant application de la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de services, en ce qui concerne l'étiquetage et la présentation des denrées alimentaires, les mentions obligatoires qui doivent figurer sur les emballages, récipients ou étiquettes des produits qui font l'objet du présent décret mentions qui doivent être bien visibles, clairement lisibles et indélébiles, sont celles qui sont énumérées au titre II de l'annexe.

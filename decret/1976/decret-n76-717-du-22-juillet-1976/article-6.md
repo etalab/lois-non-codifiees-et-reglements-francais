@@ -1,6 +1,6 @@
 # Article 6
 
-1. Nonobstant les dispositions des articles 3 et 6 et de l'article 2 (2e alinéa) du décret du 12 octobre 1972, les mentions obligatoires à porter sur les emballages, récipients ou étiquettes du miel, mentions qui doivent être bien visibles, clairement lisibles et indélébiles, sont les suivantes :
+1. Nonobstant les dispositions des articles 5 et 6 du décret n° 84-1147 du 7 décembre 1984 portant application de la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de services, en ce qui concerne l'étiquetage et la présentation des denrées alimentaires, les mentions obligatoires qui doivent figurer sur les emballages, récipients ou étiquettes du miel, mentions qui doivent être bien visibles, clairement lisibles et indélébiles, sont  les suivantes :
 
 a) La dénomination "miel" ou l'une des dénominations énumérées à l'article 1er (par. 2) ; toutefois, le miel "en rayon" et le "miel avec morceaux de rayons" doivent être désignés comme tels ; dans les cas prévus à l'article 5 (par. 3, 1er alinéa), la dénomination du produit doit être "miel de pâtisserie" ou "miel d'industrie" ;
 

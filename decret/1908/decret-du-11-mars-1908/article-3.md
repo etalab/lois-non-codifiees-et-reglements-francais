@@ -12,11 +12,9 @@ Toutefois, les huiles de colza dont la teneur en acide érucique ne dépasse pas
 
 III. - L'huile constituée par un mélange d'huiles végétales alimentaires doit être désignée en vue de la vente par la dénomination "Huile végétale", à l'exclusion de tout qualificatif ou toute mention autres que ceux prévus au paragraphe IV et à l'article 3-1 ci-dessous.
 
-L'énumération, par ordre d'importance décroissante des composants du mélange, prescrite par l'article 3-6° du décret du 12 octobre 1972 susvisé doit être immédiatement suivie de la représentation graphique de cette composition.
+Outre les mentions prévues par les dispositions du décret n° 84-1147 du 7 décembre 1984 portant application de la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de services, en ce qui concerne l'étiquetage  et la présentation des denrées alimentaires, la liste des ingrédients doit immédiatement être suivie de la représentation graphique de la composition du mélange.
 
 Un arrêté pris conjointement par le ministre de l'agriculture et du développement rural, le ministre de l'économie et des finances, le ministre du développement industriel et scientifique et le ministre du commerce et de l'artisanat fixe en tant que de besoin les modalités d'application de l'alinéa ci-dessus.
-
-Les dispositions du dernier alinéa de l'article 3 du décret du 12 octobre 1972 susvisé ne sont pas applicables.
 
 IV. - La dénomination des huiles définies à l'article 3 est immédiatement suivie de l'une des mentions suivantes :
 

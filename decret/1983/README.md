@@ -118,6 +118,7 @@
 - [Décret n°83-489 du 14 juin 1983](decret-n83-489-du-14-juin-1983)
 - [Décret n°84-187 du 14 mars 1984](decret-n84-187-du-14-mars-1984)
 - [Décret n°86-662 du 14 mars 1986](decret-n86-662-du-14-mars-1986)
+- [Décret n°81-1112 du 15 décembre 1981](decret-n81-1112-du-15-decembre-1981)
 - [Décret n°83-101 du 15 février 1983](decret-n83-101-du-15-fevrier-1983)
 - [Décret n°83-102 du 15 février 1983](decret-n83-102-du-15-fevrier-1983)
 - [Décret n°83-104 du 15 février 1983](decret-n83-104-du-15-fevrier-1983)

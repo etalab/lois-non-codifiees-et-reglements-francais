@@ -1,0 +1,3 @@
+# Article 9
+
+Outre les mentions prévues par les dispositions du décret n° 84-1147 du 7 décembre 1984 portant application de la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de services, en ce qui concerne l'étiquetage et la présentation des denrées alimentaires, l'étiquetage des pâtes alimentaires doit comporter, s'il y a lieu, en complément de la dénomination de vente "pâtes alimentaires", les qualificatifs et indications prévus aux articles 3 et 4 ci-dessus ; toutefois, les termes "pâtes alimentaires" peuvent être remplacés par le nom, consacré par l'usage, d'une catégorie de pâtes correspondant à une certaine forme, telles que "macaroni, nouilles, vermicelle".

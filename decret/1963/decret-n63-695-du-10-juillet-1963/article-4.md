@@ -1,25 +1,19 @@
 # Article 4
 
-Les récipients dans lesquels le "lait fermenté" est mis en vente doivent être soigneusement obturés. Ces récipients ou leur dispositif de fermeture doivent être revêtus des indications suivantes :
+Les laits fermentés ne peuvent être commercialisés que préemballés.
 
-1° Le nom ou la raison sociale du fabricant ainsi que son adresse, ou le numéro d'identification de l'atelier de fabrication, dans les conditions définies par arrêté du ministre de l'agriculture ;
+Outre les mentions prévues par les dispositions du décret n° 84-1147 du 7 décembre 1984 portant application de la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de services, en ce qui concerne l'étiquetage et la présentation des denrées alimentaires, l'étiquetage des laits frais fermentés doit comporter les indications suivantes :
 
-2° La dénomination "lait fermenté" ou le nom consacré par l'usage du type de "lait fermenté" en caractères d'au moins 4 mm de hauteur ;
+- en complément de la dénomination de vente, l'indication de l'espèce animale dont le lait provient, dès lors qu'il ne s'agit pas de lait de vache ;
 
-3° La contenance en centilitres ;
+- la quantité de lait en poudre ajouté si cette addition est supérieure à 5 grammes de poudre pour 100 grammes de lait utilisé ;
 
-4° La date limite de consommation dans les conditions fixées par arrêté conjoint du ministre de l'agriculture et du ministre de la santé publique ;
+- la mention "conservation à ...", suivie de l'indication de la température à respecter ;
 
-5° La nature et la quantité de lait en poudre ajouté si cette addition est supérieure à 5 grammes de poudre pour 100 grammes de lait utilisé ;
+- la mention "maigre" faisant suite à la dénomination de vente si la teneur en matière grasse du produit, calculée sur la partie lactée est au moins égale à 3 % en poids ;
 
-6° La mention "tenir au frais" ;
+- à titre facultatif, la mention "gras", accompagnant la dénomination de vente, si la teneur en matière grasse, calculée sur la partie lactée, est inférieure à 3 % en poids ;
 
-7° La mention "maigre" faisant suite à la dénomination de vente, inscrite en caractères identiques, si la teneur en matière grasse du produit, calculée sur la partie lactée, est inférieure à 1 % en poids ;
+- suivant le cas, la mention "sucré" ou le nom de la matière aromatique utilisée si le "lait fermenté" est sucré ou aromatisé ;
 
-8° A titre facultatif, la mention "gras", accompagnant la dénomination de vente, si la teneur en matière grasse, calculée sur la partie lactée, est au moins égale à 3 % en poids ;
-
-9° Suivant le cas, la mention "sucré", "vanillé", ou le nom de la matière aromatique utilisée, si le "lait fermenté" est sucré ou aromatisé ;
-
-10° Le nom de la matière colorante utilisée ou la mention "colorant naturel", si le "lait fermenté" a fait l'objet d'une addition de matière colorante autorisée ;
-
-11° En cas d'adjonction de pulpes ou jus de fruits, de miel ou de confiture, la mention de cet additif jointe à la détermination de vente.
+- en cas d'adjonction d'un ou plusieurs ingrédients prévus à l'article 2, la mention de cet ou de ces ingrédients doit être jointe à la dénomination de vente.

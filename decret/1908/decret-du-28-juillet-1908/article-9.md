@@ -1,3 +1,3 @@
 # Article 9
 
-A titre transitoire, les arrêtés ministériels prévus à l'article 5 ci-dessus pourront être pris sans le double avis préalable de l'académie de médecine et du conseil supérieur d'hygiène publique, sauf révision desdits arrêtés, après avis de ces deux corps, dans l'année qui suivra la publication du présent décret [*dispositions transitoires - délai*].
+Un délai de six mois, à dater de la publication du présent règlement, est accordé aux intéressés pour se conformer aux prescriptions des articles 6, 7 et 8, en ce qui concerne les inscriptions réglementaires.

@@ -1,3 +1,3 @@
 # Article 3
 
-Seules les mentions [*obligatoires*] énumérées au titre III de l'annexe de ce décret doivent figurer, obligatoirement en langue française, sur les produits mentionnés à l'article 1er du présent décret destinés à la vente en France ainsi que sur les documents d'accompagnement mentionnés au 3 du III de l'annexe à ce décret.
+Nonobstant les dispositions des articles 5 et 6 du décret n° 84-1147 du 7 décembre 1984 portant application de la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de services, en ce qui concerne l'étiquetage et la présentation des denrées alimentaires, les mentions obligatoires qui doivent figurer, rédigées en langue française, sur les produits mentionnés à l'article 1er du décret destinés à la vente en France ainsi que sur les documents d'accompagnement mentionnés au 3 du III de l'annexe à ce décret sont celles qui sont énumérées au titre II de ladite annexe *étiquetage*.

@@ -1,3 +1,3 @@
 # Article 10
 
-Les dispositions des articles 1er, 2 (1er alinéa), 6 et 7 du décret susvisé du 12 octobre 1972 demeurent applicables aux produits qui font l'objet du présent décret.
+Le décret du 7 décembre 1984 précité est applicable aux produits qui font l'objet du présent décret dans toutes ses dispositions qui ne sont pas contraires à celui-ci.

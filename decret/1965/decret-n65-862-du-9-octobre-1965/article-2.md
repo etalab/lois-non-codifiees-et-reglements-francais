@@ -34,9 +34,9 @@ f) Présenter les caractéristiques suivantes en ce qui concerne les bactéries 
 
 Germes aérobies totaux : le lait ne doit pas contenir plus de 300.000 germes par millilitre lors de la remise au consommateur ;
 
-Coliformes : le lait ne doit pas contenir plus d'un coliforme par millilitre à la fin du conditionnement et plus de 10 coliformes lors de la remise au consommateur.
+Coliformes : le lait ne doit pas contenir plus d'un coliforme par millilitre à la fin du conditionnement et plus de 10 coliformes lors de la remise au consommateur. d'un litre, d'un demi-litre ou d'un quart de litre.
 
-g) Etre conditionné en emballage perdu d'une contenance d'un litre, d'un demi-litre ou d'un quart de litre. Les emballages doivent porter l'inscription "Lait pasteurisé de haute qualité" en caractères très apparents et le numéro d'immatriculation de la laiterie, défini à l'article 5 du décret du 21 mai 1955 susvisé.
+g) Les emballages doivent porter l'inscription "Lait pasteurisé de haute qualité" en caractères très apparents et le numéro d'immatriculation de la laiterie, défini à l'article 5 du décret du 21 mai 1955 susvisé.
 
 h) Etre conditionné sur les lieux de la pasteurisation dans un délai maximum de douze heures.
 
