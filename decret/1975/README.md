@@ -11,6 +11,7 @@
 - [Décret n°75-29 du 15 janvier 1975](decret-n75-29-du-15-janvier-1975)
 - [Décret n°75-1090 du 17 novembre 1975](decret-n75-1090-du-17-novembre-1975)
 - [Décret n°76-280 du 18 mars 1976](decret-n76-280-du-18-mars-1976)
+- [Décret n°75-59 du 20 janvier 1975](decret-n75-59-du-20-janvier-1975)
 - [Décret n°76-820 du 20 août 1976](decret-n76-820-du-20-aout-1976)
 - [Décret n°76-186 du 27 février 1976](decret-n76-186-du-27-fevrier-1976)
 - [Décret n°74-65 du 28 janvier 1974](decret-n74-65-du-28-janvier-1974)
