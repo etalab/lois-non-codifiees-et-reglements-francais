@@ -8,14 +8,16 @@ La liste des agents auxquels peut s'appliquer ce régime de travail est la suiva
 
 En administration centrale :
 
-- les directeurs, directeurs adjoints, chefs de service, adjoints aux sous-directeurs, chefs de bureau et adjoints aux chefs de bureau ;
+-les inspecteurs relevant du secrétaire général pour l'administration ;
 
-- les chargés de missions, chargés d'études, chefs de section ou assimilés et adjoints aux chefs de section.
+-les directeurs et assimilés, les chefs de service, les directeurs adjoints, les sous-directeurs, les directeurs de projet et les adjoints aux sous-directeurs, les chefs de bureau et les adjoints aux chefs de bureau ;
+
+-les chargés de missions, les chargés d'études, les chefs de section ou assimilés et les adjoints aux chefs de section.
 
 Dans les services territoriaux du ministère de la défense :
 
-- les responsables civils régionaux ou départementaux, les chefs d'établissements et adjoints ;
+-les responsables civils régionaux ou départementaux, les chefs d'établissements et adjoints ;
 
-- les chefs de service, chefs de départements ou chefs de bureau ;
+-les chefs de service, chefs de départements ou chefs de bureau ;
 
-- les chefs de section administratifs, techniques, paramédicaux ou médico-sociaux et leurs adjoints.
+-les chefs de section administratifs, techniques, paramédicaux ou médico-sociaux et leurs adjoints.
