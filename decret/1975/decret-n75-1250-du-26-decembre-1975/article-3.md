@@ -1,5 +1,7 @@
 # Article 3
 
-Les membres du conseil d'administration sont au nombre de douze. Quatre d'entre eux sont désignés par l'assemblée générale après agrément respectif du ministre de l'industrie et de la recherche, du ministre des affaires étrangères, du ministre de l'économie et du budget et du ministre de la défense.
+Les membres du conseil d'administration sont au nombre de dix-huit, dont :
 
-Le premier président du conseil d'administration de la société sera l'administrateur général délégué du commissariat à l'énergie atomique
+1° Douze membres désignés par l'assemblée générale, parmi lesquels quatre membres après agréments respectifs du ministre chargé de l'énergie, du ministre des relations extérieures, du ministre de la défense et conjointement des ministres chargés de l'économie et du budget.
+
+2° Six représentants des salariés de la société, élus dans les conditions et selon les modalités prévues par le chapitre II du titre II de la loi n° 83-675 du 26 juillet 1983 et par le décret n° 83-1160 du 26 décembre 1983.
