@@ -1,0 +1,3 @@
+# Article 6
+
+A l'expiration du délai de deux mois fixé pour l'affichage par l'article 6 de la loi, le notaire soumet à l'homologation du juge du tribunal d'instance, l'acte de constitution avec toutes les pièces justificatives, notamment le certificat du maire de la commune, de la situation des biens, attestant l'affichage, les exemplaires du journal d'annonces légales où a eu lieu l'insertion de l'avis exigée par l'article 6 de la loi, le certificat négatif d'inscriptions hypothécaires, la police d'assurance contre l'incendie et, soit un certificat attestant qu'il n'a été formé ou qu'il n'existe plus aucune opposition, soit la copie de celles qui ont été maintenues.
