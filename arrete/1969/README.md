@@ -12,5 +12,6 @@
 - [Arrêté du 24 mars 1969](arrete-du-24-mars-1969)
 - [Arrêté du 24 novembre 1972](arrete-du-24-novembre-1972)
 - [Arrêté du 25 avril 1969](arrete-du-25-avril-1969)
+- [Arrêté du 27 mai 1969](arrete-du-27-mai-1969)
 - [Arrêté du 28 février 1969](arrete-du-28-fevrier-1969)
 - [Arrêté du 29 janvier 1969](arrete-du-29-janvier-1969)
