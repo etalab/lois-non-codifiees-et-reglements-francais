@@ -1,3 +1,5 @@
 # Article 2
 
 Les agents du ministère des affaires sociales, du travail et de la solidarité et du ministère de la santé, de la famille et des personnes handicapées bénéficiant d'un contrat à durée déterminée peuvent, sous réserve que les termes de leur contrat ne s'y opposent pas, percevoir jusqu'au 30 juin 2003 l'indemnité forfaitaire pour travaux supplémentaires des administrations centrales dans les mêmes conditions que celles fixées pour les agents non titulaires à l'article 1er ci-dessus.
+
+Les agents non titulaires recrutés en application du décret n° 95-979 du 25 août 1995 d'application de l'article 27 de la loi n° 84-16 du 11 janvier 1984 modifiée relatif à certaines modalités de recrutement des handicapés dans la fonction publique de l'Etat peuvent bénéficier de l'indemnité forfaitaire pour travaux supplémentaires prévue par le décret du 14 janvier 2002 susvisé selon les dispositions applicables aux fonctionnaires du corps au titre duquel ils ont vocation à être intégrés.
