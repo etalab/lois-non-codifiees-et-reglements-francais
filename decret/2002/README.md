@@ -195,6 +195,7 @@
 - [Décret n°2002-598 du 25 avril 2002 (MESH0220700D)](decret-n2002-598-du-25-avril-2002-mesh0220700d)
 - [Décret n°2002-618 du 25 avril 2002 (JUSB0210097D)](decret-n2002-618-du-25-avril-2002-jusb0210097d)
 - [Décret n°2002-664 du 25 avril 2002 (INTC0200099D)](decret-n2002-664-du-25-avril-2002-intc0200099d)
+- [Décret n°54-538 du 26 mai 1954](decret-n54-538-du-26-mai-1954)
 - [Décret n°2001-1136 du 27 novembre 2001 (ECOT0114200D)](decret-n2001-1136-du-27-novembre-2001-ecot0114200d)
 - [Décret n°2001-373 du 27 avril 2001 (JUSC0120168D)](decret-n2001-373-du-27-avril-2001-jusc0120168d)
 - [Décret n°2001-712 du 27 juillet 2001 (DEFD0101687D)](decret-n2001-712-du-27-juillet-2001-defd0101687d)
