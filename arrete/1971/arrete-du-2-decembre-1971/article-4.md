@@ -1,8 +1,8 @@
 # Article 4
 
-Au plus tard le 20 du troisième mois qui suit l'échéance [*date limite*], chaque organisme conventionné fait parvenir à la caisse mutuelle régionale et à la caisse nationale une situation des recouvrements précisant pour cette échéance :
+Au plus tard le 5 du quatrième mois qui suit l'échéance [*date limite*], chaque organisme conventionné fait parvenir à la caisse mutuelle régionale et à la caisse nationale une situation des recouvrements précisant pour cette échéance :
 
-a) Le montant total des cotisations de l'appel compte tenu des modifications devenues définitives au 15 du troisième mois qui suit l'échéance ;
+a) Le montant total des cotisations de l'appel compte tenu des modifications devenues définitives au dernier jour du troisième mois qui suit l'échéance ;
 
 b) Le montant total des reversements effectués après l'échéance conformément aux dispositions de l'article 1er ci-dessus ;
 
