@@ -105,7 +105,6 @@
 - [Décret n°84-840 du 13 septembre 1984](decret-n84-840-du-13-septembre-1984)
 - [Décret n°84-184 du 14 mars 1984](decret-n84-184-du-14-mars-1984)
 - [Décret n°84-461 du 14 juin 1984](decret-n84-461-du-14-juin-1984)
-- [Décret n°84-464 du 14 juin 1984](decret-n84-464-du-14-juin-1984)
 - [Décret n°84-365 du 14 mai 1984](decret-n84-365-du-14-mai-1984)
 - [Décret n°84-1007 du 15 novembre 1984](decret-n84-1007-du-15-novembre-1984)
 - [Décret n°84-465 du 15 juin 1984](decret-n84-465-du-15-juin-1984)
