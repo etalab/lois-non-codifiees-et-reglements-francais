@@ -1,6 +1,6 @@
 # Article 1
 
-Les dispositions du présent décret sont applicables aux personnels, y compris le personnel d'encadrement, des établissements et professions qui ressortissent aux classes ci-après des nomenclatures d'activités et de produits approuvées par le décret n° 92-1129 du 2 octobre 1992 :
+Les dispositions du présent décret sont applicables aux personnels, y compris le personnel d'encadrement, des établissements et professions qui ressortissent aux classes ci-après des nomenclatures d'activités et de produits approuvées par le décret n° 2002-1622 du 31 décembre 2002 :
 
 60.2 L    Transports routiers de marchandises de proximité ;
 
@@ -9,6 +9,8 @@ Les dispositions du présent décret sont applicables aux personnels, y compris 
 60.2 N  Déménagement ;
 
 60.2 P   Location de camions avec conducteur ;
+
+63.1 E   Entreposage non frigorifique (uniquement pour les entreprises exerçant à titre principal pour le compte de tiers, une activité de prestations logistiques sur des marchandises ne leur appartenant pas mais qui leur sont confiées) ;
 
 63.4 A   Messagerie, fret express ;
 
