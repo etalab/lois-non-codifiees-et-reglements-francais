@@ -26,16 +26,64 @@ Préparateur en pharmacie de classe normale
 <td> :5e      :    416      :</td>
 </tr>
 <tr>
-<td> :4e      :    369      :</td>
+<td> :4e      :</td>
 </tr>
 <tr>
-<td> :3e      :    339      :</td>
+<td>
+<br/>   au 1er août 1990 : 374</td>
 </tr>
 <tr>
-<td> :2e      :    306      :</td>
+<td>
+<br/>   au 1er août 1991 : 379</td>
 </tr>
 <tr>
-<td> :1er     :    280      :</td>
+<td>
+<br/>   au 1er août 1992 : 386</td>
+</tr>
+<tr>
+<td> :3e      :</td>
+</tr>
+<tr>
+<td>
+<br/>   au 1er août 1990 : 343</td>
+</tr>
+<tr>
+<td>
+<br/>   au 1er août 1991 : 348</td>
+</tr>
+<tr>
+<td>
+<br/>   au 1er août 1992 : 356</td>
+</tr>
+<tr>
+<td> :2e      :</td>
+</tr>
+<tr>
+<td>
+<br/>   au 1er août 1990 : 311</td>
+</tr>
+<tr>
+<td>
+<br/>   au 1er août 1991 : 317</td>
+</tr>
+<tr>
+<td>
+<br/>   au 1er août 1992 : 326</td>
+</tr>
+<tr>
+<td> :1er     :</td>
+</tr>
+<tr>
+<td>
+<br/>   au 1er août 1990 : 289</td>
+</tr>
+<tr>
+<td>
+<br/>   au 1er août 1991 : 294</td>
+</tr>
+<tr>
+<td>
+<br/>   au 1er août 1992 : 303</td>
 </tr>
 <tr>
 <td> -------------------------</td>

@@ -25,16 +25,32 @@ Manipulateur d'électroradiologie médicale de classe normale
 <td> :5e      :    425      :</td>
 </tr>
 <tr>
-<td> :4e      :    375      :</td>
+<td>
+<br/>   au 1er août 1990 :</td>
 </tr>
 <tr>
-<td> :3e      :    339      :</td>
+<td> :4e      :    380      :</td>
 </tr>
 <tr>
-<td> :2e      :    306      :</td>
+<td>
+<br/>   au 1er août 1990 :</td>
 </tr>
 <tr>
-<td> :1er     :    274      :</td>
+<td> :3e      :    343      :</td>
+</tr>
+<tr>
+<td>
+<br/>   au 1er août 1990 :</td>
+</tr>
+<tr>
+<td> :2e      :    311      :</td>
+</tr>
+<tr>
+<td>
+<br/>   au 1er août 1990 :</td>
+</tr>
+<tr>
+<td> :1er     :    286      :</td>
 </tr>
 <tr>
 <td> -------------------------</td>

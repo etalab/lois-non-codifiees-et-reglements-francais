@@ -14,13 +14,21 @@ Infirmier de salle d'opération de classe normale ou puéricultrice de classe no
 
 5e échelon        Indices bruts : 425
 
-4e échelon        Indices bruts : 375
+au 1er août 1990 :
 
-3e échelon        Indices bruts : 339
+4e échelon        Indices bruts : 380
 
-2e échelon        Indices bruts : 306
+au 1er août 1990 :
 
-1er échelon       Indices bruts : 274
+3e échelon        Indices bruts : 343
+
+au 1er août 1990 :
+
+2e échelon        Indices bruts : 311
+
+au 1er août 1990 :
+
+1er échelon       Indices bruts : 286
 
 Infirmier de salle d'opération de classe supérieure ou puéricultrice de classe supérieure :
 
