@@ -8,9 +8,7 @@ Au titre du ministère de la défense :
 
 L'inspecteur de l'armement pour les poudres et explosifs ;
 
-Le directeur de la qualité de la délégation générale pour l'armement ;
-
-Le directeur des missiles et de l'espace.
+Le directeur des centres d'expertise et d'essais.
 
 Au titre du ministère du travail, de l'emploi et de la formation professionnelle :
 
