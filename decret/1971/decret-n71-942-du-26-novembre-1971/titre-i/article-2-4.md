@@ -1,5 +1,7 @@
 # Article 2-4
 
-Lorsque le conseil supérieur du notariat, les conseils régionaux et les chambres des notaires intéressés sont consultés en vue de permettre à la commission soit d'établir l'état des prévisions pluriannuelles ou des recommandations annuelles soit de donner son avis dans les cas prévus à l'article 2-3, ils sont tenus de faire parvenir leurs observations dans un délai de deux mois à compter de leur saisine.
+Pour chaque opération proposée au garde des sceaux, ministre de la justice, la commission indique les modalités qui pourraient être retenues.
 
-Si, à l'expiration de ce délai, les organismes professionnels consultés n'ont pas fait connaître leur avis, celui-ci est réputé favorable.
+Lorsque la commission recommande la création d'un office, elle préside le ressort du tribunal d'instance dans lequel cette création pourrait intervenir.
+
+Lorsqu'elle recommande un réaménagement de la localisation des offices par voie de transfert, la commission précise la zone dans laquelle un ou des transferts pourraient être opérés, sans que cette zone puisse excéder les limites du département.

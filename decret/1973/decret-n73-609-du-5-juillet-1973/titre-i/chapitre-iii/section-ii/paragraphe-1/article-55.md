@@ -1,5 +1,5 @@
 # Article 55
 
-Les candidatures présentées par des personnes qui ne remplissent pas les conditions pour être notaire et celles qui ne satisfont pas aux conditions de forme et de délai prévues par le présent paragraphe ne sont pas recevables.
+Avant de procéder aux nominations, le garde des sceaux demande au procureur de la République dans le ressort duquel est situé l'office choisi d'informer le candidat qu'il doit justifier dans un délai de six mois au plus, avoir pris les dispositions matérielles et financières nécessaires à son établissement.
 
-Si aucune candidature n'est recevable ou en l'absence de toute candidature, le garde des sceaux, ministre de la justice, ouvre, dans les conditions prévues à l'article 50, un délai pour le dépôt de nouvelles candidatures.
+Si le candidat ne produit pas ces justificatifs dans le délai imparti, il est réputé renoncer à l'offre. L'office est alors proposé au prochain concours utile.

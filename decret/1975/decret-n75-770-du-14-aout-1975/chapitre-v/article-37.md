@@ -1,13 +1,25 @@
 # Article 37
 
-Toute création, transfert ou suppression d'un office d'huissier de justice intervient par arrêté du garde des sceaux, ministre de la justice, qui fixe, le cas échéant, le lieu d'implantation de l'office.
+Il est institué auprès du garde des sceaux, ministre de la justice, une commission chargée de donner son avis ou d'émettre des recommandations sur la localisation des offices d'huissiers de justice en fonction des besoins du public et de la situation géographique, économique et démographique.
 
-L'arrêté portant création d'un office d'huissier de justice est pris après avis de la chambre nationale et de la chambre régionale des huissiers de justice du ressort où est prévue la création.
+Cette commission donne également son avis dans le cas prévu à l'article 6 du décret n° 56-222 du 29 février 1956.
 
-L'arrêté portant transfert ou suppression d'un office d'huissier de justice est pris après avis des chambres départementales et régionales dont relèvent les huissiers de justice concernés par le transfert ou la suppression.
+Elle est présidée par un magistrat du siège de l'ordre judiciaire hors hiérarchie, en activité ou honoraire, et comprend en outre :
 
-La chambre régionale du ressort où est situé l'office informe, en temps utile, la chambre nationale du projet de transfert ou de suppression.
+1° Le directeur des affaires civiles et du sceau au ministère de la justice ou son représentant ;
 
-La chambre nationale, ainsi que les chambres départementales et régionales, sont saisies par lettre recommandée, avec demande d'avis de réception [*conditions de forme*], par le garde des sceaux, ministre de la justice, pour la chambre nationale et par le procureur de la république près le tribunal de grande instance du ressort où est situé ou prévu l'office, pour les chambres départementales et régionales.
+2° Le directeur général de la concurrence, de la consommation et de la répression des fraudes au ministère chargé de l'économie et des finances ou son représentant ;
 
-Si, quarante-cinq jours après leur saisine [*délai*], les organismes visés aux alinéas 2 et 3 n'ont pas adressé l'avis demandé à l'autorité qui les a saisis, il est passé outre et cet avis est tenu pour favorable.
+3° Un magistrat de l'ordre judiciaire membre du parquet ;
+
+4° Le président de la Chambre nationale des huissiers de justice ou son représentant ;
+
+5° Deux huissiers de justice désignés par le garde des sceaux, ministre de la justice, après avis de la Chambre nationale des huissiers de justice ;
+
+6° Un clerc remplissant les conditions d'aptitude pour être nommé huissier de justice, désigné sur proposition de l'une des organisations syndicales des clercs d'huissiers de justice les plus représentatives.
+
+Le président et son suppléant et les membres de la commission mentionnés aux 3°, 5° et 6° ci-dessus et leurs suppléants sont désignés, pour une durée de trois ans renouvelable, par arrêté du garde des sceaux, ministre de la justice. Si le président ou l'un des membres mentionnés aux 3°, 5° ou 6° ci-dessus cesse d'exercer ses fonctions pour quelque cause que ce soit six mois au moins avant l'expiration de son mandat, il est remplacé dans les mêmes conditions pour la durée du mandat restant à courir.
+
+Le secrétariat de la commission est assuré par un magistrat ou un fonctionnaire de la direction des affaires civiles et du sceau.
+
+En cas de partage égal des voix, celle du président est prépondérante.

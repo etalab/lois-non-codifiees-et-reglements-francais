@@ -1,5 +1,7 @@
 # Article 2-5
 
-Les recommandations de la commission prévues à l'article 2-2 qui sont approuvées par la garde des sceaux, ministre de la justice, et les opérations que celui-ci envisage de réaliser dans les conditions prévues à l'article 2-3, sont notifiées au conseil supérieur du notariat par les services du ministère de la justice et autres organismes professionnels par l'intermédiaire des procureurs généraux.
+Saisie par le garde des sceaux, la commission donne son avis sur tout projet de création, de transfert ou de suppression d'un office de notaire, sur l'ouverture de bureaux annexes ou leur transformation en offices distincts. Cet avis peut être assorti de conditions particulières.
 
-En ce qui concerne les transferts d'offices, la notification précise le délai dans lequel les notaires intéressés pourront présenter une demande au procureur de la République près le tribunal de grande instance dans le ressort duquel se trouve le siège de leur office. Ne constitue pas un transfert le déplacement du siège d'un office à l'intérieur d'une même commune ; le titulaire doit toutefois en informer la chambre des notaires et le procureur de la République [*formalités*].
+Les chambres départementales et les conseils régionaux de notaires sont préalablement consultés. A défaut de réponse de leur part dans les quarante-cinq jours, leur avis est réputé favorable.
+
+Si dans les six mois de sa saisine par le garde des sceaux, ministre de la justice, la commission ne s'est pas prononcée sur le projet envisagé, son avis est réputé favorable.

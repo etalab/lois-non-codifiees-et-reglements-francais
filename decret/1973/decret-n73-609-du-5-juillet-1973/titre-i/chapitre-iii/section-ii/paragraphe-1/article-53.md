@@ -1,5 +1,9 @@
 # Article 53
 
-Le jury choisit les sujets des épreuves ; l'épreuve écrite comporte deux sujets au choix, l'un théorique et l'autre pratique.    L'organisation matérielle de l'examen est confiée au centre national d'enseignement professionnel notarial. L'épreuve écrite est organisée de manière à assurer l'anonymat des candidats ; l'épreuve orale est publique.
+Les candidats subissent deux épreuves écrites, l'une théorique, l'autre pratique, et une épreuve orale.
 
-Le jury classe les candidats par ordre de mérite.
+Les épreuves écrites sont organisées de manière à assurer l'anonymat des candidats. L'épreuve orale est publique.
+
+Le jury choisit les sujets des épreuves.
+
+L'organisation matérielle de l'examen est confiée au Centre national d'enseignement professionnel notarial.

@@ -1,7 +1,9 @@
 # Article 2-2
 
-Chaque année, avant le 1er février, la commission adresse au garde des sceaux, ministre de la justice, un rapport par lequel elle recommande, à partir de l'état prévisionnel pluriannuel qu'elle a établi, les opérations qui pourraient être réalisées en cours de l'année. Elle indique pour chaque opération les modalités qui pourraient être retenues.
+Chaque conseil régional de notaires adresse, avant le 15 février de chaque année, avec son avis, une note d'information au Conseil supérieur du notariat comportant :
 
-Lorsque la commission recommande la création d'un office, elle précise le ressort du tribunal d'instance dans lequel cette création pourrait intervenir.
+1° Le nombre de notaires, leur localisation et un état des créations, des transferts ou des suppressions d'offices, des ouvertures de bureaux annexes ou de leur transformation en offices distincts survenus durant l'année écoulée ;
 
-Lorsqu'elle recommande un réaménagement de la localisation des offices par voie de transfert, la commission précise la zone dans laquelle un ou des transferts pourraient être opérés, sans que cette zone puisse excéder les limites du département.
+2° Les données économiques et démographiques permettant de définir les besoins du public.
+
+Le Conseil supérieur du notariat transmet à la commission, au plus tard le 31 mars, les notes d'information relatives à la situation dans les cours d'appel dont elle a prévu l'examen, accompagnées de ses observations.

@@ -4,7 +4,7 @@ Nul ne peut être notaire s'il ne remplit les conditions suivantes :
 
 1° Etre français ;
 
-2° N'avoir pas été l'auteur de faits ayant donné lieu à condamnation pénale pour pour agissements contraires à l'honneur, à la probité ou aux bonnes moeurs ;
+2° N'avoir pas été l'auteur de faits contraires à l'honneur, à la probité ou aux bonnes moeurs ;
 
 3° N'avoir pas été l'auteur d'agissements de même nature ayant donné lieu à mise à la retraite d'office ou à une sanction disciplinaire ou administrative de destitution, radiation, révocation, retrait d'agrément ou d'autorisation ;
 
