@@ -106,47 +106,53 @@ Département de la Loire
 
 13° Le Noyer, le Font-d'Aix, le Machabre, le Ban.
 
-Département de la Haute-Loire
+" Département de la Haute-Loire
 
-Tous les cours d'eau de la 1re catégorie, à l'exception de :
+" Tous les cours d'eau de 1re catégorie, à l'exception de :
 
-1° L'Allier ;
+" 1° L'Allier ;
 
-2° L'Ance du Sud ;
+" 2° L'Ance du Sud ;
 
-3° La Senouire ;
+" 3° La Senioure ;
 
-4° L'Allagnon ;
+" 4° L'Allagnon ;
 
-5° La Loire ;
+" 5° La Loire ;
 
-6° La Borne et ses parties orientale et occidentale ;
+" 6° La Borne et ses parties orientale et occidentale ;
 
-7° L'Holme ;
+" 7° L'Holme ;
 
-8° La Méjeanne ;
+" 8° La Méjeanne ;
 
-9° La Fouragette ;
+" 9° La Fouragette ;
 
-10° Le ruisseau des Ceyssoux ;
+" 10° Le ruisseau des Ceyssoux ;
 
-11° La Beaume ;
+" 11° La Beaume ;
 
-12° La Gazeille ;
+" 12° La Gazeille ;
 
-13° La Gagne de Solignac ;
+" 13° La Gagne de Solignac ;
 
-14° L'Arzon ;
+" 14° L'Arzon ;
 
-15° Le Ramel ;
+" 15° Le Ramel ;
 
-16° Le Lignon du Velay ;
+" 16° Le Lignon du Velay ;
 
-17° L'Ance du Nord ;
+" 17° L'Ance du Nord ;
 
-18° La Semène ;
+" 18° La Semène ;
 
-19° Tous les affluents et sous-affluents des cours d'eau désignés du 8° au 18°. "
+" 19° Tous les affluents et sous-affluents des cours d'eau désignés du 8° au 18° ;
+
+" 20° La Seuge, en aval de la cascade Portail ;
+
+" 21° La Desges, en aval du pont de Chazelles ;
+
+" 22° La Cronce, en aval de Croncelorbe.
 
 Département de la Lozère
 
@@ -200,9 +206,13 @@ Département de la Moselle
 
 11° Tous les affluents et sous-affluents des cours d'eau ou parties de cours d'eau situés dans le département et désignés du 1° au 10°.
 
-Département du Puy-de-Dôme
+" Département du Puy-de-Dôme
 
-Tous les cours d'eau et plans d'eau de 1re catégorie, à l'exception de la Sioule, à l'aval du barrage de Queuille.
+" Tous les cours d'eau et plans d'eau de 1re catégorie, à l'exception de :
+
+" 1° La Sioule, à l'aval du barrage de Queuille ;
+
+" 2° La Dore, du barrage de Sauviat jusqu'au pont d'Ambert. "
 
 Département des Pyrénées-Atlantiques
 
