@@ -24,25 +24,19 @@ Ecole nationale supérieure des mines de Saint-Etienne ;
 
 Ecole nationale supérieure des mines de Nancy.
 
-Le programme et les conditions de déroulement de ce concours sont fixés par arrêté du ministre de l'équipement, des transports et du logement ; le nombre de places offertes dans les différentes filières et catégories est fixé chaque année par arrêté du ministre chargé des télécommunications, sur proposition du directeur de l'école.
+Le programme et les conditions de déroulement de ce concours sont fixés par arrêté du ministre de l'équipement, des transports et du logement ; le nombre de places offertes dans les différentes filières et catégories est fixé chaque année par arrêté du ministre chargé des télécommunications sur proposition du directeur de l'école.
 
 Les lauréats sont appelés à l'école en fonction de leur rang de classement et de leur choix d'écoles, selon la procédure définie par le règlement du concours. Leur admission est prononcée par le directeur de l'école.
 
-Les candidats reçus en même temps à l'Ecole polytechnique et à l'Ecole nationale supérieure des télécommunications et ayant opté pour la première conservent pendant un an la possibilité d'être admis de plein droit à l'Ecole nationale supérieure des télécommunications, dans le cas où ils ne peuvent rester élèves de l'Ecole polytechnique parce qu'ils ont été déclarés inaptes pour des raisons médicales ;
+Les candidats reçus en même temps à l'Ecole polytechnique et à l'Ecole nationale supérieure des télécommunications et ayant opté pour la première conservent pendant un an la possibilité d'être admis de plein droit à l'Ecole nationale supérieure des télécommunications, dans le cas où ils ne peuvent rester élèves de l'Ecole polytechnique parce qu'ils ont été déclarés inaptes pour des raisons médicales.
 
-b) Par le concours spécial ouvrant accès à certaines écoles et formations d'ingénieurs aux élèves issus des classes préparatoires aux grandes écoles de mathématiques et technologie (MT).
-
-Aucun candidat ne peut être admis par ce concours s'il est inscrit dans la même année au concours commun visé en a.
-
-Le nombres de places offertes est fixé chaque année par arrêté du ministre chargé de l'enseignement supérieur, sur proposition du ministre chargé des télécommunications ;
-
-c) Sur titres, pour les candidats étrangers titulaires de titres universitaires étrangers jugés suffisants pour leur permettre de suivre avec profit les enseignements de l'école.
+b) Sur titres, pour les candidats français et étrangers titulaires d'une licence de deuxième cycle des études universitaires obtenue dans une université française et sanctionnant une formation scientifique fondamentale, et pour les candidats français et étrangers titulaires de diplômes étrangers jugés équivalents.
 
 Le jury d'admission sur titres, dont la composition et le fonctionnement sont précisés aux articles 8 et 9, peut prendre en compte les résultats d'examens probatoires organisés pour vérifier le niveau des candidats dans certaines disciplines.
 
-Le nombre de places offertes est fixé chaque année par arrêté du ministre chargé des télécommunications, sur proposition du directeur d'école.
+Le nombre de places offertes est fixé chaque année par arrêté du ministre chargé des télécommunications sur proposition du directeur d'école.
 
-Aucun candidat inscrit dans la même année aux concours visés en a ou b ne peut être admis sur titres en première année ;
+Aucun candidat inscrit dans la même année au concours visé en a ne peut être admis sur titres en première année.
 
 2° En deuxième année :
 
