@@ -1,4 +1,4 @@
-# Arrêté du 14 mars 1983 RELATIF AUX NORMES DE SECURITE APPLICABLES AUX MEULEUSES PORTATIVES A MAIN ET AUX ACTES CIRCULAIRES PORTATIVES POUR LE TRAVAIL DU BOIS ET DES MATIERES SIMILAIRES
+# Arrêté du 14 mars 1983 pris en application de l'article 267 bis 7 de l'annexe II au code général des impôts.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -61,6 +61,8 @@
 - [Décret n°83-31 du 20 janvier 1983](decret-n83-31-du-20-janvier-1983)
 - [Décret n°83-128 du 21 février 1983](decret-n83-128-du-21-fevrier-1983)
 - [Décret n°83-220 du 21 mars 1983](decret-n83-220-du-21-mars-1983)
+- [Décret n°83-236 du 21 mars 1983](decret-n83-236-du-21-mars-1983)
+- [Décret n°83-242 du 21 mars 1983](decret-n83-242-du-21-mars-1983)
 - [Décret n°83-32 du 21 janvier 1983](decret-n83-32-du-21-janvier-1983)
 - [Décret n°83-33 du 21 janvier 1983](decret-n83-33-du-21-janvier-1983)
 - [Décret n°83-224 du 22 mars 1983](decret-n83-224-du-22-mars-1983)
