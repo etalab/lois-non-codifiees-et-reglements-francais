@@ -1,3 +1,5 @@
 # Article 8
 
-Le dossier technique décrit à l'article 4 du présent arrêté peut être fourni par celui qui conditionne et distribue une substance alors même qu'il la fait préparer à façon pour son compte et à titre exclusif par un tiers.
+Les décisions du comité de gestion sont exécutées par l'Agence de l'environnement et de la maitrise de l'énergie.
+
+L'Agence de l'environnement et de la maitrise de l'énergie tient une comptabilité séparée de toutes les opérations de recettes et de dépenses se rapportant à la taxe. Le membre du corps du contrôle général économique et financier peut, à tout moment, se faire présenter ladite comptabilité et demander toute pièce justificative de l'emploi des fonds.
