@@ -1,3 +1,3 @@
 # Article Annexe, art. 9
 
-L'institut [*d'émission*] ouvre des comptes courants au Trésor et aux établissements de crédit. Les comptes ouverts aux établissements de crédit ne peuvent être débiteurs.
+L'institut ouvre des comptes courants au Trésor, aux établissements de crédit et à La Poste. Les comptes ouverts aux établissements de crédit et à La Poste ne peuvent être débiteurs.
