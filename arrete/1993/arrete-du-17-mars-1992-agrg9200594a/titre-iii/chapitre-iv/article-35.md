@@ -8,18 +8,26 @@ Au cours de leur transport, les viandes fraîches provenant d'un abattoir agré�
 
 - mentionne clairement, pour les viandes congelées, le mois et l'année de congélation ;
 
+- comporte pour les viandes issues d'animaux de l'espèce bovine âgés de moins de douze mois et contenant de l'os vertébral la mention suivante : "Viandes issues de bovins âgés de moins de douze mois non soumis à l'obligation de retrait de la colonne vertébrale" ;
+
+- comporte pour les viandes issues d'animaux des espèces ovine et caprine âgés de moins de six mois et renfermant de la moelle épinière la mention suivante : "Viandes issues d'animaux âgés de moins de six mois non soumis à l'obligation de retrait de la moelle épinière" ;
+
 - pour les viandes destinées à la Finlande et à la Suède, comporte une des mentions suivantes :
 
-- le test visé à l'article 5, paragraphe 3, point a, de la directive 64/433/CEE a été effectué ;
+- le test visé à l'article 5, paragraphe 3, point a, de la directive 64/433/CEE a été effectué,
 
-- les viandes sont destinées à la transformation ;
+ou
+
+- les viandes sont destinées à la transformation,
+
+ou
 
 - les viandes proviennent d'un établissement soumis à un programme tel que visé à l'article 5, paragraphe 3, point c, de la directive 64/433/CEE.
 
 Ce document est conservé par le destinataire pendant une période minimale d'un an pour pouvoir être présenté, à leur demande, aux agents des services vétérinaires.
 
-En outre, les viandes destinées à l'exportation vers les pays tiers peuvent être accompagnées d'un certificat de salubrité délivré par le vétérinaire inspecteur de l'établissement, correspondant, dans sa présentation et son contenu, au modèle figurant à l'annexe V. Il ne comporte qu'un seul feuillet, et l'exemplaire original accompagne les viandes.
+En outre, les viandes destinées à l'exportation vers les pays tiers peuvent être accompagnées d'un certificat de salubrité délivré par le vétérinaire inspecteur de l'établissement, correspondant, dans sa présentation et son contenu, au modèle figurant à l'annexe V. Il ne comporte qu'un seul feuillet et l'exemplaire original accompagne les viandes.
 
-Lorsqu'elles sont destinées à un autre Etat membre après transit par un pays tiers, en camion on en conteneur plombés, ou lorsqu'elles ont été obtenues dans un abattoir situé dans une région ou une zone à restriction, les viandes fraîches sont accompagnées du certificat de salubrité délivré par le vétérinaire inspecteur au moment du chargement, correspondant dans sa présentation et son contenu au modèle figurant à l'annexe VI du présent arrêté. Il est établi en français et dans la ou les langues officielles du lieu de destination et comporte un seul feuillet. L'exemplaire original accompagne les viandes.
+Lorsqu'elles sont destinées à un autre Etat membre après transit par un pays tiers, en camion ou en conteneur plombés, ou lorsqu'elles ont été obtenues dans un abattoir situé dans une région ou une zone à restriction, les viandes fraîches sont accompagnées du certificat de salubrité délivré par le vétérinaire inspecteur de l'établissement, correspondant, dans sa présentation et son contenu, au modèle figurant à l'annexe VI du présent arrêté. Il est établi en français et dans la ou les langues officielles du lieu de destination et comporte un seul feuillet. L'exemplaire original accompagne les viandes.
 
 A la demande de l'autorité compétente de l'Etat membre de destination, une attestation sanitaire est fournie lorsque les viandes sont destinées à être exportées vers un pays tiers après transformation. Les frais encourus par cette attestation sont à la charge des opérateurs.
