@@ -567,6 +567,7 @@
 - [Décret n°2002-72 du 15 janvier 2002 (AGRS0102664D)](decret-n2002-72-du-15-janvier-2002-agrs0102664d)
 - [Décret n°2002-79 du 15 janvier 2002 (MENF0102684D)](decret-n2002-79-du-15-janvier-2002-menf0102684d)
 - [Décret n°2002-80 du 15 janvier 2002 (DEFP0102284D)](decret-n2002-80-du-15-janvier-2002-defp0102284d)
+- [Décret n°86-1037 du 15 septembre 1986](decret-n86-1037-du-15-septembre-1986)
 - [Décret n°96-35 du 15 janvier 1996 (AGRA9502190D)](decret-n96-35-du-15-janvier-1996-agra9502190d)
 - [Décret n°2002-889 du 15 mai 2002 (INTX0200080D)](decret-n2002-889-du-15-mai-2002-intx0200080d)
 - [Décret n°2002-890 du 15 mai 2002 (INTX0200095D)](decret-n2002-890-du-15-mai-2002-intx0200095d)
