@@ -208,7 +208,6 @@
 - [Décret n°92-132 du 5 février 1992 (RESY9100243D)](decret-n92-132-du-5-fevrier-1992-resy9100243d)
 - [Décret n°92-208 du 5 mars 1992 (SANH9200432D)](decret-n92-208-du-5-mars-1992-sanh9200432d)
 - [Décret n°92-219 du 5 mars 1992 (BUDF9200006D)](decret-n92-219-du-5-mars-1992-budf9200006d)
-- [Décret n°92-489 du 5 juin 1992](decret-n92-489-du-5-juin-1992)
 - [Décret n°92-495 du 5 juin 1992 (EQUS9200203D)](decret-n92-495-du-5-juin-1992-equs9200203d)
 - [Décret n°92-507 du 5 juin 1992 (EQUT9200094D)](decret-n92-507-du-5-juin-1992-equt9200094d)
 - [Décret n°92-510 du 5 juin 1992 (SANP9201271D)](decret-n92-510-du-5-juin-1992-sanp9201271d)
