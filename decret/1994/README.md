@@ -72,6 +72,7 @@
 - [Décret n°94-856 du 3 octobre 1994 (ECOP9400393D)](decret-n94-856-du-3-octobre-1994-ecop9400393d)
 - [Décret n°94-866 du 3 octobre 1994 (MCCB9400108D)](decret-n94-866-du-3-octobre-1994-mccb9400108d)
 - [Décret n°94-867 du 3 octobre 1994 (MCCB9400109D)](decret-n94-867-du-3-octobre-1994-mccb9400109d)
+- [Décret n°85-159 du 4 février 1985](decret-n85-159-du-4-fevrier-1985)
 - [Décret n°94-116 du 4 février 1994 (JUSC9420054D)](decret-n94-116-du-4-fevrier-1994-jusc9420054d)
 - [Décret n°94-117 du 4 février 1994 (JUSC9420055D)](decret-n94-117-du-4-fevrier-1994-jusc9420055d)
 - [Décret n°94-120 du 4 février 1994 (SPSG9303342D)](decret-n94-120-du-4-fevrier-1994-spsg9303342d)
