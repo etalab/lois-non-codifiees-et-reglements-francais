@@ -44,3 +44,4 @@
 - [Décret n°59-343 du 26 février 1959](decret-n59-343-du-26-fevrier-1959)
 - [Décret n°59-487 du 27 mars 1959](decret-n59-487-du-27-mars-1959)
 - [Décret n°59-587 du 29 avril 1959](decret-n59-587-du-29-avril-1959)
+- [Décret n°59-708 du 29 mai 1959](decret-n59-708-du-29-mai-1959)

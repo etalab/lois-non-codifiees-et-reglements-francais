@@ -1,0 +1,3 @@
+# Article 92
+
+Pour les services relevant de leur profession non prévus au présent chapitre ainsi que pour ceux rendus dans l'exercice des fonctions accessoires qu'ils sont autorisés à remplir et qui ne font pas l'objet d'un tarif particulier, les frais et honoraires des administrateurs judiciaires-liquidateurs de sociétés sont, à défaut de règlement amiable entre l'auxiliaire de justice et les parties, et sauf opposition à taxe, taxés par le président du tribunal de grande instance jugeant commercialement qui a désigné l'administrateur judiciaire-liquidateur de sociétés ou du tribunal de grande instance de la résidence de celui-ci s'il a été désigné par un tribunal de commerce.
