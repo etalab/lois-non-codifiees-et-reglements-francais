@@ -1,4 +1,4 @@
-# TITRE VI : DE LA POSITION DE CONGÉ PARENTAL.
+# TITRE VI : CONGÉ PARENTAL ET CONGÉ DE PRÉSENCE PARENTALE.
 
 - [Article 40](article-40.md)
 - [Article 41](article-41.md)
