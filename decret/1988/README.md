@@ -46,6 +46,8 @@
 - [Décret n°88-152 du 16 février 1988 (ECOT8820056D)](decret-n88-152-du-16-fevrier-1988-ecot8820056d)
 - [Décret n°88-157 du 16 février 1988 (FPPA8700092D)](decret-n88-157-du-16-fevrier-1988-fppa8700092d)
 - [Décret n°90-1022 du 16 novembre 1990 (PRMG8970365D)](decret-n90-1022-du-16-novembre-1990-prmg8970365d)
+- [Décret n°88-158 du 17 février 1988 (BUDB8840007D)](decret-n88-158-du-17-fevrier-1988-budb8840007d)
+- [Décret n°88-160 du 17 février 1988 (ASEA8800239D)](decret-n88-160-du-17-fevrier-1988-asea8800239d)
 - [Décret n°69-389 du 18 avril 1969](decret-n69-389-du-18-avril-1969)
 - [Décret n°88-59 du 18 janvier 1988 (ASEP8701793D)](decret-n88-59-du-18-janvier-1988-asep8701793d)
 - [Décret n°88-61 du 18 janvier 1988 (ASES8701861D)](decret-n88-61-du-18-janvier-1988-ases8701861d)
