@@ -1,5 +1,6 @@
 # Décret n°71-343 du 29 avril 1971 relatif aux fonctions et au régime indemnitaire des fonctionnaires de l'Etat et des établissements publics affectés au traitement de l'information.
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
