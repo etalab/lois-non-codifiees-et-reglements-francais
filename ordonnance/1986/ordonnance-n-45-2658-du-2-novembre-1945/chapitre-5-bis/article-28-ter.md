@@ -1,3 +1,0 @@
-# Article 28 ter
-
-Peut également faire l'objet d'un arrêté d'assignation à résidence, à titre probatoire et exceptionnel, l'étranger qui fait l'objet d'un arrêté d'expulsion sur le fondement du dernier alinéa de l'article 25 ou du 2° de l'article 25 bis. Cette mesure est assortie d'une autorisation de travail. Elle peut être abrogée à tout moment en cas de faits nouveaux constitutifs d'un comportement préjudiciable à l'ordre public. Les obligations de présentation aux services de police et aux unités de gendarmerie ainsi que les sanctions en cas de non-respect des prescriptions liées à l'assignation en résidence prévues par l'article 28 sont applicables.
