@@ -1,3 +1,7 @@
 # Article 6
 
-Le ministre d'Etat, ministre de l'économie, des finances et du budget, le ministre des affaires sociales et de la solidarité, le ministre délégué au budget et le ministre délégué à la santé sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française et prend effet, sauf dispositions contraires, au 1er août 1990 [*date*].
+Le classement indiciaire applicable aux agents du corps des conducteurs ambulanciers relevant du grade de conducteur ambulancier hors catégorie est fixé comme suit :
+
+Indices bruts :
+
+Conducteur ambulancier hors catégorie : 396-449.
