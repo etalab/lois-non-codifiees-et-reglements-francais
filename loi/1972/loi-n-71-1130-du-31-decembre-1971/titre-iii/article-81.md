@@ -1,7 +1,9 @@
 # Article 81
 
-Les dispositions des articles 3 à 9, 11 à 25, 53 (2°), 74 et 79 sont applicables aux territoires de la Nouvelle-Calédonie et dépendances, de la Polynésie française, ainsi qu'au territoire français des Afars et des Issas, sous réserve des matières relevant de la compétence des assemblées territoriales et de la Chambre des députés de ces territoires.
+Les articles 1er (I), 3 à 27, 49, 50 (VII, IX et XII), 53 (1° à 12° et 14°), 67, 68, 72, 73 et 74 sont applicables aux territoires d'outre-mer. Il en est de même pour la collectivité territoriale de Mayotte, à l'exception du 9° de l'article 53, qui ne s'applique qu'en tant qu'il concerne les conditions d'application de l'article 27.
 
-Les mêmes dispositions ainsi que les 1° et 3° à 8° de l'article 53 sont applicables aux territoires des îles Saint-Pierre-et-Miquelon et des îles Wallis et Futuna ainsi qu'au territoire des Terres australes et antarctiques françaises.
+Ne sont pas applicables à la collectivité territoriale de Saint-Pierre-et-Miquelon les articles 1er (III), 2, 28 à 48, 50 (II à VI, VIII, X, XI et XIII), 53 (13° et 15°), 54 à 66-6, 71, 76, 77 et 80. Le 9° de l'article 53 ne s'applique qu'en tant qu'il concerne les conditions d'application de l'article 27.
 
-Dans ce dernier territoire, l'article 27 est également applicable.
+Toutefois, pour l'application de l'article 11, seul peut être pris en compte un diplôme français au moins équivalent à la maîtrise en droit ou un titre ou diplôme français reconnu comme équivalent pour l'exercice de la profession dans les conditions fixées par l'arrêté prévu à cet article.
+
+Le VII de l'article 50 et la dernière phrase du dernier alinéa de l'article 11 ne sont applicables à la collectivité territoriale de Mayotte, à la collectivité territoriale de Saint-Pierre-et-Miquelon et aux territoires d'outre-mer qu'en tant qu'ils concernent des ressortissants français.

@@ -1,7 +1,9 @@
 # Article 55
 
-Les personnes de nationalité étrangère peuvent, à titre professionnel, donner des consultations ou rédiger des actes pour autrui en matière juridique à condition :
+Toute personne autorisée par le présent chapitre à donner des consultations juridiques ou à rédiger des actes sous seing privé, pour autrui, de manière habituelle et rémunérée, doit être couverte par une assurance souscrite personnellement ou collectivement et garantissant les conséquences pécuniaires de la responsabilité civile professionnelle qu'elle peut encourir au titre de ces activités.
 
-1° Que leurs activités portent à titre principal sur l'application des droits étrangers et du droit international ;
+Elle doit également justifier d'une garantie financière, qui ne peut résulter que d'un engagement de caution pris par une entreprise d'assurance régie par le code des assurances ou par un établissement de crédit habilités à cet effet, spécialement affectée au remboursement des fonds, effets ou valeurs reçus à ces occasions.
 
-2° Qu'elles soient inscrites sur la liste prévue à l'article 54.    Ces conditions ne sont pas exigées des ressortissants des Etats membres des communautés européennes ou d'un Etat qui accorde sans restriction aux Français la faculté d'exercer l'activité professionnelle qu'ils se proposent eux-mêmes d'exercer en France.
+En outre, elle doit respecter le secret professionnel conformément aux dispositions de l'article 378 du code pénal et s'interdire d'intervenir si elle a un intérêt direct ou indirect à l'objet de la prestation fournie.
+
+Les obligations prévues à l'alinéa précédent sont également applicables à toute personne qui, à titre habituel et gratuit, donne des consultations juridiques ou rédige des actes sous seing privé.

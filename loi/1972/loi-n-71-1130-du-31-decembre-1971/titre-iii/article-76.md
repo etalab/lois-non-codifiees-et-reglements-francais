@@ -32,4 +32,4 @@ L'ordonnance n° 45-2591 du 2 novembre 1945 relative au statut des avoués ;
 
 L'ordonnance n° 45-1418 du 28 juin 1945 relative à la discipline de certains officiers ministériels.
 
-Dans toute disposition législative ou réglementaire, applicable à la date d'entrée en vigueur de la présente loi, l'appellation "avocat" est substituée à celle d'"avoué" lorsque celle-ci désigne les avoués près les tribunaux de grande instance.
+Dans toute disposition législative applicable à la date d'entrée en vigueur du titre Ier de la loi n° 90-1259 du 31 décembre 1990 portant réforme de certaines professions judiciaires et juridiques, le mot : "avocat" est substitué aux mots : "conseil juridique".

@@ -1,3 +1,3 @@
 # Article 68
 
-Lorsque le dirigeant de droit ou de fait d'une personne morale a fait l'objet d'une sanction visée à l'article 67, cette personne morale peut être frappée de l'incapacité prévue audit article par décision du tribunal de grande instance de son siège social, prise à la requête du ministère public.
+Les avocats qui ont prêté serment avant la date d'entrée en vigueur du titre Ier de la loi n° 90-1259 du 31 décembre 1990 portant réforme de certaines professions judiciaires et juridiques sont dispensés de le prêter à nouveau selon la formule de l'article 3.

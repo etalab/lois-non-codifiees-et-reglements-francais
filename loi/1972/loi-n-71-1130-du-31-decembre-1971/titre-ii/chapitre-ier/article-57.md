@@ -1,7 +1,3 @@
 # Article 57
 
-Toute personne se prévalant des dispositions de l'article 54 en fait la déclaration au procureur de la République près le tribunal de grande instance dans le ressort duquel elle se propose d'établir son domicile professionnel.
-
-Le procureur de la République se prononce, au vu des justifications produites, sur l'existence des conditions requises.    Il établit la liste des personnes qui remplissent les conditions prévues pour figurer sur une liste de conseils juridiques et tient celle-ci à jour.
-
-Ses décisions peuvent être déférées devant le tribunal. Il peut être fait appel des décisions de celui-ci devant la cour d'appel.
+Les personnes entrant dans le champ d'application du décret du 29 octobre 1936 relatif aux cumuls de retraites, de rémunérations et de fonctions, en activité ou en retraite, et dans les conditions prévues par ledit décret, ainsi que les enseignants des disciplines juridiques des établissements privés d'enseignement supérieur reconnus par l'Etat délivrant des diplômes visés par le ministre chargé de l'enseignement supérieur, peuvent donner des consultations en matière juridique.

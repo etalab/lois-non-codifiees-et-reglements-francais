@@ -1,19 +1,29 @@
 # Article 14
 
-I - Un centre de formation professionnelle est institué auprès de chaque cour d'appel. Plusieurs centres limitrophes de formation professionnelle d'avocat peuvent, par décision de leurs conseils, se grouper et organiser, par délibération conjointe, un centre régional de formation professionnelle.
+Un centre régional de formation professionnelle est institué auprès de chaque cour d'appel.
 
-Un centre régional de formation professionnelle peut, pareillement, être institué par délibération unanime des conseils de l'ordre des barreaux intéressés.
+Plusieurs centres régionaux peuvent se regrouper par décision de leur conseil d'administration.
 
-Des sections locales du centre de formation professionnelle peuvent être créées dans les villes pourvues d'unités d'études et de recherches juridiques.
+Des sections locales d'un centre régional de formation professionnelle peuvent être créées dans les villes pourvues d'unités de formation et de recherches juridiques.
 
-II - Le centre de formation professionnelle est chargé :
+Le centre régional de formation professionnelle est un établissement d'utilité publique doté de la personnalité morale.
 
-De participer à la préparation au certificat d'aptitude à la profession d'avocat ;
+Il est chargé :
 
-D'assurer l'enseignement et la formation professionnelle des avocats pendant la durée du stage ainsi que la formation permanente des avocats.
+1° De participer à la préparation du certificat d'aptitude à la profession d'avocat ;
 
-III - Le centre de formation professionnelle d'avocat est administré par un conseil d'administration dont la composition est fixée par le décret visé à l'article 53.
+2° D'assurer, soit directement, soit en liaison avec les universités, soit avec les organismes d'enseignement ou de formation professionnelle publics ou privés, l'enseignement et la formation professionnelle des avocats ;
 
-Le conseil d'administration est chargé de la gestion et de l'administration du centre de formation professionnelle.
+3° De statuer sur les demandes de dispense d'une partie de la formation professionnelle en fonction des diplômes universitaires obtenus par les intéressés, sous réserve des dispositions réglementaires prises pour l'application de la directive C.E.E. n° 89-48 du 21 décembre 1988 précitée ;
 
-Il établit le budget du centre professionnel de stage. Il dresse, pour le 1er février de chaque année, le bilan des opérations pour l'année précédente qu'il communique à tous les barreaux de son ressort et au garde des sceaux, ministre de la justice.
+4° De contrôler les conditions de déroulement du stage ;
+
+5° D'assurer la formation permanente des avocats ;
+
+6° D'organiser le contrôle des connaissances prévu à l'article 12-1 et de délivrer les certificats de spécialisation, sous réserve des dispositions réglementaires prévues au 3° ci-dessus.
+
+Le centre régional de formation professionnelle est administré par un conseil d'administration.
+
+Le conseil d'administration est chargé de la gestion et de l'administration du centre régional de formation professionnelle. Il en établit le budget et dresse, pour le 1er février de chaque année, le bilan des opérations de l'année précédente. Il adresse ce bilan au Conseil national des barreaux, qui le communique au garde des sceaux, ministre de la justice.
+
+Les recours à l'encontre des décisions concernant la formation professionnelle sont soumis à la cour d'appel compétente.
