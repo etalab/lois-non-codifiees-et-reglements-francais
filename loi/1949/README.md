@@ -12,6 +12,5 @@
 - [Loi n° 49-958 du 18 juillet 1949](loi-n-49-958-du-18-juillet-1949)
 - [Loi n° 49-972 du 21 juillet 1949](loi-n-49-972-du-21-juillet-1949)
 - [Loi n° 49-984 du 23 juillet 1949](loi-n-49-984-du-23-juillet-1949)
-- [Loi n°1949-12-01. du 1 décembre 1949](loi-n1949-12-01-du-1-decembre-1949)
 - [Loi n°49-809 du 22 juin 1949](loi-n49-809-du-22-juin-1949)
 - [Loi n°49-890 du 7 juillet 1949](loi-n49-890-du-7-juillet-1949)
