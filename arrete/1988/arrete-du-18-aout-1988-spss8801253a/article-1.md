@@ -1,6 +1,6 @@
 # Article 1
 
-Les cotisations de sécurité sociale (assurances sociales, accidents du travail et allocations familiales) dues au titre des personnes en difficulté sociale exerçant une ou plusieurs activités rémunérées dans un but de réinsertion socioprofessionnelle sont calculées sur une base forfaitaire égale, par heure de travail, à 30 p. 100 du salaire minimum interprofessionnel de croissance en vigueur au 1er janvier de l'année civile en cours.
+Les cotisations de sécurité sociale (assurances sociales, accidents du travail et allocations familiales) dues au titre des personnes en difficulté sociale exerçant une ou plusieurs activités rémunérées dans un but de réinsertion socioprofessionnelle sont calculées sur une base forfaitaire égale, par heure de travail, à 40 p. 100 du salaire minimum interprofessionnel de croissance en vigueur au 1er janvier de l'année civile en cours.
 
 Sont concernées par cette disposition [*bénéficiaires*] les personnes qui sont accueillies dans les structures suivantes :
 
