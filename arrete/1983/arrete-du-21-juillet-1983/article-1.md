@@ -4,4 +4,6 @@ Il est interdit d'altérer et de dégrader sciemment les milieux particuliers au
 
 Astacus astacus (Linné) 1758 : écrevisse à pieds rouges ;
 
-Austropotamobius pallipes (Lereboullet) 1858 : écrevisse à pieds blancs.
+Austropotamobius pallipes (Lereboullet) 1858 : écrevisse à pieds blancs ;
+
+Austropotamobius torrentium (Schrank 1803) synonyme : Astacus torrentium : écrevisse des torrents.

@@ -90,6 +90,7 @@
 - [Décret n°2000-1292 du 26 décembre 2000 (DEFP0002435D)](decret-n2000-1292-du-26-decembre-2000-defp0002435d)
 - [Décret n°2000-361 du 26 avril 2000 (ECOP0000202D)](decret-n2000-361-du-26-avril-2000-ecop0000202d)
 - [Décret n°95-462 du 26 avril 1995 (MCCX9400163D)](decret-n95-462-du-26-avril-1995-mccx9400163d)
+- [Décret n° 2000-69 du 27 janvier 2000 (EQUX0000013D)](decret-n-2000-69-du-27-janvier-2000-equx0000013d)
 - [Décret n°2001-892 du 27 septembre 2001 (JUSA0100128D)](decret-n2001-892-du-27-septembre-2001-jusa0100128d)
 - [Décret n°2000-379 du 28 avril 2000 (JUSF0050013D)](decret-n2000-379-du-28-avril-2000-jusf0050013d)
 - [Décret n°99-1133 du 28 décembre 1999 (ECOI9920328D)](decret-n99-1133-du-28-decembre-1999-ecoi9920328d)
