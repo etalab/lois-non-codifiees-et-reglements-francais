@@ -57,6 +57,7 @@
 - [Arrêté du 6 mai 2000 (INTE0000269A)](arrete-du-6-mai-2000-inte0000269a)
 - [Arrêté du 6 mai 2000 (INTE0000270A)](arrete-du-6-mai-2000-inte0000270a)
 - [Arrêté du 6 mai 2000 (INTE0000271A)](arrete-du-6-mai-2000-inte0000271a)
+- [Arrêté du 6 mai 2000 (INTE0000272A)](arrete-du-6-mai-2000-inte0000272a)
 - [Arrêté du 7 août 2000 (ATEG0090069A)](arrete-du-7-aout-2000-ateg0090069a)
 - [Arrêté du 7 février 2000 (ECOI9900619A)](arrete-du-7-fevrier-2000-ecoi9900619a)
 - [Arrêté du 7 février 2000 (MESM9923850A)](arrete-du-7-fevrier-2000-mesm9923850a)
