@@ -2,8 +2,6 @@
 
 Le commandant de région aérienne est responsable de l'aptitude des bases aériennes à assurer leurs missions.
 
-Il est chargé du contrôle et de la coordination de la circulation aérienne militaire dans l'espace aérien de sa compétence.
-
 Il est membre du comité interarmées régional.
 
 Le commandant de région aérienne est, en outre, responsable dans les domaines suivants :
@@ -14,13 +12,13 @@ Le commandant de région aérienne est, en outre, responsable dans les domaines 
 
 3° Relations avec les autorités civiles et participation de l'armée de l'air à des activités ne relevant pas de ses missions spécifiques ;
 
-4° Discipline générale, sous réserve des compétences des commandements spécialisés et des directions de service ;
+4° Discipline générale sous réserve des compétences des commandements organiques et des directions de service ;.
 
 5° Service de garnison ;
 
-6° Infrastructure, sous réserve des attributions confiées aux commandements spécialisés ou aux directions de service ;
+6° Infrastructure, sous réserve des attributions confiées aux commandements organiques ou aux directions de service ;
 
-7° Hygiène, sécurité, prévention et conditions de travail, sous réserve des responsabilités des commandements spécialisés et des directions de service ;
+7° Hygiène, sécurité, prévention et conditions de travail, sous réserve des responsabilités des commandements organiques et des directions de service ;.
 
 8° Logement ;
 

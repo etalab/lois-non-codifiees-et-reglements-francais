@@ -14,4 +14,4 @@ Ils sont placés sous l'autorité d'un directeur central dont les responsabilit�
 
 Outre une direction centrale, ils peuvent comprendre des établissements et des organismes qui relèvent du directeur central, soit directement, soit par l'intermédiaire de directeurs locaux.
 
-Des éléments des services sont rattachés aux commandements spécialisés ou peuvent être placés de façon occasionnelle sous leur autorité.
+Des éléments des services sont rattachés aux commandements ou peuvent être placés de façon occasionnelle sous leur autorité.
