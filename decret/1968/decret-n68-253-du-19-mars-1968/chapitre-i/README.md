@@ -2,6 +2,7 @@
 
 - [Article 1](article-1.md)
 - [SECTION I : IMMATRICULATION.](section-i)
+- [Article 2](article-2.md)
 - [SECTION II : AFFILIATION DES ASSURES A UN ORGANISME CONVENTIONNE.](section-ii)
 - [Article 3](article-3.md)
 - [SECTION III : CHANGEMENTS DE SITUATION DES ASSURES](section-iii)
