@@ -79,6 +79,7 @@
 - [Décret n°90-44 du 9 janvier 1990 (MCCB8900540D)](decret-n90-44-du-9-janvier-1990-mccb8900540d)
 - [Décret n°90-45 du 9 janvier 1990 (MCCB8900541D)](decret-n90-45-du-9-janvier-1990-mccb8900541d)
 - [Décret n°90-46 du 9 janvier 1990 (MCCB8900542D)](decret-n90-46-du-9-janvier-1990-mccb8900542d)
+- [Décret n°90-318 du 10 avril 1990 (JUSA9000019D)](decret-n90-318-du-10-avril-1990-jusa9000019d)
 - [Décret n°90-40 du 10 janvier 1990 (MAEJ8930119D)](decret-n90-40-du-10-janvier-1990-maej8930119d)
 - [Décret n°90-73 du 10 janvier 1990 (MCCB8900588D)](decret-n90-73-du-10-janvier-1990-mccb8900588d)
 - [Décret n°90-38 du 11 janvier 1990 (ECOA9000009D)](decret-n90-38-du-11-janvier-1990-ecoa9000009d)
