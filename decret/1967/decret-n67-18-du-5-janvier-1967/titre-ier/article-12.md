@@ -2,7 +2,7 @@
 
 Lorsque les huissiers de justice ont reçu mandat de recouvrer ou d'encaisser amiablement des sommes dues par un débiteur, il leur est alloué un droit proportionnel calculé sur les tranches suivantes :
 
-12 p. 100 de 0 F jusqu'à 800 F ;
+12 p. 100 jusqu'à 800 F ;
 
 11 p. 100 de 801 F jusqu'à 2 000 F ;
 

@@ -4,7 +4,7 @@ les membres de la sous-commission compétence, en ce qui concerne le second degr
 
 - les membres des corps d'inspection compétents pour le second degré ;
 
-- les enseignants-chercheurs, désignés pour la moitié d'entre eux après consultation des organisations syndicales les plus représentatives ;
+- les enseignants-chercheurs, les autres formateurs de l'institut universitaire de formation des maîtres , désignés pour la moitié d'entre eux après consultation des organisations syndicales les plus représentatives ;
 
 - les chefs d'établissement du second degré ;
 
@@ -14,4 +14,4 @@ les membres de la sous-commission compétence, en ce qui concerne le second degr
 
 Les membres des corps d'inspection, les chefs d'établissement et les personnels enseignants du second degré sont désignés par le recteur d'académie et doivent représenter au moins 50 p. 100 des membres de la sous-commission.
 
-Les enseignants-chercheurs et les étudiants sont désignés par le directeur de l'institut universitaire de formation des maîtres.
+Les enseignants-chercheurs, les autres formateurs de l'institut universitaire de formation des maîtres et les étudiants sont désignés par le directeur de l'institut universitaire de formation des maîtres.

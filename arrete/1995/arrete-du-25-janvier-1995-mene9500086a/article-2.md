@@ -6,7 +6,7 @@ Les membres de la sous-commission compétente, en ce qui concerne le premier deg
 
 - les inspecteurs de l'éducation nationale chargés de circonscription primaire ;
 
-- les enseignants-chercheurs, désignés pour la moitié d'entre eux après consultation des organisations syndicales les plus représentatives ;
+- les enseignants-chercheurs, les autres formateurs de l'institut universitaire de formation des maîtres désignés pour la moitié d'entre eux après consultation des organisations syndicales les plus représentatives ;
 
 - les instituteurs et professeurs des écoles maîtres formateurs ;
 
@@ -16,4 +16,4 @@ Les membres de la sous-commission compétente, en ce qui concerne le premier deg
 
 Les membres des corps d'inspection, les instituteurs et professeurs des écoles maîtres formateurs et les instituteurs et professeurs des écoles sont désignés par le recteur d'académie et doivent représenter au moins 50 p. 100 des membres de la sous-commission.
 
-Les enseignants-chercheurs et les étudiants sont désignés par le directeur de l'institut universitaire de formation des maîtres.
+Les enseignants-chercheurs, les autres formateurs de l'institut universitaire de formation des maîtres et les étudiants sont désignés par le directeur de l'institut universitaire de formation des maîtres.

@@ -30,6 +30,8 @@ II. - Lorsque l'infirmité contractée en service aérien entraîne la mise à l
 
 a) Si celui-ci est marié ou a des enfants à charge : montant égal à celui prévu pour le conjoint survivant avec un ou plusieurs enfants à charge au I du présent article ;
 
+L'allocation principale visée au 1° ci-dessus est calculée au taux en vigueur à la date de la mise à la retraite ou de la réforme définitive de l'affilié.
+
 b) Dans les autres cas : montant égal à celui prévu pour le conjoint survivant sans enfant à charge au I du présent article ;
 
 2° En cas d'invalidité égale ou supérieure à 60 p. 100 après consolidation de la blessure, l'allocation est augmentée par enfant à charge d'un montant égal à celui fixé au 2° du I du présent article.
