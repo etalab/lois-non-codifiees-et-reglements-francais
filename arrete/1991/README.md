@@ -5,7 +5,6 @@
 - [Arrêté du 1 août 1991 (MENZ9101918A)](arrete-du-1-aout-1991-menz9101918a)
 - [Arrêté du 1 août 1991 (SANM9101766A)](arrete-du-1-aout-1991-sanm9101766a)
 - [Arrêté du 1 août 1991 (SPSP9101829A)](arrete-du-1-aout-1991-spsp9101829a)
-- [Arrêté du 1 août 1991 (SPSS9101779A)](arrete-du-1-aout-1991-spss9101779a)
 - [Arrêté du 1 août 1991 (TEFT9103855A)](arrete-du-1-aout-1991-teft9103855a)
 - [Arrêté du 1 avril 1991 (ENVN9161143A)](arrete-du-1-avril-1991-envn9161143a)
 - [Arrêté du 1 février 1991 (BUDB9160014A)](arrete-du-1-fevrier-1991-budb9160014a)
