@@ -10,6 +10,6 @@ Soit par des règlements techniques homologués conformément aux dispositions d
 
 Soit par des règlements spéciaux, applicables aux semences et plants produits hors de France, et approuvés par arrêté du ministre de l'agriculture.
 
-3° Etre conditionnés dans des emballages conformes aux types prévus, selon les cas, par les règlements techniques ou les règlements mentionnés au 2° ci-dessus ; ces emballages doivent être accompagnés d'un document officiel fixé de telle sorte qu'il ne puisse en être séparé.
+3° Etre conditionnés dans des emballages conformes aux types prévus, selon les cas, par les règlements techniques ou les règlements mentionnés au 2° ci-dessus ; ces emballages, mis à part les emballages des semences standard de légumes, doivent être accompagnés d'un document officiel fixé de telle sorte qu'il ne puisse en être séparé.
 
 II. - Ne peuvent être mis sur le marché en France dans les termes "semences" ou "plants" non suivis d'un qualificatif les produits qui ne présentent pas les caractéristiques génétiques, physiologiques, techniques et sanitaires définies par arrêté du ministre de l'agriculture.
