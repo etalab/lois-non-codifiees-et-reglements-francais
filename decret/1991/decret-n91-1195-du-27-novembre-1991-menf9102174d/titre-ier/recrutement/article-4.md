@@ -4,7 +4,7 @@ Les médecins de l'éducation nationale sont recrutés par voie de concours dist
 
 1. Pour deux tiers des postes à pourvoir :
 
-a) Un concours sur titres et travaux est ouvert aux titulaires du diplôme d'Etat de docteur en médecine, âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours, justifiant de l'un des titres ou diplômes suivants :
+a) Un concours sur titres et travaux est ouvert aux titulaires des qualifications et diplômes leur conférant le droit à l'exercice de la médecine en France, âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours, justifiant de l'un des titres ou diplômes suivants :
 
 - diplôme d'études spécialisées de pédiatrie ;
 
@@ -20,9 +20,9 @@ a) Un concours sur titres et travaux est ouvert aux titulaires du diplôme d'Eta
 
 - certificat d'études spéciales de médecine du travail.
 
-b) Un concours sur épreuves est ouvert aux titulaires du diplôme d'Etat de docteur en médecine, âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours.
+b) Un concours sur épreuves est ouvert aux titulaires des qualifications et diplômes leur conférant le droit à l'exercice de la médecine en France, âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours.
 
-2. Pour un tiers des postes à pourvoir, un concours sur titres et travaux est ouvert aux médecins titulaires du diplôme d'Etat de docteur en médecine et comptant au moins quatre années de service en qualité de :
+2. Pour un tiers des postes à pourvoir, un concours sur titres et travaux est ouvert aux médecins et comptant au moins quatre années de service en titulaires des qualifications et diplômes leur conférant le droit à l'exercice de la médecine en France qualité de :
 
 - médecin titulaire ou contractuel de l'Etat et des établissements publics en dépendant, des collectivités territoriales et des établissements publics en dépendant ;
 
