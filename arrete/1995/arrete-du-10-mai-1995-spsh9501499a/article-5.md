@@ -17,3 +17,7 @@ Lors de l'inscription, tous les documents remis par le candidat sont revêtus d'
 Tout dossier incomplet n'est pas pris en considération et retourné au candidat. Aucun complément de dossier n'est accepté après la clôture des inscriptions.
 
 Le candidat doit adresser un dossier complet en recommandé avec accusé de réception ou le déposer dans la direction régionale des affaires sanitaires et sociales en métropole et dans la direction départementale des affaires sanitaires et sociales dans les départements d'outre-mer correspondant à son lieu de résidence.
+
+Toute fraude ou tentative de fraude consistant à faire usage de pièces fausses entraîne le rejet de la candidature, sans préjudice, le cas échéant, de l'application des dispositions pénales prévues par la loi du 23 décembre 1901 susvisée réprimant les fraudes dans les examens et concours publics.
+
+La même mesure peut être prise contre les complices de l'auteur principal de la fraude ou de la tentative de fraude.
