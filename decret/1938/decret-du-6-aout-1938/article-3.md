@@ -32,9 +32,9 @@ Le taux de la contribution à la charge de la Société nationale des chemins de
 
 Par dérogation aux dispositions du 3° de l'article D. 711-5 du code de la sécurité sociale, le taux des cotisations prévues au paragraphe 6 à la charge des pensionnés relevant de la loi du 21 juillet 1909 susvisée et du deuxième alinéa de l'article L. 131-7-1 dudit code est fixé à :
 
-1° 3,50 % du montant de la pension de retraite inférieur au plafond défini au troisième alinéa ;
+1° 3,9 % du montant de la pension de retraite inférieur au plafond défini au troisième alinéa ;
 
-2° 2,80 % du montant de la pension de retraite supérieur à ce plafond.
+2° 3,2 % du montant de la pension de retraite supérieur à ce plafond.
 
 Par. 7 - Le règlement de la caisse prévoit que les agents peuvent pour les soins à donner à leur conjoint et à leurs enfants à charge s'adresser à des praticiens ou des établissements autres que ceux désignés ou agréés en vertu de ses dispositions et fixe, pour ce cas, les conditions de remboursement des frais exposés.
 

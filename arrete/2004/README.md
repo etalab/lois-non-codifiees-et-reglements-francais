@@ -297,6 +297,7 @@
 - [Arrêté du 10 novembre 2004 (FPPA0400125A)](arrete-du-10-novembre-2004-fppa0400125a)
 - [Arrêté du 10 novembre 2004 (FPPA0400126A)](arrete-du-10-novembre-2004-fppa0400126a)
 - [Arrêté du 10 novembre 2004 (FPPA0400128A)](arrete-du-10-novembre-2004-fppa0400128a)
+- [Arrêté du 10 novembre 2004 (INDI0404023A)](arrete-du-10-novembre-2004-indi0404023a)
 - [Arrêté du 10 octobre 2003 (MENF0302256A)](arrete-du-10-octobre-2003-menf0302256a)
 - [Arrêté du 10 septembre 2004 (JUSK0440132A)](arrete-du-10-septembre-2004-jusk0440132a)
 - [Arrêté du 10 septembre 2004 (MENE0402018A)](arrete-du-10-septembre-2004-mene0402018a)

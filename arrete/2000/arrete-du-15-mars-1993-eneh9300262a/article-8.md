@@ -8,8 +8,8 @@ Pourcentage de substitution :
 
 44 % pour les produits de catégorie I (essences) ;
 
-44 % pour les produits de catégorie II (gazole, fioul domestique, pétrole lampant) ;
+45 % pour les produits de catégorie II (gazole, fioul domestique, pétrole lampant) ;
 
-44 % pour les produits de catégorie III (carburéacteur) ;
+45 % pour les produits de catégorie III (carburéacteur) ;
 
-52 % pour les produits de catégorie IV (fioul lourd).
+50 % pour les produits de catégorie IV (fioul lourd).
