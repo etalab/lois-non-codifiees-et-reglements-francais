@@ -1,3 +1,5 @@
 # CHAPITRE 8. DES DISPOSITIONS RELATIVES AUX PROFESSIONS AGRICOLES
 
 - [SECTION 1. CHAMP D'APPLICATION](section-1-champ-d-application)
+- [SECTION 2. DES BENEFICIAIRES.](section-2-des-beneficiaires)
+- [SECTION 3. DES PRESTATIONS.](section-3-des-prestations)
