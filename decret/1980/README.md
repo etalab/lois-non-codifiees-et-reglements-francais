@@ -25,6 +25,7 @@
 - [Décret n°80-102 du 24 janvier 1980](decret-n80-102-du-24-janvier-1980)
 - [Décret n°79-332 du 25 avril 1979](decret-n79-332-du-25-avril-1979)
 - [Décret n°79-1210 du 26 décembre 1979](decret-n79-1210-du-26-decembre-1979)
+- [Décret n°80-169 du 27 février 1980](decret-n80-169-du-27-fevrier-1980)
 - [Décret n°79-1136 du 28 décembre 1979](decret-n79-1136-du-28-decembre-1979)
 - [Décret n°79-1205 du 28 décembre 1979](decret-n79-1205-du-28-decembre-1979)
 - [Décret n°80-112 du 30 janvier 1980](decret-n80-112-du-30-janvier-1980)
