@@ -508,6 +508,7 @@
 - [Arrêté du 22 janvier 1992 (ECOC9100157A)](arrete-du-22-janvier-1992-ecoc9100157a)
 - [Arrêté du 22 janvier 1992 (SANH9200213A)](arrete-du-22-janvier-1992-sanh9200213a)
 - [Arrêté du 22 juin 1987 (ECOP8700219A)](arrete-du-22-juin-1987-ecop8700219a)
+- [Arrêté du 22 juin 1992 (BUDD9270004A)](arrete-du-22-juin-1992-budd9270004a)
 - [Arrêté du 22 juin 1992 (BUDP9200331A)](arrete-du-22-juin-1992-budp9200331a)
 - [Arrêté du 22 juin 1992 (MERP9200109A)](arrete-du-22-juin-1992-merp9200109a)
 - [Arrêté du 22 juin 1992 (SANM9201494A)](arrete-du-22-juin-1992-sanm9201494a)
@@ -765,4 +766,4 @@
 - [Arrêté du 31 mars 1992 (PTTR9200184A)](arrete-du-31-mars-1992-pttr9200184a)
 - [Arrêté du 31 mars 1992 (RESY9200039A)](arrete-du-31-mars-1992-resy9200039a)
 - [Arrêté du 31 mars 1992 (SANH9200864A)](arrete-du-31-mars-1992-sanh9200864a)
-- [Arrêté du 31 mars 1992 (SPSS9200875A)](arrete-du-31-mars-1992-spss9200875a)
+- [Arrêté du 31 mars 1992 (SPSs9200875A)](arrete-du-31-mars-1992-spss9200875a)

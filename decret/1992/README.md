@@ -359,6 +359,7 @@
 - [Décret n°92-58 du 17 janvier 1992 (AGRA9102644D)](decret-n92-58-du-17-janvier-1992-agra9102644d)
 - [Décret n°92-59 du 17 janvier 1992 (AGRA9102645D)](decret-n92-59-du-17-janvier-1992-agra9102645d)
 - [Décret n°92-67 du 17 janvier 1992 (AGRS9102665D)](decret-n92-67-du-17-janvier-1992-agrs9102665d)
+- [Décret n°92-679 du 17 juillet 1992 (BUDZ9200010D)](decret-n92-679-du-17-juillet-1992-budz9200010d)
 - [Décret n°93-375 du 17 mars 1993 (MENF9304468D)](decret-n93-375-du-17-mars-1993-menf9304468d)
 - [Décret du 18 mars 1992 (INTA9200072D)](decret-du-18-mars-1992-inta9200072d)
 - [Décret n°88-57 du 18 janvier 1988 (DEFP8701757D)](decret-n88-57-du-18-janvier-1988-defp8701757d)

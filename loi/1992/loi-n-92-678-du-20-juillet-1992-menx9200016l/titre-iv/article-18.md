@@ -1,0 +1,3 @@
+# Article 18
+
+Le montant de la prise en charge par l'Etat des dépenses de fonctionnement des classes sous contrat d'association prévue par l'article 4 de la loi n° 59-1557 du 31 décembre 1959 sur les rapports entre l'Etat et les établissements d'enseignement privés et par l'article 27-5 de la loi n° 83-663 du 22 juillet 1983 complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat est fixé, pour les années scolaires 1982-1983 à 1988-1989, par l'arrêté du 16 janvier 1992 fixant le montant de la contribution de l'Etat aux dépenses de fonctionnement des classes des établissements privés placés sous contrat d'association.
