@@ -7,3 +7,5 @@ Est autorisé, pour l'épluchage chimique des fruits et légumes destinés à la
 - monoéthanolamine diluée ;
 
 - solution aqueuse d'orthophosphate diammonique, sous réserve que les conditions fixées ci-après soient respectées.
+
+- potasse diluée (hydroxyde de potassium) à 50 p. 100.
