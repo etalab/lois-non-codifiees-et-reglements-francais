@@ -6,5 +6,4 @@
 - [Sous-direction de l'organisation et du fonctionnement des services déconcentrés.](sous-direction-de-l-organisation-et)
 - [Sous-direction des ressources humaines et des relations sociales.](sous-direction-des-ressources-humaines-et)
 - [La sous-direction de l'état-major de sécurité.](la-sous-direction-de-l-etat-major-de-securite)
-- [Le département de l'état-major de sécurité.](le-departement-de-l-etat-major-de-securite)
 - [Sous-direction des personnes placées sous main de justice.](sous-direction-des-personnes-placees-sous-main-de-justice)
