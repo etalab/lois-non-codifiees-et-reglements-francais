@@ -1,3 +1,5 @@
 # Article 1
 
-Les fonctionnaires titulaires ayant demandé leur mise en disponibilité pour effectuer des études ou recherches présentant un intérêt général en application des dispositions de l'article 9 a du titre III du décret du 27 juin 1973 susvisé peuvent, dans la limite des crédits budgétaires ouverts à cet effet et à la condition de ne pouvoir bénéficier des aides financières accordées par l'Etat aux stagiaires de formation professionnelle, passer avec l'administration des contrats d'études.
+Lorsque, en cas de disparition de l'employeur, le salarié est admis à effectuer un versement de cotisations afférentes à une période d'activité antérieure de plus de cinq ans audit versement, et pour laquelle le montant de la rémunération qu'il a perçue n'est pas connu, les salaires constituant l'assiette des cotisations sont égaux, sauf dispositions particulières contraires, aux chiffres figurant dans le tableau ci-annexé.
+
+Pour les années postérieures à 1970, l'assiette annuelle est égale aux trois quarts du plafond des revenus soumis à cotisations.
