@@ -564,6 +564,7 @@
 - [Décret n°2004-856 du 23 août 2004 (JUSC0420486D)](decret-n2004-856-du-23-aout-2004-jusc0420486d)
 - [Décret n°2004-859 du 23 août 2004 (AGRP0401203D)](decret-n2004-859-du-23-aout-2004-agrp0401203d)
 - [Décret n°2004-880 du 23 août 2004 (JUSC0420520D)](decret-n2004-880-du-23-aout-2004-jusc0420520d)
+- [Décret n°59-1205 du 23 octobre 1959](decret-n59-1205-du-23-octobre-1959)
 - [Décret n°94-1013 du 23 novembre 1994 (DEFP9401757D)](decret-n94-1013-du-23-novembre-1994-defp9401757d)
 - [Décret n°2005-523 du 23 mai 2005 (PRMX0508440D)](decret-n2005-523-du-23-mai-2005-prmx0508440d)
 - [Décret n°2004-1254 du 24 novembre 2004 (PRMX0407791D)](decret-n2004-1254-du-24-novembre-2004-prmx0407791d)

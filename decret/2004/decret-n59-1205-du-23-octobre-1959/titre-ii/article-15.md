@@ -1,0 +1,3 @@
+# Article 15
+
+Le président du conseil d'administration exerce la direction générale du BRGM. Il prépare les délibérations du conseil d'administration et s'assure de leur exécution. Il assure le fonctionnement des services du BRGM. Il a sous son autorité le personnel qu'il engage, nomme et licencie. Il représente l'établissement dans tous les actes de la vie civile et dans ses rapports avec les tiers. Il est assisté d'un ou plusieurs directeurs généraux délégués qu'il nomme. Il peut déléguer sa signature. Il peut déléguer une partie de ses pouvoirs au directeur général délégué ou aux directeurs généraux délégués.
