@@ -114,6 +114,7 @@
 - [Décret n°81-161 du 19 février 1981](decret-n81-161-du-19-fevrier-1981)
 - [Décret n°81-162 du 19 février 1981](decret-n81-162-du-19-fevrier-1981)
 - [Décret n°81-802 du 19 août 1981](decret-n81-802-du-19-aout-1981)
+- [Décret n°81-810 du 19 août 1981](decret-n81-810-du-19-aout-1981)
 - [Décret n°81-608 du 19 mai 1981](decret-n81-608-du-19-mai-1981)
 - [Décret n°81-169 du 20 février 1981](decret-n81-169-du-20-fevrier-1981)
 - [Décret n°81-177 du 20 février 1981](decret-n81-177-du-20-fevrier-1981)
