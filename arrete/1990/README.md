@@ -666,6 +666,7 @@
 - [Arrêté du 23 mars 1990 (MENL9000665A)](arrete-du-23-mars-1990-menl9000665a)
 - [Arrêté du 23 mars 1990 (PRME9061079A)](arrete-du-23-mars-1990-prme9061079a)
 - [Arrêté du 23 novembre 1989 (SPSA8902504A)](arrete-du-23-novembre-1989-spsa8902504a)
+- [Arrêté du 23 octobre 1990 (EQUT9001456A)](arrete-du-23-octobre-1990-equt9001456a)
 - [Arrêté du 23 octobre 1990 (MAEA9020399A)](arrete-du-23-octobre-1990-maea9020399a)
 - [Arrêté du 23 octobre 1990 (PTTR9000846A)](arrete-du-23-octobre-1990-pttr9000846a)
 - [Arrêté du 23 octobre 1990 (PTTR9000847A)](arrete-du-23-octobre-1990-pttr9000847a)
