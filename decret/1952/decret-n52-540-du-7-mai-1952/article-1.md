@@ -580,8 +580,6 @@ Capitaine de cargo de moins de 1.500 tonnes ;
 
 Capiaine de remorqueur de haute mer et d'assistance jaugeant plus de 300 tonneaux ou d'une puissance supérieure à 700 CV ;
 
-Capitaine de bateau baliseur catégorie A armé au cabotage ;
-
 Capitaine de bateau-feu ;
 
 Capitaine de bateau porte-pilote jaugeant plus de 100 tonneaux ou d'une puissance supérieure 500 CV.
@@ -599,8 +597,6 @@ Second mécanicien de paquebot ;
 Chef mécanicien de cargo de moins de 3.000 tonnes ;
 
 Chef mécanicien de remorqueur de haute mer et d'assistance jaugeant plus de 300 tonneaux ou d'une puissance supérieure à 700 CV ;
-
-Chef mécanicien de bateau baliseur, catégorie A, armé au cabotage ;
 
 Chef mécanicien de bateau-feu ;
 
@@ -628,9 +624,9 @@ PONT :
 
 Capitaine de cargo de 1.500 à 3.000 tonnes.
 
-MACHINE :
+Capitaine de bateau baliseur, catégorie A, armé au cabotage.    MACHINE :
 
-Chef mécanicien de cargo de 3.000 à 6.000 tonnes.
+Chef mécanicien de cargo de 3.000 à 6.000 tonnes.    Chef mécanicien de bateau baliseur, catégorie A, armé au cabotage ;
 
 CATEGORIE : 17EME
 
