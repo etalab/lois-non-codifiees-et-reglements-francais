@@ -1,3 +1,5 @@
 # Article 18
 
-Lorsque l'engagement à servir dans la réserve opérationnelle est souscrit en qualité d'officier, de sous-officier ou d'officier marinier, la nomination au premier grade d'officier, de sous-officier ou d'officier marinier prend effet à la signature du contrat.
+Les officiers de réserve sont nommés ou promus par décret du Président de la République aux différents grades de la hiérarchie du corps de rattachement.
+
+Les autres militaires de la réserve sont nommés ou promus par décision du ministre de la défense aux différents grades de la hiérarchie du corps de rattachement.
