@@ -1,7 +1,9 @@
 # Article 3
 
-Les opérations de souscription de parts nouvelles et de rachat de parts antérieurement souscrites doivent faire l'objet d'un enregistrement complet par le jeu, notamment, des comptes visés au dernier alinéa de l'article 7 de la loi susvisée.
+L'examen d'aptitude à l'admission dans les écoles préparant au diplôme d'Etat de masseur-kinésithérapeute est organisé dans chaque région par le directeur régional des affaires sanitaires et sociales.
 
-Les variations résultant de l'évaluation du portefeuille peuvent n'être enregistrées qu'à la clôture de l'exercice dans les comptes d'actif et de passif concernés.
+Un candidat ne peut se présenter qu'à l'examen organisé dans la région de son domicile [*lieu*].
 
-La comptabilité est organisée de manière à permettre l'analyse de la variation des éléments de l'actif net.
+L'examen comporte une session unique qui se déroule à une date fixée par le directeur régional des affaires sanitaires et sociales.
+
+Tout candidat à cet examen doit être âgé de dix-huit ans au moins [*minimum*] dans l'année où il se présente [*condition d'âge*].

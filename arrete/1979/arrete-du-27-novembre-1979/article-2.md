@@ -1,13 +1,7 @@
 # Article 2
 
-Le compte de résultats d'un fonds commun de placement doit faire apparaître notamment :
+Les candidats doivent faire parvenir au siège de la direction régionale des affaires sanitaires et sociales un dossier comportant les pièces énumérées à l'annexe I du présent arrêté :
 
-- le montant des intérêts, arrérages, dividendes et tous autres revenus relatifs aux titres et autres valeurs constituant le portefeuille du fonds ;
+Avant le 15 mars pour les candidats devant subir l'examen d'aptitude à l'admission dans les écoles de masseurs-kinésithérapeutes ;
 
-- le montant des revenus des autres emplois ;
-
-- les produits des sommes en dépôt ;
-
-- le montant des lots et primes de remboursement attachés aux obligations émises en France ;
-
-- les frais de gestion prévus par le règlement.
+Avant le 15 septembre pour les autres candidats [*date limite d'inscription*].

@@ -16,7 +16,7 @@ Ce certificat devra attester que le candidat est indemne de toute affection tube
 
 7. Eventuellement, l'autorisation de la personne investie de la puissance parentale d'entreprendre les études ;
 
-8. Eventuellement, une copie certifiée conforme du diplôme du baccalauréat ou du titre dispensant soit de l'examen d'aptitude à l'admission dans les instituts, soit de la première année de scolarité.
+8. Eventuellement, une copie certifiée conforme du diplôme du baccalauréat ou du titre dispensant soit de l'examen d'aptitude à l'admission dans les écoles, soit de la première année de scolarité.
 
 Le cas échéant, le dossier pourra être déposé sous réserve de la procuration ultérieure de cette pièce lorsque le candidat doit se présenter dans l'année au baccalauréat ou à l'examen en vue de l'obtention de l'un de ces titres ;
 
