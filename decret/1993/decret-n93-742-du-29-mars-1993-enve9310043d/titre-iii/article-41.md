@@ -13,3 +13,5 @@ Ces indications doivent être fournies avant le 4 janvier 1995 pour les installa
 Le préfet peut exiger la production des pièces mentionnées aux articles 2 ou 29 du présent décret.
 
 Il peut prescrire, dans les conditions prévues aux articles 14 ou 32, les mesures nécessaires à la protection des éléments mentionnés à l'article 2 de la loi du 3 janvier 1992 susvisé.
+
+Les vidanges périodiques, en vue de la récolte des poissons, d'étangs de production piscicole, régulièrement créés, qui sont venues à être soumises à autorisation ou à déclaration en application de la nomenclature annexée au décret n° 93-743 du 29 mars 1993 relatif à la nomenclature des opérations soumises à autorisation ou à déclaration en application de l'article 10 de la loi n° 92-3 du 3 janvier 1992 sur l'eau, sont considérées comme des activités légalement exercées si la dernière vidange est intervenue postérieurement au 1er janvier 1996 et si les informations prévues au premier alinéa du présent article sont fournies au préfet avant le 1er janvier 2001.
