@@ -8,6 +8,7 @@
 - [Loi n° 92-686 du 22 juillet 1992 (JUSX9100041L)](loi-n-92-686-du-22-juillet-1992-jusx9100041l)
 - [Loi n° 93-1419 du 31 décembre 1993 (BUDX9300114L)](loi-n-93-1419-du-31-decembre-1993-budx9300114l)
 - [Loi n° 93-1444 du 31 décembre 1993 (ECOX9300149L)](loi-n-93-1444-du-31-decembre-1993-ecox9300149l)
+- [Loi n° 94-1007 du 23 novembre 1994 (MAEX9400078L)](loi-n-94-1007-du-23-novembre-1994-maex9400078l)
 - [Loi n° 94-114 du 10 février 1994 (AGRX9300158L)](loi-n-94-114-du-10-fevrier-1994-agrx9300158l)
 - [Loi n° 94-126 du 11 février 1994 (COMX9300154L)](loi-n-94-126-du-11-fevrier-1994-comx9300154l)
 - [Loi n° 94-319 du 25 avril 1994 (MAEX9300118L)](loi-n-94-319-du-25-avril-1994-maex9300118l)

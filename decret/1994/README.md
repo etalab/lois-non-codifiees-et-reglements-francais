@@ -602,6 +602,8 @@
 - [Décret n°76-1073 du 22 novembre 1976](decret-n76-1073-du-22-novembre-1976)
 - [Décret n°88-413 du 22 avril 1988 (RESX8810277D)](decret-n88-413-du-22-avril-1988-resx8810277d)
 - [Décret n°94-1006 du 22 novembre 1994 (AGRE9400587D)](decret-n94-1006-du-22-novembre-1994-agre9400587d)
+- [Décret n°94-1008 du 22 novembre 1994 (SPSP9403344D)](decret-n94-1008-du-22-novembre-1994-spsp9403344d)
+- [Décret n°94-1009 du 22 novembre 1994 (SPSS9403033D)](decret-n94-1009-du-22-novembre-1994-spss9403033d)
 - [Décret n°94-151 du 22 février 1994 (MAEF9410005D)](decret-n94-151-du-22-fevrier-1994-maef9410005d)
 - [Décret n°94-154 du 22 février 1994 (BUDR9301266D)](decret-n94-154-du-22-fevrier-1994-budr9301266d)
 - [Décret n°94-155 du 22 février 1994 (BUDP9300641D)](decret-n94-155-du-22-fevrier-1994-budp9300641d)
