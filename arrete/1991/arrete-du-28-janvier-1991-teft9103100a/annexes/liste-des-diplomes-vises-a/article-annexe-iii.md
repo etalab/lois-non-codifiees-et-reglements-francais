@@ -1,5 +1,11 @@
 # Article Annexe III
 
+I. - Dispositions générales :
+
+Tout diplôme, certificat, attestation de compétence ou titre de formation délivré par l'autorité compétente d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'Espace économique européen donne lieu à équivalence de tout ou partie de l'ensemble des formations définies au présent arrêté. Cette équivalence est évaluée conformément à la procédure prévue à l'article 2, III.
+
+II. - Dispositions spécifiques :
+
 Pour les mentions A
 
 a) Diplômes de plongée.
@@ -26,11 +32,7 @@ Diplôme de scaphandrier Sogetram ;
 
 Certificat de scaphandrier C.G. Doris ;
 
-Diplômes étrangers équivalents moyennant un complément de formation sur la réglementation française ; en particulier :
-
-- Par I, Part II certificate délivré par le Health and Safety Executive (H.S.E.) ;
-
-- Bell Diver Certificate ou Air Diver Certificate délivré par Norwegian Petrolem Directorate (N.P.D.).
+Diplômes étrangers équivalents délivrés par un Etat non visé au I de cette présente annexe, moyennant un complément de formation sur la réglementation française.
 
 Pour la mention B
 
