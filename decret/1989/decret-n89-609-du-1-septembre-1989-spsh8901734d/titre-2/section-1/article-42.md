@@ -1,0 +1,3 @@
+# Article 42
+
+L'agent appartenant à l'un des corps des personnels de rééducation mentionnés à l'article 1er venant à être nommé dans un autre de ces corps ne peut bénéficier à cette occasion de la bonification d'ancienneté prévue au II des articles 9, 14, 19, 24, 29 et 34 qu'au cas où la nouvelle bonification est supérieure à la précédente et à concurrence seulement de la différence entre la durée de la nouvelle bonification et celle de la bonification antérieurement obtenue. Les mêmes règles sont applicables lorsque, avant son entrée dans l'un des corps régis par le présent décret, l'agent a déjà bénéficié d'une bonification d'ancienneté de même nature prévue par un autre statut hospitalier.

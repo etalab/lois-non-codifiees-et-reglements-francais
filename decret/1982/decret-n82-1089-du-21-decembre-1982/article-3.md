@@ -1,8 +1,8 @@
 # Article 3
 
-Les fonctionnaires de l'Etat, les agents titulaires des collectivités territoriales ou de leurs établissements publics à caractère administratif occupant un emploi classé dans l'échelle I ou les groupes de rémunération III à VI inclus, qui sont recrutés ou promus en application des règles statutaires normales à l'un des grades ou emplois visés à l'article 1er ci-dessus, sont maintenus dans leur nouveau grade ou emploi à l'échelon auquel ils étaient parvenus dans leur précédent emploi.
+Les fonctionnaires de l'Etat et les agents titulaires des collectivités territoriales ou de leurs établissements publics à caractère administratif occupant un emploi classé dans l'échelle 1, le groupe III ou les échelles 3, 4 et 5, qui sont recrutés ou promus en application des règles statutaires normales à l'un des grades ou emplois visés à l'article 1er ci-dessus, sont maintenus dans leur nouveau grade ou emploi à l'échelon auquel ils étaient parvenus dans leur précédent emploi.
 
-Lorsque cette nomination à l'échelon déterminé par application des dispositions de l'alinéa précédent a pour résultat d'accorder aux intéressés un gain excédant 60 points indiciaires bruts, elle est prononcée à l'échelon inférieur le plus voisin tel que ce gain indiciaire n'excède pas le chiffre précité. Toutefois, en cas de nomination ou de promotion dans l'un des grades ou emplois classés dans le groupe VI, ce gain indiciaire maximum est porté à 75 points.
+Lorsque cette nomination à l'échelon déterminé par application des dispositions de l'alinéa précédent a pour résultat d'accorder aux intéressés un gain excédant 60 points indiciaires bruts, elle est prononcée à l'échelon inférieur le plus voisin tel que ce gain indiciaire n'excède pas le chiffre précité. Toutefois, en cas de nomination ou de promotion dans l'un des grades ou emplois classés dans l'échelle 5, ce gain indiciaire maximum est porté à 75 points.
 
 Les intéressés conservent, dans la limite de la durée moyenne de service exigée pour l'accès à l'échelon supérieur du nouveau grade ou emploi, l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent emploi.
 
@@ -14,11 +14,11 @@ Dans le cas ou l'application des dispositions du présent article aboutit à cla
 
 ==============================
 
-ECHELON      :  ANCIENNETE
+ECHELON      : ANCIENNETE
 
-EMPLOI       :  D'ECHELON
+EMPLOI       :   D'ECHELON
 
-PRECEDENT    : NOUVEL EMPLOI
+PRECEDENT    :  NOUVEL EMPLOI
 
 ------------------------------
 
@@ -26,7 +26,7 @@ Agent issu de: Ancienneté d'
 
 l'échelon le : échelon acquise
 
-plus élevé  : dans l'emploi
+plus élève  : dans l'emploi
 
 <table>
 <tr>
@@ -63,7 +63,7 @@ plus élevé  : dans l'emploi
 <td>              : moyenne</td>
 </tr>
 <tr>
-<td> -------------:------------------</td>
+<td> -------------:-------------------</td>
 </tr>
 <tr>
 <td> Agent issu de: Ancienneté d'</td>

@@ -17,6 +17,9 @@
 <td> :--------------------------------:</td>
 </tr>
 <tr>
+<td> : Angola        :     0,086      :</td>
+</tr>
+<tr>
 <td> : Bénin         :     0,063      :</td>
 </tr>
 <tr>
@@ -72,6 +75,9 @@
 </tr>
 <tr>
 <td> : Mali          :     0,077      :</td>
+</tr>
+<tr>
+<td> : Mozambique    :     0,086      :</td>
 </tr>
 <tr>
 <td> : Ile Maurice   :     0,078      :</td>

@@ -1,0 +1,3 @@
+# Article 3
+
+Le décret n° 63-924 du 4 septembre 1963 modifiant le décret n° 56-109 du 24 janvier 1956 concernant les indemnités spéciales dont peuvent bénéficier les personnels du secrétariat général à l'aviation civile est abrogé en tant qu'il s'applique aux personnels de la Météorologie nationale. Le décret n° 70-1261 du 23 décembre 1970 relatif à l'indemnité forfaitaire spéciale allouée au personnel technique de la Météorologie nationale et le décret n° 85-1310 du 10 décembre 1985 relatif à l'indemnité spéciale de sécurité aérienne allouée au personnel technique de la météorologie sont abrogés.

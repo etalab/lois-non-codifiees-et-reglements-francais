@@ -1,0 +1,3 @@
+# Article 1
+
+Une indemnité de sujétions non soumise à retenue pour pensions civiles de retraite peut être attribuée, d'une part, aux directeurs, aux directeurs adjoints et aux chefs de département des établissements désignés à l'article 1er du décret du 6 avril 1987 et à l'article 9 du décret du 24 décembre 1987 susvisés, et, d'autre part, aux surveillants et aux surveillants généraux des établissements sous tutelle du secrétariat d'Etat chargé de la jeunesse et des sports ainsi qu'aux personnels appartenant aux corps de l'administration scolaire et universitaire en fonctions dans les services économiques des établissements du secrétariat d'Etat.

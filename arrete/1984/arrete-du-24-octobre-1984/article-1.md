@@ -1,3 +1,5 @@
 # Article 1
 
-Sous réserve des dispositions de l'article 2, les normes françaises dont la liste figure dans les annexes A et B du présent arrêté sont rendues d'application obligatoire pour la fabrication en vue du marché intérieur, l'importation, l'offre, la vente, la location ou la distribution à titre gratuit des produits ou appareils qui font l'objet de ces normes.
+Les taux de cotisations des exploitations ou entreprises agricoles dont les effectifs déterminés conformément aux dispositions de l'article 2 sont au moins égaux à vingt salariés sont modulés en fonction du risque propre à l'exploitation ou à l'entreprise, dans les conditions définies ci-après.
+
+Sont exclues du champ d'application du présent arrêté les entreprises relevant du secteur Organismes professionnels agricoles, tel que fixé par l'arrêté pris en application de l'article 1er du décret du 8 juin 1973 susvisé.

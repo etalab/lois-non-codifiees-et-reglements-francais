@@ -1,4 +1,4 @@
-# Arrêté du 31 décembre 1985 pris pour l'application de l'article 95 de la loi n° 83-8 du 7 janvier 1983 modifiée, relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.
+# Arrêté du 31 décembre 1985 fixant la répartition entre les usagers et l'Etat des charges du système de traitement automatisé des opérations de dédouanement ainsi que les taux de la redevance d'abonnement et de la redevance d'utilisation pour la rémunération des services rendus par le système
 
 - [Article 1](article-1.md)
 - [Titre Ier : Généralités.](titre-ier)
@@ -8,5 +8,11 @@
 - [Titre III : Vérification primitive et périodique.](titre-iii)
 - [Article 4](article-4.md)
 - [Titre IV : Agrément des laboratoires.](titre-iv)
+- [Article 5](article-5.md)
 - [Titre V : Dispositions diverses.](titre-v)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)
+- [Article 9](article-9.md)
 - [Article 17](article-17.md)
+- [Annexes](annexes)

@@ -4,9 +4,7 @@ DEPARTEMENT DE LA DRÔME
 
 Cours d'eau, canaux et plans d'eau de 1re catégorie
 
-(Salmonidés dominants)
-
-1° La Bourne ; la Savasse, à l'exception des étangs de Chaleyre (commune de Peyrins) ; la Béore ; la Cerne, en amont de l'ancien viaduc du chemin de fer départemental (communes de Jaillans et de Beauregard-Barret) ; le Chalon, l'Herbasse, en amont du pont de la R.N. 532 (commune de Clérieux) ; la Veaunes ;
+1° La Bourne ; la Joyeuse ; la Savasse, à l'exception des étangs de Chaleyre (commune de Peyrins) ; la Béore ; la Cerne, en amont de l'ancien viaduc du chemin de fer départemental (communes de Jaillans et de Beauregard-Barret) ; le Chalon, l'Herbasse, en amont du pont de la R.N. 532 (commune de Clérieux) ; la Veaunes ;
 
 2° La Drôme, en amont du pont de Sainte-Croix ;
 
@@ -16,7 +14,7 @@ Cours d'eau, canaux et plans d'eau de 1re catégorie
 
 5° Le Méouge ; le Céans ;
 
-6° L'Oron ; le Bancel, en amont du viaduc de la S.N.C.F. à Andecette ; la Galaure, en amont du pont de la Ferrandière (commune de Saint-Uze) ; la Bouterne ; l'Epervière, en amont du pont du chemin de l'Epervière (commune de Valence) ; le ruisseau de Flavie ; le Charran ; le Thon ; les Marquises ; les Mals-Contents ; le canal des Moulins ; la Tourtelle ; la Véore, en amont du pont de la R.N. 7 ; la Tessonne ; le Roubion, en amont du pont Saint-Michel (1,500 km en amont du bourg de Soyans) ; la Riaille (affluent du Rhône), en amont du pont de l'autoroute A 7 ; la Berre, en amont de son confluent avec la Vence ; la Vence ; le Lez, en amont du pont de Montségur ; le canal de l'Aulière ; l'Eygues, en amont de son confluent avec l'Oule ; l'Ouvèze, en amont de son confluent avec le Toulourenc ;
+6° L'Oron ; le Bancel en amont du viaduc de la S.N.C.F. à Andecette ; la Galaure, en amont du pont de la Ferrandière (commune de Saint-Uze) ; la Bouterne ; l'Epervière, en amont du pont du chemin de l'Epervière (commune de Valence) ; le ruisseau de Flavie ; le Charran ; le Thon ; les Marquises ; les Mals-Contents ; le canal des Moulins ; la Tourtelle ; la Véore, en amont du pont de la R.N. 7 ; la Tessonne ; le Roubion, en amont du pont Saint-Michel (1,500 km en amont du bourg de Soyans) ; la Riaille (affluent du Rhône), en amont du pont de l'autoroute A 7 ; la Berre, en amont de son confluent avec la Vence ; la Vence ; le Lez, en amont du pont de Montségure ; le canal de l'Aulière ; l'Eygues, en amont de son confluent avec l'Oule ; l'Ouvèze, en amont de son confluent avec le Toulourenc ;
 
 7° La Veuze ;
 
@@ -35,8 +33,6 @@ Cours d'eau, canaux et plans d'eau de 1re catégorie
 14° Les affluents et sous-affluents des cours d'eau ou portions de cours d'eau désignés ci-dessus.
 
 Cours d'eau, canaux et plans d'eau de 2e catégorie
-
-(Cyprinidés dominants)
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
 

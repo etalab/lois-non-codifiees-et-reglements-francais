@@ -1,3 +1,11 @@
 # Article 4
 
-Le directeur général des collectivités locales, le directeur de la comptabilité publique, les   préfets, les trésoriers-payeurs généraux des départements des Alpes-Maritimes, de Savoie, de Haute-Savoie, de Paris, du Var et des Hauts-de-Seine et le receveur général des finances, trésorier-payeur général de la région d'Ile-de-France, sont, chacun en ce qui le concerne, chargés de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le droit d'utilisation des terminaux institué par l'article 3 du décret du 31 décembre 1977, est fixé à :
+
+- 2 F pour chaque opération d'importation, d'exportation ou de transit ;
+
+Le montant de la quote-part des charges d'exploitation des unités banalisées de dédouanement mentionnée à l'article 3 du même décret est fixé à :
+
+- 2,50 F pour chaque déclaration d'exportation ou de transit ;
+
+- 4 F pour chaque déclaration d'importation.

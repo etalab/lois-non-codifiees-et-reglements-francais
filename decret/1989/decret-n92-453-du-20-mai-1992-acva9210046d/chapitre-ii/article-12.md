@@ -1,0 +1,3 @@
+# Article 12
+
+Peuvent être promus au grade de technicien surveillant des services médicaux dans les conditions prévues à l'article 58 (1°) de la loi du 11 janvier 1984 modifiée susvisée, d'une part, les techniciens paramédicaux de classe supérieure, d'autre part, les techniciens de classe normale ayant accompli cinq années de services dans le corps des techniciens paramédicaux de l'Institution nationale des invalides et possédant, selon la branche à laquelle ils appartiennent, le certificat de moniteur cadre de masso-kinésithérapie, le certificat de masseur-kinésithérapeute moniteur, le certificat cadre de laborantin d'analyses de biologie médicales ou le certificat moniteur cadre manipulateur d'électroradiologie.

@@ -1,0 +1,5 @@
+# Article 13
+
+Sous réserve des dispositions de l'article 4, les candidats admis à un concours organisé pour l'accès au corps des sages-femmes sont nommés et classés dans ce corps au premier échelon du grade de début.
+
+Toutefois, les candidats qui avaient déjà la qualité de fonctionnaire sont classés à l'échelon du grade de début qui comporte un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur corps, cadre d'emploi ou emploi d'origine. Dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans le précédent corps, cadre d'emploi ou emploi lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui aurait résulté d'un avancement d'échelon dans leur ancienne situation. Les candidats nommés alors qu'ils ont atteint l'échelon le plus élevé dans leur précédent corps, cadre d'emploi ou emploi conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant de leur élévation audit échelon.

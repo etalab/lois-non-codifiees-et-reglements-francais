@@ -1,0 +1,3 @@
+# Article 2
+
+L'exemption totale de l'impôt sur les spectacles prévue à l'article 1561 (3°, b) du code général des impôts et applicable jusqu'au 31 décembre 1992 est étendue aux compétitions relevant des activités sportives ci-après : badminton, balle au tambourin, ballon au poing, ball-trap, base-ball, char à voile, escalade, football américain, javelot-tir sur cible, jeu de paume, longue paume, motonautisme, parachutisme, patinage à roulettes, pentathlon, pétanque et jeu provençal, racquet ball, squash-raquettes, surf, sports boules, sports de quilles, tchouk-ball, tir à l'arc, trampoline, triathlon.

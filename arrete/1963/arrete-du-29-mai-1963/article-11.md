@@ -8,4 +8,4 @@ Les animaux dont l'infection tuberculeuse n'est découverte qu'à l'abattage ouv
 
 - carcasse saisie en totalité pour tuberculose.
 
-- L'indemnité est dans ce cas de 75 p. 100 de la valeur des viandes saisies avec un maximum de 1.100 F par animal.
+L'indemnité est dans ce cas de 75 p. 100 de la valeur des viandes saisies avec un maximum de 1 100 F par animal.

@@ -1,0 +1,3 @@
+# Article 4
+
+Le décret n° 57-403 du 29 mars 1957 modifié portant attribution d'une indemnité pour sujétions spéciales à certains personnels des établissements nationaux et régionaux de la jeunesse et des sports, le décret n° 75-879 du 23 septembre 1975 relatif à l'indemnité de sujétions spéciales allouée à certains personnels des établissements nationaux et régionaux de la jeunesse et des sports et le décret n° 75-880 du 23 septembre 1975 portant attribution d'une indemnité spéciale spécifique aux directeurs des établissements régionaux, aux directeurs adjoints des établissements nationaux et aux censeurs des établissements nationaux et régionaux de la jeunesse et des sports et tous les textes subséquents sont abrogés.

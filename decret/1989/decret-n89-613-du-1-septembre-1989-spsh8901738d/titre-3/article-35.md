@@ -1,0 +1,3 @@
+# Article 35
+
+Les avis portant sur l'ouverture des concours, prévus au présent décret, et le nombre des emplois vacants existant dans les différents corps sont publiés par affichage [*information*] dans les locaux de l'établissement organisant le concours ou annonçant les vacances d'emplois et dans ceux des préfectures et sous-préfectures de la région dans laquelle l'établissement est situé ainsi que par insertion au recueil des actes administratifs des préfectures des départements de ladite région. En outre, les avis de concours ouverts pour le recrutement des préparateurs en pharmacie, suivant l'article 3, font l'objet d'une insertion au Bulletin officiel du ministère chargé de la santé.

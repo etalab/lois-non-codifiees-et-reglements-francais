@@ -46,9 +46,11 @@ Groupe III :
 
 10e échelon : indices bruts = 282.
 
-Groupe IV 1er échelon : indices bruts = 232.
+Groupe III bis :
 
-2e échelon : indices bruts = 238.
+1er échelon : indices bruts = 232.
+
+2e échelon : indices bruts = 241.
 
 3e échelon : indices bruts = 248.
 
@@ -66,62 +68,68 @@ Groupe IV 1er échelon : indices bruts = 232.
 
 10e échelon : indices bruts = 309.
 
-Groupe V 1er échelon : indices bruts = 238.
+Echelle 3 :
 
-2e échelon : indices bruts = 252.
+1er échelon : indices bruts = 232.
 
-3e échelon : indices bruts = 267.
+2e échelon : indices bruts = 242.
 
-4e échelon : indices bruts = 282.
+3e échelon : indices bruts = 256.
 
-5e échelon : indices bruts = 293.
+4e échelon : indices bruts = 267.
 
-6e échelon : indices bruts = 302.
+5e échelon : indices bruts = 282.
 
-7e échelon : indices bruts = 311.
+6e échelon : indices bruts = 293.
 
-8e échelon : indices bruts = 321.
+7e échelon : indices bruts = 303.
 
-9e échelon : indices bruts = 329.
+8e échelon : indices bruts = 314.
+
+9e échelon : indices bruts = 322.
 
 10e échelon : indices bruts = 336.
 
-Groupe VI 1er échelon : indices bruts = 249.
+Echelle 4 :
 
-2e échelon : indices bruts = 263.
+1er échelon : indices bruts = 238.
 
-3e échelon : indices bruts = 278.
+2e échelon : indices bruts = 253.
 
-4e échelon : indices bruts = 294.
+3e échelon : indices bruts = 268.
 
-5e échelon : indices bruts = 309.
+4e échelon : indices bruts = 284.
 
-6e échelon : indices bruts = 322.
+5e échelon : indices bruts = 298.
 
-7e échelon : indices bruts = 336.
+6e échelon : indices bruts = 311.
 
-8e échelon : indices bruts = 345.
+7e échelon : indices bruts = 325.
 
-9e échelon : indices bruts = 356.
+8e échelon : indices bruts = 339.
+
+9e échelon : indices bruts = 351.
 
 10e échelon : indices bruts = 365.
 
-Groupe VII 1er échelon : indices bruts = 262.
+Echelle 5 :
 
-2e échelon : indices bruts = 278.
+1er échelon : indices bruts = 249.
 
-3e échelon : indices bruts = 296.
+2e échelon : indices bruts = 266.
 
-4e échelon : indices bruts = 310.
+3e échelon : indices bruts = 281.
 
-5e échelon : indices bruts = 325.
+4e échelon : indices bruts = 299.
 
-6e échelon : indices bruts = 340.
+5e échelon : indices bruts = 314.
 
-7e échelon : indices bruts = 355.
+6e échelon : indices bruts = 329.
 
-8e échelon : indices bruts = 370.
+7e échelon : indices bruts = 343.
 
-9e échelon : indices bruts = 380.
+8e échelon : indices bruts = 358.
+
+9e échelon : indices bruts = 373.
 
 10e échelon : indices bruts = 390.

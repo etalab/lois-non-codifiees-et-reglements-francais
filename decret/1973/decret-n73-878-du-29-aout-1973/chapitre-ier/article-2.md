@@ -6,7 +6,7 @@ Le corps des agents de service comprend deux grades :
 
 - agent de service principal.
 
-Le nombre des agents de service principaux ne peut excéder 10 p. 100 de l'effectif global du corps.
+Le nombre des agents de service principaux ne peut excéder le sixième de l'effectif global du corps.
 
 Les agents spécialistes et les agents de service principaux sont répartis entre des spécialités définies par arrêté du ministre de l'intérieur.
 

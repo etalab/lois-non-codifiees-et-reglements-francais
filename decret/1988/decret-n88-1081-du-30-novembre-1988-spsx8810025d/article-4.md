@@ -1,35 +1,43 @@
 # Article 4
 
-Les fonctionnaires hospitaliers appartenant à un grade classé dans l'un des groupes de rémunération III à VI peuvent, après inscription à un tableau d'avancement et dans la limite de 50 p. 100 de l'effectif de ce grade, bénéficier de l'échelonnement du groupe de rémunération immédiatement supérieur dans les conditions fixées par le tableau ci-après :
+Les fonctionnaires hospitaliers appartenant à un grade classé dans le groupe de rémunération III peuvent, après inscription à un tableau d'avancement et dans la limite de 75 p. 100 de l'effectif de ce grade, bénéficier de l'échelonnement du groupe de rémunération III bis dans les conditions fixées par le tableau ci-après :
 
-GROUPES DE CLASSEMENT DU GRADE : Groupes III, IV, V et VI.
+Situation dans le groupe III: 2e échelon avec 1 an d'ancienneté
 
-Situation dans le groupe de classement du grade : 5e échelon
+Situation dans le groupe III bis : 1e échelon : 1/2 de l'ancienneté acquise.
 
-Situation dans le groupe supérieur : 4e échelon : 2/3 de l'ancienneté acquise.
+Situation dans le groupe III: 3e échelon
 
-Situation dans le groupe de classement du grade : 6e échelon
+Situation dans le groupe III bis : 2e échelon : ancienneté acquise.
 
-Situation dans le groupe supérieur : 5e échelon : ancienneté acquise.
+Situation dans le groupe III: 4e échelon
 
-Situation dans le groupe de classement du grade : 7e échelon
+Situation dans le groupe III bis : 3e échelon : ancienneté acquise.
 
-Situation dans le groupe supérieur : 6e échelon : ancienneté acquise.
+Situation dans le groupe III: 5e échelon
 
-Situation dans le groupe de classement du grade : 8e échelon
+Situation dans le groupe III bis : 4e échelon : 2/3 de l'ancienneté acquise.
 
-Situation dans le groupe supérieur : 7e échelon : ancienneté acquise dans la limite de trois ans.
+Situation dans le groupe III: 6e échelon
 
-Situation dans le groupe de classement du grade : 9e échelon
+Situation dans le groupe III bis : 5e échelon : ancienneté acquise.
 
-Situation dans le groupe supérieur : 8e échelon : ancienneté acquise
+Situation dans le groupe III: 7e échelon
 
-Situation dans le groupe de classement du grade : 10e échelon
+Situation dans le groupe III bis : 6e échelon : ancienneté acquise.
 
-Situation dans le groupe supérieur : 9e échelon : ancienneté acquise dans la limite de quatre ans.
+Situation dans le groupe III: 8e échelon
 
-La limite de 50 p. 100 indiquée ci-dessus porte sur l'ensemble des grades classés dans un même groupe de rémunération si l'un de ces grades ne compte dans l'établissement qu'un fonctionnaire hospitalier.
+Situation dans le groupe III bis : 7e échelon : ancienneté acquise dans la limite de 3 ans.
 
-Lorsque la limite de 50 p. 100 prévue aux alinéas précédents est atteinte, le nombre des promotions prononcées chaque année au titre d'un même grade peut être porté au tiers du nombre des agents ayant atteint, au 31 décembre de l'année précédente [*date*], au moins le 5e échelon de ce grade. Lorsque le nombre des fonctionnaires sur lequel est calculée la proportion du tiers n'est pas un multiple de trois, le reste est ajouté au nombre qui est retenu l'année suivante pour le calcul de cette proportion.
+Situation dans le groupe III: 9e échelon
+
+Situation dans le groupe III bis : 8e échelon : ancienneté acquise.
+
+Situation dans le groupe III: 10e échelon
+
+Situation dans le groupe III bis : 9e échelon : ancienneté acquise dans la limite de 4 ans.
+
+Lorsque la limite de 75 p. 100 prévue à l'alinéa précédent est atteinte, le nombre des promotions prononcées chaque année au titre d'un même grade peut être porté à la moitié du nombre des agents détenant, au 31 décembre de l'année précédente, au moins un an d'ancienneté dans le deuxième échelon de ce grade. Lorsque le nombre des fonctionnaires sur lequel est calculée la proportion de la moitié n'est pas un multiple de deux, le reste est ajouté au nombre qui est retenu l'année suivante pour le calcul de cette proportion.
 
 L'application des dispositions du présent article n'a pas pour effet de modifier le grade des intéressés.

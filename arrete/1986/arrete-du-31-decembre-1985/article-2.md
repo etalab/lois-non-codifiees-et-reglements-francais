@@ -1,15 +1,9 @@
 # Article 2
 
-Le montant des ajustements mentionnés à l'article 1er ci-dessus est le suivant :
+Le droit fixe de la redevance d'abonnement et de la redevance d'utilisation institué par les articles 2 et 3 du décret du 31 décembre 1977 susvisé est fixé à :
 
-Alpes-Maritimes : 59.614.873 F.
+- 4,50 F pour chaque opération d'exportation ou de transit ;
 
-Savoie : 7.442.059 F.
+- 17,00 F pour chaque opération d'importation.
 
-Haute-Savoie : 56.234.374 F.
-
-Paris : 343.010.211 F.
-
-Var : 3.972.812 F.
-
-Hauts-de-Seine : 20.035.276 F.
+Pour les abonnés au système, le montant des droits fixes versés au titre des opérations réalisées sur chaque poste terminal ne pourra toutefois être inférieur à 35.000 F par an.

@@ -4,7 +4,15 @@ Les grades et emplois des personnels d'exécution des établissements mentionné
 
 Echelle I;
 
-Groupe III, groupe IV, groupe V, groupe VI, groupe VII.
+Groupe III;
+
+Groupe III bis;
+
+Echelle 3;
+
+Echelle 4;
+
+Echelle 5.
 
 L'échelonnement indiciaire et les durées moyennes du temps susceptible d'être passé dans chaque échelon sont fixés par arrêté concerté du ministre d'Etat, ministre de l'intérieur et de la décentralisation, du ministre des affaires sociales et de la solidarité nationale, du ministre délégué auprès du ministre de l'économie et des finances, chargé du budget, et du ministre de la santé.
 
@@ -14,4 +22,4 @@ Toutefois, pour les échelons comportant une durée moyenne d'ancienneté de tro
 
 La durée d'ancienneté d'un an ne peut être réduite.
 
-Les durées moyennes d'ancienneté ne peuvent, en aucun cas, faire l'objet de majoration.
+Les durées moyennes d'ancienneté ne peuvent, en aucun cas faire l'objet de majoration.

@@ -1,0 +1,5 @@
+# Article 43
+
+Dans chacun des corps faisant l'objet du titre Ier, les agents du grade de surveillant des services médicaux exercent des fonctions d'encadrement correspondant à leur qualification ; ils les remplissent soit dans les services de soins, soit dans les centres ou écoles relevant d'établissements d'hospitalisation publics qui préparent aux différentes branches des professions de rééducation, sous réserve, dans ce dernier cas, pour ce qui concerne les masseurs-kinésithérapeutes, qu'ils soient titulaires du certificat de moniteur cadre de masso-kinésithérapie ou du certificat de masseur-kinésithérapeute moniteur et, pour ce qui concerne les ergothérapeutes, du certificat de moniteur cadre d'ergothérapie. Dans les centres et écoles, les surveillants des services médicaux prennent part en qualité de moniteur à l'enseignement théorique et pratique et à la formation des élèves.
+
+Les surveillants des services médicaux peuvent être appelés à participer aux différents jurys constitués en vue de l'admission dans les écoles ou centres et de la délivrance des diplômes ou certificats sanctionnant la formation.

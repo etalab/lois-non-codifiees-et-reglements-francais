@@ -2,24 +2,30 @@
 
 Les cadres du personnel administratif dans les établissements d'hospitalisation, de soins et de cure publics peuvent comprendre :
 
-Des chefs de bureau dans les établissements comprenant au moins 200 lits ;
+- des chefs de bureau dans les établissements comprenant au moins 200 lits ;
 
-Un secrétaire de direction dans les établissements de cure (cadre d'extinction) ;
+- des adjoints des cadres hospitaliers ;
 
-Des adjoints des cadres hospitaliers exerçant des fonctions de rédaction, de comptabilité, d'intendance ou de secrétariat médical ;
+- un secrétaire de direction dans les établissements de cure (cadre d'extinction) ;
 
-Des agents principaux et des secrétaires médicales principales ;
+- des secrétaires administratifs à l'administration générale de l'assistance publique à Paris (cadre d'extinction) ;
 
-Des commis et des secrétaires médicales ;
+- des secrétaires d'administration à l'administration générale de l'assistance publique à Paris (cadre d'extinction) ;
 
-Des sténodactylographes ;
+- des agents principaux et des secrétaires médicales principales ;
 
-Des dactylographes ;
+- des commis et des secrétaires médicales ;
 
-Des agents de bureau ;
+- des sténodactylographes ;
 
-Des chefs de standard téléphonique dans les établissements comprenant au moins 500 lits ;
+- des dactylographes ;
 
-Des téléphonistes principaux ;
+- des agents techniques de bureau ;
 
-Des téléphonistes.
+- des agents de bureau ;
+
+- des chefs de standard téléphonique dans les établissements comprenant au moins 500 lits ;
+
+- des téléphonistes principaux ;
+
+- des téléphonistes.

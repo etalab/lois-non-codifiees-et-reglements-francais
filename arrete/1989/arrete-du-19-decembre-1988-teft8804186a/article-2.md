@@ -1,0 +1,3 @@
+# Article 2
+
+Les canalisations électriques ne doivent pas être une cause possible d'inflammation des atmosphères explosives éventuelles ; elles doivent être de catégorie C2 au sens de la norme NF C 32-070   homologuée par décision du 5 août 1986, c'est-à-dire être conformes aux dispositions de la publication 332.1 de la Commission électrotechnique internationale, être convenablement protégées contre les chocs mécaniques et l'action des produits qui sont utilisés ou fabriqués dans ces emplacements. Les passages des canalisations entre locaux à risques d'explosion et autres locaux ou emplacements doivent être réalisées de façon à empêcher le passage d'atmosphères explosives.

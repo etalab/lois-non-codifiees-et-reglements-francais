@@ -1,0 +1,3 @@
+# Article 41
+
+Les fonctionnaires régis par le présent décret justifiant au moment de leur recrutement d'une durée de services effectifs accomplis en qualité de religieux hospitalier dans des fonctions correspondant à celles du corps dans lequel ils sont recrutés bénéficient lors de leur titularisation d'une bonification d'ancienneté égale à cette durée de services. Cette bonification ne peut être attribuée qu'une fois au cours de la carrière des intéressés. Seuls sont pris en compte les services effectifs accomplis dans les établissements énumérés à l'article 2 de la loi du 9 janvier 1986 susvisée.

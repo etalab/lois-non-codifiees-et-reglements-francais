@@ -1,0 +1,3 @@
+# Article 5
+
+Pour les installations du domaine B.T.B. et sous réserve que les portes du local contenant lesdites installations répondent à la condition 2° de l'article 26 du décret susvisé, il est permis de déroger à l'article 16 dudit décret à condition que des obstacles constitués de rambardes ou de panneaux grillagés soient placés à une distance d'au moins 20 centimètres devant les parties actives nues afin d'en interdire l'approche fortuite ; un passage libre d'une largeur minimale de 70 centimètres doit être réservé soit entre les obstacles, soit entre eux et la paroi du local ; la hauteur disponible sous les parties actives nues doit être d'au moins 2,30 mètres.

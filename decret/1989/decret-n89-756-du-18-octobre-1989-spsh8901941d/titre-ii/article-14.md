@@ -1,0 +1,5 @@
+# Article 14
+
+Les directeurs des écoles de cadres relevant des établissements mentionnés au 1° de l'article 2 de la loi du 9 janvier 1986 susvisée sont reclassés dans le corps des directeurs des écoles paramédicales au grade de directeur d'école de cadres paramédicaux à équivalence d'échelon avec conservation de l'ancienneté acquise dans l'échelon.
+
+Toutefois, les fonctionnaires nommés directeurs d'écoles de cadres avant le 1er janvier 1989 peuvent renoncer à la date d'effet de leur nomination en cette qualité pour y voir substituée la date du 1er janvier 1989 si l'application à cette date de l'article 15 du présent décret, de l'article 40 du décret du 30 novembre 1988 susvisé, de l'article 54 du décret n° 89-609 du 1er septembre 1989 susvisé ou des articles 48 et 59 du décret n° 89-613 du 1er septembre 1989 susvisé leur confèrent une amélioration de carrière. L'ancienneté détenue dans le grade de directeur d'écoles de cadres continue à être décomptée à partir de la date à laquelle les intéressés ont initialement accédé à ce grade.

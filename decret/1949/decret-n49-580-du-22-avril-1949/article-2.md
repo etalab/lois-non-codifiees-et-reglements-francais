@@ -34,10 +34,4 @@ Son taux est calculé chaque année en multipliant le taux mathématique établi
 
 Le coefficient est égal à la moyenne :
 
-1° du rapport de la rémunération du pharmacien assistant en vigueur pendant le dernier exercice à la rémunération en vigueur pendant l'avant-dernier exercice ;
-
-2° du rapport des prix de vente hors taxe de quatre-vingts spécialités et vingt produits de droguerie pharmaceutique pratiqués pendant le dernier exercice aux prix pratiqués pendant l'avant-dernier exercice ;
-
-La liste des spécialités et des produits de droguerie pharmaceutique entrant en ligne de compte est arrêtée par le conseil d'administration de la section professionnelle des pharmaciens.
-
-Des exonérations de cotisations peuvent être accordées, en cas d'insuffisance de ressources, aux pharmaciens âgés de plus de soixante-quinze ans dans les conditions fixées par les statuts mentionnés à l'article 4 ci-après.
+1° du rapport de la rémunération du pharmacien assistant en vigueur pendant le dernier exercice à la rémunération en vigueur pendant l'avant-dernier exercice ;    2° du rapport des prix de vente hors taxe de quatre-vingts spécialités et vingt produits de droguerie pharmaceutique pratiqués pendant le dernier exercice aux prix pratiqués pendant l'avant-dernier exercice ;    La liste des spécialités et des produits de droguerie pharmaceutique entrant en ligne de compte est arrêtée par le conseil d'administration de la section professionnelle des pharmaciens.    Des réductions de cotisations peuvent être accordées aux pharmaciens dans les conditions fixées à l'article D. 642-4 du code de la sécurité sociale.

@@ -2,82 +2,80 @@
 
 " Les traitements des gardes nationaux de la chasse et de la faune sauvage sont fixés par référence aux indices hiérarchiques bruts suivants :
 
-Gardes-chefs principaux,    5° échelon, indice brut 438 ;
+Gardes-chefs principaux,    5° échelon, indice brut 438 ;    4° échelon, indice brut 406 ;    3° échelon, indice brut 388 ;    2° échelon, indice brut 372 ;    1° échelon, indice brut 351.
 
-4° échelon, indice brut 406 ;
+Gardes-chefs
 
-3° échelon, indice brut 388 ;
+Echelle 5
 
-2° échelon, indice brut 372 ;
-
-1° échelon, indice brut 351.
-
-Gardes-chefs,    10e  échelon, indice brut 365 ;
-
-9e  échelon, indice brut 356 ;
-
-8e  échelon, indice brut 345 ;
-
-7e  échelon, indice brut 336 ;
-
-6e  échelon, indice brut 322 ;
-
-5e  échelon, indice brut 309 ;
-
-4e  échelon, indice brut 294 ;
-
-3e  échelon, indice brut 278 ;
-
-2e  échelon, indice brut 263 ;
-
-1er échelon, indice brut 249.
+10e  échelon (indice brut 390) ;     9e  échelon (indice brut 373) ;     8e  échelon (indice brut 358) ;     7e  échelon (indice brut 343) ;     6e  échelon (indice brut 329) ;     5e  échelon (indice brut 314) ;     4e  échelon (indice brut 299) ;     3e  échelon (indice brut 281) ;     2e  échelon (indice brut 266) ;     1er échelon (indice brut 249).
 
 Gardes de 1re classe
 
-10e  échelon, indice brut 309
+Echelle 3
 
-9e  échelon, indice brut 301
+10e  échelon (indice brut 336)
 
-8e  échelon, indice brut 293
+9e  échelon (indice brut 322)
 
-7e  échelon, indice brut 285
+8e  échelon (indice brut 314)
 
-6e échelon : indice brut 278
+7e  échelon (indice brut 303)
 
-5e échelon : indice brut 268
+6e  échelon (indice brut 293)
 
-4e échelon : indice brut 260
+5e  échelon (indice brut 282)
 
-3e échelon : indice brut 248
+4e  échelon (indice brut 267)
 
-2e  échelon, indice brut 238
+3e  échelon (indice brut 256)
 
-1er échelon, indice brut 232.
+2e  échelon (indice brut 242)
+
+1er échelon (indice brut 232).
 
 Gardes de 2e classe
 
-10e échelon, indice brut 282
+Groupe III
 
-9e  échelon, indice brut 274
+10e échelon (indice brut 282)
 
-8e  échelon, indice brut 268
+9e  échelon (indice brut 274)
 
-7e  échelon, indice brut 265
+8e  échelon (indice brut 268)
 
-6e  échelon, indice brut 261
+7e  échelon (indice brut 265)
 
-5e  échelon, indice brut 252
+6e  échelon (indice brut 261)
 
-4e échelon : indice brut 247
+5e  échelon (indice brut 252)
 
-3e échelon : indice brut 239
+4e  échelon (indice brut 247)
 
-2e échelon : indice brut 230
+3e  échelon (indice brut 239)
 
-4e  échelon, indice brut 244
+2e  échelon (indice brut 230)
 
-3e  échelon, indice brut 237
+1er échelon (indice brut 220)
 
-2e  échelon, indice brut 228
+Groupe III bis
 
-1er échelon, indice brut 220.
+10e échelon (indice brut 309)
+
+9e  échelon (indice brut 301)
+
+8e  échelon (indice brut 293)
+
+7e  échelon (indice brut 285)
+
+6e  échelon (indice brut 278)
+
+5e  échelon (indice brut 268)
+
+4e  échelon (indice brut 260)
+
+3e  échelon (indice brut 248)
+
+2e  échelon (indice brut 241)
+
+1er échelon (indice brut 232).
