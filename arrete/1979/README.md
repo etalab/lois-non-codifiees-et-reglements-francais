@@ -18,6 +18,7 @@
 - [Arrêté du 13 mars 1979](arrete-du-13-mars-1979)
 - [Arrêté du 13 septembre 1978](arrete-du-13-septembre-1978)
 - [Arrêté du 14 février 1979](arrete-du-14-fevrier-1979)
+- [Arrêté du 14 juin 1979](arrete-du-14-juin-1979)
 - [Arrêté du 14 mars 1979](arrete-du-14-mars-1979)
 - [Arrêté du 15 mars 1979](arrete-du-15-mars-1979)
 - [Arrêté du 16 janvier 1979](arrete-du-16-janvier-1979)
