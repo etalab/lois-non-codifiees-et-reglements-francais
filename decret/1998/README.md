@@ -335,6 +335,7 @@
 - [Décret n°98-829 du 14 septembre 1998 (EQUP9800079D)](decret-n98-829-du-14-septembre-1998-equp9800079d)
 - [Décret n°98-836 du 14 septembre 1998 (INTM9800017D)](decret-n98-836-du-14-septembre-1998-intm9800017d)
 - [Décret n°98-838 du 14 septembre 1998 (ECOR9804379D)](decret-n98-838-du-14-septembre-1998-ecor9804379d)
+- [Décret n°98-922 du 14 octobre 1998 (PRMX9800145D)](decret-n98-922-du-14-octobre-1998-prmx9800145d)
 - [Décret n°98-372 du 14 mai 1998 (MESG9820814D)](decret-n98-372-du-14-mai-1998-mesg9820814d)
 - [Décret n°98-374 du 14 mai 1998 (ECOD9870014D)](decret-n98-374-du-14-mai-1998-ecod9870014d)
 - [Décret n°98-375 du 14 mai 1998 (ECOT9813976D)](decret-n98-375-du-14-mai-1998-ecot9813976d)

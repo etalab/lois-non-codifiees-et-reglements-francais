@@ -158,6 +158,8 @@
 - [Arrêté du 6 mars 1998 (MESS9821090A)](arrete-du-6-mars-1998-mess9821090a)
 - [Arrêté du 6 mars 1998 (MJSK9870029A)](arrete-du-6-mars-1998-mjsk9870029a)
 - [Arrêté du 6 octobre 1998 (ECOT9851745A)](arrete-du-6-octobre-1998-ecot9851745a)
+- [Arrêté du 6 octobre 1998 (JUSF9850230A)](arrete-du-6-octobre-1998-jusf9850230a)
+- [Arrêté du 6 octobre 1998 (JUSF9850231A)](arrete-du-6-octobre-1998-jusf9850231a)
 - [Arrêté du 6 mai 1997 (EQUS9700834A)](arrete-du-6-mai-1997-equs9700834a)
 - [Arrêté du 6 mai 1998 (ECOT9810333A)](arrete-du-6-mai-1998-ecot9810333a)
 - [Arrêté du 6 mai 1998 (ECOT9810337A)](arrete-du-6-mai-1998-ecot9810337a)
