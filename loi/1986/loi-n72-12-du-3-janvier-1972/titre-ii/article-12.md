@@ -1,0 +1,3 @@
+# Article 12
+
+Les actes constatant des apports mobiliers à un groupement pastoral agréé ou la prorogation d'un tel groupement sont enregistrés au droit fixe prévu à l'article 671 ter du code général des impôts. Le même droit est applicable aux actes constatant l'incorporation de bénéfices ou de réserves au capital d'un groupement pastoral agréé non passibles de l'impôt sur les sociétés. Lorsque les groupements pastoraux agréés ne sont pas passibles de l'impôt sur les sociétés, les apports immobiliers qui leur sont faits sont soumis à la taxe de publicité foncière ou au droit d'enregistrement au taux de 0,60 %.

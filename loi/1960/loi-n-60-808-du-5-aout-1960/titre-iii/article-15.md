@@ -1,6 +1,10 @@
 # Article 15
 
-Des sociétés d'aménagement foncier et d'établissement rural peuvent être constituées en vue d'acquérir des terres ou des exploitations agricoles librement mises en vente par leurs propriétaires, ainsi que des terres incultes destinées à être rétrocédées après aménagement éventuel. Elles ont pour but, notamment, d'améliorer les structures agraires, d'accroître la superficie de certaines exploitations agricoles et de faciliter la mise en culture du sol et l'installation d'agriculteurs à la terre.
+Des sociétés d'aménagement foncier et d'établissement rural peuvent être constituées en vue d'acquérir des terres ou des exploitations agricoles librement mises en vente par leurs propriétaires, ainsi que des terres incultes destinées à être rétrocédées après aménagement éventuel. Elles ont pour but, notamment, d'améliorer les structures agraires, d'accroître la superficie de certaines exploitations agricoles et de faciliter la mise en culture du sol et l'installation d'agriculteurs à la terre. En outre, ces sociétés peuvent, en exécution de conventions, concourir à la réalisation des autres opérations d'aménagement foncier visées à l'article 1er du code rural.
+
+Toutes les collectivités publiques peuvent participer au capital social de ces sociétés.
+
+Dans les départements d'outre-mer, et dans le cadre d'un aménagement d'ensemble, le concours technique prévu à l'alinéa précédent peut s'exercer sur la partie du territoire des communes qui n'a pas les caractéristiques de terrains à bâtir au sens de l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique et sans limitation numérique de population.
 
 Dans les zones de montagne, les sociétés d'aménagement foncier et d'établissement rural peuvent, dans des conditions fixées par décret, apporter leur concours technique aux communes de moins de 2 000 habitants pour la mise en oeuvre par celles-ci de l' ensemble des procédures d'aménagement foncier communal et notamment l'exercice des droits de préemption dont elles sont titulaires. Dans les mêmes zones, ces sociétés peuvent intervenir en matière de terres incultes ou manifestement sous-exploitées, dans les conditions prévues à l'article 40-1 du code rural.
 

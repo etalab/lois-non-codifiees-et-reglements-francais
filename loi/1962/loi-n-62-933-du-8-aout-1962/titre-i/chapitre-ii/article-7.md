@@ -48,9 +48,9 @@ b) Par les fermiers ou métayers évincés de leur exploitation agricole en appl
 
 5° Les acquisitions de terrains destinés :
 
-A la construction aux aménagements industriels ou à l'extraction de substances minérales ;
+a) A la construction, aux aménagements industriels ou à l'extraction de substances minérales ;
 
-A la constitution ou à la préservation de jardins ou de vergers familiaux, à condition que leur superficie n'excède pas 2500 mètres carrés, sauf s'il s'agit de parcelles enclavées ;
+b) A la constitution ou à la préservation de jardins familiaux compris à l'intérieur d'agglomérations, à condition que leur superficie n'excède pas 1500 mètres carrés, ou situés dans une zone affectée à cette fin soit par un document d'urbanisme opposable aux tiers, soit par une décision de l'organe délibérant d'une collectivité publique ;
 
 6° Les acquisitions de surfaces boisées, sauf :
 
