@@ -144,6 +144,16 @@ Une nouvelle bonification indiciaire prise en compte pour le calcul de la retrai
 
 " l) Agents d'entretien, agents techniques, agents de salubrité, conducteurs territoriaux exerçant des fonctions à caractère polyvalent : 10 points majorés. "
 
+" m) Attachés : 20 points majorés ;
+
+" n) Rédacteurs exerçant des fonctions dans la spécialité Administration générale : 15 points majorés ;
+
+" o) Auxiliaire de soins : 10 points majorés ;
+
+" p) Agents de police municipale : 10 points majorés ;
+
+" q) Gardiens d'H.L.M. : 15 points majorés. "
+
 " 46° Infirmières assurant la direction de services de soins à domicile : 20 points majorés ;
 
 " 47° Puéricultrices assurant la direction d'école départementale de puériculture : 20 points majorés ;
