@@ -232,6 +232,14 @@ Emplois des services de l'auditorium, de l'informatique, des expositions tempora
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
+Etablissement public du musée et du domaine de Versailles
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois du service des réservations et des visites-conférences, du service de la communication, du service de l'informatique, du service de l'organisation des expositions et des manifestations
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
 Etablissement public du musée d'Orsay
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
