@@ -3,5 +3,4 @@
 - [TITRE Ier : Sanctions pénales.](titre-ier)
 - [TITRE II : Prélèvements.](titre-ii)
 - [TITRE III : Agrément des associations.](titre-iii)
-- [TITRE IV : Dispositions diverses.](titre-iv)
 - [TITRE V : Dispositions diverses.](titre-v)

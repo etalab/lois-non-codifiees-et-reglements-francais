@@ -1124,7 +1124,6 @@
 - [Arrêté du 29 mars 1993 (AGRS9202304A)](arrete-du-29-mars-1993-agrs9202304a)
 - [Arrêté du 29 mars 1993 (INTA9300244A)](arrete-du-29-mars-1993-inta9300244a)
 - [Arrêté du 29 mars 1993 (INTA9300245A)](arrete-du-29-mars-1993-inta9300245a)
-- [Arrêté du 29 mars 1993 (MENA9300211A)](arrete-du-29-mars-1993-mena9300211a)
 - [Arrêté du 29 mars 1993 (SPSS9300796A)](arrete-du-29-mars-1993-spss9300796a)
 - [Arrêté du 29 novembre 1993 (BUDB9360041A)](arrete-du-29-novembre-1993-budb9360041a)
 - [Arrêté du 29 novembre 1993 (ECOT9340178A)](arrete-du-29-novembre-1993-ecot9340178a)
