@@ -4,7 +4,7 @@ Définitions
 
 8.1. Lot :
 
-Le lot est constitué par l'ensemble des préemballages de même modèle et de même fabrication faisant l'objet du contrôle.
+Le lot est constitué par l'ensemble des préemballages de même quantité nominale, de même modèle, de même fabrication, emplis dans un même lieu et faisant l'objet du contrôle.
 
 L'effectif du lot est le nombre N de préemballages contenus dans cet ensemble.
 
