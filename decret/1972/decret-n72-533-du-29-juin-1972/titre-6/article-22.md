@@ -1,0 +1,3 @@
+# Article 22
+
+Lorsque le demandeur occupe un logement ne répondant pas aux conditions [*de confort minimum*] fixées à l'article 6, (2°) ci-dessus, l'allocation de logement peut être accordée à titre exceptionnel et pour une période de deux ans [*délai maximum*], renouvelable une fois, par décision du conseil d'administration de la caisse d'allocations familiales ou de la caisse de mutualité sociale agricole concernée et, lorsque le demandeur appartient aux catégories de salariés ou d'anciens salariés visées aux articles 3, 4, 5 et 8 du décret du 15 juillet 1971 susvisé, sur avis favorable d'une commission dont la composition et le fonctionnement sont fixés par arrêté interministériel [*conditions de salubrité - dérogation*].
