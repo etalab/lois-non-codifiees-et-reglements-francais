@@ -223,6 +223,7 @@
 - [Décret n°2004-271 du 19 mars 2004 (AGRD0302399D)](decret-n2004-271-du-19-mars-2004-agrd0302399d)
 - [Décret n°2004-73 du 19 janvier 2004 (SANS0324118D)](decret-n2004-73-du-19-janvier-2004-sans0324118d)
 - [Décret n°99-886 du 19 octobre 1999 (MENF9901993D)](decret-n99-886-du-19-octobre-1999-menf9901993d)
+- [Décret n°2004-428 du 19 mai 2004 (ECOT0426335D)](decret-n2004-428-du-19-mai-2004-ecot0426335d)
 - [Décret n°2004-167 du 20 février 2004 (MAEX0300204D)](decret-n2004-167-du-20-fevrier-2004-maex0300204d)
 - [Décret n°2004-332 du 20 avril 2004 (DEFD0400336D)](decret-n2004-332-du-20-avril-2004-defd0400336d)
 - [Décret n°2004-335 du 20 avril 2004 (EQUX0407253D)](decret-n2004-335-du-20-avril-2004-equx0407253d)
