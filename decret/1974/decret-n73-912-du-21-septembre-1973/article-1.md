@@ -6,7 +6,9 @@ Ces règlements particuliers sont :
 
 1° Des arrêtés préfectoraux lorsqu'il y a lieu de prescrire des dispositions de police applicables à l'intérieur d'un seul département ;
 
-2° Des arrêtés du ministre chargé des voies navigables lorsqu'il y a lieu de prescrire des dispositions applicables dans plusieurs départements ;
+2° Des arrêtés interpréfectoraux pour les dispositions applicables dans plusieurs départements et concernant les lacs, retenues et étangs ainsi que leurs dépendances ;
+
+3° Des arrêtés du ministre chargé des voies navigables pour les dispositions applicables dans plusieurs départements et concernant les fleuves, rivières et canaux ainsi que leurs dépendances.
 
 Les règlements particuliers déterminent les conditions dans lesquelles le chef du service de la navigation précise par voie d'avis à la batellerie les modalités d'application de certaines de leurs dispositions.
 
