@@ -1,0 +1,17 @@
+# Décret n°95-654 du 9 mai 1995 fixant les dispositions communes applicables aux fonctionnaires actifs des services de la police nationale
+
+- [Article 1](article-1.md)
+- [Section 1 : Recrutement.](section-1)
+- [Article 2](article-2.md)
+- [Section 2 : Formation.](section-2)
+- [Article 3](article-3.md)
+- [Section 3 : Déroulement de carrière.](section-3)
+- [Section 4 : Disponibilité et temps de travail.](section-4)
+- [Section 5 : Durée d'affectation et mobilité.](section-5)
+- [Section 6 : Obligations et protections particulières du fonctionnaire et de ses ayants droit.](section-6)
+- [Section 7 : Discipline.](section-7)
+- [Section 8 : Dispositions de caractère social et médical.](section-8)
+- [Section 9 : Organismes de concertation et de participation.](section-9)
+- [Section 10 : Droit syndical.](section-10)
+- [Section 11 : Dispositions diverses.](section-11)
+- [Article 63](article-63.md)

@@ -1,0 +1,3 @@
+# Article 1
+
+A titre exceptionnel, pour les concours qui seront ouverts avant le 1er juillet 1996 pour le recrutement dans les corps des infirmiers et des puéricultrices de la fonction publique hospitalière, en application des articles 2 et 17 du décret du 30 novembre 1988 susvisé, la limite d'âge supérieure n'est pas opposable aux candidats qui, à la date de la publication du décret du 27 octobre 1994 susvisé, étaient régis par la convention collective de la Croix-Rouge mentionnée au III de l'article 6 de la loi du 18 janvier 1994 susvisée et qui ont exercé sans interruption leurs fonctions de personnel infirmier dans un établissement pénitentiaire entre la date de la publication susmentionnée et la date d'ouverture du concours.

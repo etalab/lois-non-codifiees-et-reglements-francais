@@ -1,0 +1,3 @@
+# Article 37
+
+Les élèves et les fonctionnaires stagiaires des services actifs de la police nationale blessés dans l'exercice d'une mission de police et reconnus par le comité médical compétent physiquement inaptes à la titularisation dans leur corps peuvent, après avis de la commission administrative paritaire du corps d'accueil, et nonobstant toutes dispositions contraires des statuts de ce corps, faire l'objet d'un reclassement dans les conditions posées par l'article 63 de la loi du 11 janvier 1984 susvisée, au sein d'un autre corps de fonctionnaires relevant de l'autorité du ministre de l'intérieur.
