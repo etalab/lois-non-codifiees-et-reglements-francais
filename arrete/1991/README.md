@@ -538,7 +538,6 @@
 - [Arrêté du 18 novembre 1991 (ECOT9123081A)](arrete-du-18-novembre-1991-ecot9123081a)
 - [Arrêté du 18 novembre 1991 (EQUC9101475A)](arrete-du-18-novembre-1991-equc9101475a)
 - [Arrêté du 18 novembre 1991 (EQUC9101476A)](arrete-du-18-novembre-1991-equc9101476a)
-- [Arrêté du 18 novembre 1991 (MCCB9100691A)](arrete-du-18-novembre-1991-mccb9100691a)
 - [Arrêté du 18 novembre 1991 (SANP9102473A)](arrete-du-18-novembre-1991-sanp9102473a)
 - [Arrêté du 18 novembre 1991 (SANP9102474A)](arrete-du-18-novembre-1991-sanp9102474a)
 - [Arrêté du 18 novembre 1991 (SANP9102475A)](arrete-du-18-novembre-1991-sanp9102475a)
