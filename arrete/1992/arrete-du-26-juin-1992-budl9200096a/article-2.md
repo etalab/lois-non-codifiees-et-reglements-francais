@@ -1,11 +1,11 @@
 # Article 2
 
-Le traitement permet la saisie des déclarations de taxe sur les locaux à usage de bureaux et l'édition :
+Le traitement TSB (Taxe sur les bureaux) permet l'édition, dans les centres régionaux d'informatique, des déclarations de taxe sur les locaux à usage de bureaux et assure à l'aide de micro-ordinateurs implantés dans les centres des impôts fonciers :
 
-- de déclarations préimprimées adressées aux contribuables ;
+- la saisie des déclarations souscrites par les contribuables ;
 
-- de documents de position correspondants ;
+- le suivi des dossiers des redevables présumés défaillants et l'édition de lettres de relance ;
 
-- de documents d'aide au contrôle pour les services ;
+- le contrôle des déclarations, le calcul des redressements et l'édition de documents de procédure ;
 
-- de documents statistiques.
+- la constitution de statistiques.

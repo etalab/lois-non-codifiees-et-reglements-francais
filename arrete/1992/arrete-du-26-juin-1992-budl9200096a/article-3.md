@@ -2,18 +2,18 @@
 
 Les informations traitées sont les suivantes :
 
-- informations relatives à l'identité des contribuables : noms, dénominations sociales, adresses des propriétaires ou des déclarants, typologie des personnes ;
+- informations relatives à l'identité des propriétaire, déclarant et occupant du local : nom, dénomination sociale, numéro de personne, adresse ;
 
-- informations relatives au lieu de situation des locaux imposables ;
+- informations relatives à la déclaration : identifiant, surface, montants acquittés, dates de paiement ;
 
-- codes : direction des services fiscaux, centre des impôts fonciers, département, commune, arrondissement pour Paris, zone de tarification ;
+- informations relatives aux locaux : numéro invariant, identifiant cadastral et numéro de lot éventuel, adresse, surface déclarée à la taxe sur les bureaux, surface du local, renseignements concernant la destination du local (groupe, sous-groupe, catégorie) et son occupation (vacant, loué, occupé par le propriétaire) ;
 
-- informations relatives à la tarification :
+- informations relatives aux tarifs applicables par zone de tarification : tarif, zone de tarification ;
 
-- année d'exigibilité, tarif en vigueur par zone de tarification et tarif réduit ;
+- informations relatives aux voies : code voie, libellé ;
 
-- par propriétaire et par commune ou arrondissement parisien :
+- informations relatives au contrôle des déclarations : type de redressement, pénalités applicables, matrices d'imposition ;
 
-surface imposable en mètre carré par zone de tarification, montant de la taxe par zone de tarification, montant total de la taxe à payer ;
+- informations statistiques ;
 
-- informations relatives au contrôle des déclarations : numéro de déclaration, direction, commune, clé, zones, code erreurs, messages d'erreurs correspondants, surface, centre des impôts fonciers dépositaire, nombre de déclarations, total des surfaces par zone, montant de la taxe par zone, total de la taxe.
+- zones libres comportant les informations directement liées au contrôle, à l'exclusion de toute appréciation subjective.

@@ -1,0 +1,3 @@
+# Article 7
+
+Les agents nommés en qualité d'ingénieur des travaux agricoles en application du décret du 10 août 1965 susvisé ou intégrés dans le corps des ingénieurs des travaux agricoles au titre des articles 73 et suivants de la loi du 11 janvier 1984 susvisée, du 1er janvier 1998 à la date de publication du présent décret, peuvent demander, dans un délai de six mois à compter de la date de publication du présent décret, à reporter leur nomination à cette même date. Les fonctionnaires bénéficiaires de ces dispositions continuent à voir leur ancienneté de service dans le grade d'ingénieur des travaux agricoles décomptée à partir de la date à laquelle ils y ont initialement accédé.
