@@ -655,6 +655,7 @@
 - [Décret n°99-907 du 26 octobre 1999 (FPPA9910015D)](decret-n99-907-du-26-octobre-1999-fppa9910015d)
 - [Décret n°99-908 du 26 octobre 1999 (FPPA9910016D)](decret-n99-908-du-26-octobre-1999-fppa9910016d)
 - [Décret n°99-909 du 26 octobre 1999 (FPPA9910017D)](decret-n99-909-du-26-octobre-1999-fppa9910017d)
+- [Décret n°99-924 du 26 octobre 1999 (EQUU9901231D)](decret-n99-924-du-26-octobre-1999-equu9901231d)
 - [Décret n°99-412 du 26 mai 1999 (JUSF9950038D)](decret-n99-412-du-26-mai-1999-jusf9950038d)
 - [Décret n°99-416 du 26 mai 1999 (ECOZ9900007D)](decret-n99-416-du-26-mai-1999-ecoz9900007d)
 - [Décret n°99-417 du 26 mai 1999 (ECOZ9900008D)](decret-n99-417-du-26-mai-1999-ecoz9900008d)
