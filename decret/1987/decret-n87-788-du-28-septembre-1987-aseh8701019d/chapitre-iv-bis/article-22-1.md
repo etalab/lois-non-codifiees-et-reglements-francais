@@ -1,3 +1,9 @@
 # Article 22-1
 
-A l'occasion de leur première prise de fonctions dans un établissement public de santé d'un département d'outre-mer, les assistants des hôpitaux précédemment domiciliés sur le territoire métropolitain bénéficient du remboursement des frais de transport engagés pour eux, leur conjoint et leurs enfants à charge au sens du livre V du code de la sécurité sociale. Ces frais sont à la charge de l'établissement public de santé de première affectation et remboursés sur la base du prix du voyage par avion en classe économique.
+Lorsque l'intérêt du service l'exige, un assistant recruté en application de l'article 2 ou de l'article 2-1 peut être immédiatement suspendu de ses fonctions, à titre provisoire, par le directeur de l'établissement, sur proposition du chef de service ou de département. Le directeur informe aussitôt de cette suspension le préfet du département et le médecin inspecteur régional de la santé.
+
+Si des poursuites disciplinaires sont engagées à l'encontre de l'assistant, la décision de suspension peut être confirmée par le préfet, après avis du médecin inspecteur régional, dans le délai d'un mois suivant la décision du directeur, pour une durée qui ne peut au total excéder trois mois.
+
+A défaut de confirmation par le préfet de la décision du directeur dans le délai susmentionné d'un mois, cette décision de suspension provisoire cesse de plein droit d'avoir effet.
+
+L'intéressé conserve pendant la durée de sa suspension la totalité des émoluments mentionnés au 1° de l'article 11.
