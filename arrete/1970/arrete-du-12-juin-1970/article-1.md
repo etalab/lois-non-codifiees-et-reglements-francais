@@ -177,7 +177,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Nice (3e bureau) </p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Beausoleil, Breil-sur-Roya, Menton, Sospel, Tende.</p>
+<p>Cantons de Beausoleil, Breil-sur-Roya, Menton-Est, Menton-Ouest Sospel, Tende.</p>
 </td>
 </tr>
 <tr>
@@ -320,7 +320,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Carcassonne</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons d'Alaigne, Alzonne, Axat, Belcaire, Belpech, Capendu, Carcassonne-I, Carcassonne-II, Carcassonne-III, Castelnaudary-Nord, Castelnaudary-Sud, Chalabre, Conques-sur-Orbiel, Couiza, Fanjeaux, Lagrasse, Limoux, Mas-Cabardes, Montréal, Mouthoumet, Peyriac-Minervois, Quillan, Saissac, Salles-sur-l'Hers, Saint-Hilaire.</p>
+<p>Cantons d'Alaigne, Alzonne, Axat, Belcaire, Belpech, Capendu, Carcassonne-I, Carcassonne-II-Nord, Carcassonne-II-Sud, Carcassonne-III, Castelnaudary-Nord, Castelnaudary-Sud, Chalabre, Conques-sur-Orbiel, Couiza, Fanjeaux, Lagrasse, Limoux, Mas-Cabardes, Montréal, Mouthoumet, Peyriac-Minervois, Quillan, Saissac, Salles-sur-l'Hers, Saint-Hilaire.</p>
 </td>
 </tr>
 <tr>
@@ -405,7 +405,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Aix-en-Provence (1er bureau)</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons d'Aix-en-Provence Nord-Est, Aix-en-Provence Sud-Ouest, Aix-en-Provence Centre, Gardenne, Lambesc, Peyrolles, Salon-de-Provence (à l'exception des communes de Coudoux, La Fare-les-Oliviers, Velaux et Ventabren), Trets, commune de Miramas.</p>
+<p>Cantons d'Aix-en-Provence Nord-Est, Aix-en-Provence Sud-Ouest, Aix-en-Provence Centre, Gardanne, Lambesc, Peyrolles, Pélissanne (à l'exception des communes de Coudoux, La Fare-les-Oliviers, Velaux et Ventabren), Les Pennes-Mirabeau, Trets, Salon-de-Provence commune de Miramas.</p>
 </td>
 </tr>
 <tr>
@@ -414,7 +414,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Aix-en-Provence (2e bureau)</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Berre-l'Etang, Istres (à l'exception de la commune de Miramas), Marignane, Martigues, communes de Coudoux, La Fare-les-Oliviers, Veleux et Ventabren.</p>
+<p>Cantons de Berre-l'Etang, Châteauneuf-Côte-Bleu, Istres-Nord (à l'exception de la commune de Miramas), Istres-Sud, Marignane, Martigues-Est, Martigues-Ouest, Vitrolles, communes de Coudoux, La Fare-les-Oliviers, Velaux et Ventabren.</p>
 </td>
 </tr>
 <tr>
@@ -465,7 +465,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Lisieux</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Lisieux-I, Lisieux-II, Livarot, Mézidon-Canon, Orbec, Saint-Pierre-sur-Dives.</p>
+<p>Cantons de Lisieux-I, Lisieux-II, Lisieux-III, Livarot, Mézidon-Canon, Orbec, Saint-Pierre-sur-Dives.</p>
 </td>
 </tr>
 <tr>
@@ -1023,7 +1023,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Brest (1er bureau)</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Brest-I, Brest-II, Brest-III, Brest-IV, Brest-V, Brest-VI, Brest-VII, Brest-VIII, Ploudalmezeau, Saint-Renan (à l'exception des communes de Guipronvel et Milizac).</p>
+<p>Cantons de Brest-Bellevue, Brest-Cavale-Blanche-Bohars-Guillers, Brest-Centre, Brest-Kerichen, Brest-l'Hermitage-Gouesnou, Brest-Lambezeliec, Brest-Plouzané, Brest-Recouvrance, Brest-Saint-Marc, Brest-Saint-Pierre, Ploudalmezeau, Saint-Renan (à l'exception des communes de Guipronvel et Milizac).</p>
 </td>
 </tr>
 <tr>
@@ -1061,7 +1061,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Nîmes (1er bureau)</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons d'Aigues-Mortes, Alzon, Lasalle, Nîmes-I, Nîmes-II, Nîmes-III, Nîmes-IV, Nîmes-V, Nîmes-VI, Quissac, Saint-André-de-Valborgne, Saint-Chaptes, Saint-Hippolyte-du-Fort, Saint-Mamert-du-Gard, Sauvé, Sommières, Suméne, Trèves, Valleraugue, Vauvert, Le Vigan, La Vistrenque.</p>
+<p>Cantons d'Aigues-Mortes, Alzon, Lasalle, Nîmes-I, Nîmes-II, Nîmes-III, Nîmes-IV, Nîmes-V, Nîmes-VI, Quissac, Rhôny-Vidourie, Saint-André-de-Valborgne, Saint-Chaptes, Saint-Hippolyte-du-Fort, Saint-Mamert-du-Gard, Sauvé, Sommières, Suméne, Trèves, Valleraugue, Vauvert, Le Vigan, La Vistrenque.</p>
 </td>
 </tr>
 <tr>
@@ -1099,7 +1099,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Toulouse (2e bureau)</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Cadours, Fronton, Grenade-sur-Garonne, Léguevin, Toulouse-III, Toulouse-XI, Toulouse-XII, Toulouse-XIII, Villemur-sur-Tarn.</p>
+<p>Cantons de Blagnac, Cadours, Fronton, Grenade, Léguevin, Toulouse-III, Toulouse-XI, Toulouse-XII, Toulouse-XIII, Villemur-sur-Tarn, Tournefeuille (à l'exception de la commune de Villeneuve-Tolosane), commune de Portet-sur-Garonne.</p>
 </td>
 </tr>
 <tr>
@@ -1117,7 +1117,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Muret</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons d'Auterive, Carbonne, Cazères, Cintegabelle, Le Fousseret, Montesquieu-Volvestre, Muret, Rieumes, Rieux-Volvestre, Saint-Lys.</p>
+<p>Cantons d'Auterive, Carbonne, Cazères, Cintegabelle, Le Fousseret, Montesquieu-Volvestre, Muret, Portet-sur-Garonne (à l'exception de la commune de Portet-sur-Garonne), Rieumes, Rieux, Saint-Lys, commune de Villeneuve-Tolosane.</p>
 </td>
 </tr>
 <tr>
@@ -1264,7 +1264,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Montpellier (1er bureau)</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Mauguio, Montpellier-I, Montpellier-II, Montpellier-III, Montpellier-IV, Montpellier-V, Montpellier-VI, Montpellier-VII, Montpellier-VIII, Montpellier-IX, Montpellier-X.</p>
+<p>Cantons de Castelnau-le-Letz, Lattes, Mauguio, Montpellier-I, Montpellier-II, Montpellier-III, Montpellier-IV, Montpellier-V, Montpellier-VI, Montpellier-VII, Montpellier-VIII, Montpellier-IX, Montpellier-X, Pignan.</p>
 </td>
 </tr>
 <tr>
@@ -1302,7 +1302,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Rennes (1er bureau)</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Bruz, Rennes-Centre, Rennes-Centre-Ouest, Rennes-Nord-Ouest, Rennes-Nord, Rennes-Nord-Est, Rennes-Est, Rennes-Sud-Est, Rennes-Centre-Sud, Rennes-Sud-Ouest, Rennes-le-Blosne, Rennes-Bréquigny, commune de Montreuil-le-Gast.</p>
+<p>Cantons de Betton, Bruz, Cesson-Sévigné, Rennes-Centre, Rennes-Centre-Ouest, Rennes-Nord, Rennes-Nord-Ouest, Rennes-Nord-Est, Rennes-Est, Rennes-Sud-Est, Rennes-Centre-Sud, Rennes-Sud-Ouest, Rennes-le-Blosne, Rennes-Bréquigny, commune de Montreuil-le-Gast.</p>
 </td>
 </tr>
 <tr>
@@ -1443,7 +1443,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Bourgoin-Jallieu </p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud (à l'exception des communes de Crachier, Domarin, Maubec et Meyrie), Crémieu, Le Grand-Lemps, Morestel, Le Pont-de-Beauvoisin, Saint-Geoire-en-Valdaine, La Tour-du-Pin, Virieu-sur-Bourbre.</p>
+<p>Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud (à l'exception des communes de Crachier, Domarin, Maubec, Meyrié et Saint-Alban-de-Roche), Crémieu, Le Grand-Lemps, Morestel, Le Pont-de-Beauvoisin, Saint-Geoire-en-Valdaine, La Tour-du-Pin, Virieu.</p>
 </td>
 </tr>
 <tr>
@@ -1461,7 +1461,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Vienne </p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Beaurepaire, La Côte-Saint-André, Heyrieux, L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon, Saint-Jean-de-Bournay, La Verpillière, Vienne-Nord, Vienne-Sud, communes de Crachier, Domarin, Maubec et Meyrie.</p>
+<p>Cantons de Beaurepaire, La Côte-Saint-André, Heyrieux, L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon, Saint-Jean-de-Bournay, La Verpillière, Vienne-Nord, Vienne-Sud, communes de Crachier, Domarin, Maubec, Meyrié, Saint-Alban-de-Roche.</p>
 </td>
 </tr>
 </tbody>
@@ -1516,7 +1516,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Blois </p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Blois-I, Blois-II, Blois-III, Blois-IV, Blois-V, Bracieux, Contres, Herbault, Marchenoir, Mer, Montrichard, Ouzouer-le-Marche, Saint-Aignan, Vineuil.</p>
+<p>Cantons de Blois-I, Blois-II, Blois-III, Blois-IV, Blois-V, Blois-VI, Bracieux, Contres, Herbault, Marchenoir, Mer, Montrichard, Ouzouer-le-Marché, Saint-Aignan, Vineuil.</p>
 </td>
 </tr>
 <tr>
@@ -1938,7 +1938,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Nancy</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Dieulouard, Haroué, Jarville-la-Malgrange, Laxou, Nancy-Est, Nancy-Nord, Nancy-Ouest, Nancy-Sud, Neuves­-Maisons (à l'exception des communes de Bainville-sur­-Madon et Maizières), Nomeny, Pompey (à l'exception de la commune de Saizerais), Pont-à-Mousson, Saint-Max, Saint­Nicolas-de-Port, Tomblaine, Vandœuvre-lès-Nancy, Vézelise. Commune de Velaine-en-Haye.</p>
+<p>Cantons de Dieulouard, Haroué, Jarville-la-Malgrange, Laxou, Malzéville, Nancy-Centre, Nancy-Est, Nancy-Nord, Nancy-Sud, Neuves­-Maisons (à l'exception des communes de Bainville-sur­-Madon et Maizières), Nomeny, Pompey (à l'exception de la commune de Saizerais), Pont-à-Mousson, Saint-Max, Saint-­Nicolas-de-Port, Seichamps, Tomblaine, Vandœuvre-lès-Nancy-Est, Vandœuvre-lès-Nancy-Ouest, Vézelise, Villiers-les-Nancy, commune de Velaine-en-Haye.</p>
 </td>
 </tr>
 <tr>
@@ -2094,7 +2094,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Lille (2e bureau)</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de La Bassée, Cysoing, Haubourdin, Lannoy, Lomme, Pont-à-Marcq, Roubaix-Centre, Roubaix-Est, Roubaix-Nord, Roubaix-Ouest, Seclin, Villeneuve-d'Ascq.</p>
+<p>Cantons de La Bassée, Cysoing, Haubourdin, Lannoy, Lomme, Pont-à-Marcq, Roubaix-Centre, Roubaix-Est, Roubaix-Nord, Roubaix-Ouest, Seclin-Nord, Seclin-Sud, Villeneuve-d'Ascq-Nord, Villeneuve-d'Ascq-Sud.</p>
 </td>
 </tr>
 <tr>
@@ -2130,7 +2130,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Douai</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons d'Arleux, Douai-Nord, Douai-Ouest, Douai-Sud, Marchiennes, Orchies.</p>
+<p>Cantons d'Arleux, Douai-Nord, Douai-Nord-Est, Douai-Sud, Douai-Sud-Ouest, Marchiennes, Orchies.</p>
 </td>
 </tr>
 <tr>
@@ -2351,7 +2351,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Arras </p>
 </td>
 <td valign="top" width="416">
-<p>Cantons d'Arras-Nord, Arras-Ouest, Arras-Sud, Avion, Bapaume. Beaumetz-lez-Loges, Bertincourt, Croisilles, Marquion, Pas-en-Artois, Rouvroy, Vimy, Vitry-en-Artois, commune d'Eleu-dit-Leauwette.</p>
+<p>Cantons d'Arras-Nord, Arras-Ouest, Arras-Sud, Avion, Bapaume. Beaumetz-lès-Loges, Bertincourt, Croisilles, Dainville, Marquion, Pas-en-Artois, Rouvroy, Vimy, Vitry-en-Artois, commune d'Eleu-dit-Leauwette.</p>
 </td>
 </tr>
 <tr>
@@ -2360,7 +2360,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Béthune (1er bureau) </p>
 </td>
 <td valign="top" width="416">
-<p>Cantons d'Auchel, Barlin, Béthune-Nord, Béthune-Sud, Bruay-en-Artois, Cambrin, Houdain, Laventie, Lillers, Nœux-les-Mines (à l'exception de la commune de Nœux-les-Mines), Norrent-Fontes.</p>
+<p>Cantons d'Auchel, Barlin, Béthune-Est, Béthune-Nord, Béthune-Sud, Bruay-la-Buissière, Cambrin, Divion, Douvrin,  Houdain, Laventie, Lillers, Nœux-les-Mines (à l'exception de la commune de Nœux-les-Mines), Norrent-Fontes.</p>
 </td>
 </tr>
 <tr>
@@ -2369,7 +2369,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Béthune (2e bureau) </p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Bully-les-Mines, Carvin, Courrières, Harnes, Laforest, Hénin-Beaumont, Lens-Est, Lens-Nord-Est, Lens-Nord-Ouest, Liévin-Nord, Liévin-Sud (à l'exception de la commune d'Eleu-dit-Leauwette), Wingles, commune de Nœux-les-Mines.</p>
+<p>Cantons de Bully-les-Mines, Carvin, Courrières, Harnes, Leforest, Hénin-Beaumont, Lens-Est, Lens-Nord-Est, Lens-Nord-Ouest, Liévin-Nord, Liévin-Sud (à l'exception de la commune d'Eleu-dit-Leauwette), Montigny-en-Gohelle, Noyelles-sous-Lens, Sains-en-Gohelle, Wingles, commune de Nœux-les-Mines.</p>
 </td>
 </tr>
 <tr>
@@ -2378,16 +2378,16 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Boulogne-sur-Mer </p>
 </td>
 <td valign="top" width="416">
-<p>Cantons da Boulogne-sur-Mer-Nord-Est, Boulogne-sur-Mer-Nord-Ouest, Boulogne-sur-Mer-Sud, Calais-Centre, Calais-Est, Calais-Nord-Ouest, Calais-Sud-Est, Desvres, Guines, Marquise, Outreau, Samer.</p>
+<p>Cantons de Boulogne-sur-Mer-Nord-Est, Boulogne-sur-Mer-Nord-Ouest, Boulogne-sur-Mer-Sud, Calais-Centre, Calais-Est, Calais-Nord-Ouest, Calais-Sud-Est, Desvres, Guines, Marquise, Outreau, Portel, Samer.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="132"/>
 <td valign="top" width="132">
-<p>Montreuil </p>
+<p>Montreuil-sur-Mer </p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Campagne-lès-Hesdin, Etaples, Fruges, Hesdin, Hucqueliers, Montreuil.</p>
+<p>Cantons de Berck, Campagne-lès-Hesdin, Etaples, Fruges, Hesdin, Hucqueliers, Montreuil.</p>
 </td>
 </tr>
 <tr>
@@ -2516,7 +2516,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Perpignan (1er bureau) </p>
 </td>
 <td valign="top" width="416">
-<p>Cantons d'Argelès-sur-Mer, La Côte Radieuse, Côte Vermeille, Elne (à l'exception des communes de Bages et d'Ortaffa), Perpignan-I, Perpignan-II, Perpignan-III, Perpignan-IV, Perpignan-V, Perpignan-VI, Perpignan-VII, Perpignan-VIII, Perpignan-IX, Saint-Estève (à l'exception des communes de Baixas et Calce), Saint-Laurent-de-la-Salanque, Toulouges (à l'exception de la commune de Pollestres), commune de Pis.</p>
+<p>Cantons d'Argelès-sur-Mer, Canet-en-Roussillon, La Côte Radieuse, Côte Vermeille, Elne (à l'exception des communes de Bages et d'Ortaffa), Perpignan-I, Perpignan-II, Perpignan-III, Perpignan-IV, Perpignan-V, Perpignan-VI, Perpignan-VII, Perpignan-VIII, Perpignan-IX, Saint-Estève (à l'exception des communes de Baixas et Calce), Saint-Laurent-de-la-Salanque, Toulouges (à l'exception de la commune de Pollestres), commune de Pia.</p>
 </td>
 </tr>
 <tr>
@@ -2755,7 +2755,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Thonon-les-Bains</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons d'Abondance, Le Biot, Boêge, Douvaine, Evian-les-Bains, Thonon-les-Bains.</p>
+<p>Cantons d'Abondance, Le Biot, Boêge, Douvaine, Evian-les-Bains, Thonon-les-Bains-Est, Thonon-les-Bains-Ouest.</p>
 </td>
 </tr>
 <tr>
@@ -2793,7 +2793,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Le Havre (1er bureau) </p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de: Le Havre-I, Le Havre-II, Le Havre-III, Le Havre-IV, Le Havre-V, Le Havre-VI, Le Havre-VII, La Havre-VIII, Le Havre-IX, Le Havre-X.</p>
+<p>Cantons du Havre-I, du Havre-II, du Havre-III, du Havre-IV, du Havre-V, du Havre-VI, du Havre-VII, du Havre-VIII, du Havre-IX.</p>
 </td>
 </tr>
 <tr>
@@ -2831,7 +2831,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Melun</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Brie-Comte-Robert, Le Châtelet-en-Brie, Melun-Nord, Melun-Sud, Mormant, Tournan-en-Brie, Perthes-en-Gâtinais, Pontault-Combault, Roissy-en-Brie, Savigny-le-Temple, commune d'Héricy.</p>
+<p>Cantons de Brie-Comte-Robert, Combs-la-Ville, Le Châtelet-en-Brie, Le Mée-sur-Seine, Melun-Nord, Melun-Sud, Mormant, Tournan-en-Brie, Perthes, Pontault-Combault, Roissy-en-Brie, Savigny-le-Temple, commune d'Héricy.</p>
 </td>
 </tr>
 <tr>
@@ -2996,7 +2996,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Albi </p>
 </td>
 <td valign="top" width="416">
-<p>Cantons d'Alban, Albi-Centre, Albi-Nord-Est, Albi-Nord-Ouest, Albi-Sud, Cadalen, Carmaux-Nord, Carmaux-Sud, Castelnau-de-Montmirail, Cordes, Gaillac, Lisle-sur-Tarn, Monesties, Pampelonne, Rabastens, Réalmont, Salvagnac, Valdaries, Valence-d'Albigeois, Vaour, Villefranche-d'Albigeois.</p>
+<p>Cantons d'Alban, Albi-Centre, Albi-Est, Albi-Nord-Est, Albi-Nord-Ouest, Albi-Ouest, Albi-Sud, Cadalen, Carmaux-Nord, Carmaux-Sud, Castelnau-de-Montmiral, Cordes, Gaillac, Lisle-sur-Tarn, Monesties, Pampelonne, Rabastens, Réalmont, Salvagnac, Valdaries, Valence-d'Albigeois, Vaour, Villefranche-d'Albigeois.</p>
 </td>
 </tr>
 <tr>
@@ -3005,7 +3005,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Castres </p>
 </td>
 <td valign="top" width="416">
-<p>Cantons d'Angles, Brassac, Castres-Est, Castres-Nord, Castres-Sud, Cuq-Toulza, Dourgne, Graulhet, Labruguière, Lacaune, Lautrec, Laveur, Mazamet-Nord-Est, Mazamet-Sud-Ouest, Montredon-Labessonnie, Murat-sur-Vèbre, Puylaurens, Roquecourbe, Saint-Amans-Soult, Saint-Paul-Cap-de-Joux, Vabre, Vielmur-sur-Agout.</p>
+<p>Cantons d'Angles, Brassac, Castres-Est, Castres-Nord, Castres-Ouest, Castres-Sud, Cuq-Toulza, Dourgne, Graulhet, Labruguière, Lacaune, Lautrec, Lavaur, Mazamet-Nord-Est, Mazamet-Sud-Ouest, Montredon-Labessonnie, Murat-sur-Vèbre, Puylaurens, Roquecourbe, Saint-Amans-Soult, Saint-Paul-Cap-de-Joux, Vabre, Vielmur-sur-Agout.</p>
 </td>
 </tr>
 <tr>
@@ -3016,7 +3016,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Montauban </p>
 </td>
 <td valign="top" width="416">
-<p>Cantons d'Auvillar (à l'exception de la commune de Bardigues), Bourg-de-Visa, Caussade, Caylus, Lafrançaise, Lauzerte, Moissac-I, Moissac-II, Molières, Monclar-de-Quercy, Montaigu-de-Quercy, Montauban-I, Montauban-II, Montauban-III, Montauban-IV, Montpezat-de-Quercy, Négrepelisse, Saint-Antonin-Noble-Val, Valence-d'Agen, Villebru­mier.</p>
+<p>Cantons d'Auvillar (à l'exception de la commune de Bardigues), Bourg-de-Visa, Caussade, Caylus, Lafrançaise, Lauzerte, Moissac-I, Moissac-II, Molières, Monclar-de-Quercy, Montaigu-de-Quercy, Montauban-I, Montauban-II, Montauban-III, Montauban-IV, Montauban-V, Montauban-VI, Montpezat-de-Quercy, Négrepelisse, Saint-Antonin-Noble-Val, Valence-d'Agen, Villebru­mier.</p>
 </td>
 </tr>
 <tr>
@@ -3112,7 +3112,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Toulon (1er bureau)</p>
 </td>
 <td align="left" valign="top">
-<p>Cantons de Saint-Mandrier-sur-Mer, La Seine-sur-Mer, Six-Fours-<br/>les-Plages, Toulon-I, Toulon-II, Toulon-III, Toulon-IV, Toulon-V,<br/>Toulon-VI, Toulon-VII, Toulon-VIII, Toulon-IX, La Valette-du-Var.</p>
+<p>Cantons de Saint-Mandrier-sur-Mer, La Garde, La Seyne-sur-Mer, Six-Fours-les-Plages, Toulon-I, Toulon-II, Toulon-III, Toulon-IV, Toulon-V,<br/>Toulon-VI, Toulon-VII, Toulon-VIII, Toulon-IX, La Valette-du-Var.</p>
 </td>
 </tr>
 <tr>
@@ -3121,7 +3121,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Toulon (2e bureau)</p>
 </td>
 <td align="left" valign="top">
-<p>Cantons du Beausset, Collobrières, La Crau, Cuers, Hyères, Ollioules,<br/>Solliès-Pont.</p>
+<p>Cantons du Beausset, Collobrières, La Crau, Cuers, Hyères-Est, Hyères-Ouest, Ollioules, Solliès-Pont.</p>
 </td>
 </tr>
 <tr>
@@ -3295,7 +3295,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Auxerre (1er bureau) </p>
 </td>
 <td valign="top" width="416">
-<p>Cantons d'Ancy-le-Franc, Auxerre-Est, Auxerre-Nord-Ouest, Auxerre-Sud-Ouest, Chablis, Cruzy-le-Châtel, Flogny-la-Chapelle, Ligny-le-Châtel, Saint-Florentin, Saint-Sauveur-en-Puisaye, Seignelay, Tonnerre, Toucy.</p>
+<p>Cantons d'Ancy-le-Franc, Auxerre-Est, Auxerre-Nord, Auxerre-Nord-Ouest, Auxerre-Sud, Auxerre-Sud-Ouest, Chablis, Cruzy-le-Châtel, Flogny-la-Chapelle, Ligny-le-Châtel, Saint-Florentin, Saint-Sauveur-en-Puisaye, Seignelay, Tonnerre, Toucy.</p>
 </td>
 </tr>
 <tr>
@@ -3360,7 +3360,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Mantes-la-Jolie</p>
 </td>
 <td valign="top" width="416">
-<p>Communes d'Adainville, Andelu, Arnouville-lès-Mantes, Auffreville-Brasseuil, Bazinville, Bennecourt, Blaru, Boinville-en-Mantois, Boinvilliers, Boissets, Boissy-Mauvoisin, Bonnières-sur-Seine, Bourdonné, Breuil-Bois-Robert, Bréval, Brueil-en-Véxin, Bucheley, Chauffour-lès-Bonnières, Civry-le-Forêt, Condé-sur-Vasgre, Courgent, Cravent, Dammartin-en­-Serve, Dannemarie, Drocourt, Epone, La Falaise, Favrieux, Flacourt, Flins-Neuve-Eglise, Follainville-Dennemont, Fontenay-Mauvoisin, Fontenay-Saint-Père, Freneuse, Gambais, Gargenville, Gommecourt, Goussonville, Grandchamp, Gressay, Guarnes, Guerville, Guitrancourt, Hargeville, La Hauteville, Houdan, Issou, Jambville, Jeufosse, Jouy-Mauvoisin, Jumeauville, Juziers, Lainville, Limey, Limetz-Villez, Lommoye, Longnes, Magnanville, Mantes-la-Jolie, Mantes-la-Ville, Maulette, Ménerville, Méricourt, Mézières-sur-Seine, Moisson, Mondreville, Montalet-le-Bois, Montchauvet, Mousseaux-sur-Seine, Mulcent, Néauphlatte, Oinville-sur-Montcient, Orvilliers, Osmoy, Perdreauville, Porcheville, Port-Villez, Prunay-le-Temple, Richebourg, Rolleboise, Rosay, Rosny-sur-Seine, Sailly, Saint-Illiers-la-Ville, Saint-Illiers-le-Bois, Saint-Martin-des-Champs, Saint-Marin-­la-Garenne, Septeuil, Soindres, Le Tartre-Gaudran, Le Tertre­Saint-Denis, Tilly, Vert, La Villeneuve-en-Chavrie, Villette.</p>
+<p>Communes d'Adainville, Andelu, Arnouville-lès-Mantes, Auffreville-Brasseuil, Bazinville, Bennecourt, Blaru, Boinville-en-Mantois, Boinvilliers, Boissets, Boissy-Mauvoisin, Bonnières-sur-Seine, Bourdonné, Breuil-Bois-Robert, Bréval, Brueil-en-Véxin, Bucheley, Chauffour-lès-Bonnières, Civry-la-Forêt, Condé-sur-Vesgre, Courgent, Cravent, Dammartin-en­-Sèvre, Dannemarie, Drocourt, Epône, La Falaise, Favrieux, Flacourt, Flins-Neuve-Eglise, Follainville-Dennemont, Fontenay-Mauvoisin, Fontenay-Saint-Père, Freneuse, Gambais, Gargenville, Gommecourt, Goussonville, Grandchamp, Gressey, Guernes, Guerville, Guitrancourt, Hargeville, La Hauteville, Houdan, Issou, Jambville, Jeufosse, Jouy-Mauvoisin, Jumeauville, Juziers, Lainville-en-Vexin, Limay, Limetz-Villez, Lommoye, Longnes, Magnanville, Mantes-la-Jolie, Mantes-la-Ville, Maulette, Ménerville, Méricourt, Mézières-sur-Seine, Moisson, Mondreville, Montalet-le-Bois, Montchauvet, Mousseaux-sur-Seine, Mulcent, Neauphlette, Oinville-sur-Montcient, Orvilliers, Osmoy, Perdreauville, Porcheville, Port-Villez, Prunay-le-Temple, Richebourg, Rolleboise, Rosay, Rosny-sur-Seine, Sailly, Saint-Illiers-la-Ville, Saint-Illiers-le-Bois, Saint-Martin-des-Champs, Saint-Marin-­la-Garenne, Septeuil, Soindres, Le Tartre-Gaudran, Le Tertre-­Saint-Denis, Tilly, Vert, La Villeneuve-en-Chevrie, Villette.</p>
 </td>
 </tr>
 <tr>
