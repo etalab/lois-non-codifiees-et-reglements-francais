@@ -6,4 +6,4 @@ Les statuts déterminent les modalités d'exclusion des associés. La décision 
 
 Tout associé peut se retirer de la société coopérative dans les conditions prévues aux statuts. L'associé qui se retire de la société coopérative ou qui en est exclu reste tenu pendant cinq ans envers les associés et envers les tiers de toutes les obligations existant au jour où cette décision a pris effet.
 
-En cas de retrait ou d'exclusion, l'associé ou ses ayants droit ne peuvent prétendre qu'au remboursement de la valeur nominale des parts sociales, réduite à due concurrence des pertes inscrites au bilan à la clôture du dernier exercice social. En outre, ils participent aux résultats de l'exercice au cours duquel le retrait ou l'exclusion s'est produit ; en l'absence de dispositions particulières des statuts ou du règlement intérieur, cette participation est calculée au prorata du temps passé depuis la clôture du dernier exercice.
+En cas de retrait ou d'exclusion, la dernière phrase du dernier alinéa de l'article 18 de la loi n° 47-1775 du 10 septembre 1947 précitée n'est pas applicable.

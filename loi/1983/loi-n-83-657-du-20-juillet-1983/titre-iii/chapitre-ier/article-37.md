@@ -2,7 +2,7 @@
 
 Les sociétés coopératives maritimes [*définition - attributions*] ont pour objet :
 
-- la réalisation de toute opération susceptible de permettre le maintien ou de favoriser le développement de la pêche maritime, des cultures marines et de toute autre activité maritime ;
+- la réalisation de toute opération susceptible de permettre le maintien ou de favoriser le développement de la pêche maritime, des cultures marines et de toute autre activité maritime, ainsi que l'exercice en commun de ces activités ;
 
 - la fourniture de services répondant aux besoins professionnels individuels ou collectifs de leurs associés.
 

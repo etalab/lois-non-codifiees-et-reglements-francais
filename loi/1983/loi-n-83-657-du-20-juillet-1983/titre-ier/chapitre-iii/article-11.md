@@ -9,3 +9,5 @@ Les parts sociales doivent être intégralement libérées dès leur souscriptio
 Les statuts fixent les modalités de souscription des parts sociales et de l'augmentation ultérieure de la participation des associés au capital.
 
 La cession des parts sociales est soumise à agrément préalable dans les conditions fixées par les statuts ou, à défaut, à agrément de l'assemblée générale ou de l'assemblée des associés.
+
+L'article 11 bis de la loi n° 47-1775 du 10 septembre 1947 précitée n'est pas applicable.
