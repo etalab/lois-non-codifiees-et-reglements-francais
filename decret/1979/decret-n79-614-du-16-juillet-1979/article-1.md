@@ -1,0 +1,3 @@
+# Article 1
+
+Les agents des collectivités locales, tributaires de la caisse nationale de retraites des agents des collectivités locales, anciens déportés ou internés, titulaires de la carte de déporté ou interné de la Résistance ou de la carte de déporté ou interné politique et bénéficiaires d'une pension militaire d'invalidité accordée à un taux au moins égal à 60 p. 100, ont droit sur leur demande, après l'âge de cinquante-cinq ans, en application de la loi du 12 juillet 1977 susvisée, quelle que soit la durée de leurs services, à la pension à jouissance immédiate prévue par l'article 34 du décret du 9 septembre 1965 susvisé.

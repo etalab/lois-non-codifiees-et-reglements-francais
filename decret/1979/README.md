@@ -50,6 +50,7 @@
 - [Décret n°79-480 du 15 juin 1979](decret-n79-480-du-15-juin-1979)
 - [Décret n°79-424 du 15 mai 1979](decret-n79-424-du-15-mai-1979)
 - [Décret n°79-154 du 16 février 1979](decret-n79-154-du-16-fevrier-1979)
+- [Décret n°79-614 du 16 juillet 1979](decret-n79-614-du-16-juillet-1979)
 - [Décret n°79-40 du 17 janvier 1979](decret-n79-40-du-17-janvier-1979)
 - [Décret n°79-41 du 17 janvier 1979](decret-n79-41-du-17-janvier-1979)
 - [Décret n°79-394 du 17 mai 1979](decret-n79-394-du-17-mai-1979)
