@@ -177,7 +177,6 @@
 - [Arrêté du 28 décembre 1985](arrete-du-28-decembre-1985)
 - [Arrêté du 28 février 1985](arrete-du-28-fevrier-1985)
 - [Arrêté du 28 juin 1985](arrete-du-28-juin-1985)
-- [Arrêté du 28 mars 1985](arrete-du-28-mars-1985)
 - [Arrêté du 28 octobre 1985](arrete-du-28-octobre-1985)
 - [Arrêté du 28 mai 1985](arrete-du-28-mai-1985)
 - [Arrêté du 29 août 1985](arrete-du-29-aout-1985)

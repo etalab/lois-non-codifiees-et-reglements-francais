@@ -458,7 +458,6 @@
 - [Arrêté du 23 février 1984](arrete-du-23-fevrier-1984)
 - [Arrêté du 23 février 1989 (ECOA8900018A)](arrete-du-23-fevrier-1989-ecoa8900018a)
 - [Arrêté du 23 février 1989 (ECOA8900019A)](arrete-du-23-fevrier-1989-ecoa8900019a)
-- [Arrêté du 23 février 1989 (ECOA8900020A)](arrete-du-23-fevrier-1989-ecoa8900020a)
 - [Arrêté du 23 janvier 1989 (BUDF8900001A)](arrete-du-23-janvier-1989-budf8900001a)
 - [Arrêté du 23 janvier 1989 (MERP8900015A)](arrete-du-23-janvier-1989-merp8900015a)
 - [Arrêté du 23 janvier 1989 (TRSS8900018A)](arrete-du-23-janvier-1989-trss8900018a)
