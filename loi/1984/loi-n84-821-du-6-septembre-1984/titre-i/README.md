@@ -12,6 +12,7 @@
 - [Article 37](article-37.md)
 - [Article 44](article-44.md)
 - [Article 50](article-50.md)
+- [Article 51](article-51.md)
 - [Article 53](article-53.md)
 - [Article 101](article-101.md)
 - [Article 108](article-108.md)
