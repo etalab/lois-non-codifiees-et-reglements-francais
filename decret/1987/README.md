@@ -445,7 +445,6 @@
 - [Décret n°87-454 du 29 juin 1987 (AGRS8701166D)](decret-n87-454-du-29-juin-1987-agrs8701166d)
 - [Décret n°87-455 du 29 juin 1987 (AGRS8701164D)](decret-n87-455-du-29-juin-1987-agrs8701164d)
 - [Décret n°87-456 du 29 juin 1987 (AGRS8701165D)](decret-n87-456-du-29-juin-1987-agrs8701165d)
-- [Décret n°87-459 du 29 juin 1987 (JUSC8720468D)](decret-n87-459-du-29-juin-1987-jusc8720468d)
 - [Décret n°87-481 du 29 juin 1987 (MAEJ8730031D)](decret-n87-481-du-29-juin-1987-maej8730031d)
 - [Décret n°87-494 du 29 juin 1987 (ENVN8700089D)](decret-n87-494-du-29-juin-1987-envn8700089d)
 - [Décret n°87-599 du 29 juillet 1987 (ECOC8700018D)](decret-n87-599-du-29-juillet-1987-ecoc8700018d)
