@@ -255,7 +255,6 @@
 - [Décret n°90-77 du 17 janvier 1990 (AGRA8902553D)](decret-n90-77-du-17-janvier-1990-agra8902553d)
 - [Décret n°89-319 du 17 mai 1989 (MAEJ8930045D)](decret-n89-319-du-17-mai-1989-maej8930045d)
 - [Décret n°89-332 du 17 mai 1989 (MAEJ8930044D)](decret-n89-332-du-17-mai-1989-maej8930044d)
-- [Décret n°86-659 du 18 mars 1986](decret-n86-659-du-18-mars-1986)
 - [Décret n°88-824 du 18 juillet 1988 (SPSX8800099D)](decret-n88-824-du-18-juillet-1988-spsx8800099d)
 - [Décret n°89-241 du 18 avril 1989 (SPSH8900705D)](decret-n89-241-du-18-avril-1989-spsh8900705d)
 - [Décret n°89-242 du 18 avril 1989 (SPSH8900707D)](decret-n89-242-du-18-avril-1989-spsh8900707d)
