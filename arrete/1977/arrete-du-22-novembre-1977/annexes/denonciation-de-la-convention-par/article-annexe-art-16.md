@@ -6,10 +6,10 @@ L'organisme prêteur qui ne désire pas continuer à consentir des prêts conven
 
 2° Soit lors des modifications apportées aux conditions de ladite convention.
 
-Cette dénonciation doit être effectuée par lettre adressée au Crédit foncier :
+Cette dénonciation doit être effectuée par lettre adressée à la SGFGAS :
 
-Au cas visé au 1° dans les trois mois précédant la date d'effet de la dénonciation ;
+- au cas visé au 1o dans les trois mois précédant la date anniversaire de la signature de la convention ;
 
-Au cas visé au 2° dans les trois mois de la diffusion des avis du Crédit foncier portant modification à ladite convention.
+- au cas visé au 2o dans les trois mois de la diffusion des avis de la SGFGAS portant modification à ladite convention.
 
 Il est entendu que, nonobstant cette dénonciation, l'organisme prêteur reste tenu de respecter la présente convention pour les opérations en cours.
