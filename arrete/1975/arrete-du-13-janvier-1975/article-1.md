@@ -42,17 +42,19 @@ a. Achats sur factures ou travaux sur mémoires visés à l'article 123 du code 
 
 b. Acquisitions effectuées pour le compte du mobilier national visées à l'article 124 du code des marchés publics.
 
-c. Marchés et conventions (à l'exclusion des contrats d'études et des contrats de fournitures de mains-d'oeuvre) dont le montant maximum est de :
+c) Marchés et conventions (à l'exclusion des marchés d'études) dont le montant maximum est de :
 
-- 150.000 F pour les marchés de gré à gré ;
+300 000 F pour les marchés négociés et conventions ;
 
-- 400.000 F pour les marchés par adjudication ou sur appel d'offres, lesdits seuils étant portés respectivement à 300.000 F et 800.000 F pour les marchés et conventions passés par les ordonnateurs secondaires à compétence régionale.
+750 000 F pour les marchés par adjudication ou sur appel d'offres.
+
+Lesdits seuils étant respectivement portés à 500 000 F et 1 200 000 F pour les marchés et les conventions passés par les ordonnateurs secondaires à compétence régionale ou à compétence nationale.
 
 d. Marchés de génie civil dont le montant maximum est de 350.000 F pour les marchés de gré à gré et de 1 million de francs pour les marchés par adjudication ou sur appel d'offres à l'exclusion des transactions portant sur ces marchés.
 
 e. Intérêts moratoires résultant de l'application des articles 178, 179 et 180 du code des marchés publics.
 
-f. Baux, accords amiables et conventions ayant pour objet la prise en location d'immeubles de toute nature, lorsque le loyer annuel, charges comprises, n'excède pas le seuil de compétence des commissions départementales des opérations immobilières et de l'architecture.
+f) L'année de leur signature, baux, accords amiables et conventions et leurs avenants ayant pour objet la prise en location d'immeubles de toutes natures, lorsque le loyer annuel, charges comprises, n'excède pas le seuil de compétence du service des domaines.
 
 g. Remboursements.
 
@@ -73,6 +75,8 @@ l) Dépenses de toute nature effectuées sur le budget des armées selon la proc
 m) Dépenses des unités des forces armées payées selon le système des masses.
 
 n) En cas de cessions de ministère à ministère, engagement établi par le service cédant et correspondant au montant de l'état évaluatif de la dépense tel qu'il aura été fourni par le service cessionnaire.
+
+p) Frais occasionnés par les déplacements des personnels de l'Etat sur le territoire métropolitain de la France prévus par le décret n° 90-437 du 28 mai 1990.
 
 III. Interventions publiques
 
