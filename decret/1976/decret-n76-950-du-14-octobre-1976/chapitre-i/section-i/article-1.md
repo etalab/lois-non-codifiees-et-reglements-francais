@@ -8,6 +8,8 @@ Un magistrat ou ancien magistrat de la Cour des comptes, désigné par le premie
 
 Un magistrat ou ancien magistrat de l'ordre judiciaire, désigné par le premier président de la cour d'appel de Paris.
 
+Les membres de la commission sont désignés pour une durée de cinq ans renouvelable. Des suppléants en nombre égal sont nommés dans les mêmes conditions.
+
 Lorsque le membre désigné n'est pas en activité, des vacations lui sont attribuées.
 
 Un représentant de chacun des candidats peut assister aux opérations de la commission concernant la propagande et le recensement des votes.
