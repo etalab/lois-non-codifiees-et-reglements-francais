@@ -363,6 +363,7 @@
 - [Arrêté du 10 mars 1992 (PTTR9200145A)](arrete-du-10-mars-1992-pttr9200145a)
 - [Arrêté du 10 mars 1992 (PTTR9200146A)](arrete-du-10-mars-1992-pttr9200146a)
 - [Arrêté du 10 mars 1992 (SANH9200779A)](arrete-du-10-mars-1992-sanh9200779a)
+- [Arrêté du 10 novembre 1992 (PTTR9200577A)](arrete-du-10-novembre-1992-pttr9200577a)
 - [Arrêté du 10 septembre 1992 (ACVP9220015A)](arrete-du-10-septembre-1992-acvp9220015a)
 - [Arrêté du 10 septembre 1992 (BUDL9200155A)](arrete-du-10-septembre-1992-budl9200155a)
 - [Arrêté du 10 septembre 1992 (COMK9208002A)](arrete-du-10-septembre-1992-comk9208002a)
