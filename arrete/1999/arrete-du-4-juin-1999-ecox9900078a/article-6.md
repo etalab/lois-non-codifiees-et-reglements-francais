@@ -1,5 +1,0 @@
-# Article 6
-
-En complément des dispositions de l'article 3, premier et deuxième tiret, les établissements qui, entre le 7 juillet 1999 et le 31 juillet 1999, ont introduit en France, sur la base d'une certification ou d'une déclaration fondée sur la traçabilité, en provenance de Belgique, des porcs, des viandes de porcs, des volailles domestiques, des viandes de volailles domestiques, des oeufs à couver ou non, ou des produits transformés ou non qui en sont issus, en vue de leur commercialisation tels quels ou après transformation pour l'alimentation humaine ou animale doivent procéder à leur retrait de la commercialisation, en quelque lieu que ce soit, ou en informer leurs destinataires en vue de leur retrait dans l'attente des résultats d'analyses de PCB ou de dioxines.
-
-Une liste précisant, pour chaque lot, la nature, la quantité de marchandises, l'établissement de provenance et, le cas échéant, l'établissement de destination doit être transmise par le premier établissement d'introduction au préfet (services vétérinaires) avant le 10 août 1999.
