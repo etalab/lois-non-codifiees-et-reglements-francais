@@ -1,0 +1,5 @@
+# Article 2
+
+Les agents titulaires ou stagiaires du personnel administratif des établissements d'hospitalisation, de soins ou de cure publics en fonctions à la date de publication du décret n° 59-707 du 8 juin 1959 seront reclassés dans les échelons fixés par le présent arrêté suivant des correspondances déterminées par une circulaire du ministre de la santé publique et de la population. Le reclassement des personnels occupant les emplois visés aux articles 10 à 15 dudit décret devra s'effectuer dans des conditions identiques à celles prévues par le décret, modifié, n° 57-175 du 16 février 1957.
+
+Sous réserve des dispositions de l'article 4 (2e alinéa) du décret précité du 8 juin 1959, ces reclassements prendront effet à la date de publication dudit décret. Exceptionnellement, pour les agents occupant des emplois visés aux articles 10 à 15 de ce décret, les reclassements prendront effet au 1er octobre 1956 pour les agents en fonctions à cette date et à la date de nomination des intéressés pour les agents recrutés postérieurement.

@@ -4,6 +4,7 @@
 - [Arrêté du 4 mai 1959](arrete-du-4-mai-1959)
 - [Arrêté du 5 février 1959](arrete-du-5-fevrier-1959)
 - [Arrêté du 6 mai 1959](arrete-du-6-mai-1959)
+- [Arrêté du 8 juin 1959](arrete-du-8-juin-1959)
 - [Arrêté du 12 mars 1959](arrete-du-12-mars-1959)
 - [Arrêté du 16 février 1959](arrete-du-16-fevrier-1959)
 - [Arrêté du 20 mai 1959](arrete-du-20-mai-1959)
