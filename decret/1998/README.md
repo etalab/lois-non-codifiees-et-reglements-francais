@@ -344,6 +344,7 @@
 - [Décret n°98-52 du 28 janvier 1998 (MESP9723639D)](decret-n98-52-du-28-janvier-1998-mesp9723639d)
 - [Décret n°98-58 du 28 janvier 1998 (ECOA9730014D)](decret-n98-58-du-28-janvier-1998-ecoa9730014d)
 - [Décret n°98-779 du 28 août 1998 (ECOI9800608D)](decret-n98-779-du-28-aout-1998-ecoi9800608d)
+- [Décret n°97-1002 du 29 octobre 1997 (INTM9700008D)](decret-n97-1002-du-29-octobre-1997-intm9700008d)
 - [Décret n°97-1247 du 29 décembre 1997 (MESS9724006D)](decret-n97-1247-du-29-decembre-1997-mess9724006d)
 - [Décret n°97-1259 du 29 décembre 1997 (ECOR9706081D)](decret-n97-1259-du-29-decembre-1997-ecor9706081d)
 - [Décret n°97-1261 du 29 décembre 1997 (EQUC9701625D)](decret-n97-1261-du-29-decembre-1997-equc9701625d)

@@ -349,6 +349,8 @@
 - [Arrêté du 25 février 1998 (ATEP9870099A)](arrete-du-25-fevrier-1998-atep9870099a)
 - [Arrêté du 25 février 1998 (DEFB9801266A)](arrete-du-25-fevrier-1998-defb9801266a)
 - [Arrêté du 25 février 1998 (ECOF9820801A)](arrete-du-25-fevrier-1998-ecof9820801a)
+- [Arrêté du 25 février 1998 (ECOI9800218A)](arrete-du-25-fevrier-1998-ecoi9800218a)
+- [Arrêté du 25 février 1998 (ECOI9800222A)](arrete-du-25-fevrier-1998-ecoi9800222a)
 - [Arrêté du 25 février 1998 (ECOT9810331A)](arrete-du-25-fevrier-1998-ecot9810331a)
 - [Arrêté du 25 mars 1998 (ECOB9850009A)](arrete-du-25-mars-1998-ecob9850009a)
 - [Arrêté du 25 mars 1998 (EQUC9800320A)](arrete-du-25-mars-1998-equc9800320a)
