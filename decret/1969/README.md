@@ -48,7 +48,6 @@
 - [Décret n°69-697 du 18 juin 1969](decret-n69-697-du-18-juin-1969)
 - [Décret n°69-1047 du 19 novembre 1969](decret-n69-1047-du-19-novembre-1969)
 - [Décret n°69-1048 du 19 novembre 1969](decret-n69-1048-du-19-novembre-1969)
-- [Décret n°69-671 du 19 juin 1969](decret-n69-671-du-19-juin-1969)
 - [Décret n°69-679 du 19 juin 1969](decret-n69-679-du-19-juin-1969)
 - [Décret n°69-689 du 19 juin 1969](decret-n69-689-du-19-juin-1969)
 - [Décret n°69-515 du 19 mai 1969](decret-n69-515-du-19-mai-1969)
