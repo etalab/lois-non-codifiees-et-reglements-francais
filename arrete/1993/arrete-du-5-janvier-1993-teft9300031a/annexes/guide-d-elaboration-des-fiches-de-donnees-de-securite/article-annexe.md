@@ -12,13 +12,11 @@ La fiche de données de sécurité doit être datée. Lorsqu'elle a fait l'objet
 
 L'attention du destinataire devra être attirée sur les modifications introduites.
 
-1. Identification du produit chimique et de la personne
-
-physique ou morale responsable de sa mise sur le marché
+1. Identification du produit chimique et de la personne physique ou morale responsable de sa mise sur le marché
 
 1.1. Identification du produit chimique.
 
-La dénomination utilisée pour l'identification doit être identique à celle figurant sur l'étiquette telle qu'elle résulte de l'arrêté du 10 octobre 1983 modifié ou de l'arrêté du 21 février 1990 modifié.
+La dénomination utilisée pour l'identification doit être identique à celle figurant sur l'étiquette telle qu'elle résulte de l'arrêté du 20 avril 1994 modifié ou de l'arrêté du 21 février 1990 modifié.
 
 Lorsqu'il existe d'autres moyens d'identification, ceux-ci peuvent être indiqués.
 
@@ -100,9 +98,7 @@ Le cas échéant, indiquer les quantités limites pouvant être stockées.
 
 Fournir en particulier toute indication particulière telle que le type de matériau utilisé pour l'emballage/conteneur de la substance ou de la préparation.
 
-8. Procédures de contrôle de l'exposition des travailleurs
-
-et caractéristiques des équipements de protection individuelle
+8. Procédures de contrôle de l'exposition des travailleurs et caractéristiques des équipements de protection individuelle
 
 La notion de contrôle de l'exposition recouvre ici toutes les précautions à prendre durant l'utilisation pour minimiser l'exposition des travailleurs.
 
@@ -170,7 +166,7 @@ Coefficient de partage : n-octanol/eau ;
 
 Autres données : indiquer les paramètres importants pour la sécurité, tels que la densité de vapeur, la miscibilité, la vitesse d'évaporation, la conductivité, la viscosité, etc.
 
-Les propriétés ci-dessus sont déterminées selon les prescriptions de l'annexe V, partie A, de la directive (C.E.E.) n° 67-548 ou par toute autre méthode équivalente (arrêté du 14 mars 1986 relatif aux informations et aux résultats d'essais à fournir en application du premier alinéa de l'article R. 231-52 du code du travail).
+Les propriétés ci-dessus sont déterminées selon les prescriptions de l'annexe V, partie A, de l'arrêté du 20 avril 1994 ou par toute autre méthode équivalente définie au titre II de l'arrêté du 20 avril 1994 concernant plus particulièrement les informations et les résultats des essais à fournir en application de l'article R. 231-52 (I).
 
 10. Stabilité du produit et réactivité
 
@@ -204,19 +200,23 @@ Compte tenu des renseignements déjà donnés au point 2 concernant les informat
 
 12. Informations écotoxicologiques
 
-Donner une appréciation des effets, du comportement et du devenir probables de la substance ou de la préparation dans l'environnement.
+Indiquer les effets, le comportement et le devenir dans l'environnement de la substance ou préparation, compte tenu de sa nature et de ses utilisations raisonnablement envisageables. Des renseignements du même ordre doivent être fournis concernant les produits dangereux issus de la dégradation des substances et préparations.
 
-Décrire les principales caractéristiques susceptibles d'avoir un effet sur l'environnement, du fait de leur nature et des méthodes probables d'utilisation :
+Quelques exemples de données pertinentes relatives à l'impact du produit sur l'environnement peuvent être cités :
 
-- mobilité ;
+- la mobilité du produit (notamment répartition connue ou prévisible entre les différents compartiments de l'environnement, tension superficielle, adsorption/désorption et autres propriétés physico-chimiques "voir point 9") ;
 
-- persistance et dégradabilité ;
+- sa dégradabilité (notamment dégradation biotique et abiotique, dégradation aérobie et anaérobie, persistance) ;
 
-- potentiel de bio-accumulation ;
+- son potentiel de bioccumulation (bioamplification) ;
 
-- toxicité aquatique et autres données ayant trait à l'écotoxicité, par exemple comportement dans les installations de traitement d'eaux résiduaires.
+- son écotoxicité : ses effets à court et long termes sur les organismes aquatiques, les organismes du sol, la flore et la faune terrestres ainsi que ses effets nocifs divers (le potentiel d'appauvrissement de la couche d'ozone, le potentiel de formation photochimique d'ozone, le potentiel de réchauffement global et effets sur les installations de traitement des eaux résiduaires).
 
-Faute de critères d'évaluation des incidences d'une préparation sur l'environnement, des informations relatives aux propriétés mentionnées ci-dessus doivent être fournies pour les substances classées comme dangereuses pour l'environnement présentes dans la préparation.
+Remarques :
+
+Veiller à ce que les informations importantes pour l'environnement soient fournies dans d'autres rubriques de la fiche, et plus particulièrement les conseils en matière de contrôle de rejets, les mesures à prendre en cas de dispersion accidentelle et les considérations relatives à l'élimination qui figurent dans les points 6, 7, 13 et 15.
+
+En attendant la mise au point définitive de critères d'évaluation des incidences d'une préparation sur l'environnement, des informations relatives aux propriétés mentionnées ci-dessus doivent être fournies pour les substances classées comme dangereuses pour l'environnement présentes dans la préparation conformément aux dispositions de l'article 15-I de l'arrêté du 20 avril 1994.
 
 13. Informations sur les possibilités d'élimination des déchets
 
@@ -234,13 +234,13 @@ En complément, il est souhaitable de fournir les informations prévues par la r
 
 15. Informations réglementaires
 
-Donner les informations figurant sur l'étiquette conformément aux directives sur la classification, l'emballage et l'étiquetage des substances et préparations dangereuses.
+Donner les informations figurant sur l'étiquette conformément notamment aux dispositions de l'arrêté du 20 avril 1994 et de l'arrêté du 21 février 1990 modifié qui portent sur la classification, l'emballage et l'étiquetage des substances et préparations dangereuses.
 
 Si le produit visé par cette fiche de sécurité fait l'objet de dispositions particulières en matière de protection de l'homme et de l'environnement sur le plan français ou communautaire (par exemple limitation de mise sur le marché et d'emploi, valeur limite d'exposition sur les lieux de travail), celles-ci devraient être en tant que de besoin précisées.
 
 16. Autres informations
 
-Indiquer tout autre renseignement pouvant revêtir de l'importance pour la sécurité et la santé des travailleurs, par exemple :
+Indiquer tout autre renseignement pouvant revêtir de l'importance pour la sécurité et la santé des travailleurs ainsi que la protection de l'environnement par exemple :
 
 - conseils relatifs à la formation ;
 
