@@ -1,0 +1,3 @@
+# Article 1
+
+Les agents des établissements d'hospitalisation, de soins ou de cure publics régis par le livre IX du code de la santé publique quittant un établissement pour recevoir une affectation dans un autre établissement bénéficient, sur les bases et dans les conditions fixées par l'article 3 de l'arrêté du 28 mai 1968 relatif aux frais de déplacement des personnels des collectivités locales sur le territoire métropolitain, du remboursement des frais engagés par eux et les membres de leur famille à l'occasion de ce changement de résidence lorsqu'il est effectué dans l'un des cas prévus à l'article suivant.
