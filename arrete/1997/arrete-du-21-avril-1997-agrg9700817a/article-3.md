@@ -1,0 +1,3 @@
+# Article 3
+
+Dans le cas où le propriétaire ou le détenteur de l'animal placé sous surveillance d'un vétérinaire sanitaire se trouverait dans l'obligation de se déplacer avant la fin de la période de surveillance, le directeur des services vétérinaires peut l'autoriser à faire poursuivre les visites réglementaires de son animal par un second vétérinaire sanitaire au lieu de sa nouvelle résidence, sous réserve que soient préalablement avisés de ce transfert : la personne mordue ou griffée, le directeur des services vétérinaires du département d'accueil, le premier vétérinaire sanitaire consulté et l'autorité investie des pouvoirs de police qui a été informée des faits qui ont entraîné la mise sous surveillance vétérinaire de l'animal.
