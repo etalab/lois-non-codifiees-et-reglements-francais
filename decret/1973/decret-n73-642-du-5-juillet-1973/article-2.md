@@ -14,7 +14,7 @@ Un représentant du ministre chargé des naturalisations.
 
 Trois représentants du conseil national de l'ordre intéressé ;
 
-Trois représentants des organisations syndicales nationales de la profession intéressée. Un arrêté du ministre chargé de la santé publique fixe la liste des organisations syndicales nationales pour chacune des professions intéressées.
+Trois représentants des organisations syndicales nationales pour les chirurgiens-dentistes et les sages-femmes et, pour les médecins, sept représentants des organisations syndicales nationales de praticiens exerçant soit à titre libéral, soit comme praticiens hospitaliers. Un arrêté du ministre chargé de la santé publique fixe la liste des organisations syndicales nationales pour chacune des professions intéressées.
 
 Les représentants de l'académie nationale de médecine ou de l'académie dentaire, des conseils nationaux des ordres et des organisations syndicales sont désignés par ces organismes pour une durée de cinq ans renouvelable, suivant des modalités fixées par arrêté du ministre chargé de la santé publique.
 
