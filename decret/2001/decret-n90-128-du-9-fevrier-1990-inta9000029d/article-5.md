@@ -1,0 +1,3 @@
+# Article 5
+
+Parmi les fonctionnaires mentionnés à l'article 3 du présent décret, seuls les fonctionnaires ayant le grade d'ingénieur en chef de 1re catégorie du cadre d'emplois des ingénieurs territoriaux susvisé ainsi que les fonctionnaires titulaires d'un grade relevant d'un corps doté d'un indice brut terminal au moins égal à la hors échelle A et ayant statutairement vocation à exercer les fonctions mentionnées à l'article 2 du décret portant statut particulier du cadre d'emplois précité, peuvent être détachés sur un emploi de directeur général des services techniques des communes ou des établissements publics de coopération intercommunale à fiscalité propre de plus de 80 000 habitants.

@@ -148,7 +148,7 @@ B. - Fonctions techniques
 <p>Assistant technique.</p>
 </td>
 <td valign="top" width="227">
-<p>Prime de rendement et, pour les techniciens jusqu'au 7e échelon, indemnités horaires pour travaux supplémentaires (I.H.T.S.) (décret<br/>n° 50-1248 du 6 octobre 1950 modifié).</p>
+<p>Prime de rendement et, pour les techniciens jusqu'au 7e échelon, indemnités horaires pour travaux supplémentaires (I.H.T.S.) (décret n° 50-1248 du 6 octobre 1950 modifié).</p>
 </td>
 </tr>
 <tr>
@@ -289,7 +289,7 @@ B. - Fonctions techniques
 <p align="left">Dessinateur</p>
 </td>
 <td align="left" rowspan="2" valign="top">
-<p align="left">Prime de service et de rendement<br/>(décret n° 72-18 du 5 janvier 1972<br/>modifié)<br/>et indemnités horaires pour travaux<br/>supplémentaires (IHTS) (décret<br/>n° 50-1248<br/>du 6 octobre 1950 modifié).</p>
+<p align="left">Prime de service et de rendement<br/>(décret n° 72-18 du 5 janvier 1972<br/>modifié) et indemnités horaires<br/>pour travaux supplémentaires<br/>(IHTS) (décret n° 50-1248<br/>du 6 octobre 1950 modifié).</p>
 </td>
 </tr>
 <tr>
@@ -458,7 +458,7 @@ C. - Fonctions médico-sociales
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Coordinatrice de crèches.</p>
+<p>Coordinatrices territoriales d'établissements et services d'accueil des enfants de moins de six ans.</p>
 </td>
 <td valign="top" width="227">
 <p>Surveillant chef des services médicaux de l'Institution nationale des invalides.</p>
