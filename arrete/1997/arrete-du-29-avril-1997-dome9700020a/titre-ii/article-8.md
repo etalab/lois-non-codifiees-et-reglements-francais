@@ -1,10 +1,20 @@
 # Article 8
 
-Pour l'application du troisième alinéa de l'article R. 317-2 du code de la construction et de l'habitation, le montant des travaux d'amélioration doit être au moins égal à 35 % du coût total de l'opération. Le coût total de l'opération comprend :
+I. - Pour les opérations prévues à l'article R. 317-2, le coût total de l'opération comprend, toutes taxes comprises :
 
-1. Le prix de l'acquisition immobilière, à l'exclusion des frais d'acquisition ;
+- la charge foncière ou la charge immobilière, y compris les honoraires de géomètre et les taxes afférentes, à l'exclusion des frais d'acte notarié et des droits d'enregistrement pour les terrains à bâtir et les immeubles anciens ;
 
-2. Le coût des travaux, y compris les honoraires liés à leur réalisation.
+- les honoraires de négociation à la charge de l'acquéreur ;
+
+- le coût des travaux, y compris les honoraires liés à leur réalisation ;
+
+- les frais relatifs à l'assurance de responsabilité mentionnée à l'article L. 241-1 du code des assurances ou à l'assurance de dommages mentionnée à l'aricle L. 241-2 du même code ;
+
+- les taxes afférentes à la construction mentionnées aux articles 1585 A et 1599 B du code général des impôts et de l'article L. 142-2 du code de l'urbanisme.
+
+II. - Les travaux doivent être achevés dans un délai de trois ans à compter de la date d'acceptation de l'offre.
+
+III. - Pour l'application du troisième alinéa de l'article R. 317-2 du code de la construction et de l'habitation, le montant des travaux d'amélioration doit être au moins égal à 35 % du coût total de l'opération.
 
 Les logements acquis et améliorés doivent été construits depuis quinze ans au moins à la date de l'émission de l'offre de prêt.
 
