@@ -1,6 +1,6 @@
-# Article ANNEXE
+# Article Annexe
 
-PROGRAMME DES ÉPREUVES THÉORIQUES
+**PROGRAMME DES ÉPREUVES THÉORIQUES**
 
 I. - Connaissance de la faune sauvage et de ses habitats :
 
@@ -72,7 +72,7 @@ IV. - Emploi des armes et des munitions :
 
 - maniement des armes, règles de prudence, de sécurité, de politesse en action de chasse, lors de tout déplacement et lors du nettoyage et du rangement.
 
-PROGRAMME DES ÉPREUVES PRATIQUES
+**PROGRAMME DES ÉPREUVES PRATIQUES**
 
 I. - Evolution sur un parcours de chasse simulé avec tir à blanc notée sur huit points :
 
@@ -82,19 +82,19 @@ Tout comportement dangereux sur ce parcours est éliminatoire.
 
 II. - Epreuve de tir avec cartouche à grenaille sur plateaux d'argile notée sur huit points :
 
-Sept plateaux d'argile sont propulsés d'une fosse derrière laquelle le candidat est posté avec un fusil ;
+Sept plateaux d'argile sont propulsés d'une fosse derrière laquelle le candidat est posté avec un fusil :
 
-L'un d'entre ces plateaux est propulsé en direction d'une silhouette humaine pivotante se dressant face au candidat avant le tir.
+- l'un au moins d'entre ces plateaux est propulsé en direction d'une silhouette humaine pivotante se dressant face au candidat avant le tir ;
 
-Deux d'entre ces plateaux sont de couleur rouge et symbolisent des spécimens d'espèces d'oiseaux protégées dont la destruction est interdite ou d'espèces dont la chasse n'est pas autorisée ;
+- deux au moins d'entre ces plateaux sont de couleur rouge et symbolisent des spécimens d'espèces d'oiseaux protégées dont la destruction est interdite ou d'espèces dont la chasse n'est pas autorisée ;
 
-Le tir sur un de ces trois plateaux est éliminatoire ;
+- le tir sur l'un des plateaux propulsés en direction de la silhouette humaine ou de couleur rouge est éliminatoire ;
 
-Le candidat doit ensuite démonter son fusil pour un déplacement fictif en voiture ;
+- le candidat doit ensuite démonter son fusil pour un déplacement fictif en voiture ;
 
-Tout comportement dangereux au cours de cette épreuve est éliminatoire.
+- tout comportement dangereux au cours de cette épreuve est éliminatoire.
 
-III. - Epreuve de tir à l'arme rayée sur sanglier courant pour un tireur posté en battue notée sur quatre points :
+III. - Epreuve de tir à l'arme rayée sur sanglier courant pour un tireur posté en battue notée sur trois points :
 
 Le candidat effectue un exercice de manipulation de la carabine comportant un démontage et un montage de la culasse et un chargement-déchargement de l'arme ;
 
@@ -106,6 +106,6 @@ La transgression d'une règle de sécurité est éliminatoire ;
 
 Tout comportement dangereux au cours de cette épreuve est éliminatoire.
 
-IV. - Comportement général du candidat noté sur un point :
+IV. - Comportement général du candidat noté sur deux points :
 
 A l'issue de l'exercice sur le terrain, il est procédé à l'évaluation du comportement général du candidat lors de l'examen pratique.
