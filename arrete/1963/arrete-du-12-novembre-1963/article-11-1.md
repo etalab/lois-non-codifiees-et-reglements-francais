@@ -1,7 +1,11 @@
 # Article 11-1
 
-Pour les véhicules relevant des articles 10 ou 11 du présent arrêté et mis en circulation postérieurement au 1er octobre 1975 [*date*], l'opacité de la fumée, mesurée lors de contrôles routiers et conformément à la méthode de l'article 6 ci-dessus, ne devra pas dépasser la valeur limite déterminée au moment de la réception du véhicule et indiquée sur une plaque apposée à l'intérieur du compartiment moteur ; cette condition sera présumée satisfaite lorsque l'opacité de la fumée sera inférieure à :
+Pour les véhicules relevant de l'article 11 du présent arrêté et mis en circulation postérieurement au 1er janvier 1980, l'opacité de la fumée est mesurée lors de contrôles routiers, conformément à la méthode de contrôle définie dans la norme NF R 10-025-3, sous réserve des dérogations explicitement prévues par le ministre chargé de l'industrie.
 
-2,0 m-1 (ou 55 unités centésimales) s'il s'agit d'une voiture particulière ;
+Ce contrôle doit être réalisé à l'aide d'un opacimètre conforme à un modèle approuvé par le ministre chargé de l'industrie.
 
-2,5 m-1 (ou 65 unités centésimales) s'il s'agit d'un véhicule autre qu'une voiture particulière.
+La valeur mesurée ne doit pas dépasser la valeur limite déterminée au moment de la réception du véhicule et indiquée sur une plaque apposée à l'intérieur du compartiment moteur. Cette condition est présumée satisfaite lorsque l'opacité de la fumée n'excède pas :
+
+2,5 m-1 pour les véhicules équipés de moteur Diesel à aspiration naturelle ;
+
+3,0 m-1 pour les véhicules équipés de moteur Diesel turbocompressé.
