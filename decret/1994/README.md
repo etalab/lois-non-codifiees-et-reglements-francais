@@ -254,6 +254,8 @@
 - [Décret n°94-601 du 12 juillet 1994 (AGRG9400865D)](decret-n94-601-du-12-juillet-1994-agrg9400865d)
 - [Décret n°94-602 du 12 juillet 1994 (AGRS9400209D)](decret-n94-602-du-12-juillet-1994-agrs9400209d)
 - [Décret n°94-615 du 12 juillet 1994 (SPSX9400064D)](decret-n94-615-du-12-juillet-1994-spsx9400064d)
+- [Décret n°94-692 du 12 août 1994 (JUSB9410437D)](decret-n94-692-du-12-aout-1994-jusb9410437d)
+- [Décret n°94-693 du 12 août 1994 (AGRG9401024D)](decret-n94-693-du-12-aout-1994-agrg9401024d)
 - [Décret n°95-1105 du 12 octobre 1995 (AGRA9501669D)](decret-n95-1105-du-12-octobre-1995-agra9501669d)
 - [Décret n°78-768 du 13 juillet 1978](decret-n78-768-du-13-juillet-1978)
 - [Décret n°94-290 du 13 avril 1994 (TEFT9400249D)](decret-n94-290-du-13-avril-1994-teft9400249d)

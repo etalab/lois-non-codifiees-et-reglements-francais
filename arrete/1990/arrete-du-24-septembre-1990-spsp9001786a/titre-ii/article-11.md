@@ -1,3 +1,3 @@
 # Article 11
 
-Les élèves ayant obtenu une moyenne générale égale ou supérieure à 10 sur 20 à l'ensemble des six modules avec une ou plusieurs notes inférieures à 8 sur 20 passent une épreuve de rattrapage écrite anonyme ou orale et pratique portant sur l'ensemble du ou des modules concernés. Ils doivent alors obtenir une note égale ou supérieure à 10 sur 20 dans chaque module concerné pour être admis en deuxième cycle.
+Une épreuve de rattrapage est organisée pour les élèves ayant obtenu une note inférieure à 10/20 à un ou plusieurs modules. Elle porte sur l'ensemble du ou des modules concernés et comprend pour chacun d'entre eux au moins un contrôle écrit et anonyme. Les élèves doivent alors obtenir à l'épreuve de rattrapage une note égale ou supérieure à 10/20 dans le ou les modules considérés pour être admis en deuxième cycle.

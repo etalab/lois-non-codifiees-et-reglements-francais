@@ -1,0 +1,3 @@
+# Décret n°94-692 du 12 août 1994 modifiant le décret n° 91-692 du 18 juillet 1991 fixant le nombre des juges et le nombre des chambres des tribunaux de commerce, le nombre des assesseurs des chambres commerciales des tribunaux de grande instance du Bas-Rhin, du Haut-Rhin et de la Moselle et le nombre des juges élus des tribunaux mixtes de commerce des départements d'outre-mer, en ce qui concerne les tribunaux de commerce d'Agen, Villeneuve-sur-Lot, Grasse, Marseille, Salon-de-Provence, Chambéry, Mâcon, Villefranche-Tarare, Sète, Bobigny, Corbeil, Créteil, Paris, Pontoise, Versailles et le tribunal mixte de commerce de Pointe-à-Pitre
+
+- [Article 2](article-2.md)
