@@ -13,3 +13,5 @@ Elles ne font pas obstacle à l'exercice des activités énumérées à l'articl
 Sous réserve des dispositions de l'article L. 685 du code de la sécurité sociale, le schéma directeur départemental des structures agricoles, fixé après avis de la commission départementale des structures agricoles, détermine la superficie dont un agriculteur est autorisé à poursuivre l'exploitation ou la mise en valeur, sans que cela fasse obstacle au service des prestations d'assurance vieillesse liquidées par un régime obligatoire, dans la limite maximale du cinquième de la surface minimum d'installation.
 
 A titre transitoire, et jusqu'à l'intervention du schéma directeur départemental des structures agricoles déterminant la superficie mentionnée à l'alinéa précédent, cette superficie est fixée par voie réglementaire.
+
+Les dispositions des trois premiers alinéas ne sont pas opposables à l'assuré qui demande le bénéfice d'une pension au titre des articles L. 351-15, L. 634-3-1, L. 643-8-1 du code de la sécurité sociale ou 1121-2 du code rural.
