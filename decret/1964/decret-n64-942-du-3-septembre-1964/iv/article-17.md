@@ -4,7 +4,7 @@ Les agents du service intérieur de 2e catégorie comprennent notamment les conc
 
 Les agents du service intérieur de 2e catégorie sont recrutés :
 
-1) Parmi les bénéficiaires de la législation sur les emplois réservés figurant sur une liste de classement dressée par le ministre des anciens combattants et victimes de guerre au titre des emplois réservés de 5e catégorie.
+1) Parmi les bénéficiaires de la législation sur les emplois réservés figurant sur une liste de classement dressée par le ministre des anciens combattants et victimes de guerre au titre des emplois réservés de 4e catégorie.
 
 2) Sous réserve des dispositions de l'article L. 811 (2e alinéa) du code de la santé publique, par voie de concours sur titres ouvert :
 
