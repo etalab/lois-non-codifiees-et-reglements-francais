@@ -128,7 +128,6 @@
 - [Décret n°88-368 du 15 avril 1988 (ASEF8803198D)](decret-n88-368-du-15-avril-1988-asef8803198d)
 - [Décret n°88-45 du 15 janvier 1988 (ASEA8701666D)](decret-n88-45-du-15-janvier-1988-asea8701666d)
 - [Décret n°88-926 du 15 septembre 1988 (EQUU8800617D)](decret-n88-926-du-15-septembre-1988-equu8800617d)
-- [Décret n°88-152 du 16 février 1988 (ECOT8820056D)](decret-n88-152-du-16-fevrier-1988-ecot8820056d)
 - [Décret n°88-931 du 16 septembre 1988 (AGRS8801405D)](decret-n88-931-du-16-septembre-1988-agrs8801405d)
 - [Décret n°88-1044 du 17 novembre 1988 (DOME8800036D)](decret-n88-1044-du-17-novembre-1988-dome8800036d)
 - [Décret n°88-1045 du 17 novembre 1988 (DOME8800037D)](decret-n88-1045-du-17-novembre-1988-dome8800037d)

@@ -593,7 +593,6 @@
 - [Décret n°92-545 du 17 juin 1992 (SANP9201243D)](decret-n92-545-du-17-juin-1992-sanp9201243d)
 - [Décret n°92-548 du 17 juin 1992 (MAEJ9230025D)](decret-n92-548-du-17-juin-1992-maej9230025d)
 - [Décret n°92-549 du 17 juin 1992 (MAEJ9230026D)](decret-n92-549-du-17-juin-1992-maej9230026d)
-- [Décret n°92-55 du 17 janvier 1992 (MENF9102790D)](decret-n92-55-du-17-janvier-1992-menf9102790d)
 - [Décret n°92-550 du 17 juin 1992 (RESY9200202D)](decret-n92-550-du-17-juin-1992-resy9200202d)
 - [Décret n°92-56 du 17 janvier 1992 (MENF9102791D)](decret-n92-56-du-17-janvier-1992-menf9102791d)
 - [Décret n°92-57 du 17 janvier 1992 (MENL9103164D)](decret-n92-57-du-17-janvier-1992-menl9103164d)
