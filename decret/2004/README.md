@@ -225,6 +225,7 @@
 - [Décret n°2004-49 du 12 janvier 2004 (INDI0301930D)](decret-n2004-49-du-12-janvier-2004-indi0301930d)
 - [Décret n°2004-51 du 12 janvier 2004 (FPPD0320014D)](decret-n2004-51-du-12-janvier-2004-fppd0320014d)
 - [Décret n°2004-52 du 12 janvier 2004 (FPPD0320007D)](decret-n2004-52-du-12-janvier-2004-fppd0320007d)
+- [Décret n°2004-690 du 12 juillet 2004 (SOCU0410898D)](decret-n2004-690-du-12-juillet-2004-socu0410898d)
 - [Décret n°2004-407 du 12 mai 2004 (SANS0421387D)](decret-n2004-407-du-12-mai-2004-sans0421387d)
 - [Décret n°2004-422 du 12 mai 2004 (JUSB0410174D)](decret-n2004-422-du-12-mai-2004-jusb0410174d)
 - [Décret n°2004-423 du 12 mai 2004 (AGRA0400589D)](decret-n2004-423-du-12-mai-2004-agra0400589d)

@@ -1,5 +1,7 @@
 # Chapitre I : Du transport ferroviaire
 
+- [Section I : De l'organisation du service public du transport ferroviaire.](section-i)
+- [Section II : Du système ferroviaire transeuropéen](section-ii)
 - [Article 18](article-18.md)
 - [Article 19](article-19.md)
 - [Article 20](article-20.md)
