@@ -213,7 +213,6 @@
 - [Décret n°84-1029 du 23 novembre 1984](decret-n84-1029-du-23-novembre-1984)
 - [Décret n°84-1074 du 23 novembre 1984](decret-n84-1074-du-23-novembre-1984)
 - [Décret n°84-205 du 23 mars 1984](decret-n84-205-du-23-mars-1984)
-- [Décret n°84-208 du 23 mars 1984](decret-n84-208-du-23-mars-1984)
 - [Décret n°84-963 du 23 octobre 1984](decret-n84-963-du-23-octobre-1984)
 - [Décret n°84-393 du 23 mai 1984](decret-n84-393-du-23-mai-1984)
 - [Décret n°84-394 du 23 mai 1984](decret-n84-394-du-23-mai-1984)
