@@ -131,7 +131,6 @@
 - [Décret n°79-726 du 22 août 1979](decret-n79-726-du-22-aout-1979)
 - [Décret n°79-834 du 22 septembre 1979](decret-n79-834-du-22-septembre-1979)
 - [Décret n°79-1022 du 23 novembre 1979](decret-n79-1022-du-23-novembre-1979)
-- [Décret n°79-1051 du 23 novembre 1979](decret-n79-1051-du-23-novembre-1979)
 - [Décret n°79-345 du 23 avril 1979](decret-n79-345-du-23-avril-1979)
 - [Décret n°79-63 du 23 janvier 1979](decret-n79-63-du-23-janvier-1979)
 - [Décret n°79-636 du 23 juillet 1979](decret-n79-636-du-23-juillet-1979)
