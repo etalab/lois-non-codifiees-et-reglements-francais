@@ -9,6 +9,7 @@
 - [Décret n°65-200 du 11 mars 1965](decret-n65-200-du-11-mars-1965)
 - [Décret n°65-29 du 11 janvier 1965](decret-n65-29-du-11-janvier-1965)
 - [Décret n°65-140 du 12 février 1965](decret-n65-140-du-12-fevrier-1965)
+- [Décret n°65-306 du 12 avril 1965](decret-n65-306-du-12-avril-1965)
 - [Décret n°65-28 du 13 janvier 1965](decret-n65-28-du-13-janvier-1965)
 - [Décret n°65-45 du 13 janvier 1965](decret-n65-45-du-13-janvier-1965)
 - [Décret n°65-72 du 13 janvier 1965](decret-n65-72-du-13-janvier-1965)
