@@ -18,6 +18,7 @@
 - [Décret n°94-441 du 1 juin 1994 (DOMP9400011D)](decret-n94-441-du-1-juin-1994-domp9400011d)
 - [Décret n°94-467 du 1 juin 1994 (ECOT9451346D)](decret-n94-467-du-1-juin-1994-ecot9451346d)
 - [Décret n°94-468 du 1 juin 1994 (AGRE9400541D)](decret-n94-468-du-1-juin-1994-agre9400541d)
+- [Décret n°94-550 du 1 juillet 1994 (SPSP9401733D)](decret-n94-550-du-1-juillet-1994-spsp9401733d)
 - [Décret n°94-439 du 2 juin 1994 (TEFF9400417D)](decret-n94-439-du-2-juin-1994-teff9400417d)
 - [Décret n°94-453 du 2 juin 1994 (JUSA9400156D)](decret-n94-453-du-2-juin-1994-jusa9400156d)
 - [Décret n°94-94 du 2 février 1994 (EQUB9301951D)](decret-n94-94-du-2-fevrier-1994-equb9301951d)

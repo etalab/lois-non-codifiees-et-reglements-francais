@@ -391,6 +391,7 @@
 - [Arrêté du 18 mars 1994 (INTB9400152A)](arrete-du-18-mars-1994-intb9400152a)
 - [Arrêté du 18 mars 1994 (SANP9400939A)](arrete-du-18-mars-1994-sanp9400939a)
 - [Arrêté du 18 mai 1994 (AGRE9400968A)](arrete-du-18-mai-1994-agre9400968a)
+- [Arrêté du 18 mai 1994 (EQUS9400949A)](arrete-du-18-mai-1994-equs9400949a)
 - [Arrêté du 19 avril 1994 (EQUH9400778A)](arrete-du-19-avril-1994-equh9400778a)
 - [Arrêté du 19 avril 1994 (EQUS9400802A)](arrete-du-19-avril-1994-equs9400802a)
 - [Arrêté du 19 avril 1994 (SPSC9401292A)](arrete-du-19-avril-1994-spsc9401292a)

@@ -22,26 +22,26 @@ avec la mention "véhicule de collection"
 
 Sont concernés les véhicules automobiles ou remorqués de plus de vingt-cinq ans d'âge démunis de certificat d'immatriculation ou non couverts par une carte grise délivrée postérieurement au 1er avril 1950 et qui ne peuvent satisfaire aux prescriptions définies à l'article R. 106-1 du code de la route.
 
-Pour obtenir une carte grise "véhicule de collection" le propriétaire du véhicule doit fournir les pièces suivantes :
+Pour obtenir une carte grise " Véhicule de collection ", le propriétaire du véhicule doit fournir les pièces suivantes :
 
-a) Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives de son identité et de son domicile (voir annexe VI) ;
+a) Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives de son identité et de son domicile (voir annexe VI de l'arrêté du 5 novembre 1984) ;
 
 b) Le certificat d'immatriculation ou, à défaut, une pièce prouvant l'origine de propriété du véhicule ;
 
-c) En cas de changement de propriétaire, le certificat de cession ;
+c) La preuve d'une visite technique favorable de moins de six mois pour les voitures particulières ainsi que les véhicules de transport de marchandises ou assimilés dont le poids total autorisé en charge n'excède pas 3,5 tonnes ;
 
-d) Un certificat 846 A délivré par les douanes s'il s'agit d'un véhicule importé ;
+d) En cas de changement de propriétaire :
 
-e) Pour les véhicules démunis de carte grise, une attestation établie :
+- le certificat de cession ;
 
-- soit par le constructeur ou son représentant en France (dûment accrédité pour les véhicules fabriqués hors C.E.E.) ;
+- une attestation d'inscription ou de non-inscription de gage de moins d'un mois et un certificat de non-opposition au transfert du certificat d'immatriculation de moins de deux mois établis par la préfecture qui a délivré la précédente carte grise (sauf pour les véhicules démunis de carte grise) ;
 
-- soit par la Fédération française des véhicules d'époque,
+e) Un certificat 846 A délivré par les douanes s'il s'agit d'un véhicule provenant d'un Etat tiers à l'Union européenne ; un justificatif fiscal délivré par la recette des impôts s'il s'agit d'un véhicule provenant d'un Etat membre de l'Union européenne. Cette pièce n'est pas à produire pour les véhicules visés au titre III du code de la route et pour les remorques et semi-remorques ;
 
-ayant pour but de certifier que le véhicule concerné a plus de vingt-cinq ans d'âge. Elle doit indiquer la marque, le type, le numéro d'identification du véhicule et si possible les autres caractéristiques nécessaires à l'établissement de la carte grise (genre, carrosserie, puissance, énergie, places assises, poids, etc.).
+f) Pour les véhicules démunis de carte grise, une attestation établie :
 
 Cette attestation dont le modèle est définie en annexe IX bis du présent arrêté est délivrée au propriétaire du véhicule au vu des pièces visées aux alinéas b, c et, le cas échéant, d ci-dessus.
 
 Peuvent également obtenir la mention "véhicule de collection", les véhicules dont la date de première mise en circulation figurant sur les cartes grises délivrées postérieurement au 1er avril 1950 fait apparaître qu'ils ont plus de vingt-cinq ans d'âge.
 
-Un véhicule couvert par une carte grise " véhicule de collection " ne peut être réimmatriculé en carte grise normale que s'il a satisfait, lors d'une réception à titre isolé, aux prescriptions techniques visées à l'article R. 106-1 du code de la route.
+Un véhicule couvert par une carte grise "véhicule de collection" ne peut être réimmatriculé en carte grise normale que s'il a satisfait, lors d'une réception à titre isolé, aux prescriptions techniques visées à l'article R. 106-1 du code de la route.

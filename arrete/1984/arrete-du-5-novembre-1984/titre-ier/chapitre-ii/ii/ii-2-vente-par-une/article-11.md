@@ -8,7 +8,9 @@ En vue de l'enregistrement d'une déclaration d'achat, le professionnel doit adr
 
 2. Un certificat de vente ;
 
-3. Si la mutation n'a pas lieu dans le même département, une attestation d'inscription ou de non-inscription de gage établie depuis moins d'un mois par la préfecture qui a délivré la précédente carte grise.
+" 3. Une attestation d'inscription ou de non-inscription de gage établie depuis moins d'un mois par la préfecture qui a délivré la précédente carte grise. "
+
+" 4. Un certificat de non-opposition au transfert du certificat d'immatriculation établi depuis moins de deux mois par la préfecture qui a délivré la précédente carte grise. "
 
 Le volet A de cette déclaration d'achat après visa de la préfecture est remis au négociant avec la carte grise du véhicule. Il constitue le récépissé de cette déclaration.
 

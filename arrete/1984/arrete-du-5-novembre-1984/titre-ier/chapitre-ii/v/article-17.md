@@ -6,9 +6,7 @@ A. - Lorsque le changement a lieu à l'intérieur du département :
 
 1. Une déclaration établie sur l'imprimé de " demande de certificat d'immatriculation " ;
 
-2. Les pièces justificatives de son identité et de son nouveau domicile (voir annexe VI) ;
-
-3. La carte grise.
+2. [*supprimées*]    3. La carte grise.
 
 Dans le présent cas, la déclaration précitée peut être reçue soit par la préfecture, soit par la sous-préfecture, soit par un commissariat de police, une brigade de gendarmerie ou la mairie selon les départements.
 
