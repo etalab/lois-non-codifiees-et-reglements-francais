@@ -525,6 +525,7 @@
 - [Arrêté du 19 septembre 1997 (AGRS9701959A)](arrete-du-19-septembre-1997-agrs9701959a)
 - [Arrêté du 19 septembre 1997 (MESS9722917A)](arrete-du-19-septembre-1997-mess9722917a)
 - [Arrêté du 19 septembre 1997 (MESS9722918A)](arrete-du-19-septembre-1997-mess9722918a)
+- [Arrêté du 19 septembre 1997 (MESS9722925A)](arrete-du-19-septembre-1997-mess9722925a)
 - [Arrêté du 20 août 1997 (MENL9702010A)](arrete-du-20-aout-1997-menl9702010a)
 - [Arrêté du 20 décembre 1996 (EQUT9601723A)](arrete-du-20-decembre-1996-equt9601723a)
 - [Arrêté du 20 décembre 1996 (INDB9700020A)](arrete-du-20-decembre-1996-indb9700020a)
