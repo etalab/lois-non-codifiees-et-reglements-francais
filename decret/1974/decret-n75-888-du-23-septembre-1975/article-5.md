@@ -1,0 +1,5 @@
+# Article 5
+
+Peuvent être inscrits au tableau d'avancement pour l'accès au grade de contremaître principal, les contremaîtres comptant au moins trois ans de services effectifs en cette qualité ou en qualité de maître ouvrier.
+
+Les contremaîtres promus contremaîtres principaux sont classés à l'échelon de ce grade qui comporte un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur précédent grade. Ils conservent, dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon supérieur, l'ancienneté qu'ils avaient acquise dans leur ancien échelon lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancien grade. Les agents promus alors qu'ils avaient atteint l'échelon le plus élevé de leur précédent grade conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulte de leur avancement audit échelon.
