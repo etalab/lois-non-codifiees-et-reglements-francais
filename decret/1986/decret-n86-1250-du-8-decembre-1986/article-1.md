@@ -2,7 +2,7 @@
 
 L'administration centrale du ministère de l'industrie, des P. et T. et du tourisme comprend, au titre de l'industrie et du tourisme :
 
-1° Le conseil général des mines, l'inspection générale de l'industrie et du commerce, l'inspection générale du tourisme et le haut fonctionnaire de défense ;
+1° Le conseil général des mines, l'inspection générale de l'industrie et du commerce et le haut fonctionnaire de défense ;
 
 2° La direction générale de l'industrie qui comprend, outre la délégation à la petite et moyenne industrie et le service chargé de la propriété industrielle :
 
@@ -42,7 +42,7 @@ d) Le service des énergies renouvelables et de l'utilisation rationnelle de l'�
 
 5° La délégation à l'information et à la communication ;
 
-6° La direction de l'industrie touristique et les services d'étude et d'aménagement touristique chargés de l'espace rural, du littoral et de la montagne ;
+6°[*Abrogé*]
 
 7° Le bureau du cabinet, service directement rattaché au cabinet.
 
