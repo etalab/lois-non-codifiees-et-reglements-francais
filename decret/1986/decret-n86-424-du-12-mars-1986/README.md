@@ -3,4 +3,3 @@
 - [Article 1](article-1.md)
 - [Section 2 : Modalités de répartition de la seconde part](section-2)
 - [Section III : Modalités de répartition de la troisième part.](section-iii)
-- [Section IV : Dispositions diverses](section-iv)
