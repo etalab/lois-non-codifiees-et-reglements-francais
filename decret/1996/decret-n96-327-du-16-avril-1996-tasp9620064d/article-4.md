@@ -1,0 +1,11 @@
+# Article 4
+
+Par dérogation aux dispositions du premier alinéa de l'article R. 673-10-8, et jusqu'au terme de la période transitoire prévue au deuxième alinéa de l'article 19 de la loi du 29 juillet 1994 susvisée, les établissements de santé et organismes qui se livrent à des activités d'importation et d'exportation de tissus et de cellules à des fins thérapeutiques à la date de publication du présent décret peuvent poursuivre ces activités dans les conditions prévues ci-après.
+
+Le maintien de cette faculté est subordonné à l'envoi au ministre chargé de la santé d'une déclaration dans le mois suivant la publication de l'arrêté ministériel fixant le modèle de cette déclaration. Au vu de la déclaration, le ministre délivre un récépissé. A l'issue du délai d'un mois prévu ci-dessus, le ministre chargé de la santé établit la liste des établissements et organismes autorisés à poursuivre leurs activités d'importation et d'exportation de tissus et de cellules. Cette liste est publiée au Journal officiel.
+
+Si, avant l'expiration de la période transitoire prévue au deuxième alinéa de l'article 19 de la loi du 29 juillet 1994 susvisée, l'établissement de santé ou l'organisme concerné a demandé l'autorisation mentionnée à l'article L. 672-10 du code de la santé publique, il peut poursuivre encore ses activités d'importation et d'exportation de tissus et cellules du corps humain à des fins thérapeutiques jusqu'à l'intervention de la décision de l'autorité administrative sur cette demande.
+
+Lorsque, après avoir obtenu l'autorisation de l'article L. 672-10 du code de la santé publique, l'établissement de santé ou l'organisme concerné dépose la demande d'autorisation prévue au premier alinéa de l'article R. 673-10-8 du même code, le dépôt de cette demande vaut autorisation d'importation et d'exportation de tissus et cellules du corps humain à des fins thérapeutiques jusqu'à l'intervention de la décision de l'autorité administrative sur cette demande.
+
+Le ministre chargé de la santé peut toutefois, à tout moment au cours des différentes périodes transitoires prévues ci-dessus, suspendre la poursuite de tout ou partie des activités d'importation et d'exportation de tissus et cellules du corps humain dans les conditions prévues au troisième alinéa de l'article R. 673-10-2.

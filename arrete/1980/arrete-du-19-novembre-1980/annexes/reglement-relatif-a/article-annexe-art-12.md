@@ -27,3 +27,15 @@ Getuigschrift van erkenning en inschrijving als orthodontist in het Specialisten
 Royaume-Uni
 
 Certificate of completion of specialist training in orthodontics (certificat d'achèvement de la formation spécialisée en orthodontie), délivré par l'autorité compétente reconnue à cet effet.
+
+Finlande :
+
+Todistus erikoishammaslääkärin oikeudesta oikomishoidon alalla/bevis om specialist-tandläkarrättgheten inom omradet tandreglering (certificat d'orthodontiste), délivré par les autorités compétentes ;
+
+Norvège :
+
+Bevis for gjennomgatt spesialistutdanning i kjeveortopedi (certificat de spécialiste en orthodontie), délivré par la faculté de science dentaire d'une université ;
+
+Suède :
+
+Bevis om specialistkompetens i tandreglering (certificat conférant le droit d'utiliser le titre de praticien de l'art dentaire spécialisé en orthodontie), délivré par le conseil national de la santé et du bien-être.

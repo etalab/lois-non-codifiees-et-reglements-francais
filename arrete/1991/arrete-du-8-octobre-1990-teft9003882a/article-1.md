@@ -44,6 +44,6 @@ Il ne peut être fait appel aux salariés sous contrat de travail à durée dét
 
 - polymérisation du chlorure de vinyle ;
 
-- travaux de déflocage et de démolition exposant aux poussières d'amiante ;
+- activités de fabrication ou de transformation de matériaux contenant de l'amiante, opérations d'entretien ou de maintenance sur des flocages ou calorifugeages contenant de l'amiante, activités de confinement, de retrait de l'amiante ou de démolition exposant aux poussières d'amiante ;
 
 - fabrication de l'auramine et du magenta.

@@ -153,6 +153,8 @@
 - [Décret n°96-203 du 16 février 1996 (TASS9620537D)](decret-n96-203-du-16-fevrier-1996-tass9620537d)
 - [Décret n°96-31 du 16 janvier 1996 (EQUT9501808D)](decret-n96-31-du-16-janvier-1996-equt9501808d)
 - [Décret n°96-324 du 16 avril 1996 (PRMX9600007D)](decret-n96-324-du-16-avril-1996-prmx9600007d)
+- [Décret n°96-326 du 16 avril 1996 (JUSD9630039D)](decret-n96-326-du-16-avril-1996-jusd9630039d)
+- [Décret n°96-327 du 16 avril 1996 (TASP9620064D)](decret-n96-327-du-16-avril-1996-tasp9620064d)
 - [Décret n°96-37 du 16 janvier 1996 (COMA9500056D)](decret-n96-37-du-16-janvier-1996-coma9500056d)
 - [Décret n°96-38 du 16 janvier 1996 (DEFP9601007D)](decret-n96-38-du-16-janvier-1996-defp9601007d)
 - [Décret n°96-40 du 17 janvier 1996 (DEFF9502263D)](decret-n96-40-du-17-janvier-1996-deff9502263d)
