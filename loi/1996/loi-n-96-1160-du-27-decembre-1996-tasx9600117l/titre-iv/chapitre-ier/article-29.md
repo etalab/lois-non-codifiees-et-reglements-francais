@@ -1,9 +1,13 @@
 # Article 29
 
-Les boissons obtenues par mélange préalable entre les boissons visées au 5° de l'article L. 1 du code des débits de boissons et des mesures contre l'alcoolisme et des boissons sans alcool font l'objet d'une taxe perçue au profit de la Caisse nationale de l'assurance maladie des travailleurs salariés.
+I. - Les boissons constituées par un mélange préalable de boissons ayant un titre alcoométrique n'excédant pas 1,2 % vol. et de boissons alcooliques passibles d'un droit mentionné aux articles 402 bis, 403, 438, 520 A (a du I) du code général des impôts, lorsqu'elles sont conditionnées pour la vente au détail en récipients de moins de 60 centilitres, font l'objet d'une taxe perçue au profit de la Caisse nationale de l'assurance maladie des travailleurs salariés dès lors que le mélange ainsi obtenu titre plus de 1,2 % vol.
 
-Le montant de la taxe est fixé à 1,50 F par décilitre.
+Les boissons alcooliques passibles d'un des droits mentionnés à l'alinéa ci-dessus, lorsqu'elles sont additionnées exclusivement d'eau, ne sont pas soumises à la taxe.
 
-La taxe est due par les fabricants sur le territoire national, à défaut par les importateurs ou ceux qui réalisent l'acquisition intracommunautaire de ces boissons.
+II. - Le tarif de la taxe mentionnée au I est fixé à 36,4 F par décilitre d'alcool pur.
 
-La taxe est recouvrée et contrôlée comme le droit de consommation visé à l'article 403 du code général des impôts.
+III. - La taxe est due lors de la mise à la consommation en France des boissons résultant d'un mélange mentionnées au I. Elle est acquittée, selon le cas, par les fabricants, les marchands en gros, les importateurs, les personnes qui réalisent l'acquisition intracommunautaire de ces boissons ou par les personnes visées au b du II de l'article 302 D du code général des impôts.
+
+IV. - Cette taxe est recouvrée et contrôlée sous les mêmes règles, conditions, garanties et sanctions qu'en matière de contributions indirectes.
+
+V. - Le produit de cette taxe est versé à l'Agence centrale des organismes de sécurité sociale.
