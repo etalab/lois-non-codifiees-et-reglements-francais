@@ -1,6 +1,8 @@
 # Titre VI : Dispositions transitoires et diverses. – Délais d’application
 
 - [Article 48](article-48.md)
+- [Article 48-1](article-48-1.md)
+- [Article 48-2](article-48-2.md)
 - [Article 49](article-49.md)
 - [Article 50](article-50.md)
 - [Article 51](article-51.md)
@@ -8,3 +10,6 @@
 - [Article 53](article-53.md)
 - [Article 54](article-54.md)
 - [Article 55](article-55.md)
+- [Article Annexe I](article-annexe-i.md)
+- [Article Annexe II](article-annexe-ii.md)
+- [Article Note a](article-note-a.md)

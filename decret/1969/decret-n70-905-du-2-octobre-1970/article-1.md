@@ -1,0 +1,3 @@
+# Article 1
+
+Les pilotes et les mécaniciens qui naviguent à bord des hélicoptères et des avions de surveillance des groupes aériens de la direction générale des douanes et droits indirects peuvent bénéficier d'une indemnité pour risques professionnels. Le bénéfice de cette indemnité n'est accordé qu'aux agents ayant accompli un minimum d'heures de vol par an et ayant satisfait aux épreuves de contrôle de l'entraînement aérien. La détermination du nombre minimum d'heures de vol, des épreuves de contrôle, des taux de l'indemnité et de la qualification des personnels bénéficiaires sont fixés par arrêté du ministre de l'économie et des finances et du ministre chargé de la fonction publique.
