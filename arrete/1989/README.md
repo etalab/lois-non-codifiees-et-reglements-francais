@@ -247,6 +247,7 @@
 - [Arrêté du 16 mars 1989 (SPSH8900535A)](arrete-du-16-mars-1989-spsh8900535a)
 - [Arrêté du 16 mars 1989 (SPSH8900539A)](arrete-du-16-mars-1989-spsh8900539a)
 - [Arrêté du 16 mai 1989 (PTTP8900438A)](arrete-du-16-mai-1989-pttp8900438a)
+- [Arrêté du 17 août 1989 (PTTT8900805A)](arrete-du-17-aout-1989-pttt8900805a)
 - [Arrêté du 17 avril 1989 (DEFD8901364A)](arrete-du-17-avril-1989-defd8901364a)
 - [Arrêté du 17 avril 1989 (MENU8900393A)](arrete-du-17-avril-1989-menu8900393a)
 - [Arrêté du 17 avril 1989 (MENU8900394A)](arrete-du-17-avril-1989-menu8900394a)
