@@ -1,3 +1,3 @@
-# Arrêté du 8 novembre 1985 relatif aux prix de vente au stade de détail de certains fruits et légumes frais
+# Arrêté du 8 novembre 1985 relatif au prix des pailles de céréales et des foins autres que ceux soumis à l'organisation commune des marchés
 
 - [Annexes](annexes)
