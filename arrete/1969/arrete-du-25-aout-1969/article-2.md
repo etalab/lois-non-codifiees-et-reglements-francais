@@ -23,3 +23,9 @@ Brevet de technicien agricole et brevet de technicien agricole féminin délivr�
 Diplôme d'Etat de sage-femme.
 
 Diplôme d'Etat d'infirmière.
+
+Diplôme d'Etat d'assistant ou d'assistante du service social.
+
+Diplôme d'Etat de masseur-kinésithérapeute.
+
+Certificat de capacité d'aide-orthoptiste.

@@ -24,6 +24,8 @@ Diplôme universitaire d'études littéraires.
 
 Diplôme universitaire d'études scientifiques.
 
+Brevet de fin de premier cycle obtenu avec mention à l'institut international d'administration publique.
+
 Diplôme universitaire de technologie :
 
 Informatique.
