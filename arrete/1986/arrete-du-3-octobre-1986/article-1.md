@@ -1,3 +1,3 @@
 # Article 1
 
-L'arrêté du 16 juin 1986 relatif à la révision des pensions des agents retraités des chemins de fer secondaires d'intérêt général, des chemins de fer d'intérêt local et des tramways est abrogé à compter du 1er octobre 1986.
+Les analyses des eaux nécessaires à la détermination de leur qualité, à l'établissement des redevances de pollution et des primes pour épuration, à l'exercice de la police des eaux et de la pêche, au contrôle des installations classées, à la mesure de la biodégradabilité de certains produits détergents sont, lorsque les textes en vigueur prévoient un tel agrément, effectuées par des laboratoires agréés dans les conditions ci-après. Le présent arrêté ne vise pas les analyses effectuées en application du code de la santé publique, notamment du livre Ier (Protection générale de la santé publique) et du livre VII (Hôpitaux et hospices publics, thermo-climatisme, laboratoires).

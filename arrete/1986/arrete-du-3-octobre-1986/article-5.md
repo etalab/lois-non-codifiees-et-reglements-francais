@@ -1,0 +1,5 @@
+# Article 5
+
+L'agrément est accordé ou refusé par le ministre de l'environnement sur proposition d'une commission qui statue au vu du dossier de demande d'agrément ou en fonction des résultats obtenus pour les analyses circulaires [*autorité compétente*].    La commission [*composition*] est constituée de cinq représentants du ministère de l'environnement et d'un représentant de chacun des ministères de l'intérieur, de l'agriculture, de l'industrie, des affaires sociales et de l'emploi et du secrétariat d'Etat à la mer, ainsi qu'un représentant des agences financières de bassin et quatre représentants des laboratoires agréés. Les fonctionnaires chargés du contrôle des moyens des laboratoires font partie de la commission. Un représentant du ministère de l'environnement assure la présidence de la commission.
+
+En ce qui concerne les eaux de la mer, à compter du 1er janvier 1987 [*date*] , ne pourront être agréés que les laboratoires ayant satisfait aux dispositions des articles 3 et 4. A titre provisoire, les laboratoires pourront être agréés en application de l'article 3 seulement.

@@ -1,3 +1,7 @@
 # Article 4
 
-Le directeur de la sécurité sociale, le directeur du budget, le directeur de la comptabilité publique et le directeur des transports terrestres sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les analyses circulaires font partie de la procédure d'obtention d'un agrément. Leur nombre est en principe fixé à deux. Elles se déroulent sur une période de deux ans qui suit l'année au cours de laquelle la demande d'agrément a été déposée. Les déterminations à effectuer par les laboratoires concernent des paramètres du type d'agrément sollicité. L'agrément est accordé pour une durée de deux ans qui suit les années au cours desquelles les analyses circulaires ont été réalisées.
+
+Les laboratoires qui n'ont pas été agréés à la suite de ces analyses circulaires pourront, s'ils en font la demande, participer à l'analyse circulaire qui suit le dépôt de cette demande et pourront obtenir un agrément provisoire pour l'année suivante.
+
+Les laboratoires qui déposent une demande d'agrément pour la première fois, pourront participer à l'analyse circulaire qui suit le dépôt de cette demande et pourront obtenir un agrément provisoire pour l'année suivante.
