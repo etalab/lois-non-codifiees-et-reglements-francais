@@ -1,3 +1,3 @@
 # Article 2
 
-L'engagement est réputé exécuté au prorata des heures de travail accomplies durant ces cinq années. Il est tenu compte des congés légaux ainsi que des interruptions pour cas de force majeure.
+Le directeur de la sécurité sociale au ministère de la santé publique et de la sécurité sociale, le directeur du budget et le directeur de la comptabilité publique au ministère de l'économie et des finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
