@@ -12,7 +12,7 @@ b) Les détachements prononcés au titre de l'article 14 (4°, b, 5° et 14°).
 
 3° Sont prononcés par arrêté du seul ministre dont ils relèvent dans leur corps d'origine, après accord du ou, le cas échéant, des ministres intéressés :
 
-a) Le renouvellement du détachement lorsque ses conditions demeurent identiques, à l'exception du détachement prononcé pour servir auprès d'un organisme international ;
+a) Le renouvellement du détachement lorsque ses conditions demeurent identiques ;
 
 b) Le détachement, pour servir dans un territoire d'outre-mer, des fonctionnaires appartenant à un corps relevant d'un département ministériel différent de celui dont dépend le corps ou l'emploi dans lequel le détachement est prononcé ;
 
