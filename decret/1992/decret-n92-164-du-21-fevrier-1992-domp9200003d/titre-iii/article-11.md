@@ -1,3 +1,3 @@
 # Article 11
 
-Le décret du 23 février 1981 modifié susvisé est applicable à Mayotte.
+L'article 4 du décret n°98-81 du 11 février 1998 modifié susvisé est applicable Mayotte.

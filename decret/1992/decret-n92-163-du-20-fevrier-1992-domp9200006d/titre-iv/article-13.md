@@ -1,3 +1,3 @@
 # Article 13
 
-Le décret n° 81-174 du 23 février 1981 modifié susvisé est applicable en Nouvelle-Calédonie.
+L'article 4 du décret n° 98-81 du 11 février 1998 modifié susvisé est applicable en Nouvelle-Calédonie.
