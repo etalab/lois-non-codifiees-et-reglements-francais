@@ -1,3 +1,3 @@
 # Article 2
 
-Le chef du service de l'industrie et des mines d'Ile-de-France délivre [*autorité compétente*] le certificat, attestant la conformité d'un type de motocycle aux prescriptions harmonisées, prévu par la directive du conseil des communautés européennes 78/1015 C.E.E. du 23 novembre 1978 concernant le rapprochement des législations des Etats membres relatives au niveau sonore admissible et au dispositif d'échappement des motocycles.
+Le directeur régional de l'industrie et de la recherche de la région d'Ile-de-France délivre le certificat, attestant la conformité d'un type de motocycle aux prescriptions de la directive du Conseil des communautés européennes n° 78-1015 C.E.E. du 23 novembre 1978 modifiée conformément aux directives l'adaptant pour tenir compte du progrès technique.

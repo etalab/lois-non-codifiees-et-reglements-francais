@@ -1,0 +1,17 @@
+# Article 6
+
+Sont soumis au visa préalable du contrôleur financier, accompagnés de toutes pièces justificatives et notes explicatives [*documents joints*] :
+
+- les actes, arrêtés ou décisions portant recrutement et promotion du personnel, ainsi que ceux fixant leur rémunération et portant attribution de primes, indemnités diverses ou secours ;
+
+- les ordres de mission à l'étranger ;
+
+- les déplacements par voie aérienne ou véhicule personnel en métropole ;
+
+- les baux, avenants et renouvellement de baux ;
+
+- les marchés, conventions, contrats, commandes, travaux et fournitures lorsque leur montant sera supérieur à une somme fixée par le contrôleur financier ;
+
+- les décisions portant attribution de subventions ou aides diverses ;
+
+- les opérations en capital ainsi que les mandats de paiement correspondants.

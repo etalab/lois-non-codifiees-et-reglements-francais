@@ -3,6 +3,8 @@
 - [Décret n°88-112 du 1 février 1988 (MAEJ8830000D)](decret-n88-112-du-1-fevrier-1988-maej8830000d)
 - [Décret n°88-114 du 1 février 1988 (MENF8700765D)](decret-n88-114-du-1-fevrier-1988-menf8700765d)
 - [Décret n°88-115 du 1 février 1988 (MENF8700761D)](decret-n88-115-du-1-fevrier-1988-menf8700761d)
+- [Décret n°88-117 du 1 février 1988 (MAEJ8830003D)](decret-n88-117-du-1-fevrier-1988-maej8830003d)
+- [Décret n°88-118 du 1 février 1988 (MAEJ8830002D)](decret-n88-118-du-1-fevrier-1988-maej8830002d)
 - [Décret n°88-490 du 2 mai 1988 (DEFP8801265D)](decret-n88-490-du-2-mai-1988-defp8801265d)
 - [Décret n°75-142 du 3 mars 1975](decret-n75-142-du-3-mars-1975)
 - [Décret n°88-113 du 3 février 1988 (TRST8700286D)](decret-n88-113-du-3-fevrier-1988-trst8700286d)
