@@ -50,7 +50,6 @@
 - [Arrêté du 15 mars 1993 (ENEH9300262A)](arrete-du-15-mars-1993-eneh9300262a)
 - [Arrêté du 15 mars 2000 (ECOI0000147A)](arrete-du-15-mars-2000-ecoi0000147a)
 - [Arrêté du 15 novembre 2000 (DEFC0002242A)](arrete-du-15-novembre-2000-defc0002242a)
-- [Arrêté du 15 novembre 2000 (ECOL0000156A)](arrete-du-15-novembre-2000-ecol0000156a)
 - [Arrêté du 17 juillet 2000 (AGRE0001458A)](arrete-du-17-juillet-2000-agre0001458a)
 - [Arrêté du 17 novembre 2000 (DEFP0002250A)](arrete-du-17-novembre-2000-defp0002250a)
 - [Arrêté du 17 novembre 2000 (DEFP0002281A)](arrete-du-17-novembre-2000-defp0002281a)
