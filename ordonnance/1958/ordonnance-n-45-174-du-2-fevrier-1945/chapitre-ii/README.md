@@ -1,5 +1,6 @@
 # Chapitre II : Procédure.
 
+- [Article 7](article-7.md)
 - [Article 7-1](article-7-1.md)
 - [Article 9](article-9.md)
 - [Article 11](article-11.md)
