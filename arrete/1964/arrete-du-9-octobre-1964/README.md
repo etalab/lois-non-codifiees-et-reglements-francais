@@ -4,6 +4,7 @@
 - [Article 2](article-2.md)
 - [II : Direction des affaires civiles et du sceau.](ii)
 - [III : Direction des affaires criminelles et des grâces.](iii)
+- [Article 27](article-27.md)
 - [Article 32](article-32.md)
 - [Article 33](article-33.md)
 - [Article 34](article-34.md)
