@@ -1,0 +1,3 @@
+# Article 9
+
+Dès leur nomination, les membres du comité stratégique du programme national hépatites virales C et B et les personnes qualifiées extérieures participant aux travaux font parvenir au directeur général de la santé une déclaration mentionnant les liens directs ou indirects qu'ils peuvent avoir avec des entreprises commerciales et industrielles impliquées dans les processus de fabrication ou de commercialisation des produits de santé pouvant être utilisés dans la lutte contre les hépatites virales C et B. A défaut de cette déclaration, le directeur général de la santé procède à leur remplacement.

@@ -4,9 +4,7 @@
 
 Chaque jury d'examen est composé de personnes compétentes dans les matières prévues au programme ; la liste de ces personnes est arrêtée par le préfet de la région siège d'un jury d'examen, compte tenu des propositions des commissions consultatives régionales pour la délivrance des attestations de capacité professionnelle relatives à l'exercice de certaines professions liées au transport public routier.
 
-2. Le calendrier annuel des examens est établi par le directeur des transports terrestres ; il prévoit au moins une session par an.
-
-Les sessions sont organisées simultanément par les différents jurys d'examen. Les sujets de chaque session sont arrêtés par le directeur des transports terrestres.
+2. L'examen est annuel. La date en est fixée par le directeur des transports terrestres. Il se déroule simultanément dans les différents centres d'examen. Les sujets sont arrêtés par le directeur des transports terrestres.
 
 3. Les dossiers d'inscription à l'examen d'attestation de capacité sont retirés auprès du préfet de la région siège d'un jury d'examen dans le ressort territorial duquel le candidat est domicilié.
 

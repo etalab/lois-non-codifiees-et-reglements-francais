@@ -6,4 +6,4 @@ La liste des sièges de jury d'examen et des départements de leur ressort terri
 
 Les préfets des régions sièges d'un jury d'examen établissent la liste des centres d'examen de leur ressort territorial.
 
-Nota. Les annexes I et II du présent arrêté feront l'objet d'une parution au Bulletin officiel du ministère de l'équipement n° 94-02, disponible à la Direction des Journaux officiels, 26, rue Desaix, 75727 PARIS CEDEX 15, vendu au prix de 18,50 F.
+L'attestation de capacité professionnelle est établie conformément au modèle figurant à l'annexe III du présent arrêté (1).

@@ -146,7 +146,7 @@ Les missions et la composition de cette commission sont fixées conjointement av
 
 7. La commission des études juridiques
 
-Celle-ci a pour mission de répondre aux demandes d'avis juridiques émanant des ministres intéressés, des directeurs d'administration centrale et des directeurs d'établissements publics dans les matières de la compétence du conseil général et de poursuivre les travaux de codification, notamment du code rural et du code forestier.
+Celle-ci a pour mission de contribuer aux travaux du conseil général qui nécessitent un approfondissement juridique.
 
 Cette commission est composée de la manière suivante :
 
@@ -156,15 +156,9 @@ Membres permanents :
 
 - le président de la première section, vice-président ;
 
-- le directeur général de l'administration ou son représentant ;
-
 - un rapporteur général désigné parmi les ingénieurs généraux du GREF membres de la première section ;
 
 - un ingénieur général du GREF membre de la première section ;
-
-- le chef du service des affaires juridiques du ministère de l'agriculture ou son représentant ;
-
-- un membre désigné par le ministre chargé de l'agriculture en raison de ses compétences juridiques.
 
 Membres spécialisés :
 
@@ -172,21 +166,9 @@ Membres spécialisés :
 
 - des fonctionnaires de catégorie A, ou assimilés, en service dans les administrations centrales ou dans les établissements publics nationaux, proposés par leurs directeurs pour les représenter en qualité de rapporteurs adjoints dans les travaux de la commission qui les concernent.
 
-Le chef du service des affaires juridiques du ministère de l'agriculture ou son représentant est invité aux réunions de cette commission.
+Le chef du service des affaires juridiques du ministère de l'agriculture ou son représentant peut être invité aux réunions de cette commission.
 
 Cette commission peut entendre toute personne susceptible de lui fournir les informations dont elle a besoin.
-
-La commission contribue, avec le concours des directions, services et établissements publics concernés, à :
-
-- la programmation des travaux de codification ;
-
-- l'élaboration des projets de codification et leur présentation à la commission supérieure ;
-
-- la représentation du ministère de l'agriculture dans les discussions avec les autres départements ministériels et lors de l'examen des décrets de codification par le Conseil d'Etat ;
-
-- la rédaction des avis juridiques sur les projets de textes qui sont soumis à son examen.
-
-La commission dispose d'un secrétariat organisé avec l'appui de la direction générale de l'administration.
 
 8. La mission d'appui technique
 
