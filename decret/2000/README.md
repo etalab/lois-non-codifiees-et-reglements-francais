@@ -50,6 +50,7 @@
 - [Décret n°2000-495 du 2 juin 2000 (MESS0020946D)](decret-n2000-495-du-2-juin-2000-mess0020946d)
 - [Décret n°2000-496 du 2 juin 2000 (MESS0020947D)](decret-n2000-496-du-2-juin-2000-mess0020947d)
 - [Décret n°2000-978 du 2 octobre 2000 (FPPA0000096D)](decret-n2000-978-du-2-octobre-2000-fppa0000096d)
+- [Décret n°2000-983 du 2 octobre 2000 (DEFP0002028D)](decret-n2000-983-du-2-octobre-2000-defp0002028d)
 - [Décret n°2000-613 du 3 juillet 2000 (EQUU0000780D)](decret-n2000-613-du-3-juillet-2000-equu0000780d)
 - [Décret n°2000-648 du 3 juillet 2000 (MESP0021531D)](decret-n2000-648-du-3-juillet-2000-mesp0021531d)
 - [Décret n°2000-650 du 3 juillet 2000 (INTM0000023D)](decret-n2000-650-du-3-juillet-2000-intm0000023d)
