@@ -1,0 +1,3 @@
+# Article 2
+
+Les ministres, pour leur département, et pour les services administratifs dotés de la responsabilité civile qui leur sont rattachés lorsqu'ils ont participé directement ou par l'intermédiaire de leurs représentants à l'élaboration ou à la dénonciation de conventions, accords, protocoles et règlements engageant la France envers un Etat ou une organisation internationale, ou pris au sein d'une organisation internationale à laquelle appartient la France, sont tenus de transmettre au ministre des affaires étrangères le texte de ces conventions, accords, protocoles et règlements, quels que soient l'importance et le caractère de ceux-ci et immédiatement aprés la signature ou l'adoption.
