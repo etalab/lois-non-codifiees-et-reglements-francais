@@ -12,13 +12,11 @@ Un cheptel bovin déclaré indemne de leucose bovine enzootique continue à bén
 
 a) Tous les bovins âgés de deux ans ou plus sont soumis, avec résultat négatif, à au moins une épreuve annuelle de recherche d'anticorps sur prélèvements individuels ou de mélange ;
 
-b) Tout bovin, quel que soit son âge, introduit dans le cheptel provient directement d'un cheptel indemne, et présente un résultat négatif à une épreuve sérologique individuelle (I.D.G. ou Elisa) de recherche de la leucose bovine enzootique pratiquée dans les trente jours précédant l'introduction.
+b) Tout bovin, quel que soit son âge, introduit dans le cheptel provient directement d'un cheptel indemne ou officiellement indemne de leucose bovine enzootique.
 
 Toutefois, lorsque dans un département le taux de prévalence annuel des cheptels bovins infectés est inférieur à 1 p. 100 au cours de deux périodes de contrôle annuel, le rythme des contrôles peut être triennal.
 
 Lorsque ce taux de prévalence est inférieur à 0,2 p. 100 au cours de deux périodes de contrôle triennal, le rythme de contrôle peut être quinquennal.
-
-Une attestation de provenance est fournie par le directeur des services vétérinaires du département d'origine.
 
 Dans le cas d'un cheptel reconnu indemne de leucose bovine enzootique depuis plus de deux années, lorsqu'un ou plusieurs animaux présentent un résultat positif à l'occasion d'un contrôle sérologique - sous réserve que leur nombre ne dépasse pas 2 p. 100 de l'effectif pour les cheptels de cinquante bovins et plus contrôlés - et que cet (ces) animal (aux) est (sont) marqué(s) et éliminé(s) dans un délai de quinze jours après notification du diagnostic, la qualification indemne de leucose bovine enzootique peut être retrouvée après un contrôle sérologique entièrement favorable pratiqué sur l'ensemble des bovins âgés de plus d'un an présents dans ce cheptel.
 
