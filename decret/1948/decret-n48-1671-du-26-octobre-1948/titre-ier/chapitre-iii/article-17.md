@@ -6,7 +6,7 @@ La minute de chaque décision est signée par le président et le secrétaire.
 
 A l'exception de celles relatives aux inscriptions aux tableaux de l'ordre, qui sont notifiées dans les formes prévues par l'article 5 ci-dessus, les décisions du conseil régional sont notifiées sans délai par lettre recommandée avec demande d'avis de réception au président du conseil départemental, qui les notifie lui-même dans les dix jours et sous la même forme au praticien qui en a été l'objet.
 
-Elles sont également notifiées dans les dix jours et dans la même forme au directeur départemental de l'action sanitaire et sociale, au procureur de la République, au préfet, au conseil national de l'ordre et au ministre chargé de la santé.
+Elles sont également notifiées dans les dix jours et dans la même forme au directeur régional des affaires sanitaires et sociales, au directeur départemental des affaires sanitaires et sociales, au procureur de la République, au préfet, au conseil national de l'ordre et au ministre chargé de la santé.
 
 Lorsqu'il s'agit d'un médecin, d'un praticien de l'art dentiste ou d'une sage-femme ressortissant de l'un des Etats membres de la Communauté économique européenne autres que la France, les décisions sont en outre notifiées à l'autorité compétente de l'Etat d'origine et à celle de l'Etat de provenance.
 
