@@ -7,6 +7,7 @@
 - [Loi n° 87-384 du 15 juin 1987 (EQUX8700057L)](loi-n-87-384-du-15-juin-1987-equx8700057l)
 - [Loi n° 87-39 du 27 janvier 1987](loi-n-87-39-du-27-janvier-1987)
 - [Loi n° 87-416 du 17 juin 1987](loi-n-87-416-du-17-juin-1987)
+- [Loi n° 87-423 du 19 juin 1987 (ASEX8700049L)](loi-n-87-423-du-19-juin-1987-asex8700049l)
 - [Loi n°87-10 du 3 janvier 1987](loi-n87-10-du-3-janvier-1987)
 - [Loi n°87-342 du 22 mai 1987 (DEFX8700026L)](loi-n87-342-du-22-mai-1987-defx8700026l)
 - [Loi n°87-369 du 5 juin 1987 (DOMX8700059L)](loi-n87-369-du-5-juin-1987-domx8700059l)
