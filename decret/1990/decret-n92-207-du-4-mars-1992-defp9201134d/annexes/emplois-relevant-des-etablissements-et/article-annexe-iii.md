@@ -2,9 +2,9 @@
 
 Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire.
 
-III-1 Directeur de l'établissement aéronautique de Paris et adjoint, sous-directeur administratif et sous-directeur du personnel, secrétaire général d'une école supérieure de l'armement, chef des services administratifs et chef du service administratif (sauf lorsque ces fonctions sont exercées par des agents appartenant à un corps dont le dernier échelon est doté d'un indice brut supérieur à 966) ;
+III-1 Directeur de l'établissement aéronautique de Paris et adjoint, sous-directeur administratif et sous-directeur du personnel, secrétaire général d'une école supérieure de l'armement, chef des services administratifs et chef du service administratif ;
 
-III-2 Chef du service ou du département dans les domaines personnel, finances-comptabilité, contrats-marchés et adjoint à la communication d'un directeur d'établissement (sauf lorsque ces fonctions sont exercées par des agents appartenant à un corps dont le dernier échelon est doté d'un indice brut supérieur à 966) ;
+III-2 Chef du service ou du département dans les domaines personnel, finances-comptabilité, contrats-marchés et adjoint à la communication d'un directeur d'établissement ;
 
 III-3 Chef de bureau et assimilé, adjoint, dans les domaines finances-budget, comptabilité, administration générale, contrats, marchés, approvisionnements, personnel, affaires sociales ;
 
