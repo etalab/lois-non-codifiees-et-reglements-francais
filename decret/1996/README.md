@@ -28,6 +28,7 @@
 - [Décret n°96-13 du 8 janvier 1996 (DOME9500052D)](decret-n96-13-du-8-janvier-1996-dome9500052d)
 - [Décret n°96-20 du 8 janvier 1996 (EQUH9501540D)](decret-n96-20-du-8-janvier-1996-equh9501540d)
 - [Décret n°96-21 du 8 janvier 1996 (ECOT9551484D)](decret-n96-21-du-8-janvier-1996-ecot9551484d)
+- [Décret n°96-104 du 9 février 1996 (EQUL9501706D)](decret-n96-104-du-9-fevrier-1996-equl9501706d)
 - [Décret n°96-1086 du 9 décembre 1996 (ENVE9640064D)](decret-n96-1086-du-9-decembre-1996-enve9640064d)
 - [Décret n°96-23 du 9 janvier 1996 (MAEJ9530118D)](decret-n96-23-du-9-janvier-1996-maej9530118d)
 - [Décret n°96-16 du 10 janvier 1996 (MENA9502733D)](decret-n96-16-du-10-janvier-1996-mena9502733d)

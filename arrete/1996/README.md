@@ -31,6 +31,7 @@
 - [Arrêté du 8 janvier 1996 (ECOR9605003A)](arrete-du-8-janvier-1996-ecor9605003a)
 - [Arrêté du 8 janvier 1996 (INTA9600031A)](arrete-du-8-janvier-1996-inta9600031a)
 - [Arrêté du 9 avril 1996 (EQUH9600388A)](arrete-du-9-avril-1996-equh9600388a)
+- [Arrêté du 9 février 1996 (EQUL9501707A)](arrete-du-9-fevrier-1996-equl9501707a)
 - [Arrêté du 9 février 1996 (MAEA9620067A)](arrete-du-9-fevrier-1996-maea9620067a)
 - [Arrêté du 9 février 1996 (MAEA9620068A)](arrete-du-9-fevrier-1996-maea9620068a)
 - [Arrêté du 9 janvier 1995 (ENVP9430388A)](arrete-du-9-janvier-1995-envp9430388a)
