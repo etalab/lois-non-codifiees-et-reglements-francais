@@ -1,0 +1,3 @@
+# Article 4
+
+Indépendamment des dispositions prévues aux articles 1er et 2 du présent décret, le ministre chargé de la protection de la nature arrête la liste des animaux d'espèces non domestiques ou de végétaux d'espèces non cultivées ou de leurs parties ou produits dont le ramassage, la récolte ou la capture et la cession à titre gratuit ou onéreux, peuvent être interdits ou autorisés dans certaines conditions sur tout ou partie du territoire et pour des périodes déterminées. Des arrêtés préfectoraux fixent les dates d'application de ces mesures et, le cas échéant, leurs modalités d'application. Les dispositions du présent article ne s'appliquent pas aux espèces marines.

@@ -1,0 +1,3 @@
+# Article 18-3
+
+Dès qu'il a reçu de l'organisme interprofessionnel la notification du rapport d'amortissement défini à l'article 18-1, l'établissement affilié détermine, sur la liste prévu à l'article précédent, le rang du titre à partir duquel les titres amortis sont affectés, dans les conditions prévues à l'article 18-4 ci-dessous, aux clients déposants. Ce rang est déterminé en multipliant le nombre total des titres de la liste par le nombre de cent millièmes formé par la suite des cinq décimales du pourcentage d'amortissement. Si le nombre ainsi obtenu n'est pas un nombre entier, il est arrondi à l'unité inférieure ; si le résultat est inférieur à 1, le dernier titre de la liste est pris comme point de départ.
