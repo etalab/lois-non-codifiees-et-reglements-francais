@@ -4,3 +4,4 @@
 - [TITRE II : Recrutement](titre-ii)
 - [TITRE III : Avancement et rémunération des administrateurs de la             ville de Paris.](titre-iii)
 - [TITRE IV : Dispositions spéciales.](titre-iv)
+- [Article 15](article-15.md)
