@@ -294,6 +294,7 @@
 - [Décret n°92-252 du 17 mars 1992 (SANP9200537D)](decret-n92-252-du-17-mars-1992-sanp9200537d)
 - [Décret n°92-52 du 17 janvier 1992 (AGRB9102045D)](decret-n92-52-du-17-janvier-1992-agrb9102045d)
 - [Décret n°92-53 du 17 janvier 1992 (AGRB9102226D)](decret-n92-53-du-17-janvier-1992-agrb9102226d)
+- [Décret n°92-545 du 17 juin 1992 (SANP9201243D)](decret-n92-545-du-17-juin-1992-sanp9201243d)
 - [Décret n°92-55 du 17 janvier 1992 (MENF9102790D)](decret-n92-55-du-17-janvier-1992-menf9102790d)
 - [Décret n°92-56 du 17 janvier 1992 (MENF9102791D)](decret-n92-56-du-17-janvier-1992-menf9102791d)
 - [Décret n°92-57 du 17 janvier 1992 (MENL9103164D)](decret-n92-57-du-17-janvier-1992-menl9103164d)

@@ -203,6 +203,7 @@
 - [Arrêté du 11 février 1992 (SPSG9200423A)](arrete-du-11-fevrier-1992-spsg9200423a)
 - [Arrêté du 11 juin 1992 (COMA9200014A)](arrete-du-11-juin-1992-coma9200014a)
 - [Arrêté du 11 juin 1992 (INDZ9200467A)](arrete-du-11-juin-1992-indz9200467a)
+- [Arrêté du 11 juin 1992 (JUSF9250025A)](arrete-du-11-juin-1992-jusf9250025a)
 - [Arrêté du 11 mars 1992 (JUSF9150100A)](arrete-du-11-mars-1992-jusf9150100a)
 - [Arrêté du 11 mars 1992 (MENT9200426A)](arrete-du-11-mars-1992-ment9200426a)
 - [Arrêté du 11 mars 1992 (PTTR9200153A)](arrete-du-11-mars-1992-pttr9200153a)
