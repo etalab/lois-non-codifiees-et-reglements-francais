@@ -5,3 +5,4 @@
 - [Loi n° 89-466 du 10 juillet 1989 (FPPX8900050L)](loi-n-89-466-du-10-juillet-1989-fppx8900050l)
 - [Loi n° 89-548 du 2 août 1989 (INTX8900060L)](loi-n-89-548-du-2-aout-1989-intx8900060l)
 - [Loi n°86-14 du 6 janvier 1986](loi-n86-14-du-6-janvier-1986)
+- [Loi n°89-486 du 10 juillet 1989 (MENX8900049L)](loi-n89-486-du-10-juillet-1989-menx8900049l)
