@@ -1,0 +1,7 @@
+# Article 1
+
+Les personnels d'établissements privés à caractère sanitaire ou social, concernés par une des opérations mentionnées à l'article 102 de la loi du 9 janvier 1986 susvisée et en fonction dans un de ces établissements à la date de réalisation de cette opération peuvent, sous réserve de justifier de services effectifs dans ledit établissement d'une durée équivalente à deux ans au moins de service à temps complet et de remplir les conditions énoncées aux articles 5 et 5 bis de la loi du 13 juillet 1983 susvisée, demander leur intégration dans l'un des corps de la fonction publique hospitalière régis par la loi du 9 janvier 1986 susvisée et leur nomination dans un emploi de l'établissement public auquel l'opération a donné naissance ou auquel a été transférée tout ou partie de l'activité de l'établissement privé les employant antérieurement.
+
+La demande d'intégration doit être présentée avant l'expiration d'un délai de six mois courant à compter de la date de publication de l'arrêté mentionné à l'article 6. Elle est accompagnée des pièces justificatives, notamment de la durée des services effectifs mentionnés ci-dessus et adressée au directeur de l'établissement public visé au premier alinéa ci-dessus.
+
+L'intégration ne peut avoir lieu que s'il existe dans la fonction publique hospitalière des corps et emplois correspondant aux fonctions exercées par les agents intéressés.
