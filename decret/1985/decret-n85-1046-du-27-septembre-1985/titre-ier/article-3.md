@@ -11,3 +11,5 @@ Des arrêtés conjoints du ministre chargé de la santé et du ministre chargé 
 - l'organisation des examens de passage d'une année à l'autre et du diplôme d'Etat ;
 
 - les conditions d'attribution de dispenses de scolarité et de stages.
+
+Un arrêté conjoint du ministre chargé de la santé, du ministre chargé de l'enseignement supérieur et du ministre chargé du budget fixe les conditions de rémunération des étudiants sages-femmes.
