@@ -1,3 +1,3 @@
 # Article 1
 
-La perception de la contre-valeur de la redevance pour détérioration de la qualité de l'eau émise par les agences financières de bassin fait l'objet d'une rémunération prévue à l'article 18 de l'arrêté du 28 octobre 1975 modifié pris pour l'application des articles 3, 5, 6, 10, 11 et 15 du décret du 28 octobre 1975 susvisé.
+Le taux de la taxe créée par le décret du 13 avril 1983 susvisé est de nouveau fixé, jusqu'au 31 décembre 1984 [*date limite*], à 0,30 p. 100 de la valeur imposable.
