@@ -69,6 +69,12 @@ LISTE DES PORTS SUSCEPTIBLES D'OUVRIR DROIT A L'ALLOCATION DE CESSATION ANTICIPE
 </td>
 </tr>
 <tr>
+<td>La Rochelle-La Palice </td>
+<td>
+<p align="center"> De 1974 à 1982</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="302">
 <p>Rouen</p>
 </td>
@@ -81,13 +87,13 @@ LISTE DES PORTS SUSCEPTIBLES D'OUVRIR DROIT A L'ALLOCATION DE CESSATION ANTICIPE
 <p>Saint-Malo</p>
 </td>
 <td valign="top" width="378">
-<p align="center">De 1964 à 1977</p>
+<p align="center">De 1964 à 1981</p>
 </td>
 </tr>
 <tr>
 <td>Sète </td>
 <td>
-<p align="center"> De 1980 à 1989</p>
+<p align="center">De 1980 à 1989</p>
 </td>
 </tr>
 </tbody>
