@@ -11,4 +11,7 @@
 - [Loi n° 95-74 du 21 janvier 1995 (LOGX9412606L)](loi-n-95-74-du-21-janvier-1995-logx9412606l)
 - [Loi n° 95-89 du 30 janvier 1995 (MAEX9400115L)](loi-n-95-89-du-30-janvier-1995-maex9400115l)
 - [Loi n° 95-90 du 30 janvier 1995 (MAEX9400123L)](loi-n-95-90-du-30-janvier-1995-maex9400123l)
+- [Loi n° 95-95 du 1 février 1995 (AGRX9400137L)](loi-n-95-95-du-1-fevrier-1995-agrx9400137l)
+- [Loi n° 95-97 du 1 février 1995 (DOMX9400165L)](loi-n-95-97-du-1-fevrier-1995-domx9400165l)
 - [Loi n°95-9 du 6 janvier 1995 (INTX9400060L)](loi-n95-9-du-6-janvier-1995-intx9400060l)
+- [Loi n°95-96 du 1 février 1995 (ECOX9400126L)](loi-n95-96-du-1-fevrier-1995-ecox9400126l)

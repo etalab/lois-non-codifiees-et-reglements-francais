@@ -2,6 +2,4 @@
 
 Révocation.
 
-La révocation est prononcée dans les conditions prévues au chapitre "Discipline" du présent statut.
-
-Elle prend effet immédiatement et est exclusive de tout préavis ou indemnité, à l'exclusion de l'indemnité de congé payé éventuellement due en application des dispositions légales.
+Pour l'application des dispositions du présent décret, le traitement statutaire s'entend de la rémunération totale, à l'exclusion de toutes primes, indemnités, commissions et gratifications, quels qu'en soient l'objet ou la nature et à l'exclusion de la rémunération afférente aux heures supplémentaires.

@@ -1,3 +1,3 @@
 # Article 140
 
-Les conditions dans lesquelles les personnels visés à l'article ci-dessus seront intégrés dans les catégories du présent statut seront fixées par décision du directeur général, soumises à l'approbation du ministre des finances et des affaires économiques.
+Les pensions liquidées pour les bénéficiaires du présent régime sont revalorisées conformément à l'évolution de la valeur du point (mesures générales) servant de base au calcul des traitements bruts des fonctionnaires de l'Etat.

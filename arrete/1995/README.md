@@ -177,6 +177,7 @@
 - [Arrêté du 23 janvier 1995 (INDG9500060A)](arrete-du-23-janvier-1995-indg9500060a)
 - [Arrêté du 23 janvier 1995 (INDG9500061A)](arrete-du-23-janvier-1995-indg9500061a)
 - [Arrêté du 24 décembre 1994 (COMG9400003A)](arrete-du-24-decembre-1994-comg9400003a)
+- [Arrêté du 25 janvier 1995 (MENE9500086A)](arrete-du-25-janvier-1995-mene9500086a)
 - [Arrêté du 27 décembre 1994 (AGRS9402494A)](arrete-du-27-decembre-1994-agrs9402494a)
 - [Arrêté du 27 décembre 1994 (DEFB9501023A)](arrete-du-27-decembre-1994-defb9501023a)
 - [Arrêté du 27 décembre 1994 (DEFD9402069A)](arrete-du-27-decembre-1994-defd9402069a)
