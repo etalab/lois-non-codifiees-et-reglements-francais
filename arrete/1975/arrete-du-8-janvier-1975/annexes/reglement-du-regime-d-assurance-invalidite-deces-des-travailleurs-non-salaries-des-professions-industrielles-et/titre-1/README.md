@@ -8,3 +8,4 @@
 - [Article annexe art. 5](article-annexe-art-5.md)
 - [Article annexe art. 7](article-annexe-art-7.md)
 - [Article annexe art. 8](article-annexe-art-8.md)
+- [Article annexe art. 8 bis](article-annexe-art-8-bis.md)
