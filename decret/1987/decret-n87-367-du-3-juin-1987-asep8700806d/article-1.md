@@ -1,7 +1,11 @@
 # Article 1
 
-Il est créé auprès du ministre de la santé un Comité national pour l'évaluation médicale.
+Il est créé auprès du ministre chargé de la santé un comité national pour l'évaluation médicale.
 
-Le comité a pour mission [*attribution*] de recenser les initiatives et les opérations d'évaluation dans le domaine médical, de susciter de telles initiatives et opérations et de participer à la diffusion des résultats obtenus.
+Le comité a pour mission de suivre les initiatives et les résultats des évaluations dans le domaine médical.
 
-Il devra notamment émettre des recommandations sur les techniques d'évaluation et sur les règles propres à garantir la fiabilité des informations diffusées, afin que les opérations d'évaluation et les informations diffusées respectent l'éthique médicale.
+Il fait appel, en tant que de besoin, pour apprécier les méthodes utilisées et les résultats obtenus dans ces évaluations à l'Agence nationale pour le développement de l'évaluation médicale.
+
+Il peut faire des propositions ou être saisi pour avis par le ministre chargé de la santé en matière de sujets d'évaluation et de diffusion de leurs conclusions.
+
+Le comité national doit notamment veiller à ce que les évaluations et la diffusion des informations respectent l'éthique médicale.
