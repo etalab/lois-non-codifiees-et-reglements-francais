@@ -158,7 +158,6 @@
 - [Décret n°88-775 du 22 juin 1988 (AGRA8800841D)](decret-n88-775-du-22-juin-1988-agra8800841d)
 - [Décret n°88-776 du 22 juin 1988 (ECOF8800008D)](decret-n88-776-du-22-juin-1988-ecof8800008d)
 - [Décret n°88-777 du 22 juin 1988 (MAEJ8830038D)](decret-n88-777-du-22-juin-1988-maej8830038d)
-- [Décret n°88-778 du 22 juin 1988 (JUSB8810174D)](decret-n88-778-du-22-juin-1988-jusb8810174d)
 - [Décret n°88-781 du 22 juin 1988 (MERE8800012D)](decret-n88-781-du-22-juin-1988-mere8800012d)
 - [Décret n°88-783 du 22 juin 1988 (MAEJ8830039D)](decret-n88-783-du-22-juin-1988-maej8830039d)
 - [Décret n°88-784 du 22 juin 1988 (MAEJ8830040D)](decret-n88-784-du-22-juin-1988-maej8830040d)
