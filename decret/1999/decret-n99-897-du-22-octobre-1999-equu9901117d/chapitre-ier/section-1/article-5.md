@@ -12,7 +12,7 @@ Le plan comporte :
 
 5. Les conditions dans lesquelles une priorité est accordée aux personnes et aux familles sans aucun logement, ou menacées d'expulsion sans relogement, ou logées dans des taudis ou des habitations insalubres, précaires ou de fortune, ou hébergées ou logées temporairement, ainsi qu'à celles qui sont confrontées à un cumul de difficultés ;
 
-6. Les dispositions prévues au chapitre 2 du présent décret en ce qui concerne le fonds de solidarité pour le logement, notamment celles relatives à ses aides et à son administration, son règlement intérieur, la désignation de son gestionnaire comptable et financier ou l'indication qu'il sera constitué un groupement d'intérêt public, les conditions dans lesquelles il est rendu compte par écrit au moins trimestriellement au comité de pilotage du plan et, le cas échéant, la liste des fonds locaux et associations habilités à octroyer ses aides ;
+6. Dispositions abrogées
 
 7. En tant que de besoin, les dispositions du plan pour l'hébergement d'urgence des personnes sans abri prévu à l'article 21 de la loi du 21 juillet 1994 susvisée ;
 
