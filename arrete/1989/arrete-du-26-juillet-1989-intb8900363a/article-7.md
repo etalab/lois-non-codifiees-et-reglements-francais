@@ -12,7 +12,7 @@ La commission nationale visée au 2° ci-dessus est, en outre, chargée de centr
 
 La commission départementale, dont le siège est fixé à la préfecture du département, est constituée par arrêté du préfet  [*composition*] ; elle comporte deux membres choisis parmi les électeurs du collège de 2e catégorie et deux fonctionnaires en poste à la préfecture.
 
-La commission nationale, dont le siège est fixé auprès de la Caisse des dépôts et consignations, est placée sous la présidence d'un inspecteur général de l'administration désigné par le ministre de l'intérieur ; elle comporte en outre le directeur général des collectivités locales au ministère de l'intérieur, le directeur de la sécurité sociale et le directeur des hôpitaux au ministère de la solidarité, de la santé et de la protection sociale ou un de leurs représentants.
+La commission nationale, dont le siège est fixé auprès de la Caisse des dépôts et consignations, est placée sous la présidence d'un inspecteur général de l'administration désigné par le ministre de l'intérieur. Elle comporte, en outre, deux représentants du ministre chargé des collectivités territoriales, un représentant du ministre chargé de la santé et un représentant du ministre chargé de l'action sociale.
 
 Chacun des candidats ou son représentant pourra assister aux travaux des commissions.
 

@@ -152,6 +152,7 @@
 - [Décret n°93-1294 du 6 décembre 1993 (MCCB9300317D)](decret-n93-1294-du-6-decembre-1993-mccb9300317d)
 - [Décret n°95-10 du 6 janvier 1995 (FPPA9400145D)](decret-n95-10-du-6-janvier-1995-fppa9400145d)
 - [Décret n°95-1000 du 6 septembre 1995 (SANP9502310D)](decret-n95-1000-du-6-septembre-1995-sanp9502310d)
+- [Décret n°95-1001 du 6 septembre 1995 (EQUS9500237D)](decret-n95-1001-du-6-septembre-1995-equs9500237d)
 - [Décret n°95-11 du 6 janvier 1995 (TEFO9401252D)](decret-n95-11-du-6-janvier-1995-tefo9401252d)
 - [Décret n°95-12 du 6 janvier 1995 (BUDF9400021D)](decret-n95-12-du-6-janvier-1995-budf9400021d)
 - [Décret n°95-1272 du 6 décembre 1995 (ENVN9530088D)](decret-n95-1272-du-6-decembre-1995-envn9530088d)
