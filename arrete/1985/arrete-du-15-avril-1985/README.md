@@ -9,4 +9,3 @@
 - [Article 4](article-4.md)
 - [Titre IV : DISPOSITIONS COMMUNES](titre-iv)
 - [Annexes](annexes)
-- [TAXES PARAFISCALES PERCUES AU PROFIT DU COMITE CENTRAL DES PECHES MARITIMES](taxes-parafiscales-percues-au)
