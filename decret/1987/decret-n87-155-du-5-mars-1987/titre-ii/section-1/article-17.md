@@ -1,6 +1,6 @@
 # Article 17
 
-Les élections au conseil d'administration du centre régional des oeuvres universitaires et scolaires ont lieu une année universitaire sur deux [*périodicité*].
+Les élections des représentants des étudiants au conseil d'administration du centre régional des oeuvres universitaires et scolaires ont lieu tous les deux ans, au plus tard le 31 janvier. Le ministre chargé de l'enseignement supérieur peut, pour favoriser l'élection simultanée à différentes instances universitaires, avancer ou reporter par arrêté ces élections dans la limite d'un an.
 
 Elles sont organisées par le recteur qui fixe la date du scrutin, convoque les collèges électoraux et fait procéder aux opérations selon les modalités définies par le ministre chargé des universités. Elles entraînent le renouvellement des mandats de tous les administrateurs.
 
