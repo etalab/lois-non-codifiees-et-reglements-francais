@@ -189,6 +189,7 @@
 - [Arrêté du 18 janvier 1996 (ECOT9651491A)](arrete-du-18-janvier-1996-ecot9651491a)
 - [Arrêté du 18 mars 1996 (JUSC9620020A)](arrete-du-18-mars-1996-jusc9620020a)
 - [Arrêté du 18 mars 1996 (MENF9600883A)](arrete-du-18-mars-1996-menf9600883a)
+- [Arrêté du 18 mars 1996 (TASE9610436A)](arrete-du-18-mars-1996-tase9610436a)
 - [Arrêté du 19 décembre 1995 (ECOT9510255A)](arrete-du-19-decembre-1995-ecot9510255a)
 - [Arrêté du 19 décembre 1995 (MIPP9500966A)](arrete-du-19-decembre-1995-mipp9500966a)
 - [Arrêté du 19 février 1996 (ECOT9610264A)](arrete-du-19-fevrier-1996-ecot9610264a)

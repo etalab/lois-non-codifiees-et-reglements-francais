@@ -67,6 +67,8 @@
 - [Décret n°96-121 du 9 février 1996 (EQUP9501311D)](decret-n96-121-du-9-fevrier-1996-equp9501311d)
 - [Décret n°96-122 du 9 février 1996 (INDA9501222D)](decret-n96-122-du-9-fevrier-1996-inda9501222d)
 - [Décret n°96-23 du 9 janvier 1996 (MAEJ9530118D)](decret-n96-23-du-9-janvier-1996-maej9530118d)
+- [Décret n°96-297 du 9 avril 1996 (TASP9610440D)](decret-n96-297-du-9-avril-1996-tasp9610440d)
+- [Décret n°96-298 du 9 avril 1996 (INTX9601443D)](decret-n96-298-du-9-avril-1996-intx9601443d)
 - [Décret n°96-16 du 10 janvier 1996 (MENA9502733D)](decret-n96-16-du-10-janvier-1996-mena9502733d)
 - [Décret n°96-17 du 10 janvier 1996 (EQUT9501847D)](decret-n96-17-du-10-janvier-1996-equt9501847d)
 - [Décret n°96-19 du 10 janvier 1996 (DOME9500051D)](decret-n96-19-du-10-janvier-1996-dome9500051d)

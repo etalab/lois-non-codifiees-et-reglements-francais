@@ -15,6 +15,7 @@
 - [Loi n° 96-241 du 26 mars 1996 (FPPX9500193L)](loi-n-96-241-du-26-mars-1996-fppx9500193l)
 - [Loi n° 96-244 du 26 mars 1996 (MAEX9400131L)](loi-n-96-244-du-26-mars-1996-maex9400131l)
 - [Loi n° 96-248 du 26 mars 1996 (MAEX9400129L)](loi-n-96-248-du-26-mars-1996-maex9400129l)
+- [Loi n° 96-296 du 9 avril 1996 (TASX9501431L)](loi-n-96-296-du-9-avril-1996-tasx9501431l)
 - [Loi n° 96-62 du 29 janvier 1996 (JUSX9500134L)](loi-n-96-62-du-29-janvier-1996-jusx9500134l)
 - [Loi n° 96-63 du 29 janvier 1996 (TASX9500159L)](loi-n-96-63-du-29-janvier-1996-tasx9500159l)
 - [Loi n° 96-64 du 29 janvier 1996 (MAEX9400017L)](loi-n-96-64-du-29-janvier-1996-maex9400017l)
