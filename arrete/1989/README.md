@@ -237,5 +237,7 @@
 - [Arrêté du 31 janvier 1989 (SPSH8900211A)](arrete-du-31-janvier-1989-spsh8900211a)
 - [Arrêté du 31 janvier 1989 (SPSS8900220A)](arrete-du-31-janvier-1989-spss8900220a)
 - [Arrêté du 31 janvier 1989 (TEFT8903125A)](arrete-du-31-janvier-1989-teft8903125a)
+- [Arrêté du 31 mars 1989 (ECOT8916068A)](arrete-du-31-mars-1989-ecot8916068a)
 - [Arrêté du 31 mars 1989 (SPSH8900619A)](arrete-du-31-mars-1989-spsh8900619a)
 - [Arrêté du 31 mars 1989 (SPSH8900620A)](arrete-du-31-mars-1989-spsh8900620a)
+- [Arrêté du 31 mars 1989 (TEFE8903308A)](arrete-du-31-mars-1989-tefe8903308a)
