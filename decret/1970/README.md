@@ -8,6 +8,8 @@
 - [Décret n° 70-220 du 17 mars 1970](decret-n-70-220-du-17-mars-1970)
 - [Décret n°70-216 du 17 mars 1970](decret-n70-216-du-17-mars-1970)
 - [Décret n° 70-147 du 19 février 1970](decret-n-70-147-du-19-fevrier-1970)
+- [Décret n°70-238 du 19 mars 1970](decret-n70-238-du-19-mars-1970)
+- [Décret n°70-239 du 19 mars 1970](decret-n70-239-du-19-mars-1970)
 - [Décret n°70-158 du 26 février 1970](decret-n70-158-du-26-fevrier-1970)
 - [Décret n°70-78 du 27 janvier 1970](decret-n70-78-du-27-janvier-1970)
 - [Décret n° 70-107 du 29 janvier 1970](decret-n-70-107-du-29-janvier-1970)
