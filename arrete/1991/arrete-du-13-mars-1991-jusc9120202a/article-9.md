@@ -1,6 +1,6 @@
 # Article 9
 
-Chaque électeur de la liste des assurés en activité insère le bulletin de vote dans l'enveloppe visée au a, 2, de l'article 7 et envoie cette enveloppe préalablement fermée à la chambre siégeant en comité mixte sous le même pli que sa carte d'électeur et l'enveloppe contenant son bulletin de vote aux élections à ladite chambre quand il entend y participer également.
+Chaque électeur de la liste des assurés en activité insère le bulletin de vote dans l'enveloppe visée au a, 2, de l'article 7 et envoie cette enveloppe préalablement fermée à la chambre siégeant en comité mixte sous le même pli que sa carte d'électeur.
 
 Chaque électeur pensionné place le bulletin de vote dans l'enveloppe visée au b, 2, de l'article 7 ; il insère cette enveloppe préalablement fermée et la carte d'électeur visée au b, 4, dudit article 7, dans la seconde enveloppe qu'il renvoie par simple lettre à la caisse.
 
