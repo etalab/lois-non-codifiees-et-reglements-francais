@@ -1,3 +1,11 @@
 # Article 4
 
-La superficie maximum visée à l'article 188-1 du Code rural est fixée à quatre fois la superficie minimum d'installation soit 96 hectares pour l'ensemble du département.
+La superficie maximum des cumuls visée à l'article 188-1 du Code rural est fixée comme suit (en hectares) :
+
+Artense : 88
+
+Margeride : 92
+
+Aubrac : 100
+
+Reste du département : 84.
