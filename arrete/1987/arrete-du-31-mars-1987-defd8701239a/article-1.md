@@ -32,7 +32,7 @@ Les autorités ou organismes énumérés ci-dessous désignent un fonctionnaire 
 
 - la direction de l'administration générale ;
 
-- la délégation aux études générales ;
+- la délégation aux affaires stratégiques-;
 
 - le groupe de planification et d'études stratégiques.
 
