@@ -1,7 +1,270 @@
 # Article 22
 
-Dans la classe normale, l'ancienneté moyenne est de un an dans le 1er échelon, un an six mois dans chacun des 2e, 3e, 4e et 5e échelons, de deux ans dans le 6e échelon, de trois ans dans chacun des 7e, 8e, 9e et 10e échelons et de quatre ans dans le 11e échelon.
+L'ancienneté moyenne pour accéder à l'échelon supérieur de chacun des grades du corps des secrétaires médicaux est ainsi fixée :
 
-Dans la classe supérieure, l'ancienneté moyenne donnant accès à l'échelon supérieur est de trois ans dans les trois premiers échelons et de quatre ans dans le 4e échelon.
-
-Dans la classe exceptionnelle, l'ancienneté moyenne donnant accès à l'échelon supérieur est de deux ans dans chacun des quatre premiers échelons et de deux ans et demi dans les 5e et 6e échelons.
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="center">ECHELONS</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">ANCIENNETE MOYENNE</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<i>Classe exceptionnelle créée le 1er août 1994</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<i>Classe supérieure créée le 1er août 1996</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">8e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<i>Classe normale créée le 1er août 1996</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">13e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">12e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">10e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">11e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">9e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">8e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an</p>
+</td>
+</tr>
+</tbody>
+</table>

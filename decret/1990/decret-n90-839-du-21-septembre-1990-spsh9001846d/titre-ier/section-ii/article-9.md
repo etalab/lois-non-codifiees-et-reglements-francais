@@ -1,7 +1,264 @@
 # Article 9
 
-Dans la classe normale, l'ancienneté moyenne donnant accès à l'échelon supérieur est d'un an dans le 1er échelon, un an six mois dans chacun des 2e, 3e, 4e et 5e échelons, de deux ans dans le 6e échelon, de trois ans dans chacun des 7e, 8e, 9e et 10e échelons et de quatre ans dans le 11e échelon.
+L'ancienneté moyenne pour accéder à l'échelon supérieur de chacun des grades du corps des adjoints des cadres hospitaliers est ainsi fixée :
 
-Dans la classe supérieure, l'ancienneté moyenne donnant accès à l'échelon supérieur est de trois ans dans les trois premiers échelons et de quatre ans dans le 4e échelon.
-
-Dans la classe exceptionnelle, l'ancienneté moyenne donnant accès à l'échelon supérieur est de deux ans dans chacun des quatre premiers échelons, et de deux ans six mois dans chacun des 5e et 6e échelons.
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">ECHELONS</p>
+</td>
+<td>
+<p align="center">ANCIENNETE MOYENNE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Classe exceptionnelle créée le 1er août 1994 :</p>
+</td>
+<td>
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td>
+<p>7e échelon</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6e échelon</p>
+</td>
+<td>
+<p align="center">4 ans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5e échelon</p>
+</td>
+<td>
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4e échelon</p>
+</td>
+<td>
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e échelon</p>
+</td>
+<td>
+<p align="center">2 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e échelon</p>
+</td>
+<td>
+<p align="center">2 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1er échelon</p>
+</td>
+<td>
+<p align="center">2 ans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Classe supérieure créée le 1er août 1996 :</p>
+</td>
+<td>
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td>
+<p>8e échelon</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7e échelon</p>
+</td>
+<td>
+<p align="center">4 ans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6e échelon</p>
+</td>
+<td>
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5e échelon</p>
+</td>
+<td>
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4e échelon</p>
+</td>
+<td>
+<p align="center">2 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e échelon</p>
+</td>
+<td>
+<p align="center">2 ans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e échelon</p>
+</td>
+<td>
+<p align="center">2 ans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1er échelon</p>
+</td>
+<td>
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Classe normale créée le 1er août 1996 :</p>
+</td>
+<td>
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td>
+<p>13e échelon</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12e échelon</p>
+</td>
+<td>
+<p align="center">4 ans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10e échelon</p>
+</td>
+<td>
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11e échelon</p>
+</td>
+<td>
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9e échelon</p>
+</td>
+<td>
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8e échelon</p>
+</td>
+<td>
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7e échelon</p>
+</td>
+<td>
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6e échelon</p>
+</td>
+<td>
+<p align="center">2ans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5e échelon</p>
+</td>
+<td>
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4e échelon</p>
+</td>
+<td>
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e échelon</p>
+</td>
+<td>
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e échelon</p>
+</td>
+<td>
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>1er échelon</p>
+</td>
+<td rowspan="2">
+<p align="center">1 an</p>
+</td>
+</tr>
+</tbody>
+</table>
