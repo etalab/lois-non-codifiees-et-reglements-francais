@@ -222,6 +222,7 @@
 - [Décret n°2001-1077 du 16 novembre 2001 (MESS0123617D)](decret-n2001-1077-du-16-novembre-2001-mess0123617d)
 - [Décret n°2001-1078 du 16 novembre 2001 (MESA0123742D)](decret-n2001-1078-du-16-novembre-2001-mesa0123742d)
 - [Décret n°2001-1097 du 16 novembre 2001 (ECOC0100071D)](decret-n2001-1097-du-16-novembre-2001-ecoc0100071d)
+- [Décret n°2001-61 du 16 janvier 2001 (DEFP0002430D)](decret-n2001-61-du-16-janvier-2001-defp0002430d)
 - [Décret n°2001-627 du 16 juillet 2001 (MENF0101221D)](decret-n2001-627-du-16-juillet-2001-menf0101221d)
 - [Décret n°2001-630 du 16 juillet 2001 (ECOI0100278D)](decret-n2001-630-du-16-juillet-2001-ecoi0100278d)
 - [Décret n°2001-631 du 16 juillet 2001 (ECOT0151956D)](decret-n2001-631-du-16-juillet-2001-ecot0151956d)
