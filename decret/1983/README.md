@@ -208,7 +208,6 @@
 - [Décret n°83-341 du 23 avril 1983](decret-n83-341-du-23-avril-1983)
 - [Décret n°83-514 du 23 juin 1983](decret-n83-514-du-23-juin-1983)
 - [Décret n°83-516 du 23 juin 1983](decret-n83-516-du-23-juin-1983)
-- [Décret n°83-768 du 23 août 1983](decret-n83-768-du-23-aout-1983)
 - [Décret n°83-844 du 23 septembre 1983](decret-n83-844-du-23-septembre-1983)
 - [Décret n°83-851 du 23 septembre 1983](decret-n83-851-du-23-septembre-1983)
 - [Décret n°83-862 du 23 septembre 1983](decret-n83-862-du-23-septembre-1983)
