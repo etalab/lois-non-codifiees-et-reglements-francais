@@ -8,4 +8,4 @@ Si leurs déplacements sont effectués à partir d'un point fixe, par la caisse 
 
 Si leurs déplacements sont effectués habituellement dans une région, par la caisse d'allocations familiales dont dépend le centre de cette région ;
 
-Si leurs déplacements sont effectués à travers l'ensemble du territoire, par la caisse d'allocations familiales de la région parisienne.
+Si leurs déplacements sont effectués à travers l'ensemble du territoire, par la caisse d'allocations familiales de Paris.
