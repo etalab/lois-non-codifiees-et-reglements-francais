@@ -1,0 +1,3 @@
+# Article 46-3
+
+Les élèves professeurs recrutés par le concours externe d'entrée en cycle préparatoire organisé à la session 1991 et antérieurement qui, au terme du cycle préparatoire, ne sont pas admis au concours externe prévu à l'article 11 ci-dessus perdent leur qualité d'élève professeur et, s'ils étaient déjà fonctionnaires, sont réintégrés dans leur corps, cadre d'emplois ou d'emploi d'origine. Le ministre chargé de l'éducation peut les autoriser exceptionnellement, après avis du responsable de la formation, à effectuer une année supplémentaire de préparation au concours externe du certificat d'aptitude au professorat de l'enseignement technique. Cette autorisation n'est pas renouvelable.
