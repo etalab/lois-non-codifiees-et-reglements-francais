@@ -14,6 +14,6 @@ Produits laitiers frais autres que les laits pasteurisés, desserts lactés ; be
 
 - 18 °C : glaces, crèmes glacées, sorbets et tout aliment surgelé conformément aux dispositions du décret du 9 septembre 1964 susvisé.
 
-- 15 °C : tout aliment congelé.
+- 12 °C : tout aliment congelé.
 
 Supérieur à + 63 °C : plats cuisinés livrés chaud au consommateur.
