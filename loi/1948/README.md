@@ -1,5 +1,6 @@
 # 1948
 
+- [Loi n° 48-1228 du 22 juillet 1948](loi-n-48-1228-du-22-juillet-1948)
 - [Loi n° 48-1360 du 1 septembre 1948](loi-n-48-1360-du-1-septembre-1948)
 - [Loi n° 48-1416 du 15 septembre 1948](loi-n-48-1416-du-15-septembre-1948)
 - [Loi n° 48-1437 du 14 septembre 1948](loi-n-48-1437-du-14-septembre-1948)
