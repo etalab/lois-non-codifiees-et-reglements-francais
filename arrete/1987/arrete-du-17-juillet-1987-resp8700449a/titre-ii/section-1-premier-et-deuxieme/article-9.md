@@ -1,0 +1,3 @@
+# Article 9
+
+Au cours des deux premiers cycles, à l'exclusion de la première année, les unités de formation et de recherche dispensant des formations pharmaceutiques peuvent organiser, à côté des enseignements prévus dans la formation commune de base et dans la formation optionnelle, une formation facultative offrant à l'étudiant la possibilité d'approfondir ses connaissances dans un domaine de son choix. Cette formation est organisée et validée par modules d'au moins 20 heures [*durée*]. Dans une proportion fixée par le conseil de l'établissement les points acquis au-dessus de la moyenne, au titre de cette formation, sont ajoutés à ceux obtenus par l'étudiant dans le cadre de la validation de l'année universitaire considérée.

@@ -136,6 +136,7 @@
 - [Décret n°87-171 du 13 mars 1987 (TRST8700046D)](decret-n87-171-du-13-mars-1987-trst8700046d)
 - [Décret n°87-172 du 13 mars 1987 (JUSC8720148D)](decret-n87-172-du-13-mars-1987-jusc8720148d)
 - [Décret n°87-265 du 13 avril 1987 (INTD8700101D)](decret-n87-265-du-13-avril-1987-intd8700101d)
+- [Décret n°87-664 du 13 août 1987 (AGRS8701472D)](decret-n87-664-du-13-aout-1987-agrs8701472d)
 - [Décret n°87-326 du 13 mai 1987](decret-n87-326-du-13-mai-1987)
 - [Décret n°87-328 du 13 mai 1987 (ASEM8700689D)](decret-n87-328-du-13-mai-1987-asem8700689d)
 - [Décret n°86-595 du 14 mars 1986](decret-n86-595-du-14-mars-1986)
