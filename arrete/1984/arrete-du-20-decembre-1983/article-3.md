@@ -2,15 +2,19 @@
 
 Le tarif de cession des produits sanguins est le suivant :
 
-Sang humain total : unité adulte : 364,15 F
+Sang humain total : unité adulte : 396,60 F
 
-Unité enfant : 184,30 F
+Unité enfant : 200,70 F
 
-Unité nourrisson : 119,90 F
+Unité nourrisson : 130,60 F
 
-Concentré de globules rouges humains, UA : 364,15 F
+Concentré de globules rouges humains, UA : 396,60 F
 
-Concentré de globules rouges humains, UE : 184,30 F
+Concentré de globules rouges humains, UE : 200,70 F
+
+Majoration forfaitaire pour transfusion autologue programmée :
+
+200,00 F
 
 Majoration pour qualification "appauvri en leucocytes" :
 
@@ -30,7 +34,7 @@ Majoration pour qualification "irradié" par produit correspondant à une dose t
 
 Concentré unitaire de granulocytes humains (20 milliards de granulocytes pour un volume maximal de 500 ml) : 3 765,85 F
 
-Concentré standard de plaquettes humaines, UA : 177,00 F
+Concentré standard de plaquettes humaines, UA : 187,20 F
 
 Majoration pour plaquettes humaines issues de plasmaphérèse :
 
@@ -96,9 +100,11 @@ Concentré d'antithrombine III humaine chauffé : concentration minimale 25 UI/m
 
 Concentré de facteur VII humain ou concentré de proconvertine humaine : concentration minimale de facteur VII de 25 UI/ml, l'unité international : 2,90 F
 
-Concentré de facteur VIII humain : concentration minimale de facteur VIII de 25 UI/ml avec une tolérance de variations inférieures maximales de 20 p. 100 de cette valeur, l'unité internationale :
+Concentré de facteur VIII humain de très haute pureté (T.H.P.) :
 
-4,05 F
+concentration minimale de facteur VIII de 25 U.I./ml avec une tolérance de variations inférieures maximales de 20 p. 100 de cette valeur et une activité spécifique égale ou supérieure à 100, l'unité internationale : 4,20 F
+
+Autre concentré de facteur VIII humain : concentration minimale de facteur VIII de 25 UI/ml avec une tolérance de variations inférieures maximales de 20 p. 100 de cette valeur, l'unité internationale : 4,05 F
 
 Concentré de facteur IX humain (P.P.S.B.) : concentration minimale de facteur IX de 20 UI/ml, l'unité internationale :
 
