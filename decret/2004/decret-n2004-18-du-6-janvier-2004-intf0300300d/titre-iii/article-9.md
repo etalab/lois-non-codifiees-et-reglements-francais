@@ -1,3 +1,3 @@
 # Article 9
 
-Par dérogation aux articles 7 et 8 du présent décret, la convention de bail peut être librement négociée par l'Etat dans les conditions définies aux articles 10 à 14.
+Par dérogation aux articles 7, 8 et 12 du présent décret, la convention de bail peut être librement négociée par l'Etat dans les conditions définies aux articles 10 et 11, à condition toutefois que l'avis de publicité ait mentionné les critères d'attribution du bail, le nombre minimal de candidats que l'Etat prévoit d'inviter à soumissionner et qui ne saurait être inférieur à trois et, le cas échéant, le nombre maximum. Les critères d'attribution sont pondérés. Si l'autorité administrative démontre qu'une telle pondération est objectivement impossible, ils sont alors hiérarchisés.
