@@ -1,0 +1,9 @@
+# Article 22
+
+Sans préjudice de l'application des dispositions du décret du 9 octobre 1985 précitée, les membres du cadre d'emplois des médecins territoriaux peuvent, s'ils justifient de six ans de services effectifs dans ce cadre d'emplois, demander à suivre une formation pendant une ou plusieurs périodes d'une durée totale d'un an sur l'ensemble de leur carrière.
+
+L'autorité territoriale se prononce sur leur demande, au vu des projets présentés par les candidats.
+
+Durant cette période de formation, les intéressés conservent la rémunération afférente à leur grade, à l'exception des indemnités liées à l'exercice effectif des fonctions de médecins. Ils ne peuvent cumuler cette rémunération avec une rémunération publique ou privée.
+
+A l'issue de cette formation, l'intéressé remet à l'autorité territoriale un rapport sur les travaux qu'il a effectués au cours de cette période. Il en adresse un exemplaire au Centre national de la fonction publique territoriale.
