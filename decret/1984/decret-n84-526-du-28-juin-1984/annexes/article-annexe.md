@@ -140,10 +140,6 @@ Arrêté du 10 mars 1977.
 
 MINISTERE DE L'AGRICULTURE.
 
-Conseil régional de la forêt et des produits forestiers :
-
-Arrêté du 21 juin 1966 modifié portant création de conseils régionaux de la forêt et des produits forestiers.
-
 Commission départementale consultative paritaire des baux
 
 ruraux :
