@@ -279,6 +279,8 @@
 - [Décret n°90-497 du 18 juin 1990 (SPSS9000495D)](decret-n90-497-du-18-juin-1990-spss9000495d)
 - [Décret n°90-635 du 18 juillet 1990 (LOGC9000042D)](decret-n90-635-du-18-juillet-1990-logc9000042d)
 - [Décret n°90-641 du 18 juillet 1990 (EQUA9000507D)](decret-n90-641-du-18-juillet-1990-equa9000507d)
+- [Décret n°90-643 du 18 juillet 1990 (MAEA9020160D)](decret-n90-643-du-18-juillet-1990-maea9020160d)
+- [Décret n°90-646 du 18 juillet 1990 (JUSB9010233D)](decret-n90-646-du-18-juillet-1990-jusb9010233d)
 - [Décret n°90-676 du 18 juillet 1990 (MENF9001240D)](decret-n90-676-du-18-juillet-1990-menf9001240d)
 - [Décret n°91-76 du 18 janvier 1991 (MERG9100005D)](decret-n91-76-du-18-janvier-1991-merg9100005d)
 - [Décret n°83-396 du 18 mai 1983](decret-n83-396-du-18-mai-1983)
