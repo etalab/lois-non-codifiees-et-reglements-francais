@@ -1,3 +1,5 @@
 # Article 5 B
 
-La commission des opérations de bourse peut également, par délibération particulière, charger des agents habilités de procéder à ces enquêtes auprès des personnes qui contrôlent les sociétés faisant appel public à l'épargne et des sociétés filiales incluses dans la consolidation conformément aux articles 357-1 et 357-3 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales.
+Afin d'assurer l'exécution de sa mission, la Commission des opérations de bourse dispose d'enquêteurs habilités par le président selon des modalités fixées par décret en Conseil d'Etat.
+
+Les enquêteurs peuvent, pour les nécessités de l'enquête, se faire communiquer tous documents, quel qu'en soit le support, et en obtenir la copie [*pouvoirs d'investigation*]. Ils peuvent convoquer et entendre toute personne susceptible de leur fournir des informations. Ils peuvent accéder aux locaux à usage professionnel.

@@ -1,13 +1,13 @@
 # Article 2
 
-La commission est composée d'un président nommé par décret en conseil des ministres et de quatre membres nommés par arrêté du ministre de l'économie et des finances pour une durée de quatre ans [*composition - nombre - durée du mandat*].
+La commission est composée d'un président et de huit membres.
 
-Toutefois, le mandat de deux membres débutant le 1er janvier 1971 et désignés par le sort à l'initiative du président de la commission viendra à expiration au terme d'une période de deux ans [*dispositions transitoires*].
+Le président de la commission est nommé par décret en conseil des ministres pour six ans. Son mandat n'est pas renouvelable.
 
-Les mandats du président et des membres de la commission ne sont immédiatement renouvelables qu'une fois.
+Les membres sont les suivants : un conseiller d'Etat désigné par le vice-président du conseil, un conseiller à la Cour de cassation désigné par le premier président de la cour, un conseiller-maître à la Cour des comptes désigné par le premier président de la cour, un membre du conseil des bourses de valeurs désigné par ce conseil, un membre du conseil du marché à terme désigné par ce conseil, un représentant de la Banque de France désigné par le gouverneur et deux personnalités choisies en raison de leur compétence et de leur expérience en matière d'appel public à l'épargne par les six membres désignés ci-dessus et le président.
 
-Si, en cours de mandat, le président ou un membre de la commission cesse d'exercer ses fonctions, le mandat de son successeur est limité à la période restant à courir. Lorsque sa durée est inférieure à deux ans, il peut, par dérogation aux dispositions de l'alinéa précédent, être immédiatement renouvelé deux fois.
+Le président est soumis aux règles d'incompatibilité prévues pour les emplois publics.
 
-Les mandats du président et des membres de la commission actuellement en fonction s'achèveront aux termes fixés par les textes actuellement en vigueur.
+Le mandat des membres est de quatre ans. Il est renouvelable une fois. Le mandat du président et des membres n'est pas interrompu par les règles concernant la limite d'âge éventuellement applicable aux intéressés.
 
-Un commissaire du Gouvernement désigné par le ministre de l'économie et des finances siège auprès de la commission. Il peut, dans les quatre jours d'une délibération de la commission [*délai*], provoquer une seconde délibération.
+En cas de partage égal des voix, celle du président est prépondérante. La commission peut déléguer au président ou à son représentant, membre de la commission, le pouvoir de viser les documents prévus à l'article 7 et d'agréer les organismes de placement collectif en valeurs mobilières et les gérants de portefeuille.

@@ -10,6 +10,8 @@ A défaut, elle peut être également convoquée :
 
 3° Par les liquidateurs.
 
+4° Par les actionnaires majoritaires en capital ou en droits de vote après une offre publique d'achat ou d'échange ou après une cession d'un bloc de contrôle.
+
 Dans les sociétés soumises aux articles 118 à 150, l'assemblée générale peut être convoquée par le conseil de surveillance.
 
 Les dispositions qui précèdent sont applicables aux assemblées spéciales. Les actionnaires agissant en désignation d'un mandataire de justice doivent réunir au moins le dixième des actions de la catégorie intéressée.

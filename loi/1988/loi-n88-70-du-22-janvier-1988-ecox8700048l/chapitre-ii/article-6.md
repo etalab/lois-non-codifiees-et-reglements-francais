@@ -14,4 +14,4 @@ Le règlement général fixe :
 
 - les conditions dans lesquelles une carte professionnelle est délivrée aux personnes placées sous l'autorité ou agissant pour le compte des sociétés de bourse ou de l'institution financière spécialisée ainsi qu'aux personnes physiques que les sociétés de bourse habilitent à agir en leur nom ;
 
-- les conditions de constitution et de gestion d'un fonds de garantie destiné à garantir à l'égard de la clientèle tous les engagements des sociétés de bourse.
+- les conditions de constitution ainsi que les conditions et limites d'intervention d'un fonds de garantie destiné à intervenir au bénéfice de la clientèle du marché des valeurs mobilières.

@@ -1,6 +1,6 @@
 # Article 10
 
-Les négociations effectuées par les sociétés de bourse sont enregistrées par une institution financière spécialisée constituée entre lesdites sociétés. L'institution assure la publicité des négociations. Par délégation générale du conseil des bourses de valeurs, l'institution prononce la suspension d'une ou plusieurs cotations. Elle apporte en tant que de besoin son soutien au fonds de garantie mentionné à l'article 6.
+Les négociations effectuées par les sociétés de bourse sont enregistrées par une institution financière spécialisée. L'institution assure la publicité des négociations. Par délégation générale du conseil des bourses de valeurs, l'institution prononce la suspension d'une ou plusieurs cotations. Elle apporte en tant que de besoin son soutien au fonds de garantie mentionné à l'article 6.
 
 Ses statuts sont approuvés par le ministre chargé de l'économie. La nomination de son directeur général est soumise à l'agrément du ministre.
 

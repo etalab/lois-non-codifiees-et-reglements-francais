@@ -1,8 +1,8 @@
 # Article 481
 
-Seront punis d'un emprisonnement d'un an à deux ans et d'une amende de 2 000 F à 60 000 F [*sanctions*], ou de l'une de ces deux peines seulement, les présidents, les administrateurs, les directeurs généraux ou les gérants de toute société qui, sciemment [*intention frauduleuse*] :
+Seront punis d'un emprisonnement d'un an à deux ans et d'une amende de 2 000 F à 60 000 F [*sanctions pénales*], ou de l'une de ces deux peines seulement, les présidents, les administrateurs, les directeurs généraux ou les gérants de toute société qui, sciemment [*intention frauduleuse*] :
 
-1° N'auront pas fait mention dans le rapport annuel, présenté aux associés sur les opérations de l'exercice, d'une prise de participation dans une société ayant son siège sur le territoire de la République française représentant plus du vingtième, du dixième, du cinquième, du tiers ou de la moitié du capital de cette société ou de la prise de contrôle d'une telle société ; les mêmes peines sont applicables aux commissaires aux comptes pour défaut de la même mention dans leur rapport ;
+1° N'auront pas fait mention dans le rapport annuel, présenté aux associés sur les opérations de l'exercice [*information*], d'une prise de participation [*financière*] dans une société ayant son siège sur le territoire de la République française représentant plus du vingtième, du dixième, du cinquième, du tiers, de la moitié ou des deux tiers du capital ou des droits de vote aux assemblées générales de cette société ou de la prise de contrôle d'une telle société ; les mêmes peines sont applicables aux commissaires aux comptes pour défaut de la même mention dans leur rapport ;
 
 2° N'auront pas, dans le même rapport, rendu compte de l'activité et des résultats de l'ensemble de la société,  des filiales de la société et des sociétés qu'elle contrôle par branche d'activité ;    3° N'auront pas annexé au bilan de la société le tableau prévu à l'article 357 et comportant les renseignements en vue de faire apparaître la situation desdites filiales et participations.
 

@@ -1,3 +1,3 @@
 # Article 13
 
-Nonobstant les dispositions de l'article 499 de la loi du 24 juillet 1966 sur les sociétés commerciales, la présente ordonnance est applicable dès la constitution de la commission des opérations de bourse [*modalités d'application - date d'effet*].
+Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne sont pas applicables à la commission.
