@@ -1,0 +1,3 @@
+# Article 3
+
+Sauf dérogation accordée, eu égard aux caractéristiques artistiques et aux conditions économiques de production de l'oeuvre, par le directeur général du Centre national de la cinématographie, après avis du comité institué à l'article 6 du présent décret, le montant maximum de l'aide est fixé à 50 % du total des dépenses éligibles. Celles-ci sont constituées par toutes les dépenses liées à la production et effectuées outre-mer, ainsi que les dépenses de transport et les salaires des équipes, pour ces derniers au prorata du temps de tournage effectué outre-mer lorsque l'oeuvre n'y est pas intégralement tournée.

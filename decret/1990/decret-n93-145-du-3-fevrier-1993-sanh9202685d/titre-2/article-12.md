@@ -10,8 +10,8 @@ b) Par concours sur épreuves ouvert aux fonctionnaires et agents relevant soit 
 
 Les concours visés au a et au b ci-dessus comportent trois branches : services techniques généraux, travaux et maintenance et techniques spécialisées d'applications.
 
-2° En application du 1° de l'article 35 du titre IV du statut général des fonctionnaires dans la limite du cinquième du nombre des titularisations prononcées au titre du présent article, par examen professionnel ouvert :
+2° En application du 1° de l'article 35 du titre IV du statut général des fonctionnaires dans la limite du tiers du nombre des titularisations prononcées au titre du présent article, par examen professionnel ouvert :
 
-a) Aux agents techniques de coordination de l'Assistance publique - hôpitaux de Paris justifiant au moins de cinq ans de services effectifs dans le corps ;
+a) Aux agents techniques de coordination de l'Assistance publique - hôpitaux de Paris.
 
 b) Aux agents techniques, ouvriers d'état, blanchisseurs ouvriers d'état, conducteurs ambulanciers et agents techniques spécialisés de l'Assistance publique - hôpitaux de Paris justifiant au moins de neuf années de services effectifs dans l'un ou plusieurs de ces corps.
