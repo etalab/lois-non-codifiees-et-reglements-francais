@@ -1,7 +1,5 @@
 # Article 29
 
-Pour l'application de la présente loi, les premiers membres des conseils régionaux seront nommés par arrêté du ministre de l'éducation nationale, sur proposition du commissaire du Gouvernement.
+Les géomètres-topographes, les experts agricoles et fonciers et les experts forestiers pourront achever les opérations autorisées en application de l'article 9 de la loi n° 85-1408 du 30 décembre 1985 portant amélioration de la concurrence, qui ont fait l'objet d'une commande avant la date de publication de la loi n° 87-998 du 15 décembre 1987.
 
-Les membres du conseil régional ainsi nommés sont inscrits de droit au tableau de géomètres experts de la circonscription.
-
-Dans chaque circonscription, il sera pourvu au remplacement des membres nommés par des membres élus dans le délai de six mois après la publication du tableau des géomètres experts en ce qui concerne les membres du conseil régional et au plus tard un an après la publication de la présente loi.
+Ceux d'entre eux qui ont demandé à bénéficier des dispositions prévues à l'article 26 pour être inscrits au tableau de l'ordre pourront achever les travaux commandés avant la décision de la commission prévue à l'article 28.
