@@ -8,6 +8,8 @@ Chaque liste a droit à autant de sièges de représentants titulaires que le no
 
 Les sièges de représentants titulaires restant éventuellement à pourvoir sont attribués suivant la règle de la plus forte moyenne.
 
+En cas d'égalité de moyenne entre deux ou plusieurs listes pour l'attribution d'un siège, celui-ci est attribué à la liste ayant obtenu le nombre moyen de voix le plus élevé tel que défini à l'article 37 pour la commission administrative paritaire concernée et, en cas d'égalité du nombre moyen de voix obtenu pour cette commission, à la liste ayant obtenu le plus grand nombre moyen de voix pour l'ensemble des commissions administratives paritaires locales ou départementales. Lorsque le scrutin concerne les élections partielles, ce sont les résultats obtenus lors de la dernière consultation générale qui servent dans ce dernier cas de référence.
+
 2. Répartition par groupes
 
 La liste ayant droit au plus grand nombre de sièges choisit le groupe dans lequel lui est attribué le premier siège auquel elle peut prétendre. Toutefois, ce choix ne doit pas avoir pour effet d'empêcher une autre liste d'obtenir le nombre de sièges auxquels elle a droit dans les groupes pour lesquels elle a présenté des candidats.
@@ -18,7 +20,7 @@ Il est procédé de même pour les sièges restant à pourvoir.
 
 En cas d'égalité du nombre moyen de voix obtenu par plusieurs listes, le choix est exercé dans l'ordre déterminé par le nombre respectif moyen de voix obtenu.
 
-En cas d'égalité de suffrages, l'ordre est déterminé par le nombre moyen de voix obtenu pour l'ensemble des commissions administratives paritaires locales ou départementales et, en cas d'élections partielles, lors de la dernière consultation générale.
+En cas d'égalité du nombre moyen de voix obtenu l'ordre est déterminé par le nombre moyen de voix obtenu pour l'ensemble des commissions administratives paritaires locales ou départementales et, en cas d'élections partielles, lors de la dernière consultation générale.
 
 Lorsque la procédure prévue ci-dessus n'a pas permis à une liste de pourvoir tous les sièges qui lui ont été attribués, ces sièges sont attribués successivement, dans l'ordre décroissant du nombre moyen de voix obtenu, à celles ayant présenté un ou des candidats pour les groupes dont les représentants restent à désigner.
 
@@ -32,4 +34,4 @@ Jusque-là, il est fait application des mêmes règles que celles applicables lo
 
 4. Désignation des représentants titulaires de chaque groupe
 
-Les représentants titulaires sont désignés, dans chaque groupe, dans l'ordre de présentation de la liste.
+Les représentants titulaires sont désignés, dans chaque groupe, dans l'ordre de présentation des listes, en fonction du nombre de sièges qu'elles ont obtenu.

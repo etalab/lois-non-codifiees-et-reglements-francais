@@ -52,11 +52,9 @@ Sous-groupe 1 : agents-chefs de 1re catégorie, agents-chefs de 2e catégorie, c
 
 Sous-groupe 2 : ouvriers professionnels spécialisés, conducteurs d'automobile de 1re catégorie, agents d'amphithéâtre de 2e catégorie, agents de désinfection de 2e catégorie, agents d'entretien qualifiés, conducteurs d'automobile de 2e catégorie, agents d'entretien spécialisés, agents du service intérieur hors catégorie, chauffeurs de basse pression (cadre d'extinction), agents du service intérieur, manoeuvres (cadre d'extinction).
 
-Groupe 2 : Personnels des services de soins,
+Groupe 2 : Personnels des services de soins, des services médico-techniques et des services sociaux
 
-des services médico-techniques et des services sociaux
-
-Sous-groupe 1 : moniteurs d'atelier, aides techniques d'électroradiologie (cadre d'extinction), aides-préparateurs (cadre d'extinction), aides techniques de laboratoire (cadre d'extinction), aides-soignants de classe supérieure, aides-soignants de classe normale, aides-soignants (cadre d'extinction), adjoints d'internat (cadre d'extinction), agents des services hospitaliers qualifiés de 1re catégorie.
+Sous-groupe 1 : moniteurs d'atelier, aides techniques d'électroradiologie (cadre d'extinction), aides-préparateurs (cadre d'extinction), aides techniques de laboratoire (cadre d'extinction), aides-soignants de classe supérieure, aides de laboratoire de classe supérieure, aides de pharmacie de classe supérieure, aide d'électroradiologie de classe supérieure (cadre d'extinction), aides-soignants de classe normale, aides-soignants (cadre d'extinction), adjoints d'internat (cadre d'extinction), agents des services hospitaliers qualifiés de 1re catégorie ;
 
 Sous-groupe 2 : agents des services hospitaliers qualifiés de 2e catégorie, agents des services hospitaliers hors catégorie, aides de pharmacie de classe normale, aides de laboratoire de classe normale, aides d'électroradiologie de classe normale (cadre d'extinction), agents des services hospitaliers.
 
