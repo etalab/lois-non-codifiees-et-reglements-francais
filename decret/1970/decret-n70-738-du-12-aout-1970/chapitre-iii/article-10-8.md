@@ -16,8 +16,6 @@ Du 5e au 6e échelon : 3 ans
 
 Du 6e au 7e échelon : 3 ans
 
-Les promotions prennent effet du jour où les intéressés remplissent les conditions fixées au tableau ci-dessus.
-
 Le recteur prononce, pour chaque année scolaire, les promotions des personnels placés sous son autorité.
 
 Le ministre prononce, pour chaque année scolaire, les promotions des conseillers principaux d'éducation détachés, mis à disposition ou affectés dans un service ou établissement non placé sous l'autorité d'un recteur.
