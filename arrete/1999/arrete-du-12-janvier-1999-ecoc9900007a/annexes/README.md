@@ -1,0 +1,5 @@
+# Annexes
+
+- [MÉTHODE OFFICIELLE DE DOSAGE DE LA VITAMINE B 1 (THIAMINE) DANS LES DENRÉES ET BOISSONS DESTINÉES À L'HOMME](methode-officielle-de-dosage-de-la-vitamine-b-1)
+- [MÉTHODE OFFICIELLE DE DOSAGE DE LA VITAMINE B 2 (RIBOFLAVINE) DANS LES DENRÉES ET BOISSONS DESTINÉES À L'HOMME](methode-officielle-de-dosage-de-la-vitamine-b-2)
+- [MÉTHODE OFFICIELLE DE DOSAGE DE LA VITAMINE B 6 DANS LES DENRÉES ET BOISSONS DESTINÉES À L'HOMME](methode-officielle-de-dosage-de-la-vitamine-b-6)
