@@ -1,0 +1,5 @@
+# Article 11
+
+En cas de naufrage ou d'échouement avec bris, le consul gérera le sauvetage, à moins que le capitaine ne soit muni de pouvoirs spéciaux de l'armateur l'habilitant à cet effet, ou que les intéressés : propriétaires du navire ou de la cargaison, armateurs, assureurs, ou leurs correspondants, ne se trouvent sur place, munis de pouvoirs assurant la représentation de tous les intérêts sans exception, n'acquittent les frais déjà encourus et ne donnent caution pour ceux qui restent à régler.
+
+Le consul prend toutes dispositions utiles à l'égard des personnes victimes du sinistre ou sauvées et en ce qui concerne le navire et la cargaison. Il donne avis du sinistre au ministre chargé de la marine marchande et y joint une expédition du rapport de mer du capitaine, dûment vérifié. Il procède, en outre, à une enquête sur les causes du sinistre et en adresse les procès-verbaux au ministre chargé de la marine marchande, en désignant les ports sur lesquels il a dirigé les marins rapatriés afin qu'ils puissent être soumis à un nouvel interrogatoire lors de leur arrivée en France.
