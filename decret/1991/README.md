@@ -114,6 +114,8 @@
 - [Décret n°91-264 du 6 mars 1991 (INTX9100028D)](decret-n91-264-du-6-mars-1991-intx9100028d)
 - [Décret n°91-267 du 6 mars 1991 (MENX9100038D)](decret-n91-267-du-6-mars-1991-menx9100038d)
 - [Décret n°91-549 du 6 juin 1991 (DEFD9101498D)](decret-n91-549-du-6-juin-1991-defd9101498d)
+- [Décret n°91-879 du 6 septembre 1991 (BUDF9110034D)](decret-n91-879-du-6-septembre-1991-budf9110034d)
+- [Décret n°91-881 du 6 septembre 1991 (EQUS9100699D)](decret-n91-881-du-6-septembre-1991-equs9100699d)
 - [Décret n°92-210 du 6 mars 1992 (PRMZ9205100D)](decret-n92-210-du-6-mars-1992-prmz9205100d)
 - [Décret n°91-424 du 6 mai 1991 (MAEJ9130015D)](decret-n91-424-du-6-mai-1991-maej9130015d)
 - [Décret n°91-425 du 6 mai 1991 (MAEJ9130017D)](decret-n91-425-du-6-mai-1991-maej9130017d)
