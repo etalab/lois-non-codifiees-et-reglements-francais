@@ -1,6 +1,6 @@
 # Article 44
 
-Les praticiens hospitaliers dont la période probatoire a été validée peuvent être autorisés à exercer une activité hebdomadaire réduite, sous réserve des nécessités du service.
+I. - Les praticiens hospitaliers dont la période probatoire a été validée peuvent être autorisés à exercer une activité hebdomadaire réduite, sous réserve des nécessités du service.
 
 L'autorisation est accordée par le directeur de l'établissement après avis de la commission médicale d'établissement.
 
@@ -11,3 +11,7 @@ La durée hebdomadaire de travail peut être ramenée à cinq ou huit demi-journ
 En aucun cas, les intéressés ne peuvent avoir d'activité rémunérée à l'extérieur de l'établissement ; en outre, s'ils exercent une activité libérale dans leur hôpital d'affectation, ils doivent y renoncer.
 
 Ils sont admis à reprendre une activité à temps complet sur simple demande, présentée un mois avant l'expiration de leur période d'activité réduite.
+
+II. - Le praticien hospitalier dont la situation familiale lui permet de bénéficier des dispositions de l'article 43 peut demander le bénéfice des dispositions du I ci-dessus à la place de l'octroi d'un congé parental, dans les mêmes conditions. Dans ce cas, l'activité hebdomadaire réduite est de droit. A l'issue de chaque période de six mois, le bénéficiaire peut opter pour le congé parental ou l'activité hebdomadaire réduite.
+
+L'exercice de l'activité hebdomadaire réduite est également accordé de plein droit au praticien hospitalier pour donner des soins à son conjoint, à un enfant à charge ou à un ascendant, atteint d'un handicap nécessitant la présence d'une tierce personne ou victime d'un accident ou d'une maladie grave. Dans ce cas, le délai pour présenter la demande est ramené à un mois.
