@@ -1,0 +1,7 @@
+# Article 3
+
+Les procédures en cours à la date d'entrée en vigueur du présent décret devant le tribunal pour enfants ou les juges des enfants des tribunaux pour enfants dont le ressort est modifié conformément au tableau annexé au présent décret sont transférées en l'état, respectivement au tribunal pour enfants ou au juge des enfants désormais compétents, sans qu'il y ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement à cette date, à l'exception des convocations, citations et assignations données aux parties et aux témoins à fin de comparution personnelle.
+
+Les informations en cours pour les infractions commises par des mineurs avec ou sans coauteurs ou complices âgés de plus de dix-huit ans, ouvertes par les juges d'instruction des tribunaux de grande instance dans le ressort desquels les tribunaux pour enfants dont le ressort est modifié conformément au tableau annexé au présent décret ont leur siège, sont transférées en l'état aux juges d'instruction des tribunaux de grande instance dans le ressort desquels les tribunaux pour enfants désormais compétents ont leur siège, sans qu'il y ait lieu de renouveler les actes et formalités régulièrement intervenus antérieurement à cette date, à l'exception des convocations données aux parties et aux témoins à fin de comparution personnelle.
+
+Les citations et assignations régulièrement intervenues avant la date d'entrée en vigueur du présent décret produisent leurs effets ordinaires interruptifs de prescription, même si elles n'ont pas été renouvelées.

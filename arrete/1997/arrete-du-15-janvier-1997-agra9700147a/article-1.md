@@ -68,8 +68,6 @@ Chef du service de l'économie agricole de la direction départementale de l'agr
 
 Chef du service de développement agricole de Mayotte ;
 
-Adjoint au directeur départemental de l'agriculture et de la forêt de la Haute-Corse ;
-
 Chef du service équipement rural du Gers ;
 
 Chef du service eaux et forêt, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de l'Oise ;
@@ -158,4 +156,6 @@ Au titre de l'année 2003 :
 
 Chef d'arrondissement de Bayonne à la direction départementale de l'agriculture et de la forêt des Pyrénées-Atlantiques ;
 
-Chef de service de l'espace rural et de l'environnement, chef de la mission interservices de l'eau, à la direction départementale de l'agriculture et de la forêt de l'Aude.
+Chef de service de l'espace rural et de l'environnement, chef de la mission interservices de l'eau, à la direction départementale de l'agriculture et de la forêt de l'Aude ;
+
+Chargé auprès du directeur régional de l'agriculture et de la forêt de Lorraine d'une mission d'analyse et de gestion des établissements publics locaux d'enseignement de la région Lorraine.

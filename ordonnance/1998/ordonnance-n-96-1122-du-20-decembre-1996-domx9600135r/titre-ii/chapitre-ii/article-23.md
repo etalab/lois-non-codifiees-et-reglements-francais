@@ -1,22 +1,16 @@
 # Article 23
 
-I. - La Caisse de prévoyance sociale est administrée par un conseil d'administration de seize membres comprenant :
+I. - La caisse de prévoyance sociale est administrée par un conseil d'administration de vingt membres comprenant :
 
-- cinq représentants des salariés, désignés par les organisations syndicales représentatives selon le code du travail applicable à Mayotte ;
+- huit représentants des assurés sociaux, désignés par les organisations syndicales représentatives selon le code du travail applicable à Mayotte ;
 
-- cinq représentants des entreprises, désignés par les organisations professionnelles locales, dont trois représentants des employeurs, un représentant des travailleurs indépendants et un représentant des exploitants agricoles ;
+- huit représentants des entreprises, désignés par les organisations professionnelles locales, dont quatre représentants des employeurs, deux représentants des travailleurs indépendants et deux représentants des exploitants agricoles ;
 
-- deux représentants des fonctionnaires et agents publics de la collectivité territoriale, désignés par les organisations syndicales représentatives ;
+- quatre personnes qualifiées désignées par le représentant de l'Etat à Mayotte, dont un représentant de l'association des femmes mahoraises et un représentant des retraités.
 
-- un représentant des fonctionnaires métropolitains exerçant leurs fonctions à Mayotte et affiliés à la caisse, désigné par les organisations syndicales représentatives ;
+Siège également avec voix consultative un représentant du personnel élu dans des conditions fixées par décret.
 
-- un représentant désigné par l'Association des femmes mahoraises ;
-
-- deux personnalités qualifiées, dont une désignée par le représentant du Gouvernement à Mayotte et une désignée par le président du conseil général.
-
-Siège également, avec voix consultative, un représentant du personnel élu dans des conditions fixées par décret.
-
-Assiste également aux séances du conseil le représentant du Gouvernement à Mayotte ou son représentant.
+Assiste également aux séances du conseil le représentant de l'Etat à Mayotte ou son représentant.
 
 I bis. - Chaque organisation ayant désigné un ou plusieurs représentants au conseil d'administration de la caisse de prévoyance sociale de Mayotte désigne un nombre égal d'administrateurs suppléants.
 

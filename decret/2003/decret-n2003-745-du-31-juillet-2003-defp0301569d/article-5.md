@@ -1,0 +1,3 @@
+# Article 5
+
+Par dérogation aux dispositions de l'article précédent, les enseignants affectés dans les écoles, établissements d'enseignement et établissements de formation visés à l'article 1er ci-dessus qui, à la date d'effet du présent décret, perçoivent, en application des décrets du 24 avril 1965 susvisé, du 17 septembre 1953 et du 4 novembre 1975 précités, des indemnités dont le montant est supérieur au montant maximal de l'indemnité de fonction peuvent demander à conserver, à titre personnel, le bénéfice de ces indemnités pour le montant qui leur est alloué. Le maintien de ces indemnités est exclusif de l'attribution de l'indemnité de fonction prévue à l'article 1er du présent décret.
