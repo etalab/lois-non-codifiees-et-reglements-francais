@@ -1,0 +1,5 @@
+# Article 2
+
+Dans les conditions fixées, notamment, aux articles 18, 34 et 81 du décret du 29 avril 2004 susvisé, le directeur du service de l'aviation civile de l'océan Indien est placé sous l'autorité du préfet de la région et du département de la Réunion, du préfet de Mayotte, de l'administrateur supérieur des Terres australes et antarctiques françaises ainsi que du délégué du Gouvernement pour l'administration des îles Eparses de l'océan Indien, sauf lorsqu'il exerce un pouvoir propre, agit en vertu d'une délégation de signature d'un ministre ou instruit une décision qui doit être prise par décret ou par arrêté du ministre chargé de l'aviation civile agissant seul ou conjointement avec un ou plusieurs autres ministres, notamment pour le contrôle ou la surveillance des opérateurs de l'aviation civile.
+
+Le directeur du service de l'aviation civile de l'océan Indien participe, dans le cadre d'instructions du directeur général de l'aviation civile, aux réunions ou conférences intéressant l'aviation civile internationale dans la région.

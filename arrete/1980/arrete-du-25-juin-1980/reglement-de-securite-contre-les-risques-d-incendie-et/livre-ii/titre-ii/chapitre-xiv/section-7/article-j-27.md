@@ -1,7 +1,5 @@
 # Article J 27
 
-Appareils installés dans les chambres
+Appareils installés dans les chambres ou les appartements
 
-ou appartements
-
-A l'intérieur des chambres ou appartements, y compris les chambres ou locaux destinés au personnel, les appareils à combustible liquide (ou à alcool solidifié), solide ou gazeux sont interdits.
+Sont seuls autorisés à l'intérieur des chambres ou des appartements les appareils électriques ; dans les chambres, la puissance totale de ces appareils est limitée à 3,5 kW.

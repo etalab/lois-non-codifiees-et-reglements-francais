@@ -1,225 +1,287 @@
 # Article 4
 
-Les emplois ouvrant droit à la perception du complément fonctionnel de la prime mensuelle d'activité sont classés, dans l'un des neuf niveaux prévus à l'article 2, comme suit :
+Les emplois ouvrant droit à la perception du complément fonctionnel de la prime mensuelle d'activité sont classés dans l'un des six niveaux prévus à l'article 2, comme suit :
 
-1o Au niveau 1 :
+Au niveau 1 :
 
-- les ingénieurs d'étude ;
+- les ingénieurs chargés d'études ;
 
 - les assistants de subdivision ;
 
-2o Au niveau 2 :
+- les adjoints au chef circulation aérienne des organismes de contrôle figurant dans la liste 3 de l'arrêté du 2 août 2002 modifié fixant le classement en listes des organismes de contrôle de la circulation aérienne ;
 
-- les chargés de projet ou d'affaire ;
+- les chefs circulation aérienne des organismes de contrôle figurant dans les listes 5 et 6 de l'arrêté du 2 août 2002 précité.
 
-- les enquêteurs du bureau enquêtes-accidents ;
+Au niveau 2 :
 
-- les chefs de subdivision en fonction dans les directions de l'aviation civile, à la direction régionale Antilles-Guyane, dans les services d'Etat de l'aviation civile outre-mer, dans les aérodromes de Nantes, Marseille, Nice, Montpellier, Lille, Bâle-Mulhouse, Fort-de-France et Pointe-à-Pitre et au centre d'exploitation des systèmes de la navigation aérienne centraux ;
+- les enquêteurs du bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile (BEA) ;
 
-- les chefs de division en fonction dans les centres du service d'exploitation de la formation aéronautique de Saint-Yan, Montpellier et Carcassonne-Castelnaudary et au service de l'aviation civile de la Réunion, à l'exception de l'emploi de chef de division transport aérien mentionné au niveau 3 ;
+- les chargés d'affaires ;
 
-- les adjoints au chef de division en fonction dans les directions de l'aviation civile, à la direction régionale de l'aviation civile Antilles-Guyane et dans les services d'Etat de l'aviation civile outre-mer ;
+- les coordonnateurs "formation à la direction du contrôle et de la sécurité (DCS) et dans les centres en route de la navigation aérienne (CRNA) ;
 
-- les ingénieurs de tutelle du transport aérien en fonction dans les directions de l'aviation civile, à la direction régionale de l'aviation civile Antilles-Guyane et dans les services d'Etat de l'aviation civile outre-mer ;
+- les chargés de projet ;
 
-- les directeurs des aérodromes d'Agen, Avignon, Bergerac, Béziers, Calvi, Cannes, Dinard, Figari, La Rochelle, La Tontouta, Mayotte, Melun, Pontoise, Quimper, Rouen, Saint-Yan et Toussus-le-Noble ;
+- les adjoints au chef des services "aviation générale et "Le Bourget du service de la navigation aérienne (SNA) région parisienne ;
 
-- l'adjoint au chef de district-directeur d'aérodrome pour les aérodromes siège d'un district de Cayenne et Rennes ;
+- les chefs de la maintenance régionale des SNA ;
 
-- les adjoints au directeur d'aérodrome des aérodromes d'Ajaccio, Bastia, Biarritz, Pau, Perpignan et Tarbes ;
+- les chefs de subdivision des organismes figurant dans la liste 2 de l'arrêté du 2 août 2002 précité, des SNA océan Indien et Antilles-Guyane, du service d'exploitation et de la formation aéronautique (SEFA), du centre d'exploitation, de développement et d'études du réseau informatique de gestion (CEDRe), dans les directions de l'aviation civile (DAC), dans les délégations sises aux aérodromes figurant dans la liste 1 de l'arrêté du 2 août 2002 précité et à la DAC Antilles-Guyane ;
 
-- l'adjoint au chef de service au service aviation générale de l'établissement public Aéroports de Paris et au service circulation aérienne de l'aérodrome de Paris-Le Bourget ;
+- l'adjoint au directeur de l'aérodrome de Nouméa-La Tontouta ;
 
-- les chargés d'enseignement à l'Ecole nationale de l'aviation civile ;
+- les adjoints au chef des organismes de contrôle d'Ajaccio et de Bastia ;
 
-- les adjoints auprès des délégués de l'Ecole nationale de l'aviation civile.
+- les chefs circulation aérienne des organismes de contrôle figurant dans la liste 3 de l'arrêté du 2 août 2002 précité ;
 
-3o Au niveau 3 :
+- les adjoints aux délégués de l'Ecole nationale de l'aviation civile (ENAC) ;
+
+- les chargés d'enseignement à l'ENAC ;
+
+- les adjoints au chef des délégations sises aux aérodromes figurant dans la liste 2 de l'arrêté du 2 août 2002 précité ;
+
+- les adjoints au chef de division dans les DAC ;
+
+- les ingénieurs de tutelle du transport aérien dans les DAC.
+
+Au niveau 3 :
+
+- les chefs de groupe d'enquête au BEA ;
 
 - les chefs de programme ;
 
-- les chefs de groupe enquêtes au bureau enquêtes-accidents ;
+- les adjoints au chef de bureau, à l'exception de ceux classés au niveau 4 ci-dessous ;
 
-- les adjoints au chef de bureau à l'exception des emplois mentionnés aux niveaux 4 et 7 ci-dessous ;
+- le chef de la division de l'observatoire du transport aérien à la direction de la régulation économique (DRE) ;
 
-- les chefs de division en fonction à l'administration centrale à l'exception des emplois mentionnés aux niveaux 4 et 7 ci-dessous, au centre d'exploitation, de développement et d'études du réseau informatique de gestion, au centre d'exploitation des systèmes de la navigation aérienne centraux, à l'inspection générale de l'aviation civile et de la météorologie, au service de l'information aéronautique, au siège du service d'exploitation de la formation aéronautique ainsi que ceux en fonction dans les directions de l'aviation civile, à la direction régionale de l'aviation civile Antilles-Guyane, dans les services d'Etat de l'aviation civile outre-mer et dans les aérodromes de Bâle-Mulhouse, Fort-de-France, Lille, Marseille, Montpellier, Nantes, Nice et Pointe-à-Pitre à l'exception des emplois de chef de division transport aérien, de chef de division circulation aérienne et de chef de division technique mentionnés au niveau 4 ;
+- les contrôleurs à la DCS ;
 
-- le chef de la division transport aérien du service de l'aviation civile de la Réunion ;
+- les chargés de communication à la DCS et à la direction des techniques et de l'innovation (DSNA/DTI) de la direction des services de la navigation aérienne (DSNA) ;
 
-- les adjoints au chef de division en fonction dans les divisions du centre d'études de la navigation aérienne et du service technique de la navigation aérienne ;
+- les chefs de subdivision du service technique de l'aviation civile (STAC), de la sous-direction des systèmes opérationnels (DTI/SDSO) de la DSNA, de l'échelon central de la direction des opérations (DSNA/DO) de la DSNA, du service de l'information aéronautique (DO/SIA), du centre d'exploitation des systèmes de navigation aérienne centraux (DO/CESNAC), des CRNA, de l'ENAC, de l'organisme d'Orly/aviation générale et des SNA, à l'exception des SNA océan Indien et Antilles-Guyane ;
 
-- l'adjoint au chef de district-directeur d'aérodrome pour les aérodromes siège des districts suivants : Clermont-Ferrand, Fort-de-France, Lille, Montpellier, Nantes et Pointe-à-Pitre ;
+- les adjoints au chef de division de la DSNA/DTI ;
 
-- l'adjoint au chef de district Corse ;
+- les chefs de bureau exécutif permanent des CRNA ;
 
-- l'adjoint au directeur de l'aérodrome de Bâle-Mulhouse ;
+- les chefs des organismes de contrôle d'Ajaccio et de Bastia ;
 
-- les directeurs des aérodromes de Chambéry, Grenoble, Rodez et Saint-Etienne ;
+- le directeur de l'aérodrome de Nouméa-La Tontouta ;
 
-- les chefs de bureau exécutif permanent dans les services déconcentrés de l'aviation civile ;
+- le chef du service de l'aviation civile (SAC) de Nouvelle-Calédonie ;
 
-- les chefs subdivision en fonction au service du contrôle du trafic aérien, au service technique de la navigation aérienne, au service technique des bases aériennes, dans les centres en route de la navigation aérienne, à l'établissement public Aéroports de Paris et à l'Ecole nationale de l'aviation civile ;
+- les adjoints au chef de département de l'ENAC et du CEDRe ;
 
-- les adjoints au chef de service dans les centres en route de la navigation aérienne et dans les services relevant de l'établissement public Aéroports de Paris à l'exception des emplois mentionnés au niveau 2 ;
+- les inspecteurs des études de l'ENAC ;
 
-- le chef de centre pour les centres du service d'exploitation de la formation aéronautique de Saint-Auban et de Biscarosse ;
+- les chefs de laboratoire de recherche de l'ENAC ;
 
-- les conseillers techniques auprès du directeur général de l'aviation civile ;
+- le responsable du schéma directeur informatique de l'ENAC ;
 
-- le délégué de l'aviation civile pour les îles Wallis et Futuna ;
+- le contrôleur de gestion du SEFA ;
 
-- les inspecteurs des études à l'Ecole nationale de l'aviation civile ;
+- le responsable instruction sol du SEFA ;
 
-- l'adjoint au chef de département dans les départements de l'Ecole nationale de l'aviation civile ;
+- les chefs de division des aérodromes figurant dans la liste 2 de l'arrêté du 2 août 2002 précité, du SEFA, du CEDRe, des DAC, des délégations de la Guadeloupe et de la Martinique, des délégations sises aux aérodromes figurant dans la liste 1 de l'arrêté du 2 août 2002 précité et des services d'Etat de l'aviation civile (SEAC) ;
 
-4o Au niveau 4 :
+- les adjoints au chef des délégations sises aux aérodromes figurant dans la liste 1 de l'arrêté du 2 août 2002 précité et de la délégation Corse ;
 
-- les chefs de division des bureaux organisation et programmes, réglementation, développement et personnel technique de la direction de la navigation aérienne, du bureau des grandes compagnies aériennes de la direction des transports aériens, du bureau de la gestion prévisionnelle, de la réglementation et du dialogue social de la sous-direction des personnels, du bureau de la gestion des aéroports du service des bases aériennes, du bureau enquêtes-accidents, du service du contrôle du trafic aérien, du service technique de la navigation aérienne, du centre d'études de la navigation aérienne, des divisions transport aérien des directions de l'aviation civile, de la direction régionale Antilles-Guyane, des services d'Etat de l'aviation civile outre-mer, de la division circulation aérienne pour les directions de l'aviation civile centre-est, nord-est, sud et sud-ouest et de la division technique pour les directions de l'aviation civile sud et sud-ouest ;
+- les coordonnateurs qualité des DAC ;
 
-- l'adjoint au chef de bureau des bureaux organisation et programmes, réglementation, développement et personnel technique de la direction de la navigation aérienne, du bureau des grandes compagnies aériennes de la direction des transports aériens, du bureau de la gestion prévisionnelle, de la réglementation et du dialogue social de la sous-direction des personnels, du bureau de la gestion des aéroports du service des bases aériennes et du bureau de la navigabilité des avions de transports du service de la formation aéronautique et du contrôle technique ;
+- les délégués ;
 
-- les chefs d'équipe internationale de certification du service de la formation aéronautique et du contrôle technique ;
+- le délégué de l'aviation civile des îles Wallis et Futuna ;
 
-- l'adjoint au chef de la mission aviation légère du service de la formation aéronautique et du contrôle technique ;
+- les coordonnateurs formation de la DSNA/DTI ;
 
-- les adjoints au chef de département au service du contrôle du trafic aérien, au service technique de la navigation aérienne et au centre d'études de la navigation aérienne ;
+- le chef "système de management de la qualité et de la sécurité du SNA océan Indien.
 
-- les chefs de département du service de l'information aéronautique et du centre d'exploitation, de développement et d'études du réseau informatique de gestion ;
+Au niveau 4 :
 
-- les chefs de centre des centres du service de l'exploitation de la formation aéronautique de Carcassonne-Castelnaudary, Grenoble, Montpellier, Melun, Muret, Saint-Yan ;
+- les chefs de division du BEA, de la DSNA, à l'exception des chefs de divisions dans les aérodromes figurant dans la liste 2 de l'arrêté du 2 août 2002 précité, du service technique de l'aviation civile (STAC), au DO/SIA et au DO/CESNAC ;
 
-- les directeurs des aérodromes d'Ajaccio, Bastia, Biarritz, Pau, Perpignan et Tarbes ;
+- les chefs des divisions "transport aérien ou "contrôle technique des DAC et du SEAC en Polynésie française ;
 
-- les chefs de district à l'exception de l'emploi mentionné au niveau 5 ci-dessous ;
+- le chef de la division "surveillance et régulation du service de l'aviation civile (SAC) océan Indien ;
 
-- l'adjoint au chef de district-directeur de l'aérodrome de Nice ;
+- l'adjoint au chef de la mission aviation légère de la direction des affaires stratégiques et techniques (DAST) ;
 
-- les chefs de service des services suivants : service de l'aviation civile de Saint-Pierre-et-Miquelon, service circulation aérienne de l'aérodrome de Paris-Le Bourget et service aviation générale de l'établissement public Aéroports de Paris ;
+- les chefs d'équipe internationale de certification de la DCS ;
 
-- le conseiller du directeur des opérations aériennes de l'établissement public Aéroports de Paris ;
+- le chargé de mission "matières dangereuses de la DCS ;
 
-- les chefs de cabinet en fonction dans les directions de l'aviation civile, à la direction régionale Antilles-Guyane et dans les services d'Etat de l'aviation civile outre-mer ;
+- le chef de l'unité PACF (Galiléo) de la DTI/SDSO ;
 
-- les délégués en fonction à l'Ecole nationale de l'aviation civile ;
+- les adjoints aux chefs de département de la DSNA ;
 
-- le contrôleur de gestion de l'Ecole nationale de l'aviation civile.
+- l'adjoint au chef du DO/SIA et du DO/CESNAC ;
 
-5o Au niveau 5 :
+- les adjoints aux chefs du service "exploitation et du service "technique des CRNA ;
 
-- les chefs de bureau en administration centrale, à l'exception des emplois mentionnés aux niveaux 6 et 9 ci-dessous ;
+- les chefs des services "aviation générale et "circulation aérienne Le Bourget du SNA région parisienne ;
 
-- les adjoints au chef de mission en administration centrale ;
+- les adjoints au chef des services "techniques et "exploitation des SNA et de l'organisme d'Orly/aviation générale ;
 
-- les adjoints au chef de division au service de la formation aéronautique et du contrôle technique ;
+- le chef du SNA océan Indien ;
 
-- les chefs d'équipe internationale principale de certification du service de la formation aéronautique et du contrôle technique ;
+- le chef du centre de contrôle de Cayenne-Rochambeau ;
 
-- les enquêteurs principaux du bureau enquêtes-accidents ;
+- les chefs de la division "technique et de la division "circulation aérienne du SNA Antilles-Guyane ;
 
-- les directeurs de programme au service technique de la navigation aérienne, à l'exception de l'emploi mentionné au niveau 6 ;
+- les adjoints aux chefs de mission de la DSNA ;
 
-- les chefs de département au service du contrôle du trafic aérien et au service technique de la navigation aérienne, à l'exception des emplois mentionnés au niveau 6, au bureau enquêtes-accidents, au Centre d'études de la navigation aérienne, au service technique des bases aériennes, au siège du service d'exploitation de la formation aéronautique, dans les directions de l'aviation civile, à la direction régionale Antilles-Guyane et à l'Ecole nationale de l'aviation civile ;
+- le chargé de mission auprès du secrétaire général de la direction générale de l'aviation civile ;
 
-- l'adjoint au chef de service du service de l'information aéronautique et du service de l'exploitation de la formation aéronautique ;
+- l'adjoint au directeur du projet "système informatique ressources humaines du secrétariat général de la direction générale de l'aviation civile ;
 
-- le chef du service de l'aviation civile de la Réunion ;
+- le conseiller technique du directeur général de l'aviation civile ;
 
-- le chef de service navigation aérienne dans les services d'Etat de l'aviation civile outre-mer et à l'aérodrome de Marseille ;
+- les adjoints aux chefs de certains bureaux dont la liste est fixée par arrêté du ministre chargé de l'aviation civile ;
 
-- les chefs de service des centres en route de la navigation aérienne et de l'établissement public Aéroports de Paris, à l'exception des emplois mentionnés au niveau 4 ;
+- le contrôleur de gestion de l'ENAC ;
 
-- l'adjoint au chef de centre dans les centres en route de la navigation aérienne ;
+- les délégués de l'ENAC ;
 
-- le chef du centre d'exploitation des systèmes de la navigation aérienne centraux ;
+- le responsable "grands travaux de l'ENAC ;
 
-- le chef de district-directeur d'aérodrome pour les aérodromes siège d'un district suivants : Clermont-Ferrand, Fort-de-France, Lille, Montpellier, Nantes et Pointe-à-Pitre ;
+- les chefs de centre du SEFA ;
 
-- le chef de district Corse ;
+- le responsable qualité du SEFA ;
 
-- le directeur de l'aérodrome de Bâle-Mulhouse ;
+- l'adjoint au chef du SAC océan Indien.
 
-- le conseiller du chef de service au service du contrôle du trafic aérien et au Centre d'études de la navigation aérienne ;
+- les chefs de cabinet dans les DAC ;
 
-- l'adjoint au directeur des études de l'Ecole nationale de l'aviation civile ;
+- les chefs des délégations, à l'exception de ceux mentionnés au niveau 5 ci-dessous ;
 
-6o Au niveau 6 :
+- le chef de la délégation de Mayotte ;
 
-- les chefs de bureau des bureaux organisation et programmes, réglementation, développement et personnel technique de la direction de la navigation aérienne, du bureau études, recherches et équipements de la direction des programmes aéronautiques civils, du bureau des grandes compagnies aériennes de la direction des transports aériens, du bureau de la gestion prévisionnelle, de la réglementation et du dialogue social de la sous-direction des personnels, du bureau de la gestion des aéroports du service des bases aériennes et du bureau de la navigabilité des avions de transports du service de la formation aéronautique et du contrôle technique ;
+- le chef du SAC Saint-Pierre-et-Miquelon ;
 
-- le chef du centre d'exploitation, de développement et d'études du réseau informatique de gestion ;
+- le chef de la mission "aéroport Grand Ouest ;
 
-- le chef de cabinet du directeur général de l'aviation civile ;
+- le chef de la délégation Martinique-Guyane ;
 
-- les chargés de corps ;
+- le chef du service "transport aérien du SEAC Nouvelle-Calédonie ;
 
-- le chef de la mission aviation légère du service de la formation aéronautique et du contrôle technique ;
+- les chefs du "système de management de la qualité et de la sécurité de la DSNA/DTI, des CRNA et des SNA, à l'exception du SNA océan Indien ;
 
-- l'adjoint au chef du Centre d'études de la navigation aérienne ;
+- les chefs de certains bureaux dont la liste est fixée par arrêté du ministre chargé de l'aviation civile.
 
-- le chef de département au département gestion du trafic aérien du service du contrôle du trafic aérien et au département applications cautra du service technique de la navigation aérienne ;
+Au niveau 5 :
 
-- le directeur du programme visualisation au service technique de la navigation aérienne ;
+- les chefs de département et les enquêteurs principaux du BEA ;
 
-- le chef de district-directeur d'aérodrome pour les aérodromes de Marseille et Nice ;
+- les chefs de bureau, à l'exception de ceux mentionnés au niveau 4 ci-dessus ;
 
-- les chefs de centre en route de la navigation aérienne ;
+- le chef de la mission "aviation légère de la DAST ;
 
-- l'adjoint au directeur des opérations aériennes de l'établissement public Aéroports de Paris ;
+- les chefs d'équipe internationale principale de certification de la DCS ;
 
-- le directeur des études de l'Ecole nationale de l'aviation civile ;
+- le chargé de mission de la coordination des affaires internationales de la DCS ;
 
-- le secrétaire général de l'Ecole nationale de l'aviation civile ;
+- les chefs de département du groupement pour la sécurité de l'aviation civile ;
 
-7o Au niveau 7 :
+- les adjoints aux sous-directeurs de la DCS ;
 
-- les chargés de sous-direction en administration centrale ;
+- les chefs de département du STAC, de la DSNA/DTI et de la DSNA/DO, à l'exception du chef du département administration de la DSNA/DO et du chef du département administration de la DSNA/DTI classé au niveau 6 ci-dessous ;
 
-- les chefs de mission en administration centrale, à l'exception de l'emploi de chef de mission mentionné au niveau 8 ;
+- les conseillers du directeur de la DSNA/DTI ;
 
-- les chefs de division au service de la formation aéronautique et du contrôle technique ;
+- le chef de l'antenne "aéroport de la région parisienne ;
 
-- les adjoints au directeur dans les directions de l'administration centrale ;
+- les directeurs de programme de la DTI ;
 
-- les adjoints au chef de service dans les services de l'administration centrale ;
+- le chargé de mission, chef du "système de management de la qualité et de la sécurité de la DSNA/DO ;
 
-- les conseillers du directeur dans les directions et services de l'administration centrale ;
+- le chargé de mission "contrôle de gestion de la DSNA ;
 
-- le chef du centre d'études de la navigation aérienne, du service de l'information aéronautique, du service technique des bases aériennes et du service d'exploitation de la formation aéronautique ;
+- les adjoints aux chefs des CRNA ;
 
-- l'adjoint au chef de service au service du contrôle du trafic aérien et au service technique de la navigation aérienne ;
+- les chefs des services administration des CRNA ;
 
-- l'adjoint au chef du bureau enquêtes-accidents ;
+- le chef du service administratif du SNA région parisienne ;
 
-- les directeurs de l'aviation civile ;
+- l'adjoint au chef du SNA région parisienne ;
 
-- le directeur régional de l'aviation civile Antilles-Guyane ;
+- les chefs des organismes figurant en liste 2 de l'arrêté du 2 août 2002 précité ;
 
-- les chefs de service d'Etat de l'aviation civile outre-mer ;
+- les chefs des services "exploitation et "technique des SNA, des CRNA et de l'organisme d'Orly/aviation générale ;
 
-- les ingénieurs généraux de l'aviation civile en fonction à l'inspection générale de l'aviation civile et de la météorologie ;
+- le chef du SNA Polynésie française ;
 
-8o Au niveau 8 :
+- l'adjoint au sous-directeur de la modernisation, de l'informatique de gestion et de la formation du secrétariat général de la direction générale de l'aviation civile ;
 
-- les chargés de mission auprès du directeur général de l'aviation civile ;
+- les adjoints au contrôleur financier central de la direction générale de l'aviation civile ;
 
-- le chef de la mission sûreté ;
+- le chargé de mission au cabinet du directeur général de l'aviation civile ;
 
-- le secrétaire général de l'inspection générale de l'aviation civile et de la météorologie ;
+- les chefs de département de l'ENAC, du SEFA, du CEDRe et des DAC ;
 
-- les chefs de section à l'inspection générale de l'aviation civile et de la météorologie ;
+- l'adjoint au chef du SEFA ;
 
-- le chef de service du service du contrôle du trafic aérien et du service technique de la navigation aérienne ;
+- le secrétaire général du CEDRe ;
 
-- le directeur de l'Ecole nationale de l'aviation civile ;
+- le chef des délégations Languedoc-Roussillon, Côte d'Azur, Corse, Pays de la Loire et Guadeloupe ;
 
-9o Au niveau 9 :
+- le chef du SAC océan Indien ;
 
-- les chargés de direction ou de service en administration centrale ;
+- le directeur financier de l'établissement public Météo-France ;
 
-- l'adjoint au directeur général de l'aviation civile ;
+- le chef du département des affaires juridiques de l'établissement public Météo-France ;
 
-- le conseiller du directeur général de l'aviation civile ;
+- le chef du département administratif de la direction de la production de l'établissement public Météo-France ;
 
-- le chef du bureau enquêtes-accidents ;
+- le secrétaire général de l'Ecole nationale de la météorologie ;
 
-- le chef de l'inspection générale de l'aviation civile et de la météorologie.
+- le chef du département administratif du Centre national de recherches météorologiques ;
+
+- le chef du département administratif de la direction des systèmes d'observation de l'établissement public Météo-France ;
+
+- le chargé de mission "gestion prévisionnelle des emplois et des compétences et politique de formation de l'établissement public Météo-France.
+
+Au niveau 6 :
+
+- le chef du service de gestion des taxes aéroportuaires ;
+
+- le chef du département administration de la DSNA/DTI ;
+
+- l'adjoint au chef du BEA ;
+
+- l'adjoint au sous-directeur des affaires juridiques du secrétariat général ;
+
+- l'adjoint au chef de la division du travail et des affaires sociales de la DRE ;
+
+- le secrétaire général du BEA ;
+
+- le directeur de la logistique et des contrats de l'établissement public Météo-France ;
+
+- l'adjoint au directeur des ressources humaines de l'établissement public Météo-France ;
+
+- le chef du DO/SIA ;
+
+- le chef du DO/CESNAC ;
+
+- le secrétaire général de la DSNA/DO ;
+
+- les chefs des CRNA ;
+
+- les chefs des SNA, à l'exception des SNA océan Indien, Polynésie française et Nouvelle-Calédonie ;
+
+- le chef de l'organisme d'Orly/aviation générale ;
+
+- les chefs de mission de la DSNA ;
+
+- le chargé de corps des ingénieurs des études et de l'exploitation de l'aviation civile ;
+
+- le chargé de corps des attachés d'administration de l'aviation civile ;
+
+- le conseiller du secrétaire général de la direction générale de l'aviation civile ;
+
+- le directeur du projet "système informatique des ressources humaines ;
+
+- le secrétaire général de 1'ENAC ;
+
+- le chef du CEDRe.
+
+civile et de la météorologie.

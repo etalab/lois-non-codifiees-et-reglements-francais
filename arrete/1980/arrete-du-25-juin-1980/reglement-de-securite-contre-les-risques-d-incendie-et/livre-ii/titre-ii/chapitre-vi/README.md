@@ -7,5 +7,5 @@
 - [Section 6 : Chauffage. - Ventilation](section-6)
 - [Section 7 : Installations électriques](section-7)
 - [Section 8 : Eclairage](section-8)
-- [Section 9 : Cuisines](section-9)
+- [Section 9 : Appareils de cuisson et de remise en température](section-9)
 - [Section 10 : Moyens de secours](section-10)

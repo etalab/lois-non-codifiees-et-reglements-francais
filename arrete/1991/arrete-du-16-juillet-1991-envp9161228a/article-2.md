@@ -14,6 +14,6 @@ Trois types de décharges relevant de la rubrique n° 167 sont considérés :
 
 - les décharges de classe 2 ;
 
-- les décharges de sables à très faible teneur en phénols, dont les caractéristiques sont définies au titre II du présent arrêté.
+- les installations de stockage de déchets industriels inertes provenant d'installations classées.
 
 Les décharges de classe 1 et de classe 2 ont leurs caractéristiques définies dans l'instruction technique du 22 janvier 1980  (Journal officiel du 21 février 1980).
