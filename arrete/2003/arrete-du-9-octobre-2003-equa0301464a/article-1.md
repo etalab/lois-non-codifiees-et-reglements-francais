@@ -1,0 +1,3 @@
+# Article 1
+
+Le présent arrêté est applicable, sous réserve des dispositions de l'article 2 du décret du 29 avril 2002 susvisé, aux agents titulaires et non titulaires travaillant en horaires de bureau, au sens de l'arrêté du 12 septembre 2001 relatif à l'aménagement et à la réduction du temps de travail des services travaillant en horaires de bureau à la direction générale de l'aviation civile, à l'inspection générale de l'aviation civile et de la météorologie, au bureau enquêtes-accidents et à l'Ecole nationale de l'aviation civile susvisé, à la direction générale de l'aviation civile, à l'inspection générale de l'aviation civile et de la météorologie, au bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile et à l'Ecole nationale de l'aviation civile.
