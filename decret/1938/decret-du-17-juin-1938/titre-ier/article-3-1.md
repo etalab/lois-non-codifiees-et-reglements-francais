@@ -1,6 +1,6 @@
 # Article 3-1
 
-I. - Nonobstant les dispositions de l'article 3 ci-dessus, le marin propriétaire pour la totalité d'un bateau d'une longueur hors tout inférieure ou égale à vingt-cinq mètres, armé à la petite pêche, à la pêche côtière, à la pêche au large, aux cultures marines ou à la navigation côtière, est exonéré dès le jour du débarquement de toutes charges autres que le rapatriement à l'égard des marins blessés ou malades appartenant à l'équipage du bateau sur lequel il est lui-même embarqué.
+I. - Nonobstant les dispositions de l'article 3 ci-dessus, le marin propriétaire pour la totalité d'un bateau d'une longueur hors tout inférieure ou égale à vingt-cinq mètres, armé à la petite pêche, à la pêche côtière, à la pêche au large, aux cultures marines, à la navigation côtière ou au pilotage, est exonéré dès le jour du débarquement de toutes charges autres que le rapatriement à l'égard des marins blessés ou malades appartenant à l'équipage du bateau sur lequel il est lui-même embarqué.
 
 II. - Les marins copropriétaires pour la totalité d'un seul bateau bénéficient des dispositions ci-dessus à condition d'être tous embarqués sur le bateau dont ils sont copropriétaires.
 
