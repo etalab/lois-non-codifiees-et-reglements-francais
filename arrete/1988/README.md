@@ -437,6 +437,7 @@
 - [Arrêté du 20 juin 1988 (FAMD8800904A)](arrete-du-20-juin-1988-famd8800904a)
 - [Arrêté du 20 juin 1988 (FAMD8800905A)](arrete-du-20-juin-1988-famd8800905a)
 - [Arrêté du 20 juin 1988 (SPSS8800898A)](arrete-du-20-juin-1988-spss8800898a)
+- [Arrêté du 20 novembre 1988 (AGRR8802096A)](arrete-du-20-novembre-1988-agrr8802096a)
 - [Arrêté du 20 septembre 1988 (ECOM8800243A)](arrete-du-20-septembre-1988-ecom8800243a)
 - [Arrêté du 20 septembre 1988 (ECOM8800247A)](arrete-du-20-septembre-1988-ecom8800247a)
 - [Arrêté du 20 septembre 1988 (MENL8801322A)](arrete-du-20-septembre-1988-menl8801322a)

@@ -6,17 +6,11 @@ la liste des diplômes d'études spécialisées complémentaires de médecine, a
 
 - chirurgie cervico-maxillo-faciale ;
 
-- chirurgie pelvienne féminine ;
-
-- chirurgie des vaisseaux périphériques ;
-
-- explorations fonctionnelles neurosensorielles ;
-
 - gériatrie ;
 
 - hémobiologie-transfusion ;
 
-- immunopathologie ;
+- immunologie et immunopathologie ;
 
 - médecine de la reproduction et gynécologie médicale ;
 
