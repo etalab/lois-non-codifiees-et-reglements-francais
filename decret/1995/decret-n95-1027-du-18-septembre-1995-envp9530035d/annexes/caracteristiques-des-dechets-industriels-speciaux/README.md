@@ -1,3 +1,0 @@
-# CARACTÉRISTIQUES DES DÉCHETS INDUSTRIELS SPÉCIAUX.
-
-- [Article ANNEXE](article-annexe.md)
