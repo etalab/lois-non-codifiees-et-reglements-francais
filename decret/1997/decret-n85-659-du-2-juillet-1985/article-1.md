@@ -10,7 +10,7 @@ Le service de l'information et de la communication ;
 
 La direction de l'habitat et de la construction ;
 
-La direction de l'architecture et de l'urbanisme ;
+La direction de l'aménagement foncier et de l'urbanisme ;
 
 La direction des affaires économiques et internationales ;
 
