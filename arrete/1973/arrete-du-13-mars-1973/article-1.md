@@ -1,21 +1,17 @@
 # Article 1
 
-Pour l'application de l'article 1er du décret n° 73-300 du 13 mars 1973, est considéré comme effectué à mi-temps [*définition*] un service hebdomadaire d'une durée au moins égale à la moitié de la durée requise des agents exerçant à temps plein les mêmes fonctions.
+Les caisses de mutualité sociale agricole sont autorisées, en application de l'article 6 du décret n° 71-550 du 21 juin 1971 susvisé, à effectuer les placements suivants :
 
-Les agents peuvent être autorisés à exercer des fonctions à mi-temps dans les cas suivants :
+1° Valeurs d'Etat ou jouissant de la garantie de l'Etat ;
 
-a) Pour élever un ou plusieurs enfants à charge de moins de seize ans.
+2° Bons du Trésor ;
 
-b) Pour soigner un enfant atteint d'une infirmité exigeant des soins continus ;
+3° Obligations et titres participatifs inscrits à la cote officielle d'une bourse française de valeurs ou en instance d'inscription ;
 
-c) Pour assister le conjoint, un ascendant ou un enfant de l'agent ou de son conjoint si leur état nécessite, à la suite d'un accident ou d'une maladie grave, la présence d'une tierce personne ;
+4° Actions des sociétés d'investissement à capital variable et parts ) de fonds communs de placement visés au titre Ier de la loi n° 79-594 du 13 juillet 1979 relative aux fonds communs de placement ;
 
-d) Sur avis conforme du comité médical, pour les agents auxquels a été reconnu un taux d'invalidité d'au moins 85 p. 100 [*pourcentage*] ouvrant droit à une pension militaire d'invalidité ou bénéficiaire de l'allocation temporaire d'invalidité prévue au premier alinéa de l'article 6 de la loi n° 61-1393 du 20 décembre 1961, modifié par l'article 6 de la loi n° 69-1137 du 20 décembre 1969, et résultant d'une incapacité permanente d'au moins 50 p. 100 ;
+5° Billets de trésorerie, à mois de quarante-cinq jours, régis par l'article 32 de la loi du 14 décembre 1985 susvisée ;
 
-e) Agents pour lesquels, en raison d'un accident ou d'une maladie grave, le comité médical a émis un avis favorable à l'exercice d'une fonction à mi-temps.
+6° Certificats de dépôts régis par l'article 35 de la loi n° 85-1321 du 14 décembre 1985 susvisée ;
 
-f) Agents auxquels la commission technique d'orientation et de reclassement professionnel prévue par la loi d'orientation n° 75-534 du 30 juin 1975 a reconnu la qualité de personne handicapée ;
-
-g) Agents se trouvant dans la période de cinq ans précédant la limite d'âge de leur emploi.
-
-En outre, des arrêtés du ministre de l'intérieur fixeront dans quelles conditions et pour quelle période les maires pourront autoriser les titulaires de certains emplois communaux à exercer leurs fonctions à mi-temps, indépendamment des cas visés à l'alinéa précédent.
+7° Bons émis par les institutions financières spécialisées régis par l'article 36 de la loi du 14 décembre 1985 susvisée.
