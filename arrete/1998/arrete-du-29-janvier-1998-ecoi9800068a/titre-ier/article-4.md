@@ -1,0 +1,3 @@
+# Article 4
+
+La commission d'admission du cycle de formation est composée du directeur de l'Ecole nationale supérieure des techniques industrielles et des mines d'Alès, ou de son représentant, président de la commission, du directeur et du responsable pédagogique de l'Institut EERIE, du directeur du laboratoire de génie informatique et d'ingénierie de production de l'Ecole nationale supérieure des techniques industrielles et des mines d'Alès, et de trois enseignants permanents du cycle de formation désignés par le directeur de l'Ecole nationale supérieure des techniques industrielles et des mines d'Alès.

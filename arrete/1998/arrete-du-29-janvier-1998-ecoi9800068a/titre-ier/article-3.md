@@ -1,0 +1,3 @@
+# Article 3
+
+L'admission dans le cycle de formation Institut EERIE est prononcée par la commission d'admission du cycle de formation visée à l'article 4 ci-après, qui dresse la liste des candidats admis en première année et en deuxième année du cycle de formation. Les décisions de la commission d'admission sont sans appel. Au vu de la liste établie par la commission, sur proposition du directeur de l'Ecole nationale supérieure des techniques industrielles et des mines d'Alès, le ministre chargé de l'industrie arrête les noms des candidats admis en première année et en deuxième année dans le cycle de la formation.
