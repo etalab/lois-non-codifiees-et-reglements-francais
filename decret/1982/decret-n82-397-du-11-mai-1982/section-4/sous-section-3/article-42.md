@@ -1,7 +1,9 @@
 # Article 42
 
-Dans les entreprises de plus de cinquante salariés [*effectif*], le médecin du travail établit et tient à jour une fiche, conservée dans l'entreprise, sur laquelle il consigne les caractéristiques de celle-ci, les observations qu'il est amené à faire et la suite qui leur est réservée.
+Dans les établissements et entreprises de plus de dix salariés, le médecin du travail établit et met à jour une fiche d'entreprise sur laquelle sont consignés notamment les risques professionnels et les effectifs des salariés exposés à ces risques.
 
-Cette fiche est tenue à la disposition de l'employeur, des représentants du personnel, de l'inspecteur du travail et, en tant que de besoin, des médecins mentionnés à l'article 13. Elle peut être consultée par les techniciens conseils et les agents chargés du contrôle de la prévention des accidents du travail en agriculture.
+Cette fiche est transmise à l'employeur. Elle est tenue à la disposition de l'inspecteur du travail et, en tant que de besoin, du médecin inspecteur régional du travail et de la main-d'oeuvre. Elle est présentée au comité d'hygiène, de sécurité et des conditions de travail en même temps que le bilan annuel prévu à l'article L. 236-4 du code du travail.
 
-Le modèle de cette fiche est fixé par arrêté du ministre de l'agriculture.
+La fiche d'entreprise peut être consultée par les techniciens conseils et les agents chargés du contrôle de la prévention des accidents du travail en agriculture.
+
+Le modèle de fiche est fixé par arrêté du ministre chargé de l'agriculture.

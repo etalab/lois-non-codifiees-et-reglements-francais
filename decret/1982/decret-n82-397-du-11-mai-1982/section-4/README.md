@@ -5,3 +5,4 @@
 - [SOUS-SECTION 2 : EXAMENS MEDICAUX](sous-section-2)
 - [SOUS-SECTION 3 : DOCUMENTS MEDICAUX](sous-section-3)
 - [SOUS-SECTION 4 : RECHERCHES, ETUDES, ENQUETES.](sous-section-4)
+- [Article 22](article-22.md)
