@@ -283,6 +283,7 @@
 - [Arrêté du 12 mars 1996 (EQUS9600380A)](arrete-du-12-mars-1996-equs9600380a)
 - [Arrêté du 12 mars 1996 (EQUT9600369A)](arrete-du-12-mars-1996-equt9600369a)
 - [Arrêté du 12 mars 1996 (MIPP9600113A)](arrete-du-12-mars-1996-mipp9600113a)
+- [Arrêté du 12 septembre 1990 (PRMX9010264A)](arrete-du-12-septembre-1990-prmx9010264a)
 - [Arrêté du 13 février 1996 (TASH9523348A)](arrete-du-13-fevrier-1996-tash9523348a)
 - [Arrêté du 13 juin 1996 (MENF9601743A)](arrete-du-13-juin-1996-menf9601743a)
 - [Arrêté du 13 mai 1996 (DEFD9601477A)](arrete-du-13-mai-1996-defd9601477a)
