@@ -1,10 +1,9 @@
-# Arrêté du 20 novembre 1979 concernant la lutte contre la pollution des eaux (application du décret n° 73-218 du 23 février 1973)
+# Arrêté du 10 septembre 1991 relatif à la mise en place de la juridiction disciplinaire nationale compétente à l'égard des personnels enseignants et hospitaliers des centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers et universitaires
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
-- [Article 4 bis](article-4-bis.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
@@ -15,3 +14,6 @@
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
+- [Article 15](article-15.md)
+- [Article 16](article-16.md)
+- [Article 17](article-17.md)
