@@ -1,0 +1,3 @@
+# Article 15
+
+Les pompiers titulaires et auxiliaires de l'administration centrale des finances occupant à la date du publication du présent décret un des emplois susvisés pourront, après examen de leur situation administrative et de leurs titres, et dans la limite des emplois budgétaires, être nommés dans le nouveau corps. Ils seront nommés à l'échelon comportant un traitement égal, ou à défaut, immédiatement supérieur à celui qu'ils percevaient dans leur ancien emploi. Ils conservent l'ancienneté acquise dans leur ancien échelon si l'augmentation de traitement est inférieure à celle résultant d'un avancement d'échelon dans l'ancien emploi.

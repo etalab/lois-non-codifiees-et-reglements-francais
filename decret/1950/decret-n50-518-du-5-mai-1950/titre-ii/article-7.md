@@ -1,0 +1,3 @@
+# Article 7
+
+Les pompiers professionnels stagiaires sont recrutés parmi les pompiers ayant accompli au moins une année de services au régiment de sapeurs-pompiers de la ville de Paris ou dans un corps de sapeurs-pompiers des villes dont les méthodes d'enseignement sont identiques à celles du régiment de sapeurs-pompiers de Paris et qui seront désignées par un arrêté du ministre des finances. Les candidats doivent remplir les conditions requises à l'article 23 de la loi du 19 octobre 1946 portant statut général des fonctionnaires et, en outre, avoir satisfait à la loi sur le recrutement de l'armée, sans exemption ni réforme, et avoir été reconnus aptes à un service actif de jour et de nuit par un médecin assermenté.
