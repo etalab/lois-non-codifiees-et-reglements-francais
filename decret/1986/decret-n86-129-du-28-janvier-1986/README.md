@@ -1,5 +1,7 @@
 # Décret n°86-129 du 28 janvier 1986 portant organisation de l'administration centrale des P.T.T. *postes et télécommunications*
 
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
