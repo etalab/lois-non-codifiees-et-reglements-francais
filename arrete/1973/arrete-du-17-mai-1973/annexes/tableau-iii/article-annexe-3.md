@@ -4,50 +4,50 @@ Ingénieurs subdivisionnaires.
 
 Diplômes et titres figurant aux tableaux I et II ci-dessus.
 
-Ingénieur géomètre et ingénieur topographe de l'école supérieure des géomètres et topographes du conservatoire national des arts et métiers.
+Ingénieur de l'école nationale d'ingénieurs de Saint-Etienne.
 
-Géomètre expert diplômé par le gouvernement.
+Ingénieur de l'école nationale d'ingénieurs de Belfort.
 
-Ingénieur du conservatoire national des arts et métiers de l'une des spécialités suivantes : électricité, machines, mécanique, moteurs à combustion interne, art appliqué aux métiers, thermique industrielle (avec un certificat de constructions civiles pour les deux dernières spécialités).
+Ingénieur de l'école nationale d'ingénieurs de Brest.
 
-Ingénieur diplômé par l'Etat (DPE) du conservatoire national des arts et métiers de l'une des spécialités suivantes : constructions civiles, travaux publics, béton armé, bâtiment, constructions métalliques, eau et assainissement, électricité, mécanique, électromécanique, topographie, constructions mécaniques, machines.
+Ingénieur de l'école nationale d'ingénieurs de Tarbes.
+
+Ingénieur de l'école nationale d'ingénieurs de Metz.
+
+Ingénieur de l'école nationale technique des mines de Douai.
+
+Ingénieur de l'école nationale technique des mines d'Alès.
+
+Géomètre-expert diplômé par le gouvernement.
+
+Ingénieur électricien-mécanicien de l'école d'électricité et de mécanique industrielles de Paris (école Violet).
+
+Ingénieur EBP des industries électromécaniques de l'école Breguet.
 
 Ingénieur électricien de l'école d'électricité industrielle de Paris (école Charliat).
 
-Ingénieur électricien mécanicien de l'école d'électricité et de mécanique industrielles de Paris (école Violet).
+Ingénieur de l'école spéciale de mécanique et d'électricité de Paris (école Sudria).
 
-Ingénieur des industries électromécaniques de l'école Breguet.
+Ingénieur de l'école polytechnique féminine.
 
-Ingénieur mécanicien électricien de l'école spéciale de mécanique et d'électricité de Paris.
+Ingénieur de l'école nationale supérieure d'horticulture de Versailles.
 
-Ingénieur de l'école nationale d'ingénieurs d'Alger, Maison-Carrée (diplômes délivrés depuis 1953 exclusivement).
+Ingénieur de l'école nationale des ingénieurs des travaux ruraux et techniques sanitaires de Strasbourg.
 
-Ingénieur de l'école nationale supérieure d'électronique et d'électromécanique de Caen.
+Ingénieur ayant été reçu à un concours sur épreuves pour l'accès à l'emploi d'ingénieur subdivisionnaire organisé par l'association nationale d'études municipales ou par le centre de formation des personnels communaux.
 
-Ingénieur de l'institut catholique d'arts et métiers de Lille.
+Ingénieur de l'école nationale d'ingénieurs des travaux agricoles (option horticulture) d'Angers.
 
-Ingénieur de l'école catholique d'arts et métiers de Lyon.
+Ingénieur de l'école nationale d'ingénieurs d'Alger - Maison-Carrée (diplômes délivrés de 1953 à 1963).
 
-Ingénieur électricien de l'école d'électricité industrielle de Marseille.
+Ingénieur diplômé de l'école des ingénieurs de la préfecture de Paris (diplômes délivrés depuis 1968).
 
-Ingénieur de l'école d'ingénieurs de Marseille (section électricité ou installations mécaniques).
+Ingénieurs de l'école des élèves ingénieurs de marine.
 
-Ingénieur de l'école des hautes études industrielles de Lille.
+Ingénieur de l'école des élèves officiers de marine.
 
-Ingénieur d'une école nationale supérieure (Belfort, Brest, Metz, Saint-Etienne, Tarbes).
+Ingénieur diplômé de l'école des élèves officiers mécaniciens de la marine nationale.
 
-Ingénieur de l'école nationale d'ingénieurs de Strasbourg (diplômes délivrés jusqu'en 1966 inclus).
+Ingénieur diplômé de l'école navale.
 
-Ingénieur diplômé de l'école polytechnique féminine.
-
-Ingénieur d'un institut national des sciences appliquées (toutes options).
-
-Ingénieur figurant sur la liste d'aptitude à l'emploi d'ingénieur subdivisionnaire établie par l'ANEM.
-
-Ingénieur horticole de l'école nationale d'horticulture de Versailles.
-
-Ingénieur de l'école nationale technique des mines d'Alès (diplôme délivré depuis 1969).
-
-Ingénieur de l'école nationale technique des mines de Douai (diplôme délivré depuis 1969).
-
-Ingénieur de l'institut des sciences de l'ingénieur de Nancy.
+Ingénieur de l'institut supérieur d'électronique du Nord.

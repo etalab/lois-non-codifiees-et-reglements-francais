@@ -4,56 +4,70 @@ INGENIEUR EN CHEF.
 
 Ingénieur diplômé de l'école polytechnique.
 
-Ingénieur civil des ponts et chaussées (école nationale supérieure des ponts et chaussées).
+Ingénieur civil des ponts et chaussées (école nationale des ponts et chaussées).
 
 Ingénieur civil des mines (école nationale supérieure des mines de Paris et école nationale supérieure des mines de Saint-Etienne).
 
 Ingénieur des arts et manufactures (école centrale des arts et manufactures).
 
+Ingénieur de l'école supérieure d'électricité.
+
+Ingénieur de l'école centrale de Lyon.
+
 Ingénieur civil de l'école nationale supérieure des télécommunications.
-
-Ingénieur civil de l'école centrale lyonnaise.
-
-Ingénieur des travaux publics de l'école spéciale des travaux publics de Paris (toutes options).
 
 Ingénieur de l'école nationale supérieure de la métallurgie et de l'industrie des mines de Nancy.
 
-Ingénieur de l'école supérieure d'électricité.
-
-Ingénieur de l'école d'ingénieurs de Marseille, section bâtiment et travaux publics.
-
 Ingénieur civil du génie rural.
 
-Ingénieur du conservatoire national des arts et métiers, spécialité constructions civiles.
+Ingénieur de l'armée de terre (option bâtiment et travaux publics) de l'école supérieure technique du génie à Versailles.
 
-Ingénieur diplôme de l'école supérieure technique du génie (option travaux).
+Ingénieur de l'école spéciale des travaux publics du bâtiment et de l'industrie (toutes options).
 
-Architecte (diplôme d'architecte).
+Ingénieur de l'école nationale supérieure d'arts et métiers (anciennement écoles nationales des arts et métiers d'Aix-en-Provence, Angers, Bordeaux, Châlons-sur-Marne, Cluny, Lille).
 
-Licence ès sciences (ancien régime) comportant au moins un certificat des sciences mathématiques ou des sciences physiques.
+Ingénieur de l'école nationale supérieure des arts et industries de Strasbourg (ex-école nationale d'ingénieurs de Strasbourg).
 
-Licence ès sciences mathématiques ou licence es sciences physiques.
+Ingénieur géologue et prospecteur de l'école nationale supérieure de géologie appliquée et de prospection minière de Nancy.
 
-Ingénieur électricien et ingénieur mécanicien de l'école nationale supérieure d'électricité et de mécanique de Nancy.
+Diplôme d'architecte.
 
-Ingénieur de l'école nationale supérieure des arts et industrie de Strasbourg (diplômes délivrés depuis 1967).
+Ingénieur de l'école nationale supérieure d'hydraulique de l'institut national polytechnique de Grenoble.
+
+Ingénieur de l'école supérieure d'ingénieurs de Marseille (anciennement école d'ingénieurs de Marseille, école d'électricité industrielle de Marseille et à école de radio-électricité et d'électronique de la chambre de commerce et d'industrie de Marseille) (département Génie civil).
 
 Ingénieur de l'institut industriel du nord de la France.
 
-Ingénieur d'une école nationale d'arts et métiers.
+Ingénieur électronicien de l'ENREA de l'école nationale de radiotechnique et d'électricité appliquée de Clichy.
 
-Ingénieur de l'école nationale supérieure d'électrotechnique, d'hydraulique de Grenoble (section électrotechnique ou hydraulique).
+Ingénieur de l'école nationale supérieure d'électricité et de mécanique de Nancy (ex-institut électrotechnique de Nancy).
 
-Ingénieur de l'école nationale supérieure d'électrotechnique, d'hydraulique de Toulouse (section électrotechnique ou hydraulique).
+Ingénieur de l'école nationale supérieure d'électronique et d'électromécanique de Caen.
 
-Ingénieur géologue et prospecteur de l'université de Nancy (école nationale supérieure de géologie appliquée et de la prospection minière de Nancy).
+Ingénieur de l'école nationale supérieure de mécanique et d'aérotechnique de Poitiers.
 
-Ingénieur de l'école nationale supérieure de mécanique de Nantes constructions mécaniques et civiles, génie industriel civil.
+Ingénieur de l'école nationale supérieure d'électrotechnique, d'électronique, d'informatique et d'hydraulique de Toulouse (filière électrotechnique-information ou hydraulique).
 
-Ingénieur de l'école nationale supérieure de mécanique et technique de Poitiers.
+Ingénieur de l'école nationale supérieure de mécanique de Nantes (section constructions mécaniques et génie civil).
 
-Ingénieur d'un institut national des sciences appliquées (INSA) (option génie urbain ou mécanique).
+Ingénieur de l'institut national des sciences appliquées de Lyon (INSA) avec mention de l'option (Génie civil et urbanisme ou Génie électrique).
 
-Ingénieur diplôme en outre de l'institut d'études économiques et juridiques appliquées à la construction et à l'habitation du conservatoire des arts et métiers (ICH).
+Ingénieur de l'institut national des sciences appliquées de Toulouse (INSA) (option génie civil et urbanisme ou génie électrique).
 
-Ingénieur des techniques de l'équipement rural de l'école nationale des ingénieurs des travaux ruraux et des techniques sanitaires de Strasbourg.
+Ingénieur de l'institut national des sciences appliquées de Rennes (INSA) (option génie civil et urbanismes ou génie électrique).
+
+Ingénieur de l'institut catholique d'arts et métiers de Lille.
+
+Ingénieur de l'école catholique d'arts et métiers de Lyon.
+
+Ingénieur du conservatoire national des arts et métiers (CNAM) de l'une des spécialités suivantes : constructions civiles ou génie civil, électricité, électrotechnique, mécanique, art appliqué aux métiers ou techniques industrielles de l'architecture, informatique, calculs automatiques, machines, moteurs à combustion interne, thermique (avec un certificat ou une valeur constructions civiles, pour les trois dernières spécialités) et géologie.
+
+Ingénieur géomètre et ingénieur topographe de l'école supérieure des géomètres et topographes du conservatoire national des arts et métiers.
+
+Ingénieur diplômé d'Etat (DPE) du conservatoire national des arts et métiers de l'une des spécialités suivantes : constructions civiles, travaux publics, béton armé, constructions métalliques, eau et assainissement, électricité, mécanique, électromécanique, topographie, constructions mécaniques, machines.
+
+Ingénieur diplômé en outre de l'institut d'études économiques et juridiques appliquées à la construction et à l'habitation du conservatoire national des arts et métiers (ICH).
+
+Ingénieur civil de l'école des hautes études industrielles de Lille (département ingénieurs civils).
+
+Ingénieur diplômé de l'école des ingénieurs des travaux publics de l'Etat (diplômés délivrés depuis 1968).
