@@ -1000,7 +1000,6 @@
 - [Décret n°97-1329 du 30 décembre 1997 (ATEN9750081D)](decret-n97-1329-du-30-decembre-1997-aten9750081d)
 - [Décret n°97-1333 du 30 décembre 1997 (DEFD9701972D)](decret-n97-1333-du-30-decembre-1997-defd9701972d)
 - [Décret n°98-1005 du 30 octobre 1998 (MAEJ9830091D)](decret-n98-1005-du-30-octobre-1998-maej9830091d)
-- [Décret n°98-1079 du 30 novembre 1998 (MESG9811018D)](decret-n98-1079-du-30-novembre-1998-mesg9811018d)
 - [Décret n°98-1080 du 30 novembre 1998 (MESC9823695D)](decret-n98-1080-du-30-novembre-1998-mesc9823695d)
 - [Décret n°98-1081 du 30 novembre 1998 (INTM9800024D)](decret-n98-1081-du-30-novembre-1998-intm9800024d)
 - [Décret n°98-1091 du 30 novembre 1998 (AGRP9702420D)](decret-n98-1091-du-30-novembre-1998-agrp9702420d)
