@@ -1,0 +1,9 @@
+# Article 8
+
+Le budget de la commune est en équilibre réel lorsque la section de fonctionnement et la section d'investissement sont respectivement votées en équilibre, les recettes et les dépenses ayant été évaluées de façon sincère, et lorsque le prélèvement sur les recettes de la section de fonctionnement au profit de la section d'investissement, ajouté aux recettes propres de cette section, à l'exclusion du produit des emprunts, et éventuellement aux dotations des comptes d'amortissement et de provision, fournit des ressources suffisantes pour couvrir le remboursement en capital des annuités d'emprunt à échoir au cours de l'exercice.
+
+Lorsque le budget d'une commune n'est pas voté en équilibre réel, la chambre régionale des comptes, saisie par le représentant de l'Etat dans un délai de trente jours à compter de la transmission prévue à l'article 2 le constate et propose à la commune, dans un délai de trente jours à compter de sa saisine, les mesures nécessaires au rétablissement de l'équilibre budgétaire et demande au conseil municipal une nouvelle délibération.
+
+La nouvelle délibération du conseil municipal, rectifiant le budget initial, doit intervenir dans un délai d'un mois à partir de la communication des propositions de la chambre régionale des comptes.
+
+Si le conseil municipal n'a pas délibéré dans le délai prescrit, ou si la délibération prise ne comporte pas de mesures de redressement jugées suffisantes par la chambre régionale des comptes, qui se prononce sur ce point dans un délai de quinze jours à partir de la transmission de la nouvelle délibération, le budget est réglé et rendu exécutoire par le représentant de l'Etat dans le département. Si celui-ci s'écarte des propositions formulées par la chambre régionale des comptes, il assortit sa décision d'une motivation explicite.
