@@ -1,6 +1,6 @@
 # Article 2
 
-Des dérogations aux conditions de délais prévues ci-dessus pour l'attribution d'une allocation de recherche peuvent être limitativement accordées par le recteur d'académie aux candidats qui, dans l'intervalle entre leur diplôme d'études approfondies et leur inscription en thèse, ont soit :
+Des dérogations aux conditions de délais prévues ci-dessus pour l'attribution d'une allocation de recherche peuvent être limitativement accordées par le chef d'établissement, ou par le recteur d'académie pour les établissements dont la tutelle est assurée par d'autres ministères que le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche, aux candidats qui, dans l'intervalle entre leur diplôme d'études approfondies ou leur master recherche et leur inscription en thèse, ont soit :
 
 Effectué leur service national ou accompagné à l'étranger leur conjoint qui effectuait son service national, même si ce service durait dix-huit ou vingt-quatre mois ;
 

@@ -85,6 +85,7 @@
 - [Arrêté du 4 juin 2004 (DEVP0430152A)](arrete-du-4-juin-2004-devp0430152a)
 - [Arrêté du 4 juin 2004 (ECOT0410504A)](arrete-du-4-juin-2004-ecot0410504a)
 - [Arrêté du 4 mars 2004 (SANS0420800A)](arrete-du-4-mars-2004-sans0420800a)
+- [Arrêté du 4 octobre 2004 (AGRA0402144A)](arrete-du-4-octobre-2004-agra0402144a)
 - [Arrêté du 4 mai 2004 (MENE0400865A)](arrete-du-4-mai-2004-mene0400865a)
 - [Arrêté du 4 mai 2004 (MENE0400866A)](arrete-du-4-mai-2004-mene0400866a)
 - [Arrêté du 4 mai 2004 (MENE0400883A)](arrete-du-4-mai-2004-mene0400883a)
