@@ -10,9 +10,9 @@ Pour les assurés qui justifient d'une durée d'assurance comprise entre trente-
 
 15 % pour chacune des deux premières années manquantes ;
 
-20 % pour chacune des troisième, quatrième et cinquième années suivantes ;
+10 % pour chacune des trois années suivantes ;
 
-10 % pour la sixième et dernière année.
+40 % pour la sixième année.
 
 III. - La majoration de la retraite forfaitaire n'est pas cumulable avec la majoration prévue aux articles 1er ou 2, dont les dispositions sont appliquées en priorité. Cependant, lorsque la majoration de sa retraite forfaitaire s'avère plus favorable à l'intéressé, il bénéficie de l'application du présent article.
 
