@@ -26,7 +26,7 @@ Le conseil des ministres du territoire :
 
 11° Accepte ou refuse les dons et legs au profit du territoire ;
 
-12° Décide d'intenter ou de soutenir les actions au nom du territoire et transige sur les litiges sous réserve des dispositions de l'article 66 ;
+12° Décide d'intenter ou de soutenir les actions au nom du territoire, y compris celles relatives aux réglementations issues des délibérations de l'assemblée territoriale ; transige sur les litiges sous réserve des dispositions de l'article 66 ; ".
 
 13° Codifie les réglementations territoriales et procède à la mise à jour des codes ;
 
@@ -34,6 +34,8 @@ Le conseil des ministres du territoire :
 
 15° Dans les cas prévus au 14°, peut exercer un droit de préemption au nom du territoire sur les immeubles ou les droits sociaux en cause à charge de verser aux ayants droit le montant de la valeur desdits immeubles ; à défaut d'accord amiable, cette valeur est alors fixée comme en matière d'expropriation ;
 
-16° Prend les arrêtés de déclaration d'utilité publique et d     e cessibilité lorsque l'expropriation est poursuivie pour le compte du territoire. "
+16° Prend les arrêtés de déclaration d'utilité publique et d e cessibilité lorsque l'expropriation est poursuivie pour le compte du territoire. "
 
-17° Créé les charges et nomme les officiers publics  et les officiers ministériels
+17° Créé les charges et nomme les officiers publics  et les officiers ministériels    18° Autorise, dans les conditions et limites fixées par l'assemblée territoriale, la concession du domaine public maritime des lagons, des rades et de la partie des cours d'eau, étangs et canaux où les eaux sont salées ; ".
+
+19° Délivre les permis de travail et les cartes professionnelles d'étranger. "
