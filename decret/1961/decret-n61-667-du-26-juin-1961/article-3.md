@@ -1,6 +1,6 @@
 # Article 3
 
-Un décret pris sur le rapport du garde des sceaux, ministre de la justice, du ministre des finances et des affaires économiques, du ministre de l'agriculture, du ministre du travail, du ministre de la santé publique et de la population et du ministre de la construction, après avis de la commission supérieure des allocations familiales, détermine, en ce qui concerne l'allocation de logement :
+Un décret pris sur le rapport du garde des sceaux, ministre de la justice, du ministre des finances et des affaires économiques, du ministre de l'agriculture, du ministre du travail, du ministre de la santé publique et de la population et du ministre de la construction, détermine, en ce qui concerne l'allocation de logement :
 
 1° Les justifications qui devront être produites par les demandeurs pour bénéficier de l'allocation ;
 
