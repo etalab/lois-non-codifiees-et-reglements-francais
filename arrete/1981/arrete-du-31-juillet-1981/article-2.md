@@ -1,0 +1,5 @@
+# Article 2
+
+L'arrêté du 7 avril 1952, modiﬁé par arrêtés des 25 août 1954, 21 novembre 1955, 16 décembre 1955, 29 février 1956, 5 mars 1957, 16 mai 1957, 18 septembre 1957, 23 octobre 1957, 3 mars 1958, 3 septembre 1959, 30 décembre 1963, 27 mars 1964, 20 novembre 1964, 1er mars 1965, 20 août 1965, 2 février 1966, 24 février 1966, 30 mai 1967, 9 août 1967, 2 janvier 1969, 9 mai 1969, 13 mai 1969, 9 septembre 1969, 5 mai 1970, 24 juin 1970, 6 août 1970, 8 mars 1971, 11 mars 1971, 17 mars 1972, 18 janvier 1973, 26 avril 1974, 19 juillet 1974, 4 août 1975, 2 décembre 1975, 14 avril 1976, 6 octobre 1977, 9 janvier 1978, 25 janvier 1978, 28 juillet 1978, 17 août 1978, 10 octobre 1978, 24 avril 1979, 4 juin 1980 et 24 décembre 1980, relatif aux brevets, licences et qualifications des navigants de l'aéronautique civile, est abrogé.
+
+L'article 9 de l'annexe à l'arrêté du 2 janvier 1969 ﬁxant le programme et le régime des examens pour l'obtention du brevet et de la licence de pilote de ligne hélicoptère est abrogé.
