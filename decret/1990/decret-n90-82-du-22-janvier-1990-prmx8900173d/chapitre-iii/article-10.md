@@ -1,6 +1,6 @@
 # Article 10
 
-Le Conseil scientifique de l'évaluation est composé [*composition*] de onze personnalités nommées par arrêté du Premier ministre et choisies en raison de leurs compétences en matière d'évaluation ou dans le domaine des sciences économiques, sociales ou administratives.
+Le Conseil scientifique de l'évaluation est composé de onze personnalités nommées par décret du Président de la République et choisies en raison de leurs compétences en matière d'évaluation ou dans le domaine des sciences économiques, sociales ou administratives.
 
 Les membres du Conseil scientifique de l'évaluation sont nommés pour six ans. Leur mandat [*durée*] n'est pas renouvelable. Toutefois, lors de la constitution initiale du conseil, cinq d'entre eux sont nommés pour trois ans.
 
