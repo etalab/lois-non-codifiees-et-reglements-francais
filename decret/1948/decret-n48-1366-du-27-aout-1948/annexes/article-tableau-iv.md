@@ -1,0 +1,5 @@
+# Article Tableau IV
+
+TARIF DES INDEMNITÉS DE PREMIÈRE MISE D'ÉQUIPEMENT ET DE HARNACHEMENT
+
+(non reproduit)
