@@ -20,4 +20,3 @@
 - [Loi n° 86-825 du 11 juillet 1986](loi-n-86-825-du-11-juillet-1986)
 - [Loi n° 86-845 du 17 juillet 1986](loi-n-86-845-du-17-juillet-1986)
 - [Loi n° 86-897 du 1 août 1986](loi-n-86-897-du-1-aout-1986)
-- [Loi n°86-19 du 6 janvier 1986](loi-n86-19-du-6-janvier-1986)
