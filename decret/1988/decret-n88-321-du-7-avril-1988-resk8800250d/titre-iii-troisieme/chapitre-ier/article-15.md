@@ -16,14 +16,16 @@ Spécialités chirurgicales ;
 
 Biologie médicale ;
 
-Psychiatrie,
-
-ainsi qu'à compter de l'année universitaire 1999-2000 :
+Psychiatrie ;
 
 Anesthésiologie-réanimation chirurgicale ;
 
 Pédiatrie ;
 
-Gynécologie-obstétrique.
+Gynécologie-obstétrique ;
 
-A compter de l'année universitaire 2000-2001, la discipline gynécologie-obstétrique et gynécologie médicale remplace la discipline gynécologie-obstétrique.
+Gynécologie médicale.
+
+Les disciplines de gynécologie-obstétrique et de gynécologie médicale seront créées à compter de l'année universitaire 2003-2004.
+
+La discipline de gynécologie-obstétrique et gynécologie médicale est maintenue pour les internes inscrits dans cette discipline à compter de l'année universitaire 2000-2001.
