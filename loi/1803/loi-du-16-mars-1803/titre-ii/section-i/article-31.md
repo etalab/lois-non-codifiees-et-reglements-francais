@@ -1,3 +1,7 @@
 # Article 31
 
-Le nombre des notaires pour chaque département, leur placement et résidence, seront déterminés par le Gouvernement, de manière, 1° que dans les villes de cent mille habitants et au-dessus, il y ait un notaire, au plus par six mille habitants ; 2° que dans les autres villes, bourgs ou villages, il y ait deux notaires au moins, ou cinq au plus, par chaque arrondissement de justice de paix (1).
+Le nombre et la résidence des notaires sont fixés pour chaque ressort de tribunal d'instance par décret pris sur le rapport du garde des sceaux, ministre de la justice.
+
+Le décret portant création, transfert ou suppression d'un office de notaire est pris après avis des tribunaux de grande instance, des chambres départementales et des conseils régionaux intéressés.
+
+Les suppressions d'office ne peuvent intervenir qu'à la suite du décès, de la démission ou de la destitution de leur titulaire.
