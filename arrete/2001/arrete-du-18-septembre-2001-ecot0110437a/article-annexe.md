@@ -14,9 +14,9 @@ Le fait de collaborer avec l'agence ne doit pas être utilisé à des fins perso
 
 2. Dispositions relatives à l'utilisation et la transmission " d'informations privilégiées "
 
-Les collaborateurs qui disposent à l'occasion de l'exercice de leurs fonctions  d'informations privilégiées  ne peuvent ni les utiliser ni les transmettre avant que le public en ait connaissance.
+Les collaborateurs qui disposent à l'occasion de l'exercice de leurs fonctions d'informations privilégiées ne peuvent ni les utiliser ni les transmettre avant que le public en ait connaissance.
 
-Les  informations privilégiées  ne peuvent être communiquées dans l'agence ou hors de l'agence que dans la mesure où cette communication est indispensable à l'exercice des missions imparties à l'agence.
+Les informations privilégiées ne peuvent être communiquées dans l'agence ou hors de l'agence que dans la mesure où cette communication est indispensable à l'exercice des missions imparties à l'agence.
 
 Les collaborateurs ne doivent pas répandre dans le public, par des voies ou des moyens quelconques, des informations fausses ou trompeuses de nature à agir sur le cours des valeurs ou les marchés des instruments financiers.
 
@@ -38,15 +38,9 @@ L'attention des collaborateurs de l'agence est attirée sur le fait que le non-r
 
 4. Dispositions concernant l'information des employés de l'agence
 
-Fonctions
+Le président et le directeur général s'assurent qu'existe au sein de l'agence un " recueil des recommandations déontologiques " présentant différentes options ou suggestions permettant aux employés de l'agence, ainsi qu'à leurs proches, d'éviter de courir des risques en ce domaine. Des recommandations spécifiques à certaines positions peuvent figurer dans ce recueil.
 
-A sa prise de ....................
-
-A cette occasion et à chaque modification dudit recueil ....................
-
-Son élaboration ....................
-
-Sa mise à jour ....................
+Chaque employé de l'agence prend connaissance du contenu de ce recueil, lors de son arrivée en fonction puis une fois par an ; il signe, lors de chaque prise de connaissance, un registre tenu par le responsable du contrôle des risques de l'agence qui est en charge de la disponibilité et de l'actualité du recueil.
 
 Les responsables hiérarchiques de l'agence doivent s'assurer du respect des règles déontologiques au sein de celle-ci.
 
