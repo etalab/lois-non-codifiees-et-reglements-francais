@@ -12,6 +12,7 @@
 - [Décret n°88-801 du 8 juillet 1988 (SEPX8800103D)](decret-n88-801-du-8-juillet-1988-sepx8800103d)
 - [Décret n°88-802 du 8 juillet 1988 (DOMX8810577D)](decret-n88-802-du-8-juillet-1988-domx8810577d)
 - [Décret n°88-697 du 9 mai 1988 (MCCK8800295D)](decret-n88-697-du-9-mai-1988-mcck8800295d)
+- [Décret n°88-805 du 12 juillet 1988 (BUDX8800107D)](decret-n88-805-du-12-juillet-1988-budx8800107d)
 - [Décret n°88-770 du 17 juin 1988 (AGRS8800909D)](decret-n88-770-du-17-juin-1988-agrs8800909d)
 - [Décret n°88-768 du 21 juin 1988 (TRST8800299D)](decret-n88-768-du-21-juin-1988-trst8800299d)
 - [Décret n°88-766 du 22 juin 1988 (ECOF8800007D)](decret-n88-766-du-22-juin-1988-ecof8800007d)
