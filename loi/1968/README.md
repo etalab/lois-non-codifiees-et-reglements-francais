@@ -13,6 +13,7 @@
 - [Loi n° 68-943 du 30 octobre 1968](loi-n-68-943-du-30-octobre-1968)
 - [Loi n° 68-946 du 31 octobre 1968](loi-n-68-946-du-31-octobre-1968)
 - [Loi n°67-545 du 7 juillet 1967](loi-n67-545-du-7-juillet-1967)
+- [Loi n°68-1144 du 19 décembre 1968](loi-n68-1144-du-19-decembre-1968)
 - [Loi n°68-688 du 31 juillet 1968](loi-n68-688-du-31-juillet-1968)
 - [Loi n°68-918 du 24 octobre 1968](loi-n68-918-du-24-octobre-1968)
 - [Loi n°68-978 du 12 novembre 1968](loi-n68-978-du-12-novembre-1968)
