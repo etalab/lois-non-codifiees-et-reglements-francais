@@ -89,7 +89,6 @@
 - [Arrêté du 12 octobre 1983](arrete-du-12-octobre-1983)
 - [Arrêté du 12 septembre 1985](arrete-du-12-septembre-1985)
 - [Arrêté du 13 août 1985](arrete-du-13-aout-1985)
-- [Arrêté du 13 décembre 1985](arrete-du-13-decembre-1985)
 - [Arrêté du 13 février 1985](arrete-du-13-fevrier-1985)
 - [Arrêté du 13 juin 1985](arrete-du-13-juin-1985)
 - [Arrêté du 13 mars 1985](arrete-du-13-mars-1985)
