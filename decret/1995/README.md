@@ -569,6 +569,7 @@
 - [Décret n°95-327 du 23 mars 1995 (EQUS9500248D)](decret-n95-327-du-23-mars-1995-equs9500248d)
 - [Décret n°95-333 du 23 mars 1995 (INTB9500066D)](decret-n95-333-du-23-mars-1995-intb9500066d)
 - [Décret n°95-79 du 23 janvier 1995 (ENVP9420054D)](decret-n95-79-du-23-janvier-1995-envp9420054d)
+- [Décret n°95-813 du 23 juin 1995 (SANS9501805D)](decret-n95-813-du-23-juin-1995-sans9501805d)
 - [Décret n°95-87 du 23 janvier 1995 (JUSC9421163D)](decret-n95-87-du-23-janvier-1995-jusc9421163d)
 - [Décret n°95-196 du 24 février 1995 (SPSS9500324D)](decret-n95-196-du-24-fevrier-1995-spss9500324d)
 - [Décret n°95-197 du 24 février 1995 (SPSP9500470D)](decret-n95-197-du-24-fevrier-1995-spsp9500470d)

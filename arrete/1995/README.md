@@ -414,6 +414,7 @@
 - [Arrêté du 14 avril 1995 (SPSS9501392A)](arrete-du-14-avril-1995-spss9501392a)
 - [Arrêté du 14 avril 1995 (TEFT9500452A)](arrete-du-14-avril-1995-teft9500452a)
 - [Arrêté du 14 février 1995 (INTB9500089A)](arrete-du-14-fevrier-1995-intb9500089a)
+- [Arrêté du 14 juin 1995 (AGRP9501057A)](arrete-du-14-juin-1995-agrp9501057a)
 - [Arrêté du 14 mars 1995 (AGRG9500554A)](arrete-du-14-mars-1995-agrg9500554a)
 - [Arrêté du 14 mars 1995 (BUDR9505006A)](arrete-du-14-mars-1995-budr9505006a)
 - [Arrêté du 14 mars 1995 (DEFD9501306A)](arrete-du-14-mars-1995-defd9501306a)
