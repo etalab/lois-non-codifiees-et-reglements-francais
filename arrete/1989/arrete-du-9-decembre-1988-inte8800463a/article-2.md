@@ -2,10 +2,10 @@
 
 Le taux maximum de la vacation horaire de base est fixé de la manière suivante :
 
-Officiers : 10,13 Euros
+- officiers  10,18  ;
 
-Sous-officiers : 8,15 Euros
+- sous-officiers  8,19  ;
 
-Caporaux : 7,24 Euros
+- caporaux  7,27  ;
 
-Sapeurs : 6,74 Euros.
+- sapeurs  6,77 .

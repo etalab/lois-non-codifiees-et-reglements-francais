@@ -1,0 +1,3 @@
+# TITRE IV : DISPOSITIONS DIVERSES ET TRANSITOIRES.
+
+- [Article 7](article-7.md)
