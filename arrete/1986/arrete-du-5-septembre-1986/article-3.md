@@ -1,3 +1,3 @@
 # Article 3
 
-Les informations contenues dans ce fichier sont conservées dix ans après le jugement définitif.
+Le directeur général des impôts, chef du service des domaines au ministère de l'économie, des finances et de la privatisation, est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
