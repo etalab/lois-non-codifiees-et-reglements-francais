@@ -2,3 +2,4 @@
 
 - [Article Annexe article 46](article-annexe-article-46.md)
 - [Article Annexe article 47](article-annexe-article-47.md)
+- [Article Annexe article 48](article-annexe-article-48.md)
