@@ -24,6 +24,12 @@ Le directeur régional de l'agriculture et de la forêt Ile-de-France.
 
 Le directeur régional de l'agriculture et de la forêt Centre.
 
+Le chef du service régional de la protection des végétaux Ile-de-France.
+
+Le chef du service régional de la protection des végétaux Centre.
+
+Le chef du bureau biovigilant et expérimentation.
+
 Ministère chargé de l'environnement.
 
 Le directeur de la prévention des pollutions et des risques.
@@ -99,5 +105,11 @@ Le président de l'assemblée permanente des chambres d'agriculture (A.P.C.A.).
 Le président du syndicat général des constructeurs de tracteurs et machines agricoles (S.Y.G.M.A.).
 
 Le président de la Fédération nationale des syndicats d'exploitants agricoles (F.N.S.E.A.).
+
+Le président de la Confédération paysanne (CP).
+
+Le président de la Confédération nationale des jeunes agriculteurs (CNJA).
+
+Le président de la Coordination rurale (CR).
 
 Lorsqu'ils sont empêchés d'assister à une séance, les membres du conseil peuvent se faire représenter.

@@ -30,13 +30,21 @@ j) Si nécessaire, des équipements appropriés pour la préparation des produit
 
 k) Si les cretons sont destinés à la consommation humaine, des installations appropriées garantissant que ces derniers soient collectés, conditionnés et emballés dans de bonnes conditions d'hygiène et stockés selon les conditions prévues au point B 9.
 
+3. Les tissus adipeux provenant de ruminants qui ont été collectés après la fente de la colonne vertébrale de la carcasse ne peuvent pas être introduits au sein d'un établissement préparant des graisses animales fondues.
+
+Par ailleurs, les tissus adipeux provenant de ruminants qui ont été collectés séparément à l'abattoir avant la fente de la colonne vertébrale de la carcasse et introduits au sein d'un établissement préparant des graisses animales fondues doivent être utilisés exclusivement pour la fabrication de graisses animales fondues.
+
 B. - Critères d'hygiène supplémentaires relatifs à la préparation des graisses animales fondues, des cretons et des sous-produits.
 
 1. Les matières premières doivent provenir d'animaux qui, après l'inspection ante et post mortem, ont été jugés propres la consommation humaine.
 
 2. Les matières premières doivent consister en tissus adipeux ou en os, à l'exception des os de ruminants, jugés propres à la consommation humaine et contenant le moins possible de sang et d'impuretés. Elles ne doivent pas présenter de signes de dégradation et doivent être produites dans de bonnes conditions d'hygiène.
 
-3. a) Pour la préparation des graisses animales fondues, seuls peuvent être utilisés des tissus adipeux ou des os, à l'exception des os de ruminants, collectés dans des abattoirs, des ateliers de découpe ou des établissements de transformation des viandes agréés. Les matières premières doivent être transportées et stockées jusqu'à ce qu'elles soient fondues dans de bonnes conditions d'hygiène et à une température interne inférieure ou égale à 7° C ;
+3. a) Pour la préparation des graisses animales fondues, seuls peuvent être utilisés des tissus adipeux ou des os collectés dans des abattoirs, des ateliers de découpe ou des établissements de transformation des viandes agréés.
+
+Toutefois, pour la préparation des graisses animales fondues avec des matières premières en provenance de ruminants, seuls peuvent être utilisés des tissus adipeux provenant de ces ruminants qui ont été collectés séparément à l'abattoir avant la fente de la colonne vertébrale de la carcasse. L'utilisation d'os de ruminant, en tout ou partie, est interdite pour la production de graisses animales fondues.
+
+Les matières premières doivent être transportées et stockées jusqu'à ce qu'elles soient fondues dans de bonnes conditions d'hygiène et à une température interne inférieure ou égale à 7 °C ;
 
 b) Par dérogation au point a, les matières premières peuvent être stockées et transportées non réfrigérées, pour autant qu'elles soient fondues dans les douze heures suivant le jour de leur obtention ;
 
@@ -47,6 +55,12 @@ c) Par dérogation au point a, les matières premières collectées dans des mag
 5. Avant d'être fondues, les matières premières sont soumises à une inspection destinée à établir la présence de matières premières impropres à la consommation humaine ou de substances étrangères. Le cas échéant, celles-ci doivent être éliminées.
 
 6. Les matières premières doivent être fondues par la chaleur, la pression ou par une autre méthode appropriée, suivie d'une séparation des graisses par décantation, centrifugation ou filtration ou une autre méthode appropriée. L'emploi de dissolvants est interdit.
+
+Les graisses animales fondues préparées après le 1er octobre 2001 à partir de matières premières en provenance de ruminants doivent subir :
+
+- un traitement de purification de façon telle que le taux maximal d'impuretés insolubles soit de 0,15 % en poids, et
+
+- un chauffage à une température à coeur d'au moins 133 °C pendant vingt minutes à une pression de 3 bars. La taille des particules de matières brutes avant traitement doit être réduite à 50 mm au moins. Ce traitement peut être appliqué lot par lot ou selon un système continu.
 
 7. Les graisses animales fondues préparées conformément aux points 1, 2, 3, 5 et 6 peuvent être raffinées dans le même établissement ou dans un autre établissement en vue d'améliorer leurs qualités physico-chimiques lorsque les graisses à raffiner respectent les critères visés au point 8.
 

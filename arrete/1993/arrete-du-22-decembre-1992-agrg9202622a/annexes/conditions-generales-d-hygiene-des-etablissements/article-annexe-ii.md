@@ -8,11 +8,11 @@ A. - Conditions générales d'hygiène applicables aux locaux, aux matériels et
 
 3. a) Les lieux de travail, les outils et le matériel ne doivent être utilisés que pour l'élaboration des produits pour lesquels l'agrément a été accordé. Toutefois, ils peuvent être utilisés pour l'élaboration simultanée, ou à des moments différents, d'autres produits alimentaires propres à la consommation humaine, après autorisation des services officiels. Cette restriction ne s'applique pas au matériel de transport utilisé dans les locaux où il n'est pas procédé au travail des matières premières ou des produits visés par le présent arrêté.
 
-b) Les lieux de travail ne peuvent être utilisés pour la fabrication de produits non destinés à la consommation humaine que dans les conditions suivantes :
+b) Sans préjudice des dispositions du point 3 du A de l'annexe III, les lieux de travail ne peuvent être utilisés pour la fabrication de produits non destinés à la consommation humaine que dans les conditions suivantes :
 
 - les matières premières impropres à la consommation humaine doivent être stockées dans un local complètement séparé ou dans un emplacement de réception complètement séparé ;
 
-- elles doivent être travaillées dans des locaux séparés avec l'utilisation d'installations et d'équipement distincts, sauf si la fabrication a lieu dans des installations ou d'équipements complètement clos et utilisés exclusivement à cet effet ;
+- elles doivent être travaillées dans des locaux séparés avec l'utilisation d'installations et d'équipements distincts, sauf si la fabrication a lieu dans des installations ou équipements complètement clos et utilisés exclusivement à cet effet ;
 
 - les produits finis obtenus à partir de ces matières premières doivent être stockés dans un local séparé ou dans des conteneurs séparés et étiquetés de façon appropriée et ne doivent pas être destinés à la consommation humaine.
 
