@@ -1,4 +1,4 @@
-# Décret du 27 janvier 1940 relatif à la réquisition collective de la batellerie.
+# Décret du 2 juin 1940 relatif à la réquisition des ports maritimes de commerce.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

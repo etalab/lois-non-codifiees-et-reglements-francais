@@ -1,5 +1,0 @@
-# Article 11
-
-En vue de l'application de l'article 10 du décret susvisé du 29 novembre 1939, sont arrêtées par le préfet et publiées au Recueil des actes administratifs de la préfecture : 1° la liste des services agréés par l'autorité sanitaire dans le cas prévu au paragraphe 3 de cet article ; 2° et 3° la liste des établissements publics hospitaliers et celle des établissements privés agréés par l'autorité sanitaire pour l'hospitalisation d'un malade, ordonnée par décision de justice, dans le cas prévu au paragraphe 4 de l'article 10 précité.
-
-Les listes de médecins agrées par l'autorité sanitaire comme étant qualifiés pour faire suivre un traitement à un malade dans le cas prévu au paragraphe 3 de l'article 10 précité du décret du 29 novembre 1939 comprennent dans chaque département tous les médecins qui ont demandé leur inscription sur cette liste, à l'exclusion de ceux que le préfet aura écartés sur le rapport de l'inspecteur départemental d'hygiène et après avis de l'organisation professionnelle la plus représentative des médecins du département où ils exercent leur profession.
