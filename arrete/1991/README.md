@@ -333,7 +333,6 @@
 - [Arrêté du 12 juin 1991 (SPSS9101278A)](arrete-du-12-juin-1991-spss9101278a)
 - [Arrêté du 12 mars 1991 (INTB9100167A)](arrete-du-12-mars-1991-intb9100167a)
 - [Arrêté du 12 mars 1991 (INTD9100164A)](arrete-du-12-mars-1991-intd9100164a)
-- [Arrêté du 12 mars 1991 (PTTR9100092A)](arrete-du-12-mars-1991-pttr9100092a)
 - [Arrêté du 12 mars 1991 (SPSS9100689A)](arrete-du-12-mars-1991-spss9100689a)
 - [Arrêté du 12 mars 1991 (TEFE9103295A)](arrete-du-12-mars-1991-tefe9103295a)
 - [Arrêté du 12 novembre 1991 (BUDZ9100011A)](arrete-du-12-novembre-1991-budz9100011a)
