@@ -24,6 +24,8 @@
 - [Loi n° 85-705 du 12 juillet 1985](loi-n-85-705-du-12-juillet-1985)
 - [Loi n° 85-706 du 12 juillet 1985](loi-n-85-706-du-12-juillet-1985)
 - [Loi n° 85-729 du 18 juillet 1985](loi-n-85-729-du-18-juillet-1985)
+- [Loi n° 85-772 du 25 juillet 1985](loi-n-85-772-du-25-juillet-1985)
+- [Loi n° 85-773 du 25 juillet 1985](loi-n-85-773-du-25-juillet-1985)
 - [Loi n° 85-8 du 2 janvier 1985](loi-n-85-8-du-2-janvier-1985)
 - [Loi n° 85-97 du 25 janvier 1985](loi-n-85-97-du-25-janvier-1985)
 - [Loi n° 85-98 du 25 janvier 1985](loi-n-85-98-du-25-janvier-1985)

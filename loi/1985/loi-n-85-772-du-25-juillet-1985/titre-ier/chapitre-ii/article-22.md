@@ -1,0 +1,3 @@
+# Article 22
+
+Les adjoints des hôpitaux régis par le décret n° 78-257 du 8 mars 1978 et intégrés dans le corps des praticiens hospitaliers soumis au décret n° 84-131 du 24 février 1984, portant statut des praticiens hospitaliers, peuvent demander que leur reclassement dans ce dernier corps soit opéré avec effet du 1er janvier 1985, après prise en compte de leurs années de service accomplies dans les établissements d'hospitalisation publics en qualité de chef de clinique des universités-assistants des hôpitaux, d'assistants des universités-assistants des hôpitaux et de leur temps de service national ou de service militaire.
