@@ -262,6 +262,7 @@
 - [Arrêté du 15 janvier 1992 (MENT9102529A)](arrete-du-15-janvier-1992-ment9102529a)
 - [Arrêté du 15 janvier 1992 (SPSG9102337A)](arrete-du-15-janvier-1992-spsg9102337a)
 - [Arrêté du 15 janvier 1993 (PRMX9300025A)](arrete-du-15-janvier-1993-prmx9300025a)
+- [Arrêté du 15 mai 1992 (MENN9202246A)](arrete-du-15-mai-1992-menn9202246a)
 - [Arrêté du 15 mai 1992 (SPSS9201111A)](arrete-du-15-mai-1992-spss9201111a)
 - [Arrêté du 16 décembre 1983](arrete-du-16-decembre-1983)
 - [Arrêté du 16 février 1989 (EQUV8900160A)](arrete-du-16-fevrier-1989-equv8900160a)
