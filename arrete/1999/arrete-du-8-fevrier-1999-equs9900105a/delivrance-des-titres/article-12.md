@@ -90,4 +90,6 @@ Les codes utilisés et leur signification sont les suivants :
 
 104 : sous-catégorie A 1 limitée aux motocyclettes à embrayage et changement de vitesses automatiques ;
 
-105 : dispense R. 10-6, premier alinéa.
+105 : dispense du I de l'article R. 413-5, premier alinéa.
+
+106 : soumis à l'application du I de l'article R. 413-5 du ../ ../ au ../../...
