@@ -565,7 +565,6 @@
 - [Arrêté du 29 novembre 1988 (SPSS8801389A)](arrete-du-29-novembre-1988-spss8801389a)
 - [Arrêté du 29 septembre 1988 (SPSP8801698A)](arrete-du-29-septembre-1988-spsp8801698a)
 - [Arrêté du 30 août 1988 (PRME8861175A)](arrete-du-30-aout-1988-prme8861175a)
-- [Arrêté du 30 août 1988 (SPSG8800829A)](arrete-du-30-aout-1988-spsg8800829a)
 - [Arrêté du 30 août 1988 (SPSP8801124A)](arrete-du-30-aout-1988-spsp8801124a)
 - [Arrêté du 30 avril 1988 (INTB8800194A)](arrete-du-30-avril-1988-intb8800194a)
 - [Arrêté du 30 décembre 1987 (EQUC8701110A)](arrete-du-30-decembre-1987-equc8701110a)
