@@ -1,15 +1,11 @@
 # Annexes
 
 - [Habilitation de l'organisme prêteur à consentir des prêts conventionnés.](habilitation-de-l-organisme-preteur-a)
-- [Retrait de l'habilitation donnée à l'organisme prêteur.](retrait-de-l-habilitation-donnee-a)
-- [Agrément des barèmes.](agrement-des-baremes)
 - [Application de la réglementation des prêts conventionnés.](application-de-la-reglementation-des-prets-conventionnes)
 - [Avis de la SGFGAS](avis-de-la-sgfgas)
-- [Avis du crédit foncier.](avis-du-credit-foncier)
 - [Bénéficiaires.](beneficiaires)
 - [Contrôles.](controles)
 - [Durée de la convention.](duree-de-la-convention)
-- [Conditions de taux d'intérêt et de remboursement.](conditions-de-taux-d-interet-et)
 - [Nature, durée et période d'anticipation.](nature-duree-et)
 - [Financement.](financement)
 - [Montant.](montant)
@@ -19,4 +15,3 @@
 - [Remboursements anticipés.](remboursements-anticipes)
 - [Renseignements statistiques.](renseignements-statistiques)
 - [Sanctions](sanctions)
-- [Taux d'intérêt maxima.](taux-d-interet-maxima)
