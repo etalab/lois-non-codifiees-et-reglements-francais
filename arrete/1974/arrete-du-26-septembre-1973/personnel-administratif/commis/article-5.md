@@ -4,13 +4,19 @@ Les concours prévus à l'article précédent comportent les épreuves suivantes
 
 Epreuves écrites :
 
-1° Rédaction (durée : trois heures : coefficient 3) ;
+1° Rédaction (durée : trois heures ; coefficient 3) ;
 
 2° Dictée (durée : trente minutes ; coefficient 2) ;
 
-3° Au choix du candidat : deux problèmes ou exercices, soit d'arithmétique, soit de mathématiques modernes (durée : deux heures ; coefficient 2) ;
+3° Au choix du candidat, deux problèmes ou exercices :
 
-4° Confection, d'après les éléments donnés, d'un tableau comportant des opérations de calcul (durée : une heure et demie ; coefficient 2) ;
+Soit de mathématiques traditionnelles ;
+
+Soit de mathématiques modernes.
+
+(Durée : deux heures ; coefficient 2).
+
+4° Confection, d'après les éléments donnés, d'un tableau comportant des opérations de calcul (durée : une heure et demie, coefficient 2) ;
 
 Epreuves orales :
 
@@ -18,7 +24,9 @@ Epreuves orales :
 
 2° Interrogation sur le programme de droit privé (coefficient 2) ;
 
-3° Interrogation sur le programme de comptabilité (coefficient 2) ;       Epreuve facultative :
+3° Interrogation sur le programme de comptabilité (coefficient 2) ;
+
+Epreuve facultative :
 
 Dactylographie ou sténodactylographie.
 

@@ -1,8 +1,8 @@
-# Article Annexe 1
+# Article ANNEXE
 
 Les candidats au concours externe de commis doivent être titulaires de l'un des diplômes suivants :
 
-B.E.P.C. (brevet d'études du premier cycle de l'enseignement du second degré) ;
+B.E.P.C. (Brevet d'études du premier cycle de l'enseignement du second degré) ;
 
 Brevet d'études professionnelles ;
 
@@ -10,15 +10,15 @@ Brevet élémentaire ;
 
 Brevet des collèges.
 
-//Complété par ARR. 1982-02-08 : Brevet des collèges.//    Première partie du baccalauréat ;
+Première partie du baccalauréat ;
 
 Brevet d'enseignement industriel (examen probatoire) ;
 
-Brevet supérieur d'études commerciales (1ère partie) ;
+Brevet supérieur d'études commerciales (1ere partie) ;
 
-Brevet d'enseignement commercial (1ère partie ou 1er degré) ;
+Brevet d'enseignement commercial (1ere partie ou 1er degré) ;
 
-Brevet d'enseignement hôtelier (1ère partie ou 1er degré) ;
+Brevet d'enseignement hôtelier (1ere partie ou 1er degré) ;
 
 Brevet d'enseignement social (1er degré) ;
 
@@ -38,29 +38,29 @@ Brevet professionnel de secrétaire ;
 
 Brevet professionnel ou certificat d'aptitude professionnelle de mécanographe ;
 
-//Complété par ARR. 1981-07-15 :
+Brevet d'études professionnelles (B.E.P.) préparatoire aux carrières sanitaires et sociales (option sociale).
 
 Brevet d'aptitude à l'animation socio-éducative (B.A.S.E.) ;
 
 Brevet d'aptitude aux fonctions d'animateur de centre de vacances et de loisirs (B.A.F.A.) ;
 
-Diplômes permettant de se présenter aux concours d'attaché communal et de rédacteur (option Animation sociale et socio-éducative).//    /M/Certificat d'aptitude professionnelle d'aide comptable ;
+Diplômes permettant de se présenter aux concours d'attaché communal et de rédacteur (option animation sociale et socio-éducative).
+
+Certificat d'aptitude professionnelle d'aide comptable ;
 
 Certificat d'aptitude professionnelle d'employé de bureau ;
 
 Certificat d'aptitude professionnelle de sténodactylographe ;
 
-/M/remplacé par ARR. 1979-09-21.
-
 Titre ou diplôme homologué au niveau V des titres et diplômes de l'enseignement technologique en application de l'article 8 de la loi n° 71-577 du 16 juillet 1971 sur l'enseignement technologique.
 
-Certificat d'aptitude professionnelle.//
+Certificat d'aptitude professionnelle.
 
 Certificat délivré par le chef d'établissement attestant que le candidat a suivi ses études jusqu'à la classe de seconde inclusivement (second cycle des enseignements du second degré :
 
 général, technique ou agricole) ;
 
-Certificat de formation professionnelle des adultes, mention Secrétaire sténodactylographe ;
+Certificat de formation professionnelle des adultes, mention secrétaire sténodactylographe ;
 
 Certificat de capacité en droit (1er examen) ;
 
