@@ -81,7 +81,6 @@
 - [Arrêté du 28 juin 1976](arrete-du-28-juin-1976)
 - [Arrêté du 29 décembre 1975](arrete-du-29-decembre-1975)
 - [Arrêté du 29 juillet 1976](arrete-du-29-juillet-1976)
-- [Arrêté du 29 mars 1976](arrete-du-29-mars-1976)
 - [Arrêté du 30 avril 1976](arrete-du-30-avril-1976)
 - [Arrêté du 30 décembre 1975](arrete-du-30-decembre-1975)
 - [Arrêté du 30 janvier 1976](arrete-du-30-janvier-1976)
