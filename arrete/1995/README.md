@@ -739,7 +739,6 @@
 - [Arrêté du 20 juillet 1995 (SANP9502267A)](arrete-du-20-juillet-1995-sanp9502267a)
 - [Arrêté du 20 juin 1994 (ECOT9494249A)](arrete-du-20-juin-1994-ecot9494249a)
 - [Arrêté du 20 juin 1995 (DEFT9501716A)](arrete-du-20-juin-1995-deft9501716a)
-- [Arrêté du 20 juin 1995 (MCCF9500343A)](arrete-du-20-juin-1995-mccf9500343a)
 - [Arrêté du 20 mars 1995 (BUDZ9500004A)](arrete-du-20-mars-1995-budz9500004a)
 - [Arrêté du 20 mars 1995 (INDG9500375A)](arrete-du-20-mars-1995-indg9500375a)
 - [Arrêté du 20 mars 1995 (INTD9500151A)](arrete-du-20-mars-1995-intd9500151a)
