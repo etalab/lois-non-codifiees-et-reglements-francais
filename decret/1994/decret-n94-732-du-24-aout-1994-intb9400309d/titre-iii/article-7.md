@@ -1,5 +1,5 @@
 # Article 7
 
-La titularisation des stagiaires intervient à la fin du stage par décision du maire. Lorsque la titularisation n'est pas prononcée, le stagiaire est soit licencié s'il n'avait pas auparavant la qualité de fonctionnaire soit réintégré dans son corps, cadre d'emplois ou emploi d'origine.
+La titularisation des stagiaires intervient, par décision du maire, à la fin du stage mentionné à l'article 5, au vu notamment d'un rapport établi par le président du Centre national de la fonction publique territoriale sur le déroulement de la période de formation.
 
-Toutefois, le maire peut, à titre exceptionnel, décider que la période de stage est prolongée d'une durée maximale d'un an.
+Lorsque la titularisation n'est pas prononcée, le stagiaire est soit licencié s'il n'avait pas auparavant la qualité de fonctionnaire, soit réintégré dans son cadre d'emplois, corps ou emploi d'origine.
