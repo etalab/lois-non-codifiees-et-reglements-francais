@@ -17,3 +17,5 @@ Le conseil d'administration [*attributions*] délibère sur toutes les questions
 6° La gestion des immeubles et du portefeuille ;
 
 7° L'exercice de toutes actions en justice tant en demande qu'en défense.
+
+8° Les conditions dans lesquelles sont attribués les aides et secours en faveur des retraités.
