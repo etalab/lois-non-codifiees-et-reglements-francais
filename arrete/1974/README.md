@@ -62,6 +62,7 @@
 - [Arrêté du 26 mars 1974](arrete-du-26-mars-1974)
 - [Arrêté du 26 septembre 1973](arrete-du-26-septembre-1973)
 - [Arrêté du 27 août 1974](arrete-du-27-aout-1974)
+- [Arrêté du 27 décembre 1974](arrete-du-27-decembre-1974)
 - [Arrêté du 27 juin 1974](arrete-du-27-juin-1974)
 - [Arrêté du 27 septembre 1973](arrete-du-27-septembre-1973)
 - [Arrêté du 27 septembre 1974](arrete-du-27-septembre-1974)
