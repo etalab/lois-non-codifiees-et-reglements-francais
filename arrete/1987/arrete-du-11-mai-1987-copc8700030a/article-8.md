@@ -1,0 +1,5 @@
+# Article 8
+
+Seuls sont éligibles par un collège électoral les membres de ce collège électoral ayant fait acte de candidature. Une fiche de présentation peut être adressée par les candidats; cette fiche est diffusée par l'administration avec l'ensemble du matériel électoral.
+
+Une commission, présidée par le délégué aux élections et comprenant un représentant de chaque collège nommé par le directeur général et un représentant de chacune des organisations syndicales, dresse les listes électorales. Ces listes sont déposées au siège et adressées dans les centres et missions de l'institut deux mois au moins avant la date du scrutin; elles peuvent être consultées pendant un délai de dix jours. Pendant ce même délai, des réclamations peuvent être formulées par lettre adressée par les intéressés au délégué aux élections. Celui-ci statue sur le bien-fondé des réclamations et propose les listes électorales définitives qui sont arrêtées par le directeur général de l'institut au moins un mois avant la date du scrutin qu'il a fixée.
