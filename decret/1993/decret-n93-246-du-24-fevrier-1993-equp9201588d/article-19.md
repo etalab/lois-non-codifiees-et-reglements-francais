@@ -1,0 +1,3 @@
+# Article 19
+
+Les membres du corps des urbanistes de l'Etat qui ont été recrutés antérieurement à la date de publication du présent décret dans leur corps ont la faculté pendant une période de six mois à compter de la date de publication du présent décret de demander le report à la date de publication du présent décret de la date d'effet de leur nomination en vue de leur reclassement à cette date dans la 2e classe du grade d'architecte et urbaniste de l'Etat dans les conditions prévues aux articles 12 et 12-1 du décret du 13 avril 1962 susvisé, modifié par le présent décret. Leur ancienneté de service dans le corps des architectes et urbanistes de l'Etat continue toutefois à être décomptée à partir de la date à laquelle ils y ont accédé.
