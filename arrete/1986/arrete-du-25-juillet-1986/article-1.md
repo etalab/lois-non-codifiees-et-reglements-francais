@@ -1,3 +1,3 @@
 # Article 1
 
-Le laboratoire de physiologie de la faculté de médecine de Dijon, dirigé par le professeur Jacques Klepping, est habilité, pour une période de cinq années à partir de la date du présent arrêté [*point de départ*], à effectuer les analyses exigées à l'article 9 du décret du 15 mai 1981 pour la constitution du dossier de déclaration de mise en vente d'un produit destiné à une alimentation particulière [*autorisation*].
+Les laboratoires chargés de concourir à l'application de la réglementation relative à la répression des fraudes sont tenus d'employer, pour effectuer la détermination de la teneur en fibres alimentaires totales des produits au son, la méthode décrite en annexe du présent arrêté.

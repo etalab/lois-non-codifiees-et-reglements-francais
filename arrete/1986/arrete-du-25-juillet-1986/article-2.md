@@ -1,3 +1,3 @@
 # Article 2
 
-En aucun cas le laboratoire [*de physiologie de la faculté de médecine de Dijon*] susvisé ne devra être lié avec le déclarant par un contrat de surveillance ou de contrôle des produits qu'il fabrique ou importe [*indépendance*].
+L'arrêté du 8 septembre 1983 relatif à la méthode officielle d'analyse pour la détermination de la teneur en fibres alimentaires totales des produits au son est abrogé.

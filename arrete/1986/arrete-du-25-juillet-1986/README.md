@@ -1,4 +1,4 @@
-# Arrêté du 25 juillet 1986 pris en application du décret du 15 mai 1981 sur les aliments destinés à une alimentation particulière
+# Arrêté du 25 juillet 1986 relatif à la méthode officielle d'analyse pour la détermination de la teneur en fibres alimentaires totales des produits au son
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
