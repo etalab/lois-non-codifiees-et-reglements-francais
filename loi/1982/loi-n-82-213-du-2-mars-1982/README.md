@@ -2,5 +2,6 @@
 
 - [Article 1](article-1.md)
 - [Titre Ier : Des droits et libertés de la commune](titre-ier)
+- [Titre II : Des droits et libertés du département](titre-ii)
 - [Titre IV : Dispositions communes et relations entre l'Etat, les communes, les départements et les régions](titre-iv)
 - [Titre V : Dispositions diverses.](titre-v)
