@@ -1,6 +1,8 @@
 # 1986
 
 - [Décret n°86-729 du 2 mai 1986](decret-n86-729-du-2-mai-1986)
+- [Décret n°86-730 du 2 mai 1986](decret-n86-730-du-2-mai-1986)
+- [Décret n°86-731 du 2 mai 1986](decret-n86-731-du-2-mai-1986)
 - [Décret n°86-10 du 3 janvier 1986](decret-n86-10-du-3-janvier-1986)
 - [Décret n°86-23 du 3 janvier 1986](decret-n86-23-du-3-janvier-1986)
 - [Décret n°86-27 du 3 janvier 1986](decret-n86-27-du-3-janvier-1986)
@@ -41,6 +43,7 @@
 - [Décret n°86-169 du 5 février 1986](decret-n86-169-du-5-fevrier-1986)
 - [Décret n°86-172 du 5 février 1986](decret-n86-172-du-5-fevrier-1986)
 - [Décret n°86-192 du 5 février 1986](decret-n86-192-du-5-fevrier-1986)
+- [Décret n°86-303 du 5 mars 1986](decret-n86-303-du-5-mars-1986)
 - [Décret n°86-331 du 5 mars 1986](decret-n86-331-du-5-mars-1986)
 - [Décret n°86-354 du 5 mars 1986](decret-n86-354-du-5-mars-1986)
 - [Décret n°86-15 du 6 janvier 1986](decret-n86-15-du-6-janvier-1986)
