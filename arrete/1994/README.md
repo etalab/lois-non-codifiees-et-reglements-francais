@@ -1025,7 +1025,6 @@
 - [Arrêté du 26 avril 1994 (ECOT9410209A)](arrete-du-26-avril-1994-ecot9410209a)
 - [Arrêté du 26 avril 1994 (INDA9400520A)](arrete-du-26-avril-1994-inda9400520a)
 - [Arrêté du 26 avril 1994 (INDP9400510A)](arrete-du-26-avril-1994-indp9400510a)
-- [Arrêté du 26 décembre 1994 (EQUT9402145A)](arrete-du-26-decembre-1994-equt9402145a)
 - [Arrêté du 26 février 1996 (TASG9610450A)](arrete-du-26-fevrier-1996-tasg9610450a)
 - [Arrêté du 26 février 1996 (TASG9610451A)](arrete-du-26-fevrier-1996-tasg9610451a)
 - [Arrêté du 26 janvier 1994 (AGRS9302027A)](arrete-du-26-janvier-1994-agrs9302027a)
