@@ -3,6 +3,7 @@
 - [Loi n° 94-1162 du 29 décembre 1994 (BUDX9400125L)](loi-n-94-1162-du-29-decembre-1994-budx9400125l)
 - [Loi n° 95-1141 du 31 octobre 1995 (MAEX9400120L)](loi-n-95-1141-du-31-octobre-1995-maex9400120l)
 - [Loi n° 95-1142 du 31 octobre 1995 (MAEX9400119L)](loi-n-95-1142-du-31-octobre-1995-maex9400119l)
+- [Loi n° 95-115 du 4 février 1995 (INTX9400057L)](loi-n-95-115-du-4-fevrier-1995-intx9400057l)
 - [Loi n° 95-116 du 4 février 1995 (SPSX9400133L)](loi-n-95-116-du-4-fevrier-1995-spsx9400133l)
 - [Loi n° 95-1222 du 16 novembre 1995 (MAEX9500031L)](loi-n-95-1222-du-16-novembre-1995-maex9500031l)
 - [Loi n° 95-1223 du 16 novembre 1995 (MAEX9500038L)](loi-n-95-1223-du-16-novembre-1995-maex9500038l)

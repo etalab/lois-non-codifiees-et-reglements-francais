@@ -1,4 +1,4 @@
-# Décret du 30 octobre 1935 relatif aux servitudes à imposer aux propriétés pour l'établissement de terrains destinés en partie ou en totalité à l'armée de l'air.
+# Décret du 30 octobre 1935 relatif au contrôle des associations, oeuvres et entreprises subventionnées
 
 - [CHAPITRE II : RÈGLES POUR L'ÉTABLISSEMENT DES SERVITUDES.](chapitre-ii)
 - [CHAPITRE III : FIXATION DES INDEMNITÉS.](chapitre-iii)

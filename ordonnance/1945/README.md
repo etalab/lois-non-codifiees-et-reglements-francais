@@ -5,7 +5,6 @@
 - [Ordonnance n° 45-2591 du 2 novembre 1945](ordonnance-n-45-2591-du-2-novembre-1945)
 - [Ordonnance n° 45-2592 du 2 novembre 1945](ordonnance-n-45-2592-du-2-novembre-1945)
 - [Ordonnance n° 45-2596 du 2 novembre 1945](ordonnance-n-45-2596-du-2-novembre-1945)
-- [Ordonnance n° 45-2604 du 2 novembre 1945](ordonnance-n-45-2604-du-2-novembre-1945)
 - [Ordonnance n° 45-2640 du 2 novembre 1945](ordonnance-n-45-2640-du-2-novembre-1945)
 - [Ordonnance n° 45-2646 du 2 novembre 1945](ordonnance-n-45-2646-du-2-novembre-1945)
 - [Ordonnance n° 45-2675 du 2 novembre 1945](ordonnance-n-45-2675-du-2-novembre-1945)

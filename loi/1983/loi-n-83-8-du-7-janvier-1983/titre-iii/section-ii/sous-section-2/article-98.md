@@ -8,6 +8,4 @@ Au fur et à mesure du transfert des compétences, les charges déjà transfér�
 
 A l'issue de cette période, et conformément aux dispositions de l'article 5, la dotation générale de décentralisation versée à chaque collectivité évolue chaque année comme la dotation globale de fonctionnement de l'ensemble des collectivités territoriales.
 
-II - Dans les régions ainsi que, pendant la période de trois ans prévue à l'article 4, dans les départements et les communes, la dotation générale de décentralisation est inscrite à la section de fonctionnement du budget. Les collectivités bénéficiaires utilisent librement cette dotation.
-
 III - Le comité des finances locales est tenu, chaque année, informé des conditions d'application du présent article.

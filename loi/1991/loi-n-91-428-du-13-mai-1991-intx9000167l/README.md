@@ -1,10 +1,6 @@
 # Loi n° 91-428 du 13 mai 1991 portant statut de la collectivité territoriale de Corse (1)
 
 - [Article 1](article-1.md)
-- [Titre Ier : Organisation de la Corse CHAPITRE Ier / Chapitre Ier](titre-ier)
-- [Article 2](article-2.md)
-- [Titre II : Du représentant de l'Etat en Corse](titre-ii)
-- [Titre III : De l'identité culturelle de la Corse](titre-iii)
 - [TITRE IV : DU DÉVELOPPEMENT ÉCONOMIQUE DE LA CORSE](titre-iv)
 - [TITRE V : DES RESSOURCES DE LA COLLECTIVITÉ TERRITORIALE DE CORSE.](titre-v)
 - [Titre VI : Dispositions diverses et transitoires](titre-vi)

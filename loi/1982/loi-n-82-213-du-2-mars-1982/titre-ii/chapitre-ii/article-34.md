@@ -14,9 +14,7 @@ II. - Sur leur demande, le président du conseil général et les maires reçoiv
 
 Sur sa demande, le représentant de l'Etat dans le département reçoit des maires et du président du conseil général les informations nécessaires à l'exercice de ses attributions.
 
-III. - Outre les pouvoirs qu'il tient de l'article L. 131-13 du code des communes, le représentant de l'Etat dans le département est seul compétent pour prendre les mesures relatives au bon ordre, à la sûreté, à la sécurité et à la salubrité publiques, dont le champ d'application excède le territoire d'une commune.
-
-Le représentant de l'Etat dans le département peut, dans le cas où il n'y aurait pas été pourvu par le président du conseil général, et après une mise en demeure restée sans résultat, exercer les attributions dévolues au président du conseil général en matière de police en vertu des dispositions de l'article 25 de la présente loi.
+III - Le représentant de l'Etat dans le département peut, dans le cas où il n'y aurait pas été pourvu par le président du conseil général, et après une mise en demeure restée sans résultat, exercer les attributions dévolues au président du conseil général en matière de police en vertu des dispositions de l'article 25 de la présente loi.
 
 Sous réserve des dispositions du code de procédure pénale relatives à l'exercice de la mission de police judiciaire, le représentant de l'Etat dans le département, et, à Paris, le préfet de police, anime et coordonne la prévention de la délinquance et de l'insécurité.
 
