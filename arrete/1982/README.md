@@ -6,6 +6,7 @@
 - [Arrêté du 6 janvier 1982](arrete-du-6-janvier-1982)
 - [Arrêté du 7 décembre 1981](arrete-du-7-decembre-1981)
 - [Arrêté du 7 janvier 1982](arrete-du-7-janvier-1982)
+- [Arrêté du 8 février 1982](arrete-du-8-fevrier-1982)
 - [Arrêté du 8 janvier 1982](arrete-du-8-janvier-1982)
 - [Arrêté du 11 janvier 1982](arrete-du-11-janvier-1982)
 - [Arrêté du 12 janvier 1982](arrete-du-12-janvier-1982)
