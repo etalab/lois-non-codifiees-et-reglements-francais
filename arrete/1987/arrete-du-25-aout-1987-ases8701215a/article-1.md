@@ -8,4 +8,4 @@ Il est institué une commission de la Nomenclature des actes de biologie médica
 
 - l'interprétation de la nomenclature.
 
-Les propositions relatives aux nouvelles cotations comportent une approche économique de la valeur de l'analyse et une estimation des dépenses correspondantes à la charge des régimes obligatoires d'assurance maladie.
+Les propositions relatives aux nouvelles cotations doivent comporter, sous peine d'irrecevabilité, une approche économique de la valeur de l'acte et une estimation des dépenses correspondantes à la charge des régimes obligatoires d'assurance maladie.

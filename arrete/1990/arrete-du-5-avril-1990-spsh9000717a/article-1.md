@@ -58,4 +58,14 @@ Diplôme d'Etat d'éducateur spécialisé ;
 
 Diplôme d'Etat relatif aux fonctions d'animation ;
 
-Certificat d'aptitude aux fonctions de directeur d'établissement social.
+Certificat d'aptitude aux fonctions de directeur d'établissement social ;
+
+Certificat de moniteur d'atelier ;
+
+Diplôme d'Etat d'éducateur de jeunes enfants ;
+
+Brevet de technicien supérieur d'économie sociale familiale ;
+
+Diplôme d'Etat de conseiller en économie sociale familiale ;
+
+Diplôme supérieur en travail social.

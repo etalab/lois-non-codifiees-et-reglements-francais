@@ -1,5 +1,7 @@
 # Article 3
 
-Les membres de la commission sont nommés pour trois ans par le ministre chargé de la sécurité sociale.
+Le président et les membres de la commission sont nommés pour trois ans par le ministre chargé de la sécurité sociale.
 
-La commission choisit son président et son vice-président parmi ses membres énumérés aux alinéas 1 et 3 de l'article 2. Le vice-président doit appartenir à la catégorie à laquelle le président n'appartient pas.
+Le remplacement d'un membre, en cas de cessation des fonctions au cours du mandat, s'effectue dans les mêmes conditions que la nomination et pour la durée du mandat restant à accomplir.
+
+La commission choisit deux vice-présidents, l'un parmi les membres énumérés au 1° et l'autre parmi les membres énumérés au 3° de l'article 1er.
