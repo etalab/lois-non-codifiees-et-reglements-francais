@@ -1,6 +1,6 @@
 # Article 19
 
-I. - Les entreprises qui appliquent un accord collectif fixant la durée collective du travail au plus soit à trente-cinq heures hebdomadaires, soit à 1 600 heures sur l'année et s'engagent dans ce cadre à créer ou à préserver des emplois bénéficient d'un allégement de cotisations sociales défini à l'article L. 241-13-1 du code de la sécurité sociale.
+I. - Les entreprises qui appliquent un accord collectif fixant la durée collective du travail au plus soit à trente-cinq heures hebdomadaires, soit à 1 600 heures sur l'année ou à la durée considérée comme équivalente en application du dernier alinéa de l'article L. 212-4 du code du travail et s'engagent dans ce cadre à créer ou à préserver des emplois bénéficient d'un allégement de cotisations sociales défini à l'article L. 241-13-1 du code de la sécurité sociale.
 
 II. - Pour ouvrir droit à l'allégement, la durée collective du travail applicable dans l'entreprise doit être fixée :
 
@@ -74,7 +74,9 @@ IX. - Bénéficient également de l'allégement dans les conditions prévues au 
 
 - les entreprises visées à l'article 23, à compter de la date d'entrée en vigueur de la première étape prévue par l'accord ;
 
-- les entreprises qui appliquent une convention ou un accord, d'entreprise pour celles dont l'effectif est au moins égal à cinquante salariés et pour les autres de branche ou d'entreprise, conclu avant la date d'entrée en vigueur de la présente loi, fixant la durée du travail dans les limites prévues au I.
+- les entreprises qui appliquent une convention ou un accord, d'entreprise pour celles dont l'effectif est au moins égal à cinquante salariés et pour les autres de branche ou d'entreprise, conclu avant la date d'entrée en vigueur de la présente loi, fixant la durée du travail dans les limites prévues au I ;
+
+- les entreprises qui appliquent une convention ou un accord de branche étendu ou un accord d'entreprise ou d'établissement soumis aux dispositions de l'article L. 132-26 du code du travail conclu avant la date d'entrée en vigueur de la présente loi réduisant la durée collective du travail au plus à la durée considérée comme équivalente à la durée prévue au I en application de dispositions réglementaires ou conventionnelles.
 
 X. - Lorsque la durée du travail des salariés travaillant de façon permanente en équipes successives selon un cycle continu n'excède pas trente-trois heures trente-six minutes en moyenne sur l'année, les entreprises bénéficient, pour ces salariés, de l'allégement nonobstant les dispositions des I et II.
 
