@@ -1,17 +1,7 @@
 # Article 5
 
-Les candidats peuvent également demander à subir une, deux ou trois épreuves facultatives.
+I - Les épreuves de contrôle des connaissances comprennent, pour chaque option, une interrogation orale complétée par une épreuve pratique.
 
-Les épreuves facultatives comprennent pour les deux concours :
+II - Les épreuves de contrôle des connaissances sont organisées de telle sorte que tout candidat qui en fait la demande puisse se présenter aux épreuves des deux options lors d'une même session d'examen.
 
-1) Une épreuve orale de langue étrangère (allemand, anglais, arabe, espagnol, italien, portugais, russe) (coefficient 1) ;
-
-2) Une interrogation portant, au choix du candidat, sur l'une des matières suivantes (coefficient 1) :
-
-Statistique (programme fixé à l'annexe XI) ;
-
-Economie de la santé (programme fixé à l'annexe XII).
-
-En outre, pour le premier concours seulement, législation de la sécurité sociale (programme fixé à l'annexe X), et pour le second concours seulement, psychologie et sociologie (programme fixé à l'annexe VI).
-
-3) Une épreuve sportive (coefficient 1).
+III - Les épreuves de contrôle des connaissances portent pour chacune des deux options sur le programme correspondant, annexé au présent arrêté.

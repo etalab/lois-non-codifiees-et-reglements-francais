@@ -8,6 +8,6 @@ Apprêts et traitements.
 
 7.3. Sont également interdits tous les traitements susceptibles d'occasionner des troubles physiologiques tant à la manipulation qu'à l'usage.
 
-7.4. Les tissus doivent être exempts de tout principe d'altération, notamment acides, alcalis caustiques ou oxydants. Ils ne doivent présenter aucune odeur désagréable ou incommodante.
+7.4. Les tissus doivent être exempts de tout principe d'altération, notamment acides, alcalis caustiques ou oxydants. Ils ne doivent présenter aucune odeur désagréable ou incommodante. L'utilisation des colorants ou soufre est interdite.
 
 7.5. Les produits et modes d'application peuvent être soumis à l'agrément de l'administration si celle-ci en fait la demande.
