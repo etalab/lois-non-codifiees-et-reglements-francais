@@ -2,7 +2,7 @@
 
 Selon la nature et l'importance des travaux, l'instruction mixte est faite à l'échelon central ou à l'échelon local, comme il est indiqué ci-après.
 
-Lorsque les travaux, normalement soumis à l'instruction mixte à l'échelon local, intéressent exceptionnellement le territoire de plusieurs départements, l'instruction est faite à l'échelon central.
+Lorsque les travaux, normalement soumis à l'instruction mixte à l'échelon local, intéressent exceptionnellement le territoire de plusieurs départements, l'instruction est faite à l'échelon central. Cette disposition n'est pas applicable aux travaux intéressant le transport de l'éléctricité et du gaz.
 
 Réserve faite du cas particulier visé à l'article 23 du présent décret :
 
@@ -10,7 +10,7 @@ A - Sont soumis à la procédure d'instruction mixte à l'échelon central les p
 
 1. Etablissement, aménagement et suppression de moyens de communications terrestres, aériens, maritimes et fluviaux en ce qui concerne :
 
-Le tracé d'ensemble et les caractéristiques générales des itinéraires routiers définis par arrêtés conjoints du ministre de la défense nationale et des forces armées, du ministre des travaux publics, des transports et du tourisme et éventuellement du ministre de l'intérieur ;
+Les projets de réalisation ou de modification de routes faisant l'objet d'un classement dans la catégorie des autoroutes ou dans celle des routes express, à l'exclusion, lorsque ces autoroutes et routes existent, des travaux de réalisation d'ouvrages annexes, d'élargissement et de raccordement à d'autres voies publiques ;
 
 Les voies ferrées et leurs dépendances, en tant que les travaux prévus modifient la contexture des réseaux, le mode et les conditions d'alimentation de la traction, les possibilités de transport ;
 
@@ -34,9 +34,7 @@ Des usines et installations autres que celles énumérées au paragraphe précé
 
 Des usines et installations de production de matières radioactives, matières fissiles ou éléments susceptibles de donner lieu à des réactions thermonucléaires ;
 
-Des établissements consacrés à la production ou au traitement des pétroles et essences, dérivés ou résidus, naturels ou synthétiques, benzols et alcools, ainsi que des dépôts et des canalisations de transport de ces mêmes produits ;
-
-Des installations et canalisations de transport de gaz à longue distance.
+Des établissements consacrés à la production ou au traitement des pétroles et essences, dérivés ou résidus, naturels ou synthétiques, benzols et alcools, ainsi que des dépôts et des canalisations de transport de ces mêmes produits.
 
 3. Etablissement des programmes généraux concernant les installations de télécommunications d'intérêt national comprenant les catégories suivantes :
 
@@ -50,13 +48,15 @@ Les faisceaux hertziens ;
 
 Les installations non prévues ci-dessus, y compris celles étudiées par les services régionaux des postes, télégraphes et téléphones et pour lesquelles devront être réalisées, en raison de leur importance ou de leur situation, des conditions particulières de protection ou qui sont principalement destinées à desservir des organismes militaires.
 
-Le seuil fixé au premier alinéa ci-dessus est remplacé dès que l'index national des travaux publics TP 01 publié au bulletin officiel de la concurrence et de la la consommation a évolué de plus de 10 p. 100 depuis la date d'établissement du seuil précédent.<L>    Le nouveau seuil est constaté par arrêté du ministre de l'intérieur et de la décentralisation.
+Le seuil fixé au premier alinéa ci-dessus est remplacé dès que l'index national des travaux publics TP 01 publié au bulletin officiel de la concurrence et de la la consommation a évolué de plus de 10 p. 100 depuis la date d'établissement du seuil précédent.
+
+Le nouveau seuil est constaté par un arrêté conjoint des ministres chargés de l'environnement, de l'équipement, de l'intérieur et du budget.
 
 La décision d'ouverture de l'instruction mixte à l'échelon central est prise sur la base de l'évaluation du projet à la date de cette décision.
 
 B - Sont soumis à la procédure d'instruction mixte à l'échelon local les projets de travaux portant sur les objets énumérés ci-après, lorsque leur réalisation est de nature à entraîner une dépense totale évaluée à 8 millions d'euros au moins :
 
-1. Installations minières soumises à l'instruction prévue par la loi du 21 avril 1810 et les textes subséquents ;
+1. Installations minières soumises à l'instruction prévue par le décret n° 55-1343 du 12 octobre 1955 ;
 
 2. Installations et exploitations souterraines et sous-marines autres que celles qui constituent une partie ou la totalité des travaux énumérés au présent article ;
 
@@ -66,9 +66,15 @@ B - Sont soumis à la procédure d'instruction mixte à l'échelon local les pro
 
 5. Dessèchement des lacs, étangs et marais ;
 
-6. Installations de détection, lorsque leur exécution doit apporter des changements à des ouvrages soumis à instruction mixte.
+6. Installations de détection, lorsque leur exécution doit apporter des changements à des ouvrages soumis à instruction mixte ;
 
-C - Sont, en outre, soumis à la procédure d'instruction mixte, les projets de travaux portant sur les objets énumérés ci-après, dans la limite éventuelle des conditions techniques indiquées :
+7. Les installations et canalisations de transport de gaz à longue distance ;
+
+8. Les projets de réalisation ou de modification de routes appartenant à des catégories autres que celles visées au A du présent article ;
+
+9. Les projets de réalisation ou de modification de routes faisant l'objet d'un classement dans la catégories des autoroutes ou des routes express, dont le montant est inférieur à la somme prévue au A du présent article.
+
+C. - Sont, en outre, soumis à la procédure d'instruction mixte les projets de travaux portant sur les objets énumérés ci-après, dans la limite éventuelle des conditions techniques indiquées et lorsqu'ils ne font pas déjà l'objet, au titre des autres dispositions du présent décret, d'une procédure d'instruction mixte :
 
 I - A l'échelon central :
 
@@ -82,9 +88,7 @@ Les centrales hydrauliques d'une puissance maximum possible supérieure ou égal
 
 Les réservoirs non compris dans les retenues des centrales ci-dessus, comportant à la fois une capacité totale supérieure ou égale à 15 millions de mètres cubes et un barrage de hauteur supérieure ou égale à 20 mètres ;
 
-Les centrales thermiques d'une puissance maximum possible de 100000 kW au moins ;
-
-Les lignes de transport d'énergie et les postes de transformation de tension supérieure ou égale à 150000 volts.
+Les centrales thermiques d'une puissance maximum possible de 100000 kW au moins.
 
 3. Déclassement des cours d'eau ou canaux, des ports fluviaux, des ports militaires, des ports maritimes de commerce, en totalité ou en partie ;
 
@@ -94,7 +98,7 @@ Les lignes de transport d'énergie et les postes de transformation de tension su
 
 II - A l'échelon local :
 
-1. Construction, modification ou suppression des ponts d'une portée d'au moins 15 mètres, pour les services des voies de communication de toute espèce, ainsi que des ponts d'une portée comprise entre 6 et 15 mètres franchissant certains cours d'eau ou canaux, déterminés par arrêtés conjoints du ministre de la défense nationale et des forces armées, du ministre des travaux publics, des transports et du tourisme et, éventuellement, d'un autre ministre intéressé.
+1. Construction, modification ou suppression des ponts d'une portée d'au moins 15 mètres, pour les services des voies de communication de toute espèce, ainsi que des ponts d'une portée comprise entre 6 et 15 mètres franchissant certains cours d'eau ou canaux, déterminés par arrêtés conjoints du ministre de la défense nationale et des forces armées, du ministre des travaux publics, des transports et du tourisme et, éventuellement, d'un autre ministre intéressé ;
 
 2. Construction et modifications à apporter aux tunnels de plus de 20 mètres de longueur livrant passage à des routes, voies ferrées ou canaux ;
 
@@ -104,8 +108,10 @@ II - A l'échelon local :
 
 5. Travaux et questions accessoires intéressant la jouissance, la police ou la conservation des ouvrages gérés à la fois par des services civils et des services militaires ;
 
-6. Opérations prévues aux plans d'aménagement communaux et intercommunaux dont, au cours de la conférence entre services prévue par le décret du 13 mai 1948, l'un des conférents demande qu'elles soient soumises à l'instruction mixte ;
+6. Opérations prévues aux plans d'aménagement communaux et intercommunaux ;
 
 7. Travaux de construction, de modification ou de suppression à effectuer sur l'emprise des voies de communication de toutes espèces déclassées et non reclassées, et sur les ouvrages d'art correspondants ;
 
-8. Usines à gaz d'éclairage d'une capacité de production supérieure à 20 millions de mètres cubes par an.
+8. Usines à gaz d'éclairage d'une capacité de production supérieure à 20 millions de mètres cubes par an ;
+
+9. Lignes de transport d'énergie et postes de transformation de tension supérieure ou égale à 150000 volts.
