@@ -1,5 +1,11 @@
 # Article 103
 
-L'appel est formé par lettre recommandée avec demande d'avis de réception [*conditions de forme*], adressée au secrétaire de la chambre nationale de discipline. Lorsque l'appelant est le commissaire aux comptes,  il doit en outre notifier son appel dans la même forme et le même délai, au procureur général près la cour d'appel, au président de la compagnie nationales et au président de la compagnie régionale à laquelle il appartient ; Ceux-ci ont un délai supplémentaire de dix jours à compter de cette notification pour interjeter appel incident.
+L'appel est formé par lettre recommandée avec demande d'avis de réception adressée au secrétaire de la chambre nationale de discipline [*formalités*].
+
+Le secrétaire notifie cet appel aux autres parties à l'instance, ainsi qu'au procureur général, au président de la compagnie nationale et au président de la compagnie régionale, lorsqu'ils ne sont pas auteurs de l'appel.
+
+Cette notification est faite par lettre recommandée avec demande d'avis de réception au commissaire aux comptes, au président de la compagnie nationale et au président de la compagnie régionale et contre émargement ou récépissé au procureur général et au commissaire du Gouvernement.
+
+La notification ouvre un délai de dix jours pour interjeter appel incident.
 
 L'appel est suspensif.

@@ -7,3 +7,5 @@ Le syndic ainsi que le commissaire du Gouvernement peuvent requérir du commissa
 Si le commissaire du Gouvernement estime que les faits constituent une faute disciplinaire, il saisit la chambre régionale de discipline.
 
 Si les faits concernent un commissaire aux comptes ayant son domicile ou son siège dans le ressort d'une autre compagnie régionale, le commissaire du Gouvernement, après réunion des éléments d'information, transmet le dossier au commissaire du Gouvernement auprès de la chambre régionale compétente. Ce dernier demande au syndic de procéder à une information complémentaire.
+
+La démission du commissaire aux comptes ne fait pas obstacle à ce que l'action disciplinaire soit exercée pour des faits [*faute disciplinaire*] commis pendant l'exercice des fonctions.

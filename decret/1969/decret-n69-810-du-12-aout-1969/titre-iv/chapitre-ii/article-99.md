@@ -1,5 +1,11 @@
 # Article 99
 
-La décision de la chambre régionale est prise à la majorité de ses membres ; elle  doit être motivée. Le secrétaire la notifie à l'intéressé, au procureur général près la cour d'appel et aux présidents de la compagnie nationale et de la compagnie régionale par lettre recommandée avec demande d'avis de réception, dans le délai de quinze jours à compter de son prononcé [*conditions de forme*].
+La décision de la chambre régionale est prise à la majorité de ses membres ; elle doit être motivée [*conditions de majorité*].
 
-L'auteur de la plainte est avisé de la décision dans le même délai.
+Le secrétaire la notifie à l'intéressé, au président de la compagnie nationale et au président de la compagnie régionale, par lettre recommandée avec demande d'avis de réception [*communication*]. Il notifie en outre cette décision au procureur général et au commissaire du Gouvernement contre émargement ou récépissé.
+
+La lettre de notification fait mention du délai de l'appel prévu à l'article 101 et des modalités selon lesquelles l'appel peut être exercé [*mentions obligatoires*].
+
+L'auteur de la plainte est avisé de la décision.
+
+Les diligences incombant au secrétaire de la chambre régionale sont accomplies dans les quinze jours du prononcé de la décision.

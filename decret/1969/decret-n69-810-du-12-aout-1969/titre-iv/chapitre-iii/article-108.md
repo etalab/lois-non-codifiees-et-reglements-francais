@@ -1,5 +1,7 @@
 # Article 108
 
-En cas de radiation de la liste [*des commissaires aux comptes*], le président de la compagnie régionale informe les entreprises auprès desquelles le commissaire exerçait ses fonctions [*formalités*].
+Le président de la compagnie régionale des commissaires aux comptes informe les entreprises auprès desquelles l'exercice de la mission du commissaire aux comptes est suspendu.
 
-Le commissaire aux comptes suppléant exerce ses fonctions jusqu'à la date d'expiration du mandat confié au commissaire aux comptes radié.
+En cas de radiation de la liste, il informe également les entreprises auprès desquelles le commissaire aux comptes exerçait ses fonctions.
+
+La suspension est un des cas d'empêchement pour l'application de l'article 223 de la loi du 24 juillet 1966 précitée [*remplacement de commissaires aux comptes*].
