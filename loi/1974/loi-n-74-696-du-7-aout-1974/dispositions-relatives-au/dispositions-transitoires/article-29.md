@@ -1,3 +1,0 @@
-# Article 29
-
-Les fonctionnaires et, sous réserve des dispositions de l'article 30, les agents statutaires à temps complet du service de la redevance, en fonction au 31 décembre 1974, sont à cette date pris en charge par l'Etat. Ils conservent le bénéfice de leur statut jusqu'à une date fixée par décret. Ce décret précise les conditions dans lesquelles il sera procédé à leur intégration dans des corps de fonctionnaires de l'Etat ou d'autres établissements ou collectivités publics, sans qu'il puisse être porté atteinte à leurs droits acquis en matière d'ancienneté de service, tant en métropole que dans les départements et territoires d'outre-mer.
