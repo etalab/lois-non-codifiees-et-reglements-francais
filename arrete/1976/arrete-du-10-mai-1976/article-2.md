@@ -1,9 +1,11 @@
 # Article 2
 
-Le cycle de formation prévu à l'article 1er ci-dessus sera suivi par la présentation d'un mémoire dont le sujet devra être agréé par le directeur de l'Ecole nationale de la santé publique. Ce mémoire comportera au maximum vingt-cinq pages dactylographiées et sera soutenu devant un jury dont la composition est fixée par le directeur de l'Ecole nationale de la santé publique, selon les modalités suivantes :
+L'indication prévue à l'article précédent est inscrite en caractères apparents de manière à être facilement visible et lisible sur l'une des faces extérieures du récipient et doit permettre de déterminer à la fois l'année et le jour de fabrication.
 
-Présentation du mémoire : dix minutes ;
+Elle doit être rédigée :
 
-Discussion avec le jury : vingt minutes.
+Soit en clair selon les modalités fixées à l'annexe I ;
 
-Le jury pourra désigner des personnes qualifiées siégeant auprès de lui en qualité de rapporteur.
+Soit de façon conventionnelle selon les modalités et le code fixés à l'annexe II.
+
+Tous les symboles composant ladite indication doivent être inscrits sur une même ligne, à la suite les uns des autres, dans l'ordre suivant année, mois et jour.

@@ -1,9 +1,3 @@
 # Article 1
 
-Les cotisations d'assurances sociales, d'accidents du travail et d'allocations familiales dues pour les personnes employées par l'I.N.S.E.E. à l'occasion d'enquêtes par sondages auprès de la population sont calculées sur les bases forfaitaires ci-dessous pour chaque questionnaire d'enquêtes rempli par lesdites personnes :
-
-a) Enquêtes nécessitant une seule visite auprès de la personne fournissant les éléments de sondage : 14 F ;
-
-b) Enquêtes nécessitant plusieurs visites auprès de la personne fournissant les éléments de sondage : 28 F ;
-
-Les cotisations calculées sur les bases forfaitaires ci-dessus sont dues autant de fois que l'agent enquêteur en cause a rempli de questionnaires de l'une ou de l'autre catégorie visée ci-dessus.
+La demande de participation à l'exécution du service public hospitalier présentée par un établissement privé à but non lucratif en application de l'article 41 de la loi n° 70-1318 du 31 décembre 1970 portant réforme hospitalière est établie conformément au modèle annexé au présent arrêté (ann. A).

@@ -15,6 +15,7 @@
 - [Décret n°76-451 du 18 mai 1976](decret-n76-451-du-18-mai-1976)
 - [Décret n°76-356 du 20 avril 1976](decret-n76-356-du-20-avril-1976)
 - [Décret n°76-438 du 20 mai 1976](decret-n76-438-du-20-mai-1976)
+- [Décret n°76-456 du 21 mai 1976](decret-n76-456-du-21-mai-1976)
 - [Décret n°76-383 du 29 avril 1976](decret-n76-383-du-29-avril-1976)
 - [Décret du 30 mars 1976](decret-du-30-mars-1976)
 - [Décret n°76-288 du 31 mars 1976](decret-n76-288-du-31-mars-1976)

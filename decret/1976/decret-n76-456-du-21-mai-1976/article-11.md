@@ -1,0 +1,7 @@
+# Article 11
+
+Lorsque le nombre des praticiens effectivement en service dans l'établissement participant au service public ne permet pas d'assurer les suppléances lors des absences desdits praticiens et que l'établissement n'est pas en mesure de faire face à cette situation exceptionnelle, l'établissement doit immédiatement en prévenir le préfet. Celui-ci peut nonobstant toute disposition statutaire contraire désigner, pour une durée limitée, un ou des médecins, chirurgiens ou spécialistes exerçant des fonctions dans un établissement d'hospitalisation public pour prêter leur concours à l'établissement. Toutefois, pour les personnels régis par le décret susvisé du 24 septembre 1960, cette désignation ne peut intervenir que sur avis du directeur de l'unité d'enseignement et de recherches où les intéressés exercent leurs fonctions.
+
+Les fonctions exercées par ces praticiens ne peuvent donner lieu à une rémunération distincte de celle à laquelle les intéressés peuvent statutairement prétendre.
+
+Les sommes reçues par l'établissement au titre des honoraires afférents aux soins qui ont été dispensés par les praticiens sont reversées par l'établissement à l'établissement d'hospitalisation public intéressé selon des modalités fixées par arrêté du ministre de la santé. En cas de déplacement des praticiens, les frais correspondants sont à la charge de l'établissement d'hospitalisation privé à but non lucratif.

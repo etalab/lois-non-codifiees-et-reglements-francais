@@ -1,5 +1,3 @@
 # Article 1
 
-Le cycle de formation prévu par l'article 6 du décret n° 75-245 du 11 avril 1975 susvisé est organisé par l'Ecole nationale de la santé publique. Sa durée est de dix-neuf semaines.
-
-Ce cycle porte sur le programme annexé au présent arrêté et comprend des études et des travaux accomplis à l'Ecole nationale de la santé publique et des stages dans des établissements d'hospitalisation publics choisis par le directeur de ladite école.
+Il est interdit de transporter, de détenir en vue de la vente, de mettre en vente ou de vendre des conserves et semi-conserves alimentaires, au sens du décret susvisé du 10 février 1955, qui ne portent pas sur les récipients contenant, apposée par estampage, moulage ou autre inscription indélébile, l'indication de la date à laquelle elles ont été fabriquées.
