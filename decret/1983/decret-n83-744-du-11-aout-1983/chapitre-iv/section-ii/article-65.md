@@ -1,3 +1,3 @@
 # Article 65
 
-Les établissements privés qui ne sont pas admis à participer au service public hospitalier demeurent soumis aux dispositions qui leur étaient applicables antérieurement à l'entrée en vigueur du présent décret.
+Les établissements privés qui ne sont pas admis à participer au service public hospitalier demeurent soumis aux dispositions qui leur étaient applicables antérieurement à l'entrée en vigueur du présent décret.    Toutefois, les établissements privés à but non lucratif ne participant pas au service public et habilités à recevoir des bénéficiaires de l'aide sociale sont soumis, pour ce qui concerne leur activité de long séjour, aux dispositions de la sous-section III de la section I du chapitre II du présent décret à l'exception de celles relatives au forfait annuel global de soins et sans préjudice des dispositions budgétaires et comptables qui leur sont applicables.

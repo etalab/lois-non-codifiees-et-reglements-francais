@@ -6,7 +6,7 @@ Sont obligatoirement retracées dans un budget annexe [*composition*] les opéra
 
 a) Exploitation de la dotation non affectée aux services hospitaliers ;
 
-b) Les unités de long séjour mentionnées à l'article 4 de la loi susvisée du 31 décembre 1970 modifiée ; dans le cas où le long séjour constitue l'activité principale de l'établissement ou si l'organisation de la comptabilité de l'établissement permet d'isoler le coût réel des prestations des unités de long séjour, les dépenses et les recettes au titre du long séjour peuvent, par dérogation être inscrites au budget général ; la dérogation est accordée par l'autorité de tutelle, après avis du trésorier payeur général ;
+b) Les unités de long séjour mentionnées à l'article 4 de la loi susvisée du 31 décembre 1970 modifiée ;
 
 c) Les centres et les postes de transfusion sanguine régis par le décret n° 54-65 du 16 janvier 1954 ;
 
