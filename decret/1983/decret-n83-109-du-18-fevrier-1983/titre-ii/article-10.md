@@ -19,3 +19,5 @@ Liquider et ordonnancer toutes dépenses, recevoir les sommes dues à la S.N.C.F
 Nommer et révoquer le personnel de l'établissement public.
 
 Le président du conseil d'administration présente chaque année au conseil le rapport annuel d'activité de l'entreprise et du groupe.
+
+Le président du conseil d'administration peut déléguer sa signature et une partie de ses attributions dans les conditions prévues par délibération de ce conseil.
