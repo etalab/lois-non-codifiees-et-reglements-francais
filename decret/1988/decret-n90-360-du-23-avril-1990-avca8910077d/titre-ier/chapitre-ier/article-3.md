@@ -1,13 +1,19 @@
 # Article 3
 
-Dans chacune des branches définies à l'article 2 ci-dessus, les infirmiers sont recrutés à la suite d'un concours sur titres ouvert aux candidats âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours, et titulaires :
+Dans chacune des branches définies à l'article 2 ci-dessus, les infirmiers sont recrutés à la suite d'un concours sur titres ouvert aux candidats âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours. La limite d'âge supérieure est reculée ou supprimée dans les conditions prévues par les textes législatifs et réglementaires en vigueur.
 
-1° Pour la branche Soins généraux : du diplôme d'Etat d'infirmier ;
+Les candidats doivent posséder :
 
-2° Pour la branche Salle d'opération : du certificat d'aptitude aux fonctions d'infirmier de salle d'opération ;
+1. Pour la branche Soins généraux : soit le diplôme d'Etat d'infirmier, soit une autorisation d'exercer la profession d'infirmier, soit une autorisation d'exercer la profession d'infirmier sans limitation dans le service où ils sont affectés, soit le diplôme d'infirmier de secteur psychiatrique ;
 
-3° Pour la branche Puériculture : du diplôme d'Etat de puériculture ;
+2. Pour la branche Bloc opératoire : soit le diplôme d'Etat d'infirmier de bloc opératoire, soit une autorisation d'exercer en tant qu'infirmier de salle d'opération dans un service hospitalier public ;
 
-4° Pour la branche Anesthésie-réanimation : du certificat d'aptitude aux fonctions d'infirmier aide-anesthésiste ou du certificat d'aptitude aux fonctions d'infirmier spécialisé en anesthésie-réanimation.
+3. Pour la branche Puériculture : le diplôme d'Etat de puériculture ;
 
-Un arrêté conjoint du ministre chargé des anciens combattants et du ministre chargé de la fonction publique fixe les modalités du concours et les règles relatives à la composition et au fonctionnement du jury.
+4. Pour la branche Anesthésie-réanimation : soit le certificat d'aptitude aux fonctions d'infirmier aide-anesthésiste, soit le diplôme d'Etat d'infirmier anesthésiste.
+
+Les règles d'organisation générale des concours, la nature et le programme des épreuves sont fixés par arrêté du ministre chargé de la fonction publique et du ministre des anciens combattants et victimes de guerre.
+
+Les conditions d'organisation des concours et la composition des jurys sont fixées par arrêté du ministre des anciens combattants et victimes de guerre.
+
+Le nombre de postes qui peuvent être pourvus par la nomination de candidats inscrits sur la liste complémentaire ne peut excéder 50 p. 100 du nombre de postes offerts au concours.

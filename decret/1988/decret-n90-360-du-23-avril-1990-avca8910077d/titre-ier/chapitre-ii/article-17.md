@@ -2,140 +2,86 @@
 
 Les durées moyenne et minimum du temps passé dans les échelons des grades du corps des personnels infirmiers de l'Institution nationale des invalides sont fixées ainsi qu'il suit :
 
-Grade et classe : Surveillant des services médicaux.
+!--------------------------------!
 
-échelon : 6°.
+!  Surveillant des services      !
 
-durée moyenne : 2 ans 6 mois.
+!        médicaux                !
 
-durée minimum : 1 an 10 mois.
+!--------------------------------!
 
-Grade et classe : Surveillant des services médicaux.
+!     !        DUREE             !
 
-échelon : 5°.
+! Ech.!                          !
 
-durée moyenne : 2 ans 6 mois.
+!     ! Moyenne !    Minimale    !
 
-durée minimum : 1 an 10 mois.
+!-----!---------!----------------!
 
-Grade et classe : Surveillant des services médicaux.
+!  6e !  3 ans  !  2 ans 3 mois  !
 
-échelon : 4°.
+!  5e !  3 ans  !  2 ans 3 mois  !
 
-durée moyenne : 2 ans.
+!  4e !  3 ans  !  2 ans 3 mois  !
 
-durée minimum : 1 an 6 mois.
+!  3e !  2 ans  !  1 an 6 mois   !
 
-Grade et classe : Surveillant des services médicaux.
+!  2e !  2 ans  !  1 an 6 mois   !
 
-échelon : 3°.
+! 1er !  1 an   !      1 an      !
 
-durée moyenne : 2 ans.
+!-----!---------!----------------!
 
-durée minimum : 1 an 6 mois.
+!--------------------------------!
 
-Grade et classe : Surveillant des services médicaux.
+! Infirmier de classe supérieure !
 
-échelon : 2°.
+!--------------------------------!
 
-durée moyenne : 2 ans.
+!     !        DUREE             !
 
-durée minimum : 1 an 6 mois.
+! Ech.!                          !
 
-Grade et classe : Surveillant des services médicaux.
+!     ! Moyenne !    Minimale    !
 
-échelon : 1er.
+!-----!---------!----------------!
 
-durée moyenne : 2 ans.
+!  4e !  4 ans  !      3 ans     !
 
-durée minimum : 1 an 6 mois.
+!  3e !  3 ans  !  2 ans 3 mois  !
 
-Grade et classe : Infirmier de classe supérieure.
+!  2e !  3 ans  !  2 ans 3 mois  !
 
-échelon : 4°.
+! 1er !  3 ans  !  2 ans 3 mois  !
 
-durée moyenne : 4 ans.
+!-----!---------!----------------!
 
-durée minimum : 3 ans.
+!--------------------------------!
 
-Grade et classe : Infirmier de classe supérieure.
+!  Infirmier de classe normale   !
 
-échelon : 3°.
+!--------------------------------!
 
-durée moyenne : 3 ans.
+!     !        DUREE             !
 
-durée minimum : 2 ans 3 mois.
+! Ech.!                          !
 
-Grade et classe : Infirmier de classe supérieure.
+!     ! Moyenne !    Minimale    !
 
-échelon : 2°.
+!-----!---------!----------------!
 
-durée moyenne : 3 ans.
+!  7e !  4 ans  !      3 ans     !
 
-durée minimum : 2 ans 3 mois.
+!  6e !  4 ans  !      3 ans     !
 
-Grade et classe : Infirmier de classe supérieure.
+!  5e !  4 ans  !      3 ans     !
 
-échelon : 1er.
+!  4e !  3 ans  !  2 ans 3 mois  !
 
-durée moyenne : 3 ans.
+!  3e !  3 ans  !  2 ans 3 mois  !
 
-durée minimum : 2 ans 3 mois.
+!  2e !  2 ans  !  1 an 6 mois   !
 
-Grade et classe : Infirmier de classe normale.
+! 1er ! 1 an    !      1 an      !
 
-échelon : 7° (1).
-
-durée moyenne : 3 ans.
-
-durée minimum : 2 ans 3 mois.
-
-Grade et classe : Infirmier de classe normale.
-
-échelon : 6°.
-
-durée moyenne : 4 ans.
-
-durée minimum : 3 ans.
-
-Grade et classe : Infirmier de classe normale.
-
-échelon : 5°.
-
-durée moyenne : 4 ans.
-
-durée minimum : 3 ans.
-
-Grade et classe : Infirmier de classe normale.
-
-échelon : 4°.
-
-durée moyenne : 4 ans.
-
-durée minimum : 3 ans.
-
-Grade et classe : Infirmier de classe normale.
-
-échelon : 3°.
-
-durée moyenne : 3 ans.
-
-durée minimum : 2 ans 3 mois.
-
-Grade et classe : Infirmier de classe normale.
-
-échelon : 2°.
-
-durée moyenne : 2 ans.
-
-durée minimum : 1 an 6 mois.
-
-Grade et classe : Infirmier de classe normale.
-
-échelon : 1er.
-
-durée moyenne : 1 an.
-
-durée minimum : 1 an.
-
-(1) Echelon réservé aux infirmiers des branches Salle d'opération, Puériculture et Anesthésie-réanimation.
+!-----!---------!----------------!

@@ -4,7 +4,7 @@ Les fonctionnaires du corps des personnels infirmiers de l'Institution nationale
 
 Soins généraux ;
 
-Salle d'opération ;
+Bloc opératoire ;
 
 Puériculture ;
 
