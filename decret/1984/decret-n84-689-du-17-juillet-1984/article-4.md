@@ -16,15 +16,23 @@ Irrigation d'une plaie ou d'une fistule ;
 
 Soins de trachéotomie, le premier changement de canule étant effectué par un médecin ;
 
-Soins de bouche avec application de produits médicamenteux ;
-
-Installation ou sortie du nouveau-né placé en incubateur ;
+Soins de bouche avec application de produits médicamenteux ;    Installation ou sortie du nouveau-né placé en incubateur ;
 
 Surveillance du régime alimentaire du nourrisson présentant des troubles nutritionnels ;
 
 Surveillance des cathéters ombilicaux ;
 
 Surveillance des cathéters ;
+
+Surveillance des cathéters profonds et des montages d'accès vasculaires implantables mis en place par un médecin.
+
+Injections, à l'exclusion de la première, et perfusions dans ces cathéters profonds et ces montages :
+
+1° De produits autres que ceux visés à l'article 5 ci-dessous ;
+
+2° De produits ne contribuant pas aux techniques d'anesthésie générale ou loco-régionale mentionnées à l'article 5 bis ci-dessous.
+
+Ces injections et perfusions font l'objet d'un protocole thérapeutique écrit, établi par un médecin, et d'un compte rendu écrit dans le dossier de soins infirmiers.
 
 Mesure de la pression veineuse centrale ;
 
