@@ -1,3 +1,3 @@
 # Article 4
 
-Les conditions que devront remplir les candidats au brevet, celles intéressant la formation et le recrutement des moniteurs, ainsi que les épreuves, le programme et les modalités de l'examen sont fixés par arrêté.
+Un arrêté du ministre de l'intérieur fixe les modalités d'inscription, d'organisation des sessions d'examen, la composition du jury ainsi que les conditions de délivrance du brevet.
