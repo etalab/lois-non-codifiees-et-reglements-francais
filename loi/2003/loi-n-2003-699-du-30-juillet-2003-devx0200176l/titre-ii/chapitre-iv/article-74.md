@@ -1,0 +1,3 @@
+# Article 74
+
+Hormis le cas de faute commise par le maître d'ouvrage ou par ses préposés, l'Etat et ses établissements publics ne peuvent mettre en cause la responsabilité d'une collectivité territoriale ou d'un groupement de collectivités territoriales qui assurerait la maîtrise d'ouvrage au titre des dégâts et dommages sur les ouvrages appartenant à leur domaine provoqués, en situation de catastrophe naturelle, par les conséquences de travaux d'aménagement hydraulique destinés à ralentir les crues, réalisés sous la maîtrise d'ouvrage de la collectivité territoriale ou du groupement de collectivités territoriales et financés conjointement par la collectivité territoriale ou le groupement de collectivités territoriales et l'Etat ou l'un de ses établissements publics.

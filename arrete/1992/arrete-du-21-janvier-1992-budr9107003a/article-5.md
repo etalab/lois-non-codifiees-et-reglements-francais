@@ -17,3 +17,5 @@ En outre, des informations peuvent être communiquées aux personnes et organism
 - la Cour des comptes, pour la transmission des bordereaux d'émission de paiements ;
 
 - la direction générale des impôts, pour l'envoi des déclarations annuelles des revenus versés.
+
+Une liaison informatisée est mise en oeuvre entre la direction générale de la comptabilité publique et la direction générale des impôts pour permettre aux centres régionaux de pensions d'avoir connaissance d'un code représentatif de la situation du pensionné au regard des contributions sociales.
