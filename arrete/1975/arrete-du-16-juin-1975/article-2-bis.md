@@ -1,7 +1,13 @@
 # Article 2 bis
 
-Les surfaces minima d'installation visées à l'article 188-3 du Code rural sont fixées comme suit en matière de conchyliculture :
+Les superficies minima d'installation visées à l'article 188-3 du code rural sont fixées comme suit en matière de conchyliculture et de saliculture :
 
-Ostréiculture : 1,35 ha ;
+Ostréiculture (captage, élevage et engraissement) : 1,20 ha ;
 
-Mytiliculture : 2.000 mètres de bouchots.
+Ostréiculture (verdissement : huitres de claires) : 0,60 ha ;
+
+Mytiliculture : 400 mètres de bouchot ou 1,50 ha (à plat) ;
+
+Elevage de coquillages : 1,50 ha ;
+
+Saliculture : 44 oeillets.

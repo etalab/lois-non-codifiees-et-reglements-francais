@@ -31,6 +31,7 @@
 - [Décret n°76-356 du 20 avril 1976](decret-n76-356-du-20-avril-1976)
 - [Décret n°76-684 du 20 juillet 1976](decret-n76-684-du-20-juillet-1976)
 - [Décret n°76-790 du 20 août 1976](decret-n76-790-du-20-aout-1976)
+- [Décret n°76-811 du 20 août 1976](decret-n76-811-du-20-aout-1976)
 - [Décret n°76-438 du 20 mai 1976](decret-n76-438-du-20-mai-1976)
 - [Décret n°76-87 du 21 janvier 1976](decret-n76-87-du-21-janvier-1976)
 - [Décret n°76-456 du 21 mai 1976](decret-n76-456-du-21-mai-1976)
