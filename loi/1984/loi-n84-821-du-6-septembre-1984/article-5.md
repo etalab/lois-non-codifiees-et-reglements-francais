@@ -14,9 +14,7 @@ Les autorités de l'Etat sont compétentes dans les matières suivantes [*partag
 
 6° Relations financières avec l'étranger et commerce extérieur, sous réserve des dispositions des articles 28 (9°), 29 (1°) et 31 ;
 
-7° Défense au sens de l'ordonnance n° 59-147 du 7 janvier 1959 portant organisation générale de la défense ; importation, commerce et exportation de matériels militaires, d'armes et de munitions de première, deuxième, troisième et quatrième catégories, matières premières stratégiques telles qu'elles sont définies pour l'ensemble du territoire de la République ;
-
-8° Maintien de l'ordre et sécurité civile ;
+7° Défense au sens de l'ordonnance n° 59-147 du 7 janvier 1959 portant organisation générale de la défense ; importation, commerce et exportation de matériels militaires, d'armes et de munitions de première, deuxième, troisième, quatrième et cinquième catégories, explosifs, matières premières stratégiques telles qu'elles sont définies pour l'ensemble du territoire de la République ;    8° Maintien de l'ordre et sécurité civile ;
 
 9° Nationalité et règles concernant l'état civil ;
 
@@ -34,9 +32,7 @@ L'office de développement de l'intérieur et des îles, l'office culturel, scie
 
 15° Administration communale et contrôle administratif et financier des communes et de leurs établissements publics ;
 
-16° Enseignement du second cycle du second degré, sous réserve des dispositions de l'article 28 (3° et 4°) ; par décret en Conseil d'Etat, l'enseignement du second cycle du second degré sera transféré au territoire sous réserve que celui-ci en fasse la demande ;
-
-17° Enseignement supérieur, sous réserve des dispositions de l'article 28 (3° et 4°) ; recherche scientifique, sans préjudice de la faculté pour le territoire d'organiser ses propres services de recherche ;
+16° Enseignement de second degré sous réserve des dispositions du 3° et 4° de l'article 28.    17° Enseignement supérieur, sous réserve des dispositions de l'article 28 (3° et 4°) ; recherche scientifique, sans préjudice de la faculté pour le territoire d'organiser ses propres services de recherche ;
 
 18° Communication audiovisuelle ; toutefois, le territoire, sous réserve des missions confiées à la Haute Autorité par la loi n° 82-652 du 29 juillet 1982, a la faculté de créer une société de production d'émissions à caractère social, culturel et éducatif pouvant passer pour leur diffusion des conventions avec des sociétés d'Etat.
 
