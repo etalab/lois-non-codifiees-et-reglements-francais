@@ -551,6 +551,7 @@
 - [Arrêté du 19 mai 2004 (DEVP0430135A)](arrete-du-19-mai-2004-devp0430135a)
 - [Arrêté du 19 mai 2004 (EQUK0400788A)](arrete-du-19-mai-2004-equk0400788a)
 - [Arrêté du 19 mai 2004 (SANG0421373A)](arrete-du-19-mai-2004-sang0421373a)
+- [Arrêté du 19 mai 2005 (PRMX0508381A)](arrete-du-19-mai-2005-prmx0508381a)
 - [Arrêté du 20 août 2004 (DOMB0400034A)](arrete-du-20-aout-2004-domb0400034a)
 - [Arrêté du 20 août 2004 (ECOP0400280A)](arrete-du-20-aout-2004-ecop0400280a)
 - [Arrêté du 20 avril 2004 (SPRK0470025A)](arrete-du-20-avril-2004-sprk0470025a)
