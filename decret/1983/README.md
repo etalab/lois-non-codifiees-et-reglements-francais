@@ -291,7 +291,6 @@
 - [Décret n°83-872 du 30 septembre 1983](decret-n83-872-du-30-septembre-1983)
 - [Décret n°83-873 du 30 septembre 1983](decret-n83-873-du-30-septembre-1983)
 - [Décret n°83-437 du 30 mai 1983](decret-n83-437-du-30-mai-1983)
-- [Décret n°82-1228 du 31 décembre 1982](decret-n82-1228-du-31-decembre-1982)
 - [Décret n°82-1229 du 31 décembre 1982](decret-n82-1229-du-31-decembre-1982)
 - [Décret n°82-1234 du 31 décembre 1982](decret-n82-1234-du-31-decembre-1982)
 - [Décret n°82-1239 du 31 décembre 1982](decret-n82-1239-du-31-decembre-1982)

@@ -1,5 +1,0 @@
-# Article 5
-
-Les membres du conseil d'administration qui perdent la qualité en laquelle ils ont été nommés cessent de faire partie du conseil ; il en est de même des représentants du personnel qui, s'il sont agents permanents, n'exercent plus de fonctions à l'établissement depuis six mois, ou, s'ils sont collaborateurs intermittents, n'ont pas collaboré aux activités de l'établissement depuis dix-huit mois.
-
-Dans les cas prévus à l'alinéa ci-dessus, et à l'article précédent, de même qu'en cas de décès ou d'incapacité constatée par le ministre chargé de la communication et par le ministre chargé des P.T.T., après avis du conseil d'administration, ou dans le cas de démission, l'administrateur dont le siège est devenu vacant est remplacé, pour la durée du mandat restant à courir, par un administrateur nommé dans les mêmes formes ou, s'il s'agit d'un représentant du personnel, désigné dans les conditions prévues par le septième alinéa de l' article 16 de la loi du 26 juillet 1983 précitée.
