@@ -6,4 +6,4 @@ Le conseil accorde l'autorisation au regard des impératifs prioritaires mention
 
 Les obligations mentionnées à l'article 27 de la présente loi ne s'appliquent pas aux services autorisés en vertu du présent article, lorsqu'ils sont diffusés exclusivement en langue étrangère et sans sous-titrage en langue française.
 
-Toutefois, les oeuvres audiovisuelles et cinématographiques annuellement diffusées par ces services doivent être en majorité originaires de la Communauté économique européenne, à l'issue d'un délai fixé par la convention qui ne saurait excéder cinq ans.
+Toutefois, la diffusion par ces services d'oeuvres cinématographiques et audiovisuelles doit comporter une proportion majoritaire d'oeuvres européennes à l'issue d'un délai fixé par la convention qui ne saurait excéder cinq ans.

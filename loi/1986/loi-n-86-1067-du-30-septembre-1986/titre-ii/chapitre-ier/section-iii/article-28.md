@@ -10,6 +10,8 @@ La convention porte notamment sur un ou plusieurs des points suivants :
 
 2° Le temps consacré à la diffusion d'oeuvres audiovisuelles d'expression originale française en première diffusion en France, la part du chiffre d'affaires consacrée à l'acquisition des droits de diffusion de ces oeuvres ainsi que la grille horaire de leur programmation ;
 
+2° bis La proportion d'oeuvres musicales créées ou interprétées par des auteurs et artistes français ou francophones, en particulier contemporains, que les services de radiodiffusion sonore sont tenus de diffuser dans leurs programmes ;
+
 3° La diffusion, au moins deux fois par semaine, à des heures de grande écoute d'émissions d'expression originale française ou originaires de la Communauté économique européenne ;
 
 4° La part du chiffre d'affaires consacrée à l'acquisition des droits de diffusion d'oeuvres cinématographiques d'expression originale française ;

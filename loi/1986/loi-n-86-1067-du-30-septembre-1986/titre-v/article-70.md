@@ -4,12 +4,12 @@ Les services de communication audiovisuelle qui diffusent des oeuvres cinématog
 
 Les dispositions relatives à la diffusion des oeuvres cinématographiques incluses dans les cahiers des charges, les autorisations et les décrets visés à l'alinéa précédent doivent préciser :
 
-1° La fixation d'un nombre maximal annuel de diffusions et rediffusions d'oeuvres cinématographiques ;
+1° La fixation d'un nombre maximal annuel de diffusions et rediffusions d'oeuvres cinématographiques de longue durée. ;
 
-2° L'obligation de consacrer un pourcentage majoritaire de ces diffusions à des oeuvres d'origine communautaire et à des oeuvres d'expression originale française ;
+2° L'obligation de consacrer dans ces diffusions, en particulier aux heures de grande écoute, des proportions au moins égales à 60 p. 100 à des oeuvres européennes et des proportions au moins égales à 40 p. 100 à des oeuvres d'expression originale française ;
 
-3° La grille horaire de programmation des oeuvres cinématographiques ;
+3° La grille horaire de programmation des oeuvres cinématographiques de longue durée. ;
 
-4° Le délai à compter de la délivrance du visa d'exploitation au terme duquel la diffusion télévisée de ces oeuvres peut intervenir.
+4° Le délai à compter de la délivrance du visa d'exploitation au terme duquel la diffusion télévisée des oeuvres cinématographiques de longue durée peut intervenir.
 
-Les dispositions relatives à la diffusion des oeuvres cinématographiques sont identiques pour les services publics et privés de communication audiovisuelle diffusés en clair et dont le financement ne fait pas appel à une rémunération de la part des usagers.
+Les dispositions relatives à la diffusion des oeuvres cinématographiques de longue durée sont identiques pour les services publics et privés de communication audiovisuelle diffusés en clair et dont le financement ne fait pas appel à une rémunération de la part des usagers.
