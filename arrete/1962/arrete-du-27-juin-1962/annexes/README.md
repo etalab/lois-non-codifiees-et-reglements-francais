@@ -10,3 +10,4 @@
 - [Directeur de service administratif](directeur-de-service-administratif)
 - [Secrétaire général](secretaire-general)
 - [Secrétaire général adjoint](secretaire-general-adjoint)
+- [Sténodactylographe](stenodactylographe)
