@@ -20,9 +20,9 @@ a) Huit membres de droit :
 
 8° Le conservateur du musée instrumental du Conservatoire national supérieur de musique de Paris ou son représentant.
 
-b) Dix membres nommés, dont :
+b) Quinze membres nommés, dont :
 
-1° Un inspecteur général des monuments historiques chargé des objets mobiliers ;
+1° Un inspecteur général ou un inspecteur en chef des monuments historiques ".
 
 2° Un inspecteur général des monuments historiques architecte ;
 

@@ -10,7 +10,7 @@ Les rapporteurs sont désignés par le ministre parmi les membres de la commissi
 
 Le président peut inviter aux débats toute personne dont l'audition lui paraît utile.
 
-Le secrétariat des première, troisième, quatrième et cinquième sections de la commission est assuré par le sous-directeur des monuments historiques et des palais nationaux.
+Le secrétariat des première, troisième, quatrième, cinquième et huitième sections de la commission est assuré par le sous-directeur des monuments historiques et des palais nationaux.
 
 Le secrétariat de la deuxième section est assuré par le sous-directeur des sites et espaces protégés.
 

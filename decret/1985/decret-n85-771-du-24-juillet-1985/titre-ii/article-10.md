@@ -12,7 +12,7 @@ a) Onze membres de droit :
 
 4° Le sous-directeur des monuments historiques et des palais nationaux ou son représentant ;
 
-5° Le directeur des bibliothèques, des musées et de l'information scientifique et technique au ministère chargé de l'éducation nationale ou son représentant ;
+5° Le directeur chargé des musées au ministère chargé de l'éducation nationale ou son représentant ;
 
 6° Le directeur du Musée national des techniques ou son représentant ;
 

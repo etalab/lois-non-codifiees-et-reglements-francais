@@ -16,7 +16,7 @@ a) En qualité de membres de droit :
 
 6° Les inspecteurs généraux des bâtiments civils et des palais nationaux ;
 
-7° Le président du conseil d'administration de la Caisse nationale des monuments historiques et des sites ;
+7° Le président du conseil d'administration de la Caisse nationale des monuments historiques et des sites ou son représentant ;
 
 8° Le chef de la mission "Coût et économie" à la direction du patrimoine.
 
@@ -24,7 +24,7 @@ b) Dix membres nommés, dont :
 
 1° Un choisi parmi les membres du conseil supérieur de la recherche archéologique, sur proposition de ce dernier ;
 
-2° Deux membres d'associations ayant pour objet de favoriser la connaissance, la protection et la conservation du patrimoine, dont l'un au moins est choisi parmi les associations représentées au sein des collèges régionaux du patrimoine et des sites ou des commissions régionales du patrimoine historique, archéologique et ethnologique.
+2° Deux membres d'associations ayant pour objet de favoriser la connaissance, la protection et la conservation du patrimoine, dont l'un au moins est choisi parmi les associations représentées au sein des collèges régionaux du patrimoine et des sites ou des commissions régionales du patrimoine historique, archéologique et ethnologique.    3° Deux titulaires d'un mandat électif national ou local.
 
 c) Neuf membres élus :
 

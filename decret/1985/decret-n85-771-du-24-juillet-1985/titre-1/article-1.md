@@ -4,7 +4,7 @@ La commission supérieure des monuments historiques, placée auprès du ministre
 
 [*attributions*] :
 
-1° Sur les propositions de classement parmi les monuments historiques des immeubles ainsi que des objets et immeubles par destination mentionnés respectivement aux articles 1er et 14 de la loi du 31 décembre 1913 ;
+1° Sur les propositions de classement parmi les monuments historiques des immeubles ainsi que des objets et immeubles par destination mentionnés respectivement aux articles 1er et 14 de la loi du 31 décembre 1913  et sur les propositions d'inscription sur l'inventaire supplémentaire des instruments de musique et orgues historiques " ;
 
 2° Sur les programmes et les projets de travaux de conservation et de mise en valeur des monuments historiques qui lui sont soumis et, notamment, tous ceux dont le montant financier est égal ou supérieur à un seuil fixé par arrêté du ministre chargé de la culture.
 

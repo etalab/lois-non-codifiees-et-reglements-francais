@@ -14,7 +14,7 @@ a) En qualité de membres de droit :
 
 5° Les inspecteurs généraux des monuments historiques et les adjoints à l'inspection générale des monuments historiques ;
 
-6° Le président du conseil d'administration de la caisse nationale des monuments historiques et des sites ;
+6° Le président du conseil d'administration de la caisse nationale des monuments historiques et des sites ou son représentant;
 
 7° Le responsable du laboratoire commun au centre national de la recherche scientifique et à la direction du patrimoine (inventaire général) ;
 

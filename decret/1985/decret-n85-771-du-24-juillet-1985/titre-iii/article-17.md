@@ -20,4 +20,4 @@ Le comité des sections de la commission supérieure des monuments historiques e
 
 9° Deux inspecteurs généraux des monuments historiques, architectes, et un inspecteur général des monuments historiques, non architecte, désignés par le ministre chargé de la culture pour une durée de quatre ans ;
 
-10° Trois membres de la première section et deux membres de chacune des six autres sections élus respectivement par chacune de ces sections.
+10° Trois membres de la première section et deux membres de chacune des sept autres sections élus respectivement par chacune de ces sections.
