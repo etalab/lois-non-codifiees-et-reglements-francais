@@ -1,3 +1,3 @@
 # Article 89
 
-L'indemnité de suppression de l'office de la société résultant des dispositions de l'article 86 est mise à la charge du bénéficiaire de l'office créé.
+La création de l'office et la nomination de son titulaire sont prononcées par arrêté du garde des sceaux, ministre de la justice, sans qu'il y ait lieu de recourir à la procédure prévue aux articles 12-2 à 12-7 du décret du 19 décembre 1945 précité.

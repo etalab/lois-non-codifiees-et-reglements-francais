@@ -8,4 +8,4 @@ Les associés doivent s'informer mutuellement de leur activité professionnelle.
 
 Dans les actes professionnels, chaque associé indique sa qualité d'avoué associé et la raison sociale de la société dont il fait partie.
 
-La qualification de "société d'avoués" doit accompagner la raison sociale dans toutes correspondances et tous documents émanant de la société [*mentions obligatoires - publicité permanente*].
+L'appellation de "société d'avoués" doit accompagner la raison sociale dans toutes correspondances et tous documents émanant de la société [*mentions obligatoires - publicité permanente*].

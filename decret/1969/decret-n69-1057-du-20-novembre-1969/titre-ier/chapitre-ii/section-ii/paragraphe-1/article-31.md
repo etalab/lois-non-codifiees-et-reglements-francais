@@ -1,11 +1,7 @@
 # Article 31
 
-Lorsqu'un associé demande son retrait en application de l'article 21 de la loi précitée du 29 novembre 1966, il notifie sa demande de retrait à la société dans l'une des [*conditions de*] formes prévues à l'article 27.
+Lorsqu'un associé demande son retrait de la société en cédant la totalité de ses parts sociales, il est procédé conformément aux dispositions des articles 27 et 28.
 
-La société dispose d'une année à compter de cette notification pour notifier elle-même à l'associé, dans la même forme, le projet de cession ou de rachat de ses parts, qui constitue engagement du cessionnaire ou de la société qui se porte acquéreur [*achat par la société de ses propres parts*].
+L'associé titulaire de parts sociales ou de parts d'intérêts doit informer la société et ses associés par lettre recommandée avec demande d'avis de réception de sa demande de retrait de la société ; il doit, en outre, le cas échéant, respecter le délai de retrait fixé par les statuts sans que ce délai puisse excéder six mois ; l'associé titulaire de parts sociales perd, à compter de la publication de l'arrêté constatant son retrait, les droits attachés à sa qualité d'associé, à l'exception toutefois des rémunérations afférentes à ses apports en capital.
 
-Le délai prévu par l'alinéa précédent peut être renouvelé par le garde des sceaux, ministre de la justice, à la demande de tous les associés, y compris l'associé cédant.
-
-Si la cession est consentie à un tiers étranger à la société, il est procédé conformément aux dispositions de l'article 27, à l'exception de la notification à la société elle-même, et aux dispositions de l'article 28 (alinéas 4, 5 et 7).
-
-Si les parts sociales sont acquises par la société, par les associés ou l'un ou plusieurs d'entre eux, les dispositions de l'article 29 et celles de l'article 28 (alinéa 7) reçoivent application.
+Tout retrait d'un associé est prononcé par arrêté du garde des sceaux, ministre de la justice, l'associé étant réputé démissionnaire.

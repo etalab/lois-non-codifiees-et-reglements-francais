@@ -1,6 +1,6 @@
 # Article 74
 
-La société prend fin à l'expiration du temps pour lequel elle a été constituée. Toutefois, la dissolution anticipée de la société peut être décidée à la majorité au moins des associés disposant des trois quarts du capital social et détenant la moitié au moins des parts d'industrie [*proportion - conditions de majorité*].
+La dissolution anticipée prévue au 4° de l'article 1844-7 du code civil est décidée par les trois quarts au moins des associés disposant ensemble des trois quarts des voix.
 
 Le liquidateur est désigné à la majorité en nombre des associés détenant la moitié au moins des parts sociales et la moitié des parts d'industrie.
 

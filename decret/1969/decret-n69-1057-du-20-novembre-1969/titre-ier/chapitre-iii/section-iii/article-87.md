@@ -1,9 +1,7 @@
 # Article 87
 
-La demande de l'intéressé, adressée au garde des sceaux, ministre de la justice, est, à peine de forclusion, remise en ce qui concerne les avoués près les tribunaux de grande instance, au procureur de la République près le tribunal de grande instance, en ce qui concerne les avoués près les cours d'appel au procureur général près la cour d'appel dans le ressort duquel la société avait son siège dans le délai de deux mois suivant la notification prévue à l'article 86 (alinéa 2) [*autorité compétente*].
+La demande de l'intéressé, adressée au garde des sceaux, ministre de la justice, est remise au procureur général près la cour d'appel dans le ressort de laquelle la société a son siège. Elle est accompagnée de toutes pièces justificatives.
 
-Le procureur de la République, en ce qui concerne les avoués près les tribunaux de grande instance, le procureur général, en ce qui concerne les avoués près les cours d'appel, invitent le premier la chambre régionale, le second la chambre de discipline, à fournir leur avis sur l'opportunité de la création d'un office dans le ressort considéré.
+Le procureur général saisit la chambre de discipline des avoués par lettre recommandée avec demande d'avis de réception et l'invite à lui faire parvenir son avis motivé sur la demande.
 
-Ces avis sont recueillis et transmis au garde des sceaux, ministre de la justice, conformément aux dispositions de l'article 7 (alinéa 2) et de l'article 8.
-
-Dans les quinze jours suivants sa saisine, la chambre régionale, en ce qui concerne les avoués près les tribunaux de grande instance, la chambre de discipline, en ce qui concerne les avoués près les cours d'appel, informent la chambre nationale des avoués de sa catégorie de la demande de création d'office formulée par l'avoué.
+Si, quarante-cinq jours après sa saisine, la chambre n'a pas adressé au procureur général l'avis qui lui a été demandé, elle est réputée avoir émis un avis favorable.
