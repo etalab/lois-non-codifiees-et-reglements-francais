@@ -90,6 +90,7 @@
 - [Décret n°92-1001 du 18 septembre 1992 (MENB9200238D)](decret-n92-1001-du-18-septembre-1992-menb9200238d)
 - [Décret n°92-1002 du 18 septembre 1992 (MENB9200239D)](decret-n92-1002-du-18-septembre-1992-menb9200239d)
 - [Décret n°92-543 du 18 juin 1992 (ACVA9210022D)](decret-n92-543-du-18-juin-1992-acva9210022d)
+- [Décret n°82-979 du 19 novembre 1982](decret-n82-979-du-19-novembre-1982)
 - [Décret n°91-1266 du 19 décembre 1991 (JUSC9120745D)](decret-n91-1266-du-19-decembre-1991-jusc9120745d)
 - [Décret n°92-64 du 20 janvier 1992 (JUSC9220002D)](decret-n92-64-du-20-janvier-1992-jusc9220002d)
 - [Décret n°92-65 du 20 janvier 1992 (JUSC9220003D)](decret-n92-65-du-20-janvier-1992-jusc9220003d)
