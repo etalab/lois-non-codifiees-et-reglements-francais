@@ -2,7 +2,7 @@
 
 Le conseil d'administration est présidé par le recteur de l'académie où l'institut a son siège. Il comprend en outre au maximum quarante membres répartis entre les catégories suivantes :
 
-1. Représentants du ou des établissements auxquels l'institut universitaire de formation des maîtres est rattaché, dont le ou les présidents des universités de rattachement ou leurs représentants et des représentants des conseils d'administration de ces établissements ;
+1. Représentants du ou des établissements auxquels l'institut universitaire de formation des maîtres est rattaché, dont le ou les présidents des universités de rattachement et des autres établissements de rattachement ou leurs représentants et des représentants des conseils d'administration de ces établissements ;
 
 2. Représentants des personnels répartis au sein des quatre collèges suivants :
 
@@ -28,7 +28,7 @@ Chacune des catégories mentionnées aux 1, 2 et 3 constituent 20 p. 100 à 30 p
 
 Chacune des catégories mentionnées aux 4 et 5 constituent 10 p. 100 à 20 p. 100 de ces membres.
 
-Lorsque dans une académie le nombre des universités de rattachement ou le nombre des conseils généraux ne permet pas d'assurer leur représentation en respectant les proportions fixées ci-dessus pour les catégories 1 et 4, le nombre de membres du conseil d'administration de l'institut est augmenté d'autant de membres qu'il est nécessaire pour assurer la représentation de ceux-ci.
+Lorsque dans une académie le nombre des universités de rattachement ou des autres établissements de rattachement ou le nombre des conseils généraux ne permet pas d'assurer leur représentation en respectant les proportions fixées ci-dessus pour les catégories 1 et 4, le nombre de membres du conseil d'administration de l'institut est augmenté d'autant de membres qu'il est nécessaire pour assurer la représentation de ceux-ci.
 
 Le décret qui crée l'institut universitaire de formation des maîtres fixe la composition du conseil d'administration.
 

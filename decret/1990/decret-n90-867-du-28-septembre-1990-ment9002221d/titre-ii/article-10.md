@@ -1,6 +1,6 @@
 # Article 10
 
-Les membres du conseil d'administration mentionnés au 1 de l'article 7 ci-dessus autres que le ou les présidents des universités de rattachement sont désignés par les membres du ou de chacun des conseils d'administration du ou des établissements de rattachement au scrutin de liste à la représentation proportionnelle suivant la règle du plus fort reste.
+Les membres du conseil d'administration mentionnés au 1 de l'article 7 ci-dessus autres que le ou les présidents des universités de rattachement et des autres établissements de rattachement sont désignés par les membres du ou de chacun des conseils d'administration du ou des établissements de rattachement au scrutin de liste à la représentation proportionnelle suivant la règle du plus fort reste.
 
 Les membres du conseil d'administration représentant les communes, mentionnés au 4 de l'article 7 ci-dessus, sont désignés par accord entre les associations départementales des maires ou, à défaut, élus par le collège des maires de l'ensemble des départements situés dans le ressort de l'académie.
 
