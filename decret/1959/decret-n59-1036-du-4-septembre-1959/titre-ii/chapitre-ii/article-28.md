@@ -1,13 +1,23 @@
 # Article 28
 
-Le conseil d'administration des Charbonnages de France comprend quinze membres nommés pour cinq ans, par décret pris sur le rapport du ministre chargé des mines [*composition - nombre - durée*], à savoir :
+Le conseil d'administration des Charbonnages de France comprend dix huit membres [*composition - nombre*] :
 
-1° Cinq représentants de l'Etat : deux sur la proposition du ministre chargé des mines, deux sur la proposition du ministre de l'économie et des finances, un sur la proposition du ministre du travail ;
+1° Cinq représentants de l'Etat, nommés par décret pris sur le rapport du ministre chargé de l'énergie, dont :
 
-2° Trois personnalités désignées en raison de leur compétence en matière industrielle et financière ;
+Deux sur proposition du ministre chargé de l'énergie ;
 
-3° Deux représentants des consommateurs de combustibles minéraux solides ;
+Un sur proposition du ministre chargé de l'économie ;
 
-4° Cinq représentants du personnel désignés sur la proposition des organisations syndicales les plus représentatives des différentes catégories de ce personnel (ouvriers, employés, agents de maîtrise, ingénieurs et cadres supérieurs).
+Un sur proposition du ministre chargé du budget ;
 
-Les présidents des conseils d'administration des Houillères de bassin peuvent assister avec voix consultative aux séances du conseil d'administration des Charbonnages de France lorsque sont examinées des questions intéressant leur bassin.
+Un sur proposition du ministre chargé du travail ;
+
+2° Sept personnalités nommées par décret pris sur le rapport du ministre chargé de l'énergie, dont :
+
+Quatre personnalités désignées soit en raison de leur connaissance des activités des Charbonnages de France, soit au titre de la distribution ou de la consommation des combustibles minéraux solides ;
+
+Trois personnalités désignées en raison de leur connaissance des activités des houillères de bassin.
+
+3° Six représentants du personnel, dont un représentant des cadres, des Charbonnages de France, de leurs filiales au sens du 4 de l'article 1er de la loi n° 83-675 du 26 juillet 1983 modifiée et des houillères de bassin, élus dans les conditions et selon les modalités prévues par le chapitre II du titre II de ladite loi et par le décret n° 83-1160 du 26 décembre 1983 pris pour son application. Les salariés des houillères de bassin participent à l'élection des représentants du personnel au conseil d'administration des Charbonnages de France dans les mêmes conditions que les salariés des filiales de cet établissement.
+
+La durée du mandat des membres du conseil d'administration est de cinq ans. Ils ne peuvent exercer plus de trois mandats consécutifs [*renouvellement*].
