@@ -1,0 +1,3 @@
+# Article 5
+
+Pour l'épreuve de langues des concours externe et interne, l'usage du dictionnaire n'est autorisé que pour les langues suivantes : arabe littéral, chinois, japonais. Pour ces trois langues, tous types de dictionnaires, à l'exclusion des dictionnaires électroniques, de la langue de l'épreuve vers le français, vers l'anglais ou vers une langue tierce sont autorisés. Les candidats utilisant un dictionnaire de la langue de l'épreuve vers une langue autre que le français et l'anglais peuvent utiliser un dictionnaire de langue tierce vers le français ou l'anglais. Sont en outre autorisés pour l'arabe littéral, le chinois ou le japonais les dictionnaires rédigés exclusivement dans la langue de l'épreuve.
