@@ -475,7 +475,6 @@
 - [Décret n°99-208 du 17 mars 1999 (FPPX9900026D)](decret-n99-208-du-17-mars-1999-fppx9900026d)
 - [Décret n°99-211 du 17 mars 1999 (MESX9900027D)](decret-n99-211-du-17-mars-1999-mesx9900027d)
 - [Décret n°99-498 du 17 juin 1999 (MESC9910971D)](decret-n99-498-du-17-juin-1999-mesc9910971d)
-- [Décret n°99-499 du 17 juin 1999 (INTC9900118D)](decret-n99-499-du-17-juin-1999-intc9900118d)
 - [Décret n°99-504 du 17 juin 1999 (MJSK9970046D)](decret-n99-504-du-17-juin-1999-mjsk9970046d)
 - [Décret n°99-506 du 17 juin 1999 (MENF9901172D)](decret-n99-506-du-17-juin-1999-menf9901172d)
 - [Décret n°99-507 du 17 juin 1999 (AGRS9900792D)](decret-n99-507-du-17-juin-1999-agrs9900792d)
