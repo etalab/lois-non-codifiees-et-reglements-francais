@@ -1042,7 +1042,6 @@
 - [Décret du 27 avril 1995 (INTA9500068D)](decret-du-27-avril-1995-inta9500068d)
 - [Décret n°93-958 du 27 juillet 1993 (TEFE9300777D)](decret-n93-958-du-27-juillet-1993-tefe9300777d)
 - [Décret n°94-1140 du 27 décembre 1994 (SPSS9403734D)](decret-n94-1140-du-27-decembre-1994-spss9403734d)
-- [Décret n°94-1145 du 27 décembre 1994 (DOMX9400174D)](decret-n94-1145-du-27-decembre-1994-domx9400174d)
 - [Décret n°94-1149 du 27 décembre 1994 (SPSS9403717D)](decret-n94-1149-du-27-decembre-1994-spss9403717d)
 - [Décret n°95-102 du 27 janvier 1995 (FPPA9400127D)](decret-n95-102-du-27-janvier-1995-fppa9400127d)
 - [Décret n°95-103 du 27 janvier 1995 (SPSA9500028D)](decret-n95-103-du-27-janvier-1995-spsa9500028d)
