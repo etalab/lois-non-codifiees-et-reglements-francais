@@ -25,7 +25,10 @@ Les cotisations dues pour l'emploi des personnes visées à l'article 1er ci-des
 <td> : Animateur          :             :</td>
 </tr>
 <tr>
-<td> : rémunéré en argent :       1,5   :</td>
+<td> : rémunéré en argent,:             :</td>
+</tr>
+<tr>
+<td> : assistant sanitaire:       1,5   :</td>
 </tr>
 <tr>
 <td> : Directeur adjoint  :             :</td>
@@ -63,7 +66,10 @@ Les cotisations dues pour l'emploi des personnes visées à l'article 1er ci-des
 <td> : Animateur          :              :</td>
 </tr>
 <tr>
-<td> : rémunéré en argent :       7,5    :</td>
+<td> : rémunéré en argent,:              :</td>
+</tr>
+<tr>
+<td> : assistant sanitaire:       7,5    :</td>
 </tr>
 <tr>
 <td> : Directeur adjoint  :              :</td>
@@ -101,7 +107,10 @@ Les cotisations dues pour l'emploi des personnes visées à l'article 1er ci-des
 <td> : Animateur          :              :</td>
 </tr>
 <tr>
-<td> : rémunéré en argent :      30      :</td>
+<td> : rémunéré en argent,:              :</td>
+</tr>
+<tr>
+<td> : assistant sanitaire:      30      :</td>
 </tr>
 <tr>
 <td> : Directeur adjoint  :              :</td>
