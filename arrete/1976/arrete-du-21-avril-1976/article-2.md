@@ -1,0 +1,3 @@
+# Article 2
+
+L'indemnité pour frais de déplacement, constitutive de la prime de mobilité des jeunes, objet des articles L. 322-7 à L. 322-10 du code du travail, est égale au prix du transport ferroviaire de l'ancien au nouveau domicile sur la base du tarif de 2ème classe de la Société nationale des chemins de fer français, compte tenu de la réduction dont l'ayant droit peut bénéficier à titre personnel. Cette indemnité est payée un mois au plus tard après le dépôt de la demande. Elle peut, le cas échéant, être remplacée par l'attribution d'un bon de transport gratuit délivré au moment du déplacement.
