@@ -4,9 +4,9 @@ Une commission supérieure du service public des postes et télécommunications 
 
 Elle est composée de :
 
-Six députés ;
+Sept députés,
 
-Quatre sénateurs, désignés par leurs assemblées respectives ;
+Sept sénateurs, désignés par leurs assemblées respectives ;
 
 Trois personnalités qualifiées dans le secteur des postes et télécommunications, désignées par le ministre chargé des postes et télécommunications.
 
