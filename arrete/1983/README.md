@@ -43,6 +43,7 @@
 - [Arrêté du 20 décembre 1982](arrete-du-20-decembre-1982)
 - [Arrêté du 20 janvier 1983](arrete-du-20-janvier-1983)
 - [Arrêté du 20 juillet 1982](arrete-du-20-juillet-1982)
+- [Arrêté du 21 décembre 1982](arrete-du-21-decembre-1982)
 - [Arrêté du 21 janvier 1983](arrete-du-21-janvier-1983)
 - [Arrêté du 21 mars 1983](arrete-du-21-mars-1983)
 - [Arrêté du 22 février 1983](arrete-du-22-fevrier-1983)
