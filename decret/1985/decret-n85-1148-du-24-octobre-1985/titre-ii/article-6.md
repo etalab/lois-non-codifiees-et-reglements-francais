@@ -1,79 +1,77 @@
 # Article 6
 
-Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er décembre 1994 :
+Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er mars 1995 :
 
-TRAITEMENTS ET SOLDES ANNUELS BRUTS soumis à retenue pour pension à compter du 1er décembre 1994
+TRAITEMENTS ET SOLDES ANNUELS BRUTS
+
+soumis à retenue pour pension à compter du 1er mars 1995
 
 Groupes
 
 Chevrons
 
-I (en francs)
+I
 
-II (en francs)
+II
 
-III (en francs)
+III
+
+(en francs)
+
+(en francs)
+
+(en francs)
 
 A
 
-275 885
+279 195
 
-286 883
+290 325
 
-301 651
+305 270
 
 B
 
-301 651
+305 270
 
-314 534
+318 308
 
-331 502
+335 479
 
 B bis
 
-331 502
+335 479
 
-340 300
+344 383
 
-349 413
+353 605
 
 C
 
-349 413
+353 605
 
-356 954
+361 237
 
-364 809
+369 186
 
 D
 
-364 809
+369 186
 
-381 463
+386 040
 
-398 117
+402 893
 
 E
 
-398 117
+402 893
 
-413 828
-
--
+418 793
 
 F
 
-429 225
-
--
-
--
+434 374
 
 G
 
-470 702
-
--
-
--
+476 349
