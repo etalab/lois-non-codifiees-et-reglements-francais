@@ -1,0 +1,3 @@
+# Article 4
+
+Pour les exercices ouverts à compter du 1er janvier 1978, le taux de la provision pour investissement prévue au III de l'article 237 bis A du Code général des impôts est porté de 50 % à 100 % en ce qui concerne les sociétés anonymes à participation ouvrière. Pour bénéficier de cette majoration, les entreprises concernées doivent, au titre de chaque exercice, affecter à un compte de réserve non distribuable, par prélèvement sur les résultats, une somme égale à 25 % des sommes portées à la réserve spéciale de participation au cours du même exercice et admises en déduction des bénéfices imposables. En cas de dissolution, la réserve provenant de cette affectation ne peut être répartie qu'entre les seuls détenteurs d'actions de travail.

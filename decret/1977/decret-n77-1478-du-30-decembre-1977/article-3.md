@@ -1,0 +1,5 @@
+# Article 3
+
+Le recouvrement des arrérages servis au titre de l'allocation supplémentaire sur la part de succession attribuée au conjoint survivant peut être différé jusqu'au décès de ce dernier [*date*]. Il en est de même en ce qui concerne les héritiers qui étaient à la charge de l'allocataire à la date de son décès et qui, à cette date, étaient soit âgés d'au moins soixante-cinq ans, ou d'au moins soixante ans en cas d'inaptitude au travail, soit en dessous de cet âge, atteints d'une invalidité réduisant d'au moins des deux tiers leur capacité de travail ou de gain.
+
+Pour l'application de l'alinéa précédent, est considérée comme ayant été à la charge de l'allocataire [*conditions, définition*] toute personne qui vivait habituellement à son foyer et dont les ressources, appréciées dans les conditions fixées par le décret du 1er avril 1964 susvisé, n'excédaient pas, à la date du décès de l'allocataire, le montant limite prévu à cette date pour une personne seule en application de l'article L. 688 du code de la sécurité sociale.

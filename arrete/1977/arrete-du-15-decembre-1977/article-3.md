@@ -1,5 +1,9 @@
 # Article 3
 
-Sont soumis aux obligations prévues à l'article L. 321-1 (2°) du Code du travail, dans les conditions fixées aux articles R. 321-2 et R. 321-3 du même code les établissements agricoles, industriels ou commerciaux, les offices publics ou ministériels, les professions libérales, les sociétés civiles, les syndicats professionnels et les associations de quelque nature que ce soit.
+Tout producteur de raisins de table qui procède à la vinification de tout ou partie de ces raisins ou les expédie en vue de la vinification est tenu de déclarer à part dans sa déclaration de récolte :
 
-Toutefois ne sont pas soumis aux obligations prévues à l'alinéa précédent les établissements où il n'a été prononcé aucun licenciement pour cause économique au cours des douze mois précédant la date envisagée par l'employeur pour y recruter ou pour y licencier du personnel.
+La superficie des vignes à raisins de table en production dans son exploitation ;
+
+La quantité correspondante de vin issu de raisin de table produite et, s'il y a lieu, le volume ou le poids de vendanges fraîches ou la quantité de moût qu'il a expédiés.
+
+Le producteur de raisins de table doit joindre à sa déclaration de récolte une déclaration d'encépagement présentant par cépages les superficies de vignes à raisins de table en production dans son exploitation.

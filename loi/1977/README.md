@@ -8,6 +8,8 @@
 - [Loi n° 77-1453 du 29 décembre 1977](loi-n-77-1453-du-29-decembre-1977)
 - [Loi n° 77-1457 du 29 décembre 1977](loi-n-77-1457-du-29-decembre-1977)
 - [Loi n° 77-1460 du 29 décembre 1977](loi-n-77-1460-du-29-decembre-1977)
+- [Loi n° 77-1466 du 30 décembre 1977](loi-n-77-1466-du-30-decembre-1977)
+- [Loi n° 77-1467 du 30 décembre 1977](loi-n-77-1467-du-30-decembre-1977)
 - [Loi n° 77-2 du 3 janvier 1977](loi-n-77-2-du-3-janvier-1977)
 - [Loi n° 77-4 du 3 janvier 1977](loi-n-77-4-du-3-janvier-1977)
 - [Loi n° 77-441 du 27 avril 1977](loi-n-77-441-du-27-avril-1977)

@@ -1,0 +1,4 @@
+# TAXES SUR LE CHIFFRE D'AFFAIRES
+
+- [APPLICATION DU REGIME SIMPLIFIE DE LIQUIDATION DES TAXES SUR LE CHIFFRE D'AFFAIRES.](application-du-regime-simplifie-de-liquidation-des-taxes-sur)
+- [TAXE SUR LA VALEUR AJOUTEE](taxe-sur)

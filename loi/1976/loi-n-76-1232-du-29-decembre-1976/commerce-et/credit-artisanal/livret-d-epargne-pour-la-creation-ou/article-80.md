@@ -12,8 +12,8 @@ III - A l'échéance du livret qu'ils ont ouvert, les travailleurs manuels qui f
 
 En outre, ils peuvent bénéficier d'un prêt assorti de conditions privilégiées consenti par l'établissement gestionnaire du plan d'épargne dans des conditions fixées par un arrêté conjoint du ministre de l'économie et des finances et du ministre du travail.
 
-IV - Les intérêts versés au titulaire du compte ainsi que la prime versée au travailleur manuel qui procède effectivement à la création ou au rachat d'une entreprise artisanale sont exonérés de l'impôt sur le revenu des personnes physiques.
+IV - Les intérêts versés au titulaire du compte ainsi que la prime versée au travailleur manuel qui procède effectivement à la création ou au rachat d'une entreprise artisanale, sont exonérés de l'impôt sur le revenu des personnes physiques.
 
-V - Des modalités particulières seront définies par décret pour permettre aux travailleurs manuels ayant ouvert un livret d'épargne en 1977 de fonder ou d'acheter une entreprise artisanale dans un délai inférieur à la durée normale du livret.
+V - Des modalités particulières seront définies par décret pour permettre aux travailleurs manuels ayant ouvert un livret d'épargne avant le 30 juin 1978 de fonder ou d'acheter une entreprise artisanale dans un délai inférieur à la durée du livret.
 
 VI - Les modalités d'application de la présente loi, et notamment le montant maximum des versements susceptibles d'être effectués sur le livret d'épargne, seront fixées par décret en Conseil d'Etat.

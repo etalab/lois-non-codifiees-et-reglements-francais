@@ -11,7 +11,7 @@
 - [ECONOMIE ET FINANCES](economie-et)
 - [ETABLISSEMENT ET RECOUVREMENT DE L'IMPOT](etablissement-et)
 - [PRELEVEMENT CONJONCTUREL EN 1977.](prelevement-conjoncturel-en-1977)
-- [IMPOT SUR LES SOCIETES](impot-sur)
+- [IMPOT SUR LE REVENU](impot-sur)
 - [TAXE SUR LE CHIFFRE D'AFFAIRE](taxe-sur)
 - [TAXES SUR LE CHIFFRE D'AFFAIRE](taxes-sur)
 - [TAXES DIVERSES](taxes-diverses)

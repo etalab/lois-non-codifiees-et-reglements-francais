@@ -1,3 +1,3 @@
 # Article 2
 
-Sont soumis aux obligations prévues à l'article L. 321-1 (1°) du Code du travail dans les conditions fixées à l'article R. 321-1 du même code les établissements agricoles, industriels ou commerciaux publics ou privés, les offices publics et ministériels, les professions libérales, les sociétés civiles, les syndicats professionnels et les associations de quelque nature que ce soit employant au moins cinquante salariés [*effectif*].
+Les raisins de table, à l'exception de ceux issus de vignes classées simultanément comme recommandées pour les raisins de cuve, doivent faire l'objet, d'une vinification séparée. Les vins issus de raisins de table qui ne peuvent circuler qu'à destination d'une distillerie doivent être conservés à part chez les producteurs.
