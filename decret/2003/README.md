@@ -55,6 +55,7 @@
 - [Décret n°2003-405 du 24 avril 2003 (INDI0301246D)](decret-n2003-405-du-24-avril-2003-indi0301246d)
 - [Décret n°93-439 du 24 mars 1993 (MENF9304678D)](decret-n93-439-du-24-mars-1993-menf9304678d)
 - [Décret n°2000-811 du 25 août 2000 (ECOI0000363D)](decret-n2000-811-du-25-aout-2000-ecoi0000363d)
+- [Décret n°2003-470 du 26 mai 2003 (MAEJ0330031D)](decret-n2003-470-du-26-mai-2003-maej0330031d)
 - [Décret n°2003-397 du 28 avril 2003 (ECOT0326317D)](decret-n2003-397-du-28-avril-2003-ecot0326317d)
 - [Décret n°2003-399 du 28 avril 2003 (SANS0320614D)](decret-n2003-399-du-28-avril-2003-sans0320614d)
 - [Décret n°2003-408 du 28 avril 2003 (EQUU0201206D)](decret-n2003-408-du-28-avril-2003-equu0201206d)
