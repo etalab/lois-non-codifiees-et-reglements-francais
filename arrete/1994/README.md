@@ -1278,5 +1278,4 @@
 - [Arrêté du 31 mai 1994 (EQUA9401013A)](arrete-du-31-mai-1994-equa9401013a)
 - [Arrêté du 31 mai 1994 (INTD9400382A)](arrete-du-31-mai-1994-intd9400382a)
 - [Arrêté du 31 mai 1994 (LOGC9400024A)](arrete-du-31-mai-1994-logc9400024a)
-- [Arrêté du 31 mai 1994 (SPSP9401748A)](arrete-du-31-mai-1994-spsp9401748a)
 - [Arrêté du 31 mai 1994 (TEFT9400560A)](arrete-du-31-mai-1994-teft9400560a)
