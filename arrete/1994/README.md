@@ -1108,7 +1108,6 @@
 - [Arrêté du 28 mars 1994 (EQUP9400508A)](arrete-du-28-mars-1994-equp9400508a)
 - [Arrêté du 28 mars 1994 (INDP9400413A)](arrete-du-28-mars-1994-indp9400413a)
 - [Arrêté du 28 novembre 1994 (COMA9400033A)](arrete-du-28-novembre-1994-coma9400033a)
-- [Arrêté du 28 novembre 1994 (ECOU9400030A)](arrete-du-28-novembre-1994-ecou9400030a)
 - [Arrêté du 28 novembre 1994 (EQUA9402098A)](arrete-du-28-novembre-1994-equa9402098a)
 - [Arrêté du 28 novembre 1994 (EQUS9402034A)](arrete-du-28-novembre-1994-equs9402034a)
 - [Arrêté du 28 novembre 1994 (INTA9400499A)](arrete-du-28-novembre-1994-inta9400499a)
