@@ -286,7 +286,6 @@
 - [Arrêté du 12 mars 1999 (ECOT9910367A)](arrete-du-12-mars-1999-ecot9910367a)
 - [Arrêté du 12 mars 1999 (MESH9920879A)](arrete-du-12-mars-1999-mesh9920879a)
 - [Arrêté du 12 mai 1999 (EQUP9900477A)](arrete-du-12-mai-1999-equp9900477a)
-- [Arrêté du 12 mai 1999 (MESS9921546A)](arrete-du-12-mai-1999-mess9921546a)
 - [Arrêté du 13 août 1999 (AGRP9901756A)](arrete-du-13-aout-1999-agrp9901756a)
 - [Arrêté du 13 août 1999 (AGRP9901757A)](arrete-du-13-aout-1999-agrp9901757a)
 - [Arrêté du 13 août 1999 (AGRP9901758A)](arrete-du-13-aout-1999-agrp9901758a)
