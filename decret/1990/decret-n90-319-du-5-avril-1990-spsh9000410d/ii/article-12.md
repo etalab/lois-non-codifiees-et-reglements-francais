@@ -1,6 +1,6 @@
 # Article 12
 
-La demande de congé de formation doit être formulée soixante jours au moins avant la date à laquelle commence la formation [*délai*].
+La demande de congé de formation professionnelle doit être formulée soixante jours au moins avant la date à laquelle commence la formation [*délai*].
 
 Cette demande doit porter mention de cette date et préciser la durée du congé demandé [*mentions obligatoires*].
 
