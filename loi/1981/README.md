@@ -1,6 +1,7 @@
 # 1981
 
 - [Loi n° 55-1566 du 28 novembre 1955](loi-n-55-1566-du-28-novembre-1955)
+- [Loi n° 80-1094 du 30 décembre 1980](loi-n-80-1094-du-30-decembre-1980)
 - [Loi n° 81-1 du 2 janvier 1981](loi-n-81-1-du-2-janvier-1981)
 - [Loi n° 81-1161 du 30 décembre 1981](loi-n-81-1161-du-30-decembre-1981)
 - [Loi n° 81-1162 du 30 décembre 1981](loi-n-81-1162-du-30-decembre-1981)
