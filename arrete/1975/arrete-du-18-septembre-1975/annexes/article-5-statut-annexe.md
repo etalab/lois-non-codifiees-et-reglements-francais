@@ -1,6 +1,6 @@
 # Article 5 STATUT ANNEXE
 
-La comptabilité de la fédération, tenue suivant les dispositions du plan comptable général, fait apparaître :
+La comptabilité de la fédération, tenue suivant les dispositions du plan comptable élaboré par l'Office national de la chasse , fait apparaître :
 
 I. - Les ressources comprenant :
 
