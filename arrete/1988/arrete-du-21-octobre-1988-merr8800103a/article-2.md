@@ -1,6 +1,6 @@
 # Article 2
 
-La direction des ports et de la navigation maritimes comporte [*composition*]:
+La direction des ports et de la navigation maritimes comporte :
 
 -la sous-direction des affaires économiques et financières ;
 
@@ -8,7 +8,7 @@ La direction des ports et de la navigation maritimes comporte [*composition*]:
 
 -la sous-direction de la sécurité des navires ;
 
--le service des phares et balises et de la navigation ;
+-la sous-direction de la navigation maritime ;
 
 -le service central technique des ports maritimes et des voies navigables ;
 

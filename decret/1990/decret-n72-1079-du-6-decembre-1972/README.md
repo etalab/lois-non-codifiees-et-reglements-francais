@@ -6,3 +6,4 @@
 - [Chapitre IV : Dispositions communes relatives aux commissions médicales d'établissement.](chapitre-iv)
 - [Chapitre V : Dispositions diverses](chapitre-v)
 - [Chapitre VI : Dispositions transitoires.](chapitre-vi)
+- [Article 41](article-41.md)
