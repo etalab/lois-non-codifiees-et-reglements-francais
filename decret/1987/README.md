@@ -186,6 +186,8 @@
 - [Décret n°87-389 du 15 juin 1987 (PRMX8700033D)](decret-n87-389-du-15-juin-1987-prmx8700033d)
 - [Décret n°87-415 du 15 juin 1987 (MENE8700300D)](decret-n87-415-du-15-juin-1987-mene8700300d)
 - [Décret n°87-764 du 15 septembre 1987 (EQUC8700583D)](decret-n87-764-du-15-septembre-1987-equc8700583d)
+- [Décret n°87-838 du 15 octobre 1987 (PRMX8700137D)](decret-n87-838-du-15-octobre-1987-prmx8700137d)
+- [Décret n°87-839 du 15 octobre 1987 (PRMX8700138D)](decret-n87-839-du-15-octobre-1987-prmx8700138d)
 - [Décret n°87-175 du 16 mars 1987 (ASES8700408D)](decret-n87-175-du-16-mars-1987-ases8700408d)
 - [Décret n°87-180 du 16 mars 1987 (EQUT8700189D)](decret-n87-180-du-16-mars-1987-equt8700189d)
 - [Décret n°87-425 du 16 juin 1987 (MAEJ8730027D)](decret-n87-425-du-16-juin-1987-maej8730027d)
