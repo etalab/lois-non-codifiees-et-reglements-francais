@@ -2,7 +2,7 @@
 
 DCN ne peut recourir à une procédure négociée sans mise en concurrence préalable que dans les cas suivants :
 
-- marchés visés au II de l'article 104 du code des marchés publics ;
+- marchés visés au II de l'article 35 du code des marchés publics ;
 
 - marchés passés sur la base d'un marché-cadre conclu conformément aux dispositions du présent décret.
 
