@@ -1,71 +1,69 @@
 # Article 1
 
-Les indemnités forfaitaires pour travaux supplémentaires prévues par les décrets du 19 juin 1968 et du 28 novembre 1978 susvisés en faveur des personnels titulaires des services extérieurs du ministère de l'éducation nationale peuvent être attribuées à ceux des fonctionnaires ci-dessous énumérés dont l'indice net de rémunération est supérieur à l'indice brut 380 :
+- Les documents administratifs émanant des services placés sous l'autorité du ministre de l'économie, des finances et du budget, du ministre du commerce extérieur et du tourisme, du secrétaire d'Etat auprès du ministre de l'économie, des finances et du budget, chargé de budget, et du secrétaire d'Etat auprès du ministre de l'économie, des finances et du budget, chargé de la consommation, ne peuvent, sous réserve des dispositions de la loi du 3 janvier 1979 sur les archives, être communiqués au public, lorsque, par leur nature ou par leur objet, ils entrent dans l'une des catégories fixées par la liste ci-après :
 
-1. Personnels de l'administration scolaire et universitaire :
+1. Documents dont la communication pourrait porter atteinte au secret    des délibérations du Gouvernement et des autorités responsables    relevant du pouvoir exécutif.
 
-Secrétaires généraux ;
+Notes, ne comportant ni une interprétation du droit positif, ni une description des procédures administratives, échangées entre les ministres et leurs collaborateurs directs ou entre les autorités responsables relevant du pouvoir exécutif, notamment celles qui rendent compte de leurs délibérations.
 
-Conseillers administratifs ;
+2. Documents dont la communication pourrait porter atteinte au secret    de la défense nationale et de la politique extérieure.
 
-Attachés et attachés principaux ;
+Documents émanant des administrations centrales, des postes diplomatiques et consulaires, des postes de l'expansion économique et des autorités étrangères, relatifs à la préparation de la politique extérieure de la France et aux relations économiques, financières, commerciales, monétaires, fiscales et douanières avec les Etats étrangers et les organisations internationales ;
 
-Secrétaires administratifs (chefs de section, secrétaires en chef, secrétaires).
+Documents d'origine étrangère soumis par l'usage international à des restrictions de communication ;
 
-1 bis Personnels de l'intendance universitaire en fonctions dans les établissements d'enseignement ou dans les services académiques :
+Notes et rapports comportant une appréciation sur les économies étrangères et dont la communication porterait atteinte aux relations extérieures de la France ;
 
-Intendants.
+Documents relatifs à l'organisation et à la mise en oeuvre de la défense économique ;
 
-2. Instructeurs en fonctions dans les services académiques.
+Documents relatifs à la fabrication et au commerce de matériel militaire ;
 
-3. Personnels d'information et d'orientation :
+Documents relatifs à l'administration et à la gestion des immeubles affectés à un usage militaire ;
 
-Conseillers d'orientation-psychologues et directeurs de centre d'information et d'orientation en fonctions à l'Office national d'information sur les enseignements et les professions (O.N.I.S.E.P.) et dans les délégations régionales de cet office ;
+Documents relatifs à l'imposition des établissements intéressant la défense nationale.
 
-Conseillers d'orientation-psychologues et directeurs de centre d'information et d'orientation en fonctions auprès des chefs des services académiques d'information et d'orientation, délégués régionaux de l'O.N.I.S.E.P.
+3. Documents dont la communication pourrait porter atteinte à la    monnaie et au crédit public, à la sûreté de l'Etat et à la    sécurité publique.
 
-4. Personnels de documentation en fonctions dans les services académiques.
+Documents relatifs à la gestion de la masse monétaire, de la trésorerie de l'Etat, de la dette publique et des réserves de change ;
 
-5. Personnels enseignants exerçant des fonctions administratives dans les services académiques :
+Procès-verbaux du Conseil national du crédit et de la commission de contrôle des banques ;
 
-Professeurs agrégés ;
+Documents relatifs aux ressources, aux emplois et à l'équilibre financier des établissements d'épargne et de crédit ;
 
-Professeurs certifiés ;
+Documents relatifs au contrôle ou à la tutelle des organismes effectuant des opérations financières pour le compte ou sous le contrôle de l'Etat ;
 
-Professeurs d'éducation physique et sportive ;
+Dossiers constitués par des personnes morales de droit public ou privé en vue de faire appel à l'épargne publique ou d'emprunter sur les marchés financiers étrangers ;
 
-Professeurs de lycée professionnel ;
+Documents relatifs aux éléments de calcul des indices de prix à la consommation et à la production dont la divulgation porterait atteinte à la valeur statistique de ces indices ;
 
-Chargés d'enseignement d'éducation physique et sportive ;
+Hormis les cas prévus par les lois et règlements, documents dont la communication porterait atteinte à la sécurité des biens, des personnes et de l'information dans les locaux administratifs.
 
-Professeurs d'enseignement général de collège ;
+4. Documents dont la communication pourrait porter atteinte au    déroulement des procédures engagées devant les juridictions ou    d'opérations préliminaires à de telles procédures, sauf    autorisation donnée par l'autorité compétente.
 
-Adjoints d'enseignement ;
+Documents préparatoires aux instances suivies par l'administration, sans préjudice de l'application des règles de procédure applicables devant la juridiction compétente ;
 
-Professeurs des écoles ;
+Documents préparatoires aux conclusions du commissaire du Gouvernement dans les instances relatives à la fixation des indemnités d'expropriation.
 
-Instituteurs.
+5. Documents dont la communication pourrait porter atteinte au secret    en matière commerciale et industrielle.
 
-5 bis. Personnels de direction exerçant des fonctions administratives dans les services académiques :
+Informations techniques, économiques, commerciales, comptables ou financières sur une entreprise publique ou privée recueillies à l'occasion de contrôles, agréments, enquêtes ou vérifications exercées par ou pour le compte des services de l'Etat ;
 
-Personnels de direction ;
+Informations comptables ou financières sur des entreprises sollicitant ou ayant sollicité un prêt, la garantie ou l'aide de l'Etat ;
 
-Personnels de direction, proviseurs vie scolaire.
+Documents contenant des éléments techniques et financiers sur des entreprises parties à des procédures de conclusion de contrats ou marchés publics et sur leurs propositions ou leurs offres ;
 
-5 ter. Personnels d'éducation :
+Documents recueillis à l'occasion d'enquêtes facultatives et contenant des données statistiques de nature à révéler des informations couvertes par le secret industriel et commercial relatives à des personnes physiques ou morales identifiables du fait du petit nombre d'unités concernées ou de la position dominante de l'une d'entre elles ;
 
-Conseillers d'éducation ;
+Documents relatifs à la fabrication et à la vente de pièces de monnaies et des médailles ;
 
-Conseillers principaux d'éducation.
+Contrats passés par le service des alcools pour l'exportation ou l'importation d'alcool en nature.
 
-6 Personnels des bibliothèques :
+6. Documents dont la communication pourrait porter atteinte à la    recherche, par les services compétents, des infractions fiscales    et douanières.
 
-Bibliothécaires ;
+Documents comportant des indications sur l'organisation, les moyens, les méthodes ou les résultats de la recherche des infractions fiscales et douanières ;
 
-Bibliothécaires adjoints spécialisés ;
+Documents figurant dans les dossiers des contribuables ou assujettis mais n'émanant pas d'eux, lorsque leur communication pourrait porter atteinte au contrôle de l'application de la législation et de la réglementation fiscale ou douanière ;
 
-Bibliothécaire adjoint.
+Instructions adressées aux comptables en matière de recouvrement des impôts, droits, amendes, redevances et produits divers lorsque leur diffusion pourrait porter atteinte à la recherche des infractions fiscales et douanières ;
 
-7. Personnels de santé :
-
-Infirmiers et infirmières.
+Dossiers soumis à la commission des infractions fiscales.
