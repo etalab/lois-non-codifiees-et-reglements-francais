@@ -6,6 +6,6 @@ Le comité est composé de cinq représentants des employeurs et de cinq représ
 
 Le comité technique est présidé alternativement par un représentant des affiliés et un représentant des exploitants, désignés pour la durée du mandat à la majorité absolue des membres titulaires de la même catégorie.
 
-Le comité technique se réunit au moins une fois par semestre, sur convocation du président du conseil d'administration de l'union régionale. Le directeur régional des affaires sanitaires et sociales et le directeur régional de l'industrie, de la recherche et de l'environnement ou leur représentant assistent aux séances avec voix consultative ; ils peuvent inviter le président à réunir le comité. Pour délibérer valablement, le comité technique doit être composé de la moitié au moins de ses membres. Les délibérations sont prises à la majorité des suffrages exprimés.
+Le comité technique se réunit au moins une fois par semestre. Le directeur régional des affaires sanitaires et sociales et le directeur régional de l'industrie, de la recherche et de l'environnement ou leur représentant assistent aux séances avec voix consultative ; ils peuvent inviter le président à réunir le comité. Pour délibérer valablement, le comité technique doit être composé de la moitié au moins de ses membres. Les délibérations sont prises à la majorité des suffrages exprimés.
 
 Le comité peut s'adjoindre, à titre consultatif, des spécialistes, notamment des médecins de mines et des délégués à la sécurité des ouvriers mineurs.

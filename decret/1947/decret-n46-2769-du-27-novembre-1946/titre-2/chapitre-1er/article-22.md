@@ -8,6 +8,6 @@ Les correspondants locaux effectuent pour le compte de la société de secours m
 
 Les agents des sections locales et les correspondants locaux appartiennent au personnel de la société de secours minière ; ils agissent sous l'autorité du directeur ainsi que de l'agent comptable lorsqu'ils sont appelés à effectuer des travaux de comptabilité ou à manier des fonds.
 
-La société de secours minière est tenue de verser à chacune de ses sections et à chacun de ses correspondants locaux le seul montant des prestations servies par celles-ci dans les conditions fixées à l'article D. 256-10 du code de la sécurité sociale.
+La société de secours minière est tenue de verser à chacune de ses sections et à chacun de ses correspondants locaux le seul montant des prestations servies par celles-ci dans les conditions fixées à l'article D. 254-2 du code de la sécurité sociale.
 
 Un arrêté du ministre chargé de la sécurité sociale fixe les modalités d'application du présent article.
