@@ -1,6 +1,5 @@
 # L'élection de l'assemblée de Corse.
 
-- [Article 5](article-5.md)
 - [Article 7](article-7.md)
 - [Article 16](article-16.md)
 - [Article 17](article-17.md)
