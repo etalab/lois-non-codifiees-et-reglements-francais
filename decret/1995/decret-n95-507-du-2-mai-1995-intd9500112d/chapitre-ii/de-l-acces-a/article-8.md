@@ -1,8 +1,8 @@
 # Article 8
 
-L'accès des représentants des associations habilitées à la zone d'attente est subordonné à un agrément individuel accordé pour une durée d'un an par le ministre de l'intérieur après avis du ministre des affaires étrangères.
+L'accès des représentants des associations habilitées à la zone d'attente est subordonné à un agrément individuel accordé pour une durée de trois ans par le ministre de l'intérieur après avis du ministre des affaires étrangères.
 
-Cet agrément, qui est renouvelable, peut être accordé à cinq personnes par association. Il entraîne la délivrance d'une carte nominative permettant d'obtenir lors de chaque visite une autorisation d'accès à la zone d'attente.
+Cet agrément, qui est renouvelable, peut être accordé à dix personnes par association. Il entraîne la délivrance d'une carte nominative permettant d'obtenir lors de chaque visite une autorisation d'accès à la zone d'attente.
 
 Une même personne ne peut recevoir qu'un agrément.
 

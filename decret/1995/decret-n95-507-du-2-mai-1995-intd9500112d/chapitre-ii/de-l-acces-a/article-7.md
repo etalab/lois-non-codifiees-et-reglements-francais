@@ -6,4 +6,4 @@ L'habilitation ne peut être sollicitée que par les associations régulièremen
 
 Tout refus d'habilitation doit être motivé.
 
-L'habilitation est accordée pour une durée de deux ans. Elle est renouvelable pour la même durée.
+L'habilitation est accordée pour une durée de trois ans. Elle est renouvelable pour la même durée.

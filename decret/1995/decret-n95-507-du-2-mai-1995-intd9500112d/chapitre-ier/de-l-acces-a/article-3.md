@@ -2,7 +2,7 @@
 
 L'accès des représentants du Haut-Commissariat des Nations Unies pour les réfugiés à la zone d'attente est subordonné à un agrément individuel.
 
-Cet agrément est délivré pour une durée d'un an par le ministre de l'intérieur après avis du ministre des affaires étrangères.
+Cet agrément est délivré pour une durée de trois mois par le ministre de l'intérieur après avis du ministre des affaires étrangères.
 
 Il est renouvelable pour la même durée.
 
