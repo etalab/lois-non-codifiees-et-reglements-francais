@@ -14,6 +14,6 @@ Les observations produites par l'Autorité des marchés financiers sont portées
 
 V. - Le ministère public reçoit du greffe communication des recours afin de déterminer celles des affaires dans lesquelles il estime devoir intervenir.
 
-Les parties et l'Autorité des marchés financiers ont la faculté de se faire assister par un avocat ou représenter par un avoué près la cour d'appel de Paris.
+La représentation et l'assistance des parties et de l'Autorité des marchés financiers s'exercent dans les conditions fixées par l'article 931 du nouveau code de procédure civile.
 
 Les décisions de la cour d'appel de Paris ou de son premier président sont notifiées par le greffe, par lettre recommandée avec demande d'avis de réception.
