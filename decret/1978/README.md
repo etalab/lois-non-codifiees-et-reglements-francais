@@ -133,7 +133,6 @@
 - [Décret n°78-504 du 29 mars 1978](decret-n78-504-du-29-mars-1978)
 - [Décret n°78-505 du 29 mars 1978](decret-n78-505-du-29-mars-1978)
 - [Décret n°78-1060 du 30 octobre 1978](decret-n78-1060-du-30-octobre-1978)
-- [Décret n°78-499 du 30 mars 1978](decret-n78-499-du-30-mars-1978)
 - [Décret n°78-510 du 30 mars 1978](decret-n78-510-du-30-mars-1978)
 - [Décret n°78-517 du 30 mars 1978](decret-n78-517-du-30-mars-1978)
 - [Décret n° 78-904 du 31 août 1978](decret-n-78-904-du-31-aout-1978)
