@@ -90,6 +90,7 @@
 - [Arrêté du 23 novembre 1989 (SPSA8902504A)](arrete-du-23-novembre-1989-spsa8902504a)
 - [Arrêté du 24 janvier 1990 (LOGC9000015A)](arrete-du-24-janvier-1990-logc9000015a)
 - [Arrêté du 24 novembre 1989 (JUSD8930104A)](arrete-du-24-novembre-1989-jusd8930104a)
+- [Arrêté du 25 janvier 1990 (SPSP9000192A)](arrete-du-25-janvier-1990-spsp9000192a)
 - [Arrêté du 26 décembre 1989 (PTTT8901162A)](arrete-du-26-decembre-1989-pttt8901162a)
 - [Arrêté du 26 décembre 1989 (PTTT8901163A)](arrete-du-26-decembre-1989-pttt8901163a)
 - [Arrêté du 26 décembre 1989 (PTTT8901166A)](arrete-du-26-decembre-1989-pttt8901166a)
