@@ -188,6 +188,7 @@
 - [Décret n°88-938 du 28 septembre 1988 (INTX8800089D)](decret-n88-938-du-28-septembre-1988-intx8800089d)
 - [Décret n°89-443 du 28 juin 1989 (MENF8900761D)](decret-n89-443-du-28-juin-1989-menf8900761d)
 - [Décret n°89-444 du 28 juin 1989 (MENF8900763D)](decret-n89-444-du-28-juin-1989-menf8900763d)
+- [Décret n°88-1071 du 29 novembre 1988 (SPSS8801388D)](decret-n88-1071-du-29-novembre-1988-spss8801388d)
 - [Décret n°88-1286 du 29 juillet 1988 (AGRS8801286D)](decret-n88-1286-du-29-juillet-1988-agrs8801286d)
 - [Décret n°88-794 du 29 juin 1988 (ASEX8800086D)](decret-n88-794-du-29-juin-1988-asex8800086d)
 - [Décret n°88-850 du 29 juillet 1988 (ECOX8810673D)](decret-n88-850-du-29-juillet-1988-ecox8810673d)

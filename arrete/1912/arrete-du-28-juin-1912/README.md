@@ -13,6 +13,7 @@
 - [Article 8 e](article-8-e.md)
 - [Article 8 f](article-8-f.md)
 - [Article 8 g](article-8-g.md)
+- [Article 9 a](article-9-a.md)
 - [Article 9 b](article-9-b.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
