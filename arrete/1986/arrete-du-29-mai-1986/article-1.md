@@ -1,19 +1,13 @@
 # Article 1
 
-L'uniforme des gardes-pêche du Conseil supérieur de la pêche est ainsi composé :
+Pour l'application des 1°, 2° et 3° de l'article 2 du décret n° 85-26 susvisé et en remplacement des formulaires prévus à l'article 2 de l'arrêté du 30 avril 1985 susvisé, le président du conseil régional transmet au   préfet les documents annexes aux conventions suivantes :
 
-Tenue de cérémonie (hiver)
+-annexe pédagogique et annexe pédagogique par cycle (ou document normalisé d'avenant) ;
 
-Homme : veste et pantalon de drap bleu, képi ;
+-compte rendu d'exécution par cycle et bilan financier ;
 
-Femme : veste et jupe ou pantalon de drap bleu, coiffure.
+-compte rendu d'exécution : démographie et catégorie socio-professionnelle des stagiaires du cycle et (ou) du centre ;
 
-Tenue de cérémonie (été)
+-compte rendu d'exécution : cycle organisé par modules, dont le modèle figure en annexe au présent arrêté (1).
 
-Homme : vareuse et pantalon en toile kaki, képi ;
-
-Femme : vareuse et pantalon ou jupe de toile kaki, coiffure.
-
-Les tenues (hiver et été) sont portées avec une chemise blanche, une cravate noire et des souliers noirs. " Tenue de travail (été et hiver)
-
-" Les vêtements de travail sont ceux qui figurent sur une liste établie par le directeur général du Conseil supérieur de la pêche et qui font partie de la dotation générale d'uniforme attribuée à chaque agent. "
+(1) Les annexes au présent arrêté seront publiées dans le Bulletin de liaison de la formation profesionnelle de la délégation à la formation professionnelle.
