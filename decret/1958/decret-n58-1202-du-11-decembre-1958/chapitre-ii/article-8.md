@@ -1,5 +1,0 @@
-# Article 8
-
-Des acomptes sur les subventions calculées conformément aux dispositions de l'article précédent pourront, par anticipation, être accordés par le ministre de la santé publique et de la population au vu des procès-verbaux d'adjudication ou des marchés régulièrement approuvés.
-
-Les conditions d'attribution et d'utilisation de ces acomptes seront fixées par arrêté conjoint du ministre de la santé publique et de la population et du ministre des finances et des affaires économiques. Ils ne pourront toutefois être accordés qu'à concurrence des sommes que le maître d'oeuvre aurait déjà mobilisées au titre de son apport propre et leur montant ne pourra, en aucun cas, dépasser ni la moitié de la promesse de subvention précédemment accordée par le ministre de la santé publique et de la population pour l'opération à réaliser, ni la moitié des sommes sur lesquelles portent les procès-verbaux d'adjudication ou les marchés transmis au ministre à l'appui de la demande d'attribution d'acomptes.
