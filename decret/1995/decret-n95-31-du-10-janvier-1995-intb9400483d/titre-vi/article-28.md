@@ -1,6 +1,6 @@
 # Article 28
 
-Les fonctionnaires territoriaux promus au grade provisoire d'éducateur-chef de jeunes enfants en application de l'article 29 entre le 1er août 1995 et le 31 décembre 1996 sont reclassés à l'échelon comportant un indice égal ou à défaut immédiatement supérieur à celui qu'ils détenaient dans leur grade d'origine.
+Les fonctionnaires territoriaux promus au grade provisoire d'éducateur-chef de jeunes enfants en application de l'article 27 entre le 1er août 1995 et le 31 décembre 1996 sont reclassés à l'échelon comportant un indice égal ou à défaut immédiatement supérieur à celui qu'ils détenaient dans leur grade d'origine.
 
 Dans la limite de l'ancienneté maximum de service exigée pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à leur promotion est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancien grade.
 

@@ -8,4 +8,4 @@ Peuvent être nommés éducateurs-chefs de jeunes enfants, après inscription su
 
 Le nombre d'éducateurs-chefs de jeunes enfants ne peut être supérieur à 15 % du nombre des éducateurs de jeunes enfants, des éducateurs principaux de jeunes enfants et des éducateurs-chefs de jeunes enfants. Toutefois, un emploi d'éducateur-chef de jeunes enfants peut être créé s'il existe cinq emplois de ce cadre d'emplois dans la collectivité.
 
-Le programme et les modalités de l'examen professionnel prévu au 1° sont fixés par arrêté du ministre chargé des collectivités locales.
+Le programme et les modalités de l'examen professionnel prévu au 2° sont fixés par arrêté du ministre chargé des collectivités locales.
