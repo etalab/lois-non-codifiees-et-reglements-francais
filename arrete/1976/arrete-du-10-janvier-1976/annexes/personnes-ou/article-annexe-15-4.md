@@ -1,0 +1,3 @@
+# Article Annexe 15-4
+
+Les personnes ou organismes agréés par arrêtés pris en application de l'arrêté interministériel du 26 juillet 1968 fixant les conditions d'agrément pour la vérification des installations électriques dans les établissements assujettis au décret n° 62-1454 du 14 novembre 1962 concernant la protection des travailleurs contre les courants électriques et dans ceux qui sont soumis au décret du 13 août 1954 relatif à la protection contre les risques d'incendie et de panique dans les établissements recevant du public sont également habilités à effectuer les vérifications des installations électriques des mines et carrières prescrites par l'article 15-4 du règlement annexé au décret n° 76-48 du 9 janvier 1976.

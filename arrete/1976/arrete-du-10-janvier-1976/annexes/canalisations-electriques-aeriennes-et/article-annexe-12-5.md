@@ -1,0 +1,3 @@
+# Article Annexe 12-5
+
+Les canalisations aériennes et les canalisations souterraines, enterrées ou non, quels que soient leur nature ou leur objet, appartenant aux installations électriques visées à l'article 10-1 du règlement annexé au décret n° 76-48 du 9 janvier 1976, à l'exception de celles qui sont établies dans les travaux du fond, sont soumises aux prescriptions qui les concernent des titres Ier et III de l'arrêté du 13 février 1970 relatif aux conditions techniques auxquelles doivent satisfaire les distributions d'énergie électrique, dans la mesure où lesdites prescriptions ne sont pas contraires à celles du décret du 9 janvier 1976 susvisé.
