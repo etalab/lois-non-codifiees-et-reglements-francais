@@ -1,3 +1,3 @@
 # Article 3
 
-Le président de la commission est désigné parmi les membres nommés pour une durée de trois ans.
+Le délégataire visé à l'article 2 peut subdéléguer sa signature à l'adjoint du directeur interdépartemental de l'industrie et au secrétaire général de la direction interdépartementale de l'industrie.

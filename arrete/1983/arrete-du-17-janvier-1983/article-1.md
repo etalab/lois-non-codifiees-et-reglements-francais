@@ -1,0 +1,3 @@
+# Article 1
+
+En dehors des agglomérations, les enseignes publicitaires et les pré-enseignes visibles des routes nationales, des chemins départementaux et des voies communales qui n'ont pas le caractère de routes express peuvent être installées à une distance inférieure à celle de 20 mètres fixée par l'article 8 (alinéa 1er) du décret n° 76-148 du 11 février 1976, sous réserve d'être implantées en dehors du domaine public, de ne pas gêner la perception de la signalisation réglementaire, de ne présenter aucun danger pour la circulation et, en ce qui concerne les pré-enseignes, d'être situées à 5 mètres au moins du bord de la chaussée.
