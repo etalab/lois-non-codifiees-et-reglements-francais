@@ -10,7 +10,6 @@
 - [Décret n°84-85 du 1 février 1984](decret-n84-85-du-1-fevrier-1984)
 - [Décret n°84-871 du 1 octobre 1984](decret-n84-871-du-1-octobre-1984)
 - [Décret n°84-177 du 2 mars 1984](decret-n84-177-du-2-mars-1984)
-- [Décret n°84-82 du 2 février 1984](decret-n84-82-du-2-fevrier-1984)
 - [Décret du 3 octobre 1984](decret-du-3-octobre-1984)
 - [Décret n°84-10 du 3 janvier 1984](decret-n84-10-du-3-janvier-1984)
 - [Décret n°84-1073 du 3 décembre 1984](decret-n84-1073-du-3-decembre-1984)
