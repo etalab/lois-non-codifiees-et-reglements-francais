@@ -102,4 +102,6 @@ Le président de l'Agence nationale des chèques-vacances ou son représentant ;
 
 Le président de l'association des maires de France ou son représentant.
 
+Le président délégué du Comité national pour le fleurissement de la France ou son représentant.
+
 III - Vingt-trois personnalités choisies en raison de leur compétence en matière de tourisme.
