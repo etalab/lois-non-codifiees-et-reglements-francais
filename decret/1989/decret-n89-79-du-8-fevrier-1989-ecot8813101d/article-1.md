@@ -1,0 +1,5 @@
+# Article 1
+
+Les opérations de crédit mentionnées au deuxième alinéa de l'article 1er du décret du 20 mai 1955 susvisé ne peuvent être réalisées qu'avec les collectivités locales et leurs établissements publics, les sociétés d'économie mixte régies par la loi n° 83-597 du 7 juillet 1983 relative aux sociétés d'économie mixte locale, les organismes d'habitation à loyer modéré énumérés à l'article L. 411-2 du code de la construction et de l'habitation et les associations régies par la loi du 1er juillet 1901 relative au contrat d'association.
+
+Sont seules autorisées à effectuer ces opérations les caisses de crédit municipal qui disposent d'un capital au moins égal à celui qui est exigé des banques en application de l'article 33 de la loi du 24 janvier 1984 susvisée. L'autorisation est donnée pour chaque caisse par un décret qui constate, après avis de l'organe central des caisses de crédit municipal, la transformation de cette caisse d'établissement public administratif en établissement public à caractère industriel et commercial.
