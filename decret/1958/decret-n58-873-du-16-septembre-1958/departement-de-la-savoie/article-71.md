@@ -26,6 +26,8 @@ Cours d'eau de 2ème catégorie.
 
 11° Le lac de Grésy-sur-Isère.
 
+12° Le Thiez, de sa sortie du lac d'aiguebelette jusqu'à la prise        E.D.F au lieudit Gué des planches.
+
 Cours d'eau de 1ère catégorie.
 
 (Salmonidés dominants).

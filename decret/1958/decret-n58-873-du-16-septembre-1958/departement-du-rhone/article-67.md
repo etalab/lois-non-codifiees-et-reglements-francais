@@ -22,7 +22,9 @@ Cours d'eau de 2ème catégorie.
 
 9° Le canal de Jonage, le canal de Givors.
 
-10° Le plan d'eau de Combe Gibert, communes d'Orliénas et de Taluyers.
+10°    11° L'Izeron entre sa confluence avec le rhône et le pont        d'oullins.
+
+12° Le plan d'eau du Vallon, à Autun, sur le ruisseau du couhard.
 
 Cours d'eau de 1ère catégorie.
 

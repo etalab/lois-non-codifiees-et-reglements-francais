@@ -1,3 +1,7 @@
 # Article 1
 
-Sont agréés, au titre de l'article L. 951-3 du code du travail et sont habilités à recevoir une fraction de la participation des employeurs au financement de la formation professionnelle continue, égale au moins à 0,10 p. 100 des salaires de l'année de référence, les organismes paritaires figurant sur la liste ci-annexée, complétant les listes placées en annexe des arrêtés susvisés.
+La garantie de l'Etat est accordée au service des deux emprunts obligataires d'ensemble 1,5 milliard de francs émis par les sociétés de développement régional Centrest, Nord - Pas-de-Calais, Sud-Est, Picardie, Soderag, Bretagne, Champex, Tofinso, Expanso, Lordex, Normandie, Sodéro, Sade, Sodecco, Méditerranée, Sodéré, Sodler et Sodep :
+
+- l'un de 1 milliard de francs assorti d'un taux d'intérêt de 10,80 p. 100 ;
+
+- l'autre de 500 millions de francs assorti d'un taux d'intérêt de 10,50 p. 100.

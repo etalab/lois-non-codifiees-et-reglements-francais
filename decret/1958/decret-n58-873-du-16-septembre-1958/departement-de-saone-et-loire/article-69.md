@@ -30,6 +30,8 @@ Cours d'eau de 1ère catégorie.
 
 13° Les affluents et sous-affluents des cours d'eau ou portions cours d'eau situés dans le département et désignés ci-avant, à l'exception de la Genète, affluent du Sornin.
 
+14° Le plan d'eau du Vallon ,à autun , sur le ruisseau du Couhard
+
 Cours d'eau de 2ème catégorie.
 
 (Cyprinidés dominants).

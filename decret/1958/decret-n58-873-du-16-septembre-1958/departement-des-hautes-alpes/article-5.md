@@ -26,7 +26,7 @@ b) Les affluents suivants du Buech : La Méouge, La Blaisance, Le Riou de Saint-
 
 c) L'Oule, affluent de l'Eygues, et ses deux affluents, le torrent des Combes (R.G.) et le torrent des Archettes (R.D.).
 
-d) Les affluents de la Durance se jetant dans la retenue hydro-électrique de Serre-Ponçon.
+d) Les affluents de la Durance se jetant dans la retenue hydro-électrique de Serre-Ponçon.    7. La retenue de Serre-ponçon y compris le plan d'eau d'Embrun, du barrage principal de Serre-Ponçon  au pont de la clapière, sur la Durance, et au pont de Pellegrin, surl'Ubaye, et à la côte N.G.F. 781 pour tous les autres tributaires.
 
 Cours d'eau de 1ère catégorie.
 
