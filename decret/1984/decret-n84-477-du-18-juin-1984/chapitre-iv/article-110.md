@@ -1,23 +1,23 @@
 # Article 110
 
-I.  Les caisses de mutualité sociale agricole remboursent aux membres des conseils d'administration les frais de déplacement qu'ils engagent pour l'exercice de leur mandat dans les conditions suivantes :
+I. - Les organismes de mutualité sociale agricole remboursent aux membres des conseils d'administration et des comités directeurs et aux délégués aux assemblées générales les frais de déplacement et les frais de séjour qu'ils engagent pour l'exercice de leur mandat dans les conditions définies pour les administrateurs des organismes de sécurité sociale du régime général en application de l'article L. 231-12 du code de la sécurité sociale.
 
-a) Si le déplacement est effectué par transport en commun, sur la base du tarif effectivement payé pour le parcours aller et retour du lieu le plus proche de la résidence au lieu de destination ;
+II. - Sur décision de leurs conseils d'administration ou comités directeurs, les organismes de mutualité sociale agricole attribuent aux membres élus de ces conseils ou comités des indemnités forfaitaires représentatives, pour les administrateurs du deuxième collège, du temps passé hors des horaires de travail et, pour les administrateurs des premier et troisième collèges, du temps passé à l'exercice de leur mandat ; ces indemnités sont calculées par référence à une vacation égale à six fois la valeur horaire du SMIC en vigueur au premier jour du mois et sont au plus égales :
 
-b) Si le déplacement est effectué par véhicule personnel, sur la base d'une indemnité kilométrique égale au montant alloué aux personnels civils de l'Etat utilisant un véhicule de puissance fiscale égale ou supérieure à 8 CV et parcourant une distance de 2 001 à 10 000 kilomètres par an.
+a) Pour les membres des conseils d'administration ou comités directeurs, à une vacation par séance du conseil ou du comité et de toute commission instituée par un texte législatif, réglementaire ou par décision desdits conseils ou comités, les intéressés ne pouvant recevoir plus de deux vacations par jour ;
 
-II.  Les caisses de mutualité sociale agricole remboursent aux membres des conseils d'administration les frais de séjour qu'ils engagent pour l'exercice de leur mandat.
+b) Pour les présidents des conseils d'administration et des comités directeurs et les membres du conseil central de la mutualité sociale agricole, au titre de leur fonction, à quinze vacations au plus par mois ;
 
-Ce remboursement est assuré, sur décision du conseil d'administration, selon l'une des deux possibilités suivantes :
+c) Pour les présidents du comité central de la protection sociale des salariés, du comité central de la protection sociale des non-salariés et du comité paritaire central d'action sanitaire et sociale, au titre de leurs fonctions, à vingt vacations au plus par mois ;
 
-a) Soit sur la base des indemnités de mission allouées aux personnels civils de l'Etat effectuant des déplacements soit à Paris, soit en province ;
+d) Pour le président du conseil central d'administration de la mutualité sociale agricole, au titre de sa fonction, à trente-cinq vacations au plus par mois.
 
-b) Soit sur la base des frais réels exposés, sur justification, dans la limite du montant des indemnités de mission visées à l'alinéa précédent.
+Les membres non salariés en activité des conseils d'administration et des comités directeurs peuvent opter, au lieu et place des vacations attribuées au titre de leurs fonctions dans des organismes de mutualité sociale agricole, pour une indemnité forfaitaire de remplacement d'un montant égal à celui déterminé dans les conditions prévues en application de l'article L. 732-12 du code rural.
 
-III.  Sur décision des conseils d'administration, les caisses de mutualité sociale agricole attribuent aux membres de ces conseils des indemnités forfaitaires représentatives du temps passé à l'exercice de leur mandat, d'un montant au plus égal :
+L'agent d'un organisme de mutualité sociale agricole désigné en qualité d'administrateur d'un autre organisme de mutualité sociale agricole ne peut bénéficier d'aucune indemnité.
 
-a) Pour les membres des conseils d'administration, à six fois la valeur horaire du S.M.I.C. en vigueur au premier jour du mois civil, par vacation, les intéressés ne pouvant recevoir plus de deux vacations par jour ;
+III. - Les membres des conseils d'administration et des comités directeurs des organismes de mutualité sociale agricole ainsi que les membres des assemblées générales qui participent pendant la durée de leurs mandats aux sessions de formation des élus organisées à l'initiative desdits organismes sont remboursés et indemnisés dans les conditions définies aux paragraphes I et II du présent article.
 
-b) Pour les présidents des conseils d'administration, au titre de leur fonction, à dix vacations au plus par mois.
+Les membres des conseils d'administration et des comités directeurs des organismes de mutualité sociale agricole qui participent aux sessions de formation des administrateurs et délégués autres que celles visées au paragraphe précédent et dispensées pendant la durée de leur mandat par des organisations agréées sur le plan national sont remboursés et indemnisés dans la limite de dix jours pour toute la durée de leur mandat.
 
-IV.  Les membres des conseils d'administration qui participent aux sessions de formation des administrateurs dispensées par des organisations agréées sur le plan national sont remboursés et indemnisés dans la limite de dix jours pendant la durée du mandat, selon les conditions définies aux paragraphes I à III ci-dessus. En outre, les administrateurs salariés sont remboursés sur justification de la perte effective de rémunération subie du fait de leur participation aux sessions de formation des administrateurs.
+Outre le remboursement des frais de déplacement et de séjour, les administrateurs salariés sont remboursés, sur justification, de la perte effective de rémunération subie du fait de leur participation aux sessions de formation faisant l'objet d'une indemnisation dans les conditions prévues au présent paragraphe.
