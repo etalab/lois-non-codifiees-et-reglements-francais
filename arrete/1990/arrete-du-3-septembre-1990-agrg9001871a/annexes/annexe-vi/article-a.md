@@ -1,8 +1,18 @@
 # Article A
 
-1. : Bois de conifères (Coniferae), originaire de pays non européens (a).
+1 a) Bois de conifères originaires du Canada, de Chine, du Japon, de la Corée, des Etats-Unis.
 
-Le bois est écorcé ou la preuve a été apportée, par l'application sur le bois ou sur son emballage, conformément aux usages commerciaux courants, d'une marque "Kiln-dried", KD, ou d'une autre marque reconnue au niveau international, que ce bois a été séché au four jusqu'à réduction de sa teneur en humidité à moins de 20 %, calculée sur la matière sèche, au moment de cette opération selon un programme approprié "temps/température".
+Sans préjudice des dispositions applicables au bois visé à l'annexe V, point 5 et à l'annexe VI, point 6 ter du présent arrêté, il est prouvé par une marque "Kiln-dried", KD ou toute autre marque internationale reconnue, apposée sur le bois ou sur son emballage conformément à l'usage commercial en vigueur, que ce bois a subi un séchage au four réduisant sa teneur en humidité à moins de 20 % exprimé en pourcentage de la matière sèche, au moment de sa production, par la combinaison temps/température appropriée.
+
+1 b) Bois de conifère originaire de pays non européens, non couverts par le point 1 a.
+
+Sans préjudice des dispositions pays applicables au bois visé à l'annexe V, point 5 et à l'annexe VI, point 6 bis.
+
+a) Le bois est écorcé et exempt de trous de vers, causés par le genre Monochamus et définis pour cette raison comme ceux dont le diamètre est supérieur à 3 mm,
+
+ou
+
+b) Il est prouvé par une marque "Kiln-dried", KD, ou toute autre marque internationale reconnue, apposée sur le bois ou sur son emballage conformément à l'usage commercial actuel, que ce bois a subi un séchage au four réduisant son taux d'humidité à moins de 20 %, exprimé en pourcentage de la matière sèche, au moment de sa production, par une combinaison temps/température appropriée.
 
 1 bis. : Bois scié d'Acer saccharum, originaire des Etats-Unis d'Amérique.
 
@@ -24,7 +34,7 @@ d) Tout envoi sera accompagné d'un certificat phytosanitaire prévu par la conv
 
 - 2.1 : Dans le cas de bois scié portant ou non des restes d'écorce, il doit être prouvé par une marque Kiln-dried, KD, ou une autre marque internationalement reconnue, apposée sur le bois ou sur son emballage conformément à l'usage commercial courant, qu'il a été séché au four et que sa teneur en eau, exprimée en pourcentage de la matière sèche, était inférieure à 20 % au moment du traitement effectué selon des normes de temps et de température appropriées.
 
-- 2.2 : Le bois n'est pas écorcé : chaque grume est traitée par fumigation et identifiée comme telle conformément aux dispositions ci-dessous : Disposition concernant la fumigation et l'identification des bois fumigés.
+- 2.2 : le bois de chêne (Quercus) n'est pas écorcé : chaque grume est traitée par fumigation et identifiée comme telle conformément aux dispositions ci-dessous : Disposition concernant la fumigation et l'identification des bois fumigés.
 
 1 : Les grumes sont entreposées sous une bâche étanche au gaz d'une manière telle que le gaz puisse circuler entre elles.
 
@@ -104,7 +114,11 @@ Le bois est écorcé.
 
 Constatation officielle que l'écorce est originaire de régions connues comme exemptes d'Endothia parasitica.
 
-6 bis. : Bois sous forme de plaquettes, de particules, de déchets ou de débris, et obtenu en totalité ou en partie à partir d'un ou de plusieurs genres ou espèces de Castanea, Quercus, Platanus, Coniferae, Populus, Acer saccharum originaires de pays non européens.      Le produit a été fabriqué exclusivement à partir de bois qui a été écorcé, ou qui, soit a été séché en étuve jusqu'à ce que sa teneur en humidité exprimée en pourcentage de matière sèche au moment de la production soit devenue inférieure à 20 % selon un programme temps/température approprié, soit a été fumigé, et est transporté dans des conteneurs scellés ou dans des conditions permettant d'empêcher une nouvelle invasion de parasites.
+6 bis. : Bois sous forme de plaquettes, de particules, de déchets ou de débris, et obtenu en totalité ou en partie à partir des genres ou espèces de Castanea, Quercus, Platanus, Coniferae, Acer saccharum, Populus originaire des pays non européens, à l'exclusion du bois obtenu à partir de conifères, originaire du Canada, de Chine, de Corée, des Etats-Unis et du Japon.
+
+Le produit a été fabriqué exclusivement à partir de bois qui a été écorcé, ou qui, soit a été séché en étuve jusqu'à ce que sa teneur en humidité exprimée en pourcentage de matière sèche au moment de la production soit devenue inférieure à 20 % selon un programme temps/température approprié, soit a été fumigé, et est transporté dans des conteneurs scellés ou dans des conditions permettant d'empêcher une nouvelle invasion de parasites.
+
+6 ter. : Bois sous forme de plaquettes, de particules, de déchets ou de débris, obtenu en totalité ou en partie à partir de conifères, originaire du Canada, de Chine, du Japon, de Corée, des Etats-Unis. Le produit provient exclusivement de bois qui a soit subi un séchage au four réduisant sa teneur en humidité à moins de 20 %, exprimé en pourcentage de la matière sèche, au moment de sa production, par une combinaison temps/température appropriée, soit été soumis à la fumigation ; il est transporté par bateau dans des conteneurs scellés, ou transporté d'une manière telle qu'il ne risque pas de se produire de nouvelle contamination.
 
 7. : Végétaux de Castanea :
 
@@ -612,7 +626,9 @@ a) Proviennent directement de pépinières non contaminées par Tomato ringspot 
 
 b) Sont de la deuxième génération au plus à partir de souches d'origine qui se sont avérées exemptes de Tomato ringspot virus lors de tests virologiques officiellement agréés.
 
-33 bis. : Végétaux de Apium graveolens, Capsicum annuum, Chrysanthemum, Dendranthema, Dianthus caryophillus, Gerbera, Gypsophila, Solanum lycopersicum, destinés à la plantation, à l'exception des semences, originaires d'un Etat membre, ou de pays tiers dans lesquels il a été constaté, que l'apparition de :
+33 bis. :
+
+a) Végétaux de Apium graveolens, Brassica, Capsicum annuum, Chrysanthemum, Cucumis, Dendranthema, Dianthus, Gerbera, Gypsophila, Lactuca sativa, Leucanthemum, Lycopersicon esculentum, Solanum melongena, Tanacetum, destinés à la plantation, à l'exception des semences, originaires d'un Etat membre ou de pays tiers dans lesquels il a été constaté que l'apparition de :
 
 Amauromyza maculosa ;
 
@@ -622,17 +638,49 @@ Liriomyza sativae ;
 
 Liriomyza trifolii,
 
-n'est pas connue ou, en cas d'apparition de Liriomyza trifolii, que des mesures équivalentes à celles qui ont été prises par la Communauté sont appliquées.
+n'est pas connue.
 
 Constatation officielle :
 
-- qu'aucune contamination par Liriomyza trifolii n'a été observée sur le champ de production lors d'inspection officielles effectuées au moins une fois par mois au cours des trois mois précédant la récolte ;
+- qu'aucun symptôme des organismes nuisibles en cause n'a été observé sur le champ de production lors d'inspections officielles effectuées au moins une fois par mois au cours des trois mois précédant la récolte,
 
-- ou que les végétaux ou, dans le cas de boutures, les plantes mères ont été soumis à un système de lutte officiellement approuvé et contrôlé, comportant un traitement approprié ayant pour but d'éradiquer le Liriomyza trifolii sur les végétaux.
+ou
 
-33 ter. : Végétaux de Apium graveolens, Capsicum annuum, Chrysanthemum, Dendranthema, Dianthus caryophyllus, Gerbera, Gypsophyla, Solanum lycopersicum, destinés à plantation, à l'exception des semences, originaires des pays américains ou de tout autre pays tiers ne relevant pas du point 33 bis.
+- qu'immédiatement avant l'exportation les végétaux ont été inspectés, trouvés indemnes de symptômes des organismes nuisibles en cause et ont été soumis à un traitement approprié ayant pour but d'éradiquer les organismes nuisibles en cause.
 
-Constatation officielle qu'aucune contamination par Amauromyza maculosa, Liriomyza trifolii n'a été observée sur le champ de production lors d'inspections officielles effectuées au moins une fois par mois au cours des trois mois précédant la récolte.
+b) Végétaux des espèces couvertes par le point 33 bis a destinés à la plantation, à l'exception des semences, originaires des pays américains ou de tout autre pays tiers où l'apparition de :
+
+Amauromyza maculosa ;
+
+Liriomyza huidobrensis ;
+
+Liriomyza sativae ;
+
+Liriomyza trifolii,
+
+est connue.
+
+Constatation officielle qu'aucun symptôme de Amauromyza maculosa, Liriomyza huidobrenses, Liriomyza sativae ou Liriomyza trifolii n'a été observé sur le champ de production lors d'inspections officielles effectuées au moins une fois par mois au cours des trois mois précédant la récolte.
+
+c) Végétaux d'espèces herbacées, autres que ceux qui sont couverts par le point 33 bis a destinés à la plantation, à l'exception des semences, originaires d'un Etat membre où un organisme nuisible spécifié au point 33 bis a est connu, des pays américains, ou de tout autre pays tiers où l'apparition de :
+
+Amauromyza maculosa ;
+
+Liriomyza huidobrensis ;
+
+Liriomyza sativae ;
+
+Liriomyza trifolii,
+
+est connue.
+
+Constatation officielle :
+
+- qu'aucun symptôme des organismes nuisibles en cause n'a été observé sur le champ de production lors d'inspections officielles effectuées au moins une fois par mois au cours des trois mois précédant la récolte,
+
+ou
+
+- qu'immédiatement avant l'exportation les végétaux ont été inspectés, trouvés indemnes de symptômes des organismes nuisibles en cause et ont été soumis à un traitement approprié ayant pour but d'éradiquer les organismes nuisibles en cause.
 
 34. : Végétaux racinés, plantés ou destinés à être plantés, cultivés en plein air.
 
@@ -731,5 +779,3 @@ Constatation officielle :
 44. : Graines d'Helianthus annuus originaires de tous pays.
 
 Constatation officielle que l'envoi a subi un traitement spécifique contre Plasmopara helianthii.
-
-B. - Exigences particulières complémentaires qui doivent être requises pour l'introduction de végétaux, de produits végétaux et autres objets dans les départements d'outre-mer.
