@@ -1,5 +1,6 @@
 # 1991
 
+- [Loi n° 72-1138 du 22 décembre 1972](loi-n-72-1138-du-22-decembre-1972)
 - [Loi n° 82-916 du 28 octobre 1982](loi-n-82-916-du-28-octobre-1982)
 - [Loi n° 90-1246 du 29 décembre 1990 (ECOX9000152L)](loi-n-90-1246-du-29-decembre-1990-ecox9000152l)
 - [Loi n° 90-1247 du 29 décembre 1990 (DOMX9000023L)](loi-n-90-1247-du-29-decembre-1990-domx9000023l)
