@@ -1,5 +1,6 @@
 # Décret n°51-727 du 6 juin 1951 FIXANT LE REGIME DES PENSIONS DE VIEILLESSE ET D'INVALIDITE DE L'ASSURANCE SOCIALE OBLIGATOIRE AGRICOLE.
 
+- [Article 1](article-1.md)
 - [Article 1 bis](article-1-bis.md)
 - [Article 1 ter](article-1-ter.md)
 - [Article 2](article-2.md)
