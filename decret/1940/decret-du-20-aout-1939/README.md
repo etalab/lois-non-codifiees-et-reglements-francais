@@ -4,4 +4,3 @@
 - [Titre III : Vente.](titre-iii)
 - [Titre V : Sanctions.](titre-v)
 - [Titre VI : Dispositions diverses.](titre-vi)
-- [Rapport au Président de la République Française.](rapport-au)
