@@ -794,7 +794,6 @@
 - [Décret n°96-273 du 26 mars 1996 (PRMG9570378D)](decret-n96-273-du-26-mars-1996-prmg9570378d)
 - [Décret n°96-274 du 26 mars 1996 (TASS9620022D)](decret-n96-274-du-26-mars-1996-tass9620022d)
 - [Décret n°96-405 du 26 avril 1996 (AGRD9600279D)](decret-n96-405-du-26-avril-1996-agrd9600279d)
-- [Décret n°96-571 du 26 juin 1996 (TASX9600081D)](decret-n96-571-du-26-juin-1996-tasx9600081d)
 - [Décret n°96-61 du 26 janvier 1996 (FPPA9610002D)](decret-n96-61-du-26-janvier-1996-fppa9610002d)
 - [Décret n°96-668 du 26 juillet 1996 (FCEZ9600001D)](decret-n96-668-du-26-juillet-1996-fcez9600001d)
 - [Décret n°96-670 du 26 juillet 1996 (TASF9611066D)](decret-n96-670-du-26-juillet-1996-tasf9611066d)
