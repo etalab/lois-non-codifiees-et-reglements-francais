@@ -4,4 +4,4 @@ Le montant initial du capital de la Régie nationale des usines Renault défini 
 
 Ces actions sont nominatives et leur régime est déterminé par le titre IV du présent décret. Elles appartiennent à l'Etat qui, dans les conditions fixées au titre II ci-dessous, transfère la propriété d'un certain nombre d'entre elles à des salariés de la Régie.
 
-Le capital peut être augmenté soit par l'émission de nouvelles actions de numéraire, soit par incorporation de réserves au capital.
+Le capital peut être augmenté soit par l'émission de nouvelles actions de numéraire, soit par incorporation de réserves au capital. Il peut être réduit par diminution de la valeur nominale des actions.
