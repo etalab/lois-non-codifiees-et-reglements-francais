@@ -1,7 +1,5 @@
 # Article 1
 
-I. - Les installations, ouvrages, travaux et activités nécessaires à l'exploitation d'une installation classée pour la protection de l'environnement doivent respecter les règles de fond prévues par la loi du 3 janvier 1992 susvisée. Toutefois, ils sont soumis aux seules règles de procédure instituées par la loi du 19 juillet 1976 et le décret du 21 septembre 1977 susvisés ainsi que, le cas échéant, par le décret n° 80-813 du 15 octobre 1980.
-
 II. - Jusqu'au 4 janvier 1995 sont seules applicables, au lieu et place des procédures du présent décret, les règles de procédure instituées, dans les domaines qu'ils concernent, par :
 
 a) [*abrogé*]
@@ -46,4 +44,6 @@ e) Le décret n° 95-540 du 4 mai 1995 relatif aux rejets d'effluents liquides e
 
 f) Le décret 65-72 du 13 janvier 1965 pris pour l'application de
 
-l'ordonnance n° 58-1332 du 23 décembre 1958 relative au stockage souterrain d'hydrocarbures liquides ou liquéfiés.    g) Le décret n° 95-696 du 9 mai 1995 relatif à l'ouverture des travaux miniers et à la police des mines.
+l'ordonnance n° 58-1332 du 23 décembre 1958 relative au stockage n° 95-696 du 9 mai 1995 relatif à l'ouverture des travaux miniers et souterrain d'hydrocarbures liquides ou liquéfiés.
+
+g)Le décret 95-696 du 9 mai 1995 relatif à l'ouverture des travaux miniers et à la police des mines.
