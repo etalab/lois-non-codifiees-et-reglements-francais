@@ -4,7 +4,7 @@
 
 2. La fonction de conseiller peut également être assurée par le chef d'entreprise, par une personne qui exerce d'autres tâches dans l'entreprise ou par une personne n'appartenant pas à cette dernière, à condition que l'intéressé soit effectivement en mesure de remplir ses tâches de conseiller.
 
-3. Le chef de toute entreprise concernée doit indiquer l'identité de son conseiller ou, le cas échéant, de ses conseillers au préfet du département où l'entreprise est domiciliée, au plus tard le 31 mars 2000.
+3. Le chef de toute entreprise concernée doit indiquer l'identité de son conseiller ou, le cas échéant, de ses conseillers au préfet du département où l'entreprise est domiciliée, au plus tard le 31 décembre 2000.
 
 4. Lorsqu'une entreprise désigne plusieurs conseillers, elle doit préciser le champ de compétence (géographique, thématique ou autre) de chacun d'eux.
 
