@@ -1,6 +1,6 @@
 # Article 1
 
-Les outils spécifiques, visés à l'article R. 168-1 du code de la route, dont les engins de service hivernal peuvent être équipés sont les suivants :
+Les outils spécifiques, visés à l'article R. 231-1 du code de la route, dont les engins de service hivernal peuvent être équipés sont les suivants :
 
 1. A l'avant du véhicule, un outil de raclage ;
 
