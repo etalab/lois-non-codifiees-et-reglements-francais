@@ -6,6 +6,6 @@ Lorsque le demandeur est marié et non séparé ou qu'il vit maritalement, ce pl
 
 Pour l'application de la condition de ressources prévue au présent article, le droit à l'allocation est examiné pour chaque période de douze mois commençant le 1er juillet.
 
-//DECR.0325 15-03-1978 : Toutefois, en cas de modification de la situation de la famille au cours d'une période de paiement, le droit à l'allocation est examiné au premier jour du mois durant lequel est intervenue la modification s'il y a augmentation du nombre des enfants, au premier jour du mois suivant si ce nombre a diminué//.
+Toutefois, en cas de modification de la situation de la famille au cours d'une période de paiement, le droit à l'allocation est examiné au premier jour du mois civil suivant celui au cours duquel la modification est intervenue [*date, point de départ*].
 
 Lorsque le total de l'allocation et des ressources susceptibles d'être prises en compte dépasse le plafond applicable, l'allocation est réduite à due concurrence.
