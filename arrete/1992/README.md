@@ -379,7 +379,6 @@
 - [Arrêté du 10 février 1992 (SANH9200398A)](arrete-du-10-fevrier-1992-sanh9200398a)
 - [Arrêté du 10 février 1992 (SANH9200399A)](arrete-du-10-fevrier-1992-sanh9200399a)
 - [Arrêté du 10 janvier 1992 (DEFA9201061A)](arrete-du-10-janvier-1992-defa9201061a)
-- [Arrêté du 10 janvier 1992 (DEFP9102352A)](arrete-du-10-janvier-1992-defp9102352a)
 - [Arrêté du 10 janvier 1992 (TEFT9204275A)](arrete-du-10-janvier-1992-teft9204275a)
 - [Arrêté du 10 juillet 1989 (AGRE8901215A)](arrete-du-10-juillet-1989-agre8901215a)
 - [Arrêté du 10 juillet 1992 (EQUU9200376A)](arrete-du-10-juillet-1992-equu9200376a)
