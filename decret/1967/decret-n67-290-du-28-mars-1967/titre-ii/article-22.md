@@ -6,6 +6,6 @@ Lorsque la durée de l'appel par ordre n'excède pas quinze jours consécutifs, 
 
 Pour certains personnels définis par arrêté du ministre des affaires étrangères et du ministre chargé du budget, ce délai peut être porté à trente jours lorsqu'ils sont appelés à effectuer certaines missions d'études et de prospection en France.
 
-Sous réserve des dispositions prévues à l'alinéa précédent, au-delà du quinzième jour, l'indemnité pour frais de représentation est réduite de 50%, la réduction étant comptée à partir du premier jour d'absence du poste ; le total formé par les autres éléments de la rémunération que l'agent percevrait en situation de présence au poste est réduit de 25%.
+Sous réserve des dispositions prévues à l'alinéa précédent, au-delà du quinzième jour, l'agent perçoit, d'une part, le traitement et, d'autre part, le total formé par les autres éléments de la rémunération que l'agent percevrait en situation de présence au poste réduit de 25 %.
 
 La rémunération afférente à la situation définie par le présent article est exclusive de tout remboursement forfaitaire de frais de séjour.

@@ -8,11 +8,13 @@ Le traitement ;
 
 L'indemnité de résidence.
 
-2° Avantages familiaux Le supplément familial pour les personnels mariés dont le conjoint n'exerce pas d'activité professionnelle et pour les personnels célibataires, veufs, séparés de corps ou divorcés, ayant au moins un enfant à charge ;
+2° Avantages familiaux :
 
-Les majorations familiales pour enfants à charge.
+- le supplément familial ;
 
-3° Indemnités forfaitaires pour rembourser des frais éventuels De représentation ;
+- les majorations familiales pour enfant à charge.
+
+3° Indemnités forfaitaires pour rembourser des frais éventuels ;
 
 D'établissement ;
 
@@ -28,7 +30,7 @@ Des autres prélèvements sociaux conformément à la législation ou à la rég
 
 Des rétributions que l'agent peut percevoir d'un gouvernement étranger ou d'un organisme situé à l'étranger ;
 
-De la fourniture du logement par l'administration ;
+De la fourniture du logement ;
 
 Du lieu de recrutement ;
 

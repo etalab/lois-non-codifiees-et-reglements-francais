@@ -10,10 +10,12 @@ L'appel par ordre ;
 
 L'appel spécial ;
 
-Les congés (administratifs, de maladie, de longue durée, de longue maladie, de grave maladie, de maternité ou d'adoption et pour obligations militaires) ;
+Les congés (annuels, de maladie, de longue durée, de longue maladie, de grave maladie, de maternité, de paternité ou d'adoption et pour obligations militaires) ;
 
-L'intérim.
+L'intérim
 
-Des arrêtés du ministre intéressé et du ministre de l'économie et des finances définiront, pour chaque catégorie de personnels, les situations énumérées ci-dessus dans lesquelles ils peuvent être placés ainsi que les conditions à remplir et des durées maximales.
+Des arrêtés du ministre intéressé et du ministre chargé des finances préciseront, pour chacune de ces situations, à l'exception des congés annuels, leurs conditions d'accès et leur durée maximale.
+
+Le régime des congés annuels des personnels mentionnés à l'article 1er est fixé par décret en Conseil d'Etat.
 
 Les émoluments des personnels placés dans chacune de ces situations sont fixés ci-après.

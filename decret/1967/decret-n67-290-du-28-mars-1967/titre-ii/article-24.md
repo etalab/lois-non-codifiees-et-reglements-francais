@@ -26,8 +26,6 @@ Les majorations familiales au coefficient le moins élevé figurant au tableau a
 
 Les retenues diverses opérées dans les conditions prévues aux articles 2, 15 et 16 sur les éléments de la rémunération principale et les avantages familiaux, tels que définis ci-dessus.
 
-Pendant la durée du congé de maladie, l'indemnité pour frais de représentation, dont l'attribution est subordonnée au non-remplacement du titulaire du poste, est réduite des trois quarts. Au-delà du quatre-vingt-dixième jour elle est supprimée.
-
 L'agent qui est autorisé, pendant un appel par ordre, à bénéficier d'un congé de maladie perçoit, pendant un délai qui ne peut excéder la durée maximale de son appel par ordre, les émoluments prévus aux premier, deuxième et quatrième alinéas du présent article. Si le congé de maladie se prolonge au-delà de la durée maximale de son appel par ordre, l'agent perçoit les émoluments prévus aux troisième et quatrième alinéas ci-dessus.
 
 L'agent qui est autorisé, pendant un appel spécial, à bénéficier d'un congé de maladie perçoit, pendant les trente premiers jours, les émoluments prévus aux premier, deuxième et quatrième alinéas du présent article. Au-delà de ce délai, il perçoit les émoluments prévus aux troisième et quatrième alinéas du présent article pendant le congé de maladie pris en France et au-delà du trentième jour.

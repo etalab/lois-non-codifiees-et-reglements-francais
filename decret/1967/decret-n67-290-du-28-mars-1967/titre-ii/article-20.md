@@ -10,4 +10,4 @@ Son traitement ;
 
 L'indemnité de résidence applicable aux personnels de même indice hiérarchique en service en métropole (Paris), majorée éventuellement du supplément familial prévu à l'article 7 ;
 
-Les majorations familiales au coefficient le moins élevé figurant au tableau annexé à l'arrêté visé à l'article 8, lorsque l'agent perçoit une indemnité pour frais de représentation, celle-ci est supprimée.
+Les majorations familiales au coefficient le moins élevé figurant au tableau annexé à l'arrêté visé à l'article 8.

@@ -2,6 +2,4 @@
 
 Les fonctionnaires de l'Etat qui ne sont pas en position de détachement et les magistrats peuvent être autorisés à bénéficier, à l'étranger, des congés de longue maladie et de longue durée dans les conditions prévues au 3° et au 4° de l'article 34 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat. Dans ce cas, ils perçoivent le traitement ou le demi-traitement auxquels ils ont droit conformément à l'article susmentionné de la loi n° 84-16 du 11 janvier 1984, l'indemnité de résidence allouée à un agent de même indice hiérarchique en service en France (Paris), majorée éventuellement du supplément familial prévu à l'article 7, et les majorations familiales au coefficient le moins élevé figurant au tableau annexé à l'arrêté visé à l'article 8.
 
-L'indemnité pour frais de représentation est supprimée.
-
 Les retenues diverses sont opérées, dans les conditions prévues aux articles 15 et 16, sur le montant de la rémunération principale et des majorations familiales tel qu'il est défini ci-dessus.

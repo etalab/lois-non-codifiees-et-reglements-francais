@@ -2,7 +2,7 @@
 
 L'attribution de l'indemnité de résidence est destinée à compenser forfaitairement les charges liées aux fonctions exercées, aux conditions d'exercice de ces fonctions et aux conditions locales d'existence.
 
-Un arrêté conjoint du ministère des affaires étrangères et du ministre chargé du budget fixe, pour chaque pays et par groupe, les montants annuels de l'indemnité de résidence. Lorsque l'agent est recruté localement, c'est-à-dire recruté sur place au sens de l'article 6 du présent décret, les montants annuels de l'indemnité de résidence sont réduits de 85%.
+Un arrêté conjoint du ministère des affaires étrangères et du ministre chargé du budget fixe, pour chaque pays et par groupe, les montants annuels de l'indemnité de résidence. Lorsque l'agent est recruté sur place au sens de l'article 6 du présent décret, les montants annuels de l'indemnité de résidence sont réduits de 85%.
 
 Des arrêtés conjoints du ministre chargé du budget, du ministre chargé de la fonction publique, du ministre intéressé et du ministre des affaires étrangères classent les personnels dans les groupes d'indemnités de résidence prévus à l'alinéa précédent.
 
