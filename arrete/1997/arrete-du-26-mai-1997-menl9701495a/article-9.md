@@ -1,0 +1,7 @@
+# Article 9
+
+A titre transitoire les titulaires du certificat de préposé au tir prévu par l'arrêté du 14 décembre 1976 modifié portant institution sur le plan national du certificat de préposé au tir ainsi que des options Tir électrique et Nitrate fioul ont une durée de deux ans à compter de la date de publication du présent arrêté pour obtenir, sur leur demande adressée au rectorat de l'académie de leur domicile, que leur soit délivré le certificat de préposé au tir et l'option Mèche lente tels qu'ils sont définis par le présent arrêté.
+
+Les titulaires du certificat de préposé au tir prévu par l'arrêté du 14 décembre 1976 précité peuvent, pendant une durée de deux ans à compter de la publication du présent arrêté, postuler les options Tir électrique et Nitrate fioul prévues par l'arrêté du 14 décembre 1976 afin que leur soit délivré le certificat de préposé au tir et l'option Mèche lente tels qu'ils sont définis par le présent arrêté.
+
+Les titulaires du certificat de préposé au tir obtenu conformément aux dispositions ci-dessus, dès lors qu'ils possèdent une ou plusieurs des options suivantes : travaux souterrains, travaux subaquatiques, explosifs déflagrants, chargement en vrac d'explosifs avec du matériel utilisant de l'énergie et tir en montagne pour le déclenchement d'avalanches, se voient délivrer, sur leur demande adressée au rectorat de l'académie de leur domicile, les options correspondantes prévues à l'article 1er du présent arrêté.
