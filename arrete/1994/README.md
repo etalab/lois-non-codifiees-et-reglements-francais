@@ -697,7 +697,6 @@
 - [Arrêté du 20 décembre 1994 (SPSG9403882A)](arrete-du-20-decembre-1994-spsg9403882a)
 - [Arrêté du 20 décembre 1994 (SPSS9403639A)](arrete-du-20-decembre-1994-spss9403639a)
 - [Arrêté du 20 janvier 1994 (AGRG9400036A)](arrete-du-20-janvier-1994-agrg9400036a)
-- [Arrêté du 20 janvier 1994 (AGRG9400037A)](arrete-du-20-janvier-1994-agrg9400037a)
 - [Arrêté du 20 janvier 1994 (ECOC9300192A)](arrete-du-20-janvier-1994-ecoc9300192a)
 - [Arrêté du 20 janvier 1994 (ENVP9320424A)](arrete-du-20-janvier-1994-envp9320424a)
 - [Arrêté du 20 janvier 1994 (INTD9400076A)](arrete-du-20-janvier-1994-intd9400076a)
