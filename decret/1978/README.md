@@ -34,3 +34,4 @@
 - [Décret n°78-478 du 29 mars 1978](decret-n78-478-du-29-mars-1978)
 - [Décret n°78-479 du 29 mars 1978](decret-n78-479-du-29-mars-1978)
 - [Décret n°77-1549 du 31 décembre 1977](decret-n77-1549-du-31-decembre-1977)
+- [Décret n°78-486 du 31 mars 1978](decret-n78-486-du-31-mars-1978)
