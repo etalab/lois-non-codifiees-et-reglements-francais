@@ -1,0 +1,3 @@
+# Article 1
+
+Sans préjudice des recrutements effectués en application des 1° et 3° de l'article 4 du décret n° 89-749 du 18 octobre 1989 susvisé et du 2° de l'article 3 du décret n° 89-750 du 18 octobre 1989 susvisé, des recrutements de techniciens supérieurs d'études et de fabrications et d'ingénieurs d'études et de fabrications peuvent être organisés, à titre exceptionnel, pendant une période de trois ans à compter de la date de publication du présent décret, à concurrence de contingents annuels qui sont fixés par arrêté conjoint du ministre chargé de la défense, du ministre chargé du budget et du ministre chargé de la fonction publique, dans la limite des emplois budgétaires ouverts à cet effet par la loi de finances.
