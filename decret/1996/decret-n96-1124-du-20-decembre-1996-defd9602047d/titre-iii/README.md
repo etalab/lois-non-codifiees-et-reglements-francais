@@ -1,0 +1,3 @@
+# TITRE III : LE PERSONNEL DE L'ÉCOLE POLYTECHNIQUE.
+
+- [Article 17](article-17.md)

@@ -1,0 +1,3 @@
+# Article 32
+
+Le directeur de l'enseignement et de la recherche prévu par l'article 11 du décret n° 71-707 du 25 août 1971 modifié relatif à l'organisation et au régime administratif et financier de l'Ecole polytechnique reste en fonction jusqu'à ce que soient effectives les nominations du directeur général adjoint chargé de l'enseignement et du directeur général adjoint chargé de la recherche prévues respectivement à l'article 12 et à l'article 13 du présent décret. Toutefois, si le poste de directeur de l'enseignement et de la recherche est vacant avant que n'interviennent les nominations des deux directeurs généraux adjoints, il appartient au directeur général de désigner le ou les cadres nécessaires pour assurer l'intérim de ce directeur.
