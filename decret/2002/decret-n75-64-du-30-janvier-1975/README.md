@@ -3,3 +3,4 @@
 - [CHAPITRE Ier : De la qualification.](chapitre-ier)
 - [CHAPITRE II : De la bonification de temps d'échelon.](chapitre-ii)
 - [CHAPITRE III : Du régime indemnitaire.](chapitre-iii)
+- [CHAPITRE IV : Dispositions diverses et transitoires.](chapitre-iv)

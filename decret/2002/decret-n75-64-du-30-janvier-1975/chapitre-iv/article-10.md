@@ -1,0 +1,3 @@
+# Article 10
+
+Jusqu'au 31 décembre 1979, nonobstant les dispositions du second alinéa de l'article 9 du présent décret, le niveau de qualification de spécialiste du servie de santé des armées pourra également être reconnu, après sélection et dans la limite de 10 p. 100 du nombre total des titres de spécialistes, aux médecins en chef, aux pharmaciens chimistes en chef, aux vétérinaires biologistes en chef qui, comptant au minimum quinze années de services en qualité d'officier, on apporté la preuve de leur aptitude à l'exercice d'importantes responsabilités professionnelles ou militaires. Les intéressés sont désignés dans les conditions fixées par le second alinéa de l'article 2 du présent décret.
