@@ -82,6 +82,7 @@
 - [Décret n°97-859 du 18 septembre 1997 (JUSX9700097D)](decret-n97-859-du-18-septembre-1997-jusx9700097d)
 - [Décret n°97-860 du 18 septembre 1997 (JUSX9700096D)](decret-n97-860-du-18-septembre-1997-jusx9700096d)
 - [Décret n°99-119 du 18 février 1999 (AGRA9802149D)](decret-n99-119-du-18-fevrier-1999-agra9802149d)
+- [Décret n°73-1045 du 19 novembre 1973](decret-n73-1045-du-19-novembre-1973)
 - [Décret n°97-1184 du 19 décembre 1997 (PRMX9700148D)](decret-n97-1184-du-19-decembre-1997-prmx9700148d)
 - [Décret n°97-1185 du 19 décembre 1997 (MESX9700151D)](decret-n97-1185-du-19-decembre-1997-mesx9700151d)
 - [Décret n°97-1187 du 19 décembre 1997 (JUSX9700135D)](decret-n97-1187-du-19-decembre-1997-jusx9700135d)
