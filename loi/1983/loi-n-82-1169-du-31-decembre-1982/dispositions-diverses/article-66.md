@@ -1,6 +1,6 @@
 # Article 66
 
----I. Dans les communes issues d'une fusion [*nombre*] et comportant création d'une ou plusieurs communes associées, les dispositions des articles 5, quatrième et cinquième alinéas, à 36 de la présente loi sont applicables aux communes associées.
+---I. Dans les communes issues d'une fusion comptant plus de 100.000 habitants et comportant création d'une ou plusieurs communes associées, les dispositions des articles 5, quatrième et cinquième alinéas, à 36 de la présente loi sont applicables aux communes associées.
 
 En ce cas, par dérogation aux dispositions des articles L. 153-5 à L. 153-7 du code des communes, il est créé pour chaque commune associée un conseil consultatif.
 
