@@ -2,6 +2,7 @@
 
 - [Décret n°77-789 du 1 juillet 1977](decret-n77-789-du-1-juillet-1977)
 - [Décret n°70-606 du 2 juillet 1970](decret-n70-606-du-2-juillet-1970)
+- [Décret n°76-13 du 2 janvier 1976](decret-n76-13-du-2-janvier-1976)
 - [Décret n°75-903 du 3 octobre 1975](decret-n75-903-du-3-octobre-1975)
 - [Décret n°76-1168 du 3 décembre 1976](decret-n76-1168-du-3-decembre-1976)
 - [Décret n° 77-33 du 4 janvier 1977](decret-n-77-33-du-4-janvier-1977)
