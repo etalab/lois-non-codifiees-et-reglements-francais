@@ -1,5 +1,0 @@
-# Article 8
-
-Un arrêté conjoint du ministre chargé de l'économie et des finances, du ministre chargé du budget et du ministre chargé des pêches maritimes et des cultures marines, pris après consultation du Comité national de la conchyliculture et de l'Institut français de recherche pour l'exploitation de la mer, fixe les montants de la taxe prévue aux articles 3 et 4, ainsi que la répartition de son produit entre ces deux organismes, la part de l'Institut français de recherche pour l'exploitation de la mer ne pouvant être inférieure à 40 p. 100 et supérieure à 50 p. 100 du produit total.
-
-Un arrêté conjoint du ministre chargé de l'économie et des finances, du ministre chargé du budget et du ministre chargé des pêches maritimes et des cultures marines, pris après consultation des sections régionales de la conchyliculture, fixe les montants de la taxe prévue à l'article 6. Ces montants peuvent varier selon les sections régionales en fonction de l'étendue de leurs activités et de la spécificité de leurs actions.

@@ -1,4 +1,0 @@
-# TITRE II : TAXE PARAFISCALE INSTITUÉE AU PROFIT DES SECTIONS RÉGIONALES DE LA CONCHYLICULTURE.
-
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)
