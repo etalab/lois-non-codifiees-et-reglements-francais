@@ -7,3 +7,5 @@ Au cas où l'application des dispositions du premier alinéa ci-dessus leur sera
 Tout candidat qui n'entre pas en fonctions à la date fixée perd le bénéfice de sa nomination.
 
 Toutefois, s'il présente des justifications reconnues fondées, sa nomination peut être reportée, dans la limite maximale de deux années, par arrêté du ministre chargé de la santé.
+
+Tout stagiaire qui, pour des raisons autres que l'inaptitude physique, met fin à son stage de formation à l'Ecole nationale de la santé publique plus de trois mois après la date de sa nomination en qualité de médecin inspecteur stagiaire, doit rembourser le montant des traitements et indemnités qu'il a perçus.

@@ -1,6 +1,6 @@
 # Article 17
 
-Les membres de l'inspection générale des affaires sociales ayant la qualité de docteur en médecine, les médecins titulaires de la fonction publique de l'Etat, de la fonction publique territoriale ou des établissements publics qui en dépendent ainsi que les médecins titulaires des organisations internationales intergouvernementales et des organismes publics de recherche appartenant à un corps ou cadre d'emplois ou à un emploi de catégorie A peuvent être détachés dans le corps des médecins inspecteurs de santé publique.
+Les membres de l'inspection générale des affaires sociales ayant la qualité de docteur en médecine, les médecins titulaires de la fonction publique de l'Etat, de la fonction publique territoriale ou des établissements publics qui en dépendent ainsi que les docteurs en médecine, fonctionnaires ou agents titulaires des organisations internationales intergouvernementales et des organismes publics de recherche appartenant à un corps ou cadre d'emplois ou à un emploi de catégorie A peuvent être détachés dans le corps des médecins inspecteurs de santé publique.
 
 Le détachement est prononcé à équivalence de grade et à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont les intéressés bénéficiaient dans leur corps, cadre d'emplois ou emploi d'origine.
 
