@@ -1,12 +1,12 @@
 # Article 16
 
-Le présent décret est applicable à la collectivité territoriale de Mayotte, sous réserve des adaptations suivantes :
+Le présent décret est applicable à Mayotte, sous réserve des adaptations suivantes :
 
 1° A l'article 1er, les mots : aux articles D. 51 et D. 52 du code des postes et télécommunications sont remplacés par les mots : par les dispositions applicables localement ;
 
-2° La deuxième phrase du premier alinéa de l'article 3 est remplacée par la phrase suivante :
+2° Le premier alinéa de l'article 3 est remplacée par la phrase suivante :
 
-Chacune porte une arme dont la catégorie est définie par le représentant du Gouvernement, ainsi que les munitions correspondantes.
+Chacune des personnes mentionnées aux 1° et 2° du I de l'article 2 porte une arme dont la catégorie est définie par le représentant du Gouvernement, ainsi que les munitions correspondantes.
 
 Le second alinéa du même article est remplacé par un alinéa ainsi rédigé :
 

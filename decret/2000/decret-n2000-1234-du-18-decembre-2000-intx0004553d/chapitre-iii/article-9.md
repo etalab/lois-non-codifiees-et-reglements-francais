@@ -4,4 +4,6 @@ Lorsque les fonds transportés pour le compte d'une agence ou d'un établissemen
 
 En outre, sauf si elles ont réalisé l'un des aménagements de l'article 3, ces personnes équipent ceux de leurs locaux desservis par l'un au moins des dispositifs prévus au II de l'article 4, sans préjudice du respect de l'article 5.
 
+Les dispositions du présent article sont applicables au transport de fonds dans des véhicules blindés mentionnés au 2° du I de l' article 2 du décret du 28 avril 2000 susvisé.
+
 Les dispositions du présent article ne font pas obstacle au transport exceptionnel de monnaie métallique.

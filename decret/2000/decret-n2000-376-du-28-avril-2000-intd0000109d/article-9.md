@@ -1,6 +1,6 @@
 # Article 9
 
-La commission technique consultée sur les demandes d'agrément des dispositifs mentionnés au premier alinéa de l'article 2 comprend :
+La commission technique consultée sur les demandes d'agrément des dispositifs garantissant que les fonds transportés pourront être détruits ou rendus impropres à leur destination comprend :
 
 - un membre désigné par le ministre de l'intérieur, président ;
 
