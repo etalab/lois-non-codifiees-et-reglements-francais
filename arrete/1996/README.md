@@ -2,6 +2,7 @@
 
 - [Arrêté du 2 août 1995 (AGRG9501585A)](arrete-du-2-aout-1995-agrg9501585a)
 - [Arrêté du 2 février 1996 (AGRG9600261A)](arrete-du-2-fevrier-1996-agrg9600261a)
+- [Arrêté du 2 février 1996 (DEFP9601137A)](arrete-du-2-fevrier-1996-defp9601137a)
 - [Arrêté du 2 février 1996 (INTE9600059A)](arrete-du-2-fevrier-1996-inte9600059a)
 - [Arrêté du 2 février 1996 (MJSK9670011A)](arrete-du-2-fevrier-1996-mjsk9670011a)
 - [Arrêté du 2 janvier 1996 (MJSK9670001A)](arrete-du-2-janvier-1996-mjsk9670001a)

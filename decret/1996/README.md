@@ -57,6 +57,7 @@
 - [Décret n°96-815 du 13 septembre 1996 (TASO9611305D)](decret-n96-815-du-13-septembre-1996-taso9611305d)
 - [Décret n°96-117 du 14 février 1996 (ECOT9640306D)](decret-n96-117-du-14-fevrier-1996-ecot9640306d)
 - [Décret n°96-119 du 14 février 1996 (AVIC9503471D)](decret-n96-119-du-14-fevrier-1996-avic9503471d)
+- [Décret n°96-123 du 14 février 1996 (JUSD9630004D)](decret-n96-123-du-14-fevrier-1996-jusd9630004d)
 - [Décret n°96-27 du 15 janvier 1996 (JUSG9560073D)](decret-n96-27-du-15-janvier-1996-jusg9560073d)
 - [Décret n°96-30 du 15 janvier 1996 (EQUA9501805D)](decret-n96-30-du-15-janvier-1996-equa9501805d)
 - [Décret n°96-32 du 15 janvier 1996 (TASH9523427D)](decret-n96-32-du-15-janvier-1996-tash9523427d)
