@@ -227,7 +227,6 @@
 - [Arrêté du 9 avril 1990 (JUSC9020096A)](arrete-du-9-avril-1990-jusc9020096a)
 - [Arrêté du 9 avril 1990 (MCCK9000267A)](arrete-du-9-avril-1990-mcck9000267a)
 - [Arrêté du 9 avril 1990 (SPSS9000822A)](arrete-du-9-avril-1990-spss9000822a)
-- [Arrêté du 9 février 1990 (INDD9000104A)](arrete-du-9-fevrier-1990-indd9000104a)
 - [Arrêté du 9 janvier 1990 (ECOC9000005A)](arrete-du-9-janvier-1990-ecoc9000005a)
 - [Arrêté du 9 janvier 1990 (ECOT8920131A)](arrete-du-9-janvier-1990-ecot8920131a)
 - [Arrêté du 9 janvier 1990 (EQUT8900507A)](arrete-du-9-janvier-1990-equt8900507a)
