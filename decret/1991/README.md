@@ -194,6 +194,7 @@
 - [Décret n°91-562 du 13 juin 1991 (MENT9100537D)](decret-n91-562-du-13-juin-1991-ment9100537d)
 - [Décret n°91-563 du 13 juin 1991 (ECOT9195000D)](decret-n91-563-du-13-juin-1991-ecot9195000d)
 - [Décret n°91-777 du 13 août 1991 (INTA9100330D)](decret-n91-777-du-13-aout-1991-inta9100330d)
+- [Décret n°91-781 du 13 août 1991 (PTTS9100200D)](decret-n91-781-du-13-aout-1991-ptts9100200d)
 - [Décret n°91-915 du 13 septembre 1991 (BUDB9110029D)](decret-n91-915-du-13-septembre-1991-budb9110029d)
 - [Décret n°91-431 du 13 mai 1991 (INDA9100337D)](decret-n91-431-du-13-mai-1991-inda9100337d)
 - [Décret n°91-432 du 13 mai 1991 (INDA9100381D)](decret-n91-432-du-13-mai-1991-inda9100381d)

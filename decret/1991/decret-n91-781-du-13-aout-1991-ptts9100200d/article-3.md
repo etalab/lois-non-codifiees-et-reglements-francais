@@ -1,0 +1,3 @@
+# Article 3
+
+Les décrets n° 86-97 du 15 janvier 1986 fixant les conditions d'utilisation des listes complémentaires d'admission pour le recrutement par voie de concours d'accès à certains emplois de catégorie A, n° 86-98 du 15 janvier 1986 fixant les conditions d'utilisation des listes complémentaires d'admission pour le recrutement par voie de concours d'accès à certains emplois de catégorie B et n° 86-99 du 15 janvier 1986 fixant les conditions d'utilisation des listes complémentaires d'admission pour le recrutement par voie de concours d'accès à certains emplois de catégorie C sont abrogés, à l'exception de l'article 1er du décret n° 86-98 du 15 janvier 1986 précité.
