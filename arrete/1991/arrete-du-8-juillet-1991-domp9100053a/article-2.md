@@ -1,0 +1,3 @@
+# Article 2
+
+Le directeur général de l'aviation civile, le directeur des transports terrestres et le directeur de la météorologie nationale au ministère de l'équipement, du logement, des transports et de l'espace, le directeur général de l'industrie et le directeur général de l'énergie et des matières premières au ministère délégué à l'industrie et au commerce extérieur, le directeur de la flotte de commerce, le directeur des ports et de la navigation maritime, le directeur des pêches maritimes et des cultures marines au secrétariat d'Etat à la mer et le préfet de Saint-Pierre-et-Miquelon sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

@@ -150,6 +150,7 @@
 - [Décret n°91-356 du 12 avril 1991 (SPSS9100490D)](decret-n91-356-du-12-avril-1991-spss9100490d)
 - [Décret n°91-357 du 12 avril 1991 (SPSS9100491D)](decret-n91-357-du-12-avril-1991-spss9100491d)
 - [Décret n°91-361 du 12 avril 1991 (ECOT9151142D)](decret-n91-361-du-12-avril-1991-ecot9151142d)
+- [Décret n°91-661 du 12 juillet 1991 (EQUC9100891D)](decret-n91-661-du-12-juillet-1991-equc9100891d)
 - [Décret n°91-921 du 12 septembre 1991 (AGRA9101669D)](decret-n91-921-du-12-septembre-1991-agra9101669d)
 - [Décret n°91-160 du 13 février 1991 (ECOT9113411D)](decret-n91-160-du-13-fevrier-1991-ecot9113411d)
 - [Décret n°91-164 du 13 février 1991 (INTC9100024D)](decret-n91-164-du-13-fevrier-1991-intc9100024d)
