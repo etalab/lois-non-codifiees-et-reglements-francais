@@ -2,7 +2,7 @@
 
 La réglementation technique et de sécurité des remontées mécaniques est constituée :
 
-1. Pour les téléskis, par les instructions du 28 juin 1979 concernant la construction et l'exploitation des téléskis jointes à l'arrêté de même date relatif aux autorisations nécessaires pour la construction et l'exploitation des téléskis et modifiées par l'arrêté du 1er août 1980 modifiant les instructions concernant la construction et l'exploitation des téléskis et les arrêtés des 11 juillet 1984, 9 juin 1986, 22 juin 1987, 15 juillet 1999 et 1er octobre 1999 ;
+1. Pour les téléskis, par les instructions du 28 juin 1979 concernant la construction et l'exploitation des téléskis jointes à l'arrêté de même date relatif aux autorisations nécessaires pour la construction et l'exploitation des téléskis et modifiées par l'arrêté du 1er août 1980 modifiant les instructions concernant la construction et l'exploitation des téléskis et les arrêtés des 11 juillet 1984, 9 juin 1986, 22 juin 1987, 15 juillet 1999, 1er octobre 1999 et 3 juin 2002 ;
 
 1 bis. Par l'instruction du 11 février 2002 qui remplace les dispositions du paragraphe 2-8 des instructions publiées par l'arrêté du 29 juin 1979 uniquement pour les mesures ayant pour objet d'assurer la sécurité du personnel d'exploitation lors de la conception et la construction des téléskis dont la demande d'autorisation d'exécution des travaux est postérieure au 31 octobre 2002 ;
 
