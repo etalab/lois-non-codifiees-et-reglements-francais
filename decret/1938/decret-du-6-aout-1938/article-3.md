@@ -22,9 +22,9 @@ Le taux des cotisations prévues au paragraphe 6 à la charge des pensionnés re
 
 1° 4,50 % du montant de la pension de retraite inférieur à un plafond fixé par le conseil d'administration de la Société nationale des chemins de fer français ;
 
-2° 3,60 % du montant de la pension de retraite compris entre le plafond susvisé et un second plafond fixé dans les mêmes conditions  ;
+2° 3,80 % du montant de la pension de retraite compris entre le plafond susvisé et un second plafond fixé dans les mêmes conditions  ;
 
-3° 2,25 % du montant de la pension de retraite supérieur au second plafond susvisé ;
+3° 3,05 % du montant de la pension de retraite supérieur au second plafond susvisé ;
 
 4° 1 % du montant total de la pension de retraite lorsque le titulaire relève du 1° de l'article D. 242-9 du code de la sécurité sociale sans bénéficier de l'un des avantages énumérés au 2° dudit article.
 
