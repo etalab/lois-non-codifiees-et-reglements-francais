@@ -1,21 +1,23 @@
 # Article 2
 
-Les catégories d'informations enregistrées sont celles relatives :
+Les catégories d'informations nominatives ainsi enregistrées sont celles relatives :
 
-- à l'identité (nom, prénoms, sexe, date et lieu de naissance, nationalité) ;
+- à l'identité (nom, prénoms, adresse, date et lieu de naissance, sexe, nationalité, numéro de téléphone) ;
 
-- à la situation familiale (situation matrimoniale et date d'effet, conjoint [nom, prénoms, nationalité, profession], enfants [nom, prénoms, année de naissance]) ;
+- à la situation familiale (situation matrimoniale, nombre d'enfants, prénoms, date de naissance et sexe des enfants, nom et prénom des parents, profession civile) ;
 
-- à la situation militaire (dates d'entrée en service et de radiation des contrôles, durée des services, interruptions de service, demande et décision d'admission à la retraite, habilitation [date de début, code et durée]) ;
+- à la situation militaire (matricule au recrutement, habilitation, grade, arme, spécialité, affectation) ;
 
-- à la formation, aux diplômes (nature, date, lieu et durée, niveaux [général et scolaire], stages [demande, dates, nature, accord, sanction], distinctions) ;
+- à la formation (cursus de formation, stages, diplôme) ;
 
-- à la vie professionnelle (recrutement [origine, type et conditions], corps, statut, grade [date, mode d'accès], spécialité, affectation [date, organisme, durée, lieu], position administrative, temps de commandement, classements annuaire, lien au service et budgétaire, mutation, notation, avancement et carrière) ;
+- à la vie professionnelle (recrutement, corps statutaire, lien au service, position situation, interruptions de service, notation, avancement, activité de réserve, reconversion) ;
 
-- à la situation économique (numéro de livret de solde, échelle, échelon, primes et nouvelle bonification indiciaire [code et date]) ;
+- à l'environnement socio-économique (numéro de livret de solde, primes, échelle, échelon, NBI, reconversion) ;
 
-- à la santé (aptitudes et inaptitudes médicales, handicap et taux d'invalidité).
+- à la santé (aptitudes et inaptitudes médicales, handicaps et taux d'invalidité) ;
 
-La durée de conservation des informations nominatives ainsi enregistrées est limitée à cinq ans après la radiation des contrôles de l'armée active, sauf dispositions réglementaires ou législatives contraires.
+- aux récompenses et distinctions.
 
-Les informations nécessaires au calcul des droits à retraite peuvent être conservées à des fins de reconstitution de la carrière jusqu'à la liquidation des pensions.
+La durée de conservation des informations nominatives ainsi enregistrées est limitée à cinq ans après la date de radiation des contrôles.
+
+Les informations nécessaires au calcul des droits à la retraite peuvent être conservées à des fins de reconstitution de carrière jusqu'à la liquidation des pensions.
