@@ -1,3 +1,0 @@
-# DISPOSITIONS COMMUNES A LA MALADIE ET A LA MATERNITE.
-
-- [Article 85](article-85.md)
