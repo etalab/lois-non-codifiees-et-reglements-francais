@@ -61,6 +61,7 @@
 - [Décret n°82-174 du 18 février 1982](decret-n82-174-du-18-fevrier-1982)
 - [Décret n°82-176 du 18 février 1982](decret-n82-176-du-18-fevrier-1982)
 - [Décret n°82-257 du 18 mars 1982](decret-n82-257-du-18-mars-1982)
+- [Décret n°82-419 du 18 mai 1982](decret-n82-419-du-18-mai-1982)
 - [Décret n°82-346 du 19 avril 1982](decret-n82-346-du-19-avril-1982)
 - [Décret n°82-91 du 19 janvier 1982](decret-n82-91-du-19-janvier-1982)
 - [Décret n°82-67 du 20 janvier 1982](decret-n82-67-du-20-janvier-1982)
