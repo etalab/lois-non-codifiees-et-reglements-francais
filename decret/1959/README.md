@@ -10,7 +10,6 @@
 - [Décret n°59-1053 du 7 septembre 1959](decret-n59-1053-du-7-septembre-1959)
 - [Décret n°59-1056 du 7 septembre 1959](decret-n59-1056-du-7-septembre-1959)
 - [Décret n°59-132 du 7 janvier 1959](decret-n59-132-du-7-janvier-1959)
-- [Décret n°59-157 du 7 janvier 1959](decret-n59-157-du-7-janvier-1959)
 - [Décret n°59-171 du 7 janvier 1959](decret-n59-171-du-7-janvier-1959)
 - [Décret n°59-172 du 7 janvier 1959](decret-n59-172-du-7-janvier-1959)
 - [Décret n°59-275 du 7 février 1959](decret-n59-275-du-7-fevrier-1959)
