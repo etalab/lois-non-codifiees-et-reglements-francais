@@ -1,6 +1,7 @@
 # Décret du 18 janvier 1943 portant règlement sur les appareils à pression de gaz.
 
 - [Article 14](article-14.md)
+- [Appareils de type dangereux](appareils-de-type-dangereux)
 - [Appareils soumis au règlement](appareils-soumis-au)
 - [Vérifications préalables aux épreuves](verifications-prealables-aux)
 - [Compétence du préfet de police](competence-du-prefet-de-police)
