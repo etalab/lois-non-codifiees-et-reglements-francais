@@ -1,3 +1,0 @@
-# Article 29
-
-Les titulaires de P.A.M. et les exploitants répondant aux conditions fixées par le décret n° 81-246 du 17 mars 1981 modifié et le décret n° 88-176 du 23 février 1988, qui s'engagent contractuellement dans des conditions définies par instruction du ministre de l'agriculture avec des organismes habilités à les conseiller en vue d'améliorer la gestion technique, économique et financière de leur exploitation, notamment sur la base de leurs documents techniques et comptables, peuvent bénéficier pendant trois années consécutives d'une aide dont le montant est fixé par arrêté conjoint du ministre de l'agriculture et du secrétaire d'Etat auprès du ministre de l'économie, des finances et du budget, chargé du budget et de la consommation.

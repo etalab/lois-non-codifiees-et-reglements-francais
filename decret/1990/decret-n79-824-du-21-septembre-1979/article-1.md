@@ -1,3 +1,0 @@
-# Article 1
-
-En cas de sinistre agricole, assurable ou non, répondant par ailleurs aux caractéristiques mentionnées au premier alinéa de l'article 2 de la loi du 10 juillet 1964, des prêts spéciaux à moyen terme peuvent être consentis, dans les conditions fixées par le présent décret aux agriculteurs qui ont été victimes de ces sinistres. Le bénéfice de ces prêts peut être également accordé aux propriétaires de bâtiments à usage agricole pour la réparation des dommages causés à ces derniers. Ces prêts sont attribués par les établissements de crédit qui ont passé, à cet effet, une convention avec les ministres chargés de l'économie et de l'agriculture.

@@ -2,6 +2,7 @@
 
 - [Décret n°77-188 du 1 mars 1977](decret-n77-188-du-1-mars-1977)
 - [Décret n°87-501 du 1 juillet 1987 (INDD8700106D)](decret-n87-501-du-1-juillet-1987-indd8700106d)
+- [Décret n°88-201 du 1 mars 1988 (AGRP8800081D)](decret-n88-201-du-1-mars-1988-agrp8800081d)
 - [Décret n°88-1021 du 2 novembre 1988 (MAEJ8830054D)](decret-n88-1021-du-2-novembre-1988-maej8830054d)
 - [Décret n°88-1024 du 2 novembre 1988 (ECOC8800090D)](decret-n88-1024-du-2-novembre-1988-ecoc8800090d)
 - [Décret n°88-1097 du 2 décembre 1988 (ECOC8800081D)](decret-n88-1097-du-2-decembre-1988-ecoc8800081d)
@@ -17,6 +18,7 @@
 - [Décret n°88-958 du 3 octobre 1988 (AGRP8801542D)](decret-n88-958-du-3-octobre-1988-agrp8801542d)
 - [Décret n°88-511 du 3 mai 1988 (MERE8800025D)](decret-n88-511-du-3-mai-1988-mere8800025d)
 - [Décret n°88-520 du 3 mai 1988 (RESK8800449D)](decret-n88-520-du-3-mai-1988-resk8800449d)
+- [Décret n°88-529 du 4 mai 1988 (AGRS8800662D)](decret-n88-529-du-4-mai-1988-agrs8800662d)
 - [Décret n°88-1109 du 5 décembre 1988 (INDA8800644D)](decret-n88-1109-du-5-decembre-1988-inda8800644d)
 - [Décret n°88-799 du 5 juillet 1988 (ECOB8820010D)](decret-n88-799-du-5-juillet-1988-ecob8820010d)
 - [Décret n°88-913 du 5 septembre 1988 (SPSS8801003D)](decret-n88-913-du-5-septembre-1988-spss8801003d)
@@ -71,6 +73,7 @@
 - [Décret n°88-921 du 9 septembre 1988 (EQUC8800572D)](decret-n88-921-du-9-septembre-1988-equc8800572d)
 - [Décret n°88-697 du 9 mai 1988 (MCCK8800295D)](decret-n88-697-du-9-mai-1988-mcck8800295d)
 - [Décret n°88-715 du 9 mai 1988 (ASEP8800565D)](decret-n88-715-du-9-mai-1988-asep8800565d)
+- [Décret n°88-718 du 9 mai 1988 (AGRS8800924D)](decret-n88-718-du-9-mai-1988-agrs8800924d)
 - [Décret n°88-1033 du 10 novembre 1988 (MCCB8800655D)](decret-n88-1033-du-10-novembre-1988-mccb8800655d)
 - [Décret n°88-1035 du 10 novembre 1988 (SPSS8801153D)](decret-n88-1035-du-10-novembre-1988-spss8801153d)
 - [Décret n°88-151 du 10 février 1988 (ECOM8730215D)](decret-n88-151-du-10-fevrier-1988-ecom8730215d)
