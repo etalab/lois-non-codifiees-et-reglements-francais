@@ -1,9 +1,3 @@
 # Article 21
 
-Le représentant de l'Etat dans le département élabore, en concertation avec les conseils régionaux et les conseils généraux et après consultation des communes intéressées, et met en application des plans de zones sensibles aux incendies.
-
-Ces plans déterminent les zones dans lesquelles les travaux, constructions ou installations peuvent être soit interdits, soit soumis à des conditions particulières de sécurité qu'ils définissent ainsi que les mesures de prévention à mettre en oeuvre dans les secteurs construits, tant par les propriétaires que par les collectivités ou les établissements publics.
-
-Ils valent servitude d'utilité publique affectant l'utilisation du sol et sont annexés aux plans d'occupation des sols ou aux documents d'urbanisme en tenant lieu.
-
-Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+Afin de définir les mesures de prévention à mettre en oeuvre dans les zones sensibles aux incendies de forêt, le préfet élabore, en concertation avec les conseils régionaux et conseils généraux interessés, un plan de prévention des risques naturels prévisibles institué par la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection de la forêt contre l'incendie et à la prévention des risques majeurs.

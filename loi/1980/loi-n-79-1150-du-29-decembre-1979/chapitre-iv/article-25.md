@@ -1,8 +1,6 @@
 # Article 25
 
-L'arrêté visé à l'article 24 fixe le délai imparti pour la suppression ou la mise en conformité des publicités, enseignes ou préenseignes irrégulières et, le cas échéant, la remise en état des lieux.
-
-A l'expiration de ce délai, dont le point de départ se situe au jour de la notification de l'arrêté, la personne à qui il a été notifié est redevable d'une astreinte de cent francs par jour et par publicité, enseigne ou préenseigne maintenue. Ce montant est réévalué chaque année, en fonction de l'évolution du coût de la vie, dans des conditions fixées par décret en Conseil d'Etat.
+A l'expiration du délai de quinze jours , dont le point de départ se situe au jour de la notification de l'arrêté, la personne à qui il a été notifié est redevable d'une astreinte de cinq cents francs par jour et par publicité, enseigne ou préenseigne maintenue. Ce montant est réévalué chaque année, en fonction de l'évolution du coût de la vie, dans des conditions fixées par décret en Conseil d'Etat.
 
 L'astreinte n'est pas applicable à l'affichage d'opinion ou à la publicité relative aux activités des associations, mentionnés à l'article 12, sauf lorsque cet affichage ou cette publicité ont été apposés à un emplacement publicitaire prohibé en exécution d'un contrat conclu entre l'exploitant de cet emplacement et la personne pour le compte de qui ils ont été réalisés.
 

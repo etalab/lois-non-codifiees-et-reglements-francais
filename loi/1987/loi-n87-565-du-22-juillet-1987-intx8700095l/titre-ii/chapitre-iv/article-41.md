@@ -1,5 +1,7 @@
 # Article 41
 
-Les zones particulièrement exposées à un risque sismique ou cyclonique, l'intensité du risque à prendre en compte et les catégories de bâtiments, équipements et installations nouveaux soumises à des règles particulières parasismiques ou paracycloniques sont définies par décret en Conseil d'Etat.
+Dans les zones particulièrement exposées à un risque sismique ou cyclonique, des règles particulières de construction parasismique ou paracyclonique peuvent être imposées aux équipements, bâtiments et installations.
 
-Les conditions d'information du public sur les mesures prévues dans les zones exposées à un risque sismique ou cyclonique sont fixées par décret en Conseil d'Etat.
+Si un plan de prévention des risques est approuvé dans l'une des zones mentionnées au premier alinéa, il peut éventuellement fixer, en application de l'article 40-1 de la présente loi, des règles plus sévères.
+
+Un décret en Conseil d'Etat définit les modalités d'application du présent article.

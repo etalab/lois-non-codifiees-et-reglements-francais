@@ -4,7 +4,13 @@ L'enquête mentionnée à l'article précédent a pour objet d'informer le publi
 
 L'enquête est conduite, selon la nature et l'importance des opérations, par un commissaire enquêteur ou une commission d'enquête désignés par le président du tribunal administratif ou le membre du tribunal délégué par lui à cette fin.
 
-" Le commissaire enquêteur et les membres des commissions d'enquête sont choisis sur une liste d'aptitude établie dans chaque département par une commission présidée par le représentant de l'Etat et comprenant un magistrat de l'ordre judiciaire, un magistrat de l'ordre administratif, deux représentants élus des collectivités territoriales, deux personnalités qualifiées en matière de protection de l'environnement et quatre représentants des services de l'Etat chargés de l'équipement, de l'environnement, de l'agriculture et de l'industrie. Cette liste est révisée annuellement. "
+Une liste d'aptitude est établie pour chaque département par une commission présidée par le président du tribunal administratif ou le magistrat qu'il délègue. Cette liste est rendue publique et fait l'objet d'au moins une révision annuelle.
+
+Le président du tribunal administratif désigne le commissaire enquêteur ou les membres de la commission d'enquête parmi les personnes figurant sur les listes d'aptitude. Son choix n'est pas limité aux listes des départements faisant partie du ressort du tribunal.
+
+A la demande du commissaire enquêteur ou du président de la commission d'enquête et lorsque les spécificités de l'enquête l'exigent, le président du tribunal administratif ou le magistrat qu'il délègue peut désigner un expert chargé d'assister le commissaire enquêteur ou le président de la commission d'enquête. Le coût de cette expertise est à la charge du maître d'ouvrage.
+
+Un décret précise les modalités d'application du présent article.
 
 Ne peuvent être désignées comme commissaires enquêteurs ou comme membres de la commission d'enquête les personnes intéressées à l'opération à titre personnel ou en raison de leurs fonctions, notamment au sein de la collectivité, de l'organisme ou du service qui assure la maîtrise d'ouvrage, la maîtrise d'oeuvre ou le contrôle de l'opération soumise à enquête.
 
