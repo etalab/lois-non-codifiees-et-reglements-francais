@@ -63,6 +63,7 @@
 - [Arrêté du 7 mars 1996 (TASH9523380A)](arrete-du-7-mars-1996-tash9523380a)
 - [Arrêté du 8 décembre 1995 (ENVP9540375A)](arrete-du-8-decembre-1995-envp9540375a)
 - [Arrêté du 8 décembre 1995 (INDB9501264A)](arrete-du-8-decembre-1995-indb9501264a)
+- [Arrêté du 8 décembre 1995 (INDB9600203A)](arrete-du-8-decembre-1995-indb9600203a)
 - [Arrêté du 8 février 1996 (AGRB9502077A)](arrete-du-8-fevrier-1996-agrb9502077a)
 - [Arrêté du 8 février 1996 (AGRG9600301A)](arrete-du-8-fevrier-1996-agrg9600301a)
 - [Arrêté du 8 février 1996 (EQUT9600229A)](arrete-du-8-fevrier-1996-equt9600229a)
