@@ -487,7 +487,6 @@
 - [Arrêté du 17 juillet 1991 (SPSS9101603A)](arrete-du-17-juillet-1991-spss9101603a)
 - [Arrêté du 17 juin 1991 (ACVM9140019A)](arrete-du-17-juin-1991-acvm9140019a)
 - [Arrêté du 17 juin 1991 (DEFB9101589A)](arrete-du-17-juin-1991-defb9101589a)
-- [Arrêté du 17 juin 1991 (MENL9101252A)](arrete-du-17-juin-1991-menl9101252a)
 - [Arrêté du 17 juin 1991 (MJSK9170060A)](arrete-du-17-juin-1991-mjsk9170060a)
 - [Arrêté du 17 octobre 1990 (TEFE9003888A)](arrete-du-17-octobre-1990-tefe9003888a)
 - [Arrêté du 17 octobre 1991 (ECOT9110131A)](arrete-du-17-octobre-1991-ecot9110131a)

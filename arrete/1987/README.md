@@ -181,7 +181,6 @@
 - [Arrêté du 9 mars 1987 (ASES8700444A)](arrete-du-9-mars-1987-ases8700444a)
 - [Arrêté du 9 mars 1987 (DEFP8701108A)](arrete-du-9-mars-1987-defp8701108a)
 - [Arrêté du 9 mars 1987 (DEFP8701147A)](arrete-du-9-mars-1987-defp8701147a)
-- [Arrêté du 9 mars 1987 (MENL8700143A)](arrete-du-9-mars-1987-menl8700143a)
 - [Arrêté du 9 mars 1987 (RESP8700042K)](arrete-du-9-mars-1987-resp8700042k)
 - [Arrêté du 9 novembre 1987 (AGRG8702042A)](arrete-du-9-novembre-1987-agrg8702042a)
 - [Arrêté du 9 novembre 1987 (ASEM8701668A)](arrete-du-9-novembre-1987-asem8701668a)
