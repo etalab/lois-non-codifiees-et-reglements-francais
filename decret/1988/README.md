@@ -164,6 +164,7 @@
 - [Décret n°88-887 du 22 août 1988 (MAFX8810734D)](decret-n88-887-du-22-aout-1988-mafx8810734d)
 - [Décret n°89-705 du 22 septembre 1989 (EQUP8900159D)](decret-n89-705-du-22-septembre-1989-equp8900159d)
 - [Décret n°88-888 du 23 août 1988 (PRMX8810738D)](decret-n88-888-du-23-aout-1988-prmx8810738d)
+- [Décret n°88-1060 du 24 novembre 1988 (MERF8800028D)](decret-n88-1060-du-24-novembre-1988-merf8800028d)
 - [Décret n°88-893 du 24 août 1988 (DOMP8800029D)](decret-n88-893-du-24-aout-1988-domp8800029d)
 - [Décret n°88-894 du 24 août 1988 (SPSM8801069D)](decret-n88-894-du-24-aout-1988-spsm8801069d)
 - [Décret n°88-895 du 24 août 1988 (DEFM8801668D)](decret-n88-895-du-24-aout-1988-defm8801668d)
