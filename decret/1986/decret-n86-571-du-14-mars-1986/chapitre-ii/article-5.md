@@ -136,7 +136,13 @@ Les périodes d'ouverture générale doivent être comprises entre les dates sui
 <td> : Pays de Loire et département   :</td>
 </tr>
 <tr>
-<td> :  de l'Indre-et-Loire           :</td>
+<td> : de la Côte d'Or, de            :</td>
+</tr>
+<tr>
+<td> : l'Indre-et-Loire et de la      :</td>
+</tr>
+<tr>
+<td> : Saône-et-Loire                 :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
@@ -208,7 +214,10 @@ Les périodes d'ouverture générale doivent être comprises entre les dates sui
 <td> : Lorraine (sauf la Moselle),    :</td>
 </tr>
 <tr>
-<td> : Bourgogne                      :</td>
+<td> : Bourgogne (sauf la Côte d'Or   :</td>
+</tr>
+<tr>
+<td> : et la Saône et Loire)          :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
