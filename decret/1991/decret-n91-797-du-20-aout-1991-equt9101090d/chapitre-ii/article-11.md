@@ -32,22 +32,22 @@ Le coefficient d'abattement appliqué à ce deuxième élément de la taxe est c
 
 La superficie d'emprise au sol des ouvrages correspondants et la puissance maximale brute autorisée de la chute seront mentionnées dans les actes autorisant l'occupation du domaine confié à l'établissement public qui interviendront après l'entrée en vigueur du présent décret.
 
-D. - Les taux de base mentionnés aux A, B et C ci-dessus sont indexés chaque année, en appliquant un coefficient multiplicateur déterminé par la formule suivante :
+D. - Les taux de base mentionnés aux A, B et C ci-dessus sont indexés chaque année, en appliquant aux taux en vigueur pour l'année 1999 un coefficient multiplicateur an déterminé par la formule suivante :
 
-an = 0,65 (In-1 /406,8) + 0,35 (En-1 /100,9)
+an = 0,65(In-1 / 406,8)+(0,35(En-1 / 100,9)
 
 où :
 
-- an est le coefficient multiplicateur à appliquer aux taux en vigueur ;
+I est l'indice INSEE, TP01 (valeur du mois d'avril - indice 100 :
 
-- I est l'indice INSEE, TP01 (valeur du mois d'avril, indice 100 Janvier 1975 ; indice 406,8 Avril 1997) ;
+janvier 1975 ; indice 406,8 : avril 1997) ;
 
-- E est l'indice INSEE 40.10.00 (électricité) (valeur du mois d'avril, indice 100 Année 1990 ; indice 100,9 Avril 1997) ;
+E est l'indice INSEE 40.10.00 (électricité) (valeur du mois d'avril - indice 100 : année 1990 ; indice 100,9 : avril 1997) ;
 
-- n est l'année d'application du coefficient a ;
+n est l'année d'application du coefficient a ;
 
-- n-1 est l'année de prise en compte des indices I et E.
+n - 1 est l'année de prise en compte des indices I et E.
 
-Le coefficient an n'est appliqué que s'il est supérieur à 1, si son application conduit à une augmentation au moins égale à 0,01 centime du taux de base mentionné au B ci-dessus ou s'il ne conduit pas à un dépassement des plafonds fixés au II de l'article 124 de la loi de finances pour 1991 susvisée.
+Le coefficient an n'est appliqué que s'il est supérieur à 1, si son application conduit à une augmentation au moins égale à 0,01 centime du taux de base mentionné au B ci-dessus et s'il ne conduit pas à un dépassement des plafonds fixés au II de l'article 124 de la loi de finances pour 1991 susvisée.
 
-Avant la fin de l'année précédente, les nouveaux taux de base résultant de l'application du coefficient multiplicateur sont constatés par arrêté du ministre de l'équipement, des transports et du logement.
+Avant la fin de l'année précédente, les nouveaux taux de base résultant de l'application du coefficient multiplicateur sont constatés par arrêté du ministre chargé des voies navigables.
