@@ -15,6 +15,7 @@
 - [8° Sulfocarbonisme professionnel](8-sulfocarbonisme-professionnel)
 - [25° Dermatoses professionnelles consécutives à l'emploi de lubrifiants et de fluides de refroidissement](25-dermatoses-professionnelles-consecutives-a)
 - [47° Affections consécutives à l'inhalation de poussières d'amiante.](47-affections-consecutives-a)
+- [5° Spirochetoses (à l'exclusion des tréponématoses)](5-spirochetoses-a)
 - [16° Affections professionnelles dues aux bacilles tuberculeux](16-affections-professionnelles-dues-aux)
 - [15° Mycoses cutanées, périonyxis et onyxis d'origine professionnelle](15-mycoses-cutanees-perionyxis-et)
 - [34° Ulcérations et dermites provoquées par l'acide chromique, les chromates et bichromates alcalins, le chromate de zinc et le sulfate de chrome.](34-ulcerations-et)
