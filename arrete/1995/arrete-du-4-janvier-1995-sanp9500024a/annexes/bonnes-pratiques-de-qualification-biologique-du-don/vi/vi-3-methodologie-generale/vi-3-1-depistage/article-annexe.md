@@ -28,8 +28,6 @@ Tout échantillon dont le résultat de dépistage est Réactif non répétable e
 
 Si le résultat du test utilisant un deuxième réactif est positif, l'échantillon est dit Réactif en deuxième intention.
 
-La procédure qui consiste à mettre en oeuvre un deuxième réactif de dépistage pour les échantillons Réactif non répétable est introduite après consultation en ce sens du Conseil scientifique de l'agence. Elle est mise en place pour une durée limitée de deux ans à compter de l'entrée en vigueur de ce règlement. Son application donnera lieu à une évaluation au regard du bénéfice pour la sécurité transfusionnelle.
-
 VI.3.1.4. Qualification des dons Réactif répétable ou Réactif en deuxième intention
 
 Dès que le dépistage a fourni un résultat Réactif répétable ou Réactif en deuxième intention pour un marqueur donné, le résultat de qualification biologique du don ne peut être Négatif pour ce marqueur.
