@@ -1,0 +1,3 @@
+# Article 4
+
+Les dispositions de l'article 13 du décret du 28 mai 1990 susvisé applicables aux agents de l'Etat le sont aux ouvriers affiliés au régime des pensions résultant du décret du 24 septembre 1965 susvisé appelés à se déplacer pour suivre un cycle de formation, un stage ou une autre action de formation organisés par l'administration ou à son initiative conformément aux dispositions du titre Ier du décret du 7 avril 1981 susvisé. Ces mêmes dispositions de l'article 13 du décret du 28 mai 1990 susvisé sont également applicables aux ouvriers temporaires et auxiliaires se déplaçant au même titre conformément aux dispositions du titre Ier du décret du 26 mars 1975 susvisé.
