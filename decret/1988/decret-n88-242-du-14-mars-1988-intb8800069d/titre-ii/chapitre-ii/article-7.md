@@ -1,6 +1,6 @@
 # Article 7
 
-Les épreuves d'admissibilité du concours interne de recrutement des rédacteurs territoriaux comprennent :
+Les épreuves d'admissibilité du concours interne de recrutement des rédacteurs territoriaux pour la spécialité administration générale comprennent :
 
 1° Au choix du candidat, lors de l'épreuve :
 

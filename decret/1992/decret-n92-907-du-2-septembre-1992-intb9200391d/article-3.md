@@ -11,3 +11,11 @@ Chaque jury comprend, outre le président, cinq membres ainsi répartis :
 - un membre de l'enseignement supérieur ;
 
 - un élu local.
+
+En cas de partage égal des voix, la voix du président est prépondérante.
+
+Les correcteurs des épreuves sont désignés par arrêté de l'autorité mentionnée au premier alinéa du présent article.
+
+Les épreuves sont anonymes : chaque composition est corrigée par deux correcteurs.
+
+Il est attribué à chaque épreuve une note variant de 0 à 20. Aucun candidat ayant obtenu une note inférieure à 5 sur 20 à l'une des épreuves ou une moyenne des notes aux épreuves inférieure à 10 sur 20 ne peut être déclaré admis. "

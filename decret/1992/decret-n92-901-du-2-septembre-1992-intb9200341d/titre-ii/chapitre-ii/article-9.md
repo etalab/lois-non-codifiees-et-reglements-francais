@@ -16,7 +16,7 @@ Les épreuves d'admission du concours externe et du concours interne sont les su
 
 3° Une épreuve orale de langue comportant la traduction :
 
-- soit, sans dictionnaire, d'un texte dans l'une des langues étrangères suivantes au choix du candidat : allemand, anglais, italien, espagnol, portugais, néerlandais, russe ou arabe moderne ;
+- soit, sans dictionnaire, d'un texte dans l'une des langues étrangères suivantes au choix du candidat : allemand, anglais, italien, espagnol, grec, portugais, néerlandais, russe ou arabe moderne ;
 
 - soit, avec dictionnaire, d'un texte dans l'une des langues anciennes suivantes au choix du candidat : latin ou grec, suivie d'une conversation.
 

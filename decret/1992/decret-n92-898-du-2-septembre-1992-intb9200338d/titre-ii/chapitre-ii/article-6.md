@@ -4,15 +4,59 @@ Les épreuves d'admissibilité et d'admission du concours pour le recrutement de
 
 Spécialité Musique :
 
-1° Une épreuve d'admissibilité dans l'une des disciplines suivantes : piano, violon, alto, violoncelle, contrebasse, flûte à bec, flûte traversière, hautbois, saxophone, basson, harpe, clarinette, cor, trompette, trombone, guitare, accordéon, percussions, tuba, instruments anciens, instruments traditionnels.
+" La spécialité Musique comprend les disciplines suivantes :
 
-Cette épreuve consiste en une lecture à vue (durée : dix minutes comprenant le temps de préparation devant le jury ; coefficient 1).
+piano, violon, alto, violoncelle, contrebasse, flûte traversière, hautbois, saxophone, basson, harpe, clarinette, cor, trompette, trombone, guitare, accordéon, percussions, tuba, instruments anciens, instruments traditionnels, jazz, formation musicale, accompagnement.
 
-2° Les épreuves d'admission consistent en :
+" Pour chacune des disciplines énumérées ci-dessus, les épreuves d'admissibilité et d'admission sont les suivantes :
 
-- une épreuve pédagogique, pendant laquelle le candidat écoute, sans intervenir, les élèves d'un groupe homogène du premier ou second cycle puis expose, hors de la présence des élèves, ses observations concernant chacun d'eux (durée : dix minutes). Ensuite, il fait travailler l'élève ou les élèves de son choix (durée : vingt minutes ; coefficient 2) ;
+" 1. Discipline Instruments
 
-- un entretien avec le jury (durée : dix minutes ; coefficient 1).
+" 1.1. Epreuve d'admissibilité
+
+" Exécution d'oeuvres ou d'extraits d'oeuvres d'une durée maximale de quinze minutes, choisies par le jury au moment de l'épreuve dans un programme de trente minutes environ présenté par le candidat (durée de l'épreuve : quinze minutes ; coefficient 3).
+
+" 1.2. Epreuve d'admission
+
+" a) Cours à un ou plusieurs élèves du premier ou du deuxième cycle (durée : vingt minutes ; coefficient 4).
+
+" b) Exposé suivi d'un entretien avec le jury (durée de l'épreuve : vingt minutes ; coefficient 3).
+
+" 2. Discipline Formation musicale
+
+musique ou danse
+
+" 2.1. Epreuve d'admissibilité
+
+" Lecture à vue vocale d'une mélodie avec paroles, nom des notes ou vocalises et son accompagnement au piano (temps de préparation : dix minutes ; durée de l'épreuve : trois minutes ; coefficient 3).
+
+" 2.2. Epreuves d'admission
+
+selon l'option choisie par le candidat lors de l'inscription
+
+" a) Cours à un groupe d'élèves musiciens ou danseurs de premier ou deuxième cycle.
+
+" Le niveau musical et le cursus suivi par les élèves sont précisés au candidat lors de la préparation (durée de la préparation : une heure ; durée de l'épreuve : trente minutes ; coefficient 4).
+
+" b) Exposé suivi d'un entretien avec le jury (durée :
+
+vingt minutes ; coefficient 3).
+
+" 3. Discipline Accompagnement musique ou danse
+
+" 3.1. Epreuve d'admissibilité
+
+" Exécution au piano d'oeuvres ou d'extraits d'oeuvres d'une durée maximale de quinze minutes, choisies par le jury au moment de l'épreuve dans un programme de trente minutes environ présenté par le candidat (durée : quinze minutes ; coefficient 3).
+
+" 3.2. Epreuves d'admission
+
+" a) Le candidat admissible choisit l'une des deux épreuves suivantes :
+
+" 1. Soit l'accompagnement d'un cours de danse s'adressant à des élèves de deuxième cycle (durée : trente minutes ; coefficient 4) ;
+
+" 2. Soit l'accompagnement d'une oeuvre exécutée par un élève de deuxième cycle, instrumentiste ou chanteur. Cet accompagnement est suivi d'un travail sur l'oeuvre avec l'élève pendant environ quinze minutes (préparation : trente minutes ; coefficient 4).
+
+" b) Entretien avec le jury (durée : vingt minutes ; coefficient 3). "
 
 Spécialité Art dramatique :
 

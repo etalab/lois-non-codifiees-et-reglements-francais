@@ -4,7 +4,7 @@ Les candidats aux concours externe et interne de recrutement des bibliothécaire
 
 1° Soit sur la traduction :
 
-- sans dictionnaire, d'un texte dans l'une des langues étrangères suivantes au choix du candidat : allemand, anglais, italien, espagnol, portugais, néerlandais, russe ou arabe moderne. La langue choisie devra, pour les candidats au concours externe, être différente de celle retenue pour la seconde épreuve d'admission de ce concours ; ou
+- sans dictionnaire, d'un texte dans l'une des langues étrangères suivantes au choix du candidat : allemand, anglais, italien, espagnol, grec, portugais, néerlandais, russe ou arabe moderne. La langue choisie devra, pour les candidats au concours externe, être différente de celle retenue pour la seconde épreuve d'admission de ce concours ; ou
 
 - avec dictionnaire, d'un texte dans une des langues anciennes suivantes : latin, grec ;
 

@@ -1,6 +1,6 @@
 # Article 3
 
-Pour l'une des disciplines musicales de la spécialité Musique et danse citées à l'article 2 ci-dessus, les épreuves sont les suivantes :
+Pour l'une des disciplines de la spécialité Musique mentionnée à l'article 2 ci-dessus, les épreuves sont les suivantes :
 
 1° Un examen du dossier administratif du candidat et d'un rapport établi par l'autorité territoriale, le candidat étant autorisé à produire toute pièce dont il juge utile de faire état (coefficient 1) ;
 

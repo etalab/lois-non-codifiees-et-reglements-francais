@@ -10,4 +10,8 @@ Cette épreuve consiste en une lecture et une explication de texte assorties d'u
 
 vingt minutes ; coefficient 3) ;
 
-3° Une épreuve orale facultative de langue portant sur la traduction, sans dictionnaire, d'un texte en anglais, allemand, italien, espagnol, portugais, néerlandais, russe ou arabe moderne, selon le choix du candidat exprimé au moment de l'inscription et suivie d'une conversation (temps de préparation : quinze minutes ; durée de l'épreuve : quinze minutes ; coefficient 1).
+3° Une épreuve orale facultative de langue portant sur la traduction, sans dictionnaire, d'un texte en anglais, allemand, italien, espagnol, grec, portugais, néerlandais, russe ou arabe moderne, selon le choix du candidat exprimé au moment de l'inscription et suivie d'une conversation (temps de préparation :
+
+quinze minutes ; durée de l'épreuve : quinze minutes ; coefficient 1).
+
+" Seuls les points excédant la note 10 à cette épreuve facultative s'ajoutent au total des notes obtenues aux épreuves obligatoires et sont valables uniquement à l'admission. "

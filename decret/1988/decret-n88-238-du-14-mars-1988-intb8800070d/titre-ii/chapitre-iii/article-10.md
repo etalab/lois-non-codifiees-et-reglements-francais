@@ -1,6 +1,6 @@
 # Article 10
 
-Chaque session de concours fait l'objet d'une publicité au Journal officiel de la République française qui précise la date limite de dépôt des inscriptions, la date des épreuves, le nombre de lauréats prévu pour chaque concours et l'adresse à laquelle les candidatures doivent être déposées. Le président du Centre national de la fonction publique territoriale assure cette publicité.
+Chaque session de concours fait l'objet d'une publicité au Journal officiel de la République française qui précise la date limite de dépôt des inscriptions, la date des épreuves, le nombre de postes ouverts prévu par spécialité pour chaque concours et l'adresse à laquelle les candidatures doivent être déposées. Le délégué régional ou interdépartemental du Centre national de la fonction publique territoriale assure cette publicité.
 
 " A titre transitoire et pour les concours ouverts avant le 31 janvier 1990 [*date*] , les candidats peuvent demander, au moment de leur inscription, à être soumis aux épreuves prévues par les arrêtés du 15 juillet 1981 " relatif à l'introduction d'une option Animation dans les concours d'attaché communal  et du 12 juin 1984 " relatif à l'introduction d'une option Informatique dans les concours d'attaché communal .
 

@@ -1,6 +1,6 @@
 # Article 6
 
-Les épreuves d'admissibilité du concours externe de recrutement des rédacteurs territoriaux comprennent :
+Les épreuves d'admissibilité du concours externe de recrutement des rédacteurs territoriaux pour la spécialité administration générale comprennent :
 
 1° Une composition sur un sujet d'ordre général permettant d'apprécier la culture et les connaissances générales du candidat (durée : trois heures ; coefficient 4).
 

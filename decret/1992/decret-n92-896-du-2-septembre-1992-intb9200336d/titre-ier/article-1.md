@@ -2,7 +2,7 @@
 
 Les candidats au concours externe d'accès au cadre d'emplois des assistants territoriaux spécialisés d'enseignement artistique doivent être titulaires de l'un des titres ou diplômes suivants :
 
-1° Pour les candidats au concours sur titres, spécialité Musique et danse, du diplôme d'Etat de professeur de musique ou de danse ou du diplôme universitaire de musicien intervenant ;
+1° Pour les candidats au concours sur titres avec épreuve, spécialité Musique ou danse, du diplôme d'Etat de professeur de musique ou de danse ou du diplôme universitaire de musicien intervenant ;
 
 2° Pour les candidats au concours sur titres avec épreuves, spécialité Arts plastiques :
 

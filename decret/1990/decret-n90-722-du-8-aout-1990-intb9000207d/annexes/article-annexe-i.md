@@ -26,6 +26,8 @@ Ecole polytechnique ;
 
 Ecole supérieure d'électricité ;
 
+Ecole nationale des travaux publics de l'Etat ;
+
 Institut national agronomique de Paris-Grignon ;
 
 Ecole nationale supérieure des sciences agronomiques appliquées.

@@ -16,4 +16,4 @@ B. - Epreuves orales d'admission
 
 1° Une conversation avec le jury débutant par le commentaire d'un texte ou d'une citation, tiré au sort au début de l'épreuve, portant sur le domaine de l'information et de la communication ou sur les grands thèmes de l'actualité (intellectuelle, culturelle, économique, sociale) et permettant d'apprécier les motivations et la culture du candidat (durée : trente minutes maximum après une préparation de même durée ; coefficient 3).
 
-2° Une épreuve orale de langue comportant la traduction suivie d'un commentaire d'un texte, sans dictionnaire, dans l'une des langues vivantes suivantes au choix du candidat : allemand, anglais, espagnol, italien, portugais, néerlandais, russe ou arabe moderne (durée : vingt minutes, après une préparation de même durée ; coefficient 1).
+2° Une épreuve orale de langue comportant la traduction suivie d'un commentaire d'un texte, sans dictionnaire, dans l'une des langues vivantes suivantes au choix du candidat : allemand, anglais, espagnol, grec, italien, portugais, néerlandais, russe ou arabe moderne (durée : vingt minutes, après une préparation de même durée ; coefficient 1).

@@ -1,6 +1,6 @@
 # Article 1
 
-Les candidats au concours externe sur titres (spécialités Musique et danse et Art dramatique) et au concours externe sur titres avec épreuves (spécialité Arts plastiques) d'accès au cadre d'emplois des professeurs territoriaux d'enseignement artistique doivent être titulaires de l'un des titres ou diplômes suivants :
+Les candidats au concours externe sur titres avec épreuve (spécialités Musique et danse et Art dramatique) et au concours externe sur titres avec épreuves (spécialité Arts plastiques) d'accès au cadre d'emplois des professeurs territoriaux d'enseignement artistique doivent être titulaires de l'un des titres ou diplômes suivants :
 
 1° Pour la spécialité Musique et danse : le certificat d'aptitude aux fonctions de professeur des écoles de musique contrôlées par l'Etat ;
 

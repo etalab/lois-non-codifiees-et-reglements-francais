@@ -16,6 +16,8 @@ Les épreuves d'admissibilité du concours interne de recrutement des assistants
 
 3° Une épreuve écrite facultative de langue comportant la traduction :
 
-- soit, sans dictionnaire, d'un texte dans l'une des langues étrangères suivantes : anglais, allemand, italien, espagnol, portugais, néerlandais, russe ou arabe moderne ;
+- soit, sans dictionnaire, d'un texte dans l'une des langues étrangères suivantes : anglais, allemand, italien, espagnol, grec, portugais, néerlandais, russe ou arabe moderne ;
 
 - soit, avec dictionnaire, d'un texte, dans l'une des langues anciennes suivantes : latin, grec (durée : deux heures ; coefficient 1).
+
+Seuls les points excédant la note 10 à cette épreuve facultative s'ajoutent au total des épreuves obligatoires et sont valables uniquement à l'admissibilité. "

@@ -14,6 +14,6 @@ Les candidats au titre du concours interne peuvent demander, lors de leur inscri
 
 - une épreuve de course (coefficient 1) ;
 
-2° Une épreuve orale de langue vivante comportant la traduction d'un texte dans l'une des langues étrangères suivantes au choix du candidat : allemand, anglais, italien, espagnol, portugais, néerlandais, russe ou arabe moderne (durée : vingt minutes après une préparation de même durée ; coefficient 1).
+2° Une épreuve orale de langue vivante comportant la traduction d'un texte dans l'une des langues étrangères suivantes au choix du candidat : allemand, anglais, italien, espagnol, grec, portugais, néerlandais, russe ou arabe moderne (durée : vingt minutes après une préparation de même durée ; coefficient 1).
 
 Les notes obtenues aux épreuves facultatives ne peuvent entrer en ligne de compte en vue de l'admission que pour la part excédant les notes 10 sur 20.

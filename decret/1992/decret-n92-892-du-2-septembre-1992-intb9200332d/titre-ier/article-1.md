@@ -4,9 +4,9 @@ Les candidats aux concours externes de recrutement pour l'accès au cadre d'empl
 
 1° Spécialité Musique
 
-a) Pour le concours externe sur titres de recrutement des directeurs d'établissements territoriaux d'enseignement artistique de 1re catégorie : le certificat d'aptitude aux fonctions de directeur de conservatoires nationaux de région ;
+a) Pour le concours externe sur titres avec épreuve de recrutement des directeurs d'établissements territoriaux d'enseignement artistique de 1re catégorie : le certificat d'aptitude aux fonctions de directeur de conservatoires nationaux de région ;
 
-b) Pour le concours externe sur titres de recrutement des directeurs d'établissements territoriaux d'enseignement artistique de 2e catégorie : le certificat d'aptitude aux fonctions de directeur des écoles nationales de musique des établissements classés en 1re et en 2e catégorie.
+b) Pour le concours externe sur titres avec épreuve de recrutement des directeurs d'établissements territoriaux d'enseignement artistique de 2e catégorie : le certificat d'aptitude aux fonctions de directeur des écoles nationales de musique des établissements classés en 1re et en 2e catégorie.
 
 2° Spécialité Arts plastiques
 

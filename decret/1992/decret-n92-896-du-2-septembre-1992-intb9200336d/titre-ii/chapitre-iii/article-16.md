@@ -2,7 +2,7 @@
 
 Les jurys des concours sont nommés par arrêté du président du Centre national de la fonction publique territoriale sur la base d'une liste dressée chaque année par le conseil d'administration du Centre national de la fonction publique territoriale, après avis du conseil d'orientation.
 
-Le jury de chaque concours comprend, outre le président, neuf membres ainsi répartis :
+Le jury de chaque concours comprend, outre le président:
 
 a) Deux élus locaux ;
 
@@ -10,7 +10,7 @@ b) Deux fonctionnaires territoriaux de catégorie B, dont un appartenant au cadr
 
 c) Deux personnalités qualifiées ;
 
-d) Trois membres de l'enseignement supérieur.
+d) Sur proposition du ministre chargé de la culture et, pour chaque spécialité ouverte au concours, un membre de l'inspection de la création et des enseignements artistiques qualifié dans la spécialité concernée. "
 
 Le président et deux membres de chacun de ces jurys sont communs au jury du concours externe et au jury du concours interne.
 

@@ -88,7 +88,39 @@ Les principes généraux de la publicité foncière.
 
 III. - Droit de l'urbanisme
 
-Se référer au programme de l'option Q (quatrième épreuve d'admissibilité du concours externe).
+" 1. Le domaine :
+
+" Le domaine public :
+
+" - l'étendue du domaine public (constitution, composition, voisinage) ;
+
+" - la gestion du domaine public (inaliénabilité, imprescriptibilité, entretien, conservation, utilisation).
+
+" Le domaine privé :
+
+" - l'étendue du domaine privé (composition, constitution, aliénation) ;
+
+" - la gestion du domaine privé (utilisation, problème du régime juridique applicable).
+
+" 2. Les travaux publics :
+
+" La notion de travail public (critères et applications) ;
+
+" Les modes de réalisation des travaux publics (marché de travaux publics, régie, concession, autorisation unilatérale, offre de concours).
+
+" Le régime juridique des travaux publics.
+
+" 3. L'urbanisme :
+
+" Les documents prévisionnels ;
+
+" Les opérations d'urbanisme ;
+
+" Le permis de construire et les règles de construction ;
+
+" L'expropriation pour cause d'utilité publique.
+
+" 4. L'aménagement du territoire et la législation relative à l'environnement : notions générales. "
 
 IV. - Gestion administrative
 
@@ -132,75 +164,9 @@ Détermination des coûts administratifs et leur minimisation.
 
 Contrôle du travail administratif.
 
-V. - Gestion d'entreprise
+EPREUVES FACULTATIVES COMMUNES AUX CONCOURS EXTERNE ET INTERNE
 
-1. La vie de l'entreprise
-
-Création ; objectifs ; localisation, choix des ressources (investissements de base, personnel, moyens financiers).
-
-Fonctionnement : gestion des stocks ; administration du personnel ; renouvellement des investissements ; problèmes contentieux.
-
-Développement : progrès techniques et innovations, les contraintes extérieures (concurrence, approvisionnement et débouchés) ; la stratégie de l'entreprise ; croissance interne et croissance externe.
-
-2. Les techniques comptables dans la gestion de l'entreprise
-
-La normalisation comptable.
-
-Les documents commerciaux et financiers usuels et leur utilisation ; le fonctionnement des comptes (livres, journaux, balances).
-
-Les tableaux de synthèse : compte d'exploitation générale, compte de pertes et profits ; bilan ; l'analyse et l'évolution des ressources et des emplois ; le tableau de financement : détermination des coûts et prix de revient ; le tableau de bord.
-
-3. Droit commercial
-
-Le commerçant et le fonds de commerce.
-
-Les sociétés commerciales.
-
-Les procédures collectives de règlement des créances.
-
-Les contrats spéciaux (contrat d'intégration, contrat sur monnaie et crédit, contrats de vente, d'assurance, de transport et autres contrats usuels).
-
-Le règlement judiciaire, le concordat.
-
-La liquidation des biens.
-
-VI. - Institutions sociales et droit social
-
-1. La protection sociale
-
-Le système français de sécurité sociale (régime général, régimes spéciaux et autonomes) : principes essentiels, organisation, évolution, principaux types de prestations, financement, problèmes résultant de la multiplicité des régimes).
-
-Notions sur les autres grands systèmes de protection sociale :
-
-- régimes complémentaires ;
-
-- mutualité ;
-
-- assurance chômage ;
-
-- aide sociale.
-
-2. Les politiques sociales
-
-Notions sur les administrations et les juridictions intervenant dans les domaines des relations de travail, de l'emploi, de la protection sociale et de la santé. Les structures de l'aide et de la protection sociales dans la commune et le département.
-
-Les données élémentaires de la démographie française, la politique de la population et des migrations.
-
-La politique de l'emploi, le marché de l'emploi, la lutte contre le chômage.
-
-La politique de formation, de perfectionnement et de promotion.
-
-La politique de la famille.
-
-La politique de la santé.
-
-La politique de la vieillesse.
-
-EPREUVES FACULTATIVES COMMUNES
-
-AUX CONCOURS EXTERNE ET INTERNE
-
-I. - Epreuve d'exercices physiques
+I. - Epreuve facultative d'exercices physiques commune aux concours externe et interne ".
 
 L'épreuve d'exercices physiques des concours externe et interne comprend quatre options, au choix des candidats :
 
@@ -237,55 +203,3 @@ Une bonification d'un point est attribuée à chaque candidat par année d'âge 
 La note attribuée est constituée par la moyenne des notes obtenues aux différents exercices, arrondie au demi-point le plus proche.
 
 Si un candidat, pour quelque cause que ce soit ne peut effectuer la totalité des exercices prévus, la note qui lui est attribuée à la fin de l'épreuve est calculée en divisant par le nombre total des exercices prévus la somme des notes obtenues par lui, à chacun des exercices qu'il a effectués.
-
-II. - Le programme de l'épreuve facultative (questions ayant trait à la gestion et au traitement de l'information) du concours externe et du concours interne est fixé comme suit :
-
-1. Données générales
-
-a) L'informatique dans l'organisation administrative ;
-
-b) L'introduction des nouvelles technologies dans les méthodes de gestion administrative ;
-
-c) Politique nationale en matière d'équipement informatique.
-
-2. Systèmes informatiques
-
-a) Les équipements :
-
-- les ordinateurs ;
-
-- les périphériques ;
-
-- les réseaux.
-
-b) Les logiciels :
-
-- les systèmes d'exploitation ;
-
-- les langages évolués et les métalangages ;
-
-- les progiciels.
-
-c) Les différents types d'organisation informatique :
-
-- l'informatique centralisée ;
-
-- l'informatique asservie ;
-
-- l'informatique partagée ;
-
-- l'informatique répartie.
-
-3. Applications
-
-Gestion du personnel, comptabilité, gestion prévisionnelle, traitement de texte, courrier électronique, téléconsultation, statistiques, enquêtes et aide à la décision, enseignement assisté par ordinateur, téléinformatique, banque de données, applications sectorielles.
-
-4. Gestion de l'informatique
-
-Relations entre organisation générale et informatique, schéma-directeur et cahier des charges, informatique et conditions de travail, l'acquisition et l'implantation d'un système maintenance et développement, le personnel informaticien, les utilisateurs.
-
-5. Droit du traitement et de la communication de l'information
-
-Principes généraux du droit, du logiciel, informatique et libertés, l'accès aux documents administratifs.
-
-Pour la préparation de cette épreuve, les candidats devront accorder une importance particulière aux spécificités et aux réalisations concernant le traitement de l'information dans l'administration française.

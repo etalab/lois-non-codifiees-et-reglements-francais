@@ -1,21 +1,23 @@
 # Article 8
 
-Le jury du concours est nommé par arrêté du président du Centre national de la fonction publique territoriale, sur la base d'une liste dressée par le conseil d'administration du Centre national de la fonction publique territoriale après avis du conseil d'orientation.
+Le jury du concours est nommé par arrêté du président du centre de gestion compétent.
 
-Le jury du concours comprend, outre le président, neuf membres ainsi répartis :
+" Le jury du concours comprend, outre le président, neuf membres ainsi répartis :
 
-a) Deux élus locaux ;
+" a) Deux élus locaux ;
 
-b) Deux fonctionnaires territoriaux de catégorie A dont un appartenant au cadre d'emplois des conseillers territoriaux socio-éducatifs ;
+" b) Un fonctionnaire territorial de catégorie A et un fonctionnaire du cadre d'emplois ou de la catégorie correspondant désigné dans les conditions fixées à l'article 14 du décret du 20 novembre 1985 susvisé ;
 
-c) Deux personnalités qualifiées ;
+" c) Deux personnalités qualifiées ;
 
-d) Trois membres de l'enseignement supérieur.
+" d) Deux membres de l'enseignement supérieur sur proposition d'une autorité habilitée à représenter un établissement d'enseignement supérieur ;
 
-L'arrêté prévu au premier alinéa du présent article désigne le remplaçant du président dans le cas où celui-ci serait dans l'impossibilité de poursuivre sa mission.
+" e) Un représentant du Centre national de la fonction publique territoriale en application de l'article 42 de la loi du 26 janvier 1984 susvisée.
 
-En cas de partage égal des voix, la voix du président est prépondérante.
+" L'arrêté prévu au premier alinéa du présent article désigne le remplaçant du président dans le cas où celui-ci serait dans l'impossibilité de poursuivre sa mission.
 
-Les correcteurs sont désignés par arrêté du président du Centre national de la fonction publique territoriale pour participer avec les membres du jury à la correction des épreuves.
+" En cas de partage égal des voix, la voix du président est prépondérante.
 
-L'épreuve écrite est anonyme ; chaque composition est corrigée par deux correcteurs.
+" Les correcteurs sont désignés par arrêté du président du centre de gestion pour participer avec les membres du jury à la correction des épreuves.
+
+" L'épreuve écrite est anonyme ; chaque composition est corrigée par deux correcteurs. "
