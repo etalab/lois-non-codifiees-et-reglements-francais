@@ -1,7 +1,15 @@
 # Article 5
 
-L'étude d'impact est insérée dans les dossiers soumis à enquête publique lorsqu'une telle procédure est prévue.
+I. L'étude d'impact est insérée dans les dossiers soumis à enquête publique lorsqu'une telle procédure est prévue.
 
-" Lorsqu'elle constate qu'un projet dont la demande d'autorisation lui est présentée est susceptible d'avoir des incidences notables sur l'environnement d'un autre Etat membre de la Communauté économique européenne, l'autorité compétente pour organiser l'enquête publique transmet le dossier au ministre des affaires étrangères. Le ministre des affaires étrangères communique à l'Etat concerné le dossier de demande d'autorisation avant l'ouverture de l'enquête publique, en lui indiquant les délais prévisibles de la procédure.
+II. - Il est créé dans chaque préfecture un fichier départemental des études d'impact qui indique pour chaque projet l'identité du maître d'ouvrage, l'intitulé du projet, la date de la décision d'autorisation ou d'approbation du projet et l'autorité qui a pris la décision, le lieu où l'étude d'impact peut être consultée. Ce fichier est tenu à la disposition du public.
 
-" Lorsqu'un Etat membre de la Communauté dont l'environnement est susceptible d'être affecté notablement par un projet en fait la demande, le ministre des affaires étrangères lui communique le dossier de demande d'autorisation. "
+Lorsque la décision d'autorisation ou d'approbation du projet ne relève pas de la compétence d'une autorité de l'Etat, un exemplaire du résumé non technique de l'étude d'impact est adressé par l'autorité compétente à la préfecture du département du lieu d'implantation du projet, accompagné des informations mentionnées à l'alinéa précédent.
+
+III. - Lorsque l'autorité compétente estime qu'un projet est susceptible d'avoir des incidences notables sur l'environnement d'un autre Etat, membre de l'Union européenne ou partie à la convention d'Espoo, ou lorsque les autorités de cet autre Etat en font la demande, cette autorité, sitôt après avoir pris l'arrêté ouvrant l'enquête publique, transmet un exemplaire du dossier aux autorités de cet Etat, en leur indiquant les délais de la procédure. Elle en informe au préalable le ministre des affaires étrangères.
+
+Lorsque l'autorité compétente est une collectivité territoriale, elle fait transmettre le dossier par le préfet du département.
+
+L'autorité compétente pour prendre la décision d'autorisation ou d'approbation du projet adresse aux autorités de l'Etat concerné le contenu de la décision accompagné des informations prévues par l'article L. 122-1 du code de l'environnement et par l'article 8-2 du présent décret.
+
+Les délais prévus par les procédures réglementaires applicables aux projets en cause sont augmentés, le cas échéant, pour tenir compte du délai de consultation des autorités étrangères.

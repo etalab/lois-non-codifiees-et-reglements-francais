@@ -122,11 +122,11 @@ Construction de canalisations souterraines dans une nouvelle emprise lorsque le 
 
 Permis autorisant :
 
-a) La création d'une superficie hors oeuvre nette nouvelle supérieure à 5 000 mètres carrés sur le territoire d'une commune non dotée, à la date du dépôt de la demande, d'un plan d'occupation des sols ou d'un document en tenant lieu ayant fait l'objet d'une enquête publique ;
+a) La création d'une superficie hors oeuvre brute nouvelle supérieure à 5 000 mètres carrés sur le territoire d'une commune non dotée, à la date du dépôt de la demande, d'un plan d'occupation des sols ou d'un document en tenant lieu ayant fait l'objet d'une enquête publique ;
 
 b) La construction d'immeubles à usage d'habitation ou de bureau d'une hauteur au-dessus du sol supérieure ou égale à 50 mètres ;
 
-c) La création d'une superficie hors oeuvre brute nouvelle à usage de commerce supérieure à 10 000 mètres carrés ;
+c) La création d'une superficie hors oeuvre nette nouvelle à usage de commerce supérieure à 10 000 mètres carrés ;
 
 d) La construction d'équipements culturels, sportifs ou de loisirs susceptibles d'accueillir plus de 5 000 personnes.
 
@@ -231,3 +231,15 @@ a) Terrains de golf d'un coût total égal ou supérieur à 1 900 000 euros ou a
 b) Bases de plein air et de loisirs d'un montant égal ou supérieur à 1 900 000 euros.
 
 c) Terrains aménagés pour la pratique de sports ou loisirs motorisés dont l'emprise totale est supérieure à 4 hectares.
+
+38° Annulé par décision n° 264359 du Conseil d'Etat en date du 27 juillet 2005.
+
+39° Premiers boisements soumis à l'autorisation de l'article L. 126-1 du code rural.
+
+Premiers boisements d'un seul tenant portant sur une superficie d'au moins 25 hectares.
+
+40° Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive.
+
+Projets portant sur une superficie d'au moins 50 hectares.
+
+1985.
