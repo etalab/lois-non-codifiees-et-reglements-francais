@@ -1,6 +1,6 @@
 # Article 7
 
-I. - La liste d'aptitude est divisée en trois sections : la 1re et la 3e section peuvent comprendre les emplois de toutes les classes. La 2e section ne comprend que les emplois des classes C 2, C 1 et B 1.
+I. - La liste d'aptitude est divisée en trois sections : la 1re et la 3e section peuvent comprendre les emplois de toutes les classes ; la deuxième ne comprend que les emplois des classes C 2 et C 1.
 
 II - Peuvent être inscrits en 1re section les candidats anciens élèves du Centre national d'études supérieures de sécurité sociale et assimilés, mentionnés au deuxième alinéa de l'article R. 123-45 du code de la sécurité sociale et au troisième alinéa (1°, 2° et 3°) du même article.
 
@@ -8,7 +8,7 @@ III - Peuvent être inscrites en deuxième section :
 
 Les personnes qui remplissent les conditions fixées à l'article 6 ci-dessus, qui n'ont pas vocation à être inscrites en première section et qui sont âgées de quarante ans au moins.
 
-Le nombre des candidats inscrits en 2e section au titre des classes C 1 et B 1 ne peut excéder le cinquième du nombre total des candidats inscrits en 1re section.
+Le nombre de candidats inscrits en 2e section au titre de la classe C 1 ne peut excéder le cinquième du nombre total des candidats inscrits en 1re section.
 
 En vue de permettre des inscriptions en deuxième section au titre de la classe C-2 exclusivement, cette proportion pourra être portée au tiers du nombre total des candidats inscrits en première section.
 

@@ -8,4 +8,4 @@ Agents occupant un emploi affecté d'un coefficient au moins égal au coefficien
 
 Groupe 2
 
-Agents occupant un emploi affecté d'un coefficient au moins égal au coefficient de carrière afférent à un emploi du niveau 7 de l'échelle des employés et cadres figurant dans la classification des emplois des organismes de sécurité sociale et de leurs établissements.
+Agents ayant vocation à être inscrits en 1re section, occupant un emploi affecté d'un coefficient au moins égal au coefficient de carrière afférent à un emploi du niveau 7 de l'échelle des employés et cadres figurant dans la classification des emplois des organismes de sécurité sociale et de leurs établissements.
