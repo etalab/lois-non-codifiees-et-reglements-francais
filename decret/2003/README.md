@@ -270,6 +270,7 @@
 - [Décret n°2003-437 du 15 mai 2003 (INTD0300091D)](decret-n2003-437-du-15-mai-2003-intd0300091d)
 - [Décret n°2003-438 du 15 mai 2003 (JUSB0310234D)](decret-n2003-438-du-15-mai-2003-jusb0310234d)
 - [Décret n°2003-454 du 15 mai 2003 (FPPA0300018D)](decret-n2003-454-du-15-mai-2003-fppa0300018d)
+- [Décret n°2000-522 du 16 juin 2000 (ECOP0000436D)](decret-n2000-522-du-16-juin-2000-ecop0000436d)
 - [Décret n°2003-1008 du 16 octobre 2003 (MENF0301877D)](decret-n2003-1008-du-16-octobre-2003-menf0301877d)
 - [Décret n°2003-1227 du 16 décembre 2003 (INDI0302107D)](decret-n2003-1227-du-16-decembre-2003-indi0302107d)
 - [Décret n°2003-1228 du 16 décembre 2003 (DEVP0310086D)](decret-n2003-1228-du-16-decembre-2003-devp0310086d)
