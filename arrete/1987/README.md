@@ -726,4 +726,3 @@
 - [Arrêté du 31 mars 1987 (EQUC8700109A)](arrete-du-31-mars-1987-equc8700109a)
 - [Arrêté du 31 mars 1987 (MENU8700201A)](arrete-du-31-mars-1987-menu8700201a)
 - [Arrêté du 31 mars 1987 (PRMJ8760027A)](arrete-du-31-mars-1987-prmj8760027a)
-- [Arrêté du 31 mars 1987 (RESZ8700168A)](arrete-du-31-mars-1987-resz8700168a)
