@@ -12,4 +12,6 @@ Nul ne peut être huissier de justice, s'il ne remplit les conditions suivantes 
 
 5° Etre titulaire soit de la maîtrise en droit, soit de l'un des titres ou diplômes qui seront reconnus comme équivalents pour l'exercice de la profession d'huissier de justice par arrêté du garde des sceaux, ministre de la justice.
 
-6° Avoir accompli un stage dans les conditions prévues au chapitre II, sous réserve des dispenses prévues aux articles 2, 3, 4 et 5 ; 7° Avoir subi l'examen professionnel prévu au chapitre III, sous réserve des dispenses prévues aux articles 2, 3, et 4.
+6° Avoir accompli un stage dans les conditions prévues au chapitre II, sous réserve des dispenses prévues aux articles 2, 3, 4, 5, 5-1, 5-2 et 5-3 ;
+
+7° Avoir subi l'examen professionnel prévu au chapitre III, sous réserve des dispenses prévues aux articles 2, 3, 4, 5-2 et 5-3.
