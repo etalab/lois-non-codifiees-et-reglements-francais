@@ -935,7 +935,6 @@
 - [Arrêté du 21 mars 1995 (INTE9500147A)](arrete-du-21-mars-1995-inte9500147a)
 - [Arrêté du 21 mars 1995 (SANP9501118A)](arrete-du-21-mars-1995-sanp9501118a)
 - [Arrêté du 21 novembre 1994 (DEFL9402193A)](arrete-du-21-novembre-1994-defl9402193a)
-- [Arrêté du 21 novembre 1994 (INTE9400589A)](arrete-du-21-novembre-1994-inte9400589a)
 - [Arrêté du 21 novembre 1994 (INTE9400596A)](arrete-du-21-novembre-1994-inte9400596a)
 - [Arrêté du 21 novembre 1995 (MCCK9500551A)](arrete-du-21-novembre-1995-mcck9500551a)
 - [Arrêté du 21 septembre 1994 (INTE9400508A)](arrete-du-21-septembre-1994-inte9400508a)

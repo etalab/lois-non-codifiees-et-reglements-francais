@@ -1,3 +1,0 @@
-# Article 8
-
-En application de l'article 8-1 du décret n° 90-852 du 25 septembre 1990 et de l'article 8-1 du décret n° 90-853 du 25 septembre 1990 modifiés susvisés, il est institué une commission nationale chargée d'émettre un avis sur la possibilité pour les anciens sapeurs-pompiers volontaires, sapeurs-pompiers de la brigade de sapeurs-pompiers de Paris, marins-pompiers du bataillon de marins-pompiers de Marseille, militaires des formations militaires de la sécurité civile ou les anciens sapeurs-pompiers auxiliaires de participer en tout ou partie à des missions opérationnelles en qualité de lieutenant de 2e classe stagiaire et de capitaine stagiaire, compte tenu des formations acquises.

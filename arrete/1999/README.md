@@ -559,7 +559,6 @@
 - [Arrêté du 23 décembre 1999 (MESS9924032A)](arrete-du-23-decembre-1999-mess9924032a)
 - [Arrêté du 23 février 1998 (ATEE9870093A)](arrete-du-23-fevrier-1998-atee9870093a)
 - [Arrêté du 23 février 1999 (INTC9900104A)](arrete-du-23-fevrier-1999-intc9900104a)
-- [Arrêté du 23 février 1999 (INTE9900099A)](arrete-du-23-fevrier-1999-inte9900099a)
 - [Arrêté du 23 juillet 1999 (ECOT9910378A)](arrete-du-23-juillet-1999-ecot9910378a)
 - [Arrêté du 23 juillet 1999 (ECOT9910379A)](arrete-du-23-juillet-1999-ecot9910379a)
 - [Arrêté du 23 juillet 1999 (ECOT9926251A)](arrete-du-23-juillet-1999-ecot9926251a)

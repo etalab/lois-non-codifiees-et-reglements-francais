@@ -1,3 +1,0 @@
-# Article 1
-
-En application de l'article 7-1 du décret n° 90-851 du 25 septembre 1990 modifié susvisé, il est institué, auprès de chaque service départemental d'incendie et de secours, une commission chargée d'émettre un avis sur la possibilité pour les anciens sapeurs-pompiers volontaires, sapeurs-pompiers de la brigade de sapeurs-pompiers de Paris, marins-pompiers du bataillon de marins-pompiers de Marseille, militaires des formations militaires de la sécurité civile ou les anciens sapeurs-pompiers auxiliaires de participer en tout ou partie à des missions opérationnelles en qualité de sapeur de 2e classe stagiaire, compte tenu des formations acquises.
