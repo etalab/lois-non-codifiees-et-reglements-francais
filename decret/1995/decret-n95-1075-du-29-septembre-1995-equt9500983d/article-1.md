@@ -15,3 +15,5 @@ Les autorités compétentes visées au règlement de visite des bateaux du Rhin 
 - pour l'application des articles 23.02 (Membres de l'équipage - qualifications), 23.04 (Preuve de qualification - livret de service) et 23.08 (Livre de bord - tachygraphe) dudit règlement, les chefs de service de la navigation du Nord - Pas-de-Calais, de la Seine, de Nancy et de Strasbourg agissant chacun en ce qui le concerne ;
 
 - pour l'application de l'article 23.03 (Membres de l'équipage - aptitude) dudit règlement, les chefs de service de la navigation du Nord - Pas-de-Calais, de la Seine, de Nancy et de Strasbourg, agissant chacun en ce qui le concerne. Pour l'application du chiffre 4 de l'article 23.03, les agents de la compagnie fluviale de gendarmerie du Rhin sont également l'autorité compétente.
+
+- pour l'application du chapitre 8 bis et de l'annexe J dudit règlement, le sous-directeur des transports par voies navigables.
