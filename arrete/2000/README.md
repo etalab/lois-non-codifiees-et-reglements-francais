@@ -61,6 +61,7 @@
 - [Arrêté du 23 décembre 1999 (FPPA9900193A)](arrete-du-23-decembre-1999-fppa9900193a)
 - [Arrêté du 24 janvier 2000 (ECOF0000001A)](arrete-du-24-janvier-2000-ecof0000001a)
 - [Arrêté du 24 juillet 2000 (MESA0022638A)](arrete-du-24-juillet-2000-mesa0022638a)
+- [Arrêté du 25 janvier 2000 (DEFC0001133A)](arrete-du-25-janvier-2000-defc0001133a)
 - [Arrêté du 25 janvier 2000 (EQUS0000183A)](arrete-du-25-janvier-2000-equs0000183a)
 - [Arrêté du 26 décembre 2000 (MCCB0000675A)](arrete-du-26-decembre-2000-mccb0000675a)
 - [Arrêté du 26 décembre 2000 (MCCB0000688A)](arrete-du-26-decembre-2000-mccb0000688a)
