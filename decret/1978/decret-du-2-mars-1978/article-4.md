@@ -1,0 +1,7 @@
+# Article 4
+
+Electricité de France présentera au ministre de l'industrie, du commerce et de l'artisanat, avant l'arrivée du premier élément combustible dans l'installation, tous les éléments permettant de s'assurer que, compte tenu de la réalisation de l'installation, les prescriptions de l'article 3 du présent décret sont ou pourront être respectées et que, compte tenu des règles générales d'exploitation qu'Electricité de France compte suivre, le magasin pourra être exploité dans des conditions de sûreté satisfaisantes. En particulier, Electricité de France devra présenter toutes justifications pour ce qui concerne le dimensionnement et la réalisation des potences, des supports des éléments combustibles, du poste d'examen et du pont roulant ainsi que les règles générales d'exploitation qu'il propose.
+
+L'arrivée du premier élément combustible dans l'installation ne pourra intervenir qu'après que le ministre de l'industrie, du commerce et de l'artisanat aura donné son approbation à cette opération et qu'auront été apportées, à sa demande, les modifications à l'installation et aux règles générales d'exploitation qu'il aura, le cas échéant, jugées nécessaires pour assurer la conformité de l'installation aux prescriptions du présent décret et pour que l'exploitation puisse être effectuée dans des conditions satisfaisantes de sûreté.
+
+L'installation sera considérée comme mise en exploitation, au sens de l'article 17 de la loi n° 75-1242 du 27 décembre 1975, deux mois après l'approbation prévue à l'alinéa ci-dessus.
