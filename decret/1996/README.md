@@ -109,6 +109,8 @@
 - [Décret n°96-316 du 9 avril 1996 (TASS9620286D)](decret-n96-316-du-9-avril-1996-tass9620286d)
 - [Décret n°96-613 du 9 juillet 1996 (ENVN9640033D)](decret-n96-613-du-9-juillet-1996-envn9640033d)
 - [Décret n°96-615 du 9 juillet 1996 (EQUT9600672D)](decret-n96-615-du-9-juillet-1996-equt9600672d)
+- [Décret n°96-625 du 9 juillet 1996 (ENVG9640042D)](decret-n96-625-du-9-juillet-1996-envg9640042d)
+- [Décret n°96-626 du 9 juillet 1996 (ENVE9640017D)](decret-n96-626-du-9-juillet-1996-enve9640017d)
 - [Décret n°95-708 du 9 mai 1995 (LOGC9500040D)](decret-n95-708-du-9-mai-1995-logc9500040d)
 - [Décret n°96-379 du 9 mai 1996 (EQUP9600253D)](decret-n96-379-du-9-mai-1996-equp9600253d)
 - [Décret n°96-380 du 9 mai 1996 (EQUP9600276D)](decret-n96-380-du-9-mai-1996-equp9600276d)
