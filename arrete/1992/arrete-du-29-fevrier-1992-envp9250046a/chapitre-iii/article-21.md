@@ -1,6 +1,6 @@
 # Article 21
 
-1° Les effluents et les déjections solides de l'exploitant incluant ceux de l'élevage bovin et ceux des autres activités d'élevage exercées au sein de cette exploitation sont soumis à une épuration naturelle par le sol et son couvert végétal, dans les conditions précisées ci-après.
+1° Les effluents et les déjections solides produits par l'exploitation incluant ceux de l'élevage bovin et ceux des autres activités d'élevage exercées au sein de cette exploitation sont soumis à une épuration naturelle par le sol et son couvert végétal, dans les conditions précisées ci-après.
 
 Les apports azotés, toutes origines confondues, organique et minérale, sur les terres faisant l'objet d'un épandage, tiennent compte de la nature particulière des terrains et de la rotation des cultures. Ils ne peuvent en aucun cas dépasser les valeurs maximales suivantes :
 
@@ -12,7 +12,7 @@ Les apports azotés, toutes origines confondues, organique et minérale, sur les
 
 - sur les autres cultures de légumineuses : aucun apport azoté.
 
-Pour les cultures autres que prairies et légumineuses, une dose d'apport supérieure à 200 kg/ha/an peut être tolérée si l'azote minéral présent dans le déchet est inférieur à 20 % de l'azote global, sous réserve :
+Pour les cultures autres que prairies et légumineuses, une dose d'apport supérieure à 200 kg/ha/an peut être tolérée si l'azote minéral présent dans les effluents et déjections solides épandus est inférieur à 20 % de l'azote global, sous réserve :
 
 - que la moyenne d'apport en azote global sur cinq ans, tous apports confondus, ne dépasse pas 200 kg/ha/an ;
 

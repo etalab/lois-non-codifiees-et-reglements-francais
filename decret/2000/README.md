@@ -112,6 +112,7 @@
 - [Décret n°2000-884 du 11 septembre 2000 (ATEG0080046D)](decret-n2000-884-du-11-septembre-2000-ateg0080046d)
 - [Décret n°2000-885 du 11 septembre 2000 (ATEG0080075D)](decret-n2000-885-du-11-septembre-2000-ateg0080075d)
 - [Décret n°2000-886 du 11 septembre 2000 (ATEG0080076D)](decret-n2000-886-du-11-septembre-2000-ateg0080076d)
+- [Décret n°2000-888 du 11 septembre 2000 (ECOU0000001D)](decret-n2000-888-du-11-septembre-2000-ecou0000001d)
 - [Décret n°90-601 du 11 juillet 1990 (MCCB9000404D)](decret-n90-601-du-11-juillet-1990-mccb9000404d)
 - [Décret n°2000-655 du 12 juillet 2000 (HRUX0000127D)](decret-n2000-655-du-12-juillet-2000-hrux0000127d)
 - [Décret n°2000-881 du 12 septembre 2000 (ECOI0020290D)](decret-n2000-881-du-12-septembre-2000-ecoi0020290d)

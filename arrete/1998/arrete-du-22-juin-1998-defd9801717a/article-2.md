@@ -18,19 +18,27 @@ Il comprend :
 
 - le chef du contrôle général des armées ;
 
-- le directeur chargé des affaires stratégiques ;
-
 - le directeur central du service de santé des armées ;
 
 - le directeur central du service des essences des armées ;
 
-- le directeur des services financiers ;
+- le directeur chargé des affaires stratégiques ;
+
+- le directeur des affaires financières ;
 
 - le directeur de la fonction militaire et du personnel civil ;
 
-- le directeur de l'administration générale,
+- le directeur des affaires juridiques ;
 
-ou leur représentant.
+- le directeur de la mémoire, du patrimoine et des archives ;
+
+- le directeur des statuts, des pensions et de la réinsertion sociale ;
+
+- le directeur du service national ;
+
+- le chef du service des moyens généraux ;
+
+- le délégué à l'information et à la communication de la défense ou leurs représentants.
 
 Les présidents des instances de coordination existant au sein du ministère peuvent être appelés à participer aux réunions du comité pour la réforme et l'innovation administratives.
 
