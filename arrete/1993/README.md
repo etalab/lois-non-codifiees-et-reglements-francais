@@ -169,7 +169,6 @@
 - [Arrêté du 6 janvier 1993 (BUDR9305003A)](arrete-du-6-janvier-1993-budr9305003a)
 - [Arrêté du 6 janvier 1993 (CPTP9300003A)](arrete-du-6-janvier-1993-cptp9300003a)
 - [Arrêté du 6 janvier 1993 (ECOT9310165A)](arrete-du-6-janvier-1993-ecot9310165a)
-- [Arrêté du 6 janvier 1993 (EQUT9201025A)](arrete-du-6-janvier-1993-equt9201025a)
 - [Arrêté du 6 juillet 1993 (SPSI9301889A)](arrete-du-6-juillet-1993-spsi9301889a)
 - [Arrêté du 6 octobre 1993 (INDP9320487A)](arrete-du-6-octobre-1993-indp9320487a)
 - [Arrêté du 6 octobre 1993 (INDP9320488A)](arrete-du-6-octobre-1993-indp9320488a)
