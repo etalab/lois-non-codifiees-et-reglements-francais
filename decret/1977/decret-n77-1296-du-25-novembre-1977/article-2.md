@@ -2,6 +2,8 @@
 
 L'autorisation prévue à l'article 5 de la loi du 10 juillet 1976 est délivrée par le ministre chargé de la protection de la nature.
 
+Elle est délivrée par le commissaire de la République du département lorsqu'elle concerne des activités et des espèces animales ou végétales sauvages déterminées, après avis du Conseil national de la protection de la nature et, dans le cas prévu au dernier alinéa de l'article 1er du présent décret, du Conseil national de la chasse et de la faune sauvage, par arrêtés conjoints du ministre chargé de la protection de la nature et, en tant que de besoin, du ou des autres ministres compétents.
+
 Cette autorisation peut être délivrée :
 
 Soit pour une durée limitée, sauf renouvellement sur demande du bénéficiaire ;
