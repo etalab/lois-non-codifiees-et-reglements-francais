@@ -9,7 +9,6 @@
 - [Ordonnance n° 59-250 du 4 février 1959](ordonnance-n-59-250-du-4-fevrier-1959)
 - [Ordonnance n° 59-260 du 4 février 1959](ordonnance-n-59-260-du-4-fevrier-1959)
 - [Ordonnance n° 59-273 du 4 février 1959](ordonnance-n-59-273-du-4-fevrier-1959)
-- [Ordonnance n°59-259 du 4 février 1959](ordonnance-n59-259-du-4-fevrier-1959)
 - [Ordonnance n° 59-28 du 5 janvier 1959](ordonnance-n-59-28-du-5-janvier-1959)
 - [Ordonnance n° 59-32 du 5 janvier 1959](ordonnance-n-59-32-du-5-janvier-1959)
 - [Ordonnance n° 59-44 du 6 janvier 1959](ordonnance-n-59-44-du-6-janvier-1959)

@@ -933,7 +933,6 @@
 - [Arrêté du 21 avril 1995 (EQUH9500822A)](arrete-du-21-avril-1995-equh9500822a)
 - [Arrêté du 21 avril 1995 (EQUP9500509A)](arrete-du-21-avril-1995-equp9500509a)
 - [Arrêté du 21 avril 1995 (RESH9500584A)](arrete-du-21-avril-1995-resh9500584a)
-- [Arrêté du 21 décembre 1994 (DEFC9402268A)](arrete-du-21-decembre-1994-defc9402268a)
 - [Arrêté du 21 décembre 1994 (DEFL9501018A)](arrete-du-21-decembre-1994-defl9501018a)
 - [Arrêté du 21 décembre 1994 (TEFF9401067A)](arrete-du-21-decembre-1994-teff9401067a)
 - [Arrêté du 21 décembre 1995 (MENL9502824A)](arrete-du-21-decembre-1995-menl9502824a)
