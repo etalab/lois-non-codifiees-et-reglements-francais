@@ -2,9 +2,9 @@
 
 Peuvent être nommés au choix chef de garage principal, par voie d'inscription sur un tableau annuel d'avancement établi après avis de la commission administrative paritaire, les chefs de garage qui justifient au 1er janvier de l'année au titre de laquelle est dressé le tableau d'avancement de deux ans d'ancienneté dans le 9e échelon de leur grade.
 
-" Le grade de chef de garage principal comporte trois échelons.
+Le grade de chef de garage principal comporte trois échelons.
 
-" La durée maximale et la durée minimale du temps passé dans chaque échelon sont fixée ainsi qu'il suit :
+La durée maximale et la durée minimale du temps passé dans chaque échelon sont fixée ainsi qu'il suit :
 
 <table>
 <tr>
@@ -33,7 +33,7 @@ Peuvent être nommés au choix chef de garage principal, par voie d'inscription 
 </tr>
 </table>
 
-" Les fonctionnaires promus avant le 1er août 1992 sont reclassés dans le grade de chef de garage principal, conformément au tableau ci-après :[*non reproduit*]
+Les fonctionnaires promus avant le 1er août 1992 sont reclassés dans le grade de chef de garage principal, conformément au tableau ci-après :[*non reproduit*]
 
 Les fonctionnaires promus à compter du 1er août 1992 sont reclassés dans le grade de chef de garage principal conformément au tableau ci-après :
 
@@ -67,4 +67,4 @@ CHEF DE GARAGE PRINCIPAL :
 
 Ancienneté acquise dans la limite de 4 ans.
 
-Les chefs de garage principaux bénéficiaires de ces dispositions ne doivent pas représenter un effectif supérieur à 10 p. 100 de l'effectif des conducteurs spécialisés de second niveau, des chefs de garage et des chefs de garage principaux dans la collectivité de l'établissement. Toutefois, lorsque cet effectif est inférieur à dix et supérieur ou égal à trois, une nomination peut être prononcée.
+Les chefs de garage principaux bénéficiaires de ces dispositions ne doivent pas constituer un effectif supérieur à 15 % de l'effectif des conducteurs spécialisés de second niveau, des chefs de garage et des chefs de garage principaux dans la collectivité ou l'établissement. Toutefois, lorsque cet effectif est inférieur à sept agents et supérieur ou égal à trois agents, une nomination peut être prononcée.

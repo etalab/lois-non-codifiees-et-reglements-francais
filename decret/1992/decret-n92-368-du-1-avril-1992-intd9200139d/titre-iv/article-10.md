@@ -8,7 +8,7 @@ La durée maximale et la durée minimale du temps passé dans chaque échelon so
 
 <table>
 <tr>
-<td>:----------------------------------:</td>
+<td> :----------------------------------:</td>
 </tr>
 <tr>
 <td> :    GRADES   :        DUREES      :</td>
@@ -52,7 +52,7 @@ Les fonctionnaires promus avant le 1er août 1992 sont reclassés dans le grade 
 
 <table>
 <tr>
-<td>:-----------------------------------:</td>
+<td> :-----------------------------------:</td>
 </tr>
 <tr>
 <td> :           :                       :</td>
@@ -106,4 +106,4 @@ Les fonctionnaires promus avant le 1er août 1992 sont reclassés dans le grade 
 
 (a) 1/2 de l'ancienneté acquise au-delà de 2 ans. (b) 1/2 de l'ancienneté acquise majorée de 1 an. (c) Ancienneté acquise dans la limite de 4 ans.
 
-Les opérateurs principaux bénéficiaires de ces dispositions ne doivent pas représenter un effectif supérieur à 10 p. 100 de l'effectif total du cadre d'emplois dans la collectivité ou l'établissement. Toutefois, lorsque cet effectif est inférieur à dix et supérieur ou égal à trois, une nomination peut être prononcée.
+Les opérateurs principaux bénéficiaires de ces dispositions ne doivent pas constituer un effectif supérieur à 15 % de l'effectif total du cadre d'emplois dans la collectivité ou l'établissement. Toutefois, lorsque cet effectif est inférieur à sept agents et supérieur ou égal à trois agents, une nomination peut être prononcée.

@@ -67,4 +67,4 @@ AGENT DE SALUBRITE EN CHEF
 
 Ancienneté acquise dans la limite de 4 ans.
 
-Les agents de salubrité en chef bénéficiaires de ces dispositions ne doivent pas représenter un effectif supérieur à 10 p. 100 de l'effectif des agents de salubrité qualifiés, agents de salubrité principaux et agents de salubrité en chef dans la collectivité ou l'établissement. Toutefois, lorsque cet effectif est inférieur à dix et supérieur ou égal à trois, une nomination peut être prononcée.
+Les agents de salubrité en chef bénéficiaires de ces dispositions ne doivent pas constituer un effectif supérieur à 15 % de l'effectif des agents de salubrité qualifiés, des agents de salubrité principaux et des agents de salubrité en chef dans la collectivité ou l'établissement. Toutefois, lorsque cet effectif est inférieur à sept agents et supérieur ou égal à trois agents, une nomination peut être prononcée.

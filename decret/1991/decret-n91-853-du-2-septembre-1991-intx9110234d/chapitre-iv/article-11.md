@@ -36,7 +36,7 @@ La durée maximale et la durée minimale du temps passé dans chaque échelon so
 </tr>
 </table>
 
-Les fonctionnaires promus avant le 1er août 1992 sont reclassés dans le grade d'agent territorial qualifié du patrimoine hors classe, conformément au tableau ci-après : [*non reproduit*]---Les fonctionnaires promus à compter du 1er août 1992 sont reclassés dans le grade d'agent territorial qualifié du patrimoine hors classe conformément au tableau ci-après:
+Les fonctionnaires promus avant le 1er août 1992 sont reclassés dans le grade d'agent territorial qualifié du patrimoine hors classe, conformément au tableau ci-après : [*non reproduit*] ---Les fonctionnaires promus à compter du 1er août 1992 sont reclassés dans le grade d'agent territorial qualifié du patrimoine hors classe conformément au tableau ci-après:
 
 <table>
 <tr>
@@ -120,8 +120,11 @@ Les fonctionnaires promus avant le 1er août 1992 sont reclassés dans le grade 
 <tr>
 <td> : 11e échelon : échelon : ancienneté :</td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td> :             :         :   acquise  :</td>
+<td>:             :         :   acquise  :</td>
 </tr>
 <tr>
 <td> :             :         :   dans la  :</td>
@@ -137,4 +140,4 @@ Les fonctionnaires promus avant le 1er août 1992 sont reclassés dans le grade 
 </tr>
 </table>
 
-Les agents territoriaux qualifiés du patrimoine hors classe bénéficiaires de ces dispositions ne doivent pas représenter un effectif supérieur à 10 p. 100 de l'effectif total du cadre d'emplois dans la collectivité ou l'établissement. Toutefois, lorsque cet effectif est inférieur à dix et supérieur ou égal à trois, une nomination peut être prononcée.
+Les agents qualifiés du patrimoine hors classe bénéficiaires de ces dispositions ne doivent pas constituer un effectif supérieur à 15 % de l'effectif total du cadre d'emplois dans la collectivité ou l'établissement. Toutefois, lorsque cet effectif est inférieur à sept agents et supérieur ou égal à trois agents, une nomination peut être prononcée.
