@@ -1,4 +1,0 @@
-# Décret n°59-389 du 10 mars 1959 PORTANT STATUT DU CONSEIL SUPERIEUR DES FRANCAIS DE L'ETRANGER.
-
-- [Article 1](article-1.md)
-- [TITRE 2](titre-2)

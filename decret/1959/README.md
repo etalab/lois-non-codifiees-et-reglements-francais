@@ -16,7 +16,6 @@
 - [Décret n°59-275 du 7 février 1959](decret-n59-275-du-7-fevrier-1959)
 - [Décret n°59-525 du 7 avril 1959](decret-n59-525-du-7-avril-1959)
 - [Décret n°59-707 du 8 juin 1959](decret-n59-707-du-8-juin-1959)
-- [Décret n°59-389 du 10 mars 1959](decret-n59-389-du-10-mars-1959)
 - [Décret n°59-984 du 12 août 1959](decret-n59-984-du-12-aout-1959)
 - [Décret n°59-1292 du 13 novembre 1959](decret-n59-1292-du-13-novembre-1959)
 - [Décret n°59-1293 du 13 novembre 1959](decret-n59-1293-du-13-novembre-1959)
