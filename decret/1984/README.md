@@ -15,6 +15,8 @@
 - [Décret n°84-247 du 5 avril 1984](decret-n84-247-du-5-avril-1984)
 - [Décret n°84-248 du 5 avril 1984](decret-n84-248-du-5-avril-1984)
 - [Décret n°84-254 du 5 avril 1984](decret-n84-254-du-5-avril-1984)
+- [Décret n°84-251 du 6 avril 1984](decret-n84-251-du-6-avril-1984)
+- [Décret n°84-252 du 6 avril 1984](decret-n84-252-du-6-avril-1984)
 - [Décret n°83-903 du 7 octobre 1983](decret-n83-903-du-7-octobre-1983)
 - [Décret n°84-1127 du 7 décembre 1984](decret-n84-1127-du-7-decembre-1984)
 - [Décret n°84-344 du 7 mai 1984](decret-n84-344-du-7-mai-1984)

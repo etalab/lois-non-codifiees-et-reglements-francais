@@ -1,0 +1,3 @@
+# VII. - ACTIVITES DU GROUPE INTERPROFESSIONNEL
+
+- [Article 11](article-11.md)

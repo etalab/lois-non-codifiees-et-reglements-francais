@@ -1,0 +1,5 @@
+# Article 1
+
+La cotisation due au titre des accidents du travail et des maladies professionnelles visée à l'article 2 de l'arrêté du 1er octobre 1976 est fixée pour les industries de la métallurgie, les industries du bois, les industries chimiques, les industries des pierres et terres à feu, les industries du caoutchouc, papier, carton, les industries du livre, les industries textiles, les industries du vêtement, les industries des cuirs et peaux, pelleteries et fourrures, les industries et commerces de l'alimentation, les industries des transports et de la manutention, les industries de l'eau, du gaz et de l'électricité, les commerces non alimentaires, les activités du groupe interprofessionnel, et dans les départements d'outre-mer, d'après les tarifs annexés au présent arrêté (non reproduit).
+
+Sous réserve des modalités prévues à l'article 2 ci-dessous, ces tarifs sont applicables, d'une part, aux établissements dont l'effectif habituel de salariés est inférieur à 20 et, d'autre part, aux établissements d'une même entreprise lorsque l'effectif global de salariés de ladite entreprise est inférieur à 20.

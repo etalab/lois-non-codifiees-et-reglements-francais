@@ -1,0 +1,7 @@
+# Article 27
+
+Dans les circonscriptions où est élu un seul membre du conseil supérieur des Français de l'étranger, les candidats sont tenus de faire une déclaration revêtue de leur signature, énonçant leur nom, leurs prénoms, la date et le lieu de leur naissance, leur domicile et leur profession [*mentions obligatoires*].
+
+Cette déclaration doit également indiquer le nom, les prénoms, la date et le lieu de naissance, le domicile et la profession de la personne appelée à remplacer le candidat élu en cas de vacance du siège. Elle doit être accompagnée de l'acceptation écrite du remplaçant ; celui-ci doit remplir les conditions d'éligibilité exigées des candidats.
+
+La déclaration de candidature doit être déposée au siège de la mission diplomatique située au chef-lieu de la circonscription électorale concernée ou, en l'absence de mission diplomatique à ce chef-lieu, au poste consulaire qui y est installé. Elle est reçue dès la publication de l'arrêté convoquant les électeurs et au plus tard le soixantième jour précédant la date de l'élection. Les candidats éloignés du chef-lieu de la circonscription remettent leur déclaration de candidature au poste diplomatique ou consulaire le plus proche ou, s'ils se trouvent en déplacement en France, au secrétariat du conseil supérieur des Français de l'étranger. Le remplaçant procède de même, pour son acceptation écrite, s'il se trouve éloigné du chef-lieu de la circonscription.

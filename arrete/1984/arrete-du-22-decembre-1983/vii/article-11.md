@@ -1,0 +1,3 @@
+# Article 11
+
+En application de l'article 7 de l'arrêté du 1er octobre 1976, le nombre de salariés des administrations communales est obtenu, le cas échéant, en divisant par 300 le nombre total de journées de travail accomplies au cours de la dernière année civile connue. L'effectif des établissements de location de main-d'oeuvre est égal à la moyenne des nombres de salariés présents au dernier jour de chaque mois de la dernière année connue. Le nombre de salariés des entreprises qui exploitent plusieurs établissements de location de main-d'oeuvre est égal à la somme des nombres de salariés de chaque établissement, déterminés dans les conditions ci-dessus.

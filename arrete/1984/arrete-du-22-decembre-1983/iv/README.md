@@ -1,0 +1,3 @@
+# IV. - INDUSTRIES ET COMMERCES DE L'ALIMENTATION.
+
+- [Article 6](article-6.md)
