@@ -1,105 +1,105 @@
 # Article Annexe I
 
-Plafonds de prêts définis aux articles 2 et 4 de l'arrêté du 29 juillet 1977 modifié.
+Plafonds de prêts définis aux articles 1 et 4 de l'arrêté du 29 juillet 1977 modifié.
 
 COMPOSITION DU MENAGE : (Ressources inférieures à 70 % des plafonds)
 
 - 1° Une personne seule ou deux personnes sans aucune personne à charge à l'exclusion des jeunes ménages :
 
-- Zone 1 : 286.275
+- Zone 1 : 343.530
 
-- Zone 2 : 263.536
+- Zone 2 : 289.890
 
-- Zone 3 : 246.072
+- Zone 3 : 253.454
 
 - 2° Trois personnes ou une personne seule avec une personne à charge à l'exclusion des jeunes ménages :
 
-- Zone 1 : 374.780
+- Zone 1 : 449.736
 
-- Zone 2 : 343.707
+- Zone 2 : 378.078
 
-- Zone 3 : 317.985
+- Zone 3 : 327.525
 
 - 3° Jeune ménage sans ou avec une personne à charge :
 
-- Zone 1 : 452.312
+- Zone 1 : 542.774
 
-- Zone 2 : 413.948
+- Zone 2 : 455.343
 
-- Zone 3 : 380.980
+- Zone 3 : 392.409
 
 4° Quatre personnes ou une personne seule avec deux personnes à charge :
 
-- Zone 1 : 499.374
+- Zone 1 : 599.249
 
-- Zone 2 : 456.373
+- Zone 2 : 502.010
 
-- Zone 3 : 418.594
+- Zone 3 : 431.152
 
 5° Cinq personnes ou une personne seule avec trois personnes à charge :
 
-- Zone 1 : 578.465
+- Zone 1 : 694.158
 
-- Zone 2 : 528.021
+- Zone 2 : 580.823
 
-- Zone 3 : 482.857
+- Zone 3 : 497.343
 
 6° Six personnes ou une personne seule avec quatre personnes à charge :
 
-- Zone 1 : 636.418
+- Zone 1 : 763.702
 
-- Zone 2 : 580.536
+- Zone 2 : 638.590
 
-- Zone 3 : 529.940
+- Zone 3 : 545.838
 
 7° Sept ou huit personnes ou une personne seule avec cinq ou six personnes à charge :
 
-- Zone 1 : 715.589
+- Zone 1 : 858.707
 
-- Zone 2 : 652.262
+- Zone 2 : 717.488
 
-- Zone 3 : 594.296
+- Zone 3 : 612.125
 
 8° Par personne supplémentaire :
 
-- Zone 1 : 73.825
+- Zone 1 : 88.590
 
-- Zone 2 : 66.872
+- Zone 2 : 73.559
 
-- Zone 3 : 59.974.
+- Zone 3 : 61.773
 
-Ménages comportant trois enfants au oins dnt un de moins de quatre ans à la date du dép<CB>t de la demande de décision favorable de prêt.
+Ménages comportant trois enfants au oins dnt un de moins de quatre ans à la date du dépôt de la demande de décision favorable de prêt.
 
 COMPOSITION DU MENAGE :
 
 Cinq personnes ou une personne seule avec trois personnes à charge :
 
-- Zone 1 : 723.082
+- Zone 1 : 867.698
 
-- Zone 2 : 660.037
+- Zone 2 : 726.041
 
-- Zone 3 : 603.574
+- Zone 3 : 621.681
 
 Six personnes ou une personne seule avec quatre personnes à charge :
 
-- Zone 1 : 795.523
+- Zone 1 : 954.628
 
-- Zone 2 : 725.659
+- Zone 2 : 798.225
 
-- Zone 3 : 662.440
+- Zone 3 : 682.313
 
 Sept ou huit personnes ou une personne seule avec cinq ou six personnes à charge :
 
-- Zone 1 : 894.497
+- Zone 1 : 1 073.396
 
-- Zone 2 : 815.316
+- Zone 2 : 896.848
 
-- Zone 3 : 742.869
+- Zone 3 : 765.155
 
 Par personne supplémentaire :
 
-- Zone 1 :  92.272
+- Zone 1 : 110.726
 
-- Zone 2 :  83.597
+- Zone 2 : 91.957
 
-- Zone 3 :  74.978.
+- Zone 3 : 77.227

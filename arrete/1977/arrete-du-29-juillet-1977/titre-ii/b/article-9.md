@@ -12,12 +12,12 @@ Lorsque les prêts sont consentis à taux révisables, en application des dispos
 
 " 2° Sous réserve de l'effet des clauses de révision :
 
-" Les taux d'intérêt sont de 8,45 p. 100 pour les prêts de quinze ans, de 8,61 p. 100 pour les prêts de dix-huit ans et de 8,70 p. 100 pour les prêts de vingt ans.
+" Les taux d'intérêt sont de 7,20 p. 100 pour les prêts de quinze ans, de 7,35 p. 100 pour les prêts de dix-huit ans et de 7,45 p. 100 pour les prêts de vingt ans.
 
-" La troisième annuité est égale à 11,30 p. 100 du nominal pour les prêts de quinze ans, à 9,96 p. 100 du nominal pour les prêts de dix-huit ans et à 9,34 p. 100 du nominal pour les prêts de vingt ans.
+" La troisième annuité est égale à 11,21 p. 100 du nominal pour les prêts de quinze ans, à 9,88 p. 100 du nominal pour les prêts de dix-huit ans et à 9,28 p. 100 du nominal pour les prêts de vingt ans.
 
-" A partir de la quatrième année, et jusqu'à l'expiration du prêt, ces annuités progressent de 2,75 p. 100 l'an.
+" A partir de la quatrième année, et jusqu'à l'expiration du prêt, ces annuités progressent de 1,50 p. 100 l'an.
 
-" Les taux actuariels théoriques de ce prêt supposé versé en une seule fois et remboursé par annuité sont de 8,45 p. 100 du nominal pour les prêts de quinze ans, de 8,61 p. 100 du nominal pour les prêts de dix-huit ans et de 8,70 p. 100 du nominal pour les prêts de vingt ans.
+" Les taux actuariels théoriques de ce prêt supposé versé en une seule fois et remboursé par annuité sont de 7,20 p. 100 du nominal pour les prêts de quinze ans, de 7,35 p. 100 du nominal pour les prêts de dix-huit ans et de 7,45 p. 100 du nominal pour les prêts de vingt ans. "
 
 " 3° Ces prêts sont assortis d'un différé d'amortissement de deux ans. "

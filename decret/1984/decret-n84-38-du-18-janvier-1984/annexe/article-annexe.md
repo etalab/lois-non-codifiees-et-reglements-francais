@@ -212,6 +212,14 @@ Emplois de catégorie A, B, C et D
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
+Etablissement public du musée du louvre
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois des services de l'auditorium, de l'informatique, des expositions temporaires et de la communication, à l'exception des chefs de service
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
 Etablissement public du musée d'Orsay
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
