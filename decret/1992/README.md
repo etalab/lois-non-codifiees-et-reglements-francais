@@ -96,6 +96,7 @@
 - [Décret n°92-1125 du 2 octobre 1992 (BUDF9220540D)](decret-n92-1125-du-2-octobre-1992-budf9220540d)
 - [Décret n°92-1126 du 2 octobre 1992 (BUDR9206036D)](decret-n92-1126-du-2-octobre-1992-budr9206036d)
 - [Décret n°92-1127 du 2 octobre 1992 (SPSC9202056D)](decret-n92-1127-du-2-octobre-1992-spsc9202056d)
+- [Décret n°92-1129 du 2 octobre 1992 (ECOS9260002D)](decret-n92-1129-du-2-octobre-1992-ecos9260002d)
 - [Décret n°92-1177 du 2 novembre 1992 (MENX9200137D)](decret-n92-1177-du-2-novembre-1992-menx9200137d)
 - [Décret n°92-15 du 2 janvier 1992 (INDD9100696D)](decret-n92-15-du-2-janvier-1992-indd9100696d)
 - [Décret n°92-16 du 2 janvier 1992 (SPSS9102586D)](decret-n92-16-du-2-janvier-1992-spss9102586d)
