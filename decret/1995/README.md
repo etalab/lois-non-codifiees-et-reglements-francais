@@ -474,6 +474,7 @@
 - [Décret n°95-319 du 17 mars 1995 (EQUA9500331D)](decret-n95-319-du-17-mars-1995-equa9500331d)
 - [Décret n°95-322 du 17 mars 1995 (BUDB9560005D)](decret-n95-322-du-17-mars-1995-budb9560005d)
 - [Décret n°95-54 du 17 janvier 1995 (ACVA9410116D)](decret-n95-54-du-17-janvier-1995-acva9410116d)
+- [Décret n°95-841 du 17 juillet 1995 (ECOT9551448D)](decret-n95-841-du-17-juillet-1995-ecot9551448d)
 - [Décret n°95-405 du 18 avril 1995 (EQUA9500701D)](decret-n95-405-du-18-avril-1995-equa9500701d)
 - [Décret n°95-408 du 18 avril 1995 (ENVP9530012D)](decret-n95-408-du-18-avril-1995-envp9530012d)
 - [Décret n°95-409 du 18 avril 1995 (ENVP9530013D)](decret-n95-409-du-18-avril-1995-envp9530013d)
