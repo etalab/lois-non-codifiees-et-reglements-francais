@@ -1,3 +1,3 @@
 # Article 1
 
-Les fromages frais, à l'exception des fromages dits "petits suisses" et des fromages de même présentation, conditionnés en préemballages par quantité nominale comprise entre 5 grammes inclus et 10 kilogrammes inclus, et non destinés exclusivement à l'usage professionnel, ne peuvent être importés, détenus en vue de la vente, mis en vente ou vendus que dans des emballages renfermant les quantités nominales suivantes, exprimées en utilisant comme unité de mesure le gramme ou le kilogramme : 62,5, 100, 125, 150, 200, 250, 400, 500, 1.000, 1.500, 2.000, 2.500, 5.000, 10.000 (valeurs en grammes).
+Le taux de la retenue prévue à l'article 3 du décret susvisé est fixé à 15 % de la rémunération visée à l'article 2 du  décret n° 67-600 du 23 juillet 1967 modifié relatif au régime de rémunération des magistrats et fonctionnaires de l'Etat en service dans les territoires d'outre-mer.

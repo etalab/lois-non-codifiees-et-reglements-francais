@@ -1,3 +1,3 @@
 # Article 4
 
-Le directeur général de la concurrence, de la consommation et de la répression des fraudes et le directeur général des douanes et droits indirects au secrétariat d'Etat auprès du ministre de l'économie, des finances et du budget, chargé du budget et de la consommation, le directeur de la qualité et le directeur des industries agricoles et alimentaires au ministère de l'agriculture, le directeur de la qualité et de la sécurité industrielles (service de la Métrologie) au ministère du redéploiement industriel et du commerce extérieur sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le présent arrêté sera publié au Journal officiel de la République française.

@@ -1,5 +1,13 @@
 # Article 2
 
-Lorsqu'un emballage collectif est constitué de deux ou plusieurs préemballages individuels, la gamme de valeurs citée à l'article 1er s'applique aux préemballages individuels.
+Le montant des loyers plafonds prévu à l'article 6 du décret susvisé est fixé ainsi qu'il suit à compter du 1er juin 1987 :
 
-Lorsqu'un préemballage est constitué de deux ou plusieurs emballages individuels qui ne sont pas destinés à être vendus individuellement, la gamme de valeurs citée à l'article 1er s'applique au préemballage.
+Mayotte : 2 000 F [*francs*] métropolitains ;
+
+Nouvelle-Calédonie : 6 300 F [*francs*] métropolitains ;
+
+Polynésie française : 4 900 F [*francs*] métropolitains ;
+
+Saint-Pierre-et-Miquelon : 2 500 F [*francs*] métropolitains ;
+
+Wallis-et-Futuna : 2 300 F [*francs*] métropolitains.

@@ -1,3 +1,13 @@
 # Article 3
 
-Le directeur du budget, le directeur de la comptabilité publique au ministère de l'économie, des finances et de la privatisation, le directeur des affaires générales et le directeur général des finances et du contrôle de gestion au ministère de l'éducation nationale sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les lycées privés sous contrat d'association reçoivent, en 1987, une subvention de l'Etat pour l'informatique pédagogique de leurs classes préparatoires aux grandes écoles scientifiques énumérées ci-après :
+
+- mathématiques supérieures ;
+
+- mathématiques spéciales M, M', P, P' ;
+
+- mathématiques supérieures technologiques T ;
+
+- mathématiques spéciales technologiques T.
+
+Le montant de cette subvention supplémentaire est calculé en fonction du nombre de divisions. Chaque division reçoit une dotation égale à celles versées à chaque lycée privé en 1986 et 1987. "
