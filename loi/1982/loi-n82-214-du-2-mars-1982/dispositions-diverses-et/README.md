@@ -1,3 +1,0 @@
-# Dispositions diverses et transitoires.
-
-- [Article 47](article-47.md)
