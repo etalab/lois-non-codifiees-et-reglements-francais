@@ -5,6 +5,7 @@
 - [Décret n°60-323 du 2 avril 1960](decret-n60-323-du-2-avril-1960)
 - [Décret n°60-1066 du 4 octobre 1960](decret-n60-1066-du-4-octobre-1960)
 - [Décret n°60-664 du 4 juillet 1960](decret-n60-664-du-4-juillet-1960)
+- [Décret n°60-1302 du 5 octobre 1960](decret-n60-1302-du-5-octobre-1960)
 - [Décret n°60-939 du 5 septembre 1960](decret-n60-939-du-5-septembre-1960)
 - [Décret n°60-940 du 5 septembre 1960](decret-n60-940-du-5-septembre-1960)
 - [Décret n° 61-1362 du 6 décembre 1961](decret-n-61-1362-du-6-decembre-1961)
