@@ -130,7 +130,6 @@
 - [Arrêté du 26 septembre 1983](arrete-du-26-septembre-1983)
 - [Arrêté du 26 mai 1983](arrete-du-26-mai-1983)
 - [Arrêté du 27 décembre 1982](arrete-du-27-decembre-1982)
-- [Arrêté du 27 juillet 1983](arrete-du-27-juillet-1983)
 - [Arrêté du 27 octobre 1967](arrete-du-27-octobre-1967)
 - [Arrêté du 27 octobre 1983](arrete-du-27-octobre-1983)
 - [Arrêté du 27 septembre 1983](arrete-du-27-septembre-1983)
