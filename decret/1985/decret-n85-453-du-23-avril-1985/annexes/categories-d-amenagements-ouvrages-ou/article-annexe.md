@@ -66,6 +66,8 @@ Réalisation d'une nouvelle piste à l'intérieur d'un aérodrome dont la réali
 
 Travaux exécutés en vue de changement de catégorie, au sens des dispositions de l'article R. 222-5 du code de l'aviation civile, d'un aérodrome dont la réalisation est soumise à enquête en vertu du premier alinéa.
 
+Modification permanente de la circulation aérienne de départ ou d'approche aux instruments en application de l'article R. 227-7 du code de l'aviation civile.
+
 10° Voies navigables.
 
 Travaux de construction ou de modification du gabarit de la voie et des ouvrages et d'un montant supérieur à 1 900 000 euros.
