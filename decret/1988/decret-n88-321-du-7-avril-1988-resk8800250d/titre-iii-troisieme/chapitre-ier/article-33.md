@@ -1,3 +1,7 @@
 # Article 33
 
-Les internes peuvent être autorisés, selon des modalités fixées par arrêté du ministre chargé des universités et du ministre chargé de la santé [*autorités compétentes*] , à accomplir des stages à l'étranger ainsi que dans une circonscription autre que celle dans laquelle ils choisissent leurs postes, pour une durée maximale de deux semestres et dans la discipline dans laquelle ils sont inscrits.
+Les internes peuvent être autorisés, selon des modalités fixées par arrêté des ministres chargés des universités et de la santé, à accomplir, pour une durée maximale de deux semestres, des stages dans une circonscription ou une subdivision autres que celles dans lesquelles ils ont été affectés.
+
+Ils peuvent également être autorisés, selon des modalités fixées par arrêté des mêmes ministres, à accomplir à l'étranger deux semestres au plus de formation pratique.
+
+La durée cumulée de ces stages et de l'année-recherche prévue à l'article 27 ci-dessus, lorsque cette année-recherche est effectuée ailleurs que dans la subdivision d'affectation, ne peut excéder deux ans.

@@ -1,6 +1,6 @@
 # Article 38
 
-Pour être admis à postuler un diplôme d'études spécialisées complémentaires, les anciens internes doivent [*conditions d'admission*] :
+Pour obtenir un diplôme d'études spécialisées complémentaires, les anciens internes doivent [*conditions d'admission*] :
 
 être titulaires d'un diplôme d'études spécialisées ;
 

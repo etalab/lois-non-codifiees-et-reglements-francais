@@ -1,13 +1,13 @@
 # Article 49
 
-Le diplôme d'Etat de docteur en médecine est délivré aux élèves médecins des écoles du service de santé des armées ayant :
+Le diplôme d'Etat de docteur en médecine est délivré aux élèves médecins des écoles du service de santé des armées ayant soutenu une thèse dans les conditions prévues à l'article 14 ci-dessus.
 
-1° effectué deux années de fonctions ;
+Le document annexé au diplôme et mentionnant la qualification en médecine générale est délivré aux anciens élèves médecins des écoles du service de santé des armées, sous réserve qu'ils aient soutenu la thèse prévue à l'article 14 ci-dessus, et ayant :
 
-2° satisfait au contrôle de la formation théorique acquise ;
+1° Effectué deux années de fonctions dans les conditions définies au présent chapitre ;
 
-3° accompli la formation pratique et obtenu sa validation ;
+2° Satisfait au contrôle de la formation théorique ;
 
-4° soutenu une thèse dans les conditions fixées par l'article 14 du présent décret.
+3° Accompli la formation pratique et obtenu sa validation.
 
-Un document est annexé au diplôme dans les conditions prévues au même article.
+Les dispositions du troisième alinéa de l'article 14 sont applicables aux élèves médecins des écoles du service de santé des armées.

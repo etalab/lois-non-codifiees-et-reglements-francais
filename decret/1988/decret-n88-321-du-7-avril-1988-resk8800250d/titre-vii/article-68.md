@@ -32,6 +32,6 @@ d) un représentant des établissements hospitaliers privés participant au serv
 
 En ce cas, elle est présidée par le directeur régional des affaires sanitaires et sociales ou son représentant.
 
-Les procédures de désignation des membres autres que les membres permanents et la durée des mandats sont fixées par arrêté des ministres chargés des universités et de la santé.
+Les procédures de désignation des membres et la durée des mandats sont fixées par arrêté des ministres chargés des universités et de la santé.
 
 Lorsque les procédures d'agrément et de répartition concernent un ou plusieurs hôpitaux d'instruction des armées, la commission s'adjoint, en outre, un médecin du service de santé des armées désigné par le ministre de la défense.

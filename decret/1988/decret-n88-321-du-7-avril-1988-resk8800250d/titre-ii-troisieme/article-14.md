@@ -1,15 +1,15 @@
 # Article 14
 
-Le diplôme d'Etat de docteur en médecine est délivré aux résidents ayant [*conditions d'obtention*] :
+Le diplôme d'Etat de docteur en médecine est délivré aux résidents ayant soutenu avec succès une thèse devant un jury présidé par un professeur de médecine, composé d'au moins quatre membres, dont trois professeurs de médecine, et désigné par le président de l'université sur proposition du directeur de l'unité de formation et de recherche de médecine concernée.
 
-1° effectué la durée totale du résidanat ;
+La thèse peut être soutenue après validation du troisième semestre de fonctions.
 
-2° satisfait au contrôle de la formation théorique acquise durant le résidanat ;
+Le diplôme d'Etat de docteur en médecine n'ouvre droit à l'exercice de la médecine en France qu'après obtention de la qualification en médecine générale.
 
-3° accompli la formation pratique et obtenu sa validation ;
+Le document mentionnant la qualification en médecine générale est délivré, sous réserve qu'ils aient soutenu la thèse mentionnée au premier alinéa du présent article, aux résidents ayant :
 
-4° soutenu une thèse devant un jury présidé par un professeur de médecine et composé d'au moins quatre membres, dont au moins trois professeurs de médecine, et désigné par le ou les présidents d'université sur proposition du ou des directeurs des unités de formation et de recherches médicales.
+1° Effectué la durée totale du résidanat ;
 
-La soutenance peut intervenir à compter du début du dernier semestre du résidanat.
+2° Satisfait au contrôle de la formation théorique acquise durant le résidanat ;
 
-Un document annexé au diplôme atteste que l'intéressé a reçu une formation spécifique en médecine générale.
+3° Accompli la formation pratique et obtenu sa validation.
