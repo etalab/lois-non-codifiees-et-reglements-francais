@@ -373,7 +373,6 @@
 - [Décret n°93-212 du 15 février 1993 (MENT9304245D)](decret-n93-212-du-15-fevrier-1993-ment9304245d)
 - [Décret n°93-341 du 15 mars 1993 (DEFP9301235D)](decret-n93-341-du-15-mars-1993-defp9301235d)
 - [Décret n°93-343 du 15 mars 1993 (TOUR9304522D)](decret-n93-343-du-15-mars-1993-tour9304522d)
-- [Décret n°93-345 du 15 mars 1993 (SANP9300793D)](decret-n93-345-du-15-mars-1993-sanp9300793d)
 - [Décret n°93-347 du 15 mars 1993 (JUSE9340010D)](decret-n93-347-du-15-mars-1993-juse9340010d)
 - [Décret n°93-348 du 15 mars 1993 (DEFM9301312D)](decret-n93-348-du-15-mars-1993-defm9301312d)
 - [Décret n°93-353 du 15 mars 1993 (SANP9300619D)](decret-n93-353-du-15-mars-1993-sanp9300619d)

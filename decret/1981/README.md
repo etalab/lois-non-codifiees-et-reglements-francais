@@ -30,7 +30,6 @@
 - [Décret n°81-512 du 12 mai 1981](decret-n81-512-du-12-mai-1981)
 - [Décret n°81-535 du 12 mai 1981](decret-n81-535-du-12-mai-1981)
 - [Décret n°81-536 du 12 mai 1981](decret-n81-536-du-12-mai-1981)
-- [Décret n°81-539 du 12 mai 1981](decret-n81-539-du-12-mai-1981)
 - [Décret du 13 avril 1981](decret-du-13-avril-1981)
 - [Décret n°81-1017 du 13 novembre 1981](decret-n81-1017-du-13-novembre-1981)
 - [Décret n°81-542 du 13 mai 1981](decret-n81-542-du-13-mai-1981)
