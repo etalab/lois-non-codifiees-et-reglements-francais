@@ -1,25 +1,3 @@
 # Article 2
 
-Sont dispensés du port obligatoire de la ceinture de sécurité :
-
-a) Les personnes dont la taille est manifestement inadaptée au port de la ceinture ;
-
-b) Les personnes justifiant d'une contre-indication médicale au port de la ceinture et munies d'un certificat médical à cet effet ;
-
-c) Les conducteurs de taxi en service ;
-
-d) Les occupants des places avant :
-
-- des véhicules des services de police, de gendarmerie et de lutte contre l'incendie ;
-
-- des ambulances ;
-
-- et des véhicules d'intervention d'Electricité de France et de Gaz de France,
-
-lorsqu'ils effectuent des missions d'urgence ;
-
-e) En agglomération seulement :
-
-- les occupants des places avant des véhicules des services publics contraints par nécessité de service de s'arrêter fréquemment ;
-
-- les occupants des places avant des véhicules effectuant des livraisons de porte à porte.
+Si une substance dont les quantités destinées à être mises sur le marché étaient initialement estimées à moins d'une tonne par an vient à être mise sur le marché par le déclarant en quantités égales ou supérieures à une tonne par an, ce déclarant verse aux organismes agréé et désigné un supplément de redevance forfaitaire de 13.500 F et un supplément de redevance complémentaire de 1.500 F. Ces suppléments de redevances doivent être versés avant que les quantités mises sur le marché au cours d'une même année n'aient atteint une tonne.
