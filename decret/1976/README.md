@@ -50,6 +50,7 @@
 - [Décret n°76-208 du 24 février 1976](decret-n76-208-du-24-fevrier-1976)
 - [Décret n°76-842 du 24 août 1976](decret-n76-842-du-24-aout-1976)
 - [Décret n°76-213 du 26 février 1976](decret-n76-213-du-26-fevrier-1976)
+- [Décret n°76-272 du 26 mars 1976](decret-n76-272-du-26-mars-1976)
 - [Décret n°76-82 du 27 janvier 1976](decret-n76-82-du-27-janvier-1976)
 - [Décret n°76-1110 du 29 novembre 1976](decret-n76-1110-du-29-novembre-1976)
 - [Décret n°76-1311 du 29 décembre 1976](decret-n76-1311-du-29-decembre-1976)
