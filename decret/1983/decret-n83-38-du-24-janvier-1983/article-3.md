@@ -4,6 +4,8 @@ Les cinq membres choisis en raison de leur compétence sont nommés par décret 
 
 Parmi ces membres :
 
-Deux représentants des usagers [*nombre*] sont désignés à raison d'un représentant des voyageurs et d'un représentant des chargeurs ;
+Deux représentants des usagers sont désignés à raison d'un représentant des voyageurs et d'un représentant des chargeurs ;
 
-Deux membres sont choisis en raison de leur connaissance des aspects régionaux, départementaux et locaux des questions ferroviaires ;    Un membre est choisi en raison de ses compétences personnelles dans le domaine des transports.
+Deux membres détenteurs d'un mendat électoral local sont choisis en raison de leur connaissance des aspects régionaux, départementaux et locaux des questions ferroviaires ;
+
+Un membre est choisi en raison de ses compétences personnelles dans le domaine des transports.
