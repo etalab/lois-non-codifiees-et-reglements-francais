@@ -1,5 +1,3 @@
 # Article 1
 
-Par arrêté du ministre de l'éducation nationale en date du 7 mai 1986, l'Institut supérieur privé des sciences techniques et économie commerciales de Paris, établissement d'enseignement technique supérieur privé reconnu par l'Etat, est autorisé à délivrer un diplôme visé du ministre de l'éducation nationale, conformément aux dispositions de l'arrêté du 15 février 1921 relatif aux diplômes et certificats délivrés par les écoles reconnues par l'Etat et suivant les conditions fixées par le règlement pédagogique joint audit arrêté (1).
-
-(1) Le règlement pédagogique peut être consulté auprès de l'établissement, 24, rue Hamelin, 75016 Paris.
+Les sommes versées par les employeurs, en application des dispositions des lois n° 71-575 et 51-578 du 16 juillet 1971 et du décret n° 72-283 du 12 avril 1972 susvisés, pour participer au financement de la formation professionnelle continue et des premières formations technologiques et professionnelles dispensées par les écoles nationales supérieures des techniques industrielles et des mines, sont rattachées au chapitre 34-02 Matériel, énergie, travaux d'équipement et d'entretien du budget Redéploiement industriel et recherche et technologie - Services communs.

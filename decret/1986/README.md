@@ -280,6 +280,7 @@
 - [Décret n°86-242 du 21 février 1986](decret-n86-242-du-21-fevrier-1986)
 - [Décret n°86-718 du 21 avril 1986](decret-n86-718-du-21-avril-1986)
 - [Décret n°86-90 du 21 janvier 1986](decret-n86-90-du-21-janvier-1986)
+- [Décret n°86-744 du 21 mai 1986](decret-n86-744-du-21-mai-1986)
 - [Décret n°85-1133 du 22 octobre 1985](decret-n85-1133-du-22-octobre-1985)
 - [Décret n°85-1385 du 23 décembre 1985](decret-n85-1385-du-23-decembre-1985)
 - [Décret n°86-100 du 23 janvier 1986](decret-n86-100-du-23-janvier-1986)

@@ -1,3 +1,3 @@
 # Article 2
 
-Le présent arrêté sera publié au Journal officiel de la République française.
+L'arrêté du 28 avril 1982 est abrogé.

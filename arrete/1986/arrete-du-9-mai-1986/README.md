@@ -1,4 +1,4 @@
-# Arrêté du 9 mai 1986 accordant la garantie de l'Etat à un emprunt du crédit d'équipement des petites et moyennes entreprises
+# Arrêté du 9 mai 1986 relatif aux orientations générales de l'action sanitaire et sociale des caisses du régime d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
