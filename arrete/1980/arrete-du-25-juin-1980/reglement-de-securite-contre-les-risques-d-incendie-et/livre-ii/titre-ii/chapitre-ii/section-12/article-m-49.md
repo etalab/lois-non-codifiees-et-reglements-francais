@@ -6,7 +6,7 @@ Réserves
 
 Les portes coulissantes ou non destinées à obturer ces baies doivent être coupe-feu de degré une heure, à fermeture automatique, et installées dans les conditions prévues à l'article CO 47 (§ 1, 2 et 5).
 
-Dans tous les cas, la fermeture de ces portes doit être asservie soit à un détecteur autonome déclencheur, soit à une installation de détection sensible aux fumées et gaz de combustion.
+Dans tous les cas, la fermeture de ces portes doit être asservie soit à un détecteur-autonome déclencheur, soit à une installation de détection automatique, sensibles aux fumées et gaz de combustion.
 
 § 2. La capacité unitaire des réserves est limitée :
 
