@@ -48,8 +48,6 @@ Agent chargé de la préparation des payes de vacataires et gérant des crédits
 
 Personnels de documentation assurant des fonctions de recenseur.
 
-Responsables des services des affaires financières et générales en D.R.A.C.
-
 Agent des laboratoires de recherches des directions des musées de France et du patrimoine utilisant des techniques de haut niveau (accélérateur de particules, microfluorescence, radiologie).
 
 Responsable de la cellule des frais de mission du ministère.
@@ -65,3 +63,33 @@ Agent chargé de la mise en oeuvre et de l'inspection d'actions interrégionales
 Agent responsable de l'évacuation tardive des domaines des Tuileries et du Palais-Royal.
 
 Adjoint du directeur d'un service extérieur national de la direction des archives comptant plus de trente agents.
+
+...A compter du 1er aout 1996:
+
+- agent d'une D.R.A.C. chargé de la préparation des paies (plus de 200 agents) ;
+
+- agent chargé de la gestion des crédits de fonctionnement du ministère ;
+
+- maître d'apprentissage (d'au moins 2 apprentis) ;
+
+- agent chargé de la mise en oeuvre des règles d'hygiène et de sécurité ;
+
+- responsable du centre de formation d'Orléans ;
+
+- responsable à plein temps de la création d'un système d'information en liaison avec le D.O.S.I. ;
+
+- chef de bureau d'administration centrale chargé de la gestion de personnel et/ou d'affaires financières dont l'effectif est supérieur à 10 agents ;
+
+- responsable du service des affaires financières et générales d'une D.R.A.C. dont l'effectif est supérieur à 50 agents ;
+
+- secrétaire général d'un musée ou d'un établissement d'enseignement artistique ;
+
+- agent d'administration centrale chargé d'une fonction de coordination et de conseil en matière juridique, financière ou statutaire.
+
+A compter du 1er août 1996:
+
+- infirmière assurant le fonctionnement d'une infirmerie ne bénéficiant pas de la présence permanente d'un médecin ;
+
+- chef de bureau d'administration centrale chargé de la gestion de personnel et/ou d'affaires financières dont l'effectif est inférieur à 10 agents ;
+
+- responsable du service des affaires financières et générales d'une D.R.A.C. dont l'effectif est inférieur à 50 agents.
