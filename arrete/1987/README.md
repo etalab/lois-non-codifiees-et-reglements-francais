@@ -500,7 +500,6 @@
 - [Arrêté du 23 juillet 1987 (MEND8700471A)](arrete-du-23-juillet-1987-mend8700471a)
 - [Arrêté du 23 juillet 1987 (MERG8700109A)](arrete-du-23-juillet-1987-merg8700109a)
 - [Arrêté du 23 juin 1987 (PRMG8700031A)](arrete-du-23-juin-1987-prmg8700031a)
-- [Arrêté du 23 juin 1987 (RESY8700383A)](arrete-du-23-juin-1987-resy8700383a)
 - [Arrêté du 23 mars 1987 (ENVN8700073A)](arrete-du-23-mars-1987-envn8700073a)
 - [Arrêté du 23 mars 1987 (ENVN8700074A)](arrete-du-23-mars-1987-envn8700074a)
 - [Arrêté du 23 mars 1987 (EQUC8700283A)](arrete-du-23-mars-1987-equc8700283a)
