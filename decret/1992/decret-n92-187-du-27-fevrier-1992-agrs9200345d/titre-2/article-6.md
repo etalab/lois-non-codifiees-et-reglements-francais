@@ -8,7 +8,9 @@ Les terres exploitées en faire-valoir direct et libérées doivent être destin
 
 - à la première installation d'un jeune agriculteur bénéficiant d'une aide prévue par le décret du 23 février 1988 susvisé ;
 
-- ou bien à une réinstallation ou à l'installation d'un agriculteur ne bénéficiant pas d'une aide prévue par ledit décret, mais remplissant dans les deux cas les conditions de celui-ci, sauf, le cas échéant, celle relative à l'âge ;
+- ou bien à une réinstallation ou à l'installation d'un agriculteur âgé de moins de cinquante ans ne bénéficiant pas d'une aide prévue par ledit décret, mais remplissant dans les deux cas les conditions de celui-ci, sauf, le cas échéant, celle relative à l'âge ;
+
+En outre l'agriculteur qui s'installe ou se réinstalle doit s'engager à agrandir l'exploitation libérée par le candidat à la préretraite d'au moins deux hectares dans un délai de trois ans à compter de son installation ou de sa réinstallation.
 
 3° A un groupement foncier agricole, qui s'engage à louer par bail à long terme les terres libérées par le cédant, dans les conditions fixées au 1° ou au 2° ci-dessus ;
 
@@ -16,7 +18,7 @@ Les terres exploitées en faire-valoir direct et libérées doivent être destin
 
 a) Si elle s'engage à réorienter les terres, ou, à la suite d'échanges de parcelles, des superficies équivalentes, vers des usages non agricoles pour la réalisation d'opérations visant le développement rural, la protection de la nature et l'environnement ou le boisement ; pendant la période comprise entre la cession et la vente par la S.A.F.E.R. pour ces usages non agricoles, celle-ci s'engage à retirer les terres, ou des superficies équivalentes, de la production avec maintien d'un couvert végétal permanent ;
 
-b) Lorsque les superficies sont libérées par des exploitations d'une dimension inférieure à deux fois la surface minimum d'installation, et qu'à partir de ces superficies des réaménagements parcellaires doivent être opérés ou des aménagements fonciers doivent être réalisés au bénéfice d'une ou plusieurs exploitations ; dans ce cas, l'autorisation de vendre à la S.A.F.E.R. doit être donnée au demandeur par le préfet, après avis de la commission départementale des structures agricoles, compte tenu de l'intérêt de l'intervention de la S.A.F.E.R. pour la restructuration ou les aménagements fonciers par rapport aux demandes de reprise en fermage dont les surfaces concernées font éventuellement l'objet ;
+b) Lorsque les superficies sont libérées par des exploitations d'une dimension inférieure à deux fois la surface minimum d'installation, et qu'à partir de ces superficies des réaménagements parcellaires doivent être opérés ou des aménagements fonciers doivent être réalisés au bénéfice d'une ou plusieurs exploitations ; dans ce cas, l'autorisation de vendre à la S.A.F.E.R. doit être donnée au demandeur par le préfet, après avis de la commission départementale d'orientation de l'agriculture, compte tenu de l'intérêt de l'intervention de la S.A.F.E.R. pour la restructuration ou les aménagements fonciers par rapport aux demandes de reprise en fermage dont les surfaces concernées font éventuellement l'objet ;
 
 c) Ou dans le but de faciliter la constitution des emprises des grands ouvrages linéaires en application de l'article 10 de la loi du 8 août 1962 susvisée.
 

@@ -9,3 +9,5 @@
 4° Les titulaires de l'allocation de préretraite ouvrent droit, sans contrepartie de cotisations, à l'allocation de veuvage servie dans les conditions prévues par le décret du 8 juillet 1991 susvisé.
 
 5° Les titulaires de l'allocation de préretraite peuvent demander le maintien de leur adhésion au régime complémentaire d'assurance vieillesse institué en application de l'article 1122-7 du code rural. Les cotisations dont ils sont redevables à ce titre sont calculées sur l'assiette retenue pour la dernière année de versement de cotisations de retraite complémentaire.
+
+6° Les dispositions des 1°, 2°, 3° et 5° sont également applicables aux conjoints coexploitants ou associés-exploitants dans la même société cessant définitivement leur activité agricole en même temps que le titulaire de l'allocation.

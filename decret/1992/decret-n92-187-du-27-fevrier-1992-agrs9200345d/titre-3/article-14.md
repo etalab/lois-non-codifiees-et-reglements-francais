@@ -6,4 +6,6 @@ Lorsque la date de transfert de l'exploitation est postérieure à celle de l'ac
 
 Lorsque, dans les conditions prévues au 2° de l'article 13, la demande intervient après la date de l'acte, ou du dernier des actes de transfert, et après celle du transfert effectif de l'exploitation, l'allocation de préretraite est servie avec effet du mois qui suit la date de la demande.
 
+Toutefois si la plus tardive de ces dates est un premier jour du mois, l'allocation de préretraite est servie à compter de cette date.
+
 L'allocation de préretraite est due jusqu'au dernier jour du mois du soixantième anniversaire de l'intéressé.
