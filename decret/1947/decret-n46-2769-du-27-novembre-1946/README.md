@@ -2,6 +2,7 @@
 
 - [TITRE 1ER : DISPOSITIONS GENERALES.](titre-1er)
 - [TITRE II : BENEFICIAIRES.](titre-ii)
+- [titre 3 : Organisation technique](titre-3)
 - [TITRE III : ORGANISATION TECHNIQUE.](titre-iii)
 - [TITRE IV : REGIME FINANCIER DES ORGANISATIONS DE SECURITE SOCIALE DANS LES MINES](titre-iv)
 - [TITRE V : PRESTATIONS](titre-v)
