@@ -155,6 +155,7 @@
 - [Arrêté du 27 décembre 1988 (AGRE8802293A)](arrete-du-27-decembre-1988-agre8802293a)
 - [Arrêté du 27 décembre 1988 (INTE8800492A)](arrete-du-27-decembre-1988-inte8800492a)
 - [Arrêté du 27 décembre 1988 (SPSH8801956A)](arrete-du-27-decembre-1988-spsh8801956a)
+- [Arrêté du 27 février 1989 (AGRB8900421A)](arrete-du-27-fevrier-1989-agrb8900421a)
 - [Arrêté du 27 février 1989 (SPSH8900444A)](arrete-du-27-fevrier-1989-spsh8900444a)
 - [Arrêté du 27 janvier 1989 (SPSH8900193A)](arrete-du-27-janvier-1989-spsh8900193a)
 - [Arrêté du 27 octobre 1988 (INDA8800802A)](arrete-du-27-octobre-1988-inda8800802a)
