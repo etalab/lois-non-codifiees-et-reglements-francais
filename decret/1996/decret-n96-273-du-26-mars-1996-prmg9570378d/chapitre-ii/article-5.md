@@ -21,5 +21,3 @@ II. - Le concours interne est ouvert aux fonctionnaires et agents publics de l'E
 Le nombre de places offertes au concours externe et au concours interne est fixé par arrêté du ministre dont relève le corps de fonctionnaires. En aucun cas, le nombre de places offertes à l'un des concours ne peut être inférieur à 40 p. 100 du nombre total des places offertes aux deux concours.
 
 Toutefois, le ministre dont relève le corps de fonctionnaires peut reporter les places non pourvues au titre d'un des concours sur l'autre concours. Ce report ne peut avoir pour conséquence que le nombre des emplois offerts à l'un des concours soit supérieur aux deux tiers du nombre total des places offertes aux deux concours.
-
-Le nombre de candidats inscrits sur la liste complémentaire prévue à l'article 20 de la loi du 11 janvier 1984 susvisée ne peut excéder le nombre d'emplois ouverts pour chacun des concours.
