@@ -1248,7 +1248,6 @@
 - [Arrêté du 30 avril 1993 (INDP9320235A)](arrete-du-30-avril-1993-indp9320235a)
 - [Arrêté du 30 avril 1993 (INDP9320237A)](arrete-du-30-avril-1993-indp9320237a)
 - [Arrêté du 30 avril 1993 (INDP9320238A)](arrete-du-30-avril-1993-indp9320238a)
-- [Arrêté du 30 avril 1993 (INTB9300323A)](arrete-du-30-avril-1993-intb9300323a)
 - [Arrêté du 30 décembre 1992 (ACVA9210141A)](arrete-du-30-decembre-1992-acva9210141a)
 - [Arrêté du 30 décembre 1992 (AGRP9200692A)](arrete-du-30-decembre-1992-agrp9200692a)
 - [Arrêté du 30 décembre 1992 (BUDB9260075A)](arrete-du-30-decembre-1992-budb9260075a)
