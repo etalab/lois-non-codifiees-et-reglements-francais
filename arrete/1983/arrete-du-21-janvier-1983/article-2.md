@@ -4,10 +4,10 @@ La commission visée à l'article précédent est présidée par le directeur g�
 
 Sont membres de la commission [*composition*] :
 
-Deux représentants des producteurs d'oeuvres cinématographiques ;
+Trois représentants des producteurs d'oeuvres cinématographiques ;
 
-Deux représentants des distributeurs d'oeuvres cinématographiques ;
+Trois représentants des distributeurs d'oeuvres cinématographiques ;
 
-Deux représentants des exploitants de salles de spectacles cinématographiques ;
+Trois représentants des exploitants de salles de spectacles cinématographiques ;
 
-Deux représentants des éditeurs de vidéocassettes ou de vidéodisques [*nombre*].
+Trois représentants des éditeurs de vidéocassettes ou de vidéodisques [*nombre*].

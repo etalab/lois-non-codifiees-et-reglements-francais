@@ -61,6 +61,7 @@
 - [Décret n°92-206 du 3 mars 1992 (SANH9200268D)](decret-n92-206-du-3-mars-1992-sanh9200268d)
 - [Décret n°92-212 du 3 mars 1992 (ENVN9161995D)](decret-n92-212-du-3-mars-1992-envn9161995d)
 - [Décret n°92-41 du 3 janvier 1992 (RESY9100244D)](decret-n92-41-du-3-janvier-1992-resy9100244d)
+- [Décret n°92-485 du 3 juin 1992 (INDH9200402D)](decret-n92-485-du-3-juin-1992-indh9200402d)
 - [Décret n°92-8 du 3 janvier 1992 (TEFX9110356D)](decret-n92-8-du-3-janvier-1992-tefx9110356d)
 - [Décret n°88-524 du 3 mai 1988 (PTTA8700867D)](decret-n88-524-du-3-mai-1988-ptta8700867d)
 - [Décret n°88-599 du 3 mai 1988 (JUSB8810108D)](decret-n88-599-du-3-mai-1988-jusb8810108d)

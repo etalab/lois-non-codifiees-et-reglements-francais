@@ -1,6 +1,6 @@
 # Article 2
 
-L'effectif du Syndicat des transports parisiens est fixé à compter du 1er janvier 1991 soixante-six emplois répartis comme suit :
+L'effectif du Syndicat des transports parisiens est fixé à compter du 1er janvier 1992 soixante-huit emplois répartis comme suit :
 
 =========================================
 
@@ -45,46 +45,40 @@ L'effectif du Syndicat des transports parisiens est fixé à compter du 1er janv
 <td> :                           :       : 6 :</td>
 </tr>
 <tr>
-<td> :Cadres :</td>
+<td> :Cadres :                   :       :   :</td>
 </tr>
 <tr>
-<td>               :       :   :</td>
+<td> : ingénieurs (ou assimilés) : C4 NB : 3 :</td>
 </tr>
 <tr>
-<td> : ingénieurs (ou assimilés) : C3 B  : 3 :</td>
-</tr>
-<tr>
-<td> : autres cadres             : C1 C4 : 16:</td>
+<td> : autres cadres             :C1 C6 N: 17:</td>
 </tr>
 <tr>
 <td> :                           :       : - :</td>
 </tr>
 <tr>
-<td> :                           :       : 19:</td>
+<td> :                           :       : 20:</td>
 </tr>
 <tr>
-<td> :Ma îtrise :</td>
+<td> :Maîtrise :                :       :   :</td>
 </tr>
 <tr>
-<td>           :       :   :</td>
+<td> : rédacteurs et contrôleurs: M2 C3N: 19:</td>
 </tr>
 <tr>
-<td> : rédacteurs et contrôleurs: M2 C2 : 17:</td>
-</tr>
-<tr>
-<td> : agents administratifs     : M1 M4 : 6 :</td>
+<td> : agents administratifs     : M1 M5 : 9 :</td>
 </tr>
 <tr>
 <td> :                           :       : - :</td>
 </tr>
 <tr>
-<td> :                           :       : 23:</td>
+<td> :                           :       : 28:</td>
 </tr>
 <tr>
 <td> :                           :       :   :</td>
 </tr>
 <tr>
-<td> :Exécution                  : E2B E7: 18:</td>
+<td> :Exécution                  : E2 E8 : 14:</td>
 </tr>
 <tr>
 <td> :=======================================:</td>
