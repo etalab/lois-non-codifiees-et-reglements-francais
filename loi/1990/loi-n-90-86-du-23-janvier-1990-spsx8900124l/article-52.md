@@ -1,0 +1,3 @@
+# Article 52
+
+Les fonctionnaires retraités - et leurs ayants cause - ayant appartenu aux corps des professeurs certifiés et assimilés, des professeurs d'éducation physique et sportive, des conseillers principaux d'éducation et des professeurs de lycée professionnel du deuxième grade, radiés des cadres avant le 1er septembre 1989, âgés de cinquante ans et six mois au moins et ayant atteint le huitième échelon de leurs grades à la date de leur radiation des cadres, bénéficient, à compter du 1er septembre 1989, d'une révision de leur pension civile sur la base de l'indice de traitement pris en compte pour la liquidation de leur pension augmenté de quinze points d'indice majoré.
