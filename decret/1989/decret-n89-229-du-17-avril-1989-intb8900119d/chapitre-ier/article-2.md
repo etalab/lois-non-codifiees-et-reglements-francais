@@ -19,3 +19,5 @@ Par dérogation à l'alinéa précédent, lorsque les fonctionnaires relevant du
 Si un groupe hiérarchique comporte moins de quatre fonctionnaires, la commission administrative paritaire ne comprend aucun représentant pour ce groupe. S'il comporte de quatre à dix fonctionnaires, le nombre de représentants du personnel est de un représentant titulaire et un représentant suppléant pour ce groupe.
 
 Les effectifs des personnels sont appréciés quarante jours avant la date limite de dépôt des listes de candidats fixée pour le premier tour de scrutin. Les collectivités et établissements affiliés au centre de gestion en informent aussitôt ce dernier. La collectivité ou l'établissement auprès duquel sont placées les commissions administratives paritaires informe également dans les plus brefs délais les organisations syndicales des effectifs des personnels qu'il emploie.
+
+Pour le calcul des effectifs mentionnés au présent article, sont pris en compte les agents qui sont électeurs dans la collectivité territoriale ou l'établissement suivant les règles fixées à l'article 8.

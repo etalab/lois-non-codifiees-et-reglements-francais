@@ -21,3 +21,5 @@ L'effectif des personnels retenu pour apprécier le franchissement, lors du reno
 L'autorité territoriale d'une collectivité ou d'un établissement employant moins de cinquante agents informe dans les plus brefs délais le centre de gestion de l'effectif des personnels qu'elle emploie.
 
 La délibération de l'organe délibérant fixant la composition du comité technique paritaire intervient au plus tard trente jours avant la date limite de dépôt des listes de candidats fixée pour le premier tour de scrutin. Cette délibération est communiquée aux organisations syndicales.
+
+Pour le calcul des effectifs mentionnés au présent article, sont pris en compte les agents qui sont électeurs dans la collectivité territoriale ou l'établissement suivant les règles fixées à l'article 8.

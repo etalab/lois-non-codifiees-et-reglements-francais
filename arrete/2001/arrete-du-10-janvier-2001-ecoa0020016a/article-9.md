@@ -1,0 +1,3 @@
+# Article 9
+
+Toute manifestation commerciale entrant dans le champ d'application du décret du 10 octobre 1969 susvisé doit, quelle que soit l'appellation par laquelle elle est désignée, faire figurer sur tous les documents qu'elle communique au public la mention : Foire (ou salon) autorisé(e) ou agréé(e) international(e) par décision du... (autorité qui a pris la décision) en date du....
