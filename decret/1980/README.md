@@ -47,6 +47,7 @@
 - [Décret n°80-981 du 5 décembre 1980](decret-n80-981-du-5-decembre-1980)
 - [Décret du 6 février 1980](decret-du-6-fevrier-1980)
 - [Décret n°80-334 du 6 mai 1980](decret-n80-334-du-6-mai-1980)
+- [Décret n°74-841 du 7 octobre 1974](decret-n74-841-du-7-octobre-1974)
 - [Décret n°80-20 du 7 janvier 1980](decret-n80-20-du-7-janvier-1980)
 - [Décret n°80-654 du 7 août 1980](decret-n80-654-du-7-aout-1980)
 - [Décret n°80-337 du 7 mai 1980](decret-n80-337-du-7-mai-1980)
