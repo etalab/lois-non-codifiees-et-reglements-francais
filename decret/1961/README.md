@@ -57,6 +57,7 @@
 - [Décret n°63-326 du 27 mars 1963](decret-n63-326-du-27-mars-1963)
 - [Décret n°61-272 du 28 mars 1961](decret-n61-272-du-28-mars-1961)
 - [Décret n°61-807 du 28 juillet 1961](decret-n61-807-du-28-juillet-1961)
+- [Décret n° 61-1332 du 29 novembre 1961](decret-n-61-1332-du-29-novembre-1961)
 - [Décret n°61-1302 du 29 novembre 1961](decret-n61-1302-du-29-novembre-1961)
 - [Décret n°59-923 du 30 juillet 1959](decret-n59-923-du-30-juillet-1959)
 - [Décret n°60-1524 du 30 décembre 1960](decret-n60-1524-du-30-decembre-1960)
