@@ -362,7 +362,6 @@
 - [Arrêté du 7 mars 1995 (SPSA9500770A)](arrete-du-7-mars-1995-spsa9500770a)
 - [Arrêté du 7 mars 1995 (SPSN9500822A)](arrete-du-7-mars-1995-spsn9500822a)
 - [Arrêté du 7 mars 1995 (SPSN9500823A)](arrete-du-7-mars-1995-spsn9500823a)
-- [Arrêté du 7 mars 1995 (SPSN9500824A)](arrete-du-7-mars-1995-spsn9500824a)
 - [Arrêté du 7 mars 1995 (SPSN9500825A)](arrete-du-7-mars-1995-spsn9500825a)
 - [Arrêté du 7 mars 1995 (SPSP9500714A)](arrete-du-7-mars-1995-spsp9500714a)
 - [Arrêté du 7 mars 1995 (TEFT9500297A)](arrete-du-7-mars-1995-teft9500297a)
