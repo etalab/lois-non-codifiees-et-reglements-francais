@@ -1,5 +1,3 @@
 # Article 1
 
-En vue du recrutement par voie de concours du corps administratif supérieur des services techniques et déconcentrés de la direction générale de l'aviation civile, le nombre des emplois qui peuvent être pourvus par la nomination de candidats inscrits sur la liste complémentaire d'admission établie pour le concours externe prévu au 1° de l'article 5 du décret du 2 novembre 1961 susvisé ne peut excéder 200 p. 100 du nombre des emplois offerts au titre de ce concours.
-
-Le nombre des emplois qui peuvent être pourvus par la nomination des candidats inscrits sur la liste complémentaire d'admission établie pour le concours interne prévu au 2° de l'article 5 du décret du 2 novembre 1961 susvisé ne peut excéder 200 p. 100 du nombre des emplois offerts au titre de ce concours.
+En vue du recrutement par voie de concours dans le corps des attachés d'administration de l'aviation civile, le nombre des emplois qui peuvent être pourvus par la nomination des candidats inscrits sur la liste complémentaire d'admission établie pour le concours externe et interne prévus au 2° de l'article 4 du décret n° 95-199 du 23 février 1995 relatif au statut particulier du corps des attachés d'administration de l'aviation civile ne peut excéder 300 p. 100 du nombre des emplois offerts au titre de chacun de ces concours.
