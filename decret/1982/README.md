@@ -9,6 +9,7 @@
 - [Décret n°82-5 du 5 janvier 1982](decret-n82-5-du-5-janvier-1982)
 - [Décret n°81-445 du 7 mai 1981](decret-n81-445-du-7-mai-1981)
 - [Décret n°82-10 du 8 janvier 1982](decret-n82-10-du-8-janvier-1982)
+- [Décret n°82-138 du 8 février 1982](decret-n82-138-du-8-fevrier-1982)
 - [Décret n°82-9 du 8 janvier 1982](decret-n82-9-du-8-janvier-1982)
 - [Décret n°82-494 du 10 juin 1982](decret-n82-494-du-10-juin-1982)
 - [Décret n°82-248 du 12 mars 1982](decret-n82-248-du-12-mars-1982)
