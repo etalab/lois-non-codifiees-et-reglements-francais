@@ -1,11 +1,5 @@
 # Article 2
 
-Les concours d'internat en pharmacie [*modalités*] comportent :
+Chaque concours est ouvert pour le nombre de postes défini, pour chaque discipline d'internat, par arrêté des ministres chargés de l'enseignement supérieur et de la santé.
 
-1. Une même épreuve d'admissibilité de caractère national ;
-
-2. Des épreuves d'admission par circonscription.
-
-L'épreuve nationale d'admissibilité peut être subie dans des centres d'épreuves différents.
-
-Le ministre chargé de la santé fixe le calendrier national et organise les épreuves de ces concours.
+Le ministre chargé de la santé arrête le calendrier et organise les épreuves de ces concours.
