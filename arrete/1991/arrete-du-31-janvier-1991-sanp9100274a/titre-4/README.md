@@ -1,4 +1,4 @@
-# Titre 4 : De la scolarité des ressortissants des pays autres que ceux de la communauté européenne.
+# Titre 4 : Mesures diverses.
 
 - [Article 24](article-24.md)
 - [Article 25](article-25.md)

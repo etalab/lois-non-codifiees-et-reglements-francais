@@ -1,5 +1,3 @@
 # Article 25
 
-Le nombre total de candidats visés à l'article 24 du présent arrêté effectuant leur formation au sein d'une école de masso-kinésithérapie s'ajoute à l'effectif total de l'école sans en excéder 5 p. 100.
-
-Lorsque l'application de ce pourcentage conduit à un nombre dont la décimale est inférieure à cinq, ce nombre est arrondi au nombre inférieur : dans le cas contraire, il est arrondi au nombre supérieur.
+Les candidats, dispensés partiellement de scolarité, qui se présentent à l'examen de passage en deuxième ou en troisième année doivent acquitter des droits d'inscription à ces examens, dont le montant est fixé par l'organisme gestionnaire de l'école concernée après avis de son conseil technique.

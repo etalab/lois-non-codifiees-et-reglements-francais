@@ -1,7 +1,5 @@
 # Article 2
 
-a) Les produits ne peuvent être cédés aux utilisateurs que par les fournisseurs qui les ont déclarés en douane pour la consommation ou pour leur versement sur le marché intérieur lors de leur réception en provenance d'un autre Etat membre où ils ont déjà été mis à la consommation.
+Les produits sont exonérés de taxe intérieure de consommation sur les produits pétroliers dans les conditions fixées au présent arrêté.
 
-b) Ces cessions ne peuvent être faites qu'aux utilisateurs autorisés à recevoir et à utiliser les produits.
-
-Ces produits doivent être livrés aux utilisateurs en droiture à partir du lieu d'accomplissement des formalités fiscales.
+Ce régime fiscal privilégié repose sur l'identification préalable des distributeurs et des utilisateurs, sauf dérogations prévues aux articles 6 et 10 bis ci-après. A défaut d'avoir été préalablement autorisés par l'administration, les distributeurs et les utilisateurs ne peuvent acquérir, détenir, vendre et utiliser les produits en exonération de TIPP.
