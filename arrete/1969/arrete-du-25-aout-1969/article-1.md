@@ -26,6 +26,12 @@ Diplôme universitaire d'études scientifiques.
 
 Brevet de fin de premier cycle obtenu avec mention à l'institut international d'administration publique.
 
+Brevet de fin de premier cycle obtenu à l'institut international d'administration publique.
+
+Certificat de succès à l'examen de fin de première année d'études à l'institut des sciences sociales du travail de l'université de Paris-I.
+
+Admissibilité aux épreuves orales du deuxième concours d'entrée à l'école nationale d'administration.
+
 Diplôme universitaire de technologie :
 
 Informatique.
@@ -107,6 +113,8 @@ Ecole nationale supérieure des P. T. T.
 Diplôme universitaire d'études scientifiques.
 
 Diplôme d'études juridiques générales.
+
+Admissibilité aux épreuves orales du deuxième concours d'entrée à l'école nationale d'administration.
 
 Diplôme universitaire de technologie :
 
