@@ -37,6 +37,7 @@
 - [Arrêté du 4 décembre 1991 (INDB9101015A)](arrete-du-4-decembre-1991-indb9101015a)
 - [Arrêté du 4 décembre 1991 (JUSG9160083A)](arrete-du-4-decembre-1991-jusg9160083a)
 - [Arrêté du 4 janvier 1983](arrete-du-4-janvier-1983)
+- [Arrêté du 4 mars 1992 (EQUA9200424A)](arrete-du-4-mars-1992-equa9200424a)
 - [Arrêté du 4 mars 1992 (MENN9200506A)](arrete-du-4-mars-1992-menn9200506a)
 - [Arrêté du 4 novembre 1988 (EQUV8800757A)](arrete-du-4-novembre-1988-equv8800757a)
 - [Arrêté du 4 novembre 1991 (SANH9102890A)](arrete-du-4-novembre-1991-sanh9102890a)
