@@ -1093,7 +1093,6 @@
 - [Arrêté du 26 mars 1996 (DEFD9601344A)](arrete-du-26-mars-1996-defd9601344a)
 - [Arrêté du 26 mars 1996 (ECOT9610267A)](arrete-du-26-mars-1996-ecot9610267a)
 - [Arrêté du 26 mars 1996 (INTF9600124A)](arrete-du-26-mars-1996-intf9600124a)
-- [Arrêté du 26 novembre 1996 (COMK9607002A)](arrete-du-26-novembre-1996-comk9607002a)
 - [Arrêté du 26 novembre 1996 (MIPP9600419A)](arrete-du-26-novembre-1996-mipp9600419a)
 - [Arrêté du 26 octobre 1995 (ECOJ9500003A)](arrete-du-26-octobre-1995-ecoj9500003a)
 - [Arrêté du 26 septembre 1996 (ECOS9650037A)](arrete-du-26-septembre-1996-ecos9650037a)
