@@ -39,6 +39,7 @@
 - [Arrêté du 23 mars 1977](arrete-du-23-mars-1977)
 - [Arrêté du 25 avril 1977](arrete-du-25-avril-1977)
 - [Arrêté du 25 février 1977](arrete-du-25-fevrier-1977)
+- [Arrêté du 26 juillet 1977](arrete-du-26-juillet-1977)
 - [Arrêté du 27 avril 1977](arrete-du-27-avril-1977)
 - [Arrêté du 27 janvier 1977](arrete-du-27-janvier-1977)
 - [Arrêté du 28 décembre 1976](arrete-du-28-decembre-1976)

@@ -21,3 +21,6 @@
 - [Loi n°76-663 du 19 juillet 1976](loi-n76-663-du-19-juillet-1976)
 - [Loi n°77-530 du 26 mai 1977](loi-n77-530-du-26-mai-1977)
 - [Loi n°77-646 du 24 juin 1977](loi-n77-646-du-24-juin-1977)
+- [Loi n°77-680 du 30 juin 1977](loi-n77-680-du-30-juin-1977)
+- [Loi n°77-682 du 30 juin 1977](loi-n77-682-du-30-juin-1977)
+- [Loi n°77-683 du 30 juin 1977](loi-n77-683-du-30-juin-1977)
