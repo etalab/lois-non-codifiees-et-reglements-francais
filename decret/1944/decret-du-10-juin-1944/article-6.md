@@ -1,0 +1,5 @@
+# Article 6
+
+Les contrats d'assurance en cours devront être modifiés, s'il y a lieu, lors de la prochaine échéance annuelle de prime et au plus tard dans l'année qui suivra l'entrée en vigueur du régime d'assurance instituée par la loi du 10 août 1943, de façon à garantir aux intéressés, pour l'ensemble des risques prévus par l'article premier au moins, les prestations qui seront fixées par des arrêtés concertés du secrétaire d'Etat à l'éducation nationale et du secrétaire d'Etat à l'économie nationale et aux finances pour chaque catégorie d'assujettis, moyennant le paiement de primes ou cotisations dont ces arrêtés détermineront le maximum.
+
+Les sociétés de secours mutuels qui interviendront pour la couverture des risques susvisés devront, dans un délai de six mois à dater de la publication des arrêtés ministériels prévus à l'alinéa qui précède, justifier qu'elles ont apporté à leurs statuts les modifications nécessaires pour élever les indemnités à des taux au moins égaux aux taux fixés par lesdits arrêtés.
