@@ -1,6 +1,6 @@
 # Article 1
 
-Le comité de l'espace est placé auprès du ministre chargé de la recherche et du ministre de la défense et sous leur coprésidence. Il comprend [*composition*]-:
+Le comité de l'espace est placé auprès du ministre chargé de la défense et du ministre chargé de l'industrie et sous leur coprésidence. Il comprend [*composition*] :
 
 - le secrétaire général du ministère des affaires étrangères ;
 
@@ -16,7 +16,7 @@ Le comité de l'espace est placé auprès du ministre chargé de la recherche et
 
 - le chef d'état-major des armées ;
 
-- le commissaire du Gouvernement auprès du Centre national d'études spatiales.
+- le commissaire du Gouvernement auprès du Centre national d'études spatiales ;
 
 - le président et le directeur général du Centre national d'études spatiales ;
 
