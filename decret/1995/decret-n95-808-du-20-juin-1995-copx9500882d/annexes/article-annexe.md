@@ -1,0 +1,3 @@
+# Article Annexe
+
+Afrique du Sud ; Angola ; Antigue-et-Barbude ; Bahamas ; Barbade ; Belize ; Botswana ; Cap-Vert ; République Dominicaine ; Dominique ; Erythrée ; Ethiopie ; Fidji ; Gambie ; Ghana ; Grenade ; Guinée-Bissau ; Guinée équatoriale ; Guyana ; Haïti ; Jamaïque ; Kenya ; Kiribati ; Lesotho ; Liberia ; Malawi ; Mozambique ; Namibie ; Nigeria ; Ouganda ; Papouasie-Nouvelle-Guinée ; Saint-Christophe-et-Niévès ; Sainte-Lucie ; Saint-Thomas-et-Prince ; Saint-Vincent-et-les-Grenadines ; îles Salomon ; Samoa occidentales ; Sierra Leone ; Somalie ; Soudan ; Surinam ; Swaziland ; Tanzanie ; Tonga ; Trinité-et-Tobago ; Tuvalu ; Vanuatu ; Zambie ; Zimbabwe.

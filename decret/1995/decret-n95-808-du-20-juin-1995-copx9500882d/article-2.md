@@ -1,0 +1,3 @@
+# Article 2
+
+Le ministre délégué à la coopération participe à la définition de la politique française d'aide au développement. Il suit les actions de la Communauté européenne en matière d'aide au développement. Il est associé aux négociations internationales relatives aux questions de développement. A la demande du ministre des affaires étrangères et dans les domaines qui relèvent de sa compétence, il peut conduire des négociations internationales relatives au développement, notamment celles menées dans le cadre de l'Union européenne. Par délégation du ministre des affaires étrangères, il peut représenter le Gouvernement au conseil des ministres prévu par la convention A.C.P.-C.E. signée à Lomé le 15 décembre 1989.
