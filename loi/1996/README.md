@@ -18,6 +18,8 @@
 - [Loi n° 96-296 du 9 avril 1996 (TASX9501431L)](loi-n-96-296-du-9-avril-1996-tasx9501431l)
 - [Loi n° 96-300 du 10 avril 1996 (JUSX9601433L)](loi-n-96-300-du-10-avril-1996-jusx9601433l)
 - [Loi n° 96-314 du 12 avril 1996 (ECOX9600004L)](loi-n-96-314-du-12-avril-1996-ecox9600004l)
+- [Loi n° 96-369 du 3 mai 1996 (INTX9400080L)](loi-n-96-369-du-3-mai-1996-intx9400080l)
+- [Loi n° 96-370 du 3 mai 1996 (INTX9400179L)](loi-n-96-370-du-3-mai-1996-intx9400179l)
 - [Loi n° 96-62 du 29 janvier 1996 (JUSX9500134L)](loi-n-96-62-du-29-janvier-1996-jusx9500134l)
 - [Loi n° 96-63 du 29 janvier 1996 (TASX9500159L)](loi-n-96-63-du-29-janvier-1996-tasx9500159l)
 - [Loi n° 96-64 du 29 janvier 1996 (MAEX9400017L)](loi-n-96-64-du-29-janvier-1996-maex9400017l)
