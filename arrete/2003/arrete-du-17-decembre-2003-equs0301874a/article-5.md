@@ -1,6 +1,6 @@
 # Article 5
 
-Sur quadricycle léger à moteur, l'acquisition d'expérience est d'une durée de trois heures de formation pratique, dont une première demi-heure consacrée à la maîtrise de l'engin hors circulation, puis deux heures trente réservées à la conduite effective sur la voie publique. Chaque séance de conduite effective ne peut être d'une durée supérieure à une heure. L'intervalle entre deux séances doit être d'une durée au moins égale au temps de conduite précédent.
+Sur quadricycle léger à moteur, l'acquisition d'expérience est d'une durée de cinq heures de formation pratique, dont une première demi-heure consacrée à la maîtrise de l'engin hors circulation, puis quatre heures trente réservées à la conduite effective sur la voie publique. Chaque séance de conduite effective ne peut être d'une durée supérieure à une heure. L'intervalle entre deux séances doit être d'une durée au moins égale au temps de conduite précédent.
 
 Chaque enseignant ne peut encadrer en circulation qu'un seul élève.
 

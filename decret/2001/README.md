@@ -233,6 +233,7 @@
 - [Décret n°2001-945 du 16 octobre 2001 (JUSC0120251D)](decret-n2001-945-du-16-octobre-2001-jusc0120251d)
 - [Décret n°2001-947 du 16 octobre 2001 (MESF0110992D)](decret-n2001-947-du-16-octobre-2001-mesf0110992d)
 - [Décret n°2001-950 du 16 octobre 2001 (MCCB0100569D)](decret-n2001-950-du-16-octobre-2001-mccb0100569d)
+- [Décret n°2002-524 du 16 avril 2002 (EQUP0200516D)](decret-n2002-524-du-16-avril-2002-equp0200516d)
 - [Décret n°2002-87 du 16 janvier 2002 (MENF0102415D)](decret-n2002-87-du-16-janvier-2002-menf0102415d)
 - [Décret n°90-406 du 16 mai 1990 (MCCB9000275D)](decret-n90-406-du-16-mai-1990-mccb9000275d)
 - [Décret n°2001-429 du 16 mai 2001 (MENX0100048D)](decret-n2001-429-du-16-mai-2001-menx0100048d)

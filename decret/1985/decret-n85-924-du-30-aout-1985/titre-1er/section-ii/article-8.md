@@ -8,7 +8,7 @@ a) Représente l'établissement en justice et dans tous les actes de la vie civi
 
 b) A autorité sur le personnel n'ayant pas le statut de fonctionnaire de l'Etat, recruté par l'établissement ;
 
-c) Préside le conseil d'administration, la commission permanente et dans les lycées la conférence des délégués des élèves et le conseil des délégués pour la vie lycéenne ;
+c) Préside le conseil d'administration, la commission permanente et dans les lycées l'assemblée générale des délégués des élèves et le conseil des délégués pour la vie lycéenne ;
 
 d) Est ordonnateur des recettes et des dépenses de l'établissement ;
 
@@ -18,9 +18,11 @@ f) Exécute les délibérations du conseil d'administration et notamment le budg
 
 g) Soumet au conseil d'administration les mesures à prendre dans les domaines définis à l'article 2 et exécute les décisions adoptées par le conseil ;
 
-h) Conclut tout contrat ou convention au nom de l'établissement    avec l'autorisation du conseil d'administration;
+h) Conclut tout contrat ou convention après avoir recueilli, sous réserve des dispositions de l'article 16, l'autorisation du conseil d'administration ;
 
-i) Transmet dans les conditions fixées aux articles 15-9 et 15-12 de la loi du 22 juillet 1983 les actes de l'établissement au représentant de l'Etat, à l'autorité académique et à la collectivité de rattachement ;
+i) Transmet les actes de l'établissement dans les conditions fixées aux articles L. 421-11 et L. 421-14 du code de l'éducation, conformément aux dispositions des articles 33-1 et 33-2 du présent décret.
+
+Lorsqu'il est fait application des dispositions du c du 6° de l'article 16, le chef d'établissement informe le conseil d'administration le plus proche des marchés conclus sans autorisation préalable et tient à disposition des membres de ce dernier les documents y afférents.
 
 Lorsque l'établissement est associé, pour la mise en oeuvre de ses missions de formation continue, à un groupement d'établissements n'ayant pas le caractère de groupement d'intérêt public, le chef d'établissement vise les conventions s'inscrivant dans le programme des actions de formation continue de son établissement, qui ont été signées par l'ordonnateur de l'établissement, dit "établissement support", auquel a été confié la gestion du groupement. Il soumet ces conventions à l'approbation du conseil d'administration lorsqu'elles engagent les finances de l'établissement ou sont susceptibles d'entraîner des conséquences sur la formation initiale et la vie scolaire.
 
