@@ -118,6 +118,7 @@
 - [Arrêté du 30 décembre 1988 (AGRB8900033A)](arrete-du-30-decembre-1988-agrb8900033a)
 - [Arrêté du 30 décembre 1988 (AGRB8900034A)](arrete-du-30-decembre-1988-agrb8900034a)
 - [Arrêté du 30 décembre 1988 (AGRB8900035A)](arrete-du-30-decembre-1988-agrb8900035a)
+- [Arrêté du 30 décembre 1988 (BUDD8870018A)](arrete-du-30-decembre-1988-budd8870018a)
 - [Arrêté du 30 décembre 1988 (ECOP8900010A)](arrete-du-30-decembre-1988-ecop8900010a)
 - [Arrêté du 30 décembre 1988 (EQUC8800886A)](arrete-du-30-decembre-1988-equc8800886a)
 - [Arrêté du 30 décembre 1988 (INDD8800849A)](arrete-du-30-decembre-1988-indd8800849a)
