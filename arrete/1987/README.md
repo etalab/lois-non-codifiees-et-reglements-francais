@@ -97,7 +97,6 @@
 - [Arrêté du 5 août 1987 (INDR8700479A)](arrete-du-5-aout-1987-indr8700479a)
 - [Arrêté du 5 août 1987 (RESK8700469A)](arrete-du-5-aout-1987-resk8700469a)
 - [Arrêté du 5 février 1987](arrete-du-5-fevrier-1987)
-- [Arrêté du 5 février 1987 (ACVC8700001A)](arrete-du-5-fevrier-1987-acvc8700001a)
 - [Arrêté du 5 février 1987 (PTTP8700097A)](arrete-du-5-fevrier-1987-pttp8700097a)
 - [Arrêté du 5 janvier 1987](arrete-du-5-janvier-1987)
 - [Arrêté du 5 juin 1987](arrete-du-5-juin-1987)
