@@ -1,0 +1,3 @@
+# Article 20
+
+En application du troisième alinéa de l'article L. 632-2 du code de l'éducation, les internes peuvent demander avant la fin du quatrième semestre d'internat à changer de discipline dans la subdivision dans laquelle ils sont affectés, dans les conditions prévues à l'article 10 du présent décret. Cette possibilité ne peut s'exercer qu'une seule fois, et n'est offerte que dans la mesure où leur rang initial de classement les a situés, dans la discipline pour laquelle ils souhaitent opter, à un rang au moins égal à celui du dernier candidat issu des mêmes épreuves classantes nationales et affecté dans cette discipline au niveau de la subdivision.
