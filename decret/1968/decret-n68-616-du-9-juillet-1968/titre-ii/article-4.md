@@ -1,17 +1,15 @@
 # Article 4
 
-Le conseil d'administration est composé d'un président nommé par arrêté conjoint du ministre de l'agriculture, du ministre de l'économie et des finances, du ministre des départements et territoires d'outre-mer et de seize membres :
+Le conseil d'administration est composé d'un président nommé par arrêté conjoint du ministre chargé de l'agriculture, du ministre chargé de l'économie, des finances et du budget et du ministre chargé de l'outre-mer et de vingt membres :
 
-Trois représentants du ministre de l'agriculture ;
+Trois représentants du ministre chargé de l'agriculture ;
 
-Trois représentants du ministre de l'économie et des finances ;
+Trois représentants du ministre chargé de l'économie, des finances et du budget ;
 
-Deux représentants du ministre des départements et territoires d'outre-mer ;
+Deux représentants du ministre chargé de l'outre-mer ;
 
-Huit personnalités représentant la production et la fabrication du sucre nommées par arrêté conjoint du ministre de l'agriculture et du développement rural et du secrétaire d'Etat auprès du Premier ministre, chargé des départements et territoires d'outre-mer, sur proposition du comité interprofessionnel des productions saccharifères.
+Dix personnalités représentant la production et la fabrication de sucre nommées par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de l'outre-mer, sur proposition des organisations professionnelles représentatives ;
 
-Deux personnalités représentant la production de betteraves et la fabrication de l'alcool de betterave nommés par arrêté du ministre de l'agriculture.
+Deux personnalités représentant la production de betteraves et la fabrication d'alcool de betteraves nommées par arrêté du ministre chargé de l'agriculture.
 
 Le président du comité interprofessionnel des productions saccharifères siège de droit au conseil avec voix consultative.
-
-Il est en outre chargé de préparer, d'exécuter et coordonner les interventions relatives au marché de l'alcool de betterave, notamment en procédant pour le compte de l'Etat aux opérations d'achat et de vente.
