@@ -2,4 +2,3 @@
 
 - [Section I : Contrôles d'empoussièrement.](section-i)
 - [Section II : Organismes chargés des contrôles d'empoussièrement.](section-ii)
-- [Annexes](annexes)
