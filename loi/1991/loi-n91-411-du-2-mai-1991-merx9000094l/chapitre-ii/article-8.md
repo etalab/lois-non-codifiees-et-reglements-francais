@@ -10,4 +10,6 @@ c) La participation à l'amélioration des conditions de production et, d'une ma
 
 d) La participation à l'organisation d'une gestion équilibrée des ressources ;
 
-e) La faculté de réaliser des travaux d'intérêt collectif.
+e) La faculté de réaliser des travaux d'intérêt collectif ;
+
+f) La participation à la défense de la qualité des eaux conchylicoles.

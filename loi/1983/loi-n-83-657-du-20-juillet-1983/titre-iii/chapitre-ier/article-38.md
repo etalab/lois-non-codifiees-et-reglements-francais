@@ -25,3 +25,9 @@ III. - Lorsque les personnes mentionnées au h du I n'ont pas vocation à béné
 Les associés non coopérateurs jouissent de tous les autres droits reconnus aux associés coopérateurs.
 
 Les statuts peuvent prévoir, par dérogation au cinquième alinéa de l'article 37, que les parts sociales des associés non coopérateurs donnent droit à rémunération dans les conditions prévues à l'article 14 de la loi n° 47-1775 du 10 septembre 1947 précitée.
+
+IV. - Lorsque le conjoint du chef d'entreprise de pêche maritime est inscrit en tant que collaborateur au registre du commerce et des sociétés, l'un ou l'autre peut participer aux assemblées générales des organismes de coopération, de mutualité ou de crédit maritime et est éligible aux organes ou conseils d'administration ou de surveillance des organismes précités.
+
+Il en va de même du chef d'entreprise conchylicole et de son conjoint, collaborateur ou coexploitant.
+
+Toute clause contraire dans les statuts de ces organismes est réputée non écrite.
