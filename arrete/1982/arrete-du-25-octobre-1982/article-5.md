@@ -1,3 +1,3 @@
 # Article 5
 
-En dehors des agents de la direction générale des impôts qui en sont destinataires dans le cadre de leurs attributions et de l'INSEE dans les conditions prévues à l'article précédent, les informations faisant l'objet du traitement MEDOC ne peuvent être communiquées qu'aux personnes ayant qualité pour en connaître en vertu de dispositions législatives.
+Le directeur de la qualité et le directeur de l'aménagement au ministère de l'agriculture, le directeur des collectivités locales et le directeur de la réglementation et du contentieux au ministère de l'intérieur et de la décentralisation, le directeur de la protection de la nature au ministère de l'environnement, les préfets et les maires sont chargés, chacun en ce qui le concerne, de l'application du présent arrêté, qui sera publié au Journal officiel de la République française.
