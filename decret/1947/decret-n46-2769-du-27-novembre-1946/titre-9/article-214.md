@@ -1,10 +1,10 @@
 # Article 214
 
-Dans chaque circonscription d'union régionale, le contrôle médical est placé sous la direction d'un médecin-conseil régional et, le cas échéant, d'un chirurgien-dentiste et d'un pharmacien-conseil ; le médecin-conseil régional peut être assisté d'un médecin-conseil régional adjoint et de médecins-conseils si l'importance de la circonscription le justifie. Ceux-ci peuvent exercer leurs attributions au sein des sociétés de secours minières.
+Dans chaque circonscription d'une caisse régionale de la sécurité sociale dans les mines, le contrôle médical est placé sous la direction d'un médecin-conseil régional et, le cas échéant, d'un chirurgien-dentiste et d'un pharmacien-conseil ; le médecin-conseil régional peut être assisté d'un médecin-conseil régional adjoint et de médecins-conseils si l'importance de la circonscription le justifie.
 
-Sous réserve des dispositions de l'article R. 315-6 du code de la sécurité sociale, les médecins-conseils régionaux, les chirurgiens-dentistes-conseils régionaux et pharmaciens-conseils régionaux organisent, sous l'autorité du directeur de la caisse autonome nationale, l'exercice du contrôle médical dans la circonscription, après consultation du directeur de l'union régionale.
+Sous réserve des dispositions de l'article R. 315-6 du code de la sécurité sociale, les médecins-conseils régionaux, les chirurgiens-dentistes-conseils régionaux et pharmaciens-conseils régionaux organisent, sous l'autorité du directeur de la caisse autonome nationale, l'exercice du contrôle médical dans la circonscription, après consultation du directeur de la caisse régionale de la sécurité sociale dans les mines.
 
-Les unions régionales peuvent faire appel, dans des conditions définies par la caisse autonome nationale, au concours occasionnel de spécialistes agissant à titre consultatif et qui ne sont pas soumis au statut des praticiens-conseils.
+Les caisses régionales de la sécurité sociale dans les mines peuvent faire appel, dans des conditions définies par la caisse autonome nationale, au concours occasionnel de spécialistes agissant à titre consultatif et qui ne sont pas soumis au statut des praticiens-conseils.
 
 Le médecin-conseil régional est spécialement chargé, dans le cadre des règles générales fixées par la caisse autonome nationale :
 
