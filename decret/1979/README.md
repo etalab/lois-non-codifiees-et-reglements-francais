@@ -35,7 +35,6 @@
 - [Décret n°79-709 du 7 août 1979](decret-n79-709-du-7-aout-1979)
 - [Décret n°79-940 du 7 novembre 1979](decret-n79-940-du-7-novembre-1979)
 - [Décret n°79-387 du 7 mai 1979](decret-n79-387-du-7-mai-1979)
-- [Décret n°79-682 du 8 août 1979](decret-n79-682-du-8-aout-1979)
 - [Décret n°79-707 du 8 août 1979](decret-n79-707-du-8-aout-1979)
 - [Décret n°79-310 du 9 avril 1979](decret-n79-310-du-9-avril-1979)
 - [Décret n°79-949 du 9 novembre 1979](decret-n79-949-du-9-novembre-1979)
