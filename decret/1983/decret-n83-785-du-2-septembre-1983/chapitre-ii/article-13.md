@@ -1,3 +1,0 @@
-# Article 13
-
-L'interne que le comité médical a reconnu atteint de tuberculose, de maladie mentale, de poliomyélite ou d'une affection cancéreuse a droit à un congé [*longue maladie*] de douze mois qui peut, après avis du comité médical, être prolongé de six mois [*durée*]. Pendant ce congé, l'intéressé perçoit les deux tiers de la rémunération mentionnée au 1° et au 2° de l'article 9 du présent décret. Si, à l'issue de ce congé, l'intéressé ne peut reprendre ses activités, il lui est accordé, sur sa demande, un congé sans rémunération de dix-huit mois au maximum. Si le comité médical estime qu'à l'issue de ce dernier congé l'intéressé ne peut reprendre ses activités, il est mis fin à celles-ci.
