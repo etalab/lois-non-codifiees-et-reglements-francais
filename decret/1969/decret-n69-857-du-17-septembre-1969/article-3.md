@@ -1,6 +1,6 @@
 # Article 3
 
-Tout chef ou gérant d'une entreprise de production d'oeufs qui aura contrevenu aux dispositions du paragraphe 1er de l'article 4 du règlement du conseil des communautés européennes n° 2772/75 sera puni d'une amende de 25.000 F [*sanctions pénales*].
+Tout chef ou gérant d'une entreprise de production d'oeufs qui aura contrevenu aux dispositions du paragraphe 1er de l'article 4 du règlement du conseil des communautés européennes n° 2772/75 sera puni d'une amende de 3750 euros.
 
 Sera puni des mêmes peines tout chef ou gérant d'une entreprise de collecte d'oeufs ou de centre d'emballage qui aura contrevenu aux dispositions du paragraphe 2 de l'article 4 du même règlement.
 

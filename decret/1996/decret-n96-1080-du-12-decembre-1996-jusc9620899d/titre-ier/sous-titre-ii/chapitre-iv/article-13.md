@@ -4,12 +4,12 @@ Les actes mentionnés au tableau I donnent lieu, s'ils sont relatifs à une obli
 
 Pour une créance :
 
-- de 0 à 2 000 F : 2 taux de base par tranche de 500 F ;
+- de 0 jusqu'à 304 euros : 2 taux de base par tranche de 76 euros ;
 
-- de 2 001 à 6 000 F : 8 taux de base + 2 taux de base par tranche de 1 000 F ;
+- au-delà de 304 et jusqu'à 912 euros : 8 taux de base + 2 taux de base par tranche de 152 euros ;
 
-- de 6 001 à 20 000 F : 16 taux de base + 2 taux de base par tranche de 2 000 F ;
+- au-delà de 912 et jusqu'à 3040 euros : 16 taux de base + 2 taux de base par tranche de 304 euros ;
 
-- supérieure à 20 000 F : 30 taux de base + 2 taux de base par tranche de 10 000 F.
+- supérieure à 3040 euros : 30 taux de base + 2 taux de base par tranche de 1520 euros.
 
 Ce droit ne peut être inférieur à 2 taux de base ni supérieur à 125 taux de base.

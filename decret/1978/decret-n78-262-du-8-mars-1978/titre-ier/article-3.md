@@ -8,9 +8,9 @@ L'acte dressé sur projet présenté par les parties donne droit aux mêmes émo
 
 Sont considérés comme un seul acte la convention temporaire et la convention définitive prévues aux articles 1091 et 1097 du nouveau code de procédure civile.
 
-L'émolument est réduit de moitié pour les actes conclus sous condition suspensive : il en est de même pour les actes imparfaits sur lesquels fait défaut la signature de l'une au moins des parties.    Dès réalisation des conditions suspensives ou perfection de l'acte l'émolument est dû en entier sous déduction de la part d'émoluments perçus sur l'acte conditionnel ou imparfait.
+L'émolument est réduit de moitié pour les actes conclus sous condition suspensive : il en est de même pour les actes imparfaits sur lesquels fait défaut la signature de l'une au moins des parties. Dès réalisation des conditions suspensives ou perfection de l'acte l'émolument est dû en entier sous déduction de la part d'émoluments perçus sur l'acte conditionnel ou imparfait.
 
-Dans le cas où le montant des émoluments afférents à un acte déterminé serait supérieur à 500 000 F, le notaire et son client peuvent convenir d'une réduction d'émoluments pour la partie de la rémunération dépassant le seuil ainsi fixé. A défaut d'accord, le notaire instrumentaire, l'un des notaires participants ou le débiteur des émoluments peuvent saisir le conseil régional des notaires, dont dépend le notaire instrumentaire, qui statue sur le principe et le montant de cette réduction.
+Dans le cas où le montant des émoluments afférents à un acte déterminé serait supérieur à 80. 000 euros, le notaire et son client peuvent convenir d'une réduction d'émoluments pour la partie de la rémunération dépassant le seuil ainsi fixé. A défaut d'accord, le notaire instrumentaire, l'un des notaires participants ou le débiteur des émoluments peuvent saisir le conseil régional des notaires, dont dépend le notaire instrumentaire, qui statue sur le principe et le montant de cette réduction.
 
 Le bureau de ce conseil se prononce, après avoir entendu les observations des parties, dans les deux mois de la demande. Sa décision est notifiée aux intéressés par lettre recommandée avec demande d'avis de réception. Elle est susceptible de recours devant le premier président de la cour d'appel dans le délai d'un mois à compter de cette notification.
 

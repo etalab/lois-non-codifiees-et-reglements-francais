@@ -4,13 +4,13 @@ I. - Lorsque les huissiers de justice ont reçu mandat de recouvrer ou d'encaiss
 
 Ce droit, calculé sur les sommes encaissées ou recouvrées au titre du principal de la créance ou du montant de la condamnation, à l'exclusion des dépens, est fixé selon les tranches suivantes :
 
-10 p. 100 jusqu'à 800 F ;
+10 p. 100 jusqu'à 125 euros ;
 
-6,5 p. 100 de 801 à 4 000 F ;
+6,5 p. 100 au-delà de 125 et jusqu'à 610 euros ;
 
-3,5 p. 100 de 4 001 à 10 000 F ;
+3,5 p. 100 au-delà de 610 et jusqu'à 1525 euros ;
 
-0,3 p. 100 au-delà de 10 000 F.
+0,3 p. 100 au-delà de 1525 euros.
 
 II. - Ce droit ne peut être inférieur à 2 taux de base ni supérieur à 250 taux de base.
 

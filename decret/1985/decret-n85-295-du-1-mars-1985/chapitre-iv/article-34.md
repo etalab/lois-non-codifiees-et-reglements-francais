@@ -1,6 +1,6 @@
 # Article 34
 
-Les établissements publics de l'Etat et les entreprises nationales mentionnés à l'article 30 de la loi du 1er mars 1984 précitée qui, à la clôture de l'exercice social, comptent trois cents salariés ou plus ou dont le montant hors taxes du chiffre d'affaires est supérieur ou égal à cent vingt millions de francs, sont tenus d'établir les documents mentionnés à l'article 340-1 de la loi sur les sociétés commerciales et les rapports correspondants. Ces critères sont définis selon les dispositions prévues aux alinéas 3 et 4 de l'article 244 du décret n° 67-236 du 23 mars 1967 modifié sur les sociétés commerciales.
+Les établissements publics de l'Etat et les entreprises nationales mentionnés à l'article 30 de la loi du 1er mars 1984 précitée qui, à la clôture de l'exercice social, comptent trois cents salariés ou plus ou dont le montant hors taxes du chiffre d'affaires est supérieur ou égal à 18.000.000 euros, sont tenus d'établir les documents mentionnés à l'article 340-1 de la loi sur les sociétés commerciales et les rapports correspondants. Ces critères sont définis selon les dispositions prévues aux alinéas 3 et 4 de l'article 244 du décret n° 67-236 du 23 mars 1967 modifié sur les sociétés commerciales.
 
 Ils cessent d'être assujettis à cette obligation lorsqu'ils ne dépassent aucun des chiffres fixés pour ces critères pendant deux exercices successifs.
 

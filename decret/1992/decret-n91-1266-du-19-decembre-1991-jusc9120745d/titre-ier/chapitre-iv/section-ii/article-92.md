@@ -1,5 +1,5 @@
 # Article 92
 
-La rétribution versée par l'Etat aux avoués qui prêtent leur concours devant la cour d'appel au bénéficiaire de l'aide juridictionnelle est de 1 750 F. Cette somme est majorée de 375 F en cas d'incidents mentionnés à l'article 526 et aux 1° à 4° de l'article 771 du nouveau code de procédure civile ou de référé, dans la limite de trois majorations.
+La rétribution versée par l'Etat aux avoués qui prêtent leur concours devant la cour d'appel au bénéficiaire de l'aide juridictionnelle est de 267 euros. Cette somme est majorée de 57 euros en cas d'incidents mentionnés à l'article 526 et aux 1° à 4° de l'article 771 du nouveau code de procédure civile ou de référé, dans la limite de trois majorations.
 
 En cas d'intervention devant les autres juridictions, les avoués perçoivent une rétribution égale à celle qui résulte du barème prévu à l'article 90.

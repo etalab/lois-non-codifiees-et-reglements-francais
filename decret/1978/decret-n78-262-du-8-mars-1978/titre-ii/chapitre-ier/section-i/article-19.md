@@ -6,4 +6,4 @@ Si le mode de calcul prévu à l'alinéa précédent ne peut être appliqué, le
 
 A défaut d'accord entre les parties et le notaire sur cette valeur estimative, les émoluments sont perçus sur la valeur vénale déterminée par le juge chargé de la taxation.
 
-L'assiette de l'émolument est arrondie à la dizaine de francs la plus proche.
+L'assiette de l'émolument est arrondie à l'euro le plus proche.

@@ -6,4 +6,4 @@ Jusqu'au jour du prononcé de l'ordonnance par le premier président, la demande
 
 Le sursis à exécution n'est accordé que s'il existe des moyens sérieux d'annulation ou de réformation de la décision déférée à la cour.
 
-L'auteur d'une demande de sursis à exécution manifestement abusive peut être condamné par le premier président à une amende de 100 à 10 000 F, sans préjudice des dommages-intérêts qui pourraient être réclamés.
+L'auteur d'une demande de sursis à exécution manifestement abusive peut être condamné par le premier président à une amende de 15 à 1500 euros, sans préjudice des dommages-intérêts qui pourraient être réclamés.
