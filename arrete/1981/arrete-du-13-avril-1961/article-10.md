@@ -2,8 +2,8 @@
 
 L'autorité militaire compétente visée par le présent arrêté est :
 
-- à l'échelon central, le général chef d'état-major de l'armée (état-major de l'armée, 4e bureau) ;
+- à l'échelon central, le chef d'état-major des armées (sous-chef d'état-major logistique), le délégué général pour l'armement, le chef d'état-major de l'armée de terre (sous-chef d'état-major opérations-logistique), le chef d'état-major de la marine (sous-chef d'état-major logistique), le chef d'état-major de l'armée de l'air (sous-chef d'état-major logistique) ou le directeur général de la gendarmerie nationale ;
 
-- à l'échelon régional en métropole, le général commandant la région militaire ;
+- à l'échelon local en métropole, le commandant de circonscription militaire de défense, le commandant d'arrondissement maritime, le commandant de région aérienne ou le commandant de circonscription de gendarmerie ;
 
-- dans les départements d'outre-mer, les départements des Oasis et du Saoura et les départements algériens, l'autorité militaire la plus élevée et, le cas échéant, l'autorité militaire subordonnée qui aura reçu délégation à cet effet.
+- dans les départements d'outre-mer, le commandant supérieur ou, le cas échéant, l'autorité militaire qui a reçu délégation à cet effet.

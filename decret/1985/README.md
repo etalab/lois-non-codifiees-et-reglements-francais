@@ -167,6 +167,8 @@
 - [Décret n°85-1461 du 30 décembre 1985](decret-n85-1461-du-30-decembre-1985)
 - [Décret n°85-1462 du 30 décembre 1985](decret-n85-1462-du-30-decembre-1985)
 - [Décret n°85-1464 du 30 décembre 1985](decret-n85-1464-du-30-decembre-1985)
+- [Décret n°85-820 du 30 juillet 1985](decret-n85-820-du-30-juillet-1985)
+- [Décret n°85-821 du 30 juillet 1985](decret-n85-821-du-30-juillet-1985)
 - [Décret n°85-924 du 30 août 1985](decret-n85-924-du-30-aout-1985)
 - [Décret n°85-560 du 30 mai 1985](decret-n85-560-du-30-mai-1985)
 - [Décret n°85-565 du 30 mai 1985](decret-n85-565-du-30-mai-1985)
