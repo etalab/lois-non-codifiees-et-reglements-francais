@@ -284,13 +284,13 @@ Distillation d'alcool                     B.
 
 52     Industrie du caoutchouc :
 
-5201     Fabrication de pneumatiques et             chambres à air                           A.
+5201     Fabrication de pneumatiques et             chambres à air                           B.
 
-5202     Rechapage et réparation industrielle             de pneumatiques                          A.
+5202     Rechapage et réparation industrielle             de pneumatiques                          B.
 
-5203     Fabrication d'ouvrages en caoutchouc      A.
+5203     Fabrication d'ouvrages en caoutchouc      B.
 
-5204     Fabrication d'ouvrages en amiante         A.
+5204     Fabrication d'ouvrages en amiante         B.
 
 53     Transformation des matières             plastiques :
 
