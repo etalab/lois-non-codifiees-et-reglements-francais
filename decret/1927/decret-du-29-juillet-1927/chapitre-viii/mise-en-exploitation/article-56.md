@@ -1,16 +1,14 @@
 # Article 56
 
-Dès l'achèvement des travaux, le distributeur, s'il est le maître d'ouvrage, adresse à l'ingénieur en chef chargé du contrôle une déclaration certifiant sous sa responsabilité :
+Le maître d'ouvrage avise sans délai l'ingénieur en chef chargé du contrôle, les services intéressés et les maires des communes traversées de l'achèvement des travaux et, selon le cas, de la mise en service des ouvrages ou de la date prévue pour celle-ci. Pour la distribution publique d'électricité, l'autorité concédante et le distributeur s'informent réciproquement.
 
-D'une part, que les ouvrages réalisés répondent aux prescriptions des arrêtés techniques visés à l'article 54 ci-dessus ou qu'ils tiennent compte des dérogations aux dispositions desdits arrêtés formulées dans l'autorisation d'exécution des travaux ;
+Le maître d'ouvrage adresse à l'ingénieur en chef chargé du contrôle une déclaration certifiant sous sa responsabilité :
 
-D'autre part, que ces ouvrages, en dehors d'éventuelles modifications énumérées et justifiées, sont conformes au projet ayant fait l'objet de ladite autorisation.
+1° Que l'ouvrage est conforme aux prescriptions des arrêtés techniques mentionnés à l'article 54 du présent décret et, le cas échéant, aux dérogations formulées dans l'autorisation d'exécution des travaux lorsque l'ouvrage est soumis à autorisation ;
 
-Dans les quinze jours qui suivent la réception de la déclaration par l'ingénieur en chef chargé du contrôle, le préfet délivre une autorisation de mise sous tension et en avise les services intéressés, les maires des communes traversées et, le cas échéant, l'organisme de groupement concédant des réseaux de distribution publique.
+2° S'il s'agit d'un ouvrage soumis à autorisation, qu'il est conforme au projet ayant fait l'objet de l'autorisation, compte tenu des éventuelles modifications ayant fait l'objet de l'information prévue au deuxième alinéa de l'article 49 du présent décret et, le cas échéant, de l'instruction prévue au troisième alinéa du même article.
 
-En ce qui concerne les ouvrages établis dans les conditions prévues au deuxième alinéa de l'article 49 du présent décret, le distributeur avise l'ingénieur en chef chargé du contrôle, les services intéressés, les maires des communes traversées et, le cas échéant, l'organisme de groupement, de son intention de mettre sous tension les ouvrages et adresse à l'ingénieur en chef chargé du contrôle une déclaration certifiant sous sa responsabilité la conformité des ouvrages aux prescriptions des arrêtés techniques prévus à l'article 54. Sauf opposition de l'ingénieur en chef du contrôle dans un délai de quinze jours, il est procédé à la mise en service desdits ouvrages.
-
-Lorsque le maître d'ouvrage est une collectivité ou un organisme de groupement, la déclaration prévue aux premier et troisième alinéas du présent article est établie par ce maître d'ouvrage et remise par lui au distributeur, lequel vise ladite déclaration et la transmet à l'ingénieur en chef chargé du contrôle.
+Si le maître d'ouvrage est une collectivité territoriale ou un établissement public de coopération, la déclaration ci-dessus est établie par ce maître d'ouvrage et remise par lui au distributeur, lequel la vise et la transmet à l'ingénieur en chef chargé du contrôle.
 
 Lorsque, postérieurement à la mise sous tension d'un ouvrage, un des services intéressés constate un inconvénient lui paraissant résulter des conditions techniques d'exécution de cet ouvrage, il en informe l'ingénieur en chef chargé du contrôle. Ce dernier peut prescrire au maître de l'ouvrage les modifications qui seraient nécessaires pour remédier aux inconvénients constatés.
 
