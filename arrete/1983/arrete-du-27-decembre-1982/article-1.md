@@ -1,3 +1,17 @@
 # Article 1
 
-Dans la limite des crédits ouverts à cet effet, il peut être alloué à l'occasion de l'élection des conseillers prud'hommes du 8 décembre 1982 au secrétaire de chaque commission de propagande instituée conformément à l'article R. 513-47 du code du travail une indemnité de 0,95 F par centaine d'électeurs inscrits.
+La commission prévue à l'article 3 du décret n° 82-639 du 22 juillet 1982 est composée ainsi qu'il suit ;
+
+Au titre du régime général des travailleurs salariés de l'industrie et du commerce et des régimes qui lui sont rattachés.
+
+Trois représentants de la caisse nationale de l'assurance maladie des travailleurs salariés.
+
+Au titre des autres régimes.
+
+Deux représentants de la caisse centrale de secours mutuels agricoles ;
+
+Un représentant de la caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles.
+
+Les membres de la commission ci-dessus énumérés ont voix délibérative. En cas de partage des voix, le président a voix prépondérante.
+
+Un représentant de l'agence centrale des organismes de sécurité sociale assiste aux réunions de la commission avec voix consultative.
