@@ -528,7 +528,6 @@
 - [Décret n°90-178 du 21 février 1990 (AGRS8901649D)](decret-n90-178-du-21-fevrier-1990-agrs8901649d)
 - [Décret n°90-256 du 21 mars 1990 (ECOT9020140D)](decret-n90-256-du-21-mars-1990-ecot9020140d)
 - [Décret n°90-260 du 21 mars 1990 (PRME9061061D)](decret-n90-260-du-21-mars-1990-prme9061061d)
-- [Décret n°90-498 du 21 juin 1990 (AGRS9000735D)](decret-n90-498-du-21-juin-1990-agrs9000735d)
 - [Décret n°90-499 du 21 juin 1990 (SPSS9000547D)](decret-n90-499-du-21-juin-1990-spss9000547d)
 - [Décret n°90-500 du 21 juin 1990 (SPSS9000548D)](decret-n90-500-du-21-juin-1990-spss9000548d)
 - [Décret n°90-501 du 21 juin 1990 (PRMX9000067D)](decret-n90-501-du-21-juin-1990-prmx9000067d)
