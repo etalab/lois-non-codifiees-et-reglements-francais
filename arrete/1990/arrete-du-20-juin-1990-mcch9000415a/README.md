@@ -8,4 +8,5 @@
 - [TITRE IV : Evaluation des unités de formation et délivrance du diplôme.](titre-iv)
 - [TITRE V : Équivalences et dispenses du diplôme d'Etat de professeur de danse.](titre-v)
 - [TITRE VI : Composition de la commission nationale créée par l'article 1er de la loi du 10 juillet 1989.](titre-vi)
+- [Titre VII : Dispositions applicables aux artistes chorégraphiques visés à l'alinéa 3 de l'article 1er de la loi du 10 juillet 1989.](titre-vii)
 - [Article 17](article-17.md)

@@ -14,6 +14,8 @@ Les panneaux d'interdiction et les panneaux d'obligation, sauf ceux de type B 21
 
 Les panneaux de fin d'interdiction et les panneaux de fin d'obligation indiquent le point à partir duquel une prescription précédemment notifiée pour les véhicules en mouvement cesse de s'appliquer.
 
+- panneaux de prescription zonale.
+
 A. - Panneaux d'interdiction employés
 
 pour porter les interdictions suivantes à la connaissance des usagers
@@ -45,16 +47,6 @@ Panneau B 6 a. - 1. Stationnement interdit.
 Panneau B 6 a. - 2. Stationnement interdit du 1er au 15 du mois.
 
 Panneau B 6 a. - 3. Stationnement interdit du 16 à la fin du mois.
-
-Panneau B 6 b. - 1. Entrée d'une zone à stationnement interdit.
-
-Panneau B 6 b. - 2. Entrée d'une zone à stationnement unilatéral à alternance semi-mensuelle.
-
-Panneau B 6 b. - 3. Entrée d'une zone à stationnement de durée limitée.
-
-Panneau B 6 b. - 4. Entrée d'une zone à stationnement payant.
-
-Panneau B 6 b. - 5. Entrée d'une zone à stationnement unilatéral à alternance semi-mensuelle et à durée limitée.
 
 Panneau B 6 d. - Arrêt et stationnement interdits.
 
@@ -111,8 +103,6 @@ Le panneau B 1 " Sens interdit " est à fond rouge et porte un symbole blanc.
 Les autres panneaux, à l'exception de ceux du type B 6, ont le fond blanc. " Ils ont une bordure rouge, elle-même entourée d'un listel blanc, leurs symboles et inscriptions sont noirs, à l'exception " des panneaux B 3, B 3 a, B 15, B 18 a et B 18 b dont une partie du symbole est rouge et des panneaux B 18 a et B 18 c dont une partie du symbole est orange. La barre oblique, quand elle est prévue, est de couleur rouge.
 
 Les panneaux B 6 a et B 6 d sont à fond bleu avec une bande rouge elle-même bordée d'un listel blanc. La ou les barres sont rouges. Les inscriptions des panneaux B 6 a 2 et B 6 a 3 sont de couleur blanche.
-
-Les panneaux B 6 b ont la forme carrée. Ils sont à fond blanc et bordés d'un listel rouge. " Les symboles qu'ils portent, outre le panneau de type B 6 a, sont noirs. "
 
 B. - Panneaux d'obligation
 
@@ -188,16 +178,38 @@ Panneau B 45. - Fin de voie réservée aux véhicules des services réguliers de
 
 Panneau B 49. - Fin d'obligation dont la nature est mentionnée par une inscription sur le panneau.
 
-Panneau B 50 a. - Sortie de zone à stationnement interdit.
+" Ces panneaux sont de forme circulaire. Ils sont à fond bleu et sont bordés d'un listel blanc. Les symboles sont blancs barrés de rouge. Les inscriptions sont de couleur blanche.
 
-Panneau B 50 b. - Sortie de zone à stationnement unilatéral à alternance semi-mensuelle.
+" E. - Panneaux de prescription zonale ;
 
-Panneau B 50 c. - Sortie de zone à stationnement de durée limitée avec contrôle par disque.
+" Panneau B.6b 1. Entrée d'une zone à stationnement interdit ;
 
-Panneau B 50 d. - Sortie de zone à stationnement payant.
+" Panneau B.6b 2. Entrée d'une zone à stationnement unilatéral à alternance semi-mensuelle ;
 
-Panneau B 50 e. - Sortie de zone à stationnement unilatéral à alternance semi-mensuelle et à durée limitée avec contrôle par disque.
+" Panneau B.6b 3. Entrée d'une zone à stationnement de durée limitée ;
 
-" Ces panneaux, à l'exception de ceux du type B 50, sont de forme circulaire. Ils sont à fond bleu et sont bordés d'un listel blanc. Les symboles sont blancs barrés de rouge. Les inscriptions sont de couleur blanche.
+" Panneau B.6b 4. Entrée d'une zone à stationnement payant ;
 
-" Les panneaux de type B 50 ont la forme carrée. Ils sont à fond blanc et bordés d'un listel noir. Le symbole circulaire qu'ils portent est du type B 6 a où la couleur rouge est remplacée par du gris. Les autres symboles et la barre oblique sont noirs. "
+" Panneau B.6b 5. Entrée d'une zone à stationnement unilatéral à alternance semi-mensuelle et à durée limitée ;
+
+" Panneau B.30. Entrée d'une zone à vitesse limitée à 30 km/h ;
+
+" Panneau B.50 a. Sortie de zone à stationnement interdit ;
+
+" Panneau B.50 b. Sortie de zone à stationnement unilatéral à alternance semi-mensuelle ;
+
+" Panneau B.50 c. Sortie de zone à stationnement de durée limitée avec contrôle par disque ;
+
+" Panneau B.50 d. Sortie de zone à stationnement payant ;
+
+" Panneau B.50 e. Sortie de zone à stationnement unilatéral à alternance semi-mensuelle et à durée limitée avec contrôle par disque ;
+
+" Panneau B.51. Sortie d'une zone à vitesse limitée à 30 km/h. "
+
+Les panneaux de type B.6 b ont la forme carrée. Ils sont à fond blanc et bordés d'un listel rouge. Les symboles qu'ils portent, outre le panneau de type B.6 a, sont noirs.
+
+Le panneau B.30 est de forme rectangulaire, le petit côté étant horizontal. Il est à fond blanc, écriture noire, et bordé d'un listel rouge. Il comporte la reproduction du panneau B.14 approprié.
+
+Les panneaux de type B.50 ont la forme carrée. Ils sont à fond blanc et bordés d'un listel noir. Le symbole circulaire qu'ils portent est du type B.6 a où la couleur rouge est remplacée par du gris. Les autres symboles et la barre oblique sont noirs.
+
+Le panneau B.51 est de forme rectangulaire, le petit côté étant horizontal. Il est à fond blanc, écriture noire, et bordé d'un listel noir. Il comporte la reproduction du panneau B.14 approprié où la couleur rouge est remplacée par du gris. Les autres symboles et la barre oblique sont noirs.
