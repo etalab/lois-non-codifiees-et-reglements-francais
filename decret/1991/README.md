@@ -120,7 +120,6 @@
 - [Décret n°91-760 du 5 août 1991 (SPSS9101586D)](decret-n91-760-du-5-aout-1991-spss9101586d)
 - [Décret n°91-761 du 5 août 1991 (SANS9101541D)](decret-n91-761-du-5-aout-1991-sans9101541d)
 - [Décret n°91-870 du 5 septembre 1991 (SANH9101416D)](decret-n91-870-du-5-septembre-1991-sanh9101416d)
-- [Décret n°91-871 du 5 septembre 1991 (SANH9101417D)](decret-n91-871-du-5-septembre-1991-sanh9101417d)
 - [Décret n°91-878 du 5 septembre 1991 (EQUG9100982D)](decret-n91-878-du-5-septembre-1991-equg9100982d)
 - [Décret n°91-889 du 5 septembre 1991 (MENN9101024D)](decret-n91-889-du-5-septembre-1991-menn9101024d)
 - [Décret n°91-897 du 5 septembre 1991 (SPSS9101559D)](decret-n91-897-du-5-septembre-1991-spss9101559d)
