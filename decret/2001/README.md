@@ -139,6 +139,7 @@
 - [Décret n°2001-33 du 10 janvier 2001 (EQUP0000730D)](decret-n2001-33-du-10-janvier-2001-equp0000730d)
 - [Décret n°2001-617 du 10 juillet 2001 (JUSF0150006D)](decret-n2001-617-du-10-juillet-2001-jusf0150006d)
 - [Décret n°2001-620 du 10 juillet 2001 (MESN0101216D)](decret-n2001-620-du-10-juillet-2001-mesn0101216d)
+- [Décret n°92-1280 du 10 décembre 1992 (ECOC9200128D)](decret-n92-1280-du-10-decembre-1992-ecoc9200128d)
 - [Décret n°96-887 du 10 octobre 1996 (JUSC9620137D)](decret-n96-887-du-10-octobre-1996-jusc9620137d)
 - [Décret n°2001-410 du 10 mai 2001 (ECOI0100190D)](decret-n2001-410-du-10-mai-2001-ecoi0100190d)
 - [Décret n°2001-1169 du 11 décembre 2001 (ECOC0100073D)](decret-n2001-1169-du-11-decembre-2001-ecoc0100073d)
