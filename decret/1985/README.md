@@ -37,6 +37,7 @@
 - [Décret n°85-1198 du 14 novembre 1985](decret-n85-1198-du-14-novembre-1985)
 - [Décret n°85-1106 du 15 octobre 1985](decret-n85-1106-du-15-octobre-1985)
 - [Décret n°85-1294 du 15 décembre 1985](decret-n85-1294-du-15-decembre-1985)
+- [Décret n°85-1328 du 16 décembre 1985](decret-n85-1328-du-16-decembre-1985)
 - [Décret n°85-1362 du 17 décembre 1985](decret-n85-1362-du-17-decembre-1985)
 - [Décret n°85-1003 du 19 septembre 1985](decret-n85-1003-du-19-septembre-1985)
 - [Décret n°85-1220 du 20 novembre 1985](decret-n85-1220-du-20-novembre-1985)

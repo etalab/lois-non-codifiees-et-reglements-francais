@@ -1,21 +1,9 @@
 # Article 1
 
-Il sera frappé par l'administration des monnaies et médailles, pour le compte de l'Etat, indépendamment de la pièce de 10 F visée par l'arrêté du 8 novembre 1974, une série de pièces commémoratives de 10 F au millésime 1985, dont la composition et les caractéristiques sont fixées ainsi qu'il suit :
+Le présent arrêté concerne les conditions de préparation, de commercialisation et d'inspection sanitaire des viandes attendries destinées à la consommation humaine [*champ d'application*].
 
-Désignation : pièces en argent de qualité courante.
+Seul est autorisé l'emploi d'appareils dénommés " Attendrisseurs de viande ", dont la fonction est de sectionner les fibres et les aponévroses dans les masses musculaires et dont les caractéristiques techniques sont définies à l'article 2.
 
-Diamètre (en millimètres) : 26.
+L'utilisation de tout autre appareil mécanique doit faire l'objet d'une autorisation du ministère de l'agriculture.
 
-Composition :
-
-- titre droit : cuivre 920, nickel 60, aluminium 20.
-
-- tolérance (en millièmes) : plus ou moins 10.
-
-Poids :
-
-- poids droit : 10 grammes.
-
-- tolérance (en millièmes) : plus ou moins 50.
-
-Tranche lisse avec inscription incuse de la devise : "Liberté, Egalité, Fraternité".
+Toute détention d'un attendrisseur de viande doit faire l'objet d'une déclaration au   préfet du département (directeur des services vétérinaires).
