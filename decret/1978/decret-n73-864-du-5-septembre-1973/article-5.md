@@ -1,0 +1,3 @@
+# Article 5
+
+Les décisions du conseil d'administration ou de la commission statuant par délégation ne sont exécutoires que si, dans un délai de vingt jours après réception des procès-verbaux de délibération par le ministre de l'économie et des finances et le ministre chargé de la sécurité sociale, elles n'ont pas fait l'objet d'une opposition de l'un de ces ministres notifiée au président de l'I.R.C.A.N.T.E.C. et au directeur général de la caisse nationale de prévoyance. Les décisions relatives aux aides et secours individuels prises soit directement, soit par délégation sont exécutoires immédiatement.
