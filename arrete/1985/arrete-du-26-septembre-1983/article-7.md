@@ -1,8 +1,8 @@
 # Article 7
 
-I. La liste d'aptitude est divisée en trois sections. La première et la troisième section comprennent les emplois de toutes les classes. La deuxième section ne comprend que des emplois de la classe C.
+I. La liste d'aptitude est divisée en trois sections. La première et la troisième section comprennent [*contenu*] les emplois de toutes les classes. La deuxième section ne comprend que des emplois de la classe C.
 
-II. Peuvent être inscrits en première section les candidats anciens élèves du Centre national d'études supérieures de sécurité sociale et assimilés mentionnés aux alinéas 1er, 2 et 3 de l'article R. 123 du code de la sécurité sociale susvisé.
+II. Peuvent être inscrits en première section les candidats anciens élèves du Centre national d'études supérieures de sécurité sociale et assimilés mentionnés aux alinéas 1er, 2 et 3 de l'article R. 123-45 du code de la sécurité sociale, ainsi que les lauréats du cycle de formation aux fonctions d'agent de direction organisé par la Canam en 1983.
 
 III. Peuvent être inscrites en deuxième section les personnes qui remplissent les conditions fixées à l'article 6 ci-dessus qui n'ont pas vocation à être inscrites en première section et qui sont âgées de quarante ans au moins.
 

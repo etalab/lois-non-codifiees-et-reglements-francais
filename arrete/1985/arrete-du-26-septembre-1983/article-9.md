@@ -1,15 +1,19 @@
 # Article 9
 
-Avant le 1er juin [*date limite*] de l'année précédant celle pour laquelle est établie la liste d'aptitude, les personnes susceptibles de réunir au 1er janvier suivant les conditions requises et qui désirent être inscrites sur la liste d'aptitude établissent à cet effet une demande en triple exemplaire [*condition de forme*].
+I - Avant le 1er juin [*date limite*] de l'année précédant celle pour laquelle est établie la liste d'aptitude, les personnes qui désirent être inscrites formulent à cet effet une demande dans les conditions suivantes :
 
-Un exemplaire de cette demande est adressé directement par le candidat, sous pli recommandé, le cachet de la poste faisant foi, à la direction régionale des affaires sanitaires et sociales de la circonscription dans laquelle le candidat exerce ses fonctions. Le deuxième exemplaire est transmis au directeur de l'organisme dont relève le candidat, qui assure l'envoi collectif de toutes les demandes des candidats de l'organisme à la direction régionale après vérification des indications qu'elles comportent. Le troisième exemplaire est adressé directement par le candidat à la Caisse nationale dont il relève.
+Les candidats en fonctions dans l'une des caisses relevant des organisations autonomes d'assurance vieillesse des travailleurs non salariés des professions artisanales, industrielles et commerciales, ou relevant du régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles doivent indiquer [*mentions obligatoires*] :
 
-Les candidats en fonctions dans les caisses nationales établissent deux demandes d'inscription. L'une est adressée directement au secrétariat de la commission de classement, sous pli recommandé, le cachet de la poste faisant foi. L'autre demande est transmise au directeur général de la Caisse nationale de compensation.
+- la ou les classes d'emplois dans lesquelles ils demandent leur inscription ;
 
-Le candidat doit obligatoirement indiquer dans sa demande :
+- pour chacune de ces classes, le ou les tableaux demandés.
 
-La ou les classes d'emplois dans lesquelles il demande son inscription dans les limites fixées aux articles 6, 7, 10, 11 et 12 et compte tenu des dispositions de l'article 15 du présent arrêté ;
+Les candidats en fonctions dans un autre organisme doivent uniquement indiquer le ou les tableaux pour lesquels ils sollicitent leur inscription, la classe dans laquelle ils peuvent être éventuellement inscrits étant déterminée par la commission d'après l'assimilation effectuée en application de l'article 12.
 
-Pour chacune des classes demandées, le ou les tableaux pour lesquels il sollicite son inscription.
+II - Cette demande d'inscription est déposée dans les conditions suivantes :
 
-Toutefois, les candidats visés à l'article 12 du présent arrêté doivent se borner à cette dernière indication, la classe dans laquelle ils peuvent éventuellement être inscrits étant déterminée par l'assimilation de leur situation par rapport à un emploi de cadre, de direction ou d'agent comptable dans une caisse relevant des organisations autonomes d'assurance vieillesse des travailleurs non-salariés des professions artisanales, industrielles et commerciales et (ou) des caisses du régime d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles.
+Les candidats en fonctions dans une caisse nationale adressent directement un exemplaire de leur demande sous pli recommandé, le cachet de la poste faisant foi, au secrétariat de la commission de classement. Un deuxième exemplaire est transmis au directeur de la caisse nationale, qui assure l'envoi collectif de toutes les demandes des candidats de l'organisme au sécrétariat de la commission de classement après vérification des indications qu'elles comportent.
+
+Les candidats en fonctions dans une caisse de base adressent directement un exemplaire de leur demande sous pli recommandé, le cachet de la poste faisant foi, à la direction régionale des affaires sanitaires et sociales de la circonscription dans laquelle ils exercent leurs fonctions. Un deuxième exemplaire est transmis au directeur de l'organisme dont ils relèvent, qui assure l'envoi collectif de toutes les demandes des candidats de l'organisme à la direction régionale des affaires sanitaires et sociales après vérification des indications qu'elles comportent.
+
+En outre, les candidats en fonctions dans l'une des caisses de base relevant des organisations autonomes d'assurance vieillesse des travailleurs non salariés des professions artisanales, industrielles et commerciales, ou du régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles doivent adresser un troisième exemplaire de leur demande à la caisse nationale de leur régime.

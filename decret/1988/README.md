@@ -93,6 +93,8 @@
 - [Décret n°88-253 du 15 mars 1988 (AGRP8800437D)](decret-n88-253-du-15-mars-1988-agrp8800437d)
 - [Décret n°88-255 du 15 mars 1988 (BUDF8800002D)](decret-n88-255-du-15-mars-1988-budf8800002d)
 - [Décret n°88-259 du 15 mars 1988 (RESY8800034D)](decret-n88-259-du-15-mars-1988-resy8800034d)
+- [Décret n°88-360 du 15 avril 1988 (MAEF8810025D)](decret-n88-360-du-15-avril-1988-maef8810025d)
+- [Décret n°88-361 du 15 avril 1988 (ASEX8800047D)](decret-n88-361-du-15-avril-1988-asex8800047d)
 - [Décret n°88-45 du 15 janvier 1988 (ASEA8701666D)](decret-n88-45-du-15-janvier-1988-asea8701666d)
 - [Décret n°88-152 du 16 février 1988 (ECOT8820056D)](decret-n88-152-du-16-fevrier-1988-ecot8820056d)
 - [Décret n°88-157 du 16 février 1988 (FPPA8700092D)](decret-n88-157-du-16-fevrier-1988-fppa8700092d)
