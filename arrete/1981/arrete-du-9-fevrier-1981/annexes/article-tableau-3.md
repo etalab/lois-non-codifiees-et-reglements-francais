@@ -71,7 +71,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury de concours pour l'accès au corps des techniciens supérieurs d'études et de fabrication</p>
+<p>Jury de concours ou d'examen pour l'accès au corps des techniciens supérieurs d'études et de fabrication</p>
 </td>
 <td valign="top" width="151">
 <p align="center">III</p>
@@ -184,6 +184,30 @@
 </td>
 </tr>
 <tr>
+<td>Jury du concours d'accès au corps des techniciens paramédicaux civils du service de santé des armées</td>
+<td>
+<p align="center">III</p>
+</td>
+</tr>
+<tr>
+<td>Jury d'examen professionnel pour l'accès au grade de technicien paramédical civil surveillant des services médicaux</td>
+<td>
+<p align="center">III</p>
+</td>
+</tr>
+<tr>
+<td>Jury d'examen professionnel pour la titularisation d'agents sur contrat de l'ordre technique dans le corps des techniciens du ministère de la défense</td>
+<td>
+<p align="center">III</p>
+</td>
+</tr>
+<tr>
+<td>Jury d'examen professionnel pour l'accès au grade de technicien de classe supérieure</td>
+<td>
+<p align="center">III</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="454">
 <p>Jury d'examen professionnel pour la vérification d'aptitude aux fonctions de :</p>
 </td>
@@ -270,13 +294,31 @@
 </td>
 </tr>
 <tr>
-<td>Jury de concours pour l'accès aux corps des agents des services techniques</td>
+<td>Jury de concours pour l'accès aux corps des services techniques</td>
 <td>
 <p align="center">IV</p>
 </td>
 </tr>
 <tr>
 <td>Jury de concours pour l'accès aux corps des maîtres ouvriers et ouvriers professionnels</td>
+<td>
+<p align="center">IV</p>
+</td>
+</tr>
+<tr>
+<td>Jury de concours pour l'accès aux corps des aides-soignants civils du service de santé des armées</td>
+<td>
+<p align="center">IV</p>
+</td>
+</tr>
+<tr>
+<td>Jury de concours pour l'accès au corps des agents civils des services hospitaliers qualifiés du service desanté des armées</td>
+<td>
+<p align="center">IV</p>
+</td>
+</tr>
+<tr>
+<td>Jury de la sélection professionnelle d'accès à la formation d'aide-soignant</td>
 <td>
 <p align="center">IV</p>
 </td>

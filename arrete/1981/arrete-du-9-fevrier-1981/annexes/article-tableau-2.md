@@ -22,9 +22,9 @@
 </td>
 </tr>
 <tr>
-<td> Préparation à l'examen professionnel de chef de service administratif de 2e classe des services déconcentrés</td>
+<td>Préparation à l'examen professionnel de chef de service administratif de 2e classe des services déconcentrés</td>
 <td>
-<p align="center"> II</p>
+<p align="center">II</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@
 <tr>
 <td>Préparation au concours d'accès aux corps des conseillers techniques de service social</td>
 <td>
-<p align="center"> II</p>
+<p align="center">II</p>
 </td>
 </tr>
 <tr>
@@ -162,6 +162,24 @@
 </td>
 </tr>
 <tr>
+<td> Préparation au concours d'accès au corps des techniciens paramédicaux civils du service de santé des armées</td>
+<td>
+<p align="center"> III</p>
+</td>
+</tr>
+<tr>
+<td> Préparation à l'examen professionnel pour l'accès au grade de technicien paramédical civil surveillant des services médicaux</td>
+<td>
+<p align="center"> III</p>
+</td>
+</tr>
+<tr>
+<td> Préparation à l'examen professionnel  de technicien de classe supérieure</td>
+<td>
+<p align="center"> III</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="454">
 <p>Préparation aux examens professionnels pour la vérification d'aptitude aux fonctions de programmeur pupitreur et dé chef programmeur</p>
 </td>
@@ -186,6 +204,24 @@
 </td>
 </tr>
 <tr>
+<td> Préparation au concours d'accès au corps des aides-soignants civils du service de santé des armées</td>
+<td>
+<p align="center"> IV</p>
+</td>
+</tr>
+<tr>
+<td> Préparation au concours d'accès au corps des agents civils des services hospitaliers qualifiés du service de santé des armées</td>
+<td>
+<p align="center"> IV</p>
+</td>
+</tr>
+<tr>
+<td> Préparation à la sélection professionnelle d'accès à la formation d'aide-soignant</td>
+<td>
+<p align="center"> IV</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="454">
 <p>Préparation aux examens professionnels pour la vérification d'aptitude aux fonctions d'agent de traitement</p>
 </td>
@@ -194,9 +230,9 @@
 </td>
 </tr>
 <tr>
-<td> Préparation au concours d'accès au corps des maîtres ouvriers</td>
+<td>Préparation au concours d'accès au corps des maîtres ouvriers</td>
 <td>
-<p align="center"> IV</p>
+<p align="center">IV</p>
 </td>
 </tr>
 <tr>
