@@ -1,0 +1,3 @@
+# Article 1
+
+Dans les écoles nationales de la marine marchande, les professeurs techniques de l'enseignement maritime faisant fonction de chef de travaux assurent, sous l'autorité du directeur de l'école, l'organisation et la coordination des enseignements technologiques. A cet effet, ils animent l'équipe des professeurs techniques et contrôlent l'exécution des travaux pratiques, ainsi que leur coordination avec les cours théoriques. Ils participent à l'élaboration de l'emploi du temps des étudiants et des enseignants. Ils sont chargés de veiller à la conformité des locaux et matériels pédagogiques avec les règles de sécurité en vigueur ainsi qu'au maintien en bon état de leurs installations.
