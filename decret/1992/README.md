@@ -414,7 +414,6 @@
 - [Décret n°92-972 du 11 septembre 1992 (ECOT9290026D)](decret-n92-972-du-11-septembre-1992-ecot9290026d)
 - [Décret n°92-974 du 11 septembre 1992 (LOGC9200002D)](decret-n92-974-du-11-septembre-1992-logc9200002d)
 - [Décret n°92-975 du 11 septembre 1992 (EQUU9200788D)](decret-n92-975-du-11-septembre-1992-equu9200788d)
-- [Décret n°92-981 du 11 septembre 1992 (AGRB9201460D)](decret-n92-981-du-11-septembre-1992-agrb9201460d)
 - [Décret n°93-324 du 11 mars 1993 (INTA9300095D)](decret-n93-324-du-11-mars-1993-inta9300095d)
 - [Décret n°92-428 du 11 mai 1992 (MERC9200009D)](decret-n92-428-du-11-mai-1992-merc9200009d)
 - [Décret n°87-663 du 12 août 1987 (PTTP8700481D)](decret-n87-663-du-12-aout-1987-pttp8700481d)
