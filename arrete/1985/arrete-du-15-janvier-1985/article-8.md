@@ -1,0 +1,3 @@
+# Article 8
+
+La transformation d'un véhicule afin qu'il puisse fonctionner aux gaz de pétrole liquéfiés, ne le rendant pas conforme à un type réceptionné, doit être réalisée par une entreprise agréée par l'un des organismes dont la liste figure en annexe VI du présent arrêté. Le monteur doit garantir, sous sa responsabilité, la conformité aux prescriptions techniques de l'annexe I du présent arrêté. A cet effet, il doit fournir un certificat conforme au modèle figurant en annexe IV du présent arrêté, qui doit être conservé par le service des mines dans le dossier de réception à titre isolé du véhicule.
