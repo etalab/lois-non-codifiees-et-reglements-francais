@@ -117,6 +117,7 @@
 - [Décret n°2001-224 du 9 mars 2001 (DEFP0002538D)](decret-n2001-224-du-9-mars-2001-defp0002538d)
 - [Décret n°2001-23 du 9 janvier 2001 (MESH0023358D)](decret-n2001-23-du-9-janvier-2001-mesh0023358d)
 - [Décret n°2001-24 du 9 janvier 2001 (MESS0023521D)](decret-n2001-24-du-9-janvier-2001-mess0023521d)
+- [Décret n°2001-309 du 9 avril 2001 (ATEN0080083D)](decret-n2001-309-du-9-avril-2001-aten0080083d)
 - [Décret n°2001-932 du 9 octobre 2001 (ATEG0190060D)](decret-n2001-932-du-9-octobre-2001-ateg0190060d)
 - [Décret n°2001-414 du 9 mai 2001 (EQUP0100218D)](decret-n2001-414-du-9-mai-2001-equp0100218d)
 - [Décret n°2001-28 du 10 janvier 2001 (MESH0023828D)](decret-n2001-28-du-10-janvier-2001-mesh0023828d)
