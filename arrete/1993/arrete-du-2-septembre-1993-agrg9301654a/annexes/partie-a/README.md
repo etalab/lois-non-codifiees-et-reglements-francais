@@ -1,4 +1,4 @@
-# Partie A : Exigences particulières que les Etats membres doivent fixer pour l'introduction et la circulation de végétaux, de produits végétaux et d'autres produits dans leur territoire
+# Partie A : Organismes nuisibles dont l'introduction et la dissémination doivent être interdites dans tous les Etats membres : s'ils se présentent sur certains végétaux ou produits végétaux
 
 - [Chapitre Ier : Organismes inexistants dans la Communauté et importants pour cette dernière (espèce et objet de la contamination)](chapitre-ier)
-- [Chapitre II : Végétaux, produits végétaux et autres produits originaires de la Communauté (végétaux, produits végétaux et autres produits, exigences particulières).](chapitre-ii)
+- [Chapitre II : Organismes nuisibles présents dans la Communauté et importants pour cette dernière (espèce et objet de la contamination)](chapitre-ii)

@@ -1,4 +1,4 @@
 # Annexes
 
-- [Partie A : Exigences particulières que les Etats membres doivent fixer pour l'introduction et la circulation de végétaux, de produits végétaux et d'autres produits dans leur territoire](partie-a)
+- [Partie A : Organismes nuisibles dont l'introduction et la dissémination doivent être interdites dans tous les Etats membres : s'ils se présentent sur certains végétaux ou produits végétaux](partie-a)
 - [Végétaux, produits végétaux et autres objets devant être soumis à une inspection phytosanitaire.](vegetaux-produits-vegetaux-et)
