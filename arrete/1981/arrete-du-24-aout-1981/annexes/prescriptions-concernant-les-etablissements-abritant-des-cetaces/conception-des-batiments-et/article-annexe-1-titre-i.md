@@ -8,7 +8,7 @@ c) Les bassins devront être équipés d'un dispositif permettant la manutention
 
 d) Des installations qui, localement, utiliseraient des conditions naturelles pour la détention des cétacés (plage, crique, lido, baie et estuaire) doivent faire en sorte qu'il n'y ait pas de surface construite rugueuse et que ces zones ne reçoivent aucun collecteur d'eaux usées.
 
-On devra s'assurer que les eaux utilisées sont contrôlées au sujet du pH, des additifs chimiques éventuellement nécessaires et des bactéries coliformes ; enfin que les surfaces, les profondeurs et le renouvellement des eaux sont conformes aux besoins de ces animaux. Ces informations sont au nombre de celles qui doivent figurer dans le dossier de demande d'autorisation et en particulier l'étude d'impact, telle que définie à l'article 3 (4°) du décret n° 77-1133 du 21 septembre 1977 susvisé [*relatif aux installations classées pour la protection de l'environnement*].
+On devra s'assurer que les eaux utilisées sont contrôlées au sujet du pH, des additifs chimiques éventuellement nécessaires et des bactéries coliformes ; enfin que les surfaces, les profondeurs et le renouvellement des eaux sont conformes aux besoins de ces animaux. Ces informations sont au nombre de celles qui doivent figurer dans le dossier de demande d'autorisation et en particulier l'étude d'impact, telle que définie à l'article 3 (4°) du décret n° 77-1133 du 21 septembre 1977 susvisé.
 
 e) Il faut s'assurer que les disponibilités en eau et en énergie électrique des installations sont fiables et suffisantes, c'est-à-dire capables de subvenir en tout état de cause, aux besoins des animaux.
 

@@ -1,3 +1,3 @@
 # Article 1
 
-Le barème des taxes perçues en matière de protection des obtentions végétales est fixé conformément au tableau annexé au présent arrêté.
+Les prescriptions jointes en annexe au présent arrêté sont applicables aux établissements détenant des cétacés vivants, sans préjudice des dispositions relatives aux établissements mentionnés à l'article 1er du décret n° 77-1297 du 25 novembre 1977 susvisé.

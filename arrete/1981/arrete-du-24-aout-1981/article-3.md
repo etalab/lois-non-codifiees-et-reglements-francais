@@ -1,3 +1,3 @@
 # Article 3
 
-Le droit réduit de 300 F prévu au tableau annexé au présent arrêté pour examen des variétés appartenant aux espèces classées dans la catégorie C s'applique dans le cas où le comité de la protection des obtentions végétales décide de recourir à une procédure d'examen simplifiée ne comportant pas au moins une année de culture.
+Le directeur de la protection de la nature et le directeur de la prévention des pollutions sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
