@@ -2,6 +2,7 @@
 
 - [TITRE I](titre-i)
 - [TITRE II](titre-ii)
+- [Article 4](article-4.md)
 - [TITRE IV](titre-iv)
 - [Article 5](article-5.md)
 - [Article 28](article-28.md)
