@@ -60,6 +60,14 @@ Emplois des catégories A et B correspondant à l'exercice d'activités techniqu
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
+Caisse d'amortissement de la dette sociale
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emploi d'opérateur de marché et de post-marché
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
 Caisse nationale d'assurance maladie des travailleurs salariés
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
@@ -253,6 +261,14 @@ Etablissement public du musée d'Orsay
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
 Emplois de catégories A, B, C  et D
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
+Etablissement public du musée du quai Branly
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois des catégories A, B et C jusqu'à l'ouverture au public de ce musée
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
