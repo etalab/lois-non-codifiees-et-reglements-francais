@@ -2,5 +2,4 @@
 
 - [TITRE I : Des centres départementaux de gestion de la fonction publique territoriale](titre-i)
 - [TITRE III : Des centres interdépartementaux de gestion de la région d'Ile-de-France](titre-iii)
-- [TITRE IV : Du centre national de gestion de la fonction publique territoriale.](titre-iv)
 - [TITRE V : Dispositions transitoires.](titre-v)
