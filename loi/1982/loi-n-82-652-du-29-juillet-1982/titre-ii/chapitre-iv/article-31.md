@@ -1,6 +1,6 @@
 # Article 31
 
-Les comités régionaux de la communication audiovisuelle comprennent [*composition*] :
+Les comités régionaux et territoriaux de la communication audiovisuelle comprennent :
 
 - des représentants des organisations professionnelles représentatives ;
 
@@ -16,6 +16,6 @@ Les comités régionaux de la communication audiovisuelle comprennent [*composit
 
 - des représentants des grands mouvements spirituels et philosophiques.
 
-Un décret en Conseil d'Etat en précise le nombre, les conditions de désignation et les règles de fonctionnement.
+Un décret en Conseil d'Etat en précise le nombre, les conditions de désignation et les règles de fonctionnement. Pour les territoires d'outre-mer, ce décret sera pris après avis de l'assemblée territoriale concernée.
 
-Les crédits nécessaires au fonctionnement des comités régionaux de la communication audiovisuelle sont obligatoirement inscrits au budget des collectivités territoriales correspondant à leur ressort [*ressources*]. La fonction de membre d'un comité régional de la communication audiovisuelle est bénévole. Elle ne fait l'objet d'aucune rémunération.
+Les crédits nécessaires au fonctionnement des comités régionaux de la communication audiovisuelle sont obligatoirement inscrits au budget des collectivités territoriales correspondant à leur ressort. La fonction de membre d'un comité régional ou territorial de la communication audiovisuelle est bénévole. Elle ne fait l'objet d'aucune rémunération.
