@@ -51,6 +51,7 @@
 - [Décret n°87-98 du 12 février 1987](decret-n87-98-du-12-fevrier-1987)
 - [Décret n°87-105 du 13 février 1987 (AGRP8700292D)](decret-n87-105-du-13-fevrier-1987-agrp8700292d)
 - [Décret n°87-171 du 13 mars 1987 (TRST8700046D)](decret-n87-171-du-13-mars-1987-trst8700046d)
+- [Décret n°87-172 du 13 mars 1987 (JUSC8720148D)](decret-n87-172-du-13-mars-1987-jusc8720148d)
 - [Décret n°87-103 du 14 février 1987 (INTB8700044D)](decret-n87-103-du-14-fevrier-1987-intb8700044d)
 - [Décret n°87-16 du 14 janvier 1987](decret-n87-16-du-14-janvier-1987)
 - [Décret n°87-25 du 15 janvier 1987](decret-n87-25-du-15-janvier-1987)
