@@ -545,7 +545,6 @@
 - [Arrêté du 11 avril 1995 (SPSG9501140A)](arrete-du-11-avril-1995-spsg9501140a)
 - [Arrêté du 11 décembre 1995 (BUDF9500021A)](arrete-du-11-decembre-1995-budf9500021a)
 - [Arrêté du 11 décembre 1995 (ECOR9505013A)](arrete-du-11-decembre-1995-ecor9505013a)
-- [Arrêté du 11 janvier 1995 (BUDF9420792A)](arrete-du-11-janvier-1995-budf9420792a)
 - [Arrêté du 11 janvier 1995 (INTB9500071A)](arrete-du-11-janvier-1995-intb9500071a)
 - [Arrêté du 11 juillet 1995 (DEFP9501804A)](arrete-du-11-juillet-1995-defp9501804a)
 - [Arrêté du 11 juillet 1995 (INDB9500806A)](arrete-du-11-juillet-1995-indb9500806a)
