@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur interdépartemental de l'industrie adresse ses propositions motivées au ministre chargé de l'électricité, sous le timbre de la direction du gaz, de l'électricité et du charbon.
+Les moyens affectés à la mission de protection des animaux sont transférés au service vétérinaire de la santé et de la protection animales.
