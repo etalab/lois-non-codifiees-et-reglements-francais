@@ -1,0 +1,5 @@
+# Article 7
+
+Le montant maximum du coût total d'édification des établissements scolaires du second degré et des établissements pour enfants inadaptés, évalué suivant les dispositions du présent décret, doit, en ce qui concerne les réalisations effectuées pour le compte de l'Etat, ou lorsque celui-ci a la direction et la responsabilité des travaux, s'inscrire à l'intérieur d'un prix plafond calculé à partir des dépenses théoriques prévues par les décrets n° 62-1409 du 27 novembre 1962 et n° 67-170 du 6 mars 1967 modifiés susvisés dans les conditions et selon les modalités fixées annuellement par une circulaire conjointe du ministre de l'éducation et du ministre de l'économie et des finances.
+
+Un arrêté du ministre de l'éducation, du ministre de l'économie et des finances et, le cas échéant, du ministre d'Etat, ministre de l'intérieur, pourra, en tant que de besoin, préciser les normes et les prix plafonds de construction des autres établissements visés à l'article 1er du présent décret.
