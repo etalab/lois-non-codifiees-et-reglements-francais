@@ -1,0 +1,3 @@
+# Article 1
+
+Les dispositions du présent décret sont applicables aux compteurs horo-kilométriques dits Taximètres, c'est-à-dire aux instruments qui, compte tenu des caractéristiques du véhicule sur lequel ils sont installés et des tarifs pour lesquels ils sont réglés, calculent automatiquement et indiquent à tout moment de l'emploi les sommes à payer par les usagers des taxis, en fonction des distances parcourues et, au-dessous d'une certaine vitesse, des durées d'occupation du véhicule, à l'exclusion de divers suppléments, autorisés par des règlements locaux, dont le montant est indépendant de la distance et du temps.
