@@ -38,7 +38,6 @@
 - [Décret n°62-197 du 19 février 1962](decret-n62-197-du-19-fevrier-1962)
 - [Décret n°55-630 du 20 mai 1955](decret-n55-630-du-20-mai-1955)
 - [Décret n°62-1365 du 21 novembre 1962](decret-n62-1365-du-21-novembre-1962)
-- [Décret n°62-827 du 21 juillet 1962](decret-n62-827-du-21-juillet-1962)
 - [Décret n°62-1389 du 23 novembre 1962](decret-n62-1389-du-23-novembre-1962)
 - [Décret n°62-608 du 23 mai 1962](decret-n62-608-du-23-mai-1962)
 - [Décret n°62-1396 du 24 novembre 1962](decret-n62-1396-du-24-novembre-1962)
