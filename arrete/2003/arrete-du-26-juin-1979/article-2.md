@@ -4,7 +4,7 @@ La commission comprend des membres de droit et des membres désignés pour une d
 
 Les membres de droit sont :
 
-Le directeur de l'action régionale et de la petite et moyenne industrie au ministère chargé de l'industrie ;
+Le directeur du commerce, de l'artisanat, des services et des professions libérales au ministère chargé de l'industrie ;
 
 Le directeur des ressources énergétiques et minérales au ministère chargé de l'industrie ;
 
@@ -20,7 +20,7 @@ Sur proposition du vice-président du conseil général des mines :
 
 Un représentant du conseil général des mines ;
 
-Sur proposition du directeur de l'action régionale et de la petite et moyenne industrie :
+Sur proposition du directeur du commerce, de l'artisanat, des services et des professions libérales :
 
 Trois membres des directions régionales de l'industrie, de la recherche et de l'environnement ;
 

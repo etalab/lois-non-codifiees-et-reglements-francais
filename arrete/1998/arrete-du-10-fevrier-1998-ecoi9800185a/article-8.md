@@ -1,3 +1,3 @@
 # Article 8
 
-Le directeur de l'action régionale et de la petite et moyenne industrie est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le directeur du commerce, de l'artisanat, des services et des professions libérales est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
