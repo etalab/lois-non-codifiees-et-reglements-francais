@@ -1,5 +1,7 @@
 # 1974
 
+- [Décret n°74-682 du 1 août 1974](decret-n74-682-du-1-aout-1974)
+- [Décret n°74-683 du 1 août 1974](decret-n74-683-du-1-aout-1974)
 - [Décret n°74-78 du 1 février 1974](decret-n74-78-du-1-fevrier-1974)
 - [Décret n°74-362 du 2 mai 1974](decret-n74-362-du-2-mai-1974)
 - [Décret n°74-1 du 3 janvier 1974](decret-n74-1-du-3-janvier-1974)
