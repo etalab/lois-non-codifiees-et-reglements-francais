@@ -20,7 +20,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application de la présente l
 
 9° Les dispositions particulières applicables au recouvrement des sommes exposées par l'Etat au titre de l'aide juridictionnelle, prévues par les articles 43 et 44 ;
 
-10° Les règles de composition et de fonctionnement du conseil national de l'aide juridique et des conseils départementaux ;
+10° Les règles de composition et de fonctionnement du conseil national de l'aide juridique et des conseils départementaux de l'accès au droit ;
 
 11° Les vacations versées aux personnes bénéficiant de l'honorariat et exerçant les fonctions de président ou de membre d'une section ou d'un bureau d'aide juridictionnelle.
 

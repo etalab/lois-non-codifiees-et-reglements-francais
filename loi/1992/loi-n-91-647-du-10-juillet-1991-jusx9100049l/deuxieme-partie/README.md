@@ -1,7 +1,7 @@
 # Deuxième partie : L'aide à l'accès au droit.
 
-- [TITRE Ier : L'aide à la consultation.](titre-ier)
-- [TITRE II : L'assistance au cours de procédures non juridictionnelles.](titre-ii)
+- [Titre Ier : Définition de l'aide à l'accès au droit.](titre-ier)
+- [Titre II : Mise en oeuvre de l'aide à l'accès au droit.](titre-ii)
 - [Article 53](article-53.md)
 - [Article 54](article-54.md)
 - [Article 55](article-55.md)

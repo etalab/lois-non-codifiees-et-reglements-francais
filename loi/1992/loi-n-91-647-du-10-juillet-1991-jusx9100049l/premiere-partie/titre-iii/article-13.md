@@ -1,6 +1,6 @@
 # Article 13
 
-Il est institué un bureau d'aide juridictionnelle chargé de se prononcer sur les demandes d'admission à l'aide juridictionnelle relatives aux instances portées devant les juridictions du premier et du second degré et à l'exécution de leurs décisions.
+Il est institué un bureau d'aide juridictionnelle chargé de se prononcer sur les demandes d'admission à l'aide juridictionnelle relatives aux instances portées devant les juridictions du premier et du second degré, à l'exécution de leurs décisions et aux transactions avant l'introduction de l'instance.
 
 Ce bureau est établi au siège de chaque tribunal de grande instance.
 

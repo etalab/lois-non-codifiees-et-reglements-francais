@@ -10,4 +10,4 @@ Le règlement intérieur peut prévoir que les avocats prêtent, à temps partie
 
 En ce qui concerne les règles de gestion financière et comptable des fonds, le règlement intérieur doit être conforme à un règlement type établi par décret en Conseil d'Etat.
 
-Les dispositions du règlement intérieur relatives à l'aide juridictionnelle sont communiquées pour information au conseil départemental de l'aide juridique prévu à l'article 54.
+Les dispositions du règlement intérieur relatives à l'aide juridictionnelle sont communiquées pour information au conseil départemental de l'accès au droit prévu à l'article 54.

@@ -10,4 +10,4 @@ Le financement de l'aide à l'accès au droit est notamment assuré par :
 
 - les subventions accordées par les collectivités territoriales, les établissements publics, les organismes de sécurité sociale et toute autre participation.
 
-Les fonds destinés à l'aide à l'accès au droit sont versés au conseil départemental de l'aide juridique territorialement compétent.
+Les fonds destinés à l'aide à l'accès au droit sont versés au conseil départemental de l'accès au droit territorialement compétent.
