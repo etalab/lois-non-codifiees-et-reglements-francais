@@ -1,0 +1,3 @@
+# Article 1
+
+Les dispositions de l'article 1er, à l'exclusion du point 1 b, sous f, paragraphe 4, de l'article 2, de l'article 3, paragraphe 1, de l'article 4, paragraphes 1, 5, 6 et 7, de l'article 5, paragraphes 1, 2, 3 a (premier alinéa) et b, de l'article 7, paragraphes 1, 2, 4, 5, 6 et 7, de l'article 8, de l'article 9, de l'article 12, paragraphes 1, 2, 3 et 4 et des annexes, du règlement (C.E.E.) n° 1576-89 susvisé constituent les mesures d'exécution prévues à l'article 11 de la loi du 1er août 1905 susvisée ; il en est de même des dispositions, ayant le même objet, des règlements communautaires qui les modifieraient ou seraient pris pour leur application, dans la mesure où elles entrent dans les prévisions dudit article 11.
