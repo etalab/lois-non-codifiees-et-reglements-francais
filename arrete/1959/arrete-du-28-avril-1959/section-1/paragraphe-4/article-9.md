@@ -1,3 +1,0 @@
-# Article 9
-
-Les honoraires des médecins ou, le cas échéant, des chirurgiens-dentistes, commis aux fins d'expertise médicale par les commissions de première instance, les cours d'appel et les commissions régionales relevant du contentieux technique de la sécurité sociale ou désignés aux mêmes fins, à la demande de la commission nationale technique, par le directeur régional de la sécurité sociale ou l'inspecteur divisionnaire des lois sociales en agriculture, sont fixés conformément au tarif établi par l'arrêté pris en application de l'article 9 du décret n° 59-160 du 7 janvier 1959 relatif à l'expertise médicale en matière d'assurances sociales et d'accidents du travail.
