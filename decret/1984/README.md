@@ -33,7 +33,6 @@
 - [Décret n°84-1087 du 5 décembre 1984](decret-n84-1087-du-5-decembre-1984)
 - [Décret n°84-13 du 5 janvier 1984](decret-n84-13-du-5-janvier-1984)
 - [Décret n°84-247 du 5 avril 1984](decret-n84-247-du-5-avril-1984)
-- [Décret n°84-248 du 5 avril 1984](decret-n84-248-du-5-avril-1984)
 - [Décret n°84-254 du 5 avril 1984](decret-n84-254-du-5-avril-1984)
 - [Décret n°84-258 du 5 avril 1984](decret-n84-258-du-5-avril-1984)
 - [Décret n°84-428 du 5 juin 1984](decret-n84-428-du-5-juin-1984)
