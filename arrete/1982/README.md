@@ -108,7 +108,6 @@
 - [Arrêté du 26 août 1982](arrete-du-26-aout-1982)
 - [Arrêté du 26 mars 1982](arrete-du-26-mars-1982)
 - [Arrêté du 26 novembre 1981](arrete-du-26-novembre-1981)
-- [Arrêté du 26 octobre 1982](arrete-du-26-octobre-1982)
 - [Arrêté du 27 avril 1982](arrete-du-27-avril-1982)
 - [Arrêté du 27 décembre 1982](arrete-du-27-decembre-1982)
 - [Arrêté du 27 octobre 1982](arrete-du-27-octobre-1982)
