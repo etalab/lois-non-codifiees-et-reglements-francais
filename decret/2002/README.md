@@ -279,6 +279,7 @@
 - [Décret n°2002-68 du 14 janvier 2002 (MENS0102766D)](decret-n2002-68-du-14-janvier-2002-mens0102766d)
 - [Décret n°2002-71 du 14 janvier 2002 (ECOP0100593D)](decret-n2002-71-du-14-janvier-2002-ecop0100593d)
 - [Décret n°2002-86 du 14 janvier 2002 (MENS0102815D)](decret-n2002-86-du-14-janvier-2002-mens0102815d)
+- [Décret n°94-39 du 14 janvier 1994 (RESK9301635D)](decret-n94-39-du-14-janvier-1994-resk9301635d)
 - [Décret n°98-923 du 14 octobre 1998 (EQUX9800133D)](decret-n98-923-du-14-octobre-1998-equx9800133d)
 - [Décret n°2002-204 du 15 février 2002 (PRMX0200022D)](decret-n2002-204-du-15-fevrier-2002-prmx0200022d)
 - [Décret n°2002-205 du 15 février 2002 (MESS0220094D)](decret-n2002-205-du-15-fevrier-2002-mess0220094d)
