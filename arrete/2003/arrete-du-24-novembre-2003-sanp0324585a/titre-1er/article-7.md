@@ -1,0 +1,3 @@
+# Article 7
+
+Les déchets liquides répondant à l'article R. 1335-1 du code de la santé publique, non destinés à un prétraitement par désinfection, sont placés, dès leur production, dans un emballage de recueil à usage unique dont la conception est adaptée à la maîtrise des risques sanitaires et aux besoins de l'utilisateur. L'emballage doit satisfaire à des essais d'étanchéité à l'eau (80 % de la capacité) en position retournée pendant soixante-douze heures. Pour son transport, l'emballage est fermé définitivement avant d'être déposé, si nécessaire, dans un emballage rigide préservant le premier contenant de tout risque de perforation ou d'écrasement. Ces emballages sont repérés comme indiqué à l'article 11 du présent arrêté.

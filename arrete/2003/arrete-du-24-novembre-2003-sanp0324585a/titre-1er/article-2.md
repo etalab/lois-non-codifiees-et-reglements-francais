@@ -1,0 +1,3 @@
+# Article 2
+
+Les déchets perforants sont tous les matériels et matériaux piquants ou coupants destinés à l'abandon par le producteur, identifiés par l'article R. 1335-1 du code de la santé publique. Cette définition comprend notamment les déchets perforants équipés ou non de tout dispositif de sécurité visant à protéger les utilisateurs. Ces déchets sont placés dès leur production dans les emballages visés aux articles 5 et 6 du présent arrêté. De même, en cas d'utilisation d'un appareil de destruction des déchets perforants, tous les résidus de cette destruction sont placés dans un emballage visé aux articles 5 et 6 du présent arrêté.

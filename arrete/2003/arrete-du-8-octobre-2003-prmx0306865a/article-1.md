@@ -40,6 +40,10 @@ Le préfet de la Haute-Savoie.
 
 Le préfet du Var.
 
+Le préfet d'Ille-et-Vilaine, de la région Bretagne et de la zone de défense Ouest.
+
+Le préfet de la région Ile-de-France, préfet de Paris.
+
 Les officiers généraux de zones de défense concernées.
 
 En qualité de représentants des collectivités territoriales, hauts lieux des débarquements et de la Libération de la France :
@@ -89,6 +93,20 @@ Le président du conseil général de la Haute-Savoie.
 Le président du conseil général du Var.
 
 Le président du conseil général de la Haute-Vienne.
+
+Le président du conseil général de Seine-et-Marne.
+
+Le président du conseil général des Yvelines.
+
+Le président du conseil général de l'Essonne.
+
+Le président du conseil général des Hauts-de-Seine.
+
+Le président du conseil général de la Seine-Saint-Denis.
+
+Le président du conseil général du Val-de-Marne.
+
+Le président du conseil général du Val-d'Oise.
 
 Le maire d'Arromanches.
 
@@ -153,5 +171,17 @@ Un représentant de l'Association nationale des médaillés de la Résistance fr
 Un représentant de l'Association La Koumia.
 
 Un représentant de l'Association nationale du souvenir de l'armée d'Afrique.
+
+Un représentant du Comité d'action de la Résistance.
+
+Un représentant de l'Association nationale des anciens combattants de la Résistance.
+
+Un représentant de l'Association nationale des combattants volontaires de la Résistance.
+
+Un représentant de la Confédération nationale des combattants volontaires de la Résistance.
+
+Un représentant de la Fédération nationale des déportés et internés de la Résistance.
+
+Un représentant de la Fédération nationale des déportés et internés résistants patriotes.
 
 Le président du comité du débarquement.

@@ -2,3 +2,4 @@
 
 - [Titre Ier : Corps de l'expansion économique à l'étranger](titre-ier)
 - [Titre II : Emploi de ministre conseiller pour les affaires économiques et commerciales](titre-ii)
+- [Article 27](article-27.md)
