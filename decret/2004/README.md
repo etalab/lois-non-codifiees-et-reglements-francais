@@ -79,6 +79,8 @@
 - [Décret n°2004-27 du 7 janvier 2004 (EQUS0301684D)](decret-n2004-27-du-7-janvier-2004-equs0301684d)
 - [Décret n°2004-29 du 7 janvier 2004 (AGRF0302521D)](decret-n2004-29-du-7-janvier-2004-agrf0302521d)
 - [Décret n°2004-39 du 7 janvier 2004 (SPRK0370241D)](decret-n2004-39-du-7-janvier-2004-sprk0370241d)
+- [Décret n°2004-499 du 7 juin 2004 (SOCU0410833D)](decret-n2004-499-du-7-juin-2004-socu0410833d)
+- [Décret n°2004-500 du 7 juin 2004 (EQUT0400583D)](decret-n2004-500-du-7-juin-2004-equt0400583d)
 - [Décret n°2004-528 du 7 juin 2004 (MCCB0400414D)](decret-n2004-528-du-7-juin-2004-mccb0400414d)
 - [Décret n°2004-399 du 7 mai 2004 (INTA0400114D)](decret-n2004-399-du-7-mai-2004-inta0400114d)
 - [Décret n°2004-400 du 7 mai 2004 (SOCT0410790D)](decret-n2004-400-du-7-mai-2004-soct0410790d)
