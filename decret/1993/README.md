@@ -575,6 +575,7 @@
 - [Décret n°89-778 du 23 octobre 1989 (MCCX8910280D)](decret-n89-778-du-23-octobre-1989-mccx8910280d)
 - [Décret n°92-717 du 23 juillet 1992 (INDB9200455D)](decret-n92-717-du-23-juillet-1992-indb9200455d)
 - [Décret n°93-1012 du 23 août 1993 (MENA9305722D)](decret-n93-1012-du-23-aout-1993-mena9305722d)
+- [Décret n°93-1119 du 23 septembre 1993 (AGRE9301521D)](decret-n93-1119-du-23-septembre-1993-agre9301521d)
 - [Décret n°93-235 du 23 février 1993 (AGRG9202375D)](decret-n93-235-du-23-fevrier-1993-agrg9202375d)
 - [Décret n°93-243 du 23 février 1993 (DEFP9202220D)](decret-n93-243-du-23-fevrier-1993-defp9202220d)
 - [Décret n°93-244 du 23 février 1993 (INDH9300063D)](decret-n93-244-du-23-fevrier-1993-indh9300063d)
