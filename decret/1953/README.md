@@ -1,6 +1,5 @@
 # 1953
 
-- [Décret n°53-377 du 2 mai 1953](decret-n53-377-du-2-mai-1953)
 - [Décret n°53-383 du 2 mai 1953](decret-n53-383-du-2-mai-1953)
 - [Décret n°53-549 du 5 juin 1953](decret-n53-549-du-5-juin-1953)
 - [Décret n°53-707 du 9 août 1953](decret-n53-707-du-9-aout-1953)
