@@ -5,5 +5,6 @@
 - [TITRE II : Avancement.](titre-ii)
 - [TITRE III : Congés.](titre-iii)
 - [TITRE IV : Résiliation des engagements et sanctions statutaires, applicables aux engagés.](titre-iv)
+- [TITRE V : Formation professionnelle.](titre-v)
 - [TITRE VI : Dispositions diverses.](titre-vi)
 - [Article 32](article-32.md)
