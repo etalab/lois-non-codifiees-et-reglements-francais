@@ -10,6 +10,7 @@
 - [Décret n°85-397 du 3 avril 1985](decret-n85-397-du-3-avril-1985)
 - [Décret n°85-402 du 3 avril 1985](decret-n85-402-du-3-avril-1985)
 - [Décret n°85-410 du 3 avril 1985](decret-n85-410-du-3-avril-1985)
+- [Décret n°85-420 du 3 avril 1985](decret-n85-420-du-3-avril-1985)
 - [Décret n°84-591 du 4 juillet 1984](decret-n84-591-du-4-juillet-1984)
 - [Décret n°85-1151 du 4 novembre 1985](decret-n85-1151-du-4-novembre-1985)
 - [Décret n°85-1162 du 4 novembre 1985](decret-n85-1162-du-4-novembre-1985)
