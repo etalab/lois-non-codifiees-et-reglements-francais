@@ -448,6 +448,8 @@
 - [Décret n°2003-1009 du 16 octobre 2003 (MENF0301911D)](decret-n2003-1009-du-16-octobre-2003-menf0301911d)
 - [Décret n°2004-1213 du 16 novembre 2004 (SOCT0411560D)](decret-n2004-1213-du-16-novembre-2004-soct0411560d)
 - [Décret n°2004-1214 du 16 novembre 2004 (SOCT0411547D)](decret-n2004-1214-du-16-novembre-2004-soct0411547d)
+- [Décret n°2004-1367 du 16 décembre 2004 (SANS0424018D)](decret-n2004-1367-du-16-decembre-2004-sans0424018d)
+- [Décret n°2004-1368 du 16 décembre 2004 (SANS0424121D)](decret-n2004-1368-du-16-decembre-2004-sans0424121d)
 - [Décret n°2004-155 du 16 février 2004 (SANH0420212D)](decret-n2004-155-du-16-fevrier-2004-sanh0420212d)
 - [Décret n°2004-156 du 16 février 2004 (SOCS0420263D)](decret-n2004-156-du-16-fevrier-2004-socs0420263d)
 - [Décret n°2004-157 du 16 février 2004 (BUDB0360039D)](decret-n2004-157-du-16-fevrier-2004-budb0360039d)

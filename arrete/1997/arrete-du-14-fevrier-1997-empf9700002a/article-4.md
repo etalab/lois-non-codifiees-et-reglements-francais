@@ -2,7 +2,27 @@
 
 Il est créé auprès du ministre chargé des droits des femmes un Conseil national d'agrément.
 
-Ce Conseil, présidé par le chef du service des droits des femmes, est composé de six membres : trois membres, agents de l'Etat, appartenant au service des droits des femmes ; trois personnalités qualifiées nommées pour une durée de quatre ans par arrêté du ministre chargé des droits des femmes sur proposition du Centre national d'information sur les droits des femmes, association déclarée conformément à la loi du 1er juillet 1901 modifiée et au décret du 16 août 1901 modifié susvisés.
+Ce conseil, présidé par le chef du service des droits des femmes et de l'égalité (1), est composé, outre le président, de dix membres titulaires et de onze membres suppléants, nommés pour une durée de quatre ans par arrêté du ministre chargé des droits des femmes et de l'égalité. Ces membres siègent dans l'un des deux groupes intitulés "groupe A" et "groupe B" créés au sein de ce conseil.
+
+Le groupe A examine les demandes d'agrément des CIDF dans les régions suivantes : Auvergne, Bourgogne, Corse, Ile-de-France, Languedoc-Roussillon, Limousin, Midi-Pyrénées, Haute-Normandie, Pays de la Loire, Poitou-Charentes, Provence-Alpes-Côte d'Azur, Martinique, Guadeloupe et Réunion.
+
+Le groupe B examine les demandes d'agrément des CIDF dans les régions suivantes : Alsace, Aquitaine, Bretagne, Centre, Champagne-Ardenne, Franche-Comté, Lorraine, Nord - Pas-de-Calais, Basse-Normandie, Picardie, Rhône-Alpes, Guyane et Polynésie française.
+
+La composition du Conseil national d'agrément est la suivante :
+
+- un membre suppléant, agent de l'Etat, appartenant au service central des droits des femmes et de l'égalité, siège dans les groupes A et B, par empêchement du président du Conseil national d'agrément ;
+
+- un membre titulaire et un membre suppléant, agents de l'Etat, appartenant au service central des droits des femmes et de l'égalité, chargés du secrétariat du Conseil national d'agrément, siègent dans les groupes A et B ;
+
+- le président du Centre national d'information sur les droits des femmes et des familles (CNIDFF) siège dans les groupes A et B, en qualité de personnalité qualifiée, membre titulaire. Il peut être remplacé par un membre suppléant, personnalité qualifiée, appartenant au bureau du CNIDFF ;
+
+- deux membres titulaires et deux membres suppléants, agents de l'Etat, appartenant au réseau déconcentré du service des droits des femmes et de l'égalité, siègent dans le groupe A ;
+
+- deux membres titulaires et deux membres suppléants, agents de l'Etat, appartenant au réseau déconcentré du service des droits des femmes et de l'égalité, siègent dans le groupe B ;
+
+- deux membres titulaires et deux membres suppléants, personnalités qualifiées, appartenant au réseau national des centres d'information sur les droits des femmes, siègent dans le groupe A. Ils sont nommés sur proposition du Centre national d'information sur les droits des femmes et des familles (CNIDFF) ;
+
+- deux membres titulaires et deux membres suppléants, personnalités qualifiées, appartenant au réseau national des centres d'information sur les droits des femmes, siègent dans le groupe B. Ils sont nommés sur proposition du Centre national d'information sur les droits des femmes et des familles (CNIDFF).
 
 Les membres démissionnaires ou décédés sont remplacés. Dans ce cas, le mandat des nouveaux membres expire à la date à laquelle aurait pris fin celui des membres qu'ils remplacent.
 
