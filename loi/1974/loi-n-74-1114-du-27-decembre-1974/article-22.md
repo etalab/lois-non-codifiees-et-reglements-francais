@@ -1,27 +1,31 @@
 # Article 22
 
-I. IL EST INSTITUE UN PERMIS DE CHASSER DELIVRE A TITRE PERMANENT PAR LE PREFET. LE PERMIS EST VISE ET VALIDE CHAQUE ANNEE DANS LES CONDITIONS FIXEES CI-APRES :
+I - Il est institué un permis de chasser délivré à titre permanent par le préfet. Le permis est visé et validé chaque année dans les conditions fixées ci-après :
 
-A. LA DELIVRANCE DU PERMIS DE CHASSER EST SUBORDONNEE A L'ADMISSION A UN EXAMEN.
+a) La délivrance du permis de chasser est subordonnée à l'admission à un examen.
 
-TOUTEFOIS, LES PERSONNES AYANT OBTENU UN PERMIS DE CHASSE OU UNE AUTORISATION DELIVREE PAR L'ADMINISTRATION DES AFFAIRES MARITIMES, ANTERIEUREMENT A L'ENTREE EN VIGUEUR DU PRESENT ARTICLE, SONT DISPENSEES DE L'EXAMEN.
+Toutefois, les personnes ayant obtenu un permis de chasse ou une autorisation délivrée par l'administration des affaires maritimes, antérieurement à l'entrée en vigueur du présent article, sont dispensées de l'examen.
 
-B. NUL NE PEUT OBTENIR LE VISA DU PERMIS DE CHASSER S'IL N'EST MEMBRE DE LA FEDERATION DEPARTEMENTALE DES CHASSEURS DU LIEU DU VISA ET S'IL N'A ACQUITTE A CELLE-CI LES COTISATIONS STATUTAIRES.  LES FEDERATIONS DE CHASSEURS NE PEUVENT REJETER L'ADHESION D'UNE PERSONNE TITULAIRE DU PERMIS DE CHASSER.
+b) Nul ne peut obtenir le visa du permis de chasser s'il n'est membre d'une fédération départementale de chasseurs et s'il n'a acquitté à celle-ci les cotisations statutaires. Les fédérations départementales de chasseurs ne peuvent rejeter l'adhésion d'une personne titulaire du permis de chasser.
 
-C. LE PERMIS DE CHASSER EST VALIDE PAR LE PAIEMENT DE - REDEVANCES CYNEGETIQUES - DEPARTEMENTALES ET NATIONALES DONT LE MONTANT EST FIXE PAR DECRET EN CONSEIL D'ETAT.
+c) Le permis de chasser est validé par le paiement de "redevances cynégétiques" départementales et nationales dont le montant maximum est fixé par décret en Conseil d'Etat.
 
-II. LE MONTANT DE CES REDEVANCES EST VERSE A L'OFFICE NATIONAL DE LA CHASSE POUR ETRE AFFECTE AU FINANCEMENT DE SES DEPENSES, AU FONCTIONNEMENT DU CONSEIL NATIONAL DE LA CHASSE ET DE LA FAUNE SAUVAGE, AU PAIEMENT PAR LES FEDERATIONS DEPARTEMENTALES DES CHASSEURS, DU PERSONNEL CONCOURANT A LA SURVEILLANCE ET A LA POLICE DE LA CHASSE, DESIGNE PAR DECISION MINISTERIELLE, A LA CREATION ET AU FONCTIONNEMENT D'ASSOCIATIONS COMMUNALES ET INTERCOMMUNALES DE CHASSE AGREEES, AINSI QU'A L'INDEMNISATION DES DEGATS CAUSES AUX RECOLTES PAR CERTAINES ESPECES DE GIBIER, PREVUE AUX PARAGRAPHES V A VIII DE L'ARTICLE 14 DE LA LOI N- 68-1172 DU 27 DECEMBRE 1968.
+Pour obtenir la validation départementale du permis de chasser, le demandeur doit être membre de la fédération du département correspondant.
 
-III. IL EST PERCU :
+II - Le montant de ces redevances est versé à l'office national de la chasse pour être affecté au financement de ses dépenses, au fonctionnement du conseil national de la chasse et de la faune sauvage, au paiement par les fédérations départementales des chasseurs, du personnel concourant à la surveillance et à la police de la chasse, désigné par décision ministérielle, à la création et au fonctionnement d'associations communales et intercommunales de chasse agréées, ainsi qu'à l'indemnisation des dégâts causés aux récoltes par certaines espèces de gibier, prévue aux paragraphes V à VIII de l'article 14 de la loi n° 68-1172 du 27 décembre 1968.
 
-A. POUR LA DELIVRANCE DU PERMIS DE CHASSER, UN DROIT DE TIMBRE DE 5 F AU PROFIT DE L'ETAT ET DE 25 F POUR CHAQUE DUPLICATA.  LES PERSONNES DISPENSEES DE L'EXAMEN SONT EGALEMENT DISPENSEES DU DROIT DE TIMBRE ;
+III - Il est perçu :
 
-B. POUR LE VISA DU PERMIS DE CHASSER :
+a) Pour la délivrance du permis de chasser, un droit de timbre de 50 F au profit de l'Etat et de 25 F pour chaque duplicata. Les personnes dispensées de l'examen sont également dispensées du droit de timbre.
 
-- UN DROIT DE TIMBRE ANNUEL DE 20 F AU PROFIT DE L'ETAT,
+b) Pour le visa du permis de chasser :
 
-- UNE TAXE ANNUELLE DE 10 F AU PROFIT DE LA COMMUNE OU LA DEMANDE DE VISA A ETE PRESENTEE.
+Un droit de timbre annuel de 20 F au profit de l'Etat ;
 
-IV. UN DECRET EN CONSEIL D'ETAT PRECISE LES MODALITES D'APPLICATION DES DISPOSITIONS CONTENUES DANS LE PRESENT ARTICLE QUI, A L'EXCEPTION DES DISPOSITIONS CONCERNANT L'EXAMEN, ENTRENT EN VIGUEUR LE 1ER JUILLET 1975. LES DISPOSITIONS CONCERNANT L'EXAMEN ENTRERONT EN VIGUEUR POUR LA CAMPAGNE DE CHASSE 1976-1977.
+Une taxe annuelle de 10 F au profit de la commune où la demande de visa a été présentée.
 
-V. Paragraphe modificateur.
+c) Pour la délivrance de chaque duplicata du visa annuel du permis de chasser, une taxe de 10 F au profit de la commune où la demande de visa est présentée.
+
+IV - Un décret en Conseil d'Etat précise les modalités d'application des dispositions contenues dans le présent article qui, à l'exception des dispositions concernant l'examen, entrent en vigueur le 1er juillet 1975. Les dispositions concernant l'examen entreront en vigueur le 5 janvier 1976.
+
+V Paragraphe modificateur.
