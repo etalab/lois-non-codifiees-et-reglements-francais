@@ -8,18 +8,18 @@ Elle a pour mission de proposer et de conduire la politique générale d'informa
 
 A ce titre, elle est notamment chargée :
 
-- de contribuer à une meilleure connaissance de la politique de défense de la France et au renforcement des liens armées-nation ;
+1° De contribuer à une meilleure connaissance de la politique de défense de la France et au renforcement des liens armées-nation ;
 
-- de promouvoir l'image des armées, de la délégation générale pour l'armement, de la gendarmerie nationale et des directions et services du ministère de la défense et de leurs agents auprès des différents publics ;
+2° De promouvoir l'image des armées, de la délégation générale pour l'armement, de la gendarmerie nationale et des directions et services du ministère de la défense et de leurs agents auprès des différents publics ;
 
-- d'assurer la communication relative aux anciens combattants et victimes de guerre ;
+3° D'assurer la communication relative aux anciens combattants et victimes de guerre ;
 
-- d'animer et de coordonner, notamment en matière de recrutement et de reconversion, l'information et la communication conduites par les organismes du ministère de la défense qui l'informent de leurs activités ;
+4° D'animer et de coordonner, notamment en matière de recrutement et de reconversion, l'information et la communication conduites par les organismes du ministère de la défense, qui l'informent de leurs activités ;
 
-- de représenter le ministère de la défense auprès des médias nationaux et internationaux ;
+5° De représenter le ministre de la défense auprès des médias nationaux et internationaux ;
 
-- de produire les documents d'information écrits, audiovisuels ou informatiques relatifs à la défense ;
+6° De concevoir les documents d'information écrits, audiovisuels ou informatiques relatifs à la défense ;
 
-- de conserver et d'exploiter les productions photographiques et audiovisuelles qui lui sont confiées ;
+7° De mener des actions de formation au profit du personnel de la défense investi d'une mission de communication ;
 
-- de mener des actions de formation au profit du personnel de la défense investi d'une mission de communication.
+8° D'exercer la tutelle de l'Etablissement de communication et de production audiovisuelle de la défense.
