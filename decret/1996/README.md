@@ -552,6 +552,7 @@
 - [Décret n°98-186 du 19 mars 1998 (FPPA9700182D)](decret-n98-186-du-19-mars-1998-fppa9700182d)
 - [Décret n°98-187 du 19 mars 1998 (FPPA9700199D)](decret-n98-187-du-19-mars-1998-fppa9700199d)
 - [Décret n°98-188 du 19 mars 1998 (FPPA9700198D)](decret-n98-188-du-19-mars-1998-fppa9700198d)
+- [Décret n°78-381 du 20 mars 1978](decret-n78-381-du-20-mars-1978)
 - [Décret n°96-1015 du 20 novembre 1996 (ECOR9604300D)](decret-n96-1015-du-20-novembre-1996-ecor9604300d)
 - [Décret n°96-125 du 20 février 1996 (ECOT9626158D)](decret-n96-125-du-20-fevrier-1996-ecot9626158d)
 - [Décret n°96-137 du 20 février 1996 (ECOT9651496D)](decret-n96-137-du-20-fevrier-1996-ecot9651496d)
