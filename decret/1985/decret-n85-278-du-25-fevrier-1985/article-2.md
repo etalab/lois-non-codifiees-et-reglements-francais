@@ -1,0 +1,3 @@
+# Article 2
+
+Le ministre de l'Economie, des Finances et du Budget, le ministre de l'Intérieur et de la Décentralisation, le ministre de l'Urbanisme, du Logement et des transports, le secrétaire d'Etat auprès du ministre de l'Economie, des Finances et du Budget, chargé du Budget et de la Consommation, le secrétaire d'Etat auprès du ministre de l'Intérieur et de la Décentralisation, chargé des départements et territoires d'outre-mer, et le secrétaire d'Etat auprès du ministre de l'Urbanisme, du Logement et des Transports, chargé de la mer, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au "Journal officiel" de la République française.
