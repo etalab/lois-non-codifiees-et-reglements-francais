@@ -18,4 +18,4 @@ A l'appui de leur demande d'admission à concourir, les candidats doivent joindr
 
 7° La liste des postes choisis par ordre de préférence quant à leur affectation éventuelle.
 
-Ne pourront participer au concours que les candidats dont le dossier aura été transmis en temps opportun et qui rempliront toutes les conditions requises.
+Ne pourront participer au concours que les candidats dont le dossier complet aura été transmis dans les délais fixés par le présent arrêté et qui rempliront toutes les conditions nécessaires.

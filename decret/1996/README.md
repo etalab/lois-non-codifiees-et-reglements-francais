@@ -22,6 +22,8 @@
 - [Décret n°96-19 du 10 janvier 1996 (DOME9500051D)](decret-n96-19-du-10-janvier-1996-dome9500051d)
 - [Décret n°96-22 du 10 janvier 1996 (JUSC9521092D)](decret-n96-22-du-10-janvier-1996-jusc9521092d)
 - [Décret n°96-24 du 11 janvier 1996 (AGRG9500433D)](decret-n96-24-du-11-janvier-1996-agrg9500433d)
+- [Décret n°96-25 du 11 janvier 1996 (ENVN9530041D)](decret-n96-25-du-11-janvier-1996-envn9530041d)
+- [Décret n°96-26 du 11 janvier 1996 (ENVN9530060D)](decret-n96-26-du-11-janvier-1996-envn9530060d)
 - [Décret n°96-534 du 12 juin 1996 (INTA9620163D)](decret-n96-534-du-12-juin-1996-inta9620163d)
 - [Décret n°96-815 du 13 septembre 1996 (TASO9611305D)](decret-n96-815-du-13-septembre-1996-taso9611305d)
 - [Décret n°95-1109 du 16 octobre 1995 (SANS9502260D)](decret-n95-1109-du-16-octobre-1995-sans9502260d)

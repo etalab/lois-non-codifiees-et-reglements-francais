@@ -8,6 +8,6 @@ Peuvent être déclarés admissibles les candidats ayant obtenu, après totalisa
 
 Le jury apprécie souverainement, avant que ne soit levé l'anonymat, le nombre de candidats à convoquer aux épreuves d'admission.
 
-Au total des notes attribuées aux épreuves d'admissibilité et d'admission s'ajoute une bonification de cinq points pour les candidats titulaires du certificat Cadre.
+Au total des notes attribuées aux épreuves d'admissibilité et d'admission s'ajoute une bonification de cinq points pour les candidats titulaires du certificat Cadre ou du diplôme de cadre de santé.
 
 Sont déclarés admis les candidats ayant obtenu un total de points fixé par le jury et qui ne pourra en aucun cas être inférieur à soixante.

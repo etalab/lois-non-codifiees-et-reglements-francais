@@ -8,7 +8,7 @@ Le jury du concours est nommé par arrêté du ministre chargé de la santé. Il
 
 - un président de commission médicale d'établissement ou son suppléant, exerçant dans un établissement public de santé rangé au moins en 2e classe ;
 
-- deux membres du corps des infirmiers généraux, dont un directeur de service de soins infirmiers ;
+- trois membres du corps des infirmiers généraux, dont un directeur de service de soins infirmiers et un infirmier général conseiller technique régional en soins infirmiers ;
 
 - un médecin inspecteur régional ou départemental ;
 

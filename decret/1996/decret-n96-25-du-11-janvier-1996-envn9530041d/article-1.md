@@ -1,0 +1,3 @@
+# Article 1
+
+La taxe instituée à l'article 285 quater du code des douanes est due par toute entreprise de transport maritime embarquant des passagers à destination d'un site naturel classé ou inscrit au titre de la loi du 2 mai 1930, d'un parc national créé en application de l'article L. 241-1 du code rural, d'une réserve naturelle créée en application de l'article L. 242-1 du même code, d'un site appartenant au Conservatoire de l'espace littoral et des rivages lacustres en application de l'article L. 243-1 du même code ou d'un port desservant exclusivement ou principalement un des espaces protégés susmentionnés. La taxe est assise sur le nombre de ces passagers.
