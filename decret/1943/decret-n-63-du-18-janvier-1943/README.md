@@ -5,3 +5,6 @@
 - [Dérogations](derogations)
 - [Dispositions diverses](dispositions-diverses)
 - [Construction et réparation des appareils](construction-et)
+- [Marquages d'identité et de service](marquages-d-identite-et)
+- [Prescriptions particulières](prescriptions-particulieres)
+- [Vérifications lors des réparations](verifications-lors-des-reparations)
