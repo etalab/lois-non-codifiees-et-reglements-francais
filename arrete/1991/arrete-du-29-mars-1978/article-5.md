@@ -1,0 +1,3 @@
+# Article 5
+
+Le directeur général des douanes et des droits indirects du ministère de l'économie et des finances, le directeur de la qualité (service de la répression des fraudes et du contrôle de la qualité) du ministère de l'agriculture, le commissaire à la normalisation, le directeur du gaz, de l'électricité et du charbon, le directeur des industries métallurgiques, mécaniques et électriques et le directeur des carburants du ministère de l'industrie, du commerce et de l'artisanat sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
