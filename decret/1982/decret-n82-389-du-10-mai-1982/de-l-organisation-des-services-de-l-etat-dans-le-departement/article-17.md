@@ -10,4 +10,4 @@ Le commissaire de la République peut donner délégation de signature :
 
 4° Au directeur de cabinet ;
 
-5° Aux fonctionnaires du cadre national des préfectures pour les matières relevant des attributions du ministre chargé de l'intérieur et de la décentralisation et des matières relevant des départements ministériels qui ne disposent pas de services dans le département ainsi que pour la transformation en états exécutoires des ordres de recettes visés à l'article 85-2° du décret du 29 décembre 1962 susvisé.
+5° Aux agents en fonction dans les préfectures pour les matières relevant des attributions du ministre chargé de l'intérieur et de la décentralisation et des matières relevant des départements ministériels qui ne disposent pas de services dans le département ainsi que pour la transformation en états exécutoires des ordres de recettes visés à l'article 85-2° du décret du 29 décembre 1962 susvisé.
