@@ -6,7 +6,9 @@ La date d'entrée en vigueur de cette disposition est fixée au 1er avril 1983.
 
 II - En ce qui concerne les boissons alcooliques, la cotisation est due à raison de l'achat, par les consommateurs, de boissons d'une teneur en alcool supérieure à 25 p. 100 vol..
 
-La cotisation est acquittée pour le compte des consommateurs par les marchands en gros de boissons et par les producteurs qui vendent directement ces boissons aux détaillants ou aux consommateurs. Elle est représentée par une marque distincte apposée sur les bouteilles ; toutefois, les boissons déjà conditionnées au moment de l'entrée en vigueur de la présente cotisation et détenues en stock par les redevables de la cotisation pourront ne pas comporter cette marque sous des conditions fixées par arrêté.
+La cotisation est acquittée pour le compte des consommateurs par les marchands en gros de boissons et par les producteurs qui vendent directement ces boissons aux détaillants ou aux consommateurs. Elle est représentée par une marque distincte apposée sur les
+
+bouteilles ; toutefois, les boissons déjà conditionnées au moment de l'entrée en vigueur de la présente cotisation et détenues en stock par les redevables de la cotisation pourront ne pas comporter cette marque sous des conditions fixées par arrêté.
 
 III - En ce qui concerne les tabacs, la cotisation est due à raison de l'achat, par les consommateurs, de tabacs manufacturés de toute nature, à l'exception des produits à usage médicamenteux.
 
@@ -16,16 +18,26 @@ Sauf pour les tabacs en stock chez les fournisseurs et les débitants au moment 
 
 IV - Le montant de la cotisation spéciale est fixé :
 
-- en ce qui concerne les boissons alcooliques, à 1 franc par décilitre ou fraction de décilitre ;
+- En ce qui concerne les boissons alcooliques, à 1 franc par décilitre ou fraction de décilitre ;
 
-- en ce qui concerne les tabacs, à 25 p. 100 du prix de l'unité de conditionnement avant cotisation.
+En ce qui concerne les tabacs :
 
-Pour les cigarettes, il s'y ajoute une part spécifique égale à 5/95 du montant résultant de l'application du taux ci-dessus à la cigarette de la classe de prix la plus demandée.
+A 5 p. 100 du prix de l'unité de conditionnement avant cotisation, au 1er juillet 1983 ;
 
-V - La cotisation est assise, contrôlée et recouvrée par l'agence centrale des organismes de sécurité sociale [*ACOSS*] assistée, en tant que de besoin, par les services de l'Etat désignés par arrêté, selon les mêmes règles, conditions, garanties et sanctions qu'en matière de contributions indirectes. Les frais relatifs au recouvrement et à la gestion de la cotisation sont fixés par arrêté et s'imputent sur celle-ci.
+A 10 p. 100 au 1er janvier 1984 ;
+
+A 15 p. 100 au 1er juillet 1984 ;
+
+A 20 p. 100 au 1er janvier 1985 ;
+
+A 25 p. 100 au 1er juillet 1985.
+
+Pour les cigarettes, il s'y ajoute une part spécifique égale à cinq quatre-vingt-quinzièmes du montant résultant de l'application, à chacune de ces dates, des taux ci-dessus à la cigarette de la classe de prix la plus demandée.
+
+V - La cotisation est assise, contrôlée et recouvrée par l'agence centrale des organismes de sécurité sociale [*ACOSS*] assistée, en tant que de besoin, par les services de l'Etat désignés par arrêté, selon les mêmes règles, conditions garanties et sanctions qu'en matière de contributions indirectes. Les frais relatifs au recouvrement et à la gestion de la cotisation sont fixés par arrêté et s'imputent sur celle-ci.
 
 VI - Le montant de la cotisation n'est pas compris dans l'assiette de la taxe sur la valeur ajoutée, ni des prélèvements de nature fiscale ou parafiscale assis comme cette taxe. Il n'est pas pris en considération pour l'application des limites du forfait et du régime simplifié d'imposition.
 
-La cotisation n'est pas déductible pour l'établissement de l'impôt sur le revenu ou, le cas échéant, de l'impôt sur les sociétés dû par le consommateur.
+La cotisation n'est pas déductible pour l'établissement de l'impôt sur le revenu ou, le cas échéant, de l'impôt sur les sociétés du par le consommateur.
 
 VII - Un décret fixe les conditions d'application du présent article et notamment l'adaptation de ces dispositions au cas des tabacs manufacturés vendus dans les départements de Corse et les départements d'outre-mer.
