@@ -12,7 +12,7 @@ d) Les conditions auxquelles sont réalisés les actes de disposition sur les pa
 
 e) Les modalités de réalisation et d'exécution des travaux rendus obligatoires en vertu de dispositions législatives ou réglementaires ;
 
-f) La modification de la répartition des charges visées à l'alinéa 1er de l'article 10 ci-dessus rendue nécessaire par un changement de l'usage d'une ou plusieurs parties privatives.
+f) La modification de la répartition des charges visées à l'alinéa 1er de l'article 10 ci-dessus rendue nécessaire par un changement de l'usage d'une ou plusieurs parties privatives;
 
 g) A moins qu'ils ne relèvent de la majorité prévue par l'article 24, les travaux d'économie d'énergie portant sur l'isolation thermique du bâtiment, le renouvellement de l'air, le système de chauffage et la production d'eau chaude.
 
@@ -24,8 +24,10 @@ h) La pose dans les parties communes de canalisations, de gaines, et la réalisa
 
 i) A moins qu'ils ne relèvent de la majorité prévue par l'article 24, les travaux d'accessibilité aux personnes handicapées à mobilité réduite, sous réserve qu'ils n'affectent pas la structure de l'immeuble ou ses éléments d'équipement essentiels ;
 
-j) L'installation ou la modification d'une antenne collective ou d'un réseau interne à l'immeuble raccordé à un réseau câblé, établi ou autorisé en application de l'article 34 de la loi n° 86-1067 du 30 septembre 1986 à la liberté de communication;
+j) L'installation ou la modification d'une antenne collective ou d'un réseau interne à l'immeuble raccordé à un réseau câblé, établi ou autorisé en application de l'article 34 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication;
 
-k) L'autorisation permanente accordée à la police ou à la gendarmerie nationale de pénétrer dans les parties communes.
+k) L'autorisation permanente accordée à la police ou à la gendarmerie nationale de pénétrer dans les parties communes;
+
+l) L'installation ou la modification d'un réseau de distribution d'électricité public destiné à alimenter en courant électrique les emplacements de stationnement des véhicules, notamment pour permettre la charge des accumulateurs de véhicules électriques.
 
 A défaut de décision prise dans les conditions de majorité prévues au présent article, une nouvelle assemblée générale statue dans les conditions prévues à l'article 24.
