@@ -816,7 +816,6 @@
 - [Arrêté du 22 octobre 1992 (INTB9200489A)](arrete-du-22-octobre-1992-intb9200489a)
 - [Arrêté du 22 octobre 1992 (MERG9200172A)](arrete-du-22-octobre-1992-merg9200172a)
 - [Arrêté du 22 octobre 1992 (SANH9202697A)](arrete-du-22-octobre-1992-sanh9202697a)
-- [Arrêté du 22 mai 1992 (AGRP9200917A)](arrete-du-22-mai-1992-agrp9200917a)
 - [Arrêté du 22 mai 1992 (MENT9202092A)](arrete-du-22-mai-1992-ment9202092a)
 - [Arrêté du 22 mai 1992 (MENT9202093A)](arrete-du-22-mai-1992-ment9202093a)
 - [Arrêté du 22 mai 1992 (MENT9202094A)](arrete-du-22-mai-1992-ment9202094a)
