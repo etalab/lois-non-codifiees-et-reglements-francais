@@ -104,6 +104,14 @@ Nomination, acceptation des démissions ou du retrait d'une société civile pro
 
 Article 1er.
 
+Décret n° 99-1017 du 1er décembre 1999 relatif aux conditions d'accès aux professions judiciaires et juridiques de certains greffiers de tribunal de commerce
+
+1
+
+Dispense partielle de stage pour les greffiers des tribunaux de commerce dont l'office est supprimé par suite d'une nouvelle délimitation de circonscriptions judiciaires et qui souhaitent accéder aux professions d'avoué, de commissaire-priseur, d'huissier de justice et de notaire.
+
+Art. 1er à 6
+
 2.2. Décisions relatives aux commissaires-priseurs
 
 Ordonnance du 26 juin 1816 qui établit, en exécution de la loi du 28 avril 1816, des commissaires-priseurs dans les villes, chefs-lieux d'arrondissement, ou qui sont le siège d'un tribunal de grande instance, et dans celles qui, n'ayant ni sous-préfecture, ni tribunal, renferment une population de cinq mille âmes et au-dessus
@@ -450,7 +458,9 @@ Fixation du montant et de la répartition des indemnités dues en cas de créati
 
 2e alinéa de l'article 6.
 
-Décret n° 74-737 du 12 août 1974 relatif aux inspections des études de notaires
+Décret n° 74-737 du 12 août 1974
+
+relatif aux inspections des études de notaires
 
 1
 
@@ -718,13 +728,17 @@ Désignation pour chaque mission d'inspection d'un ou plusieurs inspecteurs choi
 
 R. 821-6.
 
-Décret n° 69-389 du 18 avril 1969 relatif au fonctionnement des juridictions commerciales dont le ressort est modifié par suite d'une nouvelle délimitation de circonscriptions administratives ou judiciaires
+Décret n° 69-389 du 18 avril 1969 relatif aux modalités de transfert des registres de commerce et des sociétés et des registres des agents commerciaux et aux modalités d'indemnisation des greffiers des tribunaux de commerce et des auxiliaires de justice en cas de modification du ressort des juridictions commerciales
 
 1
 
 Fixation du montant et de la répartition des indemnités dues en cas de modification du ressort des tribunaux de commerce.
 
-2e alinéa de l'article 12.
+2e alinéa de l'article 12
+
+et
+
+2e alinéa de l'article 12-3
 
 Décret n° 93-86 du 21 janvier 1993 pris pour l'application à la profession de greffier de tribunal de commerce de la loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé.
 
@@ -799,6 +813,24 @@ Décret n° 85-1389 du 27 décembre 1985 relatif aux administrateurs judiciaires
 Agrément des contrôleurs inscrits sur la liste annuelle.
 
 Article 54-18.
+
+Décret n° 99-1017 du 1er décembre 1999 relatif aux conditions d'accès aux professions judiciaires et juridiques de certains greffiers de tribunal de commerce
+
+1
+
+Dispense partielle de stage pour les greffiers des tribunaux de commerce dont l'office est supprimé par suite d'une nouvelle délimitation de circonscriptions judiciaires et qui souhaitent accéder aux professions d'administrateur judiciaire ou de mandataire judiciaire à la liquidation des entreprises.
+
+Art. 1er à 6
+
+2.8. Décisions relatives aux avocats :
+
+Décret n° 99-1017 du 1er décembre 1999 relatif aux conditions d'accès aux professions judiciaires et juridiques de certains greffiers de tribunal de commerce
+
+1
+
+Dispense partielle de stage pour les greffiers des tribunaux de commerce dont l'office est supprimé par suite d'une nouvelle délimitation de circonscriptions judiciaires et qui souhaitent accéder à la profession d'avocat.
+
+Art. 1er à 6
 
 3. Décisions diverses
 
