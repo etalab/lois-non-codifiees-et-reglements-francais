@@ -1,6 +1,6 @@
 # Article 23
 
-La demande d'occupation temporaire est présentée au commissaire de la République.
+La demande d'occupation temporaire est présentée au préfet.
 
 Elle indique [*contenu*] :
 
@@ -14,4 +14,4 @@ Elle indique [*contenu*] :
 
 A la demande est joint un extrait du plan cadastral sur lequel est figuré le périmètre des terrains dont l'occupation est demandée.
 
-Copie de la demande est adressée au directeur régional de l'industrie et de la recherche.
+Copie de la demande est adressée au directeur régional de l'industrie, de la recherche et de l'environnement.

@@ -1,6 +1,6 @@
 # Article 16
 
-Il est statué sur la demande d'autorisation par décret en Conseil d'Etat, après consultation du conseil général des mines et après avis de la commission interministérielle des dépôts d'hydrocarbures.
+Il est statué sur la demande d'autorisation par décret en Conseil d'Etat, contresigné par le ministre chargé de l'industrie et le ministre chargé de l'environnement, après consultation du conseil général des mines et après avis de la commission interministérielle des dépôts d'hydrocarbures. L'autorisation ainsi accordée vaut autorisation au titre de l'article 10 de la loi n° 92-3 du 3 janvier 1992 sur l'eau.
 
 Le décret d'autorisation précise notamment [*contenu*] :
 
@@ -14,7 +14,7 @@ Le décret d'autorisation précise notamment [*contenu*] :
 
 - le périmètre de protection ;
 
-- la profondeur qu'aucun travail effectué dans le périmètre de protection ne peut dépasser sans autorisation préalable du commissaire de la République ;
+- la profondeur qu'aucun travail effectué dans le périmètre de protection ne peut dépasser sans autorisation préalable du préfet ;
 
 - les droits et obligations réciproques du bénéficiaire de l'autorisation et du concessionnaire de mines, si le stockage doit être aménagé dans un gisement minier couvert par une concession ;
 

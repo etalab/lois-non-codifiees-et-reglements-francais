@@ -1,8 +1,8 @@
 # Article 13
 
-I. - La demande d'autorisation d'aménagement et d'exploitation d'un stockage souterrain est adressée au commissaire de la République ; des copies sont envoyées simultanément au ministre chargé de l'industrie et au directeur régional de l'industrie et de la recherche [*autorités compétentes*].
+I. - La demande d'autorisation d'aménagement et d'exploitation d'un stockage souterrain est adressée au préfet ; des copies sont envoyées simultanément au ministre chargé de l'industrie et au directeur régional de l'industrie, de la recherche et de l'environnement.
 
-La demande indique [*contenu*] :
+La demande indique :
 
 1. Les nom, prénoms, qualité, nationalité et domicile du demandeur et, si elle est faite au nom d'une société ou d'un établissement public, le siège social de ceux-ci, ainsi que les nom, prénoms, qualité et nationalité :
 
@@ -31,3 +31,5 @@ II. - A la demande et à ses copies sont annexées les pièces suivantes :
 3. Un mémoire explicatif et justificatif et un plan au 1/50000 ou au 1/1000 des installations projetées ; le mémoire indique les constatations faites au cours des travaux de recherches et au cours de la création et des essais de stabilité et d'étanchéité des cavités de stockage.
 
 4. Si la demande est présentée au nom d'une société, un exemplaire certifié des statuts, une expédition de l'acte de constitution de la société et la justification des pouvoirs de la personne qui a introduit la demande.
+
+5. Une étude d'impact, telle qu'elle est prévue au 6° de l'article 10,.
