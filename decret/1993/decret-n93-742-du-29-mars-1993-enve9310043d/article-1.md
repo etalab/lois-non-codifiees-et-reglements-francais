@@ -14,7 +14,7 @@ d) Le décret du 6 novembre 1962 susvisé ;
 
 e) Le décret du 13 janvier 1965 susvisé ;
 
-f) Le décret du 31 décembre 1974 susvisé ;
+f) [*supprimé*]
 
 g) Le décret du 20 décembre 1979 susvisé ;
 
@@ -37,3 +37,5 @@ a) Le décret n° 94-894 du 13 octobre 1994 relatif à la concession et à la d�
 b) Les dispositions des titres II et III du livre Ier nouveau du code rural.
 
 c) Le décret 89-3 du 3 janvier 1989 modifié relatif aux eaux destinées à la consommation humaine, à l'exclusion des eaux minérales naturelles.
+
+e) Le décret n° 95-540 du 4 mai 1995 relatif aux rejets d'effluents liquides et gazeux et aux prélèvements d'eau des installations nucléaires de base.
