@@ -290,7 +290,6 @@
 - [Décret n°84-1245 du 28 décembre 1984](decret-n84-1245-du-28-decembre-1984)
 - [Décret n°84-510 du 28 juin 1984](decret-n84-510-du-28-juin-1984)
 - [Décret n°84-520 du 28 juin 1984](decret-n84-520-du-28-juin-1984)
-- [Décret n°84-523 du 28 juin 1984](decret-n84-523-du-28-juin-1984)
 - [Décret n°84-526 du 28 juin 1984](decret-n84-526-du-28-juin-1984)
 - [Décret n°84-529 du 28 juin 1984](decret-n84-529-du-28-juin-1984)
 - [Décret n°84-532 du 28 juin 1984](decret-n84-532-du-28-juin-1984)
