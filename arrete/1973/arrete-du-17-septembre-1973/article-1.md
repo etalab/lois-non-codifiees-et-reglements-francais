@@ -4,9 +4,11 @@ Sont appelées à désigner des représentants au sein des commissions prévues 
 
 1° Pour la profession de médecin.
 
-Confédération des syndicats médicaux français : deux représentants ;
+Confédération des syndicats médicaux français : un représentant ;
 
-Fédération des médecins de France : un représentant.
+Fédération des médecins de France : un représentant ;
+
+M. G. France : un représentant.
 
 2° Pour la profession de chirurgien-dentiste.
 
