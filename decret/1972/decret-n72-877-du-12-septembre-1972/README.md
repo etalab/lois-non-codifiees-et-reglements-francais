@@ -3,7 +3,6 @@
 - [Article 1](article-1.md)
 - [Titre 1 : Personnel des services ouvriers](titre-1)
 - [Titre I : Personnel des services ouvriers](titre-i)
-- [Titre Ier : Personnel des services ouvriers](titre-ier)
 - [Titre II : Personnel des parcs automobiles](titre-ii)
 - [Titre III : Personnel du service intérieur](titre-iii)
 - [Titre IV : Dispositions communes](titre-iv)
