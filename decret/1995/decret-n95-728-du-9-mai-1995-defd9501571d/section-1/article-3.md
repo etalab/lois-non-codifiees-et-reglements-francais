@@ -4,7 +4,7 @@ En vue de son admission, tout candidat doit justifier :
 
 1° Qu'il est français ou naturalisé français avant la date de la première épreuve du concours ;
 
-2° Qu'il est titulaire du baccalauréat ou d'un titre exigé pour l'accès à l'enseignement supérieur dans un pays étranger ;
+2° Qu'il est titulaire du baccalauréat ou d'un titre exigé pour l'accès à l'enseignement supérieur dans un pays étranger et, pour certaines filières, d'un diplôme de niveau supérieur fixé par arrêté du ministre chargé des armées ;
 
 3° Qu'il a, l'année du concours, dix-sept ans accomplis au 1er septembre et moins de vingt-deux ans au 1er janvier ;
 
