@@ -1,0 +1,3 @@
+# Article 60
+
+Dans le cas de demande en inscription de faux contre une pièce produite, le président de la section ou la sous-section saisie fixe le délai dans lequel la partie qui l'a produite sera tenue de déclarer si elle entend s'en servir. Si la partie ne satisfait pas à cette ordonnance ou si elle déclare qu'elle n'entend pas se servir de cette pièce, cette pièce sera rejetée. Si la partie fait la déclaration qu'elle entend se servir de la pièce, le Conseil d'Etat statue sur l'avis de la section ou la sous-section, soit en ordonnant qu'il sera sursis à la décision de l'instance principale jusqu'après le jugement de faux par le tribunal compétent, soit en prononçant une décision définitive si elle ne dépend pas de la pièce arguée de faux.
