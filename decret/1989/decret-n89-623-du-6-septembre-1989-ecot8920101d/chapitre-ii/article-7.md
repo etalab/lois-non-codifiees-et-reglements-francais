@@ -4,15 +4,15 @@ Un fonds commun de placement d'entreprise prévu à l'article 20 de la loi du 23
 
 Toutefois, aucune limitation n'est applicable :
 
-a) Aux titres émis ou garantis par un Etat membre de la Communauté économique européenne ;
+a) Aux titres émis ou garantis par un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen.
 
-b) Aux valeurs mobilières, autres que les parts sociales des coopératives, émises par l'entreprise ou par l'une des entreprises liées à celle-ci au sens de l'article 208-4 de la loi du 24 juillet 1966 susmentionnée, pourvu que les conditions de la liquidité de ces valeurs aient été prévues, ou qu'un choix de placement présentant des conditions suffisantes de liquidité ait été offert aux salariés et, le cas échéant, aux anciens salariés, au moment :
+b) Aux valeurs mobilières, autres que les parts sociales des coopératives, émises par l'entreprise ou par l'une des entreprises liées à celle-ci au sens de l'article 208-4 de la loi du 24 juillet 1966 susmentionnée, pourvu que l'actif du fonds comporte au moins un tiers de titres liquides, ou qu'un choix de placement présentant des conditions suffisantes de liquidité ait été offert aux salariés et, le cas échéant, aux anciens salariés, au moment :
 
 i) De chacun de leurs versements au titre du plan d'épargne d'entreprise, dans les conditions prévues par l'article L. 443-4 du code du travail ;
 
 ii) De l'affectation annuelle des sommes leur revenant au titre de la participation, dans les conditions prévues par un accord déterminant des modalités de placement présentant des conditions de liquidité équivalentes à celles mentionnées au i) ou décidant l'affectation des sommes à un fonds que l'entreprise doit consacrer à des investissements au sens du 3 du deuxième alinéa de l'article L. 442-5 du code du travail ;
 
-c) Aux actions ou parts d'organismes de placement collectif en valeurs mobilières relevant du chapitre Ier du présent décret.
+c) Aux actions ou parts d'organismes de placement collectif en valeurs mobilières relevant du chapitre Ier du présent décret ou d' organismes soumis à la législation d'un Etat bénéficiant de la procédure de reconnaissance mutuelle des agréments prévue par la directive n° 85-611 du Conseil du 20 décembre 1985.
 
 Dans le cas de parts sociales émises par une coopérative et souscrites par un fonds commun de placement d'entreprise de cette coopérative, la limite prévue au premier alinéa est portée à 50 p. 100, à condition que les statuts de ladite coopérative ne prévoient pas de restriction au rachat immédiat des parts sociales détenues par le fonds. Toutefois, les parts sociales émises par les sociétés coopératives ouvrières de production revêtant la forme des sociétés anonymes peuvent être détenues par les fonds communs de placement d'entreprise de ces coopératives sans limitation quantitative.
 

@@ -1,3 +1,3 @@
 # Article 6
 
-Les organismes de placement collectif en valeurs mobilières qui tiennent leur comptabilité en une unité monétaire autre que le franc français ne peuvent changer d'unité monétaire au cours d'un même exercice comptable.
+Pour les organismes de placement collectif en valeurs mobilières bénéficiant d'une procédure allégée, la limite fixée par l'article 4 est portée à 100 % et celle fixée par l'article 5 est portée à 30 % de l'actif.
