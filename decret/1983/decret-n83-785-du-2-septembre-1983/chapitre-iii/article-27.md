@@ -2,9 +2,9 @@
 
 Le conseil de discipline est présidé par le commissaire de la République de la région qui en nomme les autres membres.
 
-Ce conseil comporte deux sections de douze membres chacune.
+Ce conseil comporte deux sections de douze membres chacune [*nombre*].
 
-La première section, compétente à l'égard des internes en médecine, comprend :
+La première section, compétente à l'égard des internes et des résidents en médecine, comprend [*composition*] :
 
 a) Le commissaire de la République de la région, président, qui en fait assurer le secrétariat :
 
@@ -14,7 +14,7 @@ c) Deux membres du personnel enseignant et hospitalier, relevant du décret n° 
 
 d) Deux praticiens hospitaliers relevant du décret n° 84-131 du 24 février 1984 précité choisis parmi les noms proposés par les commissions médicales et consultatives de chacun des établissements de la région, chaque commission médicale consultative ne pouvant proposer qu'un nom ;
 
-e) Six internes en médecine, dont trois de la filière de médecine générale, affectés dans la région et proposés par les organisations syndicales représentatives des intéressés.
+e) Six internes en médecine des filières de médecine spécialisée, de santé publique ou de recherche médicale ou des disciplines de spécialités médicales, de spécialités chirurgicales, de psychiatrie ou de biologie médicale, lorsque l'intéressé appartient à l'une de ces catégories. Les six internes ou résidents, affectés dans la région, sont proposés par leurs organisations syndicales représentatives respectives.
 
 La deuxième section, compétente à l'égard des internes en pharmacie, comprend :
 
