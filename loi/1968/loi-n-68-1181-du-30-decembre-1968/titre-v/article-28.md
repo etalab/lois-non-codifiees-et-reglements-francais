@@ -1,15 +1,13 @@
 # Article 28
 
-Sans préjudice de l'application des lois et règlements concernant la répression de la pollution des eaux de mer par les hydrocarbures aux installations et dispositifs visés au 2° de l'article 3 de la présente loi, sera puni d'une amende de 2000 à 20000 F et, en cas de récidive, d'un emprisonnement de six jours à six mois et d'une amende de 5000 à 50000 F ou de l'une de ces deux peines seulement, quiconque aura, au cours d'exploration ou d'exploitation des ressources naturelles du plateau continental, déversé ou laissé échapper dans la mer, à partir d'une installation ou d'un dispositif visé au 1° dudit article, des produits énumérés au 1° de l'article 3 de la convention internationale pour la prévention de la pollution des eaux de la mer par les hydrocarbures, signée à Londres le 12 mai 1954, tels qu'ils sont définis à l'article 1er, 1°, de ladite convention.
+Sans préjudice de l'application des dispositions du code minier, notamment de ses articles 83, 84 et 85 et de ses textes d'application à l'ensemble des activités d'exploration et d'exploitation des ressources naturelles du plateau continental, est interdit tout rejet à la mer d'hydrocarbures ou de mélanges d'hydrocarbures susceptibles de porter atteinte à la santé publique, à la faune et à la flore marines et au développement économique et touristique des régions côtières.
 
-Le propriétaire ou l'exploitant des installations ou dispositifs visés à l'article 3 de la présente loi ou la personne assumant à bord de ces installations et dispositifs la conduite des travaux d'exploration ou d'exploitation sera puni d'un emprisonnement de dix jours à six mois et d'une amende de 5000 à 50000 F lorsque l'infraction aura été commise sur son ordre exprès.
+Les rejets qui résultent directement des opérations d'exploration doivent être exempts d'hydrocarbures.
 
-Tout propriétaire ou exploitant de ces installations et dispositifs qui n'aura pas donné à la personne assumant à bord de ces installations et dispositifs la conduite des travaux d'exploration ou d'exploitation l'ordre exprès de se conformer aux dispositions dont l'inobservation est réprimée par l'alinéa premier du présent article, pourra être retenu comme complice de l'infraction prévue audit alinéa.
+Les rejets qui résultent directement des opérations d'exploitation, y compris le stockage, ne peuvent avoir une teneur moyenne en hydrocarbures supérieure à 20 parties par million, ni avoir pour effet de déverser dans la mer un volume moyen d'hydrocarbures supérieur à 2 centilitres par jour et par hectare de la surface du titre d'exploitation.
 
-L'infraction prévue à l'alinéa premier du présent article ne sera pas constituée lorsque :
+Des dispositions plus restrictives que celles prévues à l'alinéa ci-dessus peuvent être imposées par voie réglementaire en fonction des conditions locales ou particulières de l'exploitation ou de la protection de l'environnement.
 
-a) Le déversement aura lieu afin d'assurer la sécurité de l'installation et du dispositif visés au 1° de l'article 3 de la présente loi ou de leur éviter une avarie grave ou pour sauver des vies humaines en mer ;
+Aucune opération d'exploitation ne peut être entreprise avant que ne soit dressé, aux frais du titulaire du titre d'exploitation, un état biologique et écologique du milieu marin dans la zone couverte par ledit titre. Cet état doit être renouvelé au moins une fois par an au cours de la durée de validité d'un titre d'exploitation.
 
-b) L'échappement proviendra d'une avarie ou d'une fuite imprévisibles et impossibles à éviter, si toutes les mesures nécessaires ont été prises après l'avarie ou la découverte de la fuite pour empêcher, arrêter ou réduire cet échappement.
-
-Les articles 5, 6 et 7 de la loi n° 64-1331 du 26 décembre 1964 réprimant la pollution des eaux de la mer par les hydrocarbures sont applicables aux infractions réprimées par le présent article.
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
