@@ -1,25 +1,19 @@
 # Article 10
 
-Les jurys des concours sont nommés par arrêté du président du Centre national de la fonction publique territoriale, sur la base d'une liste dressée chaque année par le conseil d'administration du Centre national de la fonction publique territoriale, après avis du conseil d'orientation.
+Les jurys des concours sont nommés par arrêté du président du Centre national de la fonction publique territoriale. Ils sont choisis sur une liste établie chaque année ou mise à jour en tant que de besoin par le conseil d'administration du Centre national de la fonction publique territoriale, après avis du conseil d'orientation.
 
-Le jury de chaque concours comprend, outre le président, neuf membres ainsi répartis :
+Le jury de chaque concours comprend au moins neuf membres :
 
-a) Deux élus locaux ;
+a) Trois fonctionnaires territoriaux de catégorie A, dont un appartenant au cadre d'emplois des conservateurs territoriaux de bibliothèques ;
 
-b) Deux fonctionnaires territoriaux de catégorie A, dont un appartenant au cadre d'emplois des conservateurs territoriaux de bibliothèques et titulaire du grade le plus élevé dans ce cadre d'emplois ;
+c) Trois personnalités qualifiées, dont au moins un membre de l'enseignement supérieur ;
 
-c) Deux personnalités qualifiées ;
+d) Trois élus locaux.
 
-d) Trois membres de l'enseignement supérieur.
+L'arrêté prévu au premier alinéa du présent article désigne, parmi les membres du jury de chaque concours, son président ainsi que le remplaçant de ce dernier pour le cas où il serait dans l'impossibilité d'accomplir sa mission.
 
 Le président et deux membres de ces jurys sont communs au jury du concours externe et au jury du concours interne.
 
-L'arrêté prévu au premier alinéa du présent article désigne le remplaçant du président dans le cas où celui-ci serait dans l'impossibilité de poursuivre sa mission.
+Le jury peut se constituer en groupes d'examinateurs, compte tenu notamment du nombre des candidats, en vue de la correction des épreuves écrites et des interrogations orales, dans les conditions fixées par l'article 44 de la loi du 26 janvier 1984 susvisée.
 
-En cas de partage égal des voix, la voix du président est prépondérante.
-
-En fonction de la nature particulière des épreuves, des examinateurs spéciaux peuvent être nommés par arrêté du président du Centre national de la fonction publique territoriale.
-
-Les correcteurs sont désignés par arrêté du président du Centre national de la fonction publique territoriale pour participer avec les membres du jury à la correction des épreuves.
-
-Les épreuves écrites sont anonymes ; chaque composition est corrigée par deux correcteurs.
+Des correcteurs peuvent être désignés par arrêté du président du Centre national de la fonction publique territoriale pour participer à la correction des épreuves sous l'autorité du jury.
