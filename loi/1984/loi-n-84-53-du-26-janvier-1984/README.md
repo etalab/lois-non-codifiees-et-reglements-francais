@@ -1,0 +1,15 @@
+# Loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale (1).
+
+- [Article 1](article-1.md)
+- [Chapitre I : Dispositions générales.](chapitre-i)
+- [Chapitre II : Dispositions relatives aux organes de la fonction publique territoriale](chapitre-ii)
+- [Chapitre III : Accès à la fonction publique territoriale](chapitre-iii)
+- [Chapitre IV : Structure des carrières.](chapitre-iv)
+- [Chapitre V : Positions.](chapitre-v)
+- [Chapitre VI : Notation - Avancement - Reclassement](chapitre-vi)
+- [Chapitre VII : Discipline.](chapitre-vii)
+- [Chapitre IX : Cessation de fonctions et perte d'emploi](chapitre-ix)
+- [Chapitre X : De l'exercice du droit syndical.](chapitre-x)
+- [Chapitre XI : Dispositions applicables aux emplois non comparables à ceux de l'Etat.](chapitre-xi)
+- [Chapitre XII : Dispositions applicables aux fonctionnaires territoriaux nommés dans des emplois permanents à temps non complet.](chapitre-xii)
+- [Chapitre XIII : Dispositions diverses et transitoires.](chapitre-xiii)

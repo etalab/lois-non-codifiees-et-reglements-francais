@@ -1,0 +1,9 @@
+# Article 54
+
+Sous réserve des dispositions de l'article 53, le personnel enseignant comprend des enseignants-chercheurs appartenant à l'enseignement supérieur, d'autres enseignants ayant également la qualité de fonctionnaires, des enseignants associés ou invités et des chargés d'enseignement.
+
+Les enseignants associés ou invités assurent leur service à temps plein ou à temps partiel. Ils sont recrutés pour une durée limitée dans des conditions fixées par décret en Conseil d'Etat.
+
+Les chargés d'enseignement apportent aux étudiants la contribution de leur expérience ; ils exercent une activité professionnelle principale en dehors de leur activité d'enseignement. Ils sont nommés pour une durée limitée par le président de l'université, sur proposition de l'unité intéressée, ou le directeur de l'établissement.
+
+Le recrutement de chercheurs pour des tâches d'enseignement est organisé dans des conditions fixées par décret.

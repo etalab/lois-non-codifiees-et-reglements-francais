@@ -1,0 +1,7 @@
+# Article 97
+
+Un emploi [*suppression*] ne peut être supprimé qu'après avis du comité technique paritaire. Si la collectivité ou l'établissement ne peut offrir un emploi correspondant à son grade, le fonctionnaire est pris en charge, au besoin en surnombre, selon le cas, par le centre de gestion compétent ou par la collectivité ou l'établissement concerné.    Pendant cette période, l'intéressé reçoit sa rémunération principale. Le centre, la collectivité ou l'établissement lui propose tout emploi correspondant à son grade dont la création ou la vacance lui a été signalée, notamment en vertu de l'article 41. La prise en charge cesse après trois refus d'emploi auquel le grade de l'intéressé donne vocation, à condition que les emplois proposés se situent dans le département pour les fonctionnaires de catégories C et D et dans la région pour les fonctionnaires de catégorie B.
+
+Lorsque la prise en charge est assurée par un centre de gestion, la participation de la collectivité ou de l'établissement aux dépenses du centre est majorée en fonction du nombre d'emplois supprimés. Cette majoration ne peut être inférieure à la moitié des traitements bruts perçus par les fonctionnaires concernés. Elle cesse d'être versée lorsque le fonctionnaire intéressé a reçu une nouvelle affectation et, en tout état de cause, à l'expiration d'un délai d'un an.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
