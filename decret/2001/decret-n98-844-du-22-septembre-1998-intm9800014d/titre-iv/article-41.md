@@ -8,6 +8,6 @@ L'agent en service dans un territoire d'outre-mer ou à Mayotte sans limitation 
 
 Les congés annuels intervenant au titre de la deuxième année de séjour d'un agent affecté à Mayotte dans les conditions prévues au décret du 26 novembre 1996 susvisé ouvrent droit à la prise en charge des frais de voyage aller-retour entre son lieu d'affectation et sa résidence habituelle.
 
-Dans tous les cas, sont également pris en charge les frais de voyage du conjoint et des membres de la famille.
+Dans tous les cas, sont également pris en charge les frais de voyage du conjoint, concubin ou partenaire d'un pacte civil de solidarité et des membres de la famille.
 
 Les frais de transport à l'intérieur du territoire où est pris le congé ne sont pas pris en charge, excepté le cas où le congé administratif est immédiatement suivi du changement de résidence.

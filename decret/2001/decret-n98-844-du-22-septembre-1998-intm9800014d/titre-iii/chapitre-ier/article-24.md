@@ -10,7 +10,7 @@ I. - L'agent a droit à la prise en charge des frais de changement de résidence
 
 a) Une nomination dans un autre corps de même catégorie ou de catégorie supérieure au sens de l'article 29 de la loi du 11 janvier 1984 susvisée ;
 
-b) Pour les magistrats, une nomination à un groupe de fonctions hiérarchiquement supérieur ou à un emploi classé hors hiérarchie ;
+b) Pour les magistrats, une nomination à un emploi classé hors hiérarchie;
 
 c) Pour l'agent relevant de la fonction publique territoriale ou de la fonction publique hospitalière, une nomination dans un corps de même catégorie ou de catégorie supérieure de la fonction publique de l'Etat prononcée dans les conditions prévues à l'article 19 de la loi du 11 janvier 1984 susvisée ;
 
@@ -24,7 +24,7 @@ b) Soit à un emploi conduisant à pension d'une administration de l'Etat qui es
 
 5° Une affectation, à l'issue d'un congé de longue maladie ou de longue durée, conformément aux dispositions de l'article 46 du décret du 14 mars 1986 susvisé ou, pour l'agent contractuel, un réemploi à l'issue d'un congé de grave maladie mentionné à l'article 13 du décret du 17 janvier 1986 susvisé, dans une résidence différente de celle où il exerçait lors de sa mise en congé et sous réserve que ce changement d'affectation n'ait pas lieu sur sa demande, pour des motifs autres que son état de santé ;
 
-6° L'accomplissement des obligations statutaires de mobilité prévues par les dispositions de l'article 1er du décret du 30 juin 1972 susvisé et de l'article 9 du décret n° 58-1277 du 22 décembre 1958 modifié pris pour l'application de l'ordonnance du 22 décembre 1958 susvisée ;
+6° L'accomplissement des obligations statutaires de mobilité prévues par les dispositions de l'article 39, alinéas 2 et 3, de l'ordonnance du 22 décembre 1958 susvisée et par les dispositions de l'article 1er du décret n° 2004-708 du 16 juillet 2004 relatif à la mobilité et au détachement des fonctionnaires des corps recrutés par la voie de l'Ecole nationale d'administration;
 
 7° Un retour à la résidence habituelle reconnu indispensable en raison de l'état de santé de l'agent par le comité médical prévu par le décret du 14 mars 1986 susvisé ;
 

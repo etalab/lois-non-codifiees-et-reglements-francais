@@ -10,9 +10,9 @@ Pour l'application du présent décret, sont considérés comme :
 
 - résidence habituelle : le lieu où se situe le centre des intérêts moraux et matériels de l'intéressé, c'est-à-dire le territoire métropolitain de la France, un département d'outre-mer, un territoire d'outre-mer, Mayotte ou la collectivité territoriale de Saint-Pierre-et-Miquelon, selon le cas ;
 
-- membres de la famille : à condition qu'ils vivent habituellement sous le toit de l'agent, le conjoint, ainsi que les enfants de l'agent, du conjoint et les enfants recueillis, lorsqu'ils sont à la charge au sens prévu par la législation sur les prestations familiales, les enfants infirmes visés à l'article 196 du code général des impôts et les ascendants de l'agent ou du conjoint qui, en application de la législation fiscale métropolitaine, ne sont, ou ne seraient, pas assujettis à l'impôt sur le revenu des personnes physiques ;
+- membres de la famille : à condition qu'ils vivent habituellement sous le toit de l'agent, le conjoint, le concubin ou le partenaire d'un pacte civil de solidarité ainsi que les enfants de l'agent, du conjoint, du concubin, du partenaire d'un pacte civil de solidarité et les enfants recueillis, lorsqu'ils sont à charge au sens prévu par la législation sur les prestations familiales,  les enfants infirmes visés à l'article 196 du code général des impôts et les ascendants de l'agent, de son conjoint ou de son partenaire d'un pacte civil de solidarité qui, en application de la législation fiscale métropolitaine, ne sont, ou ne seraient pas, assujettis à l'impôt sur le revenu des personnes physiques ;
 
-- conjoints : les époux au sens de l'article 213 du code civil ;
+- mariés, concubins ou partenaires d'un pacte civil de solidarité : les époux, concubins ou partenaires d'un pacte civil de solidarité au sens respectivement des articles 213, 515-8 et 515-1 du code civil ;
 
 - agent : le personnel civil, le magistrat ou l'ouvrier de l'Etat ;
 
