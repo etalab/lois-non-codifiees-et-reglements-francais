@@ -1,5 +1,5 @@
 # Article 1
 
-L'aide sélective créée à l'article 39 de la loi du 13 décembre 2000 susvisée est destinée à promouvoir le tournage d'oeuvres cinématographiques dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon.
+L'aide sélective créée à l'article 39 de la loi du 13 décembre 2000 est destinée à promouvoir la production d'oeuvres cinématographiques qui présentent un intérêt culturel pour la Guadeloupe, la Guyane, la Martinique, la Réunion et pour Saint-Pierre-et-Miquelon.
 
-Cette aide est attribuée en tenant compte notamment des retombées économiques locales de la production, de la contribution de la production au développement local des métiers du cinéma et de l'apport de l'oeuvre à une meilleure connaissance de l'outre-mer et à sa valorisation auprès d'un large public.
+L'aide est attribuée aux oeuvres qui contribuent notamment à une meilleure connaissance de ces collectivités territoriales d'outre-mer, à leur valorisation auprès d'un large public, à la promotion de leurs expressions culturelles ou à la formation de leurs résidents à l'expression cinématographique et aux métiers du cinéma.
