@@ -358,6 +358,7 @@
 - [Décret n°2002-922 du 6 juin 2002 (BUDF0200011D)](decret-n2002-922-du-6-juin-2002-budf0200011d)
 - [Décret n°2002-923 du 6 juin 2002 (BUDF0200012D)](decret-n2002-923-du-6-juin-2002-budf0200012d)
 - [Décret n°2002-924 du 6 juin 2002 (AGRA0201115D)](decret-n2002-924-du-6-juin-2002-agra0201115d)
+- [Décret n°95-569 du 6 mai 1995 (SPSH9501452D)](decret-n95-569-du-6-mai-1995-spsh9501452d)
 - [Décret n°2002-1059 du 7 août 2002 (SANS0222292D)](decret-n2002-1059-du-7-aout-2002-sans0222292d)
 - [Décret n°2002-1060 du 7 août 2002 (SANS0222293D)](decret-n2002-1060-du-7-aout-2002-sans0222293d)
 - [Décret n°2002-1064 du 7 août 2002 (PRMX0205836D)](decret-n2002-1064-du-7-aout-2002-prmx0205836d)
