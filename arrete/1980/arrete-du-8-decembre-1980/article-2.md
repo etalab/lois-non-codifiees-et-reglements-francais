@@ -1,5 +1,3 @@
 # Article 2
 
-La scission doit s'opérer par apport des éléments d'actif à des sociétés nouvelles.
-
-La transmission à titre gratuit, prévue à l'article 1er ci-dessus, doit être réalisée ans les deux ans suivant la réalisation de la scission.
+L'arrêté du 4 mai 1971, relatif à la dispense de passation de marché accordée aux adhérents à des groupements d'achats publics pour l'exécution de certaines prestations, est abrogé.
