@@ -15,3 +15,9 @@ b) Les fonctionnaires et agents de l'Etat ou des collectivités locales rempliss
 c) Les agents des établissements d'hospitalisation, de soins ou de cure publics en fonctions à la date de publication du présent décret et comptant au moins deux années de services hospitaliers.
 
 Lorsqu'un concours est organisé en vue de pourvoir des postes vacants dans plusieurs établissements, les candidats reçus sont appelés à choisir leur affectation dans l'ordre de leur admission au concours.
+
+En outre, lorsque cinq titularisations ont été prononcées après concours dans l'emploi de commis en application des dispositions des 1e et 2e ci-dessus, un commis peut être nommé au choix et dans la limite des emplois vacants, après avis de la commission paritaire compétente, parmi les sténodactylographes, les agents de bureau et les téléphonistes justifiant d'au moins dix ans de services publics dont cinq ans au minimum dans les établissements d'hospitalisation de soins ou de cure publics.
+
+Les agents nommés dans ces conditions sont dispensés de l'obligation de stage prévue au premier alinéa de l'article 16 ci-dessous.
+
+Toute vacance d'emploi de commis devant être pourvue au choix dans les conditions qui précèdent est annoncée au Journal officiel à la diligence du ministre de la santé publique et de la sécurité sociale. Un délai de quinze jours à compter de la publication de l'avis de vacance est accordé aux candidats pour faire parvenir leur demande à l'autorité investie du pouvoir de nomination.

@@ -1,4 +1,4 @@
-# Arrêté du 13 janvier 1970 relatif aux conditions de prise en charge et d'imputation des frais de changement de résidence des agents des établissements d'hospitalisation, de soins ou de cure publics.
+# Arrêté du 13 janvier 1970 relatif aux exceptions à l'obligation de pasteuriser les laits et les crèmes servant à la fabrication des fromages frais
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

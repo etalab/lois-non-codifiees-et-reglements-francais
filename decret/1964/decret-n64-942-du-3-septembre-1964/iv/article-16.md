@@ -15,3 +15,9 @@ a) Les candidats titulaires du brevet d'études du premier cycle du second degr�
 b) Les fonctionnaires et agents de l'Etat ou des collectivités locales âgés de trente-cinq ans au plus au 1er janvier de l'année du concours et ayant accompli cinq années au moins de services publics dont deux ans dans un établissement d'hospitalisation, de soins ou de cure public.
 
 Lorsqu'un concours est organisé en vue de pourvoir des postes vacants dans plusieurs établissements, les candidats reçus sont appelés à choisir leur affectation dans l'ordre de leur admission au concours.
+
+En outre, lorsque cinq titularisations ont été prononcées dans l'emploi d'agent du service intérieur de 3e catégorie en application des dispositions des 1 et 2 ci-dessus, un agent du service intérieur de 3e catégorie peut être nommé au choix et dans la limite des emplois vacants, après avis de la commission paritaire compétente, parmi les agents visés aux articles 13, 14, 17, 19, 20 et 21 du présent décret, les surveillants des services généraux du cadre d'extinction et les agents de bureau justifiant d'au moins dix ans de services publics, dont cinq ans au minimum dans les établissements d'hospitalisation de soins ou de cure publics.
+
+Les agents nommés dans ces conditions sont dispensés de l'obligation de stage prévue au premier alinéa de l'article 22 ci-dessous.
+
+Toute vacance d'emploi d'agent du service intérieur de 3e catégorie devant être pourvue au choix dans les conditions qui précèdent est annoncée au Bulletin officiel du ministère de la santé publique et de la sécurité sociale. Un délai de quinze jours à compter de la publication de l'avis de vacance est accordé aux candidats pour faire parvenir leur demande à l'autorité investie du pouvoir de nomination.
