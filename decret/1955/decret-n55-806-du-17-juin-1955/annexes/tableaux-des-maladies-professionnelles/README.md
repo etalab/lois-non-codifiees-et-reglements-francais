@@ -14,4 +14,5 @@
 - [40° Intoxication professionnelle par l'oxyde de carbone](40-intoxication-professionnelle-par)
 - [41° Intoxications professionnelles par l'hexane](41-intoxications-professionnelles-par)
 - [42° Maladies professionnelles provoquées par le cadmium et ses composés.](42-maladies-professionnelles-provoquees-par)
+- [46° Affections professionnelles provoquées par les bruits](46-affections-professionnelles-provoquees-par)
 - [9° Intoxication professionnelle par le tétrachlorure de carbone.](9-intoxication-professionnelle-par)
