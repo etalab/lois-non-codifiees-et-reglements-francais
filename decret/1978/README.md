@@ -32,6 +32,7 @@
 - [Décret n°78-394 du 20 mars 1978](decret-n78-394-du-20-mars-1978)
 - [Décret n°78-399 du 20 mars 1978](decret-n78-399-du-20-mars-1978)
 - [Décret n°78-467 du 22 mars 1978](decret-n78-467-du-22-mars-1978)
+- [Décret n°67-238 du 23 mars 1967](decret-n67-238-du-23-mars-1967)
 - [Décret n°78-409 du 23 mars 1978](decret-n78-409-du-23-mars-1978)
 - [Décret n°78-415 du 23 mars 1978](decret-n78-415-du-23-mars-1978)
 - [Décret n°78-417 du 23 mars 1978](decret-n78-417-du-23-mars-1978)
