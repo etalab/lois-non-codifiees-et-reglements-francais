@@ -11,6 +11,7 @@
 - [Décret n°81-482 du 8 mai 1981](decret-n81-482-du-8-mai-1981)
 - [Décret n°73-259 du 9 mars 1973](decret-n73-259-du-9-mars-1973)
 - [Décret n°81-1094 du 9 décembre 1981](decret-n81-1094-du-9-decembre-1981)
+- [Décret n°81-862 du 9 septembre 1981](decret-n81-862-du-9-septembre-1981)
 - [Décret n°81-1008 du 10 novembre 1981](decret-n81-1008-du-10-novembre-1981)
 - [Décret n°81-224 du 10 mars 1981](decret-n81-224-du-10-mars-1981)
 - [Décret n°81-1095 du 11 décembre 1981](decret-n81-1095-du-11-decembre-1981)
