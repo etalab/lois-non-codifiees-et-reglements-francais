@@ -1,7 +1,7 @@
 # Article 20
 
-La veuve ou la femme divorcée qui contracte un nouveau mariage [*remariage*] ou vit en état de concubinage notoire perd son droit à pension [*pension de réversion*].
+Le conjoint survivant ou l'ex-conjoint divorcé qui contracte un nouveau mariage, ou vit en état de concubinage notoire, perd son droit à pension.
 
-Les droits qui lui appartenaient ou qui lui auraient appartenu passent aux enfants mineurs dans les conditions prévues au second alinéa de l'article 17.
+Les droits qui leur appartenaient ou qui leur auraient appartenu passent aux enfants âgés de moins de vingt et un ans dans les conditions prévues au second alinéa de l'article 17.
 
-La veuve remariée, redevenue veuve ou divorcée ou séparée de corps, ainsi que la veuve qui cesse de vivre en état de concubinage notoire peut, si elle le désire, recouvrer son droit à pension et demander qu'il soit mis fin à l'application qui a pu être faite des dispositions de l'alinéa précédent.
+Le conjoint survivant ou l'ex-conjoint divorcé, dont la nouvelle union est dissoute, ou qui cesse de vivre en état de concubinage notoire peut, s'il le désire, recouvrer son droit à pension et demander qu'il soit mis fin à l'application qui a pu être faite des dispositions de l'alinéa précédent.
