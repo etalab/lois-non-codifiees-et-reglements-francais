@@ -1,0 +1,3 @@
+# Article 2
+
+Le directeur de l'administration générale, du personnel et du budget au ministère des affaires sociales, du travail et de la solidarité et au ministère de la santé, de la famille et des personnes handicapées, le directeur du budget au ministère de l'économie, des finances et de l'industrie et au ministère du budget et à la réforme budgétaire et le directeur général de l'administration et de la fonction publique au ministère de la fonction publique, de la réforme de l'Etat et de l'aménagement du territoire sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
