@@ -8,7 +8,7 @@ Les plantes et substances ou préparations classées comme stupéfiants en appli
 
 Les plantes et substances ou préparations classées comme psychotropes en application de l'article L. 5132-7 du code de la santé publique.
 
-Les substances interdites ou réglementées au sens de l'article L. 934-2 du code rural.
+Les substances interdites ou réglementées au sens des I à IV de l'article L. 234-2 du code rural.
 
 2. Marchandises dangereuses pour la sécurité publique.
 
