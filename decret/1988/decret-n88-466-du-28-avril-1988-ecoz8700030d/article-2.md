@@ -31,3 +31,9 @@ m) Les textiles finis sous la forme sous laquelle ils sont destinés à être fo
 n) Le feutre bitumé pour toitures.
 
 Toutefois, les dispositions du présent article ne s'appliquent aux filtres à usages médicaux qu'à compter du 1er janvier 1995 et aux diaphragmes des cellules d'électrolyse à compter du 1er janvier 1999.
+
+o) Les articles à usage domestique suivants : grille-pain, dispositifs de répartition de chaleur, tables à repasser, housses de tables à repasser, repose-fer, appareils de chauffage mobiles, panneaux isolants destinés au bricolage ;
+
+p) Les panneaux isolants en carton à usage professionnel ;
+
+q) Les matériaux destinés au calorifugeage des équipements de chauffage, des canalisations et des gaines.
