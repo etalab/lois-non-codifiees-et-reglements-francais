@@ -1,5 +1,9 @@
 # Article 110
 
-Par dérogation aux dispositions de l'article 53 (alinéa 2), les personnes physiques et morales visées aux articles 61, 62 ou 64 de la loi susvisée du 31 décembre 1971, peuvent conserver les bureaux annexes qu'elles avaient ouverts, avant le 1er juillet 1971, hors du ressort de la cour d'appel où elles ont établi leur siège social, à condition d'en faire la déclaration lors du dépôt de leur demande d'inscription.
+La personne physique ou morale inscrite sur une liste de conseils juridiques peut établir un ou plusieurs bureaux annexes.
 
-Elles peuvent, ultérieurement, être autorisées par le garde des sceaux, ministre de la justice, si elles justifient de motifs sérieux, à transférer l'un ou plusieurs de ces bureaux.
+Elle en informe le procureur de la République près le tribunal de grande instance dans le ressort duquel se situe son domicile professionnel ou son siège social et lui fournit, le cas échéant, l'identité des associés et des collaborateurs appelés à exercer en permanence leurs activités dans ce bureau.
+
+L'un de ceux-ci au moins doit être lui-même inscrit sur la liste des conseils juridiques établie par le procureur de la République près le tribunal de grande instance dans le ressort desquels sont situés ces bureaux annexes.
+
+Les renseignements concernant l'ouverture de bureaux annexes par des conseils juridiques sont en outre communiqués par le procureur de la République aux procureurs de la République près les tribunaux de grande instance dans le ressort desquels sont situés ces bureaux annexes.
