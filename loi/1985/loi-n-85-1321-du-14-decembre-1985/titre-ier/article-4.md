@@ -1,0 +1,3 @@
+# Article 4
+
+Sous réserve des décisions de justice passées en force de chose jugée, les créances transférées au crédit d'équipement des petites et moyennes entreprises lors de sa création par la caisse centrale de crédit hôtelier, commercial et industriel, la Caisse nationale des marchés de l'Etat et le groupement interprofessionnel des petites et moyennes entreprises, sont valablement dévolues au crédit d'équipement et à l'égard des tiers à la date de leur transfert, avec les privilèges et hypothèques dont elles étaient éventuellement assorties sans qu'il y ait lieu de procéder aux formalités des articles 1690 et 2149 du code civil.
