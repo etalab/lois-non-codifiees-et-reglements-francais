@@ -1,7 +1,5 @@
 # Article 70-6
 
-1. Chaque assuré peut demander, à partir de son soixantième anniversaire [*âge*], la liquidation d'une pension de vieillesse dans les conditions prévues aux articles L. 331 à L. 335 du code de la sécurité sociale.
+L'assuré âgé de plus de soixante-cinq ans et qui ne justifie pas de 150 trimestres d'assurance dans le régime général de la sécurité sociale bénéficie, en application de l'article L. 342-3 du code de la sécurité sociale, d'une majoration de sa durée d'assurance dans ce régime égale à 2,5 p. 100 par trimestre postérieur à son soixante-cinquième anniversaire sans que cette majoration puisse avoir pour effet de porter au-delà de 150 trimestres sa durée d'assurance.
 
-2. L'assuré indique la date à compter de laquelle il désire entrer en jouissance de sa pension ou de sa rente, cette date étant nécessairement le premier jour d'un mois [*point de départ*] et ne pouvant être antérieure ni au dépôt de la demande ni au soixantième ou au soixante-cinquième anniversaire de l'intéressé selon qu'il s'agit d'une pension ou d'une rente. Si l'assuré ne fixe pas l'entrée en jouissance de sa pension ou rente, celle-ci prend effet au premier jour du mois suivant la réception de la demande par la caisse régionale d'assurance vieillesse.
-
-L'entrée en jouissance de la pension allouée pour inaptitude au travail ne peut être fixée à une date antérieure au premier jour du mois suivant la date à partir de laquelle l'inaptitude a été reconnue.
+Le nombre total de trimestres d'assurance obtenu en application de l'alinéa précédent est éventuellement arrondi au chiffre immédiatement supérieur, sans pouvoir excéder 150.
