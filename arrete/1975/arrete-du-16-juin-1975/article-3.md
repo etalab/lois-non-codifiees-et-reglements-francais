@@ -2,7 +2,7 @@
 
 Les coefficients d'équivalence et les seuils d'application valant abattement à la base, applicables aux élevages ne nécessitant pas l'utilisation du sol agricole sont fixés comme suit :
 
-BRANDES ET BRENNE
+SUNDGAU, JURA, RIED, COLLINES VOSGIENNES, MONTAGNE VOSGIENNE
 
 NATURE DE L'ELEVAGE :
 
@@ -10,31 +10,31 @@ I. Aviculture et cuniculiculture
 
 Equivalence en ares pour 1 m2 de clapier ou de poulailler
 
-Poules pondeuses et reproductrices : 2,4 a
+Poules pondeuses : 1,5 a
 
-Poulets de chair : 1,2 a
+Poulets de chair : 0,75 a
 
-Lapins : 6,0 a
+Dindons : 0,75 a
+
+Pintades : 0,75 a
+
+Lapins : 3,7 a
 
 NATURE DE L'ELEVAGE :
 
-II. Elevage porcin et bovin
+II. Elevages porcin et bovin
 
 Equivalence en hectares par animal
 
-Truies (naisseurs) : 0,36 ha
+Truies (naisseurs) : 0,22 ha
 
-Truies (naisseurs-engraisseurs) : 0,72 ha
+Truies (naisseurs-engraisseurs) : 0,44 ha
 
-Porcs à l'engrais : 0,030 ha
+Porcs à l'engrais : 0,018 ha
 
-Veaux en batterie : 0,060 ha
+Veaux en batterie : 0,037 ha
 
-III. Elevages divers
-
-Elevage caprin (équivalence pour 1 hectare) : 4 chèvres
-
-RESTE DU DEPARTEMENT
+HARDT, OCHSENFELD, PLAINE DU RHIN
 
 NATURE DE L'ELEVAGE :
 
@@ -42,29 +42,29 @@ I. Aviculture et cuniculiculture
 
 Equivalence en ares pour 1 m2 de clapier ou de poulailler
 
-Poules pondeuses et reproductrices : 1,9 a
+Poules pondeuses : 2,2 a
 
-Poulets de chair : 0,95 a
+Poulets de chair : 1,1 a
 
-Lapins : 4,7 a
+Dindons : 1,1 a
+
+Pintades : 1,1 a
+
+Lapins : 5,4 a
 
 NATURE DE L'ELEVAGE :
 
-II. Elevage porcin et bovin
+II. Elevages porcin et bovin
 
 Equivalence en hectares par animal
 
-Truies (naisseurs) : 0,28 ha
+Truies (naisseurs) : 0,33 ha
 
-Truies (naisseurs-engraisseurs) : 0,56 ha
+Truies (naisseurs-engraisseurs) : 0,66 ha
 
-Porcs à l'engrais : 0,023 ha
+Porcs à l'engrais : 0,027 ha
 
-Veaux en batterie : 0,047 ha
-
-III. Elevages divers
-
-Elevage caprin (équivalence pour 1 hectare) : 4 chèvres
+Veaux en batterie : 0,054 ha
 
 SEUILS D'APPLICATION VALANT ABATTEMENT A LA BASE
 
@@ -74,15 +74,19 @@ I. Aviculture et cuniculiculture
 
 Equivalence en ares pour 1 m2 de clapier ou de poulailler
 
-Poules pondeuses et reproductrices : 75 m2
+Poules pondeuses : 75 m2
 
 Poulets de chair : 150 m2
+
+Dindons : 150 m2
+
+Pintades : 150 m2
 
 Lapins : 30 m2
 
 NATURE DE L'ELEVAGE :
 
-II. Elevage porcin et bovin
+II. Elevages porcin et bovin
 
 Equivalence en hectares par animal
 
@@ -93,7 +97,3 @@ Truies (naisseurs-engraisseurs) : 2,5 truies
 Porcs à l'engrais : 60 porcs (an)
 
 Veaux en batterie : 30 veaux (an)
-
-III. Elevages divers
-
-Elevage caprin (équivalence pour 1 hectare) : 4 chèvres

@@ -1,9 +1,9 @@
 # Article 1
 
-Les superficies minima d'installation en polyculture visées à l'article 188-3 du Code rural sont fixées ainsi qu'il suit pour le département de Vaucluse (en hectares) :
+Les superficies minima d'installation en polyculture visées à l'article 188-3 du Code rural sont fixées ainsi qu'il suit pour le département du Haut-Rhin (en hectares) :
 
-Plateau de Saint-Christol : 45
+Montagne vosgienne, Sundgau, Jura, Ried, collines vosgiennes :
 
-Monts du Ventoux et du Lubéron : 40
+17
 
-Reste du département : 35.
+Hardt, Ochsenfeld, plaine du Rhin : 25.

@@ -1,9 +1,7 @@
 # Article 4
 
-La superficie maximum des cumuls visée à l'article 188-1 du Code rural est fixée à trois fois la superficie minimum d'installation soit (en hectares ) :
+Les superficies maxima des cumuls visées à l'article 188-1 du Code rural sont fixées comme suit (en hectares) :
 
-Plateau de Saint-Christol : 135
+Collines vosgiennes, montagne vosgienne, Sundgau, Jura, Ried : 80
 
-Monts du Ventoux et du Lubéron : 120
-
-Reste du département : 105.
+Hardt, Oschenfeld, plaine du Rhin : 120.

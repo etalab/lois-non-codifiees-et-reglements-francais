@@ -2,24 +2,18 @@
 
 Les opérations d'établissement des listes électorales telles qu'elles sont définies aux articles précédents sont effectuées par une commission qui comprend :
 
-1° Avec voix délibérative :
-
-Le juge commis à la surveillance du registre du commerce, président ;
+Le juge commis à la surveillance du registre du commerce et des sociétés, président ;
 
 Un représentant du préfet ;
 
-Un membre de la chambre de commerce et d'industrie intéressée.
+Un membre de la chambre de commerce et d'industrie intéressée désigné par le président de cette chambre. Lorsque la chambre est administrée par une délégation spéciale, conformément aux dispositions de l'article 67 ci-après, elle est représentée par le président de la délégation ou le membre de celle-ci qu'il désigne pour le suppléer.
 
-2° Avec voix consultative ;
+Le secrétariat de cette commission est assuré par le greffier du tribunal de commerce ou du tribunal de grande instance en tenant lieu, en liaison avec le secrétaire général de la chambre de commerce et d'industrie.
 
-Le greffier du tribunal de commerce ou du tribunal de grande instance en tenant lieu ;
+Le greffier établit un projet de liste qui comprend les inscriptions d'office prévues à l'article 5 ci-dessus, sur la base des immatriculations au registre du commerce et des sociétés. La chambre de commerce et d'industrie complète ce projet par les inscriptions sur demande prévues à l'article 6 ci-dessus et répartit l'ensemble des inscriptions entre les communes, les catégories et éventuellement les sous-catégories professionnelles.
 
-Le délégué de la chambre de commerce et d'industrie peut se faire assister du secrétaire général de ladite chambre ;
+La commission, qui se réunit à partir du 1er avril sur convocation de son président, est saisie par le greffier et la chambre de commerce et d'industrie du projet ainsi établi. Elle reçoit, en outre, les propositions de modifications et radiations que la chambre de commerce et d'industrie propose à partir des renseignements en sa possession.
 
-Le greffier assure le secrétariat de la commission et effectue les travaux que celle-ci lui confie. Il est rémunéré dans les conditions fixées par arrêté du garde des sceaux, ministre de la justice.
+La commission établit la liste électorale définitive qui est transmise au plus tard le 31 juillet par son président au préfet avec un procès-verbal signé de tous ses membres.
 
-Lorsque les circonscriptions de deux ou plusieurs juridictions commerciales ont été modifiées les unes par rapport aux autres, les greffiers de ces juridictions procèdent entre eux, s'il y a lieu, à toutes les communications utiles pour permettre à la commission dont ils assurent respectivement le secrétariat, d'établir les listes électorales conformément aux dispositions de l'article 7.
-
-La commission se réunit sur convocation de son président à partir du 1er janvier de l'année du renouvellement triennal des chambres de commerce et d'industrie prévu à l'article 47.
-
-Le président transmet, au plus tard le 10 juin, les listes au préfet, accompagnées d'un procès-verbal signé de tous les membres de la commission.
+Le greffier est rémunéré dans les conditions fixées par arrêté du garde des sceaux, ministre de la justice.

@@ -24,4 +24,4 @@ Les représentants des commerçants, des chefs d'entreprises immatriculées au r
 
 Les électeurs à titre personnel et les représentants doivent être français ou naturalisés français. Les naturalisés doivent satisfaire aux conditions prévues par les articles 41, 81, 82 et 83 de l'ordonnance n° 45-2441 du 19 octobre 1945 portant code de la nationalité française.
 
-La qualité d'électeur s'apprécie au 31 décembre de l'année précédant celle de l'établissement de la liste.
+La qualité d'électeur s'apprécie au 31 mars de l'année d'établissement de la liste électorale en vue du renouvellement triennal des membres de la chambre de commerce et d'industrie.
