@@ -2,7 +2,7 @@
 
 Au titre du 1° de l'article 6, deux concours distincts sont ouverts :
 
-1° Le concours externe ouvert aux candidats âgés de trente-cinq ans au plus au 1er janvier de l'année du concours et titulaires de l'un des diplômes ou des titres exigés pour se présenter au premier concours d'entrée à l'Ecole nationale d'administration.
+1° Le concours externe ouvert aux candidats âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours et titulaires de l'un des diplômes ou des titres exigés pour se présenter au premier concours d'entrée à l'Ecole nationale d'administration.
 
 Le concours est ouvert aux candidats remplissant les conditions d'âge et titulaires d'un diplôme délivré dans un des Etats membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen et dont l'assimilation, pour l'application du présent décret, avec l'un des diplômes prévus à l'alinéa précédent aura été reconnue par la commission prévue par le décret du 30 août 1994 relatif à l'assimilation, pour l'accès aux concours de la fonction publique de l'Etat, des diplômes délivrés dans d'autres Etats membres de la Communauté européenne.
 

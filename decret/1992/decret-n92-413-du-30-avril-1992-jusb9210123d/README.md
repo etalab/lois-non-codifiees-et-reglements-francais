@@ -5,4 +5,5 @@
 - [CHAPITRE III : Avancement.](chapitre-iii)
 - [CHAPITRE IV : Dispositions particulières.](chapitre-iv)
 - [CHAPITRE V : Dispositions transitoires.](chapitre-v)
+- [Article 17](article-17.md)
 - [Article 55](article-55.md)
