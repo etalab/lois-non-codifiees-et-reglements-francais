@@ -3,4 +3,5 @@
 - [Titre Ier : Organisation administrative et technique.](titre-ier)
 - [Titre II : Dispositions financières.](titre-ii)
 - [Titre III : Dispositions diverses.](titre-iii)
+- [Article 16](article-16.md)
 - [Exposé des motifs.](expose-des-motifs)
