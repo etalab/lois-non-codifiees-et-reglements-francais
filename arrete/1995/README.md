@@ -1432,7 +1432,6 @@
 - [Arrêté du 30 décembre 1995 (TASS9523561A)](arrete-du-30-decembre-1995-tass9523561a)
 - [Arrêté du 30 janvier 1995 (LOGC9500005A)](arrete-du-30-janvier-1995-logc9500005a)
 - [Arrêté du 30 janvier 1995 (LOGC9500006A)](arrete-du-30-janvier-1995-logc9500006a)
-- [Arrêté du 30 juin 1995 (EQUM9501832A)](arrete-du-30-juin-1995-equm9501832a)
 - [Arrêté du 30 mars 1995 (ECOT9510233A)](arrete-du-30-mars-1995-ecot9510233a)
 - [Arrêté du 30 mars 1995 (ECOT9510235A)](arrete-du-30-mars-1995-ecot9510235a)
 - [Arrêté du 30 mars 1995 (LOGC9500008A)](arrete-du-30-mars-1995-logc9500008a)
