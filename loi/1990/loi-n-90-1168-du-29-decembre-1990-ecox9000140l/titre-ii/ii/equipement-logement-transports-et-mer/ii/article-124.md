@@ -18,7 +18,7 @@ a) Un élément égal au produit de la superficie de l'emprise au sol des ouvrag
 
 3. 200 F par mètre carré pour une emprise située dans une commune de plus de 100 000 habitants ;
 
-b) Un élément égal au produit du volume prélevable ou rejetable par l'ouvrage par un taux de base compris entre 1 et 3 centimes par mètre cube prélevable ou rejetable, et identique pour tous les usagers. A ce deuxième élément est appliqué un coefficient d'abattement compris entre 90 et 97 p. 100 pour les usages agricoles et entre 10 et 30 p. 100 pour les usages industriels.
+b) Un élément égal au produit du volume prélevable ou rejetable par l'ouvrage par un taux de base compris entre 1 et 3 centimes par mètre cube prélevable ou rejetable, et identique pour tous les usagers. A ce deuxième élément est appliqué un coefficient d'abattement compris entre 90 et 97 p. 100 pour les usages agricoles et entre 10 et 30 p. 100 pour les usages industriels.    Pour les ouvrages hydroélectriques autorisés en application de la loi du 16 octobre 1919 précitée, le second élément est égal au produit de la puissance maximale brute autorisée de la chute par un taux de base compris entre 40 F et 120 F par kilowatt.
 
 Les titulaires d'ouvrages mentionnés au premier alinéa du II du présent article doivent adresser chaque année au comptable de l'établissement public une déclaration accompagnée du paiement de la taxe due.
 

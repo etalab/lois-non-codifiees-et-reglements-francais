@@ -5,3 +5,5 @@
 2. Le transfert de titres en dépôt sur un compte d'épargne en actions mentionné à l'article 199 quinquies du code général des impôts porte sur la totalité des titres en dépôt qui répondent aux conditions posées à l'article 2 de la présente loi. Dans ce cas, la reprise mentionnée à l'article 199 quinquies B n'est pas effectuée.
 
 3. Ces opérations de transfert sont assimilées à des cessions pour l'application des dispositions de l'article 92 B du code général des impôts, sauf si elles portent sur des titres acquis ou souscrits à compter du 1er avril 1992.
+
+4. Du 1er janvier au 31 mars 1993 [*prolongation du délai*], les versements peuvent être constitués en tout ou partie par le transfert de titres dans les conditions prévues aux 1 et 2. Ces opérations de transfert sont assimilées à des cessions pour l'application des dispositions de l'article 92 B du code général des impôts. Ces dispositions s'appliquent aux plans d'épargne en actions ouverts à compter du 1er janvier 1993.

@@ -7,6 +7,7 @@
 - [2. Mesures en faveur de l'agriculture.](2-mesures-en-faveur-de-l-agriculture)
 - [2. Mesures en faveur du logement.](2-mesures-en-faveur-du-logement)
 - [3. Mesures diverses](3-mesures-diverses)
+- [4. Mesures en faveur de l'environnement.](4-mesures-en-faveur-de-l-environnement)
 - [Anciens combattants](anciens-combattants)
 - [B. Autres mesures](b)
 - [3.Mesures en faveur de l'investissement et de l'emploi.](3-mesures-en-faveur-de-l-investissement-et)
