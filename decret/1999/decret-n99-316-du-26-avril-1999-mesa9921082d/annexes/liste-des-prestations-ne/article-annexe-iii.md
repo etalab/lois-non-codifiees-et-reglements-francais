@@ -1,6 +1,6 @@
 # Article Annexe III
 
-a) Les soins avec ou sans hébergement mentionnés au 1° de l'article L. 711-2 du code de la santé publique incluant les prises en charge au sein des structures de soins alternatives à l'hospitalisation définies à l'article R. 712-2-1 ;
+a) Les soins avec ou sans hébergement mentionnés au 1° de l'article L. 711-2 du code de la santé publique incluant les prises en charge au sein des structures de soins alternatives à l'hospitalisation définies à l'article R. 712-2-1 et les prestations visées à l'article R. 712-2-2 du code de la santé publique ;
 
 b) Les séjours et interventions de services de suppléance aux insuffisants rénaux et respiratoires chroniques ;
 
@@ -12,7 +12,7 @@ e) Les dispositifs médicaux visés à l'article L. 665-3 du code de la santé p
 
 f) Les examens médicaux nécessitant le recours à des équipements matériels lourds définis au II de l'article R. 712-2 du code de la santé publique, lorsque ces examens ne nécessitent pas d'hospitalisation de la personne ;
 
-g) Les honoraires et les prescriptions des médecins spécialistes libéraux ;
+g) Les honoraires des médecins spécialistes libéraux ;
 
 h) Les transports sanitaires ;
 
