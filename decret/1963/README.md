@@ -38,7 +38,6 @@
 - [Décret n°63-592 du 24 juin 1963](decret-n63-592-du-24-juin-1963)
 - [Décret n°63-887 du 24 août 1963](decret-n63-887-du-24-aout-1963)
 - [Décret n°65-327 du 24 avril 1965](decret-n65-327-du-24-avril-1965)
-- [Décret n°63-1183 du 25 novembre 1963](decret-n63-1183-du-25-novembre-1963)
 - [Décret n°63-763 du 25 juillet 1963](decret-n63-763-du-25-juillet-1963)
 - [Décret n°63-765 du 25 juillet 1963](decret-n63-765-du-25-juillet-1963)
 - [Décret n°63-528 du 25 mai 1963](decret-n63-528-du-25-mai-1963)
