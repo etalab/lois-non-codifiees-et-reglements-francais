@@ -72,6 +72,7 @@
 - [Décret n°77-494 du 11 mai 1977](decret-n77-494-du-11-mai-1977)
 - [Décret n°77-1042 du 12 septembre 1977](decret-n77-1042-du-12-septembre-1977)
 - [Décret n°77-1067 du 12 septembre 1977](decret-n77-1067-du-12-septembre-1977)
+- [Décret n°77-1367 du 12 décembre 1977](decret-n77-1367-du-12-decembre-1977)
 - [Décret n°77-44 du 12 janvier 1977](decret-n77-44-du-12-janvier-1977)
 - [Décret n°77-788 du 12 juillet 1977](decret-n77-788-du-12-juillet-1977)
 - [Décret n°77-876 du 12 juillet 1977](decret-n77-876-du-12-juillet-1977)

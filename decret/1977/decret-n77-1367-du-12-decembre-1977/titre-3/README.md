@@ -1,0 +1,4 @@
+# TITRE 3 : DISPOSITIONS COMMUNES RELATIVES AUX SOINS DONNES A L'ETRANGER
+
+- [Article 46](article-46.md)
+- [Article 47](article-47.md)
