@@ -89,6 +89,7 @@
 - [Décret n°2000-588 du 28 juin 2000 (MESO0010485D)](decret-n2000-588-du-28-juin-2000-meso0010485d)
 - [Décret n°2000-598 du 28 juin 2000 (ECOF0000013D)](decret-n2000-598-du-28-juin-2000-ecof0000013d)
 - [Décret n°2000-610 du 28 juin 2000 (FPPA9900195D)](decret-n2000-610-du-28-juin-2000-fppa9900195d)
+- [Décret n°2000-611 du 28 juin 2000 (DEFP0001550D)](decret-n2000-611-du-28-juin-2000-defp0001550d)
 - [Décret n°2000-589 du 29 juin 2000 (MESX0000102D)](decret-n2000-589-du-29-juin-2000-mesx0000102d)
 - [Décret n°2000-590 du 29 juin 2000 (MESP0021943D)](decret-n2000-590-du-29-juin-2000-mesp0021943d)
 - [Décret n°2000-594 du 29 juin 2000 (AGRS0001155D)](decret-n2000-594-du-29-juin-2000-agrs0001155d)
