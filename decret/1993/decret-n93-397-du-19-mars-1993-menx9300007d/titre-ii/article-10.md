@@ -6,7 +6,7 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 2° Il approuve le règlement intérieur ;
 
-3° Il fixe les modalités d'attribution par des commissions spécialisées comprenant des représentants des activités littéraires et des professions concernées, des subventions, prêts et avances prévues à l'article 4 du présent décret, ainsi que les conditions et les modalités de remboursement des prêts et avances ;
+3° Il fixe le nombre, les compétences et les modalités de fonctionnement des commissions spécialisées chargées de donner un avis sur l'attribution des subventions, prêts et avances prévus à l'article 4 du présent décret ; il fixe les conditions générales d'attribution de ces subventions, prêts et avances et il définit les conditions et les modalités de remboursement des prêts et avances ;
 
 4° Il adopte le rapport annuel d'activités ;
 

@@ -8,7 +8,7 @@ Le président dirige l'établissement public. A ce titre :
 
 3° Il est l'ordonnateur des recettes et des dépenses de l'établissement dans les conditions prévues par les décrets du 10 décembre 1953 et du 29 décembre 1962 susvisés ;
 
-4° Il attribue les subventions, prêts et avances prévues à l'article 4 du présent décret selon les modalités prévues au 3° de l'article 10 ;
+4° Il attribue les subventions, prêts et avances prévus à l'article 4 du présent décret ;
 
 5° Il a autorité sur le personnel. Il recrute les personnels contractuels. Il donne son avis sur l'affectation des personnels titulaires à l'établissement ;
 
@@ -17,3 +17,5 @@ Le président dirige l'établissement public. A ce titre :
 7° Il arrête les décisions modificatives provisoires portant sur le budget de l'établissement dans les conditions fixées à l'article 20 ci-après.
 
 Le président peut déléguer sa signature au secrétaire général et aux responsables des services de l'établissement, à l'exception des décisions d'attribution des subventions, prêts et avances.
+
+8° Il propose au ministre chargé de la culture la nomination du président et des membres des commissions spécialisées prévues au 3° de l'article 10 du présent décret.

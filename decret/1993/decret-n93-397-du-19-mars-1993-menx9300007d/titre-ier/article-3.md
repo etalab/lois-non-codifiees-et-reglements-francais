@@ -13,3 +13,5 @@ Outre les compétences fixées par l'article 2 de la loi du 11 octobre 1946 susv
 5° De favoriser la traduction d'oeuvres étrangères en français et d'oeuvres françaises en langue étrangère ;
 
 6° D'intensifier les échanges littéraires en France et à l'étranger et de concourir à toutes actions pour la promotion de la lecture et du livre susceptibles de contribuer à la diffusion et au rayonnement du livre français.
+
+7° De favoriser les commandes par les bibliothèques, les établissements culturels et les librairies, en France et à l'étranger, des ouvrages de langue française dont la diffusion présente un intérêt culturel, scientifique, technique ou touchant à la francophonie.

@@ -4,3 +4,4 @@
 - [TITRE II : DISPOSITIONS RELATIVES AUX EXAMENS.](titre-ii)
 - [TITRE III : DÉLIVRANCE DES CERTIFICATS.](titre-iii)
 - [Article 24](article-24.md)
+- [Annexes](annexes)
