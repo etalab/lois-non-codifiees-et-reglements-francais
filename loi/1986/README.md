@@ -58,4 +58,3 @@
 - [Loi n°86-1303 du 23 décembre 1986](loi-n86-1303-du-23-decembre-1986)
 - [Loi n°86-1321 du 30 décembre 1986](loi-n86-1321-du-30-decembre-1986)
 - [Loi n°86-19 du 6 janvier 1986](loi-n86-19-du-6-janvier-1986)
-- [Loi n°86-75 du 17 janvier 1986](loi-n86-75-du-17-janvier-1986)
